@@ -55,7 +55,7 @@ Indexed users: 132
 | 16 | [felixuxx](https://github.com/felixuxx) | ... | Juba, South Sudan | 268 |
 | 17 | [Wai-Mike](https://github.com/Wai-Mike) | Wai Michael Kat | South Sudan | 261 |
 | 18 | [joseph-akaro](https://github.com/joseph-akaro) | Joseph Akaro | Juba | 215 |
-| 19 | [Konson22](https://github.com/Konson22) | Kon Akech | South Sudan | 195 |
+| 19 | [Konson22](https://github.com/Konson22) | Kon Akech | South Sudan | 194 |
 | 20 | [Ibrahim-Lbib](https://github.com/Ibrahim-Lbib) | Ibrahim Labib | Juba, South - Sudan | 178 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 132
 | 19 | [Amalsouthsudan23](https://github.com/Amalsouthsudan23) | AMAL South Sudan | South Sudan | 15 |
 | 20 | [Codetym](https://github.com/Codetym) | Nelson Mandela D.M.J | Juba, South Sudan  | 14 |
 
-Generated: 2026-10-14T05:20:22.121Z
+Generated: 2026-10-14T06:45:40.629Z

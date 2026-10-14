@@ -1,17 +1,17 @@
 # Public Contributions - Iceland
 
-Generated: 2026-10-14T06:06:38.624Z
+Generated: 2026-10-14T07:27:51.960Z
 
-Users: 1580
+Users: 1579
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [hugithordarson](https://github.com/hugithordarson) | Hugi Thordarson | Góður kóði |  | Rekjavik, Iceland | 5804 |
-| 2 | [karirafn](https://github.com/karirafn) | Kári Rafn Karlsson | EFLA |  | Akranes, Iceland | 3568 |
-| 3 | [HermannBjorgvin](https://github.com/HermannBjorgvin) | Hermann Björgvin | JBT Marel |  | Reykjavík, Iceland | 3008 |
-| 4 | [philcockfield](https://github.com/philcockfield) | Phil Cockfield | ƒ → sys → cell → db.team  |  | island( waiheke( nz )) | 2986 |
-| 5 | [Raudbjorn](https://github.com/Raudbjorn) | Sveinbjörn Geirsson | @massif-network  |  | Reykjavik | 2720 |
-| 6 | [smnasiruz016-blip](https://github.com/smnasiruz016-blip) | Sheikh Muhammad Nasir Uz Zaman | almiworld.com |  | iceland | 2693 |
+| 2 | [smnasiruz016-blip](https://github.com/smnasiruz016-blip) | Sheikh Muhammad Nasir Uz Zaman | almiworld.com |  | iceland | 3953 |
+| 3 | [karirafn](https://github.com/karirafn) | Kári Rafn Karlsson | EFLA |  | Akranes, Iceland | 3568 |
+| 4 | [HermannBjorgvin](https://github.com/HermannBjorgvin) | Hermann Björgvin | JBT Marel |  | Reykjavík, Iceland | 3008 |
+| 5 | [philcockfield](https://github.com/philcockfield) | Phil Cockfield | ƒ → sys → cell → db.team  |  | island( waiheke( nz )) | 2986 |
+| 6 | [Raudbjorn](https://github.com/Raudbjorn) | Sveinbjörn Geirsson | @massif-network  |  | Reykjavik | 2720 |
 | 7 | [bjorndarri](https://github.com/bjorndarri) | Björn Darri Sigurðsson |  |  | Reykjavík, Iceland | 2477 |
 | 8 | [gardarthorsteins](https://github.com/gardarthorsteins) | Garðar Þorsteinsson | Vettvangur |  | Reykjavík, Iceland | 2405 |
 | 9 | [jokull](https://github.com/jokull) | Jökull Sólberg Auðunsson | @trip-to-japan  | jokull | Reykjavík, Iceland | 2163 |

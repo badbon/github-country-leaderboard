@@ -1,6 +1,6 @@
 # Bangladesh
 
-Indexed users: 55,318
+Indexed users: 55,316
 
 | Leaderboard | Link |
 |---|---|
@@ -24,7 +24,7 @@ Indexed users: 55,318
 | 10 | [mralaminahamed](https://github.com/mralaminahamed) | Al Amin Ahamed | Dhaka, Bangladesh | 29,063 |
 | 11 | [MusfiqDehan](https://github.com/MusfiqDehan) | Md. Musfiqur Rahaman | Baridhara DOHS, Dhaka, Bangladesh | 26,666 |
 | 12 | [myselfhridoy](https://github.com/myselfhridoy) | Hridoy Matber | Dhaka, Bangladesh | 24,965 |
-| 13 | [JahidGittu](https://github.com/JahidGittu) | Jahid Hossen | Raipur, Lakshmipur, Chittagong, Bangladesh. | 21,953 |
+| 13 | [JahidGittu](https://github.com/JahidGittu) | Jahid Hossen | Raipur, Lakshmipur, Chittagong, Bangladesh. | 22,698 |
 | 14 | [selim121](https://github.com/selim121) | Md Selim Hossain | Dhaka, Bangladesh | 21,126 |
 | 15 | [Azimul-Haque](https://github.com/Azimul-Haque) | A. H. M. Azimul Haque | Dhaka, Bangladesh | 20,630 |
 | 16 | [DevZonayed](https://github.com/DevZonayed) | Jonayed Ahamed | Naogaon,Dhaka,Bangladesh | 19,660 |
@@ -83,4 +83,4 @@ Indexed users: 55,318
 | 19 | [hasancse91](https://github.com/hasancse91) | Abdullah Al Hasan | Dhaka, Bangladesh | 1,916 |
 | 20 | [raufurislam](https://github.com/raufurislam) | Raufur Islam | Jamalpur Sadar Upazila, Bangladesh | 1,822 |
 
-Generated: 2026-10-14T05:45:05.342Z
+Generated: 2026-10-14T07:04:08.253Z

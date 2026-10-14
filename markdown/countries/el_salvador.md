@@ -1,6 +1,6 @@
 # El Salvador
 
-Indexed users: 2,376
+Indexed users: 2,375
 
 | Leaderboard | Link |
 |---|---|
@@ -17,21 +17,21 @@ Indexed users: 2,376
 | 3 | [Thrumanshow](https://github.com/Thrumanshow) | Cristhiam Leonardo Hernández Quiñonez  | El Salvador  | 10,365 |
 | 4 | [jromerojarj](https://github.com/jromerojarj) | Jonathan Romero | San Salvador, El Salvador | 9,862 |
 | 5 | [heycesar](https://github.com/heycesar) | César A. Ramírez | El Salvador | 7,926 |
-| 6 | [martirale](https://github.com/martirale) | Alejandro Mártir | El Salvador | 6,938 |
-| 7 | [dgerardoflores](https://github.com/dgerardoflores) | Gerardo Flores | El Salvador | 6,304 |
-| 8 | [sthbryan](https://github.com/sthbryan) | Bryan Villafuerte | El Salvador | 6,223 |
-| 9 | [josealvarado3a](https://github.com/josealvarado3a) | José Alvarado | El Salvador | 6,010 |
-| 10 | [DesKevinMendez](https://github.com/DesKevinMendez) | Kevin Mendez | El Salvador | 5,699 |
-| 11 | [raarevalo96](https://github.com/raarevalo96) | Rodrigo Arévalo | San Salvador, El Salvador | 4,921 |
-| 12 | [eduard-gonzalez](https://github.com/eduard-gonzalez) | Efrain Gonzalez | El Salvador | 4,888 |
-| 13 | [wmacall](https://github.com/wmacall) | Macall | El Salvador | 4,863 |
-| 14 | [loviver](https://github.com/loviver) | Oliver Calderón | El Salvador, San Salvador | 4,728 |
-| 15 | [aedneth](https://github.com/aedneth) | Eduardo A. Borjas | San Salvador, El Salvador | 4,698 |
-| 16 | [cativo23](https://github.com/cativo23) | Carlos Cativo | San Salvador, El Salvador | 4,614 |
-| 17 | [ThomasFarstrike](https://github.com/ThomasFarstrike) | Thomas Farstrike | El Zonte, El Salvador | 4,590 |
-| 18 | [lucario028](https://github.com/lucario028) | Lucaritas | El Salvador | 4,586 |
-| 19 | [LemonMantis5571](https://github.com/LemonMantis5571) | Leonel Guerrero | El Salvador | 4,474 |
-| 20 | [striker25](https://github.com/striker25) | Fernando Alvarado | El Salvador | 4,446 |
+| 6 | [MarvinQuevedo](https://github.com/MarvinQuevedo) | Marvin Quevedo | El Salvador | 7,596 |
+| 7 | [dgerardoflores](https://github.com/dgerardoflores) | Gerardo Flores | El Salvador | 7,270 |
+| 8 | [martirale](https://github.com/martirale) | Alejandro Mártir | El Salvador | 6,938 |
+| 9 | [sthbryan](https://github.com/sthbryan) | Bryan Villafuerte | El Salvador | 6,223 |
+| 10 | [josealvarado3a](https://github.com/josealvarado3a) | José Alvarado | El Salvador | 6,010 |
+| 11 | [DesKevinMendez](https://github.com/DesKevinMendez) | Kevin Mendez | El Salvador | 5,699 |
+| 12 | [raarevalo96](https://github.com/raarevalo96) | Rodrigo Arévalo | San Salvador, El Salvador | 4,921 |
+| 13 | [eduard-gonzalez](https://github.com/eduard-gonzalez) | Efrain Gonzalez | El Salvador | 4,888 |
+| 14 | [wmacall](https://github.com/wmacall) | Macall | El Salvador | 4,863 |
+| 15 | [loviver](https://github.com/loviver) | Oliver Calderón | El Salvador, San Salvador | 4,728 |
+| 16 | [aedneth](https://github.com/aedneth) | Eduardo A. Borjas | San Salvador, El Salvador | 4,698 |
+| 17 | [cativo23](https://github.com/cativo23) | Carlos Cativo | San Salvador, El Salvador | 4,614 |
+| 18 | [ThomasFarstrike](https://github.com/ThomasFarstrike) | Thomas Farstrike | El Zonte, El Salvador | 4,590 |
+| 19 | [lucario028](https://github.com/lucario028) | Lucaritas | El Salvador | 4,586 |
+| 20 | [LemonMantis5571](https://github.com/LemonMantis5571) | Leonel Guerrero | El Salvador | 4,474 |
 
 ## Public Contributions
 
@@ -64,7 +64,7 @@ Indexed users: 2,376
 |---:|---|---|---|---:|
 | 1 | [MelvinAguilar](https://github.com/MelvinAguilar) | Melvin Aguilar | El Salvador | 492 |
 | 2 | [Carlos007007](https://github.com/Carlos007007) | Carlos Alfaro | El Salvador | 402 |
-| 3 | [D3Portillo](https://github.com/D3Portillo) | Denny Portillo | El Salvador | 201 |
+| 3 | [D3Portillo](https://github.com/D3Portillo) | Denny Portillo | El Salvador | 205 |
 | 4 | [baylagas](https://github.com/baylagas) | Balbino Aylagas | San Salvador, El Salvador | 185 |
 | 5 | [oicrruf](https://github.com/oicrruf) | Víctor M. Reyes | San Salvador, El Salvador  | 164 |
 | 6 | [ever1509](https://github.com/ever1509) | Ever Orellana | El Salvador | 163 |
@@ -72,8 +72,8 @@ Indexed users: 2,376
 | 8 | [Skalas](https://github.com/Skalas) | Miguel Angel Escalante | San Salvador, El Salvador | 153 |
 | 9 | [ferjoaguilar](https://github.com/ferjoaguilar) | Fernando Jose Aguilar Rivas | El Salvador, San Salvador | 142 |
 | 10 | [Alejandroq12](https://github.com/Alejandroq12) | Julio Quezada | El Salvador | 135 |
-| 11 | [josueayala27](https://github.com/josueayala27) | Josué Ayala | San Salvador | 125 |
-| 12 | [dgerardoflores](https://github.com/dgerardoflores) | Gerardo Flores | El Salvador | 124 |
+| 11 | [dgerardoflores](https://github.com/dgerardoflores) | Gerardo Flores | El Salvador | 125 |
+| 12 | [josueayala27](https://github.com/josueayala27) | Josué Ayala | San Salvador | 125 |
 | 13 | [exequiel-miranda](https://github.com/exequiel-miranda) | Exequiel Miranda | El Salvador | 124 |
 | 14 | [ricardoerl](https://github.com/ricardoerl) | Ricardo Ramírez | El Salvador | 123 |
 | 15 | [DanielRivera03](https://github.com/DanielRivera03) | Daniel Rivera | San Salvador, El Salvador | 120 |
@@ -83,4 +83,4 @@ Indexed users: 2,376
 | 19 | [hherzl](https://github.com/hherzl) | HH | El Salvador | 97 |
 | 20 | [davequinta](https://github.com/davequinta) | David Quintanilla | El Salvador | 96 |
 
-Generated: 2026-10-14T05:55:47.321Z
+Generated: 2026-10-14T07:18:38.420Z

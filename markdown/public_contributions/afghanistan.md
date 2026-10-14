@@ -1,6 +1,6 @@
 # Public Contributions - Afghanistan
 
-Generated: 2026-10-14T05:33:14.142Z
+Generated: 2026-10-14T06:57:30.366Z
 
 Users: 1488
 
@@ -14,8 +14,8 @@ Users: 1488
 | 6 | [alawoddin](https://github.com/alawoddin) | Alawoddin khedmat | tawana |  | kabul | 2601 |
 | 7 | [WiyarAhmadZai](https://github.com/WiyarAhmadZai) | Muhammad Hakeem Wiyar | Wiyar Companies  |  | Kabul khoshal khan | 2578 |
 | 8 | [aliabdullahnasiri](https://github.com/aliabdullahnasiri) | Ali Abdullah Nasiri |  |  | Kabul, Afghanistan | 2206 |
-| 9 | [Ozair0101](https://github.com/Ozair0101) | Mohmmad Ozair Khurami | Hushmand Shahar Tech |  | Kabul, Afghanistan | 1816 |
-| 10 | [imranmalakzai](https://github.com/imranmalakzai) | Imran Malakzai | Hendra.com |  | Afghanistan | 1620 |
+| 9 | [imranmalakzai](https://github.com/imranmalakzai) | Imran Malakzai | Hendra.com |  | Afghanistan | 1620 |
+| 10 | [Ozair0101](https://github.com/Ozair0101) | Mohmmad Ozair Khurami | Hushmand Shahar Tech |  | Kabul, Afghanistan | 1604 |
 | 11 | [abdurrahmanoori](https://github.com/abdurrahmanoori) | Abdurrahman Noori |  |  | Afghanistan  | 1471 |
 | 12 | [ElhamDevelopmentStudio](https://github.com/ElhamDevelopmentStudio) | Elhamullah Hossaini | Netlinks Inc |  | Kabul, Afghanistan | 1442 |
 | 13 | [MohammadNasirAriaee](https://github.com/MohammadNasirAriaee) | Mohammad Nasir Ariaee | AHSP (Afghanistan High Security Printing) | NasirAriaee | Kabul, Afghanistan | 1398 |
@@ -24,5 +24,5 @@ Users: 1488
 | 16 | [Jamalludeen](https://github.com/Jamalludeen) | Jamalludeen Karimi |  |  | Kabul, Afghanistan | 1181 |
 | 17 | [Munib03](https://github.com/Munib03) | Hedayatullah Yamin |  |  | Afghanistan | 1083 |
 | 18 | [AhmadWahebArifi](https://github.com/AhmadWahebArifi) | Ahmad Waheb Arifi | Islamic Bank Of Afghanistan |  | Kabul | 1081 |
-| 19 | [nasir-ehsan-83](https://github.com/nasir-ehsan-83) | Nasir Ahmad Ehsan | Freelancer |  | Herat, Afghanistan | 1077 |
+| 19 | [nasir-ehsan-83](https://github.com/nasir-ehsan-83) | Nasir Ahmad Ehsan | Freelancer |  | Herat, Afghanistan | 1078 |
 | 20 | [Mahdi-Hasanzadeh](https://github.com/Mahdi-Hasanzadeh) | Mahdi Hasanzadeh |  |  | Afghanistan,Herat | 1062 |

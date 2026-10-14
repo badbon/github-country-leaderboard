@@ -24,14 +24,14 @@ Indexed users: 4,232
 | 10 | [ankitmaheshwari-com](https://github.com/ankitmaheshwari-com) | Ankit Maheshwari | United Arab Emirates | 11,188 |
 | 11 | [ahmadpx](https://github.com/ahmadpx) | Ahmed Abdallah | United Arab Emirates | 10,867 |
 | 12 | [Massad](https://github.com/Massad) | Omar Masad | United Arab Emirates, Dubai | 10,605 |
-| 13 | [aenawi](https://github.com/aenawi) | Hashem Aldhaheri | Abu Dhabi, United Arab Emirates | 9,573 |
-| 14 | [Aborii](https://github.com/Aborii) | Abdullah Almofleh | United Arab Emirates, Dubai | 9,537 |
-| 15 | [codemug](https://github.com/codemug) | Usman Shahid | Dubai, United Arab Emirates | 9,519 |
-| 16 | [abegehr](https://github.com/abegehr) | Anton Begehr | Dubai, United Arab Emirates | 9,141 |
-| 17 | [xdaguy](https://github.com/xdaguy) | ABDULLAH HARIS | Abu Dhabi, UAE | 8,796 |
-| 18 | [GoldRbxia12](https://github.com/GoldRbxia12) | GoldRbxia | United Arab Emirates | 8,043 |
-| 19 | [hmimthiaz](https://github.com/hmimthiaz) | Imthiaz Rafiq | Dubai, United Arab Emirates | 7,593 |
-| 20 | [Gr8z](https://github.com/Gr8z) | Mohammad Dohadwala | United Arab Emirates | 7,294 |
+| 13 | [tech-sumit](https://github.com/tech-sumit) | Sumit S. Agrawal | Dubai, United Arab Emirates | 10,163 |
+| 14 | [aenawi](https://github.com/aenawi) | Hashem Aldhaheri | Abu Dhabi, United Arab Emirates | 9,573 |
+| 15 | [Aborii](https://github.com/Aborii) | Abdullah Almofleh | United Arab Emirates, Dubai | 9,537 |
+| 16 | [codemug](https://github.com/codemug) | Usman Shahid | Dubai, United Arab Emirates | 9,519 |
+| 17 | [abegehr](https://github.com/abegehr) | Anton Begehr | Dubai, United Arab Emirates | 9,141 |
+| 18 | [xdaguy](https://github.com/xdaguy) | ABDULLAH HARIS | Abu Dhabi, UAE | 8,796 |
+| 19 | [GoldRbxia12](https://github.com/GoldRbxia12) | GoldRbxia | United Arab Emirates | 8,043 |
+| 20 | [hmimthiaz](https://github.com/hmimthiaz) | Imthiaz Rafiq | Dubai, United Arab Emirates | 7,593 |
 
 ## Public Contributions
 
@@ -47,16 +47,16 @@ Indexed users: 4,232
 | 8 | [dave-hudson](https://github.com/dave-hudson) | Dave Hudson | Abu Dhabi, UAE | 3,411 |
 | 9 | [maddada](https://github.com/maddada) | Mohamad Yahia | Dubai, United Arab Emirates. | 3,334 |
 | 10 | [codemug](https://github.com/codemug) | Usman Shahid | Dubai, United Arab Emirates | 3,200 |
-| 11 | [klkvr](https://github.com/klkvr) | Arsenii Kulikov | Dubai, United Arab Emirates | 2,900 |
-| 12 | [aroff](https://github.com/aroff) | Alex Oliveira | United Arab Emirates | 2,753 |
-| 13 | [haseeb-heaven](https://github.com/haseeb-heaven) | Haseeb Heaven | Dubai,United Arab Emirates | 2,460 |
-| 14 | [drakulavich](https://github.com/drakulavich) | Anton Yakutovich | Abu Dhabi, UAE | 2,378 |
-| 15 | [avinash-mall](https://github.com/avinash-mall) | Avinash Mall | Abu Dhabi | 2,146 |
-| 16 | [fidellim](https://github.com/fidellim) | Fidel Lim | Abu Dhabi, UAE | 2,094 |
-| 17 | [Gaurav-Gosain](https://github.com/Gaurav-Gosain) | Gaurav Gosain | Abu Dhabi, United Arab Emirates | 2,037 |
-| 18 | [FrayxRulez](https://github.com/FrayxRulez) | Fela | Dubai, United Arab Emirates | 2,025 |
-| 19 | [nripankadas07](https://github.com/nripankadas07) | Dr. Nripanka Das | Abu Dhabi | 1,866 |
-| 20 | [sdbondi](https://github.com/sdbondi) | Stan Bondi | Abu Dhabi, United Arab Emirates | 1,833 |
+| 11 | [tech-sumit](https://github.com/tech-sumit) | Sumit S. Agrawal | Dubai, United Arab Emirates | 3,114 |
+| 12 | [klkvr](https://github.com/klkvr) | Arsenii Kulikov | Dubai, United Arab Emirates | 2,900 |
+| 13 | [aroff](https://github.com/aroff) | Alex Oliveira | United Arab Emirates | 2,753 |
+| 14 | [haseeb-heaven](https://github.com/haseeb-heaven) | Haseeb Heaven | Dubai,United Arab Emirates | 2,460 |
+| 15 | [drakulavich](https://github.com/drakulavich) | Anton Yakutovich | Abu Dhabi, UAE | 2,378 |
+| 16 | [avinash-mall](https://github.com/avinash-mall) | Avinash Mall | Abu Dhabi | 2,146 |
+| 17 | [fidellim](https://github.com/fidellim) | Fidel Lim | Abu Dhabi, UAE | 2,094 |
+| 18 | [Gaurav-Gosain](https://github.com/Gaurav-Gosain) | Gaurav Gosain | Abu Dhabi, United Arab Emirates | 2,037 |
+| 19 | [FrayxRulez](https://github.com/FrayxRulez) | Fela | Dubai, United Arab Emirates | 2,025 |
+| 20 | [nripankadas07](https://github.com/nripankadas07) | Dr. Nripanka Das | Abu Dhabi | 1,866 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 4,232
 | 19 | [garylab](https://github.com/garylab) | Gary Meng | Abu Dhabi, UAE | 360 |
 | 20 | [Ahmed-Ali](https://github.com/Ahmed-Ali) | Ahmed Ali | Abu Dhabi | 359 |
 
-Generated: 2026-10-14T05:28:56.056Z
+Generated: 2026-10-14T06:53:50.423Z

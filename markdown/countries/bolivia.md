@@ -1,6 +1,6 @@
 # Bolivia
 
-Indexed users: 1,785
+Indexed users: 1,784
 
 | Leaderboard | Link |
 |---|---|
@@ -55,8 +55,8 @@ Indexed users: 1,785
 | 16 | [alphaonex86](https://github.com/alphaonex86) | BRULE Herman Jacques Roger | Santa cruz de la sierra, Bolivia | 1,106 |
 | 17 | [samuelloza](https://github.com/samuelloza) | Samuel Loza Ramirez | Bolivia | 1,097 |
 | 18 | [nicobytes](https://github.com/nicobytes) | Nicolas Molina Monroy | Cochabamba, Bolivia | 1,085 |
-| 19 | [ospfranco](https://github.com/ospfranco) | Oscar Franco | Bolivia | 1,081 |
-| 20 | [Johan-py](https://github.com/Johan-py) | Johan Marcelo Beltrán Montaño | Cochabamba, Bolivia | 1,042 |
+| 19 | [Johan-py](https://github.com/Johan-py) | Johan Marcelo Beltrán Montaño | Cochabamba, Bolivia | 1,042 |
+| 20 | [nataly-33](https://github.com/nataly-33) | Nataly Vanessa Martinez Martinez | Bolivia | 1,021 |
 
 ## Followers
 
@@ -64,23 +64,23 @@ Indexed users: 1,785
 |---:|---|---|---|---:|
 | 1 | [Frosmin](https://github.com/Frosmin) | Simon Abasto Martinis | Bolivia | 2,319 |
 | 2 | [nicobytes](https://github.com/nicobytes) | Nicolas Molina Monroy | Cochabamba, Bolivia | 1,401 |
-| 3 | [ospfranco](https://github.com/ospfranco) | Oscar Franco | Bolivia | 571 |
-| 4 | [lizarragadev](https://github.com/lizarragadev) | Gustavo Lizárraga | La Paz, Bolivia | 430 |
-| 5 | [Snifer](https://github.com/Snifer) | Snifer | Bolivia | 294 |
+| 3 | [ospfranco](https://github.com/ospfranco) | Oscar Franco | Bolivia | 576 |
+| 4 | [lizarragadev](https://github.com/lizarragadev) | Gustavo Lizárraga | La Paz, Bolivia | 429 |
+| 5 | [Snifer](https://github.com/Snifer) | Snifer | Bolivia | 295 |
 | 6 | [kapit4n](https://github.com/kapit4n) | Luis Arce | Bolivia | 287 |
 | 7 | [SergioRibera](https://github.com/SergioRibera) | Sergio Alejandro Ribera Costa | Santa Cruz de la Sierra, Bolivia | 261 |
 | 8 | [CrisBelDev](https://github.com/CrisBelDev) | Cristian Abel | La Paz, Bolivia | 242 |
 | 9 | [cwpachecol](https://github.com/cwpachecol) | Carlos Walter Pacheco Lora | Sucre - Bolivia | 220 |
 | 10 | [Pericena](https://github.com/Pericena) | Luishiño | Bolivia, Santa Cruz | 197 |
 | 11 | [rivera-ernesto](https://github.com/rivera-ernesto) | Ernesto Rivera | La Paz, Bolivia | 187 |
-| 12 | [alvareztech](https://github.com/alvareztech) | Daniel Alvarez | Bolivia | 177 |
-| 13 | [Lotiel-Dev](https://github.com/Lotiel-Dev) | Carlos Antonio Gutierrez Copara | Bolivia | 170 |
-| 14 | [mariocesar](https://github.com/mariocesar) | Mario-César | Santa Cruz de la Sierra, Bolivia | 170 |
-| 15 | [vitiko98](https://github.com/vitiko98) | Vitiko | Bolivia | 149 |
-| 16 | [luucamay](https://github.com/luucamay) | luucamay | La Paz, Bolivia | 146 |
-| 17 | [AndyIbanez](https://github.com/AndyIbanez) | Andy Ibanez | Bolivia | 138 |
-| 18 | [pazteddy](https://github.com/pazteddy) | Teddy Paz Muñoz | Bolivia | 131 |
-| 19 | [CarlaMamaniChavez](https://github.com/CarlaMamaniChavez) | Carla Vanesa Mamani Chavez | La Paz, Bolivia | 127 |
-| 20 | [alvarosiles11](https://github.com/alvarosiles11) | Alvaro Siles Estrada | Bolivia | 121 |
+| 12 | [Lotiel-Dev](https://github.com/Lotiel-Dev) | Carlos Antonio Gutierrez Copara | Bolivia | 170 |
+| 13 | [mariocesar](https://github.com/mariocesar) | Mario-César | Santa Cruz de la Sierra, Bolivia | 170 |
+| 14 | [vitiko98](https://github.com/vitiko98) | Vitiko | Bolivia | 149 |
+| 15 | [luucamay](https://github.com/luucamay) | luucamay | La Paz, Bolivia | 146 |
+| 16 | [AndyIbanez](https://github.com/AndyIbanez) | Andy Ibanez | Bolivia | 138 |
+| 17 | [pazteddy](https://github.com/pazteddy) | Teddy Paz Muñoz | Bolivia | 133 |
+| 18 | [CarlaMamaniChavez](https://github.com/CarlaMamaniChavez) | Carla Vanesa Mamani Chavez | La Paz, Bolivia | 127 |
+| 19 | [alvarosiles11](https://github.com/alvarosiles11) | Alvaro Siles Estrada | Bolivia | 121 |
+| 20 | [mauforonda](https://github.com/mauforonda) | Mau Foronda | Bolivia | 120 |
 
-Generated: 2026-10-14T05:43:44.700Z
+Generated: 2026-10-14T07:06:55.243Z

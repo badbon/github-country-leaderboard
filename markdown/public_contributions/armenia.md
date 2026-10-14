@@ -1,8 +1,8 @@
 # Public Contributions - Armenia
 
-Generated: 2026-10-14T05:36:38.997Z
+Generated: 2026-10-14T07:02:09.631Z
 
-Users: 4047
+Users: 4045
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -22,7 +22,7 @@ Users: 4047
 | 14 | [HenrikGharagyozyan](https://github.com/HenrikGharagyozyan) | Henrik Gharagyozyan |  |  | Yerevan, Armenia | 1715 |
 | 15 | [nazelizurna](https://github.com/nazelizurna) |  |  |  | Yerevan, Armenia | 1605 |
 | 16 | [tauinbox](https://github.com/tauinbox) | Alexander Tupavov | Personal |  | Armenia | 1590 |
-| 17 | [asiryan](https://github.com/asiryan) | Valery Asiryan |  |  | Armenia, Yerevan | 1577 |
-| 18 | [svyatov](https://github.com/svyatov) | Leonid Svyatov |  |  | Yerevan, Armenia | 1545 |
-| 19 | [projkov](https://github.com/projkov) | Pavel Rozhkov | @beda-software |  | Yerevan, Armenia | 1486 |
-| 20 | [artialex](https://github.com/artialex) | Alexey Selivanov |  | alextheartisan | Yerevan, Armenia | 1449 |
+| 17 | [svyatov](https://github.com/svyatov) | Leonid Svyatov |  |  | Yerevan, Armenia | 1545 |
+| 18 | [projkov](https://github.com/projkov) | Pavel Rozhkov | @beda-software |  | Yerevan, Armenia | 1486 |
+| 19 | [artialex](https://github.com/artialex) | Alexey Selivanov |  | alextheartisan | Yerevan, Armenia | 1449 |
+| 20 | [armanist](https://github.com/armanist) | ArmaX |  |  | Armenia | 1424 |

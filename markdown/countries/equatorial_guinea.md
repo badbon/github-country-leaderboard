@@ -12,10 +12,10 @@ Indexed users: 21
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [vicentehmba](https://github.com/vicentehmba) | VIcente Hugo Mba | Equatorial Guinea | 2,828 |
+| 1 | [vicentehmba](https://github.com/vicentehmba) | VIcente Hugo Mba | Equatorial Guinea | 2,843 |
 | 2 | [alexis-ngoyi](https://github.com/alexis-ngoyi) | Alexis Ngoyi M. | Guinee Equatoriale, Malabo | 319 |
 | 3 | [arongesono12](https://github.com/arongesono12) | Aron Esono Ondo Eyang | Malabo | 254 |
-| 4 | [seamuddin](https://github.com/seamuddin) | Seam uddin | Malabo, Equatorial guinea | 122 |
+| 4 | [seamuddin](https://github.com/seamuddin) | Seam uddin | Malabo, Equatorial guinea | 125 |
 | 5 | [barsie](https://github.com/barsie) | Sirineo Barila  | Equatorial Guinea  | 115 |
 | 6 | [Xenon0001](https://github.com/Xenon0001) | Luis Rafael Eyoma | Bata, Equatorial Guinea | 89 |
 | 7 | [sersobrenatural](https://github.com/sersobrenatural) | Santiago Gabriel Micha Ndong Obiang | Equatorial Guinea  | 27 |
@@ -83,4 +83,4 @@ Indexed users: 21
 | 19 | [melitonio](https://github.com/melitonio) | Meliton Pablo Mangue Mañana | Malabo, Guinea Ecuatorial | 1 |
 | 20 | [petr2rzu](https://github.com/petr2rzu) | Javier |  Equatorial Guinea | 1 |
 
-Generated: 2026-10-14T05:56:48.092Z
+Generated: 2026-10-14T07:19:01.704Z

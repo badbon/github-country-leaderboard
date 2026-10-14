@@ -1,6 +1,6 @@
 # Iceland
 
-Indexed users: 1,580
+Indexed users: 1,579
 
 | Leaderboard | Link |
 |---|---|
@@ -38,11 +38,11 @@ Indexed users: 1,580
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [hugithordarson](https://github.com/hugithordarson) | Hugi Thordarson | Rekjavik, Iceland | 5,804 |
-| 2 | [karirafn](https://github.com/karirafn) | Kári Rafn Karlsson | Akranes, Iceland | 3,568 |
-| 3 | [HermannBjorgvin](https://github.com/HermannBjorgvin) | Hermann Björgvin | Reykjavík, Iceland | 3,008 |
-| 4 | [philcockfield](https://github.com/philcockfield) | Phil Cockfield | island( waiheke( nz )) | 2,986 |
-| 5 | [Raudbjorn](https://github.com/Raudbjorn) | Sveinbjörn Geirsson | Reykjavik | 2,720 |
-| 6 | [smnasiruz016-blip](https://github.com/smnasiruz016-blip) | Sheikh Muhammad Nasir Uz Zaman | iceland | 2,693 |
+| 2 | [smnasiruz016-blip](https://github.com/smnasiruz016-blip) | Sheikh Muhammad Nasir Uz Zaman | iceland | 3,953 |
+| 3 | [karirafn](https://github.com/karirafn) | Kári Rafn Karlsson | Akranes, Iceland | 3,568 |
+| 4 | [HermannBjorgvin](https://github.com/HermannBjorgvin) | Hermann Björgvin | Reykjavík, Iceland | 3,008 |
+| 5 | [philcockfield](https://github.com/philcockfield) | Phil Cockfield | island( waiheke( nz )) | 2,986 |
+| 6 | [Raudbjorn](https://github.com/Raudbjorn) | Sveinbjörn Geirsson | Reykjavik | 2,720 |
 | 7 | [bjorndarri](https://github.com/bjorndarri) | Björn Darri Sigurðsson | Reykjavík, Iceland | 2,477 |
 | 8 | [gardarthorsteins](https://github.com/gardarthorsteins) | Garðar Þorsteinsson | Reykjavík, Iceland | 2,405 |
 | 9 | [jokull](https://github.com/jokull) | Jökull Sólberg Auðunsson | Reykjavík, Iceland | 2,163 |
@@ -63,7 +63,7 @@ Indexed users: 1,580
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [asgeirtj](https://github.com/asgeirtj) | Ásgeir Thor Johnson | Iceland | 2,256 |
-| 2 | [imbue-bit](https://github.com/imbue-bit) | 栀染 | Iceland | 848 |
+| 2 | [imbue-bit](https://github.com/imbue-bit) | 栀染 | Iceland | 850 |
 | 3 | [SuprDewd](https://github.com/SuprDewd) | Bjarki Ágúst Guðmundsson | Iceland | 740 |
 | 4 | [sveinbjornt](https://github.com/sveinbjornt) | Sveinbjorn Thordarson | Reykjavík, Iceland | 606 |
 | 5 | [phunterlau](https://github.com/phunterlau) | Hongliang Liu | Iceland | 590 |
@@ -75,12 +75,12 @@ Indexed users: 1,580
 | 11 | [thormagnusson](https://github.com/thormagnusson) | thor magnusson | Reykjavik | 316 |
 | 12 | [pagekite](https://github.com/pagekite) | The Beanstalks Project | Reykjavik, Iceland | 283 |
 | 13 | [egil](https://github.com/egil) | Egil Hansen | Iceland | 276 |
-| 14 | [alexharri](https://github.com/alexharri) | Alex Harri Jónsson | Reykjavík, Iceland | 248 |
-| 15 | [zveinn](https://github.com/zveinn) | Sveinn ( keyb1nd ) | Iceland | 243 |
-| 16 | [wonderlandraja](https://github.com/wonderlandraja) | ashswag | : ̗̀➛ mcyt hill, island, dont cud when im w/ my gf unless we are close friends !  | 241 |
+| 14 | [wonderlandraja](https://github.com/wonderlandraja) | ashswag | : ̗̀➛ mcyt hill, island, dont cud when im w/ my gf unless we are close friends !  | 252 |
+| 15 | [alexharri](https://github.com/alexharri) | Alex Harri Jónsson | Reykjavík, Iceland | 248 |
+| 16 | [zveinn](https://github.com/zveinn) | Sveinn ( keyb1nd ) | Iceland | 243 |
 | 17 | [MIK4GE-RE0](https://github.com/MIK4GE-RE0) | ReoReo | bllk/ Pjsk/ Hsr/ Bakery/ Island/ moots +tied up in sunnys bed | 225 |
 | 18 | [szhorvat](https://github.com/szhorvat) | Szabolcs Horvát | Iceland | 217 |
 | 19 | [jokull](https://github.com/jokull) | Jökull Sólberg Auðunsson | Reykjavík, Iceland | 209 |
 | 20 | [sbsigur](https://github.com/sbsigur) | Sævar Bergur Sigurgeirsson | Iceland | 203 |
 
-Generated: 2026-10-14T06:06:38.624Z
+Generated: 2026-10-14T07:27:51.960Z

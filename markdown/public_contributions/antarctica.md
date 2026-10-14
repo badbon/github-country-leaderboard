@@ -1,6 +1,6 @@
 # Public Contributions - Antarctica
 
-Generated: 2026-10-14T05:36:30.254Z
+Generated: 2026-10-14T07:01:13.509Z
 
 Users: 459
 
@@ -9,12 +9,12 @@ Users: 459
 | 1 | [JohnChristianD](https://github.com/JohnChristianD) | John Christian Domingo | https://www.goodnewsnetwork.org/dead-man-jolted-back-to-life-by-the-intolerable-bumps-of-indias-potholes/ |  | Antarctica | 4706 |
 | 2 | [Sup2point0](https://github.com/Sup2point0) | Sup#2.0 |  |  | Antarctica | 4184 |
 | 3 | [morgaesis](https://github.com/morgaesis) | Mörgæsis |  |  | Antarctica | 3520 |
-| 4 | [ethicnology](https://github.com/ethicnology) | Azad | @SatoshiPortal  |  | Antarctica | 2994 |
-| 5 | [PicasoTheDeal](https://github.com/PicasoTheDeal) | Tetstack |  |  | Antarctica | 2772 |
-| 6 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Lapr Inc. |  | Antarctica | 2646 |
+| 4 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Lapr Inc. |  | Antarctica | 3030 |
+| 5 | [ethicnology](https://github.com/ethicnology) | Azad | @SatoshiPortal  |  | Antarctica | 2994 |
+| 6 | [PicasoTheDeal](https://github.com/PicasoTheDeal) | Tetstack |  |  | Antarctica | 2772 |
 | 7 | [shangyian](https://github.com/shangyian) | Yian |  |  | Antarctica | 2143 |
 | 8 | [krwg](https://github.com/krwg) | アイダ ミール | Google University |  | Antarctica | 1464 |
-| 9 | [enriquephl](https://github.com/enriquephl) |  | EtherFun Lab |  | Antarctica | 1320 |
+| 9 | [enriquephl](https://github.com/enriquephl) |  | EtherFun Lab |  | Antarctica | 1380 |
 | 10 | [FreezingSnail](https://github.com/FreezingSnail) | Freezing Snail |  |  | Antarctica | 1255 |
 | 11 | [antedotee](https://github.com/antedotee) | ky505 |  |  | Antarctica | 1125 |
 | 12 | [codes-by-utkarsh](https://github.com/codes-by-utkarsh) | Utkarsh Srivastava | VIT Bhopal  | u25tkarsh | Antarctica | 708 |

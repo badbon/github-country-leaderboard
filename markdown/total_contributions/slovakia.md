@@ -1,6 +1,6 @@
 # Total Contributions - Slovakia
 
-Generated: 2026-10-14T05:17:53.434Z
+Generated: 2026-10-14T06:43:25.898Z
 
 Users: 4672
 
@@ -15,14 +15,14 @@ Users: 4672
 | 7 | [potyl](https://github.com/potyl) | Emmanuel Rodriguez | Cloudbeds |  | Bratislava, Slovakia | 10414 |
 | 8 | [thecubbe](https://github.com/thecubbe) | TheCubbe |  |  | Slovakia | 9956 |
 | 9 | [dimaver6work](https://github.com/dimaver6work) | Dmytro |  |  | Bratislava, Slovakia | 9941 |
-| 10 | [Kenessy](https://github.com/Kenessy) | Daniel Kenessy | VRAXION |  | Slovakia | 9652 |
-| 11 | [crnkjck](https://github.com/crnkjck) | Ján Kľuka | Comenius University Bratislava |  | Bratislava, Slovakia | 9637 |
-| 12 | [VladimirTomko](https://github.com/VladimirTomko) | Vladimír Tomko | BeCode s.r.o.  |  | Bratislava, Slovakia | 9429 |
-| 13 | [valferon](https://github.com/valferon) | Feron Valentin | swipejobs |  | Slovakia | 8723 |
-| 14 | [davidian-sk](https://github.com/davidian-sk) |  |  |  | Bratislava | 8568 |
-| 15 | [mrshu](https://github.com/mrshu) | Marek Šuppa |  | mareksuppa | Slovakia | 8545 |
-| 16 | [samuelpatro](https://github.com/samuelpatro) | Samuel | @dajanarodriguez | sam_uell1 | Slovakia | 8263 |
-| 17 | [a-blaho](https://github.com/a-blaho) | Adam Blahovič | Everlution |  | Slovakia | 7973 |
-| 18 | [martin-janci](https://github.com/martin-janci) | Martin Janči | Jakala Germany Gmbh. |  | Bratislava | 7850 |
-| 19 | [lamosty](https://github.com/lamosty) | Rastislav Lamos | Lamosty.com |  | Bratislava | 7837 |
-| 20 | [reneklacan](https://github.com/reneklacan) | René Klačan | FirstLook.gg |  | Slovakia | 7702 |
+| 10 | [drepkovsky](https://github.com/drepkovsky) | Dominik Repkovský | @questpie | drepkovsky | Slovakia | 9931 |
+| 11 | [Kenessy](https://github.com/Kenessy) | Daniel Kenessy | VRAXION |  | Slovakia | 9652 |
+| 12 | [crnkjck](https://github.com/crnkjck) | Ján Kľuka | Comenius University Bratislava |  | Bratislava, Slovakia | 9637 |
+| 13 | [VladimirTomko](https://github.com/VladimirTomko) | Vladimír Tomko | BeCode s.r.o.  |  | Bratislava, Slovakia | 9429 |
+| 14 | [valferon](https://github.com/valferon) | Feron Valentin | swipejobs |  | Slovakia | 8723 |
+| 15 | [davidian-sk](https://github.com/davidian-sk) |  |  |  | Bratislava | 8568 |
+| 16 | [mrshu](https://github.com/mrshu) | Marek Šuppa |  | mareksuppa | Slovakia | 8545 |
+| 17 | [samuelpatro](https://github.com/samuelpatro) | Samuel | @dajanarodriguez | sam_uell1 | Slovakia | 8263 |
+| 18 | [a-blaho](https://github.com/a-blaho) | Adam Blahovič | Everlution |  | Slovakia | 7973 |
+| 19 | [martin-janci](https://github.com/martin-janci) | Martin Janči | Jakala Germany Gmbh. |  | Bratislava | 7850 |
+| 20 | [lamosty](https://github.com/lamosty) | Rastislav Lamos | Lamosty.com |  | Bratislava | 7837 |

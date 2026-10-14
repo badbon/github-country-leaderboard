@@ -1,6 +1,6 @@
 # Total Contributions - Antarctica
 
-Generated: 2026-10-14T05:36:30.254Z
+Generated: 2026-10-14T07:01:13.509Z
 
 Users: 459
 
@@ -18,9 +18,9 @@ Users: 459
 | 10 | [bharxhav](https://github.com/bharxhav) | Bhargav Kantheti |  |  | antarctica | 4210 |
 | 11 | [Rayrsn](https://github.com/Rayrsn) | Rayr | AsciiNomads |  | Antarctica | 3983 |
 | 12 | [cutetux](https://github.com/cutetux) | CuteTux |  |  | Antarctica ;) | 3879 |
-| 13 | [ethicnology](https://github.com/ethicnology) | Azad | @SatoshiPortal  |  | Antarctica | 3246 |
-| 14 | [enriquephl](https://github.com/enriquephl) |  | EtherFun Lab |  | Antarctica | 3231 |
-| 15 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Lapr Inc. |  | Antarctica | 2866 |
+| 13 | [enriquephl](https://github.com/enriquephl) |  | EtherFun Lab |  | Antarctica | 3424 |
+| 14 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Lapr Inc. |  | Antarctica | 3250 |
+| 15 | [ethicnology](https://github.com/ethicnology) | Azad | @SatoshiPortal  |  | Antarctica | 3246 |
 | 16 | [PicasoTheDeal](https://github.com/PicasoTheDeal) | Tetstack |  |  | Antarctica | 2832 |
 | 17 | [shangyian](https://github.com/shangyian) | Yian |  |  | Antarctica | 2574 |
 | 18 | [oagix](https://github.com/oagix) | AGENT |  |  | Antarctica | 2436 |

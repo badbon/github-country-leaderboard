@@ -1,6 +1,6 @@
 # Total Contributions - United Arab Emirates
 
-Generated: 2026-10-14T05:28:56.056Z
+Generated: 2026-10-14T06:53:50.423Z
 
 Users: 4232
 
@@ -18,11 +18,11 @@ Users: 4232
 | 10 | [ankitmaheshwari-com](https://github.com/ankitmaheshwari-com) | Ankit Maheshwari |  |  | United Arab Emirates | 11188 |
 | 11 | [ahmadpx](https://github.com/ahmadpx) | Ahmed Abdallah | Seera \| Tajawal \| Almosafer |  | United Arab Emirates | 10867 |
 | 12 | [Massad](https://github.com/Massad) | Omar Masad | @testappio |  | United Arab Emirates, Dubai | 10605 |
-| 13 | [aenawi](https://github.com/aenawi) | Hashem Aldhaheri |  | aenawi | Abu Dhabi, United Arab Emirates | 9573 |
-| 14 | [Aborii](https://github.com/Aborii) | Abdullah Almofleh | @tech-propwise-org  |  | United Arab Emirates, Dubai | 9537 |
-| 15 | [codemug](https://github.com/codemug) | Usman Shahid | Careem |  | Dubai, United Arab Emirates | 9519 |
-| 16 | [abegehr](https://github.com/abegehr) | Anton Begehr | @Stealth | abegehr | Dubai, United Arab Emirates | 9141 |
-| 17 | [xdaguy](https://github.com/xdaguy) | ABDULLAH HARIS |  |  | Abu Dhabi, UAE | 8796 |
-| 18 | [GoldRbxia12](https://github.com/GoldRbxia12) | GoldRbxia | GDXYZ |  | United Arab Emirates | 8043 |
-| 19 | [hmimthiaz](https://github.com/hmimthiaz) | Imthiaz Rafiq | Blue Beetle |  | Dubai, United Arab Emirates | 7593 |
-| 20 | [Gr8z](https://github.com/Gr8z) | Mohammad Dohadwala | @desertcart | mohammaddohad | United Arab Emirates | 7294 |
+| 13 | [tech-sumit](https://github.com/tech-sumit) | Sumit S. Agrawal |  |  | Dubai, United Arab Emirates | 10163 |
+| 14 | [aenawi](https://github.com/aenawi) | Hashem Aldhaheri |  | aenawi | Abu Dhabi, United Arab Emirates | 9573 |
+| 15 | [Aborii](https://github.com/Aborii) | Abdullah Almofleh | @tech-propwise-org  |  | United Arab Emirates, Dubai | 9537 |
+| 16 | [codemug](https://github.com/codemug) | Usman Shahid | Careem |  | Dubai, United Arab Emirates | 9519 |
+| 17 | [abegehr](https://github.com/abegehr) | Anton Begehr | @Stealth | abegehr | Dubai, United Arab Emirates | 9141 |
+| 18 | [xdaguy](https://github.com/xdaguy) | ABDULLAH HARIS |  |  | Abu Dhabi, UAE | 8796 |
+| 19 | [GoldRbxia12](https://github.com/GoldRbxia12) | GoldRbxia | GDXYZ |  | United Arab Emirates | 8043 |
+| 20 | [hmimthiaz](https://github.com/hmimthiaz) | Imthiaz Rafiq | Blue Beetle |  | Dubai, United Arab Emirates | 7593 |

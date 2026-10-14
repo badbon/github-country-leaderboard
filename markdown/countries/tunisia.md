@@ -25,13 +25,13 @@ Indexed users: 7,194
 | 11 | [omar-cherif](https://github.com/omar-cherif) | Omar CHERIF | Tunisia | 7,081 |
 | 12 | [safwendammak](https://github.com/safwendammak) | Safwen | Tunisia | 5,984 |
 | 13 | [lord007tn](https://github.com/lord007tn) | Raed Bahri | Tunisia | 5,892 |
-| 14 | [baderdean](https://github.com/baderdean) | Badreddine Lejmi | Tunisia | 5,480 |
-| 15 | [3omartn](https://github.com/3omartn) | omar jemli | Tunisia | 5,258 |
-| 16 | [Ylandolsi](https://github.com/Ylandolsi) | Mohamed Yassine Landolsi  | Tunisia ,  Sousse ,  Msaken | 5,161 |
-| 17 | [anisossss](https://github.com/anisossss) | AnisKhalef | Tunisia | 4,993 |
-| 18 | [abbassi-ahmed](https://github.com/abbassi-ahmed) | Abbassiahmed | Tunisia | 4,962 |
-| 19 | [BouajilaHamza](https://github.com/BouajilaHamza) | Hamza Bouajila | Tunisia | 4,841 |
-| 20 | [taghoutikeyrus](https://github.com/taghoutikeyrus) | Tarek Taghouti | Tunisia | 4,779 |
+| 14 | [taghoutikeyrus](https://github.com/taghoutikeyrus) | Tarek Taghouti | Tunisia | 5,564 |
+| 15 | [baderdean](https://github.com/baderdean) | Badreddine Lejmi | Tunisia | 5,480 |
+| 16 | [3omartn](https://github.com/3omartn) | omar jemli | Tunisia | 5,258 |
+| 17 | [Ylandolsi](https://github.com/Ylandolsi) | Mohamed Yassine Landolsi  | Tunisia ,  Sousse ,  Msaken | 5,161 |
+| 18 | [anisossss](https://github.com/anisossss) | AnisKhalef | Tunisia | 4,993 |
+| 19 | [abbassi-ahmed](https://github.com/abbassi-ahmed) | Abbassiahmed | Tunisia | 4,962 |
+| 20 | [BouajilaHamza](https://github.com/BouajilaHamza) | Hamza Bouajila | Tunisia | 4,841 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 7,194
 | 19 | [zied-snoussi](https://github.com/zied-snoussi) | Zied Snoussi | Tunisia | 522 |
 | 20 | [machour](https://github.com/machour) | Mehdi Achour | Tunisia | 483 |
 
-Generated: 2026-10-14T05:26:33.609Z
+Generated: 2026-10-14T06:51:25.453Z

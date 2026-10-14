@@ -1,8 +1,8 @@
 # Followers - Bangladesh
 
-Generated: 2026-10-14T05:45:05.342Z
+Generated: 2026-10-14T07:04:08.253Z
 
-Users: 55318
+Users: 55316
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

@@ -55,7 +55,7 @@ Indexed users: 1,480
 | 16 | [amurru](https://github.com/amurru) | Ammar Zerouk | Syria | 960 |
 | 17 | [AbdSattout](https://github.com/AbdSattout) | Abd Sattout | Syria | 918 |
 | 18 | [zaher](https://github.com/zaher) | Zaher Dirkey | Damascus, Syria | 806 |
-| 19 | [yazan-alsamman](https://github.com/yazan-alsamman) | Yazan-Alsamman | Syria | 744 |
+| 19 | [yazan-alsamman](https://github.com/yazan-alsamman) | Yazan-Alsamman | Syria | 753 |
 | 20 | [ibrah5em](https://github.com/ibrah5em) | Ibrahem Hasaki | Syria | 741 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 1,480
 | 19 | [nebrassy](https://github.com/nebrassy) | Nebrassy | Latakia, Syria | 102 |
 | 20 | [zaher](https://github.com/zaher) | Zaher Dirkey | Damascus, Syria | 95 |
 
-Generated: 2026-10-14T05:23:53.513Z
+Generated: 2026-10-14T06:48:08.445Z

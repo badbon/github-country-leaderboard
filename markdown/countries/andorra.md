@@ -48,7 +48,7 @@ Indexed users: 215
 | 9 | [imnotquasar](https://github.com/imnotquasar) | ImNotQuasar | Andorra, Principality of Andorra | 615 |
 | 10 | [martapanc](https://github.com/martapanc) |  | Italy / Andorra | 509 |
 | 11 | [AdamBaali](https://github.com/AdamBaali) | Adam Baali | Ordino, Andorra | 474 |
-| 12 | [AdriaCarrera](https://github.com/AdriaCarrera) | Adrià Carrera | Andorra | 445 |
+| 12 | [AdriaCarrera](https://github.com/AdriaCarrera) | Adrià Carrera | Andorra | 442 |
 | 13 | [trebormc](https://github.com/trebormc) | Robert Menetray | Andorra | 406 |
 | 14 | [markusand](https://github.com/markusand) | Marc Vilella | Andorra | 385 |
 | 15 | [georgeee](https://github.com/georgeee) | George Agapov | Andorra | 358 |
@@ -83,4 +83,4 @@ Indexed users: 215
 | 19 | [ysb33r](https://github.com/ysb33r) | Schalk W. Cronjé | Andorra | 63 |
 | 20 | [castrolem](https://github.com/castrolem) | Luis Castro | Andorra la Vella, Andorra | 60 |
 
-Generated: 2026-10-14T05:35:54.810Z
+Generated: 2026-10-14T06:59:17.089Z
