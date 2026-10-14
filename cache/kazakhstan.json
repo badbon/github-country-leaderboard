@@ -19928,7 +19928,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 0,
     "createdAt": "2022-07-01T09:52:35Z"
   },
   {
@@ -19954,18 +19954,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-07-20T10:06:16Z"
-  },
-  {
-    "login": "gauwuhar",
-    "name": "Gaukhar Toktagulova",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/116958585?s=72&u=8dfd27857eabe10dbf89090a3ce28e9c6537ceef&v=4",
-    "location": "Astana, Kazakhstan",
-    "company": "Astana IT University",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 4,
-    "publicContributions": 23,
-    "createdAt": "2022-10-29T13:18:17Z"
   },
   {
     "login": "mwr1337",
@@ -20000,7 +19988,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 13,
     "createdAt": "2022-03-19T10:19:21Z"
   },
   {
@@ -20012,7 +20000,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2022-01-04T12:11:23Z"
   },
   {
@@ -20028,27 +20016,15 @@
     "createdAt": "2022-04-08T19:52:47Z"
   },
   {
-    "login": "EzhAlex12",
-    "name": "Aleksey Pronkin",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/113747959?s=72&u=94dd7dc19b185923360ebf63c3415c64cb878f3c&v=4",
-    "location": "Kazakhstan",
-    "company": "NSU",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 8,
-    "createdAt": "2022-09-17T03:56:49Z"
-  },
-  {
     "login": "uaaaalim",
     "name": "Alim Mun",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/114253420?s=72&u=a7a4b4e00d354886d2e967252aae25c12054a1e2&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/114253420?s=72&u=a541e445eaa3d4017bf92a403fc9320a3e30fada&v=4",
     "location": "Kazakhstan, Almaty",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 158,
-    "publicContributions": 217,
+    "privateContributions": 167,
+    "publicContributions": 221,
     "createdAt": "2022-09-23T17:40:41Z"
   },
   {
@@ -20071,8 +20047,8 @@
     "company": "@silkroadtech-kz ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 897,
-    "publicContributions": 188,
+    "privateContributions": 1109,
+    "publicContributions": 191,
     "createdAt": "2022-04-24T18:16:20Z"
   },
   {

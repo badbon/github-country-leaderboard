@@ -20108,7 +20108,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 29,
     "createdAt": "2016-02-09T21:07:53Z"
   },
   {
@@ -20120,7 +20120,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 97,
+    "publicContributions": 101,
     "createdAt": "2016-04-09T12:29:55Z"
   },
   {
@@ -20130,9 +20130,9 @@
     "location": "Nicosia",
     "company": "NEU Innovation & Information Technologies Center (IBM)",
     "twitterUsername": "",
-    "followers": 17,
-    "privateContributions": 275,
-    "publicContributions": 233,
+    "followers": 22,
+    "privateContributions": 132,
+    "publicContributions": 257,
     "createdAt": "2016-07-13T14:00:19Z"
   },
   {
@@ -20142,9 +20142,9 @@
     "location": "Nicosia",
     "company": "University of Cyprus",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 12,
     "createdAt": "2016-06-27T14:16:16Z"
   },
   {
@@ -20167,8 +20167,8 @@
     "company": "salimon",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 74,
-    "publicContributions": 235,
+    "privateContributions": 246,
+    "publicContributions": 689,
     "createdAt": "2016-02-22T13:24:17Z"
   },
   {
@@ -20179,8 +20179,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 1,
-    "publicContributions": 36,
+    "privateContributions": 2,
+    "publicContributions": 108,
     "createdAt": "2016-11-15T10:53:43Z"
   },
   {
@@ -20214,9 +20214,9 @@
     "location": "Cyprus",
     "company": "@blackhatethicalhacking",
     "twitterUsername": "secur1ty1samyth",
-    "followers": 2135,
-    "privateContributions": 0,
-    "publicContributions": 41,
+    "followers": 2155,
+    "privateContributions": 86,
+    "publicContributions": 49,
     "createdAt": "2015-08-24T09:46:20Z"
   },
   {
@@ -20226,9 +20226,9 @@
     "location": "Cyprus",
     "company": "",
     "twitterUsername": "",
-    "followers": 1319,
+    "followers": 1355,
     "privateContributions": 0,
-    "publicContributions": 4279,
+    "publicContributions": 4292,
     "createdAt": "2015-06-10T10:04:22Z"
   },
   {
@@ -20238,22 +20238,10 @@
     "location": "Limassol, Cyprus",
     "company": "@semrush",
     "twitterUsername": "",
-    "followers": 250,
-    "privateContributions": 954,
+    "followers": 251,
+    "privateContributions": 1118,
     "publicContributions": 11,
     "createdAt": "2015-04-20T19:56:49Z"
-  },
-  {
-    "login": "ggwpez",
-    "name": "Oliver Tale-Yazdi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/10380170?s=72&u=6f8ecfaf656e435fa908d03f75e48fa28dc16b5d&v=4",
-    "location": "Cyprus",
-    "company": "Tech Lead @paritytech",
-    "twitterUsername": "OliverTaleYazdi",
-    "followers": 180,
-    "privateContributions": 229,
-    "publicContributions": 990,
-    "createdAt": "2015-01-03T11:16:10Z"
   },
   {
     "login": "demiurg906",
@@ -20262,9 +20250,9 @@
     "location": "Cyprus",
     "company": "@JetBrains",
     "twitterUsername": "",
-    "followers": 136,
+    "followers": 138,
     "privateContributions": 0,
-    "publicContributions": 1388,
+    "publicContributions": 1380,
     "createdAt": "2015-10-05T08:32:40Z"
   },
   {
@@ -20274,9 +20262,9 @@
     "location": "Paphos, Cyprus",
     "company": "",
     "twitterUsername": "",
-    "followers": 93,
+    "followers": 94,
     "privateContributions": 36,
-    "publicContributions": 213,
+    "publicContributions": 222,
     "createdAt": "2015-09-18T16:31:12Z"
   },
   {
@@ -20287,8 +20275,8 @@
     "company": "@lulz-tech ",
     "twitterUsername": "",
     "followers": 72,
-    "privateContributions": 588,
-    "publicContributions": 30,
+    "privateContributions": 898,
+    "publicContributions": 43,
     "createdAt": "2015-10-31T13:41:31Z"
   },
   {
@@ -20296,11 +20284,11 @@
     "name": "Vasilis Ieropoulos",
     "avatarUrl": "https://avatars.githubusercontent.com/u/11594874?s=72&u=10ab9e01a1c7c364c2b63ea98baa609d74fbd260&v=4",
     "location": "Nicosia,Cyprus ",
-    "company": "",
+    "company": "@CPSsec-UCY @ KIOS Research and Innovation Center of Excellence, University of Cyprus ",
     "twitterUsername": "5b4anu",
-    "followers": 71,
-    "privateContributions": 83,
-    "publicContributions": 98,
+    "followers": 73,
+    "privateContributions": 92,
+    "publicContributions": 117,
     "createdAt": "2015-03-22T07:13:33Z"
   },
   {
@@ -20310,9 +20298,9 @@
     "location": "Cyprus, Paphos",
     "company": "@JetBrains ",
     "twitterUsername": "",
-    "followers": 68,
+    "followers": 69,
     "privateContributions": 0,
-    "publicContributions": 241,
+    "publicContributions": 302,
     "createdAt": "2015-03-05T09:28:31Z"
   },
   {

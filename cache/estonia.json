@@ -20084,7 +20084,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 0,
     "createdAt": "2019-01-07T10:13:13Z"
   },
   {
@@ -20095,8 +20095,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 241,
-    "publicContributions": 262,
+    "privateContributions": 364,
+    "publicContributions": 172,
     "createdAt": "2019-06-26T10:26:40Z"
   },
   {
@@ -20131,8 +20131,8 @@
     "company": "",
     "twitterUsername": "sneakyjoe_ru",
     "followers": 1,
-    "privateContributions": 2583,
-    "publicContributions": 539,
+    "privateContributions": 3137,
+    "publicContributions": 728,
     "createdAt": "2019-09-02T18:21:07Z"
   },
   {
@@ -20154,8 +20154,8 @@
     "location": "Tartu, Estonia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
+    "followers": 2,
+    "privateContributions": 2,
     "publicContributions": 0,
     "createdAt": "2019-12-17T18:32:05Z"
   },
@@ -20167,8 +20167,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1438,
-    "publicContributions": 55,
+    "privateContributions": 1533,
+    "publicContributions": 135,
     "createdAt": "2019-04-19T13:02:42Z"
   },
   {
@@ -20179,21 +20179,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1437,
+    "privateContributions": 1663,
     "publicContributions": 91,
     "createdAt": "2019-05-28T12:16:38Z"
-  },
-  {
-    "login": "BrunoHiis",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/46863024?s=72&u=b6b54c1aca4b1b5905b3296ffecd25318564eff5&v=4",
-    "location": "Tallinn, Estonia",
-    "company": "Featurebase",
-    "twitterUsername": "bruno_hiis",
-    "followers": 1,
-    "privateContributions": 3879,
-    "publicContributions": 1,
-    "createdAt": "2019-01-20T10:50:14Z"
   },
   {
     "login": "sebraponi",
@@ -20240,7 +20228,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 31,
+    "publicContributions": 27,
     "createdAt": "2019-02-19T22:08:35Z"
   },
   {

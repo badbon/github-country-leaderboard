@@ -19128,18 +19128,6 @@
     "createdAt": "2024-06-03T12:17:10Z"
   },
   {
-    "login": "swed91740",
-    "name": "Rasmus Larsson",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/166118720?s=72&u=5c396c2f72a068cab4e36e2e295b66dd6688ee31&v=4",
-    "location": "Sweden",
-    "company": "120ft Factory",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 32,
-    "createdAt": "2024-04-05T09:34:51Z"
-  },
-  {
     "login": "GrekenDev",
     "name": "Dennis Ikonomidis",
     "avatarUrl": "https://avatars.githubusercontent.com/u/169597868?s=72&u=658311be6e0a0f87ff8c060c9c3c6a82c6ef01b5&v=4",
@@ -19148,7 +19136,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 16,
     "createdAt": "2024-05-12T13:58:40Z"
   },
   {
@@ -19196,7 +19184,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2024-09-09T21:49:07Z"
   },
   {
@@ -19208,7 +19196,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 62,
+    "publicContributions": 9,
     "createdAt": "2024-09-06T17:03:13Z"
   },
   {
@@ -19220,7 +19208,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 9,
     "createdAt": "2024-08-27T07:29:54Z"
   },
   {
@@ -19303,8 +19291,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 215,
-    "publicContributions": 103,
+    "privateContributions": 192,
+    "publicContributions": 86,
     "createdAt": "2024-07-29T10:30:46Z"
   },
   {
@@ -19316,7 +19304,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 31,
+    "publicContributions": 34,
     "createdAt": "2024-08-01T08:11:32Z"
   },
   {
@@ -19339,8 +19327,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1158,
-    "publicContributions": 612,
+    "privateContributions": 1024,
+    "publicContributions": 637,
     "createdAt": "2024-10-23T16:35:31Z"
   },
   {

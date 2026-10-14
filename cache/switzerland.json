@@ -19664,7 +19664,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 30,
     "createdAt": "2023-10-11T16:33:52Z"
   },
   {
@@ -19687,7 +19687,7 @@
     "company": "EPFL",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 16,
+    "privateContributions": 8,
     "publicContributions": 3,
     "createdAt": "2023-05-13T14:07:00Z"
   },
@@ -19699,8 +19699,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 231,
-    "publicContributions": 89,
+    "privateContributions": 322,
+    "publicContributions": 88,
     "createdAt": "2023-01-25T10:39:31Z"
   },
   {
@@ -19710,9 +19710,9 @@
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 38,
+    "publicContributions": 40,
     "createdAt": "2023-11-08T12:00:49Z"
   },
   {
@@ -19735,8 +19735,8 @@
     "company": "@ETML-INF",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 922,
-    "publicContributions": 69,
+    "privateContributions": 916,
+    "publicContributions": 37,
     "createdAt": "2023-11-10T12:56:51Z"
   },
   {
@@ -19746,9 +19746,9 @@
     "location": "Zurich, Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 3538,
-    "publicContributions": 158,
+    "followers": 3,
+    "privateContributions": 4653,
+    "publicContributions": 152,
     "createdAt": "2023-11-19T07:56:06Z"
   },
   {
@@ -19759,8 +19759,8 @@
     "company": "@truvami",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 728,
-    "publicContributions": 22,
+    "privateContributions": 842,
+    "publicContributions": 14,
     "createdAt": "2023-10-25T09:13:59Z"
   },
   {
@@ -19782,7 +19782,7 @@
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "stefanmaximilia",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-12-14T17:49:43Z"
@@ -19795,21 +19795,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 89,
-    "publicContributions": 26,
+    "privateContributions": 83,
+    "publicContributions": 28,
     "createdAt": "2023-01-18T17:24:47Z"
-  },
-  {
-    "login": "leeaandr01",
-    "name": "Leeaandro",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/143896975?s=72&u=79881218f6cf19965e905c54a565e774054ffa0f&v=4",
-    "location": "Switzerland",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2023-09-02T16:38:52Z"
   },
   {
     "login": "mla-wtag",
@@ -19850,13 +19838,13 @@
   {
     "login": "yevhen-yashkin",
     "name": "Yevhen Yashkin",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/138622518?s=72&u=f5e11afce14add326f03833956cfeba2a1f66ab7&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/138622518?s=72&u=b3e5fd7e74afe6d0f58df0f60adcff0a1cb22749&v=4",
     "location": "Switzerland",
     "company": "yashkin.net",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 24,
     "createdAt": "2023-07-04T19:51:12Z"
   },
   {

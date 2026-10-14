@@ -20238,7 +20238,7 @@
     "location": "Costa Rica",
     "company": "@Zona-Sur-Tech ",
     "twitterUsername": "santidelgados_",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 70,
     "publicContributions": 257,
     "createdAt": "2021-05-22T20:52:31Z"
@@ -20250,7 +20250,7 @@
     "location": "San Jose - Costa Rica",
     "company": "",
     "twitterUsername": "ody_vargas",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-04-16T06:03:32Z"
@@ -20264,7 +20264,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 273,
+    "publicContributions": 258,
     "createdAt": "2021-02-04T02:43:34Z"
   },
   {
@@ -20276,7 +20276,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 83,
+    "publicContributions": 85,
     "createdAt": "2021-10-12T01:37:46Z"
   },
   {
@@ -20348,7 +20348,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 295,
+    "publicContributions": 236,
     "createdAt": "2021-05-31T17:14:16Z"
   },
   {
@@ -20384,7 +20384,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2021-06-19T02:15:32Z"
   },
   {
@@ -20395,21 +20395,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 30,
+    "privateContributions": 19,
     "publicContributions": 0,
     "createdAt": "2021-03-10T00:01:19Z"
-  },
-  {
-    "login": "Chuz047",
-    "name": "Daniel Vega Marvez",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/87838943?s=72&u=8a249fa154df62f9c07fcaa7dfc68cb270002655&v=4",
-    "location": "Costa Rica",
-    "company": "Universidad Fidélitas",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 2,
-    "publicContributions": 1,
-    "createdAt": "2021-07-23T01:14:46Z"
   },
   {
     "login": "aleguerrerom",
@@ -20443,8 +20431,8 @@
     "company": "ELCO - Energías Limpias de Costa Rica",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 1096,
-    "publicContributions": 120,
+    "privateContributions": 1276,
+    "publicContributions": 129,
     "createdAt": "2021-05-02T07:05:05Z"
   },
   {
@@ -20455,8 +20443,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 35,
-    "publicContributions": 9,
+    "privateContributions": 10,
+    "publicContributions": 2,
     "createdAt": "2021-06-17T22:22:59Z"
   },
   {

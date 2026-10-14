@@ -20076,18 +20076,6 @@
     "createdAt": "2020-10-17T16:26:13Z"
   },
   {
-    "login": "engvanntha",
-    "name": "engvanntha",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/74441847?s=72&u=805c2432be1570dd5c4d37967b6f6a8e3ca2c9a9&v=4",
-    "location": "Phnom Penh",
-    "company": "Royal University of Phnom Penh",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 10,
-    "createdAt": "2020-11-14T03:36:45Z"
-  },
-  {
     "login": "chomreunsop",
     "name": "chomreun_dev",
     "avatarUrl": "https://avatars.githubusercontent.com/u/68311236?s=72&u=21c78fff26c28ab826bf544db7c858c9f2a5a2d9&v=4",
@@ -20107,8 +20095,8 @@
     "company": "People & Partners Insurance Plc",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 419,
-    "publicContributions": 8,
+    "privateContributions": 370,
+    "publicContributions": 6,
     "createdAt": "2020-03-25T11:44:20Z"
   },
   {
@@ -20118,9 +20106,9 @@
     "location": "Phnom Penh",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 201,
+    "publicContributions": 208,
     "createdAt": "2020-11-17T04:03:01Z"
   },
   {
@@ -20156,20 +20144,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 68,
     "createdAt": "2020-03-12T11:49:53Z"
-  },
-  {
-    "login": "shopsroksrephone",
-    "name": "Rin Eren",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/74156077?s=72&u=971acd641489ee5a5b8caac565a3644ef1f44a31&v=4",
-    "location": "Phnom Penh",
-    "company": "Google Drive",
-    "twitterUsername": "rineren",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2020-11-08T20:52:18Z"
   },
   {
     "login": "sovannaramb",
@@ -20210,13 +20186,13 @@
   {
     "login": "DJ-Raven",
     "name": "Raven Laing",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/58245926?s=72&u=b206bddecbaa5a48a06ce725abddbb617c8ebf1b&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/58245926?s=72&u=65d610fbd5367727c77d13ad2907312c36e41f98&v=4",
     "location": "Cambodia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1202,
-    "privateContributions": 493,
-    "publicContributions": 219,
+    "followers": 1204,
+    "privateContributions": 0,
+    "publicContributions": 302,
     "createdAt": "2019-11-27T05:51:15Z"
   },
   {
@@ -20226,9 +20202,9 @@
     "location": "Cambodia",
     "company": "",
     "twitterUsername": "SokhengChen",
-    "followers": 972,
-    "privateContributions": 507,
-    "publicContributions": 324,
+    "followers": 966,
+    "privateContributions": 606,
+    "publicContributions": 167,
     "createdAt": "2019-06-26T06:26:15Z"
   },
   {
@@ -20240,7 +20216,7 @@
     "twitterUsername": "",
     "followers": 159,
     "privateContributions": 0,
-    "publicContributions": 58,
+    "publicContributions": 56,
     "createdAt": "2019-11-11T01:49:26Z"
   },
   {
@@ -20250,9 +20226,9 @@
     "location": "Toul Kork, Phnom Penh, Cambodia",
     "company": "ISTAD",
     "twitterUsername": "",
-    "followers": 106,
+    "followers": 111,
     "privateContributions": 0,
-    "publicContributions": 206,
+    "publicContributions": 243,
     "createdAt": "2019-07-02T16:25:50Z"
   },
   {
@@ -20262,9 +20238,9 @@
     "location": "Cambodia",
     "company": "",
     "twitterUsername": "rohKane",
-    "followers": 90,
-    "privateContributions": 5,
-    "publicContributions": 5,
+    "followers": 89,
+    "privateContributions": 114,
+    "publicContributions": 10,
     "createdAt": "2019-02-26T02:26:06Z"
   },
   {
@@ -20274,9 +20250,9 @@
     "location": "Cambodia",
     "company": "",
     "twitterUsername": "",
-    "followers": 73,
-    "privateContributions": 489,
-    "publicContributions": 714,
+    "followers": 74,
+    "privateContributions": 1009,
+    "publicContributions": 939,
     "createdAt": "2019-06-10T09:23:32Z"
   },
   {
@@ -20286,7 +20262,7 @@
     "location": "Cambodia",
     "company": "",
     "twitterUsername": "",
-    "followers": 45,
+    "followers": 47,
     "privateContributions": 0,
     "publicContributions": 22,
     "createdAt": "2019-06-17T14:55:16Z"
@@ -20298,9 +20274,9 @@
     "location": "Cambodia",
     "company": "",
     "twitterUsername": "",
-    "followers": 40,
-    "privateContributions": 217,
-    "publicContributions": 332,
+    "followers": 45,
+    "privateContributions": 269,
+    "publicContributions": 311,
     "createdAt": "2019-06-18T03:56:08Z"
   },
   {
@@ -20310,7 +20286,7 @@
     "location": "Phnom Penh Cambodia ",
     "company": "Cambodia ",
     "twitterUsername": "kimoun759",
-    "followers": 28,
+    "followers": 27,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-12-01T05:34:15Z"

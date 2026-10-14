@@ -19832,7 +19832,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 22,
     "createdAt": "2022-03-25T01:14:40Z"
   },
   {
@@ -19855,7 +19855,7 @@
     "company": "Proyectos Himmeros",
     "twitterUsername": "himmeros",
     "followers": 1,
-    "privateContributions": 7,
+    "privateContributions": 10,
     "publicContributions": 45,
     "createdAt": "2022-01-03T16:55:44Z"
   },
@@ -19916,7 +19916,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2022-10-28T18:04:49Z"
   },
   {
@@ -19927,8 +19927,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1503,
+    "privateContributions": 11,
+    "publicContributions": 1415,
     "createdAt": "2022-11-19T19:31:35Z"
   },
   {
@@ -19942,18 +19942,6 @@
     "privateContributions": 0,
     "publicContributions": 5,
     "createdAt": "2022-11-07T23:41:11Z"
-  },
-  {
-    "login": "johnlennonl",
-    "name": "John Lennon",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/119986962?s=72&u=5628098ed325658996bf74da0f6f7c2a6dcda394&v=4",
-    "location": "Venezuela",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 420,
-    "createdAt": "2022-12-07T02:16:54Z"
   },
   {
     "login": "nares2001",
@@ -19970,12 +19958,12 @@
   {
     "login": "randomuserx0000",
     "name": "Cristian Cordero",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/97790428?s=72&u=d7e2615805b6a3778cbcfb1527f336bb61217c8c&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/97790428?s=72&u=491b9071269641acfa15d0fe01e4647a8ed21479&v=4",
     "location": "Venezuela",
     "company": "Cordero Security ",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 325,
+    "followers": 2,
+    "privateContributions": 418,
     "publicContributions": 65,
     "createdAt": "2022-01-15T12:29:06Z"
   },
@@ -20016,25 +20004,13 @@
     "createdAt": "2022-04-11T18:08:46Z"
   },
   {
-    "login": "rmartinezra",
-    "name": "R. A. Martínez Rivero",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/102970893?s=72&v=4",
-    "location": "Valencia/Venezuela",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 172,
-    "createdAt": "2022-04-04T13:08:41Z"
-  },
-  {
     "login": "valentagil",
     "name": "Valentina Gil",
     "avatarUrl": "https://avatars.githubusercontent.com/u/104182304?s=72&v=4",
     "location": "Venezuela",
     "company": "",
     "twitterUsername": "valentagil",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-04-22T03:14:03Z"

@@ -19736,7 +19736,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 31,
+    "publicContributions": 17,
     "createdAt": "2024-03-25T02:32:02Z"
   },
   {
@@ -19747,8 +19747,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1,
-    "publicContributions": 12,
+    "privateContributions": 10,
+    "publicContributions": 17,
     "createdAt": "2024-02-11T21:09:09Z"
   },
   {
@@ -19760,7 +19760,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 53,
     "createdAt": "2024-02-29T17:04:44Z"
   },
   {
@@ -19771,8 +19771,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 37,
-    "publicContributions": 211,
+    "privateContributions": 56,
+    "publicContributions": 240,
     "createdAt": "2024-03-23T16:29:05Z"
   },
   {
@@ -19783,8 +19783,8 @@
     "company": "Universidad Nacional de Colombia",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 210,
-    "publicContributions": 117,
+    "privateContributions": 381,
+    "publicContributions": 112,
     "createdAt": "2024-02-08T19:58:38Z"
   },
   {
@@ -19796,7 +19796,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 191,
+    "publicContributions": 131,
     "createdAt": "2024-02-05T16:45:44Z"
   },
   {
@@ -19856,7 +19856,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 17,
     "createdAt": "2024-01-26T01:05:42Z"
   },
   {
@@ -19868,7 +19868,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 52,
+    "publicContributions": 42,
     "createdAt": "2024-02-28T01:35:37Z"
   },
   {
@@ -19902,9 +19902,9 @@
     "location": "Colombia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 103,
+    "publicContributions": 142,
     "createdAt": "2024-03-14T16:24:39Z"
   },
   {
@@ -19920,18 +19920,6 @@
     "createdAt": "2024-03-19T00:18:05Z"
   },
   {
-    "login": "EternitynBeyond",
-    "name": "MarioC",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/161790502?s=72&u=3cdc77483aa703dac5e162dc7c31f70ef9fed4d8&v=4",
-    "location": "Valle de Aburrá, Antioquia, Colombia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 17,
-    "createdAt": "2024-03-01T02:38:45Z"
-  },
-  {
     "login": "DevOps-Inlaze",
     "name": "Dev Ops Inlaze",
     "avatarUrl": "https://avatars.githubusercontent.com/u/163137679?s=72&u=e616af04cefbd3b6a4694c14d170bb2a9b15f23e&v=4",
@@ -19940,7 +19928,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 4,
     "createdAt": "2024-03-12T12:26:06Z"
   },
   {
@@ -19950,9 +19938,9 @@
     "location": "Colombia",
     "company": "Monks",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 6638,
-    "publicContributions": 18,
+    "followers": 2,
+    "privateContributions": 5817,
+    "publicContributions": 17,
     "createdAt": "2024-03-12T23:24:17Z"
   },
   {
@@ -19962,9 +19950,9 @@
     "location": "San Juan de Pasto, Colombia",
     "company": "",
     "twitterUsername": "dmponcez",
-    "followers": 18,
+    "followers": 19,
     "privateContributions": 0,
-    "publicContributions": 374,
+    "publicContributions": 317,
     "createdAt": "2020-08-13T00:38:26Z"
   },
   {
@@ -349930,5 +349918,17 @@
     "privateContributions": 0,
     "publicContributions": 194,
     "createdAt": "2023-08-22T20:01:06Z"
+  },
+  {
+    "login": "rmartinezra",
+    "name": "R. A. Martínez Rivero",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/102970893?s=72&v=4",
+    "location": "Bucaramanga, Colombia",
+    "company": "Universidad Industrial de Santander",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 115,
+    "createdAt": "2022-04-04T13:08:41Z"
   }
 ]
