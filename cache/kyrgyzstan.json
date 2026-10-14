@@ -20190,7 +20190,7 @@
     "location": "Bishkek, Kyrgyzstan",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-05-17T14:50:37Z"
@@ -20215,8 +20215,8 @@
     "company": "",
     "twitterUsername": "AkaiOmurbek",
     "followers": 8,
-    "privateContributions": 93,
-    "publicContributions": 36,
+    "privateContributions": 56,
+    "publicContributions": 21,
     "createdAt": "2019-05-23T13:01:13Z"
   },
   {
@@ -20240,7 +20240,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 35,
+    "publicContributions": 16,
     "createdAt": "2019-02-17T15:44:59Z"
   },
   {
@@ -20251,7 +20251,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 289,
+    "privateContributions": 300,
     "publicContributions": 0,
     "createdAt": "2019-09-12T15:08:06Z"
   },
@@ -20264,7 +20264,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 3,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2019-11-24T18:59:03Z"
   },
   {
@@ -20275,7 +20275,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 3,
+    "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2019-12-06T11:57:53Z"
   },
@@ -20286,9 +20286,9 @@
     "location": "Kyrgyzstan",
     "company": "Geeks",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 13,
     "createdAt": "2019-10-29T14:17:15Z"
   },
   {
@@ -20300,7 +20300,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 34,
+    "publicContributions": 51,
     "createdAt": "2019-10-20T06:11:53Z"
   },
   {
@@ -20334,9 +20334,9 @@
     "location": "Kyrgyzstan",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2019-02-25T08:58:07Z"
   },
   {
@@ -20360,19 +20360,19 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 29,
     "createdAt": "2019-12-17T12:15:12Z"
   },
   {
     "login": "left-try",
     "name": "Ivan Stakhov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/50211739?s=72&u=59718b27d4d10d9e02418bfb93d58b130d753ad5&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/50211739?s=72&u=e2bb4820798e2d60c182b730ec28d47f60cc723c&v=4",
     "location": "Bishkek, Kyrgyzstan",
     "company": "FroxyLabs",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 81,
-    "publicContributions": 12,
+    "followers": 6,
+    "privateContributions": 1105,
+    "publicContributions": 93,
     "createdAt": "2019-05-02T16:42:42Z"
   },
   {
@@ -20384,13 +20384,13 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 5,
     "createdAt": "2019-10-02T16:03:04Z"
   },
   {
     "login": "VladimirNedoroslev",
     "name": "Vladimir",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/55913433?s=72&u=187904a3ace76d6f5571a5f1e7dc2e0d77212738&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/55913433?s=72&u=9334795af35a6ea0d5e5baee6f5a8d5b344b19c9&v=4",
     "location": "Kyrgyzstan",
     "company": "Ren-Elektra",
     "twitterUsername": "",

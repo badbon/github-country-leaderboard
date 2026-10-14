@@ -19974,9 +19974,9 @@
     "location": "Riga, Latvia",
     "company": "Accenture",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
+    "followers": 2,
+    "privateContributions": 26,
+    "publicContributions": 1,
     "createdAt": "2017-01-04T07:42:10Z"
   },
   {
@@ -20035,8 +20035,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 6,
-    "publicContributions": 1,
+    "privateContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2017-02-01T10:24:04Z"
   },
   {
@@ -20064,18 +20064,6 @@
     "createdAt": "2017-01-13T11:58:38Z"
   },
   {
-    "login": "Sunnatilla-Ismoilov",
-    "name": "Sunnatilla Ismoilov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/33555099?s=72&u=ddec3a8a2d589cb680f2fe573e17d07a61bb7fd7&v=4",
-    "location": "Latvia, Riga",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 5,
-    "createdAt": "2017-11-10T18:10:42Z"
-  },
-  {
     "login": "98-f355-f1",
     "name": "Tom Branson",
     "avatarUrl": "https://avatars.githubusercontent.com/u/28711409?s=72&u=1f98e76aedeeb68f43e6d3894c0c747a0376cd6b&v=4",
@@ -20084,7 +20072,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 4,
     "createdAt": "2017-05-15T15:59:53Z"
   },
   {
@@ -20114,13 +20102,13 @@
   {
     "login": "ingussp",
     "name": "Inguss",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/30374833?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/30374833?s=72&u=38c680693a4cf590f450e4ce02f9f3d1785e3d63&v=4",
     "location": "Latvia",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 67,
+    "publicContributions": 13,
     "createdAt": "2017-07-22T16:59:54Z"
   },
   {
@@ -20156,7 +20144,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 33,
+    "publicContributions": 47,
     "createdAt": "2017-08-09T16:25:26Z"
   },
   {
@@ -20191,7 +20179,7 @@
     "company": "@1NCE-GmbH ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 165,
+    "privateContributions": 167,
     "publicContributions": 0,
     "createdAt": "2017-09-28T05:58:49Z"
   },

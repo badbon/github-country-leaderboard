@@ -20215,7 +20215,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 51,
+    "privateContributions": 36,
     "publicContributions": 65,
     "createdAt": "2023-04-10T13:50:19Z"
   },
@@ -20252,20 +20252,8 @@
     "twitterUsername": "UHazeiq",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 6,
     "createdAt": "2023-03-21T02:23:10Z"
-  },
-  {
-    "login": "AlexLomas1",
-    "name": "Alex Lomas",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/129366872?s=72&v=4",
-    "location": "Kuala Lumpur, Malaysia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 10,
-    "createdAt": "2023-03-30T06:53:23Z"
   },
   {
     "login": "YSKEE-HUB",
@@ -20286,7 +20274,7 @@
     "location": "Skudai,Malaysia",
     "company": "UTM",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 42,
     "createdAt": "2023-10-19T04:31:00Z"
@@ -20300,7 +20288,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 179,
+    "publicContributions": 175,
     "createdAt": "2023-10-22T06:31:41Z"
   },
   {
@@ -20312,7 +20300,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 12,
     "createdAt": "2023-12-14T04:33:52Z"
   },
   {
@@ -20334,7 +20322,7 @@
     "location": "Malaysia",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-06-23T14:42:57Z"
@@ -20347,8 +20335,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1328,
-    "publicContributions": 193,
+    "privateContributions": 1179,
+    "publicContributions": 179,
     "createdAt": "2023-08-01T04:34:24Z"
   },
   {
@@ -20394,8 +20382,8 @@
     "location": "Penang, Malaysia",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 629,
+    "followers": 3,
+    "privateContributions": 676,
     "publicContributions": 3,
     "createdAt": "2023-09-12T02:32:46Z"
   },
@@ -20406,7 +20394,7 @@
     "location": "Shah Alam, Selangor, Malaysia",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 64,
     "createdAt": "2023-10-04T03:03:03Z"

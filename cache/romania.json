@@ -20356,11 +20356,11 @@
     "name": "Cosmin Dinuț",
     "avatarUrl": "https://avatars.githubusercontent.com/u/125595986?s=72&u=ce1050ddc44e02c4b3912ed2b4af020d18e91f05&v=4",
     "location": "Bucharest",
-    "company": "QA DNA",
+    "company": "QADNA",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 127,
-    "publicContributions": 108,
+    "privateContributions": 1441,
+    "publicContributions": 109,
     "createdAt": "2023-02-16T17:55:41Z"
   },
   {
@@ -20372,7 +20372,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 7,
     "createdAt": "2023-07-11T09:54:19Z"
   },
   {
@@ -20384,7 +20384,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 18,
     "createdAt": "2023-09-01T07:37:12Z"
   },
   {
@@ -20444,7 +20444,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 34,
+    "publicContributions": 12,
     "createdAt": "2023-07-02T19:39:30Z"
   },
   {
@@ -20492,7 +20492,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 101,
+    "publicContributions": 127,
     "createdAt": "2023-11-24T08:49:01Z"
   },
   {
@@ -20506,18 +20506,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-01-12T10:06:09Z"
-  },
-  {
-    "login": "andialexandrescu",
-    "name": "Andra Alexandrescu",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/147060135?s=72&u=3b47ea6263f1a0f55b4abd153dac31edc7a18169&v=4",
-    "location": "Bucharest",
-    "company": "University of Bucharest",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 200,
-    "publicContributions": 116,
-    "createdAt": "2023-10-05T12:15:12Z"
   },
   {
     "login": "be-iulia-popescu",
@@ -20550,9 +20538,9 @@
     "location": "Bucharest",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 305,
+    "publicContributions": 384,
     "createdAt": "2023-09-05T17:11:05Z"
   },
   {
