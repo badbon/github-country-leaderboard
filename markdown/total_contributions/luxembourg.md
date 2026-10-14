@@ -1,12 +1,12 @@
 # Total Contributions - Luxembourg
 
-Generated: 2026-10-14T16:49:05.481Z
+Generated: 2026-10-14T18:54:18.631Z
 
 Users: 2191
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [libertjeremy](https://github.com/libertjeremy) | Jérémy | @LuxApps  |  | Luxembourg | 36874 |
+| 1 | [libertjeremy](https://github.com/libertjeremy) | Jérémy | @LuxApps  |  | Luxembourg | 35673 |
 | 2 | [kidiatoliny](https://github.com/kidiatoliny) | kidiatoliny | Akira | kidiatoliny | 23 Rue Théodore Gillen 1625 Howald Luxembourg | 24832 |
 | 3 | [gillesheinesch](https://github.com/gillesheinesch) | Gilles Heinesch | TEGI | gillesheinesch | Luxembourg | 16492 |
 | 4 | [fxmartin](https://github.com/fxmartin) | François-Xavier Martin |  |  | Luxembourg | 16359 |

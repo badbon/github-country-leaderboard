@@ -1,23 +1,23 @@
 # Public Contributions - Qatar
 
-Generated: 2026-10-14T17:07:17.104Z
+Generated: 2026-10-14T19:14:20.515Z
 
 Users: 1073
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [nirzaf](https://github.com/nirzaf) | M.F.M Fazrin | Primary Health Care Corporation |  | Doha - Qatar | 4408 |
-| 2 | [aurangzaib048](https://github.com/aurangzaib048) | Rana Aurangzaib |  |  | Doha, Qatar | 3727 |
+| 2 | [aurangzaib048](https://github.com/aurangzaib048) | Rana Aurangzaib |  |  | Doha, Qatar | 3850 |
 | 3 | [Bewinxed](https://github.com/Bewinxed) | Omar Al Matar | Hamad Medical Corporation | Bewinxed | Doha, Qatar | 3001 |
 | 4 | [Tamoura](https://github.com/Tamoura) | Tamer | QDB |  | Qatar | 1769 |
 | 5 | [kashkoool](https://github.com/kashkoool) | louay kashkool |  |  | qatar | 1715 |
 | 6 | [altyebv](https://github.com/altyebv) | Altayeb Abdeljalil  |  |  | Doha, Qatar  Sudan  | 1557 |
 | 7 | [BZO95](https://github.com/BZO95) | DeFi Junkie |  |  | Qatar | 1517 |
-| 8 | [Ajmalpshaik](https://github.com/Ajmalpshaik) | AjmalPS |  |  | Doha, Qatar | 1406 |
-| 9 | [hussain4real](https://github.com/hussain4real) | Hussain Aminu | Gethouse | hussain4real | Doha, Qatar | 1389 |
+| 8 | [hussain4real](https://github.com/hussain4real) | Hussain Aminu | Gethouse | hussain4real | Doha, Qatar | 1452 |
+| 9 | [Ajmalpshaik](https://github.com/Ajmalpshaik) | AjmalPS |  |  | Doha, Qatar | 1406 |
 | 10 | [itsarisid](https://github.com/itsarisid) | Sajid Khan | Ministry of Interior Qatar | itsarisid | Qatar | 1077 |
 | 11 | [aarntn](https://github.com/aarntn) | Aaron Tan | University of Malaya |  | Doha, Qatar | 1052 |
-| 12 | [atick-faisal](https://github.com/atick-faisal) | Atick Faisal | Researcher, Iberdrola |  | Doha, Qatar | 1044 |
+| 12 | [atick-faisal](https://github.com/atick-faisal) | Atick Faisal | Researcher, Iberdrola |  | Doha, Qatar | 1041 |
 | 13 | [rm1dev](https://github.com/rm1dev) | Reza Moghaddam | Romak |  | Qatar | 970 |
 | 14 | [kevinpiac](https://github.com/kevinpiac) | Kevin Piacentini |  | kevinpiac | Doha | 904 |
 | 15 | [shafiiiq](https://github.com/shafiiiq) | Muhammed Shafeek | Al Ansari |  | Qatar | 896 |

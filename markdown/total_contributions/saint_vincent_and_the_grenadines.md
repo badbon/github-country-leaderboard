@@ -1,6 +1,6 @@
 # Total Contributions - Saint Vincent and the Grenadines
 
-Generated: 2026-10-14T17:09:34.409Z
+Generated: 2026-10-14T19:17:40.684Z
 
 Users: 26
 
@@ -9,10 +9,10 @@ Users: 26
 | 1 | [colin-dbv](https://github.com/colin-dbv) | Colin Vincent | DBV Technology, LLC |  | North Kingstown RI | 536 |
 | 2 | [blazetopher](https://github.com/blazetopher) | Christopher Mueller | Maritime Planning Associates |  | North Kingstown, RI | 508 |
 | 3 | [2Remus](https://github.com/2Remus) | human#23416 | Customs and Excise St Vincent and the Grenadines |  | Kingstown, Saint George, Saint Vincent and the Grenadines | 373 |
-| 4 | [azeldaniel](https://github.com/azeldaniel) | Azel Daniel |  |  | Saint Vincent and the Grenadines | 332 |
+| 4 | [azeldaniel](https://github.com/azeldaniel) | Azel Daniel |  |  | Saint Vincent and the Grenadines | 334 |
 | 5 | [lukecampbell](https://github.com/lukecampbell) | Luke Campbell | Axiom Data Science, LLC |  | South Kingstown, RI | 304 |
 | 6 | [kazar4](https://github.com/kazar4) | Kazen Gallman |  |  | North Kingstown, Rhode Island | 159 |
-| 7 | [Kascique](https://github.com/Kascique) | Kascique Lowmans |  |  | Saint Vincent and the Grenadines | 41 |
+| 7 | [Kascique](https://github.com/Kascique) | Kascique Lowmans |  |  | Saint Vincent and the Grenadines | 43 |
 | 8 | [dellon28](https://github.com/dellon28) | Dellonte Boucher |  |  | Saint Vincent and the Grenadines | 25 |
 | 9 | [Richardson-Rayshorn](https://github.com/Richardson-Rayshorn) | Rayshorn Richardson | Eknotec Services Ltd |  | Saint Vincent and the Grenadines | 4 |
 | 10 | [Tomrish](https://github.com/Tomrish) | Tom Rishworth | New England FIRST |  | North Kingstown, RI | 3 |

@@ -19,9 +19,9 @@ Indexed users: 713
 | 5 | [w1am](https://github.com/w1am) | William Chong | Mauritius | 6,584 |
 | 6 | [wyxos](https://github.com/wyxos) | Wyxos | Mauritius | 6,334 |
 | 7 | [andrashejj](https://github.com/andrashejj) | Andras Hejj | Mauritius | 6,134 |
-| 8 | [MrSunshyne](https://github.com/MrSunshyne) | Sandeep Ramgolam | Mauritius | 5,557 |
-| 9 | [oliverox](https://github.com/oliverox) | Oliver Oxenham | Mauritius | 5,287 |
-| 10 | [Emmastro](https://github.com/Emmastro) | Emmanuel Bauma Murairi | Mauritius | 5,217 |
+| 8 | [Emmastro](https://github.com/Emmastro) | Emmanuel Bauma Murairi | Mauritius | 5,611 |
+| 9 | [MrSunshyne](https://github.com/MrSunshyne) | Sandeep Ramgolam | Mauritius | 5,557 |
+| 10 | [oliverox](https://github.com/oliverox) | Oliver Oxenham | Mauritius | 5,287 |
 | 11 | [masterdubs](https://github.com/masterdubs) | Dubs | Mauritius | 5,159 |
 | 12 | [nyashaChiza](https://github.com/nyashaChiza) | Nyasha Chizampeni | Port Louis, Mauritius | 5,013 |
 | 13 | [zfir](https://github.com/zfir) | Zafir Sk Heerah | Mauritius | 4,052 |
@@ -83,4 +83,4 @@ Indexed users: 713
 | 19 | [MaskyS](https://github.com/MaskyS) | Kifah M | Mauritius | 74 |
 | 20 | [umarmw](https://github.com/umarmw) | Umar Waliyullah | Mauritius | 66 |
 
-Generated: 2026-10-14T16:53:10.376Z
+Generated: 2026-10-14T18:58:25.872Z

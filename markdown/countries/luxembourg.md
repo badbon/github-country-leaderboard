@@ -12,7 +12,7 @@ Indexed users: 2,191
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [libertjeremy](https://github.com/libertjeremy) | Jérémy | Luxembourg | 36,874 |
+| 1 | [libertjeremy](https://github.com/libertjeremy) | Jérémy | Luxembourg | 35,673 |
 | 2 | [kidiatoliny](https://github.com/kidiatoliny) | kidiatoliny | 23 Rue Théodore Gillen 1625 Howald Luxembourg | 24,832 |
 | 3 | [gillesheinesch](https://github.com/gillesheinesch) | Gilles Heinesch | Luxembourg | 16,492 |
 | 4 | [fxmartin](https://github.com/fxmartin) | François-Xavier Martin | Luxembourg | 16,359 |
@@ -83,4 +83,4 @@ Indexed users: 2,191
 | 19 | [l4rz](https://github.com/l4rz) | Mike K. | Luxembourg | 197 |
 | 20 | [urosolia](https://github.com/urosolia) | Ugo Rosolia | Luxembourg, Lux | 192 |
 
-Generated: 2026-10-14T16:49:05.481Z
+Generated: 2026-10-14T18:54:18.631Z

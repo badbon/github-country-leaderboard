@@ -12,7 +12,7 @@ Indexed users: 348
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [dione24](https://github.com/dione24) | Niangaly Abdoulaye | BAMAKO MALI | 8,171 |
+| 1 | [dione24](https://github.com/dione24) | Niangaly Abdoulaye | BAMAKO MALI | 8,362 |
 | 2 | [koneke55](https://github.com/koneke55) | कोनेके | Bamako, Mali | 7,178 |
 | 3 | [flyBoy667](https://github.com/flyBoy667) | Salifou Dembélé | Bamako-Mali | 6,258 |
 | 4 | [Abbv75](https://github.com/Abbv75) | Younouss Boré  | Bamako, telecel GBS | 6,110 |
@@ -44,7 +44,7 @@ Indexed users: 348
 | 5 | [sudoping01](https://github.com/sudoping01) | sed | Bamako | 1,111 |
 | 6 | [Abbv75](https://github.com/Abbv75) | Younouss Boré  | Bamako, telecel GBS | 566 |
 | 7 | [THIOYE97](https://github.com/THIOYE97) | THIOYE MARIKO | Bamako , Mali 🇲🇱  | 386 |
-| 8 | [LeoAz](https://github.com/LeoAz) | Lionel AZ | Bamako | 382 |
+| 8 | [LeoAz](https://github.com/LeoAz) | Lionel AZ | Bamako | 383 |
 | 9 | [Abdoul03](https://github.com/Abdoul03) | Abdoul Ibrahima Samaké | Bamako | 368 |
 | 10 | [skypper109](https://github.com/skypper109) | SKYPPER | Mali | 331 |
 | 11 | [malladev](https://github.com/malladev) | Mohamed Lamine KONE | Bamako - MALI | 304 |
@@ -56,7 +56,7 @@ Indexed users: 348
 | 17 | [mandjou-dama](https://github.com/mandjou-dama) | Mandjou Dama | Bamako, Mali | 176 |
 | 18 | [Babasky](https://github.com/Babasky) | Boureima MAIGA | Bamako | 156 |
 | 19 | [diarray-hub](https://github.com/diarray-hub) | Diarra Yacouba | Bamako, Mali | 155 |
-| 20 | [dione24](https://github.com/dione24) | Niangaly Abdoulaye | BAMAKO MALI | 145 |
+| 20 | [Ibraci](https://github.com/Ibraci) | Ibrahim CISSE | Bamako | 148 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 348
 | 19 | [AlyKonte](https://github.com/AlyKonte) |  | Mali/Bamako | 27 |
 | 20 | [Dioman-Keita](https://github.com/Dioman-Keita) | Dioman Keïta | Bamako/Mali | 26 |
 
-Generated: 2026-10-14T16:51:25.195Z
+Generated: 2026-10-14T18:56:19.642Z
