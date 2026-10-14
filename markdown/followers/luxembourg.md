@@ -1,6 +1,6 @@
 # Followers - Luxembourg
 
-Generated: 2026-10-14T15:27:04.488Z
+Generated: 2026-10-14T16:49:05.481Z
 
 Users: 2191
 

@@ -1,6 +1,6 @@
 # Total Contributions - Palestine
 
-Generated: 2026-10-14T15:39:08.779Z
+Generated: 2026-10-14T17:05:00.565Z
 
 Users: 2201
 
@@ -9,7 +9,7 @@ Users: 2201
 | 1 | [TareqK](https://github.com/TareqK) | Tareq Kirresh طارق قرش | Kisoft |  | Jerusalem, Palestine | 87555 |
 | 2 | [prxgma](https://github.com/prxgma) |  |  |  | Gaza, Palestine | 17930 |
 | 3 | [mahmoudps](https://github.com/mahmoudps) | Mahmoud Matar | atyaf |  | Palestine | 11924 |
-| 4 | [FALKONPS](https://github.com/FALKONPS) | FALKON.PS |  |  | Palestine | 11579 |
+| 4 | [FALKONPS](https://github.com/FALKONPS) | FALKON.PS |  |  | Palestine | 11777 |
 | 5 | [ibrahimhajjaj](https://github.com/ibrahimhajjaj) | Ibrahim Hajjaj | Verdelic |  | Palestine | 8066 |
 | 6 | [Walaa-Volidis](https://github.com/Walaa-Volidis) |  |  |  | Palestine | 7546 |
 | 7 | [izadoesdev](https://github.com/izadoesdev) | iza | Databuddy | izadoesdev | Palestine | 7373 |

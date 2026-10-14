@@ -18,15 +18,15 @@ Indexed users: 2,191
 | 4 | [fxmartin](https://github.com/fxmartin) | François-Xavier Martin | Luxembourg | 16,359 |
 | 5 | [FlorentNodz](https://github.com/FlorentNodz) | Florent | Luxembourg | 16,355 |
 | 6 | [leobenkel](https://github.com/leobenkel) | Leo Benkel | Luxembourg | 14,135 |
-| 7 | [kboumedal](https://github.com/kboumedal) | Kevin | Luxembourg | 11,268 |
-| 8 | [KoStard](https://github.com/KoStard) | Ruben Kostandyan | Luxembourg | 11,009 |
-| 9 | [assaad](https://github.com/assaad) | Assaad Moawad | Luxembourg | 9,834 |
-| 10 | [bolivian-peru](https://github.com/bolivian-peru) | peruvian | Luxembourg | 9,289 |
-| 11 | [JonBasse](https://github.com/JonBasse) | Jonathan Basse | Luxembourg | 8,874 |
-| 12 | [samtin0x](https://github.com/samtin0x) | samtin0x | Luxembourg | 7,072 |
-| 13 | [AndrejOrsula](https://github.com/AndrejOrsula) | Andrej Orsula | Luxembourg | 7,040 |
-| 14 | [leobenkel-db](https://github.com/leobenkel-db) | Leo Benkel (bot)  | Luxembourg | 6,955 |
-| 15 | [SignedAdam](https://github.com/SignedAdam) | adam | Luxembourg | 6,723 |
+| 7 | [JonBasse](https://github.com/JonBasse) | Jonathan Basse | Luxembourg | 12,457 |
+| 8 | [kboumedal](https://github.com/kboumedal) | Kevin | Luxembourg | 11,268 |
+| 9 | [KoStard](https://github.com/KoStard) | Ruben Kostandyan | Luxembourg | 11,009 |
+| 10 | [assaad](https://github.com/assaad) | Assaad Moawad | Luxembourg | 9,834 |
+| 11 | [bolivian-peru](https://github.com/bolivian-peru) | peruvian | Luxembourg | 9,289 |
+| 12 | [SignedAdam](https://github.com/SignedAdam) | adam | Luxembourg | 9,137 |
+| 13 | [samtin0x](https://github.com/samtin0x) | samtin0x | Luxembourg | 7,072 |
+| 14 | [AndrejOrsula](https://github.com/AndrejOrsula) | Andrej Orsula | Luxembourg | 7,040 |
+| 15 | [leobenkel-db](https://github.com/leobenkel-db) | Leo Benkel (bot)  | Luxembourg | 6,955 |
 | 16 | [b-rodrigues](https://github.com/b-rodrigues) | Bruno Rodrigues | Luxembourg-City, Luxembourg | 6,477 |
 | 17 | [nicolasguelfi](https://github.com/nicolasguelfi) | Nicolas Guelfi | Esch-sur-Alzette, Luxembourg | 6,213 |
 | 18 | [francois352](https://github.com/francois352) | Francois Altwies | Luxembourg | 6,197 |
@@ -83,4 +83,4 @@ Indexed users: 2,191
 | 19 | [l4rz](https://github.com/l4rz) | Mike K. | Luxembourg | 197 |
 | 20 | [urosolia](https://github.com/urosolia) | Ugo Rosolia | Luxembourg, Lux | 192 |
 
-Generated: 2026-10-14T15:27:04.488Z
+Generated: 2026-10-14T16:49:05.481Z

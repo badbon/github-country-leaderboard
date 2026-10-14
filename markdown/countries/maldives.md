@@ -24,13 +24,13 @@ Indexed users: 354
 | 10 | [nullptrz](https://github.com/nullptrz) | Ali Ahsan Saeed | Maldives | 5,458 |
 | 11 | [agent306](https://github.com/agent306) | Ncodex | Male', Maldives | 5,009 |
 | 12 | [jaaahh](https://github.com/jaaahh) | Jaah | Maldives | 4,963 |
-| 13 | [roris](https://github.com/roris) | Thoail Ahmed | Maldives | 4,840 |
+| 13 | [roris](https://github.com/roris) | Thoail Ahmed | Maldives | 4,856 |
 | 14 | [maldivien](https://github.com/maldivien) | Ahmed Shareef | Maldives | 4,824 |
 | 15 | [NeXsHeLL](https://github.com/NeXsHeLL) | ismile ThuThts | Maldives | 4,792 |
 | 16 | [muizzu](https://github.com/muizzu) | Muizzu Abbas | Maldives | 4,680 |
-| 17 | [ayarse](https://github.com/ayarse) | ayaz | Maldives | 4,662 |
+| 17 | [ayarse](https://github.com/ayarse) | ayaz | Maldives | 4,678 |
 | 18 | [samynmhd](https://github.com/samynmhd) | Mohamed Sameen Firaq | Maldives | 4,109 |
-| 19 | [whosaynow](https://github.com/whosaynow) | whosaynow | Maldives | 4,060 |
+| 19 | [whosaynow](https://github.com/whosaynow) | whosaynow | Maldives | 4,040 |
 | 20 | [ismailshuaau](https://github.com/ismailshuaau) | Ismail Shuaau | Male', Maldives | 4,002 |
 
 ## Public Contributions
@@ -48,7 +48,7 @@ Indexed users: 354
 | 9 | [crockalet](https://github.com/crockalet) |  | Maldives | 672 |
 | 10 | [fallenbagel](https://github.com/fallenbagel) |  | Maldives | 637 |
 | 11 | [N4ZEN](https://github.com/N4ZEN) | Naza | Maldives | 498 |
-| 12 | [chipaau](https://github.com/chipaau) | ahmed shifau | Maldives | 453 |
+| 12 | [chipaau](https://github.com/chipaau) | ahmed shifau | Maldives | 468 |
 | 13 | [Ghoul4500](https://github.com/Ghoul4500) | Ahmed Yaseen | Maldives | 424 |
 | 14 | [xSil3nt](https://github.com/xSil3nt) | Shazin | Male', Maldives | 421 |
 | 15 | [M-IYAAADH](https://github.com/M-IYAAADH) | Mohamed Iyaadh | Male' , Maldives | 366 |
@@ -83,4 +83,4 @@ Indexed users: 354
 | 19 | [Dharisd](https://github.com/Dharisd) |  | maldives | 41 |
 | 20 | [muhannad0](https://github.com/muhannad0) | Monde | Maldives | 41 |
 
-Generated: 2026-10-14T15:29:09.464Z
+Generated: 2026-10-14T16:50:51.945Z

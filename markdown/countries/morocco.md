@@ -1,6 +1,6 @@
 # Morocco
 
-Indexed users: 9,646
+Indexed users: 9,645
 
 | Leaderboard | Link |
 |---|---|
@@ -62,13 +62,13 @@ Indexed users: 9,646
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [alaesic](https://github.com/alaesic) | Alae-Eddine | Casablanca, Morocco. | 4,195 |
+| 1 | [alaesic](https://github.com/alaesic) | Alae-Eddine | Casablanca, Morocco. | 4,149 |
 | 2 | [ZeroMemoryEx](https://github.com/ZeroMemoryEx) | Anas  | Morocco | 2,133 |
-| 3 | [SaadAhla](https://github.com/SaadAhla) | SaadAhla | Morocco | 1,772 |
+| 3 | [SaadAhla](https://github.com/SaadAhla) | SaadAhla | Morocco | 1,768 |
 | 4 | [AymaneMehdi](https://github.com/AymaneMehdi) | Aymane Mehdi | Casablanca, Morocco | 1,702 |
 | 5 | [El-Tousy](https://github.com/El-Tousy) | El Tousy | Morocco | 1,545 |
 | 6 | [zakarialaoui10](https://github.com/zakarialaoui10) | ZAKARIA ELALAOUI | Morocco | 1,409 |
-| 7 | [Abdellahsyani](https://github.com/Abdellahsyani) | Abdellah  | Morocco | 1,304 |
+| 7 | [Abdellahsyani](https://github.com/Abdellahsyani) | Abdellah  | Morocco | 1,302 |
 | 8 | [ablaamim](https://github.com/ablaamim) | Abdessamad Laamimi | Morocco | 1,150 |
 | 9 | [yjose](https://github.com/yjose) | Youssouf EL AZIZI | Casablanca, Morocco | 1,134 |
 | 10 | [yelouafi](https://github.com/yelouafi) | Yassine Elouafi | Morocco | 1,046 |
@@ -83,4 +83,4 @@ Indexed users: 9,646
 | 19 | [walidbosso](https://github.com/walidbosso) | Walid BOUSSOU | Tetouan, Morocco. | 821 |
 | 20 | [yassnemo](https://github.com/yassnemo) | Yassine Erradouani | Casablanca, Morocco | 741 |
 
-Generated: 2026-10-14T15:33:12.717Z
+Generated: 2026-10-14T16:56:38.378Z

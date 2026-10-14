@@ -1,6 +1,6 @@
 # Public Contributions - Macau
 
-Generated: 2026-10-14T15:27:10.512Z
+Generated: 2026-10-14T16:49:11.420Z
 
 Users: 439
 
@@ -8,10 +8,10 @@ Users: 439
 |---:|---|---|---|---|---|---:|
 | 1 | [sou350121](https://github.com/sou350121) | KenSou |  |  | Macau | 5362 |
 | 2 | [spiritLHLS](https://github.com/spiritLHLS) | spiritlhl | CAICT |  | Macau | 4828 |
-| 3 | [sfcheung](https://github.com/sfcheung) | Shu Fai Cheung | University of Macau | blogonresearch | Macao | 2776 |
+| 3 | [sfcheung](https://github.com/sfcheung) | Shu Fai Cheung | University of Macau | blogonresearch | Macao | 2798 |
 | 4 | [mugpeng](https://github.com/mugpeng) | Peng |  |  | macao | 2274 |
 | 5 | [RyanKung](https://github.com/RyanKung) | Elder Ryan |  | Elder24601 | Macau | 2000 |
-| 6 | [hheei](https://github.com/hheei) | Lo Chon Hei |  |  | Macau | 1725 |
+| 6 | [hheei](https://github.com/hheei) | Lo Chon Hei |  |  | Macau | 1754 |
 | 7 | [wahengchang](https://github.com/wahengchang) | peterchang | @Yahoo |  | macau | 1336 |
 | 8 | [yyyyyyounger](https://github.com/yyyyyyounger) | Rookie, LIN | University of Macau |  | Macau | 1285 |
 | 9 | [simoniong](https://github.com/simoniong) | Simon Iong | Ksun Technology |  | Macau | 1277 |

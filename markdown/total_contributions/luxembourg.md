@@ -1,6 +1,6 @@
 # Total Contributions - Luxembourg
 
-Generated: 2026-10-14T15:27:04.488Z
+Generated: 2026-10-14T16:49:05.481Z
 
 Users: 2191
 
@@ -12,15 +12,15 @@ Users: 2191
 | 4 | [fxmartin](https://github.com/fxmartin) | François-Xavier Martin |  |  | Luxembourg | 16359 |
 | 5 | [FlorentNodz](https://github.com/FlorentNodz) | Florent | Nodz |  | Luxembourg | 16355 |
 | 6 | [leobenkel](https://github.com/leobenkel) | Leo Benkel | @Pure-Lambda  |  | Luxembourg | 14135 |
-| 7 | [kboumedal](https://github.com/kboumedal) | Kevin | @LuxApps  |  | Luxembourg | 11268 |
-| 8 | [KoStard](https://github.com/KoStard) | Ruben Kostandyan | Amazon |  | Luxembourg | 11009 |
-| 9 | [assaad](https://github.com/assaad) | Assaad Moawad |  |  | Luxembourg | 9834 |
-| 10 | [bolivian-peru](https://github.com/bolivian-peru) | peruvian |  |  | Luxembourg | 9289 |
-| 11 | [JonBasse](https://github.com/JonBasse) | Jonathan Basse | Data Essential |  | Luxembourg | 8874 |
-| 12 | [samtin0x](https://github.com/samtin0x) | samtin0x |  |  | Luxembourg | 7072 |
-| 13 | [AndrejOrsula](https://github.com/AndrejOrsula) | Andrej Orsula | @snt-spacer |  | Luxembourg | 7040 |
-| 14 | [leobenkel-db](https://github.com/leobenkel-db) | Leo Benkel (bot)  | PURE LAMBDA | LeoBenkel | Luxembourg | 6955 |
-| 15 | [SignedAdam](https://github.com/SignedAdam) | adam | Narkis.ai | signed_adam | Luxembourg | 6723 |
+| 7 | [JonBasse](https://github.com/JonBasse) | Jonathan Basse |  |  | Luxembourg | 12457 |
+| 8 | [kboumedal](https://github.com/kboumedal) | Kevin | @LuxApps  |  | Luxembourg | 11268 |
+| 9 | [KoStard](https://github.com/KoStard) | Ruben Kostandyan | Amazon |  | Luxembourg | 11009 |
+| 10 | [assaad](https://github.com/assaad) | Assaad Moawad |  |  | Luxembourg | 9834 |
+| 11 | [bolivian-peru](https://github.com/bolivian-peru) | peruvian |  |  | Luxembourg | 9289 |
+| 12 | [SignedAdam](https://github.com/SignedAdam) | adam | Narkis.ai | signed_adam | Luxembourg | 9137 |
+| 13 | [samtin0x](https://github.com/samtin0x) | samtin0x |  |  | Luxembourg | 7072 |
+| 14 | [AndrejOrsula](https://github.com/AndrejOrsula) | Andrej Orsula | @snt-spacer |  | Luxembourg | 7040 |
+| 15 | [leobenkel-db](https://github.com/leobenkel-db) | Leo Benkel (bot)  | PURE LAMBDA | LeoBenkel | Luxembourg | 6955 |
 | 16 | [b-rodrigues](https://github.com/b-rodrigues) | Bruno Rodrigues | MESR, Luxembourg | brodriguesco | Luxembourg-City, Luxembourg | 6477 |
 | 17 | [nicolasguelfi](https://github.com/nicolasguelfi) | Nicolas Guelfi | Right-On-Skill |  | Esch-sur-Alzette, Luxembourg | 6213 |
 | 18 | [francois352](https://github.com/francois352) | Francois Altwies | Neurofeedback Luxembourg | francois352 | Luxembourg | 6197 |

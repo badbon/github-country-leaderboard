@@ -1,6 +1,6 @@
 # Public Contributions - Senegal
 
-Generated: 2026-10-14T15:46:37.792Z
+Generated: 2026-10-14T17:10:28.935Z
 
 Users: 1357
 
@@ -19,8 +19,8 @@ Users: 1357
 | 11 | [Libs9977](https://github.com/Libs9977) | Libasse Mbaye | Teyliom |  | Dakar,Senegal | 1583 |
 | 12 | [patheGobel](https://github.com/patheGobel) | Pathé BA |  | Pathegobelba | Senegal  | 1315 |
 | 13 | [Ramadiaw12](https://github.com/Ramadiaw12) | Rahma |  |  | Senegal | 1275 |
-| 14 | [soszaboss](https://github.com/soszaboss) | Moustoifa Ben Kamal Moussa |  |  | Dakar, Senegal | 1220 |
-| 15 | [SeydinaBANE](https://github.com/SeydinaBANE) | Seydina Mouhamet BANE | OptimaIA |  | Dakar,Senegal | 1160 |
+| 14 | [soszaboss](https://github.com/soszaboss) | Moustoifa Ben Kamal Moussa |  |  | Dakar, Senegal | 1229 |
+| 15 | [SeydinaBANE](https://github.com/SeydinaBANE) | Seydina Mouhamet BANE | OptimaIA |  | Dakar,Senegal | 1159 |
 | 16 | [supermalang](https://github.com/supermalang) | Elhadji Malang | Digital Project Manager at Laiterie Du Berger | supermalang_ | Dakar | 1143 |
 | 17 | [sokhnaFaaty](https://github.com/sokhnaFaaty) | nexuusDev |  |  | Senegal | 1066 |
 | 18 | [RBen19](https://github.com/RBen19) | Rosinard Beni |  |  | Dakar, Senegal | 1031 |

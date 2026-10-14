@@ -1,6 +1,6 @@
 # Public Contributions - Palestine
 
-Generated: 2026-10-14T15:39:08.779Z
+Generated: 2026-10-14T17:05:00.565Z
 
 Users: 2201
 
@@ -8,12 +8,12 @@ Users: 2201
 |---:|---|---|---|---|---|---:|
 | 1 | [izadoesdev](https://github.com/izadoesdev) | iza | Databuddy | izadoesdev | Palestine | 6937 |
 | 2 | [AhmedMElhalaby](https://github.com/AhmedMElhalaby) | Ahmed M. Elhalaby |  | AhmedMElhalaby | Palestine, Gaza, Remal, khdeer Tower , 5th floor | 2199 |
-| 3 | [Ayaalmadhon2004](https://github.com/Ayaalmadhon2004) | Aya almadhon |  |  | Palestine | 1621 |
-| 4 | [Tojan-Naiem](https://github.com/Tojan-Naiem) | Tojan |  |  | Palestine | 1562 |
-| 5 | [darxx03eh](https://github.com/darxx03eh) | Mahmoud Darawsheh |  |  | Nablus, Palestine | 1531 |
-| 6 | [hayasam](https://github.com/hayasam) | Haya Samaana | An Najah National University |  | Palestine | 1464 |
-| 7 | [Maryam-Skaik](https://github.com/Maryam-Skaik) | Maryam Skaik | IUG |  | Gaza, Palestine | 1436 |
-| 8 | [KhaledAwashreh](https://github.com/KhaledAwashreh) | Khaled Awashreh | @Restaurant365 |  |  Palestine - Ramallah | 1406 |
+| 3 | [KhaledAwashreh](https://github.com/KhaledAwashreh) | Khaled Awashreh | @Restaurant365 |  |  Palestine - Ramallah | 1693 |
+| 4 | [Ayaalmadhon2004](https://github.com/Ayaalmadhon2004) | Aya almadhon |  |  | Palestine | 1621 |
+| 5 | [Tojan-Naiem](https://github.com/Tojan-Naiem) | Tojan |  |  | Palestine | 1562 |
+| 6 | [darxx03eh](https://github.com/darxx03eh) | Mahmoud Darawsheh |  |  | Nablus, Palestine | 1531 |
+| 7 | [hayasam](https://github.com/hayasam) | Haya Samaana | An Najah National University |  | Palestine | 1464 |
+| 8 | [Maryam-Skaik](https://github.com/Maryam-Skaik) | Maryam Skaik | IUG |  | Gaza, Palestine | 1436 |
 | 9 | [AlaaArmoush](https://github.com/AlaaArmoush) | Alaa Armoush |  |  | Nablus, Palestine | 1014 |
 | 10 | [fjcj0](https://github.com/fjcj0) | 𝓞𝓜𝓐𝓡 𝓒𝓞𝓓𝓘𝓝𝓖🐉 | Blue | OMARCODING_LEET | Palestine,Ramallah | 982 |
 | 11 | [OthmanMohammad](https://github.com/OthmanMohammad) | Mohammad Othman | @TransformerLabs  |  | Palestine | 950 |

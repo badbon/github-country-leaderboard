@@ -55,8 +55,8 @@ Indexed users: 1,394
 | 16 | [ernestoruiz89](https://github.com/ernestoruiz89) | Ernesto Ruiz | Nicaragua | 967 |
 | 17 | [fabmnt](https://github.com/fabmnt) | Fabián Montoya | Nicaragua | 895 |
 | 18 | [Gaboxqc](https://github.com/Gaboxqc) | Gabriel Mayorga | Managua | 894 |
-| 19 | [Alvinferdeveloper](https://github.com/Alvinferdeveloper) | Albin Fernandez | Leon, Nicaragua | 876 |
-| 20 | [xangcastle](https://github.com/xangcastle) | Cesar Abel | Nicaragua | 845 |
+| 19 | [xangcastle](https://github.com/xangcastle) | Cesar Abel | Nicaragua | 845 |
+| 20 | [Alvinferdeveloper](https://github.com/Alvinferdeveloper) | Albin Fernandez | Leon, Nicaragua | 838 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,394
 | 19 | [dannygaray60](https://github.com/dannygaray60) | Danny Garay | Nicaragua | 61 |
 | 20 | [jonathanquehay](https://github.com/jonathanquehay) | Jonathán Moreno | Nicaragua | 60 |
 
-Generated: 2026-10-14T15:34:05.613Z
+Generated: 2026-10-14T17:00:30.963Z

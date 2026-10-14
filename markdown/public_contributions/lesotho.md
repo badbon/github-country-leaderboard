@@ -1,6 +1,6 @@
 # Public Contributions - Lesotho
 
-Generated: 2026-10-14T15:24:09.107Z
+Generated: 2026-10-14T16:47:08.277Z
 
 Users: 160
 
@@ -16,11 +16,11 @@ Users: 160
 | 8 | [LomNtetha](https://github.com/LomNtetha) | Lumkile Ntetha |  | ntethalumkile | Maseru | 182 |
 | 9 | [tshakalekholoane](https://github.com/tshakalekholoane) | Tshaka Lekholoane |  |  | Maseru, Lesotho | 150 |
 | 10 | [hitman1c](https://github.com/hitman1c) | SechabaLaptopTracker | SechabaLaptopTracker |  | Lesotho,Maseru | 131 |
-| 11 | [khauta](https://github.com/khauta) | Khauta Maliehe | @Liparola  | kjamaliehe | Maseru, Lesotho | 123 |
+| 11 | [khauta](https://github.com/khauta) | Khauta Maliehe | @Liparola  | kjamaliehe | Maseru, Lesotho | 125 |
 | 12 | [Relebo1](https://github.com/Relebo1) | Relebohile Sekutlu | Mindforge AI |  | Maseru | 101 |
 | 13 | [ocaes](https://github.com/ocaes) | Tsitso Mafantiri | OCAES  | ocaes_lso | Lesotho | 98 |
 | 14 | [AguelDawma](https://github.com/AguelDawma) | Thapelo Sekhonyana |  |  | Upper Thamae Maseru | 95 |
-| 15 | [lmphatsi](https://github.com/lmphatsi) | Lebajoa Mphatsi |  |  | Lesotho | 85 |
+| 15 | [lmphatsi](https://github.com/lmphatsi) | Lebajoa Mphatsi |  |  | Lesotho | 88 |
 | 16 | [n4p000-q](https://github.com/n4p000-q) | N311Q .jpg |  | ThisisNapoQheku | Lesotho, Maseru | 74 |
 | 17 | [KuenaMahase](https://github.com/KuenaMahase) | Kuena Mahase | National University of Lesotho, Hubsec Solutions |  | Lesotho | 73 |
 | 18 | [Bothata-desig](https://github.com/Bothata-desig) | Bothata Sello |  |  | Maseru, Lesotho | 69 |

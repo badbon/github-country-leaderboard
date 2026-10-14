@@ -1,6 +1,6 @@
 # Public Contributions - Laos
 
-Generated: 2026-10-14T15:22:38.923Z
+Generated: 2026-10-14T16:45:53.178Z
 
 Users: 360
 
@@ -12,7 +12,7 @@ Users: 360
 | 4 | [tyecode](https://github.com/tyecode) | Sengphachanh CHANTHAVONG |  |  | Vientiane Capital, Laos | 624 |
 | 5 | [iamlex01](https://github.com/iamlex01) | Alex Saelao |  |  | Vientiane, Laos | 442 |
 | 6 | [dhecaptain](https://github.com/dhecaptain) | David Wambua | PUFFADDERS |  | Laos | 390 |
-| 7 | [douangtavanh](https://github.com/douangtavanh) | Douangtavanh Kongphaly |  |  | Vientiane, Laos | 389 |
+| 7 | [douangtavanh](https://github.com/douangtavanh) | Douangtavanh Kongphaly |  |  | Vientiane, Laos | 387 |
 | 8 | [maxontorres](https://github.com/maxontorres) | Maxon Torres | Freelance | MaxonTorres | Vientiane, Laos | 344 |
 | 9 | [barluscuda](https://github.com/barluscuda) | BarlusCuda |  |  | Laos | 294 |
 | 10 | [KT246](https://github.com/KT246) | khamtay kongmanh |  |  | Vientiane, Laos | 258 |
@@ -25,4 +25,4 @@ Users: 360
 | 17 | [Tedev555](https://github.com/Tedev555) | Thanongsine Chanthakham | http://tedory.me |  | Vientiane, Laos | 120 |
 | 18 | [Bird9249](https://github.com/Bird9249) | BirdKeonavong | hal tech |  | Laos, Vientiane | 116 |
 | 19 | [Billion101](https://github.com/Billion101) | Billion101 |  |  | Laos | 112 |
-| 20 | [BigguyPapsi](https://github.com/BigguyPapsi) | ThanouPap |  |  | Vangvieng, Vientiane, Laos | 111 |
+| 20 | [Yingyony0097](https://github.com/Yingyony0097) | Saimond |  | yingyong0097 | Vientaine, Laos | 112 |

@@ -1,18 +1,18 @@
 # Followers - Morocco
 
-Generated: 2026-10-14T15:33:12.717Z
+Generated: 2026-10-14T16:56:38.378Z
 
-Users: 9646
+Users: 9645
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [alaesic](https://github.com/alaesic) | Alae-Eddine | Future Full Stack Developer |  | Casablanca, Morocco. | 4195 |
+| 1 | [alaesic](https://github.com/alaesic) | Alae-Eddine | Future Full Stack Developer |  | Casablanca, Morocco. | 4149 |
 | 2 | [ZeroMemoryEx](https://github.com/ZeroMemoryEx) | Anas  |  | ZeroMemoryEx | Morocco | 2133 |
-| 3 | [SaadAhla](https://github.com/SaadAhla) | SaadAhla |  |  | Morocco | 1772 |
+| 3 | [SaadAhla](https://github.com/SaadAhla) | SaadAhla |  |  | Morocco | 1768 |
 | 4 | [AymaneMehdi](https://github.com/AymaneMehdi) | Aymane Mehdi |  |  | Casablanca, Morocco | 1702 |
 | 5 | [El-Tousy](https://github.com/El-Tousy) | El Tousy |  |  | Morocco | 1545 |
 | 6 | [zakarialaoui10](https://github.com/zakarialaoui10) | ZAKARIA ELALAOUI |  | zakarialaoui10 | Morocco | 1409 |
-| 7 | [Abdellahsyani](https://github.com/Abdellahsyani) | Abdellah  | 42 Network/1337 | AbdellahSyani | Morocco | 1304 |
+| 7 | [Abdellahsyani](https://github.com/Abdellahsyani) | Abdellah  | 42 Network/1337 | AbdellahSyani | Morocco | 1302 |
 | 8 | [ablaamim](https://github.com/ablaamim) | Abdessamad Laamimi | NULL |  | Morocco | 1150 |
 | 9 | [yjose](https://github.com/yjose) | Youssouf EL AZIZI | @obytes  | ElaziziYoussouf | Casablanca, Morocco | 1134 |
 | 10 | [yelouafi](https://github.com/yelouafi) | Yassine Elouafi |  |  | Morocco | 1046 |
