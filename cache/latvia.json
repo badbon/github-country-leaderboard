@@ -19519,7 +19519,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 528,
+    "privateContributions": 348,
     "publicContributions": 12,
     "createdAt": "2017-09-27T08:50:50Z"
   },
@@ -19560,18 +19560,6 @@
     "createdAt": "2017-10-22T19:13:56Z"
   },
   {
-    "login": "kanechoo",
-    "name": "K",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/26401795?s=72&v=4",
-    "location": "Latvia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 72,
-    "publicContributions": 20,
-    "createdAt": "2017-03-14T07:05:08Z"
-  },
-  {
     "login": "DariaLash",
     "name": "Daria Lashkevich",
     "avatarUrl": "https://avatars.githubusercontent.com/u/32952953?s=72&u=133a294e509172b47f4edd5a688ef806783d3b12&v=4",
@@ -19592,7 +19580,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 33,
+    "publicContributions": 31,
     "createdAt": "2017-07-11T17:11:26Z"
   },
   {
@@ -19603,8 +19591,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 11,
-    "publicContributions": 7,
+    "privateContributions": 19,
+    "publicContributions": 10,
     "createdAt": "2017-11-30T16:47:08Z"
   },
   {
@@ -19640,7 +19628,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 5,
     "createdAt": "2017-08-13T23:18:49Z"
   },
   {
@@ -19651,7 +19639,7 @@
     "company": "Levelpath, TietoEvry, CEO MyVetData",
     "twitterUsername": "JanisBasovsDev",
     "followers": 3,
-    "privateContributions": 3344,
+    "privateContributions": 4439,
     "publicContributions": 0,
     "createdAt": "2017-10-12T17:44:13Z"
   },
@@ -19688,7 +19676,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 2,
     "createdAt": "2017-02-26T13:31:53Z"
   },
   {
@@ -19734,7 +19722,7 @@
     "location": "Latvia, Riga",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-09-07T08:25:39Z"

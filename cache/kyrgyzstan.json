@@ -19724,7 +19724,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 0,
     "createdAt": "2020-10-01T15:05:50Z"
   },
   {
@@ -19748,7 +19748,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 118,
+    "publicContributions": 120,
     "createdAt": "2020-03-29T10:50:39Z"
   },
   {
@@ -19759,8 +19759,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 158,
-    "publicContributions": 0,
+    "privateContributions": 182,
+    "publicContributions": 2,
     "createdAt": "2020-08-31T15:57:42Z"
   },
   {
@@ -19770,9 +19770,9 @@
     "location": "Nary, Kyrgyz Republic",
     "company": "University of Central Asia",
     "twitterUsername": "qalmaqihir",
-    "followers": 23,
+    "followers": 24,
     "privateContributions": 79,
-    "publicContributions": 24,
+    "publicContributions": 6,
     "createdAt": "2019-01-04T06:53:02Z"
   },
   {
@@ -19819,7 +19819,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 51,
+    "privateContributions": 14,
     "publicContributions": 0,
     "createdAt": "2019-01-08T12:36:19Z"
   },
@@ -19856,7 +19856,7 @@
     "twitterUsername": "",
     "followers": 64,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 5,
     "createdAt": "2019-11-12T12:48:41Z"
   },
   {
@@ -19866,9 +19866,9 @@
     "location": "Bishkek, Kyrgyzstan",
     "company": "boomerang.plus",
     "twitterUsername": "p1p1sasa",
-    "followers": 37,
-    "privateContributions": 1820,
-    "publicContributions": 22,
+    "followers": 36,
+    "privateContributions": 2350,
+    "publicContributions": 415,
     "createdAt": "2019-08-26T10:42:07Z"
   },
   {
@@ -19878,9 +19878,9 @@
     "location": "Bishkek, Kyrgyzstan",
     "company": "",
     "twitterUsername": "",
-    "followers": 36,
+    "followers": 37,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 9,
     "createdAt": "2019-04-06T08:33:17Z"
   },
   {
@@ -19890,7 +19890,7 @@
     "location": "Kyrgyzstan, Bishkek",
     "company": "",
     "twitterUsername": "",
-    "followers": 30,
+    "followers": 31,
     "privateContributions": 3,
     "publicContributions": 0,
     "createdAt": "2019-12-18T15:20:13Z"
@@ -19903,8 +19903,8 @@
     "company": "Salyk Service",
     "twitterUsername": "",
     "followers": 25,
-    "privateContributions": 942,
-    "publicContributions": 4,
+    "privateContributions": 943,
+    "publicContributions": 5,
     "createdAt": "2019-11-09T17:30:13Z"
   },
   {
@@ -19914,9 +19914,9 @@
     "location": "Kyrgyzstan",
     "company": "",
     "twitterUsername": "turgunbaev",
-    "followers": 23,
-    "privateContributions": 1014,
-    "publicContributions": 14,
+    "followers": 19,
+    "privateContributions": 894,
+    "publicContributions": 12,
     "createdAt": "2019-12-14T17:53:08Z"
   },
   {
@@ -19927,8 +19927,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 23,
-    "privateContributions": 169,
-    "publicContributions": 6,
+    "privateContributions": 588,
+    "publicContributions": 0,
     "createdAt": "2019-11-06T08:48:37Z"
   },
   {
@@ -19939,8 +19939,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 23,
-    "privateContributions": 510,
-    "publicContributions": 5,
+    "privateContributions": 702,
+    "publicContributions": 47,
     "createdAt": "2019-03-11T13:47:31Z"
   },
   {

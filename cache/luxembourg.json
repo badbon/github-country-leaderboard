@@ -19615,8 +19615,8 @@
     "company": "ume",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 597,
-    "publicContributions": 3,
+    "privateContributions": 563,
+    "publicContributions": 68,
     "createdAt": "2014-04-24T13:34:40Z"
   },
   {
@@ -19627,7 +19627,7 @@
     "company": "Finologee",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
+    "privateContributions": 356,
     "publicContributions": 0,
     "createdAt": "2014-04-09T14:06:51Z"
   },
@@ -19674,22 +19674,10 @@
     "location": "Luxembourg",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2014-01-20T08:21:05Z"
-  },
-  {
-    "login": "jgrossio",
-    "name": "Julien",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/9115346?s=72&v=4",
-    "location": "Luxembourg",
-    "company": "Vanksen",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2014-10-09T15:51:44Z"
   },
   {
     "login": "AnthoFio",
@@ -19699,7 +19687,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 82,
+    "privateContributions": 102,
     "publicContributions": 1,
     "createdAt": "2014-10-02T13:56:08Z"
   },
@@ -19710,7 +19698,7 @@
     "location": "Luxembourg",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 7,
     "createdAt": "2014-04-01T23:28:34Z"
@@ -19760,7 +19748,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 56,
+    "publicContributions": 55,
     "createdAt": "2014-10-01T22:01:40Z"
   },
   {
@@ -19820,7 +19808,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 7,
     "createdAt": "2014-02-23T20:59:16Z"
   },
   {

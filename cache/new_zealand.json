@@ -19831,7 +19831,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 3,
+    "privateContributions": 0,
     "publicContributions": 7,
     "createdAt": "2021-07-22T04:32:25Z"
   },
@@ -19854,9 +19854,9 @@
     "location": "Wanganui, New Zealand",
     "company": "Progressive Zen",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 892,
-    "publicContributions": 26,
+    "followers": 10,
+    "privateContributions": 874,
+    "publicContributions": 23,
     "createdAt": "2021-11-12T04:29:07Z"
   },
   {
@@ -19867,8 +19867,8 @@
     "company": "chicken farmer",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 4,
-    "publicContributions": 47,
+    "privateContributions": 22,
+    "publicContributions": 36,
     "createdAt": "2021-05-07T06:17:16Z"
   },
   {
@@ -19878,9 +19878,9 @@
     "location": "Auckland, New Zealand",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 138,
-    "publicContributions": 435,
+    "followers": 13,
+    "privateContributions": 357,
+    "publicContributions": 646,
     "createdAt": "2021-07-18T00:10:11Z"
   },
   {
@@ -19891,7 +19891,7 @@
     "company": "Malice",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 115,
+    "privateContributions": 142,
     "publicContributions": 3,
     "createdAt": "2021-11-25T18:58:05Z"
   },
@@ -19914,7 +19914,7 @@
     "location": "New Zealand",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 10,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-02-24T07:05:56Z"
@@ -19927,8 +19927,8 @@
     "company": "University of Waikato",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 73,
-    "publicContributions": 196,
+    "privateContributions": 339,
+    "publicContributions": 202,
     "createdAt": "2021-01-27T05:23:21Z"
   },
   {
@@ -19998,8 +19998,8 @@
     "location": "New Zealand",
     "company": "Umajin",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 274,
+    "followers": 13,
+    "privateContributions": 222,
     "publicContributions": 0,
     "createdAt": "2021-07-07T10:28:47Z"
   },
@@ -20016,18 +20016,6 @@
     "createdAt": "2021-10-03T23:06:16Z"
   },
   {
-    "login": "rawlthollamew",
-    "name": "Alex",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/93352449?s=72&u=9acb2ad524a3706c10374d9efb1f2df9bb14cf31&v=4",
-    "location": "Auckland, New Zealand",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 93,
-    "publicContributions": 45,
-    "createdAt": "2021-10-28T21:25:49Z"
-  },
-  {
     "login": "K3v1nNZ",
     "name": "Kevin",
     "avatarUrl": "https://avatars.githubusercontent.com/u/84693622?s=72&u=40f01dcd285534ba6fdbffb7b1e35218eb1c727c&v=4",
@@ -20035,7 +20023,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 16,
+    "privateContributions": 25,
     "publicContributions": 5,
     "createdAt": "2021-05-24T02:42:08Z"
   },
