@@ -296350,5 +296350,41 @@
     "privateContributions": 2242,
     "publicContributions": 1016,
     "createdAt": "2022-03-07T12:05:47Z"
+  },
+  {
+    "login": "EVE-ECV",
+    "name": "Evercrew",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/297539777?s=72&u=a5c806c14f33a1c0899e429004028e6fe10eba31&v=4",
+    "location": "Singapore",
+    "company": "Evercrew Venture Pte Ltd",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 120,
+    "createdAt": "2026-06-28T03:19:32Z"
+  },
+  {
+    "login": "kiragummi",
+    "name": "Alexis Hoh",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/297601674?s=72&v=4",
+    "location": "Singapore",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2026-06-28T09:58:43Z"
+  },
+  {
+    "login": "geraldinetyl",
+    "name": "Geraldine Tang",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/297596748?s=72&u=87817ed7963a61970bfa1a3774e3e5d39883011f&v=4",
+    "location": "Singapore",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 81,
+    "createdAt": "2026-06-28T09:30:57Z"
   }
 ]

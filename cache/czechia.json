@@ -18524,7 +18524,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 12,
     "createdAt": "2023-11-15T14:49:54Z"
   },
   {
@@ -18535,8 +18535,8 @@
     "company": "Rapid7",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 424,
-    "publicContributions": 17,
+    "privateContributions": 305,
+    "publicContributions": 13,
     "createdAt": "2023-11-08T14:49:31Z"
   },
   {
@@ -18547,8 +18547,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 27,
-    "publicContributions": 142,
+    "privateContributions": 28,
+    "publicContributions": 144,
     "createdAt": "2023-10-12T07:32:21Z"
   },
   {
@@ -18584,7 +18584,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2023-10-02T18:28:40Z"
   },
   {
@@ -18596,7 +18596,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 120,
+    "publicContributions": 136,
     "createdAt": "2023-10-11T18:07:15Z"
   },
   {
@@ -18620,7 +18620,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 41,
+    "publicContributions": 73,
     "createdAt": "2023-08-06T17:39:11Z"
   },
   {
@@ -18644,7 +18644,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1832,
+    "publicContributions": 1830,
     "createdAt": "2023-12-08T12:37:17Z"
   },
   {
@@ -18684,18 +18684,6 @@
     "createdAt": "2023-07-18T13:37:50Z"
   },
   {
-    "login": "chemysterium",
-    "name": "Luděk",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/138828585?s=72&v=4",
-    "location": "Prague",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 21,
-    "createdAt": "2023-07-06T22:20:37Z"
-  },
-  {
     "login": "MaxTechnik3796",
     "name": "MaxTechnik",
     "avatarUrl": "https://avatars.githubusercontent.com/u/144486710?s=72&u=ffd797623929a155bc47fac1c7227fbaa487b835&v=4",
@@ -18704,7 +18692,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1290,
+    "publicContributions": 1379,
     "createdAt": "2023-09-08T19:03:47Z"
   },
   {

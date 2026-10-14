@@ -17755,8 +17755,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 61,
-    "publicContributions": 86,
+    "privateContributions": 58,
+    "publicContributions": 50,
     "createdAt": "2024-04-24T16:43:33Z"
   },
   {
@@ -17767,7 +17767,7 @@
     "company": "@kruso",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 228,
+    "privateContributions": 250,
     "publicContributions": 2,
     "createdAt": "2024-05-06T07:34:24Z"
   },
@@ -17779,8 +17779,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 257,
+    "privateContributions": 147,
+    "publicContributions": 237,
     "createdAt": "2024-09-18T18:24:38Z"
   },
   {
@@ -17816,7 +17816,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 53,
+    "publicContributions": 52,
     "createdAt": "2024-05-06T10:57:16Z"
   },
   {
@@ -17856,18 +17856,6 @@
     "createdAt": "2024-05-21T18:25:11Z"
   },
   {
-    "login": "cactuswe",
-    "name": "cactuswe",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/189856789?s=72&u=eb4a7ccb452257bba6e2fb52cace79b17901b1f9&v=4",
-    "location": "Sweden",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 38,
-    "createdAt": "2024-11-27T11:22:56Z"
-  },
-  {
     "login": "behroozparham4154",
     "name": "Behrooz P arham",
     "avatarUrl": "https://avatars.githubusercontent.com/u/189639933?s=72&u=e8e40fc1a643d935c91e9d14bd727fb8fa7956e1&v=4",
@@ -17876,7 +17864,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2024-11-25T15:30:29Z"
   },
   {
@@ -17888,7 +17876,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 217,
+    "publicContributions": 257,
     "createdAt": "2024-08-11T00:36:56Z"
   },
   {
@@ -17900,7 +17888,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 75,
+    "publicContributions": 113,
     "createdAt": "2024-12-13T14:37:53Z"
   },
   {

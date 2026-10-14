@@ -18632,7 +18632,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 44,
+    "publicContributions": 29,
     "createdAt": "2016-05-18T20:10:34Z"
   },
   {
@@ -18667,7 +18667,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 23,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-11-09T17:01:45Z"
   },
@@ -18703,7 +18703,7 @@
     "company": "SKIDATA AG, KLIKA d.o.o.",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 33,
+    "privateContributions": 68,
     "publicContributions": 0,
     "createdAt": "2016-02-02T18:49:17Z"
   },
@@ -18751,20 +18751,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 4,
+    "privateContributions": 8,
     "publicContributions": 0,
     "createdAt": "2016-03-07T18:19:53Z"
   },
   {
     "login": "vesna1010",
     "name": "Vesna",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/20092594?s=72&u=20dd47f8f6b7362396a183d0794248435cf85402&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/20092594?s=72&u=476d63c724b4bb743a7cf5b06e683f8391b287ac&v=4",
     "location": "Doboj, Bosnia and Herzegovina",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2016-06-22T14:37:21Z"
   },
   {
@@ -18786,8 +18786,8 @@
     "location": "Bijeljina, Bosnia and Herzegovina",
     "company": "Freelance",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 2,
+    "followers": 2,
+    "privateContributions": 5,
     "publicContributions": 0,
     "createdAt": "2016-09-18T20:07:01Z"
   },
@@ -18810,7 +18810,7 @@
     "location": "Serbia, Bosnia and Herzegovina",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-12-01T09:19:06Z"

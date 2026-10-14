@@ -18763,32 +18763,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 107,
+    "privateContributions": 234,
     "publicContributions": 72,
     "createdAt": "2022-07-10T22:38:22Z"
   },
   {
-    "login": "The-Jay-Dev",
-    "name": "Jadon",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/111688799?s=72&u=3db803f1bf1c41bfcdbcdfdd4b52ede9c8b49073&v=4",
-    "location": "Georgia",
-    "company": "",
-    "twitterUsername": "The_Jay_Dev",
-    "followers": 1,
-    "privateContributions": 63,
-    "publicContributions": 70,
-    "createdAt": "2022-08-21T12:21:35Z"
-  },
-  {
-    "login": "PhilipBouls",
+    "login": "philipbouls",
     "name": "Philip Bouls",
     "avatarUrl": "https://avatars.githubusercontent.com/u/110535934?s=72&u=3e7cbbe5099617a84c6b05f1549951512ad13b6f&v=4",
     "location": "Buford, Georgia",
-    "company": "",
+    "company": "SDE @ CodeMettle",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 23,
     "createdAt": "2022-08-03T10:40:15Z"
   },
   {
@@ -18800,7 +18788,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2022-05-10T20:18:52Z"
   },
   {

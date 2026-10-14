@@ -18355,7 +18355,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1155,
+    "privateContributions": 1366,
     "publicContributions": 7,
     "createdAt": "2023-02-16T10:16:08Z"
   },
@@ -18368,7 +18368,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 257,
+    "publicContributions": 185,
     "createdAt": "2023-10-02T17:12:15Z"
   },
   {
@@ -18379,8 +18379,8 @@
     "company": "Esprit",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 624,
-    "publicContributions": 10,
+    "privateContributions": 577,
+    "publicContributions": 4,
     "createdAt": "2023-06-18T10:48:23Z"
   },
   {
@@ -18402,9 +18402,9 @@
     "location": "Tunisia, Tunis, Sidi Bou Said",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 80,
+    "publicContributions": 92,
     "createdAt": "2023-04-16T13:24:12Z"
   },
   {
@@ -18416,7 +18416,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 37,
+    "publicContributions": 45,
     "createdAt": "2023-09-16T17:47:37Z"
   },
   {
@@ -18440,7 +18440,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2023-04-06T08:24:05Z"
   },
   {
@@ -18462,9 +18462,9 @@
     "location": "Sousse, Tunisia",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 2,
     "createdAt": "2023-09-29T14:45:44Z"
   },
   {
@@ -18487,8 +18487,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 36,
-    "publicContributions": 668,
+    "privateContributions": 2,
+    "publicContributions": 659,
     "createdAt": "2023-10-12T18:19:12Z"
   },
   {
@@ -18500,7 +18500,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 15,
-    "publicContributions": 71,
+    "publicContributions": 52,
     "createdAt": "2023-07-07T09:03:48Z"
   },
   {
@@ -18510,9 +18510,9 @@
     "location": "tunisia",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 592,
-    "publicContributions": 118,
+    "followers": 3,
+    "privateContributions": 528,
+    "publicContributions": 123,
     "createdAt": "2023-04-14T15:04:22Z"
   },
   {
@@ -18522,7 +18522,7 @@
     "location": "Tunisia",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2023-01-05T11:54:35Z"
@@ -18571,21 +18571,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 54,
-    "publicContributions": 46,
+    "privateContributions": 112,
+    "publicContributions": 68,
     "createdAt": "2023-07-31T04:50:44Z"
-  },
-  {
-    "login": "Ayhem-Boukari",
-    "name": "Ayhem Boukari",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/154076984?s=72&u=e634047d0d66c81bc4f4fe33aee52b0c0a52092a&v=4",
-    "location": "Tunis, Tunisia",
-    "company": "27185767",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 40,
-    "createdAt": "2023-12-17T15:58:43Z"
   },
   {
     "login": "bouallegazyz",

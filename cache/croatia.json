@@ -18800,7 +18800,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2020-04-04T13:43:46Z"
   },
   {
@@ -18835,7 +18835,7 @@
     "company": "Faculty of Electrical Engineering and Computing",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 146,
+    "privateContributions": 218,
     "publicContributions": 0,
     "createdAt": "2020-10-03T19:30:46Z"
   },
@@ -18906,9 +18906,9 @@
     "location": "Miami, Florida / Rijeka, Croatia",
     "company": "",
     "twitterUsername": "vmandic00",
-    "followers": 1170,
-    "privateContributions": 66,
-    "publicContributions": 5038,
+    "followers": 1185,
+    "privateContributions": 47,
+    "publicContributions": 4846,
     "createdAt": "2019-11-17T21:38:34Z"
   },
   {
@@ -18918,9 +18918,9 @@
     "location": "Zagreb, Croatia",
     "company": "",
     "twitterUsername": "BeardedTinker",
-    "followers": 247,
+    "followers": 251,
     "privateContributions": 0,
-    "publicContributions": 283,
+    "publicContributions": 360,
     "createdAt": "2019-02-20T14:32:44Z"
   },
   {
@@ -18930,9 +18930,9 @@
     "location": "Zagreb, Croatia",
     "company": "Manning Publication",
     "twitterUsername": "",
-    "followers": 183,
+    "followers": 198,
     "privateContributions": 0,
-    "publicContributions": 334,
+    "publicContributions": 275,
     "createdAt": "2019-09-05T16:22:34Z"
   },
   {
@@ -18940,10 +18940,10 @@
     "name": "Luka Dušak",
     "avatarUrl": "https://avatars.githubusercontent.com/u/46372998?s=72&u=4c0f5f250a7969c944403296360a2b61ad86e9f3&v=4",
     "location": "Zagreb, Croatia",
-    "company": "@IgnitGroup ",
+    "company": "@TheRenderDepartment",
     "twitterUsername": "",
-    "followers": 145,
-    "privateContributions": 1190,
+    "followers": 149,
+    "privateContributions": 1699,
     "publicContributions": 4,
     "createdAt": "2019-01-04T10:52:15Z"
   },
@@ -18953,22 +18953,22 @@
     "avatarUrl": "https://avatars.githubusercontent.com/u/46557266?s=72&u=11ea20f81fb011f4bdd2237818c494a9423ec341&v=4",
     "location": "Croatia",
     "company": "@TheRenderDepartment",
-    "twitterUsername": "matijaoe",
-    "followers": 116,
-    "privateContributions": 3141,
-    "publicContributions": 292,
+    "twitterUsername": "",
+    "followers": 117,
+    "privateContributions": 4140,
+    "publicContributions": 335,
     "createdAt": "2019-01-10T08:37:38Z"
   },
   {
     "login": "mariosasko",
     "name": "Mario Šaško",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/47462742?s=72&u=dd9f5ce508e845d378893bbdcdcd9c60910ccbe9&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/47462742?s=72&u=59685c6c53c02e15baabb94dad5f96c73d3debdc&v=4",
     "location": "Varaždin, Croatia",
     "company": "",
     "twitterUsername": "",
-    "followers": 93,
+    "followers": 95,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 5,
     "createdAt": "2019-02-08T21:00:25Z"
   },
   {
@@ -18978,9 +18978,9 @@
     "location": "Croatia",
     "company": "@hypernym-studio",
     "twitterUsername": "ivodolenc",
-    "followers": 56,
-    "privateContributions": 606,
-    "publicContributions": 556,
+    "followers": 57,
+    "privateContributions": 595,
+    "publicContributions": 437,
     "createdAt": "2019-06-15T10:54:33Z"
   },
   {
