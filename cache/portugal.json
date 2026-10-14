@@ -18391,21 +18391,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 20,
-    "publicContributions": 199,
+    "privateContributions": 27,
+    "publicContributions": 177,
     "createdAt": "2024-05-11T02:15:05Z"
-  },
-  {
-    "login": "0xFelipeGD",
-    "name": "0xFelipe",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/160135917?s=72&u=fe75e71e2dcc3a3c77493f3cb5201bd5960a10de&v=4",
-    "location": "Portugal",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 110,
-    "createdAt": "2024-02-15T12:49:09Z"
   },
   {
     "login": "PNMOlab",
@@ -18428,7 +18416,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 5,
     "createdAt": "2024-02-28T23:36:59Z"
   },
   {
@@ -18464,7 +18452,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 10,
     "createdAt": "2024-04-17T09:01:24Z"
   },
   {
@@ -18487,7 +18475,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 113,
+    "privateContributions": 99,
     "publicContributions": 1,
     "createdAt": "2024-06-17T17:34:56Z"
   },
@@ -18500,7 +18488,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 37,
+    "publicContributions": 34,
     "createdAt": "2024-01-29T20:28:15Z"
   },
   {
@@ -18512,7 +18500,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2024-02-01T15:45:48Z"
   },
   {
@@ -18534,9 +18522,9 @@
     "location": "Lisbon, Portugal",
     "company": "IST",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 28,
     "createdAt": "2024-02-23T18:50:30Z"
   },
   {

@@ -18319,8 +18319,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 895,
-    "publicContributions": 257,
+    "privateContributions": 615,
+    "publicContributions": 263,
     "createdAt": "2018-11-02T09:35:03Z"
   },
   {
@@ -18342,7 +18342,7 @@
     "location": "Myanmar",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2018-04-30T08:14:40Z"
@@ -18367,8 +18367,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 55,
-    "publicContributions": 171,
+    "privateContributions": 41,
+    "publicContributions": 88,
     "createdAt": "2018-03-18T22:50:53Z"
   },
   {
@@ -18438,9 +18438,9 @@
     "location": "Myanmar",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 219,
-    "publicContributions": 37,
+    "followers": 4,
+    "privateContributions": 427,
+    "publicContributions": 36,
     "createdAt": "2018-05-24T00:09:13Z"
   },
   {
@@ -18514,18 +18514,6 @@
     "privateContributions": 0,
     "publicContributions": 11,
     "createdAt": "2018-11-03T00:35:54Z"
-  },
-  {
-    "login": "ThiriSweZin",
-    "name": "Thiri Swe Zin",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/40563617?s=72&v=4",
-    "location": "Yangon, Myanmar",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2018-06-25T09:32:55Z"
   },
   {
     "login": "tinaungyin-mm",

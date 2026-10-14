@@ -18480,18 +18480,6 @@
     "createdAt": "2013-04-02T21:41:03Z"
   },
   {
-    "login": "octavianracu",
-    "name": "Octavian Racu",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/5790480?s=72&u=b9a4f9e9cc942fce01f4fdd6dc91c7553f884c18&v=4",
-    "location": "Chișinău",
-    "company": "Personal use",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 49,
-    "publicContributions": 34,
-    "createdAt": "2013-10-28T02:46:50Z"
-  },
-  {
     "login": "nickmessing",
     "name": "Nick Messing",
     "avatarUrl": "https://avatars.githubusercontent.com/u/1633826?s=72&u=2425013dcfcce33b5f515ad2c7742d5d5979b8b0&v=4",
@@ -18499,8 +18487,8 @@
     "company": "itcare.net",
     "twitterUsername": "",
     "followers": 349,
-    "privateContributions": 1764,
-    "publicContributions": 118,
+    "privateContributions": 2493,
+    "publicContributions": 149,
     "createdAt": "2012-04-11T16:47:32Z"
   },
   {
@@ -18510,9 +18498,9 @@
     "location": "Moldova",
     "company": "",
     "twitterUsername": "",
-    "followers": 205,
+    "followers": 207,
     "privateContributions": 0,
-    "publicContributions": 3063,
+    "publicContributions": 3076,
     "createdAt": "2012-07-15T21:50:11Z"
   },
   {
@@ -18522,7 +18510,7 @@
     "location": "Chișinău, Moldova",
     "company": "",
     "twitterUsername": "",
-    "followers": 171,
+    "followers": 172,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2012-11-03T09:14:12Z"
@@ -18534,9 +18522,9 @@
     "location": "Chisinau, Moldova",
     "company": "",
     "twitterUsername": "",
-    "followers": 118,
+    "followers": 129,
     "privateContributions": 0,
-    "publicContributions": 194,
+    "publicContributions": 230,
     "createdAt": "2012-04-27T07:06:56Z"
   },
   {
@@ -18558,9 +18546,9 @@
     "location": "Moldova",
     "company": "",
     "twitterUsername": "",
-    "followers": 99,
-    "privateContributions": 2402,
-    "publicContributions": 349,
+    "followers": 97,
+    "privateContributions": 2548,
+    "publicContributions": 373,
     "createdAt": "2012-02-18T19:28:29Z"
   },
   {
@@ -18570,9 +18558,9 @@
     "location": "Chisinau, Moldova",
     "company": "Planable",
     "twitterUsername": "andrei_lisnic",
-    "followers": 70,
+    "followers": 71,
     "privateContributions": 0,
-    "publicContributions": 121,
+    "publicContributions": 148,
     "createdAt": "2012-05-23T15:02:57Z"
   },
   {
@@ -18582,8 +18570,8 @@
     "location": "Chișinău, Moldova",
     "company": "",
     "twitterUsername": "stefan_tudor_p",
-    "followers": 67,
-    "privateContributions": 14,
+    "followers": 68,
+    "privateContributions": 12,
     "publicContributions": 0,
     "createdAt": "2012-10-12T19:10:00Z"
   },
@@ -18595,8 +18583,8 @@
     "company": "PC-Link",
     "twitterUsername": "tvorogoff",
     "followers": 56,
-    "privateContributions": 315,
-    "publicContributions": 2530,
+    "privateContributions": 330,
+    "publicContributions": 4394,
     "createdAt": "2012-12-07T15:27:04Z"
   },
   {
@@ -18606,7 +18594,7 @@
     "location": "Chisinau, Moldova",
     "company": "Endava",
     "twitterUsername": "",
-    "followers": 46,
+    "followers": 45,
     "privateContributions": 0,
     "publicContributions": 225,
     "createdAt": "2012-08-26T15:06:46Z"
@@ -18618,8 +18606,8 @@
     "location": "Moldova",
     "company": "",
     "twitterUsername": "",
-    "followers": 34,
-    "privateContributions": 567,
+    "followers": 33,
+    "privateContributions": 606,
     "publicContributions": 0,
     "createdAt": "2012-12-19T17:26:05Z"
   },
@@ -18630,9 +18618,9 @@
     "location": "Chisinau, Moldova",
     "company": "Moldova State University",
     "twitterUsername": "",
-    "followers": 25,
-    "privateContributions": 7,
-    "publicContributions": 708,
+    "followers": 28,
+    "privateContributions": 11,
+    "publicContributions": 645,
     "createdAt": "2012-07-06T06:51:23Z"
   },
   {
@@ -18642,9 +18630,9 @@
     "location": "Moldova, Republic Of",
     "company": "@Mixbook ",
     "twitterUsername": "",
-    "followers": 24,
-    "privateContributions": 1140,
-    "publicContributions": 7,
+    "followers": 23,
+    "privateContributions": 1074,
+    "publicContributions": 6,
     "createdAt": "2012-03-02T13:14:29Z"
   },
   {
@@ -18654,9 +18642,9 @@
     "location": "Chisinau, Moldova",
     "company": "",
     "twitterUsername": "",
-    "followers": 21,
+    "followers": 23,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2012-10-29T15:14:09Z"
   },
   {
@@ -18666,8 +18654,8 @@
     "location": "Moldova, Chisinau",
     "company": "",
     "twitterUsername": "",
-    "followers": 21,
-    "privateContributions": 2690,
+    "followers": 23,
+    "privateContributions": 2909,
     "publicContributions": 0,
     "createdAt": "2012-07-20T22:43:55Z"
   },
@@ -18678,9 +18666,9 @@
     "location": "Moldova",
     "company": "imodeveloper",
     "twitterUsername": "",
-    "followers": 19,
-    "privateContributions": 836,
-    "publicContributions": 159,
+    "followers": 18,
+    "privateContributions": 855,
+    "publicContributions": 169,
     "createdAt": "2012-08-10T11:46:57Z"
   },
   {
@@ -18690,9 +18678,9 @@
     "location": "Moldova",
     "company": "",
     "twitterUsername": "",
-    "followers": 17,
+    "followers": 16,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 9,
     "createdAt": "2012-07-20T09:10:43Z"
   },
   {
@@ -18703,8 +18691,8 @@
     "company": "@openbridge ",
     "twitterUsername": "",
     "followers": 16,
-    "privateContributions": 1401,
-    "publicContributions": 56,
+    "privateContributions": 1544,
+    "publicContributions": 91,
     "createdAt": "2012-12-16T21:38:29Z"
   },
   {
@@ -18714,9 +18702,9 @@
     "location": "Moldova, rep. of",
     "company": "Analytics.md",
     "twitterUsername": "",
-    "followers": 16,
-    "privateContributions": 3006,
-    "publicContributions": 13,
+    "followers": 17,
+    "privateContributions": 4095,
+    "publicContributions": 6,
     "createdAt": "2012-11-03T01:21:43Z"
   },
   {

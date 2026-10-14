@@ -18536,7 +18536,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 6,
     "createdAt": "2012-03-01T19:23:07Z"
   },
   {
@@ -18547,8 +18547,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 410,
-    "publicContributions": 41,
+    "privateContributions": 353,
+    "publicContributions": 59,
     "createdAt": "2012-04-10T18:19:26Z"
   },
   {
@@ -18583,8 +18583,8 @@
     "company": "Banders Geospatial Systems Ltd.",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1356,
-    "publicContributions": 6,
+    "privateContributions": 1234,
+    "publicContributions": 23,
     "createdAt": "2012-05-14T15:30:19Z"
   },
   {
@@ -18594,7 +18594,7 @@
     "location": "Victoria, BC",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
     "publicContributions": 574,
     "createdAt": "2012-07-24T15:50:24Z"
@@ -18721,14 +18721,14 @@
   },
   {
     "login": "squarepegg",
-    "name": "Nic",
+    "name": "Nic St. Pegg",
     "avatarUrl": "https://avatars.githubusercontent.com/u/2584874?s=72&u=90c1c31e5bb9d59168056e75356f6ed3ad7e372e&v=4",
     "location": "Victoria, BC",
     "company": "@FortisGames ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1781,
-    "publicContributions": 31,
+    "privateContributions": 1817,
+    "publicContributions": 5,
     "createdAt": "2012-10-17T23:29:39Z"
   },
   {

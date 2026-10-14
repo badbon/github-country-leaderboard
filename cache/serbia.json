@@ -18480,18 +18480,6 @@
     "createdAt": "2022-04-20T20:26:12Z"
   },
   {
-    "login": "BojanWD",
-    "name": "Bojan Branovački",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/102588945?s=72&v=4",
-    "location": "Novi Sad, Serbia",
-    "company": "BOp Services",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2022-03-29T09:45:50Z"
-  },
-  {
     "login": "blinbirka",
     "name": "Anna",
     "avatarUrl": "https://avatars.githubusercontent.com/u/109791621?s=72&u=741500aba8c42c4023527edf14d2fe3bbf3dd01e&v=4",
@@ -18499,8 +18487,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 43,
-    "publicContributions": 36,
+    "privateContributions": 804,
+    "publicContributions": 175,
     "createdAt": "2022-07-22T08:31:09Z"
   },
   {
@@ -18530,13 +18518,13 @@
   {
     "login": "m1tqq",
     "name": "Dimitrije",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/120185562?s=72&u=97604f59eaeccbff1162ab583679303a08ab2b7a&v=4",
-    "location": "Serbia",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/120185562?s=72&u=fdb7a4794f1d9e3bb99039db92305827e754dea3&v=4",
+    "location": "Belgrade",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 26,
     "createdAt": "2022-12-09T12:43:57Z"
   },
   {
@@ -18558,7 +18546,7 @@
     "location": "Serbia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-03-02T08:00:45Z"
@@ -18588,18 +18576,6 @@
     "createdAt": "2022-07-15T14:01:26Z"
   },
   {
-    "login": "manjast",
-    "name": "Stefan Manja",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/101797954?s=72&u=c868c7b71e87aa99682bfb84d0557af8a9add758&v=4",
-    "location": "Belgrade, Serbia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 381,
-    "publicContributions": 230,
-    "createdAt": "2022-03-17T09:14:01Z"
-  },
-  {
     "login": "NikolayZhulin",
     "name": "NikolayZhulin",
     "avatarUrl": "https://avatars.githubusercontent.com/u/115104699?s=72&u=4798c77d9bb38283c662b10ac0064238b28c8990&v=4",
@@ -18607,7 +18583,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 13,
+    "privateContributions": 11,
     "publicContributions": 0,
     "createdAt": "2022-10-05T17:20:12Z"
   },
@@ -18618,9 +18594,9 @@
     "location": "Serbia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 124,
-    "publicContributions": 23,
+    "followers": 2,
+    "privateContributions": 301,
+    "publicContributions": 19,
     "createdAt": "2022-09-17T15:32:47Z"
   },
   {
@@ -18632,7 +18608,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 2,
-    "publicContributions": 0,
+    "publicContributions": 6,
     "createdAt": "2022-03-08T13:23:02Z"
   },
   {
@@ -18668,7 +18644,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 0,
     "createdAt": "2022-05-21T09:27:36Z"
   },
   {
