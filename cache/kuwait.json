@@ -9463,7 +9463,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 110,
-    "privateContributions": 463,
+    "privateContributions": 462,
     "publicContributions": 0,
     "createdAt": "2008-04-07T02:53:44Z"
   },
@@ -9474,7 +9474,7 @@
     "location": "Kuwait",
     "company": "905pm",
     "twitterUsername": "",
-    "followers": 13,
+    "followers": 12,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2008-04-06T12:34:43Z"
@@ -9528,18 +9528,6 @@
     "createdAt": "2026-06-09T16:50:36Z"
   },
   {
-    "login": "cryptowhaleinsights-ux",
-    "name": "Crypto WhaleInsights",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/294312504?s=72&u=aaa78b197dfe394a84c0f493a0c6150dff5c8af2&v=4",
-    "location": "Kuwait",
-    "company": "CryptoWhaleInsights",
-    "twitterUsername": "CwhaleInsights",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 26,
-    "createdAt": "2026-06-16T20:59:05Z"
-  },
-  {
     "login": "sphotogroup",
     "name": "S Photo Group",
     "avatarUrl": "https://avatars.githubusercontent.com/u/294621506?s=72&u=09c4ee080223e1cabd19da5f35955e2f9fd37aa1&v=4",
@@ -9571,7 +9559,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 27,
-    "privateContributions": 1789,
+    "privateContributions": 1801,
     "publicContributions": 111,
     "createdAt": "2021-05-13T19:24:19Z"
   },

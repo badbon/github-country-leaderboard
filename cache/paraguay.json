@@ -19220,7 +19220,7 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2014-05-04T16:05:07Z"
   },
   {
@@ -19256,7 +19256,7 @@
     "twitterUsername": "alcideschaux",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 38,
+    "publicContributions": 113,
     "createdAt": "2014-04-07T23:36:25Z"
   },
   {
@@ -19279,8 +19279,8 @@
     "company": "Mentormate",
     "twitterUsername": "luifervillalba",
     "followers": 8,
-    "privateContributions": 772,
-    "publicContributions": 728,
+    "privateContributions": 4075,
+    "publicContributions": 730,
     "createdAt": "2014-10-28T12:31:57Z"
   },
   {
@@ -19322,13 +19322,13 @@
   {
     "login": "JuanBer90",
     "name": "Juan Ber",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/6975766?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6975766?s=72&u=ca201ac2c3ace9412c3798a6975818f8f2ffee5a&v=4",
     "location": "Paraguay",
     "company": "",
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 85,
     "createdAt": "2014-03-17T14:09:07Z"
   },
   {
@@ -19339,7 +19339,7 @@
     "company": "LimitlessPatrick OÜ",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 15,
+    "privateContributions": 13,
     "publicContributions": 0,
     "createdAt": "2014-02-19T20:03:10Z"
   },
@@ -19388,7 +19388,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 0,
     "createdAt": "2014-05-24T13:09:14Z"
   },
   {
@@ -19399,7 +19399,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 3428,
+    "privateContributions": 4032,
     "publicContributions": 0,
     "createdAt": "2014-08-28T20:20:08Z"
   },

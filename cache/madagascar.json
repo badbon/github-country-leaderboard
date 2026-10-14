@@ -19232,7 +19232,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 252,
+    "publicContributions": 179,
     "createdAt": "2018-04-10T19:03:18Z"
   },
   {
@@ -19244,7 +19244,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 1,
     "createdAt": "2018-08-16T10:24:30Z"
   },
   {
@@ -19267,7 +19267,7 @@
     "company": "TeloIray",
     "twitterUsername": "nantenaina29",
     "followers": 3,
-    "privateContributions": 139,
+    "privateContributions": 189,
     "publicContributions": 0,
     "createdAt": "2018-02-23T12:36:02Z"
   },
@@ -19280,7 +19280,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 17,
     "createdAt": "2018-05-08T12:30:21Z"
   },
   {
@@ -19339,7 +19339,7 @@
     "company": "BCI France",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 1453,
+    "privateContributions": 1670,
     "publicContributions": 0,
     "createdAt": "2018-05-16T14:58:50Z"
   },
@@ -19351,8 +19351,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 548,
-    "publicContributions": 65,
+    "privateContributions": 537,
+    "publicContributions": 30,
     "createdAt": "2018-11-19T19:00:18Z"
   },
   {
@@ -19363,7 +19363,7 @@
     "company": "zLab",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 3,
+    "privateContributions": 5,
     "publicContributions": 0,
     "createdAt": "2017-12-29T07:32:16Z"
   },
@@ -19399,7 +19399,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 19,
+    "privateContributions": 77,
     "publicContributions": 0,
     "createdAt": "2018-12-16T12:00:30Z"
   },
@@ -19423,21 +19423,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 261,
+    "privateContributions": 275,
     "publicContributions": 213,
     "createdAt": "2018-07-23T22:12:59Z"
-  },
-  {
-    "login": "haikajymada",
-    "name": "Rija Randriano",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/38647270?s=72&v=4",
-    "location": "Madagascar",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2018-04-23T07:19:40Z"
   },
   {
     "login": "nirina87",
@@ -19448,7 +19436,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 0,
     "createdAt": "2018-03-12T11:23:56Z"
   },
   {
