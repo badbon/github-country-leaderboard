@@ -1,6 +1,6 @@
 # Myanmar
 
-Indexed users: 2,066
+Indexed users: 2,064
 
 | Leaderboard | Link |
 |---|---|
@@ -19,8 +19,8 @@ Indexed users: 2,066
 | 5 | [gon-khaung](https://github.com/gon-khaung) | GK | Yangon, Myanmar | 5,531 |
 | 6 | [thitlwincoder](https://github.com/thitlwincoder) | Thit Lwin | Yangon, Myanmar(Burma) | 5,527 |
 | 7 | [aungaung99](https://github.com/aungaung99) | Aung Naing Oo | Yangon, Myanmar | 5,157 |
-| 8 | [kwarnkham](https://github.com/kwarnkham) | SAI KWRN KHAM | Yangon, Myanmar | 4,827 |
-| 9 | [kokim2022](https://github.com/kokim2022) | hwaung | Yangon, Myanmar | 4,750 |
+| 8 | [kokim2022](https://github.com/kokim2022) | hwaung | Yangon, Myanmar | 4,750 |
+| 9 | [kwarnkham](https://github.com/kwarnkham) | SAI KWRN KHAM | Yangon, Myanmar | 4,699 |
 | 10 | [kyawkoko232](https://github.com/kyawkoko232) | Kyaw Ko Ko | Yangon, Myanmar(Burma) | 4,580 |
 | 11 | [why-a-en](https://github.com/why-a-en) | Yan Min Thwin | Yangon, Myanmar (Burma) | 4,053 |
 | 12 | [thanthtooaung-coding](https://github.com/thanthtooaung-coding) | Thant Htoo Aung | Yangon, Myanmar | 3,913 |
@@ -83,4 +83,4 @@ Indexed users: 2,066
 | 19 | [winsandymyint](https://github.com/winsandymyint) | Win Sandy Myint | Myanmar | 167 |
 | 20 | [LunaM00n](https://github.com/LunaM00n) | Thin Ba Shane (Luna) | Myanmar | 162 |
 
-Generated: 2026-10-14T07:47:21.857Z
+Generated: 2026-10-14T09:11:39.884Z

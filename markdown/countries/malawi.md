@@ -17,13 +17,13 @@ Indexed users: 900
 | 3 | [calmwalija](https://github.com/calmwalija) | Comfort Mwalija | Malawi, Lilongwe | 7,591 |
 | 4 | [PatienceBond](https://github.com/PatienceBond) | Patience Isaiah Nyirenda | Malawi, Africa | 6,538 |
 | 5 | [madzalo](https://github.com/madzalo) | Resten Madzalo | Malawi | 5,944 |
-| 6 | [CliffordMarley](https://github.com/CliffordMarley) | Clifford P. Mwale | Area 47, Lilongwe, Malawi | 5,666 |
+| 6 | [CliffordMarley](https://github.com/CliffordMarley) | Clifford P. Mwale | Area 47, Lilongwe, Malawi | 5,767 |
 | 7 | [jones-blackwell](https://github.com/jones-blackwell) | Jones Blackwell | Lilongwe, Malawi | 5,585 |
 | 8 | [mcleanka](https://github.com/mcleanka) | Mclean Kasambala | Malawi, Lilongwe | 5,456 |
 | 9 | [M2KDevelopments](https://github.com/M2KDevelopments) | M2K Dev | Malawi | 4,900 |
 | 10 | [ColonelBlimp](https://github.com/ColonelBlimp) | ColonelBlimp | Mzuzu, Malawi | 4,708 |
 | 11 | [hopekali04](https://github.com/hopekali04) | Hope Kalitera | Blantyre, Malawi | 4,594 |
-| 12 | [dominickasanga](https://github.com/dominickasanga) | Dominic Kasanga | Mzuzu, Malawi | 4,063 |
+| 12 | [dominickasanga](https://github.com/dominickasanga) | Dominic Kasanga | Mzuzu, Malawi | 4,050 |
 | 13 | [prow57](https://github.com/prow57) | Immanuel Bester | Malawi | 3,931 |
 | 14 | [petroskayange](https://github.com/petroskayange) | Petros Kayange | Malawi | 3,624 |
 | 15 | [Frank5ive](https://github.com/Frank5ive) | Frank Gondwe | Malawi | 3,455 |
@@ -83,4 +83,4 @@ Indexed users: 900
 | 19 | [g1ftmkyelu](https://github.com/g1ftmkyelu) | codemaestro🚀 | 🇲🇼 Malawi | 131 |
 | 20 | [RodgerCodes](https://github.com/RodgerCodes) | Rodger Kumwanje | Malawi | 129 |
 
-Generated: 2026-10-14T07:39:51.660Z
+Generated: 2026-10-14T09:04:46.872Z

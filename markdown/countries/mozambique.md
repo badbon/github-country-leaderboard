@@ -48,7 +48,7 @@ Indexed users: 1,176
 | 9 | [filipeive](https://github.com/filipeive) | Filipe  Domingos dos Santos | Mozambique | 944 |
 | 10 | [rnrnshn](https://github.com/rnrnshn) | rurushu | Mozambique | 741 |
 | 11 | [Bernie-Dramos](https://github.com/Bernie-Dramos) | Bernardo E. Dramos Jr. | Mozambique | 721 |
-| 12 | [djafta](https://github.com/djafta) | Djafta | Mozambique | 674 |
+| 12 | [djafta](https://github.com/djafta) | Djafta | Mozambique | 681 |
 | 13 | [renzi-fidele-frontend](https://github.com/renzi-fidele-frontend) | Renzi Fidele | maputo, Mozambique | 642 |
 | 14 | [ArcidesFerrao](https://github.com/ArcidesFerrao) | Arcides Ferrao | Mozambique | 610 |
 | 15 | [Eddy-Nhabinde](https://github.com/Eddy-Nhabinde) | Edmilson Nhabinde | Maputo, Mozambique | 588 |
@@ -83,4 +83,4 @@ Indexed users: 1,176
 | 19 | [enoquetembe](https://github.com/enoquetembe) | Enoque Tembe | Maputo, Mozambique | 111 |
 | 20 | [mariomthree](https://github.com/mariomthree) | Mário M. Mabande | Maputo, Mozambique | 97 |
 
-Generated: 2026-10-14T07:47:19.030Z
+Generated: 2026-10-14T09:11:04.594Z

@@ -1,6 +1,6 @@
 # Public Contributions - Madagascar
 
-Generated: 2026-10-14T07:39:27.782Z
+Generated: 2026-10-14T09:04:20.396Z
 
 Users: 1905
 
@@ -10,11 +10,11 @@ Users: 1905
 | 2 | [tsirysndr](https://github.com/tsirysndr) | Tsiry Sandratraina | @fluentci-io | tsiry_sndr | Antananarivo / Madagascar | 5293 |
 | 3 | [Rakotoarilala51](https://github.com/Rakotoarilala51) | Aina Rakotoarilala |  |  | Madagascar | 4918 |
 | 4 | [Xpirix](https://github.com/Xpirix) | Lova Andriarimalala |  | Xpirix3 | Madagascar | 3964 |
-| 5 | [fatratra-png](https://github.com/fatratra-png) | RAFANOMEZANTSOA Ny Fatratra |  |  | Antananarivo, Madagascar | 3215 |
-| 6 | [Zava07](https://github.com/Zava07) | ANJARANANTENAINA Kantonjoary Zava Fifaliana | IT University |  | Madagascar | 3003 |
-| 7 | [colombefioren](https://github.com/colombefioren) | COCO |  |  | Madagascar, Antananarivo | 2948 |
-| 8 | [DavFilsDev](https://github.com/DavFilsDev) | F. Miharisoa David Fils RATIANDRAIBE |  | davfilsdev | Antananarivo Madagascar | 2876 |
-| 9 | [radandevist](https://github.com/radandevist) | Andrianarisoa Daniel | i_am_radan | radandevist | Anatananarivo, Madagascar | 2868 |
+| 5 | [radandevist](https://github.com/radandevist) | Andrianarisoa Daniel | i_am_radan | radandevist | Anatananarivo, Madagascar | 3898 |
+| 6 | [fatratra-png](https://github.com/fatratra-png) | RAFANOMEZANTSOA Ny Fatratra |  |  | Antananarivo, Madagascar | 3215 |
+| 7 | [Zava07](https://github.com/Zava07) | ANJARANANTENAINA Kantonjoary Zava Fifaliana | IT University |  | Madagascar | 3003 |
+| 8 | [colombefioren](https://github.com/colombefioren) | COCO |  |  | Madagascar, Antananarivo | 2948 |
+| 9 | [DavFilsDev](https://github.com/DavFilsDev) | F. Miharisoa David Fils RATIANDRAIBE |  | davfilsdev | Antananarivo Madagascar | 2876 |
 | 10 | [Mathieu-bot](https://github.com/Mathieu-bot) | Tafita Mathieu |  |  | Madagascar | 2222 |
 | 11 | [lorick-tsarazaka](https://github.com/lorick-tsarazaka) | Lorick TSARAZAKA | IT University | loricktsarazaka | Madagascar | 1932 |
 | 12 | [Ismael148](https://github.com/Ismael148) | Zo Lalaina Ismael RAJAOHARIMANANA | Ismael_dev |  | Antananarivo | 1815 |

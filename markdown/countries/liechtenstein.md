@@ -16,8 +16,8 @@ Indexed users: 113
 | 2 | [bernhardw](https://github.com/bernhardw) | Bernhard Wanger | Vaduz, Liechtenstein | 4,483 |
 | 3 | [tnaescher](https://github.com/tnaescher) | T. Näscher | Liechtenstein | 4,284 |
 | 4 | [msanft](https://github.com/msanft) | Moritz Sanft | Liechtenstein | 2,972 |
-| 5 | [PhilippHGerber](https://github.com/PhilippHGerber) | Philipp H. Gerber | Liechtenstein | 2,618 |
-| 6 | [ColinFrick](https://github.com/ColinFrick) | Colin Frick | Liechtenstein | 2,418 |
+| 5 | [PhilippHGerber](https://github.com/PhilippHGerber) | Philipp H. Gerber | Liechtenstein | 2,613 |
+| 6 | [ColinFrick](https://github.com/ColinFrick) | Colin Frick | Liechtenstein | 2,441 |
 | 7 | [AHaldner](https://github.com/AHaldner) | Andrin Haldner | Liechtenstein | 1,828 |
 | 8 | [marsop](https://github.com/marsop) | Alberto Gregorio | Ruggell, Liechtenstein | 1,686 |
 | 9 | [niklasfrick](https://github.com/niklasfrick) | Niklas Frick | Liechtenstein | 1,179 |
@@ -42,7 +42,7 @@ Indexed users: 113
 | 3 | [niklasfrick](https://github.com/niklasfrick) | Niklas Frick | Liechtenstein | 1,179 |
 | 4 | [iwhp](https://github.com/iwhp) | Harry Pfleger | Liechtenstein | 726 |
 | 5 | [masteradhoc](https://github.com/masteradhoc) | Brian | Liechtenstein | 654 |
-| 6 | [PhilippHGerber](https://github.com/PhilippHGerber) | Philipp H. Gerber | Liechtenstein | 589 |
+| 6 | [PhilippHGerber](https://github.com/PhilippHGerber) | Philipp H. Gerber | Liechtenstein | 580 |
 | 7 | [msanft](https://github.com/msanft) | Moritz Sanft | Liechtenstein | 528 |
 | 8 | [archham](https://github.com/archham) | Nicolas Eberle | Liechtenstein | 459 |
 | 9 | [anondotli](https://github.com/anondotli) | anon.li | Liechtenstein | 300 |
@@ -83,4 +83,4 @@ Indexed users: 113
 | 19 | [PhilippHGerber](https://github.com/PhilippHGerber) | Philipp H. Gerber | Liechtenstein | 14 |
 | 20 | [niklasfrick](https://github.com/niklasfrick) | Niklas Frick | Liechtenstein | 12 |
 
-Generated: 2026-10-14T07:38:28.351Z
+Generated: 2026-10-14T09:02:18.612Z

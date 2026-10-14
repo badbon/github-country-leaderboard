@@ -1,6 +1,6 @@
 # Followers - Senegal
 
-Generated: 2026-10-14T08:01:15.957Z
+Generated: 2026-10-14T09:25:16.614Z
 
 Users: 1357
 
@@ -17,7 +17,7 @@ Users: 1357
 | 9 | [takanome-dev](https://github.com/takanome-dev) | El Hadji Malick Seck | undefined | takanome_dev | Dakar, Senegal | 195 |
 | 10 | [MedouneSGB](https://github.com/MedouneSGB) | Médoune Siby Georges Baldé | Eyone | Medoune_SGB | Dakar | 192 |
 | 11 | [dofbi](https://github.com/dofbi) | dofbi.eth | 01SERVICES | dofbi | Senegal | 186 |
-| 12 | [mamour-dx](https://github.com/mamour-dx) | Mamour Dieng | École Supérieure Polytechnique |  | Dakar | 180 |
+| 12 | [mamour-dx](https://github.com/mamour-dx) | Mamour Dieng | École Supérieure Polytechnique |  | Dakar | 179 |
 | 13 | [dickoa](https://github.com/dickoa) | Ahmadou Dicko |  |  | Dakar, Senegal | 171 |
 | 14 | [andrewSarr](https://github.com/andrewSarr) | Andre Sarr | None |  | Dakar | 168 |
 | 15 | [yayediop2](https://github.com/yayediop2) | Yaye Fatou | Zone 01 Dakar |  | Dakar, Sn | 165 |

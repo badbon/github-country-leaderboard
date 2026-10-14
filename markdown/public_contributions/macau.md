@@ -1,12 +1,12 @@
 # Public Contributions - Macau
 
-Generated: 2026-10-14T07:39:22.809Z
+Generated: 2026-10-14T09:03:36.273Z
 
 Users: 439
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [sou350121](https://github.com/sou350121) | KenSou |  |  | Macau | 5325 |
+| 1 | [sou350121](https://github.com/sou350121) | KenSou |  |  | Macau | 5362 |
 | 2 | [spiritLHLS](https://github.com/spiritLHLS) | spiritlhl | CAICT |  | Macau | 4828 |
 | 3 | [sfcheung](https://github.com/sfcheung) | Shu Fai Cheung | University of Macau | blogonresearch | Macao | 2776 |
 | 4 | [mugpeng](https://github.com/mugpeng) | Peng |  |  | macao | 2274 |
@@ -15,7 +15,7 @@ Users: 439
 | 7 | [wahengchang](https://github.com/wahengchang) | peterchang | @Yahoo |  | macau | 1336 |
 | 8 | [yyyyyyounger](https://github.com/yyyyyyounger) | Rookie, LIN | University of Macau |  | Macau | 1285 |
 | 9 | [simoniong](https://github.com/simoniong) | Simon Iong | Ksun Technology |  | Macau | 1277 |
-| 10 | [mrvictoru](https://github.com/mrvictoru) | Victor |  |  | Macau | 925 |
+| 10 | [mrvictoru](https://github.com/mrvictoru) | Victor |  |  | Macau | 934 |
 | 11 | [1595901624](https://github.com/1595901624) | Cloris |  | LhyLuhaoyu | Macau | 842 |
 | 12 | [ygqygq2](https://github.com/ygqygq2) | Chinge Yang |  |  | macao | 804 |
 | 13 | [comsaint](https://github.com/comsaint) | comsaint |  |  | Macau | 758 |

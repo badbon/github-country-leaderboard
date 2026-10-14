@@ -1,8 +1,8 @@
 # Total Contributions - Myanmar
 
-Generated: 2026-10-14T07:47:21.857Z
+Generated: 2026-10-14T09:11:39.884Z
 
-Users: 2066
+Users: 2064
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -13,8 +13,8 @@ Users: 2066
 | 5 | [gon-khaung](https://github.com/gon-khaung) | GK |  |  | Yangon, Myanmar | 5531 |
 | 6 | [thitlwincoder](https://github.com/thitlwincoder) | Thit Lwin | Remote |  | Yangon, Myanmar(Burma) | 5527 |
 | 7 | [aungaung99](https://github.com/aungaung99) | Aung Naing Oo | @Efficient-Soft |  | Yangon, Myanmar | 5157 |
-| 8 | [kwarnkham](https://github.com/kwarnkham) | SAI KWRN KHAM |  |  | Yangon, Myanmar | 4827 |
-| 9 | [kokim2022](https://github.com/kokim2022) | hwaung | Klink Myanmar, Oakhouse Technology |  | Yangon, Myanmar | 4750 |
+| 8 | [kokim2022](https://github.com/kokim2022) | hwaung | Klink Myanmar, Oakhouse Technology |  | Yangon, Myanmar | 4750 |
+| 9 | [kwarnkham](https://github.com/kwarnkham) | SAI KWRN KHAM |  |  | Yangon, Myanmar | 4699 |
 | 10 | [kyawkoko232](https://github.com/kyawkoko232) | Kyaw Ko Ko | - | kyawkoko232 | Yangon, Myanmar(Burma) | 4580 |
 | 11 | [why-a-en](https://github.com/why-a-en) | Yan Min Thwin | Message Spring | yanminthwin | Yangon, Myanmar (Burma) | 4053 |
 | 12 | [thanthtooaung-coding](https://github.com/thanthtooaung-coding) | Thant Htoo Aung | Laconic | VinnnDev | Yangon, Myanmar | 3913 |

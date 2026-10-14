@@ -110,7 +110,7 @@ Published countries: 234
 | Jersey | 139 | [View](./jersey.md) |
 | Jordan | 4,015 | [View](./jordan.md) |
 | Kazakhstan | 5,661 | [View](./kazakhstan.md) |
-| Kenya | 24,028 | [View](./kenya.md) |
+| Kenya | 24,029 | [View](./kenya.md) |
 | Kiribati | 4 | [View](./kiribati.md) |
 | Kuwait | 798 | [View](./kuwait.md) |
 | Kyrgyzstan | 2,452 | [View](./kyrgyzstan.md) |
@@ -122,7 +122,7 @@ Published countries: 234
 | Libya | 742 | [View](./libya.md) |
 | Liechtenstein | 113 | [View](./liechtenstein.md) |
 | Lithuania | 5,386 | [View](./lithuania.md) |
-| Luxembourg | 2,193 | [View](./luxembourg.md) |
+| Luxembourg | 2,192 | [View](./luxembourg.md) |
 | Macau | 439 | [View](./macau.md) |
 | Madagascar | 1,905 | [View](./madagascar.md) |
 | Malawi | 900 | [View](./malawi.md) |
@@ -144,7 +144,7 @@ Published countries: 234
 | Montserrat | 291 | [View](./montserrat.md) |
 | Morocco | 9,647 | [View](./morocco.md) |
 | Mozambique | 1,176 | [View](./mozambique.md) |
-| Myanmar | 2,066 | [View](./myanmar.md) |
+| Myanmar | 2,064 | [View](./myanmar.md) |
 | Namibia | 476 | [View](./namibia.md) |
 | Nauru | 3 | [View](./nauru.md) |
 | Nepal | 14,125 | [View](./nepal.md) |
@@ -167,9 +167,9 @@ Published countries: 234
 | Papua New Guinea | 296 | [View](./papua_new_guinea.md) |
 | Paraguay | 2,015 | [View](./paraguay.md) |
 | Peru | 9,781 | [View](./peru.md) |
-| Philippines | 19,786 | [View](./philippines.md) |
+| Philippines | 19,784 | [View](./philippines.md) |
 | Pitcairn Islands | 5 | [View](./pitcairn_islands.md) |
-| Portugal | 28,451 | [View](./portugal.md) |
+| Portugal | 28,450 | [View](./portugal.md) |
 | Puerto Rico | 1,536 | [View](./puerto_rico.md) |
 | Qatar | 1,073 | [View](./qatar.md) |
 | Republic of the Congo | 299 | [View](./republic_of_the_congo.md) |
@@ -186,7 +186,7 @@ Published countries: 234
 | Samoa | 19 | [View](./samoa.md) |
 | San Marino | 61 | [View](./san_marino.md) |
 | São Tomé and Príncipe | 20 | [View](./sao_tome_and_principe.md) |
-| Saudi Arabia | 7,746 | [View](./saudi_arabia.md) |
+| Saudi Arabia | 7,745 | [View](./saudi_arabia.md) |
 | Senegal | 1,357 | [View](./senegal.md) |
 | Serbia | 10,668 | [View](./serbia.md) |
 | Seychelles | 1,770 | [View](./seychelles.md) |
@@ -239,4 +239,4 @@ Published countries: 234
 | Zambia | 1,339 | [View](./zambia.md) |
 | Zimbabwe | 1,654 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-14T08:57:36.604Z
+Generated: 2026-10-14T09:27:04.831Z

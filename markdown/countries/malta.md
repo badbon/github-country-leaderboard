@@ -16,7 +16,7 @@ Indexed users: 1,225
 | 2 | [SijanC147](https://github.com/SijanC147) | Sean | Malta | 25,147 |
 | 3 | [tssge](https://github.com/tssge) | Teemu Grönqvist | Msida, Malta | 15,347 |
 | 4 | [zcourts](https://github.com/zcourts) | Courtney Robinson | London (UK), Łodz (Poland), Valletta (Malta) | 14,624 |
-| 5 | [kjlibsol](https://github.com/kjlibsol) | Klaus Jensen | Malta | 12,416 |
+| 5 | [kjlibsol](https://github.com/kjlibsol) | Klaus Jensen | Malta | 12,581 |
 | 6 | [exori90](https://github.com/exori90) | exori | Malta | 10,549 |
 | 7 | [mattbeedle](https://github.com/mattbeedle) | Matt Beedle | Malta | 10,492 |
 | 8 | [GabrielGil](https://github.com/GabrielGil) | Gabriel | Malta | 10,208 |
@@ -28,7 +28,7 @@ Indexed users: 1,225
 | 14 | [m2ximus](https://github.com/m2ximus) | max—os | Malta | 7,471 |
 | 15 | [iko2000](https://github.com/iko2000) | Iviko Shengelia | Malta | 7,327 |
 | 16 | [KimSpecht](https://github.com/KimSpecht) | Kim Pedersen | Malta | 7,238 |
-| 17 | [ksazid](https://github.com/ksazid) | Sazid | Malta | 6,234 |
+| 17 | [ksazid](https://github.com/ksazid) | Sazid | Malta | 6,244 |
 | 18 | [mzaharenkov](https://github.com/mzaharenkov) | Mikhail Zakharenkov | Malta | 5,652 |
 | 19 | [seanellul](https://github.com/seanellul) | Sean Ellul | Malta | 5,628 |
 | 20 | [kevinfarrugia](https://github.com/kevinfarrugia) | Kevin Farrugia | Malta | 5,552 |
@@ -37,7 +37,7 @@ Indexed users: 1,225
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [ksazid](https://github.com/ksazid) | Sazid | Malta | 6,234 |
+| 1 | [ksazid](https://github.com/ksazid) | Sazid | Malta | 6,244 |
 | 2 | [jonathan-vella](https://github.com/jonathan-vella) | Jonathan Vella | Malta | 3,876 |
 | 3 | [ripienaar](https://github.com/ripienaar) | R.I.Pienaar | Malta | 3,835 |
 | 4 | [OmegaGbenga](https://github.com/OmegaGbenga) | Olugbenga Olatunde Dareowolabi | Malta | 3,552 |
@@ -83,4 +83,4 @@ Indexed users: 1,225
 | 19 | [mattcg](https://github.com/mattcg) | Matthew Caruana Galizia | Malta | 126 |
 | 20 | [CM2Walki](https://github.com/CM2Walki) | Walki | Malta | 118 |
 
-Generated: 2026-10-14T07:41:30.428Z
+Generated: 2026-10-14T09:06:57.855Z

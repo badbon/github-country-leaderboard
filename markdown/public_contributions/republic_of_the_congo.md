@@ -1,6 +1,6 @@
 # Public Contributions - Republic of the Congo
 
-Generated: 2026-10-14T07:56:46.585Z
+Generated: 2026-10-14T09:21:31.536Z
 
 Users: 299
 
@@ -19,7 +19,7 @@ Users: 299
 | 11 | [denniskoech457](https://github.com/denniskoech457) | Extravaganza | Extravaganza |  | Congo | 343 |
 | 12 | [leloeduk](https://github.com/leloeduk) | Lelo  | Lelo eduk |  | Congo | 311 |
 | 13 | [lepresk](https://github.com/lepresk) | Logan CodeMaker | @Akieni | lepresk1 | Brazzaville, Congo | 286 |
-| 14 | [Chadrac-WAKOMYA](https://github.com/Chadrac-WAKOMYA) | KIGHUNDILA WAKOMYA Chadrac |  |  | Congo | 256 |
+| 14 | [Chadrac-WAKOMYA](https://github.com/Chadrac-WAKOMYA) | KIGHUNDILA WAKOMYA Chadrac |  |  | Congo | 255 |
 | 15 | [babacleven](https://github.com/babacleven) | BABA Aristote Cleven  | AKIENI ACADEMY |  | Congo-Brazzaville | 225 |
 | 16 | [chronoss09](https://github.com/chronoss09) | Chronoss | CHRONOSS GAMES | chronoss09 | Congo | 213 |
 | 17 | [Ssnnee](https://github.com/Ssnnee) | Samuel Nandi |  | NandiSne | Republic of the Congo | 200 |

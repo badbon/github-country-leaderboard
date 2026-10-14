@@ -19,19 +19,19 @@ Indexed users: 19,630
 | 5 | [kasperrt](https://github.com/kasperrt) | Kasper Rynning-Tønnesen | Oslo, Norway | 24,063 |
 | 6 | [eonist](https://github.com/eonist) | André J | Norway, Oslo | 23,338 |
 | 7 | [runnane](https://github.com/runnane) | Jon Tungland | Norway | 22,158 |
-| 8 | [TheFlyingCorpse](https://github.com/TheFlyingCorpse) | Rune Darrud | Norway | 21,930 |
-| 9 | [khaliqgant](https://github.com/khaliqgant) | Khaliq | Oslo, Norway | 21,775 |
-| 10 | [caengen](https://github.com/caengen) | Christian Engen | Lørenskog, Norway | 19,124 |
-| 11 | [arvinkho](https://github.com/arvinkho) | Arvin Khodabandeh | Oslo | 19,037 |
-| 12 | [pravindahal](https://github.com/pravindahal) | Pravin Dahal | Oslo, Norway | 18,781 |
-| 13 | [royveshovda](https://github.com/royveshovda) | Roy Veshovda | Oslo, Norway | 18,433 |
-| 14 | [einari](https://github.com/einari) | Einar Ingebrigtsen | Sandefjord, Norway | 18,068 |
-| 15 | [HelgeSverre](https://github.com/HelgeSverre) | Helge Sverre | Bergen, Norway | 17,891 |
-| 16 | [jonasferagen](https://github.com/jonasferagen) | Jonas Feragen | Trondheim, Norway | 17,114 |
-| 17 | [prasadus92](https://github.com/prasadus92) | Prasad Subrahmanya | Oslo, Norway | 16,741 |
-| 18 | [marksverdhei](https://github.com/marksverdhei) | Markus / Mark | Norway | 16,592 |
-| 19 | [bwentzel](https://github.com/bwentzel) | Bjorn Andreas Wentzel | Oslo, Norway | 15,139 |
-| 20 | [shadone](https://github.com/shadone) | Denis Dzyubenko | Oslo, Norway | 15,047 |
+| 8 | [AndyMik90](https://github.com/AndyMik90) | André Mikalsen | Norway | 22,005 |
+| 9 | [TheFlyingCorpse](https://github.com/TheFlyingCorpse) | Rune Darrud | Norway | 21,930 |
+| 10 | [khaliqgant](https://github.com/khaliqgant) | Khaliq | Oslo, Norway | 21,775 |
+| 11 | [caengen](https://github.com/caengen) | Christian Engen | Lørenskog, Norway | 19,124 |
+| 12 | [arvinkho](https://github.com/arvinkho) | Arvin Khodabandeh | Oslo | 19,037 |
+| 13 | [pravindahal](https://github.com/pravindahal) | Pravin Dahal | Oslo, Norway | 18,781 |
+| 14 | [royveshovda](https://github.com/royveshovda) | Roy Veshovda | Oslo, Norway | 18,433 |
+| 15 | [einari](https://github.com/einari) | Einar Ingebrigtsen | Sandefjord, Norway | 18,068 |
+| 16 | [HelgeSverre](https://github.com/HelgeSverre) | Helge Sverre | Bergen, Norway | 17,891 |
+| 17 | [jonasferagen](https://github.com/jonasferagen) | Jonas Feragen | Trondheim, Norway | 17,114 |
+| 18 | [prasadus92](https://github.com/prasadus92) | Prasad Subrahmanya | Oslo, Norway | 16,741 |
+| 19 | [marksverdhei](https://github.com/marksverdhei) | Markus / Mark | Norway | 16,592 |
+| 20 | [bwentzel](https://github.com/bwentzel) | Bjorn Andreas Wentzel | Oslo, Norway | 15,139 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 19,630
 | 19 | [SimenB](https://github.com/SimenB) | Simen Bekkhus | Oslo, Norway | 1,277 |
 | 20 | [aurorascharff](https://github.com/aurorascharff) | Aurora Scharff | Oslo, Norway | 1,275 |
 
-Generated: 2026-10-14T07:52:06.573Z
+Generated: 2026-10-14T09:16:35.050Z

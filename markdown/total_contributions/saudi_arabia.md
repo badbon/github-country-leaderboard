@@ -1,8 +1,8 @@
 # Total Contributions - Saudi Arabia
 
-Generated: 2026-10-14T08:01:12.421Z
+Generated: 2026-10-14T09:24:10.893Z
 
-Users: 7746
+Users: 7745
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -24,5 +24,5 @@ Users: 7746
 | 16 | [mo-alhaddad](https://github.com/mo-alhaddad) | Mohammed Alhaddad | IPTech |  | Khobar, Saudi Arabia | 8946 |
 | 17 | [GarthOrmsby](https://github.com/GarthOrmsby) |  |  |  | Saudi Arabia | 8196 |
 | 18 | [devmsh](https://github.com/devmsh) | Mohammed S Shurrab | One Studio |  | Jeddah, Saudi Arabia | 8144 |
-| 19 | [xahmd](https://github.com/xahmd) | AHMAD JAMOS |  |  | Saudi Arabia | 7587 |
-| 20 | [alfee3l](https://github.com/alfee3l) | Abdulrazzaq Al-Fil | Muaynah |  | Saudi Arabia | 7425 |
+| 19 | [cc1a2b](https://github.com/cc1a2b) | Hussain Alsharman |  | cc1a2b | Saudi Arabia, Riyadh | 8095 |
+| 20 | [xahmd](https://github.com/xahmd) | AHMAD JAMOS |  |  | Saudi Arabia | 7587 |

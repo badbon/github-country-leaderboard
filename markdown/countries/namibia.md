@@ -14,7 +14,7 @@ Indexed users: 476
 |---:|---|---|---|---:|
 | 1 | [lemuelvdm](https://github.com/lemuelvdm) | Lemuel | Namibia | 10,190 |
 | 2 | [dikuwa](https://github.com/dikuwa) | Martin Mukoya | swakopmund, Namibia | 8,782 |
-| 3 | [Jason-Mendes](https://github.com/Jason-Mendes) | Jason-Mendes | Namibia | 6,626 |
+| 3 | [Jason-Mendes](https://github.com/Jason-Mendes) | Jason-Mendes | Namibia | 6,696 |
 | 4 | [DeclanRiedel](https://github.com/DeclanRiedel) | Declan | Walvis Bay, Namibia | 6,503 |
 | 5 | [UnitBuilds](https://github.com/UnitBuilds) | UnitBuilds | Namibia | 6,252 |
 | 6 | [rvs1257](https://github.com/rvs1257) | Rudi Steinbach | Namibia | 6,062 |
@@ -83,4 +83,4 @@ Indexed users: 476
 | 19 | [Hilya02](https://github.com/Hilya02) | Hilya Ntinda Tuyakula | Windhoek, Namibia | 36 |
 | 20 | [erassynathingo](https://github.com/erassynathingo) | Erastus Nathingo | Windhoek | 33 |
 
-Generated: 2026-10-14T07:47:59.675Z
+Generated: 2026-10-14T09:12:16.450Z

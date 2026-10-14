@@ -54,7 +54,7 @@ Indexed users: 354
 | 15 | [M-IYAAADH](https://github.com/M-IYAAADH) | Mohamed Iyaadh | Male' , Maldives | 366 |
 | 16 | [aliaafee](https://github.com/aliaafee) | Ali Aafee | Maldives | 310 |
 | 17 | [hailam](https://github.com/hailam) | Mohamed Hailam Ahmed | Male`, Maldives | 309 |
-| 18 | [athphane](https://github.com/athphane) | Athfan Khaleel | Maldives | 266 |
+| 18 | [athphane](https://github.com/athphane) | Athfan Khaleel | Maldives | 268 |
 | 19 | [WhoIsFishie](https://github.com/WhoIsFishie) | fISHIE | Maldives | 233 |
 | 20 | [WovenCoast](https://github.com/WovenCoast) | FlameXode | Maldives | 233 |
 
@@ -83,4 +83,4 @@ Indexed users: 354
 | 19 | [Dharisd](https://github.com/Dharisd) |  | maldives | 41 |
 | 20 | [muhannad0](https://github.com/muhannad0) | Monde | Maldives | 41 |
 
-Generated: 2026-10-14T07:41:02.181Z
+Generated: 2026-10-14T09:05:35.085Z

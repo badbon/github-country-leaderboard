@@ -1,6 +1,6 @@
 # Followers - Moldova
 
-Generated: 2026-10-14T07:45:39.300Z
+Generated: 2026-10-14T09:08:41.687Z
 
 Users: 1750
 
@@ -20,7 +20,7 @@ Users: 1750
 | 12 | [Ywxig](https://github.com/Ywxig) | Ywxig |  |  | Moldova Chisinau  | 179 |
 | 13 | [vova07](https://github.com/vova07) | Vasile C. |  |  | Chișinău, Moldova | 172 |
 | 14 | [bearanatolie](https://github.com/bearanatolie) | Anatolie Ursu | zugzwang lab |  | ulmu, laloveni, Moldova | 155 |
-| 15 | [AddictedCS](https://github.com/AddictedCS) | Sergiu Ciumac | emysound.com | addictedcs | Chisinau, Moldova | 144 |
+| 15 | [AddictedCS](https://github.com/AddictedCS) | Sergiu Ciumac | emysound.com | addictedcs | Chisinau, Moldova | 141 |
 | 16 | [ygorigor](https://github.com/ygorigor) | Igor |  |  | Chisinau, Moldova | 129 |
 | 17 | [andrei-zgirvaci](https://github.com/andrei-zgirvaci) | Andrei Zgîrvaci | @callstack | andrei_zgirvaci | Chișinău, Moldova | 123 |
 | 18 | [keriat](https://github.com/keriat) | Sergey Beresnev | @superform-xyz | keriat | Moldova, Chisinau | 119 |

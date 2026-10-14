@@ -1,6 +1,6 @@
 # Total Contributions - Norway
 
-Generated: 2026-10-14T07:52:06.573Z
+Generated: 2026-10-14T09:16:35.050Z
 
 Users: 19630
 
@@ -13,16 +13,16 @@ Users: 19630
 | 5 | [kasperrt](https://github.com/kasperrt) | Kasper Rynning-Tønnesen | @embroidery-io | kasper_rt | Oslo, Norway | 24063 |
 | 6 | [eonist](https://github.com/eonist) | André J |  |  | Norway, Oslo | 23338 |
 | 7 | [runnane](https://github.com/runnane) | Jon Tungland | runnane |  | Norway | 22158 |
-| 8 | [TheFlyingCorpse](https://github.com/TheFlyingCorpse) | Rune Darrud |  |  | Norway | 21930 |
-| 9 | [khaliqgant](https://github.com/khaliqgant) | Khaliq | @AgentWorkforce | khaliqgant | Oslo, Norway | 21775 |
-| 10 | [caengen](https://github.com/caengen) | Christian Engen | @DIBkunnskap |  | Lørenskog, Norway | 19124 |
-| 11 | [arvinkho](https://github.com/arvinkho) | Arvin Khodabandeh | Knowit |  | Oslo | 19037 |
-| 12 | [pravindahal](https://github.com/pravindahal) | Pravin Dahal |  |  | Oslo, Norway | 18781 |
-| 13 | [royveshovda](https://github.com/royveshovda) | Roy Veshovda | Eycarus AS |  | Oslo, Norway | 18433 |
-| 14 | [einari](https://github.com/einari) | Einar Ingebrigtsen | @Novanet | einari | Sandefjord, Norway | 18068 |
-| 15 | [HelgeSverre](https://github.com/HelgeSverre) | Helge Sverre | Crescat AS | helgesverre | Bergen, Norway | 17891 |
-| 16 | [jonasferagen](https://github.com/jonasferagen) | Jonas Feragen |  |  | Trondheim, Norway | 17114 |
-| 17 | [prasadus92](https://github.com/prasadus92) | Prasad Subrahmanya | Luminik \| Ex-Bain |  | Oslo, Norway | 16741 |
-| 18 | [marksverdhei](https://github.com/marksverdhei) | Markus / Mark | @NationalLibraryOfNorway |  | Norway | 16592 |
-| 19 | [bwentzel](https://github.com/bwentzel) | Bjorn Andreas Wentzel |  |  | Oslo, Norway | 15139 |
-| 20 | [shadone](https://github.com/shadone) | Denis Dzyubenko |  |  | Oslo, Norway | 15047 |
+| 8 | [AndyMik90](https://github.com/AndyMik90) | André Mikalsen | Mikalsen AI |  | Norway | 22005 |
+| 9 | [TheFlyingCorpse](https://github.com/TheFlyingCorpse) | Rune Darrud |  |  | Norway | 21930 |
+| 10 | [khaliqgant](https://github.com/khaliqgant) | Khaliq | @AgentWorkforce | khaliqgant | Oslo, Norway | 21775 |
+| 11 | [caengen](https://github.com/caengen) | Christian Engen | @DIBkunnskap |  | Lørenskog, Norway | 19124 |
+| 12 | [arvinkho](https://github.com/arvinkho) | Arvin Khodabandeh | Knowit |  | Oslo | 19037 |
+| 13 | [pravindahal](https://github.com/pravindahal) | Pravin Dahal |  |  | Oslo, Norway | 18781 |
+| 14 | [royveshovda](https://github.com/royveshovda) | Roy Veshovda | Eycarus AS |  | Oslo, Norway | 18433 |
+| 15 | [einari](https://github.com/einari) | Einar Ingebrigtsen | @Novanet | einari | Sandefjord, Norway | 18068 |
+| 16 | [HelgeSverre](https://github.com/HelgeSverre) | Helge Sverre | Crescat AS | helgesverre | Bergen, Norway | 17891 |
+| 17 | [jonasferagen](https://github.com/jonasferagen) | Jonas Feragen |  |  | Trondheim, Norway | 17114 |
+| 18 | [prasadus92](https://github.com/prasadus92) | Prasad Subrahmanya | Luminik \| Ex-Bain |  | Oslo, Norway | 16741 |
+| 19 | [marksverdhei](https://github.com/marksverdhei) | Markus / Mark | @NationalLibraryOfNorway |  | Norway | 16592 |
+| 20 | [bwentzel](https://github.com/bwentzel) | Bjorn Andreas Wentzel |  |  | Oslo, Norway | 15139 |

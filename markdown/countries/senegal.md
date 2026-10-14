@@ -27,11 +27,11 @@ Indexed users: 1,357
 | 13 | [elias-ba](https://github.com/elias-ba) | Elias Waly Ba | Dakar, Senegal | 5,019 |
 | 14 | [crossben](https://github.com/crossben) |  | Dakar | 4,785 |
 | 15 | [ZooM982](https://github.com/ZooM982) | Revhieno Roll Haurly MBOUTA  | Dakar, Sénégal | 4,679 |
-| 16 | [Zoubeir23](https://github.com/Zoubeir23) | ZOUBEIR IBRAHIMA | Sénegale, Dakar | 4,387 |
-| 17 | [madicke12](https://github.com/madicke12) | Madicke Cisse | Dakar | 4,228 |
-| 18 | [eliusxpol](https://github.com/eliusxpol) | Elhadji Ibrahima Ndiaye | Senegal | 4,201 |
-| 19 | [lonie12](https://github.com/lonie12) | Yxie | Dakar, Senegal | 4,147 |
-| 20 | [Denver-sn](https://github.com/Denver-sn) | DℰℕVℰℛ | Senegal,Dakar | 4,075 |
+| 16 | [lamine-f](https://github.com/lamine-f) | Mouhamed Lamine Faye | Sénégal - Dakar | 4,525 |
+| 17 | [Zoubeir23](https://github.com/Zoubeir23) | ZOUBEIR IBRAHIMA | Sénegale, Dakar | 4,387 |
+| 18 | [madicke12](https://github.com/madicke12) | Madicke Cisse | Dakar | 4,228 |
+| 19 | [eliusxpol](https://github.com/eliusxpol) | Elhadji Ibrahima Ndiaye | Senegal | 4,201 |
+| 20 | [lonie12](https://github.com/lonie12) | Yxie | Dakar, Senegal | 4,147 |
 
 ## Public Contributions
 
@@ -73,7 +73,7 @@ Indexed users: 1,357
 | 9 | [takanome-dev](https://github.com/takanome-dev) | El Hadji Malick Seck | Dakar, Senegal | 195 |
 | 10 | [MedouneSGB](https://github.com/MedouneSGB) | Médoune Siby Georges Baldé | Dakar | 192 |
 | 11 | [dofbi](https://github.com/dofbi) | dofbi.eth | Senegal | 186 |
-| 12 | [mamour-dx](https://github.com/mamour-dx) | Mamour Dieng | Dakar | 180 |
+| 12 | [mamour-dx](https://github.com/mamour-dx) | Mamour Dieng | Dakar | 179 |
 | 13 | [dickoa](https://github.com/dickoa) | Ahmadou Dicko | Dakar, Senegal | 171 |
 | 14 | [andrewSarr](https://github.com/andrewSarr) | Andre Sarr | Dakar | 168 |
 | 15 | [yayediop2](https://github.com/yayediop2) | Yaye Fatou | Dakar, Sn | 165 |
@@ -83,4 +83,4 @@ Indexed users: 1,357
 | 19 | [ngorseck](https://github.com/ngorseck) | Ngor SECK | Dakar - Sénégal | 142 |
 | 20 | [patheGobel](https://github.com/patheGobel) | Pathé BA | Senegal  | 138 |
 
-Generated: 2026-10-14T08:01:15.957Z
+Generated: 2026-10-14T09:25:16.614Z

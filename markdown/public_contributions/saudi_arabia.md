@@ -1,8 +1,8 @@
 # Public Contributions - Saudi Arabia
 
-Generated: 2026-10-14T08:01:12.421Z
+Generated: 2026-10-14T09:24:10.893Z
 
-Users: 7746
+Users: 7745
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -16,7 +16,7 @@ Users: 7746
 | 8 | [AsemJK](https://github.com/AsemJK) | Asem Alsaiyadi |  |  | Saudi Arabia | 4084 |
 | 9 | [ManalAlyami7](https://github.com/ManalAlyami7) | Manal Alyami  | King Saud University |  | Riyadh, Saudi Arabia | 3442 |
 | 10 | [EslamElshikh-dev](https://github.com/EslamElshikh-dev) | Eslam Elshikh | Google  | remoesoo10 | Riyadh  | 3381 |
-| 11 | [CalledSTRIKER](https://github.com/CalledSTRIKER) | Sultan |  |  | Saudi arabia, Jeddah | 2720 |
+| 11 | [CalledSTRIKER](https://github.com/CalledSTRIKER) | Sultan |  |  | Saudi Arabia | 3251 |
 | 12 | [Lamyaa439](https://github.com/Lamyaa439) | Lamyaa  |  |  | Riyadh | 2589 |
 | 13 | [Su03l](https://github.com/Su03l) | Suliman Yousef |  | su05l | Saudi Arabia | 2480 |
 | 14 | [nn6n](https://github.com/nn6n) |  |  |  | Saudi Arabia  | 2459 |

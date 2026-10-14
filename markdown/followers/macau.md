@@ -1,6 +1,6 @@
 # Followers - Macau
 
-Generated: 2026-10-14T07:39:22.809Z
+Generated: 2026-10-14T09:03:36.273Z
 
 Users: 439
 

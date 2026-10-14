@@ -1,6 +1,6 @@
 # Saudi Arabia
 
-Indexed users: 7,746
+Indexed users: 7,745
 
 | Leaderboard | Link |
 |---|---|
@@ -30,8 +30,8 @@ Indexed users: 7,746
 | 16 | [mo-alhaddad](https://github.com/mo-alhaddad) | Mohammed Alhaddad | Khobar, Saudi Arabia | 8,946 |
 | 17 | [GarthOrmsby](https://github.com/GarthOrmsby) |  | Saudi Arabia | 8,196 |
 | 18 | [devmsh](https://github.com/devmsh) | Mohammed S Shurrab | Jeddah, Saudi Arabia | 8,144 |
-| 19 | [xahmd](https://github.com/xahmd) | AHMAD JAMOS | Saudi Arabia | 7,587 |
-| 20 | [alfee3l](https://github.com/alfee3l) | Abdulrazzaq Al-Fil | Saudi Arabia | 7,425 |
+| 19 | [cc1a2b](https://github.com/cc1a2b) | Hussain Alsharman | Saudi Arabia, Riyadh | 8,095 |
+| 20 | [xahmd](https://github.com/xahmd) | AHMAD JAMOS | Saudi Arabia | 7,587 |
 
 ## Public Contributions
 
@@ -47,7 +47,7 @@ Indexed users: 7,746
 | 8 | [AsemJK](https://github.com/AsemJK) | Asem Alsaiyadi | Saudi Arabia | 4,084 |
 | 9 | [ManalAlyami7](https://github.com/ManalAlyami7) | Manal Alyami  | Riyadh, Saudi Arabia | 3,442 |
 | 10 | [EslamElshikh-dev](https://github.com/EslamElshikh-dev) | Eslam Elshikh | Riyadh  | 3,381 |
-| 11 | [CalledSTRIKER](https://github.com/CalledSTRIKER) | Sultan | Saudi arabia, Jeddah | 2,720 |
+| 11 | [CalledSTRIKER](https://github.com/CalledSTRIKER) | Sultan | Saudi Arabia | 3,251 |
 | 12 | [Lamyaa439](https://github.com/Lamyaa439) | Lamyaa  | Riyadh | 2,589 |
 | 13 | [Su03l](https://github.com/Su03l) | Suliman Yousef | Saudi Arabia | 2,480 |
 | 14 | [nn6n](https://github.com/nn6n) |  | Saudi Arabia  | 2,459 |
@@ -83,4 +83,4 @@ Indexed users: 7,746
 | 19 | [davidrpugh](https://github.com/davidrpugh) | David R. Pugh | Thuwal, Saudi Arabia | 458 |
 | 20 | [madahetooo](https://github.com/madahetooo) | Eslam Medhat | Riyadh, Saudi Arabia | 458 |
 
-Generated: 2026-10-14T08:01:12.421Z
+Generated: 2026-10-14T09:24:10.893Z

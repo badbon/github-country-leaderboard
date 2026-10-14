@@ -17,7 +17,7 @@ Indexed users: 439
 | 3 | [vergilsoleyn](https://github.com/vergilsoleyn) |  | Macau | 7,862 |
 | 4 | [Chonwai](https://github.com/Chonwai) | Chonwai Un, Edison | Macau | 6,774 |
 | 5 | [kenischu](https://github.com/kenischu) | Kenis Chu | Macau | 5,699 |
-| 6 | [sou350121](https://github.com/sou350121) | KenSou | Macau | 5,325 |
+| 6 | [sou350121](https://github.com/sou350121) | KenSou | Macau | 5,362 |
 | 7 | [LunchBox](https://github.com/LunchBox) | Daniel | Macau | 3,486 |
 | 8 | [1595901624](https://github.com/1595901624) | Cloris | Macau | 3,315 |
 | 9 | [sfcheung](https://github.com/sfcheung) | Shu Fai Cheung | Macao | 3,315 |
@@ -37,7 +37,7 @@ Indexed users: 439
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [sou350121](https://github.com/sou350121) | KenSou | Macau | 5,325 |
+| 1 | [sou350121](https://github.com/sou350121) | KenSou | Macau | 5,362 |
 | 2 | [spiritLHLS](https://github.com/spiritLHLS) | spiritlhl | Macau | 4,828 |
 | 3 | [sfcheung](https://github.com/sfcheung) | Shu Fai Cheung | Macao | 2,776 |
 | 4 | [mugpeng](https://github.com/mugpeng) | Peng | macao | 2,274 |
@@ -46,7 +46,7 @@ Indexed users: 439
 | 7 | [wahengchang](https://github.com/wahengchang) | peterchang | macau | 1,336 |
 | 8 | [yyyyyyounger](https://github.com/yyyyyyounger) | Rookie, LIN | Macau | 1,285 |
 | 9 | [simoniong](https://github.com/simoniong) | Simon Iong | Macau | 1,277 |
-| 10 | [mrvictoru](https://github.com/mrvictoru) | Victor | Macau | 925 |
+| 10 | [mrvictoru](https://github.com/mrvictoru) | Victor | Macau | 934 |
 | 11 | [1595901624](https://github.com/1595901624) | Cloris | Macau | 842 |
 | 12 | [ygqygq2](https://github.com/ygqygq2) | Chinge Yang | macao | 804 |
 | 13 | [comsaint](https://github.com/comsaint) | comsaint | Macau | 758 |
@@ -83,4 +83,4 @@ Indexed users: 439
 | 19 | [Boom5426](https://github.com/Boom5426) | Bo li (李波) | Macau | 67 |
 | 20 | [mugpeng](https://github.com/mugpeng) | Peng | macao | 67 |
 
-Generated: 2026-10-14T07:39:22.809Z
+Generated: 2026-10-14T09:03:36.273Z
