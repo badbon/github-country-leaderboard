@@ -20827,7 +20827,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 3533,
+    "privateContributions": 2371,
     "publicContributions": 0,
     "createdAt": "2017-10-21T23:17:03Z"
   },
@@ -20840,7 +20840,7 @@
     "twitterUsername": "NemoQued",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 82,
+    "publicContributions": 85,
     "createdAt": "2017-03-23T04:38:53Z"
   },
   {
@@ -20912,7 +20912,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 66,
+    "publicContributions": 59,
     "createdAt": "2017-04-25T00:00:34Z"
   },
   {
@@ -20948,7 +20948,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2017-03-11T22:40:48Z"
   },
   {
@@ -20959,8 +20959,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 851,
-    "publicContributions": 6,
+    "privateContributions": 493,
+    "publicContributions": 3,
     "createdAt": "2017-10-06T19:33:45Z"
   },
   {
@@ -20972,7 +20972,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 25,
     "createdAt": "2017-09-04T15:46:16Z"
   },
   {
@@ -20984,7 +20984,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2017-07-08T00:59:22Z"
   },
   {
@@ -21019,8 +21019,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 173,
-    "publicContributions": 36,
+    "privateContributions": 285,
+    "publicContributions": 30,
     "createdAt": "2017-07-20T02:43:38Z"
   },
   {
@@ -21044,7 +21044,7 @@
     "twitterUsername": "jabimo33",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 167,
+    "publicContributions": 51,
     "createdAt": "2017-01-26T14:02:46Z"
   },
   {
@@ -21056,7 +21056,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 252,
+    "publicContributions": 223,
     "createdAt": "2017-09-02T20:32:26Z"
   },
   {
@@ -28498,5 +28498,53 @@
     "privateContributions": 0,
     "publicContributions": 46,
     "createdAt": "2026-06-27T17:44:10Z"
+  },
+  {
+    "login": "Vanessa-UPDP",
+    "name": "Vanessa Rosales",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/297976703?s=72&u=3dedfa5f05ba0acce542df7fde32d1caa717dee8&v=4",
+    "location": "Puerto de Acajutla, El Salvador",
+    "company": "Unión Portuaria del Pacifico",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-29T16:29:33Z"
+  },
+  {
+    "login": "Alejandro-UPDP",
+    "name": "Alejandro_UPDP",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298024261?s=72&u=988c76a125a9923f966d4c721d5a66717b10014e&v=4",
+    "location": "Puerto de Acajutla, El Salvador",
+    "company": "Union Portuaria Del Pacifico",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-29T19:42:13Z"
+  },
+  {
+    "login": "Valeria-UPDP",
+    "name": "Valeria Hernandez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/297976686?s=72&u=ee08a8a2219789d46c480a4625eb2406949c67c6&v=4",
+    "location": "Puerto de Acajutla, El Salvador",
+    "company": "Unión Portuaria del Pacifico",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-29T16:29:28Z"
+  },
+  {
+    "login": "eramirez-boop",
+    "name": "Edwinsito Ramirez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298055764?s=72&u=fa1dc82aca00b775162e714f2f0c4bd36b444952&v=4",
+    "location": "El Salvador",
+    "company": "Copper Group ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2026-06-29T21:55:29Z"
   }
 ]

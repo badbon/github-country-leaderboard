@@ -21144,18 +21144,6 @@
     "createdAt": "2018-04-06T15:41:17Z"
   },
   {
-    "login": "code-bryan",
-    "name": "Bryan Astacio",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/38058829?s=72&u=5e95e7f498c974bfe99edbe763f691f510eceec7&v=4",
-    "location": "Dominican Republic",
-    "company": "",
-    "twitterUsername": "bryan_astacio",
-    "followers": 19,
-    "privateContributions": 3782,
-    "publicContributions": 186,
-    "createdAt": "2018-04-04T02:13:38Z"
-  },
-  {
     "login": "ThElement12",
     "name": "Joseph De Los Santos",
     "avatarUrl": "https://avatars.githubusercontent.com/u/45013990?s=72&u=5b7abea199c3b7c22fdbd0de4730bab9048ac2e9&v=4",
@@ -21163,7 +21151,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 19,
-    "privateContributions": 198,
+    "privateContributions": 244,
     "publicContributions": 2,
     "createdAt": "2018-11-13T18:37:43Z"
   },
@@ -21175,7 +21163,7 @@
     "company": "다날",
     "twitterUsername": "",
     "followers": 19,
-    "privateContributions": 29,
+    "privateContributions": 1,
     "publicContributions": 0,
     "createdAt": "2018-09-08T04:59:24Z"
   },
@@ -21188,7 +21176,7 @@
     "twitterUsername": "",
     "followers": 18,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 1,
     "createdAt": "2018-09-23T08:01:20Z"
   },
   {
@@ -21198,8 +21186,8 @@
     "location": "Dominican Republic",
     "company": "",
     "twitterUsername": "",
-    "followers": 17,
-    "privateContributions": 112,
+    "followers": 15,
+    "privateContributions": 117,
     "publicContributions": 0,
     "createdAt": "2018-06-11T18:22:39Z"
   },
@@ -21210,9 +21198,9 @@
     "location": "Santo Domingo, Dominican Republic",
     "company": "",
     "twitterUsername": "",
-    "followers": 17,
+    "followers": 19,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 8,
     "createdAt": "2018-05-15T23:07:13Z"
   },
   {
@@ -21222,7 +21210,7 @@
     "location": "Santo Domingo, Dominican Republic",
     "company": "",
     "twitterUsername": "",
-    "followers": 17,
+    "followers": 19,
     "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2018-06-14T12:46:58Z"
@@ -21236,7 +21224,7 @@
     "twitterUsername": "WinserEspinal",
     "followers": 16,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2018-04-15T12:27:58Z"
   },
   {
@@ -21246,7 +21234,7 @@
     "location": "Dominican Republic",
     "company": "",
     "twitterUsername": "",
-    "followers": 16,
+    "followers": 15,
     "privateContributions": 4,
     "publicContributions": 7,
     "createdAt": "2018-06-18T01:22:56Z"
@@ -21258,9 +21246,9 @@
     "location": "Dominican Republic",
     "company": "BitBox Caribe SRL",
     "twitterUsername": "",
-    "followers": 16,
-    "privateContributions": 784,
-    "publicContributions": 57,
+    "followers": 17,
+    "privateContributions": 1266,
+    "publicContributions": 21,
     "createdAt": "2018-08-17T15:30:17Z"
   },
   {
@@ -21271,8 +21259,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 15,
-    "privateContributions": 710,
-    "publicContributions": 0,
+    "privateContributions": 809,
+    "publicContributions": 10,
     "createdAt": "2018-03-14T04:48:58Z"
   },
   {
@@ -21306,9 +21294,9 @@
     "location": "Dominican Republic",
     "company": "",
     "twitterUsername": "",
-    "followers": 14,
-    "privateContributions": 456,
-    "publicContributions": 0,
+    "followers": 16,
+    "privateContributions": 750,
+    "publicContributions": 19,
     "createdAt": "2018-09-25T02:06:18Z"
   },
   {
@@ -21318,9 +21306,9 @@
     "location": "Dominican Republic",
     "company": "Remote",
     "twitterUsername": "",
-    "followers": 13,
-    "privateContributions": 283,
-    "publicContributions": 13,
+    "followers": 12,
+    "privateContributions": 195,
+    "publicContributions": 20,
     "createdAt": "2018-05-27T19:55:35Z"
   },
   {
@@ -21330,9 +21318,9 @@
     "location": "Dominican Republic",
     "company": "",
     "twitterUsername": "",
-    "followers": 13,
+    "followers": 15,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 124,
     "createdAt": "2018-01-26T11:07:55Z"
   },
   {
@@ -21354,8 +21342,8 @@
     "location": "Dominican Republic",
     "company": "Mctekk",
     "twitterUsername": "jerly_rosa",
-    "followers": 13,
-    "privateContributions": 1778,
+    "followers": 12,
+    "privateContributions": 1322,
     "publicContributions": 1,
     "createdAt": "2018-09-13T00:32:19Z"
   },
@@ -21379,7 +21367,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 520,
+    "privateContributions": 527,
     "publicContributions": 0,
     "createdAt": "2018-05-17T21:22:05Z"
   },
@@ -39682,5 +39670,17 @@
     "privateContributions": 0,
     "publicContributions": 25,
     "createdAt": "2026-06-03T02:50:14Z"
+  },
+  {
+    "login": "lorenzoecastillodev",
+    "name": "Lorenzo Castillo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298809039?s=72&u=27dcb189bd5c8e532682514516e75e316c8f3eeb&v=4",
+    "location": "Santo Domingo, Dominican Republic",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 27,
+    "publicContributions": 46,
+    "createdAt": "2026-07-01T17:16:02Z"
   }
 ]

@@ -20863,8 +20863,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 9,
-    "publicContributions": 28,
+    "privateContributions": 7,
+    "publicContributions": 6,
     "createdAt": "2022-10-21T17:41:09Z"
   },
   {
@@ -20876,7 +20876,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 1,
     "createdAt": "2022-11-21T09:28:18Z"
   },
   {
@@ -20899,7 +20899,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 247,
+    "privateContributions": 190,
     "publicContributions": 59,
     "createdAt": "2022-03-02T21:36:12Z"
   },
@@ -20911,7 +20911,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 241,
+    "privateContributions": 446,
     "publicContributions": 0,
     "createdAt": "2022-11-06T14:05:09Z"
   },
@@ -20923,8 +20923,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 460,
-    "publicContributions": 454,
+    "privateContributions": 845,
+    "publicContributions": 456,
     "createdAt": "2022-09-13T17:59:27Z"
   },
   {
@@ -20935,8 +20935,8 @@
     "company": "Carebot s.r.o.",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 47,
+    "privateContributions": 10,
+    "publicContributions": 60,
     "createdAt": "2022-01-19T21:23:35Z"
   },
   {
@@ -20947,7 +20947,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 1,
+    "privateContributions": 4,
     "publicContributions": 30,
     "createdAt": "2022-02-10T11:39:54Z"
   },
@@ -20958,9 +20958,9 @@
     "location": "Prague, Czech Republic",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 4,
     "privateContributions": 59,
-    "publicContributions": 10,
+    "publicContributions": 18,
     "createdAt": "2022-06-07T13:38:43Z"
   },
   {
@@ -20984,7 +20984,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 11,
     "createdAt": "2022-03-18T13:54:58Z"
   },
   {
@@ -20995,7 +20995,7 @@
     "company": "Appio Digital s.r.o.",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 39,
+    "privateContributions": 67,
     "publicContributions": 0,
     "createdAt": "2022-03-10T12:13:41Z"
   },
@@ -21012,27 +21012,15 @@
     "createdAt": "2022-03-18T17:09:05Z"
   },
   {
-    "login": "cyberkitty418",
-    "name": "Estеr Cаrnassier",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/97264332?s=72&u=3b2bb9a18aadc25a973921e287f418819c856ebb&v=4",
-    "location": "Prague, Czech Republic",
-    "company": "Czech Technical University in Prague",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 165,
-    "publicContributions": 5,
-    "createdAt": "2022-01-07T00:32:18Z"
-  },
-  {
     "login": "kolarskydominik",
     "name": "Dominik Kolarský",
     "avatarUrl": "https://avatars.githubusercontent.com/u/104055643?s=72&u=0f7f0dc460592df4a07d6c9e65120d18ea872c3c&v=4",
     "location": "Ostrava, Czech Republic",
-    "company": "",
+    "company": "tickdoo",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 6460,
-    "publicContributions": 56,
+    "followers": 5,
+    "privateContributions": 10161,
+    "publicContributions": 44,
     "createdAt": "2022-04-20T06:13:10Z"
   },
   {
@@ -21050,19 +21038,19 @@
   {
     "login": "Rob24Dev",
     "name": "Rob",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/115020271?s=72&u=b1ed539f6308a32f95bf672134055cc6f2fb571e&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/115020271?s=72&u=28873e12b1ad08cfc4649533101a402d41330f08&v=4",
     "location": "Czech Republic",
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 7,
-    "publicContributions": 37,
+    "privateContributions": 6,
+    "publicContributions": 15,
     "createdAt": "2022-10-04T14:20:31Z"
   },
   {
     "login": "FiLlInnnn",
     "name": "Filip Voříšek",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/114480870?s=72&u=b7c23845f572bc7af08ab391e073842f15b0a1b9&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/114480870?s=72&v=4",
     "location": "Czech Republic",
     "company": "",
     "twitterUsername": "",
@@ -21076,10 +21064,10 @@
     "name": "Hlib",
     "avatarUrl": "https://avatars.githubusercontent.com/u/105455865?s=72&u=7df7ccec136c180285d76eb250e6c5a8a6fd00d4&v=4",
     "location": "Prague, Czech Republic",
-    "company": "UniLink",
+    "company": "Avenqrix",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 274,
+    "privateContributions": 271,
     "publicContributions": 0,
     "createdAt": "2022-05-12T18:50:45Z"
   },

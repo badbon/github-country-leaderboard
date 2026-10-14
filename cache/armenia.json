@@ -21104,7 +21104,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 8,
     "createdAt": "2019-05-24T07:51:18Z"
   },
   {
@@ -21115,7 +21115,7 @@
     "company": "Buildern",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 0,
+    "privateContributions": 3,
     "publicContributions": 0,
     "createdAt": "2019-04-21T10:24:33Z"
   },
@@ -21152,7 +21152,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 42,
     "createdAt": "2019-05-30T08:35:21Z"
   },
   {
@@ -21187,7 +21187,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 17,
+    "privateContributions": 27,
     "publicContributions": 0,
     "createdAt": "2019-12-21T14:17:41Z"
   },
@@ -21210,9 +21210,9 @@
     "location": "Yerevan, Armenia",
     "company": "SoloLearn",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2019-09-06T16:06:30Z"
   },
   {
@@ -21248,7 +21248,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 153,
     "createdAt": "2019-11-29T12:32:56Z"
   },
   {
@@ -21283,7 +21283,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 52,
+    "privateContributions": 121,
     "publicContributions": 1,
     "createdAt": "2019-12-05T12:16:01Z"
   },
@@ -21302,13 +21302,13 @@
   {
     "login": "ashotkhanaslanyan",
     "name": "Ashot Khan-Aslanyan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/49996308?s=72&u=81555837457b56de8dbf5f2b20acbbef7aea6720&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/49996308?s=72&u=bd440bcd54f1b0f583e54533163d66734d901234&v=4",
     "location": "Armenia",
-    "company": "TeamViewer",
+    "company": "",
     "twitterUsername": "AshotKhan",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 6,
     "createdAt": "2019-04-25T19:02:23Z"
   },
   {
@@ -21331,7 +21331,7 @@
     "company": "Cryptixion DEV, LLC",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 450,
+    "privateContributions": 365,
     "publicContributions": 1,
     "createdAt": "2019-04-09T14:27:35Z"
   },

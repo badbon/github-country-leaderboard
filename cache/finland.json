@@ -20766,9 +20766,9 @@
     "location": "Finland",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 493,
-    "publicContributions": 67,
+    "followers": 13,
+    "privateContributions": 545,
+    "publicContributions": 41,
     "createdAt": "2022-08-23T08:16:38Z"
   },
   {
@@ -20780,7 +20780,7 @@
     "twitterUsername": "",
     "followers": 12,
     "privateContributions": 70,
-    "publicContributions": 68,
+    "publicContributions": 69,
     "createdAt": "2022-10-13T21:06:08Z"
   },
   {
@@ -20803,8 +20803,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 336,
-    "publicContributions": 9,
+    "privateContributions": 310,
+    "publicContributions": 4,
     "createdAt": "2022-01-24T10:20:13Z"
   },
   {
@@ -20815,8 +20815,8 @@
     "company": "@futurice",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 186,
-    "publicContributions": 86,
+    "privateContributions": 235,
+    "publicContributions": 32,
     "createdAt": "2022-01-14T07:42:15Z"
   },
   {
@@ -20827,7 +20827,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 56,
+    "privateContributions": 40,
     "publicContributions": 0,
     "createdAt": "2022-05-05T16:05:02Z"
   },
@@ -20838,9 +20838,9 @@
     "location": "Finland",
     "company": "Solita",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 41,
+    "publicContributions": 44,
     "createdAt": "2022-02-11T09:54:29Z"
   },
   {
@@ -20852,7 +20852,7 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 52,
+    "publicContributions": 20,
     "createdAt": "2022-02-16T12:04:13Z"
   },
   {
@@ -20874,22 +20874,10 @@
     "location": "Finland",
     "company": "Bitwards",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 9,
     "createdAt": "2022-07-13T09:56:49Z"
-  },
-  {
-    "login": "SAJIB3489",
-    "name": "Md Sajib Pramanic",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/118989261?s=72&u=5c088f5be2ace86856c483b62ca8021e9f73a99e&v=4",
-    "location": "Finland",
-    "company": "University of Eastern Finland",
-    "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 400,
-    "publicContributions": 317,
-    "createdAt": "2022-11-24T14:04:11Z"
   },
   {
     "login": "EetuPeltolaCodes",
@@ -20934,22 +20922,10 @@
     "location": "Finland",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 8,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-02-22T12:37:09Z"
-  },
-  {
-    "login": "ethan0924",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/97822258?s=72&u=a461211e1c25f9dd11fada885715dc1d6f77d9d3&v=4",
-    "location": "Finland",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 0,
-    "publicContributions": 18,
-    "createdAt": "2022-01-16T06:23:29Z"
   },
   {
     "login": "Bansku-Dansku",
@@ -20960,7 +20936,7 @@
     "twitterUsername": "notBanskuDansku",
     "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 4,
     "createdAt": "2022-07-30T13:02:37Z"
   },
   {
@@ -20970,7 +20946,7 @@
     "location": "Kokkola, Finland",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 9,
     "privateContributions": 0,
     "publicContributions": 29,
     "createdAt": "2022-12-16T07:16:12Z"

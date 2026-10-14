@@ -20611,7 +20611,7 @@
     "company": "University of Basel",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
+    "privateContributions": 1,
     "publicContributions": 9,
     "createdAt": "2023-08-10T09:03:30Z"
   },
@@ -20623,8 +20623,8 @@
     "company": "PSI",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 113,
-    "publicContributions": 23,
+    "privateContributions": 99,
+    "publicContributions": 26,
     "createdAt": "2023-11-30T07:50:44Z"
   },
   {
@@ -20636,7 +20636,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 11,
     "createdAt": "2023-02-02T08:20:00Z"
   },
   {
@@ -20660,7 +20660,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 45,
+    "publicContributions": 38,
     "createdAt": "2023-03-26T23:05:08Z"
   },
   {
@@ -20732,7 +20732,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 130,
+    "publicContributions": 181,
     "createdAt": "2023-04-18T07:51:58Z"
   },
   {
@@ -20812,7 +20812,7 @@
     "name": "Ink0mpetenz",
     "avatarUrl": "https://avatars.githubusercontent.com/u/154637878?s=72&v=4",
     "location": "Switzerland",
-    "company": "CoreSystem",
+    "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
