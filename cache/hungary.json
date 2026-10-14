@@ -19027,7 +19027,7 @@
     "company": "F12",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 24,
+    "privateContributions": 33,
     "publicContributions": 0,
     "createdAt": "2022-11-05T08:10:03Z"
   },
@@ -19038,8 +19038,8 @@
     "location": "Budapest",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 142,
+    "followers": 2,
+    "privateContributions": 135,
     "publicContributions": 0,
     "createdAt": "2022-09-19T10:29:56Z"
   },
@@ -19051,8 +19051,8 @@
     "company": "ServeusAI",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 8,
+    "privateContributions": 254,
+    "publicContributions": 9,
     "createdAt": "2022-03-25T11:28:52Z"
   },
   {
@@ -19063,20 +19063,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 50,
-    "publicContributions": 113,
+    "privateContributions": 103,
+    "publicContributions": 115,
     "createdAt": "2022-11-28T18:07:16Z"
   },
   {
     "login": "leuska",
-    "name": "Lea",
+    "name": "Lea ⋆˙⟡⊹",
     "avatarUrl": "https://avatars.githubusercontent.com/u/114596129?s=72&u=9fbb091a79347248958a3c97b0253d1af8f66247&v=4",
     "location": "Budapest (and sometimes San Diego)",
-    "company": "Math x CS @ UCSD ",
+    "company": "Math x CS @ University of California, San Diego",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 11,
+    "privateContributions": 14,
+    "publicContributions": 0,
     "createdAt": "2022-09-28T14:31:45Z"
   },
   {
@@ -19099,8 +19099,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 697,
-    "publicContributions": 438,
+    "privateContributions": 667,
+    "publicContributions": 498,
     "createdAt": "2022-05-19T18:45:37Z"
   },
   {
@@ -19110,7 +19110,7 @@
     "location": "Budapest",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-11-02T17:17:14Z"
@@ -19124,7 +19124,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 56,
+    "publicContributions": 27,
     "createdAt": "2022-11-03T11:07:42Z"
   },
   {
@@ -19146,7 +19146,7 @@
     "location": "Budapest",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-03-04T18:46:21Z"
@@ -19159,7 +19159,7 @@
     "company": "SEON Technologies Ltd.",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 288,
+    "privateContributions": 235,
     "publicContributions": 0,
     "createdAt": "2022-09-12T12:51:02Z"
   },
@@ -19208,7 +19208,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 69,
     "createdAt": "2022-01-15T21:00:43Z"
   },
   {
@@ -19220,7 +19220,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 9,
     "createdAt": "2022-09-07T14:03:53Z"
   },
   {
@@ -19243,21 +19243,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 225,
-    "publicContributions": 93,
+    "privateContributions": 212,
+    "publicContributions": 92,
     "createdAt": "2022-02-20T16:24:10Z"
-  },
-  {
-    "login": "akijoe",
-    "name": "Ákos",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/97960657?s=72&u=d37ed114a745eb9753d54fcffa06b39d41325308&v=4",
-    "location": "Budapest",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 3,
-    "createdAt": "2022-01-18T12:56:36Z"
   },
   {
     "login": "lipcseie",

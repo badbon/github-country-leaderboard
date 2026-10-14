@@ -19160,7 +19160,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 21,
     "createdAt": "2025-01-13T15:35:20Z"
   },
   {
@@ -19172,7 +19172,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 34,
     "createdAt": "2025-02-19T06:49:17Z"
   },
   {
@@ -19183,8 +19183,8 @@
     "company": "RexiCore AI",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 92,
-    "publicContributions": 13,
+    "privateContributions": 96,
+    "publicContributions": 18,
     "createdAt": "2024-12-28T04:37:49Z"
   },
   {
@@ -19196,7 +19196,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 161,
+    "publicContributions": 168,
     "createdAt": "2025-01-23T20:10:16Z"
   },
   {
@@ -19219,21 +19219,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 21426,
-    "publicContributions": 527,
+    "privateContributions": 21200,
+    "publicContributions": 1498,
     "createdAt": "2024-12-30T15:27:42Z"
-  },
-  {
-    "login": "rasel-ml",
-    "name": "Md. Rasel Molla",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/194578055?s=72&u=d630769a05ef4cfe7e74257f7b6963463b95ea76&v=4",
-    "location": "Bangladesh",
-    "company": "To To Company",
-    "twitterUsername": "qq_mrm",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 213,
-    "createdAt": "2025-01-11T06:57:58Z"
   },
   {
     "login": "Zakaria-info",
@@ -19244,7 +19232,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 55,
+    "publicContributions": 50,
     "createdAt": "2025-03-07T16:48:13Z"
   },
   {
@@ -19284,18 +19272,6 @@
     "createdAt": "2025-03-06T22:50:01Z"
   },
   {
-    "login": "sourovkumar1",
-    "name": "Sourov Kumar",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/201566040?s=72&u=6c25d2e792c09813d7995c532987b964a1e67214&v=4",
-    "location": "bangladesh",
-    "company": "",
-    "twitterUsername": "SourovKumar884",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2025-03-03T09:33:46Z"
-  },
-  {
     "login": "mdashikurrahman97",
     "name": "Md. Ashikur Rahman",
     "avatarUrl": "https://avatars.githubusercontent.com/u/202364801?s=72&u=65de7ad3745516b1aba62210a0187b8556ef586f&v=4",
@@ -19316,7 +19292,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2025-03-04T08:06:10Z"
   },
   {
@@ -19338,7 +19314,7 @@
     "location": "Dhaka, Bangladesh",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2025-02-07T19:58:38Z"

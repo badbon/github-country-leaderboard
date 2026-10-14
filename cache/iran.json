@@ -18974,13 +18974,13 @@
   {
     "login": "Erfouni",
     "name": "erfouni",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/232311059?s=72&u=63d3d56fbd734b6c450157c8d695cb4901da6158&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/232311059?s=72&u=0756f1209e8a5852e4602017ee5cdede7fcae47a&v=4",
     "location": "Tehran, Dubai",
     "company": "Ideep , mta",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 91,
+    "publicContributions": 308,
     "createdAt": "2025-09-15T06:52:49Z"
   },
   {
@@ -19004,7 +19004,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 48,
+    "publicContributions": 78,
     "createdAt": "2025-05-08T20:15:19Z"
   },
   {
@@ -19014,9 +19014,9 @@
     "location": "Tehran",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 46,
+    "publicContributions": 22,
     "createdAt": "2025-04-15T17:34:59Z"
   },
   {
@@ -19040,7 +19040,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 40,
+    "publicContributions": 28,
     "createdAt": "2025-08-03T13:38:19Z"
   },
   {
@@ -19050,7 +19050,7 @@
     "location": "Tehran",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2025-12-16T09:26:23Z"
@@ -19074,7 +19074,7 @@
     "location": "Tehran",
     "company": "University of Tehran",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 33,
     "createdAt": "2025-02-14T20:41:00Z"
@@ -19100,7 +19100,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-10-04T17:14:22Z"
   },
   {
@@ -19122,9 +19122,9 @@
     "location": "Tehran",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-09-30T05:14:48Z"
   },
   {
@@ -19136,31 +19136,31 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 53,
+    "publicContributions": 4,
     "createdAt": "2025-03-13T15:48:24Z"
   },
   {
     "login": "Skryldev",
-    "name": "Alireza",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/211819805?s=72&u=99c39b909582ef117104627bca4d4b61991d7eeb&v=4",
+    "name": "Alireza Askari",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/211819805?s=72&u=cf6892e4385b7c82370849d722e8c4b331d44000&v=4",
     "location": "Tehran",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 153,
+    "publicContributions": 182,
     "createdAt": "2025-05-15T11:35:14Z"
   },
   {
     "login": "icegild",
-    "name": "Aria",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/208872061?s=72&u=68ee59f80dda5723c12028e751c7acf738c4f693&v=4",
+    "name": "Aria F.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/208872061?s=72&u=810d4ddf9badb033b0879dace5a784c0c89791ed&v=4",
     "location": "Tehran",
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 18,
-    "publicContributions": 37,
+    "privateContributions": 164,
+    "publicContributions": 14,
     "createdAt": "2025-04-23T20:18:39Z"
   },
   {
@@ -19196,7 +19196,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 4,
     "createdAt": "2025-11-16T21:43:00Z"
   },
   {
@@ -322642,5 +322642,17 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-06-28T16:28:10Z"
+  },
+  {
+    "login": "hsheikh7",
+    "name": "Hassan Sheikh ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/49715207?s=72&u=622602801480a3f148f383271aa564e81e4ef090&v=4",
+    "location": "Isfahan, Iran",
+    "company": "Freelancer ",
+    "twitterUsername": "",
+    "followers": 22,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-04-17T09:37:37Z"
   }
 ]

@@ -19440,18 +19440,6 @@
     "createdAt": "2016-08-11T08:27:25Z"
   },
   {
-    "login": "theobi55",
-    "name": "Theophile Eyong",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/19528075?s=72&v=4",
-    "location": "Douala, Cameroon",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2016-05-23T08:14:48Z"
-  },
-  {
     "login": "Leslox40",
     "name": "Fonepi Leslie",
     "avatarUrl": "https://avatars.githubusercontent.com/u/19362862?s=72&u=80e1a0a05cd3fbc03433a370d1323700b7813344&v=4",
@@ -19459,7 +19447,7 @@
     "company": "Fullstack Web developer",
     "twitterUsername": "leslo40x",
     "followers": 2,
-    "privateContributions": 0,
+    "privateContributions": 8,
     "publicContributions": 0,
     "createdAt": "2016-05-14T15:24:48Z"
   },
@@ -19483,7 +19471,7 @@
     "company": "@ThinkTech(Nyuykonge Ltd)",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 318,
+    "privateContributions": 310,
     "publicContributions": 0,
     "createdAt": "2016-06-03T08:41:37Z"
   },
@@ -19531,7 +19519,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 158,
+    "privateContributions": 381,
     "publicContributions": 0,
     "createdAt": "2016-10-25T06:34:15Z"
   },
@@ -19580,7 +19568,7 @@
     "twitterUsername": "slipman48",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 6,
     "createdAt": "2016-11-10T15:39:34Z"
   },
   {
@@ -19603,8 +19591,8 @@
     "company": "@starfish-codes",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 86,
-    "publicContributions": 1,
+    "privateContributions": 81,
+    "publicContributions": 0,
     "createdAt": "2016-03-17T14:47:56Z"
   },
   {
@@ -19615,8 +19603,8 @@
     "company": "GAIA SARL U",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 6691,
-    "publicContributions": 14,
+    "privateContributions": 9901,
+    "publicContributions": 4,
     "createdAt": "2016-05-12T13:50:04Z"
   },
   {
@@ -19650,9 +19638,9 @@
     "location": "Molyko,Buea,SouthWest,Cameroon ",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 165,
-    "publicContributions": 367,
+    "followers": 2,
+    "privateContributions": 513,
+    "publicContributions": 359,
     "createdAt": "2016-03-30T20:06:37Z"
   },
   {
@@ -19674,9 +19662,9 @@
     "location": "Yaoundé Cameroun",
     "company": "IT DREAM TECH",
     "twitterUsername": "mbia_cyrille",
-    "followers": 39,
-    "privateContributions": 1385,
-    "publicContributions": 22,
+    "followers": 40,
+    "privateContributions": 1524,
+    "publicContributions": 55,
     "createdAt": "2016-04-17T09:34:12Z"
   },
   {

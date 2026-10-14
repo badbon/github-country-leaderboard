@@ -19088,7 +19088,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2024-08-22T16:14:25Z"
   },
   {
@@ -19099,21 +19099,9 @@
     "company": "@Exequtech",
     "twitterUsername": "fourie_jeremia",
     "followers": 2,
-    "privateContributions": 1495,
-    "publicContributions": 38,
+    "privateContributions": 1683,
+    "publicContributions": 22,
     "createdAt": "2024-10-29T17:28:29Z"
-  },
-  {
-    "login": "1stBaseFoundation",
-    "name": "1stBase",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/157568449?s=72&u=36ee618ecbed4e40fed850e09af160e654663975&v=4",
-    "location": "South Africa",
-    "company": "1stBase PTY (LTD)",
-    "twitterUsername": "1stBaseFounder",
-    "followers": 2,
-    "privateContributions": 3,
-    "publicContributions": 40,
-    "createdAt": "2024-01-24T06:11:20Z"
   },
   {
     "login": "st10443220",
@@ -19124,7 +19112,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 75,
+    "publicContributions": 73,
     "createdAt": "2024-03-15T12:23:32Z"
   },
   {
@@ -19134,7 +19122,7 @@
     "location": "South Africa",
     "company": "Non",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 7,
     "createdAt": "2024-08-02T10:36:10Z"
@@ -19171,8 +19159,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 42,
-    "publicContributions": 403,
+    "privateContributions": 80,
+    "publicContributions": 501,
     "createdAt": "2024-04-17T21:56:57Z"
   },
   {
@@ -19195,8 +19183,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1714,
-    "publicContributions": 7,
+    "privateContributions": 1635,
+    "publicContributions": 3,
     "createdAt": "2024-01-15T14:04:44Z"
   },
   {
@@ -19219,8 +19207,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 44,
-    "publicContributions": 6,
+    "privateContributions": 15,
+    "publicContributions": 21,
     "createdAt": "2024-02-25T04:21:02Z"
   },
   {
@@ -19232,7 +19220,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 10,
     "createdAt": "2024-11-10T07:16:17Z"
   },
   {
@@ -19244,7 +19232,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 165,
+    "publicContributions": 201,
     "createdAt": "2024-05-03T22:05:54Z"
   },
   {
@@ -19279,8 +19267,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 97,
-    "publicContributions": 30,
+    "privateContributions": 131,
+    "publicContributions": 16,
     "createdAt": "2024-03-19T11:48:21Z"
   },
   {

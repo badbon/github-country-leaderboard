@@ -19158,9 +19158,9 @@
     "location": "San Salvador Entre Ríos",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 51,
+    "publicContributions": 63,
     "createdAt": "2018-02-16T15:52:00Z"
   },
   {
@@ -19174,18 +19174,6 @@
     "privateContributions": 0,
     "publicContributions": 13,
     "createdAt": "2018-10-08T02:43:31Z"
-  },
-  {
-    "login": "mariobeltran99",
-    "name": "Mario Josué Beltrán",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/37723917?s=72&u=7a13210a93eb6d4a380ae80026e68c0be4eefd23&v=4",
-    "location": "San Salvador",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2018-03-24T02:46:13Z"
   },
   {
     "login": "cormontes",
@@ -19208,7 +19196,7 @@
     "twitterUsername": "fabrixq",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 18,
     "createdAt": "2018-09-29T20:25:24Z"
   },
   {
@@ -19218,9 +19206,9 @@
     "location": "El Salvador",
     "company": "@Coding-Bastards ",
     "twitterUsername": "d3portillo",
-    "followers": 201,
-    "privateContributions": 990,
-    "publicContributions": 688,
+    "followers": 205,
+    "privateContributions": 1176,
+    "publicContributions": 640,
     "createdAt": "2017-03-07T00:40:27Z"
   },
   {
@@ -19230,21 +19218,21 @@
     "location": "El Salvador",
     "company": "NotAwait",
     "twitterUsername": "dgerardoflores",
-    "followers": 124,
-    "privateContributions": 6304,
+    "followers": 125,
+    "privateContributions": 7270,
     "publicContributions": 0,
     "createdAt": "2017-07-29T13:26:54Z"
   },
   {
     "login": "cybergaala",
-    "name": "Mejía",
+    "name": "Edgar Mejía",
     "avatarUrl": "https://avatars.githubusercontent.com/u/33939239?s=72&u=a5759a6f71d2149f74cec12972c89aa5e881f080&v=4",
     "location": "El Salvador",
     "company": "",
     "twitterUsername": "",
-    "followers": 75,
-    "privateContributions": 209,
-    "publicContributions": 61,
+    "followers": 72,
+    "privateContributions": 319,
+    "publicContributions": 231,
     "createdAt": "2017-11-23T18:34:16Z"
   },
   {
@@ -19254,8 +19242,8 @@
     "location": "El Salvador",
     "company": "",
     "twitterUsername": "petrlr14",
-    "followers": 74,
-    "privateContributions": 83,
+    "followers": 75,
+    "privateContributions": 328,
     "publicContributions": 20,
     "createdAt": "2017-09-10T16:03:52Z"
   },
@@ -19266,7 +19254,7 @@
     "location": "El Salvador",
     "company": "",
     "twitterUsername": "",
-    "followers": 42,
+    "followers": 43,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-06-03T06:19:45Z"
@@ -19290,9 +19278,9 @@
     "location": "El Salvador",
     "company": "Fullstack Labs",
     "twitterUsername": "",
-    "followers": 35,
-    "privateContributions": 701,
-    "publicContributions": 11,
+    "followers": 34,
+    "privateContributions": 813,
+    "publicContributions": 12,
     "createdAt": "2017-12-20T18:34:24Z"
   },
   {
@@ -19303,8 +19291,8 @@
     "company": "Freelancer",
     "twitterUsername": "MarvinQ96",
     "followers": 31,
-    "privateContributions": 2575,
-    "publicContributions": 321,
+    "privateContributions": 7119,
+    "publicContributions": 477,
     "createdAt": "2017-05-13T18:45:37Z"
   },
   {
@@ -19314,8 +19302,8 @@
     "location": "Cuscatlán, El Salvador",
     "company": "@ravnhq ",
     "twitterUsername": "",
-    "followers": 31,
-    "privateContributions": 1878,
+    "followers": 32,
+    "privateContributions": 2194,
     "publicContributions": 18,
     "createdAt": "2017-02-18T01:17:39Z"
   },
@@ -19324,11 +19312,11 @@
     "name": "Abdiel Martinez",
     "avatarUrl": "https://avatars.githubusercontent.com/u/30948683?s=72&u=b6923df27b4003e404505ad3be0b8bf0bc35c970&v=4",
     "location": "El Salvador",
-    "company": "",
+    "company": "@designli",
     "twitterUsername": "",
     "followers": 31,
-    "privateContributions": 44,
-    "publicContributions": 76,
+    "privateContributions": 57,
+    "publicContributions": 195,
     "createdAt": "2017-08-12T07:15:19Z"
   },
   {
@@ -19338,9 +19326,9 @@
     "location": "El Salvador ",
     "company": "",
     "twitterUsername": "",
-    "followers": 28,
-    "privateContributions": 2988,
-    "publicContributions": 23,
+    "followers": 27,
+    "privateContributions": 3698,
+    "publicContributions": 36,
     "createdAt": "2017-05-01T00:42:13Z"
   },
   {
@@ -19351,8 +19339,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 28,
-    "privateContributions": 891,
-    "publicContributions": 91,
+    "privateContributions": 1206,
+    "publicContributions": 71,
     "createdAt": "2017-04-08T23:39:34Z"
   },
   {
@@ -19364,7 +19352,7 @@
     "twitterUsername": "castillorobin",
     "followers": 27,
     "privateContributions": 0,
-    "publicContributions": 885,
+    "publicContributions": 721,
     "createdAt": "2017-07-19T16:10:04Z"
   },
   {
@@ -19375,8 +19363,8 @@
     "company": "",
     "twitterUsername": "Ciensprog",
     "followers": 26,
-    "privateContributions": 140,
-    "publicContributions": 88,
+    "privateContributions": 129,
+    "publicContributions": 92,
     "createdAt": "2017-03-25T18:36:35Z"
   },
   {
@@ -19386,7 +19374,7 @@
     "location": "El Salvador",
     "company": "",
     "twitterUsername": "",
-    "followers": 25,
+    "followers": 26,
     "privateContributions": 0,
     "publicContributions": 31,
     "createdAt": "2017-07-13T00:28:42Z"

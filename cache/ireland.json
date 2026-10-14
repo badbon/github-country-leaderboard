@@ -19182,8 +19182,8 @@
     "location": "@Ireland",
     "company": "Student",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 6,
+    "followers": 2,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-10-04T09:30:51Z"
   },
@@ -19244,18 +19244,18 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 11,
-    "publicContributions": 270,
+    "publicContributions": 19,
     "createdAt": "2023-03-15T17:49:47Z"
   },
   {
     "login": "thaysams",
-    "name": "Thaysa Silva",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/124533149?s=72&u=317e6ddad1596cc0797ff8998c8e5b0c32f86ab8&v=4",
+    "name": "Thaysa Mendes",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/124533149?s=72&u=5359829266e301bd3fb380bc7127162106b71655&v=4",
     "location": "Ireland",
-    "company": "ClearSale",
+    "company": "Aiera",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 197,
+    "privateContributions": 409,
     "publicContributions": 24,
     "createdAt": "2023-02-05T21:39:35Z"
   },
@@ -19268,7 +19268,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 12,
-    "publicContributions": 69,
+    "publicContributions": 58,
     "createdAt": "2023-05-05T13:41:27Z"
   },
   {
@@ -19280,7 +19280,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2023-01-18T09:12:21Z"
   },
   {
@@ -19316,7 +19316,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 22,
     "createdAt": "2023-02-05T16:09:05Z"
   },
   {
@@ -19364,7 +19364,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 369,
+    "publicContributions": 249,
     "createdAt": "2023-03-13T16:24:51Z"
   },
   {
@@ -19374,7 +19374,7 @@
     "location": "Ireland",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 215,
     "createdAt": "2023-09-01T15:16:25Z"
