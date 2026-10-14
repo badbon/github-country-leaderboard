@@ -1,8 +1,8 @@
 # Total Contributions - Bangladesh
 
-Generated: 2026-10-14T18:14:38.843Z
+Generated: 2026-10-14T19:49:27.212Z
 
-Users: 55321
+Users: 55319
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -11,10 +11,10 @@ Users: 55321
 | 3 | [Tanvir0999](https://github.com/Tanvir0999) | Tanvir Rayhan |  |  | Dhaka, Bangladesh. | 103243 |
 | 4 | [Shipu](https://github.com/Shipu) | Shipu Ahamed | 10 Minute School | shipu_ahamed | Dhaka,Bangladesh | 84781 |
 | 5 | [iamechobyte](https://github.com/iamechobyte) | Safiqul Islam Tarun |  |  | Dhaka , Bangladesh | 55275 |
-| 6 | [MD-Mushfiqur123](https://github.com/MD-Mushfiqur123) | Md Mushfiqur Rahim | Droplychee | MDMushfiqur123 | Bangladesh | 52440 |
-| 7 | [mah-shamim](https://github.com/mah-shamim) | MD ARIFUL HAQUE | HAQUE IT SOLUTION |  | DHAKA, BANGLADESH | 41235 |
-| 8 | [ahammadmejbah](https://github.com/ahammadmejbah) | Mejbah Ahammad | American International University - Bangladesh (AIUB) | ahammadmejbah | Dhaka, Bangladesh | 39262 |
-| 9 | [mdrifat05](https://github.com/mdrifat05) | Md. Rifat Hossen | HawarIT Limited | mdrifat_05 | Dhaka, Bangladesh | 30077 |
+| 6 | [mah-shamim](https://github.com/mah-shamim) | MD ARIFUL HAQUE | HAQUE IT SOLUTION |  | DHAKA, BANGLADESH | 41235 |
+| 7 | [ahammadmejbah](https://github.com/ahammadmejbah) | Mejbah Ahammad | American International University - Bangladesh (AIUB) | ahammadmejbah | Dhaka, Bangladesh | 39262 |
+| 8 | [mdrifat05](https://github.com/mdrifat05) | Md. Rifat Hossen | HawarIT Limited | mdrifat_05 | Dhaka, Bangladesh | 30077 |
+| 9 | [MD-Mushfiqur123](https://github.com/MD-Mushfiqur123) | Md Mushfiqur Rahim | @Craftly-Robot  | MDMushfiqur123 | Bangladesh | 29595 |
 | 10 | [mralaminahamed](https://github.com/mralaminahamed) | Al Amin Ahamed | Team Lead of Product at @codexpertio |  | Dhaka, Bangladesh | 29063 |
 | 11 | [MusfiqDehan](https://github.com/MusfiqDehan) | Md. Musfiqur Rahaman | TechForing Ltd. | musfiqdehan | Baridhara DOHS, Dhaka, Bangladesh | 26666 |
 | 12 | [myselfhridoy](https://github.com/myselfhridoy) | Hridoy Matber | Home |  | Dhaka, Bangladesh | 24965 |

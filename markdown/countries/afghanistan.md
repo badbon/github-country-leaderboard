@@ -14,7 +14,7 @@ Indexed users: 1,487
 |---:|---|---|---|---:|
 | 1 | [Fazlullahmamond](https://github.com/Fazlullahmamond) | Fazlullah Mamond | Kabul, Afghanistan | 215,000 |
 | 2 | [zevrok](https://github.com/zevrok) | Zevrok | Kabul, Afghanistan | 95,801 |
-| 3 | [devpro0313](https://github.com/devpro0313) | Dev pro | Afghanistan | 88,717 |
+| 3 | [devpro0313](https://github.com/devpro0313) | Dev pro | Afghanistan | 82,717 |
 | 4 | [ahmadullahmukhlis](https://github.com/ahmadullahmukhlis) | Ahmadullah Mukhlis | Kabul, Afghanistan | 66,706 |
 | 5 | [haroonrashidzadran](https://github.com/haroonrashidzadran) | Haroon Rashid Zadran | Kabul, Afghanistan | 30,770 |
 | 6 | [amiriqbalkhan123](https://github.com/amiriqbalkhan123) | Iqbal Nabizada | Afghanistan | 16,893 |
@@ -83,4 +83,4 @@ Indexed users: 1,487
 | 19 | [zainabturkmen](https://github.com/zainabturkmen) | Zainab Turkmen | Kabul  | 125 |
 | 20 | [NaveedAhmadHematmal](https://github.com/NaveedAhmadHematmal) | Naveed Ahmad Hematmal | Afghanistan | 117 |
 
-Generated: 2026-10-14T18:07:34.540Z
+Generated: 2026-10-14T19:42:28.230Z

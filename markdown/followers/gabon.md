@@ -1,6 +1,6 @@
 # Followers - Gabon
 
-Generated: 2026-10-14T18:34:56.009Z
+Generated: 2026-10-14T20:10:38.931Z
 
 Users: 315
 
@@ -10,7 +10,7 @@ Users: 315
 | 2 | [davcode92](https://github.com/davcode92) | Davy Methe Nzeng |  |  | Gabon | 108 |
 | 3 | [mawuva](https://github.com/mawuva) | Ephraïm SEDDOR |  | ephraimseddor | Libreville, Lomé | 85 |
 | 4 | [mendoc](https://github.com/mendoc) | Dimitri ONGOUA | ANINF | DimitriOngoua | Libreville, Gabon | 65 |
-| 5 | [bonachylauriel](https://github.com/bonachylauriel) | Leyoussi Bonachi Lauriel | @loona-inc  | BonachyLauriel | Gabon | 63 |
+| 5 | [bonachylauriel](https://github.com/bonachylauriel) | Leyoussi Bonachi Lauriel | @loona-inc  | BonachyLauriel | Gabon | 62 |
 | 6 | [Djomab](https://github.com/Djomab) | Djogona Mahamat |  | DjogonaR | Gabon | 49 |
 | 7 | [audreymengue](https://github.com/audreymengue) | Audrey Mengue |  | la_mengs | Libreville, Gabon | 47 |
 | 8 | [stone-hackingod](https://github.com/stone-hackingod) | Bayani Stone |  |  | Libreville, Gabon | 41 |

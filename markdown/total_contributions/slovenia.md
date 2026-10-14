@@ -1,6 +1,6 @@
 # Total Contributions - Slovenia
 
-Generated: 2026-10-14T17:52:30.084Z
+Generated: 2026-10-14T19:27:44.006Z
 
 Users: 3101
 
@@ -17,12 +17,12 @@ Users: 3101
 | 9 | [fentas](https://github.com/fentas) | Jan Guth | @lanisce | lanisce_si | Slovenia | 10622 |
 | 10 | [matija2209](https://github.com/matija2209) | Matija Žiberna | We Hate Copy Pasting |  | Slovenia | 10295 |
 | 11 | [tfourj](https://github.com/tfourj) | Taj Tkalec |  |  | Slovenia | 9996 |
-| 12 | [pako999](https://github.com/pako999) | Patrik |  | patrikslovenia | Slovenia  | 8682 |
-| 13 | [vucinatim](https://github.com/vucinatim) | Tim Vučina | zerodays.dev |  | Ljubljana, Slovenia | 8637 |
-| 14 | [zprima](https://github.com/zprima) | Primož Žnidar | @poviolabs  |  | Slovenia | 8431 |
-| 15 | [mitjapotocin](https://github.com/mitjapotocin) | Mitja Potočin | Mediately |  | Ljubljana | 8383 |
-| 16 | [AKzar1el](https://github.com/AKzar1el) | Tommy | Solo | AKzar1el | Ljubljana, Slovenia | 7042 |
-| 17 | [omeratagunn](https://github.com/omeratagunn) | Ömer Atagün | SAP | OmerAtagun | Slovenia | 6861 |
-| 18 | [jurej1](https://github.com/jurej1) | Jure Jures |  |  | Slovenia | 6645 |
-| 19 | [some1else](https://github.com/some1else) | Srđan Prodanović |  |  | Slovenia | 6574 |
-| 20 | [tfius](https://github.com/tfius) | Tadej Fius | MediaAtlas |  | Slovenia | 6568 |
+| 12 | [baadc0de](https://github.com/baadc0de) | Bojan Šernek | @distopik | reactocode | Ljubljana, Slovenia | 8700 |
+| 13 | [pako999](https://github.com/pako999) | Patrik |  | patrikslovenia | Slovenia  | 8682 |
+| 14 | [vucinatim](https://github.com/vucinatim) | Tim Vučina | zerodays.dev |  | Ljubljana, Slovenia | 8637 |
+| 15 | [zprima](https://github.com/zprima) | Primož Žnidar | @poviolabs  |  | Slovenia | 8431 |
+| 16 | [mitjapotocin](https://github.com/mitjapotocin) | Mitja Potočin | Mediately |  | Ljubljana | 8383 |
+| 17 | [AKzar1el](https://github.com/AKzar1el) | Tommy | Solo | AKzar1el | Ljubljana, Slovenia | 7042 |
+| 18 | [omeratagunn](https://github.com/omeratagunn) | Ömer Atagün | SAP | OmerAtagun | Slovenia | 6861 |
+| 19 | [jurej1](https://github.com/jurej1) | Jure Jures |  |  | Slovenia | 6645 |
+| 20 | [some1else](https://github.com/some1else) | Srđan Prodanović |  |  | Slovenia | 6574 |

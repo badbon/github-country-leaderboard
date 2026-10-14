@@ -1,6 +1,6 @@
 # Bangladesh
 
-Indexed users: 55,321
+Indexed users: 55,319
 
 | Leaderboard | Link |
 |---|---|
@@ -17,10 +17,10 @@ Indexed users: 55,321
 | 3 | [Tanvir0999](https://github.com/Tanvir0999) | Tanvir Rayhan | Dhaka, Bangladesh. | 103,243 |
 | 4 | [Shipu](https://github.com/Shipu) | Shipu Ahamed | Dhaka,Bangladesh | 84,781 |
 | 5 | [iamechobyte](https://github.com/iamechobyte) | Safiqul Islam Tarun | Dhaka , Bangladesh | 55,275 |
-| 6 | [MD-Mushfiqur123](https://github.com/MD-Mushfiqur123) | Md Mushfiqur Rahim | Bangladesh | 52,440 |
-| 7 | [mah-shamim](https://github.com/mah-shamim) | MD ARIFUL HAQUE | DHAKA, BANGLADESH | 41,235 |
-| 8 | [ahammadmejbah](https://github.com/ahammadmejbah) | Mejbah Ahammad | Dhaka, Bangladesh | 39,262 |
-| 9 | [mdrifat05](https://github.com/mdrifat05) | Md. Rifat Hossen | Dhaka, Bangladesh | 30,077 |
+| 6 | [mah-shamim](https://github.com/mah-shamim) | MD ARIFUL HAQUE | DHAKA, BANGLADESH | 41,235 |
+| 7 | [ahammadmejbah](https://github.com/ahammadmejbah) | Mejbah Ahammad | Dhaka, Bangladesh | 39,262 |
+| 8 | [mdrifat05](https://github.com/mdrifat05) | Md. Rifat Hossen | Dhaka, Bangladesh | 30,077 |
+| 9 | [MD-Mushfiqur123](https://github.com/MD-Mushfiqur123) | Md Mushfiqur Rahim | Bangladesh | 29,595 |
 | 10 | [mralaminahamed](https://github.com/mralaminahamed) | Al Amin Ahamed | Dhaka, Bangladesh | 29,063 |
 | 11 | [MusfiqDehan](https://github.com/MusfiqDehan) | Md. Musfiqur Rahaman | Baridhara DOHS, Dhaka, Bangladesh | 26,666 |
 | 12 | [myselfhridoy](https://github.com/myselfhridoy) | Hridoy Matber | Dhaka, Bangladesh | 24,965 |
@@ -37,9 +37,9 @@ Indexed users: 55,321
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [MD-Mushfiqur123](https://github.com/MD-Mushfiqur123) | Md Mushfiqur Rahim | Bangladesh | 44,164 |
-| 2 | [mah-shamim](https://github.com/mah-shamim) | MD ARIFUL HAQUE | DHAKA, BANGLADESH | 40,728 |
-| 3 | [ahammadmejbah](https://github.com/ahammadmejbah) | Mejbah Ahammad | Dhaka, Bangladesh | 26,588 |
+| 1 | [mah-shamim](https://github.com/mah-shamim) | MD ARIFUL HAQUE | DHAKA, BANGLADESH | 40,728 |
+| 2 | [ahammadmejbah](https://github.com/ahammadmejbah) | Mejbah Ahammad | Dhaka, Bangladesh | 26,588 |
+| 3 | [MD-Mushfiqur123](https://github.com/MD-Mushfiqur123) | Md Mushfiqur Rahim | Bangladesh | 24,489 |
 | 4 | [myselfhridoy](https://github.com/myselfhridoy) | Hridoy Matber | Dhaka, Bangladesh | 12,049 |
 | 5 | [w3wave](https://github.com/w3wave) | W3 Wave | Dhaka | 10,755 |
 | 6 | [Azimul-Haque](https://github.com/Azimul-Haque) | A. H. M. Azimul Haque | Dhaka, Bangladesh | 10,539 |
@@ -83,4 +83,4 @@ Indexed users: 55,321
 | 19 | [hasancse91](https://github.com/hasancse91) | Abdullah Al Hasan | Dhaka, Bangladesh | 1,916 |
 | 20 | [raufurislam](https://github.com/raufurislam) | Raufur Islam | Jamalpur Sadar Upazila, Bangladesh | 1,822 |
 
-Generated: 2026-10-14T18:14:38.843Z
+Generated: 2026-10-14T19:49:27.212Z

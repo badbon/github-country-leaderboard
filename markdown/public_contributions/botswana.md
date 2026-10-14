@@ -1,6 +1,6 @@
 # Public Contributions - Botswana
 
-Generated: 2026-10-14T18:17:00.033Z
+Generated: 2026-10-14T19:52:42.968Z
 
 Users: 533
 
@@ -16,8 +16,8 @@ Users: 533
 | 8 | [tmosimanyana](https://github.com/tmosimanyana) | Tinny Mosimanyana |  |  | Gaborone, Botswana | 838 |
 | 9 | [Mopati123](https://github.com/Mopati123) | Mopati Ramaologa |  |  | Gaborone, Botswana | 735 |
 | 10 | [Scheke](https://github.com/Scheke) | Boipuso Rante | Scheke Innovationhub |  | Botswana | 592 |
-| 11 | [Sesame-alpha](https://github.com/Sesame-alpha) | SESAME DITHUPA |  |  | Botswana 🇧🇼  | 543 |
-| 12 | [loag0](https://github.com/loag0) | Loago Moremi |  |  | Botswana | 523 |
+| 11 | [loag0](https://github.com/loag0) | Loago Moremi |  |  | Botswana | 562 |
+| 12 | [Sesame-alpha](https://github.com/Sesame-alpha) | SESAME DITHUPA |  |  | Botswana 🇧🇼  | 543 |
 | 13 | [Cse21-034](https://github.com/Cse21-034) | leatile mosimanyana | Fountspark pty ltd |  | Gaborone | 522 |
 | 14 | [bChandrax](https://github.com/bChandrax) | Karabo Machanja | Botswana International University of Science and Technology |  | Botswana | 442 |
 | 15 | [justindotdevv](https://github.com/justindotdevv) | justin | University of Botswana | justindotdev | Gaborone, Botswana | 430 |

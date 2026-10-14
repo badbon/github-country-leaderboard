@@ -1,6 +1,6 @@
 # Followers - Benin
 
-Generated: 2026-10-14T18:15:23.851Z
+Generated: 2026-10-14T19:51:44.921Z
 
 Users: 471
 
@@ -25,4 +25,4 @@ Users: 471
 | 17 | [Augustino127](https://github.com/Augustino127) | Augustino Comlangan | Vallis Technologies | AComlangan70558 | Benin, Cotonou | 79 |
 | 18 | [salimane](https://github.com/salimane) | Salimane Adjao Moustapha | Meltwater |  | Africa, Benin, Rwanda, Ghana, Kenya, China, Germany | 79 |
 | 19 | [awarris](https://github.com/awarris) | Warris AGBANNONDE | VIPP INTERTIS | awarrisw | Benin, Cotonou Ganhi | 72 |
-| 20 | [baba-mandef](https://github.com/baba-mandef) | Abiodoun Paraïso | @Rezolusoft | baba_mandef | Adjarra, Benin | 72 |
+| 20 | [baba-mandef](https://github.com/baba-mandef) | Abiodoun Paraïso | @Rezolusoft | baba_mandef | Adjarra, Benin | 71 |

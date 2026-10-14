@@ -1,6 +1,6 @@
 # Total Contributions - Jersey
 
-Generated: 2026-10-14T18:44:52.102Z
+Generated: 2026-10-14T20:21:29.564Z
 
 Users: 139
 
@@ -12,7 +12,7 @@ Users: 139
 | 4 | [ndestates](https://github.com/ndestates) | Nick Dodsley | ND Estates | nickdodsley | Jersey | 10567 |
 | 5 | [guessty](https://github.com/guessty) | Christian |  |  | Jersey, Channel Islands | 8118 |
 | 6 | [timkrins](https://github.com/timkrins) | Tim Krins | @InfuseGroup  |  | Jersey, Channel Islands | 4817 |
-| 7 | [danielmullin](https://github.com/danielmullin) | Daniel Mullin | inshore Ltd | danielmullin | Jersey | 4644 |
+| 7 | [danielmullin](https://github.com/danielmullin) | Daniel Mullin | inshore Ltd | danielmullin | Jersey | 4655 |
 | 8 | [gnathoi](https://github.com/gnathoi) | Nathaniel Hey |  |  | Jersey, Channel Islands | 4273 |
 | 9 | [wildgeodude](https://github.com/wildgeodude) | Dominic Samphier | Pinpoint |  | Jersey | 4111 |
 | 10 | [digitalbuddha](https://github.com/digitalbuddha) | Mike Nakhimovich | @Twitter | FriendlyMikhail | The dirty (jersey) | 3481 |
@@ -24,5 +24,5 @@ Users: 139
 | 16 | [jackleriche](https://github.com/jackleriche) | Jack Le Riche | @vaiie  |  | Jersey | 1625 |
 | 17 | [alexleach](https://github.com/alexleach) | ALB.Leach | ITC Bio |  | Jersey, UK | 1425 |
 | 18 | [JoshCollis](https://github.com/JoshCollis) | Josh Collis | Newtel Limited |  | Jersey | 1399 |
-| 19 | [CJ-Jackson](https://github.com/CJ-Jackson) | Christopher John Jackson | Sephora UK | MrCJJackson | St. Clement, Jersey | 1148 |
+| 19 | [CJ-Jackson](https://github.com/CJ-Jackson) | Christopher John Jackson | Sephora UK | MrCJJackson | St. Clement, Jersey | 1149 |
 | 20 | [cheiler](https://github.com/cheiler) | Christian Heiler |  |  | St. Helier, Jersey | 948 |

@@ -1,6 +1,6 @@
 # Indonesia
 
-Indexed users: 63,310
+Indexed users: 63,307
 
 | Leaderboard | Link |
 |---|---|
@@ -51,12 +51,12 @@ Indexed users: 63,310
 | 12 | [Vinsmoke-Tech](https://github.com/Vinsmoke-Tech) | Daffa Ariftama Hanaris | indonesia | 26,699 |
 | 13 | [frhndevweb](https://github.com/frhndevweb) | Farhan Hanafi | Cilacap, Jawa Tengah, Indonesia | 26,316 |
 | 14 | [nodeonline](https://github.com/nodeonline) | online | indonesia | 24,698 |
-| 15 | [rfkisctt](https://github.com/rfkisctt) | rfkisctt | Tangerang, Indonesia, 127.0.0.1 | 21,815 |
-| 16 | [tomiprs0x](https://github.com/tomiprs0x) | Tomi Prasetio | Semarang, Indonesia | 19,862 |
-| 17 | [nevzenly](https://github.com/nevzenly) | Nevzenly | Indonesia | 18,149 |
-| 18 | [cabrata](https://github.com/cabrata) | Caliph Atibrata | Sragen, Indonesia | 18,090 |
-| 19 | [wahidyankf](https://github.com/wahidyankf) | Wahidyan Kresna Fridayoka | Jakarta, Indonesia | 17,204 |
-| 20 | [imransetiadi](https://github.com/imransetiadi) | Imran Setiadi | indonesia | 16,946 |
+| 15 | [tomiprs0x](https://github.com/tomiprs0x) | Tomi Prasetio | Semarang, Indonesia | 19,862 |
+| 16 | [nevzenly](https://github.com/nevzenly) | Nevzenly | Indonesia | 18,149 |
+| 17 | [cabrata](https://github.com/cabrata) | Caliph Atibrata | Sragen, Indonesia | 18,090 |
+| 18 | [wahidyankf](https://github.com/wahidyankf) | Wahidyan Kresna Fridayoka | Jakarta, Indonesia | 17,204 |
+| 19 | [imransetiadi](https://github.com/imransetiadi) | Imran Setiadi | indonesia | 16,946 |
+| 20 | [RzkyNT](https://github.com/RzkyNT) | Rizqi Ahsan Setiawan | Indonesia | 16,708 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 63,310
 | 19 | [theodorusclarence](https://github.com/theodorusclarence) | Theodorus Clarence | Indonesia | 1,488 |
 | 20 | [imrenagi](https://github.com/imrenagi) | Imre Nagi | Jakarta | 1,307 |
 
-Generated: 2026-10-14T18:42:40.671Z
+Generated: 2026-10-14T20:16:58.822Z

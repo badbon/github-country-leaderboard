@@ -1,8 +1,8 @@
 # Public Contributions - Indonesia
 
-Generated: 2026-10-14T18:42:40.671Z
+Generated: 2026-10-14T20:16:58.822Z
 
-Users: 63310
+Users: 63307
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -20,9 +20,9 @@ Users: 63310
 | 12 | [Vinsmoke-Tech](https://github.com/Vinsmoke-Tech) | Daffa Ariftama Hanaris | Freelance |  | indonesia | 26699 |
 | 13 | [frhndevweb](https://github.com/frhndevweb) | Farhan Hanafi | Esperessos.id | hannaaffiii | Cilacap, Jawa Tengah, Indonesia | 26316 |
 | 14 | [nodeonline](https://github.com/nodeonline) | online |  | cuanbanyak2016 | indonesia | 24698 |
-| 15 | [rfkisctt](https://github.com/rfkisctt) | rfkisctt |  |  | Tangerang, Indonesia, 127.0.0.1 | 21815 |
-| 16 | [tomiprs0x](https://github.com/tomiprs0x) | Tomi Prasetio | Design Ace |  | Semarang, Indonesia | 19862 |
-| 17 | [nevzenly](https://github.com/nevzenly) | Nevzenly | Nevz |  | Indonesia | 18149 |
-| 18 | [cabrata](https://github.com/cabrata) | Caliph Atibrata |  | caliphdev | Sragen, Indonesia | 18090 |
-| 19 | [wahidyankf](https://github.com/wahidyankf) | Wahidyan Kresna Fridayoka | Hijra | wahidyankf | Jakarta, Indonesia | 17204 |
-| 20 | [imransetiadi](https://github.com/imransetiadi) | Imran Setiadi | Stealth Mode |  | indonesia | 16946 |
+| 15 | [tomiprs0x](https://github.com/tomiprs0x) | Tomi Prasetio | Design Ace |  | Semarang, Indonesia | 19862 |
+| 16 | [nevzenly](https://github.com/nevzenly) | Nevzenly | Nevz |  | Indonesia | 18149 |
+| 17 | [cabrata](https://github.com/cabrata) | Caliph Atibrata |  | caliphdev | Sragen, Indonesia | 18090 |
+| 18 | [wahidyankf](https://github.com/wahidyankf) | Wahidyan Kresna Fridayoka | Hijra | wahidyankf | Jakarta, Indonesia | 17204 |
+| 19 | [imransetiadi](https://github.com/imransetiadi) | Imran Setiadi | Stealth Mode |  | indonesia | 16946 |
+| 20 | [RzkyNT](https://github.com/RzkyNT) | Rizqi Ahsan Setiawan |  |  | Indonesia | 16708 |

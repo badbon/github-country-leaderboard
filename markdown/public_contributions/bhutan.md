@@ -1,6 +1,6 @@
 # Public Contributions - Bhutan
 
-Generated: 2026-10-14T18:16:47.220Z
+Generated: 2026-10-14T19:52:28.382Z
 
 Users: 267
 
@@ -17,7 +17,7 @@ Users: 267
 | 9 | [SurajSunar](https://github.com/SurajSunar) | Suraj Sunar |  |  | Thimphu, Bhutan | 364 |
 | 10 | [lakikishorsubba](https://github.com/lakikishorsubba) | Laki Kishor Subba | Selise Group |  | Thimphu,Bhutan | 308 |
 | 11 | [nimaytenzin](https://github.com/nimaytenzin) |  |  |  | Bhutan | 297 |
-| 12 | [jigmeloday](https://github.com/jigmeloday) | Jigme Lodey | Freelancer |  | Thimphu Bhutan | 232 |
+| 12 | [jigmeloday](https://github.com/jigmeloday) | Jigme Lodey | Freelancer |  | Thimphu Bhutan | 231 |
 | 13 | [aspee12](https://github.com/aspee12) | Sonam Phuntsho | SELISE |  | Thimphu, IT Park | 186 |
 | 14 | [devdgna](https://github.com/devdgna) | Dev | Bhutan NDI, CoinOn, ScanPrice, Prescaner |  | Kingdom of Bhutan | 175 |
 | 15 | [Tenzin-06](https://github.com/Tenzin-06) | Tenzin Tobgay | None |  | Bhutan | 161 |

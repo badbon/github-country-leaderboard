@@ -1,6 +1,6 @@
 # Public Contributions - DR Congo
 
-Generated: 2026-10-14T18:28:40.261Z
+Generated: 2026-10-14T20:03:04.727Z
 
 Users: 699
 
@@ -9,8 +9,8 @@ Users: 699
 | 1 | [coolbeatz71](https://github.com/coolbeatz71) | Mutombo Jean-Vincent | B2Tech-Git | coolbeatz71 | Kinshasa, Kigali | 31775 |
 | 2 | [andydefer](https://github.com/andydefer) | Andy Kani | AndyKani DevServices |  | Democratic Republic of Congo | 6103 |
 | 3 | [Theodorebinda](https://github.com/Theodorebinda) | Theodore SAMBA |  |  | kinshasa | 3168 |
-| 4 | [vickbk](https://github.com/vickbk) | Victoire Bake |  | Vick_bk8 | Goma, DR Congo | 2609 |
-| 5 | [ChrisJustice600](https://github.com/ChrisJustice600) | justice |  |  | Kinshasa | 2562 |
+| 4 | [ChrisJustice600](https://github.com/ChrisJustice600) | justice |  |  | Kinshasa | 2624 |
+| 5 | [vickbk](https://github.com/vickbk) | Victoire Bake |  | Vick_bk8 | Goma, DR Congo | 2609 |
 | 6 | [ElieOko](https://github.com/ElieOko) | ElieOko |  | ElieOko | Kinshasa   | 1594 |
 | 7 | [fordimalanda](https://github.com/fordimalanda) | Fordi Malanda | Fordima Inc. | mlndafordi | Kinshasa, DRC | 1369 |
 | 8 | [Jeffbuleli](https://github.com/Jeffbuleli) | Jeff Buleli | McBuleli | McBuleli | Kinshasa, DR Congo | 1347 |

@@ -16,8 +16,8 @@ Indexed users: 123
 | 2 | [ragnarok22](https://github.com/ragnarok22) | Reinier Hernández | Suriname | 13,808 |
 | 3 | [doctorneon](https://github.com/doctorneon) | Fabian Jacott | Suriname | 6,193 |
 | 4 | [Karel95](https://github.com/Karel95) | Karel Hernández | Paramaribo, Suriname | 2,771 |
-| 5 | [eSaniello](https://github.com/eSaniello) | Shaniel  | Suriname | 1,755 |
-| 6 | [CreativeYudai](https://github.com/CreativeYudai) | Yudai Heber | Paramaribo | 1,745 |
+| 5 | [CreativeYudai](https://github.com/CreativeYudai) | Yudai Heber | Paramaribo | 1,760 |
+| 6 | [eSaniello](https://github.com/eSaniello) | Shaniel  | Suriname | 1,755 |
 | 7 | [Beefy-py](https://github.com/Beefy-py) | Kenny Hoft | Commwijne, Suriname | 1,610 |
 | 8 | [JhonatanJavierDev](https://github.com/JhonatanJavierDev) | Jhonatan Javier Corella Pérez | Paramaribo | 1,547 |
 | 9 | [jairseedorf](https://github.com/jairseedorf) | Jaïr Seedorf  | Suriname | 1,142 |
@@ -83,4 +83,4 @@ Indexed users: 123
 | 19 | [JovinF](https://github.com/JovinF) | Jovin Fransman | Suriname | 18 |
 | 20 | [Your1405](https://github.com/Your1405) | Youri Karijopawiro | Paramaribo, Suriname | 18 |
 
-Generated: 2026-10-14T17:55:10.437Z
+Generated: 2026-10-14T19:29:40.358Z

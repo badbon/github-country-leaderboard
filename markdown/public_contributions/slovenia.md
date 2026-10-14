@@ -1,6 +1,6 @@
 # Public Contributions - Slovenia
 
-Generated: 2026-10-14T17:52:30.084Z
+Generated: 2026-10-14T19:27:44.006Z
 
 Users: 3101
 
@@ -8,9 +8,9 @@ Users: 3101
 |---:|---|---|---|---|---|---:|
 | 1 | [garbas](https://github.com/garbas) | Rok Garbas | Nix - Elm - Rust - Python | garbas | Ljubljana, Slovenia | 9114 |
 | 2 | [itechdom](https://github.com/itechdom) | Osama Alghanmi | Almadar |  | Ljubljana, Slovenia | 8386 |
-| 3 | [darkojelen](https://github.com/darkojelen) | darko |  |  | Ljubljana | 5412 |
-| 4 | [igorpecovnik](https://github.com/igorpecovnik) | Igor | @armbian  |  | Ljubljana | 4219 |
-| 5 | [MatejGomboc](https://github.com/MatejGomboc) | Matej Gomboc | SkyLabs d.o.o. |  | Maribor, Slovenia | 3979 |
+| 3 | [MatejGomboc](https://github.com/MatejGomboc) | Matej Gomboc | SkyLabs d.o.o. |  | Maribor, Slovenia | 5747 |
+| 4 | [darkojelen](https://github.com/darkojelen) | darko |  |  | Ljubljana | 5412 |
+| 5 | [igorpecovnik](https://github.com/igorpecovnik) | Igor | @armbian  |  | Ljubljana | 4219 |
 | 6 | [AKzar1el](https://github.com/AKzar1el) | Tommy | Solo | AKzar1el | Ljubljana, Slovenia | 3845 |
 | 7 | [stefanb](https://github.com/stefanb) | Stefan Baebler | @equaleyes | StefanBaebler | Ljubljana, Slovenia | 3790 |
 | 8 | [zigai](https://github.com/zigai) |  |  |  | Slovenia | 3513 |
@@ -22,7 +22,7 @@ Users: 3101
 | 14 | [aljazmc](https://github.com/aljazmc) | Aljaž Mlinarič |  |  | Ptuj, Slovenia | 2397 |
 | 15 | [mzagozen](https://github.com/mzagozen) | Marko Zagožen | Flint SI |  | Slovenia | 2344 |
 | 16 | [unjica](https://github.com/unjica) | Sanja Malovic | Tacko |  | Slovenia | 2171 |
-| 17 | [MusicDin](https://github.com/MusicDin) | Din Mušić | @canonical @lxc  |  | Ljubljana | 2097 |
-| 18 | [kubus-project](https://github.com/kubus-project) | Rok Černezel | kubus |  | Ljubljana | 2065 |
-| 19 | [crtahlin](https://github.com/crtahlin) | Crt Ahlin |  | crtahlin | Slovenia | 2035 |
-| 20 | [SkBlaz](https://github.com/SkBlaz) | SkBlaz |  |  | Slovenia | 1917 |
+| 17 | [baadc0de](https://github.com/baadc0de) | Bojan Šernek | @distopik | reactocode | Ljubljana, Slovenia | 2124 |
+| 18 | [MusicDin](https://github.com/MusicDin) | Din Mušić | @canonical @lxc  |  | Ljubljana | 2097 |
+| 19 | [kubus-project](https://github.com/kubus-project) | Rok Černezel | kubus |  | Ljubljana | 2065 |
+| 20 | [crtahlin](https://github.com/crtahlin) | Crt Ahlin |  | crtahlin | Slovenia | 2035 |

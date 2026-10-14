@@ -18,8 +18,8 @@ Indexed users: 899
 | 4 | [marc-pelland](https://github.com/marc-pelland) | Marc Pelland | Hamilton, ON | 10,375 |
 | 5 | [xaphod](https://github.com/xaphod) | Tim Carr | Hamilton ON | 10,206 |
 | 6 | [PatrickMcLennan](https://github.com/PatrickMcLennan) | Patrick McLennan | Hamilton, Ontario | 7,705 |
-| 7 | [eimaj](https://github.com/eimaj) | Jamie Allen | Hamilton | 7,379 |
-| 8 | [brandonpayton](https://github.com/brandonpayton) | Brandon Payton | Hamilton, Indiana | 7,325 |
+| 7 | [brandonpayton](https://github.com/brandonpayton) | Brandon Payton | Hamilton, Indiana | 7,381 |
+| 8 | [eimaj](https://github.com/eimaj) | Jamie Allen | Hamilton | 7,379 |
 | 9 | [keithbrink](https://github.com/keithbrink) | Keith Brink | Hamilton, ON | 6,550 |
 | 10 | [danielsdeboer](https://github.com/danielsdeboer) | Daniel S. Deboer | Hamilton, Ontario | 6,305 |
 | 11 | [mattgrande](https://github.com/mattgrande) | Matt Grande | Hamilton, Ontario | 6,051 |
@@ -28,8 +28,8 @@ Indexed users: 899
 | 14 | [rdaum](https://github.com/rdaum) | Ryan Daum | Hamilton, Ontario | 4,997 |
 | 15 | [dbactual](https://github.com/dbactual) | Dave Berton | Bermuda | 4,946 |
 | 16 | [lbrgriffith](https://github.com/lbrgriffith) | L. B. Ricardo Griffith | Hamilton, Bermuda | 4,556 |
-| 17 | [osamaaamer95](https://github.com/osamaaamer95) | Osama Aamer | Hamilton, NZ | 4,349 |
-| 18 | [grantlucas](https://github.com/grantlucas) | Grant Lucas | Hamilton, Ontario | 4,294 |
+| 17 | [grantlucas](https://github.com/grantlucas) | Grant Lucas | Hamilton, Ontario | 4,359 |
+| 18 | [osamaaamer95](https://github.com/osamaaamer95) | Osama Aamer | Hamilton, NZ | 4,349 |
 | 19 | [izzudin96](https://github.com/izzudin96) | Izzudin Anuar | Hamilton | 4,204 |
 | 20 | [adriand](https://github.com/adriand) | Adrian Duyzer | Hamilton, Ontario | 4,106 |
 
@@ -37,21 +37,21 @@ Indexed users: 899
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [brandonpayton](https://github.com/brandonpayton) | Brandon Payton | Hamilton, Indiana | 7,147 |
+| 1 | [brandonpayton](https://github.com/brandonpayton) | Brandon Payton | Hamilton, Indiana | 7,203 |
 | 2 | [rdaum](https://github.com/rdaum) | Ryan Daum | Hamilton, Ontario | 4,997 |
 | 3 | [wittjosiah](https://github.com/wittjosiah) | Josiah Witt | Hamilton, ON | 2,580 |
 | 4 | [bbolker](https://github.com/bbolker) | Ben Bolker | Hamilton, Ontario | 2,046 |
 | 5 | [Justype](https://github.com/Justype) | Cheng | Hamilton | 1,394 |
-| 6 | [kevinAlbs](https://github.com/kevinAlbs) | Kevin Albertson | Hamilton, NJ | 1,368 |
-| 7 | [grantlucas](https://github.com/grantlucas) | Grant Lucas | Hamilton, Ontario | 1,289 |
-| 8 | [wesbos](https://github.com/wesbos) | Wes Bos | Hamilton, Ontario | 1,283 |
+| 6 | [wesbos](https://github.com/wesbos) | Wes Bos | Hamilton, Ontario | 1,384 |
+| 7 | [kevinAlbs](https://github.com/kevinAlbs) | Kevin Albertson | Hamilton, NJ | 1,368 |
+| 8 | [grantlucas](https://github.com/grantlucas) | Grant Lucas | Hamilton, Ontario | 1,289 |
 | 9 | [tridibbanik17](https://github.com/tridibbanik17) | Tridib Banik | Hamilton, ON | 1,261 |
 | 10 | [danielmiguel02](https://github.com/danielmiguel02) | Daniel Miguel | Hamilton - ON | 1,005 |
 | 11 | [kadgitub7](https://github.com/kadgitub7) | Kadhir Ponnambalam | Hamilton Ontario | 884 |
 | 12 | [obeabi](https://github.com/obeabi) | David_Abiola_Obembe | Hamilton, Ontario | 853 |
 | 13 | [nvelden](https://github.com/nvelden) |  | Hamilton, Bermuda | 806 |
 | 14 | [DesktopECHO](https://github.com/DesktopECHO) |  | Hamilton, Bermuda | 781 |
-| 15 | [clintandrewhall](https://github.com/clintandrewhall) | Clint Andrew Hall | Hamilton, ON | 650 |
+| 15 | [clintandrewhall](https://github.com/clintandrewhall) | Clint Andrew Hall | Hamilton, ON | 710 |
 | 16 | [AymenS02](https://github.com/AymenS02) | Aymen Shoteri | Hamilton, Ontario | 607 |
 | 17 | [miamioh-roseaw](https://github.com/miamioh-roseaw) | Anthony W Rose | Oxford, OH, Hamilton, OH | 577 |
 | 18 | [bjornbasar](https://github.com/bjornbasar) | Bjorn Christian Basar | Hamilton | 561 |
@@ -62,19 +62,19 @@ Indexed users: 899
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [wesbos](https://github.com/wesbos) | Wes Bos | Hamilton, Ontario | 36,008 |
+| 1 | [wesbos](https://github.com/wesbos) | Wes Bos | Hamilton, Ontario | 36,074 |
 | 2 | [bbolker](https://github.com/bbolker) | Ben Bolker | Hamilton, Ontario | 927 |
 | 3 | [augustoproiete](https://github.com/augustoproiete) | Augusto Proiete | Bermuda | 331 |
 | 4 | [yaasuhiro](https://github.com/yaasuhiro) | naka | danganronpa, hamilton, & cod areas.  ₊˚⊹ᰔ ask4insp ˖⁺‧₊˚✦  c+h heavily enc. ♡ im always offtab, pls w2i!! ಇ. dnc skins ꉂ(˵˃ ᗜ ˂˵)  | 272 |
 | 5 | [TOTBWF](https://github.com/TOTBWF) | Reed Mullanix | Hamilton, ON | 224 |
 | 6 | [drewminns](https://github.com/drewminns) | Drew Minns | Hamilton | 219 |
 | 7 | [DesktopECHO](https://github.com/DesktopECHO) |  | Hamilton, Bermuda | 205 |
-| 8 | [clintandrewhall](https://github.com/clintandrewhall) | Clint Andrew Hall | Hamilton, ON | 198 |
+| 8 | [clintandrewhall](https://github.com/clintandrewhall) | Clint Andrew Hall | Hamilton, ON | 199 |
 | 9 | [davidgrzyb](https://github.com/davidgrzyb) | David Grzyb | Hamilton, Ontario | 182 |
 | 10 | [jbfink](https://github.com/jbfink) | John Fink | Hamilton, Ontario | 174 |
 | 11 | [bokmann](https://github.com/bokmann) | David Bock | Hamilton, VA | 173 |
 | 12 | [dktr0](https://github.com/dktr0) | David Ogborn | Hamilton, Ontario | 147 |
-| 13 | [brandonpayton](https://github.com/brandonpayton) | Brandon Payton | Hamilton, Indiana | 132 |
+| 13 | [brandonpayton](https://github.com/brandonpayton) | Brandon Payton | Hamilton, Indiana | 131 |
 | 14 | [Pear1y](https://github.com/Pear1y) | Pear1y | Bermuda | 107 |
 | 15 | [ShawnShiSS](https://github.com/ShawnShiSS) | Shawn Shi | Hamilton, Ontario | 103 |
 | 16 | [tanya-jp](https://github.com/tanya-jp) | Tanya Djavaherpour | Hamilton, Ontario | 91 |
@@ -83,4 +83,4 @@ Indexed users: 899
 | 19 | [feilongcheng](https://github.com/feilongcheng) | Felix | Hamilton, NZ | 85 |
 | 20 | [wittjosiah](https://github.com/wittjosiah) | Josiah Witt | Hamilton, ON | 67 |
 
-Generated: 2026-10-14T18:15:30.190Z
+Generated: 2026-10-14T19:51:54.604Z

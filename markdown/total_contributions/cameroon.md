@@ -1,6 +1,6 @@
 # Total Contributions - Cameroon
 
-Generated: 2026-10-14T18:58:27.026Z
+Generated: 2026-10-14T19:55:55.806Z
 
 Users: 1799
 
@@ -19,10 +19,10 @@ Users: 1799
 | 11 | [elroykanye](https://github.com/elroykanye) | Elroy Kimbi | @veridyl | elroykanye | Yaoundé, Cameroon | 7432 |
 | 12 | [ln-dev7](https://github.com/ln-dev7) | LN | @mus-inn | ln_dev7 | Cameroon | 7402 |
 | 13 | [leonelngande](https://github.com/leonelngande) | Leonel Elimpe | Ngande Consulting | leonelngande | Buea, Cameroon | 7257 |
-| 14 | [psycho237-prog](https://github.com/psycho237-prog) | ONANA GREGOIRE LEGRAND  | XYBERCLAN |  | Cameroon | 6280 |
-| 15 | [OkonoWil](https://github.com/OkonoWil) | Okono Wilfried | @WeTell-Africa  @JEUNESMENTORS | OkonoWilfried | Douala,Cameroon | 6014 |
-| 16 | [itzomen](https://github.com/itzomen) | Peng Boris Akebuon | Traleor | itz_omen | Buea, Cameroon | 5598 |
-| 17 | [koatiromeo](https://github.com/koatiromeo) | koatiromeo | koatiromeo | koatiromeo | Cameroon | 5266 |
-| 18 | [dark-matter08](https://github.com/dark-matter08) | Nde Lucien | @Ntopor-Social  | dark_matter08 | Buea, Cameroon | 5241 |
-| 19 | [Martin-Luther](https://github.com/Martin-Luther) | Martin Luther ETOUMAN NDAMBWE | Rhinostone |  | Douala / Cameroon | 5129 |
+| 14 | [Martin-Luther](https://github.com/Martin-Luther) | Martin Luther ETOUMAN NDAMBWE | Rhinostone |  | Douala / Cameroon | 6398 |
+| 15 | [psycho237-prog](https://github.com/psycho237-prog) | ONANA GREGOIRE LEGRAND  | XYBERCLAN |  | Cameroon | 6280 |
+| 16 | [OkonoWil](https://github.com/OkonoWil) | Okono Wilfried | @WeTell-Africa  @JEUNESMENTORS | OkonoWilfried | Douala,Cameroon | 6014 |
+| 17 | [itzomen](https://github.com/itzomen) | Peng Boris Akebuon | Traleor | itz_omen | Buea, Cameroon | 5598 |
+| 18 | [koatiromeo](https://github.com/koatiromeo) | koatiromeo | koatiromeo | koatiromeo | Cameroon | 5266 |
+| 19 | [dark-matter08](https://github.com/dark-matter08) | Nde Lucien | @Ntopor-Social  | dark_matter08 | Buea, Cameroon | 5241 |
 | 20 | [ussfranck](https://github.com/ussfranck) | Franck Mekoulou | @DorsetCompany |  | District 7 Of Yaoundé, CM | 5087 |

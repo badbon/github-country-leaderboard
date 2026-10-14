@@ -1,14 +1,14 @@
 # Public Contributions - Bangladesh
 
-Generated: 2026-10-14T18:14:38.843Z
+Generated: 2026-10-14T19:49:27.212Z
 
-Users: 55321
+Users: 55319
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [MD-Mushfiqur123](https://github.com/MD-Mushfiqur123) | Md Mushfiqur Rahim | Droplychee | MDMushfiqur123 | Bangladesh | 44164 |
-| 2 | [mah-shamim](https://github.com/mah-shamim) | MD ARIFUL HAQUE | HAQUE IT SOLUTION |  | DHAKA, BANGLADESH | 40728 |
-| 3 | [ahammadmejbah](https://github.com/ahammadmejbah) | Mejbah Ahammad | American International University - Bangladesh (AIUB) | ahammadmejbah | Dhaka, Bangladesh | 26588 |
+| 1 | [mah-shamim](https://github.com/mah-shamim) | MD ARIFUL HAQUE | HAQUE IT SOLUTION |  | DHAKA, BANGLADESH | 40728 |
+| 2 | [ahammadmejbah](https://github.com/ahammadmejbah) | Mejbah Ahammad | American International University - Bangladesh (AIUB) | ahammadmejbah | Dhaka, Bangladesh | 26588 |
+| 3 | [MD-Mushfiqur123](https://github.com/MD-Mushfiqur123) | Md Mushfiqur Rahim | @Craftly-Robot  | MDMushfiqur123 | Bangladesh | 24489 |
 | 4 | [myselfhridoy](https://github.com/myselfhridoy) | Hridoy Matber | Home |  | Dhaka, Bangladesh | 12049 |
 | 5 | [w3wave](https://github.com/w3wave) | W3 Wave | Web Designer    |  | Dhaka | 10755 |
 | 6 | [Azimul-Haque](https://github.com/Azimul-Haque) | A. H. M. Azimul Haque | IIT, DU | orbachinujbuk | Dhaka, Bangladesh | 10539 |

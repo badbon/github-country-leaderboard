@@ -40,8 +40,8 @@ Indexed users: 699
 | 1 | [coolbeatz71](https://github.com/coolbeatz71) | Mutombo Jean-Vincent | Kinshasa, Kigali | 31,775 |
 | 2 | [andydefer](https://github.com/andydefer) | Andy Kani | Democratic Republic of Congo | 6,103 |
 | 3 | [Theodorebinda](https://github.com/Theodorebinda) | Theodore SAMBA | kinshasa | 3,168 |
-| 4 | [vickbk](https://github.com/vickbk) | Victoire Bake | Goma, DR Congo | 2,609 |
-| 5 | [ChrisJustice600](https://github.com/ChrisJustice600) | justice | Kinshasa | 2,562 |
+| 4 | [ChrisJustice600](https://github.com/ChrisJustice600) | justice | Kinshasa | 2,624 |
+| 5 | [vickbk](https://github.com/vickbk) | Victoire Bake | Goma, DR Congo | 2,609 |
 | 6 | [ElieOko](https://github.com/ElieOko) | ElieOko | Kinshasa   | 1,594 |
 | 7 | [fordimalanda](https://github.com/fordimalanda) | Fordi Malanda | Kinshasa, DRC | 1,369 |
 | 8 | [Jeffbuleli](https://github.com/Jeffbuleli) | Jeff Buleli | Kinshasa, DR Congo | 1,347 |
@@ -83,4 +83,4 @@ Indexed users: 699
 | 19 | [bolenge](https://github.com/bolenge) | Don de Dieu Bolenge | Congo - Kinshasa | 69 |
 | 20 | [ChrisMwanya](https://github.com/ChrisMwanya) | Chris Mwanya | kinshasa | 69 |
 
-Generated: 2026-10-14T18:28:40.261Z
+Generated: 2026-10-14T20:03:04.727Z

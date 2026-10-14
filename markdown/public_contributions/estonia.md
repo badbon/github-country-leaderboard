@@ -1,6 +1,6 @@
 # Public Contributions - Estonia
 
-Generated: 2026-10-14T18:31:31.392Z
+Generated: 2026-10-14T20:06:39.217Z
 
 Users: 4906
 
@@ -17,12 +17,12 @@ Users: 4906
 | 9 | [Artexis10](https://github.com/Artexis10) | Hugo Ander Kivi | Substrate Systems OÜ | hugoanderkivi | Tallinn | 5372 |
 | 10 | [tot-ra](https://github.com/tot-ra) | Artjom Kurapov | @Gratheon | tot_ra | Tallinn, Estonia | 4407 |
 | 11 | [AmbientLighter](https://github.com/AmbientLighter) | Viktor Mirieiev | OpenNode |  | Tallinn | 3899 |
-| 12 | [GelatoGenesis](https://github.com/GelatoGenesis) | GelatoGenesis |  |  | Estonia | 3272 |
-| 13 | [cogni-ai-ee](https://github.com/cogni-ai-ee) | Cogni AI |  | Cogni_AI_OU | Tallinn, Estonia | 3232 |
-| 14 | [ddanila](https://github.com/ddanila) | Danila Sukharev |  |  | Tallinn, Estonia | 3217 |
-| 15 | [ddon](https://github.com/ddon) | Dmitri Don | Fotki Inc |  | Tallinn, Estonia | 3112 |
-| 16 | [timujinne](https://github.com/timujinne) | Tymofii Shapovalov |  |  | Tallinn, Estonia | 3049 |
-| 17 | [henrikaavik](https://github.com/henrikaavik) | Henrik Aavik | Applaud Ltd |  | Tallinn, Estonia | 2994 |
-| 18 | [kpavlov](https://github.com/kpavlov) | Konstantin Pavlov |  |  | Tallinn, Estonia | 2988 |
-| 19 | [janklosowski](https://github.com/janklosowski) | klos | Deltabadger OÜ | klos | Estonia | 2807 |
-| 20 | [mdon](https://github.com/mdon) | Max Don |  |  | Tallinn, Estonia | 2752 |
+| 12 | [zbalkan](https://github.com/zbalkan) | Zafer Balkan |  |  | Tallinn, Estonia | 3690 |
+| 13 | [GelatoGenesis](https://github.com/GelatoGenesis) | GelatoGenesis |  |  | Estonia | 3272 |
+| 14 | [cogni-ai-ee](https://github.com/cogni-ai-ee) | Cogni AI |  | Cogni_AI_OU | Tallinn, Estonia | 3232 |
+| 15 | [ddanila](https://github.com/ddanila) | Danila Sukharev |  |  | Tallinn, Estonia | 3217 |
+| 16 | [ddon](https://github.com/ddon) | Dmitri Don | Fotki Inc |  | Tallinn, Estonia | 3112 |
+| 17 | [timujinne](https://github.com/timujinne) | Tymofii Shapovalov |  |  | Tallinn, Estonia | 3049 |
+| 18 | [henrikaavik](https://github.com/henrikaavik) | Henrik Aavik | Applaud Ltd |  | Tallinn, Estonia | 2994 |
+| 19 | [kpavlov](https://github.com/kpavlov) | Konstantin Pavlov |  |  | Tallinn, Estonia | 2988 |
+| 20 | [janklosowski](https://github.com/janklosowski) | klos | Deltabadger OÜ | klos | Estonia | 2807 |

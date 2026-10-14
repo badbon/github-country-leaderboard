@@ -16,9 +16,9 @@ Indexed users: 1,276
 | 2 | [EduardoProfe666](https://github.com/EduardoProfe666) | Eduardo Alejandro González Martell | La Habana, Cuba | 16,158 |
 | 3 | [PerezO12](https://github.com/PerezO12) | Adrian Perez Osorio | Havana - Cuba - Spain - Mexico | 14,900 |
 | 4 | [Walkercito](https://github.com/Walkercito) | Walkercito | 🌍 Coding from Cienfuegos, Cuba | 12,343 |
-| 5 | [yasmramos](https://github.com/yasmramos) | Yasmany Ramos García  | Ciego de Ávila, Cuba | 9,256 |
-| 6 | [gustavoylc](https://github.com/gustavoylc) | Gustavo Leyte-Vidal | Cuba | 6,907 |
-| 7 | [palmerovicdev](https://github.com/palmerovicdev) | Víctor Manuel Palmero Valdés | Santa Clara, Cuba. | 6,832 |
+| 5 | [yasmramos](https://github.com/yasmramos) | Yasmany Ramos García  | Ciego de Ávila, Cuba | 9,311 |
+| 6 | [palmerovicdev](https://github.com/palmerovicdev) | Víctor Manuel Palmero Valdés | Santa Clara, Cuba. | 6,951 |
+| 7 | [gustavoylc](https://github.com/gustavoylc) | Gustavo Leyte-Vidal | Cuba | 6,907 |
 | 8 | [IhanMo18](https://github.com/IhanMo18) | Ihan | Cuba | 5,854 |
 | 9 | [NairAd02](https://github.com/NairAd02) | Adrian Suarez | Havana, Cuba | 5,592 |
 | 10 | [frarteaga](https://github.com/frarteaga) | Frank Rafael Arteaga Salgado | Cuba | 5,156 |
@@ -38,7 +38,7 @@ Indexed users: 1,276
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [EduardoProfe666](https://github.com/EduardoProfe666) | Eduardo Alejandro González Martell | La Habana, Cuba | 10,461 |
-| 2 | [yasmramos](https://github.com/yasmramos) | Yasmany Ramos García  | Ciego de Ávila, Cuba | 9,050 |
+| 2 | [yasmramos](https://github.com/yasmramos) | Yasmany Ramos García  | Ciego de Ávila, Cuba | 9,105 |
 | 3 | [apiad](https://github.com/apiad) | Alejandro Piad | Cuba | 7,089 |
 | 4 | [AgenciaSeniors](https://github.com/AgenciaSeniors) | Eduardo Daniel Pérez Ruiz | Cuba | 4,454 |
 | 5 | [MiguelAntonioRS](https://github.com/MiguelAntonioRS) | Miguel | Cuba, Holguin | 3,246 |
@@ -83,4 +83,4 @@ Indexed users: 1,276
 | 19 | [leoGlez01](https://github.com/leoGlez01) | Leandro González  | La Habana, Cuba | 70 |
 | 20 | [EduardoProfe666](https://github.com/EduardoProfe666) | Eduardo Alejandro González Martell | La Habana, Cuba | 69 |
 
-Generated: 2026-10-14T18:25:42.129Z
+Generated: 2026-10-14T20:02:06.569Z

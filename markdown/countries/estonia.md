@@ -48,15 +48,15 @@ Indexed users: 4,906
 | 9 | [Artexis10](https://github.com/Artexis10) | Hugo Ander Kivi | Tallinn | 5,372 |
 | 10 | [tot-ra](https://github.com/tot-ra) | Artjom Kurapov | Tallinn, Estonia | 4,407 |
 | 11 | [AmbientLighter](https://github.com/AmbientLighter) | Viktor Mirieiev | Tallinn | 3,899 |
-| 12 | [GelatoGenesis](https://github.com/GelatoGenesis) | GelatoGenesis | Estonia | 3,272 |
-| 13 | [cogni-ai-ee](https://github.com/cogni-ai-ee) | Cogni AI | Tallinn, Estonia | 3,232 |
-| 14 | [ddanila](https://github.com/ddanila) | Danila Sukharev | Tallinn, Estonia | 3,217 |
-| 15 | [ddon](https://github.com/ddon) | Dmitri Don | Tallinn, Estonia | 3,112 |
-| 16 | [timujinne](https://github.com/timujinne) | Tymofii Shapovalov | Tallinn, Estonia | 3,049 |
-| 17 | [henrikaavik](https://github.com/henrikaavik) | Henrik Aavik | Tallinn, Estonia | 2,994 |
-| 18 | [kpavlov](https://github.com/kpavlov) | Konstantin Pavlov | Tallinn, Estonia | 2,988 |
-| 19 | [janklosowski](https://github.com/janklosowski) | klos | Estonia | 2,807 |
-| 20 | [mdon](https://github.com/mdon) | Max Don | Tallinn, Estonia | 2,752 |
+| 12 | [zbalkan](https://github.com/zbalkan) | Zafer Balkan | Tallinn, Estonia | 3,690 |
+| 13 | [GelatoGenesis](https://github.com/GelatoGenesis) | GelatoGenesis | Estonia | 3,272 |
+| 14 | [cogni-ai-ee](https://github.com/cogni-ai-ee) | Cogni AI | Tallinn, Estonia | 3,232 |
+| 15 | [ddanila](https://github.com/ddanila) | Danila Sukharev | Tallinn, Estonia | 3,217 |
+| 16 | [ddon](https://github.com/ddon) | Dmitri Don | Tallinn, Estonia | 3,112 |
+| 17 | [timujinne](https://github.com/timujinne) | Tymofii Shapovalov | Tallinn, Estonia | 3,049 |
+| 18 | [henrikaavik](https://github.com/henrikaavik) | Henrik Aavik | Tallinn, Estonia | 2,994 |
+| 19 | [kpavlov](https://github.com/kpavlov) | Konstantin Pavlov | Tallinn, Estonia | 2,988 |
+| 20 | [janklosowski](https://github.com/janklosowski) | klos | Estonia | 2,807 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 4,906
 | 19 | [Wirasm](https://github.com/Wirasm) | Rasmus Widing | tallinn | 406 |
 | 20 | [toomastahves](https://github.com/toomastahves) | Toomas Tahves | Tallinn, Estonia | 388 |
 
-Generated: 2026-10-14T18:31:31.392Z
+Generated: 2026-10-14T20:06:39.217Z

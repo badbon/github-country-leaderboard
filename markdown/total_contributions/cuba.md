@@ -1,6 +1,6 @@
 # Total Contributions - Cuba
 
-Generated: 2026-10-14T18:25:42.129Z
+Generated: 2026-10-14T20:02:06.569Z
 
 Users: 1276
 
@@ -10,9 +10,9 @@ Users: 1276
 | 2 | [EduardoProfe666](https://github.com/EduardoProfe666) | Eduardo Alejandro González Martell | AIKoders LLC |  | La Habana, Cuba | 16158 |
 | 3 | [PerezO12](https://github.com/PerezO12) | Adrian Perez Osorio |  |  | Havana - Cuba - Spain - Mexico | 14900 |
 | 4 | [Walkercito](https://github.com/Walkercito) | Walkercito | @begonlabs  | Walkercitodt | 🌍 Coding from Cienfuegos, Cuba | 12343 |
-| 5 | [yasmramos](https://github.com/yasmramos) | Yasmany Ramos García  |  |  | Ciego de Ávila, Cuba | 9256 |
-| 6 | [gustavoylc](https://github.com/gustavoylc) | Gustavo Leyte-Vidal | Inperia | gustavoylc | Cuba | 6907 |
-| 7 | [palmerovicdev](https://github.com/palmerovicdev) | Víctor Manuel Palmero Valdés |  |  | Santa Clara, Cuba. | 6832 |
+| 5 | [yasmramos](https://github.com/yasmramos) | Yasmany Ramos García  |  |  | Ciego de Ávila, Cuba | 9311 |
+| 6 | [palmerovicdev](https://github.com/palmerovicdev) | Víctor Manuel Palmero Valdés |  |  | Santa Clara, Cuba. | 6951 |
+| 7 | [gustavoylc](https://github.com/gustavoylc) | Gustavo Leyte-Vidal | Inperia | gustavoylc | Cuba | 6907 |
 | 8 | [IhanMo18](https://github.com/IhanMo18) | Ihan |  |  | Cuba | 5854 |
 | 9 | [NairAd02](https://github.com/NairAd02) | Adrian Suarez | NTSprint |  | Havana, Cuba | 5592 |
 | 10 | [frarteaga](https://github.com/frarteaga) | Frank Rafael Arteaga Salgado |  |  | Cuba | 5156 |

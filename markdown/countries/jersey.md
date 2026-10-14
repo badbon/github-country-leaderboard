@@ -18,7 +18,7 @@ Indexed users: 139
 | 4 | [ndestates](https://github.com/ndestates) | Nick Dodsley | Jersey | 10,567 |
 | 5 | [guessty](https://github.com/guessty) | Christian | Jersey, Channel Islands | 8,118 |
 | 6 | [timkrins](https://github.com/timkrins) | Tim Krins | Jersey, Channel Islands | 4,817 |
-| 7 | [danielmullin](https://github.com/danielmullin) | Daniel Mullin | Jersey | 4,644 |
+| 7 | [danielmullin](https://github.com/danielmullin) | Daniel Mullin | Jersey | 4,655 |
 | 8 | [gnathoi](https://github.com/gnathoi) | Nathaniel Hey | Jersey, Channel Islands | 4,273 |
 | 9 | [wildgeodude](https://github.com/wildgeodude) | Dominic Samphier | Jersey | 4,111 |
 | 10 | [digitalbuddha](https://github.com/digitalbuddha) | Mike Nakhimovich | The dirty (jersey) | 3,481 |
@@ -30,7 +30,7 @@ Indexed users: 139
 | 16 | [jackleriche](https://github.com/jackleriche) | Jack Le Riche | Jersey | 1,625 |
 | 17 | [alexleach](https://github.com/alexleach) | ALB.Leach | Jersey, UK | 1,425 |
 | 18 | [JoshCollis](https://github.com/JoshCollis) | Josh Collis | Jersey | 1,399 |
-| 19 | [CJ-Jackson](https://github.com/CJ-Jackson) | Christopher John Jackson | St. Clement, Jersey | 1,148 |
+| 19 | [CJ-Jackson](https://github.com/CJ-Jackson) | Christopher John Jackson | St. Clement, Jersey | 1,149 |
 | 20 | [cheiler](https://github.com/cheiler) | Christian Heiler | St. Helier, Jersey | 948 |
 
 ## Public Contributions
@@ -83,4 +83,4 @@ Indexed users: 139
 | 19 | [r-moore](https://github.com/r-moore) | Richard Moore | Jersey | 21 |
 | 20 | [Chrisedmo](https://github.com/Chrisedmo) | Chris Mousdale | Jersey, Channel Islands | 20 |
 
-Generated: 2026-10-14T18:44:52.102Z
+Generated: 2026-10-14T20:21:29.564Z

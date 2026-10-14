@@ -29,9 +29,9 @@ Indexed users: 533
 | 15 | [WyvernPirate](https://github.com/WyvernPirate) | Phemelo Moloi | Maun, Botswana | 2,020 |
 | 16 | [Mopati123](https://github.com/Mopati123) | Mopati Ramaologa | Gaborone, Botswana | 1,890 |
 | 17 | [sheriff-kutlo](https://github.com/sheriff-kutlo) | Kutlo Will Mangwa | Botswana | 1,830 |
-| 18 | [samsonmabetho](https://github.com/samsonmabetho) | Samson Mabetho | Botswana | 1,691 |
+| 18 | [samsonmabetho](https://github.com/samsonmabetho) | Samson Mabetho | Botswana | 1,676 |
 | 19 | [Ed1ezac](https://github.com/Ed1ezac) | Edgar Kealeboga | Gaborone, Botswana | 1,516 |
-| 20 | [geek911](https://github.com/geek911) | Moses Chawawa | Gaborone, Botswana | 1,417 |
+| 20 | [Goitseone-Themba](https://github.com/Goitseone-Themba) | ISOTOPE \| THEMBA | Botswana | 1,463 |
 
 ## Public Contributions
 
@@ -47,8 +47,8 @@ Indexed users: 533
 | 8 | [tmosimanyana](https://github.com/tmosimanyana) | Tinny Mosimanyana | Gaborone, Botswana | 838 |
 | 9 | [Mopati123](https://github.com/Mopati123) | Mopati Ramaologa | Gaborone, Botswana | 735 |
 | 10 | [Scheke](https://github.com/Scheke) | Boipuso Rante | Botswana | 592 |
-| 11 | [Sesame-alpha](https://github.com/Sesame-alpha) | SESAME DITHUPA | Botswana 🇧🇼  | 543 |
-| 12 | [loag0](https://github.com/loag0) | Loago Moremi | Botswana | 523 |
+| 11 | [loag0](https://github.com/loag0) | Loago Moremi | Botswana | 562 |
+| 12 | [Sesame-alpha](https://github.com/Sesame-alpha) | SESAME DITHUPA | Botswana 🇧🇼  | 543 |
 | 13 | [Cse21-034](https://github.com/Cse21-034) | leatile mosimanyana | Gaborone | 522 |
 | 14 | [bChandrax](https://github.com/bChandrax) | Karabo Machanja | Botswana | 442 |
 | 15 | [justindotdevv](https://github.com/justindotdevv) | justin | Gaborone, Botswana | 430 |
@@ -83,4 +83,4 @@ Indexed users: 533
 | 19 | [Tebalo](https://github.com/Tebalo) | Bopaki | Botswana, Gaborone-Mokobaxane | 34 |
 | 20 | [BakangMonei](https://github.com/BakangMonei) | Monei Bakang | Gaborone, Botswana | 33 |
 
-Generated: 2026-10-14T18:17:00.033Z
+Generated: 2026-10-14T19:52:42.968Z

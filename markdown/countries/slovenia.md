@@ -23,15 +23,15 @@ Indexed users: 3,101
 | 9 | [fentas](https://github.com/fentas) | Jan Guth | Slovenia | 10,622 |
 | 10 | [matija2209](https://github.com/matija2209) | Matija Žiberna | Slovenia | 10,295 |
 | 11 | [tfourj](https://github.com/tfourj) | Taj Tkalec | Slovenia | 9,996 |
-| 12 | [pako999](https://github.com/pako999) | Patrik | Slovenia  | 8,682 |
-| 13 | [vucinatim](https://github.com/vucinatim) | Tim Vučina | Ljubljana, Slovenia | 8,637 |
-| 14 | [zprima](https://github.com/zprima) | Primož Žnidar | Slovenia | 8,431 |
-| 15 | [mitjapotocin](https://github.com/mitjapotocin) | Mitja Potočin | Ljubljana | 8,383 |
-| 16 | [AKzar1el](https://github.com/AKzar1el) | Tommy | Ljubljana, Slovenia | 7,042 |
-| 17 | [omeratagunn](https://github.com/omeratagunn) | Ömer Atagün | Slovenia | 6,861 |
-| 18 | [jurej1](https://github.com/jurej1) | Jure Jures | Slovenia | 6,645 |
-| 19 | [some1else](https://github.com/some1else) | Srđan Prodanović | Slovenia | 6,574 |
-| 20 | [tfius](https://github.com/tfius) | Tadej Fius | Slovenia | 6,568 |
+| 12 | [baadc0de](https://github.com/baadc0de) | Bojan Šernek | Ljubljana, Slovenia | 8,700 |
+| 13 | [pako999](https://github.com/pako999) | Patrik | Slovenia  | 8,682 |
+| 14 | [vucinatim](https://github.com/vucinatim) | Tim Vučina | Ljubljana, Slovenia | 8,637 |
+| 15 | [zprima](https://github.com/zprima) | Primož Žnidar | Slovenia | 8,431 |
+| 16 | [mitjapotocin](https://github.com/mitjapotocin) | Mitja Potočin | Ljubljana | 8,383 |
+| 17 | [AKzar1el](https://github.com/AKzar1el) | Tommy | Ljubljana, Slovenia | 7,042 |
+| 18 | [omeratagunn](https://github.com/omeratagunn) | Ömer Atagün | Slovenia | 6,861 |
+| 19 | [jurej1](https://github.com/jurej1) | Jure Jures | Slovenia | 6,645 |
+| 20 | [some1else](https://github.com/some1else) | Srđan Prodanović | Slovenia | 6,574 |
 
 ## Public Contributions
 
@@ -39,9 +39,9 @@ Indexed users: 3,101
 |---:|---|---|---|---:|
 | 1 | [garbas](https://github.com/garbas) | Rok Garbas | Ljubljana, Slovenia | 9,114 |
 | 2 | [itechdom](https://github.com/itechdom) | Osama Alghanmi | Ljubljana, Slovenia | 8,386 |
-| 3 | [darkojelen](https://github.com/darkojelen) | darko | Ljubljana | 5,412 |
-| 4 | [igorpecovnik](https://github.com/igorpecovnik) | Igor | Ljubljana | 4,219 |
-| 5 | [MatejGomboc](https://github.com/MatejGomboc) | Matej Gomboc | Maribor, Slovenia | 3,979 |
+| 3 | [MatejGomboc](https://github.com/MatejGomboc) | Matej Gomboc | Maribor, Slovenia | 5,747 |
+| 4 | [darkojelen](https://github.com/darkojelen) | darko | Ljubljana | 5,412 |
+| 5 | [igorpecovnik](https://github.com/igorpecovnik) | Igor | Ljubljana | 4,219 |
 | 6 | [AKzar1el](https://github.com/AKzar1el) | Tommy | Ljubljana, Slovenia | 3,845 |
 | 7 | [stefanb](https://github.com/stefanb) | Stefan Baebler | Ljubljana, Slovenia | 3,790 |
 | 8 | [zigai](https://github.com/zigai) |  | Slovenia | 3,513 |
@@ -53,10 +53,10 @@ Indexed users: 3,101
 | 14 | [aljazmc](https://github.com/aljazmc) | Aljaž Mlinarič | Ptuj, Slovenia | 2,397 |
 | 15 | [mzagozen](https://github.com/mzagozen) | Marko Zagožen | Slovenia | 2,344 |
 | 16 | [unjica](https://github.com/unjica) | Sanja Malovic | Slovenia | 2,171 |
-| 17 | [MusicDin](https://github.com/MusicDin) | Din Mušić | Ljubljana | 2,097 |
-| 18 | [kubus-project](https://github.com/kubus-project) | Rok Černezel | Ljubljana | 2,065 |
-| 19 | [crtahlin](https://github.com/crtahlin) | Crt Ahlin | Slovenia | 2,035 |
-| 20 | [SkBlaz](https://github.com/SkBlaz) | SkBlaz | Slovenia | 1,917 |
+| 17 | [baadc0de](https://github.com/baadc0de) | Bojan Šernek | Ljubljana, Slovenia | 2,124 |
+| 18 | [MusicDin](https://github.com/MusicDin) | Din Mušić | Ljubljana | 2,097 |
+| 19 | [kubus-project](https://github.com/kubus-project) | Rok Černezel | Ljubljana | 2,065 |
+| 20 | [crtahlin](https://github.com/crtahlin) | Crt Ahlin | Slovenia | 2,035 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 3,101
 | 19 | [garbas](https://github.com/garbas) | Rok Garbas | Ljubljana, Slovenia | 240 |
 | 20 | [buresdv](https://github.com/buresdv) | David Bureš | Maribor, Slovenia | 238 |
 
-Generated: 2026-10-14T17:52:30.084Z
+Generated: 2026-10-14T19:27:44.006Z

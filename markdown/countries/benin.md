@@ -19,9 +19,9 @@ Indexed users: 471
 | 5 | [AxelSalim](https://github.com/AxelSalim) | ADJAKIDJE K. Axel S. H. | Benin | 7,267 |
 | 6 | [devalade](https://github.com/devalade) | Alade YESSOUFOU | Cotonou,Littoral, Benin | 6,583 |
 | 7 | [jprud67](https://github.com/jprud67) | Prudence  Dieudonné Assogba | Benin, cotonou | 5,121 |
-| 8 | [BOCOVO](https://github.com/BOCOVO) | bocovo | Cotonou, Benin | 4,421 |
+| 8 | [BOCOVO](https://github.com/BOCOVO) | bocovo | Cotonou, Benin | 4,478 |
 | 9 | [Block67](https://github.com/Block67) | Rahamane ₿ODA | Benin, Cotonou | 4,186 |
-| 10 | [ludndev](https://github.com/ludndev) | Judicaël AHYI | Cotonou, Benin | 3,993 |
+| 10 | [ludndev](https://github.com/ludndev) | Judicaël AHYI | Cotonou, Benin | 4,063 |
 | 11 | [iyosayi0x](https://github.com/iyosayi0x) | Iyosayi | Nigeria , Benin  | 3,989 |
 | 12 | [Yoannoza](https://github.com/Yoannoza) | Yoann OZA | Cotonou, Benin | 3,905 |
 | 13 | [Reqima-dev](https://github.com/Reqima-dev) | Abdul A. KONDO | Benin, Cotonou | 3,839 |
@@ -81,6 +81,6 @@ Indexed users: 471
 | 17 | [Augustino127](https://github.com/Augustino127) | Augustino Comlangan | Benin, Cotonou | 79 |
 | 18 | [salimane](https://github.com/salimane) | Salimane Adjao Moustapha | Africa, Benin, Rwanda, Ghana, Kenya, China, Germany | 79 |
 | 19 | [awarris](https://github.com/awarris) | Warris AGBANNONDE | Benin, Cotonou Ganhi | 72 |
-| 20 | [baba-mandef](https://github.com/baba-mandef) | Abiodoun Paraïso | Adjarra, Benin | 72 |
+| 20 | [baba-mandef](https://github.com/baba-mandef) | Abiodoun Paraïso | Adjarra, Benin | 71 |
 
-Generated: 2026-10-14T18:15:23.851Z
+Generated: 2026-10-14T19:51:44.921Z

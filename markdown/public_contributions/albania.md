@@ -1,6 +1,6 @@
 # Public Contributions - Albania
 
-Generated: 2026-10-14T18:08:18.163Z
+Generated: 2026-10-14T19:43:04.998Z
 
 Users: 1184
 
@@ -16,9 +16,9 @@ Users: 1184
 | 8 | [genciiv](https://github.com/genciiv) | G-code | G-code |  | Albania | 1070 |
 | 9 | [ezekaj](https://github.com/ezekaj) | Elvi Zekaj |  |  | Tirana, Albania | 980 |
 | 10 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | CyberSecurity Researcher, Red Team, Bug Hunter | OrgitoRTA | Albania | 914 |
-| 11 | [bredliplaku](https://github.com/bredliplaku) | Bredli |  |  | Albania | 883 |
-| 12 | [ilrexho2011](https://github.com/ilrexho2011) | Ilirjan Rexho | Computer House AL |  | Vlorë, Albania | 784 |
-| 13 | [cyanidium1](https://github.com/cyanidium1) | Fedir |  |  | Durres, Albania | 782 |
+| 11 | [ilrexho2011](https://github.com/ilrexho2011) | Ilirjan Rexho | Computer House AL |  | Vlorë, Albania | 784 |
+| 12 | [cyanidium1](https://github.com/cyanidium1) | Fedir |  |  | Durres, Albania | 782 |
+| 13 | [bredliplaku](https://github.com/bredliplaku) | Bredli |  |  | Albania | 757 |
 | 14 | [alban-hh](https://github.com/alban-hh) | Alban Shermadhi | Abissnet Sha |  | Albania | 733 |
 | 15 | [edythebolman](https://github.com/edythebolman) | Sri Handayani | Dynamic Ventures |  | Tirana, Albania | 729 |
 | 16 | [virvihuta](https://github.com/virvihuta) | Virvi Huta |  |  | Tirana, Albania | 658 |

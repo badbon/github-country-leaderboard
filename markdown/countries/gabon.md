@@ -66,7 +66,7 @@ Indexed users: 315
 | 2 | [davcode92](https://github.com/davcode92) | Davy Methe Nzeng | Gabon | 108 |
 | 3 | [mawuva](https://github.com/mawuva) | Ephraïm SEDDOR | Libreville, Lomé | 85 |
 | 4 | [mendoc](https://github.com/mendoc) | Dimitri ONGOUA | Libreville, Gabon | 65 |
-| 5 | [bonachylauriel](https://github.com/bonachylauriel) | Leyoussi Bonachi Lauriel | Gabon | 63 |
+| 5 | [bonachylauriel](https://github.com/bonachylauriel) | Leyoussi Bonachi Lauriel | Gabon | 62 |
 | 6 | [Djomab](https://github.com/Djomab) | Djogona Mahamat | Gabon | 49 |
 | 7 | [audreymengue](https://github.com/audreymengue) | Audrey Mengue | Libreville, Gabon | 47 |
 | 8 | [stone-hackingod](https://github.com/stone-hackingod) | Bayani Stone | Libreville, Gabon | 41 |
@@ -83,4 +83,4 @@ Indexed users: 315
 | 19 | [Dylan245-droid](https://github.com/Dylan245-droid) | Dylan ONDO | Libreville, Gabon | 22 |
 | 20 | [Marseven](https://github.com/Marseven) | Aristide Mebodo | Libreville | 20 |
 
-Generated: 2026-10-14T18:34:56.009Z
+Generated: 2026-10-14T20:10:38.931Z
