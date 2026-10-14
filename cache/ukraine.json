@@ -20118,9 +20118,9 @@
     "location": "Ukraine",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 92,
-    "publicContributions": 97,
+    "followers": 3,
+    "privateContributions": 88,
+    "publicContributions": 155,
     "createdAt": "2024-07-07T08:44:03Z"
   },
   {
@@ -20131,8 +20131,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 2356,
-    "publicContributions": 285,
+    "privateContributions": 7993,
+    "publicContributions": 614,
     "createdAt": "2024-10-25T21:10:25Z"
   },
   {
@@ -20144,7 +20144,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 14,
     "createdAt": "2024-09-02T07:51:49Z"
   },
   {
@@ -20167,7 +20167,7 @@
     "company": "",
     "twitterUsername": "vldvpn",
     "followers": 2,
-    "privateContributions": 39,
+    "privateContributions": 7,
     "publicContributions": 0,
     "createdAt": "2024-11-25T05:30:07Z"
   },
@@ -20179,8 +20179,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 5,
-    "publicContributions": 182,
+    "privateContributions": 6,
+    "publicContributions": 177,
     "createdAt": "2024-11-28T20:14:53Z"
   },
   {
@@ -20214,9 +20214,9 @@
     "location": "Ukraine, Kyiv",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 162,
+    "publicContributions": 208,
     "createdAt": "2024-12-16T14:39:42Z"
   },
   {
@@ -20232,18 +20232,6 @@
     "createdAt": "2024-11-02T09:39:27Z"
   },
   {
-    "login": "unknownpanic",
-    "name": "Maksym Hrytsiuk",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/180284295?s=72&u=f5cb949c6973406903ab92ab9d03af87fbd474dc&v=4",
-    "location": "Ukraine/Lviv",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 229,
-    "createdAt": "2024-09-03T10:52:59Z"
-  },
-  {
     "login": "romanski-Csharp",
     "name": "Роман Чуб",
     "avatarUrl": "https://avatars.githubusercontent.com/u/189835478?s=72&u=c28804f036c58171db0ab958bd0fb0329303a178&v=4",
@@ -20252,7 +20240,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 152,
+    "publicContributions": 112,
     "createdAt": "2024-11-27T08:05:31Z"
   },
   {
@@ -20263,8 +20251,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 41,
-    "publicContributions": 148,
+    "privateContributions": 40,
+    "publicContributions": 81,
     "createdAt": "2024-09-13T13:06:13Z"
   },
   {
@@ -20276,7 +20264,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 71,
+    "publicContributions": 65,
     "createdAt": "2024-08-15T21:43:03Z"
   },
   {
@@ -20300,7 +20288,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 46,
+    "publicContributions": 0,
     "createdAt": "2024-07-03T04:43:59Z"
   },
   {
@@ -20312,7 +20300,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2024-06-28T15:56:33Z"
   },
   {
@@ -20342,13 +20330,13 @@
   {
     "login": "Dekompilyator",
     "name": "Dekompliyator",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/182208921?s=72&u=85b00079bcb93eaadbd5a3325309a2713762fc5c&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/182208921?s=72&u=5bd4493cace0ce0e4ebb1669198f0b18918d4219&v=4",
     "location": "Ukraine",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 83,
+    "publicContributions": 75,
     "createdAt": "2024-09-20T08:15:24Z"
   },
   {
@@ -573106,5 +573094,65 @@
     "privateContributions": 0,
     "publicContributions": 42,
     "createdAt": "2026-06-22T13:56:11Z"
+  },
+  {
+    "login": "NosferatuOTP",
+    "name": "Oleksandr Halushchak",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/293657291?s=72&u=d19e6962069a979aff48fff92a5e2d6c2c71bd7e&v=4",
+    "location": "Lviv",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-14T18:59:25Z"
+  },
+  {
+    "login": "danyloTol",
+    "name": "Danylo Tolochko",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/293052154?s=72&u=b1a5046d5875849746aecdcb65c46f00e63c66a8&v=4",
+    "location": "Lviv",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 36,
+    "createdAt": "2026-06-12T09:28:11Z"
+  },
+  {
+    "login": "romsvid-hub",
+    "name": "Alien Eyes",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/295917673?s=72&u=a674ea349cdcd0f35accf07f425ef8a0a2ad7377&v=4",
+    "location": "Lviv",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 153,
+    "createdAt": "2026-06-22T16:31:41Z"
+  },
+  {
+    "login": "ThreeTPOTDev",
+    "name": "7TimDev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/286369279?s=72&u=c353852580cd305f1a614bad4210607121a1e400&v=4",
+    "location": "Lviv",
+    "company": "7TimDude Development",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 7,
+    "createdAt": "2026-05-20T14:23:28Z"
+  },
+  {
+    "login": "illiasUK",
+    "name": "Illia Samusiev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/284395800?s=72&u=4442f6d26a2ea5ec81f022cbddf4718273c032e7&v=4",
+    "location": "Lviv",
+    "company": "VIDOM",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-05-13T17:29:19Z"
   }
 ]

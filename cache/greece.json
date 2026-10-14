@@ -20570,13 +20570,13 @@
   {
     "login": "ndionysiadis",
     "name": "Nikolas Dionysiadis",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/136641645?s=72&u=e1944b7e427f21f44eb54ec140765f9a52c7301a&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/136641645?s=72&u=e8d151b6716f5030f2d8f98940ad5bc889e8c659&v=4",
     "location": "Greece",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 11,
-    "publicContributions": 0,
+    "followers": 2,
+    "privateContributions": 73,
+    "publicContributions": 1,
     "createdAt": "2023-06-14T19:14:15Z"
   },
   {
@@ -20587,8 +20587,8 @@
     "company": "National Technical University of Athens",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 45,
-    "publicContributions": 83,
+    "privateContributions": 44,
+    "publicContributions": 38,
     "createdAt": "2023-03-09T10:11:03Z"
   },
   {
@@ -20599,8 +20599,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 646,
-    "publicContributions": 242,
+    "privateContributions": 750,
+    "publicContributions": 379,
     "createdAt": "2023-10-09T12:41:40Z"
   },
   {
@@ -20610,9 +20610,9 @@
     "location": "Greece",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 626,
-    "publicContributions": 48,
+    "followers": 3,
+    "privateContributions": 672,
+    "publicContributions": 49,
     "createdAt": "2023-05-21T16:44:25Z"
   },
   {
@@ -20660,19 +20660,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 52,
+    "publicContributions": 47,
     "createdAt": "2023-05-16T14:01:33Z"
   },
   {
     "login": "GiorgosKots",
     "name": "Giorgos Kotsopoulos",
     "avatarUrl": "https://avatars.githubusercontent.com/u/133270207?s=72&u=88454f4b4fea4d615c5f236d50f5c94948bc4c40&v=4",
-    "location": "Heraklion, Crete, Greece",
+    "location": "Athens, Attica, Greece",
     "company": "Signal Processing Laboratory, ICS, FORTH",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 45,
+    "publicContributions": 5,
     "createdAt": "2023-05-11T19:49:26Z"
   },
   {
@@ -20708,7 +20708,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 15,
     "createdAt": "2023-03-28T06:05:27Z"
   },
   {
@@ -20732,7 +20732,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 0,
     "createdAt": "2023-09-12T12:44:31Z"
   },
   {

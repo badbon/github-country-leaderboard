@@ -20696,7 +20696,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 4,
     "createdAt": "2019-11-20T15:03:52Z"
   },
   {
@@ -20720,7 +20720,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 3,
     "createdAt": "2019-12-09T00:59:06Z"
   },
   {
@@ -20778,7 +20778,7 @@
     "location": "Dominican Republic",
     "company": "Stemelle",
     "twitterUsername": "LeomarisReyes11",
-    "followers": 562,
+    "followers": 565,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-01-29T23:35:47Z"
@@ -20791,8 +20791,8 @@
     "company": "",
     "twitterUsername": "alhidalgodev",
     "followers": 154,
-    "privateContributions": 3394,
-    "publicContributions": 64,
+    "privateContributions": 3427,
+    "publicContributions": 47,
     "createdAt": "2018-01-10T19:41:58Z"
   },
   {
@@ -20802,9 +20802,9 @@
     "location": "Dominican Republic",
     "company": "@MakeContributions ",
     "twitterUsername": "",
-    "followers": 105,
-    "privateContributions": 371,
-    "publicContributions": 47,
+    "followers": 109,
+    "privateContributions": 370,
+    "publicContributions": 66,
     "createdAt": "2018-03-29T03:12:10Z"
   },
   {
@@ -20815,8 +20815,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 100,
-    "privateContributions": 185,
-    "publicContributions": 987,
+    "privateContributions": 157,
+    "publicContributions": 1055,
     "createdAt": "2018-08-19T18:32:54Z"
   },
   {
@@ -20826,33 +20826,21 @@
     "location": "Puerto Plata, Dominican Republic",
     "company": "Dovinet",
     "twitterUsername": "",
-    "followers": 67,
+    "followers": 48,
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2018-12-14T18:12:50Z"
-  },
-  {
-    "login": "danielsantoslgo",
-    "name": "Daniel Lugo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/43867229?s=72&u=f0e1d8e9af65080dd0f5da716fbd9b7fc10b0450&v=4",
-    "location": "Dominican Republic",
-    "company": "One Cloud Chad",
-    "twitterUsername": "DeLosSantosLugo",
-    "followers": 62,
-    "privateContributions": 0,
-    "publicContributions": 4,
-    "createdAt": "2018-10-05T00:21:21Z"
   },
   {
     "login": "gerzonc",
     "name": "Gerzon Z.",
     "avatarUrl": "https://avatars.githubusercontent.com/u/36211892?s=72&u=a0dd7dacfbdba86951bcf77c4fcf6a02090527c2&v=4",
     "location": "Dominican Republic",
-    "company": "",
+    "company": "MathGPT",
     "twitterUsername": "gerzonzc",
     "followers": 44,
-    "privateContributions": 525,
-    "publicContributions": 9,
+    "privateContributions": 542,
+    "publicContributions": 4,
     "createdAt": "2018-02-06T22:56:24Z"
   },
   {
@@ -20862,9 +20850,9 @@
     "location": "Dominican Republic",
     "company": "DevTeams",
     "twitterUsername": "",
-    "followers": 41,
+    "followers": 42,
     "privateContributions": 0,
-    "publicContributions": 69,
+    "publicContributions": 68,
     "createdAt": "2018-04-09T21:09:27Z"
   },
   {
@@ -20874,8 +20862,8 @@
     "location": "Cutupu, La Vega, Dominican Republic",
     "company": "",
     "twitterUsername": "brito_edward11",
-    "followers": 41,
-    "privateContributions": 345,
+    "followers": 39,
+    "privateContributions": 310,
     "publicContributions": 3,
     "createdAt": "2018-03-08T14:06:02Z"
   },
@@ -20886,8 +20874,8 @@
     "location": "Dominican Republic",
     "company": "Freelance Full-stack Developer",
     "twitterUsername": "",
-    "followers": 41,
-    "privateContributions": 3098,
+    "followers": 40,
+    "privateContributions": 3234,
     "publicContributions": 1,
     "createdAt": "2018-10-03T02:03:25Z"
   },
@@ -20898,9 +20886,9 @@
     "location": "Santo Domingo, Dominican Republic",
     "company": "",
     "twitterUsername": "",
-    "followers": 33,
-    "privateContributions": 255,
-    "publicContributions": 68,
+    "followers": 34,
+    "privateContributions": 311,
+    "publicContributions": 71,
     "createdAt": "2018-03-27T02:26:33Z"
   },
   {
@@ -20910,21 +20898,21 @@
     "location": "Dominican Republic ",
     "company": "",
     "twitterUsername": "MAIKOL21703434",
-    "followers": 33,
+    "followers": 34,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 21,
     "createdAt": "2018-08-06T19:21:21Z"
   },
   {
     "login": "david-lafontant",
     "name": "David Lafontant",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/39683557?s=72&u=7e63574837908cf168c3087907c544cbd09c4f73&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/39683557?s=72&u=28bd68276ce0010822ae643cf769de6991d5793a&v=4",
     "location": "Santiago De Los Caballeros, Dominican Republic",
     "company": "David Lafontant Consulting",
     "twitterUsername": "manikatex",
-    "followers": 33,
+    "followers": 32,
     "privateContributions": 0,
-    "publicContributions": 538,
+    "publicContributions": 621,
     "createdAt": "2018-05-28T01:09:17Z"
   },
   {

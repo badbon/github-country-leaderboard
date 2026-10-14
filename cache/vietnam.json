@@ -19868,7 +19868,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 6,
     "createdAt": "2024-10-15T14:46:50Z"
   },
   {
@@ -19891,8 +19891,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 1,
-    "publicContributions": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
     "createdAt": "2024-02-06T03:31:27Z"
   },
   {
@@ -19914,8 +19914,8 @@
     "location": "Ho Chi Minh, Viet Nam",
     "company": "https://github.com/c0x12c",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 1873,
+    "followers": 4,
+    "privateContributions": 1912,
     "publicContributions": 10,
     "createdAt": "2024-07-15T04:20:27Z"
   },
@@ -19926,9 +19926,9 @@
     "location": "Ho Chi Minh , Viet Nam",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 131,
+    "publicContributions": 105,
     "createdAt": "2024-01-31T03:05:36Z"
   },
   {
@@ -19939,20 +19939,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 736,
-    "publicContributions": 610,
+    "privateContributions": 719,
+    "publicContributions": 627,
     "createdAt": "2024-06-02T10:13:57Z"
   },
   {
     "login": "HuyPham235711",
-    "name": "Huy Pham",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/171552418?s=72&u=ab0fe5b858979cd9317b782e7b0d8edd12625ec4&v=4",
+    "name": "w1sh",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/171552418?s=72&u=033058367778ab82d2298dd12981272ba828b2be&v=4",
     "location": "Viet Nam",
     "company": "",
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 65,
+    "publicContributions": 21,
     "createdAt": "2024-06-03T08:13:54Z"
   },
   {
@@ -19964,7 +19964,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 255,
+    "publicContributions": 239,
     "createdAt": "2024-01-15T04:29:39Z"
   },
   {
@@ -19974,9 +19974,9 @@
     "location": "Viet Nam | Ho Chi Minh City",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 189,
-    "publicContributions": 767,
+    "publicContributions": 605,
     "createdAt": "2024-01-02T04:54:41Z"
   },
   {
@@ -20010,9 +20010,9 @@
     "location": "Di An District, Binh Duong Province, Viet Nam",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 61,
+    "publicContributions": 76,
     "createdAt": "2024-09-17T10:45:58Z"
   },
   {
@@ -20036,7 +20036,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 178,
+    "publicContributions": 175,
     "createdAt": "2024-07-05T01:15:45Z"
   },
   {
@@ -20054,26 +20054,14 @@
   {
     "login": "manhquynh0",
     "name": "manhquynhdev",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/167176471?s=72&u=6e5220767d45462f44b68f67fcd5e1eec7c7141b&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/167176471?s=72&v=4",
     "location": "HA NOI, VIET NAM",
     "company": "",
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 176,
+    "publicContributions": 261,
     "createdAt": "2024-04-16T07:32:42Z"
-  },
-  {
-    "login": "HuyCongDev05",
-    "name": "Huy Công",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/161149997?s=72&u=58bbbc7e5877a3a4ef9c8c7ffa3559814cbb7e51&v=4",
-    "location": "Viet Nam",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 275,
-    "publicContributions": 218,
-    "createdAt": "2024-02-24T16:31:55Z"
   },
   {
     "login": "LySyaoran",
@@ -20084,7 +20072,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 113,
+    "publicContributions": 122,
     "createdAt": "2024-02-24T04:29:01Z"
   },
   {
@@ -20095,8 +20083,8 @@
     "company": "Trường Đại học Công nghệ thông tin - ĐHQG TPHCM",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 79,
-    "publicContributions": 353,
+    "privateContributions": 32,
+    "publicContributions": 347,
     "createdAt": "2024-09-14T13:17:59Z"
   },
   {

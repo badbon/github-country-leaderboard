@@ -20552,7 +20552,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 236,
+    "publicContributions": 213,
     "createdAt": "2023-11-08T18:06:55Z"
   },
   {
@@ -20576,7 +20576,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2023-11-19T17:17:16Z"
   },
   {
@@ -20624,7 +20624,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 90,
+    "publicContributions": 73,
     "createdAt": "2023-03-28T10:06:13Z"
   },
   {
@@ -20646,9 +20646,9 @@
     "location": "Vienna",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 35,
+    "publicContributions": 11,
     "createdAt": "2023-07-24T07:40:03Z"
   },
   {
@@ -20670,9 +20670,9 @@
     "location": "Vienna",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 18,
+    "followers": 3,
+    "privateContributions": 73,
+    "publicContributions": 16,
     "createdAt": "2023-07-27T13:55:24Z"
   },
   {
@@ -20696,7 +20696,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 484,
+    "publicContributions": 725,
     "createdAt": "2023-11-14T16:22:30Z"
   },
   {
@@ -20708,7 +20708,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 48,
+    "publicContributions": 17,
     "createdAt": "2023-01-03T11:00:57Z"
   },
   {
@@ -20720,20 +20720,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 37,
+    "publicContributions": 0,
     "createdAt": "2023-04-04T06:36:47Z"
-  },
-  {
-    "login": "schroederm-swc",
-    "name": "Martin Schröder",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/126688357?s=72&u=11b4b3e2cf89b74123b5935d1c602e3ac96375fa&v=4",
-    "location": "Vienna",
-    "company": "Graphwise",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 222,
-    "publicContributions": 12,
-    "createdAt": "2023-03-01T14:10:43Z"
   },
   {
     "login": "snehal-shekatkar",

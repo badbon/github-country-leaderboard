@@ -19592,7 +19592,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 30,
+    "publicContributions": 22,
     "createdAt": "2024-08-22T19:02:13Z"
   },
   {
@@ -19602,9 +19602,9 @@
     "location": "Helsingborg, Sweden",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 120,
-    "publicContributions": 72,
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 47,
     "createdAt": "2024-01-25T08:48:44Z"
   },
   {
@@ -19614,22 +19614,10 @@
     "location": "Sweden",
     "company": "Oldways Studios AB",
     "twitterUsername": "Mimirowa_AB",
-    "followers": 1,
-    "privateContributions": 1696,
-    "publicContributions": 13,
+    "followers": 2,
+    "privateContributions": 83,
+    "publicContributions": 11,
     "createdAt": "2024-05-14T19:05:27Z"
-  },
-  {
-    "login": "JonasOdevo",
-    "name": "Jonas Eriksson",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/179107994?s=72&v=4",
-    "location": "Sweden",
-    "company": "@Odevo-dev",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 10769,
-    "publicContributions": 0,
-    "createdAt": "2024-08-22T07:09:55Z"
   },
   {
     "login": "MohaSY-07",
@@ -19640,7 +19628,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 74,
+    "publicContributions": 58,
     "createdAt": "2024-05-09T20:38:28Z"
   },
   {
@@ -19663,7 +19651,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 150,
+    "privateContributions": 161,
     "publicContributions": 37,
     "createdAt": "2024-04-17T05:30:46Z"
   },
@@ -19688,7 +19676,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 368,
+    "publicContributions": 478,
     "createdAt": "2024-10-31T15:47:39Z"
   },
   {
@@ -19699,8 +19687,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 963,
-    "publicContributions": 198,
+    "privateContributions": 1116,
+    "publicContributions": 202,
     "createdAt": "2024-08-27T14:14:01Z"
   },
   {
@@ -19724,19 +19712,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 14322,
+    "publicContributions": 10803,
     "createdAt": "2024-03-26T11:43:50Z"
   },
   {
     "login": "morganlindbom",
     "name": "Morgan Lindbom",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/155242351?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/155242351?s=72&u=78d0ade04575eb0c7711dcdc466a82846a8519e1&v=4",
     "location": "Sweden",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 48,
-    "publicContributions": 167,
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 221,
     "createdAt": "2023-12-30T14:10:21Z"
   },
   {
@@ -19746,9 +19734,9 @@
     "location": "Stockholm, Sweden",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2024-06-27T14:54:57Z"
   },
   {
@@ -19760,7 +19748,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 32,
+    "publicContributions": 30,
     "createdAt": "2024-01-07T00:49:52Z"
   },
   {
@@ -19783,8 +19771,8 @@
     "company": "University of Gothenburg",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 90,
-    "publicContributions": 2,
+    "privateContributions": 94,
+    "publicContributions": 0,
     "createdAt": "2024-10-03T08:31:41Z"
   },
   {

@@ -20168,7 +20168,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 85,
-    "publicContributions": 68,
+    "publicContributions": 79,
     "createdAt": "2020-10-10T18:19:44Z"
   },
   {
@@ -20191,8 +20191,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 437,
-    "publicContributions": 67,
+    "privateContributions": 552,
+    "publicContributions": 102,
     "createdAt": "2020-06-16T09:43:22Z"
   },
   {
@@ -20204,7 +20204,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 64,
+    "publicContributions": 53,
     "createdAt": "2020-01-15T14:51:26Z"
   },
   {
@@ -20216,7 +20216,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 35,
-    "publicContributions": 22,
+    "publicContributions": 9,
     "createdAt": "2020-04-03T11:55:23Z"
   },
   {
@@ -20263,21 +20263,9 @@
     "company": "Freelancer",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 474,
-    "publicContributions": 32,
+    "privateContributions": 542,
+    "publicContributions": 35,
     "createdAt": "2020-05-31T04:52:12Z"
-  },
-  {
-    "login": "crysecurity",
-    "name": "Cry Security",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/61580789?s=72&u=e965bed3850ef15c6cc4f0ffc6e0d01f303057c7&v=4",
-    "location": "Dubai, United Arab emirates",
-    "company": "Genie Map",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2020-02-28T09:16:15Z"
   },
   {
     "login": "LowPea",
@@ -20294,13 +20282,13 @@
   {
     "login": "Desouki27",
     "name": "Mohamed Desouki",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/73227945?s=72&u=07e09294363bf5d05ac3be47939400c3f869eac1&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/73227945?s=72&u=399c7f4ff3bb55d3bcf8bf1bbf6a51131f4bd06a&v=4",
     "location": "Dubai, United Arab Emirates",
     "company": "Deloitte",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 540,
-    "publicContributions": 30,
+    "privateContributions": 12839,
+    "publicContributions": 67,
     "createdAt": "2020-10-21T10:30:43Z"
   },
   {
@@ -20360,7 +20348,7 @@
     "twitterUsername": "itssaeed5",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 0,
     "createdAt": "2020-08-15T12:02:27Z"
   },
   {
@@ -20371,8 +20359,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 2944,
-    "publicContributions": 333,
+    "privateContributions": 3715,
+    "publicContributions": 318,
     "createdAt": "2020-04-12T17:40:01Z"
   },
   {
@@ -20383,8 +20371,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 349,
-    "publicContributions": 13,
+    "privateContributions": 342,
+    "publicContributions": 2,
     "createdAt": "2020-07-16T14:43:57Z"
   },
   {
@@ -50746,5 +50734,29 @@
     "privateContributions": 0,
     "publicContributions": 20,
     "createdAt": "2022-10-11T14:43:02Z"
+  },
+  {
+    "login": "ViqidoVe20",
+    "name": "Bento Arribas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298477972?s=72&v=4",
+    "location": "United Arab Emirates",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2026-06-30T23:20:37Z"
+  },
+  {
+    "login": "HemevoGada0",
+    "name": "Lucila Ruiz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298475624?s=72&v=4",
+    "location": "Lemland, United Arab Emirates",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2026-06-30T23:11:15Z"
   }
 ]
