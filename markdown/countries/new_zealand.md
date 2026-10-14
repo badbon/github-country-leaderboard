@@ -66,7 +66,7 @@ Indexed users: 12,154
 | 2 | [dominictarr](https://github.com/dominictarr) | Dominic Tarr | New Zealand | 3,709 |
 | 3 | [RichardLitt](https://github.com/RichardLitt) | Richard Littauer | Pōneke Wellington, Aotearoa New Zealand | 3,304 |
 | 4 | [Jason-Cooke](https://github.com/Jason-Cooke) | Jason Cooke | Auckland, New Zealand | 2,254 |
-| 5 | [jamezmca](https://github.com/jamezmca) | James | Auckland, New Zealand | 2,216 |
+| 5 | [jamezmca](https://github.com/jamezmca) | James | Auckland, New Zealand | 2,224 |
 | 6 | [kauer3](https://github.com/kauer3) | Kauê Reis | New Zealand | 1,961 |
 | 7 | [Arachnid](https://github.com/Arachnid) | Nick Johnson | Christchurch, New Zealand | 1,765 |
 | 8 | [yangzhongke](https://github.com/yangzhongke) | 杨中科 | Wellington, New Zealand | 1,646 |
@@ -76,11 +76,11 @@ Indexed users: 12,154
 | 12 | [lachlan2k](https://github.com/lachlan2k) | Lachlan Davidson | Auckland, New Zealand | 1,412 |
 | 13 | [urbanadventurer](https://github.com/urbanadventurer) | Andrew Horton | New Zealand | 1,249 |
 | 14 | [sivers](https://github.com/sivers) | Derek Sivers | New Zealand | 1,215 |
-| 15 | [memN0ps](https://github.com/memN0ps) |  | New Zealand | 1,193 |
+| 15 | [memN0ps](https://github.com/memN0ps) |  | New Zealand | 1,214 |
 | 16 | [benhoyt](https://github.com/benhoyt) | Ben Hoyt | Christchurch, New Zealand | 1,070 |
 | 17 | [nathanpeck](https://github.com/nathanpeck) | Nathan Peck | Auckland, New Zealand | 1,066 |
 | 18 | [curiouskiwi](https://github.com/curiouskiwi) | Brenda Anderson | Masterton, New Zealand | 1,023 |
 | 19 | [cortesi](https://github.com/cortesi) | Aldo Cortesi | Dunedin, New Zealand | 1,019 |
 | 20 | [patevs](https://github.com/patevs) | Pat | New Zealand | 917 |
 
-Generated: 2026-10-14T00:23:44.382Z
+Generated: 2026-10-14T01:53:45.162Z

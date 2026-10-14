@@ -13,8 +13,8 @@ Indexed users: 799
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [mshll](https://github.com/mshll) | meshal | Kuwait | 7,564 |
-| 2 | [ghaith99](https://github.com/ghaith99) |  | Kuwait | 6,805 |
-| 3 | [buaziz](https://github.com/buaziz) | Buaziz | Kuwait | 6,794 |
+| 2 | [buaziz](https://github.com/buaziz) | Buaziz | Kuwait | 7,028 |
+| 3 | [ghaith99](https://github.com/ghaith99) |  | Kuwait | 6,805 |
 | 4 | [uusa35](https://github.com/uusa35) | Usama.Ahmed | kuwait | 6,344 |
 | 5 | [BAWES](https://github.com/BAWES) | Khalid Al-Mutawa | Kuwait | 6,320 |
 | 6 | [drhema](https://github.com/drhema) | Ibrahim Elsherbiny | Kuwait | 6,108 |
@@ -25,7 +25,7 @@ Indexed users: 799
 | 11 | [Mubder](https://github.com/Mubder) | Mubder Alfaris | Kuwait | 4,181 |
 | 12 | [knro](https://github.com/knro) | Jasem Mutlaq | Kuwait | 4,089 |
 | 13 | [careless10](https://github.com/careless10) | Menawer | Kuwait | 3,839 |
-| 14 | [Mazyod](https://github.com/Mazyod) | Maz | Kuwait | 3,660 |
+| 14 | [Mazyod](https://github.com/Mazyod) | Maz | Kuwait | 3,794 |
 | 15 | [mulaifi](https://github.com/mulaifi) | Salem Almulaifi | Kuwait | 3,643 |
 | 16 | [iZaL](https://github.com/iZaL) | Afzal Abbas | Kuwait | 3,570 |
 | 17 | [DiNaSoR](https://github.com/DiNaSoR) | BuYousef | Kuwait | 3,506 |
@@ -49,7 +49,7 @@ Indexed users: 799
 | 10 | [Mubder](https://github.com/Mubder) | Mubder Alfaris | Kuwait | 1,334 |
 | 11 | [knro](https://github.com/knro) | Jasem Mutlaq | Kuwait | 941 |
 | 12 | [usamahklair](https://github.com/usamahklair) | Usamah Klair | Kuwait | 824 |
-| 13 | [Mazyod](https://github.com/Mazyod) | Maz | Kuwait | 623 |
+| 13 | [Mazyod](https://github.com/Mazyod) | Maz | Kuwait | 628 |
 | 14 | [azikar24](https://github.com/azikar24) | Abdulaziz Karam | Kuwait | 610 |
 | 15 | [fibonacci61](https://github.com/fibonacci61) | Faisal Malallah | Kuwait | 545 |
 | 16 | [agatho-daemon](https://github.com/agatho-daemon) | Agathodaemon | Kuwait | 532 |
@@ -80,7 +80,7 @@ Indexed users: 799
 | 16 | [kuwaitbinary](https://github.com/kuwaitbinary) | Abdullah Al Mashmoum | Kuwait | 91 |
 | 17 | [DiNaSoR](https://github.com/DiNaSoR) | BuYousef | Kuwait | 90 |
 | 18 | [AlanBennyOfficial](https://github.com/AlanBennyOfficial) | Alan Benny | Kuwait | 89 |
-| 19 | [MoathOthman](https://github.com/MoathOthman) | Moath othman | Kuwait | 84 |
+| 19 | [MoathOthman](https://github.com/MoathOthman) | Moath othman | Kuwait | 85 |
 | 20 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Kuwait | 81 |
 
-Generated: 2026-10-14T00:08:28.547Z
+Generated: 2026-10-14T01:40:47.970Z

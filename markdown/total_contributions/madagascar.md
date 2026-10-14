@@ -1,6 +1,6 @@
 # Total Contributions - Madagascar
 
-Generated: 2026-10-14T00:13:37.712Z
+Generated: 2026-10-14T01:44:29.961Z
 
 Users: 1906
 
@@ -9,10 +9,10 @@ Users: 1906
 | 1 | [marioshaya](https://github.com/marioshaya) | Mario SHAYA |  | marioshaya | Antananarivo, Madagascar | 15673 |
 | 2 | [mgcodeur](https://github.com/mgcodeur) | Jimmy Raphaël (Iharena) | Paneramg, Mgcodeur | mgcodeur | Madagascar | 15245 |
 | 3 | [rajostelly](https://github.com/rajostelly) | RANDRIATSEHENO Rajo Stelly  |  |  | Madagascar | 14715 |
-| 4 | [tiavina-mika](https://github.com/tiavina-mika) | Tiavina Michael Ralainirina | Freelance |  | Antananarivo, Madagascar | 14427 |
+| 4 | [tiavina-mika](https://github.com/tiavina-mika) | Tiavina Michael Ralainirina | Freelance |  | Antananarivo, Madagascar | 11993 |
 | 5 | [elsycharles](https://github.com/elsycharles) | Elsy | IT University |  | Madagascar | 10457 |
 | 6 | [EdouardoRabe](https://github.com/EdouardoRabe) |  |  |  | Madagascar | 9932 |
-| 7 | [Xpirix](https://github.com/Xpirix) | Lova Andriarimalala |  | Xpirix3 | Madagascar | 7608 |
+| 7 | [Xpirix](https://github.com/Xpirix) | Lova Andriarimalala |  | Xpirix3 | Madagascar | 9440 |
 | 8 | [josoavj](https://github.com/josoavj) | Josoa Vonjiniaina | @APEXNovaLabs  | j_Josoa | Antananarivo, Madagascar | 7594 |
 | 9 | [TantelyRandriamazaoro](https://github.com/TantelyRandriamazaoro) | Tantely Randriamazaoro | Mazaoro SARLU |  | Madagascar | 6553 |
 | 10 | [titamrtn](https://github.com/titamrtn) | RAJAONAH Nandrianina |  |  | Antananarivo, Madagascar | 6242 |

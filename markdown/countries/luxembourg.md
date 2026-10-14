@@ -1,6 +1,6 @@
 # Luxembourg
 
-Indexed users: 2,194
+Indexed users: 2,193
 
 | Leaderboard | Link |
 |---|---|
@@ -48,7 +48,7 @@ Indexed users: 2,194
 | 9 | [ArmenSl](https://github.com/ArmenSl) | ArmenSL | Luxembourg | 3,193 |
 | 10 | [Sashimee](https://github.com/Sashimee) | Alex | Luxembourg | 2,255 |
 | 11 | [nicolasguelfi](https://github.com/nicolasguelfi) | Nicolas Guelfi | Esch-sur-Alzette, Luxembourg | 2,220 |
-| 12 | [PhilippeChepy](https://github.com/PhilippeChepy) | Philippe Chepy | Luxembourg | 1,936 |
+| 12 | [PhilippeChepy](https://github.com/PhilippeChepy) | Philippe Chepy | Luxembourg | 2,121 |
 | 13 | [danielesomensi-cmd](https://github.com/danielesomensi-cmd) | Daniele Somensi | Luxembourg | 1,901 |
 | 14 | [mike-ionut-mihai-sandu-tao](https://github.com/mike-ionut-mihai-sandu-tao) | Ionut Mihai Sandu | Luxembourg | 1,861 |
 | 15 | [iglocska](https://github.com/iglocska) | Andras Iklody | Luxembourg | 1,806 |
@@ -83,4 +83,4 @@ Indexed users: 2,194
 | 19 | [l4rz](https://github.com/l4rz) | Mike K. | Luxembourg | 197 |
 | 20 | [urosolia](https://github.com/urosolia) | Ugo Rosolia | Luxembourg, Lux | 192 |
 
-Generated: 2026-10-14T00:12:23.392Z
+Generated: 2026-10-14T01:43:58.293Z

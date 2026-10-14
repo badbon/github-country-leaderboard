@@ -1,6 +1,6 @@
 # Public Contributions - Puerto Rico
 
-Generated: 2026-10-14T00:29:47.223Z
+Generated: 2026-10-14T02:00:45.444Z
 
 Users: 1536
 
@@ -10,7 +10,7 @@ Users: 1536
 | 2 | [RhettCreighton](https://github.com/RhettCreighton) | Rhett Creighton | @RhettCreighton |  | San Juan, Puerto Rico | 12316 |
 | 3 | [bpamiri](https://github.com/bpamiri) | Peter Amiri |  |  | San Juan Capistrano, CA | 9824 |
 | 4 | [brettheap](https://github.com/brettheap) | Brett Heap | Opensoft, Inc |  | Puerto Rico | 6739 |
-| 5 | [egmtm](https://github.com/egmtm) | EGM™ |  | EGMDownloader | Puerto Rico | 5334 |
+| 5 | [egmtm](https://github.com/egmtm) | EGM™ |  | EGMDownloader | Puerto Rico | 5872 |
 | 6 | [Wolfkid200444](https://github.com/Wolfkid200444) | Wolfie | @FutureDeveloperZ   | RealWolfkid | Puerto Rico | 4798 |
 | 7 | [edwardlthompson](https://github.com/edwardlthompson) | Edward Thompson |  |  | Puerto Rico | 3411 |
 | 8 | [rnegron](https://github.com/rnegron) | Raúl Negrón-Otero | @PostHog |  | Bayamón, Puerto Rico | 3100 |
@@ -20,9 +20,9 @@ Users: 1536
 | 12 | [jgravois](https://github.com/jgravois) | john gravois | @compilerla |  | san juan capo, ca | 1960 |
 | 13 | [ricardojuanmorales](https://github.com/ricardojuanmorales) | Ricardo Juan Morales De Jesús |  |  | San Juan, Puerto Rico | 1331 |
 | 14 | [eresfavolosx](https://github.com/eresfavolosx) | Fabián Vélez Vicente | @LinkPR |  | Guaynabo, Puerto Rico | 1306 |
-| 15 | [drosadocastro-bit](https://github.com/drosadocastro-bit) | Danny Rosado Castro (Drakus) | Nova Labs Research |  | Puerto Rico | 1140 |
+| 15 | [drosadocastro-bit](https://github.com/drosadocastro-bit) | Danny Rosado Castro (Drakus) | Nova Labs Research |  | Puerto Rico | 1149 |
 | 16 | [Jaxelr](https://github.com/Jaxelr) | Jaxel Rojas Lopez | @Microsoft | jaxelr | San Juan, Puerto Rico | 1096 |
-| 17 | [CristianAce05](https://github.com/CristianAce05) | Cristian Acevedo | Holberton Coding School |  | Puerto Rico | 1089 |
-| 18 | [MicaelVR04](https://github.com/MicaelVR04) | Micael Velez Rodriguez |  |  | Puerto Rico | 1058 |
-| 19 | [marcosstgo](https://github.com/marcosstgo) | Marcos Santiago |  | Marc0sSantiago | Puerto Rico | 988 |
-| 20 | [Bryan-tech-coder](https://github.com/Bryan-tech-coder) | Bryan Ramos |  |  | Puerto Rico | 946 |
+| 17 | [MicaelVR04](https://github.com/MicaelVR04) | Micael Velez Rodriguez |  |  | Puerto Rico | 1055 |
+| 18 | [marcosstgo](https://github.com/marcosstgo) | Marcos Santiago |  | Marc0sSantiago | Puerto Rico | 988 |
+| 19 | [CristianAce05](https://github.com/CristianAce05) | Cristian Acevedo | Holberton Coding School |  | Puerto Rico | 984 |
+| 20 | [jSantiago318](https://github.com/jSantiago318) | Joshua SI | San Juan |  | Puerto Rico | 943 |

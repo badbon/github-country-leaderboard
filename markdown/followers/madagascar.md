@@ -1,6 +1,6 @@
 # Followers - Madagascar
 
-Generated: 2026-10-14T00:13:37.712Z
+Generated: 2026-10-14T01:44:29.961Z
 
 Users: 1906
 
@@ -19,10 +19,10 @@ Users: 1906
 | 11 | [NajoroRabiaza](https://github.com/NajoroRabiaza) | Amboara RAJAONARILALA |  |  | Antananarivo - MADAGASCAR | 175 |
 | 12 | [RajaRakoto](https://github.com/RajaRakoto) | Raja Rakotonirina |  |  | Antananarivo Madagascar | 171 |
 | 13 | [dario208](https://github.com/dario208) | TSIAHOUA Feno Dario Dasylva | @iTeam-S |  | Antananarivo - Madagascar | 165 |
-| 14 | [gaetan1903](https://github.com/gaetan1903) | Gaetan Jonathan BAKARY | @iTeam-S |  | Toamasina, Madagascar | 164 |
-| 15 | [Ryuka25](https://github.com/Ryuka25) | Lovanirina |  | lovanirina_r | Madagascar, Antananarivo | 158 |
-| 16 | [DMikaia](https://github.com/DMikaia) | Daniel Mikaia |  |  | Antananarivo, Madagascar | 149 |
-| 17 | [LizkaRyan](https://github.com/LizkaRyan) | Ryan |  |  | Antananarivo, Madagascar | 145 |
-| 18 | [valisoa01](https://github.com/valisoa01) | Valisoa Tolotriniaina | HEI |  | Antananarivo | 145 |
-| 19 | [Mickaellah](https://github.com/Mickaellah) | Clopedia Nomenjanahary | Onja |  | Toamasina, Madagascar | 144 |
-| 20 | [tokyramarozaka](https://github.com/tokyramarozaka) | Tokimahery |  |  | Madagascar | 143 |
+| 14 | [gaetan1903](https://github.com/gaetan1903) | Gaetan Jonathan BAKARY | @iTeam-S |  | Toamasina, Madagascar | 163 |
+| 15 | [DMikaia](https://github.com/DMikaia) | Daniel Mikaia |  |  | Antananarivo, Madagascar | 149 |
+| 16 | [LizkaRyan](https://github.com/LizkaRyan) | Ryan |  |  | Antananarivo, Madagascar | 145 |
+| 17 | [valisoa01](https://github.com/valisoa01) | Valisoa Tolotriniaina | HEI |  | Antananarivo | 145 |
+| 18 | [Mickaellah](https://github.com/Mickaellah) | Clopedia Nomenjanahary | Onja |  | Toamasina, Madagascar | 144 |
+| 19 | [tokyramarozaka](https://github.com/tokyramarozaka) | Tokimahery |  |  | Madagascar | 143 |
+| 20 | [luckasRanarison](https://github.com/luckasRanarison) | Luckas | @voxalfa |  | Antananarivo, Madagascar | 140 |

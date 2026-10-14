@@ -1,6 +1,6 @@
 # Followers - Lesotho
 
-Generated: 2026-10-14T00:10:33.353Z
+Generated: 2026-10-14T01:42:04.279Z
 
 Users: 160
 
@@ -12,7 +12,7 @@ Users: 160
 | 4 | [hitman1c](https://github.com/hitman1c) | SechabaLaptopTracker | SechabaLaptopTracker |  | Lesotho,Maseru | 61 |
 | 5 | [Tumisangkhabisi](https://github.com/Tumisangkhabisi) | Tumisang khabisi |  | khabisixivk | Lesotho, maseru | 54 |
 | 6 | [Lemohang](https://github.com/Lemohang) | Lemohang57 |  |  | Maseru  | 44 |
-| 7 | [khauta](https://github.com/khauta) | Khauta Maliehe | @Liparola  | kjamaliehe | Maseru, Lesotho | 41 |
+| 7 | [khauta](https://github.com/khauta) | Khauta Maliehe | @Liparola  | kjamaliehe | Maseru, Lesotho | 42 |
 | 8 | [khobatha](https://github.com/khobatha) | Khobatha Setetemela | NUL |  | Maseru, Roma, Lesotho | 38 |
 | 9 | [AtomLaw](https://github.com/AtomLaw) | Hlompho | Private |  | Lesotho | 31 |
 | 10 | [ntholi](https://github.com/ntholi) | Ntholi Nkhatho | Limkokwing University | ntholi | Maseru | 29 |
@@ -22,7 +22,7 @@ Users: 160
 | 14 | [mokaty1818795](https://github.com/mokaty1818795) | Tlotliso Mokati | Eazy Tech Solutions |  | Maseru Qoaling | 15 |
 | 15 | [Bothata-desig](https://github.com/Bothata-desig) | Bothata Sello |  |  | Maseru, Lesotho | 14 |
 | 16 | [KNkoe](https://github.com/KNkoe) | Katleho Nkoe | Ducens PTY LTD |  | Maseru | 14 |
-| 17 | [lotesm](https://github.com/lotesm) | Lotes Molapo | Bethord Solutions |  | Maseru, Lesotho | 14 |
-| 18 | [Thomello](https://github.com/Thomello) | Thomello |  |  | Maseru, Lesotho | 14 |
-| 19 | [bonzysalesman](https://github.com/bonzysalesman) | Bonzy Salesman | Weblesotho Networks |  | Maseru | 13 |
+| 17 | [Thomello](https://github.com/Thomello) | Thomello |  |  | Maseru, Lesotho | 14 |
+| 18 | [bonzysalesman](https://github.com/bonzysalesman) | Bonzy Salesman | Weblesotho Networks |  | Maseru | 13 |
+| 19 | [lotesm](https://github.com/lotesm) | Lotes Molapo | Bethord Solutions |  | Maseru, Lesotho | 13 |
 | 20 | [entsoereng](https://github.com/entsoereng) | Mokonyana Ntsoereng |  |  | Lesotho | 12 |

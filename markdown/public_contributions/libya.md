@@ -1,6 +1,6 @@
 # Public Contributions - Libya
 
-Generated: 2026-10-14T00:12:13.940Z
+Generated: 2026-10-14T01:42:42.667Z
 
 Users: 742
 
@@ -25,4 +25,4 @@ Users: 742
 | 17 | [Tellesy](https://github.com/Tellesy) | blueMu | @Ethaq  |  | Tripoli, Libya | 360 |
 | 18 | [Nojaid-Ad](https://github.com/Nojaid-Ad) |  |  |  | Tripoli | 357 |
 | 19 | [torgodly](https://github.com/torgodly) | Abdullah al-hajj | @Sahably | torgodly | libya | 351 |
-| 20 | [Monther-bug](https://github.com/Monther-bug) | Monther |  @ditsly  |  | Libya | 348 |
+| 20 | [AbdelWahab-Farhat](https://github.com/AbdelWahab-Farhat) | Abdelwahab farhat |  |  | Libya-Tripoli-Gorji | 347 |

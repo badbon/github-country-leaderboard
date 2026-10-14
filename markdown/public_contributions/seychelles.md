@@ -1,6 +1,6 @@
 # Public Contributions - Seychelles
 
-Generated: 2026-10-14T00:39:44.240Z
+Generated: 2026-10-14T02:06:41.530Z
 
 Users: 1770
 
@@ -20,8 +20,8 @@ Users: 1770
 | 12 | [shreypdev](https://github.com/shreypdev) | Shrey Patel | Ryden |  | Victoria, BC - Canada | 1889 |
 | 13 | [Nospamas](https://github.com/Nospamas) |  |  |  | Victoria, BC | 1851 |
 | 14 | [Zhonghao1995](https://github.com/Zhonghao1995) | Zhonghao Zhang | University of Victoria |  | Victoria BC | 1779 |
-| 15 | [jamubc](https://github.com/jamubc) |  |  |  | Victoria, BC | 1581 |
-| 16 | [FigBug](https://github.com/FigBug) | Roland Rabien |  | SocaLabs | Victoria, BC | 1523 |
+| 15 | [FigBug](https://github.com/FigBug) | Roland Rabien |  | SocaLabs | Victoria, BC | 1601 |
+| 16 | [jamubc](https://github.com/jamubc) |  |  |  | Victoria, BC | 1581 |
 | 17 | [johncbowman](https://github.com/johncbowman) | John Bowman | bowman@ualberta.ca |  | Victoria, BC Canada | 1506 |
 | 18 | [kpeatt](https://github.com/kpeatt) | Kyle Peatt |  |  | Victoria, BC | 1419 |
 | 19 | [SodhiA1](https://github.com/SodhiA1) | Avisha Sodhi |  |  | Victoria | 1315 |

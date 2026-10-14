@@ -28,10 +28,10 @@ Indexed users: 1,770
 | 14 | [bewuethr](https://github.com/bewuethr) | Benjamin Wuethrich | Victoria, BC | 6,561 |
 | 15 | [danieltruong](https://github.com/danieltruong) | Daniel Truong | Victoria, BC | 6,535 |
 | 16 | [shinybrar](https://github.com/shinybrar) | shiny. | Victoria, BC | 6,120 |
-| 17 | [levibe](https://github.com/levibe) | Levi Bucsis | Victoria, BC | 5,868 |
-| 18 | [igboyes](https://github.com/igboyes) | Ian Boyes | Victoria | 5,835 |
-| 19 | [BenjaminBenetti](https://github.com/BenjaminBenetti) | Benjamin Benetti | Victoria BC | 5,663 |
-| 20 | [jmoseley](https://github.com/jmoseley) | Jeremy Moseley | Victoria BC | 5,652 |
+| 17 | [FigBug](https://github.com/FigBug) | Roland Rabien | Victoria, BC | 5,904 |
+| 18 | [levibe](https://github.com/levibe) | Levi Bucsis | Victoria, BC | 5,868 |
+| 19 | [igboyes](https://github.com/igboyes) | Ian Boyes | Victoria | 5,835 |
+| 20 | [BenjaminBenetti](https://github.com/BenjaminBenetti) | Benjamin Benetti | Victoria BC | 5,663 |
 
 ## Public Contributions
 
@@ -51,8 +51,8 @@ Indexed users: 1,770
 | 12 | [shreypdev](https://github.com/shreypdev) | Shrey Patel | Victoria, BC - Canada | 1,889 |
 | 13 | [Nospamas](https://github.com/Nospamas) |  | Victoria, BC | 1,851 |
 | 14 | [Zhonghao1995](https://github.com/Zhonghao1995) | Zhonghao Zhang | Victoria BC | 1,779 |
-| 15 | [jamubc](https://github.com/jamubc) |  | Victoria, BC | 1,581 |
-| 16 | [FigBug](https://github.com/FigBug) | Roland Rabien | Victoria, BC | 1,523 |
+| 15 | [FigBug](https://github.com/FigBug) | Roland Rabien | Victoria, BC | 1,601 |
+| 16 | [jamubc](https://github.com/jamubc) |  | Victoria, BC | 1,581 |
 | 17 | [johncbowman](https://github.com/johncbowman) | John Bowman | Victoria, BC Canada | 1,506 |
 | 18 | [kpeatt](https://github.com/kpeatt) | Kyle Peatt | Victoria, BC | 1,419 |
 | 19 | [SodhiA1](https://github.com/SodhiA1) | Avisha Sodhi | Victoria | 1,315 |
@@ -71,7 +71,7 @@ Indexed users: 1,770
 | 7 | [naomiaro](https://github.com/naomiaro) | Naomi | Victoria, BC | 249 |
 | 8 | [codeWithCal](https://github.com/codeWithCal) | Code With Cal | Victoria | 238 |
 | 9 | [ikaliam](https://github.com/ikaliam) | Eirini Kalliamvakou | Victoria, BC | 238 |
-| 10 | [FigBug](https://github.com/FigBug) | Roland Rabien | Victoria, BC | 226 |
+| 10 | [FigBug](https://github.com/FigBug) | Roland Rabien | Victoria, BC | 229 |
 | 11 | [shirosaidev](https://github.com/shirosaidev) | Chris Park | Victoria, BC | 180 |
 | 12 | [samsonjs](https://github.com/samsonjs) | Sami Samhuri | Victoria, BC | 176 |
 | 13 | [dmgerman](https://github.com/dmgerman) | Daniel German | Victoria | 164 |
@@ -83,4 +83,4 @@ Indexed users: 1,770
 | 19 | [cherishwins](https://github.com/cherishwins) | Jesse James | Victoria BC Canada | 122 |
 | 20 | [bewuethr](https://github.com/bewuethr) | Benjamin Wuethrich | Victoria, BC | 120 |
 
-Generated: 2026-10-14T00:39:44.240Z
+Generated: 2026-10-14T02:06:41.530Z

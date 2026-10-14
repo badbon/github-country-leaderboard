@@ -1,8 +1,8 @@
 # Total Contributions - Palestine
 
-Generated: 2026-10-14T00:27:52.957Z
+Generated: 2026-10-14T01:57:17.779Z
 
-Users: 2203
+Users: 2202
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -23,6 +23,6 @@ Users: 2203
 | 15 | [farahty](https://github.com/farahty) | Nimer Farahty | FASTME |  | Palestine | 4300 |
 | 16 | [Mahmoud-Skafi](https://github.com/Mahmoud-Skafi) | Mahmoud skafi |  | MahmouSkafi | Palestine, Hebron   | 4108 |
 | 17 | [m5atib](https://github.com/m5atib) | Muhaimen Khatib |  |  | Palestine | 3880 |
-| 18 | [marayshi](https://github.com/marayshi) | Mohammed Alarayshi |  |  | Gaza, Palestine | 3560 |
-| 19 | [AbdQaddora](https://github.com/AbdQaddora) | abd qaddora |  | Abdqaddora1 | Palestine | 3522 |
-| 20 | [Hanna-Hinn](https://github.com/Hanna-Hinn) | Hanna-Hinn |  | Hannahinn021 | Palestine - Ramallah | 3383 |
+| 18 | [majdghithan](https://github.com/majdghithan) | Majd Ghithan |  |  | Palestine | 3698 |
+| 19 | [marayshi](https://github.com/marayshi) | Mohammed Alarayshi |  |  | Gaza, Palestine | 3560 |
+| 20 | [AbdQaddora](https://github.com/AbdQaddora) | abd qaddora |  | Abdqaddora1 | Palestine | 3522 |

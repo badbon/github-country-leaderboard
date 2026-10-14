@@ -1,6 +1,6 @@
 # Public Contributions - North Macedonia
 
-Generated: 2026-10-14T00:25:26.386Z
+Generated: 2026-10-14T01:55:00.945Z
 
 Users: 1929
 

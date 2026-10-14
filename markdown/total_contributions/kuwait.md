@@ -1,14 +1,14 @@
 # Total Contributions - Kuwait
 
-Generated: 2026-10-14T00:08:28.547Z
+Generated: 2026-10-14T01:40:47.970Z
 
 Users: 799
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [mshll](https://github.com/mshll) | meshal | Boubyan Bank |  | Kuwait | 7564 |
-| 2 | [ghaith99](https://github.com/ghaith99) |  |  |  | Kuwait | 6805 |
-| 3 | [buaziz](https://github.com/buaziz) | Buaziz |  |  | Kuwait | 6794 |
+| 2 | [buaziz](https://github.com/buaziz) | Buaziz |  |  | Kuwait | 7028 |
+| 3 | [ghaith99](https://github.com/ghaith99) |  |  |  | Kuwait | 6805 |
 | 4 | [uusa35](https://github.com/uusa35) | Usama.Ahmed | 965 65772444 |  | kuwait | 6344 |
 | 5 | [BAWES](https://github.com/BAWES) | Khalid Al-Mutawa | BAWES |  | Kuwait | 6320 |
 | 6 | [drhema](https://github.com/drhema) | Ibrahim Elsherbiny | Ibrahim |  | Kuwait | 6108 |
@@ -19,7 +19,7 @@ Users: 799
 | 11 | [Mubder](https://github.com/Mubder) | Mubder Alfaris | KazmaAI | b_alfaris | Kuwait | 4181 |
 | 12 | [knro](https://github.com/knro) | Jasem Mutlaq |  |  | Kuwait | 4089 |
 | 13 | [careless10](https://github.com/careless10) | Menawer | Ruba |  | Kuwait | 3839 |
-| 14 | [Mazyod](https://github.com/Mazyod) | Maz | Boubyan Bank |  | Kuwait | 3660 |
+| 14 | [Mazyod](https://github.com/Mazyod) | Maz | Boubyan Bank |  | Kuwait | 3794 |
 | 15 | [mulaifi](https://github.com/mulaifi) | Salem Almulaifi | LEAN | SalemAlmulaifi | Kuwait | 3643 |
 | 16 | [iZaL](https://github.com/iZaL) | Afzal Abbas |  |  | Kuwait | 3570 |
 | 17 | [DiNaSoR](https://github.com/DiNaSoR) | BuYousef |  |  | Kuwait | 3506 |

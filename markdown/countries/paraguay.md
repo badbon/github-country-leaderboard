@@ -44,7 +44,7 @@ Indexed users: 2,016
 | 5 | [skyvanguard](https://github.com/skyvanguard) |  | Paraguay | 2,181 |
 | 6 | [DaltonP93](https://github.com/DaltonP93) | Dalton Perez | Paraguay | 1,870 |
 | 7 | [stevenayal](https://github.com/stevenayal) | Steven Ayala | Asunción, Paraguay | 1,653 |
-| 8 | [raczajko](https://github.com/raczajko) | Raúl Aguiar Czajkowski | Paraguay | 1,512 |
+| 8 | [raczajko](https://github.com/raczajko) | Raúl Aguiar Czajkowski | Paraguay | 1,644 |
 | 9 | [nikdim03](https://github.com/nikdim03) | Dmitrii Nikulin | Paraguay | 1,349 |
 | 10 | [oscar0pavon](https://github.com/oscar0pavon) | Oscar Pavon | Paraguay | 1,269 |
 | 11 | [ciroiriarte](https://github.com/ciroiriarte) | Ciro Iriarte | Paraguay | 1,103 |
@@ -52,7 +52,7 @@ Indexed users: 2,016
 | 13 | [zot24](https://github.com/zot24) |  | Asuncion, Paraguay | 1,072 |
 | 14 | [cardozoaldama](https://github.com/cardozoaldama) | Fernando Cardozo | Paraguay | 980 |
 | 15 | [Renetrox](https://github.com/Renetrox) | Dino René Caballero Marquez | Paraguay | 971 |
-| 16 | [janparkio](https://github.com/janparkio) | Jan Park | Paraguay | 915 |
+| 16 | [janparkio](https://github.com/janparkio) | Jan Park | Paraguay | 966 |
 | 17 | [da21nny](https://github.com/da21nny) | Edgar Vega | Paraguay | 906 |
 | 18 | [melizeche](https://github.com/melizeche) | Marcelo Elizeche Landó | Paraguay | 905 |
 | 19 | [isaias-alt](https://github.com/isaias-alt) | Lucas Isaias Casco | Paraguay | 892 |
@@ -83,4 +83,4 @@ Indexed users: 2,016
 | 19 | [ivankoop](https://github.com/ivankoop) | Ivan Koop  | Asunción, Paraguay | 116 |
 | 20 | [metakeule](https://github.com/metakeule) | metakeule | Asunción / Paraguay | 110 |
 
-Generated: 2026-10-14T00:29:10.667Z
+Generated: 2026-10-14T01:58:39.213Z

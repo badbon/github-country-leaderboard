@@ -1,6 +1,6 @@
 # Public Contributions - Montenegro
 
-Generated: 2026-10-14T00:18:40.763Z
+Generated: 2026-10-14T01:50:28.581Z
 
 Users: 891
 
@@ -21,8 +21,8 @@ Users: 891
 | 13 | [stefashkaa](https://github.com/stefashkaa) | Stefan Popov | @DeSource-Labs |  | Montenegro, Budva | 1821 |
 | 14 | [atimofeev](https://github.com/atimofeev) | Artem Timofeev |  |  | Budva, Montenegro | 1663 |
 | 15 | [YuriiMotov](https://github.com/YuriiMotov) | Yurii Motov |  |  | Bar, Montenegro | 1474 |
-| 16 | [stevyhacker](https://github.com/stevyhacker) | Stevan Bogosavljević |  | stevyhacker | Montenegro | 1371 |
-| 17 | [artempartos](https://github.com/artempartos) | Artem Petrov | Dualbootpartners |  | Montenegro | 1233 |
-| 18 | [yurabakhtin](https://github.com/yurabakhtin) | Yuriy Bakhtin |  |  | Montenegro | 1170 |
+| 16 | [stevyhacker](https://github.com/stevyhacker) | Stevan Bogosavljević |  | stevyhacker | Montenegro | 1450 |
+| 17 | [yurabakhtin](https://github.com/yurabakhtin) | Yuriy Bakhtin |  |  | Montenegro | 1376 |
+| 18 | [artempartos](https://github.com/artempartos) | Artem Petrov | Dualbootpartners |  | Montenegro | 1233 |
 | 19 | [itrcz](https://github.com/itrcz) | Ilya Trikoz | Script Heads |  | Montenegro | 1105 |
 | 20 | [lunochkin](https://github.com/lunochkin) | Maksim Lunochkin | @Tech-Fabric  |  | Montenegro | 960 |

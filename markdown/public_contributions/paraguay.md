@@ -1,6 +1,6 @@
 # Public Contributions - Paraguay
 
-Generated: 2026-10-14T00:29:10.667Z
+Generated: 2026-10-14T01:58:39.213Z
 
 Users: 2016
 
@@ -13,7 +13,7 @@ Users: 2016
 | 5 | [skyvanguard](https://github.com/skyvanguard) |  | Skyvanguard |  | Paraguay | 2181 |
 | 6 | [DaltonP93](https://github.com/DaltonP93) | Dalton Perez |  |  | Paraguay | 1870 |
 | 7 | [stevenayal](https://github.com/stevenayal) | Steven Ayala | Banco Continental SAECA |  | Asunción, Paraguay | 1653 |
-| 8 | [raczajko](https://github.com/raczajko) | Raúl Aguiar Czajkowski | Secretaría Técnica de Planificación del Desarrollo Económico y Social | raczajko | Paraguay | 1512 |
+| 8 | [raczajko](https://github.com/raczajko) | Raúl Aguiar Czajkowski | Secretaría Técnica de Planificación del Desarrollo Económico y Social | raczajko | Paraguay | 1644 |
 | 9 | [nikdim03](https://github.com/nikdim03) | Dmitrii Nikulin | TON Foundation |  | Paraguay | 1349 |
 | 10 | [oscar0pavon](https://github.com/oscar0pavon) | Oscar Pavon | pavon.com.py |  | Paraguay | 1269 |
 | 11 | [ciroiriarte](https://github.com/ciroiriarte) | Ciro Iriarte |  | ciroiriarte | Paraguay | 1103 |
@@ -21,7 +21,7 @@ Users: 2016
 | 13 | [zot24](https://github.com/zot24) |  | Motty | zot24 | Asuncion, Paraguay | 1072 |
 | 14 | [cardozoaldama](https://github.com/cardozoaldama) | Fernando Cardozo |  |  | Paraguay | 980 |
 | 15 | [Renetrox](https://github.com/Renetrox) | Dino René Caballero Marquez |  |  | Paraguay | 971 |
-| 16 | [janparkio](https://github.com/janparkio) | Jan Park | LeadWise (PL EAS) | janparkio | Paraguay | 915 |
+| 16 | [janparkio](https://github.com/janparkio) | Jan Park | LeadWise (PL EAS) @leadwisepro  | janparkio | Paraguay | 966 |
 | 17 | [da21nny](https://github.com/da21nny) | Edgar Vega |  |  | Paraguay | 906 |
 | 18 | [melizeche](https://github.com/melizeche) | Marcelo Elizeche Landó | @goauthentik | melizeche | Paraguay | 905 |
 | 19 | [isaias-alt](https://github.com/isaias-alt) | Lucas Isaias Casco |  | lucascodev | Paraguay | 892 |

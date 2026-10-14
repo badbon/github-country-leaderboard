@@ -1,6 +1,6 @@
 # Total Contributions - Seychelles
 
-Generated: 2026-10-14T00:39:44.240Z
+Generated: 2026-10-14T02:06:41.530Z
 
 Users: 1770
 
@@ -22,7 +22,7 @@ Users: 1770
 | 14 | [bewuethr](https://github.com/bewuethr) | Benjamin Wuethrich | @kohofinancial  |  | Victoria, BC | 6561 |
 | 15 | [danieltruong](https://github.com/danieltruong) | Daniel Truong | Digitalspace Consulting Inc. |  | Victoria, BC | 6535 |
 | 16 | [shinybrar](https://github.com/shinybrar) | shiny. | Canadian Astronomy Data Centre |  | Victoria, BC | 6120 |
-| 17 | [levibe](https://github.com/levibe) | Levi Bucsis | @momentumdash  | levibucsis | Victoria, BC | 5868 |
-| 18 | [igboyes](https://github.com/igboyes) | Ian Boyes |  |  | Victoria | 5835 |
-| 19 | [BenjaminBenetti](https://github.com/BenjaminBenetti) | Benjamin Benetti | Well Health Technologies |  | Victoria BC | 5663 |
-| 20 | [jmoseley](https://github.com/jmoseley) | Jeremy Moseley | @microsoft @github |  | Victoria BC | 5652 |
+| 17 | [FigBug](https://github.com/FigBug) | Roland Rabien |  | SocaLabs | Victoria, BC | 5904 |
+| 18 | [levibe](https://github.com/levibe) | Levi Bucsis | @momentumdash  | levibucsis | Victoria, BC | 5868 |
+| 19 | [igboyes](https://github.com/igboyes) | Ian Boyes |  |  | Victoria | 5835 |
+| 20 | [BenjaminBenetti](https://github.com/BenjaminBenetti) | Benjamin Benetti | Well Health Technologies |  | Victoria BC | 5663 |
