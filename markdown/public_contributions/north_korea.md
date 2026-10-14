@@ -1,6 +1,6 @@
 # Public Contributions - North Korea
 
-Generated: 2026-10-14T06:26:15.235Z
+Generated: 2026-10-14T07:50:58.924Z
 
 Users: 185
 
@@ -19,7 +19,7 @@ Users: 185
 | 11 | [renxiaoyaoo](https://github.com/renxiaoyaoo) | renxiaoyao |  |  | North Korea	 | 189 |
 | 12 | [july0785](https://github.com/july0785) | JULY |  |  | Pyongyang, DPR of Korea | 186 |
 | 13 | [andrewlee1807](https://github.com/andrewlee1807) | Andrew |  |  | North Korea | 182 |
-| 14 | [VisionVerse](https://github.com/VisionVerse) | Vision Verse |  |  | North Korea | 175 |
+| 14 | [VisionVerse](https://github.com/VisionVerse) | Vision Verse |  |  | North Korea | 174 |
 | 15 | [l1vstudios](https://github.com/l1vstudios) | L1V |  |  | North Korea | 173 |
 | 16 | [vega-holdings](https://github.com/vega-holdings) | Vega | CGIC | vega_holdings | Pyongyang | 137 |
 | 17 | [lavrentious](https://github.com/lavrentious) | lavrent | ITMO University |  | Democratic People's Republic of Korea | 105 |

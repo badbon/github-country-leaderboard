@@ -12,7 +12,7 @@ Indexed users: 185
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [Kim9wang](https://github.com/Kim9wang) | Kim Wang | Pyongyang | 5,806 |
+| 1 | [Kim9wang](https://github.com/Kim9wang) | Kim Wang | Pyongyang | 5,829 |
 | 2 | [advanced-rising](https://github.com/advanced-rising) | risingcore | Democratic People's Republic of Korea | 5,072 |
 | 3 | [boyesjo](https://github.com/boyesjo) | Boye Sjo | pyongyang | 4,053 |
 | 4 | [sakweli](https://github.com/sakweli) | Josh Sakweli | North Korea | 2,474 |
@@ -50,7 +50,7 @@ Indexed users: 185
 | 11 | [renxiaoyaoo](https://github.com/renxiaoyaoo) | renxiaoyao | North Korea	 | 189 |
 | 12 | [july0785](https://github.com/july0785) | JULY | Pyongyang, DPR of Korea | 186 |
 | 13 | [andrewlee1807](https://github.com/andrewlee1807) | Andrew | North Korea | 182 |
-| 14 | [VisionVerse](https://github.com/VisionVerse) | Vision Verse | North Korea | 175 |
+| 14 | [VisionVerse](https://github.com/VisionVerse) | Vision Verse | North Korea | 174 |
 | 15 | [l1vstudios](https://github.com/l1vstudios) | L1V | North Korea | 173 |
 | 16 | [vega-holdings](https://github.com/vega-holdings) | Vega | Pyongyang | 137 |
 | 17 | [lavrentious](https://github.com/lavrentious) | lavrent | Democratic People's Republic of Korea | 105 |
@@ -83,4 +83,4 @@ Indexed users: 185
 | 19 | [Lou1sEx](https://github.com/Lou1sEx) | Lou1s | North korea | 15 |
 | 20 | [DillerOFire](https://github.com/DillerOFire) | VerpaSRP | North Korea | 14 |
 
-Generated: 2026-10-14T06:26:15.235Z
+Generated: 2026-10-14T07:50:58.924Z

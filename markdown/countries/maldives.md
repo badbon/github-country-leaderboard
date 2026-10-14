@@ -15,14 +15,14 @@ Indexed users: 354
 | 1 | [xahiru](https://github.com/xahiru) | Ahmed Zahir | Maldives | 11,447 |
 | 2 | [hilarl](https://github.com/hilarl) | Hilal Agil | Male', Maldives | 9,925 |
 | 3 | [fauzaanu](https://github.com/fauzaanu) | Fauzaan Gasim | Maldives | 8,554 |
-| 4 | [mnazaal](https://github.com/mnazaal) | Nazaal | Maldives | 7,485 |
+| 4 | [mnazaal](https://github.com/mnazaal) | Nazaal | Maldives | 7,836 |
 | 5 | [mohamed-aiman](https://github.com/mohamed-aiman) | Mohamed Aiman | Maldives | 6,802 |
-| 6 | [lishaan](https://github.com/lishaan) | Lishan | Malé, Maldives | 6,536 |
+| 6 | [lishaan](https://github.com/lishaan) | Lishan | Malé, Maldives | 6,621 |
 | 7 | [hailam](https://github.com/hailam) | Mohamed Hailam Ahmed | Male`, Maldives | 6,052 |
 | 8 | [ajaaibu](https://github.com/ajaaibu) | Ahmed Ali | Maldives | 5,715 |
 | 9 | [hashes02](https://github.com/hashes02) | HASHES | Maldives | 5,572 |
 | 10 | [nullptrz](https://github.com/nullptrz) | Ali Ahsan Saeed | Maldives | 5,458 |
-| 11 | [jaaahh](https://github.com/jaaahh) | Jaah | Maldives | 4,965 |
+| 11 | [jaaahh](https://github.com/jaaahh) | Jaah | Maldives | 4,963 |
 | 12 | [roris](https://github.com/roris) | Thoail Ahmed | Maldives | 4,840 |
 | 13 | [maldivien](https://github.com/maldivien) | Ahmed Shareef | Maldives | 4,824 |
 | 14 | [agent306](https://github.com/agent306) | Ncodex | Male', Maldives | 4,803 |
@@ -41,7 +41,7 @@ Indexed users: 354
 | 2 | [nedanwr](https://github.com/nedanwr) | Naveed Ali Anwar | Male', Maldives | 1,340 |
 | 3 | [72sevenzy2](https://github.com/72sevenzy2) | 72 | malé, maldives  | 1,288 |
 | 4 | [hilarl](https://github.com/hilarl) | Hilal Agil | Male', Maldives | 1,267 |
-| 5 | [mnazaal](https://github.com/mnazaal) | Nazaal | Maldives | 1,215 |
+| 5 | [mnazaal](https://github.com/mnazaal) | Nazaal | Maldives | 1,221 |
 | 6 | [MohammedAliSharafuddin](https://github.com/MohammedAliSharafuddin) | Mohammed Ali Sharafuddin | Malé, Maldives | 979 |
 | 7 | [Usagi5677](https://github.com/Usagi5677) | Naish | Maldives | 939 |
 | 8 | [ayarse](https://github.com/ayarse) | ayaz | Maldives | 725 |
@@ -83,4 +83,4 @@ Indexed users: 354
 | 19 | [Dharisd](https://github.com/Dharisd) |  | maldives | 41 |
 | 20 | [muhannad0](https://github.com/muhannad0) | Monde | Maldives | 41 |
 
-Generated: 2026-10-14T06:18:07.898Z
+Generated: 2026-10-14T07:41:02.181Z

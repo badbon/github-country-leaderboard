@@ -1,6 +1,6 @@
 # Total Contributions - Latvia
 
-Generated: 2026-10-14T06:14:02.409Z
+Generated: 2026-10-14T07:36:51.191Z
 
 Users: 3263
 
@@ -11,12 +11,12 @@ Users: 3263
 | 3 | [kosovojs](https://github.com/kosovojs) | Edgars Košovojs |  |  | Riga, Latvia | 21968 |
 | 4 | [JPurinsh](https://github.com/JPurinsh) | Jānis Puriņš-Biezais | @formstack  |  | Riga, Latvia | 17316 |
 | 5 | [ErneG](https://github.com/ErneG) | Ernests Dane | T MEDIA GROUP |  | Latvia | 14918 |
-| 6 | [yarlson](https://github.com/yarlson) | Yar Kravtsov |  | yarlson | Riga, Latvia | 12198 |
-| 7 | [ricardomichel](https://github.com/ricardomichel) | Ricardo Michel Reyes | @HostPal-mx  |  | Riga | 10409 |
-| 8 | [rabestro](https://github.com/rabestro) | Jegors Čemisovs | @evolution-gaming |  | Latvia | 9004 |
-| 9 | [skakri](https://github.com/skakri) | Kristaps Karlsons |  |  | Latvia | 7758 |
-| 10 | [jecis-repos](https://github.com/jecis-repos) | Jecis |  | jecis_ | Latvia | 7539 |
-| 11 | [raimonade](https://github.com/raimonade) | Raimonds Korzenevskis | raykay.dk | raimonade_ | Riga, Latvia | 7497 |
+| 6 | [raimonade](https://github.com/raimonade) | Raimonds Korzenevskis | raykay.dk | raimonade_ | Riga, Latvia | 14135 |
+| 7 | [yarlson](https://github.com/yarlson) | Yar Kravtsov |  | yarlson | Riga, Latvia | 12198 |
+| 8 | [ricardomichel](https://github.com/ricardomichel) | Ricardo Michel Reyes | @HostPal-mx  |  | Riga | 10409 |
+| 9 | [rabestro](https://github.com/rabestro) | Jegors Čemisovs | @evolution-gaming |  | Latvia | 9004 |
+| 10 | [skakri](https://github.com/skakri) | Kristaps Karlsons |  |  | Latvia | 7758 |
+| 11 | [jecis-repos](https://github.com/jecis-repos) | Jecis |  | jecis_ | Latvia | 7539 |
 | 12 | [agubarev](https://github.com/agubarev) | Andrejs Gubarevs |  |  | Latvia, Riga | 6749 |
 | 13 | [sansan](https://github.com/sansan) | Toms Veidemanis |  |  | Riga | 6604 |
 | 14 | [victory-sokolov](https://github.com/victory-sokolov) | Viktor Sokolov |  | VictorySokolov | Latvia | 6594 |

@@ -1,6 +1,6 @@
 # Followers - Niger
 
-Generated: 2026-10-14T06:26:05.021Z
+Generated: 2026-10-14T07:49:48.995Z
 
 Users: 176
 
@@ -13,8 +13,8 @@ Users: 176
 | 5 | [abass-dev](https://github.com/abass-dev) | Mr. Abass | Work for home | abass_dev | Niamey, Niger | 67 |
 | 6 | [Yacoubou-seidou](https://github.com/Yacoubou-seidou) | Yacos | Available for hire |  | Niamey/Niger | 67 |
 | 7 | [HamaBarhamou](https://github.com/HamaBarhamou) | HAMA Barhamou | SETES SARL | hama_barhamou | Niger | 48 |
-| 8 | [Chaibouu](https://github.com/Chaibouu) | Chaibouu |  |  | Niger | 31 |
-| 9 | [bkina1](https://github.com/bkina1) | Boubacar Kina |  | KinaBoubacar | Niger | 30 |
+| 8 | [bkina1](https://github.com/bkina1) | Boubacar Kina |  | KinaBoubacar | Niger | 31 |
+| 9 | [Chaibouu](https://github.com/Chaibouu) | Chaibouu |  |  | Niger | 31 |
 | 10 | [malnuxstarck](https://github.com/malnuxstarck) | Abdoul Malik | @Profiteroles |  | Niamey , Niger | 30 |
 | 11 | [ab3masta](https://github.com/ab3masta) | Abdou Abarchi Aboubacar | @Acacurs | ab3masta | Niamey-Niger | 28 |
 | 12 | [TrakyRichard](https://github.com/TrakyRichard) | Traky Richard | Codeloccol | TrakyRichard | Niger | 27 |

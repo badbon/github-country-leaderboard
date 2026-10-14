@@ -45,8 +45,8 @@ Indexed users: 1,750
 | 6 | [Aragas](https://github.com/Aragas) | Vitalii Mikhailov | Chisinau, Moldova | 2,263 |
 | 7 | [50rayn](https://github.com/50rayn) | Soryn | Moldova | 2,029 |
 | 8 | [himaster](https://github.com/himaster) | Vitaly Bicov | Chisinau, Moldova | 2,021 |
-| 9 | [Magistrus](https://github.com/Magistrus) | Vitaliy Unguryan | Moldova | 1,764 |
-| 10 | [teratron](https://github.com/teratron) | Oleg Alexandrov | Moldova | 1,740 |
+| 9 | [teratron](https://github.com/teratron) | Oleg Alexandrov | Moldova | 1,740 |
+| 10 | [Magistrus](https://github.com/Magistrus) | Vitaliy Unguryan | Moldova | 1,716 |
 | 11 | [THET1ME-1](https://github.com/THET1ME-1) | Matrosov Alexandr | Moldova | 1,708 |
 | 12 | [Nemo-Illusionist](https://github.com/Nemo-Illusionist) | Peter Radilov | Moldova | 1,693 |
 | 13 | [GabsEdits](https://github.com/GabsEdits) | Gabriel Cozma | Chisinau, Moldova | 1,552 |
@@ -83,4 +83,4 @@ Indexed users: 1,750
 | 19 | [vgaidarji](https://github.com/vgaidarji) | Veaceslav Gaidarji | Moldova | 115 |
 | 20 | [Ernest96](https://github.com/Ernest96) | Ernest | Chisinau Moldova | 107 |
 
-Generated: 2026-10-14T06:20:10.274Z
+Generated: 2026-10-14T07:45:39.300Z
