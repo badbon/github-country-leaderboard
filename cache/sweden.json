@@ -17934,9 +17934,9 @@
     "location": "Sweden",
     "company": "IT Learning Consulting",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 6,
-    "publicContributions": 146,
+    "followers": 2,
+    "privateContributions": 2,
+    "publicContributions": 137,
     "createdAt": "2024-09-13T07:54:41Z"
   },
   {
@@ -17960,7 +17960,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 2,
     "createdAt": "2024-03-15T13:04:38Z"
   },
   {
@@ -17994,7 +17994,7 @@
     "location": "Sweden",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-04-09T08:09:39Z"
@@ -18019,7 +18019,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 174,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-06-17T09:04:08Z"
   },
@@ -18068,7 +18068,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 153,
+    "publicContributions": 107,
     "createdAt": "2024-07-12T19:24:31Z"
   },
   {
@@ -18084,18 +18084,6 @@
     "createdAt": "2024-08-27T12:37:41Z"
   },
   {
-    "login": "10hd",
-    "name": "Leon",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/178683742?s=72&u=9318902b35f6be2c3ec5ccfc4c4c696fa8006335&v=4",
-    "location": "Sweden",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 14,
-    "publicContributions": 83,
-    "createdAt": "2024-08-18T00:13:12Z"
-  },
-  {
     "login": "bubba-94",
     "name": "Johan",
     "avatarUrl": "https://avatars.githubusercontent.com/u/179566964?s=72&v=4",
@@ -18104,7 +18092,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 435,
+    "publicContributions": 268,
     "createdAt": "2024-08-27T06:49:27Z"
   },
   {
@@ -18128,7 +18116,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 35,
+    "publicContributions": 17,
     "createdAt": "2024-10-15T07:30:22Z"
   },
   {
@@ -18140,7 +18128,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 95,
+    "publicContributions": 61,
     "createdAt": "2024-10-02T07:26:34Z"
   },
   {
@@ -18148,11 +18136,11 @@
     "name": "Stefan Andersson",
     "avatarUrl": "https://avatars.githubusercontent.com/u/191619764?s=72&u=e27d3a219639681991c554f30a5c539c021e8501&v=4",
     "location": "Stockholm, Sweden",
-    "company": "",
+    "company": "SALT",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 551,
-    "publicContributions": 560,
+    "privateContributions": 500,
+    "publicContributions": 824,
     "createdAt": "2024-12-13T17:38:45Z"
   },
   {

@@ -18740,7 +18740,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 2,
     "createdAt": "2023-12-21T17:05:44Z"
   },
   {
@@ -18764,7 +18764,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 6,
     "createdAt": "2023-09-21T23:16:57Z"
   },
   {
@@ -18835,8 +18835,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 432,
-    "publicContributions": 139,
+    "privateContributions": 1322,
+    "publicContributions": 27,
     "createdAt": "2023-10-21T18:41:25Z"
   },
   {
@@ -18848,7 +18848,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 366,
+    "publicContributions": 376,
     "createdAt": "2023-01-17T15:25:04Z"
   },
   {
@@ -18859,7 +18859,7 @@
     "company": "@ingresso-group ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 539,
+    "privateContributions": 501,
     "publicContributions": 1,
     "createdAt": "2023-09-18T10:37:32Z"
   },
@@ -18908,7 +18908,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2023-08-02T12:08:47Z"
   },
   {
@@ -18920,7 +18920,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 28,
     "createdAt": "2023-07-27T20:33:04Z"
   },
   {
@@ -234190,5 +234190,17 @@
     "privateContributions": 0,
     "publicContributions": 142,
     "createdAt": "2022-12-18T11:39:52Z"
+  },
+  {
+    "login": "LNtrekos",
+    "name": "Leonidas Ntrekos",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/139622883?s=72&u=8b9f057b39db52cfe2a05c335b78fdb7f42a5ed7&v=4",
+    "location": "Dublin, Ireland",
+    "company": "University College Dublin",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 60,
+    "createdAt": "2023-07-15T10:11:16Z"
   }
 ]

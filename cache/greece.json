@@ -18908,7 +18908,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 390,
+    "publicContributions": 113,
     "createdAt": "2023-03-17T17:04:14Z"
   },
   {
@@ -18919,8 +18919,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 10,
-    "publicContributions": 7,
+    "privateContributions": 57,
+    "publicContributions": 3,
     "createdAt": "2023-02-28T11:30:33Z"
   },
   {
@@ -18932,7 +18932,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 224,
+    "publicContributions": 218,
     "createdAt": "2023-03-01T09:26:59Z"
   },
   {
@@ -18948,18 +18948,6 @@
     "createdAt": "2023-06-06T14:43:47Z"
   },
   {
-    "login": "LNtrekos",
-    "name": "Leonidas Ntrekos",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/139622883?s=72&u=8b9f057b39db52cfe2a05c335b78fdb7f42a5ed7&v=4",
-    "location": "Athens, Greece",
-    "company": "Calculus Analytics",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 81,
-    "createdAt": "2023-07-15T10:11:16Z"
-  },
-  {
     "login": "steoik",
     "name": "Stelios Oikonomou",
     "avatarUrl": "https://avatars.githubusercontent.com/u/139182893?s=72&v=4",
@@ -18968,7 +18956,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 1,
     "createdAt": "2023-07-10T23:07:55Z"
   },
   {
@@ -18982,18 +18970,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-11-04T16:00:30Z"
-  },
-  {
-    "login": "tasos24gnr",
-    "name": "Anastasios Benos",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/52974479?s=72&u=ae85575db049ee064c9973225b24c5cbb9c48774&v=4",
-    "location": "Tripoli , Greece",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 13,
-    "createdAt": "2019-07-16T17:54:52Z"
   },
   {
     "login": "dimitrios-papadopoulos",
@@ -19015,8 +18991,8 @@
     "company": "Department of Product & Systems Design Engineering",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 212,
-    "publicContributions": 43,
+    "privateContributions": 328,
+    "publicContributions": 19,
     "createdAt": "2023-05-01T22:17:56Z"
   },
   {
@@ -19039,7 +19015,7 @@
     "company": "Karpadu",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 631,
+    "privateContributions": 557,
     "publicContributions": 2,
     "createdAt": "2023-11-29T20:53:11Z"
   },
@@ -19076,7 +19052,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 41,
     "createdAt": "2023-05-16T13:51:15Z"
   },
   {

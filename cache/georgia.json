@@ -19016,7 +19016,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2022-11-15T17:47:52Z"
   },
   {
@@ -19027,7 +19027,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 266,
+    "privateContributions": 260,
     "publicContributions": 0,
     "createdAt": "2022-03-31T16:52:30Z"
   },
@@ -19075,7 +19075,7 @@
     "company": "Dream team",
     "twitterUsername": "WhiteShiller",
     "followers": 1,
-    "privateContributions": 10,
+    "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2022-06-23T09:37:24Z"
   },
@@ -19166,7 +19166,7 @@
   {
     "login": "tkhang1",
     "name": "Tuan Khang Nguyen",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/108899087?s=72&u=a2d7d7b23d64b0239af0a949ae0f979430df34b6&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/108899087?s=72&u=b43486c4a98beb2bf03665c9a6a1033971c2f449&v=4",
     "location": "Georgia",
     "company": "",
     "twitterUsername": "",
@@ -19184,7 +19184,7 @@
     "twitterUsername": "merebashvili99",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 5,
     "createdAt": "2022-08-21T08:32:52Z"
   },
   {
@@ -19195,7 +19195,7 @@
     "company": "Coupa Software",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1510,
+    "privateContributions": 1898,
     "publicContributions": 0,
     "createdAt": "2022-02-14T13:34:20Z"
   },
@@ -19208,7 +19208,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 22,
     "createdAt": "2022-12-24T20:25:02Z"
   },
   {
@@ -19220,7 +19220,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 21,
     "createdAt": "2022-09-28T13:01:58Z"
   },
   {
@@ -82750,5 +82750,17 @@
     "privateContributions": 0,
     "publicContributions": 16,
     "createdAt": "2022-09-02T14:45:27Z"
+  },
+  {
+    "login": "nupolovykh",
+    "name": "Nikita Polovykh",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/96892429?s=72&u=7992d279089f6a67a68d4dd410fdcd23912b65ed&v=4",
+    "location": "Sakartvelo, Tbilisi",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 826,
+    "createdAt": "2021-12-30T22:44:26Z"
   }
 ]

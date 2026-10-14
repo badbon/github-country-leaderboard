@@ -727,8 +727,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 82,
-    "privateContributions": 1128,
-    "publicContributions": 66,
+    "privateContributions": 1115,
+    "publicContributions": 64,
     "createdAt": "2024-04-01T10:17:22Z"
   },
   {
@@ -738,9 +738,9 @@
     "location": "Turkmenistan, Ashgabat",
     "company": "Sada Zehin",
     "twitterUsername": "",
-    "followers": 96,
+    "followers": 98,
     "privateContributions": 16,
-    "publicContributions": 505,
+    "publicContributions": 522,
     "createdAt": "2024-03-12T12:50:47Z"
   },
   {
@@ -775,7 +775,7 @@
     "company": "Oguz han technology center",
     "twitterUsername": "Dayanch437",
     "followers": 23,
-    "privateContributions": 2964,
+    "privateContributions": 3036,
     "publicContributions": 36,
     "createdAt": "2024-10-02T07:52:51Z"
   },
@@ -824,7 +824,7 @@
     "twitterUsername": "",
     "followers": 19,
     "privateContributions": 13,
-    "publicContributions": 242,
+    "publicContributions": 264,
     "createdAt": "2024-08-27T06:49:50Z"
   },
   {
@@ -834,9 +834,9 @@
     "location": "Mary city, Turkmenistan",
     "company": "LFDT 2026 Mentee @hyperledger-identus",
     "twitterUsername": "",
-    "followers": 24,
+    "followers": 25,
     "privateContributions": 57,
-    "publicContributions": 2017,
+    "publicContributions": 2043,
     "createdAt": "2024-10-23T11:17:41Z"
   },
   {
@@ -919,7 +919,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 325,
+    "privateContributions": 324,
     "publicContributions": 35,
     "createdAt": "2024-08-17T05:21:53Z"
   },
@@ -5998,5 +5998,17 @@
     "privateContributions": 0,
     "publicContributions": 5,
     "createdAt": "2026-06-29T05:02:15Z"
+  },
+  {
+    "login": "ecosmartsynergy",
+    "name": "ecosmartsynergy",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298217796?s=72&u=26758cb9d1fdd6c29fe3e49cbd675699f414ff8b&v=4",
+    "location": "Esenguly, Balkan, Turkmenistan",
+    "company": "Educator & Tech Enthusiast / Independent Developer",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2026-06-30T09:38:46Z"
   }
 ]

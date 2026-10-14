@@ -18488,7 +18488,7 @@
     "twitterUsername": "",
     "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 369,
+    "publicContributions": 370,
     "createdAt": "2024-08-22T18:22:13Z"
   },
   {
@@ -18499,8 +18499,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 4,
-    "publicContributions": 426,
+    "privateContributions": 7,
+    "publicContributions": 418,
     "createdAt": "2024-10-02T06:04:02Z"
   },
   {
@@ -18510,7 +18510,7 @@
     "location": "Ukraine, Lviv",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 9,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-08-12T13:46:39Z"
@@ -18520,24 +18520,12 @@
     "name": "Bohdan Diatliuk",
     "avatarUrl": "https://avatars.githubusercontent.com/u/184126467?s=72&u=b2a801fe9bcd71b80c8557e607a964c9a5837068&v=4",
     "location": "Ukraine",
-    "company": "",
+    "company": "NDA",
     "twitterUsername": "",
     "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 715,
+    "publicContributions": 647,
     "createdAt": "2024-10-07T14:20:48Z"
-  },
-  {
-    "login": "ViktorDebugger",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/192130938?s=72&u=02f4772c9f79110b4d4b89f39e30078429db0964&v=4",
-    "location": "Ukraine, Lviv",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 0,
-    "publicContributions": 35,
-    "createdAt": "2024-12-18T17:12:21Z"
   },
   {
     "login": "moakuyo",
@@ -18567,12 +18555,12 @@
     "login": "Danmamaz",
     "name": "Danylo",
     "avatarUrl": "https://avatars.githubusercontent.com/u/185496502?s=72&u=5cd169bbabd8608c72d9ca683edefe9c4cc3488e&v=4",
-    "location": "Lviv, Ukraine",
+    "location": "Ukraine",
     "company": "5Core, Robocode",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 28,
-    "publicContributions": 109,
+    "privateContributions": 163,
+    "publicContributions": 25,
     "createdAt": "2024-10-18T10:29:24Z"
   },
   {
@@ -18594,7 +18582,7 @@
     "location": "Ukraine",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 8,
     "privateContributions": 4,
     "publicContributions": 55,
     "createdAt": "2024-07-09T16:57:38Z"
@@ -18608,7 +18596,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 1,
     "createdAt": "2024-07-10T20:07:16Z"
   },
   {
@@ -18631,8 +18619,8 @@
     "company": "NTUU \"KPI\", FICE",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 172,
-    "publicContributions": 965,
+    "privateContributions": 293,
+    "publicContributions": 1076,
     "createdAt": "2024-09-01T19:32:33Z"
   },
   {
@@ -18642,9 +18630,9 @@
     "location": "Ukraine, Kyiv.",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 262,
-    "publicContributions": 211,
+    "followers": 7,
+    "privateContributions": 139,
+    "publicContributions": 282,
     "createdAt": "2024-08-15T10:53:33Z"
   },
   {
@@ -18654,9 +18642,9 @@
     "location": "Ukraine",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 41,
+    "publicContributions": 44,
     "createdAt": "2024-09-09T09:28:17Z"
   },
   {
@@ -18667,8 +18655,8 @@
     "company": "THE-GAME",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 1263,
-    "publicContributions": 0,
+    "privateContributions": 1259,
+    "publicContributions": 9,
     "createdAt": "2024-07-03T06:05:12Z"
   },
   {
@@ -18678,9 +18666,9 @@
     "location": "Ukraine",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 148,
+    "publicContributions": 166,
     "createdAt": "2024-09-01T11:18:02Z"
   },
   {
@@ -572802,9 +572790,9 @@
     "location": "Kyiv, Ukraine",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 5269,
-    "publicContributions": 382,
+    "followers": 3,
+    "privateContributions": 5480,
+    "publicContributions": 476,
     "createdAt": "2026-05-13T07:04:35Z"
   },
   {
@@ -573130,5 +573118,17 @@
     "privateContributions": 0,
     "publicContributions": 9,
     "createdAt": "2020-04-26T07:47:48Z"
+  },
+  {
+    "login": "Mykola-Quant",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/295871903?s=72&v=4",
+    "location": "Kyiv",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 42,
+    "createdAt": "2026-06-22T13:56:11Z"
   }
 ]

@@ -18504,27 +18504,15 @@
     "createdAt": "2022-09-05T13:07:13Z"
   },
   {
-    "login": "kxwhiowo",
-    "name": "Qilin Liao",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/112365790?s=72&u=2e5b2d95c1d659ced4e416057100d7f4047271c9&v=4",
-    "location": "Hong Kong",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 40,
-    "publicContributions": 24,
-    "createdAt": "2022-08-29T03:40:27Z"
-  },
-  {
     "login": "numakkiyu",
     "name": "北海的佰川",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/111338679?s=72&u=ba3023c375a24ac1f6b61f215044f5ee0e71d51c&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/111338679?s=72&u=ee279b50ea1c64f88ee6f822a3aa90b99772ef3a&v=4",
     "location": "Hong Kong",
     "company": "@ZGIT-Network ",
     "twitterUsername": "numakkiyu",
-    "followers": 5,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 179,
+    "publicContributions": 171,
     "createdAt": "2022-08-16T06:15:41Z"
   },
   {
@@ -18534,7 +18522,7 @@
     "location": "Kowloon, Hong Kong",
     "company": "City Univerisity of Hong Kong",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 27,
     "createdAt": "2022-06-15T16:52:16Z"
@@ -18544,10 +18532,10 @@
     "name": "CoLate0w0",
     "avatarUrl": "https://avatars.githubusercontent.com/u/113080663?s=72&u=2619f5d06c2bfb7f41682989ac3386a2d407c161&v=4",
     "location": "Hong Kong",
-    "company": "Heep Yunn School",
+    "company": "City University of Hong Kong",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 3366,
+    "followers": 6,
+    "privateContributions": 3674,
     "publicContributions": 1,
     "createdAt": "2022-09-08T03:21:37Z"
   },
@@ -18570,9 +18558,9 @@
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 126,
-    "publicContributions": 133,
+    "followers": 7,
+    "privateContributions": 90,
+    "publicContributions": 137,
     "createdAt": "2022-04-04T07:01:44Z"
   },
   {
@@ -18584,7 +18572,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 119,
+    "publicContributions": 132,
     "createdAt": "2022-06-01T02:04:10Z"
   },
   {
@@ -18594,9 +18582,9 @@
     "location": "Hong Kong",
     "company": "East China Normal University",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 39,
-    "publicContributions": 43,
+    "followers": 9,
+    "privateContributions": 119,
+    "publicContributions": 115,
     "createdAt": "2022-01-30T03:45:11Z"
   },
   {
@@ -18607,7 +18595,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 13,
+    "privateContributions": 0,
     "publicContributions": 8,
     "createdAt": "2022-03-23T10:14:06Z"
   },
@@ -18620,7 +18608,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 87,
+    "publicContributions": 69,
     "createdAt": "2022-07-20T03:35:47Z"
   },
   {
@@ -18630,7 +18618,7 @@
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 6,
     "privateContributions": 3,
     "publicContributions": 8,
     "createdAt": "2022-05-15T06:36:23Z"
@@ -18638,25 +18626,25 @@
   {
     "login": "HenryTIANHao",
     "name": "Henry TIAN",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/111735121?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/111735121?s=72&u=ee4770cbd19b752d72ebfa7bc23add8bfaad68a5&v=4",
     "location": "Hong Kong",
     "company": "The Hong Kong Polytechnic University",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 13,
     "createdAt": "2022-08-22T08:05:38Z"
   },
   {
     "login": "XorLaz",
     "name": "Xor Laz",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/98404446?s=72&u=2d0658c0aceb5a5a3e963654e3bab060d3bade4d&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/98404446?s=72&u=9d92c9d7f63c8ea8204ef3303607c17f3b82a7d3&v=4",
     "location": "Hong Kong",
     "company": "NewNightWalker",
     "twitterUsername": "Xor_Laz",
     "followers": 4,
-    "privateContributions": 209,
-    "publicContributions": 92,
+    "privateContributions": 317,
+    "publicContributions": 101,
     "createdAt": "2022-01-25T14:15:08Z"
   },
   {
@@ -18666,7 +18654,7 @@
     "location": "Hong Kong",
     "company": "Chinese University of Hong Kong",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 10,
     "createdAt": "2022-04-10T15:15:52Z"
@@ -18678,9 +18666,9 @@
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 1263,
-    "publicContributions": 90,
+    "followers": 3,
+    "privateContributions": 1070,
+    "publicContributions": 248,
     "createdAt": "2022-12-17T07:43:48Z"
   },
   {
@@ -18691,8 +18679,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 73,
-    "publicContributions": 249,
+    "privateContributions": 101,
+    "publicContributions": 208,
     "createdAt": "2022-01-17T12:50:26Z"
   },
   {
@@ -18726,7 +18714,7 @@
     "location": "Hong Kong ",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-03-09T03:08:15Z"
@@ -18740,7 +18728,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 17,
     "createdAt": "2022-09-27T09:16:54Z"
   },
   {

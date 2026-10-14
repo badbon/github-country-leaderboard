@@ -18728,7 +18728,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 38,
     "createdAt": "2022-08-27T14:16:43Z"
   },
   {
@@ -18738,9 +18738,9 @@
     "location": "Kazakhstan",
     "company": "DEWORLD",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 112,
+    "followers": 1,
+    "privateContributions": 1,
+    "publicContributions": 184,
     "createdAt": "2022-11-07T14:35:50Z"
   },
   {
@@ -18775,7 +18775,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 27,
+    "privateContributions": 15,
     "publicContributions": 0,
     "createdAt": "2022-02-08T10:07:35Z"
   },
@@ -18858,9 +18858,9 @@
     "location": "Kazakhstan",
     "company": "SkrinVex",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 294,
+    "followers": 3,
+    "privateContributions": 196,
+    "publicContributions": 663,
     "createdAt": "2022-12-09T15:30:36Z"
   },
   {
@@ -18871,8 +18871,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 505,
-    "publicContributions": 253,
+    "privateContributions": 486,
+    "publicContributions": 61,
     "createdAt": "2022-05-29T18:43:00Z"
   },
   {
@@ -18898,18 +18898,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-02-23T03:51:28Z"
-  },
-  {
-    "login": "nupolovykh",
-    "name": "Nikita Donkey",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/96892429?s=72&u=7992d279089f6a67a68d4dd410fdcd23912b65ed&v=4",
-    "location": "Kazakhstan, Astana",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 4,
-    "publicContributions": 112,
-    "createdAt": "2021-12-30T22:44:26Z"
   },
   {
     "login": "MORE770",
@@ -18938,13 +18926,13 @@
   {
     "login": "Ospann",
     "name": "Arystan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/115387921?s=72&u=ec69d2e3f7e3b8428987c7dc48bd0736bcf0a789&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/115387921?s=72&u=1c5d570aaf6a44e25ab20da7b350fe25b8f6045e&v=4",
     "location": "Kazakhstan, Almaty",
     "company": "Maxinum Consulting",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 2335,
-    "publicContributions": 21,
+    "followers": 3,
+    "privateContributions": 3109,
+    "publicContributions": 40,
     "createdAt": "2022-10-09T05:04:05Z"
   },
   {

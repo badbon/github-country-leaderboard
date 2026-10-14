@@ -18823,8 +18823,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 18,
-    "publicContributions": 2,
+    "privateContributions": 0,
+    "publicContributions": 8,
     "createdAt": "2016-03-07T22:48:28Z"
   },
   {
@@ -18836,7 +18836,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 7,
     "createdAt": "2016-11-29T20:54:41Z"
   },
   {
@@ -18919,8 +18919,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 176,
-    "publicContributions": 62,
+    "privateContributions": 162,
+    "publicContributions": 20,
     "createdAt": "2016-06-14T07:49:25Z"
   },
   {
@@ -18930,9 +18930,9 @@
     "location": "Sarajevo, Bosnia & Herzegovina",
     "company": "@rubiconba",
     "twitterUsername": "",
-    "followers": 42,
-    "privateContributions": 464,
-    "publicContributions": 172,
+    "followers": 43,
+    "privateContributions": 469,
+    "publicContributions": 244,
     "createdAt": "2016-02-15T09:29:51Z"
   },
   {
@@ -18943,7 +18943,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 29,
-    "privateContributions": 261,
+    "privateContributions": 170,
     "publicContributions": 0,
     "createdAt": "2016-05-02T17:19:26Z"
   },
@@ -18954,7 +18954,7 @@
     "location": "Sarajevo, Bosnia & Herzegovina",
     "company": "",
     "twitterUsername": "",
-    "followers": 16,
+    "followers": 15,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-01-01T19:22:00Z"
@@ -18968,7 +18968,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 63,
+    "publicContributions": 91,
     "createdAt": "2016-05-09T12:55:15Z"
   },
   {
@@ -18991,8 +18991,8 @@
     "company": "Omnitask",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 2319,
-    "publicContributions": 26,
+    "privateContributions": 2915,
+    "publicContributions": 6,
     "createdAt": "2016-02-02T09:35:29Z"
   },
   {
@@ -19026,7 +19026,7 @@
     "location": "Sarajevo",
     "company": "",
     "twitterUsername": "",
-    "followers": 81,
+    "followers": 82,
     "privateContributions": 0,
     "publicContributions": 11,
     "createdAt": "2016-06-30T14:41:29Z"
@@ -19038,7 +19038,7 @@
     "location": "Sarajevo",
     "company": "Accelerated Agency",
     "twitterUsername": "",
-    "followers": 24,
+    "followers": 22,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-10-20T10:56:19Z"
@@ -19048,11 +19048,11 @@
     "name": "Haris Muhibic",
     "avatarUrl": "https://avatars.githubusercontent.com/u/23449608?s=72&u=2453bd9c6d17eacfa533b93e4a6d552f4ea6847d&v=4",
     "location": "Sarajevo",
-    "company": "",
+    "company": "@chern0-dev",
     "twitterUsername": "",
-    "followers": 17,
-    "privateContributions": 1959,
-    "publicContributions": 1,
+    "followers": 16,
+    "privateContributions": 2307,
+    "publicContributions": 0,
     "createdAt": "2016-11-14T09:22:09Z"
   },
   {

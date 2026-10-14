@@ -19064,7 +19064,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 3,
     "createdAt": "2023-11-30T15:19:44Z"
   },
   {
@@ -19076,7 +19076,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 123,
+    "publicContributions": 136,
     "createdAt": "2023-11-22T20:01:05Z"
   },
   {
@@ -19087,8 +19087,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 11,
-    "publicContributions": 39,
+    "privateContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2023-04-19T14:54:05Z"
   },
   {
@@ -19100,7 +19100,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2023-09-19T19:43:40Z"
   },
   {
@@ -19122,7 +19122,7 @@
     "location": "Plovdiv",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-07-11T09:22:27Z"
@@ -19146,9 +19146,9 @@
     "location": "Ruse",
     "company": "",
     "twitterUsername": "",
-    "followers": 40,
+    "followers": 41,
     "privateContributions": 0,
-    "publicContributions": 72,
+    "publicContributions": 46,
     "createdAt": "2023-08-31T15:45:31Z"
   },
   {
@@ -19158,7 +19158,7 @@
     "location": "Sofia",
     "company": "",
     "twitterUsername": "",
-    "followers": 42,
+    "followers": 40,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-05-05T10:06:19Z"
@@ -19170,7 +19170,7 @@
     "location": "Sofia",
     "company": "NielsenIQ",
     "twitterUsername": "",
-    "followers": 36,
+    "followers": 27,
     "privateContributions": 0,
     "publicContributions": 34,
     "createdAt": "2023-11-17T08:37:35Z"
@@ -19182,9 +19182,9 @@
     "location": "Sofia",
     "company": "",
     "twitterUsername": "",
-    "followers": 20,
-    "privateContributions": 59,
-    "publicContributions": 80,
+    "followers": 17,
+    "privateContributions": 36,
+    "publicContributions": 62,
     "createdAt": "2023-09-19T13:39:18Z"
   },
   {
@@ -19194,9 +19194,9 @@
     "location": "Sofia",
     "company": "",
     "twitterUsername": "",
-    "followers": 18,
+    "followers": 16,
     "privateContributions": 0,
-    "publicContributions": 37,
+    "publicContributions": 34,
     "createdAt": "2023-10-06T05:39:55Z"
   },
   {
@@ -19218,7 +19218,7 @@
     "location": "Sofia",
     "company": "KPI FICT student",
     "twitterUsername": "",
-    "followers": 16,
+    "followers": 18,
     "privateContributions": 0,
     "publicContributions": 50,
     "createdAt": "2023-01-08T10:32:52Z"
@@ -19230,7 +19230,7 @@
     "location": "Sofia",
     "company": "Inensia",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 8,
     "privateContributions": 0,
     "publicContributions": 136,
     "createdAt": "2023-03-08T22:12:14Z"
@@ -19254,7 +19254,7 @@
     "location": "Sofia",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 8,
     "privateContributions": 69,
     "publicContributions": 0,
     "createdAt": "2023-01-18T06:26:17Z"
