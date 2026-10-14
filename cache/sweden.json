@@ -18692,7 +18692,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 32,
+    "publicContributions": 0,
     "createdAt": "2024-02-13T18:36:12Z"
   },
   {
@@ -18703,8 +18703,8 @@
     "company": "Chalmers University of Technology",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 15,
-    "publicContributions": 20,
+    "privateContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2024-10-01T14:31:47Z"
   },
   {
@@ -18716,7 +18716,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 79,
+    "publicContributions": 56,
     "createdAt": "2024-09-23T08:33:00Z"
   },
   {
@@ -18738,7 +18738,7 @@
     "location": "Lund, Sweden",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-10-17T12:10:01Z"
@@ -18788,7 +18788,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 143,
+    "publicContributions": 46,
     "createdAt": "2024-01-23T14:24:35Z"
   },
   {
@@ -18800,7 +18800,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 3,
     "createdAt": "2024-01-10T23:45:23Z"
   },
   {
@@ -18834,9 +18834,9 @@
     "location": "Sweden",
     "company": "",
     "twitterUsername": "niklas_karlsson",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 165,
+    "publicContributions": 71,
     "createdAt": "2024-03-15T22:00:02Z"
   },
   {
@@ -18848,7 +18848,7 @@
     "twitterUsername": "oneleggedswede",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 464,
+    "publicContributions": 230,
     "createdAt": "2024-03-21T21:00:55Z"
   },
   {
@@ -468526,5 +468526,17 @@
     "privateContributions": 111,
     "publicContributions": 504,
     "createdAt": "2023-11-15T08:05:51Z"
+  },
+  {
+    "login": "georgeikoro",
+    "name": "George Ikoro",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/47946116?s=72&u=1579dfbc95b4bf228a8a7fa54edde77c3ad5668a&v=4",
+    "location": "Stockholm, Sweden",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 38,
+    "createdAt": "2019-02-24T15:00:57Z"
   }
 ]

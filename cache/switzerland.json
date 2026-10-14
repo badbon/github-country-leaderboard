@@ -19196,7 +19196,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 33,
+    "publicContributions": 0,
     "createdAt": "2023-03-04T08:48:05Z"
   },
   {
@@ -19220,7 +19220,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 333,
+    "publicContributions": 330,
     "createdAt": "2023-05-22T14:03:08Z"
   },
   {
@@ -19262,13 +19262,13 @@
   {
     "login": "zakyikow",
     "name": "david",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/147332731?s=72&u=74c93cd66eedb795020e1567e3ce71ba81c40b86&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/147332731?s=72&u=62495919db10336bae0c16bc87c70fb96ffef4da&v=4",
     "location": "Switzerland",
     "company": "DS Student @ CBS | SWE @ INVED SA",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 161,
-    "publicContributions": 81,
+    "privateContributions": 162,
+    "publicContributions": 73,
     "createdAt": "2023-10-08T15:51:15Z"
   },
   {
@@ -19279,7 +19279,7 @@
     "company": "@AwardMatcher ",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 108,
+    "privateContributions": 53,
     "publicContributions": 0,
     "createdAt": "2023-08-08T22:29:47Z"
   },
@@ -19292,7 +19292,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 725,
+    "publicContributions": 447,
     "createdAt": "2023-03-23T17:09:45Z"
   },
   {
@@ -19302,9 +19302,9 @@
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 154,
-    "publicContributions": 318,
+    "followers": 1,
+    "privateContributions": 159,
+    "publicContributions": 316,
     "createdAt": "2023-10-13T12:00:20Z"
   },
   {
@@ -19322,12 +19322,12 @@
   {
     "login": "melih-coban",
     "name": "Melih Coban",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/133581616?s=72&u=ff2d1e8c76ac1957d14eda7c2df0493cfd83c1a2&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/133581616?s=72&u=cbbd5df323efbfa031838a29437daa3095d927a5&v=4",
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 96,
+    "privateContributions": 140,
     "publicContributions": 0,
     "createdAt": "2023-05-14T13:26:50Z"
   },
@@ -19363,8 +19363,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 92,
-    "publicContributions": 14,
+    "privateContributions": 15,
+    "publicContributions": 5,
     "createdAt": "2023-08-10T08:22:39Z"
   },
   {
@@ -19398,22 +19398,10 @@
     "location": "Zürich, Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 161,
+    "publicContributions": 121,
     "createdAt": "2023-05-05T05:10:14Z"
-  },
-  {
-    "login": "astras69",
-    "name": "Sisco System Europe",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/142283684?s=72&v=4",
-    "location": "Switzerland",
-    "company": "Sisco System Europe",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 4,
-    "createdAt": "2023-08-15T02:48:34Z"
   },
   {
     "login": "JSss10",
@@ -19424,7 +19412,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 480,
+    "publicContributions": 443,
     "createdAt": "2023-11-07T16:50:50Z"
   },
   {

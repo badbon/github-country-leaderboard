@@ -19026,9 +19026,9 @@
     "location": "Indonesia",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 2,
-    "publicContributions": 24,
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 23,
     "createdAt": "2025-05-13T23:36:45Z"
   },
   {
@@ -19038,9 +19038,9 @@
     "location": "Indonesia",
     "company": "BisnisGo Pitaloka Digital",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 2374,
-    "publicContributions": 44,
+    "followers": 5,
+    "privateContributions": 2733,
+    "publicContributions": 65,
     "createdAt": "2025-06-12T09:49:10Z"
   },
   {
@@ -19052,7 +19052,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 136,
+    "publicContributions": 146,
     "createdAt": "2025-05-15T02:16:00Z"
   },
   {
@@ -19062,9 +19062,9 @@
     "location": "Jakarta, Indonesia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 109,
+    "publicContributions": 0,
     "createdAt": "2025-04-26T10:23:41Z"
   },
   {
@@ -19076,7 +19076,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 54,
+    "publicContributions": 61,
     "createdAt": "2025-05-27T02:56:43Z"
   },
   {
@@ -19112,7 +19112,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 91,
+    "publicContributions": 88,
     "createdAt": "2025-05-11T13:37:37Z"
   },
   {
@@ -19158,9 +19158,9 @@
     "location": "Jakarta, Indonesia",
     "company": "Student",
     "twitterUsername": "RTypeByte",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 45,
+    "publicContributions": 43,
     "createdAt": "2025-05-26T00:25:23Z"
   },
   {
@@ -19171,8 +19171,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 177,
-    "publicContributions": 119,
+    "privateContributions": 28,
+    "publicContributions": 238,
     "createdAt": "2025-04-09T09:16:45Z"
   },
   {
@@ -19184,7 +19184,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 25,
     "createdAt": "2025-04-11T03:28:28Z"
   },
   {
@@ -19196,7 +19196,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 0,
     "createdAt": "2025-04-12T03:24:28Z"
   },
   {
@@ -19208,7 +19208,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 1,
-    "publicContributions": 28,
+    "publicContributions": 6,
     "createdAt": "2025-04-23T03:58:49Z"
   },
   {
@@ -19220,7 +19220,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 11,
     "createdAt": "2025-04-23T08:18:32Z"
   },
   {
@@ -19231,8 +19231,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 601,
-    "publicContributions": 16,
+    "privateContributions": 633,
+    "publicContributions": 11,
     "createdAt": "2025-04-11T10:02:46Z"
   },
   {
@@ -19256,7 +19256,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 83,
+    "publicContributions": 49,
     "createdAt": "2025-04-08T02:25:56Z"
   },
   {
@@ -759730,5 +759730,17 @@
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2026-06-28T08:54:49Z"
+  },
+  {
+    "login": "vibe-coder-eja",
+    "name": "Reza Syahputra",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/297645966?s=72&u=030b064010e0fc0cf99f4c0d3c7e16d24ad69766&v=4",
+    "location": "Jakarta",
+    "company": "",
+    "twitterUsername": "irezadigital",
+    "followers": 32,
+    "privateContributions": 0,
+    "publicContributions": 102,
+    "createdAt": "2026-06-28T13:50:20Z"
   }
 ]

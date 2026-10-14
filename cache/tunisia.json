@@ -19316,7 +19316,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 2,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2023-01-24T15:17:01Z"
   },
   {
@@ -19424,7 +19424,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 0,
     "createdAt": "2023-06-18T16:03:00Z"
   },
   {
@@ -19447,8 +19447,8 @@
     "company": "RBK",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 6,
+    "privateContributions": 680,
+    "publicContributions": 1,
     "createdAt": "2023-09-05T10:01:56Z"
   },
   {
@@ -19460,7 +19460,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 26,
     "createdAt": "2023-11-07T16:51:06Z"
   },
   {
@@ -19472,20 +19472,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 17,
     "createdAt": "2023-09-24T13:35:59Z"
-  },
-  {
-    "login": "xAminxxx",
-    "name": "Mohamed Amin MAKNI",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/134510325?s=72&u=f6a24c880bfdaf6655a0b74e37ac68934bd555aa&v=4",
-    "location": "Sfax, Tunisia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 117,
-    "publicContributions": 64,
-    "createdAt": "2023-05-24T12:25:49Z"
   },
   {
     "login": "jawherennaceur",
@@ -19496,7 +19484,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 24,
     "createdAt": "2023-03-01T13:14:00Z"
   },
   {
@@ -19507,8 +19495,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 59,
-    "publicContributions": 2,
+    "privateContributions": 57,
+    "publicContributions": 0,
     "createdAt": "2023-04-08T19:02:13Z"
   },
   {

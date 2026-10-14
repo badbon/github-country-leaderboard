@@ -512,7 +512,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 1105,
-    "publicContributions": 368,
+    "publicContributions": 370,
     "createdAt": "2020-02-22T19:02:10Z"
   },
   {
@@ -618,7 +618,7 @@
     "location": "Banjul",
     "company": "Kendesoft",
     "twitterUsername": "farmerscoder",
-    "followers": 26,
+    "followers": 25,
     "privateContributions": 721,
     "publicContributions": 126,
     "createdAt": "2019-04-25T14:04:24Z"
@@ -934,5 +934,17 @@
     "privateContributions": 1305,
     "publicContributions": 0,
     "createdAt": "2010-02-07T19:12:46Z"
+  },
+  {
+    "login": "laminkoteh01-del",
+    "name": "Helping people in need of water ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298132962?s=72&v=4",
+    "location": "Gambia 🇬🇲 ",
+    "company": "Just helping people ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2026-06-30T05:16:09Z"
   }
 ]

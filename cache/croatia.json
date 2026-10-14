@@ -19724,7 +19724,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 25,
     "createdAt": "2019-12-19T00:03:12Z"
   },
   {
@@ -19735,8 +19735,8 @@
     "company": "@foivz ",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 168,
-    "publicContributions": 92,
+    "privateContributions": 141,
+    "publicContributions": 97,
     "createdAt": "2019-10-10T18:19:06Z"
   },
   {
@@ -19747,7 +19747,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 386,
+    "privateContributions": 471,
     "publicContributions": 0,
     "createdAt": "2019-02-07T12:43:19Z"
   },
@@ -19758,29 +19758,17 @@
     "location": "Croatia",
     "company": "Self-Employed",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 733,
-    "publicContributions": 436,
+    "followers": 10,
+    "privateContributions": 2183,
+    "publicContributions": 581,
     "createdAt": "2019-05-04T16:19:02Z"
-  },
-  {
-    "login": "strongtino",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/50464409?s=72&u=c47b4f4069bd3121103f4f7a4e5b95c1f5e6f028&v=4",
-    "location": "Zagreb, Croatia",
-    "company": "",
-    "twitterUsername": "strongtinofc",
-    "followers": 8,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2019-05-09T20:07:51Z"
   },
   {
     "login": "AlanKrajina",
     "name": "Alan Krajina",
     "avatarUrl": "https://avatars.githubusercontent.com/u/48131162?s=72&u=25edde0d08daa11d291a2710e20f0370ba713f16&v=4",
     "location": "Zagreb, Croatia",
-    "company": "flatironschool.com",
+    "company": "",
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
@@ -19807,8 +19795,8 @@
     "company": "dvasadva",
     "twitterUsername": "snsa_kscc",
     "followers": 8,
-    "privateContributions": 344,
-    "publicContributions": 578,
+    "privateContributions": 442,
+    "publicContributions": 384,
     "createdAt": "2019-05-27T10:18:38Z"
   },
   {
@@ -19818,7 +19806,7 @@
     "location": "Split, Croatia",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 10,
     "privateContributions": 0,
     "publicContributions": 16,
     "createdAt": "2019-10-25T14:19:40Z"
@@ -19832,7 +19820,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 3,
     "createdAt": "2019-10-02T13:36:42Z"
   },
   {
@@ -19843,8 +19831,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 46,
-    "publicContributions": 11,
+    "privateContributions": 51,
+    "publicContributions": 1,
     "createdAt": "2019-03-19T18:01:09Z"
   },
   {
@@ -19856,7 +19844,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 64,
+    "publicContributions": 73,
     "createdAt": "2019-05-08T07:22:29Z"
   },
   {
@@ -19868,7 +19856,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 170,
+    "publicContributions": 157,
     "createdAt": "2019-12-26T01:06:10Z"
   },
   {
@@ -19879,8 +19867,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 1211,
-    "publicContributions": 0,
+    "privateContributions": 1183,
+    "publicContributions": 7,
     "createdAt": "2019-10-01T07:46:49Z"
   },
   {
@@ -19891,8 +19879,8 @@
     "company": "Mappinest ",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 2061,
-    "publicContributions": 18,
+    "privateContributions": 1708,
+    "publicContributions": 23,
     "createdAt": "2019-05-27T23:38:57Z"
   },
   {
@@ -19902,9 +19890,9 @@
     "location": "Zagreb, Croatia",
     "company": "Proxify",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 2500,
-    "publicContributions": 4479,
+    "followers": 8,
+    "privateContributions": 2939,
+    "publicContributions": 6695,
     "createdAt": "2019-04-21T14:50:16Z"
   },
   {
@@ -19915,8 +19903,8 @@
     "company": "@lloyds-digital ",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 1597,
-    "publicContributions": 44,
+    "privateContributions": 1324,
+    "publicContributions": 106,
     "createdAt": "2019-06-28T20:24:03Z"
   },
   {
@@ -19924,10 +19912,10 @@
     "name": "Derp",
     "avatarUrl": "https://avatars.githubusercontent.com/u/47299671?s=72&u=0d9e18be24612222d2b9a92b8661fbaa672d36c7&v=4",
     "location": "Croatia",
-    "company": "@frendzoapp ",
+    "company": "@momintltd ",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 188,
+    "privateContributions": 379,
     "publicContributions": 0,
     "createdAt": "2019-02-03T15:41:13Z"
   },
