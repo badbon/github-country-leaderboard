@@ -114206,7 +114206,7 @@
           "kept": 12
         }
       },
-      "lastDiscoveryAt": "2026-10-14T20:40:42.338Z",
+      "lastDiscoveryAt": "2026-10-14T20:52:02.749Z",
       "lastDiscoveryCompletedAt": null,
       "discoveryQueuedThrough": "2026-05-12",
       "lastCacheChangeAt": "2026-10-14T05:42:05.425Z",
@@ -114215,9 +114215,9 @@
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 2243,
+        "searchRequests": 2244,
         "enrichmentRequests": 2361,
-        "usersDiscovered": 126683,
+        "usersDiscovered": 126696,
         "usersEnriched": 46075,
         "usersRefreshed": 0,
         "usersKept": 33922
@@ -153622,7 +153622,7 @@
           "kept": 65
         }
       },
-      "lastDiscoveryAt": "2026-10-14T20:41:16.571Z",
+      "lastDiscoveryAt": "2026-10-14T20:52:34.770Z",
       "lastDiscoveryCompletedAt": null,
       "discoveryQueuedThrough": "2026-05-12",
       "lastCacheChangeAt": "2026-10-14T03:30:38.911Z",
@@ -153631,9 +153631,9 @@
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 2243,
+        "searchRequests": 2244,
         "enrichmentRequests": 3481,
-        "usersDiscovered": 206148,
+        "usersDiscovered": 206248,
         "usersEnriched": 67610,
         "usersRefreshed": 0,
         "usersKept": 46592
@@ -196389,20 +196389,20 @@
       "lastDiscoveryAt": "2026-10-14T14:44:51.394Z",
       "lastDiscoveryCompletedAt": "2026-08-16T04:08:53.322Z",
       "discoveryQueuedThrough": "2026-07-13",
-      "lastCacheChangeAt": "2026-10-14T19:25:00.088Z",
+      "lastCacheChangeAt": "2026-10-14T20:52:08.202Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": "2026-10-12T17:10:22.240Z",
       "lastError": null,
       "stats": {
         "searchRequests": 67,
-        "enrichmentRequests": 138,
+        "enrichmentRequests": 139,
         "usersDiscovered": 629,
-        "usersEnriched": 2357,
-        "usersRefreshed": 1728,
+        "usersEnriched": 2377,
+        "usersRefreshed": 1748,
         "usersKept": 443
       },
-      "refreshCursor": 400
+      "refreshCursor": 420
     },
     "singapore": {
       "slug": "singapore",
@@ -197890,7 +197890,7 @@
       "lastError": {
         "message": "Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.",
         "status": null,
-        "at": "2026-10-14T19:25:28.083Z"
+        "at": "2026-10-14T20:53:06.866Z"
       },
       "stats": {
         "searchRequests": 673,
@@ -250599,18 +250599,18 @@
       "refreshCursor": 100
     }
   },
-  "nextCountryIndex": 108,
+  "nextCountryIndex": 153,
   "nextDeltaCountryIndex": 87,
-  "nextRefreshCountryIndex": 198,
+  "nextRefreshCountryIndex": 200,
   "nextRediscoveryCountryIndex": 0,
-  "lastRunStartedAt": "2026-10-14T20:22:54.551Z",
-  "lastRunFinishedAt": "2026-10-14T20:50:48.350Z",
+  "lastRunStartedAt": "2026-10-14T20:51:32.528Z",
+  "lastRunFinishedAt": "2026-10-14T20:53:06.932Z",
   "stats": {
-    "searchRequests": 75365,
-    "enrichmentRequests": 203441,
-    "usersDiscovered": 4855708,
-    "usersEnriched": 3861889,
-    "usersRefreshed": 369170,
+    "searchRequests": 75367,
+    "enrichmentRequests": 203442,
+    "usersDiscovered": 4855821,
+    "usersEnriched": 3861909,
+    "usersRefreshed": 369190,
     "usersKept": 2640860
   }
 }
