@@ -1,6 +1,6 @@
 # Public Contributions - Uganda
 
-Generated: 2026-10-14T00:52:54.152Z
+Generated: 2026-10-14T02:20:40.343Z
 
 Users: 3871
 
@@ -12,17 +12,17 @@ Users: 3871
 | 4 | [matovu-farid](https://github.com/matovu-farid) | Farid Matovu | Dabblelab | matovu100 | Uganda | 5312 |
 | 5 | [BAGOMBEKA-JOB-DEV](https://github.com/BAGOMBEKA-JOB-DEV) | BAGOMBEKA JOB | @SMSONE  |  | KAMPALA, UGANDA | 4382 |
 | 6 | [agabaandre](https://github.com/agabaandre) | Agaba Andre |  |  | Kampala | 3882 |
-| 7 | [judeotine](https://github.com/judeotine) | Judeotine |  | Judeotine | Uganda | 2995 |
-| 8 | [devcoda25](https://github.com/devcoda25) | turyomwe. derrick |  |  | kampala | 2789 |
-| 9 | [OchiengPaul442](https://github.com/OchiengPaul442) | Paul Ochieng Levi |  |  | Uganda | 2748 |
-| 10 | [Marcelofury](https://github.com/Marcelofury) | BUTERA MARCEL |  | buteramarcel | Kampala,Uganda | 2600 |
-| 11 | [afuchat1](https://github.com/afuchat1) | afuchat | AfuChat |  | Uganda | 2539 |
-| 12 | [peterbamuhigire](https://github.com/peterbamuhigire) | Peter Bamuhigire | Peter Bamuhigire | peterbamu | Kampala, Uganda | 2422 |
-| 13 | [Chemistry2i](https://github.com/Chemistry2i) | WAMBOGO  HASSAN SADAT | Peculiar Technologies Ltd @Peculiar256 | wambogohassan | Kampala Uganda | 2001 |
-| 14 | [gwaiffemark001](https://github.com/gwaiffemark001) | Gwaiffe Mark |  |  | Kampala,Uganda | 1986 |
-| 15 | [herberthk](https://github.com/herberthk) | Kavuma Herbert | Netbritz |  | Kampala | 1958 |
-| 16 | [danielmarv](https://github.com/danielmarv) | Daniel Ntege | @OpenElements | danielmarvin785 | Kampala | 1947 |
-| 17 | [Joshkovu](https://github.com/Joshkovu) | Kuteesa Joash | Wota creators Technologies  | JoashKutee80790 | uganda  | 1933 |
-| 18 | [kallyas](https://github.com/kallyas) | Iden | @SolitonTelmecUganda  | kallyasl | Uganda | 1930 |
-| 19 | [Codebmk](https://github.com/Codebmk) | Belinda Marion Kobusingye | @ReadBuddy, @airqo-platform | belindamarionk | Kampala, Uganda | 1904 |
-| 20 | [Vaniahchristian](https://github.com/Vaniahchristian) | Vaniah Christian | DINDU TECH |  | Kampala Uganda  | 1864 |
+| 7 | [Mucunguzi256](https://github.com/Mucunguzi256) | Mucunguzi Moses |  | mucu256 | UGANDA | 3545 |
+| 8 | [judeotine](https://github.com/judeotine) | Judeotine |  | Judeotine | Uganda | 2995 |
+| 9 | [devcoda25](https://github.com/devcoda25) | turyomwe. derrick |  |  | kampala | 2789 |
+| 10 | [OchiengPaul442](https://github.com/OchiengPaul442) | Paul Ochieng Levi |  |  | Uganda | 2748 |
+| 11 | [Marcelofury](https://github.com/Marcelofury) | BUTERA MARCEL |  | buteramarcel | Kampala,Uganda | 2600 |
+| 12 | [afuchat1](https://github.com/afuchat1) | afuchat | AfuChat |  | Uganda | 2539 |
+| 13 | [peterbamuhigire](https://github.com/peterbamuhigire) | Peter Bamuhigire | Peter Bamuhigire | peterbamu | Kampala, Uganda | 2422 |
+| 14 | [Chemistry2i](https://github.com/Chemistry2i) | WAMBOGO  HASSAN SADAT | Peculiar Technologies Ltd @Peculiar256 | wambogohassan | Kampala Uganda | 2001 |
+| 15 | [gwaiffemark001](https://github.com/gwaiffemark001) | Gwaiffe Mark |  |  | Kampala,Uganda | 1986 |
+| 16 | [herberthk](https://github.com/herberthk) | Kavuma Herbert | Netbritz |  | Kampala | 1958 |
+| 17 | [danielmarv](https://github.com/danielmarv) | Daniel Ntege | @OpenElements | danielmarvin785 | Kampala | 1947 |
+| 18 | [Joshkovu](https://github.com/Joshkovu) | Kuteesa Joash | Wota creators Technologies  | JoashKutee80790 | uganda  | 1933 |
+| 19 | [kallyas](https://github.com/kallyas) | Iden | @SolitonTelmecUganda  | kallyasl | Uganda | 1930 |
+| 20 | [Codebmk](https://github.com/Codebmk) | Belinda Marion Kobusingye | @ReadBuddy, @airqo-platform | belindamarionk | Kampala, Uganda | 1904 |

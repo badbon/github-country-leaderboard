@@ -29,9 +29,9 @@ Indexed users: 17,941
 | 15 | [TheRealJamesRussell](https://github.com/TheRealJamesRussell) | James Russell | South Africa | 15,525 |
 | 16 | [BitnationAI](https://github.com/BitnationAI) | Chad | South Africa | 15,302 |
 | 17 | [edwynmoss](https://github.com/edwynmoss) | Edwyn Moss | Cape Town | 14,732 |
-| 18 | [DG-za](https://github.com/DG-za) | Stefan Els | Pretoria, South Africa | 13,794 |
-| 19 | [costa-developer](https://github.com/costa-developer) | Tendai Gumunyu | Cape Town | 13,764 |
-| 20 | [tawanike](https://github.com/tawanike) | Tawanda Makunike | Sandton, South Africa | 13,017 |
+| 18 | [Schramm2](https://github.com/Schramm2) | Matthew Schramm | Cape Town, South Africa | 14,715 |
+| 19 | [DG-za](https://github.com/DG-za) | Stefan Els | Pretoria, South Africa | 13,794 |
+| 20 | [costa-developer](https://github.com/costa-developer) | Tendai Gumunyu | Cape Town | 13,764 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 17,941
 | 19 | [peterp](https://github.com/peterp) | Peter Pistorius | South Africa | 639 |
 | 20 | [mortolian](https://github.com/mortolian) | Gideon Schoonbee | Western Cape, South Africa | 632 |
 
-Generated: 2026-10-14T00:43:29.752Z
+Generated: 2026-10-14T02:13:22.890Z

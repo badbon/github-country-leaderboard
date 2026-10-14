@@ -1,8 +1,8 @@
 # Total Contributions - Greece
 
-Generated: 2026-10-14T01:27:57.934Z
+Generated: 2026-10-14T02:56:14.165Z
 
-Users: 15576
+Users: 15574
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

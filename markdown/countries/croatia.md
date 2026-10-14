@@ -24,14 +24,14 @@ Indexed users: 5,436
 | 10 | [lazar-tomislav](https://github.com/lazar-tomislav) | Tomislav Lazar | Croatia | 8,131 |
 | 11 | [ivanmeler](https://github.com/ivanmeler) | Ivan Meler | Croatia, Vukovar | 7,621 |
 | 12 | [zvanjak](https://github.com/zvanjak) | Zvonimir Vanjak | Zagreb | 7,219 |
-| 13 | [verona-dev](https://github.com/verona-dev) | Zoran G. Verona | Croatia | 6,981 |
-| 14 | [SirBepy](https://github.com/SirBepy) | Josip Muzic | Zagreb, Croatia | 6,979 |
-| 15 | [Domogo](https://github.com/Domogo) | Domagoj Satrapa | Pula, Croatia | 6,913 |
-| 16 | [SeloSlav](https://github.com/SeloSlav) | Martin Erlic | Zagreb | 6,760 |
-| 17 | [piqusy](https://github.com/piqusy) | Ivan Ramljak | Zagreb | 6,748 |
-| 18 | [leonardogazdek](https://github.com/leonardogazdek) | Leonardo Gazdek | Croatia | 6,743 |
-| 19 | [drKreso](https://github.com/drKreso) | Kresimir Bojcic | Croatia | 6,678 |
-| 20 | [VedranCOI](https://github.com/VedranCOI) | COI | Zagreb | 6,513 |
+| 13 | [viborc](https://github.com/viborc) | Vibor Cipan | Croatia | 7,209 |
+| 14 | [verona-dev](https://github.com/verona-dev) | Zoran G. Verona | Croatia | 6,981 |
+| 15 | [SirBepy](https://github.com/SirBepy) | Josip Muzic | Zagreb, Croatia | 6,979 |
+| 16 | [Domogo](https://github.com/Domogo) | Domagoj Satrapa | Pula, Croatia | 6,913 |
+| 17 | [SeloSlav](https://github.com/SeloSlav) | Martin Erlic | Zagreb | 6,760 |
+| 18 | [piqusy](https://github.com/piqusy) | Ivan Ramljak | Zagreb | 6,748 |
+| 19 | [leonardogazdek](https://github.com/leonardogazdek) | Leonardo Gazdek | Croatia | 6,743 |
+| 20 | [drKreso](https://github.com/drKreso) | Kresimir Bojcic | Croatia | 6,678 |
 
 ## Public Contributions
 
@@ -55,8 +55,8 @@ Indexed users: 5,436
 | 16 | [verona-dev](https://github.com/verona-dev) | Zoran G. Verona | Croatia | 2,864 |
 | 17 | [Ino-Bagaric](https://github.com/Ino-Bagaric) | Ivan Bagarić | Croatia | 2,824 |
 | 18 | [SeloSlav](https://github.com/SeloSlav) | Martin Erlic | Zagreb | 2,786 |
-| 19 | [ralfbecher](https://github.com/ralfbecher) | Ralfo Becher | Veli Lošinj, Croatia | 2,611 |
-| 20 | [brunozoric](https://github.com/brunozoric) | Bruno Zorić | Zagreb | 2,409 |
+| 19 | [ipaleka](https://github.com/ipaleka) | Ivica Paleka | Zadar, Croatia | 2,627 |
+| 20 | [ralfbecher](https://github.com/ralfbecher) | Ralfo Becher | Veli Lošinj, Croatia | 2,611 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 5,436
 | 19 | [loboris](https://github.com/loboris) | Boris Lovosevic | Zagreb, Croatia | 406 |
 | 20 | [nibzard](https://github.com/nibzard) | Nikola Balic | Split, Croatia | 364 |
 
-Generated: 2026-10-14T01:16:53.451Z
+Generated: 2026-10-14T02:45:45.801Z

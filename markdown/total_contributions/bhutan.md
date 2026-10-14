@@ -1,6 +1,6 @@
 # Total Contributions - Bhutan
 
-Generated: 2026-10-14T01:09:17.710Z
+Generated: 2026-10-14T02:35:32.134Z
 
 Users: 267
 
@@ -11,7 +11,7 @@ Users: 267
 | 3 | [Kzoeps](https://github.com/Kzoeps) | Karma Zoepa Yoezer |  | kzoeps | Thimphu, Bhutan | 3604 |
 | 4 | [teknatha136](https://github.com/teknatha136) | Tek Nath | @SELISEdigitalplatforms  |  | Thimphu | 3519 |
 | 5 | [jimbatshetrim](https://github.com/jimbatshetrim) | Jimba Tshetrim | @selisebt  |  | Thimphu, Bhutan | 3350 |
-| 6 | [tashi-iu](https://github.com/tashi-iu) | Tashi Tobgay Dakpa | @Jaggle-AI-HQ  |  | Thimphu, Bhutan | 3321 |
+| 6 | [tashi-iu](https://github.com/tashi-iu) | Tashi Tobgay Dakpa | @Jaggle-AI-HQ  |  | Thimphu, Bhutan | 3319 |
 | 7 | [ThuktenSingye](https://github.com/ThuktenSingye) | ThuktenSingye |  |  | Bhutan | 2732 |
 | 8 | [PraMishra-s](https://github.com/PraMishra-s) | Pralad Mishra | College of Science and Technology |  | Bhutan | 2633 |
 | 9 | [sangayt1997](https://github.com/sangayt1997) | Sangay Thinley | SELISE Group | SangayT97 | Thimphu, Bhutan | 2333 |
@@ -25,4 +25,4 @@ Users: 267
 | 17 | [sonamtaa](https://github.com/sonamtaa) | Sonam Tashi | SELISE Bhutan | tashist515 | Babesa, Thimphu | 1796 |
 | 18 | [KinWang-2013](https://github.com/KinWang-2013) | Kinley Wangchuk |  |  | Thimphu, Bhutan | 1787 |
 | 19 | [grey300](https://github.com/grey300) | Tshering Gyeltshen |  |  | Bhutan | 1770 |
-| 20 | [kashgurung](https://github.com/kashgurung) | Bikash Gurung |  |  | Thimphu Bhutan | 1704 |
+| 20 | [kashgurung](https://github.com/kashgurung) | Bikash Gurung |  |  | Thimphu Bhutan | 1695 |

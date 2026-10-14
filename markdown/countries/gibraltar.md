@@ -26,7 +26,7 @@ Indexed users: 93
 | 12 | [mortyflex](https://github.com/mortyflex) | Mohamed A | Gibraltar | 621 |
 | 13 | [SGarcia96](https://github.com/SGarcia96) | SGarcia | Spain/Gibraltar | 601 |
 | 14 | [Vinnetou](https://github.com/Vinnetou) | Lukas Kloucek | Gibraltar | 520 |
-| 15 | [ajedrezpremium](https://github.com/ajedrezpremium) | Ajedrez Premium | GIBRALTAR | 513 |
+| 15 | [ajedrezpremium](https://github.com/ajedrezpremium) | Ajedrez Premium | GIBRALTAR | 514 |
 | 16 | [PeterKottas](https://github.com/PeterKottas) | Peter Kottas | Gibraltar | 460 |
 | 17 | [cdharris](https://github.com/cdharris) | Chris Harris | Berlin / Europe / Gibraltar | 406 |
 | 18 | [VladimirHumeniuk](https://github.com/VladimirHumeniuk) | vhmnk | Gibraltar | 402 |
@@ -41,11 +41,11 @@ Indexed users: 93
 | 2 | [dlicudi](https://github.com/dlicudi) | Duane Licudi | Gibraltar | 2,278 |
 | 3 | [Industrial](https://github.com/Industrial) | Tom Wieland | Gibraltar | 1,908 |
 | 4 | [ArtemSoldatkin](https://github.com/ArtemSoldatkin) | Artem Soldatkin | Gibraltar | 573 |
-| 5 | [ajedrezpremium](https://github.com/ajedrezpremium) | Ajedrez Premium | GIBRALTAR | 513 |
+| 5 | [ajedrezpremium](https://github.com/ajedrezpremium) | Ajedrez Premium | GIBRALTAR | 514 |
 | 6 | [crpol](https://github.com/crpol) | Cesar Rosa Polanco | Gibraltar | 253 |
 | 7 | [heaventree](https://github.com/heaventree) | Heaventree Digital | Gibraltar | 241 |
 | 8 | [mortyflex](https://github.com/mortyflex) | Mohamed A | Gibraltar | 196 |
-| 9 | [unigib](https://github.com/unigib) | University of Gibraltar | Gibraltar | 193 |
+| 9 | [unigib](https://github.com/unigib) | University of Gibraltar | Gibraltar | 187 |
 | 10 | [ZedsArcade](https://github.com/ZedsArcade) | ZedsArcade | Gibraltar | 156 |
 | 11 | [llmora](https://github.com/llmora) | Lluis Mora | Gibraltar | 121 |
 | 12 | [pmozdzynski](https://github.com/pmozdzynski) | P.S. Mozdzynski | Gibraltar | 85 |
@@ -83,4 +83,4 @@ Indexed users: 93
 | 19 | [vfiodor](https://github.com/vfiodor) | Fiodor Veresciaka | Gibraltar | 13 |
 | 20 | [VPSServerCom](https://github.com/VPSServerCom) | VPS Server | Gibraltar | 13 |
 
-Generated: 2026-10-14T01:27:52.112Z
+Generated: 2026-10-14T02:56:10.822Z

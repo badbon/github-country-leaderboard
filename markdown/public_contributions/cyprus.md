@@ -1,8 +1,8 @@
 # Public Contributions - Cyprus
 
-Generated: 2026-10-14T01:18:06.384Z
+Generated: 2026-10-14T02:47:28.397Z
 
-Users: 2735
+Users: 2734
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -18,8 +18,8 @@ Users: 2735
 | 10 | [candasoz01-cmd](https://github.com/candasoz01-cmd) | Candaş Öz | Candaş Öz |  | Kıbrıs | 3467 |
 | 11 | [siyabendoezdemir](https://github.com/siyabendoezdemir) | Siya | CIYA | siyabuilt | Cyprus | 3289 |
 | 12 | [phalouvas](https://github.com/phalouvas) | Panayiotis Halouvas | KAINOTOMO PH LTD  |  | Cyprus  | 3137 |
-| 13 | [programmeradu](https://github.com/programmeradu) | Samuel Adu-Berekorang | @stapolar  |  | nicosia, cyprus | 3112 |
-| 14 | [Disentinel](https://github.com/Disentinel) | Vadim Reshetnikov |  |  | Cyprus, Limassol | 2706 |
+| 13 | [Disentinel](https://github.com/Disentinel) | Vadim Reshetnikov |  |  | Cyprus, Limassol | 3117 |
+| 14 | [programmeradu](https://github.com/programmeradu) | Samuel Adu-Berekorang | @stapolar  |  | nicosia, cyprus | 3112 |
 | 15 | [nekto007](https://github.com/nekto007) | Igor |  | Nekto_007 | Limassol, Cyprus | 2695 |
 | 16 | [VISTALL](https://github.com/VISTALL) | Valery Semenchuk | @consulo | vistall_valery | Cyprus | 2670 |
 | 17 | [psoldunov](https://github.com/psoldunov) | Philipp Soldunov | Lead Dev @boundary-digital / Building @ensemblr-hq |  | Limassol, Cyprus | 2614 |

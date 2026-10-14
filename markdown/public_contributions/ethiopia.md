@@ -1,13 +1,13 @@
 # Public Contributions - Ethiopia
 
-Generated: 2026-10-14T01:23:54.320Z
+Generated: 2026-10-14T02:52:38.068Z
 
 Users: 6700
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [mohammedsbd](https://github.com/mohammedsbd) | Mohammed Salih |  |  | Addis Ababa | 8502 |
-| 2 | [Bereket-Ketema](https://github.com/Bereket-Ketema) | Bereket Ketema | Afronex Tech Hub |  | Adama, Ethiopia | 4854 |
+| 1 | [Bereket-Ketema](https://github.com/Bereket-Ketema) | Bereket Ketema | Afronex Tech Hub |  | Adama, Ethiopia | 4854 |
+| 2 | [mohammedsbd](https://github.com/mohammedsbd) | Mohammed Salih | Afrodigital.dev |  | Addis Ababa | 4213 |
 | 3 | [Thyon3](https://github.com/Thyon3) | Asnake Mengesha (Thyon) |  |  | Addis Ababa  | 3881 |
 | 4 | [poricf](https://github.com/poricf) | Fahmi Dinsefa |  | Fahmi_khandro | Ethiopia | 3646 |
 | 5 | [samuelabera21](https://github.com/samuelabera21) | Samuel Abera |  |  | Ethiopia  | 3560 |

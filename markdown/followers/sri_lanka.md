@@ -1,6 +1,6 @@
 # Followers - Sri Lanka
 
-Generated: 2026-10-14T00:45:33.772Z
+Generated: 2026-10-14T02:15:25.414Z
 
 Users: 18327
 
@@ -10,7 +10,7 @@ Users: 18327
 | 2 | [arunoda](https://github.com/arunoda) | Arunoda Susiripala | @GDi4K | arunoda | Colombo, Sri Lanka | 2629 |
 | 3 | [indrajithbandara](https://github.com/indrajithbandara) | Indrajith Bandara | CISCO Networking Academy | HeyIndrajith | Diyathalawa, Sri Lanka | 1477 |
 | 4 | [zyferlink](https://github.com/zyferlink) | Rajitha / Zyfer |  |  | Colombo, Sri Lanka | 1259 |
-| 5 | [devnavodhimsara](https://github.com/devnavodhimsara) | Navod Himsara |  |  | colombo | 1175 |
+| 5 | [devnavodhimsara](https://github.com/devnavodhimsara) | Navod Himsara |  |  | colombo | 1155 |
 | 6 | [ThiroshMadhusha](https://github.com/ThiroshMadhusha) | Thirosh Madhusha | DLAD Software Solution (Pvt) Ltd |  | Colombo 02, Sri Lanka | 1144 |
 | 7 | [ravindu01manoj](https://github.com/ravindu01manoj) | Manoj | @Ravindu-Manoj  | RavinduManoj | SRI LANKA | 1137 |
 | 8 | [mnpsnuwan](https://github.com/mnpsnuwan) | Nuwan Samarasinghe | CodeGen International |  | Sri Lanka | 1122 |

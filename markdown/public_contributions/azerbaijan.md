@@ -1,6 +1,6 @@
 # Public Contributions - Azerbaijan
 
-Generated: 2026-10-14T01:04:57.142Z
+Generated: 2026-10-14T02:31:43.699Z
 
 Users: 5077
 
@@ -9,8 +9,8 @@ Users: 5077
 | 1 | [shahinpr](https://github.com/shahinpr) | Shahin Aliyev |  |  | Azerbaijan | 951933 |
 | 2 | [martian56](https://github.com/martian56) | Martian | @Alievs-corp |  | Azerbaijan | 9279 |
 | 3 | [RavanGuliyeff](https://github.com/RavanGuliyeff) | Ravan Guliyev |  |  | Baku | 6494 |
-| 4 | [SuleimanHajizadeh](https://github.com/SuleimanHajizadeh) | Suleiman Hajizadeh | Western Caspian University  |  | Azerbaijan, Baku | 5901 |
-| 5 | [nazarli-shabnam](https://github.com/nazarli-shabnam) | Shabnam |  |  | Azerbaijan | 5510 |
+| 4 | [nazarli-shabnam](https://github.com/nazarli-shabnam) | Shabnam |  |  | Azerbaijan | 5510 |
+| 5 | [SuleimanHajizadeh](https://github.com/SuleimanHajizadeh) | Suleiman Hajizadeh | Western Caspian University  |  | Azerbaijan, Baku | 5197 |
 | 6 | [anaraydinli55](https://github.com/anaraydinli55) | Anar Aydinli | Altincicek | Aydinli42347 | Azerbaijan | 4093 |
 | 7 | [nurullaibadov](https://github.com/nurullaibadov) | Nurulla Ibadov | PeerStack |  | Azerbaijan,Baku | 3937 |
 | 8 | [tagizadeorxan](https://github.com/tagizadeorxan) | Orkhan Taghizade |  |  | Baku, Azerbaijan | 3668 |

@@ -1,6 +1,6 @@
 # Total Contributions - Azerbaijan
 
-Generated: 2026-10-14T01:04:57.142Z
+Generated: 2026-10-14T02:31:43.699Z
 
 Users: 5077
 
@@ -11,8 +11,8 @@ Users: 5077
 | 3 | [nazarli-shabnam](https://github.com/nazarli-shabnam) | Shabnam |  |  | Azerbaijan | 8561 |
 | 4 | [ruslanabdullayev01](https://github.com/ruslanabdullayev01) | Ruslan Abdullayev |  |  | Azerbaijan | 8556 |
 | 5 | [RavanGuliyeff](https://github.com/RavanGuliyeff) | Ravan Guliyev |  |  | Baku | 8410 |
-| 6 | [SuleimanHajizadeh](https://github.com/SuleimanHajizadeh) | Suleiman Hajizadeh | Western Caspian University  |  | Azerbaijan, Baku | 8264 |
-| 7 | [BaxtiyarMammadyarov](https://github.com/BaxtiyarMammadyarov) | Baxtiyar Mammadyarov | Chevveek LLC |  | Azerbaijan, Baku | 8065 |
+| 6 | [BaxtiyarMammadyarov](https://github.com/BaxtiyarMammadyarov) | Baxtiyar Mammadyarov | Chevveek LLC |  | Azerbaijan, Baku | 8065 |
+| 7 | [SuleimanHajizadeh](https://github.com/SuleimanHajizadeh) | Suleiman Hajizadeh | Western Caspian University  |  | Azerbaijan, Baku | 7588 |
 | 8 | [eynullabeyli](https://github.com/eynullabeyli) | Yusif Eynullabayli | Earth | steprider0 | Baku | 7278 |
 | 9 | [Rizayev](https://github.com/Rizayev) | Elsevar | FREELANCE |  | Azerbaijan | 7074 |
 | 10 | [Orik-dev](https://github.com/Orik-dev) | Orkhan Guseynov |  |  | Baku | 6349 |

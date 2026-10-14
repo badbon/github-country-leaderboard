@@ -45,7 +45,7 @@ Indexed users: 488
 | 6 | [MALICK-GITH](https://github.com/MALICK-GITH) | SOLITAIRE HACK | Ivory coast 🇨🇮 | 632 |
 | 7 | [Germinator97](https://github.com/Germinator97) | AGBETOGOR Germain | Abidjan, Côte-d'Ivoire | 566 |
 | 8 | [zampou-code](https://github.com/zampou-code) | Zi Code | Abidjan, Ivory Coast | 543 |
-| 9 | [MamadouKernel](https://github.com/MamadouKernel) | Konate Mamadou | Abidjan, Côte d'ivoire | 526 |
+| 9 | [MamadouKernel](https://github.com/MamadouKernel) | Konate Mamadou | Abidjan, Côte d'ivoire | 527 |
 | 10 | [juniorbrindou](https://github.com/juniorbrindou) | Junior Brindou | Côte d'Ivoire, Abidjan | 504 |
 | 11 | [kjlinux](https://github.com/kjlinux) | Ghost | Yamoussoukro, Côte d'Ivoire | 480 |
 | 12 | [DPYTHA](https://github.com/DPYTHA) | Agoua Moua | Ivory Coast | 436 |
@@ -75,7 +75,7 @@ Indexed users: 488
 | 11 | [philemongloblehi](https://github.com/philemongloblehi) | PHILEMON GLOBLEHI | Ivory Coast | 69 |
 | 12 | [agazinakou](https://github.com/agazinakou) | Lamine AZINAKOU | Abidjan, Côte d'ivoire | 63 |
 | 13 | [azizsoule](https://github.com/azizsoule) | Aziz Soulé | Abidjan, Côte d'Ivoire | 62 |
-| 14 | [Shadracthechosenone](https://github.com/Shadracthechosenone) | Shadrac | Ivory Coast | 61 |
+| 14 | [Shadracthechosenone](https://github.com/Shadracthechosenone) | Shadrac | Ivory Coast | 60 |
 | 15 | [agnamc9](https://github.com/agnamc9) | Agnaramon Boris-Carnot | Abidjan, Côte d'Ivoire | 58 |
 | 16 | [daboujohan-hub](https://github.com/daboujohan-hub) | Diomandé Abou johan | San Pedro, Côte d'Ivoire | 58 |
 | 17 | [daohassane](https://github.com/daohassane) | Hassane Dao | Côte d'ivoire, Abidjan | 51 |
@@ -83,4 +83,4 @@ Indexed users: 488
 | 19 | [DevAlves1993](https://github.com/DevAlves1993) | Christian Alves Cyrille Amani | Ivory Coast (Abidjan) | 42 |
 | 20 | [stephsalou](https://github.com/stephsalou) | stephane salou | Abidjan , Côte D'Ivoire | 41 |
 
-Generated: 2026-10-14T01:36:15.346Z
+Generated: 2026-10-14T03:05:10.056Z

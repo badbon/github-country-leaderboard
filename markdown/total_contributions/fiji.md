@@ -1,6 +1,6 @@
 # Total Contributions - Fiji
 
-Generated: 2026-10-14T01:25:04.036Z
+Generated: 2026-10-14T02:53:48.152Z
 
 Users: 325
 
@@ -12,8 +12,8 @@ Users: 325
 | 4 | [felix-davui-679](https://github.com/felix-davui-679) | Filimone Davui | Fiji National University  |  | Fiji | 1304 |
 | 5 | [krishneelkamalsingh](https://github.com/krishneelkamalsingh) | Krish |  |  | Fiji | 1138 |
 | 6 | [crazybanboo](https://github.com/crazybanboo) | Ethan | sunmi |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1085 |
-| 7 | [navneil-naicker](https://github.com/navneil-naicker) | Navneil Naicker |  |  | Suva City, Central, Fiji | 1037 |
-| 8 | [jaclla](https://github.com/jaclla) | Logic | Zenaida Orn Company |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1030 |
+| 7 | [jaclla](https://github.com/jaclla) | Logic | Zenaida Orn Company |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1030 |
+| 8 | [navneil-naicker](https://github.com/navneil-naicker) | Navneil Naicker |  |  | Suva City, Central, Fiji | 1029 |
 | 9 | [ApophisX](https://github.com/ApophisX) | GienWang | Zenaida Orn Company |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1006 |
 | 10 | [rudrprasad05](https://github.com/rudrprasad05) | Rudr Prasad | Procyon |  | Fiji | 905 |
 | 11 | [Eddie115-x](https://github.com/Eddie115-x) | Adrian Obadiah |  |  | SUVA | 893 |

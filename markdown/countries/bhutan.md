@@ -17,7 +17,7 @@ Indexed users: 267
 | 3 | [Kzoeps](https://github.com/Kzoeps) | Karma Zoepa Yoezer | Thimphu, Bhutan | 3,604 |
 | 4 | [teknatha136](https://github.com/teknatha136) | Tek Nath | Thimphu | 3,519 |
 | 5 | [jimbatshetrim](https://github.com/jimbatshetrim) | Jimba Tshetrim | Thimphu, Bhutan | 3,350 |
-| 6 | [tashi-iu](https://github.com/tashi-iu) | Tashi Tobgay Dakpa | Thimphu, Bhutan | 3,321 |
+| 6 | [tashi-iu](https://github.com/tashi-iu) | Tashi Tobgay Dakpa | Thimphu, Bhutan | 3,319 |
 | 7 | [ThuktenSingye](https://github.com/ThuktenSingye) | ThuktenSingye | Bhutan | 2,732 |
 | 8 | [PraMishra-s](https://github.com/PraMishra-s) | Pralad Mishra | Bhutan | 2,633 |
 | 9 | [sangayt1997](https://github.com/sangayt1997) | Sangay Thinley | Thimphu, Bhutan | 2,333 |
@@ -31,7 +31,7 @@ Indexed users: 267
 | 17 | [sonamtaa](https://github.com/sonamtaa) | Sonam Tashi | Babesa, Thimphu | 1,796 |
 | 18 | [KinWang-2013](https://github.com/KinWang-2013) | Kinley Wangchuk | Thimphu, Bhutan | 1,787 |
 | 19 | [grey300](https://github.com/grey300) | Tshering Gyeltshen | Bhutan | 1,770 |
-| 20 | [kashgurung](https://github.com/kashgurung) | Bikash Gurung | Thimphu Bhutan | 1,704 |
+| 20 | [kashgurung](https://github.com/kashgurung) | Bikash Gurung | Thimphu Bhutan | 1,695 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 267
 | 19 | [chimiWangchukWangdi](https://github.com/chimiWangchukWangdi) | Chimi Wangchuk Wangdi | Thimphu, Bhutan | 22 |
 | 20 | [devsangay](https://github.com/devsangay) | Sangay Wangdi | Bhutan | 22 |
 
-Generated: 2026-10-14T01:09:17.710Z
+Generated: 2026-10-14T02:35:32.134Z

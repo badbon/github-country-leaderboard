@@ -1,8 +1,8 @@
 # Public Contributions - United Arab Emirates
 
-Generated: 2026-10-14T00:53:01.131Z
+Generated: 2026-10-14T02:21:52.693Z
 
-Users: 4234
+Users: 4233
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -16,7 +16,7 @@ Users: 4234
 | 8 | [dave-hudson](https://github.com/dave-hudson) | Dave Hudson |  | davehudsonio | Abu Dhabi, UAE | 3411 |
 | 9 | [maddada](https://github.com/maddada) | Mohamad Yahia | @ShortPoint  |  | Dubai, United Arab Emirates. | 3334 |
 | 10 | [codemug](https://github.com/codemug) | Usman Shahid | Careem |  | Dubai, United Arab Emirates | 3200 |
-| 11 | [klkvr](https://github.com/klkvr) | Arsenii Kulikov |  | klkvrr | Dubai, United Arab Emirates | 2931 |
+| 11 | [klkvr](https://github.com/klkvr) | Arsenii Kulikov |  | klkvrr | Dubai, United Arab Emirates | 2900 |
 | 12 | [aroff](https://github.com/aroff) | Alex Oliveira |  |  | United Arab Emirates | 2753 |
 | 13 | [haseeb-heaven](https://github.com/haseeb-heaven) | Haseeb Heaven | Rockstar games | HaseebMir91 | Dubai,United Arab Emirates | 2460 |
 | 14 | [drakulavich](https://github.com/drakulavich) | Anton Yakutovich |  | drakulavich | Abu Dhabi, UAE | 2378 |

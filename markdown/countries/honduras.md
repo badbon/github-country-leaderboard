@@ -17,8 +17,8 @@ Indexed users: 1,261
 | 3 | [ElyDeveloper](https://github.com/ElyDeveloper) | Eliezer Rivera | Tegucigalpa, Honduras | 11,495 |
 | 4 | [robertgarcia](https://github.com/robertgarcia) | Robert D. Garcia | Honduras | 9,660 |
 | 5 | [dansiegel](https://github.com/dansiegel) | Dan Siegel | Roatan, Honduras | 9,499 |
-| 6 | [CMRicardo](https://github.com/CMRicardo) | Ricardo Corrales | Honduras | 8,223 |
-| 7 | [BitterSweetBoy](https://github.com/BitterSweetBoy) | Denis Dueñas | Honduras | 8,116 |
+| 6 | [BitterSweetBoy](https://github.com/BitterSweetBoy) | Denis Dueñas | Honduras | 8,394 |
+| 7 | [CMRicardo](https://github.com/CMRicardo) | Ricardo Corrales | Honduras | 8,223 |
 | 8 | [MGeovany](https://github.com/MGeovany) | Marlon Geovany Castro | Honduras, Cortes | 7,880 |
 | 9 | [ahvega](https://github.com/ahvega) | Adalberto Hernandez Vega | Honduras | 7,629 |
 | 10 | [drshotyou](https://github.com/drshotyou) | Alden Rivera | San Pedro Sula, Honduras | 6,940 |
@@ -83,4 +83,4 @@ Indexed users: 1,261
 | 19 | [christiansc96](https://github.com/christiansc96) | Christian Sánchez | San Pedro Sula, Honduras | 56 |
 | 20 | [Asterki](https://github.com/Asterki) | Fernando Rivera | Honduras | 55 |
 
-Generated: 2026-10-14T01:33:06.654Z
+Generated: 2026-10-14T03:00:36.164Z

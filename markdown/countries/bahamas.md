@@ -53,10 +53,10 @@ Indexed users: 236
 | 14 | [TerryJG](https://github.com/TerryJG) | Terrance | Nassau, Bahamas | 59 |
 | 15 | [GustavoHRX](https://github.com/GustavoHRX) | Gustavo Rodrigues | Bahamas | 58 |
 | 16 | [justnardo](https://github.com/justnardo) | Just_Nardo | Bahamas | 54 |
-| 17 | [amcollie](https://github.com/amcollie) | Alexandros Collie | Nassau, Bahamas | 47 |
-| 18 | [caynetic](https://github.com/caynetic) | Caynetic | Nassau, Bahamas | 44 |
-| 19 | [Wraami](https://github.com/Wraami) | Wraami | Cat Island, Bahamas | 39 |
-| 20 | [bondjacobbond](https://github.com/bondjacobbond) | Jacob Bond | Casino Royale, Nassau, Bahamas | 33 |
+| 17 | [EmmanuelAlcime](https://github.com/EmmanuelAlcime) | Emmanuel Alcime | Nassau, The Bahamas | 50 |
+| 18 | [amcollie](https://github.com/amcollie) | Alexandros Collie | Nassau, Bahamas | 47 |
+| 19 | [caynetic](https://github.com/caynetic) | Caynetic | Nassau, Bahamas | 44 |
+| 20 | [Wraami](https://github.com/Wraami) | Wraami | Cat Island, Bahamas | 39 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 236
 | 19 | [paulcitarella](https://github.com/paulcitarella) | Paul Citarella | George Town, Bahamas | 15 |
 | 20 | [yemix](https://github.com/yemix) |  | Bahamas | 14 |
 
-Generated: 2026-10-14T01:04:59.733Z
+Generated: 2026-10-14T02:33:06.696Z

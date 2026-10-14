@@ -15,8 +15,8 @@ Indexed users: 339
 | 1 | [jkenley](https://github.com/jkenley) | Kenley Jean | Haiti | 5,576 |
 | 2 | [jbob9](https://github.com/jbob9) | Jean Baptiste Berlensky O. | Haiti | 4,768 |
 | 3 | [ninjaroot-509](https://github.com/ninjaroot-509) | Castin Stanley | Haiti | 4,600 |
-| 4 | [joassanon](https://github.com/joassanon) | Joas Sanon | Port-au-prince, Haiti | 4,321 |
-| 5 | [jecode93](https://github.com/jecode93) | Jean Emmanuel Cadet | Haiti | 3,544 |
+| 4 | [joassanon](https://github.com/joassanon) | Joas Sanon | Port-au-prince, Haiti | 4,307 |
+| 5 | [jecode93](https://github.com/jecode93) | Jean Emmanuel Cadet | Haiti | 3,555 |
 | 6 | [platon777](https://github.com/platon777) | Wichley Valentin | Haiti | 2,443 |
 | 7 | [FalandyJEAN](https://github.com/FalandyJEAN) | Falandy Jean | Haiti | 2,349 |
 | 8 | [odilson-dev](https://github.com/odilson-dev) | Odilson W. Italis | Les Cayes, Haiti | 2,251 |
@@ -39,7 +39,7 @@ Indexed users: 339
 |---:|---|---|---|---:|
 | 1 | [lanovatechnologie-a11y](https://github.com/lanovatechnologie-a11y) | Lota | Limonade, Haiti | 692 |
 | 2 | [midsonlajeanty](https://github.com/midsonlajeanty) | Louis Midson Lajeanty | Haiti | 435 |
-| 3 | [jecode93](https://github.com/jecode93) | Jean Emmanuel Cadet | Haiti | 415 |
+| 3 | [jecode93](https://github.com/jecode93) | Jean Emmanuel Cadet | Haiti | 419 |
 | 4 | [ritchartconcept](https://github.com/ritchartconcept) | Fritzner Richard | haiti | 382 |
 | 5 | [Tonton-ios](https://github.com/Tonton-ios) | Eernst_ | HAITI | 369 |
 | 6 | [dolphfi](https://github.com/dolphfi) | Fidele Delon Phayendy Rodolph | Cap-Haïtien, Haiti | 343 |
@@ -83,4 +83,4 @@ Indexed users: 339
 | 19 | [skydevht](https://github.com/skydevht) | Holy-Elie Scaïde | Port-au-prince, Haïti | 32 |
 | 20 | [DybyTechX](https://github.com/DybyTechX) | DybyTechX | haiti | 31 |
 
-Generated: 2026-10-14T01:33:02.390Z
+Generated: 2026-10-14T02:59:32.428Z

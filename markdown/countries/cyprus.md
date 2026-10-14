@@ -1,6 +1,6 @@
 # Cyprus
 
-Indexed users: 2,735
+Indexed users: 2,734
 
 | Leaderboard | Link |
 |---|---|
@@ -49,8 +49,8 @@ Indexed users: 2,735
 | 10 | [candasoz01-cmd](https://github.com/candasoz01-cmd) | Candaş Öz | Kıbrıs | 3,467 |
 | 11 | [siyabendoezdemir](https://github.com/siyabendoezdemir) | Siya | Cyprus | 3,289 |
 | 12 | [phalouvas](https://github.com/phalouvas) | Panayiotis Halouvas | Cyprus  | 3,137 |
-| 13 | [programmeradu](https://github.com/programmeradu) | Samuel Adu-Berekorang | nicosia, cyprus | 3,112 |
-| 14 | [Disentinel](https://github.com/Disentinel) | Vadim Reshetnikov | Cyprus, Limassol | 2,706 |
+| 13 | [Disentinel](https://github.com/Disentinel) | Vadim Reshetnikov | Cyprus, Limassol | 3,117 |
+| 14 | [programmeradu](https://github.com/programmeradu) | Samuel Adu-Berekorang | nicosia, cyprus | 3,112 |
 | 15 | [nekto007](https://github.com/nekto007) | Igor | Limassol, Cyprus | 2,695 |
 | 16 | [VISTALL](https://github.com/VISTALL) | Valery Semenchuk | Cyprus | 2,670 |
 | 17 | [psoldunov](https://github.com/psoldunov) | Philipp Soldunov | Limassol, Cyprus | 2,614 |
@@ -83,4 +83,4 @@ Indexed users: 2,735
 | 19 | [polterguy](https://github.com/polterguy) | Thomas Hansen | Cyprus | 243 |
 | 20 | [kstep](https://github.com/kstep) | Konstantin Stepanov | Cyprus | 241 |
 
-Generated: 2026-10-14T01:18:06.384Z
+Generated: 2026-10-14T02:47:28.397Z

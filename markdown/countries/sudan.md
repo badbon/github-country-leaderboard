@@ -37,7 +37,7 @@ Indexed users: 729
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [oovaa](https://github.com/oovaa) | Omar  | Sudan | 1,229 |
+| 1 | [oovaa](https://github.com/oovaa) | Omar  | Sudan | 1,244 |
 | 2 | [MoAnwer](https://github.com/MoAnwer) | Mohamed Anwer | sudan, kassala | 1,196 |
 | 3 | [daoudtajeldeinn-png](https://github.com/daoudtajeldeinn-png) | Daoud Tajeldeinn Ahmed | sudan -khartoum | 1,184 |
 | 4 | [star4droid](https://github.com/star4droid) | Star4Droid  | Sudan | 934 |
@@ -83,4 +83,4 @@ Indexed users: 729
 | 19 | [kabaros](https://github.com/kabaros) | Mozafar | Khartoum / Glasgow | 51 |
 | 20 | [obaaa8](https://github.com/obaaa8) | محمود عبدالسميع التوم | sudan | 49 |
 
-Generated: 2026-10-14T00:45:36.451Z
+Generated: 2026-10-14T02:15:28.482Z

@@ -1,12 +1,12 @@
 # Public Contributions - Jamaica
 
-Generated: 2026-10-14T01:36:54.374Z
+Generated: 2026-10-14T03:05:40.362Z
 
 Users: 1275
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [olusiekwin](https://github.com/olusiekwin) | Gramm | Gramm's Foundation | _olusiekwin | kingston, JM | 8578 |
+| 1 | [olusiekwin](https://github.com/olusiekwin) | Gramm | Gramm's Foundation | _olusiekwin | kingston, JM | 8346 |
 | 2 | [kaplanz](https://github.com/kaplanz) | Zakhary Kaplan | @tenstorrent |  | Kingston, ON | 3926 |
 | 3 | [dcblundell](https://github.com/dcblundell) | David Blundell |  |  | Kingston, ON | 2829 |
 | 4 | [shamar-morrison](https://github.com/shamar-morrison) | horizon |  | theavgcoder | Jamaica | 2283 |

@@ -1,6 +1,6 @@
 # Public Contributions - Bahamas
 
-Generated: 2026-10-14T01:04:59.733Z
+Generated: 2026-10-14T02:33:06.696Z
 
 Users: 236
 
@@ -22,7 +22,7 @@ Users: 236
 | 14 | [TerryJG](https://github.com/TerryJG) | Terrance |  |  | Nassau, Bahamas | 59 |
 | 15 | [GustavoHRX](https://github.com/GustavoHRX) | Gustavo Rodrigues | Unemployed |  | Bahamas | 58 |
 | 16 | [justnardo](https://github.com/justnardo) | Just_Nardo | First Glance |  | Bahamas | 54 |
-| 17 | [amcollie](https://github.com/amcollie) | Alexandros Collie | Department of Information Technology |  | Nassau, Bahamas | 47 |
-| 18 | [caynetic](https://github.com/caynetic) | Caynetic | Caynetic Ltd. |  | Nassau, Bahamas | 44 |
-| 19 | [Wraami](https://github.com/Wraami) | Wraami |  |  | Cat Island, Bahamas | 39 |
-| 20 | [bondjacobbond](https://github.com/bondjacobbond) | Jacob Bond | Bond Sports |  | Casino Royale, Nassau, Bahamas | 33 |
+| 17 | [EmmanuelAlcime](https://github.com/EmmanuelAlcime) | Emmanuel Alcime | M.I.N.D Bahamas |  | Nassau, The Bahamas | 50 |
+| 18 | [amcollie](https://github.com/amcollie) | Alexandros Collie | Department of Information Technology |  | Nassau, Bahamas | 47 |
+| 19 | [caynetic](https://github.com/caynetic) | Caynetic | Caynetic Ltd. |  | Nassau, Bahamas | 44 |
+| 20 | [Wraami](https://github.com/Wraami) | Wraami |  |  | Cat Island, Bahamas | 39 |

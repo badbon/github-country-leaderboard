@@ -1,6 +1,6 @@
 # Total Contributions - South Africa
 
-Generated: 2026-10-14T00:43:29.752Z
+Generated: 2026-10-14T02:13:22.890Z
 
 Users: 17941
 
@@ -23,6 +23,6 @@ Users: 17941
 | 15 | [TheRealJamesRussell](https://github.com/TheRealJamesRussell) | James Russell |  |  | South Africa | 15525 |
 | 16 | [BitnationAI](https://github.com/BitnationAI) | Chad | QuantumBerry AI |  | South Africa | 15302 |
 | 17 | [edwynmoss](https://github.com/edwynmoss) | Edwyn Moss | Millennial Projects |  | Cape Town | 14732 |
-| 18 | [DG-za](https://github.com/DG-za) | Stefan Els | Elenjical Solutions |  | Pretoria, South Africa | 13794 |
-| 19 | [costa-developer](https://github.com/costa-developer) | Tendai Gumunyu | Digitalizeiq | costadeveloper | Cape Town | 13764 |
-| 20 | [tawanike](https://github.com/tawanike) | Tawanda Makunike | @mmogomedia  |  | Sandton, South Africa | 13017 |
+| 18 | [Schramm2](https://github.com/Schramm2) | Matthew Schramm | Ubundi |  | Cape Town, South Africa | 14715 |
+| 19 | [DG-za](https://github.com/DG-za) | Stefan Els | Elenjical Solutions |  | Pretoria, South Africa | 13794 |
+| 20 | [costa-developer](https://github.com/costa-developer) | Tendai Gumunyu | Digitalizeiq | costadeveloper | Cape Town | 13764 |

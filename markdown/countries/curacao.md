@@ -14,11 +14,11 @@ Indexed users: 53
 |---:|---|---|---|---:|
 | 1 | [mvdgun](https://github.com/mvdgun) | Mauro van der Gun | Curaçao | 6,138 |
 | 2 | [kloostermanw](https://github.com/kloostermanw) | Wiebe | Willemstad, Curaçao | 3,821 |
-| 3 | [flangfeldt](https://github.com/flangfeldt) | FΞLIX | Willemstad, Curacao | 3,572 |
+| 3 | [flangfeldt](https://github.com/flangfeldt) | FΞLIX | Willemstad, Curacao | 3,561 |
 | 4 | [BalusC](https://github.com/BalusC) | Bauke Scholtz | Willemstad, Curaçao | 3,384 |
-| 5 | [dwarfland](https://github.com/dwarfland) | marc hoffman | Curaçao | 1,412 |
+| 5 | [dwarfland](https://github.com/dwarfland) | marc hoffman | Curaçao | 1,410 |
 | 6 | [GilbertoFraaij](https://github.com/GilbertoFraaij) |  | Curacao, Netherlands Antilles | 1,258 |
-| 7 | [frankgeerlings](https://github.com/frankgeerlings) | Frank Geerlings | Curaçao | 919 |
+| 7 | [frankgeerlings](https://github.com/frankgeerlings) | Frank Geerlings | Curaçao | 918 |
 | 8 | [drosalia](https://github.com/drosalia) | Darrell Rosalia | Curaçao | 897 |
 | 9 | [JObersi10](https://github.com/JObersi10) |  | Willemstad, Curaçao | 472 |
 | 10 | [emile2600](https://github.com/emile2600) | Emile | Willemstad, Curacao | 380 |
@@ -83,4 +83,4 @@ Indexed users: 53
 | 19 | [coinversus](https://github.com/coinversus) | CoinVersus | Curaçao | 5 |
 | 20 | [flangfeldt](https://github.com/flangfeldt) | FΞLIX | Willemstad, Curacao | 5 |
 
-Generated: 2026-10-14T01:17:58.292Z
+Generated: 2026-10-14T02:47:22.351Z

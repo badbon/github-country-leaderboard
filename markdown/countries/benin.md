@@ -20,11 +20,11 @@ Indexed users: 471
 | 6 | [devalade](https://github.com/devalade) | Alade YESSOUFOU | Cotonou,Littoral, Benin | 6,543 |
 | 7 | [jprud67](https://github.com/jprud67) | Prudence  Dieudonné Assogba | Benin, cotonou | 5,121 |
 | 8 | [BOCOVO](https://github.com/BOCOVO) | bocovo | Cotonou, Benin | 4,421 |
-| 9 | [Block67](https://github.com/Block67) | Rahamane ₿ODA | Benin, Cotonou | 4,167 |
+| 9 | [Block67](https://github.com/Block67) | Rahamane ₿ODA | Benin, Cotonou | 4,186 |
 | 10 | [ludndev](https://github.com/ludndev) | Judicaël AHYI | Cotonou, Benin | 3,993 |
 | 11 | [iyosayi0x](https://github.com/iyosayi0x) | Iyosayi | Nigeria , Benin  | 3,980 |
 | 12 | [Yoannoza](https://github.com/Yoannoza) | Yoann OZA | Cotonou, Benin | 3,905 |
-| 13 | [Reqima-dev](https://github.com/Reqima-dev) | Abdul A. KONDO | Benin, Cotonou | 3,842 |
+| 13 | [Reqima-dev](https://github.com/Reqima-dev) | Abdul A. KONDO | Benin, Cotonou | 3,839 |
 | 14 | [Richard6141](https://github.com/Richard6141) | Richard SALANON | Cotonou, Bénin | 3,629 |
 | 15 | [Van064886](https://github.com/Van064886) | Vanique ATADE  | Cotonou, Benin | 3,435 |
 | 16 | [20Frederic20](https://github.com/20Frederic20) |  | Benin, Cotonou | 3,326 |
@@ -42,7 +42,7 @@ Indexed users: 471
 | 3 | [Crazyde](https://github.com/Crazyde) | ACHIDI Corneille | Cotonou, Benin | 2,512 |
 | 4 | [jprud67](https://github.com/jprud67) | Prudence  Dieudonné Assogba | Benin, cotonou | 2,118 |
 | 5 | [Tryboy869](https://github.com/Tryboy869) | Abdoul Anzize Daouda | Benin | 1,797 |
-| 6 | [Simonaks](https://github.com/Simonaks) | Simon AVOSSE | Benin | 1,637 |
+| 6 | [Simonaks](https://github.com/Simonaks) | Simon AVOSSE | Benin | 1,614 |
 | 7 | [octavebahoun](https://github.com/octavebahoun) | Octave BAHOUN-HOUTOUKPE | Benin | 1,494 |
 | 8 | [Hop-Syder](https://github.com/Hop-Syder) | ISMAEL CHRISTIAN DAOUDA ABASSI | Benin | 1,455 |
 | 9 | [7Bhil](https://github.com/7Bhil) | Bhilal. Chitou | Porto-Novo, Bénin | 1,453 |
@@ -83,4 +83,4 @@ Indexed users: 471
 | 19 | [awarris](https://github.com/awarris) | Warris AGBANNONDE | Benin, Cotonou Ganhi | 72 |
 | 20 | [baba-mandef](https://github.com/baba-mandef) | Abiodoun Paraïso | Adjarra, Benin | 72 |
 
-Generated: 2026-10-14T01:08:33.241Z
+Generated: 2026-10-14T02:34:51.211Z

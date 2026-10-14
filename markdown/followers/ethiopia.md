@@ -1,6 +1,6 @@
 # Followers - Ethiopia
 
-Generated: 2026-10-14T01:23:54.320Z
+Generated: 2026-10-14T02:52:38.068Z
 
 Users: 6700
 

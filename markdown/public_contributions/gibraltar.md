@@ -1,6 +1,6 @@
 # Public Contributions - Gibraltar
 
-Generated: 2026-10-14T01:27:52.112Z
+Generated: 2026-10-14T02:56:10.822Z
 
 Users: 93
 
@@ -10,11 +10,11 @@ Users: 93
 | 2 | [dlicudi](https://github.com/dlicudi) | Duane Licudi |  |  | Gibraltar | 2278 |
 | 3 | [Industrial](https://github.com/Industrial) | Tom Wieland | Idclear |  | Gibraltar | 1908 |
 | 4 | [ArtemSoldatkin](https://github.com/ArtemSoldatkin) | Artem Soldatkin |  |  | Gibraltar | 573 |
-| 5 | [ajedrezpremium](https://github.com/ajedrezpremium) | Ajedrez Premium | AJEDREZ PREMIUM |  | GIBRALTAR | 513 |
+| 5 | [ajedrezpremium](https://github.com/ajedrezpremium) | Ajedrez Premium | AJEDREZ PREMIUM |  | GIBRALTAR | 514 |
 | 6 | [crpol](https://github.com/crpol) | Cesar Rosa Polanco |  | cesarrpol | Gibraltar | 253 |
 | 7 | [heaventree](https://github.com/heaventree) | Heaventree Digital | Heaventree |  | Gibraltar | 241 |
 | 8 | [mortyflex](https://github.com/mortyflex) | Mohamed A | Dether |  | Gibraltar | 196 |
-| 9 | [unigib](https://github.com/unigib) | University of Gibraltar | University of Gibraltar |  | Gibraltar | 193 |
+| 9 | [unigib](https://github.com/unigib) | University of Gibraltar | University of Gibraltar |  | Gibraltar | 187 |
 | 10 | [ZedsArcade](https://github.com/ZedsArcade) | ZedsArcade |  |  | Gibraltar | 156 |
 | 11 | [llmora](https://github.com/llmora) | Lluis Mora |  | lluismh | Gibraltar | 121 |
 | 12 | [pmozdzynski](https://github.com/pmozdzynski) | P.S. Mozdzynski |  |  | Gibraltar | 85 |

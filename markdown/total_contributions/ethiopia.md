@@ -1,6 +1,6 @@
 # Total Contributions - Ethiopia
 
-Generated: 2026-10-14T01:23:54.320Z
+Generated: 2026-10-14T02:52:38.068Z
 
 Users: 6700
 
@@ -15,14 +15,14 @@ Users: 6700
 | 7 | [Benomi](https://github.com/Benomi) | Binyam T. Fisseha |  |  | Addis Ababa, Ethiopia | 10687 |
 | 8 | [tolossamuel](https://github.com/tolossamuel) | Samuel Tolossa | ICog-Labs |  | Ethiopia | 10449 |
 | 9 | [iamTadaeltadi](https://github.com/iamTadaeltadi) | Tadaeel Shewarega  | A2SV  |  | Ethiopia | 10024 |
-| 10 | [mohammedsbd](https://github.com/mohammedsbd) | Mohammed Salih |  |  | Addis Ababa | 8560 |
-| 11 | [natnaeln4d](https://github.com/natnaeln4d) | Natnael Getachew |  | natnaeln4d | Addis Ababa, Ethiopia | 8533 |
-| 12 | [abela12](https://github.com/abela12) | Abel Berhanu | @gashadigital @siltawi  |  | Ethiopia , Addis Abeba | 8394 |
-| 13 | [AmarAhmedDev](https://github.com/AmarAhmedDev) | Amar Ahmed |  |  | Ethiopia | 8340 |
-| 14 | [onesamket](https://github.com/onesamket) | Tewodros Birhanu | @siket-apps  | onesamket | Addis Ababa, Ethiopia | 8100 |
-| 15 | [demamano](https://github.com/demamano) | Dema Amano | Addis Ababa University | amano_dema | Ethiopia , Addis Ababa | 7886 |
-| 16 | [Itsyabitaa](https://github.com/Itsyabitaa) | Yeabsira | @Abolsolution |  |  Ethiopia, Addis Ababa | 7216 |
-| 17 | [melaku-z](https://github.com/melaku-z) | Melaku Zewdu |  |  | Ethiopia | 7017 |
-| 18 | [black12-ag](https://github.com/black12-ag) | Munir Kabir | @ethio-viral |  | Addis Ababa | 6761 |
-| 19 | [YeabHustles](https://github.com/YeabHustles) | Yeabkibir Tadesse | Solvix Labs  | yeabhustles | Addis Ababa , Ethiopia | 6757 |
-| 20 | [NatnaelMekonnen](https://github.com/NatnaelMekonnen) | Natnael Mekonnen |  | nhatty_mack | Addis Ababa, Ethiopia | 6587 |
+| 10 | [natnaeln4d](https://github.com/natnaeln4d) | Natnael Getachew |  | natnaeln4d | Addis Ababa, Ethiopia | 8533 |
+| 11 | [abela12](https://github.com/abela12) | Abel Berhanu | @gashadigital @siltawi  |  | Ethiopia , Addis Abeba | 8394 |
+| 12 | [AmarAhmedDev](https://github.com/AmarAhmedDev) | Amar Ahmed |  |  | Ethiopia | 8340 |
+| 13 | [onesamket](https://github.com/onesamket) | Tewodros Birhanu | @siket-apps  | onesamket | Addis Ababa, Ethiopia | 8100 |
+| 14 | [demamano](https://github.com/demamano) | Dema Amano | Addis Ababa University | amano_dema | Ethiopia , Addis Ababa | 7886 |
+| 15 | [Itsyabitaa](https://github.com/Itsyabitaa) | Yeabsira | @Abolsolution |  |  Ethiopia, Addis Ababa | 7216 |
+| 16 | [melaku-z](https://github.com/melaku-z) | Melaku Zewdu |  |  | Ethiopia | 7017 |
+| 17 | [black12-ag](https://github.com/black12-ag) | Munir Kabir | @ethio-viral |  | Addis Ababa | 6761 |
+| 18 | [YeabHustles](https://github.com/YeabHustles) | Yeabkibir Tadesse | Solvix Labs  | yeabhustles | Addis Ababa , Ethiopia | 6757 |
+| 19 | [NatnaelMekonnen](https://github.com/NatnaelMekonnen) | Natnael Mekonnen |  | nhatty_mack | Addis Ababa, Ethiopia | 6587 |
+| 20 | [iamejajo](https://github.com/iamejajo) | alazar | @BuildForSDGCohort2 |  | Addis Ababa,Ethiopia | 6404 |

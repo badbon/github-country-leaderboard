@@ -1,6 +1,6 @@
 # Total Contributions - Tajikistan
 
-Generated: 2026-10-14T00:47:57.976Z
+Generated: 2026-10-14T02:16:48.868Z
 
 Users: 711
 
@@ -9,7 +9,7 @@ Users: 711
 | 1 | [veyxov](https://github.com/veyxov) | Shekhov Ismoil | @LLC-Alif-Technology  |  | Tajikistan | 8913 |
 | 2 | [OdinManiac](https://github.com/OdinManiac) | George |  |  | Tajikistan | 8824 |
 | 3 | [rahimov-yr](https://github.com/rahimov-yr) | Yusuf Rahimov |  |  | Tajikistan | 7463 |
-| 4 | [shyn1ck](https://github.com/shyn1ck) | Parvizjon Hasanov | DC-TechHQ |  | Taikistan, Dushanbe  | 7230 |
+| 4 | [shyn1ck](https://github.com/shyn1ck) | Parvizjon Hasanov | DC-TechHQ |  | Taikistan, Dushanbe  | 7185 |
 | 5 | [umedsondoniyor](https://github.com/umedsondoniyor) | Umedzhon Izbasarov | OneWell | UmedzhonIzbasar | Tajikistan/Dushanbe | 6954 |
 | 6 | [ifteakhor](https://github.com/ifteakhor) |  | @iftech-team | ISaidkhoja | Tajikistan | 6341 |
 | 7 | [sr-44](https://github.com/sr-44) | Shahrom | Alif Bank |  | Tajikistan, Dushanbe | 6222 |

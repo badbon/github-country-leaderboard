@@ -1,6 +1,6 @@
 # Followers - South Korea
 
-Generated: 2026-10-14T00:45:11.726Z
+Generated: 2026-10-14T02:14:01.791Z
 
 Users: 56930
 

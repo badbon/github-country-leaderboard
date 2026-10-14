@@ -1,6 +1,6 @@
 # Georgia
 
-Indexed users: 6,896
+Indexed users: 6,897
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 6,896
 | 19 | [h-mdm](https://github.com/h-mdm) | Headwind MDM | Iustine Abuladze st. N15, Tbilisi, Georgia | 396 |
 | 20 | [jkomyno](https://github.com/jkomyno) | Alberto Schiabel | Tbilisi, Georgia | 392 |
 
-Generated: 2026-10-14T00:57:24.493Z
+Generated: 2026-10-14T03:07:15.192Z

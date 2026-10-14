@@ -1,6 +1,6 @@
 # Public Contributions - Croatia
 
-Generated: 2026-10-14T01:16:53.451Z
+Generated: 2026-10-14T02:45:45.801Z
 
 Users: 5436
 
@@ -24,5 +24,5 @@ Users: 5436
 | 16 | [verona-dev](https://github.com/verona-dev) | Zoran G. Verona | Good Code |  | Croatia | 2864 |
 | 17 | [Ino-Bagaric](https://github.com/Ino-Bagaric) | Ivan Bagarić |  |  | Croatia | 2824 |
 | 18 | [SeloSlav](https://github.com/SeloSlav) | Martin Erlic |  | SeloSlav | Zagreb | 2786 |
-| 19 | [ralfbecher](https://github.com/ralfbecher) | Ralfo Becher | Founder, Head of R&D | irregularbi | Veli Lošinj, Croatia | 2611 |
-| 20 | [brunozoric](https://github.com/brunozoric) | Bruno Zorić | Webiny | snyder_hr | Zagreb | 2409 |
+| 19 | [ipaleka](https://github.com/ipaleka) | Ivica Paleka | hopemeet.me |  | Zadar, Croatia | 2627 |
+| 20 | [ralfbecher](https://github.com/ralfbecher) | Ralfo Becher | Founder, Head of R&D | irregularbi | Veli Lošinj, Croatia | 2611 |

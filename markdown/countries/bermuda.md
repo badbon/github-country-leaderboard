@@ -56,7 +56,7 @@ Indexed users: 899
 | 17 | [miamioh-roseaw](https://github.com/miamioh-roseaw) | Anthony W Rose | Oxford, OH, Hamilton, OH | 577 |
 | 18 | [bjornbasar](https://github.com/bjornbasar) | Bjorn Christian Basar | Hamilton | 561 |
 | 19 | [robkumarrr](https://github.com/robkumarrr) | Rob Kumar | Hamilton, ON | 476 |
-| 20 | [TOTBWF](https://github.com/TOTBWF) | Reed Mullanix | Hamilton, ON | 468 |
+| 20 | [vjhawar12](https://github.com/vjhawar12) | Vedant Jhawar | Hamilton, ON | 468 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 899
 | 19 | [feilongcheng](https://github.com/feilongcheng) | Felix | Hamilton, NZ | 85 |
 | 20 | [wittjosiah](https://github.com/wittjosiah) | Josiah Witt | Hamilton, ON | 67 |
 
-Generated: 2026-10-14T01:08:38.920Z
+Generated: 2026-10-14T02:34:54.473Z

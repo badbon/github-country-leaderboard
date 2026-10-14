@@ -1,6 +1,6 @@
 # Public Contributions - Iceland
 
-Generated: 2026-10-14T01:33:19.838Z
+Generated: 2026-10-14T03:01:27.583Z
 
 Users: 1580
 
@@ -14,10 +14,10 @@ Users: 1580
 | 6 | [smnasiruz016-blip](https://github.com/smnasiruz016-blip) | Sheikh Muhammad Nasir Uz Zaman | almiworld.com |  | iceland | 2693 |
 | 7 | [bjorndarri](https://github.com/bjorndarri) | Björn Darri Sigurðsson |  |  | Reykjavík, Iceland | 2477 |
 | 8 | [gardarthorsteins](https://github.com/gardarthorsteins) | Garðar Þorsteinsson | Vettvangur |  | Reykjavík, Iceland | 2405 |
-| 9 | [pzychozen](https://github.com/pzychozen) | Hilmir Frímann Halldórsson |  | pzychozen | Iceland | 2015 |
-| 10 | [bgautijonsson](https://github.com/bgautijonsson) | Brynjolfur Gauti Jónsson |  |  | Reykjavík, Iceland | 2002 |
-| 11 | [vvzvlad](https://github.com/vvzvlad) | vvzvlad |  | vvzvlad | Iceland | 1947 |
-| 12 | [jokull](https://github.com/jokull) | Jökull Sólberg Auðunsson | @trip-to-japan  | jokull | Reykjavík, Iceland | 1774 |
+| 9 | [jokull](https://github.com/jokull) | Jökull Sólberg Auðunsson | @trip-to-japan  | jokull | Reykjavík, Iceland | 2163 |
+| 10 | [pzychozen](https://github.com/pzychozen) | Hilmir Frímann Halldórsson |  | pzychozen | Iceland | 2015 |
+| 11 | [bgautijonsson](https://github.com/bgautijonsson) | Brynjolfur Gauti Jónsson |  |  | Reykjavík, Iceland | 2002 |
+| 12 | [vvzvlad](https://github.com/vvzvlad) | vvzvlad |  | vvzvlad | Iceland | 1947 |
 | 13 | [egil](https://github.com/egil) | Egil Hansen | Egil Hansen ehf |  | Iceland | 1580 |
 | 14 | [sandsower](https://github.com/sandsower) | Vic Valenzuela |  |  | Reykjavík, Iceland | 1501 |
 | 15 | [bgunnarsson](https://github.com/bgunnarsson) | B. Gunnarsson | @Vettvangur  | bgunnarssonis | Iceland | 1493 |

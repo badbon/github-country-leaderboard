@@ -1,6 +1,6 @@
 # United Arab Emirates
 
-Indexed users: 4,234
+Indexed users: 4,233
 
 | Leaderboard | Link |
 |---|---|
@@ -47,7 +47,7 @@ Indexed users: 4,234
 | 8 | [dave-hudson](https://github.com/dave-hudson) | Dave Hudson | Abu Dhabi, UAE | 3,411 |
 | 9 | [maddada](https://github.com/maddada) | Mohamad Yahia | Dubai, United Arab Emirates. | 3,334 |
 | 10 | [codemug](https://github.com/codemug) | Usman Shahid | Dubai, United Arab Emirates | 3,200 |
-| 11 | [klkvr](https://github.com/klkvr) | Arsenii Kulikov | Dubai, United Arab Emirates | 2,931 |
+| 11 | [klkvr](https://github.com/klkvr) | Arsenii Kulikov | Dubai, United Arab Emirates | 2,900 |
 | 12 | [aroff](https://github.com/aroff) | Alex Oliveira | United Arab Emirates | 2,753 |
 | 13 | [haseeb-heaven](https://github.com/haseeb-heaven) | Haseeb Heaven | Dubai,United Arab Emirates | 2,460 |
 | 14 | [drakulavich](https://github.com/drakulavich) | Anton Yakutovich | Abu Dhabi, UAE | 2,378 |
@@ -73,14 +73,14 @@ Indexed users: 4,234
 | 9 | [Jackal08](https://github.com/Jackal08) | Jacques Francois Joubert | Abu Dhabi | 510 |
 | 10 | [christyjacob4](https://github.com/christyjacob4) | Christy Jacob | Abu Dhabi | 476 |
 | 11 | [Mubashir12392](https://github.com/Mubashir12392) | Muhammad Mubashir | Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates | 466 |
-| 12 | [abs0luty](https://github.com/abs0luty) | Adi Salimgereyev | Abu Dhabi, United Arab Emirates | 449 |
-| 13 | [divyanshub024](https://github.com/divyanshub024) | Divyanshu Bhargava | Abu Dhabi, UAE | 420 |
-| 14 | [khalby786](https://github.com/khalby786) | Khaleel Gibran | Dubai, United Arab Emirates | 410 |
-| 15 | [techking11](https://github.com/techking11) | Tech King | Abu Dhabi, United Arab Emirates | 408 |
-| 16 | [abxhr](https://github.com/abxhr) | Abshar Mohammed Aslam | Dubai, United Arab Emirates | 407 |
-| 17 | [sweelam](https://github.com/sweelam) | Sweelam | United Arab Emirates | 381 |
-| 18 | [kh4sh3i](https://github.com/kh4sh3i) | mohsen khashei | United Arab Emirates | 373 |
-| 19 | [FrayxRulez](https://github.com/FrayxRulez) | Fela | Dubai, United Arab Emirates | 366 |
-| 20 | [garylab](https://github.com/garylab) | Gary Meng | Abu Dhabi, UAE | 360 |
+| 12 | [divyanshub024](https://github.com/divyanshub024) | Divyanshu Bhargava | Abu Dhabi, UAE | 420 |
+| 13 | [khalby786](https://github.com/khalby786) | Khaleel Gibran | Dubai, United Arab Emirates | 410 |
+| 14 | [techking11](https://github.com/techking11) | Tech King | Abu Dhabi, United Arab Emirates | 408 |
+| 15 | [abxhr](https://github.com/abxhr) | Abshar Mohammed Aslam | Dubai, United Arab Emirates | 407 |
+| 16 | [sweelam](https://github.com/sweelam) | Sweelam | United Arab Emirates | 381 |
+| 17 | [kh4sh3i](https://github.com/kh4sh3i) | mohsen khashei | United Arab Emirates | 378 |
+| 18 | [FrayxRulez](https://github.com/FrayxRulez) | Fela | Dubai, United Arab Emirates | 366 |
+| 19 | [garylab](https://github.com/garylab) | Gary Meng | Abu Dhabi, UAE | 360 |
+| 20 | [Ahmed-Ali](https://github.com/Ahmed-Ali) | Ahmed Ali | Abu Dhabi | 359 |
 
-Generated: 2026-10-14T00:53:01.131Z
+Generated: 2026-10-14T02:21:52.693Z

@@ -17,8 +17,8 @@ Indexed users: 1,275
 | 3 | [alexarthurs](https://github.com/alexarthurs) | Alex Arthurs | Kingston, Ontario | 11,002 |
 | 4 | [SirFitz](https://github.com/SirFitz) | Romario Fitzgerald | Jamaica | 9,419 |
 | 5 | [eforth](https://github.com/eforth) | Ervin Forth | Jamaica | 9,400 |
-| 6 | [olusiekwin](https://github.com/olusiekwin) | Gramm | kingston, JM | 9,101 |
-| 7 | [kenoButler](https://github.com/kenoButler) | KenoB | Kingston, Jamaica | 8,941 |
+| 6 | [kenoButler](https://github.com/kenoButler) | KenoB | Kingston, Jamaica | 8,941 |
+| 7 | [olusiekwin](https://github.com/olusiekwin) | Gramm | kingston, JM | 8,867 |
 | 8 | [QuigProQuo](https://github.com/QuigProQuo) | John Peter Quigley | Kingston, New York | 7,798 |
 | 9 | [DinitoThompson](https://github.com/DinitoThompson) | Dinito Thompson | Jamaica | 6,819 |
 | 10 | [marcamillion](https://github.com/marcamillion) | Marc Gayle | Kingston, Jamaica | 6,366 |
@@ -37,7 +37,7 @@ Indexed users: 1,275
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [olusiekwin](https://github.com/olusiekwin) | Gramm | kingston, JM | 8,578 |
+| 1 | [olusiekwin](https://github.com/olusiekwin) | Gramm | kingston, JM | 8,346 |
 | 2 | [kaplanz](https://github.com/kaplanz) | Zakhary Kaplan | Kingston, ON | 3,926 |
 | 3 | [dcblundell](https://github.com/dcblundell) | David Blundell | Kingston, ON | 2,829 |
 | 4 | [shamar-morrison](https://github.com/shamar-morrison) | horizon | Jamaica | 2,283 |
@@ -83,4 +83,4 @@ Indexed users: 1,275
 | 19 | [JonCooperWorks](https://github.com/JonCooperWorks) |  | Jamaica | 101 |
 | 20 | [andrewmaier](https://github.com/andrewmaier) | Andrew Maier | Kingston, Ontario | 94 |
 
-Generated: 2026-10-14T01:36:54.374Z
+Generated: 2026-10-14T03:05:40.362Z

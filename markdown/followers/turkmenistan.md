@@ -1,8 +1,8 @@
 # Followers - Turkmenistan
 
-Generated: 2026-10-14T00:52:46.628Z
+Generated: 2026-10-14T02:27:32.647Z
 
-Users: 500
+Users: 501
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -12,8 +12,8 @@ Users: 500
 | 4 | [saggeldi](https://github.com/saggeldi) | Shageldi Alyyew |  |  | Turkmenistan | 140 |
 | 5 | [bridgecoresystems-cmd](https://github.com/bridgecoresystems-cmd) | BridgeCore SYSTEMS | BridgeCore SYSTEMS |  | Turkmenistan | 108 |
 | 6 | [octonet29](https://github.com/octonet29) | Gulbahar |  |  | Ashgabat, Turkmenistan | 104 |
-| 7 | [narlyyev](https://github.com/narlyyev) | Arslan Narlyyev |  |  | Turkmenistan, Ashgabat | 97 |
-| 8 | [orazchollaev](https://github.com/orazchollaev) | Oraznyýaz Çollaýew | Sada Zehin |  | Turkmenistan, Ashgabat | 96 |
+| 7 | [orazchollaev](https://github.com/orazchollaev) | Oraznyýaz Çollaýew | Sada Zehin |  | Turkmenistan, Ashgabat | 98 |
+| 8 | [narlyyev](https://github.com/narlyyev) | Arslan Narlyyev |  |  | Turkmenistan, Ashgabat | 97 |
 | 9 | [resulshm](https://github.com/resulshm) | Resul Shamuhammedov |  |  | Ashgabat, Turkmenistan | 93 |
 | 10 | [Atamyrat2005](https://github.com/Atamyrat2005) | ᴀᴛᴀᴍʏʀᴀᴛ | Alem Tilsimat | atamyrat2005 | Ashgabat/Turkmenistan | 87 |
 | 11 | [romanamangeldiev](https://github.com/romanamangeldiev) | Roman Amangeldiev | Creative Brain |  | Turkmenistan | 87 |

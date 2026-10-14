@@ -1,6 +1,6 @@
 # Slovakia
 
-Indexed users: 4,674
+Indexed users: 4,673
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 4,674
 | 19 | [Stiivi](https://github.com/Stiivi) | Stefan Urbanek | Bratislava | 280 |
 | 20 | [haad](https://github.com/haad) | Adam Hamsik | Bratislava Slovakia | 259 |
 
-Generated: 2026-10-14T00:42:15.619Z
+Generated: 2026-10-14T02:10:37.830Z

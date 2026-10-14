@@ -1,6 +1,6 @@
 # Total Contributions - Haiti
 
-Generated: 2026-10-14T01:33:02.390Z
+Generated: 2026-10-14T02:59:32.428Z
 
 Users: 339
 
@@ -9,8 +9,8 @@ Users: 339
 | 1 | [jkenley](https://github.com/jkenley) | Kenley Jean | @syntaxstudio-io  | jn_kenley | Haiti | 5576 |
 | 2 | [jbob9](https://github.com/jbob9) | Jean Baptiste Berlensky O. |  | BerlenskyO | Haiti | 4768 |
 | 3 | [ninjaroot-509](https://github.com/ninjaroot-509) | Castin Stanley | Loyalto Services | ninjaroot509 | Haiti | 4600 |
-| 4 | [joassanon](https://github.com/joassanon) | Joas Sanon | FMG. IFY. |  | Port-au-prince, Haiti | 4321 |
-| 5 | [jecode93](https://github.com/jecode93) | Jean Emmanuel Cadet | @jecode93 | jecode93 | Haiti | 3544 |
+| 4 | [joassanon](https://github.com/joassanon) | Joas Sanon | FMG. IFY. |  | Port-au-prince, Haiti | 4307 |
+| 5 | [jecode93](https://github.com/jecode93) | Jean Emmanuel Cadet | @jecode93 | jecode93 | Haiti | 3555 |
 | 6 | [platon777](https://github.com/platon777) | Wichley Valentin |  |  | Haiti | 2443 |
 | 7 | [FalandyJEAN](https://github.com/FalandyJEAN) | Falandy Jean | Mackandal Technologies |  | Haiti | 2349 |
 | 8 | [odilson-dev](https://github.com/odilson-dev) | Odilson W. Italis |  | odilsondev | Les Cayes, Haiti | 2251 |

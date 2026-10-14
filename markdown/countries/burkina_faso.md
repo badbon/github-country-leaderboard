@@ -15,9 +15,9 @@ Indexed users: 487
 | 1 | [faso-dev](https://github.com/faso-dev) | Clovis S.J Onadja | Burkina-Faso,Ouagadougou | 8,235 |
 | 2 | [tky0065](https://github.com/tky0065) | Enokdev | Burkina Faso | 6,546 |
 | 3 | [kulturman](https://github.com/kulturman) | Arnaud Bakyono  | Ouagadougou | 4,547 |
-| 4 | [Rafik226](https://github.com/Rafik226) | Oumar Abdoul Rafik Sawadogo | Burkina Faso, Kadiogo, Ouagadougou | 4,397 |
+| 4 | [Rafik226](https://github.com/Rafik226) | Oumar Abdoul Rafik Sawadogo | Burkina Faso, Kadiogo, Ouagadougou | 4,403 |
 | 5 | [Y4NN777](https://github.com/Y4NN777) | Ragnang-Newende Yanis Axel DABO | Burkina Faso | 3,949 |
-| 6 | [sokevinjonas](https://github.com/sokevinjonas) | SO Kevin Jonas Gningnabe | BURKINA FASO | 3,918 |
+| 6 | [sokevinjonas](https://github.com/sokevinjonas) | SO Kevin Jonas Gningnabe | BURKINA FASO | 3,921 |
 | 7 | [nanaelie](https://github.com/nanaelie) | Nana Elie  | Burkina Faso / Bobo Dioulasso | 3,833 |
 | 8 | [spwoodcock](https://github.com/spwoodcock) | Sam | Ouagadougou, Burkina Faso | 3,623 |
 | 9 | [serge-eric-kalaga](https://github.com/serge-eric-kalaga) | KALAGA Serge Eric | Ouagadougou, Burkina Faso 🇧🇫 | 2,797 |
@@ -28,7 +28,7 @@ Indexed users: 487
 | 14 | [mibienpanjoe](https://github.com/mibienpanjoe) | PARE Mibienpan Joseph | Burkina Faso | 1,640 |
 | 15 | [BoukaryDiallo](https://github.com/BoukaryDiallo) | Boukary DIALLO | Ouagadougou, Burkina Faso | 1,591 |
 | 16 | [Moussier24](https://github.com/Moussier24) | Moussier Cissé | Burkina Faso | 1,560 |
-| 17 | [donnikurosaki](https://github.com/donnikurosaki) | DARA Dieudonné Goumba | Burkina Faso, Ouagadougou | 1,393 |
+| 17 | [donnikurosaki](https://github.com/donnikurosaki) | DARA Dieudonné Goumba | Burkina Faso, Ouagadougou | 1,403 |
 | 18 | [adamako](https://github.com/adamako) | Adama KO | Burkina Faso | 1,372 |
 | 19 | [NICE-DEV226](https://github.com/NICE-DEV226) | Azaël Wend-panga SAWADOGO  | Burkina Faso | 1,303 |
 | 20 | [k13lucien](https://github.com/k13lucien) | Lucien Kiemde | Ouagadougou, Burkina Faso | 1,213 |
@@ -41,18 +41,18 @@ Indexed users: 487
 | 2 | [tky0065](https://github.com/tky0065) | Enokdev | Burkina Faso | 2,666 |
 | 3 | [Y4NN777](https://github.com/Y4NN777) | Ragnang-Newende Yanis Axel DABO | Burkina Faso | 2,172 |
 | 4 | [ArielShadrac](https://github.com/ArielShadrac) | Ouedraogo Fildouindé Ariel Shadrac | Burkina Faso | 1,361 |
-| 5 | [sokevinjonas](https://github.com/sokevinjonas) | SO Kevin Jonas Gningnabe | BURKINA FASO | 1,337 |
+| 5 | [sokevinjonas](https://github.com/sokevinjonas) | SO Kevin Jonas Gningnabe | BURKINA FASO | 1,342 |
 | 6 | [Zap-ai-make](https://github.com/Zap-ai-make) | Swabo Hamadou | Burkina-Faso | 1,011 |
 | 7 | [mibienpanjoe](https://github.com/mibienpanjoe) | PARE Mibienpan Joseph | Burkina Faso | 995 |
 | 8 | [PANK4SS](https://github.com/PANK4SS) | Pankassi Jean-Louis Rayane BICABA | Burkina Faso | 776 |
 | 9 | [Gbangou](https://github.com/Gbangou) | Pascal GBANGOU | Ouagadougou, Burkina Faso | 754 |
 | 10 | [Solangeilinga](https://github.com/Solangeilinga) | ILINGA Solange | Casablanca - Ouagadougou | 634 |
 | 11 | [kiswend](https://github.com/kiswend) | Nathan K. DELMA | Burkina Faso | 628 |
-| 12 | [serge-eric-kalaga](https://github.com/serge-eric-kalaga) | KALAGA Serge Eric | Ouagadougou, Burkina Faso 🇧🇫 | 543 |
-| 13 | [danielschillem](https://github.com/danielschillem) | Daniel Schillem KARAMBIRI | Burkina Faso | 539 |
-| 14 | [k13lucien](https://github.com/k13lucien) | Lucien Kiemde | Ouagadougou, Burkina Faso | 532 |
-| 15 | [gangosimeon](https://github.com/gangosimeon) | GANGO Siméon | Ouagadougou | 526 |
-| 16 | [YaogoGerard](https://github.com/YaogoGerard) | Gérard Windpagnangdé YAOGO | Burkina Faso | 496 |
+| 12 | [YaogoGerard](https://github.com/YaogoGerard) | Gérard Windpagnangdé YAOGO | Burkina Faso | 547 |
+| 13 | [serge-eric-kalaga](https://github.com/serge-eric-kalaga) | KALAGA Serge Eric | Ouagadougou, Burkina Faso 🇧🇫 | 543 |
+| 14 | [danielschillem](https://github.com/danielschillem) | Daniel Schillem KARAMBIRI | Burkina Faso | 539 |
+| 15 | [k13lucien](https://github.com/k13lucien) | Lucien Kiemde | Ouagadougou, Burkina Faso | 532 |
+| 16 | [gangosimeon](https://github.com/gangosimeon) | GANGO Siméon | Ouagadougou | 526 |
 | 17 | [Zangafigue](https://github.com/Zangafigue) | Zangafigué Mathias TRAORE | Koudougou, Burkina Faso | 444 |
 | 18 | [rxzkie](https://github.com/rxzkie) |  | Ouagadougou, Burkina Faso | 374 |
 | 19 | [NICE-DEV226](https://github.com/NICE-DEV226) | Azaël Wend-panga SAWADOGO  | Burkina Faso | 368 |
@@ -83,4 +83,4 @@ Indexed users: 487
 | 19 | [sokevinjonas](https://github.com/sokevinjonas) | SO Kevin Jonas Gningnabe | BURKINA FASO | 38 |
 | 20 | [kulturman](https://github.com/kulturman) | Arnaud Bakyono  | Ouagadougou | 37 |
 
-Generated: 2026-10-14T01:12:26.534Z
+Generated: 2026-10-14T02:38:50.053Z

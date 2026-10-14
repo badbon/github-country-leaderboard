@@ -1,6 +1,6 @@
 # Public Contributions - Togo
 
-Generated: 2026-10-14T00:49:44.280Z
+Generated: 2026-10-14T02:18:21.765Z
 
 Users: 680
 
@@ -14,13 +14,13 @@ Users: 680
 | 6 | [GYFX35](https://github.com/GYFX35) | GOUNTANTE yendoukoa | @GYFX35 |  | Togo | 1973 |
 | 7 | [ALBAN3886](https://github.com/ALBAN3886) | AET Technology  | AET Technology |  | Togo | 1886 |
 | 8 | [horacioskrp](https://github.com/horacioskrp) | Kudayah Sassou Horacio Herve |  |  | Togo-Lomé  | 1840 |
-| 9 | [Dreykovic](https://github.com/Dreykovic) | Birewa Audrey AMONA |  |  | Togo | 1826 |
+| 9 | [Dreykovic](https://github.com/Dreykovic) | Birewa Audrey AMONA |  |  | Togo | 1797 |
 | 10 | [Juniorleriche27](https://github.com/Juniorleriche27) |  | KORYXA |  | Lome, Togo | 1667 |
 | 11 | [Nova2026-graphik](https://github.com/Nova2026-graphik) | Samuel Nova | NOVAGRAPHIKVISU |  | Lomé / Togo | 1275 |
 | 12 | [Einswilli](https://github.com/Einswilli) | #Einswilli | @AllDotPy @Bluwa |  | Lomé | 1195 |
-| 13 | [Gowaru](https://github.com/Gowaru) | Mawuli Godwin Alexandre AMEVOR |  |  | Lomé | 894 |
-| 14 | [henocn](https://github.com/henocn) | Henoc N'GASAMA |  |  | Kara, Togo | 891 |
-| 15 | [Docteur-Parfait](https://github.com/Docteur-Parfait) | Tech Pastor | RodiumAi | docteur_parfait | Lomé, Togo | 851 |
+| 13 | [Gowaru](https://github.com/Gowaru) | Mawuli Godwin Alexandre AMEVOR |  |  | Lomé | 912 |
+| 14 | [Docteur-Parfait](https://github.com/Docteur-Parfait) | Tech Pastor | RodiumAi | docteur_parfait | Lomé, Togo | 851 |
+| 15 | [henocn](https://github.com/henocn) | Henoc N'GASAMA |  |  | Kara, Togo | 843 |
 | 16 | [boboPrem1](https://github.com/boboPrem1) | Amouzougan Kangni Juvanio |  |  | Togo | 816 |
 | 17 | [georgesnoe](https://github.com/georgesnoe) | Kossi Georges-Noé AHOMBO |  |  | Lomé, Togo | 753 |
 | 18 | [icichainz](https://github.com/icichainz) | Abel Koudaya | Orbis-Corporation | AbelKoudaya | Lomé, TOGO | 719 |

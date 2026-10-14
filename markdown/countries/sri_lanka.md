@@ -66,7 +66,7 @@ Indexed users: 18,327
 | 2 | [arunoda](https://github.com/arunoda) | Arunoda Susiripala | Colombo, Sri Lanka | 2,629 |
 | 3 | [indrajithbandara](https://github.com/indrajithbandara) | Indrajith Bandara | Diyathalawa, Sri Lanka | 1,477 |
 | 4 | [zyferlink](https://github.com/zyferlink) | Rajitha / Zyfer | Colombo, Sri Lanka | 1,259 |
-| 5 | [devnavodhimsara](https://github.com/devnavodhimsara) | Navod Himsara | colombo | 1,175 |
+| 5 | [devnavodhimsara](https://github.com/devnavodhimsara) | Navod Himsara | colombo | 1,155 |
 | 6 | [ThiroshMadhusha](https://github.com/ThiroshMadhusha) | Thirosh Madhusha | Colombo 02, Sri Lanka | 1,144 |
 | 7 | [ravindu01manoj](https://github.com/ravindu01manoj) | Manoj | SRI LANKA | 1,137 |
 | 8 | [mnpsnuwan](https://github.com/mnpsnuwan) | Nuwan Samarasinghe | Sri Lanka | 1,122 |
@@ -83,4 +83,4 @@ Indexed users: 18,327
 | 19 | [shenald-dev](https://github.com/shenald-dev) | Shenal D | Sri Lanka | 648 |
 | 20 | [Ihsas01](https://github.com/Ihsas01) | Mohamed Ihsas | Colombo , Srilanka | 639 |
 
-Generated: 2026-10-14T00:45:33.772Z
+Generated: 2026-10-14T02:15:25.414Z
