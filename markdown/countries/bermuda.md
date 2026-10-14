@@ -20,7 +20,7 @@ Indexed users: 899
 | 6 | [PatrickMcLennan](https://github.com/PatrickMcLennan) | Patrick McLennan | Hamilton, Ontario | 7,705 |
 | 7 | [eimaj](https://github.com/eimaj) | Jamie Allen | Hamilton | 7,379 |
 | 8 | [brandonpayton](https://github.com/brandonpayton) | Brandon Payton | Hamilton, Indiana | 7,325 |
-| 9 | [keithbrink](https://github.com/keithbrink) | Keith Brink | Hamilton, ON | 6,466 |
+| 9 | [keithbrink](https://github.com/keithbrink) | Keith Brink | Hamilton, ON | 6,550 |
 | 10 | [danielsdeboer](https://github.com/danielsdeboer) | Daniel S. Deboer | Hamilton, Ontario | 6,148 |
 | 11 | [Noprop](https://github.com/Noprop) | Greg Forster | Hamilton | 5,990 |
 | 12 | [mattgrande](https://github.com/mattgrande) | Matt Grande | Hamilton, Ontario | 5,969 |
@@ -28,10 +28,10 @@ Indexed users: 899
 | 14 | [rdaum](https://github.com/rdaum) | Ryan Daum | Hamilton, Ontario | 4,997 |
 | 15 | [dbactual](https://github.com/dbactual) | Dave Berton | Bermuda | 4,951 |
 | 16 | [lbrgriffith](https://github.com/lbrgriffith) | L. B. Ricardo Griffith | Hamilton, Bermuda | 4,556 |
-| 17 | [grantlucas](https://github.com/grantlucas) | Grant Lucas | Hamilton, Ontario | 4,294 |
-| 18 | [izzudin96](https://github.com/izzudin96) | Izzudin Anuar | Hamilton | 4,204 |
-| 19 | [adriand](https://github.com/adriand) | Adrian Duyzer | Hamilton, Ontario | 4,106 |
-| 20 | [Stieneee](https://github.com/Stieneee) | Tyler Stiene | Hamilton, Ontario | 3,933 |
+| 17 | [osamaaamer95](https://github.com/osamaaamer95) | Osama Aamer | Hamilton, NZ | 4,349 |
+| 18 | [grantlucas](https://github.com/grantlucas) | Grant Lucas | Hamilton, Ontario | 4,294 |
+| 19 | [izzudin96](https://github.com/izzudin96) | Izzudin Anuar | Hamilton | 4,204 |
+| 20 | [adriand](https://github.com/adriand) | Adrian Duyzer | Hamilton, Ontario | 4,106 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 899
 | 19 | [feilongcheng](https://github.com/feilongcheng) | Felix | Hamilton, NZ | 85 |
 | 20 | [wittjosiah](https://github.com/wittjosiah) | Josiah Witt | Hamilton, ON | 67 |
 
-Generated: 2026-10-13T17:59:18.029Z
+Generated: 2026-10-13T23:34:27.276Z

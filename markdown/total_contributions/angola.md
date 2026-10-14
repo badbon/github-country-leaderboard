@@ -1,16 +1,16 @@
 # Total Contributions - Angola
 
-Generated: 2026-10-13T17:53:24.929Z
+Generated: 2026-10-13T23:27:55.419Z
 
 Users: 2503
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [runtechx](https://github.com/runtechx) | RunTech |  |  | Angola | 32825 |
-| 2 | [Katumbela](https://github.com/Katumbela) | João Afonso Katombela | @R360 |  | LUANDA | 11834 |
-| 3 | [marianoj8](https://github.com/marianoj8) | Mariano JavaSwing | Wasp-TI |  | Angola, Luanda | 10715 |
-| 4 | [josecaseiro](https://github.com/josecaseiro) | José Caseiro | Musickool Lda |  | Angola | 10064 |
-| 5 | [aurennunes](https://github.com/aurennunes) | Aureliano Nunes | @spollytech |  | Angola | 8614 |
+| 2 | [aurennunes](https://github.com/aurennunes) | Aureliano Nunes | @spollytech |  | Angola | 13225 |
+| 3 | [Katumbela](https://github.com/Katumbela) | João Afonso Katombela | @R360 |  | LUANDA | 11834 |
+| 4 | [marianoj8](https://github.com/marianoj8) | Mariano JavaSwing | Wasp-TI |  | Angola, Luanda | 10715 |
+| 5 | [josecaseiro](https://github.com/josecaseiro) | José Caseiro | Musickool Lda |  | Angola | 10064 |
 | 6 | [EmanuelJoseCandido](https://github.com/EmanuelJoseCandido) | Emanuel Cândido |  |  | Luanda, Angola | 7203 |
 | 7 | [nuelst](https://github.com/nuelst) | manuel |  |  | Luanda, Angola | 6554 |
 | 8 | [bentocussei](https://github.com/bentocussei) | Bento Cussei |  | bentobenack | Luanda, Angola | 5936 |

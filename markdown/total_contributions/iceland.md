@@ -1,6 +1,6 @@
 # Total Contributions - Iceland
 
-Generated: 2026-10-13T16:57:22.012Z
+Generated: 2026-10-14T00:01:37.372Z
 
 Users: 1580
 
@@ -23,6 +23,6 @@ Users: 1580
 | 15 | [RationallyPrime](https://github.com/RationallyPrime) | Hákon Freyr Gunnarsson | Sókrates |  | Iceland | 7306 |
 | 16 | [bjornj12](https://github.com/bjornj12) | Björn Ólafur Jóhannsson | @avohq | bjornolafur | iceland | 6895 |
 | 17 | [arnavmehta7](https://github.com/arnavmehta7) | Arnav Mehta |  |  | Island | 6633 |
-| 18 | [gardarthorsteins](https://github.com/gardarthorsteins) | Garðar Þorsteinsson | Vettvangur |  | Reykjavík, Iceland | 6419 |
-| 19 | [arnimarj](https://github.com/arnimarj) | Árni Már Jónsson |  |  | Reykjavik, Iceland | 6030 |
-| 20 | [gunniho](https://github.com/gunniho) | Gunnar Holmsteinn | @QuestPortal  | gunniho | Reykjavik | 5931 |
+| 18 | [gthb](https://github.com/gthb) | Gunnlaugur Thor Briem | GRID |  | Reykjavík, Iceland | 6628 |
+| 19 | [gardarthorsteins](https://github.com/gardarthorsteins) | Garðar Þorsteinsson | Vettvangur |  | Reykjavík, Iceland | 6419 |
+| 20 | [arnimarj](https://github.com/arnimarj) | Árni Már Jónsson |  |  | Reykjavik, Iceland | 6359 |

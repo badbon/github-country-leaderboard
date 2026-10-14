@@ -1,6 +1,6 @@
 # Public Contributions - Turkey
 
-Generated: 2026-10-13T17:45:40.967Z
+Generated: 2026-10-13T23:17:05.369Z
 
 Users: 79150
 
@@ -11,7 +11,7 @@ Users: 79150
 | 3 | [themiralay](https://github.com/themiralay) | Enes Can Işık | 0x0e0.eth |  | Turkey | 104161 |
 | 4 | [buraksocial](https://github.com/buraksocial) | Burak Doğan |  |  | Izmir, Turkey | 75346 |
 | 5 | [TheArmagan](https://github.com/TheArmagan) | Kıraç Armağan Önal | Discord: thearmagan |  | Kadıköy, İstanbul, Türkiye | 55691 |
-| 6 | [tecotv2025](https://github.com/tecotv2025) | tecotv2025 |  |  | Türkiye | 20643 |
+| 6 | [tecotv2025](https://github.com/tecotv2025) | tecotv2025 |  |  | Türkiye | 18266 |
 | 7 | [poyrazK](https://github.com/poyrazK) |  Hüseyin Poyraz Küçükarslan |  |  | Erzurum , Türkiye | 17002 |
 | 8 | [yanekyuk](https://github.com/yanekyuk) | Yankı Ekin Yüksel |  |  | İstanbul | 12571 |
 | 9 | [ardamoustafa1](https://github.com/ardamoustafa1) | Arda |  |  | İstanbul  | 11265 |

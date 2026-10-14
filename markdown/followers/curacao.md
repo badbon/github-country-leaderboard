@@ -1,6 +1,6 @@
 # Followers - Curaçao
 
-Generated: 2026-10-13T18:10:55.243Z
+Generated: 2026-10-13T23:44:29.531Z
 
 Users: 53
 
@@ -17,7 +17,7 @@ Users: 53
 | 9 | [frankgeerlings](https://github.com/frankgeerlings) | Frank Geerlings |  |  | Curaçao | 22 |
 | 10 | [nelreina](https://github.com/nelreina) | Nelreina |  | nelreina | Willemstad, Curacao | 19 |
 | 11 | [ekid](https://github.com/ekid) | Ekid | Eflavour |  | Willemstad | 16 |
-| 12 | [rscoopcur](https://github.com/rscoopcur) | Richard Scoop | Cursoft Development & Consultancy NV | rascoop | Willemstad, Curaçao, Dutch Caribbean | 15 |
+| 12 | [rscoopcur](https://github.com/rscoopcur) | Richard Scoop | Cursoft Development & Consultancy NV | rascoop | Willemstad, Curaçao, Dutch Caribbean | 14 |
 | 13 | [r3c4ll](https://github.com/r3c4ll) | Ali Moreno | XenoTrue N.V. | r3c4ll | Willemstad, Curaçao. | 13 |
 | 14 | [bythealphabet](https://github.com/bythealphabet) | Isaac Lucas |  | bythealphabet1 | Willemstad, Curacao | 7 |
 | 15 | [evobersi](https://github.com/evobersi) | Erica |  |  | Willemstad | 7 |

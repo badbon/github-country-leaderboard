@@ -16,18 +16,18 @@ Indexed users: 1,785
 | 2 | [ynvYauneEnovore](https://github.com/ynvYauneEnovore) | Yovan R. Enovore | Sucre Bolivia | 10,439 |
 | 3 | [rp4ri](https://github.com/rp4ri) | Toborochi | Bolivia | 8,894 |
 | 4 | [DaleneyRuben](https://github.com/DaleneyRuben) | Fernando Daleney | La Paz, Bolivia | 7,044 |
-| 5 | [abelrgr](https://github.com/abelrgr) | Abel | Bolivia | 6,760 |
-| 6 | [jpfernandezl](https://github.com/jpfernandezl) | Juan Pablo Fernandez | Bolivia | 6,174 |
-| 7 | [stanlee321](https://github.com/stanlee321) | Stanley Salvatierra | Bolivia | 5,978 |
-| 8 | [alxmcr](https://github.com/alxmcr) | Alejandro M. Coca | Bolivia | 5,919 |
-| 9 | [nicolenumbergg](https://github.com/nicolenumbergg) | Nicole Numberg | Santa Cruz, Bolivia | 5,704 |
-| 10 | [OscarGauss](https://github.com/OscarGauss) | Oscar Gauss Carvajal Yucra | La Paz, Bolivia | 5,452 |
-| 11 | [cesarszv](https://github.com/cesarszv) | Sebastian Zambrana | Santa Cruz, Bolivia | 4,929 |
-| 12 | [gitchaell](https://github.com/gitchaell) | Michaell Alavedra | Santa Cruz de la Sierra, Bolivia | 4,922 |
-| 13 | [nahimdhaney](https://github.com/nahimdhaney) | Nahim Terrazas Parada | Bolivia | 4,524 |
-| 14 | [ChristianConchari](https://github.com/ChristianConchari) | Chris Conchari | Bolivia | 4,388 |
-| 15 | [villcabo](https://github.com/villcabo) | Bismarck Villca | Bolivia | 4,262 |
-| 16 | [arkgast](https://github.com/arkgast) | Arnold Gandarillas Castillo | Bolivia | 4,251 |
+| 5 | [arkgast](https://github.com/arkgast) | Arnold Gandarillas Castillo | Bolivia | 7,025 |
+| 6 | [abelrgr](https://github.com/abelrgr) | Abel | Bolivia | 6,760 |
+| 7 | [jpfernandezl](https://github.com/jpfernandezl) | Juan Pablo Fernandez | Bolivia | 6,174 |
+| 8 | [stanlee321](https://github.com/stanlee321) | Stanley Salvatierra | Bolivia | 5,978 |
+| 9 | [alxmcr](https://github.com/alxmcr) | Alejandro M. Coca | Bolivia | 5,919 |
+| 10 | [nicolenumbergg](https://github.com/nicolenumbergg) | Nicole Numberg | Santa Cruz, Bolivia | 5,704 |
+| 11 | [OscarGauss](https://github.com/OscarGauss) | Oscar Gauss Carvajal Yucra | La Paz, Bolivia | 5,452 |
+| 12 | [cesarszv](https://github.com/cesarszv) | Sebastian Zambrana | Santa Cruz, Bolivia | 4,929 |
+| 13 | [gitchaell](https://github.com/gitchaell) | Michaell Alavedra | Santa Cruz de la Sierra, Bolivia | 4,922 |
+| 14 | [nahimdhaney](https://github.com/nahimdhaney) | Nahim Terrazas Parada | Bolivia | 4,524 |
+| 15 | [ChristianConchari](https://github.com/ChristianConchari) | Chris Conchari | Bolivia | 4,388 |
+| 16 | [villcabo](https://github.com/villcabo) | Bismarck Villca | Bolivia | 4,262 |
 | 17 | [GonzaloPinell](https://github.com/GonzaloPinell) | Gonzalo Pinell | La Paz, Bolivia | 4,013 |
 | 18 | [Mats2208](https://github.com/Mats2208) | Mateo Andres Soto Gareca | Santa Cruz, Bolivia | 3,751 |
 | 19 | [ggonzalez94](https://github.com/ggonzalez94) | Gustavo Gonzalez | Santa Cruz de la SIerra, Bolivia | 3,746 |
@@ -43,7 +43,7 @@ Indexed users: 1,785
 | 4 | [LudCano](https://github.com/LudCano) | Ludving Cano Fernandez | La Paz, Bolivia | 2,567 |
 | 5 | [ldgd2](https://github.com/ldgd2) | Lider | Bolivia | 2,241 |
 | 6 | [SergioRibera](https://github.com/SergioRibera) | Sergio Alejandro Ribera Costa | Santa Cruz de la Sierra, Bolivia | 2,088 |
-| 7 | [arkgast](https://github.com/arkgast) | Arnold Gandarillas Castillo | Bolivia | 1,627 |
+| 7 | [arkgast](https://github.com/arkgast) | Arnold Gandarillas Castillo | Bolivia | 1,859 |
 | 8 | [rafael1199v](https://github.com/rafael1199v) | Rafael Vargas | Bolivia | 1,577 |
 | 9 | [ovidiocbba](https://github.com/ovidiocbba) | Simon Ovidio Miranda Chiri | Bolivia | 1,448 |
 | 10 | [olivio-git](https://github.com/olivio-git) | olivio-git | Tarija/Bolivia | 1,416 |
@@ -83,4 +83,4 @@ Indexed users: 1,785
 | 19 | [CarlaMamaniChavez](https://github.com/CarlaMamaniChavez) | Carla Vanesa Mamani Chavez | La Paz, Bolivia | 127 |
 | 20 | [alvarosiles11](https://github.com/alvarosiles11) | Alvaro Siles Estrada | Bolivia | 121 |
 
-Generated: 2026-10-13T18:00:36.218Z
+Generated: 2026-10-13T23:35:08.023Z

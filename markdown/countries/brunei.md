@@ -17,10 +17,10 @@ Indexed users: 254
 | 3 | [SatriaSuriaAriffin](https://github.com/SatriaSuriaAriffin) | Satria Suria | Brunei | 2,927 |
 | 4 | [akasmirhan4](https://github.com/akasmirhan4) | Amirrul Kasmirhan | Brunei | 2,232 |
 | 5 | [fatinjulaihi](https://github.com/fatinjulaihi) | Fatin Julaihi | Brunei | 1,199 |
-| 6 | [abizarleman](https://github.com/abizarleman) | Abizar Leman | Brunei Darussalam | 1,054 |
-| 7 | [OmarDST](https://github.com/OmarDST) | Omar Ibrahim | Brunei | 1,018 |
-| 8 | [KaramelBytes](https://github.com/KaramelBytes) | Jeremiah Henning | Brunei Darussalam | 894 |
-| 9 | [hilmishah](https://github.com/hilmishah) | Hilmi Shah | Brunei | 890 |
+| 6 | [OmarDST](https://github.com/OmarDST) | Omar Ibrahim | Brunei | 1,057 |
+| 7 | [abizarleman](https://github.com/abizarleman) | Abizar Leman | Brunei Darussalam | 1,054 |
+| 8 | [hilmishah](https://github.com/hilmishah) | Hilmi Shah | Brunei | 896 |
+| 9 | [KaramelBytes](https://github.com/KaramelBytes) | Jeremiah Henning | Brunei Darussalam | 894 |
 | 10 | [lmwnshn](https://github.com/lmwnshn) | Wan Shen Lim | San Francisco, CA \| Brunei | 614 |
 | 11 | [habibah-mahadi](https://github.com/habibah-mahadi) | Habibah Mahadi | Brunei Darussalam | 603 |
 | 12 | [anwari-fikri](https://github.com/anwari-fikri) | Anwari Fikri | Brunei Darussalam | 555 |
@@ -67,7 +67,7 @@ Indexed users: 254
 | 3 | [izdiwho](https://github.com/izdiwho) | Iz | Brunei | 64 |
 | 4 | [Qoyyuum](https://github.com/Qoyyuum) | Abdul Qoyyuum | Brunei Darussalam | 51 |
 | 5 | [thewheat](https://github.com/thewheat) | Timothy Lim | Brunei | 47 |
-| 6 | [PandaWarrior63](https://github.com/PandaWarrior63) |  | Brunei | 40 |
+| 6 | [PandaWarrior63](https://github.com/PandaWarrior63) |  | Brunei | 39 |
 | 7 | [abizarleman](https://github.com/abizarleman) | Abizar Leman | Brunei Darussalam | 29 |
 | 8 | [sk8teroy](https://github.com/sk8teroy) |  | Brunei | 27 |
 | 9 | [jailanihar](https://github.com/jailanihar) | Jailani Abdul Rahman | Brunei Darussalam | 25 |
@@ -83,4 +83,4 @@ Indexed users: 254
 | 19 | [nathanielcwm](https://github.com/nathanielcwm) | Nathaniel | Brunei | 14 |
 | 20 | [affenrahim88](https://github.com/affenrahim88) | Affandy Abdul Rahim | Brunei Darussalam | 13 |
 
-Generated: 2026-10-13T18:01:46.145Z
+Generated: 2026-10-13T23:35:44.923Z

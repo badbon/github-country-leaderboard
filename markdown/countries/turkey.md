@@ -30,8 +30,8 @@ Indexed users: 79,150
 | 16 | [erkanalperen54-boop](https://github.com/erkanalperen54-boop) | Alperen ERKAN | Türkiye/Ankara | 23,678 |
 | 17 | [ozkuran](https://github.com/ozkuran) | Mahmut Ali ÖZKURAN | Istanbul | 23,193 |
 | 18 | [mturac](https://github.com/mturac) | mehmet turac | Istanbul | 21,165 |
-| 19 | [tecotv2025](https://github.com/tecotv2025) | tecotv2025 | Türkiye | 20,643 |
-| 20 | [keyvanarasteh](https://github.com/keyvanarasteh) | Keyvan Arasteh | Istanbul, Turkey | 20,193 |
+| 19 | [keyvanarasteh](https://github.com/keyvanarasteh) | Keyvan Arasteh | Istanbul, Turkey | 20,193 |
+| 20 | [umutkeltek](https://github.com/umutkeltek) | Umut Keltek | Istanbul | 19,089 |
 
 ## Public Contributions
 
@@ -42,7 +42,7 @@ Indexed users: 79,150
 | 3 | [themiralay](https://github.com/themiralay) | Enes Can Işık | Turkey | 104,161 |
 | 4 | [buraksocial](https://github.com/buraksocial) | Burak Doğan | Izmir, Turkey | 75,346 |
 | 5 | [TheArmagan](https://github.com/TheArmagan) | Kıraç Armağan Önal | Kadıköy, İstanbul, Türkiye | 55,691 |
-| 6 | [tecotv2025](https://github.com/tecotv2025) | tecotv2025 | Türkiye | 20,643 |
+| 6 | [tecotv2025](https://github.com/tecotv2025) | tecotv2025 | Türkiye | 18,266 |
 | 7 | [poyrazK](https://github.com/poyrazK) |  Hüseyin Poyraz Küçükarslan | Erzurum , Türkiye | 17,002 |
 | 8 | [yanekyuk](https://github.com/yanekyuk) | Yankı Ekin Yüksel | İstanbul | 12,571 |
 | 9 | [ardamoustafa1](https://github.com/ardamoustafa1) | Arda | İstanbul  | 11,265 |
@@ -83,4 +83,4 @@ Indexed users: 79,150
 | 19 | [buger](https://github.com/buger) | Leonid Bugaev | Istanbul | 3,587 |
 | 20 | [ardaltunel](https://github.com/ardaltunel) | Arda Altunel | İstanbul/Turkey | 3,517 |
 
-Generated: 2026-10-13T17:45:40.967Z
+Generated: 2026-10-13T23:17:05.369Z

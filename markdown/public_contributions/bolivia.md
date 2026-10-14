@@ -1,6 +1,6 @@
 # Public Contributions - Bolivia
 
-Generated: 2026-10-13T18:00:36.218Z
+Generated: 2026-10-13T23:35:08.023Z
 
 Users: 1785
 
@@ -12,7 +12,7 @@ Users: 1785
 | 4 | [LudCano](https://github.com/LudCano) | Ludving Cano Fernandez |  |  | La Paz, Bolivia | 2567 |
 | 5 | [ldgd2](https://github.com/ldgd2) | Lider |  |  | Bolivia | 2241 |
 | 6 | [SergioRibera](https://github.com/SergioRibera) | Sergio Alejandro Ribera Costa | @RustLangES | sergioribera_rs | Santa Cruz de la Sierra, Bolivia | 2088 |
-| 7 | [arkgast](https://github.com/arkgast) | Arnold Gandarillas Castillo |  |  | Bolivia | 1627 |
+| 7 | [arkgast](https://github.com/arkgast) | Arnold Gandarillas Castillo |  |  | Bolivia | 1859 |
 | 8 | [rafael1199v](https://github.com/rafael1199v) | Rafael Vargas |  |  | Bolivia | 1577 |
 | 9 | [ovidiocbba](https://github.com/ovidiocbba) | Simon Ovidio Miranda Chiri |  |  | Bolivia | 1448 |
 | 10 | [olivio-git](https://github.com/olivio-git) | olivio-git |  |  | Tarija/Bolivia | 1416 |

@@ -16,7 +16,7 @@ Indexed users: 201
 | 2 | [Sanusihassan](https://github.com/Sanusihassan) | Sanusi Hassan | Chad | 2,398 |
 | 3 | [Newton92](https://github.com/Newton92) | PELBA JEREMIE NGOURMISSALA | TCHAD | 680 |
 | 4 | [Helionux](https://github.com/Helionux) | Deoule-Allah Madjitoloum Heliodore | Tchad | 624 |
-| 5 | [cherifissa](https://github.com/cherifissa) | Mahamt cherif issa | TCHAD | 515 |
+| 5 | [cherifissa](https://github.com/cherifissa) | Mahamt cherif issa | TCHAD | 540 |
 | 6 | [steveyandev](https://github.com/steveyandev) | Steve Yanyara | Tchad | 259 |
 | 7 | [mittb1g](https://github.com/mittb1g) |  | Chad | 251 |
 | 8 | [TomkerDev](https://github.com/TomkerDev) | TOMTE Hassane | Ndjamena, Tchad | 241 |
@@ -83,4 +83,4 @@ Indexed users: 201
 | 19 | [sulzokeboulin](https://github.com/sulzokeboulin) | Norma Brown | West Joshuaburgh, Chad | 8 |
 | 20 | [Floppinqq](https://github.com/Floppinqq) | Floppinqq | chad | 7 |
 
-Generated: 2026-10-13T18:06:27.705Z
+Generated: 2026-10-13T23:42:24.113Z

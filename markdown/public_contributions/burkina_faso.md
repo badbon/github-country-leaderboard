@@ -1,6 +1,6 @@
 # Public Contributions - Burkina Faso
 
-Generated: 2026-10-13T18:02:54.257Z
+Generated: 2026-10-13T23:37:35.421Z
 
 Users: 487
 
@@ -8,9 +8,9 @@ Users: 487
 |---:|---|---|---|---|---|---:|
 | 1 | [spwoodcock](https://github.com/spwoodcock) | Sam | Tech Lead @hotosm |  | Ouagadougou, Burkina Faso | 3623 |
 | 2 | [tky0065](https://github.com/tky0065) | Enokdev | Enokdev |  | Burkina Faso | 2666 |
-| 3 | [Y4NN777](https://github.com/Y4NN777) | Ragnang-Newende Yanis Axel DABO | @Y7-Labs  |  | Burkina Faso | 2167 |
-| 4 | [sokevinjonas](https://github.com/sokevinjonas) | SO Kevin Jonas Gningnabe | KGSLAB |  | BURKINA FASO | 1337 |
-| 5 | [ArielShadrac](https://github.com/ArielShadrac) | Ouedraogo Fildouindé Ariel Shadrac | Xcept-Health |  | Burkina Faso | 1335 |
+| 3 | [Y4NN777](https://github.com/Y4NN777) | Ragnang-Newende Yanis Axel DABO | @Y7-Labs  |  | Burkina Faso | 2172 |
+| 4 | [ArielShadrac](https://github.com/ArielShadrac) | Ouedraogo Fildouindé Ariel Shadrac | Xcept-Health |  | Burkina Faso | 1361 |
+| 5 | [sokevinjonas](https://github.com/sokevinjonas) | SO Kevin Jonas Gningnabe | KGSLAB |  | BURKINA FASO | 1337 |
 | 6 | [Zap-ai-make](https://github.com/Zap-ai-make) | Swabo Hamadou |  |  | Burkina-Faso | 1011 |
 | 7 | [mibienpanjoe](https://github.com/mibienpanjoe) | PARE Mibienpan Joseph |  |  | Burkina Faso | 995 |
 | 8 | [PANK4SS](https://github.com/PANK4SS) | Pankassi Jean-Louis Rayane BICABA | Independent Software Engineer |  | Burkina Faso | 776 |

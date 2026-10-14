@@ -1,6 +1,6 @@
 # Followers - Azerbaijan
 
-Generated: 2026-10-13T17:56:40.282Z
+Generated: 2026-10-13T23:30:47.338Z
 
 Users: 5077
 
@@ -8,13 +8,13 @@ Users: 5077
 |---:|---|---|---|---|---|---:|
 | 1 | [martian56](https://github.com/martian56) | Martian | @Alievs-corp |  | Azerbaijan | 1709 |
 | 2 | [eldarlrd](https://github.com/eldarlrd) | Eldar Paşazadə | İKTex LLC |  | Baku, Azerbaijan | 991 |
-| 3 | [gojayevmurad](https://github.com/gojayevmurad) | Murad Gojayev |  |  | Baku, Azerbaijan | 941 |
+| 3 | [gojayevmurad](https://github.com/gojayevmurad) | Murad Gojayev |  |  | Baku, Azerbaijan | 937 |
 | 4 | [qafaraz](https://github.com/qafaraz) | Qafar Qəmbərzadə |  |  | Azerbaijan baku | 664 |
 | 5 | [EminHaziyev](https://github.com/EminHaziyev) | emin |  |  | Baku | 626 |
 | 6 | [MuradIsazade777](https://github.com/MuradIsazade777) | Murad  | FULL-STACK DEVELOPER  | Isazde_Murad | Baku, Azerbaijan | 527 |
 | 7 | [orkhan-muradov-dev](https://github.com/orkhan-muradov-dev) | Orkhan |  |  | Baku, Azerbaijan | 525 |
 | 8 | [TuralSuleymani](https://github.com/TuralSuleymani) | Tural Suleymani | ITF Group |  | Baku | 471 |
-| 9 | [khanjanov](https://github.com/khanjanov) | Karim |  |  | Azerbaijan, Baku | 444 |
+| 9 | [khanjanov](https://github.com/khanjanov) | Karim |  |  | Azerbaijan, Baku | 442 |
 | 10 | [hasanbakhtiar](https://github.com/hasanbakhtiar) | Hasan  | Webluna Software |  | Azerbaijan, Baku | 436 |
 | 11 | [kamranbekirovyz](https://github.com/kamranbekirovyz) | Kamran Bekirov |  | kamranbekirovyz | Baku, Azerbaijan | 413 |
 | 12 | [sarkhanrasullu](https://github.com/sarkhanrasullu) | Sarkhan Rasullu | www.sarkhanrasullu.com |  | Azerbaijan | 408 |

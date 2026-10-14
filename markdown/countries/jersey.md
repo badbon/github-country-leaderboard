@@ -15,17 +15,17 @@ Indexed users: 139
 | 1 | [marcusquinn](https://github.com/marcusquinn) | Marcus Quinn | London, UK, Los-angeles, California, England, Jersey | 54,231 |
 | 2 | [PhilETaylor](https://github.com/PhilETaylor) | Phil E. Taylor | Jersey, Channel Islands | 38,399 |
 | 3 | [jde](https://github.com/jde) | David Erwin | New [York, Jersey] | 11,803 |
-| 4 | [ndestates](https://github.com/ndestates) | Nick Dodsley | Jersey | 10,426 |
-| 5 | [guessty](https://github.com/guessty) | Christian | Jersey, Channel Islands | 8,114 |
+| 4 | [ndestates](https://github.com/ndestates) | Nick Dodsley | Jersey | 10,548 |
+| 5 | [guessty](https://github.com/guessty) | Christian | Jersey, Channel Islands | 8,115 |
 | 6 | [timkrins](https://github.com/timkrins) | Tim Krins | Jersey, Channel Islands | 4,762 |
 | 7 | [danielmullin](https://github.com/danielmullin) | Daniel Mullin | Jersey | 4,670 |
 | 8 | [gnathoi](https://github.com/gnathoi) | Nathaniel Hey | Jersey, Channel Islands | 4,266 |
-| 9 | [wildgeodude](https://github.com/wildgeodude) | Dominic Samphier | Jersey | 4,109 |
-| 10 | [oidz1234](https://github.com/oidz1234) | Mark McNally | Jersey | 3,360 |
+| 9 | [wildgeodude](https://github.com/wildgeodude) | Dominic Samphier | Jersey | 4,136 |
+| 10 | [oidz1234](https://github.com/oidz1234) | Mark McNally | Jersey | 3,355 |
 | 11 | [r-moore](https://github.com/r-moore) | Richard Moore | Jersey | 3,309 |
 | 12 | [digitalbuddha](https://github.com/digitalbuddha) | Mike Nakhimovich | The dirty (jersey) | 3,256 |
 | 13 | [cjkmcc](https://github.com/cjkmcc) | Chris McCarthy | Jersey / London | 2,903 |
-| 14 | [TafadzwaD](https://github.com/TafadzwaD) | Tafadzwa Demba | Jersey | 2,386 |
+| 14 | [TafadzwaD](https://github.com/TafadzwaD) | Tafadzwa Demba | Jersey | 2,390 |
 | 15 | [samjamead](https://github.com/samjamead) | Sam Mead | Grouville, Jersey | 1,738 |
 | 16 | [jackleriche](https://github.com/jackleriche) | Jack Le Riche | Jersey | 1,625 |
 | 17 | [alexleach](https://github.com/alexleach) | ALB.Leach | Jersey, UK | 1,425 |
@@ -83,4 +83,4 @@ Indexed users: 139
 | 19 | [r-moore](https://github.com/r-moore) | Richard Moore | Jersey | 21 |
 | 20 | [Chrisedmo](https://github.com/Chrisedmo) | Chris Mousdale | Jersey, Channel Islands | 20 |
 
-Generated: 2026-10-13T18:31:30.253Z
+Generated: 2026-10-14T00:04:34.298Z

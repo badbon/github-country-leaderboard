@@ -1,13 +1,13 @@
 # Total Contributions - Greenland
 
-Generated: 2026-10-13T18:20:30.035Z
+Generated: 2026-10-13T23:55:56.690Z
 
 Users: 59
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [sgoggins](https://github.com/sgoggins) | Sean P. Goggins | University of Missouri, Aveloxis Foundation | sociallycompute | Greenland | 3958 |
-| 2 | [johan-ejstrud](https://github.com/johan-ejstrud) | Johan Ejstrud | Ejstrud Consulting |  | Nuuk, Greenland | 1773 |
+| 1 | [sgoggins](https://github.com/sgoggins) | Sean P. Goggins | University of Missouri, Aveloxis Foundation | sociallycompute | Greenland | 3976 |
+| 2 | [johan-ejstrud](https://github.com/johan-ejstrud) | Johan Ejstrud | Ejstrud Consulting |  | Nuuk, Greenland | 1776 |
 | 3 | [ProjectAtlantis-dev](https://github.com/ProjectAtlantis-dev) | hello kitty | project-atlantis.ai | atlantis2point0 | Greenland | 1442 |
 | 4 | [ASGDLO](https://github.com/ASGDLO) | ASGDLO | AG |  | Greenland | 1272 |
 | 5 | [filzehoka](https://github.com/filzehoka) | Filze | Tusass  |  | Greenland | 901 |

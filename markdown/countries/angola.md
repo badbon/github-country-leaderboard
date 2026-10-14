@@ -13,10 +13,10 @@ Indexed users: 2,503
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [runtechx](https://github.com/runtechx) | RunTech | Angola | 32,825 |
-| 2 | [Katumbela](https://github.com/Katumbela) | João Afonso Katombela | LUANDA | 11,834 |
-| 3 | [marianoj8](https://github.com/marianoj8) | Mariano JavaSwing | Angola, Luanda | 10,715 |
-| 4 | [josecaseiro](https://github.com/josecaseiro) | José Caseiro | Angola | 10,064 |
-| 5 | [aurennunes](https://github.com/aurennunes) | Aureliano Nunes | Angola | 8,614 |
+| 2 | [aurennunes](https://github.com/aurennunes) | Aureliano Nunes | Angola | 13,225 |
+| 3 | [Katumbela](https://github.com/Katumbela) | João Afonso Katombela | LUANDA | 11,834 |
+| 4 | [marianoj8](https://github.com/marianoj8) | Mariano JavaSwing | Angola, Luanda | 10,715 |
+| 5 | [josecaseiro](https://github.com/josecaseiro) | José Caseiro | Angola | 10,064 |
 | 6 | [EmanuelJoseCandido](https://github.com/EmanuelJoseCandido) | Emanuel Cândido | Luanda, Angola | 7,203 |
 | 7 | [nuelst](https://github.com/nuelst) | manuel | Luanda, Angola | 6,554 |
 | 8 | [bentocussei](https://github.com/bentocussei) | Bento Cussei | Luanda, Angola | 5,936 |
@@ -83,4 +83,4 @@ Indexed users: 2,503
 | 19 | [nazarepiedady](https://github.com/nazarepiedady) | Nazaré da Piedade | Angola | 164 |
 | 20 | [jofranqueira](https://github.com/jofranqueira) | José Frangueira | Angola | 160 |
 
-Generated: 2026-10-13T17:53:24.929Z
+Generated: 2026-10-13T23:27:55.419Z

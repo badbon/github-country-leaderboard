@@ -1,6 +1,6 @@
 # Followers - Equatorial Guinea
 
-Generated: 2026-10-13T18:13:47.149Z
+Generated: 2026-10-13T23:48:53.067Z
 
 Users: 21
 
@@ -10,8 +10,8 @@ Users: 21
 | 2 | [seamuddin](https://github.com/seamuddin) | Seam uddin | Rosa Money SL |  | Malabo, Equatorial guinea | 14 |
 | 3 | [cornensue](https://github.com/cornensue) | Cornelio Nsue |  | cornensue | Malabo | 9 |
 | 4 | [coolmechel](https://github.com/coolmechel) | Ugwu Chukwuemeka Emmanuel |  |  | Equatorial Guinea | 6 |
-| 5 | [DanielNdong](https://github.com/DanielNdong) | Daniel Aquilino Ndong |  | devtotech | Malabo, Guinea Ecuatorial | 5 |
-| 6 | [Xenon0001](https://github.com/Xenon0001) | Luis Rafael Eyoma | Xenon.py |  | Bata, Equatorial Guinea | 5 |
+| 5 | [Xenon0001](https://github.com/Xenon0001) | Luis Rafael Eyoma | Xenon.py |  | Bata, Equatorial Guinea | 6 |
+| 6 | [DanielNdong](https://github.com/DanielNdong) | Daniel Aquilino Ndong |  | devtotech | Malabo, Guinea Ecuatorial | 5 |
 | 7 | [vicentehmba](https://github.com/vicentehmba) | VIcente Hugo Mba | Deftreach |  | Equatorial Guinea | 4 |
 | 8 | [alexis-ngoyi](https://github.com/alexis-ngoyi) | Alexis Ngoyi M. | Qirah | alexisNgoyi | Guinee Equatoriale, Malabo | 3 |
 | 9 | [Nazario95](https://github.com/Nazario95) | Nazario Muanbama |  | NazzaReg | Malabo-EQ | 2 |

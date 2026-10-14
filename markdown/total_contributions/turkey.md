@@ -1,6 +1,6 @@
 # Total Contributions - Turkey
 
-Generated: 2026-10-13T17:45:40.967Z
+Generated: 2026-10-13T23:17:05.369Z
 
 Users: 79150
 
@@ -24,5 +24,5 @@ Users: 79150
 | 16 | [erkanalperen54-boop](https://github.com/erkanalperen54-boop) | Alperen ERKAN | Stux6 Technology® |  | Türkiye/Ankara | 23678 |
 | 17 | [ozkuran](https://github.com/ozkuran) | Mahmut Ali ÖZKURAN |  |  | Istanbul | 23193 |
 | 18 | [mturac](https://github.com/mturac) | mehmet turac |  | turacthethinker | Istanbul | 21165 |
-| 19 | [tecotv2025](https://github.com/tecotv2025) | tecotv2025 |  |  | Türkiye | 20643 |
-| 20 | [keyvanarasteh](https://github.com/keyvanarasteh) | Keyvan Arasteh |  |  | Istanbul, Turkey | 20193 |
+| 19 | [keyvanarasteh](https://github.com/keyvanarasteh) | Keyvan Arasteh |  |  | Istanbul, Turkey | 20193 |
+| 20 | [umutkeltek](https://github.com/umutkeltek) | Umut Keltek |  | umutkeltek | Istanbul | 19089 |

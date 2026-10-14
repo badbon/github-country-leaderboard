@@ -12,16 +12,16 @@ Indexed users: 45
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [nick-vermeulen](https://github.com/nick-vermeulen) | Nick | Guernsey | 2,470 |
-| 2 | [gsydev191](https://github.com/gsydev191) | Dan | Guernsey | 1,915 |
-| 3 | [RicLeP](https://github.com/RicLeP) | Ric Le Poidevin | Guernsey | 1,477 |
-| 4 | [tris203](https://github.com/tris203) | Tristan Knight | Guernsey | 1,351 |
+| 1 | [nick-vermeulen](https://github.com/nick-vermeulen) | Nick | Guernsey | 2,474 |
+| 2 | [gsydev191](https://github.com/gsydev191) | Dan | Guernsey | 1,951 |
+| 3 | [RicLeP](https://github.com/RicLeP) | Ric Le Poidevin | Guernsey | 1,478 |
+| 4 | [tris203](https://github.com/tris203) | Tristan Knight | Guernsey | 1,352 |
 | 5 | [technosight](https://github.com/technosight) | Ivan Petrov | St Peter Port, Guernsey | 977 |
 | 6 | [mh0lt](https://github.com/mh0lt) | Mark Holt | Guernsey | 678 |
 | 7 | [bkp7](https://github.com/bkp7) | Barry Pitfield | Guernsey | 450 |
 | 8 | [YuriGuernsey](https://github.com/YuriGuernsey) | Yuri Alves | Guernsey | 379 |
 | 9 | [GlennToms](https://github.com/GlennToms) | Glenn Toms | Guernsey | 258 |
-| 10 | [JamesK2754](https://github.com/JamesK2754) | James King | Guernsey | 228 |
+| 10 | [JamesK2754](https://github.com/JamesK2754) | James King | Guernsey | 231 |
 | 11 | [IanGSY](https://github.com/IanGSY) | IanGSY | Guernsey | 114 |
 | 12 | [theModrzew](https://github.com/theModrzew) | Patryk | Guernsey | 105 |
 | 13 | [adrianritchie](https://github.com/adrianritchie) |  | Guernsey | 71 |
@@ -83,4 +83,4 @@ Indexed users: 45
 | 19 | [LIHITAB](https://github.com/LIHITAB) | Like and Code on GitHub | Guernsey, CI | 3 |
 | 20 | [mtp-tkostudax](https://github.com/mtp-tkostudax) | Shanty Irish | Guernsey | 3 |
 
-Generated: 2026-10-13T18:21:40.199Z
+Generated: 2026-10-13T23:57:17.700Z

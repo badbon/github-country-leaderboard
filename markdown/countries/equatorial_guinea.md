@@ -14,7 +14,7 @@ Indexed users: 21
 |---:|---|---|---|---:|
 | 1 | [vicentehmba](https://github.com/vicentehmba) | VIcente Hugo Mba | Equatorial Guinea | 2,847 |
 | 2 | [alexis-ngoyi](https://github.com/alexis-ngoyi) | Alexis Ngoyi M. | Guinee Equatoriale, Malabo | 319 |
-| 3 | [arongesono12](https://github.com/arongesono12) | Aron Esono Ondo Eyang | Malabo | 252 |
+| 3 | [arongesono12](https://github.com/arongesono12) | Aron Esono Ondo Eyang | Malabo | 254 |
 | 4 | [seamuddin](https://github.com/seamuddin) | Seam uddin | Malabo, Equatorial guinea | 122 |
 | 5 | [barsie](https://github.com/barsie) | Sirineo Barila  | Equatorial Guinea  | 115 |
 | 6 | [Xenon0001](https://github.com/Xenon0001) | Luis Rafael Eyoma | Bata, Equatorial Guinea | 89 |
@@ -37,7 +37,7 @@ Indexed users: 21
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [arongesono12](https://github.com/arongesono12) | Aron Esono Ondo Eyang | Malabo | 252 |
+| 1 | [arongesono12](https://github.com/arongesono12) | Aron Esono Ondo Eyang | Malabo | 254 |
 | 2 | [barsie](https://github.com/barsie) | Sirineo Barila  | Equatorial Guinea  | 115 |
 | 3 | [Xenon0001](https://github.com/Xenon0001) | Luis Rafael Eyoma | Bata, Equatorial Guinea | 89 |
 | 4 | [alexis-ngoyi](https://github.com/alexis-ngoyi) | Alexis Ngoyi M. | Guinee Equatoriale, Malabo | 49 |
@@ -66,8 +66,8 @@ Indexed users: 21
 | 2 | [seamuddin](https://github.com/seamuddin) | Seam uddin | Malabo, Equatorial guinea | 14 |
 | 3 | [cornensue](https://github.com/cornensue) | Cornelio Nsue | Malabo | 9 |
 | 4 | [coolmechel](https://github.com/coolmechel) | Ugwu Chukwuemeka Emmanuel | Equatorial Guinea | 6 |
-| 5 | [DanielNdong](https://github.com/DanielNdong) | Daniel Aquilino Ndong | Malabo, Guinea Ecuatorial | 5 |
-| 6 | [Xenon0001](https://github.com/Xenon0001) | Luis Rafael Eyoma | Bata, Equatorial Guinea | 5 |
+| 5 | [Xenon0001](https://github.com/Xenon0001) | Luis Rafael Eyoma | Bata, Equatorial Guinea | 6 |
+| 6 | [DanielNdong](https://github.com/DanielNdong) | Daniel Aquilino Ndong | Malabo, Guinea Ecuatorial | 5 |
 | 7 | [vicentehmba](https://github.com/vicentehmba) | VIcente Hugo Mba | Equatorial Guinea | 4 |
 | 8 | [alexis-ngoyi](https://github.com/alexis-ngoyi) | Alexis Ngoyi M. | Guinee Equatoriale, Malabo | 3 |
 | 9 | [Nazario95](https://github.com/Nazario95) | Nazario Muanbama | Malabo-EQ | 2 |
@@ -83,4 +83,4 @@ Indexed users: 21
 | 19 | [melitonio](https://github.com/melitonio) | Meliton Pablo Mangue Mañana | Malabo, Guinea Ecuatorial | 1 |
 | 20 | [petr2rzu](https://github.com/petr2rzu) | Javier |  Equatorial Guinea | 1 |
 
-Generated: 2026-10-13T18:13:47.149Z
+Generated: 2026-10-13T23:48:53.067Z

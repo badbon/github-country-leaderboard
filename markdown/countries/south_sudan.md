@@ -13,9 +13,9 @@ Indexed users: 132
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [Maiz27](https://github.com/Maiz27) | Maged Faiz | Juba, South Sudan | 9,871 |
-| 2 | [davelee001](https://github.com/davelee001) | David Leek | South Sudan | 5,313 |
+| 2 | [davelee001](https://github.com/davelee001) | David Leek | South Sudan | 5,414 |
 | 3 | [jameswol-ai](https://github.com/jameswol-ai) | James Wol | Juba, South Sudan | 5,206 |
-| 4 | [riek27](https://github.com/riek27) | Riek Gatluak Geka Reat | Juba, South sudan | 3,408 |
+| 4 | [riek27](https://github.com/riek27) | Riek Gatluak Geka Reat | Juba, South sudan | 3,347 |
 | 5 | [puoch1of1](https://github.com/puoch1of1) | Puoch Mabor Makuei  | South Sudan | 1,007 |
 | 6 | [felixuxx](https://github.com/felixuxx) | ... | Juba, South Sudan | 811 |
 | 7 | [Konson22](https://github.com/Konson22) | Kon Akech | South Sudan | 757 |
@@ -38,8 +38,8 @@ Indexed users: 132
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [jameswol-ai](https://github.com/jameswol-ai) | James Wol | Juba, South Sudan | 5,206 |
-| 2 | [davelee001](https://github.com/davelee001) | David Leek | South Sudan | 4,535 |
-| 3 | [riek27](https://github.com/riek27) | Riek Gatluak Geka Reat | Juba, South sudan | 3,408 |
+| 2 | [davelee001](https://github.com/davelee001) | David Leek | South Sudan | 4,636 |
+| 3 | [riek27](https://github.com/riek27) | Riek Gatluak Geka Reat | Juba, South sudan | 3,347 |
 | 4 | [Maiz27](https://github.com/Maiz27) | Maged Faiz | Juba, South Sudan | 1,098 |
 | 5 | [puoch1of1](https://github.com/puoch1of1) | Puoch Mabor Makuei  | South Sudan | 583 |
 | 6 | [JohnMarit](https://github.com/JohnMarit) | John Marit | Juba-South Sudan | 516 |
@@ -81,6 +81,6 @@ Indexed users: 132
 | 17 | [Ariik20](https://github.com/Ariik20) | Reegan Arick | Juba | 17 |
 | 18 | [bearded7](https://github.com/bearded7) | XaLabs03 | Juba, South Sudan | 16 |
 | 19 | [Amalsouthsudan23](https://github.com/Amalsouthsudan23) | AMAL South Sudan | South Sudan | 15 |
-| 20 | [Drago-cod](https://github.com/Drago-cod) | Drago Samuel Jared | Juba, South Sudan | 15 |
+| 20 | [Codetym](https://github.com/Codetym) | Nelson Mandela D.M.J | Juba, South Sudan  | 14 |
 
-Generated: 2026-10-13T17:37:38.986Z
+Generated: 2026-10-13T23:09:36.356Z

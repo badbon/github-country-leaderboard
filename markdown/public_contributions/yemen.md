@@ -1,6 +1,6 @@
 # Public Contributions - Yemen
 
-Generated: 2026-10-13T17:49:54.608Z
+Generated: 2026-10-13T23:22:49.869Z
 
 Users: 1206
 
@@ -23,6 +23,6 @@ Users: 1206
 | 15 | [Alfrahi](https://github.com/Alfrahi) | Abdullah |  |  | Yemen | 1124 |
 | 16 | [716W](https://github.com/716W) | Ali Bin-Samida | Hadramout |  | Yemen | 932 |
 | 17 | [Hazem-Alyaari](https://github.com/Hazem-Alyaari) | Hazem Alyaari | DataTrans - Obeikan Digital Solution |  | sana'a  | 876 |
-| 18 | [yswef](https://github.com/yswef) | yswef alhmzy | @alphacode-ye  |  | yemen | 759 |
+| 18 | [yswef](https://github.com/yswef) | yswef alhmzy | @alphacode-ye  |  | yemen | 835 |
 | 19 | [HassanY1010](https://github.com/HassanY1010) | Hassan |  |  | Yemen | 683 |
 | 20 | [hetari](https://github.com/hetari) | Ebraheem Alhetari | Temmam Light | hetaridev | Yemen | 680 |

@@ -1,6 +1,6 @@
 # Followers - Isle of Man
 
-Generated: 2026-10-13T18:29:45.275Z
+Generated: 2026-10-14T00:03:15.632Z
 
 Users: 155
 
@@ -24,5 +24,5 @@ Users: 155
 | 16 | [tonypartridge](https://github.com/tonypartridge) | Tony Partridge |  | tonypartridge | Isle of Man | 20 |
 | 17 | [AndrewIOM](https://github.com/AndrewIOM) | Andrew Martin | Scott Polar Research Institute, University of Cambridge |  | Isle of Man | 19 |
 | 18 | [felipedecampos](https://github.com/felipedecampos) | Felipe de Campos | Campos Tecnologia LTDA |  | Douglas, Isle of Man, UK | 19 |
-| 19 | [DanAnkers](https://github.com/DanAnkers) | Daniel Ankers |  |  | Isle of Man | 18 |
-| 20 | [dannmat](https://github.com/dannmat) | Matt Ward |  |  | Isle of Man | 18 |
+| 19 | [lwangenheim](https://github.com/lwangenheim) | Lee Wangenheim |  |  | Isle of Man | 19 |
+| 20 | [DanAnkers](https://github.com/DanAnkers) | Daniel Ankers |  |  | Isle of Man | 18 |
