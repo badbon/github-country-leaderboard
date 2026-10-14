@@ -18848,7 +18848,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 0,
     "createdAt": "2023-09-21T15:48:14Z"
   },
   {
@@ -18860,7 +18860,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 9,
     "createdAt": "2023-07-06T08:16:53Z"
   },
   {
@@ -18870,9 +18870,9 @@
     "location": "Riyadh",
     "company": "Developer ",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 136,
+    "publicContributions": 153,
     "createdAt": "2023-05-05T17:36:23Z"
   },
   {
@@ -18920,20 +18920,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 69,
+    "publicContributions": 61,
     "createdAt": "2023-11-29T16:27:53Z"
-  },
-  {
-    "login": "N4wz",
-    "name": "Nawaf",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/154949629?s=72&v=4",
-    "location": "Riyadh",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2023-12-27T03:53:34Z"
   },
   {
     "login": "Reyoufr1",
@@ -18956,7 +18944,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 81,
+    "publicContributions": 38,
     "createdAt": "2023-04-30T10:28:23Z"
   },
   {
@@ -18966,9 +18954,9 @@
     "location": "Riyadh",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 53,
-    "publicContributions": 1,
+    "followers": 2,
+    "privateContributions": 34,
+    "publicContributions": 0,
     "createdAt": "2023-02-02T01:20:05Z"
   },
   {
@@ -18978,9 +18966,9 @@
     "location": "Riyadh",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 3,
-    "publicContributions": 113,
+    "followers": 2,
+    "privateContributions": 9,
+    "publicContributions": 184,
     "createdAt": "2023-12-01T12:49:40Z"
   },
   {
@@ -18992,7 +18980,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 128,
+    "publicContributions": 102,
     "createdAt": "2023-11-16T23:28:33Z"
   },
   {

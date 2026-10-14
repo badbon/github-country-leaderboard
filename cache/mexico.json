@@ -18702,7 +18702,7 @@
     "location": "Mexico/Jalisco/Tepatitlán",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2024-10-30T23:43:43Z"
@@ -18738,7 +18738,7 @@
     "location": "Mexico",
     "company": "Software Compacta de Mexico DF",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-01-31T13:40:45Z"
@@ -18776,7 +18776,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2024-08-05T01:56:37Z"
   },
   {
@@ -18816,18 +18816,6 @@
     "createdAt": "2024-01-26T15:23:31Z"
   },
   {
-    "login": "will035",
-    "name": "Alejandro Bh",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/173427224?s=72&u=406e1e0f1194d8e665f469e16529bd029531e51e&v=4",
-    "location": "Mexico",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 7,
-    "createdAt": "2024-06-21T02:33:42Z"
-  },
-  {
     "login": "oscar-ramo",
     "name": "Oscar Ramo",
     "avatarUrl": "https://avatars.githubusercontent.com/u/190645059?s=72&u=2a8511adafabab4a2beffbaf4c7ab043d5a3c2d0&v=4",
@@ -18848,7 +18836,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 543,
+    "publicContributions": 540,
     "createdAt": "2024-11-30T02:23:28Z"
   },
   {
@@ -18858,7 +18846,7 @@
     "location": "Mexico City",
     "company": "ROSEN - GROUP Mexico",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 6,
     "createdAt": "2024-01-17T17:06:04Z"
@@ -18872,7 +18860,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 168,
+    "publicContributions": 219,
     "createdAt": "2024-02-15T12:59:28Z"
   },
   {
@@ -18907,7 +18895,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 35,
+    "privateContributions": 41,
     "publicContributions": 0,
     "createdAt": "2024-04-12T23:07:15Z"
   },
