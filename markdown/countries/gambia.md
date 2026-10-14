@@ -26,7 +26,7 @@ Indexed users: 79
 | 12 | [gidavehub](https://github.com/gidavehub) | Godswill Iyke Dave | Banjul, The Gambia | 494 |
 | 13 | [bahsulayman689-hash](https://github.com/bahsulayman689-hash) | sulayman bah | Banjul | 413 |
 | 14 | [kebba-philip](https://github.com/kebba-philip) | KEBBA NJIE | Gambia | 392 |
-| 15 | [JonMonday](https://github.com/JonMonday) | JohnMonday | Banjul, The Gambia | 253 |
+| 15 | [JonMonday](https://github.com/JonMonday) | JohnMonday | Banjul, The Gambia | 255 |
 | 16 | [Baboucar](https://github.com/Baboucar) | Baboucarr | Gambia | 215 |
 | 17 | [fiture99](https://github.com/fiture99) | Lamin Jawneh | Banjul, Gambia | 209 |
 | 18 | [Degoot-AM](https://github.com/Degoot-AM) | Abdoelnaser M Degoot | Banjul, Gambia | 177 |
@@ -83,4 +83,4 @@ Indexed users: 79
 | 19 | [nyassian](https://github.com/nyassian) | EBRIMA NYASSI | Banjul,THE GAMBIA | 8 |
 | 20 | [cyberdavinci](https://github.com/cyberdavinci) | CyberDavinci | Gambia | 7 |
 
-Generated: 2026-10-14T20:10:43.204Z
+Generated: 2026-10-14T21:37:21.047Z

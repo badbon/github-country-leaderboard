@@ -40,17 +40,17 @@ Indexed users: 2,731
 | 1 | [cploutarchou](https://github.com/cploutarchou) | Christos Ploutarchou | Cyprus | 7,743 |
 | 2 | [AlisherAmonulloev](https://github.com/AlisherAmonulloev) | Alisher Amonulloev | Cyprus | 5,626 |
 | 3 | [IMKolganov](https://github.com/IMKolganov) | Ivan | Cyprus | 4,627 |
-| 4 | [GeorgeWebDevCy](https://github.com/GeorgeWebDevCy) | George Nicolaou | Cyprus | 4,307 |
-| 5 | [protesilaos](https://github.com/protesilaos) | Protesilaos | Cyprus | 4,292 |
-| 6 | [NicosNicolaou16](https://github.com/NicosNicolaou16) | Nicos Nicolaou | Nicosia, Cyprus | 3,881 |
-| 7 | [servitola](https://github.com/servitola) | Adik Servitola | Cyprus | 3,829 |
-| 8 | [richardsolomou](https://github.com/richardsolomou) | Richard Solomou | Cyprus | 3,635 |
-| 9 | [VizzleTF](https://github.com/VizzleTF) | Ivan K | Cyprus | 3,486 |
-| 10 | [candasoz01-cmd](https://github.com/candasoz01-cmd) | Candaş Öz | Kıbrıs | 3,467 |
-| 11 | [siyabendoezdemir](https://github.com/siyabendoezdemir) | Siya | Cyprus | 3,289 |
-| 12 | [phalouvas](https://github.com/phalouvas) | Panayiotis Halouvas | Cyprus  | 3,137 |
-| 13 | [Disentinel](https://github.com/Disentinel) | Vadim Reshetnikov | Cyprus, Limassol | 3,117 |
-| 14 | [programmeradu](https://github.com/programmeradu) | Samuel Adu-Berekorang | nicosia, cyprus | 3,112 |
+| 4 | [protesilaos](https://github.com/protesilaos) | Protesilaos | Cyprus | 4,292 |
+| 5 | [NicosNicolaou16](https://github.com/NicosNicolaou16) | Nicos Nicolaou | Nicosia, Cyprus | 3,881 |
+| 6 | [servitola](https://github.com/servitola) | Adik Servitola | Cyprus | 3,829 |
+| 7 | [richardsolomou](https://github.com/richardsolomou) | Richard Solomou | Cyprus | 3,635 |
+| 8 | [VizzleTF](https://github.com/VizzleTF) | Ivan K | Cyprus | 3,486 |
+| 9 | [candasoz01-cmd](https://github.com/candasoz01-cmd) | Candaş Öz | Kıbrıs | 3,467 |
+| 10 | [siyabendoezdemir](https://github.com/siyabendoezdemir) | Siya | Cyprus | 3,289 |
+| 11 | [phalouvas](https://github.com/phalouvas) | Panayiotis Halouvas | Cyprus  | 3,137 |
+| 12 | [Disentinel](https://github.com/Disentinel) | Vadim Reshetnikov | Cyprus, Limassol | 3,117 |
+| 13 | [programmeradu](https://github.com/programmeradu) | Samuel Adu-Berekorang | nicosia, cyprus | 3,112 |
+| 14 | [GeorgeWebDevCy](https://github.com/GeorgeWebDevCy) | George Nicolaou | Cyprus | 2,884 |
 | 15 | [nekto007](https://github.com/nekto007) | Igor | Limassol, Cyprus | 2,695 |
 | 16 | [VISTALL](https://github.com/VISTALL) | Valery Semenchuk | Cyprus | 2,670 |
 | 17 | [psoldunov](https://github.com/psoldunov) | Philipp Soldunov | Limassol, Cyprus | 2,614 |
@@ -83,4 +83,4 @@ Indexed users: 2,731
 | 19 | [polterguy](https://github.com/polterguy) | Thomas Hansen | Cyprus | 243 |
 | 20 | [kstep](https://github.com/kstep) | Konstantin Stepanov | Cyprus | 241 |
 
-Generated: 2026-10-14T20:02:19.206Z
+Generated: 2026-10-14T21:28:43.806Z

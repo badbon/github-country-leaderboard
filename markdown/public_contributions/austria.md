@@ -1,6 +1,6 @@
 # Public Contributions - Austria
 
-Generated: 2026-10-14T19:47:38.857Z
+Generated: 2026-10-14T21:15:43.810Z
 
 Users: 18257
 
@@ -8,9 +8,9 @@ Users: 18257
 |---:|---|---|---|---|---|---:|
 | 1 | [krystophny](https://github.com/krystophny) | Christopher Albert | Graz University of Technology |  | Graz, Austria | 31948 |
 | 2 | [mmgerald](https://github.com/mmgerald) | Gerald Lochner | meshmakers.io |  | Salzburg, Austria | 16519 |
-| 3 | [EHotwagner](https://github.com/EHotwagner) |  |  |  | Vienna | 11937 |
-| 4 | [JKamsker](https://github.com/JKamsker) | Jonas Kamsker |  |  | Linz, Austria | 11633 |
-| 5 | [plengauer](https://github.com/plengauer) | Philipp Lengauer | Dynatrace |  | Austria | 11122 |
+| 3 | [plengauer](https://github.com/plengauer) | Philipp Lengauer | Dynatrace |  | Austria | 14593 |
+| 4 | [EHotwagner](https://github.com/EHotwagner) |  |  |  | Vienna | 11937 |
+| 5 | [JKamsker](https://github.com/JKamsker) | Jonas Kamsker |  |  | Linz, Austria | 11633 |
 | 6 | [nerolation](https://github.com/nerolation) | Toni Wahrstätter | Ethereum | nero_eth | Austria | 10313 |
 | 7 | [mcm1957](https://github.com/mcm1957) | Martin M. |  |  | Vienna, Austria | 10062 |
 | 8 | [rmayr](https://github.com/rmayr) | René Mayrhofer | @mobilesec @google | rene_mobile | Austria | 10006 |

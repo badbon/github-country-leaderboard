@@ -13,17 +13,17 @@ Indexed users: 38
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [QVault](https://github.com/QVault) | Quincent | Aruba | 1,737 |
-| 2 | [azaandam](https://github.com/azaandam) | André Zaandam | Aruba | 832 |
+| 2 | [azaandam](https://github.com/azaandam) | André Zaandam | Aruba | 835 |
 | 3 | [flacle](https://github.com/flacle) | Francis Laclé | Aruba | 564 |
 | 4 | [rendell](https://github.com/rendell) | Rendell de Kort | Aruba | 548 |
 | 5 | [EstherPlomp](https://github.com/EstherPlomp) | Esther Plomp | Aruba | 496 |
 | 6 | [blonkm](https://github.com/blonkm) | Michiel van der Blonk | Oranjestad, Aruba | 203 |
-| 7 | [GeraldR12](https://github.com/GeraldR12) | Nathan R | Aruba | 175 |
+| 7 | [GeraldR12](https://github.com/GeraldR12) | Nathan R | Aruba | 178 |
 | 8 | [StephanZaat](https://github.com/StephanZaat) | Stephan Zaat | Aruba | 126 |
 | 9 | [Veknica](https://github.com/Veknica) | Pola Sendviča | Oranjestad | 72 |
 | 10 | [waterkip](https://github.com/waterkip) | Wesley Schwengle | Aruba | 47 |
 | 11 | [Vortex93](https://github.com/Vortex93) | Derwin Tromp | Oranjestad, Aruba | 44 |
-| 12 | [hfsyung](https://github.com/hfsyung) |  | Aruba | 34 |
+| 12 | [hfsyung](https://github.com/hfsyung) |  | Aruba | 35 |
 | 13 | [MatthewELee](https://github.com/MatthewELee) | Matt Lee | Aruba | 34 |
 | 14 | [JunTechWebSolutions](https://github.com/JunTechWebSolutions) | Juny Engelhart (AWS Aruba) | Oranjestad, Aruba | 17 |
 | 15 | [XBrewyn](https://github.com/XBrewyn) | Brewyn Frederick Espinal Mercado | Aruba | 11 |
@@ -45,7 +45,7 @@ Indexed users: 38
 | 6 | [Veknica](https://github.com/Veknica) | Pola Sendviča | Oranjestad | 72 |
 | 7 | [waterkip](https://github.com/waterkip) | Wesley Schwengle | Aruba | 47 |
 | 8 | [Vortex93](https://github.com/Vortex93) | Derwin Tromp | Oranjestad, Aruba | 44 |
-| 9 | [hfsyung](https://github.com/hfsyung) |  | Aruba | 34 |
+| 9 | [hfsyung](https://github.com/hfsyung) |  | Aruba | 35 |
 | 10 | [flacle](https://github.com/flacle) | Francis Laclé | Aruba | 30 |
 | 11 | [MatthewELee](https://github.com/MatthewELee) | Matt Lee | Aruba | 19 |
 | 12 | [JunTechWebSolutions](https://github.com/JunTechWebSolutions) | Juny Engelhart (AWS Aruba) | Oranjestad, Aruba | 17 |
@@ -83,4 +83,4 @@ Indexed users: 38
 | 19 | [XBrewyn](https://github.com/XBrewyn) | Brewyn Frederick Espinal Mercado | Aruba | 5 |
 | 20 | [DushiRox](https://github.com/DushiRox) | Roxana Rodriguez | Oranjestad, Aruba | 4 |
 
-Generated: 2026-10-14T19:47:31.787Z
+Generated: 2026-10-14T21:15:35.272Z

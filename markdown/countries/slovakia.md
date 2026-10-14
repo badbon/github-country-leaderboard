@@ -14,8 +14,8 @@ Indexed users: 4,672
 |---:|---|---|---|---:|
 | 1 | [nkovalcin](https://github.com/nkovalcin) | Norbert Kovalčín | Prešov, Slovakia | 26,095 |
 | 2 | [NagyVikt](https://github.com/NagyVikt) | Viktor Nagy | Slovakia  | 16,177 |
-| 3 | [kyemets](https://github.com/kyemets) | Kostiantyn Yemets | Slovak Republic | 13,908 |
-| 4 | [mario-chamuty](https://github.com/mario-chamuty) | Mario Chamuty | Bratislava, Slovakia | 12,043 |
+| 3 | [mario-chamuty](https://github.com/mario-chamuty) | Mario Chamuty | Bratislava, Slovakia | 15,885 |
+| 4 | [kyemets](https://github.com/kyemets) | Kostiantyn Yemets | Slovak Republic | 13,908 |
 | 5 | [Mausino](https://github.com/Mausino) | Miky Mikolaj | Košice, Slovakia | 11,966 |
 | 6 | [vzeman](https://github.com/vzeman) | Viktor Zeman | Bratislava | 11,799 |
 | 7 | [potyl](https://github.com/potyl) | Emmanuel Rodriguez | Bratislava, Slovakia | 10,414 |
@@ -83,4 +83,4 @@ Indexed users: 4,672
 | 19 | [Stiivi](https://github.com/Stiivi) | Stefan Urbanek | Bratislava | 280 |
 | 20 | [haad](https://github.com/haad) | Adam Hamsik | Bratislava Slovakia | 259 |
 
-Generated: 2026-10-14T19:27:08.223Z
+Generated: 2026-10-14T20:54:28.220Z

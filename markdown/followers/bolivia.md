@@ -1,6 +1,6 @@
 # Followers - Bolivia
 
-Generated: 2026-10-14T19:52:32.394Z
+Generated: 2026-10-14T21:21:33.858Z
 
 Users: 1784
 
@@ -17,8 +17,8 @@ Users: 1784
 | 9 | [cwpachecol](https://github.com/cwpachecol) | Carlos Walter Pacheco Lora | Universidad Mayor Real y Pontificia de San Francisco Xavier de Chuquisaca |  | Sucre - Bolivia | 220 |
 | 10 | [Pericena](https://github.com/Pericena) | Luishiño | UAGRM student | LPericena | Bolivia, Santa Cruz | 197 |
 | 11 | [rivera-ernesto](https://github.com/rivera-ernesto) | Ernesto Rivera | @PTEz  |  | La Paz, Bolivia | 188 |
-| 12 | [Lotiel-Dev](https://github.com/Lotiel-Dev) | Carlos Antonio Gutierrez Copara | Higher University of San Simón | Gerceis81 | Bolivia | 170 |
-| 13 | [mariocesar](https://github.com/mariocesar) | Mario-César | Humanzilla | mariocesar_bo | Santa Cruz de la Sierra, Bolivia | 170 |
+| 12 | [mariocesar](https://github.com/mariocesar) | Mario-César | Humanzilla | mariocesar_xyz | Santa Cruz de la Sierra, Bolivia | 178 |
+| 13 | [Lotiel-Dev](https://github.com/Lotiel-Dev) | Carlos Antonio Gutierrez Copara | Higher University of San Simón | Gerceis81 | Bolivia | 170 |
 | 14 | [vitiko98](https://github.com/vitiko98) | Vitiko |  |  | Bolivia | 149 |
 | 15 | [luucamay](https://github.com/luucamay) | luucamay | independent | luucamay_ | La Paz, Bolivia | 146 |
 | 16 | [AndyIbanez](https://github.com/AndyIbanez) | Andy Ibanez | Fairese | AndyIbanezK | Bolivia | 138 |

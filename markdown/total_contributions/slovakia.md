@@ -1,6 +1,6 @@
 # Total Contributions - Slovakia
 
-Generated: 2026-10-14T19:27:08.223Z
+Generated: 2026-10-14T20:54:28.220Z
 
 Users: 4672
 
@@ -8,8 +8,8 @@ Users: 4672
 |---:|---|---|---|---|---|---:|
 | 1 | [nkovalcin](https://github.com/nkovalcin) | Norbert Kovalčín |  |  | Prešov, Slovakia | 26095 |
 | 2 | [NagyVikt](https://github.com/NagyVikt) | Viktor Nagy | Kromberg & Schubert | NagyViktordp | Slovakia  | 16177 |
-| 3 | [kyemets](https://github.com/kyemets) | Kostiantyn Yemets | @EHOSS-IT |  | Slovak Republic | 13908 |
-| 4 | [mario-chamuty](https://github.com/mario-chamuty) | Mario Chamuty | @version-two  | chamuty | Bratislava, Slovakia | 12043 |
+| 3 | [mario-chamuty](https://github.com/mario-chamuty) | Mario Chamuty | @version-two  | chamuty | Bratislava, Slovakia | 15885 |
+| 4 | [kyemets](https://github.com/kyemets) | Kostiantyn Yemets | @EHOSS-IT |  | Slovak Republic | 13908 |
 | 5 | [Mausino](https://github.com/Mausino) | Miky Mikolaj | Ubytovanie FOR YOU, sro |  | Košice, Slovakia | 11966 |
 | 6 | [vzeman](https://github.com/vzeman) | Viktor Zeman | Quality Unit |  | Bratislava | 11799 |
 | 7 | [potyl](https://github.com/potyl) | Emmanuel Rodriguez | Cloudbeds |  | Bratislava, Slovakia | 10414 |

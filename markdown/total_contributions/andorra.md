@@ -1,6 +1,6 @@
 # Total Contributions - Andorra
 
-Generated: 2026-10-14T19:44:35.763Z
+Generated: 2026-10-14T21:13:38.891Z
 
 Users: 215
 
@@ -14,7 +14,7 @@ Users: 215
 | 6 | [niwinz](https://github.com/niwinz) | Andrey Antukh | @kaleidos & @penpot |  | Andorra | 8587 |
 | 7 | [l3wi](https://github.com/l3wi) | Lewis Freiberg |  | lewifree | Andorra | 6300 |
 | 8 | [acastellana](https://github.com/acastellana) | Albert Castellana | @yeagerai | kstellana | Andorra | 5781 |
-| 9 | [alexmf91](https://github.com/alexmf91) | Alex Muñoz |  |  | Barcelona (Spain) \| Encamp (Andorra) | 5239 |
+| 9 | [alexmf91](https://github.com/alexmf91) | Alex Muñoz |  |  | Barcelona (Spain) \| Encamp (Andorra) | 5257 |
 | 10 | [marcalj](https://github.com/marcalj) | Marçal | Lizcore |  | Andorra | 5103 |
 | 11 | [tombrewsviews](https://github.com/tombrewsviews) | Tom Parandyk | Altramanera |  | Andorra | 5070 |
 | 12 | [jorge07](https://github.com/jorge07) | Jorge Arco | 90P Lab | Jorge__SVQ | Escaldes, Andorra | 4900 |

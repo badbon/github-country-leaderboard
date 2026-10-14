@@ -12,16 +12,16 @@ Indexed users: 67
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [olavurellefsen](https://github.com/olavurellefsen) | Olavur Ellefsen | Faroe Islands | 15,345 |
+| 1 | [olavurellefsen](https://github.com/olavurellefsen) | Olavur Ellefsen | Faroe Islands | 15,373 |
 | 2 | [kruseio](https://github.com/kruseio) | Ragnar Kruse | Faroe Islands | 6,544 |
 | 3 | [jbiskur](https://github.com/jbiskur) | Julius á Rógvi Biskopstø | Faroe Islands | 5,331 |
 | 4 | [argilzar](https://github.com/argilzar) | Brian Bischoff | Faroe Islands | 3,341 |
 | 5 | [RudiPersson](https://github.com/RudiPersson) | Rudi Persson | Tórshavn, Faroe Islands | 2,777 |
 | 6 | [mashema](https://github.com/mashema) | John Eyðstein Johannesen  | Faroe Islands | 2,450 |
 | 7 | [hoegnason](https://github.com/hoegnason) | Rani Högnason Hansen | Tórshavn | 2,370 |
-| 8 | [suuunly](https://github.com/suuunly) | Jóhann Østerø | Faroe Islands | 2,230 |
-| 9 | [ingipingi](https://github.com/ingipingi) | Ingi á Steinamørk | Faroe Islands | 2,058 |
-| 10 | [samal-rasmussen](https://github.com/samal-rasmussen) | Sámal Rasmussen | Tórshavn, Faroe Islands | 2,000 |
+| 8 | [suuunly](https://github.com/suuunly) | Jóhann Østerø | Faroe Islands | 2,233 |
+| 9 | [ingipingi](https://github.com/ingipingi) | Ingi á Steinamørk | Faroe Islands | 2,064 |
+| 10 | [samal-rasmussen](https://github.com/samal-rasmussen) | Sámal Rasmussen | Tórshavn, Faroe Islands | 2,001 |
 | 11 | [theodorjohannesen](https://github.com/theodorjohannesen) | Theodor E. Johannesen | Faroe Islands | 1,736 |
 | 12 | [MaterBater](https://github.com/MaterBater) | Mater | Faroe Islands | 1,476 |
 | 13 | [SigmundurMorkore](https://github.com/SigmundurMorkore) | Sigmundur Mørkøre | Faroe Islands | 1,460 |
@@ -29,7 +29,7 @@ Indexed users: 67
 | 15 | [SheetHappiness](https://github.com/SheetHappiness) | SheetHappiness | Faroe Islands | 951 |
 | 16 | [Theoistic](https://github.com/Theoistic) | Theodor Solbjorg | Faroe Islands | 872 |
 | 17 | [eydunn](https://github.com/eydunn) | Eyðun Nielsen | Tórshavn, Faroe islands | 693 |
-| 18 | [hansjd](https://github.com/hansjd) | Hans Jákup Danielsen | Faroe Islands | 634 |
+| 18 | [hansjd](https://github.com/hansjd) | Hans Jákup Danielsen | Faroe Islands | 638 |
 | 19 | [TimonPeng](https://github.com/TimonPeng) | Timon Peng | Føroyar | 620 |
 | 20 | [bardurdam](https://github.com/bardurdam) | Bárður Viberg Dam | Faroe Islands | 502 |
 
@@ -52,7 +52,7 @@ Indexed users: 67
 | 13 | [Theoistic](https://github.com/Theoistic) | Theodor Solbjorg | Faroe Islands | 122 |
 | 14 | [forkh](https://github.com/forkh) |  | Føroyar | 114 |
 | 15 | [samal-rasmussen](https://github.com/samal-rasmussen) | Sámal Rasmussen | Tórshavn, Faroe Islands | 103 |
-| 16 | [Rogn](https://github.com/Rogn) | Hallur Holm Johannessen | Faroe Islands | 93 |
+| 16 | [Rogn](https://github.com/Rogn) | Hallur Holm Johannessen | Faroe Islands | 94 |
 | 17 | [BergurDavidsen](https://github.com/BergurDavidsen) |  | Faroe Islands | 90 |
 | 18 | [michaelgyp](https://github.com/michaelgyp) | Michael Gusti Yanu Putra | Faroe Islands | 88 |
 | 19 | [argilzar](https://github.com/argilzar) | Brian Bischoff | Faroe Islands | 54 |
@@ -63,7 +63,7 @@ Indexed users: 67
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [kruseio](https://github.com/kruseio) | Ragnar Kruse | Faroe Islands | 189 |
-| 2 | [TimonPeng](https://github.com/TimonPeng) | Timon Peng | Føroyar | 125 |
+| 2 | [TimonPeng](https://github.com/TimonPeng) | Timon Peng | Føroyar | 124 |
 | 3 | [ahjohannessen](https://github.com/ahjohannessen) | Alex Henning Johannessen | Faroe Islands | 45 |
 | 4 | [Brian-ED](https://github.com/Brian-ED) | Brian E | Faroe Islands | 21 |
 | 5 | [cybercrimecat](https://github.com/cybercrimecat) | vio | faroe islands | 18 |
@@ -83,4 +83,4 @@ Indexed users: 67
 | 19 | [shishpt](https://github.com/shishpt) | Shishir Patel | Torshavn, Faroe Islands | 7 |
 | 20 | [suuunly](https://github.com/suuunly) | Jóhann Østerø | Faroe Islands | 7 |
 
-Generated: 2026-10-14T20:08:13.531Z
+Generated: 2026-10-14T21:35:25.826Z

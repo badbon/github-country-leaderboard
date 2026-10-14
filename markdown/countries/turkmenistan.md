@@ -29,7 +29,7 @@ Indexed users: 501
 | 15 | [udemuradov](https://github.com/udemuradov) | Serdar Udemuradov | Turkmenistan, Turkmenbashi | 2,637 |
 | 16 | [mrxacker](https://github.com/mrxacker) | Orazow Oraz | Turkmenistan, Ashgabat | 2,493 |
 | 17 | [babamurad](https://github.com/babamurad) | Babamurad | Turkmenistan, Ashgabat | 2,476 |
-| 18 | [RovshenTagangylyjov](https://github.com/RovshenTagangylyjov) | Rovshen Tagangylyjov | Ashgabat, Turkmenistan | 2,364 |
+| 18 | [RovshenTagangylyjov](https://github.com/RovshenTagangylyjov) | Rovshen Tagangylyjov | Ashgabat, Turkmenistan | 2,378 |
 | 19 | [AnonimTM1](https://github.com/AnonimTM1) | Merdan Caryyew | Turkmenistan  | 2,136 |
 | 20 | [TheSeydiCharyyev](https://github.com/TheSeydiCharyyev) | Seydi Charyyev | Mary city, Turkmenistan | 2,100 |
 
@@ -83,4 +83,4 @@ Indexed users: 501
 | 19 | [vbauerster](https://github.com/vbauerster) | Vladimir Bauer | Turkmenistan | 66 |
 | 20 | [atageldi194229](https://github.com/atageldi194229) | Atageldi | Ashgabat, Turkmenistan | 64 |
 
-Generated: 2026-10-14T19:36:08.013Z
+Generated: 2026-10-14T21:04:29.248Z

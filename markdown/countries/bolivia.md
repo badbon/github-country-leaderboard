@@ -73,8 +73,8 @@ Indexed users: 1,784
 | 9 | [cwpachecol](https://github.com/cwpachecol) | Carlos Walter Pacheco Lora | Sucre - Bolivia | 220 |
 | 10 | [Pericena](https://github.com/Pericena) | Luishiño | Bolivia, Santa Cruz | 197 |
 | 11 | [rivera-ernesto](https://github.com/rivera-ernesto) | Ernesto Rivera | La Paz, Bolivia | 188 |
-| 12 | [Lotiel-Dev](https://github.com/Lotiel-Dev) | Carlos Antonio Gutierrez Copara | Bolivia | 170 |
-| 13 | [mariocesar](https://github.com/mariocesar) | Mario-César | Santa Cruz de la Sierra, Bolivia | 170 |
+| 12 | [mariocesar](https://github.com/mariocesar) | Mario-César | Santa Cruz de la Sierra, Bolivia | 178 |
+| 13 | [Lotiel-Dev](https://github.com/Lotiel-Dev) | Carlos Antonio Gutierrez Copara | Bolivia | 170 |
 | 14 | [vitiko98](https://github.com/vitiko98) | Vitiko | Bolivia | 149 |
 | 15 | [luucamay](https://github.com/luucamay) | luucamay | La Paz, Bolivia | 146 |
 | 16 | [AndyIbanez](https://github.com/AndyIbanez) | Andy Ibanez | Bolivia | 138 |
@@ -83,4 +83,4 @@ Indexed users: 1,784
 | 19 | [alvarosiles11](https://github.com/alvarosiles11) | Alvaro Siles Estrada | Bolivia | 121 |
 | 20 | [mauforonda](https://github.com/mauforonda) | Mau Foronda | Bolivia | 120 |
 
-Generated: 2026-10-14T19:52:32.394Z
+Generated: 2026-10-14T21:21:33.858Z

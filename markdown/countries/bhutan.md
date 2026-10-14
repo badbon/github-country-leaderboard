@@ -24,7 +24,7 @@ Indexed users: 267
 | 10 | [Ugyenjigmerangdrel](https://github.com/Ugyenjigmerangdrel) | Ugyen Jigme Rangdrel | Bhutan | 2,047 |
 | 11 | [ugyentenzin1](https://github.com/ugyentenzin1) | Ugyen Tenzin  | Thiimphu, Bhutan | 1,981 |
 | 12 | [namgaytobden](https://github.com/namgaytobden) | Namgay Tobden | Thimphu | 1,979 |
-| 13 | [bugloper](https://github.com/bugloper) | Nima Yonten | Thimphu Babesa | 1,939 |
+| 13 | [bugloper](https://github.com/bugloper) | Nima Yonten | Thimphu Babesa | 1,933 |
 | 14 | [jigmeloday](https://github.com/jigmeloday) | Jigme Lodey | Thimphu Bhutan | 1,920 |
 | 15 | [grey300](https://github.com/grey300) | Tshering Gyeltshen | Bhutan | 1,880 |
 | 16 | [khandudo](https://github.com/khandudo) | Dorji Khandu | Thimphu, Bhutan | 1,837 |
@@ -83,4 +83,4 @@ Indexed users: 267
 | 19 | [chimiWangchukWangdi](https://github.com/chimiWangchukWangdi) | Chimi Wangchuk Wangdi | Thimphu, Bhutan | 22 |
 | 20 | [devsangay](https://github.com/devsangay) | Sangay Wangdi | Bhutan | 22 |
 
-Generated: 2026-10-14T19:52:28.382Z
+Generated: 2026-10-14T21:21:28.109Z

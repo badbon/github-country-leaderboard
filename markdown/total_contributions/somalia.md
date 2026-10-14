@@ -1,6 +1,6 @@
 # Total Contributions - Somalia
 
-Generated: 2026-10-14T19:27:54.814Z
+Generated: 2026-10-14T20:56:40.263Z
 
 Users: 867
 
@@ -24,5 +24,5 @@ Users: 867
 | 16 | [Dhaqane-00](https://github.com/Dhaqane-00) | Abdilaahi Mowliid Dhaqane | @jtechso |  | Mogadishu | 3307 |
 | 17 | [mooha76](https://github.com/mooha76) | Mohammed Farah |  |  | Mogadishu, Somalia | 3193 |
 | 18 | [bashkahee](https://github.com/bashkahee) | Bashir Abdinur Ahmed | Jamhuriya Technology Solutions | bashkahee | Mogadishu | 3173 |
-| 19 | [sadaqhassan](https://github.com/sadaqhassan) | Sadak Hassan Ahmed |  |  | mogadishu-somalia | 2994 |
-| 20 | [mesutmahad](https://github.com/mesutmahad) | ENG MESUT | Same - Software |  | Somalia | 2978 |
+| 19 | [abdulsalamhassan](https://github.com/abdulsalamhassan) | Abdulsalam H. Shiikhow | SIMAD University |  | Somalia, Mogadishu | 3033 |
+| 20 | [sadaqhassan](https://github.com/sadaqhassan) | Sadak Hassan Ahmed |  |  | mogadishu-somalia | 2994 |

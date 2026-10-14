@@ -1,6 +1,6 @@
 # Total Contributions - Åland Islands
 
-Generated: 2026-10-14T19:42:59.362Z
+Generated: 2026-10-14T21:11:41.738Z
 
 Users: 61
 
@@ -8,8 +8,8 @@ Users: 61
 |---:|---|---|---|---|---|---:|
 | 1 | [michael-andreuzza](https://github.com/michael-andreuzza) | Michael Andreuzza | Unwrapped | Mike_Andreuzza | Mariehman, Åland Islands, Finland | 10413 |
 | 2 | [npunzalan](https://github.com/npunzalan) | Nico Punzalan |  |  | Mariehamn | 3987 |
-| 3 | [hkarlstrom](https://github.com/hkarlstrom) | Henrik Karlström |  |  | Åland Islands | 3763 |
-| 4 | [mathisen99](https://github.com/mathisen99) | Tommy Mathisen |  |  | Aland Islands | 3196 |
+| 3 | [hkarlstrom](https://github.com/hkarlstrom) | Henrik Karlström |  |  | Åland Islands | 3768 |
+| 4 | [mathisen99](https://github.com/mathisen99) | Tommy Mathisen |  |  | Aland Islands | 3206 |
 | 5 | [olegamobile](https://github.com/olegamobile) | Oleg Balandin | Grit:lab |  | Mariehamn | 1764 |
 | 6 | [MarkusYPA](https://github.com/MarkusYPA) | Markus Amberla |  |  | Mariehamn and Helsinki | 1538 |
 | 7 | [linusaarnio](https://github.com/linusaarnio) | Linus Aarnio | Datawrapper |  | Åland, Finland | 1244 |
@@ -18,7 +18,7 @@ Users: 61
 | 10 | [mareerray](https://github.com/mareerray) | Mayuree Reunsati |  |  | Mariehamn, Åland | 829 |
 | 11 | [fannielf](https://github.com/fannielf) | Fanni Vesanen | @enfuce  |  | Mariehamn | 582 |
 | 12 | [kejpa](https://github.com/kejpa) | Kjell Hansen |  |  | Mariehamn, Åland Islands | 528 |
-| 13 | [rahulwagh](https://github.com/rahulwagh) | Rahul Wagh |  |  | Mariehamn, Åland | 488 |
+| 13 | [rahulwagh](https://github.com/rahulwagh) | Rahul Wagh |  |  | Mariehamn, Åland | 491 |
 | 14 | [karusmari](https://github.com/karusmari) | Maris Karu | Gritlab |  | Åland Islands | 465 |
 | 15 | [khalavak](https://github.com/khalavak) | Kim Halavakoski | @DeductiveLabs @Sofecta @SofectaLabs  | khalavak | Åland Islands | 384 |
 | 16 | [johanwestling](https://github.com/johanwestling) | Johan Westling | @Aventyret |  | Åland, Finland | 230 |

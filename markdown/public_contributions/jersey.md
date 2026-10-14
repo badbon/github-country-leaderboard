@@ -1,6 +1,6 @@
 # Public Contributions - Jersey
 
-Generated: 2026-10-14T20:21:29.564Z
+Generated: 2026-10-14T21:45:33.295Z
 
 Users: 139
 
@@ -15,14 +15,14 @@ Users: 139
 | 7 | [vraic](https://github.com/vraic) | André Tanguy |  |  | Jersey | 500 |
 | 8 | [gnathoi](https://github.com/gnathoi) | Nathaniel Hey |  |  | Jersey, Channel Islands | 423 |
 | 9 | [michaelbutler1998](https://github.com/michaelbutler1998) | Michael Butler | Insert Affiliate Ltd |  | Jersey | 411 |
-| 10 | [ndestates](https://github.com/ndestates) | Nick Dodsley | ND Estates | nickdodsley | Jersey | 213 |
-| 11 | [mhaddon](https://github.com/mhaddon) | Michael Haddon | @politepixels  |  | Jersey, Channel Islands | 211 |
-| 12 | [xsebby](https://github.com/xsebby) | sebby |  | xsebby | jersey | 178 |
-| 13 | [morrisjam](https://github.com/morrisjam) | James Morris |  |  | Jersey | 152 |
-| 14 | [devdanio](https://github.com/devdanio) | Dan | DevDan | DevDanIO | Jersey | 139 |
-| 15 | [alexleach](https://github.com/alexleach) | ALB.Leach | ITC Bio |  | Jersey, UK | 132 |
-| 16 | [Adrian609](https://github.com/Adrian609) | Adrian |  |  | Jersey | 131 |
-| 17 | [shiaoligreen](https://github.com/shiaoligreen) | Shiao-li Green |  | shiao_li | Jersey, Channel Islands | 118 |
-| 18 | [doobox](https://github.com/doobox) | Doobox | Doobox | doobox | Jersey | 111 |
+| 10 | [doobox](https://github.com/doobox) | Doobox | Doobox | doobox | Jersey | 408 |
+| 11 | [ndestates](https://github.com/ndestates) | Nick Dodsley | ND Estates | nickdodsley | Jersey | 213 |
+| 12 | [mhaddon](https://github.com/mhaddon) | Michael Haddon | @politepixels  |  | Jersey, Channel Islands | 211 |
+| 13 | [xsebby](https://github.com/xsebby) | sebby |  | xsebby | jersey | 178 |
+| 14 | [morrisjam](https://github.com/morrisjam) | James Morris |  |  | Jersey | 152 |
+| 15 | [devdanio](https://github.com/devdanio) | Dan | DevDan | DevDanIO | Jersey | 139 |
+| 16 | [alexleach](https://github.com/alexleach) | ALB.Leach | ITC Bio |  | Jersey, UK | 132 |
+| 17 | [Adrian609](https://github.com/Adrian609) | Adrian |  |  | Jersey | 131 |
+| 18 | [shiaoligreen](https://github.com/shiaoligreen) | Shiao-li Green |  | shiao_li | Jersey, Channel Islands | 118 |
 | 19 | [jde](https://github.com/jde) | David Erwin | RollDeep | daviderwin | New [York, Jersey] | 94 |
 | 20 | [JoshCollis](https://github.com/JoshCollis) | Josh Collis | Newtel Limited |  | Jersey | 92 |

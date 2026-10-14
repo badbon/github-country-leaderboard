@@ -1,6 +1,6 @@
 # Public Contributions - Somalia
 
-Generated: 2026-10-14T19:27:54.814Z
+Generated: 2026-10-14T20:56:40.263Z
 
 Users: 867
 
@@ -9,7 +9,7 @@ Users: 867
 | 1 | [yousumohamed](https://github.com/yousumohamed) | Yousuf Mohamed | @Sahan-Labs  |  | somalia | 5068 |
 | 2 | [mrabukar](https://github.com/mrabukar) | Mr Abukar | @Loranet-Technologies  |  | Mogadisho, Somalia | 3819 |
 | 3 | [abdulsalamhassan](https://github.com/abdulsalamhassan) | Abdulsalam H. Shiikhow | SIMAD University |  | Somalia, Mogadishu | 1558 |
-| 4 | [TheAnfac](https://github.com/TheAnfac) | Anfac Abdullahi |  |  | Somalia-Mogadishu | 1074 |
+| 4 | [TheAnfac](https://github.com/TheAnfac) | Anfac Abdullahi |  |  | Somalia-Mogadishu | 1070 |
 | 5 | [hanadderia](https://github.com/hanadderia) | Abdulshakur Ahmed | SOMALI PAYMENT SWITCH (SPS) |  | Mogadishu, Somalia | 970 |
 | 6 | [sadaqhassan](https://github.com/sadaqhassan) | Sadak Hassan Ahmed |  |  | mogadishu-somalia | 930 |
 | 7 | [mohameddahir57](https://github.com/mohameddahir57) | Mohamed Dahir Osman |  |  | Somalia,Mogadishu | 929 |
@@ -17,7 +17,7 @@ Users: 867
 | 9 | [EsraAbdirashid](https://github.com/EsraAbdirashid) | EsraAbdirashid |  |  | mogadishu,somalia | 770 |
 | 10 | [omartood](https://github.com/omartood) | Omar Tood | Instructor & Researcher At @goobolabs | omartoodAIR | Somalia | 769 |
 | 11 | [ibrahimmoalim](https://github.com/ibrahimmoalim) | Ibrahim |  |  | Garowe, Somalia | 759 |
-| 12 | [Joseph-Abdullaah](https://github.com/Joseph-Abdullaah) | Joseph Abdullaahi |  | JosephAbdullaah | somalia | 736 |
+| 12 | [Joseph-Abdullaah](https://github.com/Joseph-Abdullaah) | Joseph Abdullaahi |  | JosephAbdullaah | somalia | 759 |
 | 13 | [ali-hmed](https://github.com/ali-hmed) | Ali ahmed |  |  | Mogadishu, Somalia | 647 |
 | 14 | [khaledyusuf44](https://github.com/khaledyusuf44) | Khalid Yusuf Dahir |  | khaledyusuf44 | Mogadishu | 613 |
 | 15 | [karimsaabir9](https://github.com/karimsaabir9) | Sabir Salad Hassan |  | karimsaabir9 | Mogadishu-Somalia | 594 |

@@ -13,7 +13,7 @@ Indexed users: 1,184
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [flakerimi](https://github.com/flakerimi) | Flakerim Ismani | Tirane, Albania | 21,243 |
-| 2 | [okturan](https://github.com/okturan) | Okan Erturan | Tirana | 10,352 |
+| 2 | [okturan](https://github.com/okturan) | Okan Erturan | Tirana | 10,599 |
 | 3 | [ErionTp](https://github.com/ErionTp) | Erjon Këllëçi | Tirane, Albania | 9,126 |
 | 4 | [alban-hh](https://github.com/alban-hh) | Alban Shermadhi | Albania | 8,598 |
 | 5 | [Jorgo55](https://github.com/Jorgo55) | Jorgo Bardho | Albania, Tirana | 8,238 |
@@ -27,9 +27,9 @@ Indexed users: 1,184
 | 13 | [emilushi](https://github.com/emilushi) | Eduard Milushi | Albania | 5,568 |
 | 14 | [nertilpoci](https://github.com/nertilpoci) | Nertil Poci | Albania | 5,500 |
 | 15 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | Albania | 4,672 |
-| 16 | [ezekaj](https://github.com/ezekaj) | Elvi Zekaj | Tirana, Albania | 4,397 |
-| 17 | [sly503](https://github.com/sly503) | Fatjon Rami | Tirana | 4,363 |
-| 18 | [blenardpazari](https://github.com/blenardpazari) | Blenard Pazari | Tirana | 4,321 |
+| 16 | [blenardpazari](https://github.com/blenardpazari) | Blenard Pazari | Tirana | 4,583 |
+| 17 | [sly503](https://github.com/sly503) | Fatjon Rami | Tirana | 4,508 |
+| 18 | [ezekaj](https://github.com/ezekaj) | Elvi Zekaj | Tirana, Albania | 4,397 |
 | 19 | [klkucaj](https://github.com/klkucaj) | Klaudio Kuçaj | Tirana, Albania | 4,217 |
 | 20 | [jozefini](https://github.com/jozefini) | Jozefin B. | Albania | 4,181 |
 
@@ -42,7 +42,7 @@ Indexed users: 1,184
 | 3 | [fadion](https://github.com/fadion) | Fadion Dashi | Tirana, Albania | 3,661 |
 | 4 | [GentBajko](https://github.com/GentBajko) | Gent Bajko | Tirana, Albania | 1,950 |
 | 5 | [Orest-Z](https://github.com/Orest-Z) | Orest | Albania | 1,488 |
-| 6 | [okturan](https://github.com/okturan) | Okan Erturan | Tirana | 1,390 |
+| 6 | [okturan](https://github.com/okturan) | Okan Erturan | Tirana | 1,406 |
 | 7 | [KLEOJAHOLLARI](https://github.com/KLEOJAHOLLARI) | Kleo Jahollari | Albania | 1,243 |
 | 8 | [genciiv](https://github.com/genciiv) | G-code | Albania | 1,070 |
 | 9 | [ezekaj](https://github.com/ezekaj) | Elvi Zekaj | Tirana, Albania | 980 |
@@ -83,4 +83,4 @@ Indexed users: 1,184
 | 19 | [SxtBox](https://github.com/SxtBox) | Albdroid.AL | Albania | 81 |
 | 20 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | Albania | 75 |
 
-Generated: 2026-10-14T19:43:04.998Z
+Generated: 2026-10-14T21:12:24.173Z

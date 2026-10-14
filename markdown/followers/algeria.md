@@ -1,6 +1,6 @@
 # Followers - Algeria
 
-Generated: 2026-10-14T19:43:37.385Z
+Generated: 2026-10-14T21:12:29.761Z
 
 Users: 5807
 
@@ -12,12 +12,12 @@ Users: 5807
 | 4 | [NOUHABL](https://github.com/NOUHABL) | NOUHA |  |  | Algeria  | 1517 |
 | 5 | [Manisso](https://github.com/Manisso) | Manis DJEMMANE | @Manisso |  | Algiers, Algeria | 1496 |
 | 6 | [linuxscout](https://github.com/linuxscout) | Taha Zerrouki (طه زروقي ) | Bouira University | linuxscout | Bouira, Algeria | 1387 |
-| 7 | [pagimos](https://github.com/pagimos) | Bouacheri Mohamed Islam | Digital Bitwave | pagimos | Algeria | 1295 |
+| 7 | [pagimos](https://github.com/pagimos) | Bouacheri Mohamed Islam | Digital Bitwave | pagimos | Algeria | 1299 |
 | 8 | [elhadjx](https://github.com/elhadjx) | Hadj H. | @sintek-io  |  | Algeria | 1204 |
 | 9 | [yasserbdj96](https://github.com/yasserbdj96) | Boudjada Yasser | @yasserbdj96 | yasserbdj96 | Jijel, Algeria | 1176 |
 | 10 | [Younes-Charfaoui](https://github.com/Younes-Charfaoui) | Younes Charfaoui | @dscuik  | CharfaouiYounes | Tiaret, Algeria | 1031 |
-| 11 | [medzino2000](https://github.com/medzino2000) | med zino |  | MedZ1nou | algeria | 918 |
-| 12 | [kh-mahmoud](https://github.com/kh-mahmoud) | Khouchane Mahmoud |  | kh_mahmoud47324 | Algeria | 911 |
+| 11 | [kh-mahmoud](https://github.com/kh-mahmoud) | Khouchane Mahmoud |  | kh_mahmoud47324 | Algeria | 962 |
+| 12 | [medzino2000](https://github.com/medzino2000) | med zino |  | MedZ1nou | algeria | 908 |
 | 13 | [x4nth055](https://github.com/x4nth055) | Rockikz |  |  | Algeria | 845 |
 | 14 | [Saboo24](https://github.com/Saboo24) | Amine Hamzaoui |  |  | Algeria | 838 |
 | 15 | [h4x0r-dz](https://github.com/h4x0r-dz) | h4x0r_dz | Barika | h4x0r_dz | Algeria | 832 |

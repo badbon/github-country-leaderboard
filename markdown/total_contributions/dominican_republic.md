@@ -1,6 +1,6 @@
 # Total Contributions - Dominican Republic
 
-Generated: 2026-10-14T20:03:00.642Z
+Generated: 2026-10-14T21:31:09.405Z
 
 Users: 3307
 
@@ -17,12 +17,12 @@ Users: 3307
 | 9 | [cervantesh](https://github.com/cervantesh) | Cervantes Hernandez |  |  | Dominican Republic | 7804 |
 | 10 | [elminson](https://github.com/elminson) | Elminson De Oleo Baez | Refersion |  | Santo Domingo, Dominican Republic | 7675 |
 | 11 | [sanchezta](https://github.com/sanchezta) | Adrian Sanchez | Verus Capital & Batea Fintech SAS |  | Dominican Republic | 6885 |
-| 12 | [focux](https://github.com/focux) | Leonardo E. Dominguez |  | foocux | Dominican Republic | 6567 |
-| 13 | [franklinmdev](https://github.com/franklinmdev) | Franklin Martinez | Nubeteck, SRL |  | Dominican Republic | 6230 |
-| 14 | [AnthRG](https://github.com/AnthRG) | Anthony Rosario G. | T-Eco |  | Dominican Republic | 5922 |
-| 15 | [emilsosa](https://github.com/emilsosa) | Emil Sosa | @magaransoft | emilsosa_ | Dominican Republic | 5892 |
-| 16 | [ERPalmer](https://github.com/ERPalmer) | ERPalmer |  | ERPalmer | Dominican Republic | 5854 |
-| 17 | [Bebell-Digital-Solutions](https://github.com/Bebell-Digital-Solutions) | Bebell Digital Solutions 🚀 | Bebell Digital Solutions |  | Dominican Republic | 5554 |
-| 18 | [dylanminaya](https://github.com/dylanminaya) | Dylan Minaya |  |  | Dominican Republic | 5486 |
-| 19 | [wcontreras](https://github.com/wcontreras) | Williams Contreras | @glowicom  |  | Dominican Republic, Santo Domingo | 5442 |
-| 20 | [dkropachev](https://github.com/dkropachev) | Dmitry Kropachev | Scylla |  | Dominican Republic | 5369 |
+| 12 | [dkropachev](https://github.com/dkropachev) | Dmitry Kropachev | Scylla |  | Dominican Republic | 6784 |
+| 13 | [focux](https://github.com/focux) | Leonardo E. Dominguez |  | foocux | Dominican Republic | 6567 |
+| 14 | [franklinmdev](https://github.com/franklinmdev) | Franklin Martinez | Nubeteck, SRL |  | Dominican Republic | 6230 |
+| 15 | [AnthRG](https://github.com/AnthRG) | Anthony Rosario G. | T-Eco |  | Dominican Republic | 5922 |
+| 16 | [emilsosa](https://github.com/emilsosa) | Emil Sosa | @magaransoft | emilsosa_ | Dominican Republic | 5892 |
+| 17 | [ERPalmer](https://github.com/ERPalmer) | ERPalmer |  | ERPalmer | Dominican Republic | 5854 |
+| 18 | [Bebell-Digital-Solutions](https://github.com/Bebell-Digital-Solutions) | Bebell Digital Solutions 🚀 | Bebell Digital Solutions |  | Dominican Republic | 5554 |
+| 19 | [dylanminaya](https://github.com/dylanminaya) | Dylan Minaya |  |  | Dominican Republic | 5486 |
+| 20 | [wcontreras](https://github.com/wcontreras) | Williams Contreras | @glowicom  |  | Dominican Republic, Santo Domingo | 5442 |

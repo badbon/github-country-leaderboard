@@ -29,7 +29,7 @@ Indexed users: 254
 | 15 | [amirulmenjeni](https://github.com/amirulmenjeni) | Amirul Menjeni | Brunei Darussalam | 419 |
 | 16 | [MadHazz](https://github.com/MadHazz) | Ahmad Ghazali Bin Haji Hanipah | Bandar Seri Begawan, Brunei Muara District, Negara Brunei Darussalam | 361 |
 | 17 | [bumplzz69](https://github.com/bumplzz69) | Eddie | Brunei | 343 |
-| 18 | [thewheat](https://github.com/thewheat) | Timothy Lim | Brunei | 260 |
+| 18 | [thewheat](https://github.com/thewheat) | Timothy Lim | Brunei | 258 |
 | 19 | [hfzizz](https://github.com/hfzizz) | Hafiz Izzuddin | Brunei | 246 |
 | 20 | [MirzaMuqri](https://github.com/MirzaMuqri) | Mirza Muk(q)ri | Brunei Darussalam | 233 |
 
@@ -43,7 +43,7 @@ Indexed users: 254
 | 4 | [bumplzz69](https://github.com/bumplzz69) | Eddie | Brunei | 343 |
 | 5 | [danialothman](https://github.com/danialothman) | Danial Othman | Brunei Darussalam | 235 |
 | 6 | [naqiuddinihsan](https://github.com/naqiuddinihsan) | Ihsan | Brunei | 148 |
-| 7 | [thewheat](https://github.com/thewheat) | Timothy Lim | Brunei | 119 |
+| 7 | [thewheat](https://github.com/thewheat) | Timothy Lim | Brunei | 117 |
 | 8 | [syahnur197](https://github.com/syahnur197) | Syahnur Nizam | Brunei | 110 |
 | 9 | [lmwnshn](https://github.com/lmwnshn) | Wan Shen Lim | San Francisco, CA \| Brunei | 108 |
 | 10 | [Zylioth](https://github.com/Zylioth) | Muhammad Amir Sabrin bin Mohamad Ali | Brunei | 108 |
@@ -65,7 +65,7 @@ Indexed users: 254
 | 1 | [notanonymouse](https://github.com/notanonymouse) | notanonymouse | Brunei | 178 |
 | 2 | [lmwnshn](https://github.com/lmwnshn) | Wan Shen Lim | San Francisco, CA \| Brunei | 113 |
 | 3 | [izdiwho](https://github.com/izdiwho) | Iz | Brunei | 64 |
-| 4 | [Qoyyuum](https://github.com/Qoyyuum) | Abdul Qoyyuum | Brunei Darussalam | 51 |
+| 4 | [Qoyyuum](https://github.com/Qoyyuum) | Abdul Qoyyuum | Brunei Darussalam | 52 |
 | 5 | [thewheat](https://github.com/thewheat) | Timothy Lim | Brunei | 47 |
 | 6 | [PandaWarrior63](https://github.com/PandaWarrior63) |  | Brunei | 39 |
 | 7 | [abizarleman](https://github.com/abizarleman) | Abizar Leman | Brunei Darussalam | 29 |
@@ -83,4 +83,4 @@ Indexed users: 254
 | 19 | [nathanielcwm](https://github.com/nathanielcwm) | Nathaniel | Brunei | 14 |
 | 20 | [affenrahim88](https://github.com/affenrahim88) | Affandy Abdul Rahim | Brunei Darussalam | 13 |
 
-Generated: 2026-10-14T19:53:57.572Z
+Generated: 2026-10-14T21:22:12.327Z

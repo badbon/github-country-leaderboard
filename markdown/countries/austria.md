@@ -39,9 +39,9 @@ Indexed users: 18,257
 |---:|---|---|---|---:|
 | 1 | [krystophny](https://github.com/krystophny) | Christopher Albert | Graz, Austria | 31,948 |
 | 2 | [mmgerald](https://github.com/mmgerald) | Gerald Lochner | Salzburg, Austria | 16,519 |
-| 3 | [EHotwagner](https://github.com/EHotwagner) |  | Vienna | 11,937 |
-| 4 | [JKamsker](https://github.com/JKamsker) | Jonas Kamsker | Linz, Austria | 11,633 |
-| 5 | [plengauer](https://github.com/plengauer) | Philipp Lengauer | Austria | 11,122 |
+| 3 | [plengauer](https://github.com/plengauer) | Philipp Lengauer | Austria | 14,593 |
+| 4 | [EHotwagner](https://github.com/EHotwagner) |  | Vienna | 11,937 |
+| 5 | [JKamsker](https://github.com/JKamsker) | Jonas Kamsker | Linz, Austria | 11,633 |
 | 6 | [nerolation](https://github.com/nerolation) | Toni Wahrstätter | Austria | 10,313 |
 | 7 | [mcm1957](https://github.com/mcm1957) | Martin M. | Vienna, Austria | 10,062 |
 | 8 | [rmayr](https://github.com/rmayr) | René Mayrhofer | Austria | 10,006 |
@@ -83,4 +83,4 @@ Indexed users: 18,257
 | 19 | [timolins](https://github.com/timolins) | Timo Lins | Vienna, Austria | 1,173 |
 | 20 | [cliffordwolf](https://github.com/cliffordwolf) | Claire Wolf | Vienna | 1,143 |
 
-Generated: 2026-10-14T19:47:38.857Z
+Generated: 2026-10-14T21:15:43.810Z

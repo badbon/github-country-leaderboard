@@ -15,7 +15,7 @@ Indexed users: 727
 | 1 | [EAlbasri](https://github.com/EAlbasri) | Ebrahim Albasri | Bahrain | 118,629 |
 | 2 | [a7md](https://github.com/a7md) | {ahmed} | Bahrain | 12,695 |
 | 3 | [aldoyh](https://github.com/aldoyh) | Hasan AlDoy | Al Muharraq, Bahrain | 10,334 |
-| 4 | [emadprograms](https://github.com/emadprograms) | Hamza Arshad Alam | Bahrain | 6,282 |
+| 4 | [emadprograms](https://github.com/emadprograms) | Hamza Arshad Alam | Bahrain | 6,284 |
 | 5 | [AlqattanDev](https://github.com/AlqattanDev) | Ali AlQattan | Manama, Bahrain | 6,193 |
 | 6 | [SalehAbdulla](https://github.com/SalehAbdulla) | SalehAbdulla | BAHRAIN | 6,085 |
 | 7 | [meshahid973](https://github.com/meshahid973) | meshahid.973 | bahrain | 5,982 |
@@ -37,7 +37,7 @@ Indexed users: 727
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [emadprograms](https://github.com/emadprograms) | Hamza Arshad Alam | Bahrain | 6,282 |
+| 1 | [emadprograms](https://github.com/emadprograms) | Hamza Arshad Alam | Bahrain | 6,284 |
 | 2 | [fairbird](https://github.com/fairbird) | RAED | Bahrain | 5,419 |
 | 3 | [SalehAbdulla](https://github.com/SalehAbdulla) | SalehAbdulla | BAHRAIN | 3,045 |
 | 4 | [UnbreakableMJ](https://github.com/UnbreakableMJ) | Mohamed Hammad | Bahrain | 2,693 |
@@ -83,4 +83,4 @@ Indexed users: 727
 | 19 | [f-9t9it](https://github.com/f-9t9it) | 9T9 IT | Bahrain | 42 |
 | 20 | [ameenaltajer](https://github.com/ameenaltajer) | Ameen Altajer | Bahrain | 39 |
 
-Generated: 2026-10-14T19:49:22.365Z
+Generated: 2026-10-14T21:17:26.616Z

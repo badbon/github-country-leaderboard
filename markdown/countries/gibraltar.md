@@ -25,7 +25,7 @@ Indexed users: 93
 | 11 | [ronanmathew](https://github.com/ronanmathew) | Ronan Spoor | Gibraltar | 637 |
 | 12 | [mortyflex](https://github.com/mortyflex) | Mohamed A | Gibraltar | 621 |
 | 13 | [SGarcia96](https://github.com/SGarcia96) | SGarcia | Spain/Gibraltar | 598 |
-| 14 | [ajedrezpremium](https://github.com/ajedrezpremium) | Ajedrez Premium | GIBRALTAR | 521 |
+| 14 | [ajedrezpremium](https://github.com/ajedrezpremium) | Ajedrez Premium | GIBRALTAR | 523 |
 | 15 | [Vinnetou](https://github.com/Vinnetou) | Lukas Kloucek | Gibraltar | 521 |
 | 16 | [PeterKottas](https://github.com/PeterKottas) | Peter Kottas | Gibraltar | 462 |
 | 17 | [cdharris](https://github.com/cdharris) | Chris Harris | Berlin / Europe / Gibraltar | 403 |
@@ -41,7 +41,7 @@ Indexed users: 93
 | 2 | [dlicudi](https://github.com/dlicudi) | Duane Licudi | Gibraltar | 2,351 |
 | 3 | [Industrial](https://github.com/Industrial) | Tom Wieland | Gibraltar | 1,908 |
 | 4 | [ArtemSoldatkin](https://github.com/ArtemSoldatkin) | Artem Soldatkin | Gibraltar | 572 |
-| 5 | [ajedrezpremium](https://github.com/ajedrezpremium) | Ajedrez Premium | GIBRALTAR | 521 |
+| 5 | [ajedrezpremium](https://github.com/ajedrezpremium) | Ajedrez Premium | GIBRALTAR | 523 |
 | 6 | [crpol](https://github.com/crpol) | Cesar Rosa Polanco | Gibraltar | 253 |
 | 7 | [heaventree](https://github.com/heaventree) | Heaventree Digital | Gibraltar | 241 |
 | 8 | [mortyflex](https://github.com/mortyflex) | Mohamed A | Gibraltar | 196 |
@@ -83,4 +83,4 @@ Indexed users: 93
 | 19 | [vfiodor](https://github.com/vfiodor) | Fiodor Veresciaka | Gibraltar | 13 |
 | 20 | [VPSServerCom](https://github.com/VPSServerCom) | VPS Server | Gibraltar | 13 |
 
-Generated: 2026-10-14T20:10:51.638Z
+Generated: 2026-10-14T21:37:44.406Z

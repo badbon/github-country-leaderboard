@@ -49,7 +49,7 @@ Indexed users: 235
 | 10 | [Janeirohurley](https://github.com/Janeirohurley) | Janeiro hurley | Burundi | 271 |
 | 11 | [butofleury](https://github.com/butofleury) | Fleury | Burundi, Bujumbura | 241 |
 | 12 | [kozetchanny52-gif](https://github.com/kozetchanny52-gif) | KOZE TCHANY | Burundi/Bujumbura | 221 |
-| 13 | [IdrissMulenga](https://github.com/IdrissMulenga) | IdrissM | Burundi | 197 |
+| 13 | [IdrissMulenga](https://github.com/IdrissMulenga) | IdrissM | Burundi | 198 |
 | 14 | [XPTOOLS](https://github.com/XPTOOLS) | XP TOOLS | Burundi | 159 |
 | 15 | [Christardev](https://github.com/Christardev) | NIJIMBERE Jean-Christar | Burundi | 134 |
 | 16 | [MrDeveloperXP](https://github.com/MrDeveloperXP) | MrXP | Burundi | 117 |
@@ -64,7 +64,7 @@ Indexed users: 235
 |---:|---|---|---|---:|
 | 1 | [JovinMtl](https://github.com/JovinMtl) | Nsanzumukiza Thierry | Bujumbura, Burundi | 368 |
 | 2 | [gatarelib](https://github.com/gatarelib) | Gatare Libère | Burundi | 147 |
-| 3 | [EddyKubwimana](https://github.com/EddyKubwimana) | Eddy Kubwimana | Burundi | 135 |
+| 3 | [EddyKubwimana](https://github.com/EddyKubwimana) | Eddy Kubwimana | Burundi | 136 |
 | 4 | [muco-rolle](https://github.com/muco-rolle) | Trésor Muco | Bujumbura, Burundi | 102 |
 | 5 | [Toussaint-Coder](https://github.com/Toussaint-Coder) | toussaint iradukunda | bujumbura, burundi | 90 |
 | 6 | [srugano](https://github.com/srugano) | Allan Stockman RUGANO  | Burundi | 87 |
@@ -83,4 +83,4 @@ Indexed users: 235
 | 19 | [tertcoder](https://github.com/tertcoder) | Bon Tertius Tuyishimire  | Bujumbura, Burundi | 35 |
 | 20 | [arsou2015](https://github.com/arsou2015) | Arsene Nduwayo | Burundi | 34 |
 
-Generated: 2026-10-14T19:55:21.389Z
+Generated: 2026-10-14T21:23:55.307Z
