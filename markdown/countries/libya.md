@@ -48,10 +48,10 @@ Indexed users: 742
 | 9 | [hazembook](https://github.com/hazembook) | Hazem Shaban | Libya | 665 |
 | 10 | [mhmdnab](https://github.com/mhmdnab) | Mohamad Naboulsi | Tripoli - Lebanon | 640 |
 | 11 | [Nick-800](https://github.com/Nick-800) | Sohaib Kamash | Libya | 631 |
-| 12 | [habberrih](https://github.com/habberrih) | Abdullah Habberrih | Libya | 598 |
+| 12 | [habberrih](https://github.com/habberrih) | Abdullah Habberrih | Libya | 556 |
 | 13 | [Asma-Nasr](https://github.com/Asma-Nasr) | Asmaa Nasr | Libya | 472 |
 | 14 | [salemaljebaly](https://github.com/salemaljebaly) | Salem Aljebaly | Libya | 426 |
-| 15 | [MElkmeshi](https://github.com/MElkmeshi) | Mohamed Elkmeshi | Tripoli, Libya | 418 |
+| 15 | [MElkmeshi](https://github.com/MElkmeshi) | Mohamed Elkmeshi | Tripoli, Libya | 416 |
 | 16 | [Wondermine](https://github.com/Wondermine) | Taha Ali | Libya, Tripoli | 367 |
 | 17 | [Tellesy](https://github.com/Tellesy) | blueMu | Tripoli, Libya | 360 |
 | 18 | [Nojaid-Ad](https://github.com/Nojaid-Ad) |  | Tripoli | 357 |
@@ -83,4 +83,4 @@ Indexed users: 742
 | 19 | [ZizouHuweidi](https://github.com/ZizouHuweidi) | El Zubeir Huweidi | Benghazi, Libya | 52 |
 | 20 | [Islam-alshiki](https://github.com/Islam-alshiki) | Islam alshiki | Benghazi, Libya | 49 |
 
-Generated: 2026-10-14T18:53:06.272Z
+Generated: 2026-10-14T20:27:31.413Z

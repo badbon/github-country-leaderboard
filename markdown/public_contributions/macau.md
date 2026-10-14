@@ -1,6 +1,6 @@
 # Public Contributions - Macau
 
-Generated: 2026-10-14T18:54:22.785Z
+Generated: 2026-10-14T20:28:36.190Z
 
 Users: 439
 
@@ -10,7 +10,7 @@ Users: 439
 | 2 | [spiritLHLS](https://github.com/spiritLHLS) | spiritlhl | CAICT |  | Macau | 4828 |
 | 3 | [sfcheung](https://github.com/sfcheung) | Shu Fai Cheung | University of Macau | blogonresearch | Macao | 2798 |
 | 4 | [mugpeng](https://github.com/mugpeng) | Peng |  |  | macao | 2274 |
-| 5 | [RyanKung](https://github.com/RyanKung) | Elder Ryan |  | Elder24601 | Macau | 2000 |
+| 5 | [RyanKung](https://github.com/RyanKung) | Elder Ryan |  | Elder24601 | Macau | 2142 |
 | 6 | [hheei](https://github.com/hheei) | Lo Chon Hei |  |  | Macau | 1754 |
 | 7 | [wahengchang](https://github.com/wahengchang) | peterchang | @Yahoo |  | macau | 1336 |
 | 8 | [yyyyyyounger](https://github.com/yyyyyyounger) | Rookie, LIN | University of Macau |  | Macau | 1285 |
@@ -24,5 +24,5 @@ Users: 439
 | 16 | [gorgeousfish](https://github.com/gorgeousfish) | xuanyucai | City University of Macau |  | Macau | 596 |
 | 17 | [Boom5426](https://github.com/Boom5426) | Bo li (李波) | University of Macau |  | Macau | 571 |
 | 18 | [Chonwai](https://github.com/Chonwai) | Chonwai Un, Edison |  |  | Macau | 553 |
-| 19 | [alemonmk](https://github.com/alemonmk) | Lemon Lam | Lemon Network Solutions |  | Macau | 503 |
+| 19 | [alemonmk](https://github.com/alemonmk) | Lemon Lam | Lemon Network Solutions |  | Macau | 507 |
 | 20 | [LunchBox](https://github.com/LunchBox) | Daniel |  |  | Macau | 467 |

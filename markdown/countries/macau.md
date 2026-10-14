@@ -25,8 +25,8 @@ Indexed users: 439
 | 11 | [7788ken](https://github.com/7788ken) | Mark.pan | Macau,Zhuhai | 2,312 |
 | 12 | [mugpeng](https://github.com/mugpeng) | Peng | macao | 2,274 |
 | 13 | [Alex-Leong](https://github.com/Alex-Leong) | Alex | Macau | 2,184 |
-| 14 | [Yh1sam](https://github.com/Yh1sam) |  | Macau | 2,098 |
-| 15 | [RyanKung](https://github.com/RyanKung) | Elder Ryan | Macau | 2,002 |
+| 14 | [RyanKung](https://github.com/RyanKung) | Elder Ryan | Macau | 2,144 |
+| 15 | [Yh1sam](https://github.com/Yh1sam) |  | Macau | 2,098 |
 | 16 | [aungminnkhant9400](https://github.com/aungminnkhant9400) | Rollo | Macau | 1,785 |
 | 17 | [HansiChan](https://github.com/HansiChan) | Colin | Macau | 1,764 |
 | 18 | [hheei](https://github.com/hheei) | Lo Chon Hei | Macau | 1,754 |
@@ -41,7 +41,7 @@ Indexed users: 439
 | 2 | [spiritLHLS](https://github.com/spiritLHLS) | spiritlhl | Macau | 4,828 |
 | 3 | [sfcheung](https://github.com/sfcheung) | Shu Fai Cheung | Macao | 2,798 |
 | 4 | [mugpeng](https://github.com/mugpeng) | Peng | macao | 2,274 |
-| 5 | [RyanKung](https://github.com/RyanKung) | Elder Ryan | Macau | 2,000 |
+| 5 | [RyanKung](https://github.com/RyanKung) | Elder Ryan | Macau | 2,142 |
 | 6 | [hheei](https://github.com/hheei) | Lo Chon Hei | Macau | 1,754 |
 | 7 | [wahengchang](https://github.com/wahengchang) | peterchang | macau | 1,336 |
 | 8 | [yyyyyyounger](https://github.com/yyyyyyounger) | Rookie, LIN | Macau | 1,285 |
@@ -55,7 +55,7 @@ Indexed users: 439
 | 16 | [gorgeousfish](https://github.com/gorgeousfish) | xuanyucai | Macau | 596 |
 | 17 | [Boom5426](https://github.com/Boom5426) | Bo li (李波) | Macau | 571 |
 | 18 | [Chonwai](https://github.com/Chonwai) | Chonwai Un, Edison | Macau | 553 |
-| 19 | [alemonmk](https://github.com/alemonmk) | Lemon Lam | Macau | 503 |
+| 19 | [alemonmk](https://github.com/alemonmk) | Lemon Lam | Macau | 507 |
 | 20 | [LunchBox](https://github.com/LunchBox) | Daniel | Macau | 467 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 439
 | 19 | [Boom5426](https://github.com/Boom5426) | Bo li (李波) | Macau | 67 |
 | 20 | [mugpeng](https://github.com/mugpeng) | Peng | macao | 67 |
 
-Generated: 2026-10-14T18:54:22.785Z
+Generated: 2026-10-14T20:28:36.190Z

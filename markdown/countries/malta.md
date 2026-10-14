@@ -38,7 +38,7 @@ Indexed users: 1,225
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [ksazid](https://github.com/ksazid) | Sazid | Malta | 6,244 |
-| 2 | [jonathan-vella](https://github.com/jonathan-vella) | Jonathan Vella | Malta | 3,876 |
+| 2 | [jonathan-vella](https://github.com/jonathan-vella) | Jonathan Vella | Malta | 4,038 |
 | 3 | [ripienaar](https://github.com/ripienaar) | R.I.Pienaar | Malta | 3,835 |
 | 4 | [OmegaGbenga](https://github.com/OmegaGbenga) | Olugbenga Olatunde Dareowolabi | Malta | 3,552 |
 | 5 | [rinrab](https://github.com/rinrab) | Timofei Zhakov | Malta | 3,350 |
@@ -56,7 +56,7 @@ Indexed users: 1,225
 | 17 | [terranc](https://github.com/terranc) | Terran | Malta | 1,866 |
 | 18 | [dfroberg](https://github.com/dfroberg) | Danny Froberg | Gozo, Malta | 1,443 |
 | 19 | [owenfar](https://github.com/owenfar) |  | Malta | 1,292 |
-| 20 | [GefMar](https://github.com/GefMar) | Sergei Romanchuk | Malta | 1,280 |
+| 20 | [GefMar](https://github.com/GefMar) | Sergei Romanchuk | Malta | 1,287 |
 
 ## Followers
 
@@ -73,14 +73,14 @@ Indexed users: 1,225
 | 9 | [zeelog](https://github.com/zeelog) |  | Malta | 259 |
 | 10 | [jirevwe](https://github.com/jirevwe) | Raymond Tukpe | Luqa, Malta | 243 |
 | 11 | [TimidRobot](https://github.com/TimidRobot) | Timid Robot Zehta | San Ġwann, Malta 🇲🇹 | 230 |
-| 12 | [waynebonc](https://github.com/waynebonc) | Wayne Bonnici | Malta | 173 |
+| 12 | [waynebonc](https://github.com/waynebonc) | Wayne Bonnici | Malta | 172 |
 | 13 | [melihberberolu](https://github.com/melihberberolu) | Melih | Malta | 154 |
 | 14 | [JuxhinDB](https://github.com/JuxhinDB) | Juxhin | Malta | 142 |
-| 15 | [nathan-abela](https://github.com/nathan-abela) | Nathan Abela | Malta | 141 |
-| 16 | [jonathan-vella](https://github.com/jonathan-vella) | Jonathan Vella | Malta | 140 |
+| 15 | [jonathan-vella](https://github.com/jonathan-vella) | Jonathan Vella | Malta | 141 |
+| 16 | [nathan-abela](https://github.com/nathan-abela) | Nathan Abela | Malta | 141 |
 | 17 | [dalerank](https://github.com/dalerank) | dalerank | Sliema, Malta | 135 |
 | 18 | [ianharrigan](https://github.com/ianharrigan) | Ian Harrigan | Malta | 127 |
 | 19 | [mattcg](https://github.com/mattcg) | Matthew Caruana Galizia | Malta | 126 |
 | 20 | [CM2Walki](https://github.com/CM2Walki) | Walki | Malta | 118 |
 
-Generated: 2026-10-14T18:56:25.409Z
+Generated: 2026-10-14T20:31:00.747Z

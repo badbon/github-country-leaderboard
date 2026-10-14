@@ -1,6 +1,6 @@
 # Public Contributions - Mali
 
-Generated: 2026-10-14T18:56:19.642Z
+Generated: 2026-10-14T20:30:34.907Z
 
 Users: 348
 
@@ -9,15 +9,15 @@ Users: 348
 | 1 | [koneke55](https://github.com/koneke55) | कोनेके |  | koneke55 | Bamako, Mali | 6390 |
 | 2 | [MFOF7310](https://github.com/MFOF7310) | MFOFANA |  |  | Bamako,Mali | 4340 |
 | 3 | [Dioman-Keita](https://github.com/Dioman-Keita) | Dioman Keïta | @axiora-dev | DiomanKeita | Bamako/Mali | 1410 |
-| 4 | [rgaudin](https://github.com/rgaudin) | rgaudin | yɛlɛman |  | Bamako, Mali | 1142 |
+| 4 | [rgaudin](https://github.com/rgaudin) | rgaudin | yɛlɛman |  | Bamako, Mali | 1132 |
 | 5 | [sudoping01](https://github.com/sudoping01) | sed | .... |  | Bamako | 1111 |
 | 6 | [Abbv75](https://github.com/Abbv75) | Younouss Boré  | HorizonFuture |  | Bamako, telecel GBS | 566 |
 | 7 | [THIOYE97](https://github.com/THIOYE97) | THIOYE MARIKO | Danapay |  | Bamako , Mali 🇲🇱  | 386 |
 | 8 | [LeoAz](https://github.com/LeoAz) | Lionel AZ |  |  | Bamako | 383 |
 | 9 | [Abdoul03](https://github.com/Abdoul03) | Abdoul Ibrahima Samaké | Tuwindi Foundation |  | Bamako | 368 |
-| 10 | [skypper109](https://github.com/skypper109) | SKYPPER | AMD tech |  | Mali | 331 |
-| 11 | [malladev](https://github.com/malladev) | Mohamed Lamine KONE | @simplonsolutionssenegal | malladev223 | Bamako - MALI | 304 |
-| 12 | [tijjanismk](https://github.com/tijjanismk) |  |  |  | Mali | 303 |
+| 10 | [tijjanismk](https://github.com/tijjanismk) |  |  |  | Mali | 344 |
+| 11 | [skypper109](https://github.com/skypper109) | SKYPPER | AMD tech |  | Mali | 331 |
+| 12 | [malladev](https://github.com/malladev) | Mohamed Lamine KONE | @simplonsolutionssenegal | malladev223 | Bamako - MALI | 304 |
 | 13 | [Dayifour](https://github.com/Dayifour) | Sékou Dayifourou KEITA | Orange ML | Dayifour | Bamako, Mali | 274 |
 | 14 | [SekouSallah](https://github.com/SekouSallah) | Sékou Sow | @loga-engineering |  | Bamako, Mali | 250 |
 | 15 | [kontere-tienou](https://github.com/kontere-tienou) | Kontere TIENOU | Falcon Digital Hub |  | Mali | 229 |

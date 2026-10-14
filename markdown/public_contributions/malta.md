@@ -1,13 +1,13 @@
 # Public Contributions - Malta
 
-Generated: 2026-10-14T18:56:25.409Z
+Generated: 2026-10-14T20:31:00.747Z
 
 Users: 1225
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [ksazid](https://github.com/ksazid) | Sazid |  |  | Malta | 6244 |
-| 2 | [jonathan-vella](https://github.com/jonathan-vella) | Jonathan Vella | @Microsoft |  | Malta | 3876 |
+| 2 | [jonathan-vella](https://github.com/jonathan-vella) | Jonathan Vella | @Microsoft |  | Malta | 4038 |
 | 3 | [ripienaar](https://github.com/ripienaar) | R.I.Pienaar |  | ripienaar | Malta | 3835 |
 | 4 | [OmegaGbenga](https://github.com/OmegaGbenga) | Olugbenga Olatunde Dareowolabi |  |  | Malta | 3552 |
 | 5 | [rinrab](https://github.com/rinrab) | Timofei Zhakov |  |  | Malta | 3350 |
@@ -25,4 +25,4 @@ Users: 1225
 | 17 | [terranc](https://github.com/terranc) | Terran |  | terranc | Malta | 1866 |
 | 18 | [dfroberg](https://github.com/dfroberg) | Danny Froberg | @INFURA | dfroberg | Gozo, Malta | 1443 |
 | 19 | [owenfar](https://github.com/owenfar) |  | @owenfar |  | Malta | 1292 |
-| 20 | [GefMar](https://github.com/GefMar) | Sergei Romanchuk |  |  | Malta | 1280 |
+| 20 | [GefMar](https://github.com/GefMar) | Sergei Romanchuk |  |  | Malta | 1287 |

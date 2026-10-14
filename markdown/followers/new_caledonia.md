@@ -1,6 +1,6 @@
 # Followers - New Caledonia
 
-Generated: 2026-10-14T19:04:45.306Z
+Generated: 2026-10-14T20:38:23.040Z
 
 Users: 111
 
@@ -13,7 +13,7 @@ Users: 111
 | 5 | [gvdr](https://github.com/gvdr) | Giulio Valentino Dalla Riva | Pacific Community \| Communauté du Pacifique |  | Noumea, New Caledonia | 56 |
 | 6 | [darwiin](https://github.com/darwiin) | Christophe ROGER |  |  | New Caledonia | 43 |
 | 7 | [alexistoulotte](https://github.com/alexistoulotte) | Alexis Toulotte |  |  | Nouméa | 28 |
-| 8 | [jonathandelefortrie](https://github.com/jonathandelefortrie) | Jonathan Delefortrie |  |  | Nouméa | 24 |
+| 8 | [jonathandelefortrie](https://github.com/jonathandelefortrie) | Jonathan Delefortrie |  |  | Nouméa | 23 |
 | 9 | [pmietlicki](https://github.com/pmietlicki) | Pascal MIETLICKI |  |  | New Caledonia | 19 |
 | 10 | [maitredede](https://github.com/maitredede) | Damien DALY |  |  | Nouméa, New Caledonia | 15 |
 | 11 | [stoyann-open-classrooms](https://github.com/stoyann-open-classrooms) | Stoyann Velten | @KRYSTO-NC  | DevStoyann | Nouméa (New Caledonia) | 14 |

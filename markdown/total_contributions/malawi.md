@@ -1,6 +1,6 @@
 # Total Contributions - Malawi
 
-Generated: 2026-10-14T18:55:49.082Z
+Generated: 2026-10-14T20:29:13.161Z
 
 Users: 900
 
@@ -25,4 +25,4 @@ Users: 900
 | 17 | [markulaya2](https://github.com/markulaya2) | Mark Ulaya | @creditdatamw |  | Blantyre, Malawi | 3184 |
 | 18 | [IsaacKalambo22](https://github.com/IsaacKalambo22) | Isaac Kalambo | @InfinityCodeMw  | IsaacKalam44251 | Lilongwe | 3136 |
 | 19 | [Valent-p](https://github.com/Valent-p) | Valentino Phiri - Programmer | Veigatec |  | Lilongwe, Malawi | 3054 |
-| 20 | [EvanieWares](https://github.com/EvanieWares) | Chisomo Psyelera | EvanieWares | EvanieWares | Malawi | 3045 |
+| 20 | [zikani03](https://github.com/zikani03) | Zikani Nyirenda Mwase | @nndi-tech | zikani03 | Lilongwe, Malawi | 3054 |
