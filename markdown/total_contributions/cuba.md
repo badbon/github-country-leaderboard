@@ -1,13 +1,13 @@
 # Total Contributions - Cuba
 
-Generated: 2026-10-14T13:38:46.620Z
+Generated: 2026-10-14T14:59:44.667Z
 
 Users: 1276
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [apiad](https://github.com/apiad) | Alejandro Piad | University of Havana (@matcom) | alepiad | Cuba | 17907 |
-| 2 | [EduardoProfe666](https://github.com/EduardoProfe666) | Eduardo Alejandro González Martell | AIKoders LLC |  | La Habana, Cuba | 16116 |
+| 2 | [EduardoProfe666](https://github.com/EduardoProfe666) | Eduardo Alejandro González Martell | AIKoders LLC |  | La Habana, Cuba | 16158 |
 | 3 | [PerezO12](https://github.com/PerezO12) | Adrian Perez Osorio |  |  | Havana - Cuba - Spain - Mexico | 14900 |
 | 4 | [Walkercito](https://github.com/Walkercito) | Walkercito | @begonlabs  | Walkercitodt | 🌍 Coding from Cienfuegos, Cuba | 12299 |
 | 5 | [yasmramos](https://github.com/yasmramos) | Yasmany Ramos García  |  |  | Ciego de Ávila, Cuba | 9256 |
@@ -24,5 +24,5 @@ Users: 1276
 | 16 | [raulodev](https://github.com/raulodev) | Raúl Cobiellas |  |  | Cuba | 4061 |
 | 17 | [Ztaz9906](https://github.com/Ztaz9906) | Enrique Ferriero | UCI |  | Cuba | 3735 |
 | 18 | [disnelrr](https://github.com/disnelrr) | Disnel Rodríguez Rodríguez |  |  | Cuba | 3668 |
-| 19 | [wolfsouldev](https://github.com/wolfsouldev) | Alejandro Alberto Fajardo |  |  | Cuba/Matanzas  | 3316 |
-| 20 | [MiguelAntonioRS](https://github.com/MiguelAntonioRS) | Miguel |  | rojassucar0115 | Cuba, Holguin | 3294 |
+| 19 | [MiguelAntonioRS](https://github.com/MiguelAntonioRS) | Miguel |  | rojassucar0115 | Cuba, Holguin | 3294 |
+| 20 | [wolfsouldev](https://github.com/wolfsouldev) | Alejandro Alberto Fajardo |  |  | Cuba/Matanzas  | 3221 |

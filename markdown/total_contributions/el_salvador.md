@@ -1,6 +1,6 @@
 # Total Contributions - El Salvador
 
-Generated: 2026-10-14T13:42:49.932Z
+Generated: 2026-10-14T15:04:29.064Z
 
 Users: 2375
 
@@ -16,9 +16,9 @@ Users: 2375
 | 8 | [raarevalo96](https://github.com/raarevalo96) | Rodrigo Arévalo |  |  | San Salvador, El Salvador | 7318 |
 | 9 | [dgerardoflores](https://github.com/dgerardoflores) | Gerardo Flores | NotAwait | dgerardoflores | El Salvador | 7270 |
 | 10 | [martirale](https://github.com/martirale) | Alejandro Mártir | @am25-labs  |  | El Salvador | 6938 |
-| 11 | [josealvarado3a](https://github.com/josealvarado3a) | José Alvarado |  |  | El Salvador | 6010 |
-| 12 | [cativo23](https://github.com/cativo23) | Carlos Cativo |  |  | San Salvador, El Salvador | 5913 |
-| 13 | [DesKevinMendez](https://github.com/DesKevinMendez) | Kevin Mendez | teip | deskmendez | El Salvador | 5699 |
+| 11 | [DesKevinMendez](https://github.com/DesKevinMendez) | Kevin Mendez | teip | deskmendez | El Salvador | 6290 |
+| 12 | [josealvarado3a](https://github.com/josealvarado3a) | José Alvarado |  |  | El Salvador | 6010 |
+| 13 | [cativo23](https://github.com/cativo23) | Carlos Cativo |  |  | San Salvador, El Salvador | 5913 |
 | 14 | [eduard-gonzalez](https://github.com/eduard-gonzalez) | Efrain Gonzalez | Savvy Post Marketing |  | El Salvador | 4888 |
 | 15 | [wmacall](https://github.com/wmacall) | Macall |  |  | El Salvador | 4863 |
 | 16 | [loviver](https://github.com/loviver) | Oliver Calderón |  |  | El Salvador, San Salvador | 4728 |

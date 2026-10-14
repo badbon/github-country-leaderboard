@@ -1,6 +1,6 @@
 # Followers - Faroe Islands
 
-Generated: 2026-10-14T13:45:11.164Z
+Generated: 2026-10-14T15:06:00.674Z
 
 Users: 67
 
@@ -18,9 +18,9 @@ Users: 67
 | 10 | [Flakvard](https://github.com/Flakvard) | Ma-a-a-rni | Oilwind Sp/f |  | Faroe Islands | 11 |
 | 11 | [forkh](https://github.com/forkh) |  |  |  | Føroyar | 10 |
 | 12 | [Niflheimrx](https://github.com/Niflheimrx) | Niflheimrx |  |  | Faroe Islands | 10 |
-| 13 | [Theoistic](https://github.com/Theoistic) | Theodor Solbjorg | Theoistic | Theoistic | Faroe Islands | 10 |
-| 14 | [barbaroo](https://github.com/barbaroo) | Barbara Scalvini | University of the Faroe Islands |  | Tórshavn | 9 |
-| 15 | [hoegnason](https://github.com/hoegnason) | Rani Högnason Hansen | Faroese Telecom |  | Tórshavn | 9 |
+| 13 | [barbaroo](https://github.com/barbaroo) | Barbara Scalvini | University of the Faroe Islands |  | Tórshavn | 9 |
+| 14 | [hoegnason](https://github.com/hoegnason) | Rani Högnason Hansen | Faroese Telecom |  | Tórshavn | 9 |
+| 15 | [Theoistic](https://github.com/Theoistic) | Theodor Solbjorg | Theoistic | Theoistic | Faroe Islands | 9 |
 | 16 | [thorgisl](https://github.com/thorgisl) | Dreki Þórgísl |  |  | Tórshavn, Faroe Islands | 9 |
 | 17 | [Marimuda](https://github.com/Marimuda) | Jákup Svøðstein | University of Faroe islands |  | Faroe islands  | 7 |
 | 18 | [olavurellefsen](https://github.com/olavurellefsen) | Olavur Ellefsen | @Flowcore-io |  | Faroe Islands | 7 |

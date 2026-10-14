@@ -1,6 +1,6 @@
 # Total Contributions - Bolivia
 
-Generated: 2026-10-14T13:32:31.621Z
+Generated: 2026-10-14T14:53:59.989Z
 
 Users: 1784
 
@@ -9,9 +9,9 @@ Users: 1784
 | 1 | [AndyIbanez](https://github.com/AndyIbanez) | Andy Ibanez | Fairese | AndyIbanezK | Bolivia | 27878 |
 | 2 | [ynvYauneEnovore](https://github.com/ynvYauneEnovore) | Yovan R. Enovore | Encorp LLC | ramonenovore | Sucre Bolivia | 10439 |
 | 3 | [rp4ri](https://github.com/rp4ri) | Toborochi | @Cyborg7-com  |  | Bolivia | 8894 |
-| 4 | [DaleneyRuben](https://github.com/DaleneyRuben) | Fernando Daleney | TurboTenant |  | La Paz, Bolivia | 7044 |
-| 5 | [arkgast](https://github.com/arkgast) | Arnold Gandarillas Castillo |  |  | Bolivia | 7025 |
-| 6 | [abelrgr](https://github.com/abelrgr) | Abel |  |  | Bolivia | 6760 |
+| 4 | [abelrgr](https://github.com/abelrgr) | Abel |  |  | Bolivia | 8486 |
+| 5 | [DaleneyRuben](https://github.com/DaleneyRuben) | Fernando Daleney | TurboTenant |  | La Paz, Bolivia | 7044 |
+| 6 | [arkgast](https://github.com/arkgast) | Arnold Gandarillas Castillo |  |  | Bolivia | 7025 |
 | 7 | [jpfernandezl](https://github.com/jpfernandezl) | Juan Pablo Fernandez |  |  | Bolivia | 6174 |
 | 8 | [stanlee321](https://github.com/stanlee321) | Stanley Salvatierra | deepmicrosystems.com | iamatachyon | Bolivia | 5978 |
 | 9 | [alxmcr](https://github.com/alxmcr) | Alejandro M. Coca |  |  | Bolivia | 5919 |

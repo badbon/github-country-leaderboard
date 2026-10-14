@@ -53,7 +53,7 @@ Indexed users: 11,181
 | 14 | [vigoo](https://github.com/vigoo) | Daniel Vigovszky | Hungary | 4,660 |
 | 15 | [laxika](https://github.com/laxika) | Gyula Lakatos | Hungary | 4,481 |
 | 16 | [pohi99999](https://github.com/pohi99999) | Pohánka József Péter | Hungary | 4,153 |
-| 17 | [Axwabo](https://github.com/Axwabo) | Axwabo | Hungary | 4,036 |
+| 17 | [Axwabo](https://github.com/Axwabo) | Axwabo | Hungary | 4,091 |
 | 18 | [Piedone](https://github.com/Piedone) | Zoltán Lehóczky | Budapest, Hungary | 3,768 |
 | 19 | [bugadani](https://github.com/bugadani) | Dániel Buga | Budapest, HU | 3,662 |
 | 20 | [csatib02](https://github.com/csatib02) | Bence Csati | Budapest, Hungary | 3,512 |
@@ -83,4 +83,4 @@ Indexed users: 11,181
 | 19 | [tib](https://github.com/tib) | Tibor Bödecs | Hungary | 600 |
 | 20 | [Aylur](https://github.com/Aylur) | Kristóf Demeter | Hungary | 572 |
 
-Generated: 2026-10-14T14:10:27.687Z
+Generated: 2026-10-14T15:14:42.262Z

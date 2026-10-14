@@ -30,8 +30,8 @@ Indexed users: 132
 | 16 | [John-Tongun](https://github.com/John-Tongun) | John Tongun Wani | Juba South Sudan | 326 |
 | 17 | [deng-joe](https://github.com/deng-joe) | Joe | Juba, CE, South Sudan | 286 |
 | 18 | [nhial-cham](https://github.com/nhial-cham) | Nhial Cham | Juba, South Sudan | 272 |
-| 19 | [Yel-Mangok](https://github.com/Yel-Mangok) |  | South Sudan | 271 |
-| 20 | [uojai](https://github.com/uojai) | UoJ Artificial Intelligence | Juba, South Sudan | 270 |
+| 19 | [uojai](https://github.com/uojai) | UoJ Artificial Intelligence | Juba, South Sudan | 271 |
+| 20 | [Yel-Mangok](https://github.com/Yel-Mangok) |  | South Sudan | 271 |
 
 ## Public Contributions
 
@@ -50,8 +50,8 @@ Indexed users: 132
 | 11 | [John-Tongun](https://github.com/John-Tongun) | John Tongun Wani | Juba South Sudan | 326 |
 | 12 | [Dengtiel](https://github.com/Dengtiel) | Deng Mayen Deng Akol | Juba/Online | 324 |
 | 13 | [nhial-cham](https://github.com/nhial-cham) | Nhial Cham | Juba, South Sudan | 272 |
-| 14 | [Yel-Mangok](https://github.com/Yel-Mangok) |  | South Sudan | 271 |
-| 15 | [uojai](https://github.com/uojai) | UoJ Artificial Intelligence | Juba, South Sudan | 270 |
+| 14 | [uojai](https://github.com/uojai) | UoJ Artificial Intelligence | Juba, South Sudan | 271 |
+| 15 | [Yel-Mangok](https://github.com/Yel-Mangok) |  | South Sudan | 271 |
 | 16 | [felixuxx](https://github.com/felixuxx) | ... | Juba, South Sudan | 268 |
 | 17 | [Wai-Mike](https://github.com/Wai-Mike) | Wai Michael Kat | South Sudan | 261 |
 | 18 | [joseph-akaro](https://github.com/joseph-akaro) | Joseph Akaro | Juba | 215 |
@@ -71,7 +71,7 @@ Indexed users: 132
 | 7 | [Dengtiel](https://github.com/Dengtiel) | Deng Mayen Deng Akol | Juba/Online | 36 |
 | 8 | [Agaba-derrick](https://github.com/Agaba-derrick) | Agaba Derrick  | Juba  | 33 |
 | 9 | [riakizo](https://github.com/riakizo) | Riak Isaac | South Sudan  | 33 |
-| 10 | [uojai](https://github.com/uojai) | UoJ Artificial Intelligence | Juba, South Sudan | 32 |
+| 10 | [uojai](https://github.com/uojai) | UoJ Artificial Intelligence | Juba, South Sudan | 33 |
 | 11 | [AlierPM](https://github.com/AlierPM) | Alier  Philip Maguet | Juba, South Sudan | 29 |
 | 12 | [stephen-morlex](https://github.com/stephen-morlex) | Stephen Victor | Juba, South Sudan | 26 |
 | 13 | [Konson22](https://github.com/Konson22) | Kon Akech | South Sudan | 21 |
@@ -83,4 +83,4 @@ Indexed users: 132
 | 19 | [Amalsouthsudan23](https://github.com/Amalsouthsudan23) | AMAL South Sudan | South Sudan | 15 |
 | 20 | [Drago-cod](https://github.com/Drago-cod) | Drago Samuel Jared | Juba, South Sudan | 15 |
 
-Generated: 2026-10-14T13:12:13.396Z
+Generated: 2026-10-14T14:33:04.871Z

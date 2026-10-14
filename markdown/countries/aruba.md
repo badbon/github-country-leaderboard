@@ -13,7 +13,7 @@ Indexed users: 38
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [QVault](https://github.com/QVault) | Quincent | Aruba | 1,737 |
-| 2 | [azaandam](https://github.com/azaandam) | André Zaandam | Aruba | 830 |
+| 2 | [azaandam](https://github.com/azaandam) | André Zaandam | Aruba | 831 |
 | 3 | [flacle](https://github.com/flacle) | Francis Laclé | Aruba | 564 |
 | 4 | [rendell](https://github.com/rendell) | Rendell de Kort | Aruba | 547 |
 | 5 | [EstherPlomp](https://github.com/EstherPlomp) | Esther Plomp | Aruba | 496 |
@@ -64,7 +64,7 @@ Indexed users: 38
 |---:|---|---|---|---:|
 | 1 | [EstherPlomp](https://github.com/EstherPlomp) | Esther Plomp | Aruba | 68 |
 | 2 | [waterkip](https://github.com/waterkip) | Wesley Schwengle | Aruba | 18 |
-| 3 | [JunTechWebSolutions](https://github.com/JunTechWebSolutions) | Juny Engelhart (AWS Aruba) | Oranjestad, Aruba | 17 |
+| 3 | [JunTechWebSolutions](https://github.com/JunTechWebSolutions) | Juny Engelhart (AWS Aruba) | Oranjestad, Aruba | 16 |
 | 4 | [PICyber](https://github.com/PICyber) |  | ⭕️❌⭕️✯ARUBA✯⭕️❌⭕️ | 15 |
 | 5 | [JunTechPC](https://github.com/JunTechPC) | Juny Engelhart (JunTech) | Oranjestad, Aruba | 11 |
 | 6 | [MatthewELee](https://github.com/MatthewELee) | Matt Lee | Aruba | 11 |
@@ -83,4 +83,4 @@ Indexed users: 38
 | 19 | [XBrewyn](https://github.com/XBrewyn) | Brewyn Frederick Espinal Mercado | Aruba | 5 |
 | 20 | [DushiRox](https://github.com/DushiRox) | Roxana Rodriguez | Oranjestad, Aruba | 4 |
 
-Generated: 2026-10-14T13:26:15.530Z
+Generated: 2026-10-14T14:47:46.807Z

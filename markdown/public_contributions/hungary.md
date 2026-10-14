@@ -1,6 +1,6 @@
 # Public Contributions - Hungary
 
-Generated: 2026-10-14T14:10:27.687Z
+Generated: 2026-10-14T15:14:42.262Z
 
 Users: 11181
 
@@ -22,7 +22,7 @@ Users: 11181
 | 14 | [vigoo](https://github.com/vigoo) | Daniel Vigovszky | Golem Cloud / Ziverge Inc. | dvigovszky | Hungary | 4660 |
 | 15 | [laxika](https://github.com/laxika) | Gyula Lakatos | Anthropic |  | Hungary | 4481 |
 | 16 | [pohi99999](https://github.com/pohi99999) | Pohánka József Péter | @pohi99999 | pohanka_peter | Hungary | 4153 |
-| 17 | [Axwabo](https://github.com/Axwabo) | Axwabo |  |  | Hungary | 4036 |
+| 17 | [Axwabo](https://github.com/Axwabo) | Axwabo |  |  | Hungary | 4091 |
 | 18 | [Piedone](https://github.com/Piedone) | Zoltán Lehóczky | @Lombiq | zlehoczky | Budapest, Hungary | 3768 |
 | 19 | [bugadani](https://github.com/bugadani) | Dániel Buga |  |  | Budapest, HU | 3662 |
 | 20 | [csatib02](https://github.com/csatib02) | Bence Csati | @axoflow |  | Budapest, Hungary | 3512 |

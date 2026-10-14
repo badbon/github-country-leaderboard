@@ -17,9 +17,9 @@ Indexed users: 9,526
 | 3 | [CodesByUmar](https://github.com/CodesByUmar) | Muhammad Umar Asatillayev | Uzbekistan | 74,895 |
 | 4 | [xcrpty7](https://github.com/xcrpty7) |  | Tashkent, Uzbekistan | 29,075 |
 | 5 | [diyor28](https://github.com/diyor28) | Diyor Khaydarov | Uzbekistan, Tashkent | 20,528 |
-| 6 | [IxtiyorXaitov](https://github.com/IxtiyorXaitov) | Ixtiyor Xaitov | Tashkent, Uzbekistan | 12,331 |
-| 7 | [Rustam-Fozilov](https://github.com/Rustam-Fozilov) | Rustam Fozilov | Uzbekistan, Tashkent | 12,001 |
-| 8 | [WIKKIwk](https://github.com/WIKKIwk) | Abdulfattox | in Tashkent | 11,987 |
+| 6 | [WIKKIwk](https://github.com/WIKKIwk) | Abdulfattox | in Tashkent | 12,827 |
+| 7 | [IxtiyorXaitov](https://github.com/IxtiyorXaitov) | Ixtiyor Xaitov | Tashkent, Uzbekistan | 12,331 |
+| 8 | [Rustam-Fozilov](https://github.com/Rustam-Fozilov) | Rustam Fozilov | Uzbekistan, Tashkent | 12,001 |
 | 9 | [ulugbek0217](https://github.com/ulugbek0217) | Ulug'bek Raxmankulov | Samarkand, Uzbekistan | 10,731 |
 | 10 | [phanthom335](https://github.com/phanthom335) | phanthom | Uzbekistan | 10,118 |
 | 11 | [golibnarzullayev](https://github.com/golibnarzullayev) | G'olib Narzullayev | Uzbekistan | 10,053 |
@@ -41,7 +41,7 @@ Indexed users: 9,526
 | 2 | [AbdullayevTemurmalik](https://github.com/AbdullayevTemurmalik) | TemurMalik | Uzbekistan | 144,835 |
 | 3 | [CodesByUmar](https://github.com/CodesByUmar) | Muhammad Umar Asatillayev | Uzbekistan | 74,895 |
 | 4 | [xcrpty7](https://github.com/xcrpty7) |  | Tashkent, Uzbekistan | 29,075 |
-| 5 | [WIKKIwk](https://github.com/WIKKIwk) | Abdulfattox | in Tashkent | 11,695 |
+| 5 | [WIKKIwk](https://github.com/WIKKIwk) | Abdulfattox | in Tashkent | 12,535 |
 | 6 | [ulugbek0217](https://github.com/ulugbek0217) | Ulug'bek Raxmankulov | Samarkand, Uzbekistan | 10,731 |
 | 7 | [gamerhackuz](https://github.com/gamerhackuz) | Mosa | Xonqa, Xorazm, Uzbekistan | 10,001 |
 | 8 | [RahimovShaxriyor](https://github.com/RahimovShaxriyor) | Shaxriyor  | Uzbekistan | 9,535 |
@@ -83,4 +83,4 @@ Indexed users: 9,526
 | 19 | [Andrey0189](https://github.com/Andrey0189) | Andrew | Tashkent | 310 |
 | 20 | [mukhtorov](https://github.com/mukhtorov) | Sardor | Tashkent, Uzbekistan | 299 |
 
-Generated: 2026-10-14T13:21:34.141Z
+Generated: 2026-10-14T14:41:32.220Z

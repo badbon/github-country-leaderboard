@@ -15,17 +15,17 @@ Indexed users: 139
 | 1 | [marcusquinn](https://github.com/marcusquinn) | Marcus Quinn | London, UK, Los-angeles, California, England, Jersey | 54,306 |
 | 2 | [PhilETaylor](https://github.com/PhilETaylor) | Phil E. Taylor | Jersey, Channel Islands | 38,484 |
 | 3 | [jde](https://github.com/jde) | David Erwin | New [York, Jersey] | 11,807 |
-| 4 | [ndestates](https://github.com/ndestates) | Nick Dodsley | Jersey | 10,548 |
-| 5 | [guessty](https://github.com/guessty) | Christian | Jersey, Channel Islands | 8,115 |
+| 4 | [ndestates](https://github.com/ndestates) | Nick Dodsley | Jersey | 10,567 |
+| 5 | [guessty](https://github.com/guessty) | Christian | Jersey, Channel Islands | 8,118 |
 | 6 | [timkrins](https://github.com/timkrins) | Tim Krins | Jersey, Channel Islands | 4,817 |
 | 7 | [danielmullin](https://github.com/danielmullin) | Daniel Mullin | Jersey | 4,644 |
 | 8 | [gnathoi](https://github.com/gnathoi) | Nathaniel Hey | Jersey, Channel Islands | 4,273 |
-| 9 | [wildgeodude](https://github.com/wildgeodude) | Dominic Samphier | Jersey | 4,136 |
+| 9 | [wildgeodude](https://github.com/wildgeodude) | Dominic Samphier | Jersey | 4,111 |
 | 10 | [digitalbuddha](https://github.com/digitalbuddha) | Mike Nakhimovich | The dirty (jersey) | 3,435 |
 | 11 | [oidz1234](https://github.com/oidz1234) | Mark McNally | Jersey | 3,355 |
 | 12 | [r-moore](https://github.com/r-moore) | Richard Moore | Jersey | 3,307 |
 | 13 | [cjkmcc](https://github.com/cjkmcc) | Chris McCarthy | Jersey / London | 2,897 |
-| 14 | [TafadzwaD](https://github.com/TafadzwaD) | Tafadzwa Demba | Jersey | 2,390 |
+| 14 | [TafadzwaD](https://github.com/TafadzwaD) | Tafadzwa Demba | Jersey | 2,391 |
 | 15 | [samjamead](https://github.com/samjamead) | Sam Mead | Grouville, Jersey | 1,738 |
 | 16 | [jackleriche](https://github.com/jackleriche) | Jack Le Riche | Jersey | 1,625 |
 | 17 | [alexleach](https://github.com/alexleach) | ALB.Leach | Jersey, UK | 1,425 |
@@ -46,7 +46,7 @@ Indexed users: 139
 | 7 | [vraic](https://github.com/vraic) | André Tanguy | Jersey | 500 |
 | 8 | [gnathoi](https://github.com/gnathoi) | Nathaniel Hey | Jersey, Channel Islands | 423 |
 | 9 | [michaelbutler1998](https://github.com/michaelbutler1998) | Michael Butler | Jersey | 407 |
-| 10 | [ndestates](https://github.com/ndestates) | Nick Dodsley | Jersey | 219 |
+| 10 | [ndestates](https://github.com/ndestates) | Nick Dodsley | Jersey | 213 |
 | 11 | [mhaddon](https://github.com/mhaddon) | Michael Haddon | Jersey, Channel Islands | 211 |
 | 12 | [xsebby](https://github.com/xsebby) | sebby | jersey | 178 |
 | 13 | [morrisjam](https://github.com/morrisjam) | James Morris | Jersey | 152 |
@@ -83,4 +83,4 @@ Indexed users: 139
 | 19 | [r-moore](https://github.com/r-moore) | Richard Moore | Jersey | 21 |
 | 20 | [Chrisedmo](https://github.com/Chrisedmo) | Chris Mousdale | Jersey, Channel Islands | 20 |
 
-Generated: 2026-10-14T13:58:48.721Z
+Generated: 2026-10-14T15:19:07.522Z

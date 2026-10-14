@@ -13,14 +13,14 @@ Indexed users: 2,871
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [sopenlaz0](https://github.com/sopenlaz0) | Sopen | Phnom Penh | 17,964 |
-| 2 | [phalla-doll](https://github.com/phalla-doll) | Phalla | Phnom Penh, Cambodia | 11,322 |
+| 2 | [phalla-doll](https://github.com/phalla-doll) | Phalla | Phnom Penh, Cambodia | 12,321 |
 | 3 | [kungsovannda](https://github.com/kungsovannda) | Sovannda Kung | Cambodia | 9,366 |
 | 4 | [tvcam](https://github.com/tvcam) | Vibol | Phnom Penh | 8,483 |
 | 5 | [oengmengthong](https://github.com/oengmengthong) | Oeng Mengthong | phnom penh | 6,169 |
 | 6 | [pphatdev](https://github.com/pphatdev) | pphat | Cambodia | 5,884 |
 | 7 | [kongpda](https://github.com/kongpda) | kongpda | Phnom Penh | 5,594 |
-| 8 | [socheatsok78](https://github.com/socheatsok78) | Socheat | Cambodia | 5,309 |
-| 9 | [soknoy12](https://github.com/soknoy12) | Soknoy | Phnom Penh, Cambodia | 5,209 |
+| 8 | [soknoy12](https://github.com/soknoy12) | Soknoy | Phnom Penh, Cambodia | 5,490 |
+| 9 | [socheatsok78](https://github.com/socheatsok78) | Socheat | Cambodia | 5,309 |
 | 10 | [Chinteyley](https://github.com/Chinteyley) | chintey | Cambodia | 5,094 |
 | 11 | [khonchanphearaa](https://github.com/khonchanphearaa) | Phearaa | Phnom Penh, Cambodia | 5,076 |
 | 12 | [kuth-chi](https://github.com/kuth-chi) | Kuth | Cambodia | 5,052 |
@@ -37,8 +37,8 @@ Indexed users: 2,871
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [phalla-doll](https://github.com/phalla-doll) | Phalla | Phnom Penh, Cambodia | 4,204 |
-| 2 | [pphatdev](https://github.com/pphatdev) | pphat | Cambodia | 4,193 |
+| 1 | [pphatdev](https://github.com/pphatdev) | pphat | Cambodia | 4,193 |
+| 2 | [phalla-doll](https://github.com/phalla-doll) | Phalla | Phnom Penh, Cambodia | 3,943 |
 | 3 | [socheatsok78](https://github.com/socheatsok78) | Socheat | Cambodia | 3,152 |
 | 4 | [nirvn](https://github.com/nirvn) | Mathieu Pellerin | Southeast Asia, based in Phnom Penh | 3,143 |
 | 5 | [cbrunnkvist](https://github.com/cbrunnkvist) | Conny Brunnkvist | Siem Reap, Cambodia | 2,485 |
@@ -83,4 +83,4 @@ Indexed users: 2,871
 | 19 | [0x1iii1ii](https://github.com/0x1iii1ii) | liiseng | Cambodia | 128 |
 | 20 | [samchanpanha](https://github.com/samchanpanha) | samchanpanha | Phnom Penh | 126 |
 
-Generated: 2026-10-14T13:34:17.825Z
+Generated: 2026-10-14T14:55:55.827Z

@@ -1,6 +1,6 @@
 # Total Contributions - Benin
 
-Generated: 2026-10-14T13:30:28.996Z
+Generated: 2026-10-14T14:51:57.625Z
 
 Users: 471
 
@@ -11,7 +11,7 @@ Users: 471
 | 3 | [nahim-salami](https://github.com/nahim-salami) | Nahim SALAMI | Ahime | salami_nahim | Benin | 8834 |
 | 4 | [blackdevfeldy](https://github.com/blackdevfeldy) | TOHOYESSOU Feldy |  |  | Cotonou, Benin | 7892 |
 | 5 | [AxelSalim](https://github.com/AxelSalim) | ADJAKIDJE K. Axel S. H. |  | iamaxelsalim | Benin | 7267 |
-| 6 | [devalade](https://github.com/devalade) | Alade YESSOUFOU |  | dev_alade | Cotonou,Littoral, Benin | 6543 |
+| 6 | [devalade](https://github.com/devalade) | Alade YESSOUFOU |  | dev_alade | Cotonou,Littoral, Benin | 6583 |
 | 7 | [jprud67](https://github.com/jprud67) | Prudence  Dieudonné Assogba |  | jprud667 | Benin, cotonou | 5121 |
 | 8 | [BOCOVO](https://github.com/BOCOVO) | bocovo | @BCV-TECH | juste_bocovo | Cotonou, Benin | 4421 |
 | 9 | [Block67](https://github.com/Block67) | Rahamane ₿ODA |  | Ramane_Boda | Benin, Cotonou | 4186 |
@@ -23,6 +23,6 @@ Users: 471
 | 15 | [Van064886](https://github.com/Van064886) | Vanique ATADE  | ___ |  | Cotonou, Benin | 3584 |
 | 16 | [20Frederic20](https://github.com/20Frederic20) |  | SICOGES ByGAMS | Blvck_Excelsior | Benin, Cotonou | 3326 |
 | 17 | [Aulerien](https://github.com/Aulerien) | TCHANHOUIN Amede Angel Aulerien |  |  | Benin, Cotonou | 3226 |
-| 18 | [salemnouhou](https://github.com/salemnouhou) | Salem Souleymane NOUHOU | @EpitechCodingAcademyPromo2024  |  | Cotonou, BENIN | 3171 |
-| 19 | [mdnjohn](https://github.com/mdnjohn) | John B. |  | mdnjohnb | Benin | 3158 |
-| 20 | [Kinbor1994](https://github.com/Kinbor1994) | KINNOUME S. Borel |  | KSBLAB | BENIN | 3121 |
+| 18 | [eliotfgn](https://github.com/eliotfgn) | Eliot FAGNON |  | elishady_ | Cotonou, Benin | 3224 |
+| 19 | [salemnouhou](https://github.com/salemnouhou) | Salem Souleymane NOUHOU | @EpitechCodingAcademyPromo2024  |  | Cotonou, BENIN | 3171 |
+| 20 | [mdnjohn](https://github.com/mdnjohn) | John B. |  | mdnjohnb | Benin | 3158 |
