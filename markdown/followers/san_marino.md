@@ -1,6 +1,6 @@
 # Followers - San Marino
 
-Generated: 2026-10-13T18:56:41.351Z
+Generated: 2026-10-14T00:38:00.880Z
 
 Users: 61
 
@@ -9,8 +9,8 @@ Users: 61
 | 1 | [agustingianni](https://github.com/agustingianni) | Agustin Gianni | @coinspect | agustingianni | San Marino | 217 |
 | 2 | [calebnewtonusc](https://github.com/calebnewtonusc) | Caleb Newton | AINA Tech |  | San Marino, CA | 37 |
 | 3 | [nicorsm](https://github.com/nicorsm) | Nicola Giancecchi | @pop-sm | nicorsm | San Marino | 36 |
-| 4 | [AleRiccardi](https://github.com/AleRiccardi) | Alessandro Riccardi |  |  | San Marino | 32 |
-| 5 | [mcdado](https://github.com/mcdado) | David Gasperoni |  |  | San Marino (SMR) <✈️> Madrid, Spain | 32 |
+| 4 | [mcdado](https://github.com/mcdado) | David Gasperoni |  |  | San Marino (SMR) <✈️> Madrid, Spain | 33 |
+| 5 | [AleRiccardi](https://github.com/AleRiccardi) | Alessandro Riccardi |  |  | San Marino | 32 |
 | 6 | [stfDeveloper](https://github.com/stfDeveloper) |  |  |  | San Marino | 29 |
 | 7 | [ellenico77](https://github.com/ellenico77) | Lorenzo Nicoletti | I.e.S. SpA |  | San Marino | 19 |
 | 8 | [alexsteinerr](https://github.com/alexsteinerr) | Alex Steiner |  |  | San Marino | 18 |

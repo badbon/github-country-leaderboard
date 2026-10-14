@@ -26,8 +26,8 @@ Indexed users: 210
 | 12 | [mdsomah](https://github.com/mdsomah) | Mesheal D. Somah Sr. | Monrovia, Liberia | 1,123 |
 | 13 | [stenson](https://github.com/stenson) | Rob Stenson | Monrovia, CA | 866 |
 | 14 | [KalevRK](https://github.com/KalevRK) | Kalev Roomann-Kurrik | Monrovia, CA | 859 |
-| 15 | [abubakar3rd](https://github.com/abubakar3rd) | Abu-Bakar Abdullah Kanneh | Airfield, Sinkor, Monrovia, Liberia | 807 |
-| 16 | [daddysboy21](https://github.com/daddysboy21) | daddysboy.21 | Monrovia, Liberia | 807 |
+| 15 | [daddysboy21](https://github.com/daddysboy21) | daddysboy.21 | Monrovia, Liberia | 808 |
+| 16 | [abubakar3rd](https://github.com/abubakar3rd) | Abu-Bakar Abdullah Kanneh | Airfield, Sinkor, Monrovia, Liberia | 807 |
 | 17 | [jdaltonll02](https://github.com/jdaltonll02) | John Dalton Gibson | Liberia | 787 |
 | 18 | [efmomoh](https://github.com/efmomoh) | ENSSAH FAYIA MOMOH | Monrovia, Liberia | 719 |
 | 19 | [Prodigy-J](https://github.com/Prodigy-J) | Jerome N Tokpa | Monrovia, Liberia | 634 |
@@ -44,7 +44,7 @@ Indexed users: 210
 | 5 | [timtjoe](https://github.com/timtjoe) | Tim T. Joe | Liberia, West Africa | 584 |
 | 6 | [RA9](https://github.com/RA9) | Carlos S. Nah  | Liberia  | 358 |
 | 7 | [JohannFonseca](https://github.com/JohannFonseca) | Johann Curry  | Liberia | 349 |
-| 8 | [pastoreekahk96](https://github.com/pastoreekahk96) | Pastoreekahk S Arthur | Monrovia, Liberia | 318 |
+| 8 | [pastoreekahk96](https://github.com/pastoreekahk96) | Pastoreekahk S Arthur | Monrovia, Liberia | 316 |
 | 9 | [FranklinD10](https://github.com/FranklinD10) | FrApps | Liberia | 312 |
 | 10 | [AlexUG0104](https://github.com/AlexUG0104) | Alexander Umaña  | Liberia | 286 |
 | 11 | [prince14-D](https://github.com/prince14-D) | Dr. Prince W Dahn Jr | Liberia | 256 |
@@ -80,7 +80,7 @@ Indexed users: 210
 | 16 | [tangaye](https://github.com/tangaye) | Nathan Tangaye Siafa | Paynesville, Liberia | 25 |
 | 17 | [boakaidorborkamara](https://github.com/boakaidorborkamara) | Boakai Dorbor Kamara | West Africa, Liberia | 24 |
 | 18 | [priceflex](https://github.com/priceflex) | Steven Price | Monrovia, CA | 23 |
-| 19 | [MorganTheTechEthusiast](https://github.com/MorganTheTechEthusiast) | James Anointed Morgan Jr. | Monrovia, Liberia | 22 |
+| 19 | [MorganTheTechEthusiast](https://github.com/MorganTheTechEthusiast) | James Anointed Morgan Jr. | Monrovia, Liberia | 21 |
 | 20 | [ejaygbay](https://github.com/ejaygbay) | Emmanuel Jaygbay | Liberia | 20 |
 
-Generated: 2026-10-13T18:34:51.639Z
+Generated: 2026-10-14T00:11:10.405Z

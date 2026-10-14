@@ -1,6 +1,6 @@
 # Total Contributions - Rwanda
 
-Generated: 2026-10-13T18:54:07.626Z
+Generated: 2026-10-14T00:32:13.055Z
 
 Users: 3523
 
@@ -9,10 +9,10 @@ Users: 3523
 | 1 | [iamyoramu](https://github.com/iamyoramu) | IRUTABYOSE Yoramu | @yoratune | iamyoramu | Kigali, Rwanda | 3312996 |
 | 2 | [kajugadaniels](https://github.com/kajugadaniels) | KAJUGA Daniels | NEXCODE Africa |  | Kigali Rwanda | 64318 |
 | 3 | [AlineHub-tech](https://github.com/AlineHub-tech) | Umugwaneza Aline | ByteFlow Ltd |  | Kigali, Rwanda | 29162 |
-| 4 | [Timtech4u](https://github.com/Timtech4u) | Timothy Olaleke |  |  | Kigali, Rwanda | 17863 |
-| 5 | [jazzybruno](https://github.com/jazzybruno) | Jazzy Bruno | @Rwanda_Coding_Academy |  | Kigali , Rwanda | 13969 |
-| 6 | [Krasivaya](https://github.com/Krasivaya) | Carine SEMWAGA |  |  | Rwanda | 11697 |
-| 7 | [Chaste-Djaziri](https://github.com/Chaste-Djaziri) | Chaste Djaziri | Micorp |  | Rwanda | 10130 |
+| 4 | [Chaste-Djaziri](https://github.com/Chaste-Djaziri) | Chaste Djaziri | Micorp |  | Rwanda | 18364 |
+| 5 | [Timtech4u](https://github.com/Timtech4u) | Timothy Olaleke |  |  | Kigali, Rwanda | 17863 |
+| 6 | [jazzybruno](https://github.com/jazzybruno) | Jazzy Bruno | @Rwanda_Coding_Academy |  | Kigali , Rwanda | 13969 |
+| 7 | [Krasivaya](https://github.com/Krasivaya) | Carine SEMWAGA |  |  | Rwanda | 11697 |
 | 8 | [iAmNsengi](https://github.com/iAmNsengi) | Eliezer Nsengi | KB21 |  | Kigali, Rwanda | 9290 |
 | 9 | [Icyubahiro-Jay-P](https://github.com/Icyubahiro-Jay-P) | JAY P | Diolichat |  | Kigali, Rwanda | 9232 |
 | 10 | [codeWithEdison](https://github.com/codeWithEdison) | Edison UWIHANGANYE | UR Binary Hub |  | Rwanda | 9203 |
@@ -24,5 +24,5 @@ Users: 3523
 | 16 | [brunorwanda4](https://github.com/brunorwanda4) | Bruno Rwanda | @space-together-org  | rwanda_bruno | Rwanda/ Kigali | 7609 |
 | 17 | [Kevin-The-Cyber-Coder](https://github.com/Kevin-The-Cyber-Coder) | MUKESHIMANA KEVIN | Cyber Coding Arena |  | Kigali Rwanda | 7511 |
 | 18 | [nrep](https://github.com/nrep) | Elvis Peace NDAHAYO RUGERO | Digital Umuganda | ElvisPeaceNR | Rwanda | 7389 |
-| 19 | [Manzi-Elvis](https://github.com/Manzi-Elvis) | Elvis Manzi | MiCorp | _MRElvis_ | Rwanda | 7133 |
-| 20 | [Derrick-MUGISHA](https://github.com/Derrick-MUGISHA) | Derrick | Igire Rwanda Organisation | __derr1ck__ | kigali, Rwanda | 6897 |
+| 19 | [mjeanbosco19](https://github.com/mjeanbosco19) | MUGIRANEZA Jean Bosco | @etite-ltd  | mjeanbosco19 | Kigali Rwanda | 7137 |
+| 20 | [Manzi-Elvis](https://github.com/Manzi-Elvis) | Elvis Manzi | MiCorp | _MRElvis_ | Rwanda | 7133 |

@@ -30,8 +30,8 @@ Indexed users: 2,203
 | 16 | [Mahmoud-Skafi](https://github.com/Mahmoud-Skafi) | Mahmoud skafi | Palestine, Hebron   | 4,108 |
 | 17 | [m5atib](https://github.com/m5atib) | Muhaimen Khatib | Palestine | 3,880 |
 | 18 | [marayshi](https://github.com/marayshi) | Mohammed Alarayshi | Gaza, Palestine | 3,560 |
-| 19 | [Hanna-Hinn](https://github.com/Hanna-Hinn) | Hanna-Hinn | Palestine - Ramallah | 3,383 |
-| 20 | [AbdQaddora](https://github.com/AbdQaddora) | abd qaddora | Palestine | 3,378 |
+| 19 | [AbdQaddora](https://github.com/AbdQaddora) | abd qaddora | Palestine | 3,522 |
+| 20 | [Hanna-Hinn](https://github.com/Hanna-Hinn) | Hanna-Hinn | Palestine - Ramallah | 3,383 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 2,203
 | 19 | [dalia2323](https://github.com/dalia2323) |  | Qalqilya, Palestine | 127 |
 | 20 | [mhmdio](https://github.com/mhmdio) | Mohammed Almusaddar | Gaza, Palestine | 123 |
 
-Generated: 2026-10-13T18:48:45.418Z
+Generated: 2026-10-14T00:27:52.957Z

@@ -1,13 +1,13 @@
 # Total Contributions - Martinique
 
-Generated: 2026-10-13T18:38:47.740Z
+Generated: 2026-10-14T00:16:36.379Z
 
 Users: 75
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [pyleglise](https://github.com/pyleglise) | Pierre-Yves Léglise | axialdata |  | Schoelcher, Martinique | 5327 |
-| 2 | [glefait](https://github.com/glefait) | Guillem Lefait | @Holimetrix @tvty-official  |  | Fort-de-France, Martinique | 5208 |
+| 2 | [glefait](https://github.com/glefait) | Guillem Lefait | @Holimetrix @tvty-official  |  | Fort-de-France, Martinique | 5210 |
 | 3 | [diasjorge](https://github.com/diasjorge) | Jorge Dias | http://aerisnova.com | dias_jorge | Martinique | 4957 |
 | 4 | [GuillaumeBld](https://github.com/GuillaumeBld) | Guillaume Bolivard |  |  | Chicago / Fort-de-France | 4413 |
 | 5 | [bolom](https://github.com/bolom) | Bolo Michelin | @scionx-io | bolomichelin | Martinique | 3219 |
@@ -17,12 +17,12 @@ Users: 75
 | 9 | [R3tr8](https://github.com/R3tr8) | Franck-Emmanuel |  | R3tr8 | Martinique | 940 |
 | 10 | [vevedh](https://github.com/vevedh) | Hervé de CHAVIGNY | @phasme |  | Martinique | 820 |
 | 11 | [LePtitBiscuit](https://github.com/LePtitBiscuit) | LePtitBiscuit |  |  | Martinique | 800 |
-| 12 | [blazux](https://github.com/blazux) | Vincent B. |  |  | Martinique | 466 |
+| 12 | [blazux](https://github.com/blazux) | Vincent B. |  |  | Martinique | 464 |
 | 13 | [ricard33](https://github.com/ricard33) | Cédric RICARD |  |  | Martinique | 380 |
 | 14 | [steeven-js](https://github.com/steeven-js) | steeven_js | Madin.IA |  | Martinique | 372 |
 | 15 | [kodzukye](https://github.com/kodzukye) | Jayyy ⋆˚✿˖° |  |  | Martinique | 171 |
 | 16 | [b1nj](https://github.com/b1nj) | B1nj | pixellweb.com |  | Martinique | 168 |
 | 17 | [Jb-Analytics](https://github.com/Jb-Analytics) | Célia JEAN-BART |  |  | Martinique | 160 |
-| 18 | [Ulrico972](https://github.com/Ulrico972) | Ulrich Giberné | Airship |  | Martinique | 139 |
+| 18 | [Ulrico972](https://github.com/Ulrico972) | Ulrich Giberné | Airship |  | Martinique | 140 |
 | 19 | [marieangeliquepied](https://github.com/marieangeliquepied) | Marie-Angélique PIED |  |  | Martinique  | 126 |
 | 20 | [nadlgit](https://github.com/nadlgit) | Nadine |  |  | Martinique | 107 |

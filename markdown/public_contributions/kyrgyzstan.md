@@ -1,6 +1,6 @@
 # Public Contributions - Kyrgyzstan
 
-Generated: 2026-10-13T18:33:35.782Z
+Generated: 2026-10-14T00:08:33.324Z
 
 Users: 2452
 
@@ -15,11 +15,11 @@ Users: 2452
 | 7 | [alisher-zhuman](https://github.com/alisher-zhuman) | Alisher Zhuman | Tunduk |  | Bishkek, Kyrgyzstan  | 1852 |
 | 8 | [fi-res](https://github.com/fi-res) | fires |  |  | kyrgyzstan | 1651 |
 | 9 | [bvasilenko](https://github.com/bvasilenko) | Boris Vasilenko |  |  | Bishkek, Kyrgyzstan (Relocated) | 1626 |
-| 10 | [b4631119-oss](https://github.com/b4631119-oss) | DevRoot | PROlab |  | Bishkek | 1336 |
-| 11 | [raimbekovm](https://github.com/raimbekovm) | Murat Raimbekov | @ultralytics  |  | Bishkek, Kyrgyzstan | 1261 |
-| 12 | [teimurjan](https://github.com/teimurjan) | Teimur Gasanov | @SpeechifyInc | teimurjan | Bishkek, Kyrgyzstan | 1247 |
-| 13 | [alxnko](https://github.com/alxnko) | Alex Neko | AIT Solutions |  | Kyrgyzstan | 1217 |
-| 14 | [Eldar2021](https://github.com/Eldar2021) | Eldiiar Almazbek | ElTeh | EldiiarAlmazbek | Bishkek | 1203 |
+| 10 | [Eldar2021](https://github.com/Eldar2021) | Eldiiar Almazbek | ElTeh | EldiiarAlmazbek | Bishkek | 1350 |
+| 11 | [b4631119-oss](https://github.com/b4631119-oss) | DevRoot | PROlab |  | Bishkek | 1336 |
+| 12 | [raimbekovm](https://github.com/raimbekovm) | Murat Raimbekov | @ultralytics  |  | Bishkek, Kyrgyzstan | 1261 |
+| 13 | [teimurjan](https://github.com/teimurjan) | Teimur Gasanov | @SpeechifyInc | teimurjan | Bishkek, Kyrgyzstan | 1247 |
+| 14 | [alxnko](https://github.com/alxnko) | Alex Neko | AIT Solutions |  | Kyrgyzstan | 1217 |
 | 15 | [isko18](https://github.com/isko18) | islam | Geeks  |  | Kyrgyzstan, Osh | 1064 |
 | 16 | [ArzubekDev](https://github.com/ArzubekDev) | Arzubek | Yldam market |  | Bishkek | 1025 |
 | 17 | [asannov](https://github.com/asannov) | Damir |  |  | Bishkek, Kyrgyz Republic | 991 |

@@ -15,10 +15,10 @@ Indexed users: 3,523
 | 1 | [iamyoramu](https://github.com/iamyoramu) | IRUTABYOSE Yoramu | Kigali, Rwanda | 3,312,996 |
 | 2 | [kajugadaniels](https://github.com/kajugadaniels) | KAJUGA Daniels | Kigali Rwanda | 64,318 |
 | 3 | [AlineHub-tech](https://github.com/AlineHub-tech) | Umugwaneza Aline | Kigali, Rwanda | 29,162 |
-| 4 | [Timtech4u](https://github.com/Timtech4u) | Timothy Olaleke | Kigali, Rwanda | 17,863 |
-| 5 | [jazzybruno](https://github.com/jazzybruno) | Jazzy Bruno | Kigali , Rwanda | 13,969 |
-| 6 | [Krasivaya](https://github.com/Krasivaya) | Carine SEMWAGA | Rwanda | 11,697 |
-| 7 | [Chaste-Djaziri](https://github.com/Chaste-Djaziri) | Chaste Djaziri | Rwanda | 10,130 |
+| 4 | [Chaste-Djaziri](https://github.com/Chaste-Djaziri) | Chaste Djaziri | Rwanda | 18,364 |
+| 5 | [Timtech4u](https://github.com/Timtech4u) | Timothy Olaleke | Kigali, Rwanda | 17,863 |
+| 6 | [jazzybruno](https://github.com/jazzybruno) | Jazzy Bruno | Kigali , Rwanda | 13,969 |
+| 7 | [Krasivaya](https://github.com/Krasivaya) | Carine SEMWAGA | Rwanda | 11,697 |
 | 8 | [iAmNsengi](https://github.com/iAmNsengi) | Eliezer Nsengi | Kigali, Rwanda | 9,290 |
 | 9 | [Icyubahiro-Jay-P](https://github.com/Icyubahiro-Jay-P) | JAY P | Kigali, Rwanda | 9,232 |
 | 10 | [codeWithEdison](https://github.com/codeWithEdison) | Edison UWIHANGANYE | Rwanda | 9,203 |
@@ -30,8 +30,8 @@ Indexed users: 3,523
 | 16 | [brunorwanda4](https://github.com/brunorwanda4) | Bruno Rwanda | Rwanda/ Kigali | 7,609 |
 | 17 | [Kevin-The-Cyber-Coder](https://github.com/Kevin-The-Cyber-Coder) | MUKESHIMANA KEVIN | Kigali Rwanda | 7,511 |
 | 18 | [nrep](https://github.com/nrep) | Elvis Peace NDAHAYO RUGERO | Rwanda | 7,389 |
-| 19 | [Manzi-Elvis](https://github.com/Manzi-Elvis) | Elvis Manzi | Rwanda | 7,133 |
-| 20 | [Derrick-MUGISHA](https://github.com/Derrick-MUGISHA) | Derrick | kigali, Rwanda | 6,897 |
+| 19 | [mjeanbosco19](https://github.com/mjeanbosco19) | MUGIRANEZA Jean Bosco | Kigali Rwanda | 7,137 |
+| 20 | [Manzi-Elvis](https://github.com/Manzi-Elvis) | Elvis Manzi | Rwanda | 7,133 |
 
 ## Public Contributions
 
@@ -39,20 +39,20 @@ Indexed users: 3,523
 |---:|---|---|---|---:|
 | 1 | [AlineHub-tech](https://github.com/AlineHub-tech) | Umugwaneza Aline | Kigali, Rwanda | 23,998 |
 | 2 | [kajugadaniels](https://github.com/kajugadaniels) | KAJUGA Daniels | Kigali Rwanda | 15,554 |
-| 3 | [Kevin-The-Cyber-Coder](https://github.com/Kevin-The-Cyber-Coder) | MUKESHIMANA KEVIN | Kigali Rwanda | 6,855 |
-| 4 | [Manzi-Elvis](https://github.com/Manzi-Elvis) | Elvis Manzi | Rwanda | 6,117 |
-| 5 | [Yackx-tx](https://github.com/Yackx-tx) | Yannick Gisubizo | Kigali, Rwanda | 5,997 |
-| 6 | [Derrick-MUGISHA](https://github.com/Derrick-MUGISHA) | Derrick | kigali, Rwanda | 5,107 |
-| 7 | [abeltony-prog](https://github.com/abeltony-prog) | AbelTony | Kigali/Rwannda | 4,278 |
-| 8 | [JackOfficial](https://github.com/JackOfficial) | Musengimana Jacques | Kigali Rwanda | 4,003 |
-| 9 | [kawacukennedy](https://github.com/kawacukennedy) | KAWACU Kennedy | Kigali, Rwanda | 3,872 |
-| 10 | [leandre000](https://github.com/leandre000) | Izere Shema Leandre | Kigali,Rwanda | 3,661 |
-| 11 | [Icyubahiro-Jay-P](https://github.com/Icyubahiro-Jay-P) | JAY P | Kigali, Rwanda | 3,074 |
-| 12 | [Ndevu12](https://github.com/Ndevu12) | Jean Paul Elisa NIYOKWIZERWA | Kigali Rwanda | 2,996 |
-| 13 | [etienne0114](https://github.com/etienne0114) | etienne tuyihamye | kigali | 2,820 |
-| 14 | [Goal651](https://github.com/Goal651) |  Wilson Goal BUGIRI | Rwanda-Kigali | 2,667 |
-| 15 | [tuyisengeaurele](https://github.com/tuyisengeaurele) | Ange Aurele Tuyisenge | Kigali, Rwanda | 2,665 |
-| 16 | [Chaste-Djaziri](https://github.com/Chaste-Djaziri) | Chaste Djaziri | Rwanda | 2,586 |
+| 3 | [Chaste-Djaziri](https://github.com/Chaste-Djaziri) | Chaste Djaziri | Rwanda | 8,590 |
+| 4 | [Kevin-The-Cyber-Coder](https://github.com/Kevin-The-Cyber-Coder) | MUKESHIMANA KEVIN | Kigali Rwanda | 6,855 |
+| 5 | [Manzi-Elvis](https://github.com/Manzi-Elvis) | Elvis Manzi | Rwanda | 6,117 |
+| 6 | [Yackx-tx](https://github.com/Yackx-tx) | Yannick Gisubizo | Kigali, Rwanda | 5,997 |
+| 7 | [Derrick-MUGISHA](https://github.com/Derrick-MUGISHA) | Derrick | kigali, Rwanda | 5,107 |
+| 8 | [abeltony-prog](https://github.com/abeltony-prog) | AbelTony | Kigali/Rwannda | 4,278 |
+| 9 | [JackOfficial](https://github.com/JackOfficial) | Musengimana Jacques | Kigali Rwanda | 4,003 |
+| 10 | [kawacukennedy](https://github.com/kawacukennedy) | KAWACU Kennedy | Kigali, Rwanda | 3,872 |
+| 11 | [leandre000](https://github.com/leandre000) | Izere Shema Leandre | Kigali,Rwanda | 3,661 |
+| 12 | [Icyubahiro-Jay-P](https://github.com/Icyubahiro-Jay-P) | JAY P | Kigali, Rwanda | 3,074 |
+| 13 | [Ndevu12](https://github.com/Ndevu12) | Jean Paul Elisa NIYOKWIZERWA | Kigali Rwanda | 2,996 |
+| 14 | [etienne0114](https://github.com/etienne0114) | etienne tuyihamye | kigali | 2,820 |
+| 15 | [Goal651](https://github.com/Goal651) |  Wilson Goal BUGIRI | Rwanda-Kigali | 2,667 |
+| 16 | [tuyisengeaurele](https://github.com/tuyisengeaurele) | Ange Aurele Tuyisenge | Kigali, Rwanda | 2,665 |
 | 17 | [uparfait](https://github.com/uparfait) | Parfait Uwayo | Rwanda | 2,563 |
 | 18 | [mugisham37](https://github.com/mugisham37) | MUGISHA MOSES | KIGALI- RWANDA | 2,539 |
 | 19 | [rayiecho](https://github.com/rayiecho) | Regan Ayiecho | Rwanda | 2,493 |
@@ -83,4 +83,4 @@ Indexed users: 3,523
 | 19 | [ghislainb-cracker](https://github.com/ghislainb-cracker) | Ghislain Byimbo | Rwanda | 316 |
 | 20 | [shemaikuzwe](https://github.com/shemaikuzwe) | Ikuzwe shema Elie | rwanda | 314 |
 
-Generated: 2026-10-13T18:54:07.626Z
+Generated: 2026-10-14T00:32:13.055Z

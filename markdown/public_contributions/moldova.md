@@ -1,15 +1,15 @@
 # Public Contributions - Moldova
 
-Generated: 2026-10-13T18:41:22.839Z
+Generated: 2026-10-14T00:17:46.297Z
 
-Users: 1752
+Users: 1751
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [ivanm696](https://github.com/ivanm696) | ivanm696  |  |  | Moldova | 3189 |
-| 2 | [deoleg](https://github.com/deoleg) | deoleg | CRU Moldova |  | Moldova | 3165 |
-| 3 | [sighook](https://github.com/sighook) | Alex Savca |  |  | Moldova | 3063 |
-| 4 | [texpert](https://github.com/texpert) | Aurel Branzeanu | PC-Link | tvorogoff | Chisinau, Moldova | 2530 |
+| 1 | [texpert](https://github.com/texpert) | Aurel Branzeanu | PC-Link | tvorogoff | Chisinau, Moldova | 4394 |
+| 2 | [ivanm696](https://github.com/ivanm696) | ivanm696  |  |  | Moldova | 3189 |
+| 3 | [deoleg](https://github.com/deoleg) | deoleg | CRU Moldova |  | Moldova | 3165 |
+| 4 | [sighook](https://github.com/sighook) | Alex Savca |  |  | Moldova | 3076 |
 | 5 | [nikpopesku](https://github.com/nikpopesku) | Nikolai Popesku |  |  | Chisinau, Moldova | 2388 |
 | 6 | [Aragas](https://github.com/Aragas) | Vitalii Mikhailov | @Nexus-Mods |  | Chisinau, Moldova | 2263 |
 | 7 | [50rayn](https://github.com/50rayn) | Soryn |  | 50rayn | Moldova | 2029 |

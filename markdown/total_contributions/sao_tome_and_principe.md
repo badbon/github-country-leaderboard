@@ -1,6 +1,6 @@
 # Total Contributions - São Tomé and Príncipe
 
-Generated: 2026-10-13T18:56:44.184Z
+Generated: 2026-10-14T00:38:05.547Z
 
 Users: 20
 
@@ -10,7 +10,7 @@ Users: 20
 | 2 | [joaopontifice](https://github.com/joaopontifice) | John |  |  | Água Grande, São Tomé e Príncipe | 172 |
 | 3 | [henilcioterras](https://github.com/henilcioterras) | Henilcio Terras |  |  | São Tomé e Príncipe | 127 |
 | 4 | [denisquintasluiz](https://github.com/denisquintasluiz) | Denis Luiz |  |  | São Gabriel, São Tomé e Príncipe | 109 |
-| 5 | [Andre-Dalva](https://github.com/Andre-Dalva) |  |  |  | São Tomé e Principe  | 77 |
+| 5 | [Andre-Dalva](https://github.com/Andre-Dalva) |  |  |  | São Tomé e Principe  | 74 |
 | 6 | [josias-gsd](https://github.com/josias-gsd) | Josias Gentil | ULSTP | jos19376 | São Tomé e Príncipe | 58 |
 | 7 | [StephannyBorges](https://github.com/StephannyBorges) | Stephanny Borges |  |  | São Tomé RN | 36 |
 | 8 | [nevesade](https://github.com/nevesade) |  NEVES ADENASIO |  |  | São Tomé e Príncipe | 15 |

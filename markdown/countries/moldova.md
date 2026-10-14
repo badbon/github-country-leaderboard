@@ -1,6 +1,6 @@
 # Moldova
 
-Indexed users: 1,752
+Indexed users: 1,751
 
 | Leaderboard | Link |
 |---|---|
@@ -31,16 +31,16 @@ Indexed users: 1,752
 | 17 | [sebsti5](https://github.com/sebsti5) | Sebastian | Moldova 🇲🇩 | 4,802 |
 | 18 | [Andrei-Ciuperca](https://github.com/Andrei-Ciuperca) | Andrei Ciupercă | Moldova | 4,782 |
 | 19 | [szagoret](https://github.com/szagoret) | Sergiu Zagoret | Chisinau, Moldova | 4,756 |
-| 20 | [rvmoldova](https://github.com/rvmoldova) | Vadim Russu | Chișinău | 4,720 |
+| 20 | [texpert](https://github.com/texpert) | Aurel Branzeanu | Chisinau, Moldova | 4,724 |
 
 ## Public Contributions
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [ivanm696](https://github.com/ivanm696) | ivanm696  | Moldova | 3,189 |
-| 2 | [deoleg](https://github.com/deoleg) | deoleg | Moldova | 3,165 |
-| 3 | [sighook](https://github.com/sighook) | Alex Savca | Moldova | 3,063 |
-| 4 | [texpert](https://github.com/texpert) | Aurel Branzeanu | Chisinau, Moldova | 2,530 |
+| 1 | [texpert](https://github.com/texpert) | Aurel Branzeanu | Chisinau, Moldova | 4,394 |
+| 2 | [ivanm696](https://github.com/ivanm696) | ivanm696  | Moldova | 3,189 |
+| 3 | [deoleg](https://github.com/deoleg) | deoleg | Moldova | 3,165 |
+| 4 | [sighook](https://github.com/sighook) | Alex Savca | Moldova | 3,076 |
 | 5 | [nikpopesku](https://github.com/nikpopesku) | Nikolai Popesku | Chisinau, Moldova | 2,388 |
 | 6 | [Aragas](https://github.com/Aragas) | Vitalii Mikhailov | Chisinau, Moldova | 2,263 |
 | 7 | [50rayn](https://github.com/50rayn) | Soryn | Moldova | 2,029 |
@@ -70,17 +70,17 @@ Indexed users: 1,752
 | 6 | [sergiuchilat](https://github.com/sergiuchilat) | Sergiu Chilat | Moldova | 293 |
 | 7 | [mgutu](https://github.com/mgutu) | Maria Gutu | Republica Moldova | 289 |
 | 8 | [nicubarbaros](https://github.com/nicubarbaros) | Nicu Barbaros | Moldova | 280 |
-| 9 | [sighook](https://github.com/sighook) | Alex Savca | Moldova | 205 |
+| 9 | [sighook](https://github.com/sighook) | Alex Savca | Moldova | 207 |
 | 10 | [gvvynplaine](https://github.com/gvvynplaine) | Roman | Moldova, Tiraspol | 194 |
 | 11 | [steevehook](https://github.com/steevehook) | Steve Hook | Chisinau, Moldova | 187 |
 | 12 | [Ywxig](https://github.com/Ywxig) | Ywxig | Moldova Chisinau  | 179 |
-| 13 | [vova07](https://github.com/vova07) | Vasile C. | Chișinău, Moldova | 171 |
+| 13 | [vova07](https://github.com/vova07) | Vasile C. | Chișinău, Moldova | 172 |
 | 14 | [bearanatolie](https://github.com/bearanatolie) | Anatolie Ursu | ulmu, laloveni, Moldova | 155 |
 | 15 | [AddictedCS](https://github.com/AddictedCS) | Sergiu Ciumac | Chisinau, Moldova | 144 |
-| 16 | [andrei-zgirvaci](https://github.com/andrei-zgirvaci) | Andrei Zgîrvaci | Chișinău, Moldova | 123 |
-| 17 | [keriat](https://github.com/keriat) | Sergey Beresnev | Moldova, Chisinau | 119 |
-| 18 | [ygorigor](https://github.com/ygorigor) | Igor | Chisinau, Moldova | 118 |
+| 16 | [ygorigor](https://github.com/ygorigor) | Igor | Chisinau, Moldova | 129 |
+| 17 | [andrei-zgirvaci](https://github.com/andrei-zgirvaci) | Andrei Zgîrvaci | Chișinău, Moldova | 123 |
+| 18 | [keriat](https://github.com/keriat) | Sergey Beresnev | Moldova, Chisinau | 119 |
 | 19 | [vgaidarji](https://github.com/vgaidarji) | Veaceslav Gaidarji | Moldova | 115 |
 | 20 | [Ernest96](https://github.com/Ernest96) | Ernest | Chisinau Moldova | 107 |
 
-Generated: 2026-10-13T18:41:22.839Z
+Generated: 2026-10-14T00:17:46.297Z

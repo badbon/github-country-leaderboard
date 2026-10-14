@@ -46,11 +46,11 @@ Indexed users: 2,452
 | 7 | [alisher-zhuman](https://github.com/alisher-zhuman) | Alisher Zhuman | Bishkek, Kyrgyzstan  | 1,852 |
 | 8 | [fi-res](https://github.com/fi-res) | fires | kyrgyzstan | 1,651 |
 | 9 | [bvasilenko](https://github.com/bvasilenko) | Boris Vasilenko | Bishkek, Kyrgyzstan (Relocated) | 1,626 |
-| 10 | [b4631119-oss](https://github.com/b4631119-oss) | DevRoot | Bishkek | 1,336 |
-| 11 | [raimbekovm](https://github.com/raimbekovm) | Murat Raimbekov | Bishkek, Kyrgyzstan | 1,261 |
-| 12 | [teimurjan](https://github.com/teimurjan) | Teimur Gasanov | Bishkek, Kyrgyzstan | 1,247 |
-| 13 | [alxnko](https://github.com/alxnko) | Alex Neko | Kyrgyzstan | 1,217 |
-| 14 | [Eldar2021](https://github.com/Eldar2021) | Eldiiar Almazbek | Bishkek | 1,203 |
+| 10 | [Eldar2021](https://github.com/Eldar2021) | Eldiiar Almazbek | Bishkek | 1,350 |
+| 11 | [b4631119-oss](https://github.com/b4631119-oss) | DevRoot | Bishkek | 1,336 |
+| 12 | [raimbekovm](https://github.com/raimbekovm) | Murat Raimbekov | Bishkek, Kyrgyzstan | 1,261 |
+| 13 | [teimurjan](https://github.com/teimurjan) | Teimur Gasanov | Bishkek, Kyrgyzstan | 1,247 |
+| 14 | [alxnko](https://github.com/alxnko) | Alex Neko | Kyrgyzstan | 1,217 |
 | 15 | [isko18](https://github.com/isko18) | islam | Kyrgyzstan, Osh | 1,064 |
 | 16 | [ArzubekDev](https://github.com/ArzubekDev) | Arzubek | Bishkek | 1,025 |
 | 17 | [asannov](https://github.com/asannov) | Damir | Bishkek, Kyrgyz Republic | 991 |
@@ -83,4 +83,4 @@ Indexed users: 2,452
 | 19 | [Elkhan2003](https://github.com/Elkhan2003) | Elkhan Sharshenbekov | Karakol, Kyrgyzstan | 103 |
 | 20 | [eszdman](https://github.com/eszdman) |  | Kyrgyzstan | 102 |
 
-Generated: 2026-10-13T18:33:35.782Z
+Generated: 2026-10-14T00:08:33.324Z

@@ -1,6 +1,6 @@
 # Followers - Monaco
 
-Generated: 2026-10-13T18:41:49.496Z
+Generated: 2026-10-14T00:17:48.845Z
 
 Users: 142
 
@@ -11,7 +11,7 @@ Users: 142
 | 3 | [laurentqro](https://github.com/laurentqro) | Laurent Curau |  |  | Monaco | 39 |
 | 4 | [Akira98000](https://github.com/Akira98000) | Santhakumaran Akira | Université Nice Côte D'Azur |  | Monaco  | 38 |
 | 5 | [DamienMonchaty](https://github.com/DamienMonchaty) | Damien Monchaty | @MRX-Systems  |  | Monaco | 36 |
-| 6 | [vjandrea](https://github.com/vjandrea) | Andrea Bergamasco | KeeSystem | vjandrea | Monaco | 34 |
+| 6 | [vjandrea](https://github.com/vjandrea) | Andrea Bergamasco | KeeSystem | vjandrea | Monaco | 35 |
 | 7 | [zertawz](https://github.com/zertawz) | Jean-Christophe BURNOT | CPE LYON | jeanchrisbrnt | MONACO / LYON / LAUSANNE | 30 |
 | 8 | [jmbertin](https://github.com/jmbertin) | Jean-Michel Bertin | MVE |  | Monaco | 24 |
 | 9 | [HedgeQuantX](https://github.com/HedgeQuantX) | HedgeQuant𝕏 |  | hedgequantx | Monte-Carlo, Monaco | 22 |

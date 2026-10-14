@@ -1,6 +1,6 @@
 # Total Contributions - Lebanon
 
-Generated: 2026-10-13T18:33:47.792Z
+Generated: 2026-10-14T00:10:28.184Z
 
 Users: 2569
 
@@ -12,8 +12,8 @@ Users: 2569
 | 4 | [KhaledSaeed18](https://github.com/KhaledSaeed18) | Khaled Saeed |  | KhaleddSaeed18 | Lebanon | 10546 |
 | 5 | [SilverLucFox](https://github.com/SilverLucFox) | Jawad Choucair | @detay-devs  @lblabs-dev @CGode-Dev  |  | lebanon | 9902 |
 | 6 | [AbedAmouneh](https://github.com/AbedAmouneh) | Abed El-Fattah Amouneh | @voxire |  | Lebanon | 9741 |
-| 7 | [abedshaaban](https://github.com/abedshaaban) | Abed Al Ghani Shaaban | @Poyesis | abedshaaban600 | Lebanon | 9444 |
-| 8 | [Mhmdhammoud](https://github.com/Mhmdhammoud) | Mohammad Hammoud | @Meritt-dev  |  | Lebanon | 9315 |
+| 7 | [Mhmdhammoud](https://github.com/Mhmdhammoud) | Mohammad Hammoud | @Meritt-dev  |  | Lebanon | 9315 |
+| 8 | [abedshaaban](https://github.com/abedshaaban) | Abed Al Ghani Shaaban | @Poyesis | abedshaaban600 | Lebanon | 9233 |
 | 9 | [JanoTheDev](https://github.com/JanoTheDev) | Jean Haddad |  |  | Lebanon | 9150 |
 | 10 | [mhdbouk](https://github.com/mhdbouk) | Mohamad Dbouk |  | mhdbouk | Beirut, Lebanon | 7264 |
 | 11 | [MohammadKanaan](https://github.com/MohammadKanaan) | Mohammad Kanaan |  |  | Lebanon | 6600 |

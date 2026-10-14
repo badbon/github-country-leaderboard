@@ -40,7 +40,7 @@ Indexed users: 212
 | 1 | [Gabouin](https://github.com/Gabouin) | Gabouin | Reunion Island | 1,936 |
 | 2 | [Nasjoe](https://github.com/Nasjoe) | Jonas TURBEAUX | Réunion Island, Villeurbanne, Montpellier : France | 1,710 |
 | 3 | [elmarco](https://github.com/elmarco) | Marc-André Lureau | Réunion | 1,139 |
-| 4 | [ChaffyLace](https://github.com/ChaffyLace) |  | Saint Denis | 1,100 |
+| 4 | [ChaffyLace](https://github.com/ChaffyLace) |  | Saint Denis | 970 |
 | 5 | [PhilDL](https://github.com/PhilDL) | Philippe L'ATTENTION | Réunion | 869 |
 | 6 | [IamArayel](https://github.com/IamArayel) | Arayel | Reunion Island | 713 |
 | 7 | [gfo974](https://github.com/gfo974) | Geoffrey Fournier  | Réunion Island | 701 |
@@ -70,7 +70,7 @@ Indexed users: 212
 | 6 | [Angra974](https://github.com/Angra974) | Thierry Parlier | Reunion Island, France | 48 |
 | 7 | [oceatoon](https://github.com/oceatoon) | Tibor Katelbach | Reunion island | 48 |
 | 8 | [mekhalleh](https://github.com/mekhalleh) | RAMELLA Sébastien | Reunion island | 47 |
-| 9 | [theo-futol](https://github.com/theo-futol) | Théo Futol | Saint-Denis, Réunion | 33 |
+| 9 | [theo-futol](https://github.com/theo-futol) | Théo Futol | Saint-Denis, Réunion | 34 |
 | 10 | [fabricepayet](https://github.com/fabricepayet) | Fabrice Payet | Reunion Island | 29 |
 | 11 | [Gabouin](https://github.com/Gabouin) | Gabouin | Reunion Island | 28 |
 | 12 | [GuillaumeDupuy](https://github.com/GuillaumeDupuy) | Varius | Seine-Saint-Denis | 28 |
@@ -83,4 +83,4 @@ Indexed users: 212
 | 19 | [JeCodeLeSoir](https://github.com/JeCodeLeSoir) | Aurélien | Réunion | 20 |
 | 20 | [Nasjoe](https://github.com/Nasjoe) | Jonas TURBEAUX | Réunion Island, Villeurbanne, Montpellier : France | 20 |
 
-Generated: 2026-10-13T18:53:21.546Z
+Generated: 2026-10-14T00:31:00.873Z

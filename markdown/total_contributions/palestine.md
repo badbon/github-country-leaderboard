@@ -1,6 +1,6 @@
 # Total Contributions - Palestine
 
-Generated: 2026-10-13T18:48:45.418Z
+Generated: 2026-10-14T00:27:52.957Z
 
 Users: 2203
 
@@ -24,5 +24,5 @@ Users: 2203
 | 16 | [Mahmoud-Skafi](https://github.com/Mahmoud-Skafi) | Mahmoud skafi |  | MahmouSkafi | Palestine, Hebron   | 4108 |
 | 17 | [m5atib](https://github.com/m5atib) | Muhaimen Khatib |  |  | Palestine | 3880 |
 | 18 | [marayshi](https://github.com/marayshi) | Mohammed Alarayshi |  |  | Gaza, Palestine | 3560 |
-| 19 | [Hanna-Hinn](https://github.com/Hanna-Hinn) | Hanna-Hinn |  | Hannahinn021 | Palestine - Ramallah | 3383 |
-| 20 | [AbdQaddora](https://github.com/AbdQaddora) | abd qaddora |  | Abdqaddora1 | Palestine | 3378 |
+| 19 | [AbdQaddora](https://github.com/AbdQaddora) | abd qaddora |  | Abdqaddora1 | Palestine | 3522 |
+| 20 | [Hanna-Hinn](https://github.com/Hanna-Hinn) | Hanna-Hinn |  | Hannahinn021 | Palestine - Ramallah | 3383 |

@@ -1,6 +1,6 @@
 # Followers - Réunion
 
-Generated: 2026-10-13T18:53:21.546Z
+Generated: 2026-10-14T00:31:00.873Z
 
 Users: 212
 
@@ -14,7 +14,7 @@ Users: 212
 | 6 | [Angra974](https://github.com/Angra974) | Thierry Parlier | 100Devs | mrnemesys | Reunion Island, France | 48 |
 | 7 | [oceatoon](https://github.com/oceatoon) | Tibor Katelbach | Oceatoon and Open R&D |  | Reunion island | 48 |
 | 8 | [mekhalleh](https://github.com/mekhalleh) | RAMELLA Sébastien | Pirates.RE |  | Reunion island | 47 |
-| 9 | [theo-futol](https://github.com/theo-futol) | Théo Futol |  |  | Saint-Denis, Réunion | 33 |
+| 9 | [theo-futol](https://github.com/theo-futol) | Théo Futol |  |  | Saint-Denis, Réunion | 34 |
 | 10 | [fabricepayet](https://github.com/fabricepayet) | Fabrice Payet |  | fabricepayetfr | Reunion Island | 29 |
 | 11 | [Gabouin](https://github.com/Gabouin) | Gabouin |  |  | Reunion Island | 28 |
 | 12 | [GuillaumeDupuy](https://github.com/GuillaumeDupuy) | Varius | Ynov Paris Campus  |  | Seine-Saint-Denis | 28 |

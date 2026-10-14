@@ -1,8 +1,8 @@
 # Followers - Moldova
 
-Generated: 2026-10-13T18:41:22.839Z
+Generated: 2026-10-14T00:17:46.297Z
 
-Users: 1752
+Users: 1751
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -14,15 +14,15 @@ Users: 1752
 | 6 | [sergiuchilat](https://github.com/sergiuchilat) | Sergiu Chilat | Adtelligent Inc. |  | Moldova | 293 |
 | 7 | [mgutu](https://github.com/mgutu) | Maria Gutu | IPLT "Spiru Haret" |  | Republica Moldova | 289 |
 | 8 | [nicubarbaros](https://github.com/nicubarbaros) | Nicu Barbaros | @Planable | nicubarbaros | Moldova | 280 |
-| 9 | [sighook](https://github.com/sighook) | Alex Savca |  |  | Moldova | 205 |
+| 9 | [sighook](https://github.com/sighook) | Alex Savca |  |  | Moldova | 207 |
 | 10 | [gvvynplaine](https://github.com/gvvynplaine) | Roman |  |  | Moldova, Tiraspol | 194 |
 | 11 | [steevehook](https://github.com/steevehook) | Steve Hook | @steevehook | steevehook | Chisinau, Moldova | 187 |
 | 12 | [Ywxig](https://github.com/Ywxig) | Ywxig |  |  | Moldova Chisinau  | 179 |
-| 13 | [vova07](https://github.com/vova07) | Vasile C. |  |  | Chișinău, Moldova | 171 |
+| 13 | [vova07](https://github.com/vova07) | Vasile C. |  |  | Chișinău, Moldova | 172 |
 | 14 | [bearanatolie](https://github.com/bearanatolie) | Anatolie Ursu | zugzwang lab |  | ulmu, laloveni, Moldova | 155 |
 | 15 | [AddictedCS](https://github.com/AddictedCS) | Sergiu Ciumac | emysound.com | addictedcs | Chisinau, Moldova | 144 |
-| 16 | [andrei-zgirvaci](https://github.com/andrei-zgirvaci) | Andrei Zgîrvaci | @callstack | andrei_zgirvaci | Chișinău, Moldova | 123 |
-| 17 | [keriat](https://github.com/keriat) | Sergey Beresnev | @superform-xyz | keriat | Moldova, Chisinau | 119 |
-| 18 | [ygorigor](https://github.com/ygorigor) | Igor |  |  | Chisinau, Moldova | 118 |
+| 16 | [ygorigor](https://github.com/ygorigor) | Igor |  |  | Chisinau, Moldova | 129 |
+| 17 | [andrei-zgirvaci](https://github.com/andrei-zgirvaci) | Andrei Zgîrvaci | @callstack | andrei_zgirvaci | Chișinău, Moldova | 123 |
+| 18 | [keriat](https://github.com/keriat) | Sergey Beresnev | @superform-xyz | keriat | Moldova, Chisinau | 119 |
 | 19 | [vgaidarji](https://github.com/vgaidarji) | Veaceslav Gaidarji |  | v_gaidarji | Moldova | 115 |
 | 20 | [Ernest96](https://github.com/Ernest96) | Ernest |  |  | Chisinau Moldova | 107 |

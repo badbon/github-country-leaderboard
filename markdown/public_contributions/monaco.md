@@ -1,18 +1,18 @@
 # Public Contributions - Monaco
 
-Generated: 2026-10-13T18:41:49.496Z
+Generated: 2026-10-14T00:17:48.845Z
 
 Users: 142
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [laurentqro](https://github.com/laurentqro) | Laurent Curau |  |  | Monaco | 4005 |
+| 1 | [laurentqro](https://github.com/laurentqro) | Laurent Curau |  |  | Monaco | 3948 |
 | 2 | [LovelessCodes](https://github.com/LovelessCodes) |  |  |  | Monaco | 2244 |
 | 3 | [KristofM854](https://github.com/KristofM854) | Kristof Moeller | International Atomic Energy Agency |  | Monaco | 1619 |
 | 4 | [asingizwe1](https://github.com/asingizwe1) | Dev. Louis Asingizwe | 7C | _Louis_A_ | Monaco , Kampala/Uganda | 608 |
 | 5 | [auvents-brave](https://github.com/auvents-brave) | Stéphane |  |  | Monaco | 243 |
 | 6 | [AlexRLG98](https://github.com/AlexRLG98) | Alex_RLG |  |  | Monaco | 212 |
-| 7 | [co-stig](https://github.com/co-stig) | Constantine | Vilia |  | Monaco | 174 |
+| 7 | [co-stig](https://github.com/co-stig) | Constantine | Vilia |  | Monaco | 173 |
 | 8 | [NicoBocq](https://github.com/NicoBocq) | Nicolas Bocquet | Inforca |  | Marseille / Monaco | 156 |
 | 9 | [Steve-Deguilly](https://github.com/Steve-Deguilly) | Steve DEGUILLY | CREASTORY CONSEIL |  | Nice / Monaco / Sophia Antipolis | 116 |
 | 10 | [margauxhaering](https://github.com/margauxhaering) | Margaux Haering |  |  | Monaco | 109 |

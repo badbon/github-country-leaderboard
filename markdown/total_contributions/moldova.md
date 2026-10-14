@@ -1,8 +1,8 @@
 # Total Contributions - Moldova
 
-Generated: 2026-10-13T18:41:22.839Z
+Generated: 2026-10-14T00:17:46.297Z
 
-Users: 1752
+Users: 1751
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -25,4 +25,4 @@ Users: 1752
 | 17 | [sebsti5](https://github.com/sebsti5) | Sebastian | @Tafi-Solutions |  | Moldova 🇲🇩 | 4802 |
 | 18 | [Andrei-Ciuperca](https://github.com/Andrei-Ciuperca) | Andrei Ciupercă | @Tafi-Solutions  |  | Moldova | 4782 |
 | 19 | [szagoret](https://github.com/szagoret) | Sergiu Zagoret | Complexica  |  | Chisinau, Moldova | 4756 |
-| 20 | [rvmoldova](https://github.com/rvmoldova) | Vadim Russu | @labs42io | rvmdl | Chișinău | 4720 |
+| 20 | [texpert](https://github.com/texpert) | Aurel Branzeanu | PC-Link | tvorogoff | Chisinau, Moldova | 4724 |

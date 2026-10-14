@@ -1,6 +1,6 @@
 # Portugal
 
-Indexed users: 28,455
+Indexed users: 28,454
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 28,455
 | 19 | [abo-abo](https://github.com/abo-abo) | Oleh Krehel | Matosinhos, Portugal | 1,857 |
 | 20 | [SimCoderYoutube](https://github.com/SimCoderYoutube) | SimCoder | Porto, Portugal | 1,831 |
 
-Generated: 2026-10-13T18:51:14.609Z
+Generated: 2026-10-14T00:29:40.319Z
