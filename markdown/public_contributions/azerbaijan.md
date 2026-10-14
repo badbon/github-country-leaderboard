@@ -1,6 +1,6 @@
 # Public Contributions - Azerbaijan
 
-Generated: 2026-10-13T23:30:47.338Z
+Generated: 2026-10-14T01:04:57.142Z
 
 Users: 5077
 
@@ -11,8 +11,8 @@ Users: 5077
 | 3 | [RavanGuliyeff](https://github.com/RavanGuliyeff) | Ravan Guliyev |  |  | Baku | 6494 |
 | 4 | [SuleimanHajizadeh](https://github.com/SuleimanHajizadeh) | Suleiman Hajizadeh | Western Caspian University  |  | Azerbaijan, Baku | 5901 |
 | 5 | [nazarli-shabnam](https://github.com/nazarli-shabnam) | Shabnam |  |  | Azerbaijan | 5510 |
-| 6 | [nurullaibadov](https://github.com/nurullaibadov) | Nurulla Ibadov | PeerStack |  | Azerbaijan,Baku | 3937 |
-| 7 | [anaraydinli55](https://github.com/anaraydinli55) | Anar Aydinli | Altincicek | Aydinli42347 | Azerbaijan | 3764 |
+| 6 | [anaraydinli55](https://github.com/anaraydinli55) | Anar Aydinli | Altincicek | Aydinli42347 | Azerbaijan | 4093 |
+| 7 | [nurullaibadov](https://github.com/nurullaibadov) | Nurulla Ibadov | PeerStack |  | Azerbaijan,Baku | 3937 |
 | 8 | [tagizadeorxan](https://github.com/tagizadeorxan) | Orkhan Taghizade |  |  | Baku, Azerbaijan | 3668 |
 | 9 | [BilgeGates](https://github.com/BilgeGates) | Khatai Huseynzada |  |  | Azerbaijan | 3195 |
 | 10 | [sadigaxund](https://github.com/sadigaxund) | Sadig Akhund | ADA & George Washington University | sadigaxund | Baku, Azerbaijan | 2988 |

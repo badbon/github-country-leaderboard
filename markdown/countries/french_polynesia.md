@@ -75,12 +75,12 @@ Indexed users: 60
 | 11 | [jbtheou](https://github.com/jbtheou) | Jean-Baptiste Théou | French Polynesia | 12 |
 | 12 | [glaziou](https://github.com/glaziou) | Philippe Glaziou | Tahiti, French Polynesia | 11 |
 | 13 | [teuna](https://github.com/teuna) | Teuna Ferrand | Tahiti, French Polynesia | 9 |
-| 14 | [MartinBINARD](https://github.com/MartinBINARD) | Martin Binard | Tahiti, French Polynesia | 7 |
-| 15 | [yannkb](https://github.com/yannkb) | Yann Bouchereau | Papeete, French Polynesia | 7 |
+| 14 | [yannkb](https://github.com/yannkb) | Yann Bouchereau | Papeete, French Polynesia | 8 |
+| 15 | [MartinBINARD](https://github.com/MartinBINARD) | Martin Binard | Tahiti, French Polynesia | 7 |
 | 16 | [lauramikula](https://github.com/lauramikula) | Laura Mikula | Tahiti, French Polynesia | 6 |
 | 17 | [Heinux](https://github.com/Heinux) | Heinux | French Polynesia | 5 |
 | 18 | [syllebra](https://github.com/syllebra) | BilboX | French Polynesia | 5 |
 | 19 | [TToarii](https://github.com/TToarii) | TAU Toarii | French Polynesia | 5 |
 | 20 | [geoffguillain](https://github.com/geoffguillain) | Geoff | French Polynesia | 4 |
 
-Generated: 2026-10-13T23:52:50.386Z
+Generated: 2026-10-14T01:26:39.295Z

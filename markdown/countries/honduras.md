@@ -30,8 +30,8 @@ Indexed users: 1,261
 | 16 | [Emiliano-Agurcia](https://github.com/Emiliano-Agurcia) | Emiliano Agurcia | Honduras | 4,988 |
 | 17 | [Gianmembreno](https://github.com/Gianmembreno) | Gian Membreno | Honduras | 4,443 |
 | 18 | [williamstevencole](https://github.com/williamstevencole) | William Steven Cole Paz | San Pedro Sula, Cortes, Honduras | 4,397 |
-| 19 | [robertraf](https://github.com/robertraf) | Roberto Ramírez | Tegucigalpa, Honduras | 4,077 |
-| 20 | [andresumanzor](https://github.com/andresumanzor) | Andrés Umanzor | San Pedro Sula, Honduras | 3,976 |
+| 19 | [MarionMBC](https://github.com/MarionMBC) | Marion Bustamante | Honduras | 4,173 |
+| 20 | [robertraf](https://github.com/robertraf) | Roberto Ramírez | Tegucigalpa, Honduras | 4,077 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 1,261
 | 19 | [christiansc96](https://github.com/christiansc96) | Christian Sánchez | San Pedro Sula, Honduras | 56 |
 | 20 | [Asterki](https://github.com/Asterki) | Fernando Rivera | Honduras | 55 |
 
-Generated: 2026-10-14T00:00:01.613Z
+Generated: 2026-10-14T01:33:06.654Z

@@ -15,7 +15,7 @@ Indexed users: 563
 | 1 | [svcrashh](https://github.com/svcrashh) | crashh | Praia Grande | 7,530 |
 | 2 | [Kowts](https://github.com/Kowts) | Joselito Lima Coutinho | Praia, Cabo Verde | 3,227 |
 | 3 | [Balula12](https://github.com/Balula12) | Gustavo Santos Balula | Praia Grande, SP | 2,622 |
-| 4 | [natanvalimcardoso](https://github.com/natanvalimcardoso) | Natan Valim | Praia Grande - SC | 2,067 |
+| 4 | [natanvalimcardoso](https://github.com/natanvalimcardoso) | Natan Valim | Praia Grande - SC | 2,192 |
 | 5 | [Brocy](https://github.com/Brocy) | Brocy Centeio | Praia, Cabo Verde | 2,064 |
 | 6 | [ThiagoCI](https://github.com/ThiagoCI) | Thiago C Iglesias | Praia Grande - SP | 1,897 |
 | 7 | [PedroVenchiarutti](https://github.com/PedroVenchiarutti) | Pedro Venchiarutti | Praia Grande/SP | 1,793 |
@@ -63,7 +63,7 @@ Indexed users: 563
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [Andreia797](https://github.com/Andreia797) | Andreia Semedo | Cape Verde | 450 |
-| 2 | [natanvalimcardoso](https://github.com/natanvalimcardoso) | Natan Valim | Praia Grande - SC | 437 |
+| 2 | [natanvalimcardoso](https://github.com/natanvalimcardoso) | Natan Valim | Praia Grande - SC | 436 |
 | 3 | [Jorgegabrielsantos](https://github.com/Jorgegabrielsantos) | Jorge Gabriel | Cape Verde,Praia | 361 |
 | 4 | [Dnuns](https://github.com/Dnuns) | David Nunes | Cape Verde | 212 |
 | 5 | [MiAfroki](https://github.com/MiAfroki) | Milena Camargo Reis | Praia Grande - SP | 142 |
@@ -83,4 +83,4 @@ Indexed users: 563
 | 19 | [fabio-cv](https://github.com/fabio-cv) | Fábio Barros | Praia, Cabo Verde | 57 |
 | 20 | [FredSoares](https://github.com/FredSoares) | Frederico Soares | Cape Verde | 54 |
 
-Generated: 2026-10-13T23:39:30.145Z
+Generated: 2026-10-14T01:14:06.914Z

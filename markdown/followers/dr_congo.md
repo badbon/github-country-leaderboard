@@ -1,6 +1,6 @@
 # Followers - DR Congo
 
-Generated: 2026-10-13T23:48:20.056Z
+Generated: 2026-10-14T01:20:04.482Z
 
 Users: 699
 
@@ -10,7 +10,7 @@ Users: 699
 | 2 | [bernard-ng](https://github.com/bernard-ng) | Bernard Ngandu | @ngandu-dev | BernardNgandu | DR Congo, Lubumbashi | 238 |
 | 3 | [JonathanMonga](https://github.com/JonathanMonga) | Jomo | @MastaGate | jonathan_monga | Lubumbashi, Katanga, DR Congo | 217 |
 | 4 | [Kgermando](https://github.com/Kgermando) | Kgermain | ICTECH |  | Kinshasa | 197 |
-| 5 | [SKB-TECH](https://github.com/SKB-TECH) | SKB-TECH | KDEA Academy | s_kinyamba | DR CONGO | 184 |
+| 5 | [SKB-TECH](https://github.com/SKB-TECH) | SKB-TECH | KDEA Academy | s_kinyamba | DR CONGO | 186 |
 | 6 | [Gbelsalvador](https://github.com/Gbelsalvador) | BANYI BANTU GEDEON | geek genius |  | kinshasa | 163 |
 | 7 | [fordimalanda](https://github.com/fordimalanda) | Fordi Malanda | Fordima Inc. | mlndafordi | Kinshasa, DRC | 137 |
 | 8 | [AfricanboyKiima](https://github.com/AfricanboyKiima) | Africanboy Kiima |  | AfricanboyKiima | Kinshasa/DRC | 134 |

@@ -1,6 +1,6 @@
 # Followers - Croatia
 
-Generated: 2026-10-13T23:44:21.200Z
+Generated: 2026-10-14T01:16:53.451Z
 
 Users: 5436
 
@@ -10,7 +10,7 @@ Users: 5436
 | 2 | [AntonioErdeljac](https://github.com/AntonioErdeljac) | Antonio Erdeljac |  |  | Zagreb, Croatia | 9129 |
 | 3 | [stamparm](https://github.com/stamparm) | Miroslav Stampar |  | stamparm | Croatia | 2923 |
 | 4 | [sasa1977](https://github.com/sasa1977) | Saša Jurić | Very Big Things |  | Zagreb, Croatia | 1862 |
-| 5 | [vladmandic](https://github.com/vladmandic) | Vladimir Mandic |  | vmandic00 | Miami, Florida / Rijeka, Croatia | 1170 |
+| 5 | [vladmandic](https://github.com/vladmandic) | Vladimir Mandic |  | vmandic00 | Miami, Florida / Rijeka, Croatia | 1185 |
 | 6 | [Valloric](https://github.com/Valloric) | Val Markovic |  |  | Zagreb, Croatia | 1146 |
 | 7 | [PCrnjak](https://github.com/PCrnjak) | Source Robotics | Source robotics d.o.o. | SourceRobotics | Croatia, Zagreb | 951 |
 | 8 | [matiadev](https://github.com/matiadev) | Matia |  | joyofcodedev | Zagreb, Croatia | 839 |

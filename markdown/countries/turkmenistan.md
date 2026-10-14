@@ -12,7 +12,7 @@ Indexed users: 500
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [Kemalstudio](https://github.com/Kemalstudio) | Kemal Atayev | Turkmenistan / Ashgabat | 23,706 |
+| 1 | [Kemalstudio](https://github.com/Kemalstudio) | Kemal Atayev | Turkmenistan / Ashgabat | 23,777 |
 | 2 | [resuls](https://github.com/resuls) | Resul | Turkmenistan | 8,385 |
 | 3 | [bruno-keiko](https://github.com/bruno-keiko) | Bruno | Turkmenistan | 6,106 |
 | 4 | [arslanAta](https://github.com/arslanAta) | Arslan | Turkmenistan | 4,682 |
@@ -37,21 +37,21 @@ Indexed users: 500
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [Kemalstudio](https://github.com/Kemalstudio) | Kemal Atayev | Turkmenistan / Ashgabat | 16,294 |
+| 1 | [Kemalstudio](https://github.com/Kemalstudio) | Kemal Atayev | Turkmenistan / Ashgabat | 16,387 |
 | 2 | [realmeylisdev](https://github.com/realmeylisdev) | Meylis | Ashgabat, Turkmenistan | 4,399 |
 | 3 | [TheSeydiCharyyev](https://github.com/TheSeydiCharyyev) | Seydi Charyyev | Mary city, Turkmenistan | 2,017 |
 | 4 | [Nurik9292](https://github.com/Nurik9292) | Timur | Turkmenistan | 1,738 |
 | 5 | [Jasurbek99](https://github.com/Jasurbek99) | Jasurbek Ashyrbayev | Turkmenistan, Ashgabat | 1,569 |
-| 6 | [ez1z](https://github.com/ez1z) | Eziz Agamyradov | Turkmenabat, Turkmenistan | 1,028 |
+| 6 | [ez1z](https://github.com/ez1z) | Eziz Agamyradov | Turkmenabat, Turkmenistan | 1,026 |
 | 7 | [vbauerster](https://github.com/vbauerster) | Vladimir Bauer | Turkmenistan | 801 |
 | 8 | [Mekan-developer](https://github.com/Mekan-developer) | Mekan Agamyradov | Turkmenistan, Ashgabat | 740 |
-| 9 | [selbibegiyeva1](https://github.com/selbibegiyeva1) | Unite Venture | Turkmenistan | 726 |
+| 9 | [selbibegiyeva1](https://github.com/selbibegiyeva1) | Unite Venture | Turkmenistan | 715 |
 | 10 | [Bahram2006](https://github.com/Bahram2006) | Bahram Myradow | Turkmenistan | 701 |
 | 11 | [babamurad](https://github.com/babamurad) | Babamurad | Turkmenistan, Ashgabat | 542 |
 | 12 | [orazchollaev](https://github.com/orazchollaev) | Oraznyýaz Çollaýew | Turkmenistan, Ashgabat | 505 |
 | 13 | [suleymanmyradov](https://github.com/suleymanmyradov) | Suleyman Myradov | Ashgabat, Turkmenistan | 480 |
 | 14 | [northernwolf00](https://github.com/northernwolf00) | Googa Dev | Turkmenistan | 417 |
-| 15 | [aynazar-sylyyew-dev](https://github.com/aynazar-sylyyew-dev) | TheAýnazarSylyýew | Turkmenistan | 402 |
+| 15 | [aynazar-sylyyew-dev](https://github.com/aynazar-sylyyew-dev) | TheAýnazarSylyýew | Turkmenistan | 403 |
 | 16 | [atageldi194229](https://github.com/atageldi194229) | Atageldi | Ashgabat, Turkmenistan | 366 |
 | 17 | [richxcame](https://github.com/richxcame) | Baygeldi Cholukov | Turkmenistan | 330 |
 | 18 | [Seyit47](https://github.com/Seyit47) | Seyitmyrat Geldiyew | Ashgabat, Turkmenistan | 293 |
@@ -62,7 +62,7 @@ Indexed users: 500
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [Kemalstudio](https://github.com/Kemalstudio) | Kemal Atayev | Turkmenistan / Ashgabat | 252 |
+| 1 | [Kemalstudio](https://github.com/Kemalstudio) | Kemal Atayev | Turkmenistan / Ashgabat | 251 |
 | 2 | [evgeniy-dammer](https://github.com/evgeniy-dammer) | Evgeniy Dammer | Ashgabat, Turkmenistan | 167 |
 | 3 | [MaysaShad](https://github.com/MaysaShad) |  | Ashgabat | 148 |
 | 4 | [saggeldi](https://github.com/saggeldi) | Shageldi Alyyew | Turkmenistan | 140 |
@@ -83,4 +83,4 @@ Indexed users: 500
 | 19 | [vbauerster](https://github.com/vbauerster) | Vladimir Bauer | Turkmenistan | 66 |
 | 20 | [atageldi194229](https://github.com/atageldi194229) | Atageldi | Ashgabat, Turkmenistan | 64 |
 
-Generated: 2026-10-13T23:17:08.333Z
+Generated: 2026-10-14T00:52:46.628Z

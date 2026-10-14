@@ -66,7 +66,7 @@ Indexed users: 699
 | 2 | [bernard-ng](https://github.com/bernard-ng) | Bernard Ngandu | DR Congo, Lubumbashi | 238 |
 | 3 | [JonathanMonga](https://github.com/JonathanMonga) | Jomo | Lubumbashi, Katanga, DR Congo | 217 |
 | 4 | [Kgermando](https://github.com/Kgermando) | Kgermain | Kinshasa | 197 |
-| 5 | [SKB-TECH](https://github.com/SKB-TECH) | SKB-TECH | DR CONGO | 184 |
+| 5 | [SKB-TECH](https://github.com/SKB-TECH) | SKB-TECH | DR CONGO | 186 |
 | 6 | [Gbelsalvador](https://github.com/Gbelsalvador) | BANYI BANTU GEDEON | kinshasa | 163 |
 | 7 | [fordimalanda](https://github.com/fordimalanda) | Fordi Malanda | Kinshasa, DRC | 137 |
 | 8 | [AfricanboyKiima](https://github.com/AfricanboyKiima) | Africanboy Kiima | Kinshasa/DRC | 134 |
@@ -83,4 +83,4 @@ Indexed users: 699
 | 19 | [bolenge](https://github.com/bolenge) | Don de Dieu Bolenge | Congo - Kinshasa | 69 |
 | 20 | [ChrisMwanya](https://github.com/ChrisMwanya) | Chris Mwanya | kinshasa | 69 |
 
-Generated: 2026-10-13T23:48:20.056Z
+Generated: 2026-10-14T01:20:04.482Z

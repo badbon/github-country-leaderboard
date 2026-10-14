@@ -12,13 +12,13 @@ Indexed users: 155
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [Not-Chur-Architect](https://github.com/Not-Chur-Architect) | Nicholas Campisano | Isle of Man | 11,245 |
-| 2 | [auberryberry](https://github.com/auberryberry) | Aubrey Stearn | Isle of Man | 10,048 |
+| 1 | [Not-Chur-Architect](https://github.com/Not-Chur-Architect) | Nicholas Campisano | Isle of Man | 11,247 |
+| 2 | [auberryberry](https://github.com/auberryberry) | Aubrey Stearn | Isle of Man | 10,097 |
 | 3 | [bengris32](https://github.com/bengris32) | Ben | Isle of Man | 7,264 |
 | 4 | [darrenbarklie](https://github.com/darrenbarklie) | Darren Barklie | Isle of Man | 4,550 |
 | 5 | [tekminewe](https://github.com/tekminewe) | Ewe Tek Min | Isle of Man | 3,472 |
 | 6 | [dive](https://github.com/dive) | Artem Loenko | Isle of Man | 2,160 |
-| 7 | [oliciv](https://github.com/oliciv) | Oli Allen | Isle of Man | 1,917 |
+| 7 | [oliciv](https://github.com/oliciv) | Oli Allen | Isle of Man | 1,984 |
 | 8 | [lukawarren](https://github.com/lukawarren) | Luka Warren | Isle of Man | 1,887 |
 | 9 | [craigiswayne](https://github.com/craigiswayne) | Craig Wayne | Isle of Man | 1,847 |
 | 10 | [PerpetualBeta](https://github.com/PerpetualBeta) | Jonathan M. Hollin | Douglas, Isle of Man | 1,685 |
@@ -83,4 +83,4 @@ Indexed users: 155
 | 19 | [lwangenheim](https://github.com/lwangenheim) | Lee Wangenheim | Isle of Man | 19 |
 | 20 | [DanAnkers](https://github.com/DanAnkers) | Daniel Ankers | Isle of Man | 18 |
 
-Generated: 2026-10-14T00:03:15.632Z
+Generated: 2026-10-14T01:35:43.040Z

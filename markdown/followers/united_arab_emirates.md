@@ -1,19 +1,19 @@
 # Followers - United Arab Emirates
 
-Generated: 2026-10-13T23:19:59.986Z
+Generated: 2026-10-14T00:53:01.131Z
 
-Users: 4235
+Users: 4234
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [1cucer](https://github.com/1cucer) | Cucer |  |  | United Arab Emirates | 1851 |
 | 2 | [batermj](https://github.com/batermj) | Bater.Makhabel | META4ALL | batermj | Abu Dhabi, UAE | 1789 |
 | 3 | [leap71](https://github.com/leap71) | LEAP 71 |  | leap_71 | Dubai, United Arab Emirates | 1190 |
-| 4 | [ski043](https://github.com/ski043) | Jan | MarshalCode | janmarshaldev | 🇦🇪 United Arab Emirates (Dubai & RAK) | 922 |
+| 4 | [ski043](https://github.com/ski043) | Jan | MarshalCode | janmarshaldev | 🇦🇪 United Arab Emirates (Dubai & RAK) | 935 |
 | 5 | [0x4m4](https://github.com/0x4m4) | Muhammad Osama | OTT Cybersecurity LLC |  | United Arab Emirates | 862 |
 | 6 | [tuomaskivioja](https://github.com/tuomaskivioja) | Tuomas Kivioja |  |  | Dubai, United Arab Emirates | 669 |
 | 7 | [Ahmed-Adel-Ismail](https://github.com/Ahmed-Adel-Ismail) | Ahmed Adel Ismail | SadaPay |  | United Arab Emirates | 587 |
-| 8 | [TadesseDev](https://github.com/TadesseDev) | Tadesse Dubale | @Emirates-NBD | TadesseDev | Dubai, United Arab Emirates | 553 |
+| 8 | [TadesseDev](https://github.com/TadesseDev) | Tadesse Dubale | @Emirates-NBD | TadesseDev | Dubai, United Arab Emirates | 542 |
 | 9 | [Jackal08](https://github.com/Jackal08) | Jacques Francois Joubert |  |  | Abu Dhabi | 510 |
 | 10 | [christyjacob4](https://github.com/christyjacob4) | Christy Jacob |  | christyjacob4 | Abu Dhabi | 476 |
 | 11 | [Mubashir12392](https://github.com/Mubashir12392) | Muhammad Mubashir | ECOM Specialist, LLC |  | Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates | 466 |

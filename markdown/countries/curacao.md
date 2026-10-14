@@ -19,12 +19,12 @@ Indexed users: 53
 | 5 | [dwarfland](https://github.com/dwarfland) | marc hoffman | Curaçao | 1,412 |
 | 6 | [GilbertoFraaij](https://github.com/GilbertoFraaij) |  | Curacao, Netherlands Antilles | 1,258 |
 | 7 | [frankgeerlings](https://github.com/frankgeerlings) | Frank Geerlings | Curaçao | 919 |
-| 8 | [drosalia](https://github.com/drosalia) | Darrell Rosalia | Curaçao | 902 |
+| 8 | [drosalia](https://github.com/drosalia) | Darrell Rosalia | Curaçao | 897 |
 | 9 | [JObersi10](https://github.com/JObersi10) |  | Willemstad, Curaçao | 472 |
 | 10 | [emile2600](https://github.com/emile2600) | Emile | Willemstad, Curacao | 380 |
 | 11 | [acesuares](https://github.com/acesuares) | Ace Suares | Willemstad, Netherlands Antilles | 253 |
 | 12 | [weyert](https://github.com/weyert) | Weyert de Boer | London, Curaçao | 130 |
-| 13 | [nelreina](https://github.com/nelreina) | Nelreina | Willemstad, Curacao | 92 |
+| 13 | [nelreina](https://github.com/nelreina) | Nelreina | Willemstad, Curacao | 91 |
 | 14 | [theowlsden](https://github.com/theowlsden) | Shaquil Maria | Curaçao | 79 |
 | 15 | [iamjesco](https://github.com/iamjesco) | Jurgen Schoobaar | Willemstad | 50 |
 | 16 | [angelrgonzalezg](https://github.com/angelrgonzalezg) | Angel R Gonzalez G | Willemstad, Curacao | 45 |
@@ -83,4 +83,4 @@ Indexed users: 53
 | 19 | [coinversus](https://github.com/coinversus) | CoinVersus | Curaçao | 5 |
 | 20 | [flangfeldt](https://github.com/flangfeldt) | FΞLIX | Willemstad, Curacao | 5 |
 
-Generated: 2026-10-13T23:44:29.531Z
+Generated: 2026-10-14T01:17:58.292Z

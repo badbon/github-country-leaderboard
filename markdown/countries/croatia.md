@@ -42,7 +42,7 @@ Indexed users: 5,436
 | 3 | [AleksandarDev](https://github.com/AleksandarDev) | Aleksandar Toplek | Zagreb, Croatia | 8,073 |
 | 4 | [ivanmeler](https://github.com/ivanmeler) | Ivan Meler | Croatia, Vukovar | 7,359 |
 | 5 | [nibzard](https://github.com/nibzard) | Nikola Balic | Split, Croatia | 5,346 |
-| 6 | [vladmandic](https://github.com/vladmandic) | Vladimir Mandic | Miami, Florida / Rijeka, Croatia | 5,038 |
+| 6 | [vladmandic](https://github.com/vladmandic) | Vladimir Mandic | Miami, Florida / Rijeka, Croatia | 4,846 |
 | 7 | [ivicac](https://github.com/ivicac) | Ivica Čardić | Zagreb | 4,748 |
 | 8 | [SirBepy](https://github.com/SirBepy) | Josip Muzic | Zagreb, Croatia | 4,479 |
 | 9 | [VlahoZrinski](https://github.com/VlahoZrinski) | Vlaho Zrinski | Croatia | 4,225 |
@@ -66,7 +66,7 @@ Indexed users: 5,436
 | 2 | [AntonioErdeljac](https://github.com/AntonioErdeljac) | Antonio Erdeljac | Zagreb, Croatia | 9,129 |
 | 3 | [stamparm](https://github.com/stamparm) | Miroslav Stampar | Croatia | 2,923 |
 | 4 | [sasa1977](https://github.com/sasa1977) | Saša Jurić | Zagreb, Croatia | 1,862 |
-| 5 | [vladmandic](https://github.com/vladmandic) | Vladimir Mandic | Miami, Florida / Rijeka, Croatia | 1,170 |
+| 5 | [vladmandic](https://github.com/vladmandic) | Vladimir Mandic | Miami, Florida / Rijeka, Croatia | 1,185 |
 | 6 | [Valloric](https://github.com/Valloric) | Val Markovic | Zagreb, Croatia | 1,146 |
 | 7 | [PCrnjak](https://github.com/PCrnjak) | Source Robotics | Croatia, Zagreb | 951 |
 | 8 | [matiadev](https://github.com/matiadev) | Matia | Zagreb, Croatia | 839 |
@@ -83,4 +83,4 @@ Indexed users: 5,436
 | 19 | [loboris](https://github.com/loboris) | Boris Lovosevic | Zagreb, Croatia | 406 |
 | 20 | [nibzard](https://github.com/nibzard) | Nikola Balic | Split, Croatia | 364 |
 
-Generated: 2026-10-13T23:44:21.200Z
+Generated: 2026-10-14T01:16:53.451Z

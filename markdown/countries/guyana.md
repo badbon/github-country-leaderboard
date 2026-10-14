@@ -29,7 +29,7 @@ Indexed users: 186
 | 15 | [schrum2](https://github.com/schrum2) | Jacob Schrum | Georgetown, TX | 1,520 |
 | 16 | [xbze3](https://github.com/xbze3) | Ezra Minty | Guyana | 1,489 |
 | 17 | [kev-mb](https://github.com/kev-mb) | Kevin Martinez Bautista | Georgetown, Texas | 1,475 |
-| 18 | [rjvaleo](https://github.com/rjvaleo) | transelectronic | Georgetown, Colorado | 1,455 |
+| 18 | [rjvaleo](https://github.com/rjvaleo) | transelectronic | Georgetown, Colorado | 1,451 |
 | 19 | [kathigg](https://github.com/kathigg) | Kathleen Higgins | Georgetown University | 1,272 |
 | 20 | [owengrant](https://github.com/owengrant) | Owen Grant | Guyana | 1,263 |
 
@@ -43,7 +43,7 @@ Indexed users: 186
 | 4 | [negz](https://github.com/negz) | Nic Cope | Georgetown, Seattle | 1,857 |
 | 5 | [jzills](https://github.com/jzills) | Joshua Zillwood | Georgetown, TX | 1,589 |
 | 6 | [ktappdev](https://github.com/ktappdev) | Ken Andrew Taylor | Guyana | 1,492 |
-| 7 | [rjvaleo](https://github.com/rjvaleo) | transelectronic | Georgetown, Colorado | 1,455 |
+| 7 | [rjvaleo](https://github.com/rjvaleo) | transelectronic | Georgetown, Colorado | 1,451 |
 | 8 | [sandogeorge](https://github.com/sandogeorge) | Sando George | Guyana, South America | 1,332 |
 | 9 | [kathigg](https://github.com/kathigg) | Kathleen Higgins | Georgetown University | 755 |
 | 10 | [blackMastery](https://github.com/blackMastery) | kevon Cadogan | Guyana | 656 |
@@ -73,7 +73,7 @@ Indexed users: 186
 | 9 | [JoshuaKissoon](https://github.com/JoshuaKissoon) | Joshua Kissoon | Georgetown, Guyana | 41 |
 | 10 | [codedbychavez](https://github.com/codedbychavez) | Chavez Harris | Guyana | 39 |
 | 11 | [amberhinds](https://github.com/amberhinds) | Amber Hinds | Georgetown, TX | 37 |
-| 12 | [FusionOpz](https://github.com/FusionOpz) | Matthew Sporich | Georgetown, ON, CA | 35 |
+| 12 | [FusionOpz](https://github.com/FusionOpz) | Matthew Sporich | Georgetown, ON, CA | 36 |
 | 13 | [rlisle](https://github.com/rlisle) | Ron Lisle | Georgetown, TX | 34 |
 | 14 | [NathanMLu](https://github.com/NathanMLu) | Nathan Lu | Georgetown, Texas | 30 |
 | 15 | [ocrram](https://github.com/ocrram) | Marco | Georgetown, TX | 30 |
@@ -83,4 +83,4 @@ Indexed users: 186
 | 19 | [Alien-nick](https://github.com/Alien-nick) | Nicholas Seetaram | South America, Guyana, Georgetown | 22 |
 | 20 | [duncanfinney](https://github.com/duncanfinney) | Duncan Finney | Georgetown, CO | 22 |
 
-Generated: 2026-10-13T23:59:16.573Z
+Generated: 2026-10-14T01:32:33.606Z

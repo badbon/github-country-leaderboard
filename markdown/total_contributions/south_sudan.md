@@ -1,6 +1,6 @@
 # Total Contributions - South Sudan
 
-Generated: 2026-10-13T23:09:36.356Z
+Generated: 2026-10-14T00:45:14.107Z
 
 Users: 132
 
@@ -24,5 +24,5 @@ Users: 132
 | 16 | [John-Tongun](https://github.com/John-Tongun) | John Tongun Wani | SharpNet technologies  |  | Juba South Sudan | 323 |
 | 17 | [deng-joe](https://github.com/deng-joe) | Joe | MTN South Sudan | joedeng_ | Juba, CE, South Sudan | 300 |
 | 18 | [Yel-Mangok](https://github.com/Yel-Mangok) |  | TechPro |  | South Sudan | 271 |
-| 19 | [nhial-cham](https://github.com/nhial-cham) | Nhial Cham |  | NhialCham | Juba, South Sudan | 269 |
-| 20 | [uojai](https://github.com/uojai) | UoJ Artificial Intelligence | University of Juba |  | Juba, South Sudan | 267 |
+| 19 | [uojai](https://github.com/uojai) | UoJ Artificial Intelligence | University of Juba |  | Juba, South Sudan | 270 |
+| 20 | [nhial-cham](https://github.com/nhial-cham) | Nhial Cham |  | NhialCham | Juba, South Sudan | 269 |

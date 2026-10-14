@@ -1,12 +1,12 @@
 # Public Contributions - Central African Republic
 
-Generated: 2026-10-13T23:41:43.475Z
+Generated: 2026-10-14T01:15:22.112Z
 
 Users: 11
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [elielMengue](https://github.com/elielMengue) | Eliel MENGUE | @ikouelabs @sendou-startup  | ElielMengue | BANGUI | 297 |
+| 1 | [elielMengue](https://github.com/elielMengue) | Eliel MENGUE | @ikouelabs @sendou-startup  | ElielMengue | BANGUI | 294 |
 | 2 | [nguereza-tony](https://github.com/nguereza-tony) | Tony NGUEREZA | Platine PHP | NGUEREZATony | Bangui | 228 |
 | 3 | [Nanobolide](https://github.com/Nanobolide) | Geoffroy Maidou |  |  | Remote ,Bangui , Centrafrique 🇨🇫 ; | 120 |
 | 4 | [yann-bot](https://github.com/yann-bot) | Yann Dubois Ouafete | @ikoueorg  | YannOuafete | Bangui , CAR | 56 |

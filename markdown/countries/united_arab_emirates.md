@@ -1,6 +1,6 @@
 # United Arab Emirates
 
-Indexed users: 4,235
+Indexed users: 4,234
 
 | Leaderboard | Link |
 |---|---|
@@ -65,11 +65,11 @@ Indexed users: 4,235
 | 1 | [1cucer](https://github.com/1cucer) | Cucer | United Arab Emirates | 1,851 |
 | 2 | [batermj](https://github.com/batermj) | Bater.Makhabel | Abu Dhabi, UAE | 1,789 |
 | 3 | [leap71](https://github.com/leap71) | LEAP 71 | Dubai, United Arab Emirates | 1,190 |
-| 4 | [ski043](https://github.com/ski043) | Jan | 🇦🇪 United Arab Emirates (Dubai & RAK) | 922 |
+| 4 | [ski043](https://github.com/ski043) | Jan | 🇦🇪 United Arab Emirates (Dubai & RAK) | 935 |
 | 5 | [0x4m4](https://github.com/0x4m4) | Muhammad Osama | United Arab Emirates | 862 |
 | 6 | [tuomaskivioja](https://github.com/tuomaskivioja) | Tuomas Kivioja | Dubai, United Arab Emirates | 669 |
 | 7 | [Ahmed-Adel-Ismail](https://github.com/Ahmed-Adel-Ismail) | Ahmed Adel Ismail | United Arab Emirates | 587 |
-| 8 | [TadesseDev](https://github.com/TadesseDev) | Tadesse Dubale | Dubai, United Arab Emirates | 553 |
+| 8 | [TadesseDev](https://github.com/TadesseDev) | Tadesse Dubale | Dubai, United Arab Emirates | 542 |
 | 9 | [Jackal08](https://github.com/Jackal08) | Jacques Francois Joubert | Abu Dhabi | 510 |
 | 10 | [christyjacob4](https://github.com/christyjacob4) | Christy Jacob | Abu Dhabi | 476 |
 | 11 | [Mubashir12392](https://github.com/Mubashir12392) | Muhammad Mubashir | Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates | 466 |
@@ -83,4 +83,4 @@ Indexed users: 4,235
 | 19 | [FrayxRulez](https://github.com/FrayxRulez) | Fela | Dubai, United Arab Emirates | 366 |
 | 20 | [garylab](https://github.com/garylab) | Gary Meng | Abu Dhabi, UAE | 360 |
 
-Generated: 2026-10-13T23:19:59.986Z
+Generated: 2026-10-14T00:53:01.131Z

@@ -1,6 +1,6 @@
 # Total Contributions - Bhutan
 
-Generated: 2026-10-13T23:35:02.299Z
+Generated: 2026-10-14T01:09:17.710Z
 
 Users: 267
 
@@ -8,7 +8,7 @@ Users: 267
 |---:|---|---|---|---|---|---:|
 | 1 | [tshewang-rinzin](https://github.com/tshewang-rinzin) | Tshewang Rinzin | @Cloud-Bhutan  | trigdzeen | Thimphu, Bhutan | 5890 |
 | 2 | [tenztshering](https://github.com/tenztshering) | Tenzin Tshering |  |  | Thimphu, Bhutan | 5100 |
-| 3 | [Kzoeps](https://github.com/Kzoeps) | Karma Zoepa Yoezer |  | kzoeps | Thimphu, Bhutan | 3607 |
+| 3 | [Kzoeps](https://github.com/Kzoeps) | Karma Zoepa Yoezer |  | kzoeps | Thimphu, Bhutan | 3604 |
 | 4 | [teknatha136](https://github.com/teknatha136) | Tek Nath | @SELISEdigitalplatforms  |  | Thimphu | 3519 |
 | 5 | [jimbatshetrim](https://github.com/jimbatshetrim) | Jimba Tshetrim | @selisebt  |  | Thimphu, Bhutan | 3350 |
 | 6 | [tashi-iu](https://github.com/tashi-iu) | Tashi Tobgay Dakpa | @Jaggle-AI-HQ  |  | Thimphu, Bhutan | 3321 |

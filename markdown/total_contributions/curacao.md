@@ -1,6 +1,6 @@
 # Total Contributions - Curaçao
 
-Generated: 2026-10-13T23:44:29.531Z
+Generated: 2026-10-14T01:17:58.292Z
 
 Users: 53
 
@@ -13,12 +13,12 @@ Users: 53
 | 5 | [dwarfland](https://github.com/dwarfland) | marc hoffman | RemObjects Software | dwarfland | Curaçao | 1412 |
 | 6 | [GilbertoFraaij](https://github.com/GilbertoFraaij) |  |  |  | Curacao, Netherlands Antilles | 1258 |
 | 7 | [frankgeerlings](https://github.com/frankgeerlings) | Frank Geerlings |  |  | Curaçao | 919 |
-| 8 | [drosalia](https://github.com/drosalia) | Darrell Rosalia | Ten-O-5 B.V |  | Curaçao | 902 |
+| 8 | [drosalia](https://github.com/drosalia) | Darrell Rosalia | Ten-O-5 B.V |  | Curaçao | 897 |
 | 9 | [JObersi10](https://github.com/JObersi10) |  | @Hack-Club-Curacao  |  | Willemstad, Curaçao | 472 |
 | 10 | [emile2600](https://github.com/emile2600) | Emile |  |  | Willemstad, Curacao | 380 |
 | 11 | [acesuares](https://github.com/acesuares) | Ace Suares | Suares & Co |  | Willemstad, Netherlands Antilles | 253 |
 | 12 | [weyert](https://github.com/weyert) | Weyert de Boer |  |  | London, Curaçao | 130 |
-| 13 | [nelreina](https://github.com/nelreina) | Nelreina |  | nelreina | Willemstad, Curacao | 92 |
+| 13 | [nelreina](https://github.com/nelreina) | Nelreina |  | nelreina | Willemstad, Curacao | 91 |
 | 14 | [theowlsden](https://github.com/theowlsden) | Shaquil Maria |  |  | Curaçao | 79 |
 | 15 | [iamjesco](https://github.com/iamjesco) | Jurgen Schoobaar |  | iamjesco | Willemstad | 50 |
 | 16 | [angelrgonzalezg](https://github.com/angelrgonzalezg) | Angel R Gonzalez G | Artificial Intelligence Systems | angelrgonzalezg | Willemstad, Curacao | 45 |

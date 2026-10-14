@@ -1,6 +1,6 @@
 # Public Contributions - Bahamas
 
-Generated: 2026-10-13T23:30:49.422Z
+Generated: 2026-10-14T01:04:59.733Z
 
 Users: 236
 
@@ -14,10 +14,10 @@ Users: 236
 | 6 | [dorson755](https://github.com/dorson755) | Dorson Williams |  |  | Nassau Bahamas | 131 |
 | 7 | [gtsbahamas](https://github.com/gtsbahamas) | Ty Wells | FrankLabs |  | Nassau, Bahamas | 117 |
 | 8 | [Johndiddles](https://github.com/Johndiddles) | Johndiddles | Evon Medics LLC | john_diddles | Nassau, Bahamas | 111 |
-| 9 | [SamSepiol266](https://github.com/SamSepiol266) | Sam Sepiol | GreenLine |  | Nassau, Bahamas | 95 |
-| 10 | [Ernestforbes12](https://github.com/Ernestforbes12) | Ernest Forbes Jr | Cay Creative 242 |  | Bahamas  | 92 |
-| 11 | [Jace-Mc](https://github.com/Jace-Mc) | Jacon11 | Jacon11 co. |  | New Providence, Bahamas | 89 |
-| 12 | [jsphpndr](https://github.com/jsphpndr) | Joseph Pinder | Clever | jsphpndr | Bahamas | 78 |
+| 9 | [jsphpndr](https://github.com/jsphpndr) | Joseph Pinder | Clever | jsphpndr | Bahamas | 96 |
+| 10 | [SamSepiol266](https://github.com/SamSepiol266) | Sam Sepiol | GreenLine |  | Nassau, Bahamas | 95 |
+| 11 | [Ernestforbes12](https://github.com/Ernestforbes12) | Ernest Forbes Jr | Cay Creative 242 |  | Bahamas  | 92 |
+| 12 | [Jace-Mc](https://github.com/Jace-Mc) | Jacon11 | Jacon11 co. |  | New Providence, Bahamas | 89 |
 | 13 | [bryanherger](https://github.com/bryanherger) | Bryan Herger |  |  | South Shore of Nassau County, NY | 62 |
 | 14 | [TerryJG](https://github.com/TerryJG) | Terrance |  |  | Nassau, Bahamas | 59 |
 | 15 | [GustavoHRX](https://github.com/GustavoHRX) | Gustavo Rodrigues | Unemployed |  | Bahamas | 58 |

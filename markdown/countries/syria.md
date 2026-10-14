@@ -17,7 +17,7 @@ Indexed users: 1,480
 | 3 | [moaaz-alsyoufi](https://github.com/moaaz-alsyoufi) | Moaaz Alsyoufi | Homs, Syria | 5,147 |
 | 4 | [ibrahim4433](https://github.com/ibrahim4433) | Ibrahim Andraws | Syria | 4,647 |
 | 5 | [Abubakr-Alsheikh](https://github.com/Abubakr-Alsheikh) | Abubakr Alsheikh | Syria | 4,593 |
-| 6 | [ali-talal-ibrahem](https://github.com/ali-talal-ibrahem) | Ali Talal Ibrahem | syria | 3,178 |
+| 6 | [ali-talal-ibrahem](https://github.com/ali-talal-ibrahem) | Ali Talal Ibrahem | syria | 3,183 |
 | 7 | [amurru](https://github.com/amurru) | Ammar Zerouk | Syria | 3,117 |
 | 8 | [sam-a1a](https://github.com/sam-a1a) | Sam | Damascus, Syrian Arab Republic | 2,916 |
 | 9 | [gaaferHajji2](https://github.com/gaaferHajji2) | Jafar Loka | Damascus - SY | 2,853 |
@@ -48,7 +48,7 @@ Indexed users: 1,480
 | 9 | [Abdomghrbi](https://github.com/Abdomghrbi) | Abdullrahman almaghrabi | Syria | 1,250 |
 | 10 | [Hakam-aldeen-Kh](https://github.com/Hakam-aldeen-Kh) | Hakam aldeen Alkhadraa | Syria | 1,180 |
 | 11 | [firasuke](https://github.com/firasuke) | Firas Khana | Aleppo, Syria | 1,156 |
-| 12 | [ali-talal-ibrahem](https://github.com/ali-talal-ibrahem) | Ali Talal Ibrahem | syria | 1,149 |
+| 12 | [ali-talal-ibrahem](https://github.com/ali-talal-ibrahem) | Ali Talal Ibrahem | syria | 1,153 |
 | 13 | [YAZAN420](https://github.com/YAZAN420) | YazanMahfooz | Syria | 1,082 |
 | 14 | [DrAbdulmalek](https://github.com/DrAbdulmalek) | Dr Abdulmalek Al-Husseini | Syria | 1,040 |
 | 15 | [AliMohammadDev](https://github.com/AliMohammadDev) | Ali Mohammad | Syria | 991 |
@@ -83,4 +83,4 @@ Indexed users: 1,480
 | 19 | [nebrassy](https://github.com/nebrassy) | Nebrassy | Latakia, Syria | 102 |
 | 20 | [zaher](https://github.com/zaher) | Zaher Dirkey | Damascus, Syria | 95 |
 
-Generated: 2026-10-13T23:13:42.864Z
+Generated: 2026-10-14T00:47:26.921Z

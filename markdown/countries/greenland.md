@@ -19,7 +19,7 @@ Indexed users: 59
 | 5 | [filzehoka](https://github.com/filzehoka) | Filze | Greenland | 901 |
 | 6 | [WingWR](https://github.com/WingWR) |  | Greenland | 821 |
 | 7 | [ibdj](https://github.com/ibdj) | ibdj | Nuuk, Greenland | 699 |
-| 8 | [FandyHanz](https://github.com/FandyHanz) | General Tenzen Yamauchi | Fjord Dickson, Greenland | 270 |
+| 8 | [FandyHanz](https://github.com/FandyHanz) | General Tenzen Yamauchi | Fjord Dickson, Greenland | 267 |
 | 9 | [pressure679](https://github.com/pressure679) | Vittus Mikiassen | Greenland | 237 |
 | 10 | [Pocket-sys32](https://github.com/Pocket-sys32) | Manraj Thandi | Greenland | 230 |
 | 11 | [aredigg](https://github.com/aredigg) | Are Digranes | Grønland, Oslo, Norge | 177 |
@@ -47,7 +47,7 @@ Indexed users: 59
 | 8 | [Pocket-sys32](https://github.com/Pocket-sys32) | Manraj Thandi | Greenland | 222 |
 | 9 | [aredigg](https://github.com/aredigg) | Are Digranes | Grønland, Oslo, Norge | 177 |
 | 10 | [adarshdev2](https://github.com/adarshdev2) | ADARSH  | Greenland | 157 |
-| 11 | [FandyHanz](https://github.com/FandyHanz) | General Tenzen Yamauchi | Fjord Dickson, Greenland | 157 |
+| 11 | [FandyHanz](https://github.com/FandyHanz) | General Tenzen Yamauchi | Fjord Dickson, Greenland | 154 |
 | 12 | [hexia7230](https://github.com/hexia7230) | Terashita | Kaffeklubben Island, Greenland | 129 |
 | 13 | [panyster](https://github.com/panyster) | Pany | Greenland | 121 |
 | 14 | [PennyHow](https://github.com/PennyHow) | Penny How | Nuuk, Greenland | 101 |
@@ -83,4 +83,4 @@ Indexed users: 59
 | 19 | [yuzujam](https://github.com/yuzujam) | yuzujam | Nuuk,Greenland | 10 |
 | 20 | [DaniEstevezBarcia](https://github.com/DaniEstevezBarcia) | Daniel Estévez-Barcia | Greenland | 8 |
 
-Generated: 2026-10-13T23:55:56.690Z
+Generated: 2026-10-14T01:28:54.160Z

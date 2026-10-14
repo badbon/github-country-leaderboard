@@ -1,6 +1,6 @@
 # Zimbabwe
 
-Indexed users: 1,655
+Indexed users: 1,654
 
 | Leaderboard | Link |
 |---|---|
@@ -78,9 +78,9 @@ Indexed users: 1,655
 | 14 | [Elisvobs](https://github.com/Elisvobs) | Elias Svoba | Harare, Zimbabwe | 151 |
 | 15 | [michaeldera](https://github.com/michaeldera) | Michael | Bulawayo, Zimbabwe  | 128 |
 | 16 | [zinyando](https://github.com/zinyando) | Lennex Zinyando | Harare, Zimbabwe | 123 |
-| 17 | [kaysiz](https://github.com/kaysiz) | kudakwashe siziva | Zimbabwe | 122 |
-| 18 | [musungare-tanaka](https://github.com/musungare-tanaka) | Tanaka Musungare Wonder  | Harare | 116 |
-| 19 | [Ju99ernaut](https://github.com/Ju99ernaut) | Brendon Ngirazi | Zimbabwe | 111 |
-| 20 | [zim-bot](https://github.com/zim-bot) | DRIPS MEMES BLENNIE BLESSED TUNA | Zimbabwe | 110 |
+| 17 | [musungare-tanaka](https://github.com/musungare-tanaka) | Tanaka Musungare Wonder  | Harare | 116 |
+| 18 | [Ju99ernaut](https://github.com/Ju99ernaut) | Brendon Ngirazi | Zimbabwe | 111 |
+| 19 | [zim-bot](https://github.com/zim-bot) | DRIPS MEMES BLENNIE BLESSED TUNA | Zimbabwe | 110 |
+| 20 | [KudakwasheM](https://github.com/KudakwasheM) | Kudakwashe Masaya | Harare | 105 |
 
-Generated: 2026-10-13T23:23:36.132Z
+Generated: 2026-10-14T00:57:22.164Z

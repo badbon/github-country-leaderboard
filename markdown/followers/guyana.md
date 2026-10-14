@@ -1,6 +1,6 @@
 # Followers - Guyana
 
-Generated: 2026-10-13T23:59:16.573Z
+Generated: 2026-10-14T01:32:33.606Z
 
 Users: 186
 
@@ -17,7 +17,7 @@ Users: 186
 | 9 | [JoshuaKissoon](https://github.com/JoshuaKissoon) | Joshua Kissoon | Techlify Inc. |  | Georgetown, Guyana | 41 |
 | 10 | [codedbychavez](https://github.com/codedbychavez) | Chavez Harris | @configcat |  | Guyana | 39 |
 | 11 | [amberhinds](https://github.com/amberhinds) | Amber Hinds | @equalizedigital  | heyamberhinds | Georgetown, TX | 37 |
-| 12 | [FusionOpz](https://github.com/FusionOpz) | Matthew Sporich | Renegade Studios |  | Georgetown, ON, CA | 35 |
+| 12 | [FusionOpz](https://github.com/FusionOpz) | Matthew Sporich | Renegade Studios |  | Georgetown, ON, CA | 36 |
 | 13 | [rlisle](https://github.com/rlisle) | Ron Lisle |  |  | Georgetown, TX | 34 |
 | 14 | [NathanMLu](https://github.com/NathanMLu) | Nathan Lu |  |  | Georgetown, Texas | 30 |
 | 15 | [ocrram](https://github.com/ocrram) | Marco |  |  | Georgetown, TX | 30 |

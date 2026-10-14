@@ -1,6 +1,6 @@
 # Total Contributions - Yemen
 
-Generated: 2026-10-13T23:22:49.869Z
+Generated: 2026-10-14T00:57:10.890Z
 
 Users: 1206
 
@@ -12,9 +12,9 @@ Users: 1206
 | 4 | [Anwar-alhitar](https://github.com/Anwar-alhitar) | Anwar_alhitar  |  |  | Yemen sana'a  | 27911 |
 | 5 | [saqer23](https://github.com/saqer23) | Saqer Aljabri |  | s_jabri23 | Yemen | 11370 |
 | 6 | [zayedadel](https://github.com/zayedadel) | Zayed Adel Al-Meklahfi |  |  | Yemen , Sana'a | 10034 |
-| 7 | [OsamaAlmamri](https://github.com/OsamaAlmamri) | Osama Al-mamari  | Tazamun |  | Sana'a ,Yemen | 8667 |
-| 8 | [omaralalwi](https://github.com/omaralalwi) | Omar Alalwi | freelance | omaralalwi2013 | sana'a Yemen | 8635 |
-| 9 | [MokarmDev](https://github.com/MokarmDev) | Mokarm Mohammed | @SmartMindSYSCoder |  | Yemen | 8587 |
+| 7 | [MokarmDev](https://github.com/MokarmDev) | Mokarm Mohammed | @SmartMindSYSCoder |  | Yemen | 9150 |
+| 8 | [OsamaAlmamri](https://github.com/OsamaAlmamri) | Osama Al-mamari  | Tazamun |  | Sana'a ,Yemen | 8667 |
+| 9 | [omaralalwi](https://github.com/omaralalwi) | Omar Alalwi | freelance | omaralalwi2013 | sana'a Yemen | 8635 |
 | 10 | [moatasem-alhilali](https://github.com/moatasem-alhilali) | Moatasem Alhilali |  |  | Yemen | 8328 |
 | 11 | [Qaidsaher](https://github.com/Qaidsaher) | Saher Qaid | InjazCode | SaherQaid | Yemen,Ibb city | 8274 |
 | 12 | [Nabeel-Zawia](https://github.com/Nabeel-Zawia) | Nabeel Khalid Zawia | Trades |  | Sana'a Yemen | 8160 |

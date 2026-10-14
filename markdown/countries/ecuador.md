@@ -23,15 +23,15 @@ Indexed users: 4,897
 | 9 | [Neoterux](https://github.com/Neoterux) | Luis Andrés Bajaña F. | Guayaquil, Ecuador | 7,234 |
 | 10 | [br-programmer](https://github.com/br-programmer) | Brayan Cantos | Ecuador | 6,794 |
 | 11 | [alvarezmario](https://github.com/alvarezmario) | Mario A. Alvarez Garcia | Quito, Ecuador | 6,554 |
-| 12 | [joffx](https://github.com/joffx) | Joffre Veloz | Ecuador | 6,361 |
-| 13 | [devrchancay](https://github.com/devrchancay) | Ramón Chancay Ortega  | Ecuador, Guayaquil | 6,275 |
-| 14 | [raulidavid](https://github.com/raulidavid) | Raúl Flores | Ecuador | 6,081 |
-| 15 | [Johrespi](https://github.com/Johrespi) | Johann Alejandro Ramírez Espinoza | Guayaquil, Ecuador | 6,048 |
-| 16 | [shaskola](https://github.com/shaskola) | Fernando Ruiz | Ecuador | 5,843 |
-| 17 | [astandre](https://github.com/astandre) | André Herrera | Loja, Ecuador | 5,601 |
-| 18 | [somatechlat](https://github.com/somatechlat) | SomaTech - Bringin Artificiall Intelligence closer to Humans  | Quito | 5,138 |
-| 19 | [AndresGnu](https://github.com/AndresGnu) | Andrés Navarrete | Quito, Ecuador | 5,051 |
-| 20 | [chey3002](https://github.com/chey3002) | Carlos Valladarez | Ecuador | 5,036 |
+| 12 | [jorgesolerrr](https://github.com/jorgesolerrr) | Jorge Soler | Guayaquil, Ecuador | 6,539 |
+| 13 | [joffx](https://github.com/joffx) | Joffre Veloz | Ecuador | 6,361 |
+| 14 | [devrchancay](https://github.com/devrchancay) | Ramón Chancay Ortega  | Ecuador, Guayaquil | 6,275 |
+| 15 | [raulidavid](https://github.com/raulidavid) | Raúl Flores | Ecuador | 6,081 |
+| 16 | [Johrespi](https://github.com/Johrespi) | Johann Alejandro Ramírez Espinoza | Guayaquil, Ecuador | 6,048 |
+| 17 | [shaskola](https://github.com/shaskola) | Fernando Ruiz | Ecuador | 5,843 |
+| 18 | [astandre](https://github.com/astandre) | André Herrera | Loja, Ecuador | 5,601 |
+| 19 | [somatechlat](https://github.com/somatechlat) | SomaTech - Bringin Artificiall Intelligence closer to Humans  | Quito | 5,138 |
+| 20 | [AndresGnu](https://github.com/AndresGnu) | Andrés Navarrete | Quito, Ecuador | 5,051 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 4,897
 | 19 | [Davichobits](https://github.com/Davichobits) | David Ruiz | Ecuador | 116 |
 | 20 | [Bryan-Herrera-DEV](https://github.com/Bryan-Herrera-DEV) | Bryan Herrera ~ ርᚱ1ናተᛰ ᚻህᚥተპᚱ | Ecuador | 115 |
 
-Generated: 2026-10-13T23:48:23.123Z
+Generated: 2026-10-14T01:20:10.720Z

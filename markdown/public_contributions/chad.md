@@ -1,6 +1,6 @@
 # Public Contributions - Chad
 
-Generated: 2026-10-13T23:42:24.113Z
+Generated: 2026-10-14T01:16:02.823Z
 
 Users: 201
 
@@ -8,12 +8,12 @@ Users: 201
 |---:|---|---|---|---|---|---:|
 | 1 | [adoumouangnamouemmanuel](https://github.com/adoumouangnamouemmanuel) | Emmanuel Adoum | Ashesi University | emmanueladoum | Chad | 1232 |
 | 2 | [Newton92](https://github.com/Newton92) | PELBA JEREMIE NGOURMISSALA | ACREMAC \| Informastre | baa_pel | TCHAD | 680 |
-| 3 | [Sanusihassan](https://github.com/Sanusihassan) | Sanusi Hassan |  |  | Chad | 452 |
+| 3 | [Sanusihassan](https://github.com/Sanusihassan) | Sanusi Hassan |  |  | Chad | 451 |
 | 4 | [Helionux](https://github.com/Helionux) | Deoule-Allah Madjitoloum Heliodore |  |  | Tchad | 243 |
 | 5 | [TomkerDev](https://github.com/TomkerDev) | TOMTE Hassane | DemarcheursIT |  | Ndjamena, Tchad | 241 |
 | 6 | [black-hatn](https://github.com/black-hatn) | Nourr |  |  | Tchad | 189 |
 | 7 | [AliAttyallahAli](https://github.com/AliAttyallahAli) | Ali Attyallah Ali | Djamamariwo |  | Ndjaména/Tchad | 179 |
-| 8 | [Djerade](https://github.com/Djerade) | Djeradé Golbé Parfait |  |  | Chad | 162 |
+| 8 | [Djerade](https://github.com/Djerade) | Djeradé Golbé Parfait |  |  | Chad | 164 |
 | 9 | [Solid2017](https://github.com/Solid2017) | Betan Gildas Ongbaye | Igotech |  | Chad | 155 |
 | 10 | [sulzokeboulin](https://github.com/sulzokeboulin) | Norma Brown |  |  | West Joshuaburgh, Chad | 135 |
 | 11 | [Mbaigo](https://github.com/Mbaigo) | Evrard | THTC |  | N'Djamena | 119 |

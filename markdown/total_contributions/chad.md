@@ -1,13 +1,13 @@
 # Total Contributions - Chad
 
-Generated: 2026-10-13T23:42:24.113Z
+Generated: 2026-10-14T01:16:02.823Z
 
 Users: 201
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [adoumouangnamouemmanuel](https://github.com/adoumouangnamouemmanuel) | Emmanuel Adoum | Ashesi University | emmanueladoum | Chad | 3273 |
-| 2 | [Sanusihassan](https://github.com/Sanusihassan) | Sanusi Hassan |  |  | Chad | 2398 |
+| 2 | [Sanusihassan](https://github.com/Sanusihassan) | Sanusi Hassan |  |  | Chad | 2405 |
 | 3 | [Newton92](https://github.com/Newton92) | PELBA JEREMIE NGOURMISSALA | ACREMAC \| Informastre | baa_pel | TCHAD | 680 |
 | 4 | [Helionux](https://github.com/Helionux) | Deoule-Allah Madjitoloum Heliodore |  |  | Tchad | 624 |
 | 5 | [cherifissa](https://github.com/cherifissa) | Mahamt cherif issa | TchadiCash | MahamatCherifI4 | TCHAD | 540 |
@@ -16,7 +16,7 @@ Users: 201
 | 8 | [TomkerDev](https://github.com/TomkerDev) | TOMTE Hassane | DemarcheursIT |  | Ndjamena, Tchad | 241 |
 | 9 | [black-hatn](https://github.com/black-hatn) | Nourr |  |  | Tchad | 189 |
 | 10 | [AliAttyallahAli](https://github.com/AliAttyallahAli) | Ali Attyallah Ali | Djamamariwo |  | Ndjaména/Tchad | 179 |
-| 11 | [Djerade](https://github.com/Djerade) | Djeradé Golbé Parfait |  |  | Chad | 162 |
+| 11 | [Djerade](https://github.com/Djerade) | Djeradé Golbé Parfait |  |  | Chad | 164 |
 | 12 | [Solid2017](https://github.com/Solid2017) | Betan Gildas Ongbaye | Igotech |  | Chad | 155 |
 | 13 | [sulzokeboulin](https://github.com/sulzokeboulin) | Norma Brown |  |  | West Joshuaburgh, Chad | 135 |
 | 14 | [Abdelkerim516](https://github.com/Abdelkerim516) | ABDEL_ABBO | AbboTech |  | N'djamena | 122 |

@@ -1,6 +1,6 @@
 # Followers - Guadeloupe
 
-Generated: 2026-10-13T23:56:06.886Z
+Generated: 2026-10-14T01:28:57.863Z
 
 Users: 86
 
@@ -9,7 +9,7 @@ Users: 86
 | 1 | [iamcryptoki](https://github.com/iamcryptoki) | Gael Gentil | @ionis-education-group |  | Guadeloupe | 140 |
 | 2 | [liobrasil](https://github.com/liobrasil) | Lionel LIMOL | Blockchain Xpert Solutions | lionel_limol | Guadeloupe | 74 |
 | 3 | [D0wzy](https://github.com/D0wzy) | 0x656e7a6f |  |  | Guadeloupe | 50 |
-| 4 | [khalil-tabbal](https://github.com/khalil-tabbal) | Khalil TABBAL | Gwadaweb | rubatdub | Guadeloupe | 38 |
+| 4 | [khalil-tabbal](https://github.com/khalil-tabbal) | Khalil TABBAL | Gwadaweb | rubatdub | Guadeloupe | 39 |
 | 5 | [WebmonsterA](https://github.com/WebmonsterA) | Webmonster Antilles | Webmonster |  | Martinique, Guadeloupe | 25 |
 | 6 | [sarinkhan](https://github.com/sarinkhan) | Audrey Robinel |  | arobinel | Guadeloupe | 18 |
 | 7 | [BLVCK971](https://github.com/BLVCK971) | Yoel Pépin |  |  | Le Moule, GUADELOUPE | 17 |

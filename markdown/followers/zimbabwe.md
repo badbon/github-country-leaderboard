@@ -1,8 +1,8 @@
 # Followers - Zimbabwe
 
-Generated: 2026-10-13T23:23:36.132Z
+Generated: 2026-10-14T00:57:22.164Z
 
-Users: 1655
+Users: 1654
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -22,7 +22,7 @@ Users: 1655
 | 14 | [Elisvobs](https://github.com/Elisvobs) | Elias Svoba | @Infixus | Elisvobs | Harare, Zimbabwe | 151 |
 | 15 | [michaeldera](https://github.com/michaeldera) | Michael |  |  | Bulawayo, Zimbabwe  | 128 |
 | 16 | [zinyando](https://github.com/zinyando) | Lennex Zinyando | Izwi AI | zinyando | Harare, Zimbabwe | 123 |
-| 17 | [kaysiz](https://github.com/kaysiz) | kudakwashe siziva | @Kodebase-za  | Brysiz | Zimbabwe | 122 |
-| 18 | [musungare-tanaka](https://github.com/musungare-tanaka) | Tanaka Musungare Wonder  |  |  | Harare | 116 |
-| 19 | [Ju99ernaut](https://github.com/Ju99ernaut) | Brendon Ngirazi |  | Ju99ern4ut | Zimbabwe | 111 |
-| 20 | [zim-bot](https://github.com/zim-bot) | DRIPS MEMES BLENNIE BLESSED TUNA | Zim-bot | Aizimbot | Zimbabwe | 110 |
+| 17 | [musungare-tanaka](https://github.com/musungare-tanaka) | Tanaka Musungare Wonder  |  |  | Harare | 116 |
+| 18 | [Ju99ernaut](https://github.com/Ju99ernaut) | Brendon Ngirazi |  | Ju99ern4ut | Zimbabwe | 111 |
+| 19 | [zim-bot](https://github.com/zim-bot) | DRIPS MEMES BLENNIE BLESSED TUNA | Zim-bot | Aizimbot | Zimbabwe | 110 |
+| 20 | [KudakwasheM](https://github.com/KudakwasheM) | Kudakwashe Masaya | Zimbabwe Revenue Authority |  | Harare | 105 |

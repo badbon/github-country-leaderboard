@@ -20,8 +20,8 @@ Indexed users: 236
 | 6 | [yannyhl](https://github.com/yannyhl) | yg | nassau | 2,039 |
 | 7 | [TajhSeymour](https://github.com/TajhSeymour) | Tajh Seymour | New Providence, Bahamas | 1,536 |
 | 8 | [janajmccardy](https://github.com/janajmccardy) | Jana JM | Nassau, The Bahamas | 1,464 |
-| 9 | [justnardo](https://github.com/justnardo) | Just_Nardo | Bahamas | 1,374 |
-| 10 | [jsphpndr](https://github.com/jsphpndr) | Joseph Pinder | Bahamas | 1,204 |
+| 9 | [justnardo](https://github.com/justnardo) | Just_Nardo | Bahamas | 1,392 |
+| 10 | [jsphpndr](https://github.com/jsphpndr) | Joseph Pinder | Bahamas | 1,222 |
 | 11 | [TRL242](https://github.com/TRL242) | Roy Lockhart | Victoria, BC and Freeport, Bahamas | 1,110 |
 | 12 | [Tec4Sho](https://github.com/Tec4Sho) | Ziona | Nassau, Bahamas  | 935 |
 | 13 | [Johndiddles](https://github.com/Johndiddles) | Johndiddles | Nassau, Bahamas | 803 |
@@ -45,10 +45,10 @@ Indexed users: 236
 | 6 | [dorson755](https://github.com/dorson755) | Dorson Williams | Nassau Bahamas | 131 |
 | 7 | [gtsbahamas](https://github.com/gtsbahamas) | Ty Wells | Nassau, Bahamas | 117 |
 | 8 | [Johndiddles](https://github.com/Johndiddles) | Johndiddles | Nassau, Bahamas | 111 |
-| 9 | [SamSepiol266](https://github.com/SamSepiol266) | Sam Sepiol | Nassau, Bahamas | 95 |
-| 10 | [Ernestforbes12](https://github.com/Ernestforbes12) | Ernest Forbes Jr | Bahamas  | 92 |
-| 11 | [Jace-Mc](https://github.com/Jace-Mc) | Jacon11 | New Providence, Bahamas | 89 |
-| 12 | [jsphpndr](https://github.com/jsphpndr) | Joseph Pinder | Bahamas | 78 |
+| 9 | [jsphpndr](https://github.com/jsphpndr) | Joseph Pinder | Bahamas | 96 |
+| 10 | [SamSepiol266](https://github.com/SamSepiol266) | Sam Sepiol | Nassau, Bahamas | 95 |
+| 11 | [Ernestforbes12](https://github.com/Ernestforbes12) | Ernest Forbes Jr | Bahamas  | 92 |
+| 12 | [Jace-Mc](https://github.com/Jace-Mc) | Jacon11 | New Providence, Bahamas | 89 |
 | 13 | [bryanherger](https://github.com/bryanherger) | Bryan Herger | South Shore of Nassau County, NY | 62 |
 | 14 | [TerryJG](https://github.com/TerryJG) | Terrance | Nassau, Bahamas | 59 |
 | 15 | [GustavoHRX](https://github.com/GustavoHRX) | Gustavo Rodrigues | Bahamas | 58 |
@@ -83,4 +83,4 @@ Indexed users: 236
 | 19 | [paulcitarella](https://github.com/paulcitarella) | Paul Citarella | George Town, Bahamas | 15 |
 | 20 | [yemix](https://github.com/yemix) |  | Bahamas | 14 |
 
-Generated: 2026-10-13T23:30:49.422Z
+Generated: 2026-10-14T01:04:59.733Z

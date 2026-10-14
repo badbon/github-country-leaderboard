@@ -1,6 +1,6 @@
 # Public Contributions - Croatia
 
-Generated: 2026-10-13T23:44:21.200Z
+Generated: 2026-10-14T01:16:53.451Z
 
 Users: 5436
 
@@ -11,7 +11,7 @@ Users: 5436
 | 3 | [AleksandarDev](https://github.com/AleksandarDev) | Aleksandar Toplek | https://enterwell.net | AleksandarDev | Zagreb, Croatia | 8073 |
 | 4 | [ivanmeler](https://github.com/ivanmeler) | Ivan Meler | Meler Media Group | ivan_meler | Croatia, Vukovar | 7359 |
 | 5 | [nibzard](https://github.com/nibzard) | Nikola Balic | @disequi | nibzard | Split, Croatia | 5346 |
-| 6 | [vladmandic](https://github.com/vladmandic) | Vladimir Mandic |  | vmandic00 | Miami, Florida / Rijeka, Croatia | 5038 |
+| 6 | [vladmandic](https://github.com/vladmandic) | Vladimir Mandic |  | vmandic00 | Miami, Florida / Rijeka, Croatia | 4846 |
 | 7 | [ivicac](https://github.com/ivicac) | Ivica Čardić | Liferay Inc. |  | Zagreb | 4748 |
 | 8 | [SirBepy](https://github.com/SirBepy) | Josip Muzic | Proxify |  | Zagreb, Croatia | 4479 |
 | 9 | [VlahoZrinski](https://github.com/VlahoZrinski) | Vlaho Zrinski | Nastava |  | Croatia | 4225 |

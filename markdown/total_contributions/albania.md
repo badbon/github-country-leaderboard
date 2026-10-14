@@ -1,6 +1,6 @@
 # Total Contributions - Albania
 
-Generated: 2026-10-13T23:25:23.292Z
+Generated: 2026-10-14T00:58:34.621Z
 
 Users: 1184
 
@@ -12,8 +12,8 @@ Users: 1184
 | 4 | [alban-hh](https://github.com/alban-hh) | Alban Shermadhi | Abissnet Sha |  | Albania | 8598 |
 | 5 | [Jorgo55](https://github.com/Jorgo55) | Jorgo Bardho |  |  | Albania, Tirana | 8238 |
 | 6 | [kevingabeci](https://github.com/kevingabeci) | Kevin Gabeci | Apatero | gabeciii | Tirana | 7090 |
-| 7 | [geridev12](https://github.com/geridev12) | Gerald Nuraj |  |  | Tirana, Albania | 6533 |
-| 8 | [somethim](https://github.com/somethim) | Arbi Kullakshi | @zennit-dev | arbi_kullakshi | Tirana, Albania | 6294 |
+| 7 | [somethim](https://github.com/somethim) | Arbi Kullakshi | @zennit-dev | arbi_kullakshi | Tirana, Albania | 6693 |
+| 8 | [geridev12](https://github.com/geridev12) | Gerald Nuraj |  |  | Tirana, Albania | 6533 |
 | 9 | [orges](https://github.com/orges) | orges |  |  | Albania | 6225 |
 | 10 | [bledar](https://github.com/bledar) | Bledar Haxhia | MarineDataCloud |  | Albania | 6029 |
 | 11 | [arkellahi82-tech](https://github.com/arkellahi82-tech) | Arkel Lahi | FiltonHayes |  | Tirana, Albania | 5794 |

@@ -1,6 +1,6 @@
 # Total Contributions - Tanzania
 
-Generated: 2026-10-13T23:15:07.750Z
+Generated: 2026-10-14T00:48:35.104Z
 
 Users: 2041
 
@@ -18,11 +18,11 @@ Users: 2041
 | 10 | [tarxemo](https://github.com/tarxemo) | TarXemo | TarXemo |  | Dodoma-Tanzania | 12163 |
 | 11 | [pro-cms](https://github.com/pro-cms) | Novath Thomas | Zepson Technologies |  | TANZANIA | 10825 |
 | 12 | [TheCollinsByte](https://github.com/TheCollinsByte) | Collins | @KwaWingu | TheCollinsByte | Arusha, Tanzania | 10759 |
-| 13 | [islandkid-20](https://github.com/islandkid-20) | James Mashaka | @appziro  |  | Dar Es Salaam,Tanzania | 8739 |
-| 14 | [troubleman96](https://github.com/troubleman96) | Lugenge Emmanuel | Camel Creatives |  | Dar es Salaam ,Tanzania | 8023 |
-| 15 | [Jerubaalking](https://github.com/Jerubaalking) | Gideon Sainyeye | SainCraft Technologies |  | Arusha, Tanzania | 7939 |
-| 16 | [elishagerson](https://github.com/elishagerson) | Elisha Gerson |  |  | Mbeya, Tanzania | 7797 |
-| 17 | [Bulalu](https://github.com/Bulalu) |  |  | elisha_bulalu | Dar-es-Salaam,Tanzania | 7623 |
-| 18 | [victorjudysen](https://github.com/victorjudysen) | Victor Kweka | ThisUncle Technologies |  | Dodoma, Tanzania | 7534 |
-| 19 | [alobit21](https://github.com/alobit21) | Aloyce Mtavangu | Tarxemo Software Company  |  | Dodoma-Tanzania | 7408 |
-| 20 | [cygon23](https://github.com/cygon23) | cygon |  |  | Tanzania | 6717 |
+| 13 | [fredygerman](https://github.com/fredygerman) | Fredy Mgimba | Credable | fredygerman_ | Tanzania | 9059 |
+| 14 | [islandkid-20](https://github.com/islandkid-20) | James Mashaka | @appziro  |  | Dar Es Salaam,Tanzania | 8739 |
+| 15 | [troubleman96](https://github.com/troubleman96) | Lugenge Emmanuel | Camel Creatives |  | Dar es Salaam ,Tanzania | 8023 |
+| 16 | [Jerubaalking](https://github.com/Jerubaalking) | Gideon Sainyeye | SainCraft Technologies |  | Arusha, Tanzania | 7939 |
+| 17 | [elishagerson](https://github.com/elishagerson) | Elisha Gerson |  |  | Mbeya, Tanzania | 7797 |
+| 18 | [Bulalu](https://github.com/Bulalu) |  |  | elisha_bulalu | Dar-es-Salaam,Tanzania | 7623 |
+| 19 | [victorjudysen](https://github.com/victorjudysen) | Victor Kweka | ThisUncle Technologies |  | Dodoma, Tanzania | 7534 |
+| 20 | [alobit21](https://github.com/alobit21) | Aloyce Mtavangu | Tarxemo Software Company  |  | Dodoma-Tanzania | 7408 |
