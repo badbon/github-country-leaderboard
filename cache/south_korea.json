@@ -22938,7 +22938,7 @@
     "location": "Seoul, South Korea",
     "company": "SuperCent",
     "twitterUsername": "",
-    "followers": 26,
+    "followers": 27,
     "privateContributions": 5,
     "publicContributions": 7,
     "createdAt": "2024-04-03T00:40:41Z"
@@ -22946,13 +22946,13 @@
   {
     "login": "HansDavidKim",
     "name": "DaewonKim",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/192882142?s=72&u=cdaf268bdf9cab604049deb1d345caad6efa7281&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/192882142?s=72&v=4",
     "location": "Seoul, South Korea",
     "company": "Sogang University",
     "twitterUsername": "",
-    "followers": 26,
+    "followers": 25,
     "privateContributions": 0,
-    "publicContributions": 175,
+    "publicContributions": 156,
     "createdAt": "2024-12-26T12:26:46Z"
   },
   {
@@ -22962,9 +22962,9 @@
     "location": "Seoul, South Korea",
     "company": "Kookmin University",
     "twitterUsername": "",
-    "followers": 25,
+    "followers": 26,
     "privateContributions": 0,
-    "publicContributions": 221,
+    "publicContributions": 223,
     "createdAt": "2024-05-22T06:37:25Z"
   },
   {
@@ -22976,31 +22976,19 @@
     "twitterUsername": "",
     "followers": 23,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 0,
     "createdAt": "2024-01-07T07:03:40Z"
-  },
-  {
-    "login": "electrohyun",
-    "name": "Gihyeon Jeong / 정기현",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/189319565?s=72&u=d6103f8acd1e38aaea4005342b3d2dffc7e056a7&v=4",
-    "location": "South Korea",
-    "company": "Induk Univ.",
-    "twitterUsername": "",
-    "followers": 22,
-    "privateContributions": 187,
-    "publicContributions": 3220,
-    "createdAt": "2024-11-22T05:31:17Z"
   },
   {
     "login": "8parks",
     "name": "Siwon Park",
     "avatarUrl": "https://avatars.githubusercontent.com/u/157610574?s=72&u=e154a679542862184ef576ba46755349b06190b0&v=4",
     "location": "Seoul, South Korea",
-    "company": "Other",
+    "company": "Ewha Womans University",
     "twitterUsername": "",
     "followers": 22,
-    "privateContributions": 99,
-    "publicContributions": 267,
+    "privateContributions": 95,
+    "publicContributions": 246,
     "createdAt": "2024-01-24T13:55:12Z"
   },
   {
@@ -23022,9 +23010,9 @@
     "location": "Incheon, South Korea",
     "company": "",
     "twitterUsername": "",
-    "followers": 22,
+    "followers": 26,
     "privateContributions": 0,
-    "publicContributions": 418,
+    "publicContributions": 476,
     "createdAt": "2023-12-31T13:54:54Z"
   },
   {
@@ -23034,9 +23022,9 @@
     "location": "Seoul, South Korea",
     "company": "",
     "twitterUsername": "",
-    "followers": 21,
+    "followers": 22,
     "privateContributions": 0,
-    "publicContributions": 640,
+    "publicContributions": 570,
     "createdAt": "2024-03-23T16:14:42Z"
   },
   {
@@ -23059,20 +23047,20 @@
     "company": "Sookmyung Women's University",
     "twitterUsername": "",
     "followers": 21,
-    "privateContributions": 251,
-    "publicContributions": 597,
+    "privateContributions": 83,
+    "publicContributions": 642,
     "createdAt": "2024-06-16T11:31:49Z"
   },
   {
     "login": "HwangRock",
     "name": "HwangRock",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/157935545?s=72&u=4119763922ebe6dd297c5167cf312bfe36dba450&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/157935545?s=72&u=a698ff895473a2e42866befd0419ba65e2b7c1d4&v=4",
     "location": "South Korea",
     "company": "",
     "twitterUsername": "",
-    "followers": 21,
+    "followers": 23,
     "privateContributions": 0,
-    "publicContributions": 459,
+    "publicContributions": 306,
     "createdAt": "2024-01-28T02:42:05Z"
   },
   {
@@ -23094,9 +23082,9 @@
     "location": "Bundang, South Korea",
     "company": "",
     "twitterUsername": "",
-    "followers": 20,
+    "followers": 27,
     "privateContributions": 0,
-    "publicContributions": 103,
+    "publicContributions": 123,
     "createdAt": "2024-06-28T08:57:00Z"
   },
   {
@@ -23107,8 +23095,8 @@
     "company": "삼성 SW·AI 아카데미(SSAFY) 12기",
     "twitterUsername": "",
     "followers": 20,
-    "privateContributions": 189,
-    "publicContributions": 3,
+    "privateContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2024-09-05T01:22:00Z"
   },
   {
@@ -23118,9 +23106,9 @@
     "location": "South Korea",
     "company": "",
     "twitterUsername": "",
-    "followers": 20,
-    "privateContributions": 160,
-    "publicContributions": 167,
+    "followers": 21,
+    "privateContributions": 138,
+    "publicContributions": 159,
     "createdAt": "2024-06-19T18:37:56Z"
   },
   {
@@ -23130,9 +23118,9 @@
     "location": "Giheung-gu, South Korea",
     "company": "",
     "twitterUsername": "",
-    "followers": 20,
+    "followers": 21,
     "privateContributions": 0,
-    "publicContributions": 1464,
+    "publicContributions": 1814,
     "createdAt": "2024-05-14T12:00:56Z"
   },
   {
@@ -23142,9 +23130,9 @@
     "location": "Seoul, South Korea",
     "company": "",
     "twitterUsername": "",
-    "followers": 19,
+    "followers": 21,
     "privateContributions": 29,
-    "publicContributions": 861,
+    "publicContributions": 901,
     "createdAt": "2024-03-19T12:13:50Z"
   },
   {
@@ -23154,9 +23142,9 @@
     "location": "Daejeon, South Korea",
     "company": "Konyang University",
     "twitterUsername": "",
-    "followers": 19,
+    "followers": 22,
     "privateContributions": 0,
-    "publicContributions": 113,
+    "publicContributions": 124,
     "createdAt": "2024-05-30T05:13:29Z"
   },
   {
@@ -23164,11 +23152,11 @@
     "name": "Sobirjonov Boburbek",
     "avatarUrl": "https://avatars.githubusercontent.com/u/180270880?s=72&u=337b0a85dd545c1a5179b4d87aafe9fa3018efe4&v=4",
     "location": "South Korea, Gwangju",
-    "company": "none",
+    "company": "open to work",
     "twitterUsername": "",
-    "followers": 19,
+    "followers": 16,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 30,
     "createdAt": "2024-09-03T08:40:47Z"
   },
   {
