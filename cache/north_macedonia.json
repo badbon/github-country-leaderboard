@@ -259,8 +259,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 99,
-    "publicContributions": 349,
+    "privateContributions": 144,
+    "publicContributions": 362,
     "createdAt": "2025-04-14T19:48:05Z"
   },
   {
@@ -284,7 +284,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 29,
     "createdAt": "2025-02-12T09:27:29Z"
   },
   {
@@ -380,7 +380,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 172,
+    "publicContributions": 175,
     "createdAt": "2025-09-20T14:01:26Z"
   },
   {
@@ -392,19 +392,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 21,
     "createdAt": "2025-06-21T14:51:42Z"
   },
   {
     "login": "petrovmarko",
     "name": "Marko Petrov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/213198602?s=72&u=d0ebbb2c6dfa7ee5f2f31a6fe9bf4d49722ec657&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/213198602?s=72&u=fd88aef9552f31ec998ec23a4b840647d9d2de3c&v=4",
     "location": "Skopje, North Macedonia",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 46,
-    "publicContributions": 179,
+    "followers": 3,
+    "privateContributions": 31,
+    "publicContributions": 205,
     "createdAt": "2025-05-24T13:51:21Z"
   },
   {
@@ -439,7 +439,7 @@
     "company": "TheBrightBox",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 505,
+    "privateContributions": 518,
     "publicContributions": 1,
     "createdAt": "2025-01-10T11:40:10Z"
   },

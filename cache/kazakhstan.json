@@ -22880,7 +22880,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 4,
     "createdAt": "2022-11-10T17:26:02Z"
   },
   {
@@ -22904,7 +22904,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 7,
     "createdAt": "2022-11-22T07:11:52Z"
   },
   {
@@ -22945,14 +22945,14 @@
   },
   {
     "login": "din-tezekbayev",
-    "name": "Dinmukhamed",
+    "name": "Dinmukhamed Tezekbayev",
     "avatarUrl": "https://avatars.githubusercontent.com/u/112793408?s=72&u=4b5f45b84d06a69f45fc9b50844f8e94dbf9e841&v=4",
-    "location": "Astana",
-    "company": "",
+    "location": "Astana, Kazakhstan",
+    "company": "SFCD / Foam Agency",
     "twitterUsername": "dinTezekbayev",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 6,
+    "followers": 2,
+    "privateContributions": 1280,
+    "publicContributions": 93,
     "createdAt": "2022-09-04T04:54:41Z"
   },
   {
@@ -22964,7 +22964,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 89,
+    "publicContributions": 110,
     "createdAt": "2022-08-29T17:05:08Z"
   },
   {
@@ -22976,7 +22976,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 8,
     "createdAt": "2022-10-11T11:40:55Z"
   },
   {
@@ -22988,7 +22988,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 838,
     "createdAt": "2022-09-09T19:49:01Z"
   },
   {
@@ -23012,7 +23012,7 @@
     "twitterUsername": "diasceo",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 90,
+    "publicContributions": 82,
     "createdAt": "2022-07-16T20:37:24Z"
   },
   {
@@ -23022,22 +23022,10 @@
     "location": "Kazakhstan, Kostanay",
     "company": "",
     "twitterUsername": "",
-    "followers": 1057,
-    "privateContributions": 837,
-    "publicContributions": 0,
+    "followers": 1054,
+    "privateContributions": 839,
+    "publicContributions": 16,
     "createdAt": "2021-08-21T06:21:05Z"
-  },
-  {
-    "login": "yerdaulet-damir",
-    "name": "Damir Yerdaulet",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/81626048?s=72&u=c15595ca5955eef6759e6cf55d50098b298f31a5&v=4",
-    "location": "Astana, Kazakhstan",
-    "company": "",
-    "twitterUsername": "aimyerdaulet",
-    "followers": 631,
-    "privateContributions": 2675,
-    "publicContributions": 267,
-    "createdAt": "2021-03-30T11:44:39Z"
   },
   {
     "login": "Sh3lldon",
@@ -23046,9 +23034,9 @@
     "location": "Kazakhstan",
     "company": "",
     "twitterUsername": "Sh3lld0n",
-    "followers": 281,
+    "followers": 284,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 2,
     "createdAt": "2021-02-12T06:51:25Z"
   },
   {
@@ -23058,22 +23046,10 @@
     "location": "Astana, Kazakhstan",
     "company": "",
     "twitterUsername": "TZhanatbek",
-    "followers": 102,
+    "followers": 103,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-06-30T07:22:57Z"
-  },
-  {
-    "login": "JustSeme",
-    "name": "Semyon",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/81112954?s=72&u=e3a8cf40662be559eb1d9f157a446cbc8cd729d6&v=4",
-    "location": "Karaganda, Kazakhstan",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 89,
-    "privateContributions": 0,
-    "publicContributions": 52,
-    "createdAt": "2021-03-21T19:48:48Z"
   },
   {
     "login": "DigitalGl",
@@ -23082,7 +23058,7 @@
     "location": "Almaty, Kazakhstan",
     "company": "",
     "twitterUsername": "",
-    "followers": 86,
+    "followers": 87,
     "privateContributions": 0,
     "publicContributions": 13,
     "createdAt": "2021-11-16T10:14:23Z"
@@ -23094,22 +23070,10 @@
     "location": "Kazakhstan",
     "company": "",
     "twitterUsername": "",
-    "followers": 82,
+    "followers": 81,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 10,
     "createdAt": "2021-08-30T05:40:06Z"
-  },
-  {
-    "login": "Nurbek-web",
-    "name": "Taizhanov Nurbek",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/78167331?s=72&u=28bd902a42d4220041ecaf8a3885ab865083012b&v=4",
-    "location": "Shymkent, Kazakhstan",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 71,
-    "privateContributions": 1729,
-    "publicContributions": 209,
-    "createdAt": "2021-01-28T17:15:14Z"
   },
   {
     "login": "Jesewe",

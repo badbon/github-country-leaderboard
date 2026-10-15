@@ -22849,14 +22849,14 @@
   },
   {
     "login": "nedarta",
-    "name": "Nedarta",
+    "name": "Edgars Karlsons",
     "avatarUrl": "https://avatars.githubusercontent.com/u/16962105?s=72&u=fcffba76f84921ec556b5a4fa5b2f3c27c401a2b&v=4",
     "location": "Riga, Latvia",
-    "company": "",
+    "company": "Nedarta",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 5,
-    "publicContributions": 101,
+    "publicContributions": 139,
     "createdAt": "2016-01-29T17:55:00Z"
   },
   {
@@ -22896,18 +22896,6 @@
     "createdAt": "2016-11-02T09:27:37Z"
   },
   {
-    "login": "atis-s",
-    "name": "Atis Sedlenieks",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/22381084?s=72&u=93b44719114e733a1297db6919bdb691c8d067aa&v=4",
-    "location": "Latvia, Riga",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 4,
-    "createdAt": "2016-09-22T21:34:16Z"
-  },
-  {
     "login": "edrzns",
     "name": "Edijs Rozens",
     "avatarUrl": "https://avatars.githubusercontent.com/u/23223089?s=72&u=b231370d51d4fd3d2d978da508da2d524f89c2d0&v=4",
@@ -22915,7 +22903,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 38,
+    "privateContributions": 55,
     "publicContributions": 122,
     "createdAt": "2016-11-02T20:55:59Z"
   },
@@ -22957,7 +22945,7 @@
   },
   {
     "login": "vbarbasins",
-    "name": "Viktor Barbashin",
+    "name": "Viktors Barbašins",
     "avatarUrl": "https://avatars.githubusercontent.com/u/23147889?s=72&u=b9591126e638b4319a12ebd577131c36c4cc6c30&v=4",
     "location": "Latvia",
     "company": "",
@@ -22999,7 +22987,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
+    "privateContributions": 10,
     "publicContributions": 0,
     "createdAt": "2016-08-16T12:41:36Z"
   },
@@ -23011,7 +22999,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
+    "privateContributions": 48,
     "publicContributions": 0,
     "createdAt": "2016-05-11T07:25:26Z"
   },
@@ -23023,8 +23011,8 @@
     "company": "IFC Checker",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 201,
-    "publicContributions": 15,
+    "privateContributions": 378,
+    "publicContributions": 52,
     "createdAt": "2016-07-10T13:46:19Z"
   },
   {
@@ -23035,7 +23023,7 @@
     "company": "@picanova ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 5069,
+    "privateContributions": 6083,
     "publicContributions": 0,
     "createdAt": "2016-05-25T13:25:01Z"
   },
@@ -23059,7 +23047,7 @@
     "company": "Intexsys",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
+    "privateContributions": 18,
     "publicContributions": 0,
     "createdAt": "2016-08-09T10:09:04Z"
   },
