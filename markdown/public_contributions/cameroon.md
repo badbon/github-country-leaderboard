@@ -1,6 +1,6 @@
 # Public Contributions - Cameroon
 
-Generated: 2026-10-15T16:51:32.368Z
+Generated: 2026-10-15T19:06:00.347Z
 
 Users: 1799
 
@@ -18,8 +18,8 @@ Users: 1799
 | 10 | [Kynmmarshall](https://github.com/Kynmmarshall) | Kamdeu Yamdjeuson Neil Marshall |  | kynmmarshall | Cameroon | 1824 |
 | 11 | [freddychoudja](https://github.com/freddychoudja) | Freddy Choudja |  |  | Cameroon | 1809 |
 | 12 | [Kanjo-Elkamira-Ndi](https://github.com/Kanjo-Elkamira-Ndi) | Alchemy Codes | DigiMark Consulting & Revive | kanjo_elkamira | Yaoundé Cameroon | 1715 |
-| 13 | [Arielpetit](https://github.com/Arielpetit) | arielpetit | @adorsys |  | cameroon | 1621 |
-| 14 | [Josiasange37](https://github.com/Josiasange37) | AKANA SIGNING JOSIAS AARON | Xyber CLan | AlmightJosias | Cameroon | 1591 |
+| 13 | [Josiasange37](https://github.com/Josiasange37) | AKANA SIGNING JOSIAS AARON | Xyber CLan | AlmightJosias | Cameroon | 1635 |
+| 14 | [Arielpetit](https://github.com/Arielpetit) | arielpetit | @adorsys |  | cameroon | 1621 |
 | 15 | [Allmight2002](https://github.com/Allmight2002) | Raymond Mbassi |  |  | Cameroon | 1484 |
 | 16 | [pythonbrad](https://github.com/pythonbrad) | Brady Fomegne | @fodydev | pythonbrad | Douala, Cameroon | 1448 |
 | 17 | [Hermann-Core](https://github.com/Hermann-Core) | Hermann Core | SkyEngPro/Adorsys | Dr_Itachii | Cameroon | 1447 |

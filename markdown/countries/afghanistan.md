@@ -52,7 +52,7 @@ Indexed users: 1,487
 | 13 | [MohammadNasirAriaee](https://github.com/MohammadNasirAriaee) | Mohammad Nasir Ariaee | Kabul, Afghanistan | 1,398 |
 | 14 | [sulaimanQasimi](https://github.com/sulaimanQasimi) | Sulaiman Qasimi | Kabul, Afghanistan | 1,318 |
 | 15 | [elyasdehati](https://github.com/elyasdehati) | Elyas Dehati | Kabul, Afghanistan | 1,261 |
-| 16 | [Jamalludeen](https://github.com/Jamalludeen) | Jamalludeen Karimi | Kabul, Afghanistan | 1,181 |
+| 16 | [Jamalludeen](https://github.com/Jamalludeen) | Jamalludeen Karimi | Kabul, Afghanistan | 1,214 |
 | 17 | [Munib03](https://github.com/Munib03) | Hedayatullah Yamin | Afghanistan | 1,083 |
 | 18 | [nasir-ehsan-83](https://github.com/nasir-ehsan-83) | Nasir Ahmad Ehsan | Herat, Afghanistan | 1,078 |
 | 19 | [Mahdi-Hasanzadeh](https://github.com/Mahdi-Hasanzadeh) | Mahdi Hasanzadeh | Afghanistan,Herat | 1,062 |
@@ -83,4 +83,4 @@ Indexed users: 1,487
 | 19 | [zainabturkmen](https://github.com/zainabturkmen) | Zainab Turkmen | Kabul  | 125 |
 | 20 | [NaveedAhmadHematmal](https://github.com/NaveedAhmadHematmal) | Naveed Ahmad Hematmal | Afghanistan | 117 |
 
-Generated: 2026-10-15T16:39:15.188Z
+Generated: 2026-10-15T18:53:05.105Z

@@ -64,7 +64,7 @@ Indexed users: 2,041
 |---:|---|---|---|---:|
 | 1 | [dexflare](https://github.com/dexflare) | Dexflare Network | Tanzania | 2,492 |
 | 2 | [nyenza](https://github.com/nyenza) | Agrey Nyenza | Iringa, Tanzania | 1,479 |
-| 3 | [lykmapipo](https://github.com/lykmapipo) | lally elias | Dar es salaam, Tanzania | 1,119 |
+| 3 | [lykmapipo](https://github.com/lykmapipo) | lally elias | Dar es salaam, Tanzania | 1,118 |
 | 4 | [karimshaban01](https://github.com/karimshaban01) | Karim S. Haruna | ARUSHA, TANZANIA | 1,070 |
 | 5 | [avict18](https://github.com/avict18) | Aaron Vic | Tanzania | 1,025 |
 | 6 | [Kalebu](https://github.com/Kalebu) | Jordan Kalebu | Dar es Salaam , Tanzania | 955 |
@@ -83,4 +83,4 @@ Indexed users: 2,041
 | 19 | [3nock](https://github.com/3nock) | Enock | Dar es Salaam, Tanzania | 188 |
 | 20 | [Mrhanstz](https://github.com/Mrhanstz) | HANSTZ | Africa Dodoma | 179 |
 
-Generated: 2026-10-15T16:31:39.406Z
+Generated: 2026-10-15T18:44:32.338Z

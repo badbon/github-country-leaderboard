@@ -1,6 +1,6 @@
 # Total Contributions - Bolivia
 
-Generated: 2026-10-15T16:48:14.777Z
+Generated: 2026-10-15T19:02:03.513Z
 
 Users: 1784
 
@@ -15,7 +15,7 @@ Users: 1784
 | 7 | [jpfernandezl](https://github.com/jpfernandezl) | Juan Pablo Fernandez |  |  | Bolivia | 6174 |
 | 8 | [stanlee321](https://github.com/stanlee321) | Stanley Salvatierra | deepmicrosystems.com | iamatachyon | Bolivia | 5978 |
 | 9 | [alxmcr](https://github.com/alxmcr) | Alejandro M. Coca |  |  | Bolivia | 5919 |
-| 10 | [nicolenumbergg](https://github.com/nicolenumbergg) | Nicole Numberg |  |  | Santa Cruz, Bolivia | 5704 |
+| 10 | [nicolenumbergg](https://github.com/nicolenumbergg) | Nicole Numberg |  |  | Santa Cruz, Bolivia | 5842 |
 | 11 | [OscarGauss](https://github.com/OscarGauss) | Oscar Gauss Carvajal Yucra |  | oscar_gauss | La Paz, Bolivia | 5452 |
 | 12 | [gitchaell](https://github.com/gitchaell) | Michaell Alavedra | @instrategy | michaellalaved | Santa Cruz de la Sierra, Bolivia | 4922 |
 | 13 | [cesarszv](https://github.com/cesarszv) | Sebastian Zambrana |  |  | Santa Cruz, Bolivia | 4884 |
@@ -25,4 +25,4 @@ Users: 1784
 | 17 | [GonzaloPinell](https://github.com/GonzaloPinell) | Gonzalo Pinell | Solunes Digital |  | La Paz, Bolivia | 4013 |
 | 18 | [Mats2208](https://github.com/Mats2208) | Mateo Andres Soto Gareca |  |  | Santa Cruz, Bolivia  | 3957 |
 | 19 | [ggonzalez94](https://github.com/ggonzalez94) | Gustavo Gonzalez | @Taikoxyz | gusgonzalezs | Santa Cruz de la SIerra, Bolivia | 3746 |
-| 20 | [Aliaga23](https://github.com/Aliaga23) | Arturo Aliaga | FinUp |  | Santa Cruz, Bolivia | 3029 |
+| 20 | [Aliaga23](https://github.com/Aliaga23) | Arturo Aliaga |  |  | Santa Cruz, Bolivia | 3403 |

@@ -47,8 +47,8 @@ Indexed users: 29,158
 | 8 | [uno0uno](https://github.com/uno0uno) | Uno0uno | Bogotá, Colombia | 5,888 |
 | 9 | [lordmacu](https://github.com/lordmacu) | Crsitian Camilo Garcia | bogota Colombia | 5,785 |
 | 10 | [broomva](https://github.com/broomva) | Carlos D. Escobar-Valbuena | Colombia | 5,198 |
-| 11 | [eduardotp77](https://github.com/eduardotp77) | Eduardo Tobacia | Bucaramanga, Santander, Colombia | 4,638 |
-| 12 | [DevJuan001](https://github.com/DevJuan001) | Juan | Bogotá, Colombia | 4,559 |
+| 11 | [DevJuan001](https://github.com/DevJuan001) | Juan | Bogotá, Colombia | 4,906 |
+| 12 | [eduardotp77](https://github.com/eduardotp77) | Eduardo Tobacia | Bucaramanga, Santander, Colombia | 4,638 |
 | 13 | [Chpmunk31456](https://github.com/Chpmunk31456) | Al Leiva | Chía, Cundinamarca, Colombia | 4,330 |
 | 14 | [rmunate](https://github.com/rmunate) | Raúl Mauricio Uñate Castro | Colombia | 4,264 |
 | 15 | [hulkike](https://github.com/hulkike) | Hernando Enrique Moreno Moreno | Colombia, Bogotá | 4,226 |
@@ -83,4 +83,4 @@ Indexed users: 29,158
 | 19 | [goanpeca](https://github.com/goanpeca) | Gonzalo Peña-Castellanos | Bogotá, Colombia | 530 |
 | 20 | [jdvelasq](https://github.com/jdvelasq) | Juan David Velásquez-Henao | Medellín, Colombia | 529 |
 
-Generated: 2026-10-15T16:55:17.544Z
+Generated: 2026-10-15T19:08:05.762Z

@@ -1,8 +1,8 @@
 # Followers - Tajikistan
 
-Generated: 2026-10-15T16:31:01.808Z
+Generated: 2026-10-15T18:44:26.391Z
 
-Users: 710
+Users: 709
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -16,9 +16,9 @@ Users: 710
 | 8 | [Abubakr7](https://github.com/Abubakr7) | Abubakr Juraev | Oriyonbonk |  | Dushanbe Tajikistan | 101 |
 | 9 | [khaydarov](https://github.com/khaydarov) | Murod Khaydarov | @codex-team |  | Dushanbe, Tajikistan | 86 |
 | 10 | [AED11](https://github.com/AED11) | Akhmetov Eraj | Home |  | Tajikistan Dushanbe | 80 |
-| 11 | [NurulloSulaymonov](https://github.com/NurulloSulaymonov) | Nurullo Sulaymonov | @Rio-TJ  |  | Tajikistan | 74 |
+| 11 | [NurulloSulaymonov](https://github.com/NurulloSulaymonov) | Nurullo Sulaymonov | @Rio-TJ  |  | Tajikistan | 75 |
 | 12 | [TajievOlimjon](https://github.com/TajievOlimjon) | Olimjon | Rio.tj |  | Tajikistan | 61 |
-| 13 | [awtb](https://github.com/awtb) | Ilyas Qalandarzoda | Hipasus  | awxitxble | Dushanbe, Tajikistan | 58 |
+| 13 | [awtb](https://github.com/awtb) | Ilyas Qalandarzoda | Hipasus  | awxitxble | Dushanbe, Tajikistan | 57 |
 | 14 | [Jacobamv](https://github.com/Jacobamv) | Jacob Akhmedov | HumoLab |  | Dushanbe/Tajikistan | 56 |
 | 15 | [veyxov](https://github.com/veyxov) | Shekhov Ismoil | @LLC-Alif-Technology  |  | Tajikistan | 56 |
 | 16 | [MuhammadiMirzo](https://github.com/MuhammadiMirzo) | Muhammadjon Mirzoev | SoftClub.tj |  | Dushanbe,Tajikistan | 55 |

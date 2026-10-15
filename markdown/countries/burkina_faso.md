@@ -25,7 +25,7 @@ Indexed users: 487
 | 11 | [ArielShadrac](https://github.com/ArielShadrac) | Ouedraogo Fildouindé Ariel Shadrac | Burkina Faso | 2,334 |
 | 12 | [danielschillem](https://github.com/danielschillem) | Daniel Schillem KARAMBIRI | Burkina Faso | 2,276 |
 | 13 | [PANK4SS](https://github.com/PANK4SS) | Pankassi Jean-Louis Rayane BICABA | Burkina Faso | 1,682 |
-| 14 | [mibienpanjoe](https://github.com/mibienpanjoe) | PARE Mibienpan Joseph | Burkina Faso | 1,640 |
+| 14 | [mibienpanjoe](https://github.com/mibienpanjoe) | PARE Mibienpan Joseph | Burkina Faso | 1,659 |
 | 15 | [BoukaryDiallo](https://github.com/BoukaryDiallo) | Boukary DIALLO | Ouagadougou, Burkina Faso | 1,591 |
 | 16 | [Moussier24](https://github.com/Moussier24) | Moussier Cissé | Burkina Faso | 1,581 |
 | 17 | [donnikurosaki](https://github.com/donnikurosaki) | DARA Dieudonné Goumba | Burkina Faso, Ouagadougou | 1,403 |
@@ -75,12 +75,12 @@ Indexed users: 487
 | 11 | [spwoodcock](https://github.com/spwoodcock) | Sam | Ouagadougou, Burkina Faso | 65 |
 | 12 | [Kidchris](https://github.com/Kidchris) | Kidchris | Ouagadougou, Burkina Faso | 64 |
 | 13 | [wendtoinissaka](https://github.com/wendtoinissaka) |  | Ouagadougou, BURKINA FASO 🇧🇫❤️ | 57 |
-| 14 | [Zangafigue](https://github.com/Zangafigue) | Zangafigué Mathias TRAORE | Koudougou, Burkina Faso | 51 |
-| 15 | [leaston](https://github.com/leaston) | Nkuna Charles | Burkina Faso | 50 |
+| 14 | [leaston](https://github.com/leaston) | Nkuna Charles | Burkina Faso | 50 |
+| 15 | [Zangafigue](https://github.com/Zangafigue) | Zangafigué Mathias TRAORE | Koudougou, Burkina Faso | 50 |
 | 16 | [haagrah](https://github.com/haagrah) | IsmaGUIRE | Burkina Faso (Ouagadougou) | 46 |
 | 17 | [ArielShadrac](https://github.com/ArielShadrac) | Ouedraogo Fildouindé Ariel Shadrac | Burkina Faso | 39 |
 | 18 | [Masterchief-07](https://github.com/Masterchief-07) | KIENDREBEOGO JONATHAN | BURKINAFASO/OUAGADOUGOU | 39 |
 | 19 | [sokevinjonas](https://github.com/sokevinjonas) | SO Kevin Jonas Gningnabe | BURKINA FASO | 38 |
 | 20 | [kulturman](https://github.com/kulturman) | Arnaud Bakyono  | Ouagadougou | 37 |
 
-Generated: 2026-10-15T16:49:42.820Z
+Generated: 2026-10-15T19:05:21.177Z

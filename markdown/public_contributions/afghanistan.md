@@ -1,6 +1,6 @@
 # Public Contributions - Afghanistan
 
-Generated: 2026-10-15T16:39:15.188Z
+Generated: 2026-10-15T18:53:05.105Z
 
 Users: 1487
 
@@ -21,7 +21,7 @@ Users: 1487
 | 13 | [MohammadNasirAriaee](https://github.com/MohammadNasirAriaee) | Mohammad Nasir Ariaee | AHSP (Afghanistan High Security Printing) | NasirAriaee | Kabul, Afghanistan | 1398 |
 | 14 | [sulaimanQasimi](https://github.com/sulaimanQasimi) | Sulaiman Qasimi | UNDP |  | Kabul, Afghanistan | 1318 |
 | 15 | [elyasdehati](https://github.com/elyasdehati) | Elyas Dehati | Tawana Technology |  | Kabul, Afghanistan | 1261 |
-| 16 | [Jamalludeen](https://github.com/Jamalludeen) | Jamalludeen Karimi |  |  | Kabul, Afghanistan | 1181 |
+| 16 | [Jamalludeen](https://github.com/Jamalludeen) | Jamalludeen Karimi |  |  | Kabul, Afghanistan | 1214 |
 | 17 | [Munib03](https://github.com/Munib03) | Hedayatullah Yamin |  |  | Afghanistan | 1083 |
 | 18 | [nasir-ehsan-83](https://github.com/nasir-ehsan-83) | Nasir Ahmad Ehsan | Freelancer |  | Herat, Afghanistan | 1078 |
 | 19 | [Mahdi-Hasanzadeh](https://github.com/Mahdi-Hasanzadeh) | Mahdi Hasanzadeh |  |  | Afghanistan,Herat | 1062 |

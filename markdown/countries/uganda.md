@@ -26,9 +26,9 @@ Indexed users: 3,872
 | 12 | [KansiimeKenie](https://github.com/KansiimeKenie) | Kansiime Keneth | kampala, Ug | 7,957 |
 | 13 | [GaspardKirira](https://github.com/GaspardKirira) | G-kirira | Africa / Uganda / Kampala | 7,825 |
 | 14 | [baliksjosay](https://github.com/baliksjosay) | Joseph Balikuddembe | Kampala, uganda | 7,753 |
-| 15 | [BrianPollar](https://github.com/BrianPollar) | Pollar Brian Okello | Kampala, Uganda | 7,556 |
-| 16 | [judeotine](https://github.com/judeotine) | Judeotine | Uganda | 7,440 |
-| 17 | [cosmah](https://github.com/cosmah) | cosmah | kampala, Uganda | 7,177 |
+| 15 | [judeotine](https://github.com/judeotine) | Judeotine | Uganda | 7,440 |
+| 16 | [cosmah](https://github.com/cosmah) | cosmah | kampala, Uganda | 7,177 |
+| 17 | [BrianPollar](https://github.com/BrianPollar) | Pollar Brian Okello | Kampala, Uganda | 6,811 |
 | 18 | [matovu-farid](https://github.com/matovu-farid) | Farid Matovu | Uganda | 6,805 |
 | 19 | [pius22](https://github.com/pius22) | TECH-WORLDINFO | uganda | 6,709 |
 | 20 | [Bravos-hub](https://github.com/Bravos-hub) | BRAVE OLIMI | Bugema  Kampala-Uganda | 6,657 |
@@ -83,4 +83,4 @@ Indexed users: 3,872
 | 19 | [Kitemaggwa-Shafic](https://github.com/Kitemaggwa-Shafic) | Bin Profic | Kampala mengo, Najjanankumbi Ebb rd | 198 |
 | 20 | [kallyas](https://github.com/kallyas) | Iden | Uganda | 190 |
 
-Generated: 2026-10-15T16:35:01.872Z
+Generated: 2026-10-15T18:48:20.926Z

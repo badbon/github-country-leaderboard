@@ -1,6 +1,6 @@
 # Total Contributions - Yemen
 
-Generated: 2026-10-15T16:37:48.466Z
+Generated: 2026-10-15T18:52:46.437Z
 
 Users: 1206
 
@@ -10,7 +10,7 @@ Users: 1206
 | 2 | [YounisDany](https://github.com/YounisDany) | Younis Dany \| يونس ضاعني |  | Yunesdhanei | Yemen | 43101 |
 | 3 | [MrIbrahem](https://github.com/MrIbrahem) | ibrahem Qasim |  | Ibrahem_Qasim | Sana'a  | 28628 |
 | 4 | [Anwar-alhitar](https://github.com/Anwar-alhitar) | Anwar_alhitar  |  |  | Yemen sana'a  | 27911 |
-| 5 | [saqer23](https://github.com/saqer23) | Saqer Aljabri |  | s_jabri23 | Yemen | 11370 |
+| 5 | [saqer23](https://github.com/saqer23) | Saqer Aljabri |  | s_jabri23 | Yemen | 11418 |
 | 6 | [zayedadel](https://github.com/zayedadel) | Zayed Adel Al-Meklahfi |  |  | Yemen , Sana'a | 10034 |
 | 7 | [MokarmDev](https://github.com/MokarmDev) | Mokarm Mohammed | @SmartMindSYSCoder |  | Yemen | 9150 |
 | 8 | [OsamaAlmamri](https://github.com/OsamaAlmamri) | Osama Al-mamari  | Tazamun |  | Sana'a ,Yemen | 8667 |

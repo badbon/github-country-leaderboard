@@ -1,6 +1,6 @@
 # Public Contributions - Colombia
 
-Generated: 2026-10-15T16:55:17.544Z
+Generated: 2026-10-15T19:08:05.762Z
 
 Users: 29158
 
@@ -16,8 +16,8 @@ Users: 29158
 | 8 | [uno0uno](https://github.com/uno0uno) | Uno0uno | Waro Labs \| Waro Colombia |  | Bogotá, Colombia | 5888 |
 | 9 | [lordmacu](https://github.com/lordmacu) | Crsitian Camilo Garcia | cristiangarcia.co |  | bogota Colombia | 5785 |
 | 10 | [broomva](https://github.com/broomva) | Carlos D. Escobar-Valbuena | @GetStimulus | broomva_tech | Colombia | 5198 |
-| 11 | [eduardotp77](https://github.com/eduardotp77) | Eduardo Tobacia | ADAMNETCO | eduardotp77 | Bucaramanga, Santander, Colombia | 4638 |
-| 12 | [DevJuan001](https://github.com/DevJuan001) | Juan |  |  | Bogotá, Colombia | 4559 |
+| 11 | [DevJuan001](https://github.com/DevJuan001) | Juan |  |  | Bogotá, Colombia | 4906 |
+| 12 | [eduardotp77](https://github.com/eduardotp77) | Eduardo Tobacia | ADAMNETCO | eduardotp77 | Bucaramanga, Santander, Colombia | 4638 |
 | 13 | [Chpmunk31456](https://github.com/Chpmunk31456) | Al Leiva |  |  | Chía, Cundinamarca, Colombia | 4330 |
 | 14 | [rmunate](https://github.com/rmunate) | Raúl Mauricio Uñate Castro | Orionis Framework | rmunate | Colombia | 4264 |
 | 15 | [hulkike](https://github.com/hulkike) | Hernando Enrique Moreno Moreno |  |  | Colombia, Bogotá | 4226 |

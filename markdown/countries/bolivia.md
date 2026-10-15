@@ -21,7 +21,7 @@ Indexed users: 1,784
 | 7 | [jpfernandezl](https://github.com/jpfernandezl) | Juan Pablo Fernandez | Bolivia | 6,174 |
 | 8 | [stanlee321](https://github.com/stanlee321) | Stanley Salvatierra | Bolivia | 5,978 |
 | 9 | [alxmcr](https://github.com/alxmcr) | Alejandro M. Coca | Bolivia | 5,919 |
-| 10 | [nicolenumbergg](https://github.com/nicolenumbergg) | Nicole Numberg | Santa Cruz, Bolivia | 5,704 |
+| 10 | [nicolenumbergg](https://github.com/nicolenumbergg) | Nicole Numberg | Santa Cruz, Bolivia | 5,842 |
 | 11 | [OscarGauss](https://github.com/OscarGauss) | Oscar Gauss Carvajal Yucra | La Paz, Bolivia | 5,452 |
 | 12 | [gitchaell](https://github.com/gitchaell) | Michaell Alavedra | Santa Cruz de la Sierra, Bolivia | 4,922 |
 | 13 | [cesarszv](https://github.com/cesarszv) | Sebastian Zambrana | Santa Cruz, Bolivia | 4,884 |
@@ -31,7 +31,7 @@ Indexed users: 1,784
 | 17 | [GonzaloPinell](https://github.com/GonzaloPinell) | Gonzalo Pinell | La Paz, Bolivia | 4,013 |
 | 18 | [Mats2208](https://github.com/Mats2208) | Mateo Andres Soto Gareca | Santa Cruz, Bolivia  | 3,957 |
 | 19 | [ggonzalez94](https://github.com/ggonzalez94) | Gustavo Gonzalez | Santa Cruz de la SIerra, Bolivia | 3,746 |
-| 20 | [Aliaga23](https://github.com/Aliaga23) | Arturo Aliaga | Santa Cruz, Bolivia | 3,029 |
+| 20 | [Aliaga23](https://github.com/Aliaga23) | Arturo Aliaga | Santa Cruz, Bolivia | 3,403 |
 
 ## Public Contributions
 
@@ -69,7 +69,7 @@ Indexed users: 1,784
 | 5 | [Snifer](https://github.com/Snifer) | Snifer | Bolivia | 295 |
 | 6 | [kapit4n](https://github.com/kapit4n) | Luis Arce | Bolivia | 287 |
 | 7 | [SergioRibera](https://github.com/SergioRibera) | Sergio Alejandro Ribera Costa | Santa Cruz de la Sierra, Bolivia | 261 |
-| 8 | [CrisBelDev](https://github.com/CrisBelDev) | Cristian Abel | La Paz, Bolivia | 242 |
+| 8 | [CrisBelDev](https://github.com/CrisBelDev) | Cristian Abel | La Paz, Bolivia | 244 |
 | 9 | [cwpachecol](https://github.com/cwpachecol) | Carlos Walter Pacheco Lora | Sucre - Bolivia | 220 |
 | 10 | [Pericena](https://github.com/Pericena) | Luishiño | Bolivia, Santa Cruz | 197 |
 | 11 | [rivera-ernesto](https://github.com/rivera-ernesto) | Ernesto Rivera | La Paz, Bolivia | 188 |
@@ -83,4 +83,4 @@ Indexed users: 1,784
 | 19 | [alvarosiles11](https://github.com/alvarosiles11) | Alvaro Siles Estrada | Bolivia | 121 |
 | 20 | [mauforonda](https://github.com/mauforonda) | Mau Foronda | Bolivia | 120 |
 
-Generated: 2026-10-15T16:48:14.777Z
+Generated: 2026-10-15T19:02:03.513Z

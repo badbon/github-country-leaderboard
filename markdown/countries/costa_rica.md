@@ -45,18 +45,18 @@ Indexed users: 5,630
 | 6 | [gloriacitizen00-dev](https://github.com/gloriacitizen00-dev) | Gloria Martinez | Costa Rica | 3,704 |
 | 7 | [Matt-Aurora-Ventures](https://github.com/Matt-Aurora-Ventures) | Matt Haynes | Costa Rica | 3,585 |
 | 8 | [aramirez087](https://github.com/aramirez087) | Alexander Ramirez Kiriushenko | Costa Rica | 2,870 |
-| 9 | [morozov](https://github.com/morozov) | Sergei Morozov | San José, CA | 2,590 |
-| 10 | [aleju03](https://github.com/aleju03) | Aleju03 | Costa Rica | 2,572 |
-| 11 | [jonnabio](https://github.com/jonnabio) | Jonathan Herrera | Costa Rica | 2,546 |
-| 12 | [jetm](https://github.com/jetm) | Javier Tia | Costa Rica | 2,464 |
-| 13 | [nestormata](https://github.com/nestormata) | Nestor Mata Cuthbert | Costa Rica | 2,308 |
-| 14 | [lapc506](https://github.com/lapc506) | Andrés Peña | Heredia, Costa Rica | 2,305 |
-| 15 | [kfonsecah](https://github.com/kfonsecah) | Kendall Fonseca | Costa Rica | 2,199 |
-| 16 | [rjwrld](https://github.com/rjwrld) | Josue Calderon | Costa Rica | 2,060 |
-| 17 | [aguilar1x](https://github.com/aguilar1x) | Matias Aguilar | Costa Rica | 1,978 |
-| 18 | [byLAEV](https://github.com/byLAEV) | Lerry Alexander Elizondo Villalobos (LAEV) | Costa Rica  | 1,927 |
-| 19 | [adrianvrj](https://github.com/adrianvrj) | adr!an | Costa Rica | 1,901 |
-| 20 | [ericksuper8000-source](https://github.com/ericksuper8000-source) | Erick_Dev | Costa Rica | 1,860 |
+| 9 | [xe-nvdk](https://github.com/xe-nvdk) | Ignacio Van Droogenbroeck | Heredia, Costa Rica | 2,797 |
+| 10 | [morozov](https://github.com/morozov) | Sergei Morozov | San José, CA | 2,590 |
+| 11 | [aleju03](https://github.com/aleju03) | Aleju03 | Costa Rica | 2,572 |
+| 12 | [jonnabio](https://github.com/jonnabio) | Jonathan Herrera | Costa Rica | 2,546 |
+| 13 | [jetm](https://github.com/jetm) | Javier Tia | Costa Rica | 2,464 |
+| 14 | [nestormata](https://github.com/nestormata) | Nestor Mata Cuthbert | Costa Rica | 2,308 |
+| 15 | [lapc506](https://github.com/lapc506) | Andrés Peña | Heredia, Costa Rica | 2,305 |
+| 16 | [kfonsecah](https://github.com/kfonsecah) | Kendall Fonseca | Costa Rica | 2,199 |
+| 17 | [rjwrld](https://github.com/rjwrld) | Josue Calderon | Costa Rica | 2,060 |
+| 18 | [aguilar1x](https://github.com/aguilar1x) | Matias Aguilar | Costa Rica | 1,978 |
+| 19 | [byLAEV](https://github.com/byLAEV) | Lerry Alexander Elizondo Villalobos (LAEV) | Costa Rica  | 1,927 |
+| 20 | [adrianvrj](https://github.com/adrianvrj) | adr!an | Costa Rica | 1,901 |
 
 ## Followers
 
@@ -81,6 +81,6 @@ Indexed users: 5,630
 | 17 | [davedash](https://github.com/davedash) | Dave Dash | San José, CA | 203 |
 | 18 | [Crisrod0912](https://github.com/Crisrod0912) | Cristopher Rodríguez | Alajuela, Costa Rica | 189 |
 | 19 | [stvansolano](https://github.com/stvansolano) | Esteban Solano Granados | Costa Rica | 189 |
-| 20 | [Jeffser](https://github.com/Jeffser) | Jeffry Samuel | Costa Rica | 165 |
+| 20 | [Jeffser](https://github.com/Jeffser) | Jeffry Samuel | Costa Rica | 174 |
 
-Generated: 2026-10-15T16:55:31.549Z
+Generated: 2026-10-15T19:09:18.749Z

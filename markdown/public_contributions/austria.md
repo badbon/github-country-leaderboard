@@ -1,8 +1,8 @@
 # Public Contributions - Austria
 
-Generated: 2026-10-15T16:44:22.392Z
+Generated: 2026-10-15T18:58:16.688Z
 
-Users: 18256
+Users: 18255
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -25,4 +25,4 @@ Users: 18256
 | 17 | [cenk1cenk2](https://github.com/cenk1cenk2) | Cenk Kılıç | @laravel |  | Vienna, Austria | 6696 |
 | 18 | [markus-barta](https://github.com/markus-barta) | Markus Barta |  | markusbarta | Graz, Austria | 6686 |
 | 19 | [raulssorban](https://github.com/raulssorban) | Raul-Sorin Sorban | @CarbonCommunity | raulssorban | Braunau, Austria | 6405 |
-| 20 | [Artaeon](https://github.com/Artaeon) | Raphael René Lugmayr | @Stoicera  | raphaellugmayr | Austria | 6048 |
+| 20 | [mkg20001](https://github.com/mkg20001) | Maciej Krüger |  |  | Austria | 5869 |

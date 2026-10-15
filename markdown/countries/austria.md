@@ -1,6 +1,6 @@
 # Austria
 
-Indexed users: 18,256
+Indexed users: 18,255
 
 | Leaderboard | Link |
 |---|---|
@@ -19,12 +19,12 @@ Indexed users: 18,256
 | 5 | [jack-ofalltraids](https://github.com/jack-ofalltraids) | Maxl | Austria | 30,011 |
 | 6 | [preciz](https://github.com/preciz) | Barna Kovacs | Austria | 23,804 |
 | 7 | [michavie](https://github.com/michavie) | Micha Vie | Austria | 21,730 |
-| 8 | [masterleopold](https://github.com/masterleopold) | Yoichiro Hara | Vienna | 17,986 |
-| 9 | [smartlabsAT](https://github.com/smartlabsAT) | Christopher Schwarz | Austria | 17,494 |
-| 10 | [seeekr](https://github.com/seeekr) | Denis Andrejew | Austria | 17,429 |
-| 11 | [goosefraba](https://github.com/goosefraba) | Bernhard Keprt | Vienna | 16,559 |
-| 12 | [mmgerald](https://github.com/mmgerald) | Gerald Lochner | Salzburg, Austria | 16,519 |
-| 13 | [Artaeon](https://github.com/Artaeon) | Raphael René Lugmayr | Austria | 16,109 |
+| 8 | [Artaeon](https://github.com/Artaeon) | Raphael René Lugmayr | Austria | 18,985 |
+| 9 | [masterleopold](https://github.com/masterleopold) | Yoichiro Hara | Vienna | 17,986 |
+| 10 | [smartlabsAT](https://github.com/smartlabsAT) | Christopher Schwarz | Austria | 17,494 |
+| 11 | [seeekr](https://github.com/seeekr) | Denis Andrejew | Austria | 17,429 |
+| 12 | [goosefraba](https://github.com/goosefraba) | Bernhard Keprt | Vienna | 16,559 |
+| 13 | [mmgerald](https://github.com/mmgerald) | Gerald Lochner | Salzburg, Austria | 16,519 |
 | 14 | [JaySunSyn](https://github.com/JaySunSyn) | Jalal Fathi | Planet Earth \| Amsterdam \| Vienna \| Bali | 15,968 |
 | 15 | [rrust](https://github.com/rrust) | Roland Rust | Austria | 15,870 |
 | 16 | [ddedic](https://github.com/ddedic) | Danijel Dedic | Kufstein, Austria | 15,858 |
@@ -56,7 +56,7 @@ Indexed users: 18,256
 | 17 | [cenk1cenk2](https://github.com/cenk1cenk2) | Cenk Kılıç | Vienna, Austria | 6,696 |
 | 18 | [markus-barta](https://github.com/markus-barta) | Markus Barta | Graz, Austria | 6,686 |
 | 19 | [raulssorban](https://github.com/raulssorban) | Raul-Sorin Sorban | Braunau, Austria | 6,405 |
-| 20 | [Artaeon](https://github.com/Artaeon) | Raphael René Lugmayr | Austria | 6,048 |
+| 20 | [mkg20001](https://github.com/mkg20001) | Maciej Krüger | Austria | 5,869 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 18,256
 | 19 | [timolins](https://github.com/timolins) | Timo Lins | Vienna, Austria | 1,173 |
 | 20 | [cliffordwolf](https://github.com/cliffordwolf) | Claire Wolf | Vienna | 1,143 |
 
-Generated: 2026-10-15T16:44:22.392Z
+Generated: 2026-10-15T18:58:16.688Z

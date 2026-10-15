@@ -1,6 +1,6 @@
 # Followers - Benin
 
-Generated: 2026-10-15T16:47:21.388Z
+Generated: 2026-10-15T19:01:46.099Z
 
 Users: 471
 
@@ -22,7 +22,7 @@ Users: 471
 | 14 | [Collins222614](https://github.com/Collins222614) | Collins Efesomo |  |  | Benin, Nigeria | 87 |
 | 15 | [jackjosias](https://github.com/jackjosias) | Jack-Josias |  |  | Cotonou, Benin | 87 |
 | 16 | [Jozzy4](https://github.com/Jozzy4) | Ibatuemoh Joseph  |  |  | Benin | 83 |
-| 17 | [Augustino127](https://github.com/Augustino127) | Augustino Comlangan | Vallis Technologies | AComlangan70558 | Benin, Cotonou | 79 |
+| 17 | [Augustino127](https://github.com/Augustino127) | Augustino Comlangan | Vallis Technologies | AComlangan70558 | Benin, Cotonou | 80 |
 | 18 | [salimane](https://github.com/salimane) | Salimane Adjao Moustapha | Meltwater |  | Africa, Benin, Rwanda, Ghana, Kenya, China, Germany | 79 |
-| 19 | [awarris](https://github.com/awarris) | Warris AGBANNONDE | VIPP INTERTIS | awarrisw | Benin, Cotonou Ganhi | 72 |
+| 19 | [awarris](https://github.com/awarris) | Warris AGBANNONDE | VIPP INTERTIS | awarrisw | Benin, Cotonou Ganhi | 73 |
 | 20 | [baba-mandef](https://github.com/baba-mandef) | Abiodoun Paraïso | @Rezolusoft | baba_mandef | Adjarra, Benin | 71 |

@@ -1,8 +1,8 @@
 # Public Contributions - Tajikistan
 
-Generated: 2026-10-15T16:31:01.808Z
+Generated: 2026-10-15T18:44:26.391Z
 
-Users: 710
+Users: 709
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -20,9 +20,9 @@ Users: 710
 | 12 | [Osaf-Abdulloev](https://github.com/Osaf-Abdulloev) | Abdulloev Osaf |  |  | Dushanbe | 658 |
 | 13 | [GulomovCreative](https://github.com/GulomovCreative) | Bakhtovar Gulomov |  |  | Dushanbe, Tajikistan | 558 |
 | 14 | [UMARJO9](https://github.com/UMARJO9) | Умарджон Нурмадов |  |  | Tajikistan / Khujand / Dushanbe / Kulob | 508 |
-| 15 | [Muhammadjon0204](https://github.com/Muhammadjon0204) | Muhammadjon Kosimov | SoftClub - IT Academy |  | Dushanbe | 487 |
-| 16 | [Roma-723](https://github.com/Roma-723) | Yusufjon |  |  | Dushanbe | 476 |
-| 17 | [llcsanjar](https://github.com/llcsanjar) | Sanjar |  |  | Tajikistan | 443 |
-| 18 | [rustamovy9](https://github.com/rustamovy9) |  |  |  | Dushanbe,Tajikistan | 428 |
-| 19 | [BakhtiyorSharipov](https://github.com/BakhtiyorSharipov) | Bakhtiyor |  |  | Tajikistan | 418 |
-| 20 | [Ismatjonov](https://github.com/Ismatjonov) | Bakhtovar Ismatjonov |  |  | Tajikistan, Khujand | 416 |
+| 15 | [mehrvarshodiev](https://github.com/mehrvarshodiev) | Mehrvar Shodiev |  | shod1ev_ | Dushanbe | 496 |
+| 16 | [Muhammadjon0204](https://github.com/Muhammadjon0204) | Muhammadjon Kosimov | SoftClub - IT Academy |  | Dushanbe | 487 |
+| 17 | [Roma-723](https://github.com/Roma-723) | Yusufjon |  |  | Dushanbe | 476 |
+| 18 | [llcsanjar](https://github.com/llcsanjar) | Sanjar |  |  | Tajikistan | 443 |
+| 19 | [rustamovy9](https://github.com/rustamovy9) |  |  |  | Dushanbe,Tajikistan | 428 |
+| 20 | [BakhtiyorSharipov](https://github.com/BakhtiyorSharipov) | Bakhtiyor |  |  | Tajikistan | 418 |

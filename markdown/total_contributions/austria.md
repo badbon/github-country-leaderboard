@@ -1,8 +1,8 @@
 # Total Contributions - Austria
 
-Generated: 2026-10-15T16:44:22.392Z
+Generated: 2026-10-15T18:58:16.688Z
 
-Users: 18256
+Users: 18255
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -13,12 +13,12 @@ Users: 18256
 | 5 | [jack-ofalltraids](https://github.com/jack-ofalltraids) | Maxl |  |  | Austria | 30011 |
 | 6 | [preciz](https://github.com/preciz) | Barna Kovacs |  |  | Austria | 23804 |
 | 7 | [michavie](https://github.com/michavie) | Micha Vie | @vLeapGroup @PeerMeHQ @JoAiHQ @TagrityHQ @SpawnableHQ | michavie_ | Austria | 21730 |
-| 8 | [masterleopold](https://github.com/masterleopold) | Yoichiro Hara | @VoxTechnologies |  | Vienna | 17986 |
-| 9 | [smartlabsAT](https://github.com/smartlabsAT) | Christopher Schwarz | neugebauerschwarz gmbh |  | Austria | 17494 |
-| 10 | [seeekr](https://github.com/seeekr) | Denis Andrejew | productioneer.io |  | Austria | 17429 |
-| 11 | [goosefraba](https://github.com/goosefraba) | Bernhard Keprt | goosefraba GmbH |  | Vienna | 16559 |
-| 12 | [mmgerald](https://github.com/mmgerald) | Gerald Lochner | meshmakers.io |  | Salzburg, Austria | 16519 |
-| 13 | [Artaeon](https://github.com/Artaeon) | Raphael René Lugmayr | @Stoicera  | raphaellugmayr | Austria | 16109 |
+| 8 | [Artaeon](https://github.com/Artaeon) | Raphael René Lugmayr | @Stoicera  | raphaellugmayr | Austria | 18985 |
+| 9 | [masterleopold](https://github.com/masterleopold) | Yoichiro Hara | @VoxTechnologies |  | Vienna | 17986 |
+| 10 | [smartlabsAT](https://github.com/smartlabsAT) | Christopher Schwarz | neugebauerschwarz gmbh |  | Austria | 17494 |
+| 11 | [seeekr](https://github.com/seeekr) | Denis Andrejew | productioneer.io |  | Austria | 17429 |
+| 12 | [goosefraba](https://github.com/goosefraba) | Bernhard Keprt | goosefraba GmbH |  | Vienna | 16559 |
+| 13 | [mmgerald](https://github.com/mmgerald) | Gerald Lochner | meshmakers.io |  | Salzburg, Austria | 16519 |
 | 14 | [JaySunSyn](https://github.com/JaySunSyn) | Jalal Fathi |  |  | Planet Earth \| Amsterdam \| Vienna \| Bali | 15968 |
 | 15 | [rrust](https://github.com/rrust) | Roland Rust |  |  | Austria | 15870 |
 | 16 | [ddedic](https://github.com/ddedic) | Danijel Dedic | MediaMarktSaturn Technology | dannyded83 | Kufstein, Austria | 15858 |

@@ -49,8 +49,8 @@ Indexed users: 1,799
 | 10 | [Kynmmarshall](https://github.com/Kynmmarshall) | Kamdeu Yamdjeuson Neil Marshall | Cameroon | 1,824 |
 | 11 | [freddychoudja](https://github.com/freddychoudja) | Freddy Choudja | Cameroon | 1,809 |
 | 12 | [Kanjo-Elkamira-Ndi](https://github.com/Kanjo-Elkamira-Ndi) | Alchemy Codes | Yaoundé Cameroon | 1,715 |
-| 13 | [Arielpetit](https://github.com/Arielpetit) | arielpetit | cameroon | 1,621 |
-| 14 | [Josiasange37](https://github.com/Josiasange37) | AKANA SIGNING JOSIAS AARON | Cameroon | 1,591 |
+| 13 | [Josiasange37](https://github.com/Josiasange37) | AKANA SIGNING JOSIAS AARON | Cameroon | 1,635 |
+| 14 | [Arielpetit](https://github.com/Arielpetit) | arielpetit | cameroon | 1,621 |
 | 15 | [Allmight2002](https://github.com/Allmight2002) | Raymond Mbassi | Cameroon | 1,484 |
 | 16 | [pythonbrad](https://github.com/pythonbrad) | Brady Fomegne | Douala, Cameroon | 1,448 |
 | 17 | [Hermann-Core](https://github.com/Hermann-Core) | Hermann Core | Cameroon | 1,447 |
@@ -83,4 +83,4 @@ Indexed users: 1,799
 | 19 | [baimamboukar](https://github.com/baimamboukar) | BAIMAM BOUKAR JEAN JACQUES | Yaoundé | 170 |
 | 20 | [Suprememajor](https://github.com/Suprememajor) | Nobert Etta | Buea, Cameroon | 170 |
 
-Generated: 2026-10-15T16:51:32.368Z
+Generated: 2026-10-15T19:06:00.347Z

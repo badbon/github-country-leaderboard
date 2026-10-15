@@ -28,7 +28,7 @@ Indexed users: 501
 | 14 | [bridgecoresystems-cmd](https://github.com/bridgecoresystems-cmd) | BridgeCore SYSTEMS | Turkmenistan | 3,020 |
 | 15 | [udemuradov](https://github.com/udemuradov) | Serdar Udemuradov | Turkmenistan, Turkmenbashi | 2,688 |
 | 16 | [mrxacker](https://github.com/mrxacker) | Orazow Oraz | Turkmenistan, Ashgabat | 2,545 |
-| 17 | [babamurad](https://github.com/babamurad) | Babamurad | Turkmenistan, Ashgabat | 2,476 |
+| 17 | [babamurad](https://github.com/babamurad) | Babamurad | Turkmenistan, Ashgabat | 2,486 |
 | 18 | [RovshenTagangylyjov](https://github.com/RovshenTagangylyjov) | Rovshen Tagangylyjov | Ashgabat, Turkmenistan | 2,378 |
 | 19 | [AnonimTM1](https://github.com/AnonimTM1) | Merdan Caryyew | Turkmenistan  | 2,136 |
 | 20 | [TheSeydiCharyyev](https://github.com/TheSeydiCharyyev) | Seydi Charyyev | Mary city, Turkmenistan | 2,100 |
@@ -79,8 +79,8 @@ Indexed users: 501
 | 15 | [ArthurAtamuradov](https://github.com/ArthurAtamuradov) | Artur Atamuradov | Turkmenistan | 71 |
 | 16 | [Kesha005](https://github.com/Kesha005) | Kerimberdi Saparow | Turkmenistan | 71 |
 | 17 | [mergenchik](https://github.com/mergenchik) | Mergen AGAYEV | Ashgabat, Turkmenistan | 66 |
-| 18 | [MerlinEmris](https://github.com/MerlinEmris) | Merdan Chariyarov | Ashgabat | 66 |
-| 19 | [vbauerster](https://github.com/vbauerster) | Vladimir Bauer | Turkmenistan | 66 |
+| 18 | [vbauerster](https://github.com/vbauerster) | Vladimir Bauer | Turkmenistan | 66 |
+| 19 | [MerlinEmris](https://github.com/MerlinEmris) | Merdan Chariyarov | Ashgabat | 65 |
 | 20 | [atageldi194229](https://github.com/atageldi194229) | Atageldi | Ashgabat, Turkmenistan | 64 |
 
-Generated: 2026-10-15T16:33:54.404Z
+Generated: 2026-10-15T18:47:15.570Z

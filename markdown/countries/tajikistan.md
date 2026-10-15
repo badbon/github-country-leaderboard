@@ -1,6 +1,6 @@
 # Tajikistan
 
-Indexed users: 710
+Indexed users: 709
 
 | Leaderboard | Link |
 |---|---|
@@ -51,12 +51,12 @@ Indexed users: 710
 | 12 | [Osaf-Abdulloev](https://github.com/Osaf-Abdulloev) | Abdulloev Osaf | Dushanbe | 658 |
 | 13 | [GulomovCreative](https://github.com/GulomovCreative) | Bakhtovar Gulomov | Dushanbe, Tajikistan | 558 |
 | 14 | [UMARJO9](https://github.com/UMARJO9) | Умарджон Нурмадов | Tajikistan / Khujand / Dushanbe / Kulob | 508 |
-| 15 | [Muhammadjon0204](https://github.com/Muhammadjon0204) | Muhammadjon Kosimov | Dushanbe | 487 |
-| 16 | [Roma-723](https://github.com/Roma-723) | Yusufjon | Dushanbe | 476 |
-| 17 | [llcsanjar](https://github.com/llcsanjar) | Sanjar | Tajikistan | 443 |
-| 18 | [rustamovy9](https://github.com/rustamovy9) |  | Dushanbe,Tajikistan | 428 |
-| 19 | [BakhtiyorSharipov](https://github.com/BakhtiyorSharipov) | Bakhtiyor | Tajikistan | 418 |
-| 20 | [Ismatjonov](https://github.com/Ismatjonov) | Bakhtovar Ismatjonov | Tajikistan, Khujand | 416 |
+| 15 | [mehrvarshodiev](https://github.com/mehrvarshodiev) | Mehrvar Shodiev | Dushanbe | 496 |
+| 16 | [Muhammadjon0204](https://github.com/Muhammadjon0204) | Muhammadjon Kosimov | Dushanbe | 487 |
+| 17 | [Roma-723](https://github.com/Roma-723) | Yusufjon | Dushanbe | 476 |
+| 18 | [llcsanjar](https://github.com/llcsanjar) | Sanjar | Tajikistan | 443 |
+| 19 | [rustamovy9](https://github.com/rustamovy9) |  | Dushanbe,Tajikistan | 428 |
+| 20 | [BakhtiyorSharipov](https://github.com/BakhtiyorSharipov) | Bakhtiyor | Tajikistan | 418 |
 
 ## Followers
 
@@ -72,9 +72,9 @@ Indexed users: 710
 | 8 | [Abubakr7](https://github.com/Abubakr7) | Abubakr Juraev | Dushanbe Tajikistan | 101 |
 | 9 | [khaydarov](https://github.com/khaydarov) | Murod Khaydarov | Dushanbe, Tajikistan | 86 |
 | 10 | [AED11](https://github.com/AED11) | Akhmetov Eraj | Tajikistan Dushanbe | 80 |
-| 11 | [NurulloSulaymonov](https://github.com/NurulloSulaymonov) | Nurullo Sulaymonov | Tajikistan | 74 |
+| 11 | [NurulloSulaymonov](https://github.com/NurulloSulaymonov) | Nurullo Sulaymonov | Tajikistan | 75 |
 | 12 | [TajievOlimjon](https://github.com/TajievOlimjon) | Olimjon | Tajikistan | 61 |
-| 13 | [awtb](https://github.com/awtb) | Ilyas Qalandarzoda | Dushanbe, Tajikistan | 58 |
+| 13 | [awtb](https://github.com/awtb) | Ilyas Qalandarzoda | Dushanbe, Tajikistan | 57 |
 | 14 | [Jacobamv](https://github.com/Jacobamv) | Jacob Akhmedov | Dushanbe/Tajikistan | 56 |
 | 15 | [veyxov](https://github.com/veyxov) | Shekhov Ismoil | Tajikistan | 56 |
 | 16 | [MuhammadiMirzo](https://github.com/MuhammadiMirzo) | Muhammadjon Mirzoev | Dushanbe,Tajikistan | 55 |
@@ -83,4 +83,4 @@ Indexed users: 710
 | 19 | [11bit](https://github.com/11bit) | Ivan Buryak | Dushanbe | 49 |
 | 20 | [Abdughafur](https://github.com/Abdughafur) | Abdughafur Khujzoda | Tajikistan | 48 |
 
-Generated: 2026-10-15T16:31:01.808Z
+Generated: 2026-10-15T18:44:26.391Z

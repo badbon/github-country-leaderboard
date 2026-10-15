@@ -1,6 +1,6 @@
 # Total Contributions - Uganda
 
-Generated: 2026-10-15T16:35:01.872Z
+Generated: 2026-10-15T18:48:20.926Z
 
 Users: 3872
 
@@ -20,9 +20,9 @@ Users: 3872
 | 12 | [KansiimeKenie](https://github.com/KansiimeKenie) | Kansiime Keneth |  | kansiime_keneth | kampala, Ug | 7957 |
 | 13 | [GaspardKirira](https://github.com/GaspardKirira) | G-kirira | @vixcpp @softadastra | g_kirira | Africa / Uganda / Kampala | 7825 |
 | 14 | [baliksjosay](https://github.com/baliksjosay) | Joseph Balikuddembe | GDExperts LTD | BaliksJoseph | Kampala, uganda | 7753 |
-| 15 | [BrianPollar](https://github.com/BrianPollar) | Pollar Brian Okello | Eagle Info Solutions |  | Kampala, Uganda | 7556 |
-| 16 | [judeotine](https://github.com/judeotine) | Judeotine |  | Judeotine | Uganda | 7440 |
-| 17 | [cosmah](https://github.com/cosmah) | cosmah | CosMc technologies | cosmah_l | kampala, Uganda | 7177 |
+| 15 | [judeotine](https://github.com/judeotine) | Judeotine |  | Judeotine | Uganda | 7440 |
+| 16 | [cosmah](https://github.com/cosmah) | cosmah | CosMc technologies | cosmah_l | kampala, Uganda | 7177 |
+| 17 | [BrianPollar](https://github.com/BrianPollar) | Pollar Brian Okello | Eagle Info Solutions |  | Kampala, Uganda | 6811 |
 | 18 | [matovu-farid](https://github.com/matovu-farid) | Farid Matovu | Dabblelab | matovu100 | Uganda | 6805 |
 | 19 | [pius22](https://github.com/pius22) | TECH-WORLDINFO | TECH-WORLDINFO |  | uganda | 6709 |
 | 20 | [Bravos-hub](https://github.com/Bravos-hub) | BRAVE OLIMI | BUGEMA UNIVERSITY |  | Bugema  Kampala-Uganda | 6657 |
