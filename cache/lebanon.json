@@ -22268,7 +22268,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2019-05-21T07:32:49Z"
   },
   {
@@ -22315,7 +22315,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 56,
+    "privateContributions": 58,
     "publicContributions": 0,
     "createdAt": "2019-05-08T22:14:43Z"
   },
@@ -22327,7 +22327,7 @@
     "company": "Nymatic",
     "twitterUsername": "CharbsBeainy",
     "followers": 1,
-    "privateContributions": 3573,
+    "privateContributions": 4422,
     "publicContributions": 1,
     "createdAt": "2019-07-06T14:15:34Z"
   },
@@ -22364,7 +22364,7 @@
     "twitterUsername": "TheJosephSavage",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 2,
     "createdAt": "2019-11-21T15:57:29Z"
   },
   {
@@ -22406,13 +22406,13 @@
   {
     "login": "AbedBashir",
     "name": "Abed Bashir",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/56051101?s=72&u=36da51361c374094f6aeb185275deeb4de0bfe90&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/56051101?s=72&u=55cebedbd1469f012026e07a0951fd8aa92dd647&v=4",
     "location": "Lebanon",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 47,
     "createdAt": "2019-10-01T21:53:50Z"
   },
   {
@@ -22448,7 +22448,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2019-02-18T10:19:37Z"
   },
   {
@@ -22459,7 +22459,7 @@
     "company": "",
     "twitterUsername": "mohamadtaan1",
     "followers": 1,
-    "privateContributions": 14,
+    "privateContributions": 13,
     "publicContributions": 12,
     "createdAt": "2019-12-28T20:52:53Z"
   },
@@ -22471,7 +22471,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 219,
+    "privateContributions": 133,
     "publicContributions": 2,
     "createdAt": "2019-05-27T22:09:23Z"
   },
@@ -22482,9 +22482,9 @@
     "location": "lebanon",
     "company": "alone",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 8,
     "createdAt": "2019-10-05T16:18:49Z"
   },
   {
@@ -22494,8 +22494,8 @@
     "location": "Tripoli, Lebanon",
     "company": "",
     "twitterUsername": "",
-    "followers": 40,
-    "privateContributions": 48,
+    "followers": 41,
+    "privateContributions": 24,
     "publicContributions": 3,
     "createdAt": "2014-09-23T20:50:20Z"
   },

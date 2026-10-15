@@ -22208,7 +22208,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 0,
     "createdAt": "2021-03-01T02:47:38Z"
   },
   {
@@ -22220,7 +22220,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 17,
     "createdAt": "2021-09-15T07:41:13Z"
   },
   {
@@ -22244,7 +22244,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2021-10-11T20:42:13Z"
   },
   {
@@ -22255,8 +22255,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 981,
-    "publicContributions": 12,
+    "privateContributions": 1011,
+    "publicContributions": 1,
     "createdAt": "2021-01-21T20:40:24Z"
   },
   {
@@ -22268,7 +22268,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 19,
     "createdAt": "2021-03-30T11:21:58Z"
   },
   {
@@ -22291,7 +22291,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 57,
-    "privateContributions": 4,
+    "privateContributions": 2,
     "publicContributions": 1,
     "createdAt": "2011-09-06T03:24:49Z"
   },
@@ -22328,7 +22328,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 10,
     "createdAt": "2021-05-20T22:25:36Z"
   },
   {
@@ -22339,8 +22339,8 @@
     "company": "Halter NZ",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 6469,
-    "publicContributions": 7,
+    "privateContributions": 5790,
+    "publicContributions": 8,
     "createdAt": "2021-02-28T23:36:20Z"
   },
   {
@@ -22393,14 +22393,14 @@
   },
   {
     "login": "GratuitLancer",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/81525105?s=72&v=4",
+    "name": "GratuitLancer",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/81525105?s=72&u=a036bebb0428801dc903880e0fc5cc85bc455308&v=4",
     "location": "China/New Zealand",
     "company": "University of Canterbury",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 2,
+    "privateContributions": 1,
+    "publicContributions": 8,
     "createdAt": "2021-03-28T16:10:53Z"
   },
   {
@@ -22414,18 +22414,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-07-19T06:33:29Z"
-  },
-  {
-    "login": "hayden-flintoft",
-    "name": "Hayden",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/84941902?s=72&u=fed02b0fa08c3930cb519167992c95137a454675&v=4",
-    "location": "New Zealand",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 391,
-    "publicContributions": 42,
-    "createdAt": "2021-05-27T22:34:18Z"
   },
   {
     "login": "JamesWeb3",

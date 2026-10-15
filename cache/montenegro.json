@@ -756,18 +756,6 @@
     "createdAt": "2023-01-16T13:54:39Z"
   },
   {
-    "login": "Nikolaimelni",
-    "name": "Nikolai Melnichenko",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/140907906?s=72&u=04f6d32c434f27a193efdd6d7e9935ba4a247f11&v=4",
-    "location": "Montenegro",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2023-07-29T16:10:38Z"
-  },
-  {
     "login": "lukadrovic",
     "name": "Luka Drovic",
     "avatarUrl": "https://avatars.githubusercontent.com/u/133198772?s=72&u=cda413c1267d9171dc3caef2e170224eb5684a2f&v=4",
@@ -824,7 +812,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 5,
-    "publicContributions": 353,
+    "publicContributions": 359,
     "createdAt": "2023-10-12T18:41:29Z"
   },
   {
@@ -835,7 +823,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 561,
+    "privateContributions": 564,
     "publicContributions": 108,
     "createdAt": "2023-04-01T14:39:14Z"
   },
@@ -895,7 +883,7 @@
     "company": "Medical database",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 3,
+    "privateContributions": 2,
     "publicContributions": 0,
     "createdAt": "2023-06-17T16:38:30Z"
   },
@@ -915,12 +903,12 @@
     "login": "DaniloK77",
     "name": "Danilo Kovacevic",
     "avatarUrl": "https://avatars.githubusercontent.com/u/123808646?s=72&u=c373d4563ad964ef6bb0164614ec841648ea725e&v=4",
-    "location": "Niksic,Montenegro",
+    "location": "Nikšić, Montenegro",
     "company": "",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 107,
+    "publicContributions": 124,
     "createdAt": "2023-01-28T10:46:24Z"
   },
   {
@@ -943,8 +931,8 @@
     "company": "Codepixel",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 102,
-    "publicContributions": 4,
+    "privateContributions": 84,
+    "publicContributions": 3,
     "createdAt": "2023-02-05T14:32:16Z"
   },
   {

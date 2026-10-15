@@ -22160,7 +22160,7 @@
     "twitterUsername": "",
     "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 32,
+    "publicContributions": 22,
     "createdAt": "2018-12-10T12:12:46Z"
   },
   {
@@ -22183,7 +22183,7 @@
     "company": "Rubicon Dev Team",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 1550,
+    "privateContributions": 1607,
     "publicContributions": 94,
     "createdAt": "2018-09-27T06:35:39Z"
   },
@@ -22194,9 +22194,9 @@
     "location": "Bishkek, Kyrgyzstan",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 95,
-    "publicContributions": 90,
+    "followers": 12,
+    "privateContributions": 0,
+    "publicContributions": 47,
     "createdAt": "2018-01-11T14:01:38Z"
   },
   {
@@ -22243,8 +22243,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 29,
-    "publicContributions": 3,
+    "privateContributions": 354,
+    "publicContributions": 0,
     "createdAt": "2018-09-24T06:08:27Z"
   },
   {
@@ -22267,21 +22267,9 @@
     "company": "Founder at INTERKIT",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 545,
+    "privateContributions": 489,
     "publicContributions": 3,
     "createdAt": "2018-04-19T12:50:33Z"
-  },
-  {
-    "login": "whiteGloom",
-    "name": "Evgenii Miller",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/36995502?s=72&u=bb9dc8ae0c21dab7657c7c76d82ffd7eb895c47d&v=4",
-    "location": "Kyrgyzstan, Bishkek",
-    "company": "Telebreeze, middle frontend developer",
-    "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 2,
-    "publicContributions": 74,
-    "createdAt": "2018-03-02T15:49:08Z"
   },
   {
     "login": "P5ina",
@@ -22290,9 +22278,9 @@
     "location": "Kyrgyzstan, Bishkek",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 1611,
-    "publicContributions": 2262,
+    "followers": 9,
+    "privateContributions": 2034,
+    "publicContributions": 2962,
     "createdAt": "2018-10-22T18:41:05Z"
   },
   {
@@ -22302,7 +22290,7 @@
     "location": "Bishkek, Kyrgyzstan",
     "company": "@epam",
     "twitterUsername": "artur_minin",
-    "followers": 8,
+    "followers": 7,
     "privateContributions": 50,
     "publicContributions": 0,
     "createdAt": "2018-05-16T22:13:39Z"
@@ -22327,7 +22315,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 38,
+    "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2018-01-23T05:17:26Z"
   },

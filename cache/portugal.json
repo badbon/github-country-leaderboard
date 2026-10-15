@@ -22088,7 +22088,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 6,
     "createdAt": "2024-09-20T10:01:19Z"
   },
   {
@@ -22100,7 +22100,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 24,
     "createdAt": "2024-09-24T08:32:53Z"
   },
   {
@@ -22124,7 +22124,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 181,
+    "publicContributions": 82,
     "createdAt": "2024-08-05T20:10:51Z"
   },
   {
@@ -22136,7 +22136,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 129,
+    "publicContributions": 83,
     "createdAt": "2024-10-12T09:10:52Z"
   },
   {
@@ -22160,20 +22160,8 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 179,
+    "publicContributions": 296,
     "createdAt": "2024-09-17T09:47:34Z"
-  },
-  {
-    "login": "cunha-leo",
-    "name": "Leonardo Cunha",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/177962772?s=72&u=c2091b06135b559824724cd5a70d98a593cd2525&v=4",
-    "location": "Portugal",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 203,
-    "publicContributions": 4,
-    "createdAt": "2024-08-09T16:52:38Z"
   },
   {
     "login": "beeamen",
@@ -22194,9 +22182,9 @@
     "location": "Portugal",
     "company": "António Lopes",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 109,
+    "publicContributions": 134,
     "createdAt": "2024-10-25T16:55:27Z"
   },
   {
@@ -22206,9 +22194,9 @@
     "location": "Lisbon, Portugal",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2024-09-29T00:21:12Z"
   },
   {
@@ -22230,9 +22218,9 @@
     "location": "Portugal",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 3,
     "createdAt": "2024-10-13T22:06:37Z"
   },
   {
@@ -22302,9 +22290,9 @@
     "location": "Portugal",
     "company": "@FEUP",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 5520,
-    "publicContributions": 6,
+    "followers": 2,
+    "privateContributions": 9634,
+    "publicContributions": 9,
     "createdAt": "2024-11-28T21:32:40Z"
   },
   {
@@ -22316,7 +22304,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 294,
+    "publicContributions": 247,
     "createdAt": "2024-10-12T10:59:53Z"
   },
   {
@@ -341398,5 +341386,17 @@
     "privateContributions": 0,
     "publicContributions": 30,
     "createdAt": "2026-06-29T14:15:33Z"
+  },
+  {
+    "login": "Nikolaimelni",
+    "name": "Nikolai Melnichenko",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/140907906?s=72&u=04f6d32c434f27a193efdd6d7e9935ba4a247f11&v=4",
+    "location": "Lisbon, Portugal",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 128,
+    "createdAt": "2023-07-29T16:10:38Z"
   }
 ]
