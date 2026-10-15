@@ -12,9 +12,9 @@ Indexed users: 19
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [Green-Ranger11](https://github.com/Green-Ranger11) | Alesana Eteuati Jr | Samoa | 4,953 |
-| 2 | [genebarker](https://github.com/genebarker) | Eugene F. Barker | Apia, Samoa | 1,456 |
-| 3 | [Hamobcdev](https://github.com/Hamobcdev) | Anthony George Williams | Samoa | 1,020 |
+| 1 | [Green-Ranger11](https://github.com/Green-Ranger11) | Alesana Eteuati Jr | Samoa | 4,981 |
+| 2 | [genebarker](https://github.com/genebarker) | Eugene F. Barker | Apia, Samoa | 1,455 |
+| 3 | [Hamobcdev](https://github.com/Hamobcdev) | Anthony George Williams | Samoa | 1,021 |
 | 4 | [iwtem](https://github.com/iwtem) | Iwtem | Samoa | 330 |
 | 5 | [ainsofs](https://github.com/ainsofs) | Ainsof So'o | Samoa | 108 |
 | 6 | [RichardVBoi](https://github.com/RichardVBoi) | Richard  Panama Vaalotu | Apia Samoa | 93 |
@@ -36,8 +36,8 @@ Indexed users: 19
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [Hamobcdev](https://github.com/Hamobcdev) | Anthony George Williams | Samoa | 1,020 |
-| 2 | [genebarker](https://github.com/genebarker) | Eugene F. Barker | Apia, Samoa | 228 |
+| 1 | [Hamobcdev](https://github.com/Hamobcdev) | Anthony George Williams | Samoa | 1,021 |
+| 2 | [genebarker](https://github.com/genebarker) | Eugene F. Barker | Apia, Samoa | 227 |
 | 3 | [ainsofs](https://github.com/ainsofs) | Ainsof So'o | Samoa | 108 |
 | 4 | [RichardVBoi](https://github.com/RichardVBoi) | Richard  Panama Vaalotu | Apia Samoa | 93 |
 | 5 | [iwtem](https://github.com/iwtem) | Iwtem | Samoa | 75 |
@@ -80,4 +80,4 @@ Indexed users: 19
 | 18 | [xfy777](https://github.com/xfy777) | xfy | Samoa | 2 |
 | 19 | [RichardVBoi](https://github.com/RichardVBoi) | Richard  Panama Vaalotu | Apia Samoa | 1 |
 
-Generated: 2026-10-14T22:16:33.538Z
+Generated: 2026-10-15T00:29:58.454Z

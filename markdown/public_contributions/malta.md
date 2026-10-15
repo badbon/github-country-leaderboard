@@ -1,6 +1,6 @@
 # Public Contributions - Malta
 
-Generated: 2026-10-14T21:56:52.930Z
+Generated: 2026-10-15T00:11:30.239Z
 
 Users: 1225
 
@@ -12,7 +12,7 @@ Users: 1225
 | 4 | [OmegaGbenga](https://github.com/OmegaGbenga) | Olugbenga Olatunde Dareowolabi |  |  | Malta | 3552 |
 | 5 | [rinrab](https://github.com/rinrab) | Timofei Zhakov |  |  | Malta | 3350 |
 | 6 | [camilamacedo86](https://github.com/camilamacedo86) | Camila Macedo |  |  | Malta | 3150 |
-| 7 | [KevinBusuttil](https://github.com/KevinBusuttil) | Kevin Busuttil | Busuttil Technologies Limited |  | Malta | 3126 |
+| 7 | [KevinBusuttil](https://github.com/KevinBusuttil) | Kevin Busuttil | Busuttil Technologies Limited |  | Malta | 3125 |
 | 8 | [silvandiepen](https://github.com/silvandiepen) | Sil van Diepen | Sil van Diepen | silvandiepen | Malta | 3076 |
 | 9 | [zcourts](https://github.com/zcourts) | Courtney Robinson | Hypi | zcourts | London (UK), Łodz (Poland), Valletta (Malta) | 2632 |
 | 10 | [arogan178](https://github.com/arogan178) | Andrea Bugeja | GiG |  | Malta | 2562 |

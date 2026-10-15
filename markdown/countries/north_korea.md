@@ -17,7 +17,7 @@ Indexed users: 185
 | 3 | [boyesjo](https://github.com/boyesjo) | Boye Sjo | pyongyang | 4,089 |
 | 4 | [sakweli](https://github.com/sakweli) | Josh Sakweli | North Korea | 2,466 |
 | 5 | [andrewlee1807](https://github.com/andrewlee1807) | Andrew | North Korea | 1,485 |
-| 6 | [The-Red-Serpent](https://github.com/The-Red-Serpent) | The_Red_Serpent | Pyongyang, North Korea | 1,275 |
+| 6 | [The-Red-Serpent](https://github.com/The-Red-Serpent) | The_Red_Serpent | Pyongyang, North Korea | 1,277 |
 | 7 | [henxdl](https://github.com/henxdl) | henxdl | Pyongyang, North Korea | 1,087 |
 | 8 | [iam-orsu](https://github.com/iam-orsu) | Vamsi Krishna | North Korea | 814 |
 | 9 | [Aashaby](https://github.com/Aashaby) |  | North Korea | 673 |
@@ -37,7 +37,7 @@ Indexed users: 185
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [The-Red-Serpent](https://github.com/The-Red-Serpent) | The_Red_Serpent | Pyongyang, North Korea | 1,275 |
+| 1 | [The-Red-Serpent](https://github.com/The-Red-Serpent) | The_Red_Serpent | Pyongyang, North Korea | 1,277 |
 | 2 | [iam-orsu](https://github.com/iam-orsu) | Vamsi Krishna | North Korea | 814 |
 | 3 | [Duzopy](https://github.com/Duzopy) | Dupozy | North Korea | 607 |
 | 4 | [dddqmmx](https://github.com/dddqmmx) | PaulPerkenstein | Pyongyang | 505 |
@@ -46,7 +46,7 @@ Indexed users: 185
 | 7 | [advanced-rising](https://github.com/advanced-rising) | risingcore | Democratic People's Republic of Korea | 221 |
 | 8 | [DillerOFire](https://github.com/DillerOFire) | VerpaSRP | North Korea | 205 |
 | 9 | [Pigatronee](https://github.com/Pigatronee) | PigObsessedGameDev | North Korea | 200 |
-| 10 | [RefrigerationUnit](https://github.com/RefrigerationUnit) | Julio Viejo | Pyongyang | 198 |
+| 10 | [RefrigerationUnit](https://github.com/RefrigerationUnit) | Julio Viejo | Pyongyang | 196 |
 | 11 | [renxiaoyaoo](https://github.com/renxiaoyaoo) | renxiaoyao | North Korea	 | 189 |
 | 12 | [july0785](https://github.com/july0785) | JULY | Pyongyang, DPR of Korea | 186 |
 | 13 | [andrewlee1807](https://github.com/andrewlee1807) | Andrew | North Korea | 183 |
@@ -83,4 +83,4 @@ Indexed users: 185
 | 19 | [satt-hri](https://github.com/satt-hri) | 稻草人(scarecrow) | North Korea | 15 |
 | 20 | [DillerOFire](https://github.com/DillerOFire) | VerpaSRP | North Korea | 14 |
 
-Generated: 2026-10-14T22:04:47.520Z
+Generated: 2026-10-15T00:20:02.727Z

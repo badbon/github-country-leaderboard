@@ -20,7 +20,7 @@ Indexed users: 296
 | 6 | [n30dyn4m1c](https://github.com/n30dyn4m1c) | Neo Malesa | Port Moresby, Papua New Guinea | 3,021 |
 | 7 | [glenhayoge](https://github.com/glenhayoge) | Glen G Hayoge | Papua New Guinea | 1,639 |
 | 8 | [jm0535](https://github.com/jm0535) | Jimmy Moses | Papua New Guinea | 1,526 |
-| 9 | [alefsolutions](https://github.com/alefsolutions) | Louis Ronald | Port Moresby | 1,173 |
+| 9 | [alefsolutions](https://github.com/alefsolutions) | Louis Ronald | Port Moresby | 1,229 |
 | 10 | [eugene-pande](https://github.com/eugene-pande) | Eugene Pande | Port Moresby, Papua New Guinea | 1,138 |
 | 11 | [Amesi](https://github.com/Amesi) | Victor Temokang | Papua New Guinea | 1,113 |
 | 12 | [nessktn](https://github.com/nessktn) | Johannes Kutan | Papua New Guinea | 1,049 |
@@ -49,7 +49,7 @@ Indexed users: 296
 | 10 | [digi4arch424](https://github.com/digi4arch424) | DigiArch 424 | Port Moresby | 242 |
 | 11 | [DEVE123-dev](https://github.com/DEVE123-dev) | Benjamin deve Bino | Port Moresby, NCDC | 234 |
 | 12 | [projekt-kombil](https://github.com/projekt-kombil) | Alefay Kombil | Papua New Guinea | 226 |
-| 13 | [Thafundraiser007](https://github.com/Thafundraiser007) | Jamill Naipao  | Papua New Guinea, NCD, Port Moresby  | 222 |
+| 13 | [Thafundraiser007](https://github.com/Thafundraiser007) | Jamill Naipao  | Papua New Guinea, NCD, Port Moresby  | 225 |
 | 14 | [EzraMulaga](https://github.com/EzraMulaga) | Ezra Mulaga | Papua New Guinea | 216 |
 | 15 | [Sethsam675](https://github.com/Sethsam675) | Seth Sam | Port Moresby, Papua New Guinea | 198 |
 | 16 | [chrisaugu](https://github.com/chrisaugu) | Christian Augustyn | Madang, Papua New Guinea | 164 |
@@ -83,4 +83,4 @@ Indexed users: 296
 | 19 | [jeremykes](https://github.com/jeremykes) | Jeremy Kes Palme  | Papua New Guinea | 8 |
 | 20 | [jm0535](https://github.com/jm0535) | Jimmy Moses | Papua New Guinea | 8 |
 
-Generated: 2026-10-14T22:11:13.833Z
+Generated: 2026-10-15T00:22:40.684Z

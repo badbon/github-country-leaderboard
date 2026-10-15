@@ -1,6 +1,6 @@
 # Total Contributions - Qatar
 
-Generated: 2026-10-14T22:12:17.153Z
+Generated: 2026-10-15T00:24:48.083Z
 
 Users: 1073
 
@@ -24,5 +24,5 @@ Users: 1073
 | 16 | [ilhamsyahids](https://github.com/ilhamsyahids) | Ilham Syahid S |  |  | Qatar | 4885 |
 | 17 | [Bewinxed](https://github.com/Bewinxed) | Omar Al Matar | Hamad Medical Corporation | Bewinxed | Doha, Qatar | 4844 |
 | 18 | [Engineersticity](https://github.com/Engineersticity) | Erastus Kirui |  | Engineersticity | Doha, Qatar | 4132 |
-| 19 | [Gubbu77](https://github.com/Gubbu77) | Indrajith vs | Teciza Solutions |  | Qatar | 3984 |
-| 20 | [altyebv](https://github.com/altyebv) | Altayeb Abdeljalil  |  |  | Doha, Qatar  Sudan  | 3870 |
+| 19 | [mbrksntrk](https://github.com/mbrksntrk) | M Burak Şentürk | Boğaziçi Üniversitesi | mbrksntrk | Doha, Qatar | 4039 |
+| 20 | [Gubbu77](https://github.com/Gubbu77) | Indrajith vs | Teciza Solutions |  | Qatar | 3984 |

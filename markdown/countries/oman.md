@@ -46,7 +46,7 @@ Indexed users: 993
 | 7 | [Reemkhalifa2](https://github.com/Reemkhalifa2) | Reem AL Adawi | Oman | 2,460 |
 | 8 | [Shahd-geo](https://github.com/Shahd-geo) | Shahd AL Abdali |  Oman  | 2,454 |
 | 9 | [Mawadda9962](https://github.com/Mawadda9962) | Mawadda Alshukaili | Oman | 2,316 |
-| 10 | [2-towns](https://github.com/2-towns) | Arnaud | Oman | 2,258 |
+| 10 | [2-towns](https://github.com/2-towns) | Arnaud | Oman | 2,231 |
 | 11 | [KiarashMinoo](https://github.com/KiarashMinoo) | Kiarash Minoo | Muscat, Masqaţ, Oman | 2,135 |
 | 12 | [WalaAlmawali](https://github.com/WalaAlmawali) | Wala Almawali  | Oman  | 2,129 |
 | 13 | [miladsoft](https://github.com/miladsoft) | Milad Raeisi | Oman | 1,978 |
@@ -83,4 +83,4 @@ Indexed users: 993
 | 19 | [3mrdev](https://github.com/3mrdev) | Amr Abd-Alkrim | Khartoum, Sudan \| Muscat, Oman | 94 |
 | 20 | [AmirSa12](https://github.com/AmirSa12) | AmirHossein Sakhravi | Muscat, Oman | 91 |
 
-Generated: 2026-10-14T22:07:36.630Z
+Generated: 2026-10-15T00:21:31.122Z

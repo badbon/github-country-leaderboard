@@ -31,7 +31,7 @@ Indexed users: 176
 | 17 | [Imrana-Moustapha](https://github.com/Imrana-Moustapha) | Imrana Moustapha | Niamey-Niger | 524 |
 | 18 | [netmophus](https://github.com/netmophus) | NETMORPHUS | Niamey | 495 |
 | 19 | [Kounou25](https://github.com/Kounou25) | Kounou Gilbert | Niamey,Niger | 457 |
-| 20 | [bkina1](https://github.com/bkina1) | Boubacar Kina | Niger | 420 |
+| 20 | [bkina1](https://github.com/bkina1) | Boubacar Kina | Niger | 419 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 176
 | 19 | [ibkhall](https://github.com/ibkhall) | Ibrahim Boubacar | Niamey | 17 |
 | 20 | [ibrahimcheik](https://github.com/ibrahimcheik) | Amadou Moussa Ibrahim | Niamey | 17 |
 
-Generated: 2026-10-14T22:03:30.425Z
+Generated: 2026-10-15T00:18:24.710Z

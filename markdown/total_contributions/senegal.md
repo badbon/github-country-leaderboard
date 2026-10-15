@@ -1,6 +1,6 @@
 # Total Contributions - Senegal
 
-Generated: 2026-10-14T22:18:26.961Z
+Generated: 2026-10-15T00:30:36.482Z
 
 Users: 1357
 
@@ -11,8 +11,8 @@ Users: 1357
 | 3 | [OusManDiouf](https://github.com/OusManDiouf) | OUSMANE  DIOUF | Fellwiin |  | Dakar, Sénégal | 10369 |
 | 4 | [ModesteNAHUM](https://github.com/ModesteNAHUM) | Modeste NAHUM | @SimplifyStack  |  | Dakar, Sénégal | 9901 |
 | 5 | [Titovich2203](https://github.com/Titovich2203) | Tito GBEDJEHA | WIICODE |  | Dakar, Senegal | 9125 |
-| 6 | [jmndao](https://github.com/jmndao) | Jonathan Musa NDAO | Tecafrik |  | Senegal | 7503 |
-| 7 | [gaelahouanvoedo](https://github.com/gaelahouanvoedo) | Gael AHOUANVOEDO |  |  | Dakar, Sénégal | 7300 |
+| 6 | [gaelahouanvoedo](https://github.com/gaelahouanvoedo) | Gael AHOUANVOEDO |  |  | Dakar, Sénégal | 7526 |
+| 7 | [jmndao](https://github.com/jmndao) | Jonathan Musa NDAO | Tecafrik |  | Senegal | 7503 |
 | 8 | [MJoshua25](https://github.com/MJoshua25) | Yao Josué |  |  | Dakar | 6373 |
 | 9 | [utachicodes](https://github.com/utachicodes) | Abdoullah Ndao | Azertica |  | Senegal | 6338 |
 | 10 | [njaga](https://github.com/njaga) | Ndiaga Ndiaye | kamit digital | ndiaga_dev | Dakar | 5639 |

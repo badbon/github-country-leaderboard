@@ -1,12 +1,12 @@
 # Public Contributions - North Korea
 
-Generated: 2026-10-14T22:04:47.520Z
+Generated: 2026-10-15T00:20:02.727Z
 
 Users: 185
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [The-Red-Serpent](https://github.com/The-Red-Serpent) | The_Red_Serpent |  |  | Pyongyang, North Korea | 1275 |
+| 1 | [The-Red-Serpent](https://github.com/The-Red-Serpent) | The_Red_Serpent |  |  | Pyongyang, North Korea | 1277 |
 | 2 | [iam-orsu](https://github.com/iam-orsu) | Vamsi Krishna |  |  | North Korea | 814 |
 | 3 | [Duzopy](https://github.com/Duzopy) | Dupozy | South Korea |  | North Korea | 607 |
 | 4 | [dddqmmx](https://github.com/dddqmmx) | PaulPerkenstein | Workers' Party of Korea |  | Pyongyang | 505 |
@@ -15,7 +15,7 @@ Users: 185
 | 7 | [advanced-rising](https://github.com/advanced-rising) | risingcore |  |  | Democratic People's Republic of Korea | 221 |
 | 8 | [DillerOFire](https://github.com/DillerOFire) | VerpaSRP |  |  | North Korea | 205 |
 | 9 | [Pigatronee](https://github.com/Pigatronee) | PigObsessedGameDev | pigat.inc |  | North Korea | 200 |
-| 10 | [RefrigerationUnit](https://github.com/RefrigerationUnit) | Julio Viejo |  |  | Pyongyang | 198 |
+| 10 | [RefrigerationUnit](https://github.com/RefrigerationUnit) | Julio Viejo |  |  | Pyongyang | 196 |
 | 11 | [renxiaoyaoo](https://github.com/renxiaoyaoo) | renxiaoyao |  |  | North Korea	 | 189 |
 | 12 | [july0785](https://github.com/july0785) | JULY |  |  | Pyongyang, DPR of Korea | 186 |
 | 13 | [andrewlee1807](https://github.com/andrewlee1807) | Andrew |  |  | North Korea | 183 |

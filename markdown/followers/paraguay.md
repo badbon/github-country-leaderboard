@@ -1,6 +1,6 @@
 # Followers - Paraguay
 
-Generated: 2026-10-14T22:11:18.681Z
+Generated: 2026-10-15T00:22:48.170Z
 
 Users: 2014
 
@@ -23,6 +23,6 @@ Users: 2014
 | 15 | [WilliBobadilla](https://github.com/WilliBobadilla) | Williams Ismael Bobadilla Torres  |  |  | Paraguay | 136 |
 | 16 | [ramirezsebas](https://github.com/ramirezsebas) | Matias Sebastian Ramirez Brizuela | FortyAU | RamirezMatias03 | Fernando de la Mora, Central, Paraguay | 128 |
 | 17 | [cardozoaldama](https://github.com/cardozoaldama) | Fernando Cardozo |  |  | Paraguay | 125 |
-| 18 | [leodufer](https://github.com/leodufer) | Oscar Duarte |  |  | Ciudad del Este,  Paraguay | 118 |
-| 19 | [ivankoop](https://github.com/ivankoop) | Ivan Koop  |  | IvanK013 | Asunción, Paraguay | 116 |
+| 18 | [ivankoop](https://github.com/ivankoop) | Ivan Koop  |  | IvanK013 | Asunción, Paraguay | 116 |
+| 19 | [leodufer](https://github.com/leodufer) | Oscar Duarte |  |  | Ciudad del Este,  Paraguay | 116 |
 | 20 | [metakeule](https://github.com/metakeule) | metakeule |  |  | Asunción / Paraguay | 110 |

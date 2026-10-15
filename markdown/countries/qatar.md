@@ -30,8 +30,8 @@ Indexed users: 1,073
 | 16 | [ilhamsyahids](https://github.com/ilhamsyahids) | Ilham Syahid S | Qatar | 4,885 |
 | 17 | [Bewinxed](https://github.com/Bewinxed) | Omar Al Matar | Doha, Qatar | 4,844 |
 | 18 | [Engineersticity](https://github.com/Engineersticity) | Erastus Kirui | Doha, Qatar | 4,132 |
-| 19 | [Gubbu77](https://github.com/Gubbu77) | Indrajith vs | Qatar | 3,984 |
-| 20 | [altyebv](https://github.com/altyebv) | Altayeb Abdeljalil  | Doha, Qatar  Sudan  | 3,870 |
+| 19 | [mbrksntrk](https://github.com/mbrksntrk) | M Burak Şentürk | Doha, Qatar | 4,039 |
+| 20 | [Gubbu77](https://github.com/Gubbu77) | Indrajith vs | Qatar | 3,984 |
 
 ## Public Contributions
 
@@ -71,7 +71,7 @@ Indexed users: 1,073
 | 7 | [noumanmhd](https://github.com/noumanmhd) | Nouman Mahmood | Qatar | 359 |
 | 8 | [yhunlu](https://github.com/yhunlu) | YAHYA UNLU | Qatar, Doha | 202 |
 | 9 | [myofficework000](https://github.com/myofficework000) | ABHISHEK PATHAK | Doha, Qatar | 160 |
-| 10 | [zahidchoudhury](https://github.com/zahidchoudhury) | M Zahid Choudhury | Qatar | 156 |
+| 10 | [zahidchoudhury](https://github.com/zahidchoudhury) | M Zahid Choudhury | Qatar | 157 |
 | 11 | [m2ncef](https://github.com/m2ncef) | Moncef Guezzi | Qatar | 127 |
 | 12 | [nirzaf](https://github.com/nirzaf) | M.F.M Fazrin | Doha - Qatar | 127 |
 | 13 | [mbrksntrk](https://github.com/mbrksntrk) | M Burak Şentürk | Doha, Qatar | 124 |
@@ -83,4 +83,4 @@ Indexed users: 1,073
 | 19 | [muratyaman](https://github.com/muratyaman) | Haci Murat Yaman | Doha, Qatar | 101 |
 | 20 | [brainconnect93](https://github.com/brainconnect93) | Afolabi Akorede | Al-Wakrah, Qatar | 100 |
 
-Generated: 2026-10-14T22:12:17.153Z
+Generated: 2026-10-15T00:24:48.083Z

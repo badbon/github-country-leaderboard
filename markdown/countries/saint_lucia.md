@@ -13,11 +13,11 @@ Indexed users: 35
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [jarnickae](https://github.com/jarnickae) |  | Castries, Saint Lucia | 7,184 |
-| 2 | [wilsonwolf](https://github.com/wilsonwolf) |  | Castries, Saint Lucia | 4,004 |
-| 3 | [jigzstar](https://github.com/jigzstar) | Joakim George | Castries, Saint Lucia | 3,778 |
-| 4 | [UVLabs](https://github.com/UVLabs) | Uriahs Victor | Saint Lucia | 2,038 |
+| 2 | [wilsonwolf](https://github.com/wilsonwolf) |  | Castries, Saint Lucia | 3,999 |
+| 3 | [jigzstar](https://github.com/jigzstar) | Joakim George | Castries, Saint Lucia | 3,795 |
+| 4 | [UVLabs](https://github.com/UVLabs) | Uriahs Victor | Saint Lucia | 2,037 |
 | 5 | [k-alphonse](https://github.com/k-alphonse) | Kaitlyn Alphonse | Saint Lucia | 1,037 |
-| 6 | [leadegroot](https://github.com/leadegroot) | Lea de Groot | Saint Lucia | 1,029 |
+| 6 | [leadegroot](https://github.com/leadegroot) | Lea de Groot | Saint Lucia | 1,021 |
 | 7 | [remyfrancis](https://github.com/remyfrancis) | Remy Francis | Saint Lucia | 954 |
 | 8 | [cmbengue-ec-intl](https://github.com/cmbengue-ec-intl) | Cheikh Mbengue | Castries, Saint Lucia | 822 |
 | 9 | [antonio-agiste](https://github.com/antonio-agiste) | Antonio | Saint Lucia | 301 |
@@ -37,7 +37,7 @@ Indexed users: 35
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [leadegroot](https://github.com/leadegroot) | Lea de Groot | Saint Lucia | 919 |
+| 1 | [leadegroot](https://github.com/leadegroot) | Lea de Groot | Saint Lucia | 912 |
 | 2 | [k-alphonse](https://github.com/k-alphonse) | Kaitlyn Alphonse | Saint Lucia | 449 |
 | 3 | [cmbengue-ec-intl](https://github.com/cmbengue-ec-intl) | Cheikh Mbengue | Castries, Saint Lucia | 132 |
 | 4 | [fontius](https://github.com/fontius) |  | Saint Lucia | 93 |
@@ -83,4 +83,4 @@ Indexed users: 35
 | 19 | [PGPillar](https://github.com/PGPillar) | H | Saint Lucia | 3 |
 | 20 | [fontius](https://github.com/fontius) |  | Saint Lucia | 2 |
 
-Generated: 2026-10-14T22:16:06.920Z
+Generated: 2026-10-15T00:28:05.411Z

@@ -12,18 +12,18 @@ Indexed users: 2,014
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [LuisValdesZero](https://github.com/LuisValdesZero) | Luis Valdés | Paraguay | 15,366 |
+| 1 | [LuisValdesZero](https://github.com/LuisValdesZero) | Luis Valdés | Paraguay | 20,188 |
 | 2 | [nikdim03](https://github.com/nikdim03) | Dmitrii Nikulin | Paraguay | 14,573 |
 | 3 | [devsart95](https://github.com/devsart95) | S4R | Paraguay | 14,120 |
 | 4 | [vargascarlitos](https://github.com/vargascarlitos) | Carlitos Vargas | Paraguay | 10,883 |
 | 5 | [pyfection](https://github.com/pyfection) | Matthias Schreiber | Paraguay | 10,440 |
 | 6 | [diogocsoares](https://github.com/diogocsoares) | Diogo Soares | Paraguay | 10,224 |
 | 7 | [anthonybir](https://github.com/anthonybir) | Anthony Bir | Asuncion, Paraguay | 10,124 |
-| 8 | [juraj-m](https://github.com/juraj-m) | Juraj | Yaguarón, Paraguay | 7,879 |
-| 9 | [dev-cardenas](https://github.com/dev-cardenas) | Fernando Salinas Cardenas | Paraguay | 7,008 |
-| 10 | [kiquetal](https://github.com/kiquetal) | Enrique\m/Talavera | Paraguay | 6,752 |
-| 11 | [MHHukiewitz](https://github.com/MHHukiewitz) | Mike Hukiewitz | Paraguay, Cordillera | 6,583 |
-| 12 | [cmelgarejo](https://github.com/cmelgarejo) | Christian Melgarejo | Paraguay | 5,899 |
+| 8 | [cmelgarejo](https://github.com/cmelgarejo) | Christian Melgarejo | Paraguay | 9,877 |
+| 9 | [juraj-m](https://github.com/juraj-m) | Juraj | Yaguarón, Paraguay | 7,879 |
+| 10 | [dev-cardenas](https://github.com/dev-cardenas) | Fernando Salinas Cardenas | Paraguay | 7,008 |
+| 11 | [kiquetal](https://github.com/kiquetal) | Enrique\m/Talavera | Paraguay | 6,752 |
+| 12 | [MHHukiewitz](https://github.com/MHHukiewitz) | Mike Hukiewitz | Paraguay, Cordillera | 6,583 |
 | 13 | [davicyyo](https://github.com/davicyyo) | DaViCyYo | Paraguay | 5,811 |
 | 14 | [zot24](https://github.com/zot24) |  | Asuncion, Paraguay | 5,424 |
 | 15 | [apojomovsky](https://github.com/apojomovsky) | Alexis Pojomovsky | Asunción - Paraguay | 5,111 |
@@ -79,8 +79,8 @@ Indexed users: 2,014
 | 15 | [WilliBobadilla](https://github.com/WilliBobadilla) | Williams Ismael Bobadilla Torres  | Paraguay | 136 |
 | 16 | [ramirezsebas](https://github.com/ramirezsebas) | Matias Sebastian Ramirez Brizuela | Fernando de la Mora, Central, Paraguay | 128 |
 | 17 | [cardozoaldama](https://github.com/cardozoaldama) | Fernando Cardozo | Paraguay | 125 |
-| 18 | [leodufer](https://github.com/leodufer) | Oscar Duarte | Ciudad del Este,  Paraguay | 118 |
-| 19 | [ivankoop](https://github.com/ivankoop) | Ivan Koop  | Asunción, Paraguay | 116 |
+| 18 | [ivankoop](https://github.com/ivankoop) | Ivan Koop  | Asunción, Paraguay | 116 |
+| 19 | [leodufer](https://github.com/leodufer) | Oscar Duarte | Ciudad del Este,  Paraguay | 116 |
 | 20 | [metakeule](https://github.com/metakeule) | metakeule | Asunción / Paraguay | 110 |
 
-Generated: 2026-10-14T22:11:18.681Z
+Generated: 2026-10-15T00:22:48.170Z
