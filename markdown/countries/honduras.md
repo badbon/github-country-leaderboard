@@ -13,8 +13,8 @@ Indexed users: 1,260
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [Siumauricio](https://github.com/Siumauricio) | Mauricio Siu | Honduras, San Pedro Sula | 13,536 |
-| 2 | [vfiii](https://github.com/vfiii) | Valentín Flores | Honduras | 12,259 |
-| 3 | [ElyDeveloper](https://github.com/ElyDeveloper) | Eliezer Rivera | Tegucigalpa, Honduras | 11,495 |
+| 2 | [ElyDeveloper](https://github.com/ElyDeveloper) | Eliezer Rivera | Tegucigalpa, Honduras | 12,526 |
+| 3 | [vfiii](https://github.com/vfiii) | Valentín Flores | Honduras | 12,259 |
 | 4 | [robertgarcia](https://github.com/robertgarcia) | Robert D. Garcia | Honduras | 9,660 |
 | 5 | [dansiegel](https://github.com/dansiegel) | Dan Siegel | Roatan, Honduras | 9,499 |
 | 6 | [BitterSweetBoy](https://github.com/BitterSweetBoy) | Denis Dueñas | Honduras | 8,394 |
@@ -83,4 +83,4 @@ Indexed users: 1,260
 | 19 | [christiansc96](https://github.com/christiansc96) | Christian Sánchez | San Pedro Sula, Honduras | 56 |
 | 20 | [Asterki](https://github.com/Asterki) | Fernando Rivera | Honduras | 55 |
 
-Generated: 2026-10-15T12:55:20.944Z
+Generated: 2026-10-15T14:20:42.887Z

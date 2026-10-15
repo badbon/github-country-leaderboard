@@ -1,6 +1,6 @@
 # Followers - Réunion
 
-Generated: 2026-10-15T13:21:46.712Z
+Generated: 2026-10-15T14:46:43.176Z
 
 Users: 212
 
@@ -12,8 +12,8 @@ Users: 212
 | 4 | [PhilDL](https://github.com/PhilDL) | Philippe L'ATTENTION | @Basaltbytes @Coding-Dodo | _philDL | Réunion | 67 |
 | 5 | [GagnereGeorges](https://github.com/GagnereGeorges) | Georges Gagneré | Paris 8 University |  | Saint-Denis | 59 |
 | 6 | [Angra974](https://github.com/Angra974) | Thierry Parlier | 100Devs | mrnemesys | Reunion Island, France | 48 |
-| 7 | [oceatoon](https://github.com/oceatoon) | Tibor Katelbach | Oceatoon and Open R&D |  | Reunion island | 48 |
-| 8 | [mekhalleh](https://github.com/mekhalleh) | RAMELLA Sébastien | Pirates.RE |  | Reunion island | 47 |
+| 7 | [mekhalleh](https://github.com/mekhalleh) | RAMELLA Sébastien | Pirates.RE |  | Reunion island | 48 |
+| 8 | [oceatoon](https://github.com/oceatoon) | Tibor Katelbach | Oceatoon and Open R&D |  | Reunion island | 48 |
 | 9 | [theo-futol](https://github.com/theo-futol) | Théo Futol |  |  | Saint-Denis, Réunion | 34 |
 | 10 | [fabricepayet](https://github.com/fabricepayet) | Fabrice Payet |  | fabricepayetfr | Reunion Island | 29 |
 | 11 | [Gabouin](https://github.com/Gabouin) | Gabouin |  |  | Reunion Island | 28 |

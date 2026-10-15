@@ -15,17 +15,17 @@ Indexed users: 713
 | 1 | [EdgarEldy](https://github.com/EdgarEldy) | EDGAR MUHAMYANGABO | Mauritius | 14,191 |
 | 2 | [512banque](https://github.com/512banque) | Kevin Richard | Mauritius | 7,700 |
 | 3 | [borissedov](https://github.com/borissedov) | Boris Sedov | Tamarin, Mauritius | 7,325 |
-| 4 | [cedpoilly](https://github.com/cedpoilly) | Cedric | Mauritius | 6,612 |
-| 5 | [w1am](https://github.com/w1am) | William Chong | Mauritius | 6,569 |
-| 6 | [wyxos](https://github.com/wyxos) | Wyxos | Mauritius | 6,334 |
-| 7 | [andrashejj](https://github.com/andrashejj) | Andras Hejj | Mauritius | 6,134 |
+| 4 | [andrashejj](https://github.com/andrashejj) | Andras Hejj | Mauritius | 6,723 |
+| 5 | [cedpoilly](https://github.com/cedpoilly) | Cedric | Mauritius | 6,612 |
+| 6 | [w1am](https://github.com/w1am) | William Chong | Mauritius | 6,569 |
+| 7 | [wyxos](https://github.com/wyxos) | Wyxos | Mauritius | 6,334 |
 | 8 | [Emmastro](https://github.com/Emmastro) | Emmanuel Bauma Murairi | Mauritius | 5,611 |
 | 9 | [MrSunshyne](https://github.com/MrSunshyne) | Sandeep Ramgolam | Mauritius | 5,557 |
 | 10 | [oliverox](https://github.com/oliverox) | Oliver Oxenham | Mauritius | 5,287 |
 | 11 | [masterdubs](https://github.com/masterdubs) | Dubs | Mauritius | 5,159 |
 | 12 | [nyashaChiza](https://github.com/nyashaChiza) | Nyasha Chizampeni | Port Louis, Mauritius | 4,946 |
-| 13 | [zfir](https://github.com/zfir) | Zafir Sk Heerah | Mauritius | 4,052 |
-| 14 | [MGabala](https://github.com/MGabala) | Mateusz | Mauritius | 4,041 |
+| 13 | [MGabala](https://github.com/MGabala) | Mateusz | Mauritius | 4,041 |
+| 14 | [zfir](https://github.com/zfir) | Zafir Sk Heerah | Mauritius | 4,024 |
 | 15 | [yayann](https://github.com/yayann) | Yann Labour | Mauritius | 3,914 |
 | 16 | [thhsie](https://github.com/thhsie) | hitesh | Mauritius | 3,833 |
 | 17 | [k3ii](https://github.com/k3ii) | Jain Ramchurn | Mauritius | 3,770 |
@@ -83,4 +83,4 @@ Indexed users: 713
 | 19 | [MaskyS](https://github.com/MaskyS) | Kifah M | Mauritius | 74 |
 | 20 | [umarmw](https://github.com/umarmw) | Umar Waliyullah | Mauritius | 66 |
 
-Generated: 2026-10-15T13:09:19.061Z
+Generated: 2026-10-15T14:33:42.689Z

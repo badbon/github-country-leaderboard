@@ -1,6 +1,6 @@
 # Followers - Kyrgyzstan
 
-Generated: 2026-10-15T13:01:52.800Z
+Generated: 2026-10-15T14:25:31.670Z
 
 Users: 2450
 
@@ -9,7 +9,7 @@ Users: 2450
 | 1 | [temirovazat](https://github.com/temirovazat) | Temirov Azat |  |  | Bishkek, Kyrgyzstan | 2217 |
 | 2 | [Maksbicoin](https://github.com/Maksbicoin) | Cryptopunk13(soon1) |  |  | Kyrgyzstan | 380 |
 | 3 | [Toktorov](https://github.com/Toktorov) | Toktorov Kurmanbek | Founder & CEO @CodexKG | binniev01 | Kyrgyzstan, Bishkek | 363 |
-| 4 | [anatoly-bobrovsky](https://github.com/anatoly-bobrovsky) | Anatoly Bobrovsky |  |  | Bishkek | 274 |
+| 4 | [anatoly-bobrovsky](https://github.com/anatoly-bobrovsky) | Anatoly Bobrovsky |  |  | Bishkek | 255 |
 | 5 | [gen1us2k](https://github.com/gen1us2k) | Andrew Zhuravlev |  | gen1us2k | Kyrgyzstan, Bishkek | 208 |
 | 6 | [nasirovx](https://github.com/nasirovx) | 5ekastan | ITC bootcamp  |  | Osh \| Kyrgyzstan | 183 |
 | 7 | [toksaitov](https://github.com/toksaitov) | Toksaitov Dmitrii Alexandrovich | @auca |  | Bishkek | 176 |

@@ -1,6 +1,6 @@
 # Followers - Haiti
 
-Generated: 2026-10-15T12:54:16.012Z
+Generated: 2026-10-15T14:20:37.734Z
 
 Users: 339
 
@@ -16,7 +16,7 @@ Users: 339
 | 8 | [Gardimy](https://github.com/Gardimy) | Gardimy Charles |  | gardyelontiga45 | Haiti | 56 |
 | 9 | [Lemayzeur](https://github.com/Lemayzeur) | Lub Lorry Lamysère | Code9Dev | lemayzeur | Port-au-Prince - Haiti | 56 |
 | 10 | [EdManDev](https://github.com/EdManDev) | EdManDev | EdManDev | EdmanManigat | Haiti | 45 |
-| 11 | [jamslylm](https://github.com/jamslylm) | Jamsly MINÉ | Freelance | jamslylm | Port-au-prince, Ouest, Haiti | 44 |
+| 11 | [jamslylm](https://github.com/jamslylm) | Jamsly MINÉ | Freelance | jamslylm | Port-au-prince, Ouest, Haiti | 43 |
 | 12 | [AD0791](https://github.com/AD0791) | Alexandro Disla |  |  | Haiti | 41 |
 | 13 | [midsonlajeanty](https://github.com/midsonlajeanty) | Louis Midson Lajeanty |  |  | Haiti | 40 |
 | 14 | [bogosla](https://github.com/bogosla) | James Destiné |  |  | Haiti | 38 |

@@ -12,7 +12,7 @@ Indexed users: 439
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [K4Lok](https://github.com/K4Lok) | KaLok Sam | Macau | 11,393 |
+| 1 | [K4Lok](https://github.com/K4Lok) | KaLok Sam | Macau | 11,545 |
 | 2 | [spiritLHLS](https://github.com/spiritLHLS) | spiritlhl | Macau | 9,819 |
 | 3 | [vergilsoleyn](https://github.com/vergilsoleyn) |  | Macau | 8,091 |
 | 4 | [Chonwai](https://github.com/Chonwai) | Chonwai Un, Edison | Macau | 6,926 |
@@ -80,7 +80,7 @@ Indexed users: 439
 | 16 | [zhiyzuo](https://github.com/zhiyzuo) | Zhiya Zuo | Macau | 93 |
 | 17 | [walkdoer](https://github.com/walkdoer) | Andrew Cheong | Macau | 83 |
 | 18 | [1595901624](https://github.com/1595901624) | Cloris | Macau | 68 |
-| 19 | [Boom5426](https://github.com/Boom5426) | Bo li (李波) | Macau | 67 |
+| 19 | [Boom5426](https://github.com/Boom5426) | Bo li (李波) | Macau | 68 |
 | 20 | [mugpeng](https://github.com/mugpeng) | Peng | macao | 67 |
 
-Generated: 2026-10-15T13:04:08.717Z
+Generated: 2026-10-15T14:29:00.632Z

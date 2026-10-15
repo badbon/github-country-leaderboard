@@ -56,7 +56,7 @@ Indexed users: 6,693
 | 17 | [Abduljebar49](https://github.com/Abduljebar49) | Abduljebar | Addis Ababa, Ethiopia | 2,510 |
 | 18 | [Mebrie-Awoke](https://github.com/Mebrie-Awoke) | Mebrie Awoke | Addis Ababa , Ethiopia | 2,427 |
 | 19 | [gemachistesfaye](https://github.com/gemachistesfaye) | Gemachis Tesfaye | Adaama, Ethiopia | 2,378 |
-| 20 | [Maxd646](https://github.com/Maxd646) | Daniel Kebede | Addis Ababa | 2,097 |
+| 20 | [dagiteferi](https://github.com/dagiteferi) | Dagmawi Teferi | Adama, Ethiopia | 2,374 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 6,693
 | 19 | [Olyadtemesgen](https://github.com/Olyadtemesgen) | Olyad Temesgen Amsalu | Addis Ababa, Ethiopia | 519 |
 | 20 | [yonasleykun27](https://github.com/yonasleykun27) | Yonas Leykun | Addis Ababa, Ethiopia  | 515 |
 
-Generated: 2026-10-15T12:47:11.659Z
+Generated: 2026-10-15T14:12:55.427Z

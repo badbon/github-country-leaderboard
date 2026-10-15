@@ -55,7 +55,7 @@ Indexed users: 742
 | 16 | [Wondermine](https://github.com/Wondermine) | Taha Ali | Libya, Tripoli | 368 |
 | 17 | [Tellesy](https://github.com/Tellesy) | blueMu | Tripoli, Libya | 360 |
 | 18 | [Nojaid-Ad](https://github.com/Nojaid-Ad) |  | Tripoli | 357 |
-| 19 | [torgodly](https://github.com/torgodly) | Abdullah al-hajj | libya | 351 |
+| 19 | [torgodly](https://github.com/torgodly) | Abdullah al-hajj | libya | 348 |
 | 20 | [AbdelWahab-Farhat](https://github.com/AbdelWahab-Farhat) | Abdelwahab farhat | Libya-Tripoli-Gorji | 347 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 742
 | 19 | [ZizouHuweidi](https://github.com/ZizouHuweidi) | El Zubeir Huweidi | Benghazi, Libya | 51 |
 | 20 | [Islam-alshiki](https://github.com/Islam-alshiki) | Islam alshiki | Benghazi, Libya | 49 |
 
-Generated: 2026-10-15T13:03:11.166Z
+Generated: 2026-10-15T14:27:37.875Z

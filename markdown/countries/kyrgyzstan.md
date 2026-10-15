@@ -65,7 +65,7 @@ Indexed users: 2,450
 | 1 | [temirovazat](https://github.com/temirovazat) | Temirov Azat | Bishkek, Kyrgyzstan | 2,217 |
 | 2 | [Maksbicoin](https://github.com/Maksbicoin) | Cryptopunk13(soon1) | Kyrgyzstan | 380 |
 | 3 | [Toktorov](https://github.com/Toktorov) | Toktorov Kurmanbek | Kyrgyzstan, Bishkek | 363 |
-| 4 | [anatoly-bobrovsky](https://github.com/anatoly-bobrovsky) | Anatoly Bobrovsky | Bishkek | 274 |
+| 4 | [anatoly-bobrovsky](https://github.com/anatoly-bobrovsky) | Anatoly Bobrovsky | Bishkek | 255 |
 | 5 | [gen1us2k](https://github.com/gen1us2k) | Andrew Zhuravlev | Kyrgyzstan, Bishkek | 208 |
 | 6 | [nasirovx](https://github.com/nasirovx) | 5ekastan | Osh \| Kyrgyzstan | 183 |
 | 7 | [toksaitov](https://github.com/toksaitov) | Toksaitov Dmitrii Alexandrovich | Bishkek | 176 |
@@ -83,4 +83,4 @@ Indexed users: 2,450
 | 19 | [Elkhan2003](https://github.com/Elkhan2003) | Elkhan Sharshenbekov | Karakol, Kyrgyzstan | 103 |
 | 20 | [eszdman](https://github.com/eszdman) |  | Kyrgyzstan | 103 |
 
-Generated: 2026-10-15T13:01:52.800Z
+Generated: 2026-10-15T14:25:31.670Z

@@ -13,8 +13,8 @@ Indexed users: 315
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [hervedelmas](https://github.com/hervedelmas) | herve delmas | libreville | 1,985 |
-| 2 | [therealwardell](https://github.com/therealwardell) | ElieJoel | Libreville,GABON | 1,933 |
-| 3 | [Ggboykxz](https://github.com/Ggboykxz) | Mr. ROBOT | Gabon | 1,809 |
+| 2 | [Ggboykxz](https://github.com/Ggboykxz) | Mr. ROBOT | Gabon | 1,954 |
+| 3 | [therealwardell](https://github.com/therealwardell) | ElieJoel | Libreville,GABON | 1,948 |
 | 4 | [Yusufibin](https://github.com/Yusufibin) | Youssouf ⚜️ | Gabon, Libreville | 1,338 |
 | 5 | [stoneC0der](https://github.com/stoneC0der) | Cedric Megnie N. | Libreville/Gabon | 1,084 |
 | 6 | [Crazynotdev](https://github.com/Crazynotdev) | ZynXx | Gabon | 1,042 |
@@ -37,7 +37,7 @@ Indexed users: 315
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [Ggboykxz](https://github.com/Ggboykxz) | Mr. ROBOT | Gabon | 1,496 |
+| 1 | [Ggboykxz](https://github.com/Ggboykxz) | Mr. ROBOT | Gabon | 1,578 |
 | 2 | [Crazynotdev](https://github.com/Crazynotdev) | ZynXx | Gabon | 1,042 |
 | 3 | [Marseven](https://github.com/Marseven) | Aristide Mebodo | Libreville | 927 |
 | 4 | [NathanLeFuturMillionaire](https://github.com/NathanLeFuturMillionaire) | Nathan Le Fütür Milliønãîre | Libreville | 731 |
@@ -83,4 +83,4 @@ Indexed users: 315
 | 19 | [Dylan245-droid](https://github.com/Dylan245-droid) | Dylan ONDO | Libreville, Gabon | 22 |
 | 20 | [Marseven](https://github.com/Marseven) | Aristide Mebodo | Libreville | 20 |
 
-Generated: 2026-10-15T12:50:01.217Z
+Generated: 2026-10-15T14:14:17.384Z

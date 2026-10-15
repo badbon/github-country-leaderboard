@@ -1,6 +1,6 @@
 # Public Contributions - French Guiana
 
-Generated: 2026-10-15T12:48:39.118Z
+Generated: 2026-10-15T14:14:09.039Z
 
 Users: 36
 
@@ -24,5 +24,5 @@ Users: 36
 | 16 | [MelPeslier](https://github.com/MelPeslier) | Mel |  |  | Guyane  | 4 |
 | 17 | [yuhuhb](https://github.com/yuhuhb) | Nidiquim Nukidu |  |  | Guiana | 4 |
 | 18 | [adrienandrem](https://github.com/adrienandrem) | Adrien |  |  | Cayenne | 2 |
-| 19 | [geommon](https://github.com/geommon) | Milo | Université de Guyane |  | Cayenne | 1 |
-| 20 | [Anne-Sophie-Andersson](https://github.com/Anne-Sophie-Andersson) | Anne-Sophie ANDERSSON |  |  | French Guiana | 0 |
+| 19 | [Dunvii](https://github.com/Dunvii) | Dunvii |  | arzurloik973 | French Guiana | 1 |
+| 20 | [geommon](https://github.com/geommon) | Milo | Université de Guyane |  | Cayenne | 1 |

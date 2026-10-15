@@ -23,8 +23,8 @@ Indexed users: 2,200
 | 9 | [izadoesdev](https://github.com/izadoesdev) | iza | Palestine | 7,373 |
 | 10 | [RandaZraik](https://github.com/RandaZraik) | Randa | Nablus, Palestine | 6,969 |
 | 11 | [1210395](https://github.com/1210395) | Jadallah  | Ramallah | 6,823 |
-| 12 | [moustff](https://github.com/moustff) | Mustafa Salem | Gaza, Palestine. | 5,401 |
-| 13 | [salahy](https://github.com/salahy) | Salah Yahya | Palestine | 5,336 |
+| 12 | [salahy](https://github.com/salahy) | Salah Yahya | Palestine | 6,501 |
+| 13 | [moustff](https://github.com/moustff) | Mustafa Salem | Gaza, Palestine. | 5,401 |
 | 14 | [moejehad](https://github.com/moejehad) | Mohammed Almadhoun | Palestine | 5,026 |
 | 15 | [IsmailAAmassi](https://github.com/IsmailAAmassi) | Ismail A. Amassi | Palestine, Gaza Strip | 4,747 |
 | 16 | [abusalameh](https://github.com/abusalameh) | Raja Abu Salameh | Jenin, Palestine | 4,581 |
@@ -83,4 +83,4 @@ Indexed users: 2,200
 | 19 | [dalia2323](https://github.com/dalia2323) |  | Qalqilya, Palestine | 127 |
 | 20 | [mhmdio](https://github.com/mhmdio) | Mohammed Almusaddar | Gaza, Palestine | 123 |
 
-Generated: 2026-10-15T13:17:31.716Z
+Generated: 2026-10-15T14:43:09.462Z

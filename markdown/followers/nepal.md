@@ -1,6 +1,6 @@
 # Followers - Nepal
 
-Generated: 2026-10-15T13:12:46.642Z
+Generated: 2026-10-15T14:36:41.529Z
 
 Users: 14120
 
@@ -19,7 +19,7 @@ Users: 14120
 | 11 | [prabinmagar](https://github.com/prabinmagar) | Prabin Magar |  |  | Kathmandu,, Nepal | 1216 |
 | 12 | [ThinamXx](https://github.com/ThinamXx) | Thinam Tamang | Speechify |  | Kathmandu, Nepal | 1209 |
 | 13 | [bishworajpoudelofficial](https://github.com/bishworajpoudelofficial) | Bishworaj Poudel | @technologychannel  |  | Pokhara, Nepal | 1022 |
-| 14 | [Rorychhattish](https://github.com/Rorychhattish) | Chhatish kumar Sah |  |  | Janakpur, Nepal | 1014 |
+| 14 | [Rorychhattish](https://github.com/Rorychhattish) | Chhatish kumar Sah |  |  | Janakpur, Nepal | 975 |
 | 15 | [vijaythapa333](https://github.com/vijaythapa333) | Vijay Thapa |  | thevijaythapa | Kathmandu, Nepal | 946 |
 | 16 | [iamtekson](https://github.com/iamtekson) | Tek Kshetri | The Solution Stack | iamtekson | Nepal | 935 |
 | 17 | [sanamhub](https://github.com/sanamhub) | Sanam | SEA | sanampakuwal | Nepal | 838 |

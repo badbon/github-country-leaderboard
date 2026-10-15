@@ -25,8 +25,8 @@ Indexed users: 699
 | 11 | [bindukabusara](https://github.com/bindukabusara) | Bindu Kabusara Josué | Kampala, Kinshasa | 5,953 |
 | 12 | [kalemadaniel](https://github.com/kalemadaniel) | Kalema Daniel Jonathan | Democratic Republic of the Congo, Goma | 5,931 |
 | 13 | [stany-bns](https://github.com/stany-bns) | Stany Bibwangu | Kinshasa, DRC | 5,542 |
-| 14 | [hktom](https://github.com/hktom) | Tom Hikari | Congo Kinshasa | 5,044 |
-| 15 | [bilwifi](https://github.com/bilwifi) | Peniel DIALUNDAMA | Kinshasa, DRC | 4,946 |
+| 14 | [bilwifi](https://github.com/bilwifi) | Peniel DIALUNDAMA | Kinshasa, DRC | 5,280 |
+| 15 | [hktom](https://github.com/hktom) | Tom Hikari | Congo Kinshasa | 5,044 |
 | 16 | [danielrubango](https://github.com/danielrubango) | Daniel RUBANGO | Kinshasa | 4,935 |
 | 17 | [pacomeissa](https://github.com/pacomeissa) | PACOME ISSA | Democratic Republic of Congo | 4,798 |
 | 18 | [AlbusDigi](https://github.com/AlbusDigi) | Albus | Kinshasa | 4,703 |
@@ -83,4 +83,4 @@ Indexed users: 699
 | 19 | [bolenge](https://github.com/bolenge) | Don de Dieu Bolenge | Congo - Kinshasa | 69 |
 | 20 | [ChrisMwanya](https://github.com/ChrisMwanya) | Chris Mwanya | kinshasa | 69 |
 
-Generated: 2026-10-15T12:43:45.560Z
+Generated: 2026-10-15T14:09:53.412Z

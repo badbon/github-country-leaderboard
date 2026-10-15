@@ -15,8 +15,8 @@ Indexed users: 339
 | 1 | [jkenley](https://github.com/jkenley) | Kenley Jean | Haiti | 5,624 |
 | 2 | [jbob9](https://github.com/jbob9) | Jean Baptiste Berlensky O. | Haiti | 4,769 |
 | 3 | [ninjaroot-509](https://github.com/ninjaroot-509) | Castin Stanley | Haiti | 4,593 |
-| 4 | [joassanon](https://github.com/joassanon) | Joas Sanon | Port-au-prince, Haiti | 4,307 |
-| 5 | [jecode93](https://github.com/jecode93) | Jean Emmanuel Cadet | Haiti | 3,555 |
+| 4 | [joassanon](https://github.com/joassanon) | Joas Sanon | Port-au-prince, Haiti | 3,829 |
+| 5 | [jecode93](https://github.com/jecode93) | Jean Emmanuel Cadet | Haiti | 3,571 |
 | 6 | [platon777](https://github.com/platon777) | Wichley Valentin | Haiti | 2,443 |
 | 7 | [FalandyJEAN](https://github.com/FalandyJEAN) | Falandy Jean | Haiti | 2,349 |
 | 8 | [odilson-dev](https://github.com/odilson-dev) | Odilson W. Italis | Les Cayes, Haiti | 2,251 |
@@ -29,7 +29,7 @@ Indexed users: 339
 | 15 | [thecassion](https://github.com/thecassion) | Pierre Robentz CASSION | Haiti | 1,527 |
 | 16 | [antifugazis](https://github.com/antifugazis) | Jyvor Slaadel Mortimer | Port-au-Prince | 1,453 |
 | 17 | [fater04](https://github.com/fater04) | fater_04 | Haiti | 1,112 |
-| 18 | [jsbeaudry](https://github.com/jsbeaudry) | Beaudry Jean Sauvenel | Port-au-prince, Haiti | 976 |
+| 18 | [jsbeaudry](https://github.com/jsbeaudry) | Beaudry Jean Sauvenel | Port-au-prince, Haiti | 974 |
 | 19 | [EdManDev](https://github.com/EdManDev) | EdManDev | Haiti | 938 |
 | 20 | [dukenst2006](https://github.com/dukenst2006) | Thelemaque | Port-au-Prince | 894 |
 
@@ -39,7 +39,7 @@ Indexed users: 339
 |---:|---|---|---|---:|
 | 1 | [lanovatechnologie-a11y](https://github.com/lanovatechnologie-a11y) | Lota | Limonade, Haiti | 692 |
 | 2 | [midsonlajeanty](https://github.com/midsonlajeanty) | Louis Midson Lajeanty | Haiti | 435 |
-| 3 | [jecode93](https://github.com/jecode93) | Jean Emmanuel Cadet | Haiti | 419 |
+| 3 | [jecode93](https://github.com/jecode93) | Jean Emmanuel Cadet | Haiti | 424 |
 | 4 | [ritchartconcept](https://github.com/ritchartconcept) | Fritzner Richard | haiti | 414 |
 | 5 | [Tonton-ios](https://github.com/Tonton-ios) | Eernst_ | HAITI | 369 |
 | 6 | [dolphfi](https://github.com/dolphfi) | Fidele Delon Phayendy Rodolph | Cap-Haïtien, Haiti | 367 |
@@ -72,7 +72,7 @@ Indexed users: 339
 | 8 | [Gardimy](https://github.com/Gardimy) | Gardimy Charles | Haiti | 56 |
 | 9 | [Lemayzeur](https://github.com/Lemayzeur) | Lub Lorry Lamysère | Port-au-Prince - Haiti | 56 |
 | 10 | [EdManDev](https://github.com/EdManDev) | EdManDev | Haiti | 45 |
-| 11 | [jamslylm](https://github.com/jamslylm) | Jamsly MINÉ | Port-au-prince, Ouest, Haiti | 44 |
+| 11 | [jamslylm](https://github.com/jamslylm) | Jamsly MINÉ | Port-au-prince, Ouest, Haiti | 43 |
 | 12 | [AD0791](https://github.com/AD0791) | Alexandro Disla | Haiti | 41 |
 | 13 | [midsonlajeanty](https://github.com/midsonlajeanty) | Louis Midson Lajeanty | Haiti | 40 |
 | 14 | [bogosla](https://github.com/bogosla) | James Destiné | Haiti | 38 |
@@ -83,4 +83,4 @@ Indexed users: 339
 | 19 | [skydevht](https://github.com/skydevht) | Holy-Elie Scaïde | Port-au-prince, Haïti | 32 |
 | 20 | [DybyTechX](https://github.com/DybyTechX) | DybyTechX | haiti | 31 |
 
-Generated: 2026-10-15T12:54:16.012Z
+Generated: 2026-10-15T14:20:37.734Z

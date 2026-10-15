@@ -1,6 +1,6 @@
 # Total Contributions - Palestine
 
-Generated: 2026-10-15T13:17:31.716Z
+Generated: 2026-10-15T14:43:09.462Z
 
 Users: 2200
 
@@ -17,8 +17,8 @@ Users: 2200
 | 9 | [izadoesdev](https://github.com/izadoesdev) | iza | Databuddy | izadoesdev | Palestine | 7373 |
 | 10 | [RandaZraik](https://github.com/RandaZraik) | Randa | @FoothillSolutions |  | Nablus, Palestine | 6969 |
 | 11 | [1210395](https://github.com/1210395) | Jadallah  | BZU |  | Ramallah | 6823 |
-| 12 | [moustff](https://github.com/moustff) | Mustafa Salem | NADSOFT |  | Gaza, Palestine. | 5401 |
-| 13 | [salahy](https://github.com/salahy) | Salah Yahya |  |  | Palestine | 5336 |
+| 12 | [salahy](https://github.com/salahy) | Salah Yahya |  |  | Palestine | 6501 |
+| 13 | [moustff](https://github.com/moustff) | Mustafa Salem | NADSOFT |  | Gaza, Palestine. | 5401 |
 | 14 | [moejehad](https://github.com/moejehad) | Mohammed Almadhoun |  |  | Palestine | 5026 |
 | 15 | [IsmailAAmassi](https://github.com/IsmailAAmassi) | Ismail A. Amassi | @onestudio-co  | ismailaamassi | Palestine, Gaza Strip | 4747 |
 | 16 | [abusalameh](https://github.com/abusalameh) | Raja Abu Salameh |  |  | Jenin, Palestine | 4581 |

@@ -12,7 +12,7 @@ Indexed users: 212
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [fabricepayet](https://github.com/fabricepayet) | Fabrice Payet | Reunion Island | 19,767 |
+| 1 | [fabricepayet](https://github.com/fabricepayet) | Fabrice Payet | Reunion Island | 21,380 |
 | 2 | [PhilDL](https://github.com/PhilDL) | Philippe L'ATTENTION | Réunion | 6,860 |
 | 3 | [digikaizen](https://github.com/digikaizen) | DigiKaizen | Saint-Denis | 6,438 |
 | 4 | [saiht](https://github.com/saiht) | Saiht | Reunion Island | 3,880 |
@@ -68,8 +68,8 @@ Indexed users: 212
 | 4 | [PhilDL](https://github.com/PhilDL) | Philippe L'ATTENTION | Réunion | 67 |
 | 5 | [GagnereGeorges](https://github.com/GagnereGeorges) | Georges Gagneré | Saint-Denis | 59 |
 | 6 | [Angra974](https://github.com/Angra974) | Thierry Parlier | Reunion Island, France | 48 |
-| 7 | [oceatoon](https://github.com/oceatoon) | Tibor Katelbach | Reunion island | 48 |
-| 8 | [mekhalleh](https://github.com/mekhalleh) | RAMELLA Sébastien | Reunion island | 47 |
+| 7 | [mekhalleh](https://github.com/mekhalleh) | RAMELLA Sébastien | Reunion island | 48 |
+| 8 | [oceatoon](https://github.com/oceatoon) | Tibor Katelbach | Reunion island | 48 |
 | 9 | [theo-futol](https://github.com/theo-futol) | Théo Futol | Saint-Denis, Réunion | 34 |
 | 10 | [fabricepayet](https://github.com/fabricepayet) | Fabrice Payet | Reunion Island | 29 |
 | 11 | [Gabouin](https://github.com/Gabouin) | Gabouin | Reunion Island | 28 |
@@ -83,4 +83,4 @@ Indexed users: 212
 | 19 | [JeCodeLeSoir](https://github.com/JeCodeLeSoir) | Aurélien | Réunion | 20 |
 | 20 | [Nasjoe](https://github.com/Nasjoe) | Jonas TURBEAUX | Réunion Island, Villeurbanne, Montpellier : France | 20 |
 
-Generated: 2026-10-15T13:21:46.712Z
+Generated: 2026-10-15T14:46:43.176Z

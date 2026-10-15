@@ -14,24 +14,24 @@ Indexed users: 2,565
 |---:|---|---|---|---:|
 | 1 | [YoussofH](https://github.com/YoussofH) | Youssof Hammoud | Beirut, Lebanon | 23,135 |
 | 2 | [1homsi](https://github.com/1homsi) | Mohamad Homsi | Lebanon | 21,539 |
-| 3 | [hussein-turfah](https://github.com/hussein-turfah) | Hussein Turfah | Lebanon | 12,520 |
-| 4 | [KhaledSaeed18](https://github.com/KhaledSaeed18) | Khaled Saeed | Lebanon | 10,546 |
-| 5 | [SilverLucFox](https://github.com/SilverLucFox) | Jawad Choucair | lebanon | 9,902 |
-| 6 | [AbedAmouneh](https://github.com/AbedAmouneh) | Abed El-Fattah Amouneh | Lebanon | 9,741 |
-| 7 | [Mhmdhammoud](https://github.com/Mhmdhammoud) | Mohammad Hammoud | Lebanon | 9,315 |
+| 3 | [Mhmdhammoud](https://github.com/Mhmdhammoud) | Mohammad Hammoud | Lebanon | 16,320 |
+| 4 | [hussein-turfah](https://github.com/hussein-turfah) | Hussein Turfah | Lebanon | 12,520 |
+| 5 | [KhaledSaeed18](https://github.com/KhaledSaeed18) | Khaled Saeed | Lebanon | 10,546 |
+| 6 | [SilverLucFox](https://github.com/SilverLucFox) | Jawad Choucair | lebanon | 9,902 |
+| 7 | [AbedAmouneh](https://github.com/AbedAmouneh) | Abed El-Fattah Amouneh | Lebanon | 9,741 |
 | 8 | [abedshaaban](https://github.com/abedshaaban) | Abed Al Ghani Shaaban | Lebanon | 9,233 |
 | 9 | [JanoTheDev](https://github.com/JanoTheDev) | Jean Haddad | Lebanon | 9,150 |
-| 10 | [mhdbouk](https://github.com/mhdbouk) | Mohamad Dbouk | Beirut, Lebanon | 7,264 |
-| 11 | [MohammadKanaan](https://github.com/MohammadKanaan) | Mohammad Kanaan | Lebanon | 6,600 |
-| 12 | [mincer-fundbot](https://github.com/mincer-fundbot) | Mincer Alaeddine | Beirut | 6,452 |
-| 13 | [shahednasser](https://github.com/shahednasser) | Shahed Nasser | Aaramoun, Lebanon | 6,334 |
-| 14 | [MrPancakes39](https://github.com/MrPancakes39) | Sal Hasan | Aley, Lebanon | 6,170 |
-| 15 | [mustafahalabi](https://github.com/mustafahalabi) | Mustafa Halabi | Lebanon | 6,034 |
-| 16 | [MohamadMoheb](https://github.com/MohamadMoheb) | Mohamad Moheb | Rmeileh, Lebanon | 5,892 |
-| 17 | [Kaakati](https://github.com/Kaakati) | Mohamad Kaakati | Beirut, Lebanon | 5,864 |
-| 18 | [alishkeir](https://github.com/alishkeir) | Ali Shokair | Beirut, Lebanon | 5,577 |
-| 19 | [KABBOUCHI](https://github.com/KABBOUCHI) | Georges KABBOUCHI | Lebanon | 5,390 |
-| 20 | [Salah1221](https://github.com/Salah1221) | Salah Najem | Tripoli District, North Governorate, Lebanon | 5,352 |
+| 10 | [osmankh](https://github.com/osmankh) | Osman Taha | Zgharta District, North Governorate, Lebanon | 8,102 |
+| 11 | [mhdbouk](https://github.com/mhdbouk) | Mohamad Dbouk | Beirut, Lebanon | 7,264 |
+| 12 | [MohammadKanaan](https://github.com/MohammadKanaan) | Mohammad Kanaan | Lebanon | 6,600 |
+| 13 | [mincer-fundbot](https://github.com/mincer-fundbot) | Mincer Alaeddine | Beirut | 6,452 |
+| 14 | [shahednasser](https://github.com/shahednasser) | Shahed Nasser | Aaramoun, Lebanon | 6,334 |
+| 15 | [MrPancakes39](https://github.com/MrPancakes39) | Sal Hasan | Aley, Lebanon | 6,170 |
+| 16 | [mustafahalabi](https://github.com/mustafahalabi) | Mustafa Halabi | Lebanon | 6,034 |
+| 17 | [MohamadMoheb](https://github.com/MohamadMoheb) | Mohamad Moheb | Rmeileh, Lebanon | 5,892 |
+| 18 | [Kaakati](https://github.com/Kaakati) | Mohamad Kaakati | Beirut, Lebanon | 5,864 |
+| 19 | [alishkeir](https://github.com/alishkeir) | Ali Shokair | Beirut, Lebanon | 5,577 |
+| 20 | [KABBOUCHI](https://github.com/KABBOUCHI) | Georges KABBOUCHI | Lebanon | 5,390 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 2,565
 | 19 | [hadiidbouk](https://github.com/hadiidbouk) | Hadi Dbouk | Lebanon | 100 |
 | 20 | [rhamzeh](https://github.com/rhamzeh) | Raghd Hamzeh | Beirut, Lebanon | 95 |
 
-Generated: 2026-10-15T13:03:00.368Z
+Generated: 2026-10-15T14:26:28.692Z

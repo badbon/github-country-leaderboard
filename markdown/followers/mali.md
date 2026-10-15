@@ -1,12 +1,12 @@
 # Followers - Mali
 
-Generated: 2026-10-15T13:06:28.353Z
+Generated: 2026-10-15T14:31:49.841Z
 
 Users: 348
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [ibrahimkelly](https://github.com/ibrahimkelly) | I-K(***)Y | THL Technologies | ibrahimkelly99 | Mali | 193 |
+| 1 | [ibrahimkelly](https://github.com/ibrahimkelly) | I-K(***)Y | THL Technologies | ibrahimkelly99 | Mali | 194 |
 | 2 | [rgaudin](https://github.com/rgaudin) | rgaudin | yɛlɛman |  | Bamako, Mali | 132 |
 | 3 | [mkantem](https://github.com/mkantem) | Kante Mahamadou |  | mkantem | Mali | 122 |
 | 4 | [IvinoDev](https://github.com/IvinoDev) | Mariam Kayantao |  |  | Mali, Bamako | 69 |

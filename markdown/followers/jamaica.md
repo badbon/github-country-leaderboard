@@ -1,6 +1,6 @@
 # Followers - Jamaica
 
-Generated: 2026-10-15T12:58:38.155Z
+Generated: 2026-10-15T14:24:34.542Z
 
 Users: 1275
 
@@ -22,7 +22,7 @@ Users: 1275
 | 14 | [ColauttiLab](https://github.com/ColauttiLab) | Colautti Lab | Colautti Lab, Queen's University, Canada | ColauttiLab | Kingston, ON | 106 |
 | 15 | [mayukh4](https://github.com/mayukh4) | Mayukh Bagchi | Mayukh Bagchi |  | Kingston, Ontario | 106 |
 | 16 | [olusiekwin](https://github.com/olusiekwin) | Gramm | Gramm's Foundation | _olusiekwin | kingston, JM | 106 |
-| 17 | [RakibulRanak](https://github.com/RakibulRanak) | MD RAKIBUL HASAN |  |  | Kingston, Ontario | 103 |
+| 17 | [RakibulRanak](https://github.com/RakibulRanak) | MD RAKIBUL HASAN |  |  | Kingston, Ontario | 102 |
 | 18 | [JonCooperWorks](https://github.com/JonCooperWorks) |  |  | joncooperworks | Jamaica | 101 |
 | 19 | [aliasad059](https://github.com/aliasad059) | Ali Asad | Queen's University |  | Kingston, Ontario | 100 |
 | 20 | [andrewmaier](https://github.com/andrewmaier) | Andrew Maier | User Friendliest |  | Kingston, Ontario | 94 |

@@ -55,8 +55,8 @@ Indexed users: 476
 | 16 | [m-spangenberg](https://github.com/m-spangenberg) | Marthinus Spangenberg | Walvis Bay, Namibia | 266 |
 | 17 | [Math0202](https://github.com/Math0202) | Tangeni Matheus | Namibia, Windhoek | 263 |
 | 18 | [RohanBez2801](https://github.com/RohanBez2801) | Rohan Bezuidenhout | Windhoek, Namibia | 250 |
-| 19 | [Jason-Mendes](https://github.com/Jason-Mendes) | Jason-Mendes | Namibia | 243 |
-| 20 | [sekhubede](https://github.com/sekhubede) | Michael Sekhubede | Namibia | 243 |
+| 19 | [yaasoniii](https://github.com/yaasoniii) | Jason | Windhoek, Namibia | 246 |
+| 20 | [Jason-Mendes](https://github.com/Jason-Mendes) | Jason-Mendes | Namibia | 243 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 476
 | 19 | [Hilya02](https://github.com/Hilya02) | Hilya Ntinda Tuyakula | Windhoek, Namibia | 36 |
 | 20 | [erassynathingo](https://github.com/erassynathingo) | Erastus Nathingo | Windhoek | 33 |
 
-Generated: 2026-10-15T13:12:02.158Z
+Generated: 2026-10-15T14:36:37.222Z

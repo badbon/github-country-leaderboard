@@ -1,6 +1,6 @@
 # Total Contributions - Moldova
 
-Generated: 2026-10-15T13:10:05.588Z
+Generated: 2026-10-15T14:33:57.465Z
 
 Users: 1749
 
@@ -16,13 +16,13 @@ Users: 1749
 | 8 | [deniscuciuc](https://github.com/deniscuciuc) | Denis Cuciuc | Zelqon Works, Quality Game Core, Accent Electronic | deniscuciuc | Moldova | 6455 |
 | 9 | [pv-a-ilievici](https://github.com/pv-a-ilievici) | Andrei Ilievici | @primevision-com  |  | Chisinau, Moldova | 6072 |
 | 10 | [mtkachenk0](https://github.com/mtkachenk0) | Maxim Tkachenko |  |  | Chisinau, Moldova | 5841 |
-| 11 | [kneazy](https://github.com/kneazy) | Vitalie | CorLab |  | Moldova, Chisinau  | 5412 |
-| 12 | [grigorii-horos](https://github.com/grigorii-horos) | Grigorii Horos |  |  | Republic of Moldova | 5250 |
-| 13 | [batanus](https://github.com/batanus) | Dmitrii Medvedev |  |  | Chisinau, Moldova | 5122 |
-| 14 | [artickc](https://github.com/artickc) | NOXX - Commiter | iTSolution |  | Moldova, Chisinau | 5071 |
-| 15 | [fedotovdev](https://github.com/fedotovdev) | Ivan Fedotov |  |  | Chisinau, Moldova | 5046 |
-| 16 | [httpcatalin](https://github.com/httpcatalin) | Catalin | Eventino |  | Chișinău, Moldova | 4973 |
-| 17 | [Andrei-Ciuperca](https://github.com/Andrei-Ciuperca) | Andrei Ciupercă | @Tafi-Solutions  |  | Moldova | 4908 |
-| 18 | [vfarafonov](https://github.com/vfarafonov) | Vladimir Farafonov |  |  | Moldova | 4859 |
-| 19 | [sebsti5](https://github.com/sebsti5) | Sebastian | @Tafi-Solutions |  | Moldova 🇲🇩 | 4802 |
+| 11 | [sebsti5](https://github.com/sebsti5) | Sebastian | @Tafi-Solutions |  | Moldova 🇲🇩 | 5426 |
+| 12 | [kneazy](https://github.com/kneazy) | Vitalie | CorLab |  | Moldova, Chisinau  | 5412 |
+| 13 | [grigorii-horos](https://github.com/grigorii-horos) | Grigorii Horos |  |  | Republic of Moldova | 5250 |
+| 14 | [batanus](https://github.com/batanus) | Dmitrii Medvedev |  |  | Chisinau, Moldova | 5122 |
+| 15 | [artickc](https://github.com/artickc) | NOXX - Commiter | iTSolution |  | Moldova, Chisinau | 5071 |
+| 16 | [fedotovdev](https://github.com/fedotovdev) | Ivan Fedotov |  |  | Chisinau, Moldova | 5046 |
+| 17 | [httpcatalin](https://github.com/httpcatalin) | Catalin | Eventino |  | Chișinău, Moldova | 4973 |
+| 18 | [Andrei-Ciuperca](https://github.com/Andrei-Ciuperca) | Andrei Ciupercă | @Tafi-Solutions  |  | Moldova | 4908 |
+| 19 | [vfarafonov](https://github.com/vfarafonov) | Vladimir Farafonov |  |  | Moldova | 4859 |
 | 20 | [szagoret](https://github.com/szagoret) | Sergiu Zagoret | Complexica  |  | Chisinau, Moldova | 4756 |

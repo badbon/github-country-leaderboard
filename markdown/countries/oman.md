@@ -1,6 +1,6 @@
 # Oman
 
-Indexed users: 993
+Indexed users: 992
 
 | Leaderboard | Link |
 |---|---|
@@ -49,7 +49,7 @@ Indexed users: 993
 | 10 | [2-towns](https://github.com/2-towns) | Arnaud | Oman | 2,231 |
 | 11 | [KiarashMinoo](https://github.com/KiarashMinoo) | Kiarash Minoo | Muscat, Masqaţ, Oman | 2,135 |
 | 12 | [WalaAlmawali](https://github.com/WalaAlmawali) | Wala Almawali  | Oman  | 2,129 |
-| 13 | [miladsoft](https://github.com/miladsoft) | Milad Raeisi | Oman | 1,978 |
+| 13 | [miladsoft](https://github.com/miladsoft) | Milad Raeisi | Oman | 1,905 |
 | 14 | [alwejdan97-stack](https://github.com/alwejdan97-stack) | Wejdan Salim Al-Subhi | Oman | 1,702 |
 | 15 | [Hajar2000Alfarsi](https://github.com/Hajar2000Alfarsi) | Hajar Alfarsi | Oman | 1,577 |
 | 16 | [73ink](https://github.com/73ink) | Aaisha A. Al Rubaie | Oman | 1,333 |
@@ -83,4 +83,4 @@ Indexed users: 993
 | 19 | [3mrdev](https://github.com/3mrdev) | Amr Abd-Alkrim | Khartoum, Sudan \| Muscat, Oman | 94 |
 | 20 | [AmirSa12](https://github.com/AmirSa12) | AmirHossein Sakhravi | Muscat, Oman | 91 |
 
-Generated: 2026-10-15T13:16:08.571Z
+Generated: 2026-10-15T14:41:53.137Z

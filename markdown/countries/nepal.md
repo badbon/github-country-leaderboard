@@ -75,7 +75,7 @@ Indexed users: 14,120
 | 11 | [prabinmagar](https://github.com/prabinmagar) | Prabin Magar | Kathmandu,, Nepal | 1,216 |
 | 12 | [ThinamXx](https://github.com/ThinamXx) | Thinam Tamang | Kathmandu, Nepal | 1,209 |
 | 13 | [bishworajpoudelofficial](https://github.com/bishworajpoudelofficial) | Bishworaj Poudel | Pokhara, Nepal | 1,022 |
-| 14 | [Rorychhattish](https://github.com/Rorychhattish) | Chhatish kumar Sah | Janakpur, Nepal | 1,014 |
+| 14 | [Rorychhattish](https://github.com/Rorychhattish) | Chhatish kumar Sah | Janakpur, Nepal | 975 |
 | 15 | [vijaythapa333](https://github.com/vijaythapa333) | Vijay Thapa | Kathmandu, Nepal | 946 |
 | 16 | [iamtekson](https://github.com/iamtekson) | Tek Kshetri | Nepal | 935 |
 | 17 | [sanamhub](https://github.com/sanamhub) | Sanam | Nepal | 838 |
@@ -83,4 +83,4 @@ Indexed users: 14,120
 | 19 | [SajanGhimire1](https://github.com/SajanGhimire1) | Sajan Ghimire | Nepal | 755 |
 | 20 | [HeyIamMarasiniAmrit](https://github.com/HeyIamMarasiniAmrit) | Amrit Marasini | Kathmandu, Nepal | 747 |
 
-Generated: 2026-10-15T13:12:46.642Z
+Generated: 2026-10-15T14:36:41.529Z

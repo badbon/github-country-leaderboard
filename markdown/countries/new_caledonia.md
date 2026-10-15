@@ -13,7 +13,7 @@ Indexed users: 111
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [MelanieGault](https://github.com/MelanieGault) | Mélanie | New Caledonia | 13,641 |
-| 2 | [kyuhank](https://github.com/kyuhank) | Kyuhan Kim | Noumea, New Caledonia | 6,678 |
+| 2 | [kyuhank](https://github.com/kyuhank) | Kyuhan Kim | Noumea, New Caledonia | 6,722 |
 | 3 | [maitredede](https://github.com/maitredede) | Damien DALY | Nouméa, New Caledonia | 5,487 |
 | 4 | [adriens](https://github.com/adriens) | SALES | Nouméa, New-Caledonia | 4,130 |
 | 5 | [6pheR](https://github.com/6pheR) | CipheR_ | New Caledonia | 2,573 |
@@ -51,7 +51,7 @@ Indexed users: 111
 | 12 | [ellisp](https://github.com/ellisp) | Peter Ellis | Nouméa, Nouvelle-Calédonie | 223 |
 | 13 | [TooFuW](https://github.com/TooFuW) | Eyrian Muet | New- Caledonia | 216 |
 | 14 | [kibagami-nc](https://github.com/kibagami-nc) | Manley.B | New-Caledonia | 157 |
-| 15 | [trara538](https://github.com/trara538) | Rara Soro | Noumea, New Caledonia | 151 |
+| 15 | [trara538](https://github.com/trara538) | Rara Soro | Noumea, New Caledonia | 152 |
 | 16 | [Julien-Fruteau](https://github.com/Julien-Fruteau) | Julien | New Caledonia | 140 |
 | 17 | [FreddieJH](https://github.com/FreddieJH) | Freddie J. Heather | Noumea, New Caledonia | 125 |
 | 18 | [thhomas](https://github.com/thhomas) | Thomas Tilak | Nouméa | 118 |
@@ -83,4 +83,4 @@ Indexed users: 111
 | 19 | [gronono](https://github.com/gronono) | Arnaud | New Caledonia | 9 |
 | 20 | [6pheR](https://github.com/6pheR) | CipheR_ | New Caledonia | 8 |
 
-Generated: 2026-10-15T13:13:26.172Z
+Generated: 2026-10-15T14:36:47.604Z
