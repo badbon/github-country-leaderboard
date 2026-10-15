@@ -12,8 +12,8 @@ Indexed users: 38
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [BazaarsBZR](https://github.com/BazaarsBZR) | Bazaars | Bazaars Limited, Intershore Chambers, Road Town, Tortola, British Virgin Islands | 6,432 |
-| 2 | [AI-Isaiah](https://github.com/AI-Isaiah) |  | British Virgin Islands | 3,590 |
+| 1 | [BazaarsBZR](https://github.com/BazaarsBZR) | Bazaars | Bazaars Limited, Intershore Chambers, Road Town, Tortola, British Virgin Islands | 6,434 |
+| 2 | [AI-Isaiah](https://github.com/AI-Isaiah) |  | British Virgin Islands | 3,597 |
 | 3 | [justmoon](https://github.com/justmoon) | Stefan Thomas | British Virgin Islands | 3,051 |
 | 4 | [Dener1111](https://github.com/Dener1111) | DK | Road Town, British Virgin Islands | 2,090 |
 | 5 | [divyansh2681](https://github.com/divyansh2681) | Divyansh Agrawal | Virgin Islands | 444 |
@@ -37,7 +37,7 @@ Indexed users: 38
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [AI-Isaiah](https://github.com/AI-Isaiah) |  | British Virgin Islands | 3,590 |
+| 1 | [AI-Isaiah](https://github.com/AI-Isaiah) |  | British Virgin Islands | 3,597 |
 | 2 | [justmoon](https://github.com/justmoon) | Stefan Thomas | British Virgin Islands | 204 |
 | 3 | [BazaarsBZR](https://github.com/BazaarsBZR) | Bazaars | Bazaars Limited, Intershore Chambers, Road Town, Tortola, British Virgin Islands | 114 |
 | 4 | [dlichota](https://github.com/dlichota) | Dietmar Lichota | British Virgin Islands  | 57 |
@@ -83,4 +83,4 @@ Indexed users: 38
 | 19 | [BigThiccy2](https://github.com/BigThiccy2) | bigthiccy2 | Little Saint James, Virgin Islands | 2 |
 | 20 | [ilyBen](https://github.com/ilyBen) | Ben | Virgin Islands | 2 |
 
-Generated: 2026-10-15T13:58:05.000Z
+Generated: 2026-10-15T15:24:30.594Z

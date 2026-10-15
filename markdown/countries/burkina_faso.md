@@ -47,7 +47,7 @@ Indexed users: 487
 | 8 | [PANK4SS](https://github.com/PANK4SS) | Pankassi Jean-Louis Rayane BICABA | Burkina Faso | 776 |
 | 9 | [Gbangou](https://github.com/Gbangou) | Pascal GBANGOU | Ouagadougou, Burkina Faso | 754 |
 | 10 | [Solangeilinga](https://github.com/Solangeilinga) | ILINGA Solange | Casablanca - Ouagadougou | 634 |
-| 11 | [kiswend](https://github.com/kiswend) | Nathan K. DELMA | Burkina Faso | 628 |
+| 11 | [kiswend](https://github.com/kiswend) | Nathan K. DELMA | Burkina Faso | 624 |
 | 12 | [gangosimeon](https://github.com/gangosimeon) | GANGO Siméon | Ouagadougou | 548 |
 | 13 | [YaogoGerard](https://github.com/YaogoGerard) | Gérard Windpagnangdé YAOGO | Burkina Faso | 547 |
 | 14 | [serge-eric-kalaga](https://github.com/serge-eric-kalaga) | KALAGA Serge Eric | Ouagadougou, Burkina Faso 🇧🇫 | 546 |
@@ -83,4 +83,4 @@ Indexed users: 487
 | 19 | [sokevinjonas](https://github.com/sokevinjonas) | SO Kevin Jonas Gningnabe | BURKINA FASO | 38 |
 | 20 | [kulturman](https://github.com/kulturman) | Arnaud Bakyono  | Ouagadougou | 37 |
 
-Generated: 2026-10-15T13:59:36.333Z
+Generated: 2026-10-15T15:25:17.261Z

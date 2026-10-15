@@ -1,6 +1,6 @@
 # Total Contributions - Benin
 
-Generated: 2026-10-15T13:56:28.490Z
+Generated: 2026-10-15T15:21:53.890Z
 
 Users: 471
 
@@ -24,5 +24,5 @@ Users: 471
 | 16 | [20Frederic20](https://github.com/20Frederic20) |  | SICOGES ByGAMS | Blvck_Excelsior | Benin, Cotonou | 3326 |
 | 17 | [eliotfgn](https://github.com/eliotfgn) | Eliot FAGNON |  | elishady_ | Cotonou, Benin | 3224 |
 | 18 | [Aulerien](https://github.com/Aulerien) | TCHANHOUIN Amede Angel Aulerien |  |  | Benin, Cotonou | 3220 |
-| 19 | [salemnouhou](https://github.com/salemnouhou) | Salem Souleymane NOUHOU | @EpitechCodingAcademyPromo2024  |  | Cotonou, BENIN | 3171 |
-| 20 | [mdnjohn](https://github.com/mdnjohn) | John B. |  | mdnjohnb | Benin | 3158 |
+| 19 | [mdnjohn](https://github.com/mdnjohn) | John B. |  | mdnjohnb | Benin | 3158 |
+| 20 | [salemnouhou](https://github.com/salemnouhou) | Salem Souleymane NOUHOU | @EpitechCodingAcademyPromo2024  |  | Cotonou, BENIN | 3141 |

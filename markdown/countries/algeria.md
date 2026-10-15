@@ -37,10 +37,10 @@ Indexed users: 5,802
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [Alaa-Younsi](https://github.com/Alaa-Younsi) | Alaa Younsi | Algeria | 3,998 |
-| 2 | [imadtbn](https://github.com/imadtbn) | imad tbn | algeria | 3,781 |
-| 3 | [selmahacii](https://github.com/selmahacii) | selma haci | Algiers, Algeria | 3,747 |
-| 4 | [BELYAGOUBIABDELILAH](https://github.com/BELYAGOUBIABDELILAH) | abdelilah | Algeria | 3,682 |
+| 1 | [imadtbn](https://github.com/imadtbn) | imad tbn | algeria | 3,781 |
+| 2 | [selmahacii](https://github.com/selmahacii) | selma haci | Algiers, Algeria | 3,747 |
+| 3 | [BELYAGOUBIABDELILAH](https://github.com/BELYAGOUBIABDELILAH) | abdelilah | Algeria | 3,682 |
+| 4 | [Alaa-Younsi](https://github.com/Alaa-Younsi) | Alaa Younsi | Algeria | 2,802 |
 | 5 | [rayandripo](https://github.com/rayandripo) | Rayan | Algiers | 2,785 |
 | 6 | [phantekzy](https://github.com/phantekzy) | Maini Lotfi  | Algiers,Algeria | 2,715 |
 | 7 | [mohaneddz](https://github.com/mohaneddz) | Mohaned-Dz | Algeria, Constantine | 2,674 |
@@ -83,4 +83,4 @@ Indexed users: 5,802
 | 19 | [sabri-zaki](https://github.com/sabri-zaki) | sabri zakaria | Algeria | 686 |
 | 20 | [Hamza5](https://github.com/Hamza5) | Hamza Abbad | Algeria | 669 |
 
-Generated: 2026-10-15T13:47:48.117Z
+Generated: 2026-10-15T15:15:08.508Z

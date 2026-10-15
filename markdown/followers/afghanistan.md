@@ -1,6 +1,6 @@
 # Followers - Afghanistan
 
-Generated: 2026-10-15T13:47:29.789Z
+Generated: 2026-10-15T15:14:33.080Z
 
 Users: 1487
 
@@ -14,12 +14,12 @@ Users: 1487
 | 6 | [jaweid123](https://github.com/jaweid123) | Jaweid Moraadi |  |  | Kabul province  | 287 |
 | 7 | [MasihMuhammadi](https://github.com/MasihMuhammadi) | MasihullahMuhammadi | AseelApp, Industry Umbrella | Masih_202 | Kabul, Afghanistan | 242 |
 | 8 | [AmanAyoub](https://github.com/AmanAyoub) | Aman Ayoub |  |  | Afghanistan | 222 |
-| 9 | [MastooraTurkmen](https://github.com/MastooraTurkmen) | Mastoora Turkmen | Clearoute Inc | MastooraJ22 | Kabul, Afghanistan | 218 |
+| 9 | [MastooraTurkmen](https://github.com/MastooraTurkmen) | Mastoora Turkmen | Clearoute Inc | MastooraJ22 | Kabul, Afghanistan | 217 |
 | 10 | [SarwarEbrahimi01](https://github.com/SarwarEbrahimi01) | Sarwar Ebrahimi  | Kabul University  | sarwar_ebrahimi | Kabul , Afghanistan  | 186 |
 | 11 | [khalidafghanmal](https://github.com/khalidafghanmal) | khalid afghanmal | Smart City Solution ICT |  | Afghanistan | 166 |
 | 12 | [WajihaNiazi](https://github.com/WajihaNiazi) | Wajiha Niazi | CodeToInspire | Wajiha_Niazi | Herat,Afghanistan | 156 |
 | 13 | [ab-noori](https://github.com/ab-noori) | Abdulali Noori | AAK Tele Science |  | Afghanistan | 146 |
-| 14 | [MashalSarwari](https://github.com/MashalSarwari) | Mohammad Mashal Sarwari |  |  | Afghanistan | 144 |
+| 14 | [MashalSarwari](https://github.com/MashalSarwari) | Mohammad Mashal Sarwari |  |  | Afghanistan | 145 |
 | 15 | [starkbaknet](https://github.com/starkbaknet) | StarkBak |  |  | Kabul, Afghanistan | 135 |
 | 16 | [SaeqaSultani](https://github.com/SaeqaSultani) | Saeqa Sultani | WASSA |  | Afghanistan | 130 |
 | 17 | [shayanheidari01](https://github.com/shayanheidari01) | Shayan Heidari | Progrology |  | Afghanistan/Kabul | 129 |

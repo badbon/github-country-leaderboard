@@ -1,6 +1,6 @@
 # Public Contributions - Antarctica
 
-Generated: 2026-10-15T13:49:57.661Z
+Generated: 2026-10-15T15:16:35.489Z
 
 Users: 458
 
@@ -16,7 +16,7 @@ Users: 458
 | 8 | [krwg](https://github.com/krwg) | アイダ ミール | Google University |  | Antarctica | 1465 |
 | 9 | [enriquephl](https://github.com/enriquephl) |  | EtherFun Lab |  | Antarctica | 1380 |
 | 10 | [FreezingSnail](https://github.com/FreezingSnail) | Freezing Snail |  |  | Antarctica | 1348 |
-| 11 | [antedotee](https://github.com/antedotee) | ky505 |  |  | Antarctica | 1125 |
+| 11 | [antedotee](https://github.com/antedotee) | ky505 |  |  | Antarctica | 1120 |
 | 12 | [codes-by-utkarsh](https://github.com/codes-by-utkarsh) | Utkarsh Srivastava | VIT Bhopal  | u25tkarsh | Antarctica | 708 |
 | 13 | [KrLite](https://github.com/KrLite) | KrLite |  | KrLite | Antarctica | 605 |
 | 14 | [DenzelPenzel](https://github.com/DenzelPenzel) |  | @FAQGURU  |  | Antarctica | 532 |
