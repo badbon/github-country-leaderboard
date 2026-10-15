@@ -22903,8 +22903,8 @@
     "company": "lebo.agency",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 441,
-    "publicContributions": 2,
+    "privateContributions": 650,
+    "publicContributions": 0,
     "createdAt": "2018-03-23T06:30:15Z"
   },
   {
@@ -22915,8 +22915,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 48,
-    "publicContributions": 203,
+    "privateContributions": 11,
+    "publicContributions": 196,
     "createdAt": "2018-05-21T11:53:55Z"
   },
   {
@@ -22938,9 +22938,9 @@
     "location": "Estonia",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 950,
-    "publicContributions": 84,
+    "followers": 5,
+    "privateContributions": 838,
+    "publicContributions": 73,
     "createdAt": "2018-09-10T18:05:13Z"
   },
   {
@@ -22951,8 +22951,8 @@
     "company": "Pipedrive",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 1146,
-    "publicContributions": 106,
+    "privateContributions": 1331,
+    "publicContributions": 126,
     "createdAt": "2018-12-02T09:43:43Z"
   },
   {
@@ -22964,7 +22964,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 3,
     "createdAt": "2018-12-13T19:46:42Z"
   },
   {
@@ -22976,7 +22976,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 441,
+    "publicContributions": 471,
     "createdAt": "2018-09-09T04:49:28Z"
   },
   {
@@ -22999,8 +22999,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 499,
-    "publicContributions": 3,
+    "privateContributions": 345,
+    "publicContributions": 4,
     "createdAt": "2018-10-14T08:29:39Z"
   },
   {
@@ -23011,8 +23011,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 8,
-    "publicContributions": 573,
+    "privateContributions": 13,
+    "publicContributions": 499,
     "createdAt": "2018-12-04T18:04:40Z"
   },
   {
@@ -23036,20 +23036,8 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 55,
+    "publicContributions": 24,
     "createdAt": "2018-06-01T16:13:49Z"
-  },
-  {
-    "login": "AbdelrahmanHakim",
-    "name": "Abdelrhman Abdelhakim",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/45396959?s=72&u=e5bbb1ce94121d9776dc40b7e0e087258c23e8d9&v=4",
-    "location": "Tallinn- Estonia",
-    "company": "Microsoft",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 185,
-    "publicContributions": 0,
-    "createdAt": "2018-11-27T15:20:51Z"
   },
   {
     "login": "icarusdust",
@@ -23060,7 +23048,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 176,
+    "publicContributions": 162,
     "createdAt": "2018-09-18T13:23:27Z"
   },
   {
@@ -23107,7 +23095,7 @@
     "company": "Red Function",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 132,
+    "privateContributions": 110,
     "publicContributions": 69,
     "createdAt": "2018-02-02T13:43:40Z"
   },
@@ -23120,7 +23108,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 300,
+    "publicContributions": 287,
     "createdAt": "2018-05-03T18:28:19Z"
   },
   {
@@ -23130,7 +23118,7 @@
     "location": "Estonia",
     "company": "random forest OÜ",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 8,
     "createdAt": "2018-11-05T09:00:22Z"

@@ -22628,7 +22628,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2016-01-19T07:10:01Z"
   },
   {
@@ -22639,7 +22639,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 954,
+    "privateContributions": 1068,
     "publicContributions": 0,
     "createdAt": "2016-05-12T12:01:45Z"
   },
@@ -22652,7 +22652,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 17,
     "createdAt": "2016-06-02T17:04:07Z"
   },
   {
@@ -22699,7 +22699,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 757,
+    "privateContributions": 921,
     "publicContributions": 0,
     "createdAt": "2016-03-30T08:02:49Z"
   },
@@ -22735,7 +22735,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 33,
+    "privateContributions": 36,
     "publicContributions": 2,
     "createdAt": "2016-03-30T15:13:29Z"
   },
@@ -22758,9 +22758,9 @@
     "location": "Latvia",
     "company": "LB",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 51,
+    "publicContributions": 55,
     "createdAt": "2016-04-09T04:05:24Z"
   },
   {
@@ -22796,7 +22796,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 6,
     "createdAt": "2016-09-05T20:48:52Z"
   },
   {
@@ -22819,7 +22819,7 @@
     "company": "28Stone.com",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 6,
+    "privateContributions": 19,
     "publicContributions": 37,
     "createdAt": "2016-03-21T18:17:01Z"
   },

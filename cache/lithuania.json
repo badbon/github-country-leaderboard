@@ -22892,7 +22892,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2019-11-28T07:35:11Z"
   },
   {
@@ -22904,7 +22904,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 1,
     "createdAt": "2019-08-14T07:35:06Z"
   },
   {
@@ -22916,7 +22916,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 103,
+    "publicContributions": 108,
     "createdAt": "2019-07-09T23:29:24Z"
   },
   {
@@ -22939,7 +22939,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1,
+    "privateContributions": 4,
     "publicContributions": 0,
     "createdAt": "2019-05-04T19:11:29Z"
   },
@@ -22987,8 +22987,8 @@
     "company": "Wix",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 139,
-    "publicContributions": 226,
+    "privateContributions": 115,
+    "publicContributions": 265,
     "createdAt": "2019-08-21T13:17:08Z"
   },
   {
@@ -23023,7 +23023,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 50,
+    "privateContributions": 103,
     "publicContributions": 0,
     "createdAt": "2019-03-18T16:39:22Z"
   },
@@ -23036,7 +23036,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 23,
     "createdAt": "2019-01-29T12:52:11Z"
   },
   {
@@ -23108,7 +23108,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 32,
     "createdAt": "2019-07-16T06:25:51Z"
   },
   {
@@ -64582,5 +64582,17 @@
     "privateContributions": 0,
     "publicContributions": 49,
     "createdAt": "2026-06-15T16:09:04Z"
+  },
+  {
+    "login": "Leonardasvekrikas-source",
+    "name": "Leonardas Vekrikas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/297832682?s=72&u=cf7c3557d0ef78ac072fa34436db4414153e9508&v=4",
+    "location": "Vilnius",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 121,
+    "createdAt": "2026-06-29T08:12:26Z"
   }
 ]
