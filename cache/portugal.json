@@ -21391,7 +21391,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 384,
+    "privateContributions": 88,
     "publicContributions": 15,
     "createdAt": "2024-11-04T09:40:03Z"
   },
@@ -21415,21 +21415,9 @@
     "company": "Universidade de Aveiro",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 187,
+    "privateContributions": 190,
     "publicContributions": 13,
     "createdAt": "2024-12-10T11:29:49Z"
-  },
-  {
-    "login": "beatriz-ba",
-    "name": "Beatriz Alves",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/186710068?s=72&v=4",
-    "location": "Lisbon, Portugal",
-    "company": "Instituto Superior Técnico",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 74,
-    "publicContributions": 57,
-    "createdAt": "2024-10-29T12:24:29Z"
   },
   {
     "login": "Rlins-am",
@@ -21452,7 +21440,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 8,
     "createdAt": "2024-09-18T14:01:12Z"
   },
   {
@@ -21463,7 +21451,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 643,
+    "privateContributions": 512,
     "publicContributions": 0,
     "createdAt": "2024-10-08T14:38:07Z"
   },
@@ -21488,7 +21476,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 42,
+    "publicContributions": 43,
     "createdAt": "2024-10-11T06:49:50Z"
   },
   {
@@ -21511,8 +21499,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 144,
-    "publicContributions": 15,
+    "privateContributions": 265,
+    "publicContributions": 26,
     "createdAt": "2024-10-11T18:12:16Z"
   },
   {
@@ -21522,8 +21510,8 @@
     "location": "Aveiro, Portugal",
     "company": "DFis | UA",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 69,
+    "followers": 3,
+    "privateContributions": 80,
     "publicContributions": 0,
     "createdAt": "2024-07-09T10:47:31Z"
   },
@@ -21559,8 +21547,8 @@
     "company": "FEUP",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 384,
-    "publicContributions": 224,
+    "privateContributions": 367,
+    "publicContributions": 223,
     "createdAt": "2024-10-08T19:42:26Z"
   },
   {
@@ -21572,7 +21560,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 70,
+    "publicContributions": 77,
     "createdAt": "2024-10-11T09:18:39Z"
   },
   {
@@ -21582,9 +21570,9 @@
     "location": "Lisbon, Portugal",
     "company": "Richemont",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 236,
+    "publicContributions": 388,
     "createdAt": "2024-07-30T11:36:20Z"
   },
   {
@@ -21608,7 +21596,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2024-11-27T09:21:35Z"
   },
   {

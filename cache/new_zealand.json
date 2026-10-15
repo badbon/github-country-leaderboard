@@ -21511,8 +21511,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 22,
-    "publicContributions": 138,
+    "privateContributions": 23,
+    "publicContributions": 215,
     "createdAt": "2021-10-03T21:55:10Z"
   },
   {
@@ -21524,7 +21524,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 89,
+    "publicContributions": 61,
     "createdAt": "2021-01-23T06:51:19Z"
   },
   {
@@ -21547,7 +21547,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 3,
+    "privateContributions": 2,
     "publicContributions": 1,
     "createdAt": "2021-03-22T23:10:29Z"
   },
@@ -21614,13 +21614,13 @@
   {
     "login": "ivinnyaraujo",
     "name": "Ivy Araujo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/93143603?s=72&u=a6873801d38ffbc1ddd3934782923cf726066176&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/93143603?s=72&u=555267297a17f88686127351aa571d0425daddeb&v=4",
     "location": "New Zealand",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 15,
     "createdAt": "2021-10-25T14:51:51Z"
   },
   {
@@ -21630,8 +21630,8 @@
     "location": "Christchurch, New Zealand",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 449,
+    "followers": 4,
+    "privateContributions": 528,
     "publicContributions": 0,
     "createdAt": "2021-08-18T02:45:24Z"
   },
@@ -21667,8 +21667,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 96,
-    "publicContributions": 2,
+    "privateContributions": 46,
+    "publicContributions": 30,
     "createdAt": "2021-04-06T11:22:55Z"
   },
   {
@@ -21690,9 +21690,9 @@
     "location": "New Zealand",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 27,
-    "publicContributions": 27,
+    "followers": 4,
+    "privateContributions": 19,
+    "publicContributions": 62,
     "createdAt": "2021-04-12T09:46:25Z"
   },
   {
@@ -21700,11 +21700,11 @@
     "name": "Vuk",
     "avatarUrl": "https://avatars.githubusercontent.com/u/89521260?s=72&u=20932a3e372d29ae6900686cf9423b56cebc608b&v=4",
     "location": "Auckland, New Zealand",
-    "company": "Bit.Country & Metaverse Network",
-    "twitterUsername": "codevuk",
+    "company": "Meta Software Ltd",
+    "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 3759,
-    "publicContributions": 61,
+    "privateContributions": 3734,
+    "publicContributions": 65,
     "createdAt": "2021-08-25T11:06:15Z"
   },
   {
@@ -145822,5 +145822,41 @@
     "privateContributions": 0,
     "publicContributions": 16,
     "createdAt": "2026-06-29T08:45:30Z"
+  },
+  {
+    "login": "MiqaxaZe11",
+    "name": "Noa Lebrun",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298398151?s=72&v=4",
+    "location": "JohnPhường, New Zealand",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2026-06-30T18:32:59Z"
+  },
+  {
+    "login": "FicijoQa86",
+    "name": "Adela Medina",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298465750?s=72&v=4",
+    "location": "New Zealand",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 7,
+    "createdAt": "2026-06-30T22:32:16Z"
+  },
+  {
+    "login": "RiyavoVo26",
+    "name": "Sandra Vélez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298479293?s=72&v=4",
+    "location": "นครสวรรค์, New Zealand",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2026-06-30T23:26:04Z"
   }
 ]
