@@ -22724,7 +22724,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2015-01-29T22:44:28Z"
   },
   {
@@ -22748,7 +22748,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 10,
     "createdAt": "2015-12-29T12:46:43Z"
   },
   {
@@ -22772,7 +22772,7 @@
     "twitterUsername": "sizovjava",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 44,
+    "publicContributions": 57,
     "createdAt": "2015-02-24T14:44:10Z"
   },
   {
@@ -22794,9 +22794,9 @@
     "location": "Cyprus",
     "company": "AINIRO.IO",
     "twitterUsername": "AIniroTeam",
-    "followers": 243,
-    "privateContributions": 1767,
-    "publicContributions": 1825,
+    "followers": 245,
+    "privateContributions": 1685,
+    "publicContributions": 1548,
     "createdAt": "2014-08-16T18:45:41Z"
   },
   {
@@ -22806,21 +22806,21 @@
     "location": "Limassol, Cyprus",
     "company": "",
     "twitterUsername": "",
-    "followers": 190,
-    "privateContributions": 847,
+    "followers": 191,
+    "privateContributions": 1156,
     "publicContributions": 4,
     "createdAt": "2014-05-11T15:01:32Z"
   },
   {
     "login": "andreisfedotov",
     "name": "Andrei Fedotov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/7176953?s=72&u=ff7aa092afd1b7c1023bcf20eac66d83d15f0284&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7176953?s=72&u=fc75a6ca069bb6bf3d598c82cdaecb3979e404cf&v=4",
     "location": "Limassol, Cyprus",
     "company": "@anycode-ade",
     "twitterUsername": "andreisfedotov",
-    "followers": 108,
-    "privateContributions": 51,
-    "publicContributions": 36,
+    "followers": 106,
+    "privateContributions": 142,
+    "publicContributions": 64,
     "createdAt": "2014-04-04T21:16:23Z"
   },
   {
@@ -22830,9 +22830,9 @@
     "location": "Cyprus, Limassol",
     "company": "",
     "twitterUsername": "",
-    "followers": 103,
+    "followers": 104,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 5,
     "createdAt": "2014-10-27T11:37:48Z"
   },
   {
@@ -22842,9 +22842,9 @@
     "location": "Cyprus ",
     "company": "@flipperdevices",
     "twitterUsername": "",
-    "followers": 91,
-    "privateContributions": 300,
-    "publicContributions": 398,
+    "followers": 94,
+    "privateContributions": 233,
+    "publicContributions": 303,
     "createdAt": "2014-06-28T20:52:32Z"
   },
   {
@@ -22854,9 +22854,9 @@
     "location": "Cyprus",
     "company": "",
     "twitterUsername": "thedelneg",
-    "followers": 89,
+    "followers": 85,
     "privateContributions": 0,
-    "publicContributions": 44,
+    "publicContributions": 230,
     "createdAt": "2014-12-01T19:52:01Z"
   },
   {
@@ -22875,12 +22875,12 @@
     "login": "rpapallas",
     "name": "Rafael Papallas",
     "avatarUrl": "https://avatars.githubusercontent.com/u/6514550?s=72&u=b1324befc8aa4a811adfa6df84f4bc91ebc5b442&v=4",
-    "location": "Paphos, Cyprus",
-    "company": "Computer Science, AUB Mediterraneo",
+    "location": "Pafos, Cyprus",
+    "company": "Computer Science & Engineering, AUB Mediterraneo",
     "twitterUsername": "",
-    "followers": 65,
-    "privateContributions": 894,
-    "publicContributions": 9,
+    "followers": 64,
+    "privateContributions": 918,
+    "publicContributions": 10,
     "createdAt": "2014-01-27T13:24:11Z"
   },
   {
@@ -22891,8 +22891,8 @@
     "company": "Wisebits",
     "twitterUsername": "",
     "followers": 62,
-    "privateContributions": 160,
-    "publicContributions": 47,
+    "privateContributions": 6,
+    "publicContributions": 49,
     "createdAt": "2014-09-08T17:49:45Z"
   },
   {
@@ -22902,7 +22902,7 @@
     "location": "Nicosia, Cyprus",
     "company": "",
     "twitterUsername": "behnoooood",
-    "followers": 59,
+    "followers": 46,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-08-30T09:18:21Z"
@@ -22914,9 +22914,9 @@
     "location": "Cyprus",
     "company": "",
     "twitterUsername": "andyasprou",
-    "followers": 46,
-    "privateContributions": 15484,
-    "publicContributions": 173,
+    "followers": 45,
+    "privateContributions": 24380,
+    "publicContributions": 226,
     "createdAt": "2014-07-05T21:43:08Z"
   },
   {
@@ -22926,21 +22926,21 @@
     "location": "Cyprus, Paphos",
     "company": "VoltSoft",
     "twitterUsername": "",
-    "followers": 46,
-    "privateContributions": 1764,
+    "followers": 45,
+    "privateContributions": 4863,
     "publicContributions": 70,
     "createdAt": "2014-04-16T08:02:38Z"
   },
   {
     "login": "loiclaudet",
     "name": "lodz",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/8344874?s=72&u=227096910da4b49bbc69a8e37deacd3d1c3be666&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8344874?s=72&u=ce19351994106d5777f16c886757b0640c3b9f64&v=4",
     "location": "cyprus",
     "company": "",
     "twitterUsername": "loiclaudet",
     "followers": 44,
-    "privateContributions": 1740,
-    "publicContributions": 78,
+    "privateContributions": 2756,
+    "publicContributions": 101,
     "createdAt": "2014-08-03T18:53:31Z"
   },
   {

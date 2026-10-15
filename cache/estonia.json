@@ -24319,7 +24319,7 @@
     "company": "TransferWise",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 536,
+    "privateContributions": 429,
     "publicContributions": 0,
     "createdAt": "2018-10-10T10:00:41Z"
   },
@@ -24355,8 +24355,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 15,
-    "publicContributions": 31,
+    "privateContributions": 278,
+    "publicContributions": 35,
     "createdAt": "2018-10-17T08:44:44Z"
   },
   {
@@ -24367,21 +24367,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 44,
-    "privateContributions": 714,
+    "privateContributions": 805,
     "publicContributions": 44,
     "createdAt": "2018-06-25T20:50:25Z"
-  },
-  {
-    "login": "cRYP70n-13",
-    "name": "cRYP70N",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/38794649?s=72&u=59eb96c3aac4de92c6d4442b3224fddfb63b2513&v=4",
-    "location": "Tallinn",
-    "company": "@SensusQ",
-    "twitterUsername": "Okimdil",
-    "followers": 40,
-    "privateContributions": 0,
-    "publicContributions": 23,
-    "createdAt": "2018-04-27T18:29:36Z"
   },
   {
     "login": "m4tveevm",
@@ -24390,9 +24378,9 @@
     "location": "Tallinn",
     "company": "",
     "twitterUsername": "",
-    "followers": 20,
+    "followers": 19,
     "privateContributions": 16,
-    "publicContributions": 692,
+    "publicContributions": 1086,
     "createdAt": "2018-09-25T15:13:44Z"
   },
   {
@@ -24403,7 +24391,7 @@
     "company": "Mooncascade",
     "twitterUsername": "",
     "followers": 18,
-    "privateContributions": 6,
+    "privateContributions": 4,
     "publicContributions": 0,
     "createdAt": "2018-03-20T19:23:32Z"
   },
@@ -24426,8 +24414,8 @@
     "location": "Tallinn",
     "company": "Sylon",
     "twitterUsername": "",
-    "followers": 13,
-    "privateContributions": 1320,
+    "followers": 14,
+    "privateContributions": 1553,
     "publicContributions": 14,
     "createdAt": "2018-10-14T14:53:33Z"
   },
@@ -24462,9 +24450,9 @@
     "location": "Tallinn",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 3,
-    "publicContributions": 74,
+    "followers": 5,
+    "privateContributions": 4,
+    "publicContributions": 65,
     "createdAt": "2018-02-17T12:43:52Z"
   },
   {
@@ -24474,9 +24462,9 @@
     "location": "Tallinn",
     "company": "Renaar Digital OÜ",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 9358,
-    "publicContributions": 457,
+    "followers": 8,
+    "privateContributions": 10499,
+    "publicContributions": 399,
     "createdAt": "2018-04-10T00:04:48Z"
   },
   {
@@ -24486,9 +24474,9 @@
     "location": "Tallinn",
     "company": "Taltech",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 533,
-    "publicContributions": 105,
+    "followers": 7,
+    "privateContributions": 735,
+    "publicContributions": 132,
     "createdAt": "2018-04-02T09:20:52Z"
   },
   {
@@ -24498,9 +24486,9 @@
     "location": "Tallinn",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 983,
-    "publicContributions": 2,
+    "followers": 8,
+    "privateContributions": 2156,
+    "publicContributions": 0,
     "createdAt": "2018-01-04T22:35:59Z"
   },
   {
@@ -24511,8 +24499,8 @@
     "company": "@pipedrive ",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 10,
-    "publicContributions": 4,
+    "privateContributions": 158,
+    "publicContributions": 0,
     "createdAt": "2018-11-10T19:57:19Z"
   },
   {
@@ -24524,7 +24512,7 @@
     "twitterUsername": "omidazm94",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 4,
     "createdAt": "2018-10-19T12:25:19Z"
   },
   {
@@ -24535,8 +24523,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 21,
-    "publicContributions": 217,
+    "privateContributions": 41,
+    "publicContributions": 241,
     "createdAt": "2018-10-14T07:56:01Z"
   },
   {
@@ -24547,7 +24535,7 @@
     "company": "",
     "twitterUsername": "art_mashanin",
     "followers": 5,
-    "privateContributions": 1419,
+    "privateContributions": 2549,
     "publicContributions": 22,
     "createdAt": "2018-05-08T08:53:06Z"
   },
@@ -58834,5 +58822,17 @@
     "privateContributions": 4408,
     "publicContributions": 157,
     "createdAt": "2022-07-26T07:07:17Z"
+  },
+  {
+    "login": "chiptun4ique",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/297971165?s=72&u=ba3578a0cfffb0ce36ae226ec8f37680329b1645&v=4",
+    "location": "Estonia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2026-06-29T16:08:25Z"
   }
 ]

@@ -24163,7 +24163,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1904,
+    "privateContributions": 1563,
     "publicContributions": 4,
     "createdAt": "2022-07-27T09:37:32Z"
   },
@@ -24176,7 +24176,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 20,
     "createdAt": "2022-08-08T09:01:09Z"
   },
   {
@@ -24187,7 +24187,7 @@
     "company": "Kyndryl",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 457,
+    "privateContributions": 683,
     "publicContributions": 0,
     "createdAt": "2022-12-22T09:51:41Z"
   },
@@ -24200,7 +24200,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 445,
+    "publicContributions": 436,
     "createdAt": "2022-06-08T12:37:49Z"
   },
   {
@@ -24210,9 +24210,9 @@
     "location": "Brno, Czech Republic",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 15,
     "createdAt": "2022-12-02T10:15:32Z"
   },
   {
@@ -24307,8 +24307,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 36,
-    "publicContributions": 73,
+    "privateContributions": 48,
+    "publicContributions": 76,
     "createdAt": "2022-04-02T13:59:39Z"
   },
   {
@@ -24316,11 +24316,11 @@
     "name": "Jakub Adámek",
     "avatarUrl": "https://avatars.githubusercontent.com/u/116114899?s=72&u=ab2108a8ef94039ae313d6f832d7a5312391561e&v=4",
     "location": "Brno, Czech Republic",
-    "company": "Faster",
+    "company": "Faster CZ spol. s r.o.",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 551,
     "createdAt": "2022-10-18T19:15:07Z"
   },
   {
@@ -24338,13 +24338,13 @@
   {
     "login": "vitseb",
     "name": "Vito",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/106028926?s=72&u=55bdc825264a19600cedbd841f8cb6621954dd33&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/106028926?s=72&u=3020df9266697e40a62a48b5ff430114d6d6ad2d&v=4",
     "location": "Czech Republic",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 24,
     "createdAt": "2022-05-22T17:02:19Z"
   },
   {
@@ -24355,20 +24355,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 21,
+    "privateContributions": 64,
     "publicContributions": 0,
     "createdAt": "2022-09-01T15:49:41Z"
   },
   {
     "login": "fkuroshiro",
-    "name": "fkuroshiro",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/98192757?s=72&u=3e7bb85d65fc4c8ee65916d98d5f56c2e62d45d6&v=4",
+    "name": "fkuroshiro.dev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/98192757?s=72&u=12a1ec05e19c4f69e0e89b57049a148b3ae5a438&v=4",
     "location": "Czech Republic",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 71,
+    "publicContributions": 86,
     "createdAt": "2022-01-21T22:46:03Z"
   },
   {
@@ -24380,7 +24380,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 558,
+    "publicContributions": 402,
     "createdAt": "2022-12-24T16:15:01Z"
   },
   {
@@ -24391,7 +24391,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 46,
+    "privateContributions": 51,
     "publicContributions": 57,
     "createdAt": "2022-09-20T08:19:28Z"
   },

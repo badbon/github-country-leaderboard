@@ -24090,8 +24090,8 @@
     "location": "Ireland",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 50,
+    "followers": 11,
+    "privateContributions": 48,
     "publicContributions": 0,
     "createdAt": "2022-10-04T15:25:47Z"
   },
@@ -24114,7 +24114,7 @@
     "location": "Dublin, Ireland",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 9,
     "privateContributions": 0,
     "publicContributions": 60,
     "createdAt": "2022-11-05T07:06:48Z"
@@ -24127,8 +24127,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 4,
-    "publicContributions": 98,
+    "privateContributions": 10,
+    "publicContributions": 110,
     "createdAt": "2022-10-06T15:44:12Z"
   },
   {
@@ -24138,7 +24138,7 @@
     "location": "Ireland, Dublin",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 10,
     "privateContributions": 0,
     "publicContributions": 24,
     "createdAt": "2022-05-09T10:30:05Z"
@@ -24152,7 +24152,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 3,
     "createdAt": "2022-07-10T08:38:33Z"
   },
   {
@@ -24164,7 +24164,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 18,
     "createdAt": "2022-10-25T20:44:04Z"
   },
   {
@@ -24188,7 +24188,7 @@
     "twitterUsername": "DarshilParikh05",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 30,
     "createdAt": "2022-03-22T10:22:29Z"
   },
   {
@@ -24196,11 +24196,11 @@
     "name": "Eoghan Mulcahy",
     "avatarUrl": "https://avatars.githubusercontent.com/u/111668850?s=72&u=d4e1d7d357ed4dbb543ace999ab74c963edd17f5&v=4",
     "location": "Ireland",
-    "company": "",
+    "company": "Attio",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 510,
-    "publicContributions": 289,
+    "privateContributions": 535,
+    "publicContributions": 279,
     "createdAt": "2022-08-21T01:50:04Z"
   },
   {
@@ -24210,9 +24210,9 @@
     "location": "Ireland",
     "company": "Fidelity Investments",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 2,
-    "publicContributions": 10,
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 4,
     "createdAt": "2022-05-08T00:14:07Z"
   },
   {
@@ -24228,18 +24228,6 @@
     "createdAt": "2022-08-15T23:51:14Z"
   },
   {
-    "login": "dillon-broaders",
-    "name": "Dillon Broaders",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/113981110?s=72&u=1de61ea19b544f1ade610eecc7d183ccc24acbb9&v=4",
-    "location": "Ireland",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2022-09-20T09:20:57Z"
-  },
-  {
     "login": "Renaldas0",
     "name": "Renaldas Bendikas",
     "avatarUrl": "https://avatars.githubusercontent.com/u/97538312?s=72&u=a5b47a4d3f43f06221093257882cb772c3541db0&v=4",
@@ -24248,7 +24236,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 6,
     "createdAt": "2022-01-11T15:40:29Z"
   },
   {
@@ -24271,7 +24259,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 4116,
+    "privateContributions": 4593,
     "publicContributions": 1,
     "createdAt": "2022-10-19T19:37:50Z"
   },
@@ -24283,8 +24271,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 226,
-    "publicContributions": 165,
+    "privateContributions": 221,
+    "publicContributions": 85,
     "createdAt": "2022-10-25T14:45:11Z"
   },
   {
@@ -24308,7 +24296,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 33,
-    "publicContributions": 4,
+    "publicContributions": 1,
     "createdAt": "2022-06-16T18:06:44Z"
   },
   {
@@ -24320,7 +24308,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 635,
+    "publicContributions": 614,
     "createdAt": "2022-07-12T15:13:02Z"
   },
   {
@@ -234082,5 +234070,17 @@
     "privateContributions": 0,
     "publicContributions": 60,
     "createdAt": "2023-07-15T10:11:16Z"
+  },
+  {
+    "login": "VanAntwerpen",
+    "name": "Arne Van Antwerpen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/111523118?s=72&v=4",
+    "location": "Maynooth, Ireland",
+    "company": "Maynooth University",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 81,
+    "createdAt": "2022-08-18T15:52:16Z"
   }
 ]

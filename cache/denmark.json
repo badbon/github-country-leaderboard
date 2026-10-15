@@ -24372,18 +24372,6 @@
     "createdAt": "2022-10-09T07:02:07Z"
   },
   {
-    "login": "Luuxen",
-    "name": "Luuxen",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/106858242?s=72&u=d58551dc07d6a22f9b070141a9e75f2600555068&v=4",
-    "location": "Denmark",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2022-06-04T05:22:21Z"
-  },
-  {
     "login": "RalleeDev",
     "name": "Rasmus",
     "avatarUrl": "https://avatars.githubusercontent.com/u/109039505?s=72&v=4",
@@ -24427,7 +24415,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 76,
+    "privateContributions": 24,
     "publicContributions": 79,
     "createdAt": "2022-08-15T17:15:16Z"
   },
@@ -24488,7 +24476,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 4,
     "createdAt": "2022-02-24T08:00:47Z"
   },
   {
@@ -24512,7 +24500,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 205,
+    "publicContributions": 242,
     "createdAt": "2022-12-21T08:47:14Z"
   },
   {
@@ -24524,7 +24512,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 392,
+    "publicContributions": 440,
     "createdAt": "2022-01-04T22:21:51Z"
   },
   {
@@ -24547,8 +24535,8 @@
     "company": "A.P. Møller – Mærsk",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 629,
-    "publicContributions": 2,
+    "privateContributions": 556,
+    "publicContributions": 1,
     "createdAt": "2022-03-01T13:04:01Z"
   },
   {
@@ -24559,8 +24547,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 90,
-    "publicContributions": 51,
+    "privateContributions": 131,
+    "publicContributions": 52,
     "createdAt": "2022-03-17T07:38:40Z"
   },
   {
@@ -24608,7 +24596,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 0,
     "createdAt": "2022-10-29T20:01:58Z"
   },
   {

@@ -23888,7 +23888,7 @@
     "twitterUsername": "",
     "followers": 15,
     "privateContributions": 96,
-    "publicContributions": 6,
+    "publicContributions": 9,
     "createdAt": "2022-02-11T12:50:05Z"
   },
   {
@@ -23898,9 +23898,9 @@
     "location": "Zurich, Switzerland",
     "company": "",
     "twitterUsername": "chlaitha",
-    "followers": 15,
+    "followers": 19,
     "privateContributions": 0,
-    "publicContributions": 31,
+    "publicContributions": 56,
     "createdAt": "2022-04-25T01:04:10Z"
   },
   {
@@ -23910,7 +23910,7 @@
     "location": "Zurich, Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 15,
+    "followers": 16,
     "privateContributions": 0,
     "publicContributions": 24,
     "createdAt": "2022-02-24T09:55:47Z"
@@ -23922,9 +23922,9 @@
     "location": "Switzerland",
     "company": "_/\\_/\\_/\\_",
     "twitterUsername": "GA3D_tech",
-    "followers": 15,
+    "followers": 18,
     "privateContributions": 0,
-    "publicContributions": 125,
+    "publicContributions": 127,
     "createdAt": "2022-02-01T20:38:40Z"
   },
   {
@@ -23934,9 +23934,9 @@
     "location": "Zurich, Switzerland",
     "company": "ETH Zürich",
     "twitterUsername": "",
-    "followers": 15,
-    "privateContributions": 0,
-    "publicContributions": 150,
+    "followers": 14,
+    "privateContributions": 19,
+    "publicContributions": 433,
     "createdAt": "2022-01-30T23:09:22Z"
   },
   {
@@ -23944,11 +23944,11 @@
     "name": "Gianmarco Wyss",
     "avatarUrl": "https://avatars.githubusercontent.com/u/103100862?s=72&u=53a5ba9090fdd49bc57e8ba798735f0b373b905a&v=4",
     "location": "Switzerland",
-    "company": "@css-ch",
+    "company": "",
     "twitterUsername": "",
     "followers": 15,
     "privateContributions": 0,
-    "publicContributions": 79,
+    "publicContributions": 78,
     "createdAt": "2022-04-06T07:10:44Z"
   },
   {
@@ -23970,8 +23970,8 @@
     "location": "Lausanne, Switzerland",
     "company": "PhD student for Artificial Chemical Intelligence in LIAC at EPFL (https://github.com/schwallergroup).",
     "twitterUsername": "",
-    "followers": 14,
-    "privateContributions": 108,
+    "followers": 13,
+    "privateContributions": 91,
     "publicContributions": 36,
     "createdAt": "2022-03-03T16:08:13Z"
   },
@@ -23984,7 +23984,7 @@
     "twitterUsername": "",
     "followers": 14,
     "privateContributions": 0,
-    "publicContributions": 46,
+    "publicContributions": 34,
     "createdAt": "2022-04-01T19:53:50Z"
   },
   {
@@ -23995,8 +23995,8 @@
     "company": "ETH Zürich",
     "twitterUsername": "",
     "followers": 14,
-    "privateContributions": 549,
-    "publicContributions": 69,
+    "privateContributions": 425,
+    "publicContributions": 134,
     "createdAt": "2022-04-08T20:46:39Z"
   },
   {
@@ -24006,9 +24006,9 @@
     "location": "Switzerland",
     "company": "EPFL",
     "twitterUsername": "KeivanFaghih",
-    "followers": 14,
+    "followers": 15,
     "privateContributions": 0,
-    "publicContributions": 400,
+    "publicContributions": 475,
     "createdAt": "2022-06-09T08:18:47Z"
   },
   {
@@ -24018,8 +24018,8 @@
     "location": "Zurich, Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 14,
-    "privateContributions": 35,
+    "followers": 13,
+    "privateContributions": 21,
     "publicContributions": 0,
     "createdAt": "2022-06-16T09:47:36Z"
   },
@@ -24032,7 +24032,7 @@
     "twitterUsername": "",
     "followers": 14,
     "privateContributions": 0,
-    "publicContributions": 91,
+    "publicContributions": 50,
     "createdAt": "2022-02-06T11:20:58Z"
   },
   {
@@ -24054,9 +24054,9 @@
     "location": "Switzerland",
     "company": "@informaticon",
     "twitterUsername": "",
-    "followers": 13,
-    "privateContributions": 252,
-    "publicContributions": 571,
+    "followers": 18,
+    "privateContributions": 383,
+    "publicContributions": 623,
     "createdAt": "2022-03-23T18:59:16Z"
   },
   {
@@ -24067,8 +24067,8 @@
     "company": " @asteroide-development ",
     "twitterUsername": "",
     "followers": 13,
-    "privateContributions": 88,
-    "publicContributions": 164,
+    "privateContributions": 63,
+    "publicContributions": 85,
     "createdAt": "2022-03-09T16:55:09Z"
   },
   {
@@ -24078,9 +24078,9 @@
     "location": "Lugano, Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 13,
-    "privateContributions": 96,
-    "publicContributions": 486,
+    "followers": 12,
+    "privateContributions": 97,
+    "publicContributions": 463,
     "createdAt": "2022-06-20T18:59:57Z"
   },
   {
@@ -24091,8 +24091,8 @@
     "company": "ETH Zürich",
     "twitterUsername": "",
     "followers": 13,
-    "privateContributions": 208,
-    "publicContributions": 331,
+    "privateContributions": 82,
+    "publicContributions": 344,
     "createdAt": "2022-03-02T17:06:25Z"
   },
   {
@@ -24102,22 +24102,10 @@
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 13,
-    "privateContributions": 803,
+    "followers": 17,
+    "privateContributions": 1085,
     "publicContributions": 4,
     "createdAt": "2022-04-02T11:40:49Z"
-  },
-  {
-    "login": "caiofeuser",
-    "name": "Caio Feuser",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/100793446?s=72&u=ee7763c057ae7f14899d07c5c92d7afc43a848a0&v=4",
-    "location": "Lugano, Switzerland",
-    "company": "@inspire-AG @Simple4Cast-LLC",
-    "twitterUsername": "",
-    "followers": 13,
-    "privateContributions": 1375,
-    "publicContributions": 85,
-    "createdAt": "2022-03-02T17:22:59Z"
   },
   {
     "login": "AthosMeta",

@@ -23994,9 +23994,9 @@
     "location": "Slovenia",
     "company": "",
     "twitterUsername": "",
-    "followers": 29,
-    "privateContributions": 1026,
-    "publicContributions": 6,
+    "followers": 30,
+    "privateContributions": 1418,
+    "publicContributions": 7,
     "createdAt": "2014-06-14T17:08:22Z"
   },
   {
@@ -24006,9 +24006,9 @@
     "location": "Slovenia",
     "company": "",
     "twitterUsername": "",
-    "followers": 26,
+    "followers": 25,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 31,
     "createdAt": "2014-12-24T13:05:54Z"
   },
   {
@@ -24031,8 +24031,8 @@
     "company": "@grafana ",
     "twitterUsername": "",
     "followers": 23,
-    "privateContributions": 1158,
-    "publicContributions": 248,
+    "privateContributions": 1230,
+    "publicContributions": 230,
     "createdAt": "2014-07-08T19:47:18Z"
   },
   {
@@ -24042,7 +24042,7 @@
     "location": "Slovenia",
     "company": "",
     "twitterUsername": "",
-    "followers": 21,
+    "followers": 19,
     "privateContributions": 110,
     "publicContributions": 1,
     "createdAt": "2014-03-27T16:27:30Z"
@@ -24055,8 +24055,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 20,
-    "privateContributions": 576,
-    "publicContributions": 76,
+    "privateContributions": 669,
+    "publicContributions": 86,
     "createdAt": "2014-10-08T18:46:19Z"
   },
   {
@@ -24066,8 +24066,8 @@
     "location": "Slovenia",
     "company": "",
     "twitterUsername": "",
-    "followers": 20,
-    "privateContributions": 347,
+    "followers": 23,
+    "privateContributions": 577,
     "publicContributions": 0,
     "createdAt": "2014-05-02T08:53:02Z"
   },
@@ -24079,8 +24079,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 18,
-    "privateContributions": 1833,
-    "publicContributions": 86,
+    "privateContributions": 2640,
+    "publicContributions": 179,
     "createdAt": "2014-03-25T19:47:43Z"
   },
   {
@@ -24092,7 +24092,7 @@
     "twitterUsername": "",
     "followers": 18,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 7,
     "createdAt": "2014-05-19T23:11:45Z"
   },
   {
@@ -24104,7 +24104,7 @@
     "twitterUsername": "",
     "followers": 18,
     "privateContributions": 0,
-    "publicContributions": 99,
+    "publicContributions": 87,
     "createdAt": "2014-11-13T11:21:00Z"
   },
   {
@@ -24115,7 +24115,7 @@
     "company": "@usespeakeasy ",
     "twitterUsername": "",
     "followers": 17,
-    "privateContributions": 1413,
+    "privateContributions": 1315,
     "publicContributions": 5,
     "createdAt": "2014-05-27T16:52:45Z"
   },
@@ -24126,9 +24126,9 @@
     "location": "Ljubljana (Slovenia)",
     "company": "@wewowweb",
     "twitterUsername": "galjakicdev",
-    "followers": 17,
-    "privateContributions": 339,
-    "publicContributions": 11,
+    "followers": 18,
+    "privateContributions": 400,
+    "publicContributions": 5,
     "createdAt": "2014-09-23T18:41:02Z"
   },
   {
@@ -24138,9 +24138,9 @@
     "location": "Slovenia",
     "company": "AB4D",
     "twitterUsername": "",
-    "followers": 16,
+    "followers": 15,
     "privateContributions": 0,
-    "publicContributions": 642,
+    "publicContributions": 494,
     "createdAt": "2014-05-28T19:43:04Z"
   },
   {
@@ -24152,7 +24152,7 @@
     "twitterUsername": "",
     "followers": 16,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 0,
     "createdAt": "2014-03-27T20:57:46Z"
   },
   {
@@ -24163,7 +24163,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 16,
-    "privateContributions": 1,
+    "privateContributions": 12,
     "publicContributions": 0,
     "createdAt": "2014-08-01T07:28:54Z"
   },
@@ -24174,9 +24174,9 @@
     "location": "Ljubljana, Slovenia, Europe",
     "company": "@poviolabs ",
     "twitterUsername": "tadejstanic",
-    "followers": 16,
+    "followers": 14,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 35,
     "createdAt": "2014-04-11T06:52:35Z"
   },
   {
@@ -24188,7 +24188,7 @@
     "twitterUsername": "",
     "followers": 16,
     "privateContributions": 10,
-    "publicContributions": 41,
+    "publicContributions": 34,
     "createdAt": "2014-04-15T11:39:57Z"
   },
   {
@@ -24200,20 +24200,8 @@
     "twitterUsername": "",
     "followers": 14,
     "privateContributions": 0,
-    "publicContributions": 89,
+    "publicContributions": 90,
     "createdAt": "2014-05-16T05:15:22Z"
-  },
-  {
-    "login": "NejcNovak",
-    "name": "Nejc Novak",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/8218050?s=72&u=f704ddb9d88456257116473d2c72dabc31e31590&v=4",
-    "location": "Ljubljana, Slovenia",
-    "company": "@poviolabs",
-    "twitterUsername": "",
-    "followers": 14,
-    "privateContributions": 191,
-    "publicContributions": 0,
-    "createdAt": "2014-07-20T20:18:58Z"
   },
   {
     "login": "urosj",
@@ -24224,7 +24212,7 @@
     "twitterUsername": "",
     "followers": 14,
     "privateContributions": 0,
-    "publicContributions": 453,
+    "publicContributions": 875,
     "createdAt": "2014-07-01T10:36:17Z"
   },
   {

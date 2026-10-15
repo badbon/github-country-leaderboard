@@ -24416,7 +24416,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2019-05-12T03:04:38Z"
   },
   {
@@ -24439,8 +24439,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1406,
-    "publicContributions": 7,
+    "privateContributions": 3688,
+    "publicContributions": 3,
     "createdAt": "2019-09-23T19:00:57Z"
   },
   {
@@ -24488,7 +24488,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 30,
+    "publicContributions": 24,
     "createdAt": "2019-06-07T08:26:05Z"
   },
   {
@@ -24523,7 +24523,7 @@
     "company": "Muximatic",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1,
+    "privateContributions": 20,
     "publicContributions": 0,
     "createdAt": "2019-06-11T08:42:22Z"
   },
@@ -24547,7 +24547,7 @@
     "company": "Unitel",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 401,
+    "privateContributions": 408,
     "publicContributions": 0,
     "createdAt": "2019-07-09T14:27:28Z"
   },
@@ -24628,11 +24628,11 @@
     "name": "Abdenirio",
     "avatarUrl": "https://avatars.githubusercontent.com/u/55065106?s=72&u=bb8c6ca31ec3f5228053d054b197e8482b90d437&v=4",
     "location": "Angola, Luanda",
-    "company": "",
+    "company": "KYS CORP LDA",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 0,
     "createdAt": "2019-09-08T21:12:08Z"
   },
   {

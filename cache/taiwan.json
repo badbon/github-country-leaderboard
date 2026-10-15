@@ -23972,7 +23972,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 48,
     "createdAt": "2022-05-16T08:59:16Z"
   },
   {
@@ -24022,18 +24022,6 @@
     "privateContributions": 0,
     "publicContributions": 14,
     "createdAt": "2022-02-22T11:19:52Z"
-  },
-  {
-    "login": "yhong4623",
-    "name": "Salmon",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/100700742?s=72&u=e73313ca12967f89b24cf90c69e86c591aee129b&v=4",
-    "location": "Taiwan",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 18,
-    "createdAt": "2022-03-01T14:11:54Z"
   },
   {
     "login": "WINS-lab",
@@ -24090,7 +24078,7 @@
     "location": "taiwan",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-03-14T07:10:31Z"
@@ -24128,7 +24116,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 9,
     "createdAt": "2022-03-02T02:02:14Z"
   },
   {
@@ -24139,8 +24127,8 @@
     "company": "National Taiwan University",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 224,
-    "publicContributions": 6,
+    "privateContributions": 305,
+    "publicContributions": 7,
     "createdAt": "2022-03-04T12:39:03Z"
   },
   {
@@ -24151,8 +24139,8 @@
     "company": "National Taiwan Normal University",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
+    "privateContributions": 19125,
+    "publicContributions": 23,
     "createdAt": "2022-01-17T04:36:48Z"
   },
   {
@@ -24162,7 +24150,7 @@
     "location": "Taiwan",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-03-23T01:40:12Z"
