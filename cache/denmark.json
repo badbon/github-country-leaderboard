@@ -22736,7 +22736,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 75,
+    "publicContributions": 73,
     "createdAt": "2022-03-26T22:47:12Z"
   },
   {
@@ -22747,20 +22747,20 @@
     "company": "",
     "twitterUsername": "sakulstar",
     "followers": 2,
-    "privateContributions": 11,
-    "publicContributions": 5,
+    "privateContributions": 4,
+    "publicContributions": 0,
     "createdAt": "2022-08-13T16:58:02Z"
   },
   {
     "login": "Max-lindberg",
     "name": "Max lindberg",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/112978463?s=72&u=245ce050f6b2f8479728551ae2b0c413f238b2a3&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/112978463?s=72&u=12dfd7f4f117f3ab7cfb0bef2864eb3749034d01&v=4",
     "location": "Denmark",
     "company": "Bretza",
     "twitterUsername": "maxlindberg",
-    "followers": 2,
-    "privateContributions": 321,
-    "publicContributions": 81,
+    "followers": 3,
+    "privateContributions": 636,
+    "publicContributions": 83,
     "createdAt": "2022-09-06T18:51:26Z"
   },
   {
@@ -22780,11 +22780,11 @@
     "name": "Daniel Orelius",
     "avatarUrl": "https://avatars.githubusercontent.com/u/102243514?s=72&u=adeb145987ed77e241f5d30a3fe6973936752dde&v=4",
     "location": "Denmark",
-    "company": "Mjølner Informatics A/S",
+    "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 1419,
-    "publicContributions": 11,
+    "followers": 3,
+    "privateContributions": 2792,
+    "publicContributions": 370,
     "createdAt": "2022-03-23T15:43:20Z"
   },
   {
@@ -22795,8 +22795,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 20,
-    "publicContributions": 107,
+    "privateContributions": 28,
+    "publicContributions": 93,
     "createdAt": "2022-09-19T09:09:08Z"
   },
   {
@@ -22830,7 +22830,7 @@
     "location": "Denmark",
     "company": "@lokalise ",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-08-01T07:48:42Z"
@@ -22868,7 +22868,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2022-01-03T09:47:00Z"
   },
   {
@@ -22878,9 +22878,9 @@
     "location": "Copenhagen, Denmark",
     "company": "Spuddle",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 215,
-    "publicContributions": 56,
+    "followers": 2,
+    "privateContributions": 250,
+    "publicContributions": 25,
     "createdAt": "2022-08-02T08:28:36Z"
   },
   {

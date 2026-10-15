@@ -22674,7 +22674,7 @@
     "location": "Ghana",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 35,
     "createdAt": "2023-09-06T11:17:54Z"
@@ -22687,8 +22687,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 17,
-    "publicContributions": 106,
+    "privateContributions": 10,
+    "publicContributions": 113,
     "createdAt": "2023-10-15T10:33:35Z"
   },
   {
@@ -22699,8 +22699,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 17,
-    "publicContributions": 39,
+    "privateContributions": 21,
+    "publicContributions": 10,
     "createdAt": "2023-04-19T12:05:17Z"
   },
   {
@@ -22711,8 +22711,8 @@
     "company": "King Bygone's Media",
     "twitterUsername": "kingbygone",
     "followers": 1,
-    "privateContributions": 545,
-    "publicContributions": 12,
+    "privateContributions": 777,
+    "publicContributions": 63,
     "createdAt": "2023-05-16T22:27:46Z"
   },
   {
@@ -22724,7 +22724,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 147,
+    "publicContributions": 150,
     "createdAt": "2023-05-02T10:06:47Z"
   },
   {
@@ -22735,8 +22735,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 497,
-    "publicContributions": 26,
+    "privateContributions": 539,
+    "publicContributions": 32,
     "createdAt": "2023-03-21T16:49:03Z"
   },
   {
@@ -22806,7 +22806,7 @@
     "location": "Accra, Ghana",
     "company": "",
     "twitterUsername": "kayy_mark",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-04-20T00:45:39Z"
@@ -22844,7 +22844,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 73,
+    "publicContributions": 74,
     "createdAt": "2023-11-02T11:29:46Z"
   },
   {
@@ -22867,8 +22867,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 606,
-    "publicContributions": 78,
+    "privateContributions": 623,
+    "publicContributions": 70,
     "createdAt": "2023-08-15T20:22:53Z"
   },
   {
@@ -85186,5 +85186,17 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-06-23T00:29:11Z"
+  },
+  {
+    "login": "Audaciousbusinessman",
+    "name": "John Daryl Nii Ayitey Aryee",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298287022?s=72&u=fbbc1e38e444208aef6fb73dbd4f2ed7abc8af38&v=4",
+    "location": "Accra-Ghana",
+    "company": "Almiraya Group",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-30T13:15:03Z"
   }
 ]

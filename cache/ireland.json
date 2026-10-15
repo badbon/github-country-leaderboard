@@ -22436,7 +22436,7 @@
     "twitterUsername": "",
     "followers": 32,
     "privateContributions": 0,
-    "publicContributions": 726,
+    "publicContributions": 485,
     "createdAt": "2022-05-21T12:21:15Z"
   },
   {
@@ -22446,8 +22446,8 @@
     "location": "Ireland",
     "company": "",
     "twitterUsername": "",
-    "followers": 32,
-    "privateContributions": 1343,
+    "followers": 34,
+    "privateContributions": 1576,
     "publicContributions": 0,
     "createdAt": "2022-09-23T22:41:32Z"
   },
@@ -22458,9 +22458,9 @@
     "location": "Ireland",
     "company": "University of Galway",
     "twitterUsername": "",
-    "followers": 29,
+    "followers": 27,
     "privateContributions": 0,
-    "publicContributions": 204,
+    "publicContributions": 218,
     "createdAt": "2022-10-30T13:58:15Z"
   },
   {
@@ -22470,9 +22470,9 @@
     "location": "Dublin, Ireland",
     "company": "Kola Market",
     "twitterUsername": "",
-    "followers": 28,
+    "followers": 31,
     "privateContributions": 665,
-    "publicContributions": 397,
+    "publicContributions": 384,
     "createdAt": "2022-10-13T17:47:12Z"
   },
   {
@@ -22494,9 +22494,9 @@
     "location": "Ireland",
     "company": "",
     "twitterUsername": "",
-    "followers": 27,
-    "privateContributions": 166,
-    "publicContributions": 262,
+    "followers": 25,
+    "privateContributions": 195,
+    "publicContributions": 317,
     "createdAt": "2022-12-05T12:25:47Z"
   },
   {
@@ -22506,7 +22506,7 @@
     "location": "dublin ireland",
     "company": "https://nwaduhuozoemenam.com/",
     "twitterUsername": "Nwaduhujnr",
-    "followers": 27,
+    "followers": 28,
     "privateContributions": 0,
     "publicContributions": 49,
     "createdAt": "2022-07-06T16:43:21Z"
@@ -22518,9 +22518,9 @@
     "location": "Dublin, Ireland",
     "company": "",
     "twitterUsername": "",
-    "followers": 26,
+    "followers": 28,
     "privateContributions": 5,
-    "publicContributions": 20,
+    "publicContributions": 40,
     "createdAt": "2022-03-30T23:27:17Z"
   },
   {
@@ -22542,7 +22542,7 @@
     "location": "Ireland",
     "company": "",
     "twitterUsername": "",
-    "followers": 24,
+    "followers": 22,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-10-06T06:08:36Z"
@@ -22554,8 +22554,8 @@
     "location": "Limerick, Ireland",
     "company": "",
     "twitterUsername": "",
-    "followers": 24,
-    "privateContributions": 130,
+    "followers": 20,
+    "privateContributions": 98,
     "publicContributions": 42,
     "createdAt": "2022-04-07T19:29:32Z"
   },
@@ -22568,7 +22568,7 @@
     "twitterUsername": "llancruzz",
     "followers": 23,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2022-04-28T09:06:50Z"
   },
   {
@@ -22576,11 +22576,11 @@
     "name": "Pavlo Myskov",
     "avatarUrl": "https://avatars.githubusercontent.com/u/106077533?s=72&u=260a935b953110f8532c30f03d8dd8962af71dcc&v=4",
     "location": "Ireland",
-    "company": "",
+    "company": "WebSo",
     "twitterUsername": "",
-    "followers": 23,
-    "privateContributions": 101,
-    "publicContributions": 10,
+    "followers": 24,
+    "privateContributions": 118,
+    "publicContributions": 8,
     "createdAt": "2022-05-23T11:13:50Z"
   },
   {
@@ -22590,9 +22590,9 @@
     "location": "Ireland",
     "company": "@nolabs-ai",
     "twitterUsername": "",
-    "followers": 23,
-    "privateContributions": 500,
-    "publicContributions": 1658,
+    "followers": 26,
+    "privateContributions": 697,
+    "publicContributions": 1890,
     "createdAt": "2022-12-26T19:37:58Z"
   },
   {
@@ -22602,9 +22602,9 @@
     "location": "Ireland",
     "company": "",
     "twitterUsername": "jaypopat0",
-    "followers": 22,
-    "privateContributions": 186,
-    "publicContributions": 831,
+    "followers": 26,
+    "privateContributions": 219,
+    "publicContributions": 975,
     "createdAt": "2022-10-21T10:11:40Z"
   },
   {
@@ -22627,8 +22627,8 @@
     "company": "@MAYA-DATA-PRIVACY",
     "twitterUsername": "",
     "followers": 22,
-    "privateContributions": 747,
-    "publicContributions": 374,
+    "privateContributions": 772,
+    "publicContributions": 760,
     "createdAt": "2022-09-12T02:45:10Z"
   },
   {
@@ -22638,22 +22638,10 @@
     "location": "Maynooth, Ireland",
     "company": "",
     "twitterUsername": "mehta2935",
-    "followers": 22,
-    "privateContributions": 225,
-    "publicContributions": 188,
+    "followers": 23,
+    "privateContributions": 192,
+    "publicContributions": 193,
     "createdAt": "2022-10-14T06:01:26Z"
-  },
-  {
-    "login": "felitrejos",
-    "name": "Felipe Trejos",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/103576421?s=72&u=908fe84088c07880c68c6f961b79cab3d39b9b91&v=4",
-    "location": "Dublin, Ireland",
-    "company": "lasallebcn | @mongodb",
-    "twitterUsername": "",
-    "followers": 22,
-    "privateContributions": 1439,
-    "publicContributions": 940,
-    "createdAt": "2022-04-13T11:46:47Z"
   },
   {
     "login": "caiquegom",
@@ -22662,9 +22650,9 @@
     "location": "Dublin, Ireland",
     "company": "",
     "twitterUsername": "",
-    "followers": 21,
-    "privateContributions": 281,
-    "publicContributions": 8,
+    "followers": 22,
+    "privateContributions": 90,
+    "publicContributions": 5,
     "createdAt": "2022-03-24T13:22:32Z"
   },
   {

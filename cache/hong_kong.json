@@ -22322,13 +22322,13 @@
   {
     "login": "BorisKriuk",
     "name": "Boris Kriuk",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/121239854?s=72&u=08f009a6108513cc1890a7c41e34274834cc7c7e&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/121239854?s=72&u=726e3aec1bc6ac164da7c91f0dad695a3c3cf313&v=4",
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 89,
+    "publicContributions": 122,
     "createdAt": "2022-12-22T13:45:30Z"
   },
   {
@@ -22392,18 +22392,6 @@
     "createdAt": "2022-11-11T09:32:25Z"
   },
   {
-    "login": "IgorLuna10",
-    "name": "Igor Luna",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/120457770?s=72&u=0573ea850ad7ed2d6eafe5053c3a7a20bf230cfa&v=4",
-    "location": "Hong Kong",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 113,
-    "createdAt": "2022-12-13T09:39:13Z"
-  },
-  {
     "login": "jammie0910",
     "name": "Jammie Chan",
     "avatarUrl": "https://avatars.githubusercontent.com/u/117263494?s=72&u=237001f2de5b86f3aa4cb8d5ed5a68c9730ac7f1&v=4",
@@ -22424,7 +22412,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2022-02-08T06:14:34Z"
   },
   {
@@ -22447,7 +22435,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 41,
+    "privateContributions": 67,
     "publicContributions": 0,
     "createdAt": "2022-03-27T11:03:12Z"
   },
@@ -22456,11 +22444,11 @@
     "name": "Mr.Dream",
     "avatarUrl": "https://avatars.githubusercontent.com/u/115291143?s=72&u=652bb0242f8bd2b35c1d5f40a443eddc53fd5197&v=4",
     "location": "Hong Kong",
-    "company": "",
+    "company": "DreamStarZ",
     "twitterUsername": "dickleung_",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 32,
+    "followers": 3,
+    "privateContributions": 387,
+    "publicContributions": 67,
     "createdAt": "2022-10-07T17:33:51Z"
   },
   {
@@ -22472,7 +22460,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 52,
+    "publicContributions": 1,
     "createdAt": "2022-07-30T15:58:26Z"
   },
   {
@@ -22534,18 +22522,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-11-01T02:08:34Z"
-  },
-  {
-    "login": "weifang231",
-    "name": "Weifang Zhang",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/119038137?s=72&u=bd8fc16cf5fd3a21ad698009ffb43df0ac919ddc&v=4",
-    "location": "Hong Kong",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 25,
-    "createdAt": "2022-11-25T08:12:09Z"
   },
   {
     "login": "jpmddddd",

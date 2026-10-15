@@ -22760,7 +22760,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 22,
     "createdAt": "2022-05-03T11:11:26Z"
   },
   {
@@ -22807,8 +22807,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 29,
-    "publicContributions": 6,
+    "privateContributions": 2,
+    "publicContributions": 3,
     "createdAt": "2022-10-04T10:11:23Z"
   },
   {
@@ -22820,7 +22820,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 10,
     "createdAt": "2022-08-26T10:08:15Z"
   },
   {
@@ -22830,7 +22830,7 @@
     "location": "Stavanger, Norway",
     "company": "Stavanger University",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2022-12-08T20:32:48Z"
@@ -22844,7 +22844,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 71,
+    "publicContributions": 65,
     "createdAt": "2022-04-07T10:25:16Z"
   },
   {
@@ -22855,8 +22855,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 20,
-    "publicContributions": 100,
+    "privateContributions": 21,
+    "publicContributions": 61,
     "createdAt": "2022-10-24T18:58:15Z"
   },
   {
@@ -22867,7 +22867,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 21,
+    "privateContributions": 6,
     "publicContributions": 6,
     "createdAt": "2022-06-22T09:36:59Z"
   },
@@ -22898,13 +22898,13 @@
   {
     "login": "kevolsen",
     "name": "Kevin",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/113117373?s=72&u=b5c1db34c85459fb02610c8cb4809d7a8c8955ac&v=4",
-    "location": "Oslo, Norway",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/113117373?s=72&v=4",
+    "location": "Trondheim, Norway",
     "company": "",
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 8,
     "createdAt": "2022-09-08T13:44:08Z"
   },
   {
@@ -22927,7 +22927,7 @@
     "company": "@NationalOilwellVarco",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 968,
+    "privateContributions": 1683,
     "publicContributions": 32,
     "createdAt": "2022-03-24T09:32:15Z"
   },
@@ -22938,8 +22938,8 @@
     "location": "Norway",
     "company": "SkyeTec",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 1548,
+    "followers": 5,
+    "privateContributions": 2776,
     "publicContributions": 2,
     "createdAt": "2022-03-08T09:38:45Z"
   },
@@ -22964,7 +22964,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 52,
+    "publicContributions": 34,
     "createdAt": "2022-09-02T17:24:00Z"
   },
   {
@@ -22974,9 +22974,9 @@
     "location": "Norway",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 160,
+    "publicContributions": 184,
     "createdAt": "2022-10-11T08:37:16Z"
   },
   {

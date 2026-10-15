@@ -22375,7 +22375,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 39,
+    "privateContributions": 38,
     "publicContributions": 0,
     "createdAt": "2022-02-04T09:59:42Z"
   },
@@ -22447,7 +22447,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 73,
+    "privateContributions": 72,
     "publicContributions": 432,
     "createdAt": "2022-04-29T22:39:16Z"
   },
@@ -22470,9 +22470,9 @@
     "location": "Finland",
     "company": "Siteledger Solutions Oy",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 438,
-    "publicContributions": 373,
+    "followers": 8,
+    "privateContributions": 515,
+    "publicContributions": 474,
     "createdAt": "2022-04-11T19:29:45Z"
   },
   {
@@ -22495,7 +22495,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 9,
+    "privateContributions": 6,
     "publicContributions": 82,
     "createdAt": "2022-05-23T13:32:54Z"
   },
@@ -22506,8 +22506,8 @@
     "location": "Finland",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 289,
+    "followers": 5,
+    "privateContributions": 359,
     "publicContributions": 46,
     "createdAt": "2022-01-17T12:54:06Z"
   },
@@ -22519,7 +22519,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 454,
+    "privateContributions": 499,
     "publicContributions": 22,
     "createdAt": "2022-01-24T16:20:23Z"
   },
@@ -22530,21 +22530,21 @@
     "location": "Espoo, Finland",
     "company": "Aalto University",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 190,
-    "publicContributions": 43,
+    "followers": 3,
+    "privateContributions": 135,
+    "publicContributions": 44,
     "createdAt": "2022-07-20T08:13:46Z"
   },
   {
     "login": "alekkiq",
     "name": "Aleksi Putkonen",
     "avatarUrl": "https://avatars.githubusercontent.com/u/106025248?s=72&u=de55590a8efe0c646483c727da421eb03290708b&v=4",
-    "location": "Vantaa, Finland",
+    "location": "Helsinki, Finland",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 653,
+    "publicContributions": 124,
     "createdAt": "2022-05-22T15:23:46Z"
   },
   {
@@ -22556,31 +22556,19 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 4,
-    "publicContributions": 14,
+    "publicContributions": 10,
     "createdAt": "2022-10-31T13:24:27Z"
-  },
-  {
-    "login": "romanButkus",
-    "name": "Roman",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/119127514?s=72&v=4",
-    "location": "Finland, Espoo",
-    "company": "",
-    "twitterUsername": "RomanButkus",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 93,
-    "createdAt": "2022-11-26T17:12:05Z"
   },
   {
     "login": "NotaKennen",
     "name": "Memarios",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/107775226?s=72&u=b8f256fb27958ce707a5de535522ea398478ecba&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/107775226?s=72&u=742e030bcf218ec7b88979c7ba62f5cf407ebdb6&v=4",
     "location": "Finland",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 16,
-    "publicContributions": 12,
+    "followers": 5,
+    "privateContributions": 25,
+    "publicContributions": 7,
     "createdAt": "2022-06-18T21:39:11Z"
   },
   {
@@ -22590,7 +22578,7 @@
     "location": "Finland",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-04-04T13:16:46Z"
