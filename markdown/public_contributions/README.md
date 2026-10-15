@@ -197,9 +197,9 @@ Published countries: 234
 | Slovenia | 3,101 | [View](./slovenia.md) |
 | Solomon Islands | 19 | [View](./solomon_islands.md) |
 | Somalia | 867 | [View](./somalia.md) |
-| South Africa | 17,936 | [View](./south_africa.md) |
+| South Africa | 17,935 | [View](./south_africa.md) |
 | South Georgia | 6 | [View](./south_georgia.md) |
-| South Korea | 56,925 | [View](./south_korea.md) |
+| South Korea | 56,924 | [View](./south_korea.md) |
 | South Sudan | 132 | [View](./south_sudan.md) |
 | Sri Lanka | 18,324 | [View](./sri_lanka.md) |
 | Sudan | 727 | [View](./sudan.md) |
@@ -239,4 +239,4 @@ Published countries: 234
 | Zambia | 1,338 | [View](./zambia.md) |
 | Zimbabwe | 1,654 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-15T18:35:03.096Z
+Generated: 2026-10-15T18:41:28.420Z

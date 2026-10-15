@@ -1,6 +1,6 @@
 # Public Contributions - Slovakia
 
-Generated: 2026-10-15T16:24:31.565Z
+Generated: 2026-10-15T18:36:45.483Z
 
 Users: 4669
 
@@ -20,8 +20,8 @@ Users: 4669
 | 12 | [matejkosiarcik](https://github.com/matejkosiarcik) | Matej Košiarčik |  |  | Slovakia | 3113 |
 | 13 | [MatusMockor](https://github.com/MatusMockor) | Matúš Močkor |  |  | Slovakia | 3031 |
 | 14 | [NightMean](https://github.com/NightMean) |  |  |  | Slovakia | 3023 |
-| 15 | [mont127](https://github.com/mont127) | mont127 | None  |  | Slovakia | 2492 |
-| 16 | [WizzardSK](https://github.com/WizzardSK) |  |  |  | Bratislava, Slovakia | 2395 |
+| 15 | [WizzardSK](https://github.com/WizzardSK) |  |  |  | Bratislava, Slovakia | 2853 |
+| 16 | [mont127](https://github.com/mont127) | mont127 | None  |  | Slovakia | 2492 |
 | 17 | [janbodnar](https://github.com/janbodnar) | Jan Bodnar |  |  | Bratislava | 2391 |
 | 18 | [PavolUlicny](https://github.com/PavolUlicny) | Pavol Ulicny | High school | s0nda7 | Bratislava  | 2289 |
 | 19 | [deathbeam](https://github.com/deathbeam) | Tomas Slusny |  |  | Slovakia | 2282 |

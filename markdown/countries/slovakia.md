@@ -27,11 +27,11 @@ Indexed users: 4,669
 | 13 | [Kenessy](https://github.com/Kenessy) | Daniel Kenessy | Slovakia | 9,652 |
 | 14 | [crnkjck](https://github.com/crnkjck) | Ján Kľuka | Bratislava, Slovakia | 9,637 |
 | 15 | [VladimirTomko](https://github.com/VladimirTomko) | Vladimír Tomko | Bratislava, Slovakia | 9,429 |
-| 16 | [valferon](https://github.com/valferon) | Feron Valentin | Slovakia | 8,723 |
-| 17 | [davidian-sk](https://github.com/davidian-sk) |  | Bratislava | 8,568 |
-| 18 | [mrshu](https://github.com/mrshu) | Marek Šuppa | Slovakia | 8,545 |
-| 19 | [samuelpatro](https://github.com/samuelpatro) | Samuel | Slovakia | 8,263 |
-| 20 | [a-blaho](https://github.com/a-blaho) | Adam Blahovič | Slovakia | 7,973 |
+| 16 | [digitalapplied](https://github.com/digitalapplied) | Richard Gibbons | Bratislava, Slovakia | 9,172 |
+| 17 | [valferon](https://github.com/valferon) | Feron Valentin | Slovakia | 8,723 |
+| 18 | [davidian-sk](https://github.com/davidian-sk) |  | Bratislava | 8,568 |
+| 19 | [mrshu](https://github.com/mrshu) | Marek Šuppa | Slovakia | 8,545 |
+| 20 | [samuelpatro](https://github.com/samuelpatro) | Samuel | Slovakia | 8,263 |
 
 ## Public Contributions
 
@@ -51,8 +51,8 @@ Indexed users: 4,669
 | 12 | [matejkosiarcik](https://github.com/matejkosiarcik) | Matej Košiarčik | Slovakia | 3,113 |
 | 13 | [MatusMockor](https://github.com/MatusMockor) | Matúš Močkor | Slovakia | 3,031 |
 | 14 | [NightMean](https://github.com/NightMean) |  | Slovakia | 3,023 |
-| 15 | [mont127](https://github.com/mont127) | mont127 | Slovakia | 2,492 |
-| 16 | [WizzardSK](https://github.com/WizzardSK) |  | Bratislava, Slovakia | 2,395 |
+| 15 | [WizzardSK](https://github.com/WizzardSK) |  | Bratislava, Slovakia | 2,853 |
+| 16 | [mont127](https://github.com/mont127) | mont127 | Slovakia | 2,492 |
 | 17 | [janbodnar](https://github.com/janbodnar) | Jan Bodnar | Bratislava | 2,391 |
 | 18 | [PavolUlicny](https://github.com/PavolUlicny) | Pavol Ulicny | Bratislava  | 2,289 |
 | 19 | [deathbeam](https://github.com/deathbeam) | Tomas Slusny | Slovakia | 2,282 |
@@ -83,4 +83,4 @@ Indexed users: 4,669
 | 19 | [Stiivi](https://github.com/Stiivi) | Stefan Urbanek | Bratislava | 280 |
 | 20 | [haad](https://github.com/haad) | Adam Hamsik | Bratislava Slovakia | 259 |
 
-Generated: 2026-10-15T16:24:31.565Z
+Generated: 2026-10-15T18:36:45.483Z

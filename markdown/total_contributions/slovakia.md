@@ -1,6 +1,6 @@
 # Total Contributions - Slovakia
 
-Generated: 2026-10-15T16:24:31.565Z
+Generated: 2026-10-15T18:36:45.483Z
 
 Users: 4669
 
@@ -21,8 +21,8 @@ Users: 4669
 | 13 | [Kenessy](https://github.com/Kenessy) | Daniel Kenessy | VRAXION |  | Slovakia | 9652 |
 | 14 | [crnkjck](https://github.com/crnkjck) | Ján Kľuka | Comenius University Bratislava |  | Bratislava, Slovakia | 9637 |
 | 15 | [VladimirTomko](https://github.com/VladimirTomko) | Vladimír Tomko | BeCode s.r.o.  |  | Bratislava, Slovakia | 9429 |
-| 16 | [valferon](https://github.com/valferon) | Feron Valentin | swipejobs |  | Slovakia | 8723 |
-| 17 | [davidian-sk](https://github.com/davidian-sk) |  |  |  | Bratislava | 8568 |
-| 18 | [mrshu](https://github.com/mrshu) | Marek Šuppa |  | mareksuppa | Slovakia | 8545 |
-| 19 | [samuelpatro](https://github.com/samuelpatro) | Samuel | @dajanarodriguez | sam_uell1 | Slovakia | 8263 |
-| 20 | [a-blaho](https://github.com/a-blaho) | Adam Blahovič | Everlution |  | Slovakia | 7973 |
+| 16 | [digitalapplied](https://github.com/digitalapplied) | Richard Gibbons | Digital Applied |  | Bratislava, Slovakia | 9172 |
+| 17 | [valferon](https://github.com/valferon) | Feron Valentin | swipejobs |  | Slovakia | 8723 |
+| 18 | [davidian-sk](https://github.com/davidian-sk) |  |  |  | Bratislava | 8568 |
+| 19 | [mrshu](https://github.com/mrshu) | Marek Šuppa |  | mareksuppa | Slovakia | 8545 |
+| 20 | [samuelpatro](https://github.com/samuelpatro) | Samuel | @dajanarodriguez | sam_uell1 | Slovakia | 8263 |
