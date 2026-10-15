@@ -23,7 +23,7 @@ Indexed users: 458
 | 9 | [Sup2point0](https://github.com/Sup2point0) | Sup#2.0 | Antarctica | 4,587 |
 | 10 | [bharxhav](https://github.com/bharxhav) | Bhargav Kantheti | antarctica | 4,187 |
 | 11 | [Rayrsn](https://github.com/Rayrsn) | Rayr | Antarctica | 3,991 |
-| 12 | [cutetux](https://github.com/cutetux) | CuteTux | Antarctica ;) | 3,879 |
+| 12 | [cutetux](https://github.com/cutetux) | CuteTux | Antarctica ;) | 3,885 |
 | 13 | [enriquephl](https://github.com/enriquephl) |  | Antarctica | 3,424 |
 | 14 | [ethicnology](https://github.com/ethicnology) | Azad | Antarctica | 3,287 |
 | 15 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Antarctica | 3,250 |
@@ -71,7 +71,7 @@ Indexed users: 458
 | 7 | [DenzelPenzel](https://github.com/DenzelPenzel) |  | Antarctica | 185 |
 | 8 | [ifarbod](https://github.com/ifarbod) | iFarbod | Antarctica  | 133 |
 | 9 | [bestruirui](https://github.com/bestruirui) | BESTRUI | Antarctica | 123 |
-| 10 | [examachine](https://github.com/examachine) | Eray Özkural | Dead City, Antarctica | 121 |
+| 10 | [examachine](https://github.com/examachine) | Eray Özkural | Dead City, Antarctica | 123 |
 | 11 | [KrLite](https://github.com/KrLite) | KrLite | Antarctica | 119 |
 | 12 | [TobitoFatitoRE](https://github.com/TobitoFatitoRE) | TobitoFatito | Davis Station, Antarctica | 119 |
 | 13 | [emre1393](https://github.com/emre1393) | Emre | Antarctica | 114 |
@@ -83,4 +83,4 @@ Indexed users: 458
 | 19 | [alphaaurigae](https://github.com/alphaaurigae) | Marian Brockerhoff | Antarctica | 86 |
 | 20 | [fakeid30](https://github.com/fakeid30) | Fake ID | Antarctica | 78 |
 
-Generated: 2026-10-15T05:37:47.931Z
+Generated: 2026-10-15T07:04:23.604Z

@@ -1,8 +1,8 @@
 # Followers - Georgia
 
-Generated: 2026-10-15T05:33:51.441Z
+Generated: 2026-10-15T07:21:31.377Z
 
-Users: 6893
+Users: 6894
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -13,15 +13,15 @@ Users: 6893
 | 5 | [quasilyte](https://github.com/quasilyte) | quasilyte |  |  | Georgia | 843 |
 | 6 | [dachi-khelashvili](https://github.com/dachi-khelashvili) | Dachi Khelashvili |  |  | Tbilisi, Georgia | 749 |
 | 7 | [muladz3gio](https://github.com/muladz3gio) | muladz3gio |  |  | Georgia, Tbilisi | 725 |
-| 8 | [istarkov](https://github.com/istarkov) | Ivan Starkov |  |  | Turkey, UAE, Egypt, Russia, Georgia | 712 |
-| 9 | [SleepTheGod](https://github.com/SleepTheGod) | Taylor Christian Newsome | GitBrew |  | Georgia | 705 |
+| 8 | [SleepTheGod](https://github.com/SleepTheGod) | Taylor Christian Newsome | GitBrew |  | Georgia | 721 |
+| 9 | [istarkov](https://github.com/istarkov) | Ivan Starkov |  |  | Turkey, UAE, Egypt, Russia, Georgia | 712 |
 | 10 | [secrary](https://github.com/secrary) | khasaia |  | CrossedBytes | Georgia | 700 |
 | 11 | [cwinland](https://github.com/cwinland) | Christopher Winland | @microsoft |  | Georgia | 590 |
 | 12 | [kristina-makalatia](https://github.com/kristina-makalatia) | Kristina |  |  | Tbilisi | 478 |
 | 13 | [enthusiastdev121](https://github.com/enthusiastdev121) | Paco✨ |  |  | Tbilisi, Georgia | 477 |
 | 14 | [rlidwka](https://github.com/rlidwka) | Alex Kocharin |  |  | Tbilisi, Georgia | 475 |
 | 15 | [Giorgi](https://github.com/Giorgi) | Giorgi Dalakishvili |  | GioDalakishvili | Tbilisi | 474 |
-| 16 | [gokadzev](https://github.com/gokadzev) | Valeri Gokadze |  |  | Tbilisi, Georgia | 432 |
+| 16 | [gokadzev](https://github.com/gokadzev) | Valeri Gokadze |  |  | Tbilisi, Georgia | 451 |
 | 17 | [bumbeishvili](https://github.com/bumbeishvili) | David  Bumbeishvili |  | dbumbeishvili | Tbilisi, Georgia | 409 |
 | 18 | [smira](https://github.com/smira) | Andrey Smirnov | @siderolabs  | smira | Georgia | 402 |
 | 19 | [h-mdm](https://github.com/h-mdm) | Headwind MDM | Headwind MDM |  | Iustine Abuladze st. N15, Tbilisi, Georgia | 396 |

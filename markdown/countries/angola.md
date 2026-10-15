@@ -29,9 +29,9 @@ Indexed users: 2,503
 | 15 | [noejunior299](https://github.com/noejunior299) | Noé Idagi | Angola/Luanda | 4,947 |
 | 16 | [BaziotaBeans](https://github.com/BaziotaBeans) | Fábio Baziota | Angola/Luanda | 3,799 |
 | 17 | [overlineink](https://github.com/overlineink) | 𝔍𝖔𝖗𝖌𝖊 𝕮𝖔𝖘𝖙𝖆 | Luanda, Angola | 3,700 |
-| 18 | [AntonioSebastiaoPedro](https://github.com/AntonioSebastiaoPedro) | António Sebastião Pedro | Morro Bento, Luanda, Angola | 3,489 |
-| 19 | [paulinofonsecas](https://github.com/paulinofonsecas) | Paulino Fonseca | Luanda | 3,486 |
-| 20 | [jorgevelosodev](https://github.com/jorgevelosodev) | Jorge Veloso | Luanda-Angola | 3,464 |
+| 18 | [CesaltinoFelix](https://github.com/CesaltinoFelix) | Cesaltino Félix | Luanda | 3,512 |
+| 19 | [AntonioSebastiaoPedro](https://github.com/AntonioSebastiaoPedro) | António Sebastião Pedro | Morro Bento, Luanda, Angola | 3,489 |
+| 20 | [paulinofonsecas](https://github.com/paulinofonsecas) | Paulino Fonseca | Luanda | 3,486 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 2,503
 | 19 | [nazarepiedady](https://github.com/nazarepiedady) | Nazaré da Piedade | Angola | 164 |
 | 20 | [jofranqueira](https://github.com/jofranqueira) | José Frangueira | Angola | 160 |
 
-Generated: 2026-10-15T05:37:05.733Z
+Generated: 2026-10-15T07:04:15.066Z

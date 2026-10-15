@@ -1,8 +1,8 @@
 # Followers - Ghana
 
-Generated: 2026-10-15T06:02:48.762Z
+Generated: 2026-10-15T07:30:53.273Z
 
-Users: 7101
+Users: 7100
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

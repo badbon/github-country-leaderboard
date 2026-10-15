@@ -45,7 +45,7 @@ Indexed users: 1,206
 | 6 | [ken00H](https://github.com/ken00H) |  | Yemen | 3,498 |
 | 7 | [HakimAlqubati](https://github.com/HakimAlqubati) | Hakim Ahmed Alqubati | Yemen | 3,481 |
 | 8 | [mibo01699](https://github.com/mibo01699) | Mayass Ali  | Yemen  | 2,133 |
-| 9 | [Ammar-1993](https://github.com/Ammar-1993) | Ammar Al-Najjar | Yemen | 2,076 |
+| 9 | [Ammar-1993](https://github.com/Ammar-1993) | Ammar Al-Najjar | Yemen | 2,112 |
 | 10 | [Hamza-ye](https://github.com/Hamza-ye) | Hamza | Yemen | 1,819 |
 | 11 | [HusseinBaraja](https://github.com/HusseinBaraja) | Hussein Ba Ragaa | Yemen | 1,788 |
 | 12 | [islamux](https://github.com/islamux) | Fathi Mohammed Saeed AlQadasi | Yemen | 1,475 |
@@ -83,4 +83,4 @@ Indexed users: 1,206
 | 19 | [aameralduais](https://github.com/aameralduais) | Aamer Alduais | Sana'a, Yemen | 158 |
 | 20 | [its4nas](https://github.com/its4nas) | Anas Al-Dharei | Yemen | 147 |
 
-Generated: 2026-10-15T05:32:36.078Z
+Generated: 2026-10-15T07:00:21.424Z

@@ -1,6 +1,6 @@
 # Followers - Timor-Leste
 
-Generated: 2026-10-15T05:26:31.281Z
+Generated: 2026-10-15T06:53:29.455Z
 
 Users: 77
 
@@ -10,8 +10,8 @@ Users: 77
 | 2 | [Noro18](https://github.com/Noro18) | Ezequiel Vieira Gonzaga Macedo |  |  | Timor Leste  | 36 |
 | 3 | [Evangelino](https://github.com/Evangelino) | Evangelino Ximenes | Internship Program in TIC TIMOR I.P. | ximenesevang | Hera, Dili, Timor Leste | 26 |
 | 4 | [TiagovskiCode](https://github.com/TiagovskiCode) | Tiago Teixeira  |  |  | East-Timor | 17 |
-| 5 | [sergiojosevalente](https://github.com/sergiojosevalente) | Sergio Jose Valente Da Cruz | IT & Application Officer Telkomcel | sergiojose031 | Timor-Leste | 16 |
-| 6 | [RunPiBoss](https://github.com/RunPiBoss) | RunPi老板🤴📈🚀🌕 | 就差一个程序员了 |  | Dili, Timor-Leste | 15 |
+| 5 | [RunPiBoss](https://github.com/RunPiBoss) | RunPi老板🤴📈🚀🌕 | 就差一个程序员了 |  | Dili, Timor-Leste | 15 |
+| 6 | [sergiojosevalente](https://github.com/sergiojosevalente) | Sergio Jose Valente Da Cruz | IT & Application Officer Telkomcel | sergiojose031 | Timor-Leste | 15 |
 | 7 | [ajitonelsonn](https://github.com/ajitonelsonn) | Ajito Nelson | Viettel Timor |  | Timor Leste | 13 |
 | 8 | [zemalay](https://github.com/zemalay) | Geovannio Frederico de Jesus Vinhas | TIC TIMOR |  | Dili, Timor-Leste | 13 |
 | 9 | [abindacarmo](https://github.com/abindacarmo) | Brigida de Carvalho Carmo | UNTL |  | Timor-Leste | 11 |

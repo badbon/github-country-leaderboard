@@ -1,6 +1,6 @@
 # Public Contributions - Guernsey
 
-Generated: 2026-10-15T06:06:14.302Z
+Generated: 2026-10-15T07:31:44.062Z
 
 Users: 45
 
@@ -12,17 +12,17 @@ Users: 45
 | 4 | [YuriGuernsey](https://github.com/YuriGuernsey) | Yuri Alves | BugBird Co. | YuriGuernsey | Guernsey | 55 |
 | 5 | [adrianritchie](https://github.com/adrianritchie) |  |  |  | Guernsey | 41 |
 | 6 | [nick-vermeulen](https://github.com/nick-vermeulen) | Nick |  |  | Guernsey | 21 |
-| 7 | [MattJamesChampion](https://github.com/MattJamesChampion) | Matt "Danny" Champion |  |  | Guernsey | 18 |
-| 8 | [tomupson](https://github.com/tomupson) | Tom Upson |  |  | Guernsey | 17 |
-| 9 | [bkp7](https://github.com/bkp7) | Barry Pitfield |  |  | Guernsey | 11 |
-| 10 | [gilbertbw](https://github.com/gilbertbw) | Gilbert Bishop-White | @x-ware-ltd  |  | Guernsey | 10 |
-| 11 | [LIHITAB](https://github.com/LIHITAB) | Like and Code on GitHub |  |  | Guernsey, CI | 8 |
+| 7 | [tomupson](https://github.com/tomupson) | Tom Upson |  |  | Guernsey | 17 |
+| 8 | [bkp7](https://github.com/bkp7) | Barry Pitfield |  |  | Guernsey | 11 |
+| 9 | [gilbertbw](https://github.com/gilbertbw) | Gilbert Bishop-White | @x-ware-ltd  |  | Guernsey | 10 |
+| 10 | [LIHITAB](https://github.com/LIHITAB) | Like and Code on GitHub |  |  | Guernsey, CI | 8 |
+| 11 | [MattJamesChampion](https://github.com/MattJamesChampion) | Matt "Danny" Champion |  |  | Guernsey | 7 |
 | 12 | [mtp-tkostudax](https://github.com/mtp-tkostudax) | Shanty Irish | Man The Programmer, LLC |  | Guernsey | 3 |
 | 13 | [TINZ](https://github.com/TINZ) | Paul Tinsley |  |  | Guernsey | 3 |
 | 14 | [JamesK2754](https://github.com/JamesK2754) | James King |  |  | Guernsey | 2 |
-| 15 | [TheCodingCarlson](https://github.com/TheCodingCarlson) | Chris Carlson | Rothschild & Co |  | Guernsey | 2 |
-| 16 | [theModrzew](https://github.com/theModrzew) | Patryk |  |  | Guernsey | 2 |
-| 17 | [GlennToms](https://github.com/GlennToms) | Glenn Toms |  |  | Guernsey | 1 |
-| 18 | [gsydev191](https://github.com/gsydev191) | Dan |  |  | Guernsey | 1 |
-| 19 | [thebutler12](https://github.com/thebutler12) | Matt Ball | States of Guernsey |  | Guernsey | 1 |
-| 20 | [acatcalledanarchy](https://github.com/acatcalledanarchy) | A Cat Called Anarchy |  |  | Guernsey, Channel Islands | 0 |
+| 15 | [theModrzew](https://github.com/theModrzew) | Patryk |  |  | Guernsey | 2 |
+| 16 | [GlennToms](https://github.com/GlennToms) | Glenn Toms |  |  | Guernsey | 1 |
+| 17 | [gsydev191](https://github.com/gsydev191) | Dan |  |  | Guernsey | 1 |
+| 18 | [thebutler12](https://github.com/thebutler12) | Matt Ball | States of Guernsey |  | Guernsey | 1 |
+| 19 | [acatcalledanarchy](https://github.com/acatcalledanarchy) | A Cat Called Anarchy |  |  | Guernsey, Channel Islands | 0 |
+| 20 | [admassey](https://github.com/admassey) | Adrian Massey |  |  | Guernsey | 0 |

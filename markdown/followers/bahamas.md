@@ -1,6 +1,6 @@
 # Followers - Bahamas
 
-Generated: 2026-10-15T05:41:11.909Z
+Generated: 2026-10-15T07:06:28.659Z
 
 Users: 236
 
@@ -19,9 +19,9 @@ Users: 236
 | 11 | [Azure2020](https://github.com/Azure2020) |  | Azure Group of Companies Ltd  | Azuregold242 | Bahamas  | 22 |
 | 12 | [M3gaPixel](https://github.com/M3gaPixel) | Pixelated |  |  | Bahamas  | 21 |
 | 13 | [bryanherger](https://github.com/bryanherger) | Bryan Herger |  |  | South Shore of Nassau County, NY | 18 |
-| 14 | [mroker242](https://github.com/mroker242) | Michael Roker | Cable Bahamas Ltd. |  | Nassau, Bahamas | 18 |
-| 15 | [TRL242](https://github.com/TRL242) | Roy Lockhart |  |  | Victoria, BC and Freeport, Bahamas | 18 |
-| 16 | [BeachMannix](https://github.com/BeachMannix) | Mannix Lee |  | mmhammed10 | Bahamas | 17 |
+| 14 | [TRL242](https://github.com/TRL242) | Roy Lockhart |  |  | Victoria, BC and Freeport, Bahamas | 18 |
+| 15 | [BeachMannix](https://github.com/BeachMannix) | Mannix Lee |  | mmhammed10 | Bahamas | 17 |
+| 16 | [mroker242](https://github.com/mroker242) | Michael Roker | Cable Bahamas Ltd. |  | Nassau, Bahamas | 17 |
 | 17 | [aulbytj](https://github.com/aulbytj) | Aulbourn Knowles | Developer |  | Bahamas | 16 |
 | 18 | [emajeru](https://github.com/emajeru) | Edison Hanchell | Doctors Hospital | emajeru | Nassau, Bahamas | 16 |
 | 19 | [paulcitarella](https://github.com/paulcitarella) | Paul Citarella |  |  | George Town, Bahamas | 15 |

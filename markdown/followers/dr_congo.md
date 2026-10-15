@@ -1,6 +1,6 @@
 # Followers - DR Congo
 
-Generated: 2026-10-15T05:57:11.055Z
+Generated: 2026-10-15T07:22:12.292Z
 
 Users: 699
 
@@ -13,7 +13,7 @@ Users: 699
 | 5 | [SKB-TECH](https://github.com/SKB-TECH) | SKB-TECH | KDEA Academy | s_kinyamba | DR CONGO | 186 |
 | 6 | [Gbelsalvador](https://github.com/Gbelsalvador) | BANYI BANTU GEDEON | geek genius |  | kinshasa | 163 |
 | 7 | [fordimalanda](https://github.com/fordimalanda) | Fordi Malanda | Fordima Inc. | mlndafordi | Kinshasa, DRC | 141 |
-| 8 | [AfricanboyKiima](https://github.com/AfricanboyKiima) | Africanboy Kiima |  | AfricanboyKiima | Kinshasa/DRC | 134 |
+| 8 | [AfricanboyKiima](https://github.com/AfricanboyKiima) | Africanboy Kiima |  | AfricanboyKiima | Kinshasa/DRC | 133 |
 | 9 | [eltazy](https://github.com/eltazy) | Michel B | @KadeaAcademy   |  | Kinshasa, CD | 131 |
 | 10 | [oesukam](https://github.com/oesukam) | Olivier M. Esuka |  | oesukam | Kinshasa, Nairobi, Kigali | 105 |
 | 11 | [IronOnet](https://github.com/IronOnet) | Arnaud Wanet | Symiar | Arnaud_Wanet | Kinshasa | 103 |
@@ -21,7 +21,7 @@ Users: 699
 | 13 | [valamandar](https://github.com/valamandar) | Vala Mandar | @mosala-group  | vala_mandar | RD Congo, Kinshasa | 90 |
 | 14 | [fdis111](https://github.com/fdis111) | Francois Disubi |  |  | Kinshasa Drc | 87 |
 | 15 | [jlmbaka](https://github.com/jlmbaka) | Jean-Louis Mbaka | Kadea | jlmbaka | Kinshasa, DRC | 84 |
-| 16 | [RolandM99](https://github.com/RolandM99) | Roland MN | Reputable Tech Company | ManfulMwez | Kinshasa \| Kigali \| Nairobi | 83 |
+| 16 | [RolandM99](https://github.com/RolandM99) | Roland MN | Reputable Tech Company | ManfulMwez | Kinshasa \| Kigali \| Nairobi | 84 |
 | 17 | [enigma972](https://github.com/enigma972) | Joel Lusavuvu | Lussi | joellusavuvu | Kinshasa, RDCongo  | 72 |
 | 18 | [johnmbiya](https://github.com/johnmbiya) | Jean Claude Mbiya | @guidelightfoundation | johnmbiya | Kinshasa | 72 |
 | 19 | [bolenge](https://github.com/bolenge) | Don de Dieu Bolenge | Dev Artefact | bolenge_ | Congo - Kinshasa | 69 |

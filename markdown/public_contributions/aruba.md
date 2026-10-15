@@ -1,8 +1,8 @@
 # Public Contributions - Aruba
 
-Generated: 2026-10-15T05:39:57.779Z
+Generated: 2026-10-15T07:06:12.895Z
 
-Users: 38
+Users: 37
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -16,13 +16,13 @@ Users: 38
 | 8 | [Vortex93](https://github.com/Vortex93) | Derwin Tromp | AIB, UTwente |  | Oranjestad, Aruba | 44 |
 | 9 | [hfsyung](https://github.com/hfsyung) |  |  |  | Aruba | 35 |
 | 10 | [flacle](https://github.com/flacle) | Francis Laclé |  | flacle | Aruba | 30 |
-| 11 | [MatthewELee](https://github.com/MatthewELee) | Matt Lee |  |  | Aruba | 19 |
-| 12 | [JunTechWebSolutions](https://github.com/JunTechWebSolutions) | Juny Engelhart (AWS Aruba) | Lead Web Designer @AWSAruba | JWSARUBA | Oranjestad, Aruba | 17 |
-| 13 | [XBrewyn](https://github.com/XBrewyn) | Brewyn Frederick Espinal Mercado | Freelancer |  | Aruba | 11 |
-| 14 | [AyrtonAG](https://github.com/AyrtonAG) | Ayrton Geerman |  |  | Aruba | 8 |
-| 15 | [Antoine0823](https://github.com/Antoine0823) | N21 | Brittec | BrittenAntoine | Aruba | 3 |
-| 16 | [aarends](https://github.com/aarends) | Alan A. | Erelis Digital Marketing & Web Design |  | Aruba | 2 |
-| 17 | [piedraplat](https://github.com/piedraplat) |  | Lacle&Partners |  | Aruba | 2 |
-| 18 | [ahagens](https://github.com/ahagens) | Andrew Hagens | SETAR N.V. |  | Oranjestad | 0 |
-| 19 | [ArubaTourismAuthority](https://github.com/ArubaTourismAuthority) | Aruba Tourism Authority | Aruba Tourism Authority |  | Aruba | 0 |
-| 20 | [awsaruba](https://github.com/awsaruba) | ⟨Amazing Web Solutions Aruba⟩ | AWS Aruba | AWSAruba | Oranjestad,Aruba | 0 |
+| 11 | [JunTechWebSolutions](https://github.com/JunTechWebSolutions) | Juny Engelhart (AWS Aruba) | Lead Web Designer @AWSAruba | JWSARUBA | Oranjestad, Aruba | 17 |
+| 12 | [XBrewyn](https://github.com/XBrewyn) | Brewyn Frederick Espinal Mercado | Freelancer |  | Aruba | 11 |
+| 13 | [AyrtonAG](https://github.com/AyrtonAG) | Ayrton Geerman |  |  | Aruba | 8 |
+| 14 | [Antoine0823](https://github.com/Antoine0823) | N21 | Brittec | BrittenAntoine | Aruba | 3 |
+| 15 | [aarends](https://github.com/aarends) | Alan A. | Erelis Digital Marketing & Web Design |  | Aruba | 2 |
+| 16 | [piedraplat](https://github.com/piedraplat) |  | Lacle&Partners |  | Aruba | 2 |
+| 17 | [ahagens](https://github.com/ahagens) | Andrew Hagens | SETAR N.V. |  | Oranjestad | 0 |
+| 18 | [ArubaTourismAuthority](https://github.com/ArubaTourismAuthority) | Aruba Tourism Authority | Aruba Tourism Authority |  | Aruba | 0 |
+| 19 | [awsaruba](https://github.com/awsaruba) | ⟨Amazing Web Solutions Aruba⟩ | AWS Aruba | AWSAruba | Oranjestad,Aruba | 0 |
+| 20 | [azaandam](https://github.com/azaandam) | André Zaandam | CR38TE | azaandam | Aruba | 0 |

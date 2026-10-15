@@ -1,6 +1,6 @@
 # Total Contributions - Angola
 
-Generated: 2026-10-15T05:37:05.733Z
+Generated: 2026-10-15T07:04:15.066Z
 
 Users: 2503
 
@@ -23,6 +23,6 @@ Users: 2503
 | 15 | [noejunior299](https://github.com/noejunior299) | Noé Idagi | ITEL - Institute of Telecomunications | noejunior299 | Angola/Luanda | 4947 |
 | 16 | [BaziotaBeans](https://github.com/BaziotaBeans) | Fábio Baziota |  | baziota | Angola/Luanda | 3799 |
 | 17 | [overlineink](https://github.com/overlineink) | 𝔍𝖔𝖗𝖌𝖊 𝕮𝖔𝖘𝖙𝖆 | Principal Frontend Engineer @ Appy People, Co-Founder of @businx | overlineink | Luanda, Angola | 3700 |
-| 18 | [AntonioSebastiaoPedro](https://github.com/AntonioSebastiaoPedro) | António Sebastião Pedro |  |  | Morro Bento, Luanda, Angola | 3489 |
-| 19 | [paulinofonsecas](https://github.com/paulinofonsecas) | Paulino Fonseca | BITKABIR | fonseca00c | Luanda | 3486 |
-| 20 | [jorgevelosodev](https://github.com/jorgevelosodev) | Jorge Veloso |  |  | Luanda-Angola | 3464 |
+| 18 | [CesaltinoFelix](https://github.com/CesaltinoFelix) | Cesaltino Félix | 42 Luanda |  | Luanda | 3512 |
+| 19 | [AntonioSebastiaoPedro](https://github.com/AntonioSebastiaoPedro) | António Sebastião Pedro |  |  | Morro Bento, Luanda, Angola | 3489 |
+| 20 | [paulinofonsecas](https://github.com/paulinofonsecas) | Paulino Fonseca | BITKABIR | fonseca00c | Luanda | 3486 |

@@ -12,11 +12,11 @@ Indexed users: 55
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [Ama-dou](https://github.com/Ama-dou) | Amadou Bah | Djibouti | 5,563 |
-| 2 | [Abdoul-Hakim101](https://github.com/Abdoul-Hakim101) | Abdihakim  Mohamed | Djibouti | 1,395 |
+| 1 | [Ama-dou](https://github.com/Ama-dou) | Amadou Bah | Djibouti | 5,560 |
+| 2 | [Abdoul-Hakim101](https://github.com/Abdoul-Hakim101) | Abdihakim  Mohamed | Djibouti | 1,394 |
 | 3 | [Captain-iiro](https://github.com/Captain-iiro) | Captain iiro (Abdourahman) | Djibouti | 1,189 |
 | 4 | [moustapha-aden](https://github.com/moustapha-aden) | MOUSTAPHA ADEN DIRIYEH | Djibouti Dj | 665 |
-| 5 | [Ismael9-web](https://github.com/Ismael9-web) | Ismael Ladieh | Djibouti | 536 |
+| 5 | [Ismael9-web](https://github.com/Ismael9-web) | Ismael Ladieh | Djibouti | 534 |
 | 6 | [Obelisk999](https://github.com/Obelisk999) | Abdoulrazak | Djibouti | 393 |
 | 7 | [Filsan648](https://github.com/Filsan648) | Filsan | Djibouti | 329 |
 | 8 | [hamoudabass](https://github.com/hamoudabass) | Hamoud Abass  | Djibouti | 291 |
@@ -63,7 +63,7 @@ Indexed users: 55
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [Captain-iiro](https://github.com/Captain-iiro) | Captain iiro (Abdourahman) | Djibouti | 27 |
-| 2 | [bassim18ramad](https://github.com/bassim18ramad) | BassimRH | Djibouti | 25 |
+| 2 | [bassim18ramad](https://github.com/bassim18ramad) | BassimRH | Djibouti | 26 |
 | 3 | [Ama-dou](https://github.com/Ama-dou) | Amadou Bah | Djibouti | 17 |
 | 4 | [abdibogor](https://github.com/abdibogor) |  | Djibouti | 15 |
 | 5 | [hamoudabass](https://github.com/hamoudabass) | Hamoud Abass  | Djibouti | 15 |
@@ -83,4 +83,4 @@ Indexed users: 55
 | 19 | [jibo-zz](https://github.com/jibo-zz) | Mohamed Cheikh | Djibouti | 5 |
 | 20 | [LuxusIX](https://github.com/LuxusIX) | Abdourahman A.Daher | Djibouti | 5 |
 
-Generated: 2026-10-15T05:55:52.680Z
+Generated: 2026-10-15T07:21:28.053Z

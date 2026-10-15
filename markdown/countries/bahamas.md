@@ -13,10 +13,10 @@ Indexed users: 236
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [carlswann](https://github.com/carlswann) | Carl Swann | Freeport, Bahamas | 23,007 |
-| 2 | [dbraganca](https://github.com/dbraganca) | dbraganca | Bahamas | 3,289 |
-| 3 | [zoejessica](https://github.com/zoejessica) | Zoë Smith | Bahamas / Canada | 3,261 |
+| 2 | [zoejessica](https://github.com/zoejessica) | Zoë Smith | Bahamas / Canada | 3,306 |
+| 3 | [dbraganca](https://github.com/dbraganca) | dbraganca | Bahamas | 3,289 |
 | 4 | [bondjacobbond](https://github.com/bondjacobbond) | Jacob Bond | Casino Royale, Nassau, Bahamas | 3,075 |
-| 5 | [ryaustin](https://github.com/ryaustin) | Ryan | Bahamas | 2,513 |
+| 5 | [ryaustin](https://github.com/ryaustin) | Ryan | Bahamas | 2,514 |
 | 6 | [yannyhl](https://github.com/yannyhl) | yg | nassau | 2,039 |
 | 7 | [janajmccardy](https://github.com/janajmccardy) | Jana JM | Nassau, The Bahamas | 1,811 |
 | 8 | [TajhSeymour](https://github.com/TajhSeymour) | Tajh Seymour | New Providence, Bahamas | 1,475 |
@@ -75,12 +75,12 @@ Indexed users: 236
 | 11 | [Azure2020](https://github.com/Azure2020) |  | Bahamas  | 22 |
 | 12 | [M3gaPixel](https://github.com/M3gaPixel) | Pixelated | Bahamas  | 21 |
 | 13 | [bryanherger](https://github.com/bryanherger) | Bryan Herger | South Shore of Nassau County, NY | 18 |
-| 14 | [mroker242](https://github.com/mroker242) | Michael Roker | Nassau, Bahamas | 18 |
-| 15 | [TRL242](https://github.com/TRL242) | Roy Lockhart | Victoria, BC and Freeport, Bahamas | 18 |
-| 16 | [BeachMannix](https://github.com/BeachMannix) | Mannix Lee | Bahamas | 17 |
+| 14 | [TRL242](https://github.com/TRL242) | Roy Lockhart | Victoria, BC and Freeport, Bahamas | 18 |
+| 15 | [BeachMannix](https://github.com/BeachMannix) | Mannix Lee | Bahamas | 17 |
+| 16 | [mroker242](https://github.com/mroker242) | Michael Roker | Nassau, Bahamas | 17 |
 | 17 | [aulbytj](https://github.com/aulbytj) | Aulbourn Knowles | Bahamas | 16 |
 | 18 | [emajeru](https://github.com/emajeru) | Edison Hanchell | Nassau, Bahamas | 16 |
 | 19 | [paulcitarella](https://github.com/paulcitarella) | Paul Citarella | George Town, Bahamas | 15 |
 | 20 | [yemix](https://github.com/yemix) |  | Bahamas | 14 |
 
-Generated: 2026-10-15T05:41:11.909Z
+Generated: 2026-10-15T07:06:28.659Z
