@@ -23384,7 +23384,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 206,
+    "publicContributions": 189,
     "createdAt": "2021-09-12T08:57:15Z"
   },
   {
@@ -23444,19 +23444,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2021-04-04T23:41:03Z"
   },
   {
     "login": "juancruzlunatech",
-    "name": "Juan",
+    "name": "Juan Cruz Luna",
     "avatarUrl": "https://avatars.githubusercontent.com/u/89835833?s=72&v=4",
     "location": "New Zealand",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 47,
+    "publicContributions": 89,
     "createdAt": "2021-08-31T07:58:34Z"
   },
   {
@@ -23468,7 +23468,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 37,
     "createdAt": "2021-01-27T07:24:07Z"
   },
   {
@@ -23551,8 +23551,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 4,
+    "privateContributions": 193,
+    "publicContributions": 23,
     "createdAt": "2021-06-09T06:15:07Z"
   },
   {
@@ -23563,7 +23563,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 94,
+    "privateContributions": 176,
     "publicContributions": 0,
     "createdAt": "2021-04-11T21:10:20Z"
   },
@@ -23575,7 +23575,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 849,
+    "privateContributions": 1198,
     "publicContributions": 1,
     "createdAt": "2021-11-30T17:42:53Z"
   },
@@ -145834,5 +145834,17 @@
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2026-06-30T23:26:04Z"
+  },
+  {
+    "login": "databytelab",
+    "name": "Irfan Ahmad",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/97971197?s=72&u=181bd53b7a4bd10ab59b7fbabfb437c086ad41ab&v=4",
+    "location": "New Zealand",
+    "company": "University of Waikato",
+    "twitterUsername": "IrfanAhmad25",
+    "followers": 13,
+    "privateContributions": 0,
+    "publicContributions": 49,
+    "createdAt": "2022-01-18T15:42:21Z"
   }
 ]

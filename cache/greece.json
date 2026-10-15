@@ -23420,7 +23420,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 18,
     "createdAt": "2023-02-21T23:13:08Z"
   },
   {
@@ -23443,8 +23443,8 @@
     "company": "University of Georgia",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 88,
-    "publicContributions": 54,
+    "privateContributions": 104,
+    "publicContributions": 40,
     "createdAt": "2023-08-23T05:53:58Z"
   },
   {
@@ -23456,7 +23456,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2023-10-21T10:52:08Z"
   },
   {
@@ -23466,7 +23466,7 @@
     "location": "Athens",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-10-30T16:20:11Z"
@@ -23478,9 +23478,9 @@
     "location": "Athens",
     "company": "Natural Technical University of Athens",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 23,
     "createdAt": "2023-04-25T09:57:02Z"
   },
   {
@@ -23540,7 +23540,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 771,
+    "publicContributions": 753,
     "createdAt": "2023-12-08T07:38:12Z"
   },
   {
@@ -23566,18 +23566,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-12-06T13:36:09Z"
-  },
-  {
-    "login": "Pizzaboi87",
-    "name": "Peter Weiser",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/112249710?s=72&u=4360e9e28af71d807864b20b030155fe54c75bb8&v=4",
-    "location": "Kallithea, Greece",
-    "company": "Richmond Global Sciences",
-    "twitterUsername": "",
-    "followers": 568,
-    "privateContributions": 245,
-    "publicContributions": 31,
-    "createdAt": "2022-08-27T10:09:58Z"
   },
   {
     "login": "KaterinaK06",

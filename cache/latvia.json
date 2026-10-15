@@ -23084,7 +23084,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 6,
     "createdAt": "2016-10-10T10:36:11Z"
   },
   {
@@ -23131,8 +23131,8 @@
     "company": "freelance",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 45,
-    "publicContributions": 2,
+    "privateContributions": 52,
+    "publicContributions": 1,
     "createdAt": "2016-05-10T13:06:54Z"
   },
   {
@@ -23178,9 +23178,9 @@
     "location": "Riga",
     "company": "@Casterlabs ",
     "twitterUsername": "",
-    "followers": 15,
+    "followers": 17,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 19,
     "createdAt": "2016-10-24T16:48:52Z"
   },
   {
@@ -23190,8 +23190,8 @@
     "location": "Riga",
     "company": "",
     "twitterUsername": "",
-    "followers": 14,
-    "privateContributions": 148,
+    "followers": 12,
+    "privateContributions": 145,
     "publicContributions": 9,
     "createdAt": "2016-02-22T22:06:43Z"
   },
@@ -23204,7 +23204,7 @@
     "twitterUsername": "vertinski",
     "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 19,
     "createdAt": "2016-10-17T21:01:56Z"
   },
   {
@@ -23216,7 +23216,7 @@
     "twitterUsername": "",
     "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 4,
     "createdAt": "2016-02-21T12:58:43Z"
   },
   {
@@ -23227,7 +23227,7 @@
     "company": "C.T.Co",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 2,
+    "privateContributions": 36,
     "publicContributions": 0,
     "createdAt": "2016-02-11T08:16:13Z"
   },
@@ -23244,18 +23244,6 @@
     "createdAt": "2016-05-27T07:26:34Z"
   },
   {
-    "login": "harr0u",
-    "name": "Mark Anpilogov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/18706213?s=72&u=91c4819c5d6fd816bfbcfa08f8b5bd7178f5d7a4&v=4",
-    "location": "Riga",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 431,
-    "publicContributions": 0,
-    "createdAt": "2016-04-27T18:22:02Z"
-  },
-  {
     "login": "maemolol",
     "name": "mark",
     "avatarUrl": "https://avatars.githubusercontent.com/u/21063274?s=72&u=eb4c8db20c1b9cb6ed126ce85fe00006bd51995c&v=4",
@@ -23264,7 +23252,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 54,
-    "publicContributions": 101,
+    "publicContributions": 90,
     "createdAt": "2016-08-16T15:51:16Z"
   },
   {
@@ -23275,8 +23263,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 65,
-    "publicContributions": 57,
+    "privateContributions": 72,
+    "publicContributions": 64,
     "createdAt": "2016-11-05T18:37:50Z"
   },
   {

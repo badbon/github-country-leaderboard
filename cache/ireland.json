@@ -23156,7 +23156,7 @@
     "twitterUsername": "",
     "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 21,
     "createdAt": "2022-09-18T13:40:46Z"
   },
   {
@@ -23168,19 +23168,19 @@
     "twitterUsername": "",
     "followers": 13,
     "privateContributions": 1,
-    "publicContributions": 37,
+    "publicContributions": 35,
     "createdAt": "2022-01-23T13:31:27Z"
   },
   {
     "login": "Pablokaer",
     "name": "Pablo Carvalho",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/108692477?s=72&u=0e6e7f53c535a7c9184a7bee805c140e9cf99725&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/108692477?s=72&u=dd369a0e2a3bcce369d78fcd805252282d5eecd9&v=4",
     "location": "Dublin, Ireland",
     "company": "",
     "twitterUsername": "",
-    "followers": 13,
+    "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 359,
+    "publicContributions": 672,
     "createdAt": "2022-07-04T18:20:17Z"
   },
   {
@@ -23190,8 +23190,8 @@
     "location": "Dublin, Ireland",
     "company": "Eaton",
     "twitterUsername": "",
-    "followers": 13,
-    "privateContributions": 2136,
+    "followers": 14,
+    "privateContributions": 3174,
     "publicContributions": 0,
     "createdAt": "2022-04-26T07:07:24Z"
   },
@@ -23202,9 +23202,9 @@
     "location": "Ireland",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 43,
+    "publicContributions": 45,
     "createdAt": "2022-08-02T10:38:14Z"
   },
   {
@@ -23214,7 +23214,7 @@
     "location": "Ireland",
     "company": "grovblurian",
     "twitterUsername": "sarabonzo",
-    "followers": 12,
+    "followers": 14,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-05-18T06:40:06Z"
@@ -23238,7 +23238,7 @@
     "location": "Ireland",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 10,
     "privateContributions": 0,
     "publicContributions": 196,
     "createdAt": "2022-03-09T09:36:51Z"
@@ -23250,22 +23250,10 @@
     "location": "Ireland",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 11,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-05-02T13:12:09Z"
-  },
-  {
-    "login": "databytelab",
-    "name": "Irfan Ahmad",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/97971197?s=72&v=4",
-    "location": "Ireland",
-    "company": "Maynooth University",
-    "twitterUsername": "IrfanAhmad25",
-    "followers": 12,
-    "privateContributions": 0,
-    "publicContributions": 20,
-    "createdAt": "2022-01-18T15:42:21Z"
   },
   {
     "login": "IgorBroch",
@@ -23286,9 +23274,9 @@
     "location": "Dublin, Ireland ",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 10,
     "createdAt": "2022-03-26T16:23:11Z"
   },
   {
@@ -23298,9 +23286,9 @@
     "location": "cork, Ireland",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 130,
-    "publicContributions": 129,
+    "followers": 14,
+    "privateContributions": 62,
+    "publicContributions": 103,
     "createdAt": "2022-11-28T23:10:10Z"
   },
   {
@@ -23311,8 +23299,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 627,
-    "publicContributions": 14,
+    "privateContributions": 0,
+    "publicContributions": 15,
     "createdAt": "2022-04-22T19:21:56Z"
   },
   {
@@ -23322,9 +23310,9 @@
     "location": "Dublin, Ireland",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 230,
-    "publicContributions": 100,
+    "followers": 13,
+    "privateContributions": 120,
+    "publicContributions": 101,
     "createdAt": "2022-09-27T12:37:48Z"
   },
   {
@@ -23346,9 +23334,9 @@
     "location": "Ireland",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 2437,
-    "publicContributions": 2,
+    "followers": 10,
+    "privateContributions": 2988,
+    "publicContributions": 1,
     "createdAt": "2022-05-06T09:30:32Z"
   },
   {
@@ -23358,7 +23346,7 @@
     "location": "Dublin, Ireland",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 12,
     "privateContributions": 0,
     "publicContributions": 118,
     "createdAt": "2022-11-10T21:54:03Z"
@@ -23370,9 +23358,9 @@
     "location": "Ireland",
     "company": "Intel",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 134,
-    "publicContributions": 154,
+    "followers": 9,
+    "privateContributions": 64,
+    "publicContributions": 170,
     "createdAt": "2022-09-22T15:17:41Z"
   },
   {

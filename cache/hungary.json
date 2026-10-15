@@ -23060,7 +23060,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 7,
     "createdAt": "2021-10-17T14:06:04Z"
   },
   {
@@ -23083,8 +23083,8 @@
     "company": "Airalo",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 361,
-    "publicContributions": 0,
+    "privateContributions": 357,
+    "publicContributions": 59,
     "createdAt": "2021-08-16T07:44:35Z"
   },
   {
@@ -23130,9 +23130,9 @@
     "location": "Hungary",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 353,
-    "publicContributions": 37,
+    "followers": 5,
+    "privateContributions": 300,
+    "publicContributions": 163,
     "createdAt": "2021-03-17T14:33:45Z"
   },
   {
@@ -23166,9 +23166,9 @@
     "location": "Hungary",
     "company": "@DBX",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 689,
-    "publicContributions": 170,
+    "followers": 1,
+    "privateContributions": 743,
+    "publicContributions": 74,
     "createdAt": "2021-10-19T09:55:02Z"
   },
   {
@@ -23180,7 +23180,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 1,
     "createdAt": "2021-01-12T07:27:13Z"
   },
   {
@@ -23263,7 +23263,7 @@
     "company": "",
     "twitterUsername": "rbence07",
     "followers": 2,
-    "privateContributions": 27,
+    "privateContributions": 28,
     "publicContributions": 1,
     "createdAt": "2021-04-19T16:30:03Z"
   },
@@ -23275,20 +23275,20 @@
     "company": "None",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 4,
-    "publicContributions": 1067,
+    "privateContributions": 30,
+    "publicContributions": 1064,
     "createdAt": "2021-02-06T08:13:52Z"
   },
   {
     "login": "GergelyTeszari",
     "name": "Teszári Gergely",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/90284987?s=72&u=1106e00e8e872884a345f9b198f097702f3de38c&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/90284987?s=72&u=50dcc565577d89b12ed505ea3c1b7898ab836b0f&v=4",
     "location": "Hungary",
     "company": "thyssenkrupp Component Technology Hungary",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 49,
+    "publicContributions": 55,
     "createdAt": "2021-09-07T20:23:25Z"
   },
   {

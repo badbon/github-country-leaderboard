@@ -23064,18 +23064,6 @@
     "createdAt": "2022-05-21T13:16:57Z"
   },
   {
-    "login": "PEATSPEC",
-    "name": "PEATSPEC",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/105675470?s=72&u=26705ec2530873324a0b6080334ee8f171123f31&v=4",
-    "location": "Espoo, Finland",
-    "company": "Aalto University",
-    "twitterUsername": "BurdunIuliia",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2022-05-16T20:03:24Z"
-  },
-  {
     "login": "raphokirja",
     "name": "Raphael Idewele",
     "avatarUrl": "https://avatars.githubusercontent.com/u/98789021?s=72&u=ffacd957927a034d9024e710286d608a184646ba&v=4",
@@ -23090,25 +23078,25 @@
   {
     "login": "V-vTK",
     "name": "Ville-Veikka Kiiskilä",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/97534406?s=72&u=3214b7f306530292d7a3e2a6a7cc55ec8c87e62d&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/97534406?s=72&u=5e40d196abd752f323585bc1939d96b141ede6dc&v=4",
     "location": "Finland, Oulu",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 401,
-    "publicContributions": 27,
+    "followers": 5,
+    "privateContributions": 395,
+    "publicContributions": 24,
     "createdAt": "2022-01-11T14:48:27Z"
   },
   {
     "login": "TR094",
     "name": "TR094",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/109485492?s=72&u=dcbe411095291a76299260d614291bf73048b514&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/109485492?s=72&u=7d68f7bf6ef8ed508ba407e0cefdc00a3db7bbc6&v=4",
     "location": "Finland",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 8,
-    "publicContributions": 37,
+    "followers": 5,
+    "privateContributions": 53,
+    "publicContributions": 63,
     "createdAt": "2022-07-17T21:14:21Z"
   },
   {
@@ -23154,7 +23142,7 @@
     "location": "Finland (Helsinki)",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-02-10T12:11:36Z"
@@ -23167,8 +23155,8 @@
     "company": "Rightware Oy",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 210,
-    "publicContributions": 9,
+    "privateContributions": 212,
+    "publicContributions": 17,
     "createdAt": "2022-04-06T23:51:01Z"
   },
   {
@@ -23178,8 +23166,8 @@
     "location": "Järvenpää, Finland",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 663,
+    "followers": 5,
+    "privateContributions": 1485,
     "publicContributions": 35,
     "createdAt": "2022-06-11T10:15:48Z"
   },
@@ -23191,7 +23179,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 0,
+    "privateContributions": 5,
     "publicContributions": 10,
     "createdAt": "2022-02-03T06:40:34Z"
   },
@@ -23203,8 +23191,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 52,
-    "publicContributions": 1,
+    "privateContributions": 29,
+    "publicContributions": 0,
     "createdAt": "2022-06-13T12:45:26Z"
   },
   {
@@ -23215,7 +23203,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 21,
+    "privateContributions": 36,
     "publicContributions": 0,
     "createdAt": "2022-01-18T13:12:00Z"
   },
@@ -23240,7 +23228,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 382,
+    "publicContributions": 284,
     "createdAt": "2022-01-20T10:05:54Z"
   },
   {
@@ -23251,7 +23239,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 171,
+    "privateContributions": 1115,
     "publicContributions": 0,
     "createdAt": "2022-11-22T15:22:51Z"
   },
@@ -23264,7 +23252,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 22,
     "createdAt": "2022-03-08T16:53:37Z"
   },
   {
@@ -23274,7 +23262,7 @@
     "location": "Finland",
     "company": "Tampere Univeristy",
     "twitterUsername": "OscarRodera",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-05-18T13:56:57Z"

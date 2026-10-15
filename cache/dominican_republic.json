@@ -23515,7 +23515,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 2216,
+    "privateContributions": 2458,
     "publicContributions": 0,
     "createdAt": "2018-10-29T15:04:40Z"
   },
@@ -23526,7 +23526,7 @@
     "location": "Santo Domingo",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 79,
     "createdAt": "2017-12-29T20:37:42Z"
@@ -23551,7 +23551,7 @@
     "company": "",
     "twitterUsername": "danielomontero_",
     "followers": 4,
-    "privateContributions": 1217,
+    "privateContributions": 1464,
     "publicContributions": 0,
     "createdAt": "2018-05-25T14:50:57Z"
   },
@@ -23562,7 +23562,7 @@
     "location": "Santo Domingo",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-07-05T03:27:00Z"
@@ -23599,8 +23599,8 @@
     "company": "Argentum",
     "twitterUsername": "melvin8710",
     "followers": 3,
-    "privateContributions": 20,
-    "publicContributions": 325,
+    "privateContributions": 2,
+    "publicContributions": 346,
     "createdAt": "2018-06-10T03:58:56Z"
   },
   {
@@ -23700,18 +23700,6 @@
     "createdAt": "2018-11-14T19:48:46Z"
   },
   {
-    "login": "kbyteec",
-    "name": "Diego Díaz",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/45861364?s=72&u=a70b9b7c91c066c2f1c7b4942d37d3e85027e0aa&v=4",
-    "location": "Santo Domingo - Ecuador",
-    "company": "Kbyte Solutions",
-    "twitterUsername": "diazdiegoec",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 70,
-    "createdAt": "2018-12-13T22:26:23Z"
-  },
-  {
     "login": "andresdelarosa1887",
     "name": "Andres de la Rosa",
     "avatarUrl": "https://avatars.githubusercontent.com/u/39396381?s=72&u=1cdb090b29c9c04522e6e0398c0ab5addfcdeb62&v=4",
@@ -23719,7 +23707,7 @@
     "company": "",
     "twitterUsername": "andresdelarb",
     "followers": 1,
-    "privateContributions": 268,
+    "privateContributions": 301,
     "publicContributions": 0,
     "createdAt": "2018-05-18T04:25:23Z"
   },
@@ -23732,7 +23720,7 @@
     "twitterUsername": "cmarte2408",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 8,
     "createdAt": "2018-02-17T03:18:15Z"
   },
   {

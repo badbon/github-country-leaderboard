@@ -23359,8 +23359,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 90,
-    "publicContributions": 31,
+    "privateContributions": 81,
+    "publicContributions": 24,
     "createdAt": "2019-11-02T17:44:07Z"
   },
   {
@@ -23394,9 +23394,9 @@
     "location": "Vilnius",
     "company": "",
     "twitterUsername": "",
-    "followers": 48,
-    "privateContributions": 7,
-    "publicContributions": 356,
+    "followers": 50,
+    "privateContributions": 10,
+    "publicContributions": 377,
     "createdAt": "2019-06-18T10:39:25Z"
   },
   {
@@ -23408,20 +23408,8 @@
     "twitterUsername": "",
     "followers": 38,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 16,
     "createdAt": "2019-07-22T19:11:30Z"
-  },
-  {
-    "login": "keizah7",
-    "name": "Artūras",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/49227202?s=72&u=1adf687b28b13cc15622e6a96e365ac8f32ea426&v=4",
-    "location": "Vilnius",
-    "company": "",
-    "twitterUsername": "7rturas",
-    "followers": 25,
-    "privateContributions": 412,
-    "publicContributions": 0,
-    "createdAt": "2019-04-03T07:16:24Z"
   },
   {
     "login": "Hamza-Nasir",
@@ -23430,8 +23418,8 @@
     "location": "Vilnius",
     "company": "",
     "twitterUsername": "",
-    "followers": 21,
-    "privateContributions": 2658,
+    "followers": 23,
+    "privateContributions": 2201,
     "publicContributions": 7,
     "createdAt": "2019-12-14T07:47:45Z"
   },
@@ -23442,9 +23430,9 @@
     "location": "Vilnius",
     "company": "",
     "twitterUsername": "",
-    "followers": 19,
-    "privateContributions": 51,
-    "publicContributions": 44,
+    "followers": 20,
+    "privateContributions": 36,
+    "publicContributions": 49,
     "createdAt": "2019-12-03T08:11:52Z"
   },
   {
@@ -23454,9 +23442,9 @@
     "location": "Vilnius",
     "company": "Turing College",
     "twitterUsername": "",
-    "followers": 16,
-    "privateContributions": 148,
-    "publicContributions": 293,
+    "followers": 26,
+    "privateContributions": 1349,
+    "publicContributions": 443,
     "createdAt": "2019-09-09T09:33:44Z"
   },
   {
@@ -23467,7 +23455,7 @@
     "company": "migrating from Bitbucket to Github",
     "twitterUsername": "",
     "followers": 16,
-    "privateContributions": 445,
+    "privateContributions": 367,
     "publicContributions": 0,
     "createdAt": "2019-11-07T22:40:03Z"
   },
@@ -23478,9 +23466,9 @@
     "location": "Vilnius",
     "company": "Warsaw University of Life Sciences",
     "twitterUsername": "",
-    "followers": 15,
+    "followers": 17,
     "privateContributions": 0,
-    "publicContributions": 141,
+    "publicContributions": 126,
     "createdAt": "2019-04-08T12:12:55Z"
   },
   {
@@ -23503,8 +23491,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 1337,
-    "publicContributions": 595,
+    "privateContributions": 1589,
+    "publicContributions": 499,
     "createdAt": "2019-08-22T08:44:44Z"
   },
   {
@@ -23515,7 +23503,7 @@
     "company": "Vinted",
     "twitterUsername": "RKlimovas",
     "followers": 10,
-    "privateContributions": 1533,
+    "privateContributions": 2939,
     "publicContributions": 0,
     "createdAt": "2019-03-11T12:36:42Z"
   },
@@ -23539,7 +23527,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 21,
+    "privateContributions": 19,
     "publicContributions": 0,
     "createdAt": "2019-03-28T11:59:48Z"
   },
@@ -23550,9 +23538,9 @@
     "location": "Vilnius, Lietuva",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 122,
-    "publicContributions": 21,
+    "followers": 10,
+    "privateContributions": 166,
+    "publicContributions": 78,
     "createdAt": "2019-02-26T12:44:26Z"
   },
   {
@@ -23563,8 +23551,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 235,
-    "publicContributions": 157,
+    "privateContributions": 322,
+    "publicContributions": 163,
     "createdAt": "2019-02-14T10:10:56Z"
   },
   {
@@ -23575,8 +23563,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 12,
-    "publicContributions": 909,
+    "privateContributions": 708,
+    "publicContributions": 2632,
     "createdAt": "2019-12-13T11:22:46Z"
   },
   {
@@ -23587,8 +23575,8 @@
     "company": "",
     "twitterUsername": "SergejMickevic",
     "followers": 7,
-    "privateContributions": 78,
-    "publicContributions": 7,
+    "privateContributions": 110,
+    "publicContributions": 8,
     "createdAt": "2019-10-17T12:33:06Z"
   },
   {
