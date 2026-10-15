@@ -21740,7 +21740,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 9,
     "createdAt": "2013-04-25T06:29:45Z"
   },
   {
@@ -21764,7 +21764,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 17,
     "createdAt": "2013-12-10T11:10:06Z"
   },
   {
@@ -21776,7 +21776,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 31,
     "createdAt": "2013-09-26T13:48:53Z"
   },
   {
@@ -21800,7 +21800,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 18,
     "createdAt": "2013-01-23T21:33:34Z"
   },
   {
@@ -21823,8 +21823,8 @@
     "company": "MxTechnologies",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1460,
-    "publicContributions": 54,
+    "privateContributions": 2449,
+    "publicContributions": 55,
     "createdAt": "2013-02-27T08:00:05Z"
   },
   {
@@ -21877,14 +21877,14 @@
   },
   {
     "login": "adjabaev",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/3873380?s=72&u=571cac31970a1c5e3415983cb16abef664a07225&v=4",
+    "name": "Arby Djabaev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3873380?s=72&u=00e2aaa9605d5099d61086bcc364c890d0b72825&v=4",
     "location": "Luxembourg",
     "company": "",
-    "twitterUsername": "",
+    "twitterUsername": "arbydjabaev",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 14,
     "createdAt": "2013-03-15T09:49:35Z"
   },
   {
@@ -21907,7 +21907,7 @@
     "company": "Hydrosat",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 25,
+    "privateContributions": 41,
     "publicContributions": 0,
     "createdAt": "2013-12-29T00:58:19Z"
   },
@@ -21932,7 +21932,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 12,
     "createdAt": "2013-07-21T19:24:19Z"
   },
   {
