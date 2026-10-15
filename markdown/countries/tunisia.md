@@ -54,9 +54,9 @@ Indexed users: 7,181
 | 15 | [Asembris](https://github.com/Asembris) | Mohamed Aziz Ayari | Tunisia | 2,710 |
 | 16 | [marwndev](https://github.com/marwndev) | Marwan Aouida | Zarzis/Tunisia | 2,676 |
 | 17 | [akramBNA](https://github.com/akramBNA) | Akram | Tunisia | 2,438 |
-| 18 | [Hiviexd](https://github.com/Hiviexd) | Hivie | Tunisia | 2,312 |
-| 19 | [17med](https://github.com/17med) | ahmed achour | tunis | 2,281 |
-| 20 | [DeMiro5001](https://github.com/DeMiro5001) | DeMiro5001 | Tunisia | 2,258 |
+| 18 | [aliammari1](https://github.com/aliammari1) | Ali Ammari | Tunisia | 2,370 |
+| 19 | [Hiviexd](https://github.com/Hiviexd) | Hivie | Tunisia | 2,312 |
+| 20 | [17med](https://github.com/17med) | ahmed achour | tunis | 2,281 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 7,181
 | 19 | [zied-snoussi](https://github.com/zied-snoussi) | Zied Snoussi | Tunisia | 522 |
 | 20 | [machour](https://github.com/machour) | Mehdi Achour | Tunisia | 483 |
 
-Generated: 2026-10-15T18:46:02.846Z
+Generated: 2026-10-15T20:06:59.339Z

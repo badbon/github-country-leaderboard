@@ -1,8 +1,8 @@
 # Total Contributions - Sweden
 
-Generated: 2026-10-15T18:43:10.623Z
+Generated: 2026-10-15T20:04:14.373Z
 
-Users: 39041
+Users: 39040
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

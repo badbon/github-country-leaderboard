@@ -1,6 +1,6 @@
 # Public Contributions - Brunei
 
-Generated: 2026-10-15T19:04:08.801Z
+Generated: 2026-10-15T20:24:19.090Z
 
 Users: 254
 
@@ -9,7 +9,7 @@ Users: 254
 | 1 | [aresople](https://github.com/aresople) | Aresa Naif | Developer |  | Brunei | 5684 |
 | 2 | [SatriaSuriaAriffin](https://github.com/SatriaSuriaAriffin) | Satria Suria | Deltice Technology |  | Brunei | 569 |
 | 3 | [Qoyyuum](https://github.com/Qoyyuum) | Abdul Qoyyuum |  | Qoyyuum | Brunei Darussalam | 398 |
-| 4 | [bumplzz69](https://github.com/bumplzz69) | Eddie |  |  | Brunei | 343 |
+| 4 | [bumplzz69](https://github.com/bumplzz69) | Eddie |  |  | Brunei | 342 |
 | 5 | [danialothman](https://github.com/danialothman) | Danial Othman |  |  | Brunei Darussalam | 235 |
 | 6 | [naqiuddinihsan](https://github.com/naqiuddinihsan) | Ihsan |  |  | Brunei | 148 |
 | 7 | [thewheat](https://github.com/thewheat) | Timothy Lim | @supabase |  | Brunei | 117 |
@@ -18,7 +18,7 @@ Users: 254
 | 10 | [Zylioth](https://github.com/Zylioth) | Muhammad Amir Sabrin bin Mohamad Ali | Brunei University of Technology |  | Brunei | 108 |
 | 11 | [PenguinMiaou](https://github.com/PenguinMiaou) | PenguinMiaou |  |  | Brunei Darussalam | 103 |
 | 12 | [wafeeyhm](https://github.com/wafeeyhm) | Wafeey HM |  |  | Brunei Darussalam | 101 |
-| 13 | [amirulmenjeni](https://github.com/amirulmenjeni) | Amirul Menjeni | Brunei Shell Petroleum |  | Brunei Darussalam | 84 |
+| 13 | [amirulmenjeni](https://github.com/amirulmenjeni) | Amirul Menjeni | Brunei Shell Petroleum |  | Brunei Darussalam | 94 |
 | 14 | [jailanihar](https://github.com/jailanihar) | Jailani Abdul Rahman |  |  | Brunei Darussalam | 73 |
 | 15 | [nathanielcwm](https://github.com/nathanielcwm) | Nathaniel |  |  | Brunei | 71 |
 | 16 | [hfzizz](https://github.com/hfzizz) | Hafiz Izzuddin |  |  | Brunei | 65 |

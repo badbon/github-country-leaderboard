@@ -15,7 +15,7 @@ Indexed users: 133
 | 1 | [hammertoe](https://github.com/hammertoe) | Matt Hamilton | Barbados | 5,443 |
 | 2 | [jasonals](https://github.com/jasonals) | Jason Als | Barbados | 5,338 |
 | 3 | [bajedev](https://github.com/bajedev) | Theo Taylor | Barbados | 4,215 |
-| 4 | [d-alleyne](https://github.com/d-alleyne) | Damien Alleyne | Barbados | 3,212 |
+| 4 | [d-alleyne](https://github.com/d-alleyne) | Damien Alleyne | Barbados | 3,216 |
 | 5 | [paulmiu](https://github.com/paulmiu) | Paul Miu | Barbados | 2,860 |
 | 6 | [shaquillehinds](https://github.com/shaquillehinds) | Shaquille Hinds | Barbados | 2,722 |
 | 7 | [alexlilburn](https://github.com/alexlilburn) | Alex Lilburn | Barbados | 1,863 |
@@ -83,4 +83,4 @@ Indexed users: 133
 | 19 | [sramharack](https://github.com/sramharack) | Shankar Ramharack | St. Phillips, Barbados, W.I. | 12 |
 | 20 | [paulamelrz](https://github.com/paulamelrz) | Paula Melero | Barbados | 11 |
 
-Generated: 2026-10-15T19:00:24.382Z
+Generated: 2026-10-15T20:20:36.928Z

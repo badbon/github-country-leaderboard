@@ -1,6 +1,6 @@
 # Turkey
 
-Indexed users: 79,191
+Indexed users: 79,190
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 79,191
 | 19 | [buger](https://github.com/buger) | Leonid Bugaev | Istanbul | 3,587 |
 | 20 | [ardaltunel](https://github.com/ardaltunel) | Arda Altunel | İstanbul/Turkey | 3,517 |
 
-Generated: 2026-10-15T19:26:25.545Z
+Generated: 2026-10-15T20:07:38.189Z

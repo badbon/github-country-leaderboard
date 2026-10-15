@@ -46,7 +46,7 @@ Indexed users: 1,799
 | 7 | [ln-dev7](https://github.com/ln-dev7) | LN | Cameroon | 2,062 |
 | 8 | [Chu29](https://github.com/Chu29) | Malik Chu | Yaounde, Cameroon | 1,892 |
 | 9 | [mrvin100](https://github.com/mrvin100) | Vincent Youmssi | Yaoundé - Cameroon | 1,859 |
-| 10 | [Kynmmarshall](https://github.com/Kynmmarshall) | Kamdeu Yamdjeuson Neil Marshall | Cameroon | 1,824 |
+| 10 | [Kynmmarshall](https://github.com/Kynmmarshall) | Kamdeu Yamdjeuson Neil Marshall | Cameroon | 1,832 |
 | 11 | [freddychoudja](https://github.com/freddychoudja) | Freddy Choudja | Cameroon | 1,809 |
 | 12 | [Kanjo-Elkamira-Ndi](https://github.com/Kanjo-Elkamira-Ndi) | Alchemy Codes | Yaoundé Cameroon | 1,715 |
 | 13 | [Josiasange37](https://github.com/Josiasange37) | AKANA SIGNING JOSIAS AARON | Cameroon | 1,635 |
@@ -83,4 +83,4 @@ Indexed users: 1,799
 | 19 | [baimamboukar](https://github.com/baimamboukar) | BAIMAM BOUKAR JEAN JACQUES | Yaoundé | 170 |
 | 20 | [Suprememajor](https://github.com/Suprememajor) | Nobert Etta | Buea, Cameroon | 170 |
 
-Generated: 2026-10-15T19:06:00.347Z
+Generated: 2026-10-15T20:26:14.872Z

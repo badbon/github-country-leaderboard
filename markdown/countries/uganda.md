@@ -15,22 +15,22 @@ Indexed users: 3,872
 | 1 | [alsong](https://github.com/alsong) | Oburusule Dunstan | Kampala, Uganda | 13,712 |
 | 2 | [BAGOMBEKA-JOB-DEV](https://github.com/BAGOMBEKA-JOB-DEV) | BAGOMBEKA JOB | KAMPALA, UGANDA | 11,947 |
 | 3 | [obalaweb](https://github.com/obalaweb) | Obala Joseph Ivan | Gulu, Uganda | 11,691 |
-| 4 | [peterbamuhigire](https://github.com/peterbamuhigire) | Peter Bamuhigire | Kampala, Uganda | 10,913 |
-| 5 | [kallyas](https://github.com/kallyas) | Iden | Uganda | 10,474 |
-| 6 | [kashua14](https://github.com/kashua14) | Kasasira Joshua | Kampala, Uganda | 9,986 |
-| 7 | [ziyalogy](https://github.com/ziyalogy) | Ziyal Amanya | Uganda | 9,934 |
-| 8 | [MUKE-coder](https://github.com/MUKE-coder) | MUKE JOHNBAPTIST | KAMPALA -UGANDA | 9,513 |
-| 9 | [GenoJ83](https://github.com/GenoJ83) | Geno Joshua | Kampala | 9,133 |
-| 10 | [baliddeki](https://github.com/baliddeki) | Aliddeki Mulindwa Bryan | Kampala, Uganda | 9,028 |
-| 11 | [Mugamba669](https://github.com/Mugamba669) | Mugamba669 | Kampala, Uganda | 7,995 |
-| 12 | [KansiimeKenie](https://github.com/KansiimeKenie) | Kansiime Keneth | kampala, Ug | 7,957 |
-| 13 | [GaspardKirira](https://github.com/GaspardKirira) | G-kirira | Africa / Uganda / Kampala | 7,825 |
-| 14 | [baliksjosay](https://github.com/baliksjosay) | Joseph Balikuddembe | Kampala, uganda | 7,753 |
-| 15 | [judeotine](https://github.com/judeotine) | Judeotine | Uganda | 7,440 |
-| 16 | [cosmah](https://github.com/cosmah) | cosmah | kampala, Uganda | 7,177 |
-| 17 | [BrianPollar](https://github.com/BrianPollar) | Pollar Brian Okello | Kampala, Uganda | 6,811 |
-| 18 | [matovu-farid](https://github.com/matovu-farid) | Farid Matovu | Uganda | 6,805 |
-| 19 | [pius22](https://github.com/pius22) | TECH-WORLDINFO | uganda | 6,709 |
+| 4 | [pius22](https://github.com/pius22) | TECH-WORLDINFO | uganda | 11,416 |
+| 5 | [peterbamuhigire](https://github.com/peterbamuhigire) | Peter Bamuhigire | Kampala, Uganda | 10,913 |
+| 6 | [kallyas](https://github.com/kallyas) | Iden | Uganda | 10,474 |
+| 7 | [kashua14](https://github.com/kashua14) | Kasasira Joshua | Kampala, Uganda | 9,986 |
+| 8 | [ziyalogy](https://github.com/ziyalogy) | Ziyal Amanya | Uganda | 9,934 |
+| 9 | [MUKE-coder](https://github.com/MUKE-coder) | MUKE JOHNBAPTIST | KAMPALA -UGANDA | 9,513 |
+| 10 | [GenoJ83](https://github.com/GenoJ83) | Geno Joshua | Kampala | 9,133 |
+| 11 | [baliddeki](https://github.com/baliddeki) | Aliddeki Mulindwa Bryan | Kampala, Uganda | 9,028 |
+| 12 | [Mugamba669](https://github.com/Mugamba669) | Mugamba669 | Kampala, Uganda | 7,995 |
+| 13 | [KansiimeKenie](https://github.com/KansiimeKenie) | Kansiime Keneth | kampala, Ug | 7,957 |
+| 14 | [GaspardKirira](https://github.com/GaspardKirira) | G-kirira | Africa / Uganda / Kampala | 7,825 |
+| 15 | [baliksjosay](https://github.com/baliksjosay) | Joseph Balikuddembe | Kampala, uganda | 7,753 |
+| 16 | [judeotine](https://github.com/judeotine) | Judeotine | Uganda | 7,440 |
+| 17 | [cosmah](https://github.com/cosmah) | cosmah | kampala, Uganda | 7,177 |
+| 18 | [BrianPollar](https://github.com/BrianPollar) | Pollar Brian Okello | Kampala, Uganda | 6,811 |
+| 19 | [matovu-farid](https://github.com/matovu-farid) | Farid Matovu | Uganda | 6,805 |
 | 20 | [Bravos-hub](https://github.com/Bravos-hub) | BRAVE OLIMI | Bugema  Kampala-Uganda | 6,657 |
 
 ## Public Contributions
@@ -39,24 +39,24 @@ Indexed users: 3,872
 |---:|---|---|---|---:|
 | 1 | [GaspardKirira](https://github.com/GaspardKirira) | G-kirira | Africa / Uganda / Kampala | 7,825 |
 | 2 | [matovu-farid](https://github.com/matovu-farid) | Farid Matovu | Uganda | 5,929 |
-| 3 | [pius22](https://github.com/pius22) | TECH-WORLDINFO | uganda | 5,725 |
-| 4 | [Baalmart](https://github.com/Baalmart) | Martin Bbaale | Kampala | 5,695 |
-| 5 | [BAGOMBEKA-JOB-DEV](https://github.com/BAGOMBEKA-JOB-DEV) | BAGOMBEKA JOB | KAMPALA, UGANDA | 4,890 |
-| 6 | [agabaandre](https://github.com/agabaandre) | Agaba Andre | Kampala | 3,882 |
-| 7 | [Mucunguzi256](https://github.com/Mucunguzi256) | Mucunguzi Moses | UGANDA | 3,545 |
-| 8 | [MUKE-coder](https://github.com/MUKE-coder) | MUKE JOHNBAPTIST | KAMPALA -UGANDA | 3,131 |
-| 9 | [judeotine](https://github.com/judeotine) | Judeotine | Uganda | 2,829 |
-| 10 | [devcoda25](https://github.com/devcoda25) | turyomwe. derrick | kampala | 2,789 |
-| 11 | [OchiengPaul442](https://github.com/OchiengPaul442) | Paul Ochieng Levi | Uganda | 2,748 |
-| 12 | [Marcelofury](https://github.com/Marcelofury) | BUTERA MARCEL | Kampala,Uganda | 2,600 |
-| 13 | [afuchat1](https://github.com/afuchat1) | afuchat | Uganda | 2,539 |
-| 14 | [peterbamuhigire](https://github.com/peterbamuhigire) | Peter Bamuhigire | Kampala, Uganda | 2,422 |
-| 15 | [Chemistry2i](https://github.com/Chemistry2i) | WAMBOGO  HASSAN SADAT | Kampala Uganda | 2,001 |
-| 16 | [gwaiffemark001](https://github.com/gwaiffemark001) | Gwaiffe Mark | Kampala,Uganda | 1,986 |
-| 17 | [herberthk](https://github.com/herberthk) | Kavuma Herbert | Kampala | 1,958 |
-| 18 | [danielmarv](https://github.com/danielmarv) | Daniel Ntege | Kampala | 1,947 |
-| 19 | [Joshkovu](https://github.com/Joshkovu) | Kuteesa Joash | uganda  | 1,933 |
-| 20 | [Codebmk](https://github.com/Codebmk) | Belinda Marion Kobusingye | Kampala, Uganda | 1,904 |
+| 3 | [Baalmart](https://github.com/Baalmart) | Martin Bbaale | Kampala | 5,695 |
+| 4 | [BAGOMBEKA-JOB-DEV](https://github.com/BAGOMBEKA-JOB-DEV) | BAGOMBEKA JOB | KAMPALA, UGANDA | 4,890 |
+| 5 | [agabaandre](https://github.com/agabaandre) | Agaba Andre | Kampala | 3,882 |
+| 6 | [Mucunguzi256](https://github.com/Mucunguzi256) | Mucunguzi Moses | UGANDA | 3,545 |
+| 7 | [MUKE-coder](https://github.com/MUKE-coder) | MUKE JOHNBAPTIST | KAMPALA -UGANDA | 3,131 |
+| 8 | [judeotine](https://github.com/judeotine) | Judeotine | Uganda | 2,829 |
+| 9 | [devcoda25](https://github.com/devcoda25) | turyomwe. derrick | kampala | 2,789 |
+| 10 | [OchiengPaul442](https://github.com/OchiengPaul442) | Paul Ochieng Levi | Uganda | 2,748 |
+| 11 | [Marcelofury](https://github.com/Marcelofury) | BUTERA MARCEL | Kampala,Uganda | 2,600 |
+| 12 | [afuchat1](https://github.com/afuchat1) | afuchat | Uganda | 2,539 |
+| 13 | [peterbamuhigire](https://github.com/peterbamuhigire) | Peter Bamuhigire | Kampala, Uganda | 2,422 |
+| 14 | [Chemistry2i](https://github.com/Chemistry2i) | WAMBOGO  HASSAN SADAT | Kampala Uganda | 2,001 |
+| 15 | [gwaiffemark001](https://github.com/gwaiffemark001) | Gwaiffe Mark | Kampala,Uganda | 1,986 |
+| 16 | [herberthk](https://github.com/herberthk) | Kavuma Herbert | Kampala | 1,958 |
+| 17 | [danielmarv](https://github.com/danielmarv) | Daniel Ntege | Kampala | 1,947 |
+| 18 | [Joshkovu](https://github.com/Joshkovu) | Kuteesa Joash | uganda  | 1,933 |
+| 19 | [Codebmk](https://github.com/Codebmk) | Belinda Marion Kobusingye | Kampala, Uganda | 1,904 |
+| 20 | [Vaniahchristian](https://github.com/Vaniahchristian) | Vaniah Christian | Kampala Uganda  | 1,864 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 3,872
 | 19 | [Kitemaggwa-Shafic](https://github.com/Kitemaggwa-Shafic) | Bin Profic | Kampala mengo, Najjanankumbi Ebb rd | 198 |
 | 20 | [kallyas](https://github.com/kallyas) | Iden | Uganda | 190 |
 
-Generated: 2026-10-15T18:48:20.926Z
+Generated: 2026-10-15T20:09:28.276Z

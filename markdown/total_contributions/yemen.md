@@ -1,6 +1,6 @@
 # Total Contributions - Yemen
 
-Generated: 2026-10-15T18:52:46.437Z
+Generated: 2026-10-15T20:13:21.550Z
 
 Users: 1206
 
@@ -23,6 +23,6 @@ Users: 1206
 | 15 | [tarasana-mufadhala](https://github.com/tarasana-mufadhala) | Mokhtar Hussein Abdulwahab Alsorori | University of Saba Region  |  | Yemen  | 7227 |
 | 16 | [AhmedSalehGhaithan](https://github.com/AhmedSalehGhaithan) | Ahmed ghaithan | DataTrans |  | Yemen ,sanaa | 6842 |
 | 17 | [EngAzzamZaid](https://github.com/EngAzzamZaid) | Eng Azzam Alsharie  | @KitSysCo  |  | Yemen | 6780 |
-| 18 | [mr3od](https://github.com/mr3od) | Abdulrahman | @nexumind-com  |  | Yemen | 6412 |
-| 19 | [abdulsalam-alhammadi](https://github.com/abdulsalam-alhammadi) | Abdulsalam AL-Hammadi | @Azora POS,@Yemen Waseet inc. | hammadi_salamy | Yemen ,Sanaa - Hadda Street | 6361 |
+| 18 | [mr3od](https://github.com/mr3od) | Abdulrahman | @nexumind-com  |  | Yemen | 6679 |
+| 19 | [abdulsalam-alhammadi](https://github.com/abdulsalam-alhammadi) | Abdulsalam AL-Hammadi | @Azora POS,@Yemen Waseet inc. | hammadi_salamy | Yemen ,Sanaa - Hadda Street | 6225 |
 | 20 | [yousef-aman](https://github.com/yousef-aman) | Yousef Aman |  | YousefAmanDev | Yemen | 6134 |

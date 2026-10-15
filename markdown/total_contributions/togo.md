@@ -1,17 +1,17 @@
 # Total Contributions - Togo
 
-Generated: 2026-10-15T18:44:44.938Z
+Generated: 2026-10-15T20:05:43.971Z
 
 Users: 679
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [gausoft](https://github.com/gausoft) | Gauthier Eholoum | Remote | gausoft_ | Lomé, Togo | 13175 |
-| 2 | [woueziou](https://github.com/woueziou) | Taas S. Ekpaye | @strantsolutions @BBLY-ANALYTICS-LLC  |  | Lomé | 12167 |
+| 1 | [woueziou](https://github.com/woueziou) | Taas S. Ekpaye | @strantsolutions @BBLY-ANALYTICS-LLC  |  | Lomé | 13421 |
+| 2 | [gausoft](https://github.com/gausoft) | Gauthier Eholoum | Remote | gausoft_ | Lomé, Togo | 13374 |
 | 3 | [omarfarouk228](https://github.com/omarfarouk228) | Omar farouk KOUGBADA | KOF CORPORATION | OKougbada | Togo | 10913 |
 | 4 | [MaximeKELI](https://github.com/MaximeKELI) | Maxime KELI | ALL-CODERS |  | Lome,TOGO | 9425 |
 | 5 | [kodesonik](https://github.com/kodesonik) | AMADOU AROUNA |  |  | Togo | 8720 |
-| 6 | [hermannleboss](https://github.com/hermannleboss) | Hermann EHO | W3 Frame | hermanneho | Lomé TOGO | 8145 |
+| 6 | [hermannleboss](https://github.com/hermannleboss) | Hermann EHO | W3 Frame | hermanneho | Lomé TOGO | 8166 |
 | 7 | [GTW503](https://github.com/GTW503) | MEK |  |  | Togo | 8052 |
 | 8 | [DATAGNIKAN](https://github.com/DATAGNIKAN) | DATAGNI K. Armand Noël |  | DATAGNIKAN | Togo, Lomé | 6408 |
 | 9 | [jeanclaudesoft](https://github.com/jeanclaudesoft) | Claudy | Coders For Togo | JeanKonou | Togo | 5892 |

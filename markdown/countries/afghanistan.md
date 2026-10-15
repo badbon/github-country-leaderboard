@@ -27,7 +27,7 @@ Indexed users: 1,487
 | 13 | [ShoaibNaseri](https://github.com/ShoaibNaseri) | Shoaib Naseri | Afghanistan | 6,157 |
 | 14 | [WiyarAhmadZai](https://github.com/WiyarAhmadZai) | Muhammad Hakeem Wiyar | Kabul khoshal khan | 6,063 |
 | 15 | [shahghasiadil](https://github.com/shahghasiadil) | Shahghasi Adil | Afghanistan | 5,753 |
-| 16 | [shafaqatullah](https://github.com/shafaqatullah) | shafaqatullah zaheer | Kabul, Afghanistan | 5,737 |
+| 16 | [shafaqatullah](https://github.com/shafaqatullah) | shafaqatullah zaheer | Kabul, Afghanistan | 5,743 |
 | 17 | [ahmadjoya](https://github.com/ahmadjoya) | Ahmad Joya | Afghanistan | 5,201 |
 | 18 | [azizpgl](https://github.com/azizpgl) | Aziz Nabizada | Kabul, Afghanistan | 5,136 |
 | 19 | [basirkhan1995](https://github.com/basirkhan1995) | Basir Hashimi | Afghanistan | 4,857 |
@@ -83,4 +83,4 @@ Indexed users: 1,487
 | 19 | [zainabturkmen](https://github.com/zainabturkmen) | Zainab Turkmen | Kabul  | 125 |
 | 20 | [NaveedAhmadHematmal](https://github.com/NaveedAhmadHematmal) | Naveed Ahmad Hematmal | Afghanistan | 117 |
 
-Generated: 2026-10-15T18:53:05.105Z
+Generated: 2026-10-15T20:14:44.856Z

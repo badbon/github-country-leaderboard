@@ -14,24 +14,24 @@ Indexed users: 18,394
 |---:|---|---|---|---:|
 | 1 | [HyawiiGithub](https://github.com/HyawiiGithub) | Hyawii Hyawii | Belgium | 43,084 |
 | 2 | [mrtus](https://github.com/mrtus) | Michiel Devriese | Belgium | 38,107 |
-| 3 | [welle](https://github.com/welle) | Welle Charlotte | Belgium | 29,673 |
-| 4 | [Laurens-Nys](https://github.com/Laurens-Nys) | Laurens Nys | Belgium | 27,346 |
-| 5 | [KenziDeSmet](https://github.com/KenziDeSmet) | Kenzi De Smet | Waregem, Belgium | 24,124 |
-| 6 | [phmatray](https://github.com/phmatray) | Philippe Matray | Belgium | 22,954 |
-| 7 | [huaxel](https://github.com/huaxel) | Juan Benjumea | Brussels | 19,875 |
-| 8 | [tetiana-ai](https://github.com/tetiana-ai) | Tetiana Stepanets | Brussels  | 19,428 |
-| 9 | [sujithq](https://github.com/sujithq) | Sujith Quintelier | Belgium | 19,233 |
-| 10 | [bmichotte](https://github.com/bmichotte) | Benjamin Michotte | Liège, Belgium | 17,056 |
-| 11 | [brtdv](https://github.com/brtdv) | Bert Devriese | Ghent x Bruges, Belgium | 15,360 |
-| 12 | [wouterds](https://github.com/wouterds) | Wouter | Ghent, Belgium | 14,883 |
-| 13 | [sigmadeltasoftware](https://github.com/sigmadeltasoftware) | Bojan Belic | Belgium | 14,464 |
-| 14 | [semaidi](https://github.com/semaidi) | Didier | Brussels | 14,348 |
-| 15 | [jleclanche](https://github.com/jleclanche) | Jerome Leclanche | Brussels, Belgium | 13,265 |
-| 16 | [kwevers](https://github.com/kwevers) | Kristof Wevers | Belgium | 12,662 |
-| 17 | [willem-delbare](https://github.com/willem-delbare) |  | Belgium | 12,607 |
-| 18 | [gjbex](https://github.com/gjbex) | Geert Jan Bex | Hasselt, Belgium | 12,568 |
-| 19 | [obax](https://github.com/obax) | Olivier | London / Brussels  | 12,516 |
-| 20 | [pieterclaerhout](https://github.com/pieterclaerhout) | Pieter Claerhout | Beernem, Belgium | 12,268 |
+| 3 | [VulcanoSoftware](https://github.com/VulcanoSoftware) | VulcanoSoftware | Belgium | 31,930 |
+| 4 | [welle](https://github.com/welle) | Welle Charlotte | Belgium | 29,673 |
+| 5 | [Laurens-Nys](https://github.com/Laurens-Nys) | Laurens Nys | Belgium | 27,346 |
+| 6 | [KenziDeSmet](https://github.com/KenziDeSmet) | Kenzi De Smet | Waregem, Belgium | 24,124 |
+| 7 | [phmatray](https://github.com/phmatray) | Philippe Matray | Belgium | 22,954 |
+| 8 | [huaxel](https://github.com/huaxel) | Juan Benjumea | Brussels | 19,875 |
+| 9 | [tetiana-ai](https://github.com/tetiana-ai) | Tetiana Stepanets | Brussels  | 19,428 |
+| 10 | [sujithq](https://github.com/sujithq) | Sujith Quintelier | Belgium | 19,233 |
+| 11 | [bmichotte](https://github.com/bmichotte) | Benjamin Michotte | Liège, Belgium | 17,056 |
+| 12 | [brtdv](https://github.com/brtdv) | Bert Devriese | Ghent x Bruges, Belgium | 15,360 |
+| 13 | [wouterds](https://github.com/wouterds) | Wouter | Ghent, Belgium | 14,883 |
+| 14 | [sigmadeltasoftware](https://github.com/sigmadeltasoftware) | Bojan Belic | Belgium | 14,464 |
+| 15 | [semaidi](https://github.com/semaidi) | Didier | Brussels | 14,348 |
+| 16 | [jleclanche](https://github.com/jleclanche) | Jerome Leclanche | Brussels, Belgium | 13,265 |
+| 17 | [kwevers](https://github.com/kwevers) | Kristof Wevers | Belgium | 12,662 |
+| 18 | [willem-delbare](https://github.com/willem-delbare) |  | Belgium | 12,607 |
+| 19 | [gjbex](https://github.com/gjbex) | Geert Jan Bex | Hasselt, Belgium | 12,568 |
+| 20 | [obax](https://github.com/obax) | Olivier | London / Brussels  | 12,516 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 18,394
 | 19 | [erikdubois](https://github.com/erikdubois) | Erik Dubois | Belgium | 1,200 |
 | 20 | [hazexone](https://github.com/hazexone) | Haze | Brussels | 1,181 |
 
-Generated: 2026-10-15T19:01:38.512Z
+Generated: 2026-10-15T20:21:21.738Z

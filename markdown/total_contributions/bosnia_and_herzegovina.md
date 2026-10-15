@@ -1,6 +1,6 @@
 # Total Contributions - Bosnia and Herzegovina
 
-Generated: 2026-10-15T19:03:16.330Z
+Generated: 2026-10-15T20:22:53.472Z
 
 Users: 2128
 
@@ -15,10 +15,10 @@ Users: 2128
 | 7 | [ribice](https://github.com/ribice) | Emir Ribić | @caseconnect-ai |  | Sarajevo | 6627 |
 | 8 | [NedimKuj](https://github.com/NedimKuj) | Nedim Kujrakovic | @Indevico | nedkuj | Sarajevo | 6466 |
 | 9 | [JovanJevtic](https://github.com/JovanJevtic) | Jovan Jevtic |  | OvoJovanovo | Banjaluka, Bosnia and Herzegovina | 6310 |
-| 10 | [sanilmusic](https://github.com/sanilmusic) | Sanil Musić |  |  | Sarajevo | 6184 |
-| 11 | [JokerHin](https://github.com/JokerHin) | Cho Kar Hin | student |  | Bosnia and Herzegovina | 5896 |
-| 12 | [agobeljic1](https://github.com/agobeljic1) | Adnan Gobeljic |  |  | Sarajevo | 5816 |
-| 13 | [vascabarkapa](https://github.com/vascabarkapa) | Vasilije Čabarkapa |  |  | East Sarajevo, Bosnia and Herzegovina | 5769 |
+| 10 | [JokerHin](https://github.com/JokerHin) | Cho Kar Hin | student |  | Bosnia and Herzegovina | 5896 |
+| 11 | [agobeljic1](https://github.com/agobeljic1) | Adnan Gobeljic |  |  | Sarajevo | 5816 |
+| 12 | [vascabarkapa](https://github.com/vascabarkapa) | Vasilije Čabarkapa |  |  | East Sarajevo, Bosnia and Herzegovina | 5769 |
+| 13 | [sanilmusic](https://github.com/sanilmusic) | Sanil Musić |  |  | Sarajevo | 5737 |
 | 14 | [TarikVelic](https://github.com/TarikVelic) | Tarik Velic |  |  | Sarajevo | 5647 |
 | 15 | [robo58](https://github.com/robo58) | Robert Sliskovic |  |  | Siroki Brijeg,Bosnia and Herzegovina | 5452 |
 | 16 | [aprohic](https://github.com/aprohic) |  |  |  | Sarajevo | 5284 |

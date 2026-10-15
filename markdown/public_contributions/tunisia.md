@@ -1,6 +1,6 @@
 # Public Contributions - Tunisia
 
-Generated: 2026-10-15T18:46:02.846Z
+Generated: 2026-10-15T20:06:59.339Z
 
 Users: 7181
 
@@ -23,6 +23,6 @@ Users: 7181
 | 15 | [Asembris](https://github.com/Asembris) | Mohamed Aziz Ayari |  |  | Tunisia | 2710 |
 | 16 | [marwndev](https://github.com/marwndev) | Marwan Aouida |  |  | Zarzis/Tunisia | 2676 |
 | 17 | [akramBNA](https://github.com/akramBNA) | Akram | Infinitum-tech (formally Marabout Technology) |  | Tunisia | 2438 |
-| 18 | [Hiviexd](https://github.com/Hiviexd) | Hivie | @ppy  |  | Tunisia | 2312 |
-| 19 | [17med](https://github.com/17med) | ahmed achour |  |  | tunis | 2281 |
-| 20 | [DeMiro5001](https://github.com/DeMiro5001) | DeMiro5001 |  |  | Tunisia | 2258 |
+| 18 | [aliammari1](https://github.com/aliammari1) | Ali Ammari |  |  | Tunisia | 2370 |
+| 19 | [Hiviexd](https://github.com/Hiviexd) | Hivie | @ppy  |  | Tunisia | 2312 |
+| 20 | [17med](https://github.com/17med) | ahmed achour |  |  | tunis | 2281 |

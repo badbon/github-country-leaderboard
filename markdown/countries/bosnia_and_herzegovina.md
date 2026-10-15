@@ -21,10 +21,10 @@ Indexed users: 2,128
 | 7 | [ribice](https://github.com/ribice) | Emir Ribić | Sarajevo | 6,627 |
 | 8 | [NedimKuj](https://github.com/NedimKuj) | Nedim Kujrakovic | Sarajevo | 6,466 |
 | 9 | [JovanJevtic](https://github.com/JovanJevtic) | Jovan Jevtic | Banjaluka, Bosnia and Herzegovina | 6,310 |
-| 10 | [sanilmusic](https://github.com/sanilmusic) | Sanil Musić | Sarajevo | 6,184 |
-| 11 | [JokerHin](https://github.com/JokerHin) | Cho Kar Hin | Bosnia and Herzegovina | 5,896 |
-| 12 | [agobeljic1](https://github.com/agobeljic1) | Adnan Gobeljic | Sarajevo | 5,816 |
-| 13 | [vascabarkapa](https://github.com/vascabarkapa) | Vasilije Čabarkapa | East Sarajevo, Bosnia and Herzegovina | 5,769 |
+| 10 | [JokerHin](https://github.com/JokerHin) | Cho Kar Hin | Bosnia and Herzegovina | 5,896 |
+| 11 | [agobeljic1](https://github.com/agobeljic1) | Adnan Gobeljic | Sarajevo | 5,816 |
+| 12 | [vascabarkapa](https://github.com/vascabarkapa) | Vasilije Čabarkapa | East Sarajevo, Bosnia and Herzegovina | 5,769 |
+| 13 | [sanilmusic](https://github.com/sanilmusic) | Sanil Musić | Sarajevo | 5,737 |
 | 14 | [TarikVelic](https://github.com/TarikVelic) | Tarik Velic | Sarajevo | 5,647 |
 | 15 | [robo58](https://github.com/robo58) | Robert Sliskovic | Siroki Brijeg,Bosnia and Herzegovina | 5,452 |
 | 16 | [aprohic](https://github.com/aprohic) |  | Sarajevo | 5,284 |
@@ -76,11 +76,11 @@ Indexed users: 2,128
 | 12 | [Aldin-SXR](https://github.com/Aldin-SXR) | Aldin Kovačević | Sarajevo | 147 |
 | 13 | [vladotesanovic](https://github.com/vladotesanovic) | Vlado Tesanovic | Sarajevo, Earth | 147 |
 | 14 | [almirvuk](https://github.com/almirvuk) | Almir Vuk | Sarajevo, Bosna i Hercegovina | 141 |
-| 15 | [MS-WEB-BN](https://github.com/MS-WEB-BN) |  | Bijeljina, Bosnia and Herzegovina | 133 |
-| 16 | [borisdj](https://github.com/borisdj) | Boris Djurdjevic | Banja Luka, Bosnia and Herzegovina | 130 |
-| 17 | [nenadg](https://github.com/nenadg) | Nenad Golubovic | Banja Luka, Bosnia and Herzegovina | 129 |
+| 15 | [nenadg](https://github.com/nenadg) | Nenad Golubovic | Banja Luka, Bosnia and Herzegovina | 134 |
+| 16 | [MS-WEB-BN](https://github.com/MS-WEB-BN) |  | Bijeljina, Bosnia and Herzegovina | 133 |
+| 17 | [borisdj](https://github.com/borisdj) | Boris Djurdjevic | Banja Luka, Bosnia and Herzegovina | 130 |
 | 18 | [xiprox](https://github.com/xiprox) | İhsan Işık | Sarajevo | 123 |
 | 19 | [Mickey0001](https://github.com/Mickey0001) | Mirza Sisic | Sarajevo, Bosnia and Herzegovina  | 122 |
 | 20 | [sake92](https://github.com/sake92) | Sakib Hadžiavdić | Sarajevo, Bosnia | 118 |
 
-Generated: 2026-10-15T19:03:16.330Z
+Generated: 2026-10-15T20:22:53.472Z

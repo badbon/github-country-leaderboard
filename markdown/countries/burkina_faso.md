@@ -28,9 +28,9 @@ Indexed users: 487
 | 14 | [mibienpanjoe](https://github.com/mibienpanjoe) | PARE Mibienpan Joseph | Burkina Faso | 1,659 |
 | 15 | [BoukaryDiallo](https://github.com/BoukaryDiallo) | Boukary DIALLO | Ouagadougou, Burkina Faso | 1,591 |
 | 16 | [Moussier24](https://github.com/Moussier24) | Moussier Cissé | Burkina Faso | 1,581 |
-| 17 | [donnikurosaki](https://github.com/donnikurosaki) | DARA Dieudonné Goumba | Burkina Faso, Ouagadougou | 1,403 |
-| 18 | [adamako](https://github.com/adamako) | Adama KO | Burkina Faso | 1,378 |
-| 19 | [NICE-DEV226](https://github.com/NICE-DEV226) | Azaël Wend-panga SAWADOGO  | Burkina Faso | 1,303 |
+| 17 | [NICE-DEV226](https://github.com/NICE-DEV226) | Azaël Wend-panga SAWADOGO  | Burkina Faso | 1,577 |
+| 18 | [donnikurosaki](https://github.com/donnikurosaki) | DARA Dieudonné Goumba | Burkina Faso, Ouagadougou | 1,403 |
+| 19 | [adamako](https://github.com/adamako) | Adama KO | Burkina Faso | 1,378 |
 | 20 | [k13lucien](https://github.com/k13lucien) | Lucien Kiemde | Ouagadougou, Burkina Faso | 1,213 |
 
 ## Public Contributions
@@ -54,9 +54,9 @@ Indexed users: 487
 | 15 | [danielschillem](https://github.com/danielschillem) | Daniel Schillem KARAMBIRI | Burkina Faso | 539 |
 | 16 | [k13lucien](https://github.com/k13lucien) | Lucien Kiemde | Ouagadougou, Burkina Faso | 532 |
 | 17 | [Zangafigue](https://github.com/Zangafigue) | Zangafigué Mathias TRAORE | Koudougou, Burkina Faso | 444 |
-| 18 | [rxzkie](https://github.com/rxzkie) |  | Ouagadougou, Burkina Faso | 376 |
-| 19 | [gosse123](https://github.com/gosse123) | Nahounou gosse  | Burkina Faso  | 369 |
-| 20 | [NICE-DEV226](https://github.com/NICE-DEV226) | Azaël Wend-panga SAWADOGO  | Burkina Faso | 368 |
+| 18 | [NICE-DEV226](https://github.com/NICE-DEV226) | Azaël Wend-panga SAWADOGO  | Burkina Faso | 433 |
+| 19 | [rxzkie](https://github.com/rxzkie) |  | Ouagadougou, Burkina Faso | 376 |
+| 20 | [gosse123](https://github.com/gosse123) | Nahounou gosse  | Burkina Faso  | 369 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 487
 | 19 | [sokevinjonas](https://github.com/sokevinjonas) | SO Kevin Jonas Gningnabe | BURKINA FASO | 38 |
 | 20 | [kulturman](https://github.com/kulturman) | Arnaud Bakyono  | Ouagadougou | 37 |
 
-Generated: 2026-10-15T19:05:21.177Z
+Generated: 2026-10-15T20:25:01.716Z

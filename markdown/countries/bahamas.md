@@ -13,8 +13,8 @@ Indexed users: 236
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [carlswann](https://github.com/carlswann) | Carl Swann | Freeport, Bahamas | 23,007 |
-| 2 | [zoejessica](https://github.com/zoejessica) | Zoë Smith | Bahamas / Canada | 3,306 |
-| 3 | [dbraganca](https://github.com/dbraganca) | dbraganca | Bahamas | 3,289 |
+| 2 | [dbraganca](https://github.com/dbraganca) | dbraganca | Bahamas | 3,306 |
+| 3 | [zoejessica](https://github.com/zoejessica) | Zoë Smith | Bahamas / Canada | 3,306 |
 | 4 | [bondjacobbond](https://github.com/bondjacobbond) | Jacob Bond | Casino Royale, Nassau, Bahamas | 3,072 |
 | 5 | [ryaustin](https://github.com/ryaustin) | Ryan | Bahamas | 2,514 |
 | 6 | [yannyhl](https://github.com/yannyhl) | yg | nassau | 2,039 |
@@ -83,4 +83,4 @@ Indexed users: 236
 | 19 | [paulcitarella](https://github.com/paulcitarella) | Paul Citarella | George Town, Bahamas | 15 |
 | 20 | [yemix](https://github.com/yemix) |  | Bahamas | 14 |
 
-Generated: 2026-10-15T18:59:02.306Z
+Generated: 2026-10-15T20:19:10.546Z
