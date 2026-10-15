@@ -23328,18 +23328,6 @@
     "createdAt": "2024-04-12T08:35:47Z"
   },
   {
-    "login": "b52clubfood",
-    "name": "b52club",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/167968134?s=72&v=4",
-    "location": "viet nam",
-    "company": "",
-    "twitterUsername": "b52clubfood",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2024-04-24T08:07:08Z"
-  },
-  {
     "login": "truongnhattien",
     "name": "Trương Nhật Tiến",
     "avatarUrl": "https://avatars.githubusercontent.com/u/167666290?s=72&u=72207fc60f811cdf70a38d2f39fb3e919d03f45b&v=4",
@@ -23347,8 +23335,8 @@
     "company": "TalentFlux-AI",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1102,
-    "publicContributions": 1,
+    "privateContributions": 1020,
+    "publicContributions": 0,
     "createdAt": "2024-04-21T04:44:38Z"
   },
   {
@@ -23358,9 +23346,9 @@
     "location": "Viet Nam",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 7,
     "createdAt": "2024-09-03T01:29:49Z"
   },
   {
@@ -23372,7 +23360,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 77,
+    "publicContributions": 70,
     "createdAt": "2024-04-11T08:50:56Z"
   },
   {
@@ -23384,7 +23372,7 @@
     "twitterUsername": "uhtatd2006",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 65,
+    "publicContributions": 64,
     "createdAt": "2024-11-07T11:36:49Z"
   },
   {
@@ -23396,7 +23384,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 47,
+    "publicContributions": 51,
     "createdAt": "2024-09-08T07:17:30Z"
   },
   {
@@ -23407,8 +23395,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 14,
-    "publicContributions": 4,
+    "privateContributions": 16,
+    "publicContributions": 17,
     "createdAt": "2024-07-26T08:19:49Z"
   },
   {
@@ -23420,7 +23408,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 37,
+    "publicContributions": 46,
     "createdAt": "2024-04-17T02:36:32Z"
   },
   {
@@ -23432,7 +23420,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 569,
+    "publicContributions": 429,
     "createdAt": "2024-04-07T13:02:08Z"
   },
   {
@@ -23442,9 +23430,9 @@
     "location": "Viet Nam",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 2,
     "createdAt": "2024-02-16T14:02:22Z"
   },
   {
@@ -23480,7 +23468,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 31,
     "createdAt": "2024-03-04T08:35:23Z"
   },
   {
@@ -23492,7 +23480,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 93,
-    "publicContributions": 224,
+    "publicContributions": 196,
     "createdAt": "2024-03-01T13:08:19Z"
   },
   {
@@ -23503,21 +23491,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 41,
-    "publicContributions": 209,
+    "privateContributions": 101,
+    "publicContributions": 270,
     "createdAt": "2024-08-21T01:12:37Z"
-  },
-  {
-    "login": "hthoaqn",
-    "name": "Nguyen Viet Hoang",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/190244995?s=72&u=64ad519080413cb7e201a8e48d190824b3d4d449&v=4",
-    "location": "Hai Phong, Viet Nam",
-    "company": "Shouko Development",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 2,
-    "publicContributions": 41,
-    "createdAt": "2024-12-01T06:10:35Z"
   },
   {
     "login": "BillyVNYT",
@@ -23526,21 +23502,21 @@
     "location": "Da Nang, Viet Nam",
     "company": "",
     "twitterUsername": "HngNguy15455051",
-    "followers": 1,
-    "privateContributions": 23,
-    "publicContributions": 213,
+    "followers": 3,
+    "privateContributions": 63,
+    "publicContributions": 289,
     "createdAt": "2024-06-22T00:51:40Z"
   },
   {
     "login": "TanNguyen234",
     "name": "Tan Nguyen",
     "avatarUrl": "https://avatars.githubusercontent.com/u/167159004?s=72&u=08f4ccce861ff56b33aebcefaa20c4dedf0be826&v=4",
-    "location": "Tan Binh District, Ho Chi Minh City, Viet Nam",
+    "location": "District 7, Ho Chi Minh City, Viet Nam",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 190,
-    "publicContributions": 313,
+    "followers": 2,
+    "privateContributions": 303,
+    "publicContributions": 630,
     "createdAt": "2024-04-16T03:40:50Z"
   },
   {
@@ -23563,8 +23539,8 @@
     "company": "Da Nang University of Science and Technology – DUT",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 449,
-    "publicContributions": 685,
+    "privateContributions": 693,
+    "publicContributions": 808,
     "createdAt": "2024-06-11T15:05:43Z"
   },
   {

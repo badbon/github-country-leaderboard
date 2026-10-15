@@ -24114,7 +24114,7 @@
     "location": "Trebinje, Bosnia and Herzegovina",
     "company": "",
     "twitterUsername": "",
-    "followers": 20,
+    "followers": 21,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2012-04-13T16:09:19Z"
@@ -24126,9 +24126,9 @@
     "location": "Bosnia and Herzegovina",
     "company": "",
     "twitterUsername": "",
-    "followers": 20,
-    "privateContributions": 0,
-    "publicContributions": 15,
+    "followers": 17,
+    "privateContributions": 24,
+    "publicContributions": 16,
     "createdAt": "2012-06-18T10:35:13Z"
   },
   {
@@ -24138,22 +24138,10 @@
     "location": "Bosnia and Herzegovina",
     "company": "",
     "twitterUsername": "",
-    "followers": 18,
+    "followers": 19,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 28,
     "createdAt": "2012-03-06T10:26:24Z"
-  },
-  {
-    "login": "vlado-github",
-    "name": "Vladimir Marinkovic",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/2298960?s=72&u=cc540c80a04c0d7a0c3d60b77ad67cfa832adc18&v=4",
-    "location": "Bosnia and Herzegovina",
-    "company": "KIRIKO",
-    "twitterUsername": "",
-    "followers": 17,
-    "privateContributions": 120,
-    "publicContributions": 262,
-    "createdAt": "2012-09-07T11:44:50Z"
   },
   {
     "login": "HarunD",
@@ -24163,7 +24151,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 15,
-    "privateContributions": 1268,
+    "privateContributions": 1186,
     "publicContributions": 0,
     "createdAt": "2012-05-16T11:12:16Z"
   },
@@ -24174,9 +24162,9 @@
     "location": "Bosnia and Herzegovina",
     "company": "CrateDB",
     "twitterUsername": "",
-    "followers": 13,
+    "followers": 15,
     "privateContributions": 0,
-    "publicContributions": 194,
+    "publicContributions": 357,
     "createdAt": "2012-08-17T00:25:45Z"
   },
   {
@@ -24186,7 +24174,7 @@
     "location": "Bosnia and Herzegovina",
     "company": "Bay42",
     "twitterUsername": "",
-    "followers": 13,
+    "followers": 15,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2012-11-07T08:50:56Z"
@@ -24199,7 +24187,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 265,
+    "privateContributions": 192,
     "publicContributions": 2,
     "createdAt": "2012-03-21T09:16:11Z"
   },
@@ -24212,7 +24200,7 @@
     "twitterUsername": "vgrbr",
     "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 20,
     "createdAt": "2012-10-22T14:38:45Z"
   },
   {
@@ -24223,7 +24211,7 @@
     "company": "Rare Carat, Inc.",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 304,
+    "privateContributions": 527,
     "publicContributions": 2,
     "createdAt": "2012-10-29T09:04:26Z"
   },
@@ -24234,9 +24222,9 @@
     "location": "Niševići, Bosnia and Herzegovina",
     "company": "@Wolfinne-IT ",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 2135,
-    "publicContributions": 2,
+    "followers": 8,
+    "privateContributions": 3797,
+    "publicContributions": 4,
     "createdAt": "2012-02-13T13:57:22Z"
   },
   {
@@ -24283,7 +24271,7 @@
     "company": "Ministry of Programming",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 967,
+    "privateContributions": 968,
     "publicContributions": 0,
     "createdAt": "2012-10-24T07:33:00Z"
   },
@@ -24318,15 +24306,15 @@
     "location": "Sarajevo, Bosnia and Herzegovina",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 1446,
+    "followers": 4,
+    "privateContributions": 1512,
     "publicContributions": 0,
     "createdAt": "2012-01-25T21:31:47Z"
   },
   {
     "login": "nedimlisica",
     "name": "Nedim Lisica",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/3000578?s=72&u=38407261ea482accb4668e30e01c5bf5f443fc8d&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3000578?s=72&u=a47c11c52a95f8643048adb4996b77e07a06bb01&v=4",
     "location": "Bosnia and Herzegovina",
     "company": "",
     "twitterUsername": "",

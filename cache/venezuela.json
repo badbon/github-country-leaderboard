@@ -23828,7 +23828,7 @@
     "twitterUsername": "",
     "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 35,
+    "publicContributions": 66,
     "createdAt": "2021-07-05T00:49:37Z"
   },
   {
@@ -23838,7 +23838,7 @@
     "location": "Venezuela",
     "company": "Kubo Codes",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 12,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-06-20T02:42:11Z"
@@ -23846,7 +23846,7 @@
   {
     "login": "estebancolmenares91",
     "name": "Esteban Colmenares",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/96037539?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/96037539?s=72&u=e8247d190ff041273ce8f5aee5b190379cf4b7c0&v=4",
     "location": "Venezuela",
     "company": "",
     "twitterUsername": "",
@@ -23858,12 +23858,12 @@
   {
     "login": "anibalarevalo",
     "name": "Anibal Arevalo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/79030561?s=72&u=13768bf4802796e086d7b2ae2ce7be083f8fa8fa&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/79030561?s=72&u=3ad8c65bbe5caf808dcf0ab4cd06368834f66570&v=4",
     "location": "Venezuela",
     "company": "",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 620,
+    "privateContributions": 600,
     "publicContributions": 1,
     "createdAt": "2021-02-14T01:37:00Z"
   },
@@ -23872,11 +23872,11 @@
     "name": "Gabriel Arcila",
     "avatarUrl": "https://avatars.githubusercontent.com/u/81638960?s=72&u=0a9ccf6d9d6327624fabc6a6121ae82cf91af1bd&v=4",
     "location": "San Diego, Carabobo, Venezuela",
-    "company": "Papeles Venezolanos C.A",
+    "company": "",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 14,
     "privateContributions": 0,
-    "publicContributions": 94,
+    "publicContributions": 91,
     "createdAt": "2021-03-30T15:48:39Z"
   },
   {
@@ -23886,8 +23886,8 @@
     "location": "Venezuela",
     "company": "",
     "twitterUsername": "cesarleaz",
-    "followers": 10,
-    "privateContributions": 604,
+    "followers": 9,
+    "privateContributions": 442,
     "publicContributions": 84,
     "createdAt": "2021-10-31T14:32:48Z"
   },
@@ -23910,9 +23910,9 @@
     "location": "Venezuela",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 1605,
-    "publicContributions": 236,
+    "followers": 8,
+    "privateContributions": 5542,
+    "publicContributions": 547,
     "createdAt": "2021-08-13T01:43:50Z"
   },
   {
@@ -23936,7 +23936,7 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 30,
+    "publicContributions": 32,
     "createdAt": "2021-08-11T02:09:24Z"
   },
   {
@@ -23946,33 +23946,21 @@
     "location": "Venezuela",
     "company": "",
     "twitterUsername": "ValeraAnfer",
-    "followers": 10,
-    "privateContributions": 0,
-    "publicContributions": 22,
-    "createdAt": "2021-04-02T19:18:44Z"
-  },
-  {
-    "login": "DantesSin616",
-    "name": "D. Garcia",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/81527335?s=72&u=7c886e18ba1fd4ce1384fa5d0e71783ec2be7539&v=4",
-    "location": "Venezuela, Caracas",
-    "company": "Freelance",
-    "twitterUsername": "brainwashed",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 94,
-    "createdAt": "2021-03-28T17:10:48Z"
+    "publicContributions": 29,
+    "createdAt": "2021-04-02T19:18:44Z"
   },
   {
     "login": "Willi4amVargas",
     "name": "William Vargas",
     "avatarUrl": "https://avatars.githubusercontent.com/u/88563173?s=72&u=c7c54bee67a444d12034757650a021129ad113b1&v=4",
     "location": "Tachira, Venezuela",
-    "company": "Grupo Sysven",
+    "company": "",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 56,
-    "publicContributions": 209,
+    "followers": 8,
+    "privateContributions": 23,
+    "publicContributions": 215,
     "createdAt": "2021-08-06T22:36:52Z"
   },
   {
@@ -23982,9 +23970,9 @@
     "location": "Venezuela",
     "company": "sha256.us",
     "twitterUsername": "julljoll",
-    "followers": 9,
-    "privateContributions": 243,
-    "publicContributions": 367,
+    "followers": 8,
+    "privateContributions": 274,
+    "publicContributions": 428,
     "createdAt": "2021-11-28T23:37:32Z"
   },
   {
@@ -23994,9 +23982,9 @@
     "location": "Venezuela, Barquisimeto",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 13,
     "createdAt": "2021-06-13T18:11:37Z"
   },
   {
@@ -24006,21 +23994,21 @@
     "location": "Venezuela",
     "company": "",
     "twitterUsername": "grigerratia",
-    "followers": 9,
+    "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 67,
+    "publicContributions": 289,
     "createdAt": "2021-07-13T16:34:57Z"
   },
   {
     "login": "rafalejandrorh",
     "name": "Rafael Rivero",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/86800336?s=72&u=9a1ad622a06f40cf91e721708a1f3f6be9f6f6bc&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/86800336?s=72&u=e56af64426dd981428c2ed5e97386f07c3b75282&v=4",
     "location": "Caracas, Venezuela",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 1645,
-    "publicContributions": 162,
+    "followers": 10,
+    "privateContributions": 1466,
+    "publicContributions": 205,
     "createdAt": "2021-07-01T18:31:00Z"
   },
   {
@@ -24030,7 +24018,7 @@
     "location": "Caracas, Venezuela",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 10,
     "privateContributions": 0,
     "publicContributions": 14,
     "createdAt": "2021-10-12T03:37:07Z"
@@ -24044,7 +24032,7 @@
     "twitterUsername": "dmilanop28",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 90,
+    "publicContributions": 41,
     "createdAt": "2021-09-08T23:02:33Z"
   },
   {
@@ -24054,7 +24042,7 @@
     "location": "Venezuela",
     "company": "Teknica",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 10,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-03-30T01:31:46Z"

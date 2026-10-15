@@ -750,8 +750,8 @@
     "location": "Andorra / España",
     "company": "@growthland ",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 16,
+    "followers": 11,
+    "privateContributions": 17,
     "publicContributions": 4,
     "createdAt": "2019-04-30T08:16:19Z"
   },
@@ -763,7 +763,7 @@
     "company": "Arbitrum Foundation",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 219,
+    "privateContributions": 234,
     "publicContributions": 141,
     "createdAt": "2019-03-17T16:59:34Z"
   },
@@ -776,7 +776,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 67,
-    "publicContributions": 728,
+    "publicContributions": 738,
     "createdAt": "2019-11-11T15:16:09Z"
   },
   {
@@ -859,7 +859,7 @@
     "company": "",
     "twitterUsername": "prrrcl",
     "followers": 29,
-    "privateContributions": 728,
+    "privateContributions": 734,
     "publicContributions": 0,
     "createdAt": "2018-10-20T17:27:36Z"
   },
@@ -871,7 +871,7 @@
     "company": "@surge-ai ",
     "twitterUsername": "",
     "followers": 24,
-    "privateContributions": 3407,
+    "privateContributions": 3398,
     "publicContributions": 36,
     "createdAt": "2018-11-29T12:20:22Z"
   },
@@ -883,7 +883,7 @@
     "company": "Steakhouse Financial",
     "twitterUsername": "sjuanati",
     "followers": 19,
-    "privateContributions": 2218,
+    "privateContributions": 2237,
     "publicContributions": 5,
     "createdAt": "2018-10-02T06:44:15Z"
   },
@@ -907,7 +907,7 @@
     "company": "Donesys Tech OÜ",
     "twitterUsername": "",
     "followers": 13,
-    "privateContributions": 743,
+    "privateContributions": 750,
     "publicContributions": 134,
     "createdAt": "2018-03-08T19:12:25Z"
   },
@@ -924,18 +924,6 @@
     "createdAt": "2018-04-26T10:50:26Z"
   },
   {
-    "login": "keyboard97",
-    "name": "Adrián Rodríguez",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/35631648?s=72&u=cad3cebb8dd6409734ba278735cb4dc6fb2946f8&v=4",
-    "location": "Andorra La Vella, Andorra",
-    "company": "Napptilus Tech Labs",
-    "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 1252,
-    "publicContributions": 15,
-    "createdAt": "2018-01-20T14:46:28Z"
-  },
-  {
     "login": "AdamBaali",
     "name": "Adam Baali",
     "avatarUrl": "https://avatars.githubusercontent.com/u/45665341?s=72&u=cb1d24781c90eb35a0eeecee36f8628fd5360081&v=4",
@@ -944,7 +932,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 1659,
-    "publicContributions": 474,
+    "publicContributions": 497,
     "createdAt": "2018-12-06T15:47:39Z"
   },
   {

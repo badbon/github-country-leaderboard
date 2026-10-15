@@ -23101,14 +23101,14 @@
   },
   {
     "login": "balazshevesi",
-    "name": "Balazs",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/121605136?s=72&u=f00555b5c23319fa581cb3e26347e1193a3fd611&v=4",
+    "name": "Balázs",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/121605136?s=72&u=8615be1e5cd3501497024cfc69223775c1a8de13&v=4",
     "location": "Växjö, Sweden",
     "company": "Linnaeus University",
     "twitterUsername": "balazs_hevesi",
-    "followers": 20,
-    "privateContributions": 235,
-    "publicContributions": 435,
+    "followers": 24,
+    "privateContributions": 352,
+    "publicContributions": 438,
     "createdAt": "2022-12-29T08:32:07Z"
   },
   {
@@ -23143,7 +23143,7 @@
     "company": "Västmanland-Dalarna miljö-& byggförvaltning",
     "twitterUsername": "",
     "followers": 19,
-    "privateContributions": 25,
+    "privateContributions": 30,
     "publicContributions": 149,
     "createdAt": "2023-02-23T20:29:38Z"
   },
@@ -23166,9 +23166,9 @@
     "location": "Sweden",
     "company": "Teracloud AB",
     "twitterUsername": "",
-    "followers": 18,
-    "privateContributions": 50,
-    "publicContributions": 2,
+    "followers": 22,
+    "privateContributions": 44,
+    "publicContributions": 1,
     "createdAt": "2023-01-15T19:09:37Z"
   },
   {
@@ -23178,8 +23178,8 @@
     "location": "Stockholm, Sweden",
     "company": "",
     "twitterUsername": "antxhan",
-    "followers": 18,
-    "privateContributions": 796,
+    "followers": 20,
+    "privateContributions": 557,
     "publicContributions": 4,
     "createdAt": "2023-02-12T01:28:20Z"
   },
@@ -23192,7 +23192,7 @@
     "twitterUsername": "",
     "followers": 17,
     "privateContributions": 0,
-    "publicContributions": 141,
+    "publicContributions": 118,
     "createdAt": "2023-01-23T15:00:46Z"
   },
   {
@@ -23203,8 +23203,8 @@
     "company": "",
     "twitterUsername": "JonnyBergdahl",
     "followers": 17,
-    "privateContributions": 4,
-    "publicContributions": 60,
+    "privateContributions": 9,
+    "publicContributions": 67,
     "createdAt": "2023-03-17T15:26:53Z"
   },
   {
@@ -23216,7 +23216,7 @@
     "twitterUsername": "",
     "followers": 16,
     "privateContributions": 0,
-    "publicContributions": 54,
+    "publicContributions": 56,
     "createdAt": "2023-02-14T15:15:47Z"
   },
   {
@@ -23258,13 +23258,13 @@
   {
     "login": "LauraLyckholm",
     "name": "Laura Lyckholm",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/137819100?s=72&u=fc98c3c0933b4324cdc762aec301db7075a85778&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/137819100?s=72&u=6fadd164aa9e9f65a8c8c7a3606df34646825132&v=4",
     "location": "Borås, Sweden",
     "company": "@Revolutionrace",
     "twitterUsername": "",
     "followers": 15,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 7,
     "createdAt": "2023-06-26T17:16:57Z"
   },
   {
@@ -23286,9 +23286,9 @@
     "location": "Sweden",
     "company": "KTH Stockholm",
     "twitterUsername": "",
-    "followers": 15,
+    "followers": 16,
     "privateContributions": 0,
-    "publicContributions": 136,
+    "publicContributions": 121,
     "createdAt": "2023-06-19T23:45:51Z"
   },
   {
@@ -23298,9 +23298,9 @@
     "location": "Malmö, Sweden",
     "company": "",
     "twitterUsername": "",
-    "followers": 14,
+    "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 228,
+    "publicContributions": 223,
     "createdAt": "2023-06-05T18:05:55Z"
   },
   {
@@ -23334,9 +23334,9 @@
     "location": "Sweden",
     "company": "Freelancer",
     "twitterUsername": "",
-    "followers": 13,
-    "privateContributions": 366,
-    "publicContributions": 31,
+    "followers": 14,
+    "privateContributions": 388,
+    "publicContributions": 45,
     "createdAt": "2023-03-17T10:35:13Z"
   },
   {
@@ -468478,5 +468478,17 @@
     "privateContributions": 0,
     "publicContributions": 70,
     "createdAt": "2026-07-08T05:56:51Z"
+  },
+  {
+    "login": "oussachi",
+    "name": "Dairi Oussama",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/100156542?s=72&u=2b9970d29929656b507eae1e1b83f0734c5c68f4&v=4",
+    "location": "Umeå, Sweden",
+    "company": "Umeå universitet",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 41,
+    "publicContributions": 56,
+    "createdAt": "2022-02-21T17:48:02Z"
   }
 ]
