@@ -28,7 +28,7 @@ Indexed users: 993
 | 14 | [DevAseel](https://github.com/DevAseel) | Aseel Al Rawahi | Oman | 6,633 |
 | 15 | [lqji](https://github.com/lqji) | Ahmed Abdullah | Oman | 6,004 |
 | 16 | [MohAnghabo](https://github.com/MohAnghabo) | Mohammed Anghabo | Muscat | 5,396 |
-| 17 | [mohdrasbi](https://github.com/mohdrasbi) | Mohamed Al-Rasbi | Oman | 4,556 |
+| 17 | [mohdrasbi](https://github.com/mohdrasbi) | Mohamed Al-Rasbi | Oman | 4,678 |
 | 18 | [n3sser96](https://github.com/n3sser96) | Nasser Al Subhi | Oman | 4,503 |
 | 19 | [amk9889](https://github.com/amk9889) | Alfarouq | Oman | 4,282 |
 | 20 | [manqur](https://github.com/manqur) | Mansoor Qurishi | Oman | 4,247 |
@@ -67,7 +67,7 @@ Indexed users: 993
 | 3 | [uiamirali](https://github.com/uiamirali) | Amirali Jalalvand | Muscat, Oman | 248 |
 | 4 | [habibalmawali](https://github.com/habibalmawali) | Habib AlMawali | Oman | 227 |
 | 5 | [ahmedtechm](https://github.com/ahmedtechm) | Ahmed ALAbri | Muscat, Oman | 201 |
-| 6 | [AhmedBafkir](https://github.com/AhmedBafkir) | AhmedBafkir | Oman | 193 |
+| 6 | [AhmedBafkir](https://github.com/AhmedBafkir) | AhmedBafkir | Oman | 194 |
 | 7 | [RanjbarAli](https://github.com/RanjbarAli) | Ali Ranjbar Jelodar | Oman, Muscat | 190 |
 | 8 | [Zerx0r](https://github.com/Zerx0r) | Zerx0r | Oman, Muscat | 175 |
 | 9 | [sajadevo](https://github.com/sajadevo) | Sajad | Muscat, Oman | 174 |
@@ -83,4 +83,4 @@ Indexed users: 993
 | 19 | [3mrdev](https://github.com/3mrdev) | Amr Abd-Alkrim | Khartoum, Sudan \| Muscat, Oman | 94 |
 | 20 | [AmirSa12](https://github.com/AmirSa12) | AmirHossein Sakhravi | Muscat, Oman | 91 |
 
-Generated: 2026-10-15T01:33:22.516Z
+Generated: 2026-10-15T06:34:14.993Z

@@ -20,7 +20,7 @@ Indexed users: 142
 | 6 | [silvainfm](https://github.com/silvainfm) | François-Marie Brych | Nashville & Monaco | 1,780 |
 | 7 | [digitalonyx](https://github.com/digitalonyx) | DigitalOnyx | Monaco | 1,208 |
 | 8 | [matteodevenuto](https://github.com/matteodevenuto) | Matteo De Venuto | Monaco | 1,045 |
-| 9 | [NicoBocq](https://github.com/NicoBocq) | Nicolas Bocquet | Marseille / Monaco | 934 |
+| 9 | [NicoBocq](https://github.com/NicoBocq) | Nicolas Bocquet | Marseille / Monaco | 933 |
 | 10 | [tatianamc](https://github.com/tatianamc) | Tatiana | Monaco | 783 |
 | 11 | [jz222](https://github.com/jz222) | Timo Zimmermann | Monte-Carlo, Monaco | 751 |
 | 12 | [asingizwe1](https://github.com/asingizwe1) | Dev. Louis Asingizwe | Monaco , Kampala/Uganda | 605 |
@@ -44,7 +44,7 @@ Indexed users: 142
 | 5 | [auvents-brave](https://github.com/auvents-brave) | Stéphane | Monaco | 242 |
 | 6 | [AlexRLG98](https://github.com/AlexRLG98) | Alex_RLG | Monaco | 212 |
 | 7 | [co-stig](https://github.com/co-stig) | Constantine | Monaco | 173 |
-| 8 | [NicoBocq](https://github.com/NicoBocq) | Nicolas Bocquet | Marseille / Monaco | 149 |
+| 8 | [NicoBocq](https://github.com/NicoBocq) | Nicolas Bocquet | Marseille / Monaco | 148 |
 | 9 | [Steve-Deguilly](https://github.com/Steve-Deguilly) | Steve DEGUILLY | Nice / Monaco / Sophia Antipolis | 116 |
 | 10 | [margauxhaering](https://github.com/margauxhaering) | Margaux Haering | Monaco | 109 |
 | 11 | [fedecarz](https://github.com/fedecarz) | fedecarz | Monaco | 99 |
@@ -83,4 +83,4 @@ Indexed users: 142
 | 19 | [coachklng12](https://github.com/coachklng12) |  | Monaco | 14 |
 | 20 | [co-stig](https://github.com/co-stig) | Constantine | Monaco | 13 |
 
-Generated: 2026-10-15T01:26:16.051Z
+Generated: 2026-10-15T06:27:50.204Z

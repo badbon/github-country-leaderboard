@@ -1,6 +1,6 @@
 # Followers - Kyrgyzstan
 
-Generated: 2026-10-15T01:20:11.586Z
+Generated: 2026-10-15T06:18:26.242Z
 
 Users: 2451
 
@@ -13,8 +13,8 @@ Users: 2451
 | 5 | [gen1us2k](https://github.com/gen1us2k) | Andrew Zhuravlev |  | gen1us2k | Kyrgyzstan, Bishkek | 208 |
 | 6 | [nasirovx](https://github.com/nasirovx) | 5ekastan | ITC bootcamp  |  | Osh \| Kyrgyzstan | 183 |
 | 7 | [toksaitov](https://github.com/toksaitov) | Toksaitov Dmitrii Alexandrovich | @auca |  | Bishkek | 176 |
-| 8 | [songhee24](https://github.com/songhee24) | Azamat |  |  | Kyrgyzstan | 144 |
-| 9 | [Alymbekov](https://github.com/Alymbekov) |  | Boomerang |  | Bishkek, Kyrgyzstan | 141 |
+| 8 | [Alymbekov](https://github.com/Alymbekov) |  | Boomerang |  | Bishkek, Kyrgyzstan | 141 |
+| 9 | [songhee24](https://github.com/songhee24) | Azamat |  |  | Kyrgyzstan | 134 |
 | 10 | [YaiLung](https://github.com/YaiLung) | Олег Владимирович | @Svag-gamesss @Microsoft |  | Bishkek | 127 |
 | 11 | [CyberLight](https://github.com/CyberLight) | Aleksandr Vishniakov |  |  | Kyrgyzstan | 125 |
 | 12 | [NuraiymMamatova](https://github.com/NuraiymMamatova) | Nuraiym |  |  | Kyrgyzstan | 115 |
@@ -25,4 +25,4 @@ Users: 2451
 | 17 | [AlexanderBagel](https://github.com/AlexanderBagel) | Alexander (Rouse_) Bagel |  |  | Bishkek | 105 |
 | 18 | [bashu](https://github.com/bashu) | Basil Sh. |  |  | Bishkek, Kyrgyzstan | 104 |
 | 19 | [Elkhan2003](https://github.com/Elkhan2003) | Elkhan Sharshenbekov | WeDevX && UniCorn |  | Karakol, Kyrgyzstan | 103 |
-| 20 | [eszdman](https://github.com/eszdman) |  |  |  | Kyrgyzstan | 102 |
+| 20 | [eszdman](https://github.com/eszdman) |  |  |  | Kyrgyzstan | 103 |

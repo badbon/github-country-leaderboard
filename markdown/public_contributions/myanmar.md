@@ -1,8 +1,8 @@
 # Public Contributions - Myanmar
 
-Generated: 2026-10-15T01:28:47.060Z
+Generated: 2026-10-15T06:30:05.366Z
 
-Users: 2062
+Users: 2061
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -23,6 +23,6 @@ Users: 2062
 | 15 | [acehidan](https://github.com/acehidan) | Aung Aung Oo | OTAS Tech Solutions |  | Myanmar | 1032 |
 | 16 | [mrmyothet](https://github.com/mrmyothet) | MyoThet | @solidplm  |  | Yangon, Myanmar | 1030 |
 | 17 | [TaoMonLae](https://github.com/TaoMonLae) |  |  |  | Myanmar | 1017 |
-| 18 | [phothinmg](https://github.com/phothinmg) | Pho Thin Maung |  |  | Myanmar | 1006 |
-| 19 | [thanthtooaung-coding](https://github.com/thanthtooaung-coding) | Thant Htoo Aung | Laconic | VinnnDev | Yangon, Myanmar | 1001 |
-| 20 | [HlyamHtetKyaw](https://github.com/HlyamHtetKyaw) | Hlyam_Htet_Kyaw | Aplus Binary |  | Taunggyi, Shan State, Myanmar | 933 |
+| 18 | [agrogers](https://github.com/agrogers) | Andrew Rogers |  |  | Yangon, Myanmar | 1010 |
+| 19 | [phothinmg](https://github.com/phothinmg) | Pho Thin Maung |  |  | Myanmar | 1006 |
+| 20 | [thanthtooaung-coding](https://github.com/thanthtooaung-coding) | Thant Htoo Aung | Laconic | VinnnDev | Yangon, Myanmar | 1001 |

@@ -24,7 +24,7 @@ Indexed users: 1,357
 | 10 | [njaga](https://github.com/njaga) | Ndiaga Ndiaye | Dakar | 5,639 |
 | 11 | [touskar](https://github.com/touskar) | Moussa Ndour DSI at INTech Group | Dakar | 5,557 |
 | 12 | [i2sac](https://github.com/i2sac) | Louis Issac Jean Samba DIOUF | Dakar, Senegal | 5,296 |
-| 13 | [elias-ba](https://github.com/elias-ba) | Elias Waly Ba | Dakar, Senegal | 5,019 |
+| 13 | [elias-ba](https://github.com/elias-ba) | Elias Waly Ba | Dakar, Senegal | 5,184 |
 | 14 | [ZooM982](https://github.com/ZooM982) | Revhieno Roll Haurly MBOUTA  | Dakar, Sénégal | 4,863 |
 | 15 | [crossben](https://github.com/crossben) |  | Dakar | 4,785 |
 | 16 | [lamine-f](https://github.com/lamine-f) | Mouhamed Lamine Faye | Sénégal - Dakar | 4,525 |
@@ -55,7 +55,7 @@ Indexed users: 1,357
 | 16 | [supermalang](https://github.com/supermalang) | Elhadji Malang | Dakar | 1,143 |
 | 17 | [sokhnaFaaty](https://github.com/sokhnaFaaty) | nexuusDev | Senegal | 1,066 |
 | 18 | [RBen19](https://github.com/RBen19) | Rosinard Beni | Dakar, Senegal | 1,031 |
-| 19 | [elias-ba](https://github.com/elias-ba) | Elias Waly Ba | Dakar, Senegal | 1,022 |
+| 19 | [elias-ba](https://github.com/elias-ba) | Elias Waly Ba | Dakar, Senegal | 1,006 |
 | 20 | [khadimmbaye0](https://github.com/khadimmbaye0) | Khadim MBAYE  | Dakar, Sn  | 939 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 1,357
 | 19 | [ngorseck](https://github.com/ngorseck) | Ngor SECK | Dakar - Sénégal | 142 |
 | 20 | [patheGobel](https://github.com/patheGobel) | Pathé BA | Senegal  | 138 |
 
-Generated: 2026-10-15T05:11:17.656Z
+Generated: 2026-10-15T06:43:25.921Z

@@ -1,15 +1,15 @@
 # Total Contributions - Liechtenstein
 
-Generated: 2026-10-15T01:22:23.855Z
+Generated: 2026-10-15T06:20:58.100Z
 
 Users: 113
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [oscardvs](https://github.com/oscardvs) | Oscar Devos |  | oskrt_dvs | Liechtenstein | 5430 |
+| 1 | [oscardvs](https://github.com/oscardvs) | Oscar Devos |  | oskrt_dvs | Liechtenstein | 5456 |
 | 2 | [bernhardw](https://github.com/bernhardw) | Bernhard Wanger | Rezendo |  | Vaduz, Liechtenstein | 4538 |
-| 3 | [tnaescher](https://github.com/tnaescher) | T. Näscher | J&T Treuhand GmbH, Zürich |  | Liechtenstein | 4286 |
-| 4 | [msanft](https://github.com/msanft) | Moritz Sanft | Edgeless Systems | stdoutput | Liechtenstein | 2977 |
+| 3 | [tnaescher](https://github.com/tnaescher) | T. Näscher | J&T Treuhand GmbH, Zürich |  | Liechtenstein | 4289 |
+| 4 | [msanft](https://github.com/msanft) | Moritz Sanft | Edgeless Systems | stdoutput | Liechtenstein | 2971 |
 | 5 | [PhilippHGerber](https://github.com/PhilippHGerber) | Philipp H. Gerber |  | PhilippHGerber | Liechtenstein | 2613 |
 | 6 | [ColinFrick](https://github.com/ColinFrick) | Colin Frick | SONDERFORMAT LLC | ColinFrick | Liechtenstein | 2533 |
 | 7 | [AHaldner](https://github.com/AHaldner) | Andrin Haldner | Stutz Medien AG |  | Liechtenstein | 1821 |

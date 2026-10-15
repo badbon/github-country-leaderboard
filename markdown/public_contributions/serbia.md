@@ -1,12 +1,12 @@
 # Public Contributions - Serbia
 
-Generated: 2026-10-15T05:11:22.520Z
+Generated: 2026-10-15T06:44:01.272Z
 
 Users: 10667
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [botantony](https://github.com/botantony) | Anton Melnikov |  | botantony | Belgrade, Serbia | 16955 |
+| 1 | [botantony](https://github.com/botantony) | Anton Melnikov |  | botantony | Belgrade, Serbia | 23219 |
 | 2 | [Nek-12](https://github.com/Nek-12) | Nek.12 | @respawn-app  |  | Serbia | 8975 |
 | 3 | [stefanpejcic](https://github.com/stefanpejcic) | Stefan Pejcic | OpenPanel, LLC. |  | Belgrade, Serbia | 8635 |
 | 4 | [valentinajemuovic](https://github.com/valentinajemuovic) | Valentina Jemuović  | Optivem | valentinajemuov | Belgrade, Serbia | 8227 |

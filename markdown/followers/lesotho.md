@@ -1,13 +1,13 @@
 # Followers - Lesotho
 
-Generated: 2026-10-15T01:21:56.957Z
+Generated: 2026-10-15T06:19:48.166Z
 
 Users: 160
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [KamoheloKoali](https://github.com/KamoheloKoali) | Kamohelo Koali |  |  | Lesotho | 240 |
-| 2 | [LomNtetha](https://github.com/LomNtetha) | Lumkile Ntetha |  | ntethalumkile | Maseru | 214 |
+| 2 | [LomNtetha](https://github.com/LomNtetha) | Lumkile Ntetha |  | ntethalumkile | Maseru | 215 |
 | 3 | [ocaes](https://github.com/ocaes) | Tsitso Mafantiri | OCAES  | ocaes_lso | Lesotho | 114 |
 | 4 | [hitman1c](https://github.com/hitman1c) | SechabaLaptopTracker | SechabaLaptopTracker |  | Lesotho,Maseru | 61 |
 | 5 | [Tumisangkhabisi](https://github.com/Tumisangkhabisi) | Tumisang khabisi |  | khabisixivk | Lesotho, maseru | 54 |

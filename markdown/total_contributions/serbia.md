@@ -1,17 +1,17 @@
 # Total Contributions - Serbia
 
-Generated: 2026-10-15T05:11:22.520Z
+Generated: 2026-10-15T06:44:01.272Z
 
 Users: 10667
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [kernel-memory-dump](https://github.com/kernel-memory-dump) | Sebastian Novak | eqho.ai |  | Serbia | 26443 |
-| 2 | [alifanov](https://github.com/alifanov) | Aleksandr Lifanov |  | jetbootsmaker | Belgrade, Serbia | 22551 |
-| 3 | [misho85](https://github.com/misho85) | Mišo Stevović |  |  | Belgrade, Serbia | 20244 |
-| 4 | [probablyrobot](https://github.com/probablyrobot) | Igor Bogicevic |  |  | Serbia | 17374 |
-| 5 | [MauricDaniel](https://github.com/MauricDaniel) |  |  |  | Novi Sad, Serbia | 17170 |
-| 6 | [botantony](https://github.com/botantony) | Anton Melnikov |  | botantony | Belgrade, Serbia | 16988 |
+| 2 | [botantony](https://github.com/botantony) | Anton Melnikov |  | botantony | Belgrade, Serbia | 23247 |
+| 3 | [alifanov](https://github.com/alifanov) | Aleksandr Lifanov |  | jetbootsmaker | Belgrade, Serbia | 22551 |
+| 4 | [misho85](https://github.com/misho85) | Mišo Stevović |  |  | Belgrade, Serbia | 20244 |
+| 5 | [probablyrobot](https://github.com/probablyrobot) | Igor Bogicevic |  |  | Serbia | 17374 |
+| 6 | [MauricDaniel](https://github.com/MauricDaniel) |  |  |  | Novi Sad, Serbia | 17170 |
 | 7 | [Iskanderrus](https://github.com/Iskanderrus) | Alexander Chasovskoy |  |  | Serbia | 13778 |
 | 8 | [proffesor-for-testing](https://github.com/proffesor-for-testing) | Dragan Spiridonov | Cognitum One |  | Petrovaradin, Serbia | 13173 |
 | 9 | [msrdic](https://github.com/msrdic) | Mladen Srdic |  | quantumdot | Belgrade | 13164 |
@@ -25,4 +25,4 @@ Users: 10667
 | 17 | [stefanpejcic](https://github.com/stefanpejcic) | Stefan Pejcic | OpenPanel, LLC. |  | Belgrade, Serbia | 9534 |
 | 18 | [igorskyflyer](https://github.com/igorskyflyer) | Igor Dimitrijević |  | igorskyflyer | Serbia | 9286 |
 | 19 | [zombie](https://github.com/zombie) | Tomislav Jovanovic | @Mozilla |  | Serbia | 8912 |
-| 20 | [markoradak](https://github.com/markoradak) | Marko Radak |  |  | Belgrade, Serbia | 8751 |
+| 20 | [sh3ll3x3c](https://github.com/sh3ll3x3c) | Ljubisa Isakovic |  | Sky_lunat1c | Belgrade, Serbia | 8901 |

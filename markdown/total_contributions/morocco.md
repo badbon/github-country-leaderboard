@@ -1,6 +1,6 @@
 # Total Contributions - Morocco
 
-Generated: 2026-10-15T01:28:02.480Z
+Generated: 2026-10-15T06:29:22.185Z
 
 Users: 9644
 
@@ -17,12 +17,12 @@ Users: 9644
 | 9 | [moa-digitalagency](https://github.com/moa-digitalagency) | My One Art - Digital Agency |  |  | Marrakesh, Morocco | 7926 |
 | 10 | [AyourElwazani97](https://github.com/AyourElwazani97) | Ayoub Wazane | Global Tech Security |  | Morocco | 7883 |
 | 11 | [Oussail](https://github.com/Oussail) | Oussail |  |  | Morocco | 7473 |
-| 12 | [yoeunes](https://github.com/yoeunes) | Younes ENNAJI | Tousfacteurs | yoeunes | Marrakech, Morocco | 7304 |
-| 13 | [ANOUAR00-1](https://github.com/ANOUAR00-1) | ANOUAR BENTAHAR |  |  | Morocco | 7095 |
-| 14 | [tawachdev](https://github.com/tawachdev) | Mohamed Taaouach | Independent Product Engineer |  | Khenifra, Morocco | 7089 |
-| 15 | [Vitalcheffe](https://github.com/Vitalcheffe) | Amine Harch el korane | Harch Corp |  | Casablanca, Morocco | 6916 |
-| 16 | [KhalilSelyan](https://github.com/KhalilSelyan) | Khalil Selyan | Teneo Protocol | KhalilSelyan | Marrakesh, Morocco | 6851 |
-| 17 | [HoceineEl](https://github.com/HoceineEl) | Hoceine EL IDRISSI | @NewTags @EisarApp |  | Morocco | 6527 |
+| 12 | [HoceineEl](https://github.com/HoceineEl) | Hoceine EL IDRISSI | @NewTags @EisarApp |  | Morocco | 7331 |
+| 13 | [yoeunes](https://github.com/yoeunes) | Younes ENNAJI | Tousfacteurs | yoeunes | Marrakech, Morocco | 7304 |
+| 14 | [ANOUAR00-1](https://github.com/ANOUAR00-1) | ANOUAR BENTAHAR |  |  | Morocco | 7095 |
+| 15 | [tawachdev](https://github.com/tawachdev) | Mohamed Taaouach | Independent Product Engineer |  | Khenifra, Morocco | 7089 |
+| 16 | [Vitalcheffe](https://github.com/Vitalcheffe) | Amine Harch el korane | Harch Corp |  | Casablanca, Morocco | 6916 |
+| 17 | [KhalilSelyan](https://github.com/KhalilSelyan) | Khalil Selyan | Teneo Protocol | KhalilSelyan | Marrakesh, Morocco | 6851 |
 | 18 | [ansezz](https://github.com/ansezz) | Anass Ez-zouaine | @XCO-Agency  | ansezz | Meknes, Morocco | 6411 |
 | 19 | [aimranee](https://github.com/aimranee) | Aimrane Essakhi | Adria Business & Technology |  | Morocco | 6318 |
 | 20 | [yassnemo](https://github.com/yassnemo) | Yassine Erradouani | @Phaxel-edi |  | Casablanca, Morocco | 6137 |

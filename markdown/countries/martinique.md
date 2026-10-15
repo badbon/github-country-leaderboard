@@ -17,10 +17,10 @@ Indexed users: 75
 | 3 | [diasjorge](https://github.com/diasjorge) | Jorge Dias | Martinique | 5,023 |
 | 4 | [GuillaumeBld](https://github.com/GuillaumeBld) | Guillaume Bolivard | Chicago / Fort-de-France | 4,444 |
 | 5 | [bolom](https://github.com/bolom) | Bolo Michelin | Martinique | 3,219 |
-| 6 | [docVoid](https://github.com/docVoid) | void216 | Martinique | 1,572 |
+| 6 | [docVoid](https://github.com/docVoid) | void216 | Martinique | 1,539 |
 | 7 | [p4cm4n972](https://github.com/p4cm4n972) | Manuel ADELE | Martinique | 1,105 |
 | 8 | [esrid](https://github.com/esrid) | ADS | Martinique | 942 |
-| 9 | [R3tr8](https://github.com/R3tr8) | Franck-Emmanuel | Martinique | 940 |
+| 9 | [R3tr8](https://github.com/R3tr8) | Franck-Emmanuel | Martinique | 941 |
 | 10 | [vevedh](https://github.com/vevedh) | Hervé de CHAVIGNY | Martinique | 808 |
 | 11 | [LePtitBiscuit](https://github.com/LePtitBiscuit) | LePtitBiscuit | Martinique | 800 |
 | 12 | [blazux](https://github.com/blazux) | Vincent B. | Martinique | 466 |
@@ -64,8 +64,8 @@ Indexed users: 75
 |---:|---|---|---|---:|
 | 1 | [diasjorge](https://github.com/diasjorge) | Jorge Dias | Martinique | 88 |
 | 2 | [bolom](https://github.com/bolom) | Bolo Michelin | Martinique | 34 |
-| 3 | [giovanny972](https://github.com/giovanny972) | giovanny adelaide | martinique | 17 |
-| 4 | [blazux](https://github.com/blazux) | Vincent B. | Martinique | 16 |
+| 3 | [blazux](https://github.com/blazux) | Vincent B. | Martinique | 16 |
+| 4 | [giovanny972](https://github.com/giovanny972) | giovanny adelaide | martinique | 16 |
 | 5 | [bcsirt](https://github.com/bcsirt) | Laurent LOUIS-THERESE | Fort-de-France | 15 |
 | 6 | [jsrdescamps](https://github.com/jsrdescamps) | Julien Descamps | Martinique | 15 |
 | 7 | [steeven-js](https://github.com/steeven-js) | steeven_js | Martinique | 14 |
@@ -83,4 +83,4 @@ Indexed users: 75
 | 19 | [LePtitBiscuit](https://github.com/LePtitBiscuit) | LePtitBiscuit | Martinique | 6 |
 | 20 | [phnxtrill](https://github.com/phnxtrill) | Quentin | Fort-de-France, Martinique | 6 |
 
-Generated: 2026-10-15T01:25:33.824Z
+Generated: 2026-10-15T06:23:20.653Z

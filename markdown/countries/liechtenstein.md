@@ -12,10 +12,10 @@ Indexed users: 113
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [oscardvs](https://github.com/oscardvs) | Oscar Devos | Liechtenstein | 5,430 |
+| 1 | [oscardvs](https://github.com/oscardvs) | Oscar Devos | Liechtenstein | 5,456 |
 | 2 | [bernhardw](https://github.com/bernhardw) | Bernhard Wanger | Vaduz, Liechtenstein | 4,538 |
-| 3 | [tnaescher](https://github.com/tnaescher) | T. Näscher | Liechtenstein | 4,286 |
-| 4 | [msanft](https://github.com/msanft) | Moritz Sanft | Liechtenstein | 2,977 |
+| 3 | [tnaescher](https://github.com/tnaescher) | T. Näscher | Liechtenstein | 4,289 |
+| 4 | [msanft](https://github.com/msanft) | Moritz Sanft | Liechtenstein | 2,971 |
 | 5 | [PhilippHGerber](https://github.com/PhilippHGerber) | Philipp H. Gerber | Liechtenstein | 2,613 |
 | 6 | [ColinFrick](https://github.com/ColinFrick) | Colin Frick | Liechtenstein | 2,533 |
 | 7 | [AHaldner](https://github.com/AHaldner) | Andrin Haldner | Liechtenstein | 1,821 |
@@ -43,7 +43,7 @@ Indexed users: 113
 | 4 | [iwhp](https://github.com/iwhp) | Harry Pfleger | Liechtenstein | 754 |
 | 5 | [masteradhoc](https://github.com/masteradhoc) | Brian | Liechtenstein | 654 |
 | 6 | [PhilippHGerber](https://github.com/PhilippHGerber) | Philipp H. Gerber | Liechtenstein | 580 |
-| 7 | [msanft](https://github.com/msanft) | Moritz Sanft | Liechtenstein | 528 |
+| 7 | [msanft](https://github.com/msanft) | Moritz Sanft | Liechtenstein | 526 |
 | 8 | [archham](https://github.com/archham) | Nicolas Eberle | Liechtenstein | 459 |
 | 9 | [anondotli](https://github.com/anondotli) | anon.li | Liechtenstein | 300 |
 | 10 | [wol-fi](https://github.com/wol-fi) | Wolfgang Schadner | Liechtenstein | 288 |
@@ -83,4 +83,4 @@ Indexed users: 113
 | 19 | [PhilippHGerber](https://github.com/PhilippHGerber) | Philipp H. Gerber | Liechtenstein | 14 |
 | 20 | [niklasfrick](https://github.com/niklasfrick) | Niklas Frick | Liechtenstein | 12 |
 
-Generated: 2026-10-15T01:22:23.855Z
+Generated: 2026-10-15T06:20:58.100Z

@@ -1,6 +1,6 @@
 # Followers - North Macedonia
 
-Generated: 2026-10-15T01:33:11.790Z
+Generated: 2026-10-15T06:33:43.688Z
 
 Users: 1929
 
@@ -23,6 +23,6 @@ Users: 1929
 | 15 | [MatejMecka](https://github.com/MatejMecka) | Matej Plavevski | @CCExtractor |  | Skopje, Macedonia | 178 |
 | 16 | [visar](https://github.com/visar) | Visar Zejnullahu |  |  | Skopje, Macedonia | 177 |
 | 17 | [eritislami](https://github.com/eritislami) | Erit Islami | @OrangeMelons |  | Struga, North Macedonia | 172 |
-| 18 | [sweko](https://github.com/sweko) | Wekoslav Stefanovski | @Sourcico  |  | Skopje | 170 |
+| 18 | [sweko](https://github.com/sweko) | Wekoslav Stefanovski | @Sourcico  |  | Skopje | 171 |
 | 19 | [bor0](https://github.com/bor0) | Boro Sitnikovski | @Automattic | BSitnikovski | Skopje, North Macedonia | 166 |
 | 20 | [gdamjan](https://github.com/gdamjan) | Дамјан Георгиевски |  |  | Skopje, Macedonia | 144 |

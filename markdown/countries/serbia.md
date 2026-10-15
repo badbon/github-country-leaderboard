@@ -13,11 +13,11 @@ Indexed users: 10,667
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [kernel-memory-dump](https://github.com/kernel-memory-dump) | Sebastian Novak | Serbia | 26,443 |
-| 2 | [alifanov](https://github.com/alifanov) | Aleksandr Lifanov | Belgrade, Serbia | 22,551 |
-| 3 | [misho85](https://github.com/misho85) | Mišo Stevović | Belgrade, Serbia | 20,244 |
-| 4 | [probablyrobot](https://github.com/probablyrobot) | Igor Bogicevic | Serbia | 17,374 |
-| 5 | [MauricDaniel](https://github.com/MauricDaniel) |  | Novi Sad, Serbia | 17,170 |
-| 6 | [botantony](https://github.com/botantony) | Anton Melnikov | Belgrade, Serbia | 16,988 |
+| 2 | [botantony](https://github.com/botantony) | Anton Melnikov | Belgrade, Serbia | 23,247 |
+| 3 | [alifanov](https://github.com/alifanov) | Aleksandr Lifanov | Belgrade, Serbia | 22,551 |
+| 4 | [misho85](https://github.com/misho85) | Mišo Stevović | Belgrade, Serbia | 20,244 |
+| 5 | [probablyrobot](https://github.com/probablyrobot) | Igor Bogicevic | Serbia | 17,374 |
+| 6 | [MauricDaniel](https://github.com/MauricDaniel) |  | Novi Sad, Serbia | 17,170 |
 | 7 | [Iskanderrus](https://github.com/Iskanderrus) | Alexander Chasovskoy | Serbia | 13,778 |
 | 8 | [proffesor-for-testing](https://github.com/proffesor-for-testing) | Dragan Spiridonov | Petrovaradin, Serbia | 13,173 |
 | 9 | [msrdic](https://github.com/msrdic) | Mladen Srdic | Belgrade | 13,164 |
@@ -31,13 +31,13 @@ Indexed users: 10,667
 | 17 | [stefanpejcic](https://github.com/stefanpejcic) | Stefan Pejcic | Belgrade, Serbia | 9,534 |
 | 18 | [igorskyflyer](https://github.com/igorskyflyer) | Igor Dimitrijević | Serbia | 9,286 |
 | 19 | [zombie](https://github.com/zombie) | Tomislav Jovanovic | Serbia | 8,912 |
-| 20 | [markoradak](https://github.com/markoradak) | Marko Radak | Belgrade, Serbia | 8,751 |
+| 20 | [sh3ll3x3c](https://github.com/sh3ll3x3c) | Ljubisa Isakovic | Belgrade, Serbia | 8,901 |
 
 ## Public Contributions
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [botantony](https://github.com/botantony) | Anton Melnikov | Belgrade, Serbia | 16,955 |
+| 1 | [botantony](https://github.com/botantony) | Anton Melnikov | Belgrade, Serbia | 23,219 |
 | 2 | [Nek-12](https://github.com/Nek-12) | Nek.12 | Serbia | 8,975 |
 | 3 | [stefanpejcic](https://github.com/stefanpejcic) | Stefan Pejcic | Belgrade, Serbia | 8,635 |
 | 4 | [valentinajemuovic](https://github.com/valentinajemuovic) | Valentina Jemuović  | Belgrade, Serbia | 8,227 |
@@ -83,4 +83,4 @@ Indexed users: 10,667
 | 19 | [umpirsky](https://github.com/umpirsky) | Saša Stamenković | Niš, Serbia | 458 |
 | 20 | [Stojanovic94](https://github.com/Stojanovic94) | Nikola Stojanović | Niš, Serbia | 435 |
 
-Generated: 2026-10-15T05:11:22.520Z
+Generated: 2026-10-15T06:44:01.272Z

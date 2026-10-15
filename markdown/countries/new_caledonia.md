@@ -31,7 +31,7 @@ Indexed users: 111
 | 17 | [FreddieJH](https://github.com/FreddieJH) | Freddie J. Heather | Noumea, New Caledonia | 629 |
 | 18 | [BJ-Cochrane](https://github.com/BJ-Cochrane) | Ben Cochrane | Nouméa | 516 |
 | 19 | [darwiin](https://github.com/darwiin) | Christophe ROGER | New Caledonia | 505 |
-| 20 | [PLStenger](https://github.com/PLStenger) | Pierre-Louis Stenger | Nouméa, New-Caledonia | 463 |
+| 20 | [PLStenger](https://github.com/PLStenger) | Pierre-Louis Stenger | Nouméa, New-Caledonia | 461 |
 
 ## Public Contributions
 
@@ -42,11 +42,11 @@ Indexed users: 111
 | 3 | [kyuhank](https://github.com/kyuhank) | Kyuhan Kim | Noumea, New Caledonia | 3,009 |
 | 4 | [tom333](https://github.com/tom333) |  | Nouméa, New Calédonia | 1,476 |
 | 5 | [gvdr](https://github.com/gvdr) | Giulio Valentino Dalla Riva | Noumea, New Caledonia | 719 |
-| 6 | [PLStenger](https://github.com/PLStenger) | Pierre-Louis Stenger | Nouméa, New-Caledonia | 463 |
+| 6 | [PLStenger](https://github.com/PLStenger) | Pierre-Louis Stenger | Nouméa, New-Caledonia | 461 |
 | 7 | [Nem0oo](https://github.com/Nem0oo) | Guillaume COURTOT | New-Caledonia | 375 |
-| 8 | [loxK](https://github.com/loxK) | Laurent Dinclaux | New Caledonia | 340 |
-| 9 | [aNaoy](https://github.com/aNaoy) | Yoan Agostini | Nouméa | 339 |
-| 10 | [jchable](https://github.com/jchable) | Julien CHABLE | Nouméa | 327 |
+| 8 | [jchable](https://github.com/jchable) | Julien CHABLE | Nouméa | 368 |
+| 9 | [loxK](https://github.com/loxK) | Laurent Dinclaux | New Caledonia | 340 |
+| 10 | [aNaoy](https://github.com/aNaoy) | Yoan Agostini | Nouméa | 339 |
 | 11 | [ahyolia](https://github.com/ahyolia) | Camélia AMIN HANDOYO | New Caledonia | 263 |
 | 12 | [ellisp](https://github.com/ellisp) | Peter Ellis | Nouméa, Nouvelle-Calédonie | 222 |
 | 13 | [TooFuW](https://github.com/TooFuW) | Eyrian Muet | New- Caledonia | 216 |
@@ -83,4 +83,4 @@ Indexed users: 111
 | 19 | [gronono](https://github.com/gronono) | Arnaud | New Caledonia | 9 |
 | 20 | [6pheR](https://github.com/6pheR) | CipheR_ | New Caledonia | 8 |
 
-Generated: 2026-10-15T01:30:22.131Z
+Generated: 2026-10-15T06:31:47.880Z

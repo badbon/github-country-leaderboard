@@ -15,7 +15,7 @@ Indexed users: 11
 | 1 | [baolood](https://github.com/baolood) | BAO LE DAO | Marshall Islands | 1,815 |
 | 2 | [7d00med](https://github.com/7d00med) |  | Marshall Islands | 38 |
 | 3 | [Charles-Hello](https://github.com/Charles-Hello) | Charles | 10327 ,Reynolds Meadows ,West Ilana ,Wyoming ,Marshall Islands | 37 |
-| 4 | [jfhs](https://github.com/jfhs) | Andrey | Marshall Islands | 2 |
+| 4 | [jfhs](https://github.com/jfhs) | Andrey | Marshall Islands | 3 |
 | 5 | [EKSwitaj](https://github.com/EKSwitaj) | Elizabeth Kate Switaj | Majuro, Marshall Islands | 0 |
 | 6 | [hoh-bot](https://github.com/hoh-bot) | House of Hamsters | Marshall Islands | 0 |
 | 7 | [HP-FX-G](https://github.com/HP-FX-G) | HP Investment Trading & Gambling Strategies | 48FR+264 Delap-Uliga-Djarrit, Majuro Atoll, RMI | 0 |
@@ -30,7 +30,7 @@ Indexed users: 11
 |---:|---|---|---|---:|
 | 1 | [baolood](https://github.com/baolood) | BAO LE DAO | Marshall Islands | 1,815 |
 | 2 | [Charles-Hello](https://github.com/Charles-Hello) | Charles | 10327 ,Reynolds Meadows ,West Ilana ,Wyoming ,Marshall Islands | 37 |
-| 3 | [jfhs](https://github.com/jfhs) | Andrey | Marshall Islands | 2 |
+| 3 | [jfhs](https://github.com/jfhs) | Andrey | Marshall Islands | 3 |
 | 4 | [7d00med](https://github.com/7d00med) |  | Marshall Islands | 0 |
 | 5 | [EKSwitaj](https://github.com/EKSwitaj) | Elizabeth Kate Switaj | Majuro, Marshall Islands | 0 |
 | 6 | [hoh-bot](https://github.com/hoh-bot) | House of Hamsters | Marshall Islands | 0 |
@@ -56,4 +56,4 @@ Indexed users: 11
 | 10 | [HP-FX-G-Hudson-Pierce](https://github.com/HP-FX-G-Hudson-Pierce) | Hudson Pierce | 48FR+264 Delap-Uliga-Djarrit, Majuro Atoll, RMI | 1 |
 | 11 | [zettahash-dev](https://github.com/zettahash-dev) | Zettahash | Marshall Islands | 1 |
 
-Generated: 2026-10-15T01:25:01.110Z
+Generated: 2026-10-15T06:23:15.746Z

@@ -1,13 +1,13 @@
 # Followers - Niger
 
-Generated: 2026-10-15T01:31:45.904Z
+Generated: 2026-10-15T06:32:01.946Z
 
 Users: 176
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [petrozavodsky](https://github.com/petrozavodsky) | Vladimir Petrozavodsky |  |  | Niger | 1164 |
-| 2 | [kodjodevf](https://github.com/kodjodevf) | Moustapha Kodjo Amadou |  | kodjodevf | Niamey,Niger | 228 |
+| 2 | [kodjodevf](https://github.com/kodjodevf) | Moustapha Kodjo Amadou |  | kodjodevf | Niamey,Niger | 229 |
 | 3 | [feyroozecode](https://github.com/feyroozecode) | Ibrahim Ahmad (feyroozecode) |  | feyroozcode | Niger | 113 |
 | 4 | [Mahamadou-Nouridine](https://github.com/Mahamadou-Nouridine) | Mahamadou Nouridine | Microverse | Nouridine_Dino | Niger | 69 |
 | 5 | [abass-dev](https://github.com/abass-dev) | Mr. Abass | Work for home | abass_dev | Niamey, Niger | 67 |

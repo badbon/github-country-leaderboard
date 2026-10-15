@@ -16,14 +16,14 @@ Indexed users: 1,905
 | 2 | [mgcodeur](https://github.com/mgcodeur) | Jimmy Raphaël (Iharena) | Madagascar | 15,245 |
 | 3 | [rajostelly](https://github.com/rajostelly) | RANDRIATSEHENO Rajo Stelly  | Madagascar | 14,715 |
 | 4 | [tiavina-mika](https://github.com/tiavina-mika) | Tiavina Michael Ralainirina | Antananarivo, Madagascar | 11,993 |
-| 5 | [elsycharles](https://github.com/elsycharles) | Elsy | Madagascar | 10,457 |
-| 6 | [EdouardoRabe](https://github.com/EdouardoRabe) |  | Madagascar | 9,932 |
-| 7 | [Xpirix](https://github.com/Xpirix) | Lova Andriarimalala | Madagascar | 9,440 |
-| 8 | [josoavj](https://github.com/josoavj) | Josoa Vonjiniaina | Antananarivo, Madagascar | 7,594 |
-| 9 | [radandevist](https://github.com/radandevist) | Andrianarisoa Daniel | Anatananarivo, Madagascar | 7,273 |
-| 10 | [tsirysndr](https://github.com/tsirysndr) | Tsiry Sandratraina | Antananarivo / Madagascar | 6,996 |
-| 11 | [TantelyRandriamazaoro](https://github.com/TantelyRandriamazaoro) | Tantely Randriamazaoro | Madagascar | 6,553 |
-| 12 | [titamrtn](https://github.com/titamrtn) | RAJAONAH Nandrianina | Antananarivo, Madagascar | 6,242 |
+| 5 | [titamrtn](https://github.com/titamrtn) | RAJAONAH Nandrianina | Antananarivo, Madagascar | 11,123 |
+| 6 | [elsycharles](https://github.com/elsycharles) | Elsy | Madagascar | 10,457 |
+| 7 | [EdouardoRabe](https://github.com/EdouardoRabe) |  | Madagascar | 9,932 |
+| 8 | [Xpirix](https://github.com/Xpirix) | Lova Andriarimalala | Madagascar | 9,440 |
+| 9 | [josoavj](https://github.com/josoavj) | Josoa Vonjiniaina | Antananarivo, Madagascar | 7,594 |
+| 10 | [radandevist](https://github.com/radandevist) | Andrianarisoa Daniel | Anatananarivo, Madagascar | 7,273 |
+| 11 | [tsirysndr](https://github.com/tsirysndr) | Tsiry Sandratraina | Antananarivo / Madagascar | 6,996 |
+| 12 | [TantelyRandriamazaoro](https://github.com/TantelyRandriamazaoro) | Tantely Randriamazaoro | Madagascar | 6,553 |
 | 13 | [amel-sc](https://github.com/amel-sc) | Amel CHARLES | Madagascar | 6,231 |
 | 14 | [Andryrasolofomanana](https://github.com/Andryrasolofomanana) | Andry Rasolofomanana | Madagascar | 5,795 |
 | 15 | [Emii-lia](https://github.com/Emii-lia) | Fiaro Miangaly | Madagascar | 5,181 |
@@ -83,4 +83,4 @@ Indexed users: 1,905
 | 19 | [tokyramarozaka](https://github.com/tokyramarozaka) | Tokimahery | Madagascar | 143 |
 | 20 | [luckasRanarison](https://github.com/luckasRanarison) | Luckas | Antananarivo, Madagascar | 140 |
 
-Generated: 2026-10-15T01:23:38.320Z
+Generated: 2026-10-15T06:22:09.317Z

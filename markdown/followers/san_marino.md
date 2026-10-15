@@ -1,6 +1,6 @@
 # Followers - San Marino
 
-Generated: 2026-10-15T05:11:07.646Z
+Generated: 2026-10-15T06:42:30.470Z
 
 Users: 61
 
@@ -23,6 +23,6 @@ Users: 61
 | 15 | [v1rx](https://github.com/v1rx) | v1r |  |  | San Marino | 16 |
 | 16 | [NeedleCoin](https://github.com/NeedleCoin) | Needle Coin | NeedleCoin |  | San Marino | 14 |
 | 17 | [N1K0232](https://github.com/N1K0232) | Nico |  | N1K0232 | Repubblica di San Marino | 12 |
-| 18 | [Wentianlong](https://github.com/Wentianlong) | Erma O'Conner | Buckridge, Kautzer and Flatley |  | 505 ,Gaynelle Locks ,Carleneland ,Texas ,San Marino | 12 |
-| 19 | [damiandominella](https://github.com/damiandominella) | dodo | Golee |  | San Marino / Milan / Remotely | 11 |
-| 20 | [deBrian07](https://github.com/deBrian07) | Brian C. | Carnegie Mellon University |  | San Marino, CA | 11 |
+| 18 | [damiandominella](https://github.com/damiandominella) | dodo | Golee |  | San Marino / Milan / Remotely | 11 |
+| 19 | [deBrian07](https://github.com/deBrian07) | Brian C. | Carnegie Mellon University |  | San Marino, CA | 11 |
+| 20 | [Wentianlong](https://github.com/Wentianlong) | Erma O'Conner | Buckridge, Kautzer and Flatley |  | 505 ,Gaynelle Locks ,Carleneland ,Texas ,San Marino | 11 |

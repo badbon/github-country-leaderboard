@@ -1,6 +1,6 @@
 # Myanmar
 
-Indexed users: 2,062
+Indexed users: 2,061
 
 | Leaderboard | Link |
 |---|---|
@@ -54,9 +54,9 @@ Indexed users: 2,062
 | 15 | [acehidan](https://github.com/acehidan) | Aung Aung Oo | Myanmar | 1,032 |
 | 16 | [mrmyothet](https://github.com/mrmyothet) | MyoThet | Yangon, Myanmar | 1,030 |
 | 17 | [TaoMonLae](https://github.com/TaoMonLae) |  | Myanmar | 1,017 |
-| 18 | [phothinmg](https://github.com/phothinmg) | Pho Thin Maung | Myanmar | 1,006 |
-| 19 | [thanthtooaung-coding](https://github.com/thanthtooaung-coding) | Thant Htoo Aung | Yangon, Myanmar | 1,001 |
-| 20 | [HlyamHtetKyaw](https://github.com/HlyamHtetKyaw) | Hlyam_Htet_Kyaw | Taunggyi, Shan State, Myanmar | 933 |
+| 18 | [agrogers](https://github.com/agrogers) | Andrew Rogers | Yangon, Myanmar | 1,010 |
+| 19 | [phothinmg](https://github.com/phothinmg) | Pho Thin Maung | Myanmar | 1,006 |
+| 20 | [thanthtooaung-coding](https://github.com/thanthtooaung-coding) | Thant Htoo Aung | Yangon, Myanmar | 1,001 |
 
 ## Followers
 
@@ -67,7 +67,7 @@ Indexed users: 2,062
 | 3 | [sannlynnhtun-coding](https://github.com/sannlynnhtun-coding) | Sann Lynn Htun | Yangon, Myanmar | 1,065 |
 | 4 | [sailay1996](https://github.com/sailay1996) | valen | Myanmar | 758 |
 | 5 | [HlaingMinThan](https://github.com/HlaingMinThan) | Hlaing Min Than(Faizal) | Yangon,Myanmar | 693 |
-| 6 | [KhunHtetzNaing](https://github.com/KhunHtetzNaing) | Khun Htetz Naing | HsiHseng, Myanmar | 391 |
+| 6 | [KhunHtetzNaing](https://github.com/KhunHtetzNaing) | Khun Htetz Naing | HsiHseng, Myanmar | 404 |
 | 7 | [myanmarlinks](https://github.com/myanmarlinks) | Myanmar Links | Yangon, Myanmar | 371 |
 | 8 | [waiferkolar](https://github.com/waiferkolar) | waiferkolar | Brighter Myanmar Computer Class, Second Top of San Yeik Nyein, Helden, Yangoon, Myanmar | 349 |
 | 9 | [sanlinhtik3](https://github.com/sanlinhtik3) | San Lin Htike | Myanmar | 298 |
@@ -83,4 +83,4 @@ Indexed users: 2,062
 | 19 | [winsandymyint](https://github.com/winsandymyint) | Win Sandy Myint | Myanmar | 167 |
 | 20 | [LunaM00n](https://github.com/LunaM00n) | Thin Ba Shane (Luna) | Myanmar | 162 |
 
-Generated: 2026-10-15T01:28:47.060Z
+Generated: 2026-10-15T06:30:05.366Z

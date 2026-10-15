@@ -1,6 +1,6 @@
 # Followers - Oman
 
-Generated: 2026-10-15T01:33:22.516Z
+Generated: 2026-10-15T06:34:14.993Z
 
 Users: 993
 
@@ -11,7 +11,7 @@ Users: 993
 | 3 | [uiamirali](https://github.com/uiamirali) | Amirali Jalalvand |  |  | Muscat, Oman | 248 |
 | 4 | [habibalmawali](https://github.com/habibalmawali) | Habib AlMawali | @thedevclass  | thedevclass | Oman | 227 |
 | 5 | [ahmedtechm](https://github.com/ahmedtechm) | Ahmed ALAbri | Tech Mahindra | ahmedtechm | Muscat, Oman | 201 |
-| 6 | [AhmedBafkir](https://github.com/AhmedBafkir) | AhmedBafkir |  | Peaceful_0 | Oman | 193 |
+| 6 | [AhmedBafkir](https://github.com/AhmedBafkir) | AhmedBafkir |  | Peaceful_0 | Oman | 194 |
 | 7 | [RanjbarAli](https://github.com/RanjbarAli) | Ali Ranjbar Jelodar |  |  | Oman, Muscat | 190 |
 | 8 | [Zerx0r](https://github.com/Zerx0r) | Zerx0r |  |  | Oman, Muscat | 175 |
 | 9 | [sajadevo](https://github.com/sajadevo) | Sajad |  | sajadevo_ | Muscat, Oman | 174 |
