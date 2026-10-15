@@ -22411,8 +22411,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1704,
-    "publicContributions": 188,
+    "privateContributions": 3294,
+    "publicContributions": 105,
     "createdAt": "2022-01-15T08:54:33Z"
   },
   {
@@ -22424,7 +22424,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 8,
     "createdAt": "2022-06-04T12:11:26Z"
   },
   {
@@ -22435,8 +22435,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 875,
-    "publicContributions": 47,
+    "privateContributions": 1352,
+    "publicContributions": 41,
     "createdAt": "2022-01-12T11:42:42Z"
   },
   {
@@ -22470,9 +22470,9 @@
     "location": "Tbilisi",
     "company": "Etalon",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 4,
     "createdAt": "2022-06-01T08:23:15Z"
   },
   {
@@ -22494,7 +22494,7 @@
     "location": "Zugdidi",
     "company": "NILOSI.GE",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-02-16T19:33:40Z"
@@ -22506,9 +22506,9 @@
     "location": "Georgia",
     "company": "GitBrew",
     "twitterUsername": "",
-    "followers": 705,
-    "privateContributions": 2,
-    "publicContributions": 646,
+    "followers": 721,
+    "privateContributions": 8,
+    "publicContributions": 656,
     "createdAt": "2021-06-25T11:09:38Z"
   },
   {
@@ -22518,9 +22518,9 @@
     "location": "Tbilisi, Georgia",
     "company": "",
     "twitterUsername": "",
-    "followers": 432,
-    "privateContributions": 613,
-    "publicContributions": 1221,
+    "followers": 451,
+    "privateContributions": 579,
+    "publicContributions": 1263,
     "createdAt": "2021-02-26T13:27:16Z"
   },
   {
@@ -22530,9 +22530,9 @@
     "location": "Georgia",
     "company": "",
     "twitterUsername": "andrewallbruce",
-    "followers": 220,
+    "followers": 221,
     "privateContributions": 7,
-    "publicContributions": 2368,
+    "publicContributions": 2508,
     "createdAt": "2021-08-31T16:06:11Z"
   },
   {
@@ -82388,7 +82388,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 4524,
-    "publicContributions": 7,
+    "publicContributions": 21,
     "createdAt": "2026-05-17T17:47:05Z"
   },
   {
@@ -82602,9 +82602,9 @@
     "location": "Georgia, Tbilisi",
     "company": "",
     "twitterUsername": "",
-    "followers": 238,
-    "privateContributions": 166,
-    "publicContributions": 802,
+    "followers": 347,
+    "privateContributions": 173,
+    "publicContributions": 803,
     "createdAt": "2026-06-14T20:22:26Z"
   },
   {
@@ -82614,7 +82614,7 @@
     "location": "Tbilisi, Georgia",
     "company": "Kidashi Design",
     "twitterUsername": "",
-    "followers": 39,
+    "followers": 45,
     "privateContributions": 0,
     "publicContributions": 674,
     "createdAt": "2026-06-17T18:29:15Z"
@@ -82714,5 +82714,17 @@
     "privateContributions": 0,
     "publicContributions": 826,
     "createdAt": "2021-12-30T22:44:26Z"
+  },
+  {
+    "login": "Saba-Davitashvili",
+    "name": "Saba",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/286742404?s=72&u=12b31374a9ec2aa5ce432b07ce6012f7c22c2a43&v=4",
+    "location": "Tbilisi ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 11,
+    "createdAt": "2026-05-21T17:12:38Z"
   }
 ]

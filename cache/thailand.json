@@ -21860,7 +21860,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 5,
     "createdAt": "2023-09-17T08:41:45Z"
   },
   {
@@ -21884,7 +21884,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 87,
+    "publicContributions": 79,
     "createdAt": "2023-04-10T02:39:59Z"
   },
   {
@@ -21896,7 +21896,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 246,
+    "publicContributions": 344,
     "createdAt": "2023-01-29T07:19:52Z"
   },
   {
@@ -21908,7 +21908,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 8,
     "createdAt": "2023-06-25T02:09:49Z"
   },
   {
@@ -21918,9 +21918,9 @@
     "location": "Thailand",
     "company": "MaiaLearning",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 11,
     "createdAt": "2023-03-12T16:39:32Z"
   },
   {
@@ -21944,7 +21944,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 262,
+    "publicContributions": 267,
     "createdAt": "2023-11-23T10:12:24Z"
   },
   {
@@ -21956,7 +21956,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 219,
+    "publicContributions": 114,
     "createdAt": "2023-05-21T08:50:33Z"
   },
   {
@@ -21978,9 +21978,9 @@
     "location": "Thailand",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 10,
     "createdAt": "2023-03-19T10:32:29Z"
   },
   {
@@ -21990,7 +21990,7 @@
     "location": "Bangkok, Thailand",
     "company": "GiANTbEAN Co.,Ltd.",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-06-14T17:09:21Z"
@@ -22003,8 +22003,8 @@
     "company": "SPU AI CLUB",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 2381,
-    "publicContributions": 35,
+    "privateContributions": 2734,
+    "publicContributions": 36,
     "createdAt": "2023-03-01T01:31:11Z"
   },
   {
@@ -22014,22 +22014,10 @@
     "location": "Thailand, Bangkok",
     "company": "Humanica Public Company Limited",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 380,
+    "publicContributions": 378,
     "createdAt": "2023-08-01T17:55:46Z"
-  },
-  {
-    "login": "itongmuan",
-    "name": "Worawit Steanputtanagul",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/152999575?s=72&v=4",
-    "location": "Nonthaburi, Thailand",
-    "company": "KruPongJung Co., Ltd.",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 14,
-    "createdAt": "2023-12-05T15:10:52Z"
   },
   {
     "login": "Bankydog",
@@ -22058,13 +22046,13 @@
   {
     "login": "HajimaruRay",
     "name": "Chonlatree Ketkorwoing",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/144349636?s=72&u=2d49d073317050e7c9e28842de28b2feab0267c8&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/144349636?s=72&u=e7eef9360bba5f7a7cc63503f35ea4f088d711a2&v=4",
     "location": "Nonthaburi, Thailand",
     "company": "",
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 84,
+    "publicContributions": 86,
     "createdAt": "2023-09-07T12:52:45Z"
   },
   {
@@ -22075,20 +22063,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 132,
+    "privateContributions": 324,
     "publicContributions": 0,
     "createdAt": "2023-11-30T19:50:35Z"
   },
   {
     "login": "emmysocute",
-    "name": "EmmySoCute",
+    "name": "Emmy",
     "avatarUrl": "https://avatars.githubusercontent.com/u/131013343?s=72&u=6ac3ad37193bb3476038df67bf6e9b9be64f4a0e&v=4",
-    "location": "Thailand",
+    "location": "Bangkok, Thailand",
     "company": "King Mongkhut's Institude of Technology Ladkrabang",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 43,
     "createdAt": "2023-04-17T15:54:53Z"
   },
   {

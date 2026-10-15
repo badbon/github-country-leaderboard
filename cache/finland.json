@@ -21906,9 +21906,9 @@
     "location": "Finland",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 550,
-    "publicContributions": 205,
+    "followers": 5,
+    "privateContributions": 601,
+    "publicContributions": 113,
     "createdAt": "2022-06-22T09:35:05Z"
   },
   {
@@ -21920,7 +21920,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 25,
     "createdAt": "2022-06-17T00:16:49Z"
   },
   {
@@ -21931,8 +21931,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 182,
-    "publicContributions": 64,
+    "privateContributions": 154,
+    "publicContributions": 15,
     "createdAt": "2022-09-06T08:17:12Z"
   },
   {
@@ -21943,8 +21943,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 2070,
-    "publicContributions": 122,
+    "privateContributions": 1970,
+    "publicContributions": 108,
     "createdAt": "2022-01-21T15:54:54Z"
   },
   {
@@ -21954,21 +21954,21 @@
     "location": "Finland",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 1,
     "createdAt": "2022-02-23T15:56:46Z"
   },
   {
     "login": "SangTheInnovator",
-    "name": "P.Sang Le",
+    "name": "TheHackerBob",
     "avatarUrl": "https://avatars.githubusercontent.com/u/105464800?s=72&u=22116fe2b97c3e7c3ac5a5f3e8407a84f504aa4a&v=4",
     "location": "Helsinki, Finland",
     "company": "",
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 1,
     "createdAt": "2022-05-12T22:59:27Z"
   },
   {
@@ -21980,7 +21980,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 324,
     "createdAt": "2022-02-02T18:26:34Z"
   },
   {
@@ -21991,8 +21991,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 8,
-    "publicContributions": 112,
+    "privateContributions": 2,
+    "publicContributions": 77,
     "createdAt": "2022-01-23T19:32:00Z"
   },
   {
@@ -22015,8 +22015,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 416,
-    "publicContributions": 258,
+    "privateContributions": 405,
+    "publicContributions": 379,
     "createdAt": "2022-04-15T08:38:22Z"
   },
   {
@@ -22027,8 +22027,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 22,
-    "publicContributions": 127,
+    "privateContributions": 36,
+    "publicContributions": 153,
     "createdAt": "2022-12-17T12:09:38Z"
   },
   {
@@ -22040,7 +22040,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 167,
+    "publicContributions": 151,
     "createdAt": "2022-02-25T17:53:04Z"
   },
   {
@@ -22051,8 +22051,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 36,
-    "publicContributions": 207,
+    "privateContributions": 25,
+    "publicContributions": 171,
     "createdAt": "2022-09-30T14:20:00Z"
   },
   {
@@ -22063,8 +22063,8 @@
     "company": "",
     "twitterUsername": "samuelll_3d",
     "followers": 5,
-    "privateContributions": 113,
-    "publicContributions": 5,
+    "privateContributions": 70,
+    "publicContributions": 6,
     "createdAt": "2022-05-16T15:18:40Z"
   },
   {
@@ -22075,8 +22075,8 @@
     "company": "Be Group",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 20,
-    "publicContributions": 13,
+    "privateContributions": 23,
+    "publicContributions": 2,
     "createdAt": "2022-12-05T20:35:46Z"
   },
   {
@@ -22090,18 +22090,6 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2022-10-31T13:30:22Z"
-  },
-  {
-    "login": "joonaloy",
-    "name": "joona",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/118251072?s=72&u=0dab4ee2c5ef3c3cf19df74967de1e6173980238&v=4",
-    "location": "Finland",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2022-11-15T07:22:43Z"
   },
   {
     "login": "kriihela",

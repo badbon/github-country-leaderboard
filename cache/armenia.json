@@ -22292,7 +22292,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 137,
+    "publicContributions": 116,
     "createdAt": "2019-03-11T10:21:59Z"
   },
   {
@@ -22304,7 +22304,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 11,
-    "publicContributions": 289,
+    "publicContributions": 324,
     "createdAt": "2019-12-17T17:03:16Z"
   },
   {
@@ -22368,18 +22368,6 @@
     "createdAt": "2019-08-02T13:09:52Z"
   },
   {
-    "login": "Protonko",
-    "name": "Egor Ermolaev",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/53627792?s=72&u=2f2ea2f381e8b32e666e08783c2d1b57d055360c&v=4",
-    "location": "Armenia",
-    "company": "FxPro",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 34,
-    "createdAt": "2019-08-02T21:39:36Z"
-  },
-  {
     "login": "FutureProgrammer228",
     "name": "Arman ",
     "avatarUrl": "https://avatars.githubusercontent.com/u/56505452?s=72&u=ffc8427a4c5fe7b958c631385ae198767c75bb64&v=4",
@@ -22410,9 +22398,9 @@
     "location": "Armenia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 53,
+    "publicContributions": 56,
     "createdAt": "2019-09-03T18:14:59Z"
   },
   {
@@ -22424,7 +22412,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 49,
+    "publicContributions": 28,
     "createdAt": "2019-05-18T23:24:55Z"
   },
   {
@@ -22434,7 +22422,7 @@
     "location": "Armenia, Gyumri",
     "company": "Security Sector LLC",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2019-08-17T07:34:05Z"
@@ -22446,9 +22434,9 @@
     "location": "Yerevan",
     "company": "",
     "twitterUsername": "",
-    "followers": 65,
+    "followers": 71,
     "privateContributions": 0,
-    "publicContributions": 168,
+    "publicContributions": 361,
     "createdAt": "2019-02-26T14:24:47Z"
   },
   {
@@ -22458,21 +22446,21 @@
     "location": "Yerevan",
     "company": "@aenix-io",
     "twitterUsername": "",
-    "followers": 21,
-    "privateContributions": 1000,
-    "publicContributions": 739,
+    "followers": 23,
+    "privateContributions": 1678,
+    "publicContributions": 830,
     "createdAt": "2019-12-16T18:30:39Z"
   },
   {
     "login": "Ahmad-b1995",
-    "name": "Ahmad",
+    "name": "Ahmad Bagheri",
     "avatarUrl": "https://avatars.githubusercontent.com/u/54433089?s=72&u=0d27c44b242ae6f52f70025f78cc28a6ac401e91&v=4",
     "location": "Yerevan",
-    "company": "",
+    "company": "barriertek.com",
     "twitterUsername": "",
-    "followers": 19,
-    "privateContributions": 425,
-    "publicContributions": 147,
+    "followers": 22,
+    "privateContributions": 458,
+    "publicContributions": 170,
     "createdAt": "2019-08-23T07:25:59Z"
   },
   {
@@ -22494,9 +22482,9 @@
     "location": "Yerevan",
     "company": "LogixSoftware",
     "twitterUsername": "",
-    "followers": 14,
+    "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 114,
+    "publicContributions": 100,
     "createdAt": "2019-06-24T18:37:41Z"
   },
   {
@@ -22506,9 +22494,9 @@
     "location": "Yerevan",
     "company": "",
     "twitterUsername": "",
-    "followers": 13,
+    "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 16,
     "createdAt": "2019-03-31T21:23:05Z"
   },
   {

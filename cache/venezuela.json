@@ -21932,7 +21932,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2022-03-23T20:07:11Z"
   },
   {
@@ -21968,7 +21968,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 187,
+    "publicContributions": 193,
     "createdAt": "2022-04-03T02:19:33Z"
   },
   {
@@ -21980,7 +21980,7 @@
     "twitterUsername": "elegamboa",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 23,
     "createdAt": "2022-05-10T15:33:31Z"
   },
   {
@@ -22020,18 +22020,6 @@
     "createdAt": "2022-05-27T23:30:28Z"
   },
   {
-    "login": "Angelinperezz",
-    "name": "Angelinperezz",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/109384672?s=72&u=b9c04c311c520a63aa0e18158bb3597d085cef34&v=4",
-    "location": "Av Universidad, Torre Banco de Venezuela, Distrito Capital, Caracas Venezuela.",
-    "company": "Banco de Venezuela",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2022-07-15T18:48:13Z"
-  },
-  {
     "login": "Colmeex",
     "name": "Jose Mauricio Colmenares",
     "avatarUrl": "https://avatars.githubusercontent.com/u/110945252?s=72&u=c4bec9ea8244064f9401f728d670138598bb6eea&v=4",
@@ -22040,7 +22028,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 0,
     "createdAt": "2022-08-09T23:04:55Z"
   },
   {
@@ -22064,7 +22052,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 0,
     "createdAt": "2022-10-06T00:56:19Z"
   },
   {
@@ -22099,8 +22087,8 @@
     "company": "AFE Systems",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 106,
-    "publicContributions": 2,
+    "privateContributions": 20,
+    "publicContributions": 137,
     "createdAt": "2022-11-20T17:40:48Z"
   },
   {

@@ -22374,7 +22374,7 @@
     "location": "Dominican Republic",
     "company": "",
     "twitterUsername": "Robert003",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 3,
     "publicContributions": 1,
     "createdAt": "2018-12-07T01:18:00Z"
@@ -22386,7 +22386,7 @@
     "location": "Dominican Republic",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-04-10T22:54:36Z"
@@ -22448,7 +22448,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 2,
     "createdAt": "2018-03-01T04:14:42Z"
   },
   {
@@ -22471,7 +22471,7 @@
     "company": "Freelancer",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 220,
+    "privateContributions": 268,
     "publicContributions": 1,
     "createdAt": "2018-03-22T12:52:26Z"
   },
@@ -22482,7 +22482,7 @@
     "location": "Dominican Republic",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2018-11-20T14:45:06Z"
@@ -22518,22 +22518,10 @@
     "location": "Dominican Republic",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-03-11T12:53:25Z"
-  },
-  {
-    "login": "alexander9306",
-    "name": "Alexander Damaso",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/44124936?s=72&u=077fde0ea291a2a9a681f367415c182f505036b4&v=4",
-    "location": "Dominican Republic | US",
-    "company": "MyOwnCompany",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 44,
-    "publicContributions": 9,
-    "createdAt": "2018-10-13T21:12:37Z"
   },
   {
     "login": "Jeanluis019",
@@ -22543,7 +22531,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 113,
+    "privateContributions": 110,
     "publicContributions": 0,
     "createdAt": "2018-01-16T03:12:02Z"
   },
