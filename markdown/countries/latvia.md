@@ -1,6 +1,6 @@
 # Latvia
 
-Indexed users: 3,261
+Indexed users: 3,260
 
 | Leaderboard | Link |
 |---|---|
@@ -29,9 +29,9 @@ Indexed users: 3,261
 | 15 | [victory-sokolov](https://github.com/victory-sokolov) | Viktor Sokolov | Latvia | 6,594 |
 | 16 | [Shvembldr](https://github.com/Shvembldr) | Shvembldr | Latvia | 6,475 |
 | 17 | [emplv](https://github.com/emplv) | Emīls Pļavenieks | Latvia | 6,151 |
-| 18 | [vitalijssilins](https://github.com/vitalijssilins) | Vitālijs Silins | Latvia, Riga | 5,985 |
-| 19 | [kasparsj](https://github.com/kasparsj) | Kaspars Jaudzems | Riga | 5,871 |
-| 20 | [aldis-ameriks](https://github.com/aldis-ameriks) | Aldis Ameriks | Riga, Latvia | 5,845 |
+| 18 | [Grizzlijs](https://github.com/Grizzlijs) | Emils Kicans | Riga/Latvia | 6,083 |
+| 19 | [vitalijssilins](https://github.com/vitalijssilins) | Vitālijs Silins | Latvia, Riga | 5,985 |
+| 20 | [kasparsj](https://github.com/kasparsj) | Kaspars Jaudzems | Riga | 5,871 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 3,261
 | 19 | [ruslanskorb](https://github.com/ruslanskorb) | Ruslan Skorb | Riga, Latvia | 226 |
 | 20 | [0ki](https://github.com/0ki) | Кirils Sоlovjоvs | Latvia | 225 |
 
-Generated: 2026-10-15T14:25:38.631Z
+Generated: 2026-10-15T15:55:12.069Z

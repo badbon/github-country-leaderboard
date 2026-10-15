@@ -1,6 +1,6 @@
 # Followers - Laos
 
-Generated: 2026-10-15T14:25:35.464Z
+Generated: 2026-10-15T15:54:26.133Z
 
 Users: 360
 
@@ -17,10 +17,10 @@ Users: 360
 | 9 | [huevangxp](https://github.com/huevangxp) | Hue Vang | Freelancer |  | laos | 24 |
 | 10 | [khatthaphone](https://github.com/khatthaphone) | Khatthaphone Sengvilai |  |  | Vientiane, Laos | 24 |
 | 11 | [Tedev555](https://github.com/Tedev555) | Thanongsine Chanthakham | http://tedory.me |  | Vientiane, Laos | 24 |
-| 12 | [bobby-sills](https://github.com/bobby-sills) | Bobby Sills |  |  | Vientiane, Laos | 22 |
-| 13 | [dhecaptain](https://github.com/dhecaptain) | David Wambua | PUFFADDERS |  | Laos | 22 |
-| 14 | [os555](https://github.com/os555) | Outhai SAIOUDOM | Lao IT Development Co.,Ltd |  | Laos | 22 |
-| 15 | [1x000](https://github.com/1x000) | 平胖kiki |  |  | Laos | 21 |
+| 12 | [1x000](https://github.com/1x000) | 平胖kiki |  |  | Laos | 22 |
+| 13 | [bobby-sills](https://github.com/bobby-sills) | Bobby Sills |  |  | Vientiane, Laos | 22 |
+| 14 | [dhecaptain](https://github.com/dhecaptain) | David Wambua | PUFFADDERS |  | Laos | 22 |
+| 15 | [os555](https://github.com/os555) | Outhai SAIOUDOM | Lao IT Development Co.,Ltd |  | Laos | 22 |
 | 16 | [saypadith](https://github.com/saypadith) | Savath Saypadith | Laligence |  | Vientiane, Laos | 19 |
 | 17 | [vanglaz](https://github.com/vanglaz) | Somvang Laz |  | somvanglaz | Vientiane, Laos | 19 |
 | 18 | [Chanthale](https://github.com/Chanthale) | CHANTHALEE XAIYAKESONE | Quant HuB ReguTech | Chan5591 | Vientiane Capital, Lao PDR | 16 |

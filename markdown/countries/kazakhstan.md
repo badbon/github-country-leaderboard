@@ -1,6 +1,6 @@
 # Kazakhstan
 
-Indexed users: 5,651
+Indexed users: 5,648
 
 | Leaderboard | Link |
 |---|---|
@@ -66,21 +66,21 @@ Indexed users: 5,651
 | 2 | [Kairatzh](https://github.com/Kairatzh) | kirtzh | Aktobe, Kazakhstan | 2,112 |
 | 3 | [henrypp](https://github.com/henrypp) | henrypp | Almaty, Kazakhstan | 1,920 |
 | 4 | [mikonyaa](https://github.com/mikonyaa) | miko | Astana, Kazakhstan | 1,459 |
-| 5 | [finik404](https://github.com/finik404) | Dmitriy Bozhko | Kazakhstan, Kostanay | 1,057 |
-| 6 | [yerdaulet-damir](https://github.com/yerdaulet-damir) | Damir Yerdaulet | Astana, Kazakhstan | 631 |
-| 7 | [artemnovichkov](https://github.com/artemnovichkov) | Artem Novichkov | Almaty, Kazakhstan | 579 |
-| 8 | [exentrich](https://github.com/exentrich) | Rustem Mussabekov | Astana | 574 |
-| 9 | [kekekeks](https://github.com/kekekeks) | Nikita Tsukanov | Kazakhstan, Astana | 527 |
-| 10 | [andreikhromushin](https://github.com/andreikhromushin) | Andrei Khromushin | Kazakhstan, Astana | 510 |
-| 11 | [adilkhash](https://github.com/adilkhash) | Adylzhan Khashtamov | Astana, Kazakhstan | 466 |
-| 12 | [D-Mass-RR](https://github.com/D-Mass-RR) | Alan Mit | Astana, Kazakhstan | 445 |
-| 13 | [ykmnkmi](https://github.com/ykmnkmi) | Olzhas Suleimen | Kazakhstan, Almaty | 437 |
-| 14 | [zerobias](https://github.com/zerobias) | Dmitry | Kazakhstan | 429 |
-| 15 | [ZhymabekRoman](https://github.com/ZhymabekRoman) | Zhymabek Roman | Kazakhstan | 394 |
-| 16 | [Fsoky](https://github.com/Fsoky) | DanIII ~ | Kazakhstan | 386 |
-| 17 | [SapphoSys](https://github.com/SapphoSys) | Chloe | Almaty, Kazakhstan | 379 |
-| 18 | [Alex009](https://github.com/Alex009) | Aleksey Mikhailov | Astana | 378 |
-| 19 | [Beisenbek](https://github.com/Beisenbek) | Beisenbek Baisakov | Almaty, Kazakhstan | 365 |
-| 20 | [aidarnouman](https://github.com/aidarnouman) | Aidar Nouman | Almaty, Kazakhstan | 303 |
+| 5 | [finik404](https://github.com/finik404) | Dmitriy Bozhko | Kazakhstan, Kostanay | 1,054 |
+| 6 | [artemnovichkov](https://github.com/artemnovichkov) | Artem Novichkov | Almaty, Kazakhstan | 579 |
+| 7 | [exentrich](https://github.com/exentrich) | Rustem Mussabekov | Astana | 574 |
+| 8 | [kekekeks](https://github.com/kekekeks) | Nikita Tsukanov | Kazakhstan, Astana | 527 |
+| 9 | [andreikhromushin](https://github.com/andreikhromushin) | Andrei Khromushin | Kazakhstan, Astana | 510 |
+| 10 | [adilkhash](https://github.com/adilkhash) | Adylzhan Khashtamov | Astana, Kazakhstan | 466 |
+| 11 | [D-Mass-RR](https://github.com/D-Mass-RR) | Alan Mit | Astana, Kazakhstan | 445 |
+| 12 | [ykmnkmi](https://github.com/ykmnkmi) | Olzhas Suleimen | Kazakhstan, Almaty | 437 |
+| 13 | [zerobias](https://github.com/zerobias) | Dmitry | Kazakhstan | 429 |
+| 14 | [ZhymabekRoman](https://github.com/ZhymabekRoman) | Zhymabek Roman | Kazakhstan | 394 |
+| 15 | [Fsoky](https://github.com/Fsoky) | DanIII ~ | Kazakhstan | 386 |
+| 16 | [SapphoSys](https://github.com/SapphoSys) | Chloe | Almaty, Kazakhstan | 379 |
+| 17 | [Alex009](https://github.com/Alex009) | Aleksey Mikhailov | Astana | 378 |
+| 18 | [Beisenbek](https://github.com/Beisenbek) | Beisenbek Baisakov | Almaty, Kazakhstan | 365 |
+| 19 | [aidarnouman](https://github.com/aidarnouman) | Aidar Nouman | Almaty, Kazakhstan | 303 |
+| 20 | [azamxvit](https://github.com/azamxvit) | Azamat | Kazakhstan, Atyrau | 295 |
 
-Generated: 2026-10-15T14:24:49.235Z
+Generated: 2026-10-15T15:51:54.536Z

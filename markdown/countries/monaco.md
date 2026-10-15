@@ -29,7 +29,7 @@ Indexed users: 142
 | 15 | [scribelia-anthony](https://github.com/scribelia-anthony) | Anthony | Monaco | 428 |
 | 16 | [auvents-brave](https://github.com/auvents-brave) | Stéphane | Monaco | 400 |
 | 17 | [giraudremi92](https://github.com/giraudremi92) | Rémi | Monaco | 387 |
-| 18 | [Akira98000](https://github.com/Akira98000) | Santhakumaran Akira | Monaco  | 272 |
+| 18 | [Akira98000](https://github.com/Akira98000) | Santhakumaran Akira | Monaco  | 271 |
 | 19 | [co-stig](https://github.com/co-stig) | Constantine | Monaco | 257 |
 | 20 | [ap705](https://github.com/ap705) | Arnaud Pradier | Monaco | 253 |
 
@@ -83,4 +83,4 @@ Indexed users: 142
 | 19 | [coachklng12](https://github.com/coachklng12) |  | Monaco | 14 |
 | 20 | [co-stig](https://github.com/co-stig) | Constantine | Monaco | 13 |
 
-Generated: 2026-10-15T14:34:37.190Z
+Generated: 2026-10-15T16:01:56.804Z

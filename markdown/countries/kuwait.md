@@ -1,6 +1,6 @@
 # Kuwait
 
-Indexed users: 799
+Indexed users: 798
 
 | Leaderboard | Link |
 |---|---|
@@ -19,7 +19,7 @@ Indexed users: 799
 | 5 | [BAWES](https://github.com/BAWES) | Khalid Al-Mutawa | Kuwait | 6,320 |
 | 6 | [drhema](https://github.com/drhema) | Ibrahim Elsherbiny | Kuwait | 6,108 |
 | 7 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Kuwait | 5,330 |
-| 8 | [bigboss97lnt](https://github.com/bigboss97lnt) | Nasser Tahan | Kuwait | 5,274 |
+| 8 | [bigboss97lnt](https://github.com/bigboss97lnt) | Nasser Tahan | Kuwait | 5,282 |
 | 9 | [saskw2010](https://github.com/saskw2010) | Mostafa Elnagar | kuwait | 5,239 |
 | 10 | [azikar24](https://github.com/azikar24) | Abdulaziz Karam | Kuwait | 4,383 |
 | 11 | [Mubder](https://github.com/Mubder) | Mubder Alfaris | Kuwait | 4,181 |
@@ -31,7 +31,7 @@ Indexed users: 799
 | 17 | [DiNaSoR](https://github.com/DiNaSoR) | BuYousef | Kuwait | 3,506 |
 | 18 | [aalhendi](https://github.com/aalhendi) | Abdulrazzaq Alhendi | Kuwait | 3,463 |
 | 19 | [tammerofficial](https://github.com/tammerofficial) | tammer | Kuwait City | 3,386 |
-| 20 | [saudshaddad](https://github.com/saudshaddad) | Saud Shaddad | Kuwait | 3,272 |
+| 20 | [saudshaddad](https://github.com/saudshaddad) | Saud Shaddad | Kuwait | 3,287 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 799
 | 19 | [MoathOthman](https://github.com/MoathOthman) | Moath othman | Kuwait | 85 |
 | 20 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Kuwait | 81 |
 
-Generated: 2026-10-15T14:28:48.779Z
+Generated: 2026-10-15T15:53:42.937Z

@@ -1,6 +1,6 @@
 # Followers - Palestine
 
-Generated: 2026-10-15T14:43:09.462Z
+Generated: 2026-10-15T16:10:19.813Z
 
 Users: 2200
 
@@ -14,7 +14,7 @@ Users: 2200
 | 6 | [hayasam](https://github.com/hayasam) | Haya Samaana | An Najah National University |  | Palestine | 216 |
 | 7 | [ibrahim-sisar](https://github.com/ibrahim-sisar) | ibrahim abu al roos |  |  | Gaza,Palestine | 209 |
 | 8 | [SarahAbuirmeileh](https://github.com/SarahAbuirmeileh) | Sarah Abu Irmeileh | Palestine Polytechnic University (PPU) |  | Palestine | 209 |
-| 9 | [mohammed-naji](https://github.com/mohammed-naji) | Mohammed Naji |  | mohnaji94 | Palestine / Gaza | 177 |
+| 9 | [mohammed-naji](https://github.com/mohammed-naji) | Mohammed Naji |  | mohnaji94 | Palestine / Gaza | 181 |
 | 10 | [hetslop](https://github.com/hetslop) | lance | bestfriends!! @bratworth @thefruitgrape @inmycomfortzone @evtjvashtsmartin @AdorableCattyy @milkiiwayz @kromakon |  | https://arab.org/click-to-help/palestine/ | 175 |
 | 11 | [Nedal-Esrar](https://github.com/Nedal-Esrar) | Nedal-Esrar Ahmad | Foothill Technology Solutions, LLC |  | Jenin, Palestine | 174 |
 | 12 | [Mohammad-Abohasan](https://github.com/Mohammad-Abohasan) | Mohammad Abohasan | @Apple |  | Jenin, Palestine | 168 |

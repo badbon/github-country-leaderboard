@@ -21,17 +21,17 @@ Indexed users: 6,693
 | 7 | [Benomi](https://github.com/Benomi) | Binyam T. Fisseha | Addis Ababa, Ethiopia | 10,687 |
 | 8 | [tolossamuel](https://github.com/tolossamuel) | Samuel Tolossa | Ethiopia | 10,449 |
 | 9 | [haxurn](https://github.com/haxurn) | Samson Tesfaye | Ethiopia, Addis Ababa | 10,289 |
-| 10 | [iamTadaeltadi](https://github.com/iamTadaeltadi) | Tadaeel Shewarega  | Ethiopia | 10,024 |
-| 11 | [natnaeln4d](https://github.com/natnaeln4d) | Natnael Getachew | Addis Ababa, Ethiopia | 8,533 |
-| 12 | [abela12](https://github.com/abela12) | Abel Berhanu | Ethiopia , Addis Abeba | 8,394 |
-| 13 | [AmarAhmedDev](https://github.com/AmarAhmedDev) | Amar Ahmed | Ethiopia | 8,340 |
-| 14 | [onesamket](https://github.com/onesamket) | Tewodros Birhanu | Addis Ababa, Ethiopia | 8,100 |
-| 15 | [demamano](https://github.com/demamano) | Dema Amano | Ethiopia , Addis Ababa | 7,886 |
-| 16 | [melaku-z](https://github.com/melaku-z) | Melaku Zewdu | Ethiopia | 7,017 |
-| 17 | [black12-ag](https://github.com/black12-ag) | Munir Kabir | Addis Ababa | 6,761 |
-| 18 | [YeabHustles](https://github.com/YeabHustles) | Yeabkibir Tadesse | Addis Ababa , Ethiopia | 6,757 |
-| 19 | [NatnaelMekonnen](https://github.com/NatnaelMekonnen) | Natnael Mekonnen | Addis Ababa, Ethiopia | 6,587 |
-| 20 | [iamejajo](https://github.com/iamejajo) | alazar | Addis Ababa,Ethiopia | 6,404 |
+| 10 | [yaftes](https://github.com/yaftes) | Yafet Tesfaye | Ethiopia , Adama | 10,268 |
+| 11 | [iamTadaeltadi](https://github.com/iamTadaeltadi) | Tadaeel Shewarega  | Ethiopia | 10,024 |
+| 12 | [natnaeln4d](https://github.com/natnaeln4d) | Natnael Getachew | Addis Ababa, Ethiopia | 8,533 |
+| 13 | [abela12](https://github.com/abela12) | Abel Berhanu | Ethiopia , Addis Abeba | 8,394 |
+| 14 | [AmarAhmedDev](https://github.com/AmarAhmedDev) | Amar Ahmed | Ethiopia | 8,340 |
+| 15 | [onesamket](https://github.com/onesamket) | Tewodros Birhanu | Addis Ababa, Ethiopia | 8,100 |
+| 16 | [demamano](https://github.com/demamano) | Dema Amano | Ethiopia , Addis Ababa | 7,886 |
+| 17 | [melaku-z](https://github.com/melaku-z) | Melaku Zewdu | Ethiopia | 7,017 |
+| 18 | [black12-ag](https://github.com/black12-ag) | Munir Kabir | Addis Ababa | 6,761 |
+| 19 | [YeabHustles](https://github.com/YeabHustles) | Yeabkibir Tadesse | Addis Ababa , Ethiopia | 6,757 |
+| 20 | [NatnaelMekonnen](https://github.com/NatnaelMekonnen) | Natnael Mekonnen | Addis Ababa, Ethiopia | 6,587 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 6,693
 | 19 | [Olyadtemesgen](https://github.com/Olyadtemesgen) | Olyad Temesgen Amsalu | Addis Ababa, Ethiopia | 519 |
 | 20 | [yonasleykun27](https://github.com/yonasleykun27) | Yonas Leykun | Addis Ababa, Ethiopia  | 515 |
 
-Generated: 2026-10-15T14:12:55.427Z
+Generated: 2026-10-15T15:38:02.197Z

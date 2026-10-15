@@ -1,6 +1,6 @@
 # Total Contributions - Malta
 
-Generated: 2026-10-15T14:32:08.478Z
+Generated: 2026-10-15T15:59:49.480Z
 
 Users: 1225
 
@@ -15,8 +15,8 @@ Users: 1225
 | 7 | [mattbeedle](https://github.com/mattbeedle) | Matt Beedle |  |  | Malta | 10492 |
 | 8 | [GabrielGil](https://github.com/GabrielGil) | Gabriel | @redacreltd | GabrielSchlomo | Malta | 10208 |
 | 9 | [silvandiepen](https://github.com/silvandiepen) | Sil van Diepen | Sil van Diepen | silvandiepen | Malta | 9402 |
-| 10 | [polp6880](https://github.com/polp6880) | Paul Portelli | Paul Portelli | polp6880 | Malta | 8837 |
-| 11 | [Sml995](https://github.com/Sml995) | Samuel HASSID | @Supplement-Bacon  |  | Sliema, Malta | 8474 |
+| 10 | [Sml995](https://github.com/Sml995) | Samuel HASSID | @Supplement-Bacon  |  | Sliema, Malta | 9224 |
+| 11 | [polp6880](https://github.com/polp6880) | Paul Portelli | Paul Portelli | polp6880 | Malta | 8837 |
 | 12 | [mauroziux](https://github.com/mauroziux) | Mauricio Suárez vega |  |  | malta | 8337 |
 | 13 | [angusgee](https://github.com/angusgee) | Angus Girvan |  |  | Malta | 8219 |
 | 14 | [m2ximus](https://github.com/m2ximus) | max—os |  |  | Malta | 7471 |
