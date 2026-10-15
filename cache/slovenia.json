@@ -23047,7 +23047,7 @@
     "company": "Flaviar",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 138,
+    "privateContributions": 47,
     "publicContributions": 16,
     "createdAt": "2015-12-13T21:22:20Z"
   },
@@ -23070,9 +23070,9 @@
     "location": "Ljubljana, Slovenia",
     "company": "ARSO",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 127,
+    "publicContributions": 138,
     "createdAt": "2015-06-03T12:13:11Z"
   },
   {
@@ -23142,9 +23142,9 @@
     "location": "Ljubljana",
     "company": "@sinergise @sentinel-hub @planetlabs",
     "twitterUsername": "",
-    "followers": 39,
-    "privateContributions": 0,
-    "publicContributions": 3,
+    "followers": 38,
+    "privateContributions": 1,
+    "publicContributions": 2,
     "createdAt": "2015-09-11T11:15:57Z"
   },
   {
@@ -23154,9 +23154,9 @@
     "location": "Ljubljana",
     "company": "University of Ljubljana",
     "twitterUsername": "CalhasDavid",
-    "followers": 30,
-    "privateContributions": 813,
-    "publicContributions": 27,
+    "followers": 29,
+    "privateContributions": 814,
+    "publicContributions": 39,
     "createdAt": "2015-09-27T22:05:56Z"
   },
   {
@@ -23167,8 +23167,8 @@
     "company": "Guardiaris",
     "twitterUsername": "",
     "followers": 24,
-    "privateContributions": 23,
-    "publicContributions": 653,
+    "privateContributions": 27,
+    "publicContributions": 700,
     "createdAt": "2015-11-16T17:47:51Z"
   },
   {
@@ -23179,7 +23179,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 16,
-    "privateContributions": 3946,
+    "privateContributions": 5168,
     "publicContributions": 0,
     "createdAt": "2014-12-31T08:17:16Z"
   },
@@ -23203,8 +23203,8 @@
     "company": "Influee",
     "twitterUsername": "",
     "followers": 13,
-    "privateContributions": 1802,
-    "publicContributions": 0,
+    "privateContributions": 2580,
+    "publicContributions": 2,
     "createdAt": "2015-04-23T08:33:46Z"
   },
   {
@@ -23214,9 +23214,9 @@
     "location": "Ljubljana",
     "company": "Exodus Movement",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 4015,
-    "publicContributions": 8,
+    "followers": 9,
+    "privateContributions": 3209,
+    "publicContributions": 6,
     "createdAt": "2015-01-13T07:59:35Z"
   },
   {
@@ -23227,8 +23227,8 @@
     "company": "Geodetic Institute of Slovenia",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 115,
-    "publicContributions": 121,
+    "privateContributions": 88,
+    "publicContributions": 104,
     "createdAt": "2015-11-12T16:47:13Z"
   },
   {
@@ -23238,21 +23238,21 @@
     "location": "Ljubljana",
     "company": "",
     "twitterUsername": "MichaelValand",
-    "followers": 8,
-    "privateContributions": 366,
-    "publicContributions": 228,
+    "followers": 7,
+    "privateContributions": 501,
+    "publicContributions": 200,
     "createdAt": "2015-11-22T18:03:23Z"
   },
   {
     "login": "JureCindro",
     "name": "Jure Cindro",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/16187935?s=72&u=6bac81299b20174128d9fc143ea5a84c0080d3f5&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16187935?s=72&u=92712d3d9b0cbae5c0470a622c10005a7f27764e&v=4",
     "location": "Ljubljana, Slovenija",
     "company": "@BookingSync ",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 2497,
-    "publicContributions": 15,
+    "privateContributions": 2808,
+    "publicContributions": 13,
     "createdAt": "2015-12-07T09:45:06Z"
   },
   {
@@ -23263,7 +23263,7 @@
     "company": "@viaduct_ai",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 606,
+    "privateContributions": 685,
     "publicContributions": 9,
     "createdAt": "2015-07-04T19:51:34Z"
   },
