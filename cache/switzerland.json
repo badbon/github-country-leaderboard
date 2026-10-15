@@ -23420,7 +23420,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 165,
+    "publicContributions": 54,
     "createdAt": "2022-05-08T15:11:18Z"
   },
   {
@@ -23430,9 +23430,9 @@
     "location": "Zurich, Switzerland / Taipei, Taiwan",
     "company": "Empa, Swiss Federal Laboratories for Materials Science and Technology",
     "twitterUsername": "BartonChenTW",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 201,
+    "publicContributions": 668,
     "createdAt": "2022-02-24T12:49:04Z"
   },
   {
@@ -23442,9 +23442,9 @@
     "location": "Geneva, Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 538,
+    "followers": 529,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2022-02-11T11:13:51Z"
   },
   {
@@ -23454,9 +23454,9 @@
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "c22_dev",
-    "followers": 348,
-    "privateContributions": 186,
-    "publicContributions": 552,
+    "followers": 450,
+    "privateContributions": 344,
+    "publicContributions": 1233,
     "createdAt": "2022-03-23T13:45:07Z"
   },
   {
@@ -23466,9 +23466,9 @@
     "location": "Zurich, Switzerland",
     "company": "IBM Research",
     "twitterUsername": "",
-    "followers": 223,
-    "privateContributions": 3,
-    "publicContributions": 1447,
+    "followers": 240,
+    "privateContributions": 338,
+    "publicContributions": 1562,
     "createdAt": "2022-01-04T12:34:08Z"
   },
   {
@@ -23478,19 +23478,19 @@
     "location": "Switzerland",
     "company": "Creative Web Studio GmbH",
     "twitterUsername": "",
-    "followers": 216,
-    "privateContributions": 26,
+    "followers": 178,
+    "privateContributions": 29,
     "publicContributions": 27,
     "createdAt": "2022-03-22T07:02:00Z"
   },
   {
     "login": "buzzcosm",
-    "name": "Evgueni Kounik \\n(Jeff_Buzz)",
+    "name": "buzzcosm",
     "avatarUrl": "https://avatars.githubusercontent.com/u/97390468?s=72&u=76b1b589f6a33011bba11c89aaa013142066bffe&v=4",
     "location": "Zurich, Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 159,
+    "followers": 152,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2022-01-09T12:34:43Z"
@@ -23504,7 +23504,7 @@
     "twitterUsername": "YanyuanQiao",
     "followers": 67,
     "privateContributions": 0,
-    "publicContributions": 34,
+    "publicContributions": 23,
     "createdAt": "2022-03-14T06:26:08Z"
   },
   {
@@ -23514,7 +23514,7 @@
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 59,
+    "followers": 58,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-03-30T14:20:10Z"
@@ -23526,21 +23526,21 @@
     "location": "switzerland",
     "company": "",
     "twitterUsername": "siyabaldacc",
-    "followers": 55,
+    "followers": 56,
     "privateContributions": 0,
-    "publicContributions": 90,
+    "publicContributions": 188,
     "createdAt": "2022-05-05T21:25:54Z"
   },
   {
     "login": "satisfyu",
     "name": "mrclb - Marco",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/104036234?s=72&u=78d8433e2e616402546da2e99a22417019d49295&v=4",
-    "location": "Switzerland",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/104036234?s=72&u=93b65208dc57665c2667787357b7c81ef68c0abd&v=4",
+    "location": "Zurich, Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 48,
+    "followers": 49,
     "privateContributions": 0,
-    "publicContributions": 634,
+    "publicContributions": 584,
     "createdAt": "2022-04-19T21:32:46Z"
   },
   {
@@ -23552,7 +23552,7 @@
     "twitterUsername": "",
     "followers": 40,
     "privateContributions": 0,
-    "publicContributions": 32,
+    "publicContributions": 0,
     "createdAt": "2021-12-29T13:42:34Z"
   },
   {
@@ -23570,13 +23570,13 @@
   {
     "login": "Yanni8",
     "name": "Yannick Müller",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/99135388?s=72&u=4c39b32ebe50693386f26dac349aa33539d0b4b7&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/99135388?s=72&u=299ffb789295c5dbb202a7cb0364fe7239b58a80&v=4",
     "location": "Switzerland",
     "company": "@Roche",
     "twitterUsername": "",
-    "followers": 36,
-    "privateContributions": 27,
-    "publicContributions": 42,
+    "followers": 37,
+    "privateContributions": 25,
+    "publicContributions": 49,
     "createdAt": "2022-02-06T16:20:50Z"
   },
   {
@@ -23587,8 +23587,8 @@
     "company": "Swisscom AG",
     "twitterUsername": "isaaclinsdotcom",
     "followers": 36,
-    "privateContributions": 1534,
-    "publicContributions": 1877,
+    "privateContributions": 4732,
+    "publicContributions": 2453,
     "createdAt": "2022-05-01T18:35:48Z"
   },
   {
@@ -23598,7 +23598,7 @@
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 35,
+    "followers": 33,
     "privateContributions": 0,
     "publicContributions": 35,
     "createdAt": "2022-02-10T13:28:51Z"
@@ -23606,13 +23606,13 @@
   {
     "login": "userFRM",
     "name": "TalesOfThales",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/101120927?s=72&u=bad448dc0832d164f15df1d5fbab2871c8ced2cc&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/101120927?s=72&v=4",
     "location": "Switzerland",
     "company": "Kairos Systems",
     "twitterUsername": "",
-    "followers": 34,
-    "privateContributions": 5442,
-    "publicContributions": 3722,
+    "followers": 35,
+    "privateContributions": 5216,
+    "publicContributions": 7182,
     "createdAt": "2022-03-07T14:28:06Z"
   },
   {
@@ -23622,7 +23622,7 @@
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 33,
+    "followers": 34,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-04-01T11:43:50Z"
@@ -23634,9 +23634,9 @@
     "location": "Switzerland",
     "company": "EPFL",
     "twitterUsername": "",
-    "followers": 29,
+    "followers": 32,
     "privateContributions": 0,
-    "publicContributions": 162,
+    "publicContributions": 103,
     "createdAt": "2022-05-13T12:49:53Z"
   },
   {
@@ -23648,7 +23648,7 @@
     "twitterUsername": "",
     "followers": 28,
     "privateContributions": 14,
-    "publicContributions": 39,
+    "publicContributions": 34,
     "createdAt": "2022-01-16T09:01:22Z"
   },
   {

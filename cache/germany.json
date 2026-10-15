@@ -846127,7 +846127,7 @@
     "company": "",
     "twitterUsername": "variiuz",
     "followers": 8,
-    "privateContributions": 2790,
+    "privateContributions": 2792,
     "publicContributions": 244,
     "createdAt": "2018-02-23T21:05:04Z"
   },
@@ -847198,5 +847198,17 @@
     "privateContributions": 258,
     "publicContributions": 275,
     "createdAt": "2026-05-29T11:44:54Z"
+  },
+  {
+    "login": "ZuraKajaia565",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/91433364?s=72&v=4",
+    "location": "Germany",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 53,
+    "createdAt": "2021-09-26T19:17:18Z"
   }
 ]

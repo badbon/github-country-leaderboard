@@ -1380043,7 +1380043,7 @@
     "company": "Arcnovus",
     "twitterUsername": "",
     "followers": 327,
-    "privateContributions": 6853,
+    "privateContributions": 6855,
     "publicContributions": 136,
     "createdAt": "2013-07-06T04:27:19Z"
   },
@@ -1424851,7 +1424851,7 @@
     "company": "Shopify",
     "twitterUsername": "",
     "followers": 127,
-    "privateContributions": 2904,
+    "privateContributions": 2911,
     "publicContributions": 1,
     "createdAt": "2013-09-18T15:25:30Z"
   },
@@ -1425334,5 +1425334,17 @@
     "privateContributions": 192,
     "publicContributions": 0,
     "createdAt": "2018-11-27T15:20:51Z"
+  },
+  {
+    "login": "vurg",
+    "name": "Nas Vurgun",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/122744234?s=72&u=826fe1444de934ec80112177e86c23cfae68f45e&v=4",
+    "location": "Toronto, ON, Canada",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 20,
+    "privateContributions": 3,
+    "publicContributions": 7,
+    "createdAt": "2023-01-15T17:28:55Z"
   }
 ]

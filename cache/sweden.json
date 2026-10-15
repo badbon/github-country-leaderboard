@@ -22878,7 +22878,7 @@
     "location": "Sjöbo, Sweden",
     "company": "",
     "twitterUsername": "",
-    "followers": 40,
+    "followers": 34,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-12-28T06:50:18Z"
@@ -22891,8 +22891,8 @@
     "company": "Storedsafe",
     "twitterUsername": "",
     "followers": 36,
-    "privateContributions": 28,
-    "publicContributions": 37,
+    "privateContributions": 19,
+    "publicContributions": 6,
     "createdAt": "2023-05-17T15:25:30Z"
   },
   {
@@ -22939,7 +22939,7 @@
     "company": "",
     "twitterUsername": "WilliamEspegren",
     "followers": 30,
-    "privateContributions": 6118,
+    "privateContributions": 9711,
     "publicContributions": 67,
     "createdAt": "2023-04-23T17:57:56Z"
   },
@@ -22952,7 +22952,7 @@
     "twitterUsername": "",
     "followers": 28,
     "privateContributions": 4,
-    "publicContributions": 7,
+    "publicContributions": 4,
     "createdAt": "2023-01-04T19:20:35Z"
   },
   {
@@ -22974,9 +22974,9 @@
     "location": "Sweden",
     "company": "",
     "twitterUsername": "",
-    "followers": 27,
+    "followers": 28,
     "privateContributions": 0,
-    "publicContributions": 257,
+    "publicContributions": 310,
     "createdAt": "2023-01-23T12:46:58Z"
   },
   {
@@ -22986,8 +22986,8 @@
     "location": "Stockholm, Sweden",
     "company": "",
     "twitterUsername": "",
-    "followers": 27,
-    "privateContributions": 49,
+    "followers": 25,
+    "privateContributions": 53,
     "publicContributions": 0,
     "createdAt": "2023-01-17T15:06:39Z"
   },
@@ -23034,9 +23034,9 @@
     "location": "Stockholm, Sweden",
     "company": "",
     "twitterUsername": "",
-    "followers": 23,
-    "privateContributions": 253,
-    "publicContributions": 585,
+    "followers": 24,
+    "privateContributions": 290,
+    "publicContributions": 470,
     "createdAt": "2023-01-06T18:35:11Z"
   },
   {
@@ -23058,22 +23058,10 @@
     "location": "Malmö, Sweden",
     "company": "Node Hill AB",
     "twitterUsername": "",
-    "followers": 22,
-    "privateContributions": 0,
-    "publicContributions": 36,
-    "createdAt": "2023-04-25T08:34:17Z"
-  },
-  {
-    "login": "vurg",
-    "name": "Nas Vurgun",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/122744234?s=72&u=826fe1444de934ec80112177e86c23cfae68f45e&v=4",
-    "location": "Sweden",
-    "company": "",
-    "twitterUsername": "",
     "followers": 21,
-    "privateContributions": 1,
-    "publicContributions": 25,
-    "createdAt": "2023-01-15T17:28:55Z"
+    "privateContributions": 0,
+    "publicContributions": 14,
+    "createdAt": "2023-04-25T08:34:17Z"
   },
   {
     "login": "AlesanDemiri",
@@ -23094,9 +23082,9 @@
     "location": "Sweden",
     "company": "",
     "twitterUsername": "",
-    "followers": 21,
+    "followers": 22,
     "privateContributions": 203,
-    "publicContributions": 690,
+    "publicContributions": 689,
     "createdAt": "2023-06-26T08:50:24Z"
   },
   {
@@ -23106,9 +23094,9 @@
     "location": "Gothenburg, Sweden",
     "company": "Femhire",
     "twitterUsername": "",
-    "followers": 20,
-    "privateContributions": 77,
-    "publicContributions": 259,
+    "followers": 22,
+    "privateContributions": 69,
+    "publicContributions": 192,
     "createdAt": "2023-05-14T09:28:37Z"
   },
   {
