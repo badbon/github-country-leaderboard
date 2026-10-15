@@ -18,7 +18,7 @@ Indexed users: 1,176
 | 4 | [reizen-desu](https://github.com/reizen-desu) | Reizen dos Santos | Maputo, Mozambique | 5,892 |
 | 5 | [afonsoDomingos](https://github.com/afonsoDomingos) | Afonso Domingos (Vibe) | Mozambique-Maputo | 5,635 |
 | 6 | [emagombe](https://github.com/emagombe) | Edson Magombe | Mozambique | 5,495 |
-| 7 | [hc12r](https://github.com/hc12r) | Pitch dev | Maputo, Mozambique | 4,992 |
+| 7 | [hc12r](https://github.com/hc12r) | Pitch dev | Maputo, Mozambique | 5,083 |
 | 8 | [caf-3](https://github.com/caf-3) | Tomas Caetano | Mozambique Maputo | 4,627 |
 | 9 | [JoneBulande](https://github.com/JoneBulande) | Jone  | Maputo, Mozambique | 4,320 |
 | 10 | [rnrnshn](https://github.com/rnrnshn) | rurushu | Mozambique | 3,892 |
@@ -40,7 +40,7 @@ Indexed users: 1,176
 | 1 | [afonsoDomingos](https://github.com/afonsoDomingos) | Afonso Domingos (Vibe) | Mozambique-Maputo | 5,635 |
 | 2 | [Uanela](https://github.com/Uanela) | Uanela Como | Beira, Sofala, Mozambique | 3,812 |
 | 3 | [enoqueJonas](https://github.com/enoqueJonas) | Enoque Macanda | Maputo, Mozambique | 2,643 |
-| 4 | [hc12r](https://github.com/hc12r) | Pitch dev | Maputo, Mozambique | 2,226 |
+| 4 | [hc12r](https://github.com/hc12r) | Pitch dev | Maputo, Mozambique | 2,274 |
 | 5 | [mabuie-test](https://github.com/mabuie-test) | Jorge Augusto Mabuie | Mozambique | 1,546 |
 | 6 | [tomaszaba](https://github.com/tomaszaba) | Tomás Zaba | Maputo | 1,269 |
 | 7 | [KainNhantumbo](https://github.com/KainNhantumbo) | Ubelloch | Mozambique, Maputo | 1,089 |
@@ -83,4 +83,4 @@ Indexed users: 1,176
 | 19 | [enoquetembe](https://github.com/enoquetembe) | Enoque Tembe | Maputo, Mozambique | 111 |
 | 20 | [mariomthree](https://github.com/mariomthree) | Mário M. Mabande | Maputo, Mozambique | 97 |
 
-Generated: 2026-10-15T00:15:57.353Z
+Generated: 2026-10-15T01:28:08.907Z

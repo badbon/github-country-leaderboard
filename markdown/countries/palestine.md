@@ -28,10 +28,10 @@ Indexed users: 2,200
 | 14 | [abusalameh](https://github.com/abusalameh) | Raja Abu Salameh | Jenin, Palestine | 4,581 |
 | 15 | [farahty](https://github.com/farahty) | Nimer Farahty | Palestine | 4,300 |
 | 16 | [Mahmoud-Skafi](https://github.com/Mahmoud-Skafi) | Mahmoud skafi | Palestine, Hebron   | 4,125 |
-| 17 | [m5atib](https://github.com/m5atib) | Muhaimen Khatib | Palestine | 3,880 |
-| 18 | [zreaqqasem](https://github.com/zreaqqasem) | Qasaem M.Zreaq | palestine | 3,820 |
-| 19 | [majdghithan](https://github.com/majdghithan) | Majd Ghithan | Palestine | 3,698 |
-| 20 | [yahya-iyaseh](https://github.com/yahya-iyaseh) | Yahya k AlAyaseh | Ramallah - Palestine | 3,647 |
+| 17 | [zaqoutabed](https://github.com/zaqoutabed) | Abdallah A. Zaqout | Gaza, Palestine | 4,113 |
+| 18 | [m5atib](https://github.com/m5atib) | Muhaimen Khatib | Palestine | 3,880 |
+| 19 | [zreaqqasem](https://github.com/zreaqqasem) | Qasaem M.Zreaq | palestine | 3,820 |
+| 20 | [majdghithan](https://github.com/majdghithan) | Majd Ghithan | Palestine | 3,698 |
 
 ## Public Contributions
 
@@ -75,12 +75,12 @@ Indexed users: 2,200
 | 11 | [Nedal-Esrar](https://github.com/Nedal-Esrar) | Nedal-Esrar Ahmad | Jenin, Palestine | 174 |
 | 12 | [Mohammad-Abohasan](https://github.com/Mohammad-Abohasan) | Mohammad Abohasan | Jenin, Palestine | 168 |
 | 13 | [MKhasib](https://github.com/MKhasib) | Majd Khasib | Ramallah,Palestine | 165 |
-| 14 | [abasjr](https://github.com/abasjr) | Abas D. Baskoro | Al Quds, Palestine | 153 |
-| 15 | [Bamieh](https://github.com/Bamieh) | Ahmad Bamieh | Palestine | 152 |
-| 16 | [MrM8BRH](https://github.com/MrM8BRH) |  | Palestine | 152 |
+| 14 | [MrM8BRH](https://github.com/MrM8BRH) |  | Palestine | 162 |
+| 15 | [abasjr](https://github.com/abasjr) | Abas D. Baskoro | Al Quds, Palestine | 153 |
+| 16 | [Bamieh](https://github.com/Bamieh) | Ahmad Bamieh | Palestine | 152 |
 | 17 | [DiaeddinTahboub](https://github.com/DiaeddinTahboub) | Diaeddin Tahboub | Palestine - Ramallah | 148 |
 | 18 | [ShakerAlshurafa](https://github.com/ShakerAlshurafa) | Shaker Yousef | Palestine | 141 |
 | 19 | [dalia2323](https://github.com/dalia2323) |  | Qalqilya, Palestine | 127 |
 | 20 | [mhmdio](https://github.com/mhmdio) | Mohammed Almusaddar | Gaza, Palestine | 123 |
 
-Generated: 2026-10-15T00:22:31.848Z
+Generated: 2026-10-15T01:34:32.117Z

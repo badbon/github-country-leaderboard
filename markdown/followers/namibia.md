@@ -1,6 +1,6 @@
 # Followers - Namibia
 
-Generated: 2026-10-15T00:16:05.492Z
+Generated: 2026-10-15T01:29:09.585Z
 
 Users: 476
 
@@ -14,7 +14,7 @@ Users: 476
 | 6 | [afroGeM7](https://github.com/afroGeM7) | Gemma Usiku |  | gemmausiku | Namibia | 103 |
 | 7 | [Kacelo](https://github.com/Kacelo) | Vernon Kacelo | @nzzdev | KaceloVernon | Windhoek, Namibia | 99 |
 | 8 | [sekhubede](https://github.com/sekhubede) | Michael Sekhubede | The Document Warehouse Namibia |  | Namibia | 90 |
-| 9 | [Ngazetungue](https://github.com/Ngazetungue) | Ngazetungue Muheue | LaLoka Labs | muheuenga | Windhoek, Namibia | 61 |
+| 9 | [Ngazetungue](https://github.com/Ngazetungue) | Ngazetungue Muheue | LaLoka Labs | muheuenga | Windhoek, Namibia | 60 |
 | 10 | [WilhelmK109](https://github.com/WilhelmK109) | Wilhelm Naayole Kamulunga | Full-stack Developer |  | Windhoek, Namibia | 59 |
 | 11 | [aaron-muti-420](https://github.com/aaron-muti-420) | Aaron Markus | Zunda Inc |  | windhoek | 56 |
 | 12 | [douglasmasho](https://github.com/douglasmasho) | Douglas Mashonganyika | Adaire |  | Windhoek | 51 |

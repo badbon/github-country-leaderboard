@@ -55,7 +55,7 @@ Indexed users: 1,225
 | 16 | [SerZhyAle](https://github.com/SerZhyAle) | Serhii Zhyhunenko | Malta | 1,905 |
 | 17 | [terranc](https://github.com/terranc) | Terran | Malta | 1,866 |
 | 18 | [dfroberg](https://github.com/dfroberg) | Danny Froberg | Gozo, Malta | 1,443 |
-| 19 | [owenfar](https://github.com/owenfar) |  | Malta | 1,292 |
+| 19 | [owenfar](https://github.com/owenfar) |  | Malta | 1,305 |
 | 20 | [GefMar](https://github.com/GefMar) | Sergei Romanchuk | Malta | 1,287 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 1,225
 | 19 | [mattcg](https://github.com/mattcg) | Matthew Caruana Galizia | Malta | 126 |
 | 20 | [CM2Walki](https://github.com/CM2Walki) | Walki | Malta | 118 |
 
-Generated: 2026-10-15T00:11:30.239Z
+Generated: 2026-10-15T01:24:31.017Z

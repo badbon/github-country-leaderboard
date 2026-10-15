@@ -1,6 +1,6 @@
 # Total Contributions - Réunion
 
-Generated: 2026-10-15T00:25:49.813Z
+Generated: 2026-10-15T01:36:56.427Z
 
 Users: 212
 
@@ -11,14 +11,14 @@ Users: 212
 | 3 | [digikaizen](https://github.com/digikaizen) | DigiKaizen | DigiKaizen |  | Saint-Denis | 6438 |
 | 4 | [saiht](https://github.com/saiht) | Saiht |  |  | Reunion Island | 3844 |
 | 5 | [axelearning](https://github.com/axelearning) | Axel Rasse |  |  | Reunion island | 3551 |
-| 6 | [vittoriobusatta](https://github.com/vittoriobusatta) | vittorio | @mascarinreunion |  | Reunion Island | 2737 |
+| 6 | [vittoriobusatta](https://github.com/vittoriobusatta) | vittorio | @mascarinreunion |  | Reunion Island | 2731 |
 | 7 | [Nicolas-Begue](https://github.com/Nicolas-Begue) | Nicolas BEGUE 🐱‍👤 | Skydo Digital Studio |  | Saint-Denis | 2439 |
 | 8 | [Angra974](https://github.com/Angra974) | Thierry Parlier | 100Devs | mrnemesys | Reunion Island, France | 2411 |
-| 9 | [lvothnrv](https://github.com/lvothnrv) | LvothNrv |  |  | Reunion Island | 2069 |
-| 10 | [ralphi2811](https://github.com/ralphi2811) | Raphaël Auberlet | Nashi.cloud |  | Réunion Island | 2067 |
-| 11 | [Skiwa](https://github.com/Skiwa) | Julien Haegman |  |  | Saint-Denis, Réunion | 2040 |
+| 9 | [ralphi2811](https://github.com/ralphi2811) | Raphaël Auberlet | Nashi.cloud |  | Réunion Island | 2093 |
+| 10 | [lvothnrv](https://github.com/lvothnrv) | LvothNrv |  |  | Reunion Island | 2069 |
+| 11 | [Skiwa](https://github.com/Skiwa) | Julien Haegman |  |  | Saint-Denis, Réunion | 2044 |
 | 12 | [Gabouin](https://github.com/Gabouin) | Gabouin |  |  | Reunion Island | 2008 |
-| 13 | [John361](https://github.com/John361) | John |  |  | Réunion | 1891 |
+| 13 | [John361](https://github.com/John361) | John |  |  | Réunion | 1903 |
 | 14 | [IamArayel](https://github.com/IamArayel) | Arayel |  |  | Reunion Island | 1779 |
 | 15 | [kevinturpin97](https://github.com/kevinturpin97) | RainMan | @EpitechWebAcademiePromo2023  |  | Reunion Island, France | 1776 |
 | 16 | [Nasjoe](https://github.com/Nasjoe) | Jonas TURBEAUX | Code Commun Coop |  | Réunion Island, Villeurbanne, Montpellier : France | 1698 |

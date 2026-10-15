@@ -1,6 +1,6 @@
 # Total Contributions - Oman
 
-Generated: 2026-10-15T00:21:31.122Z
+Generated: 2026-10-15T01:33:22.516Z
 
 Users: 993
 
@@ -9,14 +9,14 @@ Users: 993
 | 1 | [Dippp10-ally](https://github.com/Dippp10-ally) | DIPIKA VAMAN KANTAPPA POOJARI | Barkat national ent llc |  | Oman | 95913 |
 | 2 | [Kmahmoudi](https://github.com/Kmahmoudi) | Kamran Mahmoudi | Bright Palm Solutions LLC |  | Muscat, Oman | 31085 |
 | 3 | [i4mjad](https://github.com/i4mjad) | Amjad Khalfan |  |  | Muscat, Oman | 14547 |
-| 4 | [7kylor](https://github.com/7kylor) | Taher Al Kiyumi |  |  | Muscat, OM. | 12862 |
-| 5 | [NasserAlbusaidi](https://github.com/NasserAlbusaidi) | Nasser Albusaidi | Rihal |  | Oman | 12630 |
-| 6 | [jaifar530](https://github.com/jaifar530) | Jaifar |  |  | Oman | 11511 |
+| 4 | [jaifar530](https://github.com/jaifar530) | Jaifar |  |  | Oman | 13206 |
+| 5 | [7kylor](https://github.com/7kylor) | Taher Al Kiyumi |  |  | Muscat, OM. | 12862 |
+| 6 | [NasserAlbusaidi](https://github.com/NasserAlbusaidi) | Nasser Albusaidi | Rihal |  | Oman | 12630 |
 | 7 | [bshbsh404](https://github.com/bshbsh404) | Bashir Hassan |  |  | Muscat, Oman | 10687 |
 | 8 | [alanqoudif](https://github.com/alanqoudif) | faisal al anqoudi | @NuqtaAI |  | Muscat, Oman 🇴🇲 | 9231 |
 | 9 | [aldhaifani](https://github.com/aldhaifani) | Tareq Al-Dhaifani |  |  | Muscat, Oman | 9005 |
-| 10 | [sanjeed5](https://github.com/sanjeed5) | Sanjeed |  | sanjeed_i | Bangalore / Oman  | 8318 |
-| 11 | [iamsj7](https://github.com/iamsj7) | Shaik Jaleel | @CarbonMobile @ForkLineageOS @NerdInfusions  | iamshaikjaleel | Muscat | 8204 |
+| 10 | [iamsj7](https://github.com/iamsj7) | Shaik Jaleel | @CarbonMobile @ForkLineageOS @NerdInfusions  | iamshaikjaleel | Muscat | 8676 |
+| 11 | [sanjeed5](https://github.com/sanjeed5) | Sanjeed |  | sanjeed_i | Bangalore / Oman  | 8318 |
 | 12 | [shm379](https://github.com/shm379) | Hussein | MrChatGPT |  | Muscat | 8038 |
 | 13 | [dmsherazi](https://github.com/dmsherazi) | Dost Muhammad Shah | Kindows Tech Solutions |  | Muscat, Oman | 7255 |
 | 14 | [DevAseel](https://github.com/DevAseel) | Aseel Al Rawahi | instaSpace |  | Oman | 6633 |

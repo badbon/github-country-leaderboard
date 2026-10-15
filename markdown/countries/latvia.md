@@ -44,16 +44,16 @@ Indexed users: 3,261
 | 5 | [rinkevich](https://github.com/rinkevich) | Andrejs Rinkevičs | Riga, Latvia | 2,889 |
 | 6 | [skakri](https://github.com/skakri) | Kristaps Karlsons | Latvia | 2,465 |
 | 7 | [mscbuild](https://github.com/mscbuild) | Yuri Dev | Latvia (Europe) | 2,419 |
-| 8 | [Prokuuudin](https://github.com/Prokuuudin) | Aleksandr Prokudin | Latvija, Riga | 2,098 |
-| 9 | [ar2rsawseen](https://github.com/ar2rsawseen) | Arturs Sosins | Latvia | 1,858 |
-| 10 | [dmytropolizhai](https://github.com/dmytropolizhai) | Dmytro Polizhai | Latvia, Riga | 1,850 |
-| 11 | [yarlson](https://github.com/yarlson) | Yar Kravtsov | Riga, Latvia | 1,820 |
-| 12 | [kristoferssolo](https://github.com/kristoferssolo) | Kristofers Solo | Latvia | 1,576 |
-| 13 | [puikinsh](https://github.com/puikinsh) | Aigars Silkalns | Riga, Latvia | 1,507 |
-| 14 | [eglitise](https://github.com/eglitise) | Edgars Eglītis | Riga, Latvia | 1,422 |
-| 15 | [flancer64](https://github.com/flancer64) | Alex Gusev | Riga, Latvia | 1,419 |
-| 16 | [LilithStd](https://github.com/LilithStd) | Dmitrii | Latvia, Riga | 1,390 |
-| 17 | [resoltico](https://github.com/resoltico) | Ervins Strauhmanis | Riga, Latvia | 1,313 |
+| 8 | [resoltico](https://github.com/resoltico) | Ervins Strauhmanis | Riga, Latvia | 2,366 |
+| 9 | [Prokuuudin](https://github.com/Prokuuudin) | Aleksandr Prokudin | Latvija, Riga | 2,098 |
+| 10 | [ar2rsawseen](https://github.com/ar2rsawseen) | Arturs Sosins | Latvia | 1,858 |
+| 11 | [dmytropolizhai](https://github.com/dmytropolizhai) | Dmytro Polizhai | Latvia, Riga | 1,850 |
+| 12 | [yarlson](https://github.com/yarlson) | Yar Kravtsov | Riga, Latvia | 1,820 |
+| 13 | [kristoferssolo](https://github.com/kristoferssolo) | Kristofers Solo | Latvia | 1,576 |
+| 14 | [puikinsh](https://github.com/puikinsh) | Aigars Silkalns | Riga, Latvia | 1,507 |
+| 15 | [eglitise](https://github.com/eglitise) | Edgars Eglītis | Riga, Latvia | 1,422 |
+| 16 | [flancer64](https://github.com/flancer64) | Alex Gusev | Riga, Latvia | 1,419 |
+| 17 | [LilithStd](https://github.com/LilithStd) | Dmitrii | Latvia, Riga | 1,390 |
 | 18 | [Qaevix](https://github.com/Qaevix) | Qaevix | Riga | 1,281 |
 | 19 | [Ted-Rose](https://github.com/Ted-Rose) | Tedis Rozenfelds | Latvia | 1,216 |
 | 20 | [alanarzumanjan](https://github.com/alanarzumanjan) | Alan Arzumanjan | Latvia, Riga | 1,214 |
@@ -83,4 +83,4 @@ Indexed users: 3,261
 | 19 | [ruslanskorb](https://github.com/ruslanskorb) | Ruslan Skorb | Riga, Latvia | 226 |
 | 20 | [0ki](https://github.com/0ki) | Кirils Sоlovjоvs | Latvia | 225 |
 
-Generated: 2026-10-15T00:06:38.331Z
+Generated: 2026-10-15T01:21:15.574Z

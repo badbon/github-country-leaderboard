@@ -126,7 +126,7 @@ Published countries: 234
 | Macau | 439 | [View](./macau.md) |
 | Madagascar | 1,905 | [View](./madagascar.md) |
 | Malawi | 900 | [View](./malawi.md) |
-| Malaysia | 11,808 | [View](./malaysia.md) |
+| Malaysia | 11,807 | [View](./malaysia.md) |
 | Maldives | 354 | [View](./maldives.md) |
 | Mali | 348 | [View](./mali.md) |
 | Malta | 1,225 | [View](./malta.md) |
@@ -149,10 +149,10 @@ Published countries: 234
 | Nauru | 3 | [View](./nauru.md) |
 | Nepal | 14,124 | [View](./nepal.md) |
 | New Caledonia | 111 | [View](./new_caledonia.md) |
-| New Zealand | 12,155 | [View](./new_zealand.md) |
+| New Zealand | 12,154 | [View](./new_zealand.md) |
 | Nicaragua | 1,394 | [View](./nicaragua.md) |
 | Niger | 176 | [View](./niger.md) |
-| Nigeria | 33,215 | [View](./nigeria.md) |
+| Nigeria | 33,214 | [View](./nigeria.md) |
 | Niue | 4 | [View](./niue.md) |
 | Norfolk Island | 1 | [View](./norfolk_island.md) |
 | North Korea | 185 | [View](./north_korea.md) |
@@ -166,8 +166,8 @@ Published countries: 234
 | Panama | 1,069 | [View](./panama.md) |
 | Papua New Guinea | 296 | [View](./papua_new_guinea.md) |
 | Paraguay | 2,014 | [View](./paraguay.md) |
-| Peru | 9,779 | [View](./peru.md) |
-| Philippines | 19,783 | [View](./philippines.md) |
+| Peru | 9,778 | [View](./peru.md) |
+| Philippines | 19,782 | [View](./philippines.md) |
 | Pitcairn Islands | 5 | [View](./pitcairn_islands.md) |
 | Portugal | 28,450 | [View](./portugal.md) |
 | Puerto Rico | 1,534 | [View](./puerto_rico.md) |
@@ -175,7 +175,7 @@ Published countries: 234
 | Republic of the Congo | 298 | [View](./republic_of_the_congo.md) |
 | Réunion | 212 | [View](./reunion.md) |
 | Romania | 14,983 | [View](./romania.md) |
-| Rwanda | 3,522 | [View](./rwanda.md) |
+| Rwanda | 3,521 | [View](./rwanda.md) |
 | Saint Barthélemy | 1 | [View](./saint_barthelemy.md) |
 | Saint Helena, Ascension and Tristan da Cunha | 25 | [View](./saint_helena_ascension_and_tristan_da_cunha.md) |
 | Saint Kitts and Nevis | 5 | [View](./saint_kitts_and_nevis.md) |
@@ -239,4 +239,4 @@ Published countries: 234
 | Zambia | 1,339 | [View](./zambia.md) |
 | Zimbabwe | 1,654 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-15T01:18:12.143Z
+Generated: 2026-10-15T05:12:15.692Z

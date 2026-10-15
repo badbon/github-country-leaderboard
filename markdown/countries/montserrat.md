@@ -25,8 +25,8 @@ Indexed users: 291
 | 11 | [Faved](https://github.com/Faved) | Alan Bennett | Plymouth, Devon | 2,281 |
 | 12 | [jasonshillingford](https://github.com/jasonshillingford) | Jason Shillingford | Plymouth | 2,017 |
 | 13 | [pillingworth](https://github.com/pillingworth) | Paul Illingworth | Plymouth, Devon | 1,525 |
-| 14 | [bostonmyk](https://github.com/bostonmyk) | Mike Mykytyn | Plymouth | 1,419 |
-| 15 | [AnshLaw](https://github.com/AnshLaw) | Ansh R. Suryavanshi | Plymouth, MI | 1,397 |
+| 14 | [AnshLaw](https://github.com/AnshLaw) | Ansh R. Suryavanshi | Plymouth, MI | 1,473 |
+| 15 | [bostonmyk](https://github.com/bostonmyk) | Mike Mykytyn | Plymouth | 1,419 |
 | 16 | [418error](https://github.com/418error) | Andy 'Channie' Chan | Plymouth | 1,133 |
 | 17 | [samuel-duffield1](https://github.com/samuel-duffield1) | Sam Duffield | Plymouth | 1,078 |
 | 18 | [edgood1](https://github.com/edgood1) | Eddie Goodwin | Plymouth, MA | 991 |
@@ -83,4 +83,4 @@ Indexed users: 291
 | 19 | [BeresIvan](https://github.com/BeresIvan) |  | Plymouth, MN | 20 |
 | 20 | [binarytide](https://github.com/binarytide) | John McAndrews | Plymouth, Ma | 20 |
 
-Generated: 2026-10-15T00:15:37.662Z
+Generated: 2026-10-15T01:27:28.629Z

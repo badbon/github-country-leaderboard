@@ -1,6 +1,6 @@
 # Public Contributions - Mauritius
 
-Generated: 2026-10-15T00:13:42.481Z
+Generated: 2026-10-15T01:26:02.883Z
 
 Users: 713
 
@@ -13,9 +13,9 @@ Users: 713
 | 5 | [asvinb](https://github.com/asvinb) | Asvin Balloo | @10up  |  | Mauritius | 1577 |
 | 6 | [xelab04](https://github.com/xelab04) | Alex Bissessur |  |  | Mauritius | 1491 |
 | 7 | [MrSunshyne](https://github.com/MrSunshyne) | Sandeep Ramgolam | Livestorm | __sun__ | Mauritius | 1426 |
-| 8 | [eznix86](https://github.com/eznix86) | Bruno Bernard |  |  | Mauritius | 1371 |
-| 9 | [danielgithiomi](https://github.com/danielgithiomi) | Daniel Githiomi | Uniicy IT Limited | daniel_githiomi | Grand Baie, Mauritius | 1337 |
-| 10 | [Abdur-rahmaanJ](https://github.com/Abdur-rahmaanJ) | Abdur-Rahmaan Janhangeer | @compileralchemy  | osdotsystem | Mauritius | 1307 |
+| 8 | [danielgithiomi](https://github.com/danielgithiomi) | Daniel Githiomi | Uniicy IT Limited | daniel_githiomi | Grand Baie, Mauritius | 1337 |
+| 9 | [Abdur-rahmaanJ](https://github.com/Abdur-rahmaanJ) | Abdur-Rahmaan Janhangeer | @compileralchemy  | osdotsystem | Mauritius | 1307 |
+| 10 | [eznix86](https://github.com/eznix86) | Bruno Bernard |  |  | Mauritius | 1303 |
 | 11 | [Andriamahay11master](https://github.com/Andriamahay11master) | Andriamahay Henikaja IRIMANANA |  |  | Trianon, Mauritius | 1019 |
 | 12 | [jochenkirstaetter](https://github.com/jochenkirstaetter) | Jochen Kirstätter | IOS Indian Ocean Software Ltd. | JKirstaetter | Mauritius | 994 |
 | 13 | [BarbUk](https://github.com/BarbUk) | Julien Virey | @oceandba |  | Mauritius | 878 |

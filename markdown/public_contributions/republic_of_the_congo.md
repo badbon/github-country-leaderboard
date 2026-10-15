@@ -1,13 +1,13 @@
 # Public Contributions - Republic of the Congo
 
-Generated: 2026-10-15T00:25:23.915Z
+Generated: 2026-10-15T01:36:30.990Z
 
 Users: 298
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [gedeon2306](https://github.com/gedeon2306) | JihrelDev |  |  | Brazzaville | 1944 |
-| 2 | [Osiris-Balonga](https://github.com/Osiris-Balonga) | Emmanuel Osiris Balonga |  |  | Brazzaville, Congo | 1926 |
+| 2 | [Osiris-Balonga](https://github.com/Osiris-Balonga) | Emmanuel Osiris Balonga |  |  | Brazzaville, Congo | 1936 |
 | 3 | [josuebrunel](https://github.com/josuebrunel) | Josue Kouka |  | josuebrunel | Pointe-Noire (Congo) | 1173 |
 | 4 | [Shadow8021](https://github.com/Shadow8021) | Red_Sh@dow | Fite_Congo |  | Congo, brazzaville | 1054 |
 | 5 | [ksthecrowned](https://github.com/ksthecrowned) | Kaiser D. Styve | Hello World | kaiserstyve | Brazzaville | 726 |
@@ -25,4 +25,4 @@ Users: 298
 | 17 | [Ssnnee](https://github.com/Ssnnee) | Samuel Nandi |  | NandiSne | Republic of the Congo | 200 |
 | 18 | [arsene-akiana](https://github.com/arsene-akiana) | Arsène Gloire AKIANA  |  | AkianaArsene | Brazzaville, Congo | 195 |
 | 19 | [DMiyalu](https://github.com/DMiyalu) | Dieudonné Miyalu |  |  | congo | 193 |
-| 20 | [JBixx](https://github.com/JBixx) | HIRWA Jean Baptiste |  |  | Brazzaville, Republic of the Congo | 187 |
+| 20 | [MakVieSAinte](https://github.com/MakVieSAinte) | MakVieSAinte |  |  | Congo Brazzaville | 186 |

@@ -1,6 +1,6 @@
 # Followers - Nicaragua
 
-Generated: 2026-10-15T00:17:50.525Z
+Generated: 2026-10-15T01:31:39.617Z
 
 Users: 1394
 
@@ -11,7 +11,7 @@ Users: 1394
 | 3 | [Aleejandro26](https://github.com/Aleejandro26) | Aleejandro Lagu. | Qor Dev |  | [Rivas, Nicaragua] | 178 |
 | 4 | [QuesilloLover](https://github.com/QuesilloLover) | Adilia Moreno |  | openthe_window | Nicaragua | 158 |
 | 5 | [fitoria](https://github.com/fitoria) | Adolfo Fitoria |  |  | Mangua, Nicaragua | 146 |
-| 6 | [Victor-0rtiz](https://github.com/Victor-0rtiz) | Victor Oss |  |  | Nicaragua | 144 |
+| 6 | [Victor-0rtiz](https://github.com/Victor-0rtiz) | Victor Oss |  |  | Nicaragua | 143 |
 | 7 | [narencastellon](https://github.com/narencastellon) | Naren Castellon | @Nixtla |  | Nicaragua | 121 |
 | 8 | [hosmelq](https://github.com/hosmelq) | Hosmel Quintana |  | hosmelq | Managua, Nic | 114 |
 | 9 | [linuxmel27](https://github.com/linuxmel27) | Melvin Pineda |  |  | Leon, Nicaragua | 114 |

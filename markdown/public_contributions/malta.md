@@ -1,6 +1,6 @@
 # Public Contributions - Malta
 
-Generated: 2026-10-15T00:11:30.239Z
+Generated: 2026-10-15T01:24:31.017Z
 
 Users: 1225
 
@@ -24,5 +24,5 @@ Users: 1225
 | 16 | [SerZhyAle](https://github.com/SerZhyAle) | Serhii Zhyhunenko |  |  | Malta | 1905 |
 | 17 | [terranc](https://github.com/terranc) | Terran |  | terranc | Malta | 1866 |
 | 18 | [dfroberg](https://github.com/dfroberg) | Danny Froberg | @INFURA | dfroberg | Gozo, Malta | 1443 |
-| 19 | [owenfar](https://github.com/owenfar) |  | @owenfar |  | Malta | 1292 |
+| 19 | [owenfar](https://github.com/owenfar) |  | @owenfar |  | Malta | 1305 |
 | 20 | [GefMar](https://github.com/GefMar) | Sergei Romanchuk |  |  | Malta | 1287 |

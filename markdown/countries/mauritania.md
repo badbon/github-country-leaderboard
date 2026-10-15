@@ -47,7 +47,7 @@ Indexed users: 289
 | 8 | [12ahm-c](https://github.com/12ahm-c) | ahmed ismail | Mauritania  | 403 |
 | 9 | [sidi-maadh](https://github.com/sidi-maadh) |  Sidi Maadh | Nouakchott | 378 |
 | 10 | [ahmed-abdat](https://github.com/ahmed-abdat) | Ahmed Abdellahi Abdat | mauritania nouakchott | 308 |
-| 11 | [lbarsidati22](https://github.com/lbarsidati22) | Lbar Sidati | Nouakchott | 297 |
+| 11 | [lbarsidati22](https://github.com/lbarsidati22) | Lbar Sidati | Nouakchott | 296 |
 | 12 | [alibyh](https://github.com/alibyh) | Alibyh | Nouakchott-Mauritania | 264 |
 | 13 | [abdallahisouvi](https://github.com/abdallahisouvi) | Abdallahisouvi  | Nouakchott mauritanie  | 246 |
 | 14 | [ghalass](https://github.com/ghalass) | MED SALEM GHALASS | Mauritania | 240 |
@@ -83,4 +83,4 @@ Indexed users: 289
 | 19 | [mbareck7](https://github.com/mbareck7) | mbar3ck7 | Mauritania, Nouakchott | 25 |
 | 20 | [rajelmn](https://github.com/rajelmn) | ra_mn | mauritania | 24 |
 
-Generated: 2026-10-15T00:12:20.324Z
+Generated: 2026-10-15T01:25:37.275Z

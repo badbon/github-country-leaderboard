@@ -15,7 +15,7 @@ Indexed users: 1,394
 | 1 | [antonygiomarxdev](https://github.com/antonygiomarxdev) | Antony Giomar Hernández | Nicaragua | 9,320 |
 | 2 | [pacisauctor](https://github.com/pacisauctor) | Axel Garcia | Managua, Nicaragua | 8,715 |
 | 3 | [herroldreal](https://github.com/herroldreal) | Herrold H. Real | Nicaragua | 8,221 |
-| 4 | [LuiisDev21](https://github.com/LuiisDev21) | Luis Ordoñez | Managua, Nicaragua | 7,457 |
+| 4 | [LuiisDev21](https://github.com/LuiisDev21) | Luis Ordoñez | Managua, Nicaragua | 7,440 |
 | 5 | [williamjmorenor](https://github.com/williamjmorenor) | William Moreno | Managua Nicaragua | 7,381 |
 | 6 | [ahjavier](https://github.com/ahjavier) | Javier Alvarez | Nicaragua | 7,123 |
 | 7 | [alfchee](https://github.com/alfchee) | Alfchee | Nicaragua | 5,367 |
@@ -28,7 +28,7 @@ Indexed users: 1,394
 | 14 | [fabmnt](https://github.com/fabmnt) | Fabián Montoya | Nicaragua | 3,723 |
 | 15 | [ernestoruiz89](https://github.com/ernestoruiz89) | Ernesto Ruiz | Nicaragua | 3,655 |
 | 16 | [paulomcnally](https://github.com/paulomcnally) | Paulo McNally | Mangua, Nicaragua | 3,536 |
-| 17 | [kenetpicado](https://github.com/kenetpicado) | Kenet | León, Nicaragua | 3,460 |
+| 17 | [kenetpicado](https://github.com/kenetpicado) | Kenet | León, Nicaragua | 3,420 |
 | 18 | [edycarreyes99](https://github.com/edycarreyes99) | Edycar Reyes | Nicaragua | 3,355 |
 | 19 | [eatorres510](https://github.com/eatorres510) | Erick Alexander Torres Prado | Nicaragua | 3,325 |
 | 20 | [ElVatoEste](https://github.com/ElVatoEste) | VatoDev | Nicaragua | 3,263 |
@@ -67,7 +67,7 @@ Indexed users: 1,394
 | 3 | [Aleejandro26](https://github.com/Aleejandro26) | Aleejandro Lagu. | [Rivas, Nicaragua] | 178 |
 | 4 | [QuesilloLover](https://github.com/QuesilloLover) | Adilia Moreno | Nicaragua | 158 |
 | 5 | [fitoria](https://github.com/fitoria) | Adolfo Fitoria | Mangua, Nicaragua | 146 |
-| 6 | [Victor-0rtiz](https://github.com/Victor-0rtiz) | Victor Oss | Nicaragua | 144 |
+| 6 | [Victor-0rtiz](https://github.com/Victor-0rtiz) | Victor Oss | Nicaragua | 143 |
 | 7 | [narencastellon](https://github.com/narencastellon) | Naren Castellon | Nicaragua | 121 |
 | 8 | [hosmelq](https://github.com/hosmelq) | Hosmel Quintana | Managua, Nic | 114 |
 | 9 | [linuxmel27](https://github.com/linuxmel27) | Melvin Pineda | Leon, Nicaragua | 114 |
@@ -83,4 +83,4 @@ Indexed users: 1,394
 | 19 | [dannygaray60](https://github.com/dannygaray60) | Danny Garay | Nicaragua | 61 |
 | 20 | [jonathanquehay](https://github.com/jonathanquehay) | Jonathán Moreno | Nicaragua | 60 |
 
-Generated: 2026-10-15T00:17:50.525Z
+Generated: 2026-10-15T01:31:39.617Z

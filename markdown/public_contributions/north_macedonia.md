@@ -1,6 +1,6 @@
 # Public Contributions - North Macedonia
 
-Generated: 2026-10-15T00:20:38.969Z
+Generated: 2026-10-15T01:33:11.790Z
 
 Users: 1929
 
@@ -10,10 +10,10 @@ Users: 1929
 | 2 | [martinpetkovski](https://github.com/martinpetkovski) | Martin | KAMAi MEDIA | misteriozen | Bitola, Macedonia | 2275 |
 | 3 | [bokic](https://github.com/bokic) | Boris Barbulovski |  |  | North Macedonia | 2235 |
 | 4 | [tino097](https://github.com/tino097) | Konstantin Sivakov | @MindsDB | tino097 | Bitola, North Macedonia | 1829 |
-| 5 | [ZoranPandovski](https://github.com/ZoranPandovski) | Zoran Pandovski | @mindsdb | ZoranPandovski | Bitola, North Macedonia | 1358 |
-| 6 | [oliverlaz](https://github.com/oliverlaz) | Oliver Lazoroski | @GetStream | _oliverlaz | Skopje, Macedonia | 1348 |
-| 7 | [andrejsshell](https://github.com/andrejsshell) | Andrej | @usekaneo | andrejsshell | Skopje | 1147 |
-| 8 | [ivasilov](https://github.com/ivasilov) | Ivan Vasilov | @supabase |  | Skopje, Macedonia | 1086 |
+| 5 | [oliverlaz](https://github.com/oliverlaz) | Oliver Lazoroski | @GetStream | _oliverlaz | Skopje, Macedonia | 1511 |
+| 6 | [ZoranPandovski](https://github.com/ZoranPandovski) | Zoran Pandovski | @mindsdb | ZoranPandovski | Bitola, North Macedonia | 1358 |
+| 7 | [ivasilov](https://github.com/ivasilov) | Ivan Vasilov | @supabase |  | Skopje, Macedonia | 1171 |
+| 8 | [andrejsshell](https://github.com/andrejsshell) | Andrej | @usekaneo | andrejsshell | Skopje | 1147 |
 | 9 | [VelikovPetar](https://github.com/VelikovPetar) | Petar Velikov | @GetStream |  | Skopje, Republic of Macedonia | 1076 |
 | 10 | [martintrifunov](https://github.com/martintrifunov) | Martin Trifunov | CodeChem |  | Skopje, North Macedonia | 1008 |
 | 11 | [isekovanic](https://github.com/isekovanic) | Ivan Sekovanikj | @GetStream |  | Skopje, Macedonia | 1006 |

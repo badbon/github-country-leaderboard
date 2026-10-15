@@ -63,7 +63,7 @@ Indexed users: 1,534
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [darkoperator](https://github.com/darkoperator) | Carlos Perez | Puerto Rico | 2,193 |
-| 2 | [josean-dev](https://github.com/josean-dev) | Josean Martinez | Puerto Rico | 1,384 |
+| 2 | [josean-dev](https://github.com/josean-dev) | Josean Martinez | Puerto Rico | 1,386 |
 | 3 | [shawntabrizi](https://github.com/shawntabrizi) | Shawn Tabrizi | Puerto Rico | 1,114 |
 | 4 | [Sparragus](https://github.com/Sparragus) | Richard B. Kaufman-López | Puerto Rico | 689 |
 | 5 | [NathanSweet](https://github.com/NathanSweet) | Nathan Sweet | Puerto Rico | 594 |
@@ -83,4 +83,4 @@ Indexed users: 1,534
 | 19 | [rnegron](https://github.com/rnegron) | Raúl Negrón-Otero | Bayamón, Puerto Rico | 113 |
 | 20 | [hackingbutlegal](https://github.com/hackingbutlegal) | Jackie Singh | San Juan, PR | 107 |
 
-Generated: 2026-10-15T00:24:43.104Z
+Generated: 2026-10-15T01:35:49.081Z

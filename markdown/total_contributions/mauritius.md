@@ -1,12 +1,12 @@
 # Total Contributions - Mauritius
 
-Generated: 2026-10-15T00:13:42.481Z
+Generated: 2026-10-15T01:26:02.883Z
 
 Users: 713
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [EdgarEldy](https://github.com/EdgarEldy) | EDGAR MUHAMYANGABO | @Accenture | EdgarEldy | Mauritius | 14288 |
+| 1 | [EdgarEldy](https://github.com/EdgarEldy) | EDGAR MUHAMYANGABO | @Accenture | EdgarEldy | Mauritius | 14191 |
 | 2 | [512banque](https://github.com/512banque) | Kevin Richard | SEObserver | 512banque | Mauritius | 7700 |
 | 3 | [borissedov](https://github.com/borissedov) | Boris Sedov |  |  | Tamarin, Mauritius | 7325 |
 | 4 | [cedpoilly](https://github.com/cedpoilly) | Cedric |  |  | Mauritius | 6612 |
@@ -17,7 +17,7 @@ Users: 713
 | 9 | [MrSunshyne](https://github.com/MrSunshyne) | Sandeep Ramgolam | Livestorm | __sun__ | Mauritius | 5557 |
 | 10 | [oliverox](https://github.com/oliverox) | Oliver Oxenham |  | oliveroxenham | Mauritius | 5287 |
 | 11 | [masterdubs](https://github.com/masterdubs) | Dubs | @starkleytech | mast3rdubs | Mauritius | 5159 |
-| 12 | [nyashaChiza](https://github.com/nyashaChiza) | Nyasha Chizampeni | EndFrame |  | Port Louis, Mauritius | 5013 |
+| 12 | [nyashaChiza](https://github.com/nyashaChiza) | Nyasha Chizampeni | EndFrame |  | Port Louis, Mauritius | 4946 |
 | 13 | [zfir](https://github.com/zfir) | Zafir Sk Heerah | @SharinPix @spoonconsulting @zfir-dev  | _zfir_ | Mauritius | 4052 |
 | 14 | [MGabala](https://github.com/MGabala) | Mateusz |  |  | Mauritius | 4041 |
 | 15 | [yayann](https://github.com/yayann) | Yann Labour |  |  | Mauritius | 3914 |

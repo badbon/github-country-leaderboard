@@ -1,6 +1,6 @@
 # Total Contributions - Myanmar
 
-Generated: 2026-10-15T00:15:59.456Z
+Generated: 2026-10-15T01:28:47.060Z
 
 Users: 2062
 
@@ -25,4 +25,4 @@ Users: 2062
 | 17 | [KHUN-NOON](https://github.com/KHUN-NOON) |  |  |  | Taunggyi, Myanmar | 3409 |
 | 18 | [YeMyoAung](https://github.com/YeMyoAung) | Ye Myo Aung | Klink.cloud | YeMyoAung994 | Myanmar/Mandalay | 3399 |
 | 19 | [MinThutaSawNaing](https://github.com/MinThutaSawNaing) | Min Thuta Saw Naing Eric | Myanmar Golden Rock International |  | Myanmar/ Singapore | 3322 |
-| 20 | [htetaunglin-coder](https://github.com/htetaunglin-coder) | Htet Aung Lin (Kelvin) |  | htetaunglin_cdr | Myanmar, Yangon | 3106 |
+| 20 | [win-than-htike](https://github.com/win-than-htike) | Win Than Htike |  |  | Yangon, Myanmar(Burma) | 3198 |

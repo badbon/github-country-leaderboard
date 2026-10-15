@@ -1,12 +1,12 @@
 # Public Contributions - Niger
 
-Generated: 2026-10-15T00:18:24.710Z
+Generated: 2026-10-15T01:31:45.904Z
 
 Users: 176
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [Yacine-ai-tech](https://github.com/Yacine-ai-tech) | Seybou Siddo Yacine |  |  | Niamey, Niger | 4137 |
+| 1 | [Yacine-ai-tech](https://github.com/Yacine-ai-tech) | Seybou Siddo Yacine |  |  | Niamey, Niger | 6473 |
 | 2 | [akaletekoffilevis](https://github.com/akaletekoffilevis) | akaletekoffilevis |  |  | Niger/Niamey | 1764 |
 | 3 | [kodjodevf](https://github.com/kodjodevf) | Moustapha Kodjo Amadou |  | kodjodevf | Niamey,Niger | 1146 |
 | 4 | [FadelMamar](https://github.com/FadelMamar) | Fadel |  |  | Niger | 1025 |
