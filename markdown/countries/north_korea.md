@@ -16,7 +16,7 @@ Indexed users: 185
 | 2 | [advanced-rising](https://github.com/advanced-rising) | risingcore | Democratic People's Republic of Korea | 5,087 |
 | 3 | [boyesjo](https://github.com/boyesjo) | Boye Sjo | pyongyang | 4,089 |
 | 4 | [sakweli](https://github.com/sakweli) | Josh Sakweli | North Korea | 2,462 |
-| 5 | [andrewlee1807](https://github.com/andrewlee1807) | Andrew | North Korea | 1,485 |
+| 5 | [andrewlee1807](https://github.com/andrewlee1807) | Andrew | North Korea | 1,488 |
 | 6 | [The-Red-Serpent](https://github.com/The-Red-Serpent) | The_Red_Serpent | Pyongyang, North Korea | 1,277 |
 | 7 | [henxdl](https://github.com/henxdl) | henxdl | Pyongyang, North Korea | 1,087 |
 | 8 | [iam-orsu](https://github.com/iam-orsu) | Vamsi Krishna | North Korea | 814 |
@@ -25,7 +25,7 @@ Indexed users: 185
 | 11 | [1zumiSagiri](https://github.com/1zumiSagiri) | Vincent Chan | Pyongyang | 570 |
 | 12 | [chihongze](https://github.com/chihongze) | chihongze |  P'yŏngyang, North Korea | 531 |
 | 13 | [dddqmmx](https://github.com/dddqmmx) | PaulPerkenstein | Pyongyang | 505 |
-| 14 | [DillerOFire](https://github.com/DillerOFire) | VerpaSRP | North Korea | 480 |
+| 14 | [DillerOFire](https://github.com/DillerOFire) | VerpaSRP | North Korea | 475 |
 | 15 | [renxiaoyaoo](https://github.com/renxiaoyaoo) | renxiaoyao | North Korea	 | 381 |
 | 16 | [Hexamouse](https://github.com/Hexamouse) | Muhamad Dzikri Maulana | Pyongyang, North Korea | 366 |
 | 17 | [PookiePepelsss](https://github.com/PookiePepelsss) | Pookie | North Korea | 351 |
@@ -49,7 +49,7 @@ Indexed users: 185
 | 10 | [RefrigerationUnit](https://github.com/RefrigerationUnit) | Julio Viejo | Pyongyang | 196 |
 | 11 | [renxiaoyaoo](https://github.com/renxiaoyaoo) | renxiaoyao | North Korea	 | 189 |
 | 12 | [july0785](https://github.com/july0785) | JULY | Pyongyang, DPR of Korea | 186 |
-| 13 | [andrewlee1807](https://github.com/andrewlee1807) | Andrew | North Korea | 183 |
+| 13 | [andrewlee1807](https://github.com/andrewlee1807) | Andrew | North Korea | 185 |
 | 14 | [VisionVerse](https://github.com/VisionVerse) | Vision Verse | North Korea | 174 |
 | 15 | [l1vstudios](https://github.com/l1vstudios) | L1V | North Korea | 173 |
 | 16 | [vega-holdings](https://github.com/vega-holdings) | Vega | Pyongyang | 137 |
@@ -83,4 +83,4 @@ Indexed users: 185
 | 19 | [satt-hri](https://github.com/satt-hri) | 稻草人(scarecrow) | North Korea | 15 |
 | 20 | [DillerOFire](https://github.com/DillerOFire) | VerpaSRP | North Korea | 14 |
 
-Generated: 2026-10-15T07:59:26.844Z
+Generated: 2026-10-15T09:26:06.537Z

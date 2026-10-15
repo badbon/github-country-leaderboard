@@ -18,7 +18,7 @@ Indexed users: 1,749
 | 4 | [icaliman](https://github.com/icaliman) | Ion Căliman | Moldova | 10,453 |
 | 5 | [danlapteacru](https://github.com/danlapteacru) | Dan Lapteacru | Ungheni, Moldova / Iasi, Romania | 8,074 |
 | 6 | [Nemo-Illusionist](https://github.com/Nemo-Illusionist) | Peter Radilov | Moldova | 7,286 |
-| 7 | [dotteamdev](https://github.com/dotteamdev) | Dan Oistric | Moldova | 6,534 |
+| 7 | [dotteamdev](https://github.com/dotteamdev) | Dan Oistric | Moldova | 6,910 |
 | 8 | [deniscuciuc](https://github.com/deniscuciuc) | Denis Cuciuc | Moldova | 6,455 |
 | 9 | [pv-a-ilievici](https://github.com/pv-a-ilievici) | Andrei Ilievici | Chisinau, Moldova | 6,072 |
 | 10 | [mtkachenk0](https://github.com/mtkachenk0) | Maxim Tkachenko | Chisinau, Moldova | 5,841 |
@@ -83,4 +83,4 @@ Indexed users: 1,749
 | 19 | [vgaidarji](https://github.com/vgaidarji) | Veaceslav Gaidarji | Moldova | 115 |
 | 20 | [Ernest96](https://github.com/Ernest96) | Ernest | Chisinau Moldova | 107 |
 
-Generated: 2026-10-15T07:54:03.101Z
+Generated: 2026-10-15T09:21:06.553Z

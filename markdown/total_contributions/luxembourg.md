@@ -1,8 +1,8 @@
 # Total Contributions - Luxembourg
 
-Generated: 2026-10-15T07:46:50.612Z
+Generated: 2026-10-15T09:12:48.325Z
 
-Users: 2191
+Users: 2190
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -13,9 +13,9 @@ Users: 2191
 | 5 | [FlorentNodz](https://github.com/FlorentNodz) | Florent | Nodz |  | Luxembourg | 16355 |
 | 6 | [leobenkel](https://github.com/leobenkel) | Leo Benkel | @Pure-Lambda  |  | Luxembourg | 14135 |
 | 7 | [JonBasse](https://github.com/JonBasse) | Jonathan Basse |  |  | Luxembourg | 12457 |
-| 8 | [kboumedal](https://github.com/kboumedal) | Kevin | @LuxApps  |  | Luxembourg | 11268 |
-| 9 | [KoStard](https://github.com/KoStard) | Ruben Kostandyan | Amazon |  | Luxembourg | 11009 |
-| 10 | [assaad](https://github.com/assaad) | Assaad Moawad |  |  | Luxembourg | 9834 |
+| 8 | [assaad](https://github.com/assaad) | Assaad Moawad |  |  | Luxembourg | 12187 |
+| 9 | [kboumedal](https://github.com/kboumedal) | Kevin | @LuxApps  |  | Luxembourg | 11268 |
+| 10 | [KoStard](https://github.com/KoStard) | Ruben Kostandyan | Amazon |  | Luxembourg | 11009 |
 | 11 | [bolivian-peru](https://github.com/bolivian-peru) | peruvian |  |  | Luxembourg | 9289 |
 | 12 | [SignedAdam](https://github.com/SignedAdam) | adam | Narkis.ai | signed_adam | Luxembourg | 9137 |
 | 13 | [samtin0x](https://github.com/samtin0x) | samtin0x |  |  | Luxembourg | 7072 |

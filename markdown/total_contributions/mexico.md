@@ -1,8 +1,8 @@
 # Total Contributions - Mexico
 
-Generated: 2026-10-15T07:53:58.850Z
+Generated: 2026-10-15T09:19:32.605Z
 
-Users: 23500
+Users: 23499
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

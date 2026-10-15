@@ -1,6 +1,6 @@
 # Public Contributions - North Korea
 
-Generated: 2026-10-15T07:59:26.844Z
+Generated: 2026-10-15T09:26:06.537Z
 
 Users: 185
 
@@ -18,7 +18,7 @@ Users: 185
 | 10 | [RefrigerationUnit](https://github.com/RefrigerationUnit) | Julio Viejo |  |  | Pyongyang | 196 |
 | 11 | [renxiaoyaoo](https://github.com/renxiaoyaoo) | renxiaoyao |  |  | North Korea	 | 189 |
 | 12 | [july0785](https://github.com/july0785) | JULY |  |  | Pyongyang, DPR of Korea | 186 |
-| 13 | [andrewlee1807](https://github.com/andrewlee1807) | Andrew |  |  | North Korea | 183 |
+| 13 | [andrewlee1807](https://github.com/andrewlee1807) | Andrew |  |  | North Korea | 185 |
 | 14 | [VisionVerse](https://github.com/VisionVerse) | Vision Verse |  |  | North Korea | 174 |
 | 15 | [l1vstudios](https://github.com/l1vstudios) | L1V |  |  | North Korea | 173 |
 | 16 | [vega-holdings](https://github.com/vega-holdings) | Vega | CGIC | vega_holdings | Pyongyang | 137 |

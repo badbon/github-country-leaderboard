@@ -43,7 +43,7 @@ Indexed users: 1,069
 | 4 | [nandocdev](https://github.com/nandocdev) | Fernando Castillo Valdés | Panama, Panama City | 2,689 |
 | 5 | [dsfaccini](https://github.com/dsfaccini) | David SF | Panama City | 2,485 |
 | 6 | [ergofobe](https://github.com/ergofobe) | Jim Phillips | Panama | 2,166 |
-| 7 | [Yizack](https://github.com/Yizack) | Yizack Rangel | Panama | 1,993 |
+| 7 | [Yizack](https://github.com/Yizack) | Yizack Rangel | Panama | 1,975 |
 | 8 | [kingg22](https://github.com/kingg22) | Rey | Panama | 1,951 |
 | 9 | [gonzalezulises](https://github.com/gonzalezulises) | Ulises Gonzalez | Panama | 1,844 |
 | 10 | [ArkoSammy12](https://github.com/ArkoSammy12) | James Villarreal | Panama City, Panama | 1,425 |
@@ -72,9 +72,9 @@ Indexed users: 1,069
 | 8 | [issaiass](https://github.com/issaiass) | Rangel Isaías Alvarado Walles | Panama City, Panama | 96 |
 | 9 | [Dandush03](https://github.com/Dandush03) | Daniel Laloush | Panama | 67 |
 | 10 | [DottieDot](https://github.com/DottieDot) | Taran | Panama | 64 |
-| 11 | [Kenth06](https://github.com/Kenth06) | Kenneth Rios | Panama | 61 |
-| 12 | [muniter](https://github.com/muniter) | Javier Lopez | Panama, Panama City | 61 |
-| 13 | [Yizack](https://github.com/Yizack) | Yizack Rangel | Panama | 61 |
+| 11 | [Yizack](https://github.com/Yizack) | Yizack Rangel | Panama | 62 |
+| 12 | [Kenth06](https://github.com/Kenth06) | Kenneth Rios | Panama | 61 |
+| 13 | [muniter](https://github.com/muniter) | Javier Lopez | Panama, Panama City | 61 |
 | 14 | [ibarria0](https://github.com/ibarria0) | Ivan Barria | Panama | 57 |
 | 15 | [joseabraham](https://github.com/joseabraham) | Jose Abraham Garcia | Panama | 56 |
 | 16 | [alexishevia](https://github.com/alexishevia) | Alexis Hevia | Panama City, Panama | 54 |
@@ -83,4 +83,4 @@ Indexed users: 1,069
 | 19 | [Commandtechno](https://github.com/Commandtechno) | Techno | David, Panama | 49 |
 | 20 | [Iardo](https://github.com/Iardo) | Ivan Ramos | Panama | 47 |
 
-Generated: 2026-10-15T08:02:09.948Z
+Generated: 2026-10-15T09:29:39.783Z

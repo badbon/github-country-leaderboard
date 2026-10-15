@@ -1,6 +1,6 @@
 # Total Contributions - North Korea
 
-Generated: 2026-10-15T07:59:26.844Z
+Generated: 2026-10-15T09:26:06.537Z
 
 Users: 185
 
@@ -10,7 +10,7 @@ Users: 185
 | 2 | [advanced-rising](https://github.com/advanced-rising) | risingcore |  |  | Democratic People's Republic of Korea | 5087 |
 | 3 | [boyesjo](https://github.com/boyesjo) | Boye Sjo | yo mama | elonmusk | pyongyang | 4089 |
 | 4 | [sakweli](https://github.com/sakweli) | Josh Sakweli | Qbit Spark | JosureSimon | North Korea | 2462 |
-| 5 | [andrewlee1807](https://github.com/andrewlee1807) | Andrew |  |  | North Korea | 1485 |
+| 5 | [andrewlee1807](https://github.com/andrewlee1807) | Andrew |  |  | North Korea | 1488 |
 | 6 | [The-Red-Serpent](https://github.com/The-Red-Serpent) | The_Red_Serpent |  |  | Pyongyang, North Korea | 1277 |
 | 7 | [henxdl](https://github.com/henxdl) | henxdl | Unemployed :) |  | Pyongyang, North Korea | 1087 |
 | 8 | [iam-orsu](https://github.com/iam-orsu) | Vamsi Krishna |  |  | North Korea | 814 |
@@ -19,7 +19,7 @@ Users: 185
 | 11 | [1zumiSagiri](https://github.com/1zumiSagiri) | Vincent Chan |  |  | Pyongyang | 570 |
 | 12 | [chihongze](https://github.com/chihongze) | chihongze |  |  |  P'yŏngyang, North Korea | 531 |
 | 13 | [dddqmmx](https://github.com/dddqmmx) | PaulPerkenstein | Workers' Party of Korea |  | Pyongyang | 505 |
-| 14 | [DillerOFire](https://github.com/DillerOFire) | VerpaSRP |  |  | North Korea | 480 |
+| 14 | [DillerOFire](https://github.com/DillerOFire) | VerpaSRP |  |  | North Korea | 475 |
 | 15 | [renxiaoyaoo](https://github.com/renxiaoyaoo) | renxiaoyao |  |  | North Korea	 | 381 |
 | 16 | [Hexamouse](https://github.com/Hexamouse) | Muhamad Dzikri Maulana |  |  | Pyongyang, North Korea | 366 |
 | 17 | [PookiePepelsss](https://github.com/PookiePepelsss) | Pookie | @Nebula-Softworks \| Nebula Softworks |  | North Korea | 351 |

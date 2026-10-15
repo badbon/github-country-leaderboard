@@ -1,6 +1,6 @@
 # Public Contributions - Puerto Rico
 
-Generated: 2026-10-15T08:05:51.334Z
+Generated: 2026-10-15T09:31:01.624Z
 
 Users: 1534
 
@@ -15,7 +15,7 @@ Users: 1534
 | 7 | [edwardlthompson](https://github.com/edwardlthompson) | Edward Thompson |  |  | Puerto Rico | 3411 |
 | 8 | [rnegron](https://github.com/rnegron) | Raúl Negrón-Otero | @PostHog |  | Bayamón, Puerto Rico | 3100 |
 | 9 | [shawntabrizi](https://github.com/shawntabrizi) | Shawn Tabrizi | @paritytech  | shawntabrizi | Puerto Rico | 2993 |
-| 10 | [cywf](https://github.com/cywf) | KP | @pr-cybr  |  | San Juan, PR | 2672 |
+| 10 | [cywf](https://github.com/cywf) | KP | @pr-cybr  |  | San Juan, PR | 2620 |
 | 11 | [rebelinux](https://github.com/rebelinux) | Jonathan Colon | IT Consultant |  | Puerto Rico | 2118 |
 | 12 | [jgravois](https://github.com/jgravois) | john gravois | @compilerla |  | san juan capo, ca | 1960 |
 | 13 | [ricardojuanmorales](https://github.com/ricardojuanmorales) | Ricardo Juan Morales De Jesús |  |  | San Juan, Puerto Rico | 1359 |

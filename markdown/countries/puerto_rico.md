@@ -46,7 +46,7 @@ Indexed users: 1,534
 | 7 | [edwardlthompson](https://github.com/edwardlthompson) | Edward Thompson | Puerto Rico | 3,411 |
 | 8 | [rnegron](https://github.com/rnegron) | Raúl Negrón-Otero | Bayamón, Puerto Rico | 3,100 |
 | 9 | [shawntabrizi](https://github.com/shawntabrizi) | Shawn Tabrizi | Puerto Rico | 2,993 |
-| 10 | [cywf](https://github.com/cywf) | KP | San Juan, PR | 2,672 |
+| 10 | [cywf](https://github.com/cywf) | KP | San Juan, PR | 2,620 |
 | 11 | [rebelinux](https://github.com/rebelinux) | Jonathan Colon | Puerto Rico | 2,118 |
 | 12 | [jgravois](https://github.com/jgravois) | john gravois | san juan capo, ca | 1,960 |
 | 13 | [ricardojuanmorales](https://github.com/ricardojuanmorales) | Ricardo Juan Morales De Jesús | San Juan, Puerto Rico | 1,359 |
@@ -83,4 +83,4 @@ Indexed users: 1,534
 | 19 | [rnegron](https://github.com/rnegron) | Raúl Negrón-Otero | Bayamón, Puerto Rico | 113 |
 | 20 | [hackingbutlegal](https://github.com/hackingbutlegal) | Jackie Singh | San Juan, PR | 107 |
 
-Generated: 2026-10-15T08:05:51.334Z
+Generated: 2026-10-15T09:31:01.624Z

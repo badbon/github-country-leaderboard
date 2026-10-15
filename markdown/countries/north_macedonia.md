@@ -50,8 +50,8 @@ Indexed users: 1,929
 | 11 | [isekovanic](https://github.com/isekovanic) | Ivan Sekovanikj | Skopje, Macedonia | 1,006 |
 | 12 | [ardijancuri](https://github.com/ardijancuri) | Ardijan Curi | Skopje | 982 |
 | 13 | [bfzli](https://github.com/bfzli) | Benjamin | North Macedonia | 933 |
-| 14 | [gocemitevski](https://github.com/gocemitevski) | Goce Mitevski | Skopje, North Macedonia | 922 |
-| 15 | [ssbarbee](https://github.com/ssbarbee) |  | Skopje, Macedonia | 890 |
+| 14 | [ssbarbee](https://github.com/ssbarbee) |  | Skopje, Macedonia | 890 |
+| 15 | [gocemitevski](https://github.com/gocemitevski) | Goce Mitevski | Skopje, North Macedonia | 887 |
 | 16 | [stojce](https://github.com/stojce) | Stojce Slavkovski | Skopje, Macedonia | 859 |
 | 17 | [KralMarko123](https://github.com/KralMarko123) | Marko Markovikj | Skopje | 839 |
 | 18 | [bor0](https://github.com/bor0) | Boro Sitnikovski | Skopje, North Macedonia | 814 |
@@ -83,4 +83,4 @@ Indexed users: 1,929
 | 19 | [bor0](https://github.com/bor0) | Boro Sitnikovski | Skopje, North Macedonia | 166 |
 | 20 | [gdamjan](https://github.com/gdamjan) | Дамјан Георгиевски | Skopje, Macedonia | 144 |
 
-Generated: 2026-10-15T07:59:33.043Z
+Generated: 2026-10-15T09:26:41.406Z

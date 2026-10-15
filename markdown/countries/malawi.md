@@ -38,7 +38,7 @@ Indexed users: 900
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [ColonelBlimp](https://github.com/ColonelBlimp) | ColonelBlimp | Mzuzu, Malawi | 4,723 |
-| 2 | [Iankulani](https://github.com/Iankulani) | Ian Carter Kulani | Mzimba, Malawi | 1,729 |
+| 2 | [Iankulani](https://github.com/Iankulani) | Ian Carter Kulani | Mzimba, Malawi | 1,754 |
 | 3 | [zikani03](https://github.com/zikani03) | Zikani Nyirenda Mwase | Lilongwe, Malawi | 1,615 |
 | 4 | [edisontaimu9-ui](https://github.com/edisontaimu9-ui) | Edison Taimu  | Malawi  | 1,281 |
 | 5 | [jelome265](https://github.com/jelome265) | Jelome Ngamuti | malawi | 1,119 |
@@ -62,7 +62,7 @@ Indexed users: 900
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [Iankulani](https://github.com/Iankulani) | Ian Carter Kulani | Mzimba, Malawi | 2,649 |
+| 1 | [Iankulani](https://github.com/Iankulani) | Ian Carter Kulani | Mzimba, Malawi | 2,657 |
 | 2 | [StevenKamwaza](https://github.com/StevenKamwaza) | Steven Kamwaza |  Malawi | 1,445 |
 | 3 | [ACT91](https://github.com/ACT91) | Stanley Gersom | Blantyre , Malawi | 768 |
 | 4 | [Marhardal](https://github.com/Marhardal) | Martin Harawa | Lilongwe Malaŵi  | 564 |
@@ -79,8 +79,8 @@ Indexed users: 900
 | 15 | [TgkCapture](https://github.com/TgkCapture) | tgkcapture | Blantyre, Malawi. | 198 |
 | 16 | [i-christian](https://github.com/i-christian) | Christian | Mzuzu, Malawi  | 176 |
 | 17 | [MalcolmorianVII](https://github.com/MalcolmorianVII) | Belson Malcolm Kutambe | Malawi | 153 |
-| 18 | [sam-zarila](https://github.com/sam-zarila) | sam zarila | Blantyre, Malawi | 145 |
+| 18 | [sam-zarila](https://github.com/sam-zarila) | sam zarila | Blantyre, Malawi | 146 |
 | 19 | [g1ftmkyelu](https://github.com/g1ftmkyelu) | codemaestro🚀 | 🇲🇼 Malawi | 131 |
 | 20 | [RodgerCodes](https://github.com/RodgerCodes) | Rodger Kumwanje | Malawi | 129 |
 
-Generated: 2026-10-15T07:48:05.040Z
+Generated: 2026-10-15T09:14:59.379Z
