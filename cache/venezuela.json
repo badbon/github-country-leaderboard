@@ -22160,7 +22160,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 42,
     "createdAt": "2022-03-18T23:53:00Z"
   },
   {
@@ -22195,8 +22195,8 @@
     "company": "Estudiante",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 725,
-    "publicContributions": 225,
+    "privateContributions": 817,
+    "publicContributions": 476,
     "createdAt": "2022-08-12T18:31:54Z"
   },
   {
@@ -22220,7 +22220,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 182,
+    "publicContributions": 159,
     "createdAt": "2022-12-08T04:02:45Z"
   },
   {
@@ -22228,11 +22228,11 @@
     "name": "Italo Visconti",
     "avatarUrl": "https://avatars.githubusercontent.com/u/108308939?s=72&u=6c6120e4d7acce0dbadf56c9212c021c02d7a912&v=4",
     "location": "Caracas",
-    "company": "@Prosperia",
+    "company": "",
     "twitterUsername": "",
-    "followers": 30,
-    "privateContributions": 1951,
-    "publicContributions": 59,
+    "followers": 31,
+    "privateContributions": 1838,
+    "publicContributions": 133,
     "createdAt": "2022-06-27T23:39:55Z"
   },
   {
@@ -22243,8 +22243,8 @@
     "company": "@DreamIT-VE ",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 1717,
-    "publicContributions": 337,
+    "privateContributions": 1593,
+    "publicContributions": 247,
     "createdAt": "2022-09-17T00:40:42Z"
   },
   {
@@ -22260,25 +22260,13 @@
     "createdAt": "2022-04-30T06:00:04Z"
   },
   {
-    "login": "martinrojasmet",
-    "name": "Martin Rojas",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/97409637?s=72&u=4f41b8bb4dd0bce65a389dd4d1e1a6f2eb490825&v=4",
-    "location": "Caracas",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 2,
-    "publicContributions": 19,
-    "createdAt": "2022-01-09T20:31:13Z"
-  },
-  {
     "login": "Marius115",
     "name": "Mariano Cascarano",
     "avatarUrl": "https://avatars.githubusercontent.com/u/96928602?s=72&u=97a5288c9bf85fd8cae3591ed2dd51e285e0ccc2&v=4",
     "location": "Caracas",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-01-01T00:08:44Z"
@@ -22292,7 +22280,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 41,
+    "publicContributions": 45,
     "createdAt": "2022-08-25T03:14:34Z"
   },
   {
@@ -22338,7 +22326,7 @@
     "location": "Caracas",
     "company": "Infosat C.A.",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-10-24T04:16:48Z"
@@ -22352,7 +22340,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 0,
     "createdAt": "2022-03-07T00:40:11Z"
   },
   {
@@ -22363,7 +22351,7 @@
     "company": "Yummy",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1017,
+    "privateContributions": 1778,
     "publicContributions": 0,
     "createdAt": "2022-08-12T14:19:48Z"
   },

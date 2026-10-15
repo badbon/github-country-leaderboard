@@ -22388,7 +22388,7 @@
     "twitterUsername": "",
     "followers": 20,
     "privateContributions": 8,
-    "publicContributions": 32,
+    "publicContributions": 29,
     "createdAt": "2023-05-21T11:24:05Z"
   },
   {
@@ -22398,7 +22398,7 @@
     "location": "Ethiopia, Adiss Ababa",
     "company": "Biruk Tech",
     "twitterUsername": "",
-    "followers": 20,
+    "followers": 22,
     "privateContributions": 8,
     "publicContributions": 2,
     "createdAt": "2023-07-10T09:15:30Z"
@@ -22410,9 +22410,9 @@
     "location": "Addis Ababa, Ethiopia",
     "company": "",
     "twitterUsername": "",
-    "followers": 19,
-    "privateContributions": 1351,
-    "publicContributions": 16,
+    "followers": 18,
+    "privateContributions": 1434,
+    "publicContributions": 15,
     "createdAt": "2023-04-24T22:28:56Z"
   },
   {
@@ -22423,8 +22423,8 @@
     "company": "@Abolsolution",
     "twitterUsername": "",
     "followers": 19,
-    "privateContributions": 6276,
-    "publicContributions": 940,
+    "privateContributions": 5123,
+    "publicContributions": 1116,
     "createdAt": "2023-02-15T08:21:28Z"
   },
   {
@@ -22435,33 +22435,21 @@
     "company": "",
     "twitterUsername": "",
     "followers": 19,
-    "privateContributions": 25,
-    "publicContributions": 334,
+    "privateContributions": 27,
+    "publicContributions": 338,
     "createdAt": "2023-03-30T04:45:14Z"
   },
   {
     "login": "Eazybel",
-    "name": "Ezedin Yassin",
+    "name": "Ezedin K. Yassin",
     "avatarUrl": "https://avatars.githubusercontent.com/u/131526601?s=72&u=57bb287968bd00a274d5dbc9efc46078e26ca6c1&v=4",
     "location": "Ethiopia",
     "company": "Syntax-Designs",
     "twitterUsername": "",
-    "followers": 19,
-    "privateContributions": 0,
-    "publicContributions": 445,
+    "followers": 20,
+    "privateContributions": 420,
+    "publicContributions": 864,
     "createdAt": "2023-04-22T10:39:23Z"
-  },
-  {
-    "login": "abelxo19",
-    "name": "Abel Atkelet",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/123619893?s=72&u=c03d7b54851527857c5060dfdab51ccab92a6f57&v=4",
-    "location": "Ethiopia",
-    "company": "Quantum Pulse Consulting",
-    "twitterUsername": "",
-    "followers": 19,
-    "privateContributions": 0,
-    "publicContributions": 73,
-    "createdAt": "2023-01-26T06:12:16Z"
   },
   {
     "login": "kalolani",
@@ -22470,9 +22458,9 @@
     "location": "Ethiopia",
     "company": "",
     "twitterUsername": "",
-    "followers": 18,
-    "privateContributions": 8,
-    "publicContributions": 0,
+    "followers": 17,
+    "privateContributions": 21,
+    "publicContributions": 5,
     "createdAt": "2023-01-20T08:41:40Z"
   },
   {
@@ -22482,7 +22470,7 @@
     "location": "Bahir Dar, Ethiopia",
     "company": "",
     "twitterUsername": "",
-    "followers": 18,
+    "followers": 15,
     "privateContributions": 0,
     "publicContributions": 95,
     "createdAt": "2023-02-04T21:09:48Z"
@@ -22494,9 +22482,9 @@
     "location": "Ethiopia",
     "company": "",
     "twitterUsername": "",
-    "followers": 18,
-    "privateContributions": 404,
-    "publicContributions": 221,
+    "followers": 17,
+    "privateContributions": 387,
+    "publicContributions": 199,
     "createdAt": "2023-11-03T10:42:14Z"
   },
   {
@@ -22506,9 +22494,9 @@
     "location": "Addis Abeba , Ethiopia",
     "company": "",
     "twitterUsername": "",
-    "followers": 18,
+    "followers": 19,
     "privateContributions": 0,
-    "publicContributions": 221,
+    "publicContributions": 77,
     "createdAt": "2023-03-17T20:45:39Z"
   },
   {
@@ -22518,9 +22506,9 @@
     "location": "Addis Ababa, Ethiopia",
     "company": "",
     "twitterUsername": "ItsNotorious69",
-    "followers": 19,
-    "privateContributions": 57,
-    "publicContributions": 130,
+    "followers": 23,
+    "privateContributions": 34,
+    "publicContributions": 121,
     "createdAt": "2023-12-22T14:53:54Z"
   },
   {
@@ -22530,7 +22518,7 @@
     "location": "Addis Ababa, Ethiopia",
     "company": "Addis Ababa Science and Technology University",
     "twitterUsername": "",
-    "followers": 18,
+    "followers": 16,
     "privateContributions": 0,
     "publicContributions": 77,
     "createdAt": "2023-10-28T11:02:21Z"
@@ -22542,9 +22530,9 @@
     "location": "Ethiopia",
     "company": "KAHAN INTELLIGENCE SYSTEMS",
     "twitterUsername": "yohannesgk1",
-    "followers": 18,
+    "followers": 19,
     "privateContributions": 0,
-    "publicContributions": 123,
+    "publicContributions": 116,
     "createdAt": "2023-02-13T11:28:38Z"
   },
   {
@@ -22554,9 +22542,9 @@
     "location": "Addis Abeba, Ethiopia ",
     "company": "Nova Technologies",
     "twitterUsername": "",
-    "followers": 18,
-    "privateContributions": 142,
-    "publicContributions": 11,
+    "followers": 20,
+    "privateContributions": 139,
+    "publicContributions": 12,
     "createdAt": "2023-10-21T12:16:07Z"
   },
   {
@@ -22566,9 +22554,9 @@
     "location": "Addis Ababa, Ethiopia",
     "company": "Bell-Bit",
     "twitterUsername": "",
-    "followers": 18,
-    "privateContributions": 3585,
-    "publicContributions": 40,
+    "followers": 17,
+    "privateContributions": 3621,
+    "publicContributions": 26,
     "createdAt": "2023-10-09T12:44:28Z"
   },
   {
@@ -22579,8 +22567,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 18,
-    "privateContributions": 163,
-    "publicContributions": 29,
+    "privateContributions": 111,
+    "publicContributions": 0,
     "createdAt": "2023-03-03T08:18:19Z"
   },
   {
@@ -22590,9 +22578,9 @@
     "location": "Ethiopia - Addis Ababa ",
     "company": "Bahirdar University",
     "twitterUsername": "",
-    "followers": 17,
-    "privateContributions": 465,
-    "publicContributions": 23,
+    "followers": 16,
+    "privateContributions": 505,
+    "publicContributions": 16,
     "createdAt": "2023-05-29T16:28:56Z"
   },
   {
@@ -22602,9 +22590,9 @@
     "location": "Adama, Ethiopia",
     "company": "",
     "twitterUsername": "",
-    "followers": 17,
-    "privateContributions": 12,
-    "publicContributions": 100,
+    "followers": 16,
+    "privateContributions": 47,
+    "publicContributions": 104,
     "createdAt": "2023-10-28T19:17:41Z"
   },
   {

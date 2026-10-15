@@ -1354975,7 +1354975,7 @@
     "company": "TNG Consulting Inc.",
     "twitterUsername": "",
     "followers": 33,
-    "privateContributions": 1502,
+    "privateContributions": 1504,
     "publicContributions": 258,
     "createdAt": "2013-03-08T12:22:37Z"
   },
@@ -1380043,7 +1380043,7 @@
     "company": "Arcnovus",
     "twitterUsername": "",
     "followers": 327,
-    "privateContributions": 6832,
+    "privateContributions": 6836,
     "publicContributions": 135,
     "createdAt": "2013-07-06T04:27:19Z"
   },
@@ -1425270,7 +1425270,7 @@
     "location": "Ottawa, CANADA",
     "company": "JOduMonT",
     "twitterUsername": "",
-    "followers": 54,
+    "followers": 53,
     "privateContributions": 0,
     "publicContributions": 160,
     "createdAt": "2013-08-10T20:23:16Z"
@@ -1425310,5 +1425310,17 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-12-24T17:29:59Z"
+  },
+  {
+    "login": "dsanchezp18",
+    "name": "Daniel Sanchez Pazmino",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/84305432?s=72&u=cfe08cb0d53c6c3d2f6c92bccd2eff2603b65a02&v=4",
+    "location": "Edmonton",
+    "company": "Government of Alberta/Laboratorio LIDE",
+    "twitterUsername": "daniel_ec18",
+    "followers": 36,
+    "privateContributions": 0,
+    "publicContributions": 1558,
+    "createdAt": "2021-05-17T05:26:03Z"
   }
 ]

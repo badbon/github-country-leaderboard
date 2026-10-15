@@ -22040,7 +22040,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 122,
+    "publicContributions": 121,
     "createdAt": "2025-10-03T11:13:59Z"
   },
   {
@@ -22052,7 +22052,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 10,
     "createdAt": "2025-10-03T22:33:06Z"
   },
   {
@@ -22064,7 +22064,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 27,
     "createdAt": "2025-11-28T12:04:31Z"
   },
   {
@@ -22074,7 +22074,7 @@
     "location": "Türkiye",
     "company": "@github",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 8,
     "createdAt": "2025-12-26T18:20:01Z"
@@ -22098,9 +22098,9 @@
     "location": "İzmir, Türkiye",
     "company": "PhaseGrowth",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 422,
-    "publicContributions": 333,
+    "followers": 3,
+    "privateContributions": 827,
+    "publicContributions": 321,
     "createdAt": "2025-01-21T17:38:32Z"
   },
   {
@@ -22112,19 +22112,19 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 30,
+    "publicContributions": 42,
     "createdAt": "2025-02-14T17:52:52Z"
   },
   {
     "login": "Kurwei",
     "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/225612957?s=72&u=b6e98940d4c169d39ba4f5dd652a4d9f79cdcd63&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/225612957?s=72&u=05b97f88f641ef7e3c71d7916d2173330a23ef5b&v=4",
     "location": "Türkiye",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 16,
     "createdAt": "2025-08-09T20:43:18Z"
   },
   {
@@ -22136,7 +22136,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 16,
     "createdAt": "2025-09-16T15:06:37Z"
   },
   {
@@ -22148,7 +22148,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 23,
     "createdAt": "2025-09-25T09:27:15Z"
   },
   {
@@ -22158,9 +22158,9 @@
     "location": "Ankara, Türkiye",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 5,
     "createdAt": "2025-08-27T10:40:49Z"
   },
   {
@@ -22184,7 +22184,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 94,
+    "publicContributions": 39,
     "createdAt": "2025-04-27T20:06:44Z"
   },
   {
@@ -22206,9 +22206,9 @@
     "location": "Türkiye",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 107,
+    "publicContributions": 94,
     "createdAt": "2025-08-05T10:34:12Z"
   },
   {
@@ -22232,20 +22232,8 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-10-01T12:26:34Z"
-  },
-  {
-    "login": "AsyaCorp",
-    "name": "Asya",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/242056290?s=72&u=87c1e23cdcaa25dcb4e3722cbe51714ee4d41528&v=4",
-    "location": "İstanbul,Türkiye",
-    "company": "ASYA Corp",
-    "twitterUsername": "AsyaIntTech",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2025-11-04T19:27:02Z"
   },
   {
     "login": "Lifecharger",
@@ -22255,8 +22243,8 @@
     "company": "Çağatay Özer",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1132,
-    "publicContributions": 129,
+    "privateContributions": 2124,
+    "publicContributions": 215,
     "createdAt": "2025-11-09T19:09:32Z"
   },
   {
@@ -950290,5 +950278,17 @@
     "privateContributions": 0,
     "publicContributions": 5,
     "createdAt": "2026-06-24T13:33:15Z"
+  },
+  {
+    "login": "hessamkhoobkar",
+    "name": "hessam_khoobkar",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/41147418?s=72&u=9aedc6994bb23ab38630e6ce768f8ab40c2f9ee7&v=4",
+    "location": "Istanbul, Türkiye",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 1,
+    "publicContributions": 139,
+    "createdAt": "2018-07-12T09:21:44Z"
   }
 ]

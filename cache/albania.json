@@ -8479,8 +8479,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1,
-    "publicContributions": 45,
+    "privateContributions": 5,
+    "publicContributions": 41,
     "createdAt": "2019-01-12T22:31:03Z"
   },
   {
@@ -8576,7 +8576,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2019-04-10T05:55:24Z"
   },
   {
@@ -8610,7 +8610,7 @@
     "location": "Tirana",
     "company": "Ritek",
     "twitterUsername": "",
-    "followers": 34,
+    "followers": 33,
     "privateContributions": 0,
     "publicContributions": 27,
     "createdAt": "2019-08-13T12:53:30Z"
@@ -8635,7 +8635,7 @@
     "company": "@square-al",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 2582,
+    "privateContributions": 2629,
     "publicContributions": 162,
     "createdAt": "2019-03-05T20:55:03Z"
   },
