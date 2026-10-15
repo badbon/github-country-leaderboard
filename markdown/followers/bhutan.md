@@ -1,13 +1,13 @@
 # Followers - Bhutan
 
-Generated: 2026-10-15T15:22:00.968Z
+Generated: 2026-10-15T16:48:10.699Z
 
 Users: 267
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [kinleyrabgay](https://github.com/kinleyrabgay) | Kinley Rabgay | @selisegroup | __kinleyrabgay | Thimphu, Bhutan | 144 |
-| 2 | [tsheringdendup77](https://github.com/tsheringdendup77) | Tshering Dendup | Selise Bhutan | TsherinDendup77 | Thimphu, Bhutan | 102 |
+| 2 | [tsheringdendup77](https://github.com/tsheringdendup77) | Tshering Dendup | Selise Bhutan | TsherinDendup77 | Thimphu, Bhutan | 103 |
 | 3 | [tashi-yangchen](https://github.com/tashi-yangchen) | Tashi Yangchen | Jigme Namgyel Engineering College |  | Dewangiri, Samdrup Jongkhar, Bhutan | 59 |
 | 4 | [jigmeloday](https://github.com/jigmeloday) | Jigme Lodey | Freelancer |  | Thimphu Bhutan | 45 |
 | 5 | [rewathkafley](https://github.com/rewathkafley) |  | Gives harsh MR comments so that people will cry. | rewathkafley | Thimphu, Bhutan | 44 |

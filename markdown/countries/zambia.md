@@ -1,6 +1,6 @@
 # Zambia
 
-Indexed users: 1,339
+Indexed users: 1,338
 
 | Leaderboard | Link |
 |---|---|
@@ -23,7 +23,7 @@ Indexed users: 1,339
 | 9 | [S4INT25](https://github.com/S4INT25) | luckson | lusaka zambia  | 5,309 |
 | 10 | [cacious7](https://github.com/cacious7) | Cacious Siamunyanga | Lusaka, Zambia | 4,384 |
 | 11 | [makayi](https://github.com/makayi) | Mbuyu  Makayi | Zambia | 4,253 |
-| 12 | [Acesulfame02](https://github.com/Acesulfame02) | Aaron Masembe | Lusaka, Lusaka, Zambia | 4,175 |
+| 12 | [Acesulfame02](https://github.com/Acesulfame02) | Aaron Masembe | Lusaka, Lusaka, Zambia | 4,247 |
 | 13 | [Jules369-ZM](https://github.com/Jules369-ZM) | JULIUS MARTIN BANDA | LUSAKA | 3,924 |
 | 14 | [genthegreat](https://github.com/genthegreat) | Prince Kwesi | Zambia | 3,497 |
 | 15 | [barthkapepula](https://github.com/barthkapepula) | Bartholomew Kapepula | Zambia | 3,449 |
@@ -83,4 +83,4 @@ Indexed users: 1,339
 | 19 | [blessedjasonmwanza](https://github.com/blessedjasonmwanza) | Blessed Jason Mwanza |  Lusaka, Zambia | 104 |
 | 20 | [Eathorne2](https://github.com/Eathorne2) | Eathorne | Lusaka, Zambia | 103 |
 
-Generated: 2026-10-15T15:13:37.549Z
+Generated: 2026-10-15T16:37:52.621Z

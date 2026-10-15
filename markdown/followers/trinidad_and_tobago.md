@@ -1,6 +1,6 @@
 # Followers - Trinidad and Tobago
 
-Generated: 2026-10-15T15:06:40.261Z
+Generated: 2026-10-15T16:33:40.798Z
 
 Users: 256
 
@@ -25,4 +25,4 @@ Users: 256
 | 17 | [azhareus](https://github.com/azhareus) | Azhar Ali | @Facebook | Azhareus_ | Trinidad and Tobago | 30 |
 | 18 | [SavageFRVR](https://github.com/SavageFRVR) | Keron Maharaj |  |  | Trinidad and Tobago | 30 |
 | 19 | [DionMS8](https://github.com/DionMS8) | Dion Singh | Freelance Developer  | Dion_MS8 | Trinidad and Tobago | 29 |
-| 20 | [wyntonfranklin](https://github.com/wyntonfranklin) | Wynton Franklin |  |  | Trinidad and Tobago | 29 |
+| 20 | [wyntonfranklin](https://github.com/wyntonfranklin) | Wynton Franklin |  |  | Trinidad and Tobago | 28 |

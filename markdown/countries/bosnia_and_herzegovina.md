@@ -62,7 +62,7 @@ Indexed users: 2,128
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [inputsh](https://github.com/inputsh) | Aleksandar Todorović | Sarajevo, Bosnia & Herzegovina | 717 |
+| 1 | [inputsh](https://github.com/inputsh) | Aleksandar Todorović | Sarajevo, Bosnia & Herzegovina | 730 |
 | 2 | [BenjaminMahmic](https://github.com/BenjaminMahmic) | Benjamin Mahmić | Zenica, Bosnia and Herzegovina | 464 |
 | 3 | [adnanrahic](https://github.com/adnanrahic) | Adnan Rahić | Sarajevo | 383 |
 | 4 | [enisdenjo](https://github.com/enisdenjo) | Denis Badurina | Sarajevo | 234 |
@@ -83,4 +83,4 @@ Indexed users: 2,128
 | 19 | [Mickey0001](https://github.com/Mickey0001) | Mirza Sisic | Sarajevo, Bosnia and Herzegovina  | 122 |
 | 20 | [sake92](https://github.com/sake92) | Sakib Hadžiavdić | Sarajevo, Bosnia | 118 |
 
-Generated: 2026-10-15T15:23:08.681Z
+Generated: 2026-10-15T16:48:40.225Z

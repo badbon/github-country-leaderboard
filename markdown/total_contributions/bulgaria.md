@@ -1,8 +1,8 @@
 # Total Contributions - Bulgaria
 
-Generated: 2026-10-15T15:25:11.785Z
+Generated: 2026-10-15T16:49:37.669Z
 
-Users: 14079
+Users: 14078
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

@@ -65,7 +65,7 @@ Indexed users: 727
 | 1 | [walidshaari](https://github.com/walidshaari) | Walid Shaari CNJ | Bahrain | 721 |
 | 2 | [naweed](https://github.com/naweed) | Naweed Akram | Bahrain | 243 |
 | 3 | [fairbird](https://github.com/fairbird) | RAED | Bahrain | 120 |
-| 4 | [0xRar](https://github.com/0xRar) |  | Bahrain | 114 |
+| 4 | [0xRar](https://github.com/0xRar) |  | Bahrain | 115 |
 | 5 | [burhan](https://github.com/burhan) | Burhan Khalid | Bahrain/Kuwait | 111 |
 | 6 | [ExTBH](https://github.com/ExTBH) | Natheer Radhi | Bahrain | 106 |
 | 7 | [mufarrah](https://github.com/mufarrah) | A.Rahman Mufarrah | Bahrain | 104 |
@@ -83,4 +83,4 @@ Indexed users: 727
 | 19 | [f-9t9it](https://github.com/f-9t9it) | 9T9 IT | Bahrain | 42 |
 | 20 | [ameenaltajer](https://github.com/ameenaltajer) | Ameen Altajer | Bahrain | 39 |
 
-Generated: 2026-10-15T15:20:27.666Z
+Generated: 2026-10-15T16:44:34.428Z

@@ -1,8 +1,8 @@
 # Followers - Zambia
 
-Generated: 2026-10-15T15:13:37.549Z
+Generated: 2026-10-15T16:37:52.621Z
 
-Users: 1339
+Users: 1338
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

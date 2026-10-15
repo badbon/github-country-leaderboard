@@ -1,12 +1,12 @@
 # Followers - Bosnia and Herzegovina
 
-Generated: 2026-10-15T15:23:08.681Z
+Generated: 2026-10-15T16:48:40.225Z
 
 Users: 2128
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [inputsh](https://github.com/inputsh) | Aleksandar Todorović |  |  | Sarajevo, Bosnia & Herzegovina | 717 |
+| 1 | [inputsh](https://github.com/inputsh) | Aleksandar Todorović |  |  | Sarajevo, Bosnia & Herzegovina | 730 |
 | 2 | [BenjaminMahmic](https://github.com/BenjaminMahmic) | Benjamin Mahmić | @StageCoding |  | Zenica, Bosnia and Herzegovina | 464 |
 | 3 | [adnanrahic](https://github.com/adnanrahic) | Adnan Rahić | @observIQ | adnanrahic | Sarajevo | 383 |
 | 4 | [enisdenjo](https://github.com/enisdenjo) | Denis Badurina | @denelop  | enisdenjo | Sarajevo | 234 |

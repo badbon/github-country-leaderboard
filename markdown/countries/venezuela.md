@@ -23,9 +23,9 @@ Indexed users: 6,627
 | 9 | [megalinker](https://github.com/megalinker) | Jesús Pérez | Caracas, Venezuela | 9,330 |
 | 10 | [darthony](https://github.com/darthony) | Antonio Figueroa | Venezuela | 9,260 |
 | 11 | [davidadc](https://github.com/davidadc) | David Delgado | Táchira, Venezuela. | 9,119 |
-| 12 | [orozCoding](https://github.com/orozCoding) | Angel Orozco | Venezuela | 8,522 |
-| 13 | [LuisAlejandro](https://github.com/LuisAlejandro) | Luis Alejandro | Maracay, Venezuela | 8,055 |
-| 14 | [The-BoxHead-Guy](https://github.com/The-BoxHead-Guy) | Jhon Alessandro | Venezuela | 7,875 |
+| 12 | [The-BoxHead-Guy](https://github.com/The-BoxHead-Guy) | Jhon Alessandro | Venezuela | 8,915 |
+| 13 | [orozCoding](https://github.com/orozCoding) | Angel Orozco | Venezuela | 8,522 |
+| 14 | [LuisAlejandro](https://github.com/LuisAlejandro) | Luis Alejandro | Maracay, Venezuela | 8,055 |
 | 15 | [wilmerjpg](https://github.com/wilmerjpg) | Wilmer Prieto | Caracas, Venezuela. | 7,859 |
 | 16 | [AlexMGP7](https://github.com/AlexMGP7) | Alexander | Venezuela | 7,356 |
 | 17 | [edinsonjohender](https://github.com/edinsonjohender) | Edinson Peña | Venezuela | 6,957 |
@@ -83,4 +83,4 @@ Indexed users: 6,627
 | 19 | [NTBBloodbath](https://github.com/NTBBloodbath) | Alejandro | Caracas, Venezuela | 179 |
 | 20 | [KellbisJ](https://github.com/KellbisJ) | Kellbis Salazar | Venezuela / Remote | 175 |
 
-Generated: 2026-10-15T15:12:06.374Z
+Generated: 2026-10-15T16:37:38.347Z

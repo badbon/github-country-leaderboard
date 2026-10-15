@@ -1,13 +1,13 @@
 # Total Contributions - Vatican City
 
-Generated: 2026-10-15T15:12:01.458Z
+Generated: 2026-10-15T16:37:33.601Z
 
 Users: 30
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [Czuowuek-SOS](https://github.com/Czuowuek-SOS) | amogus | Parufex |  | Vatican | 246 |
-| 2 | [Ventexx](https://github.com/Ventexx) | Ventex |  |  | Vatican City | 179 |
+| 2 | [Ventexx](https://github.com/Ventexx) | Ventex |  |  | Vatican City | 220 |
 | 3 | [kubonnt](https://github.com/kubonnt) |  |  |  | Vatican City | 158 |
 | 4 | [Wiktor-Borski](https://github.com/Wiktor-Borski) | Wiktor Borski |  |  | Vatican | 147 |
 | 5 | [LBreda](https://github.com/LBreda) | Lorenzo Breda | ISP Service |  | Vatican City State | 77 |
