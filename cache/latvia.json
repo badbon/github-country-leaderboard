@@ -22172,7 +22172,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 3,
     "createdAt": "2016-09-12T17:04:10Z"
   },
   {
@@ -22183,8 +22183,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 738,
-    "publicContributions": 0,
+    "privateContributions": 150,
+    "publicContributions": 5,
     "createdAt": "2016-06-16T13:33:53Z"
   },
   {
@@ -22208,7 +22208,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2016-12-10T10:46:15Z"
   },
   {
@@ -22230,9 +22230,9 @@
     "location": "Riga, Latvia",
     "company": "",
     "twitterUsername": "ItsMrUthman",
-    "followers": 2,
-    "privateContributions": 49,
-    "publicContributions": 2,
+    "followers": 4,
+    "privateContributions": 53,
+    "publicContributions": 1,
     "createdAt": "2016-08-25T09:23:56Z"
   },
   {
@@ -22255,8 +22255,8 @@
     "company": "",
     "twitterUsername": "daavisn",
     "followers": 2,
-    "privateContributions": 1157,
-    "publicContributions": 36,
+    "privateContributions": 1141,
+    "publicContributions": 37,
     "createdAt": "2016-02-11T09:05:39Z"
   },
   {
@@ -22310,11 +22310,11 @@
   {
     "login": "mightyPetra",
     "name": "Anastasia",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/18462020?s=72&u=283ff01f67bf7bc7b088f85f21a02c5c23ba395a&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/18462020?s=72&u=e0c7c207df08f8cb698b11ddb922cd5c66099b14&v=4",
     "location": "Latvia",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2016-04-14T11:10:20Z"

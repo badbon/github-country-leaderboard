@@ -3823,7 +3823,7 @@
     "company": "Banco Popular",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 211,
+    "privateContributions": 236,
     "publicContributions": 1,
     "createdAt": "2022-01-28T11:25:00Z"
   },
@@ -3895,7 +3895,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 439,
+    "privateContributions": 412,
     "publicContributions": 28,
     "createdAt": "2022-07-11T12:55:22Z"
   },
@@ -3930,7 +3930,7 @@
     "location": "San Juan-Argentina",
     "company": "",
     "twitterUsername": "",
-    "followers": 78,
+    "followers": 79,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-11-04T13:42:04Z"
@@ -3942,9 +3942,9 @@
     "location": "San Juan, PR",
     "company": "@pr-cybr ",
     "twitterUsername": "",
-    "followers": 52,
+    "followers": 51,
     "privateContributions": 715,
-    "publicContributions": 2672,
+    "publicContributions": 2620,
     "createdAt": "2022-03-03T09:27:49Z"
   },
   {
@@ -3962,12 +3962,12 @@
   {
     "login": "itsliamdowd",
     "name": "Liam Dowd",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/101684827?s=72&u=5d21372d0b31661f55321aaf87e6d54408ff18a0&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/101684827?s=72&u=bda3e0411223468915ff47f2c79db60fc0255d8f&v=4",
     "location": "San Juan Capistrano, California",
     "company": "",
     "twitterUsername": "",
-    "followers": 24,
-    "privateContributions": 1067,
+    "followers": 23,
+    "privateContributions": 1070,
     "publicContributions": 11,
     "createdAt": "2022-03-16T02:26:51Z"
   },
@@ -3992,7 +3992,7 @@
     "twitterUsername": "",
     "followers": 16,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 23,
     "createdAt": "2022-08-26T15:02:13Z"
   },
   {
@@ -4014,7 +4014,7 @@
     "location": "San Juan - Argentina",
     "company": "",
     "twitterUsername": "",
-    "followers": 13,
+    "followers": 12,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-03-03T02:35:44Z"
@@ -4051,7 +4051,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 133,
+    "privateContributions": 131,
     "publicContributions": 1,
     "createdAt": "2022-04-18T15:50:45Z"
   },

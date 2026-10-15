@@ -8869,14 +8869,14 @@
   },
   {
     "login": "diegozpy",
-    "name": "Diego Ospina",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/20244009?s=72&v=4",
+    "name": "iurix",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/20244009?s=72&u=a8e84037866dba7ed32a4a1c0e7a429ca73e14c9&v=4",
     "location": "Panama",
     "company": "",
-    "twitterUsername": "ospinasern",
-    "followers": 1,
+    "twitterUsername": "",
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 47,
     "createdAt": "2016-07-01T13:57:09Z"
   },
   {
@@ -8911,7 +8911,7 @@
     "company": "",
     "twitterUsername": "allan_coding",
     "followers": 1,
-    "privateContributions": 4456,
+    "privateContributions": 4581,
     "publicContributions": 269,
     "createdAt": "2016-10-19T18:48:39Z"
   },
@@ -8922,9 +8922,9 @@
     "location": "Panama",
     "company": "MailChannels",
     "twitterUsername": "YizackR",
-    "followers": 61,
-    "privateContributions": 670,
-    "publicContributions": 1993,
+    "followers": 62,
+    "privateContributions": 661,
+    "publicContributions": 1975,
     "createdAt": "2015-12-12T05:34:54Z"
   },
   {
@@ -8935,7 +8935,7 @@
     "company": "Eprezto.com",
     "twitterUsername": "",
     "followers": 56,
-    "privateContributions": 1271,
+    "privateContributions": 1288,
     "publicContributions": 4,
     "createdAt": "2015-01-09T19:39:06Z"
   },
@@ -8959,7 +8959,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 45,
-    "privateContributions": 375,
+    "privateContributions": 387,
     "publicContributions": 21,
     "createdAt": "2015-09-11T23:58:08Z"
   },
@@ -8982,7 +8982,7 @@
     "location": "Calle Winterfell, Puerto Armuelles, Panama",
     "company": "Fortinet",
     "twitterUsername": "roeefl",
-    "followers": 32,
+    "followers": 33,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-01-12T16:45:01Z"
@@ -9006,8 +9006,8 @@
     "location": "Panama",
     "company": "RalphCode",
     "twitterUsername": "",
-    "followers": 16,
-    "privateContributions": 125,
+    "followers": 17,
+    "privateContributions": 120,
     "publicContributions": 52,
     "createdAt": "2015-12-04T15:01:31Z"
   },
@@ -9031,7 +9031,7 @@
     "company": "Kaito Networks",
     "twitterUsername": "WolfantEc",
     "followers": 17,
-    "privateContributions": 1372,
+    "privateContributions": 1373,
     "publicContributions": 17,
     "createdAt": "2015-04-08T15:27:17Z"
   },
@@ -9042,7 +9042,7 @@
     "location": "Panama",
     "company": "@Time-of-Data ",
     "twitterUsername": "",
-    "followers": 16,
+    "followers": 17,
     "privateContributions": 779,
     "publicContributions": 233,
     "createdAt": "2015-06-10T06:06:44Z"
@@ -9055,7 +9055,7 @@
     "company": "@softd3v",
     "twitterUsername": "emmpaternina",
     "followers": 15,
-    "privateContributions": 218,
+    "privateContributions": 206,
     "publicContributions": 22,
     "createdAt": "2015-12-29T19:43:27Z"
   },
@@ -9067,7 +9067,7 @@
     "company": "Smithsonian Tropical Research Institute",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 61,
+    "privateContributions": 54,
     "publicContributions": 66,
     "createdAt": "2015-10-28T14:37:17Z"
   },

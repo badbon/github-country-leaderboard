@@ -22448,7 +22448,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 50,
+    "publicContributions": 164,
     "createdAt": "2019-12-05T17:59:32Z"
   },
   {
@@ -22507,7 +22507,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 401,
+    "privateContributions": 367,
     "publicContributions": 0,
     "createdAt": "2019-11-05T09:29:25Z"
   },
@@ -22556,7 +22556,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 2,
     "createdAt": "2019-12-16T13:58:55Z"
   },
   {
@@ -22567,7 +22567,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 224,
+    "privateContributions": 200,
     "publicContributions": 0,
     "createdAt": "2019-12-14T15:16:14Z"
   },
@@ -22580,7 +22580,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 166,
+    "publicContributions": 165,
     "createdAt": "2019-05-10T14:29:54Z"
   },
   {
@@ -22592,7 +22592,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 159,
+    "publicContributions": 264,
     "createdAt": "2019-07-28T21:01:25Z"
   },
   {
@@ -22603,7 +22603,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 948,
+    "privateContributions": 933,
     "publicContributions": 0,
     "createdAt": "2019-01-27T10:09:47Z"
   },
@@ -22616,32 +22616,20 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 69,
+    "publicContributions": 61,
     "createdAt": "2019-03-10T15:45:08Z"
   },
   {
     "login": "Hefaustas",
     "name": "Hefaustas",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/54642418?s=72&u=23fe25d6abaa8f48c2e5adeaea59bd61639da133&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/54642418?s=72&u=f673695531d9e79834d92fea0cda47315b5bd28b&v=4",
     "location": "Lithuania",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 33,
+    "publicContributions": 34,
     "createdAt": "2019-08-28T18:41:42Z"
-  },
-  {
-    "login": "dominykase",
-    "name": "Dominykas Eičinas",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/48015670?s=72&u=4835cff2aa20b852659ec93ad998ab899175b8dc&v=4",
-    "location": "Lithuania",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 21,
-    "publicContributions": 3,
-    "createdAt": "2019-02-26T11:06:56Z"
   },
   {
     "login": "dewitted",
