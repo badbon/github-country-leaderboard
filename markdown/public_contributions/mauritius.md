@@ -1,6 +1,6 @@
 # Public Contributions - Mauritius
 
-Generated: 2026-10-15T06:24:28.366Z
+Generated: 2026-10-15T07:52:44.847Z
 
 Users: 713
 
@@ -13,7 +13,7 @@ Users: 713
 | 5 | [asvinb](https://github.com/asvinb) | Asvin Balloo | @10up  |  | Mauritius | 1577 |
 | 6 | [xelab04](https://github.com/xelab04) | Alex Bissessur |  |  | Mauritius | 1491 |
 | 7 | [MrSunshyne](https://github.com/MrSunshyne) | Sandeep Ramgolam | Livestorm | __sun__ | Mauritius | 1426 |
-| 8 | [danielgithiomi](https://github.com/danielgithiomi) | Daniel Githiomi | Uniicy IT Limited | daniel_githiomi | Grand Baie, Mauritius | 1337 |
+| 8 | [danielgithiomi](https://github.com/danielgithiomi) | Daniel Githiomi | Uniicy IT Limited | daniel_githiomi | Grand Baie, Mauritius | 1308 |
 | 9 | [Abdur-rahmaanJ](https://github.com/Abdur-rahmaanJ) | Abdur-Rahmaan Janhangeer | @compileralchemy  | osdotsystem | Mauritius | 1307 |
 | 10 | [eznix86](https://github.com/eznix86) | Bruno Bernard |  |  | Mauritius | 1303 |
 | 11 | [Andriamahay11master](https://github.com/Andriamahay11master) | Andriamahay Henikaja IRIMANANA |  |  | Trianon, Mauritius | 1019 |
@@ -22,7 +22,7 @@ Users: 713
 | 14 | [rragoomundun](https://github.com/rragoomundun) | Raphael Ragoomundun |  |  | Mauritius | 672 |
 | 15 | [cbillowes](https://github.com/cbillowes) | Clarice Bouwer | Cloudsure Limited |  | Mauritius | 632 |
 | 16 | [w1am](https://github.com/w1am) | William Chong | @kurrent-io |  | Mauritius | 623 |
-| 17 | [MaskyS](https://github.com/MaskyS) | Kifah M |  | maskys_ | Mauritius | 603 |
-| 18 | [lakubuDavid](https://github.com/lakubuDavid) | Lakubu Mayanda David | @Solution-Inc  |  | Mauritius | 601 |
+| 17 | [lakubuDavid](https://github.com/lakubuDavid) | Lakubu Mayanda David | @Solution-Inc  |  | Mauritius | 614 |
+| 18 | [MaskyS](https://github.com/MaskyS) | Kifah M |  | maskys_ | Mauritius | 603 |
 | 19 | [ZiadJ](https://github.com/ZiadJ) | Ziad Jeeroburkhan |  |  | Mauritius | 563 |
 | 20 | [VishSeen](https://github.com/VishSeen) | Vishroy Seenarain |  | vish_seen | Port Louis, Mauritius | 528 |

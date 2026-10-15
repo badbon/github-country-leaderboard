@@ -1,8 +1,8 @@
 # Total Contributions - Rwanda
 
-Generated: 2026-10-15T06:39:34.047Z
+Generated: 2026-10-15T08:06:12.597Z
 
-Users: 3521
+Users: 3520
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -16,13 +16,13 @@ Users: 3521
 | 8 | [iAmNsengi](https://github.com/iAmNsengi) | Eliezer Nsengi | KB21 |  | Kigali, Rwanda | 9290 |
 | 9 | [Icyubahiro-Jay-P](https://github.com/Icyubahiro-Jay-P) | JAY P | Diolichat |  | Kigali, Rwanda | 9232 |
 | 10 | [codeWithEdison](https://github.com/codeWithEdison) | Edison UWIHANGANYE | UR Binary Hub |  | Rwanda | 9203 |
-| 11 | [princechrix](https://github.com/princechrix) | Prince Christian ISHIMWE |  |  | Kigali, Rwanda | 8563 |
-| 12 | [MugemaneBertin2001](https://github.com/MugemaneBertin2001) | Mugemane Bertin | GeminTech | MugemaneB | Kigali/Rwanda | 8467 |
-| 13 | [ProgrammerDATCH](https://github.com/ProgrammerDATCH) | Mr. David | @gokabisa | ProgrammerDATCH | Kigali Rwanda | 8432 |
-| 14 | [rubailly](https://github.com/rubailly) | Bailly Rurangirwa  |  |  | Rwanda | 8233 |
-| 15 | [Ndevu12](https://github.com/Ndevu12) | Jean Paul Elisa NIYOKWIZERWA | @Django-Rwanda @rwanda-computing-olympiad  @atlp-rwanda ATLP Andela | elion55698906 | Kigali Rwanda | 7642 |
-| 16 | [brunorwanda4](https://github.com/brunorwanda4) | Bruno Rwanda | @space-together-org  | rwanda_bruno | Rwanda/ Kigali | 7609 |
-| 17 | [Kevin-The-Cyber-Coder](https://github.com/Kevin-The-Cyber-Coder) | MUKESHIMANA KEVIN | Cyber Coding Arena |  | Kigali Rwanda | 7511 |
-| 18 | [nrep](https://github.com/nrep) | Elvis Peace NDAHAYO RUGERO | Digital Umuganda | ElvisPeaceNR | Rwanda | 7389 |
-| 19 | [mjeanbosco19](https://github.com/mjeanbosco19) | MUGIRANEZA Jean Bosco | @etite-ltd  | mjeanbosco19 | Kigali Rwanda | 7137 |
-| 20 | [Manzi-Elvis](https://github.com/Manzi-Elvis) | Elvis Manzi | MiCorp | _MRElvis_ | Rwanda | 7133 |
+| 11 | [EucTech](https://github.com/EucTech) | Ezeibe Uchechukwu |  | Euc_Tech | Kigali, Rwanda | 9071 |
+| 12 | [princechrix](https://github.com/princechrix) | Prince Christian ISHIMWE |  |  | Kigali, Rwanda | 8563 |
+| 13 | [MugemaneBertin2001](https://github.com/MugemaneBertin2001) | Mugemane Bertin | GeminTech | MugemaneB | Kigali/Rwanda | 8467 |
+| 14 | [ProgrammerDATCH](https://github.com/ProgrammerDATCH) | Mr. David | @gokabisa | ProgrammerDATCH | Kigali Rwanda | 8432 |
+| 15 | [rubailly](https://github.com/rubailly) | Bailly Rurangirwa  |  |  | Rwanda | 8233 |
+| 16 | [Ndevu12](https://github.com/Ndevu12) | Jean Paul Elisa NIYOKWIZERWA | @Django-Rwanda @rwanda-computing-olympiad  @atlp-rwanda ATLP Andela | elion55698906 | Kigali Rwanda | 7642 |
+| 17 | [brunorwanda4](https://github.com/brunorwanda4) | Bruno Rwanda | @space-together-org  | rwanda_bruno | Rwanda/ Kigali | 7609 |
+| 18 | [Kevin-The-Cyber-Coder](https://github.com/Kevin-The-Cyber-Coder) | MUKESHIMANA KEVIN | Cyber Coding Arena |  | Kigali Rwanda | 7511 |
+| 19 | [nrep](https://github.com/nrep) | Elvis Peace NDAHAYO RUGERO | Digital Umuganda | ElvisPeaceNR | Rwanda | 7389 |
+| 20 | [mjeanbosco19](https://github.com/mjeanbosco19) | MUGIRANEZA Jean Bosco | @etite-ltd  | mjeanbosco19 | Kigali Rwanda | 7137 |

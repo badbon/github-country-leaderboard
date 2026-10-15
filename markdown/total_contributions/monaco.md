@@ -1,6 +1,6 @@
 # Total Contributions - Monaco
 
-Generated: 2026-10-15T06:27:50.204Z
+Generated: 2026-10-15T07:54:06.546Z
 
 Users: 142
 
@@ -8,7 +8,7 @@ Users: 142
 |---:|---|---|---|---|---|---:|
 | 1 | [AlexRLG98](https://github.com/AlexRLG98) | Alex_RLG |  |  | Monaco | 7210 |
 | 2 | [DamienMonchaty](https://github.com/DamienMonchaty) | Damien Monchaty | @MRX-Systems  |  | Monaco | 6066 |
-| 3 | [laurentqro](https://github.com/laurentqro) | Laurent Curau |  |  | Monaco | 5264 |
+| 3 | [laurentqro](https://github.com/laurentqro) | Laurent Curau |  |  | Monaco | 5186 |
 | 4 | [LovelessCodes](https://github.com/LovelessCodes) |  |  |  | Monaco | 3591 |
 | 5 | [KristofM854](https://github.com/KristofM854) | Kristof Moeller | International Atomic Energy Agency |  | Monaco | 1872 |
 | 6 | [silvainfm](https://github.com/silvainfm) | François-Marie Brych |  |  | Nashville & Monaco | 1780 |
@@ -19,7 +19,7 @@ Users: 142
 | 11 | [jz222](https://github.com/jz222) | Timo Zimmermann | Mosaic S.A.R.L |  | Monte-Carlo, Monaco | 751 |
 | 12 | [asingizwe1](https://github.com/asingizwe1) | Dev. Louis Asingizwe | 7C | _Louis_A_ | Monaco , Kampala/Uganda | 605 |
 | 13 | [Orion98MC](https://github.com/Orion98MC) | Thierry Passeron | Monte-Carlo Computing |  | Monaco | 585 |
-| 14 | [vjandrea](https://github.com/vjandrea) | Andrea Bergamasco | KeeSystem | vjandrea | Monaco | 572 |
+| 14 | [vjandrea](https://github.com/vjandrea) | Andrea Bergamasco | KeeSystem | vjandrea | Monaco | 565 |
 | 15 | [scribelia-anthony](https://github.com/scribelia-anthony) | Anthony | Scribelia |  | Monaco | 428 |
 | 16 | [auvents-brave](https://github.com/auvents-brave) | Stéphane |  |  | Monaco | 406 |
 | 17 | [giraudremi92](https://github.com/giraudremi92) | Rémi |  |  | Monaco | 387 |

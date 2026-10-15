@@ -46,9 +46,9 @@ Indexed users: 2,014
 | 7 | [DaltonP93](https://github.com/DaltonP93) | Dalton Perez | Paraguay | 1,870 |
 | 8 | [stevenayal](https://github.com/stevenayal) | Steven Ayala | Asunción, Paraguay | 1,653 |
 | 9 | [raczajko](https://github.com/raczajko) | Raúl Aguiar Czajkowski | Paraguay | 1,644 |
-| 10 | [nikdim03](https://github.com/nikdim03) | Dmitrii Nikulin | Paraguay | 1,349 |
-| 11 | [oscar0pavon](https://github.com/oscar0pavon) | Oscar Pavon | Paraguay | 1,269 |
-| 12 | [ciroiriarte](https://github.com/ciroiriarte) | Ciro Iriarte | Paraguay | 1,103 |
+| 10 | [ciroiriarte](https://github.com/ciroiriarte) | Ciro Iriarte | Paraguay | 1,384 |
+| 11 | [nikdim03](https://github.com/nikdim03) | Dmitrii Nikulin | Paraguay | 1,349 |
+| 12 | [oscar0pavon](https://github.com/oscar0pavon) | Oscar Pavon | Paraguay | 1,269 |
 | 13 | [m2f0](https://github.com/m2f0) | Mario Mayerle | Paraguay/USA | 1,086 |
 | 14 | [zot24](https://github.com/zot24) |  | Asuncion, Paraguay | 1,072 |
 | 15 | [cardozoaldama](https://github.com/cardozoaldama) | Fernando Cardozo | Paraguay | 980 |
@@ -83,4 +83,4 @@ Indexed users: 2,014
 | 19 | [leodufer](https://github.com/leodufer) | Oscar Duarte | Ciudad del Este,  Paraguay | 116 |
 | 20 | [metakeule](https://github.com/metakeule) | metakeule | Asunción / Paraguay | 110 |
 
-Generated: 2026-10-15T06:35:29.891Z
+Generated: 2026-10-15T08:03:14.960Z

@@ -1,6 +1,6 @@
 # Followers - Luxembourg
 
-Generated: 2026-10-15T06:21:05.931Z
+Generated: 2026-10-15T07:46:50.612Z
 
 Users: 2191
 
@@ -8,9 +8,9 @@ Users: 2191
 |---:|---|---|---|---|---|---:|
 | 1 | [qdm12](https://github.com/qdm12) | Quentin McGaw |  |  | Luxembourg | 858 |
 | 2 | [kissalexandra](https://github.com/kissalexandra) | Alexandra Kiss |  | xkissalexandra | Ville de Luxembourg | 613 |
-| 3 | [b-rodrigues](https://github.com/b-rodrigues) | Bruno Rodrigues | MESR, Luxembourg | brodriguesco | Luxembourg-City, Luxembourg | 467 |
+| 3 | [b-rodrigues](https://github.com/b-rodrigues) | Bruno Rodrigues | MESR, Luxembourg | brodriguesco | Luxembourg-City, Luxembourg | 470 |
 | 4 | [255kb](https://github.com/255kb) | Guillaume | @mockoon |  | Luxembourg | 396 |
-| 5 | [themarcba](https://github.com/themarcba) | Marc Backes | @directus | marcba | Luxembourg | 391 |
+| 5 | [themarcba](https://github.com/themarcba) | Marc Backes | @directus | marcba | Luxembourg | 393 |
 | 6 | [Vedenin](https://github.com/Vedenin) | Slava Vedenin |  |  | Luxembourg | 379 |
 | 7 | [zit0cod3z](https://github.com/zit0cod3z) | Kizito Daka |  | zitocod3z | Luxembourg | 366 |
 | 8 | [fmind](https://github.com/fmind) | Médéric Hurier (Fmind) | Fmind.dev | fmind_dev | Luxembourg | 309 |

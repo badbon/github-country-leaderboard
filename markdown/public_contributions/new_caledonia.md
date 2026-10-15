@@ -1,6 +1,6 @@
 # Public Contributions - New Caledonia
 
-Generated: 2026-10-15T06:31:47.880Z
+Generated: 2026-10-15T07:58:03.882Z
 
 Users: 111
 
@@ -10,14 +10,14 @@ Users: 111
 | 2 | [adriens](https://github.com/adriens) | SALES | OPT-NC | rastadidi | Nouméa, New-Caledonia | 3164 |
 | 3 | [kyuhank](https://github.com/kyuhank) | Kyuhan Kim | SPC |  | Noumea, New Caledonia | 3009 |
 | 4 | [tom333](https://github.com/tom333) |  |  |  | Nouméa, New Calédonia | 1476 |
-| 5 | [gvdr](https://github.com/gvdr) | Giulio Valentino Dalla Riva | Pacific Community \| Communauté du Pacifique |  | Noumea, New Caledonia | 719 |
+| 5 | [gvdr](https://github.com/gvdr) | Giulio Valentino Dalla Riva | Pacific Community \| Communauté du Pacifique |  | Noumea, New Caledonia | 723 |
 | 6 | [PLStenger](https://github.com/PLStenger) | Pierre-Louis Stenger | New-Caledonian Agronomic Institute - IAC |  | Nouméa, New-Caledonia | 461 |
 | 7 | [Nem0oo](https://github.com/Nem0oo) | Guillaume COURTOT | none |  | New-Caledonia | 375 |
 | 8 | [jchable](https://github.com/jchable) | Julien CHABLE | NC IT |  | Nouméa | 368 |
 | 9 | [loxK](https://github.com/loxK) | Laurent Dinclaux | Gecka |  | New Caledonia | 340 |
 | 10 | [aNaoy](https://github.com/aNaoy) | Yoan Agostini |  |  | Nouméa | 339 |
 | 11 | [ahyolia](https://github.com/ahyolia) | Camélia AMIN HANDOYO |  |  | New Caledonia | 263 |
-| 12 | [ellisp](https://github.com/ellisp) | Peter Ellis | Pacific Community \| Communauté de Pacifique |  | Nouméa, Nouvelle-Calédonie | 222 |
+| 12 | [ellisp](https://github.com/ellisp) | Peter Ellis | Pacific Community \| Communauté de Pacifique |  | Nouméa, Nouvelle-Calédonie | 223 |
 | 13 | [TooFuW](https://github.com/TooFuW) | Eyrian Muet |  |  | New- Caledonia | 216 |
 | 14 | [kibagami-nc](https://github.com/kibagami-nc) | Manley.B |  |  | New-Caledonia | 157 |
 | 15 | [trara538](https://github.com/trara538) | Rara Soro | South Pacific Community  |  | Noumea, New Caledonia | 151 |

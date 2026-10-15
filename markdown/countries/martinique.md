@@ -54,7 +54,7 @@ Indexed users: 75
 | 15 | [Ulrico972](https://github.com/Ulrico972) | Ulrich Giberné | Martinique | 140 |
 | 16 | [marieangeliquepied](https://github.com/marieangeliquepied) | Marie-Angélique PIED | Martinique  | 126 |
 | 17 | [kodzukye](https://github.com/kodzukye) | Jayyy ⋆˚✿˖° | Martinique | 90 |
-| 18 | [aldofwi](https://github.com/aldofwi) | Dominique ALMANDIN | Martinique | 79 |
+| 18 | [aldofwi](https://github.com/aldofwi) | Dominique ALMANDIN | Martinique | 78 |
 | 19 | [TCox972](https://github.com/TCox972) | Jean-Jérôme | Martinique | 33 |
 | 20 | [anthony-nosibor](https://github.com/anthony-nosibor) | Anthony nosibor | Martinique | 24 |
 
@@ -83,4 +83,4 @@ Indexed users: 75
 | 19 | [LePtitBiscuit](https://github.com/LePtitBiscuit) | LePtitBiscuit | Martinique | 6 |
 | 20 | [phnxtrill](https://github.com/phnxtrill) | Quentin | Fort-de-France, Martinique | 6 |
 
-Generated: 2026-10-15T06:23:20.653Z
+Generated: 2026-10-15T07:52:00.212Z

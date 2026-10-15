@@ -1,6 +1,6 @@
 # Kyrgyzstan
 
-Indexed users: 2,451
+Indexed users: 2,450
 
 | Leaderboard | Link |
 |---|---|
@@ -25,13 +25,13 @@ Indexed users: 2,451
 | 11 | [qiniks](https://github.com/qiniks) | Talant Mataev | Kyrgyzstan | 5,133 |
 | 12 | [chalshik](https://github.com/chalshik) | Nurmukhammed Kalmamatov | Kyrgyzstan | 5,086 |
 | 13 | [emirbaktybekov-king](https://github.com/emirbaktybekov-king) | Emir Baktybekov | Bishkek, Kyrgyzstan | 5,027 |
-| 14 | [isybai](https://github.com/isybai) | Isa | Bishkek | 4,966 |
-| 15 | [991o2o9](https://github.com/991o2o9) | Soltobekov Amin | Bishkek | 4,857 |
-| 16 | [nasipa1](https://github.com/nasipa1) | Nasipa | Kyrgyzstan, Bishkek | 4,724 |
-| 17 | [timplifier](https://github.com/timplifier) | timplifier雨 | Bishkek | 4,644 |
-| 18 | [eeemmm29](https://github.com/eeemmm29) | EM | Kyrgyzstan | 4,454 |
-| 19 | [bonyvah](https://github.com/bonyvah) | Bekbolsun Ysmanov | Kyrgyzstan | 4,265 |
-| 20 | [Donkasta](https://github.com/Donkasta) | Aidin | Bishkek | 4,070 |
+| 14 | [P5ina](https://github.com/P5ina) | Timur Turatbekov | Kyrgyzstan, Bishkek | 4,996 |
+| 15 | [isybai](https://github.com/isybai) | Isa | Bishkek | 4,966 |
+| 16 | [991o2o9](https://github.com/991o2o9) | Soltobekov Amin | Bishkek | 4,857 |
+| 17 | [nasipa1](https://github.com/nasipa1) | Nasipa | Kyrgyzstan, Bishkek | 4,724 |
+| 18 | [timplifier](https://github.com/timplifier) | timplifier雨 | Bishkek | 4,644 |
+| 19 | [eeemmm29](https://github.com/eeemmm29) | EM | Kyrgyzstan | 4,454 |
+| 20 | [bonyvah](https://github.com/bonyvah) | Bekbolsun Ysmanov | Kyrgyzstan | 4,265 |
 
 ## Public Contributions
 
@@ -42,7 +42,7 @@ Indexed users: 2,451
 | 3 | [metalagman](https://github.com/metalagman) | Alexey Samoylov | Bishkek, Kyrgyz Republic | 3,485 |
 | 4 | [Heartspell](https://github.com/Heartspell) | Amirhan Ordobaev | Kyrgyzstan | 3,248 |
 | 5 | [ibrodevs](https://github.com/ibrodevs) | Ibrokhim | Bishkek | 3,050 |
-| 6 | [P5ina](https://github.com/P5ina) | Timur Turatbekov | Kyrgyzstan, Bishkek | 2,262 |
+| 6 | [P5ina](https://github.com/P5ina) | Timur Turatbekov | Kyrgyzstan, Bishkek | 2,962 |
 | 7 | [alisher-zhuman](https://github.com/alisher-zhuman) | Alisher Zhuman | Bishkek, Kyrgyzstan  | 1,852 |
 | 8 | [fi-res](https://github.com/fi-res) | fires | kyrgyzstan | 1,651 |
 | 9 | [bvasilenko](https://github.com/bvasilenko) | Boris Vasilenko | Bishkek, Kyrgyzstan (Relocated) | 1,626 |
@@ -83,4 +83,4 @@ Indexed users: 2,451
 | 19 | [Elkhan2003](https://github.com/Elkhan2003) | Elkhan Sharshenbekov | Karakol, Kyrgyzstan | 103 |
 | 20 | [eszdman](https://github.com/eszdman) |  | Kyrgyzstan | 103 |
 
-Generated: 2026-10-15T06:18:26.242Z
+Generated: 2026-10-15T07:44:19.672Z

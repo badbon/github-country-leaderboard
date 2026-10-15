@@ -1,6 +1,6 @@
 # Public Contributions - Paraguay
 
-Generated: 2026-10-15T06:35:29.891Z
+Generated: 2026-10-15T08:03:14.960Z
 
 Users: 2014
 
@@ -15,9 +15,9 @@ Users: 2014
 | 7 | [DaltonP93](https://github.com/DaltonP93) | Dalton Perez |  |  | Paraguay | 1870 |
 | 8 | [stevenayal](https://github.com/stevenayal) | Steven Ayala | Banco Continental SAECA |  | Asunción, Paraguay | 1653 |
 | 9 | [raczajko](https://github.com/raczajko) | Raúl Aguiar Czajkowski | Secretaría Técnica de Planificación del Desarrollo Económico y Social | raczajko | Paraguay | 1644 |
-| 10 | [nikdim03](https://github.com/nikdim03) | Dmitrii Nikulin | TON Foundation |  | Paraguay | 1349 |
-| 11 | [oscar0pavon](https://github.com/oscar0pavon) | Oscar Pavon | pavon.com.py |  | Paraguay | 1269 |
-| 12 | [ciroiriarte](https://github.com/ciroiriarte) | Ciro Iriarte |  | ciroiriarte | Paraguay | 1103 |
+| 10 | [ciroiriarte](https://github.com/ciroiriarte) | Ciro Iriarte |  | ciroiriarte | Paraguay | 1384 |
+| 11 | [nikdim03](https://github.com/nikdim03) | Dmitrii Nikulin | TON Foundation |  | Paraguay | 1349 |
+| 12 | [oscar0pavon](https://github.com/oscar0pavon) | Oscar Pavon | pavon.com.py |  | Paraguay | 1269 |
 | 13 | [m2f0](https://github.com/m2f0) | Mario Mayerle | @INOSX  |  | Paraguay/USA | 1086 |
 | 14 | [zot24](https://github.com/zot24) |  | Motty | zot24 | Asuncion, Paraguay | 1072 |
 | 15 | [cardozoaldama](https://github.com/cardozoaldama) | Fernando Cardozo |  |  | Paraguay | 980 |

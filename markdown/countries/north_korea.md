@@ -15,14 +15,14 @@ Indexed users: 185
 | 1 | [Kim9wang](https://github.com/Kim9wang) | Kim Wang | Pyongyang | 5,854 |
 | 2 | [advanced-rising](https://github.com/advanced-rising) | risingcore | Democratic People's Republic of Korea | 5,087 |
 | 3 | [boyesjo](https://github.com/boyesjo) | Boye Sjo | pyongyang | 4,089 |
-| 4 | [sakweli](https://github.com/sakweli) | Josh Sakweli | North Korea | 2,466 |
+| 4 | [sakweli](https://github.com/sakweli) | Josh Sakweli | North Korea | 2,462 |
 | 5 | [andrewlee1807](https://github.com/andrewlee1807) | Andrew | North Korea | 1,485 |
 | 6 | [The-Red-Serpent](https://github.com/The-Red-Serpent) | The_Red_Serpent | Pyongyang, North Korea | 1,277 |
 | 7 | [henxdl](https://github.com/henxdl) | henxdl | Pyongyang, North Korea | 1,087 |
 | 8 | [iam-orsu](https://github.com/iam-orsu) | Vamsi Krishna | North Korea | 814 |
 | 9 | [Aashaby](https://github.com/Aashaby) |  | North Korea | 673 |
 | 10 | [Duzopy](https://github.com/Duzopy) | Dupozy | North Korea | 607 |
-| 11 | [1zumiSagiri](https://github.com/1zumiSagiri) | Vincent Chan | Pyongyang | 568 |
+| 11 | [1zumiSagiri](https://github.com/1zumiSagiri) | Vincent Chan | Pyongyang | 570 |
 | 12 | [chihongze](https://github.com/chihongze) | chihongze |  P'yŏngyang, North Korea | 531 |
 | 13 | [dddqmmx](https://github.com/dddqmmx) | PaulPerkenstein | Pyongyang | 505 |
 | 14 | [DillerOFire](https://github.com/DillerOFire) | VerpaSRP | North Korea | 480 |
@@ -55,8 +55,8 @@ Indexed users: 185
 | 16 | [vega-holdings](https://github.com/vega-holdings) | Vega | Pyongyang | 137 |
 | 17 | [lavrentious](https://github.com/lavrentious) | lavrent | Democratic People's Republic of Korea | 105 |
 | 18 | [lilac1337](https://github.com/lilac1337) | Vera Lovelace | Pyongyang, Democrat People's Republic of Korea | 95 |
-| 19 | [1zumiSagiri](https://github.com/1zumiSagiri) | Vincent Chan | Pyongyang | 82 |
-| 20 | [l0ji](https://github.com/l0ji) | penny | Pyongyang | 82 |
+| 19 | [stevboiii](https://github.com/stevboiii) | callisto | pyongyang | 84 |
+| 20 | [1zumiSagiri](https://github.com/1zumiSagiri) | Vincent Chan | Pyongyang | 82 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 185
 | 19 | [satt-hri](https://github.com/satt-hri) | 稻草人(scarecrow) | North Korea | 15 |
 | 20 | [DillerOFire](https://github.com/DillerOFire) | VerpaSRP | North Korea | 14 |
 
-Generated: 2026-10-15T06:33:40.884Z
+Generated: 2026-10-15T07:59:26.844Z

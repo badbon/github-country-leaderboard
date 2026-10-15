@@ -1,6 +1,6 @@
 # Followers - Senegal
 
-Generated: 2026-10-15T06:43:25.921Z
+Generated: 2026-10-15T08:10:05.595Z
 
 Users: 1357
 
@@ -25,4 +25,4 @@ Users: 1357
 | 17 | [paydunyadev](https://github.com/paydunyadev) | PayDunya | PayDunya |  | Sénégal - Dakar (Ouest Foire) | 150 |
 | 18 | [ridwanediallo](https://github.com/ridwanediallo) | Ridwan Diallo |  | RidwaneD | Dakar - Senegal | 148 |
 | 19 | [ngorseck](https://github.com/ngorseck) | Ngor SECK | Samane Corporation | NgorSeck | Dakar - Sénégal | 142 |
-| 20 | [patheGobel](https://github.com/patheGobel) | Pathé BA |  | Pathegobelba | Senegal  | 138 |
+| 20 | [patheGobel](https://github.com/patheGobel) | Pathé BA |  | Pathegobelba | Senegal  | 141 |

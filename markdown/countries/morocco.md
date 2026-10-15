@@ -50,13 +50,13 @@ Indexed users: 9,644
 | 11 | [ImadSaddik](https://github.com/ImadSaddik) | Imad Saddik | Morocco | 2,543 |
 | 12 | [depsagency](https://github.com/depsagency) | DEPS | Morocco, Casablanca | 2,526 |
 | 13 | [Hi1talib1World](https://github.com/Hi1talib1World) | hicham outaleb | Essaouira, Morocco | 2,431 |
-| 14 | [tornidomaroc-web](https://github.com/tornidomaroc-web) | Abdelfettah Amellah | Morocco | 2,395 |
-| 15 | [ayagmar](https://github.com/ayagmar) | Abdeslam Yassine Agmar | Morocco | 2,338 |
-| 16 | [ilyas-doughmi](https://github.com/ilyas-doughmi) | Ilyas Doughmi | Taroudant, Morocco | 2,325 |
-| 17 | [MyLhassane](https://github.com/MyLhassane) | My Lhassane | Morocco | 2,283 |
-| 18 | [hichamboushaba](https://github.com/hichamboushaba) | Hicham Boushaba | Morocco | 2,276 |
-| 19 | [faiz-oussama](https://github.com/faiz-oussama) | Oussama Faiz | Casablanca, Morocco | 2,189 |
-| 20 | [abdarrhmanessetaoui](https://github.com/abdarrhmanessetaoui) | ABDERRAHMAN SETTAOUI | Marrakech, Morocco | 2,174 |
+| 14 | [laghzal49](https://github.com/laghzal49) | tlaghzal | Morocco | 2,426 |
+| 15 | [tornidomaroc-web](https://github.com/tornidomaroc-web) | Abdelfettah Amellah | Morocco | 2,395 |
+| 16 | [ayagmar](https://github.com/ayagmar) | Abdeslam Yassine Agmar | Morocco | 2,338 |
+| 17 | [ilyas-doughmi](https://github.com/ilyas-doughmi) | Ilyas Doughmi | Taroudant, Morocco | 2,325 |
+| 18 | [MyLhassane](https://github.com/MyLhassane) | My Lhassane | Morocco | 2,283 |
+| 19 | [hichamboushaba](https://github.com/hichamboushaba) | Hicham Boushaba | Morocco | 2,276 |
+| 20 | [faiz-oussama](https://github.com/faiz-oussama) | Oussama Faiz | Casablanca, Morocco | 2,189 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 9,644
 | 19 | [walidbosso](https://github.com/walidbosso) | Walid BOUSSOU | Tetouan, Morocco. | 821 |
 | 20 | [yassnemo](https://github.com/yassnemo) | Yassine Erradouani | Casablanca, Morocco | 741 |
 
-Generated: 2026-10-15T06:29:22.185Z
+Generated: 2026-10-15T07:55:23.274Z

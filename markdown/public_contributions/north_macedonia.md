@@ -1,6 +1,6 @@
 # Public Contributions - North Macedonia
 
-Generated: 2026-10-15T06:33:43.688Z
+Generated: 2026-10-15T07:59:33.043Z
 
 Users: 1929
 
@@ -21,7 +21,7 @@ Users: 1929
 | 13 | [bfzli](https://github.com/bfzli) | Benjamin |  | bfzli | North Macedonia | 933 |
 | 14 | [gocemitevski](https://github.com/gocemitevski) | Goce Mitevski |  | GoceMitevski | Skopje, North Macedonia | 922 |
 | 15 | [ssbarbee](https://github.com/ssbarbee) |  |  |  | Skopje, Macedonia | 890 |
-| 16 | [stojce](https://github.com/stojce) | Stojce Slavkovski |  |  | Skopje, Macedonia | 861 |
+| 16 | [stojce](https://github.com/stojce) | Stojce Slavkovski |  |  | Skopje, Macedonia | 859 |
 | 17 | [KralMarko123](https://github.com/KralMarko123) | Marko Markovikj | Hornetsecurity |  | Skopje | 839 |
 | 18 | [bor0](https://github.com/bor0) | Boro Sitnikovski | @Automattic | BSitnikovski | Skopje, North Macedonia | 814 |
 | 19 | [EienMosu](https://github.com/EienMosu) | Ozkan Selcuk |  |  | North Macedonia/Skopje | 806 |

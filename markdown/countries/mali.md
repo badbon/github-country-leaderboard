@@ -18,10 +18,10 @@ Indexed users: 348
 | 4 | [Abbv75](https://github.com/Abbv75) | Younouss Boré  | Bamako, telecel GBS | 6,110 |
 | 5 | [sudoping01](https://github.com/sudoping01) | sed | Bamako | 5,304 |
 | 6 | [MFOF7310](https://github.com/MFOF7310) | MFOFANA | Bamako,Mali | 4,783 |
-| 7 | [MrSakine](https://github.com/MrSakine) | MrSakine | Mali | 3,433 |
+| 7 | [MrSakine](https://github.com/MrSakine) | MrSakine | Mali | 3,438 |
 | 8 | [kdiawara96](https://github.com/kdiawara96) | Karim Diawara | JX4X+QX9, Bamako | 2,759 |
 | 9 | [Alhoussen](https://github.com/Alhoussen) | Alhoussen | Bamako, Mali | 2,689 |
-| 10 | [AmadouDiadie95](https://github.com/AmadouDiadie95) | Amadou Diadie Coulibaly | Bamako-Mali | 2,609 |
+| 10 | [AmadouDiadie95](https://github.com/AmadouDiadie95) | Amadou Diadie Coulibaly | Bamako-Mali | 2,626 |
 | 11 | [yacouba01](https://github.com/yacouba01) | Yacouba Doumbia | Mali | 2,395 |
 | 12 | [alitimbo](https://github.com/alitimbo) | Ali Timbo | Bamako | 2,206 |
 | 13 | [AbduRahmanS](https://github.com/AbduRahmanS) | Abdrahamane Sarambounou | Bamako | 2,140 |
@@ -83,4 +83,4 @@ Indexed users: 348
 | 19 | [AlyKonte](https://github.com/AlyKonte) |  | Mali/Bamako | 27 |
 | 20 | [Dioman-Keita](https://github.com/Dioman-Keita) | Dioman Keïta | Bamako/Mali | 26 |
 
-Generated: 2026-10-15T06:23:10.478Z
+Generated: 2026-10-15T07:50:17.086Z

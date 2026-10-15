@@ -1,6 +1,6 @@
 # Rwanda
 
-Indexed users: 3,521
+Indexed users: 3,520
 
 | Leaderboard | Link |
 |---|---|
@@ -22,16 +22,16 @@ Indexed users: 3,521
 | 8 | [iAmNsengi](https://github.com/iAmNsengi) | Eliezer Nsengi | Kigali, Rwanda | 9,290 |
 | 9 | [Icyubahiro-Jay-P](https://github.com/Icyubahiro-Jay-P) | JAY P | Kigali, Rwanda | 9,232 |
 | 10 | [codeWithEdison](https://github.com/codeWithEdison) | Edison UWIHANGANYE | Rwanda | 9,203 |
-| 11 | [princechrix](https://github.com/princechrix) | Prince Christian ISHIMWE | Kigali, Rwanda | 8,563 |
-| 12 | [MugemaneBertin2001](https://github.com/MugemaneBertin2001) | Mugemane Bertin | Kigali/Rwanda | 8,467 |
-| 13 | [ProgrammerDATCH](https://github.com/ProgrammerDATCH) | Mr. David | Kigali Rwanda | 8,432 |
-| 14 | [rubailly](https://github.com/rubailly) | Bailly Rurangirwa  | Rwanda | 8,233 |
-| 15 | [Ndevu12](https://github.com/Ndevu12) | Jean Paul Elisa NIYOKWIZERWA | Kigali Rwanda | 7,642 |
-| 16 | [brunorwanda4](https://github.com/brunorwanda4) | Bruno Rwanda | Rwanda/ Kigali | 7,609 |
-| 17 | [Kevin-The-Cyber-Coder](https://github.com/Kevin-The-Cyber-Coder) | MUKESHIMANA KEVIN | Kigali Rwanda | 7,511 |
-| 18 | [nrep](https://github.com/nrep) | Elvis Peace NDAHAYO RUGERO | Rwanda | 7,389 |
-| 19 | [mjeanbosco19](https://github.com/mjeanbosco19) | MUGIRANEZA Jean Bosco | Kigali Rwanda | 7,137 |
-| 20 | [Manzi-Elvis](https://github.com/Manzi-Elvis) | Elvis Manzi | Rwanda | 7,133 |
+| 11 | [EucTech](https://github.com/EucTech) | Ezeibe Uchechukwu | Kigali, Rwanda | 9,071 |
+| 12 | [princechrix](https://github.com/princechrix) | Prince Christian ISHIMWE | Kigali, Rwanda | 8,563 |
+| 13 | [MugemaneBertin2001](https://github.com/MugemaneBertin2001) | Mugemane Bertin | Kigali/Rwanda | 8,467 |
+| 14 | [ProgrammerDATCH](https://github.com/ProgrammerDATCH) | Mr. David | Kigali Rwanda | 8,432 |
+| 15 | [rubailly](https://github.com/rubailly) | Bailly Rurangirwa  | Rwanda | 8,233 |
+| 16 | [Ndevu12](https://github.com/Ndevu12) | Jean Paul Elisa NIYOKWIZERWA | Kigali Rwanda | 7,642 |
+| 17 | [brunorwanda4](https://github.com/brunorwanda4) | Bruno Rwanda | Rwanda/ Kigali | 7,609 |
+| 18 | [Kevin-The-Cyber-Coder](https://github.com/Kevin-The-Cyber-Coder) | MUKESHIMANA KEVIN | Kigali Rwanda | 7,511 |
+| 19 | [nrep](https://github.com/nrep) | Elvis Peace NDAHAYO RUGERO | Rwanda | 7,389 |
+| 20 | [mjeanbosco19](https://github.com/mjeanbosco19) | MUGIRANEZA Jean Bosco | Kigali Rwanda | 7,137 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 3,521
 | 19 | [ghislainb-cracker](https://github.com/ghislainb-cracker) | Ghislain Byimbo | Rwanda | 316 |
 | 20 | [shemaikuzwe](https://github.com/shemaikuzwe) | Ikuzwe shema Elie | rwanda | 314 |
 
-Generated: 2026-10-15T06:39:34.047Z
+Generated: 2026-10-15T08:06:12.597Z

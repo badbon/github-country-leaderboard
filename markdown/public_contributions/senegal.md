@@ -1,6 +1,6 @@
 # Public Contributions - Senegal
 
-Generated: 2026-10-15T06:43:25.921Z
+Generated: 2026-10-15T08:10:05.595Z
 
 Users: 1357
 
@@ -17,12 +17,12 @@ Users: 1357
 | 9 | [FadelDia](https://github.com/FadelDia) | Fallou Dia | Freelancing |  | SENEGAL | 1671 |
 | 10 | [crybaby050](https://github.com/crybaby050) | Seydina |  |  | Senegal | 1651 |
 | 11 | [Libs9977](https://github.com/Libs9977) | Libasse Mbaye | Teyliom |  | Dakar,Senegal | 1583 |
-| 12 | [patheGobel](https://github.com/patheGobel) | Pathé BA |  | Pathegobelba | Senegal  | 1315 |
+| 12 | [patheGobel](https://github.com/patheGobel) | Pathé BA |  | Pathegobelba | Senegal  | 1336 |
 | 13 | [Ramadiaw12](https://github.com/Ramadiaw12) | Rahma |  |  | Senegal | 1275 |
 | 14 | [soszaboss](https://github.com/soszaboss) | Moustoifa Ben Kamal Moussa |  |  | Dakar, Senegal | 1229 |
 | 15 | [SeydinaBANE](https://github.com/SeydinaBANE) | Seydina Mouhamet BANE | OptimaIA |  | Dakar,Senegal | 1159 |
 | 16 | [supermalang](https://github.com/supermalang) | Elhadji Malang | Digital Project Manager at Laiterie Du Berger | supermalang_ | Dakar | 1143 |
 | 17 | [sokhnaFaaty](https://github.com/sokhnaFaaty) | nexuusDev |  |  | Senegal | 1066 |
 | 18 | [RBen19](https://github.com/RBen19) | Rosinard Beni |  |  | Dakar, Senegal | 1031 |
-| 19 | [elias-ba](https://github.com/elias-ba) | Elias Waly Ba | @OpenFn | eliaswalyba | Dakar, Senegal | 1006 |
-| 20 | [khadimmbaye0](https://github.com/khadimmbaye0) | Khadim MBAYE  | Student at Ecole Superieur Polytechnique de Dakar | khadimmb004 | Dakar, Sn  | 939 |
+| 19 | [lucien-loua](https://github.com/lucien-loua) | lU | @ouestlabs | luu_loua | Dakar, Senegal | 1012 |
+| 20 | [elias-ba](https://github.com/elias-ba) | Elias Waly Ba | @OpenFn | eliaswalyba | Dakar, Senegal | 1006 |

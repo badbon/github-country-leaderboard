@@ -41,12 +41,12 @@ Indexed users: 2,061
 | 2 | [MinThutaSawNaing](https://github.com/MinThutaSawNaing) | Min Thuta Saw Naing Eric | Myanmar/ Singapore | 3,322 |
 | 3 | [thesithunyein](https://github.com/thesithunyein) | SITHU NYEIN | Yangon, Myanmar | 2,670 |
 | 4 | [peterlianpi](https://github.com/peterlianpi) | Peter | Myanmar | 2,590 |
-| 5 | [Oungseik](https://github.com/Oungseik) |  | Mawlamyine, Mon State, Myanmar | 1,429 |
-| 6 | [YellMinNaing-micro](https://github.com/YellMinNaing-micro) | Yell Min Naing | Yangon, Myanmar | 1,400 |
-| 7 | [MoeThetKhine](https://github.com/MoeThetKhine) | Moe Thet Khine | Yangon,Myanmar | 1,367 |
-| 8 | [sannlynnhtun-coding](https://github.com/sannlynnhtun-coding) | Sann Lynn Htun | Yangon, Myanmar | 1,268 |
-| 9 | [yoonpyae](https://github.com/yoonpyae) | Yoon Pyae Eain  | Yangon, Myanmar | 1,240 |
-| 10 | [ninjastrikers](https://github.com/ninjastrikers) | NinjaStrikers | Myanmar | 1,228 |
+| 5 | [ninjastrikers](https://github.com/ninjastrikers) | NinjaStrikers | Myanmar | 1,470 |
+| 6 | [Oungseik](https://github.com/Oungseik) |  | Mawlamyine, Mon State, Myanmar | 1,429 |
+| 7 | [YellMinNaing-micro](https://github.com/YellMinNaing-micro) | Yell Min Naing | Yangon, Myanmar | 1,400 |
+| 8 | [MoeThetKhine](https://github.com/MoeThetKhine) | Moe Thet Khine | Yangon,Myanmar | 1,367 |
+| 9 | [sannlynnhtun-coding](https://github.com/sannlynnhtun-coding) | Sann Lynn Htun | Yangon, Myanmar | 1,268 |
+| 10 | [yoonpyae](https://github.com/yoonpyae) | Yoon Pyae Eain  | Yangon, Myanmar | 1,240 |
 | 11 | [wintkhantlin](https://github.com/wintkhantlin) | Wint Khant Lin | Myanmar, Yangon, Shwe Pyi Thar | 1,175 |
 | 12 | [thaw98](https://github.com/thaw98) | Pyae Phyo Thaw | Myanmar | 1,071 |
 | 13 | [aungkoman](https://github.com/aungkoman) | Aung Ko Man | Mandalay,Myanmar | 1,048 |
@@ -83,4 +83,4 @@ Indexed users: 2,061
 | 19 | [winsandymyint](https://github.com/winsandymyint) | Win Sandy Myint | Myanmar | 167 |
 | 20 | [LunaM00n](https://github.com/LunaM00n) | Thin Ba Shane (Luna) | Myanmar | 162 |
 
-Generated: 2026-10-15T06:30:05.366Z
+Generated: 2026-10-15T07:56:44.554Z

@@ -48,15 +48,15 @@ Indexed users: 1,357
 | 9 | [FadelDia](https://github.com/FadelDia) | Fallou Dia | SENEGAL | 1,671 |
 | 10 | [crybaby050](https://github.com/crybaby050) | Seydina | Senegal | 1,651 |
 | 11 | [Libs9977](https://github.com/Libs9977) | Libasse Mbaye | Dakar,Senegal | 1,583 |
-| 12 | [patheGobel](https://github.com/patheGobel) | Pathé BA | Senegal  | 1,315 |
+| 12 | [patheGobel](https://github.com/patheGobel) | Pathé BA | Senegal  | 1,336 |
 | 13 | [Ramadiaw12](https://github.com/Ramadiaw12) | Rahma | Senegal | 1,275 |
 | 14 | [soszaboss](https://github.com/soszaboss) | Moustoifa Ben Kamal Moussa | Dakar, Senegal | 1,229 |
 | 15 | [SeydinaBANE](https://github.com/SeydinaBANE) | Seydina Mouhamet BANE | Dakar,Senegal | 1,159 |
 | 16 | [supermalang](https://github.com/supermalang) | Elhadji Malang | Dakar | 1,143 |
 | 17 | [sokhnaFaaty](https://github.com/sokhnaFaaty) | nexuusDev | Senegal | 1,066 |
 | 18 | [RBen19](https://github.com/RBen19) | Rosinard Beni | Dakar, Senegal | 1,031 |
-| 19 | [elias-ba](https://github.com/elias-ba) | Elias Waly Ba | Dakar, Senegal | 1,006 |
-| 20 | [khadimmbaye0](https://github.com/khadimmbaye0) | Khadim MBAYE  | Dakar, Sn  | 939 |
+| 19 | [lucien-loua](https://github.com/lucien-loua) | lU | Dakar, Senegal | 1,012 |
+| 20 | [elias-ba](https://github.com/elias-ba) | Elias Waly Ba | Dakar, Senegal | 1,006 |
 
 ## Followers
 
@@ -81,6 +81,6 @@ Indexed users: 1,357
 | 17 | [paydunyadev](https://github.com/paydunyadev) | PayDunya | Sénégal - Dakar (Ouest Foire) | 150 |
 | 18 | [ridwanediallo](https://github.com/ridwanediallo) | Ridwan Diallo | Dakar - Senegal | 148 |
 | 19 | [ngorseck](https://github.com/ngorseck) | Ngor SECK | Dakar - Sénégal | 142 |
-| 20 | [patheGobel](https://github.com/patheGobel) | Pathé BA | Senegal  | 138 |
+| 20 | [patheGobel](https://github.com/patheGobel) | Pathé BA | Senegal  | 141 |
 
-Generated: 2026-10-15T06:43:25.921Z
+Generated: 2026-10-15T08:10:05.595Z

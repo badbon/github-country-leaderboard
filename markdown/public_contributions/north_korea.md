@@ -1,6 +1,6 @@
 # Public Contributions - North Korea
 
-Generated: 2026-10-15T06:33:40.884Z
+Generated: 2026-10-15T07:59:26.844Z
 
 Users: 185
 
@@ -24,5 +24,5 @@ Users: 185
 | 16 | [vega-holdings](https://github.com/vega-holdings) | Vega | CGIC | vega_holdings | Pyongyang | 137 |
 | 17 | [lavrentious](https://github.com/lavrentious) | lavrent | ITMO University |  | Democratic People's Republic of Korea | 105 |
 | 18 | [lilac1337](https://github.com/lilac1337) | Vera Lovelace |  |  | Pyongyang, Democrat People's Republic of Korea | 95 |
-| 19 | [1zumiSagiri](https://github.com/1zumiSagiri) | Vincent Chan |  |  | Pyongyang | 82 |
-| 20 | [l0ji](https://github.com/l0ji) | penny |  |  | Pyongyang | 82 |
+| 19 | [stevboiii](https://github.com/stevboiii) | callisto |  |  | pyongyang | 84 |
+| 20 | [1zumiSagiri](https://github.com/1zumiSagiri) | Vincent Chan |  |  | Pyongyang | 82 |

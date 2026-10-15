@@ -22,16 +22,16 @@ Indexed users: 1,929
 | 8 | [andrejsshell](https://github.com/andrejsshell) | Andrej | Skopje | 6,054 |
 | 9 | [sasojadrovski](https://github.com/sasojadrovski) | Sasho Jadrovski | Skopje, Macedonia | 5,666 |
 | 10 | [simeonmarkoski](https://github.com/simeonmarkoski) | Simeon Markoski | Skopje, Macedonia | 5,289 |
-| 11 | [markopetrov1](https://github.com/markopetrov1) | Marko Petrov | Skopje, Macedonia | 5,068 |
-| 12 | [Delemangi](https://github.com/Delemangi) | Stefan Milev | Skopje, North Macedonia | 4,515 |
-| 13 | [DBozhinovski](https://github.com/DBozhinovski) | Darko Bozhinovski | Skopje, Macedonia | 4,438 |
+| 11 | [DBozhinovski](https://github.com/DBozhinovski) | Darko Bozhinovski | Skopje, Macedonia | 5,146 |
+| 12 | [markopetrov1](https://github.com/markopetrov1) | Marko Petrov | Skopje, Macedonia | 5,068 |
+| 13 | [Delemangi](https://github.com/Delemangi) | Stefan Milev | Skopje, North Macedonia | 4,515 |
 | 14 | [danielilievskii](https://github.com/danielilievskii) | Daniel Ilievski | Skopje, North Macedonia | 4,273 |
 | 15 | [Shekswess](https://github.com/Shekswess) | Bojan Jakimovski | Skopje, Macedonia | 4,182 |
-| 16 | [vetonshabani0](https://github.com/vetonshabani0) | Veton Shabani | Skopje | 4,075 |
-| 17 | [andreyagovski](https://github.com/andreyagovski) | Andrey | Macedonia | 3,997 |
-| 18 | [nikola-n](https://github.com/nikola-n) | Nikola | Veles, Macedonia | 3,884 |
-| 19 | [M9Mike](https://github.com/M9Mike) | Mihail Veljanoski | Skopje, Macedonia | 3,747 |
-| 20 | [deko96](https://github.com/deko96) | Dejan Bozhinoski | Skopje, Macedonia | 3,635 |
+| 16 | [visar](https://github.com/visar) | Visar Zejnullahu | Skopje, Macedonia | 4,148 |
+| 17 | [vetonshabani0](https://github.com/vetonshabani0) | Veton Shabani | Skopje | 4,075 |
+| 18 | [andreyagovski](https://github.com/andreyagovski) | Andrey | Macedonia | 3,997 |
+| 19 | [nikola-n](https://github.com/nikola-n) | Nikola | Veles, Macedonia | 3,884 |
+| 20 | [M9Mike](https://github.com/M9Mike) | Mihail Veljanoski | Skopje, Macedonia | 3,747 |
 
 ## Public Contributions
 
@@ -52,7 +52,7 @@ Indexed users: 1,929
 | 13 | [bfzli](https://github.com/bfzli) | Benjamin | North Macedonia | 933 |
 | 14 | [gocemitevski](https://github.com/gocemitevski) | Goce Mitevski | Skopje, North Macedonia | 922 |
 | 15 | [ssbarbee](https://github.com/ssbarbee) |  | Skopje, Macedonia | 890 |
-| 16 | [stojce](https://github.com/stojce) | Stojce Slavkovski | Skopje, Macedonia | 861 |
+| 16 | [stojce](https://github.com/stojce) | Stojce Slavkovski | Skopje, Macedonia | 859 |
 | 17 | [KralMarko123](https://github.com/KralMarko123) | Marko Markovikj | Skopje | 839 |
 | 18 | [bor0](https://github.com/bor0) | Boro Sitnikovski | Skopje, North Macedonia | 814 |
 | 19 | [EienMosu](https://github.com/EienMosu) | Ozkan Selcuk | North Macedonia/Skopje | 806 |
@@ -73,14 +73,14 @@ Indexed users: 1,929
 | 9 | [callibra](https://github.com/callibra) | Ivan Gjorcev  | Sveti Nikole, Macedonia  🌎 🗺️ | 225 |
 | 10 | [stefanandonov](https://github.com/stefanandonov) | Stefan Andonov | Skopje, Macedonia | 223 |
 | 11 | [MTrajK](https://github.com/MTrajK) | Meto Trajkovski | Skopje | 215 |
-| 12 | [hf](https://github.com/hf) | Stojan Dimitrovski | Skopje, Republic of North Macedonia | 197 |
+| 12 | [hf](https://github.com/hf) | Stojan Dimitrovski | Skopje, Republic of North Macedonia | 201 |
 | 13 | [davorminchorov](https://github.com/davorminchorov) | Davor Minchorov | Skopje, Macedonia | 186 |
-| 14 | [andrejsshell](https://github.com/andrejsshell) | Andrej | Skopje | 179 |
-| 15 | [MatejMecka](https://github.com/MatejMecka) | Matej Plavevski | Skopje, Macedonia | 178 |
-| 16 | [visar](https://github.com/visar) | Visar Zejnullahu | Skopje, Macedonia | 177 |
+| 14 | [visar](https://github.com/visar) | Visar Zejnullahu | Skopje, Macedonia | 180 |
+| 15 | [andrejsshell](https://github.com/andrejsshell) | Andrej | Skopje | 179 |
+| 16 | [MatejMecka](https://github.com/MatejMecka) | Matej Plavevski | Skopje, Macedonia | 178 |
 | 17 | [eritislami](https://github.com/eritislami) | Erit Islami | Struga, North Macedonia | 172 |
 | 18 | [sweko](https://github.com/sweko) | Wekoslav Stefanovski | Skopje | 171 |
 | 19 | [bor0](https://github.com/bor0) | Boro Sitnikovski | Skopje, North Macedonia | 166 |
 | 20 | [gdamjan](https://github.com/gdamjan) | Дамјан Георгиевски | Skopje, Macedonia | 144 |
 
-Generated: 2026-10-15T06:33:43.688Z
+Generated: 2026-10-15T07:59:33.043Z
