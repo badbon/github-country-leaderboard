@@ -22494,7 +22494,7 @@
     "location": "Zurich, Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-08-23T21:19:45Z"
@@ -22542,9 +22542,9 @@
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 252,
-    "publicContributions": 33,
+    "followers": 2,
+    "privateContributions": 374,
+    "publicContributions": 41,
     "createdAt": "2023-01-18T14:38:46Z"
   },
   {
@@ -22560,18 +22560,6 @@
     "createdAt": "2023-03-23T08:28:35Z"
   },
   {
-    "login": "leandroxcoelho",
-    "name": "Leandro Coelho",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/128590199?s=72&u=56110113d7e4dff101a83df72ba22b81078c396b&v=4",
-    "location": "Switzerland - Bern",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2023-03-22T09:45:54Z"
-  },
-  {
     "login": "kubalaguna",
     "name": "Kuba Laguna",
     "avatarUrl": "https://avatars.githubusercontent.com/u/123465170?s=72&u=27caed3d8a7f31ab848d5ff54614cc7da004a294&v=4",
@@ -22580,7 +22568,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2023-01-24T11:17:10Z"
   },
   {
@@ -22616,7 +22604,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 7,
     "createdAt": "2023-11-06T10:23:34Z"
   },
   {
@@ -22640,7 +22628,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 22,
     "createdAt": "2019-12-05T09:37:49Z"
   },
   {
@@ -22652,20 +22640,8 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 3,
     "createdAt": "2023-03-31T12:07:47Z"
-  },
-  {
-    "login": "gustavpirich",
-    "name": "gustavpirich",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/121752298?s=72&v=4",
-    "location": "Bern",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 36,
-    "createdAt": "2023-01-01T11:30:10Z"
   },
   {
     "login": "RUdolf1517",
@@ -22676,7 +22652,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 89,
     "createdAt": "2023-04-30T12:49:03Z"
   },
   {
@@ -22712,7 +22688,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 10,
     "createdAt": "2023-06-15T11:29:33Z"
   },
   {

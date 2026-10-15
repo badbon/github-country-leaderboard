@@ -846127,7 +846127,7 @@
     "company": "",
     "twitterUsername": "variiuz",
     "followers": 8,
-    "privateContributions": 2735,
+    "privateContributions": 2741,
     "publicContributions": 244,
     "createdAt": "2018-02-23T21:05:04Z"
   },
@@ -847174,5 +847174,17 @@
     "privateContributions": 0,
     "publicContributions": 125,
     "createdAt": "2023-03-01T22:12:59Z"
+  },
+  {
+    "login": "Stefan98167",
+    "name": "Stefan Ilic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/104595335?s=72&u=92c11d55b93155b85e2d4c69b2aacde2dae21186&v=4",
+    "location": "Munich, Germany",
+    "company": "",
+    "twitterUsername": "stefan68873729",
+    "followers": 6,
+    "privateContributions": 49,
+    "publicContributions": 83,
+    "createdAt": "2022-04-28T19:54:36Z"
   }
 ]

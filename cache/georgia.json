@@ -23023,8 +23023,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 23,
-    "privateContributions": 120,
-    "publicContributions": 111,
+    "privateContributions": 186,
+    "publicContributions": 137,
     "createdAt": "2021-04-10T19:39:04Z"
   },
   {
@@ -23034,9 +23034,9 @@
     "location": "Georgia",
     "company": "@FozerGames",
     "twitterUsername": "",
-    "followers": 23,
-    "privateContributions": 0,
-    "publicContributions": 14,
+    "followers": 26,
+    "privateContributions": 4,
+    "publicContributions": 21,
     "createdAt": "2021-02-09T08:16:26Z"
   },
   {
@@ -23046,9 +23046,9 @@
     "location": "Georgia",
     "company": "Upgaming",
     "twitterUsername": "",
-    "followers": 23,
-    "privateContributions": 262,
-    "publicContributions": 137,
+    "followers": 24,
+    "privateContributions": 336,
+    "publicContributions": 125,
     "createdAt": "2021-03-21T11:40:08Z"
   },
   {
@@ -23070,22 +23070,10 @@
     "location": "Georgia",
     "company": "",
     "twitterUsername": "",
-    "followers": 22,
+    "followers": 23,
     "privateContributions": 0,
-    "publicContributions": 1430,
+    "publicContributions": 1738,
     "createdAt": "2021-12-19T13:11:55Z"
-  },
-  {
-    "login": "nickkipshidze",
-    "name": "Nick Kipshidze",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/96648005?s=72&u=7c3af02d7f30f5b0b42a0a3497d2102dafcb57bf&v=4",
-    "location": "Tbilisi, Georgia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 21,
-    "privateContributions": 161,
-    "publicContributions": 174,
-    "createdAt": "2021-12-25T08:47:29Z"
   },
   {
     "login": "chaiqou",
@@ -23095,7 +23083,7 @@
     "company": "@RedberryProducts",
     "twitterUsername": "",
     "followers": 22,
-    "privateContributions": 2621,
+    "privateContributions": 2650,
     "publicContributions": 0,
     "createdAt": "2021-05-17T19:26:53Z"
   },
@@ -23107,8 +23095,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 21,
-    "privateContributions": 384,
-    "publicContributions": 49,
+    "privateContributions": 270,
+    "publicContributions": 52,
     "createdAt": "2021-09-17T18:11:14Z"
   },
   {
@@ -23120,7 +23108,7 @@
     "twitterUsername": "",
     "followers": 20,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 14,
     "createdAt": "2021-10-03T09:46:20Z"
   },
   {
@@ -23130,7 +23118,7 @@
     "location": "Tbilisi, Georgia",
     "company": "",
     "twitterUsername": "",
-    "followers": 21,
+    "followers": 20,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-11-18T14:24:30Z"
@@ -23155,8 +23143,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 20,
-    "privateContributions": 862,
-    "publicContributions": 23,
+    "privateContributions": 1175,
+    "publicContributions": 25,
     "createdAt": "2021-05-23T15:26:37Z"
   },
   {
@@ -23167,7 +23155,7 @@
     "company": "Baxity",
     "twitterUsername": "",
     "followers": 20,
-    "privateContributions": 155,
+    "privateContributions": 151,
     "publicContributions": 1,
     "createdAt": "2021-09-05T09:46:46Z"
   },
@@ -23179,8 +23167,8 @@
     "company": "@playrix",
     "twitterUsername": "",
     "followers": 19,
-    "privateContributions": 18,
-    "publicContributions": 1,
+    "privateContributions": 60,
+    "publicContributions": 53,
     "createdAt": "2021-10-17T15:49:24Z"
   },
   {
@@ -23198,13 +23186,13 @@
   {
     "login": "mberrishdev",
     "name": "Mikheil Berishvili",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/84536014?s=72&u=c7ee3f663a86cf12cbcde5930e92e0b246ff6eb9&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/84536014?s=72&u=2dcf2a244c37146c53c621d44d276d392d2ee585&v=4",
     "location": "georgia",
-    "company": "@TbcBank @EasyDine @TianShan",
+    "company": "@TbcBank @EasyDine ",
     "twitterUsername": "mberrishdev",
-    "followers": 22,
-    "privateContributions": 529,
-    "publicContributions": 524,
+    "followers": 26,
+    "privateContributions": 684,
+    "publicContributions": 563,
     "createdAt": "2021-05-20T17:39:42Z"
   },
   {
@@ -23227,8 +23215,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 18,
-    "privateContributions": 864,
-    "publicContributions": 94,
+    "privateContributions": 944,
+    "publicContributions": 87,
     "createdAt": "2021-03-04T05:46:57Z"
   },
   {

@@ -22531,8 +22531,8 @@
     "company": "AIQ",
     "twitterUsername": "tcpessoa_",
     "followers": 7,
-    "privateContributions": 1307,
-    "publicContributions": 123,
+    "privateContributions": 1483,
+    "publicContributions": 181,
     "createdAt": "2020-08-31T21:37:10Z"
   },
   {
@@ -22544,7 +22544,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 10,
     "createdAt": "2020-11-08T04:13:52Z"
   },
   {
@@ -22562,13 +22562,13 @@
   {
     "login": "Cao-Cong0",
     "name": "Cong Cao",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/73863996?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/73863996?s=72&u=6c97cd219d011138a86eb848e04b6ccb121f011c&v=4",
     "location": "Abu Dhabi",
     "company": "Mohamed bin Zayed University of Artificial Intelligence",
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 16,
     "createdAt": "2020-11-03T02:15:56Z"
   },
   {
@@ -22578,8 +22578,8 @@
     "location": "Abu Dhabi",
     "company": "Tahaluf Al Emarat Technical Solutions",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 53,
+    "followers": 5,
+    "privateContributions": 65,
     "publicContributions": 0,
     "createdAt": "2020-10-11T17:16:02Z"
   },
@@ -22591,8 +22591,8 @@
     "company": "SlashData Digital",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 6,
-    "publicContributions": 1,
+    "privateContributions": 1,
+    "publicContributions": 2,
     "createdAt": "2020-08-23T08:08:44Z"
   },
   {
@@ -22603,8 +22603,8 @@
     "company": "MBZUAI",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 8,
-    "publicContributions": 40,
+    "privateContributions": 7,
+    "publicContributions": 33,
     "createdAt": "2020-01-31T11:55:52Z"
   },
   {
@@ -22614,9 +22614,9 @@
     "location": "Abu Dhabi, UAE.",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 7,
-    "publicContributions": 113,
+    "followers": 6,
+    "privateContributions": 163,
+    "publicContributions": 129,
     "createdAt": "2020-10-28T12:11:55Z"
   },
   {
@@ -22650,7 +22650,7 @@
     "location": "Abu Dhabi, UAE",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-11-01T09:44:26Z"
@@ -22686,8 +22686,8 @@
     "location": "UAE, Abu Dhabi",
     "company": "freelance.io",
     "twitterUsername": "no_time4twitter",
-    "followers": 5,
-    "privateContributions": 137,
+    "followers": 7,
+    "privateContributions": 133,
     "publicContributions": 8,
     "createdAt": "2020-06-25T13:15:06Z"
   },
@@ -22706,13 +22706,13 @@
   {
     "login": "Mahmoud-Almahmoud",
     "name": "Mahmoud",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/63810524?s=72&u=2fd4896d649b60ad09d231709ede99615157e537&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/63810524?s=72&u=83ff9bcc8bf602a4ed7a0c4354d8207fb12d909c&v=4",
     "location": "UAE, Abu Dhabi",
     "company": "",
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 192,
+    "publicContributions": 195,
     "createdAt": "2020-04-16T17:48:55Z"
   },
   {
@@ -22734,9 +22734,9 @@
     "location": "Abu Dhabi, UAE",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 519,
-    "publicContributions": 29,
+    "followers": 3,
+    "privateContributions": 443,
+    "publicContributions": 43,
     "createdAt": "2020-10-16T07:20:18Z"
   },
   {
@@ -22748,7 +22748,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 459,
+    "publicContributions": 523,
     "createdAt": "2020-06-01T11:27:00Z"
   },
   {
@@ -50734,5 +50734,17 @@
     "privateContributions": 0,
     "publicContributions": 8,
     "createdAt": "2026-06-30T23:11:15Z"
+  },
+  {
+    "login": "nickkipshidze",
+    "name": "Nick Kipshidze",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/96648005?s=72&u=7c3af02d7f30f5b0b42a0a3497d2102dafcb57bf&v=4",
+    "location": "Abu Dhabi, UAE",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 22,
+    "privateContributions": 95,
+    "publicContributions": 179,
+    "createdAt": "2021-12-25T08:47:29Z"
   }
 ]
