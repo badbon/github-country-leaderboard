@@ -23299,20 +23299,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 313,
-    "publicContributions": 2,
+    "privateContributions": 486,
+    "publicContributions": 30,
     "createdAt": "2021-02-09T08:30:52Z"
   },
   {
     "login": "gicziAttila",
     "name": "giczi_attila",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/83330738?s=72&u=db285435b334f675484cc3fe81cb39652e5feb47&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/83330738?s=72&u=100991098dbec8ff5fe72870717891d92bb07918&v=4",
     "location": "Hungary",
     "company": "",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 1,
-    "publicContributions": 20,
+    "publicContributions": 29,
     "createdAt": "2021-04-28T05:41:05Z"
   },
   {
@@ -23348,7 +23348,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2021-02-27T17:39:34Z"
   },
   {
@@ -23371,8 +23371,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 604,
-    "publicContributions": 12,
+    "privateContributions": 737,
+    "publicContributions": 10,
     "createdAt": "2021-10-12T15:36:36Z"
   },
   {
@@ -23383,21 +23383,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 218,
+    "privateContributions": 212,
     "publicContributions": 41,
     "createdAt": "2021-09-18T18:07:40Z"
-  },
-  {
-    "login": "TasiZsu",
-    "name": "Akasha",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/88326207?s=72&u=45b5adf134ace32288f56c497ab7ed3905a8aed0&v=4",
-    "location": "Hungary",
-    "company": "",
-    "twitterUsername": "Artoftas",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 42,
-    "createdAt": "2021-08-02T12:26:40Z"
   },
   {
     "login": "wolfino65",
@@ -23419,8 +23407,8 @@
     "company": "",
     "twitterUsername": "istvanszasz99",
     "followers": 2,
-    "privateContributions": 246,
-    "publicContributions": 24,
+    "privateContributions": 239,
+    "publicContributions": 23,
     "createdAt": "2021-02-09T09:35:19Z"
   },
   {
@@ -23456,7 +23444,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 9,
     "createdAt": "2021-02-20T01:01:38Z"
   },
   {
@@ -23468,7 +23456,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 101,
-    "publicContributions": 195,
+    "publicContributions": 171,
     "createdAt": "2021-10-09T14:34:51Z"
   },
   {
@@ -23514,7 +23502,7 @@
     "location": "Budapest, Hungary",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
     "publicContributions": 16,
     "createdAt": "2021-03-17T15:56:31Z"

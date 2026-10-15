@@ -23480,7 +23480,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2015-10-10T18:23:50Z"
   },
   {
@@ -23491,14 +23491,14 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 127,
-    "publicContributions": 423,
+    "privateContributions": 182,
+    "publicContributions": 480,
     "createdAt": "2015-04-01T06:32:32Z"
   },
   {
     "login": "yanicroft",
-    "name": "Yani",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/15572241?s=72&u=3859acfaf8a50dfb754a6b4fa0658fab14146e33&v=4",
+    "name": "YU",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/15572241?s=72&v=4",
     "location": "El Salvador",
     "company": "",
     "twitterUsername": "yanirauseche",
@@ -23552,7 +23552,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 155,
+    "publicContributions": 162,
     "createdAt": "2015-08-13T02:38:50Z"
   },
   {
@@ -23671,8 +23671,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 819,
-    "publicContributions": 45,
+    "privateContributions": 1049,
+    "publicContributions": 43,
     "createdAt": "2015-01-05T20:55:37Z"
   },
   {
@@ -23695,7 +23695,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 866,
+    "privateContributions": 847,
     "publicContributions": 0,
     "createdAt": "2015-10-17T16:39:26Z"
   },

@@ -23552,7 +23552,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 11,
     "createdAt": "2018-05-30T17:40:21Z"
   },
   {
@@ -23574,9 +23574,9 @@
     "location": "Bishkek",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 32,
     "createdAt": "2018-06-04T14:04:04Z"
   },
   {
@@ -23588,27 +23588,15 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 3,
     "createdAt": "2018-04-23T13:53:39Z"
-  },
-  {
-    "login": "aidarkolbaev",
-    "name": "Aidar",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/42473335?s=72&v=4",
-    "location": "Bishkek",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 109,
-    "publicContributions": 0,
-    "createdAt": "2018-08-17T14:57:20Z"
   },
   {
     "login": "cherikbaev13",
     "name": "Tilek",
     "avatarUrl": "https://avatars.githubusercontent.com/u/43582297?s=72&u=0832e8cb730de7b9273c887a6a69b9c3b5ab33ba&v=4",
     "location": "Bishkek",
-    "company": "Student",
+    "company": "Senior Software Engineer",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
@@ -23636,7 +23624,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 101,
+    "publicContributions": 127,
     "createdAt": "2018-07-18T08:18:54Z"
   },
   {
@@ -23671,7 +23659,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 857,
+    "privateContributions": 996,
     "publicContributions": 0,
     "createdAt": "2018-10-12T06:57:31Z"
   },
@@ -23684,7 +23672,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 30,
+    "publicContributions": 71,
     "createdAt": "2018-09-16T15:28:31Z"
   },
   {
@@ -23730,7 +23718,7 @@
     "location": "Bishkek, Kyrgyzstan",
     "company": "",
     "twitterUsername": "",
-    "followers": 66,
+    "followers": 67,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-04-20T13:11:02Z"
@@ -23755,7 +23743,7 @@
     "company": "University of Central Asia",
     "twitterUsername": "",
     "followers": 35,
-    "privateContributions": 1,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-02-18T06:39:07Z"
   },

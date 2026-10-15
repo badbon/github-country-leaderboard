@@ -23299,7 +23299,7 @@
     "company": "ict.lv",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 3923,
+    "privateContributions": 5955,
     "publicContributions": 112,
     "createdAt": "2016-01-27T12:50:49Z"
   },
@@ -23311,7 +23311,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 933,
+    "privateContributions": 1041,
     "publicContributions": 1,
     "createdAt": "2016-05-09T13:13:12Z"
   },
@@ -23326,18 +23326,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-08-18T13:43:28Z"
-  },
-  {
-    "login": "Savin-Igor",
-    "name": "Igors Savins",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/18176162?s=72&u=c8ba1e5e914f58472da40cb6d4758c69fb45e228&v=4",
-    "location": "Riga, Latvija",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 2695,
-    "publicContributions": 14,
-    "createdAt": "2016-03-30T20:08:49Z"
   },
   {
     "login": "DmitrijsTheBear",
@@ -23360,7 +23348,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 3,
     "createdAt": "2016-09-18T14:54:36Z"
   },
   {
@@ -23374,18 +23362,6 @@
     "privateContributions": 0,
     "publicContributions": 5,
     "createdAt": "2016-04-15T15:18:15Z"
-  },
-  {
-    "login": "Ziedins",
-    "name": "Ziedins",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/20341680?s=72&u=205166e9914db3ebb77f08cd496bf18ac28b4019&v=4",
-    "location": "Riga",
-    "company": "Dynatech",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 41,
-    "createdAt": "2016-07-07T15:50:29Z"
   },
   {
     "login": "allexpetrov",
@@ -23431,8 +23407,8 @@
     "company": "Visma Labs",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 240,
-    "publicContributions": 11,
+    "privateContributions": 234,
+    "publicContributions": 13,
     "createdAt": "2016-05-31T07:16:11Z"
   },
   {

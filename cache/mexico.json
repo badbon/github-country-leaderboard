@@ -23432,7 +23432,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 30,
+    "publicContributions": 53,
     "createdAt": "2024-02-26T16:43:26Z"
   },
   {
@@ -23442,7 +23442,7 @@
     "location": "El marques, Queretaro",
     "company": "Siemens Energy",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2024-07-05T03:43:52Z"
@@ -23468,7 +23468,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 7,
     "createdAt": "2024-08-28T19:56:56Z"
   },
   {
@@ -23480,7 +23480,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 3,
     "createdAt": "2024-11-29T01:19:26Z"
   },
   {
@@ -23552,7 +23552,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 17,
     "createdAt": "2024-10-30T17:51:31Z"
   },
   {
@@ -23564,20 +23564,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 151,
+    "publicContributions": 180,
     "createdAt": "2024-03-05T17:58:52Z"
-  },
-  {
-    "login": "angelarroyod",
-    "name": "Jose Angel Arroyo Duran",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/163325502?s=72&u=fd5e3f0d74f5b468e8ab37b18b56b0abf0f8569c&v=4",
-    "location": "Queretaro",
-    "company": "GE Vernova",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 48,
-    "createdAt": "2024-03-13T15:26:08Z"
   },
   {
     "login": "ElizabethSotoT",
@@ -23635,8 +23623,8 @@
     "company": "DIMEDIA",
     "twitterUsername": "Zurdors",
     "followers": 23,
-    "privateContributions": 73,
-    "publicContributions": 2,
+    "privateContributions": 179,
+    "publicContributions": 1,
     "createdAt": "2012-06-11T14:57:37Z"
   },
   {
@@ -23648,7 +23636,7 @@
     "twitterUsername": "",
     "followers": 184,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 11,
     "createdAt": "2023-06-19T11:43:45Z"
   },
   {
@@ -23658,9 +23646,9 @@
     "location": "Mexico",
     "company": "Tu espacio tu vida",
     "twitterUsername": "",
-    "followers": 125,
+    "followers": 123,
     "privateContributions": 0,
-    "publicContributions": 113,
+    "publicContributions": 108,
     "createdAt": "2023-04-15T05:15:43Z"
   },
   {
