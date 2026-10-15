@@ -1,12 +1,12 @@
 # Public Contributions - Maldives
 
-Generated: 2026-10-15T15:59:02.102Z
+Generated: 2026-10-15T18:09:18.473Z
 
 Users: 354
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [hadithmv](https://github.com/hadithmv) | Mohamed Ashraaf Ibrahim | Hadithmv | hadithmv | Malé, Maldives | 1563 |
+| 1 | [hadithmv](https://github.com/hadithmv) | Mohamed Ashraaf Ibrahim | Hadithmv | hadithmv | Malé, Maldives | 1564 |
 | 2 | [nedanwr](https://github.com/nedanwr) | Naveed Ali Anwar | Self-Employed | nedanwr | Male', Maldives | 1340 |
 | 3 | [hilarl](https://github.com/hilarl) | Hilal Agil |  | hilaarl | Male', Maldives | 1307 |
 | 4 | [72sevenzy2](https://github.com/72sevenzy2) | 72 | CampaignityAI | 72sevenzy2 | malé, maldives  | 1281 |
@@ -19,10 +19,10 @@ Users: 354
 | 11 | [N4ZEN](https://github.com/N4ZEN) | Naza |  |  | Maldives | 498 |
 | 12 | [chipaau](https://github.com/chipaau) | ahmed shifau |  |  | Maldives | 468 |
 | 13 | [Ghoul4500](https://github.com/Ghoul4500) | Ahmed Yaseen | OXIQA |  | Maldives | 424 |
-| 14 | [xSil3nt](https://github.com/xSil3nt) | Shazin |  |  | Male', Maldives | 421 |
+| 14 | [xSil3nt](https://github.com/xSil3nt) | Shazin |  |  | Male', Maldives | 422 |
 | 15 | [M-IYAAADH](https://github.com/M-IYAAADH) | Mohamed Iyaadh |  |  | Male' , Maldives | 366 |
-| 16 | [aliaafee](https://github.com/aliaafee) | Ali Aafee |  |  | Maldives | 310 |
-| 17 | [hailam](https://github.com/hailam) | Mohamed Hailam Ahmed |  |  | Male`, Maldives | 309 |
+| 16 | [hailam](https://github.com/hailam) | Mohamed Hailam Ahmed |  |  | Male`, Maldives | 309 |
+| 17 | [aliaafee](https://github.com/aliaafee) | Ali Aafee |  |  | Maldives | 308 |
 | 18 | [athphane](https://github.com/athphane) | Athfan Khaleel | @Javaabu / @Baivaru |  | Maldives | 268 |
 | 19 | [WovenCoast](https://github.com/WovenCoast) | FlameXode | Allied | WovenCoast | Maldives | 233 |
 | 20 | [WhoIsFishie](https://github.com/WhoIsFishie) | fISHIE |  | WhoIsFishie | Maldives | 230 |

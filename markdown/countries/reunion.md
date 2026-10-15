@@ -23,34 +23,34 @@ Indexed users: 212
 | 9 | [ralphi2811](https://github.com/ralphi2811) | Raphaël Auberlet | Réunion Island | 2,093 |
 | 10 | [Skiwa](https://github.com/Skiwa) | Julien Haegman | Saint-Denis, Réunion | 2,044 |
 | 11 | [lvothnrv](https://github.com/lvothnrv) | LvothNrv | Reunion Island | 2,034 |
-| 12 | [Gabouin](https://github.com/Gabouin) | Gabouin | Reunion Island | 2,008 |
+| 12 | [Gabouin](https://github.com/Gabouin) | Gabouin | Reunion Island | 2,019 |
 | 13 | [John361](https://github.com/John361) | John | Réunion | 1,903 |
 | 14 | [IamArayel](https://github.com/IamArayel) | Arayel | Reunion Island | 1,779 |
 | 15 | [kevinturpin97](https://github.com/kevinturpin97) | RainMan | Reunion Island, France | 1,778 |
 | 16 | [Nasjoe](https://github.com/Nasjoe) | Jonas TURBEAUX | Réunion Island, Villeurbanne, Montpellier : France | 1,700 |
 | 17 | [eldertek](https://github.com/eldertek) | André Théo LAURET | Reunion Island | 1,654 |
-| 18 | [gfo974](https://github.com/gfo974) | Geoffrey Fournier  | Réunion Island | 1,367 |
-| 19 | [arthur-girardin-calbe](https://github.com/arthur-girardin-calbe) | Arthur Girardin--Calbe | Réunion | 1,285 |
+| 18 | [gfo974](https://github.com/gfo974) | Geoffrey Fournier  | Réunion Island | 1,369 |
+| 19 | [arthur-girardin-calbe](https://github.com/arthur-girardin-calbe) | Arthur Girardin--Calbe | Réunion | 1,290 |
 | 20 | [Robin-Lune](https://github.com/Robin-Lune) |  | Réunion | 1,159 |
 
 ## Public Contributions
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [Gabouin](https://github.com/Gabouin) | Gabouin | Reunion Island | 1,941 |
+| 1 | [Gabouin](https://github.com/Gabouin) | Gabouin | Reunion Island | 1,952 |
 | 2 | [Nasjoe](https://github.com/Nasjoe) | Jonas TURBEAUX | Réunion Island, Villeurbanne, Montpellier : France | 1,700 |
 | 3 | [elmarco](https://github.com/elmarco) | Marc-André Lureau | Réunion | 1,146 |
 | 4 | [ChaffyLace](https://github.com/ChaffyLace) |  | Saint Denis | 970 |
 | 5 | [PhilDL](https://github.com/PhilDL) | Philippe L'ATTENTION | Réunion | 869 |
 | 6 | [IamArayel](https://github.com/IamArayel) | Arayel | Reunion Island | 713 |
-| 7 | [gfo974](https://github.com/gfo974) | Geoffrey Fournier  | Réunion Island | 701 |
+| 7 | [gfo974](https://github.com/gfo974) | Geoffrey Fournier  | Réunion Island | 703 |
 | 8 | [Karl97490](https://github.com/Karl97490) | Karl Pery-Potonie | Réunion | 485 |
 | 9 | [John361](https://github.com/John361) | John | Réunion | 343 |
 | 10 | [W-D0n](https://github.com/W-D0n) | D0n | Reunion Island | 335 |
 | 11 | [ralphi2811](https://github.com/ralphi2811) | Raphaël Auberlet | Réunion Island | 308 |
-| 12 | [DeiTsukiii](https://github.com/DeiTsukiii) | DeiTsuki | Reunion Island | 289 |
-| 13 | [arthur-girardin-calbe](https://github.com/arthur-girardin-calbe) | Arthur Girardin--Calbe | Réunion | 288 |
-| 14 | [bourgault314](https://github.com/bourgault314) | Gwenaël Bourgault | Réunion island  | 280 |
+| 12 | [arthur-girardin-calbe](https://github.com/arthur-girardin-calbe) | Arthur Girardin--Calbe | Réunion | 288 |
+| 13 | [bourgault314](https://github.com/bourgault314) | Gwenaël Bourgault | Réunion island  | 280 |
+| 14 | [DeiTsukiii](https://github.com/DeiTsukiii) | DeiTsuki | Reunion Island | 279 |
 | 15 | [dancodeur](https://github.com/dancodeur) | Dan Elenga |  93210, Saint-Denis | 276 |
 | 16 | [jnativel](https://github.com/jnativel) | Jimmy NATIVEL | Reunion Island | 267 |
 | 17 | [RandomZeleff](https://github.com/RandomZeleff) | Zeleff_ | Reunion Island | 234 |
@@ -83,4 +83,4 @@ Indexed users: 212
 | 19 | [JeCodeLeSoir](https://github.com/JeCodeLeSoir) | Aurélien | Réunion | 20 |
 | 20 | [Nasjoe](https://github.com/Nasjoe) | Jonas TURBEAUX | Réunion Island, Villeurbanne, Montpellier : France | 20 |
 
-Generated: 2026-10-15T16:14:05.157Z
+Generated: 2026-10-15T18:26:55.404Z

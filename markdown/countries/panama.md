@@ -12,7 +12,7 @@ Indexed users: 1,069
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [MattRiddell](https://github.com/MattRiddell) | Matthew Riddell | Panama | 43,858 |
+| 1 | [MattRiddell](https://github.com/MattRiddell) | Matthew Riddell | Panama | 46,353 |
 | 2 | [ElenaRevicheva](https://github.com/ElenaRevicheva) | Elena | Panama, Panama city | 24,100 |
 | 3 | [rafaaro](https://github.com/rafaaro) | Rafael Arosemena | Panama | 20,799 |
 | 4 | [jeremymcs](https://github.com/jeremymcs) | Jeremy McSpadden | Panama City, FL | 18,057 |
@@ -21,8 +21,8 @@ Indexed users: 1,069
 | 7 | [Kenth06](https://github.com/Kenth06) | Kenneth Rios | Panama | 16,047 |
 | 8 | [ricardostmalo](https://github.com/ricardostmalo) | Ricardo de Saint Malo | Panama | 15,813 |
 | 9 | [hjupter](https://github.com/hjupter) | Hjupter Cerrud | Panama | 15,572 |
-| 10 | [lexjm](https://github.com/lexjm) | Alexander  | Panama City, Panama | 9,643 |
-| 11 | [gonzalezulises](https://github.com/gonzalezulises) | Ulises Gonzalez | Panama | 9,624 |
+| 10 | [gonzalezulises](https://github.com/gonzalezulises) | Ulises Gonzalez | Panama | 10,073 |
+| 11 | [lexjm](https://github.com/lexjm) | Alexander  | Panama City, Panama | 9,643 |
 | 12 | [bgawne](https://github.com/bgawne) | Brad Gawne | Panama | 9,524 |
 | 13 | [captainsparrow10](https://github.com/captainsparrow10) | Javier Acosta Tullock | Panama | 8,841 |
 | 14 | [atomikigai](https://github.com/atomikigai) | Jostick Quiel | Panama | 8,121 |
@@ -45,7 +45,7 @@ Indexed users: 1,069
 | 6 | [ergofobe](https://github.com/ergofobe) | Jim Phillips | Panama | 2,166 |
 | 7 | [Yizack](https://github.com/Yizack) | Yizack Rangel | Panama | 1,975 |
 | 8 | [kingg22](https://github.com/kingg22) | Rey | Panama | 1,951 |
-| 9 | [gonzalezulises](https://github.com/gonzalezulises) | Ulises Gonzalez | Panama | 1,844 |
+| 9 | [gonzalezulises](https://github.com/gonzalezulises) | Ulises Gonzalez | Panama | 1,841 |
 | 10 | [ArkoSammy12](https://github.com/ArkoSammy12) | James Villarreal | Panama City, Panama | 1,425 |
 | 11 | [quantumquirkxyz](https://github.com/quantumquirkxyz) | Jhuomar Boskoll Quintero | Panama City, Panama | 1,320 |
 | 12 | [jaimelias](https://github.com/jaimelias) | Jaimelías | Panama City, Panama | 1,311 |
@@ -83,4 +83,4 @@ Indexed users: 1,069
 | 19 | [Commandtechno](https://github.com/Commandtechno) | Techno | David, Panama | 49 |
 | 20 | [Iardo](https://github.com/Iardo) | Ivan Ramos | Panama | 47 |
 
-Generated: 2026-10-15T14:43:14.014Z
+Generated: 2026-10-15T18:22:43.823Z

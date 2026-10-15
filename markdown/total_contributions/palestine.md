@@ -1,12 +1,12 @@
 # Total Contributions - Palestine
 
-Generated: 2026-10-15T16:10:19.813Z
+Generated: 2026-10-15T18:22:03.547Z
 
 Users: 2200
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [TareqK](https://github.com/TareqK) | Tareq Kirresh طارق قرش | Kisoft |  | Jerusalem, Palestine | 87555 |
+| 1 | [TareqK](https://github.com/TareqK) | Tareq Kirresh طارق قرش | Kisoft |  | Jerusalem, Palestine | 85702 |
 | 2 | [prxgma](https://github.com/prxgma) |  |  |  | Gaza, Palestine | 17930 |
 | 3 | [AhmedMElhalaby](https://github.com/AhmedMElhalaby) | Ahmed M. Elhalaby |  | AhmedMElhalaby | Palestine, Gaza, Remal, khdeer Tower , 5th floor | 12358 |
 | 4 | [AbdulsalamMansour](https://github.com/AbdulsalamMansour) | Abdulsalam Mansour | LogesTechs |  | Palestine | 12329 |

@@ -1,6 +1,6 @@
 # Ecuador
 
-Indexed users: 4,893
+Indexed users: 4,892
 
 | Leaderboard | Link |
 |---|---|
@@ -21,17 +21,17 @@ Indexed users: 4,893
 | 7 | [JorgeDoicela](https://github.com/JorgeDoicela) | Jorge Doicela | Quito | 7,903 |
 | 8 | [StevSant](https://github.com/StevSant) | Bryan Menoscal | Ecuador, Manabi, Manta | 7,246 |
 | 9 | [Neoterux](https://github.com/Neoterux) | Luis Andrés Bajaña F. | Guayaquil, Ecuador | 7,234 |
-| 10 | [br-programmer](https://github.com/br-programmer) | Brayan Cantos | Ecuador | 6,794 |
-| 11 | [alvarezmario](https://github.com/alvarezmario) | Mario A. Alvarez Garcia | Quito, Ecuador | 6,554 |
-| 12 | [jorgesolerrr](https://github.com/jorgesolerrr) | Jorge Soler | Guayaquil, Ecuador | 6,539 |
-| 13 | [joffx](https://github.com/joffx) | Joffre Veloz | Ecuador | 6,361 |
-| 14 | [devrchancay](https://github.com/devrchancay) | Ramón Chancay Ortega  | Ecuador, Guayaquil | 6,275 |
-| 15 | [raulidavid](https://github.com/raulidavid) | Raúl Flores | Ecuador | 6,081 |
-| 16 | [Johrespi](https://github.com/Johrespi) | Johann Alejandro Ramírez Espinoza | Guayaquil, Ecuador | 6,048 |
-| 17 | [shaskola](https://github.com/shaskola) | Fernando Ruiz | Ecuador | 5,843 |
-| 18 | [astandre](https://github.com/astandre) | André Herrera | Loja, Ecuador | 5,601 |
-| 19 | [somatechlat](https://github.com/somatechlat) | SomaTech - Bringin Artificiall Intelligence closer to Humans  | Quito | 5,138 |
-| 20 | [AndresGnu](https://github.com/AndresGnu) | Andrés Navarrete | Quito, Ecuador | 5,051 |
+| 10 | [sanieni6](https://github.com/sanieni6) | Luis Sanchez | Ecuador | 7,174 |
+| 11 | [br-programmer](https://github.com/br-programmer) | Brayan Cantos | Ecuador | 6,794 |
+| 12 | [alvarezmario](https://github.com/alvarezmario) | Mario A. Alvarez Garcia | Quito, Ecuador | 6,554 |
+| 13 | [jorgesolerrr](https://github.com/jorgesolerrr) | Jorge Soler | Guayaquil, Ecuador | 6,539 |
+| 14 | [joffx](https://github.com/joffx) | Joffre Veloz | Ecuador | 6,361 |
+| 15 | [devrchancay](https://github.com/devrchancay) | Ramón Chancay Ortega  | Ecuador, Guayaquil | 6,275 |
+| 16 | [raulidavid](https://github.com/raulidavid) | Raúl Flores | Ecuador | 6,081 |
+| 17 | [Johrespi](https://github.com/Johrespi) | Johann Alejandro Ramírez Espinoza | Guayaquil, Ecuador | 6,048 |
+| 18 | [shaskola](https://github.com/shaskola) | Fernando Ruiz | Ecuador | 5,843 |
+| 19 | [astandre](https://github.com/astandre) | André Herrera | Loja, Ecuador | 5,601 |
+| 20 | [somatechlat](https://github.com/somatechlat) | SomaTech - Bringin Artificiall Intelligence closer to Humans  | Quito | 5,138 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 4,893
 | 19 | [Davichobits](https://github.com/Davichobits) | David Ruiz | Ecuador | 116 |
 | 20 | [Bryan-Herrera-DEV](https://github.com/Bryan-Herrera-DEV) | Bryan Herrera ~ ርᚱ1ናተᛰ ᚻህᚥተპᚱ | Ecuador | 115 |
 
-Generated: 2026-10-15T15:36:38.432Z
+Generated: 2026-10-15T17:47:21.948Z

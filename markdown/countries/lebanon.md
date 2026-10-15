@@ -21,17 +21,17 @@ Indexed users: 2,565
 | 7 | [AbedAmouneh](https://github.com/AbedAmouneh) | Abed El-Fattah Amouneh | Lebanon | 9,741 |
 | 8 | [abedshaaban](https://github.com/abedshaaban) | Abed Al Ghani Shaaban | Lebanon | 9,233 |
 | 9 | [JanoTheDev](https://github.com/JanoTheDev) | Jean Haddad | Lebanon | 9,150 |
-| 10 | [osmankh](https://github.com/osmankh) | Osman Taha | Zgharta District, North Governorate, Lebanon | 8,102 |
-| 11 | [mustafahalabi](https://github.com/mustafahalabi) | Mustafa Halabi | Lebanon | 8,068 |
-| 12 | [mhdbouk](https://github.com/mhdbouk) | Mohamad Dbouk | Beirut, Lebanon | 7,264 |
-| 13 | [MohammadKanaan](https://github.com/MohammadKanaan) | Mohammad Kanaan | Lebanon | 6,600 |
-| 14 | [mincer-fundbot](https://github.com/mincer-fundbot) | Mincer Alaeddine | Beirut | 6,452 |
-| 15 | [shahednasser](https://github.com/shahednasser) | Shahed Nasser | Aaramoun, Lebanon | 6,334 |
-| 16 | [MrPancakes39](https://github.com/MrPancakes39) | Sal Hasan | Aley, Lebanon | 6,170 |
-| 17 | [MohamadMoheb](https://github.com/MohamadMoheb) | Mohamad Moheb | Rmeileh, Lebanon | 5,892 |
-| 18 | [Kaakati](https://github.com/Kaakati) | Mohamad Kaakati | Beirut, Lebanon | 5,864 |
-| 19 | [alishkeir](https://github.com/alishkeir) | Ali Shokair | Beirut, Lebanon | 5,577 |
-| 20 | [KABBOUCHI](https://github.com/KABBOUCHI) | Georges KABBOUCHI | Lebanon | 5,390 |
+| 10 | [wwilson1017](https://github.com/wwilson1017) | Will Wilson | Lebanon, TN | 8,237 |
+| 11 | [osmankh](https://github.com/osmankh) | Osman Taha | Zgharta District, North Governorate, Lebanon | 8,102 |
+| 12 | [mustafahalabi](https://github.com/mustafahalabi) | Mustafa Halabi | Lebanon | 8,068 |
+| 13 | [mhdbouk](https://github.com/mhdbouk) | Mohamad Dbouk | Beirut, Lebanon | 7,264 |
+| 14 | [MohammadKanaan](https://github.com/MohammadKanaan) | Mohammad Kanaan | Lebanon | 6,600 |
+| 15 | [mincer-fundbot](https://github.com/mincer-fundbot) | Mincer Alaeddine | Beirut | 6,452 |
+| 16 | [shahednasser](https://github.com/shahednasser) | Shahed Nasser | Aaramoun, Lebanon | 6,334 |
+| 17 | [MrPancakes39](https://github.com/MrPancakes39) | Sal Hasan | Aley, Lebanon | 6,170 |
+| 18 | [MohamadMoheb](https://github.com/MohamadMoheb) | Mohamad Moheb | Rmeileh, Lebanon | 5,892 |
+| 19 | [Kaakati](https://github.com/Kaakati) | Mohamad Kaakati | Beirut, Lebanon | 5,864 |
+| 20 | [alishkeir](https://github.com/alishkeir) | Ali Shokair | Beirut, Lebanon | 5,577 |
 
 ## Public Contributions
 
@@ -51,12 +51,12 @@ Indexed users: 2,565
 | 12 | [AbedAmouneh](https://github.com/AbedAmouneh) | Abed El-Fattah Amouneh | Lebanon | 1,671 |
 | 13 | [imtithalhalalo](https://github.com/imtithalhalalo) | Imtithal Halalo | Beirut, Lebanon | 1,233 |
 | 14 | [ahomsi0](https://github.com/ahomsi0) | Ahmad Homsi | Lebanon | 1,160 |
-| 15 | [mahdi-alkak-1](https://github.com/mahdi-alkak-1) | Mahdi Kak | Lebanon,Beirut | 1,138 |
-| 16 | [Kronbii](https://github.com/Kronbii) | Rami Kronbi | Beirut, LB | 1,107 |
-| 17 | [mcfarhat](https://github.com/mcfarhat) | Mohammad Farhat | Lebanon | 1,082 |
-| 18 | [jat10](https://github.com/jat10) | Jad Tarabay | Lebanon | 1,073 |
-| 19 | [mabd-dev](https://github.com/mabd-dev) | Mahmoud Abdallah | Beirut, Lebanon | 1,066 |
-| 20 | [naveed-gung](https://github.com/naveed-gung) | Navid | Beirut, Lebanon | 1,032 |
+| 15 | [wwilson1017](https://github.com/wwilson1017) | Will Wilson | Lebanon, TN | 1,158 |
+| 16 | [mahdi-alkak-1](https://github.com/mahdi-alkak-1) | Mahdi Kak | Lebanon,Beirut | 1,138 |
+| 17 | [Kronbii](https://github.com/Kronbii) | Rami Kronbi | Beirut, LB | 1,107 |
+| 18 | [mcfarhat](https://github.com/mcfarhat) | Mohammad Farhat | Lebanon | 1,082 |
+| 19 | [jat10](https://github.com/jat10) | Jad Tarabay | Lebanon | 1,073 |
+| 20 | [mabd-dev](https://github.com/mabd-dev) | Mahmoud Abdallah | Beirut, Lebanon | 1,066 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 2,565
 | 19 | [hadiidbouk](https://github.com/hadiidbouk) | Hadi Dbouk | Lebanon | 100 |
 | 20 | [rhamzeh](https://github.com/rhamzeh) | Raghd Hamzeh | Beirut, Lebanon | 95 |
 
-Generated: 2026-10-15T15:55:49.432Z
+Generated: 2026-10-15T18:06:24.003Z

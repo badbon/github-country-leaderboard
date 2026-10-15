@@ -1,12 +1,12 @@
 # Total Contributions - Panama
 
-Generated: 2026-10-15T14:43:14.014Z
+Generated: 2026-10-15T18:22:43.823Z
 
 Users: 1069
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [MattRiddell](https://github.com/MattRiddell) | Matthew Riddell | Group Advisors, NeoGen.AI, COVID Schedule, VentureVoIP, CreateOffshoreCompany, SineApps, VentureIP, C O International Holdings, Bio Earth Farms, Light Stream Farms, Singularity Software | MattRiddell | Panama | 43858 |
+| 1 | [MattRiddell](https://github.com/MattRiddell) | Matthew Riddell | Group Advisors, NeoGen.AI, COVID Schedule, VentureVoIP, CreateOffshoreCompany, SineApps, VentureIP, C O International Holdings, Bio Earth Farms, Light Stream Farms, Singularity Software | MattRiddell | Panama | 46353 |
 | 2 | [ElenaRevicheva](https://github.com/ElenaRevicheva) | Elena | AIdeazz start-up | reviceva | Panama, Panama city | 24100 |
 | 3 | [rafaaro](https://github.com/rafaaro) | Rafael Arosemena | RARO |  | Panama | 20799 |
 | 4 | [jeremymcs](https://github.com/jeremymcs) | Jeremy McSpadden | Flux Labs | jeremymcs | Panama City, FL | 18057 |
@@ -15,8 +15,8 @@ Users: 1069
 | 7 | [Kenth06](https://github.com/Kenth06) | Kenneth Rios | ASSA |  | Panama | 16047 |
 | 8 | [ricardostmalo](https://github.com/ricardostmalo) | Ricardo de Saint Malo | Boton | ricardostmalo | Panama | 15813 |
 | 9 | [hjupter](https://github.com/hjupter) | Hjupter Cerrud |  | hjupter | Panama | 15572 |
-| 10 | [lexjm](https://github.com/lexjm) | Alexander  | TKS TECHNOLOGY |  | Panama City, Panama | 9643 |
-| 11 | [gonzalezulises](https://github.com/gonzalezulises) | Ulises Gonzalez | rizoma | gonzalezulises | Panama | 9624 |
+| 10 | [gonzalezulises](https://github.com/gonzalezulises) | Ulises Gonzalez | rizoma | gonzalezulises | Panama | 10073 |
+| 11 | [lexjm](https://github.com/lexjm) | Alexander  | TKS TECHNOLOGY |  | Panama City, Panama | 9643 |
 | 12 | [bgawne](https://github.com/bgawne) | Brad Gawne |  |  | Panama | 9524 |
 | 13 | [captainsparrow10](https://github.com/captainsparrow10) | Javier Acosta Tullock |  |  | Panama | 8841 |
 | 14 | [atomikigai](https://github.com/atomikigai) | Jostick Quiel | The no name company |  | Panama | 8121 |

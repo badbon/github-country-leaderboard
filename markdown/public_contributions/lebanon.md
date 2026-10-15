@@ -1,6 +1,6 @@
 # Public Contributions - Lebanon
 
-Generated: 2026-10-15T15:55:49.432Z
+Generated: 2026-10-15T18:06:24.003Z
 
 Users: 2565
 
@@ -20,9 +20,9 @@ Users: 2565
 | 12 | [AbedAmouneh](https://github.com/AbedAmouneh) | Abed El-Fattah Amouneh | @voxire |  | Lebanon | 1671 |
 | 13 | [imtithalhalalo](https://github.com/imtithalhalalo) | Imtithal Halalo |  |  | Beirut, Lebanon | 1233 |
 | 14 | [ahomsi0](https://github.com/ahomsi0) | Ahmad Homsi |  |  | Lebanon | 1160 |
-| 15 | [mahdi-alkak-1](https://github.com/mahdi-alkak-1) | Mahdi Kak |  |  | Lebanon,Beirut | 1138 |
-| 16 | [Kronbii](https://github.com/Kronbii) | Rami Kronbi | @Oreyeon |  | Beirut, LB | 1107 |
-| 17 | [mcfarhat](https://github.com/mcfarhat) | Mohammad Farhat | Greateck |  | Lebanon | 1082 |
-| 18 | [jat10](https://github.com/jat10) | Jad Tarabay | ZAQ |  | Lebanon | 1073 |
-| 19 | [mabd-dev](https://github.com/mabd-dev) | Mahmoud Abdallah |  | MABDdev | Beirut, Lebanon | 1066 |
-| 20 | [naveed-gung](https://github.com/naveed-gung) | Navid |  |  | Beirut, Lebanon | 1032 |
+| 15 | [wwilson1017](https://github.com/wwilson1017) | Will Wilson | TN Cheesecake |  | Lebanon, TN | 1158 |
+| 16 | [mahdi-alkak-1](https://github.com/mahdi-alkak-1) | Mahdi Kak |  |  | Lebanon,Beirut | 1138 |
+| 17 | [Kronbii](https://github.com/Kronbii) | Rami Kronbi | @Oreyeon |  | Beirut, LB | 1107 |
+| 18 | [mcfarhat](https://github.com/mcfarhat) | Mohammad Farhat | Greateck |  | Lebanon | 1082 |
+| 19 | [jat10](https://github.com/jat10) | Jad Tarabay | ZAQ |  | Lebanon | 1073 |
+| 20 | [mabd-dev](https://github.com/mabd-dev) | Mahmoud Abdallah |  | MABDdev | Beirut, Lebanon | 1066 |

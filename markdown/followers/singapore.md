@@ -1,6 +1,6 @@
 # Followers - Singapore
 
-Generated: 2026-10-14T01:16:41.805Z
+Generated: 2026-10-15T18:30:50.237Z
 
 Users: 24699
 

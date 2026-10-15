@@ -25,12 +25,12 @@ Indexed users: 339
 | 11 | [youko509](https://github.com/youko509) |  Erico Saint-Charles | Haiti | 1,764 |
 | 12 | [kingsGuillaume99](https://github.com/kingsGuillaume99) | Guillaume Kingsley | Port-au-Prince , Haiti | 1,752 |
 | 13 | [bleuscyther](https://github.com/bleuscyther) | jeffrey n. carre | Haiti | 1,728 |
-| 14 | [didierganthier](https://github.com/didierganthier) | Didier Peran Ganthier | Port-au-prince, Haïti | 1,710 |
+| 14 | [didierganthier](https://github.com/didierganthier) | Didier Peran Ganthier | Port-au-prince, Haïti | 1,717 |
 | 15 | [thecassion](https://github.com/thecassion) | Pierre Robentz CASSION | Haiti | 1,527 |
 | 16 | [antifugazis](https://github.com/antifugazis) | Jyvor Slaadel Mortimer | Port-au-Prince | 1,453 |
-| 17 | [fater04](https://github.com/fater04) | fater_04 | Haiti | 1,112 |
+| 17 | [fater04](https://github.com/fater04) | fater_04 | Haiti | 1,157 |
 | 18 | [jsbeaudry](https://github.com/jsbeaudry) | Beaudry Jean Sauvenel | Port-au-prince, Haiti | 974 |
-| 19 | [EdManDev](https://github.com/EdManDev) | EdManDev | Haiti | 938 |
+| 19 | [EdManDev](https://github.com/EdManDev) | EdManDev | Haiti | 944 |
 | 20 | [dukenst2006](https://github.com/dukenst2006) | Thelemaque | Port-au-Prince | 894 |
 
 ## Public Contributions
@@ -83,4 +83,4 @@ Indexed users: 339
 | 19 | [skydevht](https://github.com/skydevht) | Holy-Elie Scaïde | Port-au-prince, Haïti | 32 |
 | 20 | [DybyTechX](https://github.com/DybyTechX) | DybyTechX | haiti | 31 |
 
-Generated: 2026-10-15T15:46:52.067Z
+Generated: 2026-10-15T17:57:29.485Z

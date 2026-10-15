@@ -1,6 +1,6 @@
 # Total Contributions - Iraq
 
-Generated: 2026-10-15T15:48:53.573Z
+Generated: 2026-10-15T18:01:10.795Z
 
 Users: 2239
 
@@ -23,6 +23,6 @@ Users: 2239
 | 15 | [RezdarNajeeb](https://github.com/RezdarNajeeb) | Rezdar Najeeb | @oXero-krd  |  | Iraq | 6468 |
 | 16 | [5h4k4r](https://github.com/5h4k4r) | Shakar Bakr | @ditkrg | shakar__ | Erbil, Iraq | 6285 |
 | 17 | [RekarBotany](https://github.com/RekarBotany) | Rekar Botany | Lezzoo Inc. | Rekar_Botany | Iraq, Erbil | 5958 |
-| 18 | [DiyarFirasmusa](https://github.com/DiyarFirasmusa) | Diyar Firas | @simple-applicable-solutions  |  | iraq | 5941 |
-| 19 | [s1mpLyy](https://github.com/s1mpLyy) | Hamza Kareem | @Miswag |  | Baghdad, Iraq | 5566 |
-| 20 | [OneAboveAll1964](https://github.com/OneAboveAll1964) | Shko Maghdid Ebrahim | Otee.co |  | Erbil, Iraq | 5477 |
+| 18 | [3bbasDev](https://github.com/3bbasDev) | Abbas Radam |  |  | Baghdad | 5942 |
+| 19 | [DiyarFirasmusa](https://github.com/DiyarFirasmusa) | Diyar Firas | @simple-applicable-solutions  |  | iraq | 5941 |
+| 20 | [s1mpLyy](https://github.com/s1mpLyy) | Hamza Kareem | @Miswag |  | Baghdad, Iraq | 5566 |

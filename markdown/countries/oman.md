@@ -62,7 +62,7 @@ Indexed users: 992
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [pylover](https://github.com/pylover) | Vahid | Muscat, Oman | 425 |
+| 1 | [pylover](https://github.com/pylover) | Vahid | Muscat, Oman | 424 |
 | 2 | [salim3dd](https://github.com/salim3dd) | Salim3dd | Sultanate Of Oman | 284 |
 | 3 | [uiamirali](https://github.com/uiamirali) | Amirali Jalalvand | Muscat, Oman | 248 |
 | 4 | [habibalmawali](https://github.com/habibalmawali) | Habib AlMawali | Oman | 227 |
@@ -83,4 +83,4 @@ Indexed users: 992
 | 19 | [3mrdev](https://github.com/3mrdev) | Amr Abd-Alkrim | Khartoum, Sudan \| Muscat, Oman | 94 |
 | 20 | [AmirSa12](https://github.com/AmirSa12) | AmirHossein Sakhravi | Muscat, Oman | 91 |
 
-Generated: 2026-10-15T16:09:00.301Z
+Generated: 2026-10-15T18:20:18.905Z

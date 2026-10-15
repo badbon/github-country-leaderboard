@@ -29,9 +29,9 @@ Indexed users: 2,239
 | 15 | [RezdarNajeeb](https://github.com/RezdarNajeeb) | Rezdar Najeeb | Iraq | 6,468 |
 | 16 | [5h4k4r](https://github.com/5h4k4r) | Shakar Bakr | Erbil, Iraq | 6,285 |
 | 17 | [RekarBotany](https://github.com/RekarBotany) | Rekar Botany | Iraq, Erbil | 5,958 |
-| 18 | [DiyarFirasmusa](https://github.com/DiyarFirasmusa) | Diyar Firas | iraq | 5,941 |
-| 19 | [s1mpLyy](https://github.com/s1mpLyy) | Hamza Kareem | Baghdad, Iraq | 5,566 |
-| 20 | [OneAboveAll1964](https://github.com/OneAboveAll1964) | Shko Maghdid Ebrahim | Erbil, Iraq | 5,477 |
+| 18 | [3bbasDev](https://github.com/3bbasDev) | Abbas Radam | Baghdad | 5,942 |
+| 19 | [DiyarFirasmusa](https://github.com/DiyarFirasmusa) | Diyar Firas | iraq | 5,941 |
+| 20 | [s1mpLyy](https://github.com/s1mpLyy) | Hamza Kareem | Baghdad, Iraq | 5,566 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 2,239
 | 19 | [Om4r-007](https://github.com/Om4r-007) | Omar Imad | Baghdad / Iraq | 202 |
 | 20 | [TARQkop](https://github.com/TARQkop) | TARIQ | IRAQ | 178 |
 
-Generated: 2026-10-15T15:48:53.573Z
+Generated: 2026-10-15T18:01:10.795Z

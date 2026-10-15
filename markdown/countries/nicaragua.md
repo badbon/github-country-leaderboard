@@ -53,8 +53,8 @@ Indexed users: 1,394
 | 14 | [R0LM0](https://github.com/R0LM0) | r0lm0 | Managua, Nicaragua | 1,027 |
 | 15 | [TheSteelNinjaCode](https://github.com/TheSteelNinjaCode) | Jefferson Abraham Omier | Nicaragua | 987 |
 | 16 | [ernestoruiz89](https://github.com/ernestoruiz89) | Ernesto Ruiz | Nicaragua | 967 |
-| 17 | [fabmnt](https://github.com/fabmnt) | Fabián Montoya | Nicaragua | 895 |
-| 18 | [Gaboxqc](https://github.com/Gaboxqc) | Gabriel Mayorga | Managua | 894 |
+| 17 | [Gaboxqc](https://github.com/Gaboxqc) | Gabriel Mayorga | Managua | 917 |
+| 18 | [fabmnt](https://github.com/fabmnt) | Fabián Montoya | Nicaragua | 895 |
 | 19 | [xangcastle](https://github.com/xangcastle) | Cesar Abel | Nicaragua | 845 |
 | 20 | [Alvinferdeveloper](https://github.com/Alvinferdeveloper) | Albin Fernandez | Leon, Nicaragua | 838 |
 
@@ -83,4 +83,4 @@ Indexed users: 1,394
 | 19 | [dannygaray60](https://github.com/dannygaray60) | Danny Garay | Nicaragua | 61 |
 | 20 | [jonathanquehay](https://github.com/jonathanquehay) | Jonathán Moreno | Nicaragua | 60 |
 
-Generated: 2026-10-15T16:07:31.279Z
+Generated: 2026-10-15T18:18:19.081Z

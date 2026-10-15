@@ -1,6 +1,6 @@
 # Public Contributions - Paraguay
 
-Generated: 2026-10-15T16:12:37.594Z
+Generated: 2026-10-15T18:24:07.208Z
 
 Users: 2014
 
@@ -24,5 +24,5 @@ Users: 2014
 | 16 | [Renetrox](https://github.com/Renetrox) | Dino René Caballero Marquez |  |  | Paraguay | 971 |
 | 17 | [janparkio](https://github.com/janparkio) | Jan Park | LeadWise (PL EAS) @leadwisepro  | janparkio | Paraguay | 966 |
 | 18 | [da21nny](https://github.com/da21nny) | Edgar Vega |  |  | Paraguay | 906 |
-| 19 | [melizeche](https://github.com/melizeche) | Marcelo Elizeche Landó | @goauthentik | melizeche | Paraguay | 905 |
-| 20 | [isaias-alt](https://github.com/isaias-alt) | Lucas Isaias Casco |  | lucascodev | Paraguay | 892 |
+| 19 | [isaias-alt](https://github.com/isaias-alt) | Lucas Isaias Casco |  | lucascodev | Paraguay | 892 |
+| 20 | [hekatonkheirex](https://github.com/hekatonkheirex) | Rodrigo Y. Murayama |  |  | Asunción, Paraguay | 891 |

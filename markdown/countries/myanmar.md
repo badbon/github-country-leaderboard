@@ -31,7 +31,7 @@ Indexed users: 2,061
 | 17 | [KHUN-NOON](https://github.com/KHUN-NOON) |  | Taunggyi, Myanmar | 3,409 |
 | 18 | [YeMyoAung](https://github.com/YeMyoAung) | Ye Myo Aung | Myanmar/Mandalay | 3,399 |
 | 19 | [MinThutaSawNaing](https://github.com/MinThutaSawNaing) | Min Thuta Saw Naing Eric | Myanmar/ Singapore | 3,322 |
-| 20 | [win-than-htike](https://github.com/win-than-htike) | Win Than Htike | Yangon, Myanmar(Burma) | 3,198 |
+| 20 | [sithuaung](https://github.com/sithuaung) | Si Thu Aung | Myanmar | 3,249 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 2,061
 | 19 | [winsandymyint](https://github.com/winsandymyint) | Win Sandy Myint | Myanmar | 167 |
 | 20 | [LunaM00n](https://github.com/LunaM00n) | Thin Ba Shane (Luna) | Myanmar | 162 |
 
-Generated: 2026-10-15T16:04:14.173Z
+Generated: 2026-10-15T18:16:11.433Z

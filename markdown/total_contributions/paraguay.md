@@ -1,6 +1,6 @@
 # Total Contributions - Paraguay
 
-Generated: 2026-10-15T16:12:37.594Z
+Generated: 2026-10-15T18:24:07.208Z
 
 Users: 2014
 
@@ -16,13 +16,13 @@ Users: 2014
 | 8 | [cmelgarejo](https://github.com/cmelgarejo) | Christian Melgarejo | @LoopContext |  | Paraguay | 9877 |
 | 9 | [zot24](https://github.com/zot24) |  | Motty | zot24 | Asuncion, Paraguay | 7889 |
 | 10 | [juraj-m](https://github.com/juraj-m) | Juraj |  |  | Yaguarón, Paraguay | 7879 |
-| 11 | [dev-cardenas](https://github.com/dev-cardenas) | Fernando Salinas Cardenas |  |  | Paraguay | 7008 |
-| 12 | [kiquetal](https://github.com/kiquetal) | Enrique\m/Talavera | <) |  | Paraguay | 6752 |
-| 13 | [MHHukiewitz](https://github.com/MHHukiewitz) | Mike Hukiewitz | YourTrading.ai GbR |  | Paraguay, Cordillera | 6583 |
-| 14 | [davicyyo](https://github.com/davicyyo) | DaViCyYo | HeadArrow | davicyyoYT | Paraguay | 5811 |
-| 15 | [yoryer](https://github.com/yoryer) | Jorge Noguera |  | yoryer | Paraguay | 5465 |
-| 16 | [apojomovsky](https://github.com/apojomovsky) | Alexis Pojomovsky |  |  | Asunción - Paraguay | 5111 |
-| 17 | [InumanSoul](https://github.com/InumanSoul) | Anderson Fariña |  | Inumansoul | Paraguay | 5001 |
-| 18 | [aplgr](https://github.com/aplgr) | André Plöger |  |  | Paraguay | 4966 |
-| 19 | [luifer-villalba](https://github.com/luifer-villalba) | Luifer Villalba | Mentormate | luifervillalba | Asunción, Paraguay | 4805 |
-| 20 | [sclavijo93](https://github.com/sclavijo93) | Saul Clavijo |  |  | Asuncion, Paraguay | 4708 |
+| 11 | [mathiasgrimm](https://github.com/mathiasgrimm) | Mathias Grimm | @laravel | matgrimm | Asunción, Paraguay | 7299 |
+| 12 | [dev-cardenas](https://github.com/dev-cardenas) | Fernando Salinas Cardenas |  |  | Paraguay | 7008 |
+| 13 | [kiquetal](https://github.com/kiquetal) | Enrique\m/Talavera | <) |  | Paraguay | 6752 |
+| 14 | [MHHukiewitz](https://github.com/MHHukiewitz) | Mike Hukiewitz | YourTrading.ai GbR |  | Paraguay, Cordillera | 6583 |
+| 15 | [davicyyo](https://github.com/davicyyo) | DaViCyYo | HeadArrow | davicyyoYT | Paraguay | 5811 |
+| 16 | [everdaniel](https://github.com/everdaniel) | Ever Daniel Barreto | Borealis |  | Asunción, Paraguay | 5581 |
+| 17 | [yoryer](https://github.com/yoryer) | Jorge Noguera |  | yoryer | Paraguay | 5465 |
+| 18 | [apojomovsky](https://github.com/apojomovsky) | Alexis Pojomovsky |  |  | Asunción - Paraguay | 5111 |
+| 19 | [InumanSoul](https://github.com/InumanSoul) | Anderson Fariña |  | Inumansoul | Paraguay | 5001 |
+| 20 | [aplgr](https://github.com/aplgr) | André Plöger |  |  | Paraguay | 4966 |

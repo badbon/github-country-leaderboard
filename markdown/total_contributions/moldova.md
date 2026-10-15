@@ -1,6 +1,6 @@
 # Total Contributions - Moldova
 
-Generated: 2026-10-15T16:01:11.967Z
+Generated: 2026-10-15T18:13:59.129Z
 
 Users: 1749
 
@@ -14,7 +14,7 @@ Users: 1749
 | 6 | [Nemo-Illusionist](https://github.com/Nemo-Illusionist) | Peter Radilov | @ApprovalMax |  | Moldova | 7286 |
 | 7 | [dotteamdev](https://github.com/dotteamdev) | Dan Oistric |  |  | Moldova | 6910 |
 | 8 | [deniscuciuc](https://github.com/deniscuciuc) | Denis Cuciuc | Zelqon Works, Quality Game Core, Accent Electronic | deniscuciuc | Moldova | 6455 |
-| 9 | [pv-a-ilievici](https://github.com/pv-a-ilievici) | Andrei Ilievici | @primevision-com  |  | Chisinau, Moldova | 6072 |
+| 9 | [pv-a-ilievici](https://github.com/pv-a-ilievici) | Andrei Ilievici | @primevision-com  |  | Chisinau, Moldova | 6398 |
 | 10 | [mtkachenk0](https://github.com/mtkachenk0) | Maxim Tkachenko |  |  | Chisinau, Moldova | 5841 |
 | 11 | [sebsti5](https://github.com/sebsti5) | Sebastian | @Tafi-Solutions |  | Moldova 🇲🇩 | 5426 |
 | 12 | [kneazy](https://github.com/kneazy) | Vitalie | CorLab |  | Moldova, Chisinau  | 5412 |

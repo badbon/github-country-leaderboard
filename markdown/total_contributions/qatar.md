@@ -1,6 +1,6 @@
 # Total Contributions - Qatar
 
-Generated: 2026-10-15T16:13:16.916Z
+Generated: 2026-10-15T18:26:46.970Z
 
 Users: 1073
 
@@ -18,8 +18,8 @@ Users: 1073
 | 10 | [asifmkhan](https://github.com/asifmkhan) | M. Asif Khan | University of Doha for Science and Technology (UDST) |  | Doha, Qatar | 6427 |
 | 11 | [Snowy7](https://github.com/Snowy7) | Snowy |  |  | Qatar | 6276 |
 | 12 | [samstickkz](https://github.com/samstickkz) | samuel joseph (samstickkz) | samstickkz |  | QATAR | 5695 |
-| 13 | [luca-bondi](https://github.com/luca-bondi) | Luca Bondi |  |  | Doha, Qatar | 5450 |
-| 14 | [niyazpoyilan](https://github.com/niyazpoyilan) | Niyaz Poyilan |  |  | Qatar | 5385 |
+| 13 | [niyazpoyilan](https://github.com/niyazpoyilan) | Niyaz Poyilan |  |  | Qatar | 5594 |
+| 14 | [luca-bondi](https://github.com/luca-bondi) | Luca Bondi |  |  | Doha, Qatar | 5450 |
 | 15 | [Aboidrees](https://github.com/Aboidrees) | Muhammad Yousif | MOE | alshf3ee | Qatar, Doha | 5007 |
 | 16 | [ilhamsyahids](https://github.com/ilhamsyahids) | Ilham Syahid S |  |  | Qatar | 4995 |
 | 17 | [Bewinxed](https://github.com/Bewinxed) | Omar Al Matar | Hamad Medical Corporation | Bewinxed | Doha, Qatar | 4844 |

@@ -24,8 +24,8 @@ Indexed users: 1,073
 | 10 | [asifmkhan](https://github.com/asifmkhan) | M. Asif Khan | Doha, Qatar | 6,427 |
 | 11 | [Snowy7](https://github.com/Snowy7) | Snowy | Qatar | 6,276 |
 | 12 | [samstickkz](https://github.com/samstickkz) | samuel joseph (samstickkz) | QATAR | 5,695 |
-| 13 | [luca-bondi](https://github.com/luca-bondi) | Luca Bondi | Doha, Qatar | 5,450 |
-| 14 | [niyazpoyilan](https://github.com/niyazpoyilan) | Niyaz Poyilan | Qatar | 5,385 |
+| 13 | [niyazpoyilan](https://github.com/niyazpoyilan) | Niyaz Poyilan | Qatar | 5,594 |
+| 14 | [luca-bondi](https://github.com/luca-bondi) | Luca Bondi | Doha, Qatar | 5,450 |
 | 15 | [Aboidrees](https://github.com/Aboidrees) | Muhammad Yousif | Qatar, Doha | 5,007 |
 | 16 | [ilhamsyahids](https://github.com/ilhamsyahids) | Ilham Syahid S | Qatar | 4,995 |
 | 17 | [Bewinxed](https://github.com/Bewinxed) | Omar Al Matar | Doha, Qatar | 4,844 |
@@ -83,4 +83,4 @@ Indexed users: 1,073
 | 19 | [muratyaman](https://github.com/muratyaman) | Haci Murat Yaman | Doha, Qatar | 101 |
 | 20 | [brainconnect93](https://github.com/brainconnect93) | Afolabi Akorede | Al-Wakrah, Qatar | 100 |
 
-Generated: 2026-10-15T16:13:16.916Z
+Generated: 2026-10-15T18:26:46.970Z

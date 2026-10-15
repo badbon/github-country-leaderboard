@@ -1,6 +1,6 @@
 # Followers - Isle of Man
 
-Generated: 2026-10-15T15:49:01.793Z
+Generated: 2026-10-15T18:01:58.289Z
 
 Users: 155
 
@@ -14,7 +14,7 @@ Users: 155
 | 6 | [dive](https://github.com/dive) | Artem Loenko |  | justsitandgrin | Isle of Man | 78 |
 | 7 | [AdamDIOM](https://github.com/AdamDIOM) | Adam Cameron Drummond | Isle of Man Code Club |  | Isle of Man | 77 |
 | 8 | [aquacash5](https://github.com/aquacash5) | Kyle Bloom | IFGL |  | Douglas, Isle of Man | 40 |
-| 9 | [mayconht](https://github.com/mayconht) | Maycon Douglas |  |  | Isle of Man | 39 |
+| 9 | [mayconht](https://github.com/mayconht) | Maycon Douglas |  |  | Isle of Man | 38 |
 | 10 | [lproven](https://github.com/lproven) | Liam Proven | The Register | lproven | Douglas, Isle of Man | 36 |
 | 11 | [drapermovies](https://github.com/drapermovies) | Joel E.P. Draper | Ensemble Media | jepdraper | Isle of Man | 33 |
 | 12 | [drajmarsh](https://github.com/drajmarsh) | Dr Andrew Marsh | PerformativeDesign.com |  | Isle of Man | 26 |

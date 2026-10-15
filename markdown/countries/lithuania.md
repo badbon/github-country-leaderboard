@@ -1,6 +1,6 @@
 # Lithuania
 
-Indexed users: 5,383
+Indexed users: 5,382
 
 | Leaderboard | Link |
 |---|---|
@@ -47,16 +47,16 @@ Indexed users: 5,383
 | 8 | [NathaliaLietuvaite](https://github.com/NathaliaLietuvaite) | Nathalia Lietuvaite | Vilnius | 2,939 |
 | 9 | [blinkinglight](https://github.com/blinkinglight) | M | Lithuania | 2,663 |
 | 10 | [qweered](https://github.com/qweered) | Aliaksandr | Vilnius, Lithuania | 2,656 |
-| 11 | [vladlevinas](https://github.com/vladlevinas) | Vlad Levinas | Lithuania | 2,522 |
-| 12 | [simison](https://github.com/simison) | Mikael Korpela | Lithuania | 2,457 |
-| 13 | [YOzaz](https://github.com/YOzaz) | Marijus Plančiūnas | Vilnius, Lithuania | 2,383 |
-| 14 | [bdiev](https://github.com/bdiev) | bdiev_ | Kaunas, Lithuania | 2,338 |
-| 15 | [staskus](https://github.com/staskus) | Povilas Staskus | Lithuania, Vilnius | 2,336 |
-| 16 | [MekDrop](https://github.com/MekDrop) | Raimondas Rimkevičius | Vilnius, Lithuania | 2,332 |
-| 17 | [savonarola](https://github.com/savonarola) | Ilia Averianov | Vilnius | 2,228 |
-| 18 | [VytCepas](https://github.com/VytCepas) | Vytautas Cepas | Vilnius, Lithuania | 2,216 |
-| 19 | [salisk](https://github.com/salisk) | Sarunas | Lithuania | 2,129 |
-| 20 | [neetfrog](https://github.com/neetfrog) | neetfrog | Lithuania | 2,104 |
+| 11 | [flyingriverhorse](https://github.com/flyingriverhorse) | Murat | Vilnius | 2,632 |
+| 12 | [vladlevinas](https://github.com/vladlevinas) | Vlad Levinas | Lithuania | 2,522 |
+| 13 | [simison](https://github.com/simison) | Mikael Korpela | Lithuania | 2,457 |
+| 14 | [YOzaz](https://github.com/YOzaz) | Marijus Plančiūnas | Vilnius, Lithuania | 2,383 |
+| 15 | [bdiev](https://github.com/bdiev) | bdiev_ | Kaunas, Lithuania | 2,338 |
+| 16 | [staskus](https://github.com/staskus) | Povilas Staskus | Lithuania, Vilnius | 2,336 |
+| 17 | [MekDrop](https://github.com/MekDrop) | Raimondas Rimkevičius | Vilnius, Lithuania | 2,332 |
+| 18 | [savonarola](https://github.com/savonarola) | Ilia Averianov | Vilnius | 2,228 |
+| 19 | [VytCepas](https://github.com/VytCepas) | Vytautas Cepas | Vilnius, Lithuania | 2,216 |
+| 20 | [salisk](https://github.com/salisk) | Sarunas | Lithuania | 2,129 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 5,383
 | 19 | [ErikasRamaneckas](https://github.com/ErikasRamaneckas) | Erikas Ramaneckas | Vilnius, Lithuania | 197 |
 | 20 | [Miceuz](https://github.com/Miceuz) | Albertas Mickėnas | Vilnius, Lithuania | 190 |
 
-Generated: 2026-10-15T15:56:27.091Z
+Generated: 2026-10-15T18:07:45.971Z
