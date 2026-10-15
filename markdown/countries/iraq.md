@@ -75,7 +75,7 @@ Indexed users: 2,239
 | 11 | [yousifnimah](https://github.com/yousifnimah) | Yousif N. Abbas | Iraq | 466 |
 | 12 | [Islam-Raad-dev](https://github.com/Islam-Raad-dev) | Islam Raad | Iraq | 423 |
 | 13 | [munafio](https://github.com/munafio) | Munaf A. Mahdi | Iraq | 408 |
-| 14 | [devmuaz](https://github.com/devmuaz) | AbdulMuaz Aqeel | Iraq, Baghdad | 316 |
+| 14 | [devmuaz](https://github.com/devmuaz) | AbdulMuaz Aqeel | Iraq, Baghdad | 319 |
 | 15 | [arikarim](https://github.com/arikarim) | Ari Karim | Kurdistan/Iraq | 284 |
 | 16 | [FardinRastakhiz](https://github.com/FardinRastakhiz) | Fardin Rastakhiz | Iraq | 244 |
 | 17 | [ShahramShakiba](https://github.com/ShahramShakiba) | Shahram Shakiba | Erbil, Erbil Governorate, Iraq  | 227 |
@@ -83,4 +83,4 @@ Indexed users: 2,239
 | 19 | [Om4r-007](https://github.com/Om4r-007) | Omar Imad | Baghdad / Iraq | 202 |
 | 20 | [TARQkop](https://github.com/TARQkop) | TARIQ | IRAQ | 178 |
 
-Generated: 2026-10-15T18:01:10.795Z
+Generated: 2026-10-15T19:26:31.796Z

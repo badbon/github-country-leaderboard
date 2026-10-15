@@ -25,13 +25,13 @@ Indexed users: 1,394
 | 11 | [Xch4rt](https://github.com/Xch4rt) | Pablo Gutiérrez | Managua, Nicaragua | 4,398 |
 | 12 | [victorstein](https://github.com/victorstein) | Alfonso Emilio Gomez Selva | Nicaragua | 4,103 |
 | 13 | [degomon](https://github.com/degomon) | Denis González | Nicaragua | 4,085 |
-| 14 | [fabmnt](https://github.com/fabmnt) | Fabián Montoya | Nicaragua | 3,723 |
-| 15 | [ernestoruiz89](https://github.com/ernestoruiz89) | Ernesto Ruiz | Nicaragua | 3,655 |
-| 16 | [paulomcnally](https://github.com/paulomcnally) | Paulo McNally | Mangua, Nicaragua | 3,536 |
-| 17 | [kenetpicado](https://github.com/kenetpicado) | Kenet | León, Nicaragua | 3,420 |
-| 18 | [edycarreyes99](https://github.com/edycarreyes99) | Edycar Reyes | Nicaragua | 3,355 |
-| 19 | [eatorres510](https://github.com/eatorres510) | Erick Alexander Torres Prado | Nicaragua | 3,325 |
-| 20 | [ElVatoEste](https://github.com/ElVatoEste) | VatoDev | Nicaragua | 3,263 |
+| 14 | [ElVatoEste](https://github.com/ElVatoEste) | VatoDev | Nicaragua | 3,996 |
+| 15 | [fabmnt](https://github.com/fabmnt) | Fabián Montoya | Nicaragua | 3,723 |
+| 16 | [ernestoruiz89](https://github.com/ernestoruiz89) | Ernesto Ruiz | Nicaragua | 3,655 |
+| 17 | [paulomcnally](https://github.com/paulomcnally) | Paulo McNally | Mangua, Nicaragua | 3,536 |
+| 18 | [Steven-Mendez](https://github.com/Steven-Mendez) | Steven Mendez | Managua, Nicaragua | 3,423 |
+| 19 | [kenetpicado](https://github.com/kenetpicado) | Kenet | León, Nicaragua | 3,420 |
+| 20 | [edycarreyes99](https://github.com/edycarreyes99) | Edycar Reyes | Nicaragua | 3,355 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 1,394
 | 19 | [dannygaray60](https://github.com/dannygaray60) | Danny Garay | Nicaragua | 61 |
 | 20 | [jonathanquehay](https://github.com/jonathanquehay) | Jonathán Moreno | Nicaragua | 60 |
 
-Generated: 2026-10-15T18:18:19.081Z
+Generated: 2026-10-15T19:41:46.099Z

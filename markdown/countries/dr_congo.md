@@ -14,7 +14,7 @@ Indexed users: 699
 |---:|---|---|---|---:|
 | 1 | [coolbeatz71](https://github.com/coolbeatz71) | Mutombo Jean-Vincent | Kinshasa, Kigali | 33,643 |
 | 2 | [kmdavid3](https://github.com/kmdavid3) | David M. KAYEMBE | DR Congo, kinshasa | 19,894 |
-| 3 | [Abarchibody](https://github.com/Abarchibody) | Archimede Body | Kinshasa, DRC | 12,171 |
+| 3 | [Abarchibody](https://github.com/Abarchibody) | Archimede Body | Kinshasa, DRC | 13,382 |
 | 4 | [Bope142](https://github.com/Bope142) | Norbert Le Geek | Kinshasa DRC | 9,454 |
 | 5 | [JoeM1990](https://github.com/JoeM1990) | Jonathan Monkila  | kinshasa,RDC | 8,077 |
 | 6 | [Dr-Lab1](https://github.com/Dr-Lab1) | Jonathan Kukwabantu Bahati | Kinshasa | 6,978 |
@@ -31,7 +31,7 @@ Indexed users: 699
 | 17 | [pacomeissa](https://github.com/pacomeissa) | PACOME ISSA | Democratic Republic of Congo | 4,798 |
 | 18 | [AlbusDigi](https://github.com/AlbusDigi) | Albus | Kinshasa | 4,703 |
 | 19 | [MasirikaConstantin](https://github.com/MasirikaConstantin) | Masirika Constantin | Kinshasa | 4,585 |
-| 20 | [Gptimus](https://github.com/Gptimus) | Guerth Manzala | Kinshasa/RDC | 4,403 |
+| 20 | [hervinhio](https://github.com/hervinhio) | Hervé Kyle MUTOMBO MATANDA | Kinshasa, Democratic Republic of Congo | 4,407 |
 
 ## Public Contributions
 
@@ -65,7 +65,7 @@ Indexed users: 699
 | 1 | [Mardo-k12](https://github.com/Mardo-k12) | Mardo | kinshasa | 680 |
 | 2 | [bernard-ng](https://github.com/bernard-ng) | Bernard Ngandu | DR Congo, Lubumbashi | 238 |
 | 3 | [JonathanMonga](https://github.com/JonathanMonga) | Jomo | Lubumbashi, Katanga, DR Congo | 218 |
-| 4 | [Kgermando](https://github.com/Kgermando) | Kgermain | Kinshasa | 197 |
+| 4 | [Kgermando](https://github.com/Kgermando) | Kgermain | Kinshasa | 198 |
 | 5 | [SKB-TECH](https://github.com/SKB-TECH) | SKB-TECH | DR CONGO | 186 |
 | 6 | [Gbelsalvador](https://github.com/Gbelsalvador) | BANYI BANTU GEDEON | kinshasa | 163 |
 | 7 | [fordimalanda](https://github.com/fordimalanda) | Fordi Malanda | Kinshasa, DRC | 141 |
@@ -78,9 +78,9 @@ Indexed users: 699
 | 14 | [fdis111](https://github.com/fdis111) | Francois Disubi | Kinshasa Drc | 87 |
 | 15 | [jlmbaka](https://github.com/jlmbaka) | Jean-Louis Mbaka | Kinshasa, DRC | 84 |
 | 16 | [RolandM99](https://github.com/RolandM99) | Roland MN | Kinshasa \| Kigali \| Nairobi | 84 |
-| 17 | [enigma972](https://github.com/enigma972) | Joel Lusavuvu | Kinshasa, RDCongo  | 72 |
-| 18 | [johnmbiya](https://github.com/johnmbiya) | Jean Claude Mbiya | Kinshasa | 72 |
+| 17 | [johnmbiya](https://github.com/johnmbiya) | Jean Claude Mbiya | Kinshasa | 72 |
+| 18 | [enigma972](https://github.com/enigma972) | Joel Lusavuvu | Kinshasa, RDCongo  | 71 |
 | 19 | [bolenge](https://github.com/bolenge) | Don de Dieu Bolenge | Congo - Kinshasa | 69 |
 | 20 | [ChrisMwanya](https://github.com/ChrisMwanya) | Chris Mwanya | kinshasa | 69 |
 
-Generated: 2026-10-15T17:46:36.612Z
+Generated: 2026-10-15T19:14:31.221Z

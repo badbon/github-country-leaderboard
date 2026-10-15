@@ -1,15 +1,15 @@
 # Public Contributions - Kuwait
 
-Generated: 2026-10-15T18:04:51.874Z
+Generated: 2026-10-15T19:29:21.365Z
 
-Users: 798
+Users: 797
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [BAWES](https://github.com/BAWES) | Khalid Al-Mutawa | BAWES |  | Kuwait | 6279 |
 | 2 | [quadrillion-q8](https://github.com/quadrillion-q8) | Kuwait Computer Repair on Call |  |  | Hawalli, Kuwait | 3205 |
 | 3 | [arabcoders](https://github.com/arabcoders) | Abdulmohsen |  |  | Kuwait | 2372 |
-| 4 | [fahadTheTechIdea](https://github.com/fahadTheTechIdea) | Fahad Aldhubaib | The Tech Idea |  | Kuwait | 2224 |
+| 4 | [fahadTheTechIdea](https://github.com/fahadTheTechIdea) | Fahad Aldhubaib | The Tech Idea |  | Kuwait | 2193 |
 | 5 | [saskw2010](https://github.com/saskw2010) | Mostafa Elnagar | wytSKY Clouding Solutions | wyt_sky | kuwait | 1740 |
 | 6 | [SiteQ8](https://github.com/SiteQ8) | Ali AlEnezi |  |  | Kuwait | 1675 |
 | 7 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Dsrpt. | AbdulkaderSafi | Kuwait | 1653 |

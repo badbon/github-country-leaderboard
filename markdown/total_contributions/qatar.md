@@ -1,6 +1,6 @@
 # Total Contributions - Qatar
 
-Generated: 2026-10-15T18:26:46.970Z
+Generated: 2026-10-15T19:48:31.704Z
 
 Users: 1073
 
@@ -11,7 +11,7 @@ Users: 1073
 | 3 | [nirzaf](https://github.com/nirzaf) | M.F.M Fazrin | Primary Health Care Corporation |  | Doha - Qatar | 12120 |
 | 4 | [Alaaeldin-Said](https://github.com/Alaaeldin-Said) | Alaaeldin Said |  |  | Qatar | 9706 |
 | 5 | [Kin230k](https://github.com/Kin230k) | Kinan Kassab |  | kin230 | Doha, Qatar | 8721 |
-| 6 | [rushdimohamed09](https://github.com/rushdimohamed09) | Rushdi Mohamed |  |  | Doha, Qatar | 7151 |
+| 6 | [rushdimohamed09](https://github.com/rushdimohamed09) | Rushdi Mohamed |  |  | Doha, Qatar | 7161 |
 | 7 | [yasircs4](https://github.com/yasircs4) | Yasir Najeeb |  | yasirnajeep | Doha, Qatar | 7137 |
 | 8 | [AnasMostefaoui](https://github.com/AnasMostefaoui) | M.Anes |  |  | Doha | 6859 |
 | 9 | [hussain4real](https://github.com/hussain4real) | Hussain Aminu | Gethouse | hussain4real | Doha, Qatar | 6825 |

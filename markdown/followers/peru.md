@@ -1,6 +1,6 @@
 # Followers - Peru
 
-Generated: 2026-10-15T18:24:44.786Z
+Generated: 2026-10-15T19:47:12.055Z
 
 Users: 9775
 
@@ -16,13 +16,13 @@ Users: 9775
 | 8 | [apholdings](https://github.com/apholdings) | SoloPython | SoloPython |  | Lima, Peru | 694 |
 | 9 | [OmarUTEC](https://github.com/OmarUTEC) | Om@r | University of Engineering and Technology | CHjavieromar | Lima, Perú | 683 |
 | 10 | [joelibaceta](https://github.com/joelibaceta) | Joel Ibaceta |  | joelibaceta | Lima, Peru | 668 |
-| 11 | [CodigoEstudiante](https://github.com/CodigoEstudiante) | Codigo Estudiante | Creator |  | Peru | 636 |
+| 11 | [CodigoEstudiante](https://github.com/CodigoEstudiante) | Codigo Estudiante | Creator |  | Peru | 637 |
 | 12 | [joedayz](https://github.com/joedayz) | José Díaz | JOEDAYZ | jamdiazdiaz | Lima - Perú | 614 |
 | 13 | [jorgemunozl](https://github.com/jorgemunozl) | jorge-munoz-lar | @NONHUMAN-SITE | jorgemunozla | Lima, Peru | 589 |
 | 14 | [csaybar](https://github.com/csaybar) | Cesar Aybar | @asterisk-labs  |  | Lima, Peru | 567 |
 | 15 | [goandreus](https://github.com/goandreus) | Andres Chavez | Citibank | GoAndreus | Lima - Peru | 558 |
 | 16 | [dcajasn](https://github.com/dcajasn) | Riskfolio |  | RiskfolioLib | Lima, Peru | 545 |
 | 17 | [emedinaa](https://github.com/emedinaa) | Eduardo José Medina Alfaro | Mapsalud | eduardomedina | Lima, Peru | 506 |
-| 18 | [BracoZS](https://github.com/BracoZS) | BracoZS |  |  | Peru | 472 |
-| 19 | [Franklin369](https://github.com/Franklin369) | codigo369.com | codigo369 |  | Peru | 445 |
-| 20 | [carlosal1015](https://github.com/carlosal1015) | Oromion | National University of Engineering |  | Lima, Peru | 438 |
+| 18 | [Franklin369](https://github.com/Franklin369) | codigo369.com | codigo369 |  | Peru | 445 |
+| 19 | [carlosal1015](https://github.com/carlosal1015) | Oromion | National University of Engineering |  | Lima, Peru | 438 |
+| 20 | [HackUnderway](https://github.com/HackUnderway) | Hack Underway |  |  | Lima - Perú | 413 |

@@ -13,7 +13,7 @@ Indexed users: 296
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [NiuPay-Jason](https://github.com/NiuPay-Jason) | Jaye | Papua New Guinea | 17,229 |
-| 2 | [kirioh](https://github.com/kirioh) | Cieran Kelly | Port Moresby | 12,494 |
+| 2 | [kirioh](https://github.com/kirioh) | Cieran Kelly | Port Moresby | 12,558 |
 | 3 | [Emmanue707](https://github.com/Emmanue707) | Emmanuel Kokele | Papua New Guinea | 10,467 |
 | 4 | [BruinGrowly](https://github.com/BruinGrowly) | Wellington Taureka | Port Moresby, Papua New Guinea | 4,410 |
 | 5 | [myitsolutionspg](https://github.com/myitsolutionspg) | Melky Warinak | Port Moresby | 3,068 |
@@ -71,7 +71,7 @@ Indexed users: 296
 | 7 | [n30dyn4m1c](https://github.com/n30dyn4m1c) | Neo Malesa | Port Moresby, Papua New Guinea | 19 |
 | 8 | [161710125](https://github.com/161710125) | Muuu | Papua New Guinea | 16 |
 | 9 | [cravenhoff](https://github.com/cravenhoff) | Crystal Kewe | Port Moresby, Papua New Guinea | 16 |
-| 10 | [sutherlandnele](https://github.com/sutherlandnele) | Sutherland Nele | Port Moresby | 16 |
+| 10 | [sutherlandnele](https://github.com/sutherlandnele) | Sutherland Nele | Port Moresby | 15 |
 | 11 | [Emmanue707](https://github.com/Emmanue707) | Emmanuel Kokele | Papua New Guinea | 13 |
 | 12 | [sylvery](https://github.com/sylvery) | Sylver Yagi | Papua New Guinea | 13 |
 | 13 | [ephil2025](https://github.com/ephil2025) | EPHIL | Papua New Guinea | 12 |
@@ -83,4 +83,4 @@ Indexed users: 296
 | 19 | [jeremykes](https://github.com/jeremykes) | Jeremy Kes Palme  | Papua New Guinea | 8 |
 | 20 | [jm0535](https://github.com/jm0535) | Jimmy Moses | Papua New Guinea | 8 |
 
-Generated: 2026-10-15T18:23:25.831Z
+Generated: 2026-10-15T19:46:59.001Z

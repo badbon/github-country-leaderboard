@@ -1,6 +1,6 @@
 # Followers - Iraq
 
-Generated: 2026-10-15T18:01:10.795Z
+Generated: 2026-10-15T19:26:31.796Z
 
 Users: 2239
 
@@ -19,7 +19,7 @@ Users: 2239
 | 11 | [yousifnimah](https://github.com/yousifnimah) | Yousif N. Abbas | @masiyanet |  | Iraq | 466 |
 | 12 | [Islam-Raad-dev](https://github.com/Islam-Raad-dev) | Islam Raad | Freelancer |  | Iraq | 423 |
 | 13 | [munafio](https://github.com/munafio) | Munaf A. Mahdi | Sr. Software Engineer |  | Iraq | 408 |
-| 14 | [devmuaz](https://github.com/devmuaz) | AbdulMuaz Aqeel | @talabatey | devmuaz | Iraq, Baghdad | 316 |
+| 14 | [devmuaz](https://github.com/devmuaz) | AbdulMuaz Aqeel | @talabatey | devmuaz | Iraq, Baghdad | 319 |
 | 15 | [arikarim](https://github.com/arikarim) | Ari Karim | KRG(Kurdistan Regional Government). | Ari_Karim_ | Kurdistan/Iraq | 284 |
 | 16 | [FardinRastakhiz](https://github.com/FardinRastakhiz) | Fardin Rastakhiz | Fardin |  | Iraq | 244 |
 | 17 | [ShahramShakiba](https://github.com/ShahramShakiba) | Shahram Shakiba |  | ShahramShakibaa | Erbil, Erbil Governorate, Iraq  | 227 |

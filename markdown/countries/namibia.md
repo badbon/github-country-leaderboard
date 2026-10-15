@@ -50,10 +50,10 @@ Indexed users: 476
 | 11 | [Tusneld](https://github.com/Tusneld) | Tusnelde Endjala | Namibia | 427 |
 | 12 | [Sphellep04](https://github.com/Sphellep04) | Phellep.Dev | Windhoek, Namibia | 358 |
 | 13 | [mou-rush](https://github.com/mou-rush) | Moureen | Swakopmund, Namibia | 302 |
-| 14 | [rtonata88](https://github.com/rtonata88) | Richard Chambula | Windhoek, Namibia | 270 |
-| 15 | [PascalMTK](https://github.com/PascalMTK) |  | Windhoek - Namibia | 269 |
-| 16 | [m-spangenberg](https://github.com/m-spangenberg) | Marthinus Spangenberg | Walvis Bay, Namibia | 266 |
-| 17 | [Math0202](https://github.com/Math0202) | Tangeni Matheus | Namibia, Windhoek | 263 |
+| 14 | [Math0202](https://github.com/Math0202) | Tangeni Matheus | Namibia, Windhoek | 271 |
+| 15 | [rtonata88](https://github.com/rtonata88) | Richard Chambula | Windhoek, Namibia | 270 |
+| 16 | [PascalMTK](https://github.com/PascalMTK) |  | Windhoek - Namibia | 269 |
+| 17 | [m-spangenberg](https://github.com/m-spangenberg) | Marthinus Spangenberg | Walvis Bay, Namibia | 266 |
 | 18 | [RohanBez2801](https://github.com/RohanBez2801) | Rohan Bezuidenhout | Windhoek, Namibia | 250 |
 | 19 | [yaasoniii](https://github.com/yaasoniii) | Jason | Windhoek, Namibia | 246 |
 | 20 | [Jason-Mendes](https://github.com/Jason-Mendes) | Jason-Mendes | Namibia | 243 |
@@ -83,4 +83,4 @@ Indexed users: 476
 | 19 | [Hilya02](https://github.com/Hilya02) | Hilya Ntinda Tuyakula | Windhoek, Namibia | 36 |
 | 20 | [erassynathingo](https://github.com/erassynathingo) | Erastus Nathingo | Windhoek | 33 |
 
-Generated: 2026-10-15T18:16:18.138Z
+Generated: 2026-10-15T19:40:21.602Z

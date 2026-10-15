@@ -25,8 +25,8 @@ Indexed users: 889
 | 11 | [aco228](https://github.com/aco228) | Aleksandar Konatar | Podgorica | 5,767 |
 | 12 | [1v4n4](https://github.com/1v4n4) |  | Montenegro | 5,645 |
 | 13 | [pokidov](https://github.com/pokidov) | Kirill Pokidov | Montenegro | 5,471 |
-| 14 | [zee229](https://github.com/zee229) | Nikita Yastreb | Montenegro, Bar | 5,224 |
-| 15 | [gezimarapaj](https://github.com/gezimarapaj) |  | Montenegro | 5,136 |
+| 14 | [gezimarapaj](https://github.com/gezimarapaj) |  | Montenegro | 5,354 |
+| 15 | [zee229](https://github.com/zee229) | Nikita Yastreb | Montenegro, Bar | 5,224 |
 | 16 | [kayamuskas](https://github.com/kayamuskas) | Alexandr Logvinov | Montenegro | 4,714 |
 | 17 | [IvanPin](https://github.com/IvanPin) | Ivan Ponamarev | Podgorica, Montenegro | 4,685 |
 | 18 | [artempartos](https://github.com/artempartos) | Artem Petrov | Montenegro | 4,461 |
@@ -78,9 +78,9 @@ Indexed users: 889
 | 14 | [ESA1979](https://github.com/ESA1979) | Emrah Süleyman Atalay | Montenegro | 127 |
 | 15 | [gh110919](https://github.com/gh110919) | ilia sergeev | Podgorica | 125 |
 | 16 | [hedza06](https://github.com/hedza06) | Heril Muratovic | Montenegro, Podgorica | 108 |
-| 17 | [StevanCakic](https://github.com/StevanCakic) | Stevan Čakić | Montenegro | 101 |
-| 18 | [perisicnikola37](https://github.com/perisicnikola37) | Nikola Perišić | Podgorica, Montenegro | 100 |
+| 17 | [perisicnikola37](https://github.com/perisicnikola37) | Nikola Perisic | Podgorica, Montenegro | 101 |
+| 18 | [StevanCakic](https://github.com/StevanCakic) | Stevan Čakić | Montenegro | 101 |
 | 19 | [vovkasm](https://github.com/vovkasm) | Vladimir Timofeev | Budva, Montenegro | 99 |
 | 20 | [marcoroganovic](https://github.com/marcoroganovic) | Marko Roganovic | Montenegro | 89 |
 
-Generated: 2026-10-15T18:14:19.568Z
+Generated: 2026-10-15T19:39:38.265Z

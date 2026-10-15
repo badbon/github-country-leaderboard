@@ -1,6 +1,6 @@
 # Followers - Haiti
 
-Generated: 2026-10-15T17:57:29.485Z
+Generated: 2026-10-15T19:24:56.824Z
 
 Users: 339
 
@@ -20,7 +20,7 @@ Users: 339
 | 12 | [AD0791](https://github.com/AD0791) | Alexandro Disla |  |  | Haiti | 41 |
 | 13 | [midsonlajeanty](https://github.com/midsonlajeanty) | Louis Midson Lajeanty |  |  | Haiti | 40 |
 | 14 | [bogosla](https://github.com/bogosla) | James Destiné |  |  | Haiti | 38 |
-| 15 | [djtrueway](https://github.com/djtrueway) | peterson saint-aime | SajesUnlock | djtrueway | Haiti | 38 |
+| 15 | [djtrueway](https://github.com/djtrueway) | peterson saint-aime | SajesUnlock | djtrueway | Haiti | 37 |
 | 16 | [AlexisJW](https://github.com/AlexisJW) | Jean Walner Alexis |  Full-stack Developer |  | Port-au-prince, Haïti | 34 |
 | 17 | [jfstephane](https://github.com/jfstephane) | Jules Frantz Stephane Loubeau | none |  | Haiti | 33 |
 | 18 | [KeitelDOG](https://github.com/KeitelDOG) | Keitel Jovin | @TransitDigitale @Megalobiz  |  | Delmas 41, Ouest, Haiti | 32 |

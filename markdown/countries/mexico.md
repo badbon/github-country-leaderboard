@@ -1,6 +1,6 @@
 # Mexico
 
-Indexed users: 23,499
+Indexed users: 23,498
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 23,499
 | 19 | [FiliSantillan](https://github.com/FiliSantillan) | Fili Santillán | Mexico City | 661 |
 | 20 | [edglaz](https://github.com/edglaz) |  | Mexico City | 636 |
 
-Generated: 2026-10-15T18:13:10.129Z
+Generated: 2026-10-15T19:37:39.814Z

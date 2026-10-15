@@ -1,6 +1,6 @@
 # Total Contributions - Nicaragua
 
-Generated: 2026-10-15T18:18:19.081Z
+Generated: 2026-10-15T19:41:46.099Z
 
 Users: 1394
 
@@ -19,10 +19,10 @@ Users: 1394
 | 11 | [Xch4rt](https://github.com/Xch4rt) | Pablo Gutiérrez |  |  | Managua, Nicaragua | 4398 |
 | 12 | [victorstein](https://github.com/victorstein) | Alfonso Emilio Gomez Selva | CleverTech |  | Nicaragua | 4103 |
 | 13 | [degomon](https://github.com/degomon) | Denis González |  | degomondev | Nicaragua | 4085 |
-| 14 | [fabmnt](https://github.com/fabmnt) | Fabián Montoya | Dentalrobot | fabmnt_ | Nicaragua | 3723 |
-| 15 | [ernestoruiz89](https://github.com/ernestoruiz89) | Ernesto Ruiz |  | ernestoruiz89 | Nicaragua | 3655 |
-| 16 | [paulomcnally](https://github.com/paulomcnally) | Paulo McNally | @mcnallydev  |  | Mangua, Nicaragua | 3536 |
-| 17 | [kenetpicado](https://github.com/kenetpicado) | Kenet |  | kenetphp | León, Nicaragua | 3420 |
-| 18 | [edycarreyes99](https://github.com/edycarreyes99) | Edycar Reyes |  | edycarreyes99 | Nicaragua | 3355 |
-| 19 | [eatorres510](https://github.com/eatorres510) | Erick Alexander Torres Prado |  |  | Nicaragua | 3325 |
-| 20 | [ElVatoEste](https://github.com/ElVatoEste) | VatoDev | @EscaliaTech  |  | Nicaragua | 3263 |
+| 14 | [ElVatoEste](https://github.com/ElVatoEste) | VatoDev | @EscaliaTech  |  | Nicaragua | 3996 |
+| 15 | [fabmnt](https://github.com/fabmnt) | Fabián Montoya | Dentalrobot | fabmnt_ | Nicaragua | 3723 |
+| 16 | [ernestoruiz89](https://github.com/ernestoruiz89) | Ernesto Ruiz |  | ernestoruiz89 | Nicaragua | 3655 |
+| 17 | [paulomcnally](https://github.com/paulomcnally) | Paulo McNally | @mcnallydev  |  | Mangua, Nicaragua | 3536 |
+| 18 | [Steven-Mendez](https://github.com/Steven-Mendez) | Steven Mendez |  |  | Managua, Nicaragua | 3423 |
+| 19 | [kenetpicado](https://github.com/kenetpicado) | Kenet |  | kenetphp | León, Nicaragua | 3420 |
+| 20 | [edycarreyes99](https://github.com/edycarreyes99) | Edycar Reyes |  | edycarreyes99 | Nicaragua | 3355 |

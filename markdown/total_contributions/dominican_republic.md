@@ -1,6 +1,6 @@
 # Total Contributions - Dominican Republic
 
-Generated: 2026-10-15T17:46:29.840Z
+Generated: 2026-10-15T19:14:24.947Z
 
 Users: 3303
 
@@ -20,9 +20,9 @@ Users: 3303
 | 12 | [dkropachev](https://github.com/dkropachev) | Dmitry Kropachev | Scylla |  | Dominican Republic | 6784 |
 | 13 | [arielbritorivera](https://github.com/arielbritorivera) | Ariel A. Brito | Brito Solutions BS |  | Dominican Republic | 6641 |
 | 14 | [focux](https://github.com/focux) | Leonardo E. Dominguez |  | foocux | Dominican Republic | 6567 |
-| 15 | [franklinmdev](https://github.com/franklinmdev) | Franklin Martinez | Nubeteck, SRL |  | Dominican Republic | 6230 |
-| 16 | [AnthRG](https://github.com/AnthRG) | Anthony Rosario G. | T-Eco |  | Dominican Republic | 5922 |
-| 17 | [emilsosa](https://github.com/emilsosa) | Emil Sosa | @magaransoft | emilsosa_ | Dominican Republic | 5892 |
-| 18 | [ERPalmer](https://github.com/ERPalmer) | ERPalmer |  | ERPalmer | Dominican Republic | 5854 |
-| 19 | [Bebell-Digital-Solutions](https://github.com/Bebell-Digital-Solutions) | Bebell Digital Solutions 🚀 | Bebell Digital Solutions |  | Dominican Republic | 5554 |
-| 20 | [dylanminaya](https://github.com/dylanminaya) | Dylan Minaya |  |  | Dominican Republic | 5486 |
+| 15 | [lewandy](https://github.com/lewandy) | Lewandy Dilone | @x-team @Reunionmarketing | lewandydilone | Santiago,Dominican Republic | 6261 |
+| 16 | [franklinmdev](https://github.com/franklinmdev) | Franklin Martinez | Nubeteck, SRL |  | Dominican Republic | 6230 |
+| 17 | [AnthRG](https://github.com/AnthRG) | Anthony Rosario G. | T-Eco |  | Dominican Republic | 5922 |
+| 18 | [emilsosa](https://github.com/emilsosa) | Emil Sosa | @magaransoft | emilsosa_ | Dominican Republic | 5892 |
+| 19 | [ERPalmer](https://github.com/ERPalmer) | ERPalmer |  | ERPalmer | Dominican Republic | 5854 |
+| 20 | [Bebell-Digital-Solutions](https://github.com/Bebell-Digital-Solutions) | Bebell Digital Solutions 🚀 | Bebell Digital Solutions |  | Dominican Republic | 5554 |

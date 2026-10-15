@@ -1,14 +1,14 @@
 # Public Contributions - Faroe Islands
 
-Generated: 2026-10-15T17:51:41.061Z
+Generated: 2026-10-15T19:18:03.012Z
 
 Users: 67
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [hoegnason](https://github.com/hoegnason) | Rani Högnason Hansen | Faroese Telecom |  | Tórshavn | 1432 |
-| 2 | [kruseio](https://github.com/kruseio) | Ragnar Kruse |  | kruseio | Faroe Islands | 997 |
-| 3 | [Brian-ED](https://github.com/Brian-ED) | Brian E |  |  | Faroe Islands | 995 |
+| 2 | [Brian-ED](https://github.com/Brian-ED) | Brian E |  |  | Faroe Islands | 1005 |
+| 3 | [kruseio](https://github.com/kruseio) | Ragnar Kruse |  | kruseio | Faroe Islands | 997 |
 | 4 | [suuunly](https://github.com/suuunly) | Jóhann Østerø | Flowcore, Gaman Games |  | Faroe Islands | 516 |
 | 5 | [jbiskur](https://github.com/jbiskur) | Julius á Rógvi Biskopstø |  |  | Faroe Islands | 487 |
 | 6 | [krvi](https://github.com/krvi) |  |  |  | Faroe Islands | 465 |

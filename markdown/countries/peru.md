@@ -13,7 +13,7 @@ Indexed users: 9,775
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [patricio0312rev](https://github.com/patricio0312rev) | Patricio Marroquin | Peru | 24,178 |
-| 2 | [A-PachecoT](https://github.com/A-PachecoT) | André Pacheco | Lima, Peru | 14,996 |
+| 2 | [A-PachecoT](https://github.com/A-PachecoT) | André Pacheco | Lima, Peru | 22,840 |
 | 3 | [wrujel](https://github.com/wrujel) | Wilfredo Rujel | Lima, Peru | 14,791 |
 | 4 | [0wex](https://github.com/0wex) | Owen Atamari | Peru | 12,372 |
 | 5 | [ayranoliveira1](https://github.com/ayranoliveira1) | Ayran Oliveira | Lima Duarte - MG | 11,935 |
@@ -72,15 +72,15 @@ Indexed users: 9,775
 | 8 | [apholdings](https://github.com/apholdings) | SoloPython | Lima, Peru | 694 |
 | 9 | [OmarUTEC](https://github.com/OmarUTEC) | Om@r | Lima, Perú | 683 |
 | 10 | [joelibaceta](https://github.com/joelibaceta) | Joel Ibaceta | Lima, Peru | 668 |
-| 11 | [CodigoEstudiante](https://github.com/CodigoEstudiante) | Codigo Estudiante | Peru | 636 |
+| 11 | [CodigoEstudiante](https://github.com/CodigoEstudiante) | Codigo Estudiante | Peru | 637 |
 | 12 | [joedayz](https://github.com/joedayz) | José Díaz | Lima - Perú | 614 |
 | 13 | [jorgemunozl](https://github.com/jorgemunozl) | jorge-munoz-lar | Lima, Peru | 589 |
 | 14 | [csaybar](https://github.com/csaybar) | Cesar Aybar | Lima, Peru | 567 |
 | 15 | [goandreus](https://github.com/goandreus) | Andres Chavez | Lima - Peru | 558 |
 | 16 | [dcajasn](https://github.com/dcajasn) | Riskfolio | Lima, Peru | 545 |
 | 17 | [emedinaa](https://github.com/emedinaa) | Eduardo José Medina Alfaro | Lima, Peru | 506 |
-| 18 | [BracoZS](https://github.com/BracoZS) | BracoZS | Peru | 472 |
-| 19 | [Franklin369](https://github.com/Franklin369) | codigo369.com | Peru | 445 |
-| 20 | [carlosal1015](https://github.com/carlosal1015) | Oromion | Lima, Peru | 438 |
+| 18 | [Franklin369](https://github.com/Franklin369) | codigo369.com | Peru | 445 |
+| 19 | [carlosal1015](https://github.com/carlosal1015) | Oromion | Lima, Peru | 438 |
+| 20 | [HackUnderway](https://github.com/HackUnderway) | Hack Underway | Lima - Perú | 413 |
 
-Generated: 2026-10-15T18:24:44.786Z
+Generated: 2026-10-15T19:47:12.055Z

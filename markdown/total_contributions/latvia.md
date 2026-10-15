@@ -1,8 +1,8 @@
 # Total Contributions - Latvia
 
-Generated: 2026-10-15T18:05:44.244Z
+Generated: 2026-10-15T19:30:12.423Z
 
-Users: 3259
+Users: 3257
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -24,5 +24,5 @@ Users: 3259
 | 16 | [Shvembldr](https://github.com/Shvembldr) | Shvembldr |  | shvembldr | Latvia | 6475 |
 | 17 | [emplv](https://github.com/emplv) | Emīls Pļavenieks | @emp-lv  | empdotlv | Latvia | 6151 |
 | 18 | [Grizzlijs](https://github.com/Grizzlijs) | Emils Kicans | @picanova  |  | Riga/Latvia | 6083 |
-| 19 | [vitalijssilins](https://github.com/vitalijssilins) | Vitālijs Silins | Convershake |  | Latvia, Riga | 5985 |
-| 20 | [kasparsj](https://github.com/kasparsj) | Kaspars Jaudzems | Software Engineer & Digital Artist |  | Riga | 5871 |
+| 19 | [Fricbergs](https://github.com/Fricbergs) | Gints Fricbergs | ict.lv |  | Riga | 6067 |
+| 20 | [vitalijssilins](https://github.com/vitalijssilins) | Vitālijs Silins | Convershake |  | Latvia, Riga | 5985 |

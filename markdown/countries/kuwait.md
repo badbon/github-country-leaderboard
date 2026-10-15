@@ -1,6 +1,6 @@
 # Kuwait
 
-Indexed users: 798
+Indexed users: 797
 
 | Leaderboard | Link |
 |---|---|
@@ -40,7 +40,7 @@ Indexed users: 798
 | 1 | [BAWES](https://github.com/BAWES) | Khalid Al-Mutawa | Kuwait | 6,279 |
 | 2 | [quadrillion-q8](https://github.com/quadrillion-q8) | Kuwait Computer Repair on Call | Hawalli, Kuwait | 3,205 |
 | 3 | [arabcoders](https://github.com/arabcoders) | Abdulmohsen | Kuwait | 2,372 |
-| 4 | [fahadTheTechIdea](https://github.com/fahadTheTechIdea) | Fahad Aldhubaib | Kuwait | 2,224 |
+| 4 | [fahadTheTechIdea](https://github.com/fahadTheTechIdea) | Fahad Aldhubaib | Kuwait | 2,193 |
 | 5 | [saskw2010](https://github.com/saskw2010) | Mostafa Elnagar | kuwait | 1,740 |
 | 6 | [SiteQ8](https://github.com/SiteQ8) | Ali AlEnezi | Kuwait | 1,675 |
 | 7 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Kuwait | 1,653 |
@@ -83,4 +83,4 @@ Indexed users: 798
 | 19 | [MoathOthman](https://github.com/MoathOthman) | Moath othman | Kuwait | 85 |
 | 20 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Kuwait | 81 |
 
-Generated: 2026-10-15T18:04:51.874Z
+Generated: 2026-10-15T19:29:21.365Z

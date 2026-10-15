@@ -26,12 +26,12 @@ Indexed users: 3,303
 | 12 | [dkropachev](https://github.com/dkropachev) | Dmitry Kropachev | Dominican Republic | 6,784 |
 | 13 | [arielbritorivera](https://github.com/arielbritorivera) | Ariel A. Brito | Dominican Republic | 6,641 |
 | 14 | [focux](https://github.com/focux) | Leonardo E. Dominguez | Dominican Republic | 6,567 |
-| 15 | [franklinmdev](https://github.com/franklinmdev) | Franklin Martinez | Dominican Republic | 6,230 |
-| 16 | [AnthRG](https://github.com/AnthRG) | Anthony Rosario G. | Dominican Republic | 5,922 |
-| 17 | [emilsosa](https://github.com/emilsosa) | Emil Sosa | Dominican Republic | 5,892 |
-| 18 | [ERPalmer](https://github.com/ERPalmer) | ERPalmer | Dominican Republic | 5,854 |
-| 19 | [Bebell-Digital-Solutions](https://github.com/Bebell-Digital-Solutions) | Bebell Digital Solutions 🚀 | Dominican Republic | 5,554 |
-| 20 | [dylanminaya](https://github.com/dylanminaya) | Dylan Minaya | Dominican Republic | 5,486 |
+| 15 | [lewandy](https://github.com/lewandy) | Lewandy Dilone | Santiago,Dominican Republic | 6,261 |
+| 16 | [franklinmdev](https://github.com/franklinmdev) | Franklin Martinez | Dominican Republic | 6,230 |
+| 17 | [AnthRG](https://github.com/AnthRG) | Anthony Rosario G. | Dominican Republic | 5,922 |
+| 18 | [emilsosa](https://github.com/emilsosa) | Emil Sosa | Dominican Republic | 5,892 |
+| 19 | [ERPalmer](https://github.com/ERPalmer) | ERPalmer | Dominican Republic | 5,854 |
+| 20 | [Bebell-Digital-Solutions](https://github.com/Bebell-Digital-Solutions) | Bebell Digital Solutions 🚀 | Dominican Republic | 5,554 |
 
 ## Public Contributions
 
@@ -67,7 +67,7 @@ Indexed users: 3,303
 | 3 | [sgermosen](https://github.com/sgermosen) | Starling Germosen | Santo Domingo, Republica Dominicana | 728 |
 | 4 | [LeomarisReyes](https://github.com/LeomarisReyes) | Leomaris Reyes | Dominican Republic | 565 |
 | 5 | [rmariuzzo](https://github.com/rmariuzzo) | Rubens Mariuzzo | Dominican Republic | 425 |
-| 6 | [juliourena](https://github.com/juliourena) | Julio Ureña | Dominican Republic | 311 |
+| 6 | [juliourena](https://github.com/juliourena) | Julio Ureña | Dominican Republic | 313 |
 | 7 | [Topdev1234](https://github.com/Topdev1234) | Topdev | Dominican Republic | 309 |
 | 8 | [Char0394](https://github.com/Char0394) | Charlin Agramonte | Dominican Republic  | 276 |
 | 9 | [DannyFeliz](https://github.com/DannyFeliz) | Danny Feliz | Santo Domingo, Dominican Republic | 254 |
@@ -83,4 +83,4 @@ Indexed users: 3,303
 | 19 | [eatskolnikov](https://github.com/eatskolnikov) | Enmanuel Toribio | Dominican Republic | 149 |
 | 20 | [adonismendozaperez](https://github.com/adonismendozaperez) | Adonis Mendoza  | Dominican Republic | 117 |
 
-Generated: 2026-10-15T17:46:29.840Z
+Generated: 2026-10-15T19:14:24.947Z

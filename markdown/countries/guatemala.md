@@ -48,7 +48,7 @@ Indexed users: 3,221
 | 9 | [oschrenk](https://github.com/oschrenk) | Oliver Schrenk | Guatemala, Guatemala | 1,404 |
 | 10 | [ricardious](https://github.com/ricardious) | Alex Ricardo Castañeda Rodríguez | Guatemala | 1,394 |
 | 11 | [erwindank](https://github.com/erwindank) | Erwin Solorzano | Guatemala | 1,358 |
-| 12 | [MaxMald](https://github.com/MaxMald) | Max Maldonado | Guatemala | 1,180 |
+| 12 | [MaxMald](https://github.com/MaxMald) | Max Maldonado | Guatemala | 1,305 |
 | 13 | [pablo-mald03](https://github.com/pablo-mald03) | Pablo_Maldonado | Guatemala | 1,112 |
 | 14 | [eylles](https://github.com/eylles) |  | Guatemala | 1,045 |
 | 15 | [AlfredoG87](https://github.com/AlfredoG87) | Alfredo Gutierrez | Guatemala | 1,019 |
@@ -83,4 +83,4 @@ Indexed users: 3,221
 | 19 | [elmergustavo](https://github.com/elmergustavo) | Gustavo (tavcode)  | Quetzaltenango, Guatemala | 119 |
 | 20 | [cms](https://github.com/cms) | Christian C. Salvadó | Guatemala | 117 |
 
-Generated: 2026-10-15T17:55:56.345Z
+Generated: 2026-10-15T19:22:26.940Z

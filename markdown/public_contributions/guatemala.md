@@ -1,6 +1,6 @@
 # Public Contributions - Guatemala
 
-Generated: 2026-10-15T17:55:56.345Z
+Generated: 2026-10-15T19:22:26.940Z
 
 Users: 3221
 
@@ -17,7 +17,7 @@ Users: 3221
 | 9 | [oschrenk](https://github.com/oschrenk) | Oliver Schrenk | oschrenk | oschrenk | Guatemala, Guatemala | 1404 |
 | 10 | [ricardious](https://github.com/ricardious) | Alex Ricardo Castañeda Rodríguez |  |  | Guatemala | 1394 |
 | 11 | [erwindank](https://github.com/erwindank) | Erwin Solorzano |  |  | Guatemala | 1358 |
-| 12 | [MaxMald](https://github.com/MaxMald) | Max Maldonado | HummingFlight |  | Guatemala | 1180 |
+| 12 | [MaxMald](https://github.com/MaxMald) | Max Maldonado | HummingFlight |  | Guatemala | 1305 |
 | 13 | [pablo-mald03](https://github.com/pablo-mald03) | Pablo_Maldonado |  |  | Guatemala | 1112 |
 | 14 | [eylles](https://github.com/eylles) |  |  |  | Guatemala | 1045 |
 | 15 | [AlfredoG87](https://github.com/AlfredoG87) | Alfredo Gutierrez | @hashgraph @hiero-ledger @swirldslabs  |  | Guatemala | 1019 |

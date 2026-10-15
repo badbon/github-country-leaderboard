@@ -1,21 +1,21 @@
 # Public Contributions - Monaco
 
-Generated: 2026-10-15T18:14:10.942Z
+Generated: 2026-10-15T19:38:25.750Z
 
 Users: 142
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [laurentqro](https://github.com/laurentqro) | Laurent Curau |  |  | Monaco | 3870 |
-| 2 | [LovelessCodes](https://github.com/LovelessCodes) |  |  |  | Monaco | 2307 |
+| 2 | [LovelessCodes](https://github.com/LovelessCodes) |  |  |  | Monaco | 2335 |
 | 3 | [KristofM854](https://github.com/KristofM854) | Kristof Moeller | International Atomic Energy Agency |  | Monaco | 1631 |
 | 4 | [asingizwe1](https://github.com/asingizwe1) | Dev. Louis Asingizwe | 7C | _Louis_A_ | Monaco , Kampala/Uganda | 583 |
 | 5 | [auvents-brave](https://github.com/auvents-brave) | Stéphane |  |  | Monaco | 236 |
 | 6 | [AlexRLG98](https://github.com/AlexRLG98) | Alex_RLG |  |  | Monaco | 212 |
 | 7 | [co-stig](https://github.com/co-stig) | Constantine | Vilia |  | Monaco | 173 |
 | 8 | [NicoBocq](https://github.com/NicoBocq) | Nicolas Bocquet | Inforca |  | Marseille / Monaco | 148 |
-| 9 | [Steve-Deguilly](https://github.com/Steve-Deguilly) | Steve DEGUILLY | CREASTORY CONSEIL |  | Nice / Monaco / Sophia Antipolis | 116 |
-| 10 | [margauxhaering](https://github.com/margauxhaering) | Margaux Haering |  |  | Monaco | 109 |
+| 9 | [margauxhaering](https://github.com/margauxhaering) | Margaux Haering |  |  | Monaco | 123 |
+| 10 | [Steve-Deguilly](https://github.com/Steve-Deguilly) | Steve DEGUILLY | CREASTORY CONSEIL |  | Nice / Monaco / Sophia Antipolis | 116 |
 | 11 | [fedecarz](https://github.com/fedecarz) | fedecarz | International University of Monaco - IUM |  | Monaco | 99 |
 | 12 | [vjandrea](https://github.com/vjandrea) | Andrea Bergamasco | KeeSystem | vjandrea | Monaco | 94 |
 | 13 | [giraudremi92](https://github.com/giraudremi92) | Rémi |  |  | Monaco | 80 |

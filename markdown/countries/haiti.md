@@ -43,7 +43,7 @@ Indexed users: 339
 | 4 | [ritchartconcept](https://github.com/ritchartconcept) | Fritzner Richard | haiti | 414 |
 | 5 | [Tonton-ios](https://github.com/Tonton-ios) | Eernst_ | HAITI | 369 |
 | 6 | [dolphfi](https://github.com/dolphfi) | Fidele Delon Phayendy Rodolph | Cap-Haïtien, Haiti | 367 |
-| 7 | [AD0791](https://github.com/AD0791) | Alexandro Disla | Haiti | 295 |
+| 7 | [AD0791](https://github.com/AD0791) | Alexandro Disla | Haiti | 294 |
 | 8 | [platon777](https://github.com/platon777) | Wichley Valentin | Haiti | 290 |
 | 9 | [odilson-dev](https://github.com/odilson-dev) | Odilson W. Italis | Les Cayes, Haiti | 265 |
 | 10 | [haitibrand-co](https://github.com/haitibrand-co) | HaitiBrand  | Haiti | 241 |
@@ -76,11 +76,11 @@ Indexed users: 339
 | 12 | [AD0791](https://github.com/AD0791) | Alexandro Disla | Haiti | 41 |
 | 13 | [midsonlajeanty](https://github.com/midsonlajeanty) | Louis Midson Lajeanty | Haiti | 40 |
 | 14 | [bogosla](https://github.com/bogosla) | James Destiné | Haiti | 38 |
-| 15 | [djtrueway](https://github.com/djtrueway) | peterson saint-aime | Haiti | 38 |
+| 15 | [djtrueway](https://github.com/djtrueway) | peterson saint-aime | Haiti | 37 |
 | 16 | [AlexisJW](https://github.com/AlexisJW) | Jean Walner Alexis | Port-au-prince, Haïti | 34 |
 | 17 | [jfstephane](https://github.com/jfstephane) | Jules Frantz Stephane Loubeau | Haiti | 33 |
 | 18 | [KeitelDOG](https://github.com/KeitelDOG) | Keitel Jovin | Delmas 41, Ouest, Haiti | 32 |
 | 19 | [skydevht](https://github.com/skydevht) | Holy-Elie Scaïde | Port-au-prince, Haïti | 32 |
 | 20 | [DybyTechX](https://github.com/DybyTechX) | DybyTechX | haiti | 31 |
 
-Generated: 2026-10-15T17:57:29.485Z
+Generated: 2026-10-15T19:24:56.824Z

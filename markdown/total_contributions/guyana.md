@@ -1,6 +1,6 @@
 # Total Contributions - Guyana
 
-Generated: 2026-10-15T17:56:44.289Z
+Generated: 2026-10-15T19:24:31.134Z
 
 Users: 186
 
@@ -21,8 +21,8 @@ Users: 186
 | 13 | [jzills](https://github.com/jzills) | Joshua Zillwood |  |  | Georgetown, TX | 1823 |
 | 14 | [codedbychavez](https://github.com/codedbychavez) | Chavez Harris | @configcat |  | Guyana | 1579 |
 | 15 | [schrum2](https://github.com/schrum2) | Jacob Schrum | Southwestern University |  | Georgetown, TX | 1528 |
-| 16 | [kev-mb](https://github.com/kev-mb) | Kevin Martinez Bautista | SenSimTek |  | Georgetown, Texas | 1475 |
+| 16 | [kev-mb](https://github.com/kev-mb) | Kevin Martinez Bautista | SenSimTek |  | Georgetown, Texas | 1476 |
 | 17 | [rjvaleo](https://github.com/rjvaleo) | transelectronic |  |  | Georgetown, Colorado | 1451 |
-| 18 | [xbze3](https://github.com/xbze3) | Ezra Minty | @MintLeaf-Tech  |  | Guyana | 1431 |
+| 18 | [xbze3](https://github.com/xbze3) | Ezra Minty | @MintLeaf-Tech  |  | Guyana | 1410 |
 | 19 | [owengrant](https://github.com/owengrant) | Owen Grant | Arawak Software Consultancy |  | Guyana | 1275 |
-| 20 | [kathigg](https://github.com/kathigg) | Kathleen Higgins | Johns Hopkins Applied Physics Lab |  | Georgetown University | 1271 |
+| 20 | [kathigg](https://github.com/kathigg) | Kathleen Higgins | Johns Hopkins Applied Physics Lab |  | Georgetown University | 1273 |

@@ -1,6 +1,6 @@
 # Total Contributions - DR Congo
 
-Generated: 2026-10-15T17:46:36.612Z
+Generated: 2026-10-15T19:14:31.221Z
 
 Users: 699
 
@@ -8,7 +8,7 @@ Users: 699
 |---:|---|---|---|---|---|---:|
 | 1 | [coolbeatz71](https://github.com/coolbeatz71) | Mutombo Jean-Vincent | B2Tech-Git | coolbeatz71 | Kinshasa, Kigali | 33643 |
 | 2 | [kmdavid3](https://github.com/kmdavid3) | David M. KAYEMBE | kin distribution |  | DR Congo, kinshasa | 19894 |
-| 3 | [Abarchibody](https://github.com/Abarchibody) | Archimede Body | @nevolut  | abarchibody | Kinshasa, DRC | 12171 |
+| 3 | [Abarchibody](https://github.com/Abarchibody) | Archimede Body | @nevolut  | abarchibody | Kinshasa, DRC | 13382 |
 | 4 | [Bope142](https://github.com/Bope142) | Norbert Le Geek | @nulevices |  | Kinshasa DRC | 9454 |
 | 5 | [JoeM1990](https://github.com/JoeM1990) | Jonathan Monkila  | MonkilaTECH | joemonkila | kinshasa,RDC | 8077 |
 | 6 | [Dr-Lab1](https://github.com/Dr-Lab1) | Jonathan Kukwabantu Bahati | Labyrinthe | JoBahati1 | Kinshasa | 6978 |
@@ -25,4 +25,4 @@ Users: 699
 | 17 | [pacomeissa](https://github.com/pacomeissa) | PACOME ISSA | Freelancer |  | Democratic Republic of Congo | 4798 |
 | 18 | [AlbusDigi](https://github.com/AlbusDigi) | Albus | Faharix |  | Kinshasa | 4703 |
 | 19 | [MasirikaConstantin](https://github.com/MasirikaConstantin) | Masirika Constantin |  | negroconstantin | Kinshasa | 4585 |
-| 20 | [Gptimus](https://github.com/Gptimus) | Guerth Manzala | Freelance | GuerthManzala | Kinshasa/RDC | 4403 |
+| 20 | [hervinhio](https://github.com/hervinhio) | Hervé Kyle MUTOMBO MATANDA | Cinq Five | hervinhio | Kinshasa, Democratic Republic of Congo | 4407 |

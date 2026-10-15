@@ -1,8 +1,8 @@
 # Total Contributions - Iran
 
-Generated: 2026-10-15T18:00:31.593Z
+Generated: 2026-10-15T19:26:25.545Z
 
-Users: 26878
+Users: 26876
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -21,7 +21,7 @@ Users: 26878
 | 13 | [amirkma](https://github.com/amirkma) | amirreza_kma | KMA |  | IRAN | 12263 |
 | 14 | [MrAriaNet](https://github.com/MrAriaNet) | Aria | @mobinhost  | MrAriaNet | Tehran, Iran | 12136 |
 | 15 | [mehrdadmb2](https://github.com/mehrdadmb2) | Μιθριδάτης | university  |  | Iran  | 11796 |
-| 16 | [mohammadali-mousavireineh](https://github.com/mohammadali-mousavireineh) | Mohammadali Mousavireineh | Rayan programming education center |  | Iran | 11771 |
+| 16 | [mohammadali-mousavireineh](https://github.com/mohammadali-mousavireineh) | Mohammadali Mousavireineh | Rayan programming education center |  | Iran | 11435 |
 | 17 | [HamiParsa](https://github.com/HamiParsa) | Hami |  |  | IRAN | 11429 |
 | 18 | [Torabi-srh](https://github.com/Torabi-srh) | Soroush Trb. | @AlephbaSystem  |  | Mashhad, Iran | 11006 |
 | 19 | [OkBayat](https://github.com/OkBayat) | Mohammad Bayat | @K2Quant  |  | Tehran, Iran | 10530 |

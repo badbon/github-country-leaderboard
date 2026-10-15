@@ -1,13 +1,13 @@
 # Total Contributions - Malta
 
-Generated: 2026-10-15T18:10:00.014Z
+Generated: 2026-10-15T19:36:02.406Z
 
 Users: 1225
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [davidbalzan](https://github.com/davidbalzan) | David Balzan |  |  | Malta | 25544 |
-| 2 | [SijanC147](https://github.com/SijanC147) | Sean |  |  | Malta | 25147 |
+| 1 | [SijanC147](https://github.com/SijanC147) | Sean |  |  | Malta | 29571 |
+| 2 | [davidbalzan](https://github.com/davidbalzan) | David Balzan |  |  | Malta | 25544 |
 | 3 | [tssge](https://github.com/tssge) | Teemu Grönqvist | Freelancer @net9-oy |  | Msida, Malta | 15347 |
 | 4 | [zcourts](https://github.com/zcourts) | Courtney Robinson | Hypi | zcourts | London (UK), Łodz (Poland), Valletta (Malta) | 14624 |
 | 5 | [kjlibsol](https://github.com/kjlibsol) | Klaus Jensen | Liberatum Solutions Ltd |  | Malta | 12581 |
