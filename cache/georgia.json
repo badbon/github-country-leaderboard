@@ -23250,9 +23250,9 @@
     "location": "Tbilisi, Georgia",
     "company": "",
     "twitterUsername": "",
-    "followers": 17,
+    "followers": 19,
     "privateContributions": 0,
-    "publicContributions": 89,
+    "publicContributions": 22,
     "createdAt": "2021-06-04T14:43:24Z"
   },
   {
@@ -23263,8 +23263,8 @@
     "company": "@pavebank",
     "twitterUsername": "",
     "followers": 17,
-    "privateContributions": 7052,
-    "publicContributions": 165,
+    "privateContributions": 7229,
+    "publicContributions": 159,
     "createdAt": "2021-12-16T09:50:18Z"
   },
   {
@@ -23286,9 +23286,9 @@
     "location": "Georgia, Tbilisi",
     "company": "Available for hire",
     "twitterUsername": "",
-    "followers": 16,
+    "followers": 17,
     "privateContributions": 0,
-    "publicContributions": 172,
+    "publicContributions": 138,
     "createdAt": "2021-03-20T11:23:29Z"
   },
   {
@@ -23296,11 +23296,11 @@
     "name": "Pavel ",
     "avatarUrl": "https://avatars.githubusercontent.com/u/87094335?s=72&u=a329a8f27a3345f56d37406e760fc77abcecdb07&v=4",
     "location": "Georgia, Tbilisi",
-    "company": "",
+    "company": "01tech",
     "twitterUsername": "",
     "followers": 16,
     "privateContributions": 0,
-    "publicContributions": 61,
+    "publicContributions": 55,
     "createdAt": "2021-07-07T19:29:44Z"
   },
   {
@@ -23310,9 +23310,9 @@
     "location": "Tbilisi, Georgia",
     "company": "@Sugra-Systems",
     "twitterUsername": "armanobosyan",
-    "followers": 16,
-    "privateContributions": 9919,
-    "publicContributions": 392,
+    "followers": 19,
+    "privateContributions": 24430,
+    "publicContributions": 1035,
     "createdAt": "2021-03-05T12:50:05Z"
   },
   {
@@ -23323,21 +23323,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 16,
-    "privateContributions": 4457,
-    "publicContributions": 2,
+    "privateContributions": 5903,
+    "publicContributions": 60,
     "createdAt": "2021-06-06T19:56:54Z"
-  },
-  {
-    "login": "machavarian10to",
-    "name": "Otar Matchavariani",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/83397933?s=72&u=2b9839862fb7c30a083d4318bdda822a8660e99d&v=4",
-    "location": "Tbilisi, Georgia",
-    "company": "",
-    "twitterUsername": "machavarian10to",
-    "followers": 16,
-    "privateContributions": 489,
-    "publicContributions": 10,
-    "createdAt": "2021-04-29T08:59:24Z"
   },
   {
     "login": "SabaPipia",
@@ -23347,7 +23335,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 15,
-    "privateContributions": 853,
+    "privateContributions": 883,
     "publicContributions": 0,
     "createdAt": "2021-05-12T04:48:48Z"
   },
@@ -23358,7 +23346,7 @@
     "location": "Tbilisi,Georgia",
     "company": "SOFTX",
     "twitterUsername": "",
-    "followers": 15,
+    "followers": 16,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2021-12-13T18:22:05Z"
@@ -23382,21 +23370,21 @@
     "location": "Tbilisi, Georgia",
     "company": "My Path Pte. Ltd.",
     "twitterUsername": "",
-    "followers": 14,
+    "followers": 15,
     "privateContributions": 17,
-    "publicContributions": 71,
+    "publicContributions": 61,
     "createdAt": "2021-02-28T17:18:11Z"
   },
   {
     "login": "EthanBnntt",
-    "name": "Bennett",
+    "name": "Ethan Bennett",
     "avatarUrl": "https://avatars.githubusercontent.com/u/95309712?s=72&u=1ee5acc8298e2bc56862ece86da13f4bfe2a450c&v=4",
     "location": "Georgia",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 126,
-    "publicContributions": 128,
+    "followers": 13,
+    "privateContributions": 317,
+    "publicContributions": 130,
     "createdAt": "2021-11-30T18:27:16Z"
   },
   {
@@ -23406,7 +23394,7 @@
     "location": "Georgia",
     "company": "",
     "twitterUsername": "",
-    "followers": 14,
+    "followers": 12,
     "privateContributions": 16,
     "publicContributions": 0,
     "createdAt": "2021-01-23T16:28:14Z"
@@ -23438,13 +23426,13 @@
   {
     "login": "vkarchevskyi",
     "name": "Volodymyr Karchevskyi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/80644867?s=72&u=f1815be839009eb739b60c7a518cd47d65d1c559&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/80644867?s=72&u=cc2156a8d7977143aa14683834deb70a074df7f1&v=4",
     "location": "Tbilisi, Georgia",
     "company": "",
     "twitterUsername": "",
-    "followers": 15,
-    "privateContributions": 218,
-    "publicContributions": 413,
+    "followers": 16,
+    "privateContributions": 280,
+    "publicContributions": 370,
     "createdAt": "2021-03-14T18:56:58Z"
   },
   {
@@ -23455,7 +23443,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 13,
-    "privateContributions": 40,
+    "privateContributions": 110,
     "publicContributions": 6,
     "createdAt": "2021-08-06T18:13:33Z"
   },
@@ -23466,7 +23454,7 @@
     "location": "Tbilisi, Georgia",
     "company": "TBC",
     "twitterUsername": "",
-    "followers": 13,
+    "followers": 12,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-10-09T16:15:00Z"
