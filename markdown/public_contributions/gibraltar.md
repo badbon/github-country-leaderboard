@@ -1,6 +1,6 @@
 # Public Contributions - Gibraltar
 
-Generated: 2026-10-15T08:56:35.530Z
+Generated: 2026-10-15T12:51:06.472Z
 
 Users: 93
 
@@ -9,7 +9,7 @@ Users: 93
 | 1 | [miohtama](https://github.com/miohtama) | Mikko Ohtamaa | Trading Strategy | moo9000 | Gibraltar | 5660 |
 | 2 | [dlicudi](https://github.com/dlicudi) | Duane Licudi |  |  | Gibraltar | 2363 |
 | 3 | [Industrial](https://github.com/Industrial) | Tom Wieland | Idclear |  | Gibraltar | 1911 |
-| 4 | [ArtemSoldatkin](https://github.com/ArtemSoldatkin) | Artem Soldatkin |  |  | Gibraltar | 572 |
+| 4 | [ArtemSoldatkin](https://github.com/ArtemSoldatkin) | Artem Soldatkin |  |  | Gibraltar | 571 |
 | 5 | [ajedrezpremium](https://github.com/ajedrezpremium) | Ajedrez Premium | AJEDREZ PREMIUM |  | GIBRALTAR | 523 |
 | 6 | [crpol](https://github.com/crpol) | Cesar Rosa Polanco |  | cesarrpol | Gibraltar | 253 |
 | 7 | [heaventree](https://github.com/heaventree) | Heaventree Digital | Heaventree |  | Gibraltar | 241 |

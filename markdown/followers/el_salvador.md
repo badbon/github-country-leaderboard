@@ -1,13 +1,13 @@
 # Followers - El Salvador
 
-Generated: 2026-10-15T08:51:12.743Z
+Generated: 2026-10-15T12:45:18.223Z
 
 Users: 2379
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [MelvinAguilar](https://github.com/MelvinAguilar) | Melvin Aguilar | Software Engineering Student |  | El Salvador | 492 |
-| 2 | [Carlos007007](https://github.com/Carlos007007) | Carlos Alfaro |  |  | El Salvador | 402 |
+| 2 | [Carlos007007](https://github.com/Carlos007007) | Carlos Alfaro |  |  | El Salvador | 403 |
 | 3 | [D3Portillo](https://github.com/D3Portillo) | Denny Portillo | @Coding-Bastards  | d3portillo | El Salvador | 205 |
 | 4 | [baylagas](https://github.com/baylagas) | Balbino Aylagas | jobbi.me | BalbinoAylagas | San Salvador, El Salvador | 185 |
 | 5 | [oicrruf](https://github.com/oicrruf) | Víctor M. Reyes | FOCUS Services | oicrruf | San Salvador, El Salvador  | 164 |
@@ -22,7 +22,7 @@ Users: 2379
 | 14 | [ricardoerl](https://github.com/ricardoerl) | Ricardo Ramírez | Applaudo | ricardoerl | El Salvador | 123 |
 | 15 | [DanielRivera03](https://github.com/DanielRivera03) | Daniel Rivera | COAMSS/OPAMSS |  | San Salvador, El Salvador | 120 |
 | 16 | [Nexxtor](https://github.com/Nexxtor) | Nestor Aldana |  |  | El Salvador | 116 |
-| 17 | [fhereduardo90](https://github.com/fhereduardo90) | Fernando Juarez |  | fher_eduardo | El Salvador | 101 |
-| 18 | [heycesar](https://github.com/heycesar) | César A. Ramírez | Axel, @kods-io  | cesaramirezsv | El Salvador | 100 |
+| 17 | [heycesar](https://github.com/heycesar) | César A. Ramírez | Axel, @kods-io  | cesaramirezsv | El Salvador | 104 |
+| 18 | [fhereduardo90](https://github.com/fhereduardo90) | Fernando Juarez |  | fher_eduardo | El Salvador | 101 |
 | 19 | [hherzl](https://github.com/hherzl) | HH |  | hherzl | El Salvador | 97 |
-| 20 | [davequinta](https://github.com/davequinta) | David Quintanilla |  | dave_quinta | El Salvador | 96 |
+| 20 | [MiPrimerBitcoin](https://github.com/MiPrimerBitcoin) | Mi Primer Bitcoin El Salvador | Mi Primer Bitcoin El Salvador | MyfirstBitcoin_ | El Salvador | 96 |

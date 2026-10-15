@@ -51,11 +51,11 @@ Indexed users: 6,693
 | 12 | [Temamamankabeto](https://github.com/Temamamankabeto) | Temam | ethiopia | 2,775 |
 | 13 | [soltsega](https://github.com/soltsega) | Solomon Tsega | Addis Ababa | 2,685 |
 | 14 | [kaleab-kali](https://github.com/kaleab-kali) | kaleab Girma | Addis Ababa, Ethiopia | 2,667 |
-| 15 | [game-ale](https://github.com/game-ale) | Gemechu Alemu Bedasa | Ethiopia | 2,525 |
-| 16 | [Abduljebar49](https://github.com/Abduljebar49) | Abduljebar | Addis Ababa, Ethiopia | 2,510 |
-| 17 | [Mebrie-Awoke](https://github.com/Mebrie-Awoke) | Mebrie Awoke | Addis Ababa , Ethiopia | 2,427 |
-| 18 | [gemachistesfaye](https://github.com/gemachistesfaye) | Gemachis Tesfaye | Adaama, Ethiopia | 2,378 |
-| 19 | [Kidus-M](https://github.com/Kidus-M) | Kidus Mesfin Teferi | Addis Ababa, Ethiopia | 2,312 |
+| 15 | [Kidus-M](https://github.com/Kidus-M) | Kidus Mesfin Teferi | Addis Ababa, Ethiopia | 2,616 |
+| 16 | [game-ale](https://github.com/game-ale) | Gemechu Alemu Bedasa | Ethiopia | 2,525 |
+| 17 | [Abduljebar49](https://github.com/Abduljebar49) | Abduljebar | Addis Ababa, Ethiopia | 2,510 |
+| 18 | [Mebrie-Awoke](https://github.com/Mebrie-Awoke) | Mebrie Awoke | Addis Ababa , Ethiopia | 2,427 |
+| 19 | [gemachistesfaye](https://github.com/gemachistesfaye) | Gemachis Tesfaye | Adaama, Ethiopia | 2,378 |
 | 20 | [Maxd646](https://github.com/Maxd646) | Daniel Kebede | Addis Ababa | 2,097 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 6,693
 | 19 | [Olyadtemesgen](https://github.com/Olyadtemesgen) | Olyad Temesgen Amsalu | Addis Ababa, Ethiopia | 519 |
 | 20 | [yonasleykun27](https://github.com/yonasleykun27) | Yonas Leykun | Addis Ababa, Ethiopia  | 515 |
 
-Generated: 2026-10-15T08:53:21.520Z
+Generated: 2026-10-15T12:47:11.659Z

@@ -1,6 +1,6 @@
 # Total Contributions - Moldova
 
-Generated: 2026-10-15T09:21:06.553Z
+Generated: 2026-10-15T13:10:05.588Z
 
 Users: 1749
 
@@ -22,7 +22,7 @@ Users: 1749
 | 14 | [artickc](https://github.com/artickc) | NOXX - Commiter | iTSolution |  | Moldova, Chisinau | 5071 |
 | 15 | [fedotovdev](https://github.com/fedotovdev) | Ivan Fedotov |  |  | Chisinau, Moldova | 5046 |
 | 16 | [httpcatalin](https://github.com/httpcatalin) | Catalin | Eventino |  | Chișinău, Moldova | 4973 |
-| 17 | [vfarafonov](https://github.com/vfarafonov) | Vladimir Farafonov |  |  | Moldova | 4859 |
-| 18 | [sebsti5](https://github.com/sebsti5) | Sebastian | @Tafi-Solutions |  | Moldova 🇲🇩 | 4802 |
-| 19 | [Andrei-Ciuperca](https://github.com/Andrei-Ciuperca) | Andrei Ciupercă | @Tafi-Solutions  |  | Moldova | 4782 |
+| 17 | [Andrei-Ciuperca](https://github.com/Andrei-Ciuperca) | Andrei Ciupercă | @Tafi-Solutions  |  | Moldova | 4908 |
+| 18 | [vfarafonov](https://github.com/vfarafonov) | Vladimir Farafonov |  |  | Moldova | 4859 |
+| 19 | [sebsti5](https://github.com/sebsti5) | Sebastian | @Tafi-Solutions |  | Moldova 🇲🇩 | 4802 |
 | 20 | [szagoret](https://github.com/szagoret) | Sergiu Zagoret | Complexica  |  | Chisinau, Moldova | 4756 |

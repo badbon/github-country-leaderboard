@@ -1,18 +1,18 @@
 # Total Contributions - Guadeloupe
 
-Generated: 2026-10-15T08:57:07.716Z
+Generated: 2026-10-15T12:51:19.677Z
 
 Users: 86
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [sype](https://github.com/sype) | Sebastien Pincemail | @wefactorit | wefactorit | Paris / Guadeloupe | 6315 |
-| 2 | [JoDrm](https://github.com/JoDrm) | Jodrm | Freelance | DarmaJoachim | Guadeloupe | 3216 |
+| 2 | [JoDrm](https://github.com/JoDrm) | Jodrm | Freelance | DarmaJoachim | Guadeloupe | 3214 |
 | 3 | [macojaune](https://github.com/macojaune) | macojaune | @MarvinL-com  | macojaune | Guadeloupe | 2223 |
 | 4 | [kvaillant](https://github.com/kvaillant) | Karl Vaillant | Kulipa |  | Guadeloupe, West-Indies | 1749 |
 | 5 | [gbaccetta](https://github.com/gbaccetta) | Giovanni Accetta |  | GBAccetta | Guadeloupe | 1645 |
 | 6 | [iamcryptoki](https://github.com/iamcryptoki) | Gael Gentil | @ionis-education-group |  | Guadeloupe | 1421 |
-| 7 | [Gaelle-charles](https://github.com/Gaelle-charles) | Gaëlle CHARLES-BELAMOUR |  |  | Guadeloupe (FWI) | 1391 |
+| 7 | [Gaelle-charles](https://github.com/Gaelle-charles) | Gaëlle CHARLES-BELAMOUR |  |  | Guadeloupe (FWI) | 1393 |
 | 8 | [liobrasil](https://github.com/liobrasil) | Lionel LIMOL | Blockchain Xpert Solutions | lionel_limol | Guadeloupe | 943 |
 | 9 | [r1d](https://github.com/r1d) | Eric Degoul | EDSI Technologie |  | Sainte-Anne, Guadeloupe | 731 |
 | 10 | [BLVCK971](https://github.com/BLVCK971) | Yoel Pépin |  |  | Le Moule, GUADELOUPE | 691 |
@@ -23,6 +23,6 @@ Users: 86
 | 15 | [khalil-tabbal](https://github.com/khalil-tabbal) | Khalil TABBAL | Gwadaweb | rubatdub | Guadeloupe | 202 |
 | 16 | [Virguiles](https://github.com/Virguiles) | Virgile |  |  | Guadeloupe | 144 |
 | 17 | [Tomc1x](https://github.com/Tomc1x) | Tomy DACALOR |  |  | Basse-Terre, Guadeloupe | 136 |
-| 18 | [rgdgs](https://github.com/rgdgs) | Ruben G | @DG-Software-GP  |  | Guadeloupe | 98 |
+| 18 | [rgdgs](https://github.com/rgdgs) | Ruben G | @DG-Software-GP  |  | Guadeloupe | 96 |
 | 19 | [mperouma](https://github.com/mperouma) | Mathias P. | SCOP ARL SINOUVE |  | Guadeloupe | 80 |
 | 20 | [ELITEindev](https://github.com/ELITEindev) | Ethan Lacoste | Axial-Host |  | Guadeloupe | 76 |

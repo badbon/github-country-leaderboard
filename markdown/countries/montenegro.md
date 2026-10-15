@@ -51,7 +51,7 @@ Indexed users: 889
 | 12 | [Xaaalera](https://github.com/Xaaalera) | Roman Maslennikov | Montenegro | 1,863 |
 | 13 | [stefashkaa](https://github.com/stefashkaa) | Stefan Popov | Montenegro, Budva | 1,821 |
 | 14 | [atimofeev](https://github.com/atimofeev) | Artem Timofeev | Budva, Montenegro | 1,663 |
-| 15 | [YuriiMotov](https://github.com/YuriiMotov) | Yurii Motov | Bar, Montenegro | 1,474 |
+| 15 | [YuriiMotov](https://github.com/YuriiMotov) | Yurii Motov | Bar, Montenegro | 1,477 |
 | 16 | [stevyhacker](https://github.com/stevyhacker) | Stevan Bogosavljević | Montenegro | 1,450 |
 | 17 | [yurabakhtin](https://github.com/yurabakhtin) | Yuriy Bakhtin | Montenegro | 1,376 |
 | 18 | [artempartos](https://github.com/artempartos) | Artem Petrov | Montenegro | 1,255 |
@@ -69,7 +69,7 @@ Indexed users: 889
 | 5 | [oranmehmetsirin](https://github.com/oranmehmetsirin) | Mehmet Şirin ORAN | Montenegro | 346 |
 | 6 | [dockimbel](https://github.com/dockimbel) | Nenad Rakocevic | Montenegro | 334 |
 | 7 | [LukaDut7](https://github.com/LukaDut7) | Luka Dutina | Podgorica, Montenegro | 229 |
-| 8 | [YuriiMotov](https://github.com/YuriiMotov) | Yurii Motov | Bar, Montenegro | 194 |
+| 8 | [YuriiMotov](https://github.com/YuriiMotov) | Yurii Motov | Bar, Montenegro | 197 |
 | 9 | [sondreb](https://github.com/sondreb) | SondreB | Bar, Montenegro | 144 |
 | 10 | [cblp](https://github.com/cblp) | Yury Syrovetsky | Montenegro | 142 |
 | 11 | [lockie](https://github.com/lockie) | Andrew Kravchuk | Montenegro, Podgorica | 136 |
@@ -83,4 +83,4 @@ Indexed users: 889
 | 19 | [vovkasm](https://github.com/vovkasm) | Vladimir Timofeev | Budva, Montenegro | 99 |
 | 20 | [marcoroganovic](https://github.com/marcoroganovic) | Marko Roganovic | Montenegro | 89 |
 
-Generated: 2026-10-15T09:21:15.785Z
+Generated: 2026-10-15T13:10:20.497Z

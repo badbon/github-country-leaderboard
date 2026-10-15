@@ -1,6 +1,6 @@
 # Followers - Mozambique
 
-Generated: 2026-10-15T09:22:36.259Z
+Generated: 2026-10-15T13:11:53.082Z
 
 Users: 1176
 
@@ -25,4 +25,4 @@ Users: 1176
 | 17 | [Machaieie](https://github.com/Machaieie) | Edwin Machaieie | Ologa-Sistemas informaticos |  | Maputo, Mozambique | 118 |
 | 18 | [luisjeremias](https://github.com/luisjeremias) | Luis Geremias |  | luisgeremias_ | Mozambique | 116 |
 | 19 | [enoquetembe](https://github.com/enoquetembe) | Enoque Tembe |  |  | Maputo, Mozambique | 111 |
-| 20 | [mariomthree](https://github.com/mariomthree) | Mário M. Mabande | InoveIT, Lda | mariomthree | Maputo, Mozambique | 97 |
+| 20 | [mariomthree](https://github.com/mariomthree) | Mário M. Mabande | InoveIT, Lda | mariomthree | Maputo, Mozambique | 95 |

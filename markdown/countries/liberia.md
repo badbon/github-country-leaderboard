@@ -13,7 +13,7 @@ Indexed users: 210
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [FranklinD10](https://github.com/FranklinD10) | FrApps | Liberia | 7,767 |
-| 2 | [RA9](https://github.com/RA9) | Carlos S. Nah  | Liberia  | 5,311 |
+| 2 | [RA9](https://github.com/RA9) | Carlos S. Nah  | Liberia  | 5,316 |
 | 3 | [cruso003](https://github.com/cruso003) | Geitodyu Henrique Crusoe | Paynesville, Liberia | 4,244 |
 | 4 | [Forratino21](https://github.com/Forratino21) | Courage J. F. T Chileegbo | Liberia | 3,317 |
 | 5 | [Abayoh](https://github.com/Abayoh) | Alexander Bayoh | Monrovia, Liberia | 2,956 |
@@ -21,7 +21,7 @@ Indexed users: 210
 | 7 | [priceflex](https://github.com/priceflex) | Steven Price | Monrovia, CA | 1,516 |
 | 8 | [timtjoe](https://github.com/timtjoe) | Tim T. Joe | Liberia, West Africa | 1,436 |
 | 9 | [arunponnappan](https://github.com/arunponnappan) | Arun P | Monrovia | 1,409 |
-| 10 | [tangaye](https://github.com/tangaye) | Nathan Tangaye Siafa | Paynesville, Liberia | 1,230 |
+| 10 | [tangaye](https://github.com/tangaye) | Nathan Tangaye Siafa | Paynesville, Liberia | 1,234 |
 | 11 | [Carlostala04](https://github.com/Carlostala04) | Carlos Talavera | Liberia | 1,142 |
 | 12 | [mdsomah](https://github.com/mdsomah) | Mesheal D. Somah Sr. | Monrovia, Liberia | 1,119 |
 | 13 | [stenson](https://github.com/stenson) | Rob Stenson | Monrovia, CA | 865 |
@@ -31,7 +31,7 @@ Indexed users: 210
 | 17 | [jdaltonll02](https://github.com/jdaltonll02) | John Dalton Gibson | Liberia | 787 |
 | 18 | [efmomoh](https://github.com/efmomoh) | ENSSAH FAYIA MOMOH | Monrovia, Liberia | 719 |
 | 19 | [Prodigy-J](https://github.com/Prodigy-J) | Jerome N Tokpa | Monrovia, Liberia | 629 |
-| 20 | [xarrijorge](https://github.com/xarrijorge) | The African Nomad | Monrovia, Liberia | 619 |
+| 20 | [xarrijorge](https://github.com/xarrijorge) | The African Nomad | Monrovia, Liberia | 624 |
 
 ## Public Contributions
 
@@ -76,11 +76,11 @@ Indexed users: 210
 | 12 | [maxwelldorliea](https://github.com/maxwelldorliea) | Maxwell D.  Dorliea | Monrovia, Montserrado County, Liberia | 30 |
 | 13 | [weahotis](https://github.com/weahotis) | Otis Weah | Monrovia Liberia | 30 |
 | 14 | [tksiakor](https://github.com/tksiakor) | Kpetermeni Siakor | Monrovia, Liberia | 27 |
-| 15 | [KalevRK](https://github.com/KalevRK) | Kalev Roomann-Kurrik | Monrovia, CA | 25 |
-| 16 | [tangaye](https://github.com/tangaye) | Nathan Tangaye Siafa | Paynesville, Liberia | 25 |
+| 15 | [tangaye](https://github.com/tangaye) | Nathan Tangaye Siafa | Paynesville, Liberia | 26 |
+| 16 | [KalevRK](https://github.com/KalevRK) | Kalev Roomann-Kurrik | Monrovia, CA | 25 |
 | 17 | [boakaidorborkamara](https://github.com/boakaidorborkamara) | Boakai Dorbor Kamara | West Africa, Liberia | 24 |
 | 18 | [priceflex](https://github.com/priceflex) | Steven Price | Monrovia, CA | 23 |
 | 19 | [boaslah](https://github.com/boaslah) | Blessing Boaslah | Montserrado County, Liberia  | 21 |
-| 20 | [MorganTheTechEthusiast](https://github.com/MorganTheTechEthusiast) | James Anointed Morgan Jr. | Monrovia, Liberia | 21 |
+| 20 | [ejaygbay](https://github.com/ejaygbay) | Emmanuel Jaygbay | Liberia | 21 |
 
-Generated: 2026-10-15T09:10:56.354Z
+Generated: 2026-10-15T13:03:08.398Z

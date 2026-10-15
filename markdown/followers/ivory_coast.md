@@ -1,13 +1,13 @@
 # Followers - Ivory Coast
 
-Generated: 2026-10-15T09:04:38.994Z
+Generated: 2026-10-15T12:58:36.135Z
 
 Users: 488
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [Bleu-Yves-Sopoude](https://github.com/Bleu-Yves-Sopoude) | Bleu Yves Sopoude | @microverseinc  | bleuYves | Ivory Coast | 286 |
-| 2 | [houssenedao](https://github.com/houssenedao) | Houssene Dao | @nascent-tech  | houssenedao | Côte d'ivoire, Abidjan | 249 |
+| 2 | [houssenedao](https://github.com/houssenedao) | Houssene Dao | @nascent-tech  | houssenedao | Côte d'ivoire, Abidjan | 248 |
 | 3 | [codecaiine](https://github.com/codecaiine) | Yannick-Noël AKA |  | YannickNAka | Ivory Coast | 149 |
 | 4 | [AngeTia](https://github.com/AngeTia) | M. Gompou Tia Ange | Freelancer  | AngeTia03 | Ivory Coast, Abidjan | 138 |
 | 5 | [boyeClaude](https://github.com/boyeClaude) | Frederic Boye |  | the_boye_ | Ivory Coast | 137 |

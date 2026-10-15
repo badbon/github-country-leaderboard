@@ -51,8 +51,8 @@ Indexed users: 1,225
 | 12 | [stefanbuttigieg](https://github.com/stefanbuttigieg) | Stefan Buttigieg | Malta | 2,497 |
 | 13 | [marian2js](https://github.com/marian2js) | Mariano Pardo | Malta | 2,336 |
 | 14 | [novatechflow](https://github.com/novatechflow) | Alexander Alten | Malta | 2,070 |
-| 15 | [mbj](https://github.com/mbj) | Markus Schirp | Malta | 1,977 |
-| 16 | [SerZhyAle](https://github.com/SerZhyAle) | Serhii Zhyhunenko | Malta | 1,905 |
+| 15 | [SerZhyAle](https://github.com/SerZhyAle) | Serhii Zhyhunenko | Malta | 1,991 |
+| 16 | [mbj](https://github.com/mbj) | Markus Schirp | Malta | 1,977 |
 | 17 | [terranc](https://github.com/terranc) | Terran | Malta | 1,866 |
 | 18 | [dfroberg](https://github.com/dfroberg) | Danny Froberg | Gozo, Malta | 1,443 |
 | 19 | [owenfar](https://github.com/owenfar) |  | Malta | 1,305 |
@@ -83,4 +83,4 @@ Indexed users: 1,225
 | 19 | [mattcg](https://github.com/mattcg) | Matthew Caruana Galizia | Malta | 126 |
 | 20 | [CM2Walki](https://github.com/CM2Walki) | Walki | Malta | 118 |
 
-Generated: 2026-10-15T09:17:05.940Z
+Generated: 2026-10-15T13:07:09.117Z

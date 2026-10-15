@@ -19,7 +19,7 @@ Indexed users: 348
 | 5 | [sudoping01](https://github.com/sudoping01) | sed | Bamako | 5,304 |
 | 6 | [MFOF7310](https://github.com/MFOF7310) | MFOFANA | Bamako,Mali | 4,783 |
 | 7 | [MrSakine](https://github.com/MrSakine) | MrSakine | Mali | 3,438 |
-| 8 | [kdiawara96](https://github.com/kdiawara96) | Karim Diawara | JX4X+QX9, Bamako | 2,759 |
+| 8 | [kdiawara96](https://github.com/kdiawara96) | Karim Diawara | JX4X+QX9, Bamako | 2,754 |
 | 9 | [Alhoussen](https://github.com/Alhoussen) | Alhoussen | Bamako, Mali | 2,689 |
 | 10 | [AmadouDiadie95](https://github.com/AmadouDiadie95) | Amadou Diadie Coulibaly | Bamako-Mali | 2,626 |
 | 11 | [yacouba01](https://github.com/yacouba01) | Yacouba Doumbia | Mali | 2,395 |
@@ -28,7 +28,7 @@ Indexed users: 348
 | 14 | [Dioman-Keita](https://github.com/Dioman-Keita) | Dioman Keïta | Bamako/Mali | 1,949 |
 | 15 | [Ifiboys](https://github.com/Ifiboys) | Ephraim D Oladokun | Bamako, Mali | 1,932 |
 | 16 | [djounnoureyni](https://github.com/djounnoureyni) | Ousmane Mahamane Maïga | Bamako, Mali | 1,912 |
-| 17 | [Pelpav](https://github.com/Pelpav) | Christian Pavlov Elom Nouboukpo | Bamako | 1,648 |
+| 17 | [Pelpav](https://github.com/Pelpav) | Christian Pavlov Elom Nouboukpo | Bamako | 1,667 |
 | 18 | [THIOYE97](https://github.com/THIOYE97) | THIOYE MARIKO | Bamako , Mali 🇲🇱  | 1,606 |
 | 19 | [Bah-traore](https://github.com/Bah-traore) | Mr.tanjiro_bah | Mali/Bamako | 1,571 |
 | 20 | [bahamasangare](https://github.com/bahamasangare) | Bahama Sangaré | MALI  | 1,570 |
@@ -46,7 +46,7 @@ Indexed users: 348
 | 7 | [THIOYE97](https://github.com/THIOYE97) | THIOYE MARIKO | Bamako , Mali 🇲🇱  | 386 |
 | 8 | [LeoAz](https://github.com/LeoAz) | Lionel AZ | Bamako | 383 |
 | 9 | [skypper109](https://github.com/skypper109) | SKYPPER | Mali | 370 |
-| 10 | [Abdoul03](https://github.com/Abdoul03) | Abdoul Ibrahima Samaké | Bamako | 368 |
+| 10 | [Abdoul03](https://github.com/Abdoul03) | Abdoul Ibrahima Samaké | Bamako | 363 |
 | 11 | [tijjanismk](https://github.com/tijjanismk) |  | Mali | 344 |
 | 12 | [malladev](https://github.com/malladev) | Mohamed Lamine KONE | Bamako - MALI | 304 |
 | 13 | [Dayifour](https://github.com/Dayifour) | Sékou Dayifourou KEITA | Bamako, Mali | 274 |
@@ -83,4 +83,4 @@ Indexed users: 348
 | 19 | [AlyKonte](https://github.com/AlyKonte) |  | Mali/Bamako | 27 |
 | 20 | [Dioman-Keita](https://github.com/Dioman-Keita) | Dioman Keïta | Bamako/Mali | 26 |
 
-Generated: 2026-10-15T09:16:56.514Z
+Generated: 2026-10-15T13:06:28.353Z

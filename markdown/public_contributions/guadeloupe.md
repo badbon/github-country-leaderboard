@@ -1,12 +1,12 @@
 # Public Contributions - Guadeloupe
 
-Generated: 2026-10-15T08:57:07.716Z
+Generated: 2026-10-15T12:51:19.677Z
 
 Users: 86
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [Gaelle-charles](https://github.com/Gaelle-charles) | Gaëlle CHARLES-BELAMOUR |  |  | Guadeloupe (FWI) | 1391 |
+| 1 | [Gaelle-charles](https://github.com/Gaelle-charles) | Gaëlle CHARLES-BELAMOUR |  |  | Guadeloupe (FWI) | 1393 |
 | 2 | [liobrasil](https://github.com/liobrasil) | Lionel LIMOL | Blockchain Xpert Solutions | lionel_limol | Guadeloupe | 664 |
 | 3 | [FWICSS](https://github.com/FWICSS) | FWICSS |  | FWICSS | Guadeloupe | 455 |
 | 4 | [macojaune](https://github.com/macojaune) | macojaune | @MarvinL-com  | macojaune | Guadeloupe | 318 |

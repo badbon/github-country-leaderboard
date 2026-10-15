@@ -12,7 +12,7 @@ Indexed users: 298
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [bruxx-6243](https://github.com/bruxx-6243) | Fariol Blondeau | Brazzaville - Congo | 11,333 |
+| 1 | [bruxx-6243](https://github.com/bruxx-6243) | Fariol Blondeau | Brazzaville - Congo | 11,504 |
 | 2 | [Athanaze](https://github.com/Athanaze) | Sacha Liechti | Congo | 7,729 |
 | 3 | [Saintrick-FM](https://github.com/Saintrick-FM) | Francy Saintrick Malonga | Congo Brazzaville | 4,091 |
 | 4 | [chrismoussounda](https://github.com/chrismoussounda) | Christoffert Moussounda | Pointe-Noire, Congo | 3,862 |
@@ -44,7 +44,7 @@ Indexed users: 298
 | 5 | [ksthecrowned](https://github.com/ksthecrowned) | Kaiser D. Styve | Brazzaville | 726 |
 | 6 | [Espoir-Loem](https://github.com/Espoir-Loem) | Espoir LOEMBA | R.Congo, Brazzaville | 595 |
 | 7 | [elongastarks](https://github.com/elongastarks) | Elonga Stark  | Congo/North-kivu/Butembo | 518 |
-| 8 | [SedeoLeos](https://github.com/SedeoLeos) | Slaega | Brazzaville congo | 434 |
+| 8 | [SedeoLeos](https://github.com/SedeoLeos) | Slaega | Brazzaville congo | 451 |
 | 9 | [Flammeduciel](https://github.com/Flammeduciel) | Flamme Du Ciel WASS | Brazzaville CG | 385 |
 | 10 | [lafondcodeur](https://github.com/lafondcodeur) | MACK LAFOND De Boumas | Brazzaville | 360 |
 | 11 | [denniskoech457](https://github.com/denniskoech457) | Extravaganza | Congo | 343 |
@@ -83,4 +83,4 @@ Indexed users: 298
 | 19 | [Ssnnee](https://github.com/Ssnnee) | Samuel Nandi | Republic of the Congo | 26 |
 | 20 | [WinnersProx](https://github.com/WinnersProx) | Vainqueur Bihame | Kigali,Rwanda,Congo | 25 |
 
-Generated: 2026-10-15T09:32:24.520Z
+Generated: 2026-10-15T13:21:40.566Z

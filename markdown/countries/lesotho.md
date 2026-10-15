@@ -51,12 +51,12 @@ Indexed users: 160
 | 12 | [Relebo1](https://github.com/Relebo1) | Relebohile Sekutlu | Maseru | 101 |
 | 13 | [ocaes](https://github.com/ocaes) | Tsitso Mafantiri | Lesotho | 98 |
 | 14 | [AguelDawma](https://github.com/AguelDawma) | Thapelo Sekhonyana | Upper Thamae Maseru | 95 |
-| 15 | [lmphatsi](https://github.com/lmphatsi) | Lebajoa Mphatsi | Lesotho | 88 |
-| 16 | [Tlotliso-Wiinc](https://github.com/Tlotliso-Wiinc) | Tlotliso Mafantiri | Maseru, Lesotho | 78 |
-| 17 | [n4p000-q](https://github.com/n4p000-q) | N311Q .jpg | Lesotho, Maseru | 74 |
-| 18 | [KuenaMahase](https://github.com/KuenaMahase) | Kuena Mahase | Lesotho | 73 |
-| 19 | [Bothata-desig](https://github.com/Bothata-desig) | Bothata Sello | Maseru, Lesotho | 69 |
-| 20 | [kgatman](https://github.com/kgatman) | kgatman | Maseru,Lesotho | 69 |
+| 15 | [kgatman](https://github.com/kgatman) | kgatman | Maseru,Lesotho | 93 |
+| 16 | [lmphatsi](https://github.com/lmphatsi) | Lebajoa Mphatsi | Lesotho | 88 |
+| 17 | [Tlotliso-Wiinc](https://github.com/Tlotliso-Wiinc) | Tlotliso Mafantiri | Maseru, Lesotho | 78 |
+| 18 | [n4p000-q](https://github.com/n4p000-q) | N311Q .jpg | Lesotho, Maseru | 74 |
+| 19 | [KuenaMahase](https://github.com/KuenaMahase) | Kuena Mahase | Lesotho | 73 |
+| 20 | [Bothata-desig](https://github.com/Bothata-desig) | Bothata Sello | Maseru, Lesotho | 69 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 160
 | 19 | [lotesm](https://github.com/lotesm) | Lotes Molapo | Maseru, Lesotho | 13 |
 | 20 | [entsoereng](https://github.com/entsoereng) | Mokonyana Ntsoereng | Lesotho | 12 |
 
-Generated: 2026-10-15T09:10:53.667Z
+Generated: 2026-10-15T13:03:03.748Z

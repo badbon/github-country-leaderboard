@@ -81,6 +81,6 @@ Indexed users: 1,929
 | 17 | [eritislami](https://github.com/eritislami) | Erit Islami | Struga, North Macedonia | 172 |
 | 18 | [sweko](https://github.com/sweko) | Wekoslav Stefanovski | Skopje | 171 |
 | 19 | [bor0](https://github.com/bor0) | Boro Sitnikovski | Skopje, North Macedonia | 166 |
-| 20 | [gdamjan](https://github.com/gdamjan) | Дамјан Георгиевски | Skopje, Macedonia | 144 |
+| 20 | [gdamjan](https://github.com/gdamjan) | Дамјан Георгиевски | Skopje, Macedonia | 145 |
 
-Generated: 2026-10-15T09:26:41.406Z
+Generated: 2026-10-15T13:14:48.703Z

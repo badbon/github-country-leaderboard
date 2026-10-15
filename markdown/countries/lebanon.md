@@ -25,7 +25,7 @@ Indexed users: 2,565
 | 11 | [MohammadKanaan](https://github.com/MohammadKanaan) | Mohammad Kanaan | Lebanon | 6,600 |
 | 12 | [mincer-fundbot](https://github.com/mincer-fundbot) | Mincer Alaeddine | Beirut | 6,452 |
 | 13 | [shahednasser](https://github.com/shahednasser) | Shahed Nasser | Aaramoun, Lebanon | 6,334 |
-| 14 | [MrPancakes39](https://github.com/MrPancakes39) | Sal Hasan | Aley, Lebanon | 6,138 |
+| 14 | [MrPancakes39](https://github.com/MrPancakes39) | Sal Hasan | Aley, Lebanon | 6,170 |
 | 15 | [mustafahalabi](https://github.com/mustafahalabi) | Mustafa Halabi | Lebanon | 6,034 |
 | 16 | [MohamadMoheb](https://github.com/MohamadMoheb) | Mohamad Moheb | Rmeileh, Lebanon | 5,892 |
 | 17 | [Kaakati](https://github.com/Kaakati) | Mohamad Kaakati | Beirut, Lebanon | 5,864 |
@@ -83,4 +83,4 @@ Indexed users: 2,565
 | 19 | [hadiidbouk](https://github.com/hadiidbouk) | Hadi Dbouk | Lebanon | 100 |
 | 20 | [rhamzeh](https://github.com/rhamzeh) | Raghd Hamzeh | Beirut, Lebanon | 95 |
 
-Generated: 2026-10-15T09:10:49.386Z
+Generated: 2026-10-15T13:03:00.368Z

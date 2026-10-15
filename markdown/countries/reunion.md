@@ -15,7 +15,7 @@ Indexed users: 212
 | 1 | [fabricepayet](https://github.com/fabricepayet) | Fabrice Payet | Reunion Island | 19,767 |
 | 2 | [PhilDL](https://github.com/PhilDL) | Philippe L'ATTENTION | Réunion | 6,860 |
 | 3 | [digikaizen](https://github.com/digikaizen) | DigiKaizen | Saint-Denis | 6,438 |
-| 4 | [saiht](https://github.com/saiht) | Saiht | Reunion Island | 3,844 |
+| 4 | [saiht](https://github.com/saiht) | Saiht | Reunion Island | 3,880 |
 | 5 | [axelearning](https://github.com/axelearning) | Axel Rasse | Reunion island | 3,553 |
 | 6 | [vittoriobusatta](https://github.com/vittoriobusatta) | vittorio | Reunion Island | 2,731 |
 | 7 | [Nicolas-Begue](https://github.com/Nicolas-Begue) | Nicolas BEGUE 🐱‍👤 | Saint-Denis | 2,439 |
@@ -39,7 +39,7 @@ Indexed users: 212
 |---:|---|---|---|---:|
 | 1 | [Gabouin](https://github.com/Gabouin) | Gabouin | Reunion Island | 1,941 |
 | 2 | [Nasjoe](https://github.com/Nasjoe) | Jonas TURBEAUX | Réunion Island, Villeurbanne, Montpellier : France | 1,700 |
-| 3 | [elmarco](https://github.com/elmarco) | Marc-André Lureau | Réunion | 1,131 |
+| 3 | [elmarco](https://github.com/elmarco) | Marc-André Lureau | Réunion | 1,146 |
 | 4 | [ChaffyLace](https://github.com/ChaffyLace) |  | Saint Denis | 970 |
 | 5 | [PhilDL](https://github.com/PhilDL) | Philippe L'ATTENTION | Réunion | 869 |
 | 6 | [IamArayel](https://github.com/IamArayel) | Arayel | Reunion Island | 713 |
@@ -83,4 +83,4 @@ Indexed users: 212
 | 19 | [JeCodeLeSoir](https://github.com/JeCodeLeSoir) | Aurélien | Réunion | 20 |
 | 20 | [Nasjoe](https://github.com/Nasjoe) | Jonas TURBEAUX | Réunion Island, Villeurbanne, Montpellier : France | 20 |
 
-Generated: 2026-10-15T09:32:28.297Z
+Generated: 2026-10-15T13:21:46.712Z

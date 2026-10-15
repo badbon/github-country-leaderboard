@@ -1,6 +1,6 @@
 # Public Contributions - Ethiopia
 
-Generated: 2026-10-15T08:53:21.520Z
+Generated: 2026-10-15T12:47:11.659Z
 
 Users: 6693
 
@@ -20,9 +20,9 @@ Users: 6693
 | 12 | [Temamamankabeto](https://github.com/Temamamankabeto) | Temam |  |  | ethiopia | 2775 |
 | 13 | [soltsega](https://github.com/soltsega) | Solomon Tsega | Addis Ababa University |  | Addis Ababa | 2685 |
 | 14 | [kaleab-kali](https://github.com/kaleab-kali) | kaleab Girma | Novek ICT Solutions |  | Addis Ababa, Ethiopia | 2667 |
-| 15 | [game-ale](https://github.com/game-ale) | Gemechu Alemu Bedasa | Adama Science and Technology University | alemu_geme88545 | Ethiopia | 2525 |
-| 16 | [Abduljebar49](https://github.com/Abduljebar49) | Abduljebar |  |  | Addis Ababa, Ethiopia | 2510 |
-| 17 | [Mebrie-Awoke](https://github.com/Mebrie-Awoke) | Mebrie Awoke | Orient PLC. |  | Addis Ababa , Ethiopia | 2427 |
-| 18 | [gemachistesfaye](https://github.com/gemachistesfaye) | Gemachis Tesfaye |  |  | Adaama, Ethiopia | 2378 |
-| 19 | [Kidus-M](https://github.com/Kidus-M) | Kidus Mesfin Teferi |  |  | Addis Ababa, Ethiopia | 2312 |
+| 15 | [Kidus-M](https://github.com/Kidus-M) | Kidus Mesfin Teferi |  |  | Addis Ababa, Ethiopia | 2616 |
+| 16 | [game-ale](https://github.com/game-ale) | Gemechu Alemu Bedasa | Adama Science and Technology University | alemu_geme88545 | Ethiopia | 2525 |
+| 17 | [Abduljebar49](https://github.com/Abduljebar49) | Abduljebar |  |  | Addis Ababa, Ethiopia | 2510 |
+| 18 | [Mebrie-Awoke](https://github.com/Mebrie-Awoke) | Mebrie Awoke | Orient PLC. |  | Addis Ababa , Ethiopia | 2427 |
+| 19 | [gemachistesfaye](https://github.com/gemachistesfaye) | Gemachis Tesfaye |  |  | Adaama, Ethiopia | 2378 |
 | 20 | [Maxd646](https://github.com/Maxd646) | Daniel Kebede |  |  | Addis Ababa | 2097 |

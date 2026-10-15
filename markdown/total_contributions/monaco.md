@@ -1,6 +1,6 @@
 # Total Contributions - Monaco
 
-Generated: 2026-10-15T09:21:07.406Z
+Generated: 2026-10-15T13:10:09.525Z
 
 Users: 142
 
@@ -17,8 +17,8 @@ Users: 142
 | 9 | [NicoBocq](https://github.com/NicoBocq) | Nicolas Bocquet | Inforca |  | Marseille / Monaco | 933 |
 | 10 | [tatianamc](https://github.com/tatianamc) | Tatiana |  |  | Monaco | 783 |
 | 11 | [jz222](https://github.com/jz222) | Timo Zimmermann | Mosaic S.A.R.L |  | Monte-Carlo, Monaco | 751 |
-| 12 | [asingizwe1](https://github.com/asingizwe1) | Dev. Louis Asingizwe | 7C | _Louis_A_ | Monaco , Kampala/Uganda | 605 |
-| 13 | [Orion98MC](https://github.com/Orion98MC) | Thierry Passeron | Monte-Carlo Computing |  | Monaco | 585 |
+| 12 | [Orion98MC](https://github.com/Orion98MC) | Thierry Passeron | Monte-Carlo Computing |  | Monaco | 585 |
+| 13 | [asingizwe1](https://github.com/asingizwe1) | Dev. Louis Asingizwe | 7C | _Louis_A_ | Monaco , Kampala/Uganda | 583 |
 | 14 | [vjandrea](https://github.com/vjandrea) | Andrea Bergamasco | KeeSystem | vjandrea | Monaco | 565 |
 | 15 | [scribelia-anthony](https://github.com/scribelia-anthony) | Anthony | Scribelia |  | Monaco | 428 |
 | 16 | [auvents-brave](https://github.com/auvents-brave) | Stéphane |  |  | Monaco | 406 |

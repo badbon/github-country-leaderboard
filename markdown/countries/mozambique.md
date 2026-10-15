@@ -24,7 +24,7 @@ Indexed users: 1,176
 | 10 | [rnrnshn](https://github.com/rnrnshn) | rurushu | Mozambique | 3,892 |
 | 11 | [Edsonjorgef1](https://github.com/Edsonjorgef1) | Edson Jorge Francisco | Mozambique, Sofala, Beira | 3,395 |
 | 12 | [americo](https://github.com/americo) | Américo Júnior | Mozambique | 3,256 |
-| 13 | [emuneme](https://github.com/emuneme) | Eusebio  Augusto Munene | Maputo | 2,793 |
+| 13 | [emuneme](https://github.com/emuneme) | Eusebio  Augusto Munene | Maputo | 2,844 |
 | 14 | [rafael-the-dev](https://github.com/rafael-the-dev) | Rafael Tivane | Mozambique | 2,782 |
 | 15 | [enoqueJonas](https://github.com/enoqueJonas) | Enoque Macanda | Maputo, Mozambique | 2,769 |
 | 16 | [backstageel](https://github.com/backstageel) | Elísio Leonardo | Maputo | 2,722 |
@@ -81,6 +81,6 @@ Indexed users: 1,176
 | 17 | [Machaieie](https://github.com/Machaieie) | Edwin Machaieie | Maputo, Mozambique | 118 |
 | 18 | [luisjeremias](https://github.com/luisjeremias) | Luis Geremias | Mozambique | 116 |
 | 19 | [enoquetembe](https://github.com/enoquetembe) | Enoque Tembe | Maputo, Mozambique | 111 |
-| 20 | [mariomthree](https://github.com/mariomthree) | Mário M. Mabande | Maputo, Mozambique | 97 |
+| 20 | [mariomthree](https://github.com/mariomthree) | Mário M. Mabande | Maputo, Mozambique | 95 |
 
-Generated: 2026-10-15T09:22:36.259Z
+Generated: 2026-10-15T13:11:53.082Z

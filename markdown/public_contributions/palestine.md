@@ -1,13 +1,13 @@
 # Public Contributions - Palestine
 
-Generated: 2026-10-15T09:29:31.721Z
+Generated: 2026-10-15T13:17:31.716Z
 
 Users: 2200
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [izadoesdev](https://github.com/izadoesdev) | iza | Databuddy | izadoesdev | Palestine | 6937 |
-| 2 | [AhmedMElhalaby](https://github.com/AhmedMElhalaby) | Ahmed M. Elhalaby |  | AhmedMElhalaby | Palestine, Gaza, Remal, khdeer Tower , 5th floor | 2199 |
+| 2 | [AhmedMElhalaby](https://github.com/AhmedMElhalaby) | Ahmed M. Elhalaby |  | AhmedMElhalaby | Palestine, Gaza, Remal, khdeer Tower , 5th floor | 4746 |
 | 3 | [KhaledAwashreh](https://github.com/KhaledAwashreh) | Khaled Awashreh | @Restaurant365 |  |  Palestine - Ramallah | 1693 |
 | 4 | [Ayaalmadhon2004](https://github.com/Ayaalmadhon2004) | Aya almadhon |  |  | Palestine | 1621 |
 | 5 | [Tojan-Naiem](https://github.com/Tojan-Naiem) | Tojan |  |  | Palestine | 1562 |
@@ -16,9 +16,9 @@ Users: 2200
 | 8 | [Maryam-Skaik](https://github.com/Maryam-Skaik) | Maryam Skaik | IUG |  | Gaza, Palestine | 1436 |
 | 9 | [AlaaArmoush](https://github.com/AlaaArmoush) | Alaa Armoush |  |  | Nablus, Palestine | 1014 |
 | 10 | [fjcj0](https://github.com/fjcj0) | 𝓞𝓜𝓐𝓡 𝓒𝓞𝓓𝓘𝓝𝓖🐉 | Blue | OMARCODING_LEET | Palestine,Ramallah | 982 |
-| 11 | [OthmanMohammad](https://github.com/OthmanMohammad) | Mohammad Othman | @TransformerLabs  |  | Palestine | 950 |
-| 12 | [salahsaeed19](https://github.com/salahsaeed19) | Salah ElDin Saeed Abu Saif | ISmart Trading and Technology |  | Palestine, Gaza | 943 |
-| 13 | [hussainabuhajjaj](https://github.com/hussainabuhajjaj) | Hussain abu hajjaj | Freelancer  |  | Palestine  | 922 |
+| 11 | [hussainabuhajjaj](https://github.com/hussainabuhajjaj) | Hussain abu hajjaj | Freelancer  |  | Palestine  | 979 |
+| 12 | [OthmanMohammad](https://github.com/OthmanMohammad) | Mohammad Othman | @TransformerLabs  |  | Palestine | 950 |
+| 13 | [salahsaeed19](https://github.com/salahsaeed19) | Salah ElDin Saeed Abu Saif | ISmart Trading and Technology |  | Palestine, Gaza | 943 |
 | 14 | [Amer-Abuyaqob](https://github.com/Amer-Abuyaqob) | Amer Abuyaqob | Palestine Technical University - Kadoorie |  | Palestine \|  ✌︎︎ ︎فِلَـسَـٓــِٰٓطٓـيَنُ | 918 |
 | 15 | [Adel-Shurrab](https://github.com/Adel-Shurrab) | Adel Shurrab |  |  | Palestine, Gaza, Khan yunis | 816 |
 | 16 | [SamehDheir](https://github.com/SamehDheir) | Sameh Dheir | wasla Compony |  | Palestine/ Gaza | 802 |

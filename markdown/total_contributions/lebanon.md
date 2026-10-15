@@ -1,6 +1,6 @@
 # Total Contributions - Lebanon
 
-Generated: 2026-10-15T09:10:49.386Z
+Generated: 2026-10-15T13:03:00.368Z
 
 Users: 2565
 
@@ -19,7 +19,7 @@ Users: 2565
 | 11 | [MohammadKanaan](https://github.com/MohammadKanaan) | Mohammad Kanaan |  |  | Lebanon | 6600 |
 | 12 | [mincer-fundbot](https://github.com/mincer-fundbot) | Mincer Alaeddine | Fundbot |  | Beirut | 6452 |
 | 13 | [shahednasser](https://github.com/shahednasser) | Shahed Nasser | @medusajs | _shahednasser | Aaramoun, Lebanon | 6334 |
-| 14 | [MrPancakes39](https://github.com/MrPancakes39) | Sal Hasan |  |  | Aley, Lebanon | 6138 |
+| 14 | [MrPancakes39](https://github.com/MrPancakes39) | Sal Hasan |  |  | Aley, Lebanon | 6170 |
 | 15 | [mustafahalabi](https://github.com/mustafahalabi) | Mustafa Halabi | @Meritt-dev  |  | Lebanon | 6034 |
 | 16 | [MohamadMoheb](https://github.com/MohamadMoheb) | Mohamad Moheb | Personal |  | Rmeileh, Lebanon | 5892 |
 | 17 | [Kaakati](https://github.com/Kaakati) | Mohamad Kaakati | @manifest @barqfleet @thaat | kaakati | Beirut, Lebanon | 5864 |

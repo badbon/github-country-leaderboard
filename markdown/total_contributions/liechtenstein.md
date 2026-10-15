@@ -1,19 +1,19 @@
 # Total Contributions - Liechtenstein
 
-Generated: 2026-10-15T09:12:06.251Z
+Generated: 2026-10-15T13:03:14.800Z
 
 Users: 113
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [oscardvs](https://github.com/oscardvs) | Oscar Devos |  | oskrt_dvs | Liechtenstein | 5456 |
-| 2 | [bernhardw](https://github.com/bernhardw) | Bernhard Wanger | Rezendo |  | Vaduz, Liechtenstein | 4538 |
+| 2 | [bernhardw](https://github.com/bernhardw) | Bernhard Wanger | Rezendo |  | Vaduz, Liechtenstein | 4537 |
 | 3 | [tnaescher](https://github.com/tnaescher) | T. Näscher | J&T Treuhand GmbH, Zürich |  | Liechtenstein | 4289 |
 | 4 | [msanft](https://github.com/msanft) | Moritz Sanft | Edgeless Systems | stdoutput | Liechtenstein | 2971 |
 | 5 | [PhilippHGerber](https://github.com/PhilippHGerber) | Philipp H. Gerber |  | PhilippHGerber | Liechtenstein | 2610 |
 | 6 | [ColinFrick](https://github.com/ColinFrick) | Colin Frick | SONDERFORMAT LLC | ColinFrick | Liechtenstein | 2533 |
 | 7 | [AHaldner](https://github.com/AHaldner) | Andrin Haldner | Stutz Medien AG |  | Liechtenstein | 1821 |
-| 8 | [marsop](https://github.com/marsop) | Alberto Gregorio | phios ag | marsop_ | Ruggell, Liechtenstein | 1687 |
+| 8 | [marsop](https://github.com/marsop) | Alberto Gregorio | phios ag | marsop_ | Ruggell, Liechtenstein | 1688 |
 | 9 | [niklasfrick](https://github.com/niklasfrick) | Niklas Frick | @theplatformengineeringcompany | FrickNiklas | Liechtenstein | 1217 |
 | 10 | [iwhp](https://github.com/iwhp) | Harry Pfleger |  |  | Liechtenstein | 754 |
 | 11 | [masteradhoc](https://github.com/masteradhoc) | Brian |  | mrbrianhaas | Liechtenstein | 737 |
@@ -24,5 +24,5 @@ Users: 113
 | 16 | [anonymouslyanonymous1](https://github.com/anonymouslyanonymous1) | Anonymously Anonymous |  |  | Liechtenstein | 309 |
 | 17 | [anondotli](https://github.com/anondotli) | anon.li |  |  | Liechtenstein | 300 |
 | 18 | [ColinFL](https://github.com/ColinFL) |  |  |  | Liechtenstein | 268 |
-| 19 | [FeeJai](https://github.com/FeeJai) | Felix Jankowski |  |  | Liechtenstein | 264 |
+| 19 | [FeeJai](https://github.com/FeeJai) | Felix Jankowski |  |  | Liechtenstein | 260 |
 | 20 | [catbears](https://github.com/catbears) |  |  |  | Eschen, Liechtenstein | 166 |

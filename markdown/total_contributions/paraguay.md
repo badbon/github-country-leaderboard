@@ -1,6 +1,6 @@
 # Total Contributions - Paraguay
 
-Generated: 2026-10-15T09:30:46.896Z
+Generated: 2026-10-15T13:18:44.069Z
 
 Users: 2014
 
@@ -14,15 +14,15 @@ Users: 2014
 | 6 | [diogocsoares](https://github.com/diogocsoares) | Diogo Soares |  |  | Paraguay | 10224 |
 | 7 | [anthonybir](https://github.com/anthonybir) | Anthony Bir |  |  | Asuncion, Paraguay | 10124 |
 | 8 | [cmelgarejo](https://github.com/cmelgarejo) | Christian Melgarejo | @LoopContext |  | Paraguay | 9877 |
-| 9 | [juraj-m](https://github.com/juraj-m) | Juraj |  |  | Yaguarón, Paraguay | 7879 |
-| 10 | [dev-cardenas](https://github.com/dev-cardenas) | Fernando Salinas Cardenas |  |  | Paraguay | 7008 |
-| 11 | [kiquetal](https://github.com/kiquetal) | Enrique\m/Talavera | <) |  | Paraguay | 6752 |
-| 12 | [MHHukiewitz](https://github.com/MHHukiewitz) | Mike Hukiewitz | YourTrading.ai GbR |  | Paraguay, Cordillera | 6583 |
-| 13 | [davicyyo](https://github.com/davicyyo) | DaViCyYo | HeadArrow | davicyyoYT | Paraguay | 5811 |
-| 14 | [zot24](https://github.com/zot24) |  | Motty | zot24 | Asuncion, Paraguay | 5424 |
-| 15 | [apojomovsky](https://github.com/apojomovsky) | Alexis Pojomovsky |  |  | Asunción - Paraguay | 5111 |
-| 16 | [InumanSoul](https://github.com/InumanSoul) | Anderson Fariña |  | Inumansoul | Paraguay | 5001 |
-| 17 | [aplgr](https://github.com/aplgr) | André Plöger |  |  | Paraguay | 4966 |
-| 18 | [luifer-villalba](https://github.com/luifer-villalba) | Luifer Villalba | Mentormate | luifervillalba | Asunción, Paraguay | 4805 |
-| 19 | [sclavijo93](https://github.com/sclavijo93) | Saul Clavijo |  |  | Asuncion, Paraguay | 4708 |
-| 20 | [skyvanguard](https://github.com/skyvanguard) |  | Skyvanguard |  | Paraguay | 4332 |
+| 9 | [zot24](https://github.com/zot24) |  | Motty | zot24 | Asuncion, Paraguay | 7889 |
+| 10 | [juraj-m](https://github.com/juraj-m) | Juraj |  |  | Yaguarón, Paraguay | 7879 |
+| 11 | [dev-cardenas](https://github.com/dev-cardenas) | Fernando Salinas Cardenas |  |  | Paraguay | 7008 |
+| 12 | [kiquetal](https://github.com/kiquetal) | Enrique\m/Talavera | <) |  | Paraguay | 6752 |
+| 13 | [MHHukiewitz](https://github.com/MHHukiewitz) | Mike Hukiewitz | YourTrading.ai GbR |  | Paraguay, Cordillera | 6583 |
+| 14 | [davicyyo](https://github.com/davicyyo) | DaViCyYo | HeadArrow | davicyyoYT | Paraguay | 5811 |
+| 15 | [yoryer](https://github.com/yoryer) | Jorge Noguera |  | yoryer | Paraguay | 5465 |
+| 16 | [apojomovsky](https://github.com/apojomovsky) | Alexis Pojomovsky |  |  | Asunción - Paraguay | 5111 |
+| 17 | [InumanSoul](https://github.com/InumanSoul) | Anderson Fariña |  | Inumansoul | Paraguay | 5001 |
+| 18 | [aplgr](https://github.com/aplgr) | André Plöger |  |  | Paraguay | 4966 |
+| 19 | [luifer-villalba](https://github.com/luifer-villalba) | Luifer Villalba | Mentormate | luifervillalba | Asunción, Paraguay | 4805 |
+| 20 | [sclavijo93](https://github.com/sclavijo93) | Saul Clavijo |  |  | Asuncion, Paraguay | 4708 |

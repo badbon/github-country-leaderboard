@@ -19,7 +19,7 @@ Indexed users: 111
 | 5 | [6pheR](https://github.com/6pheR) | CipheR_ | New Caledonia | 2,573 |
 | 6 | [tom333](https://github.com/tom333) |  | Nouméa, New Calédonia | 1,477 |
 | 7 | [120dev](https://github.com/120dev) | 120 | NEW CALEDONIA | 1,451 |
-| 8 | [TooFuW](https://github.com/TooFuW) | Eyrian Muet | New- Caledonia | 1,424 |
+| 8 | [TooFuW](https://github.com/TooFuW) | Eyrian Muet | New- Caledonia | 1,432 |
 | 9 | [Julien-Fruteau](https://github.com/Julien-Fruteau) | Julien | New Caledonia | 1,216 |
 | 10 | [davidfevre-gouv-nc](https://github.com/davidfevre-gouv-nc) | David FEVRE | Nouméa, New Caledonia | 1,195 |
 | 11 | [Dougniel](https://github.com/Dougniel) | Daniel Santos | New Caledonia | 1,194 |
@@ -29,7 +29,7 @@ Indexed users: 111
 | 15 | [aNaoy](https://github.com/aNaoy) | Yoan Agostini | Nouméa | 715 |
 | 16 | [FreddieJH](https://github.com/FreddieJH) | Freddie J. Heather | Noumea, New Caledonia | 629 |
 | 17 | [ellisp](https://github.com/ellisp) | Peter Ellis | Nouméa, Nouvelle-Calédonie | 627 |
-| 18 | [BJ-Cochrane](https://github.com/BJ-Cochrane) | Ben Cochrane | Nouméa | 516 |
+| 18 | [BJ-Cochrane](https://github.com/BJ-Cochrane) | Ben Cochrane | Nouméa | 511 |
 | 19 | [darwiin](https://github.com/darwiin) | Christophe ROGER | New Caledonia | 507 |
 | 20 | [PLStenger](https://github.com/PLStenger) | Pierre-Louis Stenger | Nouméa, New-Caledonia | 461 |
 
@@ -74,13 +74,13 @@ Indexed users: 111
 | 10 | [maitredede](https://github.com/maitredede) | Damien DALY | Nouméa, New Caledonia | 15 |
 | 11 | [stoyann-open-classrooms](https://github.com/stoyann-open-classrooms) | Stoyann Velten | Nouméa (New Caledonia) | 14 |
 | 12 | [FreddieJH](https://github.com/FreddieJH) | Freddie J. Heather | Noumea, New Caledonia | 13 |
-| 13 | [jchable](https://github.com/jchable) | Julien CHABLE | Nouméa | 12 |
-| 14 | [aNaoy](https://github.com/aNaoy) | Yoan Agostini | Nouméa | 11 |
-| 15 | [andymalo43](https://github.com/andymalo43) | Andy MALO | New-Caledonia | 11 |
+| 13 | [andymalo43](https://github.com/andymalo43) | Andy MALO | New-Caledonia | 12 |
+| 14 | [jchable](https://github.com/jchable) | Julien CHABLE | Nouméa | 12 |
+| 15 | [aNaoy](https://github.com/aNaoy) | Yoan Agostini | Nouméa | 11 |
 | 16 | [fabricedujardinportfolio](https://github.com/fabricedujardinportfolio) | Fabrice DUJARDIN | Nouméa | 10 |
 | 17 | [Alexandre-JAMROZ](https://github.com/Alexandre-JAMROZ) | Alexandre JAMROZ | New Caledonia | 9 |
 | 18 | [AviMcCartney](https://github.com/AviMcCartney) | CATALA Alexandre | New-Caledonia | 9 |
 | 19 | [gronono](https://github.com/gronono) | Arnaud | New Caledonia | 9 |
 | 20 | [6pheR](https://github.com/6pheR) | CipheR_ | New Caledonia | 8 |
 
-Generated: 2026-10-15T09:24:46.411Z
+Generated: 2026-10-15T13:13:26.172Z

@@ -1,12 +1,12 @@
 # Public Contributions - Jersey
 
-Generated: 2026-10-15T06:14:22.667Z
+Generated: 2026-10-15T13:00:17.636Z
 
 Users: 139
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [marcusquinn](https://github.com/marcusquinn) | Marcus Quinn | @evergreenjersey @awardsapp @wpallstars | marcuswquinn | London, UK, Los-angeles, California, England, Jersey | 40080 |
+| 1 | [marcusquinn](https://github.com/marcusquinn) | Marcus Quinn | @evergreenjersey @awardsapp @wpallstars | marcuswquinn | London, UK, Los-angeles, California, England, Jersey | 46420 |
 | 2 | [simonbrowndotje](https://github.com/simonbrowndotje) | Simon Brown | @structurizr  | simonbrown | Jersey, Channel Islands | 747 |
 | 3 | [PhilETaylor](https://github.com/PhilETaylor) | Phil E. Taylor | Blue Flame Digital Solutions Limited | myPhilTaylor | Jersey, Channel Islands | 714 |
 | 4 | [j4ckxyz](https://github.com/j4ckxyz) | jack |  |  | Jersey, UK | 691 |
@@ -14,8 +14,8 @@ Users: 139
 | 6 | [CJ-Jackson](https://github.com/CJ-Jackson) | Christopher John Jackson | Sephora UK | MrCJJackson | St. Clement, Jersey | 548 |
 | 7 | [vraic](https://github.com/vraic) | André Tanguy |  |  | Jersey | 500 |
 | 8 | [gnathoi](https://github.com/gnathoi) | Nathaniel Hey |  |  | Jersey, Channel Islands | 428 |
-| 9 | [michaelbutler1998](https://github.com/michaelbutler1998) | Michael Butler | Insert Affiliate Ltd |  | Jersey | 411 |
-| 10 | [doobox](https://github.com/doobox) | Doobox | Doobox | doobox | Jersey | 408 |
+| 9 | [doobox](https://github.com/doobox) | Doobox | Doobox | doobox | Jersey | 408 |
+| 10 | [michaelbutler1998](https://github.com/michaelbutler1998) | Michael Butler | Insert Affiliate Ltd |  | Jersey | 408 |
 | 11 | [mhaddon](https://github.com/mhaddon) | Michael Haddon | @politepixels  |  | Jersey, Channel Islands | 211 |
 | 12 | [ndestates](https://github.com/ndestates) | Nick Dodsley | ND Estates | nickdodsley | Jersey | 196 |
 | 13 | [xsebby](https://github.com/xsebby) | sebby |  | xsebby | jersey | 178 |

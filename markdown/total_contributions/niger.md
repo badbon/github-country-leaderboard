@@ -1,6 +1,6 @@
 # Total Contributions - Niger
 
-Generated: 2026-10-15T09:24:58.140Z
+Generated: 2026-10-15T13:14:33.727Z
 
 Users: 176
 
@@ -14,14 +14,14 @@ Users: 176
 | 6 | [petrozavodsky](https://github.com/petrozavodsky) | Vladimir Petrozavodsky |  |  | Niger | 1378 |
 | 7 | [Yacoubou-seidou](https://github.com/Yacoubou-seidou) | Yacos | Available for hire |  | Niamey/Niger | 1151 |
 | 8 | [kodjodevf](https://github.com/kodjodevf) | Moustapha Kodjo Amadou |  | kodjodevf | Niamey,Niger | 1146 |
-| 9 | [FadelMamar](https://github.com/FadelMamar) | Fadel |  |  | Niger | 1025 |
+| 9 | [FadelMamar](https://github.com/FadelMamar) | Fadel |  |  | Niger | 1063 |
 | 10 | [5mamane](https://github.com/5mamane) | Mamane I. |  |  | Niamey | 953 |
 | 11 | [Transega](https://github.com/Transega) | Collins Asega Amadala  | @omdena | asega_collins | Niamey Niger | 943 |
 | 12 | [oxy227](https://github.com/oxy227) | Ayouba Issoufou |  |  | Niamey/Niger | 747 |
 | 13 | [Godisouleymane](https://github.com/Godisouleymane) | Souleymane Sabiou | @Sakona-Ne | godi_Souleymane | Niger | 745 |
 | 14 | [Abdoulaye-Ly](https://github.com/Abdoulaye-Ly) | Abdoulaye Ousmane Ly |  | doudou__ly | Niamey, Niger | 709 |
 | 15 | [Ismail0u](https://github.com/Ismail0u) | Ismael |  |  | Niamey & Lomé | 587 |
-| 16 | [mocy111](https://github.com/mocy111) | Moctar Yonli | @Kamamini  | moctar_yonli | Niamey | 535 |
+| 16 | [mocy111](https://github.com/mocy111) | Moctar Yonli | @Kamamini  | moctar_yonli | Niamey | 546 |
 | 17 | [Imrana-Moustapha](https://github.com/Imrana-Moustapha) | Imrana Moustapha |  |  | Niamey-Niger | 524 |
 | 18 | [netmophus](https://github.com/netmophus) | NETMORPHUS | www.techpart. | netmorphus | Niamey | 495 |
 | 19 | [Kounou25](https://github.com/Kounou25) | Kounou Gilbert | @qwiper  @Osirion-IA  |  | Niamey,Niger | 457 |

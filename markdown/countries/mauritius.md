@@ -44,8 +44,8 @@ Indexed users: 713
 | 5 | [asvinb](https://github.com/asvinb) | Asvin Balloo | Mauritius | 1,577 |
 | 6 | [xelab04](https://github.com/xelab04) | Alex Bissessur | Mauritius | 1,491 |
 | 7 | [MrSunshyne](https://github.com/MrSunshyne) | Sandeep Ramgolam | Mauritius | 1,426 |
-| 8 | [danielgithiomi](https://github.com/danielgithiomi) | Daniel Githiomi | Grand Baie, Mauritius | 1,308 |
-| 9 | [Abdur-rahmaanJ](https://github.com/Abdur-rahmaanJ) | Abdur-Rahmaan Janhangeer | Mauritius | 1,307 |
+| 8 | [Abdur-rahmaanJ](https://github.com/Abdur-rahmaanJ) | Abdur-Rahmaan Janhangeer | Mauritius | 1,406 |
+| 9 | [danielgithiomi](https://github.com/danielgithiomi) | Daniel Githiomi | Grand Baie, Mauritius | 1,308 |
 | 10 | [eznix86](https://github.com/eznix86) | Bruno Bernard | Mauritius | 1,303 |
 | 11 | [Andriamahay11master](https://github.com/Andriamahay11master) | Andriamahay Henikaja IRIMANANA | Trianon, Mauritius | 1,019 |
 | 12 | [jochenkirstaetter](https://github.com/jochenkirstaetter) | Jochen Kirstätter | Mauritius | 994 |
@@ -83,4 +83,4 @@ Indexed users: 713
 | 19 | [MaskyS](https://github.com/MaskyS) | Kifah M | Mauritius | 74 |
 | 20 | [umarmw](https://github.com/umarmw) | Umar Waliyullah | Mauritius | 66 |
 
-Generated: 2026-10-15T09:19:26.147Z
+Generated: 2026-10-15T13:09:19.061Z

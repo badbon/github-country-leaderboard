@@ -28,9 +28,9 @@ Indexed users: 1,749
 | 14 | [artickc](https://github.com/artickc) | NOXX - Commiter | Moldova, Chisinau | 5,071 |
 | 15 | [fedotovdev](https://github.com/fedotovdev) | Ivan Fedotov | Chisinau, Moldova | 5,046 |
 | 16 | [httpcatalin](https://github.com/httpcatalin) | Catalin | Chișinău, Moldova | 4,973 |
-| 17 | [vfarafonov](https://github.com/vfarafonov) | Vladimir Farafonov | Moldova | 4,859 |
-| 18 | [sebsti5](https://github.com/sebsti5) | Sebastian | Moldova 🇲🇩 | 4,802 |
-| 19 | [Andrei-Ciuperca](https://github.com/Andrei-Ciuperca) | Andrei Ciupercă | Moldova | 4,782 |
+| 17 | [Andrei-Ciuperca](https://github.com/Andrei-Ciuperca) | Andrei Ciupercă | Moldova | 4,908 |
+| 18 | [vfarafonov](https://github.com/vfarafonov) | Vladimir Farafonov | Moldova | 4,859 |
+| 19 | [sebsti5](https://github.com/sebsti5) | Sebastian | Moldova 🇲🇩 | 4,802 |
 | 20 | [szagoret](https://github.com/szagoret) | Sergiu Zagoret | Chisinau, Moldova | 4,756 |
 
 ## Public Contributions
@@ -83,4 +83,4 @@ Indexed users: 1,749
 | 19 | [vgaidarji](https://github.com/vgaidarji) | Veaceslav Gaidarji | Moldova | 115 |
 | 20 | [Ernest96](https://github.com/Ernest96) | Ernest | Chisinau Moldova | 107 |
 
-Generated: 2026-10-15T09:21:06.553Z
+Generated: 2026-10-15T13:10:05.588Z

@@ -12,7 +12,7 @@ Indexed users: 1,073
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [itsarisid](https://github.com/itsarisid) | Sajid Khan | Qatar | 19,403 |
+| 1 | [itsarisid](https://github.com/itsarisid) | Sajid Khan | Qatar | 19,177 |
 | 2 | [MohammedTarigg](https://github.com/MohammedTarigg) | Mohamed Nour | Qatar | 14,278 |
 | 3 | [nirzaf](https://github.com/nirzaf) | M.F.M Fazrin | Doha - Qatar | 12,120 |
 | 4 | [Alaaeldin-Said](https://github.com/Alaaeldin-Said) | Alaaeldin Said | Qatar | 9,706 |
@@ -83,4 +83,4 @@ Indexed users: 1,073
 | 19 | [muratyaman](https://github.com/muratyaman) | Haci Murat Yaman | Doha, Qatar | 101 |
 | 20 | [brainconnect93](https://github.com/brainconnect93) | Afolabi Akorede | Al-Wakrah, Qatar | 100 |
 
-Generated: 2026-10-15T09:32:20.402Z
+Generated: 2026-10-15T13:21:34.620Z

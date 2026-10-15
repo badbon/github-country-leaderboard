@@ -12,13 +12,13 @@ Indexed users: 2,379
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [marombeltran](https://github.com/marombeltran) | Marom Beltran | La Libertad, El Salvador | 11,301 |
-| 2 | [b-mendoza](https://github.com/b-mendoza) | Bryan Mendoza | San Salvador, El Salvador | 10,782 |
-| 3 | [Thrumanshow](https://github.com/Thrumanshow) | Cristhiam Leonardo Hernández Quiñonez  | El Salvador  | 10,365 |
-| 4 | [striker25](https://github.com/striker25) | Fernando Alvarado | El Salvador | 10,175 |
-| 5 | [jromerojarj](https://github.com/jromerojarj) | Jonathan Romero | San Salvador, El Salvador | 9,862 |
-| 6 | [sthbryan](https://github.com/sthbryan) | Bryan Villafuerte | El Salvador | 9,644 |
-| 7 | [heycesar](https://github.com/heycesar) | César A. Ramírez | El Salvador | 7,926 |
+| 1 | [heycesar](https://github.com/heycesar) | César A. Ramírez | El Salvador | 12,565 |
+| 2 | [marombeltran](https://github.com/marombeltran) | Marom Beltran | La Libertad, El Salvador | 11,301 |
+| 3 | [b-mendoza](https://github.com/b-mendoza) | Bryan Mendoza | San Salvador, El Salvador | 10,782 |
+| 4 | [Thrumanshow](https://github.com/Thrumanshow) | Cristhiam Leonardo Hernández Quiñonez  | El Salvador  | 10,365 |
+| 5 | [striker25](https://github.com/striker25) | Fernando Alvarado | El Salvador | 10,175 |
+| 6 | [jromerojarj](https://github.com/jromerojarj) | Jonathan Romero | San Salvador, El Salvador | 9,862 |
+| 7 | [sthbryan](https://github.com/sthbryan) | Bryan Villafuerte | El Salvador | 9,644 |
 | 8 | [MarvinQuevedo](https://github.com/MarvinQuevedo) | Marvin Quevedo | El Salvador | 7,596 |
 | 9 | [raarevalo96](https://github.com/raarevalo96) | Rodrigo Arévalo | San Salvador, El Salvador | 7,318 |
 | 10 | [dgerardoflores](https://github.com/dgerardoflores) | Gerardo Flores | El Salvador | 7,270 |
@@ -48,11 +48,11 @@ Indexed users: 2,379
 | 9 | [Forte11Cuba](https://github.com/Forte11Cuba) | Forte11 | El Salvador | 1,404 |
 | 10 | [LemonMantis5571](https://github.com/LemonMantis5571) | Leonel Guerrero | El Salvador | 1,206 |
 | 11 | [daiv05](https://github.com/daiv05) | David DV | San Salvador | 1,186 |
-| 12 | [replaceafill](https://github.com/replaceafill) | Douglas Cerna | San Salvador, El Salvador | 1,037 |
-| 13 | [Alexisrx96](https://github.com/Alexisrx96) | Irvin Torres | El Salvador | 1,035 |
-| 14 | [ronirgp](https://github.com/ronirgp) | RONALD PINEDA | El Salvador  | 1,005 |
-| 15 | [Lenny004](https://github.com/Lenny004) | Lenny Sánchez | El Salvador | 972 |
-| 16 | [KevLehman](https://github.com/KevLehman) | Kevin Aleman | El Salvador | 935 |
+| 12 | [KevLehman](https://github.com/KevLehman) | Kevin Aleman | El Salvador | 1,064 |
+| 13 | [replaceafill](https://github.com/replaceafill) | Douglas Cerna | San Salvador, El Salvador | 1,037 |
+| 14 | [Alexisrx96](https://github.com/Alexisrx96) | Irvin Torres | El Salvador | 1,035 |
+| 15 | [ronirgp](https://github.com/ronirgp) | RONALD PINEDA | El Salvador  | 1,005 |
+| 16 | [Lenny004](https://github.com/Lenny004) | Lenny Sánchez | El Salvador | 972 |
 | 17 | [Francisco-Guillermo-Hernandez](https://github.com/Francisco-Guillermo-Hernandez) | Francisco Guillermo Hernandez | El Salvador, San Salvador | 925 |
 | 18 | [FredyRivera-dev](https://github.com/FredyRivera-dev) | Fredy Rivera | El Salvador, San Vicente | 907 |
 | 19 | [C3SC0-V4113](https://github.com/C3SC0-V4113) | Francisco José Valle Cornejo | El Salvador, San Salvador | 897 |
@@ -63,7 +63,7 @@ Indexed users: 2,379
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [MelvinAguilar](https://github.com/MelvinAguilar) | Melvin Aguilar | El Salvador | 492 |
-| 2 | [Carlos007007](https://github.com/Carlos007007) | Carlos Alfaro | El Salvador | 402 |
+| 2 | [Carlos007007](https://github.com/Carlos007007) | Carlos Alfaro | El Salvador | 403 |
 | 3 | [D3Portillo](https://github.com/D3Portillo) | Denny Portillo | El Salvador | 205 |
 | 4 | [baylagas](https://github.com/baylagas) | Balbino Aylagas | San Salvador, El Salvador | 185 |
 | 5 | [oicrruf](https://github.com/oicrruf) | Víctor M. Reyes | San Salvador, El Salvador  | 164 |
@@ -78,9 +78,9 @@ Indexed users: 2,379
 | 14 | [ricardoerl](https://github.com/ricardoerl) | Ricardo Ramírez | El Salvador | 123 |
 | 15 | [DanielRivera03](https://github.com/DanielRivera03) | Daniel Rivera | San Salvador, El Salvador | 120 |
 | 16 | [Nexxtor](https://github.com/Nexxtor) | Nestor Aldana | El Salvador | 116 |
-| 17 | [fhereduardo90](https://github.com/fhereduardo90) | Fernando Juarez | El Salvador | 101 |
-| 18 | [heycesar](https://github.com/heycesar) | César A. Ramírez | El Salvador | 100 |
+| 17 | [heycesar](https://github.com/heycesar) | César A. Ramírez | El Salvador | 104 |
+| 18 | [fhereduardo90](https://github.com/fhereduardo90) | Fernando Juarez | El Salvador | 101 |
 | 19 | [hherzl](https://github.com/hherzl) | HH | El Salvador | 97 |
-| 20 | [davequinta](https://github.com/davequinta) | David Quintanilla | El Salvador | 96 |
+| 20 | [MiPrimerBitcoin](https://github.com/MiPrimerBitcoin) | Mi Primer Bitcoin El Salvador | El Salvador | 96 |
 
-Generated: 2026-10-15T08:51:12.743Z
+Generated: 2026-10-15T12:45:18.223Z

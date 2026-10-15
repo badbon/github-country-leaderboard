@@ -1,6 +1,6 @@
 # Pakistan
 
-Indexed users: 41,892
+Indexed users: 41,891
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 41,892
 | 19 | [mInzamamMalik](https://github.com/mInzamamMalik) | Inzamam Malik | karachi, pakistan | 1,250 |
 | 20 | [r0oth3x49](https://github.com/r0oth3x49) | Nasir Khan | Pakistan | 1,232 |
 
-Generated: 2026-10-15T09:28:24.628Z
+Generated: 2026-10-15T13:16:44.363Z

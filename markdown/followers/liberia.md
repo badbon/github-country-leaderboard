@@ -1,6 +1,6 @@
 # Followers - Liberia
 
-Generated: 2026-10-15T09:10:56.354Z
+Generated: 2026-10-15T13:03:08.398Z
 
 Users: 210
 
@@ -20,9 +20,9 @@ Users: 210
 | 12 | [maxwelldorliea](https://github.com/maxwelldorliea) | Maxwell D.  Dorliea | @ngoane  | maxwelldorliea | Monrovia, Montserrado County, Liberia | 30 |
 | 13 | [weahotis](https://github.com/weahotis) | Otis Weah |  | WeahOtisweah22 | Monrovia Liberia | 30 |
 | 14 | [tksiakor](https://github.com/tksiakor) | Kpetermeni Siakor | Kwagei Group |  | Monrovia, Liberia | 27 |
-| 15 | [KalevRK](https://github.com/KalevRK) | Kalev Roomann-Kurrik |  |  | Monrovia, CA | 25 |
-| 16 | [tangaye](https://github.com/tangaye) | Nathan Tangaye Siafa | @Kwagei | tangaye_siafa | Paynesville, Liberia | 25 |
+| 15 | [tangaye](https://github.com/tangaye) | Nathan Tangaye Siafa | @Kwagei | tangaye_siafa | Paynesville, Liberia | 26 |
+| 16 | [KalevRK](https://github.com/KalevRK) | Kalev Roomann-Kurrik |  |  | Monrovia, CA | 25 |
 | 17 | [boakaidorborkamara](https://github.com/boakaidorborkamara) | Boakai Dorbor Kamara | Sogital Lab | bdk_codes | West Africa, Liberia | 24 |
 | 18 | [priceflex](https://github.com/priceflex) | Steven Price | Tech Rockstars |  | Monrovia, CA | 23 |
 | 19 | [boaslah](https://github.com/boaslah) | Blessing Boaslah | Kwagei |  | Montserrado County, Liberia  | 21 |
-| 20 | [MorganTheTechEthusiast](https://github.com/MorganTheTechEthusiast) | James Anointed Morgan Jr. | Liberia Digital Insights | Morgan_5574 | Monrovia, Liberia | 21 |
+| 20 | [ejaygbay](https://github.com/ejaygbay) | Emmanuel Jaygbay |  | ejaygbay | Liberia | 21 |

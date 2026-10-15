@@ -17,16 +17,16 @@ Indexed users: 805
 | 3 | [tortuvshin](https://github.com/tortuvshin) | Turtuvshin Byambaa | Mongolia | 18,044 |
 | 4 | [ganbold](https://github.com/ganbold) | Ganbold | Ulaanbaatar, Mongolia | 12,092 |
 | 5 | [baysaa006](https://github.com/baysaa006) |  | Mongolia. | 11,173 |
-| 6 | [Amartuvshins0404](https://github.com/Amartuvshins0404) | Amartuvshin Surenjav | Ulaanbaatar, Mongolia | 10,252 |
+| 6 | [Amartuvshins0404](https://github.com/Amartuvshins0404) | Amartuvshin Surenjav | Ulaanbaatar, Mongolia | 10,671 |
 | 7 | [heisenberg-kz](https://github.com/heisenberg-kz) | heisenbergjs | Ulan Bator | 9,525 |
 | 8 | [dolgoonnn](https://github.com/dolgoonnn) | Dolgoon | Ulaanbaatar, Mongolia | 9,207 |
 | 9 | [sadespresso](https://github.com/sadespresso) | Батмэнд Ганбаатар | Ulaanbaatar, Mongolia | 7,807 |
 | 10 | [ebattulga](https://github.com/ebattulga) | ebattulga | Mongolia, Ulaanbaatar | 6,570 |
 | 11 | [blgn94](https://github.com/blgn94) | Bilguun | Erdenet, Mongolia | 6,530 |
 | 12 | [turbold24](https://github.com/turbold24) | Turbold | Ulaanbaatar, Mongolia | 6,166 |
-| 13 | [mtergel](https://github.com/mtergel) | Tergel Munkhdelger | Mongolia | 5,624 |
+| 13 | [mtergel](https://github.com/mtergel) | Tergel Munkhdelger | Mongolia | 5,826 |
 | 14 | [ssxenon01](https://github.com/ssxenon01) | Gundsambuu | Mongolia | 5,539 |
-| 15 | [2khan](https://github.com/2khan) | Jargalsaikhan Erdenetsetseg | Ulaanbaatar, Mongolia | 5,255 |
+| 15 | [2khan](https://github.com/2khan) | Jargalsaikhan Erdenetsetseg | Ulaanbaatar, Mongolia | 5,259 |
 | 16 | [kyuna0312](https://github.com/kyuna0312) | kyuna0312 | Mongolia | 4,786 |
 | 17 | [dokind](https://github.com/dokind) | dokind | Mongolia | 4,528 |
 | 18 | [anhbaysgalan1](https://github.com/anhbaysgalan1) | Ankhbayasgalan Davaadorj | Mongolia, Ulaanbaatar | 4,515 |
@@ -83,4 +83,4 @@ Indexed users: 805
 | 19 | [munkhjin0223](https://github.com/munkhjin0223) | Munkhjin | Ulaanbaatar, Mongolia | 64 |
 | 20 | [temuulennibno](https://github.com/temuulennibno) | Temuulen | Ulaanbaatar, Mongolia | 55 |
 
-Generated: 2026-10-15T09:21:13.178Z
+Generated: 2026-10-15T13:10:16.124Z

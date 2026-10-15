@@ -49,14 +49,14 @@ Indexed users: 3,221
 | 10 | [ricardious](https://github.com/ricardious) | Alex Ricardo Castañeda Rodríguez | Guatemala | 1,394 |
 | 11 | [erwindank](https://github.com/erwindank) | Erwin Solorzano | Guatemala | 1,358 |
 | 12 | [MaxMald](https://github.com/MaxMald) | Max Maldonado | Guatemala | 1,180 |
-| 13 | [ElrohirGT](https://github.com/ElrohirGT) |  | Guatemala | 1,151 |
-| 14 | [pablo-mald03](https://github.com/pablo-mald03) | Pablo_Maldonado | Guatemala | 1,112 |
-| 15 | [eylles](https://github.com/eylles) |  | Guatemala | 1,045 |
-| 16 | [AlfredoG87](https://github.com/AlfredoG87) | Alfredo Gutierrez | Guatemala | 1,019 |
-| 17 | [GlendyT](https://github.com/GlendyT) | Glendy Tuyuc | Guatemala | 995 |
-| 18 | [robindanilo2218](https://github.com/robindanilo2218) | Robin Gregorio | Guatemala | 929 |
-| 19 | [anndreloopez012](https://github.com/anndreloopez012) | AndreTV | Guatemala | 917 |
-| 20 | [alemanuel18](https://github.com/alemanuel18) | Alejandro Jerez | Guatemala, Guatemala | 899 |
+| 13 | [pablo-mald03](https://github.com/pablo-mald03) | Pablo_Maldonado | Guatemala | 1,112 |
+| 14 | [eylles](https://github.com/eylles) |  | Guatemala | 1,045 |
+| 15 | [AlfredoG87](https://github.com/AlfredoG87) | Alfredo Gutierrez | Guatemala | 1,019 |
+| 16 | [GlendyT](https://github.com/GlendyT) | Glendy Tuyuc | Guatemala | 995 |
+| 17 | [robindanilo2218](https://github.com/robindanilo2218) | Robin Gregorio | Guatemala | 929 |
+| 18 | [anndreloopez012](https://github.com/anndreloopez012) | AndreTV | Guatemala | 917 |
+| 19 | [alemanuel18](https://github.com/alemanuel18) | Alejandro Jerez | Guatemala, Guatemala | 899 |
+| 20 | [jherreragt](https://github.com/jherreragt) | Julio Herrera | Guatemala | 885 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 3,221
 | 19 | [elmergustavo](https://github.com/elmergustavo) | Gustavo (tavcode)  | Quetzaltenango, Guatemala | 119 |
 | 20 | [cms](https://github.com/cms) | Christian C. Salvadó | Guatemala | 117 |
 
-Generated: 2026-10-15T08:57:12.821Z
+Generated: 2026-10-15T12:51:30.113Z

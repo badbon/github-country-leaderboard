@@ -1,6 +1,6 @@
 # Followers - Paraguay
 
-Generated: 2026-10-15T09:30:46.896Z
+Generated: 2026-10-15T13:18:44.069Z
 
 Users: 2014
 
@@ -19,7 +19,7 @@ Users: 2014
 | 11 | [abdelp](https://github.com/abdelp) | Abdel Pérez Téllez | FullStack Labs | AbdelPerez11 | Asunción, Paraguay | 182 |
 | 12 | [skyvanguard](https://github.com/skyvanguard) |  | Skyvanguard |  | Paraguay | 181 |
 | 13 | [garyservin](https://github.com/garyservin) | Gary Servin | @locusrobotics  | garyservin | Asunción - Paraguay | 154 |
-| 14 | [pablo](https://github.com/pablo) | Pablo Santa Cruz | Roshka | pablojavierpy | Asunción, Paraguay | 148 |
+| 14 | [pablo](https://github.com/pablo) | Pablo Santa Cruz | Roshka | pablojavierpy | Asunción, Paraguay | 151 |
 | 15 | [WilliBobadilla](https://github.com/WilliBobadilla) | Williams Ismael Bobadilla Torres  |  |  | Paraguay | 136 |
 | 16 | [ramirezsebas](https://github.com/ramirezsebas) | Matias Sebastian Ramirez Brizuela | FortyAU | RamirezMatias03 | Fernando de la Mora, Central, Paraguay | 128 |
 | 17 | [cardozoaldama](https://github.com/cardozoaldama) | Fernando Cardozo |  |  | Paraguay | 125 |
