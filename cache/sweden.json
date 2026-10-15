@@ -22688,7 +22688,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 92,
+    "publicContributions": 93,
     "createdAt": "2024-12-08T07:19:57Z"
   },
   {
@@ -22700,7 +22700,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 12,
     "createdAt": "2024-12-17T18:56:05Z"
   },
   {
@@ -22747,8 +22747,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 886,
-    "publicContributions": 349,
+    "privateContributions": 872,
+    "publicContributions": 428,
     "createdAt": "2024-09-10T11:14:02Z"
   },
   {
@@ -22760,7 +22760,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 7,
     "createdAt": "2024-11-04T19:01:55Z"
   },
   {
@@ -22770,8 +22770,8 @@
     "location": "Stockholm",
     "company": "Oldways Studios AB",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
+    "followers": 2,
+    "privateContributions": 535,
     "publicContributions": 0,
     "createdAt": "2024-05-08T04:40:07Z"
   },
@@ -22832,7 +22832,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 176,
+    "publicContributions": 459,
     "createdAt": "2024-05-09T20:53:32Z"
   },
   {
@@ -22844,20 +22844,8 @@
     "twitterUsername": "",
     "followers": 151,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 11,
     "createdAt": "2023-06-20T06:45:14Z"
-  },
-  {
-    "login": "MartinEBravo",
-    "name": "Martín Bravo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/123977407?s=72&u=76ea488f1a16956cdeae86d8a14a49acfe20f4ea&v=4",
-    "location": "Stockholm, Sweden",
-    "company": "Universidad de Chile",
-    "twitterUsername": "martinbravod",
-    "followers": 98,
-    "privateContributions": 795,
-    "publicContributions": 269,
-    "createdAt": "2023-01-30T16:39:20Z"
   },
   {
     "login": "osukhorukova",
@@ -22866,9 +22854,9 @@
     "location": "Sweden",
     "company": "Strawberry",
     "twitterUsername": "",
-    "followers": 76,
+    "followers": 78,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2023-02-28T08:55:16Z"
   },
   {
@@ -22878,7 +22866,7 @@
     "location": "Sweden",
     "company": "Utveckla Strategi",
     "twitterUsername": "",
-    "followers": 76,
+    "followers": 1,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2023-04-17T21:44:39Z"

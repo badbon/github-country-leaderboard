@@ -23574,7 +23574,7 @@
     "location": "Azerbaijan",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-07-26T05:47:24Z"
@@ -23610,9 +23610,9 @@
     "location": "Baku, Azerbaijan",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 95,
+    "publicContributions": 119,
     "createdAt": "2022-10-12T16:20:38Z"
   },
   {
@@ -23708,7 +23708,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 2,
     "createdAt": "2022-05-10T09:38:24Z"
   },
   {
@@ -23743,7 +23743,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 65,
+    "privateContributions": 39,
     "publicContributions": 0,
     "createdAt": "2022-11-14T23:32:56Z"
   },
@@ -23760,18 +23760,6 @@
     "createdAt": "2022-12-24T09:19:09Z"
   },
   {
-    "login": "blackhats-games",
-    "name": "Daniel Bulgakov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/99614851?s=72&v=4",
-    "location": "Azerbaijan",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 111,
-    "createdAt": "2022-02-13T19:23:46Z"
-  },
-  {
     "login": "KhalidKhalil1",
     "name": "Khalid Khalil",
     "avatarUrl": "https://avatars.githubusercontent.com/u/100152726?s=72&v=4",
@@ -23780,7 +23768,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2022-02-21T16:41:40Z"
   },
   {

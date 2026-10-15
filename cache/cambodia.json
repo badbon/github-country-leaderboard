@@ -23612,7 +23612,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 8,
     "createdAt": "2018-09-30T03:08:49Z"
   },
   {
@@ -23623,8 +23623,8 @@
     "company": "Luther Inc.",
     "twitterUsername": "LutherVuthy",
     "followers": 9,
-    "privateContributions": 420,
-    "publicContributions": 0,
+    "privateContributions": 399,
+    "publicContributions": 50,
     "createdAt": "2018-01-12T15:16:51Z"
   },
   {
@@ -23658,9 +23658,9 @@
     "location": "Phnom Penh",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 131,
+    "publicContributions": 128,
     "createdAt": "2018-07-05T11:43:52Z"
   },
   {
@@ -23683,7 +23683,7 @@
     "company": "Soramitsu Khmer Co., Ltd",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 2144,
+    "privateContributions": 2135,
     "publicContributions": 0,
     "createdAt": "2018-11-03T02:22:24Z"
   },
@@ -23694,7 +23694,7 @@
     "location": "Phnom Penh",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-05-31T08:09:55Z"
@@ -23706,9 +23706,9 @@
     "location": "Phnom Penh",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 64,
-    "publicContributions": 35,
+    "followers": 5,
+    "privateContributions": 87,
+    "publicContributions": 44,
     "createdAt": "2018-02-19T13:29:24Z"
   },
   {
@@ -23720,7 +23720,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 24,
     "createdAt": "2018-03-13T14:51:45Z"
   },
   {
@@ -23758,18 +23758,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-08-14T06:23:15Z"
-  },
-  {
-    "login": "kakrona-yan",
-    "name": "kakrona",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/39107948?s=72&u=9de13f9e4950a94f683f0c8a3d8c0e491dec65d4&v=4",
-    "location": "Phnom penh",
-    "company": "hattha bank Plc.",
-    "twitterUsername": "YanKakrona",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 6,
-    "createdAt": "2018-05-09T01:32:35Z"
   },
   {
     "login": "SeaJobs",
@@ -23828,7 +23816,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2018-03-20T08:21:36Z"
   },
   {

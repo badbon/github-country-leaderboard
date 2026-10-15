@@ -23611,20 +23611,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 3,
-    "publicContributions": 110,
+    "privateContributions": 0,
+    "publicContributions": 109,
     "createdAt": "2022-11-29T19:27:15Z"
   },
   {
     "login": "eyadhammouda",
     "name": "Eyad Hammouda",
     "avatarUrl": "https://avatars.githubusercontent.com/u/116634909?s=72&u=6712a634c9a2d4465998998fef992ca28be8b305&v=4",
-    "location": "Austria",
+    "location": "Austria 🇦🇹",
     "company": "@teamviewer",
     "twitterUsername": "eyad_saher",
-    "followers": 5,
-    "privateContributions": 3169,
-    "publicContributions": 93,
+    "followers": 3,
+    "privateContributions": 2963,
+    "publicContributions": 118,
     "createdAt": "2022-10-25T09:09:40Z"
   },
   {
@@ -23646,7 +23646,7 @@
     "location": "Austria",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-09-18T00:12:43Z"
@@ -23659,8 +23659,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 50,
-    "publicContributions": 45,
+    "privateContributions": 51,
+    "publicContributions": 35,
     "createdAt": "2022-03-06T13:04:46Z"
   },
   {
@@ -23670,9 +23670,9 @@
     "location": "Vienna, Austria",
     "company": "Research Institute of Molecular Pathology (IMP)",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 563,
+    "publicContributions": 598,
     "createdAt": "2022-11-01T10:10:01Z"
   },
   {
@@ -23680,23 +23680,23 @@
     "name": "Paul Praschl",
     "avatarUrl": "https://avatars.githubusercontent.com/u/101004482?s=72&u=ea66dfa9e5ccfe4fb122d22078171442a1549ac2&v=4",
     "location": "Austria",
-    "company": "HTBLuVA St. Pölten",
+    "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 1121,
-    "publicContributions": 159,
+    "privateContributions": 1110,
+    "publicContributions": 214,
     "createdAt": "2022-03-05T13:34:06Z"
   },
   {
     "login": "Artaeon",
     "name": "Raphael René Lugmayr",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/111130431?s=72&u=05d8a21117a2bd902da0b07b5ae18b466a171ff4&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/111130431?s=72&u=b000d071d9e2ed02ceceadf29c31ef82319ecae0&v=4",
     "location": "Austria",
     "company": "@Stoicera ",
     "twitterUsername": "raphaellugmayr",
     "followers": 4,
-    "privateContributions": 10061,
-    "publicContributions": 6048,
+    "privateContributions": 13150,
+    "publicContributions": 5835,
     "createdAt": "2022-08-12T12:59:01Z"
   },
   {
@@ -23708,7 +23708,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 134,
+    "publicContributions": 139,
     "createdAt": "2022-06-28T17:13:05Z"
   },
   {
@@ -23756,7 +23756,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2022-02-09T11:06:18Z"
   },
   {
@@ -23772,25 +23772,13 @@
     "createdAt": "2022-03-20T13:03:01Z"
   },
   {
-    "login": "umarFarooq-emb",
-    "name": "Umer Farooq",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/110158665?s=72&u=08a9bf98e74e54a34515de030c6778721334a2fa&v=4",
-    "location": "Graz, Austria",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 12,
-    "publicContributions": 16,
-    "createdAt": "2022-07-28T07:40:08Z"
-  },
-  {
     "login": "Marydina",
     "name": "Mayydina",
     "avatarUrl": "https://avatars.githubusercontent.com/u/121077466?s=72&v=4",
     "location": "Austria ",
     "company": "Employee ",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-12-20T04:30:55Z"
@@ -23802,9 +23790,9 @@
     "location": "Austria",
     "company": "HTL Hollabrunn",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 155,
-    "publicContributions": 247,
+    "followers": 6,
+    "privateContributions": 159,
+    "publicContributions": 237,
     "createdAt": "2022-04-01T14:55:47Z"
   },
   {
@@ -23816,7 +23804,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 39,
+    "publicContributions": 35,
     "createdAt": "2022-10-04T08:17:17Z"
   },
   {
@@ -23828,7 +23816,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 142,
-    "publicContributions": 78,
+    "publicContributions": 74,
     "createdAt": "2022-08-30T20:11:20Z"
   },
   {
