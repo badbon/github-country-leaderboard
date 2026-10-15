@@ -21536,7 +21536,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 96,
+    "publicContributions": 18,
     "createdAt": "2022-06-06T11:44:38Z"
   },
   {
@@ -21559,7 +21559,7 @@
     "company": "for myself",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 43,
+    "privateContributions": 37,
     "publicContributions": 188,
     "createdAt": "2022-12-15T16:11:46Z"
   },
@@ -21571,8 +21571,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 128,
-    "publicContributions": 33,
+    "privateContributions": 233,
+    "publicContributions": 164,
     "createdAt": "2022-11-13T08:45:01Z"
   },
   {
@@ -21582,9 +21582,9 @@
     "location": "Kazakhstan",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 79,
-    "publicContributions": 219,
+    "publicContributions": 251,
     "createdAt": "2022-04-09T11:49:15Z"
   },
   {
@@ -21679,21 +21679,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 3,
+    "privateContributions": 16,
+    "publicContributions": 34,
     "createdAt": "2022-05-05T08:36:31Z"
-  },
-  {
-    "login": "artchsh",
-    "name": "Skyler",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/103406690?s=72&u=1bb86d7dc9288b7d46f935d17abb66d22f937ac5&v=4",
-    "location": "Kazakhstan, Almaty",
-    "company": "MediaBoost",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 259,
-    "createdAt": "2022-04-11T06:01:32Z"
   },
   {
     "login": "kambekson",
@@ -21715,7 +21703,7 @@
     "company": "Core Team LLP",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 145,
+    "privateContributions": 152,
     "publicContributions": 0,
     "createdAt": "2022-05-30T20:22:39Z"
   },

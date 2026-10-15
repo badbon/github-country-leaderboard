@@ -21500,7 +21500,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 5,
     "createdAt": "2023-11-04T08:20:40Z"
   },
   {
@@ -21512,7 +21512,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 3,
     "createdAt": "2023-01-05T01:18:37Z"
   },
   {
@@ -21524,7 +21524,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 13,
     "createdAt": "2023-11-28T11:22:38Z"
   },
   {
@@ -21584,7 +21584,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 38,
+    "publicContributions": 37,
     "createdAt": "2023-03-17T06:46:58Z"
   },
   {
@@ -21596,7 +21596,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 73,
+    "publicContributions": 54,
     "createdAt": "2023-02-01T09:21:11Z"
   },
   {
@@ -21607,7 +21607,7 @@
     "company": "Snowflake Computing Ireland @snowflakedb ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1673,
+    "privateContributions": 1427,
     "publicContributions": 1,
     "createdAt": "2023-02-22T10:43:33Z"
   },
@@ -21618,9 +21618,9 @@
     "location": "Dublin",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 47,
+    "publicContributions": 56,
     "createdAt": "2023-03-02T16:08:22Z"
   },
   {
@@ -21631,7 +21631,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 428,
+    "privateContributions": 563,
     "publicContributions": 0,
     "createdAt": "2023-03-28T13:39:16Z"
   },
@@ -21643,8 +21643,8 @@
     "company": "IBM",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 687,
-    "publicContributions": 72,
+    "privateContributions": 953,
+    "publicContributions": 71,
     "createdAt": "2023-06-16T08:38:40Z"
   },
   {
@@ -21679,21 +21679,9 @@
     "company": "Intercom",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 4,
+    "privateContributions": 3,
     "publicContributions": 25,
     "createdAt": "2023-10-18T10:32:22Z"
-  },
-  {
-    "login": "dom-raven",
-    "name": "Dom Raven",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/127363709?s=72&u=e682e7014ef7ba23ccb760ac51ad32a677a0ba95&v=4",
-    "location": "Dublin",
-    "company": "Riot Games",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 19,
-    "createdAt": "2023-03-09T01:25:28Z"
   },
   {
     "login": "Herisugianto10",
@@ -21715,8 +21703,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 39,
-    "publicContributions": 43,
+    "privateContributions": 21,
+    "publicContributions": 42,
     "createdAt": "2023-02-10T13:06:28Z"
   },
   {

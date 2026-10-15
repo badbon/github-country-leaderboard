@@ -21932,7 +21932,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 89,
+    "publicContributions": 125,
     "createdAt": "2021-03-31T17:46:32Z"
   },
   {
@@ -21956,7 +21956,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 2,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2021-02-12T02:55:43Z"
   },
   {
@@ -21967,7 +21967,7 @@
     "company": "GBS",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 64,
+    "privateContributions": 90,
     "publicContributions": 66,
     "createdAt": "2021-04-12T17:24:40Z"
   },
@@ -21986,12 +21986,12 @@
   {
     "login": "Jodasami",
     "name": "Josué Sánchez Miranda",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/82111265?s=72&u=46fbacd7a5f00cfc15d0dce4affe5d58f7a1fca1&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/82111265?s=72&u=9341575811274a8d7977bb8acdf83be649e24825&v=4",
     "location": "Costa Rica",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
+    "privateContributions": 42,
     "publicContributions": 25,
     "createdAt": "2021-04-07T16:36:38Z"
   },
@@ -22003,8 +22003,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1,
-    "publicContributions": 17,
+    "privateContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2021-05-06T02:28:29Z"
   },
   {
@@ -22038,9 +22038,9 @@
     "location": "Costa Rica",
     "company": "Globant",
     "twitterUsername": "Joshymar",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 6,
     "createdAt": "2021-06-10T15:39:01Z"
   },
   {
@@ -22068,18 +22068,6 @@
     "createdAt": "2021-05-03T05:19:43Z"
   },
   {
-    "login": "nvbale",
-    "name": "Alejandro Navarro",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/89169925?s=72&u=d81c87c30a08b85cab59b47e73712a29e95e8cc6&v=4",
-    "location": "Costa Rica",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 235,
-    "publicContributions": 42,
-    "createdAt": "2021-08-19T00:13:54Z"
-  },
-  {
     "login": "TheGamer406",
     "name": "Jose Murillo",
     "avatarUrl": "https://avatars.githubusercontent.com/u/92504680?s=72&u=6f7ef5e5427b2ab70d793fc44c636fb0242a03e5&v=4",
@@ -22088,13 +22076,13 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 142,
+    "publicContributions": 247,
     "createdAt": "2021-10-14T06:09:13Z"
   },
   {
     "login": "David-Raabe",
     "name": "David Raabe",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/80436247?s=72&u=ec605a100a7b2243e3edbd0ab679cd9f12e09e9e&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/80436247?s=72&u=a302c8de6067167abe380becd2a3aa169749baf7&v=4",
     "location": "Costa Rica",
     "company": "",
     "twitterUsername": "",
@@ -22111,8 +22099,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 130,
-    "publicContributions": 75,
+    "privateContributions": 160,
+    "publicContributions": 95,
     "createdAt": "2021-07-02T19:36:45Z"
   },
   {

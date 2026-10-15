@@ -341362,5 +341362,41 @@
     "privateContributions": 0,
     "publicContributions": 21,
     "createdAt": "2022-03-23T06:28:45Z"
+  },
+  {
+    "login": "migueltchiyovosapalalo827",
+    "name": "Miguel tchiyovo sapalalo ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/69122010?s=72&u=1a88d978098569f6578b1807302877e0b3e0eed0&v=4",
+    "location": "Portugal",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 111,
+    "publicContributions": 22,
+    "createdAt": "2020-08-02T19:26:41Z"
+  },
+  {
+    "login": "fivesync",
+    "name": "FiveSync",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298058353?s=72&u=ea7c68f4dcddbf8685e7d50686897dafd6dfb176&v=4",
+    "location": "Portugal",
+    "company": "FiveSync",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-29T22:12:50Z"
+  },
+  {
+    "login": "rayanbraccio",
+    "name": "Rayan Braccio",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/297938585?s=72&u=fea87007f258a049e313b8a46ed92d7fb80f56f5&v=4",
+    "location": "Lisbon, Portugal",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 30,
+    "createdAt": "2026-06-29T14:15:33Z"
   }
 ]

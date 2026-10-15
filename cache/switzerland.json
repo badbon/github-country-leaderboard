@@ -21331,7 +21331,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 27,
+    "privateContributions": 29,
     "publicContributions": 6,
     "createdAt": "2023-04-12T21:27:30Z"
   },
@@ -21342,9 +21342,9 @@
     "location": "Zurich, Switzerland",
     "company": "PostFinance",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 190,
-    "publicContributions": 167,
+    "followers": 3,
+    "privateContributions": 176,
+    "publicContributions": 155,
     "createdAt": "2023-08-26T13:04:12Z"
   },
   {
@@ -21356,19 +21356,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 524,
+    "publicContributions": 289,
     "createdAt": "2023-12-19T11:39:58Z"
   },
   {
     "login": "psoravia",
     "name": "Paolo Soravia",
     "avatarUrl": "https://avatars.githubusercontent.com/u/149009448?s=72&v=4",
-    "location": "Lausanne, Switzerland",
-    "company": "EPFL",
+    "location": "Zurich, Switzerland",
+    "company": "ETH Zurich",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 82,
-    "publicContributions": 411,
+    "privateContributions": 23,
+    "publicContributions": 316,
     "createdAt": "2023-10-25T18:46:36Z"
   },
   {
@@ -21379,8 +21379,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 63,
-    "publicContributions": 199,
+    "privateContributions": 149,
+    "publicContributions": 207,
     "createdAt": "2023-08-12T14:20:37Z"
   },
   {

@@ -487,7 +487,7 @@
     "company": "natimai.solutions",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 2838,
+    "privateContributions": 2826,
     "publicContributions": 246,
     "createdAt": "2015-04-02T09:05:01Z"
   },
@@ -595,8 +595,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 3169,
-    "publicContributions": 335,
+    "privateContributions": 3182,
+    "publicContributions": 325,
     "createdAt": "2013-09-22T20:06:51Z"
   },
   {
@@ -606,7 +606,7 @@
     "location": "Polynésie, Française",
     "company": "Gaati, UPF",
     "twitterUsername": "",
-    "followers": 24,
+    "followers": 25,
     "privateContributions": 0,
     "publicContributions": 427,
     "createdAt": "2013-05-31T16:33:23Z"
@@ -631,7 +631,7 @@
     "company": "@e-reo",
     "twitterUsername": "paraita",
     "followers": 23,
-    "privateContributions": 228,
+    "privateContributions": 226,
     "publicContributions": 40,
     "createdAt": "2012-02-06T20:01:29Z"
   },
@@ -679,8 +679,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 15,
-    "privateContributions": 2425,
-    "publicContributions": 400,
+    "privateContributions": 2429,
+    "publicContributions": 393,
     "createdAt": "2010-05-18T05:45:54Z"
   },
   {
@@ -714,9 +714,9 @@
     "location": "Faa'a, Tahiti, French Polynesia",
     "company": "@FreeBSD @opus-codium @voxpupuli",
     "twitterUsername": "",
-    "followers": 166,
+    "followers": 167,
     "privateContributions": 0,
-    "publicContributions": 1060,
+    "publicContributions": 1056,
     "createdAt": "2009-11-04T10:49:06Z"
   }
 ]
