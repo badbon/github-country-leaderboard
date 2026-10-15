@@ -2671,7 +2671,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 431,
+    "privateContributions": 425,
     "publicContributions": 6,
     "createdAt": "2021-04-03T12:48:46Z"
   },
@@ -2684,20 +2684,8 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 64,
+    "publicContributions": 70,
     "createdAt": "2021-03-20T19:38:01Z"
-  },
-  {
-    "login": "3D8K",
-    "name": "Stepan O",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/82461939?s=72&u=e71e9bd9bcf333866b2148a7952cf20d17e13b3e&v=4",
-    "location": "Podgorica, Montenegro",
-    "company": "semRUSH",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2021-04-13T15:25:22Z"
   },
   {
     "login": "releska",
@@ -2706,7 +2694,7 @@
     "location": "Cetinje, Montenegro",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-08-09T16:55:35Z"
@@ -2719,7 +2707,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 14626,
+    "privateContributions": 15386,
     "publicContributions": 159,
     "createdAt": "2021-01-09T17:51:23Z"
   },
@@ -2743,7 +2731,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 859,
+    "privateContributions": 865,
     "publicContributions": 78,
     "createdAt": "2021-10-15T12:35:52Z"
   },
@@ -2839,7 +2827,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 469,
+    "privateContributions": 471,
     "publicContributions": 0,
     "createdAt": "2021-03-15T18:03:19Z"
   },

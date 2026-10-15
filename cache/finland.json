@@ -23802,9 +23802,9 @@
     "location": "Turku, Finland",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 93,
+    "publicContributions": 100,
     "createdAt": "2022-09-22T11:37:00Z"
   },
   {
@@ -23827,7 +23827,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 7,
+    "privateContributions": 18,
     "publicContributions": 13,
     "createdAt": "2022-06-07T09:13:50Z"
   },
@@ -23839,21 +23839,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 1310,
-    "publicContributions": 9,
+    "privateContributions": 1787,
+    "publicContributions": 3,
     "createdAt": "2022-07-23T13:12:01Z"
-  },
-  {
-    "login": "Ristler",
-    "name": "Daniel Juntunen",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/100704382?s=72&u=50862e2d2f81682a10350c84104eb5d25099ad7f&v=4",
-    "location": "Finland",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 165,
-    "publicContributions": 365,
-    "createdAt": "2022-03-01T14:59:44Z"
   },
   {
     "login": "majnikool",
@@ -23864,7 +23852,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 4,
     "createdAt": "2022-09-03T11:42:33Z"
   },
   {
@@ -23886,7 +23874,7 @@
     "location": "Finland",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 1,
     "privateContributions": 0,
     "publicContributions": 43,
     "createdAt": "2022-05-03T09:10:42Z"
@@ -23924,7 +23912,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 4,
     "createdAt": "2022-10-19T09:57:01Z"
   },
   {
@@ -23935,7 +23923,7 @@
     "company": "",
     "twitterUsername": "nevaluoto",
     "followers": 3,
-    "privateContributions": 24,
+    "privateContributions": 22,
     "publicContributions": 13,
     "createdAt": "2022-05-13T08:25:09Z"
   },
@@ -23948,7 +23936,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 1,
     "createdAt": "2022-02-28T16:04:46Z"
   },
   {
@@ -23959,7 +23947,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 101,
+    "privateContributions": 130,
     "publicContributions": 16,
     "createdAt": "2022-04-15T15:12:42Z"
   },
@@ -23993,21 +23981,21 @@
     "avatarUrl": "https://avatars.githubusercontent.com/u/98368986?s=72&u=1a5147a69153a1ce5912b759afd660239b1ad583&v=4",
     "location": "Finland",
     "company": "University of Oulu",
-    "twitterUsername": "JuhoKontio",
+    "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 164,
-    "publicContributions": 4,
+    "privateContributions": 2151,
+    "publicContributions": 7,
     "createdAt": "2022-01-25T02:11:47Z"
   },
   {
     "login": "ravm",
     "name": "Miika Ravi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/98459176?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/98459176?s=72&u=4c040bfc486c1fc5008d4124571194a56f76d6ec&v=4",
     "location": "Finland",
     "company": "@SADEInnovations",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 535,
+    "privateContributions": 623,
     "publicContributions": 0,
     "createdAt": "2022-01-26T10:39:46Z"
   },

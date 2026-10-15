@@ -24176,7 +24176,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 14,
     "createdAt": "2023-05-07T00:35:50Z"
   },
   {
@@ -24210,9 +24210,9 @@
     "location": "Haatso, Accra",
     "company": "Vacancies in Ghana, Shaq Express, Shaq Technologies",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 121,
+    "publicContributions": 103,
     "createdAt": "2023-02-10T19:26:35Z"
   },
   {
@@ -24248,7 +24248,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 103,
+    "publicContributions": 115,
     "createdAt": "2023-05-24T10:32:15Z"
   },
   {
@@ -24260,20 +24260,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 52,
     "createdAt": "2023-11-17T13:13:02Z"
-  },
-  {
-    "login": "Nabil-dev122",
-    "name": "Nabil",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/139251720?s=72&u=6be1a82b427151128ec9e2be6689e9273aee4215&v=4",
-    "location": "Accra",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2023-07-11T15:24:07Z"
   },
   {
     "login": "Daten7",
@@ -24282,22 +24270,10 @@
     "location": "Accra",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 5,
     "createdAt": "2023-09-12T11:52:10Z"
-  },
-  {
-    "login": "Aequiyah",
-    "name": "Aequiyah",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/122805874?s=72&v=4",
-    "location": "Accra",
-    "company": "",
-    "twitterUsername": "akuakwarteng",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2023-01-16T14:49:14Z"
   },
   {
     "login": "ernestquest",
@@ -24306,7 +24282,7 @@
     "location": "Accra",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-03-15T14:26:27Z"
@@ -24318,9 +24294,9 @@
     "location": "Accra",
     "company": "M-Kopa Ghana Limited",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 634,
-    "publicContributions": 13,
+    "followers": 2,
+    "privateContributions": 726,
+    "publicContributions": 4,
     "createdAt": "2023-10-21T14:19:17Z"
   },
   {

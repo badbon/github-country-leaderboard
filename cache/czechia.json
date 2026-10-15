@@ -23936,7 +23936,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2022-02-16T06:30:38Z"
   },
   {
@@ -23960,7 +23960,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 10,
     "createdAt": "2022-12-16T07:11:05Z"
   },
   {
@@ -23970,9 +23970,9 @@
     "location": "Brno, Czech republic",
     "company": "@microsoft ",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 55,
-    "publicContributions": 10,
+    "followers": 3,
+    "privateContributions": 76,
+    "publicContributions": 26,
     "createdAt": "2022-07-21T06:17:31Z"
   },
   {
@@ -23981,9 +23981,9 @@
     "avatarUrl": "https://avatars.githubusercontent.com/u/116572731?s=72&u=b17ba7b6ce76ff5d872a1d51721b4fd300a7822e&v=4",
     "location": "Prague, Czech Republic",
     "company": "",
-    "twitterUsername": "tuvumba",
+    "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 8,
+    "privateContributions": 18,
     "publicContributions": 0,
     "createdAt": "2022-10-24T13:54:43Z"
   },
@@ -24008,7 +24008,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 43,
     "createdAt": "2022-10-10T09:43:14Z"
   },
   {
@@ -24019,7 +24019,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 5,
+    "privateContributions": 3,
     "publicContributions": 0,
     "createdAt": "2022-12-07T16:39:32Z"
   },
@@ -24056,7 +24056,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 6,
     "createdAt": "2022-08-21T22:38:41Z"
   },
   {
@@ -24092,20 +24092,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 8,
-    "publicContributions": 25,
+    "publicContributions": 71,
     "createdAt": "2022-05-11T06:12:05Z"
-  },
-  {
-    "login": "tdramashko",
-    "name": "Tetiana Dramashko",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/117660027?s=72&u=81a6197ea6307ef121311fb03ca9a6fb551d39cc&v=4",
-    "location": "Brno, Czech Republic",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 103,
-    "createdAt": "2022-11-07T14:31:05Z"
   },
   {
     "login": "sabnocke",
@@ -24116,7 +24104,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 114,
+    "publicContributions": 104,
     "createdAt": "2022-11-09T18:58:17Z"
   },
   {
@@ -24128,7 +24116,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 272,
-    "publicContributions": 196,
+    "publicContributions": 192,
     "createdAt": "2022-04-27T08:14:20Z"
   },
   {
@@ -24163,7 +24151,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1294,
+    "privateContributions": 1370,
     "publicContributions": 2,
     "createdAt": "2022-03-20T12:25:08Z"
   },
