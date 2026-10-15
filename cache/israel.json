@@ -23922,9 +23922,9 @@
     "location": "Israel",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 2894,
+    "publicContributions": 7206,
     "createdAt": "2021-06-02T16:56:28Z"
   },
   {
@@ -23936,7 +23936,7 @@
     "twitterUsername": "",
     "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 39,
+    "publicContributions": 49,
     "createdAt": "2021-05-03T13:10:06Z"
   },
   {
@@ -23946,9 +23946,9 @@
     "location": "Israel",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 480,
-    "publicContributions": 282,
+    "followers": 11,
+    "privateContributions": 565,
+    "publicContributions": 615,
     "createdAt": "2021-05-28T12:41:59Z"
   },
   {
@@ -23960,7 +23960,7 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 113,
     "createdAt": "2021-01-16T13:59:27Z"
   },
   {
@@ -23982,9 +23982,9 @@
     "location": "Israel, Tel Aviv",
     "company": "",
     "twitterUsername": "spivak_ruslan",
-    "followers": 10,
-    "privateContributions": 1103,
-    "publicContributions": 21,
+    "followers": 12,
+    "privateContributions": 1143,
+    "publicContributions": 23,
     "createdAt": "2021-01-11T19:15:37Z"
   },
   {
@@ -23995,8 +23995,8 @@
     "company": "Red Hat",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 308,
-    "publicContributions": 546,
+    "privateContributions": 416,
+    "publicContributions": 555,
     "createdAt": "2021-01-05T13:44:03Z"
   },
   {
@@ -24013,14 +24013,14 @@
   },
   {
     "login": "urlsab",
-    "name": "🟠Uriel Yair Sabag🟠",
+    "name": "Uriel Yair Sabag",
     "avatarUrl": "https://avatars.githubusercontent.com/u/77020927?s=72&u=2deff7df142a0d449df10d7e551017a8b855576f&v=4",
     "location": "Israel",
     "company": "Catapp",
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 197,
     "createdAt": "2021-01-05T18:29:04Z"
   },
   {
@@ -24043,8 +24043,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 171,
-    "publicContributions": 48,
+    "privateContributions": 250,
+    "publicContributions": 28,
     "createdAt": "2021-01-24T12:05:43Z"
   },
   {
@@ -24056,7 +24056,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 844,
+    "publicContributions": 2,
     "createdAt": "2021-04-13T10:51:04Z"
   },
   {
@@ -24066,7 +24066,7 @@
     "location": "Israel",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 10,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-03-07T15:57:34Z"
@@ -24078,7 +24078,7 @@
     "location": "Israel",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 10,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-02-10T16:29:45Z"
@@ -24120,18 +24120,6 @@
     "createdAt": "2021-03-01T17:18:49Z"
   },
   {
-    "login": "liorshap1",
-    "name": "Lior S.",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/79309515?s=72&u=1280f24fa319065ee122f61dd928e1e0739549cc&v=4",
-    "location": "Israel",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 30,
-    "publicContributions": 72,
-    "createdAt": "2021-02-19T09:56:44Z"
-  },
-  {
     "login": "solomonbarayev",
     "name": "Solomon Barayev",
     "avatarUrl": "https://avatars.githubusercontent.com/u/85166713?s=72&u=d440fa43ee87b2aa7daca30c57426b568a52b21a&v=4",
@@ -24139,7 +24127,7 @@
     "company": "1Bar Design",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 574,
+    "privateContributions": 605,
     "publicContributions": 0,
     "createdAt": "2021-06-01T10:50:11Z"
   },

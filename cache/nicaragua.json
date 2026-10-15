@@ -7196,7 +7196,7 @@
     "twitterUsername": "",
     "followers": 15,
     "privateContributions": 10,
-    "publicContributions": 35,
+    "publicContributions": 30,
     "createdAt": "2020-09-07T18:11:21Z"
   },
   {
@@ -7232,7 +7232,7 @@
     "twitterUsername": "",
     "followers": 16,
     "privateContributions": 297,
-    "publicContributions": 227,
+    "publicContributions": 218,
     "createdAt": "2020-08-19T17:37:52Z"
   },
   {
@@ -7291,7 +7291,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 3324,
+    "privateContributions": 3345,
     "publicContributions": 1,
     "createdAt": "2020-11-27T06:58:06Z"
   },
@@ -7339,7 +7339,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 482,
+    "privateContributions": 486,
     "publicContributions": 0,
     "createdAt": "2020-05-18T05:56:15Z"
   },
@@ -7351,7 +7351,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 1089,
+    "privateContributions": 1106,
     "publicContributions": 1,
     "createdAt": "2020-06-16T05:22:01Z"
   },
@@ -7363,7 +7363,7 @@
     "company": "",
     "twitterUsername": "dylangrijalva",
     "followers": 10,
-    "privateContributions": 567,
+    "privateContributions": 610,
     "publicContributions": 35,
     "createdAt": "2020-10-08T20:24:36Z"
   },
@@ -7375,7 +7375,7 @@
     "company": "Crafted Code Hub",
     "twitterUsername": "aynatcm",
     "followers": 7,
-    "privateContributions": 229,
+    "privateContributions": 227,
     "publicContributions": 36,
     "createdAt": "2020-06-05T03:28:01Z"
   },
@@ -16726,5 +16726,17 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-06-24T22:05:27Z"
+  },
+  {
+    "login": "Elmnik",
+    "name": "Elmer Aguilar",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/33378750?s=72&u=27a13b4d9439c04a839cb39b764f70d43253c022&v=4",
+    "location": "Nicaragua",
+    "company": "BDG S.A",
+    "twitterUsername": "",
+    "followers": 135,
+    "privateContributions": 0,
+    "publicContributions": 35,
+    "createdAt": "2017-11-04T18:14:33Z"
   }
 ]

@@ -23887,8 +23887,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 265,
-    "publicContributions": 128,
+    "privateContributions": 411,
+    "publicContributions": 235,
     "createdAt": "2021-06-19T09:06:55Z"
   },
   {
@@ -23996,7 +23996,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2021-03-02T05:38:31Z"
   },
   {
@@ -24068,20 +24068,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 353,
+    "publicContributions": 364,
     "createdAt": "2021-07-19T13:05:31Z"
-  },
-  {
-    "login": "dkoenawan",
-    "name": "Daniel Koenawan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/90543613?s=72&u=6062660e1fb6a0a1cbe741cf412e2694c6575d63&v=4",
-    "location": "Auckland, New Zealand",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 171,
-    "publicContributions": 170,
-    "createdAt": "2021-09-12T05:29:00Z"
   },
   {
     "login": "TD-Syndicure",
@@ -24091,7 +24079,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 2210,
+    "privateContributions": 2695,
     "publicContributions": 0,
     "createdAt": "2021-09-01T03:11:45Z"
   },

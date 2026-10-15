@@ -24032,7 +24032,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2009-06-21T13:40:27Z"
   },
   {
@@ -24042,22 +24042,10 @@
     "location": "Paraguay",
     "company": "Chainloop, Inc.",
     "twitterUsername": "",
-    "followers": 2012,
-    "privateContributions": 1620,
-    "publicContributions": 824,
+    "followers": 2054,
+    "privateContributions": 2038,
+    "publicContributions": 931,
     "createdAt": "2008-08-09T06:38:39Z"
-  },
-  {
-    "login": "crodas",
-    "name": "C",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/36463?s=72&u=f4228f0b23b7302d1bb60c78045093a2cc123679&v=4",
-    "location": "Asunción, Paraguay",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 424,
-    "privateContributions": 0,
-    "publicContributions": 510,
-    "createdAt": "2008-11-24T23:48:18Z"
   },
   {
     "login": "dschulz",
@@ -24066,7 +24054,7 @@
     "location": "Hohenau, Paraguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 79,
+    "followers": 83,
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2008-11-27T13:40:18Z"
@@ -24078,21 +24066,21 @@
     "location": "Paraguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 55,
-    "privateContributions": 2790,
-    "publicContributions": 90,
+    "followers": 53,
+    "privateContributions": 3509,
+    "publicContributions": 97,
     "createdAt": "2008-07-27T01:57:42Z"
   },
   {
     "login": "jcroot",
     "name": "Jean Claude Adams",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/27480?s=72&u=5519205bccdad4e55fd8de4e43e35a0d8a7ce71e&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/27480?s=72&u=354331479e58fe5064177c918e326bb6a680bb86&v=4",
     "location": "Asuncion, Paraguay",
     "company": "arrobasoft",
     "twitterUsername": "jcroot",
     "followers": 44,
-    "privateContributions": 3486,
-    "publicContributions": 3,
+    "privateContributions": 4556,
+    "publicContributions": 2,
     "createdAt": "2008-10-03T20:50:41Z"
   },
   {
@@ -24102,7 +24090,7 @@
     "location": "Asunción, Paraguay.",
     "company": "10grounds.com",
     "twitterUsername": "ronpy",
-    "followers": 16,
+    "followers": 17,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2008-09-30T14:05:24Z"
@@ -24150,7 +24138,7 @@
     "location": "Paraguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 10,
     "createdAt": "2026-05-14T15:08:37Z"

@@ -608818,5 +608818,29 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2022-03-24T17:43:04Z"
+  },
+  {
+    "login": "MeziluDe56",
+    "name": "Laurence Romo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298471190?s=72&v=4",
+    "location": "敏市, Argentina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 10,
+    "createdAt": "2026-06-30T22:53:35Z"
+  },
+  {
+    "login": "idei-dev",
+    "name": "Instituto de Informática Exactas - UNSJ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298464270?s=72&u=816738f120bb7cf25428ef7411f50ef4a4eb57c6&v=4",
+    "location": "San Juan, Argentina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 26,
+    "createdAt": "2026-06-30T22:26:30Z"
   }
 ]

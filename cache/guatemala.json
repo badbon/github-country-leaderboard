@@ -24044,7 +24044,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 357,
-    "publicContributions": 656,
+    "publicContributions": 597,
     "createdAt": "2018-10-30T21:20:59Z"
   },
   {
@@ -24055,7 +24055,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 6,
+    "privateContributions": 19,
     "publicContributions": 7,
     "createdAt": "2018-11-20T18:41:41Z"
   },
@@ -24066,7 +24066,7 @@
     "location": "Guatemala",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-12-19T15:14:09Z"
@@ -24114,9 +24114,9 @@
     "location": "Guatemala",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 2,
     "createdAt": "2018-07-31T20:46:47Z"
   },
   {
@@ -24128,19 +24128,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 2,
     "createdAt": "2018-08-03T18:19:29Z"
   },
   {
     "login": "Vetto-Ola",
     "name": "Alberto Ola",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/42853765?s=72&u=62d848eb8db565859cb72ed299edf80da35230cf&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/42853765?s=72&v=4",
     "location": "Guatemala, Quetzaltenango",
     "company": "CianCoders",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 3,
     "createdAt": "2018-08-31T00:55:51Z"
   },
   {
@@ -24152,7 +24152,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 113,
+    "publicContributions": 124,
     "createdAt": "2018-09-16T03:03:42Z"
   },
   {
@@ -24186,22 +24186,10 @@
     "location": "Guatemala",
     "company": "USAC",
     "twitterUsername": "sergioarmgpl",
-    "followers": 169,
-    "privateContributions": 2,
-    "publicContributions": 105,
+    "followers": 171,
+    "privateContributions": 1,
+    "publicContributions": 92,
     "createdAt": "2017-03-15T01:07:41Z"
-  },
-  {
-    "login": "Elmnik",
-    "name": "Elmer Aguilar",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/33378750?s=72&u=27a13b4d9439c04a839cb39b764f70d43253c022&v=4",
-    "location": "Guatemala",
-    "company": "BDG S.A",
-    "twitterUsername": "",
-    "followers": 134,
-    "privateContributions": 0,
-    "publicContributions": 34,
-    "createdAt": "2017-11-04T18:14:33Z"
   },
   {
     "login": "ArielMejiaDev",
@@ -24210,9 +24198,9 @@
     "location": "Guatemala",
     "company": "Applaudo Studios",
     "twitterUsername": "ArielMejiaDev",
-    "followers": 98,
-    "privateContributions": 1043,
-    "publicContributions": 167,
+    "followers": 99,
+    "privateContributions": 909,
+    "publicContributions": 170,
     "createdAt": "2017-09-14T20:16:24Z"
   },
   {
@@ -24222,9 +24210,9 @@
     "location": "Guatemala",
     "company": "",
     "twitterUsername": "",
-    "followers": 96,
+    "followers": 97,
     "privateContributions": 0,
-    "publicContributions": 30,
+    "publicContributions": 35,
     "createdAt": "2017-06-23T13:40:00Z"
   },
   {
@@ -24234,9 +24222,9 @@
     "location": "Guatemala",
     "company": "",
     "twitterUsername": "",
-    "followers": 68,
+    "followers": 70,
     "privateContributions": 0,
-    "publicContributions": 1045,
+    "publicContributions": 1067,
     "createdAt": "2017-11-14T20:37:39Z"
   },
   {
@@ -24246,8 +24234,8 @@
     "location": "Guatemala",
     "company": "TELUS Digital",
     "twitterUsername": "moroquin",
-    "followers": 45,
-    "privateContributions": 207,
+    "followers": 47,
+    "privateContributions": 605,
     "publicContributions": 11,
     "createdAt": "2017-07-19T20:36:07Z"
   },
@@ -24259,8 +24247,8 @@
     "company": "Freelance full-stack Developer",
     "twitterUsername": "",
     "followers": 41,
-    "privateContributions": 57,
-    "publicContributions": 3,
+    "privateContributions": 142,
+    "publicContributions": 5,
     "createdAt": "2017-09-08T01:23:31Z"
   },
   {
@@ -24270,8 +24258,8 @@
     "location": "Guatemala",
     "company": "USAC",
     "twitterUsername": "raaulxiloj",
-    "followers": 39,
-    "privateContributions": 541,
+    "followers": 41,
+    "privateContributions": 509,
     "publicContributions": 0,
     "createdAt": "2017-08-09T02:03:07Z"
   },
