@@ -21463,7 +21463,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 248,
+    "privateContributions": 339,
     "publicContributions": 0,
     "createdAt": "2015-03-10T21:27:29Z"
   },
@@ -21523,7 +21523,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 333,
+    "privateContributions": 335,
     "publicContributions": 57,
     "createdAt": "2015-05-30T13:54:24Z"
   },
@@ -21594,9 +21594,9 @@
     "location": "@Bosnia and Herzegovina",
     "company": "@team-the-red",
     "twitterUsername": "",
-    "followers": 169,
-    "privateContributions": 18,
-    "publicContributions": 56,
+    "followers": 175,
+    "privateContributions": 151,
+    "publicContributions": 157,
     "createdAt": "2014-12-05T22:56:43Z"
   },
   {
@@ -21608,7 +21608,7 @@
     "twitterUsername": "",
     "followers": 33,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 10,
     "createdAt": "2014-12-15T19:24:20Z"
   },
   {
@@ -21618,9 +21618,9 @@
     "location": "Bosnia and Herzegovina",
     "company": "",
     "twitterUsername": "",
-    "followers": 26,
-    "privateContributions": 54,
-    "publicContributions": 24,
+    "followers": 25,
+    "privateContributions": 14,
+    "publicContributions": 8,
     "createdAt": "2014-05-11T12:57:24Z"
   },
   {
@@ -21631,8 +21631,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 25,
-    "privateContributions": 1,
-    "publicContributions": 3,
+    "privateContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2014-08-01T07:50:52Z"
   },
   {
@@ -21643,7 +21643,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 24,
-    "privateContributions": 611,
+    "privateContributions": 742,
     "publicContributions": 0,
     "createdAt": "2014-11-10T12:18:58Z"
   },
@@ -21654,7 +21654,7 @@
     "location": "East Sarajevo, Bosnia and Herzegovina",
     "company": "",
     "twitterUsername": "",
-    "followers": 23,
+    "followers": 24,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-09-07T18:59:22Z"
@@ -21666,8 +21666,8 @@
     "location": "Bosnia and Herzegovina",
     "company": "@toptal",
     "twitterUsername": "ademirbesirovic",
-    "followers": 20,
-    "privateContributions": 870,
+    "followers": 18,
+    "privateContributions": 796,
     "publicContributions": 216,
     "createdAt": "2014-05-15T16:13:09Z"
   },
@@ -21678,8 +21678,8 @@
     "location": "Mostar, Bosnia and Herzegovina",
     "company": "@nsftx ",
     "twitterUsername": "",
-    "followers": 19,
-    "privateContributions": 628,
+    "followers": 20,
+    "privateContributions": 610,
     "publicContributions": 0,
     "createdAt": "2014-04-10T12:49:51Z"
   },

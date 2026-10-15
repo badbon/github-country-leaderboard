@@ -21114,7 +21114,7 @@
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2023-01-19T17:26:27Z"
@@ -21138,7 +21138,7 @@
     "location": "Zurich, Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-10-16T14:41:38Z"
@@ -21192,27 +21192,15 @@
     "createdAt": "2023-08-07T08:52:54Z"
   },
   {
-    "login": "ateso-owner",
-    "name": "rfox",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/122910270?s=72&u=17b9cd282d558d04cd106dbcbd7d978dd828ee55&v=4",
-    "location": "Switzerland",
-    "company": "ATESO GmbH",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 5,
-    "createdAt": "2023-01-17T16:40:40Z"
-  },
-  {
     "login": "phkeil",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/126481172?s=72&v=4",
+    "name": "Philip Kehl",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/126481172?s=72&u=f0b8e67109cd637692c592acc17f9eb8ec86002e&v=4",
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 54,
+    "publicContributions": 125,
     "createdAt": "2023-02-27T13:11:04Z"
   },
   {
@@ -21222,9 +21210,9 @@
     "location": "PSI-Villigen, Switzerland ",
     "company": "Paul Scherrer Institute",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 2,
-    "publicContributions": 405,
+    "publicContributions": 345,
     "createdAt": "2023-07-06T12:31:04Z"
   },
   {

@@ -21426,7 +21426,7 @@
     "location": "Montevideo, Uruguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-07-30T17:16:28Z"
@@ -21444,27 +21444,15 @@
     "createdAt": "2021-11-07T19:40:33Z"
   },
   {
-    "login": "nicocababie",
-    "name": "Nicolás Cababie",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/83835110?s=72&u=b2317637745d31cdd0e512b131f35e1120b34300&v=4",
-    "location": "Montevideo, Uruguay",
-    "company": "Universidad ORT Uruguay",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 872,
-    "publicContributions": 12,
-    "createdAt": "2021-05-07T17:20:39Z"
-  },
-  {
     "login": "Frodo2412",
     "name": "Bruno Lemus",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/78759358?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/78759358?s=72&u=64b9b2b127beee8ccf14ebba41ac04936284c888&v=4",
     "location": "Montevideo, Uruguay",
     "company": "@MercadoLibre",
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 96,
+    "publicContributions": 134,
     "createdAt": "2021-02-08T19:39:50Z"
   },
   {
@@ -21511,8 +21499,8 @@
     "company": "PuntoTecno",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 25,
+    "privateContributions": 1620,
+    "publicContributions": 6205,
     "createdAt": "2021-08-15T15:53:58Z"
   },
   {
@@ -21536,7 +21524,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 2,
     "createdAt": "2021-04-27T02:41:12Z"
   },
   {
@@ -21547,8 +21535,8 @@
     "company": "",
     "twitterUsername": "enzom_dev",
     "followers": 3,
-    "privateContributions": 55,
-    "publicContributions": 299,
+    "privateContributions": 33,
+    "publicContributions": 206,
     "createdAt": "2021-11-24T16:28:40Z"
   },
   {
@@ -21559,8 +21547,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 19,
-    "publicContributions": 475,
+    "privateContributions": 58,
+    "publicContributions": 387,
     "createdAt": "2021-01-05T22:51:56Z"
   },
   {
@@ -21570,9 +21558,9 @@
     "location": "Montevideo, Uruguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 119,
+    "publicContributions": 31,
     "createdAt": "2021-07-25T18:30:53Z"
   },
   {
@@ -21596,7 +21584,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 161,
+    "publicContributions": 22,
     "createdAt": "2021-11-08T16:27:48Z"
   },
   {
@@ -21620,7 +21608,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 34,
+    "publicContributions": 33,
     "createdAt": "2021-09-08T01:48:28Z"
   },
   {
@@ -21631,8 +21619,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 266,
-    "publicContributions": 108,
+    "privateContributions": 992,
+    "publicContributions": 13,
     "createdAt": "2021-02-07T18:36:14Z"
   },
   {
@@ -21655,7 +21643,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 340,
+    "privateContributions": 187,
     "publicContributions": 5,
     "createdAt": "2021-03-25T19:46:48Z"
   },

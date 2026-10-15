@@ -21168,18 +21168,6 @@
     "createdAt": "2023-12-19T21:00:28Z"
   },
   {
-    "login": "ZeinebGhrab",
-    "name": "Zeineb Ghrab",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/143428164?s=72&u=58854048d747baeee74bb05610b9bd2bfab5244f&v=4",
-    "location": "Tunisia",
-    "company": "ENET'Com",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 574,
-    "publicContributions": 449,
-    "createdAt": "2023-08-28T15:38:38Z"
-  },
-  {
     "login": "zarrad-ismail",
     "name": "zRad",
     "avatarUrl": "https://avatars.githubusercontent.com/u/122401044?s=72&u=7582a94456bd38999fa956c74350c5d902d1a6c5&v=4",
@@ -21188,7 +21176,7 @@
     "twitterUsername": "zradservices",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 11,
     "createdAt": "2023-01-10T19:55:46Z"
   },
   {
@@ -21200,20 +21188,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 153,
+    "publicContributions": 109,
     "createdAt": "2023-01-04T19:29:21Z"
-  },
-  {
-    "login": "hadsa129",
-    "name": "Hadil Sahraoui",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/122671921?s=72&u=49f362b22d4f091676f35a2bb5da803b1e32354d&v=4",
-    "location": "Tunis,tunisia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 129,
-    "createdAt": "2023-01-14T10:05:26Z"
   },
   {
     "login": "Jasser-khadhraoui",
@@ -21236,7 +21212,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 136,
+    "publicContributions": 140,
     "createdAt": "2023-06-17T21:44:35Z"
   },
   {
@@ -21247,7 +21223,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 443,
+    "privateContributions": 491,
     "publicContributions": 25,
     "createdAt": "2023-06-23T17:51:17Z"
   },
@@ -21272,7 +21248,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 43,
+    "publicContributions": 36,
     "createdAt": "2023-10-02T19:07:54Z"
   },
   {
@@ -21282,8 +21258,8 @@
     "location": "Tunisia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
+    "followers": 2,
+    "privateContributions": 9,
     "publicContributions": 14,
     "createdAt": "2023-11-13T16:47:23Z"
   },
@@ -21296,7 +21272,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 58,
+    "publicContributions": 54,
     "createdAt": "2023-04-03T12:20:37Z"
   },
   {
@@ -21319,8 +21295,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 72,
-    "publicContributions": 96,
+    "privateContributions": 247,
+    "publicContributions": 94,
     "createdAt": "2023-01-31T14:21:14Z"
   },
   {
@@ -21330,9 +21306,9 @@
     "location": "Tunis",
     "company": "",
     "twitterUsername": "",
-    "followers": 195,
+    "followers": 193,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 10,
     "createdAt": "2023-07-04T17:09:24Z"
   },
   {
@@ -21342,9 +21318,9 @@
     "location": "Tunis",
     "company": "ISET SFAX",
     "twitterUsername": "",
-    "followers": 129,
+    "followers": 125,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 15,
     "createdAt": "2023-03-02T10:08:11Z"
   },
   {
@@ -21354,9 +21330,9 @@
     "location": "Tunis, Arena",
     "company": "holbertonschool",
     "twitterUsername": "Arctic7Boy",
-    "followers": 62,
+    "followers": 65,
     "privateContributions": 0,
-    "publicContributions": 239,
+    "publicContributions": 238,
     "createdAt": "2023-02-07T11:21:47Z"
   },
   {
@@ -21366,9 +21342,9 @@
     "location": "Tunis",
     "company": "",
     "twitterUsername": "",
-    "followers": 41,
-    "privateContributions": 467,
-    "publicContributions": 286,
+    "followers": 35,
+    "privateContributions": 658,
+    "publicContributions": 297,
     "createdAt": "2023-04-28T09:15:18Z"
   },
   {
@@ -21378,9 +21354,9 @@
     "location": "Tunis",
     "company": "",
     "twitterUsername": "",
-    "followers": 30,
+    "followers": 28,
     "privateContributions": 0,
-    "publicContributions": 155,
+    "publicContributions": 153,
     "createdAt": "2023-04-07T16:23:59Z"
   },
   {
@@ -21390,9 +21366,9 @@
     "location": "Tunis",
     "company": "Esprit",
     "twitterUsername": "",
-    "followers": 26,
+    "followers": 27,
     "privateContributions": 0,
-    "publicContributions": 830,
+    "publicContributions": 794,
     "createdAt": "2023-07-24T17:27:07Z"
   },
   {

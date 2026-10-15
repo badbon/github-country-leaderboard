@@ -32,7 +32,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 58,
+    "publicContributions": 60,
     "createdAt": "2026-02-17T02:07:15Z"
   },
   {
@@ -116,7 +116,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 89,
+    "publicContributions": 101,
     "createdAt": "2026-01-29T03:04:25Z"
   },
   {
@@ -138,9 +138,9 @@
     "location": "Bolivia",
     "company": "",
     "twitterUsername": "",
-    "followers": 72,
+    "followers": 73,
     "privateContributions": 0,
-    "publicContributions": 815,
+    "publicContributions": 808,
     "createdAt": "2025-02-05T18:02:00Z"
   },
   {
@@ -152,7 +152,7 @@
     "twitterUsername": "",
     "followers": 24,
     "privateContributions": 0,
-    "publicContributions": 1042,
+    "publicContributions": 1022,
     "createdAt": "2025-04-12T15:48:06Z"
   },
   {
@@ -162,8 +162,8 @@
     "location": "Santa Cruz, Bolivia",
     "company": "",
     "twitterUsername": "",
-    "followers": 15,
-    "privateContributions": 4228,
+    "followers": 14,
+    "privateContributions": 4183,
     "publicContributions": 701,
     "createdAt": "2025-04-02T17:09:43Z"
   },
@@ -176,7 +176,7 @@
     "twitterUsername": "",
     "followers": 13,
     "privateContributions": 104,
-    "publicContributions": 130,
+    "publicContributions": 176,
     "createdAt": "2025-03-03T15:39:07Z"
   },
   {
@@ -187,20 +187,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 160,
-    "publicContributions": 1021,
+    "privateContributions": 156,
+    "publicContributions": 1038,
     "createdAt": "2025-03-25T07:18:04Z"
   },
   {
     "login": "Mats2208",
     "name": "Mateo Andres Soto Gareca",
     "avatarUrl": "https://avatars.githubusercontent.com/u/197782816?s=72&u=4f107aee5039633a98b6208c47805d9821769a9f&v=4",
-    "location": "Santa Cruz, Bolivia",
+    "location": "Santa Cruz, Bolivia ",
     "company": "",
     "twitterUsername": "",
     "followers": 14,
-    "privateContributions": 3173,
-    "publicContributions": 578,
+    "privateContributions": 3319,
+    "publicContributions": 638,
     "createdAt": "2025-02-04T15:15:25Z"
   },
   {
@@ -236,7 +236,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 245,
+    "publicContributions": 270,
     "createdAt": "2025-09-05T04:33:12Z"
   },
   {

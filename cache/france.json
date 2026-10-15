@@ -1053394,5 +1053394,29 @@
     "privateContributions": 175,
     "publicContributions": 33,
     "createdAt": "2022-01-07T00:32:18Z"
+  },
+  {
+    "login": "ZeinebGhrab",
+    "name": "Zeineb Ghrab",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/143428164?s=72&u=58854048d747baeee74bb05610b9bd2bfab5244f&v=4",
+    "location": "France",
+    "company": "ENSEIRB-MATMECA – Bordeaux INP",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 421,
+    "publicContributions": 444,
+    "createdAt": "2023-08-28T15:38:38Z"
+  },
+  {
+    "login": "YounesBensafia",
+    "name": "Younès BENSAFIA",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/114447089?s=72&u=a935ed98580f1656d3e4354b718e999f8c159d79&v=4",
+    "location": "Paris, France",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 100,
+    "privateContributions": 1582,
+    "publicContributions": 492,
+    "createdAt": "2022-09-26T22:14:48Z"
   }
 ]
