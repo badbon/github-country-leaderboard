@@ -15,8 +15,8 @@ Indexed users: 3,872
 | 1 | [alsong](https://github.com/alsong) | Oburusule Dunstan | Kampala, Uganda | 13,712 |
 | 2 | [BAGOMBEKA-JOB-DEV](https://github.com/BAGOMBEKA-JOB-DEV) | BAGOMBEKA JOB | KAMPALA, UGANDA | 11,947 |
 | 3 | [obalaweb](https://github.com/obalaweb) | Obala Joseph Ivan | Gulu, Uganda | 11,691 |
-| 4 | [kallyas](https://github.com/kallyas) | Iden | Uganda | 11,006 |
-| 5 | [peterbamuhigire](https://github.com/peterbamuhigire) | Peter Bamuhigire | Kampala, Uganda | 10,913 |
+| 4 | [peterbamuhigire](https://github.com/peterbamuhigire) | Peter Bamuhigire | Kampala, Uganda | 10,913 |
+| 5 | [kallyas](https://github.com/kallyas) | Iden | Uganda | 10,474 |
 | 6 | [kashua14](https://github.com/kashua14) | Kasasira Joshua | Kampala, Uganda | 9,986 |
 | 7 | [ziyalogy](https://github.com/ziyalogy) | Ziyal Amanya | Uganda | 9,934 |
 | 8 | [MUKE-coder](https://github.com/MUKE-coder) | MUKE JOHNBAPTIST | KAMPALA -UGANDA | 9,513 |
@@ -28,19 +28,19 @@ Indexed users: 3,872
 | 14 | [BrianPollar](https://github.com/BrianPollar) | Pollar Brian Okello | Kampala, Uganda | 7,556 |
 | 15 | [judeotine](https://github.com/judeotine) | Judeotine | Uganda | 7,440 |
 | 16 | [cosmah](https://github.com/cosmah) | cosmah | kampala, Uganda | 7,177 |
-| 17 | [pius22](https://github.com/pius22) | TECH-WORLDINFO | uganda | 6,709 |
-| 18 | [Bravos-hub](https://github.com/Bravos-hub) | BRAVE OLIMI | Bugema  Kampala-Uganda | 6,657 |
-| 19 | [amkayondo](https://github.com/amkayondo) | Kayondo Edward | Kampala, Uganda | 6,514 |
-| 20 | [arafats1](https://github.com/arafats1) | Arafat Magezi | Kampala, Uganda | 6,463 |
+| 17 | [matovu-farid](https://github.com/matovu-farid) | Farid Matovu | Uganda | 6,805 |
+| 18 | [pius22](https://github.com/pius22) | TECH-WORLDINFO | uganda | 6,709 |
+| 19 | [Bravos-hub](https://github.com/Bravos-hub) | BRAVE OLIMI | Bugema  Kampala-Uganda | 6,657 |
+| 20 | [amkayondo](https://github.com/amkayondo) | Kayondo Edward | Kampala, Uganda | 6,514 |
 
 ## Public Contributions
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [GaspardKirira](https://github.com/GaspardKirira) | G-kirira | Africa / Uganda / Kampala | 7,825 |
-| 2 | [pius22](https://github.com/pius22) | TECH-WORLDINFO | uganda | 5,725 |
-| 3 | [Baalmart](https://github.com/Baalmart) | Martin Bbaale | Kampala | 5,695 |
-| 4 | [matovu-farid](https://github.com/matovu-farid) | Farid Matovu | Uganda | 5,312 |
+| 2 | [matovu-farid](https://github.com/matovu-farid) | Farid Matovu | Uganda | 5,929 |
+| 3 | [pius22](https://github.com/pius22) | TECH-WORLDINFO | uganda | 5,725 |
+| 4 | [Baalmart](https://github.com/Baalmart) | Martin Bbaale | Kampala | 5,695 |
 | 5 | [BAGOMBEKA-JOB-DEV](https://github.com/BAGOMBEKA-JOB-DEV) | BAGOMBEKA JOB | KAMPALA, UGANDA | 4,890 |
 | 6 | [agabaandre](https://github.com/agabaandre) | Agaba Andre | Kampala | 3,882 |
 | 7 | [Mucunguzi256](https://github.com/Mucunguzi256) | Mucunguzi Moses | UGANDA | 3,545 |
@@ -56,7 +56,7 @@ Indexed users: 3,872
 | 17 | [herberthk](https://github.com/herberthk) | Kavuma Herbert | Kampala | 1,958 |
 | 18 | [danielmarv](https://github.com/danielmarv) | Daniel Ntege | Kampala | 1,947 |
 | 19 | [Joshkovu](https://github.com/Joshkovu) | Kuteesa Joash | uganda  | 1,933 |
-| 20 | [kallyas](https://github.com/kallyas) | Iden | Uganda | 1,930 |
+| 20 | [Codebmk](https://github.com/Codebmk) | Belinda Marion Kobusingye | Kampala, Uganda | 1,904 |
 
 ## Followers
 
@@ -81,6 +81,6 @@ Indexed users: 3,872
 | 17 | [ceasor-elvis](https://github.com/ceasor-elvis) | Elvis Joseph Kawalya | Kampala, Uganda | 209 |
 | 18 | [mitalasamuel](https://github.com/mitalasamuel) | Mitala Samuel | Kampala | 203 |
 | 19 | [Kitemaggwa-Shafic](https://github.com/Kitemaggwa-Shafic) | Bin Profic | Kampala mengo, Najjanankumbi Ebb rd | 198 |
-| 20 | [FahimWeblogicAndCyberTechnologies](https://github.com/FahimWeblogicAndCyberTechnologies) | FRANKLIN | Uganda | 186 |
+| 20 | [kallyas](https://github.com/kallyas) | Iden | Uganda | 190 |
 
-Generated: 2026-10-15T06:55:53.925Z
+Generated: 2026-10-15T08:23:52.871Z

@@ -1,6 +1,6 @@
 # Followers - Dominica
 
-Generated: 2026-10-15T07:21:35.740Z
+Generated: 2026-10-15T08:48:53.839Z
 
 Users: 18
 
@@ -13,9 +13,9 @@ Users: 18
 | 5 | [daedwards767](https://github.com/daedwards767) | Davidson Edwards | Tropicode Software Solutions |  | Commonwealth of Dominica | 3 |
 | 6 | [Emmanuel767-byte](https://github.com/Emmanuel767-byte) | Emmanuel | Junior React JS Developer @CleverProgrammer |  | Dominica, The Caribbean | 3 |
 | 7 | [jaheemprevost](https://github.com/jaheemprevost) | Jaheem Prevost |  | JaheemPrevost | Dominica | 3 |
-| 8 | [Nexxus-LMT](https://github.com/Nexxus-LMT) | WaitukuNexx | Waituku Technology Solutions |  | Dominica | 3 |
-| 9 | [pembertonc](https://github.com/pembertonc) | Cedric Pemberton |  |  | Commonwealth of Dominica Roseau Comm. of Dominica West Indies | 3 |
-| 10 | [bowetech](https://github.com/bowetech) | Clive Stewart | BoweTech |  |  Dominica | 2 |
+| 8 | [pembertonc](https://github.com/pembertonc) | Cedric Pemberton |  |  | Commonwealth of Dominica Roseau Comm. of Dominica West Indies | 3 |
+| 9 | [bowetech](https://github.com/bowetech) | Clive Stewart | BoweTech |  |  Dominica | 2 |
+| 10 | [Nexxus-LMT](https://github.com/Nexxus-LMT) | WaitukuNexx | Waituku Technology Solutions |  | Dominica | 2 |
 | 11 | [crwne1](https://github.com/crwne1) | Kieron Clunes | 767.dev |  | Roseau, Dominica  | 1 |
 | 12 | [EsaiasBurnette](https://github.com/EsaiasBurnette) | Esaias_B | Burnette Tech Solutions |  | Dominica | 1 |
 | 13 | [jozreel](https://github.com/jozreel) | Jozreel Laurent |  |  | Roseau, Dominica | 1 |

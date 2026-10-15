@@ -1,6 +1,6 @@
 # Followers - Uganda
 
-Generated: 2026-10-15T06:55:53.925Z
+Generated: 2026-10-15T08:23:52.871Z
 
 Users: 3872
 
@@ -25,4 +25,4 @@ Users: 3872
 | 17 | [ceasor-elvis](https://github.com/ceasor-elvis) | Elvis Joseph Kawalya |  | ceasor_elvis | Kampala, Uganda | 209 |
 | 18 | [mitalasamuel](https://github.com/mitalasamuel) | Mitala Samuel | Loft  | mitalasam | Kampala | 203 |
 | 19 | [Kitemaggwa-Shafic](https://github.com/Kitemaggwa-Shafic) | Bin Profic | Digital Impressions Uganda, ICT Skills Dev Ctr | kitemaggwaFic | Kampala mengo, Najjanankumbi Ebb rd | 198 |
-| 20 | [FahimWeblogicAndCyberTechnologies](https://github.com/FahimWeblogicAndCyberTechnologies) | FRANKLIN | FahimWeblogic & CyberTechnologies | FWeblogic | Uganda | 186 |
+| 20 | [kallyas](https://github.com/kallyas) | Iden | @SolitonTelmecUganda  | kallyasl | Uganda | 190 |

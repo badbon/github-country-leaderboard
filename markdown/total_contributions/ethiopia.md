@@ -1,8 +1,8 @@
 # Total Contributions - Ethiopia
 
-Generated: 2026-10-15T07:24:54.317Z
+Generated: 2026-10-15T08:53:21.520Z
 
-Users: 6694
+Users: 6693
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -21,8 +21,8 @@ Users: 6694
 | 13 | [AmarAhmedDev](https://github.com/AmarAhmedDev) | Amar Ahmed |  |  | Ethiopia | 8340 |
 | 14 | [onesamket](https://github.com/onesamket) | Tewodros Birhanu | @siket-apps  | onesamket | Addis Ababa, Ethiopia | 8100 |
 | 15 | [demamano](https://github.com/demamano) | Dema Amano | Addis Ababa University | amano_dema | Ethiopia , Addis Ababa | 7886 |
-| 16 | [Itsyabitaa](https://github.com/Itsyabitaa) | Yeabsira | @Abolsolution |  |  Ethiopia, Addis Ababa | 7216 |
-| 17 | [melaku-z](https://github.com/melaku-z) | Melaku Zewdu |  |  | Ethiopia | 7017 |
-| 18 | [black12-ag](https://github.com/black12-ag) | Munir Kabir | @ethio-viral |  | Addis Ababa | 6761 |
-| 19 | [YeabHustles](https://github.com/YeabHustles) | Yeabkibir Tadesse | Solvix Labs  | yeabhustles | Addis Ababa , Ethiopia | 6757 |
-| 20 | [NatnaelMekonnen](https://github.com/NatnaelMekonnen) | Natnael Mekonnen |  | nhatty_mack | Addis Ababa, Ethiopia | 6587 |
+| 16 | [melaku-z](https://github.com/melaku-z) | Melaku Zewdu |  |  | Ethiopia | 7017 |
+| 17 | [black12-ag](https://github.com/black12-ag) | Munir Kabir | @ethio-viral |  | Addis Ababa | 6761 |
+| 18 | [YeabHustles](https://github.com/YeabHustles) | Yeabkibir Tadesse | Solvix Labs  | yeabhustles | Addis Ababa , Ethiopia | 6757 |
+| 19 | [NatnaelMekonnen](https://github.com/NatnaelMekonnen) | Natnael Mekonnen |  | nhatty_mack | Addis Ababa, Ethiopia | 6587 |
+| 20 | [iamejajo](https://github.com/iamejajo) | alazar | @BuildForSDGCohort2 |  | Addis Ababa,Ethiopia | 6404 |

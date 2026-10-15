@@ -1,6 +1,6 @@
 # Estonia
 
-Indexed users: 4,906
+Indexed users: 4,905
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 4,906
 | 19 | [Wirasm](https://github.com/Wirasm) | Rasmus Widing | tallinn | 406 |
 | 20 | [toomastahves](https://github.com/toomastahves) | Toomas Tahves | Tallinn, Estonia | 388 |
 
-Generated: 2026-10-15T07:24:47.270Z
+Generated: 2026-10-15T08:52:30.310Z

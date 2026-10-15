@@ -1,6 +1,6 @@
 # Public Contributions - Georgia
 
-Generated: 2026-10-15T07:21:31.377Z
+Generated: 2026-10-15T08:30:06.723Z
 
 Users: 6894
 
@@ -12,17 +12,17 @@ Users: 6894
 | 4 | [lexfrei](https://github.com/lexfrei) | Aleksei Sviridkin | @aenix-io | lexfrei | Tbilisi | 8922 |
 | 5 | [andrei-shtanakov](https://github.com/andrei-shtanakov) | Andrei Shtanakov |  |  | Georgia | 8274 |
 | 6 | [Jacoba1100254352](https://github.com/Jacoba1100254352) | Jacob Anderson | @https://github.com/instruction-material | jacob1100254352 | Georgia | 7658 |
-| 7 | [Komzpa](https://github.com/Komzpa) | Darafei Praliaskouski |  |  | Batumi, Georgia | 4735 |
-| 8 | [smira](https://github.com/smira) | Andrey Smirnov | @siderolabs  | smira | Georgia | 4629 |
-| 9 | [lperto](https://github.com/lperto) | Lasha Pertakhia |  | lpertakhia | Tbilisi | 4195 |
-| 10 | [prolix-oc](https://github.com/prolix-oc) | Prolix OCs |  | prolix_gg | Georgia | 4064 |
-| 11 | [explosivebit](https://github.com/explosivebit) | Eli Rum | ForgePlan |  | Tbilisi | 3960 |
-| 12 | [jkomyno](https://github.com/jkomyno) | Alberto Schiabel | @composioHQ | jkomyno | Tbilisi, Georgia | 3522 |
-| 13 | [ivanopcode](https://github.com/ivanopcode) | Ivan | @wildberries-tech |  | Tbilisi | 3453 |
-| 14 | [pozitronik](https://github.com/pozitronik) | Pavel Dubrovsky | Freelancer |  | Tbilisi | 3442 |
-| 15 | [andrinoff](https://github.com/andrinoff) | Drew Smirnoff | @charmbracelet | andrin0ff | Tbilisi | 3344 |
-| 16 | [NSchatz](https://github.com/NSchatz) | Noah Schatz |  |  | Georgia | 3307 |
-| 17 | [Khizanag](https://github.com/Khizanag) | Giga Khizanishvili | Space International | Khizanag | Tbilisi, Georgia | 3085 |
-| 18 | [Nikushhaa](https://github.com/Nikushhaa) | Nikushhaa Developer \| AI • Web • Software |  |  | 📍 Georgia | 3054 |
-| 19 | [ilobilo](https://github.com/ilobilo) | ilobilo |  |  | Georgia | 3041 |
-| 20 | [skulidropek](https://github.com/skulidropek) | Skuli Dropek |  |  | Tbilisi | 3036 |
+| 7 | [asyncfinkd](https://github.com/asyncfinkd) | Nika Shamiladze |  |  | Georgia | 7088 |
+| 8 | [Komzpa](https://github.com/Komzpa) | Darafei Praliaskouski |  |  | Batumi, Georgia | 4735 |
+| 9 | [smira](https://github.com/smira) | Andrey Smirnov | @siderolabs  | smira | Georgia | 4629 |
+| 10 | [lperto](https://github.com/lperto) | Lasha Pertakhia |  | lpertakhia | Tbilisi | 4195 |
+| 11 | [prolix-oc](https://github.com/prolix-oc) | Prolix OCs |  | prolix_gg | Georgia | 4064 |
+| 12 | [explosivebit](https://github.com/explosivebit) | Eli Rum | ForgePlan |  | Tbilisi | 3960 |
+| 13 | [jkomyno](https://github.com/jkomyno) | Alberto Schiabel | @composioHQ | jkomyno | Tbilisi, Georgia | 3522 |
+| 14 | [ivanopcode](https://github.com/ivanopcode) | Ivan | @wildberries-tech |  | Tbilisi | 3453 |
+| 15 | [pozitronik](https://github.com/pozitronik) | Pavel Dubrovsky | Freelancer |  | Tbilisi | 3442 |
+| 16 | [andrinoff](https://github.com/andrinoff) | Drew Smirnoff | @charmbracelet | andrin0ff | Tbilisi | 3344 |
+| 17 | [NSchatz](https://github.com/NSchatz) | Noah Schatz |  |  | Georgia | 3307 |
+| 18 | [Khizanag](https://github.com/Khizanag) | Giga Khizanishvili | Space International | Khizanag | Tbilisi, Georgia | 3085 |
+| 19 | [Nikushhaa](https://github.com/Nikushhaa) | Nikushhaa Developer \| AI • Web • Software |  |  | 📍 Georgia | 3054 |
+| 20 | [ilobilo](https://github.com/ilobilo) | ilobilo |  |  | Georgia | 3041 |

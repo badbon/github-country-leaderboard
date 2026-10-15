@@ -1,6 +1,6 @@
 # Public Contributions - Barbados
 
-Generated: 2026-10-15T07:07:40.907Z
+Generated: 2026-10-15T08:35:31.326Z
 
 Users: 133
 
@@ -21,7 +21,7 @@ Users: 133
 | 13 | [AzielJust](https://github.com/AzielJust) | Aziel Hoyte |  |  | Barbados | 107 |
 | 14 | [sramharack](https://github.com/sramharack) | Shankar Ramharack | M&E Partners Limited |  | St. Phillips, Barbados, W.I. | 105 |
 | 15 | [baebranch](https://github.com/baebranch) | Brian Branch |  | baebranch | Barbados | 104 |
-| 16 | [alexanderbahlk](https://github.com/alexanderbahlk) | Alexander Bahlk | Coast Solutions OÜ |  | Barbados | 97 |
+| 16 | [alexanderbahlk](https://github.com/alexanderbahlk) | Alexander Bahlk | Coast Solutions OÜ |  | Barbados | 91 |
 | 17 | [Taggs](https://github.com/Taggs) | Neil Taggart | Adaptive Consulting | neiltaggart | (London \|\| Barbados) && Cloud | 90 |
 | 18 | [starsden](https://github.com/starsden) | den | Airbus |  | Barbados | 88 |
 | 19 | [Rayh23](https://github.com/Rayh23) | Raynel |  |  | Barbados | 81 |

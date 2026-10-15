@@ -1,6 +1,6 @@
 # Total Contributions - Barbados
 
-Generated: 2026-10-15T07:07:40.907Z
+Generated: 2026-10-15T08:35:31.326Z
 
 Users: 133
 
@@ -16,13 +16,13 @@ Users: 133
 | 8 | [Taggs](https://github.com/Taggs) | Neil Taggart | Adaptive Consulting | neiltaggart | (London \|\| Barbados) && Cloud | 1717 |
 | 9 | [FamineDT246](https://github.com/FamineDT246) | Ceejay C |  |  | Barbados | 1506 |
 | 10 | [ShamarKellman](https://github.com/ShamarKellman) | Shamar Kellman |  | CoderShamar | Barbados | 1367 |
-| 11 | [alexanderbahlk](https://github.com/alexanderbahlk) | Alexander Bahlk | Coast Solutions OÜ |  | Barbados | 1328 |
+| 11 | [alexanderbahlk](https://github.com/alexanderbahlk) | Alexander Bahlk | Coast Solutions OÜ |  | Barbados | 1322 |
 | 12 | [dario-j-c](https://github.com/dario-j-c) | Dario J C |  |  | Barbados | 1147 |
 | 13 | [lukehefson](https://github.com/lukehefson) | Luke Hefson | @workbrew | lukehefson | Barbados | 952 |
 | 14 | [ianhambleton](https://github.com/ianhambleton) | Ian Hambleton | The University of the West Indies |  | Barbados | 676 |
 | 15 | [Thomas-Heniart](https://github.com/Thomas-Heniart) | Thomas Heniart | Bitfinex |  | Barbados | 611 |
 | 16 | [starsden](https://github.com/starsden) | den | Airbus |  | Barbados | 582 |
-| 17 | [diondree](https://github.com/diondree) | Diondre Edwards |  | diondredev | Barbados | 450 |
+| 17 | [diondree](https://github.com/diondree) | Diondre Edwards |  | diondredev | Barbados | 445 |
 | 18 | [paulamelrz](https://github.com/paulamelrz) | Paula Melero | Viral Nation |  | Barbados | 440 |
 | 19 | [caritechsolutions](https://github.com/caritechsolutions) |  |  |  | Barbados | 410 |
-| 20 | [intricate](https://github.com/intricate) | Luke | @MercuryTechnologies |  | Barbados | 348 |
+| 20 | [intricate](https://github.com/intricate) | Luke | @MercuryTechnologies |  | Barbados | 345 |

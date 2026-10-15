@@ -1,6 +1,6 @@
 # Total Contributions - Georgia
 
-Generated: 2026-10-15T07:21:31.377Z
+Generated: 2026-10-15T08:30:06.723Z
 
 Users: 6894
 
@@ -14,15 +14,15 @@ Users: 6894
 | 6 | [apovalov](https://github.com/apovalov) | Valentin Shapovalov |  |  | Tbilisi, Georgia | 19325 |
 | 7 | [NSchatz](https://github.com/NSchatz) | Noah Schatz |  |  | Georgia | 14272 |
 | 8 | [thedavidmeister](https://github.com/thedavidmeister) | David Meister |  |  | Tbilisi | 13937 |
-| 9 | [Krut](https://github.com/Krut) | Michael Krautwald |  |  | Tbilisi, Georgia | 12892 |
-| 10 | [z12ob](https://github.com/z12ob) | Guram Melikidze | Perk |  | Tbilisi | 12688 |
-| 11 | [Chkhikvadzeg](https://github.com/Chkhikvadzeg) | Giorgi Chkhikvadze | @tetrobyte-studio |  | Tbilisi, Georgia | 12539 |
-| 12 | [badbon](https://github.com/badbon) | bolko |  |  | Georgia | 12412 |
-| 13 | [skulidropek](https://github.com/skulidropek) | Skuli Dropek |  |  | Tbilisi | 12249 |
-| 14 | [irakli-lekishvili](https://github.com/irakli-lekishvili) | Irakli Lekishvili |  |  | Tbilisi, Georgia | 11858 |
-| 15 | [kevinthelago](https://github.com/kevinthelago) | Kevin Lago | Individual | kevinthelago | Georgia | 11451 |
-| 16 | [JEuler](https://github.com/JEuler) | Ivan Terekhin | Trifoil Trailblazer |  | Tbilisi, Georgia | 11295 |
-| 17 | [l0rtk](https://github.com/l0rtk) | Luka Lortkipanidze |  |  | Ambrolauri,Georgia | 11294 |
-| 18 | [lexfrei](https://github.com/lexfrei) | Aleksei Sviridkin | @aenix-io | lexfrei | Tbilisi | 11195 |
-| 19 | [Nikagagua](https://github.com/Nikagagua) | Nika Gagua |  | Nicknet1c | Georgia | 10862 |
-| 20 | [YuryBaranikhin](https://github.com/YuryBaranikhin) | Yury Baranikhin |  |  | Tbilisi | 10474 |
+| 9 | [asyncfinkd](https://github.com/asyncfinkd) | Nika Shamiladze |  |  | Georgia | 12903 |
+| 10 | [Krut](https://github.com/Krut) | Michael Krautwald |  |  | Tbilisi, Georgia | 12892 |
+| 11 | [z12ob](https://github.com/z12ob) | Guram Melikidze | Perk |  | Tbilisi | 12688 |
+| 12 | [Chkhikvadzeg](https://github.com/Chkhikvadzeg) | Giorgi Chkhikvadze | @tetrobyte-studio |  | Tbilisi, Georgia | 12539 |
+| 13 | [badbon](https://github.com/badbon) | bolko |  |  | Georgia | 12412 |
+| 14 | [skulidropek](https://github.com/skulidropek) | Skuli Dropek |  |  | Tbilisi | 12249 |
+| 15 | [irakli-lekishvili](https://github.com/irakli-lekishvili) | Irakli Lekishvili |  |  | Tbilisi, Georgia | 11858 |
+| 16 | [kevinthelago](https://github.com/kevinthelago) | Kevin Lago | Individual | kevinthelago | Georgia | 11451 |
+| 17 | [JEuler](https://github.com/JEuler) | Ivan Terekhin | Trifoil Trailblazer |  | Tbilisi, Georgia | 11295 |
+| 18 | [l0rtk](https://github.com/l0rtk) | Luka Lortkipanidze |  |  | Ambrolauri,Georgia | 11294 |
+| 19 | [lexfrei](https://github.com/lexfrei) | Aleksei Sviridkin | @aenix-io | lexfrei | Tbilisi | 11195 |
+| 20 | [Nikagagua](https://github.com/Nikagagua) | Nika Gagua |  | Nicknet1c | Georgia | 10862 |

@@ -21,7 +21,7 @@ Indexed users: 727
 | 7 | [meshahid973](https://github.com/meshahid973) | meshahid.973 | bahrain | 5,982 |
 | 8 | [fairbird](https://github.com/fairbird) | RAED | Bahrain | 5,419 |
 | 9 | [zahidala](https://github.com/zahidala) | Zahid Allaulddin | Bahrain | 5,132 |
-| 10 | [xCuzSkillz](https://github.com/xCuzSkillz) | Ali M. | Bahrain | 4,727 |
+| 10 | [xCuzSkillz](https://github.com/xCuzSkillz) | Ali M. | Bahrain | 4,761 |
 | 11 | [kelvindecosta](https://github.com/kelvindecosta) | Kelvin DeCosta | Bahrain | 4,473 |
 | 12 | [iMythms](https://github.com/iMythms) | Mytham Jasim | Bahrain | 4,433 |
 | 13 | [halalgami](https://github.com/halalgami) | Algam | Bahrain | 4,216 |
@@ -42,7 +42,7 @@ Indexed users: 727
 | 3 | [SalehAbdulla](https://github.com/SalehAbdulla) | SalehAbdulla | BAHRAIN | 3,045 |
 | 4 | [UnbreakableMJ](https://github.com/UnbreakableMJ) | Mohamed Hammad | Bahrain | 2,693 |
 | 5 | [fatema-maitham](https://github.com/fatema-maitham) | Fatema Maitham | Bahrain | 2,688 |
-| 6 | [ov-tron](https://github.com/ov-tron) | ov - Tron | Amwaj, Bahrain | 1,877 |
+| 6 | [ov-tron](https://github.com/ov-tron) | ov - Tron | Amwaj, Bahrain | 1,904 |
 | 7 | [masterde](https://github.com/masterde) | Baker | Bahrain, Muharraq | 1,441 |
 | 8 | [aldoyh](https://github.com/aldoyh) | Hasan AlDoy | Al Muharraq, Bahrain | 1,273 |
 | 9 | [sfoulad](https://github.com/sfoulad) | Sameh Foulad | Bahrain | 893 |
@@ -69,12 +69,12 @@ Indexed users: 727
 | 5 | [burhan](https://github.com/burhan) | Burhan Khalid | Bahrain/Kuwait | 111 |
 | 6 | [ExTBH](https://github.com/ExTBH) | Natheer Radhi | Bahrain | 106 |
 | 7 | [mufarrah](https://github.com/mufarrah) | A.Rahman Mufarrah | Bahrain | 104 |
-| 8 | [FnrDev](https://github.com/FnrDev) | Ahmed | Bahrain | 93 |
-| 9 | [kelvindecosta](https://github.com/kelvindecosta) | Kelvin DeCosta | Bahrain | 93 |
+| 8 | [kelvindecosta](https://github.com/kelvindecosta) | Kelvin DeCosta | Bahrain | 93 |
+| 9 | [FnrDev](https://github.com/FnrDev) | Ahmed | Bahrain | 92 |
 | 10 | [aldoyh](https://github.com/aldoyh) | Hasan AlDoy | Al Muharraq, Bahrain | 86 |
 | 11 | [zakk616](https://github.com/zakk616) | Muhammad Zakaria | Manama, Bahrain | 84 |
 | 12 | [SouvikChoudhury360](https://github.com/SouvikChoudhury360) | Souvik Choudhury | Manama, Bahrain | 80 |
-| 13 | [xCuzSkillz](https://github.com/xCuzSkillz) | Ali M. | Bahrain | 64 |
+| 13 | [xCuzSkillz](https://github.com/xCuzSkillz) | Ali M. | Bahrain | 63 |
 | 14 | [sayed3li97](https://github.com/sayed3li97) | Sayed Ali Alkamel | Bahrain | 62 |
 | 15 | [a7madev](https://github.com/a7madev) | Ahmad Gerashi | Bahrain | 53 |
 | 16 | [almadhoob](https://github.com/almadhoob) | Ahmed Almadhoob | Manama, Bahrain | 51 |
@@ -83,4 +83,4 @@ Indexed users: 727
 | 19 | [f-9t9it](https://github.com/f-9t9it) | 9T9 IT | Bahrain | 42 |
 | 20 | [ameenaltajer](https://github.com/ameenaltajer) | Ameen Altajer | Bahrain | 39 |
 
-Generated: 2026-10-15T07:07:10.364Z
+Generated: 2026-10-15T08:35:24.008Z

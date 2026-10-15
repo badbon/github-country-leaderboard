@@ -55,7 +55,7 @@ Indexed users: 186
 | 16 | [adi-pr](https://github.com/adi-pr) | Aditya (Ruben) Prasad | Guyana | 266 |
 | 17 | [billydavis](https://github.com/billydavis) | Billy Davis | Georgetown, Texas | 262 |
 | 18 | [codedbychavez](https://github.com/codedbychavez) | Chavez Harris | Guyana | 251 |
-| 19 | [amberhinds](https://github.com/amberhinds) | Amber Hinds | Georgetown, TX | 222 |
+| 19 | [amberhinds](https://github.com/amberhinds) | Amber Hinds | Georgetown, TX | 221 |
 | 20 | [pachev](https://github.com/pachev) | Pachev Joseph | Georgetown, TX | 206 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 186
 | 19 | [Alien-nick](https://github.com/Alien-nick) | Nicholas Seetaram | South America, Guyana, Georgetown | 22 |
 | 20 | [duncanfinney](https://github.com/duncanfinney) | Duncan Finney | Georgetown, CO | 22 |
 
-Generated: 2026-10-15T07:32:53.233Z
+Generated: 2026-10-15T08:58:58.690Z

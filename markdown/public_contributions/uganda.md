@@ -1,15 +1,15 @@
 # Public Contributions - Uganda
 
-Generated: 2026-10-15T06:55:53.925Z
+Generated: 2026-10-15T08:23:52.871Z
 
 Users: 3872
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [GaspardKirira](https://github.com/GaspardKirira) | G-kirira | @vixcpp @softadastra | g_kirira | Africa / Uganda / Kampala | 7825 |
-| 2 | [pius22](https://github.com/pius22) | TECH-WORLDINFO | TECH-WORLDINFO |  | uganda | 5725 |
-| 3 | [Baalmart](https://github.com/Baalmart) | Martin Bbaale |  |  | Kampala | 5695 |
-| 4 | [matovu-farid](https://github.com/matovu-farid) | Farid Matovu | Dabblelab | matovu100 | Uganda | 5312 |
+| 2 | [matovu-farid](https://github.com/matovu-farid) | Farid Matovu | Dabblelab | matovu100 | Uganda | 5929 |
+| 3 | [pius22](https://github.com/pius22) | TECH-WORLDINFO | TECH-WORLDINFO |  | uganda | 5725 |
+| 4 | [Baalmart](https://github.com/Baalmart) | Martin Bbaale |  |  | Kampala | 5695 |
 | 5 | [BAGOMBEKA-JOB-DEV](https://github.com/BAGOMBEKA-JOB-DEV) | BAGOMBEKA JOB | @SMSONE  |  | KAMPALA, UGANDA | 4890 |
 | 6 | [agabaandre](https://github.com/agabaandre) | Agaba Andre |  |  | Kampala | 3882 |
 | 7 | [Mucunguzi256](https://github.com/Mucunguzi256) | Mucunguzi Moses |  | mucu256 | UGANDA | 3545 |
@@ -25,4 +25,4 @@ Users: 3872
 | 17 | [herberthk](https://github.com/herberthk) | Kavuma Herbert | Netbritz |  | Kampala | 1958 |
 | 18 | [danielmarv](https://github.com/danielmarv) | Daniel Ntege | @OpenElements | danielmarvin785 | Kampala | 1947 |
 | 19 | [Joshkovu](https://github.com/Joshkovu) | Kuteesa Joash | Wota creators Technologies  | JoashKutee80790 | uganda  | 1933 |
-| 20 | [kallyas](https://github.com/kallyas) | Iden | @SolitonTelmecUganda  | kallyasl | Uganda | 1930 |
+| 20 | [Codebmk](https://github.com/Codebmk) | Belinda Marion Kobusingye | @ReadBuddy, @airqo-platform | belindamarionk | Kampala, Uganda | 1904 |

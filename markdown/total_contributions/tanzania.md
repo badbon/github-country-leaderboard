@@ -1,6 +1,6 @@
 # Total Contributions - Tanzania
 
-Generated: 2026-10-15T06:53:21.200Z
+Generated: 2026-10-15T08:21:18.198Z
 
 Users: 2041
 
@@ -25,4 +25,4 @@ Users: 2041
 | 17 | [elishagerson](https://github.com/elishagerson) | Elisha Gerson |  |  | Mbeya, Tanzania | 7797 |
 | 18 | [Bulalu](https://github.com/Bulalu) |  |  | elisha_bulalu | Dar-es-Salaam,Tanzania | 7623 |
 | 19 | [victorjudysen](https://github.com/victorjudysen) | Victor Kweka | ThisUncle Technologies |  | Dodoma, Tanzania | 7534 |
-| 20 | [alobit21](https://github.com/alobit21) | Aloyce Mtavangu | Tarxemo Software Company  |  | Dodoma-Tanzania | 7408 |
+| 20 | [josedaudi](https://github.com/josedaudi) | Joseph Daudi | @enciphertz @pawsofttz  |  | Tanzania | 7416 |
