@@ -19,7 +19,7 @@ Indexed users: 3,519
 | 5 | [Timtech4u](https://github.com/Timtech4u) | Timothy Olaleke | Kigali, Rwanda | 17,863 |
 | 6 | [jazzybruno](https://github.com/jazzybruno) | Jazzy Bruno | Kigali , Rwanda | 13,969 |
 | 7 | [Krasivaya](https://github.com/Krasivaya) | Carine SEMWAGA | Rwanda | 11,697 |
-| 8 | [iAmNsengi](https://github.com/iAmNsengi) | Eliezer Nsengi | Kigali, Rwanda | 9,290 |
+| 8 | [iAmNsengi](https://github.com/iAmNsengi) | Eliezer Nsengi | Kigali, Rwanda | 9,545 |
 | 9 | [Icyubahiro-Jay-P](https://github.com/Icyubahiro-Jay-P) | JAY P | Kigali, Rwanda | 9,232 |
 | 10 | [codeWithEdison](https://github.com/codeWithEdison) | Edison UWIHANGANYE | Rwanda | 9,203 |
 | 11 | [EucTech](https://github.com/EucTech) | Ezeibe Uchechukwu | Kigali, Rwanda | 9,071 |
@@ -83,4 +83,4 @@ Indexed users: 3,519
 | 19 | [ghislainb-cracker](https://github.com/ghislainb-cracker) | Ghislain Byimbo | Rwanda | 316 |
 | 20 | [shemaikuzwe](https://github.com/shemaikuzwe) | Ikuzwe shema Elie | rwanda | 314 |
 
-Generated: 2026-10-15T14:46:56.578Z
+Generated: 2026-10-15T16:15:16.540Z

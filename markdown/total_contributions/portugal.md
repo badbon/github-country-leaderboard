@@ -1,6 +1,6 @@
 # Total Contributions - Portugal
 
-Generated: 2026-10-15T14:44:35.128Z
+Generated: 2026-10-15T16:13:10.214Z
 
 Users: 28448
 

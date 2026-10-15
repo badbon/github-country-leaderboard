@@ -1,6 +1,6 @@
 # Total Contributions - Rwanda
 
-Generated: 2026-10-15T14:46:56.578Z
+Generated: 2026-10-15T16:15:16.540Z
 
 Users: 3519
 
@@ -13,7 +13,7 @@ Users: 3519
 | 5 | [Timtech4u](https://github.com/Timtech4u) | Timothy Olaleke |  |  | Kigali, Rwanda | 17863 |
 | 6 | [jazzybruno](https://github.com/jazzybruno) | Jazzy Bruno | @Rwanda_Coding_Academy |  | Kigali , Rwanda | 13969 |
 | 7 | [Krasivaya](https://github.com/Krasivaya) | Carine SEMWAGA |  |  | Rwanda | 11697 |
-| 8 | [iAmNsengi](https://github.com/iAmNsengi) | Eliezer Nsengi | KB21 |  | Kigali, Rwanda | 9290 |
+| 8 | [iAmNsengi](https://github.com/iAmNsengi) | Eliezer Nsengi | KB21 |  | Kigali, Rwanda | 9545 |
 | 9 | [Icyubahiro-Jay-P](https://github.com/Icyubahiro-Jay-P) | JAY P | Diolichat |  | Kigali, Rwanda | 9232 |
 | 10 | [codeWithEdison](https://github.com/codeWithEdison) | Edison UWIHANGANYE | UR Binary Hub |  | Rwanda | 9203 |
 | 11 | [EucTech](https://github.com/EucTech) | Ezeibe Uchechukwu |  | Euc_Tech | Kigali, Rwanda | 9071 |

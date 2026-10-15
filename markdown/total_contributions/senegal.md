@@ -1,6 +1,6 @@
 # Total Contributions - Senegal
 
-Generated: 2026-10-15T14:50:09.897Z
+Generated: 2026-10-15T16:19:43.971Z
 
 Users: 1357
 
@@ -19,10 +19,10 @@ Users: 1357
 | 11 | [touskar](https://github.com/touskar) | Moussa Ndour DSI at INTech Group | Moussa Ndour |  | Dakar | 5557 |
 | 12 | [i2sac](https://github.com/i2sac) | Louis Issac Jean Samba DIOUF | Zone01 Dakar | okinobal | Dakar, Senegal | 5296 |
 | 13 | [elias-ba](https://github.com/elias-ba) | Elias Waly Ba | @OpenFn | eliaswalyba | Dakar, Senegal | 5184 |
-| 14 | [ZooM982](https://github.com/ZooM982) | Revhieno Roll Haurly MBOUTA  |  |  | Dakar, Sénégal | 4863 |
-| 15 | [crossben](https://github.com/crossben) |  |  |  | Dakar | 4785 |
+| 14 | [crossben](https://github.com/crossben) |  |  |  | Dakar | 4869 |
+| 15 | [ZooM982](https://github.com/ZooM982) | Revhieno Roll Haurly MBOUTA  |  |  | Dakar, Sénégal | 4863 |
 | 16 | [lamine-f](https://github.com/lamine-f) | Mouhamed Lamine Faye | Ecole Supérieure Polytechnique |  | Sénégal - Dakar | 4525 |
-| 17 | [Zoubeir23](https://github.com/Zoubeir23) | ZOUBEIR IBRAHIMA | ISI |  | Sénegale, Dakar | 4387 |
-| 18 | [madicke12](https://github.com/madicke12) | Madicke Cisse | Ridwan Technologie |  | Dakar | 4228 |
+| 17 | [madicke12](https://github.com/madicke12) | Madicke Cisse | Ridwan Technologie |  | Dakar | 4409 |
+| 18 | [Zoubeir23](https://github.com/Zoubeir23) | ZOUBEIR IBRAHIMA | ISI |  | Sénegale, Dakar | 4387 |
 | 19 | [eliusxpol](https://github.com/eliusxpol) | Elhadji Ibrahima Ndiaye | @efficity | eliusx | Senegal | 4201 |
 | 20 | [lonie12](https://github.com/lonie12) | Yxie |  | lonie73919967 | Dakar, Senegal | 4147 |

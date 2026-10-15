@@ -24,7 +24,7 @@ Indexed users: 298
 | 10 | [OrionWambert](https://github.com/OrionWambert) | Orion WAMBERT | Brazzaville - Congo | 2,899 |
 | 11 | [Merite15](https://github.com/Merite15) | Merite | Brazzaville, Congo | 2,861 |
 | 12 | [Elisee01](https://github.com/Elisee01) | Kitoga Elisee | Kigali, Rwanda \| Congo, Kinshasa | 2,453 |
-| 13 | [Cesar008](https://github.com/Cesar008) | Cesar Grace Louzala | Congo | 2,298 |
+| 13 | [Cesar008](https://github.com/Cesar008) | Cesar Grace Louzala | Congo | 2,299 |
 | 14 | [sancty007](https://github.com/sancty007) | sanctifier Yaw-Mensah | Congo Brazzaville  | 2,294 |
 | 15 | [josuebrunel](https://github.com/josuebrunel) | Josue Kouka | Pointe-Noire (Congo) | 2,247 |
 | 16 | [gedeon2306](https://github.com/gedeon2306) | JihrelDev | Brazzaville | 1,944 |
@@ -47,10 +47,10 @@ Indexed users: 298
 | 8 | [SedeoLeos](https://github.com/SedeoLeos) | Slaega | Brazzaville congo | 451 |
 | 9 | [Flammeduciel](https://github.com/Flammeduciel) | Flamme Du Ciel WASS | Brazzaville CG | 385 |
 | 10 | [lafondcodeur](https://github.com/lafondcodeur) | MACK LAFOND De Boumas | Brazzaville | 360 |
-| 11 | [denniskoech457](https://github.com/denniskoech457) | Extravaganza | Congo | 343 |
+| 11 | [denniskoech457](https://github.com/denniskoech457) | Extravaganza | Congo | 352 |
 | 12 | [leloeduk](https://github.com/leloeduk) | Lelo  | Congo | 311 |
 | 13 | [lepresk](https://github.com/lepresk) | Logan CodeMaker | Brazzaville, Congo | 286 |
-| 14 | [Chadrac-WAKOMYA](https://github.com/Chadrac-WAKOMYA) | KIGHUNDILA WAKOMYA Chadrac | Congo | 255 |
+| 14 | [Chadrac-WAKOMYA](https://github.com/Chadrac-WAKOMYA) | KIGHUNDILA WAKOMYA Chadrac | Congo | 254 |
 | 15 | [babacleven](https://github.com/babacleven) | BABA Aristote Cleven  | Congo-Brazzaville | 225 |
 | 16 | [chronoss09](https://github.com/chronoss09) | Chronoss | Congo | 217 |
 | 17 | [Ssnnee](https://github.com/Ssnnee) | Samuel Nandi | Republic of the Congo | 200 |
@@ -83,4 +83,4 @@ Indexed users: 298
 | 19 | [Ssnnee](https://github.com/Ssnnee) | Samuel Nandi | Republic of the Congo | 26 |
 | 20 | [WinnersProx](https://github.com/WinnersProx) | Vainqueur Bihame | Kigali,Rwanda,Congo | 25 |
 
-Generated: 2026-10-15T14:46:05.047Z
+Generated: 2026-10-15T16:14:01.007Z

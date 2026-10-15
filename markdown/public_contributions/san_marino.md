@@ -1,6 +1,6 @@
 # Public Contributions - San Marino
 
-Generated: 2026-10-15T14:48:52.819Z
+Generated: 2026-10-15T16:19:08.609Z
 
 Users: 61
 
@@ -17,7 +17,7 @@ Users: 61
 | 9 | [Llandy3d](https://github.com/Llandy3d) | Llandy Riveron Del Risco | @grafana | llandy3d | San Marino | 101 |
 | 10 | [N1K0232](https://github.com/N1K0232) | Nico |  | N1K0232 | Repubblica di San Marino | 88 |
 | 11 | [lucabio](https://github.com/lucabio) | Luca |  |  | San Marino | 75 |
-| 12 | [pigorg](https://github.com/pigorg) | alessandro gnola |  |  | san marino | 66 |
+| 12 | [pigorg](https://github.com/pigorg) | alessandro gnola |  |  | san marino | 71 |
 | 13 | [mcdado](https://github.com/mcdado) | David Gasperoni |  |  | San Marino (SMR) <✈️> Madrid, Spain | 50 |
 | 14 | [salugea](https://github.com/salugea) | Salugea | Salugea |  | San Marino | 45 |
 | 15 | [gerza-lab](https://github.com/gerza-lab) | adam gerza |  | adamgerza | San Marino, CA | 44 |
