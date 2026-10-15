@@ -21751,7 +21751,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 39,
+    "privateContributions": 55,
     "publicContributions": 22,
     "createdAt": "2021-03-14T21:33:22Z"
   },
@@ -21763,7 +21763,7 @@
     "company": "Rave Build",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 0,
+    "privateContributions": 2,
     "publicContributions": 8,
     "createdAt": "2021-05-04T22:47:08Z"
   },
@@ -21775,8 +21775,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 3164,
-    "publicContributions": 68,
+    "privateContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2021-02-22T09:37:52Z"
   },
   {
@@ -21812,7 +21812,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 115,
+    "publicContributions": 124,
     "createdAt": "2021-11-14T11:42:10Z"
   },
   {
@@ -21859,8 +21859,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 8,
-    "publicContributions": 19,
+    "privateContributions": 5,
+    "publicContributions": 23,
     "createdAt": "2021-03-20T22:37:23Z"
   },
   {
@@ -21870,7 +21870,7 @@
     "location": "Auckland, New Zealand",
     "company": "Ops! Something went wrong!",
     "twitterUsername": "FMeshreky",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-06-18T03:44:54Z"
@@ -21895,21 +21895,9 @@
     "company": "@HnryNZ",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 78,
-    "publicContributions": 394,
+    "privateContributions": 21,
+    "publicContributions": 330,
     "createdAt": "2021-02-22T04:42:31Z"
-  },
-  {
-    "login": "terencequ",
-    "name": "Terence Qu",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/77520670?s=72&u=7b5451b1883c25f43bab90d3b694b735ae47b0b9&v=4",
-    "location": "Auckland, New Zealand",
-    "company": "Tidy International",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 32,
-    "createdAt": "2021-01-16T03:01:39Z"
   },
   {
     "login": "Happybajwa",
@@ -21919,8 +21907,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 161,
-    "publicContributions": 12,
+    "privateContributions": 160,
+    "publicContributions": 3,
     "createdAt": "2021-08-31T05:37:36Z"
   },
   {
@@ -21956,7 +21944,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 601,
+    "publicContributions": 754,
     "createdAt": "2021-01-19T16:47:53Z"
   },
   {

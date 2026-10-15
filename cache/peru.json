@@ -21548,7 +21548,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 3,
-    "publicContributions": 9,
+    "publicContributions": 1,
     "createdAt": "2023-05-18T15:12:02Z"
   },
   {
@@ -21572,7 +21572,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 0,
     "createdAt": "2023-09-15T22:26:54Z"
   },
   {
@@ -21596,7 +21596,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2023-02-07T16:31:57Z"
   },
   {
@@ -21608,7 +21608,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 353,
+    "publicContributions": 440,
     "createdAt": "2023-01-19T21:01:09Z"
   },
   {
@@ -21618,9 +21618,9 @@
     "location": "Lima, Perú",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 685,
-    "publicContributions": 127,
+    "followers": 2,
+    "privateContributions": 1481,
+    "publicContributions": 89,
     "createdAt": "2023-04-30T00:34:24Z"
   },
   {
@@ -21632,7 +21632,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 17,
     "createdAt": "2023-05-04T05:39:36Z"
   },
   {
@@ -21643,8 +21643,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 621,
-    "publicContributions": 31,
+    "privateContributions": 758,
+    "publicContributions": 29,
     "createdAt": "2023-01-05T16:58:19Z"
   },
   {
@@ -21668,7 +21668,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 39,
     "createdAt": "2023-05-01T15:34:37Z"
   },
   {
@@ -21704,7 +21704,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 38,
+    "publicContributions": 32,
     "createdAt": "2023-03-07T00:59:10Z"
   },
   {
@@ -21716,12 +21716,12 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 0,
     "createdAt": "2023-03-06T17:15:53Z"
   },
   {
     "login": "SergioCodeGX",
-    "name": "SergioDevEngineer",
+    "name": "Sergio Monroy",
     "avatarUrl": "https://avatars.githubusercontent.com/u/132532322?s=72&u=49b5a2ab118e17374ed6bd904149bbfad7c1f96e&v=4",
     "location": "Lima - Perú",
     "company": "",
@@ -21732,18 +21732,6 @@
     "createdAt": "2023-05-04T02:30:18Z"
   },
   {
-    "login": "Petanini",
-    "name": "Robert Diaz",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/136828973?s=72&u=fd59166e9fec5c79a2f32a83cd6212e654950e13&v=4",
-    "location": "Lima",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 16,
-    "createdAt": "2023-06-16T14:52:17Z"
-  },
-  {
     "login": "Bran-Mak-Morn",
     "name": "Jiří Svoboda",
     "avatarUrl": "https://avatars.githubusercontent.com/u/134262508?s=72&u=f5145ac5a04b9154524e5c309ff4183f2c295140&v=4",
@@ -21752,7 +21740,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 166,
+    "publicContributions": 214,
     "createdAt": "2023-05-22T06:52:23Z"
   },
   {
@@ -21763,7 +21751,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
+    "privateContributions": 3,
     "publicContributions": 0,
     "createdAt": "2023-08-25T05:10:32Z"
   },

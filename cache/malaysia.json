@@ -21620,7 +21620,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 1,
     "createdAt": "2023-03-11T17:03:24Z"
   },
   {
@@ -21668,7 +21668,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 48,
+    "publicContributions": 55,
     "createdAt": "2023-11-29T18:50:56Z"
   },
   {
@@ -21690,22 +21690,10 @@
     "location": "Kuala Lumpur, Malaysia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 18,
     "createdAt": "2023-05-11T09:01:00Z"
-  },
-  {
-    "login": "Darrshan23",
-    "name": "Darrshan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/129675691?s=72&u=a200c31f1f247bd1e29a2e0e0a1175be90e4cda2&v=4",
-    "location": "Malaysia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 18,
-    "publicContributions": 54,
-    "createdAt": "2023-04-02T14:56:00Z"
   },
   {
     "login": "Pezewe",
@@ -21740,12 +21728,12 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 748,
+    "publicContributions": 747,
     "createdAt": "2023-05-05T06:46:51Z"
   },
   {
     "login": "tecksang",
-    "name": "Lionel Dickson",
+    "name": "Black",
     "avatarUrl": "https://avatars.githubusercontent.com/u/130018661?s=72&u=2473197394d0501416210702d36be1838f7ed2be&v=4",
     "location": "Malaysia",
     "company": "",
@@ -21776,7 +21764,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 0,
     "createdAt": "2023-11-29T01:23:45Z"
   },
   {
@@ -21788,7 +21776,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 85,
+    "publicContributions": 61,
     "createdAt": "2023-11-30T02:47:44Z"
   },
   {
@@ -21823,8 +21811,8 @@
     "company": "International Islamic University Malaysia",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 415,
+    "privateContributions": 1,
+    "publicContributions": 577,
     "createdAt": "2023-09-14T13:58:18Z"
   },
   {
@@ -21848,7 +21836,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 5,
     "createdAt": "2023-12-21T08:35:36Z"
   },
   {

@@ -21727,8 +21727,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 45,
-    "publicContributions": 143,
+    "privateContributions": 3,
+    "publicContributions": 155,
     "createdAt": "2022-10-25T16:16:41Z"
   },
   {
@@ -21800,7 +21800,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 156,
+    "publicContributions": 157,
     "createdAt": "2022-10-13T17:59:11Z"
   },
   {
@@ -21812,7 +21812,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 16,
     "createdAt": "2022-09-07T20:56:20Z"
   },
   {
@@ -21872,7 +21872,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 393,
-    "publicContributions": 32,
+    "publicContributions": 24,
     "createdAt": "2022-10-29T10:45:23Z"
   },
   {
@@ -21882,9 +21882,9 @@
     "location": "Kigali",
     "company": "@Digital-Umuganda ",
     "twitterUsername": "trojan0x",
-    "followers": 93,
-    "privateContributions": 850,
-    "publicContributions": 65,
+    "followers": 97,
+    "privateContributions": 674,
+    "publicContributions": 64,
     "createdAt": "2022-08-14T17:42:53Z"
   },
   {
@@ -21894,20 +21894,20 @@
     "location": "Kigali",
     "company": "",
     "twitterUsername": "",
-    "followers": 60,
-    "privateContributions": 22,
-    "publicContributions": 53,
+    "followers": 57,
+    "privateContributions": 19,
+    "publicContributions": 50,
     "createdAt": "2022-10-18T20:32:10Z"
   },
   {
     "login": "Perfectizihirwe",
     "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/98801724?s=72&u=eee73d29003cc12b39170757ca382115d221e671&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/98801724?s=72&u=52f65194a483caeee2b59206e6a4bc1537004308&v=4",
     "location": "Kigali, Kicukiro ",
     "company": "Rwanda ICT Chamber",
     "twitterUsername": "",
-    "followers": 50,
-    "privateContributions": 387,
+    "followers": 54,
+    "privateContributions": 376,
     "publicContributions": 0,
     "createdAt": "2022-02-01T07:03:26Z"
   },
@@ -21919,21 +21919,9 @@
     "company": "",
     "twitterUsername": "KabanoFesto",
     "followers": 44,
-    "privateContributions": 646,
-    "publicContributions": 659,
+    "privateContributions": 687,
+    "publicContributions": 803,
     "createdAt": "2022-11-14T16:42:26Z"
-  },
-  {
-    "login": "phanuelnd",
-    "name": "Phanuel",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/98156874?s=72&u=65f4598d5cfa18ae37bd3e234c69596b3f4bff21&v=4",
-    "location": "Kigali City",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 42,
-    "privateContributions": 861,
-    "publicContributions": 24,
-    "createdAt": "2022-01-21T10:24:15Z"
   },
   {
     "login": "Dorcas126",
@@ -21955,7 +21943,7 @@
     "company": "Irembo",
     "twitterUsername": "",
     "followers": 37,
-    "privateContributions": 1034,
+    "privateContributions": 905,
     "publicContributions": 0,
     "createdAt": "2022-07-10T21:26:54Z"
   },
