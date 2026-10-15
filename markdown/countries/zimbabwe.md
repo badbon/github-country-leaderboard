@@ -1,6 +1,6 @@
 # Zimbabwe
 
-Indexed users: 1,654
+Indexed users: 1,655
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 1,654
 | 19 | [zim-bot](https://github.com/zim-bot) | DRIPS MEMES BLENNIE BLESSED TUNA | Zimbabwe | 110 |
 | 20 | [KudakwasheM](https://github.com/KudakwasheM) | Kudakwashe Masaya | Harare | 105 |
 
-Generated: 2026-10-15T18:52:52.852Z
+Generated: 2026-10-15T20:00:17.604Z
