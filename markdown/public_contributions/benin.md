@@ -1,6 +1,6 @@
 # Public Contributions - Benin
 
-Generated: 2026-10-15T20:22:35.622Z
+Generated: 2026-10-15T21:41:15.676Z
 
 Users: 471
 
@@ -18,10 +18,10 @@ Users: 471
 | 10 | [Abdoul-wakilou](https://github.com/Abdoul-wakilou) | AbDev - Freelance | AbDev - Freelance | abdev229 | Cotonou, Benin | 1066 |
 | 11 | [fhermas22](https://github.com/fhermas22) | Hermas Francisco | HERNOTIX Tech | F_hermas22 | Abomey-Calavi, Benin | 975 |
 | 12 | [silassare](https://github.com/silassare) | Emile Silas Sare | @oliup-io  | silassare | Porto-Novo, Benin | 967 |
-| 13 | [Bestbeedev](https://github.com/Bestbeedev) | AOGA Oluwafèmi Josuée |  |  | Abomey-Calavi, Atlantique, Benin | 887 |
-| 14 | [devalade](https://github.com/devalade) | Alade YESSOUFOU |  | dev_alade | Cotonou,Littoral, Benin | 793 |
-| 15 | [Bellox1](https://github.com/Bellox1) | Matinou BELLO | BELLOX |  | Cotonou,Littoral, Benin | 782 |
-| 16 | [eldomagan](https://github.com/eldomagan) | Eldo Magan |  | EldoMagan | Cotonou, Benin | 739 |
+| 13 | [devalade](https://github.com/devalade) | Alade YESSOUFOU |  | dev_alade | Cotonou,Littoral, Benin | 793 |
+| 14 | [Bellox1](https://github.com/Bellox1) | Matinou BELLO | BELLOX |  | Cotonou,Littoral, Benin | 782 |
+| 15 | [eldomagan](https://github.com/eldomagan) | Eldo Magan |  | EldoMagan | Cotonou, Benin | 739 |
+| 16 | [Bestbeedev](https://github.com/Bestbeedev) | AOGA Oluwafèmi Josuée |  |  | Abomey-Calavi, Atlantique, Benin | 737 |
 | 17 | [koladev32](https://github.com/koladev32) | Mangabo  Kolawole |  | koladev32 | Benin, Cotonou | 594 |
 | 18 | [AxelSalim](https://github.com/AxelSalim) | ADJAKIDJE K. Axel S. H. |  | iamaxelsalim | Benin | 592 |
 | 19 | [delsDin](https://github.com/delsDin) | Dels Dinla |  |  | Benin | 588 |

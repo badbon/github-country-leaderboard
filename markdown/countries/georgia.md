@@ -21,16 +21,16 @@ Indexed users: 6,890
 | 7 | [apovalov](https://github.com/apovalov) | Valentin Shapovalov | Tbilisi, Georgia | 19,325 |
 | 8 | [NSchatz](https://github.com/NSchatz) | Noah Schatz | Georgia | 14,272 |
 | 9 | [thedavidmeister](https://github.com/thedavidmeister) | David Meister | Tbilisi | 13,937 |
-| 10 | [asyncfinkd](https://github.com/asyncfinkd) | Nika Shamiladze | Georgia | 12,903 |
-| 11 | [Krut](https://github.com/Krut) | Michael Krautwald | Tbilisi, Georgia | 12,892 |
-| 12 | [z12ob](https://github.com/z12ob) | Guram Melikidze | Tbilisi | 12,688 |
-| 13 | [Chkhikvadzeg](https://github.com/Chkhikvadzeg) | Giorgi Chkhikvadze | Tbilisi, Georgia | 12,539 |
-| 14 | [badbon](https://github.com/badbon) | bolko | Georgia | 12,412 |
-| 15 | [skulidropek](https://github.com/skulidropek) | Skuli Dropek | Tbilisi | 12,249 |
-| 16 | [irakli-lekishvili](https://github.com/irakli-lekishvili) | Irakli Lekishvili | Tbilisi, Georgia | 11,858 |
-| 17 | [kevinthelago](https://github.com/kevinthelago) | Kevin Lago | Georgia | 11,451 |
-| 18 | [JEuler](https://github.com/JEuler) | Ivan Terekhin | Tbilisi, Georgia | 11,295 |
-| 19 | [l0rtk](https://github.com/l0rtk) | Luka Lortkipanidze | Ambrolauri,Georgia | 11,294 |
+| 10 | [l0rtk](https://github.com/l0rtk) | Luka Lortkipanidze | Ambrolauri,Georgia | 13,618 |
+| 11 | [asyncfinkd](https://github.com/asyncfinkd) | Nika Shamiladze | Georgia | 12,903 |
+| 12 | [Krut](https://github.com/Krut) | Michael Krautwald | Tbilisi, Georgia | 12,892 |
+| 13 | [z12ob](https://github.com/z12ob) | Guram Melikidze | Tbilisi | 12,688 |
+| 14 | [Chkhikvadzeg](https://github.com/Chkhikvadzeg) | Giorgi Chkhikvadze | Tbilisi, Georgia | 12,539 |
+| 15 | [badbon](https://github.com/badbon) | bolko | Georgia | 12,412 |
+| 16 | [skulidropek](https://github.com/skulidropek) | Skuli Dropek | Tbilisi | 12,249 |
+| 17 | [irakli-lekishvili](https://github.com/irakli-lekishvili) | Irakli Lekishvili | Tbilisi, Georgia | 11,858 |
+| 18 | [kevinthelago](https://github.com/kevinthelago) | Kevin Lago | Georgia | 11,451 |
+| 19 | [JEuler](https://github.com/JEuler) | Ivan Terekhin | Tbilisi, Georgia | 11,295 |
 | 20 | [lexfrei](https://github.com/lexfrei) | Aleksei Sviridkin | Tbilisi | 11,195 |
 
 ## Public Contributions
@@ -83,4 +83,4 @@ Indexed users: 6,890
 | 19 | [h-mdm](https://github.com/h-mdm) | Headwind MDM | Iustine Abuladze st. N15, Tbilisi, Georgia | 396 |
 | 20 | [jkomyno](https://github.com/jkomyno) | Alberto Schiabel | Tbilisi, Georgia | 392 |
 
-Generated: 2026-10-15T20:14:08.184Z
+Generated: 2026-10-15T21:33:39.641Z

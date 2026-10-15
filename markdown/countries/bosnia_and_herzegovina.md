@@ -1,6 +1,6 @@
 # Bosnia and Herzegovina
 
-Indexed users: 2,128
+Indexed users: 2,127
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 2,128
 | 19 | [Mickey0001](https://github.com/Mickey0001) | Mirza Sisic | Sarajevo, Bosnia and Herzegovina  | 122 |
 | 20 | [sake92](https://github.com/sake92) | Sakib Hadžiavdić | Sarajevo, Bosnia | 118 |
 
-Generated: 2026-10-15T20:22:53.472Z
+Generated: 2026-10-15T21:42:39.585Z

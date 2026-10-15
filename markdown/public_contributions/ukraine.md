@@ -1,6 +1,6 @@
 # Public Contributions - Ukraine
 
-Generated: 2026-10-15T20:10:05.457Z
+Generated: 2026-10-15T21:30:27.583Z
 
 Users: 47758
 
@@ -24,5 +24,5 @@ Users: 47758
 | 16 | [Rinary1](https://github.com/Rinary1) | Rinary | @ss14Starlight  |  | Ukraine | 5907 |
 | 17 | [ivankovnatsky](https://github.com/ivankovnatsky) | Ivan Kovnatsky |  |  | Ukraine | 5560 |
 | 18 | [dz333n](https://github.com/dz333n) | Yaroslav Kibysh |  |  | Ukraine | 5164 |
-| 19 | [AvatarSD](https://github.com/AvatarSD) | avatarsd |  |  | Ukraine, Kyiv | 4965 |
-| 20 | [MightComeback](https://github.com/MightComeback) | Ivan Kuznetsov |  |  | Ukraine | 4867 |
+| 19 | [eqlectika](https://github.com/eqlectika) | Yevgeniy Korobka | Design |  | Kharkiv | 5128 |
+| 20 | [AvatarSD](https://github.com/AvatarSD) | avatarsd |  |  | Ukraine, Kyiv | 4965 |

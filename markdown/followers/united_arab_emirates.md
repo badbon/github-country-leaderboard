@@ -1,6 +1,6 @@
 # Followers - United Arab Emirates
 
-Generated: 2026-10-15T20:10:41.205Z
+Generated: 2026-10-15T21:30:34.032Z
 
 Users: 4231
 
@@ -25,4 +25,4 @@ Users: 4231
 | 17 | [sweelam](https://github.com/sweelam) | Sweelam | Tamara UAE |  | United Arab Emirates | 381 |
 | 18 | [kh4sh3i](https://github.com/kh4sh3i) | mohsen khashei | jetamooz | kh4sh3i_ | United Arab Emirates | 378 |
 | 19 | [FrayxRulez](https://github.com/FrayxRulez) | Fela |  |  | Dubai, United Arab Emirates | 366 |
-| 20 | [garylab](https://github.com/garylab) | Gary Meng | G42 | garymengcom | Abu Dhabi, UAE | 360 |
+| 20 | [yusufusta](https://github.com/yusufusta) | Yusuf Usta |  | fuszf | Dubai, United Arab Emirates | 361 |

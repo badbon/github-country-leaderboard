@@ -21,15 +21,15 @@ Indexed users: 9,523
 | 7 | [IxtiyorXaitov](https://github.com/IxtiyorXaitov) | Ixtiyor Xaitov | Tashkent, Uzbekistan | 12,331 |
 | 8 | [Rustam-Fozilov](https://github.com/Rustam-Fozilov) | Rustam Fozilov | Uzbekistan, Tashkent | 12,001 |
 | 9 | [ulugbek0217](https://github.com/ulugbek0217) | Ulug'bek Raxmankulov | Samarkand, Uzbekistan | 10,731 |
-| 10 | [phanthom335](https://github.com/phanthom335) | phanthom | Uzbekistan | 10,118 |
-| 11 | [golibnarzullayev](https://github.com/golibnarzullayev) | G'olib Narzullayev | Uzbekistan | 10,053 |
-| 12 | [gamerhackuz](https://github.com/gamerhackuz) | Mosa | Xonqa, Xorazm, Uzbekistan | 10,001 |
-| 13 | [RahimovShaxriyor](https://github.com/RahimovShaxriyor) | Shaxriyor  | Uzbekistan | 9,624 |
-| 14 | [itsakbarov](https://github.com/itsakbarov) | Sardor | Tashkent, Uzbekistan | 9,240 |
-| 15 | [ummataliyev](https://github.com/ummataliyev) | Umidjon Ummataliyev | Tashkent | 9,032 |
-| 16 | [Dave93](https://github.com/Dave93) | Davron Yuldashev | Tashkent, Uzbekistan | 8,867 |
-| 17 | [lexoice](https://github.com/lexoice) | Alexey | Uzbekistan Tashkent | 8,555 |
-| 18 | [pdlpad](https://github.com/pdlpad) | Alitus Black | Uzbekistan, Tashkent | 8,535 |
+| 10 | [pdlpad](https://github.com/pdlpad) | Alitus Black | Uzbekistan, Tashkent | 10,244 |
+| 11 | [phanthom335](https://github.com/phanthom335) | phanthom | Uzbekistan | 10,118 |
+| 12 | [golibnarzullayev](https://github.com/golibnarzullayev) | G'olib Narzullayev | Uzbekistan | 10,053 |
+| 13 | [gamerhackuz](https://github.com/gamerhackuz) | Mosa | Xonqa, Xorazm, Uzbekistan | 10,001 |
+| 14 | [RahimovShaxriyor](https://github.com/RahimovShaxriyor) | Shaxriyor  | Uzbekistan | 9,624 |
+| 15 | [itsakbarov](https://github.com/itsakbarov) | Sardor | Tashkent, Uzbekistan | 9,240 |
+| 16 | [ummataliyev](https://github.com/ummataliyev) | Umidjon Ummataliyev | Tashkent | 9,032 |
+| 17 | [Dave93](https://github.com/Dave93) | Davron Yuldashev | Tashkent, Uzbekistan | 8,867 |
+| 18 | [lexoice](https://github.com/lexoice) | Alexey | Uzbekistan Tashkent | 8,555 |
 | 19 | [azimRR](https://github.com/azimRR) | Abduazim Islomjonov | Tashkent | 8,475 |
 | 20 | [pohlebkin](https://github.com/pohlebkin) | Boris Borisov | Uzbekistan | 7,999 |
 
@@ -83,4 +83,4 @@ Indexed users: 9,523
 | 19 | [Andrey0189](https://github.com/Andrey0189) | Andrew | Tashkent | 310 |
 | 20 | [mukhtorov](https://github.com/mukhtorov) | Sardor | Tashkent, Uzbekistan | 299 |
 
-Generated: 2026-10-15T20:11:40.775Z
+Generated: 2026-10-15T21:31:47.851Z

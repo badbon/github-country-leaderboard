@@ -1,8 +1,8 @@
 # Public Contributions - South Korea
 
-Generated: 2026-10-15T20:00:23.655Z
+Generated: 2026-10-15T21:22:11.725Z
 
-Users: 56924
+Users: 56922
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -22,7 +22,7 @@ Users: 56924
 | 14 | [dahlia](https://github.com/dahlia) | Hong Minhee (洪 民憙) | @fedify-dev | hongminhee | Seoul, Republic of Korea | 15102 |
 | 15 | [hletrd](https://github.com/hletrd) | Jiyong Youn | Maum.AI Inc. |  | Seoul, Korea | 14128 |
 | 16 | [svy04](https://github.com/svy04) | 오영웅 (woogie) | mycream.ai |  | seoul | 13827 |
-| 17 | [mangowhoiscloud](https://github.com/mangowhoiscloud) | mango | Rakuten Symphony Korea |  | Gangnam, Seoul, South Korea | 13148 |
-| 18 | [ken-jo](https://github.com/ken-jo) | Ken Jo |  |  | Seoul, South Korea | 12984 |
-| 19 | [seo-rii](https://github.com/seo-rii) | Seohyun Lee | KAIST | _seorii_ | Seoul, Korea | 12471 |
-| 20 | [physwkim](https://github.com/physwkim) | Sang-Woo Kim | PAL |  | Pohang, South Korea | 12294 |
+| 17 | [ken-jo](https://github.com/ken-jo) | Ken Jo |  |  | Seoul, South Korea | 12984 |
+| 18 | [seo-rii](https://github.com/seo-rii) | Seohyun Lee | KAIST | _seorii_ | Seoul, Korea | 12471 |
+| 19 | [physwkim](https://github.com/physwkim) | Sang-Woo Kim | PAL |  | Pohang, South Korea | 12294 |
+| 20 | [shaun0927](https://github.com/shaun0927) | Junghwan | @DaedalGames | JunghwanNa_ooo | Seoul | 11339 |

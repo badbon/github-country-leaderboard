@@ -55,8 +55,8 @@ Indexed users: 47,758
 | 16 | [Rinary1](https://github.com/Rinary1) | Rinary | Ukraine | 5,907 |
 | 17 | [ivankovnatsky](https://github.com/ivankovnatsky) | Ivan Kovnatsky | Ukraine | 5,560 |
 | 18 | [dz333n](https://github.com/dz333n) | Yaroslav Kibysh | Ukraine | 5,164 |
-| 19 | [AvatarSD](https://github.com/AvatarSD) | avatarsd | Ukraine, Kyiv | 4,965 |
-| 20 | [MightComeback](https://github.com/MightComeback) | Ivan Kuznetsov | Ukraine | 4,867 |
+| 19 | [eqlectika](https://github.com/eqlectika) | Yevgeniy Korobka | Kharkiv | 5,128 |
+| 20 | [AvatarSD](https://github.com/AvatarSD) | avatarsd | Ukraine, Kyiv | 4,965 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 47,758
 | 19 | [TBlindaruk](https://github.com/TBlindaruk) | Tetiana Blindaruk | Ukraine | 1,192 |
 | 20 | [NJul](https://github.com/NJul) | Nina | Ukraine | 1,140 |
 
-Generated: 2026-10-15T20:10:05.457Z
+Generated: 2026-10-15T21:30:27.583Z

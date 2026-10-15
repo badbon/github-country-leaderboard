@@ -69,11 +69,11 @@ Indexed users: 5,433
 | 5 | [vladmandic](https://github.com/vladmandic) | Vladimir Mandic | Miami, Florida / Rijeka, Croatia | 1,185 |
 | 6 | [Valloric](https://github.com/Valloric) | Val Markovic | Zagreb, Croatia | 1,146 |
 | 7 | [PCrnjak](https://github.com/PCrnjak) | Source Robotics | Croatia, Zagreb | 951 |
-| 8 | [matiadev](https://github.com/matiadev) | Matia | Zagreb, Croatia | 839 |
+| 8 | [matiadev](https://github.com/matiadev) | Matia | Zagreb, Croatia | 844 |
 | 9 | [josip0920-zz](https://github.com/josip0920-zz) | Josip Neretljak | Rijeka, Croatia | 815 |
 | 10 | [Swader](https://github.com/Swader) | Bruno Škvorc | Zagreb, Croatia | 780 |
 | 11 | [ivandoric](https://github.com/ivandoric) | Ivan Dorić | Osijek, Croatia | 770 |
-| 12 | [ivan-sincek](https://github.com/ivan-sincek) | Ivan Šincek | Croatia | 671 |
+| 12 | [ivan-sincek](https://github.com/ivan-sincek) | Ivan Šincek | Croatia | 673 |
 | 13 | [stsrki](https://github.com/stsrki) | Mladen Macanović | Split, Croatia | 622 |
 | 14 | [kost](https://github.com/kost) | kost | Zagreb, Croatia | 580 |
 | 15 | [Martinsos](https://github.com/Martinsos) | Martin Šošić | Croatia | 480 |
@@ -83,4 +83,4 @@ Indexed users: 5,433
 | 19 | [loboris](https://github.com/loboris) | Boris Lovosevic | Zagreb, Croatia | 406 |
 | 20 | [nibzard](https://github.com/nibzard) | Nikola Balic | Split, Croatia | 364 |
 
-Generated: 2026-10-15T20:31:18.987Z
+Generated: 2026-10-15T21:49:22.718Z

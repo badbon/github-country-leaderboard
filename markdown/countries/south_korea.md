@@ -1,6 +1,6 @@
 # South Korea
 
-Indexed users: 56,924
+Indexed users: 56,922
 
 | Leaderboard | Link |
 |---|---|
@@ -53,10 +53,10 @@ Indexed users: 56,924
 | 14 | [dahlia](https://github.com/dahlia) | Hong Minhee (洪 民憙) | Seoul, Republic of Korea | 15,102 |
 | 15 | [hletrd](https://github.com/hletrd) | Jiyong Youn | Seoul, Korea | 14,128 |
 | 16 | [svy04](https://github.com/svy04) | 오영웅 (woogie) | seoul | 13,827 |
-| 17 | [mangowhoiscloud](https://github.com/mangowhoiscloud) | mango | Gangnam, Seoul, South Korea | 13,148 |
-| 18 | [ken-jo](https://github.com/ken-jo) | Ken Jo | Seoul, South Korea | 12,984 |
-| 19 | [seo-rii](https://github.com/seo-rii) | Seohyun Lee | Seoul, Korea | 12,471 |
-| 20 | [physwkim](https://github.com/physwkim) | Sang-Woo Kim | Pohang, South Korea | 12,294 |
+| 17 | [ken-jo](https://github.com/ken-jo) | Ken Jo | Seoul, South Korea | 12,984 |
+| 18 | [seo-rii](https://github.com/seo-rii) | Seohyun Lee | Seoul, Korea | 12,471 |
+| 19 | [physwkim](https://github.com/physwkim) | Sang-Woo Kim | Pohang, South Korea | 12,294 |
+| 20 | [shaun0927](https://github.com/shaun0927) | Junghwan | Seoul | 11,339 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 56,924
 | 19 | [rickiepark](https://github.com/rickiepark) | Haesun Park | Seoul, Korea | 1,884 |
 | 20 | [joshua1988](https://github.com/joshua1988) | Captain Pangyo | South Korea | 1,726 |
 
-Generated: 2026-10-15T20:00:23.655Z
+Generated: 2026-10-15T21:22:11.725Z

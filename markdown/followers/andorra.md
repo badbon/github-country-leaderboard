@@ -1,8 +1,8 @@
 # Followers - Andorra
 
-Generated: 2026-10-15T20:16:00.544Z
+Generated: 2026-10-15T21:35:58.306Z
 
-Users: 215
+Users: 214
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

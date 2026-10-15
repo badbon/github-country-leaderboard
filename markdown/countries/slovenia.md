@@ -47,11 +47,11 @@ Indexed users: 3,101
 | 8 | [zigai](https://github.com/zigai) |  | Slovenia | 3,513 |
 | 9 | [fentas](https://github.com/fentas) | Jan Guth | Slovenia | 3,035 |
 | 10 | [matejdro](https://github.com/matejdro) | Matej Drobnič | Slovenia | 2,825 |
-| 11 | [sysadminmatmoz](https://github.com/sysadminmatmoz) | Matjaz Mozetic | Slovenia | 2,715 |
-| 12 | [OBattler](https://github.com/OBattler) | Miran Grča | Koper, Slovenia | 2,657 |
-| 13 | [majazaloznik](https://github.com/majazaloznik) | maja | oxford--ljubljana | 2,581 |
-| 14 | [aljazmc](https://github.com/aljazmc) | Aljaž Mlinarič | Ptuj, Slovenia | 2,397 |
-| 15 | [mzagozen](https://github.com/mzagozen) | Marko Zagožen | Slovenia | 2,344 |
+| 11 | [OBattler](https://github.com/OBattler) | Miran Grča | Koper, Slovenia | 2,657 |
+| 12 | [majazaloznik](https://github.com/majazaloznik) | maja | oxford--ljubljana | 2,581 |
+| 13 | [aljazmc](https://github.com/aljazmc) | Aljaž Mlinarič | Ptuj, Slovenia | 2,397 |
+| 14 | [mzagozen](https://github.com/mzagozen) | Marko Zagožen | Slovenia | 2,344 |
+| 15 | [eriknovak](https://github.com/eriknovak) | Erik Novak | Slovenia | 2,225 |
 | 16 | [unjica](https://github.com/unjica) | Sanja Malovic | Slovenia | 2,171 |
 | 17 | [baadc0de](https://github.com/baadc0de) | Bojan Šernek | Ljubljana, Slovenia | 2,124 |
 | 18 | [MusicDin](https://github.com/MusicDin) | Din Mušić | Ljubljana | 2,097 |
@@ -83,4 +83,4 @@ Indexed users: 3,101
 | 19 | [garbas](https://github.com/garbas) | Rok Garbas | Ljubljana, Slovenia | 240 |
 | 20 | [buresdv](https://github.com/buresdv) | David Bureš | Maribor, Slovenia | 238 |
 
-Generated: 2026-10-15T20:00:06.045Z
+Generated: 2026-10-15T21:21:29.240Z

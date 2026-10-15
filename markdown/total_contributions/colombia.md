@@ -1,6 +1,6 @@
 # Total Contributions - Colombia
 
-Generated: 2026-10-15T20:29:17.398Z
+Generated: 2026-10-15T21:49:05.029Z
 
 Users: 29158
 
@@ -21,8 +21,8 @@ Users: 29158
 | 13 | [moisesmorillo](https://github.com/moisesmorillo) | Moisés Morillo |  | mmorillo_dev | Colombia | 13619 |
 | 14 | [georgedonnelly](https://github.com/georgedonnelly) | George Donnelly |  | georgedonnelly | Medellín, Colombia | 13454 |
 | 15 | [jordanlanch](https://github.com/jordanlanch) | Jordan Lancheros |  | jordanlanch | Colombia | 13068 |
-| 16 | [andrescera](https://github.com/andrescera) |  |  |  | Medellin, Colombia | 12587 |
-| 17 | [BallesterosDev56](https://github.com/BallesterosDev56) | Daniel Ballesteros |  |  | Colombia | 12471 |
+| 16 | [BallesterosDev56](https://github.com/BallesterosDev56) | Daniel Ballesteros |  |  | Colombia | 12743 |
+| 17 | [andrescera](https://github.com/andrescera) |  |  |  | Medellin, Colombia | 12587 |
 | 18 | [SebastianLopezO](https://github.com/SebastianLopezO) | Sebastián López O |  |  | Colombia | 12412 |
 | 19 | [Jaro-c](https://github.com/Jaro-c) | Jose |  | Jar0_c | Colombia | 11988 |
 | 20 | [ANDREYPLAZAST](https://github.com/ANDREYPLAZAST) | Andrey Steven Plazas Torres |  |  | Bogotá, Colombia | 11630 |

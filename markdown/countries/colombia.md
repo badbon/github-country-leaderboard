@@ -27,8 +27,8 @@ Indexed users: 29,158
 | 13 | [moisesmorillo](https://github.com/moisesmorillo) | Moisés Morillo | Colombia | 13,619 |
 | 14 | [georgedonnelly](https://github.com/georgedonnelly) | George Donnelly | Medellín, Colombia | 13,454 |
 | 15 | [jordanlanch](https://github.com/jordanlanch) | Jordan Lancheros | Colombia | 13,068 |
-| 16 | [andrescera](https://github.com/andrescera) |  | Medellin, Colombia | 12,587 |
-| 17 | [BallesterosDev56](https://github.com/BallesterosDev56) | Daniel Ballesteros | Colombia | 12,471 |
+| 16 | [BallesterosDev56](https://github.com/BallesterosDev56) | Daniel Ballesteros | Colombia | 12,743 |
+| 17 | [andrescera](https://github.com/andrescera) |  | Medellin, Colombia | 12,587 |
 | 18 | [SebastianLopezO](https://github.com/SebastianLopezO) | Sebastián López O | Colombia | 12,412 |
 | 19 | [Jaro-c](https://github.com/Jaro-c) | Jose | Colombia | 11,988 |
 | 20 | [ANDREYPLAZAST](https://github.com/ANDREYPLAZAST) | Andrey Steven Plazas Torres | Bogotá, Colombia | 11,630 |
@@ -83,4 +83,4 @@ Indexed users: 29,158
 | 19 | [goanpeca](https://github.com/goanpeca) | Gonzalo Peña-Castellanos | Bogotá, Colombia | 530 |
 | 20 | [jdvelasq](https://github.com/jdvelasq) | Juan David Velásquez-Henao | Medellín, Colombia | 529 |
 
-Generated: 2026-10-15T20:29:17.398Z
+Generated: 2026-10-15T21:49:05.029Z
