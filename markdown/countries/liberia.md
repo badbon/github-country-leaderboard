@@ -23,7 +23,7 @@ Indexed users: 210
 | 9 | [arunponnappan](https://github.com/arunponnappan) | Arun P | Monrovia | 1,410 |
 | 10 | [tangaye](https://github.com/tangaye) | Nathan Tangaye Siafa | Paynesville, Liberia | 1,234 |
 | 11 | [Carlostala04](https://github.com/Carlostala04) | Carlos Talavera | Liberia | 1,142 |
-| 12 | [mdsomah](https://github.com/mdsomah) | Mesheal D. Somah Sr. | Monrovia, Liberia | 1,119 |
+| 12 | [mdsomah](https://github.com/mdsomah) | Mesheal D. Somah Sr. | Monrovia, Liberia | 1,115 |
 | 13 | [stenson](https://github.com/stenson) | Rob Stenson | Monrovia, CA | 870 |
 | 14 | [KalevRK](https://github.com/KalevRK) | Kalev Roomann-Kurrik | Monrovia, CA | 860 |
 | 15 | [abubakar3rd](https://github.com/abubakar3rd) | Abu-Bakar Abdullah Kanneh | Airfield, Sinkor, Monrovia, Liberia | 821 |
@@ -68,7 +68,7 @@ Indexed users: 210
 | 4 | [Massaquoi716](https://github.com/Massaquoi716) | Massaquoi L Dehmie | Liberia | 142 |
 | 5 | [stenson](https://github.com/stenson) | Rob Stenson | Monrovia, CA | 129 |
 | 6 | [RA9](https://github.com/RA9) | Carlos S. Nah  | Liberia  | 101 |
-| 7 | [timtjoe](https://github.com/timtjoe) | Tim T. Joe | Liberia, West Africa | 63 |
+| 7 | [timtjoe](https://github.com/timtjoe) | Tim T. Joe | Liberia, West Africa | 64 |
 | 8 | [benjaminangafua](https://github.com/benjaminangafua) | Benjamin A. Ngafua | Liberia | 49 |
 | 9 | [Ravenstine](https://github.com/Ravenstine) | Ten Bitcomb | Monrovia, CA | 39 |
 | 10 | [xarrijorge](https://github.com/xarrijorge) | The African Nomad | Monrovia, Liberia | 34 |
@@ -83,4 +83,4 @@ Indexed users: 210
 | 19 | [boaslah](https://github.com/boaslah) | Blessing Boaslah | Montserrado County, Liberia  | 21 |
 | 20 | [ejaygbay](https://github.com/ejaygbay) | Emmanuel Jaygbay | Liberia | 21 |
 
-Generated: 2026-10-15T19:31:26.972Z
+Generated: 2026-10-15T20:53:57.712Z

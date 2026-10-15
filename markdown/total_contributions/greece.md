@@ -1,8 +1,8 @@
 # Total Contributions - Greece
 
-Generated: 2026-10-15T19:20:07.320Z
+Generated: 2026-10-15T20:43:31.565Z
 
-Users: 15567
+Users: 15565
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -25,4 +25,4 @@ Users: 15567
 | 17 | [GMetaxakis](https://github.com/GMetaxakis) | Georgios Metaxakis |  |  | Greece | 10248 |
 | 18 | [kostis-codefresh](https://github.com/kostis-codefresh) | Kostis (Octopus Deploy) | Octopus Deploy (ex. Codefresh) | codepipes | Athens Greece | 9257 |
 | 19 | [giannisp](https://github.com/giannisp) | Ioannis Poulakas |  |  | Greece | 9094 |
-| 20 | [cosmix](https://github.com/cosmix) | Dimosthenis Kaponis |  |  | Athens, Greece | 8320 |
+| 20 | [efthymios19](https://github.com/efthymios19) | Efthymios Chrysanthopoulos | National Technical University of Athens - School of Mining and Metallurgical Engineering - Laboratory of Engineering Geology and Hydrogeology |  | Athens, Greece | 8530 |

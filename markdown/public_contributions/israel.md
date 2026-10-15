@@ -1,8 +1,8 @@
 # Public Contributions - Israel
 
-Generated: 2026-10-15T19:27:25.606Z
+Generated: 2026-10-15T20:48:08.938Z
 
-Users: 12427
+Users: 12426
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -14,15 +14,15 @@ Users: 12427
 | 6 | [ariannamethod](https://github.com/ariannamethod) | Arianna Method | @Arianna-Method  | olegataeff | Israel | 8865 |
 | 7 | [kdroidFilter](https://github.com/kdroidFilter) | Elie Gambache | KdroidFilter |  | Jerusalem Israel | 8365 |
 | 8 | [kossoy](https://github.com/kossoy) | Oleg Kossoy |  |  | Israel | 7229 |
-| 9 | [elie222](https://github.com/elie222) | Elie Steinbock | @inbox-zero  | elie2222 | Tel Aviv, Israel | 7033 |
-| 10 | [alonf](https://github.com/alonf) | Alon Fliess | Zionet | alon_fliess | Israel | 6869 |
-| 11 | [veltzer](https://github.com/veltzer) | Mark Veltzer | GNU |  | Holon, Israel | 6740 |
-| 12 | [EtanHey](https://github.com/EtanHey) | Etan Heyman |  |  | Rehovot, Israel | 6251 |
-| 13 | [lirantal](https://github.com/lirantal) | Liran Tal | @snyk | liran_tal | Tel Aviv, Israel | 6163 |
-| 14 | [szabgab](https://github.com/szabgab) | Gábor Szabó | Consultant, Trainer and Open Source developer |  | Modiin, Israel | 5823 |
-| 15 | [RonenMars](https://github.com/RonenMars) | Ronen Mars |  |  | Israel | 5228 |
-| 16 | [gkorland](https://github.com/gkorland) | Guy Korland | @FalkorDB | g_korland | Israel | 5206 |
-| 17 | [kerbelp](https://github.com/kerbelp) | Pavel Kerbel |  | kerbelp | Israel | 5166 |
-| 18 | [danielrosehill](https://github.com/danielrosehill) | Daniel Rosehill | DSR Holdings |  | Jerusalem Or Remote | 5145 |
-| 19 | [dleshem](https://github.com/dleshem) | Danny Leshem |  |  | Tel Aviv, Israel | 5080 |
-| 20 | [nimrodbusany](https://github.com/nimrodbusany) | nimrod busany | Tel Aviv University - CS department |  | Israel | 4818 |
+| 9 | [BigBIueWhale](https://github.com/BigBIueWhale) | Ronen Zyroff |  |  | Israel | 7206 |
+| 10 | [elie222](https://github.com/elie222) | Elie Steinbock | @inbox-zero  | elie2222 | Tel Aviv, Israel | 7033 |
+| 11 | [alonf](https://github.com/alonf) | Alon Fliess | Zionet | alon_fliess | Israel | 6869 |
+| 12 | [veltzer](https://github.com/veltzer) | Mark Veltzer | GNU |  | Holon, Israel | 6740 |
+| 13 | [EtanHey](https://github.com/EtanHey) | Etan Heyman |  |  | Rehovot, Israel | 6251 |
+| 14 | [lirantal](https://github.com/lirantal) | Liran Tal | @snyk | liran_tal | Tel Aviv, Israel | 6163 |
+| 15 | [szabgab](https://github.com/szabgab) | Gábor Szabó | Consultant, Trainer and Open Source developer |  | Modiin, Israel | 5823 |
+| 16 | [RonenMars](https://github.com/RonenMars) | Ronen Mars |  |  | Israel | 5228 |
+| 17 | [gkorland](https://github.com/gkorland) | Guy Korland | @FalkorDB | g_korland | Israel | 5206 |
+| 18 | [kerbelp](https://github.com/kerbelp) | Pavel Kerbel |  | kerbelp | Israel | 5166 |
+| 19 | [danielrosehill](https://github.com/danielrosehill) | Daniel Rosehill | DSR Holdings |  | Jerusalem Or Remote | 5145 |
+| 20 | [dleshem](https://github.com/dleshem) | Danny Leshem |  |  | Tel Aviv, Israel | 5080 |

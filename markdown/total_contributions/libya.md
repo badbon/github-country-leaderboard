@@ -1,6 +1,6 @@
 # Total Contributions - Libya
 
-Generated: 2026-10-15T19:32:06.572Z
+Generated: 2026-10-15T20:54:21.416Z
 
 Users: 742
 
@@ -11,8 +11,8 @@ Users: 742
 | 3 | [ZeroGDrive](https://github.com/ZeroGDrive) | Ayoub Alfurjani |  |  | Libya | 13426 |
 | 4 | [salemaljebaly](https://github.com/salemaljebaly) | Salem Aljebaly |  |  | Libya | 12609 |
 | 5 | [Arjeeah](https://github.com/Arjeeah) | Arjeeah | @Artisans-Digital-Agency , @ditsly |  | Libya  | 12557 |
-| 6 | [Sokanon](https://github.com/Sokanon) | So | @beyondtheinnovation  | Sokanon_ | Libya | 9467 |
-| 7 | [ayagaidi](https://github.com/ayagaidi) | Yaya |  |  |  Tripoli, Libya  | 9392 |
+| 6 | [ayagaidi](https://github.com/ayagaidi) | Yaya |  |  |  Tripoli, Libya  | 9577 |
+| 7 | [Sokanon](https://github.com/Sokanon) | So | @beyondtheinnovation  | Sokanon_ | Libya | 9467 |
 | 8 | [Tellesy](https://github.com/Tellesy) | blueMu | @Ethaq  |  | Tripoli, Libya | 9144 |
 | 9 | [radwan-77](https://github.com/radwan-77) | RADWAN |  |  | Libya | 8319 |
 | 10 | [GaafarBBK](https://github.com/GaafarBBK) | Mohamed Gaafar |  |  | Libya | 7811 |

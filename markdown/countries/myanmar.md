@@ -63,7 +63,7 @@ Indexed users: 2,061
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [eimg](https://github.com/eimg) | Ei Maung | Yangon, Myanmar | 4,261 |
-| 2 | [minlwin](https://github.com/minlwin) | Min Lwin | Yangon, Myanmar | 1,197 |
+| 2 | [minlwin](https://github.com/minlwin) | Min Lwin | Yangon, Myanmar | 1,204 |
 | 3 | [sannlynnhtun-coding](https://github.com/sannlynnhtun-coding) | Sann Lynn Htun | Yangon, Myanmar | 1,065 |
 | 4 | [sailay1996](https://github.com/sailay1996) | valen | Myanmar | 758 |
 | 5 | [HlaingMinThan](https://github.com/HlaingMinThan) | Hlaing Min Than(Faizal) | Yangon,Myanmar | 693 |
@@ -80,7 +80,7 @@ Indexed users: 2,061
 | 16 | [Hein-HtetSan](https://github.com/Hein-HtetSan) | dev@hnhts | Myanmar, Yangon | 209 |
 | 17 | [thenayjourney](https://github.com/thenayjourney) | Nay Yaung Lin Lakk | Yangon, Myanmar | 200 |
 | 18 | [ko-htut](https://github.com/ko-htut) | Ko Htut | Myanmar | 170 |
-| 19 | [winsandymyint](https://github.com/winsandymyint) | Win Sandy Myint | Myanmar | 167 |
+| 19 | [winsandymyint](https://github.com/winsandymyint) | Win Sandy Myint | Myanmar | 168 |
 | 20 | [LunaM00n](https://github.com/LunaM00n) | Thin Ba Shane (Luna) | Myanmar | 162 |
 
-Generated: 2026-10-15T19:40:17.863Z
+Generated: 2026-10-15T21:00:25.329Z

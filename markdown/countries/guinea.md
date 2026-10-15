@@ -12,8 +12,8 @@ Indexed users: 263
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [DialloYoussef](https://github.com/DialloYoussef) | Youssouf | Guinée, Conakry, GN | 7,938 |
-| 2 | [Morymirco](https://github.com/Morymirco) | Mory Mirco Koulibaly | Conakry,Guinéé | 7,136 |
+| 1 | [DialloYoussef](https://github.com/DialloYoussef) | Youssouf | Guinée, Conakry, GN | 7,931 |
+| 2 | [Morymirco](https://github.com/Morymirco) | Mory Mirco Koulibaly | Conakry,Guinéé | 7,225 |
 | 3 | [koulibalyamadou10](https://github.com/koulibalyamadou10) | Koulibaly | Conakry | 6,665 |
 | 4 | [korbonya](https://github.com/korbonya) | Mamadou Alpha Baldé | Conakry | 6,271 |
 | 5 | [hadpro24](https://github.com/hadpro24) | Harouna Diallo | Guinée, Conakry, GN | 3,540 |
@@ -52,7 +52,7 @@ Indexed users: 263
 | 13 | [amadou11doumbouya10-lgtm](https://github.com/amadou11doumbouya10-lgtm) | Amah  | Guinée. Conakry | 167 |
 | 14 | [EORBAH](https://github.com/EORBAH) | EOR_BAH545 | Guinea Conakry | 154 |
 | 15 | [elhadjmamadou](https://github.com/elhadjmamadou) | Elhadj Mamadou Diallo | Guinee, conakry | 149 |
-| 16 | [Kourahoye](https://github.com/Kourahoye) | Amadou Kourahoye | Conakry | 146 |
+| 16 | [Kourahoye](https://github.com/Kourahoye) | Amadou Kourahoye | Conakry | 133 |
 | 17 | [Abel-sangare](https://github.com/Abel-sangare) |  | Conakry | 129 |
 | 18 | [Keira224](https://github.com/Keira224) | Ousmane Keira  | Guinée, Conakry | 121 |
 | 19 | [Skjnior](https://github.com/Skjnior) | Rj_45 | Guinea | 118 |
@@ -83,4 +83,4 @@ Indexed users: 263
 | 19 | [fouzo09](https://github.com/fouzo09) | Mafouz DIALLO | Guinée, conakry | 13 |
 | 20 | [koulibalyamadou10](https://github.com/koulibalyamadou10) | Koulibaly | Conakry | 13 |
 
-Generated: 2026-10-15T19:23:44.829Z
+Generated: 2026-10-15T20:44:18.125Z

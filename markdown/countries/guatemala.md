@@ -1,6 +1,6 @@
 # Guatemala
 
-Indexed users: 3,221
+Indexed users: 3,220
 
 | Leaderboard | Link |
 |---|---|
@@ -50,7 +50,7 @@ Indexed users: 3,221
 | 11 | [erwindank](https://github.com/erwindank) | Erwin Solorzano | Guatemala | 1,358 |
 | 12 | [MaxMald](https://github.com/MaxMald) | Max Maldonado | Guatemala | 1,305 |
 | 13 | [pablo-mald03](https://github.com/pablo-mald03) | Pablo_Maldonado | Guatemala | 1,112 |
-| 14 | [eylles](https://github.com/eylles) |  | Guatemala | 1,045 |
+| 14 | [eylles](https://github.com/eylles) |  | Guatemala | 1,067 |
 | 15 | [AlfredoG87](https://github.com/AlfredoG87) | Alfredo Gutierrez | Guatemala | 1,019 |
 | 16 | [GlendyT](https://github.com/GlendyT) | Glendy Tuyuc | Guatemala | 995 |
 | 17 | [robindanilo2218](https://github.com/robindanilo2218) | Robin Gregorio | Guatemala | 929 |
@@ -70,17 +70,17 @@ Indexed users: 3,221
 | 6 | [micromasterandroid](https://github.com/micromasterandroid) | amoraleschan | Guatemala | 217 |
 | 7 | [JPaulMora](https://github.com/JPaulMora) | John Mora | Guatemala | 210 |
 | 8 | [tahayk3](https://github.com/tahayk3) | Cristian Tahay | Guatemala | 186 |
-| 9 | [luisespino](https://github.com/luisespino) | Luis Espino | Guatemala | 170 |
-| 10 | [sergioarmgpl](https://github.com/sergioarmgpl) | Sergio Méndez | Guatemala | 169 |
+| 9 | [sergioarmgpl](https://github.com/sergioarmgpl) | Sergio Méndez | Guatemala | 171 |
+| 10 | [luisespino](https://github.com/luisespino) | Luis Espino | Guatemala | 170 |
 | 11 | [RandolphVI](https://github.com/RandolphVI) | Randolph | Guatemala | 162 |
 | 12 | [XaviAlvarado18](https://github.com/XaviAlvarado18) | Javier Alvarado | Guatemala | 160 |
 | 13 | [ericknavarro](https://github.com/ericknavarro) | Erick Navarro | Guatemala | 159 |
 | 14 | [jinchuika](https://github.com/jinchuika) | Luis Carlos | Guatemala | 136 |
-| 15 | [Elmnik](https://github.com/Elmnik) | Elmer Aguilar | Guatemala | 134 |
-| 16 | [brandonT2002](https://github.com/brandonT2002) | Brandon Tejaxún | Guatemala | 125 |
-| 17 | [luislopez-dev](https://github.com/luislopez-dev) | Luis René López  | Guatemala | 123 |
-| 18 | [Alvaro-SP](https://github.com/Alvaro-SP) | Alvaro Socop | Guatemala | 122 |
-| 19 | [elmergustavo](https://github.com/elmergustavo) | Gustavo (tavcode)  | Quetzaltenango, Guatemala | 119 |
-| 20 | [cms](https://github.com/cms) | Christian C. Salvadó | Guatemala | 117 |
+| 15 | [brandonT2002](https://github.com/brandonT2002) | Brandon Tejaxún | Guatemala | 125 |
+| 16 | [luislopez-dev](https://github.com/luislopez-dev) | Luis René López  | Guatemala | 123 |
+| 17 | [Alvaro-SP](https://github.com/Alvaro-SP) | Alvaro Socop | Guatemala | 122 |
+| 18 | [elmergustavo](https://github.com/elmergustavo) | Gustavo (tavcode)  | Quetzaltenango, Guatemala | 119 |
+| 19 | [cms](https://github.com/cms) | Christian C. Salvadó | Guatemala | 117 |
+| 20 | [tian2992](https://github.com/tian2992) | Sebastian Oliva | Guatemala | 114 |
 
-Generated: 2026-10-15T19:22:26.940Z
+Generated: 2026-10-15T20:44:11.068Z

@@ -1,6 +1,6 @@
 # Nicaragua
 
-Indexed users: 1,394
+Indexed users: 1,395
 
 | Leaderboard | Link |
 |---|---|
@@ -68,19 +68,19 @@ Indexed users: 1,394
 | 4 | [QuesilloLover](https://github.com/QuesilloLover) | Adilia Moreno | Nicaragua | 158 |
 | 5 | [fitoria](https://github.com/fitoria) | Adolfo Fitoria | Mangua, Nicaragua | 146 |
 | 6 | [Victor-0rtiz](https://github.com/Victor-0rtiz) | Victor Oss | Nicaragua | 143 |
-| 7 | [narencastellon](https://github.com/narencastellon) | Naren Castellon | Nicaragua | 121 |
-| 8 | [hosmelq](https://github.com/hosmelq) | Hosmel Quintana | Managua, Nic | 114 |
-| 9 | [linuxmel27](https://github.com/linuxmel27) | Melvin Pineda | Leon, Nicaragua | 114 |
-| 10 | [Ualb](https://github.com/Ualb) | Ulises López | Managua. Nic | 101 |
-| 11 | [soyjimmysaenz](https://github.com/soyjimmysaenz) | Jimmy Sáenz Rizo | Managua, Nicaragua | 92 |
-| 12 | [rcrodriguez89](https://github.com/rcrodriguez89) | Roberto Rodríguez | Managua, Nicaragua | 82 |
-| 13 | [felixicaza](https://github.com/felixicaza) | Felix Icaza | Estelí, Nicaragua | 79 |
-| 14 | [alexxandraSalazar](https://github.com/alexxandraSalazar) | Alexandra Salazar | Nicaragua | 78 |
-| 15 | [JezerM](https://github.com/JezerM) | Jezer Mejía | Nicaragua | 78 |
-| 16 | [14BryanEspinoza](https://github.com/14BryanEspinoza) | Bryan Espinoza | Nicaragua | 76 |
-| 17 | [neydroid](https://github.com/neydroid) | José Ney Guerrero | Managua, Nicaragua | 71 |
-| 18 | [luismejiadev](https://github.com/luismejiadev) | Luis Mejia | Managua, Nicaragua | 68 |
-| 19 | [dannygaray60](https://github.com/dannygaray60) | Danny Garay | Nicaragua | 61 |
-| 20 | [jonathanquehay](https://github.com/jonathanquehay) | Jonathán Moreno | Nicaragua | 60 |
+| 7 | [Elmnik](https://github.com/Elmnik) | Elmer Aguilar | Nicaragua | 135 |
+| 8 | [narencastellon](https://github.com/narencastellon) | Naren Castellon | Nicaragua | 121 |
+| 9 | [hosmelq](https://github.com/hosmelq) | Hosmel Quintana | Managua, Nic | 114 |
+| 10 | [linuxmel27](https://github.com/linuxmel27) | Melvin Pineda | Leon, Nicaragua | 114 |
+| 11 | [Ualb](https://github.com/Ualb) | Ulises López | Managua. Nic | 101 |
+| 12 | [soyjimmysaenz](https://github.com/soyjimmysaenz) | Jimmy Sáenz Rizo | Managua, Nicaragua | 92 |
+| 13 | [rcrodriguez89](https://github.com/rcrodriguez89) | Roberto Rodríguez | Managua, Nicaragua | 82 |
+| 14 | [felixicaza](https://github.com/felixicaza) | Felix Icaza | Estelí, Nicaragua | 79 |
+| 15 | [alexxandraSalazar](https://github.com/alexxandraSalazar) | Alexandra Salazar | Nicaragua | 78 |
+| 16 | [JezerM](https://github.com/JezerM) | Jezer Mejía | Nicaragua | 78 |
+| 17 | [14BryanEspinoza](https://github.com/14BryanEspinoza) | Bryan Espinoza | Nicaragua | 76 |
+| 18 | [neydroid](https://github.com/neydroid) | José Ney Guerrero | Managua, Nicaragua | 71 |
+| 19 | [luismejiadev](https://github.com/luismejiadev) | Luis Mejia | Managua, Nicaragua | 68 |
+| 20 | [dannygaray60](https://github.com/dannygaray60) | Danny Garay | Nicaragua | 61 |
 
-Generated: 2026-10-15T19:41:46.099Z
+Generated: 2026-10-15T21:03:19.582Z

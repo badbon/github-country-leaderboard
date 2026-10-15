@@ -1,8 +1,8 @@
 # Public Contributions - Paraguay
 
-Generated: 2026-10-15T19:47:02.535Z
+Generated: 2026-10-15T21:07:32.245Z
 
-Users: 2014
+Users: 2013
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -23,6 +23,6 @@ Users: 2014
 | 15 | [cardozoaldama](https://github.com/cardozoaldama) | Fernando Cardozo |  |  | Paraguay | 980 |
 | 16 | [Renetrox](https://github.com/Renetrox) | Dino René Caballero Marquez |  |  | Paraguay | 971 |
 | 17 | [janparkio](https://github.com/janparkio) | Jan Park | LeadWise (PL EAS) @leadwisepro  | janparkio | Paraguay | 966 |
-| 18 | [da21nny](https://github.com/da21nny) | Edgar Vega |  |  | Paraguay | 906 |
-| 19 | [isaias-alt](https://github.com/isaias-alt) | Lucas Isaias Casco |  | lucascodev | Paraguay | 892 |
-| 20 | [hekatonkheirex](https://github.com/hekatonkheirex) | Rodrigo Y. Murayama |  |  | Asunción, Paraguay | 891 |
+| 18 | [matiasinsaurralde](https://github.com/matiasinsaurralde) | Matías Insaurralde | Chainloop, Inc. |  | Paraguay | 931 |
+| 19 | [da21nny](https://github.com/da21nny) | Edgar Vega |  |  | Paraguay | 906 |
+| 20 | [isaias-alt](https://github.com/isaias-alt) | Lucas Isaias Casco |  | lucascodev | Paraguay | 892 |

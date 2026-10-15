@@ -1,19 +1,19 @@
 # Public Contributions - Montserrat
 
-Generated: 2026-10-15T19:39:41.730Z
+Generated: 2026-10-15T20:59:11.934Z
 
 Users: 291
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [dvmrry](https://github.com/dvmrry) | Dave Murray |  | dvmrry | Plymouth Meeting, Pennsylvania | 4047 |
+| 1 | [dvmrry](https://github.com/dvmrry) | Dave Murray |  | dvmrry | Plymouth Meeting, Pennsylvania | 4048 |
 | 2 | [albemontors](https://github.com/albemontors) | Alberto Montorsi |  |  | Plymouth | 3828 |
 | 3 | [bostonmyk](https://github.com/bostonmyk) | Mike Mykytyn |  |  | Plymouth | 1416 |
 | 4 | [robertjwilson](https://github.com/robertjwilson) | Robert Wilson | Plymouth Marine Laboratory |  | Plymouth | 983 |
 | 5 | [gjbauer](https://github.com/gjbauer) |  |  |  | Plymouth, NH | 748 |
 | 6 | [jaydreyer](https://github.com/jaydreyer) | Jay Dreyer |  |  | Plymouth, MN | 703 |
 | 7 | [binarytide](https://github.com/binarytide) | John McAndrews | Infinite-scope.com |  | Plymouth, Ma | 678 |
-| 8 | [cpuzzuol](https://github.com/cpuzzuol) | Chris Puzzuoli | @ucrisko  |  | Plymouth, MI | 512 |
+| 8 | [cpuzzuol](https://github.com/cpuzzuol) | Chris Puzzuoli | @ucrisko  |  | Plymouth, MI | 518 |
 | 9 | [patrickmgarrity](https://github.com/patrickmgarrity) | Patrick Garrity | VulnCheck |  | Plymouth, MI | 446 |
 | 10 | [AnshLaw](https://github.com/AnshLaw) | Ansh R. Suryavanshi | Hyundai MOBIS |  | Plymouth, MI | 394 |
 | 11 | [OCNGill](https://github.com/OCNGill) | Stephen Gill | Gillsystems.net | uknowGill | Plymouth, MA 02360 | 356 |

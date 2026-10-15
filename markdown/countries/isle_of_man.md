@@ -16,11 +16,11 @@ Indexed users: 155
 | 2 | [auberryberry](https://github.com/auberryberry) | Aubrey Stearn | Isle of Man | 10,092 |
 | 3 | [bengris32](https://github.com/bengris32) | Ben | Isle of Man | 7,580 |
 | 4 | [darrenbarklie](https://github.com/darrenbarklie) | Darren Barklie | Isle of Man | 4,521 |
-| 5 | [tekminewe](https://github.com/tekminewe) | Ewe Tek Min | Isle of Man | 3,493 |
+| 5 | [tekminewe](https://github.com/tekminewe) | Ewe Tek Min | Isle of Man | 3,540 |
 | 6 | [dive](https://github.com/dive) | Artem Loenko | Isle of Man | 2,160 |
 | 7 | [oliciv](https://github.com/oliciv) | Oli Allen | Isle of Man | 1,987 |
 | 8 | [lukawarren](https://github.com/lukawarren) | Luka Warren | Isle of Man | 1,907 |
-| 9 | [craigiswayne](https://github.com/craigiswayne) | Craig Wayne | Isle of Man | 1,836 |
+| 9 | [craigiswayne](https://github.com/craigiswayne) | Craig Wayne | Isle of Man | 1,845 |
 | 10 | [PerpetualBeta](https://github.com/PerpetualBeta) | Jonathan M. Hollin | Douglas, Isle of Man | 1,686 |
 | 11 | [thomas-coldwell](https://github.com/thomas-coldwell) | Thomas Coldwell | Isle of Man | 1,675 |
 | 12 | [ceottaki](https://github.com/ceottaki) | Felipe Ceotto | Isle of Man | 1,631 |
@@ -30,8 +30,8 @@ Indexed users: 155
 | 16 | [tonypartridge](https://github.com/tonypartridge) | Tony Partridge | Isle of Man | 1,214 |
 | 17 | [allantrabuco](https://github.com/allantrabuco) | Allan Trabuco | Isle of Man | 1,211 |
 | 18 | [mattwilson02](https://github.com/mattwilson02) | Matt Wilson | Isle of Man | 1,128 |
-| 19 | [dannmat](https://github.com/dannmat) | Matt Ward | Isle of Man | 1,046 |
-| 20 | [AshLeece](https://github.com/AshLeece) | Ash Leece | Isle of Man | 1,015 |
+| 19 | [dannmat](https://github.com/dannmat) | Matt Ward | Isle of Man | 1,058 |
+| 20 | [AshLeece](https://github.com/AshLeece) | Ash Leece | Isle of Man | 1,036 |
 
 ## Public Contributions
 
@@ -40,7 +40,7 @@ Indexed users: 155
 | 1 | [bengris32](https://github.com/bengris32) | Ben | Isle of Man | 5,365 |
 | 2 | [bllbtnd](https://github.com/bllbtnd) | Balla Botond | Isle of Man | 855 |
 | 3 | [PerpetualBeta](https://github.com/PerpetualBeta) | Jonathan M. Hollin | Douglas, Isle of Man | 771 |
-| 4 | [craigiswayne](https://github.com/craigiswayne) | Craig Wayne | Isle of Man | 711 |
+| 4 | [craigiswayne](https://github.com/craigiswayne) | Craig Wayne | Isle of Man | 712 |
 | 5 | [torquuato](https://github.com/torquuato) |  | Isle of Man | 557 |
 | 6 | [jonnyirwin](https://github.com/jonnyirwin) | Jonny Irwin | Isle of Man | 431 |
 | 7 | [dominichubble](https://github.com/dominichubble) | Dominic Hubble | Isle of Man | 359 |
@@ -83,4 +83,4 @@ Indexed users: 155
 | 19 | [lwangenheim](https://github.com/lwangenheim) | Lee Wangenheim | Isle of Man | 19 |
 | 20 | [DanAnkers](https://github.com/DanAnkers) | Daniel Ankers | Isle of Man | 18 |
 
-Generated: 2026-10-15T19:26:41.645Z
+Generated: 2026-10-15T20:48:03.211Z

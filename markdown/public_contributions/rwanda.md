@@ -1,6 +1,6 @@
 # Public Contributions - Rwanda
 
-Generated: 2026-10-15T19:50:29.515Z
+Generated: 2026-10-15T21:09:41.325Z
 
 Users: 3519
 
@@ -14,7 +14,7 @@ Users: 3519
 | 6 | [Yackx-tx](https://github.com/Yackx-tx) | Yannick Gisubizo | YCSoft Rwanda | yannicktx1 | Kigali, Rwanda | 5997 |
 | 7 | [Derrick-MUGISHA](https://github.com/Derrick-MUGISHA) | Derrick | Igire Rwanda Organisation | __derr1ck__ | kigali, Rwanda | 5107 |
 | 8 | [abeltony-prog](https://github.com/abeltony-prog) | AbelTony | @Plasera | StilesAbel | Kigali/Rwannda | 4278 |
-| 9 | [JackOfficial](https://github.com/JackOfficial) | Musengimana Jacques | Foxx Kennels |  | Kigali Rwanda | 4003 |
+| 9 | [JackOfficial](https://github.com/JackOfficial) | Musengimana Jacques | Foxx Kennels |  | Kigali Rwanda | 4103 |
 | 10 | [kawacukennedy](https://github.com/kawacukennedy) | KAWACU Kennedy | Founder @ Témporia | Arnaud_Kennedy | Kigali, Rwanda | 3872 |
 | 11 | [leandre000](https://github.com/leandre000) | Izere Shema Leandre | EchoSols   | shema_Leandre | Kigali,Rwanda | 3661 |
 | 12 | [Icyubahiro-Jay-P](https://github.com/Icyubahiro-Jay-P) | JAY P | Diolichat |  | Kigali, Rwanda | 3074 |

@@ -41,7 +41,7 @@ Indexed users: 901
 | 2 | [Iankulani](https://github.com/Iankulani) | Ian Carter Kulani | Mzimba, Malawi | 1,754 |
 | 3 | [zikani03](https://github.com/zikani03) | Zikani Nyirenda Mwase | Lilongwe, Malawi | 1,615 |
 | 4 | [edisontaimu9-ui](https://github.com/edisontaimu9-ui) | Edison Taimu  | Malawi  | 1,281 |
-| 5 | [jelome265](https://github.com/jelome265) | Jelome Ngamuti | malawi | 1,119 |
+| 5 | [jelome265](https://github.com/jelome265) | Jelome Ngamuti | malawi | 1,211 |
 | 6 | [finalSay9](https://github.com/finalSay9) | Evan Chimwaza | Lilongwe, Malawi | 981 |
 | 7 | [innowowa](https://github.com/innowowa) | Innocent Wowa | Malawi, Lilongwe | 951 |
 | 8 | [petroskayange](https://github.com/petroskayange) | Petros Kayange | Malawi | 944 |
@@ -56,7 +56,7 @@ Indexed users: 901
 | 17 | [TgkCapture](https://github.com/TgkCapture) | tgkcapture | Blantyre, Malawi. | 485 |
 | 18 | [hopgausi](https://github.com/hopgausi) | Hopson Gausi | Malawi | 483 |
 | 19 | [wotcheni21](https://github.com/wotcheni21) | Joseph Witman Wotcheni | Malawi | 477 |
-| 20 | [codaMW](https://github.com/codaMW) | codaMW | Lilongwe, Malawi | 471 |
+| 20 | [codaMW](https://github.com/codaMW) | codaMW | Lilongwe, Malawi | 476 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 901
 | 19 | [g1ftmkyelu](https://github.com/g1ftmkyelu) | codemaestro🚀 | 🇲🇼 Malawi | 131 |
 | 20 | [RodgerCodes](https://github.com/RodgerCodes) | Rodger Kumwanje | Malawi | 129 |
 
-Generated: 2026-10-15T19:34:40.083Z
+Generated: 2026-10-15T20:54:51.116Z

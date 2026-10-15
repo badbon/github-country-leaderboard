@@ -1,6 +1,6 @@
 # Antarctica
 
-Indexed users: 458
+Indexed users: 459
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 458
 | 19 | [alphaaurigae](https://github.com/alphaaurigae) | Marian Brockerhoff | Antarctica | 86 |
 | 20 | [fakeid30](https://github.com/fakeid30) | Fake ID | Antarctica | 78 |
 
-Generated: 2026-10-15T20:16:10.626Z
+Generated: 2026-10-15T20:50:37.934Z

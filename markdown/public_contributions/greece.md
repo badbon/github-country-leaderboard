@@ -1,16 +1,16 @@
 # Public Contributions - Greece
 
-Generated: 2026-10-15T19:20:07.320Z
+Generated: 2026-10-15T20:43:31.565Z
 
-Users: 15567
+Users: 15565
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [pablof7z](https://github.com/pablof7z) | Pablo Fernandez | Sanity Island |  | Kalymnos, Greece | 22485 |
 | 2 | [apmantza](https://github.com/apmantza) | Apostolos Mantzaris |  |  | Athens, Greece | 9497 |
 | 3 | [kostis-codefresh](https://github.com/kostis-codefresh) | Kostis (Octopus Deploy) | Octopus Deploy (ex. Codefresh) | codepipes | Athens Greece | 9257 |
-| 4 | [mariosknl](https://github.com/mariosknl) | Marios Kanellopoulos | Front End Developer | mariosknl | Patras, Greece | 8066 |
-| 5 | [efthymios19](https://github.com/efthymios19) | Efthymios Chrysanthopoulos | National Technical University of Athens - School of Mining and Metallurgical Engineering - Laboratory of Engineering Geology and Hydrogeology |  | Athens, Greece | 7992 |
+| 4 | [efthymios19](https://github.com/efthymios19) | Efthymios Chrysanthopoulos | National Technical University of Athens - School of Mining and Metallurgical Engineering - Laboratory of Engineering Geology and Hydrogeology |  | Athens, Greece | 8530 |
+| 5 | [mariosknl](https://github.com/mariosknl) | Marios Kanellopoulos | Front End Developer | mariosknl | Patras, Greece | 8066 |
 | 6 | [itcmsgr](https://github.com/itcmsgr) | Antonios Voulvoulis | ITCMS.GR  |  | Athens | 7305 |
 | 7 | [aristath](https://github.com/aristath) | Ari Stathopoulos | Emilia Capital | aristath | Corinth, Greece | 6827 |
 | 8 | [Cranot](https://github.com/Cranot) | Dimitris | CosmoHac | DimitriosMitsos | Greece | 5575 |

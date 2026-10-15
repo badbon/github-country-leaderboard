@@ -1,8 +1,8 @@
 # Followers - Guatemala
 
-Generated: 2026-10-15T19:22:26.940Z
+Generated: 2026-10-15T20:44:11.068Z
 
-Users: 3221
+Users: 3220
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -14,15 +14,15 @@ Users: 3221
 | 6 | [micromasterandroid](https://github.com/micromasterandroid) | amoraleschan | Galileo University |  | Guatemala | 217 |
 | 7 | [JPaulMora](https://github.com/JPaulMora) | John Mora | nimble. | jpaulmora | Guatemala | 210 |
 | 8 | [tahayk3](https://github.com/tahayk3) | Cristian Tahay |  |  | Guatemala | 186 |
-| 9 | [luisespino](https://github.com/luisespino) | Luis Espino | Universidad de San Carlos de Guatemala |  | Guatemala | 170 |
-| 10 | [sergioarmgpl](https://github.com/sergioarmgpl) | Sergio Méndez | USAC | sergioarmgpl | Guatemala | 169 |
+| 9 | [sergioarmgpl](https://github.com/sergioarmgpl) | Sergio Méndez | USAC | sergioarmgpl | Guatemala | 171 |
+| 10 | [luisespino](https://github.com/luisespino) | Luis Espino | Universidad de San Carlos de Guatemala |  | Guatemala | 170 |
 | 11 | [RandolphVI](https://github.com/RandolphVI) | Randolph |  |  | Guatemala | 162 |
 | 12 | [XaviAlvarado18](https://github.com/XaviAlvarado18) | Javier Alvarado | Universidad del Valle de Guatemala |  | Guatemala | 160 |
 | 13 | [ericknavarro](https://github.com/ericknavarro) | Erick Navarro |  |  | Guatemala | 159 |
 | 14 | [jinchuika](https://github.com/jinchuika) | Luis Carlos | PatientPoint Technologies |  | Guatemala | 136 |
-| 15 | [Elmnik](https://github.com/Elmnik) | Elmer Aguilar | BDG S.A |  | Guatemala | 134 |
-| 16 | [brandonT2002](https://github.com/brandonT2002) | Brandon Tejaxún | Universidad San Carlos de Guatemala | BrandonT1002 | Guatemala | 125 |
-| 17 | [luislopez-dev](https://github.com/luislopez-dev) | Luis René López  | Pharmaceutical industry |  | Guatemala | 123 |
-| 18 | [Alvaro-SP](https://github.com/Alvaro-SP) | Alvaro Socop |  | socop2412 | Guatemala | 122 |
-| 19 | [elmergustavo](https://github.com/elmergustavo) | Gustavo (tavcode)  |  | gustavo_dev_ | Quetzaltenango, Guatemala | 119 |
-| 20 | [cms](https://github.com/cms) | Christian C. Salvadó |  |  | Guatemala | 117 |
+| 15 | [brandonT2002](https://github.com/brandonT2002) | Brandon Tejaxún | Universidad San Carlos de Guatemala | BrandonT1002 | Guatemala | 125 |
+| 16 | [luislopez-dev](https://github.com/luislopez-dev) | Luis René López  | Pharmaceutical industry |  | Guatemala | 123 |
+| 17 | [Alvaro-SP](https://github.com/Alvaro-SP) | Alvaro Socop |  | socop2412 | Guatemala | 122 |
+| 18 | [elmergustavo](https://github.com/elmergustavo) | Gustavo (tavcode)  |  | gustavo_dev_ | Quetzaltenango, Guatemala | 119 |
+| 19 | [cms](https://github.com/cms) | Christian C. Salvadó |  |  | Guatemala | 117 |
+| 20 | [tian2992](https://github.com/tian2992) | Sebastian Oliva |  |  | Guatemala | 114 |

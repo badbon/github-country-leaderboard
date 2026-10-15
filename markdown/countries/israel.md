@@ -1,6 +1,6 @@
 # Israel
 
-Indexed users: 12,427
+Indexed users: 12,426
 
 | Leaderboard | Link |
 |---|---|
@@ -45,18 +45,18 @@ Indexed users: 12,427
 | 6 | [ariannamethod](https://github.com/ariannamethod) | Arianna Method | Israel | 8,865 |
 | 7 | [kdroidFilter](https://github.com/kdroidFilter) | Elie Gambache | Jerusalem Israel | 8,365 |
 | 8 | [kossoy](https://github.com/kossoy) | Oleg Kossoy | Israel | 7,229 |
-| 9 | [elie222](https://github.com/elie222) | Elie Steinbock | Tel Aviv, Israel | 7,033 |
-| 10 | [alonf](https://github.com/alonf) | Alon Fliess | Israel | 6,869 |
-| 11 | [veltzer](https://github.com/veltzer) | Mark Veltzer | Holon, Israel | 6,740 |
-| 12 | [EtanHey](https://github.com/EtanHey) | Etan Heyman | Rehovot, Israel | 6,251 |
-| 13 | [lirantal](https://github.com/lirantal) | Liran Tal | Tel Aviv, Israel | 6,163 |
-| 14 | [szabgab](https://github.com/szabgab) | Gábor Szabó | Modiin, Israel | 5,823 |
-| 15 | [RonenMars](https://github.com/RonenMars) | Ronen Mars | Israel | 5,228 |
-| 16 | [gkorland](https://github.com/gkorland) | Guy Korland | Israel | 5,206 |
-| 17 | [kerbelp](https://github.com/kerbelp) | Pavel Kerbel | Israel | 5,166 |
-| 18 | [danielrosehill](https://github.com/danielrosehill) | Daniel Rosehill | Jerusalem Or Remote | 5,145 |
-| 19 | [dleshem](https://github.com/dleshem) | Danny Leshem | Tel Aviv, Israel | 5,080 |
-| 20 | [nimrodbusany](https://github.com/nimrodbusany) | nimrod busany | Israel | 4,818 |
+| 9 | [BigBIueWhale](https://github.com/BigBIueWhale) | Ronen Zyroff | Israel | 7,206 |
+| 10 | [elie222](https://github.com/elie222) | Elie Steinbock | Tel Aviv, Israel | 7,033 |
+| 11 | [alonf](https://github.com/alonf) | Alon Fliess | Israel | 6,869 |
+| 12 | [veltzer](https://github.com/veltzer) | Mark Veltzer | Holon, Israel | 6,740 |
+| 13 | [EtanHey](https://github.com/EtanHey) | Etan Heyman | Rehovot, Israel | 6,251 |
+| 14 | [lirantal](https://github.com/lirantal) | Liran Tal | Tel Aviv, Israel | 6,163 |
+| 15 | [szabgab](https://github.com/szabgab) | Gábor Szabó | Modiin, Israel | 5,823 |
+| 16 | [RonenMars](https://github.com/RonenMars) | Ronen Mars | Israel | 5,228 |
+| 17 | [gkorland](https://github.com/gkorland) | Guy Korland | Israel | 5,206 |
+| 18 | [kerbelp](https://github.com/kerbelp) | Pavel Kerbel | Israel | 5,166 |
+| 19 | [danielrosehill](https://github.com/danielrosehill) | Daniel Rosehill | Jerusalem Or Remote | 5,145 |
+| 20 | [dleshem](https://github.com/dleshem) | Danny Leshem | Tel Aviv, Israel | 5,080 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 12,427
 | 19 | [kuchin](https://github.com/kuchin) | Dima Kuchin | Israel | 665 |
 | 20 | [YuvalNirkin](https://github.com/YuvalNirkin) | Yuval Nirkin | Tel Aviv, Israel | 641 |
 
-Generated: 2026-10-15T19:27:25.606Z
+Generated: 2026-10-15T20:48:08.938Z

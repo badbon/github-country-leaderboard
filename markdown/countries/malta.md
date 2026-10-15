@@ -25,7 +25,7 @@ Indexed users: 1,225
 | 11 | [polp6880](https://github.com/polp6880) | Paul Portelli | Malta | 8,837 |
 | 12 | [mauroziux](https://github.com/mauroziux) | Mauricio Suárez vega | malta | 8,337 |
 | 13 | [angusgee](https://github.com/angusgee) | Angus Girvan | Malta | 8,219 |
-| 14 | [m2ximus](https://github.com/m2ximus) | max—os | Malta | 7,471 |
+| 14 | [m2ximus](https://github.com/m2ximus) | max—os | Malta | 7,610 |
 | 15 | [iko2000](https://github.com/iko2000) | Iviko Shengelia | Malta | 7,327 |
 | 16 | [KimSpecht](https://github.com/KimSpecht) | Kim Pedersen | Malta | 7,238 |
 | 17 | [ksazid](https://github.com/ksazid) | Sazid | Malta | 6,244 |
@@ -83,4 +83,4 @@ Indexed users: 1,225
 | 19 | [mattcg](https://github.com/mattcg) | Matthew Caruana Galizia | Malta | 126 |
 | 20 | [CM2Walki](https://github.com/CM2Walki) | Walki | Malta | 118 |
 
-Generated: 2026-10-15T19:36:02.406Z
+Generated: 2026-10-15T20:56:16.993Z

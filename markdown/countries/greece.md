@@ -1,6 +1,6 @@
 # Greece
 
-Indexed users: 15,567
+Indexed users: 15,565
 
 | Leaderboard | Link |
 |---|---|
@@ -31,7 +31,7 @@ Indexed users: 15,567
 | 17 | [GMetaxakis](https://github.com/GMetaxakis) | Georgios Metaxakis | Greece | 10,248 |
 | 18 | [kostis-codefresh](https://github.com/kostis-codefresh) | Kostis (Octopus Deploy) | Athens Greece | 9,257 |
 | 19 | [giannisp](https://github.com/giannisp) | Ioannis Poulakas | Greece | 9,094 |
-| 20 | [cosmix](https://github.com/cosmix) | Dimosthenis Kaponis | Athens, Greece | 8,320 |
+| 20 | [efthymios19](https://github.com/efthymios19) | Efthymios Chrysanthopoulos | Athens, Greece | 8,530 |
 
 ## Public Contributions
 
@@ -40,8 +40,8 @@ Indexed users: 15,567
 | 1 | [pablof7z](https://github.com/pablof7z) | Pablo Fernandez | Kalymnos, Greece | 22,485 |
 | 2 | [apmantza](https://github.com/apmantza) | Apostolos Mantzaris | Athens, Greece | 9,497 |
 | 3 | [kostis-codefresh](https://github.com/kostis-codefresh) | Kostis (Octopus Deploy) | Athens Greece | 9,257 |
-| 4 | [mariosknl](https://github.com/mariosknl) | Marios Kanellopoulos | Patras, Greece | 8,066 |
-| 5 | [efthymios19](https://github.com/efthymios19) | Efthymios Chrysanthopoulos | Athens, Greece | 7,992 |
+| 4 | [efthymios19](https://github.com/efthymios19) | Efthymios Chrysanthopoulos | Athens, Greece | 8,530 |
+| 5 | [mariosknl](https://github.com/mariosknl) | Marios Kanellopoulos | Patras, Greece | 8,066 |
 | 6 | [itcmsgr](https://github.com/itcmsgr) | Antonios Voulvoulis | Athens | 7,305 |
 | 7 | [aristath](https://github.com/aristath) | Ari Stathopoulos | Corinth, Greece | 6,827 |
 | 8 | [Cranot](https://github.com/Cranot) | Dimitris | Greece | 5,575 |
@@ -83,4 +83,4 @@ Indexed users: 15,567
 | 19 | [EleftheriaBatsou](https://github.com/EleftheriaBatsou) | Eleftheria Batsou | Thessaloniki, Greece | 808 |
 | 20 | [chsakell](https://github.com/chsakell) | Christos Sakellarios | Athens, Greece | 762 |
 
-Generated: 2026-10-15T19:20:07.320Z
+Generated: 2026-10-15T20:43:31.565Z

@@ -1,6 +1,6 @@
 # Paraguay
 
-Indexed users: 2,014
+Indexed users: 2,013
 
 | Leaderboard | Link |
 |---|---|
@@ -54,33 +54,33 @@ Indexed users: 2,014
 | 15 | [cardozoaldama](https://github.com/cardozoaldama) | Fernando Cardozo | Paraguay | 980 |
 | 16 | [Renetrox](https://github.com/Renetrox) | Dino René Caballero Marquez | Paraguay | 971 |
 | 17 | [janparkio](https://github.com/janparkio) | Jan Park | Paraguay | 966 |
-| 18 | [da21nny](https://github.com/da21nny) | Edgar Vega | Paraguay | 906 |
-| 19 | [isaias-alt](https://github.com/isaias-alt) | Lucas Isaias Casco | Paraguay | 892 |
-| 20 | [hekatonkheirex](https://github.com/hekatonkheirex) | Rodrigo Y. Murayama | Asunción, Paraguay | 891 |
+| 18 | [matiasinsaurralde](https://github.com/matiasinsaurralde) | Matías Insaurralde | Paraguay | 931 |
+| 19 | [da21nny](https://github.com/da21nny) | Edgar Vega | Paraguay | 906 |
+| 20 | [isaias-alt](https://github.com/isaias-alt) | Lucas Isaias Casco | Paraguay | 892 |
 
 ## Followers
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [matiasinsaurralde](https://github.com/matiasinsaurralde) | Matías Insaurralde | Paraguay | 2,012 |
+| 1 | [matiasinsaurralde](https://github.com/matiasinsaurralde) | Matías Insaurralde | Paraguay | 2,054 |
 | 2 | [biagiola](https://github.com/biagiola) | David Biagiola | Asunción | 592 |
 | 3 | [lexzer42](https://github.com/lexzer42) | Oscar Rojas | Asunción, Paraguay | 527 |
-| 4 | [crodas](https://github.com/crodas) | C | Asunción, Paraguay | 424 |
-| 5 | [melizeche](https://github.com/melizeche) | Marcelo Elizeche Landó | Paraguay | 389 |
-| 6 | [blaszorrilla](https://github.com/blaszorrilla) | Blas Zorrilla | Paraguay | 387 |
-| 7 | [tchx84](https://github.com/tchx84) | Martin Abente Lahaye | Paraguay | 264 |
-| 8 | [Tom5521](https://github.com/Tom5521) | Tom | Paraguay | 230 |
-| 9 | [nemesiscodex](https://github.com/nemesiscodex) | Julio Daniel Reyes | Paraguay | 209 |
-| 10 | [prolic](https://github.com/prolic) | Sascha-Oliver Prolić | Paraguay | 201 |
-| 11 | [abdelp](https://github.com/abdelp) | Abdel Pérez Téllez | Asunción, Paraguay | 182 |
-| 12 | [skyvanguard](https://github.com/skyvanguard) |  | Paraguay | 181 |
-| 13 | [garyservin](https://github.com/garyservin) | Gary Servin | Asunción - Paraguay | 154 |
-| 14 | [pablo](https://github.com/pablo) | Pablo Santa Cruz | Asunción, Paraguay | 151 |
-| 15 | [WilliBobadilla](https://github.com/WilliBobadilla) | Williams Ismael Bobadilla Torres  | Paraguay | 136 |
-| 16 | [ramirezsebas](https://github.com/ramirezsebas) | Matias Sebastian Ramirez Brizuela | Fernando de la Mora, Central, Paraguay | 128 |
-| 17 | [cardozoaldama](https://github.com/cardozoaldama) | Fernando Cardozo | Paraguay | 125 |
-| 18 | [ivankoop](https://github.com/ivankoop) | Ivan Koop  | Asunción, Paraguay | 116 |
-| 19 | [leodufer](https://github.com/leodufer) | Oscar Duarte | Ciudad del Este,  Paraguay | 116 |
-| 20 | [metakeule](https://github.com/metakeule) | metakeule | Asunción / Paraguay | 109 |
+| 4 | [melizeche](https://github.com/melizeche) | Marcelo Elizeche Landó | Paraguay | 389 |
+| 5 | [blaszorrilla](https://github.com/blaszorrilla) | Blas Zorrilla | Paraguay | 387 |
+| 6 | [tchx84](https://github.com/tchx84) | Martin Abente Lahaye | Paraguay | 264 |
+| 7 | [Tom5521](https://github.com/Tom5521) | Tom | Paraguay | 230 |
+| 8 | [nemesiscodex](https://github.com/nemesiscodex) | Julio Daniel Reyes | Paraguay | 209 |
+| 9 | [prolic](https://github.com/prolic) | Sascha-Oliver Prolić | Paraguay | 201 |
+| 10 | [abdelp](https://github.com/abdelp) | Abdel Pérez Téllez | Asunción, Paraguay | 182 |
+| 11 | [skyvanguard](https://github.com/skyvanguard) |  | Paraguay | 181 |
+| 12 | [garyservin](https://github.com/garyservin) | Gary Servin | Asunción - Paraguay | 154 |
+| 13 | [pablo](https://github.com/pablo) | Pablo Santa Cruz | Asunción, Paraguay | 151 |
+| 14 | [WilliBobadilla](https://github.com/WilliBobadilla) | Williams Ismael Bobadilla Torres  | Paraguay | 136 |
+| 15 | [ramirezsebas](https://github.com/ramirezsebas) | Matias Sebastian Ramirez Brizuela | Fernando de la Mora, Central, Paraguay | 128 |
+| 16 | [cardozoaldama](https://github.com/cardozoaldama) | Fernando Cardozo | Paraguay | 125 |
+| 17 | [ivankoop](https://github.com/ivankoop) | Ivan Koop  | Asunción, Paraguay | 116 |
+| 18 | [leodufer](https://github.com/leodufer) | Oscar Duarte | Ciudad del Este,  Paraguay | 116 |
+| 19 | [metakeule](https://github.com/metakeule) | metakeule | Asunción / Paraguay | 109 |
+| 20 | [replay](https://github.com/replay) | Mauro Stettler | Asuncion, Paraguay | 105 |
 
-Generated: 2026-10-15T19:47:02.535Z
+Generated: 2026-10-15T21:07:32.245Z

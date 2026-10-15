@@ -1,8 +1,8 @@
 # Followers - Israel
 
-Generated: 2026-10-15T19:27:25.606Z
+Generated: 2026-10-15T20:48:08.938Z
 
-Users: 12427
+Users: 12426
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

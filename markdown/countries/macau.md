@@ -30,7 +30,7 @@ Indexed users: 439
 | 16 | [aungminnkhant9400](https://github.com/aungminnkhant9400) | Rollo | Macau | 1,790 |
 | 17 | [HansiChan](https://github.com/HansiChan) | Colin | Macau | 1,764 |
 | 18 | [hheei](https://github.com/hheei) | Lo Chon Hei | Macau | 1,754 |
-| 19 | [yyyyyyounger](https://github.com/yyyyyyounger) | Rookie, LIN | Macau | 1,642 |
+| 19 | [yyyyyyounger](https://github.com/yyyyyyounger) | Rookie, LIN | Macau | 1,641 |
 | 20 | [ygqygq2](https://github.com/ygqygq2) | Chinge Yang | macao | 1,638 |
 
 ## Public Contributions
@@ -44,7 +44,7 @@ Indexed users: 439
 | 5 | [RyanKung](https://github.com/RyanKung) | Elder Ryan | Macau | 2,142 |
 | 6 | [hheei](https://github.com/hheei) | Lo Chon Hei | Macau | 1,754 |
 | 7 | [wahengchang](https://github.com/wahengchang) | peterchang | macau | 1,336 |
-| 8 | [yyyyyyounger](https://github.com/yyyyyyounger) | Rookie, LIN | Macau | 1,285 |
+| 8 | [yyyyyyounger](https://github.com/yyyyyyounger) | Rookie, LIN | Macau | 1,284 |
 | 9 | [simoniong](https://github.com/simoniong) | Simon Iong | Macau | 1,277 |
 | 10 | [mrvictoru](https://github.com/mrvictoru) | Victor | Macau | 934 |
 | 11 | [1595901624](https://github.com/1595901624) | Cloris | Macau | 842 |
@@ -83,4 +83,4 @@ Indexed users: 439
 | 19 | [Boom5426](https://github.com/Boom5426) | Bo li (李波) | Macau | 68 |
 | 20 | [mugpeng](https://github.com/mugpeng) | Peng | macao | 67 |
 
-Generated: 2026-10-15T19:33:54.356Z
+Generated: 2026-10-15T20:54:35.929Z
