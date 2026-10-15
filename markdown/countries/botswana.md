@@ -18,7 +18,7 @@ Indexed users: 533
 | 4 | [darula-hpp](https://github.com/darula-hpp) | Olebogeng Mbedzi | Gaborone | 2,678 |
 | 5 | [tiromodibedi](https://github.com/tiromodibedi) | Tiro Modibedi | Gaborone, Botswana | 2,611 |
 | 6 | [kmaphane](https://github.com/kmaphane) | Kenna Maphane | Maun, Botswana | 2,477 |
-| 7 | [Koketso1999](https://github.com/Koketso1999) | Koketso Morapedi | Gaborone, Botswana | 2,342 |
+| 7 | [Koketso1999](https://github.com/Koketso1999) | Koketso Morapedi | Gaborone, Botswana | 2,335 |
 | 8 | [ChinyangaTL](https://github.com/ChinyangaTL) | Les Chinyanga | Gaborone, Botswana | 2,299 |
 | 9 | [Fuzzworth](https://github.com/Fuzzworth) | Nyangasi Mhozya | Botswana | 2,148 |
 | 10 | [Batoli19](https://github.com/Batoli19) | future | Gaborone | 2,135 |
@@ -83,4 +83,4 @@ Indexed users: 533
 | 19 | [BakangMonei](https://github.com/BakangMonei) | Monei Bakang | Gaborone, Botswana | 34 |
 | 20 | [Tebalo](https://github.com/Tebalo) | Bopaki | Botswana, Gaborone-Mokobaxane | 34 |
 
-Generated: 2026-10-15T12:31:28.074Z
+Generated: 2026-10-15T13:56:46.581Z

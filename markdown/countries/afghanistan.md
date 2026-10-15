@@ -25,7 +25,7 @@ Indexed users: 1,487
 | 11 | [Ali-Aref](https://github.com/Ali-Aref) | Ali Aref | Kabul Afghanistan | 7,369 |
 | 12 | [Mustafa-Zahedi](https://github.com/Mustafa-Zahedi) | Mustafa Zahedi | Herat, Afghanistan | 6,766 |
 | 13 | [ShoaibNaseri](https://github.com/ShoaibNaseri) | Shoaib Naseri | Afghanistan | 6,157 |
-| 14 | [WiyarAhmadZai](https://github.com/WiyarAhmadZai) | Muhammad Hakeem Wiyar | Kabul khoshal khan | 5,819 |
+| 14 | [WiyarAhmadZai](https://github.com/WiyarAhmadZai) | Muhammad Hakeem Wiyar | Kabul khoshal khan | 6,063 |
 | 15 | [shahghasiadil](https://github.com/shahghasiadil) | Shahghasi Adil | Afghanistan | 5,753 |
 | 16 | [shafaqatullah](https://github.com/shafaqatullah) | shafaqatullah zaheer | Kabul, Afghanistan | 5,737 |
 | 17 | [ahmadjoya](https://github.com/ahmadjoya) | Ahmad Joya | Afghanistan | 5,201 |
@@ -42,8 +42,8 @@ Indexed users: 1,487
 | 3 | [haroonrashidzadran](https://github.com/haroonrashidzadran) | Haroon Rashid Zadran | Kabul, Afghanistan | 5,680 |
 | 4 | [basirkhan1995](https://github.com/basirkhan1995) | Basir Hashimi | Afghanistan | 4,857 |
 | 5 | [khalidafghanmal](https://github.com/khalidafghanmal) | khalid afghanmal | Afghanistan | 2,782 |
-| 6 | [alawoddin](https://github.com/alawoddin) | Alawoddin khedmat | kabul | 2,601 |
-| 7 | [WiyarAhmadZai](https://github.com/WiyarAhmadZai) | Muhammad Hakeem Wiyar | Kabul khoshal khan | 2,578 |
+| 6 | [alawoddin](https://github.com/alawoddin) | Alawoddin khedmat | kabul | 2,628 |
+| 7 | [WiyarAhmadZai](https://github.com/WiyarAhmadZai) | Muhammad Hakeem Wiyar | Kabul khoshal khan | 2,465 |
 | 8 | [aliabdullahnasiri](https://github.com/aliabdullahnasiri) | Ali Abdullah Nasiri | Kabul, Afghanistan | 2,206 |
 | 9 | [imranmalakzai](https://github.com/imranmalakzai) | Imran Malakzai | Afghanistan | 1,620 |
 | 10 | [Ozair0101](https://github.com/Ozair0101) | Mohmmad Ozair Khurami | Kabul, Afghanistan | 1,604 |
@@ -83,4 +83,4 @@ Indexed users: 1,487
 | 19 | [zainabturkmen](https://github.com/zainabturkmen) | Zainab Turkmen | Kabul  | 125 |
 | 20 | [NaveedAhmadHematmal](https://github.com/NaveedAhmadHematmal) | Naveed Ahmad Hematmal | Afghanistan | 117 |
 
-Generated: 2026-10-15T12:20:50.826Z
+Generated: 2026-10-15T13:47:29.789Z

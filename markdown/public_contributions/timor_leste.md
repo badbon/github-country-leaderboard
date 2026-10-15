@@ -1,6 +1,6 @@
 # Public Contributions - Timor-Leste
 
-Generated: 2026-10-15T12:13:16.359Z
+Generated: 2026-10-15T13:37:50.824Z
 
 Users: 77
 
@@ -22,7 +22,7 @@ Users: 77
 | 14 | [timorleste](https://github.com/timorleste) | Degree Background: Information Management (Associate Degree), Information Systems (B.Comp.Sc), Information Technology (M.Eng). Certified Experience in Spatial intelligence, Interested in Photography, Audiovisual Archive and IT-Systems Architect |  | tonybehar | Dili, Timor-Leste | 41 |
 | 15 | [bmzashura](https://github.com/bmzashura) | Bemis Huntala |  |  | Dili, Timor Leste | 36 |
 | 16 | [axlescurial-lang](https://github.com/axlescurial-lang) | EVENSANTA |  |  | Timor-leste | 34 |
-| 17 | [XICANO88](https://github.com/XICANO88) | XICANO |  |  | Guarda-Iliheu, Timor Lorosa'e | 31 |
+| 17 | [XICANO88](https://github.com/XICANO88) | XICANO |  |  | Guarda-Iliheu, East Timor | 31 |
 | 18 | [pedrix-48](https://github.com/pedrix-48) | Jessua Rodrigues | UNTL |  | Dili | 26 |
 | 19 | [revolta12](https://github.com/revolta12) | NizioDevT |  |  | Dili, Timor-Leste | 18 |
 | 20 | [GregoriousdaConceicao](https://github.com/GregoriousdaConceicao) | Charles |  |  | Dili | 16 |

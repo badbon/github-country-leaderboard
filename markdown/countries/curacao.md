@@ -76,11 +76,11 @@ Indexed users: 53
 | 12 | [rscoopcur](https://github.com/rscoopcur) | Richard Scoop | Willemstad, Curaçao, Dutch Caribbean | 14 |
 | 13 | [r3c4ll](https://github.com/r3c4ll) | Ali Moreno | Willemstad, Curaçao. | 13 |
 | 14 | [bythealphabet](https://github.com/bythealphabet) | Isaac Lucas | Willemstad, Curacao | 7 |
-| 15 | [evobersi](https://github.com/evobersi) | Erica | Willemstad | 7 |
-| 16 | [LuukDAO](https://github.com/LuukDAO) | LuukDAO | Curaçao | 7 |
-| 17 | [drosalia](https://github.com/drosalia) | Darrell Rosalia | Curaçao | 6 |
+| 15 | [drosalia](https://github.com/drosalia) | Darrell Rosalia | Curaçao | 7 |
+| 16 | [evobersi](https://github.com/evobersi) | Erica | Willemstad | 7 |
+| 17 | [LuukDAO](https://github.com/LuukDAO) | LuukDAO | Curaçao | 7 |
 | 18 | [michaelfinies](https://github.com/michaelfinies) | Michelangelo Finies | Curaçao | 6 |
 | 19 | [theowlsden](https://github.com/theowlsden) | Shaquil Maria | Curaçao | 6 |
 | 20 | [coinversus](https://github.com/coinversus) | CoinVersus | Curaçao | 5 |
 
-Generated: 2026-10-15T12:38:10.115Z
+Generated: 2026-10-15T14:06:01.589Z

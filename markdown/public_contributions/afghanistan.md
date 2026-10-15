@@ -1,6 +1,6 @@
 # Public Contributions - Afghanistan
 
-Generated: 2026-10-15T12:20:50.826Z
+Generated: 2026-10-15T13:47:29.789Z
 
 Users: 1487
 
@@ -11,8 +11,8 @@ Users: 1487
 | 3 | [haroonrashidzadran](https://github.com/haroonrashidzadran) | Haroon Rashid Zadran | @BarlasTech | A1_HAROON | Kabul, Afghanistan | 5680 |
 | 4 | [basirkhan1995](https://github.com/basirkhan1995) | Basir Hashimi | Zaitoon |  | Afghanistan | 4857 |
 | 5 | [khalidafghanmal](https://github.com/khalidafghanmal) | khalid afghanmal | Smart City Solution ICT |  | Afghanistan | 2782 |
-| 6 | [alawoddin](https://github.com/alawoddin) | Alawoddin khedmat | tawana |  | kabul | 2601 |
-| 7 | [WiyarAhmadZai](https://github.com/WiyarAhmadZai) | Muhammad Hakeem Wiyar | Wiyar Companies  |  | Kabul khoshal khan | 2578 |
+| 6 | [alawoddin](https://github.com/alawoddin) | Alawoddin khedmat | tawana |  | kabul | 2628 |
+| 7 | [WiyarAhmadZai](https://github.com/WiyarAhmadZai) | Muhammad Hakeem Wiyar | Wiyar Companies  |  | Kabul khoshal khan | 2465 |
 | 8 | [aliabdullahnasiri](https://github.com/aliabdullahnasiri) | Ali Abdullah Nasiri |  |  | Kabul, Afghanistan | 2206 |
 | 9 | [imranmalakzai](https://github.com/imranmalakzai) | Imran Malakzai | Hendra.com |  | Afghanistan | 1620 |
 | 10 | [Ozair0101](https://github.com/Ozair0101) | Mohmmad Ozair Khurami | Hushmand Shahar Tech |  | Kabul, Afghanistan | 1604 |

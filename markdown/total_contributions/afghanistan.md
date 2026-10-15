@@ -1,6 +1,6 @@
 # Total Contributions - Afghanistan
 
-Generated: 2026-10-15T12:20:50.826Z
+Generated: 2026-10-15T13:47:29.789Z
 
 Users: 1487
 
@@ -19,7 +19,7 @@ Users: 1487
 | 11 | [Ali-Aref](https://github.com/Ali-Aref) | Ali Aref |  |  | Kabul Afghanistan | 7369 |
 | 12 | [Mustafa-Zahedi](https://github.com/Mustafa-Zahedi) | Mustafa Zahedi | @Daktilo-CMS | Mustafa_Zahedi2 | Herat, Afghanistan | 6766 |
 | 13 | [ShoaibNaseri](https://github.com/ShoaibNaseri) | Shoaib Naseri |  |  | Afghanistan | 6157 |
-| 14 | [WiyarAhmadZai](https://github.com/WiyarAhmadZai) | Muhammad Hakeem Wiyar | Wiyar Companies  |  | Kabul khoshal khan | 5819 |
+| 14 | [WiyarAhmadZai](https://github.com/WiyarAhmadZai) | Muhammad Hakeem Wiyar | Wiyar Companies  |  | Kabul khoshal khan | 6063 |
 | 15 | [shahghasiadil](https://github.com/shahghasiadil) | Shahghasi Adil | Sr. Software Engineer | shahghasi_adil | Afghanistan | 5753 |
 | 16 | [shafaqatullah](https://github.com/shafaqatullah) | shafaqatullah zaheer |  |  | Kabul, Afghanistan | 5737 |
 | 17 | [ahmadjoya](https://github.com/ahmadjoya) | Ahmad Joya | Softwareship-io |  | Afghanistan | 5201 |

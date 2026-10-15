@@ -14,7 +14,7 @@ Indexed users: 487
 |---:|---|---|---|---:|
 | 1 | [faso-dev](https://github.com/faso-dev) | Clovis S.J Onadja | Burkina-Faso,Ouagadougou | 8,437 |
 | 2 | [tky0065](https://github.com/tky0065) | Enokdev | Burkina Faso | 6,546 |
-| 3 | [kulturman](https://github.com/kulturman) | Arnaud Bakyono  | Ouagadougou | 4,547 |
+| 3 | [kulturman](https://github.com/kulturman) | Arnaud Bakyono  | Ouagadougou | 4,546 |
 | 4 | [Rafik226](https://github.com/Rafik226) | Oumar Abdoul Rafik Sawadogo | Burkina Faso, Kadiogo, Ouagadougou | 4,403 |
 | 5 | [Y4NN777](https://github.com/Y4NN777) | Ragnang-Newende Yanis Axel DABO | Burkina Faso | 3,949 |
 | 6 | [sokevinjonas](https://github.com/sokevinjonas) | SO Kevin Jonas Gningnabe | BURKINA FASO | 3,921 |
@@ -83,4 +83,4 @@ Indexed users: 487
 | 19 | [sokevinjonas](https://github.com/sokevinjonas) | SO Kevin Jonas Gningnabe | BURKINA FASO | 38 |
 | 20 | [kulturman](https://github.com/kulturman) | Arnaud Bakyono  | Ouagadougou | 37 |
 
-Generated: 2026-10-15T12:33:23.185Z
+Generated: 2026-10-15T13:59:36.333Z

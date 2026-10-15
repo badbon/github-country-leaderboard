@@ -14,7 +14,7 @@ Indexed users: 38
 |---:|---|---|---|---:|
 | 1 | [BazaarsBZR](https://github.com/BazaarsBZR) | Bazaars | Bazaars Limited, Intershore Chambers, Road Town, Tortola, British Virgin Islands | 6,432 |
 | 2 | [AI-Isaiah](https://github.com/AI-Isaiah) |  | British Virgin Islands | 3,590 |
-| 3 | [justmoon](https://github.com/justmoon) | Stefan Thomas | British Virgin Islands | 2,821 |
+| 3 | [justmoon](https://github.com/justmoon) | Stefan Thomas | British Virgin Islands | 3,051 |
 | 4 | [Dener1111](https://github.com/Dener1111) | DK | Road Town, British Virgin Islands | 2,090 |
 | 5 | [divyansh2681](https://github.com/divyansh2681) | Divyansh Agrawal | Virgin Islands | 444 |
 | 6 | [khaliidrahiim](https://github.com/khaliidrahiim) | N'Khoy K. R. Stoutt | British Virgin Islands | 64 |
@@ -22,7 +22,7 @@ Indexed users: 38
 | 8 | [dlichota](https://github.com/dlichota) | Dietmar Lichota | British Virgin Islands  | 57 |
 | 9 | [Domi261](https://github.com/Domi261) | Dominick | British Virgin Islands | 32 |
 | 10 | [Fraodd](https://github.com/Fraodd) | Fraodd | Tortola, British Virgin Islands | 16 |
-| 11 | [Chezo25](https://github.com/Chezo25) | Chezley Stoddard | Virgin Islands | 8 |
+| 11 | [Chezo25](https://github.com/Chezo25) | Chezley Stoddard | Virgin Islands | 9 |
 | 12 | [Bleistein](https://github.com/Bleistein) | Michael Bleistein | Virgin Gorda, British Virgin Islands | 5 |
 | 13 | [itspicklintime](https://github.com/itspicklintime) | picl | Virgin Islands | 2 |
 | 14 | [Alcatrax](https://github.com/Alcatrax) | Alcatrax | British Virgin Islands | 0 |
@@ -38,15 +38,15 @@ Indexed users: 38
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [AI-Isaiah](https://github.com/AI-Isaiah) |  | British Virgin Islands | 3,590 |
-| 2 | [BazaarsBZR](https://github.com/BazaarsBZR) | Bazaars | Bazaars Limited, Intershore Chambers, Road Town, Tortola, British Virgin Islands | 114 |
-| 3 | [dlichota](https://github.com/dlichota) | Dietmar Lichota | British Virgin Islands  | 57 |
-| 4 | [khaliidrahiim](https://github.com/khaliidrahiim) | N'Khoy K. R. Stoutt | British Virgin Islands | 50 |
-| 5 | [Domi261](https://github.com/Domi261) | Dominick | British Virgin Islands | 32 |
-| 6 | [Computerfile](https://github.com/Computerfile) | Stigma | Virgin Islands | 19 |
-| 7 | [Fraodd](https://github.com/Fraodd) | Fraodd | Tortola, British Virgin Islands | 16 |
-| 8 | [Dener1111](https://github.com/Dener1111) | DK | Road Town, British Virgin Islands | 15 |
-| 9 | [justmoon](https://github.com/justmoon) | Stefan Thomas | British Virgin Islands | 10 |
-| 10 | [Chezo25](https://github.com/Chezo25) | Chezley Stoddard | Virgin Islands | 8 |
+| 2 | [justmoon](https://github.com/justmoon) | Stefan Thomas | British Virgin Islands | 204 |
+| 3 | [BazaarsBZR](https://github.com/BazaarsBZR) | Bazaars | Bazaars Limited, Intershore Chambers, Road Town, Tortola, British Virgin Islands | 114 |
+| 4 | [dlichota](https://github.com/dlichota) | Dietmar Lichota | British Virgin Islands  | 57 |
+| 5 | [khaliidrahiim](https://github.com/khaliidrahiim) | N'Khoy K. R. Stoutt | British Virgin Islands | 50 |
+| 6 | [Domi261](https://github.com/Domi261) | Dominick | British Virgin Islands | 32 |
+| 7 | [Computerfile](https://github.com/Computerfile) | Stigma | Virgin Islands | 19 |
+| 8 | [Fraodd](https://github.com/Fraodd) | Fraodd | Tortola, British Virgin Islands | 16 |
+| 9 | [Dener1111](https://github.com/Dener1111) | DK | Road Town, British Virgin Islands | 15 |
+| 10 | [Chezo25](https://github.com/Chezo25) | Chezley Stoddard | Virgin Islands | 9 |
 | 11 | [Bleistein](https://github.com/Bleistein) | Michael Bleistein | Virgin Gorda, British Virgin Islands | 5 |
 | 12 | [itspicklintime](https://github.com/itspicklintime) | picl | Virgin Islands | 2 |
 | 13 | [Alcatrax](https://github.com/Alcatrax) | Alcatrax | British Virgin Islands | 0 |
@@ -83,4 +83,4 @@ Indexed users: 38
 | 19 | [BigThiccy2](https://github.com/BigThiccy2) | bigthiccy2 | Little Saint James, Virgin Islands | 2 |
 | 20 | [ilyBen](https://github.com/ilyBen) | Ben | Virgin Islands | 2 |
 
-Generated: 2026-10-15T12:32:53.963Z
+Generated: 2026-10-15T13:58:05.000Z

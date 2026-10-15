@@ -1,12 +1,12 @@
 # Total Contributions - Syria
 
-Generated: 2026-10-15T12:11:03.927Z
+Generated: 2026-10-15T13:36:46.529Z
 
 Users: 1481
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [sakeraldakak](https://github.com/sakeraldakak) | Saker Al Dakak | SEZARD |  | Syria, Damascus | 8001 |
+| 1 | [sakeraldakak](https://github.com/sakeraldakak) | Saker Al Dakak | SEZARD |  | Syria, Damascus | 8751 |
 | 2 | [MustafaFares445](https://github.com/MustafaFares445) | Mustafa Fares |  |  | Aleppo/Syria | 5707 |
 | 3 | [moaaz-alsyoufi](https://github.com/moaaz-alsyoufi) | Moaaz Alsyoufi |  |  | Homs, Syria | 5147 |
 | 4 | [ibrahim4433](https://github.com/ibrahim4433) | Ibrahim Andraws | IA team - Digital Voluntary Team (DVT) |  | Syria | 4647 |

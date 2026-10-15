@@ -1,17 +1,17 @@
 # Total Contributions - Andorra
 
-Generated: 2026-10-15T12:23:39.177Z
+Generated: 2026-10-15T13:49:09.500Z
 
 Users: 215
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [ericrisco](https://github.com/ericrisco) | Eric Risco de la Torre | Andorra Telecom | erisco_and | Andorra | 29668 |
-| 2 | [heldermanueltv](https://github.com/heldermanueltv) | Helder Manuel Torres Vieira | @innki-tech @humani-studio |  | Andorra la Vella | 12533 |
+| 2 | [heldermanueltv](https://github.com/heldermanueltv) | Helder Manuel Torres Vieira | @innki-tech @humani-studio |  | Andorra la Vella | 12556 |
 | 3 | [AdrianMastronardi](https://github.com/AdrianMastronardi) | Adrian Mastronardi |  | amastronardi | Andorra | 9940 |
 | 4 | [orimarti](https://github.com/orimarti) | Oriol Martí |  |  | Andorra | 9283 |
 | 5 | [castrolem](https://github.com/castrolem) | Luis Castro |  |  | Andorra la Vella, Andorra | 8768 |
-| 6 | [niwinz](https://github.com/niwinz) | Andrey Antukh | @kaleidos & @penpot |  | Andorra | 8587 |
+| 6 | [niwinz](https://github.com/niwinz) | Andrey Antukh | @kaleidos & @penpot |  | Andorra | 8528 |
 | 7 | [l3wi](https://github.com/l3wi) | Lewis Freiberg |  | lewifree | Andorra | 6308 |
 | 8 | [acastellana](https://github.com/acastellana) | Albert Castellana | @yeagerai | kstellana | Andorra | 5781 |
 | 9 | [alexmf91](https://github.com/alexmf91) | Alex Muñoz |  |  | Barcelona (Spain) \| Encamp (Andorra) | 5257 |
@@ -21,7 +21,7 @@ Users: 215
 | 13 | [cuva](https://github.com/cuva) | Hugo Cuvillier | Raycast |  | Andorra | 4230 |
 | 14 | [cmarfil](https://github.com/cmarfil) | Cristian Marfil |  |  | Andorra | 4185 |
 | 15 | [kopenkinda](https://github.com/kopenkinda) | Kopenkin Dmitrii | @salut-mercado  |  | Andorra | 3992 |
-| 16 | [sgirones](https://github.com/sgirones) | Salvador Gironès Gil |  |  | Andorra | 3444 |
+| 16 | [sgirones](https://github.com/sgirones) | Salvador Gironès Gil |  |  | Andorra | 3466 |
 | 17 | [ColColty](https://github.com/ColColty) | Tomàs Forné Cappeau | @surge-ai  |  | Andorra | 3443 |
 | 18 | [dvdjmnz](https://github.com/dvdjmnz) | David Jiménez |  |  | Andorra | 3390 |
 | 19 | [GRKdev](https://github.com/GRKdev) | G.R.K. | IAND |  | Andorra | 3094 |

@@ -1,21 +1,21 @@
 # Public Contributions - British Virgin Islands
 
-Generated: 2026-10-15T12:32:53.963Z
+Generated: 2026-10-15T13:58:05.000Z
 
 Users: 38
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [AI-Isaiah](https://github.com/AI-Isaiah) |  | Metaworld Fund |  | British Virgin Islands | 3590 |
-| 2 | [BazaarsBZR](https://github.com/BazaarsBZR) | Bazaars | Bazaars Limited | BazaarsBzr | Bazaars Limited, Intershore Chambers, Road Town, Tortola, British Virgin Islands | 114 |
-| 3 | [dlichota](https://github.com/dlichota) | Dietmar Lichota |  |  | British Virgin Islands  | 57 |
-| 4 | [khaliidrahiim](https://github.com/khaliidrahiim) | N'Khoy K. R. Stoutt | Government of the Virgin Islands |  | British Virgin Islands | 50 |
-| 5 | [Domi261](https://github.com/Domi261) | Dominick | VPB  | FlacoFumado | British Virgin Islands | 32 |
-| 6 | [Computerfile](https://github.com/Computerfile) | Stigma |  |  | Virgin Islands | 19 |
-| 7 | [Fraodd](https://github.com/Fraodd) | Fraodd |  |  | Tortola, British Virgin Islands | 16 |
-| 8 | [Dener1111](https://github.com/Dener1111) | DK |  |  | Road Town, British Virgin Islands | 15 |
-| 9 | [justmoon](https://github.com/justmoon) | Stefan Thomas | @coilhq | justmoon | British Virgin Islands | 10 |
-| 10 | [Chezo25](https://github.com/Chezo25) | Chezley Stoddard | Mongoose Academy | chezling | Virgin Islands | 8 |
+| 2 | [justmoon](https://github.com/justmoon) | Stefan Thomas | @coilhq | justmoon | British Virgin Islands | 204 |
+| 3 | [BazaarsBZR](https://github.com/BazaarsBZR) | Bazaars | Bazaars Limited | BazaarsBzr | Bazaars Limited, Intershore Chambers, Road Town, Tortola, British Virgin Islands | 114 |
+| 4 | [dlichota](https://github.com/dlichota) | Dietmar Lichota |  |  | British Virgin Islands  | 57 |
+| 5 | [khaliidrahiim](https://github.com/khaliidrahiim) | N'Khoy K. R. Stoutt | Government of the Virgin Islands |  | British Virgin Islands | 50 |
+| 6 | [Domi261](https://github.com/Domi261) | Dominick | VPB  | FlacoFumado | British Virgin Islands | 32 |
+| 7 | [Computerfile](https://github.com/Computerfile) | Stigma |  |  | Virgin Islands | 19 |
+| 8 | [Fraodd](https://github.com/Fraodd) | Fraodd |  |  | Tortola, British Virgin Islands | 16 |
+| 9 | [Dener1111](https://github.com/Dener1111) | DK |  |  | Road Town, British Virgin Islands | 15 |
+| 10 | [Chezo25](https://github.com/Chezo25) | Chezley Stoddard | Mongoose Academy | chezling | Virgin Islands | 9 |
 | 11 | [Bleistein](https://github.com/Bleistein) | Michael Bleistein | Bleistein Consulting Ltd. |  | Virgin Gorda, British Virgin Islands | 5 |
 | 12 | [itspicklintime](https://github.com/itspicklintime) | picl |  |  | Virgin Islands | 2 |
 | 13 | [Alcatrax](https://github.com/Alcatrax) | Alcatrax | alca.pb |  | British Virgin Islands | 0 |

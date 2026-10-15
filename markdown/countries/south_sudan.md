@@ -73,7 +73,7 @@ Indexed users: 132
 | 9 | [riakizo](https://github.com/riakizo) | Riak Isaac | South Sudan  | 33 |
 | 10 | [uojai](https://github.com/uojai) | UoJ Artificial Intelligence | Juba, South Sudan | 33 |
 | 11 | [AlierPM](https://github.com/AlierPM) | Alier  Philip Maguet | Juba, South Sudan | 29 |
-| 12 | [stephen-morlex](https://github.com/stephen-morlex) | Stephen Victor | Juba, South Sudan | 26 |
+| 12 | [stephen-morlex](https://github.com/stephen-morlex) | Stephen Victor | Juba, South Sudan | 25 |
 | 13 | [Konson22](https://github.com/Konson22) | Kon Akech | South Sudan | 21 |
 | 14 | [cholg2003](https://github.com/cholg2003) | Chol | South Sudan | 20 |
 | 15 | [PiengBol](https://github.com/PiengBol) | Pieng Bol | Juba, South Sudan | 19 |
@@ -83,4 +83,4 @@ Indexed users: 132
 | 19 | [Amalsouthsudan23](https://github.com/Amalsouthsudan23) | AMAL South Sudan | South Sudan | 15 |
 | 20 | [Drago-cod](https://github.com/Drago-cod) | Drago Samuel Jared | Juba, South Sudan | 15 |
 
-Generated: 2026-10-15T12:09:38.770Z
+Generated: 2026-10-15T13:34:35.912Z

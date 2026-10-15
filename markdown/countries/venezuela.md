@@ -13,25 +13,25 @@ Indexed users: 6,627
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [0noxtackore](https://github.com/0noxtackore) | 4NG3LL0_4P0NT3 | Venezuela | 52,041 |
-| 2 | [diegoesolorzano](https://github.com/diegoesolorzano) | Diego E. Solórzano Z. | Venezuela | 13,732 |
-| 3 | [Mdx2025](https://github.com/Mdx2025) | Marcelo Cedeno | Venezuela | 12,611 |
-| 4 | [bin-daldana](https://github.com/bin-daldana) | David Aldana | Venezuela | 11,960 |
-| 5 | [aiuoe](https://github.com/aiuoe) | rub3n | Venezuela | 11,493 |
-| 6 | [jefillysh](https://github.com/jefillysh) | Franklin Rodriguez | Venezuela | 10,295 |
-| 7 | [andresparilli](https://github.com/andresparilli) | Andres E. Parilli | Venezuela | 9,434 |
-| 8 | [megalinker](https://github.com/megalinker) | Jesús Pérez | Caracas, Venezuela | 9,330 |
-| 9 | [darthony](https://github.com/darthony) | Antonio Figueroa | Venezuela | 9,260 |
-| 10 | [davidadc](https://github.com/davidadc) | David Delgado | Táchira, Venezuela. | 9,119 |
-| 11 | [LuisAlejandro](https://github.com/LuisAlejandro) | Luis Alejandro | Maracay, Venezuela | 8,055 |
-| 12 | [The-BoxHead-Guy](https://github.com/The-BoxHead-Guy) | Jhon Alessandro | Venezuela | 7,875 |
-| 13 | [wilmerjpg](https://github.com/wilmerjpg) | Wilmer Prieto | Caracas, Venezuela. | 7,859 |
-| 14 | [AlexMGP7](https://github.com/AlexMGP7) | Alexander | Venezuela | 7,356 |
-| 15 | [ralvarezdev](https://github.com/ralvarezdev) | Ramón Álvarez | Venezuela | 7,257 |
-| 16 | [edinsonjohender](https://github.com/edinsonjohender) | Edinson Peña | Venezuela | 6,957 |
-| 17 | [renebell0](https://github.com/renebell0) | Rene Bello | Caracas/Venezuela | 6,890 |
-| 18 | [rich-97](https://github.com/rich-97) | Ricardo Moreno | Maracaibo, Venezuela | 6,804 |
-| 19 | [douglasdevsec](https://github.com/douglasdevsec) | Douglas Puente | Venezuela | 6,705 |
-| 20 | [juniorgerdet](https://github.com/juniorgerdet) | Junior | Caracas | 6,629 |
+| 2 | [ralvarezdev](https://github.com/ralvarezdev) | Ramón Álvarez | Venezuela | 18,151 |
+| 3 | [diegoesolorzano](https://github.com/diegoesolorzano) | Diego E. Solórzano Z. | Venezuela | 13,732 |
+| 4 | [Mdx2025](https://github.com/Mdx2025) | Marcelo Cedeno | Venezuela | 12,611 |
+| 5 | [bin-daldana](https://github.com/bin-daldana) | David Aldana | Venezuela | 11,960 |
+| 6 | [aiuoe](https://github.com/aiuoe) | rub3n | Venezuela | 11,493 |
+| 7 | [jefillysh](https://github.com/jefillysh) | Franklin Rodriguez | Venezuela | 10,295 |
+| 8 | [andresparilli](https://github.com/andresparilli) | Andres E. Parilli | Venezuela | 9,434 |
+| 9 | [megalinker](https://github.com/megalinker) | Jesús Pérez | Caracas, Venezuela | 9,330 |
+| 10 | [darthony](https://github.com/darthony) | Antonio Figueroa | Venezuela | 9,260 |
+| 11 | [davidadc](https://github.com/davidadc) | David Delgado | Táchira, Venezuela. | 9,119 |
+| 12 | [orozCoding](https://github.com/orozCoding) | Angel Orozco | Venezuela | 8,522 |
+| 13 | [LuisAlejandro](https://github.com/LuisAlejandro) | Luis Alejandro | Maracay, Venezuela | 8,055 |
+| 14 | [The-BoxHead-Guy](https://github.com/The-BoxHead-Guy) | Jhon Alessandro | Venezuela | 7,875 |
+| 15 | [wilmerjpg](https://github.com/wilmerjpg) | Wilmer Prieto | Caracas, Venezuela. | 7,859 |
+| 16 | [AlexMGP7](https://github.com/AlexMGP7) | Alexander | Venezuela | 7,356 |
+| 17 | [edinsonjohender](https://github.com/edinsonjohender) | Edinson Peña | Venezuela | 6,957 |
+| 18 | [renebell0](https://github.com/renebell0) | Rene Bello | Caracas/Venezuela | 6,890 |
+| 19 | [rich-97](https://github.com/rich-97) | Ricardo Moreno | Maracaibo, Venezuela | 6,804 |
+| 20 | [douglasdevsec](https://github.com/douglasdevsec) | Douglas Puente | Venezuela | 6,705 |
 
 ## Public Contributions
 
@@ -42,21 +42,21 @@ Indexed users: 6,627
 | 3 | [Samueru-sama](https://github.com/Samueru-sama) | Samuel | Venezuela | 5,122 |
 | 4 | [apalala](https://github.com/apalala) | Juancarlo Añez | Venezuela | 4,078 |
 | 5 | [DtxdF](https://github.com/DtxdF) | DtxdF | Venezuela | 3,863 |
-| 6 | [NanezX](https://github.com/NanezX) | Víctor Hernández | Monagas, Venezuela | 3,137 |
-| 7 | [kbtale](https://github.com/kbtale) | Carlos Bolívar | Venezuela | 2,910 |
-| 8 | [lumi-tip](https://github.com/lumi-tip) | Luis Miguel Del Valle | Venezuela | 2,871 |
-| 9 | [LuisAlejandro](https://github.com/LuisAlejandro) | Luis Alejandro | Maracay, Venezuela | 2,787 |
-| 10 | [jlcarrascof](https://github.com/jlcarrascof) | Javier Jesus Martínez Fariñas | Venezuela. | 2,533 |
-| 11 | [elfotito](https://github.com/elfotito) | elfotito | Venezuela | 2,158 |
-| 12 | [TheElegantCoding](https://github.com/TheElegantCoding) | Luis Monsalve | Venezuela | 1,967 |
-| 13 | [Danielk10](https://github.com/Danielk10) | Daniel Elias Diamon Vazquez | Venezuela | 1,916 |
-| 14 | [gabrielbaute](https://github.com/gabrielbaute) | Gabriel Baute | Venezuela | 1,848 |
-| 15 | [hrodrig](https://github.com/hrodrig) | Hermes Rodríguez | Caracas, Venezuela | 1,848 |
-| 16 | [claucondor](https://github.com/claucondor) | Claudio Condor | Merida, Venezuela | 1,757 |
-| 17 | [JesusAraujoDEV](https://github.com/JesusAraujoDEV) | Jesús Alberto Araujo Arteaga | Valencia, Venezuela | 1,652 |
-| 18 | [joseorono](https://github.com/joseorono) | José Miguel Oroño | Maracaibo, Venezuela | 1,620 |
-| 19 | [Arviixzuh](https://github.com/Arviixzuh) |  | Venezuela | 1,584 |
-| 20 | [jesusalcaladev](https://github.com/jesusalcaladev) | Jesús Alcalá | Venezuela | 1,579 |
+| 6 | [ralvarezdev](https://github.com/ralvarezdev) | Ramón Álvarez | Venezuela | 3,666 |
+| 7 | [NanezX](https://github.com/NanezX) | Víctor Hernández | Monagas, Venezuela | 3,137 |
+| 8 | [kbtale](https://github.com/kbtale) | Carlos Bolívar | Venezuela | 2,910 |
+| 9 | [lumi-tip](https://github.com/lumi-tip) | Luis Miguel Del Valle | Venezuela | 2,871 |
+| 10 | [jlcarrascof](https://github.com/jlcarrascof) | Javier Jesus Martínez Fariñas | Venezuela. | 2,853 |
+| 11 | [LuisAlejandro](https://github.com/LuisAlejandro) | Luis Alejandro | Maracay, Venezuela | 2,787 |
+| 12 | [elfotito](https://github.com/elfotito) | elfotito | Venezuela | 2,158 |
+| 13 | [TheElegantCoding](https://github.com/TheElegantCoding) | Luis Monsalve | Venezuela | 1,967 |
+| 14 | [Danielk10](https://github.com/Danielk10) | Daniel Elias Diamon Vazquez | Venezuela | 1,916 |
+| 15 | [gabrielbaute](https://github.com/gabrielbaute) | Gabriel Baute | Venezuela | 1,848 |
+| 16 | [hrodrig](https://github.com/hrodrig) | Hermes Rodríguez | Caracas, Venezuela | 1,848 |
+| 17 | [claucondor](https://github.com/claucondor) | Claudio Condor | Merida, Venezuela | 1,757 |
+| 18 | [JesusAraujoDEV](https://github.com/JesusAraujoDEV) | Jesús Alberto Araujo Arteaga | Valencia, Venezuela | 1,652 |
+| 19 | [joseorono](https://github.com/joseorono) | José Miguel Oroño | Maracaibo, Venezuela | 1,620 |
+| 20 | [Arviixzuh](https://github.com/Arviixzuh) |  | Venezuela | 1,584 |
 
 ## Followers
 
@@ -70,17 +70,17 @@ Indexed users: 6,627
 | 6 | [joakor89](https://github.com/joakor89) | Joaco L. | Caracas | 297 |
 | 7 | [alexanyernas](https://github.com/alexanyernas) | Alexanyer Naranjo | Venezuela | 293 |
 | 8 | [danestves](https://github.com/danestves) | Daniel Esteves | Venezuela | 252 |
-| 9 | [eynort](https://github.com/eynort) | Bryant Caballero | Venezuela | 241 |
-| 10 | [AlexR1712](https://github.com/AlexR1712) | Alexander J. Rodriguez D. | Barquisimeto, Lara, Venezuela | 235 |
+| 9 | [AlexR1712](https://github.com/AlexR1712) | Alexander J. Rodriguez D. | Barquisimeto, Lara, Venezuela | 235 |
+| 10 | [eynort](https://github.com/eynort) | Bryant Caballero | Venezuela | 234 |
 | 11 | [thevacs](https://github.com/thevacs) | Juan Rivas | La Guaira, Venezuela | 221 |
 | 12 | [JellyBitz](https://github.com/JellyBitz) | Engels Quintero | Venezuela | 218 |
 | 13 | [VonHeikemen](https://github.com/VonHeikemen) | Heiker | Venezuela | 215 |
 | 14 | [jaimeirazabal1](https://github.com/jaimeirazabal1) | Jaime Irazabal | Venezuela | 211 |
 | 15 | [GaboInsane6489](https://github.com/GaboInsane6489) | Gabriel González | Venezuela, Distrito Capital | 202 |
-| 16 | [jlcarrascof](https://github.com/jlcarrascof) | Javier Jesus Martínez Fariñas | Venezuela. | 198 |
+| 16 | [jlcarrascof](https://github.com/jlcarrascof) | Javier Jesus Martínez Fariñas | Venezuela. | 194 |
 | 17 | [Astharmin](https://github.com/Astharmin) | Aaron Barcenas | Venezuela | 185 |
 | 18 | [gutoccs](https://github.com/gutoccs) | Gustavo Escobar Cobos | Caracas, Venezuela | 185 |
 | 19 | [NTBBloodbath](https://github.com/NTBBloodbath) | Alejandro | Caracas, Venezuela | 179 |
 | 20 | [KellbisJ](https://github.com/KellbisJ) | Kellbis Salazar | Venezuela / Remote | 175 |
 
-Generated: 2026-10-15T12:19:19.907Z
+Generated: 2026-10-15T13:45:44.146Z

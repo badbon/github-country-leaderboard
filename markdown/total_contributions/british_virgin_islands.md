@@ -1,6 +1,6 @@
 # Total Contributions - British Virgin Islands
 
-Generated: 2026-10-15T12:32:53.963Z
+Generated: 2026-10-15T13:58:05.000Z
 
 Users: 38
 
@@ -8,7 +8,7 @@ Users: 38
 |---:|---|---|---|---|---|---:|
 | 1 | [BazaarsBZR](https://github.com/BazaarsBZR) | Bazaars | Bazaars Limited | BazaarsBzr | Bazaars Limited, Intershore Chambers, Road Town, Tortola, British Virgin Islands | 6432 |
 | 2 | [AI-Isaiah](https://github.com/AI-Isaiah) |  | Metaworld Fund |  | British Virgin Islands | 3590 |
-| 3 | [justmoon](https://github.com/justmoon) | Stefan Thomas | @coilhq | justmoon | British Virgin Islands | 2821 |
+| 3 | [justmoon](https://github.com/justmoon) | Stefan Thomas | @coilhq | justmoon | British Virgin Islands | 3051 |
 | 4 | [Dener1111](https://github.com/Dener1111) | DK |  |  | Road Town, British Virgin Islands | 2090 |
 | 5 | [divyansh2681](https://github.com/divyansh2681) | Divyansh Agrawal |  |  | Virgin Islands | 444 |
 | 6 | [khaliidrahiim](https://github.com/khaliidrahiim) | N'Khoy K. R. Stoutt | Government of the Virgin Islands |  | British Virgin Islands | 64 |
@@ -16,7 +16,7 @@ Users: 38
 | 8 | [dlichota](https://github.com/dlichota) | Dietmar Lichota |  |  | British Virgin Islands  | 57 |
 | 9 | [Domi261](https://github.com/Domi261) | Dominick | VPB  | FlacoFumado | British Virgin Islands | 32 |
 | 10 | [Fraodd](https://github.com/Fraodd) | Fraodd |  |  | Tortola, British Virgin Islands | 16 |
-| 11 | [Chezo25](https://github.com/Chezo25) | Chezley Stoddard | Mongoose Academy | chezling | Virgin Islands | 8 |
+| 11 | [Chezo25](https://github.com/Chezo25) | Chezley Stoddard | Mongoose Academy | chezling | Virgin Islands | 9 |
 | 12 | [Bleistein](https://github.com/Bleistein) | Michael Bleistein | Bleistein Consulting Ltd. |  | Virgin Gorda, British Virgin Islands | 5 |
 | 13 | [itspicklintime](https://github.com/itspicklintime) | picl |  |  | Virgin Islands | 2 |
 | 14 | [Alcatrax](https://github.com/Alcatrax) | Alcatrax | alca.pb |  | British Virgin Islands | 0 |

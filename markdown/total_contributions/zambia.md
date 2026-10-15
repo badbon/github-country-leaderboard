@@ -1,6 +1,6 @@
 # Total Contributions - Zambia
 
-Generated: 2026-10-15T12:20:39.982Z
+Generated: 2026-10-15T13:46:00.050Z
 
 Users: 1339
 
@@ -22,7 +22,7 @@ Users: 1339
 | 14 | [genthegreat](https://github.com/genthegreat) | Prince Kwesi | @AdsOnAds  | princekwesi7 | Zambia | 3497 |
 | 15 | [barthkapepula](https://github.com/barthkapepula) | Bartholomew Kapepula |  |  | Zambia | 3449 |
 | 16 | [boniface](https://github.com/boniface) | Boniface Kabaso | Zambia |  | Lusaka, Zambia | 3396 |
-| 17 | [ericknamukolo](https://github.com/ericknamukolo) | Erick Namukolo | @Lassod-Consulting  | erickmndev | Lusaka, Zambia | 3274 |
-| 18 | [brucetruth](https://github.com/brucetruth) | Bruce Truth | @broosaction  |  | Zambia | 3200 |
-| 19 | [engineervix](https://github.com/engineervix) | Victor Miti | @torchbox |  | Lusaka, Zambia | 3188 |
-| 20 | [Geoffrey-Zulu](https://github.com/Geoffrey-Zulu) | Geoffrey Zulu |  |  | Lusaka, Zambia | 3128 |
+| 17 | [Geoffrey-Zulu](https://github.com/Geoffrey-Zulu) | Geoffrey Zulu |  |  | Lusaka, Zambia | 3304 |
+| 18 | [ericknamukolo](https://github.com/ericknamukolo) | Erick Namukolo | @Lassod-Consulting  | erickmndev | Lusaka, Zambia | 3274 |
+| 19 | [brucetruth](https://github.com/brucetruth) | Bruce Truth | @broosaction  |  | Zambia | 3200 |
+| 20 | [engineervix](https://github.com/engineervix) | Victor Miti | @torchbox |  | Lusaka, Zambia | 3188 |

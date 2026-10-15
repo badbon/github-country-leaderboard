@@ -1,6 +1,6 @@
 # Followers - Venezuela
 
-Generated: 2026-10-15T12:19:19.907Z
+Generated: 2026-10-15T13:45:44.146Z
 
 Users: 6627
 
@@ -14,14 +14,14 @@ Users: 6627
 | 6 | [joakor89](https://github.com/joakor89) | Joaco L. | Data Science |  | Caracas | 297 |
 | 7 | [alexanyernas](https://github.com/alexanyernas) | Alexanyer Naranjo |  | alexanyernas | Venezuela | 293 |
 | 8 | [danestves](https://github.com/danestves) | Daniel Esteves | @ClickITDev | danestves | Venezuela | 252 |
-| 9 | [eynort](https://github.com/eynort) | Bryant Caballero | Baleares Group |  | Venezuela | 241 |
-| 10 | [AlexR1712](https://github.com/AlexR1712) | Alexander J. Rodriguez D. | @blockshiftnetwork  |  | Barquisimeto, Lara, Venezuela | 235 |
+| 9 | [AlexR1712](https://github.com/AlexR1712) | Alexander J. Rodriguez D. | @blockshiftnetwork  |  | Barquisimeto, Lara, Venezuela | 235 |
+| 10 | [eynort](https://github.com/eynort) | Bryant Caballero | Baleares Group |  | Venezuela | 234 |
 | 11 | [thevacs](https://github.com/thevacs) | Juan Rivas |  |  | La Guaira, Venezuela | 221 |
 | 12 | [JellyBitz](https://github.com/JellyBitz) | Engels Quintero |  | ImJellyBitz | Venezuela | 218 |
 | 13 | [VonHeikemen](https://github.com/VonHeikemen) | Heiker |  | VonHeikemen_ | Venezuela | 215 |
 | 14 | [jaimeirazabal1](https://github.com/jaimeirazabal1) | Jaime Irazabal | Home Office | JaimeIrazabal | Venezuela | 211 |
 | 15 | [GaboInsane6489](https://github.com/GaboInsane6489) | Gabriel González | Obeltech C.A. |  | Venezuela, Distrito Capital | 202 |
-| 16 | [jlcarrascof](https://github.com/jlcarrascof) | Javier Jesus Martínez Fariñas | Soluciones Administrativas, C.A. |  | Venezuela. | 198 |
+| 16 | [jlcarrascof](https://github.com/jlcarrascof) | Javier Jesus Martínez Fariñas | Soluciones Administrativas, C.A. |  | Venezuela. | 194 |
 | 17 | [Astharmin](https://github.com/Astharmin) | Aaron Barcenas | Analista y Desarrollador de Sistemas |  | Venezuela | 185 |
 | 18 | [gutoccs](https://github.com/gutoccs) | Gustavo Escobar Cobos |  |  | Caracas, Venezuela | 185 |
 | 19 | [NTBBloodbath](https://github.com/NTBBloodbath) | Alejandro |  |  | Caracas, Venezuela | 179 |
