@@ -13,7 +13,7 @@ Indexed users: 727
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [EAlbasri](https://github.com/EAlbasri) | Ebrahim Albasri | Bahrain | 118,629 |
-| 2 | [a7md](https://github.com/a7md) | {ahmed} | Bahrain | 12,695 |
+| 2 | [a7md](https://github.com/a7md) | {ahmed} | Bahrain | 13,172 |
 | 3 | [aldoyh](https://github.com/aldoyh) | Hasan AlDoy | Al Muharraq, Bahrain | 10,334 |
 | 4 | [emadprograms](https://github.com/emadprograms) | Hamza Arshad Alam | Bahrain | 6,284 |
 | 5 | [AlqattanDev](https://github.com/AlqattanDev) | Ali AlQattan | Manama, Bahrain | 6,193 |
@@ -27,11 +27,11 @@ Indexed users: 727
 | 13 | [halalgami](https://github.com/halalgami) | Algam | Bahrain | 4,216 |
 | 14 | [UnbreakableMJ](https://github.com/UnbreakableMJ) | Mohamed Hammad | Bahrain | 4,184 |
 | 15 | [Ali-Hassan-2000](https://github.com/Ali-Hassan-2000) | ALI SALMAN | Bahrain | 3,795 |
-| 16 | [TayyabaK](https://github.com/TayyabaK) | Tayyaba Khalil | Bahrain | 3,763 |
-| 17 | [mufarrah](https://github.com/mufarrah) | A.Rahman Mufarrah | Bahrain | 3,760 |
+| 16 | [mufarrah](https://github.com/mufarrah) | A.Rahman Mufarrah | Bahrain | 3,764 |
+| 17 | [TayyabaK](https://github.com/TayyabaK) | Tayyaba Khalil | Bahrain | 3,763 |
 | 18 | [ExTBH](https://github.com/ExTBH) | Natheer Radhi | Bahrain | 3,422 |
 | 19 | [Kwaddo](https://github.com/Kwaddo) | Quad | Bahrain | 3,414 |
-| 20 | [nasoooor29](https://github.com/nasoooor29) | Naser Hussain | bahrain | 3,183 |
+| 20 | [nasoooor29](https://github.com/nasoooor29) | Naser Hussain | bahrain | 3,191 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 727
 | 19 | [f-9t9it](https://github.com/f-9t9it) | 9T9 IT | Bahrain | 42 |
 | 20 | [ameenaltajer](https://github.com/ameenaltajer) | Ameen Altajer | Bahrain | 39 |
 
-Generated: 2026-10-14T21:17:26.616Z
+Generated: 2026-10-14T23:35:30.449Z

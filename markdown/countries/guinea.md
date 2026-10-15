@@ -23,7 +23,7 @@ Indexed users: 263
 | 9 | [TheRealBerete](https://github.com/TheRealBerete) | BERETE 🇬🇳❤️ | Conakry  | 2,071 |
 | 10 | [Adbrim](https://github.com/Adbrim) | Alhassane Bah | CONAKRY | 2,069 |
 | 11 | [Cellou404](https://github.com/Cellou404) | Cellou Cisse | Conakry, Guinée | 1,992 |
-| 12 | [sitatec](https://github.com/sitatec) | Sita Bérété | Conakry, Guinea | 1,836 |
+| 12 | [sitatec](https://github.com/sitatec) | Sita Bérété | Conakry, Guinea | 1,832 |
 | 13 | [Hayy-Balde](https://github.com/Hayy-Balde) | Mamadou Oury Baldé | Guinea | 1,432 |
 | 14 | [konatem-mk9](https://github.com/konatem-mk9) | KONATE Moussa | CONAKRY | 1,229 |
 | 15 | [DiabySoryIb](https://github.com/DiabySoryIb) | Ib Sory | Guinea | 1,152 |
@@ -40,7 +40,7 @@ Indexed users: 263
 | 1 | [SouleymaneSy7](https://github.com/SouleymaneSy7) | Souleymane Sy | Guinée, Conakry | 2,229 |
 | 2 | [GYOM15](https://github.com/GYOM15) | Guy Olivier Millimouno | Guinea/Conakry | 912 |
 | 3 | [ftd6435](https://github.com/ftd6435) | Pathé PK Diallo | Guinea | 605 |
-| 4 | [sitatec](https://github.com/sitatec) | Sita Bérété | Conakry, Guinea | 476 |
+| 4 | [sitatec](https://github.com/sitatec) | Sita Bérété | Conakry, Guinea | 474 |
 | 5 | [DialloYoussef](https://github.com/DialloYoussef) | Youssouf | Guinée, Conakry, GN | 282 |
 | 6 | [Hayy-Balde](https://github.com/Hayy-Balde) | Mamadou Oury Baldé | Guinea | 252 |
 | 7 | [koulibalyamadou10](https://github.com/koulibalyamadou10) | Koulibaly | Conakry | 252 |
@@ -83,4 +83,4 @@ Indexed users: 263
 | 19 | [fouzo09](https://github.com/fouzo09) | Mafouz DIALLO | Guinée, conakry | 13 |
 | 20 | [koulibalyamadou10](https://github.com/koulibalyamadou10) | Koulibaly | Conakry | 13 |
 
-Generated: 2026-10-14T21:39:14.752Z
+Generated: 2026-10-14T23:57:18.523Z

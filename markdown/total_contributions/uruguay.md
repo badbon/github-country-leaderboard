@@ -1,8 +1,8 @@
 # Total Contributions - Uruguay
 
-Generated: 2026-10-14T21:07:41.224Z
+Generated: 2026-10-14T23:28:50.527Z
 
-Users: 5620
+Users: 5619
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -22,7 +22,7 @@ Users: 5620
 | 14 | [emiliano-go](https://github.com/emiliano-go) | Emiliano G.O. | Eclipse Labs |  | Montevideo, Uruguay | 8276 |
 | 15 | [pedrosgmagalhaes](https://github.com/pedrosgmagalhaes) | Pedro Magalhaes | Iora Labs |  | Uruguay | 8205 |
 | 16 | [barbatdev](https://github.com/barbatdev) | Juan Barbat | Barbat.Dev |  | Uruguay | 7968 |
-| 17 | [Tombar](https://github.com/Tombar) | Martin Loy | Undermountain Coding Company | martinloy | Montevideo, Uruguay | 7600 |
-| 18 | [hernandezsanti](https://github.com/hernandezsanti) | Santiago Hernández | @NeoCoast  |  | Montevideo, Uruguay | 7198 |
-| 19 | [damian-buho](https://github.com/damian-buho) | Damián Búho |  |  | Uruguay | 6976 |
-| 20 | [machester4](https://github.com/machester4) | Michael Pintos |  |  | Uruguay | 6870 |
+| 17 | [LuisHdezE](https://github.com/LuisHdezE) | MSc Luis A. Hernández Elias | PuntoTecno |  | Montevideo, Uruguay | 7825 |
+| 18 | [Tombar](https://github.com/Tombar) | Martin Loy | Undermountain Coding Company | martinloy | Montevideo, Uruguay | 7600 |
+| 19 | [hernandezsanti](https://github.com/hernandezsanti) | Santiago Hernández | @NeoCoast  |  | Montevideo, Uruguay | 7198 |
+| 20 | [damian-buho](https://github.com/damian-buho) | Damián Búho |  |  | Uruguay | 6976 |

@@ -1,6 +1,6 @@
 # Total Contributions - Costa Rica
 
-Generated: 2026-10-14T21:27:25.160Z
+Generated: 2026-10-14T23:46:22.189Z
 
 Users: 5634
 
@@ -23,6 +23,6 @@ Users: 5634
 | 15 | [KentoNishi](https://github.com/KentoNishi) | Kento Nishi | MIT |  | Cambridge, MA / San Jose, CA | 6091 |
 | 16 | [nestormata](https://github.com/nestormata) | Nestor Mata Cuthbert | Profesional Costa Rica |  | Costa Rica | 5743 |
 | 17 | [saihdez](https://github.com/saihdez) | saihdez | @dimerso-global  |  | Costa Rica, Heredia | 5706 |
-| 18 | [maikol-solis](https://github.com/maikol-solis) | Maikol Solís | Universidad de Costa Rica |  | San Jose, Costa Rica | 5589 |
-| 19 | [vdaluz](https://github.com/vdaluz) | Victor Da Luz |  |  | San Jose, Costa Rica | 5379 |
-| 20 | [xmorera](https://github.com/xmorera) | Xavier Morera | Lupo.ai \| Big Data Inc. |  | Costa Rica | 5248 |
+| 18 | [alejandrochava](https://github.com/alejandrochava) | Alejandro |  |  | Costa Rica | 5601 |
+| 19 | [maikol-solis](https://github.com/maikol-solis) | Maikol Solís | Universidad de Costa Rica |  | San Jose, Costa Rica | 5589 |
+| 20 | [vdaluz](https://github.com/vdaluz) | Victor Da Luz |  |  | San Jose, Costa Rica | 5379 |

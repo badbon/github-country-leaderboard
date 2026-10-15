@@ -30,9 +30,9 @@ Indexed users: 4
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [duboviy](https://github.com/duboviy) | Eugene Duboviy | Tokelau | 752 |
+| 1 | [duboviy](https://github.com/duboviy) | Eugene Duboviy | Tokelau | 753 |
 | 2 | [knukima](https://github.com/knukima) | z | Fale, Fakaofo Atoll, Tokelau | 3 |
 | 3 | [DaczoDenes](https://github.com/DaczoDenes) |  | Tokelau | 2 |
 | 4 | [awise-dorensbach](https://github.com/awise-dorensbach) | awise-dorensbach | Tokelau | 1 |
 
-Generated: 2026-10-14T21:02:15.939Z
+Generated: 2026-10-14T23:25:17.917Z

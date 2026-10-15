@@ -1,6 +1,6 @@
 # Algeria
 
-Indexed users: 5,807
+Indexed users: 5,805
 
 | Leaderboard | Link |
 |---|---|
@@ -22,16 +22,16 @@ Indexed users: 5,807
 | 8 | [ubugnu](https://github.com/ubugnu) | Bouzid Badreddine | Algeria | 6,389 |
 | 9 | [aimen08](https://github.com/aimen08) | Aymen Hamza | Algeria | 6,072 |
 | 10 | [s77rt](https://github.com/s77rt) | Abdelhafidh Belalia | Algeria | 5,978 |
-| 11 | [Kirouane-Ayoub](https://github.com/Kirouane-Ayoub) | Kirouane Ayoub | algeria | 5,419 |
-| 12 | [xCyberpunkx](https://github.com/xCyberpunkx) | Zed | Algeria | 5,238 |
-| 13 | [mohammedMsgm](https://github.com/mohammedMsgm) | MOHAMMED MESSEGUEM | Algiers, Algeria | 5,232 |
-| 14 | [AMessaoudene](https://github.com/AMessaoudene) | Kweryzm | Algiers | 5,180 |
-| 15 | [MoonFuji](https://github.com/MoonFuji) | Kadri Mohammed Mouncef | Algeria | 4,988 |
-| 16 | [wallydz](https://github.com/wallydz) |  | Algeria | 4,889 |
-| 17 | [maamriaabderahmene](https://github.com/maamriaabderahmene) | Maamria Abderahmene | algiers | 4,818 |
-| 18 | [mahmoud-alragabi](https://github.com/mahmoud-alragabi) | Mahmoud Y. Al-Ragabi | Algeria | 4,654 |
-| 19 | [useCallback](https://github.com/useCallback) | Mohamed El Mehdi Khalfoun | Algeria | 4,636 |
-| 20 | [Hamza-HM](https://github.com/Hamza-HM) | Hamza Hed Messaoud | Algeria | 4,628 |
+| 11 | [xCyberpunkx](https://github.com/xCyberpunkx) | Zed | Algeria | 5,238 |
+| 12 | [mohammedMsgm](https://github.com/mohammedMsgm) | MOHAMMED MESSEGUEM | Algiers, Algeria | 5,232 |
+| 13 | [AMessaoudene](https://github.com/AMessaoudene) | Kweryzm | Algiers | 5,180 |
+| 14 | [MoonFuji](https://github.com/MoonFuji) | Kadri Mohammed Mouncef | Algeria | 4,988 |
+| 15 | [wallydz](https://github.com/wallydz) |  | Algeria | 4,889 |
+| 16 | [maamriaabderahmene](https://github.com/maamriaabderahmene) | Maamria Abderahmene | algiers | 4,818 |
+| 17 | [mahmoud-alragabi](https://github.com/mahmoud-alragabi) | Mahmoud Y. Al-Ragabi | Algeria | 4,654 |
+| 18 | [useCallback](https://github.com/useCallback) | Mohamed El Mehdi Khalfoun | Algeria | 4,636 |
+| 19 | [Hamza-HM](https://github.com/Hamza-HM) | Hamza Hed Messaoud | Algeria | 4,628 |
+| 20 | [ousszizou](https://github.com/ousszizou) | oussama djaidri | Algeria | 4,544 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 5,807
 | 19 | [sabri-zaki](https://github.com/sabri-zaki) | sabri zakaria | Algeria | 686 |
 | 20 | [Hamza5](https://github.com/Hamza5) | Hamza Abbad | Algeria | 669 |
 
-Generated: 2026-10-14T21:12:29.761Z
+Generated: 2026-10-14T23:32:35.894Z

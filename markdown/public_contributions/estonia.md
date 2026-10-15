@@ -1,15 +1,15 @@
 # Public Contributions - Estonia
 
-Generated: 2026-10-14T21:33:12.140Z
+Generated: 2026-10-14T23:52:23.159Z
 
 Users: 4906
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [ersinkoc](https://github.com/ersinkoc) | Ersin KOÇ | EcoStack Technology OÜ | ersinkoc | Tallinn | 22359 |
-| 2 | [livenson](https://github.com/livenson) | Ilja Livenson |  |  | Estonia | 9018 |
-| 3 | [Wirasm](https://github.com/Wirasm) | Rasmus Widing | widinglabs |  | tallinn | 8831 |
-| 4 | [rorychatt](https://github.com/rorychatt) | Mikael Rinne |  |  | Estonia | 8508 |
+| 2 | [rorychatt](https://github.com/rorychatt) | Mikael Rinne |  |  | Estonia | 12128 |
+| 3 | [livenson](https://github.com/livenson) | Ilja Livenson |  |  | Estonia | 9018 |
+| 4 | [Wirasm](https://github.com/Wirasm) | Rasmus Widing | widinglabs |  | tallinn | 8831 |
 | 5 | [xsyetopz](https://github.com/xsyetopz) | iborrowcheckbtw |  |  | Tartu, Estonia | 7191 |
 | 6 | [v3rm0n](https://github.com/v3rm0n) | Maido Käära |  |  | Tallinn | 7088 |
 | 7 | [ashfordeOU](https://github.com/ashfordeOU) | Ashforde OÜ | Ashforde OÜ |  | Estonia | 6088 |

@@ -1,8 +1,8 @@
 # Total Contributions - Algeria
 
-Generated: 2026-10-14T21:12:29.761Z
+Generated: 2026-10-14T23:32:35.894Z
 
-Users: 5807
+Users: 5805
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -16,13 +16,13 @@ Users: 5807
 | 8 | [ubugnu](https://github.com/ubugnu) | Bouzid Badreddine | ubugnu |  | Algeria | 6389 |
 | 9 | [aimen08](https://github.com/aimen08) | Aymen Hamza | Tote&Carry | AimenMT2 | Algeria | 6072 |
 | 10 | [s77rt](https://github.com/s77rt) | Abdelhafidh Belalia |  |  | Algeria | 5978 |
-| 11 | [Kirouane-Ayoub](https://github.com/Kirouane-Ayoub) | Kirouane Ayoub | kIEFER TEK Ltd | ayoub_kirouane | algeria | 5419 |
-| 12 | [xCyberpunkx](https://github.com/xCyberpunkx) | Zed | Freelancer |  | Algeria | 5238 |
-| 13 | [mohammedMsgm](https://github.com/mohammedMsgm) | MOHAMMED MESSEGUEM | Codefox.ai |  | Algiers, Algeria | 5232 |
-| 14 | [AMessaoudene](https://github.com/AMessaoudene) | Kweryzm | @GDGAlgiers |  | Algiers | 5180 |
-| 15 | [MoonFuji](https://github.com/MoonFuji) | Kadri Mohammed Mouncef | @Dusens-Research-Dev  |  | Algeria | 4988 |
-| 16 | [wallydz](https://github.com/wallydz) |  | UZ4 Network |  | Algeria | 4889 |
-| 17 | [maamriaabderahmene](https://github.com/maamriaabderahmene) | Maamria Abderahmene | National higher school of advanced technologies |  | algiers | 4818 |
-| 18 | [mahmoud-alragabi](https://github.com/mahmoud-alragabi) | Mahmoud Y. Al-Ragabi |  |  | Algeria | 4654 |
-| 19 | [useCallback](https://github.com/useCallback) | Mohamed El Mehdi Khalfoun |  |  | Algeria | 4636 |
-| 20 | [Hamza-HM](https://github.com/Hamza-HM) | Hamza Hed Messaoud | Graphicode |  | Algeria | 4628 |
+| 11 | [xCyberpunkx](https://github.com/xCyberpunkx) | Zed | Freelancer |  | Algeria | 5238 |
+| 12 | [mohammedMsgm](https://github.com/mohammedMsgm) | MOHAMMED MESSEGUEM | Codefox.ai |  | Algiers, Algeria | 5232 |
+| 13 | [AMessaoudene](https://github.com/AMessaoudene) | Kweryzm | @GDGAlgiers |  | Algiers | 5180 |
+| 14 | [MoonFuji](https://github.com/MoonFuji) | Kadri Mohammed Mouncef | @Dusens-Research-Dev  |  | Algeria | 4988 |
+| 15 | [wallydz](https://github.com/wallydz) |  | UZ4 Network |  | Algeria | 4889 |
+| 16 | [maamriaabderahmene](https://github.com/maamriaabderahmene) | Maamria Abderahmene | National higher school of advanced technologies |  | algiers | 4818 |
+| 17 | [mahmoud-alragabi](https://github.com/mahmoud-alragabi) | Mahmoud Y. Al-Ragabi |  |  | Algeria | 4654 |
+| 18 | [useCallback](https://github.com/useCallback) | Mohamed El Mehdi Khalfoun |  |  | Algeria | 4636 |
+| 19 | [Hamza-HM](https://github.com/Hamza-HM) | Hamza Hed Messaoud | Graphicode |  | Algeria | 4628 |
+| 20 | [ousszizou](https://github.com/ousszizou) | oussama djaidri |  | Djaidri_oussama | Algeria | 4544 |

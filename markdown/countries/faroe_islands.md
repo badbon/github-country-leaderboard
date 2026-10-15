@@ -26,7 +26,7 @@ Indexed users: 67
 | 12 | [MaterBater](https://github.com/MaterBater) | Mater | Faroe Islands | 1,476 |
 | 13 | [SigmundurMorkore](https://github.com/SigmundurMorkore) | Sigmundur Mørkøre | Faroe Islands | 1,460 |
 | 14 | [Brian-ED](https://github.com/Brian-ED) | Brian E | Faroe Islands | 1,039 |
-| 15 | [SheetHappiness](https://github.com/SheetHappiness) | SheetHappiness | Faroe Islands | 951 |
+| 15 | [SheetHappiness](https://github.com/SheetHappiness) | SheetHappiness | Faroe Islands | 953 |
 | 16 | [Theoistic](https://github.com/Theoistic) | Theodor Solbjorg | Faroe Islands | 872 |
 | 17 | [eydunn](https://github.com/eydunn) | Eyðun Nielsen | Tórshavn, Faroe islands | 693 |
 | 18 | [hansjd](https://github.com/hansjd) | Hans Jákup Danielsen | Faroe Islands | 638 |
@@ -45,8 +45,8 @@ Indexed users: 67
 | 6 | [krvi](https://github.com/krvi) |  | Faroe Islands | 465 |
 | 7 | [ahjohannessen](https://github.com/ahjohannessen) | Alex Henning Johannessen | Faroe Islands | 286 |
 | 8 | [olavurellefsen](https://github.com/olavurellefsen) | Olavur Ellefsen | Faroe Islands | 286 |
-| 9 | [SheetHappiness](https://github.com/SheetHappiness) | SheetHappiness | Faroe Islands | 248 |
-| 10 | [Marimuda](https://github.com/Marimuda) | Jákup Svøðstein | Faroe islands  | 218 |
+| 9 | [Marimuda](https://github.com/Marimuda) | Jákup Svøðstein | Faroe islands  | 218 |
+| 10 | [SheetHappiness](https://github.com/SheetHappiness) | SheetHappiness | Faroe Islands | 202 |
 | 11 | [Femfus](https://github.com/Femfus) | Molly | Faroe Islands | 127 |
 | 12 | [mashema](https://github.com/mashema) | John Eyðstein Johannesen  | Faroe Islands | 123 |
 | 13 | [Theoistic](https://github.com/Theoistic) | Theodor Solbjorg | Faroe Islands | 122 |
@@ -83,4 +83,4 @@ Indexed users: 67
 | 19 | [shishpt](https://github.com/shishpt) | Shishir Patel | Torshavn, Faroe Islands | 7 |
 | 20 | [suuunly](https://github.com/suuunly) | Jóhann Østerø | Faroe Islands | 7 |
 
-Generated: 2026-10-14T21:35:25.826Z
+Generated: 2026-10-14T23:52:34.665Z

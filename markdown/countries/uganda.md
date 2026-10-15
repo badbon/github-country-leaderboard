@@ -71,8 +71,8 @@ Indexed users: 3,871
 | 7 | [ABAASA-BYOONA](https://github.com/ABAASA-BYOONA) | ABAASA | kampala | 510 |
 | 8 | [jesar-enl](https://github.com/jesar-enl) | Jesse Kyambadde | Uganda | 381 |
 | 9 | [KubanjaElijahEldred](https://github.com/KubanjaElijahEldred) | KUBANJA ELIJAH ELDRED | UGANDA | 330 |
-| 10 | [aivan2798](https://github.com/aivan2798) | aivan2798 | Kampala | 329 |
-| 11 | [muganga-charles](https://github.com/muganga-charles) | Muganga Charles | Kampala | 327 |
+| 10 | [muganga-charles](https://github.com/muganga-charles) | Muganga Charles | Kampala | 327 |
+| 11 | [aivan2798](https://github.com/aivan2798) | aivan2798 | Kampala | 325 |
 | 12 | [Fresh-Teacher](https://github.com/Fresh-Teacher) | Fresh Teacher | Kampala | 325 |
 | 13 | [kidde60](https://github.com/kidde60) | GEORGE WILLIAM KIDDE | KAMPALA, UGANDA | 311 |
 | 14 | [has2k1](https://github.com/has2k1) | Hassan Kibirige | Kampala, Uganda | 296 |
@@ -83,4 +83,4 @@ Indexed users: 3,871
 | 19 | [Kitemaggwa-Shafic](https://github.com/Kitemaggwa-Shafic) | Bin Profic | Kampala mengo, Najjanankumbi Ebb rd | 198 |
 | 20 | [FahimWeblogicAndCyberTechnologies](https://github.com/FahimWeblogicAndCyberTechnologies) | FRANKLIN | Uganda | 186 |
 
-Generated: 2026-10-14T21:05:42.330Z
+Generated: 2026-10-14T23:27:10.621Z

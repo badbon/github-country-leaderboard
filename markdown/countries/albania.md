@@ -52,9 +52,9 @@ Indexed users: 1,184
 | 13 | [bredliplaku](https://github.com/bredliplaku) | Bredli | Albania | 757 |
 | 14 | [alban-hh](https://github.com/alban-hh) | Alban Shermadhi | Albania | 733 |
 | 15 | [edythebolman](https://github.com/edythebolman) | Sri Handayani | Tirana, Albania | 729 |
-| 16 | [virvihuta](https://github.com/virvihuta) | Virvi Huta | Tirana, Albania | 658 |
-| 17 | [IsliBasha](https://github.com/IsliBasha) | IsliBasha | Tirane, Albania | 642 |
-| 18 | [enesbala5](https://github.com/enesbala5) | Enes Bala | Tirana, Albania | 636 |
+| 16 | [enesbala5](https://github.com/enesbala5) | Enes Bala | Tirana, Albania | 670 |
+| 17 | [virvihuta](https://github.com/virvihuta) | Virvi Huta | Tirana, Albania | 658 |
+| 18 | [IsliBasha](https://github.com/IsliBasha) | IsliBasha | Tirane, Albania | 642 |
 | 19 | [Damjanose](https://github.com/Damjanose) | Damjano | Albania, Tirana | 621 |
 | 20 | [kostandinang](https://github.com/kostandinang) | Kostandin Angjellari | Tirana, Albania | 600 |
 
@@ -62,7 +62,7 @@ Indexed users: 1,184
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [vasilirigels](https://github.com/vasilirigels) | Vasili Rigels | Tirana, Albania | 3,781 |
+| 1 | [vasilirigels](https://github.com/vasilirigels) | Vasili Rigels | Tirana, Albania | 3,786 |
 | 2 | [jbaci](https://github.com/jbaci) | J.Baci | Tirana, Albania | 1,888 |
 | 3 | [redianmarku](https://github.com/redianmarku) | Redian Marku | Albania | 774 |
 | 4 | [4lbH4cker](https://github.com/4lbH4cker) | 4lbH4cker | Albania | 719 |
@@ -83,4 +83,4 @@ Indexed users: 1,184
 | 19 | [SxtBox](https://github.com/SxtBox) | Albdroid.AL | Albania | 81 |
 | 20 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | Albania | 75 |
 
-Generated: 2026-10-14T21:12:24.173Z
+Generated: 2026-10-14T23:32:30.230Z

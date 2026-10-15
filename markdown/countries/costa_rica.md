@@ -29,9 +29,9 @@ Indexed users: 5,634
 | 15 | [KentoNishi](https://github.com/KentoNishi) | Kento Nishi | Cambridge, MA / San Jose, CA | 6,091 |
 | 16 | [nestormata](https://github.com/nestormata) | Nestor Mata Cuthbert | Costa Rica | 5,743 |
 | 17 | [saihdez](https://github.com/saihdez) | saihdez | Costa Rica, Heredia | 5,706 |
-| 18 | [maikol-solis](https://github.com/maikol-solis) | Maikol Solís | San Jose, Costa Rica | 5,589 |
-| 19 | [vdaluz](https://github.com/vdaluz) | Victor Da Luz | San Jose, Costa Rica | 5,379 |
-| 20 | [xmorera](https://github.com/xmorera) | Xavier Morera | Costa Rica | 5,248 |
+| 18 | [alejandrochava](https://github.com/alejandrochava) | Alejandro | Costa Rica | 5,601 |
+| 19 | [maikol-solis](https://github.com/maikol-solis) | Maikol Solís | San Jose, Costa Rica | 5,589 |
+| 20 | [vdaluz](https://github.com/vdaluz) | Victor Da Luz | San Jose, Costa Rica | 5,379 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 5,634
 | 19 | [stvansolano](https://github.com/stvansolano) | Esteban Solano Granados | Costa Rica | 189 |
 | 20 | [Jeffser](https://github.com/Jeffser) | Jeffry Samuel | Costa Rica | 165 |
 
-Generated: 2026-10-14T21:27:25.160Z
+Generated: 2026-10-14T23:46:22.189Z

@@ -12,7 +12,7 @@ Indexed users: 36
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [LunettoRandall](https://github.com/LunettoRandall) | Randall Lunetto | French Amazonia (Guyane) | 2,974 |
+| 1 | [LunettoRandall](https://github.com/LunettoRandall) | Randall Lunetto | French Amazonia (Guyane) | 2,977 |
 | 2 | [MelPeslier](https://github.com/MelPeslier) | Mel | Guyane  | 1,230 |
 | 3 | [Ludoc0de](https://github.com/Ludoc0de) | Ludocode | French Guiana | 282 |
 | 4 | [baffy-req](https://github.com/baffy-req) | Thomas Boyd DDS | Amandafurt, French Guiana | 135 |
@@ -62,7 +62,7 @@ Indexed users: 36
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [roberthpereira](https://github.com/roberthpereira) | Roberth Pereira | French Guiana | 19 |
+| 1 | [roberthpereira](https://github.com/roberthpereira) | Roberth Pereira | French Guiana | 18 |
 | 2 | [emmanoe](https://github.com/emmanoe) | Emmanoe | Guyane, South - America | 15 |
 | 3 | [MelPeslier](https://github.com/MelPeslier) | Mel | Guyane  | 11 |
 | 4 | [geommon](https://github.com/geommon) | Milo | Cayenne | 10 |
@@ -83,4 +83,4 @@ Indexed users: 36
 | 19 | [Shyrka973](https://github.com/Shyrka973) |  | Kourou / French Guiana | 3 |
 | 20 | [StephaneKourou](https://github.com/StephaneKourou) | StephaneKourou | Kourou, French Guiana | 3 |
 
-Generated: 2026-10-14T21:35:36.594Z
+Generated: 2026-10-14T23:53:50.995Z

@@ -42,7 +42,7 @@ Indexed users: 339
 | 3 | [jecode93](https://github.com/jecode93) | Jean Emmanuel Cadet | Haiti | 419 |
 | 4 | [ritchartconcept](https://github.com/ritchartconcept) | Fritzner Richard | haiti | 382 |
 | 5 | [Tonton-ios](https://github.com/Tonton-ios) | Eernst_ | HAITI | 369 |
-| 6 | [dolphfi](https://github.com/dolphfi) | Fidele Delon Phayendy Rodolph | Cap-Haïtien, Haiti | 343 |
+| 6 | [dolphfi](https://github.com/dolphfi) | Fidele Delon Phayendy Rodolph | Cap-Haïtien, Haiti | 367 |
 | 7 | [AD0791](https://github.com/AD0791) | Alexandro Disla | Haiti | 295 |
 | 8 | [platon777](https://github.com/platon777) | Wichley Valentin | Haiti | 290 |
 | 9 | [odilson-dev](https://github.com/odilson-dev) | Odilson W. Italis | Les Cayes, Haiti | 265 |
@@ -68,7 +68,7 @@ Indexed users: 339
 | 4 | [cbaja](https://github.com/cbaja) | Carly BAJA | HAITI | 71 |
 | 5 | [certilremy](https://github.com/certilremy) | Certil Remy | Haiti | 71 |
 | 6 | [dukenst2006](https://github.com/dukenst2006) | Thelemaque | Port-au-Prince | 63 |
-| 7 | [odilson-dev](https://github.com/odilson-dev) | Odilson W. Italis | Les Cayes, Haiti | 58 |
+| 7 | [odilson-dev](https://github.com/odilson-dev) | Odilson W. Italis | Les Cayes, Haiti | 59 |
 | 8 | [Gardimy](https://github.com/Gardimy) | Gardimy Charles | Haiti | 56 |
 | 9 | [Lemayzeur](https://github.com/Lemayzeur) | Lub Lorry Lamysère | Port-au-Prince - Haiti | 56 |
 | 10 | [EdManDev](https://github.com/EdManDev) | EdManDev | Haiti | 45 |
@@ -83,4 +83,4 @@ Indexed users: 339
 | 19 | [skydevht](https://github.com/skydevht) | Holy-Elie Scaïde | Port-au-prince, Haïti | 32 |
 | 20 | [DybyTechX](https://github.com/DybyTechX) | DybyTechX | haiti | 31 |
 
-Generated: 2026-10-14T21:40:35.191Z
+Generated: 2026-10-14T23:58:23.820Z

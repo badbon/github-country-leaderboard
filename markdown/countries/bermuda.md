@@ -12,35 +12,35 @@ Indexed users: 899
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [bokmann](https://github.com/bokmann) | David Bock | Hamilton, VA | 20,367 |
+| 1 | [bokmann](https://github.com/bokmann) | David Bock | Hamilton, VA | 20,678 |
 | 2 | [nahoskins](https://github.com/nahoskins) | Nick Hoskins | Bermuda | 13,216 |
 | 3 | [kianis4](https://github.com/kianis4) | Suleyman Kiani | Hamilton, ON | 10,781 |
 | 4 | [marc-pelland](https://github.com/marc-pelland) | Marc Pelland | Hamilton, ON | 10,375 |
 | 5 | [xaphod](https://github.com/xaphod) | Tim Carr | Hamilton ON | 10,206 |
 | 6 | [PatrickMcLennan](https://github.com/PatrickMcLennan) | Patrick McLennan | Hamilton, Ontario | 7,705 |
-| 7 | [brandonpayton](https://github.com/brandonpayton) | Brandon Payton | Hamilton, Indiana | 7,381 |
-| 8 | [eimaj](https://github.com/eimaj) | Jamie Allen | Hamilton | 7,379 |
+| 7 | [eimaj](https://github.com/eimaj) | Jamie Allen | Hamilton | 7,402 |
+| 8 | [brandonpayton](https://github.com/brandonpayton) | Brandon Payton | Hamilton, Indiana | 7,381 |
 | 9 | [keithbrink](https://github.com/keithbrink) | Keith Brink | Hamilton, ON | 6,550 |
 | 10 | [danielsdeboer](https://github.com/danielsdeboer) | Daniel S. Deboer | Hamilton, Ontario | 6,305 |
 | 11 | [mattgrande](https://github.com/mattgrande) | Matt Grande | Hamilton, Ontario | 6,051 |
 | 12 | [Noprop](https://github.com/Noprop) | Greg Forster | Hamilton | 5,990 |
 | 13 | [nckdhl](https://github.com/nckdhl) | Nick Dahl | Hamilton | 5,544 |
-| 14 | [rdaum](https://github.com/rdaum) | Ryan Daum | Hamilton, Ontario | 4,997 |
+| 14 | [rdaum](https://github.com/rdaum) | Ryan Daum | Hamilton, Ontario | 5,130 |
 | 15 | [dbactual](https://github.com/dbactual) | Dave Berton | Bermuda | 4,946 |
 | 16 | [lbrgriffith](https://github.com/lbrgriffith) | L. B. Ricardo Griffith | Hamilton, Bermuda | 4,556 |
 | 17 | [grantlucas](https://github.com/grantlucas) | Grant Lucas | Hamilton, Ontario | 4,359 |
 | 18 | [osamaaamer95](https://github.com/osamaaamer95) | Osama Aamer | Hamilton, NZ | 4,349 |
 | 19 | [izzudin96](https://github.com/izzudin96) | Izzudin Anuar | Hamilton | 4,204 |
-| 20 | [adriand](https://github.com/adriand) | Adrian Duyzer | Hamilton, Ontario | 4,106 |
+| 20 | [adriand](https://github.com/adriand) | Adrian Duyzer | Hamilton, Ontario | 4,143 |
 
 ## Public Contributions
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [brandonpayton](https://github.com/brandonpayton) | Brandon Payton | Hamilton, Indiana | 7,203 |
-| 2 | [rdaum](https://github.com/rdaum) | Ryan Daum | Hamilton, Ontario | 4,997 |
+| 2 | [rdaum](https://github.com/rdaum) | Ryan Daum | Hamilton, Ontario | 5,130 |
 | 3 | [wittjosiah](https://github.com/wittjosiah) | Josiah Witt | Hamilton, ON | 2,580 |
-| 4 | [bbolker](https://github.com/bbolker) | Ben Bolker | Hamilton, Ontario | 2,046 |
+| 4 | [bbolker](https://github.com/bbolker) | Ben Bolker | Hamilton, Ontario | 2,058 |
 | 5 | [Justype](https://github.com/Justype) | Cheng | Hamilton | 1,394 |
 | 6 | [wesbos](https://github.com/wesbos) | Wes Bos | Hamilton, Ontario | 1,384 |
 | 7 | [kevinAlbs](https://github.com/kevinAlbs) | Kevin Albertson | Hamilton, NJ | 1,368 |
@@ -78,9 +78,9 @@ Indexed users: 899
 | 14 | [Pear1y](https://github.com/Pear1y) | Pear1y | Bermuda | 107 |
 | 15 | [ShawnShiSS](https://github.com/ShawnShiSS) | Shawn Shi | Hamilton, Ontario | 103 |
 | 16 | [tanya-jp](https://github.com/tanya-jp) | Tanya Djavaherpour | Hamilton, Ontario | 91 |
-| 17 | [christianbrodbeck](https://github.com/christianbrodbeck) | Christian Brodbeck | Hamilton | 88 |
+| 17 | [christianbrodbeck](https://github.com/christianbrodbeck) | Christian Brodbeck | Hamilton | 87 |
 | 18 | [kevinAlbs](https://github.com/kevinAlbs) | Kevin Albertson | Hamilton, NJ | 87 |
 | 19 | [feilongcheng](https://github.com/feilongcheng) | Felix | Hamilton, NZ | 85 |
 | 20 | [wittjosiah](https://github.com/wittjosiah) | Josiah Witt | Hamilton, ON | 67 |
 
-Generated: 2026-10-14T21:20:42.105Z
+Generated: 2026-10-14T23:38:26.310Z

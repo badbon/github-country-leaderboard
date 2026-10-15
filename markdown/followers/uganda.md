@@ -1,6 +1,6 @@
 # Followers - Uganda
 
-Generated: 2026-10-14T21:05:42.330Z
+Generated: 2026-10-14T23:27:10.621Z
 
 Users: 3871
 
@@ -15,8 +15,8 @@ Users: 3871
 | 7 | [ABAASA-BYOONA](https://github.com/ABAASA-BYOONA) | ABAASA | ABAASA TECH |  | kampala | 510 |
 | 8 | [jesar-enl](https://github.com/jesar-enl) | Jesse Kyambadde | J-SofTech | MarcinJesar | Uganda | 381 |
 | 9 | [KubanjaElijahEldred](https://github.com/KubanjaElijahEldred) | KUBANJA ELIJAH ELDRED | MUTUNGO-KAMPALA |  | UGANDA | 330 |
-| 10 | [aivan2798](https://github.com/aivan2798) | aivan2798 |  |  | Kampala | 329 |
-| 11 | [muganga-charles](https://github.com/muganga-charles) | Muganga Charles | Uganda Christian University | MugangaCharles5 | Kampala | 327 |
+| 10 | [muganga-charles](https://github.com/muganga-charles) | Muganga Charles | Uganda Christian University | MugangaCharles5 | Kampala | 327 |
+| 11 | [aivan2798](https://github.com/aivan2798) | aivan2798 |  |  | Kampala | 325 |
 | 12 | [Fresh-Teacher](https://github.com/Fresh-Teacher) | Fresh Teacher | e-Learning Platform | jesse_comedian | Kampala | 325 |
 | 13 | [kidde60](https://github.com/kidde60) | GEORGE WILLIAM KIDDE | Microverse | KGWilliam60 | KAMPALA, UGANDA | 311 |
 | 14 | [has2k1](https://github.com/has2k1) | Hassan Kibirige | Posit, PBC | HKibirige | Kampala, Uganda | 296 |

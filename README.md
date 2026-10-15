@@ -14,11 +14,11 @@ Top GitHub users by country, ranked from public GitHub profile and contribution 
 
 | Country | Indexed Users | Public | Total | Followers |
 |---|---:|---|---|---|
-| [Bermuda](markdown/countries/bermuda.md) | 899 | [Public](markdown/public_contributions/bermuda.md) | [Total](markdown/total_contributions/bermuda.md) | [Followers](markdown/followers/bermuda.md) |
-| [Isle of Man](markdown/countries/isle_of_man.md) | 155 | [Public](markdown/public_contributions/isle_of_man.md) | [Total](markdown/total_contributions/isle_of_man.md) | [Followers](markdown/followers/isle_of_man.md) |
-| [French Polynesia](markdown/countries/french_polynesia.md) | 60 | [Public](markdown/public_contributions/french_polynesia.md) | [Total](markdown/total_contributions/french_polynesia.md) | [Followers](markdown/followers/french_polynesia.md) |
-| [Guyana](markdown/countries/guyana.md) | 186 | [Public](markdown/public_contributions/guyana.md) | [Total](markdown/total_contributions/guyana.md) | [Followers](markdown/followers/guyana.md) |
-| [Monaco](markdown/countries/monaco.md) | 142 | [Public](markdown/public_contributions/monaco.md) | [Total](markdown/total_contributions/monaco.md) | [Followers](markdown/followers/monaco.md) |
+| [Afghanistan](markdown/countries/afghanistan.md) | 1,487 | [Public](markdown/public_contributions/afghanistan.md) | [Total](markdown/total_contributions/afghanistan.md) | [Followers](markdown/followers/afghanistan.md) |
+| [Macau](markdown/countries/macau.md) | 439 | [Public](markdown/public_contributions/macau.md) | [Total](markdown/total_contributions/macau.md) | [Followers](markdown/followers/macau.md) |
+| [Andorra](markdown/countries/andorra.md) | 215 | [Public](markdown/public_contributions/andorra.md) | [Total](markdown/total_contributions/andorra.md) | [Followers](markdown/followers/andorra.md) |
+| [Jersey](markdown/countries/jersey.md) | 139 | [Public](markdown/public_contributions/jersey.md) | [Total](markdown/total_contributions/jersey.md) | [Followers](markdown/followers/jersey.md) |
+| [Hong Kong](markdown/countries/hong_kong.md) | 10,281 | [Public](markdown/public_contributions/hong_kong.md) | [Total](markdown/total_contributions/hong_kong.md) | [Followers](markdown/followers/hong_kong.md) |
 
 ## How It Works
 
@@ -26,4 +26,4 @@ The collector searches GitHub users by self-reported profile location, keeps use
 
 Locations are not verified. The raw profile location is preserved, and country assignment uses deterministic country, alias, city, and exact phrase rules.
 
-Generated: 2026-10-14T22:24:12.724Z
+Generated: 2026-10-15T00:04:00.740Z

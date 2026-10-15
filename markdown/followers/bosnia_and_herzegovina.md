@@ -1,6 +1,6 @@
 # Followers - Bosnia and Herzegovina
 
-Generated: 2026-10-14T21:21:57.941Z
+Generated: 2026-10-14T23:40:07.239Z
 
 Users: 2128
 
@@ -15,7 +15,7 @@ Users: 2128
 | 7 | [komljen](https://github.com/komljen) | Alen Komljen | @Faire  | alenkomljen | Sarajevo | 206 |
 | 8 | [Admer456](https://github.com/Admer456) | Admer |  |  | Bosnia and Herzegovina | 188 |
 | 9 | [TheAdnan](https://github.com/TheAdnan) | Adnan Kičin | Viking Consulting |  | Sarajevo | 179 |
-| 10 | [vladimir-cicovic](https://github.com/vladimir-cicovic) | Vladimir Cicovic | @team-the-red |  | @Bosnia and Herzegovina | 169 |
+| 10 | [vladimir-cicovic](https://github.com/vladimir-cicovic) | Vladimir Cicovic | @team-the-red |  | @Bosnia and Herzegovina | 175 |
 | 11 | [chili-chips-ba](https://github.com/chili-chips-ba) | Chili.CHIPS | Chili.CHIPS |  | Bosnia-Herzegovina | 166 |
 | 12 | [Aldin-SXR](https://github.com/Aldin-SXR) | Aldin Kovačević | BiOptimizers |  | Sarajevo | 147 |
 | 13 | [vladotesanovic](https://github.com/vladotesanovic) | Vlado Tesanovic | @TOB-BA  |  | Sarajevo, Earth | 147 |

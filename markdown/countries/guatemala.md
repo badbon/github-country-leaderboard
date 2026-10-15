@@ -13,24 +13,24 @@ Indexed users: 3,222
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [Lewatoto](https://github.com/Lewatoto) | Gerson Alvarado | Guatemala | 14,160 |
-| 2 | [oscarleonapp](https://github.com/oscarleonapp) | Oscar León | Guatemala | 9,523 |
-| 3 | [DubAvenXP](https://github.com/DubAvenXP) | Alejandro Dubon | Guatemala | 8,675 |
-| 4 | [daviddevsoftware](https://github.com/daviddevsoftware) | David | Guatemala | 7,844 |
+| 2 | [daviddevsoftware](https://github.com/daviddevsoftware) | David | Guatemala | 10,767 |
+| 3 | [oscarleonapp](https://github.com/oscarleonapp) | Oscar León | Guatemala | 9,523 |
+| 4 | [DubAvenXP](https://github.com/DubAvenXP) | Alejandro Dubon | Guatemala | 8,675 |
 | 5 | [ehvidalp](https://github.com/ehvidalp) | Edward Vidal | Guatemala | 7,824 |
 | 6 | [GeorgeLBS1](https://github.com/GeorgeLBS1) | Jose Jorge Díaz | Guatemala | 7,047 |
 | 7 | [Charlisim](https://github.com/Charlisim) | Carlos Simon | Guatemala | 6,785 |
 | 8 | [RudiksChess](https://github.com/RudiksChess) | Rudik Rompich | Guatemala City | 6,673 |
 | 9 | [MarioAndF](https://github.com/MarioAndF) | Mario A Flores | Guatemala | 6,585 |
 | 10 | [edman-cota](https://github.com/edman-cota) | edmancota | Guatemala | 6,100 |
-| 11 | [ElvisBatzibal](https://github.com/ElvisBatzibal) | Elvis Geovanny Batzibal | Guatemala | 5,791 |
-| 12 | [marcoleejr](https://github.com/marcoleejr) | Marco Lee | Guatemala | 5,506 |
-| 13 | [damianpeaf](https://github.com/damianpeaf) | Damián Peña | Guatemala | 5,493 |
-| 14 | [kenny08gt](https://github.com/kenny08gt) | Alan Hurtarte | Guatemala city, Guatemala | 5,488 |
-| 15 | [jrodas4044](https://github.com/jrodas4044) | Jonhathan Rolando Rodas López | Chimaltenango/Guatemala | 5,446 |
-| 16 | [fcpauldiaz](https://github.com/fcpauldiaz) | Pablo Díaz | Guatemala | 5,250 |
-| 17 | [Esaban17](https://github.com/Esaban17) | Estuardo Saban | Guatemala | 5,233 |
-| 18 | [Mgodoyd](https://github.com/Mgodoyd) | MARIO   GODOY | Guatemala | 4,898 |
-| 19 | [wmsales](https://github.com/wmsales) | Wilson Sales | Guatemala | 4,898 |
+| 11 | [marcoleejr](https://github.com/marcoleejr) | Marco Lee | Guatemala | 5,506 |
+| 12 | [damianpeaf](https://github.com/damianpeaf) | Damián Peña | Guatemala | 5,493 |
+| 13 | [kenny08gt](https://github.com/kenny08gt) | Alan Hurtarte | Guatemala city, Guatemala | 5,488 |
+| 14 | [jrodas4044](https://github.com/jrodas4044) | Jonhathan Rolando Rodas López | Chimaltenango/Guatemala | 5,446 |
+| 15 | [fcpauldiaz](https://github.com/fcpauldiaz) | Pablo Díaz | Guatemala | 5,250 |
+| 16 | [Esaban17](https://github.com/Esaban17) | Estuardo Saban | Guatemala | 5,233 |
+| 17 | [Mgodoyd](https://github.com/Mgodoyd) | MARIO   GODOY | Guatemala | 4,898 |
+| 18 | [wmsales](https://github.com/wmsales) | Wilson Sales | Guatemala | 4,898 |
+| 19 | [ElvisBatzibal](https://github.com/ElvisBatzibal) | Elvis Geovanny Batzibal | Guatemala | 4,634 |
 | 20 | [mcastilloy2k](https://github.com/mcastilloy2k) | Marvin Castillo | Guatemala | 4,564 |
 
 ## Public Contributions
@@ -83,4 +83,4 @@ Indexed users: 3,222
 | 19 | [elmergustavo](https://github.com/elmergustavo) | Gustavo (tavcode)  | Quetzaltenango, Guatemala | 119 |
 | 20 | [cms](https://github.com/cms) | Christian C. Salvadó | Guatemala | 117 |
 
-Generated: 2026-10-14T21:38:06.224Z
+Generated: 2026-10-14T23:56:34.061Z

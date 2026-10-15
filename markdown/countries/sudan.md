@@ -31,7 +31,7 @@ Indexed users: 729
 | 17 | [AminOmer](https://github.com/AminOmer) | Amin Omer | Khartoum, Sudan | 2,514 |
 | 18 | [asimsharf](https://github.com/asimsharf) | Asim Abdelgadir | Sudan | 2,215 |
 | 19 | [wali-eldin-hassan](https://github.com/wali-eldin-hassan) | Wali Eldin  | Sudan | 2,021 |
-| 20 | [OxSama](https://github.com/OxSama) | OxSama | Khartoum - Sudan | 1,869 |
+| 20 | [Mohie800](https://github.com/Mohie800) | Mohyeldeen abdulazeem | Khartoum, Sudan | 1,902 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 729
 | 19 | [kabaros](https://github.com/kabaros) | Mozafar | Khartoum / Glasgow | 51 |
 | 20 | [obaaa8](https://github.com/obaaa8) | محمود عبدالسميع التوم | sudan | 49 |
 
-Generated: 2026-10-14T20:58:36.457Z
+Generated: 2026-10-14T23:21:31.095Z

@@ -1,6 +1,6 @@
 # Total Contributions - Bolivia
 
-Generated: 2026-10-14T21:21:33.858Z
+Generated: 2026-10-14T23:39:35.455Z
 
 Users: 1784
 
@@ -17,12 +17,12 @@ Users: 1784
 | 9 | [alxmcr](https://github.com/alxmcr) | Alejandro M. Coca |  |  | Bolivia | 5919 |
 | 10 | [nicolenumbergg](https://github.com/nicolenumbergg) | Nicole Numberg |  |  | Santa Cruz, Bolivia | 5704 |
 | 11 | [OscarGauss](https://github.com/OscarGauss) | Oscar Gauss Carvajal Yucra |  | oscar_gauss | La Paz, Bolivia | 5452 |
-| 12 | [cesarszv](https://github.com/cesarszv) | Sebastian Zambrana |  |  | Santa Cruz, Bolivia | 4929 |
-| 13 | [gitchaell](https://github.com/gitchaell) | Michaell Alavedra | @instrategy | michaellalaved | Santa Cruz de la Sierra, Bolivia | 4922 |
+| 12 | [gitchaell](https://github.com/gitchaell) | Michaell Alavedra | @instrategy | michaellalaved | Santa Cruz de la Sierra, Bolivia | 4922 |
+| 13 | [cesarszv](https://github.com/cesarszv) | Sebastian Zambrana |  |  | Santa Cruz, Bolivia | 4884 |
 | 14 | [nahimdhaney](https://github.com/nahimdhaney) | Nahim Terrazas Parada | @openzeppelin | nahimdhaney | Bolivia | 4524 |
 | 15 | [ChristianConchari](https://github.com/ChristianConchari) | Chris Conchari |  | ConchariChris | Bolivia | 4388 |
 | 16 | [villcabo](https://github.com/villcabo) | Bismarck Villca | @SintesisSA  | BismarckVillcaS | Bolivia | 4262 |
 | 17 | [GonzaloPinell](https://github.com/GonzaloPinell) | Gonzalo Pinell | Solunes Digital |  | La Paz, Bolivia | 4013 |
-| 18 | [Mats2208](https://github.com/Mats2208) | Mateo Andres Soto Gareca |  |  | Santa Cruz, Bolivia | 3751 |
+| 18 | [Mats2208](https://github.com/Mats2208) | Mateo Andres Soto Gareca |  |  | Santa Cruz, Bolivia  | 3957 |
 | 19 | [ggonzalez94](https://github.com/ggonzalez94) | Gustavo Gonzalez | @Taikoxyz | gusgonzalezs | Santa Cruz de la SIerra, Bolivia | 3746 |
 | 20 | [Aliaga23](https://github.com/Aliaga23) | Arturo Aliaga | FinUp |  | Santa Cruz, Bolivia | 3029 |

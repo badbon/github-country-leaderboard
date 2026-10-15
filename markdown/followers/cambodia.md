@@ -1,8 +1,8 @@
 # Followers - Cambodia
 
-Generated: 2026-10-14T21:23:58.237Z
+Generated: 2026-10-14T23:43:39.545Z
 
-Users: 2870
+Users: 2868
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -15,8 +15,8 @@ Users: 2870
 | 7 | [invisal](https://github.com/invisal) | Visal .In | System Engineer @Cloudflare | invisal89 | Cambodia | 367 |
 | 8 | [Parameow3](https://github.com/Parameow3) | Tan Bunchhay | ITE, Faculty of Engineering, RUPP |  | Phnom Penh | 352 |
 | 9 | [socheatsok78](https://github.com/socheatsok78) | Socheat | localhost | socheatsok78 | Cambodia | 317 |
-| 10 | [KimangKhenng](https://github.com/KimangKhenng) | Kheang Kimang |  | KimAngKH | Phnom Penh, Cambodia | 241 |
-| 11 | [nouenthary](https://github.com/nouenthary) | Nouen Thary | T-DEV | NouenThary | phnom penh | 232 |
+| 10 | [nouenthary](https://github.com/nouenthary) | Nouen Thary | T-DEV | NouenThary | phnom penh | 242 |
+| 11 | [KimangKhenng](https://github.com/KimangKhenng) | Kheang Kimang |  | KimAngKH | Phnom Penh, Cambodia | 241 |
 | 12 | [tfd-ed](https://github.com/tfd-ed) | tfd-ed |  |  | Phnom Penh, Cambodia | 218 |
 | 13 | [JessicaaSun](https://github.com/JessicaaSun) | Jessica Sun |  |  | Phnom Penh, Cambodia | 214 |
 | 14 | [pinmonyvicheaa](https://github.com/pinmonyvicheaa) | Pin Monyvichea | IT |  | Phnom Penh, Cambodia | 213 |
