@@ -13,7 +13,7 @@ Indexed users: 113
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [oscardvs](https://github.com/oscardvs) | Oscar Devos | Liechtenstein | 5,554 |
-| 2 | [bernhardw](https://github.com/bernhardw) | Bernhard Wanger | Vaduz, Liechtenstein | 4,537 |
+| 2 | [bernhardw](https://github.com/bernhardw) | Bernhard Wanger | Vaduz, Liechtenstein | 4,545 |
 | 3 | [tnaescher](https://github.com/tnaescher) | T. Näscher | Liechtenstein | 4,291 |
 | 4 | [msanft](https://github.com/msanft) | Moritz Sanft | Liechtenstein | 2,972 |
 | 5 | [PhilippHGerber](https://github.com/PhilippHGerber) | Philipp H. Gerber | Liechtenstein | 2,610 |
@@ -30,7 +30,7 @@ Indexed users: 113
 | 16 | [anonymouslyanonymous1](https://github.com/anonymouslyanonymous1) | Anonymously Anonymous | Liechtenstein | 309 |
 | 17 | [anondotli](https://github.com/anondotli) | anon.li | Liechtenstein | 300 |
 | 18 | [ColinFL](https://github.com/ColinFL) |  | Liechtenstein | 268 |
-| 19 | [FeeJai](https://github.com/FeeJai) | Felix Jankowski | Liechtenstein | 260 |
+| 19 | [FeeJai](https://github.com/FeeJai) | Felix Jankowski | Liechtenstein | 262 |
 | 20 | [catbears](https://github.com/catbears) |  | Eschen, Liechtenstein | 166 |
 
 ## Public Contributions
@@ -83,4 +83,4 @@ Indexed users: 113
 | 19 | [PhilippHGerber](https://github.com/PhilippHGerber) | Philipp H. Gerber | Liechtenstein | 14 |
 | 20 | [niklasfrick](https://github.com/niklasfrick) | Niklas Frick | Liechtenstein | 12 |
 
-Generated: 2026-10-15T20:54:25.310Z
+Generated: 2026-10-15T22:11:19.518Z

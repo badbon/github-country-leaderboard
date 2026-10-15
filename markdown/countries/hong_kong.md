@@ -71,8 +71,8 @@ Indexed users: 10,278
 | 7 | [Sjj1024](https://github.com/Sjj1024) | 1024xiaoshen | Hong Kong | 2,750 |
 | 8 | [bdamcoin](https://github.com/bdamcoin) | bdamcoin | hong kong | 2,431 |
 | 9 | [kevwan](https://github.com/kevwan) | Kevin Wan | Hong Kong, China | 2,077 |
-| 10 | [johnsoncodehk](https://github.com/johnsoncodehk) | Johnson Chu | Hong Kong | 1,718 |
-| 11 | [TianxingChen](https://github.com/TianxingChen) | Tianxing Chen (陈天行) | Hong Kong | 1,639 |
+| 10 | [TianxingChen](https://github.com/TianxingChen) | Tianxing Chen (陈天行) | Hong Kong | 1,757 |
+| 11 | [johnsoncodehk](https://github.com/johnsoncodehk) | Johnson Chu | Hong Kong | 1,718 |
 | 12 | [heqin-zhu](https://github.com/heqin-zhu) | Heqin Zhu | Hong Kong, China | 1,463 |
 | 13 | [pseudoyu](https://github.com/pseudoyu) | pseudoyu | Hong Kong | 1,303 |
 | 14 | [lindahua](https://github.com/lindahua) | Dahua Lin | Hong Kong | 1,282 |
@@ -83,4 +83,4 @@ Indexed users: 10,278
 | 19 | [syhyz1990](https://github.com/syhyz1990) | iPc | Hong Kong | 975 |
 | 20 | [robbin](https://github.com/robbin) | Fan Kai | Hong Kong | 959 |
 
-Generated: 2026-10-15T20:46:41.712Z
+Generated: 2026-10-15T22:04:29.365Z

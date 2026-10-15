@@ -1,6 +1,6 @@
 # Total Contributions - Iceland
 
-Generated: 2026-10-15T20:47:23.599Z
+Generated: 2026-10-15T22:04:37.177Z
 
 Users: 1578
 
@@ -25,4 +25,4 @@ Users: 1578
 | 17 | [arnavmehta7](https://github.com/arnavmehta7) | Arnav Mehta |  |  | Island | 6770 |
 | 18 | [gthb](https://github.com/gthb) | Gunnlaugur Thor Briem | GRID |  | Reykjavík, Iceland | 6628 |
 | 19 | [gardarthorsteins](https://github.com/gardarthorsteins) | Garðar Þorsteinsson | Vettvangur |  | Reykjavík, Iceland | 6419 |
-| 20 | [arnimarj](https://github.com/arnimarj) | Árni Már Jónsson |  |  | Reykjavik, Iceland | 6359 |
+| 20 | [odinndagur](https://github.com/odinndagur) | Óðinn Dagur Bjarnason |  |  | Reykjavík, Iceland | 6395 |

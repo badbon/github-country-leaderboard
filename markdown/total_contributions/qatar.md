@@ -1,6 +1,6 @@
 # Total Contributions - Qatar
 
-Generated: 2026-10-15T21:09:26.418Z
+Generated: 2026-10-15T22:26:26.864Z
 
 Users: 1073
 
@@ -19,10 +19,10 @@ Users: 1073
 | 11 | [Snowy7](https://github.com/Snowy7) | Snowy |  |  | Qatar | 6276 |
 | 12 | [samstickkz](https://github.com/samstickkz) | samuel joseph (samstickkz) | samstickkz |  | QATAR | 5695 |
 | 13 | [niyazpoyilan](https://github.com/niyazpoyilan) | Niyaz Poyilan |  |  | Qatar | 5594 |
-| 14 | [luca-bondi](https://github.com/luca-bondi) | Luca Bondi |  |  | Doha, Qatar | 5450 |
-| 15 | [Aboidrees](https://github.com/Aboidrees) | Muhammad Yousif | MOE | alshf3ee | Qatar, Doha | 5007 |
-| 16 | [ilhamsyahids](https://github.com/ilhamsyahids) | Ilham Syahid S |  |  | Qatar | 4995 |
-| 17 | [Bewinxed](https://github.com/Bewinxed) | Omar Al Matar | Hamad Medical Corporation | Bewinxed | Doha, Qatar | 4844 |
+| 14 | [Bewinxed](https://github.com/Bewinxed) | Omar Al Matar | Hamad Medical Corporation | Bewinxed | Doha, Qatar | 5512 |
+| 15 | [luca-bondi](https://github.com/luca-bondi) | Luca Bondi |  |  | Doha, Qatar | 5450 |
+| 16 | [Aboidrees](https://github.com/Aboidrees) | Muhammad Yousif | MOE | alshf3ee | Qatar, Doha | 5124 |
+| 17 | [ilhamsyahids](https://github.com/ilhamsyahids) | Ilham Syahid S |  |  | Qatar | 4995 |
 | 18 | [Engineersticity](https://github.com/Engineersticity) | Erastus Kirui |  | Engineersticity | Doha, Qatar | 4132 |
 | 19 | [mbrksntrk](https://github.com/mbrksntrk) | M Burak Şentürk | Boğaziçi Üniversitesi | mbrksntrk | Doha, Qatar | 4039 |
 | 20 | [Gubbu77](https://github.com/Gubbu77) | Indrajith vs | Teciza Solutions |  | Qatar | 3984 |

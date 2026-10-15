@@ -1,6 +1,6 @@
 # Followers - Jamaica
 
-Generated: 2026-10-15T20:48:51.664Z
+Generated: 2026-10-15T22:07:18.516Z
 
 Users: 1275
 
@@ -19,8 +19,8 @@ Users: 1275
 | 11 | [steven-hh-ding](https://github.com/steven-hh-ding) | Steven Ding | L1NNA Lab, Queen's University |  | Kingston | 118 |
 | 12 | [juliemturner](https://github.com/juliemturner) | Julie Turner | Sympraxis Consulting |  | East Kingston, NH | 109 |
 | 13 | [justmat](https://github.com/justmat) | mat |  |  | Kingston, NY | 109 |
-| 14 | [ColauttiLab](https://github.com/ColauttiLab) | Colautti Lab | Colautti Lab, Queen's University, Canada | ColauttiLab | Kingston, ON | 106 |
-| 15 | [mayukh4](https://github.com/mayukh4) | Mayukh Bagchi | Mayukh Bagchi |  | Kingston, Ontario | 106 |
+| 14 | [mayukh4](https://github.com/mayukh4) | Mayukh Bagchi | Mayukh Bagchi |  | Kingston, Ontario | 109 |
+| 15 | [ColauttiLab](https://github.com/ColauttiLab) | Colautti Lab | Colautti Lab, Queen's University, Canada | ColauttiLab | Kingston, ON | 106 |
 | 16 | [olusiekwin](https://github.com/olusiekwin) | Gramm | Gramm's Foundation | _olusiekwin | kingston, JM | 106 |
 | 17 | [RakibulRanak](https://github.com/RakibulRanak) | MD RAKIBUL HASAN |  |  | Kingston, Ontario | 102 |
 | 18 | [JonCooperWorks](https://github.com/JonCooperWorks) |  |  | joncooperworks | Jamaica | 101 |

@@ -16,16 +16,16 @@ Indexed users: 289
 | 2 | [Hashimi01](https://github.com/Hashimi01) | Hashimi El Hashimi | Nouakchott, Mauritania | 11,280 |
 | 3 | [ahmed-abdat](https://github.com/ahmed-abdat) | Ahmed Abdellahi Abdat | mauritania nouakchott | 10,694 |
 | 4 | [LeminEly](https://github.com/LeminEly) | Lemin | Mauritania | 8,399 |
-| 5 | [BechirAhmed](https://github.com/BechirAhmed) | Bechir Ahmed | Nouakchott, Mauritania | 4,472 |
+| 5 | [BechirAhmed](https://github.com/BechirAhmed) | Bechir Ahmed | Nouakchott, Mauritania | 4,605 |
 | 6 | [mohameden19961](https://github.com/mohameden19961) | abdy mohameden | Nouakchott, Mauritania | 4,093 |
 | 7 | [beillahi](https://github.com/beillahi) | Sidi Mohamed Beillahi | Mauritania | 3,341 |
 | 8 | [myeljoud](https://github.com/myeljoud) | Mohamed Yahye El Joud | Nouakchott, Mauritania | 3,303 |
 | 9 | [OussamaTeyib](https://github.com/OussamaTeyib) | Oussama Teyib | Nouakchott, Mauritania | 2,749 |
 | 10 | [NejmiSidaty](https://github.com/NejmiSidaty) | Mohamed Jiyed | Nouakchott, Mauritania | 2,522 |
-| 11 | [oumarhadrami](https://github.com/oumarhadrami) | Mohamed EL Hadramy Oumar | Nouakchott, Mauritania | 2,393 |
+| 11 | [oumarhadrami](https://github.com/oumarhadrami) | Mohamed EL Hadramy Oumar | Nouakchott, Mauritania | 2,384 |
 | 12 | [babasahi](https://github.com/babasahi) | Babe Saleh Dahi | Nouakchott, Mauritania | 2,354 |
 | 13 | [salembaira](https://github.com/salembaira) | Mohamed Salem BAIRA | Nouakchott, Mauritania | 2,263 |
-| 14 | [va0000ll](https://github.com/va0000ll) | mohamedvall ibrahim | Nouakchott, Mauritania | 1,785 |
+| 14 | [va0000ll](https://github.com/va0000ll) | mohamedvall ibrahim | Nouakchott, Mauritania | 1,788 |
 | 15 | [sons-of-titus](https://github.com/sons-of-titus) | Mourad Abdellahi | Mauritania | 1,714 |
 | 16 | [Mohamed-Beirouk](https://github.com/Mohamed-Beirouk) | Mohamed Mohamed Beirouk | Mauritania | 1,533 |
 | 17 | [cheikh-sadbouh](https://github.com/cheikh-sadbouh) | J-developer | Mauritania | 1,353 |
@@ -78,9 +78,9 @@ Indexed users: 289
 | 14 | [MdMahmoudSaid](https://github.com/MdMahmoudSaid) | Mohamed Mahmoud Said | Nouakchott,Mauriania | 30 |
 | 15 | [moustaphatalebjiddou](https://github.com/moustaphatalebjiddou) | Moustapha Taleb Jiddou | Nouakchott, Mauritania | 30 |
 | 16 | [etfaghaoubeid](https://github.com/etfaghaoubeid) | Etfagha oubeid Elatigh | nouakchott | 29 |
-| 17 | [BechirAhmed](https://github.com/BechirAhmed) | Bechir Ahmed | Nouakchott, Mauritania | 28 |
+| 17 | [BechirAhmed](https://github.com/BechirAhmed) | Bechir Ahmed | Nouakchott, Mauritania | 27 |
 | 18 | [mohamdi](https://github.com/mohamdi) | Mohamdi Khlil | Mauritania | 26 |
 | 19 | [mbareck7](https://github.com/mbareck7) | mbar3ck7 | Mauritania, Nouakchott | 25 |
 | 20 | [rajelmn](https://github.com/rajelmn) | ra_mn | mauritania | 24 |
 
-Generated: 2026-10-15T20:57:37.989Z
+Generated: 2026-10-15T22:15:12.516Z

@@ -1,6 +1,6 @@
 # Palestine
 
-Indexed users: 2,200
+Indexed users: 2,199
 
 | Leaderboard | Link |
 |---|---|
@@ -81,6 +81,6 @@ Indexed users: 2,200
 | 17 | [DiaeddinTahboub](https://github.com/DiaeddinTahboub) | Diaeddin Tahboub | Palestine - Ramallah | 148 |
 | 18 | [ShakerAlshurafa](https://github.com/ShakerAlshurafa) | Shaker Yousef | Palestine | 141 |
 | 19 | [dalia2323](https://github.com/dalia2323) |  | Qalqilya, Palestine | 127 |
-| 20 | [mhmdio](https://github.com/mhmdio) | Mohammed Almusaddar | Gaza, Palestine | 123 |
+| 20 | [mhmdio](https://github.com/mhmdio) | Mohammed Almusaddar | Gaza, Palestine | 125 |
 
-Generated: 2026-10-15T21:06:44.387Z
+Generated: 2026-10-15T22:24:32.676Z

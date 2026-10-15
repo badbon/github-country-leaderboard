@@ -1,6 +1,6 @@
 # Followers - Hong Kong
 
-Generated: 2026-10-15T20:46:41.712Z
+Generated: 2026-10-15T22:04:29.365Z
 
 Users: 10278
 
@@ -15,8 +15,8 @@ Users: 10278
 | 7 | [Sjj1024](https://github.com/Sjj1024) | 1024xiaoshen | Free Coding |  | Hong Kong | 2750 |
 | 8 | [bdamcoin](https://github.com/bdamcoin) | bdamcoin | bdam foundation |  | hong kong | 2431 |
 | 9 | [kevwan](https://github.com/kevwan) | Kevin Wan | go-zero.dev | kevwanzero | Hong Kong, China | 2077 |
-| 10 | [johnsoncodehk](https://github.com/johnsoncodehk) | Johnson Chu |  | johnsoncodehk | Hong Kong | 1718 |
-| 11 | [TianxingChen](https://github.com/TianxingChen) | Tianxing Chen (陈天行) | The University of Hong Kong | MarioChan2002 | Hong Kong | 1639 |
+| 10 | [TianxingChen](https://github.com/TianxingChen) | Tianxing Chen (陈天行) | The University of Hong Kong | MarioChan2002 | Hong Kong | 1757 |
+| 11 | [johnsoncodehk](https://github.com/johnsoncodehk) | Johnson Chu |  | johnsoncodehk | Hong Kong | 1718 |
 | 12 | [heqin-zhu](https://github.com/heqin-zhu) | Heqin Zhu |  |  | Hong Kong, China | 1463 |
 | 13 | [pseudoyu](https://github.com/pseudoyu) | pseudoyu | @web3insight-ai | pseudo_yu | Hong Kong | 1303 |
 | 14 | [lindahua](https://github.com/lindahua) | Dahua Lin | The Chinese University of Hong Kong |  | Hong Kong | 1282 |

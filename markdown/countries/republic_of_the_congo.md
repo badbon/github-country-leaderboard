@@ -19,7 +19,7 @@ Indexed users: 298
 | 5 | [Codeur-Omniscient](https://github.com/Codeur-Omniscient) | Anthony Dorian | Brazzaville - Congo | 3,766 |
 | 6 | [lepresk](https://github.com/lepresk) | Logan CodeMaker | Brazzaville, Congo | 3,608 |
 | 7 | [BlackAngel242](https://github.com/BlackAngel242) | DrSmoke | Congo | 3,402 |
-| 8 | [Justany](https://github.com/Justany) | Justany ITOUA | Brazzaville | 2,986 |
+| 8 | [Justany](https://github.com/Justany) | Justany ITOUA | Brazzaville | 3,001 |
 | 9 | [Flammeduciel](https://github.com/Flammeduciel) | Flamme Du Ciel WASS | Brazzaville CG | 2,932 |
 | 10 | [OrionWambert](https://github.com/OrionWambert) | Orion WAMBERT | Brazzaville - Congo | 2,928 |
 | 11 | [Merite15](https://github.com/Merite15) | Merite | Brazzaville, Congo | 2,861 |
@@ -31,7 +31,7 @@ Indexed users: 298
 | 17 | [Osiris-Balonga](https://github.com/Osiris-Balonga) | Emmanuel Osiris Balonga | Brazzaville, Congo | 1,936 |
 | 18 | [Rajivhost](https://github.com/Rajivhost) | Rajiv Mounguengue | Brazzaville, Congo | 1,537 |
 | 19 | [Nianga-hussein](https://github.com/Nianga-hussein) | NIANGA Claude Hussein | Brazzaville | 1,400 |
-| 20 | [Shadow8021](https://github.com/Shadow8021) | Red_Sh@dow | Congo, brazzaville | 1,348 |
+| 20 | [DevProsper](https://github.com/DevProsper) |  | Brazzaville, Congo | 1,389 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 298
 | 19 | [Ssnnee](https://github.com/Ssnnee) | Samuel Nandi | Republic of the Congo | 26 |
 | 20 | [WinnersProx](https://github.com/WinnersProx) | Vainqueur Bihame | Kigali,Rwanda,Congo | 25 |
 
-Generated: 2026-10-15T21:09:30.665Z
+Generated: 2026-10-15T22:26:54.348Z

@@ -1,6 +1,6 @@
 # Public Contributions - Eswatini
 
-Generated: 2026-10-15T20:38:07.371Z
+Generated: 2026-10-15T21:55:57.668Z
 
 Users: 108
 
@@ -13,7 +13,7 @@ Users: 108
 | 5 | [siko13-bot](https://github.com/siko13-bot) | 202101251 |  |  | Mbabane,Eswatini | 94 |
 | 6 | [nigeljohnson73](https://github.com/nigeljohnson73) | Nigel Johnson |  |  | Malkerns, Swaziland | 81 |
 | 7 | [Sandziso](https://github.com/Sandziso) | Sandziso Mamba |  |  |  Eswatini | 71 |
-| 8 | [BhutiiMlamuli](https://github.com/BhutiiMlamuli) | Mlamuli Sibandze |  |  | Swaziland | 63 |
+| 8 | [BhutiiMlamuli](https://github.com/BhutiiMlamuli) | Mlamuli Sibandze |  |  | Swaziland | 65 |
 | 9 | [sicelo](https://github.com/sicelo) | Sicelo |  |  | Mbabane, ESWATINI | 60 |
 | 10 | [sanele176](https://github.com/sanele176) | Mancoba Dlamini |  |  | Eswatini | 51 |
 | 11 | [Co-ordinator](https://github.com/Co-ordinator) | Coordinator | Bits & PCs | Coordinator | Manzini, Eswatini | 47 |

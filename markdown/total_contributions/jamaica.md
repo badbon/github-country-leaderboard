@@ -1,6 +1,6 @@
 # Total Contributions - Jamaica
 
-Generated: 2026-10-15T20:48:51.664Z
+Generated: 2026-10-15T22:07:18.516Z
 
 Users: 1275
 
@@ -25,4 +25,4 @@ Users: 1275
 | 17 | [cogell](https://github.com/cogell) | B. Cedric Cogell |  |  | Kingston, NY | 4336 |
 | 18 | [JCarran0](https://github.com/JCarran0) | Jared Carrano | 2U Inc. |  | Kingston, NY | 4180 |
 | 19 | [kaplanz](https://github.com/kaplanz) | Zakhary Kaplan | @tenstorrent |  | Kingston, ON | 3991 |
-| 20 | [kareypowell](https://github.com/kareypowell) | Karey H. Powell | KPOD Labs | kareypowell | Manchester, Jamaica | 3902 |
+| 20 | [CryptoCanuck](https://github.com/CryptoCanuck) | Chris Robinson | RIMDC |  | Kingston, ON | 3925 |

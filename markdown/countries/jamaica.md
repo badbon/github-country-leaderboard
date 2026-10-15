@@ -31,7 +31,7 @@ Indexed users: 1,275
 | 17 | [cogell](https://github.com/cogell) | B. Cedric Cogell | Kingston, NY | 4,336 |
 | 18 | [JCarran0](https://github.com/JCarran0) | Jared Carrano | Kingston, NY | 4,180 |
 | 19 | [kaplanz](https://github.com/kaplanz) | Zakhary Kaplan | Kingston, ON | 3,991 |
-| 20 | [kareypowell](https://github.com/kareypowell) | Karey H. Powell | Manchester, Jamaica | 3,902 |
+| 20 | [CryptoCanuck](https://github.com/CryptoCanuck) | Chris Robinson | Kingston, ON | 3,925 |
 
 ## Public Contributions
 
@@ -75,12 +75,12 @@ Indexed users: 1,275
 | 11 | [steven-hh-ding](https://github.com/steven-hh-ding) | Steven Ding | Kingston | 118 |
 | 12 | [juliemturner](https://github.com/juliemturner) | Julie Turner | East Kingston, NH | 109 |
 | 13 | [justmat](https://github.com/justmat) | mat | Kingston, NY | 109 |
-| 14 | [ColauttiLab](https://github.com/ColauttiLab) | Colautti Lab | Kingston, ON | 106 |
-| 15 | [mayukh4](https://github.com/mayukh4) | Mayukh Bagchi | Kingston, Ontario | 106 |
+| 14 | [mayukh4](https://github.com/mayukh4) | Mayukh Bagchi | Kingston, Ontario | 109 |
+| 15 | [ColauttiLab](https://github.com/ColauttiLab) | Colautti Lab | Kingston, ON | 106 |
 | 16 | [olusiekwin](https://github.com/olusiekwin) | Gramm | kingston, JM | 106 |
 | 17 | [RakibulRanak](https://github.com/RakibulRanak) | MD RAKIBUL HASAN | Kingston, Ontario | 102 |
 | 18 | [JonCooperWorks](https://github.com/JonCooperWorks) |  | Jamaica | 101 |
 | 19 | [aliasad059](https://github.com/aliasad059) | Ali Asad | Kingston, Ontario | 100 |
 | 20 | [andrewmaier](https://github.com/andrewmaier) | Andrew Maier | Kingston, Ontario | 94 |
 
-Generated: 2026-10-15T20:48:51.664Z
+Generated: 2026-10-15T22:07:18.516Z

@@ -30,8 +30,8 @@ Indexed users: 488
 | 16 | [juniorbrindou](https://github.com/juniorbrindou) | Junior Brindou | Côte d'Ivoire, Abidjan | 4,025 |
 | 17 | [elinguiuriel](https://github.com/elinguiuriel) | ELINGUI Pascal Uriel | Côte d'Ivoire | 4,016 |
 | 18 | [Anse-dev](https://github.com/Anse-dev) | N'guettia Atta Jean Anselme | Ivory Coast | 3,807 |
-| 19 | [2ok-k](https://github.com/2ok-k) | Oumar Kouassi | Abidjan, Côte d'Ivoire | 3,775 |
-| 20 | [iDevo-ll](https://github.com/iDevo-ll) | iDevo | Yamoussoukro, côte d'ivoire  | 3,770 |
+| 19 | [iDevo-ll](https://github.com/iDevo-ll) | iDevo | Yamoussoukro, côte d'ivoire  | 3,795 |
+| 20 | [2ok-k](https://github.com/2ok-k) | Oumar Kouassi | Abidjan, Côte d'Ivoire | 3,775 |
 
 ## Public Contributions
 
@@ -40,7 +40,7 @@ Indexed users: 488
 | 1 | [adrielzimbril](https://github.com/adrielzimbril) | Adriel Zimbril | Abidjan, Ivory Coast | 3,093 |
 | 2 | [codescooper](https://github.com/codescooper) | Code Scooper | Abidjan, Côte d'ivoire | 990 |
 | 3 | [moasko](https://github.com/moasko) | moasko.dev | Côte d'Ivoire | 920 |
-| 4 | [iDevo-ll](https://github.com/iDevo-ll) | iDevo | Yamoussoukro, côte d'ivoire  | 782 |
+| 4 | [iDevo-ll](https://github.com/iDevo-ll) | iDevo | Yamoussoukro, côte d'ivoire  | 806 |
 | 5 | [eshe-huli](https://github.com/eshe-huli) | Ben G. Seydou Ouattara | Abidjan, Ivory Coast | 739 |
 | 6 | [MALICK-GITH](https://github.com/MALICK-GITH) | SOLITAIRE HACK | Ivory coast 🇨🇮 | 632 |
 | 7 | [Germinator97](https://github.com/Germinator97) | AGBETOGOR Germain | Abidjan, Côte-d'Ivoire | 566 |
@@ -83,4 +83,4 @@ Indexed users: 488
 | 19 | [DevAlves1993](https://github.com/DevAlves1993) | Christian Alves Cyrille Amani | Ivory Coast (Abidjan) | 42 |
 | 20 | [stephsalou](https://github.com/stephsalou) | stephane salou | Abidjan , Côte D'Ivoire | 41 |
 
-Generated: 2026-10-15T20:48:12.847Z
+Generated: 2026-10-15T22:06:39.962Z

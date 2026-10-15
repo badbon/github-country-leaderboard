@@ -1,6 +1,6 @@
 # Total Contributions - DR Congo
 
-Generated: 2026-10-15T20:36:46.424Z
+Generated: 2026-10-15T21:54:34.666Z
 
 Users: 699
 
@@ -25,4 +25,4 @@ Users: 699
 | 17 | [pacomeissa](https://github.com/pacomeissa) | PACOME ISSA | Freelancer |  | Democratic Republic of Congo | 4798 |
 | 18 | [AlbusDigi](https://github.com/AlbusDigi) | Albus | Faharix |  | Kinshasa | 4703 |
 | 19 | [MasirikaConstantin](https://github.com/MasirikaConstantin) | Masirika Constantin |  | negroconstantin | Kinshasa | 4585 |
-| 20 | [hervinhio](https://github.com/hervinhio) | Hervé Kyle MUTOMBO MATANDA | Cinq Five | hervinhio | Kinshasa, Democratic Republic of Congo | 4407 |
+| 20 | [Gptimus](https://github.com/Gptimus) | Guerth Manzala | Freelance | GuerthManzala | Kinshasa/RDC | 4456 |

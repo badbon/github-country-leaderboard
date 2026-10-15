@@ -12,7 +12,7 @@ Indexed users: 339
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [jkenley](https://github.com/jkenley) | Kenley Jean | Haiti | 5,624 |
+| 1 | [jkenley](https://github.com/jkenley) | Kenley Jean | Haiti | 5,633 |
 | 2 | [jbob9](https://github.com/jbob9) | Jean Baptiste Berlensky O. | Haiti | 4,769 |
 | 3 | [ninjaroot-509](https://github.com/ninjaroot-509) | Castin Stanley | Haiti | 4,590 |
 | 4 | [joassanon](https://github.com/joassanon) | Joas Sanon | Port-au-prince, Haiti | 3,829 |
@@ -26,7 +26,7 @@ Indexed users: 339
 | 12 | [kingsGuillaume99](https://github.com/kingsGuillaume99) | Guillaume Kingsley | Port-au-Prince , Haiti | 1,752 |
 | 13 | [bleuscyther](https://github.com/bleuscyther) | jeffrey n. carre | Haiti | 1,728 |
 | 14 | [didierganthier](https://github.com/didierganthier) | Didier Peran Ganthier | Port-au-prince, Haïti | 1,717 |
-| 15 | [thecassion](https://github.com/thecassion) | Pierre Robentz CASSION | Haiti | 1,527 |
+| 15 | [thecassion](https://github.com/thecassion) | Pierre Robentz CASSION | Haiti | 1,532 |
 | 16 | [antifugazis](https://github.com/antifugazis) | Jyvor Slaadel Mortimer | Port-au-Prince | 1,453 |
 | 17 | [fater04](https://github.com/fater04) | fater_04 | Haiti | 1,157 |
 | 18 | [jsbeaudry](https://github.com/jsbeaudry) | Beaudry Jean Sauvenel | Port-au-prince, Haiti | 974 |
@@ -63,7 +63,7 @@ Indexed users: 339
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [didierganthier](https://github.com/didierganthier) | Didier Peran Ganthier | Port-au-prince, Haïti | 264 |
-| 2 | [jkenley](https://github.com/jkenley) | Kenley Jean | Haiti | 88 |
+| 2 | [jkenley](https://github.com/jkenley) | Kenley Jean | Haiti | 87 |
 | 3 | [davidsonluma](https://github.com/davidsonluma) | Davidson | Haiti | 72 |
 | 4 | [cbaja](https://github.com/cbaja) | Carly BAJA | HAITI | 71 |
 | 5 | [certilremy](https://github.com/certilremy) | Certil Remy | Haiti | 71 |
@@ -83,4 +83,4 @@ Indexed users: 339
 | 19 | [skydevht](https://github.com/skydevht) | Holy-Elie Scaïde | Port-au-prince, Haïti | 32 |
 | 20 | [DybyTechX](https://github.com/DybyTechX) | DybyTechX | haiti | 31 |
 
-Generated: 2026-10-15T20:45:21.458Z
+Generated: 2026-10-15T22:03:59.238Z

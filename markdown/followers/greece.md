@@ -1,8 +1,8 @@
 # Followers - Greece
 
-Generated: 2026-10-15T20:43:31.565Z
+Generated: 2026-10-15T22:00:45.101Z
 
-Users: 15565
+Users: 15564
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

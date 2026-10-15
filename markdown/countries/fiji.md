@@ -12,10 +12,10 @@ Indexed users: 325
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [SMani0547](https://github.com/SMani0547) | Shiva Mani Goundar | Nadi, Fiji | 3,027 |
+| 1 | [SMani0547](https://github.com/SMani0547) | Shiva Mani Goundar | Nadi, Fiji | 3,028 |
 | 2 | [Shoneel](https://github.com/Shoneel) |  | Fiji, Suva  | 1,525 |
 | 3 | [Amdeo](https://github.com/Amdeo) | Cooper | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1,438 |
-| 4 | [felix-davui-679](https://github.com/felix-davui-679) | Filimone Davui | Fiji | 1,350 |
+| 4 | [felix-davui-679](https://github.com/felix-davui-679) | Filimone Davui | Fiji | 1,365 |
 | 5 | [krishneelkamalsingh](https://github.com/krishneelkamalsingh) | Krish | Fiji | 1,147 |
 | 6 | [crazybanboo](https://github.com/crazybanboo) | Ethan | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1,085 |
 | 7 | [jaclla](https://github.com/jaclla) | Logic | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1,031 |
@@ -29,7 +29,7 @@ Indexed users: 325
 | 15 | [kunz398](https://github.com/kunz398) | Kunal Singh | Fiji | 512 |
 | 16 | [2-fly-4-ai](https://github.com/2-fly-4-ai) | Brian farley | Suva | 502 |
 | 17 | [SRVSRR](https://github.com/SRVSRR) | Rohan Nandan | Fiji | 489 |
-| 18 | [aryann-7](https://github.com/aryann-7) | Aryan Singh | Suva, Fiji | 437 |
+| 18 | [aryann-7](https://github.com/aryann-7) | Aryan Singh | Suva, Fiji | 436 |
 | 19 | [vikichand](https://github.com/vikichand) | Vikash Chand | Fiji | 431 |
 | 20 | [Amanimal](https://github.com/Amanimal) | Abhishek Swamy | Fiji | 399 |
 
@@ -48,7 +48,7 @@ Indexed users: 325
 | 9 | [codeshareman](https://github.com/codeshareman) | Z° North | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 243 |
 | 10 | [grey0758](https://github.com/grey0758) | 徐业辉 | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 221 |
 | 11 | [rudrprasad05](https://github.com/rudrprasad05) | Rudr Prasad | Fiji | 211 |
-| 12 | [Lagilava](https://github.com/Lagilava) | Lagilava Paulo | Fiji | 201 |
+| 12 | [Lagilava](https://github.com/Lagilava) | Lagilava Paulo | Fiji | 205 |
 | 13 | [Geekmaxxer](https://github.com/Geekmaxxer) | Pew | Fiji | 187 |
 | 14 | [kunz398](https://github.com/kunz398) | Kunal Singh | Fiji | 166 |
 | 15 | [LangfordKuo](https://github.com/LangfordKuo) | Langford | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 143 |
@@ -83,4 +83,4 @@ Indexed users: 325
 | 19 | [phpoh](https://github.com/phpoh) | phpoh | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 21 |
 | 20 | [alvinkumar18](https://github.com/alvinkumar18) | Alvin Kumar | Fiji | 18 |
 
-Generated: 2026-10-15T20:39:19.781Z
+Generated: 2026-10-15T21:57:45.250Z

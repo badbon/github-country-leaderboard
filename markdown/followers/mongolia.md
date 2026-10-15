@@ -1,6 +1,6 @@
 # Followers - Mongolia
 
-Generated: 2026-10-15T20:59:00.621Z
+Generated: 2026-10-15T22:16:40.497Z
 
 Users: 805
 
@@ -10,7 +10,7 @@ Users: 805
 | 2 | [doljko](https://github.com/doljko) | Enkhbayar Doljinsuren | @fleetbase |  | Ulaanbaatar, Mongolia | 510 |
 | 3 | [dulmandakh](https://github.com/dulmandakh) | Dulmandakh |  |  | Ulaanbaatar, Mongolia | 270 |
 | 4 | [bilguunint](https://github.com/bilguunint) | Bilguun Nyamlhagva | @homepage-listly  |  | Mongolia | 242 |
-| 5 | [ByamB4](https://github.com/ByamB4) | Byambadalai Sumiya |  | ByamB4 | Ulaanbaatar, Mongolia | 225 |
+| 5 | [ByamB4](https://github.com/ByamB4) | Byambadalai Sumiya |  | ByamB4 | Ulaanbaatar, Mongolia | 227 |
 | 6 | [sharavsambuu](https://github.com/sharavsambuu) | sharavsambuu |  |  | Khuvsgul, Mongolia | 220 |
 | 7 | [mnkhod](https://github.com/mnkhod) | Munkh-Od |  | 0xMnkhod | Mongolia | 202 |
 | 8 | [gmunkhbaatarmn](https://github.com/gmunkhbaatarmn) | Munkhbaatar |  |  | Mongolia | 175 |

@@ -55,7 +55,7 @@ Indexed users: 315
 | 16 | [jennigs241](https://github.com/jennigs241) |  | Gabon | 165 |
 | 17 | [waly2020](https://github.com/waly2020) | waly le dev | Gabon (Libreville) | 154 |
 | 18 | [Dylan245-droid](https://github.com/Dylan245-droid) | Dylan ONDO | Libreville, Gabon | 150 |
-| 19 | [lmlouis](https://github.com/lmlouis) | WORA SOUAMY Louis Martin  | Libreville, Gabon | 147 |
+| 19 | [lmlouis](https://github.com/lmlouis) | WORA SOUAMY Louis Martin  | Libreville, Gabon | 146 |
 | 20 | [NGOUBADJAMBO-Richard](https://github.com/NGOUBADJAMBO-Richard) | NGOUBADJAMBO Richard | Gabon - Libreville | 130 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 315
 | 19 | [Dylan245-droid](https://github.com/Dylan245-droid) | Dylan ONDO | Libreville, Gabon | 22 |
 | 20 | [Marseven](https://github.com/Marseven) | Aristide Mebodo | Libreville | 20 |
 
-Generated: 2026-10-15T20:41:30.277Z
+Generated: 2026-10-15T21:59:40.716Z

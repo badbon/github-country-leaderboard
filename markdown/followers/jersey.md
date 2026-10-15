@@ -1,6 +1,6 @@
 # Followers - Jersey
 
-Generated: 2026-10-15T20:48:57.813Z
+Generated: 2026-10-15T22:07:45.387Z
 
 Users: 139
 
@@ -16,7 +16,7 @@ Users: 139
 | 8 | [cappadona](https://github.com/cappadona) | Nick Cappadona | @anaconda |  | Jersey | 39 |
 | 9 | [nunnsy](https://github.com/nunnsy) | Daniel Nunns |  |  | Jersey, Channel Islands | 37 |
 | 10 | [j4ckxyz](https://github.com/j4ckxyz) | jack |  |  | Jersey, UK | 36 |
-| 11 | [oidz1234](https://github.com/oidz1234) | Mark McNally |  | mark_mcnally_je | Jersey | 33 |
+| 11 | [oidz1234](https://github.com/oidz1234) | Mark McNally |  | mark_mcnally_je | Jersey | 34 |
 | 12 | [TafadzwaD](https://github.com/TafadzwaD) | Tafadzwa Demba | Tiphar Solutions |  | Jersey | 29 |
 | 13 | [jde](https://github.com/jde) | David Erwin | RollDeep | daviderwin | New [York, Jersey] | 28 |
 | 14 | [timkrins](https://github.com/timkrins) | Tim Krins | @InfuseGroup  |  | Jersey, Channel Islands | 27 |

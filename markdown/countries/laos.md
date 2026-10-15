@@ -12,7 +12,7 @@ Indexed users: 360
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [huevangxp](https://github.com/huevangxp) | Hue Vang | laos | 29,719 |
+| 1 | [huevangxp](https://github.com/huevangxp) | Hue Vang | laos | 29,727 |
 | 2 | [Sengkue](https://github.com/Sengkue) | SengKueVang | Laos, Vientiane capital | 18,633 |
 | 3 | [Bee777](https://github.com/Bee777) | Bee | Vientiane | 5,176 |
 | 4 | [TKXDev](https://github.com/TKXDev) | TKXDev | Vientiane,Laos | 4,925 |
@@ -24,8 +24,8 @@ Indexed users: 360
 | 10 | [khatthaphone](https://github.com/khatthaphone) | Khatthaphone Sengvilai | Vientiane, Laos | 2,269 |
 | 11 | [vilasone455](https://github.com/vilasone455) |  | Laos | 2,058 |
 | 12 | [Thanakone123](https://github.com/Thanakone123) | Un | Laos | 1,949 |
-| 13 | [Anousack789](https://github.com/Anousack789) | Anousack | Vientiane | 1,755 |
-| 14 | [BounkhongDev](https://github.com/BounkhongDev) | BounkhongDev | Vientiane, laos | 1,715 |
+| 13 | [Anousack789](https://github.com/Anousack789) | Anousack | Vientiane | 1,759 |
+| 14 | [BounkhongDev](https://github.com/BounkhongDev) | BounkhongDev | Vientiane, laos | 1,714 |
 | 15 | [Phounn](https://github.com/Phounn) |  | Laos | 1,551 |
 | 16 | [iamlex01](https://github.com/iamlex01) | Alex Saelao | Vientiane, Laos | 1,450 |
 | 17 | [TotoPhandolack](https://github.com/TotoPhandolack) | Toto Phandolack | Luangprabang, Laos | 1,167 |
@@ -83,4 +83,4 @@ Indexed users: 360
 | 19 | [Sengkue](https://github.com/Sengkue) | SengKueVang | Laos, Vientiane capital | 16 |
 | 20 | [JarnKet](https://github.com/JarnKet) | Ketsadaphone BOUTPANYDA | Savannakhet, Laos | 14 |
 
-Generated: 2026-10-15T20:51:53.987Z
+Generated: 2026-10-15T22:10:29.780Z

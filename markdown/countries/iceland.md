@@ -31,28 +31,28 @@ Indexed users: 1,578
 | 17 | [arnavmehta7](https://github.com/arnavmehta7) | Arnav Mehta | Island | 6,770 |
 | 18 | [gthb](https://github.com/gthb) | Gunnlaugur Thor Briem | Reykjavík, Iceland | 6,628 |
 | 19 | [gardarthorsteins](https://github.com/gardarthorsteins) | Garðar Þorsteinsson | Reykjavík, Iceland | 6,419 |
-| 20 | [arnimarj](https://github.com/arnimarj) | Árni Már Jónsson | Reykjavik, Iceland | 6,359 |
+| 20 | [odinndagur](https://github.com/odinndagur) | Óðinn Dagur Bjarnason | Reykjavík, Iceland | 6,395 |
 
 ## Public Contributions
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [hugithordarson](https://github.com/hugithordarson) | Hugi Thordarson | Rekjavik, Iceland | 5,804 |
-| 2 | [smnasiruz016-blip](https://github.com/smnasiruz016-blip) | Sheikh Muhammad Nasir Uz Zaman | iceland | 3,953 |
-| 3 | [karirafn](https://github.com/karirafn) | Kári Rafn Karlsson | Akranes, Iceland | 3,568 |
-| 4 | [HermannBjorgvin](https://github.com/HermannBjorgvin) | Hermann Björgvin | Reykjavík, Iceland | 3,008 |
-| 5 | [philcockfield](https://github.com/philcockfield) | Phil Cockfield | island( waiheke( nz )) | 2,986 |
-| 6 | [Raudbjorn](https://github.com/Raudbjorn) | Sveinbjörn Geirsson | Reykjavik | 2,720 |
-| 7 | [bjorndarri](https://github.com/bjorndarri) | Björn Darri Sigurðsson | Reykjavík, Iceland | 2,477 |
-| 8 | [gardarthorsteins](https://github.com/gardarthorsteins) | Garðar Þorsteinsson | Reykjavík, Iceland | 2,405 |
-| 9 | [jokull](https://github.com/jokull) | Jökull Sólberg Auðunsson | Reykjavík, Iceland | 2,163 |
-| 10 | [pzychozen](https://github.com/pzychozen) | Hilmir Frímann Halldórsson | Iceland | 2,028 |
-| 11 | [bgautijonsson](https://github.com/bgautijonsson) | Brynjolfur Gauti Jónsson | Reykjavík, Iceland | 2,002 |
-| 12 | [vvzvlad](https://github.com/vvzvlad) | vvzvlad | Iceland | 1,947 |
-| 13 | [egil](https://github.com/egil) | Egil Hansen | Iceland | 1,580 |
-| 14 | [sandsower](https://github.com/sandsower) | Vic Valenzuela | Reykjavík, Iceland | 1,501 |
-| 15 | [bgunnarsson](https://github.com/bgunnarsson) | B. Gunnarsson | Iceland | 1,493 |
-| 16 | [odinndagur](https://github.com/odinndagur) | Óðinn Dagur Bjarnason | Reykjavík, Iceland | 1,449 |
+| 1 | [odinndagur](https://github.com/odinndagur) | Óðinn Dagur Bjarnason | Reykjavík, Iceland | 6,395 |
+| 2 | [hugithordarson](https://github.com/hugithordarson) | Hugi Thordarson | Rekjavik, Iceland | 5,804 |
+| 3 | [smnasiruz016-blip](https://github.com/smnasiruz016-blip) | Sheikh Muhammad Nasir Uz Zaman | iceland | 3,953 |
+| 4 | [karirafn](https://github.com/karirafn) | Kári Rafn Karlsson | Akranes, Iceland | 3,568 |
+| 5 | [HermannBjorgvin](https://github.com/HermannBjorgvin) | Hermann Björgvin | Reykjavík, Iceland | 3,008 |
+| 6 | [philcockfield](https://github.com/philcockfield) | Phil Cockfield | island( waiheke( nz )) | 2,986 |
+| 7 | [Raudbjorn](https://github.com/Raudbjorn) | Sveinbjörn Geirsson | Reykjavik | 2,720 |
+| 8 | [bjorndarri](https://github.com/bjorndarri) | Björn Darri Sigurðsson | Reykjavík, Iceland | 2,477 |
+| 9 | [gardarthorsteins](https://github.com/gardarthorsteins) | Garðar Þorsteinsson | Reykjavík, Iceland | 2,405 |
+| 10 | [jokull](https://github.com/jokull) | Jökull Sólberg Auðunsson | Reykjavík, Iceland | 2,163 |
+| 11 | [pzychozen](https://github.com/pzychozen) | Hilmir Frímann Halldórsson | Iceland | 2,028 |
+| 12 | [bgautijonsson](https://github.com/bgautijonsson) | Brynjolfur Gauti Jónsson | Reykjavík, Iceland | 2,002 |
+| 13 | [vvzvlad](https://github.com/vvzvlad) | vvzvlad | Iceland | 1,947 |
+| 14 | [egil](https://github.com/egil) | Egil Hansen | Iceland | 1,580 |
+| 15 | [sandsower](https://github.com/sandsower) | Vic Valenzuela | Reykjavík, Iceland | 1,501 |
+| 16 | [bgunnarsson](https://github.com/bgunnarsson) | B. Gunnarsson | Iceland | 1,493 |
 | 17 | [gasvaktin](https://github.com/gasvaktin) | Gasvaktin | Iceland | 1,408 |
 | 18 | [zveinn](https://github.com/zveinn) | Sveinn ( keyb1nd ) | Iceland | 1,376 |
 | 19 | [Max77788](https://github.com/Max77788) | Max Mat | Iceland | 1,261 |
@@ -83,4 +83,4 @@ Indexed users: 1,578
 | 19 | [jokull](https://github.com/jokull) | Jökull Sólberg Auðunsson | Reykjavík, Iceland | 209 |
 | 20 | [sbsigur](https://github.com/sbsigur) | Sævar Bergur Sigurgeirsson | Iceland | 203 |
 
-Generated: 2026-10-15T20:47:23.599Z
+Generated: 2026-10-15T22:04:37.177Z

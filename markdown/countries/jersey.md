@@ -15,12 +15,12 @@ Indexed users: 139
 | 1 | [marcusquinn](https://github.com/marcusquinn) | Marcus Quinn | London, UK, Los-angeles, California, England, Jersey | 54,408 |
 | 2 | [PhilETaylor](https://github.com/PhilETaylor) | Phil E. Taylor | Jersey, Channel Islands | 38,617 |
 | 3 | [jde](https://github.com/jde) | David Erwin | New [York, Jersey] | 11,819 |
-| 4 | [ndestates](https://github.com/ndestates) | Nick Dodsley | Jersey | 10,638 |
-| 5 | [guessty](https://github.com/guessty) | Christian | Jersey, Channel Islands | 8,119 |
+| 4 | [ndestates](https://github.com/ndestates) | Nick Dodsley | Jersey | 10,702 |
+| 5 | [guessty](https://github.com/guessty) | Christian | Jersey, Channel Islands | 8,124 |
 | 6 | [timkrins](https://github.com/timkrins) | Tim Krins | Jersey, Channel Islands | 4,827 |
 | 7 | [danielmullin](https://github.com/danielmullin) | Daniel Mullin | Jersey | 4,646 |
 | 8 | [gnathoi](https://github.com/gnathoi) | Nathaniel Hey | Jersey, Channel Islands | 4,334 |
-| 9 | [wildgeodude](https://github.com/wildgeodude) | Dominic Samphier | Jersey | 4,091 |
+| 9 | [wildgeodude](https://github.com/wildgeodude) | Dominic Samphier | Jersey | 4,094 |
 | 10 | [digitalbuddha](https://github.com/digitalbuddha) | Mike Nakhimovich | The dirty (jersey) | 3,551 |
 | 11 | [oidz1234](https://github.com/oidz1234) | Mark McNally | Jersey | 3,352 |
 | 12 | [r-moore](https://github.com/r-moore) | Richard Moore | Jersey | 3,333 |
@@ -72,7 +72,7 @@ Indexed users: 139
 | 8 | [cappadona](https://github.com/cappadona) | Nick Cappadona | Jersey | 39 |
 | 9 | [nunnsy](https://github.com/nunnsy) | Daniel Nunns | Jersey, Channel Islands | 37 |
 | 10 | [j4ckxyz](https://github.com/j4ckxyz) | jack | Jersey, UK | 36 |
-| 11 | [oidz1234](https://github.com/oidz1234) | Mark McNally | Jersey | 33 |
+| 11 | [oidz1234](https://github.com/oidz1234) | Mark McNally | Jersey | 34 |
 | 12 | [TafadzwaD](https://github.com/TafadzwaD) | Tafadzwa Demba | Jersey | 29 |
 | 13 | [jde](https://github.com/jde) | David Erwin | New [York, Jersey] | 28 |
 | 14 | [timkrins](https://github.com/timkrins) | Tim Krins | Jersey, Channel Islands | 27 |
@@ -83,4 +83,4 @@ Indexed users: 139
 | 19 | [r-moore](https://github.com/r-moore) | Richard Moore | Jersey | 21 |
 | 20 | [Chrisedmo](https://github.com/Chrisedmo) | Chris Mousdale | Jersey, Channel Islands | 20 |
 
-Generated: 2026-10-15T20:48:57.813Z
+Generated: 2026-10-15T22:07:45.387Z

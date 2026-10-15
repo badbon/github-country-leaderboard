@@ -1,6 +1,6 @@
 # Followers - Mauritania
 
-Generated: 2026-10-15T20:57:37.989Z
+Generated: 2026-10-15T22:15:12.516Z
 
 Users: 289
 
@@ -22,7 +22,7 @@ Users: 289
 | 14 | [MdMahmoudSaid](https://github.com/MdMahmoudSaid) | Mohamed Mahmoud Said |  |  | Nouakchott,Mauriania | 30 |
 | 15 | [moustaphatalebjiddou](https://github.com/moustaphatalebjiddou) | Moustapha Taleb Jiddou |  | MoustaphaTJ | Nouakchott, Mauritania | 30 |
 | 16 | [etfaghaoubeid](https://github.com/etfaghaoubeid) | Etfagha oubeid Elatigh |  |  | nouakchott | 29 |
-| 17 | [BechirAhmed](https://github.com/BechirAhmed) | Bechir Ahmed |  |  | Nouakchott, Mauritania | 28 |
+| 17 | [BechirAhmed](https://github.com/BechirAhmed) | Bechir Ahmed |  |  | Nouakchott, Mauritania | 27 |
 | 18 | [mohamdi](https://github.com/mohamdi) | Mohamdi Khlil |  |  | Mauritania | 26 |
 | 19 | [mbareck7](https://github.com/mbareck7) | mbar3ck7 | Bits Tamer | mbareck77 | Mauritania, Nouakchott | 25 |
 | 20 | [rajelmn](https://github.com/rajelmn) | ra_mn | 0xmr |  | mauritania | 24 |

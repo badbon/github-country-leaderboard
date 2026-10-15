@@ -14,7 +14,7 @@ Indexed users: 142
 |---:|---|---|---|---:|
 | 1 | [AlexRLG98](https://github.com/AlexRLG98) | Alex_RLG | Monaco | 7,261 |
 | 2 | [DamienMonchaty](https://github.com/DamienMonchaty) | Damien Monchaty | Monaco | 6,066 |
-| 3 | [laurentqro](https://github.com/laurentqro) | Laurent Curau | Monaco | 5,186 |
+| 3 | [laurentqro](https://github.com/laurentqro) | Laurent Curau | Monaco | 5,211 |
 | 4 | [LovelessCodes](https://github.com/LovelessCodes) |  | Monaco | 3,619 |
 | 5 | [KristofM854](https://github.com/KristofM854) | Kristof Moeller | Monaco | 1,872 |
 | 6 | [silvainfm](https://github.com/silvainfm) | François-Marie Brych | Nashville & Monaco | 1,782 |
@@ -23,7 +23,7 @@ Indexed users: 142
 | 9 | [NicoBocq](https://github.com/NicoBocq) | Nicolas Bocquet | Marseille / Monaco | 941 |
 | 10 | [tatianamc](https://github.com/tatianamc) | Tatiana | Monaco | 783 |
 | 11 | [jz222](https://github.com/jz222) | Timo Zimmermann | Monte-Carlo, Monaco | 759 |
-| 12 | [Orion98MC](https://github.com/Orion98MC) | Thierry Passeron | Monaco | 585 |
+| 12 | [Orion98MC](https://github.com/Orion98MC) | Thierry Passeron | Monaco | 588 |
 | 13 | [asingizwe1](https://github.com/asingizwe1) | Dev. Louis Asingizwe | Monaco , Kampala/Uganda | 583 |
 | 14 | [vjandrea](https://github.com/vjandrea) | Andrea Bergamasco | Monaco | 565 |
 | 15 | [scribelia-anthony](https://github.com/scribelia-anthony) | Anthony | Monaco | 428 |
@@ -67,7 +67,7 @@ Indexed users: 142
 | 3 | [laurentqro](https://github.com/laurentqro) | Laurent Curau | Monaco | 39 |
 | 4 | [Akira98000](https://github.com/Akira98000) | Santhakumaran Akira | Monaco  | 38 |
 | 5 | [DamienMonchaty](https://github.com/DamienMonchaty) | Damien Monchaty | Monaco | 36 |
-| 6 | [vjandrea](https://github.com/vjandrea) | Andrea Bergamasco | Monaco | 35 |
+| 6 | [vjandrea](https://github.com/vjandrea) | Andrea Bergamasco | Monaco | 36 |
 | 7 | [zertawz](https://github.com/zertawz) | Jean-Christophe BURNOT | MONACO / LYON / LAUSANNE | 30 |
 | 8 | [jmbertin](https://github.com/jmbertin) | Jean-Michel Bertin | Monaco | 24 |
 | 9 | [HedgeQuantX](https://github.com/HedgeQuantX) | HedgeQuant𝕏 | Monte-Carlo, Monaco | 22 |
@@ -83,4 +83,4 @@ Indexed users: 142
 | 19 | [coachklng12](https://github.com/coachklng12) |  | Monaco | 14 |
 | 20 | [co-stig](https://github.com/co-stig) | Constantine | Monaco | 13 |
 
-Generated: 2026-10-15T20:58:57.825Z
+Generated: 2026-10-15T22:16:34.125Z

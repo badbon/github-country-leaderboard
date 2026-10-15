@@ -51,8 +51,8 @@ Indexed users: 1,395
 | 12 | [fn-cafeina](https://github.com/fn-cafeina) | Jasmir Medina | Nicaragua | 1,087 |
 | 13 | [staFF6773](https://github.com/staFF6773) | Not_staff | República de Nicaragua | 1,070 |
 | 14 | [R0LM0](https://github.com/R0LM0) | r0lm0 | Managua, Nicaragua | 1,027 |
-| 15 | [TheSteelNinjaCode](https://github.com/TheSteelNinjaCode) | Jefferson Abraham Omier | Nicaragua | 987 |
-| 16 | [ernestoruiz89](https://github.com/ernestoruiz89) | Ernesto Ruiz | Nicaragua | 967 |
+| 15 | [ernestoruiz89](https://github.com/ernestoruiz89) | Ernesto Ruiz | Nicaragua | 967 |
+| 16 | [TheSteelNinjaCode](https://github.com/TheSteelNinjaCode) | Jefferson Abraham Omier | Nicaragua | 955 |
 | 17 | [Gaboxqc](https://github.com/Gaboxqc) | Gabriel Mayorga | Managua | 917 |
 | 18 | [fabmnt](https://github.com/fabmnt) | Fabián Montoya | Nicaragua | 895 |
 | 19 | [xangcastle](https://github.com/xangcastle) | Cesar Abel | Nicaragua | 845 |
@@ -83,4 +83,4 @@ Indexed users: 1,395
 | 19 | [luismejiadev](https://github.com/luismejiadev) | Luis Mejia | Managua, Nicaragua | 68 |
 | 20 | [dannygaray60](https://github.com/dannygaray60) | Danny Garay | Nicaragua | 61 |
 
-Generated: 2026-10-15T21:03:19.582Z
+Generated: 2026-10-15T22:21:20.250Z

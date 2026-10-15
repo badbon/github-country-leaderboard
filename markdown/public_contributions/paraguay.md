@@ -1,6 +1,6 @@
 # Public Contributions - Paraguay
 
-Generated: 2026-10-15T21:07:32.245Z
+Generated: 2026-10-15T22:25:14.607Z
 
 Users: 2013
 
@@ -10,8 +10,8 @@ Users: 2013
 | 2 | [apojomovsky](https://github.com/apojomovsky) | Alexis Pojomovsky |  |  | Asunción - Paraguay | 3469 |
 | 3 | [kiquetal](https://github.com/kiquetal) | Enrique\m/Talavera | <) |  | Paraguay | 3419 |
 | 4 | [eeeds](https://github.com/eeeds) | Esteban Encina |  |  | Paraguay | 3104 |
-| 5 | [esteban-vm](https://github.com/esteban-vm) | Esteban V.M. |  |  | Asunción, Paraguay | 2357 |
-| 6 | [skyvanguard](https://github.com/skyvanguard) |  | Skyvanguard |  | Paraguay | 2181 |
+| 5 | [skyvanguard](https://github.com/skyvanguard) |  | Skyvanguard |  | Paraguay | 2364 |
+| 6 | [esteban-vm](https://github.com/esteban-vm) | Esteban V.M. |  |  | Asunción, Paraguay | 2357 |
 | 7 | [DaltonP93](https://github.com/DaltonP93) | Dalton Perez |  |  | Paraguay | 1870 |
 | 8 | [zot24](https://github.com/zot24) |  | Motty | zot24 | Asuncion, Paraguay | 1670 |
 | 9 | [stevenayal](https://github.com/stevenayal) | Steven Ayala | Banco Continental SAECA |  | Asunción, Paraguay | 1653 |

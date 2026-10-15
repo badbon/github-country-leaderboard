@@ -13,7 +13,7 @@ Indexed users: 805
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [themuuln](https://github.com/themuuln) | themuuln | Ulaanbaatar, Mongolia | 564,486 |
-| 2 | [ByamB4](https://github.com/ByamB4) | Byambadalai Sumiya | Ulaanbaatar, Mongolia | 97,863 |
+| 2 | [ByamB4](https://github.com/ByamB4) | Byambadalai Sumiya | Ulaanbaatar, Mongolia | 96,233 |
 | 3 | [tortuvshin](https://github.com/tortuvshin) | Turtuvshin Byambaa | Mongolia | 18,044 |
 | 4 | [ganbold](https://github.com/ganbold) | Ganbold | Ulaanbaatar, Mongolia | 12,092 |
 | 5 | [baysaa006](https://github.com/baysaa006) |  | Mongolia. | 11,173 |
@@ -66,7 +66,7 @@ Indexed users: 805
 | 2 | [doljko](https://github.com/doljko) | Enkhbayar Doljinsuren | Ulaanbaatar, Mongolia | 510 |
 | 3 | [dulmandakh](https://github.com/dulmandakh) | Dulmandakh | Ulaanbaatar, Mongolia | 270 |
 | 4 | [bilguunint](https://github.com/bilguunint) | Bilguun Nyamlhagva | Mongolia | 242 |
-| 5 | [ByamB4](https://github.com/ByamB4) | Byambadalai Sumiya | Ulaanbaatar, Mongolia | 225 |
+| 5 | [ByamB4](https://github.com/ByamB4) | Byambadalai Sumiya | Ulaanbaatar, Mongolia | 227 |
 | 6 | [sharavsambuu](https://github.com/sharavsambuu) | sharavsambuu | Khuvsgul, Mongolia | 220 |
 | 7 | [mnkhod](https://github.com/mnkhod) | Munkh-Od | Mongolia | 202 |
 | 8 | [gmunkhbaatarmn](https://github.com/gmunkhbaatarmn) | Munkhbaatar | Mongolia | 175 |
@@ -83,4 +83,4 @@ Indexed users: 805
 | 19 | [munkhjin0223](https://github.com/munkhjin0223) | Munkhjin | Ulaanbaatar, Mongolia | 64 |
 | 20 | [temuulennibno](https://github.com/temuulennibno) | Temuulen | Ulaanbaatar, Mongolia | 55 |
 
-Generated: 2026-10-15T20:59:00.621Z
+Generated: 2026-10-15T22:16:40.497Z

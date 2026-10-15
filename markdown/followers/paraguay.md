@@ -1,6 +1,6 @@
 # Followers - Paraguay
 
-Generated: 2026-10-15T21:07:32.245Z
+Generated: 2026-10-15T22:25:14.607Z
 
 Users: 2013
 
@@ -16,7 +16,7 @@ Users: 2013
 | 8 | [nemesiscodex](https://github.com/nemesiscodex) | Julio Daniel Reyes |  | nemesiscodex | Paraguay | 209 |
 | 9 | [prolic](https://github.com/prolic) | Sascha-Oliver Prolić |  |  | Paraguay | 201 |
 | 10 | [abdelp](https://github.com/abdelp) | Abdel Pérez Téllez | FullStack Labs | AbdelPerez11 | Asunción, Paraguay | 182 |
-| 11 | [skyvanguard](https://github.com/skyvanguard) |  | Skyvanguard |  | Paraguay | 181 |
+| 11 | [skyvanguard](https://github.com/skyvanguard) |  | Skyvanguard |  | Paraguay | 179 |
 | 12 | [garyservin](https://github.com/garyservin) | Gary Servin | @locusrobotics  | garyservin | Asunción - Paraguay | 154 |
 | 13 | [pablo](https://github.com/pablo) | Pablo Santa Cruz | Roshka | pablojavierpy | Asunción, Paraguay | 151 |
 | 14 | [WilliBobadilla](https://github.com/WilliBobadilla) | Williams Ismael Bobadilla Torres  |  |  | Paraguay | 136 |
