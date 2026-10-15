@@ -1,8 +1,8 @@
 # Public Contributions - United Arab Emirates
 
-Generated: 2026-10-15T13:47:25.954Z
+Generated: 2026-10-15T15:00:07.945Z
 
-Users: 4229
+Users: 4230
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -21,8 +21,8 @@ Users: 4229
 | 13 | [aroff](https://github.com/aroff) | Alex Oliveira |  |  | United Arab Emirates | 2753 |
 | 14 | [haseeb-heaven](https://github.com/haseeb-heaven) | Haseeb Heaven | Rockstar games | HaseebMir91 | Dubai,United Arab Emirates | 2460 |
 | 15 | [drakulavich](https://github.com/drakulavich) | Anton Yakutovich |  | drakulavich | Abu Dhabi, UAE | 2378 |
-| 16 | [avinash-mall](https://github.com/avinash-mall) | Avinash Mall |  |  | Abu Dhabi | 2146 |
-| 17 | [fidellim](https://github.com/fidellim) | Fidel Lim |  |  | Abu Dhabi, UAE | 2094 |
-| 18 | [Gaurav-Gosain](https://github.com/Gaurav-Gosain) | Gaurav Gosain | DMT |  | Abu Dhabi, United Arab Emirates | 2037 |
-| 19 | [FrayxRulez](https://github.com/FrayxRulez) | Fela |  |  | Dubai, United Arab Emirates | 2025 |
-| 20 | [nripankadas07](https://github.com/nripankadas07) | Dr. Nripanka Das | AIQ |  | Abu Dhabi | 1866 |
+| 16 | [eunwoo-levi](https://github.com/eunwoo-levi) | Eunwoo | Talabat, @deliveryhero |  | Dubai, United Arab Emirates | 2344 |
+| 17 | [avinash-mall](https://github.com/avinash-mall) | Avinash Mall |  |  | Abu Dhabi | 2146 |
+| 18 | [fidellim](https://github.com/fidellim) | Fidel Lim |  |  | Abu Dhabi, UAE | 2094 |
+| 19 | [Gaurav-Gosain](https://github.com/Gaurav-Gosain) | Gaurav Gosain | DMT |  | Abu Dhabi, United Arab Emirates | 2037 |
+| 20 | [FrayxRulez](https://github.com/FrayxRulez) | Fela |  |  | Dubai, United Arab Emirates | 2025 |
