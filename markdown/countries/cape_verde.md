@@ -55,8 +55,8 @@ Indexed users: 563
 | 16 | [Brocy](https://github.com/Brocy) | Brocy Centeio | Praia, Cabo Verde | 234 |
 | 17 | [leviferre1ra](https://github.com/leviferre1ra) | Levi Ferreira Cunha | Praia Grande/SP | 227 |
 | 18 | [GabrielJalmeida](https://github.com/GabrielJalmeida) | Gabriel Almeida | Praia Grande | 198 |
-| 19 | [GlhermePereira](https://github.com/GlhermePereira) | Guilherme Pereira | Praia Grande-SP | 186 |
-| 20 | [kjunior-dev](https://github.com/kjunior-dev) | Kevin Developer | Cabo Verde - Praia | 183 |
+| 19 | [kjunior-dev](https://github.com/kjunior-dev) | Kevin Developer | Cabo Verde - Praia | 194 |
+| 20 | [GlhermePereira](https://github.com/GlhermePereira) | Guilherme Pereira | Praia Grande-SP | 186 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 563
 | 19 | [Murzchnvok](https://github.com/Murzchnvok) | Pedro Araujo | Praia de Jatobá, SE - Brasil | 58 |
 | 20 | [FredSoares](https://github.com/FredSoares) | Frederico Soares | Cape Verde | 54 |
 
-Generated: 2026-10-15T08:42:51.121Z
+Generated: 2026-10-15T12:33:37.948Z

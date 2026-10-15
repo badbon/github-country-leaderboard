@@ -15,16 +15,16 @@ Indexed users: 215
 | 1 | [ericrisco](https://github.com/ericrisco) | Eric Risco de la Torre | Andorra | 29,668 |
 | 2 | [heldermanueltv](https://github.com/heldermanueltv) | Helder Manuel Torres Vieira | Andorra la Vella | 12,533 |
 | 3 | [AdrianMastronardi](https://github.com/AdrianMastronardi) | Adrian Mastronardi | Andorra | 9,940 |
-| 4 | [orimarti](https://github.com/orimarti) | Oriol Martí | Andorra | 9,504 |
-| 5 | [castrolem](https://github.com/castrolem) | Luis Castro | Andorra la Vella, Andorra | 8,780 |
+| 4 | [orimarti](https://github.com/orimarti) | Oriol Martí | Andorra | 9,283 |
+| 5 | [castrolem](https://github.com/castrolem) | Luis Castro | Andorra la Vella, Andorra | 8,768 |
 | 6 | [niwinz](https://github.com/niwinz) | Andrey Antukh | Andorra | 8,587 |
-| 7 | [l3wi](https://github.com/l3wi) | Lewis Freiberg | Andorra | 6,300 |
+| 7 | [l3wi](https://github.com/l3wi) | Lewis Freiberg | Andorra | 6,308 |
 | 8 | [acastellana](https://github.com/acastellana) | Albert Castellana | Andorra | 5,781 |
 | 9 | [alexmf91](https://github.com/alexmf91) | Alex Muñoz | Barcelona (Spain) \| Encamp (Andorra) | 5,257 |
 | 10 | [marcalj](https://github.com/marcalj) | Marçal | Andorra | 5,103 |
-| 11 | [tombrewsviews](https://github.com/tombrewsviews) | Tom Parandyk | Andorra | 5,070 |
+| 11 | [tombrewsviews](https://github.com/tombrewsviews) | Tom Parandyk | Andorra | 5,091 |
 | 12 | [jorge07](https://github.com/jorge07) | Jorge Arco | Escaldes, Andorra | 4,937 |
-| 13 | [cuva](https://github.com/cuva) | Hugo Cuvillier | Andorra | 4,215 |
+| 13 | [cuva](https://github.com/cuva) | Hugo Cuvillier | Andorra | 4,230 |
 | 14 | [cmarfil](https://github.com/cmarfil) | Cristian Marfil | Andorra | 4,185 |
 | 15 | [kopenkinda](https://github.com/kopenkinda) | Kopenkin Dmitrii | Andorra | 3,992 |
 | 16 | [sgirones](https://github.com/sgirones) | Salvador Gironès Gil | Andorra | 3,444 |
@@ -83,4 +83,4 @@ Indexed users: 215
 | 19 | [ysb33r](https://github.com/ysb33r) | Schalk W. Cronjé | Andorra | 63 |
 | 20 | [castrolem](https://github.com/castrolem) | Luis Castro | Andorra la Vella, Andorra | 59 |
 
-Generated: 2026-10-15T08:32:44.838Z
+Generated: 2026-10-15T12:23:39.177Z

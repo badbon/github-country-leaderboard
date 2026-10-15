@@ -1,13 +1,13 @@
 # Followers - Venezuela
 
-Generated: 2026-10-15T08:27:35.749Z
+Generated: 2026-10-15T12:19:19.907Z
 
 Users: 6627
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [luisdgd07](https://github.com/luisdgd07) | Luis Gonzalez |  | LuisDGonzalezD1 | Venezuela | 550 |
-| 2 | [jacksonpf1](https://github.com/jacksonpf1) | Jackson Paredes Ferranti |  |  | Venezuela | 405 |
+| 2 | [jacksonpf1](https://github.com/jacksonpf1) | Jackson Paredes Ferranti |  |  | Venezuela | 389 |
 | 3 | [lalan21j](https://github.com/lalan21j) | Luis Mata |  | Mata_Luis_A | Caracas - Venezuela | 388 |
 | 4 | [samuelmarina](https://github.com/samuelmarina) | Samuel Mariña | Qoins | samuellmiller | Venezuela | 341 |
 | 5 | [jestevez](https://github.com/jestevez) | Jose Luis Estevez | @AraguaneyBits |  | Caracas - Venezuela | 315 |

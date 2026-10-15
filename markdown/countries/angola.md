@@ -27,8 +27,8 @@ Indexed users: 2,503
 | 13 | [cnoble](https://github.com/cnoble) | Chris Noble | Angola, IN | 5,388 |
 | 14 | [osvaldowafulua](https://github.com/osvaldowafulua) | Osvaldo Wafulua | Angola | 4,952 |
 | 15 | [noejunior299](https://github.com/noejunior299) | Noé Idagi | Angola/Luanda | 4,947 |
-| 16 | [BaziotaBeans](https://github.com/BaziotaBeans) | Fábio Baziota | Angola/Luanda | 3,799 |
-| 17 | [overlineink](https://github.com/overlineink) | 𝔍𝖔𝖗𝖌𝖊 𝕮𝖔𝖘𝖙𝖆 | Luanda, Angola | 3,700 |
+| 16 | [overlineink](https://github.com/overlineink) | 𝔍𝖔𝖗𝖌𝖊 𝕮𝖔𝖘𝖙𝖆 | Luanda, Angola | 3,700 |
+| 17 | [BaziotaBeans](https://github.com/BaziotaBeans) | Fábio Baziota | Angola/Luanda | 3,546 |
 | 18 | [CesaltinoFelix](https://github.com/CesaltinoFelix) | Cesaltino Félix | Luanda | 3,512 |
 | 19 | [AntonioSebastiaoPedro](https://github.com/AntonioSebastiaoPedro) | António Sebastião Pedro | Morro Bento, Luanda, Angola | 3,489 |
 | 20 | [paulinofonsecas](https://github.com/paulinofonsecas) | Paulino Fonseca | Luanda | 3,486 |
@@ -64,7 +64,7 @@ Indexed users: 2,503
 |---:|---|---|---|---:|
 | 1 | [ismaely](https://github.com/ismaely) | Gunza Ismael | Luanda - Angola | 1,030 |
 | 2 | [MarcioQuimbundo](https://github.com/MarcioQuimbundo) | Márcio Quimbundo | Luanda, Angola | 600 |
-| 3 | [kurogai](https://github.com/kurogai) | Héber Júlio | Luanda / Angola | 465 |
+| 3 | [kurogai](https://github.com/kurogai) | Héber Júlio | Luanda / Angola | 472 |
 | 4 | [EmenegildoMarques0](https://github.com/EmenegildoMarques0) | Emenegildo Marques | Angola, Luanda | 414 |
 | 5 | [JoseCage](https://github.com/JoseCage) | José Cage  | Luanda, Angola | 406 |
 | 6 | [westjoao12](https://github.com/westjoao12) | West João | Angola, Luanda | 338 |
@@ -72,8 +72,8 @@ Indexed users: 2,503
 | 8 | [braulio94](https://github.com/braulio94) | Braulio Cassule | Luanda, Angola | 272 |
 | 9 | [matheusmanuel](https://github.com/matheusmanuel) | Matheus Manuel | Angola/Luanda | 259 |
 | 10 | [gentildpinto](https://github.com/gentildpinto) | Gentil Pinto | Luanda, Angola | 257 |
-| 11 | [manuelcunga](https://github.com/manuelcunga) | Lázaro Manuel Cunga | Angola/Luanda | 223 |
-| 12 | [Creuma-Kuzola](https://github.com/Creuma-Kuzola) | Creuma Kuzola | Luanda, Angola | 208 |
+| 11 | [manuelcunga](https://github.com/manuelcunga) | Lázaro Manuel Cunga | Angola/Luanda | 228 |
+| 12 | [Creuma-Kuzola](https://github.com/Creuma-Kuzola) | Creuma Kuzola | Luanda, Angola | 209 |
 | 13 | [trupakufi](https://github.com/trupakufi) | Mário Varela | Luanda, Angola | 205 |
 | 14 | [tchiinhemba](https://github.com/tchiinhemba) | Eládio Tchiinhemba | Luanda - Angola | 181 |
 | 15 | [EufranioDiogo](https://github.com/EufranioDiogo) | Eufránio Diogo | Angola | 180 |
@@ -83,4 +83,4 @@ Indexed users: 2,503
 | 19 | [nazarepiedady](https://github.com/nazarepiedady) | Nazaré da Piedade | Angola | 164 |
 | 20 | [jofranqueira](https://github.com/jofranqueira) | José Frangueira | Angola | 160 |
 
-Generated: 2026-10-15T08:32:47.716Z
+Generated: 2026-10-15T12:23:42.577Z

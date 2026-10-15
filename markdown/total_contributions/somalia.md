@@ -1,6 +1,6 @@
 # Total Contributions - Somalia
 
-Generated: 2026-10-15T08:16:25.037Z
+Generated: 2026-10-15T12:08:28.143Z
 
 Users: 867
 
@@ -12,7 +12,7 @@ Users: 867
 | 4 | [baaslaawe](https://github.com/baaslaawe) | Abdalla Hassan Awale | @Adwaar Technologies | baaslaawe | somalia | 7113 |
 | 5 | [khalidhussein957](https://github.com/khalidhussein957) | khalid Hussein | Impetik Ltd |  | Mogadishu Somalia | 6799 |
 | 6 | [hayle01](https://github.com/hayle01) |  Mohamed Abdirahim |  |  | Mogadishu, Somalia | 6454 |
-| 7 | [yousumohamed](https://github.com/yousumohamed) | Yousuf Mohamed | @Sahan-Labs  |  | somalia | 6012 |
+| 7 | [yousumohamed](https://github.com/yousumohamed) | Yousuf Mohamed | @Sahan-Labs  |  | somalia | 6065 |
 | 8 | [mhbaando](https://github.com/mhbaando) | kamaal Abshir | NextOne | mhbaando | Mogadishu Somalia | 4971 |
 | 9 | [xamiir](https://github.com/xamiir) | Abdullahi Abdi Ahmed | Bixi |  | Somalia  | 4759 |
 | 10 | [Mustafaa4A](https://github.com/Mustafaa4A) | Mustaf Abubakar Abdullahi | @kaabeup, @waagefaal | Mustafaa4A | Mogadishu, Somalia | 4356 |

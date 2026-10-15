@@ -22,16 +22,16 @@ Indexed users: 3,872
 | 8 | [MUKE-coder](https://github.com/MUKE-coder) | MUKE JOHNBAPTIST | KAMPALA -UGANDA | 9,513 |
 | 9 | [GenoJ83](https://github.com/GenoJ83) | Geno Joshua | Kampala | 9,133 |
 | 10 | [baliddeki](https://github.com/baliddeki) | Aliddeki Mulindwa Bryan | Kampala, Uganda | 9,028 |
-| 11 | [KansiimeKenie](https://github.com/KansiimeKenie) | Kansiime Keneth | kampala, Ug | 7,957 |
-| 12 | [GaspardKirira](https://github.com/GaspardKirira) | G-kirira | Africa / Uganda / Kampala | 7,825 |
-| 13 | [baliksjosay](https://github.com/baliksjosay) | Joseph Balikuddembe | Kampala, uganda | 7,753 |
-| 14 | [BrianPollar](https://github.com/BrianPollar) | Pollar Brian Okello | Kampala, Uganda | 7,556 |
-| 15 | [judeotine](https://github.com/judeotine) | Judeotine | Uganda | 7,440 |
-| 16 | [cosmah](https://github.com/cosmah) | cosmah | kampala, Uganda | 7,177 |
-| 17 | [matovu-farid](https://github.com/matovu-farid) | Farid Matovu | Uganda | 6,805 |
-| 18 | [pius22](https://github.com/pius22) | TECH-WORLDINFO | uganda | 6,709 |
-| 19 | [Bravos-hub](https://github.com/Bravos-hub) | BRAVE OLIMI | Bugema  Kampala-Uganda | 6,657 |
-| 20 | [amkayondo](https://github.com/amkayondo) | Kayondo Edward | Kampala, Uganda | 6,514 |
+| 11 | [Mugamba669](https://github.com/Mugamba669) | Mugamba669 | Kampala, Uganda | 7,995 |
+| 12 | [KansiimeKenie](https://github.com/KansiimeKenie) | Kansiime Keneth | kampala, Ug | 7,957 |
+| 13 | [GaspardKirira](https://github.com/GaspardKirira) | G-kirira | Africa / Uganda / Kampala | 7,825 |
+| 14 | [baliksjosay](https://github.com/baliksjosay) | Joseph Balikuddembe | Kampala, uganda | 7,753 |
+| 15 | [BrianPollar](https://github.com/BrianPollar) | Pollar Brian Okello | Kampala, Uganda | 7,556 |
+| 16 | [judeotine](https://github.com/judeotine) | Judeotine | Uganda | 7,440 |
+| 17 | [cosmah](https://github.com/cosmah) | cosmah | kampala, Uganda | 7,177 |
+| 18 | [matovu-farid](https://github.com/matovu-farid) | Farid Matovu | Uganda | 6,805 |
+| 19 | [pius22](https://github.com/pius22) | TECH-WORLDINFO | uganda | 6,709 |
+| 20 | [Bravos-hub](https://github.com/Bravos-hub) | BRAVE OLIMI | Bugema  Kampala-Uganda | 6,657 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 3,872
 | 19 | [Kitemaggwa-Shafic](https://github.com/Kitemaggwa-Shafic) | Bin Profic | Kampala mengo, Najjanankumbi Ebb rd | 198 |
 | 20 | [kallyas](https://github.com/kallyas) | Iden | Uganda | 190 |
 
-Generated: 2026-10-15T08:23:52.871Z
+Generated: 2026-10-15T12:15:17.716Z

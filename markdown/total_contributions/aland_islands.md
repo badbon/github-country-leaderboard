@@ -1,6 +1,6 @@
 # Total Contributions - Åland Islands
 
-Generated: 2026-10-15T08:31:10.876Z
+Generated: 2026-10-15T12:20:58.401Z
 
 Users: 61
 
@@ -13,7 +13,7 @@ Users: 61
 | 5 | [olegamobile](https://github.com/olegamobile) | Oleg Balandin | Grit:lab |  | Mariehamn | 1753 |
 | 6 | [MarkusYPA](https://github.com/MarkusYPA) | Markus Amberla |  |  | Mariehamn and Helsinki | 1515 |
 | 7 | [linusaarnio](https://github.com/linusaarnio) | Linus Aarnio | Datawrapper |  | Åland, Finland | 1238 |
-| 8 | [taneli-paf](https://github.com/taneli-paf) | Taneli Mäkihannu | @pafcloud |  | Mariehamn, Åland Islands | 1187 |
+| 8 | [taneli-paf](https://github.com/taneli-paf) | Taneli Mäkihannu | @pafcloud |  | Mariehamn, Åland Islands | 1221 |
 | 9 | [SaddamHosyn](https://github.com/SaddamHosyn) | Hussain Saddam |  |  | Mariehamn, Åland | 1024 |
 | 10 | [mareerray](https://github.com/mareerray) | Mayuree Reunsati |  |  | Mariehamn, Åland | 829 |
 | 11 | [fannielf](https://github.com/fannielf) | Fanni Vesanen | @enfuce  |  | Mariehamn | 582 |

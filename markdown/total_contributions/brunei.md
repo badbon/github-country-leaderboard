@@ -1,6 +1,6 @@
 # Total Contributions - Brunei
 
-Generated: 2026-10-15T08:41:07.443Z
+Generated: 2026-10-15T12:33:15.139Z
 
 Users: 254
 
@@ -14,7 +14,7 @@ Users: 254
 | 6 | [abizarleman](https://github.com/abizarleman) | Abizar Leman | Datastream Digital (DST)  |  | Brunei Darussalam | 1054 |
 | 7 | [OmarDST](https://github.com/OmarDST) | Omar Ibrahim | DST |  | Brunei | 1046 |
 | 8 | [hilmishah](https://github.com/hilmishah) | Hilmi Shah |  |  | Brunei | 896 |
-| 9 | [KaramelBytes](https://github.com/KaramelBytes) | Jeremiah Henning |  |  | Brunei Darussalam | 891 |
+| 9 | [KaramelBytes](https://github.com/KaramelBytes) | Jeremiah Henning |  |  | Brunei Darussalam | 851 |
 | 10 | [lmwnshn](https://github.com/lmwnshn) | Wan Shen Lim |  |  | San Francisco, CA \| Brunei | 612 |
 | 11 | [habibah-mahadi](https://github.com/habibah-mahadi) | Habibah Mahadi |  |  | Brunei Darussalam | 602 |
 | 12 | [anwari-fikri](https://github.com/anwari-fikri) | Anwari Fikri |  |  | Brunei Darussalam | 594 |

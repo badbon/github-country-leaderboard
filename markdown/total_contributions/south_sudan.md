@@ -1,6 +1,6 @@
 # Total Contributions - South Sudan
 
-Generated: 2026-10-15T08:18:18.499Z
+Generated: 2026-10-15T12:09:38.770Z
 
 Users: 132
 
@@ -12,12 +12,12 @@ Users: 132
 | 4 | [riek27](https://github.com/riek27) | Riek Gatluak Geka Reat |  |  | Juba, South sudan | 3237 |
 | 5 | [puoch1of1](https://github.com/puoch1of1) | Puoch Mabor Makuei  |  | PuochMabor | South Sudan | 1007 |
 | 6 | [felixuxx](https://github.com/felixuxx) | ... |  |  | Juba, South Sudan | 811 |
-| 7 | [Konson22](https://github.com/Konson22) | Kon Akech | Miles global Link | konsonak | South Sudan | 757 |
+| 7 | [Konson22](https://github.com/Konson22) | Kon Akech | Miles global Link | konsonak | South Sudan | 765 |
 | 8 | [wellawet](https://github.com/wellawet) | Wella Awet | Kudual Systems | wellawet | South Sudan | 625 |
 | 9 | [AchukCodeMaster](https://github.com/AchukCodeMaster) | Johnson Achuk | Pixel Pulse | johnsonachuk | Juba, South Sudan | 611 |
 | 10 | [WANI12](https://github.com/WANI12) | wani geoffrey | @open-southsudan  | GeoffreyWani | Juba, South Sudan | 525 |
-| 11 | [JohnMarit](https://github.com/JohnMarit) | John Marit | Belednai Technology |  | Juba-South Sudan | 516 |
-| 12 | [Agaba-derrick](https://github.com/Agaba-derrick) | Agaba Derrick  | @DIGI-UW  @OPENMRS | djnuior256 | Juba  | 513 |
+| 11 | [Agaba-derrick](https://github.com/Agaba-derrick) | Agaba Derrick  | @DIGI-UW  @OPENMRS | djnuior256 | Juba  | 517 |
+| 12 | [JohnMarit](https://github.com/JohnMarit) | John Marit | Belednai Technology |  | Juba-South Sudan | 516 |
 | 13 | [stephen-morlex](https://github.com/stephen-morlex) | Stephen Victor | Freelancer | stephen_morlex | Juba, South Sudan | 502 |
 | 14 | [SanMajur](https://github.com/SanMajur) | Santino Majur Malong  |  |  | Juba, South Sudan | 344 |
 | 15 | [Dengtiel](https://github.com/Dengtiel) | Deng Mayen Deng Akol | Lajik Tech | Dengtieljr15673 | Juba/Online | 329 |

@@ -19,8 +19,8 @@ Indexed users: 1,339
 | 5 | [thompsonmanda08](https://github.com/thompsonmanda08) | Thompson Manda | Zambia | 8,828 |
 | 6 | [Abdurrahmaan9](https://github.com/Abdurrahmaan9) |  | Lusaka, Zambia  | 7,240 |
 | 7 | [senorMk](https://github.com/senorMk) | Penjani M | Zambia | 6,485 |
-| 8 | [S4INT25](https://github.com/S4INT25) | luckson | lusaka zambia  | 5,229 |
-| 9 | [c00p75](https://github.com/c00p75) | George M'sapenda | Lusaka, Zambia | 4,731 |
+| 8 | [c00p75](https://github.com/c00p75) | George M'sapenda | Lusaka, Zambia | 5,444 |
+| 9 | [S4INT25](https://github.com/S4INT25) | luckson | lusaka zambia  | 5,309 |
 | 10 | [cacious7](https://github.com/cacious7) | Cacious Siamunyanga | Lusaka, Zambia | 4,384 |
 | 11 | [makayi](https://github.com/makayi) | Mbuyu  Makayi | Zambia | 4,253 |
 | 12 | [Acesulfame02](https://github.com/Acesulfame02) | Aaron Masembe | Lusaka, Lusaka, Zambia | 4,175 |
@@ -83,4 +83,4 @@ Indexed users: 1,339
 | 19 | [blessedjasonmwanza](https://github.com/blessedjasonmwanza) | Blessed Jason Mwanza |  Lusaka, Zambia | 104 |
 | 20 | [Eathorne2](https://github.com/Eathorne2) | Eathorne | Lusaka, Zambia | 103 |
 
-Generated: 2026-10-15T08:29:35.425Z
+Generated: 2026-10-15T12:20:39.982Z

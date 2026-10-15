@@ -26,7 +26,7 @@ Indexed users: 2,128
 | 12 | [vascabarkapa](https://github.com/vascabarkapa) | Vasilije Čabarkapa | East Sarajevo, Bosnia and Herzegovina | 5,769 |
 | 13 | [TarikVelic](https://github.com/TarikVelic) | Tarik Velic | Sarajevo | 5,647 |
 | 14 | [robo58](https://github.com/robo58) | Robert Sliskovic | Siroki Brijeg,Bosnia and Herzegovina | 5,452 |
-| 15 | [aprohic](https://github.com/aprohic) |  | Sarajevo | 5,224 |
+| 15 | [aprohic](https://github.com/aprohic) |  | Sarajevo | 5,284 |
 | 16 | [jasminsuljic](https://github.com/jasminsuljic) | Jasmin Suljic | Sarajevo, Bosnia and Herzegovina | 5,056 |
 | 17 | [sake92](https://github.com/sake92) | Sakib Hadžiavdić | Sarajevo, Bosnia | 4,641 |
 | 18 | [ribice](https://github.com/ribice) | Emir Ribić | Sarajevo | 4,359 |
@@ -83,4 +83,4 @@ Indexed users: 2,128
 | 19 | [Mickey0001](https://github.com/Mickey0001) | Mirza Sisic | Sarajevo, Bosnia and Herzegovina  | 122 |
 | 20 | [sake92](https://github.com/sake92) | Sakib Hadžiavdić | Sarajevo, Bosnia | 118 |
 
-Generated: 2026-10-15T08:38:41.310Z
+Generated: 2026-10-15T12:30:47.567Z

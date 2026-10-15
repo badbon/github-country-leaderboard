@@ -1,12 +1,12 @@
 # Total Contributions - Timor-Leste
 
-Generated: 2026-10-15T08:22:01.902Z
+Generated: 2026-10-15T12:13:16.359Z
 
 Users: 77
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [joshbrooks](https://github.com/joshbrooks) | Joshua Brooks | @catalpainternational  |  | Dili, Timor-Leste | 10835 |
+| 1 | [joshbrooks](https://github.com/joshbrooks) | Joshua Brooks | @catalpainternational  |  | Dili, Timor-Leste | 10856 |
 | 2 | [Akokonunes](https://github.com/Akokonunes) | Roberto Nunes |  | 0x_Akoko | Timor-Leste | 2224 |
 | 3 | [Noro18](https://github.com/Noro18) | Ezequiel Vieira Gonzaga Macedo |  |  | Timor Leste  | 1670 |
 | 4 | [marobo](https://github.com/marobo) | Onorio de Jesus Afonso | Catalpa International |  | Dili, East Timor | 1009 |
@@ -21,7 +21,7 @@ Users: 77
 | 13 | [gabriel-de-jesus](https://github.com/gabriel-de-jesus) | Gabriel de Jesus | Timor News |  | Dili, Timor-Leste | 120 |
 | 14 | [Floren-pinto](https://github.com/Floren-pinto) | Florentino Pinto |  |  | Timor-Leste | 110 |
 | 15 | [KituDoutel](https://github.com/KituDoutel) | Francisco KiTu | Freelancer |  | Dili, Timor-Leste 🇹🇱 | 68 |
-| 16 | [timorleste](https://github.com/timorleste) | Degree Background: Information Management (Associate Degree), Information Systems (B.Comp.Sc), Information Technology (M.Eng). Certified Experience in GIS Spatial/Image Analyst, Interested in Photography, Audiovisual Archive and IT-Systems Architect |  | tonybehar | Dili, Timor-Leste | 41 |
+| 16 | [timorleste](https://github.com/timorleste) | Degree Background: Information Management (Associate Degree), Information Systems (B.Comp.Sc), Information Technology (M.Eng). Certified Experience in Spatial intelligence, Interested in Photography, Audiovisual Archive and IT-Systems Architect |  | tonybehar | Dili, Timor-Leste | 41 |
 | 17 | [bmzashura](https://github.com/bmzashura) | Bemis Huntala |  |  | Dili, Timor Leste | 36 |
 | 18 | [axlescurial-lang](https://github.com/axlescurial-lang) | EVENSANTA |  |  | Timor-leste | 34 |
 | 19 | [XICANO88](https://github.com/XICANO88) | XICANO |  |  | Guarda-Iliheu, Timor Lorosa'e | 31 |

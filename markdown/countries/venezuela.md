@@ -63,7 +63,7 @@ Indexed users: 6,627
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [luisdgd07](https://github.com/luisdgd07) | Luis Gonzalez | Venezuela | 550 |
-| 2 | [jacksonpf1](https://github.com/jacksonpf1) | Jackson Paredes Ferranti | Venezuela | 405 |
+| 2 | [jacksonpf1](https://github.com/jacksonpf1) | Jackson Paredes Ferranti | Venezuela | 389 |
 | 3 | [lalan21j](https://github.com/lalan21j) | Luis Mata | Caracas - Venezuela | 388 |
 | 4 | [samuelmarina](https://github.com/samuelmarina) | Samuel Mariña | Venezuela | 341 |
 | 5 | [jestevez](https://github.com/jestevez) | Jose Luis Estevez | Caracas - Venezuela | 315 |
@@ -83,4 +83,4 @@ Indexed users: 6,627
 | 19 | [NTBBloodbath](https://github.com/NTBBloodbath) | Alejandro | Caracas, Venezuela | 179 |
 | 20 | [KellbisJ](https://github.com/KellbisJ) | Kellbis Salazar | Venezuela / Remote | 175 |
 
-Generated: 2026-10-15T08:27:35.749Z
+Generated: 2026-10-15T12:19:19.907Z

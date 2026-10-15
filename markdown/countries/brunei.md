@@ -20,7 +20,7 @@ Indexed users: 254
 | 6 | [abizarleman](https://github.com/abizarleman) | Abizar Leman | Brunei Darussalam | 1,054 |
 | 7 | [OmarDST](https://github.com/OmarDST) | Omar Ibrahim | Brunei | 1,046 |
 | 8 | [hilmishah](https://github.com/hilmishah) | Hilmi Shah | Brunei | 896 |
-| 9 | [KaramelBytes](https://github.com/KaramelBytes) | Jeremiah Henning | Brunei Darussalam | 891 |
+| 9 | [KaramelBytes](https://github.com/KaramelBytes) | Jeremiah Henning | Brunei Darussalam | 851 |
 | 10 | [lmwnshn](https://github.com/lmwnshn) | Wan Shen Lim | San Francisco, CA \| Brunei | 612 |
 | 11 | [habibah-mahadi](https://github.com/habibah-mahadi) | Habibah Mahadi | Brunei Darussalam | 602 |
 | 12 | [anwari-fikri](https://github.com/anwari-fikri) | Anwari Fikri | Brunei Darussalam | 594 |
@@ -72,7 +72,7 @@ Indexed users: 254
 | 8 | [sk8teroy](https://github.com/sk8teroy) |  | Brunei | 27 |
 | 9 | [jailanihar](https://github.com/jailanihar) | Jailani Abdul Rahman | Brunei Darussalam | 25 |
 | 10 | [PenguinMiaou](https://github.com/PenguinMiaou) | PenguinMiaou | Brunei Darussalam | 23 |
-| 11 | [BenitzCoding](https://github.com/BenitzCoding) | BenitzCoding | Brunei | 20 |
+| 11 | [BenitzCoding](https://github.com/BenitzCoding) | BenitzCoding | Brunei | 21 |
 | 12 | [nz-is](https://github.com/nz-is) | Nazrul Ismail | Brunei Darussalam | 20 |
 | 13 | [lordsayur](https://github.com/lordsayur) | Omar | Brunei | 18 |
 | 14 | [acyein](https://github.com/acyein) | Yein | Brunei | 17 |
@@ -83,4 +83,4 @@ Indexed users: 254
 | 19 | [nathanielcwm](https://github.com/nathanielcwm) | Nathaniel | Brunei | 14 |
 | 20 | [affenrahim88](https://github.com/affenrahim88) | Affandy Abdul Rahim | Brunei Darussalam | 13 |
 
-Generated: 2026-10-15T08:41:07.443Z
+Generated: 2026-10-15T12:33:15.139Z

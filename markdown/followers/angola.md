@@ -1,6 +1,6 @@
 # Followers - Angola
 
-Generated: 2026-10-15T08:32:47.716Z
+Generated: 2026-10-15T12:23:42.577Z
 
 Users: 2503
 
@@ -8,7 +8,7 @@ Users: 2503
 |---:|---|---|---|---|---|---:|
 | 1 | [ismaely](https://github.com/ismaely) | Gunza Ismael | SofyNex |  | Luanda - Angola | 1030 |
 | 2 | [MarcioQuimbundo](https://github.com/MarcioQuimbundo) | Márcio Quimbundo | @ombank | marcioquimbundo | Luanda, Angola | 600 |
-| 3 | [kurogai](https://github.com/kurogai) | Héber Júlio |  | kurogai_pwn | Luanda / Angola | 465 |
+| 3 | [kurogai](https://github.com/kurogai) | Héber Júlio |  | kurogai_pwn | Luanda / Angola | 472 |
 | 4 | [EmenegildoMarques0](https://github.com/EmenegildoMarques0) | Emenegildo Marques | Eclipse Solutions |  | Angola, Luanda | 414 |
 | 5 | [JoseCage](https://github.com/JoseCage) | José Cage  |  | cagejose | Luanda, Angola | 406 |
 | 6 | [westjoao12](https://github.com/westjoao12) | West João |  |  | Angola, Luanda | 338 |
@@ -16,10 +16,10 @@ Users: 2503
 | 8 | [braulio94](https://github.com/braulio94) | Braulio Cassule |  | brauliocaassule | Luanda, Angola | 272 |
 | 9 | [matheusmanuel](https://github.com/matheusmanuel) | Matheus Manuel | @clubmedtecnologia  |  | Angola/Luanda | 259 |
 | 10 | [gentildpinto](https://github.com/gentildpinto) | Gentil Pinto |  | gentildpinto | Luanda, Angola | 257 |
-| 11 | [manuelcunga](https://github.com/manuelcunga) | Lázaro Manuel Cunga | Home office |  | Angola/Luanda | 223 |
-| 12 | [Creuma-Kuzola](https://github.com/Creuma-Kuzola) | Creuma Kuzola |  | CKuzola | Luanda, Angola | 208 |
+| 11 | [manuelcunga](https://github.com/manuelcunga) | Lázaro Manuel Cunga | Home office |  | Angola/Luanda | 228 |
+| 12 | [Creuma-Kuzola](https://github.com/Creuma-Kuzola) | Creuma Kuzola |  | CKuzola | Luanda, Angola | 209 |
 | 13 | [trupakufi](https://github.com/trupakufi) | Mário Varela | Digital Boost | MrioVarela4 | Luanda, Angola | 205 |
-| 14 | [tchiinhemba](https://github.com/tchiinhemba) | Eládio Tchiinhemba | BISC8 - CREATIVE AGENCY |  | Luanda - Angola | 181 |
+| 14 | [tchiinhemba](https://github.com/tchiinhemba) | Eládio Tchiinhemba | ASMARA HOLDINGS |  | Luanda - Angola | 181 |
 | 15 | [EufranioDiogo](https://github.com/EufranioDiogo) | Eufránio Diogo | Uija Code |  | Angola | 180 |
 | 16 | [cirilocanganjo](https://github.com/cirilocanganjo) | Cirilo Cussaca Canganjo |  | cirilocussaca | Luanda, Amgola | 170 |
 | 17 | [manuelernesto](https://github.com/manuelernesto) | Manuel Ernesto | Software Engineer | manuelernest0 | Angola | 165 |

@@ -1,6 +1,6 @@
 # Total Contributions - Angola
 
-Generated: 2026-10-15T08:32:47.716Z
+Generated: 2026-10-15T12:23:42.577Z
 
 Users: 2503
 
@@ -21,8 +21,8 @@ Users: 2503
 | 13 | [cnoble](https://github.com/cnoble) | Chris Noble | Business Warrior |  | Angola, IN | 5388 |
 | 14 | [osvaldowafulua](https://github.com/osvaldowafulua) | Osvaldo Wafulua | Smart Cloud |  | Angola | 4952 |
 | 15 | [noejunior299](https://github.com/noejunior299) | Noé Idagi | ITEL - Institute of Telecomunications | noejunior299 | Angola/Luanda | 4947 |
-| 16 | [BaziotaBeans](https://github.com/BaziotaBeans) | Fábio Baziota |  | baziota | Angola/Luanda | 3799 |
-| 17 | [overlineink](https://github.com/overlineink) | 𝔍𝖔𝖗𝖌𝖊 𝕮𝖔𝖘𝖙𝖆 | Principal Frontend Engineer @ Appy People, Co-Founder of @businx | overlineink | Luanda, Angola | 3700 |
+| 16 | [overlineink](https://github.com/overlineink) | 𝔍𝖔𝖗𝖌𝖊 𝕮𝖔𝖘𝖙𝖆 | Principal Frontend Engineer @ Appy People, Co-Founder of @businx | overlineink | Luanda, Angola | 3700 |
+| 17 | [BaziotaBeans](https://github.com/BaziotaBeans) | Fábio Baziota |  | baziota | Angola/Luanda | 3546 |
 | 18 | [CesaltinoFelix](https://github.com/CesaltinoFelix) | Cesaltino Félix | 42 Luanda |  | Luanda | 3512 |
 | 19 | [AntonioSebastiaoPedro](https://github.com/AntonioSebastiaoPedro) | António Sebastião Pedro |  |  | Morro Bento, Luanda, Angola | 3489 |
 | 20 | [paulinofonsecas](https://github.com/paulinofonsecas) | Paulino Fonseca | BITKABIR | fonseca00c | Luanda | 3486 |

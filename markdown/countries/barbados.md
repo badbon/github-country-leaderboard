@@ -18,15 +18,15 @@ Indexed users: 133
 | 4 | [d-alleyne](https://github.com/d-alleyne) | Damien Alleyne | Barbados | 3,212 |
 | 5 | [paulmiu](https://github.com/paulmiu) | Paul Miu | Barbados | 2,860 |
 | 6 | [shaquillehinds](https://github.com/shaquillehinds) | Shaquille Hinds | Barbados | 2,714 |
-| 7 | [alexlilburn](https://github.com/alexlilburn) | Alex Lilburn | Barbados | 1,861 |
+| 7 | [alexlilburn](https://github.com/alexlilburn) | Alex Lilburn | Barbados | 1,863 |
 | 8 | [Taggs](https://github.com/Taggs) | Neil Taggart | (London \|\| Barbados) && Cloud | 1,717 |
 | 9 | [FamineDT246](https://github.com/FamineDT246) | Ceejay C | Barbados | 1,506 |
-| 10 | [ShamarKellman](https://github.com/ShamarKellman) | Shamar Kellman | Barbados | 1,367 |
+| 10 | [ShamarKellman](https://github.com/ShamarKellman) | Shamar Kellman | Barbados | 1,366 |
 | 11 | [alexanderbahlk](https://github.com/alexanderbahlk) | Alexander Bahlk | Barbados | 1,322 |
 | 12 | [dario-j-c](https://github.com/dario-j-c) | Dario J C | Barbados | 1,147 |
 | 13 | [lukehefson](https://github.com/lukehefson) | Luke Hefson | Barbados | 952 |
 | 14 | [ianhambleton](https://github.com/ianhambleton) | Ian Hambleton | Barbados | 676 |
-| 15 | [Thomas-Heniart](https://github.com/Thomas-Heniart) | Thomas Heniart | Barbados | 611 |
+| 15 | [Thomas-Heniart](https://github.com/Thomas-Heniart) | Thomas Heniart | Barbados | 605 |
 | 16 | [starsden](https://github.com/starsden) | den | Barbados | 582 |
 | 17 | [diondree](https://github.com/diondree) | Diondre Edwards | Barbados | 445 |
 | 18 | [paulamelrz](https://github.com/paulamelrz) | Paula Melero | Barbados | 440 |
@@ -83,4 +83,4 @@ Indexed users: 133
 | 19 | [sramharack](https://github.com/sramharack) | Shankar Ramharack | St. Phillips, Barbados, W.I. | 12 |
 | 20 | [paulamelrz](https://github.com/paulamelrz) | Paula Melero | Barbados | 11 |
 
-Generated: 2026-10-15T08:35:31.326Z
+Generated: 2026-10-15T12:27:25.468Z

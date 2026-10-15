@@ -1,6 +1,6 @@
 # Total Contributions - Uganda
 
-Generated: 2026-10-15T08:23:52.871Z
+Generated: 2026-10-15T12:15:17.716Z
 
 Users: 3872
 
@@ -16,13 +16,13 @@ Users: 3872
 | 8 | [MUKE-coder](https://github.com/MUKE-coder) | MUKE JOHNBAPTIST | Deisishub Technologies | MJohnbaptist | KAMPALA -UGANDA | 9513 |
 | 9 | [GenoJ83](https://github.com/GenoJ83) | Geno Joshua |  |  | Kampala | 9133 |
 | 10 | [baliddeki](https://github.com/baliddeki) | Aliddeki Mulindwa Bryan | Klan Logistics Limited |  | Kampala, Uganda | 9028 |
-| 11 | [KansiimeKenie](https://github.com/KansiimeKenie) | Kansiime Keneth |  | kansiime_keneth | kampala, Ug | 7957 |
-| 12 | [GaspardKirira](https://github.com/GaspardKirira) | G-kirira | @vixcpp @softadastra | g_kirira | Africa / Uganda / Kampala | 7825 |
-| 13 | [baliksjosay](https://github.com/baliksjosay) | Joseph Balikuddembe | GDExperts LTD | BaliksJoseph | Kampala, uganda | 7753 |
-| 14 | [BrianPollar](https://github.com/BrianPollar) | Pollar Brian Okello | Eagle Info Solutions |  | Kampala, Uganda | 7556 |
-| 15 | [judeotine](https://github.com/judeotine) | Judeotine |  | Judeotine | Uganda | 7440 |
-| 16 | [cosmah](https://github.com/cosmah) | cosmah | CosMc technologies | cosmah_l | kampala, Uganda | 7177 |
-| 17 | [matovu-farid](https://github.com/matovu-farid) | Farid Matovu | Dabblelab | matovu100 | Uganda | 6805 |
-| 18 | [pius22](https://github.com/pius22) | TECH-WORLDINFO | TECH-WORLDINFO |  | uganda | 6709 |
-| 19 | [Bravos-hub](https://github.com/Bravos-hub) | BRAVE OLIMI | BUGEMA UNIVERSITY |  | Bugema  Kampala-Uganda | 6657 |
-| 20 | [amkayondo](https://github.com/amkayondo) | Kayondo Edward | @opensource-now @open-nux @nuxjs @wearedelovery | kayondoedward | Kampala, Uganda | 6514 |
+| 11 | [Mugamba669](https://github.com/Mugamba669) | Mugamba669 | Kutunzamawazo | BrunoMugamba | Kampala, Uganda | 7995 |
+| 12 | [KansiimeKenie](https://github.com/KansiimeKenie) | Kansiime Keneth |  | kansiime_keneth | kampala, Ug | 7957 |
+| 13 | [GaspardKirira](https://github.com/GaspardKirira) | G-kirira | @vixcpp @softadastra | g_kirira | Africa / Uganda / Kampala | 7825 |
+| 14 | [baliksjosay](https://github.com/baliksjosay) | Joseph Balikuddembe | GDExperts LTD | BaliksJoseph | Kampala, uganda | 7753 |
+| 15 | [BrianPollar](https://github.com/BrianPollar) | Pollar Brian Okello | Eagle Info Solutions |  | Kampala, Uganda | 7556 |
+| 16 | [judeotine](https://github.com/judeotine) | Judeotine |  | Judeotine | Uganda | 7440 |
+| 17 | [cosmah](https://github.com/cosmah) | cosmah | CosMc technologies | cosmah_l | kampala, Uganda | 7177 |
+| 18 | [matovu-farid](https://github.com/matovu-farid) | Farid Matovu | Dabblelab | matovu100 | Uganda | 6805 |
+| 19 | [pius22](https://github.com/pius22) | TECH-WORLDINFO | TECH-WORLDINFO |  | uganda | 6709 |
+| 20 | [Bravos-hub](https://github.com/Bravos-hub) | BRAVE OLIMI | BUGEMA UNIVERSITY |  | Bugema  Kampala-Uganda | 6657 |

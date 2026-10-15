@@ -1,6 +1,6 @@
 # Total Contributions - Andorra
 
-Generated: 2026-10-15T08:32:44.838Z
+Generated: 2026-10-15T12:23:39.177Z
 
 Users: 215
 
@@ -9,16 +9,16 @@ Users: 215
 | 1 | [ericrisco](https://github.com/ericrisco) | Eric Risco de la Torre | Andorra Telecom | erisco_and | Andorra | 29668 |
 | 2 | [heldermanueltv](https://github.com/heldermanueltv) | Helder Manuel Torres Vieira | @innki-tech @humani-studio |  | Andorra la Vella | 12533 |
 | 3 | [AdrianMastronardi](https://github.com/AdrianMastronardi) | Adrian Mastronardi |  | amastronardi | Andorra | 9940 |
-| 4 | [orimarti](https://github.com/orimarti) | Oriol Martí |  |  | Andorra | 9504 |
-| 5 | [castrolem](https://github.com/castrolem) | Luis Castro |  |  | Andorra la Vella, Andorra | 8780 |
+| 4 | [orimarti](https://github.com/orimarti) | Oriol Martí |  |  | Andorra | 9283 |
+| 5 | [castrolem](https://github.com/castrolem) | Luis Castro |  |  | Andorra la Vella, Andorra | 8768 |
 | 6 | [niwinz](https://github.com/niwinz) | Andrey Antukh | @kaleidos & @penpot |  | Andorra | 8587 |
-| 7 | [l3wi](https://github.com/l3wi) | Lewis Freiberg |  | lewifree | Andorra | 6300 |
+| 7 | [l3wi](https://github.com/l3wi) | Lewis Freiberg |  | lewifree | Andorra | 6308 |
 | 8 | [acastellana](https://github.com/acastellana) | Albert Castellana | @yeagerai | kstellana | Andorra | 5781 |
 | 9 | [alexmf91](https://github.com/alexmf91) | Alex Muñoz |  |  | Barcelona (Spain) \| Encamp (Andorra) | 5257 |
 | 10 | [marcalj](https://github.com/marcalj) | Marçal | Lizcore |  | Andorra | 5103 |
-| 11 | [tombrewsviews](https://github.com/tombrewsviews) | Tom Parandyk | Altramanera |  | Andorra | 5070 |
+| 11 | [tombrewsviews](https://github.com/tombrewsviews) | Tom Parandyk | Altramanera |  | Andorra | 5091 |
 | 12 | [jorge07](https://github.com/jorge07) | Jorge Arco | 90P Lab | Jorge__SVQ | Escaldes, Andorra | 4937 |
-| 13 | [cuva](https://github.com/cuva) | Hugo Cuvillier | Raycast |  | Andorra | 4215 |
+| 13 | [cuva](https://github.com/cuva) | Hugo Cuvillier | Raycast |  | Andorra | 4230 |
 | 14 | [cmarfil](https://github.com/cmarfil) | Cristian Marfil |  |  | Andorra | 4185 |
 | 15 | [kopenkinda](https://github.com/kopenkinda) | Kopenkin Dmitrii | @salut-mercado  |  | Andorra | 3992 |
 | 16 | [sgirones](https://github.com/sgirones) | Salvador Gironès Gil |  |  | Andorra | 3444 |

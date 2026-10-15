@@ -1,6 +1,6 @@
 # Total Contributions - Bosnia and Herzegovina
 
-Generated: 2026-10-15T08:38:41.310Z
+Generated: 2026-10-15T12:30:47.567Z
 
 Users: 2128
 
@@ -20,7 +20,7 @@ Users: 2128
 | 12 | [vascabarkapa](https://github.com/vascabarkapa) | Vasilije Čabarkapa |  |  | East Sarajevo, Bosnia and Herzegovina | 5769 |
 | 13 | [TarikVelic](https://github.com/TarikVelic) | Tarik Velic |  |  | Sarajevo | 5647 |
 | 14 | [robo58](https://github.com/robo58) | Robert Sliskovic |  |  | Siroki Brijeg,Bosnia and Herzegovina | 5452 |
-| 15 | [aprohic](https://github.com/aprohic) |  |  |  | Sarajevo | 5224 |
+| 15 | [aprohic](https://github.com/aprohic) |  |  |  | Sarajevo | 5284 |
 | 16 | [jasminsuljic](https://github.com/jasminsuljic) | Jasmin Suljic | @MonriPayments  |  | Sarajevo, Bosnia and Herzegovina | 5056 |
 | 17 | [sake92](https://github.com/sake92) | Sakib Hadžiavdić | @sacode387  |  | Sarajevo, Bosnia | 4641 |
 | 18 | [ribice](https://github.com/ribice) | Emir Ribić | @caseconnect-ai |  | Sarajevo | 4359 |

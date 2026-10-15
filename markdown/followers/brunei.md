@@ -1,6 +1,6 @@
 # Followers - Brunei
 
-Generated: 2026-10-15T08:41:07.443Z
+Generated: 2026-10-15T12:33:15.139Z
 
 Users: 254
 
@@ -16,7 +16,7 @@ Users: 254
 | 8 | [sk8teroy](https://github.com/sk8teroy) |  |  |  | Brunei | 27 |
 | 9 | [jailanihar](https://github.com/jailanihar) | Jailani Abdul Rahman |  |  | Brunei Darussalam | 25 |
 | 10 | [PenguinMiaou](https://github.com/PenguinMiaou) | PenguinMiaou |  |  | Brunei Darussalam | 23 |
-| 11 | [BenitzCoding](https://github.com/BenitzCoding) | BenitzCoding | @Senarc-Studios | BenitzCoding | Brunei | 20 |
+| 11 | [BenitzCoding](https://github.com/BenitzCoding) | BenitzCoding | @Senarc-Studios | BenitzCoding | Brunei | 21 |
 | 12 | [nz-is](https://github.com/nz-is) | Nazrul Ismail | Universiti Brunei Darussalam |  | Brunei Darussalam | 20 |
 | 13 | [lordsayur](https://github.com/lordsayur) | Omar | Datastream Digital |  | Brunei | 18 |
 | 14 | [acyein](https://github.com/acyein) | Yein |  |  | Brunei | 17 |

@@ -26,12 +26,12 @@ Indexed users: 2,041
 | 12 | [TheCollinsByte](https://github.com/TheCollinsByte) | Collins | Arusha, Tanzania | 10,759 |
 | 13 | [mwakatumbula](https://github.com/mwakatumbula) | Francis Mwakatumbula | Dar es salaam,Tanzania | 9,814 |
 | 14 | [fredygerman](https://github.com/fredygerman) | Fredy Mgimba | Tanzania | 9,059 |
-| 15 | [islandkid-20](https://github.com/islandkid-20) | James Mashaka | Dar Es Salaam,Tanzania | 8,739 |
-| 16 | [troubleman96](https://github.com/troubleman96) | Lugenge Emmanuel | Dar es Salaam ,Tanzania | 8,023 |
-| 17 | [elishagerson](https://github.com/elishagerson) | Elisha Gerson | Mbeya, Tanzania | 7,797 |
-| 18 | [Bulalu](https://github.com/Bulalu) |  | Dar-es-Salaam,Tanzania | 7,623 |
-| 19 | [victorjudysen](https://github.com/victorjudysen) | Victor Kweka | Dodoma, Tanzania | 7,534 |
-| 20 | [josedaudi](https://github.com/josedaudi) | Joseph Daudi | Tanzania | 7,416 |
+| 15 | [fmwasekaga](https://github.com/fmwasekaga) | Fredrick Lusako Mwasekaga | Tanzania | 8,875 |
+| 16 | [islandkid-20](https://github.com/islandkid-20) | James Mashaka | Dar Es Salaam,Tanzania | 8,739 |
+| 17 | [troubleman96](https://github.com/troubleman96) | Lugenge Emmanuel | Dar es Salaam ,Tanzania | 8,023 |
+| 18 | [elishagerson](https://github.com/elishagerson) | Elisha Gerson | Mbeya, Tanzania | 7,797 |
+| 19 | [Bulalu](https://github.com/Bulalu) |  | Dar-es-Salaam,Tanzania | 7,623 |
+| 20 | [victorjudysen](https://github.com/victorjudysen) | Victor Kweka | Dodoma, Tanzania | 7,534 |
 
 ## Public Contributions
 
@@ -40,7 +40,7 @@ Indexed users: 2,041
 | 1 | [nyandajr](https://github.com/nyandajr) | Nyanda Freddy | Tanzania | 53,229 |
 | 2 | [cleven12](https://github.com/cleven12) | cleven | Tanzania | 11,609 |
 | 3 | [raydanielg](https://github.com/raydanielg) | Ezra Daniel Gyunda | Tanzania | 11,083 |
-| 4 | [fmwasekaga](https://github.com/fmwasekaga) | Fredrick Lusako Mwasekaga | Tanzania | 6,132 |
+| 4 | [fmwasekaga](https://github.com/fmwasekaga) | Fredrick Lusako Mwasekaga | Tanzania | 8,875 |
 | 5 | [alobit21](https://github.com/alobit21) | Aloyce Mtavangu | Dodoma-Tanzania | 6,003 |
 | 6 | [Lazackdevs](https://github.com/Lazackdevs) | Lazack_28 | dodoma | 4,314 |
 | 7 | [Barakael](https://github.com/Barakael) | barakael | Dar-es-salaam, Tanzania | 3,011 |
@@ -83,4 +83,4 @@ Indexed users: 2,041
 | 19 | [3nock](https://github.com/3nock) | Enock | Dar es Salaam, Tanzania | 188 |
 | 20 | [Mrhanstz](https://github.com/Mrhanstz) | HANSTZ | Africa Dodoma | 179 |
 
-Generated: 2026-10-15T08:21:18.198Z
+Generated: 2026-10-15T12:12:36.023Z

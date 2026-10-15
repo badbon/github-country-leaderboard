@@ -1,6 +1,6 @@
 # Total Contributions - Tanzania
 
-Generated: 2026-10-15T08:21:18.198Z
+Generated: 2026-10-15T12:12:36.023Z
 
 Users: 2041
 
@@ -20,9 +20,9 @@ Users: 2041
 | 12 | [TheCollinsByte](https://github.com/TheCollinsByte) | Collins | @KwaWingu | TheCollinsByte | Arusha, Tanzania | 10759 |
 | 13 | [mwakatumbula](https://github.com/mwakatumbula) | Francis Mwakatumbula | Lockwood Technology  | mwakatumbula_ | Dar es salaam,Tanzania | 9814 |
 | 14 | [fredygerman](https://github.com/fredygerman) | Fredy Mgimba | Credable | fredygerman_ | Tanzania | 9059 |
-| 15 | [islandkid-20](https://github.com/islandkid-20) | James Mashaka | @appziro  |  | Dar Es Salaam,Tanzania | 8739 |
-| 16 | [troubleman96](https://github.com/troubleman96) | Lugenge Emmanuel | Camel Creatives |  | Dar es Salaam ,Tanzania | 8023 |
-| 17 | [elishagerson](https://github.com/elishagerson) | Elisha Gerson |  |  | Mbeya, Tanzania | 7797 |
-| 18 | [Bulalu](https://github.com/Bulalu) |  |  | elisha_bulalu | Dar-es-Salaam,Tanzania | 7623 |
-| 19 | [victorjudysen](https://github.com/victorjudysen) | Victor Kweka | ThisUncle Technologies |  | Dodoma, Tanzania | 7534 |
-| 20 | [josedaudi](https://github.com/josedaudi) | Joseph Daudi | @enciphertz @pawsofttz  |  | Tanzania | 7416 |
+| 15 | [fmwasekaga](https://github.com/fmwasekaga) | Fredrick Lusako Mwasekaga | kagaconnect |  | Tanzania | 8875 |
+| 16 | [islandkid-20](https://github.com/islandkid-20) | James Mashaka | @appziro  |  | Dar Es Salaam,Tanzania | 8739 |
+| 17 | [troubleman96](https://github.com/troubleman96) | Lugenge Emmanuel | Camel Creatives |  | Dar es Salaam ,Tanzania | 8023 |
+| 18 | [elishagerson](https://github.com/elishagerson) | Elisha Gerson |  |  | Mbeya, Tanzania | 7797 |
+| 19 | [Bulalu](https://github.com/Bulalu) |  |  | elisha_bulalu | Dar-es-Salaam,Tanzania | 7623 |
+| 20 | [victorjudysen](https://github.com/victorjudysen) | Victor Kweka | ThisUncle Technologies |  | Dodoma, Tanzania | 7534 |

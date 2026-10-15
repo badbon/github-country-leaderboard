@@ -1,19 +1,19 @@
 # Public Contributions - Somalia
 
-Generated: 2026-10-15T08:16:25.037Z
+Generated: 2026-10-15T12:08:28.143Z
 
 Users: 867
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [yousumohamed](https://github.com/yousumohamed) | Yousuf Mohamed | @Sahan-Labs  |  | somalia | 5068 |
+| 1 | [yousumohamed](https://github.com/yousumohamed) | Yousuf Mohamed | @Sahan-Labs  |  | somalia | 5115 |
 | 2 | [mrabukar](https://github.com/mrabukar) | Mr Abukar | @Loranet-Technologies  |  | Mogadisho, Somalia | 3819 |
 | 3 | [abdulsalamhassan](https://github.com/abdulsalamhassan) | Abdulsalam H. Shiikhow | SIMAD University |  | Somalia, Mogadishu | 1558 |
 | 4 | [TheAnfac](https://github.com/TheAnfac) | Anfac Abdullahi |  |  | Somalia-Mogadishu | 1070 |
 | 5 | [hanadderia](https://github.com/hanadderia) | Abdulshakur Ahmed | SOMALI PAYMENT SWITCH (SPS) |  | Mogadishu, Somalia | 970 |
 | 6 | [sadaqhassan](https://github.com/sadaqhassan) | Sadak Hassan Ahmed |  |  | mogadishu-somalia | 930 |
 | 7 | [mohameddahir57](https://github.com/mohameddahir57) | Mohamed Dahir Osman |  |  | Somalia,Mogadishu | 922 |
-| 8 | [Maxamed459](https://github.com/Maxamed459) | Maxamed Mahdi |  |  | Somalia | 868 |
+| 8 | [Maxamed459](https://github.com/Maxamed459) | Maxamed Mahdi |  |  | Somalia | 844 |
 | 9 | [EsraAbdirashid](https://github.com/EsraAbdirashid) | EsraAbdirashid |  |  | mogadishu,somalia | 770 |
 | 10 | [omartood](https://github.com/omartood) | Omar Tood | Instructor & Researcher At @goobolabs | omartoodAIR | Somalia | 769 |
 | 11 | [Joseph-Abdullaah](https://github.com/Joseph-Abdullaah) | Joseph Abdullaahi |  | JosephAbdullaah | somalia | 759 |

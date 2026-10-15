@@ -66,8 +66,8 @@ Indexed users: 1,276
 | 2 | [jr20xx](https://github.com/jr20xx) | José Ricardo | Cuba | 381 |
 | 3 | [GamerHack](https://github.com/GamerHack) |  | Cuba | 206 |
 | 4 | [herbertDev12](https://github.com/herbertDev12) | Herbert L. Navarro | La Habana, Cuba | 144 |
-| 5 | [rodnye](https://github.com/rodnye) | Rodny Estrada | La Habana, Cuba | 134 |
-| 6 | [PushoDev](https://github.com/PushoDev) | Luis A. Guisado | Ciudad de Manzanillo, Cuba | 133 |
+| 5 | [PushoDev](https://github.com/PushoDev) | Luis A. Guisado | Ciudad de Manzanillo, Cuba | 133 |
+| 6 | [rodnye](https://github.com/rodnye) | Rodny Estrada | La Habana, Cuba | 133 |
 | 7 | [aurielfournier](https://github.com/aurielfournier) | Auriel M.V. Fournier | Havana, IL  | 127 |
 | 8 | [Eilen-Fonseca-Garrote](https://github.com/Eilen-Fonseca-Garrote) | Eilen Fonseca Garrote  | La Habana, Cuba | 127 |
 | 9 | [yudivian](https://github.com/yudivian) | Yudivián Almeida Cruz | La Habana, Cuba | 115 |
@@ -83,4 +83,4 @@ Indexed users: 1,276
 | 19 | [leoGlez01](https://github.com/leoGlez01) | Leandro González  | La Habana, Cuba | 70 |
 | 20 | [EduardoProfe666](https://github.com/EduardoProfe666) | Eduardo Alejandro González Martell | La Habana, Cuba | 69 |
 
-Generated: 2026-10-15T08:46:38.216Z
+Generated: 2026-10-15T12:38:04.230Z

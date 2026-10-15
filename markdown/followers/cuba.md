@@ -1,6 +1,6 @@
 # Followers - Cuba
 
-Generated: 2026-10-15T08:46:38.216Z
+Generated: 2026-10-15T12:38:04.230Z
 
 Users: 1276
 
@@ -10,8 +10,8 @@ Users: 1276
 | 2 | [jr20xx](https://github.com/jr20xx) | José Ricardo |  |  | Cuba | 381 |
 | 3 | [GamerHack](https://github.com/GamerHack) |  |  | GamerHack93 | Cuba | 206 |
 | 4 | [herbertDev12](https://github.com/herbertDev12) | Herbert L. Navarro |  |  | La Habana, Cuba | 144 |
-| 5 | [rodnye](https://github.com/rodnye) | Rodny Estrada | @cujaeredsocial | rodnyecode | La Habana, Cuba | 134 |
-| 6 | [PushoDev](https://github.com/PushoDev) | Luis A. Guisado | @Microsoft | LuisGuisado1990 | Ciudad de Manzanillo, Cuba | 133 |
+| 5 | [PushoDev](https://github.com/PushoDev) | Luis A. Guisado | @Microsoft | LuisGuisado1990 | Ciudad de Manzanillo, Cuba | 133 |
+| 6 | [rodnye](https://github.com/rodnye) | Rodny Estrada | @cujaeredsocial | rodnyecode | La Habana, Cuba | 133 |
 | 7 | [aurielfournier](https://github.com/aurielfournier) | Auriel M.V. Fournier | Illinois Natural History Survey |  | Havana, IL  | 127 |
 | 8 | [Eilen-Fonseca-Garrote](https://github.com/Eilen-Fonseca-Garrote) | Eilen Fonseca Garrote  | CUJAE  |  | La Habana, Cuba | 127 |
 | 9 | [yudivian](https://github.com/yudivian) | Yudivián Almeida Cruz | Universidad de La Habana |  | La Habana, Cuba | 115 |

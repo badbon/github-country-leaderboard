@@ -1,8 +1,8 @@
 # Total Contributions - Uruguay
 
-Generated: 2026-10-15T08:25:50.343Z
+Generated: 2026-10-15T12:17:11.516Z
 
-Users: 5619
+Users: 5618
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

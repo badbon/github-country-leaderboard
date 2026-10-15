@@ -1,6 +1,6 @@
 # Total Contributions - Bahamas
 
-Generated: 2026-10-15T08:35:20.057Z
+Generated: 2026-10-15T12:26:32.607Z
 
 Users: 236
 
@@ -9,7 +9,7 @@ Users: 236
 | 1 | [carlswann](https://github.com/carlswann) | Carl Swann | @lightspeed |  | Freeport, Bahamas | 23007 |
 | 2 | [zoejessica](https://github.com/zoejessica) | Zoë Smith | @Basecamp | zoejessica | Bahamas / Canada | 3306 |
 | 3 | [dbraganca](https://github.com/dbraganca) | dbraganca |  |  | Bahamas | 3289 |
-| 4 | [bondjacobbond](https://github.com/bondjacobbond) | Jacob Bond | Bond Sports |  | Casino Royale, Nassau, Bahamas | 3075 |
+| 4 | [bondjacobbond](https://github.com/bondjacobbond) | Jacob Bond | Bond Sports |  | Casino Royale, Nassau, Bahamas | 3072 |
 | 5 | [ryaustin](https://github.com/ryaustin) | Ryan |  | ry_austin | Bahamas | 2514 |
 | 6 | [yannyhl](https://github.com/yannyhl) | yg | Melo Inc |  | nassau | 2039 |
 | 7 | [janajmccardy](https://github.com/janajmccardy) | Jana JM | Agio Digital Ltd. |  | Nassau, The Bahamas | 1811 |
@@ -25,4 +25,4 @@ Users: 236
 | 17 | [mikepadiernos](https://github.com/mikepadiernos) | Mike Padiernos | TCS, GE Aerospace |  | Nassau County, NY | 572 |
 | 18 | [nhayling](https://github.com/nhayling) | Noah Hayling | @archipelagoapps | nhayling_ | Nassau, The Bahamas | 550 |
 | 19 | [avolel](https://github.com/avolel) | Andre Volel |  |  | Nassau County, NY | 328 |
-| 20 | [FLIPPING-PROFITS](https://github.com/FLIPPING-PROFITS) | FLIPPING PROFITS |  |  | Bahamas | 242 |
+| 20 | [FLIPPING-PROFITS](https://github.com/FLIPPING-PROFITS) | FLIPPING PROFITS |  |  | Bahamas | 232 |
