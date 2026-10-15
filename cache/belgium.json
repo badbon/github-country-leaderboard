@@ -23348,7 +23348,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 39,
+    "publicContributions": 35,
     "createdAt": "2022-01-06T06:09:29Z"
   },
   {
@@ -23360,7 +23360,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 50,
-    "publicContributions": 26,
+    "publicContributions": 2,
     "createdAt": "2022-01-11T14:20:02Z"
   },
   {
@@ -23383,8 +23383,8 @@
     "company": "ULiège & HEC Liège",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 23,
-    "publicContributions": 32,
+    "privateContributions": 38,
+    "publicContributions": 205,
     "createdAt": "2022-08-16T14:15:20Z"
   },
   {
@@ -23454,9 +23454,9 @@
     "location": "Belgium",
     "company": "Odoo",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 31,
-    "publicContributions": 136,
+    "followers": 4,
+    "privateContributions": 57,
+    "publicContributions": 149,
     "createdAt": "2022-11-23T08:33:32Z"
   },
   {
@@ -23472,18 +23472,6 @@
     "createdAt": "2022-06-19T11:12:17Z"
   },
   {
-    "login": "lxruig",
-    "name": "Rui Guo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/116029268?s=72&v=4",
-    "location": "Leuven, Belgium",
-    "company": "KU Leuven",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2022-10-17T18:35:33Z"
-  },
-  {
     "login": "trevis-dev",
     "name": "Florian",
     "avatarUrl": "https://avatars.githubusercontent.com/u/98014814?s=72&u=db0f734f16f065ffbea6d14ebf6c28152708b35b&v=4",
@@ -23492,19 +23480,19 @@
     "twitterUsername": "trevis_dev",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2022-01-19T08:07:40Z"
   },
   {
     "login": "sergiuNE",
-    "name": "Neagu Sergiu Vasile",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/114187875?s=72&u=ec8001149221e7d6cdb0b505260c5322e9e805c1&v=4",
-    "location": "Belgium",
+    "name": "Sergiu Neagu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/114187875?s=72&u=c73c386353ef1d791e95b80b1f1e4d534608b3fb&v=4",
+    "location": "Antwerp, Belgium",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 106,
-    "publicContributions": 156,
+    "followers": 6,
+    "privateContributions": 98,
+    "publicContributions": 192,
     "createdAt": "2022-09-22T19:52:19Z"
   },
   {

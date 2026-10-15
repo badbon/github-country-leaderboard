@@ -23527,8 +23527,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 635,
-    "publicContributions": 403,
+    "privateContributions": 672,
+    "publicContributions": 671,
     "createdAt": "2022-03-18T12:57:17Z"
   },
   {
@@ -23539,8 +23539,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 1346,
-    "publicContributions": 0,
+    "privateContributions": 1374,
+    "publicContributions": 3,
     "createdAt": "2022-05-11T11:51:32Z"
   },
   {
@@ -23550,9 +23550,9 @@
     "location": "Sofia, Bulgaria",
     "company": "Innovasys Ltd",
     "twitterUsername": "ninovalex11",
-    "followers": 7,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 27,
     "createdAt": "2022-05-17T15:54:21Z"
   },
   {
@@ -23571,12 +23571,12 @@
     "login": "stilyana-petrova",
     "name": "Stilyana Petrova",
     "avatarUrl": "https://avatars.githubusercontent.com/u/99167111?s=72&u=8ac6a5a29bf8c26cd4600aaea1cff17007ead8db&v=4",
-    "location": "Plovdiv, Bulgaria",
+    "location": "Pernik, Bulgaria",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 164,
-    "publicContributions": 13,
+    "followers": 8,
+    "privateContributions": 115,
+    "publicContributions": 36,
     "createdAt": "2022-02-07T07:10:26Z"
   },
   {
@@ -23586,7 +23586,7 @@
     "location": "Sofia, Bulgaria",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 9,
     "createdAt": "2022-05-29T13:41:53Z"
@@ -23602,18 +23602,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-02-12T11:30:07Z"
-  },
-  {
-    "login": "yumitdemir",
-    "name": "Umit Demir",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/108368506?s=72&u=2b289dcee7f5503984feb4c8c34ea38573e76fee&v=4",
-    "location": "Varna, Bulgaria",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 0,
-    "publicContributions": 2,
-    "createdAt": "2022-06-28T20:08:54Z"
   },
   {
     "login": "Gattsu1337",
@@ -23636,7 +23624,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 2,
     "createdAt": "2022-01-13T17:22:17Z"
   },
   {
@@ -23660,7 +23648,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 3,
     "createdAt": "2022-03-14T18:40:36Z"
   },
   {
@@ -23684,7 +23672,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 17,
     "createdAt": "2022-04-04T09:50:37Z"
   },
   {
@@ -23695,20 +23683,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 0,
+    "privateContributions": 1,
     "publicContributions": 24,
     "createdAt": "2022-06-02T12:56:59Z"
   },
   {
     "login": "KKGaydov21",
     "name": "Kristian Gaidov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/107103907?s=72&u=71f280ee1e807cf2deb8c26ead9a6305666df026&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/107103907?s=72&u=92fcbedad78ac4a821b18ba1a960dce0dba9bfb5&v=4",
     "location": "Burgas, Bulgaria",
-    "company": "@codingburgas ",
+    "company": "",
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 0,
     "createdAt": "2022-06-08T07:42:25Z"
   },
   {

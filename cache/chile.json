@@ -23382,7 +23382,7 @@
     "location": "Chile",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 56,
     "createdAt": "2024-09-15T21:41:43Z"
@@ -23418,7 +23418,7 @@
     "location": "Santiago, Chile",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 71,
     "createdAt": "2024-10-23T15:06:00Z"
@@ -23426,25 +23426,25 @@
   {
     "login": "benjamin-ortizc",
     "name": "Benjamín Ortiz",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/189030103?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/189030103?s=72&u=612195efa5e2e4f0c068c71c2bad52f3dbabf4b2&v=4",
     "location": "Chile",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 1510,
-    "publicContributions": 53,
+    "followers": 2,
+    "privateContributions": 2076,
+    "publicContributions": 55,
     "createdAt": "2024-11-19T17:12:31Z"
   },
   {
     "login": "lufecito",
     "name": "Luis Fontecilla",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/184459235?s=72&u=d2ffbeadd692c8f5989d6daa6caa6d310bc2d378&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/184459235?s=72&u=9a1bd50795aac8f6ad13e1ca582b2a0f984896a6&v=4",
     "location": "Santiago, Chile",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 26,
+    "privateContributions": 93,
+    "publicContributions": 29,
     "createdAt": "2024-10-10T01:38:14Z"
   },
   {
@@ -23467,7 +23467,7 @@
     "company": "@youtouchcl",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 34,
+    "privateContributions": 43,
     "publicContributions": 0,
     "createdAt": "2024-12-12T12:36:56Z"
   },
@@ -23508,18 +23508,6 @@
     "createdAt": "2024-11-16T23:13:56Z"
   },
   {
-    "login": "danielsaavedrafs",
-    "name": "Daniel Saavedra",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/179357806?s=72&u=208d36efa1a516a3461f7b692acd28bd5c0ebfde&v=4",
-    "location": "Santiago, Chile",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 8,
-    "createdAt": "2024-08-25T01:23:01Z"
-  },
-  {
     "login": "josigna",
     "name": "jose urzua",
     "avatarUrl": "https://avatars.githubusercontent.com/u/182683896?s=72&v=4",
@@ -23539,8 +23527,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 6,
-    "publicContributions": 47,
+    "privateContributions": 27,
+    "publicContributions": 36,
     "createdAt": "2024-10-04T03:58:50Z"
   },
   {

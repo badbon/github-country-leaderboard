@@ -22975,8 +22975,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 35,
-    "publicContributions": 235,
+    "privateContributions": 33,
+    "publicContributions": 289,
     "createdAt": "2023-08-02T22:08:27Z"
   },
   {
@@ -23010,9 +23010,9 @@
     "location": "Schweiz",
     "company": "Hochschule für Technik",
     "twitterUsername": "",
-    "followers": 20,
-    "privateContributions": 433,
-    "publicContributions": 20,
+    "followers": 22,
+    "privateContributions": 321,
+    "publicContributions": 18,
     "createdAt": "2022-02-01T15:41:22Z"
   },
   {
@@ -23034,9 +23034,9 @@
     "location": "Schweiz",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 246,
-    "publicContributions": 8,
+    "followers": 12,
+    "privateContributions": 269,
+    "publicContributions": 12,
     "createdAt": "2022-10-08T15:37:25Z"
   },
   {
@@ -23046,9 +23046,9 @@
     "location": "Luzern, Schweiz",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 0,
-    "publicContributions": 124,
+    "followers": 10,
+    "privateContributions": 214,
+    "publicContributions": 0,
     "createdAt": "2022-05-25T11:42:58Z"
   },
   {
@@ -23060,7 +23060,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 32,
+    "publicContributions": 7,
     "createdAt": "2022-08-11T07:55:47Z"
   },
   {
@@ -23095,7 +23095,7 @@
     "company": "Derungs 01 IT-Dienstleistungen",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 819,
+    "privateContributions": 1084,
     "publicContributions": 0,
     "createdAt": "2022-06-10T11:33:58Z"
   },
@@ -23131,8 +23131,8 @@
     "company": "Everllence Switzerland Ltd.",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 169,
-    "publicContributions": 66,
+    "privateContributions": 158,
+    "publicContributions": 9,
     "createdAt": "2022-11-23T08:46:11Z"
   },
   {
@@ -23148,27 +23148,15 @@
     "createdAt": "2022-08-11T07:26:18Z"
   },
   {
-    "login": "cali72mero",
-    "name": "cali72mero",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/108537226?s=72&u=dd704a0d763ae832e3289830ecf6d732d9d7af1b&v=4",
-    "location": "schweiz",
-    "company": "nexia-ai.de",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 357,
-    "createdAt": "2022-07-01T14:52:16Z"
-  },
-  {
     "login": "MarioB06",
     "name": "",
     "avatarUrl": "https://avatars.githubusercontent.com/u/113503219?s=72&v=4",
     "location": "Schweiz, Wallis",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 155,
+    "publicContributions": 113,
     "createdAt": "2022-09-14T07:10:26Z"
   },
   {
@@ -23178,7 +23166,7 @@
     "location": "Schweiz",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-11-12T02:21:55Z"
