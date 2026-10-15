@@ -22628,7 +22628,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 2,
     "createdAt": "2021-09-13T04:04:39Z"
   },
   {
@@ -22652,7 +22652,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 2,
     "createdAt": "2021-05-29T14:23:36Z"
   },
   {
@@ -22711,8 +22711,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 93,
-    "publicContributions": 3,
+    "privateContributions": 143,
+    "publicContributions": 0,
     "createdAt": "2021-08-02T20:24:39Z"
   },
   {
@@ -22760,7 +22760,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2021-03-24T23:48:42Z"
   },
   {
@@ -22783,7 +22783,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 271,
+    "privateContributions": 283,
     "publicContributions": 0,
     "createdAt": "2021-04-09T14:16:24Z"
   },
@@ -22806,7 +22806,7 @@
     "location": "Uruguay",
     "company": "Looking !",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-03-21T17:15:36Z"
@@ -22824,18 +22824,6 @@
     "createdAt": "2021-03-30T19:17:23Z"
   },
   {
-    "login": "fcastro97",
-    "name": "Fer",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/83041190?s=72&v=4",
-    "location": "Uruguay",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2021-04-22T21:46:13Z"
-  },
-  {
     "login": "MartinOlazabal",
     "name": "Martin Olazabal",
     "avatarUrl": "https://avatars.githubusercontent.com/u/82739637?s=72&u=30df2064d0625fb6ffa23a28e5d6597eed87c1b9&v=4",
@@ -22844,7 +22832,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 31,
+    "publicContributions": 21,
     "createdAt": "2021-04-18T01:34:15Z"
   },
   {

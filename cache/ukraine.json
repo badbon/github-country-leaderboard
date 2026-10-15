@@ -22232,7 +22232,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 7,
     "createdAt": "2024-10-03T13:17:21Z"
   },
   {
@@ -22256,7 +22256,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 136,
+    "publicContributions": 124,
     "createdAt": "2024-11-17T19:09:02Z"
   },
   {
@@ -22304,7 +22304,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 174,
+    "publicContributions": 90,
     "createdAt": "2024-08-27T16:50:37Z"
   },
   {
@@ -22328,7 +22328,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 259,
+    "publicContributions": 237,
     "createdAt": "2024-10-07T13:40:01Z"
   },
   {
@@ -22346,13 +22346,13 @@
   {
     "login": "Forestel",
     "name": "Roman Kovalskiy",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/185600330?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/185600330?s=72&u=8805cfd082a017a866fa83a87e749716cc8630f1&v=4",
     "location": "Zolochiv, Ukraine",
     "company": "WEST UKRAINIAN NATIONAL UNIVERSITY",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 0,
     "createdAt": "2024-10-19T10:40:17Z"
   },
   {
@@ -22388,7 +22388,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 78,
+    "publicContributions": 0,
     "createdAt": "2024-11-25T15:20:45Z"
   },
   {
@@ -22399,7 +22399,7 @@
     "company": "EPAM Systems (@epam)",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 270,
+    "privateContributions": 295,
     "publicContributions": 5,
     "createdAt": "2024-08-13T18:55:23Z"
   },
@@ -22411,8 +22411,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 53,
-    "publicContributions": 76,
+    "privateContributions": 27,
+    "publicContributions": 116,
     "createdAt": "2024-10-29T17:10:35Z"
   },
   {
@@ -22424,7 +22424,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 172,
+    "publicContributions": 51,
     "createdAt": "2024-08-20T17:37:25Z"
   },
   {
@@ -22434,22 +22434,10 @@
     "location": "Ukraine",
     "company": "Wedmid",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 6,
     "createdAt": "2024-07-02T13:26:24Z"
-  },
-  {
-    "login": "Konnzy",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/179491472?s=72&u=1e488e1a292f09809ab9040b2428f5a237d7ab4c&v=4",
-    "location": "Kyiv, Ukraine",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 84,
-    "publicContributions": 37,
-    "createdAt": "2024-08-26T13:20:09Z"
   },
   {
     "login": "Helper125",
@@ -22458,9 +22446,9 @@
     "location": "Ukraine, Sumy",
     "company": "None",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 147,
+    "publicContributions": 124,
     "createdAt": "2024-07-27T08:05:52Z"
   },
   {

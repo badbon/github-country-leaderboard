@@ -22747,7 +22747,7 @@
     "company": "@Depra-Inc",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 1007,
+    "privateContributions": 965,
     "publicContributions": 80,
     "createdAt": "2019-02-11T14:06:58Z"
   },
@@ -22772,7 +22772,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 49,
+    "publicContributions": 58,
     "createdAt": "2019-02-20T20:10:47Z"
   },
   {
@@ -22784,7 +22784,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 85,
+    "publicContributions": 84,
     "createdAt": "2019-04-01T18:44:57Z"
   },
   {
@@ -22794,8 +22794,8 @@
     "location": "Yerevan",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 132,
+    "followers": 5,
+    "privateContributions": 27,
     "publicContributions": 0,
     "createdAt": "2019-04-20T18:27:07Z"
   },
@@ -22830,9 +22830,9 @@
     "location": "Yerevan",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 94,
-    "publicContributions": 93,
+    "followers": 6,
+    "privateContributions": 129,
+    "publicContributions": 94,
     "createdAt": "2019-06-22T21:32:32Z"
   },
   {
@@ -22854,7 +22854,7 @@
     "location": "Yerevan",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-05-22T20:27:14Z"
@@ -22866,9 +22866,9 @@
     "location": "Yerevan",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 30,
+    "publicContributions": 27,
     "createdAt": "2019-12-24T21:50:58Z"
   },
   {
@@ -22880,7 +22880,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 20,
     "createdAt": "2019-06-16T11:04:51Z"
   },
   {
@@ -22908,27 +22908,15 @@
     "createdAt": "2019-12-11T10:26:26Z"
   },
   {
-    "login": "korotaS",
-    "name": "Aleksandr Korotaevskiy",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/50669173?s=72&u=7b4e33e3c994bdc5effe20d25453e42e3fe3b600&v=4",
-    "location": "Yerevan",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 195,
-    "publicContributions": 54,
-    "createdAt": "2019-05-15T14:31:13Z"
-  },
-  {
     "login": "yevdokimova",
     "name": "Mariam Yevdokimova",
     "avatarUrl": "https://avatars.githubusercontent.com/u/47719316?s=72&u=bb500ebc682ea2218199ebd59790a86ae5622903&v=4",
     "location": "Yerevan",
-    "company": "",
+    "company": "ServiceTitan",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 239,
-    "publicContributions": 123,
+    "followers": 4,
+    "privateContributions": 304,
+    "publicContributions": 73,
     "createdAt": "2019-02-17T16:24:36Z"
   },
   {
@@ -22975,7 +22963,7 @@
     "company": "Gaijin",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 2,
+    "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2019-01-27T10:20:32Z"
   },

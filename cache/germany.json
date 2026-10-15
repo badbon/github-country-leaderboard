@@ -846043,7 +846043,7 @@
     "company": "Xing Marketing Solutions",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 560,
+    "privateContributions": 562,
     "publicContributions": 17,
     "createdAt": "2018-02-20T00:08:11Z"
   },
@@ -846127,7 +846127,7 @@
     "company": "",
     "twitterUsername": "variiuz",
     "followers": 8,
-    "privateContributions": 2725,
+    "privateContributions": 2729,
     "publicContributions": 244,
     "createdAt": "2018-02-23T21:05:04Z"
   },
@@ -846547,7 +846547,7 @@
     "company": "@Langenhorst-IT-Solutions",
     "twitterUsername": "B1GSt4R_1999",
     "followers": 8,
-    "privateContributions": 1393,
+    "privateContributions": 1395,
     "publicContributions": 78,
     "createdAt": "2018-02-22T15:53:33Z"
   },
@@ -847162,5 +847162,17 @@
     "privateContributions": 178,
     "publicContributions": 17,
     "createdAt": "2018-06-25T20:46:15Z"
+  },
+  {
+    "login": "jaouherz",
+    "name": "jaouher zouari",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/126726563?s=72&u=172c6e4bbfa21d852ae8c97a20b7adb846c41191&v=4",
+    "location": "Germany",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 125,
+    "createdAt": "2023-03-01T22:12:59Z"
   }
 ]
