@@ -51,10 +51,10 @@ Indexed users: 256
 | 12 | [dmcken](https://github.com/dmcken) | David Mc Ken | Trinidad and Tobago | 304 |
 | 13 | [rezziemaven](https://github.com/rezziemaven) | Sherezz Grant | Trinidad and Tobago | 264 |
 | 14 | [devxlag](https://github.com/devxlag) | Devon Murray | Trinidad and Tobago | 256 |
-| 15 | [0xNick404](https://github.com/0xNick404) | Nicholas Grimes | Trinidad and Tobago | 250 |
-| 16 | [Brandonbr1](https://github.com/Brandonbr1) | Java sauce | Trinidad and Tobago | 240 |
-| 17 | [IshikaGopie](https://github.com/IshikaGopie) | Ishika_Gopie | Trinidad and Tobago | 223 |
-| 18 | [J4m331](https://github.com/J4m331) | Jameel Ali | Trinidad and Tobago | 220 |
+| 15 | [Brandonbr1](https://github.com/Brandonbr1) | Java sauce | Trinidad and Tobago | 240 |
+| 16 | [IshikaGopie](https://github.com/IshikaGopie) | Ishika_Gopie | Trinidad and Tobago | 223 |
+| 17 | [J4m331](https://github.com/J4m331) | Jameel Ali | Trinidad and Tobago | 220 |
+| 18 | [0xNick404](https://github.com/0xNick404) | Nicholas Grimes | Trinidad and Tobago | 198 |
 | 19 | [Trasmonaut](https://github.com/Trasmonaut) | Trasmonaut | Trinidad and Tobago | 184 |
 | 20 | [jaedanpersaud12](https://github.com/jaedanpersaud12) | Jaedan Persaud | Trinidad and Tobago | 181 |
 
@@ -71,7 +71,7 @@ Indexed users: 256
 | 7 | [creativenull](https://github.com/creativenull) | Arnold Chand | Trinidad and Tobago | 68 |
 | 8 | [Emille1723](https://github.com/Emille1723) | Emille Henry | Trinidad and Tobago | 63 |
 | 9 | [foohyfooh](https://github.com/foohyfooh) | Jonathan Herbert | Trinidad and Tobago | 61 |
-| 10 | [premarafael108-jpg](https://github.com/premarafael108-jpg) | Anahata.Agent | Trinidad and tobago | 58 |
+| 10 | [premarafael108-jpg](https://github.com/premarafael108-jpg) | Anahata.Agent | Trinidad and tobago | 59 |
 | 11 | [Snickdx](https://github.com/Snickdx) | Nicholas Mendez | Trinidad and Tobago | 51 |
 | 12 | [Ispirett](https://github.com/Ispirett) | Ispirett | Trinidad and Tobago | 43 |
 | 13 | [kmn5409](https://github.com/kmn5409) | Keanu Nichols | Trinidad and Tobago | 43 |
@@ -83,4 +83,4 @@ Indexed users: 256
 | 19 | [DionMS8](https://github.com/DionMS8) | Dion Singh | Trinidad and Tobago | 29 |
 | 20 | [wyntonfranklin](https://github.com/wyntonfranklin) | Wynton Franklin | Trinidad and Tobago | 29 |
 
-Generated: 2026-10-14T23:25:21.760Z
+Generated: 2026-10-15T00:43:34.178Z

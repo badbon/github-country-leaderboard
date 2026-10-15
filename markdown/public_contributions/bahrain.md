@@ -1,6 +1,6 @@
 # Public Contributions - Bahrain
 
-Generated: 2026-10-14T23:35:30.449Z
+Generated: 2026-10-15T00:53:19.461Z
 
 Users: 727
 
@@ -23,6 +23,6 @@ Users: 727
 | 15 | [emilythestrangee](https://github.com/emilythestrangee) | Emaan Munshi |  |  | Bahrain | 733 |
 | 16 | [mahoozi97](https://github.com/mahoozi97) | Ali Almahoozi |  |  | Bahrain | 733 |
 | 17 | [falansari](https://github.com/falansari) | Fatima Alansari |  |  | Bahrain | 678 |
-| 18 | [hussain-alsaibai](https://github.com/hussain-alsaibai) | Hussain Alsaibai |  |  | Bahrain | 666 |
-| 19 | [alialsaffarcodexals](https://github.com/alialsaffarcodexals) | Ali Alsaffar | Bahrain Polytechnic |  | Bahrain | 657 |
-| 20 | [sahmedhusain](https://github.com/sahmedhusain) | Sayed Ahmed Husain |  | _97ahm | Bahrain | 656 |
+| 18 | [FahadIqbal1122](https://github.com/FahadIqbal1122) | fahad |  |  | Bahrain | 673 |
+| 19 | [hussain-alsaibai](https://github.com/hussain-alsaibai) | Hussain Alsaibai |  |  | Bahrain | 666 |
+| 20 | [alialsaffarcodexals](https://github.com/alialsaffarcodexals) | Ali Alsaffar | Bahrain Polytechnic |  | Bahrain | 657 |

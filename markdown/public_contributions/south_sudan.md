@@ -1,6 +1,6 @@
 # Public Contributions - South Sudan
 
-Generated: 2026-10-14T23:21:23.865Z
+Generated: 2026-10-15T00:37:36.722Z
 
 Users: 132
 
@@ -8,7 +8,7 @@ Users: 132
 |---:|---|---|---|---|---|---:|
 | 1 | [jameswol-ai](https://github.com/jameswol-ai) | James Wol | Creative Studios | wol_james | Juba, South Sudan | 5206 |
 | 2 | [davelee001](https://github.com/davelee001) | David Leek |  | barax_lee | South Sudan | 4638 |
-| 3 | [riek27](https://github.com/riek27) | Riek Gatluak Geka Reat |  |  | Juba, South sudan | 3272 |
+| 3 | [riek27](https://github.com/riek27) | Riek Gatluak Geka Reat |  |  | Juba, South sudan | 3237 |
 | 4 | [Maiz27](https://github.com/Maiz27) | Maged Faiz | Nilotik General Trading Co. Ltd | _Maiz27_ | Juba, South Sudan | 1098 |
 | 5 | [puoch1of1](https://github.com/puoch1of1) | Puoch Mabor Makuei  |  | PuochMabor | South Sudan | 583 |
 | 6 | [JohnMarit](https://github.com/JohnMarit) | John Marit | Belednai Technology |  | Juba-South Sudan | 516 |
@@ -24,5 +24,5 @@ Users: 132
 | 16 | [felixuxx](https://github.com/felixuxx) | ... |  |  | Juba, South Sudan | 268 |
 | 17 | [Wai-Mike](https://github.com/Wai-Mike) | Wai Michael Kat | climaware |  | South Sudan | 261 |
 | 18 | [Konson22](https://github.com/Konson22) | Kon Akech | Miles global Link | konsonak | South Sudan | 224 |
-| 19 | [joseph-akaro](https://github.com/joseph-akaro) | Joseph Akaro | Turning Point Innovation Limited |  | Juba | 215 |
+| 19 | [joseph-akaro](https://github.com/joseph-akaro) | Joseph Akaro | Turning Point Innovation Limited |  | Juba | 213 |
 | 20 | [Ibrahim-Lbib](https://github.com/Ibrahim-Lbib) | Ibrahim Labib | Ibrahim Labib Studio |  | Juba, South - Sudan | 178 |

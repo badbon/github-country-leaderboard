@@ -13,12 +13,12 @@ Indexed users: 7,187
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [haythemgalelem](https://github.com/haythemgalelem) | HAGTIC | Tunisia | 586,955 |
-| 2 | [The-iyed](https://github.com/The-iyed) | Sebai Iyed | Tunisia | 22,302 |
-| 3 | [thevpc](https://github.com/thevpc) | thevpc | Tunisia | 21,742 |
-| 4 | [labidiaymen](https://github.com/labidiaymen) | Aymen | Tunis, Tunisia | 19,874 |
-| 5 | [urshabib](https://github.com/urshabib) | Habib Lomma | Tunisia | 19,226 |
-| 6 | [Nour-yahyaoui](https://github.com/Nour-yahyaoui) | Nour-Yahyaoui | Tunisia | 14,984 |
-| 7 | [Mohamed-Amine-Slama](https://github.com/Mohamed-Amine-Slama) |  | Sousse, Tunis  | 14,028 |
+| 2 | [Mohamed-Amine-Slama](https://github.com/Mohamed-Amine-Slama) |  | Sousse, Tunis  | 31,257 |
+| 3 | [The-iyed](https://github.com/The-iyed) | Sebai Iyed | Tunisia | 22,302 |
+| 4 | [thevpc](https://github.com/thevpc) | thevpc | Tunisia | 21,742 |
+| 5 | [labidiaymen](https://github.com/labidiaymen) | Aymen | Tunis, Tunisia | 19,874 |
+| 6 | [urshabib](https://github.com/urshabib) | Habib Lomma | Tunisia | 19,226 |
+| 7 | [Nour-yahyaoui](https://github.com/Nour-yahyaoui) | Nour-Yahyaoui | Tunisia | 14,984 |
 | 8 | [MohamedBechirMejri](https://github.com/MohamedBechirMejri) | Mohamed Bechir Mejri | Tunisia | 12,741 |
 | 9 | [ifaouibadi](https://github.com/ifaouibadi) | Badi Ifaoui | Tunisia | 7,694 |
 | 10 | [amine-y](https://github.com/amine-y) | Amine Yaakoubi | Tunisia | 7,123 |
@@ -83,4 +83,4 @@ Indexed users: 7,187
 | 19 | [zied-snoussi](https://github.com/zied-snoussi) | Zied Snoussi | Tunisia | 522 |
 | 20 | [machour](https://github.com/machour) | Mehdi Achour | Tunisia | 483 |
 
-Generated: 2026-10-14T23:25:24.824Z
+Generated: 2026-10-15T00:43:38.077Z

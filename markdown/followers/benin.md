@@ -1,6 +1,6 @@
 # Followers - Benin
 
-Generated: 2026-10-14T23:38:18.593Z
+Generated: 2026-10-15T00:55:11.495Z
 
 Users: 471
 
@@ -9,7 +9,7 @@ Users: 471
 | 1 | [JideGuru](https://github.com/JideGuru) | Festus Olusegun | Available for part-time roles | iamjideguru | Cotonou, Benin. | 2202 |
 | 2 | [AvineDev](https://github.com/AvineDev) | Avine Dev |  |  | Benin | 469 |
 | 3 | [Houessou1](https://github.com/Houessou1) | François-Xavier ALLA HOUESSOU  |  | alla_xavier | Benin 🇧🇯 | 431 |
-| 4 | [koladev32](https://github.com/koladev32) | Mangabo  Kolawole |  | koladev32 | Benin, Cotonou | 239 |
+| 4 | [koladev32](https://github.com/koladev32) | Mangabo  Kolawole |  | koladev32 | Benin, Cotonou | 240 |
 | 5 | [NemesisX1](https://github.com/NemesisX1) | Elikem Medehou | @lixalistudio @lixalistudio-oss | elikemmedehou | Cotonou, Benin | 232 |
 | 6 | [COCOUVI](https://github.com/COCOUVI) | Alexandro Cocouvi  | Xandrotech | XTech26551 | Benin | 139 |
 | 7 | [florentak](https://github.com/florentak) | Florent Ayidedji |  |  | Cotonou, Littoral, Benin | 120 |

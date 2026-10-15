@@ -1,6 +1,6 @@
 # Total Contributions - Tajikistan
 
-Generated: 2026-10-14T23:24:02.355Z
+Generated: 2026-10-15T00:41:46.394Z
 
 Users: 710
 
@@ -11,10 +11,10 @@ Users: 710
 | 3 | [rahimov-yr](https://github.com/rahimov-yr) | Yusuf Rahimov |  |  | Tajikistan | 7767 |
 | 4 | [shyn1ck](https://github.com/shyn1ck) | Parvizjon Hasanov | DC-TechHQ |  | Taikistan, Dushanbe  | 7185 |
 | 5 | [umedsondoniyor](https://github.com/umedsondoniyor) | Umedzhon Izbasarov | OneWell | UmedzhonIzbasar | Tajikistan/Dushanbe | 6954 |
-| 6 | [ifteakhor](https://github.com/ifteakhor) |  | @iftech-team | ISaidkhoja | Tajikistan | 6341 |
+| 6 | [ifteakhor](https://github.com/ifteakhor) |  | @iftech-team | ISaidkhoja | Tajikistan | 6397 |
 | 7 | [sr-44](https://github.com/sr-44) | Shahrom | Alif Bank |  | Tajikistan, Dushanbe | 6326 |
 | 8 | [UMARJO9](https://github.com/UMARJO9) | Умарджон Нурмадов |  |  | Tajikistan / Khujand / Dushanbe / Kulob | 6298 |
-| 9 | [islom-sattorov](https://github.com/islom-sattorov) | islom-sattorov |  |  | Dushanbe, Tajikistan | 5944 |
+| 9 | [islom-sattorov](https://github.com/islom-sattorov) | islom-sattorov |  |  | Dushanbe, Tajikistan | 6044 |
 | 10 | [shahromako](https://github.com/shahromako) | Shahrom Kurbonov | Ayan Capital | koorbonovs | Tajikistan, Dushanbe | 3720 |
 | 11 | [sultonzoda2011](https://github.com/sultonzoda2011) | Sultonzoda Abdulloh | Freelance |  | Dushanbe | 3613 |
 | 12 | [dev-muhammad](https://github.com/dev-muhammad) | Muhammad Abdugafarov  | Lookona Labs |  | Tajikistan | 3480 |

@@ -14,7 +14,7 @@ Indexed users: 471
 |---:|---|---|---|---:|
 | 1 | [SteveAsterAfovo](https://github.com/SteveAsterAfovo) | Steve Aster AFOVO | Abomey-Calavi, Benin | 17,053 |
 | 2 | [Abdoul-wakilou](https://github.com/Abdoul-wakilou) | AbDev - Freelance | Cotonou, Benin | 9,483 |
-| 3 | [nahim-salami](https://github.com/nahim-salami) | Nahim SALAMI | Benin | 8,834 |
+| 3 | [nahim-salami](https://github.com/nahim-salami) | Nahim SALAMI | Benin | 8,903 |
 | 4 | [blackdevfeldy](https://github.com/blackdevfeldy) | TOHOYESSOU Feldy | Cotonou, Benin | 7,892 |
 | 5 | [AxelSalim](https://github.com/AxelSalim) | ADJAKIDJE K. Axel S. H. | Benin | 7,267 |
 | 6 | [devalade](https://github.com/devalade) | Alade YESSOUFOU | Cotonou,Littoral, Benin | 6,583 |
@@ -53,7 +53,7 @@ Indexed users: 471
 | 14 | [devalade](https://github.com/devalade) | Alade YESSOUFOU | Cotonou,Littoral, Benin | 793 |
 | 15 | [Bellox1](https://github.com/Bellox1) | Matinou BELLO | Cotonou,Littoral, Benin | 788 |
 | 16 | [eldomagan](https://github.com/eldomagan) | Eldo Magan | Cotonou, Benin | 742 |
-| 17 | [koladev32](https://github.com/koladev32) | Mangabo  Kolawole | Benin, Cotonou | 595 |
+| 17 | [koladev32](https://github.com/koladev32) | Mangabo  Kolawole | Benin, Cotonou | 594 |
 | 18 | [AxelSalim](https://github.com/AxelSalim) | ADJAKIDJE K. Axel S. H. | Benin | 592 |
 | 19 | [delsDin](https://github.com/delsDin) | Dels Dinla | Benin | 588 |
 | 20 | [Nozel-silva](https://github.com/Nozel-silva) | Nuel Agafie | Benin | 583 |
@@ -65,7 +65,7 @@ Indexed users: 471
 | 1 | [JideGuru](https://github.com/JideGuru) | Festus Olusegun | Cotonou, Benin. | 2,202 |
 | 2 | [AvineDev](https://github.com/AvineDev) | Avine Dev | Benin | 469 |
 | 3 | [Houessou1](https://github.com/Houessou1) | François-Xavier ALLA HOUESSOU  | Benin 🇧🇯 | 431 |
-| 4 | [koladev32](https://github.com/koladev32) | Mangabo  Kolawole | Benin, Cotonou | 239 |
+| 4 | [koladev32](https://github.com/koladev32) | Mangabo  Kolawole | Benin, Cotonou | 240 |
 | 5 | [NemesisX1](https://github.com/NemesisX1) | Elikem Medehou | Cotonou, Benin | 232 |
 | 6 | [COCOUVI](https://github.com/COCOUVI) | Alexandro Cocouvi  | Benin | 139 |
 | 7 | [florentak](https://github.com/florentak) | Florent Ayidedji | Cotonou, Littoral, Benin | 120 |
@@ -83,4 +83,4 @@ Indexed users: 471
 | 19 | [awarris](https://github.com/awarris) | Warris AGBANNONDE | Benin, Cotonou Ganhi | 72 |
 | 20 | [baba-mandef](https://github.com/baba-mandef) | Abiodoun Paraïso | Adjarra, Benin | 71 |
 
-Generated: 2026-10-14T23:38:18.593Z
+Generated: 2026-10-15T00:55:11.495Z

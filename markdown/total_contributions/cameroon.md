@@ -1,6 +1,6 @@
 # Total Contributions - Cameroon
 
-Generated: 2026-10-14T23:43:41.980Z
+Generated: 2026-10-15T00:58:55.240Z
 
 Users: 1799
 
@@ -12,15 +12,15 @@ Users: 1799
 | 4 | [cliffordten](https://github.com/cliffordten) | Teneng Clifford | @gwislab  | bisynerd | Buea, Cameroon | 10943 |
 | 5 | [bpsmartdesign](https://github.com/bpsmartdesign) | Biya Paul | @think-dev-io | bpsmartdesign | Yaoundé - Douala, Cameroon | 10058 |
 | 6 | [gwagsi](https://github.com/gwagsi) | Gwagsi |  | gwagsig | Yaounde, Cameroon | 10008 |
-| 7 | [LudovicAndreBiyong](https://github.com/LudovicAndreBiyong) | Ludovic André Biyong | GAIA SARL U |  | Cameroon | 9905 |
-| 8 | [iws3](https://github.com/iws3) | Fonyuy Gita |  |  | Bamenda, Cameroon | 9756 |
+| 7 | [iws3](https://github.com/iws3) | Fonyuy Gita |  |  | Bamenda, Cameroon | 9993 |
+| 8 | [LudovicAndreBiyong](https://github.com/LudovicAndreBiyong) | Ludovic André Biyong | GAIA SARL U |  | Cameroon | 9905 |
 | 9 | [KingsleyLeshey](https://github.com/KingsleyLeshey) | Kingsley Leshey | Leshey Digital |  | Yaounde, Cameroon | 9102 |
 | 10 | [zenderock](https://github.com/zenderock) | Emmanuel Zenderock | Aubigo | iamzenderock | Cameroon | 7720 |
 | 11 | [elroykanye](https://github.com/elroykanye) | Elroy Kimbi | @veridyl | elroykanye | Yaoundé, Cameroon | 7432 |
 | 12 | [ln-dev7](https://github.com/ln-dev7) | LN | @mus-inn | ln_dev7 | Cameroon | 7402 |
 | 13 | [leonelngande](https://github.com/leonelngande) | Leonel Elimpe | Ngande Consulting | leonelngande | Buea, Cameroon | 7257 |
 | 14 | [Martin-Luther](https://github.com/Martin-Luther) | Martin Luther ETOUMAN NDAMBWE | Rhinostone |  | Douala / Cameroon | 6398 |
-| 15 | [psycho237-prog](https://github.com/psycho237-prog) | ONANA GREGOIRE LEGRAND  | XYBERCLAN |  | Cameroon | 6280 |
+| 15 | [psycho237-prog](https://github.com/psycho237-prog) | ONANA GREGOIRE LEGRAND  | XYBERCLAN |  | Cameroon | 6340 |
 | 16 | [OkonoWil](https://github.com/OkonoWil) | Okono Wilfried | @WeTell-Africa  @JEUNESMENTORS | OkonoWilfried | Douala,Cameroon | 6014 |
 | 17 | [itzomen](https://github.com/itzomen) | Peng Boris Akebuon | Traleor | itz_omen | Buea, Cameroon | 5598 |
 | 18 | [koatiromeo](https://github.com/koatiromeo) | koatiromeo | koatiromeo | koatiromeo | Cameroon | 5266 |

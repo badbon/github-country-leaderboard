@@ -12,11 +12,11 @@ Indexed users: 11
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [elielMengue](https://github.com/elielMengue) | Eliel MENGUE | BANGUI | 1,360 |
-| 2 | [Nanobolide](https://github.com/Nanobolide) | Geoffroy Maidou | Remote ,Bangui , Centrafrique 🇨🇫 ; | 985 |
+| 1 | [elielMengue](https://github.com/elielMengue) | Eliel MENGUE | BANGUI | 1,354 |
+| 2 | [Nanobolide](https://github.com/Nanobolide) | Geoffroy Maidou | Remote ,Bangui , Centrafrique 🇨🇫 ; | 984 |
 | 3 | [yann-bot](https://github.com/yann-bot) | Yann Dubois Ouafete | Bangui , CAR | 859 |
 | 4 | [Jerry-M-L](https://github.com/Jerry-M-L) | Jerry | Centrafrique,Bangui | 428 |
-| 5 | [nguereza-tony](https://github.com/nguereza-tony) | Tony NGUEREZA | Bangui | 228 |
+| 5 | [nguereza-tony](https://github.com/nguereza-tony) | Tony NGUEREZA | Bangui | 227 |
 | 6 | [yadiOs-a-darel](https://github.com/yadiOs-a-darel) | Alphonso Darel | Bangui, Central African Republic | 190 |
 | 7 | [tacopola](https://github.com/tacopola) | polaDev | Bangui | 44 |
 | 8 | [hermanmandaba](https://github.com/hermanmandaba) | Hermann Mandaba | Bangui, Cenral African Republic | 23 |
@@ -28,8 +28,8 @@ Indexed users: 11
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [elielMengue](https://github.com/elielMengue) | Eliel MENGUE | BANGUI | 294 |
-| 2 | [nguereza-tony](https://github.com/nguereza-tony) | Tony NGUEREZA | Bangui | 228 |
+| 1 | [elielMengue](https://github.com/elielMengue) | Eliel MENGUE | BANGUI | 288 |
+| 2 | [nguereza-tony](https://github.com/nguereza-tony) | Tony NGUEREZA | Bangui | 227 |
 | 3 | [Nanobolide](https://github.com/Nanobolide) | Geoffroy Maidou | Remote ,Bangui , Centrafrique 🇨🇫 ; | 120 |
 | 4 | [yann-bot](https://github.com/yann-bot) | Yann Dubois Ouafete | Bangui , CAR | 56 |
 | 5 | [tacopola](https://github.com/tacopola) | polaDev | Bangui | 44 |
@@ -56,4 +56,4 @@ Indexed users: 11
 | 10 | [josuehdasse](https://github.com/josuehdasse) | DASSE TE NGBOKOTA Josué Honoré | Bangui, République Centrafricaine | 1 |
 | 11 | [Zompire7](https://github.com/Zompire7) | Mahamat BENAMOU | Bangui | 1 |
 
-Generated: 2026-10-14T23:44:34.334Z
+Generated: 2026-10-15T01:00:38.777Z

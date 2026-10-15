@@ -12,19 +12,19 @@ Indexed users: 533
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [kalungia](https://github.com/kalungia) | Abraham Kalungi | Botswana, Gaborone | 8,495 |
+| 1 | [kalungia](https://github.com/kalungia) | Abraham Kalungi | Botswana, Gaborone | 8,473 |
 | 2 | [Chalebgwa](https://github.com/Chalebgwa) | Pako Chalebgwa | Botswana,Gaborone | 8,279 |
 | 3 | [rasali535](https://github.com/rasali535) | Alpheaus Chiwaze | Botswana, Gaborone | 2,806 |
 | 4 | [darula-hpp](https://github.com/darula-hpp) | Olebogeng Mbedzi | Gaborone | 2,678 |
 | 5 | [tiromodibedi](https://github.com/tiromodibedi) | Tiro Modibedi | Gaborone, Botswana | 2,611 |
 | 6 | [kmaphane](https://github.com/kmaphane) | Kenna Maphane | Maun, Botswana | 2,397 |
 | 7 | [Koketso1999](https://github.com/Koketso1999) | Koketso Morapedi | Gaborone, Botswana | 2,342 |
-| 8 | [ChinyangaTL](https://github.com/ChinyangaTL) | Les Chinyanga | Gaborone, Botswana | 2,308 |
+| 8 | [ChinyangaTL](https://github.com/ChinyangaTL) | Les Chinyanga | Gaborone, Botswana | 2,299 |
 | 9 | [Fuzzworth](https://github.com/Fuzzworth) | Nyangasi Mhozya | Botswana | 2,148 |
 | 10 | [Batoli19](https://github.com/Batoli19) | future | Gaborone | 2,135 |
 | 11 | [mwmiller](https://github.com/mwmiller) | Matt Miller | Gaborone, Botswana | 2,109 |
-| 12 | [BakangMonei](https://github.com/BakangMonei) | Monei Bakang | Gaborone, Botswana | 2,071 |
-| 13 | [Tebalo](https://github.com/Tebalo) | Bopaki | Botswana, Gaborone-Mokobaxane | 2,064 |
+| 12 | [Tebalo](https://github.com/Tebalo) | Bopaki | Botswana, Gaborone-Mokobaxane | 2,064 |
+| 13 | [BakangMonei](https://github.com/BakangMonei) | Monei Bakang | Gaborone, Botswana | 2,056 |
 | 14 | [mrdiin](https://github.com/mrdiin) | Botshelo Brandon Tidimalo | Gaborone | 2,045 |
 | 15 | [WyvernPirate](https://github.com/WyvernPirate) | Phemelo Moloi | Maun, Botswana | 2,020 |
 | 16 | [Mopati123](https://github.com/Mopati123) | Mopati Ramaologa | Gaborone, Botswana | 1,890 |
@@ -38,7 +38,7 @@ Indexed users: 533
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [rasali535](https://github.com/rasali535) | Alpheaus Chiwaze | Botswana, Gaborone | 2,806 |
-| 2 | [BakangMonei](https://github.com/BakangMonei) | Monei Bakang | Gaborone, Botswana | 1,395 |
+| 2 | [BakangMonei](https://github.com/BakangMonei) | Monei Bakang | Gaborone, Botswana | 1,389 |
 | 3 | [darula-hpp](https://github.com/darula-hpp) | Olebogeng Mbedzi | Gaborone | 1,198 |
 | 4 | [mwmiller](https://github.com/mwmiller) | Matt Miller | Gaborone, Botswana | 1,198 |
 | 5 | [Todd366](https://github.com/Todd366) | BSTM Ecosystem  | Botswana 🇧🇼  | 1,045 |
@@ -46,10 +46,10 @@ Indexed users: 533
 | 7 | [arnold1990-cell](https://github.com/arnold1990-cell) | Arnold Tyvern Madamombe | Gaborone Botswana | 856 |
 | 8 | [tmosimanyana](https://github.com/tmosimanyana) | Tinny Mosimanyana | Gaborone, Botswana | 838 |
 | 9 | [Mopati123](https://github.com/Mopati123) | Mopati Ramaologa | Gaborone, Botswana | 735 |
-| 10 | [Scheke](https://github.com/Scheke) | Boipuso Rante | Botswana | 592 |
-| 11 | [loag0](https://github.com/loag0) | Loago Moremi | Botswana | 562 |
-| 12 | [Sesame-alpha](https://github.com/Sesame-alpha) | SESAME DITHUPA | Botswana 🇧🇼  | 543 |
-| 13 | [Cse21-034](https://github.com/Cse21-034) | leatile mosimanyana | Gaborone | 522 |
+| 10 | [Cse21-034](https://github.com/Cse21-034) | leatile mosimanyana | Gaborone | 616 |
+| 11 | [Scheke](https://github.com/Scheke) | Boipuso Rante | Botswana | 592 |
+| 12 | [loag0](https://github.com/loag0) | Loago Moremi | Botswana | 562 |
+| 13 | [Sesame-alpha](https://github.com/Sesame-alpha) | SESAME DITHUPA | Botswana 🇧🇼  | 543 |
 | 14 | [bChandrax](https://github.com/bChandrax) | Karabo Machanja | Botswana | 442 |
 | 15 | [justindotdevv](https://github.com/justindotdevv) | justin | Gaborone, Botswana | 430 |
 | 16 | [mulaxprime](https://github.com/mulaxprime) | Mulax Prime | Gaborone, Botswana | 372 |
@@ -80,7 +80,7 @@ Indexed users: 533
 | 16 | [samKenpachi011](https://github.com/samKenpachi011) | Samuel Kabelo | Gaborone Botswana | 41 |
 | 17 | [godwillmonthe](https://github.com/godwillmonthe) | Godwill Monthe | Gaborone, Botswana | 35 |
 | 18 | [WyvernPirate](https://github.com/WyvernPirate) | Phemelo Moloi | Maun, Botswana | 35 |
-| 19 | [Tebalo](https://github.com/Tebalo) | Bopaki | Botswana, Gaborone-Mokobaxane | 34 |
-| 20 | [BakangMonei](https://github.com/BakangMonei) | Monei Bakang | Gaborone, Botswana | 33 |
+| 19 | [BakangMonei](https://github.com/BakangMonei) | Monei Bakang | Gaborone, Botswana | 34 |
+| 20 | [Tebalo](https://github.com/Tebalo) | Bopaki | Botswana, Gaborone-Mokobaxane | 34 |
 
-Generated: 2026-10-14T23:40:12.074Z
+Generated: 2026-10-15T00:55:54.950Z

@@ -1,18 +1,18 @@
 # Total Contributions - Tunisia
 
-Generated: 2026-10-14T23:25:24.824Z
+Generated: 2026-10-15T00:43:38.077Z
 
 Users: 7187
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [haythemgalelem](https://github.com/haythemgalelem) | HAGTIC |  | haythem_galelem | Tunisia | 586955 |
-| 2 | [The-iyed](https://github.com/The-iyed) | Sebai Iyed | Builtop |  | Tunisia | 22302 |
-| 3 | [thevpc](https://github.com/thevpc) | thevpc | Core Techs Solutions |  | Tunisia | 21742 |
-| 4 | [labidiaymen](https://github.com/labidiaymen) | Aymen | Nuraly | labidiaymen | Tunis, Tunisia | 19874 |
-| 5 | [urshabib](https://github.com/urshabib) | Habib Lomma |  |  | Tunisia | 19226 |
-| 6 | [Nour-yahyaoui](https://github.com/Nour-yahyaoui) | Nour-Yahyaoui | vex-kernel |  | Tunisia | 14984 |
-| 7 | [Mohamed-Amine-Slama](https://github.com/Mohamed-Amine-Slama) |  | Freelancer |  | Sousse, Tunis  | 14028 |
+| 2 | [Mohamed-Amine-Slama](https://github.com/Mohamed-Amine-Slama) |  | Freelancer |  | Sousse, Tunis  | 31257 |
+| 3 | [The-iyed](https://github.com/The-iyed) | Sebai Iyed | Builtop |  | Tunisia | 22302 |
+| 4 | [thevpc](https://github.com/thevpc) | thevpc | Core Techs Solutions |  | Tunisia | 21742 |
+| 5 | [labidiaymen](https://github.com/labidiaymen) | Aymen | Nuraly | labidiaymen | Tunis, Tunisia | 19874 |
+| 6 | [urshabib](https://github.com/urshabib) | Habib Lomma |  |  | Tunisia | 19226 |
+| 7 | [Nour-yahyaoui](https://github.com/Nour-yahyaoui) | Nour-Yahyaoui | vex-kernel |  | Tunisia | 14984 |
 | 8 | [MohamedBechirMejri](https://github.com/MohamedBechirMejri) | Mohamed Bechir Mejri |  | 0x4D424D | Tunisia | 12741 |
 | 9 | [ifaouibadi](https://github.com/ifaouibadi) | Badi Ifaoui | ZIX DEV |  | Tunisia | 7694 |
 | 10 | [amine-y](https://github.com/amine-y) | Amine Yaakoubi | @axelites |  | Tunisia | 7123 |

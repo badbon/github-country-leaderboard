@@ -1,6 +1,6 @@
 # Total Contributions - Andorra
 
-Generated: 2026-10-14T23:33:20.313Z
+Generated: 2026-10-15T00:50:54.398Z
 
 Users: 215
 
@@ -20,9 +20,9 @@ Users: 215
 | 12 | [jorge07](https://github.com/jorge07) | Jorge Arco | 90P Lab | Jorge__SVQ | Escaldes, Andorra | 4900 |
 | 13 | [cuva](https://github.com/cuva) | Hugo Cuvillier | Raycast |  | Andorra | 4215 |
 | 14 | [cmarfil](https://github.com/cmarfil) | Cristian Marfil |  |  | Andorra | 4185 |
-| 15 | [kopenkinda](https://github.com/kopenkinda) | Kopenkin Dmitrii | @salut-mercado  |  | Andorra | 3979 |
+| 15 | [kopenkinda](https://github.com/kopenkinda) | Kopenkin Dmitrii | @salut-mercado  |  | Andorra | 3992 |
 | 16 | [sgirones](https://github.com/sgirones) | Salvador Gironès Gil |  |  | Andorra | 3444 |
 | 17 | [ColColty](https://github.com/ColColty) | Tomàs Forné Cappeau | @surge-ai  |  | Andorra | 3443 |
 | 18 | [dvdjmnz](https://github.com/dvdjmnz) | David Jiménez |  |  | Andorra | 3346 |
 | 19 | [GRKdev](https://github.com/GRKdev) | G.R.K. | IAND |  | Andorra | 3094 |
-| 20 | [guillemfrancisco](https://github.com/guillemfrancisco) | Guillem Francisco | @Hulahoop-media |  | Andorra | 2815 |
+| 20 | [guillemfrancisco](https://github.com/guillemfrancisco) | Guillem Francisco | @Hulahoop-media |  | Andorra | 2832 |

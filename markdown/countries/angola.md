@@ -1,6 +1,6 @@
 # Angola
 
-Indexed users: 2,504
+Indexed users: 2,503
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 2,504
 | 19 | [nazarepiedady](https://github.com/nazarepiedady) | Nazaré da Piedade | Angola | 164 |
 | 20 | [jofranqueira](https://github.com/jofranqueira) | José Frangueira | Angola | 160 |
 
-Generated: 2026-10-14T23:33:55.084Z
+Generated: 2026-10-15T00:50:59.897Z

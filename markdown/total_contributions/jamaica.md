@@ -1,6 +1,6 @@
 # Total Contributions - Jamaica
 
-Generated: 2026-10-15T00:02:36.142Z
+Generated: 2026-10-15T01:16:22.039Z
 
 Users: 1275
 
@@ -24,5 +24,5 @@ Users: 1275
 | 16 | [javaniecampbell](https://github.com/javaniecampbell) | Javanie Campbell | @DevDaysAtWork  |  | Jamaica | 4388 |
 | 17 | [cogell](https://github.com/cogell) | B. Cedric Cogell |  |  | Kingston, NY | 4336 |
 | 18 | [JCarran0](https://github.com/JCarran0) | Jared Carrano | 2U Inc. |  | Kingston, NY | 4180 |
-| 19 | [kaplanz](https://github.com/kaplanz) | Zakhary Kaplan | @tenstorrent |  | Kingston, ON | 4009 |
+| 19 | [kaplanz](https://github.com/kaplanz) | Zakhary Kaplan | @tenstorrent |  | Kingston, ON | 3991 |
 | 20 | [kareypowell](https://github.com/kareypowell) | Karey H. Powell | KPOD Labs | kareypowell | Manchester, Jamaica | 3902 |

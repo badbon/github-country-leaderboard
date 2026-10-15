@@ -1,6 +1,6 @@
 # Followers - Burkina Faso
 
-Generated: 2026-10-14T23:41:26.733Z
+Generated: 2026-10-15T00:57:45.010Z
 
 Users: 487
 

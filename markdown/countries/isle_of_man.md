@@ -75,12 +75,12 @@ Indexed users: 155
 | 11 | [drapermovies](https://github.com/drapermovies) | Joel E.P. Draper | Isle of Man | 33 |
 | 12 | [drajmarsh](https://github.com/drajmarsh) | Dr Andrew Marsh | Isle of Man | 26 |
 | 13 | [chris-jamieson](https://github.com/chris-jamieson) | Chris Jamieson | Isle of Man | 24 |
-| 14 | [francisuk1989](https://github.com/francisuk1989) | Francis | Douglas, Isle of Man | 23 |
-| 15 | [samuelnub](https://github.com/samuelnub) | Sam Yap | Douglas, Isle of Man | 23 |
+| 14 | [samuelnub](https://github.com/samuelnub) | Sam Yap | Douglas, Isle of Man | 23 |
+| 15 | [francisuk1989](https://github.com/francisuk1989) | Francis | Douglas, Isle of Man | 22 |
 | 16 | [tonypartridge](https://github.com/tonypartridge) | Tony Partridge | Isle of Man | 20 |
 | 17 | [AndrewIOM](https://github.com/AndrewIOM) | Andrew Martin | Isle of Man | 19 |
 | 18 | [felipedecampos](https://github.com/felipedecampos) | Felipe de Campos | Douglas, Isle of Man, UK | 19 |
 | 19 | [lwangenheim](https://github.com/lwangenheim) | Lee Wangenheim | Isle of Man | 19 |
 | 20 | [DanAnkers](https://github.com/DanAnkers) | Daniel Ankers | Isle of Man | 18 |
 
-Generated: 2026-10-15T00:02:27.047Z
+Generated: 2026-10-15T01:15:40.721Z

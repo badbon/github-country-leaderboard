@@ -15,7 +15,7 @@ Indexed users: 132
 | 1 | [Maiz27](https://github.com/Maiz27) | Maged Faiz | Juba, South Sudan | 10,000 |
 | 2 | [davelee001](https://github.com/davelee001) | David Leek | South Sudan | 5,416 |
 | 3 | [jameswol-ai](https://github.com/jameswol-ai) | James Wol | Juba, South Sudan | 5,206 |
-| 4 | [riek27](https://github.com/riek27) | Riek Gatluak Geka Reat | Juba, South sudan | 3,272 |
+| 4 | [riek27](https://github.com/riek27) | Riek Gatluak Geka Reat | Juba, South sudan | 3,237 |
 | 5 | [puoch1of1](https://github.com/puoch1of1) | Puoch Mabor Makuei  | South Sudan | 1,007 |
 | 6 | [felixuxx](https://github.com/felixuxx) | ... | Juba, South Sudan | 811 |
 | 7 | [Konson22](https://github.com/Konson22) | Kon Akech | South Sudan | 757 |
@@ -39,7 +39,7 @@ Indexed users: 132
 |---:|---|---|---|---:|
 | 1 | [jameswol-ai](https://github.com/jameswol-ai) | James Wol | Juba, South Sudan | 5,206 |
 | 2 | [davelee001](https://github.com/davelee001) | David Leek | South Sudan | 4,638 |
-| 3 | [riek27](https://github.com/riek27) | Riek Gatluak Geka Reat | Juba, South sudan | 3,272 |
+| 3 | [riek27](https://github.com/riek27) | Riek Gatluak Geka Reat | Juba, South sudan | 3,237 |
 | 4 | [Maiz27](https://github.com/Maiz27) | Maged Faiz | Juba, South Sudan | 1,098 |
 | 5 | [puoch1of1](https://github.com/puoch1of1) | Puoch Mabor Makuei  | South Sudan | 583 |
 | 6 | [JohnMarit](https://github.com/JohnMarit) | John Marit | Juba-South Sudan | 516 |
@@ -55,7 +55,7 @@ Indexed users: 132
 | 16 | [felixuxx](https://github.com/felixuxx) | ... | Juba, South Sudan | 268 |
 | 17 | [Wai-Mike](https://github.com/Wai-Mike) | Wai Michael Kat | South Sudan | 261 |
 | 18 | [Konson22](https://github.com/Konson22) | Kon Akech | South Sudan | 224 |
-| 19 | [joseph-akaro](https://github.com/joseph-akaro) | Joseph Akaro | Juba | 215 |
+| 19 | [joseph-akaro](https://github.com/joseph-akaro) | Joseph Akaro | Juba | 213 |
 | 20 | [Ibrahim-Lbib](https://github.com/Ibrahim-Lbib) | Ibrahim Labib | Juba, South - Sudan | 178 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 132
 | 19 | [Amalsouthsudan23](https://github.com/Amalsouthsudan23) | AMAL South Sudan | South Sudan | 15 |
 | 20 | [Drago-cod](https://github.com/Drago-cod) | Drago Samuel Jared | Juba, South Sudan | 15 |
 
-Generated: 2026-10-14T23:21:23.865Z
+Generated: 2026-10-15T00:37:36.722Z

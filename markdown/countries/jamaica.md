@@ -30,7 +30,7 @@ Indexed users: 1,275
 | 16 | [javaniecampbell](https://github.com/javaniecampbell) | Javanie Campbell | Jamaica | 4,388 |
 | 17 | [cogell](https://github.com/cogell) | B. Cedric Cogell | Kingston, NY | 4,336 |
 | 18 | [JCarran0](https://github.com/JCarran0) | Jared Carrano | Kingston, NY | 4,180 |
-| 19 | [kaplanz](https://github.com/kaplanz) | Zakhary Kaplan | Kingston, ON | 4,009 |
+| 19 | [kaplanz](https://github.com/kaplanz) | Zakhary Kaplan | Kingston, ON | 3,991 |
 | 20 | [kareypowell](https://github.com/kareypowell) | Karey H. Powell | Manchester, Jamaica | 3,902 |
 
 ## Public Contributions
@@ -38,13 +38,13 @@ Indexed users: 1,275
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [olusiekwin](https://github.com/olusiekwin) | Gramm | kingston, JM | 8,346 |
-| 2 | [kaplanz](https://github.com/kaplanz) | Zakhary Kaplan | Kingston, ON | 3,926 |
+| 2 | [kaplanz](https://github.com/kaplanz) | Zakhary Kaplan | Kingston, ON | 3,869 |
 | 3 | [dcblundell](https://github.com/dcblundell) | David Blundell | Kingston, ON | 2,829 |
 | 4 | [shamar-morrison](https://github.com/shamar-morrison) | horizon | Jamaica | 2,283 |
 | 5 | [craole-cc](https://github.com/craole-cc) | Craig "Craole' Cole | Jamaica | 2,260 |
 | 6 | [OddBloke](https://github.com/OddBloke) | Daniel Watkins | Kingston, ON | 1,597 |
-| 7 | [kazo0](https://github.com/kazo0) | Steve Bilogan | Kingston, ON | 1,418 |
-| 8 | [airpocket-soundman](https://github.com/airpocket-soundman) | airpocket | kingston jamaca | 1,383 |
+| 7 | [airpocket-soundman](https://github.com/airpocket-soundman) | airpocket | kingston jamaca | 1,562 |
+| 8 | [kazo0](https://github.com/kazo0) | Steve Bilogan | Kingston, ON | 1,418 |
 | 9 | [yringler](https://github.com/yringler) | Yehuda Ringler | Kingston, PA | 1,362 |
 | 10 | [elixer-prince](https://github.com/elixer-prince) | Daniel Leith | Jamaica | 1,173 |
 | 11 | [shkeating](https://github.com/shkeating) | Shauna Keating | Kingston, NY | 1,002 |
@@ -79,8 +79,8 @@ Indexed users: 1,275
 | 15 | [mayukh4](https://github.com/mayukh4) | Mayukh Bagchi | Kingston, Ontario | 106 |
 | 16 | [olusiekwin](https://github.com/olusiekwin) | Gramm | kingston, JM | 106 |
 | 17 | [RakibulRanak](https://github.com/RakibulRanak) | MD RAKIBUL HASAN | Kingston, Ontario | 103 |
-| 18 | [aliasad059](https://github.com/aliasad059) | Ali Asad | Kingston, Ontario | 101 |
-| 19 | [JonCooperWorks](https://github.com/JonCooperWorks) |  | Jamaica | 101 |
+| 18 | [JonCooperWorks](https://github.com/JonCooperWorks) |  | Jamaica | 101 |
+| 19 | [aliasad059](https://github.com/aliasad059) | Ali Asad | Kingston, Ontario | 100 |
 | 20 | [andrewmaier](https://github.com/andrewmaier) | Andrew Maier | Kingston, Ontario | 94 |
 
-Generated: 2026-10-15T00:02:36.142Z
+Generated: 2026-10-15T01:16:22.039Z

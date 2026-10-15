@@ -29,8 +29,8 @@ Indexed users: 458
 | 15 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Antarctica | 3,250 |
 | 16 | [PicasoTheDeal](https://github.com/PicasoTheDeal) | Tetstack | Antarctica | 2,832 |
 | 17 | [echo108471](https://github.com/echo108471) | Eugene Cho | Antarctica | 2,617 |
-| 18 | [shangyian](https://github.com/shangyian) | Yian | Antarctica | 2,574 |
-| 19 | [oagix](https://github.com/oagix) | AGENT | Antarctica | 2,436 |
+| 18 | [shangyian](https://github.com/shangyian) | Yian | Antarctica | 2,589 |
+| 19 | [oagix](https://github.com/oagix) | AGENT | Antarctica | 2,412 |
 | 20 | [PenguinNexus](https://github.com/PenguinNexus) | Penguin | Antarctica | 1,766 |
 
 ## Public Contributions
@@ -43,7 +43,7 @@ Indexed users: 458
 | 4 | [ethicnology](https://github.com/ethicnology) | Azad | Antarctica | 3,035 |
 | 5 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Antarctica | 3,030 |
 | 6 | [PicasoTheDeal](https://github.com/PicasoTheDeal) | Tetstack | Antarctica | 2,772 |
-| 7 | [shangyian](https://github.com/shangyian) | Yian | Antarctica | 2,143 |
+| 7 | [shangyian](https://github.com/shangyian) | Yian | Antarctica | 2,158 |
 | 8 | [krwg](https://github.com/krwg) | アイダ ミール | Antarctica | 1,464 |
 | 9 | [enriquephl](https://github.com/enriquephl) |  | Antarctica | 1,380 |
 | 10 | [FreezingSnail](https://github.com/FreezingSnail) | Freezing Snail | Antarctica | 1,348 |
@@ -83,4 +83,4 @@ Indexed users: 458
 | 19 | [alphaaurigae](https://github.com/alphaaurigae) | Marian Brockerhoff | Antarctica | 85 |
 | 20 | [fakeid30](https://github.com/fakeid30) | Fake ID | Antarctica | 78 |
 
-Generated: 2026-10-14T23:34:31.656Z
+Generated: 2026-10-15T00:52:02.236Z

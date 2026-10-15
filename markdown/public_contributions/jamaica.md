@@ -1,19 +1,19 @@
 # Public Contributions - Jamaica
 
-Generated: 2026-10-15T00:02:36.142Z
+Generated: 2026-10-15T01:16:22.039Z
 
 Users: 1275
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [olusiekwin](https://github.com/olusiekwin) | Gramm | Gramm's Foundation | _olusiekwin | kingston, JM | 8346 |
-| 2 | [kaplanz](https://github.com/kaplanz) | Zakhary Kaplan | @tenstorrent |  | Kingston, ON | 3926 |
+| 2 | [kaplanz](https://github.com/kaplanz) | Zakhary Kaplan | @tenstorrent |  | Kingston, ON | 3869 |
 | 3 | [dcblundell](https://github.com/dcblundell) | David Blundell |  |  | Kingston, ON | 2829 |
 | 4 | [shamar-morrison](https://github.com/shamar-morrison) | horizon |  | theavgcoder | Jamaica | 2283 |
 | 5 | [craole-cc](https://github.com/craole-cc) | Craig "Craole' Cole |  |  | Jamaica | 2260 |
 | 6 | [OddBloke](https://github.com/OddBloke) | Daniel Watkins |  |  | Kingston, ON | 1597 |
-| 7 | [kazo0](https://github.com/kazo0) | Steve Bilogan | @unoplatform | BiloganSteve | Kingston, ON | 1418 |
-| 8 | [airpocket-soundman](https://github.com/airpocket-soundman) | airpocket |  | AirpocketRobot | kingston jamaca | 1383 |
+| 7 | [airpocket-soundman](https://github.com/airpocket-soundman) | airpocket |  | AirpocketRobot | kingston jamaca | 1562 |
+| 8 | [kazo0](https://github.com/kazo0) | Steve Bilogan | @unoplatform | BiloganSteve | Kingston, ON | 1418 |
 | 9 | [yringler](https://github.com/yringler) | Yehuda Ringler | Chabad.Org |  | Kingston, PA | 1362 |
 | 10 | [elixer-prince](https://github.com/elixer-prince) | Daniel Leith |  |  | Jamaica | 1173 |
 | 11 | [shkeating](https://github.com/shkeating) | Shauna Keating | @Travelers |  | Kingston, NY | 1002 |

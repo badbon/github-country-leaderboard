@@ -12,7 +12,7 @@ Indexed users: 2,868
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [sopenlaz0](https://github.com/sopenlaz0) | Sopen | Phnom Penh | 17,964 |
+| 1 | [sopenlaz0](https://github.com/sopenlaz0) | Sopen | Phnom Penh | 30,848 |
 | 2 | [phalla-doll](https://github.com/phalla-doll) | Phalla | Phnom Penh, Cambodia | 12,321 |
 | 3 | [kungsovannda](https://github.com/kungsovannda) | Sovannda Kung | Cambodia | 9,366 |
 | 4 | [tvcam](https://github.com/tvcam) | Vibol | Phnom Penh | 8,483 |
@@ -83,4 +83,4 @@ Indexed users: 2,868
 | 19 | [0x1iii1ii](https://github.com/0x1iii1ii) | liiseng | Cambodia | 128 |
 | 20 | [samchanpanha](https://github.com/samchanpanha) | samchanpanha | Phnom Penh | 126 |
 
-Generated: 2026-10-14T23:43:39.545Z
+Generated: 2026-10-15T00:58:48.542Z

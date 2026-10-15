@@ -18,8 +18,8 @@ Indexed users: 235
 | 4 | [INGANZAMARUMPU](https://github.com/INGANZAMARUMPU) | NKURUNZIZA | Bujumbura, Burundi | 2,519 |
 | 5 | [klauskira07](https://github.com/klauskira07) | Klaus KIRA | Burundi | 2,122 |
 | 6 | [yvartpro](https://github.com/yvartpro) | Nshemezimana Yves | Bujumbura,Burundi | 1,653 |
-| 7 | [kalculata](https://github.com/kalculata) | Huzaifa Nimushimirimana | Bujumbura, Burundi | 1,540 |
-| 8 | [gatarelib](https://github.com/gatarelib) | Gatare Libère | Burundi | 1,529 |
+| 7 | [gatarelib](https://github.com/gatarelib) | Gatare Libère | Burundi | 1,529 |
+| 8 | [kalculata](https://github.com/kalculata) | Huzaifa Nimushimirimana | Bujumbura, Burundi | 1,527 |
 | 9 | [Blaise28](https://github.com/Blaise28) | MANIRAKIZA Blaise | Burundi/Bujumbura | 1,505 |
 | 10 | [Advaxe](https://github.com/Advaxe) | Advaxe Ndayisenga | Gitega-Burundi | 1,300 |
 | 11 | [tertcoder](https://github.com/tertcoder) | Bon Tertius Tuyishimire  | Bujumbura, Burundi | 1,292 |
@@ -77,10 +77,10 @@ Indexed users: 235
 | 13 | [hakichris](https://github.com/hakichris) | Christian Hakizimana | Burundi  | 45 |
 | 14 | [klauskira07](https://github.com/klauskira07) | Klaus KIRA | Burundi | 45 |
 | 15 | [ntzwilly](https://github.com/ntzwilly) | Willy NTAZAMA | Burundi | 45 |
-| 16 | [ahishakiyeyv](https://github.com/ahishakiyeyv) | Yvan Igor AHISHAKIYE | Bujumbura, Burundi | 43 |
+| 16 | [ahishakiyeyv](https://github.com/ahishakiyeyv) | Yvan Igor AHISHAKIYE | Bujumbura, Burundi | 42 |
 | 17 | [kalculata](https://github.com/kalculata) | Huzaifa Nimushimirimana | Bujumbura, Burundi | 41 |
 | 18 | [mudjaycker](https://github.com/mudjaycker) | MARYIMANA BUTOYI | Bujumbura/BURUNDI | 36 |
 | 19 | [tertcoder](https://github.com/tertcoder) | Bon Tertius Tuyishimire  | Bujumbura, Burundi | 35 |
 | 20 | [arsou2015](https://github.com/arsou2015) | Arsene Nduwayo | Burundi | 34 |
 
-Generated: 2026-10-14T23:41:29.541Z
+Generated: 2026-10-15T00:58:23.499Z

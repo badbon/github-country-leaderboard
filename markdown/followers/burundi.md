@@ -1,6 +1,6 @@
 # Followers - Burundi
 
-Generated: 2026-10-14T23:41:29.541Z
+Generated: 2026-10-15T00:58:23.499Z
 
 Users: 235
 
@@ -21,7 +21,7 @@ Users: 235
 | 13 | [hakichris](https://github.com/hakichris) | Christian Hakizimana | Tujenge Africa Foundation  | hakichris2 | Burundi  | 45 |
 | 14 | [klauskira07](https://github.com/klauskira07) | Klaus KIRA | Vortex Ltd. | klauskira07 | Burundi | 45 |
 | 15 | [ntzwilly](https://github.com/ntzwilly) | Willy NTAZAMA | Freelance Full-Stack Developer | Wntazama | Burundi | 45 |
-| 16 | [ahishakiyeyv](https://github.com/ahishakiyeyv) | Yvan Igor AHISHAKIYE |  | YvanAhishakiye | Bujumbura, Burundi | 43 |
+| 16 | [ahishakiyeyv](https://github.com/ahishakiyeyv) | Yvan Igor AHISHAKIYE |  | YvanAhishakiye | Bujumbura, Burundi | 42 |
 | 17 | [kalculata](https://github.com/kalculata) | Huzaifa Nimushimirimana | @kubwacu-entreprise  | kalculata | Bujumbura, Burundi | 41 |
 | 18 | [mudjaycker](https://github.com/mudjaycker) | MARYIMANA BUTOYI | BIOS |  | Bujumbura/BURUNDI | 36 |
 | 19 | [tertcoder](https://github.com/tertcoder) | Bon Tertius Tuyishimire  | Mediabox | bon_tertius | Bujumbura, Burundi | 35 |
