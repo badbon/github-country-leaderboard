@@ -24,8 +24,8 @@ Indexed users: 325
 | 10 | [rudrprasad05](https://github.com/rudrprasad05) | Rudr Prasad | Fiji | 921 |
 | 11 | [Eddie115-x](https://github.com/Eddie115-x) | Adrian Obadiah | SUVA | 895 |
 | 12 | [anav5704](https://github.com/anav5704) | Anav Chand | Fiji | 796 |
-| 13 | [kishkumar96](https://github.com/kishkumar96) | Kishan Chimman Kumar | Suva | 644 |
-| 14 | [rahulduttt](https://github.com/rahulduttt) | Rahul Dutt | Fiji | 626 |
+| 13 | [rahulduttt](https://github.com/rahulduttt) | Rahul Dutt | Fiji | 626 |
+| 14 | [kishkumar96](https://github.com/kishkumar96) | Kishan Chimman Kumar | Suva | 562 |
 | 15 | [kunz398](https://github.com/kunz398) | Kunal Singh | Fiji | 518 |
 | 16 | [2-fly-4-ai](https://github.com/2-fly-4-ai) | Brian farley | Suva | 502 |
 | 17 | [SRVSRR](https://github.com/SRVSRR) | Rohan Nandan | Fiji | 489 |
@@ -40,7 +40,7 @@ Indexed users: 325
 | 1 | [Amdeo](https://github.com/Amdeo) | Cooper | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1,438 |
 | 2 | [anav5704](https://github.com/anav5704) | Anav Chand | Fiji | 571 |
 | 3 | [2-fly-4-ai](https://github.com/2-fly-4-ai) | Brian farley | Suva | 502 |
-| 4 | [kishkumar96](https://github.com/kishkumar96) | Kishan Chimman Kumar | Suva | 473 |
+| 4 | [kishkumar96](https://github.com/kishkumar96) | Kishan Chimman Kumar | Suva | 471 |
 | 5 | [SMani0547](https://github.com/SMani0547) | Shiva Mani Goundar | Nadi, Fiji | 396 |
 | 6 | [alexwoo79](https://github.com/alexwoo79) | Alex_Woo | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 284 |
 | 7 | [aryann-7](https://github.com/aryann-7) | Aryan Singh | Suva, Fiji | 283 |
@@ -83,4 +83,4 @@ Indexed users: 325
 | 19 | [phpoh](https://github.com/phpoh) | phpoh | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 21 |
 | 20 | [alvinkumar18](https://github.com/alvinkumar18) | Alvin Kumar | Fiji | 18 |
 
-Generated: 2026-10-15T01:07:18.371Z
+Generated: 2026-10-15T06:00:36.725Z

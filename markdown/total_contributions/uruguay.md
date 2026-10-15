@@ -1,6 +1,6 @@
 # Total Contributions - Uruguay
 
-Generated: 2026-10-15T00:46:05.188Z
+Generated: 2026-10-15T05:31:25.809Z
 
 Users: 5619
 
@@ -10,11 +10,11 @@ Users: 5619
 | 2 | [matiaszanolli](https://github.com/matiaszanolli) | Matias Zanolli |  | TechForMusicAI | Uruguay | 23365 |
 | 3 | [jQuinRivero](https://github.com/jQuinRivero) | Joaquín Rivero |  |  | Montevideo, Uruguay | 17928 |
 | 4 | [dcadenas](https://github.com/dcadenas) | Daniel Cadenas |  | dcadenas | Montevideo, Uruguay | 13568 |
-| 5 | [EmoPorEmilio](https://github.com/EmoPorEmilio) | Emilio "Emo" Franceschini |  |  | Montevideo, Uruguay | 11515 |
-| 6 | [MateoVidalS](https://github.com/MateoVidalS) | Mateo Vidal | @pentoai  |  | Uruguay | 11113 |
-| 7 | [agurod42](https://github.com/agurod42) | Agu Rodríguez |  | agurod42 | Montevideo, Uruguay, Earth | 10131 |
-| 8 | [frankdavidcorona](https://github.com/frankdavidcorona) | Frank Corona Prendes | SynerSib Consulting SAS & Strictly | chaplindev | Montevideo, Uruguay | 10097 |
-| 9 | [ignaciogarcia-dev](https://github.com/ignaciogarcia-dev) | Ignacio García | Criptala |  | Uruguay | 9919 |
+| 5 | [ignaciogarcia-dev](https://github.com/ignaciogarcia-dev) | Ignacio García | Criptala |  | Uruguay | 11961 |
+| 6 | [EmoPorEmilio](https://github.com/EmoPorEmilio) | Emilio "Emo" Franceschini |  |  | Montevideo, Uruguay | 11515 |
+| 7 | [MateoVidalS](https://github.com/MateoVidalS) | Mateo Vidal | @pentoai  |  | Uruguay | 11113 |
+| 8 | [agurod42](https://github.com/agurod42) | Agu Rodríguez |  | agurod42 | Montevideo, Uruguay, Earth | 10131 |
+| 9 | [frankdavidcorona](https://github.com/frankdavidcorona) | Frank Corona Prendes | SynerSib Consulting SAS & Strictly | chaplindev | Montevideo, Uruguay | 10097 |
 | 10 | [figlesias221](https://github.com/figlesias221) | Federico Iglesias |  |  | Montevideo, Uruguay | 9337 |
 | 11 | [JuanFKurucz](https://github.com/JuanFKurucz) | Francisco Kurucz | @tryolabs  | juanfkurucz | Uruguay | 9097 |
 | 12 | [fausanchez](https://github.com/fausanchez) | Fausto Sanchez |  | sfaustto | Uruguay | 8580 |

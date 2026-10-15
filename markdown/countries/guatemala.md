@@ -17,8 +17,8 @@ Indexed users: 3,222
 | 3 | [oscarleonapp](https://github.com/oscarleonapp) | Oscar León | Guatemala | 9,523 |
 | 4 | [DubAvenXP](https://github.com/DubAvenXP) | Alejandro Dubon | Guatemala | 8,675 |
 | 5 | [ehvidalp](https://github.com/ehvidalp) | Edward Vidal | Guatemala | 7,824 |
-| 6 | [GeorgeLBS1](https://github.com/GeorgeLBS1) | Jose Jorge Díaz | Guatemala | 7,047 |
-| 7 | [Charlisim](https://github.com/Charlisim) | Carlos Simon | Guatemala | 6,785 |
+| 6 | [Charlisim](https://github.com/Charlisim) | Carlos Simon | Guatemala | 6,785 |
+| 7 | [GeorgeLBS1](https://github.com/GeorgeLBS1) | Jose Jorge Díaz | Guatemala | 6,725 |
 | 8 | [RudiksChess](https://github.com/RudiksChess) | Rudik Rompich | Guatemala City | 6,673 |
 | 9 | [MarioAndF](https://github.com/MarioAndF) | Mario A Flores | Guatemala | 6,585 |
 | 10 | [edman-cota](https://github.com/edman-cota) | edmancota | Guatemala | 6,100 |
@@ -83,4 +83,4 @@ Indexed users: 3,222
 | 19 | [elmergustavo](https://github.com/elmergustavo) | Gustavo (tavcode)  | Quetzaltenango, Guatemala | 119 |
 | 20 | [cms](https://github.com/cms) | Christian C. Salvadó | Guatemala | 117 |
 
-Generated: 2026-10-15T01:11:46.257Z
+Generated: 2026-10-15T06:05:09.501Z

@@ -1,6 +1,6 @@
 # Total Contributions - Togo
 
-Generated: 2026-10-15T00:42:29.791Z
+Generated: 2026-10-15T05:26:36.402Z
 
 Users: 679
 
@@ -18,8 +18,8 @@ Users: 679
 | 10 | [jeanclaudesoft](https://github.com/jeanclaudesoft) | Claudy | Coders For Togo | JeanKonou | Togo | 5706 |
 | 11 | [charlesdzadu](https://github.com/charlesdzadu) | Charles DZADU | @makifaa  | CharlesDzadu | Lomé - Togo | 5161 |
 | 12 | [sebandroidev](https://github.com/sebandroidev) | Sebastien NOGBEDJI | Wiicode | devbyseb | Lomé, TOGO | 4965 |
-| 13 | [Dreykovic](https://github.com/Dreykovic) | Birewa Audrey AMONA |  |  | Togo | 4473 |
-| 14 | [EmD-228](https://github.com/EmD-228) | Kokou DENYO |  |  | Lome-Togo | 4457 |
+| 13 | [EmD-228](https://github.com/EmD-228) | Kokou DENYO |  |  | Lome-Togo | 4491 |
+| 14 | [Dreykovic](https://github.com/Dreykovic) | Birewa Audrey AMONA |  |  | Togo | 4473 |
 | 15 | [Rahim10020](https://github.com/Rahim10020) | Rahim ALI | Freelance |  | Lome -TOGO | 4144 |
 | 16 | [Einswilli](https://github.com/Einswilli) | #Einswilli | @AllDotPy @Bluwa |  | Lomé | 3897 |
 | 17 | [Giovidoh](https://github.com/Giovidoh) | ICGreborns |  | ICG_reborns | Lomé, Togo | 3640 |

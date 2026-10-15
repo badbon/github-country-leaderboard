@@ -1,8 +1,8 @@
 # Followers - Azerbaijan
 
-Generated: 2026-10-15T00:53:13.282Z
+Generated: 2026-10-15T05:41:07.991Z
 
-Users: 5074
+Users: 5073
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

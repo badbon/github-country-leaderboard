@@ -1,6 +1,6 @@
 # Public Contributions - Ecuador
 
-Generated: 2026-10-15T01:05:14.000Z
+Generated: 2026-10-15T05:57:43.176Z
 
 Users: 4894
 
@@ -22,7 +22,7 @@ Users: 4894
 | 14 | [AndSanG](https://github.com/AndSanG) | Andrés Sánchez |  |  | Quito - Ecuador | 1927 |
 | 15 | [devsebastian44](https://github.com/devsebastian44) | Sebastian Zhunaula |  | devsebastian44 | Ecuador | 1878 |
 | 16 | [DavidAucancela](https://github.com/DavidAucancela) |  | Here and there |  | Quito, Ecuador | 1742 |
-| 17 | [itusebastian](https://github.com/itusebastian) | Sebastián Iturralde | BUOY |  | Cumbayá, Ecuador | 1665 |
-| 18 | [pedrodcsjostrom](https://github.com/pedrodcsjostrom) | Peter | @ez-donate @ioet @gdg-quito  | peterDev_ | Quito, Ecuador | 1627 |
-| 19 | [AnthonyLozadaAlexander](https://github.com/AnthonyLozadaAlexander) | zDefcon21 |  |  | Ecuador | 1573 |
-| 20 | [and27](https://github.com/and27) | Andrés Banda |  |  | Ecuador | 1558 |
+| 17 | [Alanjavier22](https://github.com/Alanjavier22) | Alan Mejia |  |  | Ecuador | 1738 |
+| 18 | [itusebastian](https://github.com/itusebastian) | Sebastián Iturralde | BUOY |  | Cumbayá, Ecuador | 1665 |
+| 19 | [pedrodcsjostrom](https://github.com/pedrodcsjostrom) | Peter | @ez-donate @ioet @gdg-quito  | peterDev_ | Quito, Ecuador | 1627 |
+| 20 | [AnthonyLozadaAlexander](https://github.com/AnthonyLozadaAlexander) | zDefcon21 |  |  | Ecuador | 1573 |

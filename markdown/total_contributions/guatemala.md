@@ -1,6 +1,6 @@
 # Total Contributions - Guatemala
 
-Generated: 2026-10-15T01:11:46.257Z
+Generated: 2026-10-15T06:05:09.501Z
 
 Users: 3222
 
@@ -11,8 +11,8 @@ Users: 3222
 | 3 | [oscarleonapp](https://github.com/oscarleonapp) | Oscar León | OSCARLEON |  | Guatemala | 9523 |
 | 4 | [DubAvenXP](https://github.com/DubAvenXP) | Alejandro Dubon | Recorrido.cl | DubonAlejandro | Guatemala | 8675 |
 | 5 | [ehvidalp](https://github.com/ehvidalp) | Edward Vidal |  | ehvidalp | Guatemala | 7824 |
-| 6 | [GeorgeLBS1](https://github.com/GeorgeLBS1) | Jose Jorge Díaz |  | JoseJorge_Diaz | Guatemala | 7047 |
-| 7 | [Charlisim](https://github.com/Charlisim) | Carlos Simon |  |  | Guatemala | 6785 |
+| 6 | [Charlisim](https://github.com/Charlisim) | Carlos Simon |  |  | Guatemala | 6785 |
+| 7 | [GeorgeLBS1](https://github.com/GeorgeLBS1) | Jose Jorge Díaz |  | JoseJorge_Diaz | Guatemala | 6725 |
 | 8 | [RudiksChess](https://github.com/RudiksChess) | Rudik Rompich | Cinco Innovative Solutions LLC | TheRudiks | Guatemala City | 6673 |
 | 9 | [MarioAndF](https://github.com/MarioAndF) | Mario A Flores | MedHue Labs LLC |  | Guatemala | 6585 |
 | 10 | [edman-cota](https://github.com/edman-cota) | edmancota | Universidad del Valle de Guatemala |  | Guatemala | 6100 |

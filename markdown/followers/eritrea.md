@@ -1,13 +1,13 @@
 # Followers - Eritrea
 
-Generated: 2026-10-15T01:05:51.067Z
+Generated: 2026-10-15T05:58:18.300Z
 
 Users: 17
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [fgaim](https://github.com/fgaim) | Fitsum Gaim | GeezLab |  | Stockholm \|\| Daejeon \|\| Asmara | 63 |
-| 2 | [afatinong](https://github.com/afatinong) | Afewerki Fkadu | @HotelAsmaraPalace | afatinong | Eritrea | 7 |
+| 2 | [afatinong](https://github.com/afatinong) | Afewerki Fkadu | @HotelAsmaraPalace | afatinong | Eritrea | 8 |
 | 3 | [aigemito](https://github.com/aigemito) | Amanuel Isack Gebreendrias | emito |  | Asmara,Eritrea | 5 |
 | 4 | [Bereket-Desbele](https://github.com/Bereket-Desbele) | Bereket Desbele Ghebregiorgis |  |  | Asmara, Eritrea | 2 |
 | 5 | [EStudioApps](https://github.com/EStudioApps) |  | EriTel Telecommunication Company |  | Asmara, Eritrea | 2 |

@@ -19,7 +19,7 @@ Indexed users: 79
 | 5 | [ndimzKM](https://github.com/ndimzKM) | Alieu Ndimbalane | Gambia | 1,319 |
 | 6 | [laminbarrow](https://github.com/laminbarrow) | Lamin Barrow | Bakoteh, Gambia | 1,305 |
 | 7 | [harunaabaldeh](https://github.com/harunaabaldeh) | Haruna A Baldeh | Banjul | 847 |
-| 8 | [Juniorbarry26](https://github.com/Juniorbarry26) | Alsainey Barry | Gambia | 743 |
+| 8 | [Juniorbarry26](https://github.com/Juniorbarry26) | Alsainey Barry | Gambia | 738 |
 | 9 | [almamarie](https://github.com/almamarie) | Louis Marie Atoluko Ayariga | Banjul, The Gambia | 654 |
 | 10 | [geniuskidkanyi](https://github.com/geniuskidkanyi) | muhammed kanyi | Gambia | 624 |
 | 11 | [deedevs](https://github.com/deedevs) | David Ladipo | Banjul, The Gambia | 606 |
@@ -48,7 +48,7 @@ Indexed users: 79
 | 9 | [Karim-Mane](https://github.com/Karim-Mane) | Karim MANE | Gambia | 156 |
 | 10 | [ONjie](https://github.com/ONjie) | Muhammed O Njie | Banjul, The Gambia | 138 |
 | 11 | [harunaabaldeh](https://github.com/harunaabaldeh) | Haruna A Baldeh | Banjul | 126 |
-| 12 | [thanos14million605](https://github.com/thanos14million605) | Ebrima Gajaga | Brikama, Gambia | 125 |
+| 12 | [thanos14million605](https://github.com/thanos14million605) | Ebrima Gajaga | Brikama, Gambia | 122 |
 | 13 | [JonMonday](https://github.com/JonMonday) | JohnMonday | Banjul, The Gambia | 88 |
 | 14 | [Sannabs](https://github.com/Sannabs) | Sanna BS Jammeh | Gambia banjul | 62 |
 | 15 | [geniuskidkanyi](https://github.com/geniuskidkanyi) | muhammed kanyi | Gambia | 61 |
@@ -67,7 +67,7 @@ Indexed users: 79
 | 3 | [deedevs](https://github.com/deedevs) | David Ladipo | Banjul, The Gambia | 26 |
 | 4 | [harunaabaldeh](https://github.com/harunaabaldeh) | Haruna A Baldeh | Banjul | 25 |
 | 5 | [kamariana](https://github.com/kamariana) | A Kamariana | Brikama, Gambia | 24 |
-| 6 | [babasalieu360](https://github.com/babasalieu360) | Momodou Salieu Jallow | Banjul, The Gambia | 17 |
+| 6 | [babasalieu360](https://github.com/babasalieu360) | Momodou Salieu Jallow | Banjul, The Gambia | 16 |
 | 7 | [mathewharb](https://github.com/mathewharb) | Mathew Harb | Gambia | 16 |
 | 8 | [PaAmatJow](https://github.com/PaAmatJow) | Pa Amat Jow | Banjul, The Gambia. | 16 |
 | 9 | [ndimzKM](https://github.com/ndimzKM) | Alieu Ndimbalane | Gambia | 14 |
@@ -83,4 +83,4 @@ Indexed users: 79
 | 19 | [nyassian](https://github.com/nyassian) | EBRIMA NYASSI | Banjul,THE GAMBIA | 8 |
 | 20 | [cyberdavinci](https://github.com/cyberdavinci) | CyberDavinci | Gambia | 7 |
 
-Generated: 2026-10-15T01:09:55.838Z
+Generated: 2026-10-15T06:02:18.629Z

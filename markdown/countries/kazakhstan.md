@@ -1,6 +1,6 @@
 # Kazakhstan
 
-Indexed users: 5,655
+Indexed users: 5,654
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 5,655
 | 19 | [Beisenbek](https://github.com/Beisenbek) | Beisenbek Baisakov | Almaty, Kazakhstan | 365 |
 | 20 | [aidarnouman](https://github.com/aidarnouman) | Aidar Nouman | Almaty, Kazakhstan | 303 |
 
-Generated: 2026-10-15T01:17:24.815Z
+Generated: 2026-10-15T06:15:35.007Z

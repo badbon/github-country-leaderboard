@@ -1,6 +1,6 @@
 # Followers - Eswatini
 
-Generated: 2026-10-15T01:06:00.660Z
+Generated: 2026-10-15T05:58:27.745Z
 
 Users: 108
 
@@ -12,7 +12,7 @@ Users: 108
 | 4 | [phume03](https://github.com/phume03) | Phumelela Mdluli | New Breed Designs (Unregistered) |  | Eswatini | 28 |
 | 5 | [brian25online](https://github.com/brian25online) | Brian Dlamini | http://www.sppra.co.sz/ |  | Lozitha, Swaziland  | 25 |
 | 6 | [SiveMdluli](https://github.com/SiveMdluli) | Sive Mdluli | Student at Microverse |  | ESwatini, Mbabane | 24 |
-| 7 | [mkhulisi](https://github.com/mkhulisi) | mkhulisi | DreamStart Labs | FakudzeMkhulisi | swaziland | 21 |
+| 7 | [mkhulisi](https://github.com/mkhulisi) | mkhulisi | DreamStart Labs | FakudzeMkhulisi | swaziland | 20 |
 | 8 | [sicelo](https://github.com/sicelo) | Sicelo |  |  | Mbabane, ESWATINI | 20 |
 | 9 | [BrianMsane](https://github.com/BrianMsane) | Brian Msane | EPH | msanebrianboss | Ezulwini, Eswatini | 17 |
 | 10 | [adekunleowolabi](https://github.com/adekunleowolabi) | Adekunle Owolabi |  | iamkstunt | Mbabane, Eswatini | 14 |

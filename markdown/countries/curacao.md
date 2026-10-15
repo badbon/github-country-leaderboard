@@ -12,7 +12,7 @@ Indexed users: 53
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [mvdgun](https://github.com/mvdgun) | Mauro van der Gun | Curaçao | 6,160 |
+| 1 | [mvdgun](https://github.com/mvdgun) | Mauro van der Gun | Curaçao | 6,174 |
 | 2 | [kloostermanw](https://github.com/kloostermanw) | Wiebe | Willemstad, Curaçao | 3,822 |
 | 3 | [flangfeldt](https://github.com/flangfeldt) | FΞLIX | Willemstad, Curacao | 3,565 |
 | 4 | [BalusC](https://github.com/BalusC) | Bauke Scholtz | Willemstad, Curaçao | 3,384 |
@@ -80,7 +80,7 @@ Indexed users: 53
 | 16 | [LuukDAO](https://github.com/LuukDAO) | LuukDAO | Curaçao | 7 |
 | 17 | [drosalia](https://github.com/drosalia) | Darrell Rosalia | Curaçao | 6 |
 | 18 | [michaelfinies](https://github.com/michaelfinies) | Michelangelo Finies | Curaçao | 6 |
-| 19 | [coinversus](https://github.com/coinversus) | CoinVersus | Curaçao | 5 |
-| 20 | [flangfeldt](https://github.com/flangfeldt) | FΞLIX | Willemstad, Curacao | 5 |
+| 19 | [theowlsden](https://github.com/theowlsden) | Shaquil Maria | Curaçao | 6 |
+| 20 | [coinversus](https://github.com/coinversus) | CoinVersus | Curaçao | 5 |
 
-Generated: 2026-10-15T01:03:11.326Z
+Generated: 2026-10-15T05:54:19.518Z

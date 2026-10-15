@@ -1,6 +1,6 @@
 # Public Contributions - Gambia
 
-Generated: 2026-10-15T01:09:55.838Z
+Generated: 2026-10-15T06:02:18.629Z
 
 Users: 79
 
@@ -17,7 +17,7 @@ Users: 79
 | 9 | [Karim-Mane](https://github.com/Karim-Mane) | Karim MANE | Medical Research Council The Gambia Unit at London School of Hygiene and Tropical medicine |  | Gambia | 156 |
 | 10 | [ONjie](https://github.com/ONjie) | Muhammed O Njie |  |  | Banjul, The Gambia | 138 |
 | 11 | [harunaabaldeh](https://github.com/harunaabaldeh) | Haruna A Baldeh | Kendesoft | farmerscoder | Banjul | 126 |
-| 12 | [thanos14million605](https://github.com/thanos14million605) | Ebrima Gajaga |  |  | Brikama, Gambia | 125 |
+| 12 | [thanos14million605](https://github.com/thanos14million605) | Ebrima Gajaga |  |  | Brikama, Gambia | 122 |
 | 13 | [JonMonday](https://github.com/JonMonday) | JohnMonday |  |  | Banjul, The Gambia | 88 |
 | 14 | [Sannabs](https://github.com/Sannabs) | Sanna BS Jammeh |  |  | Gambia banjul | 62 |
 | 15 | [geniuskidkanyi](https://github.com/geniuskidkanyi) | muhammed kanyi | Gcubed | ghostkanyi | Gambia | 61 |

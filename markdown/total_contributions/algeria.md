@@ -1,6 +1,6 @@
 # Total Contributions - Algeria
 
-Generated: 2026-10-15T00:49:43.714Z
+Generated: 2026-10-15T05:35:41.728Z
 
 Users: 5805
 
@@ -9,14 +9,14 @@ Users: 5805
 | 1 | [RAHAMNIabdelkaderseifelislem](https://github.com/RAHAMNIabdelkaderseifelislem) | RAHMANI AbdElKader Seif El Islem |  |  | Saida,Algeria | 18926 |
 | 2 | [samir1498](https://github.com/samir1498) | Samir Bettahar | ObserveOne |  | Algeria | 8238 |
 | 3 | [Achour](https://github.com/Achour) | Achour Meguenni |  |  | Algeria | 7789 |
-| 4 | [oussamasf](https://github.com/oussamasf) |  | EP | OSeffai | Algiers  | 7372 |
-| 5 | [nezlicodes](https://github.com/nezlicodes) | Lylia Nezli |  | rand0m_walk3r | Algiers, Algeria | 7090 |
-| 6 | [sedaradji](https://github.com/sedaradji) | Sdj |  |  | Algeria | 6781 |
-| 7 | [ehocine](https://github.com/ehocine) | Elhadj Hocine | @YAtechnologies | hocineelhadj | Algeria  | 6425 |
-| 8 | [ubugnu](https://github.com/ubugnu) | Bouzid Badreddine | ubugnu |  | Algeria | 6389 |
-| 9 | [aimen08](https://github.com/aimen08) | Aymen Hamza | Tote&Carry | AimenMT2 | Algeria | 6072 |
-| 10 | [s77rt](https://github.com/s77rt) | Abdelhafidh Belalia |  |  | Algeria | 5978 |
-| 11 | [xCyberpunkx](https://github.com/xCyberpunkx) | Zed | Freelancer |  | Algeria | 5238 |
+| 4 | [xCyberpunkx](https://github.com/xCyberpunkx) | Zed | Freelancer |  | Algeria | 7386 |
+| 5 | [oussamasf](https://github.com/oussamasf) |  | EP | OSeffai | Algiers  | 7372 |
+| 6 | [nezlicodes](https://github.com/nezlicodes) | Lylia Nezli |  | rand0m_walk3r | Algiers, Algeria | 7090 |
+| 7 | [sedaradji](https://github.com/sedaradji) | Sdj |  |  | Algeria | 6781 |
+| 8 | [ehocine](https://github.com/ehocine) | Elhadj Hocine | @YAtechnologies | hocineelhadj | Algeria  | 6425 |
+| 9 | [ubugnu](https://github.com/ubugnu) | Bouzid Badreddine | ubugnu |  | Algeria | 6389 |
+| 10 | [aimen08](https://github.com/aimen08) | Aymen Hamza | Tote&Carry | AimenMT2 | Algeria | 6072 |
+| 11 | [s77rt](https://github.com/s77rt) | Abdelhafidh Belalia |  |  | Algeria | 5978 |
 | 12 | [mohammedMsgm](https://github.com/mohammedMsgm) | MOHAMMED MESSEGUEM | Codefox.ai |  | Algiers, Algeria | 5232 |
 | 13 | [AMessaoudene](https://github.com/AMessaoudene) | Kweryzm | @GDGAlgiers |  | Algiers | 5180 |
 | 14 | [MoonFuji](https://github.com/MoonFuji) | Kadri Mohammed Mouncef | @Dusens-Research-Dev  |  | Algeria | 4988 |

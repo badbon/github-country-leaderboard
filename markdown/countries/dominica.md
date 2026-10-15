@@ -15,7 +15,7 @@ Indexed users: 18
 | 1 | [xeno3dev](https://github.com/xeno3dev) | Aylon Johnson | Dominica | 536 |
 | 2 | [jaheemprevost](https://github.com/jaheemprevost) | Jaheem Prevost | Dominica | 346 |
 | 3 | [crwne1](https://github.com/crwne1) | Kieron Clunes | Roseau, Dominica  | 107 |
-| 4 | [kingDebo](https://github.com/kingDebo) | Debo | Dominica, Caribbean | 94 |
+| 4 | [kingDebo](https://github.com/kingDebo) | Debo | Dominica, Caribbean | 95 |
 | 5 | [jaimonorle](https://github.com/jaimonorle) | Jaimon Orlé | Dominica | 47 |
 | 6 | [jozreel](https://github.com/jozreel) | Jozreel Laurent | Roseau, Dominica | 44 |
 | 7 | [lazarusvc](https://github.com/lazarusvc) | Austin Lazarus | Dominica | 26 |
@@ -61,11 +61,11 @@ Indexed users: 18
 | 1 | [jaimonorle](https://github.com/jaimonorle) | Jaimon Orlé | Dominica | 7 |
 | 2 | [lazarusvc](https://github.com/lazarusvc) | Austin Lazarus | Dominica | 7 |
 | 3 | [kingDebo](https://github.com/kingDebo) | Debo | Dominica, Caribbean | 6 |
-| 4 | [Nexxus-LMT](https://github.com/Nexxus-LMT) | WaitukuNexx | Dominica | 4 |
-| 5 | [xeno3dev](https://github.com/xeno3dev) | Aylon Johnson | Dominica | 4 |
-| 6 | [daedwards767](https://github.com/daedwards767) | Davidson Edwards | Commonwealth of Dominica | 3 |
-| 7 | [Emmanuel767-byte](https://github.com/Emmanuel767-byte) | Emmanuel | Dominica, The Caribbean | 3 |
-| 8 | [jaheemprevost](https://github.com/jaheemprevost) | Jaheem Prevost | Dominica | 3 |
+| 4 | [xeno3dev](https://github.com/xeno3dev) | Aylon Johnson | Dominica | 4 |
+| 5 | [daedwards767](https://github.com/daedwards767) | Davidson Edwards | Commonwealth of Dominica | 3 |
+| 6 | [Emmanuel767-byte](https://github.com/Emmanuel767-byte) | Emmanuel | Dominica, The Caribbean | 3 |
+| 7 | [jaheemprevost](https://github.com/jaheemprevost) | Jaheem Prevost | Dominica | 3 |
+| 8 | [Nexxus-LMT](https://github.com/Nexxus-LMT) | WaitukuNexx | Dominica | 3 |
 | 9 | [pembertonc](https://github.com/pembertonc) | Cedric Pemberton | Commonwealth of Dominica Roseau Comm. of Dominica West Indies | 3 |
 | 10 | [bowetech](https://github.com/bowetech) | Clive Stewart |  Dominica | 2 |
 | 11 | [crwne1](https://github.com/crwne1) | Kieron Clunes | Roseau, Dominica  | 1 |
@@ -77,4 +77,4 @@ Indexed users: 18
 | 17 | [robinsonassc](https://github.com/robinsonassc) | Edmund Robinson | Dominica | 1 |
 | 18 | [theode](https://github.com/theode) | Derrick Theophille | Dominica | 1 |
 
-Generated: 2026-10-15T01:04:33.872Z
+Generated: 2026-10-15T05:55:57.296Z
