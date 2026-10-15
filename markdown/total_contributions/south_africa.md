@@ -1,6 +1,6 @@
 # Total Contributions - South Africa
 
-Generated: 2026-10-15T21:22:04.585Z
+Generated: 2026-10-15T22:59:12.204Z
 
 Users: 17934
 
@@ -15,14 +15,14 @@ Users: 17934
 | 7 | [imranparuk](https://github.com/imranparuk) | Imran Paruk | KeyOne \| StorNxtDoor \| Exolution |  | South Africa | 22008 |
 | 8 | [JustAGhosT](https://github.com/JustAGhosT) | Jurie Smit |  |  | Gauteng, South Africa | 20445 |
 | 9 | [valkyriweb](https://github.com/valkyriweb) | Luke | Bermont Digital |  | Cape Town, South Africa | 19496 |
-| 10 | [LaurieScheepers](https://github.com/LaurieScheepers) | V>> | @CodeTonight-SA  |  | Cape Town, South Africa | 17176 |
-| 11 | [FelixTellmann](https://github.com/FelixTellmann) | Felix Tellmann | FT - Front-end Development | FelixTellmann | Cape Town | 17104 |
-| 12 | [dbfx](https://github.com/dbfx) | Dave | @Join-Panda  |  | Johannesburg, South Africa | 16427 |
-| 13 | [presidentGift](https://github.com/presidentGift) | Gift Zikalala |  | giftzikalala | South Africa | 16380 |
-| 14 | [AGM1968](https://github.com/AGM1968) |  |  |  | South Africa | 15687 |
-| 15 | [TheRealJamesRussell](https://github.com/TheRealJamesRussell) | James Russell |  |  | South Africa | 15525 |
-| 16 | [BitnationAI](https://github.com/BitnationAI) | Chad | QuantumBerry AI |  | South Africa | 15302 |
-| 17 | [edwynmoss](https://github.com/edwynmoss) | Edwyn Moss | Millennial Projects |  | Cape Town | 14732 |
-| 18 | [Schramm2](https://github.com/Schramm2) | Matthew Schramm | Ubundi |  | Cape Town, South Africa | 14715 |
-| 19 | [DG-za](https://github.com/DG-za) | Stefan Els | Elenjical Solutions |  | Pretoria, South Africa | 13794 |
-| 20 | [costa-developer](https://github.com/costa-developer) | Tendai Gumunyu | Digitalizeiq | costadeveloper | Cape Town | 13764 |
+| 10 | [costa-developer](https://github.com/costa-developer) | Tendai Gumunyu | Digitalizeiq | costadeveloper | Cape Town | 17519 |
+| 11 | [LaurieScheepers](https://github.com/LaurieScheepers) | V>> | @CodeTonight-SA  |  | Cape Town, South Africa | 17176 |
+| 12 | [FelixTellmann](https://github.com/FelixTellmann) | Felix Tellmann | FT - Front-end Development | FelixTellmann | Cape Town | 17104 |
+| 13 | [dbfx](https://github.com/dbfx) | Dave | @Join-Panda  |  | Johannesburg, South Africa | 16427 |
+| 14 | [presidentGift](https://github.com/presidentGift) | Gift Zikalala |  | giftzikalala | South Africa | 16380 |
+| 15 | [AGM1968](https://github.com/AGM1968) |  |  |  | South Africa | 15687 |
+| 16 | [TheRealJamesRussell](https://github.com/TheRealJamesRussell) | James Russell |  |  | South Africa | 15525 |
+| 17 | [BitnationAI](https://github.com/BitnationAI) | Chad | QuantumBerry AI |  | South Africa | 15302 |
+| 18 | [edwynmoss](https://github.com/edwynmoss) | Edwyn Moss | Millennial Projects |  | Cape Town | 14732 |
+| 19 | [Schramm2](https://github.com/Schramm2) | Matthew Schramm | Ubundi |  | Cape Town, South Africa | 14715 |
+| 20 | [DG-za](https://github.com/DG-za) | Stefan Els | Elenjical Solutions |  | Pretoria, South Africa | 13794 |

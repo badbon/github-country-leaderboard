@@ -18,10 +18,10 @@ Indexed users: 133
 | 4 | [d-alleyne](https://github.com/d-alleyne) | Damien Alleyne | Barbados | 3,216 |
 | 5 | [paulmiu](https://github.com/paulmiu) | Paul Miu | Barbados | 2,860 |
 | 6 | [shaquillehinds](https://github.com/shaquillehinds) | Shaquille Hinds | Barbados | 2,722 |
-| 7 | [alexlilburn](https://github.com/alexlilburn) | Alex Lilburn | Barbados | 1,863 |
+| 7 | [alexlilburn](https://github.com/alexlilburn) | Alex Lilburn | Barbados | 1,873 |
 | 8 | [Taggs](https://github.com/Taggs) | Neil Taggart | (London \|\| Barbados) && Cloud | 1,718 |
 | 9 | [FamineDT246](https://github.com/FamineDT246) | Ceejay C | Barbados | 1,510 |
-| 10 | [ShamarKellman](https://github.com/ShamarKellman) | Shamar Kellman | Barbados | 1,366 |
+| 10 | [ShamarKellman](https://github.com/ShamarKellman) | Shamar Kellman | Barbados | 1,368 |
 | 11 | [alexanderbahlk](https://github.com/alexanderbahlk) | Alexander Bahlk | Barbados | 1,328 |
 | 12 | [dario-j-c](https://github.com/dario-j-c) | Dario J C | Barbados | 1,147 |
 | 13 | [lukehefson](https://github.com/lukehefson) | Luke Hefson | Barbados | 959 |
@@ -56,7 +56,7 @@ Indexed users: 133
 | 17 | [Taggs](https://github.com/Taggs) | Neil Taggart | (London \|\| Barbados) && Cloud | 90 |
 | 18 | [starsden](https://github.com/starsden) | den | Barbados | 88 |
 | 19 | [Rayh23](https://github.com/Rayh23) | Raynel | Barbados | 81 |
-| 20 | [cgoodridge](https://github.com/cgoodridge) |  | Barbados | 61 |
+| 20 | [cgoodridge](https://github.com/cgoodridge) |  | Barbados | 62 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 133
 | 19 | [sramharack](https://github.com/sramharack) | Shankar Ramharack | St. Phillips, Barbados, W.I. | 12 |
 | 20 | [paulamelrz](https://github.com/paulamelrz) | Paula Melero | Barbados | 11 |
 
-Generated: 2026-10-15T21:40:25.612Z
+Generated: 2026-10-15T23:22:11.326Z

@@ -1,8 +1,8 @@
 # Total Contributions - Taiwan
 
-Generated: 2026-10-15T21:25:47.816Z
+Generated: 2026-10-15T23:03:36.255Z
 
-Users: 22010
+Users: 22009
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -22,7 +22,7 @@ Users: 22010
 | 14 | [ChiaYuSu](https://github.com/ChiaYuSu) | Su Chia-Yu |  |  | Taipei, Taiwan | 19537 |
 | 15 | [chxmeleon](https://github.com/chxmeleon) | Kayrin Weng |  |  | Taiwan , Taipei | 19376 |
 | 16 | [godknowspe](https://github.com/godknowspe) | Sabrina0227 |  |  | Taiwan | 19369 |
-| 17 | [jhwang09](https://github.com/jhwang09) | Jerome | @aifian-dev   |  | Taipei | 18867 |
-| 18 | [Charles5277](https://github.com/Charles5277) | Charles5277 |  |  | Taiwan | 18638 |
-| 19 | [Kuan-Lun](https://github.com/Kuan-Lun) | Kuan-Lun Wang |  |  | Taiwan | 17526 |
-| 20 | [exeex](https://github.com/exeex) | Tim Wu | AMD |  | Hsichu, Taiwan, Asia | 16546 |
+| 17 | [arthur0824hao](https://github.com/arthur0824hao) | Arthur Hao | National Taiwan Normal University |  | Taiwan | 19148 |
+| 18 | [jhwang09](https://github.com/jhwang09) | Jerome | @aifian-dev   |  | Taipei | 18867 |
+| 19 | [Charles5277](https://github.com/Charles5277) | Charles5277 |  |  | Taiwan | 18638 |
+| 20 | [Kuan-Lun](https://github.com/Kuan-Lun) | Kuan-Lun Wang |  |  | Taiwan | 17526 |

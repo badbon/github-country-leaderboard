@@ -1,6 +1,6 @@
 # Followers - Bahamas
 
-Generated: 2026-10-15T21:39:08.166Z
+Generated: 2026-10-15T23:20:49.982Z
 
 Users: 236
 
@@ -12,8 +12,8 @@ Users: 236
 | 4 | [mikkqu](https://github.com/mikkqu) | Mikhail Kalashnikov |  | mikkqu | Nassau, Bahamas | 62 |
 | 5 | [btcwoot](https://github.com/btcwoot) | btcwoot | @btcwoot | btcwootexchange | bahamas | 50 |
 | 6 | [mikepadiernos](https://github.com/mikepadiernos) | Mike Padiernos | TCS, GE Aerospace |  | Nassau County, NY | 39 |
-| 7 | [jsphpndr](https://github.com/jsphpndr) | Joseph Pinder | Clever | jsphpndr | Bahamas | 38 |
-| 8 | [Johndiddles](https://github.com/Johndiddles) | Johndiddles | Evon Medics LLC | john_diddles | Nassau, Bahamas | 37 |
+| 7 | [Johndiddles](https://github.com/Johndiddles) | Johndiddles | Evon Medics LLC | john_diddles | Nassau, Bahamas | 37 |
+| 8 | [jsphpndr](https://github.com/jsphpndr) | Joseph Pinder | Clever | jsphpndr | Bahamas | 37 |
 | 9 | [lucayepa](https://github.com/lucayepa) | Luca Venturini | CEO @token21 @yepa | lucayepa | Nassau, Bahamas | 28 |
 | 10 | [travismillerweb](https://github.com/travismillerweb) | Travis Miller | Travis Miller Web |  | Bahamas | 26 |
 | 11 | [Azure2020](https://github.com/Azure2020) |  | Azure Group of Companies Ltd  | Azuregold242 | Bahamas  | 21 |

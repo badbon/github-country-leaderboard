@@ -1,6 +1,6 @@
 # Public Contributions - Guadeloupe
 
-Generated: 2026-10-15T22:01:56.696Z
+Generated: 2026-10-15T23:44:20.813Z
 
 Users: 86
 
@@ -16,9 +16,9 @@ Users: 86
 | 8 | [Tomc1x](https://github.com/Tomc1x) | Tomy DACALOR |  |  | Basse-Terre, Guadeloupe | 72 |
 | 9 | [ntxsay](https://github.com/ntxsay) | Loïc Bastaraud |  |  | Guadeloupe | 57 |
 | 10 | [RomainLAU](https://github.com/RomainLAU) | Romain LAURENT | Sofy | AdibLeRoi | Baie-Mahault, Guadeloupe | 55 |
-| 11 | [SioTyron](https://github.com/SioTyron) | Tyron |  |  | Guadeloupe | 46 |
-| 12 | [bpoujol](https://github.com/bpoujol) | Basile Poujol | Lycée Baimbridge |  | Les Abymes, Guadeloupe | 45 |
-| 13 | [sype](https://github.com/sype) | Sebastien Pincemail | @wefactorit | wefactorit | Paris / Guadeloupe | 44 |
+| 11 | [sype](https://github.com/sype) | Sebastien Pincemail | @wefactorit | wefactorit | Paris / Guadeloupe | 47 |
+| 12 | [SioTyron](https://github.com/SioTyron) | Tyron |  |  | Guadeloupe | 46 |
+| 13 | [bpoujol](https://github.com/bpoujol) | Basile Poujol | Lycée Baimbridge |  | Les Abymes, Guadeloupe | 45 |
 | 14 | [sboli](https://github.com/sboli) | Bolivar Stephen |  | _sboli | Guadeloupe | 42 |
 | 15 | [leho971](https://github.com/leho971) | ZOZO Léo |  |  | Guadeloupe | 36 |
 | 16 | [fixups](https://github.com/fixups) | Christophe Théron |  |  | Guadeloupe | 30 |

@@ -55,8 +55,8 @@ Indexed users: 6,626
 | 16 | [hrodrig](https://github.com/hrodrig) | Hermes Rodríguez | Caracas, Venezuela | 1,848 |
 | 17 | [claucondor](https://github.com/claucondor) | Claudio Condor | Merida, Venezuela | 1,757 |
 | 18 | [JesusAraujoDEV](https://github.com/JesusAraujoDEV) | Jesús Alberto Araujo Arteaga | Valencia, Venezuela | 1,652 |
-| 19 | [joseorono](https://github.com/joseorono) | José Miguel Oroño | Maracaibo, Venezuela | 1,620 |
-| 20 | [Arviixzuh](https://github.com/Arviixzuh) |  | Venezuela | 1,584 |
+| 19 | [Arviixzuh](https://github.com/Arviixzuh) |  | Venezuela | 1,620 |
+| 20 | [joseorono](https://github.com/joseorono) | José Miguel Oroño | Maracaibo, Venezuela | 1,620 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 6,626
 | 19 | [NTBBloodbath](https://github.com/NTBBloodbath) | Alejandro | Caracas, Venezuela | 179 |
 | 20 | [KellbisJ](https://github.com/KellbisJ) | Kellbis Salazar | Venezuela / Remote | 175 |
 
-Generated: 2026-10-15T21:32:26.690Z
+Generated: 2026-10-15T23:12:29.104Z

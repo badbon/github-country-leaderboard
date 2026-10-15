@@ -31,7 +31,7 @@ Indexed users: 3,303
 | 17 | [franklinmdev](https://github.com/franklinmdev) | Franklin Martinez | Dominican Republic | 6,230 |
 | 18 | [AnthRG](https://github.com/AnthRG) | Anthony Rosario G. | Dominican Republic | 5,922 |
 | 19 | [ERPalmer](https://github.com/ERPalmer) | ERPalmer | Dominican Republic | 5,854 |
-| 20 | [Bebell-Digital-Solutions](https://github.com/Bebell-Digital-Solutions) | Bebell Digital Solutions 🚀 | Dominican Republic | 5,554 |
+| 20 | [dewynl](https://github.com/dewynl) | Dewyn Liriano | Santiago, Dominican Republic | 5,818 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 3,303
 | 19 | [eatskolnikov](https://github.com/eatskolnikov) | Enmanuel Toribio | Dominican Republic | 149 |
 | 20 | [adonismendozaperez](https://github.com/adonismendozaperez) | Adonis Mendoza  | Dominican Republic | 117 |
 
-Generated: 2026-10-15T21:54:09.288Z
+Generated: 2026-10-15T23:37:02.328Z

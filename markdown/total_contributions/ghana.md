@@ -1,6 +1,6 @@
 # Total Contributions - Ghana
 
-Generated: 2026-10-15T22:00:35.907Z
+Generated: 2026-10-15T23:42:26.765Z
 
 Users: 7097
 
@@ -18,11 +18,11 @@ Users: 7097
 | 10 | [Gideon-Dadey](https://github.com/Gideon-Dadey) | Gideon Dadey | PragmaHealth LLC | cannymirah | Accra, Ghana | 9758 |
 | 11 | [qbentil](https://github.com/qbentil) | Bentil Shadrack |  | themanbentil | Ghana | 9624 |
 | 12 | [Eselase-Noble](https://github.com/Eselase-Noble) | Nobleson | AfricodeLab | brandedhustler | Accra | 9406 |
-| 13 | [rloterh](https://github.com/rloterh) | Robert Loterh | Data Analyst/ Full-stack Engineer | Rloterh | Accra Ghana | 8556 |
-| 14 | [seidu626](https://github.com/seidu626) | Seidu Abdulai | student |  | Ghana | 8537 |
-| 15 | [lutheralien](https://github.com/lutheralien) | Luther Essum | Esopht Technologies Limited  | lutheralien | Ghana | 8379 |
-| 16 | [worlakodzo](https://github.com/worlakodzo) | Worlako Dzokoto |  | worlakodzo | GHANA | 8363 |
-| 17 | [kelvinagyareyeboah](https://github.com/kelvinagyareyeboah) | Kelvin Agyare Yeboah | Zoharix | _yo_kelvin | Accra | 8288 |
-| 18 | [richprince23](https://github.com/richprince23) | Richard Kweku Aikins | Suptle Solutions Ltd | TheAikinsGuy | Accra | 8282 |
-| 19 | [AdamsEugene](https://github.com/AdamsEugene) | Adams Eugene | JLS |  | Ghana | 8172 |
-| 20 | [Raymond-ap](https://github.com/Raymond-ap) | Apungu Raymond | @AsaseOS |  | Ghana, Accra | 8058 |
+| 13 | [evansachie](https://github.com/evansachie) | Evans Acheampong |  |  | Accra, Ghana | 9348 |
+| 14 | [rloterh](https://github.com/rloterh) | Robert Loterh | Data Analyst/ Full-stack Engineer | Rloterh | Accra Ghana | 8556 |
+| 15 | [seidu626](https://github.com/seidu626) | Seidu Abdulai | student |  | Ghana | 8537 |
+| 16 | [lutheralien](https://github.com/lutheralien) | Luther Essum | Esopht Technologies Limited  | lutheralien | Ghana | 8379 |
+| 17 | [worlakodzo](https://github.com/worlakodzo) | Worlako Dzokoto |  | worlakodzo | GHANA | 8363 |
+| 18 | [kelvinagyareyeboah](https://github.com/kelvinagyareyeboah) | Kelvin Agyare Yeboah | Zoharix | _yo_kelvin | Accra | 8288 |
+| 19 | [richprince23](https://github.com/richprince23) | Richard Kweku Aikins | Suptle Solutions Ltd | TheAikinsGuy | Accra | 8282 |
+| 20 | [AdamsEugene](https://github.com/AdamsEugene) | Adams Eugene | JLS |  | Ghana | 8172 |

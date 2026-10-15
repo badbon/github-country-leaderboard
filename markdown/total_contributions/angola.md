@@ -1,6 +1,6 @@
 # Total Contributions - Angola
 
-Generated: 2026-10-15T21:36:37.008Z
+Generated: 2026-10-15T23:17:47.657Z
 
 Users: 2503
 
@@ -22,7 +22,7 @@ Users: 2503
 | 14 | [osvaldowafulua](https://github.com/osvaldowafulua) | Osvaldo Wafulua | Smart Cloud |  | Angola | 4952 |
 | 15 | [noejunior299](https://github.com/noejunior299) | Noé Idagi | ITEL - Institute of Telecomunications | noejunior299 | Angola/Luanda | 4947 |
 | 16 | [overlineink](https://github.com/overlineink) | 𝔍𝖔𝖗𝖌𝖊 𝕮𝖔𝖘𝖙𝖆 | Principal Frontend Engineer @ Appy People, Co-Founder of @businx | overlineink | Luanda, Angola | 3700 |
-| 17 | [BaziotaBeans](https://github.com/BaziotaBeans) | Fábio Baziota |  | baziota | Angola/Luanda | 3546 |
-| 18 | [euclidesdry](https://github.com/euclidesdry) | Ëüclïdës DRY | @TripeeApp | euclidesdry | Belas, Luanda - Angola | 3529 |
-| 19 | [CesaltinoFelix](https://github.com/CesaltinoFelix) | Cesaltino Félix | 42 Luanda |  | Luanda | 3512 |
-| 20 | [AntonioSebastiaoPedro](https://github.com/AntonioSebastiaoPedro) | António Sebastião Pedro |  |  | Morro Bento, Luanda, Angola | 3489 |
+| 17 | [steviejames](https://github.com/steviejames) | Sílvio Dumba |  |  | Luanda, Angola | 3691 |
+| 18 | [BaziotaBeans](https://github.com/BaziotaBeans) | Fábio Baziota |  | baziota | Angola/Luanda | 3546 |
+| 19 | [euclidesdry](https://github.com/euclidesdry) | Ëüclïdës DRY | @TripeeApp | euclidesdry | Belas, Luanda - Angola | 3529 |
+| 20 | [CesaltinoFelix](https://github.com/CesaltinoFelix) | Cesaltino Félix | 42 Luanda |  | Luanda | 3512 |

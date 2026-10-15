@@ -12,12 +12,12 @@ Indexed users: 86
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [sype](https://github.com/sype) | Sebastien Pincemail | Paris / Guadeloupe | 6,324 |
+| 1 | [sype](https://github.com/sype) | Sebastien Pincemail | Paris / Guadeloupe | 6,343 |
 | 2 | [JoDrm](https://github.com/JoDrm) | Jodrm | Guadeloupe | 3,214 |
-| 3 | [macojaune](https://github.com/macojaune) | macojaune | Guadeloupe | 2,224 |
+| 3 | [macojaune](https://github.com/macojaune) | macojaune | Guadeloupe | 2,248 |
 | 4 | [kvaillant](https://github.com/kvaillant) | Karl Vaillant | Guadeloupe, West-Indies | 1,749 |
 | 5 | [gbaccetta](https://github.com/gbaccetta) | Giovanni Accetta | Guadeloupe | 1,645 |
-| 6 | [iamcryptoki](https://github.com/iamcryptoki) | Gael Gentil | Guadeloupe | 1,434 |
+| 6 | [iamcryptoki](https://github.com/iamcryptoki) | Gael Gentil | Guadeloupe | 1,440 |
 | 7 | [Gaelle-charles](https://github.com/Gaelle-charles) | Gaëlle CHARLES-BELAMOUR | Guadeloupe (FWI) | 1,393 |
 | 8 | [liobrasil](https://github.com/liobrasil) | Lionel LIMOL | Guadeloupe | 943 |
 | 9 | [r1d](https://github.com/r1d) | Eric Degoul | Sainte-Anne, Guadeloupe | 731 |
@@ -47,9 +47,9 @@ Indexed users: 86
 | 8 | [Tomc1x](https://github.com/Tomc1x) | Tomy DACALOR | Basse-Terre, Guadeloupe | 72 |
 | 9 | [ntxsay](https://github.com/ntxsay) | Loïc Bastaraud | Guadeloupe | 57 |
 | 10 | [RomainLAU](https://github.com/RomainLAU) | Romain LAURENT | Baie-Mahault, Guadeloupe | 55 |
-| 11 | [SioTyron](https://github.com/SioTyron) | Tyron | Guadeloupe | 46 |
-| 12 | [bpoujol](https://github.com/bpoujol) | Basile Poujol | Les Abymes, Guadeloupe | 45 |
-| 13 | [sype](https://github.com/sype) | Sebastien Pincemail | Paris / Guadeloupe | 44 |
+| 11 | [sype](https://github.com/sype) | Sebastien Pincemail | Paris / Guadeloupe | 47 |
+| 12 | [SioTyron](https://github.com/SioTyron) | Tyron | Guadeloupe | 46 |
+| 13 | [bpoujol](https://github.com/bpoujol) | Basile Poujol | Les Abymes, Guadeloupe | 45 |
 | 14 | [sboli](https://github.com/sboli) | Bolivar Stephen | Guadeloupe | 42 |
 | 15 | [leho971](https://github.com/leho971) | ZOZO Léo | Guadeloupe | 36 |
 | 16 | [fixups](https://github.com/fixups) | Christophe Théron | Guadeloupe | 30 |
@@ -83,4 +83,4 @@ Indexed users: 86
 | 19 | [fg8oj](https://github.com/fg8oj) | Bertrand Demarcq FG8OJ/AG8OJ | Guadeloupe | 6 |
 | 20 | [kvaillant](https://github.com/kvaillant) | Karl Vaillant | Guadeloupe, West-Indies | 6 |
 
-Generated: 2026-10-15T22:01:56.696Z
+Generated: 2026-10-15T23:44:20.813Z

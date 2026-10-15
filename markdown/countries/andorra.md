@@ -26,12 +26,12 @@ Indexed users: 214
 | 12 | [jorge07](https://github.com/jorge07) | Jorge Arco | Escaldes, Andorra | 4,937 |
 | 13 | [cmarfil](https://github.com/cmarfil) | Cristian Marfil | Andorra | 4,280 |
 | 14 | [cuva](https://github.com/cuva) | Hugo Cuvillier | Andorra | 4,230 |
-| 15 | [kopenkinda](https://github.com/kopenkinda) | Kopenkin Dmitrii | Andorra | 3,992 |
+| 15 | [kopenkinda](https://github.com/kopenkinda) | Kopenkin Dmitrii | Andorra | 4,038 |
 | 16 | [sgirones](https://github.com/sgirones) | Salvador Gironès Gil | Andorra | 3,466 |
 | 17 | [ColColty](https://github.com/ColColty) | Tomàs Forné Cappeau | Andorra | 3,434 |
 | 18 | [dvdjmnz](https://github.com/dvdjmnz) | David Jiménez | Andorra | 3,390 |
 | 19 | [GRKdev](https://github.com/GRKdev) | G.R.K. | Andorra | 3,112 |
-| 20 | [guillemfrancisco](https://github.com/guillemfrancisco) | Guillem Francisco | Andorra | 2,832 |
+| 20 | [FaZeTitans](https://github.com/FaZeTitans) | Axel DA SILVA | Andorra | 2,893 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 214
 | 19 | [ysb33r](https://github.com/ysb33r) | Schalk W. Cronjé | Andorra | 63 |
 | 20 | [castrolem](https://github.com/castrolem) | Luis Castro | Andorra la Vella, Andorra | 59 |
 
-Generated: 2026-10-15T21:35:58.306Z
+Generated: 2026-10-15T23:17:44.855Z

@@ -19,7 +19,7 @@ Indexed users: 53
 | 5 | [dwarfland](https://github.com/dwarfland) | marc hoffman | Curaçao | 1,435 |
 | 6 | [GilbertoFraaij](https://github.com/GilbertoFraaij) |  | Curacao, Netherlands Antilles | 1,259 |
 | 7 | [frankgeerlings](https://github.com/frankgeerlings) | Frank Geerlings | Curaçao | 918 |
-| 8 | [drosalia](https://github.com/drosalia) | Darrell Rosalia | Curaçao | 908 |
+| 8 | [drosalia](https://github.com/drosalia) | Darrell Rosalia | Curaçao | 912 |
 | 9 | [JObersi10](https://github.com/JObersi10) |  | Willemstad, Curaçao | 472 |
 | 10 | [emile2600](https://github.com/emile2600) | Emile | Willemstad, Curacao | 380 |
 | 11 | [acesuares](https://github.com/acesuares) | Ace Suares | Willemstad, Netherlands Antilles | 253 |
@@ -83,4 +83,4 @@ Indexed users: 53
 | 19 | [theowlsden](https://github.com/theowlsden) | Shaquil Maria | Curaçao | 6 |
 | 20 | [coinversus](https://github.com/coinversus) | CoinVersus | Curaçao | 5 |
 
-Generated: 2026-10-15T21:50:24.634Z
+Generated: 2026-10-15T23:34:13.077Z

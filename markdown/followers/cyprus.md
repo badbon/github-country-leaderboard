@@ -1,6 +1,6 @@
 # Followers - Cyprus
 
-Generated: 2026-10-15T08:46:45.811Z
+Generated: 2026-10-15T23:35:42.782Z
 
 Users: 2731
 
@@ -24,5 +24,5 @@ Users: 2731
 | 16 | [merikbest](https://github.com/merikbest) | Miroslav  Khotinskiy |  |  | Cyprus | 302 |
 | 17 | [paracycle](https://github.com/paracycle) | Ufuk Kayserilioglu | @Shopify | paracycle | Nicosia, Cyprus | 294 |
 | 18 | [sudoguy](https://github.com/sudoguy) | Evgeny Kemerov | @semrush |  | Limassol, Cyprus | 251 |
-| 19 | [polterguy](https://github.com/polterguy) | Thomas Hansen | AINIRO.IO | AIniroTeam | Cyprus | 243 |
+| 19 | [polterguy](https://github.com/polterguy) | Thomas Hansen | AINIRO.IO | AIniroTeam | Cyprus | 245 |
 | 20 | [kstep](https://github.com/kstep) | Konstantin Stepanov | Finance |  | Cyprus | 241 |

@@ -1,6 +1,6 @@
 # Public Contributions - Antarctica
 
-Generated: 2026-10-15T21:37:48.633Z
+Generated: 2026-10-15T23:18:35.015Z
 
 Users: 459
 
@@ -11,7 +11,7 @@ Users: 459
 | 3 | [morgaesis](https://github.com/morgaesis) | Mörgæsis |  |  | Antarctica | 3520 |
 | 4 | [ethicnology](https://github.com/ethicnology) | Azad | @SatoshiPortal  |  | Antarctica | 3035 |
 | 5 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Lapr Inc. |  | Antarctica | 3030 |
-| 6 | [PicasoTheDeal](https://github.com/PicasoTheDeal) | Tetstack |  |  | Antarctica | 2772 |
+| 6 | [PicasoTheDeal](https://github.com/PicasoTheDeal) | Tetstack |  |  | Antarctica | 2874 |
 | 7 | [shangyian](https://github.com/shangyian) | Yian |  |  | Antarctica | 2158 |
 | 8 | [krwg](https://github.com/krwg) | アイダ ミール | Google University |  | Antarctica | 1465 |
 | 9 | [enriquephl](https://github.com/enriquephl) |  | EtherFun Lab |  | Antarctica | 1380 |
@@ -24,5 +24,5 @@ Users: 459
 | 16 | [oniaz](https://github.com/oniaz) | Omnia |  |  | antarctica | 517 |
 | 17 | [Daedalus-code](https://github.com/Daedalus-code) |  |  |  | Antarctica | 472 |
 | 18 | [AuroraLantean](https://github.com/AuroraLantean) | AuroraLantean  |  | raymondlweb3 | Antarctica | 450 |
-| 19 | [healingdrawing](https://github.com/healingdrawing) | Healing Drawing |  | healingdrawing | Antarctica | 440 |
-| 20 | [bestruirui](https://github.com/bestruirui) | BESTRUI |  |  | Antarctica | 437 |
+| 19 | [bestruirui](https://github.com/bestruirui) | BESTRUI |  |  | Antarctica | 440 |
+| 20 | [healingdrawing](https://github.com/healingdrawing) | Healing Drawing |  | healingdrawing | Antarctica | 440 |

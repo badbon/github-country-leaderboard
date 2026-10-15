@@ -1,6 +1,6 @@
 # Taiwan
 
-Indexed users: 22,010
+Indexed users: 22,009
 
 | Leaderboard | Link |
 |---|---|
@@ -28,10 +28,10 @@ Indexed users: 22,010
 | 14 | [ChiaYuSu](https://github.com/ChiaYuSu) | Su Chia-Yu | Taipei, Taiwan | 19,537 |
 | 15 | [chxmeleon](https://github.com/chxmeleon) | Kayrin Weng | Taiwan , Taipei | 19,376 |
 | 16 | [godknowspe](https://github.com/godknowspe) | Sabrina0227 | Taiwan | 19,369 |
-| 17 | [jhwang09](https://github.com/jhwang09) | Jerome | Taipei | 18,867 |
-| 18 | [Charles5277](https://github.com/Charles5277) | Charles5277 | Taiwan | 18,638 |
-| 19 | [Kuan-Lun](https://github.com/Kuan-Lun) | Kuan-Lun Wang | Taiwan | 17,526 |
-| 20 | [exeex](https://github.com/exeex) | Tim Wu | Hsichu, Taiwan, Asia | 16,546 |
+| 17 | [arthur0824hao](https://github.com/arthur0824hao) | Arthur Hao | Taiwan | 19,148 |
+| 18 | [jhwang09](https://github.com/jhwang09) | Jerome | Taipei | 18,867 |
+| 19 | [Charles5277](https://github.com/Charles5277) | Charles5277 | Taiwan | 18,638 |
+| 20 | [Kuan-Lun](https://github.com/Kuan-Lun) | Kuan-Lun Wang | Taiwan | 17,526 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 22,010
 | 19 | [kaochenlong](https://github.com/kaochenlong) | Eddie Kao 高見龍 | Taiwan, Taipei | 1,655 |
 | 20 | [aaaddress1](https://github.com/aaaddress1) | Sheng-Hao Ma | Taiwan | 1,518 |
 
-Generated: 2026-10-15T21:25:47.816Z
+Generated: 2026-10-15T23:03:36.255Z

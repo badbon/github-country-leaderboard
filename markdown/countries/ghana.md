@@ -24,14 +24,14 @@ Indexed users: 7,097
 | 10 | [Gideon-Dadey](https://github.com/Gideon-Dadey) | Gideon Dadey | Accra, Ghana | 9,758 |
 | 11 | [qbentil](https://github.com/qbentil) | Bentil Shadrack | Ghana | 9,624 |
 | 12 | [Eselase-Noble](https://github.com/Eselase-Noble) | Nobleson | Accra | 9,406 |
-| 13 | [rloterh](https://github.com/rloterh) | Robert Loterh | Accra Ghana | 8,556 |
-| 14 | [seidu626](https://github.com/seidu626) | Seidu Abdulai | Ghana | 8,537 |
-| 15 | [lutheralien](https://github.com/lutheralien) | Luther Essum | Ghana | 8,379 |
-| 16 | [worlakodzo](https://github.com/worlakodzo) | Worlako Dzokoto | GHANA | 8,363 |
-| 17 | [kelvinagyareyeboah](https://github.com/kelvinagyareyeboah) | Kelvin Agyare Yeboah | Accra | 8,288 |
-| 18 | [richprince23](https://github.com/richprince23) | Richard Kweku Aikins | Accra | 8,282 |
-| 19 | [AdamsEugene](https://github.com/AdamsEugene) | Adams Eugene | Ghana | 8,172 |
-| 20 | [Raymond-ap](https://github.com/Raymond-ap) | Apungu Raymond | Ghana, Accra | 8,058 |
+| 13 | [evansachie](https://github.com/evansachie) | Evans Acheampong | Accra, Ghana | 9,348 |
+| 14 | [rloterh](https://github.com/rloterh) | Robert Loterh | Accra Ghana | 8,556 |
+| 15 | [seidu626](https://github.com/seidu626) | Seidu Abdulai | Ghana | 8,537 |
+| 16 | [lutheralien](https://github.com/lutheralien) | Luther Essum | Ghana | 8,379 |
+| 17 | [worlakodzo](https://github.com/worlakodzo) | Worlako Dzokoto | GHANA | 8,363 |
+| 18 | [kelvinagyareyeboah](https://github.com/kelvinagyareyeboah) | Kelvin Agyare Yeboah | Accra | 8,288 |
+| 19 | [richprince23](https://github.com/richprince23) | Richard Kweku Aikins | Accra | 8,282 |
+| 20 | [AdamsEugene](https://github.com/AdamsEugene) | Adams Eugene | Ghana | 8,172 |
 
 ## Public Contributions
 
@@ -63,19 +63,19 @@ Indexed users: 7,097
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [ortonb110](https://github.com/ortonb110) | Bright Kobe Orton | Accra Ghana | 1,587 |
-| 2 | [Netcode-Hub](https://github.com/Netcode-Hub) | Netcode-Hub | Accra - Ghana | 961 |
+| 2 | [Netcode-Hub](https://github.com/Netcode-Hub) | Netcode-Hub | Accra - Ghana | 963 |
 | 3 | [iamEtornam](https://github.com/iamEtornam) | Bright Etornam Sunu  | Accra, Ghana | 622 |
 | 4 | [wycliffecomputerdoc](https://github.com/wycliffecomputerdoc) | Gyambibi Wycliffe Kwame | Ghana | 602 |
 | 5 | [elidotco](https://github.com/elidotco) | Ebenezer Ametepeh | Ghana | 518 |
 | 6 | [david-legend](https://github.com/david-legend) | David-Legend | GHANA | 513 |
 | 7 | [qbentil](https://github.com/qbentil) | Bentil Shadrack | Ghana | 456 |
 | 8 | [codejoetheduke](https://github.com/codejoetheduke) | Duke Kojo Kongo | Accra, Ghana | 454 |
-| 9 | [Burkifa23](https://github.com/Burkifa23) | Frank Kwizera | Ghana, Berekuso | 452 |
-| 10 | [Williano](https://github.com/Williano) | William Kpabitey Kwabla | Kumasi, Ghana | 443 |
+| 9 | [Williano](https://github.com/Williano) | William Kpabitey Kwabla | Kumasi, Ghana | 443 |
+| 10 | [Burkifa23](https://github.com/Burkifa23) | Frank Kwizera | Ghana, Berekuso | 430 |
 | 11 | [Cittykitten](https://github.com/Cittykitten) | Tegah Tiana |  Ghana | 404 |
 | 12 | [Origina-sudo](https://github.com/Origina-sudo) | Benjamin Arthur | Ghana | 388 |
 | 13 | [quintincodes](https://github.com/quintincodes) | Edward King Quintin-Sey | Ghana | 357 |
-| 14 | [hunterxcobby](https://github.com/hunterxcobby) | Cobby Sefah Solomon | Accra, Ghana | 356 |
+| 14 | [hunterxcobby](https://github.com/hunterxcobby) | Cobby Sefah Solomon | Accra, Ghana | 355 |
 | 15 | [tothepointcode](https://github.com/tothepointcode) | Terra Andoh Baffoe | Ghana | 353 |
 | 16 | [codeoverdoze](https://github.com/codeoverdoze) | Codeoverdoze | Accra, Ghana | 342 |
 | 17 | [blackmann](https://github.com/blackmann) | Degreat | Ghana | 335 |
@@ -83,4 +83,4 @@ Indexed users: 7,097
 | 19 | [Mmabiaa](https://github.com/Mmabiaa) | Boateng Prince Agyenim | Ghana | 326 |
 | 20 | [sedegah](https://github.com/sedegah) | Kimathi  Sedegah | Ghana | 310 |
 
-Generated: 2026-10-15T22:00:35.907Z
+Generated: 2026-10-15T23:42:26.765Z

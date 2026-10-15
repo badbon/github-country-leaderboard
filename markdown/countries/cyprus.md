@@ -12,11 +12,11 @@ Indexed users: 2,731
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [programmeradu](https://github.com/programmeradu) | Samuel Adu-Berekorang | nicosia, cyprus | 23,421 |
-| 2 | [linegel](https://github.com/linegel) | Eugène P. | Limassol, Cyprus | 22,798 |
-| 3 | [denizgolbas](https://github.com/denizgolbas) | Deniz Gölbaş | Cyprus | 19,015 |
-| 4 | [megasteve19](https://github.com/megasteve19) | Abdulkadir Cemiloğlu | Cyprus, Nicosia | 17,697 |
-| 5 | [andreasasprou](https://github.com/andreasasprou) | Andreas Asprou | Cyprus | 15,657 |
+| 1 | [andreasasprou](https://github.com/andreasasprou) | Andreas Asprou | Cyprus | 24,606 |
+| 2 | [programmeradu](https://github.com/programmeradu) | Samuel Adu-Berekorang | nicosia, cyprus | 23,421 |
+| 3 | [linegel](https://github.com/linegel) | Eugène P. | Limassol, Cyprus | 22,798 |
+| 4 | [denizgolbas](https://github.com/denizgolbas) | Deniz Gölbaş | Cyprus | 19,015 |
+| 5 | [megasteve19](https://github.com/megasteve19) | Abdulkadir Cemiloğlu | Cyprus, Nicosia | 17,697 |
 | 6 | [ei-grad](https://github.com/ei-grad) | Andrew Grigorev | Limassol, Cyprus | 14,588 |
 | 7 | [openmindednewby](https://github.com/openmindednewby) | Demetrios Loizides | Cyprus | 14,379 |
 | 8 | [servitola](https://github.com/servitola) | Adik Servitola | Cyprus | 14,035 |
@@ -80,7 +80,7 @@ Indexed users: 2,731
 | 16 | [merikbest](https://github.com/merikbest) | Miroslav  Khotinskiy | Cyprus | 302 |
 | 17 | [paracycle](https://github.com/paracycle) | Ufuk Kayserilioglu | Nicosia, Cyprus | 294 |
 | 18 | [sudoguy](https://github.com/sudoguy) | Evgeny Kemerov | Limassol, Cyprus | 251 |
-| 19 | [polterguy](https://github.com/polterguy) | Thomas Hansen | Cyprus | 243 |
+| 19 | [polterguy](https://github.com/polterguy) | Thomas Hansen | Cyprus | 245 |
 | 20 | [kstep](https://github.com/kstep) | Konstantin Stepanov | Cyprus | 241 |
 
-Generated: 2026-10-15T08:46:45.811Z
+Generated: 2026-10-15T23:35:42.782Z

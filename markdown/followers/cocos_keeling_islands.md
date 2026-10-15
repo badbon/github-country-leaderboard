@@ -1,6 +1,6 @@
 # Followers - Cocos (Keeling) Islands
 
-Generated: 2026-10-15T21:48:41.391Z
+Generated: 2026-10-15T23:31:34.302Z
 
 Users: 9
 
@@ -10,7 +10,7 @@ Users: 9
 | 2 | [getsalmon](https://github.com/getsalmon) | nton |  |  | Cocos Islands | 9 |
 | 3 | [chullybun](https://github.com/chullybun) | Eric Sibly [chullybun] |  |  | West Island of New Zealand (aka Australia) | 7 |
 | 4 | [freakaton](https://github.com/freakaton) | Ivan Lavrenov |  |  | Cocos Islands | 7 |
-| 5 | [gonsergey](https://github.com/gonsergey) | Sergey |  |  | Cocos Islands | 4 |
+| 5 | [gonsergey](https://github.com/gonsergey) | Sergey |  |  | Cocos Islands | 5 |
 | 6 | [ivla-bit](https://github.com/ivla-bit) | Казаніков Ілля |  |  | Cocos Islands | 3 |
 | 7 | [Dmzll](https://github.com/Dmzll) | Dmzll |  |  | Keeling Islands | 2 |
 | 8 | [Nepoymi](https://github.com/Nepoymi) | Abrakham Baderman |  |  | Cocos Islands | 1 |

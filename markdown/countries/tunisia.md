@@ -23,15 +23,15 @@ Indexed users: 7,181
 | 9 | [ifaouibadi](https://github.com/ifaouibadi) | Badi Ifaoui | Tunisia | 7,694 |
 | 10 | [amine-y](https://github.com/amine-y) | Amine Yaakoubi | Tunisia | 7,123 |
 | 11 | [omar-cherif](https://github.com/omar-cherif) | Omar CHERIF | Tunisia | 7,081 |
-| 12 | [safwendammak](https://github.com/safwendammak) | Safwen | Tunisia | 5,984 |
-| 13 | [lord007tn](https://github.com/lord007tn) | Raed Bahri | Tunisia | 5,892 |
-| 14 | [taghoutikeyrus](https://github.com/taghoutikeyrus) | Tarek Taghouti | Tunisia | 5,564 |
-| 15 | [baderdean](https://github.com/baderdean) | Badreddine Lejmi | Tunisia | 5,480 |
-| 16 | [3omartn](https://github.com/3omartn) | omar jemli | Tunisia | 5,258 |
-| 17 | [Ylandolsi](https://github.com/Ylandolsi) | Mohamed Yassine Landolsi  | Tunisia ,  Sousse ,  Msaken | 5,161 |
-| 18 | [anisossss](https://github.com/anisossss) | AnisKhalef | Tunisia | 4,993 |
-| 19 | [abbassi-ahmed](https://github.com/abbassi-ahmed) | Abbassiahmed | Tunisia | 4,962 |
-| 20 | [BouajilaHamza](https://github.com/BouajilaHamza) | Hamza Bouajila | Tunisia | 4,841 |
+| 12 | [njraladdin](https://github.com/njraladdin) | Aladdin Najjar | Tunisia | 6,017 |
+| 13 | [safwendammak](https://github.com/safwendammak) | Safwen | Tunisia | 5,984 |
+| 14 | [lord007tn](https://github.com/lord007tn) | Raed Bahri | Tunisia | 5,892 |
+| 15 | [taghoutikeyrus](https://github.com/taghoutikeyrus) | Tarek Taghouti | Tunisia | 5,564 |
+| 16 | [baderdean](https://github.com/baderdean) | Badreddine Lejmi | Tunisia | 5,480 |
+| 17 | [3omartn](https://github.com/3omartn) | omar jemli | Tunisia | 5,258 |
+| 18 | [Ylandolsi](https://github.com/Ylandolsi) | Mohamed Yassine Landolsi  | Tunisia ,  Sousse ,  Msaken | 5,161 |
+| 19 | [anisossss](https://github.com/anisossss) | AnisKhalef | Tunisia | 4,993 |
+| 20 | [abbassi-ahmed](https://github.com/abbassi-ahmed) | Abbassiahmed | Tunisia | 4,962 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 7,181
 | 19 | [zied-snoussi](https://github.com/zied-snoussi) | Zied Snoussi | Tunisia | 522 |
 | 20 | [machour](https://github.com/machour) | Mehdi Achour | Tunisia | 483 |
 
-Generated: 2026-10-15T21:29:01.245Z
+Generated: 2026-10-15T23:06:54.776Z

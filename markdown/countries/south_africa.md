@@ -21,17 +21,17 @@ Indexed users: 17,934
 | 7 | [imranparuk](https://github.com/imranparuk) | Imran Paruk | South Africa | 22,008 |
 | 8 | [JustAGhosT](https://github.com/JustAGhosT) | Jurie Smit | Gauteng, South Africa | 20,445 |
 | 9 | [valkyriweb](https://github.com/valkyriweb) | Luke | Cape Town, South Africa | 19,496 |
-| 10 | [LaurieScheepers](https://github.com/LaurieScheepers) | V>> | Cape Town, South Africa | 17,176 |
-| 11 | [FelixTellmann](https://github.com/FelixTellmann) | Felix Tellmann | Cape Town | 17,104 |
-| 12 | [dbfx](https://github.com/dbfx) | Dave | Johannesburg, South Africa | 16,427 |
-| 13 | [presidentGift](https://github.com/presidentGift) | Gift Zikalala | South Africa | 16,380 |
-| 14 | [AGM1968](https://github.com/AGM1968) |  | South Africa | 15,687 |
-| 15 | [TheRealJamesRussell](https://github.com/TheRealJamesRussell) | James Russell | South Africa | 15,525 |
-| 16 | [BitnationAI](https://github.com/BitnationAI) | Chad | South Africa | 15,302 |
-| 17 | [edwynmoss](https://github.com/edwynmoss) | Edwyn Moss | Cape Town | 14,732 |
-| 18 | [Schramm2](https://github.com/Schramm2) | Matthew Schramm | Cape Town, South Africa | 14,715 |
-| 19 | [DG-za](https://github.com/DG-za) | Stefan Els | Pretoria, South Africa | 13,794 |
-| 20 | [costa-developer](https://github.com/costa-developer) | Tendai Gumunyu | Cape Town | 13,764 |
+| 10 | [costa-developer](https://github.com/costa-developer) | Tendai Gumunyu | Cape Town | 17,519 |
+| 11 | [LaurieScheepers](https://github.com/LaurieScheepers) | V>> | Cape Town, South Africa | 17,176 |
+| 12 | [FelixTellmann](https://github.com/FelixTellmann) | Felix Tellmann | Cape Town | 17,104 |
+| 13 | [dbfx](https://github.com/dbfx) | Dave | Johannesburg, South Africa | 16,427 |
+| 14 | [presidentGift](https://github.com/presidentGift) | Gift Zikalala | South Africa | 16,380 |
+| 15 | [AGM1968](https://github.com/AGM1968) |  | South Africa | 15,687 |
+| 16 | [TheRealJamesRussell](https://github.com/TheRealJamesRussell) | James Russell | South Africa | 15,525 |
+| 17 | [BitnationAI](https://github.com/BitnationAI) | Chad | South Africa | 15,302 |
+| 18 | [edwynmoss](https://github.com/edwynmoss) | Edwyn Moss | Cape Town | 14,732 |
+| 19 | [Schramm2](https://github.com/Schramm2) | Matthew Schramm | Cape Town, South Africa | 14,715 |
+| 20 | [DG-za](https://github.com/DG-za) | Stefan Els | Pretoria, South Africa | 13,794 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 17,934
 | 19 | [peterp](https://github.com/peterp) | Peter Pistorius | South Africa | 639 |
 | 20 | [mortolian](https://github.com/mortolian) | Gideon Schoonbee | Western Cape, South Africa | 632 |
 
-Generated: 2026-10-15T21:22:04.585Z
+Generated: 2026-10-15T22:59:12.204Z

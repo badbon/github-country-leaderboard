@@ -1,6 +1,6 @@
 # Total Contributions - Dominican Republic
 
-Generated: 2026-10-15T21:54:09.288Z
+Generated: 2026-10-15T23:37:02.328Z
 
 Users: 3303
 
@@ -25,4 +25,4 @@ Users: 3303
 | 17 | [franklinmdev](https://github.com/franklinmdev) | Franklin Martinez | Nubeteck, SRL |  | Dominican Republic | 6230 |
 | 18 | [AnthRG](https://github.com/AnthRG) | Anthony Rosario G. | T-Eco |  | Dominican Republic | 5922 |
 | 19 | [ERPalmer](https://github.com/ERPalmer) | ERPalmer |  | ERPalmer | Dominican Republic | 5854 |
-| 20 | [Bebell-Digital-Solutions](https://github.com/Bebell-Digital-Solutions) | Bebell Digital Solutions 🚀 | Bebell Digital Solutions |  | Dominican Republic | 5554 |
+| 20 | [dewynl](https://github.com/dewynl) | Dewyn Liriano | FranklinCovey |  | Santiago, Dominican Republic | 5818 |

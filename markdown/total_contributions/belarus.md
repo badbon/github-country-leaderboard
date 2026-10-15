@@ -1,6 +1,6 @@
 # Total Contributions - Belarus
 
-Generated: 2026-10-15T21:40:28.885Z
+Generated: 2026-10-15T23:22:45.777Z
 
 Users: 10941
 
@@ -18,10 +18,10 @@ Users: 10941
 | 10 | [NikolayNN](https://github.com/NikolayNN) | Nikolay |  |  | Minsk | 6267 |
 | 11 | [igormorozov](https://github.com/igormorozov) | Igor Morozov |  |  | Minsk | 5759 |
 | 12 | [davassi](https://github.com/davassi) | Gianluigi Davassi |  |  | Dubai - Berlin - Milan - Minsk | 5274 |
-| 13 | [burvelandrei](https://github.com/burvelandrei) | Burvel Andrei |  |  | Minsk | 5240 |
-| 14 | [reven86](https://github.com/reven86) | Andrew Karpushin |  |  | Minsk, Belarus | 5216 |
-| 15 | [hawkxdev](https://github.com/hawkxdev) | Sergey Sokolkin | Skytel |  | Minsk, Belarus | 5176 |
-| 16 | [pavelpikta](https://github.com/pavelpikta) | Pavel Pikta | @epam @lean-delivery @jacred-fdb @lampac-nextgen |  | Grodno, Belarus | 5010 |
+| 13 | [reven86](https://github.com/reven86) | Andrew Karpushin |  |  | Minsk, Belarus | 5216 |
+| 14 | [hawkxdev](https://github.com/hawkxdev) | Sergey Sokolkin | Skytel |  | Minsk, Belarus | 5176 |
+| 15 | [pavelpikta](https://github.com/pavelpikta) | Pavel Pikta | @epam @lean-delivery @jacred-fdb @lampac-nextgen |  | Grodno, Belarus | 5010 |
+| 16 | [burvelandrei](https://github.com/burvelandrei) | Burvel Andrei |  |  | Minsk | 5006 |
 | 17 | [dementorsss](https://github.com/dementorsss) | Dmitry |  |  | Minsk | 4928 |
 | 18 | [Frederlk](https://github.com/Frederlk) | Petrinich Sergey | UX MIND |  | Belarus/Minsk | 4821 |
 | 19 | [hotrush](https://github.com/hotrush) |  |  |  | Minsk, Belarus | 4799 |
