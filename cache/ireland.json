@@ -21728,7 +21728,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 3,
-    "publicContributions": 177,
+    "publicContributions": 194,
     "createdAt": "2023-09-21T13:05:51Z"
   },
   {
@@ -21764,7 +21764,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 0,
     "createdAt": "2023-10-05T11:41:21Z"
   },
   {
@@ -21788,7 +21788,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 58,
+    "publicContributions": 67,
     "createdAt": "2023-10-14T16:35:51Z"
   },
   {
@@ -21796,11 +21796,11 @@
     "name": "Tony Nicoletti",
     "avatarUrl": "https://avatars.githubusercontent.com/u/150814365?s=72&u=799a2c572cd089c2b8a321a176c2b3245765d585&v=4",
     "location": "Dublin",
-    "company": "",
+    "company": "Nicoletti Studio",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 43,
-    "publicContributions": 370,
+    "followers": 13,
+    "privateContributions": 0,
+    "publicContributions": 454,
     "createdAt": "2023-11-14T13:29:11Z"
   },
   {
@@ -21812,7 +21812,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 3,
     "createdAt": "2023-01-23T14:28:13Z"
   },
   {
@@ -21836,7 +21836,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 39,
+    "publicContributions": 35,
     "createdAt": "2023-03-26T09:29:15Z"
   },
   {
@@ -21894,9 +21894,9 @@
     "location": "Dublin",
     "company": "HMH",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 129,
+    "publicContributions": 164,
     "createdAt": "2023-01-24T14:40:05Z"
   },
   {
@@ -21946,18 +21946,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-07-26T14:10:22Z"
-  },
-  {
-    "login": "SamuelWatling",
-    "name": "Samuel Watling",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/123029065?s=72&u=f177a3ea22799b1af396f69d2457b6ada4fb1223&v=4",
-    "location": "Dublin",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 5,
-    "createdAt": "2023-01-18T21:56:45Z"
   },
   {
     "login": "izlx",

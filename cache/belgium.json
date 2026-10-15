@@ -21932,20 +21932,8 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 219,
+    "publicContributions": 207,
     "createdAt": "2022-04-15T06:05:42Z"
-  },
-  {
-    "login": "snake-yt",
-    "name": "Noah",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/118116856?s=72&u=588698b1790f01b0b1328e8df551b0650a095bad&v=4",
-    "location": "Mons, Belgium",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 5,
-    "publicContributions": 7,
-    "createdAt": "2022-11-13T14:12:25Z"
   },
   {
     "login": "cspeilers",
@@ -21956,7 +21944,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 53,
+    "publicContributions": 52,
     "createdAt": "2022-10-03T10:05:35Z"
   },
   {
@@ -21967,7 +21955,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 3,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-10-14T16:48:39Z"
   },
@@ -21980,7 +21968,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 40,
     "createdAt": "2022-04-06T16:33:00Z"
   },
   {
@@ -21990,9 +21978,9 @@
     "location": "Belgium",
     "company": "KU Leuven",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 38,
+    "publicContributions": 52,
     "createdAt": "2022-08-25T08:28:19Z"
   },
   {
@@ -22002,7 +21990,7 @@
     "location": "Belgium",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 9,
     "privateContributions": 0,
     "publicContributions": 68,
     "createdAt": "2022-09-12T11:11:50Z"
@@ -22016,7 +22004,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 20,
     "createdAt": "2022-03-21T12:47:24Z"
   },
   {
@@ -22039,8 +22027,8 @@
     "company": "@IMIO",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 218,
-    "publicContributions": 1072,
+    "privateContributions": 220,
+    "publicContributions": 952,
     "createdAt": "2022-03-05T05:57:02Z"
   },
   {
@@ -22052,7 +22040,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 19,
-    "publicContributions": 127,
+    "publicContributions": 145,
     "createdAt": "2022-06-16T13:45:22Z"
   },
   {
@@ -22062,7 +22050,7 @@
     "location": "Brussels, Belgium",
     "company": "Vrije Universiteit Brussel (VUB)",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 5,
     "createdAt": "2022-10-15T19:04:02Z"
@@ -22087,8 +22075,8 @@
     "company": "",
     "twitterUsername": "krish_io",
     "followers": 5,
-    "privateContributions": 1502,
-    "publicContributions": 26,
+    "privateContributions": 2153,
+    "publicContributions": 37,
     "createdAt": "2022-12-26T14:34:00Z"
   },
   {
@@ -22100,19 +22088,19 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 51,
+    "publicContributions": 150,
     "createdAt": "2022-10-03T11:38:15Z"
   },
   {
     "login": "olivierthis",
     "name": "Olly",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/119229952?s=72&u=f1ef6a6cba8d2f56df43174e9872a21619be87f0&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/119229952?s=72&u=e470aa1c1e203dd4ae6288e3c6f5ab3fca7fde52&v=4",
     "location": "Belgium",
     "company": "",
-    "twitterUsername": "omniperfectiony",
+    "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 438,
-    "publicContributions": 0,
+    "privateContributions": 1598,
+    "publicContributions": 6,
     "createdAt": "2022-11-27T17:02:42Z"
   },
   {
@@ -22124,7 +22112,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 5,
     "createdAt": "2022-10-29T18:59:45Z"
   },
   {
@@ -22135,8 +22123,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 1086,
-    "publicContributions": 19,
+    "privateContributions": 2943,
+    "publicContributions": 13,
     "createdAt": "2022-03-19T11:08:05Z"
   },
   {
@@ -22158,9 +22146,9 @@
     "location": "Antwerp, Belgium",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2022-11-03T22:00:30Z"
   },
   {

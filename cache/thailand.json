@@ -21632,7 +21632,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 38,
+    "publicContributions": 39,
     "createdAt": "2023-01-10T01:18:12Z"
   },
   {
@@ -21644,7 +21644,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2023-11-19T15:39:39Z"
   },
   {
@@ -21655,8 +21655,8 @@
     "company": "Chulalongkorn University",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 166,
-    "publicContributions": 312,
+    "privateContributions": 167,
+    "publicContributions": 314,
     "createdAt": "2023-06-15T05:16:20Z"
   },
   {
@@ -21668,7 +21668,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 257,
+    "publicContributions": 192,
     "createdAt": "2023-08-12T16:40:49Z"
   },
   {
@@ -21680,7 +21680,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 20,
     "createdAt": "2023-03-16T08:37:10Z"
   },
   {
@@ -21691,8 +21691,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 30,
-    "publicContributions": 17,
+    "privateContributions": 44,
+    "publicContributions": 20,
     "createdAt": "2023-08-16T13:13:26Z"
   },
   {
@@ -21715,8 +21715,8 @@
     "company": "Computer Engineering and Digital Technology, CU",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 68,
-    "publicContributions": 3,
+    "privateContributions": 194,
+    "publicContributions": 4,
     "createdAt": "2023-07-13T15:52:51Z"
   },
   {
@@ -21728,7 +21728,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 54,
+    "publicContributions": 27,
     "createdAt": "2023-08-15T09:46:47Z"
   },
   {
@@ -21751,8 +21751,8 @@
     "company": "T.C.C. Technology Co., Ltd.",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 262,
-    "publicContributions": 200,
+    "privateContributions": 264,
+    "publicContributions": 168,
     "createdAt": "2023-09-11T07:34:28Z"
   },
   {
@@ -21760,11 +21760,11 @@
     "name": "Tayakorn",
     "avatarUrl": "https://avatars.githubusercontent.com/u/154537903?s=72&u=96e1b4d5f226fe82734a91cc020f29f15b37d036&v=4",
     "location": "Thailand",
-    "company": "",
+    "company": "@taokaetech @rttransit",
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 288,
+    "publicContributions": 358,
     "createdAt": "2023-12-21T15:34:38Z"
   },
   {
@@ -21775,21 +21775,9 @@
     "company": "@CEDT-Chula",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 70,
+    "privateContributions": 59,
     "publicContributions": 278,
     "createdAt": "2023-06-01T03:54:49Z"
-  },
-  {
-    "login": "taechasith",
-    "name": "tae.creativelab",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/142217260?s=72&u=1e9f8984d67f37918dea7f12ad0427888af7d7e9&v=4",
-    "location": "Thailand",
-    "company": "Harbour.Space@UTCC",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 787,
-    "createdAt": "2023-08-14T09:38:28Z"
   },
   {
     "login": "Suwijak-Kaewsomnuke",
@@ -21817,14 +21805,14 @@
   },
   {
     "login": "bangsaenai",
-    "name": "Bangsaen AI",
+    "name": "Bangsaen AI Labs",
     "avatarUrl": "https://avatars.githubusercontent.com/u/131734301?s=72&u=16e608a85dec21b2aba3122cc63c7b88bdef9586&v=4",
     "location": "Thailand",
-    "company": "Bangsaen AI",
+    "company": "Bangsaen AI Labs",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 1050,
+    "publicContributions": 1118,
     "createdAt": "2023-04-25T02:58:35Z"
   },
   {
@@ -21834,9 +21822,9 @@
     "location": "Pathum Thani, Thailand",
     "company": "Naresuan University",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 35,
-    "publicContributions": 23,
+    "followers": 2,
+    "privateContributions": 30,
+    "publicContributions": 16,
     "createdAt": "2023-11-08T15:49:03Z"
   },
   {

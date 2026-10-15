@@ -21655,7 +21655,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 125,
+    "privateContributions": 7,
     "publicContributions": 5,
     "createdAt": "2024-06-04T07:55:07Z"
   },
@@ -21668,7 +21668,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 114,
+    "publicContributions": 164,
     "createdAt": "2024-04-12T11:08:35Z"
   },
   {
@@ -21678,9 +21678,9 @@
     "location": "South Africa",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 158,
-    "publicContributions": 109,
+    "followers": 2,
+    "privateContributions": 20,
+    "publicContributions": 348,
     "createdAt": "2024-02-20T18:25:47Z"
   },
   {
@@ -21691,8 +21691,8 @@
     "company": "Glencore ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 241,
-    "publicContributions": 8,
+    "privateContributions": 145,
+    "publicContributions": 4,
     "createdAt": "2024-11-08T07:08:54Z"
   },
   {
@@ -21704,7 +21704,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 546,
+    "publicContributions": 533,
     "createdAt": "2024-08-06T07:11:34Z"
   },
   {
@@ -21716,7 +21716,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 56,
+    "publicContributions": 51,
     "createdAt": "2024-06-04T23:05:35Z"
   },
   {
@@ -21750,7 +21750,7 @@
     "location": "South Africa",
     "company": "University of Cape Town",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-10-14T09:31:04Z"
@@ -21758,13 +21758,13 @@
   {
     "login": "ntabozuko-dev",
     "name": "Ntabozuko",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/160755374?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/160755374?s=72&u=f3cfe6ea2e1904a55e6bcd130f7c6c6441566685&v=4",
     "location": "South Africa",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 43,
     "createdAt": "2024-02-21T15:00:26Z"
   },
   {
@@ -21776,7 +21776,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 7,
     "createdAt": "2024-01-12T18:33:59Z"
   },
   {
@@ -21799,8 +21799,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 158,
-    "publicContributions": 299,
+    "privateContributions": 160,
+    "publicContributions": 186,
     "createdAt": "2024-09-15T22:57:15Z"
   },
   {
@@ -21822,9 +21822,9 @@
     "location": "Pretoria, South Africa",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 154,
-    "publicContributions": 54,
+    "followers": 4,
+    "privateContributions": 537,
+    "publicContributions": 65,
     "createdAt": "2024-06-10T17:29:59Z"
   },
   {
@@ -21865,14 +21865,14 @@
   },
   {
     "login": "SizweMarole-21389",
-    "name": "Sizwe_Marole",
+    "name": "Sizwe Marole",
     "avatarUrl": "https://avatars.githubusercontent.com/u/175023186?s=72&u=ca2aa3c7ba552c73a3773553ae3124da22a0fc1c&v=4",
     "location": "Johannesburg, South Africa",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 149,
+    "publicContributions": 167,
     "createdAt": "2024-07-08T13:23:56Z"
   },
   {
@@ -215218,5 +215218,17 @@
     "privateContributions": 0,
     "publicContributions": 174,
     "createdAt": "2026-06-28T23:16:25Z"
+  },
+  {
+    "login": "tafadzwaelphas",
+    "name": "Tafadzwa Elphas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/297703450?s=72&u=1277c3a4d9e084288425cd066fd9eb0b59fa32af&v=4",
+    "location": "Cape Town",
+    "company": "HandWing",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 211,
+    "createdAt": "2026-06-28T19:01:12Z"
   }
 ]

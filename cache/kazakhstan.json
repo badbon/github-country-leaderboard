@@ -21732,18 +21732,6 @@
     "createdAt": "2022-02-01T15:48:42Z"
   },
   {
-    "login": "krakhimov-klika",
-    "name": "Kairat Rakhimov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/109069327?s=72&v=4",
-    "location": "Almaty, Qazaqstan",
-    "company": "Klika-Tech LLC",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2022-07-11T08:54:06Z"
-  },
-  {
     "login": "shagatai04",
     "name": "SHAGA",
     "avatarUrl": "https://avatars.githubusercontent.com/u/118763639?s=72&v=4",
@@ -21762,7 +21750,7 @@
     "location": "Astana",
     "company": "Asta Travel",
     "twitterUsername": "",
-    "followers": 279,
+    "followers": 270,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-06-11T16:29:54Z"
@@ -21775,8 +21763,8 @@
     "company": "Student of Astana IT University (AITU)",
     "twitterUsername": "",
     "followers": 42,
-    "privateContributions": 73,
-    "publicContributions": 239,
+    "privateContributions": 71,
+    "publicContributions": 188,
     "createdAt": "2022-03-21T09:47:07Z"
   },
   {
@@ -21787,8 +21775,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 29,
-    "privateContributions": 2,
-    "publicContributions": 5,
+    "privateContributions": 1,
+    "publicContributions": 3,
     "createdAt": "2022-10-07T18:46:19Z"
   },
   {
@@ -21798,9 +21786,9 @@
     "location": "Astana",
     "company": "",
     "twitterUsername": "",
-    "followers": 28,
+    "followers": 31,
     "privateContributions": 0,
-    "publicContributions": 1317,
+    "publicContributions": 1278,
     "createdAt": "2022-08-01T11:51:03Z"
   },
   {
@@ -21810,22 +21798,10 @@
     "location": "Astana",
     "company": "Google ",
     "twitterUsername": "",
-    "followers": 28,
-    "privateContributions": 17,
-    "publicContributions": 86,
+    "followers": 30,
+    "privateContributions": 31,
+    "publicContributions": 122,
     "createdAt": "2022-11-09T05:02:14Z"
-  },
-  {
-    "login": "flamemeister",
-    "name": "Aldiyar",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/120413003?s=72&u=7fb7817f4f4e878d9f59b122e616ee2c82a20837&v=4",
-    "location": "Astana",
-    "company": "Astana IT University",
-    "twitterUsername": "",
-    "followers": 25,
-    "privateContributions": 162,
-    "publicContributions": 3,
-    "createdAt": "2022-12-12T18:25:49Z"
   },
   {
     "login": "qwavy",
@@ -21834,9 +21810,9 @@
     "location": "astana",
     "company": "",
     "twitterUsername": "",
-    "followers": 20,
-    "privateContributions": 176,
-    "publicContributions": 53,
+    "followers": 19,
+    "privateContributions": 189,
+    "publicContributions": 52,
     "createdAt": "2022-01-13T09:51:50Z"
   },
   {
@@ -21847,8 +21823,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 19,
-    "privateContributions": 936,
-    "publicContributions": 8,
+    "privateContributions": 565,
+    "publicContributions": 7,
     "createdAt": "2022-10-18T18:07:54Z"
   },
   {
@@ -21858,9 +21834,9 @@
     "location": "Astana",
     "company": "",
     "twitterUsername": "",
-    "followers": 16,
-    "privateContributions": 2063,
-    "publicContributions": 51,
+    "followers": 19,
+    "privateContributions": 3133,
+    "publicContributions": 418,
     "createdAt": "2022-07-04T11:17:02Z"
   },
   {
@@ -21870,9 +21846,9 @@
     "location": "Astana",
     "company": "Alarify",
     "twitterUsername": "",
-    "followers": 16,
-    "privateContributions": 276,
-    "publicContributions": 83,
+    "followers": 19,
+    "privateContributions": 300,
+    "publicContributions": 90,
     "createdAt": "2022-08-16T09:17:34Z"
   },
   {
@@ -21882,9 +21858,9 @@
     "location": "Astana",
     "company": "",
     "twitterUsername": "",
-    "followers": 16,
+    "followers": 17,
     "privateContributions": 0,
-    "publicContributions": 195,
+    "publicContributions": 170,
     "createdAt": "2022-04-18T16:30:16Z"
   },
   {
@@ -21896,7 +21872,7 @@
     "twitterUsername": "",
     "followers": 15,
     "privateContributions": 0,
-    "publicContributions": 177,
+    "publicContributions": 180,
     "createdAt": "2022-07-14T08:19:03Z"
   },
   {
@@ -21907,8 +21883,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 14,
-    "privateContributions": 92,
-    "publicContributions": 20,
+    "privateContributions": 561,
+    "publicContributions": 39,
     "createdAt": "2022-05-31T07:58:12Z"
   },
   {
@@ -21918,9 +21894,9 @@
     "location": "Astana",
     "company": "",
     "twitterUsername": "_aybarx",
-    "followers": 14,
+    "followers": 16,
     "privateContributions": 0,
-    "publicContributions": 59,
+    "publicContributions": 60,
     "createdAt": "2022-10-27T03:48:11Z"
   },
   {
@@ -21932,7 +21908,7 @@
     "twitterUsername": "",
     "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 196,
+    "publicContributions": 189,
     "createdAt": "2022-08-04T14:23:02Z"
   },
   {
@@ -21944,7 +21920,7 @@
     "twitterUsername": "",
     "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 17,
     "createdAt": "2022-06-09T14:28:28Z"
   },
   {
@@ -21962,13 +21938,13 @@
   {
     "login": "Garryflop",
     "name": "Nurdaulet Saparbekov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/97098278?s=72&u=befb16626313ca0025fac17172c8c2b30dfc43b3&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/97098278?s=72&u=86c93760f8649dfe39a9d3adf4e388e359b96531&v=4",
     "location": "Astana/Semey",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 179,
+    "publicContributions": 155,
     "createdAt": "2022-01-04T11:23:14Z"
   },
   {
@@ -67858,5 +67834,17 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-06-17T18:50:15Z"
+  },
+  {
+    "login": "k1nnyyY",
+    "name": "k1nnyyY",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/112484987?s=72&u=263c5dc04e763dbfd90500a34d17481360c4f3ed&v=4",
+    "location": "Kazakhstan/Astana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2022-08-30T11:53:53Z"
   }
 ]

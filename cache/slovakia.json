@@ -21546,7 +21546,7 @@
     "location": "Slovakia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-05-15T12:06:29Z"
@@ -21595,8 +21595,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 6,
-    "publicContributions": 117,
+    "privateContributions": 0,
+    "publicContributions": 83,
     "createdAt": "2019-10-02T11:45:04Z"
   },
   {
@@ -21620,7 +21620,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 82,
+    "publicContributions": 83,
     "createdAt": "2019-05-24T11:56:42Z"
   },
   {
@@ -21631,8 +21631,8 @@
     "company": "STU FEI",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 200,
-    "publicContributions": 69,
+    "privateContributions": 259,
+    "publicContributions": 29,
     "createdAt": "2019-06-17T17:17:43Z"
   },
   {
@@ -21684,18 +21684,6 @@
     "createdAt": "2019-09-12T14:39:50Z"
   },
   {
-    "login": "ThaseG",
-    "name": "ThaseG",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/53595763?s=72&u=8fe25b31d5d1d5e216d276244c6a9312729d28f7&v=4",
-    "location": "Košice, Slovakia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 99,
-    "createdAt": "2019-08-02T06:11:14Z"
-  },
-  {
     "login": "marekcambal",
     "name": "Marek Čambál",
     "avatarUrl": "https://avatars.githubusercontent.com/u/55274683?s=72&u=66c11bbd268769cfef4f5ead193fa6911d0baddf&v=4",
@@ -21730,18 +21718,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-03-21T12:30:01Z"
-  },
-  {
-    "login": "xitop",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/56865939?s=72&v=4",
-    "location": "Slovakia, EU",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 3,
-    "createdAt": "2019-10-22T08:04:06Z"
   },
   {
     "login": "scarrobu",
