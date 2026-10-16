@@ -846127,7 +846127,7 @@
     "company": "",
     "twitterUsername": "variiuz",
     "followers": 8,
-    "privateContributions": 3047,
+    "privateContributions": 3055,
     "publicContributions": 244,
     "createdAt": "2018-02-23T21:05:04Z"
   },
@@ -847234,5 +847234,17 @@
     "privateContributions": 13,
     "publicContributions": 40,
     "createdAt": "2022-01-21T18:07:25Z"
+  },
+  {
+    "login": "RSMAMIR",
+    "name": "Amir",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/164815624?s=72&v=4",
+    "location": "Germany",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 22,
+    "createdAt": "2024-03-25T00:11:04Z"
   }
 ]

@@ -26431,8 +26431,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 103,
+    "privateContributions": 77,
+    "publicContributions": 107,
     "createdAt": "2024-02-19T14:56:20Z"
   },
   {
@@ -26456,7 +26456,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 32,
+    "publicContributions": 27,
     "createdAt": "2024-01-04T20:23:27Z"
   },
   {
@@ -26484,18 +26484,6 @@
     "createdAt": "2024-03-11T16:10:22Z"
   },
   {
-    "login": "GenaroArce",
-    "name": "Genaro Arce",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/158112829?s=72&v=4",
-    "location": "General Lamadrid, Buenos Aires, Argentina",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 27,
-    "createdAt": "2024-01-29T23:42:38Z"
-  },
-  {
     "login": "Anselmo07",
     "name": "Anselmo Jose Vecchio",
     "avatarUrl": "https://avatars.githubusercontent.com/u/159046149?s=72&u=e8b8962ea3821133b973b314b8cffbe5a1664491&v=4",
@@ -26503,8 +26491,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 9,
-    "publicContributions": 147,
+    "privateContributions": 1,
+    "publicContributions": 158,
     "createdAt": "2024-02-05T15:40:34Z"
   },
   {
@@ -26516,20 +26504,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 65,
+    "publicContributions": 49,
     "createdAt": "2024-02-29T18:03:00Z"
-  },
-  {
-    "login": "GoRedronn",
-    "name": "GoRedron",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/160783659?s=72&u=fd2558389e13c16f461d6d942d252aa0a2418e2a&v=4",
-    "location": "Argentina",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2024-02-21T19:54:46Z"
   },
   {
     "login": "franluqGH",
@@ -26562,9 +26538,9 @@
     "location": "Mendoza, Argentina",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 35,
+    "followers": 2,
+    "privateContributions": 120,
+    "publicContributions": 0,
     "createdAt": "2024-03-25T16:16:14Z"
   },
   {
@@ -26578,18 +26554,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-03-25T23:32:33Z"
-  },
-  {
-    "login": "danielsca-proy",
-    "name": "Daniel Baltazar A. Escalante",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/155884385?s=72&u=fd91e710d5b7bff9f7e8f33294fb44736820a81c&v=4",
-    "location": "Tucumán, Argentina",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 30,
-    "createdAt": "2024-01-07T10:36:08Z"
   },
   {
     "login": "tobiasrojas04",
@@ -26648,7 +26612,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 32,
+    "publicContributions": 44,
     "createdAt": "2024-03-17T18:05:41Z"
   },
   {

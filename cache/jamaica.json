@@ -11592,27 +11592,15 @@
     "createdAt": "2015-10-08T13:09:23Z"
   },
   {
-    "login": "MIBoy54",
-    "name": "Bruce Lewis",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/16022883?s=72&u=da741b47844cc1c2c2b3124f66b848bf0853e7b3&v=4",
-    "location": "Kingston Springs, TN",
-    "company": "Quality Engineering Leader | CI-Driven Test Platforms | Automation Architecture | DevOps-Aligned Quality Systems",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 34,
-    "publicContributions": 494,
-    "createdAt": "2015-11-25T20:15:28Z"
-  },
-  {
     "login": "jordanliu",
     "name": "Jordan Liu",
     "avatarUrl": "https://avatars.githubusercontent.com/u/9423525?s=72&u=e64bace5a9a7d00cd8eae27be9cf6830ecc14349&v=4",
     "location": "Kingston, Jamaica",
     "company": "",
     "twitterUsername": "",
-    "followers": 94,
-    "privateContributions": 1576,
-    "publicContributions": 158,
+    "followers": 95,
+    "privateContributions": 1580,
+    "publicContributions": 164,
     "createdAt": "2014-10-27T21:58:56Z"
   },
   {
@@ -11635,7 +11623,7 @@
     "company": "IGonics",
     "twitterUsername": "",
     "followers": 42,
-    "privateContributions": 656,
+    "privateContributions": 657,
     "publicContributions": 0,
     "createdAt": "2014-01-30T00:53:05Z"
   },
@@ -11647,7 +11635,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 35,
-    "privateContributions": 338,
+    "privateContributions": 381,
     "publicContributions": 35,
     "createdAt": "2014-06-24T23:00:43Z"
   },
@@ -11695,8 +11683,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 20,
-    "privateContributions": 37,
-    "publicContributions": 36,
+    "privateContributions": 36,
+    "publicContributions": 37,
     "createdAt": "2014-07-23T16:03:42Z"
   },
   {
@@ -11731,7 +11719,7 @@
     "company": "",
     "twitterUsername": "alexstewartja",
     "followers": 15,
-    "privateContributions": 403,
+    "privateContributions": 394,
     "publicContributions": 9,
     "createdAt": "2014-03-12T23:16:02Z"
   },

@@ -24907,7 +24907,7 @@
     "company": "",
     "twitterUsername": "laz1c",
     "followers": 1,
-    "privateContributions": 93,
+    "privateContributions": 96,
     "publicContributions": 0,
     "createdAt": "2014-12-23T12:07:06Z"
   },
@@ -24955,7 +24955,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 2053,
+    "privateContributions": 2212,
     "publicContributions": 1,
     "createdAt": "2014-03-21T12:42:31Z"
   },
@@ -24990,7 +24990,7 @@
     "location": "Cyprus",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-04-17T15:40:07Z"
@@ -25004,20 +25004,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 308,
+    "publicContributions": 356,
     "createdAt": "2014-04-15T07:26:58Z"
-  },
-  {
-    "login": "fatbelfegor",
-    "name": "Klim Agarkov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/7317878?s=72&u=ff34d28bd0ccb757380a862bd300dc568b28cf57&v=4",
-    "location": "Cyprus",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 484,
-    "publicContributions": 1,
-    "createdAt": "2014-04-16T17:57:25Z"
   },
   {
     "login": "meatfay",
@@ -25039,7 +25027,7 @@
     "company": "Pixelactions",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 710,
+    "privateContributions": 645,
     "publicContributions": 2,
     "createdAt": "2014-03-09T11:30:14Z"
   },
@@ -25051,8 +25039,8 @@
     "company": "Just AI",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 298,
-    "publicContributions": 72,
+    "privateContributions": 468,
+    "publicContributions": 48,
     "createdAt": "2014-06-14T09:56:36Z"
   },
   {
@@ -25063,7 +25051,7 @@
     "company": "XFI LTD",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1429,
+    "privateContributions": 1438,
     "publicContributions": 0,
     "createdAt": "2014-09-10T22:03:21Z"
   },

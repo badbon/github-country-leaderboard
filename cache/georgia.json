@@ -26791,8 +26791,8 @@
     "company": "Insales",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 17,
+    "privateContributions": 4,
+    "publicContributions": 105,
     "createdAt": "2021-06-22T08:15:44Z"
   },
   {
@@ -26810,13 +26810,13 @@
   {
     "login": "lukakavlelashvili11",
     "name": "luka kavlelashvili",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/79977124?s=72&u=3725c5dc69be31439ac70fac2140d1069ba555d3&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/79977124?s=72&v=4",
     "location": "Tbilisi, Georgia",
     "company": "",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2021-03-03T11:18:07Z"
   },
   {
@@ -26875,7 +26875,7 @@
     "company": "SeatOS",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 219,
+    "privateContributions": 131,
     "publicContributions": 0,
     "createdAt": "2021-01-30T16:35:01Z"
   },
@@ -26935,7 +26935,7 @@
     "company": "Solvd, Inc.",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 2791,
+    "privateContributions": 3061,
     "publicContributions": 0,
     "createdAt": "2021-05-06T12:05:19Z"
   },
@@ -27010,18 +27010,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-11-02T13:53:27Z"
-  },
-  {
-    "login": "ilvetrov",
-    "name": "Ilia Vetrov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/76866595?s=72&u=15ca99f0f9d8c477a1f45abed3019f5ee296423a&v=4",
-    "location": "Georgia, Batumi",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2021-01-02T09:40:35Z"
   },
   {
     "login": "nikachitava",

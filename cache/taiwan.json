@@ -26274,9 +26274,9 @@
     "location": "Taichung, Taiwan",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 32,
-    "publicContributions": 158,
+    "publicContributions": 20,
     "createdAt": "2022-12-01T12:06:38Z"
   },
   {
@@ -26286,7 +26286,7 @@
     "location": "Taiwan",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-09-15T14:42:39Z"
@@ -26298,7 +26298,7 @@
     "location": "Taiwan",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-09-30T14:15:58Z"
@@ -26311,8 +26311,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 1440,
-    "publicContributions": 751,
+    "privateContributions": 1090,
+    "publicContributions": 794,
     "createdAt": "2022-11-28T08:21:47Z"
   },
   {
@@ -26322,7 +26322,7 @@
     "location": "Taipei, Taiwan",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 16,
     "createdAt": "2022-10-08T14:19:10Z"
@@ -26334,9 +26334,9 @@
     "location": "Taipei,Taiwan",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 49,
+    "publicContributions": 9,
     "createdAt": "2022-09-16T07:31:01Z"
   },
   {
@@ -26346,21 +26346,21 @@
     "location": "Taiwan",
     "company": "NTHU",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 19,
-    "publicContributions": 569,
+    "followers": 8,
+    "privateContributions": 168,
+    "publicContributions": 557,
     "createdAt": "2022-11-08T10:30:28Z"
   },
   {
     "login": "AuricTW",
-    "name": "",
+    "name": "LEE, WEI-HONG",
     "avatarUrl": "https://avatars.githubusercontent.com/u/108772778?s=72&u=28ba389c6de1d3f075ef232113b67e8d1cbce5f2&v=4",
     "location": "Taiwan",
-    "company": "",
+    "company": "National Cheng Kung University",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 334,
-    "publicContributions": 138,
+    "followers": 8,
+    "privateContributions": 262,
+    "publicContributions": 182,
     "createdAt": "2022-07-06T00:45:32Z"
   },
   {
@@ -26370,9 +26370,9 @@
     "location": "Taiwan",
     "company": "NYCU",
     "twitterUsername": "somnus_07",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 15,
     "createdAt": "2022-11-04T05:19:08Z"
   },
   {
@@ -26383,7 +26383,7 @@
     "company": "National Taiwan University",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 43,
+    "privateContributions": 67,
     "publicContributions": 3,
     "createdAt": "2022-07-28T09:20:00Z"
   },
@@ -26418,9 +26418,9 @@
     "location": "Ukraine, Taiwan",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 353,
+    "publicContributions": 331,
     "createdAt": "2022-09-05T22:51:39Z"
   },
   {
@@ -26432,7 +26432,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 37,
+    "publicContributions": 34,
     "createdAt": "2022-11-28T13:42:11Z"
   },
   {
@@ -26442,9 +26442,9 @@
     "location": "New Taipei City, Taiwan",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 46,
+    "publicContributions": 0,
     "createdAt": "2022-09-16T06:07:17Z"
   },
   {
@@ -26455,33 +26455,21 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 211,
-    "publicContributions": 12,
+    "privateContributions": 243,
+    "publicContributions": 64,
     "createdAt": "2022-09-30T05:01:23Z"
   },
   {
     "login": "kami-0121",
-    "name": "神の反逆者",
+    "name": "kimi",
     "avatarUrl": "https://avatars.githubusercontent.com/u/112794232?s=72&u=575a32632fd031ccc1ff2dea95703fc31cc35def&v=4",
     "location": "Taiwan 🇹🇼",
     "company": "WEDC Studio",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 436,
-    "publicContributions": 106,
+    "followers": 9,
+    "privateContributions": 613,
+    "publicContributions": 118,
     "createdAt": "2022-09-04T05:24:04Z"
-  },
-  {
-    "login": "willweimike",
-    "name": "Bill",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/110161239?s=72&u=8ac26c37cf15bfe2972c31443b8736006d9a6af4&v=4",
-    "location": "Taichung, Taiwan",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 206,
-    "createdAt": "2022-07-28T08:26:25Z"
   },
   {
     "login": "YuunJiee",
@@ -26490,9 +26478,9 @@
     "location": "Taiwan",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 308,
+    "publicContributions": 307,
     "createdAt": "2022-10-22T15:16:45Z"
   },
   {
@@ -26502,9 +26490,9 @@
     "location": "Taipei, Taiwan",
     "company": "National Taiwan University",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 0,
     "createdAt": "2022-07-31T14:34:07Z"
   },
   {

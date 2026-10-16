@@ -26455,8 +26455,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 452,
-    "publicContributions": 7,
+    "privateContributions": 464,
+    "publicContributions": 2,
     "createdAt": "2021-10-14T11:51:17Z"
   },
   {
@@ -26466,7 +26466,7 @@
     "location": "Venezuela",
     "company": "Thorium Corp",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-08-15T16:29:03Z"
@@ -26528,7 +26528,7 @@
     "twitterUsername": "AlexisEdMata979",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 96,
+    "publicContributions": 67,
     "createdAt": "2021-11-18T16:06:57Z"
   },
   {
@@ -26551,8 +26551,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1740,
-    "publicContributions": 79,
+    "privateContributions": 994,
+    "publicContributions": 77,
     "createdAt": "2021-02-26T23:11:11Z"
   },
   {
@@ -26563,21 +26563,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 48,
+    "privateContributions": 13,
     "publicContributions": 0,
     "createdAt": "2021-01-23T18:14:07Z"
-  },
-  {
-    "login": "isamudev",
-    "name": "Luis Suárez",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/79360557?s=72&u=6cfcf64250a1110712785387833e1ae6c67bac4a&v=4",
-    "location": "Venezuela",
-    "company": "",
-    "twitterUsername": "isamudev",
-    "followers": 2,
-    "privateContributions": 3593,
-    "publicContributions": 14,
-    "createdAt": "2021-02-20T10:55:58Z"
   },
   {
     "login": "danielaurbina98",
@@ -26600,7 +26588,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 1,
     "createdAt": "2021-06-08T21:48:01Z"
   },
   {
@@ -26610,7 +26598,7 @@
     "location": "Venezuela, Bolívar",
     "company": "",
     "twitterUsername": "YessZB",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 16,
     "createdAt": "2021-09-07T19:56:55Z"
@@ -26624,7 +26612,7 @@
     "twitterUsername": "rdelgadoCF",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 18,
     "createdAt": "2021-08-09T17:35:56Z"
   },
   {
@@ -26634,9 +26622,9 @@
     "location": "Venezuela",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 50,
+    "publicContributions": 68,
     "createdAt": "2021-03-15T19:41:39Z"
   },
   {

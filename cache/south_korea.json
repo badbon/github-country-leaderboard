@@ -25975,8 +25975,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 49,
-    "publicContributions": 680,
+    "privateContributions": 1,
+    "publicContributions": 355,
     "createdAt": "2024-01-14T10:39:37Z"
   },
   {
@@ -25999,7 +25999,7 @@
     "company": "NeutiSoft",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 0,
+    "privateContributions": 3,
     "publicContributions": 93,
     "createdAt": "2024-06-22T14:01:59Z"
   },
@@ -26011,7 +26011,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 0,
+    "privateContributions": 42,
     "publicContributions": 19,
     "createdAt": "2024-03-07T23:57:56Z"
   },
@@ -26024,7 +26024,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2024-01-02T01:24:23Z"
   },
   {
@@ -26035,8 +26035,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 117,
-    "publicContributions": 155,
+    "privateContributions": 67,
+    "publicContributions": 118,
     "createdAt": "2024-03-15T03:04:11Z"
   },
   {
@@ -26048,7 +26048,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 51,
+    "publicContributions": 124,
     "createdAt": "2024-05-11T10:31:04Z"
   },
   {
@@ -26060,7 +26060,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 16,
     "createdAt": "2024-08-28T05:02:44Z"
   },
   {
@@ -26072,7 +26072,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 7,
     "createdAt": "2024-02-27T00:22:33Z"
   },
   {
@@ -26082,7 +26082,7 @@
     "location": "South Korea",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 7,
     "createdAt": "2024-04-18T11:05:20Z"
@@ -26094,9 +26094,9 @@
     "location": "Seoul, South Korea",
     "company": "IMPERYX",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 32,
+    "publicContributions": 70,
     "createdAt": "2024-07-17T05:10:45Z"
   },
   {
@@ -26106,9 +26106,9 @@
     "location": "Seoul, South Korea",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 84,
+    "publicContributions": 94,
     "createdAt": "2024-07-30T11:26:41Z"
   },
   {
@@ -26120,7 +26120,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 25,
     "createdAt": "2024-06-12T03:09:30Z"
   },
   {
@@ -26132,20 +26132,8 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 59,
+    "publicContributions": 51,
     "createdAt": "2024-07-07T08:27:41Z"
-  },
-  {
-    "login": "woobin201",
-    "name": "woobin",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/155806829?s=72&u=178cccfcd7e204e8053a8bf238ece3a6db68f531&v=4",
-    "location": "Incheon, South Korea",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 7,
-    "createdAt": "2024-01-06T07:55:37Z"
   },
   {
     "login": "Park-Dongheon",
@@ -26168,7 +26156,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 216,
+    "publicContributions": 280,
     "createdAt": "2024-06-09T11:43:50Z"
   },
   {
@@ -26194,18 +26182,6 @@
     "privateContributions": 0,
     "publicContributions": 5,
     "createdAt": "2024-09-11T01:40:14Z"
-  },
-  {
-    "login": "janejiyoon",
-    "name": "Jane S.",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/180140794?s=72&u=9085aa81a1a1ab5b360d76df29126c38d2079783&v=4",
-    "location": "Seoul, South Korea",
-    "company": "Boehringer Ingelheim",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 54,
-    "createdAt": "2024-09-02T04:09:48Z"
   },
   {
     "login": "ToleranceKim",
