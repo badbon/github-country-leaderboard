@@ -56,7 +56,7 @@ Indexed users: 3,871
 | 17 | [herberthk](https://github.com/herberthk) | Kavuma Herbert | Kampala | 1,958 |
 | 18 | [danielmarv](https://github.com/danielmarv) | Daniel Ntege | Kampala | 1,947 |
 | 19 | [Joshkovu](https://github.com/Joshkovu) | Kuteesa Joash | uganda  | 1,933 |
-| 20 | [Codebmk](https://github.com/Codebmk) | Belinda Marion Kobusingye | Kampala, Uganda | 1,904 |
+| 20 | [Vaniahchristian](https://github.com/Vaniahchristian) | Vaniah Christian | Kampala Uganda  | 1,864 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 3,871
 | 19 | [Kitemaggwa-Shafic](https://github.com/Kitemaggwa-Shafic) | Bin Profic | Kampala mengo, Najjanankumbi Ebb rd | 198 |
 | 20 | [kallyas](https://github.com/kallyas) | Iden | Uganda | 190 |
 
-Generated: 2026-10-16T13:54:39.580Z
+Generated: 2026-10-16T15:15:58.832Z

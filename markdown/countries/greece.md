@@ -1,6 +1,6 @@
 # Greece
 
-Indexed users: 15,560
+Indexed users: 15,559
 
 | Leaderboard | Link |
 |---|---|
@@ -24,14 +24,14 @@ Indexed users: 15,560
 | 10 | [anavalo](https://github.com/anavalo) | Tasos Tsournos | Athens | 13,731 |
 | 11 | [gakonst](https://github.com/gakonst) | Georgios Konstantopoulos | Thessaloniki, Greece | 12,801 |
 | 12 | [georgiosd](https://github.com/georgiosd) | Georgios Diamantopoulos | Athens, Greece | 12,657 |
-| 13 | [apmantza](https://github.com/apmantza) | Apostolos Mantzaris | Athens, Greece | 11,367 |
-| 14 | [ryanzidago](https://github.com/ryanzidago) | Ryan Zidago | Athens, Greece | 11,068 |
-| 15 | [aristath](https://github.com/aristath) | Ari Stathopoulos | Corinth, Greece | 10,846 |
-| 16 | [mariosknl](https://github.com/mariosknl) | Marios Kanellopoulos | Patras, Greece | 10,834 |
-| 17 | [GMetaxakis](https://github.com/GMetaxakis) | Georgios Metaxakis | Greece | 10,248 |
-| 18 | [kostis-codefresh](https://github.com/kostis-codefresh) | Kostis (Octopus Deploy) | Athens Greece | 9,257 |
-| 19 | [giannisp](https://github.com/giannisp) | Ioannis Poulakas | Greece | 9,094 |
-| 20 | [efthymios19](https://github.com/efthymios19) | Efthymios Chrysanthopoulos | Athens, Greece | 8,530 |
+| 13 | [Filipgerm](https://github.com/Filipgerm) | Filippos Germanopoulos | Greece | 12,252 |
+| 14 | [apmantza](https://github.com/apmantza) | Apostolos Mantzaris | Athens, Greece | 11,367 |
+| 15 | [ryanzidago](https://github.com/ryanzidago) | Ryan Zidago | Athens, Greece | 11,068 |
+| 16 | [aristath](https://github.com/aristath) | Ari Stathopoulos | Corinth, Greece | 10,846 |
+| 17 | [mariosknl](https://github.com/mariosknl) | Marios Kanellopoulos | Patras, Greece | 10,834 |
+| 18 | [GMetaxakis](https://github.com/GMetaxakis) | Georgios Metaxakis | Greece | 10,248 |
+| 19 | [kostis-codefresh](https://github.com/kostis-codefresh) | Kostis (Octopus Deploy) | Athens Greece | 9,257 |
+| 20 | [giannisp](https://github.com/giannisp) | Ioannis Poulakas | Greece | 9,094 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 15,560
 | 19 | [EleftheriaBatsou](https://github.com/EleftheriaBatsou) | Eleftheria Batsou | Thessaloniki, Greece | 808 |
 | 20 | [chsakell](https://github.com/chsakell) | Christos Sakellarios | Athens, Greece | 762 |
 
-Generated: 2026-10-16T14:24:26.384Z
+Generated: 2026-10-16T15:48:48.676Z

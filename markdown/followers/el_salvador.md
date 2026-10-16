@@ -1,6 +1,6 @@
 # Followers - El Salvador
 
-Generated: 2026-10-16T14:18:43.844Z
+Generated: 2026-10-16T15:43:05.333Z
 
 Users: 2378
 
@@ -11,8 +11,8 @@ Users: 2378
 | 3 | [D3Portillo](https://github.com/D3Portillo) | Denny Portillo | @Coding-Bastards  | d3portillo | El Salvador | 205 |
 | 4 | [baylagas](https://github.com/baylagas) | Balbino Aylagas | jobbi.me | BalbinoAylagas | San Salvador, El Salvador | 185 |
 | 5 | [oicrruf](https://github.com/oicrruf) | Víctor M. Reyes | FOCUS Services | oicrruf | San Salvador, El Salvador  | 164 |
-| 6 | [ever1509](https://github.com/ever1509) | Ever Orellana |  |  | El Salvador | 163 |
-| 7 | [chepecarlos](https://github.com/chepecarlos) | Jose Carlos Garcia Diaz | ALSW |  | San Miguel, El Salvador | 156 |
+| 6 | [chepecarlos](https://github.com/chepecarlos) | Jose Carlos Garcia Diaz | ALSW |  | San Miguel, El Salvador | 158 |
+| 7 | [ever1509](https://github.com/ever1509) | Ever Orellana |  |  | El Salvador | 158 |
 | 8 | [ferjoaguilar](https://github.com/ferjoaguilar) | Fernando Jose Aguilar Rivas | snowball-devs |  | El Salvador, San Salvador | 142 |
 | 9 | [Alejandroq12](https://github.com/Alejandroq12) | Julio Quezada | Ravn |  | El Salvador | 135 |
 | 10 | [dgerardoflores](https://github.com/dgerardoflores) | Gerardo Flores | NotAwait | dgerardoflores | El Salvador | 125 |

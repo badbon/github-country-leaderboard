@@ -70,7 +70,7 @@ Indexed users: 235
 | 6 | [srugano](https://github.com/srugano) | Allan Stockman RUGANO  | Burundi | 87 |
 | 7 | [Kirogodye](https://github.com/Kirogodye) | Kirogodye | Burundi | 80 |
 | 8 | [ndikumanaisaie](https://github.com/ndikumanaisaie) | Ndikumana Isaie | Burundi | 78 |
-| 9 | [dondelice257](https://github.com/dondelice257) | Don Delice Dushime | Burundi | 75 |
+| 9 | [dondelice257](https://github.com/dondelice257) | Don Delice Dushime | Burundi | 74 |
 | 10 | [INGANZAMARUMPU](https://github.com/INGANZAMARUMPU) | NKURUNZIZA | Bujumbura, Burundi | 73 |
 | 11 | [ArtcalO](https://github.com/ArtcalO) | The Lone Wolf | Bujumbura, BURUNDI | 64 |
 | 12 | [WCanirinka](https://github.com/WCanirinka) | Wilfried Canirinka | Bujumbura, Burundi | 61 |
@@ -83,4 +83,4 @@ Indexed users: 235
 | 19 | [arsou2015](https://github.com/arsou2015) | Arsene Nduwayo | Burundi | 35 |
 | 20 | [tertcoder](https://github.com/tertcoder) | Bon Tertius Tuyishimire  | Bujumbura, Burundi | 35 |
 
-Generated: 2026-10-16T14:08:40.042Z
+Generated: 2026-10-16T15:34:13.898Z

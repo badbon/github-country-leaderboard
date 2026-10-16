@@ -1,6 +1,6 @@
 # Followers - Dominican Republic
 
-Generated: 2026-10-16T14:16:44.283Z
+Generated: 2026-10-16T15:41:35.404Z
 
 Users: 3301
 
@@ -17,12 +17,12 @@ Users: 3301
 | 9 | [DannyFeliz](https://github.com/DannyFeliz) | Danny Feliz |  | dannyfeliz08 | Santo Domingo, Dominican Republic | 254 |
 | 10 | [KevRojo](https://github.com/KevRojo) | Kevin Rojo | Dulus AI | kevrojo | Dominican Republic | 227 |
 | 11 | [rdelrosario](https://github.com/rdelrosario) | Rendy Del Rosario | CrossGeeks |  | Dominican Republic | 225 |
-| 12 | [Jadhielv](https://github.com/Jadhielv) | Jadhiel Vélez |  | JadhielV | Dominican Republic | 213 |
+| 12 | [Jadhielv](https://github.com/Jadhielv) | Jadhiel Vélez |  | JadhielV | Dominican Republic | 218 |
 | 13 | [crystalduran](https://github.com/crystalduran) | Crystal D |  |  | Santo Domingo, Dominican Republic | 194 |
 | 14 | [robertlluberes](https://github.com/robertlluberes) | Robert Lluberes |  | robertlluberes | Dominican Republic | 164 |
 | 15 | [wilburhimself](https://github.com/wilburhimself) | Wilbur Suero |  | wilburhimself | Santo Domingo, Dominican Republic | 156 |
 | 16 | [itsalb3rt](https://github.com/itsalb3rt) | Albert E. Hidalgo Taveras |  | alhidalgodev | Santiago,Dominican Republic | 154 |
-| 17 | [francisbrito](https://github.com/francisbrito) | Francis Brito | @paymentstack |  | Santo Domingo, Dominican Republic | 153 |
-| 18 | [oldani](https://github.com/oldani) | Ordanis Sanchez |  |  | Dominican Republic | 153 |
+| 17 | [oldani](https://github.com/oldani) | Ordanis Sanchez |  |  | Dominican Republic | 154 |
+| 18 | [francisbrito](https://github.com/francisbrito) | Francis Brito | @paymentstack |  | Santo Domingo, Dominican Republic | 153 |
 | 19 | [eatskolnikov](https://github.com/eatskolnikov) | Enmanuel Toribio | @streamelopers | eatskolnikov | Dominican Republic | 149 |
 | 20 | [adonismendozaperez](https://github.com/adonismendozaperez) | Adonis Mendoza  |  | adonismdza | Dominican Republic | 117 |

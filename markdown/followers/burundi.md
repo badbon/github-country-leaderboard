@@ -1,6 +1,6 @@
 # Followers - Burundi
 
-Generated: 2026-10-16T14:08:40.042Z
+Generated: 2026-10-16T15:34:13.898Z
 
 Users: 235
 
@@ -14,7 +14,7 @@ Users: 235
 | 6 | [srugano](https://github.com/srugano) | Allan Stockman RUGANO  | @UbuhingaVizion  | iMitwe | Burundi | 87 |
 | 7 | [Kirogodye](https://github.com/Kirogodye) | Kirogodye | Inkinolive | kirogodye | Burundi | 80 |
 | 8 | [ndikumanaisaie](https://github.com/ndikumanaisaie) | Ndikumana Isaie |  | Ndikuma38670724 | Burundi | 78 |
-| 9 | [dondelice257](https://github.com/dondelice257) | Don Delice Dushime | Mwezi Labs | dondelicedushi | Burundi | 75 |
+| 9 | [dondelice257](https://github.com/dondelice257) | Don Delice Dushime | Mwezi Labs | dondelicedushi | Burundi | 74 |
 | 10 | [INGANZAMARUMPU](https://github.com/INGANZAMARUMPU) | NKURUNZIZA | hogitugende | inganzamarumpu | Bujumbura, Burundi | 73 |
 | 11 | [ArtcalO](https://github.com/ArtcalO) | The Lone Wolf | @ksquad | ArtcalO97 | Bujumbura, BURUNDI | 64 |
 | 12 | [WCanirinka](https://github.com/WCanirinka) | Wilfried Canirinka | @Asyst-Resources-LTD  | WCanirinka | Bujumbura, Burundi | 61 |

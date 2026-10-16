@@ -66,7 +66,7 @@ Indexed users: 5,069
 | 2 | [eldarlrd](https://github.com/eldarlrd) | Eldar Paşazadə | Baku, Azerbaijan | 991 |
 | 3 | [gojayevmurad](https://github.com/gojayevmurad) | Murad Gojayev | Baku, Azerbaijan | 937 |
 | 4 | [qafaraz](https://github.com/qafaraz) | Qafar Qəmbərzadə | Azerbaijan baku | 664 |
-| 5 | [EminHaziyev](https://github.com/EminHaziyev) | emin | Baku | 626 |
+| 5 | [EminHaziyev](https://github.com/EminHaziyev) | emin | Baku | 598 |
 | 6 | [MuradIsazade777](https://github.com/MuradIsazade777) | Murad  | Baku, Azerbaijan | 527 |
 | 7 | [orkhan-muradov-dev](https://github.com/orkhan-muradov-dev) | Orkhan | Baku, Azerbaijan | 525 |
 | 8 | [TuralSuleymani](https://github.com/TuralSuleymani) | Tural Suleymani | Baku | 471 |
@@ -83,4 +83,4 @@ Indexed users: 5,069
 | 19 | [Jeyhun1227](https://github.com/Jeyhun1227) | Jeyhun Malikli | Baku | 253 |
 | 20 | [husniababaeva](https://github.com/husniababaeva) | Husniyya Babayeva | Azerbaijan,Baku | 252 |
 
-Generated: 2026-10-16T14:04:02.493Z
+Generated: 2026-10-16T15:26:35.155Z

@@ -1,6 +1,6 @@
 # Total Contributions - Angola
 
-Generated: 2026-10-16T14:00:35.959Z
+Generated: 2026-10-16T15:24:16.445Z
 
 Users: 2501
 
@@ -21,8 +21,8 @@ Users: 2501
 | 13 | [cnoble](https://github.com/cnoble) | Chris Noble | Business Warrior |  | Angola, IN | 5388 |
 | 14 | [osvaldowafulua](https://github.com/osvaldowafulua) | Osvaldo Wafulua | Smart Cloud |  | Angola | 4952 |
 | 15 | [noejunior299](https://github.com/noejunior299) | Noé Idagi | ITEL - Institute of Telecomunications | noejunior299 | Angola/Luanda | 4947 |
-| 16 | [overlineink](https://github.com/overlineink) | 𝔍𝖔𝖗𝖌𝖊 𝕮𝖔𝖘𝖙𝖆 | Principal Frontend Engineer @ Appy People, Co-Founder of @businx | overlineink | Luanda, Angola | 3700 |
+| 16 | [Dalcio](https://github.com/Dalcio) | Dálcio Macuete Garcia |  | dalcio_ | Angola | 3992 |
 | 17 | [steviejames](https://github.com/steviejames) | Sílvio Dumba |  |  | Luanda, Angola | 3691 |
 | 18 | [paulinofonsecas](https://github.com/paulinofonsecas) | Paulino Fonseca | BITKABIR | fonseca00c | Luanda | 3660 |
-| 19 | [BaziotaBeans](https://github.com/BaziotaBeans) | Fábio Baziota |  | baziota | Angola/Luanda | 3546 |
-| 20 | [euclidesdry](https://github.com/euclidesdry) | Ëüclïdës DRY | @TripeeApp | euclidesdry | Belas, Luanda - Angola | 3529 |
+| 19 | [overlineink](https://github.com/overlineink) | 𝔍𝖔𝖗𝖌𝖊 𝕮𝖔𝖘𝖙𝖆 | Principal Frontend Engineer @ Appy People, Co-Founder of @businx | overlineink | Luanda, Angola | 3600 |
+| 20 | [BaziotaBeans](https://github.com/BaziotaBeans) | Fábio Baziota |  | baziota | Angola/Luanda | 3546 |

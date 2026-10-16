@@ -1,6 +1,6 @@
 # Total Contributions - Tanzania
 
-Generated: 2026-10-16T13:50:04.157Z
+Generated: 2026-10-16T15:11:45.731Z
 
 Users: 2039
 
@@ -15,7 +15,7 @@ Users: 2039
 | 7 | [cleven12](https://github.com/cleven12) | cleven |  | cleven02 | Tanzania | 17597 |
 | 8 | [fredy-me](https://github.com/fredy-me) | Melkizedek Fredy | Busara Digital  |  | Dar Es Salaam, Tanzania | 14251 |
 | 9 | [Lurgic-error](https://github.com/Lurgic-error) | Lurge | Fair Competition Commission | lurgic_me | Tanzania, Dar es salaam | 13070 |
-| 10 | [tarxemo](https://github.com/tarxemo) | TarXemo | TarXemo |  | Dodoma-Tanzania | 12163 |
+| 10 | [tarxemo](https://github.com/tarxemo) | TarXemo | TarXemo |  | Dodoma-Tanzania | 11527 |
 | 11 | [pro-cms](https://github.com/pro-cms) | Novath Thomas | Zepson Technologies |  | TANZANIA | 10825 |
 | 12 | [TheCollinsByte](https://github.com/TheCollinsByte) | Collins | @KwaWingu | TheCollinsByte | Arusha, Tanzania | 10759 |
 | 13 | [mwakatumbula](https://github.com/mwakatumbula) | Francis Mwakatumbula | Lockwood Technology  | mwakatumbula_ | Dar es salaam,Tanzania | 9814 |

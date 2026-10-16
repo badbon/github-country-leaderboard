@@ -1,12 +1,12 @@
 # Total Contributions - Gambia
 
-Generated: 2026-10-16T14:22:32.162Z
+Generated: 2026-10-16T15:48:01.299Z
 
 Users: 79
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [FrancisMario](https://github.com/FrancisMario) | Marxlo |  |  | Gambia | 3623 |
+| 1 | [FrancisMario](https://github.com/FrancisMario) | Marxlo |  |  | Gambia | 3644 |
 | 2 | [khanmomodou101](https://github.com/khanmomodou101) | Momodou khan | Royalsmb |  | Gambia | 3193 |
 | 3 | [ZaynSaul](https://github.com/ZaynSaul) | Saul Zayn | @DANOSOFT |  | Gambia/Banjul | 1510 |
 | 4 | [cyberdavinci](https://github.com/cyberdavinci) | CyberDavinci | Dcyberlab |  | Gambia | 1344 |
@@ -15,7 +15,7 @@ Users: 79
 | 7 | [harunaabaldeh](https://github.com/harunaabaldeh) | Haruna A Baldeh | Kendesoft | farmerscoder | Banjul | 847 |
 | 8 | [Juniorbarry26](https://github.com/Juniorbarry26) | Alsainey Barry | Nafa Financial | fula_programmer | Gambia | 734 |
 | 9 | [almamarie](https://github.com/almamarie) | Louis Marie Atoluko Ayariga | African Commission on Human and Peoples' Rights | MarieLoumar | Banjul, The Gambia | 654 |
-| 10 | [geniuskidkanyi](https://github.com/geniuskidkanyi) | muhammed kanyi | Gcubed | ghostkanyi | Gambia | 624 |
+| 10 | [geniuskidkanyi](https://github.com/geniuskidkanyi) | muhammed kanyi | Gcubed | ghostkanyi | Gambia | 625 |
 | 11 | [deedevs](https://github.com/deedevs) | David Ladipo |  | davy0417 | Banjul, The Gambia | 599 |
 | 12 | [gidavehub](https://github.com/gidavehub) | Godswill Iyke Dave |  | gidave_ | Banjul, The Gambia | 494 |
 | 13 | [bahsulayman689-hash](https://github.com/bahsulayman689-hash) | sulayman bah | NAN |  | Banjul | 413 |
@@ -23,6 +23,6 @@ Users: 79
 | 15 | [JonMonday](https://github.com/JonMonday) | JohnMonday |  |  | Banjul, The Gambia | 259 |
 | 16 | [Baboucar](https://github.com/Baboucar) | Baboucarr |  |  | Gambia | 223 |
 | 17 | [fiture99](https://github.com/fiture99) | Lamin Jawneh |  | jawneh_lamin | Banjul, Gambia | 209 |
-| 18 | [Degoot-AM](https://github.com/Degoot-AM) | Abdoelnaser M Degoot | @LSHTM @MRCG |  | Banjul, Gambia | 177 |
+| 18 | [Degoot-AM](https://github.com/Degoot-AM) | Abdoelnaser M Degoot | @LSHTM @MRCG |  | Banjul, Gambia | 178 |
 | 19 | [Karim-Mane](https://github.com/Karim-Mane) | Karim MANE | Medical Research Council The Gambia Unit at London School of Hygiene and Tropical medicine |  | Gambia | 152 |
 | 20 | [ONjie](https://github.com/ONjie) | Muhammed O Njie |  |  | Banjul, The Gambia | 138 |

@@ -1,6 +1,6 @@
 # Total Contributions - Dominican Republic
 
-Generated: 2026-10-16T14:16:44.283Z
+Generated: 2026-10-16T15:41:35.404Z
 
 Users: 3301
 
@@ -20,9 +20,9 @@ Users: 3301
 | 12 | [sanchezta](https://github.com/sanchezta) | Adrian Sanchez | Verus Capital & Batea Fintech SAS |  | Dominican Republic | 6885 |
 | 13 | [dkropachev](https://github.com/dkropachev) | Dmitry Kropachev | Scylla |  | Dominican Republic | 6784 |
 | 14 | [arielbritorivera](https://github.com/arielbritorivera) | Ariel A. Brito | Brito Solutions BS |  | Dominican Republic | 6641 |
-| 15 | [focux](https://github.com/focux) | Leonardo E. Dominguez |  | foocux | Dominican Republic | 6567 |
-| 16 | [lewandy](https://github.com/lewandy) | Lewandy Dilone | @x-team @Reunionmarketing | lewandydilone | Santiago,Dominican Republic | 6261 |
-| 17 | [franklinmdev](https://github.com/franklinmdev) | Franklin Martinez | Nubeteck, SRL |  | Dominican Republic | 6230 |
-| 18 | [AnthRG](https://github.com/AnthRG) | Anthony Rosario G. | T-Eco |  | Dominican Republic | 5922 |
-| 19 | [ERPalmer](https://github.com/ERPalmer) | ERPalmer |  | ERPalmer | Dominican Republic | 5854 |
-| 20 | [dewynl](https://github.com/dewynl) | Dewyn Liriano | FranklinCovey |  | Santiago, Dominican Republic | 5818 |
+| 15 | [luismts](https://github.com/luismts) | Luis Matos | @lacomarcaDO @xamarinuniverse  | luismatosluna | Dominican Republic | 6633 |
+| 16 | [focux](https://github.com/focux) | Leonardo E. Dominguez |  | foocux | Dominican Republic | 6567 |
+| 17 | [lewandy](https://github.com/lewandy) | Lewandy Dilone | @x-team @Reunionmarketing | lewandydilone | Santiago,Dominican Republic | 6261 |
+| 18 | [franklinmdev](https://github.com/franklinmdev) | Franklin Martinez | Nubeteck, SRL |  | Dominican Republic | 6230 |
+| 19 | [AnthRG](https://github.com/AnthRG) | Anthony Rosario G. | T-Eco |  | Dominican Republic | 5922 |
+| 20 | [ERPalmer](https://github.com/ERPalmer) | ERPalmer |  | ERPalmer | Dominican Republic | 5854 |

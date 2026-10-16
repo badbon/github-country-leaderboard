@@ -1,8 +1,8 @@
 # Total Contributions - Greece
 
-Generated: 2026-10-16T14:24:26.384Z
+Generated: 2026-10-16T15:48:48.676Z
 
-Users: 15560
+Users: 15559
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -18,11 +18,11 @@ Users: 15560
 | 10 | [anavalo](https://github.com/anavalo) | Tasos Tsournos | @moveo-ai |  | Athens | 13731 |
 | 11 | [gakonst](https://github.com/gakonst) | Georgios Konstantopoulos | @paradigmxyz | gakonst | Thessaloniki, Greece | 12801 |
 | 12 | [georgiosd](https://github.com/georgiosd) | Georgios Diamantopoulos | Zero to MVP, Inc. |  | Athens, Greece | 12657 |
-| 13 | [apmantza](https://github.com/apmantza) | Apostolos Mantzaris |  |  | Athens, Greece | 11367 |
-| 14 | [ryanzidago](https://github.com/ryanzidago) | Ryan Zidago | @sona-is  |  | Athens, Greece | 11068 |
-| 15 | [aristath](https://github.com/aristath) | Ari Stathopoulos | Emilia Capital | aristath | Corinth, Greece | 10846 |
-| 16 | [mariosknl](https://github.com/mariosknl) | Marios Kanellopoulos | Front End Developer | mariosknl | Patras, Greece | 10834 |
-| 17 | [GMetaxakis](https://github.com/GMetaxakis) | Georgios Metaxakis |  |  | Greece | 10248 |
-| 18 | [kostis-codefresh](https://github.com/kostis-codefresh) | Kostis (Octopus Deploy) | Octopus Deploy (ex. Codefresh) | codepipes | Athens Greece | 9257 |
-| 19 | [giannisp](https://github.com/giannisp) | Ioannis Poulakas |  |  | Greece | 9094 |
-| 20 | [efthymios19](https://github.com/efthymios19) | Efthymios Chrysanthopoulos | National Technical University of Athens - School of Mining and Metallurgical Engineering - Laboratory of Engineering Geology and Hydrogeology |  | Athens, Greece | 8530 |
+| 13 | [Filipgerm](https://github.com/Filipgerm) | Filippos Germanopoulos |  |  | Greece | 12252 |
+| 14 | [apmantza](https://github.com/apmantza) | Apostolos Mantzaris |  |  | Athens, Greece | 11367 |
+| 15 | [ryanzidago](https://github.com/ryanzidago) | Ryan Zidago | @sona-is  |  | Athens, Greece | 11068 |
+| 16 | [aristath](https://github.com/aristath) | Ari Stathopoulos | Emilia Capital | aristath | Corinth, Greece | 10846 |
+| 17 | [mariosknl](https://github.com/mariosknl) | Marios Kanellopoulos | Front End Developer | mariosknl | Patras, Greece | 10834 |
+| 18 | [GMetaxakis](https://github.com/GMetaxakis) | Georgios Metaxakis |  |  | Greece | 10248 |
+| 19 | [kostis-codefresh](https://github.com/kostis-codefresh) | Kostis (Octopus Deploy) | Octopus Deploy (ex. Codefresh) | codepipes | Athens Greece | 9257 |
+| 20 | [giannisp](https://github.com/giannisp) | Ioannis Poulakas |  |  | Greece | 9094 |

@@ -1,12 +1,12 @@
 # Total Contributions - Eswatini
 
-Generated: 2026-10-16T14:19:21.693Z
+Generated: 2026-10-16T15:44:55.839Z
 
 Users: 108
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [rapthar](https://github.com/rapthar) | Mncedisi Bhembe | Flash Coded |  | Swaziland | 21425 |
+| 1 | [rapthar](https://github.com/rapthar) | Mncedisi Bhembe | Flash Coded |  | Swaziland | 21429 |
 | 2 | [Chasusa](https://github.com/Chasusa) | Paul Chasusa |  |  | Eswatini, Southern Africa | 1770 |
 | 3 | [Co-ordinator](https://github.com/Co-ordinator) | Coordinator | Bits & PCs | Coordinator | Manzini, Eswatini | 1040 |
 | 4 | [CBahtaria](https://github.com/CBahtaria) | Charles Bartaria | BRT Inc. |  | Manzini, Kingdom of Eswatini | 1007 |
@@ -14,7 +14,7 @@ Users: 108
 | 6 | [Dwaynemaster007](https://github.com/Dwaynemaster007) | Thubelihle Dlamini |  |  | Eswatini | 461 |
 | 7 | [SakhileMamba](https://github.com/SakhileMamba) | Sakhile Mamba |  |  | Eswatini | 365 |
 | 8 | [Dalubuhle-Dlamini](https://github.com/Dalubuhle-Dlamini) | Sihlelo Dalubuhle Dlamini |  |  | Swaziland | 330 |
-| 9 | [kingMasombuka](https://github.com/kingMasombuka) | Senzo Ncongwane |  |  | Swaziland | 278 |
+| 9 | [kingMasombuka](https://github.com/kingMasombuka) | Senzo Ncongwane |  |  | Swaziland | 284 |
 | 10 | [wandilemawelela](https://github.com/wandilemawelela) | Wandile Mawelela | Intuition | wandilemawelel | Manzini, Eswatini | 254 |
 | 11 | [temesgen-tana](https://github.com/temesgen-tana) | Temesgen Tana | Innovation Forge |  | Eswatini | 223 |
 | 12 | [Njabulo240](https://github.com/Njabulo240) | Njabulo Mamba | RFK Solutions |  | Eswatini, Manzini | 189 |

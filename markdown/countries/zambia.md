@@ -18,7 +18,7 @@ Indexed users: 1,338
 | 4 | [CHAMA18](https://github.com/CHAMA18) | Chungu Chipimo Chama | Lusaka, Zambia | 11,074 |
 | 5 | [thompsonmanda08](https://github.com/thompsonmanda08) | Thompson Manda | Zambia | 8,828 |
 | 6 | [Abdurrahmaan9](https://github.com/Abdurrahmaan9) |  | Lusaka, Zambia  | 7,240 |
-| 7 | [senorMk](https://github.com/senorMk) | Penjani M | Zambia | 6,485 |
+| 7 | [senorMk](https://github.com/senorMk) | Penjani M | Zambia | 6,710 |
 | 8 | [c00p75](https://github.com/c00p75) | George M'sapenda | Lusaka, Zambia | 5,444 |
 | 9 | [S4INT25](https://github.com/S4INT25) | luckson | lusaka zambia  | 5,309 |
 | 10 | [cacious7](https://github.com/cacious7) | Cacious Siamunyanga | Lusaka, Zambia | 4,384 |
@@ -83,4 +83,4 @@ Indexed users: 1,338
 | 19 | [blessedjasonmwanza](https://github.com/blessedjasonmwanza) | Blessed Jason Mwanza |  Lusaka, Zambia | 104 |
 | 20 | [Eathorne2](https://github.com/Eathorne2) | Eathorne | Lusaka, Zambia | 103 |
 
-Generated: 2026-10-16T13:57:31.642Z
+Generated: 2026-10-16T15:19:48.791Z

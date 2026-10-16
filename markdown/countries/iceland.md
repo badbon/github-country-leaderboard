@@ -26,7 +26,7 @@ Indexed users: 1,578
 | 12 | [rbjarnason](https://github.com/rbjarnason) | Róbert Viðar Bjarnason | Iceland | 7,954 |
 | 13 | [sarnason](https://github.com/sarnason) | Steingrímur Árnason | Reykjavik, Iceland | 7,577 |
 | 14 | [olioskar](https://github.com/olioskar) | Olafur O. Egilsson | Reykjavik | 7,571 |
-| 15 | [RationallyPrime](https://github.com/RationallyPrime) | Hákon Freyr Gunnarsson | Iceland | 7,306 |
+| 15 | [RationallyPrime](https://github.com/RationallyPrime) | Hákon Freyr Gunnarsson | Iceland | 7,475 |
 | 16 | [bjornj12](https://github.com/bjornj12) | Björn Ólafur Jóhannsson | iceland | 6,895 |
 | 17 | [arnavmehta7](https://github.com/arnavmehta7) | Arnav Mehta | Island | 6,770 |
 | 18 | [gthb](https://github.com/gthb) | Gunnlaugur Thor Briem | Reykjavík, Iceland | 6,628 |
@@ -83,4 +83,4 @@ Indexed users: 1,578
 | 19 | [jokull](https://github.com/jokull) | Jökull Sólberg Auðunsson | Reykjavík, Iceland | 209 |
 | 20 | [sbsigur](https://github.com/sbsigur) | Sævar Bergur Sigurgeirsson | Iceland | 203 |
 
-Generated: 2026-10-16T14:28:25.828Z
+Generated: 2026-10-16T15:53:36.432Z

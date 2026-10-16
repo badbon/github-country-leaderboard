@@ -18,7 +18,7 @@ Indexed users: 459
 | 4 | [ifarbod](https://github.com/ifarbod) | iFarbod | Antarctica  | 5,206 |
 | 5 | [jeongho](https://github.com/jeongho) | Jeongho Park | Deception Island, Antarctica | 5,048 |
 | 6 | [morgaesis](https://github.com/morgaesis) | Mörgæsis | Antarctica | 4,999 |
-| 7 | [JohnChristianD](https://github.com/JohnChristianD) | John Christian Domingo | Antarctica | 4,771 |
+| 7 | [JohnChristianD](https://github.com/JohnChristianD) | John Christian Domingo | Antarctica | 4,791 |
 | 8 | [AntoineSebert](https://github.com/AntoineSebert) | Antoine Sébert | Antarctica | 4,725 |
 | 9 | [Sup2point0](https://github.com/Sup2point0) | Sup#2.0 | Antarctica | 4,616 |
 | 10 | [bharxhav](https://github.com/bharxhav) | Bhargav Kantheti | antarctica | 4,217 |
@@ -37,7 +37,7 @@ Indexed users: 459
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [JohnChristianD](https://github.com/JohnChristianD) | John Christian Domingo | Antarctica | 4,771 |
+| 1 | [JohnChristianD](https://github.com/JohnChristianD) | John Christian Domingo | Antarctica | 4,791 |
 | 2 | [Sup2point0](https://github.com/Sup2point0) | Sup#2.0 | Antarctica | 4,226 |
 | 3 | [morgaesis](https://github.com/morgaesis) | Mörgæsis | Antarctica | 3,520 |
 | 4 | [ethicnology](https://github.com/ethicnology) | Azad | Antarctica | 3,053 |
@@ -83,4 +83,4 @@ Indexed users: 459
 | 19 | [alphaaurigae](https://github.com/alphaaurigae) | Marian Brockerhoff | Antarctica | 86 |
 | 20 | [fakeid30](https://github.com/fakeid30) | Fake ID | Antarctica | 78 |
 
-Generated: 2026-10-16T14:01:58.745Z
+Generated: 2026-10-16T15:24:23.862Z

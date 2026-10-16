@@ -1,6 +1,6 @@
 # Public Contributions - Dominican Republic
 
-Generated: 2026-10-16T14:16:44.283Z
+Generated: 2026-10-16T15:41:35.404Z
 
 Users: 3301
 
@@ -14,11 +14,11 @@ Users: 3301
 | 6 | [ubercylon8](https://github.com/ubercylon8) | James Pichardo |  |  | Dominican Republic | 3034 |
 | 7 | [xNeuNoRo](https://github.com/xNeuNoRo) | Ángel González Muñoz |  |  | Dominican Republic | 2552 |
 | 8 | [FredPeal](https://github.com/FredPeal) | Frederick Peñalo | McTekk SRL | frederickpeal | Dominican Republic | 2053 |
-| 9 | [henfrydls](https://github.com/henfrydls) | Henfry De Los Santos | Soventix Caribbean SRL |  | Santo Domingo, República Dominicana | 1900 |
-| 10 | [dbremont](https://github.com/dbremont) | Daniel  de Victoriano y Bremont |  |  | America, Dominican Republic | 1827 |
-| 11 | [lrojas94](https://github.com/lrojas94) | Luis E. Rojas Cabrera |  |  | Santiago, Dominican Republic | 1786 |
-| 12 | [bryanstevensacosta](https://github.com/bryanstevensacosta) | Bryan Acosta |  |  | Dominican Republic | 1758 |
-| 13 | [jesusantguerrero](https://github.com/jesusantguerrero) | Jesus Guerrero | Insane Code | jesusntguerrero | Santo Domingo, Dominican Republic | 1735 |
+| 9 | [jesusantguerrero](https://github.com/jesusantguerrero) | Jesus Guerrero Álvarez  | Insane Code | jesusntguerrero | Santo Domingo, Dominican Republic | 1908 |
+| 10 | [henfrydls](https://github.com/henfrydls) | Henfry De Los Santos | Soventix Caribbean SRL |  | Santo Domingo, República Dominicana | 1900 |
+| 11 | [dbremont](https://github.com/dbremont) | Daniel  de Victoriano y Bremont |  |  | America, Dominican Republic | 1827 |
+| 12 | [lrojas94](https://github.com/lrojas94) | Luis E. Rojas Cabrera |  |  | Santiago, Dominican Republic | 1786 |
+| 13 | [bryanstevensacosta](https://github.com/bryanstevensacosta) | Bryan Acosta |  |  | Dominican Republic | 1758 |
 | 14 | [XavielT](https://github.com/XavielT) | Xaviel Terrero |  |  | Dominican Republic | 1718 |
 | 15 | [franklinmdev](https://github.com/franklinmdev) | Franklin Martinez | Nubeteck, SRL |  | Dominican Republic | 1622 |
 | 16 | [oliverdiaz873](https://github.com/oliverdiaz873) | Oliver Antonio Diaz |  |  | Santo Domingo | 1545 |

@@ -13,7 +13,7 @@ Indexed users: 256
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [Spartanlasergun](https://github.com/Spartanlasergun) | Narendra Singh | Trinidad and Tobago | 6,206 |
-| 2 | [jeiang](https://github.com/jeiang) | Aidan Pinard | Trinidad and Tobago | 5,138 |
+| 2 | [jeiang](https://github.com/jeiang) | Aidan Pinard | Trinidad and Tobago | 5,150 |
 | 3 | [jefroy](https://github.com/jefroy) | Ajay Sieunarine | Trinidad and Tobago | 4,257 |
 | 4 | [kyledef](https://github.com/kyledef) | Kyle E DeFreitas | Canda / Trinidad and Tobago / St Vincent and the Grenadines | 3,151 |
 | 5 | [Emille1723](https://github.com/Emille1723) | Emille Henry | Trinidad and Tobago | 3,069 |
@@ -28,16 +28,16 @@ Indexed users: 256
 | 14 | [Yhonathon-Maharaj](https://github.com/Yhonathon-Maharaj) | Yhonathon Maharaj | Trinidad and Tobago | 1,403 |
 | 15 | [mreid-tt](https://github.com/mreid-tt) | Michael Reid | Trinidad and Tobago | 1,282 |
 | 16 | [renniemaharaj](https://github.com/renniemaharaj) | Rennie Maharaj | Trinidad and Tobago | 1,186 |
-| 17 | [kwamet](https://github.com/kwamet) | Kwame Trancoso | Trinidad and Tobago | 1,010 |
-| 18 | [ZeroDayz77](https://github.com/ZeroDayz77) | Darnell Garcia | Trinidad and Tobago | 997 |
-| 19 | [adrifranCode](https://github.com/adrifranCode) | Adrien Francois | Trinidad and Tobago | 987 |
+| 17 | [ZeroDayz77](https://github.com/ZeroDayz77) | Darnell Garcia | Trinidad and Tobago | 997 |
+| 18 | [adrifranCode](https://github.com/adrifranCode) | Adrien Francois | Trinidad and Tobago | 995 |
+| 19 | [kwamet](https://github.com/kwamet) | Kwame Trancoso | Trinidad and Tobago | 992 |
 | 20 | [DanielYatali](https://github.com/DanielYatali) | Daniel Yatali | Trinidad and Tobago | 987 |
 
 ## Public Contributions
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [jeiang](https://github.com/jeiang) | Aidan Pinard | Trinidad and Tobago | 4,788 |
+| 1 | [jeiang](https://github.com/jeiang) | Aidan Pinard | Trinidad and Tobago | 4,799 |
 | 2 | [snorkpete](https://github.com/snorkpete) | Kion Stephen | Trinidad and Tobago | 1,436 |
 | 3 | [renniemaharaj](https://github.com/renniemaharaj) | Rennie Maharaj | Trinidad and Tobago | 1,186 |
 | 4 | [mreid-tt](https://github.com/mreid-tt) | Michael Reid | Trinidad and Tobago | 1,092 |
@@ -83,4 +83,4 @@ Indexed users: 256
 | 19 | [DionMS8](https://github.com/DionMS8) | Dion Singh | Trinidad and Tobago | 29 |
 | 20 | [wyntonfranklin](https://github.com/wyntonfranklin) | Wynton Franklin | Trinidad and Tobago | 28 |
 
-Generated: 2026-10-16T13:52:51.983Z
+Generated: 2026-10-16T15:13:48.497Z

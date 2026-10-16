@@ -21,7 +21,7 @@ Indexed users: 700
 | 7 | [Theodorebinda](https://github.com/Theodorebinda) | Theodore SAMBA | kinshasa | 6,908 |
 | 8 | [esaiemuhasa](https://github.com/esaiemuhasa) | Esaie Muhasa | Butembo, Congo Kinshasa | 6,684 |
 | 9 | [merdielongo](https://github.com/merdielongo) | merdielongo | Congo / Kinshasa | 6,239 |
-| 10 | [andydefer](https://github.com/andydefer) | Andy Kani | Democratic Republic of Congo | 6,103 |
+| 10 | [andydefer](https://github.com/andydefer) | Andy Kani | Democratic Republic of Congo | 6,200 |
 | 11 | [bindukabusara](https://github.com/bindukabusara) | Bindu Kabusara Josué | Kampala, Kinshasa | 5,953 |
 | 12 | [kalemadaniel](https://github.com/kalemadaniel) | Kalema Daniel Jonathan | Democratic Republic of the Congo, Goma | 5,931 |
 | 13 | [stany-bns](https://github.com/stany-bns) | Stany Bibwangu | Kinshasa, DRC | 5,756 |
@@ -38,7 +38,7 @@ Indexed users: 700
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [coolbeatz71](https://github.com/coolbeatz71) | Mutombo Jean-Vincent | Kinshasa, Kigali | 31,929 |
-| 2 | [andydefer](https://github.com/andydefer) | Andy Kani | Democratic Republic of Congo | 6,103 |
+| 2 | [andydefer](https://github.com/andydefer) | Andy Kani | Democratic Republic of Congo | 6,200 |
 | 3 | [Theodorebinda](https://github.com/Theodorebinda) | Theodore SAMBA | kinshasa | 3,168 |
 | 4 | [ChrisJustice600](https://github.com/ChrisJustice600) | justice | Kinshasa | 2,624 |
 | 5 | [vickbk](https://github.com/vickbk) | Victoire Bake | Goma, DR Congo | 2,609 |
@@ -83,4 +83,4 @@ Indexed users: 700
 | 19 | [bolenge](https://github.com/bolenge) | Don de Dieu Bolenge | Congo - Kinshasa | 69 |
 | 20 | [ChrisMwanya](https://github.com/ChrisMwanya) | Chris Mwanya | kinshasa | 69 |
 
-Generated: 2026-10-16T14:17:28.702Z
+Generated: 2026-10-16T15:42:15.238Z

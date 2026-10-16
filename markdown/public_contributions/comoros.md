@@ -1,6 +1,6 @@
 # Public Contributions - Comoros
 
-Generated: 2026-10-16T14:14:32.951Z
+Generated: 2026-10-16T15:37:33.678Z
 
 Users: 11
 
@@ -8,7 +8,7 @@ Users: 11
 |---:|---|---|---|---|---|---:|
 | 1 | [DiWess](https://github.com/DiWess) | Soilihi Mohamed Abdoulhalik | Issaabuu Management Inc. |  | Moroni | 397 |
 | 2 | [yvssineyh269](https://github.com/yvssineyh269) | Yassine YH |  |  | Moroni, Comoros | 44 |
-| 3 | [slashedk](https://github.com/slashedk) | katchan |  |  | Comoros | 25 |
+| 3 | [slashedk](https://github.com/slashedk) | katchan |  |  | Comoros | 28 |
 | 4 | [faustfizz](https://github.com/faustfizz) | Youssouf Mbaé AS | Slashz | johnnyFaustfizz | Comoros  | 17 |
 | 5 | [abdi-momo](https://github.com/abdi-momo) | Abdillah Mohamed | Université des Comores |  | Moroni | 8 |
 | 6 | [Yssoufa](https://github.com/Yssoufa) | THABITI YSSOUFA | UNECA/UNIVERSITY OF COMOROS |  | Comoros | 3 |

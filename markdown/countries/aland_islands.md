@@ -19,7 +19,7 @@ Indexed users: 61
 | 5 | [olegamobile](https://github.com/olegamobile) | Oleg Balandin | Mariehamn | 1,750 |
 | 6 | [MarkusYPA](https://github.com/MarkusYPA) | Markus Amberla | Mariehamn and Helsinki | 1,504 |
 | 7 | [linusaarnio](https://github.com/linusaarnio) | Linus Aarnio | Åland, Finland | 1,230 |
-| 8 | [taneli-paf](https://github.com/taneli-paf) | Taneli Mäkihannu | Mariehamn, Åland Islands | 1,214 |
+| 8 | [taneli-paf](https://github.com/taneli-paf) | Taneli Mäkihannu | Mariehamn, Åland Islands | 1,222 |
 | 9 | [SaddamHosyn](https://github.com/SaddamHosyn) | Hussain Saddam | Mariehamn, Åland | 1,024 |
 | 10 | [mareerray](https://github.com/mareerray) | Mayuree Reunsati | Mariehamn, Åland | 825 |
 | 11 | [fannielf](https://github.com/fannielf) | Fanni Vesanen | Mariehamn | 578 |
@@ -83,4 +83,4 @@ Indexed users: 61
 | 19 | [GitHug](https://github.com/GitHug) | Fredrik Mäkilä | London / Mariehamn | 10 |
 | 20 | [fannielf](https://github.com/fannielf) | Fanni Vesanen | Mariehamn | 9 |
 
-Generated: 2026-10-16T13:58:45.912Z
+Generated: 2026-10-16T15:21:55.549Z

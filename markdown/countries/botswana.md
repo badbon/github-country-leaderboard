@@ -20,9 +20,9 @@ Indexed users: 533
 | 6 | [kmaphane](https://github.com/kmaphane) | Kenna Maphane | Maun, Botswana | 2,477 |
 | 7 | [Koketso1999](https://github.com/Koketso1999) | Koketso Morapedi | Gaborone, Botswana | 2,335 |
 | 8 | [ChinyangaTL](https://github.com/ChinyangaTL) | Les Chinyanga | Gaborone, Botswana | 2,299 |
-| 9 | [Fuzzworth](https://github.com/Fuzzworth) | Nyangasi Mhozya | Botswana | 2,240 |
-| 10 | [mwmiller](https://github.com/mwmiller) | Matt Miller | Gaborone, Botswana | 2,143 |
-| 11 | [Batoli19](https://github.com/Batoli19) | future | Gaborone | 2,135 |
+| 9 | [Batoli19](https://github.com/Batoli19) | future | Gaborone | 2,278 |
+| 10 | [Fuzzworth](https://github.com/Fuzzworth) | Nyangasi Mhozya | Botswana | 2,240 |
+| 11 | [mwmiller](https://github.com/mwmiller) | Matt Miller | Gaborone, Botswana | 2,143 |
 | 12 | [Tebalo](https://github.com/Tebalo) | Bopaki | Botswana, Gaborone-Mokobaxane | 2,097 |
 | 13 | [mrdiin](https://github.com/mrdiin) | Botshelo Brandon Tidimalo | Gaborone | 2,063 |
 | 14 | [BakangMonei](https://github.com/BakangMonei) | Monei Bakang | Gaborone, Botswana | 2,056 |
@@ -47,7 +47,7 @@ Indexed users: 533
 | 8 | [tmosimanyana](https://github.com/tmosimanyana) | Tinny Mosimanyana | Gaborone, Botswana | 829 |
 | 9 | [Mopati123](https://github.com/Mopati123) | Mopati Ramaologa | Gaborone, Botswana | 735 |
 | 10 | [Cse21-034](https://github.com/Cse21-034) | leatile mosimanyana | Gaborone | 616 |
-| 11 | [Scheke](https://github.com/Scheke) | Boipuso Rante | Botswana | 592 |
+| 11 | [Scheke](https://github.com/Scheke) | Boipuso Rante | Botswana | 581 |
 | 12 | [loag0](https://github.com/loag0) | Loago Moremi | Botswana | 562 |
 | 13 | [Sesame-alpha](https://github.com/Sesame-alpha) | SESAME DITHUPA | Botswana 🇧🇼  | 543 |
 | 14 | [bChandrax](https://github.com/bChandrax) | Karabo Machanja | Botswana | 442 |
@@ -83,4 +83,4 @@ Indexed users: 533
 | 19 | [BakangMonei](https://github.com/BakangMonei) | Monei Bakang | Gaborone, Botswana | 34 |
 | 20 | [Tebalo](https://github.com/Tebalo) | Bopaki | Botswana, Gaborone-Mokobaxane | 34 |
 
-Generated: 2026-10-16T14:07:56.075Z
+Generated: 2026-10-16T15:30:25.799Z

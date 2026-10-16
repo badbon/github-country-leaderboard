@@ -18,7 +18,7 @@ Indexed users: 45
 | 4 | [tris203](https://github.com/tris203) | Tristan Knight | Guernsey | 1,360 |
 | 5 | [technosight](https://github.com/technosight) | Ivan Petrov | St Peter Port, Guernsey | 993 |
 | 6 | [mh0lt](https://github.com/mh0lt) | Mark Holt | Guernsey | 672 |
-| 7 | [bkp7](https://github.com/bkp7) | Barry Pitfield | Guernsey | 450 |
+| 7 | [bkp7](https://github.com/bkp7) | Barry Pitfield | Guernsey | 452 |
 | 8 | [YuriGuernsey](https://github.com/YuriGuernsey) | Yuri Alves | Guernsey | 380 |
 | 9 | [GlennToms](https://github.com/GlennToms) | Glenn Toms | Guernsey | 258 |
 | 10 | [JamesK2754](https://github.com/JamesK2754) | James King | Guernsey | 231 |
@@ -83,4 +83,4 @@ Indexed users: 45
 | 19 | [LIHITAB](https://github.com/LIHITAB) | Like and Code on GitHub | Guernsey, CI | 3 |
 | 20 | [mtp-tkostudax](https://github.com/mtp-tkostudax) | Shanty Irish | Guernsey | 3 |
 
-Generated: 2026-10-16T14:25:54.376Z
+Generated: 2026-10-16T15:49:30.006Z

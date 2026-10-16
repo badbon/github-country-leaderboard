@@ -1,8 +1,8 @@
 # Total Contributions - Switzerland
 
-Generated: 2026-10-16T13:48:21.148Z
+Generated: 2026-10-16T15:09:41.883Z
 
-Users: 24085
+Users: 24084
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

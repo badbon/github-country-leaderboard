@@ -1,6 +1,6 @@
 # Gabon
 
-Indexed users: 315
+Indexed users: 314
 
 | Leaderboard | Link |
 |---|---|
@@ -24,14 +24,14 @@ Indexed users: 315
 | 10 | [NathanLeFuturMillionaire](https://github.com/NathanLeFuturMillionaire) | Nathan Le Fütür Milliønãîre | Libreville | 731 |
 | 11 | [nguie2](https://github.com/nguie2) | jean roch | Libreville, Gabon | 673 |
 | 12 | [dynamo63](https://github.com/dynamo63) | Mouckeytou Moulongui | Gabon | 625 |
-| 13 | [DodgeElfry](https://github.com/DodgeElfry) | Dox | Gabon | 575 |
-| 14 | [EbenEzer-MOMBO](https://github.com/EbenEzer-MOMBO) | MOMBO Eben | Gabon | 569 |
-| 15 | [MeylandMan](https://github.com/MeylandMan) | M.Meyland | Gabon | 560 |
-| 16 | [mawuva](https://github.com/mawuva) | Ephraïm SEDDOR | Libreville, Lomé | 485 |
-| 17 | [mendoc](https://github.com/mendoc) | Dimitri ONGOUA | Libreville, Gabon | 473 |
-| 18 | [jealife](https://github.com/jealife) | JEaLiFe | Gabon | 451 |
-| 19 | [FeldymZ](https://github.com/FeldymZ) | Feldy MZ | Libreville | 377 |
-| 20 | [glennNTM](https://github.com/glennNTM) | Glenn Ntoutoume | Libreville - Gabon | 342 |
+| 13 | [EbenEzer-MOMBO](https://github.com/EbenEzer-MOMBO) | MOMBO Eben | Gabon | 569 |
+| 14 | [MeylandMan](https://github.com/MeylandMan) | M.Meyland | Gabon | 560 |
+| 15 | [mawuva](https://github.com/mawuva) | Ephraïm SEDDOR | Libreville, Lomé | 485 |
+| 16 | [mendoc](https://github.com/mendoc) | Dimitri ONGOUA | Libreville, Gabon | 473 |
+| 17 | [jealife](https://github.com/jealife) | JEaLiFe | Gabon | 451 |
+| 18 | [FeldymZ](https://github.com/FeldymZ) | Feldy MZ | Libreville | 377 |
+| 19 | [glennNTM](https://github.com/glennNTM) | Glenn Ntoutoume | Libreville - Gabon | 342 |
+| 20 | [abdoulayedong](https://github.com/abdoulayedong) | Abdoulaye Dong | Libreville, Gabon | 314 |
 
 ## Public Contributions
 
@@ -49,14 +49,14 @@ Indexed users: 315
 | 10 | [nnangassejb10](https://github.com/nnangassejb10) | gloire jb nnang | Gabon  | 303 |
 | 11 | [mendoc](https://github.com/mendoc) | Dimitri ONGOUA | Libreville, Gabon | 267 |
 | 12 | [Yusufibin](https://github.com/Yusufibin) | Youssouf ⚜️ | Gabon, Libreville | 234 |
-| 13 | [DodgeElfry](https://github.com/DodgeElfry) | Dox | Gabon | 229 |
-| 14 | [Lichtensteiner](https://github.com/Lichtensteiner) | Lichtensteiner Stawikowski | Libreville Gabon | 224 |
-| 15 | [reasonknowledge](https://github.com/reasonknowledge) | NGOUBOUKOU Franck Hervé | Libreville-Gabon | 168 |
-| 16 | [jennigs241](https://github.com/jennigs241) |  | Gabon | 165 |
-| 17 | [waly2020](https://github.com/waly2020) | waly le dev | Gabon (Libreville) | 154 |
-| 18 | [Dylan245-droid](https://github.com/Dylan245-droid) | Dylan ONDO | Libreville, Gabon | 150 |
-| 19 | [lmlouis](https://github.com/lmlouis) | WORA SOUAMY Louis Martin  | Libreville, Gabon | 146 |
-| 20 | [NGOUBADJAMBO-Richard](https://github.com/NGOUBADJAMBO-Richard) | NGOUBADJAMBO Richard | Gabon - Libreville | 130 |
+| 13 | [Lichtensteiner](https://github.com/Lichtensteiner) | Lichtensteiner Stawikowski | Libreville Gabon | 224 |
+| 14 | [reasonknowledge](https://github.com/reasonknowledge) | NGOUBOUKOU Franck Hervé | Libreville-Gabon | 168 |
+| 15 | [jennigs241](https://github.com/jennigs241) |  | Gabon | 165 |
+| 16 | [waly2020](https://github.com/waly2020) | waly le dev | Gabon (Libreville) | 154 |
+| 17 | [Dylan245-droid](https://github.com/Dylan245-droid) | Dylan ONDO | Libreville, Gabon | 150 |
+| 18 | [lmlouis](https://github.com/lmlouis) | WORA SOUAMY Louis Martin  | Libreville, Gabon | 146 |
+| 19 | [NGOUBADJAMBO-Richard](https://github.com/NGOUBADJAMBO-Richard) | NGOUBADJAMBO Richard | Gabon - Libreville | 130 |
+| 20 | [maestrodimateo](https://github.com/maestrodimateo) | Mebale Noel | Gabon / Libreville | 117 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 315
 | 19 | [Dylan245-droid](https://github.com/Dylan245-droid) | Dylan ONDO | Libreville, Gabon | 22 |
 | 20 | [Marseven](https://github.com/Marseven) | Aristide Mebodo | Libreville | 19 |
 
-Generated: 2026-10-16T14:22:25.917Z
+Generated: 2026-10-16T15:47:27.299Z

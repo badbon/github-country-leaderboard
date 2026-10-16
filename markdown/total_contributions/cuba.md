@@ -1,6 +1,6 @@
 # Total Contributions - Cuba
 
-Generated: 2026-10-16T14:15:15.590Z
+Generated: 2026-10-16T15:38:29.569Z
 
 Users: 1275
 
@@ -11,8 +11,8 @@ Users: 1275
 | 3 | [PerezO12](https://github.com/PerezO12) | Adrian Perez Osorio |  |  | Havana - Cuba - Spain - Mexico | 14900 |
 | 4 | [Walkercito](https://github.com/Walkercito) | Walkercito | @begonlabs  | Walkercitodt | 🌍 Coding from Cienfuegos, Cuba | 12343 |
 | 5 | [yasmramos](https://github.com/yasmramos) | Yasmany Ramos García  |  |  | Ciego de Ávila, Cuba | 9311 |
-| 6 | [palmerovicdev](https://github.com/palmerovicdev) | Víctor Manuel Palmero Valdés |  |  | Santa Clara, Cuba. | 6951 |
-| 7 | [gustavoylc](https://github.com/gustavoylc) | Gustavo Leyte-Vidal | Inperia | gustavoylc | Cuba | 6907 |
+| 6 | [gustavoylc](https://github.com/gustavoylc) | Gustavo Leyte-Vidal | Inperia | gustavoylc | Cuba | 7244 |
+| 7 | [palmerovicdev](https://github.com/palmerovicdev) | Víctor Manuel Palmero Valdés |  |  | Santa Clara, Cuba. | 6951 |
 | 8 | [IhanMo18](https://github.com/IhanMo18) | Ihan |  |  | Cuba | 5854 |
 | 9 | [NairAd02](https://github.com/NairAd02) | Adrian Suarez | NTSprint |  | Havana, Cuba | 5592 |
 | 10 | [frarteaga](https://github.com/frarteaga) | Frank Rafael Arteaga Salgado |  |  | Cuba | 5156 |

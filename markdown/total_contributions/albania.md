@@ -1,6 +1,6 @@
 # Total Contributions - Albania
 
-Generated: 2026-10-16T13:58:52.601Z
+Generated: 2026-10-16T15:22:04.325Z
 
 Users: 1184
 
@@ -11,7 +11,7 @@ Users: 1184
 | 3 | [ErionTp](https://github.com/ErionTp) | Erjon Këllëçi | RokoHub |  | Tirane, Albania | 9388 |
 | 4 | [alban-hh](https://github.com/alban-hh) | Alban Shermadhi | Abissnet Sha |  | Albania | 8598 |
 | 5 | [Jorgo55](https://github.com/Jorgo55) | Jorgo Bardho |  |  | Albania, Tirana | 8238 |
-| 6 | [kevingabeci](https://github.com/kevingabeci) | Kevin Gabeci | Apatero | gabeciii | Tirana | 7090 |
+| 6 | [kevingabeci](https://github.com/kevingabeci) | Kevin Gabeci | Apatero | gabeciii | Tirana | 7892 |
 | 7 | [somethim](https://github.com/somethim) | Arbi Kullakshi | @zennit-dev | arbi_kullakshi | Tirana, Albania | 6693 |
 | 8 | [geridev12](https://github.com/geridev12) | Gerald Nuraj |  |  | Tirana, Albania | 6533 |
 | 9 | [orges](https://github.com/orges) | orges |  |  | Albania | 6501 |
@@ -19,7 +19,7 @@ Users: 1184
 | 11 | [arkellahi82-tech](https://github.com/arkellahi82-tech) | Arkel Lahi | FiltonHayes |  | Tirana, Albania | 5794 |
 | 12 | [lacieri](https://github.com/lacieri) | Erand Laci | @kirschbaum-development |  | Tirana, Albania | 5661 |
 | 13 | [emilushi](https://github.com/emilushi) | Eduard Milushi | Freelancer | edMilushi | Albania | 5568 |
-| 14 | [nertilpoci](https://github.com/nertilpoci) | Nertil Poci |  |  | Albania | 5500 |
+| 14 | [nertilpoci](https://github.com/nertilpoci) | Nertil Poci |  |  | Albania | 5482 |
 | 15 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | CyberSecurity Researcher, Red Team, Bug Hunter | OrgitoRTA | Albania | 4672 |
 | 16 | [blenardpazari](https://github.com/blenardpazari) | Blenard Pazari | @new-media-communications | blenardpazari | Tirana | 4583 |
 | 17 | [sly503](https://github.com/sly503) | Fatjon Rami |  |  | Tirana | 4508 |

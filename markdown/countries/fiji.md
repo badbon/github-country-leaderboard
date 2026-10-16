@@ -20,7 +20,7 @@ Indexed users: 325
 | 6 | [crazybanboo](https://github.com/crazybanboo) | Ethan | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1,085 |
 | 7 | [jaclla](https://github.com/jaclla) | Logic | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1,031 |
 | 8 | [navneil-naicker](https://github.com/navneil-naicker) | Navneil Naicker | Suva City, Central, Fiji | 1,025 |
-| 9 | [ApophisX](https://github.com/ApophisX) | GienWang | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1,007 |
+| 9 | [ApophisX](https://github.com/ApophisX) | GienWang | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1,004 |
 | 10 | [rudrprasad05](https://github.com/rudrprasad05) | Rudr Prasad | Fiji | 932 |
 | 11 | [Eddie115-x](https://github.com/Eddie115-x) | Adrian Obadiah | SUVA | 903 |
 | 12 | [anav5704](https://github.com/anav5704) | Anav Chand | Fiji | 798 |
@@ -83,4 +83,4 @@ Indexed users: 325
 | 19 | [phpoh](https://github.com/phpoh) | phpoh | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 21 |
 | 20 | [alvinkumar18](https://github.com/alvinkumar18) | Alvin Kumar | Fiji | 18 |
 
-Generated: 2026-10-16T14:20:12.494Z
+Generated: 2026-10-16T15:46:37.961Z

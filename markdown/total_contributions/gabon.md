@@ -1,8 +1,8 @@
 # Total Contributions - Gabon
 
-Generated: 2026-10-16T14:22:25.917Z
+Generated: 2026-10-16T15:47:27.299Z
 
-Users: 315
+Users: 314
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -18,11 +18,11 @@ Users: 315
 | 10 | [NathanLeFuturMillionaire](https://github.com/NathanLeFuturMillionaire) | Nathan Le Fütür Milliønãîre |  |  | Libreville | 731 |
 | 11 | [nguie2](https://github.com/nguie2) | jean roch | dzoshift | jean32529 | Libreville, Gabon | 673 |
 | 12 | [dynamo63](https://github.com/dynamo63) | Mouckeytou Moulongui |  |  | Gabon | 625 |
-| 13 | [DodgeElfry](https://github.com/DodgeElfry) | Dox | Freelance | DodgeNguia | Gabon | 575 |
-| 14 | [EbenEzer-MOMBO](https://github.com/EbenEzer-MOMBO) | MOMBO Eben |  |  | Gabon | 569 |
-| 15 | [MeylandMan](https://github.com/MeylandMan) | M.Meyland | @EXECUTABLE-Co  | Dunno_man0 | Gabon | 560 |
-| 16 | [mawuva](https://github.com/mawuva) | Ephraïm SEDDOR |  | ephraimseddor | Libreville, Lomé | 485 |
-| 17 | [mendoc](https://github.com/mendoc) | Dimitri ONGOUA | ANINF | DimitriOngoua | Libreville, Gabon | 473 |
-| 18 | [jealife](https://github.com/jealife) | JEaLiFe | JEaLiFe Agency |  | Gabon | 451 |
-| 19 | [FeldymZ](https://github.com/FeldymZ) | Feldy MZ | Free lance |  | Libreville | 377 |
-| 20 | [glennNTM](https://github.com/glennNTM) | Glenn Ntoutoume |  |  | Libreville - Gabon | 342 |
+| 13 | [EbenEzer-MOMBO](https://github.com/EbenEzer-MOMBO) | MOMBO Eben |  |  | Gabon | 569 |
+| 14 | [MeylandMan](https://github.com/MeylandMan) | M.Meyland | @EXECUTABLE-Co  | Dunno_man0 | Gabon | 560 |
+| 15 | [mawuva](https://github.com/mawuva) | Ephraïm SEDDOR |  | ephraimseddor | Libreville, Lomé | 485 |
+| 16 | [mendoc](https://github.com/mendoc) | Dimitri ONGOUA | ANINF | DimitriOngoua | Libreville, Gabon | 473 |
+| 17 | [jealife](https://github.com/jealife) | JEaLiFe | JEaLiFe Agency |  | Gabon | 451 |
+| 18 | [FeldymZ](https://github.com/FeldymZ) | Feldy MZ | Free lance |  | Libreville | 377 |
+| 19 | [glennNTM](https://github.com/glennNTM) | Glenn Ntoutoume |  |  | Libreville - Gabon | 342 |
+| 20 | [abdoulayedong](https://github.com/abdoulayedong) | Abdoulaye Dong |  |  | Libreville, Gabon | 314 |

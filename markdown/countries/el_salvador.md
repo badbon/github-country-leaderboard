@@ -67,8 +67,8 @@ Indexed users: 2,378
 | 3 | [D3Portillo](https://github.com/D3Portillo) | Denny Portillo | El Salvador | 205 |
 | 4 | [baylagas](https://github.com/baylagas) | Balbino Aylagas | San Salvador, El Salvador | 185 |
 | 5 | [oicrruf](https://github.com/oicrruf) | Víctor M. Reyes | San Salvador, El Salvador  | 164 |
-| 6 | [ever1509](https://github.com/ever1509) | Ever Orellana | El Salvador | 163 |
-| 7 | [chepecarlos](https://github.com/chepecarlos) | Jose Carlos Garcia Diaz | San Miguel, El Salvador | 156 |
+| 6 | [chepecarlos](https://github.com/chepecarlos) | Jose Carlos Garcia Diaz | San Miguel, El Salvador | 158 |
+| 7 | [ever1509](https://github.com/ever1509) | Ever Orellana | El Salvador | 158 |
 | 8 | [ferjoaguilar](https://github.com/ferjoaguilar) | Fernando Jose Aguilar Rivas | El Salvador, San Salvador | 142 |
 | 9 | [Alejandroq12](https://github.com/Alejandroq12) | Julio Quezada | El Salvador | 135 |
 | 10 | [dgerardoflores](https://github.com/dgerardoflores) | Gerardo Flores | El Salvador | 125 |
@@ -83,4 +83,4 @@ Indexed users: 2,378
 | 19 | [MiPrimerBitcoin](https://github.com/MiPrimerBitcoin) | Mi Primer Bitcoin El Salvador | El Salvador | 96 |
 | 20 | [davequinta](https://github.com/davequinta) | David Quintanilla | El Salvador | 95 |
 
-Generated: 2026-10-16T14:18:43.844Z
+Generated: 2026-10-16T15:43:05.333Z

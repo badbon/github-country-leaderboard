@@ -1,19 +1,19 @@
 # Total Contributions - Zimbabwe
 
-Generated: 2026-10-16T13:57:34.890Z
+Generated: 2026-10-16T15:19:59.543Z
 
 Users: 1655
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [eisax](https://github.com/eisax) | Josphat Ndhlovu | eisax software services |  | Zimbabwe | 30882 |
-| 2 | [Mutombe](https://github.com/Mutombe) | Mutombe | Bit Studio |  | Borrowdale, Harare | 9480 |
+| 2 | [Mutombe](https://github.com/Mutombe) | Mutombe | Bit Studio |  | Borrowdale, Harare | 9569 |
 | 3 | [codewithkin](https://github.com/codewithkin) | Kin Leon Zinzombe | GroundUpMVP | codewithkin | Mutare, Zimbabwe | 9433 |
 | 4 | [Lewy263](https://github.com/Lewy263) | Tinashe Lewis Karumazondo |  | Tinashe_Lewis | Harare | 9041 |
-| 5 | [iamngoni](https://github.com/iamngoni) | Ngonidzashe Mangudya | Codecraft Solutions | iamngoni | Harare | 7859 |
-| 6 | [Patizy-tel](https://github.com/Patizy-tel) | Magnificient Stallion Tello🔥 | Flostec Digital Solutions | PatizyTel | Zimbabwe | 7511 |
-| 7 | [tapiwamakandigona](https://github.com/tapiwamakandigona) | Tapiwa Makandigona |  |  | Zimbabwe | 7324 |
-| 8 | [farmhutsoftwareteam](https://github.com/farmhutsoftwareteam) | Munyaradzi Makosa | @hubflo | makosamunyaa | Harare | 7208 |
+| 5 | [farmhutsoftwareteam](https://github.com/farmhutsoftwareteam) | Munyaradzi Makosa | @hubflo | makosamunyaa | Harare | 8021 |
+| 6 | [iamngoni](https://github.com/iamngoni) | Ngonidzashe Mangudya | Codecraft Solutions | iamngoni | Harare | 7859 |
+| 7 | [Patizy-tel](https://github.com/Patizy-tel) | Magnificient Stallion Tello🔥 | Flostec Digital Solutions | PatizyTel | Zimbabwe | 7511 |
+| 8 | [tapiwamakandigona](https://github.com/tapiwamakandigona) | Tapiwa Makandigona |  |  | Zimbabwe | 7324 |
 | 9 | [kudzaiprichard](https://github.com/kudzaiprichard) | Kudzai Prichard Matizirofa |  |  | Mashonaland West Province, Zimbabwe, Harare | 7186 |
 | 10 | [phoscoder](https://github.com/phoscoder) | Victor Phos |  |  | Zimbabwe | 7159 |
 | 11 | [protendai](https://github.com/protendai) | Tendai Karuma | @code-stallion-zw | karumatendai | Harare Zimbabwe | 6939 |

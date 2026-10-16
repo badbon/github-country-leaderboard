@@ -30,8 +30,8 @@ Indexed users: 1,480
 | 16 | [MahmoudSlameh](https://github.com/MahmoudSlameh) | Mahmoud Salameh | Damascus | 1,997 |
 | 17 | [muhammedelsami](https://github.com/muhammedelsami) | Muhammed Elşami | Sivas, Syria | 1,950 |
 | 18 | [kutaibah](https://github.com/kutaibah) | Kutaibah Halima | Damascus, Syria | 1,906 |
-| 19 | [Hakam-aldeen-Kh](https://github.com/Hakam-aldeen-Kh) | Hakam aldeen Alkhadraa | Syria | 1,788 |
-| 20 | [Yazan-Alrefaai](https://github.com/Yazan-Alrefaai) | Yazan Alrefaai | Damascus, Syria | 1,744 |
+| 19 | [Yazan-Alrefaai](https://github.com/Yazan-Alrefaai) | Yazan Alrefaai | Damascus, Syria | 1,866 |
+| 20 | [Hakam-aldeen-Kh](https://github.com/Hakam-aldeen-Kh) | Hakam aldeen Alkhadraa | Syria | 1,788 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 1,480
 | 19 | [nebrassy](https://github.com/nebrassy) | Nebrassy | Latakia, Syria | 102 |
 | 20 | [zaher](https://github.com/zaher) | Zaher Dirkey | Damascus, Syria | 95 |
 
-Generated: 2026-10-16T13:48:58.825Z
+Generated: 2026-10-16T15:10:24.318Z

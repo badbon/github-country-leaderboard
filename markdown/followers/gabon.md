@@ -1,8 +1,8 @@
 # Followers - Gabon
 
-Generated: 2026-10-16T14:22:25.917Z
+Generated: 2026-10-16T15:47:27.299Z
 
-Users: 315
+Users: 314
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

@@ -1,6 +1,6 @@
 # Total Contributions - Bhutan
 
-Generated: 2026-10-16T14:07:09.468Z
+Generated: 2026-10-16T15:29:19.760Z
 
 Users: 266
 
@@ -18,9 +18,9 @@ Users: 266
 | 10 | [Ugyenjigmerangdrel](https://github.com/Ugyenjigmerangdrel) | Ugyen Jigme Rangdrel | @jaggle.ai | URangdrel | Bhutan | 2047 |
 | 11 | [ugyentenzin1](https://github.com/ugyentenzin1) | Ugyen Tenzin  | @SELISEdigitalplatforms  |  | Thiimphu, Bhutan | 2011 |
 | 12 | [namgaytobden](https://github.com/namgaytobden) | Namgay Tobden | @selisebt |  | Thimphu | 1975 |
-| 13 | [bugloper](https://github.com/bugloper) | Nima Yonten | Selise |  | Thimphu Babesa | 1948 |
-| 14 | [jigmeloday](https://github.com/jigmeloday) | Jigme Lodey | Freelancer |  | Thimphu Bhutan | 1919 |
-| 15 | [grey300](https://github.com/grey300) | Tshering Gyeltshen |  |  | Bhutan | 1899 |
+| 13 | [grey300](https://github.com/grey300) | Tshering Gyeltshen |  |  | Bhutan | 1968 |
+| 14 | [bugloper](https://github.com/bugloper) | Nima Yonten | Selise |  | Thimphu Babesa | 1948 |
+| 15 | [jigmeloday](https://github.com/jigmeloday) | Jigme Lodey | Freelancer |  | Thimphu Bhutan | 1919 |
 | 16 | [khandudo](https://github.com/khandudo) | Dorji Khandu | Coala Pay(San Francisco, CA) | Dojeee1 | Thimphu, Bhutan | 1847 |
 | 17 | [JigmePwangyel](https://github.com/JigmePwangyel) | Jigme Phuntsho Wangyel | Selise Bhutan |  | Bhutan | 1834 |
 | 18 | [SonamWangchuk77jr](https://github.com/SonamWangchuk77jr) | Sonam Wangchuk | @ROMx-Tech  |  | Thimphu | 1821 |

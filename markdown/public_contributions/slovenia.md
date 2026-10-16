@@ -1,8 +1,8 @@
 # Public Contributions - Slovenia
 
-Generated: 2026-10-16T13:46:14.057Z
+Generated: 2026-10-16T15:06:05.126Z
 
-Users: 3099
+Users: 3098
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -16,9 +16,9 @@ Users: 3099
 | 8 | [stefanb](https://github.com/stefanb) | Stefan Baebler | @equaleyes | StefanBaebler | Ljubljana, Slovenia | 3790 |
 | 9 | [zigai](https://github.com/zigai) |  |  |  | Slovenia | 3513 |
 | 10 | [fentas](https://github.com/fentas) | Jan Guth | @lanisce | lanisce_si | Slovenia | 3035 |
-| 11 | [matejdro](https://github.com/matejdro) | Matej Drobnič |  |  | Slovenia | 2825 |
-| 12 | [OBattler](https://github.com/OBattler) | Miran Grča |  |  | Koper, Slovenia | 2657 |
-| 13 | [majazaloznik](https://github.com/majazaloznik) | maja | ox.ac.uk |  | oxford--ljubljana | 2581 |
+| 11 | [majazaloznik](https://github.com/majazaloznik) | maja | ox.ac.uk |  | oxford--ljubljana | 3035 |
+| 12 | [matejdro](https://github.com/matejdro) | Matej Drobnič |  |  | Slovenia | 2825 |
+| 13 | [OBattler](https://github.com/OBattler) | Miran Grča |  |  | Koper, Slovenia | 2657 |
 | 14 | [aljazmc](https://github.com/aljazmc) | Aljaž Mlinarič |  |  | Ptuj, Slovenia | 2397 |
 | 15 | [mzagozen](https://github.com/mzagozen) | Marko Zagožen | Flint SI |  | Slovenia | 2344 |
 | 16 | [eriknovak](https://github.com/eriknovak) | Erik Novak | @Event-Registry @E3-JSI  |  | Slovenia | 2225 |

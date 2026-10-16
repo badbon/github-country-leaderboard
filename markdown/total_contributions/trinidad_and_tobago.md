@@ -1,13 +1,13 @@
 # Total Contributions - Trinidad and Tobago
 
-Generated: 2026-10-16T13:52:51.983Z
+Generated: 2026-10-16T15:13:48.497Z
 
 Users: 256
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [Spartanlasergun](https://github.com/Spartanlasergun) | Narendra Singh |  |  | Trinidad and Tobago | 6206 |
-| 2 | [jeiang](https://github.com/jeiang) | Aidan Pinard | CIBC Caribbean | jeiang_ | Trinidad and Tobago | 5138 |
+| 2 | [jeiang](https://github.com/jeiang) | Aidan Pinard | CIBC Caribbean | jeiang_ | Trinidad and Tobago | 5150 |
 | 3 | [jefroy](https://github.com/jefroy) | Ajay Sieunarine | PGS |  | Trinidad and Tobago | 4257 |
 | 4 | [kyledef](https://github.com/kyledef) | Kyle E DeFreitas | @squareup  | kyle_def | Canda / Trinidad and Tobago / St Vincent and the Grenadines | 3151 |
 | 5 | [Emille1723](https://github.com/Emille1723) | Emille Henry |  |  | Trinidad and Tobago | 3069 |
@@ -22,7 +22,7 @@ Users: 256
 | 14 | [Yhonathon-Maharaj](https://github.com/Yhonathon-Maharaj) | Yhonathon Maharaj | Euthy Labs | Yhonathon | Trinidad and Tobago | 1403 |
 | 15 | [mreid-tt](https://github.com/mreid-tt) | Michael Reid |  | mreid_tt | Trinidad and Tobago | 1282 |
 | 16 | [renniemaharaj](https://github.com/renniemaharaj) | Rennie Maharaj | The Writer Company  |  | Trinidad and Tobago | 1186 |
-| 17 | [kwamet](https://github.com/kwamet) | Kwame Trancoso | @Heft-IQ |  | Trinidad and Tobago | 1010 |
-| 18 | [ZeroDayz77](https://github.com/ZeroDayz77) | Darnell Garcia |  |  | Trinidad and Tobago | 997 |
-| 19 | [adrifranCode](https://github.com/adrifranCode) | Adrien Francois |  |  | Trinidad and Tobago | 987 |
+| 17 | [ZeroDayz77](https://github.com/ZeroDayz77) | Darnell Garcia |  |  | Trinidad and Tobago | 997 |
+| 18 | [adrifranCode](https://github.com/adrifranCode) | Adrien Francois |  |  | Trinidad and Tobago | 995 |
+| 19 | [kwamet](https://github.com/kwamet) | Kwame Trancoso | @Heft-IQ |  | Trinidad and Tobago | 992 |
 | 20 | [DanielYatali](https://github.com/DanielYatali) | Daniel Yatali | Wepala |  | Trinidad and Tobago | 987 |

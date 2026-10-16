@@ -21,7 +21,7 @@ Indexed users: 2,039
 | 7 | [cleven12](https://github.com/cleven12) | cleven | Tanzania | 17,597 |
 | 8 | [fredy-me](https://github.com/fredy-me) | Melkizedek Fredy | Dar Es Salaam, Tanzania | 14,251 |
 | 9 | [Lurgic-error](https://github.com/Lurgic-error) | Lurge | Tanzania, Dar es salaam | 13,070 |
-| 10 | [tarxemo](https://github.com/tarxemo) | TarXemo | Dodoma-Tanzania | 12,163 |
+| 10 | [tarxemo](https://github.com/tarxemo) | TarXemo | Dodoma-Tanzania | 11,527 |
 | 11 | [pro-cms](https://github.com/pro-cms) | Novath Thomas | TANZANIA | 10,825 |
 | 12 | [TheCollinsByte](https://github.com/TheCollinsByte) | Collins | Arusha, Tanzania | 10,759 |
 | 13 | [mwakatumbula](https://github.com/mwakatumbula) | Francis Mwakatumbula | Dar es salaam,Tanzania | 9,814 |
@@ -70,7 +70,7 @@ Indexed users: 2,039
 | 6 | [Kalebu](https://github.com/Kalebu) | Jordan Kalebu | Dar es Salaam , Tanzania | 955 |
 | 7 | [isaka-james](https://github.com/isaka-james) | masterplan | Dodoma, Tanzania | 553 |
 | 8 | [gernest](https://github.com/gernest) | Geofrey Ernest | Arusha, Tanzania | 409 |
-| 9 | [tarxemo](https://github.com/tarxemo) | TarXemo | Dodoma-Tanzania | 409 |
+| 9 | [tarxemo](https://github.com/tarxemo) | TarXemo | Dodoma-Tanzania | 406 |
 | 10 | [TheCollinsByte](https://github.com/TheCollinsByte) | Collins | Arusha, Tanzania | 389 |
 | 11 | [benny-png](https://github.com/benny-png) | Benjamin Maziku Mashimba | Dar Es Salaam, TANZANIA | 379 |
 | 12 | [TripleHat](https://github.com/TripleHat) |  | Tanzania | 295 |
@@ -83,4 +83,4 @@ Indexed users: 2,039
 | 19 | [3nock](https://github.com/3nock) | Enock | Dar es Salaam, Tanzania | 188 |
 | 20 | [Mrhanstz](https://github.com/Mrhanstz) | HANSTZ | Africa Dodoma | 179 |
 
-Generated: 2026-10-16T13:50:04.157Z
+Generated: 2026-10-16T15:11:45.731Z

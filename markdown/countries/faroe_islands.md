@@ -13,7 +13,7 @@ Indexed users: 68
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [olavurellefsen](https://github.com/olavurellefsen) | Olavur Ellefsen | Faroe Islands | 15,588 |
-| 2 | [kruseio](https://github.com/kruseio) | Ragnar Kruse | Faroe Islands | 6,547 |
+| 2 | [kruseio](https://github.com/kruseio) | Ragnar Kruse | Faroe Islands | 6,552 |
 | 3 | [jbiskur](https://github.com/jbiskur) | Julius á Rógvi Biskopstø | Faroe Islands | 5,324 |
 | 4 | [argilzar](https://github.com/argilzar) | Brian Bischoff | Faroe Islands | 3,349 |
 | 5 | [RudiPersson](https://github.com/RudiPersson) | Rudi Persson | Tórshavn, Faroe Islands | 2,774 |
@@ -23,7 +23,7 @@ Indexed users: 68
 | 9 | [ingipingi](https://github.com/ingipingi) | Ingi á Steinamørk | Faroe Islands | 2,086 |
 | 10 | [samal-rasmussen](https://github.com/samal-rasmussen) | Sámal Rasmussen | Tórshavn, Faroe Islands | 2,002 |
 | 11 | [theodorjohannesen](https://github.com/theodorjohannesen) | Theodor E. Johannesen | Faroe Islands | 1,733 |
-| 12 | [MaterBater](https://github.com/MaterBater) | Mater | Faroe Islands | 1,495 |
+| 12 | [MaterBater](https://github.com/MaterBater) | Mater | Faroe Islands | 1,497 |
 | 13 | [SigmundurMorkore](https://github.com/SigmundurMorkore) | Sigmundur Mørkøre | Faroe Islands | 1,456 |
 | 14 | [Brian-ED](https://github.com/Brian-ED) | Brian E | Faroe Islands | 1,049 |
 | 15 | [SheetHappiness](https://github.com/SheetHappiness) | SheetHappiness | Faroe Islands | 971 |
@@ -83,4 +83,4 @@ Indexed users: 68
 | 19 | [olavurellefsen](https://github.com/olavurellefsen) | Olavur Ellefsen | Faroe Islands | 7 |
 | 20 | [shishpt](https://github.com/shishpt) | Shishir Patel | Torshavn, Faroe Islands | 7 |
 
-Generated: 2026-10-16T14:19:32.277Z
+Generated: 2026-10-16T15:45:05.830Z

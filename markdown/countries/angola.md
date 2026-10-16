@@ -27,11 +27,11 @@ Indexed users: 2,501
 | 13 | [cnoble](https://github.com/cnoble) | Chris Noble | Angola, IN | 5,388 |
 | 14 | [osvaldowafulua](https://github.com/osvaldowafulua) | Osvaldo Wafulua | Angola | 4,952 |
 | 15 | [noejunior299](https://github.com/noejunior299) | Noé Idagi | Angola/Luanda | 4,947 |
-| 16 | [overlineink](https://github.com/overlineink) | 𝔍𝖔𝖗𝖌𝖊 𝕮𝖔𝖘𝖙𝖆 | Luanda, Angola | 3,700 |
+| 16 | [Dalcio](https://github.com/Dalcio) | Dálcio Macuete Garcia | Angola | 3,992 |
 | 17 | [steviejames](https://github.com/steviejames) | Sílvio Dumba | Luanda, Angola | 3,691 |
 | 18 | [paulinofonsecas](https://github.com/paulinofonsecas) | Paulino Fonseca | Luanda | 3,660 |
-| 19 | [BaziotaBeans](https://github.com/BaziotaBeans) | Fábio Baziota | Angola/Luanda | 3,546 |
-| 20 | [euclidesdry](https://github.com/euclidesdry) | Ëüclïdës DRY | Belas, Luanda - Angola | 3,529 |
+| 19 | [overlineink](https://github.com/overlineink) | 𝔍𝖔𝖗𝖌𝖊 𝕮𝖔𝖘𝖙𝖆 | Luanda, Angola | 3,600 |
+| 20 | [BaziotaBeans](https://github.com/BaziotaBeans) | Fábio Baziota | Angola/Luanda | 3,546 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 2,501
 | 19 | [jofranqueira](https://github.com/jofranqueira) | José Frangueira | Angola | 160 |
 | 20 | [Jovanysfive](https://github.com/Jovanysfive) | Job Bento | Angola/Luanda | 152 |
 
-Generated: 2026-10-16T14:00:35.959Z
+Generated: 2026-10-16T15:24:16.445Z

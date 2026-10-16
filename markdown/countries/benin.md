@@ -56,7 +56,7 @@ Indexed users: 471
 | 17 | [koladev32](https://github.com/koladev32) | Mangabo  Kolawole | Benin, Cotonou | 594 |
 | 18 | [AxelSalim](https://github.com/AxelSalim) | ADJAKIDJE K. Axel S. H. | Benin | 592 |
 | 19 | [delsDin](https://github.com/delsDin) | Dels Dinla | Benin | 588 |
-| 20 | [Nozel-silva](https://github.com/Nozel-silva) | Nuel Agafie | Benin | 583 |
+| 20 | [Ferdinaelectro1](https://github.com/Ferdinaelectro1) | Ferdinaelectro | Abomey-Calavi, Benin | 568 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 471
 | 19 | [awarris](https://github.com/awarris) | Warris AGBANNONDE | Benin, Cotonou Ganhi | 73 |
 | 20 | [baba-mandef](https://github.com/baba-mandef) | Abiodoun Paraïso | Adjarra, Benin | 71 |
 
-Generated: 2026-10-16T14:05:56.280Z
+Generated: 2026-10-16T15:28:34.285Z

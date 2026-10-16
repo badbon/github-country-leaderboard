@@ -1,6 +1,6 @@
 # Slovenia
 
-Indexed users: 3,099
+Indexed users: 3,098
 
 | Leaderboard | Link |
 |---|---|
@@ -47,9 +47,9 @@ Indexed users: 3,099
 | 8 | [stefanb](https://github.com/stefanb) | Stefan Baebler | Ljubljana, Slovenia | 3,790 |
 | 9 | [zigai](https://github.com/zigai) |  | Slovenia | 3,513 |
 | 10 | [fentas](https://github.com/fentas) | Jan Guth | Slovenia | 3,035 |
-| 11 | [matejdro](https://github.com/matejdro) | Matej Drobnič | Slovenia | 2,825 |
-| 12 | [OBattler](https://github.com/OBattler) | Miran Grča | Koper, Slovenia | 2,657 |
-| 13 | [majazaloznik](https://github.com/majazaloznik) | maja | oxford--ljubljana | 2,581 |
+| 11 | [majazaloznik](https://github.com/majazaloznik) | maja | oxford--ljubljana | 3,035 |
+| 12 | [matejdro](https://github.com/matejdro) | Matej Drobnič | Slovenia | 2,825 |
+| 13 | [OBattler](https://github.com/OBattler) | Miran Grča | Koper, Slovenia | 2,657 |
 | 14 | [aljazmc](https://github.com/aljazmc) | Aljaž Mlinarič | Ptuj, Slovenia | 2,397 |
 | 15 | [mzagozen](https://github.com/mzagozen) | Marko Zagožen | Slovenia | 2,344 |
 | 16 | [eriknovak](https://github.com/eriknovak) | Erik Novak | Slovenia | 2,225 |
@@ -83,4 +83,4 @@ Indexed users: 3,099
 | 19 | [garbas](https://github.com/garbas) | Rok Garbas | Ljubljana, Slovenia | 240 |
 | 20 | [buresdv](https://github.com/buresdv) | David Bureš | Maribor, Slovenia | 238 |
 
-Generated: 2026-10-16T13:46:14.057Z
+Generated: 2026-10-16T15:06:05.126Z
