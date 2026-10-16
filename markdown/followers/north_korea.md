@@ -1,6 +1,6 @@
 # Followers - North Korea
 
-Generated: 2026-10-16T18:39:02.212Z
+Generated: 2026-10-16T20:04:51.735Z
 
 Users: 185
 
@@ -24,5 +24,5 @@ Users: 185
 | 16 | [retributions](https://github.com/retributions) |  |  |  | North Korea | 16 |
 | 17 | [VisionVerse](https://github.com/VisionVerse) | Vision Verse |  |  | North Korea | 16 |
 | 18 | [Lou1sEx](https://github.com/Lou1sEx) | Lou1s | Samsung |  | North korea | 15 |
-| 19 | [satt-hri](https://github.com/satt-hri) | 稻草人(scarecrow) |  |  | North Korea | 15 |
-| 20 | [DillerOFire](https://github.com/DillerOFire) | VerpaSRP |  |  | North Korea | 14 |
+| 19 | [DillerOFire](https://github.com/DillerOFire) | VerpaSRP |  |  | North Korea | 14 |
+| 20 | [JeonJung-kook](https://github.com/JeonJung-kook) | Jeon Jung-kook Cantor | Bts Company |  | North Korea | 14 |

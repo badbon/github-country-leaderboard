@@ -1,13 +1,13 @@
 # Total Contributions - Liechtenstein
 
-Generated: 2026-10-16T18:27:20.923Z
+Generated: 2026-10-16T19:54:17.500Z
 
 Users: 113
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [oscardvs](https://github.com/oscardvs) | Oscar Devos |  | oskrt_dvs | Liechtenstein | 5644 |
-| 2 | [bernhardw](https://github.com/bernhardw) | Bernhard Wanger | Rezendo |  | Vaduz, Liechtenstein | 4538 |
+| 2 | [bernhardw](https://github.com/bernhardw) | Bernhard Wanger | Rezendo |  | Vaduz, Liechtenstein | 4568 |
 | 3 | [tnaescher](https://github.com/tnaescher) | T. Näscher | J&T Treuhand GmbH, Zürich |  | Liechtenstein | 4308 |
 | 4 | [msanft](https://github.com/msanft) | Moritz Sanft | Edgeless Systems | stdoutput | Liechtenstein | 2916 |
 | 5 | [PhilippHGerber](https://github.com/PhilippHGerber) | Philipp H. Gerber |  | PhilippHGerber | Liechtenstein | 2605 |
@@ -23,6 +23,6 @@ Users: 113
 | 15 | [xGreeny](https://github.com/xGreeny) | Flurin |  |  | Liechtenstein | 329 |
 | 16 | [anonymouslyanonymous1](https://github.com/anonymouslyanonymous1) | Anonymously Anonymous |  |  | Liechtenstein | 309 |
 | 17 | [anondotli](https://github.com/anondotli) | anon.li |  |  | Liechtenstein | 301 |
-| 18 | [FeeJai](https://github.com/FeeJai) | Felix Jankowski |  |  | Liechtenstein | 278 |
+| 18 | [FeeJai](https://github.com/FeeJai) | Felix Jankowski |  |  | Liechtenstein | 300 |
 | 19 | [ColinFL](https://github.com/ColinFL) |  |  |  | Liechtenstein | 268 |
 | 20 | [catbears](https://github.com/catbears) |  |  |  | Eschen, Liechtenstein | 166 |

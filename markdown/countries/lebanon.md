@@ -47,14 +47,14 @@ Indexed users: 2,562
 | 8 | [MahmoudAmouni](https://github.com/MahmoudAmouni) | Mahmoud Abou Amoun | Lebanon | 1,998 |
 | 9 | [samerc](https://github.com/samerc) | Samer Cheaib | Beirut | 1,920 |
 | 10 | [MohammadRstm](https://github.com/MohammadRstm) | Mohammad Rostom | Beirut - Lebanon | 1,819 |
-| 11 | [JanoTheDev](https://github.com/JanoTheDev) | Jean Haddad | Lebanon | 1,701 |
-| 12 | [AbedAmouneh](https://github.com/AbedAmouneh) | Abed El-Fattah Amouneh | Lebanon | 1,671 |
-| 13 | [imtithalhalalo](https://github.com/imtithalhalalo) | Imtithal Halalo | Beirut, Lebanon | 1,233 |
-| 14 | [ahomsi0](https://github.com/ahomsi0) | Ahmad Homsi | Lebanon | 1,160 |
-| 15 | [wwilson1017](https://github.com/wwilson1017) | Will Wilson | Lebanon, TN | 1,158 |
-| 16 | [mahdi-alkak-1](https://github.com/mahdi-alkak-1) | Mahdi Kak | Lebanon,Beirut | 1,138 |
-| 17 | [Kronbii](https://github.com/Kronbii) | Rami Kronbi | Beirut, LB | 1,107 |
-| 18 | [mcfarhat](https://github.com/mcfarhat) | Mohammad Farhat | Lebanon | 1,082 |
+| 11 | [mcfarhat](https://github.com/mcfarhat) | Mohammad Farhat | Lebanon | 1,735 |
+| 12 | [JanoTheDev](https://github.com/JanoTheDev) | Jean Haddad | Lebanon | 1,701 |
+| 13 | [AbedAmouneh](https://github.com/AbedAmouneh) | Abed El-Fattah Amouneh | Lebanon | 1,671 |
+| 14 | [imtithalhalalo](https://github.com/imtithalhalalo) | Imtithal Halalo | Beirut, Lebanon | 1,233 |
+| 15 | [ahomsi0](https://github.com/ahomsi0) | Ahmad Homsi | Lebanon | 1,160 |
+| 16 | [wwilson1017](https://github.com/wwilson1017) | Will Wilson | Lebanon, TN | 1,158 |
+| 17 | [mahdi-alkak-1](https://github.com/mahdi-alkak-1) | Mahdi Kak | Lebanon,Beirut | 1,138 |
+| 18 | [Kronbii](https://github.com/Kronbii) | Rami Kronbi | Beirut, LB | 1,107 |
 | 19 | [jat10](https://github.com/jat10) | Jad Tarabay | Lebanon | 1,073 |
 | 20 | [mabd-dev](https://github.com/mabd-dev) | Mahmoud Abdallah | Beirut, Lebanon | 1,066 |
 
@@ -83,4 +83,4 @@ Indexed users: 2,562
 | 19 | [hadiidbouk](https://github.com/hadiidbouk) | Hadi Dbouk | Lebanon | 101 |
 | 20 | [rhamzeh](https://github.com/rhamzeh) | Raghd Hamzeh | Beirut, Lebanon | 95 |
 
-Generated: 2026-10-16T18:25:42.476Z
+Generated: 2026-10-16T19:51:38.343Z

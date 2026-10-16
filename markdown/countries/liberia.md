@@ -63,7 +63,7 @@ Indexed users: 210
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [mdsomah](https://github.com/mdsomah) | Mesheal D. Somah Sr. | Monrovia, Liberia | 305 |
-| 2 | [BugHunter-SN](https://github.com/BugHunter-SN) | Samuel E. H. Nimely |  Monrovia Liberia. West Africa | 162 |
+| 2 | [BugHunter-SN](https://github.com/BugHunter-SN) | Samuel E. H. Nimely |  Monrovia Liberia. West Africa | 161 |
 | 3 | [1989shack](https://github.com/1989shack) | Martin M Sheriff | Monrovia, Liberia | 154 |
 | 4 | [Massaquoi716](https://github.com/Massaquoi716) | Massaquoi L Dehmie | Liberia | 142 |
 | 5 | [stenson](https://github.com/stenson) | Rob Stenson | Monrovia, CA | 129 |
@@ -83,4 +83,4 @@ Indexed users: 210
 | 19 | [boaslah](https://github.com/boaslah) | Blessing Boaslah | Montserrado County, Liberia  | 21 |
 | 20 | [ejaygbay](https://github.com/ejaygbay) | Emmanuel Jaygbay | Liberia | 21 |
 
-Generated: 2026-10-16T18:26:50.824Z
+Generated: 2026-10-16T19:53:09.625Z

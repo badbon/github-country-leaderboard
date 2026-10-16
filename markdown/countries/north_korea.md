@@ -19,9 +19,9 @@ Indexed users: 185
 | 5 | [andrewlee1807](https://github.com/andrewlee1807) | Andrew | North Korea | 1,507 |
 | 6 | [The-Red-Serpent](https://github.com/The-Red-Serpent) | The_Red_Serpent | Pyongyang, North Korea | 1,283 |
 | 7 | [henxdl](https://github.com/henxdl) | henxdl | Pyongyang, North Korea | 1,266 |
-| 8 | [iam-orsu](https://github.com/iam-orsu) | Vamsi Krishna | North Korea | 815 |
+| 8 | [iam-orsu](https://github.com/iam-orsu) | Vamsi Krishna | North Korea | 821 |
 | 9 | [Aashaby](https://github.com/Aashaby) |  | North Korea | 673 |
-| 10 | [1zumiSagiri](https://github.com/1zumiSagiri) | Vincent Chan | Pyongyang | 593 |
+| 10 | [1zumiSagiri](https://github.com/1zumiSagiri) | Vincent Chan | Pyongyang | 595 |
 | 11 | [Duzopy](https://github.com/Duzopy) | Dupozy | North Korea | 574 |
 | 12 | [chihongze](https://github.com/chihongze) | chihongze |  P'yŏngyang, North Korea | 531 |
 | 13 | [dddqmmx](https://github.com/dddqmmx) | PaulPerkenstein | Pyongyang | 505 |
@@ -38,7 +38,7 @@ Indexed users: 185
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [The-Red-Serpent](https://github.com/The-Red-Serpent) | The_Red_Serpent | Pyongyang, North Korea | 1,283 |
-| 2 | [iam-orsu](https://github.com/iam-orsu) | Vamsi Krishna | North Korea | 815 |
+| 2 | [iam-orsu](https://github.com/iam-orsu) | Vamsi Krishna | North Korea | 821 |
 | 3 | [Duzopy](https://github.com/Duzopy) | Dupozy | North Korea | 574 |
 | 4 | [dddqmmx](https://github.com/dddqmmx) | PaulPerkenstein | Pyongyang | 505 |
 | 5 | [PookiePepelsss](https://github.com/PookiePepelsss) | Pookie | North Korea | 350 |
@@ -80,7 +80,7 @@ Indexed users: 185
 | 16 | [retributions](https://github.com/retributions) |  | North Korea | 16 |
 | 17 | [VisionVerse](https://github.com/VisionVerse) | Vision Verse | North Korea | 16 |
 | 18 | [Lou1sEx](https://github.com/Lou1sEx) | Lou1s | North korea | 15 |
-| 19 | [satt-hri](https://github.com/satt-hri) | 稻草人(scarecrow) | North Korea | 15 |
-| 20 | [DillerOFire](https://github.com/DillerOFire) | VerpaSRP | North Korea | 14 |
+| 19 | [DillerOFire](https://github.com/DillerOFire) | VerpaSRP | North Korea | 14 |
+| 20 | [JeonJung-kook](https://github.com/JeonJung-kook) | Jeon Jung-kook Cantor | North Korea | 14 |
 
-Generated: 2026-10-16T18:39:02.212Z
+Generated: 2026-10-16T20:04:51.735Z

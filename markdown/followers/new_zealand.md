@@ -1,8 +1,8 @@
 # Followers - New Zealand
 
-Generated: 2026-10-16T18:37:00.920Z
+Generated: 2026-10-16T20:03:18.149Z
 
-Users: 12153
+Users: 12152
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

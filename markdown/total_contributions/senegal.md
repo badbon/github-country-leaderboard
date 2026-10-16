@@ -1,6 +1,6 @@
 # Total Contributions - Senegal
 
-Generated: 2026-10-16T18:50:49.009Z
+Generated: 2026-10-16T20:16:33.930Z
 
 Users: 1356
 
@@ -12,8 +12,8 @@ Users: 1356
 | 4 | [ModesteNAHUM](https://github.com/ModesteNAHUM) | Modeste NAHUM | @SimplifyStack  |  | Dakar, Sénégal | 10140 |
 | 5 | [Titovich2203](https://github.com/Titovich2203) | Tito GBEDJEHA | WIICODE |  | Dakar, Senegal | 9124 |
 | 6 | [jmndao](https://github.com/jmndao) | Jonathan Musa NDAO | Tecafrik |  | Senegal | 8074 |
-| 7 | [gaelahouanvoedo](https://github.com/gaelahouanvoedo) | Gael AHOUANVOEDO |  |  | Dakar, Sénégal | 7526 |
-| 8 | [MJoshua25](https://github.com/MJoshua25) | Yao Josué |  |  | Dakar | 6373 |
+| 7 | [MJoshua25](https://github.com/MJoshua25) | Yao Josué |  |  | Dakar | 7580 |
+| 8 | [gaelahouanvoedo](https://github.com/gaelahouanvoedo) | Gael AHOUANVOEDO |  |  | Dakar, Sénégal | 7526 |
 | 9 | [utachicodes](https://github.com/utachicodes) | Abdoullah Ndao | Azertica |  | Senegal | 6338 |
 | 10 | [njaga](https://github.com/njaga) | Ndiaga Ndiaye | kamit digital | ndiaga_dev | Dakar | 5792 |
 | 11 | [i2sac](https://github.com/i2sac) | Louis Issac Jean Samba DIOUF | Zone01 Dakar | okinobal | Dakar, Senegal | 5737 |

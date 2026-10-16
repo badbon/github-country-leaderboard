@@ -29,7 +29,7 @@ Indexed users: 2,188
 | 15 | [leobenkel-db](https://github.com/leobenkel-db) | Leo Benkel (bot)  | Luxembourg | 6,955 |
 | 16 | [b-rodrigues](https://github.com/b-rodrigues) | Bruno Rodrigues | Luxembourg-City, Luxembourg | 6,927 |
 | 17 | [nicolasguelfi](https://github.com/nicolasguelfi) | Nicolas Guelfi | Esch-sur-Alzette, Luxembourg | 6,213 |
-| 18 | [francois352](https://github.com/francois352) | Francois Altwies | Luxembourg | 6,197 |
+| 18 | [francois352](https://github.com/francois352) | Francois Altwies | Luxembourg | 6,191 |
 | 19 | [jose99segura](https://github.com/jose99segura) | Jose Luis Segura | Luxembourg | 6,081 |
 | 20 | [remiminnebo](https://github.com/remiminnebo) | Remi J. Minnebo | Luxembourg | 5,465 |
 
@@ -68,7 +68,7 @@ Indexed users: 2,188
 | 4 | [255kb](https://github.com/255kb) | Guillaume | Luxembourg | 396 |
 | 5 | [themarcba](https://github.com/themarcba) | Marc Backes | Luxembourg | 393 |
 | 6 | [Vedenin](https://github.com/Vedenin) | Slava Vedenin | Luxembourg | 379 |
-| 7 | [zit0cod3z](https://github.com/zit0cod3z) | Kizito Daka | Luxembourg | 366 |
+| 7 | [zit0cod3z](https://github.com/zit0cod3z) | Kizito Daka | Luxembourg | 370 |
 | 8 | [fmind](https://github.com/fmind) | Médéric Hurier (Fmind) | Luxembourg | 309 |
 | 9 | [morteza](https://github.com/morteza) | Morteza Ansarinia | Luxembourg | 302 |
 | 10 | [SvenGDK](https://github.com/SvenGDK) | SvenGDK | Luxembourg | 299 |
@@ -83,4 +83,4 @@ Indexed users: 2,188
 | 19 | [l4rz](https://github.com/l4rz) | Mike K. | Luxembourg | 197 |
 | 20 | [urosolia](https://github.com/urosolia) | Ugo Rosolia | Luxembourg, Lux | 192 |
 
-Generated: 2026-10-16T18:28:39.375Z
+Generated: 2026-10-16T19:54:59.587Z

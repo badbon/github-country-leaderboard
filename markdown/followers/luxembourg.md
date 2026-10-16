@@ -1,6 +1,6 @@
 # Followers - Luxembourg
 
-Generated: 2026-10-16T18:28:39.375Z
+Generated: 2026-10-16T19:54:59.587Z
 
 Users: 2188
 
@@ -12,7 +12,7 @@ Users: 2188
 | 4 | [255kb](https://github.com/255kb) | Guillaume | @mockoon |  | Luxembourg | 396 |
 | 5 | [themarcba](https://github.com/themarcba) | Marc Backes | @directus | marcba | Luxembourg | 393 |
 | 6 | [Vedenin](https://github.com/Vedenin) | Slava Vedenin |  |  | Luxembourg | 379 |
-| 7 | [zit0cod3z](https://github.com/zit0cod3z) | Kizito Daka |  | zitocod3z | Luxembourg | 366 |
+| 7 | [zit0cod3z](https://github.com/zit0cod3z) | Kizito Daka |  | zitocod3z | Luxembourg | 370 |
 | 8 | [fmind](https://github.com/fmind) | Médéric Hurier (Fmind) | Fmind.dev | fmind_dev | Luxembourg | 309 |
 | 9 | [morteza](https://github.com/morteza) | Morteza Ansarinia |  |  | Luxembourg | 302 |
 | 10 | [SvenGDK](https://github.com/SvenGDK) | SvenGDK |  | SvenGDK | Luxembourg | 299 |

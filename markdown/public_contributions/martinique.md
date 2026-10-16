@@ -1,6 +1,6 @@
 # Public Contributions - Martinique
 
-Generated: 2026-10-16T18:32:00.029Z
+Generated: 2026-10-16T19:58:23.655Z
 
 Users: 75
 
@@ -11,7 +11,7 @@ Users: 75
 | 3 | [diasjorge](https://github.com/diasjorge) | Jorge Dias | http://aerisnova.com | dias_jorge | Martinique | 1524 |
 | 4 | [p4cm4n972](https://github.com/p4cm4n972) | Manuel ADELE |  |  | Martinique | 716 |
 | 5 | [GuillaumeBld](https://github.com/GuillaumeBld) | Guillaume Bolivard |  |  | Chicago / Fort-de-France | 500 |
-| 6 | [blazux](https://github.com/blazux) | Vincent B. |  |  | Martinique | 421 |
+| 6 | [blazux](https://github.com/blazux) | Vincent B. |  |  | Martinique | 422 |
 | 7 | [esrid](https://github.com/esrid) | ADS | none | as_esrid | Martinique | 399 |
 | 8 | [steeven-js](https://github.com/steeven-js) | steeven_js | Madin.IA |  | Martinique | 372 |
 | 9 | [ricard33](https://github.com/ricard33) | Cédric RICARD |  |  | Martinique | 330 |
@@ -20,7 +20,7 @@ Users: 75
 | 12 | [b1nj](https://github.com/b1nj) | B1nj | pixellweb.com |  | Martinique | 179 |
 | 13 | [bolom](https://github.com/bolom) | Bolo Michelin | @scionx-io | bolomichelin | Martinique | 167 |
 | 14 | [Jb-Analytics](https://github.com/Jb-Analytics) | Célia JEAN-BART |  |  | Martinique | 160 |
-| 15 | [Ulrico972](https://github.com/Ulrico972) | Ulrich Giberné | Airship |  | Martinique | 140 |
+| 15 | [Ulrico972](https://github.com/Ulrico972) | Ulrich Giberné | Airship |  | Martinique | 141 |
 | 16 | [marieangeliquepied](https://github.com/marieangeliquepied) | Marie-Angélique PIED |  |  | Martinique  | 126 |
 | 17 | [kodzukye](https://github.com/kodzukye) | Jayyy ⋆˚✿˖° |  |  | Martinique | 90 |
 | 18 | [aldofwi](https://github.com/aldofwi) | Dominique ALMANDIN | ΛDHD | aldofwi | Martinique | 78 |

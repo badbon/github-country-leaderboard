@@ -1,6 +1,6 @@
 # Public Contributions - Saudi Arabia
 
-Generated: 2026-10-16T19:25:23.911Z
+Generated: 2026-10-16T20:15:54.493Z
 
 Users: 7736
 
@@ -18,11 +18,11 @@ Users: 7736
 | 10 | [ManalAlyami7](https://github.com/ManalAlyami7) | Manal Alyami  | King Saud University |  | Riyadh, Saudi Arabia | 3438 |
 | 11 | [EslamElshikh-dev](https://github.com/EslamElshikh-dev) | Eslam Elshikh | Google  | remoesoo10 | Riyadh  | 3381 |
 | 12 | [CalledSTRIKER](https://github.com/CalledSTRIKER) | Sultan |  |  | Saudi Arabia | 3251 |
-| 13 | [Lamyaa439](https://github.com/Lamyaa439) | Lamyaa  |  |  | Riyadh | 2589 |
-| 14 | [Su03l](https://github.com/Su03l) | Suliman Yousef |  | su05l | Saudi Arabia | 2480 |
-| 15 | [nn6n](https://github.com/nn6n) |  |  |  | Saudi Arabia  | 2459 |
-| 16 | [singer-yang](https://github.com/singer-yang) | Xinge Yang | KAUST |  | Thuwal, Saudi Arabia | 2413 |
-| 17 | [Shoug-Alomran](https://github.com/Shoug-Alomran) | Shoug Alomran |  |  | Saudi Arabia | 2404 |
-| 18 | [GalaxyRuler](https://github.com/GalaxyRuler) | GalaxyRuler |  |  | Riyadh, Saudi Arabia | 2294 |
-| 19 | [SyabAhmad](https://github.com/SyabAhmad) | Syed Syab Ahmad | MenteE | SyabSays | Al-Riyadh, Saudi Arabia | 2289 |
-| 20 | [usernane](https://github.com/usernane) | Ibrahim BinAlshikh | @OSHCO  | IbrahimBAli2017 | Saudi Arabia | 2261 |
+| 13 | [Su03l](https://github.com/Su03l) | Suliman Yousef |  | su05l | Saudi Arabia | 2480 |
+| 14 | [nn6n](https://github.com/nn6n) |  |  |  | Saudi Arabia  | 2459 |
+| 15 | [singer-yang](https://github.com/singer-yang) | Xinge Yang | KAUST |  | Thuwal, Saudi Arabia | 2413 |
+| 16 | [Shoug-Alomran](https://github.com/Shoug-Alomran) | Shoug Alomran |  |  | Saudi Arabia | 2404 |
+| 17 | [GalaxyRuler](https://github.com/GalaxyRuler) | GalaxyRuler |  |  | Riyadh, Saudi Arabia | 2294 |
+| 18 | [SyabAhmad](https://github.com/SyabAhmad) | Syed Syab Ahmad | MenteE | SyabSays | Al-Riyadh, Saudi Arabia | 2289 |
+| 19 | [usernane](https://github.com/usernane) | Ibrahim BinAlshikh | @OSHCO  | IbrahimBAli2017 | Saudi Arabia | 2261 |
+| 20 | [aliakarma](https://github.com/aliakarma) | Ali Akarma | Islamic University of Madinah | akarma_ali | Madinah, Saudi Arabia | 2238 |

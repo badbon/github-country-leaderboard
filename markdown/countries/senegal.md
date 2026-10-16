@@ -18,8 +18,8 @@ Indexed users: 1,356
 | 4 | [ModesteNAHUM](https://github.com/ModesteNAHUM) | Modeste NAHUM | Dakar, Sénégal | 10,140 |
 | 5 | [Titovich2203](https://github.com/Titovich2203) | Tito GBEDJEHA | Dakar, Senegal | 9,124 |
 | 6 | [jmndao](https://github.com/jmndao) | Jonathan Musa NDAO | Senegal | 8,074 |
-| 7 | [gaelahouanvoedo](https://github.com/gaelahouanvoedo) | Gael AHOUANVOEDO | Dakar, Sénégal | 7,526 |
-| 8 | [MJoshua25](https://github.com/MJoshua25) | Yao Josué | Dakar | 6,373 |
+| 7 | [MJoshua25](https://github.com/MJoshua25) | Yao Josué | Dakar | 7,580 |
+| 8 | [gaelahouanvoedo](https://github.com/gaelahouanvoedo) | Gael AHOUANVOEDO | Dakar, Sénégal | 7,526 |
 | 9 | [utachicodes](https://github.com/utachicodes) | Abdoullah Ndao | Senegal | 6,338 |
 | 10 | [njaga](https://github.com/njaga) | Ndiaga Ndiaye | Dakar | 5,792 |
 | 11 | [i2sac](https://github.com/i2sac) | Louis Issac Jean Samba DIOUF | Dakar, Senegal | 5,737 |
@@ -83,4 +83,4 @@ Indexed users: 1,356
 | 19 | [ngorseck](https://github.com/ngorseck) | Ngor SECK | Dakar - Sénégal | 142 |
 | 20 | [patheGobel](https://github.com/patheGobel) | Pathé BA | Senegal  | 141 |
 
-Generated: 2026-10-16T18:50:49.009Z
+Generated: 2026-10-16T20:16:33.930Z

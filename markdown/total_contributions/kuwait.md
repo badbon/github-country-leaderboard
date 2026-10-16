@@ -1,6 +1,6 @@
 # Total Contributions - Kuwait
 
-Generated: 2026-10-16T18:23:15.637Z
+Generated: 2026-10-16T19:51:08.429Z
 
 Users: 797
 
@@ -18,9 +18,9 @@ Users: 797
 | 10 | [Mubder](https://github.com/Mubder) | Mubder Alfaris | KazmaAI | b_alfaris | Kuwait | 4586 |
 | 11 | [azikar24](https://github.com/azikar24) | Abdulaziz Karam |  |  | Kuwait | 4407 |
 | 12 | [knro](https://github.com/knro) | Jasem Mutlaq |  |  | Kuwait | 4089 |
-| 13 | [careless10](https://github.com/careless10) | Menawer | Ruba |  | Kuwait | 3839 |
-| 14 | [Mazyod](https://github.com/Mazyod) | Maz | Boubyan Bank |  | Kuwait | 3794 |
-| 15 | [mulaifi](https://github.com/mulaifi) | Salem Almulaifi | LEAN | SalemAlmulaifi | Kuwait | 3643 |
+| 13 | [mulaifi](https://github.com/mulaifi) | Salem Almulaifi | LEAN | SalemAlmulaifi | Kuwait | 3929 |
+| 14 | [careless10](https://github.com/careless10) | Menawer | Ruba |  | Kuwait | 3839 |
+| 15 | [Mazyod](https://github.com/Mazyod) | Maz | Boubyan Bank |  | Kuwait | 3794 |
 | 16 | [iZaL](https://github.com/iZaL) | Afzal Abbas |  |  | Kuwait | 3529 |
 | 17 | [DiNaSoR](https://github.com/DiNaSoR) | BuYousef |  |  | Kuwait | 3511 |
 | 18 | [aalhendi](https://github.com/aalhendi) | Abdulrazzaq Alhendi |  |  | Kuwait | 3466 |

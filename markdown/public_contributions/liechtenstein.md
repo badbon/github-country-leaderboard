@@ -1,6 +1,6 @@
 # Public Contributions - Liechtenstein
 
-Generated: 2026-10-16T18:27:20.923Z
+Generated: 2026-10-16T19:54:17.500Z
 
 Users: 113
 
@@ -25,4 +25,4 @@ Users: 113
 | 17 | [ukhan717](https://github.com/ukhan717) | u.khan | NTi Audio AG |  | Liechtenstein | 99 |
 | 18 | [danheron](https://github.com/danheron) | Dan Heron |  |  | Liechtenstein | 77 |
 | 19 | [xenok69](https://github.com/xenok69) | xenok1 | VP Bank |  | Liechtenstein | 65 |
-| 20 | [FeeJai](https://github.com/FeeJai) | Felix Jankowski |  |  | Liechtenstein | 48 |
+| 20 | [anonymouslyanonymous1](https://github.com/anonymouslyanonymous1) | Anonymously Anonymous |  |  | Liechtenstein | 45 |

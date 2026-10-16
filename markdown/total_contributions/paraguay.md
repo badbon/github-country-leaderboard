@@ -1,6 +1,6 @@
 # Total Contributions - Paraguay
 
-Generated: 2026-10-16T18:43:17.123Z
+Generated: 2026-10-16T20:08:19.327Z
 
 Users: 2013
 
@@ -23,6 +23,6 @@ Users: 2013
 | 15 | [davicyyo](https://github.com/davicyyo) | DaViCyYo | HeadArrow | davicyyoYT | Paraguay | 5811 |
 | 16 | [everdaniel](https://github.com/everdaniel) | Ever Daniel Barreto | Borealis |  | Asunción, Paraguay | 5581 |
 | 17 | [yoryer](https://github.com/yoryer) | Jorge Noguera |  | yoryer | Paraguay | 5465 |
-| 18 | [apojomovsky](https://github.com/apojomovsky) | Alexis Pojomovsky |  |  | Asunción - Paraguay | 5111 |
-| 19 | [InumanSoul](https://github.com/InumanSoul) | Anderson Fariña |  | Inumansoul | Paraguay | 5001 |
-| 20 | [aplgr](https://github.com/aplgr) | André Plöger |  |  | Paraguay | 4966 |
+| 18 | [aplgr](https://github.com/aplgr) | André Plöger |  |  | Paraguay | 5210 |
+| 19 | [apojomovsky](https://github.com/apojomovsky) | Alexis Pojomovsky |  |  | Asunción - Paraguay | 5111 |
+| 20 | [InumanSoul](https://github.com/InumanSoul) | Anderson Fariña |  | Inumansoul | Paraguay | 5001 |

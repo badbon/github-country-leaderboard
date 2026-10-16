@@ -1,6 +1,6 @@
 # Bhutan
 
-Indexed users: 266
+Indexed users: 267
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 266
 | 19 | [TandinDev](https://github.com/TandinDev) | Tandin Tshewang | Thimphu | 23 |
 | 20 | [chimiWangchukWangdi](https://github.com/chimiWangchukWangdi) | Chimi Wangchuk Wangdi | Thimphu, Bhutan | 22 |
 
-Generated: 2026-10-16T19:19:27.817Z
+Generated: 2026-10-16T19:56:30.105Z

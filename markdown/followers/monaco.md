@@ -1,6 +1,6 @@
 # Followers - Monaco
 
-Generated: 2026-10-16T18:34:46.618Z
+Generated: 2026-10-16T19:59:46.539Z
 
 Users: 142
 
@@ -14,8 +14,8 @@ Users: 142
 | 6 | [vjandrea](https://github.com/vjandrea) | Andrea Bergamasco | KeeSystem | vjandrea | Monaco | 36 |
 | 7 | [zertawz](https://github.com/zertawz) | Jean-Christophe BURNOT | CPE LYON | jeanchrisbrnt | MONACO / LYON / LAUSANNE | 30 |
 | 8 | [jmbertin](https://github.com/jmbertin) | Jean-Michel Bertin | MVE |  | Monaco | 24 |
-| 9 | [LovelessCodes](https://github.com/LovelessCodes) |  |  |  | Monaco | 23 |
-| 10 | [HedgeQuantX](https://github.com/HedgeQuantX) | HedgeQuant𝕏 |  | hedgequantx | Monte-Carlo, Monaco | 22 |
+| 9 | [HedgeQuantX](https://github.com/HedgeQuantX) | HedgeQuant𝕏 |  | hedgequantx | Monte-Carlo, Monaco | 23 |
+| 10 | [LovelessCodes](https://github.com/LovelessCodes) |  |  |  | Monaco | 23 |
 | 11 | [bait-archived](https://github.com/bait-archived) | Beryllium (Privated...) | YTABYTE |  | Fontevielle, Monaco | 17 |
 | 12 | [SilencyDev](https://github.com/SilencyDev) | Kevin Macquet | Modulus | KvnMacquet | Monaco | 17 |
 | 13 | [z2sx](https://github.com/z2sx) | Andrey Platov | @anticrm  |  | Monaco | 17 |

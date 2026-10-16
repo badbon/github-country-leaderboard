@@ -20,14 +20,14 @@ Indexed users: 176
 | 6 | [petrozavodsky](https://github.com/petrozavodsky) | Vladimir Petrozavodsky | Niger | 1,377 |
 | 7 | [Yacoubou-seidou](https://github.com/Yacoubou-seidou) | Yacos | Niamey/Niger | 1,171 |
 | 8 | [kodjodevf](https://github.com/kodjodevf) | Moustapha Kodjo Amadou | Niamey,Niger | 1,146 |
-| 9 | [FadelMamar](https://github.com/FadelMamar) | Fadel | Niger | 1,062 |
+| 9 | [FadelMamar](https://github.com/FadelMamar) | Fadel | Niger | 1,064 |
 | 10 | [Transega](https://github.com/Transega) | Collins Asega Amadala  | Niamey Niger | 953 |
 | 11 | [5mamane](https://github.com/5mamane) | Mamane I. | Niamey | 951 |
 | 12 | [Godisouleymane](https://github.com/Godisouleymane) | Souleymane Sabiou | Niger | 756 |
 | 13 | [oxy227](https://github.com/oxy227) | Ayouba Issoufou | Niamey/Niger | 743 |
 | 14 | [Abdoulaye-Ly](https://github.com/Abdoulaye-Ly) | Abdoulaye Ousmane Ly | Niamey, Niger | 719 |
 | 15 | [Ismail0u](https://github.com/Ismail0u) | Ismael | Niamey & Lomé | 586 |
-| 16 | [mocy111](https://github.com/mocy111) | Moctar Yonli | Niamey | 551 |
+| 16 | [mocy111](https://github.com/mocy111) | Moctar Yonli | Niamey | 567 |
 | 17 | [Imrana-Moustapha](https://github.com/Imrana-Moustapha) | Imrana Moustapha | Niamey-Niger | 524 |
 | 18 | [netmophus](https://github.com/netmophus) | NETMORPHUS | Niamey | 495 |
 | 19 | [Kounou25](https://github.com/Kounou25) | Kounou Gilbert | Niamey,Niger | 457 |
@@ -40,7 +40,7 @@ Indexed users: 176
 | 1 | [Yacine-ai-tech](https://github.com/Yacine-ai-tech) | Seybou Siddo Yacine | Niamey, Niger | 6,481 |
 | 2 | [akaletekoffilevis](https://github.com/akaletekoffilevis) | akaletekoffilevis | Niger/Niamey | 1,832 |
 | 3 | [kodjodevf](https://github.com/kodjodevf) | Moustapha Kodjo Amadou | Niamey,Niger | 1,146 |
-| 4 | [FadelMamar](https://github.com/FadelMamar) | Fadel | Niger | 1,062 |
+| 4 | [FadelMamar](https://github.com/FadelMamar) | Fadel | Niger | 1,064 |
 | 5 | [Ismail0u](https://github.com/Ismail0u) | Ismael | Niamey & Lomé | 586 |
 | 6 | [netmophus](https://github.com/netmophus) | NETMORPHUS | Niamey | 495 |
 | 7 | [Transega](https://github.com/Transega) | Collins Asega Amadala  | Niamey Niger | 383 |
@@ -83,4 +83,4 @@ Indexed users: 176
 | 19 | [ibkhall](https://github.com/ibkhall) | Ibrahim Boubacar | Niamey | 17 |
 | 20 | [ibrahimcheik](https://github.com/ibrahimcheik) | Amadou Moussa Ibrahim | Niamey | 17 |
 
-Generated: 2026-10-16T18:37:33.126Z
+Generated: 2026-10-16T20:03:27.463Z

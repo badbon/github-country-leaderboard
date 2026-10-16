@@ -1,6 +1,6 @@
 # Followers - Mali
 
-Generated: 2026-10-16T18:31:47.483Z
+Generated: 2026-10-16T19:57:37.768Z
 
 Users: 348
 
@@ -13,7 +13,7 @@ Users: 348
 | 5 | [GUIND0](https://github.com/GUIND0) | Souleymane Guindo |  |  | Mali | 61 |
 | 6 | [Lex-corp-crypto](https://github.com/Lex-corp-crypto) | Amadou H TRAORE |  |  | Mali/Bamako | 57 |
 | 7 | [iamdanajr](https://github.com/iamdanajr) | Dana JR✨ |  |  | Mali | 48 |
-| 8 | [Abdoul03](https://github.com/Abdoul03) | Abdoul Ibrahima Samaké | Tuwindi Foundation |  | Bamako | 45 |
+| 8 | [Abdoul03](https://github.com/Abdoul03) | Abdoul Ibrahima Samaké | Tuwindi Foundation |  | Bamako | 44 |
 | 9 | [sudoping01](https://github.com/sudoping01) | sed | .... |  | Bamako | 43 |
 | 10 | [THIOYE97](https://github.com/THIOYE97) | THIOYE MARIKO | Danapay |  | Bamako , Mali 🇲🇱  | 37 |
 | 11 | [diarisdiakite](https://github.com/diarisdiakite) | Diariatou Diakite | Full-Stack Developer / Microverse student | diarisdiakite | Bamako - Mali | 35 |

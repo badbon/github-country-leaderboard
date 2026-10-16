@@ -70,8 +70,8 @@ Indexed users: 142
 | 6 | [vjandrea](https://github.com/vjandrea) | Andrea Bergamasco | Monaco | 36 |
 | 7 | [zertawz](https://github.com/zertawz) | Jean-Christophe BURNOT | MONACO / LYON / LAUSANNE | 30 |
 | 8 | [jmbertin](https://github.com/jmbertin) | Jean-Michel Bertin | Monaco | 24 |
-| 9 | [LovelessCodes](https://github.com/LovelessCodes) |  | Monaco | 23 |
-| 10 | [HedgeQuantX](https://github.com/HedgeQuantX) | HedgeQuant𝕏 | Monte-Carlo, Monaco | 22 |
+| 9 | [HedgeQuantX](https://github.com/HedgeQuantX) | HedgeQuant𝕏 | Monte-Carlo, Monaco | 23 |
+| 10 | [LovelessCodes](https://github.com/LovelessCodes) |  | Monaco | 23 |
 | 11 | [bait-archived](https://github.com/bait-archived) | Beryllium (Privated...) | Fontevielle, Monaco | 17 |
 | 12 | [SilencyDev](https://github.com/SilencyDev) | Kevin Macquet | Monaco | 17 |
 | 13 | [z2sx](https://github.com/z2sx) | Andrey Platov | Monaco | 17 |
@@ -83,4 +83,4 @@ Indexed users: 142
 | 19 | [coachklng12](https://github.com/coachklng12) |  | Monaco | 14 |
 | 20 | [co-stig](https://github.com/co-stig) | Constantine | Monaco | 13 |
 
-Generated: 2026-10-16T18:34:46.618Z
+Generated: 2026-10-16T19:59:46.539Z

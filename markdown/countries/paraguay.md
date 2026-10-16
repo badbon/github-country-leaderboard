@@ -29,9 +29,9 @@ Indexed users: 2,013
 | 15 | [davicyyo](https://github.com/davicyyo) | DaViCyYo | Paraguay | 5,811 |
 | 16 | [everdaniel](https://github.com/everdaniel) | Ever Daniel Barreto | Asunción, Paraguay | 5,581 |
 | 17 | [yoryer](https://github.com/yoryer) | Jorge Noguera | Paraguay | 5,465 |
-| 18 | [apojomovsky](https://github.com/apojomovsky) | Alexis Pojomovsky | Asunción - Paraguay | 5,111 |
-| 19 | [InumanSoul](https://github.com/InumanSoul) | Anderson Fariña | Paraguay | 5,001 |
-| 20 | [aplgr](https://github.com/aplgr) | André Plöger | Paraguay | 4,966 |
+| 18 | [aplgr](https://github.com/aplgr) | André Plöger | Paraguay | 5,210 |
+| 19 | [apojomovsky](https://github.com/apojomovsky) | Alexis Pojomovsky | Asunción - Paraguay | 5,111 |
+| 20 | [InumanSoul](https://github.com/InumanSoul) | Anderson Fariña | Paraguay | 5,001 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 2,013
 | 19 | [metakeule](https://github.com/metakeule) | metakeule | Asunción / Paraguay | 109 |
 | 20 | [replay](https://github.com/replay) | Mauro Stettler | Asuncion, Paraguay | 105 |
 
-Generated: 2026-10-16T18:43:17.123Z
+Generated: 2026-10-16T20:08:19.327Z

@@ -24,9 +24,9 @@ Indexed users: 797
 | 10 | [Mubder](https://github.com/Mubder) | Mubder Alfaris | Kuwait | 4,586 |
 | 11 | [azikar24](https://github.com/azikar24) | Abdulaziz Karam | Kuwait | 4,407 |
 | 12 | [knro](https://github.com/knro) | Jasem Mutlaq | Kuwait | 4,089 |
-| 13 | [careless10](https://github.com/careless10) | Menawer | Kuwait | 3,839 |
-| 14 | [Mazyod](https://github.com/Mazyod) | Maz | Kuwait | 3,794 |
-| 15 | [mulaifi](https://github.com/mulaifi) | Salem Almulaifi | Kuwait | 3,643 |
+| 13 | [mulaifi](https://github.com/mulaifi) | Salem Almulaifi | Kuwait | 3,929 |
+| 14 | [careless10](https://github.com/careless10) | Menawer | Kuwait | 3,839 |
+| 15 | [Mazyod](https://github.com/Mazyod) | Maz | Kuwait | 3,794 |
 | 16 | [iZaL](https://github.com/iZaL) | Afzal Abbas | Kuwait | 3,529 |
 | 17 | [DiNaSoR](https://github.com/DiNaSoR) | BuYousef | Kuwait | 3,511 |
 | 18 | [aalhendi](https://github.com/aalhendi) | Abdulrazzaq Alhendi | Kuwait | 3,466 |
@@ -83,4 +83,4 @@ Indexed users: 797
 | 19 | [MoathOthman](https://github.com/MoathOthman) | Moath othman | Kuwait | 85 |
 | 20 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Kuwait | 81 |
 
-Generated: 2026-10-16T18:23:15.637Z
+Generated: 2026-10-16T19:51:08.429Z

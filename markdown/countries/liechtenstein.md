@@ -13,7 +13,7 @@ Indexed users: 113
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [oscardvs](https://github.com/oscardvs) | Oscar Devos | Liechtenstein | 5,644 |
-| 2 | [bernhardw](https://github.com/bernhardw) | Bernhard Wanger | Vaduz, Liechtenstein | 4,538 |
+| 2 | [bernhardw](https://github.com/bernhardw) | Bernhard Wanger | Vaduz, Liechtenstein | 4,568 |
 | 3 | [tnaescher](https://github.com/tnaescher) | T. Näscher | Liechtenstein | 4,308 |
 | 4 | [msanft](https://github.com/msanft) | Moritz Sanft | Liechtenstein | 2,916 |
 | 5 | [PhilippHGerber](https://github.com/PhilippHGerber) | Philipp H. Gerber | Liechtenstein | 2,605 |
@@ -29,7 +29,7 @@ Indexed users: 113
 | 15 | [xGreeny](https://github.com/xGreeny) | Flurin | Liechtenstein | 329 |
 | 16 | [anonymouslyanonymous1](https://github.com/anonymouslyanonymous1) | Anonymously Anonymous | Liechtenstein | 309 |
 | 17 | [anondotli](https://github.com/anondotli) | anon.li | Liechtenstein | 301 |
-| 18 | [FeeJai](https://github.com/FeeJai) | Felix Jankowski | Liechtenstein | 278 |
+| 18 | [FeeJai](https://github.com/FeeJai) | Felix Jankowski | Liechtenstein | 300 |
 | 19 | [ColinFL](https://github.com/ColinFL) |  | Liechtenstein | 268 |
 | 20 | [catbears](https://github.com/catbears) |  | Eschen, Liechtenstein | 166 |
 
@@ -56,7 +56,7 @@ Indexed users: 113
 | 17 | [ukhan717](https://github.com/ukhan717) | u.khan | Liechtenstein | 99 |
 | 18 | [danheron](https://github.com/danheron) | Dan Heron | Liechtenstein | 77 |
 | 19 | [xenok69](https://github.com/xenok69) | xenok1 | Liechtenstein | 65 |
-| 20 | [FeeJai](https://github.com/FeeJai) | Felix Jankowski | Liechtenstein | 48 |
+| 20 | [anonymouslyanonymous1](https://github.com/anonymouslyanonymous1) | Anonymously Anonymous | Liechtenstein | 45 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 113
 | 19 | [PhilippHGerber](https://github.com/PhilippHGerber) | Philipp H. Gerber | Liechtenstein | 14 |
 | 20 | [niklasfrick](https://github.com/niklasfrick) | Niklas Frick | Liechtenstein | 12 |
 
-Generated: 2026-10-16T18:27:20.923Z
+Generated: 2026-10-16T19:54:17.500Z
