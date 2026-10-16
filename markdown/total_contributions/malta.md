@@ -1,6 +1,6 @@
 # Total Contributions - Malta
 
-Generated: 2026-10-16T14:40:41.916Z
+Generated: 2026-10-16T16:05:53.890Z
 
 Users: 1225
 
@@ -23,6 +23,6 @@ Users: 1225
 | 15 | [iko2000](https://github.com/iko2000) | Iviko Shengelia | 88Bit Limited |  | Malta | 7327 |
 | 16 | [KimSpecht](https://github.com/KimSpecht) | Kim Pedersen |  |  | Malta | 7238 |
 | 17 | [ksazid](https://github.com/ksazid) | Sazid |  |  | Malta | 6244 |
-| 18 | [mzaharenkov](https://github.com/mzaharenkov) | Mikhail Zakharenkov | HMLabs |  | Malta | 5652 |
+| 18 | [mzaharenkov](https://github.com/mzaharenkov) | Mikhail Zakharenkov | HMLabs |  | Malta | 5805 |
 | 19 | [seanellul](https://github.com/seanellul) | Sean Ellul |  |  | Malta | 5628 |
 | 20 | [kevinfarrugia](https://github.com/kevinfarrugia) | Kevin Farrugia | @SpiffingIO  |  | Malta | 5544 |

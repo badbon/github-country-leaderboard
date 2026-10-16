@@ -1,6 +1,6 @@
 # Followers - Latvia
 
-Generated: 2026-10-16T14:35:45.692Z
+Generated: 2026-10-16T16:01:51.271Z
 
 Users: 3257
 
@@ -21,7 +21,7 @@ Users: 3257
 | 13 | [dxHubCoin](https://github.com/dxHubCoin) | dxHub | dxHub |  | Latvia | 314 |
 | 14 | [kasparsd](https://github.com/kasparsd) | Kaspars Dambis |  | konstruktors | Latvia | 299 |
 | 15 | [arturssmirnovs](https://github.com/arturssmirnovs) | Arturs Smirnovs |  | artuurssmirnovs | Latvia | 296 |
-| 16 | [arthepsy](https://github.com/arthepsy) | Andris Raugulis | @evolution-gaming |  | Latvia | 252 |
+| 16 | [arthepsy](https://github.com/arthepsy) | Andris Raugulis | @evolution-gaming |  | Latvia | 254 |
 | 17 | [YahnisElsts](https://github.com/YahnisElsts) | Yahnis Elsts |  |  | Latvia | 244 |
 | 18 | [cuu508](https://github.com/cuu508) | Pēteris Caune | @healthchecks  |  | Valmiera, Latvia | 233 |
 | 19 | [ruslanskorb](https://github.com/ruslanskorb) | Ruslan Skorb | OktoSpace SIA |  | Riga, Latvia | 226 |

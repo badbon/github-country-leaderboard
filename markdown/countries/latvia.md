@@ -77,10 +77,10 @@ Indexed users: 3,257
 | 13 | [dxHubCoin](https://github.com/dxHubCoin) | dxHub | Latvia | 314 |
 | 14 | [kasparsd](https://github.com/kasparsd) | Kaspars Dambis | Latvia | 299 |
 | 15 | [arturssmirnovs](https://github.com/arturssmirnovs) | Arturs Smirnovs | Latvia | 296 |
-| 16 | [arthepsy](https://github.com/arthepsy) | Andris Raugulis | Latvia | 252 |
+| 16 | [arthepsy](https://github.com/arthepsy) | Andris Raugulis | Latvia | 254 |
 | 17 | [YahnisElsts](https://github.com/YahnisElsts) | Yahnis Elsts | Latvia | 244 |
 | 18 | [cuu508](https://github.com/cuu508) | Pēteris Caune | Valmiera, Latvia | 233 |
 | 19 | [ruslanskorb](https://github.com/ruslanskorb) | Ruslan Skorb | Riga, Latvia | 226 |
 | 20 | [0ki](https://github.com/0ki) | Кirils Sоlovjоvs | Latvia | 225 |
 
-Generated: 2026-10-16T14:35:45.692Z
+Generated: 2026-10-16T16:01:51.271Z

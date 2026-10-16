@@ -14,7 +14,7 @@ Indexed users: 5,644
 |---:|---|---|---|---:|
 | 1 | [chelaxian](https://github.com/chelaxian) | ratu.sh | Kazakhstan | 126,195 |
 | 2 | [rldyourmnd](https://github.com/rldyourmnd) | Danil Silantyev | Kazakhstan/World | 74,329 |
-| 3 | [nstwfdev](https://github.com/nstwfdev) | Timur | Kazakhstan | 40,433 |
+| 3 | [nstwfdev](https://github.com/nstwfdev) | Timur | Kazakhstan | 40,407 |
 | 4 | [ZhymabekRoman](https://github.com/ZhymabekRoman) | Zhymabek Roman | Kazakhstan | 34,165 |
 | 5 | [yrn-dev](https://github.com/yrn-dev) | Yernur | Kazakhstan, Kyzylorda | 24,758 |
 | 6 | [yasball](https://github.com/yasball) | Yesbol Sariyev | Atyrau, Kazakhstan | 15,489 |
@@ -83,4 +83,4 @@ Indexed users: 5,644
 | 19 | [aidarnouman](https://github.com/aidarnouman) | Aidar Nouman | Almaty, Kazakhstan | 303 |
 | 20 | [azamxvit](https://github.com/azamxvit) | Azamat | Kazakhstan, Atyrau | 295 |
 
-Generated: 2026-10-16T14:33:17.139Z
+Generated: 2026-10-16T15:59:43.999Z

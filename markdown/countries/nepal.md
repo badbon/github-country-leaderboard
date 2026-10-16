@@ -14,24 +14,24 @@ Indexed users: 14,118
 |---:|---|---|---|---:|
 | 1 | [Azathothas](https://github.com/Azathothas) | Ajam | Nepal | 25,137 |
 | 2 | [comethrusws](https://github.com/comethrusws) | Basab Jha | Bhaktapur, Nepal | 21,433 |
-| 3 | [cmthakur](https://github.com/cmthakur) | Chandra M. Thakur | Nepal | 17,310 |
-| 4 | [stayrahul](https://github.com/stayrahul) | Rahul Kushwaha | Kathmandu | 15,184 |
-| 5 | [Prabesh01](https://github.com/Prabesh01) | Prabesh Sapkota | Nepal | 13,034 |
-| 6 | [anamolsapkota](https://github.com/anamolsapkota) | Anamol Sapkota | Nepal | 13,026 |
-| 7 | [birajrai](https://github.com/birajrai) | Biraj Rai | Nepal | 12,650 |
-| 8 | [codersantoshadhikari](https://github.com/codersantoshadhikari) | SANTOSH ADHIKARI | kathmandu,Nepal | 12,170 |
-| 9 | [Avinash0x1](https://github.com/Avinash0x1) | Avinash Thakur | Nepal | 11,696 |
-| 10 | [madhav-acharya](https://github.com/madhav-acharya) | Madhav Acharya | Gothgaun, Nepal | 11,658 |
-| 11 | [manishsainju](https://github.com/manishsainju) | Ma Ni Sh | Nepal | 11,616 |
-| 12 | [winnee0solta](https://github.com/winnee0solta) | Kishor Shrestha (WINNEE) | Jayabageshowri,Kathmandu,Nepal. | 11,532 |
-| 13 | [bibek1414](https://github.com/bibek1414) | Bibek Bhattarai  |  New Baneshwor, Kathmandu, Nepal | 11,452 |
-| 14 | [utsabpanday](https://github.com/utsabpanday) | Utsab Panday | Kathmandu | 11,440 |
-| 15 | [kaanchan](https://github.com/kaanchan) | KA/SCA | Nepal | 10,737 |
-| 16 | [pramodlaha08](https://github.com/pramodlaha08) | Pramod Laha | Nepal | 10,247 |
-| 17 | [TheKAdhikari](https://github.com/TheKAdhikari) | Krishna Adhikari | Pokhara, Nepal | 10,230 |
-| 18 | [lohanidamodar](https://github.com/lohanidamodar) | Damodar Lohani | Kathmandu, Nepal | 9,901 |
-| 19 | [razzkumar](https://github.com/razzkumar) |  | Kathmandu, Nepal | 9,236 |
-| 20 | [Darkmintis](https://github.com/Darkmintis) | Dipesh Mahat | Nepal | 9,087 |
+| 3 | [Forgesaroj](https://github.com/Forgesaroj) | Saroj Rijal | Chitwan,Nepal | 19,372 |
+| 4 | [cmthakur](https://github.com/cmthakur) | Chandra M. Thakur | Nepal | 17,310 |
+| 5 | [stayrahul](https://github.com/stayrahul) | Rahul Kushwaha | Kathmandu | 15,184 |
+| 6 | [Prabesh01](https://github.com/Prabesh01) | Prabesh Sapkota | Nepal | 13,034 |
+| 7 | [anamolsapkota](https://github.com/anamolsapkota) | Anamol Sapkota | Nepal | 13,026 |
+| 8 | [birajrai](https://github.com/birajrai) | Biraj Rai | Nepal | 12,650 |
+| 9 | [codersantoshadhikari](https://github.com/codersantoshadhikari) | SANTOSH ADHIKARI | kathmandu,Nepal | 12,170 |
+| 10 | [Avinash0x1](https://github.com/Avinash0x1) | Avinash Thakur | Nepal | 11,696 |
+| 11 | [madhav-acharya](https://github.com/madhav-acharya) | Madhav Acharya | Gothgaun, Nepal | 11,658 |
+| 12 | [manishsainju](https://github.com/manishsainju) | Ma Ni Sh | Nepal | 11,616 |
+| 13 | [winnee0solta](https://github.com/winnee0solta) | Kishor Shrestha (WINNEE) | Jayabageshowri,Kathmandu,Nepal. | 11,532 |
+| 14 | [bibek1414](https://github.com/bibek1414) | Bibek Bhattarai  |  New Baneshwor, Kathmandu, Nepal | 11,452 |
+| 15 | [utsabpanday](https://github.com/utsabpanday) | Utsab Panday | Kathmandu | 11,440 |
+| 16 | [kaanchan](https://github.com/kaanchan) | KA/SCA | Nepal | 10,737 |
+| 17 | [pramodlaha08](https://github.com/pramodlaha08) | Pramod Laha | Nepal | 10,247 |
+| 18 | [TheKAdhikari](https://github.com/TheKAdhikari) | Krishna Adhikari | Pokhara, Nepal | 10,230 |
+| 19 | [lohanidamodar](https://github.com/lohanidamodar) | Damodar Lohani | Kathmandu, Nepal | 9,901 |
+| 20 | [razzkumar](https://github.com/razzkumar) |  | Kathmandu, Nepal | 9,236 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 14,118
 | 19 | [SajanGhimire1](https://github.com/SajanGhimire1) | Sajan Ghimire | Nepal | 755 |
 | 20 | [HeyIamMarasiniAmrit](https://github.com/HeyIamMarasiniAmrit) | Amrit Marasini | Kathmandu, Nepal | 747 |
 
-Generated: 2026-10-16T14:46:08.475Z
+Generated: 2026-10-16T16:12:02.553Z

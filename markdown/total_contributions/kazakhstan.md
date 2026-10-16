@@ -1,6 +1,6 @@
 # Total Contributions - Kazakhstan
 
-Generated: 2026-10-16T14:33:17.139Z
+Generated: 2026-10-16T15:59:43.999Z
 
 Users: 5644
 
@@ -8,7 +8,7 @@ Users: 5644
 |---:|---|---|---|---|---|---:|
 | 1 | [chelaxian](https://github.com/chelaxian) | ratu.sh |  |  | Kazakhstan | 126195 |
 | 2 | [rldyourmnd](https://github.com/rldyourmnd) | Danil Silantyev | @NDDev-it-com |  | Kazakhstan/World | 74329 |
-| 3 | [nstwfdev](https://github.com/nstwfdev) | Timur |  |  | Kazakhstan | 40433 |
+| 3 | [nstwfdev](https://github.com/nstwfdev) | Timur |  |  | Kazakhstan | 40407 |
 | 4 | [ZhymabekRoman](https://github.com/ZhymabekRoman) | Zhymabek Roman |  |  | Kazakhstan | 34165 |
 | 5 | [yrn-dev](https://github.com/yrn-dev) | Yernur | AI institute |  | Kazakhstan, Kyzylorda | 24758 |
 | 6 | [yasball](https://github.com/yasball) | Yesbol Sariyev |  |  | Atyrau, Kazakhstan | 15489 |

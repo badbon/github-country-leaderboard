@@ -1,6 +1,6 @@
 # Public Contributions - Luxembourg
 
-Generated: 2026-10-16T14:38:37.241Z
+Generated: 2026-10-16T16:02:39.375Z
 
 Users: 2188
 
@@ -19,9 +19,9 @@ Users: 2188
 | 11 | [nicolasguelfi](https://github.com/nicolasguelfi) | Nicolas Guelfi | Right-On-Skill |  | Esch-sur-Alzette, Luxembourg | 2220 |
 | 12 | [iglocska](https://github.com/iglocska) | Andras Iklody | CIRCL | iglocska | Luxembourg | 2164 |
 | 13 | [PhilippeChepy](https://github.com/PhilippeChepy) | Philippe Chepy | InnoSens | PhilippeChepy | Luxembourg | 2121 |
-| 14 | [righel](https://github.com/righel) | Luciano Righetti | CIRCL | righelx | Luxembourg | 1955 |
-| 15 | [barnumbirr](https://github.com/barnumbirr) | Martin Simon |  |  | Luxembourg | 1931 |
-| 16 | [danielesomensi-cmd](https://github.com/danielesomensi-cmd) | Daniele Somensi |  |  | Luxembourg | 1901 |
+| 14 | [danielesomensi-cmd](https://github.com/danielesomensi-cmd) | Daniele Somensi |  |  | Luxembourg | 1983 |
+| 15 | [righel](https://github.com/righel) | Luciano Righetti | CIRCL | righelx | Luxembourg | 1955 |
+| 16 | [barnumbirr](https://github.com/barnumbirr) | Martin Simon |  |  | Luxembourg | 1931 |
 | 17 | [fmind](https://github.com/fmind) | Médéric Hurier (Fmind) | Fmind.dev | fmind_dev | Luxembourg | 1861 |
 | 18 | [mike-ionut-mihai-sandu-tao](https://github.com/mike-ionut-mihai-sandu-tao) | Ionut Mihai Sandu | TAO |  | Luxembourg | 1861 |
 | 19 | [lorem-dev](https://github.com/lorem-dev) | Lorem Dev |  |  | Luxembourg | 1749 |

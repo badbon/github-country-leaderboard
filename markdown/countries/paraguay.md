@@ -42,7 +42,7 @@ Indexed users: 2,013
 | 3 | [kiquetal](https://github.com/kiquetal) | Enrique\m/Talavera | Paraguay | 3,419 |
 | 4 | [eeeds](https://github.com/eeeds) | Esteban Encina | Paraguay | 3,104 |
 | 5 | [skyvanguard](https://github.com/skyvanguard) |  | Paraguay | 2,364 |
-| 6 | [esteban-vm](https://github.com/esteban-vm) | Esteban V.M. | Asunción, Paraguay | 2,357 |
+| 6 | [esteban-vm](https://github.com/esteban-vm) | Esteban V.M. | Asunción, Paraguay | 2,335 |
 | 7 | [DaltonP93](https://github.com/DaltonP93) | Dalton Perez | Paraguay | 1,870 |
 | 8 | [zot24](https://github.com/zot24) |  | Asuncion, Paraguay | 1,670 |
 | 9 | [stevenayal](https://github.com/stevenayal) | Steven Ayala | Asunción, Paraguay | 1,653 |
@@ -83,4 +83,4 @@ Indexed users: 2,013
 | 19 | [metakeule](https://github.com/metakeule) | metakeule | Asunción / Paraguay | 109 |
 | 20 | [replay](https://github.com/replay) | Mauro Stettler | Asuncion, Paraguay | 105 |
 
-Generated: 2026-10-16T14:52:19.604Z
+Generated: 2026-10-16T16:17:43.590Z

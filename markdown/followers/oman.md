@@ -1,6 +1,6 @@
 # Followers - Oman
 
-Generated: 2026-10-16T14:49:54.815Z
+Generated: 2026-10-16T16:14:45.841Z
 
 Users: 991
 
@@ -8,7 +8,7 @@ Users: 991
 |---:|---|---|---|---|---|---:|
 | 1 | [pylover](https://github.com/pylover) | Vahid |  |  | Muscat, Oman | 424 |
 | 2 | [salim3dd](https://github.com/salim3dd) | Salim3dd | 3DDesignLLC |  | Sultanate Of Oman | 284 |
-| 3 | [uiamirali](https://github.com/uiamirali) | Amirali Jalalvand |  |  | Muscat, Oman | 248 |
+| 3 | [uiamirali](https://github.com/uiamirali) | Amirali Jalalvand |  |  | Muscat, Oman | 257 |
 | 4 | [habibalmawali](https://github.com/habibalmawali) | Habib AlMawali | @thedevclass  | thedevclass | Oman | 227 |
 | 5 | [ahmedtechm](https://github.com/ahmedtechm) | Ahmed ALAbri | Tech Mahindra | ahmedtechm | Muscat, Oman | 201 |
 | 6 | [AhmedBafkir](https://github.com/AhmedBafkir) | AhmedBafkir |  | Peaceful_0 | Oman | 194 |

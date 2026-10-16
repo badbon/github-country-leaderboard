@@ -29,7 +29,7 @@ Indexed users: 1,225
 | 15 | [iko2000](https://github.com/iko2000) | Iviko Shengelia | Malta | 7,327 |
 | 16 | [KimSpecht](https://github.com/KimSpecht) | Kim Pedersen | Malta | 7,238 |
 | 17 | [ksazid](https://github.com/ksazid) | Sazid | Malta | 6,244 |
-| 18 | [mzaharenkov](https://github.com/mzaharenkov) | Mikhail Zakharenkov | Malta | 5,652 |
+| 18 | [mzaharenkov](https://github.com/mzaharenkov) | Mikhail Zakharenkov | Malta | 5,805 |
 | 19 | [seanellul](https://github.com/seanellul) | Sean Ellul | Malta | 5,628 |
 | 20 | [kevinfarrugia](https://github.com/kevinfarrugia) | Kevin Farrugia | Malta | 5,544 |
 
@@ -83,4 +83,4 @@ Indexed users: 1,225
 | 19 | [mattcg](https://github.com/mattcg) | Matthew Caruana Galizia | Malta | 126 |
 | 20 | [CM2Walki](https://github.com/CM2Walki) | Walki | Malta | 118 |
 
-Generated: 2026-10-16T14:40:41.916Z
+Generated: 2026-10-16T16:05:53.890Z
