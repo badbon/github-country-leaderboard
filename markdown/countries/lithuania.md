@@ -1,6 +1,6 @@
 # Lithuania
 
-Indexed users: 5,378
+Indexed users: 5,376
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 5,378
 | 19 | [ErikasRamaneckas](https://github.com/ErikasRamaneckas) | Erikas Ramaneckas | Vilnius, Lithuania | 197 |
 | 20 | [Miceuz](https://github.com/Miceuz) | Albertas Mickėnas | Vilnius, Lithuania | 190 |
 
-Generated: 2026-10-16T16:02:33.856Z
+Generated: 2026-10-16T18:28:01.048Z

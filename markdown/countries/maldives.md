@@ -25,13 +25,13 @@ Indexed users: 354
 | 11 | [agent306](https://github.com/agent306) | Ncodex | Male', Maldives | 5,189 |
 | 12 | [maldivien](https://github.com/maldivien) | Ahmed Shareef | Maldives | 5,018 |
 | 13 | [jaaahh](https://github.com/jaaahh) | Jaah | Maldives | 4,951 |
-| 14 | [ayarse](https://github.com/ayarse) | ayaz | Maldives | 4,832 |
-| 15 | [roris](https://github.com/roris) | Thoail Ahmed | Maldives | 4,821 |
-| 16 | [NeXsHeLL](https://github.com/NeXsHeLL) | ismile ThuThts | Maldives | 4,816 |
-| 17 | [muizzu](https://github.com/muizzu) | Muizzu Abbas | Maldives | 4,665 |
-| 18 | [samynmhd](https://github.com/samynmhd) | Mohamed Sameen Firaq | Maldives | 4,152 |
-| 19 | [whosaynow](https://github.com/whosaynow) | whosaynow | Maldives | 4,025 |
-| 20 | [ismailshuaau](https://github.com/ismailshuaau) | Ismail Shuaau | Male', Maldives | 3,966 |
+| 14 | [N4ZEN](https://github.com/N4ZEN) | Naza | Maldives | 4,932 |
+| 15 | [ayarse](https://github.com/ayarse) | ayaz | Maldives | 4,832 |
+| 16 | [roris](https://github.com/roris) | Thoail Ahmed | Maldives | 4,821 |
+| 17 | [NeXsHeLL](https://github.com/NeXsHeLL) | ismile ThuThts | Maldives | 4,816 |
+| 18 | [muizzu](https://github.com/muizzu) | Muizzu Abbas | Maldives | 4,665 |
+| 19 | [samynmhd](https://github.com/samynmhd) | Mohamed Sameen Firaq | Maldives | 4,152 |
+| 20 | [whosaynow](https://github.com/whosaynow) | whosaynow | Maldives | 4,025 |
 
 ## Public Contributions
 
@@ -43,7 +43,7 @@ Indexed users: 354
 | 4 | [72sevenzy2](https://github.com/72sevenzy2) | 72 | malé, maldives  | 1,295 |
 | 5 | [mnazaal](https://github.com/mnazaal) | Nazaal | Maldives | 1,223 |
 | 6 | [MohammedAliSharafuddin](https://github.com/MohammedAliSharafuddin) | Mohammed Ali Sharafuddin | Malé, Maldives | 979 |
-| 7 | [Usagi5677](https://github.com/Usagi5677) | Naish | Maldives | 941 |
+| 7 | [Usagi5677](https://github.com/Usagi5677) | Naish | Maldives | 942 |
 | 8 | [ayarse](https://github.com/ayarse) | ayaz | Maldives | 724 |
 | 9 | [crockalet](https://github.com/crockalet) |  | Maldives | 680 |
 | 10 | [fallenbagel](https://github.com/fallenbagel) |  | Maldives | 639 |
@@ -83,4 +83,4 @@ Indexed users: 354
 | 19 | [muhannad0](https://github.com/muhannad0) | Monde | Maldives | 41 |
 | 20 | [xahiru](https://github.com/xahiru) | Ahmed Zahir | Maldives | 41 |
 
-Generated: 2026-10-16T16:05:17.283Z
+Generated: 2026-10-16T18:31:45.396Z

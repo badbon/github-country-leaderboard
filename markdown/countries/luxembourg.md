@@ -14,9 +14,9 @@ Indexed users: 2,188
 |---:|---|---|---|---:|
 | 1 | [libertjeremy](https://github.com/libertjeremy) | Jérémy | Luxembourg | 35,673 |
 | 2 | [kidiatoliny](https://github.com/kidiatoliny) | kidiatoliny | 23 Rue Théodore Gillen 1625 Howald Luxembourg | 24,832 |
-| 3 | [gillesheinesch](https://github.com/gillesheinesch) | Gilles Heinesch | Luxembourg | 16,492 |
-| 4 | [fxmartin](https://github.com/fxmartin) | François-Xavier Martin | Luxembourg | 16,359 |
-| 5 | [FlorentNodz](https://github.com/FlorentNodz) | Florent | Luxembourg | 16,355 |
+| 3 | [FlorentNodz](https://github.com/FlorentNodz) | Florent | Luxembourg | 16,702 |
+| 4 | [gillesheinesch](https://github.com/gillesheinesch) | Gilles Heinesch | Luxembourg | 16,492 |
+| 5 | [fxmartin](https://github.com/fxmartin) | François-Xavier Martin | Luxembourg | 16,359 |
 | 6 | [leobenkel](https://github.com/leobenkel) | Leo Benkel | Luxembourg | 14,135 |
 | 7 | [JonBasse](https://github.com/JonBasse) | Jonathan Basse | Luxembourg | 12,457 |
 | 8 | [assaad](https://github.com/assaad) | Assaad Moawad | Luxembourg | 12,187 |
@@ -83,4 +83,4 @@ Indexed users: 2,188
 | 19 | [l4rz](https://github.com/l4rz) | Mike K. | Luxembourg | 197 |
 | 20 | [urosolia](https://github.com/urosolia) | Ugo Rosolia | Luxembourg, Lux | 192 |
 
-Generated: 2026-10-16T16:02:39.375Z
+Generated: 2026-10-16T18:28:39.375Z

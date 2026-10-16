@@ -45,7 +45,7 @@ Indexed users: 348
 | 6 | [Abbv75](https://github.com/Abbv75) | Younouss Boré  | Bamako, telecel GBS | 566 |
 | 7 | [LeoAz](https://github.com/LeoAz) | Lionel AZ | Bamako | 383 |
 | 8 | [tijjanismk](https://github.com/tijjanismk) |  | Mali | 376 |
-| 9 | [skypper109](https://github.com/skypper109) | SKYPPER | Mali | 370 |
+| 9 | [skypper109](https://github.com/skypper109) | SKYPPER | Mali | 369 |
 | 10 | [Abdoul03](https://github.com/Abdoul03) | Abdoul Ibrahima Samaké | Bamako | 363 |
 | 11 | [THIOYE97](https://github.com/THIOYE97) | THIOYE MARIKO | Bamako , Mali 🇲🇱  | 360 |
 | 12 | [malladev](https://github.com/malladev) | Mohamed Lamine KONE | Bamako - MALI | 301 |
@@ -83,4 +83,4 @@ Indexed users: 348
 | 19 | [AlyKonte](https://github.com/AlyKonte) |  | Mali/Bamako | 27 |
 | 20 | [Dioman-Keita](https://github.com/Dioman-Keita) | Dioman Keïta | Bamako/Mali | 26 |
 
-Generated: 2026-10-16T16:05:28.601Z
+Generated: 2026-10-16T18:31:47.483Z

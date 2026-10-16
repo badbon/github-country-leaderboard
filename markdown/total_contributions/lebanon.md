@@ -1,6 +1,6 @@
 # Total Contributions - Lebanon
 
-Generated: 2026-10-16T16:01:56.607Z
+Generated: 2026-10-16T18:25:42.476Z
 
 Users: 2562
 
@@ -19,10 +19,10 @@ Users: 2562
 | 11 | [osmankh](https://github.com/osmankh) | Osman Taha | @uscoalitiononsustainability  |  | Zgharta District, North Governorate, Lebanon | 8102 |
 | 12 | [mustafahalabi](https://github.com/mustafahalabi) | Mustafa Halabi | @Meritt-dev  |  | Lebanon | 8068 |
 | 13 | [mhdbouk](https://github.com/mhdbouk) | Mohamad Dbouk |  | mhdbouk | Beirut, Lebanon | 7264 |
-| 14 | [MohammadKanaan](https://github.com/MohammadKanaan) | Mohammad Kanaan |  |  | Lebanon | 6600 |
-| 15 | [mincer-fundbot](https://github.com/mincer-fundbot) | Mincer Alaeddine | Fundbot |  | Beirut | 6452 |
-| 16 | [SyntaxError843](https://github.com/SyntaxError843) |  | @ucheed  |  | Lebanon, Beirut | 6431 |
-| 17 | [MrPancakes39](https://github.com/MrPancakes39) | Sal Hasan |  |  | Aley, Lebanon | 6170 |
-| 18 | [shahednasser](https://github.com/shahednasser) | Shahed Nasser | @medusajs | _shahednasser | Aaramoun, Lebanon | 5981 |
-| 19 | [MohamadMoheb](https://github.com/MohamadMoheb) | Mohamad Moheb | Personal |  | Rmeileh, Lebanon | 5892 |
-| 20 | [Kaakati](https://github.com/Kaakati) | Mohamad Kaakati | @manifest @barqfleet @thaat | kaakati | Beirut, Lebanon | 5864 |
+| 14 | [bwmhamad](https://github.com/bwmhamad) | Moe Saad |  |  | Beirut - Lebanon | 6851 |
+| 15 | [MohammadKanaan](https://github.com/MohammadKanaan) | Mohammad Kanaan |  |  | Lebanon | 6600 |
+| 16 | [mincer-fundbot](https://github.com/mincer-fundbot) | Mincer Alaeddine | Fundbot |  | Beirut | 6452 |
+| 17 | [SyntaxError843](https://github.com/SyntaxError843) |  | @ucheed  |  | Lebanon, Beirut | 6431 |
+| 18 | [MrPancakes39](https://github.com/MrPancakes39) | Sal Hasan |  |  | Aley, Lebanon | 6170 |
+| 19 | [shahednasser](https://github.com/shahednasser) | Shahed Nasser | @medusajs | _shahednasser | Aaramoun, Lebanon | 5981 |
+| 20 | [MohamadMoheb](https://github.com/MohamadMoheb) | Mohamad Moheb | Personal |  | Rmeileh, Lebanon | 5892 |

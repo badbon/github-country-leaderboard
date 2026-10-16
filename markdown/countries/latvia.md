@@ -15,7 +15,7 @@ Indexed users: 3,257
 | 1 | [k0d3r1s](https://github.com/k0d3r1s) | Dāvis Zālītis | Rīga, Latvia | 29,848 |
 | 2 | [tcivie](https://github.com/tcivie) | Gleb Tcivie | Latvia | 22,250 |
 | 3 | [kosovojs](https://github.com/kosovojs) | Edgars Košovojs | Riga, Latvia | 21,968 |
-| 4 | [JPurinsh](https://github.com/JPurinsh) | Jānis Puriņš-Biezais | Riga, Latvia | 17,316 |
+| 4 | [JPurinsh](https://github.com/JPurinsh) | Jānis Puriņš-Biezais | Riga, Latvia | 18,584 |
 | 5 | [Naurislv](https://github.com/Naurislv) | Nauris Dorbe | Riga, Latvia | 16,647 |
 | 6 | [ErneG](https://github.com/ErneG) | Ernests Dane | Latvia | 14,918 |
 | 7 | [raimonade](https://github.com/raimonade) | Raimonds Korzenevskis | Riga, Latvia | 14,135 |
@@ -83,4 +83,4 @@ Indexed users: 3,257
 | 19 | [ruslanskorb](https://github.com/ruslanskorb) | Ruslan Skorb | Riga, Latvia | 226 |
 | 20 | [0ki](https://github.com/0ki) | Кirils Sоlovjоvs | Latvia | 225 |
 
-Generated: 2026-10-16T16:01:51.271Z
+Generated: 2026-10-16T18:24:36.425Z

@@ -56,7 +56,7 @@ Indexed users: 2,445
 | 17 | [asannov](https://github.com/asannov) | Damir | Bishkek, Kyrgyz Republic | 991 |
 | 18 | [dioritdev](https://github.com/dioritdev) | DIOR | Kyrgyzstan/Osh | 978 |
 | 19 | [er-Bilim](https://github.com/er-Bilim) | notesoat | Bishkek, Kyrgyzstan | 964 |
-| 20 | [salievyt](https://github.com/salievyt) | sm1le | Kyrgyzstan | 887 |
+| 20 | [daniyarchambylov](https://github.com/daniyarchambylov) | Daniyar Chambylov | Bishkek, Kyrgyzstan | 947 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 2,445
 | 19 | [Elkhan2003](https://github.com/Elkhan2003) | Elkhan Sharshenbekov | Karakol, Kyrgyzstan | 103 |
 | 20 | [eszdman](https://github.com/eszdman) |  | Kyrgyzstan | 103 |
 
-Generated: 2026-10-16T16:01:01.427Z
+Generated: 2026-10-16T18:23:24.344Z

@@ -1,6 +1,6 @@
 # Public Contributions - Qatar
 
-Generated: 2026-10-16T16:19:38.944Z
+Generated: 2026-10-16T18:44:52.639Z
 
 Users: 1073
 
@@ -23,6 +23,6 @@ Users: 1073
 | 15 | [shafiiiq](https://github.com/shafiiiq) | Muhammed Shafeek | Al Ansari |  | Qatar | 896 |
 | 16 | [syedahmedkhaderi](https://github.com/syedahmedkhaderi) | Syed Ahmed |  |  | Doha | 864 |
 | 17 | [Ozhana](https://github.com/Ozhana) | Ozhan Akdag |  |  | Doha / Qatar | 792 |
-| 18 | [prajwal918](https://github.com/prajwal918) | prajwaljogi_ | https://github.com/prajwal918/ |  | qatar doha | 744 |
-| 19 | [Melikash98](https://github.com/Melikash98) | Melika Shooryabi |  |  | Qatar | 737 |
+| 18 | [Melikash98](https://github.com/Melikash98) | Melika Shooryabi |  |  | Qatar | 737 |
+| 19 | [prajwal918](https://github.com/prajwal918) | prajwaljogi_ | https://github.com/prajwal918/ |  | qatar doha | 734 |
 | 20 | [Thilsan-Abuissa](https://github.com/Thilsan-Abuissa) | Ahamed Thilsan Ismalebbe |  |  | Doha, Qatar | 734 |

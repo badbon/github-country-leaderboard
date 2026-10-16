@@ -1,6 +1,6 @@
 # Total Contributions - Liberia
 
-Generated: 2026-10-16T16:02:22.982Z
+Generated: 2026-10-16T18:26:50.824Z
 
 Users: 210
 
@@ -24,5 +24,5 @@ Users: 210
 | 16 | [daddysboy21](https://github.com/daddysboy21) | daddysboy.21 | LoneScore | daddys_boy_21 | Monrovia, Liberia | 817 |
 | 17 | [jdaltonll02](https://github.com/jdaltonll02) | John Dalton Gibson | Vendorad |  | Liberia | 762 |
 | 18 | [efmomoh](https://github.com/efmomoh) | ENSSAH FAYIA MOMOH | FRONT-END DEVELOPER | efmomoh | Monrovia, Liberia | 719 |
-| 19 | [Prodigy-J](https://github.com/Prodigy-J) | Jerome N Tokpa |  | knasumo | Monrovia, Liberia | 629 |
-| 20 | [xarrijorge](https://github.com/xarrijorge) | The African Nomad |  | xarrijorge | Monrovia, Liberia | 628 |
+| 19 | [davewonnah](https://github.com/davewonnah) | Dave Wonnah | Smart Liberia |  | Monrovia, Liberia | 630 |
+| 20 | [Prodigy-J](https://github.com/Prodigy-J) | Jerome N Tokpa |  | knasumo | Monrovia, Liberia | 629 |
