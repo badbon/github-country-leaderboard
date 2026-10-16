@@ -20,7 +20,7 @@ Indexed users: 443
 | 6 | [bnjox](https://github.com/bnjox) | Ben | Sierra Leone | 3,695 |
 | 7 | [eponkratova](https://github.com/eponkratova) | Eka Ponkratova | Sierra Leone | 3,587 |
 | 8 | [BarrieLAJ](https://github.com/BarrieLAJ) | Alhaji Abubakarr Barrie | Freetown, Sierra Leone | 3,493 |
-| 9 | [EmmanuelKeifala](https://github.com/EmmanuelKeifala) | Emmanuel Keifala | Freetown, Sierra Leone	 | 3,345 |
+| 9 | [EmmanuelKeifala](https://github.com/EmmanuelKeifala) | Emmanuel Keifala | Freetown, Sierra Leone	 | 3,337 |
 | 10 | [TheLoneWulf-WA](https://github.com/TheLoneWulf-WA) | Theodore Rogers | Freetown, Sierra Leone | 2,500 |
 | 11 | [dominicOT](https://github.com/dominicOT) | Dominic Oladapo-Tonade | Sierra Leone | 2,479 |
 | 12 | [Mmah-Zombo](https://github.com/Mmah-Zombo) | M'mah Zombo | Wilberforce, Freetown. | 2,236 |
@@ -48,7 +48,7 @@ Indexed users: 443
 | 9 | [adewoleeugene](https://github.com/adewoleeugene) | Jinjon | Freetown,Sierra Leone | 786 |
 | 10 | [fatormajohn64-bit](https://github.com/fatormajohn64-bit) | Johnny-Tech  | Freetown Sierra Leone  | 769 |
 | 11 | [Malaikamadi](https://github.com/Malaikamadi) | Malaika~madi | Freetown, Sierra Leone | 525 |
-| 12 | [EmmanuelKeifala](https://github.com/EmmanuelKeifala) | Emmanuel Keifala | Freetown, Sierra Leone	 | 495 |
+| 12 | [EmmanuelKeifala](https://github.com/EmmanuelKeifala) | Emmanuel Keifala | Freetown, Sierra Leone	 | 492 |
 | 13 | [joemrnice](https://github.com/joemrnice) | Joseph Lahai Kanu | Freetown, Sierra Leone. | 417 |
 | 14 | [Barrie20](https://github.com/Barrie20) | Alpha Yerroh Barrie | Sierra Leone , West Africa | 379 |
 | 15 | [IshmaelKargbo](https://github.com/IshmaelKargbo) | Ishmael Kargbo | Sierra Leone | 371 |
@@ -83,4 +83,4 @@ Indexed users: 443
 | 19 | [IshmaelKargbo](https://github.com/IshmaelKargbo) | Ishmael Kargbo | Sierra Leone | 29 |
 | 20 | [Ifuhad622](https://github.com/Ifuhad622) | Ibraihim Fuhad Suma | Freetown, Sierra Leone, West Africa | 26 |
 
-Generated: 2026-10-16T03:14:10.044Z
+Generated: 2026-10-16T06:21:01.135Z
