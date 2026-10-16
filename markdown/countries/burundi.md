@@ -16,7 +16,7 @@ Indexed users: 235
 | 2 | [mugar](https://github.com/mugar) | mugabo armand | Burundi | 4,661 |
 | 3 | [muco-rolle](https://github.com/muco-rolle) | Trésor Muco | Bujumbura, Burundi | 2,626 |
 | 4 | [INGANZAMARUMPU](https://github.com/INGANZAMARUMPU) | NKURUNZIZA | Bujumbura, Burundi | 2,478 |
-| 5 | [klauskira07](https://github.com/klauskira07) | Klaus KIRA | Burundi | 2,122 |
+| 5 | [klauskira07](https://github.com/klauskira07) | Klaus KIRA | Burundi | 2,129 |
 | 6 | [yvartpro](https://github.com/yvartpro) | Nshemezimana Yves | Bujumbura,Burundi | 1,651 |
 | 7 | [gatarelib](https://github.com/gatarelib) | Gatare Libère | Burundi | 1,547 |
 | 8 | [kalculata](https://github.com/kalculata) | Huzaifa Nimushimirimana | Bujumbura, Burundi | 1,512 |
@@ -26,7 +26,7 @@ Indexed users: 235
 | 12 | [allyelvis](https://github.com/allyelvis) | Ally Elvis Nzeyimana | Burundi | 1,252 |
 | 13 | [XPTOOLS](https://github.com/XPTOOLS) | XP TOOLS | Burundi | 1,108 |
 | 14 | [b3rking](https://github.com/b3rking) | ISHIMWE Eschyle Bersy | Burundi | 1,027 |
-| 15 | [Janeirohurley](https://github.com/Janeirohurley) | Janeiro hurley | Burundi | 1,010 |
+| 15 | [Janeirohurley](https://github.com/Janeirohurley) | Janeiro hurley | Burundi | 1,007 |
 | 16 | [arsou2015](https://github.com/arsou2015) | Arsene Nduwayo | Burundi | 982 |
 | 17 | [Evran0](https://github.com/Evran0) | Eddy Poli | Bujumbura,  Burundi | 953 |
 | 18 | [kidasijunior10](https://github.com/kidasijunior10) | Joachim KIDASI | Bujumbura, Burundi | 921 |
@@ -83,4 +83,4 @@ Indexed users: 235
 | 19 | [arsou2015](https://github.com/arsou2015) | Arsene Nduwayo | Burundi | 35 |
 | 20 | [tertcoder](https://github.com/tertcoder) | Bon Tertius Tuyishimire  | Bujumbura, Burundi | 35 |
 
-Generated: 2026-10-16T19:23:14.392Z
+Generated: 2026-10-16T20:49:13.387Z

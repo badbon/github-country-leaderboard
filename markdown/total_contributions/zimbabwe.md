@@ -1,6 +1,6 @@
 # Total Contributions - Zimbabwe
 
-Generated: 2026-10-16T20:15:46.038Z
+Generated: 2026-10-16T20:36:41.505Z
 
 Users: 1656
 
@@ -20,9 +20,9 @@ Users: 1656
 | 12 | [josemukorivo](https://github.com/josemukorivo) | Joseph Mukorivo | Complexus Technologies | josemukorivo | Harare, Zimbabwe | 6400 |
 | 13 | [morebnyemba](https://github.com/morebnyemba) | Moreblessing Nyemba | Slyker Tech Web Services |  | Zimbabwe | 6315 |
 | 14 | [tkmawarire](https://github.com/tkmawarire) | #SpecialForces |  |  | Harare, Zimbabwe | 5953 |
-| 15 | [Tadiwr](https://github.com/Tadiwr) | Tadiwanashe Shangwa | @codaptdev | tadiwrr | Zimbabwe | 5825 |
+| 15 | [Tadiwr](https://github.com/Tadiwr) | Tadiwanashe Shangwa | @codaptdev | tadiwrr | Zimbabwe | 5768 |
 | 16 | [PraiseTechzw](https://github.com/PraiseTechzw) | Praise Masunga | Founder @ Campus Market | praisetech_zw | Chinhoyi, Zimbabwe | 5703 |
 | 17 | [xeroxzen](https://github.com/xeroxzen) | Andile Jaden Mbele | Vectra Dynamics, Optimeer Labs, Emzini weCode, ZimWorx | andilejaden | Zimbabwe | 5428 |
-| 18 | [mosesmarimo](https://github.com/mosesmarimo) | Moses Marimo | @ihubcloud  | MosesMarimo | Harare, Zimbabwe | 5360 |
-| 19 | [emarss](https://github.com/emarss) | Rufaro Sithole | Eyetro Digital | emarss04 | Harare, Zimbabwe | 5105 |
-| 20 | [chiroro-jr](https://github.com/chiroro-jr) | Nyasha Chiroro |  | chiroro_jr | Harare, Zimbabwe | 5086 |
+| 18 | [chiroro-jr](https://github.com/chiroro-jr) | Nyasha Chiroro |  | chiroro_jr | Harare, Zimbabwe | 5413 |
+| 19 | [mosesmarimo](https://github.com/mosesmarimo) | Moses Marimo | @ihubcloud  | MosesMarimo | Harare, Zimbabwe | 5360 |
+| 20 | [emarss](https://github.com/emarss) | Rufaro Sithole | Eyetro Digital | emarss04 | Harare, Zimbabwe | 5105 |

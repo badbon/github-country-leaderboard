@@ -1,6 +1,6 @@
 # Total Contributions - Gibraltar
 
-Generated: 2026-10-16T19:38:13.186Z
+Generated: 2026-10-16T21:04:05.393Z
 
 Users: 93
 
@@ -19,7 +19,7 @@ Users: 93
 | 11 | [ronanmathew](https://github.com/ronanmathew) | Ronan Spoor |  |  | Gibraltar | 637 |
 | 12 | [mortyflex](https://github.com/mortyflex) | Mohamed A | Dether |  | Gibraltar | 621 |
 | 13 | [SGarcia96](https://github.com/SGarcia96) | SGarcia |  |  | Spain/Gibraltar | 598 |
-| 14 | [ajedrezpremium](https://github.com/ajedrezpremium) | Ajedrez Premium | AJEDREZ PREMIUM |  | GIBRALTAR | 538 |
+| 14 | [ajedrezpremium](https://github.com/ajedrezpremium) | Ajedrez Premium | AJEDREZ PREMIUM |  | GIBRALTAR | 544 |
 | 15 | [Vinnetou](https://github.com/Vinnetou) | Lukas Kloucek |  |  | Gibraltar | 521 |
 | 16 | [PeterKottas](https://github.com/PeterKottas) | Peter Kottas | @guestbell  |  | Gibraltar | 464 |
 | 17 | [cdharris](https://github.com/cdharris) | Chris Harris |  | hellokozmo | Berlin / Europe / Gibraltar | 411 |

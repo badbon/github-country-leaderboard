@@ -1,6 +1,6 @@
 # Public Contributions - South Africa
 
-Generated: 2026-10-16T18:57:00.115Z
+Generated: 2026-10-16T20:23:39.246Z
 
 Users: 17931
 
@@ -14,15 +14,15 @@ Users: 17931
 | 6 | [snopoke](https://github.com/snopoke) | Simon Kelly | @dimagi | snopoke | Cape Town | 8924 |
 | 7 | [APGI-cmy](https://github.com/APGI-cmy) | Johan Ras |  |  | South Africa | 7833 |
 | 8 | [govert](https://github.com/govert) | Govert van Drimmelen | Excel-DNA |  | Johannesburg, South Africa | 5771 |
-| 9 | [nyashahama](https://github.com/nyashahama) | Nyasha Hama |  |  | South Africa | 5446 |
-| 10 | [MiguelRodo](https://github.com/MiguelRodo) | Miguel Rodo | @SATVILab  |  | Cape Town, South Africa | 5173 |
-| 11 | [datashaman](https://github.com/datashaman) | datashaman | datashaman |  | Cape Town, South Africa | 5144 |
-| 12 | [rakheen-dama](https://github.com/rakheen-dama) | Rakheen Dama | BinaryMaSH | RakheenD | Cape Town, South Africa | 5110 |
-| 13 | [indium114](https://github.com/indium114) |  |  |  | South Africa | 5103 |
-| 14 | [RobynAwesome](https://github.com/RobynAwesome) | Kholofelo Robyn Rababalela | Kopano Labs (Pty) Ltd |  | Cape Town, South Africa | 5063 |
-| 15 | [johanpiet2](https://github.com/johanpiet2) | Johan Pieterse | Plain Sailing Information Systems |  | Pretoria South Africa | 4779 |
-| 16 | [peterp](https://github.com/peterp) | Peter Pistorius | @redwoodjs | appfactory | South Africa | 4520 |
-| 17 | [wkirschbaum](https://github.com/wkirschbaum) | Wilhelm Kirschbaum | Floatpays |  | Cape Town, South Africa | 4494 |
-| 18 | [ashleyshaw](https://github.com/ashleyshaw) | Ash Shaw | @lightspeedwp  | lightspeedwp | Cape Town, South Africa | 4333 |
-| 19 | [Raphasha27](https://github.com/Raphasha27) | Koketso Raphasha | Kirov Dynamics Technology |  | Johannesburg, South Africa | 4247 |
-| 20 | [GedMarc](https://github.com/GedMarc) | Marc Magon |  |  | Johannesburg, South Africa | 4187 |
+| 9 | [burnt-exe](https://github.com/burnt-exe) | Raydo M | SKUNKWORKS | skunkworksza | South Africa | 5631 |
+| 10 | [nyashahama](https://github.com/nyashahama) | Nyasha Hama |  |  | South Africa | 5446 |
+| 11 | [MiguelRodo](https://github.com/MiguelRodo) | Miguel Rodo | @SATVILab  |  | Cape Town, South Africa | 5173 |
+| 12 | [datashaman](https://github.com/datashaman) | datashaman | datashaman |  | Cape Town, South Africa | 5144 |
+| 13 | [rakheen-dama](https://github.com/rakheen-dama) | Rakheen Dama | BinaryMaSH | RakheenD | Cape Town, South Africa | 5110 |
+| 14 | [indium114](https://github.com/indium114) |  |  |  | South Africa | 5103 |
+| 15 | [RobynAwesome](https://github.com/RobynAwesome) | Kholofelo Robyn Rababalela | Kopano Labs (Pty) Ltd |  | Cape Town, South Africa | 5063 |
+| 16 | [johanpiet2](https://github.com/johanpiet2) | Johan Pieterse | Plain Sailing Information Systems |  | Pretoria South Africa | 4779 |
+| 17 | [peterp](https://github.com/peterp) | Peter Pistorius | @redwoodjs | appfactory | South Africa | 4520 |
+| 18 | [wkirschbaum](https://github.com/wkirschbaum) | Wilhelm Kirschbaum | Floatpays |  | Cape Town, South Africa | 4494 |
+| 19 | [ashleyshaw](https://github.com/ashleyshaw) | Ash Shaw | @lightspeedwp  | lightspeedwp | Cape Town, South Africa | 4333 |
+| 20 | [Raphasha27](https://github.com/Raphasha27) | Koketso Raphasha | Kirov Dynamics Technology |  | Johannesburg, South Africa | 4247 |

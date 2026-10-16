@@ -21,7 +21,7 @@ Indexed users: 236
 | 7 | [janajmccardy](https://github.com/janajmccardy) | Jana JM | Nassau, The Bahamas | 1,814 |
 | 8 | [TajhSeymour](https://github.com/TajhSeymour) | Tajh Seymour | New Providence, Bahamas | 1,464 |
 | 9 | [justnardo](https://github.com/justnardo) | Just_Nardo | Bahamas | 1,400 |
-| 10 | [jsphpndr](https://github.com/jsphpndr) | Joseph Pinder | Bahamas | 1,220 |
+| 10 | [jsphpndr](https://github.com/jsphpndr) | Joseph Pinder | Bahamas | 1,219 |
 | 11 | [TRL242](https://github.com/TRL242) | Roy Lockhart | Victoria, BC and Freeport, Bahamas | 1,110 |
 | 12 | [Tec4Sho](https://github.com/Tec4Sho) | Ziona | Nassau, Bahamas  | 890 |
 | 13 | [Johndiddles](https://github.com/Johndiddles) | Johndiddles | Nassau, Bahamas | 819 |
@@ -83,4 +83,4 @@ Indexed users: 236
 | 19 | [paulcitarella](https://github.com/paulcitarella) | Paul Citarella | George Town, Bahamas | 15 |
 | 20 | [yemix](https://github.com/yemix) |  | Bahamas | 14 |
 
-Generated: 2026-10-16T19:15:40.806Z
+Generated: 2026-10-16T20:42:33.861Z

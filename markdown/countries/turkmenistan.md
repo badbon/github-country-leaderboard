@@ -40,7 +40,7 @@ Indexed users: 501
 | 1 | [Kemalstudio](https://github.com/Kemalstudio) | Kemal Atayev | Turkmenistan / Ashgabat | 16,387 |
 | 2 | [realmeylisdev](https://github.com/realmeylisdev) | Meylis | Ashgabat, Turkmenistan | 4,512 |
 | 3 | [TheSeydiCharyyev](https://github.com/TheSeydiCharyyev) | Seydi Charyyev | Mary city, Turkmenistan | 2,053 |
-| 4 | [Nurik9292](https://github.com/Nurik9292) | Timur | Turkmenistan | 1,733 |
+| 4 | [Nurik9292](https://github.com/Nurik9292) | Timur | Turkmenistan | 1,728 |
 | 5 | [Jasurbek99](https://github.com/Jasurbek99) | Jasurbek Ashyrbayev | Turkmenistan, Ashgabat | 1,634 |
 | 6 | [ez1z](https://github.com/ez1z) | Eziz Agamyradov | Turkmenabat, Turkmenistan | 1,025 |
 | 7 | [vbauerster](https://github.com/vbauerster) | Vladimir Bauer | Turkmenistan | 802 |
@@ -83,4 +83,4 @@ Indexed users: 501
 | 19 | [MerlinEmris](https://github.com/MerlinEmris) | Merdan Chariyarov | Ashgabat | 65 |
 | 20 | [atageldi194229](https://github.com/atageldi194229) | Atageldi | Ashgabat, Turkmenistan | 64 |
 
-Generated: 2026-10-16T19:03:41.573Z
+Generated: 2026-10-16T20:30:43.570Z

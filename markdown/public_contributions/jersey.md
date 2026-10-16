@@ -1,6 +1,6 @@
 # Public Contributions - Jersey
 
-Generated: 2026-10-16T19:47:06.350Z
+Generated: 2026-10-16T21:13:58.333Z
 
 Users: 139
 
@@ -24,5 +24,5 @@ Users: 139
 | 16 | [alexleach](https://github.com/alexleach) | ALB.Leach | ITC Bio |  | Jersey, UK | 132 |
 | 17 | [Adrian609](https://github.com/Adrian609) | Adrian |  |  | Jersey | 131 |
 | 18 | [shiaoligreen](https://github.com/shiaoligreen) | Shiao-li Green |  | shiao_li | Jersey, Channel Islands | 118 |
-| 19 | [JoshCollis](https://github.com/JoshCollis) | Josh Collis | Newtel Limited |  | Jersey | 104 |
+| 19 | [JoshCollis](https://github.com/JoshCollis) | Josh Collis | Newtel Limited |  | Jersey | 105 |
 | 20 | [jde](https://github.com/jde) | David Erwin | RollDeep | daviderwin | New [York, Jersey] | 93 |

@@ -66,7 +66,7 @@ Indexed users: 2,729
 | 2 | [blackhatethicalhacking](https://github.com/blackhatethicalhacking) | Black Hat Ethical Hacking | Cyprus | 2,155 |
 | 3 | [protesilaos](https://github.com/protesilaos) | Protesilaos | Cyprus | 1,355 |
 | 4 | [mozafarimanesh](https://github.com/mozafarimanesh) | Reza  Mozafari Manesh | Republic Of Cyprus | 697 |
-| 5 | [zakirullin](https://github.com/zakirullin) | Artem Zakirullin | Limassol, Cyprus | 556 |
+| 5 | [zakirullin](https://github.com/zakirullin) | Artem Zakirullin | Limassol, Cyprus | 565 |
 | 6 | [bravit](https://github.com/bravit) | Vitaly Bragilevsky | Larnaca, Cyprus | 539 |
 | 7 | [FZambia](https://github.com/FZambia) | Alexander Emelin | Limassol, Cyprus | 471 |
 | 8 | [KaterinaPetrova](https://github.com/KaterinaPetrova) | Ekaterina Petrova | Nicosia, Cyprus | 440 |
@@ -83,4 +83,4 @@ Indexed users: 2,729
 | 19 | [polterguy](https://github.com/polterguy) | Thomas Hansen | Cyprus | 245 |
 | 20 | [kstep](https://github.com/kstep) | Konstantin Stepanov | Cyprus | 241 |
 
-Generated: 2026-10-16T19:30:17.916Z
+Generated: 2026-10-16T20:55:46.601Z

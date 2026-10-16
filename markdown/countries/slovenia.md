@@ -25,13 +25,13 @@ Indexed users: 3,099
 | 11 | [tfourj](https://github.com/tfourj) | Taj Tkalec | Slovenia | 9,996 |
 | 12 | [baadc0de](https://github.com/baadc0de) | Bojan Šernek | Ljubljana, Slovenia | 8,700 |
 | 13 | [pako999](https://github.com/pako999) | Patrik | Slovenia  | 8,682 |
-| 14 | [vucinatim](https://github.com/vucinatim) | Tim Vučina | Ljubljana, Slovenia | 8,637 |
-| 15 | [zprima](https://github.com/zprima) | Primož Žnidar | Slovenia | 8,431 |
+| 14 | [zprima](https://github.com/zprima) | Primož Žnidar | Slovenia | 8,672 |
+| 15 | [vucinatim](https://github.com/vucinatim) | Tim Vučina | Ljubljana, Slovenia | 8,637 |
 | 16 | [mitjapotocin](https://github.com/mitjapotocin) | Mitja Potočin | Ljubljana | 8,383 |
-| 17 | [AKzar1el](https://github.com/AKzar1el) | Tommy | Ljubljana, Slovenia | 7,042 |
-| 18 | [omeratagunn](https://github.com/omeratagunn) | Ömer Atagün | Slovenia | 6,861 |
-| 19 | [jurej1](https://github.com/jurej1) | Jure Jures | Slovenia | 6,645 |
-| 20 | [some1else](https://github.com/some1else) | Srđan Prodanović | Slovenia | 6,574 |
+| 17 | [dejanstrancar](https://github.com/dejanstrancar) | Dejan Strancar | Slovenia | 7,491 |
+| 18 | [AKzar1el](https://github.com/AKzar1el) | Tommy | Ljubljana, Slovenia | 7,042 |
+| 19 | [omeratagunn](https://github.com/omeratagunn) | Ömer Atagün | Slovenia | 6,861 |
+| 20 | [jurej1](https://github.com/jurej1) | Jure Jures | Slovenia | 6,645 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 3,099
 | 19 | [garbas](https://github.com/garbas) | Rok Garbas | Ljubljana, Slovenia | 240 |
 | 20 | [buresdv](https://github.com/buresdv) | David Bureš | Maribor, Slovenia | 238 |
 
-Generated: 2026-10-16T18:56:48.883Z
+Generated: 2026-10-16T20:22:28.428Z

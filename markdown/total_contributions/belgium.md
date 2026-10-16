@@ -1,8 +1,8 @@
 # Total Contributions - Belgium
 
-Generated: 2026-10-16T19:17:39.847Z
+Generated: 2026-10-16T20:45:05.466Z
 
-Users: 18393
+Users: 18392
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -19,10 +19,10 @@ Users: 18393
 | 11 | [bmichotte](https://github.com/bmichotte) | Benjamin Michotte | @opp-studio  | bmichotte | Liège, Belgium | 17056 |
 | 12 | [brtdv](https://github.com/brtdv) | Bert Devriese |  |  | Ghent x Bruges, Belgium | 15360 |
 | 13 | [wouterds](https://github.com/wouterds) | Wouter | @tallyforms  |  | Ghent, Belgium | 14883 |
-| 14 | [sigmadeltasoftware](https://github.com/sigmadeltasoftware) | Bojan Belic | Sigma Delta Software Solutions |  | Belgium | 14464 |
-| 15 | [semaidi](https://github.com/semaidi) | Didier | MFM Digital |  | Brussels | 14348 |
-| 16 | [jleclanche](https://github.com/jleclanche) | Jerome Leclanche | @ingram-technologies |  | Brussels, Belgium | 13265 |
-| 17 | [kwevers](https://github.com/kwevers) | Kristof Wevers | Infura |  | Belgium | 12662 |
-| 18 | [willem-delbare](https://github.com/willem-delbare) |  | Aikido Security |  | Belgium | 12607 |
-| 19 | [gjbex](https://github.com/gjbex) | Geert Jan Bex | Hasselt University | GeertBex | Hasselt, Belgium | 12568 |
-| 20 | [obax](https://github.com/obax) | Olivier | @bendiai  |  | London / Brussels  | 12516 |
+| 14 | [artem-invoid](https://github.com/artem-invoid) | Artem | @Invoid-Vision  | nonvoider | Belgium | 14595 |
+| 15 | [sigmadeltasoftware](https://github.com/sigmadeltasoftware) | Bojan Belic | Sigma Delta Software Solutions |  | Belgium | 14464 |
+| 16 | [semaidi](https://github.com/semaidi) | Didier | MFM Digital |  | Brussels | 14348 |
+| 17 | [jleclanche](https://github.com/jleclanche) | Jerome Leclanche | @ingram-technologies |  | Brussels, Belgium | 13265 |
+| 18 | [kwevers](https://github.com/kwevers) | Kristof Wevers | Infura |  | Belgium | 12662 |
+| 19 | [willem-delbare](https://github.com/willem-delbare) |  | Aikido Security |  | Belgium | 12607 |
+| 20 | [gjbex](https://github.com/gjbex) | Geert Jan Bex | Hasselt University | GeertBex | Hasselt, Belgium | 12568 |

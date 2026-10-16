@@ -1,6 +1,6 @@
 # Belize
 
-Indexed users: 95
+Indexed users: 94
 
 | Leaderboard | Link |
 |---|---|
@@ -12,7 +12,7 @@ Indexed users: 95
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [amodevinc](https://github.com/amodevinc) | Alain Morris | Belize (UTC−6) · Remote | 2,825 |
+| 1 | [amodevinc](https://github.com/amodevinc) | Alain Morris | Belize (UTC−6) · Remote | 2,844 |
 | 2 | [AlexDev404](https://github.com/AlexDev404) | Immanuel Daviel A. Garcia | Belmopan, BZ | 2,038 |
 | 3 | [roock3r](https://github.com/roock3r) | Cristian Silva | Belize | 1,892 |
 | 4 | [andreshungbz](https://github.com/andreshungbz) | Andres Hung | Belmopan, Belize | 1,656 |
@@ -55,8 +55,8 @@ Indexed users: 95
 | 16 | [erichanson](https://github.com/erichanson) | Eric Hanson | Belize | 43 |
 | 17 | [GirlWhoCodes14](https://github.com/GirlWhoCodes14) | Alexis Ayuso | Belize | 42 |
 | 18 | [FranceCawich](https://github.com/FranceCawich) | Francis Cawich | Belize | 33 |
-| 19 | [urboytgd](https://github.com/urboytgd) | Daniel Hung | Belize | 29 |
-| 20 | [amodevinc](https://github.com/amodevinc) | Alain Morris | Belize (UTC−6) · Remote | 27 |
+| 19 | [amodevinc](https://github.com/amodevinc) | Alain Morris | Belize (UTC−6) · Remote | 27 |
+| 20 | [donaldtmcknight](https://github.com/donaldtmcknight) | Donald T. McKnight | Belize | 23 |
 
 ## Followers
 
@@ -71,16 +71,16 @@ Indexed users: 95
 | 7 | [jimidle](https://github.com/jimidle) | Jim Idle | Hopkins, Belize | 20 |
 | 8 | [andreshungbz](https://github.com/andreshungbz) | Andres Hung | Belmopan, Belize | 17 |
 | 9 | [Deaf-Web-Admin](https://github.com/Deaf-Web-Admin) | Deaf Developer | Belize | 13 |
-| 10 | [urboytgd](https://github.com/urboytgd) | Daniel Hung | Belize | 13 |
-| 11 | [jennxsierra](https://github.com/jennxsierra) | Jennessa Sierra | Belmopan, Belize | 12 |
-| 12 | [PLGuerraDesigns](https://github.com/PLGuerraDesigns) | Pablo L. Guerra | Belize | 12 |
-| 13 | [hubertdomagalaa](https://github.com/hubertdomagalaa) | HD | Belize | 10 |
-| 14 | [cruzer45](https://github.com/cruzer45) | Maurice Rogers | Belize  | 9 |
-| 15 | [joshuariverol](https://github.com/joshuariverol) | Joshua Riverol | Belize, CA | 9 |
-| 16 | [alexanderrivera96](https://github.com/alexanderrivera96) | AlexRiv007 | Belize City, Belize | 8 |
-| 17 | [happyherp](https://github.com/happyherp) | Carlos Freund | Belize | 8 |
-| 18 | [Lee26Ed](https://github.com/Lee26Ed) | Lee E. Panti | San Jose Succotz, Cayo District, Belize | 8 |
-| 19 | [cybcsec](https://github.com/cybcsec) | CybCSec Coin | Belize | 7 |
-| 20 | [mmedinajr](https://github.com/mmedinajr) | Manuel Medina Jr | Belmopan City | 7 |
+| 10 | [jennxsierra](https://github.com/jennxsierra) | Jennessa Sierra | Belmopan, Belize | 12 |
+| 11 | [PLGuerraDesigns](https://github.com/PLGuerraDesigns) | Pablo L. Guerra | Belize | 12 |
+| 12 | [hubertdomagalaa](https://github.com/hubertdomagalaa) | HD | Belize | 10 |
+| 13 | [cruzer45](https://github.com/cruzer45) | Maurice Rogers | Belize  | 9 |
+| 14 | [joshuariverol](https://github.com/joshuariverol) | Joshua Riverol | Belize, CA | 9 |
+| 15 | [alexanderrivera96](https://github.com/alexanderrivera96) | AlexRiv007 | Belize City, Belize | 8 |
+| 16 | [happyherp](https://github.com/happyherp) | Carlos Freund | Belize | 8 |
+| 17 | [Lee26Ed](https://github.com/Lee26Ed) | Lee E. Panti | San Jose Succotz, Cayo District, Belize | 8 |
+| 18 | [cybcsec](https://github.com/cybcsec) | CybCSec Coin | Belize | 7 |
+| 19 | [mmedinajr](https://github.com/mmedinajr) | Manuel Medina Jr | Belmopan City | 7 |
+| 20 | [raycadle](https://github.com/raycadle) | Ray Cadle | Belize, C.A. | 7 |
 
-Generated: 2026-10-16T19:18:13.721Z
+Generated: 2026-10-16T20:45:42.935Z

@@ -19,10 +19,10 @@ Indexed users: 155
 | 5 | [tekminewe](https://github.com/tekminewe) | Ewe Tek Min | Isle of Man | 3,528 |
 | 6 | [dive](https://github.com/dive) | Artem Loenko | Isle of Man | 2,160 |
 | 7 | [oliciv](https://github.com/oliciv) | Oli Allen | Isle of Man | 2,000 |
-| 8 | [lukawarren](https://github.com/lukawarren) | Luka Warren | Isle of Man | 1,908 |
+| 8 | [lukawarren](https://github.com/lukawarren) | Luka Warren | Isle of Man | 1,911 |
 | 9 | [craigiswayne](https://github.com/craigiswayne) | Craig Wayne | Isle of Man | 1,855 |
 | 10 | [PerpetualBeta](https://github.com/PerpetualBeta) | Jonathan M. Hollin | Douglas, Isle of Man | 1,710 |
-| 11 | [thomas-coldwell](https://github.com/thomas-coldwell) | Thomas Coldwell | Isle of Man | 1,671 |
+| 11 | [thomas-coldwell](https://github.com/thomas-coldwell) | Thomas Coldwell | Isle of Man | 1,678 |
 | 12 | [ceottaki](https://github.com/ceottaki) | Felipe Ceotto | Isle of Man | 1,630 |
 | 13 | [mayconht](https://github.com/mayconht) | Maycon Douglas | Isle of Man | 1,558 |
 | 14 | [lwangenheim](https://github.com/lwangenheim) | Lee Wangenheim | Isle of Man | 1,498 |
@@ -83,4 +83,4 @@ Indexed users: 155
 | 19 | [lwangenheim](https://github.com/lwangenheim) | Lee Wangenheim | Isle of Man | 19 |
 | 20 | [DanAnkers](https://github.com/DanAnkers) | Daniel Ankers | Isle of Man | 18 |
 
-Generated: 2026-10-16T19:44:53.208Z
+Generated: 2026-10-16T21:12:42.013Z

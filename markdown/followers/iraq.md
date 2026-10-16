@@ -1,8 +1,8 @@
 # Followers - Iraq
 
-Generated: 2026-10-16T19:44:46.392Z
+Generated: 2026-10-16T21:11:31.841Z
 
-Users: 2237
+Users: 2236
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -17,7 +17,7 @@ Users: 2237
 | 9 | [PawanOsman](https://github.com/PawanOsman) | Pawan Osman | @PawanKrd | pawanosmant | As Sulaymaniyah, Iraq | 518 |
 | 10 | [codenashwan](https://github.com/codenashwan) | Nashwan Abdullah | Rstacode |  | Iraq/Sulaymaniyah | 507 |
 | 11 | [yousifnimah](https://github.com/yousifnimah) | Yousif N. Abbas | @masiyanet |  | Iraq | 452 |
-| 12 | [Islam-Raad-dev](https://github.com/Islam-Raad-dev) | Islam Raad | Freelancer |  | Iraq | 423 |
+| 12 | [Islam-Raad-dev](https://github.com/Islam-Raad-dev) | Islam Raad | Freelancer |  | Iraq | 421 |
 | 13 | [munafio](https://github.com/munafio) | Munaf A. Mahdi | Sr. Software Engineer |  | Iraq | 408 |
 | 14 | [devmuaz](https://github.com/devmuaz) | AbdulMuaz Aqeel | @talabatey | devmuaz | Iraq, Baghdad | 319 |
 | 15 | [arikarim](https://github.com/arikarim) | Ari Karim | KRG(Kurdistan Regional Government). | Ari_Karim_ | Kurdistan/Iraq | 284 |

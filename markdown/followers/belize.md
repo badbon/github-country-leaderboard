@@ -1,8 +1,8 @@
 # Followers - Belize
 
-Generated: 2026-10-16T19:18:13.721Z
+Generated: 2026-10-16T20:45:42.935Z
 
-Users: 95
+Users: 94
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -15,14 +15,14 @@ Users: 95
 | 7 | [jimidle](https://github.com/jimidle) | Jim Idle | @databrickslabs  |  | Hopkins, Belize | 20 |
 | 8 | [andreshungbz](https://github.com/andreshungbz) | Andres Hung | University of Belize |  | Belmopan, Belize | 17 |
 | 9 | [Deaf-Web-Admin](https://github.com/Deaf-Web-Admin) | Deaf Developer |  |  | Belize | 13 |
-| 10 | [urboytgd](https://github.com/urboytgd) | Daniel Hung | RUNMAN LLC |  | Belize | 13 |
-| 11 | [jennxsierra](https://github.com/jennxsierra) | Jennessa Sierra | University of Belize |  | Belmopan, Belize | 12 |
-| 12 | [PLGuerraDesigns](https://github.com/PLGuerraDesigns) | Pablo L. Guerra |  |  | Belize | 12 |
-| 13 | [hubertdomagalaa](https://github.com/hubertdomagalaa) | HD | Self-employed |  | Belize | 10 |
-| 14 | [cruzer45](https://github.com/cruzer45) | Maurice Rogers |  |  | Belize  | 9 |
-| 15 | [joshuariverol](https://github.com/joshuariverol) | Joshua Riverol |  | joshuariverol | Belize, CA | 9 |
-| 16 | [alexanderrivera96](https://github.com/alexanderrivera96) | AlexRiv007 |  | AlexRiv007 | Belize City, Belize | 8 |
-| 17 | [happyherp](https://github.com/happyherp) | Carlos Freund | Self Employed |  | Belize | 8 |
-| 18 | [Lee26Ed](https://github.com/Lee26Ed) | Lee E. Panti |  |  | San Jose Succotz, Cayo District, Belize | 8 |
-| 19 | [cybcsec](https://github.com/cybcsec) | CybCSec Coin | CybCSec  |  | Belize | 7 |
-| 20 | [mmedinajr](https://github.com/mmedinajr) | Manuel Medina Jr | University of Belize |  | Belmopan City | 7 |
+| 10 | [jennxsierra](https://github.com/jennxsierra) | Jennessa Sierra | University of Belize |  | Belmopan, Belize | 12 |
+| 11 | [PLGuerraDesigns](https://github.com/PLGuerraDesigns) | Pablo L. Guerra |  |  | Belize | 12 |
+| 12 | [hubertdomagalaa](https://github.com/hubertdomagalaa) | HD | Self-employed |  | Belize | 10 |
+| 13 | [cruzer45](https://github.com/cruzer45) | Maurice Rogers |  |  | Belize  | 9 |
+| 14 | [joshuariverol](https://github.com/joshuariverol) | Joshua Riverol |  | joshuariverol | Belize, CA | 9 |
+| 15 | [alexanderrivera96](https://github.com/alexanderrivera96) | AlexRiv007 |  | AlexRiv007 | Belize City, Belize | 8 |
+| 16 | [happyherp](https://github.com/happyherp) | Carlos Freund | Self Employed |  | Belize | 8 |
+| 17 | [Lee26Ed](https://github.com/Lee26Ed) | Lee E. Panti |  |  | San Jose Succotz, Cayo District, Belize | 8 |
+| 18 | [cybcsec](https://github.com/cybcsec) | CybCSec Coin | CybCSec  |  | Belize | 7 |
+| 19 | [mmedinajr](https://github.com/mmedinajr) | Manuel Medina Jr | University of Belize |  | Belmopan City | 7 |
+| 20 | [raycadle](https://github.com/raycadle) | Ray Cadle |  |  | Belize, C.A. | 7 |

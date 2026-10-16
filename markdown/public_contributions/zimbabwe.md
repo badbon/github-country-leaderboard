@@ -1,6 +1,6 @@
 # Public Contributions - Zimbabwe
 
-Generated: 2026-10-16T20:15:46.038Z
+Generated: 2026-10-16T20:36:41.505Z
 
 Users: 1656
 
@@ -23,6 +23,6 @@ Users: 1656
 | 15 | [kudzaiprichard](https://github.com/kudzaiprichard) | Kudzai Prichard Matizirofa |  |  | Mashonaland West Province, Zimbabwe, Harare | 1466 |
 | 16 | [tate2301](https://github.com/tate2301) | Atipamara |  |  | Masvingo, Zimbabwe | 1343 |
 | 17 | [eisax](https://github.com/eisax) | Josphat Ndhlovu | eisax software services |  | Zimbabwe | 1326 |
-| 18 | [Mikelesnr](https://github.com/Mikelesnr) | Michael Ngonidzashe | Classgap |  | Harare Zimbabwe | 1254 |
-| 19 | [Shewart](https://github.com/Shewart) | Shewart | Technology | 0xsh3ll_ | Harare | 1244 |
+| 18 | [Shewart](https://github.com/Shewart) | Shewart | Technology | 0xsh3ll_ | Harare | 1244 |
+| 19 | [Mikelesnr](https://github.com/Mikelesnr) | Michael Ngonidzashe | Classgap |  | Harare Zimbabwe | 1220 |
 | 20 | [waltergkaturuza](https://github.com/waltergkaturuza) | Greenford Walter KATURUZA | Granite-Tech |  | Zimbabwe | 1191 |

@@ -1,6 +1,6 @@
 # Total Contributions - Isle of Man
 
-Generated: 2026-10-16T19:44:53.208Z
+Generated: 2026-10-16T21:12:42.013Z
 
 Users: 155
 
@@ -13,10 +13,10 @@ Users: 155
 | 5 | [tekminewe](https://github.com/tekminewe) | Ewe Tek Min |  |  | Isle of Man | 3528 |
 | 6 | [dive](https://github.com/dive) | Artem Loenko |  | justsitandgrin | Isle of Man | 2160 |
 | 7 | [oliciv](https://github.com/oliciv) | Oli Allen |  |  | Isle of Man | 2000 |
-| 8 | [lukawarren](https://github.com/lukawarren) | Luka Warren |  |  | Isle of Man | 1908 |
+| 8 | [lukawarren](https://github.com/lukawarren) | Luka Warren |  |  | Isle of Man | 1911 |
 | 9 | [craigiswayne](https://github.com/craigiswayne) | Craig Wayne | @uroc-studios | craigiswayne | Isle of Man | 1855 |
 | 10 | [PerpetualBeta](https://github.com/PerpetualBeta) | Jonathan M. Hollin |  |  | Douglas, Isle of Man | 1710 |
-| 11 | [thomas-coldwell](https://github.com/thomas-coldwell) | Thomas Coldwell | Infinium | thomas_iom | Isle of Man | 1671 |
+| 11 | [thomas-coldwell](https://github.com/thomas-coldwell) | Thomas Coldwell | Infinium | thomas_iom | Isle of Man | 1678 |
 | 12 | [ceottaki](https://github.com/ceottaki) | Felipe Ceotto |  |  | Isle of Man | 1630 |
 | 13 | [mayconht](https://github.com/mayconht) | Maycon Douglas |  |  | Isle of Man | 1558 |
 | 14 | [lwangenheim](https://github.com/lwangenheim) | Lee Wangenheim |  |  | Isle of Man | 1498 |

@@ -1,6 +1,6 @@
 # Andorra
 
-Indexed users: 214
+Indexed users: 215
 
 | Leaderboard | Link |
 |---|---|
@@ -12,7 +12,7 @@ Indexed users: 214
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [ericrisco](https://github.com/ericrisco) | Eric Risco de la Torre | Andorra | 32,100 |
+| 1 | [ericrisco](https://github.com/ericrisco) | Eric Risco de la Torre | Andorra | 34,254 |
 | 2 | [heldermanueltv](https://github.com/heldermanueltv) | Helder Manuel Torres Vieira | Andorra la Vella | 13,056 |
 | 3 | [AdrianMastronardi](https://github.com/AdrianMastronardi) | Adrian Mastronardi | Andorra | 9,942 |
 | 4 | [orimarti](https://github.com/orimarti) | Oriol Martí | Andorra | 9,257 |
@@ -37,7 +37,7 @@ Indexed users: 214
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [ericrisco](https://github.com/ericrisco) | Eric Risco de la Torre | Andorra | 32,100 |
+| 1 | [ericrisco](https://github.com/ericrisco) | Eric Risco de la Torre | Andorra | 34,254 |
 | 2 | [niwinz](https://github.com/niwinz) | Andrey Antukh | Andorra | 2,970 |
 | 3 | [acastellana](https://github.com/acastellana) | Albert Castellana | Andorra | 1,033 |
 | 4 | [Danziger](https://github.com/Danziger) | Dani Gámez Franco | Andorra | 779 |
@@ -83,4 +83,4 @@ Indexed users: 214
 | 19 | [ysb33r](https://github.com/ysb33r) | Schalk W. Cronjé | Andorra | 63 |
 | 20 | [castrolem](https://github.com/castrolem) | Luis Castro | Andorra la Vella, Andorra | 59 |
 
-Generated: 2026-10-16T19:12:39.477Z
+Generated: 2026-10-16T20:45:05.466Z

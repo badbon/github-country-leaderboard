@@ -1,6 +1,6 @@
 # Total Contributions - Burundi
 
-Generated: 2026-10-16T19:23:14.392Z
+Generated: 2026-10-16T20:49:13.387Z
 
 Users: 235
 
@@ -10,7 +10,7 @@ Users: 235
 | 2 | [mugar](https://github.com/mugar) | mugabo armand |  |  | Burundi | 4661 |
 | 3 | [muco-rolle](https://github.com/muco-rolle) | Trésor Muco | Leapa | mucotreso | Bujumbura, Burundi | 2626 |
 | 4 | [INGANZAMARUMPU](https://github.com/INGANZAMARUMPU) | NKURUNZIZA | hogitugende | inganzamarumpu | Bujumbura, Burundi | 2478 |
-| 5 | [klauskira07](https://github.com/klauskira07) | Klaus KIRA | Vortex Ltd. | klauskira07 | Burundi | 2122 |
+| 5 | [klauskira07](https://github.com/klauskira07) | Klaus KIRA | Vortex Ltd. | klauskira07 | Burundi | 2129 |
 | 6 | [yvartpro](https://github.com/yvartpro) | Nshemezimana Yves | @vovota |  | Bujumbura,Burundi | 1651 |
 | 7 | [gatarelib](https://github.com/gatarelib) | Gatare Libère | ACLIS | gatarelib | Burundi | 1547 |
 | 8 | [kalculata](https://github.com/kalculata) | Huzaifa Nimushimirimana | @kubwacu-entreprise  | kalculata | Bujumbura, Burundi | 1512 |
@@ -20,7 +20,7 @@ Users: 235
 | 12 | [allyelvis](https://github.com/allyelvis) | Ally Elvis Nzeyimana | @AENZBi  | AllyElvis1 | Burundi | 1252 |
 | 13 | [XPTOOLS](https://github.com/XPTOOLS) | XP TOOLS | FREENETHUB™ |  | Burundi | 1108 |
 | 14 | [b3rking](https://github.com/b3rking) | ISHIMWE Eschyle Bersy | Immadridista | b3rking | Burundi | 1027 |
-| 15 | [Janeirohurley](https://github.com/Janeirohurley) | Janeiro hurley | @RundiNova  | janeirohurley | Burundi | 1010 |
+| 15 | [Janeirohurley](https://github.com/Janeirohurley) | Janeiro hurley | @RundiNova  | janeirohurley | Burundi | 1007 |
 | 16 | [arsou2015](https://github.com/arsou2015) | Arsene Nduwayo | EXEC |  | Burundi | 982 |
 | 17 | [Evran0](https://github.com/Evran0) | Eddy Poli | RIHA TELECOM |  | Bujumbura,  Burundi | 953 |
 | 18 | [kidasijunior10](https://github.com/kidasijunior10) | Joachim KIDASI | United Nations Population Fund |  | Bujumbura, Burundi | 921 |

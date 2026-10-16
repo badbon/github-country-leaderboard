@@ -1,12 +1,12 @@
 # Total Contributions - Andorra
 
-Generated: 2026-10-16T19:12:39.477Z
+Generated: 2026-10-16T20:45:05.466Z
 
-Users: 214
+Users: 215
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [ericrisco](https://github.com/ericrisco) | Eric Risco de la Torre | Andorra Telecom | erisco_and | Andorra | 32100 |
+| 1 | [ericrisco](https://github.com/ericrisco) | Eric Risco de la Torre | Andorra Telecom | erisco_and | Andorra | 34254 |
 | 2 | [heldermanueltv](https://github.com/heldermanueltv) | Helder Manuel Torres Vieira | @innki-tech @humani-studio |  | Andorra la Vella | 13056 |
 | 3 | [AdrianMastronardi](https://github.com/AdrianMastronardi) | Adrian Mastronardi |  | amastronardi | Andorra | 9942 |
 | 4 | [orimarti](https://github.com/orimarti) | Oriol Martí |  |  | Andorra | 9257 |

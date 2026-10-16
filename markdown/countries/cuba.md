@@ -43,7 +43,7 @@ Indexed users: 1,275
 | 4 | [AgenciaSeniors](https://github.com/AgenciaSeniors) | Eduardo Daniel Pérez Ruiz | Cuba | 4,454 |
 | 5 | [MiguelAntonioRS](https://github.com/MiguelAntonioRS) | Miguel | Cuba, Holguin | 3,246 |
 | 6 | [rafaelrdgz](https://github.com/rafaelrdgz) | Rafael Rodríguez Pérez | Havana, Cuba | 2,352 |
-| 7 | [kaelthasmanu](https://github.com/kaelthasmanu) | Manuel Gorrin | Cuba | 1,919 |
+| 7 | [kaelthasmanu](https://github.com/kaelthasmanu) | Manuel Gorrin | Cuba | 1,996 |
 | 8 | [rodnye](https://github.com/rodnye) | Rodny Estrada | La Habana, Cuba | 1,514 |
 | 9 | [danielitoCode](https://github.com/danielitoCode) | Daniel Imbert | Cuba | 1,476 |
 | 10 | [GloriousTacoo](https://github.com/GloriousTacoo) | GloriousTaco | Havana, Cuba | 1,464 |
@@ -83,4 +83,4 @@ Indexed users: 1,275
 | 19 | [leoGlez01](https://github.com/leoGlez01) | Leandro González  | La Habana, Cuba | 70 |
 | 20 | [EduardoProfe666](https://github.com/EduardoProfe666) | Eduardo Alejandro González Martell | La Habana, Cuba | 69 |
 
-Generated: 2026-10-16T19:28:09.061Z
+Generated: 2026-10-16T20:53:47.246Z

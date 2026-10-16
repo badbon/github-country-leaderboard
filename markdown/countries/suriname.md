@@ -16,10 +16,10 @@ Indexed users: 123
 | 2 | [ragnarok22](https://github.com/ragnarok22) | Reinier Hernández | Suriname | 13,727 |
 | 3 | [doctorneon](https://github.com/doctorneon) | Fabian Jacott | Suriname | 6,198 |
 | 4 | [Karel95](https://github.com/Karel95) | Karel Hernández | Paramaribo, Suriname | 2,771 |
-| 5 | [eSaniello](https://github.com/eSaniello) | Shaniel  | Suriname | 1,777 |
+| 5 | [eSaniello](https://github.com/eSaniello) | Shaniel  | Suriname | 1,779 |
 | 6 | [CreativeYudai](https://github.com/CreativeYudai) | Yudai Heber | Paramaribo | 1,756 |
-| 7 | [Beefy-py](https://github.com/Beefy-py) | Kenny Hoft | Commwijne, Suriname | 1,644 |
-| 8 | [JhonatanJavierDev](https://github.com/JhonatanJavierDev) | Jhonatan Javier Corella Pérez | Paramaribo | 1,562 |
+| 7 | [Beefy-py](https://github.com/Beefy-py) | Kenny Hoft | Commwijne, Suriname | 1,651 |
+| 8 | [JhonatanJavierDev](https://github.com/JhonatanJavierDev) | Jhonatan Javier Corella Pérez | Paramaribo | 1,575 |
 | 9 | [jairseedorf](https://github.com/jairseedorf) | Jaïr Seedorf  | Suriname | 1,126 |
 | 10 | [giannisanni](https://github.com/giannisanni) | Gianni Sanrochman | Paramaribo, Suriname | 865 |
 | 11 | [nerkarso](https://github.com/nerkarso) | Ner Karso | Paramaribo, Suriname | 827 |
@@ -68,7 +68,7 @@ Indexed users: 123
 | 4 | [nerkarso](https://github.com/nerkarso) | Ner Karso | Paramaribo, Suriname | 41 |
 | 5 | [CreativeYudai](https://github.com/CreativeYudai) | Yudai Heber | Paramaribo | 38 |
 | 6 | [Fuseteam](https://github.com/Fuseteam) | Rahammetoela Toekiman | Paramaribo, Suriname | 38 |
-| 7 | [Sh1vZ](https://github.com/Sh1vZ) | Shivam | Suriname | 38 |
+| 7 | [Sh1vZ](https://github.com/Sh1vZ) | Shivam | Suriname | 37 |
 | 8 | [eSaniello](https://github.com/eSaniello) | Shaniel  | Suriname | 36 |
 | 9 | [Karel95](https://github.com/Karel95) | Karel Hernández | Paramaribo, Suriname | 36 |
 | 10 | [m23ck](https://github.com/m23ck) | Tafarél Mack | Paramaribo/Suriname | 36 |
@@ -83,4 +83,4 @@ Indexed users: 123
 | 19 | [JovinF](https://github.com/JovinF) | Jovin Fransman | Suriname | 18 |
 | 20 | [Your1405](https://github.com/Your1405) | Youri Karijopawiro | Paramaribo, Suriname | 18 |
 
-Generated: 2026-10-16T18:58:15.069Z
+Generated: 2026-10-16T20:25:03.528Z

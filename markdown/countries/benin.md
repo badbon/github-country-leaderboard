@@ -29,7 +29,7 @@ Indexed users: 471
 | 15 | [eliotfgn](https://github.com/eliotfgn) | Eliot FAGNON | Cotonou, Benin | 3,602 |
 | 16 | [Van064886](https://github.com/Van064886) | Vanique ATADE  | Cotonou, Benin | 3,581 |
 | 17 | [20Frederic20](https://github.com/20Frederic20) |  | Benin, Cotonou | 3,352 |
-| 18 | [Aulerien](https://github.com/Aulerien) | TCHANHOUIN Amede Angel Aulerien | Benin, Cotonou | 3,220 |
+| 18 | [Aulerien](https://github.com/Aulerien) | TCHANHOUIN Amede Angel Aulerien | Benin, Cotonou | 3,236 |
 | 19 | [salemnouhou](https://github.com/salemnouhou) | Salem Souleymane NOUHOU | Cotonou, BENIN | 3,141 |
 | 20 | [mdnjohn](https://github.com/mdnjohn) | John B. | Benin | 3,138 |
 
@@ -73,8 +73,8 @@ Indexed users: 471
 | 9 | [VEGLOgabin](https://github.com/VEGLOgabin) | Gabin Houetchenou VEGLO | Benin | 106 |
 | 10 | [Zchristian955](https://github.com/Zchristian955) | Kevin Christian ZANOU | Benin | 97 |
 | 11 | [devalade](https://github.com/devalade) | Alade YESSOUFOU | Cotonou,Littoral, Benin | 93 |
-| 12 | [nair0lf32](https://github.com/nair0lf32) | EDEMESSI Florian | Benin, Cotonou | 89 |
-| 13 | [AymarN](https://github.com/AymarN) | Aymar Sedami NAHUM | Republic of Benin | 88 |
+| 12 | [nair0lf32](https://github.com/nair0lf32) | EDEMESSI Florian | Benin, Cotonou | 90 |
+| 13 | [AymarN](https://github.com/AymarN) | Aymar Sedami NAHUM | Republic of Benin | 87 |
 | 14 | [Collins222614](https://github.com/Collins222614) | Collins Efesomo | Benin, Nigeria | 87 |
 | 15 | [jackjosias](https://github.com/jackjosias) | Jack-Josias | Cotonou, Benin | 87 |
 | 16 | [Jozzy4](https://github.com/Jozzy4) | Ibatuemoh Joseph  | Benin | 83 |
@@ -83,4 +83,4 @@ Indexed users: 471
 | 19 | [awarris](https://github.com/awarris) | Warris AGBANNONDE | Benin, Cotonou Ganhi | 73 |
 | 20 | [baba-mandef](https://github.com/baba-mandef) | Abiodoun Paraïso | Adjarra, Benin | 71 |
 
-Generated: 2026-10-16T19:18:45.092Z
+Generated: 2026-10-16T20:45:50.172Z

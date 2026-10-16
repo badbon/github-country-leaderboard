@@ -1,6 +1,6 @@
 # Total Contributions - Albania
 
-Generated: 2026-10-16T19:11:24.108Z
+Generated: 2026-10-16T20:38:12.076Z
 
 Users: 1184
 
@@ -13,16 +13,16 @@ Users: 1184
 | 5 | [Jorgo55](https://github.com/Jorgo55) | Jorgo Bardho |  |  | Albania, Tirana | 8238 |
 | 6 | [kevingabeci](https://github.com/kevingabeci) | Kevin Gabeci | Apatero | gabeciii | Tirana | 7892 |
 | 7 | [somethim](https://github.com/somethim) | Arbi Kullakshi | @zennit-dev | arbi_kullakshi | Tirana, Albania | 6693 |
-| 8 | [geridev12](https://github.com/geridev12) | Gerald Nuraj |  |  | Tirana, Albania | 6533 |
-| 9 | [orges](https://github.com/orges) | orges |  |  | Albania | 6501 |
-| 10 | [bledar](https://github.com/bledar) | Bledar Haxhia | MarineDataCloud |  | Albania | 6029 |
-| 11 | [arkellahi82-tech](https://github.com/arkellahi82-tech) | Arkel Lahi | FiltonHayes |  | Tirana, Albania | 5794 |
-| 12 | [lacieri](https://github.com/lacieri) | Erand Laci | @kirschbaum-development |  | Tirana, Albania | 5661 |
-| 13 | [emilushi](https://github.com/emilushi) | Eduard Milushi | Freelancer | edMilushi | Albania | 5568 |
+| 8 | [emilushi](https://github.com/emilushi) | Eduard Milushi | Freelancer | edMilushi | Albania | 6666 |
+| 9 | [geridev12](https://github.com/geridev12) | Gerald Nuraj |  |  | Tirana, Albania | 6533 |
+| 10 | [orges](https://github.com/orges) | orges |  |  | Albania | 6501 |
+| 11 | [bledar](https://github.com/bledar) | Bledar Haxhia | MarineDataCloud |  | Albania | 6049 |
+| 12 | [arkellahi82-tech](https://github.com/arkellahi82-tech) | Arkel Lahi | FiltonHayes |  | Tirana, Albania | 5794 |
+| 13 | [lacieri](https://github.com/lacieri) | Erand Laci | @kirschbaum-development |  | Tirana, Albania | 5661 |
 | 14 | [nertilpoci](https://github.com/nertilpoci) | Nertil Poci |  |  | Albania | 5482 |
 | 15 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | CyberSecurity Researcher, Red Team, Bug Hunter | OrgitoRTA | Albania | 4672 |
 | 16 | [blenardpazari](https://github.com/blenardpazari) | Blenard Pazari | @new-media-communications | blenardpazari | Tirana | 4583 |
 | 17 | [sly503](https://github.com/sly503) | Fatjon Rami |  |  | Tirana | 4508 |
 | 18 | [ezekaj](https://github.com/ezekaj) | Elvi Zekaj |  |  | Tirana, Albania | 4397 |
-| 19 | [klkucaj](https://github.com/klkucaj) | Klaudio Kuçaj | https://www.idea-developers.com/ |  | Tirana, Albania | 4217 |
-| 20 | [jozefini](https://github.com/jozefini) | Jozefin B. | @codja  |  | Albania | 4198 |
+| 19 | [klevisndoka](https://github.com/klevisndoka) | Klevis Ndoka |  |  | Tirane, Albania | 4264 |
+| 20 | [klkucaj](https://github.com/klkucaj) | Klaudio Kuçaj | https://www.idea-developers.com/ |  | Tirana, Albania | 4217 |

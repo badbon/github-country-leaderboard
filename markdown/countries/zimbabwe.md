@@ -26,12 +26,12 @@ Indexed users: 1,656
 | 12 | [josemukorivo](https://github.com/josemukorivo) | Joseph Mukorivo | Harare, Zimbabwe | 6,400 |
 | 13 | [morebnyemba](https://github.com/morebnyemba) | Moreblessing Nyemba | Zimbabwe | 6,315 |
 | 14 | [tkmawarire](https://github.com/tkmawarire) | #SpecialForces | Harare, Zimbabwe | 5,953 |
-| 15 | [Tadiwr](https://github.com/Tadiwr) | Tadiwanashe Shangwa | Zimbabwe | 5,825 |
+| 15 | [Tadiwr](https://github.com/Tadiwr) | Tadiwanashe Shangwa | Zimbabwe | 5,768 |
 | 16 | [PraiseTechzw](https://github.com/PraiseTechzw) | Praise Masunga | Chinhoyi, Zimbabwe | 5,703 |
 | 17 | [xeroxzen](https://github.com/xeroxzen) | Andile Jaden Mbele | Zimbabwe | 5,428 |
-| 18 | [mosesmarimo](https://github.com/mosesmarimo) | Moses Marimo | Harare, Zimbabwe | 5,360 |
-| 19 | [emarss](https://github.com/emarss) | Rufaro Sithole | Harare, Zimbabwe | 5,105 |
-| 20 | [chiroro-jr](https://github.com/chiroro-jr) | Nyasha Chiroro | Harare, Zimbabwe | 5,086 |
+| 18 | [chiroro-jr](https://github.com/chiroro-jr) | Nyasha Chiroro | Harare, Zimbabwe | 5,413 |
+| 19 | [mosesmarimo](https://github.com/mosesmarimo) | Moses Marimo | Harare, Zimbabwe | 5,360 |
+| 20 | [emarss](https://github.com/emarss) | Rufaro Sithole | Harare, Zimbabwe | 5,105 |
 
 ## Public Contributions
 
@@ -54,8 +54,8 @@ Indexed users: 1,656
 | 15 | [kudzaiprichard](https://github.com/kudzaiprichard) | Kudzai Prichard Matizirofa | Mashonaland West Province, Zimbabwe, Harare | 1,466 |
 | 16 | [tate2301](https://github.com/tate2301) | Atipamara | Masvingo, Zimbabwe | 1,343 |
 | 17 | [eisax](https://github.com/eisax) | Josphat Ndhlovu | Zimbabwe | 1,326 |
-| 18 | [Mikelesnr](https://github.com/Mikelesnr) | Michael Ngonidzashe | Harare Zimbabwe | 1,254 |
-| 19 | [Shewart](https://github.com/Shewart) | Shewart | Harare | 1,244 |
+| 18 | [Shewart](https://github.com/Shewart) | Shewart | Harare | 1,244 |
+| 19 | [Mikelesnr](https://github.com/Mikelesnr) | Michael Ngonidzashe | Harare Zimbabwe | 1,220 |
 | 20 | [waltergkaturuza](https://github.com/waltergkaturuza) | Greenford Walter KATURUZA | Zimbabwe | 1,191 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 1,656
 | 19 | [zim-bot](https://github.com/zim-bot) | DRIPS MEMES BLENNIE BLESSED TUNA | Zimbabwe | 110 |
 | 20 | [KudakwasheM](https://github.com/KudakwasheM) | Kudakwashe Masaya | Harare | 105 |
 
-Generated: 2026-10-16T20:15:46.038Z
+Generated: 2026-10-16T20:36:41.505Z

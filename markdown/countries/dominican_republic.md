@@ -23,15 +23,15 @@ Indexed users: 3,301
 | 9 | [josuegrullon](https://github.com/josuegrullon) | Josue Grullon  | Dominican Republic | 8,322 |
 | 10 | [cervantesh](https://github.com/cervantesh) | Cervantes Hernandez | Dominican Republic | 7,804 |
 | 11 | [elminson](https://github.com/elminson) | Elminson De Oleo Baez | Santo Domingo, Dominican Republic | 7,675 |
-| 12 | [sanchezta](https://github.com/sanchezta) | Adrian Sanchez | Dominican Republic | 6,885 |
-| 13 | [dkropachev](https://github.com/dkropachev) | Dmitry Kropachev | Dominican Republic | 6,784 |
-| 14 | [arielbritorivera](https://github.com/arielbritorivera) | Ariel A. Brito | Dominican Republic | 6,641 |
-| 15 | [luismts](https://github.com/luismts) | Luis Matos | Dominican Republic | 6,633 |
-| 16 | [focux](https://github.com/focux) | Leonardo E. Dominguez | Dominican Republic | 6,567 |
-| 17 | [lewandy](https://github.com/lewandy) | Lewandy Dilone | Santiago,Dominican Republic | 6,261 |
-| 18 | [franklinmdev](https://github.com/franklinmdev) | Franklin Martinez | Dominican Republic | 6,230 |
-| 19 | [AnthRG](https://github.com/AnthRG) | Anthony Rosario G. | Dominican Republic | 5,922 |
-| 20 | [ERPalmer](https://github.com/ERPalmer) | ERPalmer | Dominican Republic | 5,854 |
+| 12 | [wcontreras](https://github.com/wcontreras) | Williams Contreras | Dominican Republic, Santo Domingo | 7,121 |
+| 13 | [sanchezta](https://github.com/sanchezta) | Adrian Sanchez | Dominican Republic | 6,885 |
+| 14 | [dkropachev](https://github.com/dkropachev) | Dmitry Kropachev | Dominican Republic | 6,784 |
+| 15 | [arielbritorivera](https://github.com/arielbritorivera) | Ariel A. Brito | Dominican Republic | 6,641 |
+| 16 | [luismts](https://github.com/luismts) | Luis Matos | Dominican Republic | 6,633 |
+| 17 | [focux](https://github.com/focux) | Leonardo E. Dominguez | Dominican Republic | 6,567 |
+| 18 | [lewandy](https://github.com/lewandy) | Lewandy Dilone | Santiago,Dominican Republic | 6,261 |
+| 19 | [franklinmdev](https://github.com/franklinmdev) | Franklin Martinez | Dominican Republic | 6,230 |
+| 20 | [AnthRG](https://github.com/AnthRG) | Anthony Rosario G. | Dominican Republic | 5,922 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 3,301
 | 19 | [eatskolnikov](https://github.com/eatskolnikov) | Enmanuel Toribio | Dominican Republic | 149 |
 | 20 | [adonismendozaperez](https://github.com/adonismendozaperez) | Adonis Mendoza  | Dominican Republic | 117 |
 
-Generated: 2026-10-16T19:32:09.835Z
+Generated: 2026-10-16T20:57:59.585Z

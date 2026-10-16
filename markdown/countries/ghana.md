@@ -25,13 +25,13 @@ Indexed users: 7,094
 | 11 | [Gideon-Dadey](https://github.com/Gideon-Dadey) | Gideon Dadey | Accra, Ghana | 9,758 |
 | 12 | [qbentil](https://github.com/qbentil) | Bentil Shadrack | Ghana | 9,624 |
 | 13 | [Eselase-Noble](https://github.com/Eselase-Noble) | Nobleson | Accra | 9,406 |
-| 14 | [evansachie](https://github.com/evansachie) | Evans Acheampong | Accra, Ghana | 9,348 |
-| 15 | [rloterh](https://github.com/rloterh) | Robert Loterh | Accra Ghana | 8,556 |
-| 16 | [seidu626](https://github.com/seidu626) | Seidu Abdulai | Ghana | 8,537 |
-| 17 | [worlakodzo](https://github.com/worlakodzo) | Worlako Dzokoto | GHANA | 8,363 |
-| 18 | [kelvinagyareyeboah](https://github.com/kelvinagyareyeboah) | Kelvin Agyare Yeboah | Accra | 8,288 |
-| 19 | [richprince23](https://github.com/richprince23) | Richard Kweku Aikins | Accra | 8,282 |
-| 20 | [AdamsEugene](https://github.com/AdamsEugene) | Adams Eugene | Ghana | 8,172 |
+| 14 | [Aliu2211](https://github.com/Aliu2211) | Aliu Tijani | Ghana | 9,365 |
+| 15 | [evansachie](https://github.com/evansachie) | Evans Acheampong | Accra, Ghana | 9,348 |
+| 16 | [rloterh](https://github.com/rloterh) | Robert Loterh | Accra Ghana | 8,556 |
+| 17 | [seidu626](https://github.com/seidu626) | Seidu Abdulai | Ghana | 8,537 |
+| 18 | [worlakodzo](https://github.com/worlakodzo) | Worlako Dzokoto | GHANA | 8,363 |
+| 19 | [kelvinagyareyeboah](https://github.com/kelvinagyareyeboah) | Kelvin Agyare Yeboah | Accra | 8,288 |
+| 20 | [richprince23](https://github.com/richprince23) | Richard Kweku Aikins | Accra | 8,282 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 7,094
 | 19 | [Mmabiaa](https://github.com/Mmabiaa) | Boateng Prince Agyenim | Ghana | 326 |
 | 20 | [sedegah](https://github.com/sedegah) | Kimathi  Sedegah | Ghana | 310 |
 
-Generated: 2026-10-16T19:37:50.130Z
+Generated: 2026-10-16T21:04:02.549Z

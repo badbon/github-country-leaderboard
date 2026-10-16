@@ -1,6 +1,6 @@
 # Total Contributions - Brunei
 
-Generated: 2026-10-16T19:21:39.840Z
+Generated: 2026-10-16T20:49:03.257Z
 
 Users: 254
 
@@ -16,7 +16,7 @@ Users: 254
 | 8 | [hilmishah](https://github.com/hilmishah) | Hilmi Shah |  |  | Brunei | 896 |
 | 9 | [KaramelBytes](https://github.com/KaramelBytes) | Jeremiah Henning |  |  | Brunei Darussalam | 833 |
 | 10 | [anwari-fikri](https://github.com/anwari-fikri) | Anwari Fikri |  |  | Brunei Darussalam | 686 |
-| 11 | [lmwnshn](https://github.com/lmwnshn) | Wan Shen Lim |  |  | San Francisco, CA \| Brunei | 608 |
+| 11 | [lmwnshn](https://github.com/lmwnshn) | Wan Shen Lim |  |  | San Francisco, CA \| Brunei | 604 |
 | 12 | [habibah-mahadi](https://github.com/habibah-mahadi) | Habibah Mahadi |  |  | Brunei Darussalam | 598 |
 | 13 | [nathanielcwm](https://github.com/nathanielcwm) | Nathaniel |  |  | Brunei | 587 |
 | 14 | [Qoyyuum](https://github.com/Qoyyuum) | Abdul Qoyyuum |  | Qoyyuum | Brunei Darussalam | 503 |

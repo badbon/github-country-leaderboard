@@ -1,6 +1,6 @@
 # Total Contributions - Slovenia
 
-Generated: 2026-10-16T18:56:48.883Z
+Generated: 2026-10-16T20:22:28.428Z
 
 Users: 3099
 
@@ -19,10 +19,10 @@ Users: 3099
 | 11 | [tfourj](https://github.com/tfourj) | Taj Tkalec |  |  | Slovenia | 9996 |
 | 12 | [baadc0de](https://github.com/baadc0de) | Bojan Šernek | @distopik | reactocode | Ljubljana, Slovenia | 8700 |
 | 13 | [pako999](https://github.com/pako999) | Patrik |  | patrikslovenia | Slovenia  | 8682 |
-| 14 | [vucinatim](https://github.com/vucinatim) | Tim Vučina | zerodays.dev |  | Ljubljana, Slovenia | 8637 |
-| 15 | [zprima](https://github.com/zprima) | Primož Žnidar | @poviolabs  |  | Slovenia | 8431 |
+| 14 | [zprima](https://github.com/zprima) | Primož Žnidar | @poviolabs  |  | Slovenia | 8672 |
+| 15 | [vucinatim](https://github.com/vucinatim) | Tim Vučina | zerodays.dev |  | Ljubljana, Slovenia | 8637 |
 | 16 | [mitjapotocin](https://github.com/mitjapotocin) | Mitja Potočin | Mediately |  | Ljubljana | 8383 |
-| 17 | [AKzar1el](https://github.com/AKzar1el) | Tommy | Solo | AKzar1el | Ljubljana, Slovenia | 7042 |
-| 18 | [omeratagunn](https://github.com/omeratagunn) | Ömer Atagün | SAP | OmerAtagun | Slovenia | 6861 |
-| 19 | [jurej1](https://github.com/jurej1) | Jure Jures |  |  | Slovenia | 6645 |
-| 20 | [some1else](https://github.com/some1else) | Srđan Prodanović |  |  | Slovenia | 6574 |
+| 17 | [dejanstrancar](https://github.com/dejanstrancar) | Dejan Strancar | Mediately |  | Slovenia | 7491 |
+| 18 | [AKzar1el](https://github.com/AKzar1el) | Tommy | Solo | AKzar1el | Ljubljana, Slovenia | 7042 |
+| 19 | [omeratagunn](https://github.com/omeratagunn) | Ömer Atagün | SAP | OmerAtagun | Slovenia | 6861 |
+| 20 | [jurej1](https://github.com/jurej1) | Jure Jures |  |  | Slovenia | 6645 |

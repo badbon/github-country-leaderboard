@@ -16,7 +16,7 @@ Indexed users: 325
 | 2 | [Shoneel](https://github.com/Shoneel) |  | Fiji, Suva  | 1,555 |
 | 3 | [Amdeo](https://github.com/Amdeo) | Cooper | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1,438 |
 | 4 | [felix-davui-679](https://github.com/felix-davui-679) | Filimone Davui | Fiji | 1,365 |
-| 5 | [krishneelkamalsingh](https://github.com/krishneelkamalsingh) | Krish | Fiji | 1,147 |
+| 5 | [krishneelkamalsingh](https://github.com/krishneelkamalsingh) | Krish | Fiji | 1,149 |
 | 6 | [crazybanboo](https://github.com/crazybanboo) | Ethan | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1,085 |
 | 7 | [jaclla](https://github.com/jaclla) | Logic | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1,031 |
 | 8 | [navneil-naicker](https://github.com/navneil-naicker) | Navneil Naicker | Suva City, Central, Fiji | 1,025 |
@@ -83,4 +83,4 @@ Indexed users: 325
 | 19 | [phpoh](https://github.com/phpoh) | phpoh | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 21 |
 | 20 | [alvinkumar18](https://github.com/alvinkumar18) | Alvin Kumar | Fiji | 18 |
 
-Generated: 2026-10-16T19:35:52.158Z
+Generated: 2026-10-16T21:01:41.650Z
