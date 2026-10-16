@@ -9343,7 +9343,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 87,
+    "privateContributions": 106,
     "publicContributions": 102,
     "createdAt": "2022-03-24T00:21:08Z"
   },
@@ -9474,8 +9474,8 @@
     "location": "Syria - Damascus ",
     "company": "OverZaki",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 1269,
+    "followers": 2,
+    "privateContributions": 1634,
     "publicContributions": 1,
     "createdAt": "2022-11-29T11:45:51Z"
   },
@@ -9523,8 +9523,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 224,
-    "publicContributions": 71,
+    "privateContributions": 258,
+    "publicContributions": 70,
     "createdAt": "2022-12-11T10:11:52Z"
   },
   {
@@ -17758,5 +17758,17 @@
     "privateContributions": 230,
     "publicContributions": 82,
     "createdAt": "2018-09-10T17:18:35Z"
+  },
+  {
+    "login": "HazemMeqdad",
+    "name": "HazemMeqdad",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/66125469?s=72&u=e02d7380c8981683d0ff04b6eee41509d22ec51b&v=4",
+    "location": "Syria",
+    "company": "MOI",
+    "twitterUsername": "HazemMeqdad",
+    "followers": 55,
+    "privateContributions": 99,
+    "publicContributions": 37,
+    "createdAt": "2020-05-29T13:29:56Z"
   }
 ]

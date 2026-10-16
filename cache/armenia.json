@@ -27295,7 +27295,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 1916,
+    "privateContributions": 1872,
     "publicContributions": 0,
     "createdAt": "2018-11-07T19:17:40Z"
   },
@@ -27307,8 +27307,8 @@
     "company": "JetBrains",
     "twitterUsername": "pupptmstr2",
     "followers": 4,
-    "privateContributions": 218,
-    "publicContributions": 105,
+    "privateContributions": 557,
+    "publicContributions": 222,
     "createdAt": "2018-04-27T11:37:58Z"
   },
   {
@@ -27356,7 +27356,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 74,
+    "publicContributions": 41,
     "createdAt": "2018-11-02T07:57:54Z"
   },
   {
@@ -27368,7 +27368,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 3,
     "createdAt": "2018-03-27T23:33:14Z"
   },
   {
@@ -27439,7 +27439,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 7,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-06-17T14:16:17Z"
   },
@@ -27466,18 +27466,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-11-12T12:22:33Z"
-  },
-  {
-    "login": "posadvladimir",
-    "name": "Vladimir P.",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/41870041?s=72&v=4",
-    "location": "Yerevan",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2018-07-29T15:18:08Z"
   },
   {
     "login": "tatev893",

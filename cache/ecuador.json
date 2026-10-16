@@ -27282,9 +27282,9 @@
     "location": "Ecuador",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 7,
-    "publicContributions": 2,
+    "followers": 3,
+    "privateContributions": 6,
+    "publicContributions": 0,
     "createdAt": "2020-06-05T14:19:26Z"
   },
   {
@@ -27296,7 +27296,7 @@
     "twitterUsername": "unh0lyalexzero",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 14,
     "createdAt": "2020-07-05T03:13:52Z"
   },
   {
@@ -27307,7 +27307,7 @@
     "company": "@stackbuilders ",
     "twitterUsername": "4lejo0o",
     "followers": 2,
-    "privateContributions": 132,
+    "privateContributions": 318,
     "publicContributions": 0,
     "createdAt": "2020-02-05T02:42:12Z"
   },
@@ -27320,20 +27320,8 @@
     "twitterUsername": "ronnycontento95",
     "followers": 2,
     "privateContributions": 49,
-    "publicContributions": 9,
+    "publicContributions": 8,
     "createdAt": "2020-09-16T00:41:16Z"
-  },
-  {
-    "login": "hopeitcompiles",
-    "name": "Cristhian Castro",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/73175815?s=72&u=8f5071cc45d8796fdf333caa52086283b0ff9655&v=4",
-    "location": "Ecuador",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2020-10-20T12:35:35Z"
   },
   {
     "login": "WilianNieves",
@@ -27343,7 +27331,7 @@
     "company": "KARNATAKA S.A.",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 372,
+    "privateContributions": 495,
     "publicContributions": 8,
     "createdAt": "2020-07-07T14:05:21Z"
   },
@@ -27379,8 +27367,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 46,
-    "publicContributions": 4,
+    "privateContributions": 36,
+    "publicContributions": 0,
     "createdAt": "2020-06-01T01:23:27Z"
   },
   {
@@ -27427,8 +27415,8 @@
     "company": "Incyte",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1110,
-    "publicContributions": 19,
+    "privateContributions": 1235,
+    "publicContributions": 21,
     "createdAt": "2020-06-19T04:04:57Z"
   },
   {
@@ -27439,8 +27427,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1400,
-    "publicContributions": 26,
+    "privateContributions": 2167,
+    "publicContributions": 29,
     "createdAt": "2020-07-02T22:05:34Z"
   },
   {
@@ -27450,7 +27438,7 @@
     "location": "Ecuador",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-02-19T16:47:55Z"
@@ -27499,7 +27487,7 @@
     "company": "Software developer |  Data scientist",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 17,
+    "privateContributions": 88,
     "publicContributions": 0,
     "createdAt": "2020-04-26T22:07:10Z"
   },

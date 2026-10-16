@@ -26887,8 +26887,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 3988,
-    "publicContributions": 178,
+    "privateContributions": 4103,
+    "publicContributions": 406,
     "createdAt": "2022-12-23T13:55:57Z"
   },
   {
@@ -26900,7 +26900,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 24,
     "createdAt": "2022-07-03T20:04:11Z"
   },
   {
@@ -26911,8 +26911,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 282,
-    "publicContributions": 208,
+    "privateContributions": 224,
+    "publicContributions": 193,
     "createdAt": "2022-03-15T11:32:58Z"
   },
   {
@@ -26923,8 +26923,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 18,
-    "publicContributions": 402,
+    "privateContributions": 116,
+    "publicContributions": 393,
     "createdAt": "2022-12-01T11:36:59Z"
   },
   {
@@ -26935,8 +26935,8 @@
     "company": "",
     "twitterUsername": "tiredwork",
     "followers": 2,
-    "privateContributions": 6,
-    "publicContributions": 208,
+    "privateContributions": 0,
+    "publicContributions": 173,
     "createdAt": "2022-11-10T09:59:28Z"
   },
   {
@@ -26960,7 +26960,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 1,
     "createdAt": "2022-03-04T14:09:39Z"
   },
   {
@@ -26996,7 +26996,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 14,
     "createdAt": "2022-04-04T08:34:24Z"
   },
   {
@@ -27008,7 +27008,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 423,
+    "publicContributions": 377,
     "createdAt": "2022-10-22T22:15:14Z"
   },
   {
@@ -27020,7 +27020,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 102,
+    "publicContributions": 162,
     "createdAt": "2022-01-03T12:49:56Z"
   },
   {
@@ -27068,31 +27068,19 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 23,
     "createdAt": "2022-08-15T16:15:49Z"
-  },
-  {
-    "login": "ANIALLATOR114",
-    "name": "Niall",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/116189545?s=72&u=e65f3eb1671e19ef03d7a9619dfc08e9103100e7&v=4",
-    "location": "Ireland",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 61,
-    "createdAt": "2022-10-19T15:29:53Z"
   },
   {
     "login": "JulioMaciasS",
     "name": "Julio Macias Gonzalez",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/115091521?s=72&u=12fb7b5e74367d0cd2ace57fc1f7bc8d3a286799&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/115091521?s=72&u=4bd4044ac763179e65eefd1ef0f239d126d7bb79&v=4",
     "location": "Dublin, Ireland",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 637,
-    "publicContributions": 206,
+    "followers": 3,
+    "privateContributions": 3804,
+    "publicContributions": 254,
     "createdAt": "2022-10-05T14:06:18Z"
   },
   {
@@ -27102,7 +27090,7 @@
     "location": "Dublin, Ireland",
     "company": "UCD",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-06-02T02:20:21Z"
@@ -27112,7 +27100,7 @@
     "name": "Martin Kozel",
     "avatarUrl": "https://avatars.githubusercontent.com/u/116343397?s=72&u=8161d0db024f04010e2f0a2864597430ffb75216&v=4",
     "location": "Carlow, Ireland",
-    "company": "South East Technological University",
+    "company": "",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,

@@ -27176,7 +27176,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 7,
     "createdAt": "2022-08-11T15:12:43Z"
   },
   {
@@ -27186,9 +27186,9 @@
     "location": "Austria",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 81,
+    "publicContributions": 94,
     "createdAt": "2022-12-14T11:58:51Z"
   },
   {
@@ -27284,7 +27284,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 1,
     "createdAt": "2022-02-20T17:59:31Z"
   },
   {
@@ -27332,7 +27332,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 1,
     "createdAt": "2022-11-28T11:11:10Z"
   },
   {
@@ -27344,7 +27344,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 2,
-    "publicContributions": 61,
+    "publicContributions": 56,
     "createdAt": "2022-09-27T07:49:13Z"
   },
   {
@@ -27378,9 +27378,9 @@
     "location": "Austria/Vienna",
     "company": "BizBos e.U.",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 16,
     "createdAt": "2022-04-21T08:08:15Z"
   },
   {
@@ -219034,5 +219034,29 @@
     "privateContributions": 640,
     "publicContributions": 20,
     "createdAt": "2018-10-25T12:13:25Z"
+  },
+  {
+    "login": "chewiesy",
+    "name": "Kateryna Sydorenko",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/297927894?s=72&u=e9472dab970cb98ff27387163f745d272183bc97&v=4",
+    "location": "Austria ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2026-06-29T13:39:07Z"
+  },
+  {
+    "login": "nanoazure-eu",
+    "name": "Nanoazure",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/297746231?s=72&u=692386abd19624a98f5512126e9128ab42b6b4de&v=4",
+    "location": "Austria",
+    "company": "Nanoazure",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2026-06-29T00:45:28Z"
   }
 ]

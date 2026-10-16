@@ -26876,7 +26876,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 0,
     "createdAt": "2024-02-05T23:15:50Z"
   },
   {
@@ -26888,7 +26888,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 49,
+    "publicContributions": 31,
     "createdAt": "2024-03-26T19:27:12Z"
   },
   {
@@ -26922,9 +26922,9 @@
     "location": "Argentina, Buenos Aires, San Isidro",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 115,
-    "publicContributions": 243,
+    "followers": 3,
+    "privateContributions": 117,
+    "publicContributions": 242,
     "createdAt": "2024-02-19T06:07:58Z"
   },
   {
@@ -27008,7 +27008,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 5,
     "createdAt": "2024-03-07T22:14:37Z"
   },
   {
@@ -27040,11 +27040,11 @@
     "name": "Nahuel Soria",
     "avatarUrl": "https://avatars.githubusercontent.com/u/157411216?s=72&u=0ff9c6f8701e399714a2e22d2b6d47818ef8d41c&v=4",
     "location": "Argentina",
-    "company": "CondorOTC",
+    "company": "Asked Thrice",
     "twitterUsername": "nahhwe",
-    "followers": 1,
-    "privateContributions": 6380,
-    "publicContributions": 148,
+    "followers": 3,
+    "privateContributions": 9579,
+    "publicContributions": 245,
     "createdAt": "2024-01-22T18:39:09Z"
   },
   {
@@ -27068,20 +27068,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 73,
+    "publicContributions": 80,
     "createdAt": "2024-01-07T20:36:34Z"
-  },
-  {
-    "login": "natanaheldr",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/156153970?s=72&u=101d9328b1666c1bc1ea756b97e9d125e756feca&v=4",
-    "location": "ARGENTINA",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 24,
-    "createdAt": "2024-01-10T02:47:40Z"
   },
   {
     "login": "JuanBona",
@@ -27090,9 +27078,9 @@
     "location": "Argentina",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 248,
     "createdAt": "2024-01-02T21:59:17Z"
   },
   {

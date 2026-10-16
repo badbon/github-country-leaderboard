@@ -27151,7 +27151,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 23,
+    "privateContributions": 16,
     "publicContributions": 0,
     "createdAt": "2022-07-02T10:38:06Z"
   },
@@ -27170,13 +27170,13 @@
   {
     "login": "brvigne",
     "name": "Brandon Vigne",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/121450062?s=72&u=0daf072c6601015ef0393835d378c94e387888a8&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/121450062?s=72&u=6cfde5606100c2808f48555af5a0ac36e9b87e49&v=4",
     "location": "Belgium",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 15,
     "createdAt": "2022-12-26T16:24:46Z"
   },
   {
@@ -27187,7 +27187,7 @@
     "company": "NitrousDigital",
     "twitterUsername": "NitrousBGC",
     "followers": 1,
-    "privateContributions": 303,
+    "privateContributions": 1078,
     "publicContributions": 1,
     "createdAt": "2022-07-02T13:31:32Z"
   },
@@ -27199,21 +27199,9 @@
     "company": "@Invoid-Vision ",
     "twitterUsername": "nonvoider",
     "followers": 1,
-    "privateContributions": 11310,
+    "privateContributions": 14595,
     "publicContributions": 0,
     "createdAt": "2022-04-28T11:18:02Z"
-  },
-  {
-    "login": "Valaex",
-    "name": "Jérôme Knops",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/109312090?s=72&u=69a85b93d375a4d0eb04fc094d41fddea4ea6ab2&v=4",
-    "location": "Belgium",
-    "company": "Jérôme Knops",
-    "twitterUsername": "Valaexx",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2022-07-14T19:50:04Z"
   },
   {
     "login": "guii-cyber",
@@ -27223,8 +27211,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 218,
-    "publicContributions": 35,
+    "privateContributions": 58,
+    "publicContributions": 29,
     "createdAt": "2022-07-10T14:22:15Z"
   },
   {
@@ -27248,7 +27236,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 92,
     "createdAt": "2022-07-07T06:16:52Z"
   },
   {
@@ -27307,7 +27295,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 25,
+    "privateContributions": 9,
     "publicContributions": 5,
     "createdAt": "2022-10-07T10:06:02Z"
   },
@@ -27330,8 +27318,8 @@
     "location": "Belgium",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
+    "followers": 2,
+    "privateContributions": 174,
     "publicContributions": 0,
     "createdAt": "2022-11-30T10:40:48Z"
   },
@@ -27343,8 +27331,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 480,
-    "publicContributions": 6,
+    "privateContributions": 950,
+    "publicContributions": 46,
     "createdAt": "2022-03-12T15:54:27Z"
   },
   {
@@ -27366,9 +27354,9 @@
     "location": "Gent, Belgium",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 333,
+    "publicContributions": 558,
     "createdAt": "2022-11-23T01:27:39Z"
   },
   {

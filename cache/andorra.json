@@ -1232,7 +1232,7 @@
     "twitterUsername": "erisco_and",
     "followers": 130,
     "privateContributions": 0,
-    "publicContributions": 32100,
+    "publicContributions": 34254,
     "createdAt": "2016-06-27T09:28:06Z"
   },
   {
@@ -1279,7 +1279,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 14,
-    "privateContributions": 814,
+    "privateContributions": 816,
     "publicContributions": 82,
     "createdAt": "2016-06-17T20:37:11Z"
   },
@@ -1291,7 +1291,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 15,
-    "privateContributions": 1225,
+    "privateContributions": 1235,
     "publicContributions": 2,
     "createdAt": "2016-06-02T10:43:15Z"
   },
@@ -1339,7 +1339,7 @@
     "company": "JMarques Solucions",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 937,
+    "privateContributions": 938,
     "publicContributions": 30,
     "createdAt": "2016-10-10T18:14:34Z"
   },
@@ -1423,7 +1423,7 @@
     "company": "",
     "twitterUsername": "facundomedica",
     "followers": 93,
-    "privateContributions": 568,
+    "privateContributions": 571,
     "publicContributions": 32,
     "createdAt": "2015-08-31T22:30:52Z"
   },
@@ -2566,5 +2566,17 @@
     "privateContributions": 112,
     "publicContributions": 2,
     "createdAt": "2024-05-21T15:10:34Z"
+  },
+  {
+    "login": "Valaex",
+    "name": "Jérôme Knops",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/109312090?s=72&u=6e6518cd6917fd16064383074dac3daa059d93a1&v=4",
+    "location": "Andorra",
+    "company": "Jérôme Knops",
+    "twitterUsername": "Valaexx",
+    "followers": 1,
+    "privateContributions": 1367,
+    "publicContributions": 0,
+    "createdAt": "2022-07-14T19:50:04Z"
   }
 ]
