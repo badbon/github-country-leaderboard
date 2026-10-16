@@ -1,6 +1,6 @@
 # Followers - Guatemala
 
-Generated: 2026-10-16T15:49:25.418Z
+Generated: 2026-10-16T18:11:49.994Z
 
 Users: 3218
 
@@ -17,8 +17,8 @@ Users: 3218
 | 9 | [sergioarmgpl](https://github.com/sergioarmgpl) | Sergio Méndez | USAC | sergioarmgpl | Guatemala | 171 |
 | 10 | [luisespino](https://github.com/luisespino) | Luis Espino | Universidad de San Carlos de Guatemala |  | Guatemala | 170 |
 | 11 | [RandolphVI](https://github.com/RandolphVI) | Randolph |  |  | Guatemala | 162 |
-| 12 | [XaviAlvarado18](https://github.com/XaviAlvarado18) | Javier Alvarado | Universidad del Valle de Guatemala |  | Guatemala | 160 |
-| 13 | [ericknavarro](https://github.com/ericknavarro) | Erick Navarro |  |  | Guatemala | 159 |
+| 12 | [ericknavarro](https://github.com/ericknavarro) | Erick Navarro |  |  | Guatemala | 160 |
+| 13 | [XaviAlvarado18](https://github.com/XaviAlvarado18) | Javier Alvarado | Universidad del Valle de Guatemala |  | Guatemala | 160 |
 | 14 | [jinchuika](https://github.com/jinchuika) | Luis Carlos | PatientPoint Technologies |  | Guatemala | 136 |
 | 15 | [brandonT2002](https://github.com/brandonT2002) | Brandon Tejaxún | Universidad San Carlos de Guatemala | BrandonT1002 | Guatemala | 125 |
 | 16 | [luislopez-dev](https://github.com/luislopez-dev) | Luis René López  | Pharmaceutical industry |  | Guatemala | 123 |

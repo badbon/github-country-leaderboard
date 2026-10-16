@@ -1,12 +1,12 @@
 # Followers - Caribbean Netherlands
 
-Generated: 2026-10-16T15:35:07.335Z
+Generated: 2026-10-16T17:58:15.334Z
 
 Users: 13
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [Blossoming-Truth](https://github.com/Blossoming-Truth) | ✦ . Viv/Viverie ! | ✦ . ALL OF MY FRENS ILY !! MY BSFS? ILYSM !! bro pls dont wever quit |  | Usually with frens/alone ., but find me in the bottom right corner of map ! Or anywhere idk | 140 |
+| 1 | [Blossoming-Truth](https://github.com/Blossoming-Truth) | ✦ . Viv/Viverie ! | ✦ . ALL OF MY FRENS ILY !! MY BSFS? ILYSM !! bro pls dont wever quit |  | Usually with frens/alone ., but find me in the bottom right corner of map ! Or anywhere idk | 141 |
 | 2 | [Snowbugs](https://github.com/Snowbugs) | Soli / Basil !! | tkn by @rottingnightshade & @puppyparasite <3 ily both sm mwah @melatoningummys @basilsphotoalbum @buddysimulator1984 -> also me |  | Fence at the bottom of hill  ᯓ★ | 90 |
 | 3 | [IanLKaplan](https://github.com/IanLKaplan) | Ian Kaplan | Topstone Software Consulting |  | Bonaire, Caribbean Netherlands  | 37 |
 | 4 | [buriedviolin](https://github.com/buriedviolin) | ̣̣     　kel!  　　        ⑅⑅ |  |  | fence at the bottom of hermithill | 21 |

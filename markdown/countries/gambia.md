@@ -56,7 +56,7 @@ Indexed users: 79
 | 17 | [yusjeng21](https://github.com/yusjeng21) | Yusupha Jeng  | Banjul, The Gambia | 48 |
 | 18 | [mustaphaDarbo](https://github.com/mustaphaDarbo) | Mustapha_Darboe | Gambia | 44 |
 | 19 | [K-DIBASSY](https://github.com/K-DIBASSY) | Kemo Dibassy | Banjul, The Gambia | 41 |
-| 20 | [FrancisMario](https://github.com/FrancisMario) | Marxlo | Gambia | 33 |
+| 20 | [Sirhino](https://github.com/Sirhino) | Imwealthman | United State,Gambia | 34 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 79
 | 19 | [nyassian](https://github.com/nyassian) | EBRIMA NYASSI | Banjul,THE GAMBIA | 8 |
 | 20 | [cyberdavinci](https://github.com/cyberdavinci) | CyberDavinci | Gambia | 7 |
 
-Generated: 2026-10-16T15:48:01.299Z
+Generated: 2026-10-16T18:10:04.582Z

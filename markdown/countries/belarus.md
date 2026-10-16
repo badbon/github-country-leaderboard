@@ -1,6 +1,6 @@
 # Belarus
 
-Indexed users: 10,936
+Indexed users: 10,935
 
 | Leaderboard | Link |
 |---|---|
@@ -12,7 +12,7 @@ Indexed users: 10,936
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [kudima03](https://github.com/kudima03) | Dmitry Kurochkin | Minsk, Belarus | 14,885 |
+| 1 | [kudima03](https://github.com/kudima03) | Dmitry Kurochkin | Minsk, Belarus | 19,427 |
 | 2 | [AndreiDrang](https://github.com/AndreiDrang) | Andrei | Minsk | 14,416 |
 | 3 | [masasibata](https://github.com/masasibata) | Artem | Belarus | 12,224 |
 | 4 | [jakwuh](https://github.com/jakwuh) | James | Belarus | 11,999 |
@@ -37,7 +37,7 @@ Indexed users: 10,936
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [kudima03](https://github.com/kudima03) | Dmitry Kurochkin | Minsk, Belarus | 13,765 |
+| 1 | [kudima03](https://github.com/kudima03) | Dmitry Kurochkin | Minsk, Belarus | 17,878 |
 | 2 | [dementorsss](https://github.com/dementorsss) | Dmitry | Minsk | 4,909 |
 | 3 | [Bayselonarrend](https://github.com/Bayselonarrend) | Anton Titovets | Minsk, Belarus | 4,103 |
 | 4 | [kirich1409](https://github.com/kirich1409) | Kirill Rozov | Grodno, Belarus | 3,364 |
@@ -83,4 +83,4 @@ Indexed users: 10,936
 | 19 | [dillidon](https://github.com/dillidon) | RV | Belarus | 183 |
 | 20 | [alexzhirkevich](https://github.com/alexzhirkevich) | Alexander Zhirkevich | Belarus, Minsk | 161 |
 
-Generated: 2026-10-16T15:27:18.129Z
+Generated: 2026-10-16T17:50:49.365Z

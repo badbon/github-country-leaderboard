@@ -1,14 +1,14 @@
 # Total Contributions - Uganda
 
-Generated: 2026-10-16T15:15:58.832Z
+Generated: 2026-10-16T17:36:16.129Z
 
 Users: 3871
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [alsong](https://github.com/alsong) | Oburusule Dunstan |  |  | Kampala, Uganda | 13712 |
-| 2 | [BAGOMBEKA-JOB-DEV](https://github.com/BAGOMBEKA-JOB-DEV) | BAGOMBEKA JOB | @SMSONE  |  | KAMPALA, UGANDA | 11947 |
-| 3 | [obalaweb](https://github.com/obalaweb) | Obala Joseph Ivan | @codprez | obalaJivan | Gulu, Uganda | 11691 |
+| 1 | [obalaweb](https://github.com/obalaweb) | Obala Joseph Ivan | @codprez | obalaJivan | Gulu, Uganda | 15342 |
+| 2 | [alsong](https://github.com/alsong) | Oburusule Dunstan |  |  | Kampala, Uganda | 13712 |
+| 3 | [BAGOMBEKA-JOB-DEV](https://github.com/BAGOMBEKA-JOB-DEV) | BAGOMBEKA JOB | @SMSONE  |  | KAMPALA, UGANDA | 11947 |
 | 4 | [pius22](https://github.com/pius22) | TECH-WORLDINFO | TECH-WORLDINFO |  | uganda | 11416 |
 | 5 | [peterbamuhigire](https://github.com/peterbamuhigire) | Peter Bamuhigire | Peter Bamuhigire | peterbamu | Kampala, Uganda | 10913 |
 | 6 | [kallyas](https://github.com/kallyas) | Iden | @SolitonTelmecUganda  | kallyasl | Uganda | 10474 |
@@ -24,5 +24,5 @@ Users: 3871
 | 16 | [GaspardKirira](https://github.com/GaspardKirira) | G-kirira | @vixcpp @softadastra | g_kirira | Africa / Uganda / Kampala | 7825 |
 | 17 | [baliksjosay](https://github.com/baliksjosay) | Joseph Balikuddembe | GDExperts LTD | BaliksJoseph | Kampala, uganda | 7753 |
 | 18 | [judeotine](https://github.com/judeotine) | Judeotine |  | Judeotine | Uganda | 7440 |
-| 19 | [cosmah](https://github.com/cosmah) | cosmah | CosMc technologies | cosmah_l | kampala, Uganda | 7177 |
-| 20 | [amkayondo](https://github.com/amkayondo) | Kayondo Edward | @opensource-now @open-nux @nuxjs @wearedelovery | kayondoedward | Kampala, Uganda | 7153 |
+| 19 | [sharif-smj](https://github.com/sharif-smj) | SHARIF |  | SharifSemujju | Kampala Uganda | 7365 |
+| 20 | [cosmah](https://github.com/cosmah) | cosmah | CosMc technologies | cosmah_l | kampala, Uganda | 7177 |

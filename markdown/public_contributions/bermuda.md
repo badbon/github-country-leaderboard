@@ -1,6 +1,6 @@
 # Public Contributions - Bermuda
 
-Generated: 2026-10-16T15:28:39.758Z
+Generated: 2026-10-16T17:52:51.123Z
 
 Users: 898
 
@@ -10,19 +10,19 @@ Users: 898
 | 2 | [rdaum](https://github.com/rdaum) | Ryan Daum |  |  | Hamilton, Ontario | 5130 |
 | 3 | [wittjosiah](https://github.com/wittjosiah) | Josiah Witt | @dxos |  | Hamilton, ON | 2580 |
 | 4 | [bbolker](https://github.com/bbolker) | Ben Bolker | McMaster University |  | Hamilton, Ontario | 2058 |
-| 5 | [Justype](https://github.com/Justype) | Cheng |  |  | Hamilton | 1394 |
+| 5 | [Justype](https://github.com/Justype) | Cheng |  |  | Hamilton | 1398 |
 | 6 | [wesbos](https://github.com/wesbos) | Wes Bos | me | wesbos | Hamilton, Ontario | 1384 |
 | 7 | [kevinAlbs](https://github.com/kevinAlbs) | Kevin Albertson |  |  | Hamilton, NJ | 1368 |
 | 8 | [grantlucas](https://github.com/grantlucas) | Grant Lucas | @hostpapa  |  | Hamilton, Ontario | 1289 |
 | 9 | [tridibbanik17](https://github.com/tridibbanik17) | Tridib Banik | McMaster University |  | Hamilton, ON | 1255 |
 | 10 | [danielmiguel02](https://github.com/danielmiguel02) | Daniel Miguel |  |  | Hamilton - ON | 1005 |
 | 11 | [kadgitub7](https://github.com/kadgitub7) | Kadhir Ponnambalam |  |  | Hamilton Ontario | 893 |
-| 12 | [obeabi](https://github.com/obeabi) | David_Abiola_Obembe |  |  | Hamilton, Ontario | 853 |
-| 13 | [nvelden](https://github.com/nvelden) |  |  |  | Hamilton, Bermuda | 806 |
+| 12 | [obeabi](https://github.com/obeabi) | David_Abiola_Obembe |  |  | Hamilton, Ontario | 866 |
+| 13 | [nvelden](https://github.com/nvelden) |  |  |  | Hamilton, Bermuda | 818 |
 | 14 | [DesktopECHO](https://github.com/DesktopECHO) |  |  |  | Hamilton, Bermuda | 781 |
 | 15 | [clintandrewhall](https://github.com/clintandrewhall) | Clint Andrew Hall | Elastic | clintandrewhall | Hamilton, ON | 710 |
 | 16 | [AymenS02](https://github.com/AymenS02) | Aymen Shoteri | McMaster University CS + Math |  | Hamilton, Ontario | 598 |
 | 17 | [bjornbasar](https://github.com/bjornbasar) | Bjorn Christian Basar |  |  | Hamilton | 562 |
 | 18 | [miamioh-roseaw](https://github.com/miamioh-roseaw) | Anthony W Rose | Miami University | roseaw | Oxford, OH, Hamilton, OH | 518 |
-| 19 | [robkumarrr](https://github.com/robkumarrr) | Rob Kumar | @vehikl |  | Hamilton, ON | 476 |
+| 19 | [robkumarrr](https://github.com/robkumarrr) | Rob Kumar | @vehikl |  | Hamilton, ON | 492 |
 | 20 | [vjhawar12](https://github.com/vjhawar12) | Vedant Jhawar | McMaster University |  | Hamilton, ON | 468 |

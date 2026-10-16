@@ -24,14 +24,14 @@ Indexed users: 3,218
 | 10 | [MarioAndF](https://github.com/MarioAndF) | Mario A Flores | Guatemala | 6,585 |
 | 11 | [edman-cota](https://github.com/edman-cota) | edmancota | Guatemala | 6,100 |
 | 12 | [Esaban17](https://github.com/Esaban17) | Estuardo Saban | Guatemala | 5,978 |
-| 13 | [marcoleejr](https://github.com/marcoleejr) | Marco Lee | Guatemala | 5,506 |
-| 14 | [damianpeaf](https://github.com/damianpeaf) | Damián Peña | Guatemala | 5,493 |
-| 15 | [kenny08gt](https://github.com/kenny08gt) | Alan Hurtarte | Guatemala city, Guatemala | 5,488 |
-| 16 | [jrodas4044](https://github.com/jrodas4044) | Jonhathan Rolando Rodas López | Chimaltenango/Guatemala | 5,446 |
-| 17 | [fcpauldiaz](https://github.com/fcpauldiaz) | Pablo Díaz | Guatemala | 5,250 |
-| 18 | [Mgodoyd](https://github.com/Mgodoyd) | MARIO   GODOY | Guatemala | 4,898 |
-| 19 | [wmsales](https://github.com/wmsales) | Wilson Sales | Guatemala | 4,898 |
-| 20 | [JoseMan200124](https://github.com/JoseMan200124) | José Daniel Man Castellanos | Guatemala | 4,702 |
+| 13 | [FR98](https://github.com/FR98) | Francisco Rosal | Guatemala | 5,671 |
+| 14 | [marcoleejr](https://github.com/marcoleejr) | Marco Lee | Guatemala | 5,506 |
+| 15 | [damianpeaf](https://github.com/damianpeaf) | Damián Peña | Guatemala | 5,493 |
+| 16 | [kenny08gt](https://github.com/kenny08gt) | Alan Hurtarte | Guatemala city, Guatemala | 5,488 |
+| 17 | [jrodas4044](https://github.com/jrodas4044) | Jonhathan Rolando Rodas López | Chimaltenango/Guatemala | 5,446 |
+| 18 | [fcpauldiaz](https://github.com/fcpauldiaz) | Pablo Díaz | Guatemala | 5,250 |
+| 19 | [Mgodoyd](https://github.com/Mgodoyd) | MARIO   GODOY | Guatemala | 4,898 |
+| 20 | [wmsales](https://github.com/wmsales) | Wilson Sales | Guatemala | 4,898 |
 
 ## Public Contributions
 
@@ -73,8 +73,8 @@ Indexed users: 3,218
 | 9 | [sergioarmgpl](https://github.com/sergioarmgpl) | Sergio Méndez | Guatemala | 171 |
 | 10 | [luisespino](https://github.com/luisespino) | Luis Espino | Guatemala | 170 |
 | 11 | [RandolphVI](https://github.com/RandolphVI) | Randolph | Guatemala | 162 |
-| 12 | [XaviAlvarado18](https://github.com/XaviAlvarado18) | Javier Alvarado | Guatemala | 160 |
-| 13 | [ericknavarro](https://github.com/ericknavarro) | Erick Navarro | Guatemala | 159 |
+| 12 | [ericknavarro](https://github.com/ericknavarro) | Erick Navarro | Guatemala | 160 |
+| 13 | [XaviAlvarado18](https://github.com/XaviAlvarado18) | Javier Alvarado | Guatemala | 160 |
 | 14 | [jinchuika](https://github.com/jinchuika) | Luis Carlos | Guatemala | 136 |
 | 15 | [brandonT2002](https://github.com/brandonT2002) | Brandon Tejaxún | Guatemala | 125 |
 | 16 | [luislopez-dev](https://github.com/luislopez-dev) | Luis René López  | Guatemala | 123 |
@@ -83,4 +83,4 @@ Indexed users: 3,218
 | 19 | [cms](https://github.com/cms) | Christian C. Salvadó | Guatemala | 117 |
 | 20 | [tian2992](https://github.com/tian2992) | Sebastian Oliva | Guatemala | 114 |
 
-Generated: 2026-10-16T15:49:25.418Z
+Generated: 2026-10-16T18:11:49.994Z

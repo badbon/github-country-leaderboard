@@ -15,10 +15,10 @@ Indexed users: 2,039
 | 1 | [mpinzile](https://github.com/mpinzile) | David Mpinzile | Arusha, Tanzania  | 178,570 |
 | 2 | [KaReeeeeeeeEM](https://github.com/KaReeeeeeeeEM) | _running_program |  Dar-es-salaam, Tanzania | 123,960 |
 | 3 | [nyandajr](https://github.com/nyandajr) | Nyanda Freddy | Tanzania | 53,229 |
-| 4 | [johnson2006christopher](https://github.com/johnson2006christopher) | Johnson Christopher Hassan | Mbeya,Tanzania | 25,054 |
-| 5 | [zuck30](https://github.com/zuck30) | Shadrackovsky | Tanzania | 18,257 |
-| 6 | [raydanielg](https://github.com/raydanielg) | Ezra Daniel Gyunda | Tanzania | 18,171 |
-| 7 | [cleven12](https://github.com/cleven12) | cleven | Tanzania | 17,597 |
+| 4 | [johnson2006christopher](https://github.com/johnson2006christopher) | Johnson Christopher Hassan | Mbeya,Tanzania | 27,470 |
+| 5 | [raydanielg](https://github.com/raydanielg) | Ezra Daniel Gyunda | Tanzania | 18,171 |
+| 6 | [cleven12](https://github.com/cleven12) | cleven | Tanzania | 18,101 |
+| 7 | [zuck30](https://github.com/zuck30) | Shadrackovsky | Tanzania | 17,873 |
 | 8 | [fredy-me](https://github.com/fredy-me) | Melkizedek Fredy | Dar Es Salaam, Tanzania | 14,251 |
 | 9 | [Lurgic-error](https://github.com/Lurgic-error) | Lurge | Tanzania, Dar es salaam | 13,070 |
 | 10 | [tarxemo](https://github.com/tarxemo) | TarXemo | Dodoma-Tanzania | 11,527 |
@@ -38,15 +38,15 @@ Indexed users: 2,039
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [nyandajr](https://github.com/nyandajr) | Nyanda Freddy | Tanzania | 53,229 |
-| 2 | [cleven12](https://github.com/cleven12) | cleven | Tanzania | 11,609 |
+| 2 | [cleven12](https://github.com/cleven12) | cleven | Tanzania | 11,589 |
 | 3 | [raydanielg](https://github.com/raydanielg) | Ezra Daniel Gyunda | Tanzania | 10,972 |
 | 4 | [fmwasekaga](https://github.com/fmwasekaga) | Fredrick Lusako Mwasekaga | Tanzania | 8,875 |
 | 5 | [alobit21](https://github.com/alobit21) | Aloyce Mtavangu | Dodoma-Tanzania | 6,003 |
 | 6 | [Lazackdevs](https://github.com/Lazackdevs) | Lazack_28 | dodoma | 4,314 |
-| 7 | [Barakael](https://github.com/Barakael) | barakael | Dar-es-salaam, Tanzania | 3,011 |
-| 8 | [APKnation](https://github.com/APKnation) | apk | DODOMA -TANZANIA | 2,966 |
+| 7 | [APKnation](https://github.com/APKnation) | apk | DODOMA -TANZANIA | 3,061 |
+| 8 | [Barakael](https://github.com/Barakael) | barakael | Dar-es-salaam, Tanzania | 3,011 |
 | 9 | [ALTUM-02](https://github.com/ALTUM-02) | Altum02 | Dodoma - Tanzania | 2,851 |
-| 10 | [zuck30](https://github.com/zuck30) | Shadrackovsky | Tanzania | 2,543 |
+| 10 | [zuck30](https://github.com/zuck30) | Shadrackovsky | Tanzania | 2,351 |
 | 11 | [wizystudios](https://github.com/wizystudios) | khalifa Nadhir | tanzania | 1,952 |
 | 12 | [troubleman96](https://github.com/troubleman96) | Lugenge Emmanuel | Dar es Salaam ,Tanzania | 1,923 |
 | 13 | [klaus-gudy](https://github.com/klaus-gudy) | Goodluck Madadi | Tanzania | 1,893 |
@@ -83,4 +83,4 @@ Indexed users: 2,039
 | 19 | [3nock](https://github.com/3nock) | Enock | Dar es Salaam, Tanzania | 188 |
 | 20 | [Mrhanstz](https://github.com/Mrhanstz) | HANSTZ | Africa Dodoma | 179 |
 
-Generated: 2026-10-16T15:11:45.731Z
+Generated: 2026-10-16T17:32:31.232Z

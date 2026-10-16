@@ -1,6 +1,6 @@
 # Total Contributions - Tanzania
 
-Generated: 2026-10-16T15:11:45.731Z
+Generated: 2026-10-16T17:32:31.232Z
 
 Users: 2039
 
@@ -9,10 +9,10 @@ Users: 2039
 | 1 | [mpinzile](https://github.com/mpinzile) | David Mpinzile | SEWMR Technologies | sewmrtechnology | Arusha, Tanzania  | 178570 |
 | 2 | [KaReeeeeeeeEM](https://github.com/KaReeeeeeeeEM) | _running_program | University of Dar es Salaam |  |  Dar-es-salaam, Tanzania | 123960 |
 | 3 | [nyandajr](https://github.com/nyandajr) | Nyanda Freddy |  |  | Tanzania | 53229 |
-| 4 | [johnson2006christopher](https://github.com/johnson2006christopher) | Johnson Christopher Hassan | Neurotech HQ |  | Mbeya,Tanzania | 25054 |
-| 5 | [zuck30](https://github.com/zuck30) | Shadrackovsky | AGS |  | Tanzania | 18257 |
-| 6 | [raydanielg](https://github.com/raydanielg) | Ezra Daniel Gyunda |  |  | Tanzania | 18171 |
-| 7 | [cleven12](https://github.com/cleven12) | cleven |  | cleven02 | Tanzania | 17597 |
+| 4 | [johnson2006christopher](https://github.com/johnson2006christopher) | Johnson Christopher Hassan | Neurotech HQ |  | Mbeya,Tanzania | 27470 |
+| 5 | [raydanielg](https://github.com/raydanielg) | Ezra Daniel Gyunda |  |  | Tanzania | 18171 |
+| 6 | [cleven12](https://github.com/cleven12) | cleven |  | cleven02 | Tanzania | 18101 |
+| 7 | [zuck30](https://github.com/zuck30) | Shadrackovsky | AGS |  | Tanzania | 17873 |
 | 8 | [fredy-me](https://github.com/fredy-me) | Melkizedek Fredy | Busara Digital  |  | Dar Es Salaam, Tanzania | 14251 |
 | 9 | [Lurgic-error](https://github.com/Lurgic-error) | Lurge | Fair Competition Commission | lurgic_me | Tanzania, Dar es salaam | 13070 |
 | 10 | [tarxemo](https://github.com/tarxemo) | TarXemo | TarXemo |  | Dodoma-Tanzania | 11527 |

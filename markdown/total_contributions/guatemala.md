@@ -1,6 +1,6 @@
 # Total Contributions - Guatemala
 
-Generated: 2026-10-16T15:49:25.418Z
+Generated: 2026-10-16T18:11:49.994Z
 
 Users: 3218
 
@@ -18,11 +18,11 @@ Users: 3218
 | 10 | [MarioAndF](https://github.com/MarioAndF) | Mario A Flores | MedHue Labs LLC |  | Guatemala | 6585 |
 | 11 | [edman-cota](https://github.com/edman-cota) | edmancota | Universidad del Valle de Guatemala |  | Guatemala | 6100 |
 | 12 | [Esaban17](https://github.com/Esaban17) | Estuardo Saban | Quattro |  | Guatemala | 5978 |
-| 13 | [marcoleejr](https://github.com/marcoleejr) | Marco Lee |  |  | Guatemala | 5506 |
-| 14 | [damianpeaf](https://github.com/damianpeaf) | Damián Peña | FIUSAC |  | Guatemala | 5493 |
-| 15 | [kenny08gt](https://github.com/kenny08gt) | Alan Hurtarte |  | alanhurtarte | Guatemala city, Guatemala | 5488 |
-| 16 | [jrodas4044](https://github.com/jrodas4044) | Jonhathan Rolando Rodas López |  |  | Chimaltenango/Guatemala | 5446 |
-| 17 | [fcpauldiaz](https://github.com/fcpauldiaz) | Pablo Díaz | @Chapi-Labs  |  | Guatemala | 5250 |
-| 18 | [Mgodoyd](https://github.com/Mgodoyd) | MARIO   GODOY |  |  | Guatemala | 4898 |
-| 19 | [wmsales](https://github.com/wmsales) | Wilson Sales | Nextware Guatemala |  | Guatemala | 4898 |
-| 20 | [JoseMan200124](https://github.com/JoseMan200124) | José Daniel Man Castellanos |  |  | Guatemala | 4702 |
+| 13 | [FR98](https://github.com/FR98) | Francisco Rosal | Fantastech S.A. |  | Guatemala | 5671 |
+| 14 | [marcoleejr](https://github.com/marcoleejr) | Marco Lee |  |  | Guatemala | 5506 |
+| 15 | [damianpeaf](https://github.com/damianpeaf) | Damián Peña | FIUSAC |  | Guatemala | 5493 |
+| 16 | [kenny08gt](https://github.com/kenny08gt) | Alan Hurtarte |  | alanhurtarte | Guatemala city, Guatemala | 5488 |
+| 17 | [jrodas4044](https://github.com/jrodas4044) | Jonhathan Rolando Rodas López |  |  | Chimaltenango/Guatemala | 5446 |
+| 18 | [fcpauldiaz](https://github.com/fcpauldiaz) | Pablo Díaz | @Chapi-Labs  |  | Guatemala | 5250 |
+| 19 | [Mgodoyd](https://github.com/Mgodoyd) | MARIO   GODOY |  |  | Guatemala | 4898 |
+| 20 | [wmsales](https://github.com/wmsales) | Wilson Sales | Nextware Guatemala |  | Guatemala | 4898 |

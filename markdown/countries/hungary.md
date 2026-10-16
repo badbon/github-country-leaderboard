@@ -16,22 +16,22 @@ Indexed users: 11,177
 | 2 | [realhidden](https://github.com/realhidden) | Zsombor Paróczi | Hungary | 26,116 |
 | 3 | [steven-pribilinskiy](https://github.com/steven-pribilinskiy) | Steven Pribilinskiy | Hungary, Budapest | 23,151 |
 | 4 | [andrasbacsai](https://github.com/andrasbacsai) | Andras Bacsai | Székesfehérvár, Hungary | 23,143 |
-| 5 | [vpmedia](https://github.com/vpmedia) | Andras Csizmadia | Budapest | 22,140 |
-| 6 | [mrakosms](https://github.com/mrakosms) | Akos Maurer-Somogyi | Hungary | 21,208 |
-| 7 | [zkochan](https://github.com/zkochan) | Zoltan Kochan | Budapest 🇭🇺 | 20,129 |
-| 8 | [rzana](https://github.com/rzana) | Richard Zana | Budapest, Hungary | 16,930 |
-| 9 | [apgyorfi](https://github.com/apgyorfi) | Peter Gyorfi | Székesfehérvár, Hungary | 16,889 |
-| 10 | [moldovancsaba](https://github.com/moldovancsaba) | Moldovan Csaba Zoltan | Budapest | 16,440 |
-| 11 | [Sentence](https://github.com/Sentence) | Zsolt Jakabovics | Hungary | 15,831 |
-| 12 | [sagikazarmark](https://github.com/sagikazarmark) | Márk Sági-Kazár | Budapest, Hungary | 15,825 |
-| 13 | [tenxlenx](https://github.com/tenxlenx) | Norbert Domcsek | Budapest | 15,425 |
-| 14 | [zcserei](https://github.com/zcserei) | Cserei Zoltán | Budapest | 12,777 |
-| 15 | [krksgbr](https://github.com/krksgbr) | Gábor Kerekes | Budapest | 10,868 |
-| 16 | [stt08](https://github.com/stt08) | Samat Tamerlan | Budapest, HU | 10,859 |
-| 17 | [danko-david](https://github.com/danko-david) | David Danko | Hungary, Miskolc | 10,779 |
-| 18 | [kfarkasHU](https://github.com/kfarkasHU) | Kolos F | Budapest, HU | 10,644 |
-| 19 | [lipi4242](https://github.com/lipi4242) | Krisztián Lipcsei | Budapest, Hungary | 9,733 |
-| 20 | [tacshade](https://github.com/tacshade) | TacShade | Budapest | 9,205 |
+| 5 | [RolandMarton](https://github.com/RolandMarton) | Márton Roland | Budapest | 22,240 |
+| 6 | [vpmedia](https://github.com/vpmedia) | Andras Csizmadia | Budapest | 22,140 |
+| 7 | [mrakosms](https://github.com/mrakosms) | Akos Maurer-Somogyi | Hungary | 21,208 |
+| 8 | [zkochan](https://github.com/zkochan) | Zoltan Kochan | Budapest 🇭🇺 | 20,129 |
+| 9 | [rzana](https://github.com/rzana) | Richard Zana | Budapest, Hungary | 16,930 |
+| 10 | [apgyorfi](https://github.com/apgyorfi) | Peter Gyorfi | Székesfehérvár, Hungary | 16,889 |
+| 11 | [moldovancsaba](https://github.com/moldovancsaba) | Moldovan Csaba Zoltan | Budapest | 16,440 |
+| 12 | [Sentence](https://github.com/Sentence) | Zsolt Jakabovics | Hungary | 15,831 |
+| 13 | [sagikazarmark](https://github.com/sagikazarmark) | Márk Sági-Kazár | Budapest, Hungary | 15,825 |
+| 14 | [tenxlenx](https://github.com/tenxlenx) | Norbert Domcsek | Budapest | 15,425 |
+| 15 | [zcserei](https://github.com/zcserei) | Cserei Zoltán | Budapest | 12,777 |
+| 16 | [krksgbr](https://github.com/krksgbr) | Gábor Kerekes | Budapest | 10,868 |
+| 17 | [stt08](https://github.com/stt08) | Samat Tamerlan | Budapest, HU | 10,859 |
+| 18 | [danko-david](https://github.com/danko-david) | David Danko | Hungary, Miskolc | 10,779 |
+| 19 | [kfarkasHU](https://github.com/kfarkasHU) | Kolos F | Budapest, HU | 10,644 |
+| 20 | [lipi4242](https://github.com/lipi4242) | Krisztián Lipcsei | Budapest, Hungary | 9,733 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 11,177
 | 19 | [tib](https://github.com/tib) | Tibor Bödecs | Hungary | 600 |
 | 20 | [Aylur](https://github.com/Aylur) | Kristóf Demeter | Hungary | 572 |
 
-Generated: 2026-10-16T15:53:01.598Z
+Generated: 2026-10-16T18:16:09.790Z

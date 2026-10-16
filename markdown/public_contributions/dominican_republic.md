@@ -1,6 +1,6 @@
 # Public Contributions - Dominican Republic
 
-Generated: 2026-10-16T15:41:35.404Z
+Generated: 2026-10-16T18:04:44.586Z
 
 Users: 3301
 
@@ -13,7 +13,7 @@ Users: 3301
 | 5 | [Portegaperalta](https://github.com/Portegaperalta) | pablortega |  |  | Santo Domingo, Dominican Republic | 3159 |
 | 6 | [ubercylon8](https://github.com/ubercylon8) | James Pichardo |  |  | Dominican Republic | 3034 |
 | 7 | [xNeuNoRo](https://github.com/xNeuNoRo) | Ángel González Muñoz |  |  | Dominican Republic | 2552 |
-| 8 | [FredPeal](https://github.com/FredPeal) | Frederick Peñalo | McTekk SRL | frederickpeal | Dominican Republic | 2053 |
+| 8 | [FredPeal](https://github.com/FredPeal) | Frederick Peñalo | McTekk SRL | frederickpeal | Dominican Republic | 1974 |
 | 9 | [jesusantguerrero](https://github.com/jesusantguerrero) | Jesus Guerrero Álvarez  | Insane Code | jesusntguerrero | Santo Domingo, Dominican Republic | 1908 |
 | 10 | [henfrydls](https://github.com/henfrydls) | Henfry De Los Santos | Soventix Caribbean SRL |  | Santo Domingo, República Dominicana | 1900 |
 | 11 | [dbremont](https://github.com/dbremont) | Daniel  de Victoriano y Bremont |  |  | America, Dominican Republic | 1827 |

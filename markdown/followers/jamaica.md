@@ -1,8 +1,8 @@
 # Followers - Jamaica
 
-Generated: 2026-10-16T15:55:55.283Z
+Generated: 2026-10-16T18:19:32.186Z
 
-Users: 1275
+Users: 1274
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -25,4 +25,4 @@ Users: 1275
 | 17 | [RakibulRanak](https://github.com/RakibulRanak) | MD RAKIBUL HASAN |  |  | Kingston, Ontario | 102 |
 | 18 | [JonCooperWorks](https://github.com/JonCooperWorks) |  |  | joncooperworks | Jamaica | 101 |
 | 19 | [aliasad059](https://github.com/aliasad059) | Ali Asad | Queen's University |  | Kingston, Ontario | 100 |
-| 20 | [andrewmaier](https://github.com/andrewmaier) | Andrew Maier | User Friendliest |  | Kingston, Ontario | 94 |
+| 20 | [jordanliu](https://github.com/jordanliu) | Jordan Liu |  |  | Kingston, Jamaica | 95 |

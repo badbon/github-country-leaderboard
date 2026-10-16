@@ -1,6 +1,6 @@
 # Total Contributions - Turkmenistan
 
-Generated: 2026-10-16T15:15:14.387Z
+Generated: 2026-10-16T17:35:02.339Z
 
 Users: 501
 
@@ -16,7 +16,7 @@ Users: 501
 | 8 | [lightRain0629](https://github.com/lightRain0629) | Umyt | @GSR-Network |  | Ashgabat, Turkmenistan | 4027 |
 | 9 | [noxur05](https://github.com/noxur05) | Bagtyyar Rejepov | @GSR-Network | noxur05 | Ashgabat, Turkmenistan | 3717 |
 | 10 | [kakajansh](https://github.com/kakajansh) | Kakajan SH | Ajap Ulgam |  | Ashgabat | 3708 |
-| 11 | [Nirovitsky](https://github.com/Nirovitsky) | Ata |  |  | Turkmenistan | 3346 |
+| 11 | [Nirovitsky](https://github.com/Nirovitsky) | Ata |  |  | Turkmenistan | 3369 |
 | 12 | [Begench2005](https://github.com/Begench2005) | Begench |  |  | Ashgabat, Turkmenistan | 3244 |
 | 13 | [Dayanch437](https://github.com/Dayanch437) | Salarov Dayanch Kemalovich | Oguz han technology center | Dayanch437 | Turkmenistan | 3094 |
 | 14 | [bridgecoresystems-cmd](https://github.com/bridgecoresystems-cmd) | BridgeCore SYSTEMS | BridgeCore SYSTEMS |  | Turkmenistan | 3053 |
@@ -25,4 +25,4 @@ Users: 501
 | 17 | [babamurad](https://github.com/babamurad) | Babamurad |  |  | Turkmenistan, Ashgabat | 2486 |
 | 18 | [RovshenTagangylyjov](https://github.com/RovshenTagangylyjov) | Rovshen Tagangylyjov | Parsewave |  | Ashgabat, Turkmenistan | 2378 |
 | 19 | [AnonimTM1](https://github.com/AnonimTM1) | Merdan Caryyew | Saher Wagty |  | Turkmenistan  | 2136 |
-| 20 | [TheSeydiCharyyev](https://github.com/TheSeydiCharyyev) | Seydi Charyyev | LFDT 2026 Mentee @hyperledger-identus |  | Mary city, Turkmenistan | 2110 |
+| 20 | [Atash03](https://github.com/Atash03) | Ilgeldi |  |  | Ashgabat, Turkmenistan | 2116 |

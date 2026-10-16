@@ -12,9 +12,9 @@ Indexed users: 3,871
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [alsong](https://github.com/alsong) | Oburusule Dunstan | Kampala, Uganda | 13,712 |
-| 2 | [BAGOMBEKA-JOB-DEV](https://github.com/BAGOMBEKA-JOB-DEV) | BAGOMBEKA JOB | KAMPALA, UGANDA | 11,947 |
-| 3 | [obalaweb](https://github.com/obalaweb) | Obala Joseph Ivan | Gulu, Uganda | 11,691 |
+| 1 | [obalaweb](https://github.com/obalaweb) | Obala Joseph Ivan | Gulu, Uganda | 15,342 |
+| 2 | [alsong](https://github.com/alsong) | Oburusule Dunstan | Kampala, Uganda | 13,712 |
+| 3 | [BAGOMBEKA-JOB-DEV](https://github.com/BAGOMBEKA-JOB-DEV) | BAGOMBEKA JOB | KAMPALA, UGANDA | 11,947 |
 | 4 | [pius22](https://github.com/pius22) | TECH-WORLDINFO | uganda | 11,416 |
 | 5 | [peterbamuhigire](https://github.com/peterbamuhigire) | Peter Bamuhigire | Kampala, Uganda | 10,913 |
 | 6 | [kallyas](https://github.com/kallyas) | Iden | Uganda | 10,474 |
@@ -30,8 +30,8 @@ Indexed users: 3,871
 | 16 | [GaspardKirira](https://github.com/GaspardKirira) | G-kirira | Africa / Uganda / Kampala | 7,825 |
 | 17 | [baliksjosay](https://github.com/baliksjosay) | Joseph Balikuddembe | Kampala, uganda | 7,753 |
 | 18 | [judeotine](https://github.com/judeotine) | Judeotine | Uganda | 7,440 |
-| 19 | [cosmah](https://github.com/cosmah) | cosmah | kampala, Uganda | 7,177 |
-| 20 | [amkayondo](https://github.com/amkayondo) | Kayondo Edward | Kampala, Uganda | 7,153 |
+| 19 | [sharif-smj](https://github.com/sharif-smj) | SHARIF | Kampala Uganda | 7,365 |
+| 20 | [cosmah](https://github.com/cosmah) | cosmah | kampala, Uganda | 7,177 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 3,871
 | 19 | [Kitemaggwa-Shafic](https://github.com/Kitemaggwa-Shafic) | Bin Profic | Kampala mengo, Najjanankumbi Ebb rd | 198 |
 | 20 | [kallyas](https://github.com/kallyas) | Iden | Uganda | 190 |
 
-Generated: 2026-10-16T15:15:58.832Z
+Generated: 2026-10-16T17:36:16.129Z
