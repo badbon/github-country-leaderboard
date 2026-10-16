@@ -24812,7 +24812,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2024-01-12T01:34:39Z"
   },
   {
@@ -24824,7 +24824,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 10,
     "createdAt": "2024-01-20T18:41:40Z"
   },
   {
@@ -24834,9 +24834,9 @@
     "location": "Daejeon, South Korea",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 1,
-    "publicContributions": 147,
+    "publicContributions": 114,
     "createdAt": "2024-01-13T10:24:43Z"
   },
   {
@@ -24848,7 +24848,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 802,
+    "publicContributions": 678,
     "createdAt": "2024-03-19T05:09:37Z"
   },
   {
@@ -24859,8 +24859,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 3,
-    "publicContributions": 284,
+    "privateContributions": 34,
+    "publicContributions": 301,
     "createdAt": "2024-08-12T02:14:33Z"
   },
   {
@@ -24870,9 +24870,9 @@
     "location": "South Korea",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 165,
+    "publicContributions": 128,
     "createdAt": "2024-11-29T02:13:35Z"
   },
   {
@@ -24883,8 +24883,8 @@
     "company": "",
     "twitterUsername": "hit_keyboard",
     "followers": 7,
-    "privateContributions": 0,
-    "publicContributions": 0,
+    "privateContributions": 30,
+    "publicContributions": 1,
     "createdAt": "2024-09-28T08:01:15Z"
   },
   {
@@ -24896,7 +24896,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 2,
     "createdAt": "2024-03-13T14:19:32Z"
   },
   {
@@ -24906,22 +24906,10 @@
     "location": "South Korea",
     "company": "Pusan National University",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 10,
-    "publicContributions": 68,
+    "followers": 8,
+    "privateContributions": 11,
+    "publicContributions": 57,
     "createdAt": "2024-03-01T06:51:08Z"
-  },
-  {
-    "login": "Bacococc",
-    "name": "Hyojin Park",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/169656279?s=72&u=05f22559cfb3ac52198b5d902fe07d7d4c140efa&v=4",
-    "location": "DAEGU, SOUTH KOREA",
-    "company": "Yeungjin College",
-    "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 90,
-    "publicContributions": 623,
-    "createdAt": "2024-05-13T09:27:02Z"
   },
   {
     "login": "miru-cargo",
@@ -24932,7 +24920,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 10,
     "createdAt": "2024-01-02T01:31:23Z"
   },
   {
@@ -24943,32 +24931,20 @@
     "company": "Spark Games",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 1278,
-    "publicContributions": 212,
+    "privateContributions": 1281,
+    "publicContributions": 209,
     "createdAt": "2024-10-19T20:05:39Z"
-  },
-  {
-    "login": "sejun-ahn",
-    "name": "Sejun Ahn",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/156421781?s=72&v=4",
-    "location": "Gwangju, South Korea",
-    "company": "MPIL at GIST",
-    "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 94,
-    "publicContributions": 38,
-    "createdAt": "2024-01-12T10:08:49Z"
   },
   {
     "login": "JeonYongHak",
     "name": "yh__jeonnn",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/162122203?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/162122203?s=72&u=e0f43f43248ae5da720fa3c881b4ade185419653&v=4",
     "location": "Seoul, South Korea",
     "company": "Hanyang Univ. Information System",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 203,
+    "publicContributions": 202,
     "createdAt": "2024-03-04T11:09:18Z"
   },
   {
@@ -24980,7 +24956,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 210,
+    "publicContributions": 208,
     "createdAt": "2024-07-20T02:29:33Z"
   },
   {
@@ -24991,8 +24967,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 1,
-    "publicContributions": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
     "createdAt": "2024-02-07T01:43:31Z"
   },
   {
@@ -25004,19 +24980,19 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 327,
+    "publicContributions": 233,
     "createdAt": "2024-01-10T02:44:39Z"
   },
   {
     "login": "joyzone2",
     "name": "Jisu Kim",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/175529842?s=72&u=fcdcdbdac23df77bafcd40e73c773bb7f9af108a&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/175529842?s=72&u=5fd828f023111e909f1e675db79deec8b893a729&v=4",
     "location": "Seoul, South Korea",
     "company": "Chung-Ang University, Seoul",
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 193,
+    "publicContributions": 317,
     "createdAt": "2024-07-14T07:51:10Z"
   },
   {

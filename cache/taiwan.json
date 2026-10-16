@@ -25134,9 +25134,9 @@
     "location": "Taiwan",
     "company": "TSMC",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 110,
+    "publicContributions": 83,
     "createdAt": "2022-02-14T01:24:09Z"
   },
   {
@@ -25146,7 +25146,7 @@
     "location": "Taoyuan, Taiwan",
     "company": "PIMQ",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2022-03-01T01:35:51Z"
@@ -25206,9 +25206,9 @@
     "location": "Taiwan",
     "company": "",
     "twitterUsername": "jimlee0824v2",
-    "followers": 245,
+    "followers": 248,
     "privateContributions": 0,
-    "publicContributions": 66,
+    "publicContributions": 48,
     "createdAt": "2022-08-18T12:55:23Z"
   },
   {
@@ -25218,9 +25218,9 @@
     "location": "Taiwan",
     "company": "Dillenhub llc.",
     "twitterUsername": "",
-    "followers": 136,
+    "followers": 140,
     "privateContributions": 0,
-    "publicContributions": 245,
+    "publicContributions": 227,
     "createdAt": "2022-12-13T03:39:43Z"
   },
   {
@@ -25230,7 +25230,7 @@
     "location": "Taiwan",
     "company": "@g4o2",
     "twitterUsername": "",
-    "followers": 110,
+    "followers": 95,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-12-10T04:59:57Z"
@@ -25242,8 +25242,8 @@
     "location": "Taiwan",
     "company": "@P-WAVER @lambertwayne @HWBro-Studio ",
     "twitterUsername": "",
-    "followers": 102,
-    "privateContributions": 751,
+    "followers": 114,
+    "privateContributions": 820,
     "publicContributions": 26,
     "createdAt": "2022-09-03T07:35:36Z"
   },
@@ -25255,21 +25255,9 @@
     "company": "@IBM",
     "twitterUsername": "",
     "followers": 92,
-    "privateContributions": 205,
-    "publicContributions": 186,
+    "privateContributions": 198,
+    "publicContributions": 245,
     "createdAt": "2022-11-29T07:43:21Z"
-  },
-  {
-    "login": "LamentXU123",
-    "name": "Weilin Du",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/108666168?s=72&u=4efc7eea419960350f2da71877e0884655c277f5&v=4",
-    "location": "Taiwan",
-    "company": "@php ",
-    "twitterUsername": "",
-    "followers": 90,
-    "privateContributions": 9,
-    "publicContributions": 1652,
-    "createdAt": "2022-07-04T10:12:25Z"
   },
   {
     "login": "WuSandWitch",
@@ -25278,21 +25266,21 @@
     "location": "Taipei,Taiwan",
     "company": "Appier",
     "twitterUsername": "wusandwitch",
-    "followers": 58,
-    "privateContributions": 218,
-    "publicContributions": 75,
+    "followers": 59,
+    "privateContributions": 202,
+    "publicContributions": 57,
     "createdAt": "2022-09-11T08:35:49Z"
   },
   {
     "login": "KoukeNeko",
     "name": "陳德生",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/111033412?s=72&u=a65b3a161bfa00382b59e3cea267eed167a34f56&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/111033412?s=72&u=361d2f8cb27e97be00494fae734057d03f864aae&v=4",
     "location": "Kaohsiung City,Taiwan",
     "company": "National Chung Cheng University",
     "twitterUsername": "",
-    "followers": 53,
-    "privateContributions": 1234,
-    "publicContributions": 2447,
+    "followers": 55,
+    "privateContributions": 1324,
+    "publicContributions": 4359,
     "createdAt": "2022-08-11T02:58:34Z"
   },
   {
@@ -25302,7 +25290,7 @@
     "location": "New Taipei City, Taiwan",
     "company": "",
     "twitterUsername": "",
-    "followers": 52,
+    "followers": 49,
     "privateContributions": 4,
     "publicContributions": 0,
     "createdAt": "2022-11-13T23:51:22Z"
@@ -25326,21 +25314,21 @@
     "location": "Taiwan",
     "company": "",
     "twitterUsername": "",
-    "followers": 44,
+    "followers": 45,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 5,
     "createdAt": "2022-12-22T08:58:32Z"
   },
   {
     "login": "u9401066",
     "name": "Tz Ping Gau",
     "avatarUrl": "https://avatars.githubusercontent.com/u/119499895?s=72&u=0f0e2fc36d8932f73b92eca0230c6ec7530739a7&v=4",
-    "location": "No. 100, Shiquan 1st Rd., Sanmin Dist., Kaohsiung City 807378, Taiwan",
+    "location": "Taiwan",
     "company": "Department of Anesthesiology, Kaohsiung Medical University Hospital, Taiwan R.O.C",
     "twitterUsername": "",
-    "followers": 44,
-    "privateContributions": 3112,
-    "publicContributions": 1641,
+    "followers": 45,
+    "privateContributions": 3978,
+    "publicContributions": 2412,
     "createdAt": "2022-11-30T11:43:03Z"
   },
   {
@@ -25350,9 +25338,9 @@
     "location": "Taiwan",
     "company": "Infinirc LLC",
     "twitterUsername": "ricky_chaoju",
-    "followers": 42,
-    "privateContributions": 255,
-    "publicContributions": 637,
+    "followers": 49,
+    "privateContributions": 600,
+    "publicContributions": 913,
     "createdAt": "2022-07-16T10:44:46Z"
   },
   {

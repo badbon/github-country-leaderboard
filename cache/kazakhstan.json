@@ -25208,7 +25208,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 64,
+    "publicContributions": 36,
     "createdAt": "2021-06-26T17:42:16Z"
   },
   {
@@ -25220,7 +25220,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 53,
+    "publicContributions": 48,
     "createdAt": "2021-04-12T07:16:47Z"
   },
   {
@@ -25268,7 +25268,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 260,
+    "publicContributions": 268,
     "createdAt": "2021-08-26T14:03:42Z"
   },
   {
@@ -25286,13 +25286,13 @@
   {
     "login": "MrArlian",
     "name": "Artem",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/77566192?s=72&u=ae11cf1977013e4cf85bfc857ec168ff6350e9ce&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/77566192?s=72&u=0196f6c37025b2690b4f2b86fb4d3c437eb417f4&v=4",
     "location": "Kazakhstan",
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 855,
-    "publicContributions": 2,
+    "privateContributions": 916,
+    "publicContributions": 3,
     "createdAt": "2021-01-17T07:40:37Z"
   },
   {
@@ -25308,18 +25308,6 @@
     "createdAt": "2021-10-18T17:11:23Z"
   },
   {
-    "login": "irymbek",
-    "name": "Rymbek",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/91866986?s=72&u=8cfa569da14de2831c2b9498a9297e8bbfd3aa89&v=4",
-    "location": "Kazakhstan",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 989,
-    "publicContributions": 381,
-    "createdAt": "2021-10-04T05:48:23Z"
-  },
-  {
     "login": "azamatsalamat",
     "name": "Azamat Salamat",
     "avatarUrl": "https://avatars.githubusercontent.com/u/89504309?s=72&u=abe51c2c13c70b57740664dfb3b8d71c8dfa63a1&v=4",
@@ -25328,7 +25316,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 14,
-    "publicContributions": 34,
+    "publicContributions": 20,
     "createdAt": "2021-08-25T05:02:38Z"
   },
   {
@@ -25340,7 +25328,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 34,
+    "publicContributions": 45,
     "createdAt": "2021-10-16T18:30:38Z"
   },
   {
@@ -25352,7 +25340,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 222,
+    "publicContributions": 142,
     "createdAt": "2021-08-18T12:00:53Z"
   },
   {
@@ -25364,7 +25352,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 19,
     "createdAt": "2021-11-13T15:34:57Z"
   },
   {
@@ -25376,7 +25364,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 3,
     "createdAt": "2021-09-20T02:45:25Z"
   },
   {
@@ -25398,7 +25386,7 @@
     "location": "Astana, Kazakhstan",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-06-07T12:49:41Z"
@@ -25411,8 +25399,8 @@
     "company": "IT Analytics",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 75,
-    "publicContributions": 271,
+    "privateContributions": 80,
+    "publicContributions": 286,
     "createdAt": "2021-12-11T10:18:41Z"
   },
   {
@@ -25435,7 +25423,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 270,
+    "privateContributions": 210,
     "publicContributions": 7,
     "createdAt": "2021-12-08T20:10:33Z"
   },

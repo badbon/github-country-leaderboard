@@ -25596,18 +25596,6 @@
     "createdAt": "2018-12-01T22:42:40Z"
   },
   {
-    "login": "parfenovds",
-    "name": "Dmitrii Parfenov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/42603660?s=72&v=4",
-    "location": "Yerevan, Armenia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 442,
-    "publicContributions": 0,
-    "createdAt": "2018-08-22T08:18:45Z"
-  },
-  {
     "login": "aramayismirzoyan",
     "name": "Aramayis",
     "avatarUrl": "https://avatars.githubusercontent.com/u/41958764?s=72&u=1dbf463a605c401fa529896f9f1d2aafda1a4c84&v=4",
@@ -25616,13 +25604,13 @@
     "twitterUsername": "aramayis_m",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 74,
+    "publicContributions": 118,
     "createdAt": "2018-07-31T13:19:35Z"
   },
   {
     "login": "woskaniian",
     "name": "Vanush Voskanyan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/43379294?s=72&u=8b5d731c8a3c26e0e491feeccc446c920fbcdd24&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/43379294?s=72&u=1531552bb13efd420fdc839fd0d3a0d261d503ac&v=4",
     "location": "Yerevan, Armenia",
     "company": "Broadcom Inc.",
     "twitterUsername": "",
@@ -25639,8 +25627,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 1070,
-    "publicContributions": 63,
+    "privateContributions": 1393,
+    "publicContributions": 257,
     "createdAt": "2018-01-07T16:36:41Z"
   },
   {
@@ -25687,7 +25675,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 671,
+    "privateContributions": 733,
     "publicContributions": 60,
     "createdAt": "2018-01-24T20:08:43Z"
   },
@@ -25722,9 +25710,9 @@
     "location": "Armenia, Yerevan",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2018-07-03T10:16:15Z"
   },
   {
@@ -25747,8 +25735,8 @@
     "company": "TECCOD",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 605,
-    "publicContributions": 69,
+    "privateContributions": 719,
+    "publicContributions": 63,
     "createdAt": "2018-07-18T12:06:53Z"
   },
   {
@@ -25772,7 +25760,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 1,
     "createdAt": "2018-09-22T12:50:46Z"
   },
   {
@@ -25783,7 +25771,7 @@
     "company": "@Picsart",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 0,
+    "privateContributions": 1,
     "publicContributions": 0,
     "createdAt": "2018-10-01T11:15:59Z"
   },
@@ -25806,7 +25794,7 @@
     "location": "Yerevan, Armenia",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 6,
     "createdAt": "2018-12-06T10:58:24Z"

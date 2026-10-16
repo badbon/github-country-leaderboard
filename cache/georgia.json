@@ -25604,7 +25604,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 73,
+    "publicContributions": 36,
     "createdAt": "2021-11-01T12:37:55Z"
   },
   {
@@ -25614,8 +25614,8 @@
     "location": "Tbilisi, Georgia",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 104,
+    "followers": 5,
+    "privateContributions": 105,
     "publicContributions": 4,
     "createdAt": "2021-08-20T10:45:00Z"
   },
@@ -25638,7 +25638,7 @@
     "location": "Tbilisi,Georgia",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-03-18T09:21:58Z"
@@ -25663,8 +25663,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 1085,
-    "publicContributions": 72,
+    "privateContributions": 985,
+    "publicContributions": 70,
     "createdAt": "2021-03-16T07:57:14Z"
   },
   {
@@ -25675,8 +25675,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 258,
-    "publicContributions": 35,
+    "privateContributions": 378,
+    "publicContributions": 1,
     "createdAt": "2021-03-18T14:14:05Z"
   },
   {
@@ -25688,7 +25688,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2021-10-18T15:38:32Z"
   },
   {
@@ -25748,7 +25748,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 101,
+    "publicContributions": 88,
     "createdAt": "2021-03-14T06:02:00Z"
   },
   {
@@ -25766,7 +25766,7 @@
   {
     "login": "swalda",
     "name": "Aleksandr @swalda",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/81080227?s=72&u=eaae1f9b25caabf2eea7bb6a999d95b07eef088e&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/81080227?s=72&u=461b69ea47fdf83797aec841bfd6e1dd6f9a43c7&v=4",
     "location": "Georgia",
     "company": "",
     "twitterUsername": "",
@@ -25784,7 +25784,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 91,
+    "publicContributions": 71,
     "createdAt": "2021-10-27T02:28:37Z"
   },
   {
@@ -25795,7 +25795,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 783,
+    "privateContributions": 891,
     "publicContributions": 6,
     "createdAt": "2021-10-04T12:38:46Z"
   },
@@ -25808,7 +25808,7 @@
     "twitterUsername": "N1kaa_T",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 17,
     "createdAt": "2021-10-04T15:45:49Z"
   },
   {
@@ -25820,7 +25820,7 @@
     "twitterUsername": "qtrann1379",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 2,
     "createdAt": "2021-08-15T06:02:16Z"
   },
   {
@@ -82654,5 +82654,17 @@
     "privateContributions": 0,
     "publicContributions": 11,
     "createdAt": "2026-05-21T17:12:38Z"
+  },
+  {
+    "login": "gazgirl",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/297661134?s=72&u=f2374b7bd3c2e97ff491dd608616fc86520d5bb8&v=4",
+    "location": "Georgia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-28T15:04:19Z"
   }
 ]

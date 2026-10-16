@@ -25412,7 +25412,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 760,
+    "publicContributions": 693,
     "createdAt": "2022-10-04T19:32:18Z"
   },
   {
@@ -25435,8 +25435,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 1069,
-    "publicContributions": 22,
+    "privateContributions": 2108,
+    "publicContributions": 20,
     "createdAt": "2021-12-30T14:37:06Z"
   },
   {
@@ -25446,8 +25446,8 @@
     "location": "Athens,Greece",
     "company": "University of Athens",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 12,
+    "followers": 9,
+    "privateContributions": 13,
     "publicContributions": 81,
     "createdAt": "2022-02-23T20:59:33Z"
   },
@@ -25459,7 +25459,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 126,
+    "privateContributions": 109,
     "publicContributions": 311,
     "createdAt": "2022-03-31T06:57:27Z"
   },
@@ -25471,8 +25471,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 128,
-    "publicContributions": 27,
+    "privateContributions": 224,
+    "publicContributions": 38,
     "createdAt": "2022-09-30T20:23:52Z"
   },
   {
@@ -25484,7 +25484,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 0,
     "createdAt": "2022-03-25T12:14:16Z"
   },
   {
@@ -25506,9 +25506,9 @@
     "location": "Heraklion, Greece",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 9,
     "privateContributions": 1,
-    "publicContributions": 14,
+    "publicContributions": 7,
     "createdAt": "2022-11-03T20:36:10Z"
   },
   {
@@ -25519,8 +25519,8 @@
     "company": "Technical University of Crete",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 31,
-    "publicContributions": 126,
+    "privateContributions": 227,
+    "publicContributions": 116,
     "createdAt": "2022-09-13T14:50:50Z"
   },
   {
@@ -25531,7 +25531,7 @@
     "company": "Futura Games",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 81,
+    "privateContributions": 83,
     "publicContributions": 18,
     "createdAt": "2022-03-26T10:48:24Z"
   },
@@ -25542,9 +25542,9 @@
     "location": "Serres, Greece",
     "company": "REM-IHU",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 66,
-    "publicContributions": 1,
+    "followers": 7,
+    "privateContributions": 161,
+    "publicContributions": 29,
     "createdAt": "2022-11-29T20:20:27Z"
   },
   {
@@ -25567,20 +25567,20 @@
     "company": "Deranged Association",
     "twitterUsername": "Deranged_Assoc_",
     "followers": 8,
-    "privateContributions": 240,
+    "privateContributions": 377,
     "publicContributions": 5,
     "createdAt": "2022-08-29T14:33:40Z"
   },
   {
     "login": "Drimiteros",
     "name": "Drimiteros",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/97346831?s=72&u=26442c7b76059258f9312a01a0d12abb98cb462b&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/97346831?s=72&u=f498732f1fd6761da8dda9aa8ff83d482a862ab5&v=4",
     "location": "Greece",
     "company": "",
     "twitterUsername": "Drimiteros21",
     "followers": 8,
-    "privateContributions": 43,
-    "publicContributions": 150,
+    "privateContributions": 31,
+    "publicContributions": 95,
     "createdAt": "2022-01-08T13:34:13Z"
   },
   {
@@ -25592,7 +25592,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 6,
     "createdAt": "2022-12-05T14:45:25Z"
   },
   {
@@ -25616,7 +25616,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2022-11-05T07:54:58Z"
   },
   {
@@ -25626,9 +25626,9 @@
     "location": "Athens, Greece",
     "company": "AUEB",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 316,
-    "publicContributions": 53,
+    "followers": 10,
+    "privateContributions": 318,
+    "publicContributions": 46,
     "createdAt": "2022-11-05T16:12:00Z"
   },
   {
@@ -25640,7 +25640,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 4,
     "createdAt": "2022-07-16T10:39:58Z"
   },
   {
@@ -186718,5 +186718,17 @@
     "privateContributions": 6795,
     "publicContributions": 1267,
     "createdAt": "2022-02-11T20:47:42Z"
+  },
+  {
+    "login": "rokanas",
+    "name": "Konstantinos Rokanas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/129264738?s=72&u=18017d32751720b773f7e4cd2f604122621473aa&v=4",
+    "location": "Athens, Greece",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 144,
+    "createdAt": "2023-03-29T07:38:41Z"
   }
 ]

@@ -23672,20 +23672,8 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 7,
     "createdAt": "2014-12-02T17:46:58Z"
-  },
-  {
-    "login": "starikovr",
-    "name": "Roman",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/8151028?s=72&u=c3ec0253d93c5b8c6edab4548a43e2851bd3ef3d&v=4",
-    "location": "Limassol, Cyprus",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2014-07-13T16:36:18Z"
   },
   {
     "login": "LukeSkypewalker",
@@ -23696,7 +23684,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 81,
+    "publicContributions": 33,
     "createdAt": "2014-09-16T21:14:29Z"
   },
   {
@@ -23708,7 +23696,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2014-05-27T07:09:47Z"
   },
   {
@@ -23754,7 +23742,7 @@
     "location": "Nicosia, Cyprus",
     "company": "MY.GAMES",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2014-09-14T06:54:02Z"
@@ -23780,7 +23768,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 16,
     "createdAt": "2014-12-09T14:09:46Z"
   },
   {
@@ -23803,7 +23791,7 @@
     "company": "FunCorp",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 1089,
+    "privateContributions": 1128,
     "publicContributions": 4,
     "createdAt": "2014-02-13T14:19:21Z"
   },
@@ -23838,9 +23826,9 @@
     "location": "Cyprus",
     "company": "Andre AI Technologies",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 2174,
+    "publicContributions": 14639,
     "createdAt": "2014-07-13T08:09:15Z"
   },
   {
@@ -23875,7 +23863,7 @@
     "company": "@criteo",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 76,
+    "privateContributions": 164,
     "publicContributions": 0,
     "createdAt": "2014-10-13T18:21:47Z"
   },
@@ -23887,7 +23875,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 16,
+    "privateContributions": 40,
     "publicContributions": 3,
     "createdAt": "2014-08-16T09:46:34Z"
   },

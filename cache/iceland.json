@@ -6247,7 +6247,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1080,
+    "privateContributions": 1000,
     "publicContributions": 5,
     "createdAt": "2017-08-24T15:09:25Z"
   },
@@ -6260,7 +6260,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2017-11-14T09:03:43Z"
   },
   {
@@ -6271,7 +6271,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 214,
+    "privateContributions": 210,
     "publicContributions": 0,
     "createdAt": "2017-01-03T05:49:45Z"
   },
@@ -6307,8 +6307,8 @@
     "company": "@GRID-is ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 2961,
-    "publicContributions": 5,
+    "privateContributions": 3173,
+    "publicContributions": 7,
     "createdAt": "2017-07-11T01:19:15Z"
   },
   {
@@ -6332,7 +6332,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 285,
+    "publicContributions": 286,
     "createdAt": "2017-11-27T12:20:32Z"
   },
   {
@@ -6355,7 +6355,7 @@
     "company": "Loftmyndir ehf.",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 2365,
+    "privateContributions": 2348,
     "publicContributions": 1,
     "createdAt": "2017-11-28T12:24:04Z"
   },
@@ -6424,7 +6424,7 @@
     "name": "Einar Sigurðsson",
     "avatarUrl": "https://avatars.githubusercontent.com/u/26932493?s=72&v=4",
     "location": "Iceland, Reykjavik",
-    "company": "Nýherji",
+    "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,

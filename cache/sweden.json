@@ -24534,8 +24534,8 @@
     "location": "Ängelholm, Sweden",
     "company": "Kjell & Company",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 673,
+    "followers": 7,
+    "privateContributions": 775,
     "publicContributions": 19,
     "createdAt": "2023-01-19T20:34:48Z"
   },
@@ -24544,24 +24544,12 @@
     "name": "Mihaela Goga",
     "avatarUrl": "https://avatars.githubusercontent.com/u/131550240?s=72&u=809473affaf0dbfc0bb4de16b7eda0d0f8d5fd0d&v=4",
     "location": "Sweden",
-    "company": "Gothenburg University",
+    "company": "University of Gothenburg",
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 22,
     "createdAt": "2023-04-22T18:01:34Z"
-  },
-  {
-    "login": "Syn4pse773",
-    "name": "Syn4pse",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/137398047?s=72&u=5fd616bea054e3caad32052b99f2898c530fdafe&v=4",
-    "location": "Sweden",
-    "company": "Linux Foundation",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 89,
-    "createdAt": "2023-06-22T10:11:43Z"
   },
   {
     "login": "MarcelMartens",
@@ -24571,21 +24559,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 108,
+    "privateContributions": 239,
     "publicContributions": 0,
     "createdAt": "2023-01-26T11:21:10Z"
-  },
-  {
-    "login": "fxllingstar",
-    "name": "Star",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/137432338?s=72&u=98d8e3d04af7946038685eada432e80257b1fb1d&v=4",
-    "location": "Sweden",
-    "company": "@Ataraxia-Productions",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 44,
-    "publicContributions": 346,
-    "createdAt": "2023-06-22T16:51:46Z"
   },
   {
     "login": "sebsongsmodular",
@@ -24614,13 +24590,13 @@
   {
     "login": "mohamadtorres",
     "name": "Mohamad Rahimi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/131754097?s=72&u=52141c67eaa077a6e289ff6a60a16a11eb4815ef&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/131754097?s=72&u=34a5d90202b804dcfc7b8b25859e08ef120f285d&v=4",
     "location": "Sweden",
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 805,
-    "publicContributions": 14,
+    "privateContributions": 966,
+    "publicContributions": 11,
     "createdAt": "2023-04-25T08:06:29Z"
   },
   {
@@ -24632,7 +24608,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 440,
+    "publicContributions": 343,
     "createdAt": "2023-04-02T07:17:24Z"
   },
   {
@@ -24654,7 +24630,7 @@
     "location": "Stockholm, Sweden",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-04-29T11:33:03Z"
@@ -24678,9 +24654,9 @@
     "location": "Sweden",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 147,
-    "publicContributions": 31,
+    "followers": 3,
+    "privateContributions": 128,
+    "publicContributions": 156,
     "createdAt": "2023-06-11T00:34:04Z"
   },
   {
@@ -24691,21 +24667,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 71,
-    "publicContributions": 188,
+    "privateContributions": 138,
+    "publicContributions": 184,
     "createdAt": "2023-03-19T15:11:44Z"
-  },
-  {
-    "login": "rokanas",
-    "name": "Konstantinos Rokanas",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/129264738?s=72&u=18017d32751720b773f7e4cd2f604122621473aa&v=4",
-    "location": "Gothenburg, Sweden",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 1,
-    "publicContributions": 312,
-    "createdAt": "2023-03-29T07:38:41Z"
   },
   {
     "login": "MonaAndre",
@@ -24727,8 +24691,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 95,
-    "publicContributions": 43,
+    "privateContributions": 268,
+    "publicContributions": 33,
     "createdAt": "2023-06-07T10:06:37Z"
   },
   {
@@ -24738,8 +24702,8 @@
     "location": "Stockholm, Sweden",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 445,
+    "followers": 4,
+    "privateContributions": 307,
     "publicContributions": 1,
     "createdAt": "2023-06-08T13:17:29Z"
   },
@@ -24750,9 +24714,9 @@
     "location": "Sweden",
     "company": "YH-student",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 320,
-    "publicContributions": 316,
+    "followers": 6,
+    "privateContributions": 347,
+    "publicContributions": 382,
     "createdAt": "2023-05-20T05:45:03Z"
   },
   {
@@ -24763,7 +24727,7 @@
     "company": "@odevo-dev ",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 632,
+    "privateContributions": 783,
     "publicContributions": 1,
     "createdAt": "2023-02-04T22:30:00Z"
   },

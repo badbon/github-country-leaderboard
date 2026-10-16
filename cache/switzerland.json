@@ -25040,7 +25040,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 89,
+    "publicContributions": 177,
     "createdAt": "2022-02-25T12:12:48Z"
   },
   {
@@ -25051,8 +25051,8 @@
     "company": "ETH Zürich",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 339,
-    "publicContributions": 5,
+    "privateContributions": 343,
+    "publicContributions": 6,
     "createdAt": "2022-05-26T22:10:52Z"
   },
   {
@@ -25062,9 +25062,9 @@
     "location": "Switzerland",
     "company": "@StreamNative",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 34,
     "createdAt": "2022-04-04T12:07:17Z"
   },
   {
@@ -25076,7 +25076,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 22,
     "createdAt": "2022-03-13T14:59:44Z"
   },
   {
@@ -25088,7 +25088,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 17,
     "createdAt": "2022-01-17T13:37:36Z"
   },
   {
@@ -25110,9 +25110,9 @@
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 83,
-    "publicContributions": 7,
+    "followers": 8,
+    "privateContributions": 78,
+    "publicContributions": 27,
     "createdAt": "2022-04-28T09:24:29Z"
   },
   {
@@ -25122,7 +25122,7 @@
     "location": "Switzerland",
     "company": "Furoa",
     "twitterUsername": "igorpener",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-01-21T20:32:24Z"
@@ -25134,9 +25134,9 @@
     "location": "Lausanne, Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 8163,
-    "publicContributions": 60,
+    "followers": 8,
+    "privateContributions": 9663,
+    "publicContributions": 32,
     "createdAt": "2022-01-19T21:09:51Z"
   },
   {
@@ -25170,9 +25170,9 @@
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 29,
-    "publicContributions": 912,
+    "followers": 7,
+    "privateContributions": 3,
+    "publicContributions": 1483,
     "createdAt": "2022-03-30T14:22:44Z"
   },
   {
@@ -25188,27 +25188,15 @@
     "createdAt": "2022-06-09T11:17:35Z"
   },
   {
-    "login": "chakrah",
-    "name": "Hritam Chakraborty",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/100677905?s=72&v=4",
-    "location": "Switzerland",
-    "company": "University of Geneva",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 18,
-    "createdAt": "2022-03-01T08:48:03Z"
-  },
-  {
     "login": "Quattro99",
     "name": "Michele Blum",
     "avatarUrl": "https://avatars.githubusercontent.com/u/97525515?s=72&u=15b92ca2ee1d11c437e48eca685ab24fefa08301&v=4",
     "location": "Switzerland",
-    "company": "TurnKey Services AG",
+    "company": "",
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 42,
+    "publicContributions": 39,
     "createdAt": "2022-01-11T12:44:58Z"
   },
   {
@@ -25219,7 +25207,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 399,
+    "privateContributions": 840,
     "publicContributions": 8,
     "createdAt": "2022-04-06T12:20:15Z"
   },
@@ -25266,7 +25254,7 @@
     "location": "Zürich, Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 4,
     "publicContributions": 27,
     "createdAt": "2022-05-03T14:09:06Z"
