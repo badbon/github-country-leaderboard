@@ -24883,8 +24883,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 33,
+    "privateContributions": 45,
+    "publicContributions": 85,
     "createdAt": "2018-07-11T13:34:32Z"
   },
   {
@@ -24895,8 +24895,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 680,
-    "publicContributions": 15,
+    "privateContributions": 605,
+    "publicContributions": 13,
     "createdAt": "2018-03-24T22:18:33Z"
   },
   {
@@ -24919,7 +24919,7 @@
     "company": "@manifold-media @pixibo @opinov8 @epam",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 2931,
+    "privateContributions": 2089,
     "publicContributions": 3,
     "createdAt": "2018-11-15T19:04:28Z"
   },
@@ -24968,13 +24968,13 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 33,
     "createdAt": "2018-05-16T20:16:14Z"
   },
   {
     "login": "adamfeher64",
     "name": "Adam Fehér",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/41686922?s=72&u=e6daec090d1da4b6455758791a86d468a1a4158a&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/41686922?s=72&v=4",
     "location": "Slovakia",
     "company": "Deutsche Telekom IT Solutions Slovakia",
     "twitterUsername": "",
@@ -24992,7 +24992,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 4,
     "createdAt": "2018-02-09T15:56:28Z"
   },
   {
@@ -25020,18 +25020,6 @@
     "createdAt": "2018-09-11T17:29:02Z"
   },
   {
-    "login": "matejjetam",
-    "name": "matejjetam",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/44277991?s=72&u=5c1aca736f0c8596d567df373f8cd50f8879f81a&v=4",
-    "location": "Slovakia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2018-10-18T22:25:56Z"
-  },
-  {
     "login": "aavgoustis",
     "name": "Aris Avgoustis",
     "avatarUrl": "https://avatars.githubusercontent.com/u/42521267?s=72&u=eb6c918053da4b35e4d3a730d920a62a59039bbd&v=4",
@@ -25051,7 +25039,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 333,
+    "privateContributions": 363,
     "publicContributions": 1,
     "createdAt": "2018-09-09T10:57:11Z"
   },
@@ -25088,7 +25076,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 8,
     "createdAt": "2018-02-24T16:52:05Z"
   },
   {

@@ -25111,8 +25111,8 @@
     "company": "Freelancer",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 178,
+    "privateContributions": 976,
+    "publicContributions": 232,
     "createdAt": "2022-12-27T15:00:38Z"
   },
   {
@@ -25123,21 +25123,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 370,
-    "publicContributions": 71,
+    "privateContributions": 395,
+    "publicContributions": 46,
     "createdAt": "2022-06-27T19:12:46Z"
-  },
-  {
-    "login": "gmoinbong",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/108009204?s=72&v=4",
-    "location": "Prague, Czechia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 2324,
-    "publicContributions": 615,
-    "createdAt": "2022-06-22T14:14:43Z"
   },
   {
     "login": "katushk-a",
@@ -25160,7 +25148,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 130,
+    "publicContributions": 109,
     "createdAt": "2022-05-06T04:12:58Z"
   },
   {
@@ -25171,8 +25159,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 832,
-    "publicContributions": 0,
+    "privateContributions": 796,
+    "publicContributions": 27,
     "createdAt": "2022-06-02T07:31:06Z"
   },
   {
@@ -25183,8 +25171,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 693,
-    "publicContributions": 27,
+    "privateContributions": 607,
+    "publicContributions": 26,
     "createdAt": "2022-09-22T13:15:00Z"
   },
   {
@@ -25195,7 +25183,7 @@
     "company": "@meadworks ",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 1861,
+    "privateContributions": 2771,
     "publicContributions": 48,
     "createdAt": "2022-03-24T20:40:11Z"
   },
@@ -25206,9 +25194,9 @@
     "location": "Prague, Czechia",
     "company": "Raindead",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 54,
+    "publicContributions": 42,
     "createdAt": "2022-10-17T02:56:53Z"
   },
   {
@@ -25220,19 +25208,19 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 548,
+    "publicContributions": 275,
     "createdAt": "2022-12-06T20:40:46Z"
   },
   {
     "login": "savycek",
     "name": "savycek",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/100072920?s=72&u=8a32a89cdffb72b30ac58305de8d577d57045f6c&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/100072920?s=72&u=9dbccf4768254a896ac6dd1754733df44766d58a&v=4",
     "location": "Hradec Králové, Czechia",
-    "company": "@Clova-cz ",
+    "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 86,
+    "publicContributions": 93,
     "createdAt": "2022-02-20T11:28:32Z"
   },
   {
@@ -25244,7 +25232,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 125,
+    "publicContributions": 123,
     "createdAt": "2022-08-04T07:22:12Z"
   },
   {
@@ -25254,22 +25242,10 @@
     "location": "Czechia",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 10,
-    "publicContributions": 88,
+    "followers": 4,
+    "privateContributions": 12,
+    "publicContributions": 92,
     "createdAt": "2022-05-31T15:38:24Z"
-  },
-  {
-    "login": "kuncicky",
-    "name": "Radim Kunčický",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/117979934?s=72&u=486cd110cf4808ecbc078e91b987221d476a6014&v=4",
-    "location": "Czechia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 6,
-    "createdAt": "2022-11-11T09:13:31Z"
   },
   {
     "login": "Alex-Stranger-Dev",
@@ -25302,9 +25278,9 @@
     "location": "Czechia, Pardubice region",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 183,
+    "publicContributions": 144,
     "createdAt": "2022-05-19T16:19:33Z"
   },
   {
@@ -25316,7 +25292,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 125,
+    "publicContributions": 120,
     "createdAt": "2022-03-22T09:47:15Z"
   },
   {
@@ -25326,7 +25302,7 @@
     "location": "Czechia",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 13,
     "createdAt": "2022-08-16T17:46:17Z"
@@ -25340,7 +25316,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2022-08-07T16:56:44Z"
   },
   {

@@ -25249,12 +25249,12 @@
   },
   {
     "login": "T-HEX16",
-    "name": "",
+    "name": "Jakob",
     "avatarUrl": "https://avatars.githubusercontent.com/u/98384466?s=72&u=01b26ce63686d9a2504bf23f31c0def2e9d7490f&v=4",
     "location": "Austria",
-    "company": "",
+    "company": "Fh-OOE Hagenberg",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-01-25T08:17:40Z"
@@ -25278,9 +25278,9 @@
     "location": "Linz, Austria",
     "company": "apollo.ai",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 38,
-    "publicContributions": 743,
+    "followers": 5,
+    "privateContributions": 22,
+    "publicContributions": 740,
     "createdAt": "2022-06-02T18:53:20Z"
   },
   {
@@ -25290,9 +25290,9 @@
     "location": "Austria",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 46,
     "createdAt": "2022-07-11T15:33:01Z"
   },
   {
@@ -25302,9 +25302,9 @@
     "location": "Vienna, Austria",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 32,
-    "publicContributions": 93,
+    "followers": 3,
+    "privateContributions": 24,
+    "publicContributions": 91,
     "createdAt": "2022-09-19T18:28:21Z"
   },
   {
@@ -25315,8 +25315,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 97,
-    "publicContributions": 425,
+    "privateContributions": 155,
+    "publicContributions": 457,
     "createdAt": "2022-12-13T19:04:58Z"
   },
   {
@@ -25342,18 +25342,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-07-25T16:38:49Z"
-  },
-  {
-    "login": "Alxve99",
-    "name": "Alxve",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/114466377?s=72&u=dc0ff84f4e9cb0928b543bd7d454ebf32542a9f9&v=4",
-    "location": "Austria",
-    "company": "",
-    "twitterUsername": "Alxve99",
-    "followers": 2,
-    "privateContributions": 6560,
-    "publicContributions": 39,
-    "createdAt": "2022-09-27T06:03:06Z"
   },
   {
     "login": "peterhaider",
@@ -25423,7 +25411,7 @@
     "company": "TU Wien",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 14,
+    "privateContributions": 31,
     "publicContributions": 0,
     "createdAt": "2022-04-05T05:51:57Z"
   },
@@ -25434,7 +25422,7 @@
     "location": "Salzburg, Austria",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
     "publicContributions": 20,
     "createdAt": "2022-08-09T10:32:59Z"
@@ -25447,7 +25435,7 @@
     "company": "Unifits",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 478,
+    "privateContributions": 550,
     "publicContributions": 0,
     "createdAt": "2022-01-20T10:20:48Z"
   },

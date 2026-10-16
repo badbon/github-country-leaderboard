@@ -25376,7 +25376,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 0,
     "createdAt": "2022-01-29T10:01:12Z"
   },
   {
@@ -25410,7 +25410,7 @@
     "location": "Denmark",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2022-12-26T16:49:00Z"
@@ -25435,8 +25435,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 491,
-    "publicContributions": 87,
+    "privateContributions": 552,
+    "publicContributions": 58,
     "createdAt": "2022-09-07T09:55:19Z"
   },
   {
@@ -25447,8 +25447,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 48,
-    "publicContributions": 17,
+    "privateContributions": 128,
+    "publicContributions": 12,
     "createdAt": "2022-07-11T07:57:29Z"
   },
   {
@@ -25466,13 +25466,13 @@
   {
     "login": "oumar969",
     "name": "Omar ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/114076085?s=72&u=358a8344edaa17a4f9d1321560ec67985a240ecf&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/114076085?s=72&u=dbea748a043f86c581106e389ba45256fc1dbdcc&v=4",
     "location": "Horsens, Denmark",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 388,
+    "publicContributions": 527,
     "createdAt": "2022-09-21T11:54:47Z"
   },
   {
@@ -25482,8 +25482,8 @@
     "location": "Copenhagen",
     "company": "",
     "twitterUsername": "aashkann_",
-    "followers": 46,
-    "privateContributions": 5545,
+    "followers": 49,
+    "privateContributions": 6565,
     "publicContributions": 34,
     "createdAt": "2022-03-14T12:45:13Z"
   },
@@ -25494,9 +25494,9 @@
     "location": "Copenhagen",
     "company": "",
     "twitterUsername": "",
-    "followers": 39,
-    "privateContributions": 833,
-    "publicContributions": 302,
+    "followers": 46,
+    "privateContributions": 854,
+    "publicContributions": 251,
     "createdAt": "2022-09-05T07:34:55Z"
   },
   {
@@ -25506,7 +25506,7 @@
     "location": "Copenhagen",
     "company": "Unity Technologies",
     "twitterUsername": "",
-    "followers": 36,
+    "followers": 35,
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2022-04-28T09:29:33Z"
@@ -25518,9 +25518,9 @@
     "location": "Copenhagen",
     "company": "Microsoft",
     "twitterUsername": "",
-    "followers": 30,
-    "privateContributions": 367,
-    "publicContributions": 3166,
+    "followers": 33,
+    "privateContributions": 201,
+    "publicContributions": 3169,
     "createdAt": "2022-11-09T12:27:55Z"
   },
   {
@@ -25544,7 +25544,7 @@
     "twitterUsername": "",
     "followers": 18,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 30,
     "createdAt": "2022-08-24T10:19:20Z"
   },
   {
@@ -25554,9 +25554,9 @@
     "location": "Copenhagen",
     "company": "",
     "twitterUsername": "",
-    "followers": 15,
-    "privateContributions": 49,
-    "publicContributions": 98,
+    "followers": 16,
+    "privateContributions": 180,
+    "publicContributions": 133,
     "createdAt": "2022-04-30T11:57:08Z"
   },
   {

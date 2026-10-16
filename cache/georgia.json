@@ -25380,18 +25380,6 @@
     "createdAt": "2021-05-24T14:23:40Z"
   },
   {
-    "login": "audamoon",
-    "name": "Nikita",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/77841503?s=72&u=219557c1207ed0f7eeb3f9e06fa58b86565f42fa&v=4",
-    "location": "Georgia",
-    "company": "@inDriver ",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 1050,
-    "publicContributions": 5,
-    "createdAt": "2021-01-22T13:14:07Z"
-  },
-  {
     "login": "LiziChichua",
     "name": "Lizi Chichua",
     "avatarUrl": "https://avatars.githubusercontent.com/u/83401753?s=72&u=e4d2252c0b9334b8fb9d46e607e2f0487b243cad&v=4",
@@ -25417,8 +25405,8 @@
   },
   {
     "login": "DI-ana",
-    "name": "Diana Egiazarova",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/78656084?s=72&u=bc63212d03132c54992e84dfed3e6152b7791fa6&v=4",
+    "name": "Diana Egiazarova-Soczek",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/78656084?s=72&v=4",
     "location": "Georgia",
     "company": "",
     "twitterUsername": "",
@@ -25447,8 +25435,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 1908,
-    "publicContributions": 5,
+    "privateContributions": 2347,
+    "publicContributions": 6,
     "createdAt": "2021-01-26T09:34:29Z"
   },
   {
@@ -25459,7 +25447,7 @@
     "company": "Senior QA Automation Engineer",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 1259,
+    "privateContributions": 1257,
     "publicContributions": 13,
     "createdAt": "2021-02-25T08:56:30Z"
   },
@@ -25471,21 +25459,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 6970,
-    "publicContributions": 275,
+    "privateContributions": 7665,
+    "publicContributions": 289,
     "createdAt": "2021-04-07T19:16:05Z"
-  },
-  {
-    "login": "etherbiswas",
-    "name": "Ether Biswas",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/88607362?s=72&u=6de2de6c641455ba03ce1d5572260cacab33d372&v=4",
-    "location": "Augusta, Georgia",
-    "company": "",
-    "twitterUsername": "not_ethernet",
-    "followers": 4,
-    "privateContributions": 1,
-    "publicContributions": 17,
-    "createdAt": "2021-08-08T05:33:56Z"
   },
   {
     "login": "KetiBochorishvili",
@@ -25507,7 +25483,7 @@
     "company": "Open to work",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 153,
+    "privateContributions": 281,
     "publicContributions": 102,
     "createdAt": "2021-09-08T18:06:21Z"
   },
@@ -25519,7 +25495,7 @@
     "company": "",
     "twitterUsername": "_dot_etc",
     "followers": 4,
-    "privateContributions": 2046,
+    "privateContributions": 2179,
     "publicContributions": 11,
     "createdAt": "2021-04-28T15:05:13Z"
   },
@@ -25532,7 +25508,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 6,
     "createdAt": "2021-03-09T10:57:02Z"
   },
   {
@@ -25567,8 +25543,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 5,
-    "publicContributions": 284,
+    "privateContributions": 62,
+    "publicContributions": 39,
     "createdAt": "2021-01-19T15:35:39Z"
   },
   {
@@ -25590,7 +25566,7 @@
     "location": "Athen, Georgia",
     "company": "University of Georgia",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-08-03T14:38:19Z"

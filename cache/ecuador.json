@@ -25388,7 +25388,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 36,
-    "publicContributions": 15,
+    "publicContributions": 6,
     "createdAt": "2020-04-23T17:30:11Z"
   },
   {
@@ -25398,9 +25398,9 @@
     "location": "Ecuador",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 654,
-    "publicContributions": 3,
+    "followers": 5,
+    "privateContributions": 520,
+    "publicContributions": 4,
     "createdAt": "2020-09-14T07:34:42Z"
   },
   {
@@ -25424,7 +25424,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 217,
+    "publicContributions": 181,
     "createdAt": "2020-11-21T01:45:48Z"
   },
   {
@@ -25435,8 +25435,8 @@
     "company": "levting",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 484,
-    "publicContributions": 70,
+    "privateContributions": 537,
+    "publicContributions": 62,
     "createdAt": "2020-12-02T02:20:39Z"
   },
   {
@@ -25447,13 +25447,13 @@
     "company": "COMPAÑIA DE INNOVACIÓN TECNOLÓGICA IDRIX S.A.",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 201,
+    "privateContributions": 235,
     "publicContributions": 0,
     "createdAt": "2020-05-02T03:13:19Z"
   },
   {
     "login": "calebdamian",
-    "name": "",
+    "name": "Caleb",
     "avatarUrl": "https://avatars.githubusercontent.com/u/63675970?s=72&v=4",
     "location": "Ecuador",
     "company": "",
@@ -25471,8 +25471,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 158,
-    "publicContributions": 129,
+    "privateContributions": 117,
+    "publicContributions": 85,
     "createdAt": "2020-02-28T03:15:10Z"
   },
   {
@@ -25495,8 +25495,8 @@
     "company": "@Stelar-LLC",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 12,
-    "publicContributions": 4,
+    "privateContributions": 10,
+    "publicContributions": 23,
     "createdAt": "2020-12-20T18:20:47Z"
   },
   {
@@ -25506,9 +25506,9 @@
     "location": "Quito, Ecuador",
     "company": "",
     "twitterUsername": "juanmartin8a",
-    "followers": 4,
-    "privateContributions": 64,
-    "publicContributions": 311,
+    "followers": 5,
+    "privateContributions": 188,
+    "publicContributions": 362,
     "createdAt": "2020-04-06T23:52:28Z"
   },
   {
@@ -25519,8 +25519,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 2561,
-    "publicContributions": 23,
+    "privateContributions": 2917,
+    "publicContributions": 9,
     "createdAt": "2020-06-03T18:44:20Z"
   },
   {
@@ -25530,22 +25530,10 @@
     "location": "Ecuador",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 14,
     "createdAt": "2020-05-08T14:25:43Z"
-  },
-  {
-    "login": "EvilJKD",
-    "name": "José M. Cadena",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/73203649?s=72&u=f9a2cfe39ef189c220d9ced1ee9a9afa6ba555d0&v=4",
-    "location": "Quito, Ecuador",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2020-10-20T23:38:10Z"
   },
   {
     "login": "helterdev",
@@ -25566,7 +25554,7 @@
     "location": " Quito, Ecuador",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2020-05-30T20:46:23Z"
@@ -25579,8 +25567,8 @@
     "company": "@clear-software-dev ",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 927,
-    "publicContributions": 14,
+    "privateContributions": 1600,
+    "publicContributions": 3,
     "createdAt": "2020-03-24T03:03:51Z"
   },
   {
@@ -25590,7 +25578,7 @@
     "location": "Ecuador",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2020-05-25T20:24:33Z"
