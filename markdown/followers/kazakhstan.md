@@ -1,8 +1,8 @@
 # Followers - Kazakhstan
 
-Generated: 2026-10-16T07:10:31.612Z
+Generated: 2026-10-16T08:28:34.222Z
 
-Users: 5645
+Users: 5644
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

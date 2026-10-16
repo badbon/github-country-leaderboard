@@ -1,6 +1,6 @@
 # Public Contributions - Botswana
 
-Generated: 2026-10-16T06:48:55.623Z
+Generated: 2026-10-16T08:04:23.496Z
 
 Users: 533
 
@@ -11,7 +11,7 @@ Users: 533
 | 3 | [mwmiller](https://github.com/mwmiller) | Matt Miller |  |  | Gaborone, Botswana | 1232 |
 | 4 | [darula-hpp](https://github.com/darula-hpp) | Olebogeng Mbedzi | Gitwork |  | Gaborone | 1198 |
 | 5 | [Todd366](https://github.com/Todd366) | BSTM Ecosystem  | Bstm |  | Botswana 🇧🇼  | 1045 |
-| 6 | [NjabuloJf](https://github.com/NjabuloJf) | Njabulo Jb |  |  | Botswana  | 995 |
+| 6 | [NjabuloJf](https://github.com/NjabuloJf) | Njabulo Jb |  |  | Botswana  | 1010 |
 | 7 | [arnold1990-cell](https://github.com/arnold1990-cell) | Arnold Tyvern Madamombe | Self-Employed |  | Gaborone Botswana | 856 |
 | 8 | [tmosimanyana](https://github.com/tmosimanyana) | Tinny Mosimanyana |  |  | Gaborone, Botswana | 838 |
 | 9 | [Mopati123](https://github.com/Mopati123) | Mopati Ramaologa |  |  | Gaborone, Botswana | 735 |
@@ -24,5 +24,5 @@ Users: 533
 | 16 | [mulaxprime](https://github.com/mulaxprime) | Mulax Prime |  | RomeobwIII | Gaborone, Botswana | 372 |
 | 17 | [WyvernPirate](https://github.com/WyvernPirate) | Phemelo Moloi | Botswana International University of Science and Technology |  | Maun, Botswana | 347 |
 | 18 | [DippsDev](https://github.com/DippsDev) | DippsDev | SKYF |  | Botswana | 327 |
-| 19 | [Serumola](https://github.com/Serumola) | Pako Serumola |  |  | Gaborone, Botswana | 323 |
+| 19 | [Serumola](https://github.com/Serumola) | Pako Serumola |  |  | Gaborone, Botswana | 325 |
 | 20 | [TheoMKgosi](https://github.com/TheoMKgosi) |  |  |  | Botswana | 291 |

@@ -18,7 +18,7 @@ Indexed users: 37
 | 4 | [rendell](https://github.com/rendell) | Rendell de Kort | Aruba | 548 |
 | 5 | [EstherPlomp](https://github.com/EstherPlomp) | Esther Plomp | Aruba | 496 |
 | 6 | [blonkm](https://github.com/blonkm) | Michiel van der Blonk | Oranjestad, Aruba | 203 |
-| 7 | [GeraldR12](https://github.com/GeraldR12) | Nathan R | Aruba | 178 |
+| 7 | [GeraldR12](https://github.com/GeraldR12) | Nathan R | Aruba | 179 |
 | 8 | [StephanZaat](https://github.com/StephanZaat) | Stephan Zaat | Aruba | 128 |
 | 9 | [Veknica](https://github.com/Veknica) | Pola Sendviča | Oranjestad | 72 |
 | 10 | [waterkip](https://github.com/waterkip) | Wesley Schwengle | Aruba | 47 |
@@ -83,4 +83,4 @@ Indexed users: 37
 | 19 | [DushiRox](https://github.com/DushiRox) | Roxana Rodriguez | Oranjestad, Aruba | 4 |
 | 20 | [JunyEngelhart](https://github.com/JunyEngelhart) | JunTech  (AWS Aruba) | Oranjestad, Aruba | 4 |
 
-Generated: 2026-10-16T06:41:28.635Z
+Generated: 2026-10-16T07:59:00.483Z

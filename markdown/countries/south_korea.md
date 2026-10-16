@@ -1,6 +1,6 @@
 # South Korea
 
-Indexed users: 56,921
+Indexed users: 56,919
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 56,921
 | 19 | [rickiepark](https://github.com/rickiepark) | Haesun Park | Seoul, Korea | 1,884 |
 | 20 | [joshua1988](https://github.com/joshua1988) | Captain Pangyo | South Korea | 1,726 |
 
-Generated: 2026-10-16T06:25:10.492Z
+Generated: 2026-10-16T07:44:12.604Z

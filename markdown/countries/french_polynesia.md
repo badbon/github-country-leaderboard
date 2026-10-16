@@ -55,8 +55,8 @@ Indexed users: 60
 | 16 | [MartinBINARD](https://github.com/MartinBINARD) | Martin Binard | Tahiti, French Polynesia | 7 |
 | 17 | [rputoa](https://github.com/rputoa) | Rowan PUTOA | Papeete, French Polynesia | 6 |
 | 18 | [Heinux](https://github.com/Heinux) | Heinux | French Polynesia | 5 |
-| 19 | [HURIMOZ](https://github.com/HURIMOZ) | Huri Translations | Mo'orea, French Polynesia | 3 |
-| 20 | [JDaviso1](https://github.com/JDaviso1) | John Davison | French Polynesia | 3 |
+| 19 | [JDaviso1](https://github.com/JDaviso1) | John Davison | French Polynesia | 4 |
+| 20 | [HURIMOZ](https://github.com/HURIMOZ) | Huri Translations | Mo'orea, French Polynesia | 3 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 60
 | 19 | [TToarii](https://github.com/TToarii) | TAU Toarii | French Polynesia | 5 |
 | 20 | [geoffguillain](https://github.com/geoffguillain) | Geoff | French Polynesia | 4 |
 
-Generated: 2026-10-16T07:00:42.019Z
+Generated: 2026-10-16T08:19:25.636Z

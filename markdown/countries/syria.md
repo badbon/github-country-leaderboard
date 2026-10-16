@@ -13,7 +13,7 @@ Indexed users: 1,480
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [sakeraldakak](https://github.com/sakeraldakak) | Saker Al Dakak | Syria, Damascus | 8,751 |
-| 2 | [MustafaFares445](https://github.com/MustafaFares445) | Mustafa Fares | Aleppo/Syria | 5,707 |
+| 2 | [MustafaFares445](https://github.com/MustafaFares445) | Mustafa Fares | Aleppo/Syria | 5,722 |
 | 3 | [moaaz-alsyoufi](https://github.com/moaaz-alsyoufi) | Moaaz Alsyoufi | Homs, Syria | 5,147 |
 | 4 | [ibrahim4433](https://github.com/ibrahim4433) | Ibrahim Andraws | Syria | 4,647 |
 | 5 | [Abubakr-Alsheikh](https://github.com/Abubakr-Alsheikh) | Abubakr Alsheikh | Syria | 4,593 |
@@ -37,7 +37,7 @@ Indexed users: 1,480
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [MustafaFares445](https://github.com/MustafaFares445) | Mustafa Fares | Aleppo/Syria | 4,645 |
+| 1 | [MustafaFares445](https://github.com/MustafaFares445) | Mustafa Fares | Aleppo/Syria | 4,653 |
 | 2 | [gaaferHajji2](https://github.com/gaaferHajji2) | Jafar Loka | Damascus - SY | 2,853 |
 | 3 | [nachawati](https://github.com/nachawati) | Mohamad Omar Nachawati | Damascus, Syria | 2,001 |
 | 4 | [assem2023-habib](https://github.com/assem2023-habib) | Assem | Latakia, Syria | 1,654 |
@@ -62,13 +62,13 @@ Indexed users: 1,480
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [meory101](https://github.com/meory101) | Nour Othman | Damascus Syria | 722 |
-| 2 | [WaelTarabishi](https://github.com/WaelTarabishi) | Wael Tarabishi | Syria | 309 |
+| 1 | [meory101](https://github.com/meory101) | Nour Othman | Damascus Syria | 723 |
+| 2 | [WaelTarabishi](https://github.com/WaelTarabishi) | Wael Tarabishi | Syria | 311 |
 | 3 | [SedrAlex](https://github.com/SedrAlex) | Sedra Mhanna | Damascus, Syria | 306 |
 | 4 | [Rakwan007](https://github.com/Rakwan007) | Rakwan | syria | 303 |
 | 5 | [firasuke](https://github.com/firasuke) | Firas Khana | Aleppo, Syria | 222 |
-| 6 | [nawrzqal](https://github.com/nawrzqal) | nawrz qal | syria  | 202 |
-| 7 | [simabilony](https://github.com/simabilony) | Sima Bilony | Syria/Aleppo | 176 |
+| 6 | [nawrzqal](https://github.com/nawrzqal) | nawrz qal | syria  | 203 |
+| 7 | [simabilony](https://github.com/simabilony) | Sima Bilony | Syria/Aleppo | 175 |
 | 8 | [hassansaker](https://github.com/hassansaker) |  | Damascus | 174 |
 | 9 | [Rabee-Omran](https://github.com/Rabee-Omran) | Rabee Omran | Syria | 155 |
 | 10 | [Yassin522](https://github.com/Yassin522) | Yassin Abdulmahdi | Syria | 148 |
@@ -83,4 +83,4 @@ Indexed users: 1,480
 | 19 | [nebrassy](https://github.com/nebrassy) | Nebrassy | Latakia, Syria | 102 |
 | 20 | [zaher](https://github.com/zaher) | Zaher Dirkey | Damascus, Syria | 95 |
 
-Generated: 2026-10-16T06:27:40.499Z
+Generated: 2026-10-16T07:46:38.908Z

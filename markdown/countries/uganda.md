@@ -22,16 +22,16 @@ Indexed users: 3,872
 | 8 | [ziyalogy](https://github.com/ziyalogy) | Ziyal Amanya | Uganda | 9,934 |
 | 9 | [MUKE-coder](https://github.com/MUKE-coder) | MUKE JOHNBAPTIST | KAMPALA -UGANDA | 9,513 |
 | 10 | [GenoJ83](https://github.com/GenoJ83) | Geno Joshua | Kampala | 9,133 |
-| 11 | [baliddeki](https://github.com/baliddeki) | Aliddeki Mulindwa Bryan | Kampala, Uganda | 9,028 |
-| 12 | [Mugamba669](https://github.com/Mugamba669) | Mugamba669 | Kampala, Uganda | 7,995 |
-| 13 | [KansiimeKenie](https://github.com/KansiimeKenie) | Kansiime Keneth | kampala, Ug | 7,957 |
-| 14 | [GaspardKirira](https://github.com/GaspardKirira) | G-kirira | Africa / Uganda / Kampala | 7,825 |
-| 15 | [baliksjosay](https://github.com/baliksjosay) | Joseph Balikuddembe | Kampala, uganda | 7,753 |
-| 16 | [judeotine](https://github.com/judeotine) | Judeotine | Uganda | 7,440 |
-| 17 | [cosmah](https://github.com/cosmah) | cosmah | kampala, Uganda | 7,177 |
-| 18 | [BrianPollar](https://github.com/BrianPollar) | Pollar Brian Okello | Kampala, Uganda | 6,811 |
-| 19 | [matovu-farid](https://github.com/matovu-farid) | Farid Matovu | Uganda | 6,805 |
-| 20 | [Bravos-hub](https://github.com/Bravos-hub) | BRAVE OLIMI | Bugema  Kampala-Uganda | 6,657 |
+| 11 | [engWafula](https://github.com/engWafula) | Wafula Allan  Isaac | kampala | 9,056 |
+| 12 | [baliddeki](https://github.com/baliddeki) | Aliddeki Mulindwa Bryan | Kampala, Uganda | 9,028 |
+| 13 | [Mugamba669](https://github.com/Mugamba669) | Mugamba669 | Kampala, Uganda | 7,995 |
+| 14 | [KansiimeKenie](https://github.com/KansiimeKenie) | Kansiime Keneth | kampala, Ug | 7,957 |
+| 15 | [GaspardKirira](https://github.com/GaspardKirira) | G-kirira | Africa / Uganda / Kampala | 7,825 |
+| 16 | [baliksjosay](https://github.com/baliksjosay) | Joseph Balikuddembe | Kampala, uganda | 7,753 |
+| 17 | [judeotine](https://github.com/judeotine) | Judeotine | Uganda | 7,440 |
+| 18 | [cosmah](https://github.com/cosmah) | cosmah | kampala, Uganda | 7,177 |
+| 19 | [BrianPollar](https://github.com/BrianPollar) | Pollar Brian Okello | Kampala, Uganda | 6,811 |
+| 20 | [matovu-farid](https://github.com/matovu-farid) | Farid Matovu | Uganda | 6,805 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 3,872
 | 19 | [Kitemaggwa-Shafic](https://github.com/Kitemaggwa-Shafic) | Bin Profic | Kampala mengo, Najjanankumbi Ebb rd | 198 |
 | 20 | [kallyas](https://github.com/kallyas) | Iden | Uganda | 190 |
 
-Generated: 2026-10-16T06:32:47.514Z
+Generated: 2026-10-16T07:52:07.445Z

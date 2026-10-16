@@ -62,7 +62,7 @@ Indexed users: 67
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [kruseio](https://github.com/kruseio) | Ragnar Kruse | Faroe Islands | 189 |
+| 1 | [kruseio](https://github.com/kruseio) | Ragnar Kruse | Faroe Islands | 188 |
 | 2 | [TimonPeng](https://github.com/TimonPeng) | Timon Peng | Føroyar | 124 |
 | 3 | [ahjohannessen](https://github.com/ahjohannessen) | Alex Henning Johannessen | Faroe Islands | 45 |
 | 4 | [Brian-ED](https://github.com/Brian-ED) | Brian E | Faroe Islands | 21 |
@@ -83,4 +83,4 @@ Indexed users: 67
 | 19 | [shishpt](https://github.com/shishpt) | Shishir Patel | Torshavn, Faroe Islands | 7 |
 | 20 | [suuunly](https://github.com/suuunly) | Jóhann Østerø | Faroe Islands | 7 |
 
-Generated: 2026-10-16T07:00:24.968Z
+Generated: 2026-10-16T08:17:38.900Z

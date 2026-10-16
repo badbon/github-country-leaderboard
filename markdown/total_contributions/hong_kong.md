@@ -1,8 +1,8 @@
 # Total Contributions - Hong Kong
 
-Generated: 2026-10-16T07:06:34.846Z
+Generated: 2026-10-16T08:25:09.526Z
 
-Users: 10276
+Users: 10277
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -21,8 +21,8 @@ Users: 10276
 | 13 | [SpatLyu](https://github.com/SpatLyu) | Wenbo Lyu | PolyU; HKUST(GZ); |  | Hong Kong | 13265 |
 | 14 | [antopiahk](https://github.com/antopiahk) | Jorge Lewis | @startino |  | Hong Kong | 12379 |
 | 15 | [araa47](https://github.com/araa47) | Akshay  |  |  | Hong Kong  | 11917 |
-| 16 | [clchinkc](https://github.com/clchinkc) | Kevin Chin | @narrativeproject |  | Hong Kong | 11369 |
-| 17 | [veryverypro](https://github.com/veryverypro) | Xu, Hao | Optima AI Limited |  | Hong Kong | 11308 |
-| 18 | [shuakami](https://github.com/shuakami) | 速冻饺子 | Luoxiaohei |  | Hong Kong | 11006 |
-| 19 | [jasongong111](https://github.com/jasongong111) | Jason Gong | Hong Kong Baptist University  |  | KLT, KW, Hong Kong | 10906 |
-| 20 | [qq200774491](https://github.com/qq200774491) | 花吃了阿九 |  |  | Hong Kong | 10458 |
+| 16 | [CeHouGIS](https://github.com/CeHouGIS) | Ce Hou | the Hong Kong University of Science and Technology (HKUST) |  | Hong Kong | 11487 |
+| 17 | [clchinkc](https://github.com/clchinkc) | Kevin Chin | @narrativeproject |  | Hong Kong | 11369 |
+| 18 | [veryverypro](https://github.com/veryverypro) | Xu, Hao | Optima AI Limited |  | Hong Kong | 11308 |
+| 19 | [shuakami](https://github.com/shuakami) | 速冻饺子 | Luoxiaohei |  | Hong Kong | 11006 |
+| 20 | [jasongong111](https://github.com/jasongong111) | Jason Gong | Hong Kong Baptist University  |  | KLT, KW, Hong Kong | 10906 |

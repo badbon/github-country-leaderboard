@@ -1,6 +1,6 @@
 # Colombia
 
-Indexed users: 29,157
+Indexed users: 29,156
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 29,157
 | 19 | [goanpeca](https://github.com/goanpeca) | Gonzalo Peña-Castellanos | Bogotá, Colombia | 530 |
 | 20 | [jdvelasq](https://github.com/jdvelasq) | Juan David Velásquez-Henao | Medellín, Colombia | 529 |
 
-Generated: 2026-10-16T06:53:02.343Z
+Generated: 2026-10-16T08:08:12.646Z

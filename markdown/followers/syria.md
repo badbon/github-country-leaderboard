@@ -1,18 +1,18 @@
 # Followers - Syria
 
-Generated: 2026-10-16T06:27:40.499Z
+Generated: 2026-10-16T07:46:38.908Z
 
 Users: 1480
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [meory101](https://github.com/meory101) | Nour Othman |  |  | Damascus Syria | 722 |
-| 2 | [WaelTarabishi](https://github.com/WaelTarabishi) | Wael Tarabishi |  |  | Syria | 309 |
+| 1 | [meory101](https://github.com/meory101) | Nour Othman |  |  | Damascus Syria | 723 |
+| 2 | [WaelTarabishi](https://github.com/WaelTarabishi) | Wael Tarabishi |  |  | Syria | 311 |
 | 3 | [SedrAlex](https://github.com/SedrAlex) | Sedra Mhanna | Seven Technologies |  | Damascus, Syria | 306 |
 | 4 | [Rakwan007](https://github.com/Rakwan007) | Rakwan | Rako |  | syria | 303 |
 | 5 | [firasuke](https://github.com/firasuke) | Firas Khana | @glaucuslinux  |  | Aleppo, Syria | 222 |
-| 6 | [nawrzqal](https://github.com/nawrzqal) | nawrz qal | Yarmouk Private University |  | syria  | 202 |
-| 7 | [simabilony](https://github.com/simabilony) | Sima Bilony |  |  | Syria/Aleppo | 176 |
+| 6 | [nawrzqal](https://github.com/nawrzqal) | nawrz qal | Yarmouk Private University |  | syria  | 203 |
+| 7 | [simabilony](https://github.com/simabilony) | Sima Bilony |  |  | Syria/Aleppo | 175 |
 | 8 | [hassansaker](https://github.com/hassansaker) |  | SMART ROUTE |  | Damascus | 174 |
 | 9 | [Rabee-Omran](https://github.com/Rabee-Omran) | Rabee Omran |  |  | Syria | 155 |
 | 10 | [Yassin522](https://github.com/Yassin522) | Yassin Abdulmahdi | Damascus University |  | Syria | 148 |

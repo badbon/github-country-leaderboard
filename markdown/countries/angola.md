@@ -1,6 +1,6 @@
 # Angola
 
-Indexed users: 2,502
+Indexed users: 2,501
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 2,502
 | 19 | [jofranqueira](https://github.com/jofranqueira) | José Frangueira | Angola | 160 |
 | 20 | [Jovanysfive](https://github.com/Jovanysfive) | Job Bento | Angola/Luanda | 152 |
 
-Generated: 2026-10-16T06:40:15.117Z
+Generated: 2026-10-16T08:08:07.838Z

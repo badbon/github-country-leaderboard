@@ -1,6 +1,6 @@
 # Public Contributions - French Polynesia
 
-Generated: 2026-10-16T07:00:42.019Z
+Generated: 2026-10-16T08:19:25.636Z
 
 Users: 60
 
@@ -24,5 +24,5 @@ Users: 60
 | 16 | [MartinBINARD](https://github.com/MartinBINARD) | Martin Binard |  |  | Tahiti, French Polynesia | 7 |
 | 17 | [rputoa](https://github.com/rputoa) | Rowan PUTOA |  |  | Papeete, French Polynesia | 6 |
 | 18 | [Heinux](https://github.com/Heinux) | Heinux |  |  | French Polynesia | 5 |
-| 19 | [HURIMOZ](https://github.com/HURIMOZ) | Huri Translations | Huri Translations |  | Mo'orea, French Polynesia | 3 |
-| 20 | [JDaviso1](https://github.com/JDaviso1) | John Davison |  |  | French Polynesia | 3 |
+| 19 | [JDaviso1](https://github.com/JDaviso1) | John Davison |  |  | French Polynesia | 4 |
+| 20 | [HURIMOZ](https://github.com/HURIMOZ) | Huri Translations | Huri Translations |  | Mo'orea, French Polynesia | 3 |

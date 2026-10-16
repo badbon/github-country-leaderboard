@@ -1,8 +1,8 @@
 # Public Contributions - Hong Kong
 
-Generated: 2026-10-16T07:06:34.846Z
+Generated: 2026-10-16T08:25:09.526Z
 
-Users: 10276
+Users: 10277
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -10,7 +10,7 @@ Users: 10276
 | 2 | [donbeave](https://github.com/donbeave) | Alexey Zhokhov | @scentbird @chainargos | donbeave | Hong Kong | 19852 |
 | 3 | [undivisible](https://github.com/undivisible) | Max Carter 祁明思 | @basedhardware | makethings4ppl | melbourne/hong kong | 15420 |
 | 4 | [BattlefieldDuck](https://github.com/BattlefieldDuck) | tptat |  |  | Hong Kong | 13015 |
-| 5 | [CeHouGIS](https://github.com/CeHouGIS) | Ce Hou | the Hong Kong University of Science and Technology (HKUST) |  | Hong Kong | 9360 |
+| 5 | [CeHouGIS](https://github.com/CeHouGIS) | Ce Hou | the Hong Kong University of Science and Technology (HKUST) |  | Hong Kong | 11082 |
 | 6 | [tombelieber](https://github.com/tombelieber) | Tom Tang |  | Tangwingho | Hong Kong | 9074 |
 | 7 | [lokshunhung](https://github.com/lokshunhung) | LS Hung |  |  | Hong Kong | 8170 |
 | 8 | [wonglaitung](https://github.com/wonglaitung) | Marco Wong | wonglaitung@gmail.com |  | Hong Kong | 7683 |

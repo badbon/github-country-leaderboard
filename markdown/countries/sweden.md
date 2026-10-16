@@ -1,6 +1,6 @@
 # Sweden
 
-Indexed users: 39,040
+Indexed users: 39,037
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 39,040
 | 19 | [tobiasahlin](https://github.com/tobiasahlin) | Tobias Ahlin | Sweden | 2,667 |
 | 20 | [sonyxperiadev](https://github.com/sonyxperiadev) | Sony – Developer World for Xperia | Sweden | 2,664 |
 
-Generated: 2026-10-16T06:27:29.870Z
+Generated: 2026-10-16T07:46:10.479Z

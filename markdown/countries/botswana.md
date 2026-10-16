@@ -42,7 +42,7 @@ Indexed users: 533
 | 3 | [mwmiller](https://github.com/mwmiller) | Matt Miller | Gaborone, Botswana | 1,232 |
 | 4 | [darula-hpp](https://github.com/darula-hpp) | Olebogeng Mbedzi | Gaborone | 1,198 |
 | 5 | [Todd366](https://github.com/Todd366) | BSTM Ecosystem  | Botswana 🇧🇼  | 1,045 |
-| 6 | [NjabuloJf](https://github.com/NjabuloJf) | Njabulo Jb | Botswana  | 995 |
+| 6 | [NjabuloJf](https://github.com/NjabuloJf) | Njabulo Jb | Botswana  | 1,010 |
 | 7 | [arnold1990-cell](https://github.com/arnold1990-cell) | Arnold Tyvern Madamombe | Gaborone Botswana | 856 |
 | 8 | [tmosimanyana](https://github.com/tmosimanyana) | Tinny Mosimanyana | Gaborone, Botswana | 838 |
 | 9 | [Mopati123](https://github.com/Mopati123) | Mopati Ramaologa | Gaborone, Botswana | 735 |
@@ -55,7 +55,7 @@ Indexed users: 533
 | 16 | [mulaxprime](https://github.com/mulaxprime) | Mulax Prime | Gaborone, Botswana | 372 |
 | 17 | [WyvernPirate](https://github.com/WyvernPirate) | Phemelo Moloi | Maun, Botswana | 347 |
 | 18 | [DippsDev](https://github.com/DippsDev) | DippsDev | Botswana | 327 |
-| 19 | [Serumola](https://github.com/Serumola) | Pako Serumola | Gaborone, Botswana | 323 |
+| 19 | [Serumola](https://github.com/Serumola) | Pako Serumola | Gaborone, Botswana | 325 |
 | 20 | [TheoMKgosi](https://github.com/TheoMKgosi) |  | Botswana | 291 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 533
 | 19 | [BakangMonei](https://github.com/BakangMonei) | Monei Bakang | Gaborone, Botswana | 34 |
 | 20 | [Tebalo](https://github.com/Tebalo) | Bopaki | Botswana, Gaborone-Mokobaxane | 34 |
 
-Generated: 2026-10-16T06:48:55.623Z
+Generated: 2026-10-16T08:04:23.496Z

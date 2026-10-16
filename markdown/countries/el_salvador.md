@@ -22,7 +22,7 @@ Indexed users: 2,378
 | 8 | [MarvinQuevedo](https://github.com/MarvinQuevedo) | Marvin Quevedo | El Salvador | 7,596 |
 | 9 | [raarevalo96](https://github.com/raarevalo96) | Rodrigo Arévalo | San Salvador, El Salvador | 7,318 |
 | 10 | [dgerardoflores](https://github.com/dgerardoflores) | Gerardo Flores | El Salvador | 7,270 |
-| 11 | [martirale](https://github.com/martirale) | Alejandro Mártir | El Salvador | 6,938 |
+| 11 | [martirale](https://github.com/martirale) | Alejandro Mártir | El Salvador | 7,264 |
 | 12 | [DesKevinMendez](https://github.com/DesKevinMendez) | Kevin Mendez | El Salvador | 6,290 |
 | 13 | [josealvarado3a](https://github.com/josealvarado3a) | José Alvarado | El Salvador | 6,010 |
 | 14 | [cativo23](https://github.com/cativo23) | Carlos Cativo | San Salvador, El Salvador | 5,913 |
@@ -41,7 +41,7 @@ Indexed users: 2,378
 | 2 | [cativo23](https://github.com/cativo23) | Carlos Cativo | San Salvador, El Salvador | 5,336 |
 | 3 | [sthbryan](https://github.com/sthbryan) | Bryan Villafuerte | El Salvador | 4,953 |
 | 4 | [ThomasFarstrike](https://github.com/ThomasFarstrike) | Thomas Farstrike | El Zonte, El Salvador | 4,589 |
-| 5 | [martirale](https://github.com/martirale) | Alejandro Mártir | El Salvador | 1,986 |
+| 5 | [martirale](https://github.com/martirale) | Alejandro Mártir | El Salvador | 2,052 |
 | 6 | [Haruki1707](https://github.com/Haruki1707) | Diego Gómez | El Salvador | 1,701 |
 | 7 | [Thrumanshow](https://github.com/Thrumanshow) | Cristhiam Leonardo Hernández Quiñonez  | El Salvador  | 1,626 |
 | 8 | [jcanizalez](https://github.com/jcanizalez) | Javier Canizalez | El Salvador | 1,616 |
@@ -83,4 +83,4 @@ Indexed users: 2,378
 | 19 | [MiPrimerBitcoin](https://github.com/MiPrimerBitcoin) | Mi Primer Bitcoin El Salvador | El Salvador | 96 |
 | 20 | [davequinta](https://github.com/davequinta) | David Quintanilla | El Salvador | 95 |
 
-Generated: 2026-10-16T06:58:47.023Z
+Generated: 2026-10-16T08:15:00.029Z
