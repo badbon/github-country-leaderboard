@@ -25963,7 +25963,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 287,
+    "privateContributions": 239,
     "publicContributions": 0,
     "createdAt": "2017-06-09T17:29:13Z"
   },
@@ -25976,7 +25976,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 2,
     "createdAt": "2017-09-01T15:41:35Z"
   },
   {
@@ -25988,7 +25988,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 58,
+    "publicContributions": 144,
     "createdAt": "2017-07-04T02:07:23Z"
   },
   {
@@ -26034,7 +26034,7 @@
     "location": "Guatemala, Guatemala",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 18,
     "createdAt": "2017-03-02T18:15:17Z"
@@ -26118,9 +26118,9 @@
     "location": "Guatemala",
     "company": "",
     "twitterUsername": "shurtarte5",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 35,
+    "publicContributions": 14,
     "createdAt": "2017-04-01T04:52:12Z"
   },
   {
@@ -26160,27 +26160,15 @@
     "createdAt": "2017-07-09T00:45:04Z"
   },
   {
-    "login": "Yisusmr99",
-    "name": "Jesus Morales",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/33701734?s=72&u=2e0baedb60567a2a1088cc5e14f84d36ca4404b2&v=4",
-    "location": "Guatemala",
-    "company": "Ingenio La Union",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 151,
-    "publicContributions": 164,
-    "createdAt": "2017-11-15T20:10:45Z"
-  },
-  {
     "login": "EladioGaldamez",
     "name": "José Galdámez",
     "avatarUrl": "https://avatars.githubusercontent.com/u/31745817?s=72&u=e463832ac069fecc94e83fcf8d41113f808fcf7c&v=4",
     "location": "Antigua Guatemala, Guatemala",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 957,
-    "publicContributions": 61,
+    "followers": 3,
+    "privateContributions": 1175,
+    "publicContributions": 51,
     "createdAt": "2017-09-07T20:22:20Z"
   },
   {

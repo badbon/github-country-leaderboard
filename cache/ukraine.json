@@ -25284,18 +25284,6 @@
     "createdAt": "2024-04-07T05:48:34Z"
   },
   {
-    "login": "BambooFury",
-    "name": "BambooFury",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/168723703?s=72&u=5f7511add3bbb4386e9b6a80692b5e8ce9b56986&v=4",
-    "location": "Kyiv",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 781,
-    "createdAt": "2024-05-02T09:14:35Z"
-  },
-  {
     "login": "olexxxxx",
     "name": "Олександр Македонський",
     "avatarUrl": "https://avatars.githubusercontent.com/u/183807851?s=72&v=4",
@@ -25304,7 +25292,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 54,
+    "publicContributions": 28,
     "createdAt": "2024-10-04T08:20:27Z"
   },
   {
@@ -25314,9 +25302,9 @@
     "location": "Urkaine, Lviv",
     "company": "",
     "twitterUsername": "",
-    "followers": 23,
-    "privateContributions": 387,
-    "publicContributions": 1205,
+    "followers": 25,
+    "privateContributions": 434,
+    "publicContributions": 937,
     "createdAt": "2024-09-28T16:41:24Z"
   },
   {
@@ -25327,8 +25315,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 6,
-    "publicContributions": 168,
+    "privateContributions": 17,
+    "publicContributions": 131,
     "createdAt": "2024-08-29T13:21:55Z"
   },
   {
@@ -25340,7 +25328,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 80,
+    "publicContributions": 81,
     "createdAt": "2024-08-14T01:02:09Z"
   },
   {
@@ -25352,7 +25340,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 89,
+    "publicContributions": 76,
     "createdAt": "2024-03-20T07:34:52Z"
   },
   {
@@ -25363,8 +25351,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 0,
-    "publicContributions": 257,
+    "privateContributions": 33,
+    "publicContributions": 313,
     "createdAt": "2024-09-23T19:08:50Z"
   },
   {
@@ -25376,20 +25364,8 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 209,
+    "publicContributions": 215,
     "createdAt": "2024-06-11T20:58:53Z"
-  },
-  {
-    "login": "khomiak-denys",
-    "name": "Denys",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/188747907?s=72&u=9ebf18e634abc7ab8d5e24f4239925d6dea9896e&v=4",
-    "location": "Lviv",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 428,
-    "publicContributions": 1575,
-    "createdAt": "2024-11-17T08:35:44Z"
   },
   {
     "login": "Nazarii1444",
@@ -25400,7 +25376,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 101,
+    "publicContributions": 82,
     "createdAt": "2024-06-01T11:32:57Z"
   },
   {
@@ -25412,7 +25388,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 2,
-    "publicContributions": 51,
+    "publicContributions": 49,
     "createdAt": "2024-09-21T19:20:44Z"
   },
   {
@@ -25424,7 +25400,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 19,
-    "publicContributions": 302,
+    "publicContributions": 411,
     "createdAt": "2024-04-11T13:47:38Z"
   },
   {
@@ -25435,8 +25411,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 153,
-    "publicContributions": 62,
+    "privateContributions": 103,
+    "publicContributions": 64,
     "createdAt": "2024-02-29T13:00:27Z"
   },
   {
@@ -25446,7 +25422,7 @@
     "location": "Lviv",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 1,
     "publicContributions": 3,
     "createdAt": "2023-12-30T00:21:56Z"
@@ -25460,7 +25436,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 197,
+    "publicContributions": 239,
     "createdAt": "2024-02-04T12:42:30Z"
   },
   {
@@ -25496,7 +25472,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 16,
     "createdAt": "2024-09-12T08:26:13Z"
   },
   {
@@ -25506,9 +25482,9 @@
     "location": "Lviv",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 6,
     "privateContributions": 1,
-    "publicContributions": 77,
+    "publicContributions": 78,
     "createdAt": "2024-09-23T09:56:25Z"
   },
   {
@@ -25520,7 +25496,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 392,
+    "publicContributions": 382,
     "createdAt": "2024-11-06T19:50:52Z"
   },
   {

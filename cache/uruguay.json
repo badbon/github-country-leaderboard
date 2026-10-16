@@ -25712,7 +25712,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2021-03-18T15:22:13Z"
   },
   {
@@ -25723,8 +25723,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 2842,
-    "publicContributions": 166,
+    "privateContributions": 2268,
+    "publicContributions": 149,
     "createdAt": "2021-08-30T15:58:30Z"
   },
   {
@@ -25746,8 +25746,8 @@
     "location": "uruguay",
     "company": "Fenicio Ecommerce",
     "twitterUsername": "",
-    "followers": 348,
-    "privateContributions": 0,
+    "followers": 346,
+    "privateContributions": 1,
     "publicContributions": 1,
     "createdAt": "2020-03-31T03:33:32Z"
   },
@@ -25759,8 +25759,8 @@
     "company": "",
     "twitterUsername": "miguelpacheco_",
     "followers": 140,
-    "privateContributions": 12,
-    "publicContributions": 99,
+    "privateContributions": 0,
+    "publicContributions": 34,
     "createdAt": "2020-06-08T22:27:16Z"
   },
   {
@@ -25770,9 +25770,9 @@
     "location": "Uruguay",
     "company": "@meteor @CloudByGalaxy",
     "twitterUsername": "hschmaiske",
-    "followers": 109,
-    "privateContributions": 3155,
-    "publicContributions": 144,
+    "followers": 110,
+    "privateContributions": 4165,
+    "publicContributions": 21,
     "createdAt": "2019-12-30T22:37:19Z"
   },
   {
@@ -25782,8 +25782,8 @@
     "location": "Montevideo, Uruguay.",
     "company": "@somnio-software",
     "twitterUsername": "papa_gianfranco",
-    "followers": 103,
-    "privateContributions": 144,
+    "followers": 106,
+    "privateContributions": 145,
     "publicContributions": 0,
     "createdAt": "2020-04-02T14:22:41Z"
   },
@@ -25795,7 +25795,7 @@
     "company": "Mercado Libre",
     "twitterUsername": "",
     "followers": 75,
-    "privateContributions": 35,
+    "privateContributions": 43,
     "publicContributions": 0,
     "createdAt": "2020-03-27T02:37:04Z"
   },
@@ -25806,9 +25806,9 @@
     "location": "Uruguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 62,
-    "privateContributions": 1,
-    "publicContributions": 46,
+    "followers": 63,
+    "privateContributions": 65,
+    "publicContributions": 2,
     "createdAt": "2019-12-31T20:31:35Z"
   },
   {
@@ -25818,9 +25818,9 @@
     "location": "Uruguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 56,
+    "followers": 55,
     "privateContributions": 0,
-    "publicContributions": 37,
+    "publicContributions": 17,
     "createdAt": "2020-10-19T01:31:46Z"
   },
   {
@@ -25830,9 +25830,9 @@
     "location": "Montevideo, Uruguay",
     "company": "Holberton School",
     "twitterUsername": "",
-    "followers": 55,
-    "privateContributions": 560,
-    "publicContributions": 64,
+    "followers": 57,
+    "privateContributions": 480,
+    "publicContributions": 68,
     "createdAt": "2020-07-02T12:22:30Z"
   },
   {
@@ -25866,9 +25866,9 @@
     "location": "Montevideo, Uruguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 46,
-    "privateContributions": 790,
-    "publicContributions": 37,
+    "followers": 45,
+    "privateContributions": 1108,
+    "publicContributions": 44,
     "createdAt": "2020-02-07T11:19:08Z"
   },
   {
@@ -25878,9 +25878,9 @@
     "location": "Uruguay, Montevideo",
     "company": "MedusaJS",
     "twitterUsername": "",
-    "followers": 42,
-    "privateContributions": 1178,
-    "publicContributions": 798,
+    "followers": 45,
+    "privateContributions": 1414,
+    "publicContributions": 818,
     "createdAt": "2020-04-01T11:21:06Z"
   },
   {
@@ -25888,11 +25888,11 @@
     "name": "Armando Cesar Martin Calderón",
     "avatarUrl": "https://avatars.githubusercontent.com/u/74042888?s=72&u=a028fa263b71b8e5c85b8cfa1b06989b2c4b626e&v=4",
     "location": "Uruguay",
-    "company": "@dapfycom",
+    "company": "",
     "twitterUsername": "mandy_9943",
-    "followers": 38,
-    "privateContributions": 2359,
-    "publicContributions": 280,
+    "followers": 36,
+    "privateContributions": 2904,
+    "publicContributions": 377,
     "createdAt": "2020-11-06T07:48:55Z"
   },
   {
@@ -25902,8 +25902,8 @@
     "location": "Uruguay",
     "company": "DOITS",
     "twitterUsername": "UrzaCroquet",
-    "followers": 36,
-    "privateContributions": 5416,
+    "followers": 35,
+    "privateContributions": 5086,
     "publicContributions": 0,
     "createdAt": "2020-04-16T00:54:09Z"
   },
@@ -25926,21 +25926,21 @@
     "location": "Uruguay",
     "company": "IESTA - FCEA",
     "twitterUsername": "jpferreira2311",
-    "followers": 33,
+    "followers": 31,
     "privateContributions": 0,
-    "publicContributions": 287,
+    "publicContributions": 399,
     "createdAt": "2020-06-04T00:10:14Z"
   },
   {
     "login": "mateoroldos",
     "name": "Mateo Roldos",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/63481581?s=72&u=716b7fd4b21482f8f4b5fd2fd2172a2d54b05d48&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/63481581?s=72&u=3cea08e91b56331454f80e53eed8e06c4b5a3ea7&v=4",
     "location": "Montevideo, Uruguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 31,
-    "privateContributions": 1565,
-    "publicContributions": 214,
+    "followers": 33,
+    "privateContributions": 1262,
+    "publicContributions": 538,
     "createdAt": "2020-04-11T00:23:34Z"
   },
   {

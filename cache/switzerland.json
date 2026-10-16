@@ -25268,7 +25268,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 6,
     "createdAt": "2022-01-14T12:03:07Z"
   },
   {
@@ -25302,7 +25302,7 @@
     "location": "Lucerne, Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-06-08T13:19:34Z"
@@ -25326,7 +25326,7 @@
     "location": "Lausanne, Switzerland",
     "company": "EPFL",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2022-04-20T13:31:47Z"
@@ -25338,22 +25338,10 @@
     "location": "Gruyères, Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 19,
     "createdAt": "2022-01-02T15:29:13Z"
-  },
-  {
-    "login": "TomTheDark",
-    "name": "TomTD",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/99438182?s=72&u=f24f06f4547ed5b2a0db71ff92261061869850d0&v=4",
-    "location": "Switzerland",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 75,
-    "createdAt": "2022-02-10T20:09:52Z"
   },
   {
     "login": "Zweikow",
@@ -25364,7 +25352,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 59,
+    "publicContributions": 45,
     "createdAt": "2022-06-14T19:08:10Z"
   },
   {
@@ -25376,7 +25364,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 499,
+    "publicContributions": 492,
     "createdAt": "2022-03-15T12:57:05Z"
   },
   {
@@ -25410,7 +25398,7 @@
     "location": "Switzerland",
     "company": "Doge Goods",
     "twitterUsername": "DogeGoodsMarket",
-    "followers": 5,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-02-21T19:49:05Z"
@@ -25422,7 +25410,7 @@
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 4,
     "privateContributions": 358,
     "publicContributions": 0,
     "createdAt": "2022-03-11T23:45:05Z"
@@ -25447,8 +25435,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 687,
-    "publicContributions": 181,
+    "privateContributions": 553,
+    "publicContributions": 153,
     "createdAt": "2022-05-16T19:14:06Z"
   },
   {
@@ -25458,20 +25446,20 @@
     "location": "Fribourg, Switzerland",
     "company": "HEIA - Fribourg/Freiburg",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 168,
-    "publicContributions": 44,
+    "followers": 6,
+    "privateContributions": 184,
+    "publicContributions": 74,
     "createdAt": "2022-01-14T20:42:38Z"
   },
   {
     "login": "taozhang1004",
     "name": "Tao Zhang",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/105083091?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/105083091?s=72&u=bad2dfde78006a15db6ac9ce4909529b0073898b&v=4",
     "location": "Zürich, Switzerland",
     "company": "ETH Zürich",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 768,
+    "followers": 10,
+    "privateContributions": 1289,
     "publicContributions": 19,
     "createdAt": "2022-05-06T21:14:19Z"
   },
@@ -25494,9 +25482,9 @@
     "location": "Zürich, Switzerland",
     "company": "Kymu | Dexar | DHD LL | ZHAW School of Life Sciences",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 3497,
-    "publicContributions": 725,
+    "followers": 6,
+    "privateContributions": 4002,
+    "publicContributions": 525,
     "createdAt": "2022-01-26T13:21:45Z"
   },
   {

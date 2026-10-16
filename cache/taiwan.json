@@ -25351,8 +25351,8 @@
     "company": "Advanced Computer Vision Laboratory",
     "twitterUsername": "",
     "followers": 40,
-    "privateContributions": 60,
-    "publicContributions": 409,
+    "privateContributions": 61,
+    "publicContributions": 446,
     "createdAt": "2022-11-30T15:36:19Z"
   },
   {
@@ -25362,22 +25362,10 @@
     "location": "Hsinchu, Taiwan",
     "company": "National Yang Ming Chiao Tung University",
     "twitterUsername": "",
-    "followers": 40,
+    "followers": 42,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 29,
     "createdAt": "2022-07-24T08:23:17Z"
-  },
-  {
-    "login": "0x5b62656e5d",
-    "name": "Ben",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/112295217?s=72&u=6d0874d7d9205ddb67253cd54c9539823d86c3a3&v=4",
-    "location": "Taiwan",
-    "company": "University of Toronto",
-    "twitterUsername": "0x5b62656e5d",
-    "followers": 39,
-    "privateContributions": 791,
-    "publicContributions": 715,
-    "createdAt": "2022-08-28T02:35:59Z"
   },
   {
     "login": "Arc13Tangent",
@@ -25386,9 +25374,9 @@
     "location": "Taiwan",
     "company": "National Tsing Hua University",
     "twitterUsername": "",
-    "followers": 33,
+    "followers": 29,
     "privateContributions": 0,
-    "publicContributions": 138,
+    "publicContributions": 132,
     "createdAt": "2022-11-06T04:31:51Z"
   },
   {
@@ -25396,11 +25384,11 @@
     "name": "Guo-Xiang Chen",
     "avatarUrl": "https://avatars.githubusercontent.com/u/110081059?s=72&u=000566f4377bbedd109bd8e922d00b41403c681a&v=4",
     "location": "Taiwan",
-    "company": "",
+    "company": "NTCUST-CSIE",
     "twitterUsername": "",
-    "followers": 31,
-    "privateContributions": 287,
-    "publicContributions": 263,
+    "followers": 32,
+    "privateContributions": 254,
+    "publicContributions": 188,
     "createdAt": "2022-07-27T04:42:53Z"
   },
   {
@@ -25410,21 +25398,21 @@
     "location": "Taiwan",
     "company": "",
     "twitterUsername": "",
-    "followers": 26,
-    "privateContributions": 137,
+    "followers": 28,
+    "privateContributions": 187,
     "publicContributions": 156,
     "createdAt": "2022-10-02T02:55:49Z"
   },
   {
     "login": "henry3260",
     "name": "Henry Chen",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/108824346?s=72&u=4e41edd12da0c8777bd1b4a74a9646bcba48d557&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/108824346?s=72&u=5d63dec0b4ea56255129f65b39184f695f7bb290&v=4",
     "location": "Taiwan , Taoyuan",
     "company": "@apache",
     "twitterUsername": "",
-    "followers": 24,
-    "privateContributions": 109,
-    "publicContributions": 656,
+    "followers": 37,
+    "privateContributions": 111,
+    "publicContributions": 1006,
     "createdAt": "2022-07-06T16:32:41Z"
   },
   {
@@ -25434,22 +25422,10 @@
     "location": "Taiwan",
     "company": "@haonature.com",
     "twitterUsername": "twcctz500",
-    "followers": 22,
+    "followers": 24,
     "privateContributions": 0,
-    "publicContributions": 4535,
+    "publicContributions": 3864,
     "createdAt": "2022-09-01T12:21:18Z"
-  },
-  {
-    "login": "sdragos1",
-    "name": "Dragos Suceveanu",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/114678687?s=72&u=ec2b9e29e8fafa205a1cdc8da76039960853dd45&v=4",
-    "location": "Taiwan, Taipei",
-    "company": "National Taipei University of Technology",
-    "twitterUsername": "",
-    "followers": 21,
-    "privateContributions": 549,
-    "publicContributions": 90,
-    "createdAt": "2022-09-29T14:50:04Z"
   },
   {
     "login": "cdxvy30",
@@ -25458,9 +25434,9 @@
     "location": "Taiwan",
     "company": "",
     "twitterUsername": "",
-    "followers": 20,
-    "privateContributions": 102,
-    "publicContributions": 183,
+    "followers": 18,
+    "privateContributions": 330,
+    "publicContributions": 72,
     "createdAt": "2022-07-19T03:47:37Z"
   },
   {
@@ -25470,9 +25446,9 @@
     "location": "Taiwan",
     "company": "",
     "twitterUsername": "",
-    "followers": 19,
-    "privateContributions": 307,
-    "publicContributions": 2,
+    "followers": 22,
+    "privateContributions": 1604,
+    "publicContributions": 62,
     "createdAt": "2022-10-09T16:31:01Z"
   },
   {
@@ -25482,9 +25458,9 @@
     "location": "Taiwan",
     "company": "",
     "twitterUsername": "",
-    "followers": 18,
-    "privateContributions": 16,
-    "publicContributions": 104,
+    "followers": 20,
+    "privateContributions": 8,
+    "publicContributions": 71,
     "createdAt": "2022-10-26T05:07:28Z"
   },
   {
@@ -25495,8 +25471,8 @@
     "company": "Carnegie Mellon University",
     "twitterUsername": "",
     "followers": 17,
-    "privateContributions": 136,
-    "publicContributions": 224,
+    "privateContributions": 230,
+    "publicContributions": 92,
     "createdAt": "2022-09-23T04:06:09Z"
   },
   {
@@ -25506,7 +25482,7 @@
     "location": "Taiwan",
     "company": "",
     "twitterUsername": "",
-    "followers": 16,
+    "followers": 14,
     "privateContributions": 0,
     "publicContributions": 5,
     "createdAt": "2022-08-31T13:01:46Z"
@@ -25518,7 +25494,7 @@
     "location": "Taiwan",
     "company": "@104corp",
     "twitterUsername": "",
-    "followers": 16,
+    "followers": 17,
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2022-11-22T08:09:41Z"
@@ -25531,7 +25507,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 16,
-    "privateContributions": 19,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-09-08T20:21:28Z"
   },
@@ -25542,9 +25518,9 @@
     "location": "Taiwan",
     "company": "",
     "twitterUsername": "",
-    "followers": 15,
-    "privateContributions": 685,
-    "publicContributions": 516,
+    "followers": 17,
+    "privateContributions": 753,
+    "publicContributions": 599,
     "createdAt": "2022-07-13T07:12:54Z"
   },
   {
@@ -25554,9 +25530,9 @@
     "location": "Taipei, Taiwan",
     "company": "National Taiwan University of Science and Technology",
     "twitterUsername": "",
-    "followers": 15,
-    "privateContributions": 298,
-    "publicContributions": 252,
+    "followers": 16,
+    "privateContributions": 332,
+    "publicContributions": 259,
     "createdAt": "2022-09-05T15:35:47Z"
   },
   {
@@ -25566,9 +25542,9 @@
     "location": "Taiwan",
     "company": "國立中興大學生命科學系",
     "twitterUsername": "",
-    "followers": 15,
-    "privateContributions": 505,
-    "publicContributions": 97,
+    "followers": 17,
+    "privateContributions": 511,
+    "publicContributions": 128,
     "createdAt": "2022-12-12T14:29:01Z"
   },
   {
@@ -25578,9 +25554,9 @@
     "location": "Taiwan",
     "company": "NYCU DS",
     "twitterUsername": "",
-    "followers": 15,
-    "privateContributions": 107,
-    "publicContributions": 33,
+    "followers": 16,
+    "privateContributions": 112,
+    "publicContributions": 43,
     "createdAt": "2022-09-29T13:21:28Z"
   },
   {

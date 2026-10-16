@@ -343,7 +343,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 91,
+    "privateContributions": 94,
     "publicContributions": 3,
     "createdAt": "2016-10-16T19:04:57Z"
   },
@@ -379,7 +379,7 @@
     "company": "Poul Michelsen",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 2765,
+    "privateContributions": 2770,
     "publicContributions": 4,
     "createdAt": "2015-06-02T11:06:26Z"
   },
@@ -802,5 +802,17 @@
     "privateContributions": 769,
     "publicContributions": 202,
     "createdAt": "2026-06-25T17:55:18Z"
+  },
+  {
+    "login": "BogiSyderbo",
+    "name": "Bogi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/113674971?s=72&u=5fe32c140b118e66c6bb2f16a69b182ef09ad1a4&v=4",
+    "location": "Tórshavn",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 12,
+    "publicContributions": 14,
+    "createdAt": "2022-09-16T09:04:16Z"
   }
 ]

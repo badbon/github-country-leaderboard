@@ -1053538,5 +1053538,29 @@
     "privateContributions": 15,
     "publicContributions": 134,
     "createdAt": "2023-03-25T13:44:50Z"
+  },
+  {
+    "login": "sdragos1",
+    "name": "Dragos Suceveanu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/114678687?s=72&u=64c1888465dbc99ca58a7186cbdf99f1521c7354&v=4",
+    "location": "Paris",
+    "company": "Epitech",
+    "twitterUsername": "",
+    "followers": 23,
+    "privateContributions": 1073,
+    "publicContributions": 55,
+    "createdAt": "2022-09-29T14:50:04Z"
+  },
+  {
+    "login": "TieuDaoChanNhan",
+    "name": "Van Khue NGUYEN",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/163319440?s=72&u=39118a37690b0a3bf84301c411f340b1480c5c8d&v=4",
+    "location": "Palaiseau, France",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 289,
+    "createdAt": "2024-03-13T14:36:27Z"
   }
 ]

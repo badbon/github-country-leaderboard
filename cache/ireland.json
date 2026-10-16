@@ -25507,7 +25507,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 1,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-10-30T20:52:40Z"
   },
@@ -25532,20 +25532,8 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 320,
+    "publicContributions": 214,
     "createdAt": "2022-09-30T11:48:03Z"
-  },
-  {
-    "login": "Aureliosdev",
-    "name": "Abylay",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/92640951?s=72&u=191decc14e3aca769ce6102efad5683c1abd4bbe&v=4",
-    "location": "Dublin / Astana / Bishkek",
-    "company": "SYSTEME.IO & AYA & OPUS ",
-    "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2021-10-16T15:40:49Z"
   },
   {
     "login": "shalineraghupathy",
@@ -25568,7 +25556,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 41,
+    "publicContributions": 50,
     "createdAt": "2022-10-28T15:59:19Z"
   },
   {
@@ -25578,21 +25566,21 @@
     "location": "Galway, Ireland",
     "company": "Jarvio",
     "twitterUsername": "JosephTummon",
-    "followers": 4,
-    "privateContributions": 1635,
+    "followers": 3,
+    "privateContributions": 1637,
     "publicContributions": 0,
     "createdAt": "2021-12-29T18:24:38Z"
   },
   {
     "login": "mcx360",
     "name": "Michal Kornacki",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/117192949?s=72&u=c0a1cf1001dc98469344f72f5defcbc0441abcd5&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/117192949?s=72&u=f8106f2a5db9f4f766c66471290da1c80b0a6611&v=4",
     "location": "Limerick, Ireland",
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 300,
+    "privateContributions": 8,
+    "publicContributions": 367,
     "createdAt": "2022-11-01T15:29:22Z"
   },
   {
@@ -25609,14 +25597,14 @@
   },
   {
     "login": "iAmOl3ks4ndr",
-    "name": "Oleksandr (Alex)",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/116847393?s=72&u=72ee5bff4d0867459b6b666adf5fab6b9b084878&v=4",
+    "name": "Oleksandr (Alex) Olefirenko",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/116847393?s=72&u=ef8f45a128815a6d43214a322f9b3c482f66bbc7&v=4",
     "location": "Dublin, Ireland",
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 320,
-    "publicContributions": 167,
+    "privateContributions": 388,
+    "publicContributions": 121,
     "createdAt": "2022-10-27T21:36:31Z"
   },
   {
@@ -25628,7 +25616,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 9,
     "createdAt": "2022-09-14T18:41:46Z"
   },
   {
@@ -25638,9 +25626,9 @@
     "location": "Dublin, Ireland",
     "company": "Intercom",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 9,
     "createdAt": "2022-09-12T08:16:09Z"
   },
   {
@@ -25652,7 +25640,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 80,
+    "publicContributions": 79,
     "createdAt": "2022-02-11T20:58:27Z"
   },
   {
@@ -25662,9 +25650,9 @@
     "location": "Ireland",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 348,
+    "publicContributions": 273,
     "createdAt": "2022-04-05T13:45:08Z"
   },
   {
@@ -25674,9 +25662,9 @@
     "location": "Dublin, Ireland",
     "company": "Trinity College Dublin",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 243,
-    "publicContributions": 55,
+    "followers": 5,
+    "privateContributions": 232,
+    "publicContributions": 58,
     "createdAt": "2022-10-29T15:11:39Z"
   },
   {
@@ -25712,7 +25700,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 12,
     "createdAt": "2022-02-19T15:45:40Z"
   },
   {
@@ -25734,9 +25722,9 @@
     "location": "Ireland",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 56,
+    "publicContributions": 39,
     "createdAt": "2022-01-12T22:46:44Z"
   },
   {

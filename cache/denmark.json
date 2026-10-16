@@ -25790,12 +25790,12 @@
   {
     "login": "amorea9",
     "name": "Alessia",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/98785381?s=72&u=19dbfbed36409408a6271ac400a5e06e89027e12&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/98785381?s=72&u=cce785724814f4719622614a2cfe3f02bd1b1638&v=4",
     "location": "Copenhagen",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 89,
+    "followers": 10,
+    "privateContributions": 40,
     "publicContributions": 0,
     "createdAt": "2022-01-31T23:24:17Z"
   },
@@ -25807,7 +25807,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 7,
+    "privateContributions": 5,
     "publicContributions": 0,
     "createdAt": "2022-05-04T18:57:39Z"
   },
@@ -25819,8 +25819,8 @@
     "company": "The Tech Collective",
     "twitterUsername": "kallemickelborg",
     "followers": 9,
-    "privateContributions": 207,
-    "publicContributions": 87,
+    "privateContributions": 239,
+    "publicContributions": 81,
     "createdAt": "2022-03-22T01:49:50Z"
   },
   {
@@ -25828,11 +25828,11 @@
     "name": "Magnus R.",
     "avatarUrl": "https://avatars.githubusercontent.com/u/97102126?s=72&u=9675402e00c4d3144a55596525cf452a4df475a3&v=4",
     "location": "Copenhagen",
-    "company": "TEC",
+    "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 37,
+    "publicContributions": 73,
     "createdAt": "2022-01-04T12:33:39Z"
   },
   {
@@ -25866,7 +25866,7 @@
     "location": "Copenhagen",
     "company": "@opally-com",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 10,
     "privateContributions": 0,
     "publicContributions": 31,
     "createdAt": "2022-06-30T19:10:08Z"
@@ -25880,7 +25880,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 105,
+    "publicContributions": 94,
     "createdAt": "2022-08-23T07:05:16Z"
   },
   {
@@ -25891,8 +25891,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 1454,
-    "publicContributions": 81,
+    "privateContributions": 1343,
+    "publicContributions": 77,
     "createdAt": "2022-08-21T14:31:27Z"
   },
   {
@@ -25928,7 +25928,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 154,
+    "publicContributions": 157,
     "createdAt": "2022-09-08T07:00:27Z"
   },
   {
@@ -25950,7 +25950,7 @@
     "location": "Copenhagen",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-10-19T13:36:56Z"
@@ -25968,18 +25968,6 @@
     "createdAt": "2022-02-19T16:38:44Z"
   },
   {
-    "login": "BogiSyderbo",
-    "name": "Bogi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/113674971?s=72&u=5fe32c140b118e66c6bb2f16a69b182ef09ad1a4&v=4",
-    "location": "Copenhagen",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 0,
-    "publicContributions": 5,
-    "createdAt": "2022-09-16T09:04:16Z"
-  },
-  {
     "login": "thenomadcode",
     "name": "Christophe Dupont",
     "avatarUrl": "https://avatars.githubusercontent.com/u/114656716?s=72&u=5943c45fc09a0a7607ebf69b7bd51eae6cbef8ed&v=4",
@@ -25987,8 +25975,8 @@
     "company": "The Nomad Code",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 1507,
-    "publicContributions": 53,
+    "privateContributions": 1968,
+    "publicContributions": 63,
     "createdAt": "2022-09-29T09:28:36Z"
   },
   {
@@ -26010,9 +25998,9 @@
     "location": "Copenhagen",
     "company": "University of Copenhagen",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 100,
-    "publicContributions": 52,
+    "followers": 9,
+    "privateContributions": 139,
+    "publicContributions": 51,
     "createdAt": "2022-04-29T08:25:12Z"
   },
   {
@@ -26023,7 +26011,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 496,
+    "privateContributions": 462,
     "publicContributions": 0,
     "createdAt": "2022-02-02T09:18:42Z"
   },

@@ -25340,7 +25340,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 30,
     "createdAt": "2019-01-28T13:09:51Z"
   },
   {
@@ -25363,7 +25363,7 @@
     "company": "G Code Consultancy",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 154,
+    "privateContributions": 144,
     "publicContributions": 0,
     "createdAt": "2019-12-18T13:11:15Z"
   },
@@ -25376,20 +25376,8 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 56,
+    "publicContributions": 42,
     "createdAt": "2019-08-08T20:56:33Z"
-  },
-  {
-    "login": "aqdam-naseem",
-    "name": "Aqdam Naseem",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/46368251?s=72&u=94b01b36076f2610ee4bf3a63445ed2f4e6f3a0a&v=4",
-    "location": "Dubai, United Arab Emirates(UAE)",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2019-01-04T07:16:48Z"
   },
   {
     "login": "Eng-Abdelrahman",
@@ -25424,7 +25412,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2019-11-08T13:26:51Z"
   },
   {
@@ -25434,17 +25422,17 @@
     "location": "Dubai, United Arab Emirates",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 165,
-    "publicContributions": 189,
+    "followers": 3,
+    "privateContributions": 161,
+    "publicContributions": 88,
     "createdAt": "2019-01-26T19:24:31Z"
   },
   {
     "login": "Senpumaru",
     "name": "Nicholas Yafremau",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/53208859?s=72&u=fe48d6e98adb4272b447f52f0a2ff65e723aa25c&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/53208859?s=72&u=2909e34ba856f2b115e9fcb808422ab0a9ca2ad0&v=4",
     "location": "United Arab Emirates, Dubai",
-    "company": "Aibion HQ",
+    "company": "",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
@@ -25460,7 +25448,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 30,
     "createdAt": "2019-03-30T13:48:26Z"
   },
   {
@@ -25471,8 +25459,8 @@
     "company": "PwC",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1796,
-    "publicContributions": 127,
+    "privateContributions": 2767,
+    "publicContributions": 122,
     "createdAt": "2019-02-04T10:05:39Z"
   },
   {
@@ -25494,9 +25482,9 @@
     "location": "United Arab Emirates",
     "company": "",
     "twitterUsername": "zaqxen",
-    "followers": 2,
-    "privateContributions": 460,
-    "publicContributions": 64,
+    "followers": 3,
+    "privateContributions": 498,
+    "publicContributions": 68,
     "createdAt": "2019-07-22T15:05:46Z"
   },
   {
@@ -25518,9 +25506,9 @@
     "location": "United Arab Emirates",
     "company": "Alsheikh Media",
     "twitterUsername": "hassanalsheikh",
-    "followers": 2,
-    "privateContributions": 3268,
-    "publicContributions": 181,
+    "followers": 4,
+    "privateContributions": 3376,
+    "publicContributions": 197,
     "createdAt": "2019-12-04T17:22:28Z"
   },
   {
