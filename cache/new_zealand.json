@@ -26936,7 +26936,7 @@
     "twitterUsername": "ILYUES",
     "followers": 15,
     "privateContributions": 0,
-    "publicContributions": 32,
+    "publicContributions": 30,
     "createdAt": "2020-03-08T03:52:32Z"
   },
   {
@@ -26946,9 +26946,9 @@
     "location": "New Zealand",
     "company": "",
     "twitterUsername": "",
-    "followers": 15,
+    "followers": 14,
     "privateContributions": 0,
-    "publicContributions": 752,
+    "publicContributions": 632,
     "createdAt": "2020-06-03T08:53:20Z"
   },
   {
@@ -26959,7 +26959,7 @@
     "company": "",
     "twitterUsername": "typedwaves",
     "followers": 15,
-    "privateContributions": 256,
+    "privateContributions": 541,
     "publicContributions": 0,
     "createdAt": "2020-08-02T16:23:56Z"
   },
@@ -26982,7 +26982,7 @@
     "location": "New Zealand",
     "company": "",
     "twitterUsername": "",
-    "followers": 14,
+    "followers": 13,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-11-09T06:10:57Z"
@@ -26995,7 +26995,7 @@
     "company": "New Zealand Computing Solutions",
     "twitterUsername": "",
     "followers": 14,
-    "privateContributions": 2029,
+    "privateContributions": 1250,
     "publicContributions": 2,
     "createdAt": "2020-07-23T21:46:52Z"
   },
@@ -27006,7 +27006,7 @@
     "location": "Auckland, New Zealand",
     "company": "",
     "twitterUsername": "",
-    "followers": 14,
+    "followers": 13,
     "privateContributions": 0,
     "publicContributions": 59,
     "createdAt": "2020-07-24T15:57:23Z"
@@ -27042,9 +27042,9 @@
     "location": "New Zealand",
     "company": "Kiwilytics",
     "twitterUsername": "",
-    "followers": 13,
+    "followers": 14,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 0,
     "createdAt": "2020-09-19T03:38:34Z"
   },
   {
@@ -27054,9 +27054,9 @@
     "location": "New Zealand",
     "company": "",
     "twitterUsername": "",
-    "followers": 13,
-    "privateContributions": 184,
-    "publicContributions": 697,
+    "followers": 17,
+    "privateContributions": 503,
+    "publicContributions": 417,
     "createdAt": "2020-03-27T22:39:31Z"
   },
   {
@@ -27066,8 +27066,8 @@
     "location": "New Zealand",
     "company": "",
     "twitterUsername": "",
-    "followers": 13,
-    "privateContributions": 135,
+    "followers": 15,
+    "privateContributions": 197,
     "publicContributions": 0,
     "createdAt": "2020-05-23T10:31:48Z"
   },
@@ -27078,9 +27078,9 @@
     "location": "Auckland, New Zealand",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 11,
     "privateContributions": 4,
-    "publicContributions": 55,
+    "publicContributions": 27,
     "createdAt": "2020-10-14T06:23:15Z"
   },
   {
@@ -27103,20 +27103,20 @@
     "company": "University of Auckland",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 2,
+    "privateContributions": 6,
     "publicContributions": 0,
     "createdAt": "2020-03-03T20:21:58Z"
   },
   {
     "login": "byronxlg",
     "name": "Byron Smith",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/68315031?s=72&u=d62db0f05c8a91a5139100723d293fc3c9138ab7&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/68315031?s=72&u=0311034d0c8af1e3928aece6ea47a5198cd4d410&v=4",
     "location": "Auckland, New Zealand",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 1457,
+    "publicContributions": 3173,
     "createdAt": "2020-07-15T04:26:47Z"
   },
   {
@@ -27139,8 +27139,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 63,
-    "publicContributions": 25,
+    "privateContributions": 50,
+    "publicContributions": 12,
     "createdAt": "2020-01-03T03:40:39Z"
   },
   {
@@ -27152,20 +27152,8 @@
     "twitterUsername": "",
     "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 3,
     "createdAt": "2020-07-21T01:10:48Z"
-  },
-  {
-    "login": "MunchDuster",
-    "name": "Munch",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/72060614?s=72&u=90bf2de1bc3aa8094242467c892c94f4fcf76f6f&v=4",
-    "location": "New Zealand",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 30,
-    "publicContributions": 39,
-    "createdAt": "2020-09-29T04:18:33Z"
   },
   {
     "login": "rogan-templer",
