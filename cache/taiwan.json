@@ -24660,18 +24660,6 @@
     "createdAt": "2022-03-29T09:55:07Z"
   },
   {
-    "login": "c0dypeng",
-    "name": "Cody Peng",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/96853875?s=72&v=4",
-    "location": "Taipei, Taiwan",
-    "company": "National Taiwan University",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 5,
-    "createdAt": "2021-12-30T02:58:52Z"
-  },
-  {
     "login": "Adam-ChunJung",
     "name": "Adam",
     "avatarUrl": "https://avatars.githubusercontent.com/u/101859646?s=72&u=abdf83124bc5257cc0c781cc6c5842ce05f23e8e&v=4",
@@ -24684,25 +24672,13 @@
     "createdAt": "2022-03-18T06:51:25Z"
   },
   {
-    "login": "xiasun428",
-    "name": "夏桑 Sunny",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/107445603?s=72&u=c8d91440fcd883292e22622f56e810efcafd8216&v=4",
-    "location": "Taipei, Taiwan",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2022-06-14T00:21:03Z"
-  },
-  {
     "login": "barronhsu15",
     "name": "Barron",
     "avatarUrl": "https://avatars.githubusercontent.com/u/97776659?s=72&u=083b0ca6fbfae7ccf745838ca0740285261702cd&v=4",
     "location": "Taiwan",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2022-01-15T05:16:35Z"
@@ -24714,7 +24690,7 @@
     "location": "Taiwan",
     "company": "KJPro Technology",
     "twitterUsername": "Kjprotech",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-12-30T01:53:19Z"
@@ -24727,8 +24703,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 263,
-    "publicContributions": 6,
+    "privateContributions": 649,
+    "publicContributions": 28,
     "createdAt": "2022-04-05T08:28:12Z"
   },
   {
@@ -24739,8 +24715,8 @@
     "company": "TIRI",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
+    "privateContributions": 2,
+    "publicContributions": 41,
     "createdAt": "2022-03-18T01:48:33Z"
   },
   {
@@ -24751,7 +24727,7 @@
     "company": "Proto Research Inc. @protoaicx",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 726,
+    "privateContributions": 784,
     "publicContributions": 0,
     "createdAt": "2022-05-23T00:34:25Z"
   },
@@ -24788,7 +24764,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 56,
+    "publicContributions": 142,
     "createdAt": "2022-03-18T09:14:30Z"
   },
   {
@@ -24798,9 +24774,9 @@
     "location": "Taiwan",
     "company": "",
     "twitterUsername": "vendyluo",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 88,
     "createdAt": "2022-02-02T14:47:48Z"
   },
   {
@@ -24824,7 +24800,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 210,
+    "publicContributions": 477,
     "createdAt": "2022-06-22T16:00:26Z"
   },
   {
@@ -24834,9 +24810,9 @@
     "location": "Taiwan",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 32,
     "createdAt": "2022-02-05T16:29:13Z"
   },
   {
@@ -24846,7 +24822,7 @@
     "location": "TAIWAN",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-03-31T00:39:17Z"
@@ -24895,7 +24871,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 991,
+    "privateContributions": 2221,
     "publicContributions": 5,
     "createdAt": "2022-05-07T19:10:16Z"
   },

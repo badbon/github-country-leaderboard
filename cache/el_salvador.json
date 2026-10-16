@@ -24931,7 +24931,7 @@
     "company": "@2600hz",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 60,
+    "privateContributions": 62,
     "publicContributions": 0,
     "createdAt": "2014-01-11T16:36:07Z"
   },
@@ -24943,8 +24943,8 @@
     "company": "Freelancer",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 44,
-    "publicContributions": 20,
+    "privateContributions": 34,
+    "publicContributions": 87,
     "createdAt": "2014-10-13T16:30:39Z"
   },
   {
@@ -25020,18 +25020,6 @@
     "createdAt": "2014-12-08T16:16:59Z"
   },
   {
-    "login": "netobarca",
-    "name": "Christopher Cañas",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/7603890?s=72&u=47e3b7801ca506a944d276d9440e8e195a4ec04b&v=4",
-    "location": "El Salvador",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 796,
-    "createdAt": "2014-05-16T14:47:27Z"
-  },
-  {
     "login": "jvcarrillo",
     "name": "Jeremias Carrillo",
     "avatarUrl": "https://avatars.githubusercontent.com/u/6876802?s=72&u=4feee39078b8e5b88d656dafe5d067d1c3afeeae&v=4",
@@ -25040,7 +25028,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 9,
     "createdAt": "2014-03-06T20:23:51Z"
   },
   {
@@ -25082,7 +25070,7 @@
   {
     "login": "sage393",
     "name": "Samuel González",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/8498545?s=72&u=a78fda6f8a3a54c6f5cb45b1b615991aba1ad358&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8498545?s=72&u=eb5e0211c74e927f8f29ac0719412c81e3443b77&v=4",
     "location": "San Salvador, El Salvador",
     "company": "",
     "twitterUsername": "",
@@ -25099,7 +25087,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 47,
+    "privateContributions": 52,
     "publicContributions": 0,
     "createdAt": "2014-04-29T19:55:01Z"
   },
@@ -25110,9 +25098,9 @@
     "location": "El Salvador",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 78,
-    "publicContributions": 63,
+    "followers": 2,
+    "privateContributions": 100,
+    "publicContributions": 55,
     "createdAt": "2014-04-11T03:00:34Z"
   },
   {

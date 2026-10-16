@@ -6,7 +6,7 @@
     "location": "Kinshasa, Democratic Republic of Congo",
     "company": "INFOMAP SERVICES",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 8,
     "createdAt": "2026-03-17T18:42:45Z"
@@ -79,7 +79,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 630,
+    "privateContributions": 632,
     "publicContributions": 467,
     "createdAt": "2025-07-09T20:16:34Z"
   },
@@ -103,7 +103,7 @@
     "company": "Freelancer",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 4733,
+    "privateContributions": 4754,
     "publicContributions": 65,
     "createdAt": "2025-08-07T16:35:50Z"
   },
@@ -152,7 +152,7 @@
     "twitterUsername": "EmmanuelNs47411",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 241,
+    "publicContributions": 248,
     "createdAt": "2025-02-07T08:10:16Z"
   },
   {
@@ -8386,5 +8386,17 @@
     "privateContributions": 0,
     "publicContributions": 10,
     "createdAt": "2026-06-03T07:55:34Z"
+  },
+  {
+    "login": "Gloiredev",
+    "name": "Gloiredev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298254396?s=72&u=6e877d70a1f1219a503f36e8997b59833ba0837c&v=4",
+    "location": "Democratic Republic of Congo",
+    "company": "CollègeMwanga",
+    "twitterUsername": "",
+    "followers": 19,
+    "privateContributions": 0,
+    "publicContributions": 38,
+    "createdAt": "2026-06-30T11:36:30Z"
   }
 ]

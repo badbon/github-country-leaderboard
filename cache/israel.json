@@ -25099,8 +25099,8 @@
     "company": "JFrog",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 9,
-    "publicContributions": 35,
+    "privateContributions": 0,
+    "publicContributions": 0,
     "createdAt": "2021-03-09T11:36:09Z"
   },
   {
@@ -25110,9 +25110,9 @@
     "location": "Israel",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 174,
-    "publicContributions": 94,
+    "followers": 5,
+    "privateContributions": 282,
+    "publicContributions": 240,
     "createdAt": "2021-04-08T12:19:50Z"
   },
   {
@@ -25123,8 +25123,8 @@
     "company": "",
     "twitterUsername": "YaakovHaimoff",
     "followers": 4,
-    "privateContributions": 221,
-    "publicContributions": 56,
+    "privateContributions": 225,
+    "publicContributions": 52,
     "createdAt": "2021-03-26T11:41:26Z"
   },
   {
@@ -25134,7 +25134,7 @@
     "location": "Israel",
     "company": "@ncr-swt-retail",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-02-09T09:58:57Z"
@@ -25171,7 +25171,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 11,
+    "privateContributions": 8,
     "publicContributions": 47,
     "createdAt": "2021-05-01T18:30:09Z"
   },
@@ -25183,8 +25183,8 @@
     "company": "Taldor one | Freelancer",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 23,
-    "publicContributions": 110,
+    "privateContributions": 0,
+    "publicContributions": 111,
     "createdAt": "2021-04-11T05:32:33Z"
   },
   {
@@ -25196,7 +25196,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 11,
     "createdAt": "2021-05-24T15:23:48Z"
   },
   {
@@ -25220,7 +25220,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 78,
+    "publicContributions": 81,
     "createdAt": "2021-03-01T08:54:28Z"
   },
   {
@@ -25232,7 +25232,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 31,
     "createdAt": "2021-06-18T14:53:52Z"
   },
   {
@@ -25243,7 +25243,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 225,
+    "privateContributions": 211,
     "publicContributions": 54,
     "createdAt": "2021-04-12T22:16:19Z"
   },
@@ -25256,7 +25256,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 19,
     "createdAt": "2021-03-30T06:43:00Z"
   },
   {
@@ -25278,22 +25278,10 @@
     "location": "Israel",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 451,
+    "publicContributions": 449,
     "createdAt": "2021-06-01T11:40:05Z"
-  },
-  {
-    "login": "itay-raveh",
-    "name": "Itay Raveh",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/83612679?s=72&u=c34f72724d46827dc801372b3ebf643789f6a5b0&v=4",
-    "location": "Israel",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 234,
-    "publicContributions": 1201,
-    "createdAt": "2021-05-03T20:15:41Z"
   },
   {
     "login": "adirelm",
@@ -25302,9 +25290,9 @@
     "location": "Israel, holon",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 895,
+    "publicContributions": 923,
     "createdAt": "2020-12-28T17:14:35Z"
   },
   {
@@ -25315,8 +25303,8 @@
     "company": "@PrimeDev-IL",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 376,
-    "publicContributions": 242,
+    "privateContributions": 414,
+    "publicContributions": 125,
     "createdAt": "2021-04-06T22:38:25Z"
   },
   {
@@ -25328,7 +25316,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 198,
+    "publicContributions": 167,
     "createdAt": "2021-05-22T17:56:10Z"
   },
   {

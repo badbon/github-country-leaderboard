@@ -25314,9 +25314,9 @@
     "location": "Minsk",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 3,
     "createdAt": "2022-03-17T16:42:00Z"
   },
   {
@@ -25340,7 +25340,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 63,
     "createdAt": "2022-12-04T14:16:01Z"
   },
   {
@@ -25356,18 +25356,6 @@
     "createdAt": "2022-11-04T21:15:50Z"
   },
   {
-    "login": "echenko",
-    "name": "Echenko",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/119807032?s=72&u=92daa97fb81b0c205c426291efac5ce6300cfd79&v=4",
-    "location": "Moscow / Minsk / Gomel",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 145,
-    "createdAt": "2022-12-04T17:00:00Z"
-  },
-  {
     "login": "SashaShura20",
     "name": "Sasha_Shaveiko",
     "avatarUrl": "https://avatars.githubusercontent.com/u/111702003?s=72&v=4",
@@ -25376,7 +25364,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 42,
+    "publicContributions": 3,
     "createdAt": "2022-08-21T17:40:33Z"
   },
   {

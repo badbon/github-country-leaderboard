@@ -24068,7 +24068,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 0,
     "createdAt": "2023-01-24T13:34:43Z"
   },
   {
@@ -24090,9 +24090,9 @@
     "location": "Uppsala, Sweden",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 6,
-    "publicContributions": 7,
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 4,
     "createdAt": "2023-01-18T12:57:34Z"
   },
   {
@@ -24126,7 +24126,7 @@
     "location": "Stockholm, Sweden",
     "company": "Horizon Blue Ocean",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-12-31T02:19:15Z"
@@ -24138,9 +24138,9 @@
     "location": "Sweden",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 93,
-    "publicContributions": 93,
+    "followers": 10,
+    "privateContributions": 83,
+    "publicContributions": 191,
     "createdAt": "2023-01-23T16:39:33Z"
   },
   {
@@ -24150,9 +24150,9 @@
     "location": "Stockholm, Sweden",
     "company": "Aicall AB",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 17,
     "createdAt": "2023-02-20T22:53:15Z"
   },
   {
@@ -24162,9 +24162,9 @@
     "location": "Malmö/Sweden",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 19,
-    "publicContributions": 73,
+    "followers": 10,
+    "privateContributions": 32,
+    "publicContributions": 12,
     "createdAt": "2023-02-20T14:44:08Z"
   },
   {
@@ -24188,7 +24188,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 136,
+    "publicContributions": 65,
     "createdAt": "2023-02-03T21:39:43Z"
   },
   {
@@ -24210,9 +24210,9 @@
     "location": "Sweden",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 11,
-    "publicContributions": 43,
+    "followers": 8,
+    "privateContributions": 8,
+    "publicContributions": 29,
     "createdAt": "2023-01-12T16:34:28Z"
   },
   {
@@ -24234,9 +24234,9 @@
     "location": "Malmö, Sweden",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 394,
+    "publicContributions": 422,
     "createdAt": "2023-06-19T19:09:20Z"
   },
   {
@@ -24254,11 +24254,11 @@
   {
     "login": "MickeMarten",
     "name": "Mikael Mårtensson",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/123842543?s=72&u=73429383f024cf592190b5f718a26e646dde0131&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/123842543?s=72&u=d1aa7b29ac0accf226d4f8af9b047a873352116a&v=4",
     "location": "Sweden",
     "company": "Crossroads Development",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-01-28T22:27:57Z"
@@ -24270,9 +24270,9 @@
     "location": "Sweden, Stockholm",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 130,
-    "publicContributions": 13,
+    "followers": 9,
+    "privateContributions": 127,
+    "publicContributions": 11,
     "createdAt": "2023-04-03T15:41:32Z"
   },
   {
@@ -24283,8 +24283,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 21,
-    "publicContributions": 129,
+    "privateContributions": 0,
+    "publicContributions": 106,
     "createdAt": "2023-02-12T17:46:23Z"
   },
   {

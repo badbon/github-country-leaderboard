@@ -24714,9 +24714,9 @@
     "location": "Colombia,bogota",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 2,
-    "publicContributions": 35,
+    "publicContributions": 25,
     "createdAt": "2024-06-27T00:37:28Z"
   },
   {
@@ -24726,9 +24726,9 @@
     "location": "Bogotá, Colombia",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 203,
+    "publicContributions": 213,
     "createdAt": "2024-04-15T02:25:11Z"
   },
   {
@@ -24740,7 +24740,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 78,
+    "publicContributions": 127,
     "createdAt": "2024-05-24T19:30:05Z"
   },
   {
@@ -24752,7 +24752,7 @@
     "twitterUsername": "Dakarplayy",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 335,
+    "publicContributions": 356,
     "createdAt": "2024-04-09T23:42:13Z"
   },
   {
@@ -24764,7 +24764,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 1,
     "createdAt": "2024-05-25T16:53:26Z"
   },
   {
@@ -24840,18 +24840,6 @@
     "createdAt": "2024-04-28T22:19:29Z"
   },
   {
-    "login": "mriverawm",
-    "name": "Miguel Rivera",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/166536996?s=72&u=776d8f92f3cdbc367a709044838d833dffdbef10&v=4",
-    "location": "Colombia",
-    "company": "WM Wireless & Mobile",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 48,
-    "createdAt": "2024-04-09T16:14:23Z"
-  },
-  {
     "login": "SaraDSala",
     "name": "Sara Salazar",
     "avatarUrl": "https://avatars.githubusercontent.com/u/167835290?s=72&u=d56d16a46de81262cb15251aa55e59062b60e2b1&v=4",
@@ -24871,7 +24859,7 @@
     "company": "",
     "twitterUsername": "williamRinconCo",
     "followers": 1,
-    "privateContributions": 269,
+    "privateContributions": 277,
     "publicContributions": 0,
     "createdAt": "2024-04-27T21:09:44Z"
   },
@@ -24918,7 +24906,7 @@
     "location": "Colombia",
     "company": "WalkerDragon",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-04-14T16:04:00Z"

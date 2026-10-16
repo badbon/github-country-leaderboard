@@ -24678,9 +24678,9 @@
     "location": "Hong Kong",
     "company": "HKUST",
     "twitterUsername": "",
-    "followers": 30,
-    "privateContributions": 45,
-    "publicContributions": 19,
+    "followers": 31,
+    "privateContributions": 3,
+    "publicContributions": 109,
     "createdAt": "2021-09-02T14:39:10Z"
   },
   {
@@ -24691,8 +24691,8 @@
     "company": "City University of Hong Kong",
     "twitterUsername": "",
     "followers": 30,
-    "privateContributions": 275,
-    "publicContributions": 381,
+    "privateContributions": 212,
+    "publicContributions": 379,
     "createdAt": "2021-04-27T02:40:19Z"
   },
   {
@@ -24714,9 +24714,9 @@
     "location": "Sai Kung, New Territories, Hong Kong",
     "company": "HKUST",
     "twitterUsername": "",
-    "followers": 29,
-    "privateContributions": 1766,
-    "publicContributions": 11,
+    "followers": 30,
+    "privateContributions": 2728,
+    "publicContributions": 12,
     "createdAt": "2021-02-04T08:25:00Z"
   },
   {
@@ -24726,9 +24726,9 @@
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 29,
-    "privateContributions": 325,
-    "publicContributions": 287,
+    "followers": 30,
+    "privateContributions": 355,
+    "publicContributions": 345,
     "createdAt": "2021-10-09T15:00:49Z"
   },
   {
@@ -24738,9 +24738,9 @@
     "location": "Hong Kong",
     "company": "The Hong Kong Polytechnic University",
     "twitterUsername": "",
-    "followers": 28,
-    "privateContributions": 228,
-    "publicContributions": 151,
+    "followers": 29,
+    "privateContributions": 356,
+    "publicContributions": 259,
     "createdAt": "2021-04-10T06:29:51Z"
   },
   {
@@ -24750,7 +24750,7 @@
     "location": "Hong Kong",
     "company": "NFTScan",
     "twitterUsername": "shier_nftscan",
-    "followers": 28,
+    "followers": 29,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-03-05T11:40:19Z"
@@ -24763,8 +24763,8 @@
     "company": "CUHK",
     "twitterUsername": "",
     "followers": 28,
-    "privateContributions": 340,
-    "publicContributions": 240,
+    "privateContributions": 305,
+    "publicContributions": 63,
     "createdAt": "2021-04-01T16:04:12Z"
   },
   {
@@ -24774,22 +24774,10 @@
     "location": "Hong Kong",
     "company": "The University of Hong Kong",
     "twitterUsername": "",
-    "followers": 27,
+    "followers": 29,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2021-11-23T08:09:31Z"
-  },
-  {
-    "login": "tzhouam",
-    "name": "Zhou Taichang",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/78459970?s=72&u=08a5f576dc339b840eb174e4f4387a7c68fead62&v=4",
-    "location": "Hong Kong",
-    "company": "Huawei",
-    "twitterUsername": "",
-    "followers": 27,
-    "privateContributions": 0,
-    "publicContributions": 879,
-    "createdAt": "2021-02-03T03:25:26Z"
   },
   {
     "login": "maho0x",
@@ -24797,22 +24785,22 @@
     "avatarUrl": "https://avatars.githubusercontent.com/u/91360186?s=72&u=1abea233cd57ac45c2653ac4fb7af1eefada7690&v=4",
     "location": "Hong Kong",
     "company": "",
-    "twitterUsername": "maho_0x",
-    "followers": 26,
+    "twitterUsername": "",
+    "followers": 29,
     "privateContributions": 0,
-    "publicContributions": 183,
+    "publicContributions": 189,
     "createdAt": "2021-09-25T04:34:09Z"
   },
   {
     "login": "masterai-top",
-    "name": "德州扑克源代码_德州游戏源码_德州扑克源码开发_聊天通讯软件",
+    "name": "MasterAI | 德州扑克源码与游戏解决方案",
     "avatarUrl": "https://avatars.githubusercontent.com/u/90965583?s=72&u=3d24c9ec7e974ab690a875b7c96c9877d8d03c78&v=4",
     "location": "Hong Kong",
     "company": "MasterAI",
     "twitterUsername": "",
-    "followers": 26,
+    "followers": 29,
     "privateContributions": 0,
-    "publicContributions": 671,
+    "publicContributions": 1230,
     "createdAt": "2021-09-18T11:22:27Z"
   },
   {
@@ -24822,9 +24810,9 @@
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 26,
+    "followers": 24,
     "privateContributions": 0,
-    "publicContributions": 111,
+    "publicContributions": 225,
     "createdAt": "2021-03-19T01:42:57Z"
   },
   {
@@ -24834,9 +24822,9 @@
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 25,
+    "followers": 22,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 6,
     "createdAt": "2021-09-02T16:51:41Z"
   },
   {
@@ -24846,32 +24834,32 @@
     "location": "Hong Kong",
     "company": "City University of Hong Kong",
     "twitterUsername": "",
-    "followers": 25,
+    "followers": 29,
     "privateContributions": 0,
-    "publicContributions": 275,
+    "publicContributions": 342,
     "createdAt": "2021-02-07T09:35:58Z"
   },
   {
     "login": "CongJyu",
     "name": "Rain Chen",
     "avatarUrl": "https://avatars.githubusercontent.com/u/87171700?s=72&u=7f2fa44311b720ed2a7c074ca48a23f382160c17&v=4",
-    "location": "Canton (Guangzhou) / Hong Kong",
-    "company": "City University of Hong Kong / Hunan University",
+    "location": "Canton / Hong Kong",
+    "company": "City University of Hong Kong",
     "twitterUsername": "",
-    "followers": 25,
+    "followers": 26,
     "privateContributions": 62,
-    "publicContributions": 176,
+    "publicContributions": 182,
     "createdAt": "2021-07-09T07:37:50Z"
   },
   {
     "login": "Louis-HK",
-    "name": "Louis_HK",
+    "name": "Louis LEGAL",
     "avatarUrl": "https://avatars.githubusercontent.com/u/90011972?s=72&u=0a23f6b9b9541c577891394072919ee70a029107&v=4",
     "location": "Hong Kong",
     "company": "Boosting Ltd",
     "twitterUsername": "autrement_votre",
-    "followers": 25,
-    "privateContributions": 87,
+    "followers": 27,
+    "privateContributions": 84,
     "publicContributions": 8,
     "createdAt": "2021-09-02T23:41:53Z"
   },
@@ -24894,9 +24882,9 @@
     "location": "Hà Nội/Hong Kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 25,
+    "followers": 26,
     "privateContributions": 0,
-    "publicContributions": 331,
+    "publicContributions": 303,
     "createdAt": "2021-05-23T11:16:26Z"
   },
   {
@@ -24906,9 +24894,9 @@
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 24,
-    "privateContributions": 68,
-    "publicContributions": 14,
+    "followers": 26,
+    "privateContributions": 179,
+    "publicContributions": 23,
     "createdAt": "2021-12-10T03:32:14Z"
   },
   {

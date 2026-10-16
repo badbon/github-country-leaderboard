@@ -92854,5 +92854,41 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-06-28T18:24:27Z"
+  },
+  {
+    "login": "maather-alqarni",
+    "name": "Maather Alqarni",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/297981028?s=72&u=5de063987d4eb26ea8a37e763b1d5ed0f1e38650&v=4",
+    "location": "Jeddah, Saudi Arabia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 106,
+    "createdAt": "2026-06-29T16:47:14Z"
+  },
+  {
+    "login": "farid-c0de",
+    "name": "Farid Ahmed",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/297967116?s=72&u=4e02ffc1074a1da99d3f0703a086c212963cc11a&v=4",
+    "location": "Riyadh , Saudi Arabia",
+    "company": "@opus-365",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 6,
+    "publicContributions": 40,
+    "createdAt": "2026-06-29T15:54:33Z"
+  },
+  {
+    "login": "ranaa1oufi",
+    "name": "Rana Aloufi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/297984563?s=72&u=431204d5bb15e91dafdeb32023ea7994ec9002e2&v=4",
+    "location": "jeddah, Saudi Arabia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 77,
+    "createdAt": "2026-06-29T17:02:07Z"
   }
 ]

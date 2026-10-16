@@ -24716,7 +24716,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 57,
+    "publicContributions": 68,
     "createdAt": "2021-03-12T14:48:53Z"
   },
   {
@@ -24788,7 +24788,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 144,
+    "publicContributions": 128,
     "createdAt": "2021-11-23T09:25:58Z"
   },
   {
@@ -24799,7 +24799,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1228,
+    "privateContributions": 1199,
     "publicContributions": 53,
     "createdAt": "2021-05-11T12:03:25Z"
   },
@@ -24811,21 +24811,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 20,
-    "publicContributions": 113,
+    "privateContributions": 13,
+    "publicContributions": 160,
     "createdAt": "2021-08-12T19:38:50Z"
-  },
-  {
-    "login": "Nub3rt",
-    "name": "Norbert Varga",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/91829147?s=72&v=4",
-    "location": "Budapest, Hungary",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 14,
-    "createdAt": "2021-10-03T11:16:56Z"
   },
   {
     "login": "Kuv1n",
@@ -24848,7 +24836,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2021-11-07T11:46:41Z"
   },
   {
@@ -24908,7 +24896,7 @@
     "twitterUsername": "Tanathy",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 87,
+    "publicContributions": 63,
     "createdAt": "2021-08-04T20:39:05Z"
   },
   {
@@ -24920,7 +24908,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 54,
+    "publicContributions": 42,
     "createdAt": "2021-09-07T13:57:27Z"
   },
   {
@@ -24942,7 +24930,7 @@
     "location": "Hungary",
     "company": "",
     "twitterUsername": "noel_horvath",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 23,
     "publicContributions": 78,
     "createdAt": "2021-04-19T18:32:36Z"

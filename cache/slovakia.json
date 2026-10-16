@@ -24631,8 +24631,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1413,
-    "publicContributions": 9,
+    "privateContributions": 1638,
+    "publicContributions": 10,
     "createdAt": "2018-09-07T15:11:39Z"
   },
   {
@@ -24703,7 +24703,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 61,
+    "privateContributions": 60,
     "publicContributions": 0,
     "createdAt": "2018-10-22T15:37:22Z"
   },
@@ -24716,7 +24716,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 10,
     "createdAt": "2018-08-14T18:55:25Z"
   },
   {
@@ -24738,8 +24738,8 @@
     "location": "Bratislava, Slovakia",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
+    "followers": 3,
+    "privateContributions": 31,
     "publicContributions": 0,
     "createdAt": "2018-06-10T10:59:53Z"
   },
@@ -24763,7 +24763,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 508,
+    "privateContributions": 558,
     "publicContributions": 0,
     "createdAt": "2018-11-28T11:53:44Z"
   },
@@ -24776,20 +24776,8 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 1,
-    "publicContributions": 0,
+    "publicContributions": 5,
     "createdAt": "2018-11-08T23:49:19Z"
-  },
-  {
-    "login": "dvandyy",
-    "name": "Dvandy",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/40064599?s=72&u=66a5fbb69888f09f2a4695cd8f2ad4cd3208b0c5&v=4",
-    "location": "Slovakia",
-    "company": "",
-    "twitterUsername": "_dvandy",
-    "followers": 2,
-    "privateContributions": 317,
-    "publicContributions": 0,
-    "createdAt": "2018-06-08T13:44:55Z"
   },
   {
     "login": "petersoniq",
@@ -24800,7 +24788,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 50,
     "createdAt": "2018-02-21T18:52:23Z"
   },
   {
@@ -24823,7 +24811,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 4,
+    "privateContributions": 2,
     "publicContributions": 2,
     "createdAt": "2018-09-18T08:39:32Z"
   },
@@ -24842,13 +24830,13 @@
   {
     "login": "DenAst17",
     "name": "Denys Astafiev",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/45298493?s=72&u=e8b9205d7e151acf96d3700e648785794465d704&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/45298493?s=72&u=937e6af945e0f392f86d0365a4b80cc4aaf8036b&v=4",
     "location": "Bratislava, Slovakia",
     "company": "",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 75,
+    "publicContributions": 306,
     "createdAt": "2018-11-23T20:28:56Z"
   },
   {
@@ -24860,7 +24848,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2018-10-09T02:54:10Z"
   },
   {
