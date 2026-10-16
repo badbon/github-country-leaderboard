@@ -26,7 +26,7 @@ Indexed users: 176
 | 12 | [Godisouleymane](https://github.com/Godisouleymane) | Souleymane Sabiou | Niger | 762 |
 | 13 | [oxy227](https://github.com/oxy227) | Ayouba Issoufou | Niamey/Niger | 743 |
 | 14 | [Abdoulaye-Ly](https://github.com/Abdoulaye-Ly) | Abdoulaye Ousmane Ly | Niamey, Niger | 716 |
-| 15 | [Ismail0u](https://github.com/Ismail0u) | Ismael | Niamey & Lomé | 587 |
+| 15 | [Ismail0u](https://github.com/Ismail0u) | Ismael | Niamey & Lomé | 586 |
 | 16 | [mocy111](https://github.com/mocy111) | Moctar Yonli | Niamey | 551 |
 | 17 | [Imrana-Moustapha](https://github.com/Imrana-Moustapha) | Imrana Moustapha | Niamey-Niger | 524 |
 | 18 | [netmophus](https://github.com/netmophus) | NETMORPHUS | Niamey | 495 |
@@ -41,7 +41,7 @@ Indexed users: 176
 | 2 | [akaletekoffilevis](https://github.com/akaletekoffilevis) | akaletekoffilevis | Niger/Niamey | 1,832 |
 | 3 | [kodjodevf](https://github.com/kodjodevf) | Moustapha Kodjo Amadou | Niamey,Niger | 1,146 |
 | 4 | [FadelMamar](https://github.com/FadelMamar) | Fadel | Niger | 1,062 |
-| 5 | [Ismail0u](https://github.com/Ismail0u) | Ismael | Niamey & Lomé | 587 |
+| 5 | [Ismail0u](https://github.com/Ismail0u) | Ismael | Niamey & Lomé | 586 |
 | 6 | [netmophus](https://github.com/netmophus) | NETMORPHUS | Niamey | 495 |
 | 7 | [Transega](https://github.com/Transega) | Collins Asega Amadala  | Niamey Niger | 373 |
 | 8 | [debugAyo](https://github.com/debugAyo) | Ayomide Olajide | Niger | 260 |
@@ -55,8 +55,8 @@ Indexed users: 176
 | 16 | [annmart-svg](https://github.com/annmart-svg) | Anna Martyn | Niger, Niamey | 100 |
 | 17 | [Imrana-Moustapha](https://github.com/Imrana-Moustapha) | Imrana Moustapha | Niamey-Niger | 97 |
 | 18 | [youss-uiux](https://github.com/youss-uiux) | Aboubacar Youssif | Niamey Niger | 95 |
-| 19 | [F3T1W](https://github.com/F3T1W) | Vlad Matiushin | Zinder, Niger | 93 |
-| 20 | [Chaibouu](https://github.com/Chaibouu) | Chaibouu | Niger | 87 |
+| 19 | [Chaibouu](https://github.com/Chaibouu) | Chaibouu | Niger | 93 |
+| 20 | [F3T1W](https://github.com/F3T1W) | Vlad Matiushin | Zinder, Niger | 93 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 176
 | 19 | [ibkhall](https://github.com/ibkhall) | Ibrahim Boubacar | Niamey | 17 |
 | 20 | [ibrahimcheik](https://github.com/ibrahimcheik) | Amadou Moussa Ibrahim | Niamey | 17 |
 
-Generated: 2026-10-16T08:43:48.531Z
+Generated: 2026-10-16T12:05:41.757Z

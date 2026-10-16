@@ -1,6 +1,6 @@
 # Followers - Puerto Rico
 
-Generated: 2026-10-16T08:51:48.796Z
+Generated: 2026-10-16T12:12:21.215Z
 
 Users: 1533
 
@@ -15,7 +15,7 @@ Users: 1533
 | 7 | [jgravois](https://github.com/jgravois) | john gravois | @compilerla |  | san juan capo, ca | 267 |
 | 8 | [JamesMessinger](https://github.com/JamesMessinger) | James Messinger |  | James_Messinger | San Juan, PR | 225 |
 | 9 | [joeykrug](https://github.com/joeykrug) | Joseph Krug | @FoundersFund, @ethereum, @AugurProject, @eco | joeykrug | Puerto Rico | 204 |
-| 10 | [FrenzyExists](https://github.com/FrenzyExists) | Detective Pikachu | Hewlett Packard Enterprises | Not__Pikachu | Aguadilla, Puerto Rico | 197 |
+| 10 | [FrenzyExists](https://github.com/FrenzyExists) | Detective Pikachu | Hewlett Packard Enterprises | Not__Pikachu | Aguadilla, Puerto Rico | 199 |
 | 11 | [bvelez](https://github.com/bvelez) | Bienvenido Vélez | University of Puerto Rico Mayagüez |  | Mayagüez, Puerto Rico | 174 |
 | 12 | [RhettCreighton](https://github.com/RhettCreighton) | Rhett Creighton | @RhettCreighton |  | San Juan, Puerto Rico | 169 |
 | 13 | [victoroalvarez](https://github.com/victoroalvarez) | Victor O. Alvarez |  |  | Puerto Rico | 167 |

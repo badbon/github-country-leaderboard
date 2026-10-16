@@ -23,7 +23,7 @@ Indexed users: 805
 | 9 | [sadespresso](https://github.com/sadespresso) | Батмэнд Ганбаатар | Ulaanbaatar, Mongolia | 8,813 |
 | 10 | [ebattulga](https://github.com/ebattulga) | ebattulga | Mongolia, Ulaanbaatar | 6,570 |
 | 11 | [blgn94](https://github.com/blgn94) | Bilguun | Erdenet, Mongolia | 6,530 |
-| 12 | [turbold24](https://github.com/turbold24) | Turbold | Ulaanbaatar, Mongolia | 6,166 |
+| 12 | [turbold24](https://github.com/turbold24) | Turbold | Ulaanbaatar, Mongolia | 6,381 |
 | 13 | [mtergel](https://github.com/mtergel) | Tergel Munkhdelger | Mongolia | 5,826 |
 | 14 | [ssxenon01](https://github.com/ssxenon01) | Gundsambuu | Mongolia | 5,539 |
 | 15 | [2khan](https://github.com/2khan) | Jargalsaikhan Erdenetsetseg | Ulaanbaatar, Mongolia | 5,259 |
@@ -75,7 +75,7 @@ Indexed users: 805
 | 11 | [Zorig](https://github.com/Zorig) | Zorig | Ulaanbaatar, Mongolia | 104 |
 | 12 | [je3f0o](https://github.com/je3f0o) | Батхишиг | Mongolia | 101 |
 | 13 | [KInGATiLLa](https://github.com/KInGATiLLa) | KInGATiLLa | Ulaanbaatar, Mongolia | 101 |
-| 14 | [enkhee-Osiris](https://github.com/enkhee-Osiris) | Enkh-Erdene (osiris) | Ulaanbaatar, Mongolia | 99 |
+| 14 | [enkhee-Osiris](https://github.com/enkhee-Osiris) | Enkh-Erdene (osiris) | Ulaanbaatar, Mongolia | 98 |
 | 15 | [erkhembayar-gantulga](https://github.com/erkhembayar-gantulga) | Erkhembayar Gantulga | Ulaanbaatar, Mongolia | 83 |
 | 16 | [Ankhbayar](https://github.com/Ankhbayar) | Ankhbayar | Mongolia | 74 |
 | 17 | [kyuna0312](https://github.com/kyuna0312) | kyuna0312 | Mongolia | 71 |
@@ -83,4 +83,4 @@ Indexed users: 805
 | 19 | [munkhjin0223](https://github.com/munkhjin0223) | Munkhjin | Ulaanbaatar, Mongolia | 64 |
 | 20 | [temuulennibno](https://github.com/temuulennibno) | Temuulen | Ulaanbaatar, Mongolia | 55 |
 
-Generated: 2026-10-16T08:40:33.613Z
+Generated: 2026-10-16T12:02:55.273Z

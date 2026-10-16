@@ -1,6 +1,6 @@
 # Public Contributions - Mali
 
-Generated: 2026-10-16T08:37:00.851Z
+Generated: 2026-10-16T11:58:40.861Z
 
 Users: 348
 
@@ -21,8 +21,8 @@ Users: 348
 | 13 | [Dayifour](https://github.com/Dayifour) | Sékou Dayifourou KEITA | Orange ML | Dayifour | Bamako, Mali | 274 |
 | 14 | [SekouSallah](https://github.com/SekouSallah) | Sékou Sow | @loga-engineering |  | Bamako, Mali | 250 |
 | 15 | [kontere-tienou](https://github.com/kontere-tienou) | Kontere TIENOU | Falcon Digital Hub |  | Mali | 229 |
-| 16 | [mohdiop](https://github.com/mohdiop) | Mohamed Diop | Irrex Consulting |  | Mali | 180 |
-| 17 | [mandjou-dama](https://github.com/mandjou-dama) | Mandjou Dama |  | Mandjou_JS | Bamako, Mali | 176 |
-| 18 | [Babasky](https://github.com/Babasky) | Boureima MAIGA |  |  | Bamako | 162 |
-| 19 | [diarray-hub](https://github.com/diarray-hub) | Diarra Yacouba |  | d1array | Bamako, Mali | 155 |
-| 20 | [Ibraci](https://github.com/Ibraci) | Ibrahim CISSE | @Ibracilinks | ibraci2 | Bamako | 152 |
+| 16 | [Aissatou007](https://github.com/Aissatou007) | Aïssatou Coulibaly |  |  | Mali  | 206 |
+| 17 | [mohdiop](https://github.com/mohdiop) | Mohamed Diop | Irrex Consulting |  | Mali | 180 |
+| 18 | [mandjou-dama](https://github.com/mandjou-dama) | Mandjou Dama |  | Mandjou_JS | Bamako, Mali | 176 |
+| 19 | [Babasky](https://github.com/Babasky) | Boureima MAIGA |  |  | Bamako | 162 |
+| 20 | [diarray-hub](https://github.com/diarray-hub) | Diarra Yacouba |  | d1array | Bamako, Mali | 155 |

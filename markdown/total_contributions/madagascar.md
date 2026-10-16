@@ -1,6 +1,6 @@
 # Total Contributions - Madagascar
 
-Generated: 2026-10-16T08:35:11.351Z
+Generated: 2026-10-16T11:56:39.689Z
 
 Users: 1904
 
@@ -12,13 +12,13 @@ Users: 1904
 | 4 | [tiavina-mika](https://github.com/tiavina-mika) | Tiavina Michael Ralainirina | Freelance |  | Antananarivo, Madagascar | 11993 |
 | 5 | [titamrtn](https://github.com/titamrtn) | RAJAONAH Nandrianina |  |  | Antananarivo, Madagascar | 11123 |
 | 6 | [elsycharles](https://github.com/elsycharles) | Elsy | IT University |  | Madagascar | 10457 |
-| 7 | [EdouardoRabe](https://github.com/EdouardoRabe) |  |  |  | Madagascar | 9932 |
+| 7 | [EdouardoRabe](https://github.com/EdouardoRabe) |  |  |  | Madagascar | 10158 |
 | 8 | [Xpirix](https://github.com/Xpirix) | Lova Andriarimalala |  | Xpirix3 | Madagascar | 9440 |
 | 9 | [josoavj](https://github.com/josoavj) | Josoa Vonjiniaina | @APEXNovaLabs  | j_Josoa | Antananarivo, Madagascar | 7594 |
 | 10 | [radandevist](https://github.com/radandevist) | Andrianarisoa Daniel | i_am_radan | radandevist | Anatananarivo, Madagascar | 7273 |
 | 11 | [tsirysndr](https://github.com/tsirysndr) | Tsiry Sandratraina | @fluentci-io | tsiry_sndr | Antananarivo / Madagascar | 6996 |
 | 12 | [TantelyRandriamazaoro](https://github.com/TantelyRandriamazaoro) | Tantely Randriamazaoro | Mazaoro SARLU |  | Madagascar | 6553 |
-| 13 | [amel-sc](https://github.com/amel-sc) | Amel CHARLES | IT University |  | Madagascar | 6231 |
+| 13 | [amel-sc](https://github.com/amel-sc) | Amel CHARLES | IT University |  | Madagascar | 6519 |
 | 14 | [Andryrasolofomanana](https://github.com/Andryrasolofomanana) | Andry Rasolofomanana | Kiama |  | Madagascar | 5795 |
 | 15 | [Emii-lia](https://github.com/Emii-lia) | Fiaro Miangaly |  |  | Madagascar | 5181 |
 | 16 | [andostronaut](https://github.com/andostronaut) | Ando |  | andostronaut | Antananarivo, MG | 5129 |

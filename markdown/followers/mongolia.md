@@ -1,6 +1,6 @@
 # Followers - Mongolia
 
-Generated: 2026-10-16T08:40:33.613Z
+Generated: 2026-10-16T12:02:55.273Z
 
 Users: 805
 
@@ -19,7 +19,7 @@ Users: 805
 | 11 | [Zorig](https://github.com/Zorig) | Zorig |  | rizogg | Ulaanbaatar, Mongolia | 104 |
 | 12 | [je3f0o](https://github.com/je3f0o) | Батхишиг | LongBinaryCity |  | Mongolia | 101 |
 | 13 | [KInGATiLLa](https://github.com/KInGATiLLa) | KInGATiLLa |  |  | Ulaanbaatar, Mongolia | 101 |
-| 14 | [enkhee-Osiris](https://github.com/enkhee-Osiris) | Enkh-Erdene (osiris) |  | enkheeOsiris | Ulaanbaatar, Mongolia | 99 |
+| 14 | [enkhee-Osiris](https://github.com/enkhee-Osiris) | Enkh-Erdene (osiris) |  | enkheeOsiris | Ulaanbaatar, Mongolia | 98 |
 | 15 | [erkhembayar-gantulga](https://github.com/erkhembayar-gantulga) | Erkhembayar Gantulga | OyunAI Labs | erkhem_gantulga | Ulaanbaatar, Mongolia | 83 |
 | 16 | [Ankhbayar](https://github.com/Ankhbayar) | Ankhbayar | Databank LLC |  | Mongolia | 74 |
 | 17 | [kyuna0312](https://github.com/kyuna0312) | kyuna0312 | Amari Hana Inc |  | Mongolia | 71 |

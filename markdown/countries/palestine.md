@@ -64,7 +64,7 @@ Indexed users: 2,198
 |---:|---|---|---|---:|
 | 1 | [shadeed](https://github.com/shadeed) | Ahmad Shadeed | Tulkarm, Palestine | 1,849 |
 | 2 | [LaithGhnemat12302](https://github.com/LaithGhnemat12302) | Laith Ghnemat | Palestine-Ramallah-Kufor-Malik | 498 |
-| 3 | [msafadi](https://github.com/msafadi) | Mohammed Safadi | Gaza, Palestine | 488 |
+| 3 | [msafadi](https://github.com/msafadi) | Mohammed Safadi | Gaza, Palestine | 491 |
 | 4 | [izadoesdev](https://github.com/izadoesdev) | iza | Palestine | 257 |
 | 5 | [hayasam](https://github.com/hayasam) | Haya Samaana | Palestine | 222 |
 | 6 | [MariamHasanat](https://github.com/MariamHasanat) | Mariam Hasanat | Dura, Palestine  | 218 |
@@ -83,4 +83,4 @@ Indexed users: 2,198
 | 19 | [dalia2323](https://github.com/dalia2323) |  | Qalqilya, Palestine | 127 |
 | 20 | [mhmdio](https://github.com/mhmdio) | Mohammed Almusaddar | Gaza, Palestine | 125 |
 
-Generated: 2026-10-16T08:49:05.882Z
+Generated: 2026-10-16T12:09:37.839Z

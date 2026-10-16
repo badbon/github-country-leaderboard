@@ -30,8 +30,8 @@ Indexed users: 11,800
 | 16 | [Marxz13](https://github.com/Marxz13) | Marz | Malaysia | 13,140 |
 | 17 | [AqwamCreates](https://github.com/AqwamCreates) | Aqwam Harish Aiman | Malaysia | 12,827 |
 | 18 | [aabeds](https://github.com/aabeds) | Syed Safwan | Malaysia | 12,115 |
-| 19 | [syarief02](https://github.com/syarief02) | Syarief Azman | Malaysia | 11,369 |
-| 20 | [bernardcheah](https://github.com/bernardcheah) | Bernard Cheah | Penang, Malaysia | 11,173 |
+| 19 | [SohZHong](https://github.com/SohZHong) | Soh Zhe Hong | Malaysia | 11,839 |
+| 20 | [syarief02](https://github.com/syarief02) | Syarief Azman | Malaysia | 11,369 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 11,800
 | 19 | [Zeyad-Azima](https://github.com/Zeyad-Azima) | Zer0verflow | Malaysia | 439 |
 | 20 | [RamadhanAmizudin](https://github.com/RamadhanAmizudin) | Ramadhan Amizudin | Malaysia | 401 |
 
-Generated: 2026-10-16T08:36:33.055Z
+Generated: 2026-10-16T11:57:50.529Z

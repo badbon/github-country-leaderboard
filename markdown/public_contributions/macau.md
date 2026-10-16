@@ -1,6 +1,6 @@
 # Public Contributions - Macau
 
-Generated: 2026-10-16T08:34:38.703Z
+Generated: 2026-10-16T11:55:57.197Z
 
 Users: 439
 
@@ -11,7 +11,7 @@ Users: 439
 | 3 | [sfcheung](https://github.com/sfcheung) | Shu Fai Cheung | University of Macau | blogonresearch | Macao | 2798 |
 | 4 | [mugpeng](https://github.com/mugpeng) | Peng |  |  | macao | 2287 |
 | 5 | [RyanKung](https://github.com/RyanKung) | Elder Ryan |  | Elder24601 | Macau | 2142 |
-| 6 | [hheei](https://github.com/hheei) | Lo Chon Hei |  |  | Macau | 1754 |
+| 6 | [hheei](https://github.com/hheei) | Lo Chon Hei |  |  | Macau | 1757 |
 | 7 | [wahengchang](https://github.com/wahengchang) | peterchang | @Yahoo |  | macau | 1336 |
 | 8 | [yyyyyyounger](https://github.com/yyyyyyounger) | Rookie, LIN | University of Macau |  | Macau | 1284 |
 | 9 | [simoniong](https://github.com/simoniong) | Simon Iong | Ksun Technology |  | Macau | 1277 |
@@ -22,7 +22,7 @@ Users: 439
 | 14 | [joaquimrcarvalho](https://github.com/joaquimrcarvalho) | Joaquim Carvalho | Macao Polytechnic University / Universidade de Coimbra  |  | Macao, China and Coimbra, Portugal | 705 |
 | 15 | [DoongLi](https://github.com/DoongLi) | Frankie Dong Li |  | Doong__Li | Taipa, Macau | 657 |
 | 16 | [gorgeousfish](https://github.com/gorgeousfish) | xuanyucai | City University of Macau |  | Macau | 596 |
-| 17 | [Boom5426](https://github.com/Boom5426) | Bo li (李波) | University of Macau |  | Macau | 571 |
-| 18 | [Chonwai](https://github.com/Chonwai) | Chonwai Un, Edison |  |  | Macau | 553 |
+| 17 | [Chonwai](https://github.com/Chonwai) | Chonwai Un, Edison |  |  | Macau | 584 |
+| 18 | [Boom5426](https://github.com/Boom5426) | Bo li (李波) | University of Macau |  | Macau | 571 |
 | 19 | [alemonmk](https://github.com/alemonmk) | Lemon Lam | Lemon Network Solutions |  | Macau | 507 |
 | 20 | [LunchBox](https://github.com/LunchBox) | Daniel |  |  | Macau | 467 |

@@ -52,11 +52,11 @@ Indexed users: 348
 | 13 | [Dayifour](https://github.com/Dayifour) | Sékou Dayifourou KEITA | Bamako, Mali | 274 |
 | 14 | [SekouSallah](https://github.com/SekouSallah) | Sékou Sow | Bamako, Mali | 250 |
 | 15 | [kontere-tienou](https://github.com/kontere-tienou) | Kontere TIENOU | Mali | 229 |
-| 16 | [mohdiop](https://github.com/mohdiop) | Mohamed Diop | Mali | 180 |
-| 17 | [mandjou-dama](https://github.com/mandjou-dama) | Mandjou Dama | Bamako, Mali | 176 |
-| 18 | [Babasky](https://github.com/Babasky) | Boureima MAIGA | Bamako | 162 |
-| 19 | [diarray-hub](https://github.com/diarray-hub) | Diarra Yacouba | Bamako, Mali | 155 |
-| 20 | [Ibraci](https://github.com/Ibraci) | Ibrahim CISSE | Bamako | 152 |
+| 16 | [Aissatou007](https://github.com/Aissatou007) | Aïssatou Coulibaly | Mali  | 206 |
+| 17 | [mohdiop](https://github.com/mohdiop) | Mohamed Diop | Mali | 180 |
+| 18 | [mandjou-dama](https://github.com/mandjou-dama) | Mandjou Dama | Bamako, Mali | 176 |
+| 19 | [Babasky](https://github.com/Babasky) | Boureima MAIGA | Bamako | 162 |
+| 20 | [diarray-hub](https://github.com/diarray-hub) | Diarra Yacouba | Bamako, Mali | 155 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 348
 | 19 | [AlyKonte](https://github.com/AlyKonte) |  | Mali/Bamako | 27 |
 | 20 | [Dioman-Keita](https://github.com/Dioman-Keita) | Dioman Keïta | Bamako/Mali | 26 |
 
-Generated: 2026-10-16T08:37:00.851Z
+Generated: 2026-10-16T11:58:40.861Z

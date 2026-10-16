@@ -15,7 +15,7 @@ Indexed users: 298
 | 1 | [bruxx-6243](https://github.com/bruxx-6243) | Fariol Blondeau | Brazzaville - Congo | 11,504 |
 | 2 | [Athanaze](https://github.com/Athanaze) | Sacha Liechti | Congo | 7,728 |
 | 3 | [Saintrick-FM](https://github.com/Saintrick-FM) | Francy Saintrick Malonga | Congo Brazzaville | 4,083 |
-| 4 | [chrismoussounda](https://github.com/chrismoussounda) | Christoffert Moussounda | Pointe-Noire, Congo | 3,862 |
+| 4 | [chrismoussounda](https://github.com/chrismoussounda) | Christoffert Moussounda | Pointe-Noire, Congo | 3,860 |
 | 5 | [Codeur-Omniscient](https://github.com/Codeur-Omniscient) | Anthony Dorian | Brazzaville - Congo | 3,775 |
 | 6 | [lepresk](https://github.com/lepresk) | Logan CodeMaker | Brazzaville, Congo | 3,751 |
 | 7 | [BlackAngel242](https://github.com/BlackAngel242) | DrSmoke | Congo | 3,413 |
@@ -74,7 +74,7 @@ Indexed users: 298
 | 10 | [sumaili-shabani](https://github.com/sumaili-shabani) | sumaili shabani roger(patrona) | Congo | 68 |
 | 11 | [declaudefrancois](https://github.com/declaudefrancois) | NKOUKA Guy François de Claude | Brazzaville, Republic Of CONGO | 62 |
 | 12 | [herilion](https://github.com/herilion) | Heritier Lionge | Goma, Congo | 48 |
-| 13 | [Johannos135](https://github.com/Johannos135) | Johanne ESSIERE | Brazzaville (CONGO) | 46 |
+| 13 | [Johannos135](https://github.com/Johannos135) | Johanne ESSIERE | Brazzaville (CONGO) | 45 |
 | 14 | [lingabo](https://github.com/lingabo) | Lingabo Junior | Congo | 41 |
 | 15 | [bim-g](https://github.com/bim-g) | Boss | Congo, Democratic Republic of, Goma | 38 |
 | 16 | [Esdras-Nsounda](https://github.com/Esdras-Nsounda) | esdras nsounda | brazzaville \ Congo | 38 |
@@ -83,4 +83,4 @@ Indexed users: 298
 | 19 | [Ssnnee](https://github.com/Ssnnee) | Samuel Nandi | Republic of the Congo | 26 |
 | 20 | [WinnersProx](https://github.com/WinnersProx) | Vainqueur Bihame | Kigali,Rwanda,Congo | 25 |
 
-Generated: 2026-10-16T08:52:28.188Z
+Generated: 2026-10-16T12:12:28.717Z

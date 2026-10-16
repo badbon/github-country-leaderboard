@@ -1,6 +1,6 @@
 # Public Contributions - Niger
 
-Generated: 2026-10-16T08:43:48.531Z
+Generated: 2026-10-16T12:05:41.757Z
 
 Users: 176
 
@@ -10,7 +10,7 @@ Users: 176
 | 2 | [akaletekoffilevis](https://github.com/akaletekoffilevis) | akaletekoffilevis |  |  | Niger/Niamey | 1832 |
 | 3 | [kodjodevf](https://github.com/kodjodevf) | Moustapha Kodjo Amadou |  | kodjodevf | Niamey,Niger | 1146 |
 | 4 | [FadelMamar](https://github.com/FadelMamar) | Fadel |  |  | Niger | 1062 |
-| 5 | [Ismail0u](https://github.com/Ismail0u) | Ismael |  |  | Niamey & Lomé | 587 |
+| 5 | [Ismail0u](https://github.com/Ismail0u) | Ismael |  |  | Niamey & Lomé | 586 |
 | 6 | [netmophus](https://github.com/netmophus) | NETMORPHUS | www.techpart. | netmorphus | Niamey | 495 |
 | 7 | [Transega](https://github.com/Transega) | Collins Asega Amadala  | @omdena | asega_collins | Niamey Niger | 373 |
 | 8 | [debugAyo](https://github.com/debugAyo) | Ayomide Olajide | Federal University Of Technology, Minna |  | Niger | 260 |
@@ -24,5 +24,5 @@ Users: 176
 | 16 | [annmart-svg](https://github.com/annmart-svg) | Anna Martyn |  |  | Niger, Niamey | 100 |
 | 17 | [Imrana-Moustapha](https://github.com/Imrana-Moustapha) | Imrana Moustapha |  |  | Niamey-Niger | 97 |
 | 18 | [youss-uiux](https://github.com/youss-uiux) | Aboubacar Youssif |  |  | Niamey Niger | 95 |
-| 19 | [F3T1W](https://github.com/F3T1W) | Vlad Matiushin | Refactor Factory | elonmusk | Zinder, Niger | 93 |
-| 20 | [Chaibouu](https://github.com/Chaibouu) | Chaibouu |  |  | Niger | 87 |
+| 19 | [Chaibouu](https://github.com/Chaibouu) | Chaibouu |  |  | Niger | 93 |
+| 20 | [F3T1W](https://github.com/F3T1W) | Vlad Matiushin | Refactor Factory | elonmusk | Zinder, Niger | 93 |

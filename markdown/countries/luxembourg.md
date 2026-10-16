@@ -71,9 +71,9 @@ Indexed users: 2,189
 | 7 | [zit0cod3z](https://github.com/zit0cod3z) | Kizito Daka | Luxembourg | 366 |
 | 8 | [fmind](https://github.com/fmind) | Médéric Hurier (Fmind) | Luxembourg | 309 |
 | 9 | [morteza](https://github.com/morteza) | Morteza Ansarinia | Luxembourg | 302 |
-| 10 | [andreafabrizi](https://github.com/andreafabrizi) | Andrea Fabrizi | Luxembourg | 289 |
-| 11 | [joewdavies](https://github.com/joewdavies) | Joe Davies | Cardiff / Madrid / Luxembourg | 289 |
-| 12 | [SvenGDK](https://github.com/SvenGDK) | SvenGDK | Luxembourg | 277 |
+| 10 | [SvenGDK](https://github.com/SvenGDK) | SvenGDK | Luxembourg | 299 |
+| 11 | [andreafabrizi](https://github.com/andreafabrizi) | Andrea Fabrizi | Luxembourg | 289 |
+| 12 | [joewdavies](https://github.com/joewdavies) | Joe Davies | Cardiff / Madrid / Luxembourg | 289 |
 | 13 | [kimwalisch](https://github.com/kimwalisch) | Kim Walisch | Luxembourg | 276 |
 | 14 | [phcollignon](https://github.com/phcollignon) | Philippe Collignon | Luxembourg | 261 |
 | 15 | [Sn0wAlice](https://github.com/Sn0wAlice) | Alice Snow | Luxembourg | 256 |
@@ -83,4 +83,4 @@ Indexed users: 2,189
 | 19 | [l4rz](https://github.com/l4rz) | Mike K. | Luxembourg | 197 |
 | 20 | [urosolia](https://github.com/urosolia) | Ugo Rosolia | Luxembourg, Lux | 192 |
 
-Generated: 2026-10-16T08:34:35.456Z
+Generated: 2026-10-16T11:55:50.194Z

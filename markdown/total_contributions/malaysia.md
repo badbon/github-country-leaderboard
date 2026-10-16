@@ -1,6 +1,6 @@
 # Total Contributions - Malaysia
 
-Generated: 2026-10-16T08:36:33.055Z
+Generated: 2026-10-16T11:57:50.529Z
 
 Users: 11800
 
@@ -24,5 +24,5 @@ Users: 11800
 | 16 | [Marxz13](https://github.com/Marxz13) | Marz |  |  | Malaysia | 13140 |
 | 17 | [AqwamCreates](https://github.com/AqwamCreates) | Aqwam Harish Aiman | University Of Nottingham (Malaysia Campus) |  | Malaysia | 12827 |
 | 18 | [aabeds](https://github.com/aabeds) | Syed Safwan | Deine Tür Gmbh |  | Malaysia | 12115 |
-| 19 | [syarief02](https://github.com/syarief02) | Syarief Azman | National Pharmaceutical Regulatory Agency | syariefazman | Malaysia | 11369 |
-| 20 | [bernardcheah](https://github.com/bernardcheah) | Bernard Cheah |  |  | Penang, Malaysia | 11173 |
+| 19 | [SohZHong](https://github.com/SohZHong) | Soh Zhe Hong | Teel |  | Malaysia | 11839 |
+| 20 | [syarief02](https://github.com/syarief02) | Syarief Azman | National Pharmaceutical Regulatory Agency | syariefazman | Malaysia | 11369 |

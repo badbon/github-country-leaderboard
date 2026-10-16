@@ -68,7 +68,7 @@ Indexed users: 475
 | 4 | [LogicHarvest](https://github.com/LogicHarvest) | Logic Harvest | Windhoek Namibia | 114 |
 | 5 | [Eckhardt-D](https://github.com/Eckhardt-D) | Eckhardt Scheffer | Namibia | 105 |
 | 6 | [afroGeM7](https://github.com/afroGeM7) | Gemma Usiku | Namibia | 103 |
-| 7 | [Kacelo](https://github.com/Kacelo) | Vernon Kacelo | Windhoek, Namibia | 99 |
+| 7 | [Kacelo](https://github.com/Kacelo) | Vernon Kacelo | Windhoek, Namibia | 98 |
 | 8 | [sekhubede](https://github.com/sekhubede) | Michael Sekhubede | Namibia | 90 |
 | 9 | [Ngazetungue](https://github.com/Ngazetungue) | Ngazetungue Muheue | Windhoek, Namibia | 60 |
 | 10 | [WilhelmK109](https://github.com/WilhelmK109) | Wilhelm Naayole Kamulunga | Windhoek, Namibia | 58 |
@@ -83,4 +83,4 @@ Indexed users: 475
 | 19 | [Hilya02](https://github.com/Hilya02) | Hilya Ntinda Tuyakula | Windhoek, Namibia | 36 |
 | 20 | [erassynathingo](https://github.com/erassynathingo) | Erastus Nathingo | Windhoek | 33 |
 
-Generated: 2026-10-16T08:42:21.439Z
+Generated: 2026-10-16T12:04:57.920Z
