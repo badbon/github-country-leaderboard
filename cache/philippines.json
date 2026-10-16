@@ -25880,7 +25880,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2024-04-01T02:35:18Z"
   },
   {
@@ -25916,7 +25916,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 44,
+    "publicContributions": 83,
     "createdAt": "2024-01-22T01:29:50Z"
   },
   {
@@ -25927,32 +25927,32 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 265,
+    "privateContributions": 548,
     "publicContributions": 0,
     "createdAt": "2024-02-29T00:49:59Z"
   },
   {
     "login": "ChrisThePCGamer",
-    "name": "Christopher",
+    "name": "Christopher Pineda",
     "avatarUrl": "https://avatars.githubusercontent.com/u/173812640?s=72&u=61f34e139440106edb67d0318eaade0c59087f3f&v=4",
     "location": "Philippines",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 19,
     "createdAt": "2024-06-25T14:10:18Z"
   },
   {
     "login": "RhickwelFloresValdez",
-    "name": "Rhickwel Valdez",
+    "name": "rhvldz",
     "avatarUrl": "https://avatars.githubusercontent.com/u/157787343?s=72&u=2ffea58f6f618698c54c50237c2576db25afc4c0&v=4",
     "location": "Philippines ",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2024-01-26T07:21:07Z"
   },
   {
@@ -25964,7 +25964,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 343,
+    "publicContributions": 317,
     "createdAt": "2024-05-29T08:48:24Z"
   },
   {
@@ -25974,21 +25974,21 @@
     "location": "Cebu City, Philippines",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 111,
+    "publicContributions": 97,
     "createdAt": "2024-02-25T07:40:19Z"
   },
   {
     "login": "DevMortimer",
     "name": "Ryan Joshua",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/161127243?s=72&u=e0fe892615d34510225838ca6fb26485dc68f8c6&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/161127243?s=72&u=e465449589a93f775430523078319d4588164d8b&v=4",
     "location": "Philippines",
-    "company": "",
+    "company": "Conxi",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 1226,
-    "publicContributions": 271,
+    "followers": 8,
+    "privateContributions": 3882,
+    "publicContributions": 694,
     "createdAt": "2024-02-24T11:10:48Z"
   },
   {
@@ -26016,18 +26016,6 @@
     "createdAt": "2024-01-16T09:05:52Z"
   },
   {
-    "login": "ayla011",
-    "name": "Ailene Nuñez-Mondares",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/158984830?s=72&u=507546cf664aeb97768d92d26823e1cc14714819&v=4",
-    "location": "Philippines",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 22,
-    "createdAt": "2024-02-05T03:46:18Z"
-  },
-  {
     "login": "avilang0107",
     "name": "Angelica Mae Avila-Olicia",
     "avatarUrl": "https://avatars.githubusercontent.com/u/168054346?s=72&u=6ca5a8178b32e6a92345774314ebb528881d7f06&v=4",
@@ -26052,18 +26040,6 @@
     "createdAt": "2024-03-20T13:38:16Z"
   },
   {
-    "login": "jilivipcomph",
-    "name": "JILIVIP",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/169311597?s=72&v=4",
-    "location": "Philippines",
-    "company": "JILIVIP | JILIVIP Casino Philippines Official Homepage",
-    "twitterUsername": "jilivipcomph",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2024-05-08T21:55:34Z"
-  },
-  {
     "login": "jetbolima",
     "name": "Jethro Elijah Bolima",
     "avatarUrl": "https://avatars.githubusercontent.com/u/169862858?s=72&u=01a8efa840480e628b121e892d79a2fe53a97f11&v=4",
@@ -26084,7 +26060,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 1,
     "createdAt": "2024-05-29T16:18:32Z"
   },
   {
@@ -26102,13 +26078,13 @@
   {
     "login": "AbrelleLopez",
     "name": "Abrelle Lopez",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/160217104?s=72&u=e20645fdb02ae1bafbfb4c2c2acd3257eba517e3&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/160217104?s=72&u=9eeb0987ab93e3093655d7952e4ccc70af69697a&v=4",
     "location": "Philippines",
     "company": "Saint Louis University",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 5,
     "privateContributions": 28,
-    "publicContributions": 84,
+    "publicContributions": 57,
     "createdAt": "2024-02-16T07:36:30Z"
   },
   {

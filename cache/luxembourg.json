@@ -26028,18 +26028,6 @@
     "createdAt": "2009-11-04T11:16:20Z"
   },
   {
-    "login": "RitchieF",
-    "name": "Ritchie Flick",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/163159?s=72&v=4",
-    "location": "Luxembourg/Grosbous",
-    "company": "LNW",
-    "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2009-12-06T01:08:56Z"
-  },
-  {
     "login": "marcogiusti",
     "name": "Marco Giusti",
     "avatarUrl": "https://avatars.githubusercontent.com/u/154377?s=72&u=61a651ef4bff599fe2d71bfbce8ba0023aeb3c35&v=4",
@@ -26048,7 +26036,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 30,
     "createdAt": "2009-11-17T14:12:07Z"
   },
   {
@@ -26059,7 +26047,7 @@
     "company": "Clinckart",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 2536,
+    "privateContributions": 1159,
     "publicContributions": 0,
     "createdAt": "2009-07-16T13:29:55Z"
   },
@@ -26094,9 +26082,9 @@
     "location": "Luxembourg",
     "company": "@smileinnovation ",
     "twitterUsername": "thibaultmilan",
-    "followers": 83,
-    "privateContributions": 123,
-    "publicContributions": 157,
+    "followers": 80,
+    "privateContributions": 187,
+    "publicContributions": 120,
     "createdAt": "2008-02-27T21:22:43Z"
   },
   {
@@ -26107,8 +26095,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 47,
-    "privateContributions": 235,
-    "publicContributions": 38,
+    "privateContributions": 180,
+    "publicContributions": 47,
     "createdAt": "2008-08-17T10:55:36Z"
   },
   {
@@ -26118,9 +26106,9 @@
     "location": "Luxembourg, LU",
     "company": "",
     "twitterUsername": "",
-    "followers": 36,
-    "privateContributions": 1880,
-    "publicContributions": 41,
+    "followers": 37,
+    "privateContributions": 1890,
+    "publicContributions": 39,
     "createdAt": "2008-12-29T09:18:32Z"
   },
   {
@@ -26132,7 +26120,7 @@
     "twitterUsername": "",
     "followers": 35,
     "privateContributions": 0,
-    "publicContributions": 41,
+    "publicContributions": 33,
     "createdAt": "2008-05-23T05:03:00Z"
   },
   {
@@ -26142,7 +26130,7 @@
     "location": "Luxembourg",
     "company": "",
     "twitterUsername": "svnee",
-    "followers": 28,
+    "followers": 30,
     "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2008-08-14T22:12:16Z"
@@ -26156,7 +26144,7 @@
     "twitterUsername": "",
     "followers": 19,
     "privateContributions": 0,
-    "publicContributions": 498,
+    "publicContributions": 378,
     "createdAt": "2008-04-09T15:40:50Z"
   },
   {
@@ -26166,9 +26154,9 @@
     "location": "Luxembourg",
     "company": "",
     "twitterUsername": "",
-    "followers": 19,
+    "followers": 20,
     "privateContributions": 0,
-    "publicContributions": 41,
+    "publicContributions": 3,
     "createdAt": "2008-06-20T09:25:59Z"
   },
   {
@@ -26180,7 +26168,7 @@
     "twitterUsername": "",
     "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 133,
+    "publicContributions": 130,
     "createdAt": "2008-09-12T19:18:39Z"
   },
   {
@@ -26190,7 +26178,7 @@
     "location": "Luxembourg",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 11,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2008-04-04T10:45:26Z"
@@ -26226,9 +26214,9 @@
     "location": "Ocean / Luxembourg / Madrid",
     "company": "",
     "twitterUsername": "",
-    "followers": 62,
-    "privateContributions": 118,
-    "publicContributions": 632,
+    "followers": 63,
+    "privateContributions": 175,
+    "publicContributions": 536,
     "createdAt": "2020-11-15T17:50:03Z"
   },
   {
@@ -26238,7 +26226,7 @@
     "location": "Luxembourg",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 261,
     "createdAt": "2026-06-05T21:13:32Z"
@@ -26263,7 +26251,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 676,
+    "privateContributions": 705,
     "publicContributions": 20,
     "createdAt": "2026-05-26T08:08:48Z"
   }

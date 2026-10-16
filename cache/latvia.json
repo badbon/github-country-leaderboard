@@ -25926,7 +25926,7 @@
     "location": "Riga",
     "company": "Wallester A/S",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-01-15T14:00:15Z"
@@ -25939,19 +25939,19 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 1689,
-    "publicContributions": 28,
+    "privateContributions": 2030,
+    "publicContributions": 106,
     "createdAt": "2015-06-12T10:04:14Z"
   },
   {
     "login": "KristapsBerzins",
-    "name": "",
+    "name": "Kristaps",
     "avatarUrl": "https://avatars.githubusercontent.com/u/10412676?s=72&u=bbdee9eb0d031cbe972bc1583802d13019950f21&v=4",
     "location": "Riga",
-    "company": "",
+    "company": "@gocardless ",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 858,
+    "privateContributions": 1099,
     "publicContributions": 8,
     "createdAt": "2015-01-06T04:41:37Z"
   },
@@ -25998,7 +25998,7 @@
     "location": "Riga",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-01-31T14:36:45Z"
@@ -26010,9 +26010,9 @@
     "location": "Riga",
     "company": "Printify",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2015-02-01T11:50:26Z"
   },
   {
@@ -26023,8 +26023,8 @@
     "company": "Gribzer Team",
     "twitterUsername": "gribzer",
     "followers": 2,
-    "privateContributions": 328,
-    "publicContributions": 1,
+    "privateContributions": 631,
+    "publicContributions": 0,
     "createdAt": "2015-03-13T20:27:30Z"
   },
   {
@@ -26108,7 +26108,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 21,
     "createdAt": "2015-01-17T10:00:32Z"
   },
   {
@@ -26144,7 +26144,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2015-03-20T10:15:04Z"
   },
   {

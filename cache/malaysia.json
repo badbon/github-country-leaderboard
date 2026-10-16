@@ -26060,7 +26060,7 @@
     "twitterUsername": "",
     "followers": 15,
     "privateContributions": 0,
-    "publicContributions": 435,
+    "publicContributions": 194,
     "createdAt": "2022-08-24T03:43:51Z"
   },
   {
@@ -26070,9 +26070,9 @@
     "location": "Malaysia",
     "company": "",
     "twitterUsername": "",
-    "followers": 15,
+    "followers": 16,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 1,
     "createdAt": "2022-05-14T01:46:41Z"
   },
   {
@@ -26084,7 +26084,7 @@
     "twitterUsername": "",
     "followers": 15,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 7,
     "createdAt": "2022-10-02T09:06:26Z"
   },
   {
@@ -26106,7 +26106,7 @@
     "location": "Petaling Jaya, Selangor, Malaysia",
     "company": "",
     "twitterUsername": "meyadam_",
-    "followers": 15,
+    "followers": 16,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-10-01T14:29:37Z"
@@ -26118,22 +26118,10 @@
     "location": "Kuala Lumpur, Malaysia",
     "company": "",
     "twitterUsername": "",
-    "followers": 15,
+    "followers": 12,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-04-05T13:30:53Z"
-  },
-  {
-    "login": "yusufnuru",
-    "name": "Yusuf",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/115386363?s=72&v=4",
-    "location": "Malaysia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 14,
-    "privateContributions": 880,
-    "publicContributions": 261,
-    "createdAt": "2022-10-09T04:07:37Z"
   },
   {
     "login": "Ling1304",
@@ -26144,7 +26132,7 @@
     "twitterUsername": "",
     "followers": 14,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 8,
     "createdAt": "2022-11-05T15:31:39Z"
   },
   {
@@ -26155,8 +26143,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 14,
-    "privateContributions": 1242,
-    "publicContributions": 0,
+    "privateContributions": 1906,
+    "publicContributions": 39,
     "createdAt": "2022-08-10T02:41:38Z"
   },
   {
@@ -26168,7 +26156,7 @@
     "twitterUsername": "",
     "followers": 14,
     "privateContributions": 0,
-    "publicContributions": 48,
+    "publicContributions": 49,
     "createdAt": "2022-08-28T14:28:17Z"
   },
   {
@@ -26179,8 +26167,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 14,
-    "privateContributions": 112,
-    "publicContributions": 47,
+    "privateContributions": 485,
+    "publicContributions": 24,
     "createdAt": "2022-12-19T08:02:20Z"
   },
   {
@@ -26190,9 +26178,9 @@
     "location": "Malaysia",
     "company": "",
     "twitterUsername": "",
-    "followers": 13,
+    "followers": 15,
     "privateContributions": 0,
-    "publicContributions": 52,
+    "publicContributions": 33,
     "createdAt": "2022-09-07T09:18:17Z"
   },
   {
@@ -26202,7 +26190,7 @@
     "location": "Malaysia",
     "company": "bimeh.com",
     "twitterUsername": "amirmahdispl",
-    "followers": 13,
+    "followers": 12,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-10-29T17:50:39Z"
@@ -26216,7 +26204,7 @@
     "twitterUsername": "",
     "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 10,
     "createdAt": "2022-01-12T05:15:00Z"
   },
   {
@@ -26238,9 +26226,9 @@
     "location": "Penang, Malaysia",
     "company": "Motion-U",
     "twitterUsername": "",
-    "followers": 13,
-    "privateContributions": 66,
-    "publicContributions": 4,
+    "followers": 12,
+    "privateContributions": 117,
+    "publicContributions": 6,
     "createdAt": "2022-10-08T05:06:09Z"
   },
   {
@@ -26257,14 +26245,14 @@
   },
   {
     "login": "axrorovms",
-    "name": "axrorovms",
+    "name": "Akhrorov Muhammadsodik",
     "avatarUrl": "https://avatars.githubusercontent.com/u/117366710?s=72&u=a75058cad0a82e63b03c30b15322ced0360982a2&v=4",
     "location": "Malaysia",
     "company": "Xiamen University",
     "twitterUsername": "",
     "followers": 13,
-    "privateContributions": 68,
-    "publicContributions": 13,
+    "privateContributions": 61,
+    "publicContributions": 8,
     "createdAt": "2022-11-03T13:21:01Z"
   },
   {
@@ -26274,9 +26262,9 @@
     "location": "Malaysia",
     "company": "",
     "twitterUsername": "",
-    "followers": 13,
-    "privateContributions": 544,
-    "publicContributions": 655,
+    "followers": 14,
+    "privateContributions": 556,
+    "publicContributions": 697,
     "createdAt": "2022-10-01T06:36:00Z"
   },
   {
@@ -141586,5 +141574,17 @@
     "privateContributions": 0,
     "publicContributions": 8,
     "createdAt": "2026-07-02T10:05:38Z"
+  },
+  {
+    "login": "chienjiun0320-creator",
+    "name": "Chien Jiun - Bipo Recruiter",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298918736?s=72&u=a4041749fa88fa9443ee9d51a25b77f418788600&v=4",
+    "location": "Kuala Lumpur",
+    "company": "Bipo Malaysia",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-07-02T00:56:04Z"
   }
 ]
