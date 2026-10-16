@@ -1,6 +1,6 @@
 # Followers - Mali
 
-Generated: 2026-10-16T07:17:24.722Z
+Generated: 2026-10-16T08:37:00.851Z
 
 Users: 348
 
@@ -11,7 +11,7 @@ Users: 348
 | 3 | [mkantem](https://github.com/mkantem) | Kante Mahamadou |  | mkantem | Mali | 121 |
 | 4 | [IvinoDev](https://github.com/IvinoDev) | Mariam Kayantao |  |  | Mali, Bamako | 69 |
 | 5 | [GUIND0](https://github.com/GUIND0) | Souleymane Guindo |  |  | Mali | 61 |
-| 6 | [Lex-corp-crypto](https://github.com/Lex-corp-crypto) | Amadou H TRAORE |  |  | Mali/Bamako | 54 |
+| 6 | [Lex-corp-crypto](https://github.com/Lex-corp-crypto) | Amadou H TRAORE |  |  | Mali/Bamako | 57 |
 | 7 | [iamdanajr](https://github.com/iamdanajr) | Dana JR✨ |  |  | Mali | 48 |
 | 8 | [Abdoul03](https://github.com/Abdoul03) | Abdoul Ibrahima Samaké | Tuwindi Foundation |  | Bamako | 45 |
 | 9 | [sudoping01](https://github.com/sudoping01) | sed | .... |  | Bamako | 43 |

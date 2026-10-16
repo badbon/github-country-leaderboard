@@ -30,7 +30,7 @@ Indexed users: 160
 | 16 | [lebusa](https://github.com/lebusa) | Motebang | Maseru, Lesotho | 292 |
 | 17 | [Matela-cyber](https://github.com/Matela-cyber) | Vicent Matela | Lesotho | 291 |
 | 18 | [setsoto](https://github.com/setsoto) | Setsoto | Lesotho | 263 |
-| 19 | [kananelotseisa](https://github.com/kananelotseisa) | Kananelo Ts'eisa | Lesotho | 246 |
+| 19 | [kananelotseisa](https://github.com/kananelotseisa) | Kananelo Ts'eisa | Lesotho | 235 |
 | 20 | [Thato-Motseki](https://github.com/Thato-Motseki) | Thato Motseki | Lesotho, Maseru | 234 |
 
 ## Public Contributions
@@ -56,7 +56,7 @@ Indexed users: 160
 | 17 | [Tlotliso-Wiinc](https://github.com/Tlotliso-Wiinc) | Tlotliso Mafantiri | Maseru, Lesotho | 78 |
 | 18 | [n4p000-q](https://github.com/n4p000-q) | N311Q .jpg | Lesotho, Maseru | 74 |
 | 19 | [KuenaMahase](https://github.com/KuenaMahase) | Kuena Mahase | Lesotho | 73 |
-| 20 | [Bothata-desig](https://github.com/Bothata-desig) | Bothata Sello | Maseru, Lesotho | 69 |
+| 20 | [Bothata-desig](https://github.com/Bothata-desig) | Bothata Sello | Maseru, Lesotho | 67 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 160
 | 19 | [lotesm](https://github.com/lotesm) | Lotes Molapo | Maseru, Lesotho | 13 |
 | 20 | [entsoereng](https://github.com/entsoereng) | Mokonyana Ntsoereng | Lesotho | 12 |
 
-Generated: 2026-10-16T07:13:53.996Z
+Generated: 2026-10-16T08:32:45.461Z

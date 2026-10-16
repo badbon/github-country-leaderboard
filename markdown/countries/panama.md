@@ -18,9 +18,9 @@ Indexed users: 1,069
 | 4 | [jeremymcs](https://github.com/jeremymcs) | Jeremy McSpadden | Panama City, FL | 18,057 |
 | 5 | [quezadaesteban](https://github.com/quezadaesteban) | Esteban Quezada | Panama | 17,510 |
 | 6 | [SirRodney](https://github.com/SirRodney) | Rodney | Panama | 16,277 |
-| 7 | [Kenth06](https://github.com/Kenth06) | Kenneth Rios | Panama | 16,047 |
-| 8 | [ricardostmalo](https://github.com/ricardostmalo) | Ricardo de Saint Malo | Panama | 15,813 |
-| 9 | [hjupter](https://github.com/hjupter) | Hjupter Cerrud | Panama | 15,572 |
+| 7 | [hjupter](https://github.com/hjupter) | Hjupter Cerrud | Panama | 16,152 |
+| 8 | [Kenth06](https://github.com/Kenth06) | Kenneth Rios | Panama | 16,047 |
+| 9 | [ricardostmalo](https://github.com/ricardostmalo) | Ricardo de Saint Malo | Panama | 15,813 |
 | 10 | [gonzalezulises](https://github.com/gonzalezulises) | Ulises Gonzalez | Panama | 10,073 |
 | 11 | [ramonfabrega](https://github.com/ramonfabrega) | Ramon | Panama | 9,797 |
 | 12 | [lexjm](https://github.com/lexjm) | Alexander  | Panama City, Panama | 9,745 |
@@ -47,8 +47,8 @@ Indexed users: 1,069
 | 8 | [kingg22](https://github.com/kingg22) | Rey | Panama | 1,951 |
 | 9 | [gonzalezulises](https://github.com/gonzalezulises) | Ulises Gonzalez | Panama | 1,841 |
 | 10 | [ArkoSammy12](https://github.com/ArkoSammy12) | James Villarreal | Panama City, Panama | 1,425 |
-| 11 | [quantumquirkxyz](https://github.com/quantumquirkxyz) | Jhuomar Boskoll Quintero | Panama City, Panama | 1,320 |
-| 12 | [jaimelias](https://github.com/jaimelias) | Jaimelías | Panama City, Panama | 1,311 |
+| 11 | [jaimelias](https://github.com/jaimelias) | Jaimelías | Panama City, Panama | 1,323 |
+| 12 | [quantumquirkxyz](https://github.com/quantumquirkxyz) | Jhuomar Boskoll Quintero | Panama City, Panama | 1,320 |
 | 13 | [kelvinhe04](https://github.com/kelvinhe04) | Kelvin He Wu | Panama | 1,183 |
 | 14 | [angelnereira](https://github.com/angelnereira) | Angel Nereira | Panama | 1,177 |
 | 15 | [jquesada92](https://github.com/jquesada92) | Jose Quesada | Panama | 1,158 |
@@ -83,4 +83,4 @@ Indexed users: 1,069
 | 19 | [Commandtechno](https://github.com/Commandtechno) | Techno | David, Panama | 49 |
 | 20 | [Iardo](https://github.com/Iardo) | Ivan Ramos | Panama | 47 |
 
-Generated: 2026-10-16T07:28:44.993Z
+Generated: 2026-10-16T08:49:13.866Z

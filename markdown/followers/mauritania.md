@@ -1,12 +1,12 @@
 # Followers - Mauritania
 
-Generated: 2026-10-16T07:18:48.015Z
+Generated: 2026-10-16T08:38:16.172Z
 
 Users: 289
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [AymanMady](https://github.com/AymanMady) | Bechir Mady (octopus) | Awlyg tech |  | Nouakchott Mauritania | 163 |
+| 1 | [AymanMady](https://github.com/AymanMady) | Bechir Mady (octopus) | Awlyg tech |  | Nouakchott Mauritania | 161 |
 | 2 | [Ziyadsk](https://github.com/Ziyadsk) | Ziyad |  |  | Nouakchott, Mauritania | 69 |
 | 3 | [aziz0x00](https://github.com/aziz0x00) | Aziz |  |  | Mauritania | 61 |
 | 4 | [visola777](https://github.com/visola777) | visola777 |  |  | Mauritania | 49 |
@@ -25,4 +25,4 @@ Users: 289
 | 17 | [BechirAhmed](https://github.com/BechirAhmed) | Bechir Ahmed |  |  | Nouakchott, Mauritania | 27 |
 | 18 | [mohamdi](https://github.com/mohamdi) | Mohamdi Khlil |  |  | Mauritania | 26 |
 | 19 | [mbareck7](https://github.com/mbareck7) | mbar3ck7 | Bits Tamer | mbareck77 | Mauritania, Nouakchott | 25 |
-| 20 | [rajelmn](https://github.com/rajelmn) | ra_mn | 0xmr |  | mauritania | 24 |
+| 20 | [Mohamed-Beirouk](https://github.com/Mohamed-Beirouk) | Mohamed Mohamed Beirouk | Student at iscae |  | Mauritania | 23 |

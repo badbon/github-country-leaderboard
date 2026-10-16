@@ -1,6 +1,6 @@
 # Followers - North Korea
 
-Generated: 2026-10-16T07:25:42.740Z
+Generated: 2026-10-16T08:45:28.720Z
 
 Users: 185
 
@@ -15,7 +15,7 @@ Users: 185
 | 7 | [shiftre](https://github.com/shiftre) | Shift |  |  | Pyongyang | 31 |
 | 8 | [SleekZ](https://github.com/SleekZ) | SleekZ |  |  | Pyongyang | 31 |
 | 9 | [brendan-lee](https://github.com/brendan-lee) | Brendan Lee |  |  | Pyongyang, North Korea | 30 |
-| 10 | [T1med0ut](https://github.com/T1med0ut) | Timedout | Unemployed | Hashf0und | North Korea | 29 |
+| 10 | [T1med0ut](https://github.com/T1med0ut) | Timedout | Unemployed | Hashf0und | North Korea | 28 |
 | 11 | [chihongze](https://github.com/chihongze) | chihongze |  |  |  P'yŏngyang, North Korea | 27 |
 | 12 | [danilima8](https://github.com/danilima8) | Daniele Lima |  |  | North Korea | 18 |
 | 13 | [lilac1337](https://github.com/lilac1337) | Vera Lovelace |  |  | Pyongyang, Democrat People's Republic of Korea | 18 |

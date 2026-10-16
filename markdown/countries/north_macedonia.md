@@ -62,7 +62,7 @@ Indexed users: 1,929
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [yutomiwana](https://github.com/yutomiwana) | Yuto | Skopje | 1,246 |
+| 1 | [yutomiwana](https://github.com/yutomiwana) | Yuto | Skopje | 1,249 |
 | 2 | [henryruhs](https://github.com/henryruhs) | Henry Ruhs | North Macedonia | 639 |
 | 3 | [ZoranPandovski](https://github.com/ZoranPandovski) | Zoran Pandovski | Bitola, North Macedonia | 602 |
 | 4 | [jaggedsoft](https://github.com/jaggedsoft) | jagged | North Macedonia | 468 |
@@ -83,4 +83,4 @@ Indexed users: 1,929
 | 19 | [bor0](https://github.com/bor0) | Boro Sitnikovski | Skopje, North Macedonia | 166 |
 | 20 | [gdamjan](https://github.com/gdamjan) | Дамјан Георгиевски | Skopje, Macedonia | 145 |
 
-Generated: 2026-10-16T07:26:05.833Z
+Generated: 2026-10-16T08:46:53.496Z

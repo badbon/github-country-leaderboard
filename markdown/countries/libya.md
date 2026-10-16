@@ -26,12 +26,12 @@ Indexed users: 741
 | 12 | [Salehahmedeus](https://github.com/Salehahmedeus) | Ahmed Saleh | Libya | 6,768 |
 | 13 | [EngGharbia](https://github.com/EngGharbia) | Abdurraouf Ben Gharbia | Tripoli, Libya | 6,197 |
 | 14 | [swe-sanad](https://github.com/swe-sanad) | Sanad AlArousi | Zawia, Libya | 6,136 |
-| 15 | [x414i](https://github.com/x414i) | Mohamed S. Belaid | Libya/Misrata | 6,041 |
-| 16 | [Flat-Duck](https://github.com/Flat-Duck) | A.Mahidwei | Libya | 6,021 |
-| 17 | [almontasser](https://github.com/almontasser) | Mahmoud Almontasser | Misurata, Libya | 5,996 |
+| 15 | [almontasser](https://github.com/almontasser) | Mahmoud Almontasser | Misurata, Libya | 6,132 |
+| 16 | [x414i](https://github.com/x414i) | Mohamed S. Belaid | Libya/Misrata | 6,041 |
+| 17 | [Flat-Duck](https://github.com/Flat-Duck) | A.Mahidwei | Libya | 6,021 |
 | 18 | [AliAgela-dev](https://github.com/AliAgela-dev) | Ali Agela | Libya | 5,532 |
 | 19 | [OthmanHaba](https://github.com/OthmanHaba) |  Othman Haba  (ง'̀-'́)ง     | Tripoli Libya | 5,239 |
-| 20 | [erabti](https://github.com/erabti) | Ahmed Erabti | Libya | 5,060 |
+| 20 | [erabti](https://github.com/erabti) | Ahmed Erabti | Libya | 5,212 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 741
 | 19 | [ZizouHuweidi](https://github.com/ZizouHuweidi) | El Zubeir Huweidi | Benghazi, Libya | 51 |
 | 20 | [Islam-alshiki](https://github.com/Islam-alshiki) | Islam alshiki | Benghazi, Libya | 49 |
 
-Generated: 2026-10-16T07:14:00.827Z
+Generated: 2026-10-16T08:33:27.441Z

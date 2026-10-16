@@ -12,7 +12,7 @@ Indexed users: 212
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [fabricepayet](https://github.com/fabricepayet) | Fabrice Payet | Reunion Island | 21,380 |
+| 1 | [fabricepayet](https://github.com/fabricepayet) | Fabrice Payet | Reunion Island | 21,481 |
 | 2 | [PhilDL](https://github.com/PhilDL) | Philippe L'ATTENTION | Réunion | 6,906 |
 | 3 | [digikaizen](https://github.com/digikaizen) | DigiKaizen | Saint-Denis | 6,438 |
 | 4 | [saiht](https://github.com/saiht) | Saiht | Reunion Island | 3,881 |
@@ -76,11 +76,11 @@ Indexed users: 212
 | 12 | [GuillaumeDupuy](https://github.com/GuillaumeDupuy) | Varius | Seine-Saint-Denis | 28 |
 | 13 | [mebyz](https://github.com/mebyz) | Emmanuel BOTROS YOUSSEF | reunion island (FR) | 28 |
 | 14 | [bilbaoba](https://github.com/bilbaoba) | Mathieu Delsaut | Saint Denis, La Réunion  | 27 |
-| 15 | [zourite](https://github.com/zourite) | Sonia SAUGRIN | Reunion Island | 27 |
-| 16 | [ThomasDeruel](https://github.com/ThomasDeruel) | Thomas Deruel | Seine-Saint-Denis | 26 |
+| 15 | [ThomasDeruel](https://github.com/ThomasDeruel) | Thomas Deruel | Seine-Saint-Denis | 26 |
+| 16 | [zourite](https://github.com/zourite) | Sonia SAUGRIN | Reunion Island | 26 |
 | 17 | [0x346e3730](https://github.com/0x346e3730) | Antonin CLAUZIER | Saint-Denis, Reunion Island | 24 |
 | 18 | [JeCodeLeSoir](https://github.com/JeCodeLeSoir) | Aurélien | Réunion | 20 |
 | 19 | [julien-lav](https://github.com/julien-lav) | julien-lav | Saint-Denis | 20 |
 | 20 | [Nasjoe](https://github.com/Nasjoe) | Jonas TURBEAUX | Réunion Island, Villeurbanne, Montpellier : France | 20 |
 
-Generated: 2026-10-16T07:32:37.792Z
+Generated: 2026-10-16T08:52:37.760Z

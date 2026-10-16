@@ -14,7 +14,7 @@ Indexed users: 291
 |---:|---|---|---|---:|
 | 1 | [dotslashderek](https://github.com/dotslashderek) | Derek Thompson | Plymouth, MI | 14,516 |
 | 2 | [BuckinghamIO](https://github.com/BuckinghamIO) | Sam Buckingham | Plymouth, Devon | 8,176 |
-| 3 | [flaviocfneto](https://github.com/flaviocfneto) | Flávio Neto | Plymouth | 6,654 |
+| 3 | [flaviocfneto](https://github.com/flaviocfneto) | Flávio Neto | Plymouth | 6,746 |
 | 4 | [Aloogy](https://github.com/Aloogy) | Alex Cottenham | Plymouth, GB. | 4,049 |
 | 5 | [dvmrry](https://github.com/dvmrry) | Dave Murray | Plymouth Meeting, Pennsylvania | 4,048 |
 | 6 | [albemontors](https://github.com/albemontors) | Alberto Montorsi | Plymouth | 3,828 |
@@ -83,4 +83,4 @@ Indexed users: 291
 | 19 | [BeresIvan](https://github.com/BeresIvan) |  | Plymouth, MN | 20 |
 | 20 | [binarytide](https://github.com/binarytide) | John McAndrews | Plymouth, Ma | 20 |
 
-Generated: 2026-10-16T07:21:56.274Z
+Generated: 2026-10-16T08:41:46.281Z

@@ -1,6 +1,6 @@
 # Total Contributions - New Zealand
 
-Generated: 2026-10-16T07:23:23.533Z
+Generated: 2026-10-16T08:42:37.509Z
 
 Users: 12152
 
@@ -24,5 +24,5 @@ Users: 12152
 | 16 | [sethyates](https://github.com/sethyates) | Seth Yates |  |  | Auckland, New Zealand | 12300 |
 | 17 | [masaclaw](https://github.com/masaclaw) | Tom Peck |  |  | Wellington, New Zealand | 12094 |
 | 18 | [JonathanGiles](https://github.com/JonathanGiles) | Jonathan Giles | @Microsoft | JonathanGiles | New Zealand | 11641 |
-| 19 | [benhunterandrewrobertson](https://github.com/benhunterandrewrobertson) | Ben Robertson |  |  | Wellington, NZ | 11596 |
-| 20 | [passcod](https://github.com/passcod) | Félix Saparelli | @BeyondEssential |  | New Zealand | 11579 |
+| 19 | [passcod](https://github.com/passcod) | Félix Saparelli | @BeyondEssential |  | New Zealand | 11579 |
+| 20 | [faceleg](https://github.com/faceleg) | Michael Robinson |  |  | Auckland, New Zealand | 11194 |

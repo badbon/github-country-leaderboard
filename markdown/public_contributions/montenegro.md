@@ -1,6 +1,6 @@
 # Public Contributions - Montenegro
 
-Generated: 2026-10-16T07:21:21.251Z
+Generated: 2026-10-16T08:41:11.542Z
 
 Users: 888
 
@@ -15,8 +15,8 @@ Users: 888
 | 7 | [potapenko](https://github.com/potapenko) | Eugene Potapenko | Playphrase.me |  | Montenegro | 3168 |
 | 8 | [AndreyTalanin0x00](https://github.com/AndreyTalanin0x00) | Andrey Talanin |  |  | Podgorica, Montenegro | 3032 |
 | 9 | [lacodda](https://github.com/lacodda) | Kirill Lakhtachev | lacodda |  | Montenegro | 2578 |
-| 10 | [histrio](https://github.com/histrio) | Rinat Sabitov | CloudLinux |  | Montenegro | 2226 |
-| 11 | [Fooftilly](https://github.com/Fooftilly) | Nikola Perović |  |  | Montenegro | 2096 |
+| 10 | [Fooftilly](https://github.com/Fooftilly) | Nikola Perović |  |  | Montenegro | 2378 |
+| 11 | [histrio](https://github.com/histrio) | Rinat Sabitov | CloudLinux |  | Montenegro | 2226 |
 | 12 | [Xaaalera](https://github.com/Xaaalera) | Roman Maslennikov | Nord Beaver |  | Montenegro | 1863 |
 | 13 | [stefashkaa](https://github.com/stefashkaa) | Stefan Popov | @DeSource-Labs |  | Montenegro, Budva | 1821 |
 | 14 | [atimofeev](https://github.com/atimofeev) | Artem Timofeev |  |  | Budva, Montenegro | 1663 |

@@ -25,8 +25,8 @@ Indexed users: 888
 | 11 | [1v4n4](https://github.com/1v4n4) |  | Montenegro | 5,795 |
 | 12 | [aco228](https://github.com/aco228) | Aleksandar Konatar | Podgorica | 5,767 |
 | 13 | [pokidov](https://github.com/pokidov) | Kirill Pokidov | Montenegro | 5,471 |
-| 14 | [gezimarapaj](https://github.com/gezimarapaj) |  | Montenegro | 5,354 |
-| 15 | [zee229](https://github.com/zee229) | Nikita Yastreb | Montenegro, Bar | 5,224 |
+| 14 | [zee229](https://github.com/zee229) | Nikita Yastreb | Montenegro, Bar | 5,460 |
+| 15 | [gezimarapaj](https://github.com/gezimarapaj) |  | Montenegro | 5,354 |
 | 16 | [IvanPin](https://github.com/IvanPin) | Ivan Ponamarev | Podgorica, Montenegro | 4,722 |
 | 17 | [kayamuskas](https://github.com/kayamuskas) | Alexandr Logvinov | Montenegro | 4,714 |
 | 18 | [artempartos](https://github.com/artempartos) | Artem Petrov | Montenegro | 4,461 |
@@ -46,8 +46,8 @@ Indexed users: 888
 | 7 | [potapenko](https://github.com/potapenko) | Eugene Potapenko | Montenegro | 3,168 |
 | 8 | [AndreyTalanin0x00](https://github.com/AndreyTalanin0x00) | Andrey Talanin | Podgorica, Montenegro | 3,032 |
 | 9 | [lacodda](https://github.com/lacodda) | Kirill Lakhtachev | Montenegro | 2,578 |
-| 10 | [histrio](https://github.com/histrio) | Rinat Sabitov | Montenegro | 2,226 |
-| 11 | [Fooftilly](https://github.com/Fooftilly) | Nikola Perović | Montenegro | 2,096 |
+| 10 | [Fooftilly](https://github.com/Fooftilly) | Nikola Perović | Montenegro | 2,378 |
+| 11 | [histrio](https://github.com/histrio) | Rinat Sabitov | Montenegro | 2,226 |
 | 12 | [Xaaalera](https://github.com/Xaaalera) | Roman Maslennikov | Montenegro | 1,863 |
 | 13 | [stefashkaa](https://github.com/stefashkaa) | Stefan Popov | Montenegro, Budva | 1,821 |
 | 14 | [atimofeev](https://github.com/atimofeev) | Artem Timofeev | Budva, Montenegro | 1,663 |
@@ -83,4 +83,4 @@ Indexed users: 888
 | 19 | [vovkasm](https://github.com/vovkasm) | Vladimir Timofeev | Budva, Montenegro | 99 |
 | 20 | [marcoroganovic](https://github.com/marcoroganovic) | Marko Roganovic | Montenegro | 89 |
 
-Generated: 2026-10-16T07:21:21.251Z
+Generated: 2026-10-16T08:41:11.542Z

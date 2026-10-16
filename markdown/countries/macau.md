@@ -50,7 +50,7 @@ Indexed users: 439
 | 11 | [1595901624](https://github.com/1595901624) | Cloris | Macau | 842 |
 | 12 | [ygqygq2](https://github.com/ygqygq2) | Chinge Yang | macao | 800 |
 | 13 | [comsaint](https://github.com/comsaint) | comsaint | Macau | 758 |
-| 14 | [joaquimrcarvalho](https://github.com/joaquimrcarvalho) | Joaquim Carvalho | Macao, China and Coimbra, Portugal | 704 |
+| 14 | [joaquimrcarvalho](https://github.com/joaquimrcarvalho) | Joaquim Carvalho | Macao, China and Coimbra, Portugal | 705 |
 | 15 | [DoongLi](https://github.com/DoongLi) | Frankie Dong Li | Taipa, Macau | 657 |
 | 16 | [gorgeousfish](https://github.com/gorgeousfish) | xuanyucai | Macau | 596 |
 | 17 | [Boom5426](https://github.com/Boom5426) | Bo li (李波) | Macau | 571 |
@@ -83,4 +83,4 @@ Indexed users: 439
 | 19 | [Boom5426](https://github.com/Boom5426) | Bo li (李波) | Macau | 68 |
 | 20 | [mugpeng](https://github.com/mugpeng) | Peng | macao | 67 |
 
-Generated: 2026-10-16T07:15:15.610Z
+Generated: 2026-10-16T08:34:38.703Z

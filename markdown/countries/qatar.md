@@ -1,6 +1,6 @@
 # Qatar
 
-Indexed users: 1,074
+Indexed users: 1,073
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 1,074
 | 19 | [brainconnect93](https://github.com/brainconnect93) | Afolabi Akorede | Al-Wakrah, Qatar | 100 |
 | 20 | [muratyaman](https://github.com/muratyaman) | Haci Murat Yaman | Doha, Qatar | 99 |
 
-Generated: 2026-10-16T07:31:55.712Z
+Generated: 2026-10-16T08:51:51.061Z

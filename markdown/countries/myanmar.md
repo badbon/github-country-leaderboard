@@ -30,7 +30,7 @@ Indexed users: 2,059
 | 16 | [kyawhtetyang](https://github.com/kyawhtetyang) | Kyaw Htet | Myanmar | 3,492 |
 | 17 | [KHUN-NOON](https://github.com/KHUN-NOON) |  | Taunggyi, Myanmar | 3,409 |
 | 18 | [YeMyoAung](https://github.com/YeMyoAung) | Ye Myo Aung | Myanmar/Mandalay | 3,399 |
-| 19 | [MinThutaSawNaing](https://github.com/MinThutaSawNaing) | Min Thuta Saw Naing Eric | Myanmar/ Singapore | 3,322 |
+| 19 | [MinThutaSawNaing](https://github.com/MinThutaSawNaing) | Min Thuta Saw Naing Eric | Myanmar/ Singapore | 3,316 |
 | 20 | [sithuaung](https://github.com/sithuaung) | Si Thu Aung | Myanmar | 3,249 |
 
 ## Public Contributions
@@ -38,7 +38,7 @@ Indexed users: 2,059
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [nyeinkokoaung404](https://github.com/nyeinkokoaung404) | i AM 404 | Myanmar | 6,627 |
-| 2 | [MinThutaSawNaing](https://github.com/MinThutaSawNaing) | Min Thuta Saw Naing Eric | Myanmar/ Singapore | 3,322 |
+| 2 | [MinThutaSawNaing](https://github.com/MinThutaSawNaing) | Min Thuta Saw Naing Eric | Myanmar/ Singapore | 3,316 |
 | 3 | [thesithunyein](https://github.com/thesithunyein) | SITHU NYEIN | Yangon, Myanmar | 2,670 |
 | 4 | [peterlianpi](https://github.com/peterlianpi) | Peter | Myanmar | 2,590 |
 | 5 | [ninjastrikers](https://github.com/ninjastrikers) | NinjaStrikers | Myanmar | 1,470 |
@@ -83,4 +83,4 @@ Indexed users: 2,059
 | 19 | [winsandymyint](https://github.com/winsandymyint) | Win Sandy Myint | Myanmar | 168 |
 | 20 | [LunaM00n](https://github.com/LunaM00n) | Thin Ba Shane (Luna) | Myanmar | 162 |
 
-Generated: 2026-10-16T07:22:43.181Z
+Generated: 2026-10-16T08:42:17.990Z

@@ -1,13 +1,13 @@
 # Public Contributions - Liechtenstein
 
-Generated: 2026-10-16T07:14:05.204Z
+Generated: 2026-10-16T08:33:49.594Z
 
 Users: 113
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [oscardvs](https://github.com/oscardvs) | Oscar Devos |  | oskrt_dvs | Liechtenstein | 1932 |
-| 2 | [marsop](https://github.com/marsop) | Alberto Gregorio | phios ag | marsop_ | Ruggell, Liechtenstein | 1688 |
+| 2 | [marsop](https://github.com/marsop) | Alberto Gregorio | phios ag | marsop_ | Ruggell, Liechtenstein | 1689 |
 | 3 | [niklasfrick](https://github.com/niklasfrick) | Niklas Frick | @theplatformengineeringcompany | FrickNiklas | Liechtenstein | 1233 |
 | 4 | [iwhp](https://github.com/iwhp) | Harry Pfleger |  |  | Liechtenstein | 754 |
 | 5 | [masteradhoc](https://github.com/masteradhoc) | Brian |  | mrbrianhaas | Liechtenstein | 656 |
@@ -25,4 +25,4 @@ Users: 113
 | 17 | [ukhan717](https://github.com/ukhan717) | u.khan | NTi Audio AG |  | Liechtenstein | 99 |
 | 18 | [danheron](https://github.com/danheron) | Dan Heron |  |  | Liechtenstein | 77 |
 | 19 | [xenok69](https://github.com/xenok69) | xenok1 | VP Bank |  | Liechtenstein | 65 |
-| 20 | [anonymouslyanonymous1](https://github.com/anonymouslyanonymous1) | Anonymously Anonymous |  |  | Liechtenstein | 45 |
+| 20 | [FeeJai](https://github.com/FeeJai) | Felix Jankowski |  |  | Liechtenstein | 48 |

@@ -19,7 +19,7 @@ Indexed users: 111
 | 5 | [6pheR](https://github.com/6pheR) | CipheR_ | New Caledonia | 2,596 |
 | 6 | [tom333](https://github.com/tom333) |  | Nouméa, New Calédonia | 1,477 |
 | 7 | [120dev](https://github.com/120dev) | 120 | NEW CALEDONIA | 1,449 |
-| 8 | [TooFuW](https://github.com/TooFuW) | Eyrian Muet | New- Caledonia | 1,432 |
+| 8 | [TooFuW](https://github.com/TooFuW) | Eyrian Muet | New- Caledonia | 1,440 |
 | 9 | [Julien-Fruteau](https://github.com/Julien-Fruteau) | Julien | New Caledonia | 1,227 |
 | 10 | [Dougniel](https://github.com/Dougniel) | Daniel Santos | New Caledonia | 1,196 |
 | 11 | [davidfevre-gouv-nc](https://github.com/davidfevre-gouv-nc) | David FEVRE | Nouméa, New Caledonia | 1,195 |
@@ -30,7 +30,7 @@ Indexed users: 111
 | 16 | [FreddieJH](https://github.com/FreddieJH) | Freddie J. Heather | Noumea, New Caledonia | 630 |
 | 17 | [ellisp](https://github.com/ellisp) | Peter Ellis | Nouméa, Nouvelle-Calédonie | 628 |
 | 18 | [darwiin](https://github.com/darwiin) | Christophe ROGER | New Caledonia | 513 |
-| 19 | [BJ-Cochrane](https://github.com/BJ-Cochrane) | Ben Cochrane | Nouméa | 511 |
+| 19 | [BJ-Cochrane](https://github.com/BJ-Cochrane) | Ben Cochrane | Nouméa | 498 |
 | 20 | [PLStenger](https://github.com/PLStenger) | Pierre-Louis Stenger | Nouméa, New-Caledonia | 451 |
 
 ## Public Contributions
@@ -83,4 +83,4 @@ Indexed users: 111
 | 19 | [gronono](https://github.com/gronono) | Arnaud | New Caledonia | 9 |
 | 20 | [6pheR](https://github.com/6pheR) | CipheR_ | New Caledonia | 8 |
 
-Generated: 2026-10-16T07:23:19.077Z
+Generated: 2026-10-16T08:42:29.909Z

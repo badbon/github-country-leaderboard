@@ -73,7 +73,7 @@ Indexed users: 1,749
 | 9 | [sighook](https://github.com/sighook) | Alex Savca | Moldova | 207 |
 | 10 | [gvvynplaine](https://github.com/gvvynplaine) | Roman | Moldova, Tiraspol | 194 |
 | 11 | [steevehook](https://github.com/steevehook) | Steve Hook | Chisinau, Moldova | 187 |
-| 12 | [Ywxig](https://github.com/Ywxig) | Ywxig | Moldova Chisinau  | 179 |
+| 12 | [Ywxig](https://github.com/Ywxig) | Ywxig | Moldova Chisinau  | 177 |
 | 13 | [vova07](https://github.com/vova07) | Vasile C. | Chișinău, Moldova | 172 |
 | 14 | [bearanatolie](https://github.com/bearanatolie) | Anatolie Ursu | ulmu, laloveni, Moldova | 155 |
 | 15 | [AddictedCS](https://github.com/AddictedCS) | Sergiu Ciumac | Chisinau, Moldova | 141 |
@@ -83,4 +83,4 @@ Indexed users: 1,749
 | 19 | [vgaidarji](https://github.com/vgaidarji) | Veaceslav Gaidarji | Moldova | 115 |
 | 20 | [Ernest96](https://github.com/Ernest96) | Ernest | Chisinau Moldova | 107 |
 
-Generated: 2026-10-16T07:20:33.489Z
+Generated: 2026-10-16T08:39:47.150Z

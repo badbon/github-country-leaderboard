@@ -30,8 +30,8 @@ Indexed users: 12,152
 | 16 | [sethyates](https://github.com/sethyates) | Seth Yates | Auckland, New Zealand | 12,300 |
 | 17 | [masaclaw](https://github.com/masaclaw) | Tom Peck | Wellington, New Zealand | 12,094 |
 | 18 | [JonathanGiles](https://github.com/JonathanGiles) | Jonathan Giles | New Zealand | 11,641 |
-| 19 | [benhunterandrewrobertson](https://github.com/benhunterandrewrobertson) | Ben Robertson | Wellington, NZ | 11,596 |
-| 20 | [passcod](https://github.com/passcod) | Félix Saparelli | New Zealand | 11,579 |
+| 19 | [passcod](https://github.com/passcod) | Félix Saparelli | New Zealand | 11,579 |
+| 20 | [faceleg](https://github.com/faceleg) | Michael Robinson | Auckland, New Zealand | 11,194 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 12,152
 | 19 | [cortesi](https://github.com/cortesi) | Aldo Cortesi | Dunedin, New Zealand | 1,019 |
 | 20 | [patevs](https://github.com/patevs) | Pat | New Zealand | 917 |
 
-Generated: 2026-10-16T07:23:23.533Z
+Generated: 2026-10-16T08:42:37.509Z

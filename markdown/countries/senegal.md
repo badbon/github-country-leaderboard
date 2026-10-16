@@ -21,8 +21,8 @@ Indexed users: 1,356
 | 7 | [gaelahouanvoedo](https://github.com/gaelahouanvoedo) | Gael AHOUANVOEDO | Dakar, Sénégal | 7,526 |
 | 8 | [MJoshua25](https://github.com/MJoshua25) | Yao Josué | Dakar | 6,373 |
 | 9 | [utachicodes](https://github.com/utachicodes) | Abdoullah Ndao | Senegal | 6,338 |
-| 10 | [i2sac](https://github.com/i2sac) | Louis Issac Jean Samba DIOUF | Dakar, Senegal | 5,737 |
-| 11 | [njaga](https://github.com/njaga) | Ndiaga Ndiaye | Dakar | 5,639 |
+| 10 | [njaga](https://github.com/njaga) | Ndiaga Ndiaye | Dakar | 5,792 |
+| 11 | [i2sac](https://github.com/i2sac) | Louis Issac Jean Samba DIOUF | Dakar, Senegal | 5,737 |
 | 12 | [touskar](https://github.com/touskar) | Moussa Ndour DSI at INTech Group | Dakar | 5,557 |
 | 13 | [elias-ba](https://github.com/elias-ba) | Elias Waly Ba | Dakar, Senegal | 5,184 |
 | 14 | [crossben](https://github.com/crossben) |  | Dakar | 4,869 |
@@ -83,4 +83,4 @@ Indexed users: 1,356
 | 19 | [ngorseck](https://github.com/ngorseck) | Ngor SECK | Dakar - Sénégal | 142 |
 | 20 | [patheGobel](https://github.com/patheGobel) | Pathé BA | Senegal  | 141 |
 
-Generated: 2026-10-16T07:36:59.951Z
+Generated: 2026-10-16T08:57:10.231Z

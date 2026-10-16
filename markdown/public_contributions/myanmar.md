@@ -1,13 +1,13 @@
 # Public Contributions - Myanmar
 
-Generated: 2026-10-16T07:22:43.181Z
+Generated: 2026-10-16T08:42:17.990Z
 
 Users: 2059
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [nyeinkokoaung404](https://github.com/nyeinkokoaung404) | i AM 404 |  |  | Myanmar | 6627 |
-| 2 | [MinThutaSawNaing](https://github.com/MinThutaSawNaing) | Min Thuta Saw Naing Eric | Myanmar Golden Rock International |  | Myanmar/ Singapore | 3322 |
+| 2 | [MinThutaSawNaing](https://github.com/MinThutaSawNaing) | Min Thuta Saw Naing Eric | Myanmar Golden Rock International |  | Myanmar/ Singapore | 3316 |
 | 3 | [thesithunyein](https://github.com/thesithunyein) | SITHU NYEIN |  | thesithunyein | Yangon, Myanmar | 2670 |
 | 4 | [peterlianpi](https://github.com/peterlianpi) | Peter |  | peterlianpi | Myanmar | 2590 |
 | 5 | [ninjastrikers](https://github.com/ninjastrikers) | NinjaStrikers | The NINJA STRIKERS | Ninjastrikers | Myanmar | 1470 |
