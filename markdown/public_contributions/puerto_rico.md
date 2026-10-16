@@ -1,8 +1,8 @@
 # Public Contributions - Puerto Rico
 
-Generated: 2026-10-16T13:34:27.435Z
+Generated: 2026-10-16T14:54:05.054Z
 
-Users: 1533
+Users: 1532
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|

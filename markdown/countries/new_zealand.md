@@ -67,7 +67,7 @@ Indexed users: 12,151
 | 3 | [RichardLitt](https://github.com/RichardLitt) | Richard Littauer | Pōneke Wellington, Aotearoa New Zealand | 3,304 |
 | 4 | [Jason-Cooke](https://github.com/Jason-Cooke) | Jason Cooke | Auckland, New Zealand | 2,254 |
 | 5 | [jamezmca](https://github.com/jamezmca) | James | Auckland, New Zealand | 2,224 |
-| 6 | [kauer3](https://github.com/kauer3) | Kauê Reis | New Zealand | 1,961 |
+| 6 | [kauer3](https://github.com/kauer3) | Kauê Reis | New Zealand | 1,942 |
 | 7 | [Arachnid](https://github.com/Arachnid) | Nick Johnson | Christchurch, New Zealand | 1,765 |
 | 8 | [yangzhongke](https://github.com/yangzhongke) | 杨中科 | Wellington, New Zealand | 1,646 |
 | 9 | [nrc](https://github.com/nrc) | Nick Cameron | Wellington, NZ | 1,617 |
@@ -83,4 +83,4 @@ Indexed users: 12,151
 | 19 | [cortesi](https://github.com/cortesi) | Aldo Cortesi | Dunedin, New Zealand | 1,019 |
 | 20 | [patevs](https://github.com/patevs) | Pat | New Zealand | 917 |
 
-Generated: 2026-10-16T13:28:39.883Z
+Generated: 2026-10-16T14:47:17.860Z

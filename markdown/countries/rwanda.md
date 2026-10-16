@@ -1,6 +1,6 @@
 # Rwanda
 
-Indexed users: 3,515
+Indexed users: 3,514
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 3,515
 | 19 | [ghislainb-cracker](https://github.com/ghislainb-cracker) | Ghislain Byimbo | Rwanda | 316 |
 | 20 | [shemaikuzwe](https://github.com/shemaikuzwe) | Ikuzwe shema Elie | rwanda | 314 |
 
-Generated: 2026-10-16T13:35:47.856Z
+Generated: 2026-10-16T14:54:25.412Z

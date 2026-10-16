@@ -1,8 +1,8 @@
 # Total Contributions - Saudi Arabia
 
-Generated: 2026-10-16T13:40:30.542Z
+Generated: 2026-10-16T14:59:18.983Z
 
-Users: 7737
+Users: 7736
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -18,8 +18,8 @@ Users: 7737
 | 10 | [talha7k](https://github.com/talha7k) | Talha Khan | Dijitize.com |  | Riyadh | 14251 |
 | 11 | [samykabu](https://github.com/samykabu) | Samy K. Abushanab |  |  | Saudi Arabia | 12900 |
 | 12 | [abdulrahman-gaith-beep](https://github.com/abdulrahman-gaith-beep) | Abdulrahman B Al-Sayari | @Golden-Investors  |  | Riyadh \| London \| Global Citizen  | 11951 |
-| 13 | [a7mad3bdullah](https://github.com/a7mad3bdullah) | Ahmad |  |  | Saudi Arabia | 11447 |
-| 14 | [Ahmed-aleryani](https://github.com/Ahmed-aleryani) | Ahmed Aleryani | @Transferwise |  | Sana'a, Yemen / Tallinn, Estonia / Riyadh, Saudi Arabia | 10605 |
+| 13 | [Ahmed-aleryani](https://github.com/Ahmed-aleryani) | Ahmed Aleryani | @Transferwise |  | Sana'a, Yemen / Tallinn, Estonia / Riyadh, Saudi Arabia | 11607 |
+| 14 | [a7mad3bdullah](https://github.com/a7mad3bdullah) | Ahmad |  |  | Saudi Arabia | 11447 |
 | 15 | [A1cy](https://github.com/A1cy) | A1 | A1xAI | A1hady | Riyadh | 10288 |
 | 16 | [imadaitelarabi](https://github.com/imadaitelarabi) | IMAD AIT EL ARABI | Xenith AI |  | Riyadh | 9583 |
 | 17 | [mo-alhaddad](https://github.com/mo-alhaddad) | Mohammed Alhaddad | IPTech |  | Khobar, Saudi Arabia | 8946 |

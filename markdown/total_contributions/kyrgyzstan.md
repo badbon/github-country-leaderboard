@@ -1,17 +1,17 @@
 # Total Contributions - Kyrgyzstan
 
-Generated: 2026-10-16T13:14:23.681Z
+Generated: 2026-10-16T14:35:01.777Z
 
-Users: 2446
+Users: 2445
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [alxnko](https://github.com/alxnko) | Alex Neko | AIT Solutions |  | Kyrgyzstan | 25053 |
 | 2 | [bekturmamytov](https://github.com/bekturmamytov) | bekturmamytov |  | bektur_mamytov | Bishkek | 12787 |
 | 3 | [kymuco](https://github.com/kymuco) | Ikymuco |  |  | Bishkek, Kyrgyzstan | 11207 |
-| 4 | [anton-plebanovich](https://github.com/anton-plebanovich) | Anton Plebanovich | Gologolol |  | Kyrgyzstan, Bishkek | 10596 |
-| 5 | [Elkhan2003](https://github.com/Elkhan2003) | Elkhan Sharshenbekov | WeDevX && UniCorn |  | Karakol, Kyrgyzstan | 10024 |
-| 6 | [bekishh](https://github.com/bekishh) | Zh Beknazar | Prodify |  | Kyrgystan, Bishkek | 9417 |
+| 4 | [Elkhan2003](https://github.com/Elkhan2003) | Elkhan Sharshenbekov | WeDevX && UniCorn |  | Karakol, Kyrgyzstan | 10024 |
+| 5 | [bekishh](https://github.com/bekishh) | Zh Beknazar | Prodify |  | Kyrgystan, Bishkek | 9417 |
+| 6 | [anton-plebanovich](https://github.com/anton-plebanovich) | Anton Plebanovich | Gologolol |  | Kyrgyzstan, Bishkek | 9200 |
 | 7 | [whyfoks1s](https://github.com/whyfoks1s) | Kutman Melisov | AIT Solutions |  | Kyrgyzstan | 6581 |
 | 8 | [zarylbek-tenxdevs](https://github.com/zarylbek-tenxdevs) |  |  |  | Kyrgyzstan | 6123 |
 | 9 | [Amanch1ik](https://github.com/Amanch1ik) | Amanchik |  |  | Bishkek | 6088 |

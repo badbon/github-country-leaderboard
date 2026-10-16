@@ -1,6 +1,6 @@
 # Kenya
 
-Indexed users: 24,029
+Indexed users: 24,028
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 24,029
 | 19 | [Mulandii](https://github.com/Mulandii) | Ace. | Nairobi,Kenya | 1,322 |
 | 20 | [Lincoln-Madaraka](https://github.com/Lincoln-Madaraka) | lincoln | Nairobi and Worldwide  | 1,320 |
 
-Generated: 2026-10-16T14:07:50.958Z
+Generated: 2026-10-16T14:33:52.131Z

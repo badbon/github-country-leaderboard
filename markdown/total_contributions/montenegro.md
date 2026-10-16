@@ -1,6 +1,6 @@
 # Total Contributions - Montenegro
 
-Generated: 2026-10-16T13:24:26.380Z
+Generated: 2026-10-16T14:43:21.219Z
 
 Users: 888
 
@@ -21,8 +21,8 @@ Users: 888
 | 13 | [pokidov](https://github.com/pokidov) | Kirill Pokidov | AAA Consulting |  | Montenegro | 5471 |
 | 14 | [zee229](https://github.com/zee229) | Nikita Yastreb |  |  | Montenegro, Bar | 5460 |
 | 15 | [gezimarapaj](https://github.com/gezimarapaj) |  | @vadahq |  | Montenegro | 5354 |
-| 16 | [IvanPin](https://github.com/IvanPin) | Ivan Ponamarev |  | IvanPonamarev | Podgorica, Montenegro | 4722 |
-| 17 | [kayamuskas](https://github.com/kayamuskas) | Alexandr Logvinov | Kayama D.O.O. |  | Montenegro | 4714 |
-| 18 | [artempartos](https://github.com/artempartos) | Artem Petrov | Dualbootpartners |  | Montenegro | 4461 |
-| 19 | [frostmid](https://github.com/frostmid) | Igor Boldyrev |  |  | Budva, Montenegro | 4449 |
-| 20 | [tackadesignlab](https://github.com/tackadesignlab) | SRDNVCH |  |  | Montenegro | 4419 |
+| 16 | [milunradonjic](https://github.com/milunradonjic) | Milun Radonjic |  |  | Podgorica | 4935 |
+| 17 | [IvanPin](https://github.com/IvanPin) | Ivan Ponamarev |  | IvanPonamarev | Podgorica, Montenegro | 4722 |
+| 18 | [kayamuskas](https://github.com/kayamuskas) | Alexandr Logvinov | Kayama D.O.O. |  | Montenegro | 4714 |
+| 19 | [artempartos](https://github.com/artempartos) | Artem Petrov | Dualbootpartners |  | Montenegro | 4461 |
+| 20 | [frostmid](https://github.com/frostmid) | Igor Boldyrev |  |  | Budva, Montenegro | 4449 |

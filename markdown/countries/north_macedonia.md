@@ -21,7 +21,7 @@ Indexed users: 1,929
 | 7 | [davorminchorov](https://github.com/davorminchorov) | Davor Minchorov | Skopje, Macedonia | 6,675 |
 | 8 | [andrejsshell](https://github.com/andrejsshell) | Andrej | Skopje | 6,054 |
 | 9 | [sasojadrovski](https://github.com/sasojadrovski) | Sasho Jadrovski | Skopje, Macedonia | 5,666 |
-| 10 | [simeonmarkoski](https://github.com/simeonmarkoski) | Simeon Markoski | Skopje, Macedonia | 5,289 |
+| 10 | [simeonmarkoski](https://github.com/simeonmarkoski) | Simeon Markoski | Skopje, Macedonia | 5,204 |
 | 11 | [DBozhinovski](https://github.com/DBozhinovski) | Darko Bozhinovski | Skopje, Macedonia | 5,146 |
 | 12 | [markopetrov1](https://github.com/markopetrov1) | Marko Petrov | Skopje, Macedonia | 5,068 |
 | 13 | [danielilievskii](https://github.com/danielilievskii) | Daniel Ilievski | Skopje, North Macedonia | 4,747 |
@@ -83,4 +83,4 @@ Indexed users: 1,929
 | 19 | [bor0](https://github.com/bor0) | Boro Sitnikovski | Skopje, North Macedonia | 166 |
 | 20 | [gdamjan](https://github.com/gdamjan) | Дамјан Георгиевски | Skopje, Macedonia | 145 |
 
-Generated: 2026-10-16T13:30:08.498Z
+Generated: 2026-10-16T14:49:46.172Z

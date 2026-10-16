@@ -1,12 +1,12 @@
 # Total Contributions - Lebanon
 
-Generated: 2026-10-16T13:16:04.032Z
+Generated: 2026-10-16T14:36:26.234Z
 
 Users: 2562
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [YoussofH](https://github.com/YoussofH) | Youssof Hammoud |  |  | Beirut, Lebanon | 23135 |
+| 1 | [YoussofH](https://github.com/YoussofH) | Youssof Hammoud |  |  | Beirut, Lebanon | 22996 |
 | 2 | [1homsi](https://github.com/1homsi) | Mohamad Homsi |  | 1homsii | Lebanon | 21539 |
 | 3 | [Mhmdhammoud](https://github.com/Mhmdhammoud) | Mohammad Hammoud | @Meritt-dev  |  | Lebanon | 16320 |
 | 4 | [hussein-turfah](https://github.com/hussein-turfah) | Hussein Turfah | Beachbeds | husseinturfah | Lebanon | 12520 |

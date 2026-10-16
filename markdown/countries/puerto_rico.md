@@ -1,6 +1,6 @@
 # Puerto Rico
 
-Indexed users: 1,533
+Indexed users: 1,532
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 1,533
 | 19 | [rnegron](https://github.com/rnegron) | Raúl Negrón-Otero | Bayamón, Puerto Rico | 113 |
 | 20 | [hackingbutlegal](https://github.com/hackingbutlegal) | Jackie Singh | San Juan, PR | 107 |
 
-Generated: 2026-10-16T13:34:27.435Z
+Generated: 2026-10-16T14:54:05.054Z

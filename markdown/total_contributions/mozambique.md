@@ -1,6 +1,6 @@
 # Total Contributions - Mozambique
 
-Generated: 2026-10-16T13:25:37.411Z
+Generated: 2026-10-16T14:44:35.478Z
 
 Users: 1176
 
@@ -16,7 +16,7 @@ Users: 1176
 | 8 | [caf-3](https://github.com/caf-3) | Tomas Caetano |  |  | Mozambique Maputo | 4627 |
 | 9 | [JoneBulande](https://github.com/JoneBulande) | Jone  |  | JoneBulande | Maputo, Mozambique | 4478 |
 | 10 | [rnrnshn](https://github.com/rnrnshn) | rurushu | @Maputo-Frontenders | rnrnshn | Mozambique | 3857 |
-| 11 | [Edsonjorgef1](https://github.com/Edsonjorgef1) | Edson Jorge Francisco | @equip-mozambique |  | Mozambique, Sofala, Beira | 3395 |
+| 11 | [Edsonjorgef1](https://github.com/Edsonjorgef1) | Edson Jorge Francisco | @equip-mozambique |  | Mozambique, Sofala, Beira | 3533 |
 | 12 | [americo](https://github.com/americo) | Américo Júnior |  | americosmjr | Mozambique | 3256 |
 | 13 | [emuneme](https://github.com/emuneme) | Eusebio  Augusto Munene | ASTER-Informatica & Servicos | einfor | Maputo | 2844 |
 | 14 | [rafael-the-dev](https://github.com/rafael-the-dev) | Rafael Tivane |  |  | Mozambique | 2782 |

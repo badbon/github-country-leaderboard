@@ -12,7 +12,7 @@ Indexed users: 2,562
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [YoussofH](https://github.com/YoussofH) | Youssof Hammoud | Beirut, Lebanon | 23,135 |
+| 1 | [YoussofH](https://github.com/YoussofH) | Youssof Hammoud | Beirut, Lebanon | 22,996 |
 | 2 | [1homsi](https://github.com/1homsi) | Mohamad Homsi | Lebanon | 21,539 |
 | 3 | [Mhmdhammoud](https://github.com/Mhmdhammoud) | Mohammad Hammoud | Lebanon | 16,320 |
 | 4 | [hussein-turfah](https://github.com/hussein-turfah) | Hussein Turfah | Lebanon | 12,520 |
@@ -83,4 +83,4 @@ Indexed users: 2,562
 | 19 | [hadiidbouk](https://github.com/hadiidbouk) | Hadi Dbouk | Lebanon | 101 |
 | 20 | [rhamzeh](https://github.com/rhamzeh) | Raghd Hamzeh | Beirut, Lebanon | 95 |
 
-Generated: 2026-10-16T13:16:04.032Z
+Generated: 2026-10-16T14:36:26.234Z

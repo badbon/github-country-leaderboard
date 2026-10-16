@@ -22,7 +22,7 @@ Indexed users: 1,176
 | 8 | [caf-3](https://github.com/caf-3) | Tomas Caetano | Mozambique Maputo | 4,627 |
 | 9 | [JoneBulande](https://github.com/JoneBulande) | Jone  | Maputo, Mozambique | 4,478 |
 | 10 | [rnrnshn](https://github.com/rnrnshn) | rurushu | Mozambique | 3,857 |
-| 11 | [Edsonjorgef1](https://github.com/Edsonjorgef1) | Edson Jorge Francisco | Mozambique, Sofala, Beira | 3,395 |
+| 11 | [Edsonjorgef1](https://github.com/Edsonjorgef1) | Edson Jorge Francisco | Mozambique, Sofala, Beira | 3,533 |
 | 12 | [americo](https://github.com/americo) | Américo Júnior | Mozambique | 3,256 |
 | 13 | [emuneme](https://github.com/emuneme) | Eusebio  Augusto Munene | Maputo | 2,844 |
 | 14 | [rafael-the-dev](https://github.com/rafael-the-dev) | Rafael Tivane | Mozambique | 2,782 |
@@ -53,7 +53,7 @@ Indexed users: 1,176
 | 14 | [ArcidesFerrao](https://github.com/ArcidesFerrao) | Arcides Ferrao | Mozambique | 610 |
 | 15 | [Eddy-Nhabinde](https://github.com/Eddy-Nhabinde) | Edmilson Nhabinde | Maputo, Mozambique | 588 |
 | 16 | [carsaimz](https://github.com/carsaimz) | CarsaiMz | Mozambique | 563 |
-| 17 | [antonio-macave](https://github.com/antonio-macave) | António Macave | Maputo, Mozambique | 561 |
+| 17 | [antonio-macave](https://github.com/antonio-macave) | António Macave | Maputo, Mozambique | 553 |
 | 18 | [herquiloidehele](https://github.com/herquiloidehele) | Herquiloide Hele | Mocambique - Maputo | 546 |
 | 19 | [Muiria814](https://github.com/Muiria814) | Eleuterio Raul | Mozambique | 504 |
 | 20 | [iradoweck](https://github.com/iradoweck) | Edmilson Muacigarro | Mozambique | 486 |
@@ -83,4 +83,4 @@ Indexed users: 1,176
 | 19 | [enoquetembe](https://github.com/enoquetembe) | Enoque Tembe | Maputo, Mozambique | 111 |
 | 20 | [mariomthree](https://github.com/mariomthree) | Mário M. Mabande | Maputo, Mozambique | 95 |
 
-Generated: 2026-10-16T13:25:37.411Z
+Generated: 2026-10-16T14:44:35.478Z

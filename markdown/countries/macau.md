@@ -25,7 +25,7 @@ Indexed users: 439
 | 11 | [7788ken](https://github.com/7788ken) | Mark.pan | Macau,Zhuhai | 2,304 |
 | 12 | [mugpeng](https://github.com/mugpeng) | Peng | macao | 2,287 |
 | 13 | [Alex-Leong](https://github.com/Alex-Leong) | Alex | Macau | 2,166 |
-| 14 | [RyanKung](https://github.com/RyanKung) | Elder Ryan | Macau | 2,144 |
+| 14 | [RyanKung](https://github.com/RyanKung) | Elder Ryan | Macau | 2,142 |
 | 15 | [Yh1sam](https://github.com/Yh1sam) |  | Macau | 2,099 |
 | 16 | [aungminnkhant9400](https://github.com/aungminnkhant9400) | Rollo | Macau | 1,790 |
 | 17 | [HansiChan](https://github.com/HansiChan) | Colin | Macau | 1,764 |
@@ -41,7 +41,7 @@ Indexed users: 439
 | 2 | [spiritLHLS](https://github.com/spiritLHLS) | spiritlhl | Macau | 5,278 |
 | 3 | [sfcheung](https://github.com/sfcheung) | Shu Fai Cheung | Macao | 2,798 |
 | 4 | [mugpeng](https://github.com/mugpeng) | Peng | macao | 2,287 |
-| 5 | [RyanKung](https://github.com/RyanKung) | Elder Ryan | Macau | 2,142 |
+| 5 | [RyanKung](https://github.com/RyanKung) | Elder Ryan | Macau | 2,140 |
 | 6 | [hheei](https://github.com/hheei) | Lo Chon Hei | Macau | 1,757 |
 | 7 | [wahengchang](https://github.com/wahengchang) | peterchang | macau | 1,336 |
 | 8 | [yyyyyyounger](https://github.com/yyyyyyounger) | Rookie, LIN | Macau | 1,284 |
@@ -55,7 +55,7 @@ Indexed users: 439
 | 16 | [gorgeousfish](https://github.com/gorgeousfish) | xuanyucai | Macau | 596 |
 | 17 | [Chonwai](https://github.com/Chonwai) | Chonwai Un, Edison | Macau | 584 |
 | 18 | [Boom5426](https://github.com/Boom5426) | Bo li (李波) | Macau | 571 |
-| 19 | [alemonmk](https://github.com/alemonmk) | Lemon Lam | Macau | 507 |
+| 19 | [alemonmk](https://github.com/alemonmk) | Lemon Lam | Macau | 509 |
 | 20 | [LunchBox](https://github.com/LunchBox) | Daniel | Macau | 467 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 439
 | 19 | [Boom5426](https://github.com/Boom5426) | Bo li (李波) | Macau | 68 |
 | 20 | [mugpeng](https://github.com/mugpeng) | Peng | macao | 67 |
 
-Generated: 2026-10-16T13:19:28.914Z
+Generated: 2026-10-16T14:38:40.466Z

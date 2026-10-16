@@ -1,12 +1,12 @@
 # Total Contributions - Republic of the Congo
 
-Generated: 2026-10-16T13:34:34.751Z
+Generated: 2026-10-16T14:54:14.542Z
 
 Users: 298
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [bruxx-6243](https://github.com/bruxx-6243) | Fariol Blondeau | @akieni-tech | bryan_6243 | Brazzaville - Congo | 11504 |
+| 1 | [bruxx-6243](https://github.com/bruxx-6243) | Fariol Blondeau | @akieni-tech | bryan_6243 | Brazzaville - Congo | 11578 |
 | 2 | [Athanaze](https://github.com/Athanaze) | Sacha Liechti | liechticonsulting.com | liechticonsult | Congo | 7728 |
 | 3 | [Saintrick-FM](https://github.com/Saintrick-FM) | Francy Saintrick Malonga | Nanocreatives |  | Congo Brazzaville | 4083 |
 | 4 | [chrismoussounda](https://github.com/chrismoussounda) | Christoffert Moussounda |  |  | Pointe-Noire, Congo | 3860 |
@@ -16,7 +16,7 @@ Users: 298
 | 8 | [Justany](https://github.com/Justany) | Justany ITOUA | Confort 7 incubateur | justany_itoua | Brazzaville | 3001 |
 | 9 | [Flammeduciel](https://github.com/Flammeduciel) | Flamme Du Ciel WASS |  |  | Brazzaville CG | 2962 |
 | 10 | [OrionWambert](https://github.com/OrionWambert) | Orion WAMBERT | Akieni |  | Brazzaville - Congo | 2928 |
-| 11 | [Merite15](https://github.com/Merite15) | Merite |  |  | Brazzaville, Congo | 2861 |
+| 11 | [Merite15](https://github.com/Merite15) | Merite |  |  | Brazzaville, Congo | 2899 |
 | 12 | [Elisee01](https://github.com/Elisee01) | Kitoga Elisee | Globoris Technologies | KitogaElisee | Kigali, Rwanda \| Congo, Kinshasa | 2461 |
 | 13 | [sancty007](https://github.com/sancty007) | sanctifier Yaw-Mensah |  |  | Congo Brazzaville  | 2314 |
 | 14 | [Cesar008](https://github.com/Cesar008) | Cesar Grace Louzala | cesoentreprise | CesarLouzala | Congo | 2299 |

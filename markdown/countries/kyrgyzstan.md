@@ -1,6 +1,6 @@
 # Kyrgyzstan
 
-Indexed users: 2,446
+Indexed users: 2,445
 
 | Leaderboard | Link |
 |---|---|
@@ -15,9 +15,9 @@ Indexed users: 2,446
 | 1 | [alxnko](https://github.com/alxnko) | Alex Neko | Kyrgyzstan | 25,053 |
 | 2 | [bekturmamytov](https://github.com/bekturmamytov) | bekturmamytov | Bishkek | 12,787 |
 | 3 | [kymuco](https://github.com/kymuco) | Ikymuco | Bishkek, Kyrgyzstan | 11,207 |
-| 4 | [anton-plebanovich](https://github.com/anton-plebanovich) | Anton Plebanovich | Kyrgyzstan, Bishkek | 10,596 |
-| 5 | [Elkhan2003](https://github.com/Elkhan2003) | Elkhan Sharshenbekov | Karakol, Kyrgyzstan | 10,024 |
-| 6 | [bekishh](https://github.com/bekishh) | Zh Beknazar | Kyrgystan, Bishkek | 9,417 |
+| 4 | [Elkhan2003](https://github.com/Elkhan2003) | Elkhan Sharshenbekov | Karakol, Kyrgyzstan | 10,024 |
+| 5 | [bekishh](https://github.com/bekishh) | Zh Beknazar | Kyrgystan, Bishkek | 9,417 |
+| 6 | [anton-plebanovich](https://github.com/anton-plebanovich) | Anton Plebanovich | Kyrgyzstan, Bishkek | 9,200 |
 | 7 | [whyfoks1s](https://github.com/whyfoks1s) | Kutman Melisov | Kyrgyzstan | 6,581 |
 | 8 | [zarylbek-tenxdevs](https://github.com/zarylbek-tenxdevs) |  | Kyrgyzstan | 6,123 |
 | 9 | [Amanch1ik](https://github.com/Amanch1ik) | Amanchik | Bishkek | 6,088 |
@@ -83,4 +83,4 @@ Indexed users: 2,446
 | 19 | [Elkhan2003](https://github.com/Elkhan2003) | Elkhan Sharshenbekov | Karakol, Kyrgyzstan | 103 |
 | 20 | [eszdman](https://github.com/eszdman) |  | Kyrgyzstan | 103 |
 
-Generated: 2026-10-16T13:14:23.681Z
+Generated: 2026-10-16T14:35:01.777Z

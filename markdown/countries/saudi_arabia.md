@@ -1,6 +1,6 @@
 # Saudi Arabia
 
-Indexed users: 7,737
+Indexed users: 7,736
 
 | Leaderboard | Link |
 |---|---|
@@ -24,8 +24,8 @@ Indexed users: 7,737
 | 10 | [talha7k](https://github.com/talha7k) | Talha Khan | Riyadh | 14,251 |
 | 11 | [samykabu](https://github.com/samykabu) | Samy K. Abushanab | Saudi Arabia | 12,900 |
 | 12 | [abdulrahman-gaith-beep](https://github.com/abdulrahman-gaith-beep) | Abdulrahman B Al-Sayari | Riyadh \| London \| Global Citizen  | 11,951 |
-| 13 | [a7mad3bdullah](https://github.com/a7mad3bdullah) | Ahmad | Saudi Arabia | 11,447 |
-| 14 | [Ahmed-aleryani](https://github.com/Ahmed-aleryani) | Ahmed Aleryani | Sana'a, Yemen / Tallinn, Estonia / Riyadh, Saudi Arabia | 10,605 |
+| 13 | [Ahmed-aleryani](https://github.com/Ahmed-aleryani) | Ahmed Aleryani | Sana'a, Yemen / Tallinn, Estonia / Riyadh, Saudi Arabia | 11,607 |
+| 14 | [a7mad3bdullah](https://github.com/a7mad3bdullah) | Ahmad | Saudi Arabia | 11,447 |
 | 15 | [A1cy](https://github.com/A1cy) | A1 | Riyadh | 10,288 |
 | 16 | [imadaitelarabi](https://github.com/imadaitelarabi) | IMAD AIT EL ARABI | Riyadh | 9,583 |
 | 17 | [mo-alhaddad](https://github.com/mo-alhaddad) | Mohammed Alhaddad | Khobar, Saudi Arabia | 8,946 |
@@ -83,4 +83,4 @@ Indexed users: 7,737
 | 19 | [davidrpugh](https://github.com/davidrpugh) | David R. Pugh | Thuwal, Saudi Arabia | 458 |
 | 20 | [madahetooo](https://github.com/madahetooo) | Eslam Medhat | Riyadh, Saudi Arabia | 458 |
 
-Generated: 2026-10-16T13:40:30.542Z
+Generated: 2026-10-16T14:59:18.983Z

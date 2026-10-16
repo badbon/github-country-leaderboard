@@ -1,6 +1,6 @@
 # Followers - New Zealand
 
-Generated: 2026-10-16T13:28:39.883Z
+Generated: 2026-10-16T14:47:17.860Z
 
 Users: 12151
 
@@ -11,7 +11,7 @@ Users: 12151
 | 3 | [RichardLitt](https://github.com/RichardLitt) | Richard Littauer | @sustainers |  | Pōneke Wellington, Aotearoa New Zealand | 3304 |
 | 4 | [Jason-Cooke](https://github.com/Jason-Cooke) | Jason Cooke | Turing Complete Limited |  | Auckland, New Zealand | 2254 |
 | 5 | [jamezmca](https://github.com/jamezmca) | James |  | _Smoljames | Auckland, New Zealand | 2224 |
-| 6 | [kauer3](https://github.com/kauer3) | Kauê Reis |  |  | New Zealand | 1961 |
+| 6 | [kauer3](https://github.com/kauer3) | Kauê Reis |  |  | New Zealand | 1942 |
 | 7 | [Arachnid](https://github.com/Arachnid) | Nick Johnson | True Names Ltd (ENS) | nicksdjohnson | Christchurch, New Zealand | 1765 |
 | 8 | [yangzhongke](https://github.com/yangzhongke) | 杨中科 |  |  | Wellington, New Zealand | 1646 |
 | 9 | [nrc](https://github.com/nrc) | Nick Cameron |  | nick_r_cameron | Wellington, NZ | 1617 |

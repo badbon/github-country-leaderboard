@@ -1,12 +1,12 @@
 # Public Contributions - Lesotho
 
-Generated: 2026-10-16T13:16:09.150Z
+Generated: 2026-10-16T14:37:05.538Z
 
 Users: 160
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [ntholi](https://github.com/ntholi) | Ntholi Nkhatho | Limkokwing University | ntholi | Maseru | 448 |
+| 1 | [ntholi](https://github.com/ntholi) | Ntholi Nkhatho | Limkokwing University | ntholi | Maseru | 436 |
 | 2 | [LNkholise](https://github.com/LNkholise) | Leonard Nkholise | Phytely Pty Ltd |  | Maseru, Lesotho | 309 |
 | 3 | [Matela-cyber](https://github.com/Matela-cyber) | Vicent Matela |  |  | Lesotho | 281 |
 | 4 | [tefol-hub](https://github.com/tefol-hub) | Tefo Leche |  | tefoLec | Lesotho | 237 |
@@ -16,7 +16,7 @@ Users: 160
 | 8 | [LomNtetha](https://github.com/LomNtetha) | Lumkile Ntetha |  | ntethalumkile | Maseru | 182 |
 | 9 | [tshakalekholoane](https://github.com/tshakalekholoane) | Tshaka Lekholoane |  |  | Maseru, Lesotho | 150 |
 | 10 | [hitman1c](https://github.com/hitman1c) | SechabaLaptopTracker | SechabaLaptopTracker |  | Lesotho,Maseru | 131 |
-| 11 | [khauta](https://github.com/khauta) | Khauta Maliehe | @Liparola  | kjamaliehe | Maseru, Lesotho | 125 |
+| 11 | [khauta](https://github.com/khauta) | Khauta Maliehe | @Liparola  | kjamaliehe | Maseru, Lesotho | 119 |
 | 12 | [Relebo1](https://github.com/Relebo1) | Relebohile Sekutlu | Mindforge AI |  | Maseru | 101 |
 | 13 | [kgatman](https://github.com/kgatman) | kgatman | HISP-SA |  | Maseru,Lesotho | 100 |
 | 14 | [ocaes](https://github.com/ocaes) | Tsitso Mafantiri | OCAES  | ocaes_lso | Lesotho | 98 |

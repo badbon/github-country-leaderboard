@@ -16,7 +16,7 @@ Indexed users: 1,356
 | 2 | [niangamadou888](https://github.com/niangamadou888) | Amadou Boubacar Niang | Saint-Louis, Senegal | 12,555 |
 | 3 | [OusManDiouf](https://github.com/OusManDiouf) | OUSMANE  DIOUF | Dakar, Sénégal | 10,369 |
 | 4 | [ModesteNAHUM](https://github.com/ModesteNAHUM) | Modeste NAHUM | Dakar, Sénégal | 10,140 |
-| 5 | [Titovich2203](https://github.com/Titovich2203) | Tito GBEDJEHA | Dakar, Senegal | 9,125 |
+| 5 | [Titovich2203](https://github.com/Titovich2203) | Tito GBEDJEHA | Dakar, Senegal | 9,124 |
 | 6 | [jmndao](https://github.com/jmndao) | Jonathan Musa NDAO | Senegal | 8,074 |
 | 7 | [gaelahouanvoedo](https://github.com/gaelahouanvoedo) | Gael AHOUANVOEDO | Dakar, Sénégal | 7,526 |
 | 8 | [MJoshua25](https://github.com/MJoshua25) | Yao Josué | Dakar | 6,373 |
@@ -42,8 +42,8 @@ Indexed users: 1,356
 | 3 | [utachicodes](https://github.com/utachicodes) | Abdoullah Ndao | Senegal | 3,097 |
 | 4 | [nosleepman1](https://github.com/nosleepman1) | Abdallah Diouf | Dakar  | 2,810 |
 | 5 | [Anna-007-tech](https://github.com/Anna-007-tech) | Anne Marie Seye | Dakar, Sénégal | 2,508 |
-| 6 | [IbrahimaTall](https://github.com/IbrahimaTall) | Ibrahima TALL | Dakar, Senegal | 2,015 |
-| 7 | [thesenegalesehitch](https://github.com/thesenegalesehitch) | Alexandre Albert Ndour | Rufisque, Dakar, Sénégal | 1,902 |
+| 6 | [thesenegalesehitch](https://github.com/thesenegalesehitch) | Alexandre Albert Ndour | Rufisque, Dakar, Sénégal | 1,902 |
+| 7 | [IbrahimaTall](https://github.com/IbrahimaTall) | Ibrahima TALL | Dakar, Senegal | 1,787 |
 | 8 | [unic-backend](https://github.com/unic-backend) | Ousmane | dakar senegal | 1,760 |
 | 9 | [FadelDia](https://github.com/FadelDia) | Fallou Dia | SENEGAL | 1,671 |
 | 10 | [crybaby050](https://github.com/crybaby050) | Seydina | Senegal | 1,651 |
@@ -83,4 +83,4 @@ Indexed users: 1,356
 | 19 | [ngorseck](https://github.com/ngorseck) | Ngor SECK | Dakar - Sénégal | 142 |
 | 20 | [patheGobel](https://github.com/patheGobel) | Pathé BA | Senegal  | 141 |
 
-Generated: 2026-10-16T13:40:36.014Z
+Generated: 2026-10-16T14:59:59.338Z
