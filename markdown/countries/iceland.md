@@ -54,9 +54,9 @@ Indexed users: 1,578
 | 15 | [sandsower](https://github.com/sandsower) | Vic Valenzuela | Reykjavík, Iceland | 1,501 |
 | 16 | [bgunnarsson](https://github.com/bgunnarsson) | B. Gunnarsson | Iceland | 1,493 |
 | 17 | [gasvaktin](https://github.com/gasvaktin) | Gasvaktin | Iceland | 1,408 |
-| 18 | [zveinn](https://github.com/zveinn) | Sveinn ( keyb1nd ) | Iceland | 1,376 |
-| 19 | [Max77788](https://github.com/Max77788) | Max Mat | Iceland | 1,261 |
-| 20 | [tungufoss](https://github.com/tungufoss) | Helga Ingimundardóttir | Iceland | 1,234 |
+| 18 | [gunnargestsson](https://github.com/gunnargestsson) | Gunnar Thor Gestsson | Iceland | 1,398 |
+| 19 | [zveinn](https://github.com/zveinn) | Sveinn ( keyb1nd ) | Iceland | 1,279 |
+| 20 | [Max77788](https://github.com/Max77788) | Max Mat | Iceland | 1,261 |
 
 ## Followers
 
@@ -76,11 +76,11 @@ Indexed users: 1,578
 | 12 | [pagekite](https://github.com/pagekite) | The Beanstalks Project | Reykjavik, Iceland | 283 |
 | 13 | [egil](https://github.com/egil) | Egil Hansen | Iceland | 276 |
 | 14 | [wonderlandraja](https://github.com/wonderlandraja) | ashswag | : ̗̀➛ mcyt hill, island, dont cud when im w/ my gf unless we are close friends !  | 252 |
-| 15 | [alexharri](https://github.com/alexharri) | Alex Harri Jónsson | Reykjavík, Iceland | 248 |
-| 16 | [zveinn](https://github.com/zveinn) | Sveinn ( keyb1nd ) | Iceland | 243 |
+| 15 | [alexharri](https://github.com/alexharri) | Alex Harri Jónsson | Reykjavík, Iceland | 249 |
+| 16 | [zveinn](https://github.com/zveinn) | Sveinn ( keyb1nd ) | Iceland | 244 |
 | 17 | [MIK4GE-RE0](https://github.com/MIK4GE-RE0) | ReoReo | bllk/ Pjsk/ Hsr/ Bakery/ Island/ moots +tied up in sunnys bed | 226 |
 | 18 | [szhorvat](https://github.com/szhorvat) | Szabolcs Horvát | Iceland | 217 |
 | 19 | [jokull](https://github.com/jokull) | Jökull Sólberg Auðunsson | Reykjavík, Iceland | 209 |
 | 20 | [sbsigur](https://github.com/sbsigur) | Sævar Bergur Sigurgeirsson | Iceland | 203 |
 
-Generated: 2026-10-16T09:49:45.157Z
+Generated: 2026-10-16T13:07:57.405Z

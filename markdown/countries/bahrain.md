@@ -22,9 +22,9 @@ Indexed users: 727
 | 8 | [fairbird](https://github.com/fairbird) | RAED | Bahrain | 5,462 |
 | 9 | [zahidala](https://github.com/zahidala) | Zahid Allaulddin | Bahrain | 5,212 |
 | 10 | [xCuzSkillz](https://github.com/xCuzSkillz) | Ali M. | Bahrain | 4,761 |
-| 11 | [kelvindecosta](https://github.com/kelvindecosta) | Kelvin DeCosta | Bahrain | 4,614 |
-| 12 | [iMythms](https://github.com/iMythms) | Mytham Jasim | Bahrain | 4,433 |
-| 13 | [halalgami](https://github.com/halalgami) | Algam | Bahrain | 4,216 |
+| 11 | [halalgami](https://github.com/halalgami) | Algam | Bahrain | 4,628 |
+| 12 | [kelvindecosta](https://github.com/kelvindecosta) | Kelvin DeCosta | Bahrain | 4,614 |
+| 13 | [iMythms](https://github.com/iMythms) | Mytham Jasim | Bahrain | 4,433 |
 | 14 | [UnbreakableMJ](https://github.com/UnbreakableMJ) | Mohamed Hammad | Bahrain | 4,214 |
 | 15 | [Ali-Hassan-2000](https://github.com/Ali-Hassan-2000) | ALI SALMAN | Bahrain | 3,795 |
 | 16 | [mufarrah](https://github.com/mufarrah) | A.Rahman Mufarrah | Bahrain | 3,764 |
@@ -83,4 +83,4 @@ Indexed users: 727
 | 19 | [f-9t9it](https://github.com/f-9t9it) | 9T9 IT | Bahrain | 42 |
 | 20 | [masterde](https://github.com/masterde) | Baker | Bahrain, Muharraq | 40 |
 
-Generated: 2026-10-16T09:22:58.484Z
+Generated: 2026-10-16T12:41:57.079Z

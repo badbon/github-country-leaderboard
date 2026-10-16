@@ -1,6 +1,6 @@
 # Total Contributions - Yemen
 
-Generated: 2026-10-16T09:16:30.548Z
+Generated: 2026-10-16T12:35:53.540Z
 
 Users: 1206
 
@@ -13,8 +13,8 @@ Users: 1206
 | 5 | [saqer23](https://github.com/saqer23) | Saqer Aljabri |  | s_jabri23 | Yemen | 11418 |
 | 6 | [zayedadel](https://github.com/zayedadel) | Zayed Adel Al-Meklahfi |  |  | Yemen , Sana'a | 10034 |
 | 7 | [MokarmDev](https://github.com/MokarmDev) | Mokarm Mohammed | @SmartMindSYSCoder |  | Yemen | 9150 |
-| 8 | [OsamaAlmamri](https://github.com/OsamaAlmamri) | Osama Al-mamari  | Tazamun |  | Sana'a ,Yemen | 8667 |
-| 9 | [omaralalwi](https://github.com/omaralalwi) | Omar Alalwi | freelance | omaralalwi2013 | sana'a Yemen | 8635 |
+| 8 | [omaralalwi](https://github.com/omaralalwi) | Omar Alalwi | freelance | omaralalwi2013 | sana'a Yemen | 8635 |
+| 9 | [OsamaAlmamri](https://github.com/OsamaAlmamri) | Osama Al-mamari  | Tazamun |  | Sana'a ,Yemen | 8592 |
 | 10 | [moatasem-alhilali](https://github.com/moatasem-alhilali) | Moatasem Alhilali |  |  | Yemen | 8179 |
 | 11 | [Nabeel-Zawia](https://github.com/Nabeel-Zawia) | Nabeel Khalid Zawia | Trades |  | Sana'a Yemen | 8160 |
 | 12 | [Qaidsaher](https://github.com/Qaidsaher) | Saher Qaid | InjazCode | SaherQaid | Yemen,Ibb city | 8084 |
@@ -24,5 +24,5 @@ Users: 1206
 | 16 | [AhmedSalehGhaithan](https://github.com/AhmedSalehGhaithan) | Ahmed ghaithan | DataTrans |  | Yemen ,sanaa | 6842 |
 | 17 | [EngAzzamZaid](https://github.com/EngAzzamZaid) | Eng Azzam Alsharie  | @KitSysCo  |  | Yemen | 6780 |
 | 18 | [mr3od](https://github.com/mr3od) | Abdulrahman | @nexumind-com  |  | Yemen | 6679 |
-| 19 | [abdulsalam-alhammadi](https://github.com/abdulsalam-alhammadi) | Abdulsalam AL-Hammadi | @Azora POS,@Yemen Waseet inc. | hammadi_salamy | Yemen ,Sanaa - Hadda Street | 6225 |
-| 20 | [Jabri-web](https://github.com/Jabri-web) | Abdulla Al-Jabri | Yemen |  | Haziz- Sana'a | 6182 |
+| 19 | [yousef-aman](https://github.com/yousef-aman) | Yousef Aman |  | YousefAmanDev | Yemen | 6358 |
+| 20 | [abdulsalam-alhammadi](https://github.com/abdulsalam-alhammadi) | Abdulsalam AL-Hammadi | @Azora POS,@Yemen Waseet inc. | hammadi_salamy | Yemen ,Sanaa - Hadda Street | 6225 |

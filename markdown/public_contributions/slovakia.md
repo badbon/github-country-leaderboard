@@ -1,6 +1,6 @@
 # Public Contributions - Slovakia
 
-Generated: 2026-10-16T09:02:45.178Z
+Generated: 2026-10-16T12:22:01.344Z
 
 Users: 4668
 
@@ -21,8 +21,8 @@ Users: 4668
 | 13 | [MatusMockor](https://github.com/MatusMockor) | Matúš Močkor |  |  | Slovakia | 3031 |
 | 14 | [NightMean](https://github.com/NightMean) |  |  |  | Slovakia | 3023 |
 | 15 | [WizzardSK](https://github.com/WizzardSK) |  |  |  | Bratislava, Slovakia | 2853 |
-| 16 | [mont127](https://github.com/mont127) | mont127 | None  |  | Slovakia | 2492 |
-| 17 | [janbodnar](https://github.com/janbodnar) | Jan Bodnar |  |  | Bratislava | 2391 |
-| 18 | [PavolUlicny](https://github.com/PavolUlicny) | Pavol Ulicny | High school | s0nda7 | Bratislava  | 2289 |
-| 19 | [deathbeam](https://github.com/deathbeam) | Tomas Slusny |  |  | Slovakia | 2282 |
-| 20 | [rkosegi](https://github.com/rkosegi) | Richard Kosegi |  |  | Slovakia | 2049 |
+| 16 | [alvianzf](https://github.com/alvianzf) | Alvian Zachry Faturrahman | TiketQ |  | Tanjungpinang, Batam, Karimun, Bratislava | 2610 |
+| 17 | [mont127](https://github.com/mont127) | mont127 | None  |  | Slovakia | 2492 |
+| 18 | [janbodnar](https://github.com/janbodnar) | Jan Bodnar |  |  | Bratislava | 2391 |
+| 19 | [PavolUlicny](https://github.com/PavolUlicny) | Pavol Ulicny | High school | s0nda7 | Bratislava  | 2289 |
+| 20 | [deathbeam](https://github.com/deathbeam) | Tomas Slusny |  |  | Slovakia | 2282 |

@@ -1,6 +1,6 @@
 # Bermuda
 
-Indexed users: 899
+Indexed users: 898
 
 | Leaderboard | Link |
 |---|---|
@@ -24,7 +24,7 @@ Indexed users: 899
 | 10 | [danielsdeboer](https://github.com/danielsdeboer) | Daniel S. Deboer | Hamilton, Ontario | 6,305 |
 | 11 | [mattgrande](https://github.com/mattgrande) | Matt Grande | Hamilton, Ontario | 6,051 |
 | 12 | [Noprop](https://github.com/Noprop) | Greg Forster | Hamilton | 5,990 |
-| 13 | [nckdhl](https://github.com/nckdhl) | Nick Dahl | Hamilton | 5,544 |
+| 13 | [nckdhl](https://github.com/nckdhl) | Nick Dahl | Hamilton | 5,625 |
 | 14 | [rdaum](https://github.com/rdaum) | Ryan Daum | Hamilton, Ontario | 5,130 |
 | 15 | [dbactual](https://github.com/dbactual) | Dave Berton | Bermuda | 4,946 |
 | 16 | [lbrgriffith](https://github.com/lbrgriffith) | L. B. Ricardo Griffith | Hamilton, Bermuda | 4,556 |
@@ -83,4 +83,4 @@ Indexed users: 899
 | 19 | [feilongcheng](https://github.com/feilongcheng) | Felix | Hamilton, NZ | 85 |
 | 20 | [wittjosiah](https://github.com/wittjosiah) | Josiah Witt | Hamilton, ON | 67 |
 
-Generated: 2026-10-16T09:25:26.536Z
+Generated: 2026-10-16T12:44:57.634Z

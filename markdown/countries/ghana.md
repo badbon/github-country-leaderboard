@@ -17,17 +17,17 @@ Indexed users: 7,094
 | 3 | [Ibrahim-Aboubacar](https://github.com/Ibrahim-Aboubacar) | Ibrahim Aboubacar Ibrahim | Accra, Ghana | 33,429 |
 | 4 | [sedegah](https://github.com/sedegah) | Kimathi  Sedegah | Ghana | 27,754 |
 | 5 | [danieladeabah](https://github.com/danieladeabah) | Daniel Adeabah | Takoradi, Western Region, Ghana. | 24,855 |
-| 6 | [mhiskall282](https://github.com/mhiskall282) | John Okyere | Accra Ghana | 15,891 |
-| 7 | [felixyeboah](https://github.com/felixyeboah) | Felix Nana Yaw Yeboah | Accra, Ghana | 12,739 |
-| 8 | [Philinzag](https://github.com/Philinzag) | Philip A. | Ghana | 10,626 |
-| 9 | [DreKwasi](https://github.com/DreKwasi) | Andrews Boateng | Accra, Ghana | 10,142 |
-| 10 | [Gideon-Dadey](https://github.com/Gideon-Dadey) | Gideon Dadey | Accra, Ghana | 9,758 |
-| 11 | [qbentil](https://github.com/qbentil) | Bentil Shadrack | Ghana | 9,624 |
-| 12 | [Eselase-Noble](https://github.com/Eselase-Noble) | Nobleson | Accra | 9,406 |
-| 13 | [evansachie](https://github.com/evansachie) | Evans Acheampong | Accra, Ghana | 9,348 |
-| 14 | [rloterh](https://github.com/rloterh) | Robert Loterh | Accra Ghana | 8,556 |
-| 15 | [seidu626](https://github.com/seidu626) | Seidu Abdulai | Ghana | 8,537 |
-| 16 | [lutheralien](https://github.com/lutheralien) | Luther Essum | Ghana | 8,379 |
+| 6 | [lutheralien](https://github.com/lutheralien) | Luther Essum | Ghana | 16,506 |
+| 7 | [mhiskall282](https://github.com/mhiskall282) | John Okyere | Accra Ghana | 15,891 |
+| 8 | [felixyeboah](https://github.com/felixyeboah) | Felix Nana Yaw Yeboah | Accra, Ghana | 12,739 |
+| 9 | [Philinzag](https://github.com/Philinzag) | Philip A. | Ghana | 10,626 |
+| 10 | [DreKwasi](https://github.com/DreKwasi) | Andrews Boateng | Accra, Ghana | 10,142 |
+| 11 | [Gideon-Dadey](https://github.com/Gideon-Dadey) | Gideon Dadey | Accra, Ghana | 9,758 |
+| 12 | [qbentil](https://github.com/qbentil) | Bentil Shadrack | Ghana | 9,624 |
+| 13 | [Eselase-Noble](https://github.com/Eselase-Noble) | Nobleson | Accra | 9,406 |
+| 14 | [evansachie](https://github.com/evansachie) | Evans Acheampong | Accra, Ghana | 9,348 |
+| 15 | [rloterh](https://github.com/rloterh) | Robert Loterh | Accra Ghana | 8,556 |
+| 16 | [seidu626](https://github.com/seidu626) | Seidu Abdulai | Ghana | 8,537 |
 | 17 | [worlakodzo](https://github.com/worlakodzo) | Worlako Dzokoto | GHANA | 8,363 |
 | 18 | [kelvinagyareyeboah](https://github.com/kelvinagyareyeboah) | Kelvin Agyare Yeboah | Accra | 8,288 |
 | 19 | [richprince23](https://github.com/richprince23) | Richard Kweku Aikins | Accra | 8,282 |
@@ -83,4 +83,4 @@ Indexed users: 7,094
 | 19 | [Mmabiaa](https://github.com/Mmabiaa) | Boateng Prince Agyenim | Ghana | 326 |
 | 20 | [sedegah](https://github.com/sedegah) | Kimathi  Sedegah | Ghana | 310 |
 
-Generated: 2026-10-16T09:44:05.683Z
+Generated: 2026-10-16T13:01:28.239Z

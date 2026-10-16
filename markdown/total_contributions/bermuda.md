@@ -1,8 +1,8 @@
 # Total Contributions - Bermuda
 
-Generated: 2026-10-16T09:25:26.536Z
+Generated: 2026-10-16T12:44:57.634Z
 
-Users: 899
+Users: 898
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -18,7 +18,7 @@ Users: 899
 | 10 | [danielsdeboer](https://github.com/danielsdeboer) | Daniel S. Deboer | @DeBoerTool  |  | Hamilton, Ontario | 6305 |
 | 11 | [mattgrande](https://github.com/mattgrande) | Matt Grande | @squareup  | mattgrande | Hamilton, Ontario | 6051 |
 | 12 | [Noprop](https://github.com/Noprop) | Greg Forster |  |  | Hamilton | 5990 |
-| 13 | [nckdhl](https://github.com/nckdhl) | Nick Dahl | Solodigitalis |  | Hamilton | 5544 |
+| 13 | [nckdhl](https://github.com/nckdhl) | Nick Dahl | Solodigitalis |  | Hamilton | 5625 |
 | 14 | [rdaum](https://github.com/rdaum) | Ryan Daum |  |  | Hamilton, Ontario | 5130 |
 | 15 | [dbactual](https://github.com/dbactual) | Dave Berton | https://radixils.com |  | Bermuda | 4946 |
 | 16 | [lbrgriffith](https://github.com/lbrgriffith) | L. B. Ricardo Griffith | Questown L.L.C. |  | Hamilton, Bermuda | 4556 |

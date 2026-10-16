@@ -1,15 +1,15 @@
 # Total Contributions - Dominican Republic
 
-Generated: 2026-10-16T12:14:15.407Z
+Generated: 2026-10-16T12:56:00.060Z
 
-Users: 3302
+Users: 3301
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [ibernabel](https://github.com/ibernabel) | Idequel Bernabel | Integrolend | IdequelBernabel | Dominican Republic | 16414 |
-| 2 | [deuriib](https://github.com/deuriib) | Deuri Vasquez |  |  | Santo Domingo, R. D. | 15371 |
-| 3 | [kaioken](https://github.com/kaioken) | Max Castro | @mctekk |  | Dominican Republic | 12671 |
-| 4 | [jflerime314](https://github.com/jflerime314) | Joseph Angelo Flerimé | @jflerime | jflerime | Dominican Republic | 11312 |
+| 2 | [kaioken](https://github.com/kaioken) | Max Castro | @mctekk |  | Dominican Republic | 12671 |
+| 3 | [jflerime314](https://github.com/jflerime314) | Joseph Angelo Flerimé | @jflerime | jflerime | Dominican Republic | 11312 |
+| 4 | [deuriib](https://github.com/deuriib) | Deuri Vasquez |  |  | Santo Domingo, R. D. | 10542 |
 | 5 | [emilsosa](https://github.com/emilsosa) | Emil Sosa | @magaransoft | emilsosa_ | Dominican Republic | 8906 |
 | 6 | [Urpirio](https://github.com/Urpirio) | UrpirioDev | @Urpsoft  |  | Dominican Republic  | 8607 |
 | 7 | [everylisting](https://github.com/everylisting) | Philippe Roy | @everylisting-com  |  | Dominican-Republic | 8493 |

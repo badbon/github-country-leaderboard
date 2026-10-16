@@ -1,6 +1,6 @@
 # Total Contributions - Cayman Islands
 
-Generated: 2026-10-16T09:30:25.266Z
+Generated: 2026-10-16T12:50:06.959Z
 
 Users: 124
 
@@ -8,7 +8,7 @@ Users: 124
 |---:|---|---|---|---|---|---:|
 | 1 | [lhermoso](https://github.com/lhermoso) | Leo Hermoso | Liquid Byte Labs | leohermoso | Cayman Islands | 22152 |
 | 2 | [evandrosaturnino](https://github.com/evandrosaturnino) | Evandro Saturnino | @etherfi-protocol | evandro_saturn | Cayman Islands | 7722 |
-| 3 | [yannickrocks](https://github.com/yannickrocks) | Yannick Mermet | IoFinnet |  | Cayman Islands | 5050 |
+| 3 | [yannickrocks](https://github.com/yannickrocks) | Yannick Mermet | IoFinnet |  | Cayman Islands | 5061 |
 | 4 | [andreogle](https://github.com/andreogle) | André Ogle |  |  | 🇰🇾 Cayman Islands | 3742 |
 | 5 | [pankajjagtapp](https://github.com/pankajjagtapp) | Pankaj Jagtap | @etherfi-protocol | pankajjagtapp | Cayman Islands | 3309 |
 | 6 | [dcimring](https://github.com/dcimring) | Daniel |  |  | Cayman Islands | 3152 |
@@ -19,7 +19,7 @@ Users: 124
 | 11 | [tamebadger](https://github.com/tamebadger) | Rupert Klopper |  |  | Grand Cayman, Cayman Islands | 1877 |
 | 12 | [paulofierro](https://github.com/paulofierro) | Paulo Fierro | jadehopper ltd. |  | Cayman Islands | 1489 |
 | 13 | [RodneyAlison](https://github.com/RodneyAlison) | Rodney Alison |  |  | Cayman Islands | 1212 |
-| 14 | [tmancey](https://github.com/tmancey) | Terry Mancey |  |  | Cayman Islands | 1090 |
+| 14 | [tmancey](https://github.com/tmancey) | Terry Mancey |  |  | Cayman Islands | 1082 |
 | 15 | [saviro-orin](https://github.com/saviro-orin) | Orin |  |  | Cayman Islands | 1058 |
 | 16 | [BaltasarAroso](https://github.com/BaltasarAroso) | Baltasar Aroso |  | ArosoBaltasar | George Town, Cayman Islands | 1045 |
 | 17 | [Gise345](https://github.com/Gise345) | Giselle Johnson | https://invovibetech.com/ |  | Cayman Islands | 947 |

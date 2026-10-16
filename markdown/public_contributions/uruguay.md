@@ -1,6 +1,6 @@
 # Public Contributions - Uruguay
 
-Generated: 2026-10-16T09:14:51.607Z
+Generated: 2026-10-16T12:32:38.254Z
 
 Users: 5617
 
@@ -23,6 +23,6 @@ Users: 5617
 | 15 | [nicolas-maman](https://github.com/nicolas-maman) | Nicolas Maman |  |  | Montevideo,Uruguay | 2373 |
 | 16 | [Joacohbc](https://github.com/Joacohbc) | Joacohbc |  |  | Uruguay | 2299 |
 | 17 | [eduair94](https://github.com/eduair94) | EduAir | Shellix / CheckLeaked.cc |  | Uruguay | 2284 |
-| 18 | [Pauisdev](https://github.com/Pauisdev) | Pau |  |  | Uruguay, Montevideo | 2114 |
-| 19 | [bradelev](https://github.com/bradelev) | Braulio De Leon |  |  | Montevideo, Uruguay | 2033 |
+| 18 | [bradelev](https://github.com/bradelev) | Braulio De Leon |  |  | Montevideo, Uruguay | 2033 |
+| 19 | [Pauisdev](https://github.com/Pauisdev) | Pau |  |  | Uruguay, Montevideo | 2028 |
 | 20 | [vola-trebla](https://github.com/vola-trebla) | Vola Trebla |  |  | Uruguay, Montevideo | 1963 |

@@ -16,7 +16,7 @@ Indexed users: 1,487
 | 2 | [zevrok](https://github.com/zevrok) | Zevrok | Kabul, Afghanistan | 95,801 |
 | 3 | [devpro0313](https://github.com/devpro0313) | Dev pro | Afghanistan | 82,717 |
 | 4 | [ahmadullahmukhlis](https://github.com/ahmadullahmukhlis) | Ahmadullah Mukhlis | Kabul, Afghanistan | 66,696 |
-| 5 | [haroonrashidzadran](https://github.com/haroonrashidzadran) | Haroon Rashid Zadran | Kabul, Afghanistan | 30,770 |
+| 5 | [haroonrashidzadran](https://github.com/haroonrashidzadran) | Haroon Rashid Zadran | Kabul, Afghanistan | 30,647 |
 | 6 | [amiriqbalkhan123](https://github.com/amiriqbalkhan123) | Iqbal Nabizada | Afghanistan | 16,893 |
 | 7 | [M-Anwar-Hussaini](https://github.com/M-Anwar-Hussaini) | Anwar Hussaini | Kabul, Afghanistan | 14,712 |
 | 8 | [zamirsed](https://github.com/zamirsed) | zamir sediqi  | Afghanistan | 10,292 |
@@ -29,7 +29,7 @@ Indexed users: 1,487
 | 15 | [shahghasiadil](https://github.com/shahghasiadil) | Shahghasi Adil | Afghanistan | 5,753 |
 | 16 | [shafaqatullah](https://github.com/shafaqatullah) | shafaqatullah zaheer | Kabul, Afghanistan | 5,743 |
 | 17 | [ahmadjoya](https://github.com/ahmadjoya) | Ahmad Joya | Afghanistan | 5,201 |
-| 18 | [azizpgl](https://github.com/azizpgl) | Aziz Nabizada | Kabul, Afghanistan | 5,136 |
+| 18 | [azizpgl](https://github.com/azizpgl) | Aziz Nabizada | Kabul, Afghanistan | 5,133 |
 | 19 | [basirkhan1995](https://github.com/basirkhan1995) | Basir Hashimi | Afghanistan | 4,857 |
 | 20 | [khalidafghanmal](https://github.com/khalidafghanmal) | khalid afghanmal | Afghanistan | 4,839 |
 
@@ -39,7 +39,7 @@ Indexed users: 1,487
 |---:|---|---|---|---:|
 | 1 | [ahmadullahmukhlis](https://github.com/ahmadullahmukhlis) | Ahmadullah Mukhlis | Kabul, Afghanistan | 30,577 |
 | 2 | [Nasratullah-Shafiq](https://github.com/Nasratullah-Shafiq) | Nasratullah Shafiq | Afghanistan | 7,303 |
-| 3 | [haroonrashidzadran](https://github.com/haroonrashidzadran) | Haroon Rashid Zadran | Kabul, Afghanistan | 5,680 |
+| 3 | [haroonrashidzadran](https://github.com/haroonrashidzadran) | Haroon Rashid Zadran | Kabul, Afghanistan | 5,600 |
 | 4 | [basirkhan1995](https://github.com/basirkhan1995) | Basir Hashimi | Afghanistan | 4,857 |
 | 5 | [khalidafghanmal](https://github.com/khalidafghanmal) | khalid afghanmal | Afghanistan | 2,782 |
 | 6 | [alawoddin](https://github.com/alawoddin) | Alawoddin khedmat | kabul | 2,628 |
@@ -55,7 +55,7 @@ Indexed users: 1,487
 | 16 | [Jamalludeen](https://github.com/Jamalludeen) | Jamalludeen Karimi | Kabul, Afghanistan | 1,214 |
 | 17 | [Munib03](https://github.com/Munib03) | Hedayatullah Yamin | Afghanistan | 1,083 |
 | 18 | [nasir-ehsan-83](https://github.com/nasir-ehsan-83) | Nasir Ahmad Ehsan | Herat, Afghanistan | 1,078 |
-| 19 | [Mahdi-Hasanzadeh](https://github.com/Mahdi-Hasanzadeh) | Mahdi Hasanzadeh | Afghanistan,Herat | 1,062 |
+| 19 | [Mahdi-Hasanzadeh](https://github.com/Mahdi-Hasanzadeh) | Mahdi Hasanzadeh | Afghanistan,Herat | 1,061 |
 | 20 | [AhmadWahebArifi](https://github.com/AhmadWahebArifi) | Ahmad Waheb Arifi | Kabul | 1,049 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 1,487
 | 19 | [zainabturkmen](https://github.com/zainabturkmen) | Zainab Turkmen | Kabul  | 124 |
 | 20 | [NaveedAhmadHematmal](https://github.com/NaveedAhmadHematmal) | Naveed Ahmad Hematmal | Afghanistan | 117 |
 
-Generated: 2026-10-16T09:18:14.609Z
+Generated: 2026-10-16T12:37:28.648Z

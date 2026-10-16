@@ -31,7 +31,7 @@ Indexed users: 7,177
 | 17 | [3omartn](https://github.com/3omartn) | omar jemli | Tunisia | 5,258 |
 | 18 | [Ylandolsi](https://github.com/Ylandolsi) | Mohamed Yassine Landolsi  | Tunisia ,  Sousse ,  Msaken | 5,161 |
 | 19 | [abbassi-ahmed](https://github.com/abbassi-ahmed) | Abbassiahmed | Tunisia | 5,135 |
-| 20 | [anisossss](https://github.com/anisossss) | AnisKhalef | Tunisia | 4,993 |
+| 20 | [BouajilaHamza](https://github.com/BouajilaHamza) | Hamza Bouajila | Tunisia | 4,841 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 7,177
 | 19 | [zied-snoussi](https://github.com/zied-snoussi) | Zied Snoussi | Tunisia | 522 |
 | 20 | [machour](https://github.com/machour) | Mehdi Achour | Tunisia | 483 |
 
-Generated: 2026-10-16T09:09:58.842Z
+Generated: 2026-10-16T12:29:51.297Z

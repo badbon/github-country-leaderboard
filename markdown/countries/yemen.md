@@ -19,8 +19,8 @@ Indexed users: 1,206
 | 5 | [saqer23](https://github.com/saqer23) | Saqer Aljabri | Yemen | 11,418 |
 | 6 | [zayedadel](https://github.com/zayedadel) | Zayed Adel Al-Meklahfi | Yemen , Sana'a | 10,034 |
 | 7 | [MokarmDev](https://github.com/MokarmDev) | Mokarm Mohammed | Yemen | 9,150 |
-| 8 | [OsamaAlmamri](https://github.com/OsamaAlmamri) | Osama Al-mamari  | Sana'a ,Yemen | 8,667 |
-| 9 | [omaralalwi](https://github.com/omaralalwi) | Omar Alalwi | sana'a Yemen | 8,635 |
+| 8 | [omaralalwi](https://github.com/omaralalwi) | Omar Alalwi | sana'a Yemen | 8,635 |
+| 9 | [OsamaAlmamri](https://github.com/OsamaAlmamri) | Osama Al-mamari  | Sana'a ,Yemen | 8,592 |
 | 10 | [moatasem-alhilali](https://github.com/moatasem-alhilali) | Moatasem Alhilali | Yemen | 8,179 |
 | 11 | [Nabeel-Zawia](https://github.com/Nabeel-Zawia) | Nabeel Khalid Zawia | Sana'a Yemen | 8,160 |
 | 12 | [Qaidsaher](https://github.com/Qaidsaher) | Saher Qaid | Yemen,Ibb city | 8,084 |
@@ -30,8 +30,8 @@ Indexed users: 1,206
 | 16 | [AhmedSalehGhaithan](https://github.com/AhmedSalehGhaithan) | Ahmed ghaithan | Yemen ,sanaa | 6,842 |
 | 17 | [EngAzzamZaid](https://github.com/EngAzzamZaid) | Eng Azzam Alsharie  | Yemen | 6,780 |
 | 18 | [mr3od](https://github.com/mr3od) | Abdulrahman | Yemen | 6,679 |
-| 19 | [abdulsalam-alhammadi](https://github.com/abdulsalam-alhammadi) | Abdulsalam AL-Hammadi | Yemen ,Sanaa - Hadda Street | 6,225 |
-| 20 | [Jabri-web](https://github.com/Jabri-web) | Abdulla Al-Jabri | Haziz- Sana'a | 6,182 |
+| 19 | [yousef-aman](https://github.com/yousef-aman) | Yousef Aman | Yemen | 6,358 |
+| 20 | [abdulsalam-alhammadi](https://github.com/abdulsalam-alhammadi) | Abdulsalam AL-Hammadi | Yemen ,Sanaa - Hadda Street | 6,225 |
 
 ## Public Contributions
 
@@ -63,7 +63,7 @@ Indexed users: 1,206
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [mbahomaid](https://github.com/mbahomaid) | Mustafa Bahomaid | Yemen | 7,552 |
-| 2 | [OsamaAlmamri](https://github.com/OsamaAlmamri) | Osama Al-mamari  | Sana'a ,Yemen | 922 |
+| 2 | [OsamaAlmamri](https://github.com/OsamaAlmamri) | Osama Al-mamari  | Sana'a ,Yemen | 924 |
 | 3 | [SaraAhmed1999](https://github.com/SaraAhmed1999) | Sara Ahmed | Yemen | 894 |
 | 4 | [Asbaharoon](https://github.com/Asbaharoon) | Abdullah Baharoon | Yemen | 687 |
 | 5 | [WatheqAlshowaiter](https://github.com/WatheqAlshowaiter) | Watheq Alshowaiter | Yemen | 405 |
@@ -83,4 +83,4 @@ Indexed users: 1,206
 | 19 | [aameralduais](https://github.com/aameralduais) | Aamer Alduais | Sana'a, Yemen | 158 |
 | 20 | [its4nas](https://github.com/its4nas) | Anas Al-Dharei | Yemen | 147 |
 
-Generated: 2026-10-16T09:16:30.548Z
+Generated: 2026-10-16T12:35:53.540Z

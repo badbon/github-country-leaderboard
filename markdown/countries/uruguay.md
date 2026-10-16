@@ -27,11 +27,11 @@ Indexed users: 5,617
 | 13 | [EugeniaGramajo](https://github.com/EugeniaGramajo) | Eugenia Gramajo | Uruguay | 8,420 |
 | 14 | [emiliano-go](https://github.com/emiliano-go) | Emiliano G.O. | Montevideo, Uruguay | 8,276 |
 | 15 | [pedrosgmagalhaes](https://github.com/pedrosgmagalhaes) | Pedro Magalhaes | Uruguay | 8,205 |
-| 16 | [barbatdev](https://github.com/barbatdev) | Juan Barbat | Uruguay | 7,968 |
-| 17 | [LuisHdezE](https://github.com/LuisHdezE) | MSc Luis A. Hernández Elias | Montevideo, Uruguay | 7,825 |
-| 18 | [Tombar](https://github.com/Tombar) | Martin Loy | Montevideo, Uruguay | 7,600 |
-| 19 | [hernandezsanti](https://github.com/hernandezsanti) | Santiago Hernández | Montevideo, Uruguay | 7,198 |
-| 20 | [damian-buho](https://github.com/damian-buho) | Damián Búho | Uruguay | 6,976 |
+| 16 | [brunoocal](https://github.com/brunoocal) | Bruno Cal | Uruguay | 8,152 |
+| 17 | [barbatdev](https://github.com/barbatdev) | Juan Barbat | Uruguay | 7,968 |
+| 18 | [LuisHdezE](https://github.com/LuisHdezE) | MSc Luis A. Hernández Elias | Montevideo, Uruguay | 7,825 |
+| 19 | [Tombar](https://github.com/Tombar) | Martin Loy | Montevideo, Uruguay | 7,600 |
+| 20 | [hernandezsanti](https://github.com/hernandezsanti) | Santiago Hernández | Montevideo, Uruguay | 7,198 |
 
 ## Public Contributions
 
@@ -54,8 +54,8 @@ Indexed users: 5,617
 | 15 | [nicolas-maman](https://github.com/nicolas-maman) | Nicolas Maman | Montevideo,Uruguay | 2,373 |
 | 16 | [Joacohbc](https://github.com/Joacohbc) | Joacohbc | Uruguay | 2,299 |
 | 17 | [eduair94](https://github.com/eduair94) | EduAir | Uruguay | 2,284 |
-| 18 | [Pauisdev](https://github.com/Pauisdev) | Pau | Uruguay, Montevideo | 2,114 |
-| 19 | [bradelev](https://github.com/bradelev) | Braulio De Leon | Montevideo, Uruguay | 2,033 |
+| 18 | [bradelev](https://github.com/bradelev) | Braulio De Leon | Montevideo, Uruguay | 2,033 |
+| 19 | [Pauisdev](https://github.com/Pauisdev) | Pau | Uruguay, Montevideo | 2,028 |
 | 20 | [vola-trebla](https://github.com/vola-trebla) | Vola Trebla | Uruguay, Montevideo | 1,963 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 5,617
 | 19 | [mauricioszabo](https://github.com/mauricioszabo) | Maurício Szabo | Montevideo, Uruguay | 196 |
 | 20 | [ppazos](https://github.com/ppazos) | Pablo Pazos Gutiérrez | Montevideo, Uruguay | 196 |
 
-Generated: 2026-10-16T09:14:51.607Z
+Generated: 2026-10-16T12:32:38.254Z

@@ -46,7 +46,7 @@ Indexed users: 459
 | 7 | [shangyian](https://github.com/shangyian) | Yian | Antarctica | 2,158 |
 | 8 | [krwg](https://github.com/krwg) | アイダ ミール | Antarctica | 1,465 |
 | 9 | [enriquephl](https://github.com/enriquephl) |  | Antarctica | 1,409 |
-| 10 | [FreezingSnail](https://github.com/FreezingSnail) | Freezing Snail | Antarctica | 1,348 |
+| 10 | [FreezingSnail](https://github.com/FreezingSnail) | Freezing Snail | Antarctica | 1,384 |
 | 11 | [antedotee](https://github.com/antedotee) | ky505 | Antarctica | 1,120 |
 | 12 | [codes-by-utkarsh](https://github.com/codes-by-utkarsh) | Utkarsh Srivastava | Antarctica | 708 |
 | 13 | [KrLite](https://github.com/KrLite) | KrLite | Antarctica | 603 |
@@ -56,7 +56,7 @@ Indexed users: 459
 | 17 | [Daedalus-code](https://github.com/Daedalus-code) |  | Antarctica | 472 |
 | 18 | [AuroraLantean](https://github.com/AuroraLantean) | AuroraLantean  | Antarctica | 451 |
 | 19 | [bestruirui](https://github.com/bestruirui) | BESTRUI | Antarctica | 440 |
-| 20 | [healingdrawing](https://github.com/healingdrawing) | Healing Drawing | Antarctica | 440 |
+| 20 | [healingdrawing](https://github.com/healingdrawing) | Healing Drawing | Antarctica | 436 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 459
 | 19 | [alphaaurigae](https://github.com/alphaaurigae) | Marian Brockerhoff | Antarctica | 86 |
 | 20 | [fakeid30](https://github.com/fakeid30) | Fake ID | Antarctica | 78 |
 
-Generated: 2026-10-16T09:20:55.964Z
+Generated: 2026-10-16T12:39:56.423Z

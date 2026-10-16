@@ -54,7 +54,7 @@ Indexed users: 1,338
 | 15 | [simwawatim](https://github.com/simwawatim) | Timothy Simwawa | Lusaka, Zambia | 645 |
 | 16 | [mataa019](https://github.com/mataa019) | John Mataa | Zambia, Lusaka Province | 624 |
 | 17 | [c00p75](https://github.com/c00p75) | George M'sapenda | Lusaka, Zambia | 586 |
-| 18 | [marksikaundi](https://github.com/marksikaundi) | Mark Sikaundi | Zambia | 581 |
+| 18 | [marksikaundi](https://github.com/marksikaundi) | Mark Sikaundi | Zambia | 582 |
 | 19 | [wmweemba](https://github.com/wmweemba) | William .S. Mweemba | Lusaka, Zambia | 579 |
 | 20 | [SilasChalwe](https://github.com/SilasChalwe) | Silas Chalwe  | Zambia  | 565 |
 
@@ -67,7 +67,7 @@ Indexed users: 1,338
 | 3 | [rly0nheart](https://github.com/rly0nheart) | Ritchie Mwewa | Zambia | 302 |
 | 4 | [KMKCODER](https://github.com/KMKCODER) | Kapembwa Kangali  | Ndola, Zambia | 233 |
 | 5 | [Joshk21758](https://github.com/Joshk21758) | Mwansa kunda  | Lusaka, Zambia  | 230 |
-| 6 | [marksikaundi](https://github.com/marksikaundi) | Mark Sikaundi | Zambia | 224 |
+| 6 | [marksikaundi](https://github.com/marksikaundi) | Mark Sikaundi | Zambia | 223 |
 | 7 | [boniface](https://github.com/boniface) | Boniface Kabaso | Lusaka, Zambia | 192 |
 | 8 | [smaboshe](https://github.com/smaboshe) | Silumesii Maboshe | Zambia | 175 |
 | 9 | [kalumwe](https://github.com/kalumwe) | Kalumba Mweshi | Lusaka, Zambia | 159 |
@@ -83,4 +83,4 @@ Indexed users: 1,338
 | 19 | [blessedjasonmwanza](https://github.com/blessedjasonmwanza) | Blessed Jason Mwanza |  Lusaka, Zambia | 104 |
 | 20 | [Eathorne2](https://github.com/Eathorne2) | Eathorne | Lusaka, Zambia | 103 |
 
-Generated: 2026-10-16T09:16:36.354Z
+Generated: 2026-10-16T12:36:01.152Z

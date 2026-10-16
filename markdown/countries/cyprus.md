@@ -1,6 +1,6 @@
 # Cyprus
 
-Indexed users: 2,731
+Indexed users: 2,730
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 2,731
 | 19 | [polterguy](https://github.com/polterguy) | Thomas Hansen | Cyprus | 245 |
 | 20 | [kstep](https://github.com/kstep) | Konstantin Stepanov | Cyprus | 241 |
 
-Generated: 2026-10-16T09:36:14.707Z
+Generated: 2026-10-16T12:53:55.216Z

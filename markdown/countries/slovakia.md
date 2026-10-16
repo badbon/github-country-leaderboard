@@ -52,11 +52,11 @@ Indexed users: 4,668
 | 13 | [MatusMockor](https://github.com/MatusMockor) | Matúš Močkor | Slovakia | 3,031 |
 | 14 | [NightMean](https://github.com/NightMean) |  | Slovakia | 3,023 |
 | 15 | [WizzardSK](https://github.com/WizzardSK) |  | Bratislava, Slovakia | 2,853 |
-| 16 | [mont127](https://github.com/mont127) | mont127 | Slovakia | 2,492 |
-| 17 | [janbodnar](https://github.com/janbodnar) | Jan Bodnar | Bratislava | 2,391 |
-| 18 | [PavolUlicny](https://github.com/PavolUlicny) | Pavol Ulicny | Bratislava  | 2,289 |
-| 19 | [deathbeam](https://github.com/deathbeam) | Tomas Slusny | Slovakia | 2,282 |
-| 20 | [rkosegi](https://github.com/rkosegi) | Richard Kosegi | Slovakia | 2,049 |
+| 16 | [alvianzf](https://github.com/alvianzf) | Alvian Zachry Faturrahman | Tanjungpinang, Batam, Karimun, Bratislava | 2,610 |
+| 17 | [mont127](https://github.com/mont127) | mont127 | Slovakia | 2,492 |
+| 18 | [janbodnar](https://github.com/janbodnar) | Jan Bodnar | Bratislava | 2,391 |
+| 19 | [PavolUlicny](https://github.com/PavolUlicny) | Pavol Ulicny | Bratislava  | 2,289 |
+| 20 | [deathbeam](https://github.com/deathbeam) | Tomas Slusny | Slovakia | 2,282 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 4,668
 | 19 | [Stiivi](https://github.com/Stiivi) | Stefan Urbanek | Bratislava | 280 |
 | 20 | [haad](https://github.com/haad) | Adam Hamsik | Bratislava Slovakia | 259 |
 
-Generated: 2026-10-16T09:02:45.178Z
+Generated: 2026-10-16T12:22:01.344Z

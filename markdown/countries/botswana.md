@@ -26,7 +26,7 @@ Indexed users: 533
 | 12 | [Tebalo](https://github.com/Tebalo) | Bopaki | Botswana, Gaborone-Mokobaxane | 2,097 |
 | 13 | [mrdiin](https://github.com/mrdiin) | Botshelo Brandon Tidimalo | Gaborone | 2,063 |
 | 14 | [BakangMonei](https://github.com/BakangMonei) | Monei Bakang | Gaborone, Botswana | 2,056 |
-| 15 | [WyvernPirate](https://github.com/WyvernPirate) | Phemelo Moloi | Maun, Botswana | 2,020 |
+| 15 | [WyvernPirate](https://github.com/WyvernPirate) | Phemelo Moloi | Maun, Botswana | 2,018 |
 | 16 | [Mopati123](https://github.com/Mopati123) | Mopati Ramaologa | Gaborone, Botswana | 1,890 |
 | 17 | [sheriff-kutlo](https://github.com/sheriff-kutlo) | Kutlo Will Mangwa | Botswana | 1,830 |
 | 18 | [samsonmabetho](https://github.com/samsonmabetho) | Samson Mabetho | Botswana | 1,676 |
@@ -52,8 +52,8 @@ Indexed users: 533
 | 13 | [Sesame-alpha](https://github.com/Sesame-alpha) | SESAME DITHUPA | Botswana 🇧🇼  | 543 |
 | 14 | [bChandrax](https://github.com/bChandrax) | Karabo Machanja | Botswana | 442 |
 | 15 | [justindotdevv](https://github.com/justindotdevv) | justin | Gaborone, Botswana | 430 |
-| 16 | [mulaxprime](https://github.com/mulaxprime) | Mulax Prime | Gaborone, Botswana | 372 |
-| 17 | [WyvernPirate](https://github.com/WyvernPirate) | Phemelo Moloi | Maun, Botswana | 347 |
+| 16 | [mulaxprime](https://github.com/mulaxprime) | Mulax Prime | Gaborone, Botswana | 357 |
+| 17 | [WyvernPirate](https://github.com/WyvernPirate) | Phemelo Moloi | Maun, Botswana | 345 |
 | 18 | [DippsDev](https://github.com/DippsDev) | DippsDev | Botswana | 327 |
 | 19 | [Serumola](https://github.com/Serumola) | Pako Serumola | Gaborone, Botswana | 325 |
 | 20 | [TheoMKgosi](https://github.com/TheoMKgosi) |  | Botswana | 291 |
@@ -83,4 +83,4 @@ Indexed users: 533
 | 19 | [BakangMonei](https://github.com/BakangMonei) | Monei Bakang | Gaborone, Botswana | 34 |
 | 20 | [Tebalo](https://github.com/Tebalo) | Bopaki | Botswana, Gaborone-Mokobaxane | 34 |
 
-Generated: 2026-10-16T09:27:22.439Z
+Generated: 2026-10-16T12:46:23.574Z

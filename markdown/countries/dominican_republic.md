@@ -1,6 +1,6 @@
 # Dominican Republic
 
-Indexed users: 3,302
+Indexed users: 3,301
 
 | Leaderboard | Link |
 |---|---|
@@ -13,9 +13,9 @@ Indexed users: 3,302
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [ibernabel](https://github.com/ibernabel) | Idequel Bernabel | Dominican Republic | 16,414 |
-| 2 | [deuriib](https://github.com/deuriib) | Deuri Vasquez | Santo Domingo, R. D. | 15,371 |
-| 3 | [kaioken](https://github.com/kaioken) | Max Castro | Dominican Republic | 12,671 |
-| 4 | [jflerime314](https://github.com/jflerime314) | Joseph Angelo Flerimé | Dominican Republic | 11,312 |
+| 2 | [kaioken](https://github.com/kaioken) | Max Castro | Dominican Republic | 12,671 |
+| 3 | [jflerime314](https://github.com/jflerime314) | Joseph Angelo Flerimé | Dominican Republic | 11,312 |
+| 4 | [deuriib](https://github.com/deuriib) | Deuri Vasquez | Santo Domingo, R. D. | 10,542 |
 | 5 | [emilsosa](https://github.com/emilsosa) | Emil Sosa | Dominican Republic | 8,906 |
 | 6 | [Urpirio](https://github.com/Urpirio) | UrpirioDev | Dominican Republic  | 8,607 |
 | 7 | [everylisting](https://github.com/everylisting) | Philippe Roy | Dominican-Republic | 8,493 |
@@ -83,4 +83,4 @@ Indexed users: 3,302
 | 19 | [eatskolnikov](https://github.com/eatskolnikov) | Enmanuel Toribio | Dominican Republic | 149 |
 | 20 | [adonismendozaperez](https://github.com/adonismendozaperez) | Adonis Mendoza  | Dominican Republic | 117 |
 
-Generated: 2026-10-16T12:14:15.407Z
+Generated: 2026-10-16T12:56:00.060Z

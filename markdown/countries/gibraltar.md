@@ -25,13 +25,13 @@ Indexed users: 93
 | 11 | [ronanmathew](https://github.com/ronanmathew) | Ronan Spoor | Gibraltar | 637 |
 | 12 | [mortyflex](https://github.com/mortyflex) | Mohamed A | Gibraltar | 621 |
 | 13 | [SGarcia96](https://github.com/SGarcia96) | SGarcia | Spain/Gibraltar | 595 |
-| 14 | [ajedrezpremium](https://github.com/ajedrezpremium) | Ajedrez Premium | GIBRALTAR | 528 |
+| 14 | [ajedrezpremium](https://github.com/ajedrezpremium) | Ajedrez Premium | GIBRALTAR | 538 |
 | 15 | [Vinnetou](https://github.com/Vinnetou) | Lukas Kloucek | Gibraltar | 521 |
 | 16 | [PeterKottas](https://github.com/PeterKottas) | Peter Kottas | Gibraltar | 462 |
 | 17 | [cdharris](https://github.com/cdharris) | Chris Harris | Berlin / Europe / Gibraltar | 403 |
 | 18 | [VladimirHumeniuk](https://github.com/VladimirHumeniuk) | vhmnk | Gibraltar | 402 |
 | 19 | [thebaubau](https://github.com/thebaubau) | Daniel Fintinariu | Gibraltar | 298 |
-| 20 | [crpol](https://github.com/crpol) | Cesar Rosa Polanco | Gibraltar | 254 |
+| 20 | [crpol](https://github.com/crpol) | Cesar Rosa Polanco | Gibraltar | 255 |
 
 ## Public Contributions
 
@@ -41,8 +41,8 @@ Indexed users: 93
 | 2 | [dlicudi](https://github.com/dlicudi) | Duane Licudi | Gibraltar | 2,405 |
 | 3 | [Industrial](https://github.com/Industrial) | Tom Wieland | Gibraltar | 1,912 |
 | 4 | [ArtemSoldatkin](https://github.com/ArtemSoldatkin) | Artem Soldatkin | Gibraltar | 567 |
-| 5 | [ajedrezpremium](https://github.com/ajedrezpremium) | Ajedrez Premium | GIBRALTAR | 528 |
-| 6 | [crpol](https://github.com/crpol) | Cesar Rosa Polanco | Gibraltar | 254 |
+| 5 | [ajedrezpremium](https://github.com/ajedrezpremium) | Ajedrez Premium | GIBRALTAR | 538 |
+| 6 | [crpol](https://github.com/crpol) | Cesar Rosa Polanco | Gibraltar | 255 |
 | 7 | [heaventree](https://github.com/heaventree) | Heaventree Digital | Gibraltar | 241 |
 | 8 | [mortyflex](https://github.com/mortyflex) | Mohamed A | Gibraltar | 196 |
 | 9 | [unigib](https://github.com/unigib) | University of Gibraltar | Gibraltar | 183 |
@@ -83,4 +83,4 @@ Indexed users: 93
 | 19 | [vfiodor](https://github.com/vfiodor) | Fiodor Veresciaka | Gibraltar | 13 |
 | 20 | [VPSServerCom](https://github.com/VPSServerCom) | VPS Server | Gibraltar | 13 |
 
-Generated: 2026-10-16T09:44:08.718Z
+Generated: 2026-10-16T13:01:31.633Z

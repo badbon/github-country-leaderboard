@@ -1,6 +1,6 @@
 # Followers - Haiti
 
-Generated: 2026-10-16T09:47:12.944Z
+Generated: 2026-10-16T13:06:39.824Z
 
 Users: 339
 
@@ -19,7 +19,7 @@ Users: 339
 | 11 | [jamslylm](https://github.com/jamslylm) | Jamsly MINÉ | Freelance | jamslylm | Port-au-prince, Ouest, Haiti | 43 |
 | 12 | [AD0791](https://github.com/AD0791) | Alexandro Disla |  |  | Haiti | 41 |
 | 13 | [midsonlajeanty](https://github.com/midsonlajeanty) | Louis Midson Lajeanty |  |  | Haiti | 40 |
-| 14 | [bogosla](https://github.com/bogosla) | James Destiné |  |  | Haiti | 38 |
+| 14 | [bogosla](https://github.com/bogosla) | James Destiné |  |  | Haiti | 37 |
 | 15 | [djtrueway](https://github.com/djtrueway) | peterson saint-aime | SajesUnlock | djtrueway | Haiti | 37 |
 | 16 | [AlexisJW](https://github.com/AlexisJW) | Jean Walner Alexis |  Full-stack Developer |  | Port-au-prince, Haïti | 34 |
 | 17 | [jfstephane](https://github.com/jfstephane) | Jules Frantz Stephane Loubeau | none |  | Haiti | 33 |

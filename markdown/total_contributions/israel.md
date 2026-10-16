@@ -1,8 +1,8 @@
 # Total Contributions - Israel
 
-Generated: 2026-10-16T09:51:36.409Z
+Generated: 2026-10-16T13:09:31.019Z
 
-Users: 12425
+Users: 12424
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

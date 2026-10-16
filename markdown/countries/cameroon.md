@@ -21,7 +21,7 @@ Indexed users: 1,799
 | 7 | [iws3](https://github.com/iws3) | Fonyuy Gita | Bamenda, Cameroon | 9,993 |
 | 8 | [LudovicAndreBiyong](https://github.com/LudovicAndreBiyong) | Ludovic André Biyong | Cameroon | 9,905 |
 | 9 | [KingsleyLeshey](https://github.com/KingsleyLeshey) | Kingsley Leshey | Yaounde, Cameroon | 9,102 |
-| 10 | [zenderock](https://github.com/zenderock) | Emmanuel Zenderock | Cameroon | 7,720 |
+| 10 | [zenderock](https://github.com/zenderock) | Emmanuel Zenderock | Cameroon | 7,985 |
 | 11 | [elroykanye](https://github.com/elroykanye) | Elroy Kimbi | Yaoundé, Cameroon | 7,432 |
 | 12 | [ln-dev7](https://github.com/ln-dev7) | LN | Cameroon | 7,402 |
 | 13 | [leonelngande](https://github.com/leonelngande) | Leonel Elimpe | Buea, Cameroon | 7,257 |
@@ -83,4 +83,4 @@ Indexed users: 1,799
 | 19 | [baimamboukar](https://github.com/baimamboukar) | BAIMAM BOUKAR JEAN JACQUES | Yaoundé | 170 |
 | 20 | [Suprememajor](https://github.com/Suprememajor) | Nobert Etta | Buea, Cameroon | 170 |
 
-Generated: 2026-10-16T09:29:07.644Z
+Generated: 2026-10-16T12:48:52.210Z

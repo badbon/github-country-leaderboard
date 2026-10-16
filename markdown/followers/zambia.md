@@ -1,6 +1,6 @@
 # Followers - Zambia
 
-Generated: 2026-10-16T09:16:36.354Z
+Generated: 2026-10-16T12:36:01.152Z
 
 Users: 1338
 
@@ -11,7 +11,7 @@ Users: 1338
 | 3 | [rly0nheart](https://github.com/rly0nheart) | Ritchie Mwewa |  |  | Zambia | 302 |
 | 4 | [KMKCODER](https://github.com/KMKCODER) | Kapembwa Kangali  | KmkCoder |  | Ndola, Zambia | 233 |
 | 5 | [Joshk21758](https://github.com/Joshk21758) | Mwansa kunda  |  |  | Lusaka, Zambia  | 230 |
-| 6 | [marksikaundi](https://github.com/marksikaundi) | Mark Sikaundi | @Lupleg | Alisikaundi | Zambia | 224 |
+| 6 | [marksikaundi](https://github.com/marksikaundi) | Mark Sikaundi | @Lupleg | Alisikaundi | Zambia | 223 |
 | 7 | [boniface](https://github.com/boniface) | Boniface Kabaso | Zambia |  | Lusaka, Zambia | 192 |
 | 8 | [smaboshe](https://github.com/smaboshe) | Silumesii Maboshe | @pencilcasestudios  | silumesii | Zambia | 175 |
 | 9 | [kalumwe](https://github.com/kalumwe) | Kalumba Mweshi |  |  | Lusaka, Zambia | 159 |

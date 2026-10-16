@@ -1,6 +1,6 @@
 # Public Contributions - Afghanistan
 
-Generated: 2026-10-16T09:18:14.609Z
+Generated: 2026-10-16T12:37:28.648Z
 
 Users: 1487
 
@@ -8,7 +8,7 @@ Users: 1487
 |---:|---|---|---|---|---|---:|
 | 1 | [ahmadullahmukhlis](https://github.com/ahmadullahmukhlis) | Ahmadullah Mukhlis | Da Afghanistan Bank (APS) |  | Kabul, Afghanistan | 30577 |
 | 2 | [Nasratullah-Shafiq](https://github.com/Nasratullah-Shafiq) | Nasratullah Shafiq | MCIT | NasratShafiq | Afghanistan | 7303 |
-| 3 | [haroonrashidzadran](https://github.com/haroonrashidzadran) | Haroon Rashid Zadran | @BarlasTech | A1_HAROON | Kabul, Afghanistan | 5680 |
+| 3 | [haroonrashidzadran](https://github.com/haroonrashidzadran) | Haroon Rashid Zadran | @BarlasTech | A1_HAROON | Kabul, Afghanistan | 5600 |
 | 4 | [basirkhan1995](https://github.com/basirkhan1995) | Basir Hashimi | Zaitoon |  | Afghanistan | 4857 |
 | 5 | [khalidafghanmal](https://github.com/khalidafghanmal) | khalid afghanmal | Smart City Solution ICT |  | Afghanistan | 2782 |
 | 6 | [alawoddin](https://github.com/alawoddin) | Alawoddin khedmat | tawana |  | kabul | 2628 |
@@ -24,5 +24,5 @@ Users: 1487
 | 16 | [Jamalludeen](https://github.com/Jamalludeen) | Jamalludeen Karimi |  |  | Kabul, Afghanistan | 1214 |
 | 17 | [Munib03](https://github.com/Munib03) | Hedayatullah Yamin |  |  | Afghanistan | 1083 |
 | 18 | [nasir-ehsan-83](https://github.com/nasir-ehsan-83) | Nasir Ahmad Ehsan | Freelancer |  | Herat, Afghanistan | 1078 |
-| 19 | [Mahdi-Hasanzadeh](https://github.com/Mahdi-Hasanzadeh) | Mahdi Hasanzadeh |  |  | Afghanistan,Herat | 1062 |
+| 19 | [Mahdi-Hasanzadeh](https://github.com/Mahdi-Hasanzadeh) | Mahdi Hasanzadeh |  |  | Afghanistan,Herat | 1061 |
 | 20 | [AhmadWahebArifi](https://github.com/AhmadWahebArifi) | Ahmad Waheb Arifi | Islamic Bank Of Afghanistan |  | Kabul | 1049 |

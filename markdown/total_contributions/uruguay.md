@@ -1,6 +1,6 @@
 # Total Contributions - Uruguay
 
-Generated: 2026-10-16T09:14:51.607Z
+Generated: 2026-10-16T12:32:38.254Z
 
 Users: 5617
 
@@ -21,8 +21,8 @@ Users: 5617
 | 13 | [EugeniaGramajo](https://github.com/EugeniaGramajo) | Eugenia Gramajo |  |  | Uruguay | 8420 |
 | 14 | [emiliano-go](https://github.com/emiliano-go) | Emiliano G.O. | Eclipse Labs |  | Montevideo, Uruguay | 8276 |
 | 15 | [pedrosgmagalhaes](https://github.com/pedrosgmagalhaes) | Pedro Magalhaes | Iora Labs |  | Uruguay | 8205 |
-| 16 | [barbatdev](https://github.com/barbatdev) | Juan Barbat | Barbat.Dev |  | Uruguay | 7968 |
-| 17 | [LuisHdezE](https://github.com/LuisHdezE) | MSc Luis A. Hernández Elias | PuntoTecno |  | Montevideo, Uruguay | 7825 |
-| 18 | [Tombar](https://github.com/Tombar) | Martin Loy | Undermountain Coding Company | martinloy | Montevideo, Uruguay | 7600 |
-| 19 | [hernandezsanti](https://github.com/hernandezsanti) | Santiago Hernández | @NeoCoast  |  | Montevideo, Uruguay | 7198 |
-| 20 | [damian-buho](https://github.com/damian-buho) | Damián Búho |  |  | Uruguay | 6976 |
+| 16 | [brunoocal](https://github.com/brunoocal) | Bruno Cal |  |  | Uruguay | 8152 |
+| 17 | [barbatdev](https://github.com/barbatdev) | Juan Barbat | Barbat.Dev |  | Uruguay | 7968 |
+| 18 | [LuisHdezE](https://github.com/LuisHdezE) | MSc Luis A. Hernández Elias | PuntoTecno |  | Montevideo, Uruguay | 7825 |
+| 19 | [Tombar](https://github.com/Tombar) | Martin Loy | Undermountain Coding Company | martinloy | Montevideo, Uruguay | 7600 |
+| 20 | [hernandezsanti](https://github.com/hernandezsanti) | Santiago Hernández | @NeoCoast  |  | Montevideo, Uruguay | 7198 |

@@ -22,8 +22,8 @@ Indexed users: 132
 | 8 | [wellawet](https://github.com/wellawet) | Wella Awet | South Sudan | 625 |
 | 9 | [AchukCodeMaster](https://github.com/AchukCodeMaster) | Johnson Achuk | Juba, South Sudan | 611 |
 | 10 | [WANI12](https://github.com/WANI12) | wani geoffrey | Juba, South Sudan | 525 |
-| 11 | [Agaba-derrick](https://github.com/Agaba-derrick) | Agaba Derrick  | Juba  | 517 |
-| 12 | [JohnMarit](https://github.com/JohnMarit) | John Marit | Juba-South Sudan | 516 |
+| 11 | [JohnMarit](https://github.com/JohnMarit) | John Marit | Juba-South Sudan | 516 |
+| 12 | [Agaba-derrick](https://github.com/Agaba-derrick) | Agaba Derrick  | Juba  | 514 |
 | 13 | [stephen-morlex](https://github.com/stephen-morlex) | Stephen Victor | Juba, South Sudan | 502 |
 | 14 | [SanMajur](https://github.com/SanMajur) | Santino Majur Malong  | Juba, South Sudan | 344 |
 | 15 | [Dengtiel](https://github.com/Dengtiel) | Deng Mayen Deng Akol | Juba/Online | 329 |
@@ -43,7 +43,7 @@ Indexed users: 132
 | 4 | [Maiz27](https://github.com/Maiz27) | Maged Faiz | Juba, South Sudan | 1,098 |
 | 5 | [puoch1of1](https://github.com/puoch1of1) | Puoch Mabor Makuei  | South Sudan | 583 |
 | 6 | [JohnMarit](https://github.com/JohnMarit) | John Marit | Juba-South Sudan | 516 |
-| 7 | [Agaba-derrick](https://github.com/Agaba-derrick) | Agaba Derrick  | Juba  | 508 |
+| 7 | [Agaba-derrick](https://github.com/Agaba-derrick) | Agaba Derrick  | Juba  | 505 |
 | 8 | [stephen-morlex](https://github.com/stephen-morlex) | Stephen Victor | Juba, South Sudan | 502 |
 | 9 | [WANI12](https://github.com/WANI12) | wani geoffrey | Juba, South Sudan | 392 |
 | 10 | [SanMajur](https://github.com/SanMajur) | Santino Majur Malong  | Juba, South Sudan | 344 |
@@ -83,4 +83,4 @@ Indexed users: 132
 | 19 | [Amalsouthsudan23](https://github.com/Amalsouthsudan23) | AMAL South Sudan | South Sudan | 15 |
 | 20 | [Drago-cod](https://github.com/Drago-cod) | Drago Samuel Jared | Juba, South Sudan | 15 |
 
-Generated: 2026-10-16T09:03:42.303Z
+Generated: 2026-10-16T12:25:26.995Z
