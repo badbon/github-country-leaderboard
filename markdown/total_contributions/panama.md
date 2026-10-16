@@ -1,14 +1,14 @@
 # Total Contributions - Panama
 
-Generated: 2026-10-15T22:25:06.495Z
+Generated: 2026-10-16T00:10:48.635Z
 
 Users: 1069
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [MattRiddell](https://github.com/MattRiddell) | Matthew Riddell | Group Advisors, NeoGen.AI, COVID Schedule, VentureVoIP, CreateOffshoreCompany, SineApps, VentureIP, C O International Holdings, Bio Earth Farms, Light Stream Farms, Singularity Software | MattRiddell | Panama | 46353 |
-| 2 | [ElenaRevicheva](https://github.com/ElenaRevicheva) | Elena | AIdeazz start-up | reviceva | Panama, Panama city | 24100 |
-| 3 | [rafaaro](https://github.com/rafaaro) | Rafael Arosemena | RARO |  | Panama | 20799 |
+| 2 | [rafaaro](https://github.com/rafaaro) | Rafael Arosemena | RARO |  | Panama | 24696 |
+| 3 | [ElenaRevicheva](https://github.com/ElenaRevicheva) | Elena | AIdeazz start-up | reviceva | Panama, Panama city | 24100 |
 | 4 | [jeremymcs](https://github.com/jeremymcs) | Jeremy McSpadden | Flux Labs | jeremymcs | Panama City, FL | 18057 |
 | 5 | [quezadaesteban](https://github.com/quezadaesteban) | Esteban Quezada |  |  | Panama | 17510 |
 | 6 | [SirRodney](https://github.com/SirRodney) | Rodney |  |  | Panama | 16277 |
@@ -16,12 +16,12 @@ Users: 1069
 | 8 | [ricardostmalo](https://github.com/ricardostmalo) | Ricardo de Saint Malo | Boton | ricardostmalo | Panama | 15813 |
 | 9 | [hjupter](https://github.com/hjupter) | Hjupter Cerrud |  | hjupter | Panama | 15572 |
 | 10 | [gonzalezulises](https://github.com/gonzalezulises) | Ulises Gonzalez | rizoma | gonzalezulises | Panama | 10073 |
-| 11 | [lexjm](https://github.com/lexjm) | Alexander  | TKS TECHNOLOGY |  | Panama City, Panama | 9745 |
-| 12 | [bgawne](https://github.com/bgawne) | Brad Gawne |  |  | Panama | 9524 |
-| 13 | [captainsparrow10](https://github.com/captainsparrow10) | Javier Acosta Tullock |  |  | Panama | 8841 |
-| 14 | [atomikigai](https://github.com/atomikigai) | Jostick Quiel | The no name company |  | Panama | 8121 |
-| 15 | [dashboardtech](https://github.com/dashboardtech) | Frederick Roberts | Master Services | FRobertsV | Panama | 7835 |
-| 16 | [ramonfabrega](https://github.com/ramonfabrega) | Ramon |  |  | Panama | 7800 |
+| 11 | [ramonfabrega](https://github.com/ramonfabrega) | Ramon |  |  | Panama | 9797 |
+| 12 | [lexjm](https://github.com/lexjm) | Alexander  | TKS TECHNOLOGY |  | Panama City, Panama | 9745 |
+| 13 | [bgawne](https://github.com/bgawne) | Brad Gawne |  |  | Panama | 9524 |
+| 14 | [captainsparrow10](https://github.com/captainsparrow10) | Javier Acosta Tullock |  |  | Panama | 8841 |
+| 15 | [atomikigai](https://github.com/atomikigai) | Jostick Quiel | The no name company |  | Panama | 8121 |
+| 16 | [dashboardtech](https://github.com/dashboardtech) | Frederick Roberts | Master Services | FRobertsV | Panama | 7835 |
 | 17 | [cabe56](https://github.com/cabe56) | Jose Varela | Cuanto |  | Panama City, Panama | 7307 |
 | 18 | [xtealer](https://github.com/xtealer) | Enrique Shunnar | @xtealer |  | Panama City, Panama | 7288 |
 | 19 | [bryanjtc](https://github.com/bryanjtc) | Bryan Thomas | @paymesoft  |  | Panama | 6773 |

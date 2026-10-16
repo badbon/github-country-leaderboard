@@ -1,8 +1,8 @@
 # Public Contributions - Saudi Arabia
 
-Generated: 2026-10-15T22:31:28.636Z
+Generated: 2026-10-16T00:20:14.894Z
 
-Users: 7740
+Users: 7739
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -15,7 +15,7 @@ Users: 7740
 | 7 | [justpainful](https://github.com/justpainful) | 777 | Flowline · @1980Est |  | Saudi Arabia | 4237 |
 | 8 | [rashadnaqeeb](https://github.com/rashadnaqeeb) | Rashad Naqeeb |  |  | Saudi Arabia | 4097 |
 | 9 | [AsemJK](https://github.com/AsemJK) | Asem Alsaiyadi |  |  | Saudi Arabia | 4084 |
-| 10 | [ManalAlyami7](https://github.com/ManalAlyami7) | Manal Alyami  | King Saud University |  | Riyadh, Saudi Arabia | 3442 |
+| 10 | [ManalAlyami7](https://github.com/ManalAlyami7) | Manal Alyami  | King Saud University |  | Riyadh, Saudi Arabia | 3438 |
 | 11 | [EslamElshikh-dev](https://github.com/EslamElshikh-dev) | Eslam Elshikh | Google  | remoesoo10 | Riyadh  | 3381 |
 | 12 | [CalledSTRIKER](https://github.com/CalledSTRIKER) | Sultan |  |  | Saudi Arabia | 3251 |
 | 13 | [Lamyaa439](https://github.com/Lamyaa439) | Lamyaa  |  |  | Riyadh | 2589 |

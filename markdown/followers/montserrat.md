@@ -1,6 +1,6 @@
 # Followers - Montserrat
 
-Generated: 2026-10-15T22:17:56.390Z
+Generated: 2026-10-16T00:01:46.534Z
 
 Users: 291
 
@@ -13,7 +13,7 @@ Users: 291
 | 5 | [robertjwilson](https://github.com/robertjwilson) | Robert Wilson | Plymouth Marine Laboratory |  | Plymouth | 62 |
 | 6 | [noutram-old-uopaccount](https://github.com/noutram-old-uopaccount) | Nicholas Outram | Alstom UK |  | Plymouth UK | 57 |
 | 7 | [thisisthechris](https://github.com/thisisthechris) | Chris Hunt | Controlled Frenzy |  | Plymouth | 44 |
-| 8 | [profversaggi](https://github.com/profversaggi) | Matthew R. Versaggi | Versaggi Information Systems |  | Plymouth, Minnesota | 36 |
+| 8 | [profversaggi](https://github.com/profversaggi) | Matthew R. Versaggi | Versaggi Information Systems |  | Plymouth, Minnesota | 37 |
 | 9 | [spottedmahn](https://github.com/spottedmahn) | Michael DePouw | CEI | spottedmahn | Plymouth Meeting, PA | 25 |
 | 10 | [EricJamesOsowski](https://github.com/EricJamesOsowski) | Eric Osowski |  |  | Plymouth, Minnesota | 24 |
 | 11 | [jmcnevin](https://github.com/jmcnevin) | Jeremy McNevin |  |  | Plymouth, MN | 24 |

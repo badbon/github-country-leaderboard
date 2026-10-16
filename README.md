@@ -14,11 +14,11 @@ Top GitHub users by country, ranked from public GitHub profile and contribution 
 
 | Country | Indexed Users | Public | Total | Followers |
 |---|---:|---|---|---|
-| [Afghanistan](markdown/countries/afghanistan.md) | 1,487 | [Public](markdown/public_contributions/afghanistan.md) | [Total](markdown/total_contributions/afghanistan.md) | [Followers](markdown/followers/afghanistan.md) |
-| [Macau](markdown/countries/macau.md) | 439 | [Public](markdown/public_contributions/macau.md) | [Total](markdown/total_contributions/macau.md) | [Followers](markdown/followers/macau.md) |
-| [Andorra](markdown/countries/andorra.md) | 214 | [Public](markdown/public_contributions/andorra.md) | [Total](markdown/total_contributions/andorra.md) | [Followers](markdown/followers/andorra.md) |
-| [Jersey](markdown/countries/jersey.md) | 139 | [Public](markdown/public_contributions/jersey.md) | [Total](markdown/total_contributions/jersey.md) | [Followers](markdown/followers/jersey.md) |
-| [Hong Kong](markdown/countries/hong_kong.md) | 10,278 | [Public](markdown/public_contributions/hong_kong.md) | [Total](markdown/total_contributions/hong_kong.md) | [Followers](markdown/followers/hong_kong.md) |
+| [Ethiopia](markdown/countries/ethiopia.md) | 6,691 | [Public](markdown/public_contributions/ethiopia.md) | [Total](markdown/total_contributions/ethiopia.md) | [Followers](markdown/followers/ethiopia.md) |
+| [Turkmenistan](markdown/countries/turkmenistan.md) | 501 | [Public](markdown/public_contributions/turkmenistan.md) | [Total](markdown/total_contributions/turkmenistan.md) | [Followers](markdown/followers/turkmenistan.md) |
+| [Panama](markdown/countries/panama.md) | 1,069 | [Public](markdown/public_contributions/panama.md) | [Total](markdown/total_contributions/panama.md) | [Followers](markdown/followers/panama.md) |
+| [Uruguay](markdown/countries/uruguay.md) | 5,618 | [Public](markdown/public_contributions/uruguay.md) | [Total](markdown/total_contributions/uruguay.md) | [Followers](markdown/followers/uruguay.md) |
+| [Christmas Island](markdown/countries/christmas_island.md) | 20 | [Public](markdown/public_contributions/christmas_island.md) | [Total](markdown/total_contributions/christmas_island.md) | [Followers](markdown/followers/christmas_island.md) |
 
 ## How It Works
 
@@ -26,4 +26,4 @@ The collector searches GitHub users by self-reported profile location, keeps use
 
 Locations are not verified. The raw profile location is preserved, and country assignment uses deterministic country, alias, city, and exact phrase rules.
 
-Generated: 2026-10-15T23:50:27.489Z
+Generated: 2026-10-16T00:21:43.448Z

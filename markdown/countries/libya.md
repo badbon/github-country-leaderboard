@@ -1,6 +1,6 @@
 # Libya
 
-Indexed users: 742
+Indexed users: 741
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 742
 | 19 | [ZizouHuweidi](https://github.com/ZizouHuweidi) | El Zubeir Huweidi | Benghazi, Libya | 51 |
 | 20 | [Islam-alshiki](https://github.com/Islam-alshiki) | Islam alshiki | Benghazi, Libya | 49 |
 
-Generated: 2026-10-15T22:11:15.876Z
+Generated: 2026-10-15T23:55:54.381Z

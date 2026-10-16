@@ -62,7 +62,7 @@ Indexed users: 2,061
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [eimg](https://github.com/eimg) | Ei Maung | Yangon, Myanmar | 4,261 |
+| 1 | [eimg](https://github.com/eimg) | Ei Maung | Yangon, Myanmar | 4,323 |
 | 2 | [minlwin](https://github.com/minlwin) | Min Lwin | Yangon, Myanmar | 1,204 |
 | 3 | [sannlynnhtun-coding](https://github.com/sannlynnhtun-coding) | Sann Lynn Htun | Yangon, Myanmar | 1,065 |
 | 4 | [sailay1996](https://github.com/sailay1996) | valen | Myanmar | 758 |
@@ -83,4 +83,4 @@ Indexed users: 2,061
 | 19 | [winsandymyint](https://github.com/winsandymyint) | Win Sandy Myint | Myanmar | 168 |
 | 20 | [LunaM00n](https://github.com/LunaM00n) | Thin Ba Shane (Luna) | Myanmar | 162 |
 
-Generated: 2026-10-15T22:19:00.982Z
+Generated: 2026-10-16T00:03:18.975Z

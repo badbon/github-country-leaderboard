@@ -1,6 +1,6 @@
 # Public Contributions - Liechtenstein
 
-Generated: 2026-10-15T22:11:19.518Z
+Generated: 2026-10-15T23:55:57.280Z
 
 Users: 113
 
@@ -14,7 +14,7 @@ Users: 113
 | 6 | [PhilippHGerber](https://github.com/PhilippHGerber) | Philipp H. Gerber |  | PhilippHGerber | Liechtenstein | 577 |
 | 7 | [msanft](https://github.com/msanft) | Moritz Sanft | Edgeless Systems | stdoutput | Liechtenstein | 526 |
 | 8 | [archham](https://github.com/archham) | Nicolas Eberle |  |  | Liechtenstein | 459 |
-| 9 | [anondotli](https://github.com/anondotli) | anon.li |  |  | Liechtenstein | 300 |
+| 9 | [anondotli](https://github.com/anondotli) | anon.li |  |  | Liechtenstein | 301 |
 | 10 | [wol-fi](https://github.com/wol-fi) | Wolfgang Schadner | University of Liechtenstein |  | Liechtenstein | 288 |
 | 11 | [AHaldner](https://github.com/AHaldner) | Andrin Haldner | Stutz Medien AG |  | Liechtenstein | 215 |
 | 12 | [xGreeny](https://github.com/xGreeny) | Flurin |  |  | Liechtenstein | 179 |

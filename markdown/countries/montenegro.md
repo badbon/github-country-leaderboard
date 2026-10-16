@@ -22,8 +22,8 @@ Indexed users: 888
 | 8 | [Timev](https://github.com/Timev) | Evgenii Timofeev | Montenegro | 6,223 |
 | 9 | [recursion128](https://github.com/recursion128) | DDDDOGE | Crna Gora | 6,213 |
 | 10 | [stefashkaa](https://github.com/stefashkaa) | Stefan Popov | Montenegro, Budva | 5,983 |
-| 11 | [aco228](https://github.com/aco228) | Aleksandar Konatar | Podgorica | 5,767 |
-| 12 | [1v4n4](https://github.com/1v4n4) |  | Montenegro | 5,645 |
+| 11 | [1v4n4](https://github.com/1v4n4) |  | Montenegro | 5,795 |
+| 12 | [aco228](https://github.com/aco228) | Aleksandar Konatar | Podgorica | 5,767 |
 | 13 | [pokidov](https://github.com/pokidov) | Kirill Pokidov | Montenegro | 5,471 |
 | 14 | [gezimarapaj](https://github.com/gezimarapaj) |  | Montenegro | 5,354 |
 | 15 | [zee229](https://github.com/zee229) | Nikita Yastreb | Montenegro, Bar | 5,224 |
@@ -83,4 +83,4 @@ Indexed users: 888
 | 19 | [vovkasm](https://github.com/vovkasm) | Vladimir Timofeev | Budva, Montenegro | 99 |
 | 20 | [marcoroganovic](https://github.com/marcoroganovic) | Marko Roganovic | Montenegro | 89 |
 
-Generated: 2026-10-15T22:17:17.878Z
+Generated: 2026-10-16T00:01:39.424Z

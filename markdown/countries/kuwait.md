@@ -22,7 +22,7 @@ Indexed users: 797
 | 8 | [bigboss97lnt](https://github.com/bigboss97lnt) | Nasser Tahan | Kuwait | 5,282 |
 | 9 | [saskw2010](https://github.com/saskw2010) | Mostafa Elnagar | kuwait | 5,239 |
 | 10 | [Mubder](https://github.com/Mubder) | Mubder Alfaris | Kuwait | 4,586 |
-| 11 | [azikar24](https://github.com/azikar24) | Abdulaziz Karam | Kuwait | 4,383 |
+| 11 | [azikar24](https://github.com/azikar24) | Abdulaziz Karam | Kuwait | 4,407 |
 | 12 | [knro](https://github.com/knro) | Jasem Mutlaq | Kuwait | 4,089 |
 | 13 | [careless10](https://github.com/careless10) | Menawer | Kuwait | 3,839 |
 | 14 | [Mazyod](https://github.com/Mazyod) | Maz | Kuwait | 3,794 |
@@ -50,7 +50,7 @@ Indexed users: 797
 | 11 | [knro](https://github.com/knro) | Jasem Mutlaq | Kuwait | 941 |
 | 12 | [usamahklair](https://github.com/usamahklair) | Usamah Klair | Kuwait | 823 |
 | 13 | [Mazyod](https://github.com/Mazyod) | Maz | Kuwait | 628 |
-| 14 | [azikar24](https://github.com/azikar24) | Abdulaziz Karam | Kuwait | 610 |
+| 14 | [azikar24](https://github.com/azikar24) | Abdulaziz Karam | Kuwait | 616 |
 | 15 | [fibonacci61](https://github.com/fibonacci61) | Faisal Malallah | Kuwait | 545 |
 | 16 | [agatho-daemon](https://github.com/agatho-daemon) | Agathodaemon | Kuwait | 532 |
 | 17 | [AwadhObaid](https://github.com/AwadhObaid) | Awadh Obaid | Kuwait | 529 |
@@ -83,4 +83,4 @@ Indexed users: 797
 | 19 | [MoathOthman](https://github.com/MoathOthman) | Moath othman | Kuwait | 85 |
 | 20 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Kuwait | 81 |
 
-Generated: 2026-10-15T22:09:43.350Z
+Generated: 2026-10-15T23:52:50.046Z

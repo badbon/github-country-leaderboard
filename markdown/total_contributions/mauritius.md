@@ -1,13 +1,13 @@
 # Total Contributions - Mauritius
 
-Generated: 2026-10-15T22:15:18.626Z
+Generated: 2026-10-16T00:00:13.670Z
 
 Users: 713
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [EdgarEldy](https://github.com/EdgarEldy) | EDGAR MUHAMYANGABO | @Accenture | EdgarEldy | Mauritius | 14191 |
-| 2 | [512banque](https://github.com/512banque) | Kevin Richard | SEObserver | 512banque | Mauritius | 7700 |
+| 2 | [512banque](https://github.com/512banque) | Kevin Richard | SEObserver | 512banque | Mauritius | 7826 |
 | 3 | [borissedov](https://github.com/borissedov) | Boris Sedov |  |  | Tamarin, Mauritius | 7453 |
 | 4 | [andrashejj](https://github.com/andrashejj) | Andras Hejj |  | andrashejj | Mauritius | 6723 |
 | 5 | [cedpoilly](https://github.com/cedpoilly) | Cedric |  |  | Mauritius | 6613 |
@@ -23,6 +23,6 @@ Users: 713
 | 15 | [yayann](https://github.com/yayann) | Yann Labour |  |  | Mauritius | 3914 |
 | 16 | [thhsie](https://github.com/thhsie) | hitesh |  |  | Mauritius | 3833 |
 | 17 | [k3ii](https://github.com/k3ii) | Jain Ramchurn | @RingierIMU  |  | Mauritius | 3770 |
-| 18 | [cbillowes](https://github.com/cbillowes) | Clarice Bouwer | Cloudsure Limited |  | Mauritius | 3281 |
+| 18 | [cbillowes](https://github.com/cbillowes) | Clarice Bouwer | Cloudsure Limited |  | Mauritius | 3350 |
 | 19 | [johanleroch](https://github.com/johanleroch) | Johan le Roch | JohanCode LLP | JohnLrDev | Mauritius | 3122 |
 | 20 | [iwugod](https://github.com/iwugod) | Joshua Iwugod  |  | iwugodjoshua | Republic of Mauritius  | 3102 |

@@ -1,8 +1,8 @@
 # Followers - Lebanon
 
-Generated: 2026-10-15T22:11:04.775Z
+Generated: 2026-10-15T23:54:40.524Z
 
-Users: 2565
+Users: 2564
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

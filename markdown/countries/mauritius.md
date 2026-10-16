@@ -13,7 +13,7 @@ Indexed users: 713
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [EdgarEldy](https://github.com/EdgarEldy) | EDGAR MUHAMYANGABO | Mauritius | 14,191 |
-| 2 | [512banque](https://github.com/512banque) | Kevin Richard | Mauritius | 7,700 |
+| 2 | [512banque](https://github.com/512banque) | Kevin Richard | Mauritius | 7,826 |
 | 3 | [borissedov](https://github.com/borissedov) | Boris Sedov | Tamarin, Mauritius | 7,453 |
 | 4 | [andrashejj](https://github.com/andrashejj) | Andras Hejj | Mauritius | 6,723 |
 | 5 | [cedpoilly](https://github.com/cedpoilly) | Cedric | Mauritius | 6,613 |
@@ -29,7 +29,7 @@ Indexed users: 713
 | 15 | [yayann](https://github.com/yayann) | Yann Labour | Mauritius | 3,914 |
 | 16 | [thhsie](https://github.com/thhsie) | hitesh | Mauritius | 3,833 |
 | 17 | [k3ii](https://github.com/k3ii) | Jain Ramchurn | Mauritius | 3,770 |
-| 18 | [cbillowes](https://github.com/cbillowes) | Clarice Bouwer | Mauritius | 3,281 |
+| 18 | [cbillowes](https://github.com/cbillowes) | Clarice Bouwer | Mauritius | 3,350 |
 | 19 | [johanleroch](https://github.com/johanleroch) | Johan le Roch | Mauritius | 3,122 |
 | 20 | [iwugod](https://github.com/iwugod) | Joshua Iwugod  | Republic of Mauritius  | 3,102 |
 
@@ -77,10 +77,10 @@ Indexed users: 713
 | 13 | [shaha-nah](https://github.com/shaha-nah) | Shahanah | Mauritius | 92 |
 | 14 | [rahul-thakoor](https://github.com/rahul-thakoor) | Rahul Thakoor | Mauritius | 86 |
 | 15 | [SharCodin](https://github.com/SharCodin) | Code Crafters Corner | Mauritius | 84 |
-| 16 | [puchka](https://github.com/puchka) | A. Marius Rabenarivo | Mauritius | 83 |
+| 16 | [puchka](https://github.com/puchka) | A. Marius Rabenarivo | Mauritius | 82 |
 | 17 | [EdgarEldy](https://github.com/EdgarEldy) | EDGAR MUHAMYANGABO | Mauritius | 81 |
 | 18 | [arwinneil](https://github.com/arwinneil) | Arwin Neil Baichoo | Mauritius | 75 |
 | 19 | [MaskyS](https://github.com/MaskyS) | Kifah M | Mauritius | 74 |
 | 20 | [cbillowes](https://github.com/cbillowes) | Clarice Bouwer | Mauritius | 65 |
 
-Generated: 2026-10-15T22:15:18.626Z
+Generated: 2026-10-16T00:00:13.670Z

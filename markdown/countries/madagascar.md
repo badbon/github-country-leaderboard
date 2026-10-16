@@ -1,6 +1,6 @@
 # Madagascar
 
-Indexed users: 1,905
+Indexed users: 1,904
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 1,905
 | 19 | [tokyramarozaka](https://github.com/tokyramarozaka) | Tokimahery | Madagascar | 143 |
 | 20 | [luckasRanarison](https://github.com/luckasRanarison) | Luckas | Antananarivo, Madagascar | 140 |
 
-Generated: 2026-10-15T22:12:36.533Z
+Generated: 2026-10-15T23:56:17.310Z

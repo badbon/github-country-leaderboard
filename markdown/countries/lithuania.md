@@ -1,6 +1,6 @@
 # Lithuania
 
-Indexed users: 5,382
+Indexed users: 5,380
 
 | Leaderboard | Link |
 |---|---|
@@ -66,7 +66,7 @@ Indexed users: 5,382
 | 2 | [KostasSliazas](https://github.com/KostasSliazas) | Kostas | Lithuania | 3,163 |
 | 3 | [PovilasKorop](https://github.com/PovilasKorop) |  | Vilnius, Lithuania | 2,744 |
 | 4 | [aras-p](https://github.com/aras-p) | Aras Pranckevičius | Kaunas, Lithuania | 2,531 |
-| 5 | [irenemmassy](https://github.com/irenemmassy) | Irene Arvydas Ranonis | Lithuania  | 680 |
+| 5 | [irenemmassy](https://github.com/irenemmassy) | Irene Arvydas Ranonis | Lithuania  | 677 |
 | 6 | [laimonas2g](https://github.com/laimonas2g) | Laimonas | Kaunas, Lithuania | 539 |
 | 7 | [remrc](https://github.com/remrc) | Remigijus | Lithuania | 405 |
 | 8 | [kibertoad](https://github.com/kibertoad) | Igor Savin | Vilnius | 395 |
@@ -83,4 +83,4 @@ Indexed users: 5,382
 | 19 | [ErikasRamaneckas](https://github.com/ErikasRamaneckas) | Erikas Ramaneckas | Vilnius, Lithuania | 197 |
 | 20 | [Miceuz](https://github.com/Miceuz) | Albertas Mickėnas | Vilnius, Lithuania | 190 |
 
-Generated: 2026-10-15T22:12:24.262Z
+Generated: 2026-10-15T23:56:01.469Z

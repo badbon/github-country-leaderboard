@@ -13,8 +13,8 @@ Indexed users: 2,013
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [LuisValdesZero](https://github.com/LuisValdesZero) | Luis Valdés | Paraguay | 20,188 |
-| 2 | [nikdim03](https://github.com/nikdim03) | Dmitrii Nikulin | Paraguay | 14,573 |
-| 3 | [devsart95](https://github.com/devsart95) | S4R | Paraguay | 14,120 |
+| 2 | [devsart95](https://github.com/devsart95) | S4R | Paraguay | 16,831 |
+| 3 | [nikdim03](https://github.com/nikdim03) | Dmitrii Nikulin | Paraguay | 14,573 |
 | 4 | [vargascarlitos](https://github.com/vargascarlitos) | Carlitos Vargas | Paraguay | 10,883 |
 | 5 | [pyfection](https://github.com/pyfection) | Matthias Schreiber | Paraguay | 10,440 |
 | 6 | [diogocsoares](https://github.com/diogocsoares) | Diogo Soares | Paraguay | 10,224 |
@@ -83,4 +83,4 @@ Indexed users: 2,013
 | 19 | [metakeule](https://github.com/metakeule) | metakeule | Asunción / Paraguay | 109 |
 | 20 | [replay](https://github.com/replay) | Mauro Stettler | Asuncion, Paraguay | 105 |
 
-Generated: 2026-10-15T22:25:14.607Z
+Generated: 2026-10-16T00:11:33.597Z

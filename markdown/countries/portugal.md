@@ -70,7 +70,7 @@ Indexed users: 28,447
 | 6 | [crnacura](https://github.com/crnacura) | Manoela Ilic | Portimão, Portugal | 7,145 |
 | 7 | [matklad](https://github.com/matklad) | Alex Kladov | Lisbon | 7,091 |
 | 8 | [rochacbruno](https://github.com/rochacbruno) | Bruno Rocha | Viana do Castelo, Portugal | 4,688 |
-| 9 | [0Darkn](https://github.com/0Darkn) | José Raposo  | Lisbon to Mars | 4,252 |
+| 9 | [0Darkn](https://github.com/0Darkn) | José Raposo  | Lisbon to Mars | 4,522 |
 | 10 | [adamchainz](https://github.com/adamchainz) | Adam Johnson | London / Lisbon | 3,966 |
 | 11 | [m1guelpf](https://github.com/m1guelpf) | Miguel Piedrafita | Lisbon, Portugal | 3,488 |
 | 12 | [nelsonic](https://github.com/nelsonic) | Nelson | Braga, Portugal | 3,433 |
@@ -83,4 +83,4 @@ Indexed users: 28,447
 | 19 | [abo-abo](https://github.com/abo-abo) | Oleh Krehel | Matosinhos, Portugal | 1,857 |
 | 20 | [SimCoderYoutube](https://github.com/SimCoderYoutube) | SimCoder | Porto, Portugal | 1,831 |
 
-Generated: 2026-10-15T22:25:40.288Z
+Generated: 2026-10-16T00:12:34.310Z

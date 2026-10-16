@@ -1,6 +1,6 @@
 # Followers - Portugal
 
-Generated: 2026-10-15T22:25:40.288Z
+Generated: 2026-10-16T00:12:34.310Z
 
 Users: 28447
 
@@ -14,7 +14,7 @@ Users: 28447
 | 6 | [crnacura](https://github.com/crnacura) | Manoela Ilic | @codrops  | crnacura | Portimão, Portugal | 7145 |
 | 7 | [matklad](https://github.com/matklad) | Alex Kladov | @tigerbeetle |  | Lisbon | 7091 |
 | 8 | [rochacbruno](https://github.com/rochacbruno) | Bruno Rocha | Red Hat |  | Viana do Castelo, Portugal | 4688 |
-| 9 | [0Darkn](https://github.com/0Darkn) | José Raposo  |  |  | Lisbon to Mars | 4252 |
+| 9 | [0Darkn](https://github.com/0Darkn) | José Raposo  |  |  | Lisbon to Mars | 4522 |
 | 10 | [adamchainz](https://github.com/adamchainz) | Adam Johnson | @django, @djangolondon |  | London / Lisbon | 3966 |
 | 11 | [m1guelpf](https://github.com/m1guelpf) | Miguel Piedrafita | @worldcoin | m1guelpf | Lisbon, Portugal | 3488 |
 | 12 | [nelsonic](https://github.com/nelsonic) | Nelson | @dwyl | nelsonic | Braga, Portugal | 3433 |

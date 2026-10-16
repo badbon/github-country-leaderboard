@@ -13,8 +13,8 @@ Indexed users: 1,069
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [MattRiddell](https://github.com/MattRiddell) | Matthew Riddell | Panama | 46,353 |
-| 2 | [ElenaRevicheva](https://github.com/ElenaRevicheva) | Elena | Panama, Panama city | 24,100 |
-| 3 | [rafaaro](https://github.com/rafaaro) | Rafael Arosemena | Panama | 20,799 |
+| 2 | [rafaaro](https://github.com/rafaaro) | Rafael Arosemena | Panama | 24,696 |
+| 3 | [ElenaRevicheva](https://github.com/ElenaRevicheva) | Elena | Panama, Panama city | 24,100 |
 | 4 | [jeremymcs](https://github.com/jeremymcs) | Jeremy McSpadden | Panama City, FL | 18,057 |
 | 5 | [quezadaesteban](https://github.com/quezadaesteban) | Esteban Quezada | Panama | 17,510 |
 | 6 | [SirRodney](https://github.com/SirRodney) | Rodney | Panama | 16,277 |
@@ -22,12 +22,12 @@ Indexed users: 1,069
 | 8 | [ricardostmalo](https://github.com/ricardostmalo) | Ricardo de Saint Malo | Panama | 15,813 |
 | 9 | [hjupter](https://github.com/hjupter) | Hjupter Cerrud | Panama | 15,572 |
 | 10 | [gonzalezulises](https://github.com/gonzalezulises) | Ulises Gonzalez | Panama | 10,073 |
-| 11 | [lexjm](https://github.com/lexjm) | Alexander  | Panama City, Panama | 9,745 |
-| 12 | [bgawne](https://github.com/bgawne) | Brad Gawne | Panama | 9,524 |
-| 13 | [captainsparrow10](https://github.com/captainsparrow10) | Javier Acosta Tullock | Panama | 8,841 |
-| 14 | [atomikigai](https://github.com/atomikigai) | Jostick Quiel | Panama | 8,121 |
-| 15 | [dashboardtech](https://github.com/dashboardtech) | Frederick Roberts | Panama | 7,835 |
-| 16 | [ramonfabrega](https://github.com/ramonfabrega) | Ramon | Panama | 7,800 |
+| 11 | [ramonfabrega](https://github.com/ramonfabrega) | Ramon | Panama | 9,797 |
+| 12 | [lexjm](https://github.com/lexjm) | Alexander  | Panama City, Panama | 9,745 |
+| 13 | [bgawne](https://github.com/bgawne) | Brad Gawne | Panama | 9,524 |
+| 14 | [captainsparrow10](https://github.com/captainsparrow10) | Javier Acosta Tullock | Panama | 8,841 |
+| 15 | [atomikigai](https://github.com/atomikigai) | Jostick Quiel | Panama | 8,121 |
+| 16 | [dashboardtech](https://github.com/dashboardtech) | Frederick Roberts | Panama | 7,835 |
 | 17 | [cabe56](https://github.com/cabe56) | Jose Varela | Panama City, Panama | 7,307 |
 | 18 | [xtealer](https://github.com/xtealer) | Enrique Shunnar | Panama City, Panama | 7,288 |
 | 19 | [bryanjtc](https://github.com/bryanjtc) | Bryan Thomas | Panama | 6,773 |
@@ -38,8 +38,8 @@ Indexed users: 1,069
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [jeremymcs](https://github.com/jeremymcs) | Jeremy McSpadden | Panama City, FL | 18,057 |
-| 2 | [ElenaRevicheva](https://github.com/ElenaRevicheva) | Elena | Panama, Panama city | 5,627 |
-| 3 | [ramonfabrega](https://github.com/ramonfabrega) | Ramon | Panama | 4,111 |
+| 2 | [ramonfabrega](https://github.com/ramonfabrega) | Ramon | Panama | 5,946 |
+| 3 | [ElenaRevicheva](https://github.com/ElenaRevicheva) | Elena | Panama, Panama city | 5,627 |
 | 4 | [nandocdev](https://github.com/nandocdev) | Fernando Castillo Valdés | Panama, Panama City | 2,689 |
 | 5 | [dsfaccini](https://github.com/dsfaccini) | David SF | Panama City | 2,485 |
 | 6 | [ergofobe](https://github.com/ergofobe) | Jim Phillips | Panama | 2,166 |
@@ -83,4 +83,4 @@ Indexed users: 1,069
 | 19 | [Commandtechno](https://github.com/Commandtechno) | Techno | David, Panama | 49 |
 | 20 | [Iardo](https://github.com/Iardo) | Ivan Ramos | Panama | 47 |
 
-Generated: 2026-10-15T22:25:06.495Z
+Generated: 2026-10-16T00:10:48.635Z
