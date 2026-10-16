@@ -1,8 +1,8 @@
 # Followers - Faroe Islands
 
-Generated: 2026-10-16T08:17:38.900Z
+Generated: 2026-10-16T09:41:36.600Z
 
-Users: 67
+Users: 68
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -22,7 +22,7 @@ Users: 67
 | 14 | [hoegnason](https://github.com/hoegnason) | Rani Högnason Hansen | Faroese Telecom |  | Tórshavn | 9 |
 | 15 | [Theoistic](https://github.com/Theoistic) | Theodor Solbjorg | Theoistic | Theoistic | Faroe Islands | 9 |
 | 16 | [thorgisl](https://github.com/thorgisl) | Dreki Þórgísl |  |  | Tórshavn, Faroe Islands | 9 |
-| 17 | [Marimuda](https://github.com/Marimuda) | Jákup Svøðstein | University of Faroe islands |  | Faroe islands  | 7 |
-| 18 | [olavurellefsen](https://github.com/olavurellefsen) | Olavur Ellefsen | @Flowcore-io |  | Faroe Islands | 7 |
-| 19 | [shishpt](https://github.com/shishpt) | Shishir Patel |  |  | Torshavn, Faroe Islands | 7 |
-| 20 | [suuunly](https://github.com/suuunly) | Jóhann Østerø | Flowcore, Gaman Games |  | Faroe Islands | 7 |
+| 17 | [BogiSyderbo](https://github.com/BogiSyderbo) | Bogi |  |  | Tórshavn | 7 |
+| 18 | [Marimuda](https://github.com/Marimuda) | Jákup Svøðstein | University of Faroe islands |  | Faroe islands  | 7 |
+| 19 | [olavurellefsen](https://github.com/olavurellefsen) | Olavur Ellefsen | @Flowcore-io |  | Faroe Islands | 7 |
+| 20 | [shishpt](https://github.com/shishpt) | Shishir Patel |  |  | Torshavn, Faroe Islands | 7 |

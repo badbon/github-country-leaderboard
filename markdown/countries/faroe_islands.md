@@ -1,6 +1,6 @@
 # Faroe Islands
 
-Indexed users: 67
+Indexed users: 68
 
 | Leaderboard | Link |
 |---|---|
@@ -16,7 +16,7 @@ Indexed users: 67
 | 2 | [kruseio](https://github.com/kruseio) | Ragnar Kruse | Faroe Islands | 6,547 |
 | 3 | [jbiskur](https://github.com/jbiskur) | Julius á Rógvi Biskopstø | Faroe Islands | 5,324 |
 | 4 | [argilzar](https://github.com/argilzar) | Brian Bischoff | Faroe Islands | 3,341 |
-| 5 | [RudiPersson](https://github.com/RudiPersson) | Rudi Persson | Tórshavn, Faroe Islands | 2,769 |
+| 5 | [RudiPersson](https://github.com/RudiPersson) | Rudi Persson | Tórshavn, Faroe Islands | 2,774 |
 | 6 | [mashema](https://github.com/mashema) | John Eyðstein Johannesen  | Faroe Islands | 2,423 |
 | 7 | [hoegnason](https://github.com/hoegnason) | Rani Högnason Hansen | Tórshavn | 2,372 |
 | 8 | [suuunly](https://github.com/suuunly) | Jóhann Østerø | Faroe Islands | 2,253 |
@@ -78,9 +78,9 @@ Indexed users: 67
 | 14 | [hoegnason](https://github.com/hoegnason) | Rani Högnason Hansen | Tórshavn | 9 |
 | 15 | [Theoistic](https://github.com/Theoistic) | Theodor Solbjorg | Faroe Islands | 9 |
 | 16 | [thorgisl](https://github.com/thorgisl) | Dreki Þórgísl | Tórshavn, Faroe Islands | 9 |
-| 17 | [Marimuda](https://github.com/Marimuda) | Jákup Svøðstein | Faroe islands  | 7 |
-| 18 | [olavurellefsen](https://github.com/olavurellefsen) | Olavur Ellefsen | Faroe Islands | 7 |
-| 19 | [shishpt](https://github.com/shishpt) | Shishir Patel | Torshavn, Faroe Islands | 7 |
-| 20 | [suuunly](https://github.com/suuunly) | Jóhann Østerø | Faroe Islands | 7 |
+| 17 | [BogiSyderbo](https://github.com/BogiSyderbo) | Bogi | Tórshavn | 7 |
+| 18 | [Marimuda](https://github.com/Marimuda) | Jákup Svøðstein | Faroe islands  | 7 |
+| 19 | [olavurellefsen](https://github.com/olavurellefsen) | Olavur Ellefsen | Faroe Islands | 7 |
+| 20 | [shishpt](https://github.com/shishpt) | Shishir Patel | Torshavn, Faroe Islands | 7 |
 
-Generated: 2026-10-16T08:17:38.900Z
+Generated: 2026-10-16T09:41:36.600Z

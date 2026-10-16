@@ -29,7 +29,7 @@ Indexed users: 563
 | 15 | [peeta98](https://github.com/peeta98) | Pedro Moreira | Terceira, Praia da Vitória | 1,224 |
 | 16 | [Denio26](https://github.com/Denio26) | Dénio Melo | Cape Verde | 1,166 |
 | 17 | [machadoah](https://github.com/machadoah) | Antonio Henrique Machado | Praia Grande/SP | 1,147 |
-| 18 | [mrbonini](https://github.com/mrbonini) | Kaique Sousa Bonini | Praia Grande, SP - Brazil | 1,136 |
+| 18 | [mrbonini](https://github.com/mrbonini) | Kaique Sousa Bonini | Praia Grande, SP - Brazil | 1,144 |
 | 19 | [ewerton336](https://github.com/ewerton336) | Ewerton  Guimarães | Praia Grande - SP | 1,103 |
 | 20 | [klcombr](https://github.com/klcombr) | KL Com | Praia Grande, SP | 1,034 |
 
@@ -56,7 +56,7 @@ Indexed users: 563
 | 17 | [leviferre1ra](https://github.com/leviferre1ra) | Levi Ferreira Cunha | Praia Grande/SP | 227 |
 | 18 | [GabrielJalmeida](https://github.com/GabrielJalmeida) | Gabriel Almeida | Praia Grande | 198 |
 | 19 | [kjunior-dev](https://github.com/kjunior-dev) | Kevin Developer | Cabo Verde - Praia | 194 |
-| 20 | [Matheusesp1](https://github.com/Matheusesp1) | Matheus Espindola |  Praia da Costa, Vila Velha - ES | 180 |
+| 20 | [Matheusesp1](https://github.com/Matheusesp1) | Matheus Espindola |  Praia da Costa, Vila Velha - ES | 189 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 563
 | 19 | [Murzchnvok](https://github.com/Murzchnvok) | Pedro Araujo | Praia de Jatobá, SE - Brasil | 58 |
 | 20 | [FredSoares](https://github.com/FredSoares) | Frederico Soares | Cape Verde | 54 |
 
-Generated: 2026-10-16T08:07:26.488Z
+Generated: 2026-10-16T09:29:50.513Z

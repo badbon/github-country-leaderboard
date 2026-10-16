@@ -14,7 +14,7 @@ Indexed users: 533
 |---:|---|---|---|---:|
 | 1 | [kalungia](https://github.com/kalungia) | Abraham Kalungi | Botswana, Gaborone | 8,473 |
 | 2 | [Chalebgwa](https://github.com/Chalebgwa) | Pako Chalebgwa | Botswana,Gaborone | 8,282 |
-| 3 | [rasali535](https://github.com/rasali535) | Alpheaus Chiwaze | Botswana, Gaborone | 2,806 |
+| 3 | [rasali535](https://github.com/rasali535) | Alpheaus Chiwaze | Botswana, Gaborone | 2,839 |
 | 4 | [darula-hpp](https://github.com/darula-hpp) | Olebogeng Mbedzi | Gaborone | 2,678 |
 | 5 | [tiromodibedi](https://github.com/tiromodibedi) | Tiro Modibedi | Gaborone, Botswana | 2,624 |
 | 6 | [kmaphane](https://github.com/kmaphane) | Kenna Maphane | Maun, Botswana | 2,477 |
@@ -37,13 +37,13 @@ Indexed users: 533
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [rasali535](https://github.com/rasali535) | Alpheaus Chiwaze | Botswana, Gaborone | 2,806 |
+| 1 | [rasali535](https://github.com/rasali535) | Alpheaus Chiwaze | Botswana, Gaborone | 2,839 |
 | 2 | [BakangMonei](https://github.com/BakangMonei) | Monei Bakang | Gaborone, Botswana | 1,389 |
 | 3 | [mwmiller](https://github.com/mwmiller) | Matt Miller | Gaborone, Botswana | 1,232 |
 | 4 | [darula-hpp](https://github.com/darula-hpp) | Olebogeng Mbedzi | Gaborone | 1,198 |
-| 5 | [Todd366](https://github.com/Todd366) | BSTM Ecosystem  | Botswana 🇧🇼  | 1,045 |
+| 5 | [Todd366](https://github.com/Todd366) | BSTM Ecosystem  | Botswana 🇧🇼  | 1,053 |
 | 6 | [NjabuloJf](https://github.com/NjabuloJf) | Njabulo Jb | Botswana  | 1,010 |
-| 7 | [arnold1990-cell](https://github.com/arnold1990-cell) | Arnold Tyvern Madamombe | Gaborone Botswana | 856 |
+| 7 | [arnold1990-cell](https://github.com/arnold1990-cell) | Arnold Tyvern Madamombe | Gaborone Botswana | 866 |
 | 8 | [tmosimanyana](https://github.com/tmosimanyana) | Tinny Mosimanyana | Gaborone, Botswana | 838 |
 | 9 | [Mopati123](https://github.com/Mopati123) | Mopati Ramaologa | Gaborone, Botswana | 735 |
 | 10 | [Cse21-034](https://github.com/Cse21-034) | leatile mosimanyana | Gaborone | 616 |
@@ -83,4 +83,4 @@ Indexed users: 533
 | 19 | [BakangMonei](https://github.com/BakangMonei) | Monei Bakang | Gaborone, Botswana | 34 |
 | 20 | [Tebalo](https://github.com/Tebalo) | Bopaki | Botswana, Gaborone-Mokobaxane | 34 |
 
-Generated: 2026-10-16T08:04:23.496Z
+Generated: 2026-10-16T09:27:22.439Z

@@ -15,7 +15,7 @@ Indexed users: 679
 | 1 | [woueziou](https://github.com/woueziou) | Taas S. Ekpaye | Lomé | 13,421 |
 | 2 | [gausoft](https://github.com/gausoft) | Gauthier Eholoum | Lomé, Togo | 13,374 |
 | 3 | [omarfarouk228](https://github.com/omarfarouk228) | Omar farouk KOUGBADA | Togo | 10,913 |
-| 4 | [MaximeKELI](https://github.com/MaximeKELI) | Maxime KELI | Lome,TOGO | 9,425 |
+| 4 | [MaximeKELI](https://github.com/MaximeKELI) | Maxime KELI | Lome,TOGO | 9,422 |
 | 5 | [kodesonik](https://github.com/kodesonik) | AMADOU AROUNA | Togo | 8,720 |
 | 6 | [hermannleboss](https://github.com/hermannleboss) | Hermann EHO | Lomé TOGO | 8,166 |
 | 7 | [GTW503](https://github.com/GTW503) | MEK | Togo | 8,052 |
@@ -37,7 +37,7 @@ Indexed users: 679
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [MaximeKELI](https://github.com/MaximeKELI) | Maxime KELI | Lome,TOGO | 7,358 |
+| 1 | [MaximeKELI](https://github.com/MaximeKELI) | Maxime KELI | Lome,TOGO | 7,356 |
 | 2 | [hermannleboss](https://github.com/hermannleboss) | Hermann EHO | Lomé TOGO | 4,755 |
 | 3 | [EmD-228](https://github.com/EmD-228) | Kokou DENYO | Lome-Togo | 4,053 |
 | 4 | [Georginio-prod](https://github.com/Georginio-prod) | Georginio  | lomé-TOGO | 3,303 |
@@ -83,4 +83,4 @@ Indexed users: 679
 | 19 | [ica1010](https://github.com/ica1010) | Ghislin | Lomé , Togo | 65 |
 | 20 | [Maximekgn](https://github.com/Maximekgn) | KOGON Mawunygan Maxime | Togo | 64 |
 
-Generated: 2026-10-16T07:48:05.966Z
+Generated: 2026-10-16T09:09:04.456Z

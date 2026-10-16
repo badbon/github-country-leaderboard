@@ -1,8 +1,8 @@
 # Total Contributions - Faroe Islands
 
-Generated: 2026-10-16T08:17:38.900Z
+Generated: 2026-10-16T09:41:36.600Z
 
-Users: 67
+Users: 68
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -10,7 +10,7 @@ Users: 67
 | 2 | [kruseio](https://github.com/kruseio) | Ragnar Kruse |  | kruseio | Faroe Islands | 6547 |
 | 3 | [jbiskur](https://github.com/jbiskur) | Julius á Rógvi Biskopstø |  |  | Faroe Islands | 5324 |
 | 4 | [argilzar](https://github.com/argilzar) | Brian Bischoff | @globe-tracker @flowcore-io  | argilzar | Faroe Islands | 3341 |
-| 5 | [RudiPersson](https://github.com/RudiPersson) | Rudi Persson | Poul Michelsen |  | Tórshavn, Faroe Islands | 2769 |
+| 5 | [RudiPersson](https://github.com/RudiPersson) | Rudi Persson | Poul Michelsen |  | Tórshavn, Faroe Islands | 2774 |
 | 6 | [mashema](https://github.com/mashema) | John Eyðstein Johannesen  |  |  | Faroe Islands | 2423 |
 | 7 | [hoegnason](https://github.com/hoegnason) | Rani Högnason Hansen | Faroese Telecom |  | Tórshavn | 2372 |
 | 8 | [suuunly](https://github.com/suuunly) | Jóhann Østerø | Flowcore, Gaman Games |  | Faroe Islands | 2253 |

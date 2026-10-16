@@ -14,24 +14,24 @@ Indexed users: 1,275
 |---:|---|---|---|---:|
 | 1 | [gordonswaby](https://github.com/gordonswaby) | EduFocal | Kingston, Jamaica  | 43,890 |
 | 2 | [slocker3](https://github.com/slocker3) | Stephen Locker | Kingston, WA | 14,995 |
-| 3 | [alexarthurs](https://github.com/alexarthurs) | Alex Arthurs | Kingston, Ontario | 11,002 |
-| 4 | [SirFitz](https://github.com/SirFitz) | Romario Fitzgerald | Jamaica | 9,419 |
+| 3 | [SirFitz](https://github.com/SirFitz) | Romario Fitzgerald | Jamaica | 11,378 |
+| 4 | [alexarthurs](https://github.com/alexarthurs) | Alex Arthurs | Kingston, Ontario | 11,002 |
 | 5 | [eforth](https://github.com/eforth) | Ervin Forth | Jamaica | 9,400 |
-| 6 | [kenoButler](https://github.com/kenoButler) | KenoB | Kingston, Jamaica | 8,941 |
-| 7 | [olusiekwin](https://github.com/olusiekwin) | Gramm | kingston, JM | 8,867 |
+| 6 | [olusiekwin](https://github.com/olusiekwin) | Gramm | kingston, JM | 8,867 |
+| 7 | [kenoButler](https://github.com/kenoButler) | KenoB | Kingston, Jamaica | 8,749 |
 | 8 | [QuigProQuo](https://github.com/QuigProQuo) | John Peter Quigley | Kingston, New York | 7,798 |
 | 9 | [DinitoThompson](https://github.com/DinitoThompson) | Dinito Thompson | Jamaica | 6,874 |
 | 10 | [marcamillion](https://github.com/marcamillion) | Marc Gayle | Kingston, Jamaica | 6,366 |
 | 11 | [billlevine](https://github.com/billlevine) | Bill LeVine | Kingston, Ontario | 6,067 |
-| 12 | [dimitriharding](https://github.com/dimitriharding) | Dimitri Harding | Kingston, Jamaica | 5,295 |
+| 12 | [dimitriharding](https://github.com/dimitriharding) | Dimitri Harding | Kingston, Jamaica | 5,291 |
 | 13 | [SammarieoBrown](https://github.com/SammarieoBrown) | Sammarieo Brown | Kingston, Jamaica | 5,238 |
 | 14 | [tunecrew](https://github.com/tunecrew) | Christopher Edmonds | Kingston, Jamaica | 5,114 |
 | 15 | [emperorjm](https://github.com/emperorjm) | Adrian Thompson | Jamaica | 4,618 |
 | 16 | [javaniecampbell](https://github.com/javaniecampbell) | Javanie Campbell | Jamaica | 4,388 |
 | 17 | [cogell](https://github.com/cogell) | B. Cedric Cogell | Kingston, NY | 4,336 |
 | 18 | [JCarran0](https://github.com/JCarran0) | Jared Carrano | Kingston, NY | 4,180 |
-| 19 | [kaplanz](https://github.com/kaplanz) | Zakhary Kaplan | Kingston, ON | 3,991 |
-| 20 | [CryptoCanuck](https://github.com/CryptoCanuck) | Chris Robinson | Kingston, ON | 3,925 |
+| 19 | [shanoysinc](https://github.com/shanoysinc) | Shanoy Sinclair | Jamaica | 4,160 |
+| 20 | [kaplanz](https://github.com/kaplanz) | Zakhary Kaplan | Kingston, ON | 3,991 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 1,275
 | 19 | [aliasad059](https://github.com/aliasad059) | Ali Asad | Kingston, Ontario | 100 |
 | 20 | [andrewmaier](https://github.com/andrewmaier) | Andrew Maier | Kingston, Ontario | 94 |
 
-Generated: 2026-10-16T08:27:49.731Z
+Generated: 2026-10-16T09:52:52.798Z

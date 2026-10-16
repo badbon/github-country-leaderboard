@@ -67,7 +67,7 @@ Indexed users: 30
 | 3 | [NOPR9D](https://github.com/NOPR9D) | NOPR9D ☄️ | Vatican City State (Holy See)  | 18 |
 | 4 | [kubonnt](https://github.com/kubonnt) |  | Vatican City | 14 |
 | 5 | [reijop](https://github.com/reijop) | Reijo Pitkanen | Vatican City | 8 |
-| 6 | [dru91ce](https://github.com/dru91ce) | dru91ce | Vatican City (Holy See) | 6 |
+| 6 | [dru91ce](https://github.com/dru91ce) | dru91ce | Vatican City (Holy See) | 5 |
 | 7 | [gadhra](https://github.com/gadhra) | gadhra | Vatican City | 5 |
 | 8 | [JumperLiu](https://github.com/JumperLiu) | JumperLiu | Vatican | 5 |
 | 9 | [0xSums](https://github.com/0xSums) | ﷽ | Vatican City, Vatican | 4 |
@@ -83,4 +83,4 @@ Indexed users: 30
 | 19 | [meereuk](https://github.com/meereuk) | KKUL | Vatican City | 2 |
 | 20 | [shapihelps-meta](https://github.com/shapihelps-meta) | Shapi | Vatican | 2 |
 
-Generated: 2026-10-16T07:54:12.841Z
+Generated: 2026-10-16T09:16:13.805Z

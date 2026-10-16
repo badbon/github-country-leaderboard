@@ -24,8 +24,8 @@ Indexed users: 867
 | 10 | [Mustafaa4A](https://github.com/Mustafaa4A) | Mustaf Abubakar Abdullahi | Mogadishu, Somalia | 4,356 |
 | 11 | [hanad124](https://github.com/hanad124) | Hanad Mohamed Dahir | Mogadishu \| Somalia | 4,087 |
 | 12 | [3bdirahman](https://github.com/3bdirahman) | Abdirahman jimale | Mogadishu, Somalia | 4,017 |
-| 13 | [mrabukar](https://github.com/mrabukar) | Mr Abukar | Mogadisho, Somalia | 3,819 |
-| 14 | [najiibmohamed11](https://github.com/najiibmohamed11) | Abdinajib  | Mogadishu, Somalia  | 3,797 |
+| 13 | [najiibmohamed11](https://github.com/najiibmohamed11) | Abdinajib  | Mogadishu, Somalia  | 3,843 |
+| 14 | [mrabukar](https://github.com/mrabukar) | Mr Abukar | Mogadisho, Somalia | 3,819 |
 | 15 | [abzalan](https://github.com/abzalan) | Abdizalaan H Abdi | Mogadishu, Somalia | 3,527 |
 | 16 | [Dhaqane-00](https://github.com/Dhaqane-00) | Abdilaahi Mowliid Dhaqane | Mogadishu | 3,282 |
 | 17 | [mooha76](https://github.com/mooha76) | Mohammed Farah | Mogadishu, Somalia | 3,193 |
@@ -80,7 +80,7 @@ Indexed users: 867
 | 16 | [Manka-Mohamet](https://github.com/Manka-Mohamet) | عبد الرحمان محمد | Somalia | 113 |
 | 17 | [ENG-CJ](https://github.com/ENG-CJ) | Abdulrahman | Mogdisho,banadir,somalia | 112 |
 | 18 | [saiid20k](https://github.com/saiid20k) | سعيد عبدالله | somalia | 108 |
-| 19 | [Hasson23](https://github.com/Hasson23) | Hassan Abdullah   | Somalia - Mogadishu  | 102 |
+| 19 | [Hasson23](https://github.com/Hasson23) | Hassan Abdullah   | Somalia - Mogadishu  | 100 |
 | 20 | [AbdifatahYasin1](https://github.com/AbdifatahYasin1) | Abdifatah Yasin Yusuf | Somalia, Hargeisa  | 96 |
 
-Generated: 2026-10-16T07:42:16.612Z
+Generated: 2026-10-16T09:03:26.661Z

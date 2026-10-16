@@ -1,6 +1,6 @@
 # Total Contributions - Bhutan
 
-Generated: 2026-10-16T08:04:12.234Z
+Generated: 2026-10-16T09:26:06.659Z
 
 Users: 266
 
@@ -9,9 +9,9 @@ Users: 266
 | 1 | [tshewang-rinzin](https://github.com/tshewang-rinzin) | Tshewang Rinzin | @Cloud-Bhutan  | trigdzeen | Thimphu, Bhutan | 6026 |
 | 2 | [tenztshering](https://github.com/tenztshering) | Tenzin Tshering |  |  | Thimphu, Bhutan | 5098 |
 | 3 | [Kzoeps](https://github.com/Kzoeps) | Karma Zoepa Yoezer |  | kzoeps | Thimphu, Bhutan | 3609 |
-| 4 | [teknatha136](https://github.com/teknatha136) | Tek Nath | @SELISEdigitalplatforms  |  | Thimphu | 3549 |
+| 4 | [teknatha136](https://github.com/teknatha136) | Tek Nath | @SELISEdigitalplatforms  |  | Thimphu | 3551 |
 | 5 | [tashi-iu](https://github.com/tashi-iu) | Tashi Tobgay Dakpa | @Jaggle-AI-HQ  |  | Thimphu, Bhutan | 3384 |
-| 6 | [jimbatshetrim](https://github.com/jimbatshetrim) | Jimba Tshetrim | @selisebt  |  | Thimphu, Bhutan | 3286 |
+| 6 | [jimbatshetrim](https://github.com/jimbatshetrim) | Jimba Tshetrim | @selisebt  |  | Thimphu, Bhutan | 3292 |
 | 7 | [ThuktenSingye](https://github.com/ThuktenSingye) | ThuktenSingye |  |  | Bhutan | 2792 |
 | 8 | [PraMishra-s](https://github.com/PraMishra-s) | Pralad Mishra | College of Science and Technology |  | Bhutan | 2642 |
 | 9 | [sangayt1997](https://github.com/sangayt1997) | Sangay Thinley | SELISE Group | SangayT97 | Thimphu, Bhutan | 2306 |

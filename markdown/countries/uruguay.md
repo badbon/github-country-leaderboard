@@ -71,7 +71,7 @@ Indexed users: 5,617
 | 7 | [daedalus](https://github.com/daedalus) | Darío Clavijo | Montevideo, Uruguay | 387 |
 | 8 | [dangra](https://github.com/dangra) | Daniel Graña | La Paloma, Rocha, Uruguay | 384 |
 | 9 | [tchnorider](https://github.com/tchnorider) | Laura L. | Montevideo, Uruguay | 370 |
-| 10 | [georginapuig](https://github.com/georginapuig) | Georgina | uruguay | 348 |
+| 10 | [georginapuig](https://github.com/georginapuig) | Georgina | uruguay | 346 |
 | 11 | [gerfagerfa](https://github.com/gerfagerfa) | Germán Fajardo Sanchez | Montevideo, Uruguay. | 312 |
 | 12 | [djabif](https://github.com/djabif) | Dayana Jabif | Uruguay | 275 |
 | 13 | [titoBouzout](https://github.com/titoBouzout) | Tito | Montevideo, Uruguay | 223 |
@@ -83,4 +83,4 @@ Indexed users: 5,617
 | 19 | [mauricioszabo](https://github.com/mauricioszabo) | Maurício Szabo | Montevideo, Uruguay | 196 |
 | 20 | [ppazos](https://github.com/ppazos) | Pablo Pazos Gutiérrez | Montevideo, Uruguay | 196 |
 
-Generated: 2026-10-16T07:53:35.730Z
+Generated: 2026-10-16T09:14:51.607Z

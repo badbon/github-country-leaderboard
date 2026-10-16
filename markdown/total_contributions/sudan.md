@@ -1,12 +1,12 @@
 # Total Contributions - Sudan
 
-Generated: 2026-10-16T07:44:56.853Z
+Generated: 2026-10-16T09:05:17.164Z
 
 Users: 727
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [mustafa-online](https://github.com/mustafa-online) | Mustafa Online |  |  | Khartoum, Sudan | 10175 |
+| 1 | [mustafa-online](https://github.com/mustafa-online) | Mustafa Online |  |  | Khartoum, Sudan | 10235 |
 | 2 | [TheYass1n](https://github.com/TheYass1n) | Yassin Hussein |  | TheYass1n | Sudan | 7635 |
 | 3 | [Mohammed-Moniem](https://github.com/Mohammed-Moniem) | Mohammed-Moniem | Banan IT |  | Farog Diyab St, Mamora, Khartoum, Sudan | 5368 |
 | 4 | [EMAD77](https://github.com/EMAD77) | Emad777 |  | Emad777_ | Sudan | 5239 |

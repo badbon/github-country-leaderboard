@@ -12,7 +12,7 @@ Indexed users: 727
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [mustafa-online](https://github.com/mustafa-online) | Mustafa Online | Khartoum, Sudan | 10,175 |
+| 1 | [mustafa-online](https://github.com/mustafa-online) | Mustafa Online | Khartoum, Sudan | 10,235 |
 | 2 | [TheYass1n](https://github.com/TheYass1n) | Yassin Hussein | Sudan | 7,635 |
 | 3 | [Mohammed-Moniem](https://github.com/Mohammed-Moniem) | Mohammed-Moniem | Farog Diyab St, Mamora, Khartoum, Sudan | 5,368 |
 | 4 | [EMAD77](https://github.com/EMAD77) | Emad777 | Sudan | 5,239 |
@@ -41,7 +41,7 @@ Indexed users: 727
 | 2 | [MoAnwer](https://github.com/MoAnwer) | Mohamed Anwer | sudan, kassala | 1,196 |
 | 3 | [daoudtajeldeinn-png](https://github.com/daoudtajeldeinn-png) | Daoud Tajeldeinn Ahmed | sudan -khartoum | 1,184 |
 | 4 | [star4droid](https://github.com/star4droid) | Star4Droid  | Sudan | 943 |
-| 5 | [alilibx](https://github.com/alilibx) | Ali Alhashimi | Sudan | 848 |
+| 5 | [alilibx](https://github.com/alilibx) | Ali Alhashimi | Sudan | 861 |
 | 6 | [adonese](https://github.com/adonese) | Mohamed Yousif | Sudan, Khartoum | 812 |
 | 7 | [sherif414](https://github.com/sherif414) | shareef | Sudan | 793 |
 | 8 | [saifeldinkhedir-coder](https://github.com/saifeldinkhedir-coder) | Seifeldin M G Alkhedir |  Sudan | 691 |
@@ -83,4 +83,4 @@ Indexed users: 727
 | 19 | [kabaros](https://github.com/kabaros) | Mozafar | Khartoum / Glasgow | 51 |
 | 20 | [obaaa8](https://github.com/obaaa8) | محمود عبدالسميع التوم | sudan | 49 |
 
-Generated: 2026-10-16T07:44:56.853Z
+Generated: 2026-10-16T09:05:17.164Z

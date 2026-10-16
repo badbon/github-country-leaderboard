@@ -42,7 +42,7 @@ Indexed users: 1,799
 | 3 | [Martin-Luther](https://github.com/Martin-Luther) | Martin Luther ETOUMAN NDAMBWE | Douala / Cameroon | 4,788 |
 | 4 | [Notho-freedom](https://github.com/Notho-freedom) | Ravel Momo | Yaoundé  | 3,186 |
 | 5 | [bensah](https://github.com/bensah) | Ben Nsah | Cameroon | 3,097 |
-| 6 | [Christiantyemele](https://github.com/Christiantyemele) | Christian Yemele | Cameroon | 2,955 |
+| 6 | [Christiantyemele](https://github.com/Christiantyemele) | Christian Yemele | Cameroon | 2,480 |
 | 7 | [ln-dev7](https://github.com/ln-dev7) | LN | Cameroon | 2,062 |
 | 8 | [Chu29](https://github.com/Chu29) | Malik Chu | Yaounde, Cameroon | 1,892 |
 | 9 | [mrvin100](https://github.com/mrvin100) | Vincent Youmssi | Yaoundé - Cameroon | 1,859 |
@@ -54,7 +54,7 @@ Indexed users: 1,799
 | 15 | [Allmight2002](https://github.com/Allmight2002) | Raymond Mbassi | Cameroon | 1,484 |
 | 16 | [pythonbrad](https://github.com/pythonbrad) | Brady Fomegne | Douala, Cameroon | 1,448 |
 | 17 | [Hermann-Core](https://github.com/Hermann-Core) | Hermann Core | Cameroon | 1,447 |
-| 18 | [Koufan-De-King](https://github.com/Koufan-De-King) | King-Koufan | Cameroon | 1,407 |
+| 18 | [Koufan-De-King](https://github.com/Koufan-De-King) | King-Koufan | Cameroon | 1,419 |
 | 19 | [JOELNATHAN544](https://github.com/JOELNATHAN544) | Joel Nathan Wanko | Cameroon, Bangangté  | 1,388 |
 | 20 | [PromiseFru](https://github.com/PromiseFru) | Promise Fru | Cameroon | 1,354 |
 
@@ -83,4 +83,4 @@ Indexed users: 1,799
 | 19 | [baimamboukar](https://github.com/baimamboukar) | BAIMAM BOUKAR JEAN JACQUES | Yaoundé | 170 |
 | 20 | [Suprememajor](https://github.com/Suprememajor) | Nobert Etta | Buea, Cameroon | 170 |
 
-Generated: 2026-10-16T08:06:52.846Z
+Generated: 2026-10-16T09:29:07.644Z

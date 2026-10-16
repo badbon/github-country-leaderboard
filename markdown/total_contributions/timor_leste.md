@@ -1,6 +1,6 @@
 # Total Contributions - Timor-Leste
 
-Generated: 2026-10-16T07:48:00.051Z
+Generated: 2026-10-16T09:08:59.691Z
 
 Users: 77
 
@@ -13,8 +13,8 @@ Users: 77
 | 5 | [abindacarmo](https://github.com/abindacarmo) | Brigida de Carvalho Carmo | UNTL |  | Timor-Leste | 831 |
 | 6 | [zemalay](https://github.com/zemalay) | Geovannio Frederico de Jesus Vinhas | TIC TIMOR |  | Dili, Timor-Leste | 602 |
 | 7 | [ajitonelsonn](https://github.com/ajitonelsonn) | Ajito Nelson | Viettel Timor |  | Timor Leste | 407 |
-| 8 | [raul-amaral](https://github.com/raul-amaral) | Raul Amaral |  |  | Timor-Leste | 339 |
-| 9 | [JabesNelma](https://github.com/JabesNelma) | Jay |  |  | Dili, Timor-Leste | 336 |
+| 8 | [JabesNelma](https://github.com/JabesNelma) | Jay |  |  | Dili, Timor-Leste | 339 |
+| 9 | [raul-amaral](https://github.com/raul-amaral) | Raul Amaral |  |  | Timor-Leste | 339 |
 | 10 | [amandio-eto](https://github.com/amandio-eto) | Jose Amandio de Almeida | Esperanca Timor Oan |  | Rua china Rate Lahane Oreintal Dili Timor Leste | 213 |
 | 11 | [TiagovskiCode](https://github.com/TiagovskiCode) | Tiago Teixeira  |  |  | East-Timor | 183 |
 | 12 | [adearanda](https://github.com/adearanda) | Aderito Aranda | Monte Academy |  | R. de Resistencia, Kuluhun, Dili Timor Leste | 156 |

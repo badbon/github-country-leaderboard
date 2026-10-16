@@ -1,6 +1,6 @@
 # Followers - Uruguay
 
-Generated: 2026-10-16T07:53:35.730Z
+Generated: 2026-10-16T09:14:51.607Z
 
 Users: 5617
 
@@ -15,7 +15,7 @@ Users: 5617
 | 7 | [daedalus](https://github.com/daedalus) | Darío Clavijo |  | 0x446172696f0a | Montevideo, Uruguay | 387 |
 | 8 | [dangra](https://github.com/dangra) | Daniel Graña | @superfly  | dangrairo | La Paloma, Rocha, Uruguay | 384 |
 | 9 | [tchnorider](https://github.com/tchnorider) | Laura L. | @algoritmosii  |  | Montevideo, Uruguay | 370 |
-| 10 | [georginapuig](https://github.com/georginapuig) | Georgina | Fenicio Ecommerce |  | uruguay | 348 |
+| 10 | [georginapuig](https://github.com/georginapuig) | Georgina | Fenicio Ecommerce |  | uruguay | 346 |
 | 11 | [gerfagerfa](https://github.com/gerfagerfa) | Germán Fajardo Sanchez |  |  | Montevideo, Uruguay. | 312 |
 | 12 | [djabif](https://github.com/djabif) | Dayana Jabif | Self employed  | dayujabif | Uruguay | 275 |
 | 13 | [titoBouzout](https://github.com/titoBouzout) | Tito |  |  | Montevideo, Uruguay | 223 |

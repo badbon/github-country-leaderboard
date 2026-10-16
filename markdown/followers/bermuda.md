@@ -1,6 +1,6 @@
 # Followers - Bermuda
 
-Generated: 2026-10-16T08:03:39.792Z
+Generated: 2026-10-16T09:25:26.536Z
 
 Users: 899
 
@@ -19,7 +19,7 @@ Users: 899
 | 11 | [bokmann](https://github.com/bokmann) | David Bock | @loudouncodes | bokmann | Hamilton, VA | 173 |
 | 12 | [dktr0](https://github.com/dktr0) | David Ogborn |  |  | Hamilton, Ontario | 147 |
 | 13 | [brandonpayton](https://github.com/brandonpayton) | Brandon Payton | @Automattic  |  | Hamilton, Indiana | 131 |
-| 14 | [Pear1y](https://github.com/Pear1y) | Pear1y | Cyber Security |  | Bermuda | 107 |
+| 14 | [Pear1y](https://github.com/Pear1y) | Pear1y | Cyber Security |  | Bermuda | 108 |
 | 15 | [ShawnShiSS](https://github.com/ShawnShiSS) | Shawn Shi |  |  | Hamilton, Ontario | 103 |
 | 16 | [tanya-jp](https://github.com/tanya-jp) | Tanya Djavaherpour |  |  | Hamilton, Ontario | 91 |
 | 17 | [christianbrodbeck](https://github.com/christianbrodbeck) | Christian Brodbeck | McMaster University |  | Hamilton | 87 |

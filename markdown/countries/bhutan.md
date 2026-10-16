@@ -15,9 +15,9 @@ Indexed users: 266
 | 1 | [tshewang-rinzin](https://github.com/tshewang-rinzin) | Tshewang Rinzin | Thimphu, Bhutan | 6,026 |
 | 2 | [tenztshering](https://github.com/tenztshering) | Tenzin Tshering | Thimphu, Bhutan | 5,098 |
 | 3 | [Kzoeps](https://github.com/Kzoeps) | Karma Zoepa Yoezer | Thimphu, Bhutan | 3,609 |
-| 4 | [teknatha136](https://github.com/teknatha136) | Tek Nath | Thimphu | 3,549 |
+| 4 | [teknatha136](https://github.com/teknatha136) | Tek Nath | Thimphu | 3,551 |
 | 5 | [tashi-iu](https://github.com/tashi-iu) | Tashi Tobgay Dakpa | Thimphu, Bhutan | 3,384 |
-| 6 | [jimbatshetrim](https://github.com/jimbatshetrim) | Jimba Tshetrim | Thimphu, Bhutan | 3,286 |
+| 6 | [jimbatshetrim](https://github.com/jimbatshetrim) | Jimba Tshetrim | Thimphu, Bhutan | 3,292 |
 | 7 | [ThuktenSingye](https://github.com/ThuktenSingye) | ThuktenSingye | Bhutan | 2,792 |
 | 8 | [PraMishra-s](https://github.com/PraMishra-s) | Pralad Mishra | Bhutan | 2,642 |
 | 9 | [sangayt1997](https://github.com/sangayt1997) | Sangay Thinley | Thimphu, Bhutan | 2,306 |
@@ -45,7 +45,7 @@ Indexed users: 266
 | 6 | [twangyel](https://github.com/twangyel) | Tandin Wangyel | Bhutan | 924 |
 | 7 | [grey300](https://github.com/grey300) | Tshering Gyeltshen | Bhutan | 837 |
 | 8 | [Choedra](https://github.com/Choedra) | Choedra Gyamtsho | Chubachu, Thimphu | 445 |
-| 9 | [SurajSunar](https://github.com/SurajSunar) | Suraj Sunar | Thimphu, Bhutan | 358 |
+| 9 | [SurajSunar](https://github.com/SurajSunar) | Suraj Sunar | Thimphu, Bhutan | 352 |
 | 10 | [lakikishorsubba](https://github.com/lakikishorsubba) | Laki Kishor Subba | Thimphu,Bhutan | 306 |
 | 11 | [nimaytenzin](https://github.com/nimaytenzin) |  | Bhutan | 297 |
 | 12 | [jigmeloday](https://github.com/jigmeloday) | Jigme Lodey | Thimphu Bhutan | 230 |
@@ -83,4 +83,4 @@ Indexed users: 266
 | 19 | [TandinDev](https://github.com/TandinDev) | Tandin Tshewang | Thimphu | 23 |
 | 20 | [chimiWangchukWangdi](https://github.com/chimiWangchukWangdi) | Chimi Wangchuk Wangdi | Thimphu, Bhutan | 22 |
 
-Generated: 2026-10-16T08:04:12.234Z
+Generated: 2026-10-16T09:26:06.659Z

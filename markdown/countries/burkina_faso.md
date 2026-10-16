@@ -21,7 +21,7 @@ Indexed users: 487
 | 7 | [nanaelie](https://github.com/nanaelie) | Nana Elie  | Burkina Faso / Bobo Dioulasso | 3,835 |
 | 8 | [spwoodcock](https://github.com/spwoodcock) | Sam | Ouagadougou, Burkina Faso | 3,646 |
 | 9 | [serge-eric-kalaga](https://github.com/serge-eric-kalaga) | KALAGA Serge Eric | Ouagadougou, Burkina Faso 🇧🇫 | 2,861 |
-| 10 | [ao627515](https://github.com/ao627515) | Abdoul Aziz Ouedraogo | Ouagadougou, Burkina Faso | 2,662 |
+| 10 | [ao627515](https://github.com/ao627515) | Abdoul Aziz Ouedraogo | Ouagadougou, Burkina Faso | 2,619 |
 | 11 | [ArielShadrac](https://github.com/ArielShadrac) | Ouedraogo Fildouindé Ariel Shadrac | Burkina Faso | 2,334 |
 | 12 | [danielschillem](https://github.com/danielschillem) | Daniel Schillem KARAMBIRI | Burkina Faso | 2,276 |
 | 13 | [PANK4SS](https://github.com/PANK4SS) | Pankassi Jean-Louis Rayane BICABA | Burkina Faso | 1,681 |
@@ -64,7 +64,7 @@ Indexed users: 487
 |---:|---|---|---|---:|
 | 1 | [Yonaba](https://github.com/Yonaba) | Roland | Ouagadougou (Burkina Faso) | 380 |
 | 2 | [Will-create](https://github.com/Will-create) | Louis Bertson | Burkina Faso | 169 |
-| 3 | [Heathclifffs](https://github.com/Heathclifffs) | Yipene Harold  BASSOLE | BURKINA FASO | 156 |
+| 3 | [Heathclifffs](https://github.com/Heathclifffs) | Yipene Harold  BASSOLE | BURKINA FASO | 160 |
 | 4 | [codebadolo](https://github.com/codebadolo) | Badolo Geofroy | Burkina Faso | 124 |
 | 5 | [Y4NN777](https://github.com/Y4NN777) | Ragnang-Newende Yanis Axel DABO | Burkina Faso | 119 |
 | 6 | [adamako](https://github.com/adamako) | Adama KO | Burkina Faso | 107 |
@@ -83,4 +83,4 @@ Indexed users: 487
 | 19 | [sokevinjonas](https://github.com/sokevinjonas) | SO Kevin Jonas Gningnabe | BURKINA FASO | 38 |
 | 20 | [kulturman](https://github.com/kulturman) | Arnaud Bakyono  | Ouagadougou | 37 |
 
-Generated: 2026-10-16T08:05:35.305Z
+Generated: 2026-10-16T09:28:53.137Z

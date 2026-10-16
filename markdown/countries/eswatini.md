@@ -13,7 +13,7 @@ Indexed users: 108
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [rapthar](https://github.com/rapthar) | Mncedisi Bhembe | Swaziland | 21,425 |
-| 2 | [Chasusa](https://github.com/Chasusa) | Paul Chasusa | Eswatini, Southern Africa | 1,763 |
+| 2 | [Chasusa](https://github.com/Chasusa) | Paul Chasusa | Eswatini, Southern Africa | 1,770 |
 | 3 | [Co-ordinator](https://github.com/Co-ordinator) | Coordinator | Manzini, Eswatini | 1,032 |
 | 4 | [CBahtaria](https://github.com/CBahtaria) | Charles Bartaria | Manzini, Kingdom of Eswatini | 1,007 |
 | 5 | [mayo23-06-02](https://github.com/mayo23-06-02) | Mayo | Eswatini | 702 |
@@ -56,7 +56,7 @@ Indexed users: 108
 | 17 | [CodehubNerd](https://github.com/CodehubNerd) | Culture | Swaziland | 41 |
 | 18 | [Fanelemenzi](https://github.com/Fanelemenzi) | Fanelesiyibonge Mabuza | Manzini, Swaziland | 39 |
 | 19 | [Sibakhe-Nyembe](https://github.com/Sibakhe-Nyembe) | SIBAKHE N. | Eswatini, Mbabane, Sidvwashini | 29 |
-| 20 | [Sdingo](https://github.com/Sdingo) | Phiwokuhle Sdingo Kunene | Eswatini | 28 |
+| 20 | [Celumusa91](https://github.com/Celumusa91) | Celumusa Fakudze  | Eswatini  | 27 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 108
 | 19 | [SakhileMamba](https://github.com/SakhileMamba) | Sakhile Mamba | Eswatini | 9 |
 | 20 | [allGhostAnon](https://github.com/allGhostAnon) | Lwazi Dlamini | Mbabane, Swaziland  | 8 |
 
-Generated: 2026-10-16T08:17:27.716Z
+Generated: 2026-10-16T09:40:10.526Z

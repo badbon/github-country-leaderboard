@@ -1,6 +1,6 @@
 # Total Contributions - Andorra
 
-Generated: 2026-10-16T07:57:54.831Z
+Generated: 2026-10-16T09:20:23.370Z
 
 Users: 214
 
@@ -16,9 +16,9 @@ Users: 214
 | 8 | [acastellana](https://github.com/acastellana) | Albert Castellana | @yeagerai | kstellana | Andorra | 5781 |
 | 9 | [alexmf91](https://github.com/alexmf91) | Alex Muñoz |  |  | Barcelona (Spain) \| Encamp (Andorra) | 5286 |
 | 10 | [tombrewsviews](https://github.com/tombrewsviews) | Tom Parandyk | Altramanera |  | Andorra | 5101 |
-| 11 | [marcalj](https://github.com/marcalj) | Marçal | Lizcore |  | Andorra | 5097 |
+| 11 | [marcalj](https://github.com/marcalj) | Marçal | Lizcore |  | Andorra | 5081 |
 | 12 | [jorge07](https://github.com/jorge07) | Jorge Arco | 90P Lab | Jorge__SVQ | Escaldes, Andorra | 4957 |
-| 13 | [cmarfil](https://github.com/cmarfil) | Cristian Marfil |  |  | Andorra | 4280 |
+| 13 | [cmarfil](https://github.com/cmarfil) | Cristian Marfil |  |  | Andorra | 4367 |
 | 14 | [cuva](https://github.com/cuva) | Hugo Cuvillier | Raycast |  | Andorra | 4236 |
 | 15 | [kopenkinda](https://github.com/kopenkinda) | Kopenkin Dmitrii | @salut-mercado  |  | Andorra | 4038 |
 | 16 | [sgirones](https://github.com/sgirones) | Salvador Gironès Gil |  |  | Andorra | 3464 |

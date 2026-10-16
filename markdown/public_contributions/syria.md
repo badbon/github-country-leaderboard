@@ -1,6 +1,6 @@
 # Public Contributions - Syria
 
-Generated: 2026-10-16T07:46:38.908Z
+Generated: 2026-10-16T09:06:53.302Z
 
 Users: 1480
 
@@ -16,10 +16,10 @@ Users: 1480
 | 8 | [royaraqamia](https://github.com/royaraqamia) | رؤيَة رقَميَّة | رؤيَة رقَميَّة |  | Syria | 1323 |
 | 9 | [Abdomghrbi](https://github.com/Abdomghrbi) | Abdullrahman almaghrabi | Freelancer | AbdoMaghrbi | Syria | 1250 |
 | 10 | [Hakam-aldeen-Kh](https://github.com/Hakam-aldeen-Kh) | Hakam aldeen Alkhadraa | Sham Logix |  | Syria | 1193 |
-| 11 | [firasuke](https://github.com/firasuke) | Firas Khana | @glaucuslinux  |  | Aleppo, Syria | 1156 |
-| 12 | [ali-talal-ibrahem](https://github.com/ali-talal-ibrahem) | Ali Talal Ibrahem |  |  | syria | 1153 |
-| 13 | [YAZAN420](https://github.com/YAZAN420) | YazanMahfooz |  |  | Syria | 1082 |
-| 14 | [DrAbdulmalek](https://github.com/DrAbdulmalek) | Dr Abdulmalek Al-Husseini |  |  | Syria | 1040 |
+| 11 | [DrAbdulmalek](https://github.com/DrAbdulmalek) | Dr Abdulmalek Al-Husseini |  |  | Syria | 1158 |
+| 12 | [firasuke](https://github.com/firasuke) | Firas Khana | @glaucuslinux  |  | Aleppo, Syria | 1156 |
+| 13 | [ali-talal-ibrahem](https://github.com/ali-talal-ibrahem) | Ali Talal Ibrahem |  |  | syria | 1153 |
+| 14 | [YAZAN420](https://github.com/YAZAN420) | YazanMahfooz |  |  | Syria | 1082 |
 | 15 | [AliMohammadDev](https://github.com/AliMohammadDev) | Ali Mohammad |  |  | Syria | 991 |
 | 16 | [amurru](https://github.com/amurru) | Ammar Zerouk |  |  | Syria | 960 |
 | 17 | [AbdSattout](https://github.com/AbdSattout) | Abd Sattout |  |  | Syria | 918 |

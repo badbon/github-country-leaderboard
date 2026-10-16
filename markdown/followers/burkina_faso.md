@@ -1,6 +1,6 @@
 # Followers - Burkina Faso
 
-Generated: 2026-10-16T08:05:35.305Z
+Generated: 2026-10-16T09:28:53.137Z
 
 Users: 487
 
@@ -8,7 +8,7 @@ Users: 487
 |---:|---|---|---|---|---|---:|
 | 1 | [Yonaba](https://github.com/Yonaba) | Roland | 2iE | RYonaba | Ouagadougou (Burkina Faso) | 380 |
 | 2 | [Will-create](https://github.com/Will-create) | Louis Bertson | @totaljs  | LouisBertson | Burkina Faso | 169 |
-| 3 | [Heathclifffs](https://github.com/Heathclifffs) | Yipene Harold  BASSOLE |  |  | BURKINA FASO | 156 |
+| 3 | [Heathclifffs](https://github.com/Heathclifffs) | Yipene Harold  BASSOLE |  |  | BURKINA FASO | 160 |
 | 4 | [codebadolo](https://github.com/codebadolo) | Badolo Geofroy | carythmaosc |  | Burkina Faso | 124 |
 | 5 | [Y4NN777](https://github.com/Y4NN777) | Ragnang-Newende Yanis Axel DABO | @Y7-Labs  |  | Burkina Faso | 119 |
 | 6 | [adamako](https://github.com/adamako) | Adama KO | Declic |  | Burkina Faso | 107 |

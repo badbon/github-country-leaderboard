@@ -43,7 +43,7 @@ Indexed users: 727
 | 4 | [UnbreakableMJ](https://github.com/UnbreakableMJ) | Mohamed Hammad | Bahrain | 2,712 |
 | 5 | [fatema-maitham](https://github.com/fatema-maitham) | Fatema Maitham | Bahrain | 2,688 |
 | 6 | [ov-tron](https://github.com/ov-tron) | ov - Tron | Amwaj, Bahrain | 1,904 |
-| 7 | [masterde](https://github.com/masterde) | Baker | Bahrain, Muharraq | 1,441 |
+| 7 | [masterde](https://github.com/masterde) | Baker | Bahrain, Muharraq | 1,489 |
 | 8 | [aldoyh](https://github.com/aldoyh) | Hasan AlDoy | Al Muharraq, Bahrain | 1,272 |
 | 9 | [sfoulad](https://github.com/sfoulad) | Sameh Foulad | Bahrain | 893 |
 | 10 | [read2see](https://github.com/read2see) | Husain Habib | Bahrain | 888 |
@@ -81,6 +81,6 @@ Indexed users: 727
 | 17 | [veno](https://github.com/veno) | Venomous Committer | Bahrain | 45 |
 | 18 | [akhaled01](https://github.com/akhaled01) | Abdulrahman Idrees | Manama, Bahrain | 43 |
 | 19 | [f-9t9it](https://github.com/f-9t9it) | 9T9 IT | Bahrain | 42 |
-| 20 | [ameenaltajer](https://github.com/ameenaltajer) | Ameen Altajer | Bahrain | 39 |
+| 20 | [masterde](https://github.com/masterde) | Baker | Bahrain, Muharraq | 40 |
 
-Generated: 2026-10-16T08:00:44.249Z
+Generated: 2026-10-16T09:22:58.484Z
