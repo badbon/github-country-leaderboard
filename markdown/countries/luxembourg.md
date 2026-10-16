@@ -43,7 +43,7 @@ Indexed users: 2,189
 | 4 | [AbdallahCoptan](https://github.com/AbdallahCoptan) | Abdallah IBRAHIM | Luxembourg | 4,379 |
 | 5 | [EuphoriaLux](https://github.com/EuphoriaLux) | Twisto | Luxembourg | 3,960 |
 | 6 | [dbarzin](https://github.com/dbarzin) | Didier Barzin | Luxembourg | 3,817 |
-| 7 | [erkobridee](https://github.com/erkobridee) | Erko Bridee | Luxembourg | 3,707 |
+| 7 | [erkobridee](https://github.com/erkobridee) | Erko Bridee | Luxembourg | 3,634 |
 | 8 | [ArmenSl](https://github.com/ArmenSl) | ArmenSL | Luxembourg | 3,193 |
 | 9 | [fxmartin](https://github.com/fxmartin) | François-Xavier Martin | Luxembourg | 3,159 |
 | 10 | [Sashimee](https://github.com/Sashimee) | Alex | Luxembourg | 2,255 |
@@ -79,8 +79,8 @@ Indexed users: 2,189
 | 15 | [Sn0wAlice](https://github.com/Sn0wAlice) | Alice Snow | Luxembourg | 256 |
 | 16 | [iglocska](https://github.com/iglocska) | Andras Iklody | Luxembourg | 229 |
 | 17 | [AndrejOrsula](https://github.com/AndrejOrsula) | Andrej Orsula | Luxembourg | 223 |
-| 18 | [erkobridee](https://github.com/erkobridee) | Erko Bridee | Luxembourg | 213 |
+| 18 | [erkobridee](https://github.com/erkobridee) | Erko Bridee | Luxembourg | 212 |
 | 19 | [l4rz](https://github.com/l4rz) | Mike K. | Luxembourg | 197 |
 | 20 | [urosolia](https://github.com/urosolia) | Ugo Rosolia | Luxembourg, Lux | 192 |
 
-Generated: 2026-10-16T05:51:34.786Z
+Generated: 2026-10-16T07:15:09.888Z

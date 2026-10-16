@@ -1,6 +1,6 @@
 # Total Contributions - Palestine
 
-Generated: 2026-10-16T06:10:55.017Z
+Generated: 2026-10-16T07:28:01.170Z
 
 Users: 2198
 
@@ -18,11 +18,11 @@ Users: 2198
 | 10 | [izadoesdev](https://github.com/izadoesdev) | iza | Databuddy | izadoesdev | Palestine | 7373 |
 | 11 | [1210395](https://github.com/1210395) | Jadallah  | BZU |  | Ramallah | 6823 |
 | 12 | [salahy](https://github.com/salahy) | Salah Yahya |  |  | Palestine | 6501 |
-| 13 | [abusalameh](https://github.com/abusalameh) | Raja Abu Salameh |  |  | Jenin, Palestine | 6010 |
-| 14 | [moustff](https://github.com/moustff) | Mustafa Salem | NADSOFT |  | Gaza, Palestine. | 5401 |
-| 15 | [moejehad](https://github.com/moejehad) | Mohammed Almadhoun |  |  | Palestine | 5026 |
-| 16 | [IsmailAAmassi](https://github.com/IsmailAAmassi) | Ismail A. Amassi | @onestudio-co  | ismailaamassi | Palestine, Gaza Strip | 4747 |
-| 17 | [farahty](https://github.com/farahty) | Nimer Farahty | FASTME |  | Palestine | 4300 |
-| 18 | [Mahmoud-Skafi](https://github.com/Mahmoud-Skafi) | Mahmoud skafi |  | MahmouSkafi | Palestine, Hebron   | 4125 |
-| 19 | [zaqoutabed](https://github.com/zaqoutabed) | Abdallah A. Zaqout |  | abdallahzaqout0 | Gaza, Palestine | 4113 |
-| 20 | [Amoodaa](https://github.com/Amoodaa) | Imad Shatali | @Captur  |  | Palestine, Gaza | 4084 |
+| 13 | [skmail](https://github.com/skmail) |  |  | SolaimanKmail | Palestine | 6410 |
+| 14 | [abusalameh](https://github.com/abusalameh) | Raja Abu Salameh |  |  | Jenin, Palestine | 6010 |
+| 15 | [moustff](https://github.com/moustff) | Mustafa Salem | NADSOFT |  | Gaza, Palestine. | 5401 |
+| 16 | [moejehad](https://github.com/moejehad) | Mohammed Almadhoun |  |  | Palestine | 5026 |
+| 17 | [IsmailAAmassi](https://github.com/IsmailAAmassi) | Ismail A. Amassi | @onestudio-co  | ismailaamassi | Palestine, Gaza Strip | 4747 |
+| 18 | [farahty](https://github.com/farahty) | Nimer Farahty | FASTME |  | Palestine | 4300 |
+| 19 | [marayshi](https://github.com/marayshi) | Mohammed Alarayshi |  |  | Gaza, Palestine | 4137 |
+| 20 | [Mahmoud-Skafi](https://github.com/Mahmoud-Skafi) | Mahmoud skafi |  | MahmouSkafi | Palestine, Hebron   | 4125 |

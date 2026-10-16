@@ -1,8 +1,8 @@
 # Public Contributions - Malaysia
 
-Generated: 2026-10-16T05:54:20.443Z
+Generated: 2026-10-16T07:16:45.123Z
 
-Users: 11802
+Users: 11801
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -12,9 +12,9 @@ Users: 11802
 | 4 | [AqwamCreates](https://github.com/AqwamCreates) | Aqwam Harish Aiman | University Of Nottingham (Malaysia Campus) |  | Malaysia | 12827 |
 | 5 | [melvinchia3636](https://github.com/melvinchia3636) | Melvin Chia |  |  | Johor, Malaysia | 9221 |
 | 6 | [farhan-syah](https://github.com/farhan-syah) | Farhan Syah |  | farhansyah90 | Malaysia | 8321 |
-| 7 | [data-gov-my](https://github.com/data-gov-my) | data.gov.my |  |  | Putrajaya, Malaysia | 7747 |
-| 8 | [AlaskanTuna](https://github.com/AlaskanTuna) | Hee Zi Jie |  |  | Bukit Jalil, Kuala Lumpur | 7538 |
-| 9 | [syarief02](https://github.com/syarief02) | Syarief Azman | National Pharmaceutical Regulatory Agency | syariefazman | Malaysia | 7057 |
+| 7 | [syarief02](https://github.com/syarief02) | Syarief Azman | National Pharmaceutical Regulatory Agency | syariefazman | Malaysia | 8015 |
+| 8 | [data-gov-my](https://github.com/data-gov-my) | data.gov.my |  |  | Putrajaya, Malaysia | 7747 |
+| 9 | [AlaskanTuna](https://github.com/AlaskanTuna) | Hee Zi Jie |  |  | Bukit Jalil, Kuala Lumpur | 7538 |
 | 10 | [ariffazil](https://github.com/ariffazil) | ariffazil |  | ArifFazil90 | Malaysia | 6700 |
 | 11 | [red1oon](https://github.com/red1oon) | Redhuan D. Oon |  |  | Kuala Lumpur, Malaysia | 6390 |
 | 12 | [afandiazmi](https://github.com/afandiazmi) | Afandi Azmi |  |  | Malaysia | 6304 |

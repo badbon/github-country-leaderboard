@@ -1,6 +1,6 @@
 # Romania
 
-Indexed users: 14,981
+Indexed users: 14,980
 
 | Leaderboard | Link |
 |---|---|
@@ -14,9 +14,9 @@ Indexed users: 14,981
 |---:|---|---|---|---:|
 | 1 | [enzoblackia](https://github.com/enzoblackia) | Lorenzo Leone | Bucharest | 83,642 |
 | 2 | [eduardg7](https://github.com/eduardg7) | Eduard G | Bucharest | 36,418 |
-| 3 | [0-vortex](https://github.com/0-vortex) | TED Vortex (Teodor-Eugen Duțulescu) | Romania | 34,226 |
-| 4 | [razvandimescu](https://github.com/razvandimescu) | Razvan Dimescu | Craiova, Romania | 23,800 |
-| 5 | [suciumarius](https://github.com/suciumarius) | Marius-Cornel Suciu | Romania | 23,346 |
+| 3 | [suciumarius](https://github.com/suciumarius) | Marius-Cornel Suciu | Romania | 35,283 |
+| 4 | [0-vortex](https://github.com/0-vortex) | TED Vortex (Teodor-Eugen Duțulescu) | Romania | 34,226 |
+| 5 | [razvandimescu](https://github.com/razvandimescu) | Razvan Dimescu | Craiova, Romania | 23,800 |
 | 6 | [mihaipxm](https://github.com/mihaipxm) | Mihai Ungureanu | Romania | 23,002 |
 | 7 | [zenprocess](https://github.com/zenprocess) | Zen Process | Bucharest, Romania | 19,586 |
 | 8 | [algunion](https://github.com/algunion) | Marius Fersigan | Romania | 18,770 |
@@ -83,4 +83,4 @@ Indexed users: 14,981
 | 19 | [alexandru-paduraru](https://github.com/alexandru-paduraru) | Alex Paduraru | Bucharest | 600 |
 | 20 | [ovidiuch](https://github.com/ovidiuch) | Ovidiu Cherecheș | Cluj-Napoca, Romania | 582 |
 
-Generated: 2026-10-16T06:13:51.967Z
+Generated: 2026-10-16T07:32:47.665Z

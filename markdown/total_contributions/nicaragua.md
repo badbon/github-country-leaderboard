@@ -1,6 +1,6 @@
 # Total Contributions - Nicaragua
 
-Generated: 2026-10-16T06:06:17.326Z
+Generated: 2026-10-16T07:23:28.744Z
 
 Users: 1394
 
@@ -20,7 +20,7 @@ Users: 1394
 | 12 | [victorstein](https://github.com/victorstein) | Alfonso Emilio Gomez Selva | CleverTech |  | Nicaragua | 4103 |
 | 13 | [degomon](https://github.com/degomon) | Denis González |  | degomondev | Nicaragua | 4085 |
 | 14 | [ElVatoEste](https://github.com/ElVatoEste) | VatoDev | @EscaliaTech  |  | Nicaragua | 3996 |
-| 15 | [fabmnt](https://github.com/fabmnt) | Fabián Montoya | Dentalrobot | fabmnt_ | Nicaragua | 3723 |
+| 15 | [fabmnt](https://github.com/fabmnt) | Fabián Montoya | Dentalrobot | fabmnt_ | Nicaragua | 3759 |
 | 16 | [ernestoruiz89](https://github.com/ernestoruiz89) | Ernesto Ruiz |  | ernestoruiz89 | Nicaragua | 3655 |
 | 17 | [paulomcnally](https://github.com/paulomcnally) | Paulo McNally | @mcnallydev  |  | Mangua, Nicaragua | 3536 |
 | 18 | [Steven-Mendez](https://github.com/Steven-Mendez) | Steven Mendez |  |  | Managua, Nicaragua | 3423 |

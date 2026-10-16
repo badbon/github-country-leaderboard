@@ -1,13 +1,13 @@
 # Total Contributions - Liberia
 
-Generated: 2026-10-16T05:50:46.852Z
+Generated: 2026-10-16T07:13:57.838Z
 
 Users: 210
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [FranklinD10](https://github.com/FranklinD10) | FrApps | FrApps |  | Liberia | 7806 |
-| 2 | [RA9](https://github.com/RA9) | Carlos S. Nah  |  | rademejs | Liberia  | 5316 |
+| 2 | [RA9](https://github.com/RA9) | Carlos S. Nah  |  | rademejs | Liberia  | 5342 |
 | 3 | [cruso003](https://github.com/cruso003) | Geitodyu Henrique Crusoe |  | CrusoeHenrique | Paynesville, Liberia | 4241 |
 | 4 | [Forratino21](https://github.com/Forratino21) | Courage J. F. T Chileegbo | CYGEC IT SOLUTIONS |  | Liberia | 3317 |
 | 5 | [Abayoh](https://github.com/Abayoh) | Alexander Bayoh | Cable Consortium of Liberia |  | Monrovia, Liberia | 2958 |
@@ -25,4 +25,4 @@ Users: 210
 | 17 | [jdaltonll02](https://github.com/jdaltonll02) | John Dalton Gibson | Vendorad |  | Liberia | 791 |
 | 18 | [efmomoh](https://github.com/efmomoh) | ENSSAH FAYIA MOMOH | FRONT-END DEVELOPER | efmomoh | Monrovia, Liberia | 719 |
 | 19 | [Prodigy-J](https://github.com/Prodigy-J) | Jerome N Tokpa |  | knasumo | Monrovia, Liberia | 629 |
-| 20 | [xarrijorge](https://github.com/xarrijorge) | The African Nomad |  | xarrijorge | Monrovia, Liberia | 624 |
+| 20 | [xarrijorge](https://github.com/xarrijorge) | The African Nomad |  | xarrijorge | Monrovia, Liberia | 628 |

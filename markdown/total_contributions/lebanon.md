@@ -1,8 +1,8 @@
 # Total Contributions - Lebanon
 
-Generated: 2026-10-16T05:49:39.301Z
+Generated: 2026-10-16T07:13:50.671Z
 
-Users: 2563
+Users: 2562
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -21,8 +21,8 @@ Users: 2563
 | 13 | [mhdbouk](https://github.com/mhdbouk) | Mohamad Dbouk |  | mhdbouk | Beirut, Lebanon | 7264 |
 | 14 | [MohammadKanaan](https://github.com/MohammadKanaan) | Mohammad Kanaan |  |  | Lebanon | 6600 |
 | 15 | [mincer-fundbot](https://github.com/mincer-fundbot) | Mincer Alaeddine | Fundbot |  | Beirut | 6452 |
-| 16 | [MrPancakes39](https://github.com/MrPancakes39) | Sal Hasan |  |  | Aley, Lebanon | 6170 |
-| 17 | [shahednasser](https://github.com/shahednasser) | Shahed Nasser | @medusajs | _shahednasser | Aaramoun, Lebanon | 5981 |
-| 18 | [MohamadMoheb](https://github.com/MohamadMoheb) | Mohamad Moheb | Personal |  | Rmeileh, Lebanon | 5892 |
-| 19 | [Kaakati](https://github.com/Kaakati) | Mohamad Kaakati | @manifest @barqfleet @thaat | kaakati | Beirut, Lebanon | 5864 |
-| 20 | [elie-chaaban](https://github.com/elie-chaaban) | Elie Chaaban | ZainTECH at Zain Group |  | Beirut, Lebanon | 5619 |
+| 16 | [SyntaxError843](https://github.com/SyntaxError843) |  | @ucheed  |  | Lebanon, Beirut | 6431 |
+| 17 | [MrPancakes39](https://github.com/MrPancakes39) | Sal Hasan |  |  | Aley, Lebanon | 6170 |
+| 18 | [shahednasser](https://github.com/shahednasser) | Shahed Nasser | @medusajs | _shahednasser | Aaramoun, Lebanon | 5981 |
+| 19 | [MohamadMoheb](https://github.com/MohamadMoheb) | Mohamad Moheb | Personal |  | Rmeileh, Lebanon | 5892 |
+| 20 | [Kaakati](https://github.com/Kaakati) | Mohamad Kaakati | @manifest @barqfleet @thaat | kaakati | Beirut, Lebanon | 5864 |

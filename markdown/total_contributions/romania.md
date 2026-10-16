@@ -1,16 +1,16 @@
 # Total Contributions - Romania
 
-Generated: 2026-10-16T06:13:51.967Z
+Generated: 2026-10-16T07:32:47.665Z
 
-Users: 14981
+Users: 14980
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [enzoblackia](https://github.com/enzoblackia) | Lorenzo Leone |  |  | Bucharest | 83642 |
 | 2 | [eduardg7](https://github.com/eduardg7) | Eduard G |  |  | Bucharest | 36418 |
-| 3 | [0-vortex](https://github.com/0-vortex) | TED Vortex (Teodor-Eugen Duțulescu) | BuildOps | 0_vortex | Romania | 34226 |
-| 4 | [razvandimescu](https://github.com/razvandimescu) | Razvan Dimescu | Rinkt.com |  | Craiova, Romania | 23800 |
-| 5 | [suciumarius](https://github.com/suciumarius) | Marius-Cornel Suciu |  |  | Romania | 23346 |
+| 3 | [suciumarius](https://github.com/suciumarius) | Marius-Cornel Suciu |  |  | Romania | 35283 |
+| 4 | [0-vortex](https://github.com/0-vortex) | TED Vortex (Teodor-Eugen Duțulescu) | BuildOps | 0_vortex | Romania | 34226 |
+| 5 | [razvandimescu](https://github.com/razvandimescu) | Razvan Dimescu | Rinkt.com |  | Craiova, Romania | 23800 |
 | 6 | [mihaipxm](https://github.com/mihaipxm) | Mihai Ungureanu | @pxmstudio |  | Romania | 23002 |
 | 7 | [zenprocess](https://github.com/zenprocess) | Zen Process | @Zen-Process  |  | Bucharest, Romania | 19586 |
 | 8 | [algunion](https://github.com/algunion) | Marius Fersigan |  | algunion | Romania | 18770 |

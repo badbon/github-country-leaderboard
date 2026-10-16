@@ -1,6 +1,6 @@
 # Public Contributions - New Caledonia
 
-Generated: 2026-10-16T06:06:07.198Z
+Generated: 2026-10-16T07:23:19.077Z
 
 Users: 111
 
@@ -14,8 +14,8 @@ Users: 111
 | 6 | [PLStenger](https://github.com/PLStenger) | Pierre-Louis Stenger | New-Caledonian Agronomic Institute - IAC |  | Nouméa, New-Caledonia | 451 |
 | 7 | [jchable](https://github.com/jchable) | Julien CHABLE | NC IT |  | Nouméa | 371 |
 | 8 | [Nem0oo](https://github.com/Nem0oo) | Guillaume COURTOT | none |  | New-Caledonia | 371 |
-| 9 | [loxK](https://github.com/loxK) | Laurent Dinclaux | Gecka |  | New Caledonia | 341 |
-| 10 | [aNaoy](https://github.com/aNaoy) | Yoan Agostini |  |  | Nouméa | 340 |
+| 9 | [loxK](https://github.com/loxK) | Laurent Dinclaux | Gecka |  | New Caledonia | 342 |
+| 10 | [aNaoy](https://github.com/aNaoy) | Yoan Agostini |  |  | Nouméa | 341 |
 | 11 | [ahyolia](https://github.com/ahyolia) | Camélia AMIN HANDOYO |  |  | New Caledonia | 263 |
 | 12 | [ellisp](https://github.com/ellisp) | Peter Ellis | Pacific Community \| Communauté de Pacifique |  | Nouméa, Nouvelle-Calédonie | 224 |
 | 13 | [TooFuW](https://github.com/TooFuW) | Eyrian Muet |  |  | New- Caledonia | 216 |

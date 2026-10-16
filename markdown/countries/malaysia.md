@@ -1,6 +1,6 @@
 # Malaysia
 
-Indexed users: 11,802
+Indexed users: 11,801
 
 | Leaderboard | Link |
 |---|---|
@@ -30,8 +30,8 @@ Indexed users: 11,802
 | 16 | [Marxz13](https://github.com/Marxz13) | Marz | Malaysia | 13,140 |
 | 17 | [AqwamCreates](https://github.com/AqwamCreates) | Aqwam Harish Aiman | Malaysia | 12,827 |
 | 18 | [aabeds](https://github.com/aabeds) | Syed Safwan | Malaysia | 12,115 |
-| 19 | [bernardcheah](https://github.com/bernardcheah) | Bernard Cheah | Penang, Malaysia | 11,173 |
-| 20 | [0xYudhishthra](https://github.com/0xYudhishthra) | Yudhishthra Sugumaran | Malaysia | 10,928 |
+| 19 | [syarief02](https://github.com/syarief02) | Syarief Azman | Malaysia | 11,369 |
+| 20 | [bernardcheah](https://github.com/bernardcheah) | Bernard Cheah | Penang, Malaysia | 11,173 |
 
 ## Public Contributions
 
@@ -43,9 +43,9 @@ Indexed users: 11,802
 | 4 | [AqwamCreates](https://github.com/AqwamCreates) | Aqwam Harish Aiman | Malaysia | 12,827 |
 | 5 | [melvinchia3636](https://github.com/melvinchia3636) | Melvin Chia | Johor, Malaysia | 9,221 |
 | 6 | [farhan-syah](https://github.com/farhan-syah) | Farhan Syah | Malaysia | 8,321 |
-| 7 | [data-gov-my](https://github.com/data-gov-my) | data.gov.my | Putrajaya, Malaysia | 7,747 |
-| 8 | [AlaskanTuna](https://github.com/AlaskanTuna) | Hee Zi Jie | Bukit Jalil, Kuala Lumpur | 7,538 |
-| 9 | [syarief02](https://github.com/syarief02) | Syarief Azman | Malaysia | 7,057 |
+| 7 | [syarief02](https://github.com/syarief02) | Syarief Azman | Malaysia | 8,015 |
+| 8 | [data-gov-my](https://github.com/data-gov-my) | data.gov.my | Putrajaya, Malaysia | 7,747 |
+| 9 | [AlaskanTuna](https://github.com/AlaskanTuna) | Hee Zi Jie | Bukit Jalil, Kuala Lumpur | 7,538 |
 | 10 | [ariffazil](https://github.com/ariffazil) | ariffazil | Malaysia | 6,700 |
 | 11 | [red1oon](https://github.com/red1oon) | Redhuan D. Oon | Kuala Lumpur, Malaysia | 6,390 |
 | 12 | [afandiazmi](https://github.com/afandiazmi) | Afandi Azmi | Malaysia | 6,304 |
@@ -68,19 +68,19 @@ Indexed users: 11,802
 | 4 | [bluwy](https://github.com/bluwy) | Bjorn Lu | Kuching, Sarawak, Malaysia | 1,648 |
 | 5 | [Shamim-Al-Mamun](https://github.com/Shamim-Al-Mamun) | Mamun | Kuala Lumpur, Malaysia | 1,592 |
 | 6 | [katiehuangx](https://github.com/katiehuangx) | Katie Huang | Malaysia | 1,520 |
-| 7 | [Innocentsax](https://github.com/Innocentsax) | INNOCENT UDO  | Kuala Lumpur, Malaysia | 1,357 |
-| 8 | [zernonia](https://github.com/zernonia) | zernonia | Malaysia | 949 |
-| 9 | [mahmudahsan](https://github.com/mahmudahsan) | Mahmud Ahsan | Cyberjaya, Malaysia | 878 |
-| 10 | [sanikkenway](https://github.com/sanikkenway) | Nik Saiful Anuar | Kuala Lumpur, Malaysia | 843 |
-| 11 | [limxuan](https://github.com/limxuan) | Lim Xuan | Malaysia | 748 |
-| 12 | [MoH-Malaysia](https://github.com/MoH-Malaysia) | Ministry of Health Malaysia | Putrajaya, Malaysia | 687 |
-| 13 | [dFarkhod](https://github.com/dFarkhod) | Farkhod | Malaysia | 588 |
-| 14 | [barzin144](https://github.com/barzin144) |  | Kuala Lumpur, Malaysia | 587 |
-| 15 | [iChun](https://github.com/iChun) | iChun | Malaysia | 508 |
-| 16 | [zhamri](https://github.com/zhamri) | Zhamri Che Ani | Malaysia | 488 |
+| 7 | [zernonia](https://github.com/zernonia) | zernonia | Malaysia | 949 |
+| 8 | [mahmudahsan](https://github.com/mahmudahsan) | Mahmud Ahsan | Cyberjaya, Malaysia | 878 |
+| 9 | [sanikkenway](https://github.com/sanikkenway) | Nik Saiful Anuar | Kuala Lumpur, Malaysia | 843 |
+| 10 | [limxuan](https://github.com/limxuan) | Lim Xuan | Malaysia | 748 |
+| 11 | [MoH-Malaysia](https://github.com/MoH-Malaysia) | Ministry of Health Malaysia | Putrajaya, Malaysia | 687 |
+| 12 | [dFarkhod](https://github.com/dFarkhod) | Farkhod | Malaysia | 588 |
+| 13 | [barzin144](https://github.com/barzin144) |  | Kuala Lumpur, Malaysia | 587 |
+| 14 | [iChun](https://github.com/iChun) | iChun | Malaysia | 508 |
+| 15 | [zhamri](https://github.com/zhamri) | Zhamri Che Ani | Malaysia | 488 |
+| 16 | [syarief02](https://github.com/syarief02) | Syarief Azman | Malaysia | 481 |
 | 17 | [ahmadhanis](https://github.com/ahmadhanis) | Ahmad Hanis | UUM Sintok, Kedah, Malaysia | 478 |
 | 18 | [JasonKhew96](https://github.com/JasonKhew96) | Js0n | Malaysia, Negeri Sembilan | 464 |
-| 19 | [syarief02](https://github.com/syarief02) | Syarief Azman | Malaysia | 458 |
-| 20 | [Zeyad-Azima](https://github.com/Zeyad-Azima) | Zer0verflow | Malaysia | 439 |
+| 19 | [Zeyad-Azima](https://github.com/Zeyad-Azima) | Zer0verflow | Malaysia | 439 |
+| 20 | [RamadhanAmizudin](https://github.com/RamadhanAmizudin) | Ramadhan Amizudin | Malaysia | 401 |
 
-Generated: 2026-10-16T05:54:20.443Z
+Generated: 2026-10-16T07:16:45.123Z
