@@ -1,6 +1,6 @@
 # Followers - Somalia
 
-Generated: 2026-10-16T20:23:35.632Z
+Generated: 2026-10-16T21:52:42.301Z
 
 Users: 867
 
@@ -10,7 +10,7 @@ Users: 867
 | 2 | [omartood](https://github.com/omartood) | Omar Tood | Instructor & Researcher At @goobolabs | omartoodAIR | Somalia | 582 |
 | 3 | [Sharmasheeno](https://github.com/Sharmasheeno) | Sharmake Hassan | sharmacadenuur2017@gmail.com | formula_crazy | Somalia-Mogadishu  | 542 |
 | 4 | [ahmed-moha](https://github.com/ahmed-moha) | Ahmed Mohamed Abdulkadir | Jamhuriya Technology Solutions | Ahmeddhaqan | Mogadishu, Somalia | 343 |
-| 5 | [MohamedAbdiaziz](https://github.com/MohamedAbdiaziz) | Mohamed Abdiaziz |  |  | Somalia  | 327 |
+| 5 | [MohamedAbdiaziz](https://github.com/MohamedAbdiaziz) | Mohamed Abdiaziz |  |  | Somalia  | 329 |
 | 6 | [Cabdulahi](https://github.com/Cabdulahi) | Cabdulahi Sharif | Hormuud | Cabdula18395654 | Mogadishu | 282 |
 | 7 | [LibanMoo](https://github.com/LibanMoo) | Liban Hussein | Somali International University |  | Somalia | 249 |
 | 8 | [munniomer](https://github.com/munniomer) | Munira Omar |  | munniomer | Mogadishu, Somalia | 244 |
@@ -22,7 +22,7 @@ Users: 867
 | 14 | [engabdullah-2024](https://github.com/engabdullah-2024) | Abdullah Ali | Co-Founder & Lead Dev Of TTMCHANGE  | enga95311 | Somalia | 130 |
 | 15 | [hanad124](https://github.com/hanad124) | Hanad Mohamed Dahir | @bulsho-development-bank |  | Mogadishu \| Somalia | 118 |
 | 16 | [Manka-Mohamet](https://github.com/Manka-Mohamet) | عبد الرحمان محمد |  |  | Somalia | 113 |
-| 17 | [ENG-CJ](https://github.com/ENG-CJ) | Abdulrahman | Tabaarak ICT Solutions |  | Mogdisho,banadir,somalia | 112 |
-| 18 | [saiid20k](https://github.com/saiid20k) | سعيد عبدالله | Freelancer  | saiid20k | somalia | 108 |
+| 17 | [ENG-CJ](https://github.com/ENG-CJ) | Abdulrahman | Tabaarak ICT Solutions |  | Mogdisho,banadir,somalia | 111 |
+| 18 | [saiid20k](https://github.com/saiid20k) | سعيد عبدالله | Freelancer  | saiid20k | somalia | 106 |
 | 19 | [Hasson23](https://github.com/Hasson23) | Hassan Abdullah   | 4Tech Solutions | hassan3ar | Somalia - Mogadishu  | 100 |
 | 20 | [AbdifatahYasin1](https://github.com/AbdifatahYasin1) | Abdifatah Yasin Yusuf | Full Stack Developer | CabdifataaxYy | Somalia, Hargeisa  | 96 |

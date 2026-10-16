@@ -55,8 +55,8 @@ Indexed users: 4,666
 | 16 | [alvianzf](https://github.com/alvianzf) | Alvian Zachry Faturrahman | Tanjungpinang, Batam, Karimun, Bratislava | 2,610 |
 | 17 | [mont127](https://github.com/mont127) | mont127 | Slovakia | 2,492 |
 | 18 | [janbodnar](https://github.com/janbodnar) | Jan Bodnar | Bratislava | 2,391 |
-| 19 | [PavolUlicny](https://github.com/PavolUlicny) | Pavol Ulicny | Bratislava  | 2,289 |
-| 20 | [deathbeam](https://github.com/deathbeam) | Tomas Slusny | Slovakia | 2,282 |
+| 19 | [Vanderhell](https://github.com/Vanderhell) | Vanderhell | Slovakia | 2,328 |
+| 20 | [PavolUlicny](https://github.com/PavolUlicny) | Pavol Ulicny | Bratislava  | 2,289 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 4,666
 | 19 | [Stiivi](https://github.com/Stiivi) | Stefan Urbanek | Bratislava | 280 |
 | 20 | [haad](https://github.com/haad) | Adam Hamsik | Bratislava Slovakia | 259 |
 
-Generated: 2026-10-16T20:22:19.207Z
+Generated: 2026-10-16T21:51:59.086Z
