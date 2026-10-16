@@ -240,18 +240,6 @@
     "createdAt": "2026-01-22T04:54:15Z"
   },
   {
-    "login": "minnkhantgd",
-    "name": "Minn Khant GD",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/254160351?s=72&u=9602d98fcd16d7363b1f05b6f492a31325fe40cc&v=4",
-    "location": "Yangon, Myanmar.",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2026-01-10T18:56:41Z"
-  },
-  {
     "login": "candasoft",
     "name": "Candasoft",
     "avatarUrl": "https://avatars.githubusercontent.com/u/276513217?s=72&u=1152e60aa81d4b2fb3b79a4efcea0d9461286a60&v=4",
@@ -306,9 +294,9 @@
     "location": "Yangon, Myanmar",
     "company": "NWHUB",
     "twitterUsername": "naywintx",
-    "followers": 96,
+    "followers": 97,
     "privateContributions": 0,
-    "publicContributions": 78,
+    "publicContributions": 71,
     "createdAt": "2025-07-20T12:04:33Z"
   },
   {
@@ -319,8 +307,8 @@
     "company": "Monisoft Development System",
     "twitterUsername": "",
     "followers": 46,
-    "privateContributions": 278,
-    "publicContributions": 566,
+    "privateContributions": 274,
+    "publicContributions": 523,
     "createdAt": "2025-01-19T07:14:06Z"
   },
   {
@@ -332,7 +320,7 @@
     "twitterUsername": "",
     "followers": 32,
     "privateContributions": 117,
-    "publicContributions": 739,
+    "publicContributions": 687,
     "createdAt": "2025-04-16T16:12:49Z"
   },
   {
@@ -344,19 +332,19 @@
     "twitterUsername": "",
     "followers": 15,
     "privateContributions": 0,
-    "publicContributions": 65,
+    "publicContributions": 51,
     "createdAt": "2025-10-01T13:32:04Z"
   },
   {
     "login": "kyaw-hlaing-soe-dev",
     "name": "Kyaw Hlaing Soe",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/224587467?s=72&u=805bd324d27ba848e5f63dfff17ef7554bcd6185&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/224587467?s=72&u=8bd48cbc7fbba16773a2c25a0afdbda3dce154f0&v=4",
     "location": "Mandalay, Myanmar",
     "company": "",
     "twitterUsername": "",
-    "followers": 19,
-    "privateContributions": 296,
-    "publicContributions": 599,
+    "followers": 21,
+    "privateContributions": 315,
+    "publicContributions": 685,
     "createdAt": "2025-08-04T13:12:58Z"
   },
   {
@@ -403,8 +391,8 @@
     "company": "Softcomm Techonology (KMD)",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 1504,
-    "publicContributions": 535,
+    "privateContributions": 1540,
+    "publicContributions": 520,
     "createdAt": "2025-01-03T16:07:57Z"
   },
   {
@@ -416,7 +404,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 224,
+    "publicContributions": 236,
     "createdAt": "2025-05-06T14:38:02Z"
   },
   {
@@ -426,9 +414,9 @@
     "location": "Mandalay,Myanmar",
     "company": "Team 404",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 55,
-    "publicContributions": 587,
+    "followers": 11,
+    "privateContributions": 51,
+    "publicContributions": 606,
     "createdAt": "2025-07-23T15:40:37Z"
   },
   {
@@ -450,22 +438,10 @@
     "location": "Myanmar",
     "company": "Pyae Phyo Aung",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2025-10-27T18:00:13Z"
-  },
-  {
-    "login": "maevik",
-    "name": "Maevik",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/197226691?s=72&u=62bc0a91d5884581f57941a78edc7caabe93ffa8&v=4",
-    "location": "Myanmar",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 26,
-    "publicContributions": 44,
-    "createdAt": "2025-01-31T07:11:37Z"
   },
   {
     "login": "DoloresAx",

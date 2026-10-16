@@ -25279,7 +25279,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 18,
+    "privateContributions": 15,
     "publicContributions": 0,
     "createdAt": "2021-05-30T09:16:23Z"
   },
@@ -25303,7 +25303,7 @@
     "company": "Skytrek Tandems Ltd",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 256,
+    "privateContributions": 194,
     "publicContributions": 0,
     "createdAt": "2021-06-17T08:45:14Z"
   },
@@ -25339,8 +25339,8 @@
     "company": "Titanite Corporation",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 602,
-    "publicContributions": 0,
+    "privateContributions": 3993,
+    "publicContributions": 3,
     "createdAt": "2021-03-03T07:57:34Z"
   },
   {
@@ -25376,7 +25376,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 72,
+    "publicContributions": 36,
     "createdAt": "2021-02-04T01:24:19Z"
   },
   {
@@ -25412,7 +25412,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2021-02-08T05:52:00Z"
   },
   {
@@ -25472,7 +25472,7 @@
     "twitterUsername": "ElBrayan92",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2021-06-03T13:18:40Z"
   },
   {
@@ -25482,7 +25482,7 @@
     "location": "New Zealand",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2021-06-17T02:44:31Z"
@@ -25490,13 +25490,13 @@
   {
     "login": "cknzraposo",
     "name": "Chandima",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/89893200?s=72&u=76f27c7d88bd28dc0aef86293eaeddfcd13c7ea8&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/89893200?s=72&u=be1e858fcca9c8c5721775a6b76eda561b73d0de&v=4",
     "location": "Wellington",
     "company": "@microsoft ",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 505,
-    "publicContributions": 178,
+    "followers": 13,
+    "privateContributions": 478,
+    "publicContributions": 167,
     "createdAt": "2021-09-01T04:13:38Z"
   },
   {

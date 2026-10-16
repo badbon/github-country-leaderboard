@@ -25520,7 +25520,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 87,
+    "publicContributions": 0,
     "createdAt": "2014-01-29T11:43:29Z"
   },
   {
@@ -25554,7 +25554,7 @@
     "location": "Ramallah",
     "company": "",
     "twitterUsername": "WajedAfaneh",
-    "followers": 10,
+    "followers": 9,
     "privateContributions": 0,
     "publicContributions": 10,
     "createdAt": "2014-03-09T12:19:14Z"
@@ -25567,8 +25567,8 @@
     "company": "@elastic",
     "twitterUsername": "AhmadBamieh",
     "followers": 152,
-    "privateContributions": 890,
-    "publicContributions": 230,
+    "privateContributions": 1374,
+    "publicContributions": 257,
     "createdAt": "2013-12-15T19:07:11Z"
   },
   {
@@ -25576,11 +25576,11 @@
     "name": "",
     "avatarUrl": "https://avatars.githubusercontent.com/u/3670810?s=72&u=418e200e286c293bd095fe6e88d527f467a1e1a3&v=4",
     "location": "Palestine",
-    "company": "letsmod",
+    "company": "",
     "twitterUsername": "SolaimanKmail",
-    "followers": 106,
-    "privateContributions": 2516,
-    "publicContributions": 60,
+    "followers": 107,
+    "privateContributions": 6347,
+    "publicContributions": 63,
     "createdAt": "2013-02-22T15:28:04Z"
   },
   {
@@ -25590,7 +25590,7 @@
     "location": "Palestine",
     "company": "",
     "twitterUsername": "",
-    "followers": 27,
+    "followers": 26,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-02-20T17:03:04Z"
@@ -25616,7 +25616,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 7,
     "createdAt": "2013-01-03T23:58:20Z"
   },
   {
@@ -25638,9 +25638,9 @@
     "location": "Palestine, Gaza Strip",
     "company": "",
     "twitterUsername": "MotazAlnuweiri",
-    "followers": 8,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 80,
+    "publicContributions": 146,
     "createdAt": "2013-05-26T11:55:10Z"
   },
   {
@@ -25662,8 +25662,8 @@
     "location": "Palestine",
     "company": "",
     "twitterUsername": "ahmadao",
-    "followers": 5,
-    "privateContributions": 567,
+    "followers": 6,
+    "privateContributions": 819,
     "publicContributions": 0,
     "createdAt": "2013-08-21T18:28:56Z"
   },
@@ -25675,7 +25675,7 @@
     "company": "@HarriLLC ",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 2252,
+    "privateContributions": 2239,
     "publicContributions": 0,
     "createdAt": "2013-08-12T16:45:26Z"
   },
@@ -25687,7 +25687,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 3558,
+    "privateContributions": 4135,
     "publicContributions": 2,
     "createdAt": "2013-09-17T21:31:03Z"
   },

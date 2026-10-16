@@ -25244,20 +25244,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2022-06-26T08:51:32Z"
-  },
-  {
-    "login": "PixelScape-official",
-    "name": "ABU SAYED",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/108888771?s=72&u=630b8bf9190ef529ddcb909c6f58254fda9105e2&v=4",
-    "location": "Saudi Arabia",
-    "company": "",
-    "twitterUsername": "abusayed_001",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2022-07-07T15:51:59Z"
   },
   {
     "login": "AhmedMohebM",
@@ -25267,7 +25255,7 @@
     "company": "International For Modern Industries",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 509,
+    "privateContributions": 488,
     "publicContributions": 7,
     "createdAt": "2022-04-23T00:46:47Z"
   },
@@ -25278,7 +25266,7 @@
     "location": "Saudi Arabia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-02-20T19:24:17Z"
@@ -25291,7 +25279,7 @@
     "company": "BSF",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 60,
+    "privateContributions": 58,
     "publicContributions": 0,
     "createdAt": "2022-10-02T11:37:05Z"
   },
@@ -25312,11 +25300,11 @@
     "name": "Jana Sandeyouni",
     "avatarUrl": "https://avatars.githubusercontent.com/u/114774799?s=72&u=53a982ef12ac6dc14f6a613947e11916ce6ae1a7&v=4",
     "location": "Jeddah, Saudi Arabia",
-    "company": "Luminary",
+    "company": "Luminary Mind Establishment",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 176,
-    "publicContributions": 84,
+    "followers": 2,
+    "privateContributions": 175,
+    "publicContributions": 33,
     "createdAt": "2022-09-30T19:44:00Z"
   },
   {
@@ -25327,21 +25315,9 @@
     "company": "@shiftproapp",
     "twitterUsername": "AssafAlakeel",
     "followers": 1,
-    "privateContributions": 99,
-    "publicContributions": 25,
+    "privateContributions": 243,
+    "publicContributions": 27,
     "createdAt": "2022-01-15T12:18:02Z"
-  },
-  {
-    "login": "tariq-almalki",
-    "name": "Tariq Almalki",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/98183416?s=72&u=6f407a402f7b367c3c584b60bacffcc8bd038d94&v=4",
-    "location": "Riyadh, Saudi Arabia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 2,
-    "publicContributions": 23,
-    "createdAt": "2022-01-21T18:33:37Z"
   },
   {
     "login": "KhanFaheed",
@@ -25350,9 +25326,9 @@
     "location": "Riyadh Saudi Arabia ",
     "company": "Tenhal",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 17,
     "createdAt": "2022-09-07T15:47:22Z"
   },
   {
