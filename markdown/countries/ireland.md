@@ -19,8 +19,8 @@ Indexed users: 19,507
 | 5 | [Leannelb](https://github.com/Leannelb) | LillyCode | Dublin, Ireland | 35,008 |
 | 6 | [fourk0](https://github.com/fourk0) | fourk0 | Ireland | 24,007 |
 | 7 | [ilvar](https://github.com/ilvar) | Arcady "RKD" Chumachenko | Dublin, Ireland | 23,479 |
-| 8 | [trakhimenok](https://github.com/trakhimenok) | Alexander Trakhimenok | Limerick, Ireland | 18,844 |
-| 9 | [MRiabov](https://github.com/MRiabov) | Maksym Riabov | Dublin, Ireland | 18,811 |
+| 8 | [MRiabov](https://github.com/MRiabov) | Maksym Riabov | Dublin, Ireland | 19,702 |
+| 9 | [trakhimenok](https://github.com/trakhimenok) | Alexander Trakhimenok | Limerick, Ireland | 18,844 |
 | 10 | [rjrodger](https://github.com/rjrodger) | Richard Rodger | Ireland | 18,498 |
 | 11 | [crivetimihai](https://github.com/crivetimihai) | Mihai Criveti | Dublin | 18,217 |
 | 12 | [looeee](https://github.com/looeee) | Lewy Blue | Ireland | 15,660 |
@@ -42,8 +42,8 @@ Indexed users: 19,507
 | 3 | [levindixon](https://github.com/levindixon) | Levin Dixon | Dublin, Ireland | 45,006 |
 | 4 | [fourk0](https://github.com/fourk0) | fourk0 | Ireland | 23,244 |
 | 5 | [rjrodger](https://github.com/rjrodger) | Richard Rodger | Ireland | 18,498 |
-| 6 | [Borealiscodes](https://github.com/Borealiscodes) | Borealis S Hedling | Dublin Ireland  | 13,567 |
-| 7 | [MRiabov](https://github.com/MRiabov) | Maksym Riabov | Dublin, Ireland | 13,445 |
+| 6 | [MRiabov](https://github.com/MRiabov) | Maksym Riabov | Dublin, Ireland | 13,624 |
+| 7 | [Borealiscodes](https://github.com/Borealiscodes) | Borealis S Hedling | Dublin Ireland  | 13,567 |
 | 8 | [guibranco](https://github.com/guibranco) | Guilherme Branco Stracini | Dublin, Ireland | 11,122 |
 | 9 | [notheotherben](https://github.com/notheotherben) | Benjamin Pannell | Dublin, Ireland | 10,701 |
 | 10 | [morganmcg1](https://github.com/morganmcg1) | Morgan McGuire | Dublin, Ireland | 10,243 |
@@ -83,4 +83,4 @@ Indexed users: 19,507
 | 19 | [damienmaguire](https://github.com/damienmaguire) | Damien Maguire | Ireland | 1,045 |
 | 20 | [afshinm](https://github.com/afshinm) | Afshin Mehrabani | Dublin, Ireland | 1,037 |
 
-Generated: 2026-10-16T02:40:50.884Z
+Generated: 2026-10-16T05:43:21.136Z

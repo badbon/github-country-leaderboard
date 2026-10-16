@@ -1,6 +1,6 @@
 # Total Contributions - Ireland
 
-Generated: 2026-10-16T02:40:50.884Z
+Generated: 2026-10-16T05:43:21.136Z
 
 Users: 19507
 
@@ -13,8 +13,8 @@ Users: 19507
 | 5 | [Leannelb](https://github.com/Leannelb) | LillyCode |  |  | Dublin, Ireland | 35008 |
 | 6 | [fourk0](https://github.com/fourk0) | fourk0 |  |  | Ireland | 24007 |
 | 7 | [ilvar](https://github.com/ilvar) | Arcady "RKD" Chumachenko |  |  | Dublin, Ireland | 23479 |
-| 8 | [trakhimenok](https://github.com/trakhimenok) | Alexander Trakhimenok |  |  | Limerick, Ireland | 18844 |
-| 9 | [MRiabov](https://github.com/MRiabov) | Maksym Riabov |  |  | Dublin, Ireland | 18811 |
+| 8 | [MRiabov](https://github.com/MRiabov) | Maksym Riabov |  |  | Dublin, Ireland | 19702 |
+| 9 | [trakhimenok](https://github.com/trakhimenok) | Alexander Trakhimenok |  |  | Limerick, Ireland | 18844 |
 | 10 | [rjrodger](https://github.com/rjrodger) | Richard Rodger |  |  | Ireland | 18498 |
 | 11 | [crivetimihai](https://github.com/crivetimihai) | Mihai Criveti | IBM | CrivetiMihai | Dublin | 18217 |
 | 12 | [looeee](https://github.com/looeee) | Lewy Blue | Discover three.js | lewy_blue | Ireland | 15660 |

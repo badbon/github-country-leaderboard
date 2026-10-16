@@ -1,6 +1,6 @@
 # Total Contributions - French Polynesia
 
-Generated: 2026-10-16T02:32:09.351Z
+Generated: 2026-10-16T05:33:21.980Z
 
 Users: 60
 
@@ -19,7 +19,7 @@ Users: 60
 | 11 | [syllebra](https://github.com/syllebra) | BilboX |  |  | French Polynesia | 128 |
 | 12 | [geoffguillain](https://github.com/geoffguillain) | Geoff | Automattic |  | French Polynesia | 65 |
 | 13 | [Apollo987](https://github.com/Apollo987) | Jerome B |  |  | French Polynesia | 64 |
-| 14 | [laurentpellet](https://github.com/laurentpellet) | Laurent PELLET | ispf.pf |  | French Polynesia | 49 |
+| 14 | [laurentpellet](https://github.com/laurentpellet) | Laurent PELLET | ispf.pf |  | French Polynesia | 46 |
 | 15 | [kavehei-lang](https://github.com/kavehei-lang) | Anastasia - HIKUTINI |  |  | Polynésie Française | 31 |
 | 16 | [teuna](https://github.com/teuna) | Teuna Ferrand |  |  | Tahiti, French Polynesia | 18 |
 | 17 | [AJamelot](https://github.com/AJamelot) | ajamelot | Laboratoire de Géophysique de Tahiti |  | Polynésie Française | 12 |

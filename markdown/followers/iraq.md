@@ -1,6 +1,6 @@
 # Followers - Iraq
 
-Generated: 2026-10-16T02:39:28.050Z
+Generated: 2026-10-16T05:42:46.083Z
 
 Users: 2238
 
@@ -16,12 +16,12 @@ Users: 2238
 | 8 | [rahman-O](https://github.com/rahman-O) | Abdalrahman M.Mohhy | Rahmano |  | Iraq | 671 |
 | 9 | [PawanOsman](https://github.com/PawanOsman) | Pawan Osman | @PawanKrd | pawanosmant | As Sulaymaniyah, Iraq | 515 |
 | 10 | [codenashwan](https://github.com/codenashwan) | Nashwan Abdullah | Rstacode |  | Iraq/Sulaymaniyah | 507 |
-| 11 | [yousifnimah](https://github.com/yousifnimah) | Yousif N. Abbas | @masiyanet |  | Iraq | 466 |
+| 11 | [yousifnimah](https://github.com/yousifnimah) | Yousif N. Abbas | @masiyanet |  | Iraq | 452 |
 | 12 | [Islam-Raad-dev](https://github.com/Islam-Raad-dev) | Islam Raad | Freelancer |  | Iraq | 423 |
 | 13 | [munafio](https://github.com/munafio) | Munaf A. Mahdi | Sr. Software Engineer |  | Iraq | 408 |
 | 14 | [devmuaz](https://github.com/devmuaz) | AbdulMuaz Aqeel | @talabatey | devmuaz | Iraq, Baghdad | 319 |
 | 15 | [arikarim](https://github.com/arikarim) | Ari Karim | KRG(Kurdistan Regional Government). | Ari_Karim_ | Kurdistan/Iraq | 284 |
-| 16 | [FardinRastakhiz](https://github.com/FardinRastakhiz) | Fardin Rastakhiz | Fardin |  | Iraq | 244 |
+| 16 | [FardinRastakhiz](https://github.com/FardinRastakhiz) | Fardin Rastakhiz | Fardin |  | Iraq | 268 |
 | 17 | [ShahramShakiba](https://github.com/ShahramShakiba) | Shahram Shakiba |  | ShahramShakibaa | Erbil, Erbil Governorate, Iraq  | 227 |
 | 18 | [HassanFulaih](https://github.com/HassanFulaih) | Hassan Fulaih | Al-Nahrain University |  | Baghdad, Iraq | 213 |
 | 19 | [Om4r-007](https://github.com/Om4r-007) | Omar Imad |  |  | Baghdad / Iraq | 202 |

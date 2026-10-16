@@ -1,12 +1,12 @@
 # Followers - Botswana
 
-Generated: 2026-10-16T02:13:42.323Z
+Generated: 2026-10-16T05:15:34.844Z
 
 Users: 533
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [Fuzzworth](https://github.com/Fuzzworth) | Nyangasi Mhozya | @MODISAR  | FuzzFoo | Botswana | 240 |
+| 1 | [Fuzzworth](https://github.com/Fuzzworth) | Nyangasi Mhozya | @MODISAR  | FuzzFoo | Botswana | 241 |
 | 2 | [ramokhua](https://github.com/ramokhua) | Boitsholo Ramokhua | Student at University of Botswana  | boitsholo_r | Gaborone, Botswana | 153 |
 | 3 | [PrimordialOrigin](https://github.com/PrimordialOrigin) | Primordial |  |  | Gaborone, Botswana | 121 |
 | 4 | [Goitseone-Themba](https://github.com/Goitseone-Themba) | ISOTOPE \| THEMBA | Botswana International University of Science and Technology | GoitseoneThemba | Botswana | 105 |

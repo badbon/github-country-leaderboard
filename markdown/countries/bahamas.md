@@ -13,8 +13,8 @@ Indexed users: 236
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [carlswann](https://github.com/carlswann) | Carl Swann | Freeport, Bahamas | 23,371 |
-| 2 | [dbraganca](https://github.com/dbraganca) | dbraganca | Bahamas | 3,306 |
-| 3 | [zoejessica](https://github.com/zoejessica) | Zoë Smith | Bahamas / Canada | 3,306 |
+| 2 | [zoejessica](https://github.com/zoejessica) | Zoë Smith | Bahamas / Canada | 3,347 |
+| 3 | [dbraganca](https://github.com/dbraganca) | dbraganca | Bahamas | 3,306 |
 | 4 | [bondjacobbond](https://github.com/bondjacobbond) | Jacob Bond | Casino Royale, Nassau, Bahamas | 3,072 |
 | 5 | [ryaustin](https://github.com/ryaustin) | Ryan | Bahamas | 2,514 |
 | 6 | [yannyhl](https://github.com/yannyhl) | yg | nassau | 2,039 |
@@ -30,7 +30,7 @@ Indexed users: 236
 | 16 | [dorson755](https://github.com/dorson755) | Dorson Williams | Nassau Bahamas | 724 |
 | 17 | [mikepadiernos](https://github.com/mikepadiernos) | Mike Padiernos | Nassau County, NY | 562 |
 | 18 | [nhayling](https://github.com/nhayling) | Noah Hayling | Nassau, The Bahamas | 550 |
-| 19 | [avolel](https://github.com/avolel) | Andre Volel | Nassau County, NY | 328 |
+| 19 | [avolel](https://github.com/avolel) | Andre Volel | Nassau County, NY | 335 |
 | 20 | [FLIPPING-PROFITS](https://github.com/FLIPPING-PROFITS) | FLIPPING PROFITS | Bahamas | 232 |
 
 ## Public Contributions
@@ -38,7 +38,7 @@ Indexed users: 236
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [Tec4Sho](https://github.com/Tec4Sho) | Ziona | Nassau, Bahamas  | 919 |
-| 2 | [avolel](https://github.com/avolel) | Andre Volel | Nassau County, NY | 328 |
+| 2 | [avolel](https://github.com/avolel) | Andre Volel | Nassau County, NY | 335 |
 | 3 | [mikepadiernos](https://github.com/mikepadiernos) | Mike Padiernos | Nassau County, NY | 297 |
 | 4 | [FLIPPING-PROFITS](https://github.com/FLIPPING-PROFITS) | FLIPPING PROFITS | Bahamas | 232 |
 | 5 | [zotz](https://github.com/zotz) | drew Roberts | Nassau, Bahamas | 145 |
@@ -83,4 +83,4 @@ Indexed users: 236
 | 19 | [paulcitarella](https://github.com/paulcitarella) | Paul Citarella | George Town, Bahamas | 15 |
 | 20 | [yemix](https://github.com/yemix) |  | Bahamas | 14 |
 
-Generated: 2026-10-16T02:09:08.341Z
+Generated: 2026-10-16T05:12:50.524Z

@@ -1,6 +1,6 @@
 # DR Congo
 
-Indexed users: 699
+Indexed users: 700
 
 | Leaderboard | Link |
 |---|---|
@@ -28,7 +28,7 @@ Indexed users: 699
 | 14 | [bilwifi](https://github.com/bilwifi) | Peniel DIALUNDAMA | Kinshasa, DRC | 5,280 |
 | 15 | [danielrubango](https://github.com/danielrubango) | Daniel RUBANGO | Kinshasa | 5,199 |
 | 16 | [hktom](https://github.com/hktom) | Tom Hikari | Congo Kinshasa | 5,044 |
-| 17 | [pacomeissa](https://github.com/pacomeissa) | PACOME ISSA | Democratic Republic of Congo | 4,798 |
+| 17 | [pacomeissa](https://github.com/pacomeissa) | PACOME ISSA | Democratic Republic of Congo | 4,819 |
 | 18 | [AlbusDigi](https://github.com/AlbusDigi) | Albus | Kinshasa | 4,703 |
 | 19 | [MasirikaConstantin](https://github.com/MasirikaConstantin) | Masirika Constantin | Kinshasa | 4,585 |
 | 20 | [Gptimus](https://github.com/Gptimus) | Guerth Manzala | Kinshasa/RDC | 4,456 |
@@ -83,4 +83,4 @@ Indexed users: 699
 | 19 | [bolenge](https://github.com/bolenge) | Don de Dieu Bolenge | Congo - Kinshasa | 69 |
 | 20 | [ChrisMwanya](https://github.com/ChrisMwanya) | Chris Mwanya | kinshasa | 69 |
 
-Generated: 2026-10-16T02:25:48.737Z
+Generated: 2026-10-16T05:28:45.510Z

@@ -1,14 +1,14 @@
 # Total Contributions - Bahamas
 
-Generated: 2026-10-16T02:09:08.341Z
+Generated: 2026-10-16T05:12:50.524Z
 
 Users: 236
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [carlswann](https://github.com/carlswann) | Carl Swann | @lightspeed |  | Freeport, Bahamas | 23371 |
-| 2 | [dbraganca](https://github.com/dbraganca) | dbraganca |  |  | Bahamas | 3306 |
-| 3 | [zoejessica](https://github.com/zoejessica) | Zoë Smith | @Basecamp | zoejessica | Bahamas / Canada | 3306 |
+| 2 | [zoejessica](https://github.com/zoejessica) | Zoë Smith | @Basecamp | zoejessica | Bahamas / Canada | 3347 |
+| 3 | [dbraganca](https://github.com/dbraganca) | dbraganca |  |  | Bahamas | 3306 |
 | 4 | [bondjacobbond](https://github.com/bondjacobbond) | Jacob Bond | Bond Sports |  | Casino Royale, Nassau, Bahamas | 3072 |
 | 5 | [ryaustin](https://github.com/ryaustin) | Ryan |  | ry_austin | Bahamas | 2514 |
 | 6 | [yannyhl](https://github.com/yannyhl) | yg | Melo Inc |  | nassau | 2039 |
@@ -24,5 +24,5 @@ Users: 236
 | 16 | [dorson755](https://github.com/dorson755) | Dorson Williams |  |  | Nassau Bahamas | 724 |
 | 17 | [mikepadiernos](https://github.com/mikepadiernos) | Mike Padiernos | TCS, GE Aerospace |  | Nassau County, NY | 562 |
 | 18 | [nhayling](https://github.com/nhayling) | Noah Hayling | @archipelagoapps | nhayling_ | Nassau, The Bahamas | 550 |
-| 19 | [avolel](https://github.com/avolel) | Andre Volel |  |  | Nassau County, NY | 328 |
+| 19 | [avolel](https://github.com/avolel) | Andre Volel |  |  | Nassau County, NY | 335 |
 | 20 | [FLIPPING-PROFITS](https://github.com/FLIPPING-PROFITS) | FLIPPING PROFITS |  |  | Bahamas | 232 |

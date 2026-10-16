@@ -17,14 +17,14 @@ Indexed users: 2,731
 | 3 | [linegel](https://github.com/linegel) | Eugène P. | Limassol, Cyprus | 22,798 |
 | 4 | [denizgolbas](https://github.com/denizgolbas) | Deniz Gölbaş | Cyprus | 19,015 |
 | 5 | [megasteve19](https://github.com/megasteve19) | Abdulkadir Cemiloğlu | Cyprus, Nicosia | 17,697 |
-| 6 | [ei-grad](https://github.com/ei-grad) | Andrew Grigorev | Limassol, Cyprus | 14,588 |
-| 7 | [openmindednewby](https://github.com/openmindednewby) | Demetrios Loizides | Cyprus | 14,379 |
-| 8 | [servitola](https://github.com/servitola) | Adik Servitola | Cyprus | 14,035 |
-| 9 | [jin0x](https://github.com/jin0x) | John Leskas | Limassol, Cyprus | 13,492 |
-| 10 | [iskifogl](https://github.com/iskifogl) | Abdullah İskifoğlu | Cyprus | 11,983 |
-| 11 | [laikhtman](https://github.com/laikhtman) | [DL] | Cyprus | 11,184 |
-| 12 | [pitops](https://github.com/pitops) | Petros Kyriakou | Cyprus | 10,749 |
-| 13 | [miguelrisero](https://github.com/miguelrisero) | Miguel Rasero | Cyprus | 10,126 |
+| 6 | [miguelrisero](https://github.com/miguelrisero) | Miguel Rasero | Cyprus | 15,244 |
+| 7 | [ei-grad](https://github.com/ei-grad) | Andrew Grigorev | Limassol, Cyprus | 14,588 |
+| 8 | [openmindednewby](https://github.com/openmindednewby) | Demetrios Loizides | Cyprus | 14,379 |
+| 9 | [servitola](https://github.com/servitola) | Adik Servitola | Cyprus | 14,035 |
+| 10 | [jin0x](https://github.com/jin0x) | John Leskas | Limassol, Cyprus | 13,492 |
+| 11 | [iskifogl](https://github.com/iskifogl) | Abdullah İskifoğlu | Cyprus | 11,983 |
+| 12 | [laikhtman](https://github.com/laikhtman) | [DL] | Cyprus | 11,184 |
+| 13 | [pitops](https://github.com/pitops) | Petros Kyriakou | Cyprus | 10,749 |
 | 14 | [ByczukMartin](https://github.com/ByczukMartin) | Martin B. | Cyprus | 9,995 |
 | 15 | [cploutarchou](https://github.com/cploutarchou) | Christos Ploutarchou | Cyprus | 9,926 |
 | 16 | [nyyhao](https://github.com/nyyhao) | nyhaoo_ | Cyprus | 9,666 |
@@ -83,4 +83,4 @@ Indexed users: 2,731
 | 19 | [polterguy](https://github.com/polterguy) | Thomas Hansen | Cyprus | 245 |
 | 20 | [kstep](https://github.com/kstep) | Konstantin Stepanov | Cyprus | 241 |
 
-Generated: 2026-10-16T00:57:12.894Z
+Generated: 2026-10-16T05:26:29.656Z

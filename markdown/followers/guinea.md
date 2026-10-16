@@ -1,6 +1,6 @@
 # Followers - Guinea
 
-Generated: 2026-10-16T02:36:46.928Z
+Generated: 2026-10-16T05:38:13.110Z
 
 Users: 263
 
@@ -10,9 +10,9 @@ Users: 263
 | 2 | [evanxg852000](https://github.com/evanxg852000) | Evance Soumaoro | Evansofts | evanxg852000 | Conakry - Guinea | 88 |
 | 3 | [camara94](https://github.com/camara94) | Laby Damaro CAMARA | Star Dev Cloud Group | laby_damaro | Conakry, Guinée | 87 |
 | 4 | [hadpro24](https://github.com/hadpro24) | Harouna Diallo | Software Engineer |  | Guinée, Conakry, GN | 78 |
-| 5 | [aradradev](https://github.com/aradradev) | Abdourahmane Jalloh | Full-Stack Developer | Abdoul_2023 | Conakry | 65 |
+| 5 | [aradradev](https://github.com/aradradev) | Abdourahmane Jalloh | Full-Stack Developer | Abdoul_2023 | Conakry | 66 |
 | 6 | [sitatec](https://github.com/sitatec) | Sita Bérété | Dwino AI |  | Conakry, Guinea | 42 |
-| 7 | [korbonya](https://github.com/korbonya) | Mamadou Alpha Baldé | Smart Sarl | mabkorbonya | Conakry | 33 |
+| 7 | [korbonya](https://github.com/korbonya) | Mamadou Alpha Baldé | Smart Sarl | mabkorbonya | Conakry | 32 |
 | 8 | [hams94](https://github.com/hams94) | Hamidou Bah | ALTGRAS | yalagueya | Guinée, Conakry, GN | 30 |
 | 9 | [fiicode](https://github.com/fiicode) | fiicode | fiicode |  | Guinea | 28 |
 | 10 | [moudjames23](https://github.com/moudjames23) | Mamoudou Diallo |  |  | Guinea | 28 |

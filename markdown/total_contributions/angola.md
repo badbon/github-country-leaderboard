@@ -1,6 +1,6 @@
 # Total Contributions - Angola
 
-Generated: 2026-10-16T02:06:16.862Z
+Generated: 2026-10-16T05:10:43.612Z
 
 Users: 2502
 
@@ -8,10 +8,10 @@ Users: 2502
 |---:|---|---|---|---|---|---:|
 | 1 | [runtechx](https://github.com/runtechx) | RunTech |  |  | Angola | 32825 |
 | 2 | [aurennunes](https://github.com/aurennunes) | Aureliano Nunes | @spollytech |  | Angola | 13225 |
-| 3 | [Katumbela](https://github.com/Katumbela) | João Afonso Katombela | @R360 |  | LUANDA | 11834 |
-| 4 | [marianoj8](https://github.com/marianoj8) | Mariano JavaSwing | Wasp-TI |  | Angola, Luanda | 10715 |
+| 3 | [marianoj8](https://github.com/marianoj8) | Mariano JavaSwing | Wasp-TI |  | Angola, Luanda | 12910 |
+| 4 | [Katumbela](https://github.com/Katumbela) | João Afonso Katombela | @R360 |  | LUANDA | 11834 |
 | 5 | [josecaseiro](https://github.com/josecaseiro) | José Caseiro | Musickool Lda |  | Angola | 10064 |
-| 6 | [EmanuelJoseCandido](https://github.com/EmanuelJoseCandido) | Emanuel Cândido |  |  | Luanda, Angola | 7203 |
+| 6 | [EmanuelJoseCandido](https://github.com/EmanuelJoseCandido) | Emanuel Cândido |  |  | Luanda, Angola | 8618 |
 | 7 | [nuelst](https://github.com/nuelst) | manuel |  |  | Luanda, Angola | 6554 |
 | 8 | [Jndungue089](https://github.com/Jndungue089) | Josemar Ndungue |  |  | Angola | 6520 |
 | 9 | [joel2011140](https://github.com/joel2011140) | Joel Marinho |  | joelmarinho2016 | Luanda | 5656 |

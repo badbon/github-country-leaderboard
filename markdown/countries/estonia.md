@@ -62,7 +62,7 @@ Indexed users: 4,903
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [visualGravitySense](https://github.com/visualGravitySense) | Dmitri Gornakov | Tallinn, Estonia | 3,891 |
+| 1 | [visualGravitySense](https://github.com/visualGravitySense) | Dmitri Gornakov | Tallinn, Estonia | 3,892 |
 | 2 | [andris9](https://github.com/andris9) | Andris Reinman | Tallinn, Estonia | 1,481 |
 | 3 | [krambertech](https://github.com/krambertech) | Kateryna | Tallinn | 1,048 |
 | 4 | [joe-bell](https://github.com/joe-bell) | Joe Bell | Tallinn, Estonia | 1,019 |
@@ -83,4 +83,4 @@ Indexed users: 4,903
 | 19 | [Wirasm](https://github.com/Wirasm) | Rasmus Widing | tallinn | 406 |
 | 20 | [toomastahves](https://github.com/toomastahves) | Toomas Tahves | Tallinn, Estonia | 388 |
 
-Generated: 2026-10-16T02:27:56.833Z
+Generated: 2026-10-16T05:29:47.626Z

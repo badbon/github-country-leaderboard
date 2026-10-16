@@ -1,13 +1,13 @@
 # Total Contributions - Tajikistan
 
-Generated: 2026-10-16T01:55:36.934Z
+Generated: 2026-10-16T04:58:05.891Z
 
 Users: 709
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [veyxov](https://github.com/veyxov) | Shekhov Ismoil | @LLC-Alif-Technology  |  | Tajikistan | 9089 |
-| 2 | [OdinManiac](https://github.com/OdinManiac) | George |  |  | Tajikistan | 8824 |
+| 2 | [OdinManiac](https://github.com/OdinManiac) | George |  |  | Tajikistan | 8842 |
 | 3 | [rahimov-yr](https://github.com/rahimov-yr) | Yusuf Rahimov |  |  | Tajikistan | 7767 |
 | 4 | [shyn1ck](https://github.com/shyn1ck) | Parvizjon Hasanov | DC-TechHQ |  | Taikistan, Dushanbe  | 7185 |
 | 5 | [umedsondoniyor](https://github.com/umedsondoniyor) | Umedzhon Izbasarov | OneWell | UmedzhonIzbasar | Tajikistan/Dushanbe | 6954 |

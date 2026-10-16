@@ -1,6 +1,6 @@
 # Total Contributions - Guatemala
 
-Generated: 2026-10-16T02:36:09.198Z
+Generated: 2026-10-16T05:38:05.575Z
 
 Users: 3220
 
@@ -17,12 +17,12 @@ Users: 3220
 | 9 | [RudiksChess](https://github.com/RudiksChess) | Rudik Rompich | Cinco Innovative Solutions LLC | TheRudiks | Guatemala City | 6673 |
 | 10 | [MarioAndF](https://github.com/MarioAndF) | Mario A Flores | MedHue Labs LLC |  | Guatemala | 6585 |
 | 11 | [edman-cota](https://github.com/edman-cota) | edmancota | Universidad del Valle de Guatemala |  | Guatemala | 6100 |
-| 12 | [marcoleejr](https://github.com/marcoleejr) | Marco Lee |  |  | Guatemala | 5506 |
-| 13 | [damianpeaf](https://github.com/damianpeaf) | Damián Peña | FIUSAC |  | Guatemala | 5493 |
-| 14 | [kenny08gt](https://github.com/kenny08gt) | Alan Hurtarte |  | alanhurtarte | Guatemala city, Guatemala | 5488 |
-| 15 | [jrodas4044](https://github.com/jrodas4044) | Jonhathan Rolando Rodas López |  |  | Chimaltenango/Guatemala | 5446 |
-| 16 | [fcpauldiaz](https://github.com/fcpauldiaz) | Pablo Díaz | @Chapi-Labs  |  | Guatemala | 5250 |
-| 17 | [Esaban17](https://github.com/Esaban17) | Estuardo Saban | Quattro |  | Guatemala | 5233 |
+| 12 | [Esaban17](https://github.com/Esaban17) | Estuardo Saban | Quattro |  | Guatemala | 5978 |
+| 13 | [marcoleejr](https://github.com/marcoleejr) | Marco Lee |  |  | Guatemala | 5506 |
+| 14 | [damianpeaf](https://github.com/damianpeaf) | Damián Peña | FIUSAC |  | Guatemala | 5493 |
+| 15 | [kenny08gt](https://github.com/kenny08gt) | Alan Hurtarte |  | alanhurtarte | Guatemala city, Guatemala | 5488 |
+| 16 | [jrodas4044](https://github.com/jrodas4044) | Jonhathan Rolando Rodas López |  |  | Chimaltenango/Guatemala | 5446 |
+| 17 | [fcpauldiaz](https://github.com/fcpauldiaz) | Pablo Díaz | @Chapi-Labs  |  | Guatemala | 5250 |
 | 18 | [Mgodoyd](https://github.com/Mgodoyd) | MARIO   GODOY |  |  | Guatemala | 4898 |
 | 19 | [wmsales](https://github.com/wmsales) | Wilson Sales | Nextware Guatemala |  | Guatemala | 4898 |
 | 20 | [ElvisBatzibal](https://github.com/ElvisBatzibal) | Elvis Geovanny Batzibal | ebsoltech |  | Guatemala | 4634 |

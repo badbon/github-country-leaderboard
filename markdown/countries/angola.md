@@ -14,10 +14,10 @@ Indexed users: 2,502
 |---:|---|---|---|---:|
 | 1 | [runtechx](https://github.com/runtechx) | RunTech | Angola | 32,825 |
 | 2 | [aurennunes](https://github.com/aurennunes) | Aureliano Nunes | Angola | 13,225 |
-| 3 | [Katumbela](https://github.com/Katumbela) | João Afonso Katombela | LUANDA | 11,834 |
-| 4 | [marianoj8](https://github.com/marianoj8) | Mariano JavaSwing | Angola, Luanda | 10,715 |
+| 3 | [marianoj8](https://github.com/marianoj8) | Mariano JavaSwing | Angola, Luanda | 12,910 |
+| 4 | [Katumbela](https://github.com/Katumbela) | João Afonso Katombela | LUANDA | 11,834 |
 | 5 | [josecaseiro](https://github.com/josecaseiro) | José Caseiro | Angola | 10,064 |
-| 6 | [EmanuelJoseCandido](https://github.com/EmanuelJoseCandido) | Emanuel Cândido | Luanda, Angola | 7,203 |
+| 6 | [EmanuelJoseCandido](https://github.com/EmanuelJoseCandido) | Emanuel Cândido | Luanda, Angola | 8,618 |
 | 7 | [nuelst](https://github.com/nuelst) | manuel | Luanda, Angola | 6,554 |
 | 8 | [Jndungue089](https://github.com/Jndungue089) | Josemar Ndungue | Angola | 6,520 |
 | 9 | [joel2011140](https://github.com/joel2011140) | Joel Marinho | Luanda | 5,656 |
@@ -79,8 +79,8 @@ Indexed users: 2,502
 | 15 | [EufranioDiogo](https://github.com/EufranioDiogo) | Eufránio Diogo | Angola | 180 |
 | 16 | [cirilocanganjo](https://github.com/cirilocanganjo) | Cirilo Cussaca Canganjo | Luanda, Amgola | 170 |
 | 17 | [manuelernesto](https://github.com/manuelernesto) | Manuel Ernesto | Angola | 165 |
-| 18 | [bacarPereira](https://github.com/bacarPereira) | Abú-Bakr Pereira K | Luanda,Angola | 164 |
-| 19 | [nazarepiedady](https://github.com/nazarepiedady) | Nazaré da Piedade | Angola | 164 |
-| 20 | [jofranqueira](https://github.com/jofranqueira) | José Frangueira | Angola | 160 |
+| 18 | [nazarepiedady](https://github.com/nazarepiedady) | Nazaré da Piedade | Angola | 164 |
+| 19 | [jofranqueira](https://github.com/jofranqueira) | José Frangueira | Angola | 160 |
+| 20 | [Jovanysfive](https://github.com/Jovanysfive) | Job Bento | Angola/Luanda | 152 |
 
-Generated: 2026-10-16T02:06:16.862Z
+Generated: 2026-10-16T05:10:43.612Z

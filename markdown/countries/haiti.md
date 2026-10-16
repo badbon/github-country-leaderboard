@@ -18,12 +18,12 @@ Indexed users: 339
 | 4 | [joassanon](https://github.com/joassanon) | Joas Sanon | Port-au-prince, Haiti | 3,829 |
 | 5 | [jecode93](https://github.com/jecode93) | Jean Emmanuel Cadet | Haiti | 3,571 |
 | 6 | [platon777](https://github.com/platon777) | Wichley Valentin | Haiti | 2,443 |
-| 7 | [FalandyJEAN](https://github.com/FalandyJEAN) | Falandy Jean | Haiti | 2,349 |
+| 7 | [FalandyJEAN](https://github.com/FalandyJEAN) | Falandy Jean | Haiti | 2,377 |
 | 8 | [odilson-dev](https://github.com/odilson-dev) | Odilson W. Italis | Les Cayes, Haiti | 2,251 |
 | 9 | [bogosla](https://github.com/bogosla) | James Destiné | Haiti | 2,219 |
 | 10 | [Nicaisse](https://github.com/Nicaisse) | Nicaisse Bryan  | Port-au-Prince | 1,915 |
 | 11 | [youko509](https://github.com/youko509) |  Erico Saint-Charles | Haiti | 1,764 |
-| 12 | [kingsGuillaume99](https://github.com/kingsGuillaume99) | Guillaume Kingsley | Port-au-Prince , Haiti | 1,752 |
+| 12 | [kingsGuillaume99](https://github.com/kingsGuillaume99) | Guillaume Kingsley | Port-au-Prince , Haiti | 1,756 |
 | 13 | [bleuscyther](https://github.com/bleuscyther) | jeffrey n. carre | Haiti | 1,728 |
 | 14 | [didierganthier](https://github.com/didierganthier) | Didier Peran Ganthier | Port-au-prince, Haïti | 1,717 |
 | 15 | [thecassion](https://github.com/thecassion) | Pierre Robentz CASSION | Haiti | 1,532 |
@@ -54,9 +54,9 @@ Indexed users: 339
 | 15 | [didierganthier](https://github.com/didierganthier) | Didier Peran Ganthier | Port-au-prince, Haïti | 187 |
 | 16 | [jbob9](https://github.com/jbob9) | Jean Baptiste Berlensky O. | Haiti | 166 |
 | 17 | [jsbeaudry](https://github.com/jsbeaudry) | Beaudry Jean Sauvenel | Port-au-prince, Haiti | 166 |
-| 18 | [clarensromeus](https://github.com/clarensromeus) | Romeus Clarens | Port-au-prince/Petion-ville | 163 |
-| 19 | [Rocky1324](https://github.com/Rocky1324) | Rock Khyshnert | Haiti | 161 |
-| 20 | [blessedwingtech](https://github.com/blessedwingtech) | Blessed Wing Technology | Haiti | 155 |
+| 18 | [blessedwingtech](https://github.com/blessedwingtech) | Blessed Wing Technology | Haiti | 165 |
+| 19 | [clarensromeus](https://github.com/clarensromeus) | Romeus Clarens | Port-au-prince/Petion-ville | 163 |
+| 20 | [Rocky1324](https://github.com/Rocky1324) | Rock Khyshnert | Haiti | 161 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 339
 | 19 | [KeitelDOG](https://github.com/KeitelDOG) | Keitel Jovin | Delmas 41, Ouest, Haiti | 32 |
 | 20 | [skydevht](https://github.com/skydevht) | Holy-Elie Scaïde | Port-au-prince, Haïti | 32 |
 
-Generated: 2026-10-16T02:36:54.188Z
+Generated: 2026-10-16T05:39:37.152Z

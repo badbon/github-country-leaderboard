@@ -1,6 +1,6 @@
 # Public Contributions - Greenland
 
-Generated: 2026-10-16T02:34:23.075Z
+Generated: 2026-10-16T05:35:11.784Z
 
 Users: 59
 
@@ -8,7 +8,7 @@ Users: 59
 |---:|---|---|---|---|---|---:|
 | 1 | [sgoggins](https://github.com/sgoggins) | Sean P. Goggins | University of Missouri, Aveloxis Foundation | sociallycompute | Greenland | 1968 |
 | 2 | [ProjectAtlantis-dev](https://github.com/ProjectAtlantis-dev) | hello kitty | project-atlantis.ai | atlantis2point0 | Greenland | 1413 |
-| 3 | [filzehoka](https://github.com/filzehoka) | Filze | Tusass  |  | Greenland | 901 |
+| 3 | [filzehoka](https://github.com/filzehoka) | Filze | Tusass  |  | Greenland | 900 |
 | 4 | [ibdj](https://github.com/ibdj) | ibdj |  |  | Nuuk, Greenland | 696 |
 | 5 | [WingWR](https://github.com/WingWR) |  | Tongji University |  | Greenland | 544 |
 | 6 | [johan-ejstrud](https://github.com/johan-ejstrud) | Johan Ejstrud | Ejstrud Consulting |  | Nuuk, Greenland | 271 |
@@ -16,7 +16,7 @@ Users: 59
 | 8 | [Pocket-sys32](https://github.com/Pocket-sys32) | Manraj Thandi |  |  | Greenland | 222 |
 | 9 | [aredigg](https://github.com/aredigg) | Are Digranes |  |  | Grønland, Oslo, Norge | 177 |
 | 10 | [adarshdev2](https://github.com/adarshdev2) | ADARSH  |  |  | Greenland | 157 |
-| 11 | [FandyHanz](https://github.com/FandyHanz) | General Tenzen Yamauchi | Early Warning System Glacier Greenland Search And Rescue |  | Fjord Dickson, Greenland | 153 |
+| 11 | [FandyHanz](https://github.com/FandyHanz) | General Tenzen Yamauchi | Early Warning System Glacier Greenland Search And Rescue |  | Fjord Dickson, Greenland | 150 |
 | 12 | [hexia7230](https://github.com/hexia7230) | Terashita |  |  | Kaffeklubben Island, Greenland | 129 |
 | 13 | [panyster](https://github.com/panyster) | Pany | Tusass  |  | Greenland | 121 |
 | 14 | [PennyHow](https://github.com/PennyHow) | Penny How | GEUS |  | Nuuk, Greenland | 101 |

@@ -1,6 +1,6 @@
 # Followers - Bahrain
 
-Generated: 2026-10-16T02:10:53.611Z
+Generated: 2026-10-16T05:12:56.195Z
 
 Users: 727
 
@@ -15,7 +15,7 @@ Users: 727
 | 7 | [mufarrah](https://github.com/mufarrah) | A.Rahman Mufarrah | Delet |  | Bahrain | 104 |
 | 8 | [kelvindecosta](https://github.com/kelvindecosta) | Kelvin DeCosta | @dotlas | _kelvindecosta | Bahrain | 93 |
 | 9 | [FnrDev](https://github.com/FnrDev) | Ahmed |  | FnrDev | Bahrain | 92 |
-| 10 | [aldoyh](https://github.com/aldoyh) | Hasan AlDoy | @doy.tech @Bahrain-TV @RadioBahrain  |  | Al Muharraq, Bahrain | 86 |
+| 10 | [aldoyh](https://github.com/aldoyh) | Hasan AlDoy | @doy.tech @Bahrain-TV @RadioBahrain  |  | Al Muharraq, Bahrain | 87 |
 | 11 | [zakk616](https://github.com/zakk616) | Muhammad Zakaria | Avanza Solutions |  | Manama, Bahrain | 84 |
 | 12 | [SouvikChoudhury360](https://github.com/SouvikChoudhury360) | Souvik Choudhury | AIP Genius |  | Manama, Bahrain | 80 |
 | 13 | [xCuzSkillz](https://github.com/xCuzSkillz) | Ali M. | AvexInc | xCuzSkillz | Bahrain | 63 |

@@ -1,6 +1,6 @@
 # Total Contributions - Zimbabwe
 
-Generated: 2026-10-16T02:03:20.009Z
+Generated: 2026-10-16T05:06:47.662Z
 
 Users: 1655
 
@@ -14,8 +14,8 @@ Users: 1655
 | 6 | [Patizy-tel](https://github.com/Patizy-tel) | Magnificient Stallion Tello🔥 | Flostec Digital Solutions | PatizyTel | Zimbabwe | 7511 |
 | 7 | [tapiwamakandigona](https://github.com/tapiwamakandigona) | Tapiwa Makandigona |  |  | Zimbabwe | 7324 |
 | 8 | [farmhutsoftwareteam](https://github.com/farmhutsoftwareteam) | Munyaradzi Makosa | @hubflo | makosamunyaa | Harare | 7208 |
-| 9 | [phoscoder](https://github.com/phoscoder) | Victor Phos |  |  | Zimbabwe | 7159 |
-| 10 | [kudzaiprichard](https://github.com/kudzaiprichard) | Kudzai Prichard Matizirofa |  |  | Mashonaland West Province, Zimbabwe, Harare | 7067 |
+| 9 | [kudzaiprichard](https://github.com/kudzaiprichard) | Kudzai Prichard Matizirofa |  |  | Mashonaland West Province, Zimbabwe, Harare | 7186 |
+| 10 | [phoscoder](https://github.com/phoscoder) | Victor Phos |  |  | Zimbabwe | 7159 |
 | 11 | [protendai](https://github.com/protendai) | Tendai Karuma | @code-stallion-zw | karumatendai | Harare Zimbabwe | 6939 |
 | 12 | [josemukorivo](https://github.com/josemukorivo) | Joseph Mukorivo | Complexus Technologies | josemukorivo | Harare, Zimbabwe | 6400 |
 | 13 | [morebnyemba](https://github.com/morebnyemba) | Moreblessing Nyemba | Slyker Tech Web Services |  | Zimbabwe | 6315 |

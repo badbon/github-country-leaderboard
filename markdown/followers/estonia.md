@@ -1,12 +1,12 @@
 # Followers - Estonia
 
-Generated: 2026-10-16T02:27:56.833Z
+Generated: 2026-10-16T05:29:47.626Z
 
 Users: 4903
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [visualGravitySense](https://github.com/visualGravitySense) | Dmitri Gornakov | Designlytics |  | Tallinn, Estonia | 3891 |
+| 1 | [visualGravitySense](https://github.com/visualGravitySense) | Dmitri Gornakov | Designlytics |  | Tallinn, Estonia | 3892 |
 | 2 | [andris9](https://github.com/andris9) | Andris Reinman | EmailEngine.app (@postalsys ) | andrisreinman | Tallinn, Estonia | 1481 |
 | 3 | [krambertech](https://github.com/krambertech) | Kateryna | Buffer |  | Tallinn | 1048 |
 | 4 | [joe-bell](https://github.com/joe-bell) | Joe Bell |  | joebell_ | Tallinn, Estonia | 1019 |

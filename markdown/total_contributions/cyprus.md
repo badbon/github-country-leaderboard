@@ -1,6 +1,6 @@
 # Total Contributions - Cyprus
 
-Generated: 2026-10-16T00:57:12.894Z
+Generated: 2026-10-16T05:26:29.656Z
 
 Users: 2731
 
@@ -11,14 +11,14 @@ Users: 2731
 | 3 | [linegel](https://github.com/linegel) | Eugène P. | @brainrocket | linege1 | Limassol, Cyprus | 22798 |
 | 4 | [denizgolbas](https://github.com/denizgolbas) | Deniz Gölbaş | Retrocket | denizgolbas | Cyprus | 19015 |
 | 5 | [megasteve19](https://github.com/megasteve19) | Abdulkadir Cemiloğlu | Retrocket |  | Cyprus, Nicosia | 17697 |
-| 6 | [ei-grad](https://github.com/ei-grad) | Andrew Grigorev | FaceApp |  | Limassol, Cyprus | 14588 |
-| 7 | [openmindednewby](https://github.com/openmindednewby) | Demetrios Loizides |  |  | Cyprus | 14379 |
-| 8 | [servitola](https://github.com/servitola) | Adik Servitola |  |  | Cyprus | 14035 |
-| 9 | [jin0x](https://github.com/jin0x) | John Leskas | RSH Creative Web Studio LTD | john_leskas | Limassol, Cyprus | 13492 |
-| 10 | [iskifogl](https://github.com/iskifogl) | Abdullah İskifoğlu |  |  | Cyprus | 11983 |
-| 11 | [laikhtman](https://github.com/laikhtman) | [DL] | Filiatix |  | Cyprus | 11184 |
-| 12 | [pitops](https://github.com/pitops) | Petros Kyriakou |  |  | Cyprus | 10749 |
-| 13 | [miguelrisero](https://github.com/miguelrisero) | Miguel Rasero | BetterGroup Holding Inc |  | Cyprus | 10126 |
+| 6 | [miguelrisero](https://github.com/miguelrisero) | Miguel Rasero | BetterGroup Holding Inc |  | Cyprus | 15244 |
+| 7 | [ei-grad](https://github.com/ei-grad) | Andrew Grigorev | FaceApp |  | Limassol, Cyprus | 14588 |
+| 8 | [openmindednewby](https://github.com/openmindednewby) | Demetrios Loizides |  |  | Cyprus | 14379 |
+| 9 | [servitola](https://github.com/servitola) | Adik Servitola |  |  | Cyprus | 14035 |
+| 10 | [jin0x](https://github.com/jin0x) | John Leskas | RSH Creative Web Studio LTD | john_leskas | Limassol, Cyprus | 13492 |
+| 11 | [iskifogl](https://github.com/iskifogl) | Abdullah İskifoğlu |  |  | Cyprus | 11983 |
+| 12 | [laikhtman](https://github.com/laikhtman) | [DL] | Filiatix |  | Cyprus | 11184 |
+| 13 | [pitops](https://github.com/pitops) | Petros Kyriakou |  |  | Cyprus | 10749 |
 | 14 | [ByczukMartin](https://github.com/ByczukMartin) | Martin B. | MBYT LTD |  | Cyprus | 9995 |
 | 15 | [cploutarchou](https://github.com/cploutarchou) | Christos Ploutarchou |  | cploutarchou | Cyprus | 9926 |
 | 16 | [nyyhao](https://github.com/nyyhao) | nyhaoo_ | n1apps |  | Cyprus | 9666 |

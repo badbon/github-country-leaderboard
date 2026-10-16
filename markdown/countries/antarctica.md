@@ -21,7 +21,7 @@ Indexed users: 459
 | 7 | [JohnChristianD](https://github.com/JohnChristianD) | John Christian Domingo | Antarctica | 4,771 |
 | 8 | [AntoineSebert](https://github.com/AntoineSebert) | Antoine Sébert | Antarctica | 4,725 |
 | 9 | [Sup2point0](https://github.com/Sup2point0) | Sup#2.0 | Antarctica | 4,616 |
-| 10 | [bharxhav](https://github.com/bharxhav) | Bhargav Kantheti | antarctica | 4,187 |
+| 10 | [bharxhav](https://github.com/bharxhav) | Bhargav Kantheti | antarctica | 4,217 |
 | 11 | [Rayrsn](https://github.com/Rayrsn) | Rayr | Antarctica | 3,991 |
 | 12 | [cutetux](https://github.com/cutetux) | CuteTux | Antarctica ;) | 3,885 |
 | 13 | [enriquephl](https://github.com/enriquephl) |  | Antarctica | 3,477 |
@@ -54,7 +54,7 @@ Indexed users: 459
 | 15 | [PenguinDOOM](https://github.com/PenguinDOOM) | Penguin | Antarctica, Discord, VRChat | 524 |
 | 16 | [oniaz](https://github.com/oniaz) | Omnia | antarctica | 517 |
 | 17 | [Daedalus-code](https://github.com/Daedalus-code) |  | Antarctica | 472 |
-| 18 | [AuroraLantean](https://github.com/AuroraLantean) | AuroraLantean  | Antarctica | 450 |
+| 18 | [AuroraLantean](https://github.com/AuroraLantean) | AuroraLantean  | Antarctica | 451 |
 | 19 | [bestruirui](https://github.com/bestruirui) | BESTRUI | Antarctica | 440 |
 | 20 | [healingdrawing](https://github.com/healingdrawing) | Healing Drawing | Antarctica | 440 |
 
@@ -83,4 +83,4 @@ Indexed users: 459
 | 19 | [alphaaurigae](https://github.com/alphaaurigae) | Marian Brockerhoff | Antarctica | 86 |
 | 20 | [fakeid30](https://github.com/fakeid30) | Fake ID | Antarctica | 78 |
 
-Generated: 2026-10-16T02:06:56.505Z
+Generated: 2026-10-16T05:11:29.011Z

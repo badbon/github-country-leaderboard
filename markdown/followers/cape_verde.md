@@ -1,6 +1,6 @@
 # Followers - Cape Verde
 
-Generated: 2026-10-16T02:17:15.499Z
+Generated: 2026-10-16T05:21:07.970Z
 
 Users: 563
 
@@ -18,8 +18,8 @@ Users: 563
 | 10 | [cdfortes](https://github.com/cdfortes) | Carlos Fortes |  | cdfortes | Praia - Cabo Verde | 93 |
 | 11 | [isabellacoliveira](https://github.com/isabellacoliveira) | Isabella Cruz de Oliveira | Itaú Unibanco |  | Praia Grande | 92 |
 | 12 | [felipesurfe](https://github.com/felipesurfe) | FELIPE CAMARGO FERNANDES |  |  | Praia Grande - SP - Brazil | 88 |
-| 13 | [Deustavo](https://github.com/Deustavo) | Gustavo Andrade | Tray |  | Praia Grande - SP | 81 |
-| 14 | [GabrielJalmeida](https://github.com/GabrielJalmeida) | Gabriel Almeida |  |  | Praia Grande | 81 |
+| 13 | [GabrielJalmeida](https://github.com/GabrielJalmeida) | Gabriel Almeida |  |  | Praia Grande | 81 |
+| 14 | [Deustavo](https://github.com/Deustavo) | Gustavo Andrade | Tray |  | Praia Grande - SP | 80 |
 | 15 | [emimuniz](https://github.com/emimuniz) | Emillyn Muniz  |  |  | Praia Grande - SP  | 75 |
 | 16 | [JulianeMonteiro](https://github.com/JulianeMonteiro) | Juliane Aparecida Monteiro dos Santos |  |  | Praia Grande - SP | 72 |
 | 17 | [Matheuszy](https://github.com/Matheuszy) | Matheus Carlos | DescPay |  | Praia Grande | 60 |

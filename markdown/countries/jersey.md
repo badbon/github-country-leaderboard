@@ -18,13 +18,13 @@ Indexed users: 139
 | 4 | [ndestates](https://github.com/ndestates) | Nick Dodsley | Jersey | 10,702 |
 | 5 | [guessty](https://github.com/guessty) | Christian | Jersey, Channel Islands | 8,124 |
 | 6 | [timkrins](https://github.com/timkrins) | Tim Krins | Jersey, Channel Islands | 4,827 |
-| 7 | [danielmullin](https://github.com/danielmullin) | Daniel Mullin | Jersey | 4,646 |
+| 7 | [danielmullin](https://github.com/danielmullin) | Daniel Mullin | Jersey | 4,649 |
 | 8 | [gnathoi](https://github.com/gnathoi) | Nathaniel Hey | Jersey, Channel Islands | 4,334 |
 | 9 | [wildgeodude](https://github.com/wildgeodude) | Dominic Samphier | Jersey | 4,094 |
 | 10 | [digitalbuddha](https://github.com/digitalbuddha) | Mike Nakhimovich | The dirty (jersey) | 3,664 |
 | 11 | [oidz1234](https://github.com/oidz1234) | Mark McNally | Jersey | 3,352 |
 | 12 | [r-moore](https://github.com/r-moore) | Richard Moore | Jersey | 3,333 |
-| 13 | [cjkmcc](https://github.com/cjkmcc) | Chris McCarthy | Jersey / London | 2,897 |
+| 13 | [cjkmcc](https://github.com/cjkmcc) | Chris McCarthy | Jersey / London | 2,885 |
 | 14 | [TafadzwaD](https://github.com/TafadzwaD) | Tafadzwa Demba | Jersey | 2,387 |
 | 15 | [samjamead](https://github.com/samjamead) | Sam Mead | Grouville, Jersey | 1,747 |
 | 16 | [jackleriche](https://github.com/jackleriche) | Jack Le Riche | Jersey | 1,627 |
@@ -42,7 +42,7 @@ Indexed users: 139
 | 3 | [PhilETaylor](https://github.com/PhilETaylor) | Phil E. Taylor | Jersey, Channel Islands | 708 |
 | 4 | [j4ckxyz](https://github.com/j4ckxyz) | jack | Jersey, UK | 692 |
 | 5 | [adecler](https://github.com/adecler) | Arnaud Declercq | Jersey | 572 |
-| 6 | [CJ-Jackson](https://github.com/CJ-Jackson) | Christopher John Jackson | St. Clement, Jersey | 547 |
+| 6 | [CJ-Jackson](https://github.com/CJ-Jackson) | Christopher John Jackson | St. Clement, Jersey | 549 |
 | 7 | [vraic](https://github.com/vraic) | André Tanguy | Jersey | 500 |
 | 8 | [gnathoi](https://github.com/gnathoi) | Nathaniel Hey | Jersey, Channel Islands | 428 |
 | 9 | [doobox](https://github.com/doobox) | Doobox | Jersey | 409 |
@@ -83,4 +83,4 @@ Indexed users: 139
 | 19 | [r-moore](https://github.com/r-moore) | Richard Moore | Jersey | 21 |
 | 20 | [Chrisedmo](https://github.com/Chrisedmo) | Chris Mousdale | Jersey, Channel Islands | 20 |
 
-Generated: 2026-10-16T02:44:14.173Z
+Generated: 2026-10-16T05:45:36.242Z

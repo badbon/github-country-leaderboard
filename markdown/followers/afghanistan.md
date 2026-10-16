@@ -1,6 +1,6 @@
 # Followers - Afghanistan
 
-Generated: 2026-10-16T02:03:29.101Z
+Generated: 2026-10-16T05:07:47.839Z
 
 Users: 1487
 
@@ -24,5 +24,5 @@ Users: 1487
 | 16 | [SaeqaSultani](https://github.com/SaeqaSultani) | Saeqa Sultani | WASSA |  | Afghanistan | 130 |
 | 17 | [shayanheidari01](https://github.com/shayanheidari01) | Shayan Heidari | Progrology |  | Afghanistan/Kabul | 129 |
 | 18 | [yasinnoori](https://github.com/yasinnoori) | Mohammad Yasin Noori | Senior Full Stack Software Engineer | yasinnoori_dev | Kabul, Afghanistan | 129 |
-| 19 | [zainabturkmen](https://github.com/zainabturkmen) | Zainab Turkmen | Product Manager at aseelapp.com  | ZainabTurkmen | Kabul  | 125 |
+| 19 | [zainabturkmen](https://github.com/zainabturkmen) | Zainab Turkmen | Product Manager at aseelapp.com  | ZainabTurkmen | Kabul  | 124 |
 | 20 | [NaveedAhmadHematmal](https://github.com/NaveedAhmadHematmal) | Naveed Ahmad Hematmal |  | NaveedAHematmal | Afghanistan | 117 |

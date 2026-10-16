@@ -13,9 +13,9 @@ Indexed users: 79
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [FrancisMario](https://github.com/FrancisMario) | Marxlo | Gambia | 3,623 |
-| 2 | [khanmomodou101](https://github.com/khanmomodou101) | Momodou khan | Gambia | 3,180 |
+| 2 | [khanmomodou101](https://github.com/khanmomodou101) | Momodou khan | Gambia | 3,185 |
 | 3 | [ZaynSaul](https://github.com/ZaynSaul) | Saul Zayn | Gambia/Banjul | 1,508 |
-| 4 | [cyberdavinci](https://github.com/cyberdavinci) | CyberDavinci | Gambia | 1,346 |
+| 4 | [cyberdavinci](https://github.com/cyberdavinci) | CyberDavinci | Gambia | 1,344 |
 | 5 | [ndimzKM](https://github.com/ndimzKM) | Alieu Ndimbalane | Gambia | 1,307 |
 | 6 | [laminbarrow](https://github.com/laminbarrow) | Lamin Barrow | Bakoteh, Gambia | 1,305 |
 | 7 | [harunaabaldeh](https://github.com/harunaabaldeh) | Haruna A Baldeh | Banjul | 847 |
@@ -26,11 +26,11 @@ Indexed users: 79
 | 12 | [gidavehub](https://github.com/gidavehub) | Godswill Iyke Dave | Banjul, The Gambia | 494 |
 | 13 | [bahsulayman689-hash](https://github.com/bahsulayman689-hash) | sulayman bah | Banjul | 413 |
 | 14 | [kebba-philip](https://github.com/kebba-philip) | KEBBA NJIE | Gambia | 392 |
-| 15 | [JonMonday](https://github.com/JonMonday) | JohnMonday | Banjul, The Gambia | 257 |
+| 15 | [JonMonday](https://github.com/JonMonday) | JohnMonday | Banjul, The Gambia | 259 |
 | 16 | [Baboucar](https://github.com/Baboucar) | Baboucarr | Gambia | 223 |
 | 17 | [fiture99](https://github.com/fiture99) | Lamin Jawneh | Banjul, Gambia | 209 |
 | 18 | [Degoot-AM](https://github.com/Degoot-AM) | Abdoelnaser M Degoot | Banjul, Gambia | 177 |
-| 19 | [Karim-Mane](https://github.com/Karim-Mane) | Karim MANE | Gambia | 156 |
+| 19 | [Karim-Mane](https://github.com/Karim-Mane) | Karim MANE | Gambia | 152 |
 | 20 | [ONjie](https://github.com/ONjie) | Muhammed O Njie | Banjul, The Gambia | 138 |
 
 ## Public Contributions
@@ -45,7 +45,7 @@ Indexed users: 79
 | 6 | [khanmomodou101](https://github.com/khanmomodou101) | Momodou khan | Gambia | 234 |
 | 7 | [fiture99](https://github.com/fiture99) | Lamin Jawneh | Banjul, Gambia | 209 |
 | 8 | [Degoot-AM](https://github.com/Degoot-AM) | Abdoelnaser M Degoot | Banjul, Gambia | 177 |
-| 9 | [Karim-Mane](https://github.com/Karim-Mane) | Karim MANE | Gambia | 156 |
+| 9 | [Karim-Mane](https://github.com/Karim-Mane) | Karim MANE | Gambia | 152 |
 | 10 | [ONjie](https://github.com/ONjie) | Muhammed O Njie | Banjul, The Gambia | 138 |
 | 11 | [harunaabaldeh](https://github.com/harunaabaldeh) | Haruna A Baldeh | Banjul | 126 |
 | 12 | [thanos14million605](https://github.com/thanos14million605) | Ebrima Gajaga | Brikama, Gambia | 121 |
@@ -83,4 +83,4 @@ Indexed users: 79
 | 19 | [nyassian](https://github.com/nyassian) | EBRIMA NYASSI | Banjul,THE GAMBIA | 8 |
 | 20 | [cyberdavinci](https://github.com/cyberdavinci) | CyberDavinci | Gambia | 7 |
 
-Generated: 2026-10-16T02:32:55.138Z
+Generated: 2026-10-16T05:34:40.030Z

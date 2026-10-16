@@ -16,10 +16,10 @@ Indexed users: 45
 | 2 | [gsydev191](https://github.com/gsydev191) | Dan | Guernsey | 2,006 |
 | 3 | [RicLeP](https://github.com/RicLeP) | Ric Le Poidevin | Guernsey | 1,466 |
 | 4 | [tris203](https://github.com/tris203) | Tristan Knight | Guernsey | 1,354 |
-| 5 | [technosight](https://github.com/technosight) | Ivan Petrov | St Peter Port, Guernsey | 998 |
+| 5 | [technosight](https://github.com/technosight) | Ivan Petrov | St Peter Port, Guernsey | 993 |
 | 6 | [mh0lt](https://github.com/mh0lt) | Mark Holt | Guernsey | 672 |
 | 7 | [bkp7](https://github.com/bkp7) | Barry Pitfield | Guernsey | 450 |
-| 8 | [YuriGuernsey](https://github.com/YuriGuernsey) | Yuri Alves | Guernsey | 384 |
+| 8 | [YuriGuernsey](https://github.com/YuriGuernsey) | Yuri Alves | Guernsey | 380 |
 | 9 | [GlennToms](https://github.com/GlennToms) | Glenn Toms | Guernsey | 258 |
 | 10 | [JamesK2754](https://github.com/JamesK2754) | James King | Guernsey | 231 |
 | 11 | [IanGSY](https://github.com/IanGSY) | IanGSY | Guernsey | 114 |
@@ -83,4 +83,4 @@ Indexed users: 45
 | 19 | [LIHITAB](https://github.com/LIHITAB) | Like and Code on GitHub | Guernsey, CI | 3 |
 | 20 | [mtp-tkostudax](https://github.com/mtp-tkostudax) | Shanty Irish | Guernsey | 3 |
 
-Generated: 2026-10-16T02:36:14.170Z
+Generated: 2026-10-16T05:38:08.898Z

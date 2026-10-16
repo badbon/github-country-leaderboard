@@ -80,7 +80,7 @@ Indexed users: 1,487
 | 16 | [SaeqaSultani](https://github.com/SaeqaSultani) | Saeqa Sultani | Afghanistan | 130 |
 | 17 | [shayanheidari01](https://github.com/shayanheidari01) | Shayan Heidari | Afghanistan/Kabul | 129 |
 | 18 | [yasinnoori](https://github.com/yasinnoori) | Mohammad Yasin Noori | Kabul, Afghanistan | 129 |
-| 19 | [zainabturkmen](https://github.com/zainabturkmen) | Zainab Turkmen | Kabul  | 125 |
+| 19 | [zainabturkmen](https://github.com/zainabturkmen) | Zainab Turkmen | Kabul  | 124 |
 | 20 | [NaveedAhmadHematmal](https://github.com/NaveedAhmadHematmal) | Naveed Ahmad Hematmal | Afghanistan | 117 |
 
-Generated: 2026-10-16T02:03:29.101Z
+Generated: 2026-10-16T05:07:47.839Z

@@ -1,6 +1,6 @@
 # Followers - Angola
 
-Generated: 2026-10-16T02:06:16.862Z
+Generated: 2026-10-16T05:10:43.612Z
 
 Users: 2502
 
@@ -23,6 +23,6 @@ Users: 2502
 | 15 | [EufranioDiogo](https://github.com/EufranioDiogo) | Eufránio Diogo | Uija Code |  | Angola | 180 |
 | 16 | [cirilocanganjo](https://github.com/cirilocanganjo) | Cirilo Cussaca Canganjo |  | cirilocussaca | Luanda, Amgola | 170 |
 | 17 | [manuelernesto](https://github.com/manuelernesto) | Manuel Ernesto | Software Engineer | manuelernest0 | Angola | 165 |
-| 18 | [bacarPereira](https://github.com/bacarPereira) | Abú-Bakr Pereira K | Elasticus | bacar_bc | Luanda,Angola | 164 |
-| 19 | [nazarepiedady](https://github.com/nazarepiedady) | Nazaré da Piedade | @vitejs, @vuejs-translations, @pythonpt, @javascript-tutorial | nazarepiedady | Angola | 164 |
-| 20 | [jofranqueira](https://github.com/jofranqueira) | José Frangueira |  | Kanashiides | Angola | 160 |
+| 18 | [nazarepiedady](https://github.com/nazarepiedady) | Nazaré da Piedade | @vitejs, @vuejs-translations, @pythonpt, @javascript-tutorial | nazarepiedady | Angola | 164 |
+| 19 | [jofranqueira](https://github.com/jofranqueira) | José Frangueira |  | Kanashiides | Angola | 160 |
+| 20 | [Jovanysfive](https://github.com/Jovanysfive) | Job Bento |  | Jovany_sfive1 | Angola/Luanda | 152 |
