@@ -25830,9 +25830,9 @@
     "location": "Romania",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 135,
-    "publicContributions": 240,
+    "followers": 1,
+    "privateContributions": 140,
+    "publicContributions": 247,
     "createdAt": "2022-12-15T12:29:52Z"
   },
   {
@@ -25843,7 +25843,7 @@
     "company": "COOL WEB DESIGN S.R.L | INNOVATEX DESIGN S.R.L",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 872,
+    "privateContributions": 1057,
     "publicContributions": 0,
     "createdAt": "2022-05-04T08:59:27Z"
   },
@@ -25866,9 +25866,9 @@
     "location": "Bucharest, Romania",
     "company": "University POLITEHNICA of Bucharest (@cs-pub-ro)",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 121,
-    "publicContributions": 64,
+    "followers": 4,
+    "privateContributions": 126,
+    "publicContributions": 60,
     "createdAt": "2022-12-13T14:25:40Z"
   },
   {
@@ -25879,8 +25879,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 48,
-    "publicContributions": 60,
+    "privateContributions": 106,
+    "publicContributions": 48,
     "createdAt": "2022-03-29T15:21:12Z"
   },
   {
@@ -25891,8 +25891,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 2,
-    "publicContributions": 30,
+    "privateContributions": 1,
+    "publicContributions": 22,
     "createdAt": "2022-10-09T18:50:16Z"
   },
   {
@@ -25906,18 +25906,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-02-17T14:12:24Z"
-  },
-  {
-    "login": "Andyvladescu73",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/121121013?s=72&v=4",
-    "location": "Mangalia, Romania",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 11,
-    "createdAt": "2022-12-20T17:00:45Z"
   },
   {
     "login": "larisabalc",
@@ -25951,7 +25939,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1,
+    "privateContributions": 49,
     "publicContributions": 4,
     "createdAt": "2022-10-04T13:39:59Z"
   },
@@ -26012,7 +26000,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 111,
+    "publicContributions": 82,
     "createdAt": "2022-02-10T13:34:15Z"
   },
   {
@@ -26023,8 +26011,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 528,
-    "publicContributions": 0,
+    "privateContributions": 551,
+    "publicContributions": 2,
     "createdAt": "2022-08-07T15:16:58Z"
   },
   {
@@ -26034,7 +26022,7 @@
     "location": "Romania",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2022-09-09T19:50:08Z"

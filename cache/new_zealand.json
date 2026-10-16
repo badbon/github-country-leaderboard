@@ -25784,7 +25784,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2021-12-03T00:58:12Z"
   },
   {
@@ -25796,7 +25796,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2021-11-26T22:23:08Z"
   },
   {
@@ -25822,18 +25822,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-12-29T02:23:17Z"
-  },
-  {
-    "login": "akashgopani",
-    "name": "Akash Gopani",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/84159147?s=72&u=adb142c82952a07edb3ba1bc1c47aa4da17ec966&v=4",
-    "location": "Wellington, NZ",
-    "company": "Reveal",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 7,
-    "publicContributions": 0,
-    "createdAt": "2021-05-13T23:16:15Z"
   },
   {
     "login": "GynnRickerbyIW",
@@ -25986,7 +25974,7 @@
     "location": "Wellington",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 1,
     "publicContributions": 1,
     "createdAt": "2021-07-28T00:02:21Z"
