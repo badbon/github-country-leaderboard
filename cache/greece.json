@@ -24499,8 +24499,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 13,
-    "privateContributions": 2129,
-    "publicContributions": 106,
+    "privateContributions": 2363,
+    "publicContributions": 83,
     "createdAt": "2022-10-05T19:27:55Z"
   },
   {
@@ -24510,8 +24510,8 @@
     "location": "Greece",
     "company": "",
     "twitterUsername": "",
-    "followers": 13,
-    "privateContributions": 17,
+    "followers": 10,
+    "privateContributions": 3,
     "publicContributions": 26,
     "createdAt": "2022-12-16T20:59:04Z"
   },
@@ -24522,9 +24522,9 @@
     "location": "Athens, Greece",
     "company": "Agora Labs",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 385,
-    "publicContributions": 21,
+    "followers": 15,
+    "privateContributions": 295,
+    "publicContributions": 11,
     "createdAt": "2022-07-26T20:54:39Z"
   },
   {
@@ -24534,22 +24534,10 @@
     "location": "Thessaloniki, Greece",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 73,
+    "publicContributions": 38,
     "createdAt": "2022-09-20T14:07:18Z"
-  },
-  {
-    "login": "kougioulis",
-    "name": "Nikolas Kougioulis",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/110790378?s=72&u=6acd04f900780e1f3cfaadf2f7b60694d2de76c0&v=4",
-    "location": "Thessaloniki, Greece ",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 130,
-    "publicContributions": 446,
-    "createdAt": "2022-08-07T21:37:51Z"
   },
   {
     "login": "Pathpat",
@@ -24594,9 +24582,9 @@
     "location": "Athens,Greece",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 1855,
-    "publicContributions": 133,
+    "followers": 11,
+    "privateContributions": 4062,
+    "publicContributions": 115,
     "createdAt": "2022-07-09T08:13:54Z"
   },
   {
@@ -24606,8 +24594,8 @@
     "location": "Heraklion, Greece",
     "company": "https://www.eworx.gr",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 112,
+    "followers": 13,
+    "privateContributions": 143,
     "publicContributions": 4,
     "createdAt": "2022-01-12T07:50:50Z"
   },
@@ -24619,7 +24607,7 @@
     "company": "University of West Attica",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 81,
+    "privateContributions": 148,
     "publicContributions": 0,
     "createdAt": "2022-04-21T21:26:26Z"
   },
@@ -24643,7 +24631,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 72,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-02-10T11:17:01Z"
   },
@@ -24654,7 +24642,7 @@
     "location": "Ioannina, Greece",
     "company": "\"Φ\" maths & statistics lab",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 11,
     "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2022-07-26T15:16:28Z"
@@ -24666,9 +24654,9 @@
     "location": "Corfu, Greece",
     "company": "Ionian University",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 55,
-    "publicContributions": 10,
+    "followers": 13,
+    "privateContributions": 132,
+    "publicContributions": 277,
     "createdAt": "2022-10-14T13:51:03Z"
   },
   {
@@ -24678,9 +24666,9 @@
     "location": "Thessaloniki, Greece",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 50,
-    "publicContributions": 4,
+    "followers": 10,
+    "privateContributions": 168,
+    "publicContributions": 0,
     "createdAt": "2022-01-01T10:07:32Z"
   },
   {
@@ -24690,9 +24678,9 @@
     "location": "Corfu, Greece",
     "company": "Ionian University",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 10,
     "createdAt": "2022-10-13T18:56:45Z"
   },
   {
@@ -24702,22 +24690,10 @@
     "location": "Greece",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 45,
+    "followers": 13,
+    "privateContributions": 47,
     "publicContributions": 3,
     "createdAt": "2022-07-26T20:13:53Z"
-  },
-  {
-    "login": "jaysuslol",
-    "name": "jay",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/108296844?s=72&u=e87875b981e6b236b507f625795c31746bdad460&v=4",
-    "location": "Greece",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 0,
-    "publicContributions": 36,
-    "createdAt": "2022-06-27T18:16:09Z"
   },
   {
     "login": "kafidas",
@@ -24728,7 +24704,7 @@
     "twitterUsername": "apostratos",
     "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 41,
+    "publicContributions": 24,
     "createdAt": "2022-06-22T21:08:06Z"
   },
   {

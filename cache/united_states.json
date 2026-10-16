@@ -1525102,5 +1525102,29 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2022-06-28T20:08:54Z"
+  },
+  {
+    "login": "rassul-red",
+    "name": "Rassul",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/186224176?s=72&u=84b6be5641b7b791810e8d2b95efaefbdbb0c1fb&v=4",
+    "location": "San-Francisco, USA",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 587,
+    "publicContributions": 99,
+    "createdAt": "2024-10-24T20:04:50Z"
+  },
+  {
+    "login": "Wind-2375-like",
+    "name": "Yiyang Feng",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/103162183?s=72&u=de3719aa41db8ed12187843fff5aa7d3bf75aac8&v=4",
+    "location": "Stony Brook, United States of America",
+    "company": "Stony Brook University",
+    "twitterUsername": "",
+    "followers": 14,
+    "privateContributions": 0,
+    "publicContributions": 162,
+    "createdAt": "2022-04-07T03:13:48Z"
   }
 ]

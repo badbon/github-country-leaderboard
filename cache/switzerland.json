@@ -24126,7 +24126,7 @@
     "location": "Switzerland",
     "company": "DTI SUPSI",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 11,
     "privateContributions": 6,
     "publicContributions": 82,
     "createdAt": "2022-02-28T22:24:32Z"
@@ -24138,7 +24138,7 @@
     "location": "Lausanne, Switzerland",
     "company": "EPFL",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 13,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-01-25T20:52:31Z"
@@ -24150,9 +24150,9 @@
     "location": "Bern, Switzerland",
     "company": "",
     "twitterUsername": "benigraedel",
-    "followers": 12,
-    "privateContributions": 116,
-    "publicContributions": 30,
+    "followers": 14,
+    "privateContributions": 155,
+    "publicContributions": 33,
     "createdAt": "2022-02-19T12:43:43Z"
   },
   {
@@ -24174,34 +24174,10 @@
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 83,
-    "publicContributions": 283,
+    "followers": 13,
+    "privateContributions": 255,
+    "publicContributions": 194,
     "createdAt": "2022-03-31T12:21:22Z"
-  },
-  {
-    "login": "tburkhalterr",
-    "name": "tburkhalterr",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/103250483?s=72&u=f2cd00fa45b7e7fb1c16ad1f7a94e913625ffb71&v=4",
-    "location": "Switzerland ",
-    "company": "socraft / TMBK / 2T / Optifit",
-    "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 306,
-    "publicContributions": 5879,
-    "createdAt": "2022-04-08T09:17:35Z"
-  },
-  {
-    "login": "cricci3",
-    "name": "Claudio Ricci",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/100707767?s=72&u=ee9be57f761a07cc0c26371b767fdb20f1cfc56a&v=4",
-    "location": "Lugano, Switzerland",
-    "company": "UNIMIB, USI.ch",
-    "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 0,
-    "publicContributions": 80,
-    "createdAt": "2022-03-01T15:48:32Z"
   },
   {
     "login": "jppf22",
@@ -24210,9 +24186,9 @@
     "location": "Zurich, Switzerland",
     "company": "University of Zurich",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 13,
     "privateContributions": 80,
-    "publicContributions": 82,
+    "publicContributions": 75,
     "createdAt": "2022-04-25T11:24:33Z"
   },
   {
@@ -24222,9 +24198,9 @@
     "location": "Switzerland, Sargans",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 1388,
-    "publicContributions": 35,
+    "followers": 13,
+    "privateContributions": 1333,
+    "publicContributions": 29,
     "createdAt": "2022-06-10T07:56:17Z"
   },
   {
@@ -24234,7 +24210,7 @@
     "location": "Switzerland",
     "company": "EPFL / DECTRIS",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 12,
     "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2022-06-28T12:16:08Z"
@@ -24246,9 +24222,9 @@
     "location": "Switzerland",
     "company": "autumo Ltd.",
     "twitterUsername": "autumo",
-    "followers": 11,
+    "followers": 13,
     "privateContributions": 72,
-    "publicContributions": 98,
+    "publicContributions": 108,
     "createdAt": "2022-02-19T17:09:27Z"
   },
   {
@@ -24258,9 +24234,9 @@
     "location": "Zürich, Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 20,
     "createdAt": "2022-03-19T13:38:44Z"
   },
   {
@@ -24271,7 +24247,7 @@
     "company": "ETH Zürich",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 325,
+    "privateContributions": 289,
     "publicContributions": 0,
     "createdAt": "2022-05-07T09:20:16Z"
   },
@@ -24294,9 +24270,9 @@
     "location": "Bern, Switzerland",
     "company": "",
     "twitterUsername": "AREschweiz",
-    "followers": 10,
+    "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2022-05-02T06:49:21Z"
   },
   {
@@ -24307,21 +24283,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 3225,
-    "publicContributions": 117,
+    "privateContributions": 6389,
+    "publicContributions": 104,
     "createdAt": "2022-02-15T14:35:01Z"
-  },
-  {
-    "login": "Wind-2375-like",
-    "name": "Yiyang Feng",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/103162183?s=72&u=de3719aa41db8ed12187843fff5aa7d3bf75aac8&v=4",
-    "location": "Lausanne, Switzerland",
-    "company": "EPFL",
-    "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 0,
-    "publicContributions": 1934,
-    "createdAt": "2022-04-07T03:13:48Z"
   },
   {
     "login": "JayGamb",
@@ -24330,9 +24294,9 @@
     "location": "Geneva, Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 313,
-    "publicContributions": 3,
+    "followers": 11,
+    "privateContributions": 889,
+    "publicContributions": 17,
     "createdAt": "2022-06-03T10:05:08Z"
   },
   {

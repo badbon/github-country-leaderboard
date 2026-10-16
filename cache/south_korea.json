@@ -23863,8 +23863,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 309,
-    "publicContributions": 463,
+    "privateContributions": 453,
+    "publicContributions": 541,
     "createdAt": "2024-03-05T04:33:39Z"
   },
   {
@@ -23875,8 +23875,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 7,
-    "publicContributions": 74,
+    "privateContributions": 32,
+    "publicContributions": 35,
     "createdAt": "2024-01-21T03:43:41Z"
   },
   {
@@ -23888,7 +23888,7 @@
     "twitterUsername": "",
     "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 621,
+    "publicContributions": 595,
     "createdAt": "2024-05-23T01:13:15Z"
   },
   {
@@ -23898,9 +23898,9 @@
     "location": "South Korea",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 20,
     "privateContributions": 0,
-    "publicContributions": 55,
+    "publicContributions": 27,
     "createdAt": "2024-03-02T14:09:21Z"
   },
   {
@@ -23912,7 +23912,7 @@
     "twitterUsername": "",
     "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 82,
+    "publicContributions": 72,
     "createdAt": "2024-04-23T12:37:56Z"
   },
   {
@@ -23922,21 +23922,21 @@
     "location": "Seoul, South Korea",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 618,
+    "publicContributions": 652,
     "createdAt": "2024-04-05T03:22:47Z"
   },
   {
     "login": "HSU-LEE",
     "name": "Lee Hee Seung",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/187257358?s=72&u=3d1c9c7bec7dd07a1c2b360ea7a2600107355671&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/187257358?s=72&u=909d7551e2d3d01901df3cc337ae94c3880adbec&v=4",
     "location": "South Korea",
     "company": "Student ( 15 )",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 0,
-    "publicContributions": 286,
+    "followers": 9,
+    "privateContributions": 205,
+    "publicContributions": 141,
     "createdAt": "2024-11-04T08:30:03Z"
   },
   {
@@ -23948,7 +23948,7 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 8,
-    "publicContributions": 262,
+    "publicContributions": 226,
     "createdAt": "2024-10-11T06:47:01Z"
   },
   {
@@ -23959,8 +23959,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 4,
-    "publicContributions": 353,
+    "privateContributions": 3,
+    "publicContributions": 355,
     "createdAt": "2024-06-26T05:23:30Z"
   },
   {
@@ -23972,20 +23972,8 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 63,
+    "publicContributions": 53,
     "createdAt": "2024-01-05T06:01:40Z"
-  },
-  {
-    "login": "rassul-red",
-    "name": "Rassul",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/186224176?s=72&u=84b6be5641b7b791810e8d2b95efaefbdbb0c1fb&v=4",
-    "location": "Seoul, South Korea",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 0,
-    "publicContributions": 98,
-    "createdAt": "2024-10-24T20:04:50Z"
   },
   {
     "login": "meanzzi",
@@ -23994,9 +23982,9 @@
     "location": "South Korea",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 46,
-    "publicContributions": 350,
+    "followers": 12,
+    "privateContributions": 118,
+    "publicContributions": 349,
     "createdAt": "2024-09-12T06:39:35Z"
   },
   {
@@ -24006,9 +23994,9 @@
     "location": "Anyang, Gyeonggi-do, South-Korea",
     "company": "Soongsil University",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 132,
+    "publicContributions": 71,
     "createdAt": "2024-08-19T05:31:17Z"
   },
   {
@@ -24016,11 +24004,11 @@
     "name": "Hwichul Shin",
     "avatarUrl": "https://avatars.githubusercontent.com/u/178902289?s=72&u=debbb2d17ccaf144ef0de4760e9c89fcd2f7ced3&v=4",
     "location": "South Korea",
-    "company": "@AutoLabs-Korea",
+    "company": "@AutoLabs-Inc",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 3195,
-    "publicContributions": 39,
+    "followers": 11,
+    "privateContributions": 1817,
+    "publicContributions": 29,
     "createdAt": "2024-08-20T12:02:01Z"
   },
   {
@@ -24032,7 +24020,7 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 71,
     "createdAt": "2024-02-12T06:10:22Z"
   },
   {
@@ -24042,7 +24030,7 @@
     "location": "Seoul, South Korea",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 11,
     "privateContributions": 2,
     "publicContributions": 0,
     "createdAt": "2024-09-04T02:58:25Z"
@@ -24054,9 +24042,9 @@
     "location": "Korea, Rebublic of (South Korea)",
     "company": "Inha University",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 53,
+    "publicContributions": 52,
     "createdAt": "2024-09-12T05:21:38Z"
   },
   {
@@ -24068,7 +24056,7 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 8,
-    "publicContributions": 398,
+    "publicContributions": 254,
     "createdAt": "2024-11-05T04:06:37Z"
   },
   {
@@ -24078,9 +24066,9 @@
     "location": "Seoul, South Korea",
     "company": "Soongsil Univ. Computer Science && Engineering",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 312,
+    "publicContributions": 299,
     "createdAt": "2024-12-18T16:32:59Z"
   },
   {
@@ -24090,9 +24078,9 @@
     "location": "Incheon, South Korea",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 486,
+    "publicContributions": 669,
     "createdAt": "2024-09-25T11:58:16Z"
   },
   {

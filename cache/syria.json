@@ -6704,7 +6704,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2023-12-06T15:38:19Z"
   },
   {
@@ -6871,7 +6871,7 @@
     "company": "Damascus University",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 135,
+    "privateContributions": 172,
     "publicContributions": 53,
     "createdAt": "2023-05-20T12:25:47Z"
   },
@@ -6896,7 +6896,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 34,
-    "publicContributions": 225,
+    "publicContributions": 217,
     "createdAt": "2023-06-16T12:16:23Z"
   },
   {
@@ -6920,7 +6920,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 17,
     "createdAt": "2023-07-03T21:11:47Z"
   },
   {
@@ -6930,8 +6930,8 @@
     "location": "Syria",
     "company": "Connect IT",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 372,
+    "followers": 3,
+    "privateContributions": 414,
     "publicContributions": 191,
     "createdAt": "2023-10-11T10:38:15Z"
   },
