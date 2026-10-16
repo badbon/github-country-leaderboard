@@ -488,7 +488,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-10-12T21:29:40Z"
   },
   {
@@ -524,7 +524,7 @@
     "twitterUsername": "",
     "followers": 47,
     "privateContributions": 761,
-    "publicContributions": 594,
+    "publicContributions": 558,
     "createdAt": "2024-01-10T20:31:59Z"
   },
   {
@@ -534,7 +534,7 @@
     "location": "Panama",
     "company": "",
     "twitterUsername": "",
-    "followers": 33,
+    "followers": 32,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-05-21T22:40:14Z"
@@ -560,7 +560,7 @@
     "twitterUsername": "",
     "followers": 12,
     "privateContributions": 297,
-    "publicContributions": 1177,
+    "publicContributions": 1505,
     "createdAt": "2024-07-26T17:32:34Z"
   },
   {
@@ -571,8 +571,8 @@
     "company": "blackswan.money",
     "twitterUsername": "ate_bites",
     "followers": 12,
-    "privateContributions": 5692,
-    "publicContributions": 767,
+    "privateContributions": 6102,
+    "publicContributions": 763,
     "createdAt": "2024-08-06T00:22:55Z"
   },
   {
@@ -583,7 +583,7 @@
     "company": "RoboStem",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 598,
+    "privateContributions": 597,
     "publicContributions": 48,
     "createdAt": "2024-04-23T14:23:48Z"
   },
@@ -596,7 +596,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 163,
+    "publicContributions": 302,
     "createdAt": "2024-11-24T06:32:57Z"
   },
   {
@@ -631,7 +631,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 12,
+    "privateContributions": 13,
     "publicContributions": 12,
     "createdAt": "2024-03-15T15:09:31Z"
   },
@@ -655,7 +655,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 753,
+    "privateContributions": 996,
     "publicContributions": 21,
     "createdAt": "2024-04-13T19:10:22Z"
   },
@@ -667,7 +667,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 3638,
+    "privateContributions": 3706,
     "publicContributions": 18,
     "createdAt": "2024-03-18T16:50:56Z"
   },
@@ -704,7 +704,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 50,
+    "publicContributions": 51,
     "createdAt": "2024-01-10T05:07:19Z"
   },
   {
@@ -715,7 +715,7 @@
     "company": "AMPM Centroamérica",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 278,
+    "privateContributions": 287,
     "publicContributions": 0,
     "createdAt": "2024-05-23T23:15:07Z"
   },

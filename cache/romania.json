@@ -27307,8 +27307,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 32,
-    "publicContributions": 20,
+    "privateContributions": 36,
+    "publicContributions": 85,
     "createdAt": "2022-02-15T12:16:25Z"
   },
   {
@@ -27320,7 +27320,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 0,
     "createdAt": "2022-05-25T14:49:39Z"
   },
   {
@@ -27331,7 +27331,7 @@
     "company": "Tremend",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 471,
+    "privateContributions": 85,
     "publicContributions": 0,
     "createdAt": "2022-08-05T06:56:44Z"
   },
@@ -27356,7 +27356,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 8,
     "createdAt": "2022-10-19T20:12:14Z"
   },
   {
@@ -27414,7 +27414,7 @@
     "location": "Bucharest, Romania",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2022-05-20T06:30:55Z"
@@ -27434,12 +27434,12 @@
   {
     "login": "alexbanciu",
     "name": "Alexandru Ioan Banciu",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/111376959?s=72&u=b0615d2e1c6bb5679b25d234caa1ad43df3f8b3f&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/111376959?s=72&u=205391fbc19f047f3672752bc7cf7edb14a0e67a&v=4",
     "location": "Sibiu, Romania",
-    "company": "",
+    "company": "Fauri",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1294,
+    "privateContributions": 881,
     "publicContributions": 0,
     "createdAt": "2022-08-16T16:04:13Z"
   },
@@ -27450,8 +27450,8 @@
     "location": "Bucharest, Romania",
     "company": "",
     "twitterUsername": "alex_ambrinos",
-    "followers": 1,
-    "privateContributions": 1628,
+    "followers": 2,
+    "privateContributions": 1991,
     "publicContributions": 37,
     "createdAt": "2022-03-07T14:13:58Z"
   },
@@ -27476,7 +27476,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2022-03-16T09:00:15Z"
   },
   {

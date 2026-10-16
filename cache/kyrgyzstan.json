@@ -27080,7 +27080,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2014-11-17T07:44:39Z"
   },
   {
@@ -27091,7 +27091,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 12,
+    "privateContributions": 15,
     "publicContributions": 0,
     "createdAt": "2014-12-15T06:51:21Z"
   },
@@ -27104,7 +27104,7 @@
     "twitterUsername": "temirbek",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 27,
     "createdAt": "2014-12-09T04:11:22Z"
   },
   {
@@ -27127,7 +27127,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 810,
+    "privateContributions": 1405,
     "publicContributions": 1,
     "createdAt": "2014-12-07T08:44:40Z"
   },
@@ -27139,8 +27139,8 @@
     "company": "Raft",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 310,
-    "publicContributions": 6,
+    "privateContributions": 157,
+    "publicContributions": 7,
     "createdAt": "2014-03-04T11:54:34Z"
   },
   {
@@ -27150,7 +27150,7 @@
     "location": "Bishkek, Kyrgyzstan",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-09-03T05:48:57Z"
@@ -27175,7 +27175,7 @@
     "company": "Softvelum",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 149,
+    "privateContributions": 172,
     "publicContributions": 12,
     "createdAt": "2014-10-20T05:10:10Z"
   },
@@ -27198,9 +27198,9 @@
     "location": "Bishkek",
     "company": "@ALTAIRLAB ",
     "twitterUsername": "",
-    "followers": 83,
+    "followers": 84,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 1,
     "createdAt": "2014-05-29T15:50:23Z"
   },
   {
@@ -27234,8 +27234,8 @@
     "location": "Bishkek",
     "company": "iSistant",
     "twitterUsername": "",
-    "followers": 19,
-    "privateContributions": 389,
+    "followers": 20,
+    "privateContributions": 333,
     "publicContributions": 1,
     "createdAt": "2014-06-19T05:54:31Z"
   },
@@ -27248,7 +27248,7 @@
     "twitterUsername": "",
     "followers": 17,
     "privateContributions": 0,
-    "publicContributions": 121,
+    "publicContributions": 99,
     "createdAt": "2014-12-20T14:35:29Z"
   },
   {
@@ -27259,7 +27259,7 @@
     "company": "Metacask",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 312,
+    "privateContributions": 305,
     "publicContributions": 28,
     "createdAt": "2014-11-19T14:15:25Z"
   },
@@ -27283,8 +27283,8 @@
     "company": "Mad Devs",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 339,
-    "publicContributions": 6,
+    "privateContributions": 302,
+    "publicContributions": 0,
     "createdAt": "2014-08-04T13:19:30Z"
   },
   {
@@ -27296,7 +27296,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 212,
     "createdAt": "2014-04-25T11:13:49Z"
   },
   {
