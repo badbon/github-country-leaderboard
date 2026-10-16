@@ -1,23 +1,23 @@
 # Total Contributions - Guernsey
 
-Generated: 2026-10-16T01:06:35.872Z
+Generated: 2026-10-16T02:36:14.170Z
 
 Users: 45
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [nick-vermeulen](https://github.com/nick-vermeulen) | Nick |  |  | Guernsey | 2610 |
-| 2 | [gsydev191](https://github.com/gsydev191) | Dan |  |  | Guernsey | 2009 |
-| 3 | [RicLeP](https://github.com/RicLeP) | Ric Le Poidevin | U&US | riclep | Guernsey | 1470 |
-| 4 | [tris203](https://github.com/tris203) | Tristan Knight |  |  | Guernsey | 1358 |
+| 2 | [gsydev191](https://github.com/gsydev191) | Dan |  |  | Guernsey | 2006 |
+| 3 | [RicLeP](https://github.com/RicLeP) | Ric Le Poidevin | U&US | riclep | Guernsey | 1466 |
+| 4 | [tris203](https://github.com/tris203) | Tristan Knight |  |  | Guernsey | 1354 |
 | 5 | [technosight](https://github.com/technosight) | Ivan Petrov | Technosight |  | St Peter Port, Guernsey | 998 |
-| 6 | [mh0lt](https://github.com/mh0lt) | Mark Holt |  |  | Guernsey | 675 |
+| 6 | [mh0lt](https://github.com/mh0lt) | Mark Holt |  |  | Guernsey | 672 |
 | 7 | [bkp7](https://github.com/bkp7) | Barry Pitfield |  |  | Guernsey | 450 |
 | 8 | [YuriGuernsey](https://github.com/YuriGuernsey) | Yuri Alves | BugBird Co. | YuriGuernsey | Guernsey | 384 |
 | 9 | [GlennToms](https://github.com/GlennToms) | Glenn Toms |  |  | Guernsey | 258 |
 | 10 | [JamesK2754](https://github.com/JamesK2754) | James King |  |  | Guernsey | 231 |
 | 11 | [IanGSY](https://github.com/IanGSY) | IanGSY |  |  | Guernsey | 114 |
-| 12 | [theModrzew](https://github.com/theModrzew) | Patryk |  |  | Guernsey | 102 |
+| 12 | [theModrzew](https://github.com/theModrzew) | Patryk |  |  | Guernsey | 101 |
 | 13 | [adrianritchie](https://github.com/adrianritchie) |  |  |  | Guernsey | 71 |
 | 14 | [tomupson](https://github.com/tomupson) | Tom Upson |  |  | Guernsey | 17 |
 | 15 | [gilbertbw](https://github.com/gilbertbw) | Gilbert Bishop-White | @x-ware-ltd  |  | Guernsey | 10 |

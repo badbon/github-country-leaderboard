@@ -14,16 +14,16 @@ Indexed users: 61
 |---:|---|---|---|---:|
 | 1 | [calebnewtonusc](https://github.com/calebnewtonusc) | Caleb Newton | San Marino, CA | 13,987 |
 | 2 | [simooooone](https://github.com/simooooone) | Simos | San Marino | 10,108 |
-| 3 | [brunodotgg](https://github.com/brunodotgg) | Bruno | San Marino | 4,362 |
+| 3 | [brunodotgg](https://github.com/brunodotgg) | Bruno | San Marino | 4,354 |
 | 4 | [mcdado](https://github.com/mcdado) | David Gasperoni | San Marino (SMR) <✈️> Madrid, Spain | 3,180 |
-| 5 | [tomwhoooo](https://github.com/tomwhoooo) | Tom Hu | San Marino, California | 2,310 |
-| 6 | [CastFX](https://github.com/CastFX) | Chris | San Marino | 2,275 |
-| 7 | [damiandominella](https://github.com/damiandominella) | dodo | San Marino / Milan / Remotely | 2,173 |
+| 5 | [tomwhoooo](https://github.com/tomwhoooo) | Tom Hu | San Marino, California | 2,308 |
+| 6 | [CastFX](https://github.com/CastFX) | Chris | San Marino | 2,265 |
+| 7 | [damiandominella](https://github.com/damiandominella) | dodo | San Marino / Milan / Remotely | 2,166 |
 | 8 | [deBrian07](https://github.com/deBrian07) | Brian C. | San Marino, CA | 2,029 |
 | 9 | [gerza-lab](https://github.com/gerza-lab) | adam gerza | San Marino, CA | 1,237 |
 | 10 | [alessandrorebosio](https://github.com/alessandrorebosio) | Rebo | San Marino | 896 |
 | 11 | [thu105](https://github.com/thu105) | Hein Moe Thu | San Marino, CA | 774 |
-| 12 | [gennaris](https://github.com/gennaris) | Simone Gennari | San Marino | 756 |
+| 12 | [gennaris](https://github.com/gennaris) | Simone Gennari | San Marino | 754 |
 | 13 | [gcardi](https://github.com/gcardi) | Giuliano Cardinali | Republic of San Marino | 733 |
 | 14 | [lmacchiavelli](https://github.com/lmacchiavelli) | Lorenzo Macchiavelli | San Marino | 487 |
 | 15 | [Llandy3d](https://github.com/Llandy3d) | Llandy Riveron Del Risco | San Marino | 336 |
@@ -83,4 +83,4 @@ Indexed users: 61
 | 19 | [deBrian07](https://github.com/deBrian07) | Brian C. | San Marino, CA | 11 |
 | 20 | [Wentianlong](https://github.com/Wentianlong) | Erma O'Conner | 505 ,Gaynelle Locks ,Carleneland ,Texas ,San Marino | 11 |
 
-Generated: 2026-10-16T01:45:13.382Z
+Generated: 2026-10-16T03:10:46.935Z

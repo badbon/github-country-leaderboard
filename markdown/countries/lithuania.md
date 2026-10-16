@@ -44,9 +44,9 @@ Indexed users: 5,379
 | 5 | [shenxianpeng](https://github.com/shenxianpeng) | Xianpeng Shen | Lithuania | 5,796 |
 | 6 | [UlodisEglitis](https://github.com/UlodisEglitis) | Ulodis Eglitis | Lithuania | 5,076 |
 | 7 | [mjudeikis](https://github.com/mjudeikis) | Mangirdas Judeikis | Lithuania | 2,982 |
-| 8 | [NathaliaLietuvaite](https://github.com/NathaliaLietuvaite) | Nathalia Lietuvaite | Vilnius | 2,939 |
-| 9 | [blinkinglight](https://github.com/blinkinglight) | M | Lithuania | 2,663 |
-| 10 | [qweered](https://github.com/qweered) | Aliaksandr | Vilnius, Lithuania | 2,656 |
+| 8 | [qweered](https://github.com/qweered) | Aliaksandr Samatyia | Vilnius, Lithuania | 2,949 |
+| 9 | [NathaliaLietuvaite](https://github.com/NathaliaLietuvaite) | Nathalia Lietuvaite | Vilnius | 2,939 |
+| 10 | [blinkinglight](https://github.com/blinkinglight) | M | Lithuania | 2,663 |
 | 11 | [flyingriverhorse](https://github.com/flyingriverhorse) | Murat | Vilnius | 2,632 |
 | 12 | [vladlevinas](https://github.com/vladlevinas) | Vlad Levinas | Lithuania | 2,522 |
 | 13 | [simison](https://github.com/simison) | Mikael Korpela | Lithuania | 2,457 |
@@ -83,4 +83,4 @@ Indexed users: 5,379
 | 19 | [ErikasRamaneckas](https://github.com/ErikasRamaneckas) | Erikas Ramaneckas | Vilnius, Lithuania | 197 |
 | 20 | [Miceuz](https://github.com/Miceuz) | Albertas Mickėnas | Vilnius, Lithuania | 190 |
 
-Generated: 2026-10-16T01:19:50.564Z
+Generated: 2026-10-16T02:48:39.698Z

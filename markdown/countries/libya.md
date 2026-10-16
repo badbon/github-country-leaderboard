@@ -19,7 +19,7 @@ Indexed users: 741
 | 5 | [Arjeeah](https://github.com/Arjeeah) | Arjeeah | Libya  | 12,557 |
 | 6 | [ayagaidi](https://github.com/ayagaidi) | Yaya |  Tripoli, Libya  | 9,577 |
 | 7 | [Sokanon](https://github.com/Sokanon) | So | Libya | 9,467 |
-| 8 | [Tellesy](https://github.com/Tellesy) | blueMu | Tripoli, Libya | 9,144 |
+| 8 | [Tellesy](https://github.com/Tellesy) | blueMu | Tripoli, Libya | 9,193 |
 | 9 | [radwan-77](https://github.com/radwan-77) | RADWAN | Libya | 8,319 |
 | 10 | [GaafarBBK](https://github.com/GaafarBBK) | Mohamed Gaafar | Libya | 7,811 |
 | 11 | [Elsheshtawwy](https://github.com/Elsheshtawwy) | Badr Elsheshtawy | Benghazi, Libya 🇱🇾 | 6,865 |
@@ -83,4 +83,4 @@ Indexed users: 741
 | 19 | [ZizouHuweidi](https://github.com/ZizouHuweidi) | El Zubeir Huweidi | Benghazi, Libya | 51 |
 | 20 | [Islam-alshiki](https://github.com/Islam-alshiki) | Islam alshiki | Benghazi, Libya | 49 |
 
-Generated: 2026-10-16T01:19:39.688Z
+Generated: 2026-10-16T02:47:56.454Z

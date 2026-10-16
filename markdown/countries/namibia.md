@@ -48,7 +48,7 @@ Indexed users: 475
 | 9 | [Driftedbucket](https://github.com/Driftedbucket) | Awike Gulu | Windhoek, Namibia | 614 |
 | 10 | [Leon2332](https://github.com/Leon2332) | Leon | Namibia | 582 |
 | 11 | [Tusneld](https://github.com/Tusneld) | Tusnelde Endjala | Namibia | 427 |
-| 12 | [Sphellep04](https://github.com/Sphellep04) | Phellep.Dev | Windhoek, Namibia | 358 |
+| 12 | [Sphellep04](https://github.com/Sphellep04) | Phellep.Dev | Windhoek, Namibia | 361 |
 | 13 | [mou-rush](https://github.com/mou-rush) | Moureen | Swakopmund, Namibia | 302 |
 | 14 | [Math0202](https://github.com/Math0202) | Tangeni Matheus | Namibia, Windhoek | 271 |
 | 15 | [rtonata88](https://github.com/rtonata88) | Richard Chambula | Windhoek, Namibia | 270 |
@@ -83,4 +83,4 @@ Indexed users: 475
 | 19 | [Hilya02](https://github.com/Hilya02) | Hilya Ntinda Tuyakula | Windhoek, Namibia | 36 |
 | 20 | [erassynathingo](https://github.com/erassynathingo) | Erastus Nathingo | Windhoek | 33 |
 
-Generated: 2026-10-16T01:29:44.591Z
+Generated: 2026-10-16T02:55:41.852Z

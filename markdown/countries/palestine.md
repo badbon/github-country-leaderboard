@@ -19,9 +19,9 @@ Indexed users: 2,199
 | 5 | [AhmedMElhalaby](https://github.com/AhmedMElhalaby) | Ahmed M. Elhalaby | Palestine, Gaza, Remal, khdeer Tower , 5th floor | 12,358 |
 | 6 | [AbdulsalamMansour](https://github.com/AbdulsalamMansour) | Abdulsalam Mansour | Palestine | 12,329 |
 | 7 | [FALKONPS](https://github.com/FALKONPS) | FALKON.PS | Palestine | 11,777 |
-| 8 | [Walaa-Volidis](https://github.com/Walaa-Volidis) |  | Palestine | 7,546 |
-| 9 | [izadoesdev](https://github.com/izadoesdev) | iza | Palestine | 7,373 |
-| 10 | [RandaZraik](https://github.com/RandaZraik) | Randa | Nablus, Palestine | 6,969 |
+| 8 | [RandaZraik](https://github.com/RandaZraik) | Randa | Nablus, Palestine | 8,206 |
+| 9 | [Walaa-Volidis](https://github.com/Walaa-Volidis) |  | Palestine | 7,546 |
+| 10 | [izadoesdev](https://github.com/izadoesdev) | iza | Palestine | 7,373 |
 | 11 | [1210395](https://github.com/1210395) | Jadallah  | Ramallah | 6,823 |
 | 12 | [salahy](https://github.com/salahy) | Salah Yahya | Palestine | 6,501 |
 | 13 | [moustff](https://github.com/moustff) | Mustafa Salem | Gaza, Palestine. | 5,401 |
@@ -31,7 +31,7 @@ Indexed users: 2,199
 | 17 | [farahty](https://github.com/farahty) | Nimer Farahty | Palestine | 4,300 |
 | 18 | [Mahmoud-Skafi](https://github.com/Mahmoud-Skafi) | Mahmoud skafi | Palestine, Hebron   | 4,125 |
 | 19 | [zaqoutabed](https://github.com/zaqoutabed) | Abdallah A. Zaqout | Gaza, Palestine | 4,113 |
-| 20 | [m5atib](https://github.com/m5atib) | Muhaimen Khatib | Palestine | 3,880 |
+| 20 | [Amoodaa](https://github.com/Amoodaa) | Imad Shatali | Palestine, Gaza | 4,084 |
 
 ## Public Contributions
 
@@ -44,9 +44,9 @@ Indexed users: 2,199
 | 5 | [Ayaalmadhon2004](https://github.com/Ayaalmadhon2004) | Aya almadhon | Palestine | 1,621 |
 | 6 | [Tojan-Naiem](https://github.com/Tojan-Naiem) | Tojan | Palestine | 1,562 |
 | 7 | [darxx03eh](https://github.com/darxx03eh) | Mahmoud Darawsheh | Nablus, Palestine | 1,531 |
-| 8 | [hayasam](https://github.com/hayasam) | Haya Samaana | Palestine | 1,464 |
-| 9 | [Maryam-Skaik](https://github.com/Maryam-Skaik) | Maryam Skaik | Gaza, Palestine | 1,436 |
-| 10 | [AlaaArmoush](https://github.com/AlaaArmoush) | Alaa Armoush | Nablus, Palestine | 1,014 |
+| 8 | [Maryam-Skaik](https://github.com/Maryam-Skaik) | Maryam Skaik | Gaza, Palestine | 1,436 |
+| 9 | [AlaaArmoush](https://github.com/AlaaArmoush) | Alaa Armoush | Nablus, Palestine | 1,014 |
+| 10 | [hayasam](https://github.com/hayasam) | Haya Samaana | Palestine | 992 |
 | 11 | [fjcj0](https://github.com/fjcj0) | 𝓞𝓜𝓐𝓡 𝓒𝓞𝓓𝓘𝓝𝓖🐉 | Palestine,Ramallah | 982 |
 | 12 | [hussainabuhajjaj](https://github.com/hussainabuhajjaj) | Hussain abu hajjaj | Palestine  | 979 |
 | 13 | [OthmanMohammad](https://github.com/OthmanMohammad) | Mohammad Othman | Palestine | 950 |
@@ -62,12 +62,12 @@ Indexed users: 2,199
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [shadeed](https://github.com/shadeed) | Ahmad Shadeed | Tulkarm, Palestine | 1,838 |
+| 1 | [shadeed](https://github.com/shadeed) | Ahmad Shadeed | Tulkarm, Palestine | 1,849 |
 | 2 | [LaithGhnemat12302](https://github.com/LaithGhnemat12302) | Laith Ghnemat | Palestine-Ramallah-Kufor-Malik | 498 |
 | 3 | [msafadi](https://github.com/msafadi) | Mohammed Safadi | Gaza, Palestine | 488 |
 | 4 | [izadoesdev](https://github.com/izadoesdev) | iza | Palestine | 257 |
-| 5 | [MariamHasanat](https://github.com/MariamHasanat) | Mariam Hasanat | Dura, Palestine  | 218 |
-| 6 | [hayasam](https://github.com/hayasam) | Haya Samaana | Palestine | 216 |
+| 5 | [hayasam](https://github.com/hayasam) | Haya Samaana | Palestine | 222 |
+| 6 | [MariamHasanat](https://github.com/MariamHasanat) | Mariam Hasanat | Dura, Palestine  | 218 |
 | 7 | [ibrahim-sisar](https://github.com/ibrahim-sisar) | ibrahim abu al roos | Gaza,Palestine | 209 |
 | 8 | [SarahAbuirmeileh](https://github.com/SarahAbuirmeileh) | Sarah Abu Irmeileh | Palestine | 209 |
 | 9 | [mohammed-naji](https://github.com/mohammed-naji) | Mohammed Naji | Palestine / Gaza | 181 |
@@ -83,4 +83,4 @@ Indexed users: 2,199
 | 19 | [dalia2323](https://github.com/dalia2323) |  | Qalqilya, Palestine | 127 |
 | 20 | [mhmdio](https://github.com/mhmdio) | Mohammed Almusaddar | Gaza, Palestine | 125 |
 
-Generated: 2026-10-16T01:37:36.060Z
+Generated: 2026-10-16T03:00:51.427Z

@@ -1,13 +1,13 @@
 # Total Contributions - Senegal
 
-Generated: 2026-10-16T01:45:47.449Z
+Generated: 2026-10-16T03:11:30.982Z
 
 Users: 1356
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [traorecheikh](https://github.com/traorecheikh) | Cheikh Tidiane TRAORÉ | @Teksi-inc @404-NotFound-Org @TyvaaServices  | HanoWhisper | dakar, senegal | 13400 |
-| 2 | [niangamadou888](https://github.com/niangamadou888) | Amadou Boubacar Niang |  |  | Saint-Louis, Senegal | 12001 |
+| 2 | [niangamadou888](https://github.com/niangamadou888) | Amadou Boubacar Niang |  |  | Saint-Louis, Senegal | 12555 |
 | 3 | [OusManDiouf](https://github.com/OusManDiouf) | OUSMANE  DIOUF | Fellwiin |  | Dakar, Sénégal | 10369 |
 | 4 | [ModesteNAHUM](https://github.com/ModesteNAHUM) | Modeste NAHUM | @SimplifyStack  |  | Dakar, Sénégal | 10140 |
 | 5 | [Titovich2203](https://github.com/Titovich2203) | Tito GBEDJEHA | WIICODE |  | Dakar, Senegal | 9125 |

@@ -1,17 +1,17 @@
 # Followers - Palestine
 
-Generated: 2026-10-16T01:37:36.060Z
+Generated: 2026-10-16T03:00:51.427Z
 
 Users: 2199
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [shadeed](https://github.com/shadeed) | Ahmad Shadeed |  | shadeed9 | Tulkarm, Palestine | 1838 |
+| 1 | [shadeed](https://github.com/shadeed) | Ahmad Shadeed |  | shadeed9 | Tulkarm, Palestine | 1849 |
 | 2 | [LaithGhnemat12302](https://github.com/LaithGhnemat12302) | Laith Ghnemat | Student at BZU |  | Palestine-Ramallah-Kufor-Malik | 498 |
 | 3 | [msafadi](https://github.com/msafadi) | Mohammed Safadi |  | msafadi | Gaza, Palestine | 488 |
 | 4 | [izadoesdev](https://github.com/izadoesdev) | iza | Databuddy | izadoesdev | Palestine | 257 |
-| 5 | [MariamHasanat](https://github.com/MariamHasanat) | Mariam Hasanat |  |  | Dura, Palestine  | 218 |
-| 6 | [hayasam](https://github.com/hayasam) | Haya Samaana | An Najah National University |  | Palestine | 216 |
+| 5 | [hayasam](https://github.com/hayasam) | Haya Samaana | An Najah National University |  | Palestine | 222 |
+| 6 | [MariamHasanat](https://github.com/MariamHasanat) | Mariam Hasanat |  |  | Dura, Palestine  | 218 |
 | 7 | [ibrahim-sisar](https://github.com/ibrahim-sisar) | ibrahim abu al roos |  |  | Gaza,Palestine | 209 |
 | 8 | [SarahAbuirmeileh](https://github.com/SarahAbuirmeileh) | Sarah Abu Irmeileh | Palestine Polytechnic University (PPU) |  | Palestine | 209 |
 | 9 | [mohammed-naji](https://github.com/mohammed-naji) | Mohammed Naji |  | mohnaji94 | Palestine / Gaza | 181 |

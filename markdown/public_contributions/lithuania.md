@@ -1,6 +1,6 @@
 # Public Contributions - Lithuania
 
-Generated: 2026-10-16T01:19:50.564Z
+Generated: 2026-10-16T02:48:39.698Z
 
 Users: 5379
 
@@ -13,9 +13,9 @@ Users: 5379
 | 5 | [shenxianpeng](https://github.com/shenxianpeng) | Xianpeng Shen |  | xianpengshen | Lithuania | 5796 |
 | 6 | [UlodisEglitis](https://github.com/UlodisEglitis) | Ulodis Eglitis | Majiens |  | Lithuania | 5076 |
 | 7 | [mjudeikis](https://github.com/mjudeikis) | Mangirdas Judeikis | @synpse-hq @kcp-dev @kube-bind @faroshq | mangirdas | Lithuania | 2982 |
-| 8 | [NathaliaLietuvaite](https://github.com/NathaliaLietuvaite) | Nathalia Lietuvaite |  | NLituanie | Vilnius | 2939 |
-| 9 | [blinkinglight](https://github.com/blinkinglight) | M | @ituoga  |  | Lithuania | 2663 |
-| 10 | [qweered](https://github.com/qweered) | Aliaksandr |  |  | Vilnius, Lithuania | 2656 |
+| 8 | [qweered](https://github.com/qweered) | Aliaksandr Samatyia |  |  | Vilnius, Lithuania | 2949 |
+| 9 | [NathaliaLietuvaite](https://github.com/NathaliaLietuvaite) | Nathalia Lietuvaite |  | NLituanie | Vilnius | 2939 |
+| 10 | [blinkinglight](https://github.com/blinkinglight) | M | @ituoga  |  | Lithuania | 2663 |
 | 11 | [flyingriverhorse](https://github.com/flyingriverhorse) | Murat |  |  | Vilnius | 2632 |
 | 12 | [vladlevinas](https://github.com/vladlevinas) | Vlad Levinas | UAB DBITS LT | vladlevinas | Lithuania | 2522 |
 | 13 | [simison](https://github.com/simison) | Mikael Korpela | @Automattic |  | Lithuania | 2457 |

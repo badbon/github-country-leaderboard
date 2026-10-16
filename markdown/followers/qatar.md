@@ -1,8 +1,8 @@
 # Followers - Qatar
 
-Generated: 2026-10-16T01:39:52.750Z
+Generated: 2026-10-16T03:07:08.156Z
 
-Users: 1073
+Users: 1074
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -24,5 +24,5 @@ Users: 1073
 | 16 | [thouseef-hamza](https://github.com/thouseef-hamza) | Thouseef Hamza T P |  |  | Doha, Qatar | 108 |
 | 17 | [kevinpiac](https://github.com/kevinpiac) | Kevin Piacentini |  | kevinpiac | Doha | 107 |
 | 18 | [thm-msror](https://github.com/thm-msror) | Tehreem Masroor |  |  | Al-Rayyan, Qatar | 107 |
-| 19 | [muratyaman](https://github.com/muratyaman) | Haci Murat Yaman |  |  | Doha, Qatar | 101 |
-| 20 | [brainconnect93](https://github.com/brainconnect93) | Afolabi Akorede | Software Engineer | brainconnect0 | Al-Wakrah, Qatar | 100 |
+| 19 | [brainconnect93](https://github.com/brainconnect93) | Afolabi Akorede | Software Engineer | brainconnect0 | Al-Wakrah, Qatar | 100 |
+| 20 | [muratyaman](https://github.com/muratyaman) | Haci Murat Yaman |  |  | Doha, Qatar | 99 |
