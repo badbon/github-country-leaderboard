@@ -24320,7 +24320,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 112,
+    "publicContributions": 90,
     "createdAt": "2019-11-10T15:57:33Z"
   },
   {
@@ -24368,7 +24368,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 149,
+    "publicContributions": 177,
     "createdAt": "2019-12-15T09:58:31Z"
   },
   {
@@ -24380,7 +24380,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 5,
     "createdAt": "2019-07-13T13:54:49Z"
   },
   {
@@ -24406,18 +24406,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-11-11T14:26:43Z"
-  },
-  {
-    "login": "AndreiAniukou",
-    "name": "ADXD",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/47061296?s=72&v=4",
-    "location": "Vilnius",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 485,
-    "publicContributions": 82,
-    "createdAt": "2019-01-26T15:58:37Z"
   },
   {
     "login": "PauliusVa",
@@ -24456,18 +24444,6 @@
     "createdAt": "2019-12-06T07:03:10Z"
   },
   {
-    "login": "devsengine",
-    "name": "DevsEngine",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/58294307?s=72&u=bb5a12d79e0dd5cf0e9ff8c42178ba7db1e9a38a&v=4",
-    "location": "London & Vilnius",
-    "company": "@DevsEngine",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2019-11-28T10:51:29Z"
-  },
-  {
     "login": "LukasDzenkauskas",
     "name": "Lukas Dzenkauskas",
     "avatarUrl": "https://avatars.githubusercontent.com/u/57360931?s=72&u=5fd764f908fd18e50584779a56e27e427a97f4cf&v=4",
@@ -24475,7 +24451,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1946,
+    "privateContributions": 1932,
     "publicContributions": 0,
     "createdAt": "2019-11-04T15:01:41Z"
   },
@@ -24498,9 +24474,9 @@
     "location": "Lithuania ",
     "company": "Codemarketi",
     "twitterUsername": "",
-    "followers": 680,
-    "privateContributions": 679,
-    "publicContributions": 7,
+    "followers": 677,
+    "privateContributions": 791,
+    "publicContributions": 3,
     "createdAt": "2018-06-09T18:17:06Z"
   },
   {
@@ -24510,9 +24486,9 @@
     "location": "Lithuania",
     "company": "C# Inn",
     "twitterUsername": "",
-    "followers": 141,
+    "followers": 140,
     "privateContributions": 0,
-    "publicContributions": 594,
+    "publicContributions": 1059,
     "createdAt": "2018-06-22T07:51:56Z"
   },
   {
@@ -24522,9 +24498,9 @@
     "location": "Vilnius, Lithuania",
     "company": "",
     "twitterUsername": "",
-    "followers": 103,
+    "followers": 99,
     "privateContributions": 0,
-    "publicContributions": 75,
+    "publicContributions": 73,
     "createdAt": "2018-04-13T21:22:07Z"
   },
   {
@@ -24534,9 +24510,9 @@
     "location": "Lithuania",
     "company": "",
     "twitterUsername": "",
-    "followers": 84,
-    "privateContributions": 352,
-    "publicContributions": 1156,
+    "followers": 87,
+    "privateContributions": 1388,
+    "publicContributions": 1025,
     "createdAt": "2018-10-09T14:39:40Z"
   },
   {
