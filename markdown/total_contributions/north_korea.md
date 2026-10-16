@@ -1,6 +1,6 @@
 # Total Contributions - North Korea
 
-Generated: 2026-10-16T12:06:29.622Z
+Generated: 2026-10-16T13:30:01.939Z
 
 Users: 185
 
@@ -25,4 +25,4 @@ Users: 185
 | 17 | [PookiePepelsss](https://github.com/PookiePepelsss) | Pookie | @Nebula-Softworks \| Nebula Softworks |  | North Korea | 351 |
 | 18 | [l1vstudios](https://github.com/l1vstudios) | L1V |  |  | North Korea | 308 |
 | 19 | [Pigatronee](https://github.com/Pigatronee) | PigObsessedGameDev | pigat.inc |  | North Korea | 264 |
-| 20 | [QinAnze](https://github.com/QinAnze) | 🌈沢 | Kim Il Sung University |  | North Korea | 231 |
+| 20 | [Lou1sEx](https://github.com/Lou1sEx) | Lou1s | Samsung |  | North korea | 227 |

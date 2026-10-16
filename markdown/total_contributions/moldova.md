@@ -1,6 +1,6 @@
 # Total Contributions - Moldova
 
-Generated: 2026-10-16T12:01:30.332Z
+Generated: 2026-10-16T13:23:29.957Z
 
 Users: 1749
 
@@ -13,7 +13,7 @@ Users: 1749
 | 5 | [danlapteacru](https://github.com/danlapteacru) | Dan Lapteacru |  |  | Ungheni, Moldova / Iasi, Romania | 8074 |
 | 6 | [Nemo-Illusionist](https://github.com/Nemo-Illusionist) | Peter Radilov | @ApprovalMax |  | Moldova | 7286 |
 | 7 | [dotteamdev](https://github.com/dotteamdev) | Dan Oistric |  |  | Moldova | 6910 |
-| 8 | [deniscuciuc](https://github.com/deniscuciuc) | Denis Cuciuc | Zelqon Works, Quality Game Core, Accent Electronic | deniscuciuc | Moldova | 6455 |
+| 8 | [deniscuciuc](https://github.com/deniscuciuc) | Denis Cuciuc | Zelqon Works, Quality Game Core, Accent Electronic | deniscuciuc | Moldova | 6898 |
 | 9 | [pv-a-ilievici](https://github.com/pv-a-ilievici) | Andrei Ilievici | @primevision-com  |  | Chisinau, Moldova | 6398 |
 | 10 | [mtkachenk0](https://github.com/mtkachenk0) | Maxim Tkachenko |  |  | Chisinau, Moldova | 5841 |
 | 11 | [sebsti5](https://github.com/sebsti5) | Sebastian | @Tafi-Solutions |  | Moldova 🇲🇩 | 5426 |
@@ -22,7 +22,7 @@ Users: 1749
 | 14 | [batanus](https://github.com/batanus) | Dmitrii Medvedev |  |  | Chisinau, Moldova | 5122 |
 | 15 | [httpcatalin](https://github.com/httpcatalin) | Catalin | Eventino |  | Chișinău, Moldova | 5117 |
 | 16 | [artickc](https://github.com/artickc) | NOXX - Commiter | iTSolution |  | Moldova, Chisinau | 5071 |
-| 17 | [fedotovdev](https://github.com/fedotovdev) | Ivan Fedotov |  |  | Chisinau, Moldova | 5046 |
+| 17 | [fedotovdev](https://github.com/fedotovdev) | Ivan Fedotov |  |  | Chisinau, Moldova | 5019 |
 | 18 | [Andrei-Ciuperca](https://github.com/Andrei-Ciuperca) | Andrei Ciupercă | @Tafi-Solutions  |  | Moldova | 4908 |
 | 19 | [vfarafonov](https://github.com/vfarafonov) | Vladimir Farafonov |  |  | Moldova | 4859 |
 | 20 | [szagoret](https://github.com/szagoret) | Sergiu Zagoret | Complexica  |  | Chisinau, Moldova | 4756 |

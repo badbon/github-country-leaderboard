@@ -28,7 +28,7 @@ Indexed users: 210
 | 14 | [KalevRK](https://github.com/KalevRK) | Kalev Roomann-Kurrik | Monrovia, CA | 862 |
 | 15 | [abubakar3rd](https://github.com/abubakar3rd) | Abu-Bakar Abdullah Kanneh | Airfield, Sinkor, Monrovia, Liberia | 825 |
 | 16 | [daddysboy21](https://github.com/daddysboy21) | daddysboy.21 | Monrovia, Liberia | 817 |
-| 17 | [jdaltonll02](https://github.com/jdaltonll02) | John Dalton Gibson | Liberia | 791 |
+| 17 | [jdaltonll02](https://github.com/jdaltonll02) | John Dalton Gibson | Liberia | 762 |
 | 18 | [efmomoh](https://github.com/efmomoh) | ENSSAH FAYIA MOMOH | Monrovia, Liberia | 719 |
 | 19 | [Prodigy-J](https://github.com/Prodigy-J) | Jerome N Tokpa | Monrovia, Liberia | 629 |
 | 20 | [xarrijorge](https://github.com/xarrijorge) | The African Nomad | Monrovia, Liberia | 628 |
@@ -39,7 +39,7 @@ Indexed users: 210
 |---:|---|---|---|---:|
 | 1 | [priceflex](https://github.com/priceflex) | Steven Price | Monrovia, CA | 1,516 |
 | 2 | [Carlostala04](https://github.com/Carlostala04) | Carlos Talavera | Liberia | 1,142 |
-| 3 | [jdaltonll02](https://github.com/jdaltonll02) | John Dalton Gibson | Liberia | 791 |
+| 3 | [jdaltonll02](https://github.com/jdaltonll02) | John Dalton Gibson | Liberia | 762 |
 | 4 | [efmomoh](https://github.com/efmomoh) | ENSSAH FAYIA MOMOH | Monrovia, Liberia | 718 |
 | 5 | [timtjoe](https://github.com/timtjoe) | Tim T. Joe | Liberia, West Africa | 584 |
 | 6 | [RA9](https://github.com/RA9) | Carlos S. Nah  | Liberia  | 359 |
@@ -83,4 +83,4 @@ Indexed users: 210
 | 19 | [boaslah](https://github.com/boaslah) | Blessing Boaslah | Montserrado County, Liberia  | 21 |
 | 20 | [ejaygbay](https://github.com/ejaygbay) | Emmanuel Jaygbay | Liberia | 21 |
 
-Generated: 2026-10-16T11:54:30.759Z
+Generated: 2026-10-16T13:16:49.652Z

@@ -31,7 +31,7 @@ Indexed users: 185
 | 17 | [PookiePepelsss](https://github.com/PookiePepelsss) | Pookie | North Korea | 351 |
 | 18 | [l1vstudios](https://github.com/l1vstudios) | L1V | North Korea | 308 |
 | 19 | [Pigatronee](https://github.com/Pigatronee) | PigObsessedGameDev | North Korea | 264 |
-| 20 | [QinAnze](https://github.com/QinAnze) | 🌈沢 | North Korea | 231 |
+| 20 | [Lou1sEx](https://github.com/Lou1sEx) | Lou1s | North korea | 227 |
 
 ## Public Contributions
 
@@ -42,7 +42,7 @@ Indexed users: 185
 | 3 | [Duzopy](https://github.com/Duzopy) | Dupozy | North Korea | 607 |
 | 4 | [dddqmmx](https://github.com/dddqmmx) | PaulPerkenstein | Pyongyang | 505 |
 | 5 | [PookiePepelsss](https://github.com/PookiePepelsss) | Pookie | North Korea | 350 |
-| 6 | [QinAnze](https://github.com/QinAnze) | 🌈沢 | North Korea | 231 |
+| 6 | [QinAnze](https://github.com/QinAnze) | 🌈沢 | North Korea | 227 |
 | 7 | [advanced-rising](https://github.com/advanced-rising) | risingcore | Democratic People's Republic of Korea | 221 |
 | 8 | [DillerOFire](https://github.com/DillerOFire) | VerpaSRP | North Korea | 205 |
 | 9 | [Pigatronee](https://github.com/Pigatronee) | PigObsessedGameDev | North Korea | 200 |
@@ -83,4 +83,4 @@ Indexed users: 185
 | 19 | [satt-hri](https://github.com/satt-hri) | 稻草人(scarecrow) | North Korea | 15 |
 | 20 | [DillerOFire](https://github.com/DillerOFire) | VerpaSRP | North Korea | 14 |
 
-Generated: 2026-10-16T12:06:29.622Z
+Generated: 2026-10-16T13:30:01.939Z

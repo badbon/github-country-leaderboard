@@ -1,6 +1,6 @@
 # Public Contributions - Malta
 
-Generated: 2026-10-16T11:59:21.640Z
+Generated: 2026-10-16T13:21:05.692Z
 
 Users: 1225
 
@@ -12,12 +12,12 @@ Users: 1225
 | 4 | [OmegaGbenga](https://github.com/OmegaGbenga) | Olugbenga Olatunde Dareowolabi |  |  | Malta | 3552 |
 | 5 | [rinrab](https://github.com/rinrab) | Timofei Zhakov |  |  | Malta | 3350 |
 | 6 | [KevinBusuttil](https://github.com/KevinBusuttil) | Kevin Busuttil | Busuttil Technologies Limited |  | Malta | 3125 |
-| 7 | [silvandiepen](https://github.com/silvandiepen) | Sil van Diepen | Sil van Diepen | silvandiepen | Malta | 3076 |
+| 7 | [silvandiepen](https://github.com/silvandiepen) | Sil van Diepen | Sil van Diepen | silvandiepen | Malta | 3044 |
 | 8 | [camilamacedo86](https://github.com/camilamacedo86) | Camila Macedo |  |  | Malta | 2984 |
 | 9 | [zcourts](https://github.com/zcourts) | Courtney Robinson | Hypi | zcourts | London (UK), Łodz (Poland), Valletta (Malta) | 2632 |
 | 10 | [arogan178](https://github.com/arogan178) | Andrea Bugeja | GiG |  | Malta | 2562 |
-| 11 | [ntulenev](https://github.com/ntulenev) | Nikita Tulenev |  |  | Malta | 2499 |
-| 12 | [stefanbuttigieg](https://github.com/stefanbuttigieg) | Stefan Buttigieg | Stefan Buttigieg | stefanbuttigieg | Malta | 2497 |
+| 11 | [stefanbuttigieg](https://github.com/stefanbuttigieg) | Stefan Buttigieg | Stefan Buttigieg | stefanbuttigieg | Malta | 2544 |
+| 12 | [ntulenev](https://github.com/ntulenev) | Nikita Tulenev |  |  | Malta | 2499 |
 | 13 | [marian2js](https://github.com/marian2js) | Mariano Pardo | BullAware | marian2js | Malta | 2336 |
 | 14 | [novatechflow](https://github.com/novatechflow) | Alexander Alten | @scalytics | mapredit | Malta | 2070 |
 | 15 | [SerZhyAle](https://github.com/SerZhyAle) | Serhii Zhyhunenko |  |  | Malta | 1991 |

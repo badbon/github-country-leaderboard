@@ -1,13 +1,13 @@
 # Followers - Panama
 
-Generated: 2026-10-16T12:10:20.030Z
+Generated: 2026-10-16T13:32:29.165Z
 
 Users: 1069
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [AvaoCore](https://github.com/AvaoCore) | Avao Foundation - Core |  | AvaoFoundation | Panama | 227 |
-| 2 | [jeremymcs](https://github.com/jeremymcs) | Jeremy McSpadden | Flux Labs | jeremymcs | Panama City, FL | 117 |
+| 2 | [jeremymcs](https://github.com/jeremymcs) | Jeremy McSpadden | Flux Labs | jeremymcs | Panama City, FL | 118 |
 | 3 | [mariajosemv](https://github.com/mariajosemv) | Maria Jose Medina | Procter & Gamble | mariajosemvv | Panama City, Panama | 110 |
 | 4 | [abdelgmartinezl](https://github.com/abdelgmartinezl) | Abdel G. Martínez L. | Solusoft |  | Panama, Panama | 109 |
 | 5 | [apimercantil](https://github.com/apimercantil) | Mercantil Banco | Mercantil Banco CA | mercantilbanco | Venezuala, Panama, Suiza | 108 |

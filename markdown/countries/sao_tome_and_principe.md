@@ -63,7 +63,7 @@ Indexed users: 20
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [benildebonfim](https://github.com/benildebonfim) | Benilde | São Tomé e Príncipe | 48 |
-| 2 | [denisquintasluiz](https://github.com/denisquintasluiz) | Denis Luiz | São Gabriel, São Tomé e Príncipe | 27 |
+| 2 | [denisquintasluiz](https://github.com/denisquintasluiz) | Denis Luiz | São Gabriel, São Tomé e Príncipe | 26 |
 | 3 | [JoelGraca](https://github.com/JoelGraca) | Joel da Graça | São Tomé e Príncipe | 23 |
 | 4 | [nevesade](https://github.com/nevesade) |  NEVES ADENASIO | São Tomé e Príncipe | 15 |
 | 5 | [JoaoNoel](https://github.com/JoaoNoel) | JoaoNoel | São Tomé e Príncipe | 10 |
@@ -83,4 +83,4 @@ Indexed users: 20
 | 19 | [manoxum](https://github.com/manoxum) | Daniel Costa | São Tomé e Pricipe | 1 |
 | 20 | [USTP](https://github.com/USTP) | USTP - Universidade de São Tomé e Principe | São Tomé e Principe, São Tomé | 1 |
 
-Generated: 2026-10-16T12:16:43.013Z
+Generated: 2026-10-16T13:40:07.551Z

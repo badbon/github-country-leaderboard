@@ -1,8 +1,8 @@
 # Public Contributions - Nigeria
 
-Generated: 2026-10-16T12:05:44.933Z
+Generated: 2026-10-16T13:29:56.588Z
 
-Users: 33205
+Users: 33203
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -14,7 +14,7 @@ Users: 33205
 | 6 | [samkiell](https://github.com/samkiell) | Samuel Ezekiel  | SAMKIEL | samkiel_dev | Ile Ife, Osun State, Nigeria. | 8039 |
 | 7 | [beresdowds-afk](https://github.com/beresdowds-afk) | Olusola Adebayo  | East-forte-fabrications-and-equipments  |  | Nigeria  | 7029 |
 | 8 | [eshanokpe](https://github.com/eshanokpe) | Dannicode | Infoscert |  | Lagos, Nigeria | 6755 |
-| 9 | [ademosuoluwatobi-cloud](https://github.com/ademosuoluwatobi-cloud) | Oluwatobi Peter Ademosu | Electrical & Electronics Engineer | Oluwatobiui | Ibadan, Nigeria | 6318 |
+| 9 | [ademosuoluwatobi-cloud](https://github.com/ademosuoluwatobi-cloud) | Oluwatobi Peter Ademosu | Electrical & Electronics Engineer | Oluwatobiui | Ibadan, Nigeria | 6320 |
 | 10 | [Xaxxoo](https://github.com/Xaxxoo) |  |  | xaxxoo | Nigeria | 6151 |
 | 11 | [aabxtract](https://github.com/aabxtract) | Afolami Anuoluwapo |  | anuafolami_ | Akure, Nigeria | 6049 |
 | 12 | [Officialhomie](https://github.com/Officialhomie) | OneTrueHomie |  | officialhomie_ | Lagos, Nigeria | 5789 |

@@ -64,7 +64,7 @@ Indexed users: 439
 |---:|---|---|---|---:|
 | 1 | [ken0225](https://github.com/ken0225) | Ke"Ken"WANG | Macau | 419 |
 | 2 | [spiritLHLS](https://github.com/spiritLHLS) | spiritlhl | Macau | 404 |
-| 3 | [yangfengzzz](https://github.com/yangfengzzz) | yangfengzzz | Macau | 211 |
+| 3 | [yangfengzzz](https://github.com/yangfengzzz) | yangfengzzz | Macau | 212 |
 | 4 | [RyanKung](https://github.com/RyanKung) | Elder Ryan | Macau | 204 |
 | 5 | [andyhamgit](https://github.com/andyhamgit) | Di Han | Macau | 186 |
 | 6 | [DoongLi](https://github.com/DoongLi) | Frankie Dong Li | Taipa, Macau | 186 |
@@ -83,4 +83,4 @@ Indexed users: 439
 | 19 | [Boom5426](https://github.com/Boom5426) | Bo li (李波) | Macau | 68 |
 | 20 | [mugpeng](https://github.com/mugpeng) | Peng | macao | 67 |
 
-Generated: 2026-10-16T11:55:57.197Z
+Generated: 2026-10-16T13:19:28.914Z

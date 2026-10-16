@@ -1,13 +1,13 @@
 # Followers - São Tomé and Príncipe
 
-Generated: 2026-10-16T12:16:43.013Z
+Generated: 2026-10-16T13:40:07.551Z
 
 Users: 20
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [benildebonfim](https://github.com/benildebonfim) | Benilde |  | BonfimBenilde | São Tomé e Príncipe | 48 |
-| 2 | [denisquintasluiz](https://github.com/denisquintasluiz) | Denis Luiz |  |  | São Gabriel, São Tomé e Príncipe | 27 |
+| 2 | [denisquintasluiz](https://github.com/denisquintasluiz) | Denis Luiz |  |  | São Gabriel, São Tomé e Príncipe | 26 |
 | 3 | [JoelGraca](https://github.com/JoelGraca) | Joel da Graça | FCT-USTP | GracaJoelson | São Tomé e Príncipe | 23 |
 | 4 | [nevesade](https://github.com/nevesade) |  NEVES ADENASIO |  |  | São Tomé e Príncipe | 15 |
 | 5 | [JoaoNoel](https://github.com/JoaoNoel) | JoaoNoel | Ministério da Educação e Ensino Superior |  | São Tomé e Príncipe | 10 |

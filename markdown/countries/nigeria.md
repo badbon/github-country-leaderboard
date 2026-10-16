@@ -1,6 +1,6 @@
 # Nigeria
 
-Indexed users: 33,205
+Indexed users: 33,203
 
 | Leaderboard | Link |
 |---|---|
@@ -45,7 +45,7 @@ Indexed users: 33,205
 | 6 | [samkiell](https://github.com/samkiell) | Samuel Ezekiel  | Ile Ife, Osun State, Nigeria. | 8,039 |
 | 7 | [beresdowds-afk](https://github.com/beresdowds-afk) | Olusola Adebayo  | Nigeria  | 7,029 |
 | 8 | [eshanokpe](https://github.com/eshanokpe) | Dannicode | Lagos, Nigeria | 6,755 |
-| 9 | [ademosuoluwatobi-cloud](https://github.com/ademosuoluwatobi-cloud) | Oluwatobi Peter Ademosu | Ibadan, Nigeria | 6,318 |
+| 9 | [ademosuoluwatobi-cloud](https://github.com/ademosuoluwatobi-cloud) | Oluwatobi Peter Ademosu | Ibadan, Nigeria | 6,320 |
 | 10 | [Xaxxoo](https://github.com/Xaxxoo) |  | Nigeria | 6,151 |
 | 11 | [aabxtract](https://github.com/aabxtract) | Afolami Anuoluwapo | Akure, Nigeria | 6,049 |
 | 12 | [Officialhomie](https://github.com/Officialhomie) | OneTrueHomie | Lagos, Nigeria | 5,789 |
@@ -83,4 +83,4 @@ Indexed users: 33,205
 | 19 | [slick-codes](https://github.com/slick-codes) | Paul Ezekiel-Hart | Nigeria | 709 |
 | 20 | [adeolaadeoti](https://github.com/adeolaadeoti) | adeola adeoti | Lagos, Nigeria | 707 |
 
-Generated: 2026-10-16T12:05:44.933Z
+Generated: 2026-10-16T13:29:56.588Z

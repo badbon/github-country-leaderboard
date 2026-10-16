@@ -1,6 +1,6 @@
 # Followers - Kyrgyzstan
 
-Generated: 2026-10-16T11:53:48.021Z
+Generated: 2026-10-16T13:14:23.681Z
 
 Users: 2446
 
@@ -17,9 +17,9 @@ Users: 2446
 | 9 | [songhee24](https://github.com/songhee24) | Azamat |  |  | Kyrgyzstan | 134 |
 | 10 | [YaiLung](https://github.com/YaiLung) | Олег Владимирович | @Svag-gamesss @Microsoft |  | Bishkek | 127 |
 | 11 | [CyberLight](https://github.com/CyberLight) | Aleksandr Vishniakov |  |  | Kyrgyzstan | 125 |
-| 12 | [NuraiymMamatova](https://github.com/NuraiymMamatova) | Nuraiym |  |  | Kyrgyzstan | 115 |
-| 13 | [Turatkg](https://github.com/Turatkg) | Turat Alybaev | App IT Company |  | Kyrgyzstan | 113 |
-| 14 | [zhanybekovich](https://github.com/zhanybekovich) | Mirlan Urzhanov |  |  | Karakol, Kyrgyzstan | 112 |
+| 12 | [zhanybekovich](https://github.com/zhanybekovich) | Mirlan Urzhanov |  |  | Karakol, Kyrgyzstan | 116 |
+| 13 | [NuraiymMamatova](https://github.com/NuraiymMamatova) | Nuraiym |  |  | Kyrgyzstan | 115 |
+| 14 | [Turatkg](https://github.com/Turatkg) | Turat Alybaev | App IT Company |  | Kyrgyzstan | 113 |
 | 15 | [bmamatkadyr](https://github.com/bmamatkadyr) | beks | Loadex |  | Bishkek | 111 |
 | 16 | [5ekastanx](https://github.com/5ekastanx) | bekastan | Geeks  |  | Osh \| Kyrgyzstan | 106 |
 | 17 | [AlexanderBagel](https://github.com/AlexanderBagel) | Alexander (Rouse_) Bagel |  |  | Bishkek | 105 |

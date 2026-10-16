@@ -1,6 +1,6 @@
 # Malaysia
 
-Indexed users: 11,800
+Indexed users: 11,799
 
 | Leaderboard | Link |
 |---|---|
@@ -42,12 +42,12 @@ Indexed users: 11,800
 | 3 | [leoloso](https://github.com/leoloso) | Leonardo Losoviz | Kuala Lumpur, Malaysia | 16,179 |
 | 4 | [AqwamCreates](https://github.com/AqwamCreates) | Aqwam Harish Aiman | Malaysia | 12,827 |
 | 5 | [melvinchia3636](https://github.com/melvinchia3636) | Melvin Chia | Johor, Malaysia | 9,221 |
-| 6 | [farhan-syah](https://github.com/farhan-syah) | Farhan Syah | Malaysia | 8,321 |
-| 7 | [syarief02](https://github.com/syarief02) | Syarief Azman | Malaysia | 8,015 |
-| 8 | [data-gov-my](https://github.com/data-gov-my) | data.gov.my | Putrajaya, Malaysia | 7,747 |
-| 9 | [AlaskanTuna](https://github.com/AlaskanTuna) | Hee Zi Jie | Bukit Jalil, Kuala Lumpur | 7,538 |
-| 10 | [ariffazil](https://github.com/ariffazil) | ariffazil | Malaysia | 6,700 |
-| 11 | [red1oon](https://github.com/red1oon) | Redhuan D. Oon | Kuala Lumpur, Malaysia | 6,390 |
+| 6 | [red1oon](https://github.com/red1oon) | Redhuan D. Oon | Kuala Lumpur, Malaysia | 8,960 |
+| 7 | [farhan-syah](https://github.com/farhan-syah) | Farhan Syah | Malaysia | 8,321 |
+| 8 | [syarief02](https://github.com/syarief02) | Syarief Azman | Malaysia | 8,015 |
+| 9 | [data-gov-my](https://github.com/data-gov-my) | data.gov.my | Putrajaya, Malaysia | 7,747 |
+| 10 | [AlaskanTuna](https://github.com/AlaskanTuna) | Hee Zi Jie | Bukit Jalil, Kuala Lumpur | 7,538 |
+| 11 | [ariffazil](https://github.com/ariffazil) | ariffazil | Malaysia | 6,700 |
 | 12 | [afandiazmi](https://github.com/afandiazmi) | Afandi Azmi | Malaysia | 6,304 |
 | 13 | [AngJianming](https://github.com/AngJianming) | Ang Jianming (Jim) | Jalan Teknologi 5, Taman Teknologi Malaysia, 57000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur | 6,054 |
 | 14 | [lifeofgurpreet](https://github.com/lifeofgurpreet) | Gurpreet | Malaysia | 4,956 |
@@ -83,4 +83,4 @@ Indexed users: 11,800
 | 19 | [Zeyad-Azima](https://github.com/Zeyad-Azima) | Zer0verflow | Malaysia | 439 |
 | 20 | [RamadhanAmizudin](https://github.com/RamadhanAmizudin) | Ramadhan Amizudin | Malaysia | 401 |
 
-Generated: 2026-10-16T11:57:50.529Z
+Generated: 2026-10-16T13:19:44.112Z
