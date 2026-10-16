@@ -24,11 +24,11 @@ Indexed users: 459
 | 10 | [bharxhav](https://github.com/bharxhav) | Bhargav Kantheti | antarctica | 4,187 |
 | 11 | [Rayrsn](https://github.com/Rayrsn) | Rayr | Antarctica | 3,991 |
 | 12 | [cutetux](https://github.com/cutetux) | CuteTux | Antarctica ;) | 3,885 |
-| 13 | [enriquephl](https://github.com/enriquephl) |  | Antarctica | 3,424 |
+| 13 | [enriquephl](https://github.com/enriquephl) |  | Antarctica | 3,477 |
 | 14 | [ethicnology](https://github.com/ethicnology) | Azad | Antarctica | 3,287 |
 | 15 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Antarctica | 3,250 |
 | 16 | [PicasoTheDeal](https://github.com/PicasoTheDeal) | Tetstack | Antarctica | 2,934 |
-| 17 | [echo108471](https://github.com/echo108471) | Eugene Cho | Antarctica | 2,617 |
+| 17 | [echo108471](https://github.com/echo108471) | Eugene Cho | Antarctica | 2,647 |
 | 18 | [shangyian](https://github.com/shangyian) | Yian | Antarctica | 2,589 |
 | 19 | [oagix](https://github.com/oagix) | AGENT | Antarctica | 2,412 |
 | 20 | [PenguinNexus](https://github.com/PenguinNexus) | Penguin | Antarctica | 1,766 |
@@ -45,11 +45,11 @@ Indexed users: 459
 | 6 | [PicasoTheDeal](https://github.com/PicasoTheDeal) | Tetstack | Antarctica | 2,874 |
 | 7 | [shangyian](https://github.com/shangyian) | Yian | Antarctica | 2,158 |
 | 8 | [krwg](https://github.com/krwg) | アイダ ミール | Antarctica | 1,465 |
-| 9 | [enriquephl](https://github.com/enriquephl) |  | Antarctica | 1,380 |
+| 9 | [enriquephl](https://github.com/enriquephl) |  | Antarctica | 1,409 |
 | 10 | [FreezingSnail](https://github.com/FreezingSnail) | Freezing Snail | Antarctica | 1,348 |
 | 11 | [antedotee](https://github.com/antedotee) | ky505 | Antarctica | 1,120 |
 | 12 | [codes-by-utkarsh](https://github.com/codes-by-utkarsh) | Utkarsh Srivastava | Antarctica | 708 |
-| 13 | [KrLite](https://github.com/KrLite) | KrLite | Antarctica | 605 |
+| 13 | [KrLite](https://github.com/KrLite) | KrLite | Antarctica | 603 |
 | 14 | [DenzelPenzel](https://github.com/DenzelPenzel) |  | Antarctica | 532 |
 | 15 | [PenguinDOOM](https://github.com/PenguinDOOM) | Penguin | Antarctica, Discord, VRChat | 524 |
 | 16 | [oniaz](https://github.com/oniaz) | Omnia | antarctica | 517 |
@@ -72,7 +72,7 @@ Indexed users: 459
 | 8 | [ifarbod](https://github.com/ifarbod) | iFarbod | Antarctica  | 133 |
 | 9 | [bestruirui](https://github.com/bestruirui) | BESTRUI | Antarctica | 123 |
 | 10 | [examachine](https://github.com/examachine) | Eray Özkural | Dead City, Antarctica | 123 |
-| 11 | [KrLite](https://github.com/KrLite) | KrLite | Antarctica | 119 |
+| 11 | [KrLite](https://github.com/KrLite) | KrLite | Antarctica | 120 |
 | 12 | [TobitoFatitoRE](https://github.com/TobitoFatitoRE) | TobitoFatito | Davis Station, Antarctica | 119 |
 | 13 | [emre1393](https://github.com/emre1393) | Emre | Antarctica | 114 |
 | 14 | [ethicnology](https://github.com/ethicnology) | Azad | Antarctica | 105 |
@@ -83,4 +83,4 @@ Indexed users: 459
 | 19 | [alphaaurigae](https://github.com/alphaaurigae) | Marian Brockerhoff | Antarctica | 86 |
 | 20 | [fakeid30](https://github.com/fakeid30) | Fake ID | Antarctica | 78 |
 
-Generated: 2026-10-16T00:40:51.426Z
+Generated: 2026-10-16T02:06:56.505Z

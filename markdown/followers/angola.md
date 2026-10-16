@@ -1,6 +1,6 @@
 # Followers - Angola
 
-Generated: 2026-10-16T00:40:10.370Z
+Generated: 2026-10-16T02:06:16.862Z
 
 Users: 2502
 
@@ -14,8 +14,8 @@ Users: 2502
 | 6 | [westjoao12](https://github.com/westjoao12) | West João |  |  | Angola, Luanda | 338 |
 | 7 | [Adyllsxn](https://github.com/Adyllsxn) | Domingos Nascimento | innovaqui |  | Luanda, Angola | 294 |
 | 8 | [braulio94](https://github.com/braulio94) | Braulio Cassule |  | brauliocaassule | Luanda, Angola | 272 |
-| 9 | [matheusmanuel](https://github.com/matheusmanuel) | Matheus Manuel | @clubmedtecnologia  |  | Angola/Luanda | 259 |
-| 10 | [gentildpinto](https://github.com/gentildpinto) | Gentil Pinto |  | gentildpinto | Luanda, Angola | 257 |
+| 9 | [gentildpinto](https://github.com/gentildpinto) | Gentil Pinto |  | gentildpinto | Luanda, Angola | 260 |
+| 10 | [matheusmanuel](https://github.com/matheusmanuel) | Matheus Manuel | @clubmedtecnologia  |  | Angola/Luanda | 259 |
 | 11 | [manuelcunga](https://github.com/manuelcunga) | Lázaro Manuel Cunga | Home office |  | Angola/Luanda | 228 |
 | 12 | [Creuma-Kuzola](https://github.com/Creuma-Kuzola) | Creuma Kuzola |  | CKuzola | Luanda, Angola | 209 |
 | 13 | [trupakufi](https://github.com/trupakufi) | Mário Varela | Digital Boost | MrioVarela4 | Luanda, Angola | 205 |

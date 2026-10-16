@@ -20,7 +20,7 @@ Indexed users: 1,184
 | 6 | [kevingabeci](https://github.com/kevingabeci) | Kevin Gabeci | Tirana | 7,090 |
 | 7 | [somethim](https://github.com/somethim) | Arbi Kullakshi | Tirana, Albania | 6,693 |
 | 8 | [geridev12](https://github.com/geridev12) | Gerald Nuraj | Tirana, Albania | 6,533 |
-| 9 | [orges](https://github.com/orges) | orges | Albania | 6,225 |
+| 9 | [orges](https://github.com/orges) | orges | Albania | 6,501 |
 | 10 | [bledar](https://github.com/bledar) | Bledar Haxhia | Albania | 6,029 |
 | 11 | [arkellahi82-tech](https://github.com/arkellahi82-tech) | Arkel Lahi | Tirana, Albania | 5,794 |
 | 12 | [lacieri](https://github.com/lacieri) | Erand Laci | Tirana, Albania | 5,678 |
@@ -83,4 +83,4 @@ Indexed users: 1,184
 | 19 | [SxtBox](https://github.com/SxtBox) | Albdroid.AL | Albania | 81 |
 | 20 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | Albania | 75 |
 
-Generated: 2026-10-16T00:38:36.726Z
+Generated: 2026-10-16T02:04:38.647Z

@@ -1,6 +1,6 @@
 # Followers - Cape Verde
 
-Generated: 2026-10-16T00:52:28.593Z
+Generated: 2026-10-16T02:17:15.499Z
 
 Users: 563
 

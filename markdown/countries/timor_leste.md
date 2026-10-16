@@ -56,7 +56,7 @@ Indexed users: 77
 | 17 | [XICANO88](https://github.com/XICANO88) | XICANO | Guarda-Iliheu, East Timor | 31 |
 | 18 | [pedrix-48](https://github.com/pedrix-48) | Jessua Rodrigues | Dili | 26 |
 | 19 | [revolta12](https://github.com/revolta12) | NizioDevT | Dili, Timor-Leste | 18 |
-| 20 | [GregoriousdaConceicao](https://github.com/GregoriousdaConceicao) | Charles | Dili | 16 |
+| 20 | [GregoriousdaConceicao](https://github.com/GregoriousdaConceicao) | Charles | Dili | 15 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 77
 | 19 | [joshbrooks](https://github.com/joshbrooks) | Joshua Brooks | Dili, Timor-Leste | 6 |
 | 20 | [KituDoutel](https://github.com/KituDoutel) | Francisco KiTu | Dili, Timor-Leste 🇹🇱 | 6 |
 
-Generated: 2026-10-16T00:31:14.372Z
+Generated: 2026-10-16T01:57:21.923Z

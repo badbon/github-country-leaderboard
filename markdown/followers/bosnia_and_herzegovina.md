@@ -1,6 +1,6 @@
 # Followers - Bosnia and Herzegovina
 
-Generated: 2026-10-16T00:48:17.088Z
+Generated: 2026-10-16T02:13:38.700Z
 
 Users: 2127
 
@@ -17,8 +17,8 @@ Users: 2127
 | 9 | [TheAdnan](https://github.com/TheAdnan) | Adnan Kičin | Viking Consulting |  | Sarajevo | 179 |
 | 10 | [vladimir-cicovic](https://github.com/vladimir-cicovic) | Vladimir Cicovic | @team-the-red |  | @Bosnia and Herzegovina | 175 |
 | 11 | [chili-chips-ba](https://github.com/chili-chips-ba) | Chili.CHIPS | Chili.CHIPS |  | Bosnia-Herzegovina | 166 |
-| 12 | [Aldin-SXR](https://github.com/Aldin-SXR) | Aldin Kovačević | BiOptimizers |  | Sarajevo | 147 |
-| 13 | [vladotesanovic](https://github.com/vladotesanovic) | Vlado Tesanovic | @TOB-BA  |  | Sarajevo, Earth | 147 |
+| 12 | [vladotesanovic](https://github.com/vladotesanovic) | Vlado Tesanovic | @TOB-BA  |  | Sarajevo, Earth | 149 |
+| 13 | [Aldin-SXR](https://github.com/Aldin-SXR) | Aldin Kovačević | BiOptimizers |  | Sarajevo | 147 |
 | 14 | [almirvuk](https://github.com/almirvuk) | Almir Vuk | run.events GmbH | almirvuk | Sarajevo, Bosna i Hercegovina | 141 |
 | 15 | [nenadg](https://github.com/nenadg) | Nenad Golubovic |  |  | Banja Luka, Bosnia and Herzegovina | 134 |
 | 16 | [MS-WEB-BN](https://github.com/MS-WEB-BN) |  |  |  | Bijeljina, Bosnia and Herzegovina | 133 |

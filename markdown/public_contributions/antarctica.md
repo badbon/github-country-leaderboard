@@ -1,6 +1,6 @@
 # Public Contributions - Antarctica
 
-Generated: 2026-10-16T00:40:51.426Z
+Generated: 2026-10-16T02:06:56.505Z
 
 Users: 459
 
@@ -14,11 +14,11 @@ Users: 459
 | 6 | [PicasoTheDeal](https://github.com/PicasoTheDeal) | Tetstack |  |  | Antarctica | 2874 |
 | 7 | [shangyian](https://github.com/shangyian) | Yian |  |  | Antarctica | 2158 |
 | 8 | [krwg](https://github.com/krwg) | アイダ ミール | Google University |  | Antarctica | 1465 |
-| 9 | [enriquephl](https://github.com/enriquephl) |  | EtherFun Lab |  | Antarctica | 1380 |
+| 9 | [enriquephl](https://github.com/enriquephl) |  | EtherFun Lab |  | Antarctica | 1409 |
 | 10 | [FreezingSnail](https://github.com/FreezingSnail) | Freezing Snail |  |  | Antarctica | 1348 |
 | 11 | [antedotee](https://github.com/antedotee) | ky505 |  |  | Antarctica | 1120 |
 | 12 | [codes-by-utkarsh](https://github.com/codes-by-utkarsh) | Utkarsh Srivastava | VIT Bhopal  | u25tkarsh | Antarctica | 708 |
-| 13 | [KrLite](https://github.com/KrLite) | KrLite |  | KrLite | Antarctica | 605 |
+| 13 | [KrLite](https://github.com/KrLite) | KrLite |  | KrLite | Antarctica | 603 |
 | 14 | [DenzelPenzel](https://github.com/DenzelPenzel) |  | @FAQGURU  |  | Antarctica | 532 |
 | 15 | [PenguinDOOM](https://github.com/PenguinDOOM) | Penguin | Working 6 days a week, 317 days a year |  | Antarctica, Discord, VRChat | 524 |
 | 16 | [oniaz](https://github.com/oniaz) | Omnia |  |  | antarctica | 517 |

@@ -1,6 +1,6 @@
 # Public Contributions - Timor-Leste
 
-Generated: 2026-10-16T00:31:14.372Z
+Generated: 2026-10-16T01:57:21.923Z
 
 Users: 77
 
@@ -25,4 +25,4 @@ Users: 77
 | 17 | [XICANO88](https://github.com/XICANO88) | XICANO |  |  | Guarda-Iliheu, East Timor | 31 |
 | 18 | [pedrix-48](https://github.com/pedrix-48) | Jessua Rodrigues | UNTL |  | Dili | 26 |
 | 19 | [revolta12](https://github.com/revolta12) | NizioDevT |  |  | Dili, Timor-Leste | 18 |
-| 20 | [GregoriousdaConceicao](https://github.com/GregoriousdaConceicao) | Charles |  |  | Dili | 16 |
+| 20 | [GregoriousdaConceicao](https://github.com/GregoriousdaConceicao) | Charles |  |  | Dili | 15 |

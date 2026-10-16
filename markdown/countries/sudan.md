@@ -13,7 +13,7 @@ Indexed users: 727
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [mustafa-online](https://github.com/mustafa-online) | Mustafa Online | Khartoum, Sudan | 10,175 |
-| 2 | [TheYass1n](https://github.com/TheYass1n) | Yassin Hussein | Sudan | 7,594 |
+| 2 | [TheYass1n](https://github.com/TheYass1n) | Yassin Hussein | Sudan | 7,635 |
 | 3 | [Mohammed-Moniem](https://github.com/Mohammed-Moniem) | Mohammed-Moniem | Farog Diyab St, Mamora, Khartoum, Sudan | 5,368 |
 | 4 | [EMAD77](https://github.com/EMAD77) | Emad777 | Sudan | 5,239 |
 | 5 | [obaaa8](https://github.com/obaaa8) | محمود عبدالسميع التوم | sudan | 4,952 |
@@ -29,7 +29,7 @@ Indexed users: 727
 | 15 | [Bakrialtaif](https://github.com/Bakrialtaif) | Abobaker Altaif | Sudan | 2,544 |
 | 16 | [osmanabdelsalam](https://github.com/osmanabdelsalam) | Osman Abdelsalam | Sudan / Khartoum | 2,536 |
 | 17 | [AminOmer](https://github.com/AminOmer) | Amin Omer | Khartoum, Sudan | 2,514 |
-| 18 | [asimsharf](https://github.com/asimsharf) | Asim Abdelgadir | Sudan | 2,215 |
+| 18 | [asimsharf](https://github.com/asimsharf) | Asim Abdelgadir | Sudan | 2,255 |
 | 19 | [wali-eldin-hassan](https://github.com/wali-eldin-hassan) | Wali Eldin  | Sudan | 2,030 |
 | 20 | [Mohie800](https://github.com/Mohie800) | Mohyeldeen abdulazeem | Khartoum, Sudan | 1,902 |
 
@@ -76,11 +76,11 @@ Indexed users: 727
 | 12 | [vzool](https://github.com/vzool) | Abdelaziz Elrashed | Sudan | 63 |
 | 13 | [Amar-Dev1](https://github.com/Amar-Dev1) | Amar Ibrahim | Sudan, Khartoum | 59 |
 | 14 | [attaryz](https://github.com/attaryz) | Abdullah Ali | Khartoum, Sudan | 59 |
-| 15 | [HussamAdil](https://github.com/HussamAdil) | Hussam Adil | Sudan | 59 |
-| 16 | [mhadiahmed](https://github.com/mhadiahmed) | Mhadi Ahmed | sudan | 56 |
-| 17 | [sam-x86](https://github.com/sam-x86) | SAM X86 | Sudan | 56 |
+| 15 | [HussamAdil](https://github.com/HussamAdil) | Hussam Adil | Sudan | 58 |
+| 16 | [sam-x86](https://github.com/sam-x86) | SAM X86 | Sudan | 56 |
+| 17 | [mhadiahmed](https://github.com/mhadiahmed) | Mhadi Ahmed | sudan | 55 |
 | 18 | [osayami](https://github.com/osayami) | OSAYAMI | Sudan | 52 |
 | 19 | [kabaros](https://github.com/kabaros) | Mozafar | Khartoum / Glasgow | 51 |
 | 20 | [obaaa8](https://github.com/obaaa8) | محمود عبدالسميع التوم | sudan | 49 |
 
-Generated: 2026-10-16T00:26:50.007Z
+Generated: 2026-10-16T01:51:45.691Z

@@ -17,7 +17,7 @@ Indexed users: 2,040
 | 3 | [nyandajr](https://github.com/nyandajr) | Nyanda Freddy | Tanzania | 53,229 |
 | 4 | [johnson2006christopher](https://github.com/johnson2006christopher) | Johnson Christopher Hassan | Mbeya,Tanzania | 25,054 |
 | 5 | [zuck30](https://github.com/zuck30) | Shadrackovsky | Tanzania | 18,257 |
-| 6 | [raydanielg](https://github.com/raydanielg) | Ezra Daniel Gyunda | Tanzania | 17,665 |
+| 6 | [raydanielg](https://github.com/raydanielg) | Ezra Daniel Gyunda | Tanzania | 18,171 |
 | 7 | [cleven12](https://github.com/cleven12) | cleven | Tanzania | 17,597 |
 | 8 | [fredy-me](https://github.com/fredy-me) | Melkizedek Fredy | Dar Es Salaam, Tanzania | 13,423 |
 | 9 | [Lurgic-error](https://github.com/Lurgic-error) | Lurge | Tanzania, Dar es salaam | 13,070 |
@@ -39,7 +39,7 @@ Indexed users: 2,040
 |---:|---|---|---|---:|
 | 1 | [nyandajr](https://github.com/nyandajr) | Nyanda Freddy | Tanzania | 53,229 |
 | 2 | [cleven12](https://github.com/cleven12) | cleven | Tanzania | 11,609 |
-| 3 | [raydanielg](https://github.com/raydanielg) | Ezra Daniel Gyunda | Tanzania | 11,083 |
+| 3 | [raydanielg](https://github.com/raydanielg) | Ezra Daniel Gyunda | Tanzania | 10,972 |
 | 4 | [fmwasekaga](https://github.com/fmwasekaga) | Fredrick Lusako Mwasekaga | Tanzania | 8,875 |
 | 5 | [alobit21](https://github.com/alobit21) | Aloyce Mtavangu | Dodoma-Tanzania | 6,003 |
 | 6 | [Lazackdevs](https://github.com/Lazackdevs) | Lazack_28 | dodoma | 4,314 |
@@ -83,4 +83,4 @@ Indexed users: 2,040
 | 19 | [3nock](https://github.com/3nock) | Enock | Dar es Salaam, Tanzania | 188 |
 | 20 | [Mrhanstz](https://github.com/Mrhanstz) | HANSTZ | Africa Dodoma | 179 |
 
-Generated: 2026-10-16T00:30:10.153Z
+Generated: 2026-10-16T01:56:11.924Z

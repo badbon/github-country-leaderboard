@@ -1,8 +1,8 @@
 # Followers - Bhutan
 
-Generated: 2026-10-16T00:46:10.873Z
+Generated: 2026-10-16T02:13:03.790Z
 
-Users: 267
+Users: 266
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

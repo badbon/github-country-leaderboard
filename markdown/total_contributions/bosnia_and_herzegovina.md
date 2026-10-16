@@ -1,6 +1,6 @@
 # Total Contributions - Bosnia and Herzegovina
 
-Generated: 2026-10-16T00:48:17.088Z
+Generated: 2026-10-16T02:13:38.700Z
 
 Users: 2127
 
@@ -8,21 +8,21 @@ Users: 2127
 |---:|---|---|---|---|---|---:|
 | 1 | [kemo](https://github.com/kemo) |  |  | delalick | Sarajevo, Bosnia and Herzegovina | 9780 |
 | 2 | [newPrimitives](https://github.com/newPrimitives) | Nermin Šehić | @betastudio | itsnerminsehic | Bosnia and Herzegovina | 8685 |
-| 3 | [leoyigit](https://github.com/leoyigit) | LeoYigit | Flyrank AI |  | Sarajevo | 7150 |
-| 4 | [benjaminpeljto](https://github.com/benjaminpeljto) | Benjamin Peljto | ShownMedia |  | Sarajevo | 7094 |
-| 5 | [ghostrider0470](https://github.com/ghostrider0470) | Abdagić Hamza | Horizon Tech d.o.o. Sarajevo  |  | Sarajevo | 7042 |
-| 6 | [aness55](https://github.com/aness55) | Anes |  |  | Sarajevo | 7028 |
-| 7 | [ribice](https://github.com/ribice) | Emir Ribić | @caseconnect-ai |  | Sarajevo | 6627 |
-| 8 | [NedimKuj](https://github.com/NedimKuj) | Nedim Kujrakovic | @Indevico | nedkuj | Sarajevo | 6466 |
-| 9 | [JovanJevtic](https://github.com/JovanJevtic) | Jovan Jevtic |  | OvoJovanovo | Banjaluka, Bosnia and Herzegovina | 6310 |
-| 10 | [JokerHin](https://github.com/JokerHin) | Cho Kar Hin | student |  | Bosnia and Herzegovina | 5896 |
-| 11 | [agobeljic1](https://github.com/agobeljic1) | Adnan Gobeljic |  |  | Sarajevo | 5816 |
-| 12 | [vascabarkapa](https://github.com/vascabarkapa) | Vasilije Čabarkapa |  |  | East Sarajevo, Bosnia and Herzegovina | 5769 |
-| 13 | [sanilmusic](https://github.com/sanilmusic) | Sanil Musić |  |  | Sarajevo | 5737 |
-| 14 | [TarikVelic](https://github.com/TarikVelic) | Tarik Velic |  |  | Sarajevo | 5647 |
-| 15 | [robo58](https://github.com/robo58) | Robert Sliskovic |  |  | Siroki Brijeg,Bosnia and Herzegovina | 5452 |
-| 16 | [aprohic](https://github.com/aprohic) |  |  |  | Sarajevo | 5284 |
-| 17 | [jasminsuljic](https://github.com/jasminsuljic) | Jasmin Suljic | @MonriPayments  |  | Sarajevo, Bosnia and Herzegovina | 5056 |
-| 18 | [sake92](https://github.com/sake92) | Sakib Hadžiavdić | @sacode387  |  | Sarajevo, Bosnia | 4641 |
-| 19 | [KenanHrnjic](https://github.com/KenanHrnjic) | Kenan Hrnjic | @ministryofprogramming  |  | Sarajevo | 4294 |
-| 20 | [eldar6776](https://github.com/eldar6776) | DoE |  |  | Sarajevo Bosna i Hercegovina | 4134 |
+| 3 | [mirzap](https://github.com/mirzap) | Mirza Pasic | @bosnadev  |  | Sarajevo | 8596 |
+| 4 | [leoyigit](https://github.com/leoyigit) | LeoYigit | Flyrank AI |  | Sarajevo | 7150 |
+| 5 | [benjaminpeljto](https://github.com/benjaminpeljto) | Benjamin Peljto | ShownMedia |  | Sarajevo | 7094 |
+| 6 | [ghostrider0470](https://github.com/ghostrider0470) | Abdagić Hamza | Horizon Tech d.o.o. Sarajevo  |  | Sarajevo | 7042 |
+| 7 | [aness55](https://github.com/aness55) | Anes |  |  | Sarajevo | 7028 |
+| 8 | [ribice](https://github.com/ribice) | Emir Ribić | @caseconnect-ai |  | Sarajevo | 6627 |
+| 9 | [NedimKuj](https://github.com/NedimKuj) | Nedim Kujrakovic | @Indevico | nedkuj | Sarajevo | 6466 |
+| 10 | [JovanJevtic](https://github.com/JovanJevtic) | Jovan Jevtic |  | OvoJovanovo | Banjaluka, Bosnia and Herzegovina | 6310 |
+| 11 | [JokerHin](https://github.com/JokerHin) | Cho Kar Hin | student |  | Bosnia and Herzegovina | 5896 |
+| 12 | [agobeljic1](https://github.com/agobeljic1) | Adnan Gobeljic |  |  | Sarajevo | 5816 |
+| 13 | [vascabarkapa](https://github.com/vascabarkapa) | Vasilije Čabarkapa |  |  | East Sarajevo, Bosnia and Herzegovina | 5769 |
+| 14 | [sanilmusic](https://github.com/sanilmusic) | Sanil Musić |  |  | Sarajevo | 5737 |
+| 15 | [TarikVelic](https://github.com/TarikVelic) | Tarik Velic |  |  | Sarajevo | 5647 |
+| 16 | [robo58](https://github.com/robo58) | Robert Sliskovic |  |  | Siroki Brijeg,Bosnia and Herzegovina | 5452 |
+| 17 | [aprohic](https://github.com/aprohic) |  |  |  | Sarajevo | 5284 |
+| 18 | [jasminsuljic](https://github.com/jasminsuljic) | Jasmin Suljic | @MonriPayments  |  | Sarajevo, Bosnia and Herzegovina | 5056 |
+| 19 | [sake92](https://github.com/sake92) | Sakib Hadžiavdić | @sacode387  |  | Sarajevo, Bosnia | 4641 |
+| 20 | [KenanHrnjic](https://github.com/KenanHrnjic) | Kenan Hrnjic | @ministryofprogramming  |  | Sarajevo | 4294 |
