@@ -1,6 +1,6 @@
 # Followers - Jersey
 
-Generated: 2026-10-16T05:45:36.242Z
+Generated: 2026-10-16T07:10:25.270Z
 
 Users: 139
 
@@ -22,7 +22,7 @@ Users: 139
 | 14 | [timkrins](https://github.com/timkrins) | Tim Krins | @InfuseGroup  |  | Jersey, Channel Islands | 27 |
 | 15 | [adecler](https://github.com/adecler) | Arnaud Declercq | BuroHappold Engineering |  | Jersey | 24 |
 | 16 | [cjkmcc](https://github.com/cjkmcc) | Chris McCarthy | @Circlr-io |  | Jersey / London | 22 |
-| 17 | [shiaoligreen](https://github.com/shiaoligreen) | Shiao-li Green |  | shiao_li | Jersey, Channel Islands | 22 |
-| 18 | [garyedwards](https://github.com/garyedwards) | Gary Edwards | re.je |  | Jersey, Channel Islands | 21 |
-| 19 | [r-moore](https://github.com/r-moore) | Richard Moore | @EWG-Group  |  | Jersey | 21 |
+| 17 | [r-moore](https://github.com/r-moore) | Richard Moore | @EWG-Group  |  | Jersey | 22 |
+| 18 | [shiaoligreen](https://github.com/shiaoligreen) | Shiao-li Green |  | shiao_li | Jersey, Channel Islands | 22 |
+| 19 | [garyedwards](https://github.com/garyedwards) | Gary Edwards | re.je |  | Jersey, Channel Islands | 21 |
 | 20 | [Chrisedmo](https://github.com/Chrisedmo) | Chris Mousdale |  |  | Jersey, Channel Islands | 20 |

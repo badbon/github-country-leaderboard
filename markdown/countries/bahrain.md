@@ -19,8 +19,8 @@ Indexed users: 727
 | 5 | [AlqattanDev](https://github.com/AlqattanDev) | Ali AlQattan | Manama, Bahrain | 6,193 |
 | 6 | [SalehAbdulla](https://github.com/SalehAbdulla) | SalehAbdulla | BAHRAIN | 6,085 |
 | 7 | [meshahid973](https://github.com/meshahid973) | meshahid.973 | bahrain | 5,982 |
-| 8 | [fairbird](https://github.com/fairbird) | RAED | Bahrain | 5,419 |
-| 9 | [zahidala](https://github.com/zahidala) | Zahid Allaulddin | Bahrain | 5,132 |
+| 8 | [fairbird](https://github.com/fairbird) | RAED | Bahrain | 5,462 |
+| 9 | [zahidala](https://github.com/zahidala) | Zahid Allaulddin | Bahrain | 5,212 |
 | 10 | [xCuzSkillz](https://github.com/xCuzSkillz) | Ali M. | Bahrain | 4,761 |
 | 11 | [kelvindecosta](https://github.com/kelvindecosta) | Kelvin DeCosta | Bahrain | 4,614 |
 | 12 | [iMythms](https://github.com/iMythms) | Mytham Jasim | Bahrain | 4,433 |
@@ -38,7 +38,7 @@ Indexed users: 727
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [emadprograms](https://github.com/emadprograms) | Hamza Arshad Alam | Bahrain | 6,284 |
-| 2 | [fairbird](https://github.com/fairbird) | RAED | Bahrain | 5,419 |
+| 2 | [fairbird](https://github.com/fairbird) | RAED | Bahrain | 5,462 |
 | 3 | [SalehAbdulla](https://github.com/SalehAbdulla) | SalehAbdulla | BAHRAIN | 3,045 |
 | 4 | [UnbreakableMJ](https://github.com/UnbreakableMJ) | Mohamed Hammad | Bahrain | 2,712 |
 | 5 | [fatema-maitham](https://github.com/fatema-maitham) | Fatema Maitham | Bahrain | 2,688 |
@@ -64,7 +64,7 @@ Indexed users: 727
 |---:|---|---|---|---:|
 | 1 | [walidshaari](https://github.com/walidshaari) | Walid Shaari CNJ | Bahrain | 721 |
 | 2 | [naweed](https://github.com/naweed) | Naweed Akram | Bahrain | 243 |
-| 3 | [fairbird](https://github.com/fairbird) | RAED | Bahrain | 120 |
+| 3 | [fairbird](https://github.com/fairbird) | RAED | Bahrain | 121 |
 | 4 | [0xRar](https://github.com/0xRar) |  | Bahrain | 115 |
 | 5 | [burhan](https://github.com/burhan) | Burhan Khalid | Bahrain/Kuwait | 111 |
 | 6 | [ExTBH](https://github.com/ExTBH) | Natheer Radhi | Bahrain | 106 |
@@ -83,4 +83,4 @@ Indexed users: 727
 | 19 | [f-9t9it](https://github.com/f-9t9it) | 9T9 IT | Bahrain | 42 |
 | 20 | [ameenaltajer](https://github.com/ameenaltajer) | Ameen Altajer | Bahrain | 39 |
 
-Generated: 2026-10-16T05:12:56.195Z
+Generated: 2026-10-16T06:43:18.940Z

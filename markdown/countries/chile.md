@@ -67,7 +67,7 @@ Indexed users: 19,380
 | 3 | [Mjrovai](https://github.com/Mjrovai) | Marcelo Rovai | Santiago, Chile | 1,188 |
 | 4 | [furendyna](https://github.com/furendyna) | Furen | Santiago | 1,104 |
 | 5 | [ColdGrub1384](https://github.com/ColdGrub1384) | Emma Cold | Chile | 624 |
-| 6 | [tyronejosee](https://github.com/tyronejosee) | Tyrone José | Chile | 565 |
+| 6 | [tyronejosee](https://github.com/tyronejosee) | Tyrone José | Chile | 576 |
 | 7 | [montoyamoraga](https://github.com/montoyamoraga) | aarón montoya-moraga | Chile | 564 |
 | 8 | [maria-rcks](https://github.com/maria-rcks) | maria | Santiago, Chile | 554 |
 | 9 | [aledbf](https://github.com/aledbf) | Manuel Alejandro de Brito Fontes | Santiago, Chile | 523 |
@@ -83,4 +83,4 @@ Indexed users: 19,380
 | 19 | [clsource](https://github.com/clsource) | Camilo | BEAM, Chile | 421 |
 | 20 | [Dieg0Code](https://github.com/Dieg0Code) | Diego | Chile | 420 |
 
-Generated: 2026-10-16T05:23:31.570Z
+Generated: 2026-10-16T06:52:22.797Z

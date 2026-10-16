@@ -62,7 +62,7 @@ Indexed users: 1,784
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [Frosmin](https://github.com/Frosmin) | Simon Abasto Martinis | Bolivia | 2,319 |
+| 1 | [Frosmin](https://github.com/Frosmin) | Simon Abasto Martinis | Bolivia | 2,323 |
 | 2 | [nicobytes](https://github.com/nicobytes) | Nicolas Molina Monroy | Cochabamba, Bolivia | 1,401 |
 | 3 | [ospfranco](https://github.com/ospfranco) | Oscar Franco | Bolivia | 576 |
 | 4 | [lizarragadev](https://github.com/lizarragadev) | Gustavo Lizárraga | La Paz, Bolivia | 429 |
@@ -83,4 +83,4 @@ Indexed users: 1,784
 | 19 | [alvarosiles11](https://github.com/alvarosiles11) | Alvaro Siles Estrada | Bolivia | 121 |
 | 20 | [mauforonda](https://github.com/mauforonda) | Mau Foronda | Bolivia | 120 |
 
-Generated: 2026-10-16T05:15:28.350Z
+Generated: 2026-10-16T06:48:12.526Z

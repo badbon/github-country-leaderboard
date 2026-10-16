@@ -45,7 +45,7 @@ Indexed users: 6,691
 | 6 | [Thyon3](https://github.com/Thyon3) | Asnake Mengesha (Thyon) | Addis Ababa  | 3,469 |
 | 7 | [hiruy72](https://github.com/hiruy72) | Hiruy Legesse Adane | Addis Ababa, Ethiopia | 3,390 |
 | 8 | [Yoseph-M](https://github.com/Yoseph-M) | Yoseph_M | Addis Ababa, Ethiopia | 3,388 |
-| 9 | [j-ordanos](https://github.com/j-ordanos) | Yordanos Zewge | Addis Ababa, Ethiopia | 3,124 |
+| 9 | [j-ordanos](https://github.com/j-ordanos) | Yordanos Zewge | Addis Ababa, Ethiopia | 3,193 |
 | 10 | [Rick1330](https://github.com/Rick1330) | Elshaday Mengesha | Addis Ababa | 3,073 |
 | 11 | [yared2124](https://github.com/yared2124) | yared aregayehu | Addis Ababa | 2,980 |
 | 12 | [Temamamankabeto](https://github.com/Temamamankabeto) | Temam | ethiopia | 2,775 |
@@ -83,4 +83,4 @@ Indexed users: 6,691
 | 19 | [Olyadtemesgen](https://github.com/Olyadtemesgen) | Olyad Temesgen Amsalu | Addis Ababa, Ethiopia | 519 |
 | 20 | [yonasleykun27](https://github.com/yonasleykun27) | Yonas Leykun | Addis Ababa, Ethiopia  | 515 |
 
-Generated: 2026-10-16T05:30:23.248Z
+Generated: 2026-10-16T06:59:24.734Z

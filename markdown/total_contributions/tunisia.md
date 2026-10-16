@@ -1,6 +1,6 @@
 # Total Contributions - Tunisia
 
-Generated: 2026-10-16T05:01:06.231Z
+Generated: 2026-10-16T06:30:10.247Z
 
 Users: 7179
 
@@ -8,7 +8,7 @@ Users: 7179
 |---:|---|---|---|---|---|---:|
 | 1 | [haythemgalelem](https://github.com/haythemgalelem) | HAGTIC |  | haythem_galelem | Tunisia | 586955 |
 | 2 | [Mohamed-Amine-Slama](https://github.com/Mohamed-Amine-Slama) |  | Freelancer |  | Sousse, Tunis  | 31257 |
-| 3 | [The-iyed](https://github.com/The-iyed) | Sebai Iyed | Builtop |  | Tunisia | 22302 |
+| 3 | [The-iyed](https://github.com/The-iyed) | Sebai Iyed | Builtop |  | Tunis, Tunisia | 22342 |
 | 4 | [thevpc](https://github.com/thevpc) | thevpc | Core Techs Solutions |  | Tunisia | 21742 |
 | 5 | [labidiaymen](https://github.com/labidiaymen) | Aymen | Nuraly | labidiaymen | Tunis, Tunisia | 19874 |
 | 6 | [urshabib](https://github.com/urshabib) | Habib Lomma |  |  | Tunisia | 19226 |

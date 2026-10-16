@@ -1,8 +1,8 @@
 # Total Contributions - United Arab Emirates
 
-Generated: 2026-10-16T05:04:15.599Z
+Generated: 2026-10-16T06:33:50.249Z
 
-Users: 4228
+Users: 4227
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -10,9 +10,9 @@ Users: 4228
 | 2 | [YASSERRMD](https://github.com/YASSERRMD) | Mohamed Yasser | Sharjah City Municipality |  | Sharjah, United Arab Emirates | 22047 |
 | 3 | [tschm](https://github.com/tschm) | Thomas Schmelzer | Jebel Quant Research | Thomster78 | Abu Dhabi, United Arab Emirates | 21568 |
 | 4 | [sadiqaaico](https://github.com/sadiqaaico) | Sadiq | AppliedAI |  | Abu Dhabi, United Arab Emirates | 17828 |
-| 5 | [omarismailb](https://github.com/omarismailb) | omar | Ascend |  | London / Abu Dhabi  | 13848 |
-| 6 | [piwi3910](https://github.com/piwi3910) | Pascal Watteel | Dell Technologies |  | United Arab Emirates | 13573 |
-| 7 | [seyyedmuhamad](https://github.com/seyyedmuhamad) | Mohamad Mahdi Mohamadian | Elegant Hoopoe |  | Dubai, United Arab Emirates | 13470 |
+| 5 | [seyyedmuhamad](https://github.com/seyyedmuhamad) | Mohamad Mahdi Mohamadian | Elegant Hoopoe |  | Dubai, United Arab Emirates | 15453 |
+| 6 | [omarismailb](https://github.com/omarismailb) | omar | Ascend |  | London / Abu Dhabi  | 13848 |
+| 7 | [piwi3910](https://github.com/piwi3910) | Pascal Watteel | Dell Technologies |  | United Arab Emirates | 13573 |
 | 8 | [Desouki27](https://github.com/Desouki27) | Mohamed Desouki | Deloitte |  | Dubai, United Arab Emirates | 12906 |
 | 9 | [syymza](https://github.com/syymza) | Dani | @alpheya |  | Abu Dhabi, UAE | 11227 |
 | 10 | [ankitmaheshwari-com](https://github.com/ankitmaheshwari-com) | Ankit Maheshwari |  |  | United Arab Emirates | 11188 |

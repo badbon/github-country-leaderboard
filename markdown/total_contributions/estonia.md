@@ -1,6 +1,6 @@
 # Total Contributions - Estonia
 
-Generated: 2026-10-16T05:29:47.626Z
+Generated: 2026-10-16T06:59:19.281Z
 
 Users: 4903
 
@@ -11,8 +11,8 @@ Users: 4903
 | 3 | [ashfordeOU](https://github.com/ashfordeOU) | Ashforde OÜ | Ashforde OÜ |  | Estonia | 22475 |
 | 4 | [kwunlokng](https://github.com/kwunlokng) | Kwun-Lok Ng | @kipwise  |  | Tallinn, Estonia | 22394 |
 | 5 | [trevorlasn](https://github.com/trevorlasn) | Trevor I. Lasn | @0xinsider  | trevorlasn | Tartu, Estonia | 20844 |
-| 6 | [oisincoveney](https://github.com/oisincoveney) | Oisin Coveney |  |  | Tallinn, Estonia | 15379 |
-| 7 | [LEISSON-DARKSSON](https://github.com/LEISSON-DARKSSON) | Gert Leisson | LEISSON OÜ |  | Tallinn, ESTONIA | 14008 |
+| 6 | [LEISSON-DARKSSON](https://github.com/LEISSON-DARKSSON) | Gert Leisson | LEISSON OÜ |  | Tallinn, ESTONIA | 14008 |
+| 7 | [oisincoveney](https://github.com/oisincoveney) | Oisin Coveney |  |  | Tallinn, Estonia | 13893 |
 | 8 | [Nitrammets](https://github.com/Nitrammets) | Martin Metsküla |  |  | Tallinn | 13725 |
 | 9 | [Wirasm](https://github.com/Wirasm) | Rasmus Widing | widinglabs |  | tallinn | 13667 |
 | 10 | [Artexis10](https://github.com/Artexis10) | Hugo Ander Kivi | Substrate Systems OÜ | hugoanderkivi | Tallinn | 13652 |

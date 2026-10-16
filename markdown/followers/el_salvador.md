@@ -1,6 +1,6 @@
 # Followers - El Salvador
 
-Generated: 2026-10-16T05:28:54.844Z
+Generated: 2026-10-16T06:58:47.023Z
 
 Users: 2378
 
@@ -13,16 +13,16 @@ Users: 2378
 | 5 | [oicrruf](https://github.com/oicrruf) | Víctor M. Reyes | FOCUS Services | oicrruf | San Salvador, El Salvador  | 164 |
 | 6 | [ever1509](https://github.com/ever1509) | Ever Orellana |  |  | El Salvador | 163 |
 | 7 | [chepecarlos](https://github.com/chepecarlos) | Jose Carlos Garcia Diaz | ALSW |  | San Miguel, El Salvador | 156 |
-| 8 | [Skalas](https://github.com/Skalas) | Miguel Angel Escalante |  | skalas | San Salvador, El Salvador | 153 |
-| 9 | [ferjoaguilar](https://github.com/ferjoaguilar) | Fernando Jose Aguilar Rivas | snowball-devs |  | El Salvador, San Salvador | 142 |
-| 10 | [Alejandroq12](https://github.com/Alejandroq12) | Julio Quezada | Ravn |  | El Salvador | 135 |
-| 11 | [dgerardoflores](https://github.com/dgerardoflores) | Gerardo Flores | NotAwait | dgerardoflores | El Salvador | 125 |
-| 12 | [josueayala27](https://github.com/josueayala27) | Josué Ayala |  | josue_ayala27 | San Salvador | 125 |
-| 13 | [exequiel-miranda](https://github.com/exequiel-miranda) | Exequiel Miranda |  |  | El Salvador | 124 |
-| 14 | [ricardoerl](https://github.com/ricardoerl) | Ricardo Ramírez | Applaudo | ricardoerl | El Salvador | 123 |
-| 15 | [DanielRivera03](https://github.com/DanielRivera03) | Daniel Rivera | COAMSS/OPAMSS |  | San Salvador, El Salvador | 120 |
-| 16 | [Nexxtor](https://github.com/Nexxtor) | Nestor Aldana |  |  | El Salvador | 116 |
-| 17 | [heycesar](https://github.com/heycesar) | César A. Ramírez | Axel, @kods-io  | cesaramirezsv | El Salvador | 104 |
-| 18 | [fhereduardo90](https://github.com/fhereduardo90) | Fernando Juarez |  | fher_eduardo | El Salvador | 101 |
-| 19 | [hherzl](https://github.com/hherzl) | HH |  | hherzl | El Salvador | 97 |
-| 20 | [MiPrimerBitcoin](https://github.com/MiPrimerBitcoin) | Mi Primer Bitcoin El Salvador | Mi Primer Bitcoin El Salvador | MyfirstBitcoin_ | El Salvador | 96 |
+| 8 | [ferjoaguilar](https://github.com/ferjoaguilar) | Fernando Jose Aguilar Rivas | snowball-devs |  | El Salvador, San Salvador | 142 |
+| 9 | [Alejandroq12](https://github.com/Alejandroq12) | Julio Quezada | Ravn |  | El Salvador | 135 |
+| 10 | [dgerardoflores](https://github.com/dgerardoflores) | Gerardo Flores | NotAwait | dgerardoflores | El Salvador | 125 |
+| 11 | [josueayala27](https://github.com/josueayala27) | Josué Ayala |  | josue_ayala27 | San Salvador | 125 |
+| 12 | [exequiel-miranda](https://github.com/exequiel-miranda) | Exequiel Miranda |  |  | El Salvador | 124 |
+| 13 | [ricardoerl](https://github.com/ricardoerl) | Ricardo Ramírez | Applaudo | ricardoerl | El Salvador | 123 |
+| 14 | [DanielRivera03](https://github.com/DanielRivera03) | Daniel Rivera | COAMSS/OPAMSS |  | San Salvador, El Salvador | 120 |
+| 15 | [Nexxtor](https://github.com/Nexxtor) | Nestor Aldana |  |  | El Salvador | 117 |
+| 16 | [heycesar](https://github.com/heycesar) | César A. Ramírez | Axel, @kods-io  | cesaramirezsv | El Salvador | 104 |
+| 17 | [fhereduardo90](https://github.com/fhereduardo90) | Fernando Juarez |  | fher_eduardo | El Salvador | 101 |
+| 18 | [hherzl](https://github.com/hherzl) | HH |  | hherzl | El Salvador | 97 |
+| 19 | [MiPrimerBitcoin](https://github.com/MiPrimerBitcoin) | Mi Primer Bitcoin El Salvador | Mi Primer Bitcoin El Salvador | MyfirstBitcoin_ | El Salvador | 96 |
+| 20 | [davequinta](https://github.com/davequinta) | David Quintanilla |  | dave_quinta | El Salvador | 95 |

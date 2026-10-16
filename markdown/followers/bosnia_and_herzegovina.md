@@ -1,6 +1,6 @@
 # Followers - Bosnia and Herzegovina
 
-Generated: 2026-10-16T05:15:31.813Z
+Generated: 2026-10-16T06:48:21.813Z
 
 Users: 2127
 
@@ -10,7 +10,7 @@ Users: 2127
 | 2 | [BenjaminMahmic](https://github.com/BenjaminMahmic) | Benjamin Mahmić | @StageCoding |  | Zenica, Bosnia and Herzegovina | 464 |
 | 3 | [adnanrahic](https://github.com/adnanrahic) | Adnan Rahić | @observIQ | adnanrahic | Sarajevo | 383 |
 | 4 | [enisdenjo](https://github.com/enisdenjo) | Denis Badurina | @denelop  | enisdenjo | Sarajevo | 234 |
-| 5 | [adnanh](https://github.com/adnanh) | Adnan Hajdarević |  |  | Sarajevo, Bosnia & Herzegovina | 226 |
+| 5 | [adnanh](https://github.com/adnanh) | Adnan Hajdarević |  |  | Sarajevo, Bosnia & Herzegovina | 228 |
 | 6 | [ribice](https://github.com/ribice) | Emir Ribić | @caseconnect-ai |  | Sarajevo | 220 |
 | 7 | [komljen](https://github.com/komljen) | Alen Komljen | @Faire  | alenkomljen | Sarajevo | 206 |
 | 8 | [Admer456](https://github.com/Admer456) | Admer |  |  | Bosnia and Herzegovina | 188 |

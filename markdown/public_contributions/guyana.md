@@ -1,14 +1,14 @@
 # Public Contributions - Guyana
 
-Generated: 2026-10-16T05:39:00.268Z
+Generated: 2026-10-16T07:04:52.307Z
 
 Users: 186
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [FlyOverCoderKY](https://github.com/FlyOverCoderKY) | Fly Over Coder |  |  | Georgetown, KY | 4103 |
+| 1 | [FlyOverCoderKY](https://github.com/FlyOverCoderKY) | Fly Over Coder |  |  | Georgetown, KY | 4108 |
 | 2 | [uberhacker](https://github.com/uberhacker) | Ed Reel | Mobile Strategies LLC |  | Georgetown, TX | 3947 |
-| 3 | [bdenham](https://github.com/bdenham) | Bruce Denham | @adobe |  | Georgetown, Texas | 3427 |
+| 3 | [bdenham](https://github.com/bdenham) | Bruce Denham | @adobe |  | Georgetown, Texas | 3422 |
 | 4 | [negz](https://github.com/negz) | Nic Cope | @upbound  | internegz | Georgetown, Seattle | 1857 |
 | 5 | [jzills](https://github.com/jzills) | Joshua Zillwood |  |  | Georgetown, TX | 1713 |
 | 6 | [ktappdev](https://github.com/ktappdev) | Ken Andrew Taylor | LugeTech, Brutal Tracks Recording Studio, Maad 97.5 FM | ktappdev | Guyana | 1499 |
@@ -21,8 +21,8 @@ Users: 186
 | 13 | [aG00Dtime](https://github.com/aG00Dtime) | David Henry |  |  | Guyana | 329 |
 | 14 | [ryanrhanson](https://github.com/ryanrhanson) | Ryan Hanson | Doppler |  | Georgetown, TX | 323 |
 | 15 | [schrum2](https://github.com/schrum2) | Jacob Schrum | Southwestern University |  | Georgetown, TX | 315 |
-| 16 | [adi-pr](https://github.com/adi-pr) | Aditya (Ruben) Prasad |  |  | Guyana | 266 |
-| 17 | [billydavis](https://github.com/billydavis) | Billy Davis |  |  | Georgetown, Texas | 264 |
+| 16 | [billydavis](https://github.com/billydavis) | Billy Davis |  |  | Georgetown, Texas | 270 |
+| 17 | [adi-pr](https://github.com/adi-pr) | Aditya (Ruben) Prasad |  |  | Guyana | 266 |
 | 18 | [codedbychavez](https://github.com/codedbychavez) | Chavez Harris | @configcat |  | Guyana | 251 |
 | 19 | [beckettharriman](https://github.com/beckettharriman) | Beckett Harriman | Georgetown University |  | Georgetown, DC | 242 |
 | 20 | [amberhinds](https://github.com/amberhinds) | Amber Hinds | @equalizedigital  | heyamberhinds | Georgetown, TX | 220 |

@@ -1,6 +1,6 @@
 # Followers - Afghanistan
 
-Generated: 2026-10-16T05:07:47.839Z
+Generated: 2026-10-16T06:38:32.981Z
 
 Users: 1487
 
@@ -18,7 +18,7 @@ Users: 1487
 | 10 | [SarwarEbrahimi01](https://github.com/SarwarEbrahimi01) | Sarwar Ebrahimi  | Kabul University  | sarwar_ebrahimi | Kabul , Afghanistan  | 186 |
 | 11 | [khalidafghanmal](https://github.com/khalidafghanmal) | khalid afghanmal | Smart City Solution ICT |  | Afghanistan | 166 |
 | 12 | [WajihaNiazi](https://github.com/WajihaNiazi) | Wajiha Niazi | CodeToInspire | Wajiha_Niazi | Herat,Afghanistan | 156 |
-| 13 | [ab-noori](https://github.com/ab-noori) | Abdulali Noori | AAK Tele Science |  | Afghanistan | 146 |
+| 13 | [ab-noori](https://github.com/ab-noori) | Abdulali Noori | AAK Tele Science |  | Afghanistan | 145 |
 | 14 | [MashalSarwari](https://github.com/MashalSarwari) | Mohammad Mashal Sarwari |  |  | Afghanistan | 145 |
 | 15 | [starkbaknet](https://github.com/starkbaknet) | StarkBak |  |  | Kabul, Afghanistan | 135 |
 | 16 | [SaeqaSultani](https://github.com/SaeqaSultani) | Saeqa Sultani | WASSA |  | Afghanistan | 130 |

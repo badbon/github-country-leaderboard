@@ -1,14 +1,14 @@
 # Total Contributions - Armenia
 
-Generated: 2026-10-16T05:11:38.088Z
+Generated: 2026-10-16T06:41:25.302Z
 
 Users: 4041
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [Erik-Egnatosyan](https://github.com/Erik-Egnatosyan) | Erik Egnatosyan | Globbing |  | Armenia | 113819 |
-| 2 | [meanmail](https://github.com/meanmail) | Alexander Petrov | meanmail.dev | meanmaildev | Armenia, Yerevan | 10720 |
-| 3 | [logictonic](https://github.com/logictonic) | Eugene |  |  | Armenia | 10401 |
+| 2 | [logictonic](https://github.com/logictonic) | Eugene |  |  | Armenia | 13603 |
+| 3 | [meanmail](https://github.com/meanmail) | Alexander Petrov | meanmail.dev | meanmaildev | Armenia, Yerevan | 10720 |
 | 4 | [ilyalosinski](https://github.com/ilyalosinski) | Ilya Losinski |  |  | Yerevan, Armenia | 10400 |
 | 5 | [n0uk](https://github.com/n0uk) | Maksim Ustichenko |  |  | RA, Yerevan | 9051 |
 | 6 | [prazian](https://github.com/prazian) | Pooyan Razian | Yanovian LLC |  | Yerevan, Armenia | 8784 |

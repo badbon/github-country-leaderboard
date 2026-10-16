@@ -23,7 +23,7 @@ Indexed users: 325
 | 9 | [ApophisX](https://github.com/ApophisX) | GienWang | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1,007 |
 | 10 | [rudrprasad05](https://github.com/rudrprasad05) | Rudr Prasad | Fiji | 932 |
 | 11 | [Eddie115-x](https://github.com/Eddie115-x) | Adrian Obadiah | SUVA | 903 |
-| 12 | [anav5704](https://github.com/anav5704) | Anav Chand | Fiji | 796 |
+| 12 | [anav5704](https://github.com/anav5704) | Anav Chand | Fiji | 798 |
 | 13 | [rahulduttt](https://github.com/rahulduttt) | Rahul Dutt | Fiji | 626 |
 | 14 | [kishkumar96](https://github.com/kishkumar96) | Kishan Chimman Kumar | Suva | 562 |
 | 15 | [kunz398](https://github.com/kunz398) | Kunal Singh | Fiji | 512 |
@@ -83,4 +83,4 @@ Indexed users: 325
 | 19 | [phpoh](https://github.com/phpoh) | phpoh | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 21 |
 | 20 | [alvinkumar18](https://github.com/alvinkumar18) | Alvin Kumar | Fiji | 18 |
 
-Generated: 2026-10-16T05:32:07.694Z
+Generated: 2026-10-16T07:00:28.334Z

@@ -17,8 +17,8 @@ Indexed users: 4,903
 | 3 | [ashfordeOU](https://github.com/ashfordeOU) | Ashforde OÜ | Estonia | 22,475 |
 | 4 | [kwunlokng](https://github.com/kwunlokng) | Kwun-Lok Ng | Tallinn, Estonia | 22,394 |
 | 5 | [trevorlasn](https://github.com/trevorlasn) | Trevor I. Lasn | Tartu, Estonia | 20,844 |
-| 6 | [oisincoveney](https://github.com/oisincoveney) | Oisin Coveney | Tallinn, Estonia | 15,379 |
-| 7 | [LEISSON-DARKSSON](https://github.com/LEISSON-DARKSSON) | Gert Leisson | Tallinn, ESTONIA | 14,008 |
+| 6 | [LEISSON-DARKSSON](https://github.com/LEISSON-DARKSSON) | Gert Leisson | Tallinn, ESTONIA | 14,008 |
+| 7 | [oisincoveney](https://github.com/oisincoveney) | Oisin Coveney | Tallinn, Estonia | 13,893 |
 | 8 | [Nitrammets](https://github.com/Nitrammets) | Martin Metsküla | Tallinn | 13,725 |
 | 9 | [Wirasm](https://github.com/Wirasm) | Rasmus Widing | tallinn | 13,667 |
 | 10 | [Artexis10](https://github.com/Artexis10) | Hugo Ander Kivi | Tallinn | 13,652 |
@@ -83,4 +83,4 @@ Indexed users: 4,903
 | 19 | [Wirasm](https://github.com/Wirasm) | Rasmus Widing | tallinn | 406 |
 | 20 | [toomastahves](https://github.com/toomastahves) | Toomas Tahves | Tallinn, Estonia | 388 |
 
-Generated: 2026-10-16T05:29:47.626Z
+Generated: 2026-10-16T06:59:19.281Z

@@ -50,7 +50,7 @@ Indexed users: 95
 | 11 | [keenanbernard](https://github.com/keenanbernard) | Keenan Bernard | Belize City, Belize | 81 |
 | 12 | [jimidle](https://github.com/jimidle) | Jim Idle | Hopkins, Belize | 80 |
 | 13 | [JerryHamm](https://github.com/JerryHamm) | Jeremiah Hammond | Ladyville, Belize | 78 |
-| 14 | [Rubi3r3](https://github.com/Rubi3r3) | Rubiere Ramirez | Belize | 73 |
+| 14 | [Rubi3r3](https://github.com/Rubi3r3) | Rubiere Ramirez | Belize | 72 |
 | 15 | [hubertdomagalaa](https://github.com/hubertdomagalaa) | HD | Belize | 56 |
 | 16 | [erichanson](https://github.com/erichanson) | Eric Hanson | Belize | 43 |
 | 17 | [GirlWhoCodes14](https://github.com/GirlWhoCodes14) | Alexis Ayuso | Belize | 42 |
@@ -83,4 +83,4 @@ Indexed users: 95
 | 19 | [cybcsec](https://github.com/cybcsec) | CybCSec Coin | Belize | 7 |
 | 20 | [mmedinajr](https://github.com/mmedinajr) | Manuel Medina Jr | Belmopan City | 7 |
 
-Generated: 2026-10-16T05:14:52.849Z
+Generated: 2026-10-16T06:46:23.250Z

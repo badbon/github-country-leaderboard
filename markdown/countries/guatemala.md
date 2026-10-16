@@ -31,7 +31,7 @@ Indexed users: 3,220
 | 17 | [fcpauldiaz](https://github.com/fcpauldiaz) | Pablo Díaz | Guatemala | 5,250 |
 | 18 | [Mgodoyd](https://github.com/Mgodoyd) | MARIO   GODOY | Guatemala | 4,898 |
 | 19 | [wmsales](https://github.com/wmsales) | Wilson Sales | Guatemala | 4,898 |
-| 20 | [ElvisBatzibal](https://github.com/ElvisBatzibal) | Elvis Geovanny Batzibal | Guatemala | 4,634 |
+| 20 | [JoseMan200124](https://github.com/JoseMan200124) | José Daniel Man Castellanos | Guatemala | 4,702 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 3,220
 | 19 | [cms](https://github.com/cms) | Christian C. Salvadó | Guatemala | 117 |
 | 20 | [tian2992](https://github.com/tian2992) | Sebastian Oliva | Guatemala | 114 |
 
-Generated: 2026-10-16T05:38:05.575Z
+Generated: 2026-10-16T07:03:04.012Z

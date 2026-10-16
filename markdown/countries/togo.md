@@ -46,7 +46,7 @@ Indexed users: 679
 | 7 | [ALBAN3886](https://github.com/ALBAN3886) | AET Technology  | Togo | 1,899 |
 | 8 | [horacioskrp](https://github.com/horacioskrp) | Kudayah Sassou Horacio Herve | Togo-Lomé  | 1,840 |
 | 9 | [Dreykovic](https://github.com/Dreykovic) | Birewa Audrey AMONA | Togo | 1,797 |
-| 10 | [Juniorleriche27](https://github.com/Juniorleriche27) |  | Lome, Togo | 1,667 |
+| 10 | [Juniorleriche27](https://github.com/Juniorleriche27) |  | Lome, Togo | 1,644 |
 | 11 | [Nova2026-graphik](https://github.com/Nova2026-graphik) | Samuel Nova | Lomé / Togo | 1,279 |
 | 12 | [Einswilli](https://github.com/Einswilli) | #Einswilli | Lomé | 1,189 |
 | 13 | [Gowaru](https://github.com/Gowaru) | Mawuli Godwin Alexandre AMEVOR | Lomé | 912 |
@@ -83,4 +83,4 @@ Indexed users: 679
 | 19 | [ica1010](https://github.com/ica1010) | Ghislin | Lomé , Togo | 65 |
 | 20 | [Maximekgn](https://github.com/Maximekgn) | KOGON Mawunygan Maxime | Togo | 64 |
 
-Generated: 2026-10-16T04:59:40.652Z
+Generated: 2026-10-16T06:30:01.031Z

@@ -1,6 +1,6 @@
 # Followers - Chile
 
-Generated: 2026-10-16T05:23:31.570Z
+Generated: 2026-10-16T06:52:22.797Z
 
 Users: 19380
 
@@ -11,7 +11,7 @@ Users: 19380
 | 3 | [Mjrovai](https://github.com/Mjrovai) | Marcelo Rovai | UNIFEI |  | Santiago, Chile | 1188 |
 | 4 | [furendyna](https://github.com/furendyna) | Furen | NUBISON |  | Santiago | 1104 |
 | 5 | [ColdGrub1384](https://github.com/ColdGrub1384) | Emma Cold | My Home |  | Chile | 624 |
-| 6 | [tyronejosee](https://github.com/tyronejosee) | Tyrone José |  |  | Chile | 565 |
+| 6 | [tyronejosee](https://github.com/tyronejosee) | Tyrone José |  |  | Chile | 576 |
 | 7 | [montoyamoraga](https://github.com/montoyamoraga) | aarón montoya-moraga | @disenoUDP |  | Chile | 564 |
 | 8 | [maria-rcks](https://github.com/maria-rcks) | maria |  | maria_rcks | Santiago, Chile | 554 |
 | 9 | [aledbf](https://github.com/aledbf) | Manuel Alejandro de Brito Fontes |  | aledbf | Santiago, Chile | 523 |
