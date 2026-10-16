@@ -24714,7 +24714,7 @@
     "location": "Greece",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 12,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-01-03T18:33:45Z"
@@ -24726,7 +24726,7 @@
     "location": "Thessaloniki, Greece",
     "company": "ACM Auth",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 12,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-07-03T13:48:37Z"
@@ -24738,7 +24738,7 @@
     "location": "Greece",
     "company": "",
     "twitterUsername": "anontld",
-    "followers": 11,
+    "followers": 12,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-01-19T22:02:59Z"
@@ -24750,22 +24750,10 @@
     "location": "Greece",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 77,
+    "publicContributions": 400,
     "createdAt": "2022-12-12T20:17:57Z"
-  },
-  {
-    "login": "DimiKont",
-    "name": "Jim",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/100611584?s=72&u=5330b002b568e79fb358b186efee14c8a8f4f0ad&v=4",
-    "location": "Athens, Greece",
-    "company": "University of West Attica",
-    "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 312,
-    "publicContributions": 43,
-    "createdAt": "2022-02-28T17:13:45Z"
   },
   {
     "login": "tasoskele",
@@ -24775,7 +24763,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 1,
+    "privateContributions": 3,
     "publicContributions": 0,
     "createdAt": "2022-02-16T16:17:49Z"
   },
@@ -24786,9 +24774,9 @@
     "location": "Volos / Greece",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 725,
+    "publicContributions": 1013,
     "createdAt": "2022-12-09T10:35:41Z"
   },
   {
@@ -24799,8 +24787,8 @@
     "company": "DMST, AUEB",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 1696,
-    "publicContributions": 111,
+    "privateContributions": 2372,
+    "publicContributions": 110,
     "createdAt": "2022-10-08T22:58:12Z"
   },
   {
@@ -24810,8 +24798,8 @@
     "location": "Athens/Greece",
     "company": "Accenture Greece",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 5,
+    "followers": 10,
+    "privateContributions": 4,
     "publicContributions": 0,
     "createdAt": "2022-07-05T11:42:47Z"
   },
@@ -24834,21 +24822,21 @@
     "location": "Athens, Greece",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 818,
-    "publicContributions": 152,
+    "followers": 11,
+    "privateContributions": 2410,
+    "publicContributions": 83,
     "createdAt": "2022-12-18T11:19:08Z"
   },
   {
     "login": "thomastour",
-    "name": "Thomas Tourlidas",
+    "name": "Thomas T",
     "avatarUrl": "https://avatars.githubusercontent.com/u/120122755?s=72&u=2e316329c181c469c3f094be73c1e94a48942fe8&v=4",
     "location": "Greece",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 35,
+    "publicContributions": 8,
     "createdAt": "2022-12-08T16:33:13Z"
   },
   {
@@ -24858,7 +24846,7 @@
     "location": "Greece ",
     "company": "Webanker ",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 11,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-10-29T20:24:14Z"
@@ -24870,15 +24858,15 @@
     "location": "Patras, Greece",
     "company": "University of Patras",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 322,
-    "publicContributions": 339,
+    "followers": 9,
+    "privateContributions": 259,
+    "publicContributions": 277,
     "createdAt": "2022-02-26T19:26:54Z"
   },
   {
     "login": "ElinaKapetanaki",
     "name": "Elina Kapetanaki",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/115416991?s=72&u=91a95cb614e26da7f08258f664d888ea7898c3a0&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/115416991?s=72&u=a5646962a9bed06273c63c6db90071f943934c9d&v=4",
     "location": "Athens, Greece",
     "company": "",
     "twitterUsername": "",
@@ -24886,18 +24874,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-10-09T16:00:00Z"
-  },
-  {
-    "login": "GiorgosNicolaides",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/99086706?s=72&u=f3c08a8db456aaabfd39653954c4d74c3fce3358&v=4",
-    "location": "Athens, Greece",
-    "company": "Harokopio University",
-    "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 27,
-    "publicContributions": 30,
-    "createdAt": "2022-02-05T15:40:57Z"
   },
   {
     "login": "ThanosZappas",
@@ -24908,7 +24884,7 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2022-11-17T10:10:01Z"
   },
   {
@@ -24918,7 +24894,7 @@
     "location": "Samos, Greece",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 9,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-12-22T08:39:04Z"
@@ -24930,9 +24906,9 @@
     "location": "Greece",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 11,
     "privateContributions": 278,
-    "publicContributions": 5,
+    "publicContributions": 8,
     "createdAt": "2022-04-18T16:41:19Z"
   },
   {
@@ -24942,7 +24918,7 @@
     "location": "Greece",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 12,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-02-23T10:55:24Z"

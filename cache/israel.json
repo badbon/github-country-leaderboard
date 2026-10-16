@@ -24871,8 +24871,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 18,
-    "publicContributions": 53,
+    "privateContributions": 96,
+    "publicContributions": 50,
     "createdAt": "2021-04-13T13:38:59Z"
   },
   {
@@ -24882,7 +24882,7 @@
     "location": "Israel",
     "company": "@microsoft @Azure ",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-01-04T11:10:47Z"
@@ -24890,13 +24890,13 @@
   {
     "login": "zivrefaeli",
     "name": "Ziv Refaeli",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/76972862?s=72&u=6b25f96f4fa1a6b86218f644001818da4ac512b6&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/76972862?s=72&u=cb441338bb2211fcd1ff649c5ce32c94c695a462&v=4",
     "location": "Israel",
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 77,
-    "publicContributions": 0,
+    "privateContributions": 69,
+    "publicContributions": 34,
     "createdAt": "2021-01-04T20:55:37Z"
   },
   {
@@ -24907,8 +24907,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 18,
-    "publicContributions": 19,
+    "privateContributions": 10,
+    "publicContributions": 9,
     "createdAt": "2021-06-28T16:53:44Z"
   },
   {
@@ -24919,20 +24919,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 8,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-06-15T03:42:59Z"
   },
   {
     "login": "Bxci",
-    "name": "bxci",
+    "name": "bxn",
     "avatarUrl": "https://avatars.githubusercontent.com/u/78497604?s=72&u=b1e70d2db1ddb2625caea003f875826f195bd8c6&v=4",
     "location": "Israel",
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 6,
-    "publicContributions": 17,
+    "privateContributions": 65,
+    "publicContributions": 26,
     "createdAt": "2021-02-03T16:56:11Z"
   },
   {
@@ -24944,7 +24944,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 5,
-    "publicContributions": 3,
+    "publicContributions": 14,
     "createdAt": "2021-02-16T10:49:45Z"
   },
   {
@@ -24980,7 +24980,7 @@
     "twitterUsername": "zvuv",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 0,
     "createdAt": "2021-04-10T14:32:24Z"
   },
   {
@@ -24991,7 +24991,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 703,
+    "privateContributions": 690,
     "publicContributions": 1,
     "createdAt": "2021-06-09T13:48:52Z"
   },
@@ -25039,8 +25039,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 16,
-    "publicContributions": 23,
+    "privateContributions": 64,
+    "publicContributions": 31,
     "createdAt": "2021-01-30T14:01:59Z"
   },
   {
@@ -25052,7 +25052,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 517,
-    "publicContributions": 29,
+    "publicContributions": 25,
     "createdAt": "2021-01-10T13:40:10Z"
   },
   {
@@ -25062,7 +25062,7 @@
     "location": "Tel Aviv, Israel",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-04-19T16:13:10Z"

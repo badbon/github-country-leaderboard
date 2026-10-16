@@ -24540,18 +24540,6 @@
     "createdAt": "2021-04-28T10:30:16Z"
   },
   {
-    "login": "Nanolocity",
-    "name": "Nanolocity",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/83247672?s=72&u=9c76d686bfc07ad111e2b9b57a473d5e1b0b1feb&v=4",
-    "location": "Hungary",
-    "company": "",
-    "twitterUsername": "nanolocity",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2021-04-26T20:27:38Z"
-  },
-  {
     "login": "jano9415",
     "name": "János Tóth",
     "avatarUrl": "https://avatars.githubusercontent.com/u/87268161?s=72&u=2ecd7407dc693d60152a7fe6f1c709f884fb8dc4&v=4",
@@ -24596,7 +24584,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2021-01-26T10:39:47Z"
   },
   {
@@ -24608,7 +24596,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 2,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2021-12-21T22:23:12Z"
   },
   {
@@ -24632,7 +24620,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 8,
     "createdAt": "2021-09-21T12:15:28Z"
   },
   {
@@ -24691,7 +24679,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 747,
+    "privateContributions": 1516,
     "publicContributions": 0,
     "createdAt": "2021-11-22T14:48:45Z"
   },

@@ -24895,8 +24895,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 783,
-    "publicContributions": 5,
+    "privateContributions": 979,
+    "publicContributions": 72,
     "createdAt": "2017-05-01T20:56:04Z"
   },
   {
@@ -24906,9 +24906,9 @@
     "location": "Lebanon",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 1,
     "createdAt": "2017-04-20T20:31:07Z"
   },
   {
@@ -24919,8 +24919,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 3099,
-    "publicContributions": 48,
+    "privateContributions": 3510,
+    "publicContributions": 47,
     "createdAt": "2017-07-11T12:03:12Z"
   },
   {
@@ -24932,7 +24932,7 @@
     "twitterUsername": "Aahmaddar",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 15,
     "createdAt": "2017-01-26T17:56:13Z"
   },
   {
@@ -24944,20 +24944,8 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 3,
     "createdAt": "2017-03-29T12:19:49Z"
-  },
-  {
-    "login": "1ahmadbassam",
-    "name": "Ahmad Bassam El Bizri",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/34858431?s=72&u=0374321371ef54128f1c76ae6c72fabe67ab7267&v=4",
-    "location": "Lebanon",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 436,
-    "publicContributions": 129,
-    "createdAt": "2017-12-26T11:08:33Z"
   },
   {
     "login": "ismailhnd",
@@ -24967,7 +24955,7 @@
     "company": "@Smart-Secure-Solutions ",
     "twitterUsername": "ismailhnd",
     "followers": 3,
-    "privateContributions": 55,
+    "privateContributions": 90,
     "publicContributions": 0,
     "createdAt": "2017-02-18T17:41:04Z"
   },
@@ -24991,7 +24979,7 @@
     "company": "@fundbot ",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 49,
+    "privateContributions": 88,
     "publicContributions": 1,
     "createdAt": "2017-12-27T13:41:35Z"
   },
@@ -25002,7 +24990,7 @@
     "location": "Lebanon",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-09-04T14:57:22Z"
@@ -25027,7 +25015,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 3,
+    "privateContributions": 6,
     "publicContributions": 0,
     "createdAt": "2017-03-29T10:05:06Z"
   },
@@ -25046,13 +25034,13 @@
   {
     "login": "TamerSami",
     "name": "Tamer Sami",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/29986079?s=72&u=48a490f69c87a25b655fc3c76abc67252cd6a3df&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/29986079?s=72&u=5ca5cc362075192c87a6346147ad8dd974954e30&v=4",
     "location": "Lebanon",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 0,
     "createdAt": "2017-07-07T18:10:26Z"
   },
   {
@@ -25098,9 +25086,9 @@
     "location": "Lebanon",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 263,
-    "publicContributions": 0,
+    "followers": 4,
+    "privateContributions": 262,
+    "publicContributions": 3,
     "createdAt": "2017-03-27T18:02:22Z"
   },
   {
@@ -25111,8 +25099,8 @@
     "company": "@bakaev-dev",
     "twitterUsername": "Gebakaev",
     "followers": 2,
-    "privateContributions": 194,
-    "publicContributions": 22,
+    "privateContributions": 213,
+    "publicContributions": 26,
     "createdAt": "2017-02-28T21:32:36Z"
   },
   {
@@ -25124,7 +25112,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 5,
     "createdAt": "2017-02-16T10:11:03Z"
   },
   {

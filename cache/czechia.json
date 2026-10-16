@@ -24656,7 +24656,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 21,
     "createdAt": "2022-03-09T14:26:46Z"
   },
   {
@@ -24667,8 +24667,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 453,
-    "publicContributions": 179,
+    "privateContributions": 463,
+    "publicContributions": 157,
     "createdAt": "2022-09-02T09:57:54Z"
   },
   {
@@ -24680,7 +24680,7 @@
     "twitterUsername": "lem0nSec_",
     "followers": 406,
     "privateContributions": 0,
-    "publicContributions": 194,
+    "publicContributions": 193,
     "createdAt": "2022-01-26T16:45:13Z"
   },
   {
@@ -24688,11 +24688,11 @@
     "name": "Konstantyn Huzil",
     "avatarUrl": "https://avatars.githubusercontent.com/u/113007546?s=72&u=23a457c2da2ff6dd4db1e18683af529195d1b984&v=4",
     "location": "Czechia. Prague",
-    "company": "",
+    "company": "CTU FEL",
     "twitterUsername": "",
-    "followers": 83,
-    "privateContributions": 170,
-    "publicContributions": 26,
+    "followers": 76,
+    "privateContributions": 230,
+    "publicContributions": 30,
     "createdAt": "2022-09-07T06:09:01Z"
   },
   {
@@ -24702,9 +24702,9 @@
     "location": "Czechia",
     "company": "",
     "twitterUsername": "",
-    "followers": 55,
-    "privateContributions": 4243,
-    "publicContributions": 179,
+    "followers": 54,
+    "privateContributions": 5922,
+    "publicContributions": 138,
     "createdAt": "2022-10-15T10:14:16Z"
   },
   {
@@ -24716,7 +24716,7 @@
     "twitterUsername": "MvonReichenberg",
     "followers": 26,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 22,
     "createdAt": "2022-08-06T16:24:14Z"
   },
   {
@@ -24726,9 +24726,9 @@
     "location": "Czechia",
     "company": "",
     "twitterUsername": "",
-    "followers": 19,
-    "privateContributions": 110,
-    "publicContributions": 42,
+    "followers": 25,
+    "privateContributions": 87,
+    "publicContributions": 35,
     "createdAt": "2022-03-05T19:33:32Z"
   },
   {
@@ -24738,9 +24738,9 @@
     "location": "Czechia",
     "company": "",
     "twitterUsername": "",
-    "followers": 18,
-    "privateContributions": 170,
-    "publicContributions": 309,
+    "followers": 17,
+    "privateContributions": 191,
+    "publicContributions": 356,
     "createdAt": "2022-08-06T09:45:05Z"
   },
   {
@@ -24750,9 +24750,9 @@
     "location": "Czechia",
     "company": "MoroSystems s.r.o.",
     "twitterUsername": "",
-    "followers": 16,
+    "followers": 17,
     "privateContributions": 0,
-    "publicContributions": 804,
+    "publicContributions": 823,
     "createdAt": "2022-07-06T15:44:03Z"
   },
   {
@@ -24762,9 +24762,9 @@
     "location": "Czechia",
     "company": "",
     "twitterUsername": "",
-    "followers": 16,
-    "privateContributions": 1178,
-    "publicContributions": 178,
+    "followers": 13,
+    "privateContributions": 1274,
+    "publicContributions": 163,
     "createdAt": "2022-02-01T13:02:17Z"
   },
   {
@@ -24774,9 +24774,9 @@
     "location": "Prague, Czechia",
     "company": "JetBrains",
     "twitterUsername": "",
-    "followers": 15,
+    "followers": 16,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 15,
     "createdAt": "2022-09-14T14:08:18Z"
   },
   {
@@ -24787,8 +24787,8 @@
     "company": "GX4 Software Company",
     "twitterUsername": "",
     "followers": 15,
-    "privateContributions": 49,
-    "publicContributions": 313,
+    "privateContributions": 21,
+    "publicContributions": 709,
     "createdAt": "2022-07-29T17:44:10Z"
   },
   {
@@ -24810,9 +24810,9 @@
     "location": "Olomouc/Czechia",
     "company": "",
     "twitterUsername": "",
-    "followers": 13,
-    "privateContributions": 50,
-    "publicContributions": 202,
+    "followers": 14,
+    "privateContributions": 75,
+    "publicContributions": 220,
     "createdAt": "2022-06-22T19:43:57Z"
   },
   {
@@ -24823,8 +24823,8 @@
     "company": "Faculty of Mathematics and Physics, Charles University",
     "twitterUsername": "",
     "followers": 13,
-    "privateContributions": 19,
-    "publicContributions": 35,
+    "privateContributions": 17,
+    "publicContributions": 34,
     "createdAt": "2022-04-11T14:25:13Z"
   },
   {
@@ -24840,27 +24840,15 @@
     "createdAt": "2022-07-06T11:04:52Z"
   },
   {
-    "login": "itspeasoup",
-    "name": "peasoup",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/107713251?s=72&u=89b475d0127c58feb95a3b0608a5f7f927402c2e&v=4",
-    "location": "czechia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 0,
-    "publicContributions": 38,
-    "createdAt": "2022-06-17T18:17:45Z"
-  },
-  {
     "login": "C2Coder",
     "name": "C2Coder",
     "avatarUrl": "https://avatars.githubusercontent.com/u/102322220?s=72&v=4",
     "location": "Czechia",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 2,
-    "publicContributions": 356,
+    "followers": 12,
+    "privateContributions": 0,
+    "publicContributions": 349,
     "createdAt": "2022-03-24T18:38:51Z"
   },
   {
@@ -24870,9 +24858,9 @@
     "location": "Czechia",
     "company": "O2 IT Services s.r.o.",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 8,
     "privateContributions": 1,
-    "publicContributions": 188,
+    "publicContributions": 177,
     "createdAt": "2022-02-11T18:04:13Z"
   },
   {

@@ -24510,7 +24510,7 @@
     "location": "Kazakhstan",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 9,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-10-20T12:29:27Z"
@@ -24522,9 +24522,9 @@
     "location": "Kazakhstan",
     "company": "Hands.do",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 150,
+    "publicContributions": 170,
     "createdAt": "2021-06-24T11:39:23Z"
   },
   {
@@ -24535,8 +24535,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 84,
-    "publicContributions": 2,
+    "privateContributions": 83,
+    "publicContributions": 7,
     "createdAt": "2021-11-08T17:35:13Z"
   },
   {
@@ -24546,9 +24546,9 @@
     "location": "Kazakhstan, Astana",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 6,
     "privateContributions": 379,
-    "publicContributions": 33,
+    "publicContributions": 20,
     "createdAt": "2021-07-28T18:50:23Z"
   },
   {
@@ -24570,7 +24570,7 @@
     "location": "Almaty, Kazakhstan",
     "company": "",
     "twitterUsername": "SeytkhanB",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-11-27T23:55:16Z"
@@ -24582,8 +24582,8 @@
     "location": "Almaty, Kazakhstan",
     "company": "Drivee",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 28,
+    "followers": 9,
+    "privateContributions": 18,
     "publicContributions": 0,
     "createdAt": "2021-04-10T04:22:45Z"
   },
@@ -24595,7 +24595,7 @@
     "company": "Promemteo chain system",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 119,
+    "privateContributions": 78,
     "publicContributions": 75,
     "createdAt": "2021-04-21T16:18:44Z"
   },
@@ -24607,7 +24607,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 22,
+    "privateContributions": 36,
     "publicContributions": 13,
     "createdAt": "2021-06-06T08:33:40Z"
   },
@@ -24618,9 +24618,9 @@
     "location": "Kazakhstan",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 86,
-    "publicContributions": 65,
+    "followers": 6,
+    "privateContributions": 182,
+    "publicContributions": 69,
     "createdAt": "2021-11-28T05:52:03Z"
   },
   {
@@ -24636,27 +24636,15 @@
     "createdAt": "2021-11-01T16:05:29Z"
   },
   {
-    "login": "lyarov22",
-    "name": "Ilya Fedorov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/96327924?s=72&u=3398fccdae949a164935ab0f9aef4ee48b586996&v=4",
-    "location": "Almaty, Kazakhstan",
-    "company": "Central Asian Technical and Economical College",
-    "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 2043,
-    "publicContributions": 39,
-    "createdAt": "2021-12-18T05:35:39Z"
-  },
-  {
     "login": "echoesonmars",
     "name": "Alimzhan Zhorabek",
     "avatarUrl": "https://avatars.githubusercontent.com/u/83292736?s=72&u=5861c8718acbef37c3d4452789b4d5a19c7eb790&v=4",
     "location": "Kazakhstan",
     "company": "sozlabs.com",
     "twitterUsername": "aleemzhaan",
-    "followers": 7,
-    "privateContributions": 1913,
-    "publicContributions": 434,
+    "followers": 8,
+    "privateContributions": 2613,
+    "publicContributions": 465,
     "createdAt": "2021-04-27T14:15:27Z"
   },
   {
@@ -24666,9 +24654,9 @@
     "location": "Kazakhstan",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 389,
-    "publicContributions": 52,
+    "followers": 8,
+    "privateContributions": 275,
+    "publicContributions": 103,
     "createdAt": "2021-06-18T09:44:03Z"
   },
   {
@@ -24680,7 +24668,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 36,
+    "publicContributions": 8,
     "createdAt": "2021-04-18T18:06:03Z"
   },
   {
@@ -24691,8 +24679,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 144,
-    "publicContributions": 218,
+    "privateContributions": 280,
+    "publicContributions": 396,
     "createdAt": "2021-10-22T12:56:39Z"
   },
   {
@@ -24714,9 +24702,9 @@
     "location": "Shymkent, Kazakhstan",
     "company": "TOO Talk&Call",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 0,
-    "publicContributions": 95,
+    "followers": 8,
+    "privateContributions": 2,
+    "publicContributions": 103,
     "createdAt": "2021-08-27T11:36:47Z"
   },
   {
@@ -24733,7 +24721,7 @@
   },
   {
     "login": "alishmrk",
-    "name": "alish.mrk",
+    "name": "Alisher Mereke",
     "avatarUrl": "https://avatars.githubusercontent.com/u/77959475?s=72&u=406086a5963e51b7b5c7f80085bc4263db098583&v=4",
     "location": "Almaty/Kazakhstan",
     "company": "",
