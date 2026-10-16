@@ -1,6 +1,6 @@
 # Total Contributions - Lebanon
 
-Generated: 2026-10-15T23:54:40.524Z
+Generated: 2026-10-16T01:18:31.463Z
 
 Users: 2564
 
@@ -25,4 +25,4 @@ Users: 2564
 | 17 | [shahednasser](https://github.com/shahednasser) | Shahed Nasser | @medusajs | _shahednasser | Aaramoun, Lebanon | 5981 |
 | 18 | [MohamadMoheb](https://github.com/MohamadMoheb) | Mohamad Moheb | Personal |  | Rmeileh, Lebanon | 5892 |
 | 19 | [Kaakati](https://github.com/Kaakati) | Mohamad Kaakati | @manifest @barqfleet @thaat | kaakati | Beirut, Lebanon | 5864 |
-| 20 | [alishkeir](https://github.com/alishkeir) | Ali Shokair | Freelance | alishkeir_ | Beirut, Lebanon | 5577 |
+| 20 | [elie-chaaban](https://github.com/elie-chaaban) | Elie Chaaban | ZainTECH at Zain Group |  | Beirut, Lebanon | 5619 |

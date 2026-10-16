@@ -1,6 +1,6 @@
 # Total Contributions - Malta
 
-Generated: 2026-10-15T23:58:07.429Z
+Generated: 2026-10-16T01:24:17.280Z
 
 Users: 1225
 
@@ -25,4 +25,4 @@ Users: 1225
 | 17 | [ksazid](https://github.com/ksazid) | Sazid |  |  | Malta | 6244 |
 | 18 | [mzaharenkov](https://github.com/mzaharenkov) | Mikhail Zakharenkov | HMLabs |  | Malta | 5652 |
 | 19 | [seanellul](https://github.com/seanellul) | Sean Ellul |  |  | Malta | 5628 |
-| 20 | [kevinfarrugia](https://github.com/kevinfarrugia) | Kevin Farrugia | @SpiffingIO  |  | Malta | 5552 |
+| 20 | [kevinfarrugia](https://github.com/kevinfarrugia) | Kevin Farrugia | @SpiffingIO  |  | Malta | 5544 |

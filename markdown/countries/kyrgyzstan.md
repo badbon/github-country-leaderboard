@@ -26,8 +26,8 @@ Indexed users: 2,448
 | 12 | [chalshik](https://github.com/chalshik) | Nurmukhammed Kalmamatov | Kyrgyzstan | 5,086 |
 | 13 | [emirbaktybekov-king](https://github.com/emirbaktybekov-king) | Emir Baktybekov | Bishkek, Kyrgyzstan | 5,027 |
 | 14 | [P5ina](https://github.com/P5ina) | Timur Turatbekov | Kyrgyzstan, Bishkek | 4,996 |
-| 15 | [isybai](https://github.com/isybai) | Isa | Bishkek | 4,966 |
-| 16 | [991o2o9](https://github.com/991o2o9) | Soltobekov Amin | Bishkek | 4,857 |
+| 15 | [991o2o9](https://github.com/991o2o9) | Soltobekov Amin | Bishkek | 4,857 |
+| 16 | [isybai](https://github.com/isybai) | Isa | Bishkek | 4,752 |
 | 17 | [nasipa1](https://github.com/nasipa1) | Nasipa | Kyrgyzstan, Bishkek | 4,724 |
 | 18 | [timplifier](https://github.com/timplifier) | timplifier雨 | Bishkek | 4,644 |
 | 19 | [eeemmm29](https://github.com/eeemmm29) | EM | Kyrgyzstan | 4,454 |
@@ -83,4 +83,4 @@ Indexed users: 2,448
 | 19 | [Elkhan2003](https://github.com/Elkhan2003) | Elkhan Sharshenbekov | Karakol, Kyrgyzstan | 103 |
 | 20 | [eszdman](https://github.com/eszdman) |  | Kyrgyzstan | 103 |
 
-Generated: 2026-10-15T23:53:24.666Z
+Generated: 2026-10-16T01:16:46.520Z

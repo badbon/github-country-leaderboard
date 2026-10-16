@@ -17,21 +17,21 @@ Indexed users: 9,775
 | 3 | [wrujel](https://github.com/wrujel) | Wilfredo Rujel | Lima, Peru | 14,791 |
 | 4 | [0wex](https://github.com/0wex) | Owen Atamari | Peru | 12,372 |
 | 5 | [ayranoliveira1](https://github.com/ayranoliveira1) | Ayran Oliveira | Lima Duarte - MG | 11,935 |
-| 6 | [CryptologySAC](https://github.com/CryptologySAC) | Cryptology | Lima, Peru | 10,105 |
-| 7 | [rosmelortizpimentel](https://github.com/rosmelortizpimentel) | Rosmel Ortiz | Lima | 9,910 |
-| 8 | [beyondnetPeru](https://github.com/beyondnetPeru) | Alberto Arroyo Raygada | Lima, Perú | 8,945 |
-| 9 | [marcelo-earth](https://github.com/marcelo-earth) | Marcelo | Peru | 8,912 |
-| 10 | [ubinatus](https://github.com/ubinatus) | JA Castro | Lima, Peru | 8,825 |
-| 11 | [jayvidev](https://github.com/jayvidev) | Jason Vila | Lima, Perú | 8,702 |
-| 12 | [cesars](https://github.com/cesars) | César Soplín Sánchez | Lima, Perú | 8,531 |
-| 13 | [DiegoJohnsonL](https://github.com/DiegoJohnsonL) | Diego Johnson Ludeña | Peru | 7,995 |
-| 14 | [jorgedelacruz07](https://github.com/jorgedelacruz07) | Jorge de la Cruz Padilla | Lima, Peru | 7,963 |
-| 15 | [joekotvas](https://github.com/joekotvas) | Joseph Kotvas | Lima, Peru | 7,823 |
-| 16 | [nglmercer](https://github.com/nglmercer) | memelser | Peru | 7,728 |
-| 17 | [DiegoCru1024](https://github.com/DiegoCru1024) | Diego Cruces | Lima | 7,563 |
-| 18 | [harold18m](https://github.com/harold18m) | Harold Medrano | Lima | 7,456 |
-| 19 | [KiryuuLight](https://github.com/KiryuuLight) | Luis Ortiz | Lima, Peru | 7,286 |
-| 20 | [TerryCM](https://github.com/TerryCM) | Terry Cruz Melo | Peru | 7,149 |
+| 6 | [Luiscmogrovejo](https://github.com/Luiscmogrovejo) | Luis C Mogrovejo | Lima, Peru | 11,040 |
+| 7 | [CryptologySAC](https://github.com/CryptologySAC) | Cryptology | Lima, Peru | 10,105 |
+| 8 | [rosmelortizpimentel](https://github.com/rosmelortizpimentel) | Rosmel Ortiz | Lima | 9,910 |
+| 9 | [beyondnetPeru](https://github.com/beyondnetPeru) | Alberto Arroyo Raygada | Lima, Perú | 8,945 |
+| 10 | [marcelo-earth](https://github.com/marcelo-earth) | Marcelo | Peru | 8,912 |
+| 11 | [ubinatus](https://github.com/ubinatus) | JA Castro | Lima, Peru | 8,825 |
+| 12 | [jayvidev](https://github.com/jayvidev) | Jason Vila | Lima, Perú | 8,702 |
+| 13 | [cesars](https://github.com/cesars) | César Soplín Sánchez | Lima, Perú | 8,531 |
+| 14 | [DiegoJohnsonL](https://github.com/DiegoJohnsonL) | Diego Johnson Ludeña | Peru | 7,995 |
+| 15 | [jorgedelacruz07](https://github.com/jorgedelacruz07) | Jorge de la Cruz Padilla | Lima, Peru | 7,963 |
+| 16 | [joekotvas](https://github.com/joekotvas) | Joseph Kotvas | Lima, Peru | 7,823 |
+| 17 | [nglmercer](https://github.com/nglmercer) | memelser | Peru | 7,728 |
+| 18 | [DiegoCru1024](https://github.com/DiegoCru1024) | Diego Cruces | Lima | 7,563 |
+| 19 | [harold18m](https://github.com/harold18m) | Harold Medrano | Lima | 7,456 |
+| 20 | [KiryuuLight](https://github.com/KiryuuLight) | Luis Ortiz | Lima, Peru | 7,286 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 9,775
 | 19 | [carlosal1015](https://github.com/carlosal1015) | Oromion | Lima, Peru | 438 |
 | 20 | [HackUnderway](https://github.com/HackUnderway) | Hack Underway | Lima - Perú | 413 |
 
-Generated: 2026-10-16T00:12:06.587Z
+Generated: 2026-10-16T01:38:37.885Z

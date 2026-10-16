@@ -31,7 +31,7 @@ Indexed users: 2,564
 | 17 | [shahednasser](https://github.com/shahednasser) | Shahed Nasser | Aaramoun, Lebanon | 5,981 |
 | 18 | [MohamadMoheb](https://github.com/MohamadMoheb) | Mohamad Moheb | Rmeileh, Lebanon | 5,892 |
 | 19 | [Kaakati](https://github.com/Kaakati) | Mohamad Kaakati | Beirut, Lebanon | 5,864 |
-| 20 | [alishkeir](https://github.com/alishkeir) | Ali Shokair | Beirut, Lebanon | 5,577 |
+| 20 | [elie-chaaban](https://github.com/elie-chaaban) | Elie Chaaban | Beirut, Lebanon | 5,619 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 2,564
 | 19 | [hadiidbouk](https://github.com/hadiidbouk) | Hadi Dbouk | Lebanon | 100 |
 | 20 | [rhamzeh](https://github.com/rhamzeh) | Raghd Hamzeh | Beirut, Lebanon | 95 |
 
-Generated: 2026-10-15T23:54:40.524Z
+Generated: 2026-10-16T01:18:31.463Z

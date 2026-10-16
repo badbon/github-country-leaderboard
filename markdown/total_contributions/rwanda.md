@@ -1,6 +1,6 @@
 # Total Contributions - Rwanda
 
-Generated: 2026-10-16T00:14:30.101Z
+Generated: 2026-10-16T01:41:32.253Z
 
 Users: 3519
 
@@ -9,9 +9,9 @@ Users: 3519
 | 1 | [iamyoramu](https://github.com/iamyoramu) | IRUTABYOSE Yoramu | @yoratune | iamyoramu | Kigali, Rwanda | 3312996 |
 | 2 | [kajugadaniels](https://github.com/kajugadaniels) | KAJUGA Daniels | NEXCODE Africa |  | Kigali Rwanda | 64318 |
 | 3 | [AlineHub-tech](https://github.com/AlineHub-tech) | Umugwaneza Aline | ByteFlow Ltd |  | Kigali, Rwanda | 29162 |
-| 4 | [Chaste-Djaziri](https://github.com/Chaste-Djaziri) | Chaste Djaziri | Micorp |  | Rwanda | 18364 |
-| 5 | [Timtech4u](https://github.com/Timtech4u) | Timothy Olaleke |  |  | Kigali, Rwanda | 17863 |
-| 6 | [jazzybruno](https://github.com/jazzybruno) | Jazzy Bruno | @Rwanda_Coding_Academy |  | Kigali , Rwanda | 13969 |
+| 4 | [jazzybruno](https://github.com/jazzybruno) | Jazzy Bruno | @Rwanda_Coding_Academy |  | Kigali , Rwanda | 21268 |
+| 5 | [Chaste-Djaziri](https://github.com/Chaste-Djaziri) | Chaste Djaziri | Micorp |  | Rwanda | 18364 |
+| 6 | [Timtech4u](https://github.com/Timtech4u) | Timothy Olaleke |  |  | Kigali, Rwanda | 17863 |
 | 7 | [Krasivaya](https://github.com/Krasivaya) | Carine SEMWAGA |  |  | Rwanda | 11697 |
 | 8 | [iAmNsengi](https://github.com/iAmNsengi) | Eliezer Nsengi | KB21 |  | Kigali, Rwanda | 9545 |
 | 9 | [Icyubahiro-Jay-P](https://github.com/Icyubahiro-Jay-P) | JAY P | Diolichat |  | Kigali, Rwanda | 9232 |

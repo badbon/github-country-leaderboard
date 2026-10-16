@@ -31,7 +31,7 @@ Indexed users: 1,225
 | 17 | [ksazid](https://github.com/ksazid) | Sazid | Malta | 6,244 |
 | 18 | [mzaharenkov](https://github.com/mzaharenkov) | Mikhail Zakharenkov | Malta | 5,652 |
 | 19 | [seanellul](https://github.com/seanellul) | Sean Ellul | Malta | 5,628 |
-| 20 | [kevinfarrugia](https://github.com/kevinfarrugia) | Kevin Farrugia | Malta | 5,552 |
+| 20 | [kevinfarrugia](https://github.com/kevinfarrugia) | Kevin Farrugia | Malta | 5,544 |
 
 ## Public Contributions
 
@@ -42,9 +42,9 @@ Indexed users: 1,225
 | 3 | [ripienaar](https://github.com/ripienaar) | R.I.Pienaar | Malta | 3,835 |
 | 4 | [OmegaGbenga](https://github.com/OmegaGbenga) | Olugbenga Olatunde Dareowolabi | Malta | 3,552 |
 | 5 | [rinrab](https://github.com/rinrab) | Timofei Zhakov | Malta | 3,350 |
-| 6 | [camilamacedo86](https://github.com/camilamacedo86) | Camila Macedo | Malta | 3,150 |
-| 7 | [KevinBusuttil](https://github.com/KevinBusuttil) | Kevin Busuttil | Malta | 3,125 |
-| 8 | [silvandiepen](https://github.com/silvandiepen) | Sil van Diepen | Malta | 3,076 |
+| 6 | [KevinBusuttil](https://github.com/KevinBusuttil) | Kevin Busuttil | Malta | 3,125 |
+| 7 | [silvandiepen](https://github.com/silvandiepen) | Sil van Diepen | Malta | 3,076 |
+| 8 | [camilamacedo86](https://github.com/camilamacedo86) | Camila Macedo | Malta | 2,984 |
 | 9 | [zcourts](https://github.com/zcourts) | Courtney Robinson | London (UK), Łodz (Poland), Valletta (Malta) | 2,632 |
 | 10 | [arogan178](https://github.com/arogan178) | Andrea Bugeja | Malta | 2,562 |
 | 11 | [ntulenev](https://github.com/ntulenev) | Nikita Tulenev | Malta | 2,499 |
@@ -54,9 +54,9 @@ Indexed users: 1,225
 | 15 | [SerZhyAle](https://github.com/SerZhyAle) | Serhii Zhyhunenko | Malta | 1,991 |
 | 16 | [mbj](https://github.com/mbj) | Markus Schirp | Malta | 1,977 |
 | 17 | [terranc](https://github.com/terranc) | Terran | Malta | 1,866 |
-| 18 | [dfroberg](https://github.com/dfroberg) | Danny Froberg | Gozo, Malta | 1,443 |
-| 19 | [owenfar](https://github.com/owenfar) |  | Malta | 1,305 |
-| 20 | [GefMar](https://github.com/GefMar) | Sergei Romanchuk | Malta | 1,287 |
+| 18 | [max-lt](https://github.com/max-lt) |  | Malta | 1,700 |
+| 19 | [dfroberg](https://github.com/dfroberg) | Danny Froberg | Gozo, Malta | 1,443 |
+| 20 | [owenfar](https://github.com/owenfar) |  | Malta | 1,305 |
 
 ## Followers
 
@@ -67,7 +67,7 @@ Indexed users: 1,225
 | 3 | [nothingismagick](https://github.com/nothingismagick) |  | Malta | 604 |
 | 4 | [ethernity-cloud](https://github.com/ethernity-cloud) | Ethernity CLOUD | St. Julians, Malta | 524 |
 | 5 | [xiaocong](https://github.com/xiaocong) | xiaocong | Malta | 475 |
-| 6 | [camilamacedo86](https://github.com/camilamacedo86) | Camila Macedo | Malta | 440 |
+| 6 | [camilamacedo86](https://github.com/camilamacedo86) | Camila Macedo | Malta | 441 |
 | 7 | [mandyfarrugia](https://github.com/mandyfarrugia) | Mandy Farrugia | Malta | 370 |
 | 8 | [mbj](https://github.com/mbj) | Markus Schirp | Malta | 293 |
 | 9 | [zeelog](https://github.com/zeelog) |  | Malta | 259 |
@@ -83,4 +83,4 @@ Indexed users: 1,225
 | 19 | [mattcg](https://github.com/mattcg) | Matthew Caruana Galizia | Malta | 126 |
 | 20 | [CM2Walki](https://github.com/CM2Walki) | Walki | Malta | 118 |
 
-Generated: 2026-10-15T23:58:07.429Z
+Generated: 2026-10-16T01:24:17.280Z

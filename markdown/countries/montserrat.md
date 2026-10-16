@@ -72,8 +72,8 @@ Indexed users: 291
 | 8 | [profversaggi](https://github.com/profversaggi) | Matthew R. Versaggi | Plymouth, Minnesota | 37 |
 | 9 | [spottedmahn](https://github.com/spottedmahn) | Michael DePouw | Plymouth Meeting, PA | 25 |
 | 10 | [EricJamesOsowski](https://github.com/EricJamesOsowski) | Eric Osowski | Plymouth, Minnesota | 24 |
-| 11 | [jmcnevin](https://github.com/jmcnevin) | Jeremy McNevin | Plymouth, MN | 24 |
-| 12 | [donghyunkang-digipen](https://github.com/donghyunkang-digipen) | donghyun.kang | Plymouth, MI | 23 |
+| 11 | [donghyunkang-digipen](https://github.com/donghyunkang-digipen) | donghyun.kang | Plymouth, MI | 23 |
+| 12 | [jmcnevin](https://github.com/jmcnevin) | Jeremy McNevin | Plymouth, MN | 23 |
 | 13 | [mbruty](https://github.com/mbruty) | Michael Bruty | Plymouth | 23 |
 | 14 | [cmcneile](https://github.com/cmcneile) | Craig McNeile | Plymouth | 22 |
 | 15 | [emindeniz](https://github.com/emindeniz) | Emin Ozkan | Plymouth Meeting, PA | 22 |
@@ -83,4 +83,4 @@ Indexed users: 291
 | 19 | [BeresIvan](https://github.com/BeresIvan) |  | Plymouth, MN | 20 |
 | 20 | [binarytide](https://github.com/binarytide) | John McAndrews | Plymouth, Ma | 20 |
 
-Generated: 2026-10-16T00:01:46.534Z
+Generated: 2026-10-16T01:28:07.905Z

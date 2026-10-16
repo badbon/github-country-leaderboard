@@ -15,12 +15,12 @@ Indexed users: 75
 | 1 | [pyleglise](https://github.com/pyleglise) | Pierre-Yves Léglise | Schoelcher, Martinique | 5,327 |
 | 2 | [glefait](https://github.com/glefait) | Guillem Lefait | Fort-de-France, Martinique | 5,212 |
 | 3 | [diasjorge](https://github.com/diasjorge) | Jorge Dias | Martinique | 5,055 |
-| 4 | [GuillaumeBld](https://github.com/GuillaumeBld) | Guillaume Bolivard | Chicago / Fort-de-France | 4,471 |
+| 4 | [GuillaumeBld](https://github.com/GuillaumeBld) | Guillaume Bolivard | Chicago / Fort-de-France | 4,482 |
 | 5 | [bolom](https://github.com/bolom) | Bolo Michelin | Martinique | 3,219 |
 | 6 | [docVoid](https://github.com/docVoid) | void216 | Martinique | 1,556 |
 | 7 | [p4cm4n972](https://github.com/p4cm4n972) | Manuel ADELE | Martinique | 1,105 |
-| 8 | [esrid](https://github.com/esrid) | ADS | Martinique | 942 |
-| 9 | [R3tr8](https://github.com/R3tr8) | Franck-Emmanuel | Martinique | 941 |
+| 8 | [R3tr8](https://github.com/R3tr8) | Franck-Emmanuel | Martinique | 941 |
+| 9 | [esrid](https://github.com/esrid) | ADS | Martinique | 940 |
 | 10 | [vevedh](https://github.com/vevedh) | Hervé de CHAVIGNY | Martinique | 808 |
 | 11 | [LePtitBiscuit](https://github.com/LePtitBiscuit) | LePtitBiscuit | Martinique | 800 |
 | 12 | [blazux](https://github.com/blazux) | Vincent B. | Martinique | 469 |
@@ -43,7 +43,7 @@ Indexed users: 75
 | 4 | [p4cm4n972](https://github.com/p4cm4n972) | Manuel ADELE | Martinique | 716 |
 | 5 | [GuillaumeBld](https://github.com/GuillaumeBld) | Guillaume Bolivard | Chicago / Fort-de-France | 500 |
 | 6 | [blazux](https://github.com/blazux) | Vincent B. | Martinique | 420 |
-| 7 | [esrid](https://github.com/esrid) | ADS | Martinique | 401 |
+| 7 | [esrid](https://github.com/esrid) | ADS | Martinique | 399 |
 | 8 | [steeven-js](https://github.com/steeven-js) | steeven_js | Martinique | 372 |
 | 9 | [ricard33](https://github.com/ricard33) | Cédric RICARD | Martinique | 330 |
 | 10 | [docVoid](https://github.com/docVoid) | void216 | Martinique | 317 |
@@ -83,4 +83,4 @@ Indexed users: 75
 | 19 | [LePtitBiscuit](https://github.com/LePtitBiscuit) | LePtitBiscuit | Martinique | 6 |
 | 20 | [phnxtrill](https://github.com/phnxtrill) | Quentin | Fort-de-France, Martinique | 6 |
 
-Generated: 2026-10-15T23:58:44.399Z
+Generated: 2026-10-16T01:24:51.472Z

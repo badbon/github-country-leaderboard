@@ -1,6 +1,6 @@
 # Followers - Montserrat
 
-Generated: 2026-10-16T00:01:46.534Z
+Generated: 2026-10-16T01:28:07.905Z
 
 Users: 291
 
@@ -16,8 +16,8 @@ Users: 291
 | 8 | [profversaggi](https://github.com/profversaggi) | Matthew R. Versaggi | Versaggi Information Systems |  | Plymouth, Minnesota | 37 |
 | 9 | [spottedmahn](https://github.com/spottedmahn) | Michael DePouw | CEI | spottedmahn | Plymouth Meeting, PA | 25 |
 | 10 | [EricJamesOsowski](https://github.com/EricJamesOsowski) | Eric Osowski |  |  | Plymouth, Minnesota | 24 |
-| 11 | [jmcnevin](https://github.com/jmcnevin) | Jeremy McNevin |  |  | Plymouth, MN | 24 |
-| 12 | [donghyunkang-digipen](https://github.com/donghyunkang-digipen) | donghyun.kang | Hyundai MOBIS Technical Center America via BTI Solutions |  | Plymouth, MI | 23 |
+| 11 | [donghyunkang-digipen](https://github.com/donghyunkang-digipen) | donghyun.kang | Hyundai MOBIS Technical Center America via BTI Solutions |  | Plymouth, MI | 23 |
+| 12 | [jmcnevin](https://github.com/jmcnevin) | Jeremy McNevin |  |  | Plymouth, MN | 23 |
 | 13 | [mbruty](https://github.com/mbruty) | Michael Bruty |  |  | Plymouth | 23 |
 | 14 | [cmcneile](https://github.com/cmcneile) | Craig McNeile | University of Plymouth |  | Plymouth | 22 |
 | 15 | [emindeniz](https://github.com/emindeniz) | Emin Ozkan | Oracle |  | Plymouth Meeting, PA | 22 |

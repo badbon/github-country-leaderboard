@@ -1,6 +1,6 @@
 # Public Contributions - Mongolia
 
-Generated: 2026-10-16T00:00:59.412Z
+Generated: 2026-10-16T01:26:11.229Z
 
 Users: 805
 
@@ -23,6 +23,6 @@ Users: 805
 | 15 | [Ar-temis](https://github.com/Ar-temis) | Temuulen Enkhtamir | Duke Kunshan University |  | Ulaanbaatar, Mongolia | 514 |
 | 16 | [dolgoonnn](https://github.com/dolgoonnn) | Dolgoon | Numad Labs | Dolgoonnn1 | Ulaanbaatar, Mongolia | 493 |
 | 17 | [munkhsaikhan](https://github.com/munkhsaikhan) | munkhsaikhan | @erxes  |  | mongolia | 492 |
-| 18 | [zolbooo](https://github.com/zolbooo) | Oleg | @coretech-asia |  | Ulaanbaatar, Mongolia | 492 |
+| 18 | [zolbooo](https://github.com/zolbooo) | Oleg | @coretech-asia |  | Ulaanbaatar, Mongolia | 489 |
 | 19 | [Namuun0521](https://github.com/Namuun0521) | Namuun |  |  | Ulaanbaatar, Mongolia | 484 |
 | 20 | [munkhorgil](https://github.com/munkhorgil) | Orgil | Engineer @roarkhq |  | Mongolia | 476 |

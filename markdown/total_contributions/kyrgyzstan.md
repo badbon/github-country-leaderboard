@@ -1,6 +1,6 @@
 # Total Contributions - Kyrgyzstan
 
-Generated: 2026-10-15T23:53:24.666Z
+Generated: 2026-10-16T01:16:46.520Z
 
 Users: 2448
 
@@ -20,8 +20,8 @@ Users: 2448
 | 12 | [chalshik](https://github.com/chalshik) | Nurmukhammed Kalmamatov | @aitsolutions |  | Kyrgyzstan | 5086 |
 | 13 | [emirbaktybekov-king](https://github.com/emirbaktybekov-king) | Emir Baktybekov |  |  | Bishkek, Kyrgyzstan | 5027 |
 | 14 | [P5ina](https://github.com/P5ina) | Timur Turatbekov |  |  | Kyrgyzstan, Bishkek | 4996 |
-| 15 | [isybai](https://github.com/isybai) | Isa | Stim.io |  | Bishkek | 4966 |
-| 16 | [991o2o9](https://github.com/991o2o9) | Soltobekov Amin |  |  | Bishkek | 4857 |
+| 15 | [991o2o9](https://github.com/991o2o9) | Soltobekov Amin |  |  | Bishkek | 4857 |
+| 16 | [isybai](https://github.com/isybai) | Isa | Stim.io |  | Bishkek | 4752 |
 | 17 | [nasipa1](https://github.com/nasipa1) | Nasipa | LLC Alpha-Net |  | Kyrgyzstan, Bishkek | 4724 |
 | 18 | [timplifier](https://github.com/timplifier) | timplifier雨 | @Timbermir |  | Bishkek | 4644 |
 | 19 | [eeemmm29](https://github.com/eeemmm29) | EM | AIT Solutions |  | Kyrgyzstan | 4454 |

@@ -1,6 +1,6 @@
 # Public Contributions - Malta
 
-Generated: 2026-10-15T23:58:07.429Z
+Generated: 2026-10-16T01:24:17.280Z
 
 Users: 1225
 
@@ -11,9 +11,9 @@ Users: 1225
 | 3 | [ripienaar](https://github.com/ripienaar) | R.I.Pienaar |  | ripienaar | Malta | 3835 |
 | 4 | [OmegaGbenga](https://github.com/OmegaGbenga) | Olugbenga Olatunde Dareowolabi |  |  | Malta | 3552 |
 | 5 | [rinrab](https://github.com/rinrab) | Timofei Zhakov |  |  | Malta | 3350 |
-| 6 | [camilamacedo86](https://github.com/camilamacedo86) | Camila Macedo |  |  | Malta | 3150 |
-| 7 | [KevinBusuttil](https://github.com/KevinBusuttil) | Kevin Busuttil | Busuttil Technologies Limited |  | Malta | 3125 |
-| 8 | [silvandiepen](https://github.com/silvandiepen) | Sil van Diepen | Sil van Diepen | silvandiepen | Malta | 3076 |
+| 6 | [KevinBusuttil](https://github.com/KevinBusuttil) | Kevin Busuttil | Busuttil Technologies Limited |  | Malta | 3125 |
+| 7 | [silvandiepen](https://github.com/silvandiepen) | Sil van Diepen | Sil van Diepen | silvandiepen | Malta | 3076 |
+| 8 | [camilamacedo86](https://github.com/camilamacedo86) | Camila Macedo |  |  | Malta | 2984 |
 | 9 | [zcourts](https://github.com/zcourts) | Courtney Robinson | Hypi | zcourts | London (UK), Łodz (Poland), Valletta (Malta) | 2632 |
 | 10 | [arogan178](https://github.com/arogan178) | Andrea Bugeja | GiG |  | Malta | 2562 |
 | 11 | [ntulenev](https://github.com/ntulenev) | Nikita Tulenev |  |  | Malta | 2499 |
@@ -23,6 +23,6 @@ Users: 1225
 | 15 | [SerZhyAle](https://github.com/SerZhyAle) | Serhii Zhyhunenko |  |  | Malta | 1991 |
 | 16 | [mbj](https://github.com/mbj) | Markus Schirp | Schirp DSO LTD | mbjschirp | Malta | 1977 |
 | 17 | [terranc](https://github.com/terranc) | Terran |  | terranc | Malta | 1866 |
-| 18 | [dfroberg](https://github.com/dfroberg) | Danny Froberg | @INFURA | dfroberg | Gozo, Malta | 1443 |
-| 19 | [owenfar](https://github.com/owenfar) |  | @owenfar |  | Malta | 1305 |
-| 20 | [GefMar](https://github.com/GefMar) | Sergei Romanchuk |  |  | Malta | 1287 |
+| 18 | [max-lt](https://github.com/max-lt) |  | @OpenWorkers |  | Malta | 1700 |
+| 19 | [dfroberg](https://github.com/dfroberg) | Danny Froberg | @INFURA | dfroberg | Gozo, Malta | 1443 |
+| 20 | [owenfar](https://github.com/owenfar) |  | @owenfar |  | Malta | 1305 |

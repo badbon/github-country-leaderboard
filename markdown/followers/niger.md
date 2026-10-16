@@ -1,6 +1,6 @@
 # Followers - Niger
 
-Generated: 2026-10-16T00:06:17.942Z
+Generated: 2026-10-16T01:33:13.044Z
 
 Users: 176
 
@@ -21,8 +21,8 @@ Users: 176
 | 13 | [Richouf95](https://github.com/Richouf95) | Abdoulaye Wouri Chouf | Sahel Coders | wourichouf | Niamey | 23 |
 | 14 | [sn115426](https://github.com/sn115426) | sn01 | Atlas |  | niger | 23 |
 | 15 | [haouaenikoye](https://github.com/haouaenikoye) | QueenTech | QueenTech |  | Niamey-Niger | 21 |
-| 16 | [Abdoulaye-Ly](https://github.com/Abdoulaye-Ly) | Abdoulaye Ousmane Ly |  | doudou__ly | Niamey, Niger | 19 |
-| 17 | [yayeousmane](https://github.com/yayeousmane) | Ousmane Soumaila Yaye  | Globalelectronic  |  | Niger Niamey  | 19 |
+| 16 | [yayeousmane](https://github.com/yayeousmane) | Ousmane Soumaila Yaye  | Globalelectronic  |  | Niger Niamey  | 19 |
+| 17 | [Abdoulaye-Ly](https://github.com/Abdoulaye-Ly) | Abdoulaye Ousmane Ly |  | doudou__ly | Niamey, Niger | 18 |
 | 18 | [oxy227](https://github.com/oxy227) | Ayouba Issoufou |  |  | Niamey/Niger | 18 |
 | 19 | [ibkhall](https://github.com/ibkhall) | Ibrahim Boubacar | Webb Fontaine |  | Niamey | 17 |
 | 20 | [ibrahimcheik](https://github.com/ibrahimcheik) | Amadou Moussa Ibrahim | Infinity Tech | ibrahimcheik | Niamey | 17 |
