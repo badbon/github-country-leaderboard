@@ -25735,8 +25735,8 @@
     "company": "ETH Zurich",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 40,
-    "publicContributions": 16,
+    "privateContributions": 44,
+    "publicContributions": 13,
     "createdAt": "2022-06-22T13:20:16Z"
   },
   {
@@ -25747,8 +25747,8 @@
     "company": "ETH Zurich",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 14,
-    "publicContributions": 1,
+    "privateContributions": 61,
+    "publicContributions": 29,
     "createdAt": "2022-02-10T15:40:28Z"
   },
   {
@@ -25760,7 +25760,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 27,
     "createdAt": "2022-03-31T14:51:19Z"
   },
   {
@@ -25772,7 +25772,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 41,
+    "publicContributions": 52,
     "createdAt": "2022-01-13T08:48:38Z"
   },
   {
@@ -25795,20 +25795,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 26,
+    "privateContributions": 3,
+    "publicContributions": 18,
     "createdAt": "2022-05-24T17:31:59Z"
   },
   {
     "login": "johanncc01",
     "name": "Johann",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/101647118?s=72&u=5900a77486aaa2a68b57a67b2b9a1b57f1fcf29a&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/101647118?s=72&u=46790c36854312cfbc8a805615a3b5c9ec1a3089&v=4",
     "location": "Lausanne, Switzerland",
     "company": "Ecole Polytechnique Fédérale de Lausanne",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 249,
-    "publicContributions": 14,
+    "privateContributions": 218,
+    "publicContributions": 13,
     "createdAt": "2022-03-15T13:29:49Z"
   },
   {
@@ -25842,9 +25842,9 @@
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 23,
     "createdAt": "2022-04-14T17:11:31Z"
   },
   {
@@ -25854,9 +25854,9 @@
     "location": "Switzerland",
     "company": "Intellon",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 3093,
-    "publicContributions": 65,
+    "followers": 5,
+    "privateContributions": 5104,
+    "publicContributions": 68,
     "createdAt": "2022-02-21T15:49:00Z"
   },
   {
@@ -25866,9 +25866,9 @@
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 166,
-    "publicContributions": 38,
+    "followers": 9,
+    "privateContributions": 350,
+    "publicContributions": 33,
     "createdAt": "2022-06-22T07:53:22Z"
   },
   {
@@ -25878,8 +25878,8 @@
     "location": "Lausanne, Switzerland",
     "company": "Exoscale",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 809,
+    "followers": 5,
+    "privateContributions": 887,
     "publicContributions": 2,
     "createdAt": "2022-06-28T12:00:12Z"
   },
@@ -25892,7 +25892,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 172,
+    "publicContributions": 42,
     "createdAt": "2022-06-24T10:24:55Z"
   },
   {
@@ -25916,7 +25916,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 18,
     "createdAt": "2022-02-24T14:08:28Z"
   },
   {
@@ -25926,9 +25926,9 @@
     "location": "Zürich, Switzerland",
     "company": "ETH Zürich",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 9,
+    "followers": 6,
+    "privateContributions": 1,
+    "publicContributions": 13,
     "createdAt": "2022-03-03T15:25:39Z"
   },
   {
@@ -25940,7 +25940,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 5,
     "createdAt": "2022-06-22T06:50:15Z"
   },
   {
@@ -25950,22 +25950,10 @@
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 829,
-    "publicContributions": 62,
+    "followers": 7,
+    "privateContributions": 767,
+    "publicContributions": 48,
     "createdAt": "2022-01-11T09:17:20Z"
-  },
-  {
-    "login": "Grey31415",
-    "name": "Greyson",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/98477846?s=72&u=0c78422910e9e71071ea98ade444c5916ecd54f0&v=4",
-    "location": "London, UK | Zurich, Switzerland",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 12,
-    "createdAt": "2022-01-26T16:15:42Z"
   },
   {
     "login": "nickmoos",

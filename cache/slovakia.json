@@ -25807,7 +25807,7 @@
     "company": "iTranSys",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 3051,
+    "privateContributions": 3166,
     "publicContributions": 0,
     "createdAt": "2018-10-23T14:22:00Z"
   },
@@ -25819,7 +25819,7 @@
     "company": "FIIT STU",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 523,
+    "privateContributions": 508,
     "publicContributions": 25,
     "createdAt": "2018-09-22T19:43:15Z"
   },
@@ -25831,7 +25831,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 41,
+    "privateContributions": 48,
     "publicContributions": 0,
     "createdAt": "2018-06-27T13:57:53Z"
   },
@@ -25842,9 +25842,9 @@
     "location": "Bratislava",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 146,
+    "publicContributions": 90,
     "createdAt": "2018-08-31T12:26:12Z"
   },
   {
@@ -25855,7 +25855,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 321,
+    "privateContributions": 318,
     "publicContributions": 0,
     "createdAt": "2018-11-16T13:15:23Z"
   },
@@ -25892,7 +25892,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 9,
     "createdAt": "2018-05-23T15:58:08Z"
   },
   {
@@ -25938,9 +25938,9 @@
     "location": "Bratislava",
     "company": "SAP",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 1198,
-    "publicContributions": 21,
+    "followers": 5,
+    "privateContributions": 1466,
+    "publicContributions": 14,
     "createdAt": "2018-06-15T11:25:24Z"
   },
   {
@@ -25963,7 +25963,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 29,
+    "privateContributions": 33,
     "publicContributions": 132,
     "createdAt": "2018-08-21T12:18:57Z"
   },
@@ -26004,18 +26004,6 @@
     "createdAt": "2018-08-24T06:04:56Z"
   },
   {
-    "login": "IgorStupavsky",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/44468467?s=72&v=4",
-    "location": "Bratislava",
-    "company": "FIIT STU",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 15,
-    "createdAt": "2018-10-25T12:13:25Z"
-  },
-  {
     "login": "konvica",
     "name": "Matúš Košík",
     "avatarUrl": "https://avatars.githubusercontent.com/u/35737801?s=72&u=232e66cf8b04e176145bb1c37ca5836457d85cba&v=4",
@@ -26035,8 +26023,8 @@
     "company": "Swiss Re",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 89,
-    "publicContributions": 19,
+    "privateContributions": 19,
+    "publicContributions": 20,
     "createdAt": "2018-12-28T12:14:42Z"
   },
   {

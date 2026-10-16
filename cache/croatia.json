@@ -26395,8 +26395,8 @@
     "company": "Insago",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 434,
-    "publicContributions": 145,
+    "privateContributions": 527,
+    "publicContributions": 177,
     "createdAt": "2018-04-12T09:17:05Z"
   },
   {
@@ -26431,20 +26431,20 @@
     "company": "https://www.4app.hr/en/home-2/",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 597,
-    "publicContributions": 0,
+    "privateContributions": 1173,
+    "publicContributions": 7,
     "createdAt": "2018-11-11T11:58:39Z"
   },
   {
     "login": "winterBeka97",
     "name": "Rebeka Filipović",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/35819211?s=72&u=97541ef629778020b6bcdd35d2c1dc08f305715f&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/35819211?s=72&u=21d1b370825ab099ccbb832831d88033eb24ceac&v=4",
     "location": "Rijeka, Croatia",
     "company": "",
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 29,
     "createdAt": "2018-01-25T21:41:55Z"
   },
   {
@@ -26479,8 +26479,8 @@
     "company": "Codemagic CI/CD",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 219,
-    "publicContributions": 145,
+    "privateContributions": 247,
+    "publicContributions": 127,
     "createdAt": "2018-05-02T15:22:39Z"
   },
   {
@@ -26527,20 +26527,20 @@
     "company": "University of Zagreb",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 17,
+    "privateContributions": 20,
     "publicContributions": 0,
     "createdAt": "2018-07-22T17:23:49Z"
   },
   {
     "login": "official-rimacc",
-    "name": "",
+    "name": "Ivan Rimac",
     "avatarUrl": "https://avatars.githubusercontent.com/u/44846222?s=72&u=2fb1598139356bb5bb8c3a6a5404d6e337cdf22e&v=4",
     "location": "Osijek, Croatia",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 345,
-    "publicContributions": 8,
+    "followers": 13,
+    "privateContributions": 450,
+    "publicContributions": 10,
     "createdAt": "2018-11-07T17:33:41Z"
   },
   {
@@ -26566,18 +26566,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-07-13T07:16:12Z"
-  },
-  {
-    "login": "ShiNoNeko47",
-    "name": "Nikola Brezovec",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/42219735?s=72&u=e42afa6b5d305323b7040bc36aeae36c868c828f&v=4",
-    "location": "Croatia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 144,
-    "publicContributions": 1,
-    "createdAt": "2018-08-08T19:20:14Z"
   },
   {
     "login": "IvanGuettler",
@@ -26611,7 +26599,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 17,
+    "privateContributions": 15,
     "publicContributions": 19,
     "createdAt": "2018-10-18T11:41:22Z"
   },
@@ -26623,7 +26611,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 4114,
+    "privateContributions": 3976,
     "publicContributions": 2,
     "createdAt": "2018-07-06T16:44:14Z"
   },

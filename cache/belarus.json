@@ -26347,8 +26347,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 206,
-    "publicContributions": 20,
+    "privateContributions": 277,
+    "publicContributions": 19,
     "createdAt": "2022-03-28T12:05:07Z"
   },
   {
@@ -26414,7 +26414,7 @@
   {
     "login": "Kebikov",
     "name": "Evgenii Kebikov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/100375358?s=72&u=1229a92e3d71ee3975852dd6b039024fa9c908f8&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/100375358?s=72&u=11057d92812f78ed99434125fe830d6223060332&v=4",
     "location": "Minsk",
     "company": "T-Bank",
     "twitterUsername": "",
@@ -26432,7 +26432,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 0,
     "createdAt": "2022-05-26T17:40:31Z"
   },
   {
@@ -26460,25 +26460,13 @@
     "createdAt": "2019-07-15T13:42:08Z"
   },
   {
-    "login": "OlegEgoism",
-    "name": "OlegEgoism",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/81327146?s=72&u=33d1e68001877af0a2edf334925025af327b4501&v=4",
-    "location": "Belarus, Minsk",
-    "company": " ITec, GHU, CBT",
-    "twitterUsername": "",
-    "followers": 175,
-    "privateContributions": 401,
-    "publicContributions": 1543,
-    "createdAt": "2021-03-24T19:08:51Z"
-  },
-  {
     "login": "KubanovValentin",
     "name": "Valentin",
     "avatarUrl": "https://avatars.githubusercontent.com/u/79686793?s=72&u=3149a2eed57696e1bc27cb7d62213da32bb5b4a7&v=4",
     "location": "Belarus",
     "company": "",
     "twitterUsername": "",
-    "followers": 138,
+    "followers": 127,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-02-26T06:51:27Z"
@@ -26490,7 +26478,7 @@
     "location": "Belarus ",
     "company": "Student in java",
     "twitterUsername": "Alexlantush",
-    "followers": 73,
+    "followers": 72,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-04-07T08:10:13Z"
@@ -26503,8 +26491,8 @@
     "company": "Sherpa RPA",
     "twitterUsername": "",
     "followers": 72,
-    "privateContributions": 8940,
-    "publicContributions": 508,
+    "privateContributions": 11227,
+    "publicContributions": 491,
     "createdAt": "2021-05-21T16:50:21Z"
   },
   {
@@ -26514,7 +26502,7 @@
     "location": "Belarus, Grodno",
     "company": "",
     "twitterUsername": "",
-    "followers": 52,
+    "followers": 50,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-07-25T23:11:17Z"
@@ -26526,7 +26514,7 @@
     "location": "Belarus",
     "company": "BrestFusion",
     "twitterUsername": "",
-    "followers": 48,
+    "followers": 38,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-06-06T21:36:37Z"
@@ -26545,14 +26533,14 @@
   },
   {
     "login": "andkorzh",
-    "name": "andkorzh",
+    "name": "Andrei Korzh",
     "avatarUrl": "https://avatars.githubusercontent.com/u/93550076?s=72&u=5270b05ac480d5f85adbb63d9b710cbeee8337a2&v=4",
     "location": "Belarus",
     "company": "",
     "twitterUsername": "",
-    "followers": 38,
+    "followers": 43,
     "privateContributions": 0,
-    "publicContributions": 472,
+    "publicContributions": 460,
     "createdAt": "2021-11-01T19:38:58Z"
   },
   {
@@ -26562,7 +26550,7 @@
     "location": "Belarus",
     "company": "",
     "twitterUsername": "",
-    "followers": 38,
+    "followers": 37,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-10-17T12:16:30Z"
@@ -26576,7 +26564,7 @@
     "twitterUsername": "",
     "followers": 38,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 2,
     "createdAt": "2021-09-01T09:09:30Z"
   },
   {

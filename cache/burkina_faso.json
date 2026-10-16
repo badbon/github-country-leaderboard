@@ -2640,18 +2640,6 @@
     "createdAt": "2022-05-16T07:38:34Z"
   },
   {
-    "login": "RAPHNOSATH",
-    "name": "SAWADOGO Thomas",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/121047880?s=72&u=bb1454f1c442269d8eef8272c9548b8c2a2821b2&v=4",
-    "location": "ouagadougou (BURKINA FASO)",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2022-12-19T16:24:25Z"
-  },
-  {
     "login": "MIDANDEV",
     "name": "Midan Hamidou SAWADOGO",
     "avatarUrl": "https://avatars.githubusercontent.com/u/102224412?s=72&v=4",
@@ -2768,7 +2756,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 129,
+    "publicContributions": 127,
     "createdAt": "2022-03-01T00:06:13Z"
   },
   {
@@ -2828,7 +2816,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 180,
+    "publicContributions": 173,
     "createdAt": "2022-08-05T20:44:05Z"
   },
   {
@@ -2851,7 +2839,7 @@
     "company": "CAMPUSFASO",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 75,
+    "privateContributions": 73,
     "publicContributions": 0,
     "createdAt": "2022-06-13T11:14:19Z"
   },

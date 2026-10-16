@@ -1344512,7 +1344512,7 @@
     "twitterUsername": "",
     "followers": 110,
     "privateContributions": 485,
-    "publicContributions": 8078,
+    "publicContributions": 8083,
     "createdAt": "2013-01-11T19:27:18Z"
   },
   {
@@ -1354891,7 +1354891,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 34,
-    "privateContributions": 22538,
+    "privateContributions": 22545,
     "publicContributions": 3,
     "createdAt": "2013-02-27T13:51:34Z"
   },
@@ -1354964,7 +1354964,7 @@
     "twitterUsername": "",
     "followers": 33,
     "privateContributions": 0,
-    "publicContributions": 904,
+    "publicContributions": 913,
     "createdAt": "2013-02-26T02:35:43Z"
   },
   {
@@ -1354975,7 +1354975,7 @@
     "company": "TNG Consulting Inc.",
     "twitterUsername": "",
     "followers": 33,
-    "privateContributions": 1526,
+    "privateContributions": 1528,
     "publicContributions": 258,
     "createdAt": "2013-03-08T12:22:37Z"
   },
@@ -1372016,7 +1372016,7 @@
     "twitterUsername": "pseudomuto",
     "followers": 124,
     "privateContributions": 113,
-    "publicContributions": 701,
+    "publicContributions": 702,
     "createdAt": "2013-06-20T13:04:46Z"
   },
   {
@@ -1380043,7 +1380043,7 @@
     "company": "Arcnovus",
     "twitterUsername": "",
     "followers": 327,
-    "privateContributions": 7337,
+    "privateContributions": 7432,
     "publicContributions": 136,
     "createdAt": "2013-07-06T04:27:19Z"
   },
@@ -1424827,7 +1424827,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 161,
-    "privateContributions": 412,
+    "privateContributions": 413,
     "publicContributions": 250,
     "createdAt": "2013-05-23T10:31:14Z"
   },
@@ -1424851,7 +1424851,7 @@
     "company": "Shopify",
     "twitterUsername": "",
     "followers": 127,
-    "privateContributions": 2947,
+    "privateContributions": 2948,
     "publicContributions": 1,
     "createdAt": "2013-09-18T15:25:30Z"
   },
@@ -1424887,7 +1424887,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 98,
-    "privateContributions": 740,
+    "privateContributions": 741,
     "publicContributions": 40,
     "createdAt": "2013-11-02T23:37:17Z"
   },
@@ -1424923,7 +1424923,7 @@
     "company": "SardineAI",
     "twitterUsername": "",
     "followers": 72,
-    "privateContributions": 1143,
+    "privateContributions": 1144,
     "publicContributions": 1,
     "createdAt": "2013-03-11T06:45:28Z"
   },
@@ -1424995,7 +1424995,7 @@
     "company": "@clio",
     "twitterUsername": "",
     "followers": 56,
-    "privateContributions": 383,
+    "privateContributions": 385,
     "publicContributions": 6,
     "createdAt": "2013-12-18T00:34:15Z"
   },
@@ -1425055,7 +1425055,7 @@
     "company": "",
     "twitterUsername": "likacix",
     "followers": 36,
-    "privateContributions": 1585,
+    "privateContributions": 1586,
     "publicContributions": 3,
     "createdAt": "2013-01-28T16:48:51Z"
   },
@@ -1425103,8 +1425103,8 @@
     "company": "Reliza",
     "twitterUsername": "",
     "followers": 34,
-    "privateContributions": 1014,
-    "publicContributions": 2447,
+    "privateContributions": 1016,
+    "publicContributions": 2448,
     "createdAt": "2013-03-13T19:22:35Z"
   },
   {
@@ -1425358,5 +1425358,17 @@
     "privateContributions": 910,
     "publicContributions": 456,
     "createdAt": "2022-08-28T02:35:59Z"
+  },
+  {
+    "login": "Amaodemao",
+    "name": "Haonan Bai",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/88947389?s=72&u=0a7458fab8ffa33afa2f0f2c7461a0981d65e09d&v=4",
+    "location": "Vancouver",
+    "company": "",
+    "twitterUsername": "haonan_bai",
+    "followers": 12,
+    "privateContributions": 39,
+    "publicContributions": 58,
+    "createdAt": "2021-08-14T20:03:01Z"
   }
 ]

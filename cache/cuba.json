@@ -10819,7 +10819,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 47,
-    "privateContributions": 621,
+    "privateContributions": 636,
     "publicContributions": 6,
     "createdAt": "2019-08-30T22:00:21Z"
   },
@@ -10843,7 +10843,7 @@
     "company": "@readymixcloud-corp",
     "twitterUsername": "egmaleta",
     "followers": 35,
-    "privateContributions": 290,
+    "privateContributions": 283,
     "publicContributions": 4,
     "createdAt": "2019-11-04T20:55:09Z"
   },
@@ -10879,21 +10879,9 @@
     "company": "@cuban.engineer",
     "twitterUsername": "",
     "followers": 26,
-    "privateContributions": 108,
+    "privateContributions": 170,
     "publicContributions": 0,
     "createdAt": "2019-06-04T15:29:08Z"
-  },
-  {
-    "login": "lukedalmau",
-    "name": "Luis Enrique Dalmau Coopat",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/52575039?s=72&u=75a0579598b24ca0e3ddc4919a36e7960bb9c55f&v=4",
-    "location": "Cuba",
-    "company": "",
-    "twitterUsername": "LukeDalmau",
-    "followers": 24,
-    "privateContributions": 89,
-    "publicContributions": 8,
-    "createdAt": "2019-07-05T14:31:06Z"
   },
   {
     "login": "JCH97",
@@ -10903,7 +10891,7 @@
     "company": "@Dara-Services ",
     "twitterUsername": "",
     "followers": 22,
-    "privateContributions": 295,
+    "privateContributions": 284,
     "publicContributions": 0,
     "createdAt": "2019-09-05T19:40:43Z"
   },
@@ -10952,7 +10940,7 @@
     "twitterUsername": "",
     "followers": 18,
     "privateContributions": 0,
-    "publicContributions": 214,
+    "publicContributions": 215,
     "createdAt": "2019-07-24T17:48:57Z"
   },
   {
@@ -10975,7 +10963,7 @@
     "company": "Elasbit",
     "twitterUsername": "",
     "followers": 15,
-    "privateContributions": 633,
+    "privateContributions": 609,
     "publicContributions": 0,
     "createdAt": "2019-03-08T23:49:48Z"
   },
@@ -10987,7 +10975,7 @@
     "company": "University of Havana (Matcom)",
     "twitterUsername": "dorlando1997",
     "followers": 15,
-    "privateContributions": 1837,
+    "privateContributions": 1876,
     "publicContributions": 386,
     "createdAt": "2019-11-27T02:13:36Z"
   },
@@ -10998,7 +10986,7 @@
     "location": "Cuba",
     "company": "",
     "twitterUsername": "",
-    "followers": 16,
+    "followers": 15,
     "privateContributions": 0,
     "publicContributions": 19,
     "createdAt": "2019-05-15T20:40:38Z"
@@ -11012,7 +11000,7 @@
     "twitterUsername": "",
     "followers": 14,
     "privateContributions": 0,
-    "publicContributions": 38,
+    "publicContributions": 49,
     "createdAt": "2019-02-27T19:07:10Z"
   },
   {
@@ -11023,8 +11011,8 @@
     "company": "Gorvet Estudios",
     "twitterUsername": "gorvetestudios",
     "followers": 15,
-    "privateContributions": 289,
-    "publicContributions": 255,
+    "privateContributions": 292,
+    "publicContributions": 271,
     "createdAt": "2019-05-13T16:09:10Z"
   },
   {

@@ -26216,7 +26216,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 2,
     "createdAt": "2022-01-20T18:59:45Z"
   },
   {
@@ -26224,10 +26224,10 @@
     "name": "Philip Makotschnig",
     "avatarUrl": "https://avatars.githubusercontent.com/u/101180455?s=72&v=4",
     "location": "Leoben, Styria, Austria",
-    "company": "",
+    "company": "FH Joanneum",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 15,
+    "privateContributions": 21,
     "publicContributions": 0,
     "createdAt": "2022-03-08T10:08:17Z"
   },
@@ -26252,7 +26252,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2022-09-15T16:55:43Z"
   },
   {
@@ -26287,8 +26287,8 @@
     "company": "RDA",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 107,
-    "publicContributions": 10,
+    "privateContributions": 93,
+    "publicContributions": 8,
     "createdAt": "2022-10-04T10:51:16Z"
   },
   {
@@ -26310,9 +26310,9 @@
     "location": "Austria",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 53,
+    "publicContributions": 95,
     "createdAt": "2022-05-08T14:52:55Z"
   },
   {
@@ -26324,7 +26324,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 62,
+    "publicContributions": 64,
     "createdAt": "2022-10-20T22:02:54Z"
   },
   {
@@ -26332,11 +26332,11 @@
     "name": "Erhard Einsiedler",
     "avatarUrl": "https://avatars.githubusercontent.com/u/120662269?s=72&u=be41a4d18fbe5a23ad7f6432c16e0d1e1ac5fa0c&v=4",
     "location": "Austria",
-    "company": "",
+    "company": "Up to date GmbH",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 50,
+    "publicContributions": 79,
     "createdAt": "2022-12-15T15:08:31Z"
   },
   {
@@ -26384,7 +26384,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 10,
     "createdAt": "2022-04-03T15:37:06Z"
   },
   {
@@ -26406,9 +26406,9 @@
     "location": "Vienna, Austria",
     "company": "Final Solution",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 9,
     "createdAt": "2022-07-21T04:16:57Z"
   },
   {
@@ -219034,5 +219034,17 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2017-11-10T18:10:42Z"
+  },
+  {
+    "login": "IgorStupavsky",
+    "name": "Ing. Igor Stupavský, PhD.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/44468467?s=72&v=4",
+    "location": "Austria / Slovakia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 640,
+    "publicContributions": 20,
+    "createdAt": "2018-10-25T12:13:25Z"
   }
 ]
