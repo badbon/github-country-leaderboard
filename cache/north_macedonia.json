@@ -3883,7 +3883,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 61,
+    "privateContributions": 41,
     "publicContributions": 28,
     "createdAt": "2022-10-03T22:05:49Z"
   },
@@ -3908,7 +3908,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 11,
     "createdAt": "2022-06-26T20:53:08Z"
   },
   {
@@ -3980,7 +3980,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 11,
-    "publicContributions": 9,
+    "publicContributions": 13,
     "createdAt": "2022-10-05T23:00:23Z"
   },
   {
@@ -3992,7 +3992,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 199,
+    "publicContributions": 186,
     "createdAt": "2022-07-11T08:27:01Z"
   },
   {
@@ -4004,7 +4004,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 267,
+    "publicContributions": 286,
     "createdAt": "2022-09-28T22:21:03Z"
   },
   {
@@ -4063,21 +4063,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 406,
+    "privateContributions": 409,
     "publicContributions": 10,
     "createdAt": "2022-05-17T17:41:58Z"
-  },
-  {
-    "login": "JordanTrpeski",
-    "name": "Jordan Trpeski",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/102552864?s=72&u=e8b514cf63033c0b770aeb046ae563b1473d334d&v=4",
-    "location": "Macedonia",
-    "company": "Bechtel Enka",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 283,
-    "createdAt": "2022-03-28T19:42:42Z"
   },
   {
     "login": "Pipzzter",

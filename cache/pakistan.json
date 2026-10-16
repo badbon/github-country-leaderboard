@@ -26300,7 +26300,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 38,
     "createdAt": "2025-04-03T09:38:05Z"
   },
   {
@@ -26372,7 +26372,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 49,
+    "publicContributions": 25,
     "createdAt": "2025-06-06T08:58:55Z"
   },
   {
@@ -26384,7 +26384,7 @@
     "twitterUsername": "qadeer30748",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 14,
     "createdAt": "2025-04-15T12:15:23Z"
   },
   {
@@ -26396,7 +26396,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 101,
+    "publicContributions": 103,
     "createdAt": "2025-05-24T19:14:45Z"
   },
   {
@@ -26406,9 +26406,9 @@
     "location": "Lahore, Punjab, Pakistan",
     "company": "University of central Punjab ",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 107,
+    "publicContributions": 109,
     "createdAt": "2025-06-23T17:12:56Z"
   },
   {
@@ -26426,13 +26426,13 @@
   {
     "login": "zahid111777",
     "name": "ZAHID RASHID",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/217156442?s=72&u=be773aa739bc23ee0bca498d2c818ca2766fb58f&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/217156442?s=72&u=d52d303a280d8afb22a86d1e86bb4bf2425f3b9e&v=4",
     "location": "Islamabad, Pakistan",
     "company": "Carecloud",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 232,
+    "publicContributions": 301,
     "createdAt": "2025-06-20T05:54:28Z"
   },
   {
@@ -26442,8 +26442,8 @@
     "location": "Lahore, Pakistan",
     "company": "Brainforge",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 1049,
+    "followers": 3,
+    "privateContributions": 1123,
     "publicContributions": 1,
     "createdAt": "2025-05-15T21:25:44Z"
   },
@@ -26456,7 +26456,7 @@
     "twitterUsername": "nomiawandx",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 0,
     "createdAt": "2025-06-01T09:58:29Z"
   },
   {
@@ -26504,7 +26504,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 33,
+    "publicContributions": 12,
     "createdAt": "2025-04-15T13:12:19Z"
   },
   {
@@ -26516,7 +26516,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 142,
+    "publicContributions": 103,
     "createdAt": "2025-05-18T00:57:33Z"
   },
   {
@@ -26528,7 +26528,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 108,
+    "publicContributions": 110,
     "createdAt": "2025-05-09T20:23:23Z"
   },
   {
@@ -231992,7 +231992,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 2,
     "createdAt": "2022-07-23T11:04:54Z"
   },
   {
@@ -232364,7 +232364,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 58,
+    "publicContributions": 16,
     "createdAt": "2022-08-06T15:45:44Z"
   },
   {
@@ -233119,8 +233119,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 167,
-    "publicContributions": 4,
+    "privateContributions": 200,
+    "publicContributions": 75,
     "createdAt": "2022-07-08T11:33:54Z"
   },
   {
@@ -238747,8 +238747,8 @@
     "company": "",
     "twitterUsername": "rafaythebachani",
     "followers": 6,
-    "privateContributions": 1003,
-    "publicContributions": 37,
+    "privateContributions": 1603,
+    "publicContributions": 26,
     "createdAt": "2022-09-20T15:03:15Z"
   },
   {
@@ -502630,5 +502630,17 @@
     "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2026-06-28T19:22:56Z"
+  },
+  {
+    "login": "BatishLodhi",
+    "name": "Batish Lodhi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/113192012?s=72&u=72e727c684118d5aa76f1984a22f920b960be50a&v=4",
+    "location": "Hyderabad, Pakistan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2022-09-09T14:20:52Z"
   }
 ]
