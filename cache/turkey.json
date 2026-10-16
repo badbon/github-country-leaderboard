@@ -26442,7 +26442,7 @@
     "location": "İstanbul/Türkiye Cumhuriyeti",
     "company": "Sah_on.the.line",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 46,
     "createdAt": "2025-11-30T00:10:42Z"
@@ -26455,7 +26455,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
+    "privateContributions": 9,
     "publicContributions": 0,
     "createdAt": "2025-01-21T22:15:15Z"
   },
@@ -26468,7 +26468,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-10-09T23:36:33Z"
   },
   {
@@ -26514,7 +26514,7 @@
     "location": "Türkiye",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-01-13T15:34:49Z"
@@ -26564,7 +26564,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 245,
+    "publicContributions": 253,
     "createdAt": "2025-09-18T17:34:52Z"
   },
   {
@@ -26588,7 +26588,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 4,
     "createdAt": "2025-08-19T14:21:14Z"
   },
   {
@@ -26624,7 +26624,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 33,
     "createdAt": "2025-09-08T21:26:23Z"
   },
   {
@@ -26634,9 +26634,9 @@
     "location": "Türkiye",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 36,
     "createdAt": "2025-05-25T13:20:18Z"
   },
   {
@@ -26647,8 +26647,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 90,
-    "publicContributions": 63,
+    "privateContributions": 97,
+    "publicContributions": 90,
     "createdAt": "2025-04-17T21:26:52Z"
   },
   {
@@ -26658,9 +26658,9 @@
     "location": "Türkiye",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 10,
     "createdAt": "2025-07-21T12:09:12Z"
   },
   {
@@ -950182,5 +950182,29 @@
     "privateContributions": 3,
     "publicContributions": 19,
     "createdAt": "2018-08-21T21:05:16Z"
+  },
+  {
+    "login": "camdeso-lab",
+    "name": "Olivier D.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/297688157?s=72&u=b32cc44dc8422962929e32ad737d2f25f4c52e45&v=4",
+    "location": "Bandırma, türkiye",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 45,
+    "createdAt": "2026-06-28T17:28:33Z"
+  },
+  {
+    "login": "medineayman",
+    "name": "medine ayman",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/297676042?s=72&v=4",
+    "location": "türkiye",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2026-06-28T16:21:02Z"
   }
 ]

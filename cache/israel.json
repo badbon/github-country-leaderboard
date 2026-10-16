@@ -26972,7 +26972,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 27,
     "createdAt": "2021-01-30T00:16:00Z"
   },
   {
@@ -27031,8 +27031,8 @@
     "company": "ScoutV",
     "twitterUsername": "ScoutV_siorin",
     "followers": 1,
-    "privateContributions": 40,
-    "publicContributions": 1,
+    "privateContributions": 29,
+    "publicContributions": 0,
     "createdAt": "2021-01-14T18:56:00Z"
   },
   {
@@ -27044,7 +27044,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 5,
     "createdAt": "2021-04-21T12:35:14Z"
   },
   {
@@ -27055,8 +27055,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 869,
-    "publicContributions": 0,
+    "privateContributions": 1200,
+    "publicContributions": 6,
     "createdAt": "2021-05-11T16:06:57Z"
   },
   {
@@ -27068,7 +27068,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 279,
+    "publicContributions": 132,
     "createdAt": "2021-06-04T11:42:44Z"
   },
   {
@@ -27080,7 +27080,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 3,
     "createdAt": "2021-02-06T18:27:33Z"
   },
   {
@@ -27128,7 +27128,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 15,
-    "publicContributions": 14,
+    "publicContributions": 16,
     "createdAt": "2021-06-01T18:14:39Z"
   },
   {
@@ -27142,18 +27142,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-05-27T18:51:51Z"
-  },
-  {
-    "login": "Hanna-Solo",
-    "name": "Hanna Solomonov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/78591055?s=72&u=b282df8bcbb24949ac6b9b203bf9f02196479e22&v=4",
-    "location": "Israel",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 50,
-    "createdAt": "2021-02-05T09:16:38Z"
   },
   {
     "login": "ShaniSolo",
@@ -27184,11 +27172,11 @@
     "name": "Gil Elbaz",
     "avatarUrl": "https://avatars.githubusercontent.com/u/77351401?s=72&u=1b3479de89e4d2c38943287d4c9505461b46193d&v=4",
     "location": "Israel",
-    "company": "",
+    "company": "Deloitte",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 67,
+    "publicContributions": 62,
     "createdAt": "2021-01-12T17:01:19Z"
   },
   {

@@ -26610,7 +26610,7 @@
     "location": "Jyväskylä, Finland",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2022-05-01T16:34:23Z"
@@ -26658,21 +26658,21 @@
     "location": "Lappeenranta, Finland",
     "company": "",
     "twitterUsername": "aaayandev",
-    "followers": 1,
-    "privateContributions": 1147,
-    "publicContributions": 110,
+    "followers": 6,
+    "privateContributions": 2214,
+    "publicContributions": 144,
     "createdAt": "2022-01-10T19:09:46Z"
   },
   {
     "login": "nguyen1013",
     "name": "Nguyen Nguyen",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/114457659?s=72&u=de55498aab26e3b88d7bdd584d9cd05e50c033e9&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/114457659?s=72&u=5cb526f71d1ee6d6a9095121d69029773e4a09c6&v=4",
     "location": "Vaasa, Finland",
     "company": "Vaasa University of Applied Sciences",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 140,
+    "publicContributions": 142,
     "createdAt": "2022-09-27T02:47:20Z"
   },
   {
@@ -26695,8 +26695,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
+    "privateContributions": 19,
+    "publicContributions": 0,
     "createdAt": "2022-08-15T08:17:48Z"
   },
   {
@@ -26708,7 +26708,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 39,
+    "publicContributions": 22,
     "createdAt": "2022-03-17T10:13:09Z"
   },
   {
@@ -26719,8 +26719,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 34,
-    "publicContributions": 88,
+    "privateContributions": 44,
+    "publicContributions": 104,
     "createdAt": "2022-04-08T11:00:08Z"
   },
   {
@@ -26760,18 +26760,6 @@
     "createdAt": "2022-09-14T05:39:38Z"
   },
   {
-    "login": "Alex-Kochhh",
-    "name": "Alex Koch",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/105103921?s=72&v=4",
-    "location": "Finland, Helsinki",
-    "company": "SWISH Company",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2022-05-07T08:47:32Z"
-  },
-  {
     "login": "RZ-Rakib",
     "name": "Md Rakibuzzaman Rakib",
     "avatarUrl": "https://avatars.githubusercontent.com/u/113872903?s=72&v=4",
@@ -26780,7 +26768,7 @@
     "twitterUsername": "_Rakibb_",
     "followers": 1,
     "privateContributions": 2,
-    "publicContributions": 245,
+    "publicContributions": 207,
     "createdAt": "2022-09-19T03:11:18Z"
   },
   {
@@ -26838,7 +26826,7 @@
     "location": "Tampere, Finland",
     "company": "Tampere University",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2022-02-23T10:38:17Z"

@@ -25086,7 +25086,7 @@
     "location": "Cyprus",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-02-10T16:46:59Z"
@@ -25135,8 +25135,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 25,
+    "privateContributions": 2,
+    "publicContributions": 23,
     "createdAt": "2014-06-15T17:35:36Z"
   },
   {
@@ -25184,7 +25184,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 192,
+    "publicContributions": 113,
     "createdAt": "2014-09-30T10:07:26Z"
   },
   {
@@ -25219,8 +25219,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 742,
-    "publicContributions": 77,
+    "privateContributions": 776,
+    "publicContributions": 96,
     "createdAt": "2013-12-30T13:52:57Z"
   },
   {
@@ -25244,7 +25244,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 2,
     "createdAt": "2014-05-12T13:27:29Z"
   },
   {
@@ -25266,20 +25266,20 @@
     "location": "Nicosia",
     "company": "FXBO",
     "twitterUsername": "",
-    "followers": 29,
-    "privateContributions": 511,
-    "publicContributions": 4,
+    "followers": 27,
+    "privateContributions": 466,
+    "publicContributions": 6,
     "createdAt": "2014-03-24T14:40:39Z"
   },
   {
     "login": "ttofis",
     "name": "Chris Charalambous",
     "avatarUrl": "https://avatars.githubusercontent.com/u/8685248?s=72&u=596f93687eca750a6827995d8d9aae9e4bc286fd&v=4",
-    "location": "Athens and Nicosia",
-    "company": "",
+    "location": "Nicosia",
+    "company": "Electryone AI",
     "twitterUsername": "",
     "followers": 16,
-    "privateContributions": 770,
+    "privateContributions": 724,
     "publicContributions": 57,
     "createdAt": "2014-09-07T10:36:44Z"
   },
@@ -25291,7 +25291,7 @@
     "company": "@serieseight ",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 1987,
+    "privateContributions": 1803,
     "publicContributions": 0,
     "createdAt": "2014-10-09T20:41:21Z"
   },

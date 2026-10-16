@@ -26912,7 +26912,7 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2020-06-28T15:13:09Z"
   },
   {
@@ -26935,7 +26935,7 @@
     "company": "Hogarth",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 94,
+    "privateContributions": 114,
     "publicContributions": 3,
     "createdAt": "2020-12-05T00:39:11Z"
   },
@@ -26954,12 +26954,12 @@
   {
     "login": "morellexf13",
     "name": "Juan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/73654994?s=72&u=e7f7b56a6313d891186caceec3dc20ceb6946bb8&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/73654994?s=72&u=ec072195eb50ab61d79e3d73509409fe345f5136&v=4",
     "location": "Uruguay",
     "company": "Apptim",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 335,
+    "privateContributions": 485,
     "publicContributions": 18,
     "createdAt": "2020-10-29T14:51:20Z"
   },
@@ -26983,7 +26983,7 @@
     "company": "DOITS",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 1684,
+    "privateContributions": 1332,
     "publicContributions": 0,
     "createdAt": "2020-06-23T21:32:58Z"
   },
@@ -26995,8 +26995,8 @@
     "company": "Cencosud",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 438,
-    "publicContributions": 1,
+    "privateContributions": 468,
+    "publicContributions": 158,
     "createdAt": "2020-05-30T02:28:28Z"
   },
   {
@@ -27006,9 +27006,9 @@
     "location": "Montevideo, Uruguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 9316,
-    "publicContributions": 21,
+    "followers": 10,
+    "privateContributions": 15971,
+    "publicContributions": 143,
     "createdAt": "2020-09-10T13:13:44Z"
   },
   {
@@ -27031,8 +27031,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 989,
-    "publicContributions": 53,
+    "privateContributions": 1106,
+    "publicContributions": 42,
     "createdAt": "2020-09-08T12:26:39Z"
   },
   {
@@ -27042,7 +27042,7 @@
     "location": "Montevideo, Uruguay",
     "company": "@SereLabs ",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 10,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-03-10T22:30:57Z"
@@ -27103,7 +27103,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 192,
+    "privateContributions": 174,
     "publicContributions": 0,
     "createdAt": "2020-10-09T00:20:46Z"
   },
@@ -27126,7 +27126,7 @@
     "location": "Maldonado, Uruguay",
     "company": "@Fisica-Python ",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 9,
     "privateContributions": 0,
     "publicContributions": 10,
     "createdAt": "2020-04-28T01:36:21Z"
@@ -27138,9 +27138,9 @@
     "location": "Montevideo, Uruguay",
     "company": "SnugZ USA",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 1770,
-    "publicContributions": 23,
+    "followers": 7,
+    "privateContributions": 2222,
+    "publicContributions": 21,
     "createdAt": "2020-09-18T17:34:59Z"
   },
   {

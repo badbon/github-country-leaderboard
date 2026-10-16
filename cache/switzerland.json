@@ -26480,7 +26480,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 242,
+    "publicContributions": 214,
     "createdAt": "2022-05-22T11:29:49Z"
   },
   {
@@ -26502,7 +26502,7 @@
     "location": "Zurich, Switzerland",
     "company": "UBS Group",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 1,
     "privateContributions": 0,
     "publicContributions": 9,
     "createdAt": "2022-03-04T17:19:37Z"
@@ -26540,7 +26540,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 101,
+    "publicContributions": 89,
     "createdAt": "2022-01-11T15:25:12Z"
   },
   {
@@ -26551,8 +26551,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 23,
+    "privateContributions": 1,
+    "publicContributions": 52,
     "createdAt": "2022-04-24T14:18:51Z"
   },
   {
@@ -26576,7 +26576,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 16,
     "createdAt": "2022-04-18T17:11:30Z"
   },
   {
@@ -26600,7 +26600,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 7,
     "createdAt": "2022-03-29T14:35:51Z"
   },
   {
@@ -26611,8 +26611,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 1,
+    "privateContributions": 7,
+    "publicContributions": 0,
     "createdAt": "2022-01-24T11:03:38Z"
   },
   {
@@ -26623,8 +26623,8 @@
     "company": "University of Basel",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 159,
-    "publicContributions": 8,
+    "privateContributions": 144,
+    "publicContributions": 3,
     "createdAt": "2022-02-11T14:05:58Z"
   },
   {
@@ -26636,7 +26636,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 146,
     "createdAt": "2022-02-08T12:58:02Z"
   },
   {
@@ -26648,19 +26648,19 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 20,
     "createdAt": "2022-05-31T19:35:50Z"
   },
   {
     "login": "RamonKaspar",
     "name": "Ramon Kaspar",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/104909328?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/104909328?s=72&u=df3e766ca698ec850ce53a44af532a1d4c7eaf3a&v=4",
     "location": "Zürich (Switzerland)",
     "company": "ETH Zürich",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 658,
-    "publicContributions": 161,
+    "followers": 5,
+    "privateContributions": 1041,
+    "publicContributions": 164,
     "createdAt": "2022-05-04T13:09:48Z"
   },
   {

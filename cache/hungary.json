@@ -26623,7 +26623,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 42,
+    "privateContributions": 37,
     "publicContributions": 0,
     "createdAt": "2021-03-25T11:15:08Z"
   },
@@ -26632,10 +26632,10 @@
     "name": "SM mest3r",
     "avatarUrl": "https://avatars.githubusercontent.com/u/78697727?s=72&u=384bc954b35c7e10f0e8f73bdb1d71ecfc4d2d9d&v=4",
     "location": "Budapest",
-    "company": "Fenséges Kft.",
+    "company": "Fiziotron Trade Kft.",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 183,
+    "privateContributions": 137,
     "publicContributions": 39,
     "createdAt": "2021-02-07T17:21:33Z"
   },
@@ -26670,9 +26670,9 @@
     "location": "Budapest",
     "company": "@DiligentCorp",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 723,
-    "publicContributions": 5,
+    "followers": 5,
+    "privateContributions": 970,
+    "publicContributions": 1,
     "createdAt": "2021-09-13T14:10:37Z"
   },
   {
@@ -26683,8 +26683,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 47,
-    "publicContributions": 69,
+    "privateContributions": 45,
+    "publicContributions": 77,
     "createdAt": "2021-12-13T21:03:08Z"
   },
   {
@@ -26695,7 +26695,7 @@
     "company": "@vSites-dev",
     "twitterUsername": "varnaidvid",
     "followers": 4,
-    "privateContributions": 2404,
+    "privateContributions": 4655,
     "publicContributions": 0,
     "createdAt": "2021-01-19T19:04:36Z"
   },
@@ -26708,7 +26708,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 8,
     "createdAt": "2021-03-17T18:58:54Z"
   },
   {
@@ -26779,8 +26779,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 2321,
-    "publicContributions": 19,
+    "privateContributions": 2390,
+    "publicContributions": 18,
     "createdAt": "2021-02-14T19:19:59Z"
   },
   {
@@ -26816,7 +26816,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 15,
     "createdAt": "2021-10-11T21:38:40Z"
   },
   {
@@ -26827,7 +26827,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 1982,
+    "privateContributions": 2002,
     "publicContributions": 3,
     "createdAt": "2021-01-22T11:43:22Z"
   },
@@ -134122,5 +134122,17 @@
     "privateContributions": 2914,
     "publicContributions": 680,
     "createdAt": "2012-02-20T18:13:15Z"
+  },
+  {
+    "login": "MAY55A",
+    "name": "Mayssa Ghanmi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/107711995?s=72&u=97cd9dbd7bb1025aae4802ce68cfd6f4ab4b3887&v=4",
+    "location": "Hungary",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 91,
+    "publicContributions": 131,
+    "createdAt": "2022-06-17T18:00:38Z"
   }
 ]
