@@ -27510,9 +27510,9 @@
     "location": "Belarus",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 23,
     "createdAt": "2021-09-18T11:31:56Z"
   },
   {
@@ -27523,7 +27523,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 28,
+    "privateContributions": 29,
     "publicContributions": 0,
     "createdAt": "2021-06-22T10:12:57Z"
   },
@@ -27547,21 +27547,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 1278,
+    "privateContributions": 1303,
     "publicContributions": 6,
     "createdAt": "2021-03-28T15:12:33Z"
-  },
-  {
-    "login": "Ladya2003",
-    "name": "Vladislav",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/92051143?s=72&u=c205d4d405f65eea3605713d0b567ee3c1ad0b0e&v=4",
-    "location": "Belarus",
-    "company": "BSTU",
-    "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 0,
-    "publicContributions": 118,
-    "createdAt": "2021-10-06T17:39:44Z"
   },
   {
     "login": "redfox193",
@@ -27571,8 +27559,8 @@
     "company": "BSU FAMCS",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 39,
-    "publicContributions": 86,
+    "privateContributions": 25,
+    "publicContributions": 75,
     "createdAt": "2021-05-08T10:17:46Z"
   },
   {
@@ -27583,7 +27571,7 @@
     "company": "Polessky State University",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 621,
+    "privateContributions": 1123,
     "publicContributions": 7,
     "createdAt": "2021-04-13T13:53:45Z"
   },
@@ -27600,18 +27588,6 @@
     "createdAt": "2021-02-26T14:07:43Z"
   },
   {
-    "login": "EgorMajj",
-    "name": "egormajj",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/91486022?s=72&u=6d3eeccdb9b078b0a78b06d981440fe624817d5f&v=4",
-    "location": "Belarus",
-    "company": "",
-    "twitterUsername": "major777rigion",
-    "followers": 9,
-    "privateContributions": 0,
-    "publicContributions": 12,
-    "createdAt": "2021-09-27T15:43:28Z"
-  },
-  {
     "login": "czernika",
     "name": "Ihar Aliakseyenka",
     "avatarUrl": "https://avatars.githubusercontent.com/u/86893348?s=72&v=4",
@@ -27619,8 +27595,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 1539,
-    "publicContributions": 62,
+    "privateContributions": 1452,
+    "publicContributions": 32,
     "createdAt": "2021-07-03T20:05:06Z"
   },
   {
@@ -27632,7 +27608,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 109,
+    "publicContributions": 94,
     "createdAt": "2021-05-19T22:22:18Z"
   },
   {
@@ -27642,7 +27618,7 @@
     "location": "Belarus",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 10,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-10-14T07:43:47Z"
@@ -27656,7 +27632,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 135,
+    "publicContributions": 96,
     "createdAt": "2021-08-16T08:18:49Z"
   },
   {
@@ -27679,8 +27655,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 48,
-    "publicContributions": 58,
+    "privateContributions": 159,
+    "publicContributions": 68,
     "createdAt": "2021-09-02T19:07:17Z"
   },
   {
@@ -27690,9 +27666,9 @@
     "location": "Minsk, Belarus",
     "company": "Belarusian State Technological University",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 77,
+    "publicContributions": 22,
     "createdAt": "2021-09-15T17:38:58Z"
   },
   {
@@ -27702,7 +27678,7 @@
     "location": "Minsk, Belarus",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 8,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-09-11T20:30:54Z"
@@ -27715,8 +27691,8 @@
     "company": "Belarusian State University of Informatics and Radioelectronics",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 60,
-    "publicContributions": 12,
+    "privateContributions": 55,
+    "publicContributions": 9,
     "createdAt": "2021-05-05T14:29:00Z"
   },
   {
@@ -27726,9 +27702,9 @@
     "location": "Belarus, Minsk",
     "company": "BSU, FAMCS",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 11,
     "privateContributions": 36,
-    "publicContributions": 255,
+    "publicContributions": 196,
     "createdAt": "2021-09-28T12:58:37Z"
   },
   {
@@ -27738,9 +27714,9 @@
     "location": "Minsk, Belarus",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 79,
     "createdAt": "2021-08-01T15:49:44Z"
   },
   {

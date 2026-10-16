@@ -26407,8 +26407,8 @@
     "company": "Monitor ERP",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 23,
-    "publicContributions": 4,
+    "privateContributions": 21,
+    "publicContributions": 11,
     "createdAt": "2023-02-26T11:43:04Z"
   },
   {
@@ -26432,7 +26432,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 162,
+    "publicContributions": 106,
     "createdAt": "2023-06-14T07:59:30Z"
   },
   {
@@ -26442,22 +26442,10 @@
     "location": "gothenburg, sweden",
     "company": "chalmers university",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 76,
+    "publicContributions": 73,
     "createdAt": "2023-03-03T13:03:45Z"
-  },
-  {
-    "login": "AX-Berglund",
-    "name": "Axel Berglund",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/123384360?s=72&u=3e8c5e644a4ef7332269ca003025ea4135dfcfbd&v=4",
-    "location": "Stockholm, Sweden",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 4006,
-    "publicContributions": 181,
-    "createdAt": "2023-01-23T13:56:24Z"
   },
   {
     "login": "D-Williams-py",
@@ -26504,7 +26492,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 66,
+    "publicContributions": 33,
     "createdAt": "2023-03-12T15:54:55Z"
   },
   {
@@ -26514,7 +26502,7 @@
     "location": "Sweden",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-02-26T08:49:33Z"
@@ -26526,9 +26514,9 @@
     "location": "Stockholm, Sweden",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2023-02-20T11:27:36Z"
   },
   {
@@ -26539,8 +26527,8 @@
     "company": "@mimershead",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 487,
-    "publicContributions": 13,
+    "privateContributions": 394,
+    "publicContributions": 3,
     "createdAt": "2023-05-02T11:51:13Z"
   },
   {
@@ -26549,10 +26537,10 @@
     "avatarUrl": "https://avatars.githubusercontent.com/u/129997550?s=72&u=082b8895638d6ef24c78fb7c937615b9f60510ff&v=4",
     "location": "Sweden",
     "company": "",
-    "twitterUsername": "DismissedGv",
+    "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 97,
+    "publicContributions": 182,
     "createdAt": "2023-04-05T20:14:50Z"
   },
   {
@@ -26563,7 +26551,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-01-25T18:04:30Z"
   },
@@ -26611,8 +26599,8 @@
     "company": "Barkfors Fleet AB",
     "twitterUsername": "djentsoft",
     "followers": 2,
-    "privateContributions": 1976,
-    "publicContributions": 35,
+    "privateContributions": 2582,
+    "publicContributions": 38,
     "createdAt": "2023-01-26T06:51:10Z"
   },
   {
@@ -26622,8 +26610,8 @@
     "location": "Sweden",
     "company": "Tata Consultancy Services",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 208,
+    "followers": 3,
+    "privateContributions": 231,
     "publicContributions": 0,
     "createdAt": "2023-05-19T08:25:02Z"
   },
@@ -26635,7 +26623,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 47,
+    "privateContributions": 19,
     "publicContributions": 32,
     "createdAt": "2023-01-30T13:52:34Z"
   },

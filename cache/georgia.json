@@ -27499,7 +27499,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 44,
+    "privateContributions": 45,
     "publicContributions": 0,
     "createdAt": "2021-08-08T17:24:56Z"
   },
@@ -27522,7 +27522,7 @@
     "location": "Georgia, Tbilisi",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 49,
     "createdAt": "2021-09-26T08:22:09Z"
@@ -27624,18 +27624,6 @@
     "createdAt": "2021-12-08T13:39:37Z"
   },
   {
-    "login": "BSOD232",
-    "name": "Brody Lindstrom",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/92183387?s=72&u=8d8d6ff5024547836f41008667529c62ac2c3544&v=4",
-    "location": "Georgia",
-    "company": "@edunoteam ",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 203,
-    "publicContributions": 0,
-    "createdAt": "2021-10-08T19:48:23Z"
-  },
-  {
     "login": "IrmySyu",
     "name": "",
     "avatarUrl": "https://avatars.githubusercontent.com/u/96543023?s=72&v=4",
@@ -27644,7 +27632,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 3,
     "createdAt": "2021-12-22T17:27:50Z"
   },
   {
@@ -27656,7 +27644,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 2,
     "createdAt": "2020-12-28T12:32:55Z"
   },
   {
@@ -27691,8 +27679,8 @@
     "company": "",
     "twitterUsername": "llipa99",
     "followers": 1,
-    "privateContributions": 960,
-    "publicContributions": 38,
+    "privateContributions": 1183,
+    "publicContributions": 45,
     "createdAt": "2021-11-08T03:48:28Z"
   },
   {
@@ -27704,7 +27692,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 1,
     "createdAt": "2021-03-29T20:21:34Z"
   },
   {

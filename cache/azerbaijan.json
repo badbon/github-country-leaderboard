@@ -27380,7 +27380,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 92,
+    "publicContributions": 42,
     "createdAt": "2022-07-15T15:28:04Z"
   },
   {
@@ -27403,7 +27403,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 498,
+    "privateContributions": 432,
     "publicContributions": 6,
     "createdAt": "2022-10-25T07:52:22Z"
   },
@@ -27426,9 +27426,9 @@
     "location": "Baku",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 26,
     "createdAt": "2022-12-09T15:19:23Z"
   },
   {
@@ -27452,7 +27452,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 2082,
+    "publicContributions": 551,
     "createdAt": "2022-09-26T08:19:19Z"
   },
   {
@@ -27464,7 +27464,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 7,
     "createdAt": "2022-10-30T15:23:39Z"
   },
   {
@@ -27487,8 +27487,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 0,
-    "publicContributions": 90,
+    "privateContributions": 4,
+    "publicContributions": 97,
     "createdAt": "2022-03-15T05:18:19Z"
   },
   {
@@ -27498,7 +27498,7 @@
     "location": "Baku",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2022-04-13T19:08:31Z"
@@ -27542,7 +27542,7 @@
   {
     "login": "ismailovismail",
     "name": "Ismail Ismailov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/108124365?s=72&u=e8d9f35ebc623a3b099c5ead1bba9a179d2fd791&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/108124365?s=72&v=4",
     "location": "Baku",
     "company": "",
     "twitterUsername": "",
@@ -27571,7 +27571,7 @@
     "company": "GOFAR LLC",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 83,
+    "privateContributions": 57,
     "publicContributions": 0,
     "createdAt": "2022-10-25T14:25:50Z"
   },

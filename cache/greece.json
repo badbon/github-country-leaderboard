@@ -27294,9 +27294,9 @@
     "location": "Greece",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 146,
-    "publicContributions": 73,
+    "publicContributions": 76,
     "createdAt": "2022-05-25T10:08:08Z"
   },
   {
@@ -27308,7 +27308,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 0,
     "createdAt": "2022-03-03T09:20:09Z"
   },
   {
@@ -27332,7 +27332,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 10,
-    "publicContributions": 10,
+    "publicContributions": 0,
     "createdAt": "2022-03-18T17:38:32Z"
   },
   {
@@ -27354,7 +27354,7 @@
     "location": "Greece",
     "company": "National Technical University of Athens",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 53,
     "createdAt": "2022-11-16T22:49:08Z"
@@ -27368,7 +27368,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 241,
+    "publicContributions": 176,
     "createdAt": "2022-02-28T19:34:42Z"
   },
   {
@@ -27378,7 +27378,7 @@
     "location": "Athens, Greece",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-12-08T16:33:59Z"
@@ -27391,8 +27391,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 43,
+    "privateContributions": 76,
+    "publicContributions": 174,
     "createdAt": "2022-06-01T05:40:15Z"
   },
   {
@@ -27403,7 +27403,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 181,
+    "privateContributions": 91,
     "publicContributions": 53,
     "createdAt": "2022-10-07T13:32:59Z"
   },
@@ -27414,22 +27414,10 @@
     "location": "Athens, Greece",
     "company": "@WebHotelier",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 201,
+    "followers": 5,
+    "privateContributions": 197,
     "publicContributions": 1,
     "createdAt": "2022-02-27T22:54:16Z"
-  },
-  {
-    "login": "ckagias",
-    "name": "Christoforos Kagias",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/104851189?s=72&u=107835a1ca4fd65f7faf952303d9dfc41ec4f246&v=4",
-    "location": "Patras, Greece",
-    "company": "University of East London",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 226,
-    "publicContributions": 615,
-    "createdAt": "2022-05-03T16:01:27Z"
   },
   {
     "login": "VladKinash",
@@ -27463,8 +27451,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 23,
-    "publicContributions": 137,
+    "privateContributions": 2,
+    "publicContributions": 113,
     "createdAt": "2022-12-19T12:48:52Z"
   },
   {
@@ -27476,18 +27464,18 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 3,
     "createdAt": "2022-03-17T18:49:48Z"
   },
   {
     "login": "triaxyd",
     "name": "Triantafyllos Xydis",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/97985533?s=72&u=deb1fa96a87a76dc2b00f69ecbba875656812e81&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/97985533?s=72&u=35f2f84aaca1e594a9618669366a04757ad8436b&v=4",
     "location": "Athens,Greece",
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 4,
+    "privateContributions": 0,
     "publicContributions": 5,
     "createdAt": "2022-01-18T19:47:22Z"
   },
@@ -27511,7 +27499,7 @@
     "company": "ENTERSOFTONE",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 28,
+    "privateContributions": 25,
     "publicContributions": 28,
     "createdAt": "2022-04-18T16:36:13Z"
   },
@@ -27523,8 +27511,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 1756,
-    "publicContributions": 0,
+    "privateContributions": 1935,
+    "publicContributions": 1,
     "createdAt": "2022-06-20T13:23:34Z"
   },
   {
