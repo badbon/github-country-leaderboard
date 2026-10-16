@@ -29,7 +29,7 @@ Indexed users: 1,338
 | 15 | [barthkapepula](https://github.com/barthkapepula) | Bartholomew Kapepula | Zambia | 3,472 |
 | 16 | [boniface](https://github.com/boniface) | Boniface Kabaso | Lusaka, Zambia | 3,396 |
 | 17 | [Geoffrey-Zulu](https://github.com/Geoffrey-Zulu) | Geoffrey Zulu | Lusaka, Zambia | 3,304 |
-| 18 | [ericknamukolo](https://github.com/ericknamukolo) | Erick Namukolo | Lusaka, Zambia | 3,274 |
+| 18 | [ericknamukolo](https://github.com/ericknamukolo) | Erick Namukolo | Lusaka, Zambia | 3,281 |
 | 19 | [brucetruth](https://github.com/brucetruth) | Bruce Truth | Zambia | 3,200 |
 | 20 | [engineervix](https://github.com/engineervix) | Victor Miti | Lusaka, Zambia | 3,188 |
 
@@ -83,4 +83,4 @@ Indexed users: 1,338
 | 19 | [blessedjasonmwanza](https://github.com/blessedjasonmwanza) | Blessed Jason Mwanza |  Lusaka, Zambia | 104 |
 | 20 | [Eathorne2](https://github.com/Eathorne2) | Eathorne | Lusaka, Zambia | 103 |
 
-Generated: 2026-10-16T12:36:01.152Z
+Generated: 2026-10-16T13:57:31.642Z

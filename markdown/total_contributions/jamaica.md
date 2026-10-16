@@ -1,6 +1,6 @@
 # Total Contributions - Jamaica
 
-Generated: 2026-10-16T13:10:17.093Z
+Generated: 2026-10-16T14:29:55.385Z
 
 Users: 1275
 
@@ -25,4 +25,4 @@ Users: 1275
 | 17 | [cogell](https://github.com/cogell) | B. Cedric Cogell |  |  | Kingston, NY | 4336 |
 | 18 | [JCarran0](https://github.com/JCarran0) | Jared Carrano | 2U Inc. |  | Kingston, NY | 4180 |
 | 19 | [shanoysinc](https://github.com/shanoysinc) | Shanoy Sinclair |  | shanoysinc | Jamaica | 4160 |
-| 20 | [kaplanz](https://github.com/kaplanz) | Zakhary Kaplan | @tenstorrent |  | Kingston, ON | 3991 |
+| 20 | [capndave](https://github.com/capndave) | David Thompson | True Prodigy |  | Kingston, NY | 4065 |

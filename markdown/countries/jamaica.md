@@ -31,7 +31,7 @@ Indexed users: 1,275
 | 17 | [cogell](https://github.com/cogell) | B. Cedric Cogell | Kingston, NY | 4,336 |
 | 18 | [JCarran0](https://github.com/JCarran0) | Jared Carrano | Kingston, NY | 4,180 |
 | 19 | [shanoysinc](https://github.com/shanoysinc) | Shanoy Sinclair | Jamaica | 4,160 |
-| 20 | [kaplanz](https://github.com/kaplanz) | Zakhary Kaplan | Kingston, ON | 3,991 |
+| 20 | [capndave](https://github.com/capndave) | David Thompson | Kingston, NY | 4,065 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 1,275
 | 19 | [aliasad059](https://github.com/aliasad059) | Ali Asad | Kingston, Ontario | 100 |
 | 20 | [andrewmaier](https://github.com/andrewmaier) | Andrew Maier | Kingston, Ontario | 94 |
 
-Generated: 2026-10-16T13:10:17.093Z
+Generated: 2026-10-16T14:29:55.385Z

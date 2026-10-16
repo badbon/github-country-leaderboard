@@ -22,9 +22,9 @@ Indexed users: 2,127
 | 8 | [ribice](https://github.com/ribice) | Emir Ribić | Sarajevo | 6,627 |
 | 9 | [NedimKuj](https://github.com/NedimKuj) | Nedim Kujrakovic | Sarajevo | 6,466 |
 | 10 | [JovanJevtic](https://github.com/JovanJevtic) | Jovan Jevtic | Banjaluka, Bosnia and Herzegovina | 6,310 |
-| 11 | [JokerHin](https://github.com/JokerHin) | Cho Kar Hin | Bosnia and Herzegovina | 5,896 |
-| 12 | [agobeljic1](https://github.com/agobeljic1) | Adnan Gobeljic | Sarajevo | 5,816 |
-| 13 | [vascabarkapa](https://github.com/vascabarkapa) | Vasilije Čabarkapa | East Sarajevo, Bosnia and Herzegovina | 5,769 |
+| 11 | [agobeljic1](https://github.com/agobeljic1) | Adnan Gobeljic | Sarajevo | 5,816 |
+| 12 | [vascabarkapa](https://github.com/vascabarkapa) | Vasilije Čabarkapa | East Sarajevo, Bosnia and Herzegovina | 5,769 |
+| 13 | [JokerHin](https://github.com/JokerHin) | Cho Kar Hin | Bosnia and Herzegovina | 5,738 |
 | 14 | [sanilmusic](https://github.com/sanilmusic) | Sanil Musić | Sarajevo | 5,737 |
 | 15 | [TarikVelic](https://github.com/TarikVelic) | Tarik Velic | Sarajevo | 5,647 |
 | 16 | [robo58](https://github.com/robo58) | Robert Sliskovic | Siroki Brijeg,Bosnia and Herzegovina | 5,452 |
@@ -37,7 +37,7 @@ Indexed users: 2,127
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [JokerHin](https://github.com/JokerHin) | Cho Kar Hin | Bosnia and Herzegovina | 5,766 |
+| 1 | [JokerHin](https://github.com/JokerHin) | Cho Kar Hin | Bosnia and Herzegovina | 5,608 |
 | 2 | [MaidCorbic](https://github.com/MaidCorbic) | Maid Čorbić | Tuzla, Bosnia and Herzegovina | 3,728 |
 | 3 | [sake92](https://github.com/sake92) | Sakib Hadžiavdić | Sarajevo, Bosnia | 3,251 |
 | 4 | [ghostrider0470](https://github.com/ghostrider0470) | Abdagić Hamza | Sarajevo | 2,979 |
@@ -83,4 +83,4 @@ Indexed users: 2,127
 | 19 | [Mickey0001](https://github.com/Mickey0001) | Mirza Sisic | Sarajevo, Bosnia and Herzegovina  | 122 |
 | 20 | [sake92](https://github.com/sake92) | Sakib Hadžiavdić | Sarajevo, Bosnia | 118 |
 
-Generated: 2026-10-16T12:46:20.228Z
+Generated: 2026-10-16T14:07:48.537Z

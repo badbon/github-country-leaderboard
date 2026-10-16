@@ -15,7 +15,7 @@ Indexed users: 93
 | 1 | [Likeandfeel](https://github.com/Likeandfeel) |  | Gibraltar | 27,526 |
 | 2 | [miohtama](https://github.com/miohtama) | Mikko Ohtamaa | Gibraltar | 5,658 |
 | 3 | [Industrial](https://github.com/Industrial) | Tom Wieland | Gibraltar | 5,245 |
-| 4 | [marcoscholz](https://github.com/marcoscholz) | Marco Scholz | Gibraltar | 3,291 |
+| 4 | [marcoscholz](https://github.com/marcoscholz) | Marco Scholz | Gibraltar | 3,296 |
 | 5 | [dlicudi](https://github.com/dlicudi) | Duane Licudi | Gibraltar | 2,560 |
 | 6 | [Fenicio](https://github.com/Fenicio) | Guillermo G C | Gibraltar | 1,391 |
 | 7 | [ArmandasB](https://github.com/ArmandasB) | Armandas Bespalovas | Gibraltar, GI | 1,236 |
@@ -24,7 +24,7 @@ Indexed users: 93
 | 10 | [sTevoFort](https://github.com/sTevoFort) | Stephen Fortunato | Gibraltar | 772 |
 | 11 | [ronanmathew](https://github.com/ronanmathew) | Ronan Spoor | Gibraltar | 637 |
 | 12 | [mortyflex](https://github.com/mortyflex) | Mohamed A | Gibraltar | 621 |
-| 13 | [SGarcia96](https://github.com/SGarcia96) | SGarcia | Spain/Gibraltar | 595 |
+| 13 | [SGarcia96](https://github.com/SGarcia96) | SGarcia | Spain/Gibraltar | 598 |
 | 14 | [ajedrezpremium](https://github.com/ajedrezpremium) | Ajedrez Premium | GIBRALTAR | 538 |
 | 15 | [Vinnetou](https://github.com/Vinnetou) | Lukas Kloucek | Gibraltar | 521 |
 | 16 | [PeterKottas](https://github.com/PeterKottas) | Peter Kottas | Gibraltar | 462 |
@@ -43,7 +43,7 @@ Indexed users: 93
 | 4 | [ArtemSoldatkin](https://github.com/ArtemSoldatkin) | Artem Soldatkin | Gibraltar | 567 |
 | 5 | [ajedrezpremium](https://github.com/ajedrezpremium) | Ajedrez Premium | GIBRALTAR | 538 |
 | 6 | [crpol](https://github.com/crpol) | Cesar Rosa Polanco | Gibraltar | 255 |
-| 7 | [heaventree](https://github.com/heaventree) | Heaventree Digital | Gibraltar | 241 |
+| 7 | [heaventree](https://github.com/heaventree) | Heaventree Digital | Gibraltar | 240 |
 | 8 | [mortyflex](https://github.com/mortyflex) | Mohamed A | Gibraltar | 196 |
 | 9 | [unigib](https://github.com/unigib) | University of Gibraltar | Gibraltar | 183 |
 | 10 | [ZedsArcade](https://github.com/ZedsArcade) | ZedsArcade | Gibraltar | 156 |
@@ -83,4 +83,4 @@ Indexed users: 93
 | 19 | [vfiodor](https://github.com/vfiodor) | Fiodor Veresciaka | Gibraltar | 13 |
 | 20 | [VPSServerCom](https://github.com/VPSServerCom) | VPS Server | Gibraltar | 13 |
 
-Generated: 2026-10-16T13:01:31.633Z
+Generated: 2026-10-16T14:23:49.943Z

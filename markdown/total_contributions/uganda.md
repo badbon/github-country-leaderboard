@@ -1,8 +1,8 @@
 # Total Contributions - Uganda
 
-Generated: 2026-10-16T12:30:46.386Z
+Generated: 2026-10-16T13:54:39.580Z
 
-Users: 3872
+Users: 3871
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -25,4 +25,4 @@ Users: 3872
 | 17 | [baliksjosay](https://github.com/baliksjosay) | Joseph Balikuddembe | GDExperts LTD | BaliksJoseph | Kampala, uganda | 7753 |
 | 18 | [judeotine](https://github.com/judeotine) | Judeotine |  | Judeotine | Uganda | 7440 |
 | 19 | [cosmah](https://github.com/cosmah) | cosmah | CosMc technologies | cosmah_l | kampala, Uganda | 7177 |
-| 20 | [BrianPollar](https://github.com/BrianPollar) | Pollar Brian Okello | Eagle Info Solutions |  | Kampala, Uganda | 6811 |
+| 20 | [amkayondo](https://github.com/amkayondo) | Kayondo Edward | @opensource-now @open-nux @nuxjs @wearedelovery | kayondoedward | Kampala, Uganda | 7153 |

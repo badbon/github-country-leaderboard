@@ -30,7 +30,7 @@ Indexed users: 59
 | 16 | [Mango-pomelo-sago](https://github.com/Mango-pomelo-sago) | Mango-pomelo-sago | Greenland | 77 |
 | 17 | [Naxela](https://github.com/Naxela) | Alexander Kleemann | Greenland | 67 |
 | 18 | [larpSTATGL](https://github.com/larpSTATGL) | Lars Pedersen | Nuuk, Greenland | 41 |
-| 19 | [johandavidsen](https://github.com/johandavidsen) | Jóhan Dam-Davidsen | Kalaallit Nunaat (Greenland) | 38 |
+| 19 | [johandavidsen](https://github.com/johandavidsen) | Jóhan Dam-Davidsen | Kalaallit Nunaat (Greenland) | 39 |
 | 20 | [Lamtipul](https://github.com/Lamtipul) | Lâm | Greenland | 38 |
 
 ## Public Contributions
@@ -83,4 +83,4 @@ Indexed users: 59
 | 19 | [yuzujam](https://github.com/yuzujam) | yuzujam | Nuuk,Greenland | 10 |
 | 20 | [DaniEstevezBarcia](https://github.com/DaniEstevezBarcia) | Daniel Estévez-Barcia | Greenland | 8 |
 
-Generated: 2026-10-16T13:02:44.403Z
+Generated: 2026-10-16T14:24:33.262Z

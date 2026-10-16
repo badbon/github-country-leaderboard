@@ -13,7 +13,7 @@ Indexed users: 11
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [elielMengue](https://github.com/elielMengue) | Eliel MENGUE | BANGUI | 1,354 |
-| 2 | [Nanobolide](https://github.com/Nanobolide) | Geoffroy Maidou | Remote ,Bangui , Centrafrique 🇨🇫 ; | 1,043 |
+| 2 | [Nanobolide](https://github.com/Nanobolide) | Geoffroy Maidou | Remote ,Bangui , Centrafrique 🇨🇫 ; | 1,047 |
 | 3 | [yann-bot](https://github.com/yann-bot) | Yann Dubois Ouafete | Bangui , CAR | 862 |
 | 4 | [Jerry-M-L](https://github.com/Jerry-M-L) | Jerry | Centrafrique,Bangui | 428 |
 | 5 | [nguereza-tony](https://github.com/nguereza-tony) | Tony NGUEREZA | Bangui | 227 |
@@ -47,8 +47,8 @@ Indexed users: 11
 | 1 | [elielMengue](https://github.com/elielMengue) | Eliel MENGUE | BANGUI | 23 |
 | 2 | [Nanobolide](https://github.com/Nanobolide) | Geoffroy Maidou | Remote ,Bangui , Centrafrique 🇨🇫 ; | 17 |
 | 3 | [nguereza-tony](https://github.com/nguereza-tony) | Tony NGUEREZA | Bangui | 9 |
-| 4 | [ikouecode](https://github.com/ikouecode) |  | Central African Republic | 6 |
-| 5 | [yadiOs-a-darel](https://github.com/yadiOs-a-darel) | Alphonso Darel | Bangui, Central African Republic | 6 |
+| 4 | [yadiOs-a-darel](https://github.com/yadiOs-a-darel) | Alphonso Darel | Bangui, Central African Republic | 7 |
+| 5 | [ikouecode](https://github.com/ikouecode) |  | Central African Republic | 6 |
 | 6 | [tacopola](https://github.com/tacopola) | polaDev | Bangui | 4 |
 | 7 | [Jerry-M-L](https://github.com/Jerry-M-L) | Jerry | Centrafrique,Bangui | 3 |
 | 8 | [yann-bot](https://github.com/yann-bot) | Yann Dubois Ouafete | Bangui , CAR | 2 |
@@ -56,4 +56,4 @@ Indexed users: 11
 | 10 | [josuehdasse](https://github.com/josuehdasse) | DASSE TE NGBOKOTA Josué Honoré | Bangui, République Centrafricaine | 1 |
 | 11 | [Zompire7](https://github.com/Zompire7) | Mahamat BENAMOU | Bangui | 1 |
 
-Generated: 2026-10-16T12:50:13.356Z
+Generated: 2026-10-16T14:11:37.006Z

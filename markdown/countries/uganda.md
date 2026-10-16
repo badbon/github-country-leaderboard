@@ -1,6 +1,6 @@
 # Uganda
 
-Indexed users: 3,872
+Indexed users: 3,871
 
 | Leaderboard | Link |
 |---|---|
@@ -31,7 +31,7 @@ Indexed users: 3,872
 | 17 | [baliksjosay](https://github.com/baliksjosay) | Joseph Balikuddembe | Kampala, uganda | 7,753 |
 | 18 | [judeotine](https://github.com/judeotine) | Judeotine | Uganda | 7,440 |
 | 19 | [cosmah](https://github.com/cosmah) | cosmah | kampala, Uganda | 7,177 |
-| 20 | [BrianPollar](https://github.com/BrianPollar) | Pollar Brian Okello | Kampala, Uganda | 6,811 |
+| 20 | [amkayondo](https://github.com/amkayondo) | Kayondo Edward | Kampala, Uganda | 7,153 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 3,872
 | 19 | [Kitemaggwa-Shafic](https://github.com/Kitemaggwa-Shafic) | Bin Profic | Kampala mengo, Najjanankumbi Ebb rd | 198 |
 | 20 | [kallyas](https://github.com/kallyas) | Iden | Uganda | 190 |
 
-Generated: 2026-10-16T12:30:46.386Z
+Generated: 2026-10-16T13:54:39.580Z

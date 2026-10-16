@@ -1,6 +1,6 @@
 # Followers - Gambia
 
-Generated: 2026-10-16T13:01:17.813Z
+Generated: 2026-10-16T14:22:32.162Z
 
 Users: 79
 
@@ -9,8 +9,8 @@ Users: 79
 | 1 | [laminbarrow](https://github.com/laminbarrow) | Lamin Barrow | LBarrow | laminbarrow | Bakoteh, Gambia | 36 |
 | 2 | [Sannabs](https://github.com/Sannabs) | Sanna BS Jammeh |  |  | Gambia banjul | 34 |
 | 3 | [deedevs](https://github.com/deedevs) | David Ladipo |  | davy0417 | Banjul, The Gambia | 26 |
-| 4 | [harunaabaldeh](https://github.com/harunaabaldeh) | Haruna A Baldeh | Kendesoft | farmerscoder | Banjul | 24 |
-| 5 | [kamariana](https://github.com/kamariana) | A Kamariana | @sisaydimba  | kamariana40 | Brikama, Gambia | 24 |
+| 4 | [kamariana](https://github.com/kamariana) | A Kamariana | @sisaydimba  | kamariana40 | Brikama, Gambia | 25 |
+| 5 | [harunaabaldeh](https://github.com/harunaabaldeh) | Haruna A Baldeh | Kendesoft | farmerscoder | Banjul | 24 |
 | 6 | [babasalieu360](https://github.com/babasalieu360) | Momodou Salieu Jallow |  | momodousalieu | Banjul, The Gambia | 16 |
 | 7 | [mathewharb](https://github.com/mathewharb) | Mathew Harb |  |  | Gambia | 16 |
 | 8 | [PaAmatJow](https://github.com/PaAmatJow) | Pa Amat Jow |  |  | Banjul, The Gambia. | 16 |

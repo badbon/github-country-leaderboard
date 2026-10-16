@@ -1,13 +1,13 @@
 # Followers - Angola
 
-Generated: 2026-10-16T12:39:29.834Z
+Generated: 2026-10-16T14:00:35.959Z
 
 Users: 2501
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [ismaely](https://github.com/ismaely) | Gunza Ismael | SofyNex |  | Luanda - Angola | 1030 |
-| 2 | [MarcioQuimbundo](https://github.com/MarcioQuimbundo) | Márcio Quimbundo | @ombank | marcioquimbundo | Luanda, Angola | 600 |
+| 2 | [MarcioQuimbundo](https://github.com/MarcioQuimbundo) | Márcio Quimbundo | @ombank | marcioquimbundo | Luanda, Angola | 604 |
 | 3 | [kurogai](https://github.com/kurogai) | Héber Júlio |  | kurogai_pwn | Luanda / Angola | 472 |
 | 4 | [EmenegildoMarques0](https://github.com/EmenegildoMarques0) | Emenegildo Marques | Eclipse Solutions |  | Angola, Luanda | 414 |
 | 5 | [JoseCage](https://github.com/JoseCage) | José Cage  |  | cagejose | Luanda, Angola | 406 |
@@ -21,8 +21,8 @@ Users: 2501
 | 13 | [trupakufi](https://github.com/trupakufi) | Mário Varela | Digital Boost | MrioVarela4 | Luanda, Angola | 205 |
 | 14 | [tchiinhemba](https://github.com/tchiinhemba) | Eládio Tchiinhemba | ASMARA HOLDINGS |  | Luanda - Angola | 181 |
 | 15 | [EufranioDiogo](https://github.com/EufranioDiogo) | Eufránio Diogo | Uija Code |  | Angola | 180 |
-| 16 | [cirilocanganjo](https://github.com/cirilocanganjo) | Cirilo Cussaca Canganjo |  | cirilocussaca | Luanda, Amgola | 170 |
-| 17 | [manuelernesto](https://github.com/manuelernesto) | Manuel Ernesto | Software Engineer | manuelernest0 | Angola | 165 |
-| 18 | [nazarepiedady](https://github.com/nazarepiedady) | Nazaré da Piedade | @vitejs, @vuejs-translations, @pythonpt, @javascript-tutorial | nazarepiedady | Angola | 164 |
+| 16 | [nazarepiedady](https://github.com/nazarepiedady) | Nazaré da Piedade | @vitejs, @vuejs-translations, @pythonpt, @javascript-tutorial | nazarepiedady | Angola | 171 |
+| 17 | [cirilocanganjo](https://github.com/cirilocanganjo) | Cirilo Cussaca Canganjo |  | cirilocussaca | Luanda, Amgola | 170 |
+| 18 | [manuelernesto](https://github.com/manuelernesto) | Manuel Ernesto | Software Engineer | manuelernest0 | Angola | 165 |
 | 19 | [jofranqueira](https://github.com/jofranqueira) | José Frangueira |  | Kanashiides | Angola | 160 |
 | 20 | [Jovanysfive](https://github.com/Jovanysfive) | Job Bento |  | Jovany_sfive1 | Angola/Luanda | 152 |

@@ -53,7 +53,7 @@ Indexed users: 1,578
 | 14 | [egil](https://github.com/egil) | Egil Hansen | Iceland | 1,580 |
 | 15 | [sandsower](https://github.com/sandsower) | Vic Valenzuela | Reykjavík, Iceland | 1,501 |
 | 16 | [bgunnarsson](https://github.com/bgunnarsson) | B. Gunnarsson | Iceland | 1,493 |
-| 17 | [gasvaktin](https://github.com/gasvaktin) | Gasvaktin | Iceland | 1,408 |
+| 17 | [gasvaktin](https://github.com/gasvaktin) | Gasvaktin | Iceland | 1,456 |
 | 18 | [gunnargestsson](https://github.com/gunnargestsson) | Gunnar Thor Gestsson | Iceland | 1,398 |
 | 19 | [zveinn](https://github.com/zveinn) | Sveinn ( keyb1nd ) | Iceland | 1,279 |
 | 20 | [Max77788](https://github.com/Max77788) | Max Mat | Iceland | 1,261 |
@@ -83,4 +83,4 @@ Indexed users: 1,578
 | 19 | [jokull](https://github.com/jokull) | Jökull Sólberg Auðunsson | Reykjavík, Iceland | 209 |
 | 20 | [sbsigur](https://github.com/sbsigur) | Sævar Bergur Sigurgeirsson | Iceland | 203 |
 
-Generated: 2026-10-16T13:07:57.405Z
+Generated: 2026-10-16T14:28:25.828Z

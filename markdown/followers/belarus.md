@@ -1,8 +1,8 @@
 # Followers - Belarus
 
-Generated: 2026-10-16T12:43:00.745Z
+Generated: 2026-10-16T14:05:40.822Z
 
-Users: 10938
+Users: 10937
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -25,4 +25,4 @@ Users: 10938
 | 17 | [Semigradsky](https://github.com/Semigradsky) | Dmitry Semigradsky |  |  | Minsk, Belarus | 188 |
 | 18 | [Cvazer](https://github.com/Cvazer) | Cvazer |  |  | Belarus, Minsk | 184 |
 | 19 | [dillidon](https://github.com/dillidon) | RV | diip.tech |  | Belarus | 183 |
-| 20 | [OlegEgoism](https://github.com/OlegEgoism) | OlegEgoism |  ITec, GHU, CBT |  | Belarus, Minsk | 175 |
+| 20 | [alexzhirkevich](https://github.com/alexzhirkevich) | Alexander Zhirkevich |  |  | Belarus, Minsk | 161 |

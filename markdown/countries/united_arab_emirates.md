@@ -1,6 +1,6 @@
 # United Arab Emirates
 
-Indexed users: 4,230
+Indexed users: 4,229
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 4,230
 | 19 | [FrayxRulez](https://github.com/FrayxRulez) | Fela | Dubai, United Arab Emirates | 366 |
 | 20 | [yusufusta](https://github.com/yusufusta) | Yusuf Usta | Dubai, United Arab Emirates | 361 |
 
-Generated: 2026-10-16T12:31:22.284Z
+Generated: 2026-10-16T13:54:45.472Z

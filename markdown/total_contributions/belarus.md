@@ -1,8 +1,8 @@
 # Total Contributions - Belarus
 
-Generated: 2026-10-16T12:43:00.745Z
+Generated: 2026-10-16T14:05:40.822Z
 
-Users: 10938
+Users: 10937
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -10,9 +10,9 @@ Users: 10938
 | 2 | [AndreiDrang](https://github.com/AndreiDrang) | Andrei | Home |  | Minsk | 14416 |
 | 3 | [masasibata](https://github.com/masasibata) | Artem |  |  | Belarus | 12224 |
 | 4 | [jakwuh](https://github.com/jakwuh) | James | Neattech.io |  | Belarus | 11999 |
-| 5 | [KonstantinSerebryakov](https://github.com/KonstantinSerebryakov) | Konstantin Serebryakov | Looking for JavaScript job |  | Minsk, Belarus | 10667 |
-| 6 | [dzmitrys-dev](https://github.com/dzmitrys-dev) | Dzmitry Sukhau |  |  | Belarus, Minsk | 10259 |
-| 7 | [fxpw](https://github.com/fxpw) | fxpw | Sherpa RPA |  | Belarus | 9448 |
+| 5 | [fxpw](https://github.com/fxpw) | fxpw | Sherpa RPA |  | Belarus | 11718 |
+| 6 | [KonstantinSerebryakov](https://github.com/KonstantinSerebryakov) | Konstantin Serebryakov | Looking for JavaScript job |  | Minsk, Belarus | 10667 |
+| 7 | [dzmitrys-dev](https://github.com/dzmitrys-dev) | Dzmitry Sukhau |  |  | Belarus, Minsk | 10259 |
 | 8 | [omuteqq](https://github.com/omuteqq) | Иван |  |  | Minsk, Belarus | 7527 |
 | 9 | [iamsphere](https://github.com/iamsphere) | Vladislav | FRAKT |  | Belarus, Minsk | 6414 |
 | 10 | [NikolayNN](https://github.com/NikolayNN) | Nikolay |  |  | Minsk | 6267 |

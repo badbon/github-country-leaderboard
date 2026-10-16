@@ -1,6 +1,6 @@
 # Belarus
 
-Indexed users: 10,938
+Indexed users: 10,937
 
 | Leaderboard | Link |
 |---|---|
@@ -16,9 +16,9 @@ Indexed users: 10,938
 | 2 | [AndreiDrang](https://github.com/AndreiDrang) | Andrei | Minsk | 14,416 |
 | 3 | [masasibata](https://github.com/masasibata) | Artem | Belarus | 12,224 |
 | 4 | [jakwuh](https://github.com/jakwuh) | James | Belarus | 11,999 |
-| 5 | [KonstantinSerebryakov](https://github.com/KonstantinSerebryakov) | Konstantin Serebryakov | Minsk, Belarus | 10,667 |
-| 6 | [dzmitrys-dev](https://github.com/dzmitrys-dev) | Dzmitry Sukhau | Belarus, Minsk | 10,259 |
-| 7 | [fxpw](https://github.com/fxpw) | fxpw | Belarus | 9,448 |
+| 5 | [fxpw](https://github.com/fxpw) | fxpw | Belarus | 11,718 |
+| 6 | [KonstantinSerebryakov](https://github.com/KonstantinSerebryakov) | Konstantin Serebryakov | Minsk, Belarus | 10,667 |
+| 7 | [dzmitrys-dev](https://github.com/dzmitrys-dev) | Dzmitry Sukhau | Belarus, Minsk | 10,259 |
 | 8 | [omuteqq](https://github.com/omuteqq) | Иван | Minsk, Belarus | 7,527 |
 | 9 | [iamsphere](https://github.com/iamsphere) | Vladislav | Belarus, Minsk | 6,414 |
 | 10 | [NikolayNN](https://github.com/NikolayNN) | Nikolay | Minsk | 6,267 |
@@ -81,6 +81,6 @@ Indexed users: 10,938
 | 17 | [Semigradsky](https://github.com/Semigradsky) | Dmitry Semigradsky | Minsk, Belarus | 188 |
 | 18 | [Cvazer](https://github.com/Cvazer) | Cvazer | Belarus, Minsk | 184 |
 | 19 | [dillidon](https://github.com/dillidon) | RV | Belarus | 183 |
-| 20 | [OlegEgoism](https://github.com/OlegEgoism) | OlegEgoism | Belarus, Minsk | 175 |
+| 20 | [alexzhirkevich](https://github.com/alexzhirkevich) | Alexander Zhirkevich | Belarus, Minsk | 161 |
 
-Generated: 2026-10-16T12:43:00.745Z
+Generated: 2026-10-16T14:05:40.822Z

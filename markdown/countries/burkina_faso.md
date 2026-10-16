@@ -1,6 +1,6 @@
 # Burkina Faso
 
-Indexed users: 487
+Indexed users: 486
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 487
 | 19 | [sokevinjonas](https://github.com/sokevinjonas) | SO Kevin Jonas Gningnabe | BURKINA FASO | 38 |
 | 20 | [kulturman](https://github.com/kulturman) | Arnaud Bakyono  | Ouagadougou | 37 |
 
-Generated: 2026-10-16T12:47:58.837Z
+Generated: 2026-10-16T14:08:35.727Z

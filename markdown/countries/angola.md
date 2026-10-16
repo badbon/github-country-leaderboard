@@ -63,7 +63,7 @@ Indexed users: 2,501
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [ismaely](https://github.com/ismaely) | Gunza Ismael | Luanda - Angola | 1,030 |
-| 2 | [MarcioQuimbundo](https://github.com/MarcioQuimbundo) | Márcio Quimbundo | Luanda, Angola | 600 |
+| 2 | [MarcioQuimbundo](https://github.com/MarcioQuimbundo) | Márcio Quimbundo | Luanda, Angola | 604 |
 | 3 | [kurogai](https://github.com/kurogai) | Héber Júlio | Luanda / Angola | 472 |
 | 4 | [EmenegildoMarques0](https://github.com/EmenegildoMarques0) | Emenegildo Marques | Angola, Luanda | 414 |
 | 5 | [JoseCage](https://github.com/JoseCage) | José Cage  | Luanda, Angola | 406 |
@@ -77,10 +77,10 @@ Indexed users: 2,501
 | 13 | [trupakufi](https://github.com/trupakufi) | Mário Varela | Luanda, Angola | 205 |
 | 14 | [tchiinhemba](https://github.com/tchiinhemba) | Eládio Tchiinhemba | Luanda - Angola | 181 |
 | 15 | [EufranioDiogo](https://github.com/EufranioDiogo) | Eufránio Diogo | Angola | 180 |
-| 16 | [cirilocanganjo](https://github.com/cirilocanganjo) | Cirilo Cussaca Canganjo | Luanda, Amgola | 170 |
-| 17 | [manuelernesto](https://github.com/manuelernesto) | Manuel Ernesto | Angola | 165 |
-| 18 | [nazarepiedady](https://github.com/nazarepiedady) | Nazaré da Piedade | Angola | 164 |
+| 16 | [nazarepiedady](https://github.com/nazarepiedady) | Nazaré da Piedade | Angola | 171 |
+| 17 | [cirilocanganjo](https://github.com/cirilocanganjo) | Cirilo Cussaca Canganjo | Luanda, Amgola | 170 |
+| 18 | [manuelernesto](https://github.com/manuelernesto) | Manuel Ernesto | Angola | 165 |
 | 19 | [jofranqueira](https://github.com/jofranqueira) | José Frangueira | Angola | 160 |
 | 20 | [Jovanysfive](https://github.com/Jovanysfive) | Job Bento | Angola/Luanda | 152 |
 
-Generated: 2026-10-16T12:39:29.834Z
+Generated: 2026-10-16T14:00:35.959Z
