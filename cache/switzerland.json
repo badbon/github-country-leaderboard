@@ -25958,13 +25958,13 @@
   {
     "login": "nickmoos",
     "name": "Nick Moos",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/101193443?s=72&u=9e2553e0d8385e3f8462e1ec36c905c297b21506&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/101193443?s=72&u=6be353d70b4e9d5ef1d615bd7995fe1bf6348187&v=4",
     "location": "Switzerland",
-    "company": "exanic AG",
+    "company": "Lucerne University of Applied Sciences and Arts",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 15,
-    "publicContributions": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
     "createdAt": "2022-03-08T13:52:21Z"
   },
   {
@@ -25988,7 +25988,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 2,
     "createdAt": "2022-03-10T05:02:20Z"
   },
   {
@@ -26041,27 +26041,15 @@
   },
   {
     "login": "YusufFiliz95",
-    "name": "Yusuf Filiz",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/107615793?s=72&u=562ad2019af7d50d2372ec09b67d0f6aad2cfdd5&v=4",
+    "name": "Y_Fx",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/107615793?s=72&v=4",
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 13,
     "createdAt": "2022-06-16T09:09:00Z"
-  },
-  {
-    "login": "riddhamanna",
-    "name": "Riddha Manna",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/108088634?s=72&u=95b20012e73cc36162efb06a6fdfbd3e982b56b5&v=4",
-    "location": "Lausanne, Switzerland",
-    "company": "EPFL",
-    "twitterUsername": "RiddhaManna",
-    "followers": 3,
-    "privateContributions": 82,
-    "publicContributions": 1,
-    "createdAt": "2022-06-23T17:27:06Z"
   },
   {
     "login": "tyl3r-ch",
@@ -26071,8 +26059,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 1696,
-    "publicContributions": 544,
+    "privateContributions": 3923,
+    "publicContributions": 586,
     "createdAt": "2022-03-04T21:17:58Z"
   },
   {
@@ -26084,7 +26072,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 190,
+    "publicContributions": 135,
     "createdAt": "2022-04-19T12:36:48Z"
   },
   {
@@ -26095,8 +26083,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 42,
+    "privateContributions": 23,
+    "publicContributions": 2,
     "createdAt": "2022-03-11T13:34:30Z"
   },
   {
@@ -26108,7 +26096,7 @@
     "twitterUsername": "Nsoendergaard",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 89,
+    "publicContributions": 138,
     "createdAt": "2022-02-28T10:28:31Z"
   },
   {
@@ -26118,7 +26106,7 @@
     "location": "Lausanne, Switzerland",
     "company": "AUTH · Computational Materials Physics",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 14,
     "createdAt": "2022-02-22T21:31:12Z"
@@ -26143,8 +26131,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 308,
-    "publicContributions": 1,
+    "privateContributions": 249,
+    "publicContributions": 35,
     "createdAt": "2022-04-04T08:36:11Z"
   },
   {
@@ -26155,7 +26143,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 5,
+    "privateContributions": 1,
     "publicContributions": 3,
     "createdAt": "2022-03-31T10:25:56Z"
   },
@@ -26190,9 +26178,9 @@
     "location": "Switzerland, Rorschacherberg",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 300,
+    "publicContributions": 320,
     "createdAt": "2022-05-15T05:16:49Z"
   },
   {

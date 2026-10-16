@@ -26384,7 +26384,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 152,
+    "publicContributions": 6,
     "createdAt": "2022-07-03T10:27:22Z"
   },
   {
@@ -26394,9 +26394,9 @@
     "location": "Athens, Greece",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 82,
+    "publicContributions": 102,
     "createdAt": "2022-02-22T19:04:58Z"
   },
   {
@@ -26418,9 +26418,9 @@
     "location": "Greece",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 6327,
-    "publicContributions": 477,
+    "followers": 5,
+    "privateContributions": 11769,
+    "publicContributions": 483,
     "createdAt": "2022-07-06T08:15:17Z"
   },
   {
@@ -26443,7 +26443,7 @@
     "company": "DIT - University of Athens",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 141,
+    "privateContributions": 138,
     "publicContributions": 191,
     "createdAt": "2022-03-10T07:14:37Z"
   },
@@ -26456,20 +26456,8 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 15,
     "createdAt": "2022-02-05T14:18:50Z"
-  },
-  {
-    "login": "vvasileios",
-    "name": "Vasileios Vasileiadis",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/100437801?s=72&u=e94e8489a408df2870fddd9b94173676a528cee2&v=4",
-    "location": "Thessaloniki, Greece",
-    "company": "Stellar Blue",
-    "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 31,
-    "publicContributions": 0,
-    "createdAt": "2022-02-25T17:41:16Z"
   },
   {
     "login": "danaiballa",
@@ -26479,7 +26467,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 268,
+    "privateContributions": 207,
     "publicContributions": 0,
     "createdAt": "2022-04-19T10:24:40Z"
   },
@@ -26491,7 +26479,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 1892,
+    "privateContributions": 2907,
     "publicContributions": 34,
     "createdAt": "2022-07-09T12:39:26Z"
   },
@@ -26503,7 +26491,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 27,
+    "privateContributions": 23,
     "publicContributions": 0,
     "createdAt": "2022-06-15T10:26:41Z"
   },
@@ -26539,7 +26527,7 @@
     "company": "Computer Science, UoA",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 356,
+    "privateContributions": 348,
     "publicContributions": 2,
     "createdAt": "2022-03-03T09:33:31Z"
   },
@@ -26552,7 +26540,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 34,
     "createdAt": "2022-01-12T21:45:03Z"
   },
   {
@@ -26574,9 +26562,9 @@
     "location": "Athens,Greece",
     "company": "Software Engineer at OCM Digital Media",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 535,
-    "publicContributions": 2,
+    "followers": 6,
+    "privateContributions": 553,
+    "publicContributions": 0,
     "createdAt": "2022-10-29T17:31:57Z"
   },
   {
@@ -26587,7 +26575,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 2270,
+    "privateContributions": 2804,
     "publicContributions": 1,
     "createdAt": "2022-10-12T11:30:41Z"
   },

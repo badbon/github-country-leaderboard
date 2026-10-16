@@ -26216,7 +26216,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 2,
     "createdAt": "2022-08-30T12:00:32Z"
   },
   {
@@ -26239,7 +26239,7 @@
     "company": "@RefineStudio ",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 49,
+    "privateContributions": 170,
     "publicContributions": 5,
     "createdAt": "2022-10-31T07:26:13Z"
   },
@@ -26250,9 +26250,9 @@
     "location": "Ireland",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 202,
-    "publicContributions": 218,
+    "followers": 2,
+    "privateContributions": 100,
+    "publicContributions": 115,
     "createdAt": "2022-06-12T11:57:28Z"
   },
   {
@@ -26323,7 +26323,7 @@
     "company": "UCC",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 15,
+    "privateContributions": 68,
     "publicContributions": 3,
     "createdAt": "2022-02-07T11:20:14Z"
   },
@@ -26336,20 +26336,8 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2022-05-23T05:49:37Z"
-  },
-  {
-    "login": "lukekeely",
-    "name": "Luke Keely",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/109596042?s=72&u=bc3f5ac453614f81aefbd9238e865d26c3b01d5c&v=4",
-    "location": "Dublin, Ireland",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 5,
-    "createdAt": "2022-07-19T11:50:52Z"
   },
   {
     "login": "MoniMurray",
@@ -26372,7 +26360,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 31,
+    "publicContributions": 33,
     "createdAt": "2022-12-08T15:25:22Z"
   },
   {
@@ -26384,7 +26372,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 2,
     "createdAt": "2022-02-10T20:27:32Z"
   },
   {
@@ -26395,7 +26383,7 @@
     "company": "@Mastercard",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 378,
+    "privateContributions": 413,
     "publicContributions": 136,
     "createdAt": "2022-10-07T16:24:29Z"
   },

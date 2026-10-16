@@ -26660,7 +26660,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 3,
     "createdAt": "2017-11-15T19:44:35Z"
   },
   {
@@ -26676,27 +26676,15 @@
     "createdAt": "2017-01-07T02:18:49Z"
   },
   {
-    "login": "cmats",
-    "name": "Carlos Mats",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/25272126?s=72&u=b7aa6d7eaf953a509298773a2e04e1e573a9a0a6&v=4",
-    "location": "Guatemala",
-    "company": "@IKA-Platform @Xchematic",
-    "twitterUsername": "carlosmats_",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2017-01-21T21:58:24Z"
-  },
-  {
     "login": "mcatalangt",
     "name": "Marco Catalán",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/33099409?s=72&u=4e94d7135494b30bf559b9f70eb7fb53dd2156bb&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/33099409?s=72&u=506127d4ce8268d2ad12bb2cc9c489a91991108f&v=4",
     "location": "Guatemala",
-    "company": "Xsystems  + SRE and Data Engineer",
+    "company": "Platform Engineer",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 832,
+    "publicContributions": 698,
     "createdAt": "2017-10-25T16:59:40Z"
   },
   {
@@ -26732,7 +26720,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 0,
     "createdAt": "2017-06-01T16:08:35Z"
   },
   {
@@ -26754,8 +26742,8 @@
     "location": "Guatemala",
     "company": "",
     "twitterUsername": "un_tipazo_",
-    "followers": 1,
-    "privateContributions": 0,
+    "followers": 2,
+    "privateContributions": 4,
     "publicContributions": 0,
     "createdAt": "2017-01-17T18:22:41Z"
   },
@@ -26815,8 +26803,8 @@
     "company": "",
     "twitterUsername": "SauALopez",
     "followers": 1,
-    "privateContributions": 427,
-    "publicContributions": 19,
+    "privateContributions": 599,
+    "publicContributions": 23,
     "createdAt": "2017-04-21T20:25:21Z"
   },
   {
@@ -26839,7 +26827,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 111,
+    "privateContributions": 126,
     "publicContributions": 41,
     "createdAt": "2017-10-25T12:34:52Z"
   },
@@ -26887,8 +26875,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 13,
+    "privateContributions": 86,
+    "publicContributions": 120,
     "createdAt": "2017-01-12T19:26:11Z"
   },
   {

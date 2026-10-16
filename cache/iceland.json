@@ -7218,9 +7218,9 @@
     "location": "Iceland",
     "company": "Sókrates",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 6286,
-    "publicContributions": 1020,
+    "followers": 6,
+    "privateContributions": 6331,
+    "publicContributions": 1144,
     "createdAt": "2016-01-20T12:36:15Z"
   },
   {
@@ -7231,14 +7231,14 @@
     "company": "Advania",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 837,
+    "privateContributions": 854,
     "publicContributions": 0,
     "createdAt": "2016-11-28T11:20:32Z"
   },
   {
     "login": "hjaltiatla",
     "name": "Hjalti Geir Atlason",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/16501659?s=72&u=b160fe517506d41f802ca0a239ff50f6db767f27&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16501659?s=72&u=52b132d752f7d4b314a4f844187b733d257bd06e&v=4",
     "location": "Reykjavik, Iceland",
     "company": "",
     "twitterUsername": "",
@@ -7268,7 +7268,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 79,
+    "publicContributions": 75,
     "createdAt": "2016-12-12T01:13:17Z"
   },
   {
@@ -7327,7 +7327,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 391,
+    "privateContributions": 394,
     "publicContributions": 0,
     "createdAt": "2016-03-20T23:33:07Z"
   },
@@ -7339,7 +7339,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 19,
+    "privateContributions": 60,
     "publicContributions": 5,
     "createdAt": "2016-07-06T03:10:35Z"
   },
@@ -7387,7 +7387,7 @@
     "company": "Advania",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 582,
+    "privateContributions": 945,
     "publicContributions": 3,
     "createdAt": "2016-11-21T14:17:51Z"
   },

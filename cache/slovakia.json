@@ -26060,7 +26060,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 10,
     "createdAt": "2018-11-17T07:34:46Z"
   },
   {
@@ -26082,7 +26082,7 @@
     "location": "Bratislava",
     "company": "US Steel, Kosice",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2018-10-16T17:18:54Z"
@@ -26090,13 +26090,13 @@
   {
     "login": "tom-korec",
     "name": "Tomáš Korec",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/40210869?s=72&u=0922af19c968f9910fbdd03115d2e8f09fb85fcc&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/40210869?s=72&u=5053c6d41abcf905b800a3b6ea77edb2b8aae920&v=4",
     "location": "Bratislava",
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 4,
-    "publicContributions": 5,
+    "privateContributions": 55,
+    "publicContributions": 118,
     "createdAt": "2018-06-12T16:15:06Z"
   },
   {
@@ -26106,9 +26106,9 @@
     "location": "Žilina, Bratislava",
     "company": "FRI UNIZA",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 536,
-    "publicContributions": 734,
+    "followers": 3,
+    "privateContributions": 916,
+    "publicContributions": 740,
     "createdAt": "2018-11-08T22:21:08Z"
   },
   {
@@ -26120,7 +26120,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 4,
     "createdAt": "2018-02-05T20:07:15Z"
   },
   {
@@ -26144,7 +26144,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 7,
     "createdAt": "2018-04-26T08:00:35Z"
   },
   {
@@ -26155,8 +26155,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 857,
-    "publicContributions": 213,
+    "privateContributions": 1062,
+    "publicContributions": 212,
     "createdAt": "2018-09-03T09:23:48Z"
   },
   {
@@ -26192,7 +26192,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2018-09-15T15:17:13Z"
   },
   {
@@ -26228,7 +26228,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 19,
     "createdAt": "2018-05-22T22:56:48Z"
   },
   {
@@ -26263,8 +26263,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 305,
-    "publicContributions": 18,
+    "privateContributions": 333,
+    "publicContributions": 26,
     "createdAt": "2018-10-19T17:21:43Z"
   },
   {

@@ -26228,7 +26228,7 @@
     "twitterUsername": "",
     "followers": 61,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2014-04-03T16:52:53Z"
   },
   {
@@ -26238,9 +26238,9 @@
     "location": "Ljubljana",
     "company": "",
     "twitterUsername": "",
-    "followers": 55,
+    "followers": 56,
     "privateContributions": 1,
-    "publicContributions": 47,
+    "publicContributions": 43,
     "createdAt": "2014-08-03T09:55:19Z"
   },
   {
@@ -26251,8 +26251,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 48,
-    "privateContributions": 3568,
-    "publicContributions": 115,
+    "privateContributions": 3360,
+    "publicContributions": 148,
     "createdAt": "2014-10-05T14:49:41Z"
   },
   {
@@ -26263,7 +26263,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 42,
-    "privateContributions": 7,
+    "privateContributions": 6,
     "publicContributions": 0,
     "createdAt": "2014-01-28T11:43:58Z"
   },
@@ -26287,8 +26287,8 @@
     "company": "ox.ac.uk",
     "twitterUsername": "",
     "followers": 24,
-    "privateContributions": 183,
-    "publicContributions": 2581,
+    "privateContributions": 180,
+    "publicContributions": 3035,
     "createdAt": "2014-06-02T16:09:16Z"
   },
   {
@@ -26310,7 +26310,7 @@
     "location": "Ljubljana",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 11,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-07-09T10:07:34Z"
@@ -26323,7 +26323,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 19,
+    "privateContributions": 136,
     "publicContributions": 1,
     "createdAt": "2014-08-04T11:27:01Z"
   },
@@ -26335,21 +26335,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 3,
+    "privateContributions": 4,
     "publicContributions": 0,
     "createdAt": "2014-11-06T21:24:45Z"
-  },
-  {
-    "login": "kocbek",
-    "name": "Jan Kocbek",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/9005477?s=72&u=1614089fee803fe956ce7dc63a63a215422f2906&v=4",
-    "location": "Ljubljana, Slovenija",
-    "company": "Actual I.T.",
-    "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2014-10-03T06:59:44Z"
   },
   {
     "login": "sbtlaarzc",

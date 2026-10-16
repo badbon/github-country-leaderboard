@@ -1928,7 +1928,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-10-15T14:14:04Z"
   },
   {
@@ -1963,8 +1963,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 67,
-    "publicContributions": 12,
+    "privateContributions": 86,
+    "publicContributions": 13,
     "createdAt": "2025-02-01T15:56:42Z"
   },
   {
@@ -2000,7 +2000,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 123,
+    "publicContributions": 127,
     "createdAt": "2025-03-18T05:58:34Z"
   },
   {
@@ -2024,7 +2024,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 5,
     "createdAt": "2025-09-08T05:25:48Z"
   },
   {
@@ -2042,12 +2042,12 @@
   {
     "login": "Zabepro",
     "name": "MCHOWERA, ISSA AHMADI",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/207369724?s=72&u=99f7357ad289240944c3c918c8a914bacaf51834&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/207369724?s=72&u=f3f0d71d45ac4e0a547aa19b983dc8f66d4ebc8c&v=4",
     "location": "Dar es Salaam, Tanzania",
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 579,
+    "privateContributions": 622,
     "publicContributions": 10,
     "createdAt": "2025-04-12T18:53:29Z"
   },
@@ -2058,9 +2058,9 @@
     "location": "University of dodoma ",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 13,
     "privateContributions": 29,
-    "publicContributions": 84,
+    "publicContributions": 87,
     "createdAt": "2025-04-04T04:43:34Z"
   },
   {
@@ -2130,9 +2130,9 @@
     "location": "Dodoma-Tanzania",
     "company": "TarXemo",
     "twitterUsername": "",
-    "followers": 409,
-    "privateContributions": 11369,
-    "publicContributions": 794,
+    "followers": 406,
+    "privateContributions": 11124,
+    "publicContributions": 403,
     "createdAt": "2024-10-02T09:33:10Z"
   },
   {
