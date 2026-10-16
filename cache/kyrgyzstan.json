@@ -25495,7 +25495,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 641,
+    "privateContributions": 612,
     "publicContributions": 16,
     "createdAt": "2016-11-03T10:22:16Z"
   },
@@ -25530,7 +25530,7 @@
     "location": "Bishkek",
     "company": "ČVUT",
     "twitterUsername": "alpkarakush",
-    "followers": 30,
+    "followers": 17,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-11-01T14:18:33Z"
@@ -25542,9 +25542,9 @@
     "location": "Bishkek",
     "company": "",
     "twitterUsername": "",
-    "followers": 19,
-    "privateContributions": 441,
-    "publicContributions": 3,
+    "followers": 21,
+    "privateContributions": 214,
+    "publicContributions": 8,
     "createdAt": "2016-03-16T16:34:03Z"
   },
   {
@@ -25556,7 +25556,7 @@
     "twitterUsername": "",
     "followers": 15,
     "privateContributions": 991,
-    "publicContributions": 206,
+    "publicContributions": 195,
     "createdAt": "2016-04-22T18:14:43Z"
   },
   {
@@ -25568,7 +25568,7 @@
     "twitterUsername": "",
     "followers": 14,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 7,
     "createdAt": "2016-12-08T19:35:09Z"
   },
   {
@@ -25590,22 +25590,10 @@
     "location": "Bishkek",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 10,
     "createdAt": "2016-08-03T12:27:08Z"
-  },
-  {
-    "login": "Esgeri",
-    "name": "Mirbek Askerov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/19298878?s=72&u=8a44ee7fdf641a13424bdf1c3900faa4ff6f22cb&v=4",
-    "location": "Kyrghyz Republic, Bishkek",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2016-05-11T04:14:43Z"
   },
   {
     "login": "erlanamanatov",
@@ -25615,7 +25603,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 15,
+    "privateContributions": 8,
     "publicContributions": 0,
     "createdAt": "2016-07-12T10:06:31Z"
   },
@@ -25627,8 +25615,8 @@
     "company": "@InobiLLC, @AvisaTechnologies",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 3,
-    "publicContributions": 327,
+    "privateContributions": 6,
+    "publicContributions": 332,
     "createdAt": "2016-06-14T09:16:52Z"
   },
   {

@@ -25232,7 +25232,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2023-04-05T21:49:16Z"
   },
   {
@@ -25243,7 +25243,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 346,
+    "privateContributions": 322,
     "publicContributions": 0,
     "createdAt": "2023-04-21T14:36:34Z"
   },
@@ -25256,7 +25256,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 9,
     "createdAt": "2023-03-06T01:42:26Z"
   },
   {
@@ -25266,8 +25266,8 @@
     "location": "Morocco",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 71,
+    "followers": 5,
+    "privateContributions": 5,
     "publicContributions": 0,
     "createdAt": "2023-05-01T16:45:37Z"
   },
@@ -25302,33 +25302,21 @@
     "location": "Morocco ",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 245,
-    "publicContributions": 297,
+    "followers": 5,
+    "privateContributions": 259,
+    "publicContributions": 231,
     "createdAt": "2023-06-04T15:41:34Z"
-  },
-  {
-    "login": "iammohcinefrikh",
-    "name": "Mohcine Frikh",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/136759127?s=72&v=4",
-    "location": "Morocco",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2023-06-15T21:35:25Z"
   },
   {
     "login": "lkiwan",
     "name": "omar arhoune",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/128224433?s=72&u=c0c6a2c0fa4cc704b8fa2906fc009404523b59c4&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/128224433?s=72&u=6d61478c90e79d066e34a645f0f07721544d7509&v=4",
     "location": "Casablanca, Morocco",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 7,
-    "publicContributions": 31,
+    "followers": 6,
+    "privateContributions": 4,
+    "publicContributions": 51,
     "createdAt": "2023-03-18T10:46:15Z"
   },
   {
@@ -25350,8 +25338,8 @@
     "location": "Morocco",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 393,
+    "followers": 5,
+    "privateContributions": 198,
     "publicContributions": 0,
     "createdAt": "2023-03-03T09:36:27Z"
   },
@@ -25388,7 +25376,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 35,
+    "publicContributions": 33,
     "createdAt": "2023-04-04T19:59:35Z"
   },
   {
@@ -25398,20 +25386,20 @@
     "location": "Morocco, Casablanca",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 26,
-    "publicContributions": 175,
+    "followers": 5,
+    "privateContributions": 19,
+    "publicContributions": 318,
     "createdAt": "2023-04-08T22:16:07Z"
   },
   {
     "login": "FatimaEz-zahraaAIT-HSSAIN",
     "name": "AIT-HSSAIN Fatima Ez-zahraa",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/124906725?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/124906725?s=72&u=e572a3310c6689308fbd857c0c8a8a314e1aa98b&v=4",
     "location": "Morocco",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 1113,
+    "followers": 5,
+    "privateContributions": 1112,
     "publicContributions": 146,
     "createdAt": "2023-02-09T15:40:59Z"
   },
@@ -25459,8 +25447,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 79,
-    "publicContributions": 18,
+    "privateContributions": 81,
+    "publicContributions": 11,
     "createdAt": "2023-03-17T15:30:54Z"
   },
   {

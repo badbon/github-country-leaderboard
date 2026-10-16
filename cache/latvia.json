@@ -25207,7 +25207,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 2,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-09-23T22:03:52Z"
   },
@@ -25291,7 +25291,7 @@
     "company": "@beetrootlab",
     "twitterUsername": "speekadievs",
     "followers": 1,
-    "privateContributions": 82,
+    "privateContributions": 80,
     "publicContributions": 0,
     "createdAt": "2015-07-26T15:39:05Z"
   },
@@ -25304,19 +25304,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 106,
+    "publicContributions": 109,
     "createdAt": "2015-12-05T06:23:58Z"
   },
   {
     "login": "alexlvcom",
-    "name": "Alexander",
+    "name": "Alex LV",
     "avatarUrl": "https://avatars.githubusercontent.com/u/15180771?s=72&u=a62980a1fe30db23e0ad6d0a8d584617e6741e4d&v=4",
     "location": "Riga, Latvia",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 45,
+    "publicContributions": 80,
     "createdAt": "2015-10-18T11:50:37Z"
   },
   {
@@ -25398,7 +25398,7 @@
     "location": "Latvia, Riga",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-05-26T21:41:05Z"
@@ -25423,8 +25423,8 @@
     "company": "@Miittech",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 920,
-    "publicContributions": 33,
+    "privateContributions": 1163,
+    "publicContributions": 51,
     "createdAt": "2015-09-28T13:04:04Z"
   },
   {

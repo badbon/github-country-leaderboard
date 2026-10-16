@@ -25592,7 +25592,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2022-02-25T14:32:07Z"
   },
   {
@@ -25604,7 +25604,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 229,
+    "publicContributions": 211,
     "createdAt": "2022-05-24T16:50:55Z"
   },
   {
@@ -25628,7 +25628,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 59,
+    "publicContributions": 318,
     "createdAt": "2022-04-10T10:22:58Z"
   },
   {
@@ -25698,9 +25698,9 @@
     "location": "Romania",
     "company": "",
     "twitterUsername": "rodut_eleven",
-    "followers": 2,
-    "privateContributions": 37,
-    "publicContributions": 164,
+    "followers": 3,
+    "privateContributions": 31,
+    "publicContributions": 98,
     "createdAt": "2022-07-11T17:30:44Z"
   },
   {
@@ -25712,7 +25712,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 28,
     "createdAt": "2022-05-27T14:39:17Z"
   },
   {
@@ -25724,7 +25724,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2022-08-05T21:57:56Z"
   },
   {
@@ -25748,7 +25748,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 5,
     "createdAt": "2022-09-07T16:38:39Z"
   },
   {
@@ -25759,7 +25759,7 @@
     "company": "Fintech",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 89,
+    "privateContributions": 93,
     "publicContributions": 35,
     "createdAt": "2022-01-15T16:26:34Z"
   },
@@ -25767,11 +25767,11 @@
     "login": "cristibercea",
     "name": "Bercea Cristian",
     "avatarUrl": "https://avatars.githubusercontent.com/u/101464511?s=72&u=d3b1b0ad8270c0a5bd6f39e5094825ae0614a1c3&v=4",
-    "location": "Romania, Oradea / Cluj-Napoca",
+    "location": "Sweden, Stockholm / Romania, Oradea",
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 5,
+    "privateContributions": 2,
     "publicContributions": 125,
     "createdAt": "2022-03-12T14:19:12Z"
   },
@@ -25782,9 +25782,9 @@
     "location": "Romania",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 56,
+    "publicContributions": 55,
     "createdAt": "2022-11-11T14:51:57Z"
   },
   {
@@ -25807,7 +25807,7 @@
     "company": "Yalos Software Labs",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 468,
+    "privateContributions": 467,
     "publicContributions": 0,
     "createdAt": "2022-11-07T07:06:32Z"
   },
