@@ -26467,7 +26467,7 @@
     "company": "TEAATE",
     "twitterUsername": "",
     "followers": 39,
-    "privateContributions": 107,
+    "privateContributions": 90,
     "publicContributions": 1,
     "createdAt": "2020-04-24T06:10:36Z"
   },
@@ -26478,9 +26478,9 @@
     "location": "Christchurch, New Zealand",
     "company": "CodeTheory",
     "twitterUsername": "",
-    "followers": 35,
-    "privateContributions": 690,
-    "publicContributions": 3304,
+    "followers": 38,
+    "privateContributions": 1809,
+    "publicContributions": 3149,
     "createdAt": "2020-03-16T04:56:33Z"
   },
   {
@@ -26490,9 +26490,9 @@
     "location": "Wellington, New Zealand",
     "company": "Software developer",
     "twitterUsername": "",
-    "followers": 35,
-    "privateContributions": 648,
-    "publicContributions": 10,
+    "followers": 36,
+    "privateContributions": 623,
+    "publicContributions": 19,
     "createdAt": "2020-03-13T07:10:24Z"
   },
   {
@@ -26502,9 +26502,9 @@
     "location": "Christchurch, New Zealand",
     "company": "",
     "twitterUsername": "",
-    "followers": 34,
-    "privateContributions": 254,
-    "publicContributions": 265,
+    "followers": 39,
+    "privateContributions": 386,
+    "publicContributions": 285,
     "createdAt": "2020-05-09T08:25:00Z"
   },
   {
@@ -26516,7 +26516,7 @@
     "twitterUsername": "",
     "followers": 33,
     "privateContributions": 17,
-    "publicContributions": 110,
+    "publicContributions": 99,
     "createdAt": "2020-01-13T11:47:33Z"
   },
   {
@@ -26526,9 +26526,9 @@
     "location": "New Zealand",
     "company": "LoyAI",
     "twitterUsername": "",
-    "followers": 33,
-    "privateContributions": 1273,
-    "publicContributions": 53,
+    "followers": 35,
+    "privateContributions": 1092,
+    "publicContributions": 44,
     "createdAt": "2020-03-24T05:48:49Z"
   },
   {
@@ -26539,7 +26539,7 @@
     "company": "Lume Music",
     "twitterUsername": "",
     "followers": 32,
-    "privateContributions": 1119,
+    "privateContributions": 1294,
     "publicContributions": 0,
     "createdAt": "2020-01-22T02:23:21Z"
   },
@@ -26550,9 +26550,9 @@
     "location": "New Zealand",
     "company": "",
     "twitterUsername": "",
-    "followers": 32,
-    "privateContributions": 301,
-    "publicContributions": 141,
+    "followers": 33,
+    "privateContributions": 206,
+    "publicContributions": 134,
     "createdAt": "2020-05-13T00:37:02Z"
   },
   {
@@ -26563,8 +26563,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 32,
-    "privateContributions": 344,
-    "publicContributions": 331,
+    "privateContributions": 98,
+    "publicContributions": 121,
     "createdAt": "2020-01-18T17:37:00Z"
   },
   {
@@ -26576,7 +26576,7 @@
     "twitterUsername": "LewisCTech",
     "followers": 32,
     "privateContributions": 0,
-    "publicContributions": 346,
+    "publicContributions": 344,
     "createdAt": "2020-04-27T05:07:52Z"
   },
   {
@@ -26588,20 +26588,8 @@
     "twitterUsername": "",
     "followers": 30,
     "privateContributions": 0,
-    "publicContributions": 49,
+    "publicContributions": 31,
     "createdAt": "2020-04-21T23:15:11Z"
-  },
-  {
-    "login": "6xtvo",
-    "name": "Ben Kee",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/72182515?s=72&u=04de1b88258833834776ffe4ee945a17e5f8da92&v=4",
-    "location": "Auckland, New Zealand",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 28,
-    "privateContributions": 73,
-    "publicContributions": 298,
-    "createdAt": "2020-10-01T04:33:17Z"
   },
   {
     "login": "MilesSG",
@@ -26610,7 +26598,7 @@
     "location": "New Zealand",
     "company": "",
     "twitterUsername": "",
-    "followers": 26,
+    "followers": 27,
     "privateContributions": 0,
     "publicContributions": 32,
     "createdAt": "2020-01-27T11:33:55Z"
@@ -26634,7 +26622,7 @@
     "location": "New Zealand",
     "company": "",
     "twitterUsername": "",
-    "followers": 23,
+    "followers": 22,
     "privateContributions": 1,
     "publicContributions": 0,
     "createdAt": "2020-09-28T06:50:47Z"
@@ -26647,8 +26635,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 23,
-    "privateContributions": 0,
-    "publicContributions": 119,
+    "privateContributions": 2,
+    "publicContributions": 123,
     "createdAt": "2020-03-10T07:48:00Z"
   },
   {
@@ -26671,8 +26659,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 23,
-    "privateContributions": 1456,
-    "publicContributions": 0,
+    "privateContributions": 1954,
+    "publicContributions": 1,
     "createdAt": "2020-05-30T19:03:05Z"
   },
   {
@@ -26683,7 +26671,7 @@
     "company": "Gentrack",
     "twitterUsername": "",
     "followers": 22,
-    "privateContributions": 24,
+    "privateContributions": 30,
     "publicContributions": 30,
     "createdAt": "2020-09-28T01:24:27Z"
   },
@@ -26694,7 +26682,7 @@
     "location": "Auckland, New Zealand",
     "company": "",
     "twitterUsername": "",
-    "followers": 22,
+    "followers": 23,
     "privateContributions": 4,
     "publicContributions": 2,
     "createdAt": "2020-12-15T20:43:54Z"
