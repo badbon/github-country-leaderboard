@@ -25951,7 +25951,7 @@
     "company": "Hogeschool PXL",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 51,
+    "privateContributions": 42,
     "publicContributions": 25,
     "createdAt": "2022-05-18T11:59:49Z"
   },
@@ -25998,9 +25998,9 @@
     "location": "Belgium",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 10,
     "createdAt": "2022-09-19T09:56:16Z"
   },
   {
@@ -26035,7 +26035,7 @@
     "company": "LWS",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 6282,
+    "privateContributions": 7829,
     "publicContributions": 1,
     "createdAt": "2022-04-15T19:10:51Z"
   },
@@ -26047,8 +26047,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 143,
-    "publicContributions": 30,
+    "privateContributions": 52,
+    "publicContributions": 41,
     "createdAt": "2022-08-08T14:09:22Z"
   },
   {
@@ -26060,7 +26060,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 391,
+    "publicContributions": 553,
     "createdAt": "2022-01-13T01:23:54Z"
   },
   {
@@ -26082,9 +26082,9 @@
     "location": "Belgium",
     "company": "UNamur",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 651,
+    "publicContributions": 626,
     "createdAt": "2022-03-30T13:19:28Z"
   },
   {
@@ -26096,7 +26096,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 54,
+    "publicContributions": 51,
     "createdAt": "2022-10-17T17:31:04Z"
   },
   {
@@ -26120,7 +26120,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 191,
+    "publicContributions": 260,
     "createdAt": "2022-09-17T22:22:27Z"
   },
   {
@@ -26144,7 +26144,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2022-02-03T09:03:49Z"
   },
   {
@@ -26155,8 +26155,8 @@
     "company": "Ds Cleaning",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 3,
-    "publicContributions": 46,
+    "privateContributions": 0,
+    "publicContributions": 16,
     "createdAt": "2022-02-12T12:43:18Z"
   },
   {
@@ -26173,7 +26173,7 @@
   },
   {
     "login": "ami-diop",
-    "name": "Aminata",
+    "name": "ami",
     "avatarUrl": "https://avatars.githubusercontent.com/u/114482391?s=72&u=001900d074b5f5c11208eb8953574442ff2ef1a9&v=4",
     "location": "Antwerp, Belgium",
     "company": "",
@@ -220702,5 +220702,17 @@
     "privateContributions": 0,
     "publicContributions": 75,
     "createdAt": "2022-03-10T18:06:35Z"
+  },
+  {
+    "login": "eeftychiou",
+    "name": "Eftychios EFTYCHIOU",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7472624?s=72&v=4",
+    "location": "Brussels, Belgium | Nicosia, Cyprus",
+    "company": "European Commission (DG MOVE)",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 1964,
+    "publicContributions": 439,
+    "createdAt": "2014-05-03T07:09:52Z"
   }
 ]

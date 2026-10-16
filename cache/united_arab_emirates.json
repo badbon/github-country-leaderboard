@@ -25591,7 +25591,7 @@
     "company": "@anghami",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 2560,
+    "privateContributions": 2409,
     "publicContributions": 1,
     "createdAt": "2019-04-02T07:29:28Z"
   },
@@ -25652,7 +25652,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 1,
     "createdAt": "2019-06-20T17:15:41Z"
   },
   {
@@ -25662,7 +25662,7 @@
     "location": "Abu Dhabi, United Arab Emirates",
     "company": "Nexeor Creative Technologies - FZCO",
     "twitterUsername": "post2younus",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2019-05-02T22:39:03Z"
@@ -25675,7 +25675,7 @@
     "company": "Almosafer(Part of Seera Group)",
     "twitterUsername": "vicky92727",
     "followers": 2,
-    "privateContributions": 600,
+    "privateContributions": 825,
     "publicContributions": 0,
     "createdAt": "2019-12-17T06:27:24Z"
   },
@@ -25712,7 +25712,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 0,
     "createdAt": "2019-11-10T10:20:11Z"
   },
   {
@@ -25736,7 +25736,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 42,
     "createdAt": "2019-03-03T08:52:00Z"
   },
   {
@@ -25759,33 +25759,21 @@
     "company": "Fakhruddin Holdings",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 3,
-    "publicContributions": 6,
+    "privateContributions": 4,
+    "publicContributions": 0,
     "createdAt": "2019-03-06T14:49:13Z"
   },
   {
     "login": "AidaBadawy",
     "name": "Aidarus Badawy",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/48244905?s=72&u=fa16a6ec0d98b2e4a3f18641d2b994b940c02c43&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/48244905?s=72&u=97afe7b1016a996bccff499e0bcaa8e95acb3a29&v=4",
     "location": "Dubai, United Arab Emirates",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 44,
     "createdAt": "2019-03-05T11:13:24Z"
-  },
-  {
-    "login": "MohamedMubarak123",
-    "name": "Mohamed Mubarak",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/47295809?s=72&u=d0926371f5378283d520424fc4c836f26db676d6&v=4",
-    "location": "United Arab Emirates",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 4,
-    "createdAt": "2019-02-03T12:14:45Z"
   },
   {
     "login": "shahbazindex",

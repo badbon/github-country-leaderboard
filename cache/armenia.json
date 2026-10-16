@@ -26083,20 +26083,20 @@
     "company": "Kurlabs",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 247,
-    "publicContributions": 88,
+    "privateContributions": 507,
+    "publicContributions": 86,
     "createdAt": "2018-10-01T21:38:13Z"
   },
   {
     "login": "Vahe327",
     "name": "Vahe Aramyan",
     "avatarUrl": "https://avatars.githubusercontent.com/u/36303293?s=72&u=0d2e150b11505d82668f604d4c28b948b7eb9587&v=4",
-    "location": "Yerevan, Armenia",
+    "location": "Vanadzor, Armenia",
     "company": "@QSN",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 44,
+    "publicContributions": 89,
     "createdAt": "2018-02-09T14:41:09Z"
   },
   {
@@ -26144,7 +26144,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 25,
     "createdAt": "2018-01-10T08:47:57Z"
   },
   {
@@ -26179,7 +26179,7 @@
     "company": "MTS Bank",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
+    "privateContributions": 2,
     "publicContributions": 0,
     "createdAt": "2018-09-24T11:04:47Z"
   },
@@ -26191,7 +26191,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 2504,
+    "privateContributions": 2817,
     "publicContributions": 0,
     "createdAt": "2018-01-22T19:26:29Z"
   },
@@ -26256,18 +26256,6 @@
     "createdAt": "2018-10-16T06:37:03Z"
   },
   {
-    "login": "mirztate1-flutterint",
-    "name": "Tatev Mirzoyan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/36815344?s=72&u=21fcf12b18b1e813c30084adfa252f2342145366&v=4",
-    "location": "Yerevan, Armenia",
-    "company": "Flutter International",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2018-02-25T12:33:28Z"
-  },
-  {
     "login": "natzasu13",
     "name": "NATALIA ZARTHA",
     "avatarUrl": "https://avatars.githubusercontent.com/u/38079726?s=72&u=10346cb59d971f2bce9369ba6878ad473d34cf46&v=4",
@@ -26298,8 +26286,8 @@
     "location": "Armenia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 59,
+    "followers": 2,
+    "privateContributions": 24,
     "publicContributions": 0,
     "createdAt": "2018-05-14T12:32:30Z"
   },

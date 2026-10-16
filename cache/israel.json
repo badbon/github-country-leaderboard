@@ -26084,7 +26084,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 87,
+    "publicContributions": 56,
     "createdAt": "2021-03-06T18:24:53Z"
   },
   {
@@ -26096,7 +26096,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 44,
+    "publicContributions": 51,
     "createdAt": "2021-05-09T15:44:12Z"
   },
   {
@@ -26107,7 +26107,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 517,
+    "privateContributions": 841,
     "publicContributions": 1,
     "createdAt": "2021-04-12T08:18:08Z"
   },
@@ -26120,7 +26120,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 315,
+    "publicContributions": 330,
     "createdAt": "2021-01-26T11:49:30Z"
   },
   {
@@ -26132,7 +26132,7 @@
     "twitterUsername": "tomerch11",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 172,
+    "publicContributions": 169,
     "createdAt": "2021-01-08T19:21:58Z"
   },
   {
@@ -26192,7 +26192,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 8,
     "createdAt": "2021-04-15T11:18:50Z"
   },
   {
@@ -26208,18 +26208,6 @@
     "createdAt": "2021-06-24T11:00:55Z"
   },
   {
-    "login": "Genys30",
-    "name": "Jenny Sotnik-Talisman",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/77742869?s=72&u=ef826a6741017eb3c487cb51d932da0e94d32273&v=4",
-    "location": "Israel",
-    "company": "",
-    "twitterUsername": "genys30",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 167,
-    "createdAt": "2021-01-20T16:17:03Z"
-  },
-  {
     "login": "BorisMorozovEscribers",
     "name": "Boris Morozov",
     "avatarUrl": "https://avatars.githubusercontent.com/u/85218623?s=72&u=26683708b901e820ff65fdbcc4aac57ab38e4a10&v=4",
@@ -26227,7 +26215,7 @@
     "company": "eScribers",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 964,
+    "privateContributions": 3494,
     "publicContributions": 0,
     "createdAt": "2021-06-02T07:17:39Z"
   },
@@ -26258,13 +26246,13 @@
   {
     "login": "LostBoxArt",
     "name": "Dennis B.",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/84542576?s=72&u=8c4654a4b0f2cb6a64bd3f6a09736a1e2b32215c&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/84542576?s=72&u=657fb6ccd5aa4a7b90829e9f38e408981693ade0&v=4",
     "location": "Israel",
     "company": "Weizmann Institute of Science",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 381,
+    "publicContributions": 415,
     "createdAt": "2021-05-20T20:13:38Z"
   },
   {
@@ -26275,8 +26263,8 @@
     "company": "Y Patterns",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1008,
-    "publicContributions": 11,
+    "privateContributions": 1585,
+    "publicContributions": 10,
     "createdAt": "2021-06-06T19:35:39Z"
   },
   {

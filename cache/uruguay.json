@@ -25950,9 +25950,9 @@
     "location": "Uruguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 30,
-    "privateContributions": 46,
-    "publicContributions": 94,
+    "followers": 33,
+    "privateContributions": 58,
+    "publicContributions": 71,
     "createdAt": "2020-11-10T14:10:49Z"
   },
   {
@@ -25975,20 +25975,20 @@
     "company": "Universidad de la República (Uruguay)",
     "twitterUsername": "",
     "followers": 26,
-    "privateContributions": 3,
-    "publicContributions": 44,
+    "privateContributions": 37,
+    "publicContributions": 55,
     "createdAt": "2020-03-27T17:54:40Z"
   },
   {
     "login": "brunoocal",
-    "name": "Bruno Cal Olivera",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/75707587?s=72&u=a09f5ea89bd4bd1a502d053c1d43110976bff9f0&v=4",
+    "name": "Bruno Cal",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/75707587?s=72&u=e915aa047334877cb331525c455b182b6a5764d0&v=4",
     "location": "Uruguay",
     "company": "",
-    "twitterUsername": "brunoohdev",
-    "followers": 25,
-    "privateContributions": 1489,
-    "publicContributions": 0,
+    "twitterUsername": "",
+    "followers": 27,
+    "privateContributions": 8146,
+    "publicContributions": 6,
     "createdAt": "2020-12-09T01:17:34Z"
   },
   {
@@ -25998,7 +25998,7 @@
     "location": "Uruguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 25,
+    "followers": 23,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-05-16T16:12:33Z"
@@ -26010,20 +26010,20 @@
     "location": "Uruguay, Montevideo",
     "company": "",
     "twitterUsername": "",
-    "followers": 25,
+    "followers": 26,
     "privateContributions": 12,
-    "publicContributions": 2114,
+    "publicContributions": 2028,
     "createdAt": "2020-08-23T22:17:59Z"
   },
   {
     "login": "renan-prometheus-arch",
-    "name": "Renan R Moura",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/60076894?s=72&u=26543df43d982d96fa3ad5a2d3ada89b1be8f21b&v=4",
+    "name": "Renan Ribeiro Moura Cimino",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/60076894?s=72&u=03016db7bc8e0af7f268932da52d97a2c6e95958&v=4",
     "location": "uruguay",
     "company": "prometheus-systems.org | terramark.org | federaltrading.org",
     "twitterUsername": "",
-    "followers": 25,
-    "privateContributions": 2198,
+    "followers": 53,
+    "privateContributions": 5134,
     "publicContributions": 13,
     "createdAt": "2020-01-19T21:16:03Z"
   },
@@ -26035,8 +26035,8 @@
     "company": "Crowder",
     "twitterUsername": "sanei1509",
     "followers": 25,
-    "privateContributions": 125,
-    "publicContributions": 83,
+    "privateContributions": 115,
+    "publicContributions": 53,
     "createdAt": "2020-08-18T11:39:02Z"
   },
   {
@@ -26060,7 +26060,7 @@
     "twitterUsername": "",
     "followers": 24,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2020-08-10T20:15:18Z"
   },
   {
@@ -26068,11 +26068,11 @@
     "name": "Camila",
     "avatarUrl": "https://avatars.githubusercontent.com/u/73668147?s=72&u=a9e08764e31e98d2e6e85a7666e80a14b846f2a2&v=4",
     "location": "Montevideo, Uruguay.",
-    "company": "Howdy",
+    "company": "PensionBee",
     "twitterUsername": "",
     "followers": 23,
-    "privateContributions": 1007,
-    "publicContributions": 114,
+    "privateContributions": 950,
+    "publicContributions": 112,
     "createdAt": "2020-10-29T20:03:37Z"
   },
   {
@@ -26082,9 +26082,9 @@
     "location": "Uruguay",
     "company": "@GetAleph. Previously @pentoai",
     "twitterUsername": "",
-    "followers": 23,
-    "privateContributions": 1501,
-    "publicContributions": 48,
+    "followers": 22,
+    "privateContributions": 1439,
+    "publicContributions": 29,
     "createdAt": "2020-03-17T21:09:32Z"
   },
   {
@@ -26095,7 +26095,7 @@
     "company": "Software Developer",
     "twitterUsername": "",
     "followers": 23,
-    "privateContributions": 208,
+    "privateContributions": 248,
     "publicContributions": 5,
     "createdAt": "2020-07-01T00:21:24Z"
   },
@@ -26119,8 +26119,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 22,
-    "privateContributions": 741,
-    "publicContributions": 40,
+    "privateContributions": 990,
+    "publicContributions": 39,
     "createdAt": "2020-09-09T21:35:25Z"
   },
   {
@@ -26164,11 +26164,11 @@
     "name": "Nicolás Machado da Silva",
     "avatarUrl": "https://avatars.githubusercontent.com/u/67390791?s=72&u=8433bd2c3c85a56ef4287766eb4bfb6dfd3e1d77&v=4",
     "location": "Montevideo, Uruguay",
-    "company": "@sparkreel  @paintedbirds",
+    "company": "@sparkreel  @paintedbirds EverPass",
     "twitterUsername": "",
-    "followers": 21,
-    "privateContributions": 209,
-    "publicContributions": 8,
+    "followers": 27,
+    "privateContributions": 323,
+    "publicContributions": 6,
     "createdAt": "2020-06-24T19:30:31Z"
   },
   {
@@ -26178,9 +26178,9 @@
     "location": "Punta del Este, Uruguay",
     "company": "Netuy",
     "twitterUsername": "",
-    "followers": 21,
+    "followers": 22,
     "privateContributions": 0,
-    "publicContributions": 68,
+    "publicContributions": 58,
     "createdAt": "2020-08-25T22:27:49Z"
   },
   {

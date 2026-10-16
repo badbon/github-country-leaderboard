@@ -25675,21 +25675,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1225,
+    "privateContributions": 1573,
     "publicContributions": 0,
     "createdAt": "2014-01-05T10:18:38Z"
-  },
-  {
-    "login": "vladimirmijatovic",
-    "name": "Vladimir Mijatović",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/6389486?s=72&u=1c331fd86ff10fe9e043cd3843a06be947075471&v=4",
-    "location": "Slovenia",
-    "company": "WPX d.o.o.",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2014-01-13T12:45:19Z"
   },
   {
     "login": "zvonkokemperle",
@@ -25705,14 +25693,14 @@
   },
   {
     "login": "b0rut",
-    "name": "Borut Matjašič",
+    "name": "justin credible",
     "avatarUrl": "https://avatars.githubusercontent.com/u/6652747?s=72&v=4",
     "location": "Slovenia",
-    "company": "MatjasicBorut.com",
+    "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 130,
+    "publicContributions": 31,
     "createdAt": "2014-02-11T17:18:25Z"
   },
   {
@@ -25795,7 +25783,7 @@
     "company": "Matej Sakelšek ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 3484,
+    "privateContributions": 5170,
     "publicContributions": 0,
     "createdAt": "2014-11-07T08:12:20Z"
   },
@@ -25867,7 +25855,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 3175,
+    "privateContributions": 3293,
     "publicContributions": 0,
     "createdAt": "2014-10-07T17:22:08Z"
   },
@@ -25892,7 +25880,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2014-02-11T14:02:24Z"
   },
   {
