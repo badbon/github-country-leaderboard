@@ -22,8 +22,8 @@ Indexed users: 1,532
 | 8 | [devmoreno](https://github.com/devmoreno) | Edwin Moreno | Aguadilla, Puerto Rico | 8,232 |
 | 9 | [jdreben](https://github.com/jdreben) | James Dreben | San Juan, Puerto Rico | 7,609 |
 | 10 | [aegonzalez95](https://github.com/aegonzalez95) | Angel Gonzalez | Puerto Rico | 7,443 |
-| 11 | [chrisrodz](https://github.com/chrisrodz) | Christian A. Rodriguez | San Juan, PR | 7,027 |
-| 12 | [bombillazo](https://github.com/bombillazo) | Hector Ayala | Puerto Rico | 6,925 |
+| 11 | [bombillazo](https://github.com/bombillazo) | Hector Ayala | Puerto Rico | 7,098 |
+| 12 | [chrisrodz](https://github.com/chrisrodz) | Christian A. Rodriguez | San Juan, PR | 7,027 |
 | 13 | [brettheap](https://github.com/brettheap) | Brett Heap | Puerto Rico | 6,739 |
 | 14 | [shawntabrizi](https://github.com/shawntabrizi) | Shawn Tabrizi | Puerto Rico | 6,569 |
 | 15 | [Wolfkid200444](https://github.com/Wolfkid200444) | Wolfie | Puerto Rico | 6,253 |
@@ -83,4 +83,4 @@ Indexed users: 1,532
 | 19 | [rnegron](https://github.com/rnegron) | Raúl Negrón-Otero | Bayamón, Puerto Rico | 113 |
 | 20 | [hackingbutlegal](https://github.com/hackingbutlegal) | Jackie Singh | San Juan, PR | 107 |
 
-Generated: 2026-10-16T20:10:45.119Z
+Generated: 2026-10-16T21:37:46.714Z

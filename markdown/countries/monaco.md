@@ -13,12 +13,12 @@ Indexed users: 142
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [AlexRLG98](https://github.com/AlexRLG98) | Alex_RLG | Monaco | 7,271 |
-| 2 | [DamienMonchaty](https://github.com/DamienMonchaty) | Damien Monchaty | Monaco | 6,055 |
+| 2 | [DamienMonchaty](https://github.com/DamienMonchaty) | Damien Monchaty | Monaco | 6,056 |
 | 3 | [laurentqro](https://github.com/laurentqro) | Laurent Curau | Monaco | 5,167 |
 | 4 | [LovelessCodes](https://github.com/LovelessCodes) |  | Monaco | 3,636 |
 | 5 | [KristofM854](https://github.com/KristofM854) | Kristof Moeller | Monaco | 1,874 |
-| 6 | [silvainfm](https://github.com/silvainfm) | François-Marie Brych | Nashville & Monaco | 1,774 |
-| 7 | [digitalonyx](https://github.com/digitalonyx) | DigitalOnyx | Monaco | 1,219 |
+| 6 | [silvainfm](https://github.com/silvainfm) | François-Marie Brych | Nashville & Monaco | 1,790 |
+| 7 | [digitalonyx](https://github.com/digitalonyx) | DigitalOnyx | Monaco | 1,221 |
 | 8 | [matteodevenuto](https://github.com/matteodevenuto) | Matteo De Venuto | Monaco | 1,141 |
 | 9 | [NicoBocq](https://github.com/NicoBocq) | Nicolas Bocquet | Marseille / Monaco | 943 |
 | 10 | [tatianamc](https://github.com/tatianamc) | Tatiana | Monaco | 783 |
@@ -28,7 +28,7 @@ Indexed users: 142
 | 14 | [vjandrea](https://github.com/vjandrea) | Andrea Bergamasco | Monaco | 562 |
 | 15 | [scribelia-anthony](https://github.com/scribelia-anthony) | Anthony | Monaco | 428 |
 | 16 | [auvents-brave](https://github.com/auvents-brave) | Stéphane | Monaco | 399 |
-| 17 | [giraudremi92](https://github.com/giraudremi92) | Rémi | Monaco | 385 |
+| 17 | [giraudremi92](https://github.com/giraudremi92) | Rémi | Monaco | 386 |
 | 18 | [ap705](https://github.com/ap705) | Arnaud Pradier | Monaco | 269 |
 | 19 | [Akira98000](https://github.com/Akira98000) | Santhakumaran Akira | Monaco  | 267 |
 | 20 | [co-stig](https://github.com/co-stig) | Constantine | Monaco | 257 |
@@ -83,4 +83,4 @@ Indexed users: 142
 | 19 | [coachklng12](https://github.com/coachklng12) |  | Monaco | 14 |
 | 20 | [co-stig](https://github.com/co-stig) | Constantine | Monaco | 13 |
 
-Generated: 2026-10-16T19:59:46.539Z
+Generated: 2026-10-16T21:26:56.461Z

@@ -45,12 +45,12 @@ Indexed users: 1,225
 | 6 | [KevinBusuttil](https://github.com/KevinBusuttil) | Kevin Busuttil | Malta | 3,125 |
 | 7 | [silvandiepen](https://github.com/silvandiepen) | Sil van Diepen | Malta | 3,044 |
 | 8 | [camilamacedo86](https://github.com/camilamacedo86) | Camila Macedo | Malta | 2,984 |
-| 9 | [zcourts](https://github.com/zcourts) | Courtney Robinson | London (UK), Łodz (Poland), Valletta (Malta) | 2,632 |
-| 10 | [arogan178](https://github.com/arogan178) | Andrea Bugeja | Malta | 2,562 |
-| 11 | [stefanbuttigieg](https://github.com/stefanbuttigieg) | Stefan Buttigieg | Malta | 2,544 |
-| 12 | [ntulenev](https://github.com/ntulenev) | Nikita Tulenev | Malta | 2,499 |
-| 13 | [marian2js](https://github.com/marian2js) | Mariano Pardo | Malta | 2,336 |
-| 14 | [novatechflow](https://github.com/novatechflow) | Alexander Alten | Malta | 2,070 |
+| 9 | [novatechflow](https://github.com/novatechflow) | Alexander Alten | Malta | 2,724 |
+| 10 | [zcourts](https://github.com/zcourts) | Courtney Robinson | London (UK), Łodz (Poland), Valletta (Malta) | 2,632 |
+| 11 | [arogan178](https://github.com/arogan178) | Andrea Bugeja | Malta | 2,562 |
+| 12 | [stefanbuttigieg](https://github.com/stefanbuttigieg) | Stefan Buttigieg | Malta | 2,544 |
+| 13 | [ntulenev](https://github.com/ntulenev) | Nikita Tulenev | Malta | 2,499 |
+| 14 | [marian2js](https://github.com/marian2js) | Mariano Pardo | Malta | 2,336 |
 | 15 | [SerZhyAle](https://github.com/SerZhyAle) | Serhii Zhyhunenko | Malta | 1,991 |
 | 16 | [mbj](https://github.com/mbj) | Markus Schirp | Malta | 1,977 |
 | 17 | [terranc](https://github.com/terranc) | Terran | Malta | 1,866 |
@@ -79,8 +79,8 @@ Indexed users: 1,225
 | 15 | [jonathan-vella](https://github.com/jonathan-vella) | Jonathan Vella | Malta | 141 |
 | 16 | [nathan-abela](https://github.com/nathan-abela) | Nathan Abela | Malta | 141 |
 | 17 | [dalerank](https://github.com/dalerank) | dalerank | Sliema, Malta | 135 |
-| 18 | [ianharrigan](https://github.com/ianharrigan) | Ian Harrigan | Malta | 127 |
+| 18 | [ianharrigan](https://github.com/ianharrigan) | Ian Harrigan | Malta | 126 |
 | 19 | [mattcg](https://github.com/mattcg) | Matthew Caruana Galizia | Malta | 126 |
 | 20 | [CM2Walki](https://github.com/CM2Walki) | Walki | Malta | 118 |
 
-Generated: 2026-10-16T19:57:43.588Z
+Generated: 2026-10-16T21:23:48.849Z

@@ -14,7 +14,7 @@ Indexed users: 298
 |---:|---|---|---|---:|
 | 1 | [bruxx-6243](https://github.com/bruxx-6243) | Fariol Blondeau | Brazzaville - Congo | 11,578 |
 | 2 | [Athanaze](https://github.com/Athanaze) | Sacha Liechti | Congo | 7,728 |
-| 3 | [Saintrick-FM](https://github.com/Saintrick-FM) | Francy Saintrick Malonga | Congo Brazzaville | 4,083 |
+| 3 | [Saintrick-FM](https://github.com/Saintrick-FM) | Francy Saintrick Malonga | Congo Brazzaville | 4,082 |
 | 4 | [chrismoussounda](https://github.com/chrismoussounda) | Christoffert Moussounda | Pointe-Noire, Congo | 3,860 |
 | 5 | [Codeur-Omniscient](https://github.com/Codeur-Omniscient) | Anthony Dorian | Brazzaville - Congo | 3,775 |
 | 6 | [lepresk](https://github.com/lepresk) | Logan CodeMaker | Brazzaville, Congo | 3,751 |
@@ -62,12 +62,12 @@ Indexed users: 298
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [alexissengangabo07](https://github.com/alexissengangabo07) | Dr. Code | Goma, Congo | 319 |
+| 1 | [alexissengangabo07](https://github.com/alexissengangabo07) | Dr. Code | Goma, Congo | 318 |
 | 2 | [chronoss09](https://github.com/chronoss09) | Chronoss | Congo | 213 |
 | 3 | [Shadow8021](https://github.com/Shadow8021) | Red_Sh@dow | Congo, brazzaville | 208 |
 | 4 | [Josephbakulikira](https://github.com/Josephbakulikira) | Joseph  | Congo | 107 |
 | 5 | [AdalbertPungu](https://github.com/AdalbertPungu) | Adalbert Pungu | Congo (DRC) | 104 |
-| 6 | [hkfmz](https://github.com/hkfmz) | Hegel Motokoua | Brazzaville | 96 |
+| 6 | [hkfmz](https://github.com/hkfmz) | Hegel Motokoua | Brazzaville | 95 |
 | 7 | [Rajivhost](https://github.com/Rajivhost) | Rajiv Mounguengue | Brazzaville, Congo | 94 |
 | 8 | [josuebrunel](https://github.com/josuebrunel) | Josue Kouka | Pointe-Noire (Congo) | 73 |
 | 9 | [btr-ss](https://github.com/btr-ss) | Marcky BITORI | Congo Brazzaville | 68 |
@@ -83,4 +83,4 @@ Indexed users: 298
 | 19 | [Ssnnee](https://github.com/Ssnnee) | Samuel Nandi | Republic of the Congo | 26 |
 | 20 | [WinnersProx](https://github.com/WinnersProx) | Vainqueur Bihame | Kigali,Rwanda,Congo | 25 |
 
-Generated: 2026-10-16T20:11:34.017Z
+Generated: 2026-10-16T21:39:12.552Z

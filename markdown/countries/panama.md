@@ -30,8 +30,8 @@ Indexed users: 1,069
 | 16 | [dashboardtech](https://github.com/dashboardtech) | Frederick Roberts | Panama | 7,835 |
 | 17 | [cabe56](https://github.com/cabe56) | Jose Varela | Panama City, Panama | 7,495 |
 | 18 | [xtealer](https://github.com/xtealer) | Enrique Shunnar | Panama City, Panama | 7,288 |
-| 19 | [bryanjtc](https://github.com/bryanjtc) | Bryan Thomas | Panama | 6,773 |
-| 20 | [ElectricEden](https://github.com/ElectricEden) | Johan Estevez aka Bartolli  | Panama City | 6,581 |
+| 19 | [atebites-hub](https://github.com/atebites-hub) | atebites | Panama | 6,865 |
+| 20 | [bryanjtc](https://github.com/bryanjtc) | Bryan Thomas | Panama | 6,773 |
 
 ## Public Contributions
 
@@ -46,11 +46,11 @@ Indexed users: 1,069
 | 7 | [Yizack](https://github.com/Yizack) | Yizack Rangel | Panama | 1,975 |
 | 8 | [kingg22](https://github.com/kingg22) | Rey | Panama | 1,951 |
 | 9 | [gonzalezulises](https://github.com/gonzalezulises) | Ulises Gonzalez | Panama | 1,841 |
-| 10 | [ArkoSammy12](https://github.com/ArkoSammy12) | James Villarreal | Panama City, Panama | 1,425 |
-| 11 | [jaimelias](https://github.com/jaimelias) | Jaimelías | Panama City, Panama | 1,323 |
-| 12 | [quantumquirkxyz](https://github.com/quantumquirkxyz) | Jhuomar Boskoll Quintero | Panama City, Panama | 1,320 |
-| 13 | [kelvinhe04](https://github.com/kelvinhe04) | Kelvin He Wu | Panama | 1,183 |
-| 14 | [angelnereira](https://github.com/angelnereira) | Angel Nereira | Panama | 1,177 |
+| 10 | [angelnereira](https://github.com/angelnereira) | Angel Nereira | Panama | 1,505 |
+| 11 | [ArkoSammy12](https://github.com/ArkoSammy12) | James Villarreal | Panama City, Panama | 1,425 |
+| 12 | [jaimelias](https://github.com/jaimelias) | Jaimelías | Panama City, Panama | 1,323 |
+| 13 | [quantumquirkxyz](https://github.com/quantumquirkxyz) | Jhuomar Boskoll Quintero | Panama City, Panama | 1,320 |
+| 14 | [kelvinhe04](https://github.com/kelvinhe04) | Kelvin He Wu | Panama | 1,183 |
 | 15 | [jquesada92](https://github.com/jquesada92) | Jose Quesada | Panama | 1,158 |
 | 16 | [neithanmo](https://github.com/neithanmo) | Natanael Mojica | Panama City, Panama | 1,158 |
 | 17 | [ahmedrangel](https://github.com/ahmedrangel) | Ahmed Rangel | Panama | 1,140 |
@@ -83,4 +83,4 @@ Indexed users: 1,069
 | 19 | [Commandtechno](https://github.com/Commandtechno) | Techno | David, Panama | 49 |
 | 20 | [Iardo](https://github.com/Iardo) | Ivan Ramos | Panama | 47 |
 
-Generated: 2026-10-16T20:07:13.289Z
+Generated: 2026-10-16T21:35:53.507Z

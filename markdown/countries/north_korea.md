@@ -16,7 +16,7 @@ Indexed users: 185
 | 2 | [advanced-rising](https://github.com/advanced-rising) | risingcore | Democratic People's Republic of Korea | 5,145 |
 | 3 | [boyesjo](https://github.com/boyesjo) | Boye Sjo | pyongyang | 4,098 |
 | 4 | [sakweli](https://github.com/sakweli) | Josh Sakweli | North Korea | 2,460 |
-| 5 | [andrewlee1807](https://github.com/andrewlee1807) | Andrew | North Korea | 1,507 |
+| 5 | [andrewlee1807](https://github.com/andrewlee1807) | Andrew | North Korea | 1,540 |
 | 6 | [The-Red-Serpent](https://github.com/The-Red-Serpent) | The_Red_Serpent | Pyongyang, North Korea | 1,283 |
 | 7 | [henxdl](https://github.com/henxdl) | henxdl | Pyongyang, North Korea | 1,266 |
 | 8 | [iam-orsu](https://github.com/iam-orsu) | Vamsi Krishna | North Korea | 821 |
@@ -48,8 +48,8 @@ Indexed users: 185
 | 9 | [Pigatronee](https://github.com/Pigatronee) | PigObsessedGameDev | North Korea | 200 |
 | 10 | [RefrigerationUnit](https://github.com/RefrigerationUnit) | Julio Viejo | Pyongyang | 196 |
 | 11 | [renxiaoyaoo](https://github.com/renxiaoyaoo) | renxiaoyao | North Korea	 | 189 |
-| 12 | [july0785](https://github.com/july0785) | JULY | Pyongyang, DPR of Korea | 186 |
-| 13 | [andrewlee1807](https://github.com/andrewlee1807) | Andrew | North Korea | 185 |
+| 12 | [andrewlee1807](https://github.com/andrewlee1807) | Andrew | North Korea | 188 |
+| 13 | [july0785](https://github.com/july0785) | JULY | Pyongyang, DPR of Korea | 186 |
 | 14 | [l1vstudios](https://github.com/l1vstudios) | L1V | North Korea | 184 |
 | 15 | [VisionVerse](https://github.com/VisionVerse) | Vision Verse | North Korea | 174 |
 | 16 | [vega-holdings](https://github.com/vega-holdings) | Vega | Pyongyang | 137 |
@@ -83,4 +83,4 @@ Indexed users: 185
 | 19 | [DillerOFire](https://github.com/DillerOFire) | VerpaSRP | North Korea | 14 |
 | 20 | [JeonJung-kook](https://github.com/JeonJung-kook) | Jeon Jung-kook Cantor | North Korea | 14 |
 
-Generated: 2026-10-16T20:04:51.735Z
+Generated: 2026-10-16T21:32:39.107Z

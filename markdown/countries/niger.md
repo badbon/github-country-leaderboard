@@ -54,9 +54,9 @@ Indexed users: 176
 | 15 | [MahamadouG0](https://github.com/MahamadouG0) | Mahamadou GARBA | Niamey, Niger  | 103 |
 | 16 | [annmart-svg](https://github.com/annmart-svg) | Anna Martyn | Niger, Niamey | 100 |
 | 17 | [Imrana-Moustapha](https://github.com/Imrana-Moustapha) | Imrana Moustapha | Niamey-Niger | 97 |
-| 18 | [youss-uiux](https://github.com/youss-uiux) | Aboubacar Youssif | Niamey Niger | 95 |
-| 19 | [Chaibouu](https://github.com/Chaibouu) | Chaibouu | Niger | 93 |
-| 20 | [F3T1W](https://github.com/F3T1W) | Vlad Matiushin | Zinder, Niger | 93 |
+| 18 | [F3T1W](https://github.com/F3T1W) | Vlad Matiushin | Zinder, Niger | 95 |
+| 19 | [youss-uiux](https://github.com/youss-uiux) | Aboubacar Youssif | Niamey Niger | 95 |
+| 20 | [Chaibouu](https://github.com/Chaibouu) | Chaibouu | Niger | 93 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 176
 | 19 | [ibkhall](https://github.com/ibkhall) | Ibrahim Boubacar | Niamey | 17 |
 | 20 | [ibrahimcheik](https://github.com/ibrahimcheik) | Amadou Moussa Ibrahim | Niamey | 17 |
 
-Generated: 2026-10-16T20:03:27.463Z
+Generated: 2026-10-16T21:30:59.247Z

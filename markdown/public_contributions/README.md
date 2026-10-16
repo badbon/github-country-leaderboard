@@ -110,13 +110,13 @@ Published countries: 234
 | Jersey | 139 | [View](./jersey.md) |
 | Jordan | 4,012 | [View](./jordan.md) |
 | Kazakhstan | 5,643 | [View](./kazakhstan.md) |
-| Kenya | 24,027 | [View](./kenya.md) |
+| Kenya | 24,026 | [View](./kenya.md) |
 | Kiribati | 4 | [View](./kiribati.md) |
 | Kuwait | 797 | [View](./kuwait.md) |
 | Kyrgyzstan | 2,445 | [View](./kyrgyzstan.md) |
 | Laos | 360 | [View](./laos.md) |
 | Latvia | 3,257 | [View](./latvia.md) |
-| Lebanon | 2,562 | [View](./lebanon.md) |
+| Lebanon | 2,561 | [View](./lebanon.md) |
 | Lesotho | 160 | [View](./lesotho.md) |
 | Liberia | 210 | [View](./liberia.md) |
 | Libya | 741 | [View](./libya.md) |
@@ -152,7 +152,7 @@ Published countries: 234
 | New Zealand | 12,152 | [View](./new_zealand.md) |
 | Nicaragua | 1,394 | [View](./nicaragua.md) |
 | Niger | 176 | [View](./niger.md) |
-| Nigeria | 33,201 | [View](./nigeria.md) |
+| Nigeria | 33,200 | [View](./nigeria.md) |
 | Niue | 4 | [View](./niue.md) |
 | Norfolk Island | 1 | [View](./norfolk_island.md) |
 | North Korea | 185 | [View](./north_korea.md) |
@@ -160,14 +160,14 @@ Published countries: 234
 | Northern Mariana Islands | 13 | [View](./northern_mariana_islands.md) |
 | Norway | 19,629 | [View](./norway.md) |
 | Oman | 991 | [View](./oman.md) |
-| Pakistan | 41,886 | [View](./pakistan.md) |
+| Pakistan | 41,885 | [View](./pakistan.md) |
 | Palau | 2 | [View](./palau.md) |
 | Palestine | 2,197 | [View](./palestine.md) |
 | Panama | 1,069 | [View](./panama.md) |
 | Papua New Guinea | 296 | [View](./papua_new_guinea.md) |
 | Paraguay | 2,013 | [View](./paraguay.md) |
 | Peru | 9,774 | [View](./peru.md) |
-| Philippines | 19,773 | [View](./philippines.md) |
+| Philippines | 19,771 | [View](./philippines.md) |
 | Pitcairn Islands | 5 | [View](./pitcairn_islands.md) |
 | Portugal | 28,444 | [View](./portugal.md) |
 | Puerto Rico | 1,532 | [View](./puerto_rico.md) |
@@ -239,4 +239,4 @@ Published countries: 234
 | Zambia | 1,338 | [View](./zambia.md) |
 | Zimbabwe | 1,656 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-16T21:15:04.808Z
+Generated: 2026-10-16T21:47:09.196Z

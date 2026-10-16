@@ -31,7 +31,7 @@ Indexed users: 1,356
 | 17 | [lamine-f](https://github.com/lamine-f) | Mouhamed Lamine Faye | Sénégal - Dakar | 4,525 |
 | 18 | [madicke12](https://github.com/madicke12) | Madicke Cisse | Dakar | 4,409 |
 | 19 | [Zoubeir23](https://github.com/Zoubeir23) | ZOUBEIR IBRAHIMA | Sénegale, Dakar | 4,387 |
-| 20 | [eliusxpol](https://github.com/eliusxpol) | Elhadji Ibrahima Ndiaye | Senegal | 4,201 |
+| 20 | [goumbalamm](https://github.com/goumbalamm) | Mouhamed Mourtada Goumbala | Dakar | 4,226 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 1,356
 | 19 | [ngorseck](https://github.com/ngorseck) | Ngor SECK | Dakar - Sénégal | 142 |
 | 20 | [patheGobel](https://github.com/patheGobel) | Pathé BA | Senegal  | 141 |
 
-Generated: 2026-10-16T20:16:33.930Z
+Generated: 2026-10-16T21:44:18.727Z

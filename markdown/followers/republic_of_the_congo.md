@@ -1,17 +1,17 @@
 # Followers - Republic of the Congo
 
-Generated: 2026-10-16T20:11:34.017Z
+Generated: 2026-10-16T21:39:12.552Z
 
 Users: 298
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [alexissengangabo07](https://github.com/alexissengangabo07) | Dr. Code | SnapTech DRC | alexis_ngab | Goma, Congo | 319 |
+| 1 | [alexissengangabo07](https://github.com/alexissengangabo07) | Dr. Code | SnapTech DRC | alexis_ngab | Goma, Congo | 318 |
 | 2 | [chronoss09](https://github.com/chronoss09) | Chronoss | CHRONOSS GAMES | chronoss09 | Congo | 213 |
 | 3 | [Shadow8021](https://github.com/Shadow8021) | Red_Sh@dow | Fite_Congo |  | Congo, brazzaville | 208 |
 | 4 | [Josephbakulikira](https://github.com/Josephbakulikira) | Joseph  | Auctux |  | Congo | 107 |
 | 5 | [AdalbertPungu](https://github.com/AdalbertPungu) | Adalbert Pungu |  | AdalbertPungu | Congo (DRC) | 104 |
-| 6 | [hkfmz](https://github.com/hkfmz) | Hegel Motokoua |  | HMotokoua | Brazzaville | 96 |
+| 6 | [hkfmz](https://github.com/hkfmz) | Hegel Motokoua |  | HMotokoua | Brazzaville | 95 |
 | 7 | [Rajivhost](https://github.com/Rajivhost) | Rajiv Mounguengue | FunctionalStack | rajivhost | Brazzaville, Congo | 94 |
 | 8 | [josuebrunel](https://github.com/josuebrunel) | Josue Kouka |  | josuebrunel | Pointe-Noire (Congo) | 73 |
 | 9 | [btr-ss](https://github.com/btr-ss) | Marcky BITORI | Triinfinity |  | Congo Brazzaville | 68 |

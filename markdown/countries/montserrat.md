@@ -26,7 +26,7 @@ Indexed users: 291
 | 12 | [jasonshillingford](https://github.com/jasonshillingford) | Jason Shillingford | Plymouth | 2,015 |
 | 13 | [AnshLaw](https://github.com/AnshLaw) | Ansh R. Suryavanshi | Plymouth, MI | 1,623 |
 | 14 | [pillingworth](https://github.com/pillingworth) | Paul Illingworth | Plymouth, Devon | 1,524 |
-| 15 | [bostonmyk](https://github.com/bostonmyk) | Mike Mykytyn | Plymouth | 1,416 |
+| 15 | [bostonmyk](https://github.com/bostonmyk) | Mike Mykytyn | Plymouth | 1,422 |
 | 16 | [418error](https://github.com/418error) | Andy 'Channie' Chan | Plymouth | 1,131 |
 | 17 | [samuel-duffield1](https://github.com/samuel-duffield1) | Sam Duffield | Plymouth | 1,072 |
 | 18 | [robertjwilson](https://github.com/robertjwilson) | Robert Wilson | Plymouth | 1,012 |
@@ -39,7 +39,7 @@ Indexed users: 291
 |---:|---|---|---|---:|
 | 1 | [dvmrry](https://github.com/dvmrry) | Dave Murray | Plymouth Meeting, Pennsylvania | 4,048 |
 | 2 | [albemontors](https://github.com/albemontors) | Alberto Montorsi | Plymouth | 3,828 |
-| 3 | [bostonmyk](https://github.com/bostonmyk) | Mike Mykytyn | Plymouth | 1,416 |
+| 3 | [bostonmyk](https://github.com/bostonmyk) | Mike Mykytyn | Plymouth | 1,422 |
 | 4 | [robertjwilson](https://github.com/robertjwilson) | Robert Wilson | Plymouth | 1,012 |
 | 5 | [gjbauer](https://github.com/gjbauer) |  | Plymouth, NH | 737 |
 | 6 | [jaydreyer](https://github.com/jaydreyer) | Jay Dreyer | Plymouth, MN | 703 |
@@ -83,4 +83,4 @@ Indexed users: 291
 | 19 | [BeresIvan](https://github.com/BeresIvan) |  | Plymouth, MN | 20 |
 | 20 | [binarytide](https://github.com/binarytide) | John McAndrews | Plymouth, Ma | 20 |
 
-Generated: 2026-10-16T20:00:32.338Z
+Generated: 2026-10-16T21:27:38.790Z

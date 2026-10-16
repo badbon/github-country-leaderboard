@@ -13,25 +13,25 @@ Indexed users: 3,257
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [k0d3r1s](https://github.com/k0d3r1s) | Dāvis Zālītis | Rīga, Latvia | 29,848 |
-| 2 | [tcivie](https://github.com/tcivie) | Gleb Tcivie | Latvia | 22,250 |
-| 3 | [kosovojs](https://github.com/kosovojs) | Edgars Košovojs | Riga, Latvia | 21,968 |
-| 4 | [JPurinsh](https://github.com/JPurinsh) | Jānis Puriņš-Biezais | Riga, Latvia | 18,584 |
-| 5 | [Naurislv](https://github.com/Naurislv) | Nauris Dorbe | Riga, Latvia | 16,647 |
-| 6 | [ErneG](https://github.com/ErneG) | Ernests Dane | Latvia | 14,918 |
-| 7 | [raimonade](https://github.com/raimonade) | Raimonds Korzenevskis | Riga, Latvia | 14,135 |
-| 8 | [yarlson](https://github.com/yarlson) | Yar Kravtsov | Riga, Latvia | 12,198 |
-| 9 | [ricardomichel](https://github.com/ricardomichel) | Ricardo Michel Reyes | Riga | 10,409 |
-| 10 | [rabestro](https://github.com/rabestro) | Jegors Čemisovs | Latvia | 9,004 |
-| 11 | [skakri](https://github.com/skakri) | Kristaps Karlsons | Latvia | 7,758 |
-| 12 | [jecis-repos](https://github.com/jecis-repos) | Jecis | Latvia | 7,539 |
-| 13 | [danielsbethers](https://github.com/danielsbethers) | Daniels Bethers | Riga, Latvia | 7,122 |
-| 14 | [agubarev](https://github.com/agubarev) | Andrejs Gubarevs | Latvia, Riga | 6,749 |
-| 15 | [sansan](https://github.com/sansan) | Toms Veidemanis | Riga | 6,604 |
-| 16 | [Shvembldr](https://github.com/Shvembldr) | Shvembldr | Latvia | 6,475 |
-| 17 | [victory-sokolov](https://github.com/victory-sokolov) | Viktor Sokolov | Latvia | 6,460 |
-| 18 | [emplv](https://github.com/emplv) | Emīls Pļavenieks | Latvia | 6,151 |
-| 19 | [Grizzlijs](https://github.com/Grizzlijs) | Emils Kicans | Riga/Latvia | 6,083 |
-| 20 | [Fricbergs](https://github.com/Fricbergs) | Gints Fricbergs | Riga | 6,067 |
+| 2 | [saksofonists](https://github.com/saksofonists) | Toms Kusiņš | Latvia, Riga | 29,225 |
+| 3 | [tcivie](https://github.com/tcivie) | Gleb Tcivie | Latvia | 22,250 |
+| 4 | [kosovojs](https://github.com/kosovojs) | Edgars Košovojs | Riga, Latvia | 21,968 |
+| 5 | [JPurinsh](https://github.com/JPurinsh) | Jānis Puriņš-Biezais | Riga, Latvia | 18,584 |
+| 6 | [Naurislv](https://github.com/Naurislv) | Nauris Dorbe | Riga, Latvia | 16,647 |
+| 7 | [ErneG](https://github.com/ErneG) | Ernests Dane | Latvia | 14,918 |
+| 8 | [raimonade](https://github.com/raimonade) | Raimonds Korzenevskis | Riga, Latvia | 14,135 |
+| 9 | [yarlson](https://github.com/yarlson) | Yar Kravtsov | Riga, Latvia | 12,198 |
+| 10 | [ricardomichel](https://github.com/ricardomichel) | Ricardo Michel Reyes | Riga | 10,409 |
+| 11 | [rabestro](https://github.com/rabestro) | Jegors Čemisovs | Latvia | 9,004 |
+| 12 | [skakri](https://github.com/skakri) | Kristaps Karlsons | Latvia | 7,758 |
+| 13 | [jecis-repos](https://github.com/jecis-repos) | Jecis | Latvia | 7,539 |
+| 14 | [danielsbethers](https://github.com/danielsbethers) | Daniels Bethers | Riga, Latvia | 7,122 |
+| 15 | [agubarev](https://github.com/agubarev) | Andrejs Gubarevs | Latvia, Riga | 6,749 |
+| 16 | [sansan](https://github.com/sansan) | Toms Veidemanis | Riga | 6,604 |
+| 17 | [Shvembldr](https://github.com/Shvembldr) | Shvembldr | Latvia | 6,475 |
+| 18 | [victory-sokolov](https://github.com/victory-sokolov) | Viktor Sokolov | Latvia | 6,460 |
+| 19 | [emplv](https://github.com/emplv) | Emīls Pļavenieks | Latvia | 6,151 |
+| 20 | [Grizzlijs](https://github.com/Grizzlijs) | Emils Kicans | Riga/Latvia | 6,083 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 3,257
 | 19 | [ruslanskorb](https://github.com/ruslanskorb) | Ruslan Skorb | Riga, Latvia | 226 |
 | 20 | [0ki](https://github.com/0ki) | Кirils Sоlovjоvs | Latvia | 225 |
 
-Generated: 2026-10-16T19:51:34.772Z
+Generated: 2026-10-16T21:17:38.740Z

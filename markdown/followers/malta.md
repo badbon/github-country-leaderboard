@@ -1,6 +1,6 @@
 # Followers - Malta
 
-Generated: 2026-10-16T19:57:43.588Z
+Generated: 2026-10-16T21:23:48.849Z
 
 Users: 1225
 
@@ -23,6 +23,6 @@ Users: 1225
 | 15 | [jonathan-vella](https://github.com/jonathan-vella) | Jonathan Vella | @Microsoft |  | Malta | 141 |
 | 16 | [nathan-abela](https://github.com/nathan-abela) | Nathan Abela | Betsson Group |  | Malta | 141 |
 | 17 | [dalerank](https://github.com/dalerank) | dalerank | 4A Games | dalerank1 | Sliema, Malta | 135 |
-| 18 | [ianharrigan](https://github.com/ianharrigan) | Ian Harrigan | Freelance |  | Malta | 127 |
+| 18 | [ianharrigan](https://github.com/ianharrigan) | Ian Harrigan | Freelance |  | Malta | 126 |
 | 19 | [mattcg](https://github.com/mattcg) | Matthew Caruana Galizia | @daphne-foundation  | mcaruanagalizia | Malta | 126 |
 | 20 | [CM2Walki](https://github.com/CM2Walki) | Walki | CM2.Network |  | Malta | 118 |
