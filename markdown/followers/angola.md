@@ -1,8 +1,8 @@
 # Followers - Angola
 
-Generated: 2026-10-16T20:40:26.092Z
+Generated: 2026-10-16T23:05:02.716Z
 
-Users: 2501
+Users: 2500
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -13,7 +13,7 @@ Users: 2501
 | 5 | [JoseCage](https://github.com/JoseCage) | José Cage  |  | cagejose | Luanda, Angola | 406 |
 | 6 | [westjoao12](https://github.com/westjoao12) | West João |  |  | Angola, Luanda | 338 |
 | 7 | [Adyllsxn](https://github.com/Adyllsxn) | Domingos Nascimento | innovaqui |  | Luanda, Angola | 294 |
-| 8 | [braulio94](https://github.com/braulio94) | Braulio Cassule |  | brauliocaassule | Luanda, Angola | 272 |
+| 8 | [braulio94](https://github.com/braulio94) | Braulio Cassule | @selenium-digital | brauliocaassule | Luanda, Angola | 271 |
 | 9 | [gentildpinto](https://github.com/gentildpinto) | Gentil Pinto |  | gentildpinto | Luanda, Angola | 260 |
 | 10 | [matheusmanuel](https://github.com/matheusmanuel) | Matheus Manuel | @clubmedtecnologia  |  | Angola/Luanda | 259 |
 | 11 | [manuelcunga](https://github.com/manuelcunga) | Lázaro Manuel Cunga | Home office |  | Angola/Luanda | 228 |

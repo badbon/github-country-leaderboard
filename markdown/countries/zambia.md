@@ -53,10 +53,10 @@ Indexed users: 1,338
 | 14 | [cephaschapa](https://github.com/cephaschapa) | Cephas Chapa | Zambia | 684 |
 | 15 | [simwawatim](https://github.com/simwawatim) | Timothy Simwawa | Lusaka, Zambia | 645 |
 | 16 | [mataa019](https://github.com/mataa019) | John Mataa | Zambia, Lusaka Province | 624 |
-| 17 | [c00p75](https://github.com/c00p75) | George M'sapenda | Lusaka, Zambia | 586 |
-| 18 | [marksikaundi](https://github.com/marksikaundi) | Mark Sikaundi | Zambia | 582 |
-| 19 | [wmweemba](https://github.com/wmweemba) | William .S. Mweemba | Lusaka, Zambia | 579 |
-| 20 | [SilasChalwe](https://github.com/SilasChalwe) | Silas Chalwe  | Zambia  | 565 |
+| 17 | [Mwapsam](https://github.com/Mwapsam) | Samuel Chimfwembe | Zambia | 611 |
+| 18 | [c00p75](https://github.com/c00p75) | George M'sapenda | Lusaka, Zambia | 586 |
+| 19 | [marksikaundi](https://github.com/marksikaundi) | Mark Sikaundi | Zambia | 582 |
+| 20 | [wmweemba](https://github.com/wmweemba) | William .S. Mweemba | Lusaka, Zambia | 579 |
 
 ## Followers
 
@@ -78,9 +78,9 @@ Indexed users: 1,338
 | 14 | [geraldmaboshe](https://github.com/geraldmaboshe) | Gerald Maboshe | Lusaka, Zambia | 116 |
 | 15 | [twmbx](https://github.com/twmbx) | Twaambo Haamucenje | Ndola, Zambia | 110 |
 | 16 | [Beardless-sheik](https://github.com/Beardless-sheik) | Alick Nyirenda  | Lusaka, Zambia | 108 |
-| 17 | [YambwaImwaka](https://github.com/YambwaImwaka) | Yambwa Imwaka | Zambia | 107 |
-| 18 | [swengineermwi](https://github.com/swengineermwi) | Mwila B.K. | Zambia | 106 |
+| 17 | [swengineermwi](https://github.com/swengineermwi) | Mwila B.K. | Zambia | 107 |
+| 18 | [YambwaImwaka](https://github.com/YambwaImwaka) | Yambwa Imwaka | Zambia | 107 |
 | 19 | [blessedjasonmwanza](https://github.com/blessedjasonmwanza) | Blessed Jason Mwanza |  Lusaka, Zambia | 104 |
 | 20 | [Eathorne2](https://github.com/Eathorne2) | Eathorne | Lusaka, Zambia | 103 |
 
-Generated: 2026-10-16T20:36:36.028Z
+Generated: 2026-10-16T23:01:42.800Z

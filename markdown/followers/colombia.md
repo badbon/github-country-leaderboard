@@ -1,13 +1,13 @@
 # Followers - Colombia
 
-Generated: 2026-10-16T20:51:56.392Z
+Generated: 2026-10-16T23:23:08.406Z
 
 Users: 29156
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [elyxdev](https://github.com/elyxdev) | Elyx |  |  | Medellín, Colombia. | 27484 |
-| 2 | [jkdevcode](https://github.com/jkdevcode) | Dario Zamora |  |  | Colombia | 5141 |
+| 2 | [jkdevcode](https://github.com/jkdevcode) | Dario Zamora |  |  | Colombia | 6875 |
 | 3 | [gndx](https://github.com/gndx) | Oscar Barajas Tavares | Learning Engineer at @platzi  | gndx | Colombia | 3249 |
 | 4 | [guevaraStian](https://github.com/guevaraStian) | GuevaraStian |  |  | Colombia | 2805 |
 | 5 | [juandc](https://github.com/juandc) | Juan David Castro | @Platzi | fjuandc | Bogota, Colombia. | 1735 |

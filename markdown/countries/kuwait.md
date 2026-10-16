@@ -15,17 +15,17 @@ Indexed users: 797
 | 1 | [mshll](https://github.com/mshll) | meshal | Kuwait | 7,773 |
 | 2 | [buaziz](https://github.com/buaziz) | Buaziz | Kuwait | 7,028 |
 | 3 | [ghaith99](https://github.com/ghaith99) |  | Kuwait | 6,933 |
-| 4 | [uusa35](https://github.com/uusa35) | Usama.Ahmed | kuwait | 6,344 |
-| 5 | [BAWES](https://github.com/BAWES) | Khalid Al-Mutawa | Kuwait | 6,320 |
+| 4 | [BAWES](https://github.com/BAWES) | Khalid Al-Mutawa | Kuwait | 6,616 |
+| 5 | [uusa35](https://github.com/uusa35) | Usama.Ahmed | kuwait | 6,384 |
 | 6 | [drhema](https://github.com/drhema) | Ibrahim Elsherbiny | Kuwait | 6,179 |
 | 7 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Kuwait | 5,645 |
 | 8 | [bigboss97lnt](https://github.com/bigboss97lnt) | Nasser Tahan | Kuwait | 5,282 |
 | 9 | [saskw2010](https://github.com/saskw2010) | Mostafa Elnagar | kuwait | 5,239 |
 | 10 | [Mubder](https://github.com/Mubder) | Mubder Alfaris | Kuwait | 4,586 |
 | 11 | [azikar24](https://github.com/azikar24) | Abdulaziz Karam | Kuwait | 4,407 |
-| 12 | [knro](https://github.com/knro) | Jasem Mutlaq | Kuwait | 4,089 |
+| 12 | [knro](https://github.com/knro) | Jasem Mutlaq | Kuwait | 4,140 |
 | 13 | [mulaifi](https://github.com/mulaifi) | Salem Almulaifi | Kuwait | 3,929 |
-| 14 | [careless10](https://github.com/careless10) | Menawer | Kuwait | 3,839 |
+| 14 | [careless10](https://github.com/careless10) | Menawer | Kuwait | 3,828 |
 | 15 | [Mazyod](https://github.com/Mazyod) | Maz | Kuwait | 3,794 |
 | 16 | [iZaL](https://github.com/iZaL) | Afzal Abbas | Kuwait | 3,529 |
 | 17 | [DiNaSoR](https://github.com/DiNaSoR) | BuYousef | Kuwait | 3,511 |
@@ -37,7 +37,7 @@ Indexed users: 797
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [BAWES](https://github.com/BAWES) | Khalid Al-Mutawa | Kuwait | 6,279 |
+| 1 | [BAWES](https://github.com/BAWES) | Khalid Al-Mutawa | Kuwait | 6,575 |
 | 2 | [quadrillion-q8](https://github.com/quadrillion-q8) | Kuwait Computer Repair on Call | Hawalli, Kuwait | 3,205 |
 | 3 | [arabcoders](https://github.com/arabcoders) | Abdulmohsen | Kuwait | 2,372 |
 | 4 | [fahadTheTechIdea](https://github.com/fahadTheTechIdea) | Fahad Aldhubaib | Kuwait | 2,193 |
@@ -47,7 +47,7 @@ Indexed users: 797
 | 8 | [Moslemjaw](https://github.com/Moslemjaw) | Moslem Jawich | Kuwait | 1,571 |
 | 9 | [aalhendi](https://github.com/aalhendi) | Abdulrazzaq Alhendi | Kuwait | 1,399 |
 | 10 | [Mubder](https://github.com/Mubder) | Mubder Alfaris | Kuwait | 1,334 |
-| 11 | [knro](https://github.com/knro) | Jasem Mutlaq | Kuwait | 941 |
+| 11 | [knro](https://github.com/knro) | Jasem Mutlaq | Kuwait | 947 |
 | 12 | [usamahklair](https://github.com/usamahklair) | Usamah Klair | Kuwait | 823 |
 | 13 | [Mazyod](https://github.com/Mazyod) | Maz | Kuwait | 628 |
 | 14 | [azikar24](https://github.com/azikar24) | Abdulaziz Karam | Kuwait | 616 |
@@ -83,4 +83,4 @@ Indexed users: 797
 | 19 | [MoathOthman](https://github.com/MoathOthman) | Moath othman | Kuwait | 85 |
 | 20 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Kuwait | 81 |
 
-Generated: 2026-10-16T21:17:13.803Z
+Generated: 2026-10-16T23:48:08.886Z

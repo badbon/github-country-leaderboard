@@ -19,19 +19,19 @@ Indexed users: 2,445
 | 5 | [bekishh](https://github.com/bekishh) | Zh Beknazar | Kyrgystan, Bishkek | 9,417 |
 | 6 | [anton-plebanovich](https://github.com/anton-plebanovich) | Anton Plebanovich | Kyrgyzstan, Bishkek | 9,200 |
 | 7 | [whyfoks1s](https://github.com/whyfoks1s) | Kutman Melisov | Kyrgyzstan | 6,581 |
-| 8 | [zarylbek-tenxdevs](https://github.com/zarylbek-tenxdevs) |  | Kyrgyzstan | 6,123 |
-| 9 | [Amanch1ik](https://github.com/Amanch1ik) | Amanchik | Bishkek | 6,088 |
-| 10 | [songhee24](https://github.com/songhee24) | Azamat | Kyrgyzstan | 5,391 |
-| 11 | [qiniks](https://github.com/qiniks) | Talant Mataev | Kyrgyzstan | 5,133 |
-| 12 | [chalshik](https://github.com/chalshik) | Nurmukhammed Kalmamatov | Kyrgyzstan | 5,086 |
-| 13 | [emirbaktybekov-king](https://github.com/emirbaktybekov-king) | Emir Baktybekov | Bishkek, Kyrgyzstan | 5,027 |
-| 14 | [P5ina](https://github.com/P5ina) | Timur Turatbekov | Kyrgyzstan, Bishkek | 4,996 |
-| 15 | [991o2o9](https://github.com/991o2o9) | Soltobekov Amin | Bishkek | 4,857 |
-| 16 | [isybai](https://github.com/isybai) | Isa | Bishkek | 4,752 |
-| 17 | [nasipa1](https://github.com/nasipa1) | Nasipa | Kyrgyzstan, Bishkek | 4,724 |
-| 18 | [timplifier](https://github.com/timplifier) | timplifier雨 | Bishkek | 4,644 |
-| 19 | [eeemmm29](https://github.com/eeemmm29) | EM | Kyrgyzstan | 4,454 |
-| 20 | [bonyvah](https://github.com/bonyvah) | Bekbolsun Ysmanov | Kyrgyzstan | 4,265 |
+| 8 | [hinex](https://github.com/hinex) | Roman Hinex | Kyrgyzstan, Bishkek | 6,175 |
+| 9 | [zarylbek-tenxdevs](https://github.com/zarylbek-tenxdevs) |  | Kyrgyzstan | 6,123 |
+| 10 | [Amanch1ik](https://github.com/Amanch1ik) | Amanchik | Bishkek | 6,088 |
+| 11 | [songhee24](https://github.com/songhee24) | Azamat | Kyrgyzstan | 5,391 |
+| 12 | [qiniks](https://github.com/qiniks) | Talant Mataev | Kyrgyzstan | 5,133 |
+| 13 | [chalshik](https://github.com/chalshik) | Nurmukhammed Kalmamatov | Kyrgyzstan | 5,086 |
+| 14 | [emirbaktybekov-king](https://github.com/emirbaktybekov-king) | Emir Baktybekov | Bishkek, Kyrgyzstan | 5,027 |
+| 15 | [P5ina](https://github.com/P5ina) | Timur Turatbekov | Kyrgyzstan, Bishkek | 4,996 |
+| 16 | [991o2o9](https://github.com/991o2o9) | Soltobekov Amin | Bishkek | 4,857 |
+| 17 | [isybai](https://github.com/isybai) | Isa | Bishkek | 4,752 |
+| 18 | [nasipa1](https://github.com/nasipa1) | Nasipa | Kyrgyzstan, Bishkek | 4,724 |
+| 19 | [timplifier](https://github.com/timplifier) | timplifier雨 | Bishkek | 4,644 |
+| 20 | [eeemmm29](https://github.com/eeemmm29) | EM | Kyrgyzstan | 4,454 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 2,445
 | 19 | [Elkhan2003](https://github.com/Elkhan2003) | Elkhan Sharshenbekov | Karakol, Kyrgyzstan | 103 |
 | 20 | [eszdman](https://github.com/eszdman) |  | Kyrgyzstan | 103 |
 
-Generated: 2026-10-16T21:17:17.329Z
+Generated: 2026-10-16T23:48:14.523Z

@@ -1,12 +1,12 @@
 # Public Contributions - Kuwait
 
-Generated: 2026-10-16T21:17:13.803Z
+Generated: 2026-10-16T23:48:08.886Z
 
 Users: 797
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [BAWES](https://github.com/BAWES) | Khalid Al-Mutawa | BAWES |  | Kuwait | 6279 |
+| 1 | [BAWES](https://github.com/BAWES) | Khalid Al-Mutawa | BAWES |  | Kuwait | 6575 |
 | 2 | [quadrillion-q8](https://github.com/quadrillion-q8) | Kuwait Computer Repair on Call |  |  | Hawalli, Kuwait | 3205 |
 | 3 | [arabcoders](https://github.com/arabcoders) | Abdulmohsen |  |  | Kuwait | 2372 |
 | 4 | [fahadTheTechIdea](https://github.com/fahadTheTechIdea) | Fahad Aldhubaib | The Tech Idea |  | Kuwait | 2193 |
@@ -16,7 +16,7 @@ Users: 797
 | 8 | [Moslemjaw](https://github.com/Moslemjaw) | Moslem Jawich | Nova |  | Kuwait | 1571 |
 | 9 | [aalhendi](https://github.com/aalhendi) | Abdulrazzaq Alhendi |  |  | Kuwait | 1399 |
 | 10 | [Mubder](https://github.com/Mubder) | Mubder Alfaris | KazmaAI | b_alfaris | Kuwait | 1334 |
-| 11 | [knro](https://github.com/knro) | Jasem Mutlaq |  |  | Kuwait | 941 |
+| 11 | [knro](https://github.com/knro) | Jasem Mutlaq |  |  | Kuwait | 947 |
 | 12 | [usamahklair](https://github.com/usamahklair) | Usamah Klair | ZyntraChain  |  | Kuwait | 823 |
 | 13 | [Mazyod](https://github.com/Mazyod) | Maz | Boubyan Bank |  | Kuwait | 628 |
 | 14 | [azikar24](https://github.com/azikar24) | Abdulaziz Karam |  |  | Kuwait | 616 |

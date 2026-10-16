@@ -19,7 +19,7 @@ Indexed users: 1,274
 | 5 | [eforth](https://github.com/eforth) | Ervin Forth | Jamaica | 9,400 |
 | 6 | [olusiekwin](https://github.com/olusiekwin) | Gramm | kingston, JM | 8,867 |
 | 7 | [kenoButler](https://github.com/kenoButler) | KenoB | Kingston, Jamaica | 8,749 |
-| 8 | [QuigProQuo](https://github.com/QuigProQuo) | John Peter Quigley | Kingston, New York | 7,798 |
+| 8 | [QuigProQuo](https://github.com/QuigProQuo) | John Peter Quigley | Kingston, New York | 7,955 |
 | 9 | [DinitoThompson](https://github.com/DinitoThompson) | Dinito Thompson | Jamaica | 6,874 |
 | 10 | [marcamillion](https://github.com/marcamillion) | Marc Gayle | Kingston, Jamaica | 6,366 |
 | 11 | [billlevine](https://github.com/billlevine) | Bill LeVine | Kingston, Ontario | 6,067 |
@@ -83,4 +83,4 @@ Indexed users: 1,274
 | 19 | [aliasad059](https://github.com/aliasad059) | Ali Asad | Kingston, Ontario | 100 |
 | 20 | [jordanliu](https://github.com/jordanliu) | Jordan Liu | Kingston, Jamaica | 95 |
 
-Generated: 2026-10-16T21:13:53.264Z
+Generated: 2026-10-16T23:46:53.453Z

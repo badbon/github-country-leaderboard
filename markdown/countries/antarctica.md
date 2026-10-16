@@ -15,8 +15,8 @@ Indexed users: 460
 | 1 | [lukeanthony007](https://github.com/lukeanthony007) | Lucas | Antarctica | 6,605 |
 | 2 | [shreeshiv](https://github.com/shreeshiv) | Shreeshiv Patel | Antarctica | 6,337 |
 | 3 | [adwait1290](https://github.com/adwait1290) | Adwait Athale | Antarctica | 6,034 |
-| 4 | [ifarbod](https://github.com/ifarbod) | iFarbod | Antarctica  | 5,206 |
-| 5 | [jeongho](https://github.com/jeongho) | Jeongho Park | Deception Island, Antarctica | 5,048 |
+| 4 | [ifarbod](https://github.com/ifarbod) | iFarbod | Antarctica  | 5,171 |
+| 5 | [jeongho](https://github.com/jeongho) | Jeongho Park | Deception Island, Antarctica | 5,103 |
 | 6 | [morgaesis](https://github.com/morgaesis) | Mörgæsis | Antarctica | 4,999 |
 | 7 | [JohnChristianD](https://github.com/JohnChristianD) | John Christian Domingo | Antarctica | 4,791 |
 | 8 | [AntoineSebert](https://github.com/AntoineSebert) | Antoine Sébert | Antarctica | 4,776 |
@@ -63,7 +63,7 @@ Indexed users: 460
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [adam-maj](https://github.com/adam-maj) | Adam Majmudar | South Pole, Antarctica | 1,912 |
-| 2 | [Washi1337](https://github.com/Washi1337) | Washi | McMurdo Station, Antarctica | 618 |
+| 2 | [Washi1337](https://github.com/Washi1337) | Washi | McMurdo Station, Antarctica | 617 |
 | 3 | [r-lyeh](https://github.com/r-lyeh) |  | Vostok, Antarctica | 464 |
 | 4 | [josephpoon](https://github.com/josephpoon) | Joseph Poon | Antarctica | 343 |
 | 5 | [walterwhite-69](https://github.com/walterwhite-69) | Walter | Antarctica | 220 |
@@ -83,4 +83,4 @@ Indexed users: 460
 | 19 | [alphaaurigae](https://github.com/alphaaurigae) | Marian Brockerhoff | Antarctica | 86 |
 | 20 | [fakeid30](https://github.com/fakeid30) | Fake ID | Antarctica | 78 |
 
-Generated: 2026-10-16T20:45:43.937Z
+Generated: 2026-10-16T23:06:23.895Z

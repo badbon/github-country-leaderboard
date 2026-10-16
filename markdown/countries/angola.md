@@ -1,6 +1,6 @@
 # Angola
 
-Indexed users: 2,501
+Indexed users: 2,500
 
 | Leaderboard | Link |
 |---|---|
@@ -30,8 +30,8 @@ Indexed users: 2,501
 | 16 | [Dalcio](https://github.com/Dalcio) | Dálcio Macuete Garcia | Angola | 3,992 |
 | 17 | [steviejames](https://github.com/steviejames) | Sílvio Dumba | Luanda, Angola | 3,691 |
 | 18 | [paulinofonsecas](https://github.com/paulinofonsecas) | Paulino Fonseca | Luanda | 3,660 |
-| 19 | [overlineink](https://github.com/overlineink) | 𝔍𝖔𝖗𝖌𝖊 𝕮𝖔𝖘𝖙𝖆 | Luanda, Angola | 3,600 |
-| 20 | [BaziotaBeans](https://github.com/BaziotaBeans) | Fábio Baziota | Angola/Luanda | 3,546 |
+| 19 | [rickdeu](https://github.com/rickdeu) | André Hangalo | Angola | 3,655 |
+| 20 | [overlineink](https://github.com/overlineink) | 𝔍𝖔𝖗𝖌𝖊 𝕮𝖔𝖘𝖙𝖆 | Luanda, Angola | 3,600 |
 
 ## Public Contributions
 
@@ -69,7 +69,7 @@ Indexed users: 2,501
 | 5 | [JoseCage](https://github.com/JoseCage) | José Cage  | Luanda, Angola | 406 |
 | 6 | [westjoao12](https://github.com/westjoao12) | West João | Angola, Luanda | 338 |
 | 7 | [Adyllsxn](https://github.com/Adyllsxn) | Domingos Nascimento | Luanda, Angola | 294 |
-| 8 | [braulio94](https://github.com/braulio94) | Braulio Cassule | Luanda, Angola | 272 |
+| 8 | [braulio94](https://github.com/braulio94) | Braulio Cassule | Luanda, Angola | 271 |
 | 9 | [gentildpinto](https://github.com/gentildpinto) | Gentil Pinto | Luanda, Angola | 260 |
 | 10 | [matheusmanuel](https://github.com/matheusmanuel) | Matheus Manuel | Angola/Luanda | 259 |
 | 11 | [manuelcunga](https://github.com/manuelcunga) | Lázaro Manuel Cunga | Angola/Luanda | 228 |
@@ -83,4 +83,4 @@ Indexed users: 2,501
 | 19 | [jofranqueira](https://github.com/jofranqueira) | José Frangueira | Angola | 160 |
 | 20 | [Jovanysfive](https://github.com/Jovanysfive) | Job Bento | Angola/Luanda | 152 |
 
-Generated: 2026-10-16T20:40:26.092Z
+Generated: 2026-10-16T23:05:02.716Z

@@ -1,6 +1,6 @@
 # Public Contributions - Azerbaijan
 
-Generated: 2026-10-16T20:42:00.127Z
+Generated: 2026-10-16T23:09:30.168Z
 
 Users: 5069
 
@@ -20,9 +20,9 @@ Users: 5069
 | 12 | [agasefmemmedli](https://github.com/agasefmemmedli) | Agasef Memmedli | XalqBank |  | Azerbaijan , Baku . | 2508 |
 | 13 | [kenanqafarov](https://github.com/kenanqafarov) | Kenan Qafarov | Enthuzone |  | Baku, Azerbaijan | 2493 |
 | 14 | [Firdovsirz](https://github.com/Firdovsirz) | Firdovsi Rzaev |  |  | Baku | 2405 |
-| 15 | [Aytac21](https://github.com/Aytac21) | Aytac Mehdizadə |  |  | Baku | 2082 |
-| 16 | [Semedw](https://github.com/Semedw) | Samad Musazade |  |  | Azerbaijan | 2053 |
-| 17 | [aliyevaladddin](https://github.com/aliyevaladddin) | Aladdin Aliyev |  | Aladddinaliyev | Azerbaijan,Baku | 2050 |
-| 18 | [TheSarKhan](https://github.com/TheSarKhan) | SarKhann |  |  | Azerbaijan | 1989 |
-| 19 | [omar07ibrahim](https://github.com/omar07ibrahim) | Omar Ibrahim  | MBZUAI  |  | Baku  | 1983 |
-| 20 | [MuradAgamedov](https://github.com/MuradAgamedov) | Murad Agamedov | Open to work |  | Baku, Azerbaijan | 1897 |
+| 15 | [Semedw](https://github.com/Semedw) | Samad Musazade |  |  | Azerbaijan | 2053 |
+| 16 | [aliyevaladddin](https://github.com/aliyevaladddin) | Aladdin Aliyev |  | Aladddinaliyev | Azerbaijan,Baku | 2050 |
+| 17 | [TheSarKhan](https://github.com/TheSarKhan) | SarKhann |  |  | Azerbaijan | 1989 |
+| 18 | [omar07ibrahim](https://github.com/omar07ibrahim) | Omar Ibrahim  | MBZUAI  |  | Baku  | 1983 |
+| 19 | [MuradAgamedov](https://github.com/MuradAgamedov) | Murad Agamedov | Open to work |  | Baku, Azerbaijan | 1897 |
+| 20 | [subhangadirli](https://github.com/subhangadirli) | Subhan Gadirli | JK Holding |  | Sumgayit, Azerbaijan | 1803 |

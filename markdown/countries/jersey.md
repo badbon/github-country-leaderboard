@@ -18,13 +18,13 @@ Indexed users: 139
 | 4 | [ndestates](https://github.com/ndestates) | Nick Dodsley | Jersey | 10,710 |
 | 5 | [guessty](https://github.com/guessty) | Christian | Jersey, Channel Islands | 8,125 |
 | 6 | [timkrins](https://github.com/timkrins) | Tim Krins | Jersey, Channel Islands | 4,833 |
-| 7 | [danielmullin](https://github.com/danielmullin) | Daniel Mullin | Jersey | 4,649 |
+| 7 | [danielmullin](https://github.com/danielmullin) | Daniel Mullin | Jersey | 4,698 |
 | 8 | [gnathoi](https://github.com/gnathoi) | Nathaniel Hey | Jersey, Channel Islands | 4,334 |
 | 9 | [wildgeodude](https://github.com/wildgeodude) | Dominic Samphier | Jersey | 4,073 |
 | 10 | [digitalbuddha](https://github.com/digitalbuddha) | Mike Nakhimovich | The dirty (jersey) | 3,837 |
 | 11 | [oidz1234](https://github.com/oidz1234) | Mark McNally | Jersey | 3,351 |
 | 12 | [r-moore](https://github.com/r-moore) | Richard Moore | Jersey | 3,333 |
-| 13 | [cjkmcc](https://github.com/cjkmcc) | Chris McCarthy | Jersey / London | 2,885 |
+| 13 | [cjkmcc](https://github.com/cjkmcc) | Chris McCarthy | Jersey / London | 2,888 |
 | 14 | [TafadzwaD](https://github.com/TafadzwaD) | Tafadzwa Demba | Jersey | 2,385 |
 | 15 | [samjamead](https://github.com/samjamead) | Sam Mead | Grouville, Jersey | 1,754 |
 | 16 | [jackleriche](https://github.com/jackleriche) | Jack Le Riche | Jersey | 1,627 |
@@ -63,14 +63,14 @@ Indexed users: 139
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [digitalbuddha](https://github.com/digitalbuddha) | Mike Nakhimovich | The dirty (jersey) | 791 |
-| 2 | [simonbrowndotje](https://github.com/simonbrowndotje) | Simon Brown | Jersey, Channel Islands | 761 |
+| 2 | [simonbrowndotje](https://github.com/simonbrowndotje) | Simon Brown | Jersey, Channel Islands | 762 |
 | 3 | [marcusquinn](https://github.com/marcusquinn) | Marcus Quinn | London, UK, Los-angeles, California, England, Jersey | 238 |
 | 4 | [PhilETaylor](https://github.com/PhilETaylor) | Phil E. Taylor | Jersey, Channel Islands | 68 |
 | 5 | [techtribesje](https://github.com/techtribesje) | techtribes.je | Jersey, Channel Islands | 55 |
-| 6 | [CJ-Jackson](https://github.com/CJ-Jackson) | Christopher John Jackson | St. Clement, Jersey | 46 |
+| 6 | [CJ-Jackson](https://github.com/CJ-Jackson) | Christopher John Jackson | St. Clement, Jersey | 47 |
 | 7 | [Adrian609](https://github.com/Adrian609) | Adrian | Jersey | 45 |
 | 8 | [cappadona](https://github.com/cappadona) | Nick Cappadona | Jersey | 39 |
-| 9 | [nunnsy](https://github.com/nunnsy) | Daniel Nunns | Jersey, Channel Islands | 37 |
+| 9 | [nunnsy](https://github.com/nunnsy) | Daniel Nunns | Jersey, Channel Islands | 38 |
 | 10 | [j4ckxyz](https://github.com/j4ckxyz) | jack | Jersey, UK | 36 |
 | 11 | [oidz1234](https://github.com/oidz1234) | Mark McNally | Jersey | 34 |
 | 12 | [TafadzwaD](https://github.com/TafadzwaD) | Tafadzwa Demba | Jersey | 29 |
@@ -83,4 +83,4 @@ Indexed users: 139
 | 19 | [garyedwards](https://github.com/garyedwards) | Gary Edwards | Jersey, Channel Islands | 21 |
 | 20 | [Chrisedmo](https://github.com/Chrisedmo) | Chris Mousdale | Jersey, Channel Islands | 20 |
 
-Generated: 2026-10-16T21:13:58.333Z
+Generated: 2026-10-16T23:46:57.415Z

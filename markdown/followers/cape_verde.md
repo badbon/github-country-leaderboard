@@ -1,6 +1,6 @@
 # Followers - Cape Verde
 
-Generated: 2026-10-16T20:50:37.061Z
+Generated: 2026-10-16T23:18:35.905Z
 
 Users: 563
 
@@ -8,7 +8,7 @@ Users: 563
 |---:|---|---|---|---|---|---:|
 | 1 | [Andreia797](https://github.com/Andreia797) | Andreia Semedo |  |  | Cape Verde | 451 |
 | 2 | [natanvalimcardoso](https://github.com/natanvalimcardoso) | Natan Valim | Bemol |  | Praia Grande - SC | 436 |
-| 3 | [Jorgegabrielsantos](https://github.com/Jorgegabrielsantos) | Jorge Gabriel |  |  | Cape Verde,Praia | 362 |
+| 3 | [Jorgegabrielsantos](https://github.com/Jorgegabrielsantos) | Jorge Gabriel |  |  | Cape Verde,Praia | 369 |
 | 4 | [Dnuns](https://github.com/Dnuns) | David Nunes | @academia-de-codigo | DavidFNunes | Cape Verde | 212 |
 | 5 | [MiAfroki](https://github.com/MiAfroki) | Milena Camargo Reis | TCS - Tata Consultancy Services | miafroki | Praia Grande - SP | 142 |
 | 6 | [lukas8219](https://github.com/lukas8219) | Lucas Weis Polesello | @cloudamqp @84codes  | luucaspole | Praia do Rosa/SC - Brasil | 138 |

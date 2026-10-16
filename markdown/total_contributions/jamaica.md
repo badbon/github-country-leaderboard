@@ -1,6 +1,6 @@
 # Total Contributions - Jamaica
 
-Generated: 2026-10-16T21:13:53.264Z
+Generated: 2026-10-16T23:46:53.453Z
 
 Users: 1274
 
@@ -13,7 +13,7 @@ Users: 1274
 | 5 | [eforth](https://github.com/eforth) | Ervin Forth | Healthcare EQ | ErvinForth | Jamaica | 9400 |
 | 6 | [olusiekwin](https://github.com/olusiekwin) | Gramm | Gramm's Foundation | _olusiekwin | kingston, JM | 8867 |
 | 7 | [kenoButler](https://github.com/kenoButler) | KenoB |  |  | Kingston, Jamaica | 8749 |
-| 8 | [QuigProQuo](https://github.com/QuigProQuo) | John Peter Quigley | Quigley Group | JohnPeterAt | Kingston, New York | 7798 |
+| 8 | [QuigProQuo](https://github.com/QuigProQuo) | John Peter Quigley | Quigley Group | JohnPeterAt | Kingston, New York | 7955 |
 | 9 | [DinitoThompson](https://github.com/DinitoThompson) | Dinito Thompson | @Konnexx-Software-Developers  |  | Jamaica | 6874 |
 | 10 | [marcamillion](https://github.com/marcamillion) | Marc Gayle | Marc Gayle |  | Kingston, Jamaica | 6366 |
 | 11 | [billlevine](https://github.com/billlevine) | Bill LeVine | Flox |  | Kingston, Ontario | 6067 |

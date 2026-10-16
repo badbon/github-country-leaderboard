@@ -1,6 +1,6 @@
 # Total Contributions - Kyrgyzstan
 
-Generated: 2026-10-16T21:17:17.329Z
+Generated: 2026-10-16T23:48:14.523Z
 
 Users: 2445
 
@@ -13,16 +13,16 @@ Users: 2445
 | 5 | [bekishh](https://github.com/bekishh) | Zh Beknazar | Prodify |  | Kyrgystan, Bishkek | 9417 |
 | 6 | [anton-plebanovich](https://github.com/anton-plebanovich) | Anton Plebanovich | Gologolol |  | Kyrgyzstan, Bishkek | 9200 |
 | 7 | [whyfoks1s](https://github.com/whyfoks1s) | Kutman Melisov | AIT Solutions |  | Kyrgyzstan | 6581 |
-| 8 | [zarylbek-tenxdevs](https://github.com/zarylbek-tenxdevs) |  |  |  | Kyrgyzstan | 6123 |
-| 9 | [Amanch1ik](https://github.com/Amanch1ik) | Amanchik |  |  | Bishkek | 6088 |
-| 10 | [songhee24](https://github.com/songhee24) | Azamat |  |  | Kyrgyzstan | 5391 |
-| 11 | [qiniks](https://github.com/qiniks) | Talant Mataev |  |  | Kyrgyzstan | 5133 |
-| 12 | [chalshik](https://github.com/chalshik) | Nurmukhammed Kalmamatov | @aitsolutions |  | Kyrgyzstan | 5086 |
-| 13 | [emirbaktybekov-king](https://github.com/emirbaktybekov-king) | Emir Baktybekov |  |  | Bishkek, Kyrgyzstan | 5027 |
-| 14 | [P5ina](https://github.com/P5ina) | Timur Turatbekov |  |  | Kyrgyzstan, Bishkek | 4996 |
-| 15 | [991o2o9](https://github.com/991o2o9) | Soltobekov Amin |  |  | Bishkek | 4857 |
-| 16 | [isybai](https://github.com/isybai) | Isa | Stim.io |  | Bishkek | 4752 |
-| 17 | [nasipa1](https://github.com/nasipa1) | Nasipa | LLC Alpha-Net |  | Kyrgyzstan, Bishkek | 4724 |
-| 18 | [timplifier](https://github.com/timplifier) | timplifier雨 | @Timbermir |  | Bishkek | 4644 |
-| 19 | [eeemmm29](https://github.com/eeemmm29) | EM | AIT Solutions |  | Kyrgyzstan | 4454 |
-| 20 | [bonyvah](https://github.com/bonyvah) | Bekbolsun Ysmanov |  |  | Kyrgyzstan | 4265 |
+| 8 | [hinex](https://github.com/hinex) | Roman Hinex | @hardskilled  |  | Kyrgyzstan, Bishkek | 6175 |
+| 9 | [zarylbek-tenxdevs](https://github.com/zarylbek-tenxdevs) |  |  |  | Kyrgyzstan | 6123 |
+| 10 | [Amanch1ik](https://github.com/Amanch1ik) | Amanchik |  |  | Bishkek | 6088 |
+| 11 | [songhee24](https://github.com/songhee24) | Azamat |  |  | Kyrgyzstan | 5391 |
+| 12 | [qiniks](https://github.com/qiniks) | Talant Mataev |  |  | Kyrgyzstan | 5133 |
+| 13 | [chalshik](https://github.com/chalshik) | Nurmukhammed Kalmamatov | @aitsolutions |  | Kyrgyzstan | 5086 |
+| 14 | [emirbaktybekov-king](https://github.com/emirbaktybekov-king) | Emir Baktybekov |  |  | Bishkek, Kyrgyzstan | 5027 |
+| 15 | [P5ina](https://github.com/P5ina) | Timur Turatbekov |  |  | Kyrgyzstan, Bishkek | 4996 |
+| 16 | [991o2o9](https://github.com/991o2o9) | Soltobekov Amin |  |  | Bishkek | 4857 |
+| 17 | [isybai](https://github.com/isybai) | Isa | Stim.io |  | Bishkek | 4752 |
+| 18 | [nasipa1](https://github.com/nasipa1) | Nasipa | LLC Alpha-Net |  | Kyrgyzstan, Bishkek | 4724 |
+| 19 | [timplifier](https://github.com/timplifier) | timplifier雨 | @Timbermir |  | Bishkek | 4644 |
+| 20 | [eeemmm29](https://github.com/eeemmm29) | EM | AIT Solutions |  | Kyrgyzstan | 4454 |

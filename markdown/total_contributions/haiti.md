@@ -1,6 +1,6 @@
 # Total Contributions - Haiti
 
-Generated: 2026-10-16T21:08:17.577Z
+Generated: 2026-10-16T23:41:29.615Z
 
 Users: 339
 
@@ -19,10 +19,10 @@ Users: 339
 | 11 | [youko509](https://github.com/youko509) |  Erico Saint-Charles |  |  | Haiti | 1781 |
 | 12 | [kingsGuillaume99](https://github.com/kingsGuillaume99) | Guillaume Kingsley | @juksgraphic , @codingClubHaiti , @atraxcompany |  | Port-au-Prince , Haiti | 1756 |
 | 13 | [bleuscyther](https://github.com/bleuscyther) | jeffrey n. carre | fruitsbytes | jeffrey_n_carre | Haiti | 1728 |
-| 14 | [didierganthier](https://github.com/didierganthier) | Didier Peran Ganthier | @reactjs @microverseinc  | didierganthier_ | Port-au-prince, Haïti | 1717 |
+| 14 | [didierganthier](https://github.com/didierganthier) | Didier Peran Ganthier | @reactjs @microverseinc  | didierganthier_ | Port-au-prince, Haïti | 1714 |
 | 15 | [thecassion](https://github.com/thecassion) | Pierre Robentz CASSION | @CarisFoundation @YoopleCorp @MLHaiti @FDS | thecassion | Haiti | 1532 |
 | 16 | [antifugazis](https://github.com/antifugazis) | Jyvor Slaadel Mortimer |  | antifugazis | Port-au-Prince | 1459 |
-| 17 | [fater04](https://github.com/fater04) | fater_04 | freelance | fater_04 | Haiti | 1157 |
+| 17 | [fater04](https://github.com/fater04) | fater_04 | freelance | fater_04 | Haiti | 1159 |
 | 18 | [jsbeaudry](https://github.com/jsbeaudry) | Beaudry Jean Sauvenel | Parkour studio |  | Port-au-prince, Haiti | 974 |
 | 19 | [EdManDev](https://github.com/EdManDev) | EdManDev | EdManDev | EdmanManigat | Haiti | 944 |
 | 20 | [dukenst2006](https://github.com/dukenst2006) | Thelemaque | Jetlitransfer | dukenst | Port-au-Prince | 897 |

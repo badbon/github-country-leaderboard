@@ -1,6 +1,6 @@
 # Total Contributions - Benin
 
-Generated: 2026-10-16T20:45:50.172Z
+Generated: 2026-10-16T23:11:35.129Z
 
 Users: 471
 
@@ -8,7 +8,7 @@ Users: 471
 |---:|---|---|---|---|---|---:|
 | 1 | [SteveAsterAfovo](https://github.com/SteveAsterAfovo) | Steve Aster AFOVO | @ProGestionSoft  | SteveAsterAfovo | Abomey-Calavi, Benin | 17520 |
 | 2 | [Abdoul-wakilou](https://github.com/Abdoul-wakilou) | AbDev - Freelance | AbDev - Freelance | abdev229 | Cotonou, Benin | 9504 |
-| 3 | [nahim-salami](https://github.com/nahim-salami) | Nahim SALAMI | Ahime | salami_nahim | Benin | 8903 |
+| 3 | [nahim-salami](https://github.com/nahim-salami) | Nahim SALAMI | Ahime | salami_nahim | Benin | 8968 |
 | 4 | [blackdevfeldy](https://github.com/blackdevfeldy) | TOHOYESSOU Feldy |  |  | Cotonou, Benin | 7892 |
 | 5 | [AxelSalim](https://github.com/AxelSalim) | ADJAKIDJE K. Axel S. H. |  | iamaxelsalim | Benin | 7318 |
 | 6 | [devalade](https://github.com/devalade) | Alade YESSOUFOU |  | dev_alade | Cotonou,Littoral, Benin | 6576 |
@@ -24,5 +24,5 @@ Users: 471
 | 16 | [Van064886](https://github.com/Van064886) | Vanique ATADE  | ___ |  | Cotonou, Benin | 3581 |
 | 17 | [20Frederic20](https://github.com/20Frederic20) |  | SICOGES ByGAMS | Blvck_Excelsior | Benin, Cotonou | 3352 |
 | 18 | [Aulerien](https://github.com/Aulerien) | TCHANHOUIN Amede Angel Aulerien |  |  | Benin, Cotonou | 3236 |
-| 19 | [salemnouhou](https://github.com/salemnouhou) | Salem Souleymane NOUHOU | @EpitechCodingAcademyPromo2024  |  | Cotonou, BENIN | 3141 |
-| 20 | [mdnjohn](https://github.com/mdnjohn) | John B. |  | mdnjohnb | Benin | 3138 |
+| 19 | [koladev32](https://github.com/koladev32) | Mangabo  Kolawole |  | koladev32 | Benin, Cotonou | 3216 |
+| 20 | [salemnouhou](https://github.com/salemnouhou) | Salem Souleymane NOUHOU | @EpitechCodingAcademyPromo2024  |  | Cotonou, BENIN | 3141 |

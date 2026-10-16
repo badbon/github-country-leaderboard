@@ -14,7 +14,7 @@ Top GitHub users by country, ranked from public GitHub profile and contribution 
 
 | Country | Indexed Users | Public | Total | Followers |
 |---|---:|---|---|---|
-| [Ethiopia](markdown/countries/ethiopia.md) | 6,690 | [Public](markdown/public_contributions/ethiopia.md) | [Total](markdown/total_contributions/ethiopia.md) | [Followers](markdown/followers/ethiopia.md) |
+| [Ethiopia](markdown/countries/ethiopia.md) | 6,688 | [Public](markdown/public_contributions/ethiopia.md) | [Total](markdown/total_contributions/ethiopia.md) | [Followers](markdown/followers/ethiopia.md) |
 | [Turkmenistan](markdown/countries/turkmenistan.md) | 501 | [Public](markdown/public_contributions/turkmenistan.md) | [Total](markdown/total_contributions/turkmenistan.md) | [Followers](markdown/followers/turkmenistan.md) |
 | [Panama](markdown/countries/panama.md) | 1,069 | [Public](markdown/public_contributions/panama.md) | [Total](markdown/total_contributions/panama.md) | [Followers](markdown/followers/panama.md) |
 | [Uruguay](markdown/countries/uruguay.md) | 5,616 | [Public](markdown/public_contributions/uruguay.md) | [Total](markdown/total_contributions/uruguay.md) | [Followers](markdown/followers/uruguay.md) |
@@ -26,4 +26,4 @@ The collector searches GitHub users by self-reported profile location, keeps use
 
 Locations are not verified. The raw profile location is preserved, and country assignment uses deterministic country, alias, city, and exact phrase rules.
 
-Generated: 2026-10-16T21:54:52.586Z
+Generated: 2026-10-16T23:52:43.866Z

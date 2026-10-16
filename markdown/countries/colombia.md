@@ -63,7 +63,7 @@ Indexed users: 29,156
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [elyxdev](https://github.com/elyxdev) | Elyx | Medellín, Colombia. | 27,484 |
-| 2 | [jkdevcode](https://github.com/jkdevcode) | Dario Zamora | Colombia | 5,141 |
+| 2 | [jkdevcode](https://github.com/jkdevcode) | Dario Zamora | Colombia | 6,875 |
 | 3 | [gndx](https://github.com/gndx) | Oscar Barajas Tavares | Colombia | 3,249 |
 | 4 | [guevaraStian](https://github.com/guevaraStian) | GuevaraStian | Colombia | 2,805 |
 | 5 | [juandc](https://github.com/juandc) | Juan David Castro | Bogota, Colombia. | 1,735 |
@@ -83,4 +83,4 @@ Indexed users: 29,156
 | 19 | [goanpeca](https://github.com/goanpeca) | Gonzalo Peña-Castellanos | Bogotá, Colombia | 530 |
 | 20 | [jdvelasq](https://github.com/jdvelasq) | Juan David Velásquez-Henao | Medellín, Colombia | 529 |
 
-Generated: 2026-10-16T20:51:56.392Z
+Generated: 2026-10-16T23:23:08.406Z
