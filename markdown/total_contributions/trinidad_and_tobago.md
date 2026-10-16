@@ -1,6 +1,6 @@
 # Total Contributions - Trinidad and Tobago
 
-Generated: 2026-10-15T23:06:22.453Z
+Generated: 2026-10-16T00:32:18.905Z
 
 Users: 256
 
@@ -15,12 +15,12 @@ Users: 256
 | 7 | [AnthonyASBaptiste](https://github.com/AnthonyASBaptiste) | Anthony A.S Baptiste |  |  | Trinidad and Tobago | 2910 |
 | 8 | [creativenull](https://github.com/creativenull) | Arnold Chand |  | creativenu11 | Trinidad and Tobago | 2298 |
 | 9 | [devxlag](https://github.com/devxlag) | Devon Murray | UWI |  | Trinidad and Tobago | 2226 |
-| 10 | [marcstampfli](https://github.com/marcstampfli) | Marc Stämpfli |  |  | Trinidad and Tobago | 2106 |
+| 10 | [marcstampfli](https://github.com/marcstampfli) | Marc Stämpfli |  |  | Trinidad and Tobago | 2103 |
 | 11 | [jaedanpersaud12](https://github.com/jaedanpersaud12) | Jaedan Persaud | zed-io | jaedanpersaudtt | Trinidad and Tobago | 2057 |
 | 12 | [edgeboy47](https://github.com/edgeboy47) | Darrion Mills |  |  | Trinidad and Tobago | 1551 |
 | 13 | [snorkpete](https://github.com/snorkpete) | Kion Stephen |  |  | Trinidad and Tobago | 1436 |
 | 14 | [Yhonathon-Maharaj](https://github.com/Yhonathon-Maharaj) | Yhonathon Maharaj | Euthy Labs | Yhonathon | Trinidad and Tobago | 1392 |
-| 15 | [mreid-tt](https://github.com/mreid-tt) | Michael Reid |  | mreid_tt | Trinidad and Tobago | 1279 |
+| 15 | [mreid-tt](https://github.com/mreid-tt) | Michael Reid |  | mreid_tt | Trinidad and Tobago | 1282 |
 | 16 | [renniemaharaj](https://github.com/renniemaharaj) | Rennie Maharaj | The Writer Company  |  | Trinidad and Tobago | 1186 |
 | 17 | [kwamet](https://github.com/kwamet) | Kwame Trancoso | @Heft-IQ |  | Trinidad and Tobago | 1010 |
 | 18 | [ZeroDayz77](https://github.com/ZeroDayz77) | Darnell Garcia |  |  | Trinidad and Tobago | 997 |

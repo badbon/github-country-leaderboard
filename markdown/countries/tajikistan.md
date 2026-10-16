@@ -69,7 +69,7 @@ Indexed users: 709
 | 5 | [Thexasan](https://github.com/Thexasan) | Husenov Hasan  | Tajikistan, Dushanbe | 140 |
 | 6 | [Amsurur](https://github.com/Amsurur) | Muhammadsurur Abdulloev | Dushanbe | 133 |
 | 7 | [faridun-dev](https://github.com/faridun-dev) | Faridun Fatkhullozoda | Dushanbe, Tajikistan | 114 |
-| 8 | [Abubakr7](https://github.com/Abubakr7) | Abubakr Juraev | Dushanbe Tajikistan | 101 |
+| 8 | [Abubakr7](https://github.com/Abubakr7) | Abubakr Juraev | Dushanbe Tajikistan | 102 |
 | 9 | [khaydarov](https://github.com/khaydarov) | Murod Khaydarov | Dushanbe, Tajikistan | 86 |
 | 10 | [AED11](https://github.com/AED11) | Akhmetov Eraj | Tajikistan Dushanbe | 80 |
 | 11 | [NurulloSulaymonov](https://github.com/NurulloSulaymonov) | Nurullo Sulaymonov | Tajikistan | 75 |
@@ -83,4 +83,4 @@ Indexed users: 709
 | 19 | [11bit](https://github.com/11bit) | Ivan Buryak | Dushanbe | 49 |
 | 20 | [Abdughafur](https://github.com/Abdughafur) | Abdughafur Khujzoda | Tajikistan | 48 |
 
-Generated: 2026-10-15T23:03:46.062Z
+Generated: 2026-10-16T00:29:30.395Z

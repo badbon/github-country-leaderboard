@@ -13,7 +13,7 @@ Indexed users: 11
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [enaros](https://github.com/enaros) | Emiliano | Tuvalu | 613 |
-| 2 | [xubeiyan](https://github.com/xubeiyan) | xubeiyan | Chenhai, Tuvalu(图瓦卢，辰海市) | 106 |
+| 2 | [xubeiyan](https://github.com/xubeiyan) | xubeiyan | Chenhai, Tuvalu(图瓦卢，辰海市) | 103 |
 | 3 | [temapr0](https://github.com/temapr0) |  | Tuvalu | 1 |
 | 4 | [Bubblingo0](https://github.com/Bubblingo0) |  | Tuvalu | 0 |
 | 5 | [deltaost](https://github.com/deltaost) | deltaost | Funafuti, Tuvalu | 0 |
@@ -28,7 +28,7 @@ Indexed users: 11
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [xubeiyan](https://github.com/xubeiyan) | xubeiyan | Chenhai, Tuvalu(图瓦卢，辰海市) | 100 |
+| 1 | [xubeiyan](https://github.com/xubeiyan) | xubeiyan | Chenhai, Tuvalu(图瓦卢，辰海市) | 97 |
 | 2 | [enaros](https://github.com/enaros) | Emiliano | Tuvalu | 2 |
 | 3 | [temapr0](https://github.com/temapr0) |  | Tuvalu | 1 |
 | 4 | [Bubblingo0](https://github.com/Bubblingo0) |  | Tuvalu | 0 |
@@ -56,4 +56,4 @@ Indexed users: 11
 | 10 | [temapr0](https://github.com/temapr0) |  | Tuvalu | 1 |
 | 11 | [yorkwang99](https://github.com/yorkwang99) | York Freiherr von Wangenheim | Tuvalu | 1 |
 
-Generated: 2026-10-15T23:07:40.333Z
+Generated: 2026-10-16T00:33:44.448Z

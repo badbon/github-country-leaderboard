@@ -1,8 +1,8 @@
 # Total Contributions - Ghana
 
-Generated: 2026-10-15T23:42:26.765Z
+Generated: 2026-10-16T01:04:25.090Z
 
-Users: 7097
+Users: 7096
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -11,7 +11,7 @@ Users: 7097
 | 3 | [Ibrahim-Aboubacar](https://github.com/Ibrahim-Aboubacar) | Ibrahim Aboubacar Ibrahim | @tech-plus-plus |  | Accra, Ghana | 33429 |
 | 4 | [sedegah](https://github.com/sedegah) | Kimathi  Sedegah | Rehotech & Tayenn | heiskimathi | Ghana | 27754 |
 | 5 | [danieladeabah](https://github.com/danieladeabah) | Daniel Adeabah | CEO at Toazeo, Fullstack Dev @wonchunii. |  | Takoradi, Western Region, Ghana. | 24855 |
-| 6 | [mhiskall282](https://github.com/mhiskall282) | John Okyere | https://johnokyere.xyz | 0xMhiskall | Accra Ghana | 15480 |
+| 6 | [mhiskall282](https://github.com/mhiskall282) | John Okyere | https://johnokyere.xyz | 0xMhiskall | Accra Ghana | 15891 |
 | 7 | [felixyeboah](https://github.com/felixyeboah) | Felix Nana Yaw Yeboah | Complete Farmer LLC | sudocode_ | Accra, Ghana | 12739 |
 | 8 | [Philinzag](https://github.com/Philinzag) | Philip A. | SOFNED |  | Ghana | 10626 |
 | 9 | [DreKwasi](https://github.com/DreKwasi) | Andrews Boateng | Piply |  | Accra, Ghana | 10142 |

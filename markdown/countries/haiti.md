@@ -79,8 +79,8 @@ Indexed users: 339
 | 15 | [djtrueway](https://github.com/djtrueway) | peterson saint-aime | Haiti | 37 |
 | 16 | [AlexisJW](https://github.com/AlexisJW) | Jean Walner Alexis | Port-au-prince, Haïti | 34 |
 | 17 | [jfstephane](https://github.com/jfstephane) | Jules Frantz Stephane Loubeau | Haiti | 33 |
-| 18 | [KeitelDOG](https://github.com/KeitelDOG) | Keitel Jovin | Delmas 41, Ouest, Haiti | 32 |
-| 19 | [skydevht](https://github.com/skydevht) | Holy-Elie Scaïde | Port-au-prince, Haïti | 32 |
-| 20 | [DybyTechX](https://github.com/DybyTechX) | DybyTechX | haiti | 31 |
+| 18 | [DybyTechX](https://github.com/DybyTechX) | DybyTechX | haiti | 32 |
+| 19 | [KeitelDOG](https://github.com/KeitelDOG) | Keitel Jovin | Delmas 41, Ouest, Haiti | 32 |
+| 20 | [skydevht](https://github.com/skydevht) | Holy-Elie Scaïde | Port-au-prince, Haïti | 32 |
 
-Generated: 2026-10-15T23:45:38.058Z
+Generated: 2026-10-16T01:06:47.828Z

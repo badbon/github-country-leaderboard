@@ -30,8 +30,8 @@ Indexed users: 1,655
 | 16 | [PraiseTechzw](https://github.com/PraiseTechzw) | Praise Masunga | Chinhoyi, Zimbabwe | 5,703 |
 | 17 | [xeroxzen](https://github.com/xeroxzen) | Andile Jaden Mbele | Zimbabwe | 5,428 |
 | 18 | [mosesmarimo](https://github.com/mosesmarimo) | Moses Marimo | Harare, Zimbabwe | 5,360 |
-| 19 | [XJ76](https://github.com/XJ76) | Joshua J Smith | Harare | 5,166 |
-| 20 | [emarss](https://github.com/emarss) | Rufaro Sithole | Harare, Zimbabwe | 5,105 |
+| 19 | [emarss](https://github.com/emarss) | Rufaro Sithole | Harare, Zimbabwe | 5,105 |
+| 20 | [chiroro-jr](https://github.com/chiroro-jr) | Nyasha Chiroro | Harare, Zimbabwe | 5,086 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 1,655
 | 19 | [zim-bot](https://github.com/zim-bot) | DRIPS MEMES BLENNIE BLESSED TUNA | Zimbabwe | 110 |
 | 20 | [KudakwasheM](https://github.com/KudakwasheM) | Kudakwashe Masaya | Harare | 105 |
 
-Generated: 2026-10-15T23:15:46.763Z
+Generated: 2026-10-16T00:37:26.332Z

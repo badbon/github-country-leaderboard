@@ -1,6 +1,6 @@
 # Followers - Indonesia
 
-Generated: 2026-10-15T23:47:35.592Z
+Generated: 2026-10-16T01:09:02.422Z
 
 Users: 63304
 

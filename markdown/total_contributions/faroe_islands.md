@@ -1,13 +1,13 @@
 # Total Contributions - Faroe Islands
 
-Generated: 2026-10-15T23:39:10.199Z
+Generated: 2026-10-16T01:01:06.751Z
 
 Users: 67
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [olavurellefsen](https://github.com/olavurellefsen) | Olavur Ellefsen | @Flowcore-io |  | Faroe Islands | 15483 |
-| 2 | [kruseio](https://github.com/kruseio) | Ragnar Kruse |  | kruseio | Faroe Islands | 6544 |
+| 2 | [kruseio](https://github.com/kruseio) | Ragnar Kruse |  | kruseio | Faroe Islands | 6547 |
 | 3 | [jbiskur](https://github.com/jbiskur) | Julius á Rógvi Biskopstø |  |  | Faroe Islands | 5324 |
 | 4 | [argilzar](https://github.com/argilzar) | Brian Bischoff | @globe-tracker @flowcore-io  | argilzar | Faroe Islands | 3349 |
 | 5 | [RudiPersson](https://github.com/RudiPersson) | Rudi Persson | Poul Michelsen |  | Tórshavn, Faroe Islands | 2785 |
@@ -17,7 +17,7 @@ Users: 67
 | 9 | [ingipingi](https://github.com/ingipingi) | Ingi á Steinamørk | Ingi á Steinamørk |  | Faroe Islands | 2075 |
 | 10 | [samal-rasmussen](https://github.com/samal-rasmussen) | Sámal Rasmussen | @bokin-fo  |  | Tórshavn, Faroe Islands | 1997 |
 | 11 | [theodorjohannesen](https://github.com/theodorjohannesen) | Theodor E. Johannesen | Own |  | Faroe Islands | 1733 |
-| 12 | [MaterBater](https://github.com/MaterBater) | Mater | @HypixelDev |  | Faroe Islands | 1484 |
+| 12 | [MaterBater](https://github.com/MaterBater) | Mater | @HypixelDev |  | Faroe Islands | 1495 |
 | 13 | [SigmundurMorkore](https://github.com/SigmundurMorkore) | Sigmundur Mørkøre | @sansir  |  | Faroe Islands | 1456 |
 | 14 | [Brian-ED](https://github.com/Brian-ED) | Brian E |  |  | Faroe Islands | 1049 |
 | 15 | [SheetHappiness](https://github.com/SheetHappiness) | SheetHappiness | Lethal |  | Faroe Islands | 971 |

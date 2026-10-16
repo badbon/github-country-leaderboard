@@ -76,11 +76,11 @@ Indexed users: 699
 | 12 | [hktom](https://github.com/hktom) | Tom Hikari | Congo Kinshasa | 102 |
 | 13 | [valamandar](https://github.com/valamandar) | Vala Mandar | RD Congo, Kinshasa | 90 |
 | 14 | [fdis111](https://github.com/fdis111) | Francois Disubi | Kinshasa Drc | 87 |
-| 15 | [jlmbaka](https://github.com/jlmbaka) | Jean-Louis Mbaka | Kinshasa, DRC | 84 |
-| 16 | [RolandM99](https://github.com/RolandM99) | Roland MN | Kinshasa \| Kigali \| Nairobi | 84 |
+| 15 | [RolandM99](https://github.com/RolandM99) | Roland MN | Kinshasa \| Kigali \| Nairobi | 84 |
+| 16 | [jlmbaka](https://github.com/jlmbaka) | Jean-Louis Mbaka | Kinshasa, DRC | 83 |
 | 17 | [johnmbiya](https://github.com/johnmbiya) | Jean Claude Mbiya | Kinshasa | 72 |
 | 18 | [enigma972](https://github.com/enigma972) | Joel Lusavuvu | Kinshasa, RDCongo  | 71 |
 | 19 | [bolenge](https://github.com/bolenge) | Don de Dieu Bolenge | Congo - Kinshasa | 69 |
 | 20 | [ChrisMwanya](https://github.com/ChrisMwanya) | Chris Mwanya | kinshasa | 69 |
 
-Generated: 2026-10-15T23:37:09.729Z
+Generated: 2026-10-16T00:59:00.228Z

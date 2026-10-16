@@ -26,7 +26,7 @@ Indexed users: 1,338
 | 12 | [Acesulfame02](https://github.com/Acesulfame02) | Aaron Masembe | Lusaka, Lusaka, Zambia | 4,247 |
 | 13 | [Jules369-ZM](https://github.com/Jules369-ZM) | JULIUS MARTIN BANDA | LUSAKA | 3,867 |
 | 14 | [genthegreat](https://github.com/genthegreat) | Prince Kwesi | Zambia | 3,497 |
-| 15 | [barthkapepula](https://github.com/barthkapepula) | Bartholomew Kapepula | Zambia | 3,449 |
+| 15 | [barthkapepula](https://github.com/barthkapepula) | Bartholomew Kapepula | Zambia | 3,472 |
 | 16 | [boniface](https://github.com/boniface) | Boniface Kabaso | Lusaka, Zambia | 3,396 |
 | 17 | [Geoffrey-Zulu](https://github.com/Geoffrey-Zulu) | Geoffrey Zulu | Lusaka, Zambia | 3,304 |
 | 18 | [ericknamukolo](https://github.com/ericknamukolo) | Erick Namukolo | Lusaka, Zambia | 3,274 |
@@ -83,4 +83,4 @@ Indexed users: 1,338
 | 19 | [blessedjasonmwanza](https://github.com/blessedjasonmwanza) | Blessed Jason Mwanza |  Lusaka, Zambia | 104 |
 | 20 | [Eathorne2](https://github.com/Eathorne2) | Eathorne | Lusaka, Zambia | 103 |
 
-Generated: 2026-10-15T23:14:48.066Z
+Generated: 2026-10-16T00:37:22.946Z

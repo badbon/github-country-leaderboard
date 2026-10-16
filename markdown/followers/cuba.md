@@ -1,6 +1,6 @@
 # Followers - Cuba
 
-Generated: 2026-10-15T23:34:07.935Z
+Generated: 2026-10-16T00:56:59.920Z
 
 Users: 1276
 
@@ -8,7 +8,7 @@ Users: 1276
 |---:|---|---|---|---|---|---:|
 | 1 | [apiad](https://github.com/apiad) | Alejandro Piad | University of Havana (@matcom) | alepiad | Cuba | 457 |
 | 2 | [jr20xx](https://github.com/jr20xx) | José Ricardo |  |  | Cuba | 381 |
-| 3 | [GamerHack](https://github.com/GamerHack) |  |  | GamerHack93 | Cuba | 206 |
+| 3 | [GamerHack](https://github.com/GamerHack) |  |  | GamerHack93 | Cuba | 212 |
 | 4 | [herbertDev12](https://github.com/herbertDev12) | Herbert L. Navarro |  |  | La Habana, Cuba | 144 |
 | 5 | [PushoDev](https://github.com/PushoDev) | Luis A. Guisado | @Microsoft | LuisGuisado1990 | Ciudad de Manzanillo, Cuba | 133 |
 | 6 | [rodnye](https://github.com/rodnye) | Rodny Estrada | @cujaeredsocial | rodnyecode | La Habana, Cuba | 133 |

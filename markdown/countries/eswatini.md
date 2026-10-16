@@ -19,13 +19,13 @@ Indexed users: 108
 | 5 | [mayo23-06-02](https://github.com/mayo23-06-02) | Mayo | Eswatini | 702 |
 | 6 | [Dwaynemaster007](https://github.com/Dwaynemaster007) | Thubelihle Dlamini | Eswatini | 463 |
 | 7 | [SakhileMamba](https://github.com/SakhileMamba) | Sakhile Mamba | Eswatini | 364 |
-| 8 | [Dalubuhle-Dlamini](https://github.com/Dalubuhle-Dlamini) | Sihlelo Dalubuhle Dlamini | Swaziland | 330 |
+| 8 | [Dalubuhle-Dlamini](https://github.com/Dalubuhle-Dlamini) | Sihlelo Dalubuhle Dlamini | Swaziland | 328 |
 | 9 | [kingMasombuka](https://github.com/kingMasombuka) | Senzo Ncongwane | Swaziland | 278 |
 | 10 | [wandilemawelela](https://github.com/wandilemawelela) | Wandile Mawelela | Manzini, Eswatini | 254 |
 | 11 | [temesgen-tana](https://github.com/temesgen-tana) | Temesgen Tana | Eswatini | 223 |
 | 12 | [Njabulo240](https://github.com/Njabulo240) | Njabulo Mamba | Eswatini, Manzini | 189 |
 | 13 | [nigeljohnson73](https://github.com/nigeljohnson73) | Nigel Johnson | Malkerns, Swaziland | 174 |
-| 14 | [Wandile-cyber](https://github.com/Wandile-cyber) | Wandile Ralph Dlamini | Mbabane, Swaziland | 156 |
+| 14 | [Wandile-cyber](https://github.com/Wandile-cyber) | Wandile Ralph Dlamini | Mbabane, Swaziland | 155 |
 | 15 | [Theo-Banx](https://github.com/Theo-Banx) | Banx | Manzini, Swaziland | 112 |
 | 16 | [siko13-bot](https://github.com/siko13-bot) | 202101251 | Mbabane,Eswatini | 94 |
 | 17 | [Sandziso](https://github.com/Sandziso) | Sandziso Mamba |  Eswatini | 71 |
@@ -83,4 +83,4 @@ Indexed users: 108
 | 19 | [SakhileMamba](https://github.com/SakhileMamba) | Sakhile Mamba | Eswatini | 9 |
 | 20 | [allGhostAnon](https://github.com/allGhostAnon) | Lwazi Dlamini | Mbabane, Swaziland  | 8 |
 
-Generated: 2026-10-15T23:38:23.641Z
+Generated: 2026-10-16T00:59:50.963Z

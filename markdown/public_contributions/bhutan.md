@@ -1,6 +1,6 @@
 # Public Contributions - Bhutan
 
-Generated: 2026-10-15T23:24:46.829Z
+Generated: 2026-10-16T00:46:10.873Z
 
 Users: 267
 
@@ -21,8 +21,8 @@ Users: 267
 | 13 | [aspee12](https://github.com/aspee12) | Sonam Phuntsho | SELISE |  | Thimphu, IT Park | 186 |
 | 14 | [devdgna](https://github.com/devdgna) | Dev | Bhutan NDI, CoinOn, ScanPrice, Prescaner |  | Kingdom of Bhutan | 177 |
 | 15 | [Tenzin-06](https://github.com/Tenzin-06) | Tenzin Tobgay | None |  | Bhutan | 161 |
-| 16 | [jigmetnamgyal](https://github.com/jigmetnamgyal) | Jigme Namgyal | Selise |  | Thimphu, Bhutan | 154 |
-| 17 | [bugloper](https://github.com/bugloper) | Nima Yonten | Selise |  | Thimphu Babesa | 143 |
+| 16 | [bugloper](https://github.com/bugloper) | Nima Yonten | Selise |  | Thimphu Babesa | 156 |
+| 17 | [jigmetnamgyal](https://github.com/jigmetnamgyal) | Jigme Namgyal | Selise |  | Thimphu, Bhutan | 154 |
 | 18 | [dorjizangpo-067](https://github.com/dorjizangpo-067) | Dorji Zangpo |  |  | Bhutan | 136 |
 | 19 | [teknatha136](https://github.com/teknatha136) | Tek Nath | @SELISEdigitalplatforms  |  | Thimphu | 122 |
 | 20 | [Ugyenjigmerangdrel](https://github.com/Ugyenjigmerangdrel) | Ugyen Jigme Rangdrel | @jaggle.ai | URangdrel | Bhutan | 120 |

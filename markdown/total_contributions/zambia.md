@@ -1,6 +1,6 @@
 # Total Contributions - Zambia
 
-Generated: 2026-10-15T23:14:48.066Z
+Generated: 2026-10-16T00:37:22.946Z
 
 Users: 1338
 
@@ -20,7 +20,7 @@ Users: 1338
 | 12 | [Acesulfame02](https://github.com/Acesulfame02) | Aaron Masembe |  |  | Lusaka, Lusaka, Zambia | 4247 |
 | 13 | [Jules369-ZM](https://github.com/Jules369-ZM) | JULIUS MARTIN BANDA | ProBase Limited |  | LUSAKA | 3867 |
 | 14 | [genthegreat](https://github.com/genthegreat) | Prince Kwesi | @AdsOnAds  | princekwesi7 | Zambia | 3497 |
-| 15 | [barthkapepula](https://github.com/barthkapepula) | Bartholomew Kapepula |  |  | Zambia | 3449 |
+| 15 | [barthkapepula](https://github.com/barthkapepula) | Bartholomew Kapepula |  |  | Zambia | 3472 |
 | 16 | [boniface](https://github.com/boniface) | Boniface Kabaso | Zambia |  | Lusaka, Zambia | 3396 |
 | 17 | [Geoffrey-Zulu](https://github.com/Geoffrey-Zulu) | Geoffrey Zulu |  |  | Lusaka, Zambia | 3304 |
 | 18 | [ericknamukolo](https://github.com/ericknamukolo) | Erick Namukolo | @Lassod-Consulting  | erickmndev | Lusaka, Zambia | 3274 |

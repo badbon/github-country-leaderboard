@@ -1,6 +1,6 @@
 # Ghana
 
-Indexed users: 7,097
+Indexed users: 7,096
 
 | Leaderboard | Link |
 |---|---|
@@ -17,7 +17,7 @@ Indexed users: 7,097
 | 3 | [Ibrahim-Aboubacar](https://github.com/Ibrahim-Aboubacar) | Ibrahim Aboubacar Ibrahim | Accra, Ghana | 33,429 |
 | 4 | [sedegah](https://github.com/sedegah) | Kimathi  Sedegah | Ghana | 27,754 |
 | 5 | [danieladeabah](https://github.com/danieladeabah) | Daniel Adeabah | Takoradi, Western Region, Ghana. | 24,855 |
-| 6 | [mhiskall282](https://github.com/mhiskall282) | John Okyere | Accra Ghana | 15,480 |
+| 6 | [mhiskall282](https://github.com/mhiskall282) | John Okyere | Accra Ghana | 15,891 |
 | 7 | [felixyeboah](https://github.com/felixyeboah) | Felix Nana Yaw Yeboah | Accra, Ghana | 12,739 |
 | 8 | [Philinzag](https://github.com/Philinzag) | Philip A. | Ghana | 10,626 |
 | 9 | [DreKwasi](https://github.com/DreKwasi) | Andrews Boateng | Accra, Ghana | 10,142 |
@@ -41,7 +41,7 @@ Indexed users: 7,097
 | 2 | [sedegah](https://github.com/sedegah) | Kimathi  Sedegah | Ghana | 23,317 |
 | 3 | [Joeboy77](https://github.com/Joeboy77) | Joseph Acheampong | Accra, Ghana | 19,539 |
 | 4 | [danieladeabah](https://github.com/danieladeabah) | Daniel Adeabah | Takoradi, Western Region, Ghana. | 19,383 |
-| 5 | [mhiskall282](https://github.com/mhiskall282) | John Okyere | Accra Ghana | 14,900 |
+| 5 | [mhiskall282](https://github.com/mhiskall282) | John Okyere | Accra Ghana | 15,193 |
 | 6 | [ghwmelite-dotcom](https://github.com/ghwmelite-dotcom) | OsbornH | GHANA | 7,240 |
 | 7 | [Eselase-Noble](https://github.com/Eselase-Noble) | Nobleson | Accra | 7,054 |
 | 8 | [1mos-droid](https://github.com/1mos-droid) | Kumesi Moses Mawulolo | Ghana | 6,845 |
@@ -83,4 +83,4 @@ Indexed users: 7,097
 | 19 | [Mmabiaa](https://github.com/Mmabiaa) | Boateng Prince Agyenim | Ghana | 326 |
 | 20 | [sedegah](https://github.com/sedegah) | Kimathi  Sedegah | Ghana | 310 |
 
-Generated: 2026-10-15T23:42:26.765Z
+Generated: 2026-10-16T01:04:25.090Z

@@ -20,18 +20,18 @@ Indexed users: 2,731
 | 6 | [ei-grad](https://github.com/ei-grad) | Andrew Grigorev | Limassol, Cyprus | 14,588 |
 | 7 | [openmindednewby](https://github.com/openmindednewby) | Demetrios Loizides | Cyprus | 14,379 |
 | 8 | [servitola](https://github.com/servitola) | Adik Servitola | Cyprus | 14,035 |
-| 9 | [iskifogl](https://github.com/iskifogl) | Abdullah İskifoğlu | Cyprus | 11,983 |
-| 10 | [laikhtman](https://github.com/laikhtman) | [DL] | Cyprus | 11,184 |
-| 11 | [miguelrisero](https://github.com/miguelrisero) | Miguel Rasero | Cyprus | 10,126 |
-| 12 | [ByczukMartin](https://github.com/ByczukMartin) | Martin B. | Cyprus | 9,995 |
-| 13 | [cploutarchou](https://github.com/cploutarchou) | Christos Ploutarchou | Cyprus | 9,926 |
-| 14 | [nyyhao](https://github.com/nyyhao) | nyhaoo_ | Cyprus | 9,666 |
-| 15 | [vvsotnikov](https://github.com/vvsotnikov) | Vladimir Sotnikov | Cyprus, Paphos | 9,399 |
-| 16 | [rsaryev](https://github.com/rsaryev) | Saryev Rustam | Cyprus | 9,314 |
-| 17 | [jin0x](https://github.com/jin0x) | John Leskas | Limassol, Cyprus | 9,123 |
-| 18 | [aytacg26](https://github.com/aytacg26) | Aytac Güley | Nicosia, Cyprus | 9,102 |
-| 19 | [awrshift](https://github.com/awrshift) | Serhii Kravchenko | Cyprus | 8,881 |
-| 20 | [Bezarius](https://github.com/Bezarius) | Mstislav Pavlov | Cyprus, Larnaca | 8,728 |
+| 9 | [jin0x](https://github.com/jin0x) | John Leskas | Limassol, Cyprus | 13,492 |
+| 10 | [iskifogl](https://github.com/iskifogl) | Abdullah İskifoğlu | Cyprus | 11,983 |
+| 11 | [laikhtman](https://github.com/laikhtman) | [DL] | Cyprus | 11,184 |
+| 12 | [pitops](https://github.com/pitops) | Petros Kyriakou | Cyprus | 10,749 |
+| 13 | [miguelrisero](https://github.com/miguelrisero) | Miguel Rasero | Cyprus | 10,126 |
+| 14 | [ByczukMartin](https://github.com/ByczukMartin) | Martin B. | Cyprus | 9,995 |
+| 15 | [cploutarchou](https://github.com/cploutarchou) | Christos Ploutarchou | Cyprus | 9,926 |
+| 16 | [nyyhao](https://github.com/nyyhao) | nyhaoo_ | Cyprus | 9,666 |
+| 17 | [vvsotnikov](https://github.com/vvsotnikov) | Vladimir Sotnikov | Cyprus, Paphos | 9,399 |
+| 18 | [rsaryev](https://github.com/rsaryev) | Saryev Rustam | Cyprus | 9,314 |
+| 19 | [aytacg26](https://github.com/aytacg26) | Aytac Güley | Nicosia, Cyprus | 9,102 |
+| 20 | [awrshift](https://github.com/awrshift) | Serhii Kravchenko | Cyprus | 8,881 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 2,731
 | 19 | [polterguy](https://github.com/polterguy) | Thomas Hansen | Cyprus | 245 |
 | 20 | [kstep](https://github.com/kstep) | Konstantin Stepanov | Cyprus | 241 |
 
-Generated: 2026-10-15T23:35:42.782Z
+Generated: 2026-10-16T00:57:12.894Z

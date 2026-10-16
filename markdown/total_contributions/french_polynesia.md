@@ -1,21 +1,21 @@
 # Total Contributions - French Polynesia
 
-Generated: 2026-10-15T23:40:49.610Z
+Generated: 2026-10-16T01:02:41.708Z
 
 Users: 60
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [jaffadog](https://github.com/jaffadog) | Jeremy Waters |  |  | Tahanea, Tuamotus, French Polynesia | 3565 |
-| 2 | [jburckel](https://github.com/jburckel) |  | natimai.solutions |  | French Polynesia | 3072 |
-| 3 | [marsender](https://github.com/marsender) | Didier Corbière |  |  | French Polynesia | 2830 |
-| 4 | [smortex](https://github.com/smortex) | Romain Tartière | @FreeBSD @opus-codium @voxpupuli |  | Faa'a, Tahiti, French Polynesia | 1056 |
+| 1 | [jaffadog](https://github.com/jaffadog) | Jeremy Waters |  |  | Tahanea, Tuamotus, French Polynesia | 3602 |
+| 2 | [jburckel](https://github.com/jburckel) |  | natimai.solutions |  | French Polynesia | 3056 |
+| 3 | [marsender](https://github.com/marsender) | Didier Corbière |  |  | French Polynesia | 2827 |
+| 4 | [smortex](https://github.com/smortex) | Romain Tartière | @FreeBSD @opus-codium @voxpupuli |  | Faa'a, Tahiti, French Polynesia | 1055 |
 | 5 | [jalik](https://github.com/jalik) | Karl Stein | SIGMA POLYNESIA | jalik26 | French Polynesia | 698 |
-| 6 | [ch4mpy](https://github.com/ch4mpy) | Jérôme Wacongne |  |  | Papeete, French Polynesia | 498 |
+| 6 | [ch4mpy](https://github.com/ch4mpy) | Jérôme Wacongne |  |  | Papeete, French Polynesia | 501 |
 | 7 | [N1coc4colA](https://github.com/N1coc4colA) |  | The Community | n1coc4cola | French Polynesia | 467 |
 | 8 | [craff](https://github.com/craff) | Christophe Raffalli | Gaati, UPF |  | Polynésie, Française | 428 |
 | 9 | [adriencanterot](https://github.com/adriencanterot) | Adrien Cantérot |  | adriencanterot | Tahiti, French Polynesia | 300 |
-| 10 | [paraita](https://github.com/paraita) | Paraita Wohler | @e-reo | paraita | Tahiti, French Polynesia | 266 |
+| 10 | [paraita](https://github.com/paraita) | Paraita Wohler | @e-reo | paraita | Tahiti, French Polynesia | 262 |
 | 11 | [syllebra](https://github.com/syllebra) | BilboX |  |  | French Polynesia | 128 |
 | 12 | [geoffguillain](https://github.com/geoffguillain) | Geoff | Automattic |  | French Polynesia | 65 |
 | 13 | [Apollo987](https://github.com/Apollo987) | Jerome B |  |  | French Polynesia | 64 |

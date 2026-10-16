@@ -55,8 +55,8 @@ Indexed users: 3,303
 | 16 | [oliverdiaz873](https://github.com/oliverdiaz873) | Oliver Antonio Diaz | Santo Domingo | 1,545 |
 | 17 | [ctorressoftware](https://github.com/ctorressoftware) | Carlos Torres | Dominican Republic | 1,508 |
 | 18 | [adelrodriguez](https://github.com/adelrodriguez) | Adel Rodríguez | Dominican Republic | 1,473 |
-| 19 | [Rudxain](https://github.com/Rudxain) | Ricardo Fernández Serrata | Dominican Republic | 1,417 |
-| 20 | [eburgos](https://github.com/eburgos) | Eduardo Burgos | Santo Domingo, DN, Dominican Republic | 1,348 |
+| 19 | [ingfranciscastillo](https://github.com/ingfranciscastillo) | Ing. Francis Castillo Cruz | Dominican Republic | 1,456 |
+| 20 | [Rudxain](https://github.com/Rudxain) | Ricardo Fernández Serrata | Dominican Republic | 1,417 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 3,303
 | 19 | [eatskolnikov](https://github.com/eatskolnikov) | Enmanuel Toribio | Dominican Republic | 149 |
 | 20 | [adonismendozaperez](https://github.com/adonismendozaperez) | Adonis Mendoza  | Dominican Republic | 117 |
 
-Generated: 2026-10-15T23:37:02.328Z
+Generated: 2026-10-16T00:58:56.796Z

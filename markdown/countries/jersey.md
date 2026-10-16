@@ -12,7 +12,7 @@ Indexed users: 139
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [marcusquinn](https://github.com/marcusquinn) | Marcus Quinn | London, UK, Los-angeles, California, England, Jersey | 54,408 |
+| 1 | [marcusquinn](https://github.com/marcusquinn) | Marcus Quinn | London, UK, Los-angeles, California, England, Jersey | 54,458 |
 | 2 | [PhilETaylor](https://github.com/PhilETaylor) | Phil E. Taylor | Jersey, Channel Islands | 38,617 |
 | 3 | [jde](https://github.com/jde) | David Erwin | New [York, Jersey] | 11,819 |
 | 4 | [ndestates](https://github.com/ndestates) | Nick Dodsley | Jersey | 10,702 |
@@ -37,7 +37,7 @@ Indexed users: 139
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [marcusquinn](https://github.com/marcusquinn) | Marcus Quinn | London, UK, Los-angeles, California, England, Jersey | 46,420 |
+| 1 | [marcusquinn](https://github.com/marcusquinn) | Marcus Quinn | London, UK, Los-angeles, California, England, Jersey | 43,104 |
 | 2 | [simonbrowndotje](https://github.com/simonbrowndotje) | Simon Brown | Jersey, Channel Islands | 747 |
 | 3 | [PhilETaylor](https://github.com/PhilETaylor) | Phil E. Taylor | Jersey, Channel Islands | 708 |
 | 4 | [j4ckxyz](https://github.com/j4ckxyz) | jack | Jersey, UK | 692 |
@@ -83,4 +83,4 @@ Indexed users: 139
 | 19 | [r-moore](https://github.com/r-moore) | Richard Moore | Jersey | 21 |
 | 20 | [Chrisedmo](https://github.com/Chrisedmo) | Chris Mousdale | Jersey, Channel Islands | 20 |
 
-Generated: 2026-10-15T22:07:45.387Z
+Generated: 2026-10-16T01:11:49.238Z

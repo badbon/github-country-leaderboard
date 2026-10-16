@@ -24,7 +24,7 @@ Indexed users: 267
 | 10 | [Ugyenjigmerangdrel](https://github.com/Ugyenjigmerangdrel) | Ugyen Jigme Rangdrel | Bhutan | 2,047 |
 | 11 | [ugyentenzin1](https://github.com/ugyentenzin1) | Ugyen Tenzin  | Thiimphu, Bhutan | 2,011 |
 | 12 | [namgaytobden](https://github.com/namgaytobden) | Namgay Tobden | Thimphu | 1,975 |
-| 13 | [bugloper](https://github.com/bugloper) | Nima Yonten | Thimphu Babesa | 1,933 |
+| 13 | [bugloper](https://github.com/bugloper) | Nima Yonten | Thimphu Babesa | 1,948 |
 | 14 | [jigmeloday](https://github.com/jigmeloday) | Jigme Lodey | Thimphu Bhutan | 1,919 |
 | 15 | [grey300](https://github.com/grey300) | Tshering Gyeltshen | Bhutan | 1,899 |
 | 16 | [khandudo](https://github.com/khandudo) | Dorji Khandu | Thimphu, Bhutan | 1,840 |
@@ -52,8 +52,8 @@ Indexed users: 267
 | 13 | [aspee12](https://github.com/aspee12) | Sonam Phuntsho | Thimphu, IT Park | 186 |
 | 14 | [devdgna](https://github.com/devdgna) | Dev | Kingdom of Bhutan | 177 |
 | 15 | [Tenzin-06](https://github.com/Tenzin-06) | Tenzin Tobgay | Bhutan | 161 |
-| 16 | [jigmetnamgyal](https://github.com/jigmetnamgyal) | Jigme Namgyal | Thimphu, Bhutan | 154 |
-| 17 | [bugloper](https://github.com/bugloper) | Nima Yonten | Thimphu Babesa | 143 |
+| 16 | [bugloper](https://github.com/bugloper) | Nima Yonten | Thimphu Babesa | 156 |
+| 17 | [jigmetnamgyal](https://github.com/jigmetnamgyal) | Jigme Namgyal | Thimphu, Bhutan | 154 |
 | 18 | [dorjizangpo-067](https://github.com/dorjizangpo-067) | Dorji Zangpo | Bhutan | 136 |
 | 19 | [teknatha136](https://github.com/teknatha136) | Tek Nath | Thimphu | 122 |
 | 20 | [Ugyenjigmerangdrel](https://github.com/Ugyenjigmerangdrel) | Ugyen Jigme Rangdrel | Bhutan | 120 |
@@ -83,4 +83,4 @@ Indexed users: 267
 | 19 | [TandinDev](https://github.com/TandinDev) | Tandin Tshewang | Thimphu | 23 |
 | 20 | [chimiWangchukWangdi](https://github.com/chimiWangchukWangdi) | Chimi Wangchuk Wangdi | Thimphu, Bhutan | 22 |
 
-Generated: 2026-10-15T23:24:46.829Z
+Generated: 2026-10-16T00:46:10.873Z
