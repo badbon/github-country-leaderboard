@@ -24426,9 +24426,9 @@
     "location": "Tunisia",
     "company": "@DDM",
     "twitterUsername": "",
-    "followers": 16,
-    "privateContributions": 73,
-    "publicContributions": 70,
+    "followers": 15,
+    "privateContributions": 63,
+    "publicContributions": 63,
     "createdAt": "2022-11-04T07:36:58Z"
   },
   {
@@ -24439,8 +24439,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 16,
-    "privateContributions": 652,
-    "publicContributions": 46,
+    "privateContributions": 415,
+    "publicContributions": 212,
     "createdAt": "2022-08-10T14:11:02Z"
   },
   {
@@ -24450,9 +24450,9 @@
     "location": "Ariana, Tunisia",
     "company": "Tek-up university",
     "twitterUsername": "chadi_rabii",
-    "followers": 16,
-    "privateContributions": 278,
-    "publicContributions": 172,
+    "followers": 15,
+    "privateContributions": 247,
+    "publicContributions": 157,
     "createdAt": "2022-08-05T14:10:18Z"
   },
   {
@@ -24462,8 +24462,8 @@
     "location": "Tunis, Tunisia",
     "company": "INSAT",
     "twitterUsername": "GHASSEN42097188",
-    "followers": 16,
-    "privateContributions": 4,
+    "followers": 17,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-08-08T11:33:48Z"
   },
@@ -24474,7 +24474,7 @@
     "location": "Jendouba, Tunisia",
     "company": "",
     "twitterUsername": "",
-    "followers": 15,
+    "followers": 13,
     "privateContributions": 0,
     "publicContributions": 35,
     "createdAt": "2022-06-10T05:47:36Z"
@@ -24486,9 +24486,9 @@
     "location": "Msaken, Sousse, Tunisia",
     "company": "",
     "twitterUsername": "",
-    "followers": 15,
+    "followers": 12,
     "privateContributions": 9,
-    "publicContributions": 145,
+    "publicContributions": 153,
     "createdAt": "2022-10-16T06:54:37Z"
   },
   {
@@ -24498,9 +24498,9 @@
     "location": "tunisia",
     "company": "",
     "twitterUsername": "",
-    "followers": 15,
+    "followers": 16,
     "privateContributions": 0,
-    "publicContributions": 262,
+    "publicContributions": 338,
     "createdAt": "2022-10-22T18:21:54Z"
   },
   {
@@ -24518,13 +24518,13 @@
   {
     "login": "ghirr",
     "name": "Ghariani islem",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/119059687?s=72&u=5ff821296b02eca5fc34737d5a8187c92a8acedc&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/119059687?s=72&u=1541d87326ba4fa2e4747867cab09fac8985b352&v=4",
     "location": "Tunis, Tunisia",
     "company": "ZUM-IT",
     "twitterUsername": "",
     "followers": 15,
-    "privateContributions": 579,
-    "publicContributions": 15,
+    "privateContributions": 435,
+    "publicContributions": 23,
     "createdAt": "2022-11-25T14:11:18Z"
   },
   {
@@ -24534,9 +24534,9 @@
     "location": "Tunisia",
     "company": "ISTIC",
     "twitterUsername": "",
-    "followers": 15,
-    "privateContributions": 350,
-    "publicContributions": 172,
+    "followers": 16,
+    "privateContributions": 578,
+    "publicContributions": 171,
     "createdAt": "2022-10-15T20:54:32Z"
   },
   {
@@ -24546,9 +24546,9 @@
     "location": "Tunisia, Tunis",
     "company": "",
     "twitterUsername": "",
-    "followers": 15,
-    "privateContributions": 536,
-    "publicContributions": 808,
+    "followers": 14,
+    "privateContributions": 930,
+    "publicContributions": 806,
     "createdAt": "2022-10-27T00:03:59Z"
   },
   {
@@ -24558,7 +24558,7 @@
     "location": "Ariana,Tunisia",
     "company": "",
     "twitterUsername": "",
-    "followers": 15,
+    "followers": 16,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-01-31T13:46:26Z"
@@ -24582,9 +24582,9 @@
     "location": "Tunis, Tunisia",
     "company": "INSAT",
     "twitterUsername": "",
-    "followers": 15,
-    "privateContributions": 31,
-    "publicContributions": 19,
+    "followers": 12,
+    "privateContributions": 57,
+    "publicContributions": 30,
     "createdAt": "2022-10-16T21:37:18Z"
   },
   {
@@ -24594,9 +24594,9 @@
     "location": "Tunisia",
     "company": "",
     "twitterUsername": "",
-    "followers": 14,
-    "privateContributions": 291,
-    "publicContributions": 427,
+    "followers": 16,
+    "privateContributions": 305,
+    "publicContributions": 414,
     "createdAt": "2022-12-02T17:15:08Z"
   },
   {
@@ -24606,22 +24606,10 @@
     "location": "Sfax, Tunisia",
     "company": "ENSI",
     "twitterUsername": "",
-    "followers": 14,
+    "followers": 17,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 8,
     "createdAt": "2022-11-12T18:14:46Z"
-  },
-  {
-    "login": "SOUHAILBENBRIK",
-    "name": "Souhail Ben Brik",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/99326632?s=72&v=4",
-    "location": "tunis Tunisia",
-    "company": "ENISO(National School of Engineers in Sousse)",
-    "twitterUsername": "",
-    "followers": 14,
-    "privateContributions": 71,
-    "publicContributions": 27,
-    "createdAt": "2022-02-09T10:10:32Z"
   },
   {
     "login": "MiroJlassi",
@@ -24631,8 +24619,8 @@
     "company": "ENSI",
     "twitterUsername": "",
     "followers": 13,
-    "privateContributions": 244,
-    "publicContributions": 101,
+    "privateContributions": 423,
+    "publicContributions": 77,
     "createdAt": "2022-06-02T13:54:46Z"
   },
   {
@@ -24643,21 +24631,9 @@
     "company": "@Axynoxia @bassetti-group",
     "twitterUsername": "",
     "followers": 13,
-    "privateContributions": 760,
-    "publicContributions": 46,
+    "privateContributions": 1900,
+    "publicContributions": 57,
     "createdAt": "2022-09-05T14:18:09Z"
-  },
-  {
-    "login": "ahmedKhlif",
-    "name": "Khlif Ahmed",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/120308472?s=72&u=b1f625b89fba1681fd248a6ee2d3b6c50b8f6af5&v=4",
-    "location": "Tunisia , Sfax",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 13,
-    "privateContributions": 0,
-    "publicContributions": 196,
-    "createdAt": "2022-12-11T10:30:22Z"
   },
   {
     "login": "NaamenMalek",

@@ -24788,7 +24788,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2021-03-10T00:46:05Z"
   },
   {
@@ -24799,8 +24799,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 18,
-    "publicContributions": 7,
+    "privateContributions": 1,
+    "publicContributions": 3,
     "createdAt": "2021-07-17T22:30:09Z"
   },
   {
@@ -24828,18 +24828,6 @@
     "createdAt": "2021-08-05T01:44:54Z"
   },
   {
-    "login": "emilia-montauban",
-    "name": "Emilia",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/88011060?s=72&u=bbbebc46be7fe6a95142aeaffc6f2f840d8828ec&v=4",
-    "location": "Uruguay, Montevideo.",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2021-07-27T00:45:08Z"
-  },
-  {
     "login": "lbernaz",
     "name": "Luisa Berná",
     "avatarUrl": "https://avatars.githubusercontent.com/u/94500941?s=72&u=9043fb7c1bec7a40057a0ae2bf15ddbf6b548232&v=4",
@@ -24848,7 +24836,7 @@
     "twitterUsername": "luisabernaZ",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 57,
+    "publicContributions": 22,
     "createdAt": "2021-11-17T01:37:24Z"
   },
   {
@@ -24871,8 +24859,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1416,
-    "publicContributions": 5,
+    "privateContributions": 3307,
+    "publicContributions": 14,
     "createdAt": "2021-10-13T18:52:37Z"
   },
   {
@@ -24883,7 +24871,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 344,
+    "privateContributions": 271,
     "publicContributions": 0,
     "createdAt": "2021-05-04T16:12:19Z"
   },
@@ -24894,9 +24882,9 @@
     "location": "Montevideo, Uruguay",
     "company": "Qualabs",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 8,
     "createdAt": "2021-08-20T18:41:50Z"
   },
   {
@@ -24956,7 +24944,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 1,
     "createdAt": "2021-07-05T22:41:02Z"
   },
   {
@@ -24968,7 +24956,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 119,
+    "publicContributions": 109,
     "createdAt": "2021-05-20T03:30:59Z"
   },
   {

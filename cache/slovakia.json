@@ -24391,7 +24391,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 2,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-06-20T19:01:57Z"
   },
@@ -24403,8 +24403,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 747,
-    "publicContributions": 495,
+    "privateContributions": 3536,
+    "publicContributions": 951,
     "createdAt": "2018-02-13T07:13:03Z"
   },
   {
@@ -24415,7 +24415,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 203,
+    "privateContributions": 333,
     "publicContributions": 0,
     "createdAt": "2018-09-03T07:25:18Z"
   },
@@ -24452,7 +24452,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 75,
+    "publicContributions": 93,
     "createdAt": "2018-01-27T19:59:18Z"
   },
   {
@@ -24470,25 +24470,25 @@
   {
     "login": "durasjan",
     "name": "Jan Duras",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/36073501?s=72&u=53dea53c1e96c0c00ee8a1645e21de7fce2ffa07&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/36073501?s=72&u=54044e51f15a62259c7f292627fc5111276c7395&v=4",
     "location": "Slovakia",
     "company": "Corsius",
     "twitterUsername": "DurasJan",
     "followers": 2,
-    "privateContributions": 490,
+    "privateContributions": 655,
     "publicContributions": 5,
     "createdAt": "2018-02-02T11:46:18Z"
   },
   {
     "login": "roman-kraiger",
-    "name": "Pixeler",
+    "name": "Roman Kraiger | Pixeler",
     "avatarUrl": "https://avatars.githubusercontent.com/u/43291763?s=72&u=9e5ba6814c232d8312da19cf27d88cdaef36ddb0&v=4",
     "location": "Slovakia",
     "company": "Pixeler",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 30,
+    "publicContributions": 76,
     "createdAt": "2018-09-15T08:54:49Z"
   },
   {
@@ -24498,7 +24498,7 @@
     "location": "Košice, Slovakia",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-02-02T22:08:17Z"
@@ -24534,9 +24534,9 @@
     "location": "Slovakia, Oščadnica",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 84,
+    "publicContributions": 119,
     "createdAt": "2018-11-26T19:07:14Z"
   },
   {
@@ -24572,7 +24572,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 13,
     "createdAt": "2018-10-18T14:40:06Z"
   },
   {
@@ -24583,8 +24583,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 307,
-    "publicContributions": 17,
+    "privateContributions": 292,
+    "publicContributions": 0,
     "createdAt": "2018-09-14T12:48:24Z"
   },
   {
@@ -24606,7 +24606,7 @@
     "location": "Slovakia",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-03-15T17:49:26Z"
