@@ -1,6 +1,6 @@
 # Followers - Madagascar
 
-Generated: 2026-10-16T02:49:40.863Z
+Generated: 2026-10-16T05:52:41.657Z
 
 Users: 1904
 
@@ -9,13 +9,13 @@ Users: 1904
 | 1 | [tsirysndr](https://github.com/tsirysndr) | Tsiry Sandratraina | @fluentci-io | tsiry_sndr | Antananarivo / Madagascar | 610 |
 | 2 | [mattnix4](https://github.com/mattnix4) | Nix Ra |  |  | Antananarivo, Madagascar | 421 |
 | 3 | [hatixntsoa](https://github.com/hatixntsoa) | Hatix Ntsoa | Ilaikoto |  | Madagascar | 361 |
-| 4 | [DavFilsDev](https://github.com/DavFilsDev) | F. Miharisoa David Fils RATIANDRAIBE |  | davfilsdev | Antananarivo Madagascar | 355 |
+| 4 | [DavFilsDev](https://github.com/DavFilsDev) | F. Miharisoa David Fils RATIANDRAIBE |  | davfilsdev | Antananarivo Madagascar | 357 |
 | 5 | [julkwel](https://github.com/julkwel) | Julien Rajerison  | @Techzara, @Bocasay, @7he-Challenger |  | Madagascar | 342 |
 | 6 | [ThierryRakotomanana](https://github.com/ThierryRakotomanana) | ThierryRakt |  | ThieryRkt | Antananarivo | 338 |
 | 7 | [TsitouhRanjafy](https://github.com/TsitouhRanjafy) | Tsitohaina |  |  | Madagascar  | 330 |
 | 8 | [lahatra3](https://github.com/lahatra3) | Lahatra Anjara RAVELONARIVO  | @iTeam-S  | lahatra31 | Madagascar-Antananarivo | 329 |
 | 9 | [GhosTHaise](https://github.com/GhosTHaise) | Fitiavana Sambatra | @GhosTCorp  | NSFitiavana | Antananarivo, Madagascar | 213 |
-| 10 | [KiadyNirina](https://github.com/KiadyNirina) | Kiady | Kleonix |  | Antananarivo, Madagascar | 184 |
+| 10 | [KiadyNirina](https://github.com/KiadyNirina) | Kiady | Kleonix | KiadyRam | Antananarivo, Madagascar | 183 |
 | 11 | [NajoroRabiaza](https://github.com/NajoroRabiaza) | Amboara RAJAONARILALA |  |  | Antananarivo - MADAGASCAR | 175 |
 | 12 | [RajaRakoto](https://github.com/RajaRakoto) | Raja Rakotonirina |  |  | Antananarivo Madagascar | 171 |
 | 13 | [dario208](https://github.com/dario208) | TSIAHOUA Feno Dario Dasylva | @iTeam-S |  | Antananarivo - Madagascar | 165 |

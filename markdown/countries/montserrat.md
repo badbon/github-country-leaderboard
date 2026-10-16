@@ -28,7 +28,7 @@ Indexed users: 291
 | 14 | [AnshLaw](https://github.com/AnshLaw) | Ansh R. Suryavanshi | Plymouth, MI | 1,473 |
 | 15 | [bostonmyk](https://github.com/bostonmyk) | Mike Mykytyn | Plymouth | 1,416 |
 | 16 | [418error](https://github.com/418error) | Andy 'Channie' Chan | Plymouth | 1,131 |
-| 17 | [samuel-duffield1](https://github.com/samuel-duffield1) | Sam Duffield | Plymouth | 1,078 |
+| 17 | [samuel-duffield1](https://github.com/samuel-duffield1) | Sam Duffield | Plymouth | 1,072 |
 | 18 | [edgood1](https://github.com/edgood1) | Eddie Goodwin | Plymouth, MA | 985 |
 | 19 | [robertjwilson](https://github.com/robertjwilson) | Robert Wilson | Plymouth | 983 |
 | 20 | [JPDucky](https://github.com/JPDucky) | Palmer Duckworth | Plymouth Rock | 935 |
@@ -83,4 +83,4 @@ Indexed users: 291
 | 19 | [BeresIvan](https://github.com/BeresIvan) |  | Plymouth, MN | 20 |
 | 20 | [binarytide](https://github.com/binarytide) | John McAndrews | Plymouth, Ma | 20 |
 
-Generated: 2026-10-16T02:55:02.661Z
+Generated: 2026-10-16T06:03:05.890Z

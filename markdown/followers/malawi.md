@@ -1,6 +1,6 @@
 # Followers - Malawi
 
-Generated: 2026-10-16T02:49:43.589Z
+Generated: 2026-10-16T05:53:48.270Z
 
 Users: 901
 
@@ -15,13 +15,13 @@ Users: 901
 | 7 | [madzalo](https://github.com/madzalo) | Resten Madzalo |  |  | Malawi | 306 |
 | 8 | [Cardkess](https://github.com/Cardkess) | Blessings Chidambe |  | Cardkess | Blantyre, MALAWI | 294 |
 | 9 | [Fraganya](https://github.com/Fraganya) | Francis Ganya | @lync-systems-mw  | _fraganya | Blantyre, Malawi | 259 |
-| 10 | [JosephGMkonda](https://github.com/JosephGMkonda) | Joseph Mkonda | codebuddy |  | malawi | 237 |
+| 10 | [JosephGMkonda](https://github.com/JosephGMkonda) | Joseph Mkonda | codebuddy |  | malawi | 235 |
 | 11 | [IsaacKalambo22](https://github.com/IsaacKalambo22) | Isaac Kalambo | @InfinityCodeMw  | IsaacKalam44251 | Lilongwe | 231 |
 | 12 | [nbolok-code](https://github.com/nbolok-code) | Nathan Bolokonya |  |  | Malawi  | 223 |
 | 13 | [macneil265](https://github.com/macneil265) | Mac Neil | Mac Neil | macneil265 | Lilongwe | 205 |
 | 14 | [PreciousNyasulu](https://github.com/PreciousNyasulu) | Precious Nyasulu | @Angledimension @Almost-thr  ex @creditdatamw @golang-malawi | theebyter | Blantyre, Malawi | 203 |
 | 15 | [TgkCapture](https://github.com/TgkCapture) | tgkcapture | ex @creditdatamw  | tgkcapture | Blantyre, Malawi. | 198 |
-| 16 | [i-christian](https://github.com/i-christian) | Christian |  |  | Mzuzu, Malawi  | 176 |
+| 16 | [i-christian](https://github.com/i-christian) | Christian |  |  | Mzuzu, Malawi  | 177 |
 | 17 | [MalcolmorianVII](https://github.com/MalcolmorianVII) | Belson Malcolm Kutambe | Malawi Liverpool Wellcome Trust |  | Malawi | 153 |
 | 18 | [sam-zarila](https://github.com/sam-zarila) | sam zarila | TechNest | badboy_trox99 | Blantyre, Malawi | 146 |
 | 19 | [g1ftmkyelu](https://github.com/g1ftmkyelu) | codemaestro🚀 | Hyphen Malawi | GMkyelu | 🇲🇼 Malawi | 131 |

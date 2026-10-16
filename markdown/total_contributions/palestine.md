@@ -1,8 +1,8 @@
 # Total Contributions - Palestine
 
-Generated: 2026-10-16T03:00:51.427Z
+Generated: 2026-10-16T06:10:55.017Z
 
-Users: 2199
+Users: 2198
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -18,10 +18,10 @@ Users: 2199
 | 10 | [izadoesdev](https://github.com/izadoesdev) | iza | Databuddy | izadoesdev | Palestine | 7373 |
 | 11 | [1210395](https://github.com/1210395) | Jadallah  | BZU |  | Ramallah | 6823 |
 | 12 | [salahy](https://github.com/salahy) | Salah Yahya |  |  | Palestine | 6501 |
-| 13 | [moustff](https://github.com/moustff) | Mustafa Salem | NADSOFT |  | Gaza, Palestine. | 5401 |
-| 14 | [moejehad](https://github.com/moejehad) | Mohammed Almadhoun |  |  | Palestine | 5026 |
-| 15 | [IsmailAAmassi](https://github.com/IsmailAAmassi) | Ismail A. Amassi | @onestudio-co  | ismailaamassi | Palestine, Gaza Strip | 4747 |
-| 16 | [abusalameh](https://github.com/abusalameh) | Raja Abu Salameh |  |  | Jenin, Palestine | 4581 |
+| 13 | [abusalameh](https://github.com/abusalameh) | Raja Abu Salameh |  |  | Jenin, Palestine | 6010 |
+| 14 | [moustff](https://github.com/moustff) | Mustafa Salem | NADSOFT |  | Gaza, Palestine. | 5401 |
+| 15 | [moejehad](https://github.com/moejehad) | Mohammed Almadhoun |  |  | Palestine | 5026 |
+| 16 | [IsmailAAmassi](https://github.com/IsmailAAmassi) | Ismail A. Amassi | @onestudio-co  | ismailaamassi | Palestine, Gaza Strip | 4747 |
 | 17 | [farahty](https://github.com/farahty) | Nimer Farahty | FASTME |  | Palestine | 4300 |
 | 18 | [Mahmoud-Skafi](https://github.com/Mahmoud-Skafi) | Mahmoud skafi |  | MahmouSkafi | Palestine, Hebron   | 4125 |
 | 19 | [zaqoutabed](https://github.com/zaqoutabed) | Abdallah A. Zaqout |  | abdallahzaqout0 | Gaza, Palestine | 4113 |

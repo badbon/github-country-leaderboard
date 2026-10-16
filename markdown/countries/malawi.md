@@ -71,16 +71,16 @@ Indexed users: 901
 | 7 | [madzalo](https://github.com/madzalo) | Resten Madzalo | Malawi | 306 |
 | 8 | [Cardkess](https://github.com/Cardkess) | Blessings Chidambe | Blantyre, MALAWI | 294 |
 | 9 | [Fraganya](https://github.com/Fraganya) | Francis Ganya | Blantyre, Malawi | 259 |
-| 10 | [JosephGMkonda](https://github.com/JosephGMkonda) | Joseph Mkonda | malawi | 237 |
+| 10 | [JosephGMkonda](https://github.com/JosephGMkonda) | Joseph Mkonda | malawi | 235 |
 | 11 | [IsaacKalambo22](https://github.com/IsaacKalambo22) | Isaac Kalambo | Lilongwe | 231 |
 | 12 | [nbolok-code](https://github.com/nbolok-code) | Nathan Bolokonya | Malawi  | 223 |
 | 13 | [macneil265](https://github.com/macneil265) | Mac Neil | Lilongwe | 205 |
 | 14 | [PreciousNyasulu](https://github.com/PreciousNyasulu) | Precious Nyasulu | Blantyre, Malawi | 203 |
 | 15 | [TgkCapture](https://github.com/TgkCapture) | tgkcapture | Blantyre, Malawi. | 198 |
-| 16 | [i-christian](https://github.com/i-christian) | Christian | Mzuzu, Malawi  | 176 |
+| 16 | [i-christian](https://github.com/i-christian) | Christian | Mzuzu, Malawi  | 177 |
 | 17 | [MalcolmorianVII](https://github.com/MalcolmorianVII) | Belson Malcolm Kutambe | Malawi | 153 |
 | 18 | [sam-zarila](https://github.com/sam-zarila) | sam zarila | Blantyre, Malawi | 146 |
 | 19 | [g1ftmkyelu](https://github.com/g1ftmkyelu) | codemaestro🚀 | 🇲🇼 Malawi | 131 |
 | 20 | [RodgerCodes](https://github.com/RodgerCodes) | Rodger Kumwanje | Malawi | 129 |
 
-Generated: 2026-10-16T02:49:43.589Z
+Generated: 2026-10-16T05:53:48.270Z

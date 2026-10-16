@@ -1,6 +1,6 @@
 # Public Contributions - North Macedonia
 
-Generated: 2026-10-16T03:00:13.327Z
+Generated: 2026-10-16T06:08:37.642Z
 
 Users: 1929
 
@@ -25,4 +25,4 @@ Users: 1929
 | 17 | [KralMarko123](https://github.com/KralMarko123) | Marko Markovikj | Hornetsecurity |  | Skopje | 839 |
 | 18 | [bor0](https://github.com/bor0) | Boro Sitnikovski | @Automattic | BSitnikovski | Skopje, North Macedonia | 814 |
 | 19 | [EienMosu](https://github.com/EienMosu) | Ozkan Selcuk |  |  | North Macedonia/Skopje | 806 |
-| 20 | [NikoDola](https://github.com/NikoDola) | Nikola Dolovski (niko_dola) |  |  | Bitola/Macedonia | 761 |
+| 20 | [NikoDola](https://github.com/NikoDola) | Nikola Dolovski (niko_dola) |  |  | Bitola/Macedonia | 802 |

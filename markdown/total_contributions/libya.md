@@ -1,6 +1,6 @@
 # Total Contributions - Libya
 
-Generated: 2026-10-16T02:47:56.454Z
+Generated: 2026-10-16T05:51:20.172Z
 
 Users: 741
 
@@ -18,11 +18,11 @@ Users: 741
 | 10 | [GaafarBBK](https://github.com/GaafarBBK) | Mohamed Gaafar |  |  | Libya | 7811 |
 | 11 | [Elsheshtawwy](https://github.com/Elsheshtawwy) | Badr Elsheshtawy |  | El_Sheshtawwy | Benghazi, Libya 🇱🇾 | 6865 |
 | 12 | [Salehahmedeus](https://github.com/Salehahmedeus) | Ahmed Saleh |  |  | Libya | 6768 |
-| 13 | [swe-sanad](https://github.com/swe-sanad) | Sanad AlArousi | Software Pioneers |  | Zawia, Libya | 6136 |
-| 14 | [x414i](https://github.com/x414i) | Mohamed S. Belaid |  |  | Libya/Misrata | 6041 |
-| 15 | [Flat-Duck](https://github.com/Flat-Duck) | A.Mahidwei | Bithive | AMahidwei | Libya | 6021 |
-| 16 | [almontasser](https://github.com/almontasser) | Mahmoud Almontasser | Lamah |  | Misurata, Libya | 5996 |
-| 17 | [EngGharbia](https://github.com/EngGharbia) | Abdurraouf Ben Gharbia |  |  | Tripoli, Libya | 5785 |
+| 13 | [EngGharbia](https://github.com/EngGharbia) | Abdurraouf Ben Gharbia |  |  | Tripoli, Libya | 6197 |
+| 14 | [swe-sanad](https://github.com/swe-sanad) | Sanad AlArousi | Software Pioneers |  | Zawia, Libya | 6136 |
+| 15 | [x414i](https://github.com/x414i) | Mohamed S. Belaid |  |  | Libya/Misrata | 6041 |
+| 16 | [Flat-Duck](https://github.com/Flat-Duck) | A.Mahidwei | Bithive | AMahidwei | Libya | 6021 |
+| 17 | [almontasser](https://github.com/almontasser) | Mahmoud Almontasser | Lamah |  | Misurata, Libya | 5996 |
 | 18 | [AliAgela-dev](https://github.com/AliAgela-dev) | Ali Agela |  |  | Libya | 5532 |
 | 19 | [OthmanHaba](https://github.com/OthmanHaba) |  Othman Haba  (ง'̀-'́)ง     |  |  | Tripoli Libya | 5239 |
 | 20 | [erabti](https://github.com/erabti) | Ahmed Erabti | @libyanspider |  | Libya | 5060 |

@@ -1,6 +1,6 @@
 # Public Contributions - Madagascar
 
-Generated: 2026-10-16T02:49:40.863Z
+Generated: 2026-10-16T05:52:41.657Z
 
 Users: 1904
 
@@ -13,8 +13,8 @@ Users: 1904
 | 5 | [radandevist](https://github.com/radandevist) | Andrianarisoa Daniel | i_am_radan | radandevist | Anatananarivo, Madagascar | 3898 |
 | 6 | [fatratra-png](https://github.com/fatratra-png) | RAFANOMEZANTSOA Ny Fatratra |  |  | Antananarivo, Madagascar | 3219 |
 | 7 | [Zava07](https://github.com/Zava07) | ANJARANANTENAINA Kantonjoary Zava Fifaliana | IT University |  | Madagascar | 3003 |
-| 8 | [colombefioren](https://github.com/colombefioren) | COCO |  |  | Madagascar, Antananarivo | 2931 |
-| 9 | [DavFilsDev](https://github.com/DavFilsDev) | F. Miharisoa David Fils RATIANDRAIBE |  | davfilsdev | Antananarivo Madagascar | 2876 |
+| 8 | [DavFilsDev](https://github.com/DavFilsDev) | F. Miharisoa David Fils RATIANDRAIBE |  | davfilsdev | Antananarivo Madagascar | 2993 |
+| 9 | [colombefioren](https://github.com/colombefioren) | COCO |  |  | Madagascar, Antananarivo | 2931 |
 | 10 | [Mathieu-bot](https://github.com/Mathieu-bot) | Tafita Mathieu |  |  | Madagascar | 2049 |
 | 11 | [lorick-tsarazaka](https://github.com/lorick-tsarazaka) | Lorick TSARAZAKA | IT University | loricktsarazaka | Madagascar | 1947 |
 | 12 | [Ismael148](https://github.com/Ismael148) | Zo Lalaina Ismael RAJAOHARIMANANA | Ismael_dev |  | Antananarivo | 1815 |
@@ -24,5 +24,5 @@ Users: 1904
 | 16 | [aina-lang](https://github.com/aina-lang) | RAFANDEFERANA MAMINIAINA MERCIA |  |  | madagascar | 1589 |
 | 17 | [MamitianaAntonio](https://github.com/MamitianaAntonio) | Antonio |  |  | Antananarivo, MADAGASCAR | 1562 |
 | 18 | [hrtsx](https://github.com/hrtsx) | Harena Hirintsoa |  |  | Antananarivo, Madagascar | 1553 |
-| 19 | [MaminirinaEdwino](https://github.com/MaminirinaEdwino) | Edwino maminirina |  |  | Madagascar | 1486 |
+| 19 | [MaminirinaEdwino](https://github.com/MaminirinaEdwino) | Edwino maminirina |  |  | Madagascar | 1530 |
 | 20 | [tokimanana](https://github.com/tokimanana) | ANDRIAMBOLOLONA Tokimanana Samuel Sarobidy |  |  | Fianarantsoa, Madagascar | 1413 |

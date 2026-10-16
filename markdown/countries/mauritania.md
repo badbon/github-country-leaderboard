@@ -13,7 +13,7 @@ Indexed users: 289
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [medsabbar](https://github.com/medsabbar) | Mohamed Sabbar | Nouakchott, Mauritania | 12,243 |
-| 2 | [Hashimi01](https://github.com/Hashimi01) | Hashimi El Hashimi | Nouakchott, Mauritania | 11,280 |
+| 2 | [Hashimi01](https://github.com/Hashimi01) | Hashimi El Hashimi | Nouakchott, Mauritania | 11,279 |
 | 3 | [ahmed-abdat](https://github.com/ahmed-abdat) | Ahmed Abdellahi Abdat | mauritania nouakchott | 10,694 |
 | 4 | [LeminEly](https://github.com/LeminEly) | Lemin | Mauritania | 8,409 |
 | 5 | [BechirAhmed](https://github.com/BechirAhmed) | Bechir Ahmed | Nouakchott, Mauritania | 4,605 |
@@ -50,7 +50,7 @@ Indexed users: 289
 | 11 | [lbarsidati22](https://github.com/lbarsidati22) | Lbar Sidati | Nouakchott | 296 |
 | 12 | [alibyh](https://github.com/alibyh) | Alibyh | Nouakchott-Mauritania | 264 |
 | 13 | [abdallahisouvi](https://github.com/abdallahisouvi) | Abdallahisouvi  | Nouakchott mauritanie  | 246 |
-| 14 | [khalef-khalil](https://github.com/khalef-khalil) | Khalil Khalef | Mauritania | 213 |
+| 14 | [khalef-khalil](https://github.com/khalef-khalil) | Khalil Khalef | Mauritania | 215 |
 | 15 | [AymanMady](https://github.com/AymanMady) | Bechir Mady (octopus) | Nouakchott Mauritania | 207 |
 | 16 | [ghalass](https://github.com/ghalass) | MED SALEM GHALASS | Mauritania | 207 |
 | 17 | [Hashimi01](https://github.com/Hashimi01) | Hashimi El Hashimi | Nouakchott, Mauritania | 207 |
@@ -83,4 +83,4 @@ Indexed users: 289
 | 19 | [mbareck7](https://github.com/mbareck7) | mbar3ck7 | Mauritania, Nouakchott | 25 |
 | 20 | [rajelmn](https://github.com/rajelmn) | ra_mn | mauritania | 24 |
 
-Generated: 2026-10-16T02:51:09.149Z
+Generated: 2026-10-16T05:59:05.027Z

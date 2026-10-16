@@ -31,7 +31,7 @@ Indexed users: 296
 | 17 | [rudoq007](https://github.com/rudoq007) | WanixRSGIS | Papua New Guinea | 330 |
 | 18 | [jeremykes](https://github.com/jeremykes) | Jeremy Kes Palme  | Papua New Guinea | 307 |
 | 19 | [mrwicktheprogrammer](https://github.com/mrwicktheprogrammer) | Jonathan Kamalan | Mt Hagen, Western Highlands Province, Papua New Guinea | 294 |
-| 20 | [hoiregeno](https://github.com/hoiregeno) | Geno Hoire | Port Moresby, Papua New Guinea | 248 |
+| 20 | [hoiregeno](https://github.com/hoiregeno) | Geno Hoire | Port Moresby, Papua New Guinea | 245 |
 
 ## Public Contributions
 
@@ -45,7 +45,7 @@ Indexed users: 296
 | 6 | [TMJ-24](https://github.com/TMJ-24) | tmj | Port Moresby | 452 |
 | 7 | [rudoq007](https://github.com/rudoq007) | WanixRSGIS | Papua New Guinea | 330 |
 | 8 | [alefsolutions](https://github.com/alefsolutions) | Louis Ronald | Port Moresby | 280 |
-| 9 | [hoiregeno](https://github.com/hoiregeno) | Geno Hoire | Port Moresby, Papua New Guinea | 248 |
+| 9 | [hoiregeno](https://github.com/hoiregeno) | Geno Hoire | Port Moresby, Papua New Guinea | 245 |
 | 10 | [digi4arch424](https://github.com/digi4arch424) | DigiArch 424 | Port Moresby | 242 |
 | 11 | [DEVE123-dev](https://github.com/DEVE123-dev) | Benjamin deve Bino | Port Moresby, NCDC | 234 |
 | 12 | [projekt-kombil](https://github.com/projekt-kombil) | Alefay Kombil | Papua New Guinea | 226 |
@@ -83,4 +83,4 @@ Indexed users: 296
 | 19 | [jm0535](https://github.com/jm0535) | Jimmy Moses | Papua New Guinea | 8 |
 | 20 | [loiwai](https://github.com/loiwai) | Loi Wai | Papua New Guinea | 8 |
 
-Generated: 2026-10-16T03:02:05.868Z
+Generated: 2026-10-16T06:12:06.642Z

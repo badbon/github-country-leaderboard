@@ -1,6 +1,6 @@
 # Palestine
 
-Indexed users: 2,199
+Indexed users: 2,198
 
 | Leaderboard | Link |
 |---|---|
@@ -24,10 +24,10 @@ Indexed users: 2,199
 | 10 | [izadoesdev](https://github.com/izadoesdev) | iza | Palestine | 7,373 |
 | 11 | [1210395](https://github.com/1210395) | Jadallah  | Ramallah | 6,823 |
 | 12 | [salahy](https://github.com/salahy) | Salah Yahya | Palestine | 6,501 |
-| 13 | [moustff](https://github.com/moustff) | Mustafa Salem | Gaza, Palestine. | 5,401 |
-| 14 | [moejehad](https://github.com/moejehad) | Mohammed Almadhoun | Palestine | 5,026 |
-| 15 | [IsmailAAmassi](https://github.com/IsmailAAmassi) | Ismail A. Amassi | Palestine, Gaza Strip | 4,747 |
-| 16 | [abusalameh](https://github.com/abusalameh) | Raja Abu Salameh | Jenin, Palestine | 4,581 |
+| 13 | [abusalameh](https://github.com/abusalameh) | Raja Abu Salameh | Jenin, Palestine | 6,010 |
+| 14 | [moustff](https://github.com/moustff) | Mustafa Salem | Gaza, Palestine. | 5,401 |
+| 15 | [moejehad](https://github.com/moejehad) | Mohammed Almadhoun | Palestine | 5,026 |
+| 16 | [IsmailAAmassi](https://github.com/IsmailAAmassi) | Ismail A. Amassi | Palestine, Gaza Strip | 4,747 |
 | 17 | [farahty](https://github.com/farahty) | Nimer Farahty | Palestine | 4,300 |
 | 18 | [Mahmoud-Skafi](https://github.com/Mahmoud-Skafi) | Mahmoud skafi | Palestine, Hebron   | 4,125 |
 | 19 | [zaqoutabed](https://github.com/zaqoutabed) | Abdallah A. Zaqout | Gaza, Palestine | 4,113 |
@@ -83,4 +83,4 @@ Indexed users: 2,199
 | 19 | [dalia2323](https://github.com/dalia2323) |  | Qalqilya, Palestine | 127 |
 | 20 | [mhmdio](https://github.com/mhmdio) | Mohammed Almusaddar | Gaza, Palestine | 125 |
 
-Generated: 2026-10-16T03:00:51.427Z
+Generated: 2026-10-16T06:10:55.017Z

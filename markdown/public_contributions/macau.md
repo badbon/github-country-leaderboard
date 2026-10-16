@@ -1,6 +1,6 @@
 # Public Contributions - Macau
 
-Generated: 2026-10-16T02:49:15.033Z
+Generated: 2026-10-16T05:52:14.548Z
 
 Users: 439
 
@@ -17,7 +17,7 @@ Users: 439
 | 9 | [simoniong](https://github.com/simoniong) | Simon Iong | Ksun Technology |  | Macau | 1277 |
 | 10 | [mrvictoru](https://github.com/mrvictoru) | Victor |  |  | Macau | 954 |
 | 11 | [1595901624](https://github.com/1595901624) | Cloris |  | LhyLuhaoyu | Macau | 842 |
-| 12 | [ygqygq2](https://github.com/ygqygq2) | Chinge Yang |  |  | macao | 803 |
+| 12 | [ygqygq2](https://github.com/ygqygq2) | Chinge Yang |  |  | macao | 800 |
 | 13 | [comsaint](https://github.com/comsaint) | comsaint |  |  | Macau | 758 |
 | 14 | [joaquimrcarvalho](https://github.com/joaquimrcarvalho) | Joaquim Carvalho | Macao Polytechnic University / Universidade de Coimbra  |  | Macao, China and Coimbra, Portugal | 704 |
 | 15 | [DoongLi](https://github.com/DoongLi) | Frankie Dong Li |  | Doong__Li | Taipa, Macau | 657 |
