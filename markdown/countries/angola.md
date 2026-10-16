@@ -52,7 +52,7 @@ Indexed users: 2,501
 | 13 | [marcmav](https://github.com/marcmav) | Marciano Mavungo | Luanda, Angola | 1,200 |
 | 14 | [ercabsalias](https://github.com/ercabsalias) | Ernesto Cabingano Salias | Angola - Luanda Viana Estalagem | 1,169 |
 | 15 | [kandadavid36](https://github.com/kandadavid36) | Kanda David | Angola | 1,060 |
-| 16 | [Wolf-Quiteque](https://github.com/Wolf-Quiteque) | Marcio Ragy Daveiga Quiteque | Luanda, Angola | 932 |
+| 16 | [Wolf-Quiteque](https://github.com/Wolf-Quiteque) | Marcio Ragy Daveiga Quiteque | Luanda, Angola | 945 |
 | 17 | [joao-tambue](https://github.com/joao-tambue) | João Tambue | Angola/Luanda | 930 |
 | 18 | [DumiJDev](https://github.com/DumiJDev) | Dumildes Paulo | Luanda, Angola | 879 |
 | 19 | [gasparfranciscogulungo](https://github.com/gasparfranciscogulungo) | Gaspar Francisco Gulungo | Angola, Luanda, Viana | 879 |
@@ -83,4 +83,4 @@ Indexed users: 2,501
 | 19 | [jofranqueira](https://github.com/jofranqueira) | José Frangueira | Angola | 160 |
 | 20 | [Jovanysfive](https://github.com/Jovanysfive) | Job Bento | Angola/Luanda | 152 |
 
-Generated: 2026-10-16T17:43:46.388Z
+Generated: 2026-10-16T19:13:12.400Z

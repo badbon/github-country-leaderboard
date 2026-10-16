@@ -1,6 +1,6 @@
 # Total Contributions - Trinidad and Tobago
 
-Generated: 2026-10-16T17:34:40.243Z
+Generated: 2026-10-16T19:02:32.541Z
 
 Users: 256
 
@@ -11,8 +11,8 @@ Users: 256
 | 3 | [jefroy](https://github.com/jefroy) | Ajay Sieunarine | PGS |  | Trinidad and Tobago | 4257 |
 | 4 | [kyledef](https://github.com/kyledef) | Kyle E DeFreitas | @squareup  | kyle_def | Canda / Trinidad and Tobago / St Vincent and the Grenadines | 3151 |
 | 5 | [Emille1723](https://github.com/Emille1723) | Emille Henry |  |  | Trinidad and Tobago | 3080 |
-| 6 | [Chiggs-I-Am](https://github.com/Chiggs-I-Am) | Stephan Wilson |  |  | Trinidad and Tobago | 2911 |
-| 7 | [AnthonyASBaptiste](https://github.com/AnthonyASBaptiste) | Anthony A.S Baptiste |  |  | Trinidad and Tobago | 2910 |
+| 6 | [AnthonyASBaptiste](https://github.com/AnthonyASBaptiste) | Anthony A.S Baptiste |  |  | Trinidad and Tobago | 2918 |
+| 7 | [Chiggs-I-Am](https://github.com/Chiggs-I-Am) | Stephan Wilson |  |  | Trinidad and Tobago | 2911 |
 | 8 | [creativenull](https://github.com/creativenull) | Arnold Chand |  | creativenu11 | Trinidad and Tobago | 2298 |
 | 9 | [devxlag](https://github.com/devxlag) | Devon Murray | UWI |  | Trinidad and Tobago | 2226 |
 | 10 | [marcstampfli](https://github.com/marcstampfli) | Marc Stämpfli |  |  | Trinidad and Tobago | 2103 |
@@ -22,7 +22,7 @@ Users: 256
 | 14 | [Yhonathon-Maharaj](https://github.com/Yhonathon-Maharaj) | Yhonathon Maharaj | Euthy Labs | Yhonathon | Trinidad and Tobago | 1403 |
 | 15 | [mreid-tt](https://github.com/mreid-tt) | Michael Reid |  | mreid_tt | Trinidad and Tobago | 1282 |
 | 16 | [renniemaharaj](https://github.com/renniemaharaj) | Rennie Maharaj | The Writer Company  |  | Trinidad and Tobago | 1186 |
-| 17 | [adrifranCode](https://github.com/adrifranCode) | Adrien Francois |  |  | Trinidad and Tobago | 995 |
-| 18 | [kwamet](https://github.com/kwamet) | Kwame Trancoso | @Heft-IQ |  | Trinidad and Tobago | 992 |
-| 19 | [DanielYatali](https://github.com/DanielYatali) | Daniel Yatali | Wepala |  | Trinidad and Tobago | 987 |
-| 20 | [aaronbesson](https://github.com/aaronbesson) | AaronB | @aaronbesson | aaronbesson | Trinidad and Tobago | 973 |
+| 17 | [aaronbesson](https://github.com/aaronbesson) | AaronB | @aaronbesson | aaronbesson | Trinidad and Tobago | 1015 |
+| 18 | [adrifranCode](https://github.com/adrifranCode) | Adrien Francois |  |  | Trinidad and Tobago | 995 |
+| 19 | [kwamet](https://github.com/kwamet) | Kwame Trancoso | @Heft-IQ |  | Trinidad and Tobago | 992 |
+| 20 | [DanielYatali](https://github.com/DanielYatali) | Daniel Yatali | Wepala |  | Trinidad and Tobago | 987 |

@@ -1,6 +1,6 @@
 # Public Contributions - Tanzania
 
-Generated: 2026-10-16T17:32:31.232Z
+Generated: 2026-10-16T19:00:35.825Z
 
 Users: 2039
 
@@ -12,8 +12,8 @@ Users: 2039
 | 4 | [fmwasekaga](https://github.com/fmwasekaga) | Fredrick Lusako Mwasekaga | kagaconnect |  | Tanzania | 8875 |
 | 5 | [alobit21](https://github.com/alobit21) | Aloyce Mtavangu | Tarxemo Software Company  |  | Dodoma-Tanzania | 6003 |
 | 6 | [Lazackdevs](https://github.com/Lazackdevs) | Lazack_28 | lazack organization |  | dodoma | 4314 |
-| 7 | [APKnation](https://github.com/APKnation) | apk |  |  | DODOMA -TANZANIA | 3061 |
-| 8 | [Barakael](https://github.com/Barakael) | barakael | Tera Technologies and Engineering LTD |  | Dar-es-salaam, Tanzania | 3011 |
+| 7 | [Barakael](https://github.com/Barakael) | barakael | Tera Technologies and Engineering LTD |  | Dar-es-salaam, Tanzania | 3072 |
+| 8 | [APKnation](https://github.com/APKnation) | apk |  |  | DODOMA -TANZANIA | 3061 |
 | 9 | [ALTUM-02](https://github.com/ALTUM-02) | Altum02 |  |  | Dodoma - Tanzania | 2851 |
 | 10 | [zuck30](https://github.com/zuck30) | Shadrackovsky | AGS |  | Tanzania | 2351 |
 | 11 | [wizystudios](https://github.com/wizystudios) | khalifa Nadhir | wizystudio |  | tanzania | 1952 |

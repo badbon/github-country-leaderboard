@@ -1,14 +1,14 @@
 # Followers - Jordan
 
-Generated: 2026-10-16T18:23:02.950Z
+Generated: 2026-10-16T19:47:12.013Z
 
 Users: 4014
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [waelodeh98](https://github.com/waelodeh98) | Wael Samer \| Software Engineer | Jordan |  | Amman , Jordan | 1148 |
-| 2 | [enghamzasalem](https://github.com/enghamzasalem) | Hamza Salem | I can do push-up on One Arm 3 fingers | enghamzasalem | Amman Jordan / Innopolis Russia  | 924 |
-| 3 | [ShadowHackrs](https://github.com/ShadowHackrs) | Shadow Hacker | Shadow Hacker | ShadowHackrs | jordan | 908 |
+| 2 | [ShadowHackrs](https://github.com/ShadowHackrs) | Shadow Hacker | Shadow Hacker | ShadowHackrs | jordan | 1126 |
+| 3 | [enghamzasalem](https://github.com/enghamzasalem) | Hamza Salem | I can do push-up on One Arm 3 fingers | enghamzasalem | Amman Jordan / Innopolis Russia  | 924 |
 | 4 | [Asaqa988](https://github.com/Asaqa988) | Abedalraheem | international arab islamic bank |  | Amman, Amman Governorate, Jordan | 737 |
 | 5 | [Adel-Nasim](https://github.com/Adel-Nasim) | Adel Nasim Adel Suleiman |  |  | Amman - Jordan | 712 |
 | 6 | [tjoudeh](https://github.com/tjoudeh) | Taiseer Joudeh | Microsoft | tjoudeh | Jordan-Amman | 689 |
@@ -20,9 +20,9 @@ Users: 4014
 | 12 | [NSAntoine](https://github.com/NSAntoine) | NSAntoine |  |  | Amman, Jordan | 386 |
 | 13 | [OmarSalhab](https://github.com/OmarSalhab) | Omar Marouf |  | MoonWebsDev | Jordan | 372 |
 | 14 | [nancyalaswad90](https://github.com/nancyalaswad90) | Ms. Nancy Al Aswad  | Independent Contractor  | AswadNancy | Jordan | 328 |
-| 15 | [Hamza-Abdulrahman](https://github.com/Hamza-Abdulrahman) | Hamza Abdulrahman |  | R1DDIF | Jordan,Amman | 313 |
+| 15 | [Hamza-Abdulrahman](https://github.com/Hamza-Abdulrahman) | Hamza Abdulrahman |  | R1DDIF | Jordan,Amman | 299 |
 | 16 | [muayyad-alsadi](https://github.com/muayyad-alsadi) | Muayyad Alsadi | @OpenSooq  |  | Jordan | 258 |
 | 17 | [OmarAzizi](https://github.com/OmarAzizi) | Kryptonite | @jordanopensource |  | Amman, Jordan | 246 |
 | 18 | [afaneh92](https://github.com/afaneh92) | mohammad.afaneh92 |  |  | Amman-Jordan | 242 |
-| 19 | [Eng-Mohamed-Elsayed](https://github.com/Eng-Mohamed-Elsayed) | Eng-Mohamed Elsayed |  | MohElsayed_se | Jordan | 195 |
+| 19 | [Eng-Mohamed-Elsayed](https://github.com/Eng-Mohamed-Elsayed) | Eng-Mohamed Elsayed |  | MohElsayed_se | Jordan | 197 |
 | 20 | [omar-dulaimi](https://github.com/omar-dulaimi) | Omar Dulaimi |  | omardulaimidev | Jordan | 192 |

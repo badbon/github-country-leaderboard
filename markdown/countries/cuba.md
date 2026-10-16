@@ -23,7 +23,7 @@ Indexed users: 1,275
 | 9 | [NairAd02](https://github.com/NairAd02) | Adrian Suarez | Havana, Cuba | 5,592 |
 | 10 | [frarteaga](https://github.com/frarteaga) | Frank Rafael Arteaga Salgado | Cuba | 5,156 |
 | 11 | [manuelaguadomtz](https://github.com/manuelaguadomtz) | Manuel Aguado Martinez | Havana, Cuba | 4,805 |
-| 12 | [leodanisbi](https://github.com/leodanisbi) | Leodanis Bernal Ibanez | Havaba/Cuba | 4,685 |
+| 12 | [leodanisbi](https://github.com/leodanisbi) | Leodanis Bernal Ibanez | Havaba/Cuba | 4,729 |
 | 13 | [AgenciaSeniors](https://github.com/AgenciaSeniors) | Eduardo Daniel Pérez Ruiz | Cuba | 4,454 |
 | 14 | [saulo-hermida](https://github.com/saulo-hermida) | Saulo Hermida | Havana,Cuba | 4,220 |
 | 15 | [ucicarlos](https://github.com/ucicarlos) | Carlos Miguel Pérez Reyes | Havana, Cuba | 4,153 |
@@ -83,4 +83,4 @@ Indexed users: 1,275
 | 19 | [leoGlez01](https://github.com/leoGlez01) | Leandro González  | La Habana, Cuba | 70 |
 | 20 | [EduardoProfe666](https://github.com/EduardoProfe666) | Eduardo Alejandro González Martell | La Habana, Cuba | 69 |
 
-Generated: 2026-10-16T18:01:28.233Z
+Generated: 2026-10-16T19:28:09.061Z

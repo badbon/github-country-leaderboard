@@ -1,12 +1,12 @@
 # Followers - Gibraltar
 
-Generated: 2026-10-16T18:10:11.672Z
+Generated: 2026-10-16T19:38:13.186Z
 
 Users: 93
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [miohtama](https://github.com/miohtama) | Mikko Ohtamaa | Trading Strategy | moo9000 | Gibraltar | 580 |
+| 1 | [miohtama](https://github.com/miohtama) | Mikko Ohtamaa | Trading Strategy | moo9000 | Gibraltar | 579 |
 | 2 | [PeterKottas](https://github.com/PeterKottas) | Peter Kottas | @guestbell  |  | Gibraltar | 86 |
 | 3 | [Industrial](https://github.com/Industrial) | Tom Wieland | Idclear |  | Gibraltar | 72 |
 | 4 | [sloancameron](https://github.com/sloancameron) | valley / bernadette | @eijiromantic <- also me! |  | watchpoint gibraltar | 39 |

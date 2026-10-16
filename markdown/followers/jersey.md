@@ -1,6 +1,6 @@
 # Followers - Jersey
 
-Generated: 2026-10-16T13:10:57.795Z
+Generated: 2026-10-16T19:47:06.350Z
 
 Users: 139
 
@@ -8,7 +8,7 @@ Users: 139
 |---:|---|---|---|---|---|---:|
 | 1 | [digitalbuddha](https://github.com/digitalbuddha) | Mike Nakhimovich | @Twitter | FriendlyMikhail | The dirty (jersey) | 791 |
 | 2 | [simonbrowndotje](https://github.com/simonbrowndotje) | Simon Brown | @structurizr  | simonbrown | Jersey, Channel Islands | 761 |
-| 3 | [marcusquinn](https://github.com/marcusquinn) | Marcus Quinn | @evergreenjersey @awardsapp @wpallstars | marcuswquinn | London, UK, Los-angeles, California, England, Jersey | 239 |
+| 3 | [marcusquinn](https://github.com/marcusquinn) | Marcus Quinn | @evergreenjersey @awardsapp @wpallstars | marcuswquinn | London, UK, Los-angeles, California, England, Jersey | 238 |
 | 4 | [PhilETaylor](https://github.com/PhilETaylor) | Phil E. Taylor | Blue Flame Digital Solutions Limited | myPhilTaylor | Jersey, Channel Islands | 68 |
 | 5 | [techtribesje](https://github.com/techtribesje) | techtribes.je |  |  | Jersey, Channel Islands | 55 |
 | 6 | [CJ-Jackson](https://github.com/CJ-Jackson) | Christopher John Jackson | Sephora UK | MrCJJackson | St. Clement, Jersey | 46 |

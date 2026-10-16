@@ -1,6 +1,6 @@
 # Followers - Burundi
 
-Generated: 2026-10-16T17:56:25.640Z
+Generated: 2026-10-16T19:23:14.392Z
 
 Users: 235
 
@@ -8,11 +8,11 @@ Users: 235
 |---:|---|---|---|---|---|---:|
 | 1 | [JovinMtl](https://github.com/JovinMtl) | Nsanzumukiza Thierry | Self-Employed | Mtl_Thierry_Jov | Bujumbura, Burundi | 368 |
 | 2 | [gatarelib](https://github.com/gatarelib) | Gatare Libère | ACLIS | gatarelib | Burundi | 146 |
-| 3 | [EddyKubwimana](https://github.com/EddyKubwimana) | Eddy Kubwimana | PayVista |  | Burundi | 136 |
+| 3 | [EddyKubwimana](https://github.com/EddyKubwimana) | Eddy Kubwimana | PayVista |  | Burundi | 135 |
 | 4 | [muco-rolle](https://github.com/muco-rolle) | Trésor Muco | Leapa | mucotreso | Bujumbura, Burundi | 102 |
 | 5 | [Toussaint-Coder](https://github.com/Toussaint-Coder) | toussaint iradukunda | Tech Devs | toussaintiradu2 | bujumbura, burundi | 90 |
 | 6 | [srugano](https://github.com/srugano) | Allan Stockman RUGANO  | @UbuhingaVizion  | iMitwe | Burundi | 87 |
-| 7 | [Kirogodye](https://github.com/Kirogodye) | Kirogodye | Inkinolive | kirogodye | Burundi | 80 |
+| 7 | [Kirogodye](https://github.com/Kirogodye) | Kirogodye | Inkinolive | kirogodye | Burundi | 81 |
 | 8 | [ndikumanaisaie](https://github.com/ndikumanaisaie) | Ndikumana Isaie |  | Ndikuma38670724 | Burundi | 78 |
 | 9 | [dondelice257](https://github.com/dondelice257) | Don Delice Dushime | Mwezi Labs | dondelicedushi | Burundi | 74 |
 | 10 | [INGANZAMARUMPU](https://github.com/INGANZAMARUMPU) | NKURUNZIZA | hogitugende | inganzamarumpu | Bujumbura, Burundi | 73 |

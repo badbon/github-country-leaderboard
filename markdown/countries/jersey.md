@@ -12,7 +12,7 @@ Indexed users: 139
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [marcusquinn](https://github.com/marcusquinn) | Marcus Quinn | London, UK, Los-angeles, California, England, Jersey | 54,458 |
+| 1 | [marcusquinn](https://github.com/marcusquinn) | Marcus Quinn | London, UK, Los-angeles, California, England, Jersey | 54,559 |
 | 2 | [PhilETaylor](https://github.com/PhilETaylor) | Phil E. Taylor | Jersey, Channel Islands | 38,633 |
 | 3 | [jde](https://github.com/jde) | David Erwin | New [York, Jersey] | 11,822 |
 | 4 | [ndestates](https://github.com/ndestates) | Nick Dodsley | Jersey | 10,710 |
@@ -37,7 +37,7 @@ Indexed users: 139
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [marcusquinn](https://github.com/marcusquinn) | Marcus Quinn | London, UK, Los-angeles, California, England, Jersey | 43,104 |
+| 1 | [marcusquinn](https://github.com/marcusquinn) | Marcus Quinn | London, UK, Los-angeles, California, England, Jersey | 43,040 |
 | 2 | [simonbrowndotje](https://github.com/simonbrowndotje) | Simon Brown | Jersey, Channel Islands | 747 |
 | 3 | [PhilETaylor](https://github.com/PhilETaylor) | Phil E. Taylor | Jersey, Channel Islands | 707 |
 | 4 | [j4ckxyz](https://github.com/j4ckxyz) | jack | Jersey, UK | 692 |
@@ -64,7 +64,7 @@ Indexed users: 139
 |---:|---|---|---|---:|
 | 1 | [digitalbuddha](https://github.com/digitalbuddha) | Mike Nakhimovich | The dirty (jersey) | 791 |
 | 2 | [simonbrowndotje](https://github.com/simonbrowndotje) | Simon Brown | Jersey, Channel Islands | 761 |
-| 3 | [marcusquinn](https://github.com/marcusquinn) | Marcus Quinn | London, UK, Los-angeles, California, England, Jersey | 239 |
+| 3 | [marcusquinn](https://github.com/marcusquinn) | Marcus Quinn | London, UK, Los-angeles, California, England, Jersey | 238 |
 | 4 | [PhilETaylor](https://github.com/PhilETaylor) | Phil E. Taylor | Jersey, Channel Islands | 68 |
 | 5 | [techtribesje](https://github.com/techtribesje) | techtribes.je | Jersey, Channel Islands | 55 |
 | 6 | [CJ-Jackson](https://github.com/CJ-Jackson) | Christopher John Jackson | St. Clement, Jersey | 46 |
@@ -83,4 +83,4 @@ Indexed users: 139
 | 19 | [garyedwards](https://github.com/garyedwards) | Gary Edwards | Jersey, Channel Islands | 21 |
 | 20 | [Chrisedmo](https://github.com/Chrisedmo) | Chris Mousdale | Jersey, Channel Islands | 20 |
 
-Generated: 2026-10-16T13:10:57.795Z
+Generated: 2026-10-16T19:47:06.350Z

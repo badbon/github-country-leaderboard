@@ -1,6 +1,6 @@
 # Total Contributions - Cape Verde
 
-Generated: 2026-10-16T17:57:41.627Z
+Generated: 2026-10-16T19:24:00.398Z
 
 Users: 563
 
@@ -11,7 +11,7 @@ Users: 563
 | 3 | [Balula12](https://github.com/Balula12) | Gustavo Santos Balula |  |  | Praia Grande, SP | 2676 |
 | 4 | [natanvalimcardoso](https://github.com/natanvalimcardoso) | Natan Valim | Bemol |  | Praia Grande - SC | 2261 |
 | 5 | [Brocy](https://github.com/Brocy) | Brocy Centeio | Zing Developers |  | Praia, Cabo Verde | 2099 |
-| 6 | [ThiagoCI](https://github.com/ThiagoCI) | Thiago C Iglesias | X.Lab (TV1) \| thiagoci.com |  | Praia Grande - SP | 1902 |
+| 6 | [ThiagoCI](https://github.com/ThiagoCI) | Thiago C Iglesias | X.Lab (TV1) \| thiagoci.com |  | Praia Grande - SP | 1918 |
 | 7 | [PedroVenchiarutti](https://github.com/PedroVenchiarutti) | Pedro Venchiarutti | Inventta |  | Praia Grande/SP | 1789 |
 | 8 | [LeandroLeiteC](https://github.com/LeandroLeiteC) | Leleco | @nubank |  | Praia Grande | 1767 |
 | 9 | [LCSSchmidt](https://github.com/LCSSchmidt) | Lucas Miguel Schmidt | Monkey Branch |  | Itajai - Praia Brava | 1388 |
@@ -19,8 +19,8 @@ Users: 563
 | 11 | [codewrldniclas](https://github.com/codewrldniclas) | Nicholas Alves |  |  | Praia, Cape Verde | 1372 |
 | 12 | [Steravy](https://github.com/Steravy) | Stefan Victoria  |  | Ste_ravy | Praia, Cape Verde | 1290 |
 | 13 | [Deustavo](https://github.com/Deustavo) | Gustavo Andrade | Tray |  | Praia Grande - SP | 1243 |
-| 14 | [adrianoviana87](https://github.com/adrianoviana87) | Adriano Viana |  |  | Praia do Sonho - Palhoça, SC - Brasil | 1225 |
-| 15 | [peeta98](https://github.com/peeta98) | Pedro Moreira |  |  | Terceira, Praia da Vitória | 1224 |
+| 14 | [peeta98](https://github.com/peeta98) | Pedro Moreira |  |  | Terceira, Praia da Vitória | 1224 |
+| 15 | [adrianoviana87](https://github.com/adrianoviana87) | Adriano Viana |  |  | Praia do Sonho - Palhoça, SC - Brasil | 1223 |
 | 16 | [Denio26](https://github.com/Denio26) | Dénio Melo | @DevMasters-Lda |  | Cape Verde | 1166 |
 | 17 | [machadoah](https://github.com/machadoah) | Antonio Henrique Machado | @gupy-io | machadoah | Praia Grande/SP | 1147 |
 | 18 | [mrbonini](https://github.com/mrbonini) | Kaique Sousa Bonini |  |  | Praia Grande, SP - Brazil | 1144 |

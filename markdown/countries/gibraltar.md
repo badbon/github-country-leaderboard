@@ -14,7 +14,7 @@ Indexed users: 93
 |---:|---|---|---|---:|
 | 1 | [Likeandfeel](https://github.com/Likeandfeel) |  | Gibraltar | 27,548 |
 | 2 | [miohtama](https://github.com/miohtama) | Mikko Ohtamaa | Gibraltar | 5,658 |
-| 3 | [Industrial](https://github.com/Industrial) | Tom Wieland | Gibraltar | 5,245 |
+| 3 | [Industrial](https://github.com/Industrial) | Tom Wieland | Gibraltar | 5,252 |
 | 4 | [marcoscholz](https://github.com/marcoscholz) | Marco Scholz | Gibraltar | 3,296 |
 | 5 | [dlicudi](https://github.com/dlicudi) | Duane Licudi | Gibraltar | 2,624 |
 | 6 | [Fenicio](https://github.com/Fenicio) | Guillermo G C | Gibraltar | 1,391 |
@@ -62,7 +62,7 @@ Indexed users: 93
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [miohtama](https://github.com/miohtama) | Mikko Ohtamaa | Gibraltar | 580 |
+| 1 | [miohtama](https://github.com/miohtama) | Mikko Ohtamaa | Gibraltar | 579 |
 | 2 | [PeterKottas](https://github.com/PeterKottas) | Peter Kottas | Gibraltar | 86 |
 | 3 | [Industrial](https://github.com/Industrial) | Tom Wieland | Gibraltar | 72 |
 | 4 | [sloancameron](https://github.com/sloancameron) | valley / bernadette | watchpoint gibraltar | 39 |
@@ -83,4 +83,4 @@ Indexed users: 93
 | 19 | [vfiodor](https://github.com/vfiodor) | Fiodor Veresciaka | Gibraltar | 13 |
 | 20 | [VPSServerCom](https://github.com/VPSServerCom) | VPS Server | Gibraltar | 13 |
 
-Generated: 2026-10-16T18:10:11.672Z
+Generated: 2026-10-16T19:38:13.186Z

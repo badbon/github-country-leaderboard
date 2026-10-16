@@ -1,6 +1,6 @@
 # Total Contributions - United Arab Emirates
 
-Generated: 2026-10-16T17:37:25.669Z
+Generated: 2026-10-16T19:43:14.034Z
 
 Users: 4229
 
@@ -20,9 +20,9 @@ Users: 4229
 | 12 | [ahmadpx](https://github.com/ahmadpx) | Ahmed Abdallah | Seera \| Tajawal \| Almosafer |  | United Arab Emirates | 10867 |
 | 13 | [Massad](https://github.com/Massad) | Omar Masad | @testappio |  | United Arab Emirates, Dubai | 10605 |
 | 14 | [tech-sumit](https://github.com/tech-sumit) | Sumit S. Agrawal |  |  | Dubai, United Arab Emirates | 10163 |
-| 15 | [aenawi](https://github.com/aenawi) | Hashem Aldhaheri |  | aenawi | Abu Dhabi, United Arab Emirates | 9573 |
-| 16 | [Aborii](https://github.com/Aborii) | Abdullah Almofleh | @tech-propwise-org  |  | United Arab Emirates, Dubai | 9537 |
-| 17 | [codemug](https://github.com/codemug) | Usman Shahid | Careem |  | Dubai, United Arab Emirates | 9519 |
-| 18 | [abegehr](https://github.com/abegehr) | Anton Begehr | @Stealth | abegehr | Dubai, United Arab Emirates | 9141 |
-| 19 | [xdaguy](https://github.com/xdaguy) | ABDULLAH HARIS |  |  | Abu Dhabi, UAE | 8796 |
-| 20 | [GuillermoDLCO](https://github.com/GuillermoDLCO) | Guillermo Jeremy De La Cruz Onton | @VarnCloud | GuillermoDLCO | Dubai, United Arab Emirates | 8655 |
+| 15 | [iliakrupin](https://github.com/iliakrupin) | Ilia Krupin | INSIGNIS |  | Dubai, United Arab Emirates | 10039 |
+| 16 | [aenawi](https://github.com/aenawi) | Hashem Aldhaheri |  | aenawi | Abu Dhabi, United Arab Emirates | 9573 |
+| 17 | [Aborii](https://github.com/Aborii) | Abdullah Almofleh | @tech-propwise-org  |  | United Arab Emirates, Dubai | 9537 |
+| 18 | [codemug](https://github.com/codemug) | Usman Shahid | Careem |  | Dubai, United Arab Emirates | 9519 |
+| 19 | [abegehr](https://github.com/abegehr) | Anton Begehr | @Stealth | abegehr | Dubai, United Arab Emirates | 9141 |
+| 20 | [xdaguy](https://github.com/xdaguy) | ABDULLAH HARIS |  |  | Abu Dhabi, UAE | 8796 |

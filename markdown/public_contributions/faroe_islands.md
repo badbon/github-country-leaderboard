@@ -1,6 +1,6 @@
 # Public Contributions - Faroe Islands
 
-Generated: 2026-10-16T18:07:28.700Z
+Generated: 2026-10-16T19:35:49.163Z
 
 Users: 68
 
@@ -20,7 +20,7 @@ Users: 68
 | 12 | [Theoistic](https://github.com/Theoistic) | Theodor Solbjorg | Theoistic | Theoistic | Faroe Islands | 122 |
 | 13 | [forkh](https://github.com/forkh) |  |  |  | Føroyar | 112 |
 | 14 | [mashema](https://github.com/mashema) | John Eyðstein Johannesen  |  |  | Faroe Islands | 109 |
-| 15 | [samal-rasmussen](https://github.com/samal-rasmussen) | Sámal Rasmussen | @bokin-fo  |  | Tórshavn, Faroe Islands | 101 |
+| 15 | [samal-rasmussen](https://github.com/samal-rasmussen) | Sámal Rasmussen | @bokin-fo  |  | Tórshavn, Faroe Islands | 102 |
 | 16 | [Rogn](https://github.com/Rogn) | Hallur Holm Johannessen |  |  | Faroe Islands | 94 |
 | 17 | [BergurDavidsen](https://github.com/BergurDavidsen) |  | @flowcore-io |  | Faroe Islands | 90 |
 | 18 | [michaelgyp](https://github.com/michaelgyp) | Michael Gusti Yanu Putra | BitImpact | the_mgyp | Faroe Islands | 88 |

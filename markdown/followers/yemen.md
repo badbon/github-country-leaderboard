@@ -1,6 +1,6 @@
 # Followers - Yemen
 
-Generated: 2026-10-16T17:40:39.190Z
+Generated: 2026-10-16T19:10:03.470Z
 
 Users: 1206
 
@@ -10,9 +10,9 @@ Users: 1206
 | 2 | [OsamaAlmamri](https://github.com/OsamaAlmamri) | Osama Al-mamari  | Tazamun |  | Sana'a ,Yemen | 924 |
 | 3 | [SaraAhmed1999](https://github.com/SaraAhmed1999) | Sara Ahmed |  |  | Yemen | 894 |
 | 4 | [Asbaharoon](https://github.com/Asbaharoon) | Abdullah Baharoon | @openjdk and @graalvm  |  | Yemen | 687 |
-| 5 | [WatheqAlshowaiter](https://github.com/WatheqAlshowaiter) | Watheq Alshowaiter | Co·founder @YemenOpenSource | watheq_show | Yemen | 405 |
+| 5 | [WatheqAlshowaiter](https://github.com/WatheqAlshowaiter) | Watheq Alshowaiter | Co·founder @YemenOpenSource | watheq_show | Yemen | 404 |
 | 6 | [AhmadHRai](https://github.com/AhmadHRai) | Ahmad Alrai | @ByteRunners  |  | Yemen | 386 |
-| 7 | [omaralalwi](https://github.com/omaralalwi) | Omar Alalwi | freelance | omaralalwi2013 | sana'a Yemen | 383 |
+| 7 | [omaralalwi](https://github.com/omaralalwi) | Omar Alalwi | freelance | omaralalwi2013 | sana'a Yemen | 384 |
 | 8 | [CS2487](https://github.com/CS2487) | Farea AL-Dhela'a | Freelance |  | Yemen, Sana’a,a | 351 |
 | 9 | [hishamco](https://github.com/hishamco) | Hisham Bin Ateya |  | hishambinateya | Yemen | 331 |
 | 10 | [k-j-alarashi](https://github.com/k-j-alarashi) | Khaled Jalal Al-arashi |  | k_j_alarashi | Yemen , Sana'a | 283 |
@@ -20,7 +20,7 @@ Users: 1206
 | 12 | [AymanAltairi73](https://github.com/AymanAltairi73) | Ayman Ahmed Altairi  | Freelancer |  | Yemen/Mukalla | 272 |
 | 13 | [suaad997](https://github.com/suaad997) | SuadAljuaid | UST Unversity |  | yemen ,sana'a | 228 |
 | 14 | [mrpythonfpi](https://github.com/mrpythonfpi) | 𝐌r𝐏𝐘𝐓𝐇𝐎𝐍🎩༒ | 𝗦𝗘𝗖𝗥𝗘𝗧 𝗡𝗘𝗧 ⋆ 🏴‍☠️ |  | YEMEN | 187 |
-| 15 | [muath-ye](https://github.com/muath-ye) | Muath Alsowadi | Co-founder @YemenOpenSource, Member of @open-sale | muathye | Yemen | 182 |
+| 15 | [muath-ye](https://github.com/muath-ye) | Muath Alsowadi | Co-founder @YemenOpenSource, Member of @open-sale | muathye | Yemen | 181 |
 | 16 | [Emadalshamery](https://github.com/Emadalshamery) | Emad QEAD Alshamiri  | alemadtr.com |  | Yemen | 172 |
 | 17 | [0-d3y](https://github.com/0-d3y) | S4Tech | Cyber Security | Linux_ye | Yemen | 160 |
 | 18 | [hetari](https://github.com/hetari) | Ebraheem Alhetari | Temmam Light | hetaridev | Yemen | 160 |

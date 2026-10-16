@@ -1,6 +1,6 @@
 # Followers - Faroe Islands
 
-Generated: 2026-10-16T18:07:28.700Z
+Generated: 2026-10-16T19:35:49.163Z
 
 Users: 68
 
@@ -16,9 +16,9 @@ Users: 68
 | 8 | [argilzar](https://github.com/argilzar) | Brian Bischoff | @globe-tracker @flowcore-io  | argilzar | Faroe Islands | 12 |
 | 9 | [eydunn](https://github.com/eydunn) | Eyðun Nielsen | @globe-tracker |  | Tórshavn, Faroe islands | 12 |
 | 10 | [Flakvard](https://github.com/Flakvard) | Ma-a-a-rni | Oilwind Sp/f |  | Faroe Islands | 11 |
-| 11 | [forkh](https://github.com/forkh) |  |  |  | Føroyar | 10 |
-| 12 | [Niflheimrx](https://github.com/Niflheimrx) | Niflheimrx |  |  | Faroe Islands | 10 |
-| 13 | [barbaroo](https://github.com/barbaroo) | Barbara Scalvini | University of the Faroe Islands |  | Tórshavn | 9 |
+| 11 | [Niflheimrx](https://github.com/Niflheimrx) | Niflheimrx |  |  | Faroe Islands | 10 |
+| 12 | [barbaroo](https://github.com/barbaroo) | Barbara Scalvini | University of the Faroe Islands |  | Tórshavn | 9 |
+| 13 | [forkh](https://github.com/forkh) |  |  |  | Føroyar | 9 |
 | 14 | [hoegnason](https://github.com/hoegnason) | Rani Högnason Hansen | Faroese Telecom |  | Tórshavn | 9 |
 | 15 | [Theoistic](https://github.com/Theoistic) | Theodor Solbjorg | Theoistic | Theoistic | Faroe Islands | 9 |
 | 16 | [thorgisl](https://github.com/thorgisl) | Dreki Þórgísl |  |  | Tórshavn, Faroe Islands | 9 |

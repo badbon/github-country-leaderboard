@@ -1,12 +1,12 @@
 # Total Contributions - Curaçao
 
-Generated: 2026-10-16T18:02:11.020Z
+Generated: 2026-10-16T19:28:43.880Z
 
 Users: 53
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [mvdgun](https://github.com/mvdgun) | Mauro van der Gun | @business-one  |  | Curaçao | 6229 |
+| 1 | [mvdgun](https://github.com/mvdgun) | Mauro van der Gun | @business-one  |  | Curaçao | 6249 |
 | 2 | [kloostermanw](https://github.com/kloostermanw) | Wiebe |  | wiebe1971 | Willemstad, Curaçao | 3835 |
 | 3 | [flangfeldt](https://github.com/flangfeldt) | FΞLIX | @celery-payroll  |  | Willemstad, Curacao | 3578 |
 | 4 | [BalusC](https://github.com/BalusC) | Bauke Scholtz |  | OmniFaces | Willemstad, Curaçao | 3403 |

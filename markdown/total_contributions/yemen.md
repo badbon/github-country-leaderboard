@@ -1,6 +1,6 @@
 # Total Contributions - Yemen
 
-Generated: 2026-10-16T17:40:39.190Z
+Generated: 2026-10-16T19:10:03.470Z
 
 Users: 1206
 
@@ -9,17 +9,17 @@ Users: 1206
 | 1 | [thejulan](https://github.com/thejulan) | Julan | @green-goblins @DevITOps @looptron-team  |  | Yemen | 95318 |
 | 2 | [YounisDany](https://github.com/YounisDany) | Younis Dany \| يونس ضاعني |  | Yunesdhanei | Yemen | 43101 |
 | 3 | [MrIbrahem](https://github.com/MrIbrahem) | ibrahem Qasim |  | Ibrahem_Qasim | Sana'a  | 28628 |
-| 4 | [Anwar-alhitar](https://github.com/Anwar-alhitar) | Anwar_alhitar  |  |  | Yemen sana'a  | 27911 |
+| 4 | [Anwar-alhitar](https://github.com/Anwar-alhitar) | Anwar_alhitar  |  |  | Yemen sana'a  | 27998 |
 | 5 | [saqer23](https://github.com/saqer23) | Saqer Aljabri |  | s_jabri23 | Yemen | 11418 |
 | 6 | [zayedadel](https://github.com/zayedadel) | Zayed Adel Al-Meklahfi |  |  | Yemen , Sana'a | 10034 |
-| 7 | [MokarmDev](https://github.com/MokarmDev) | Mokarm Mohammed | @SmartMindSYSCoder |  | Yemen | 9150 |
-| 8 | [omaralalwi](https://github.com/omaralalwi) | Omar Alalwi | freelance | omaralalwi2013 | sana'a Yemen | 8635 |
+| 7 | [omaralalwi](https://github.com/omaralalwi) | Omar Alalwi | freelance | omaralalwi2013 | sana'a Yemen | 9316 |
+| 8 | [MokarmDev](https://github.com/MokarmDev) | Mokarm Mohammed | @SmartMindSYSCoder |  | Yemen | 9150 |
 | 9 | [OsamaAlmamri](https://github.com/OsamaAlmamri) | Osama Al-mamari  | Tazamun |  | Sana'a ,Yemen | 8592 |
 | 10 | [moatasem-alhilali](https://github.com/moatasem-alhilali) | Moatasem Alhilali |  |  | Yemen | 8179 |
 | 11 | [Nabeel-Zawia](https://github.com/Nabeel-Zawia) | Nabeel Khalid Zawia | Trades |  | Sana'a Yemen | 8160 |
 | 12 | [Qaidsaher](https://github.com/Qaidsaher) | Saher Qaid | InjazCode | SaherQaid | Yemen,Ibb city | 8084 |
-| 13 | [aymanalhattami](https://github.com/aymanalhattami) | Ayman Alhattami | Noot | aymanmalhattami | Yemen | 7630 |
-| 14 | [muath-ye](https://github.com/muath-ye) | Muath Alsowadi | Co-founder @YemenOpenSource, Member of @open-sale | muathye | Yemen | 7321 |
+| 13 | [aymanalhattami](https://github.com/aymanalhattami) | Ayman Alhattami | Noot | aymanmalhattami | Yemen | 7617 |
+| 14 | [muath-ye](https://github.com/muath-ye) | Muath Alsowadi | Co-founder @YemenOpenSource, Member of @open-sale | muathye | Yemen | 7302 |
 | 15 | [tarasana-mufadhala](https://github.com/tarasana-mufadhala) | Mokhtar Hussein Abdulwahab Alsorori | University of Saba Region  |  | Yemen  | 7227 |
 | 16 | [AhmedSalehGhaithan](https://github.com/AhmedSalehGhaithan) | Ahmed ghaithan | DataTrans |  | Yemen ,sanaa | 6842 |
 | 17 | [EngAzzamZaid](https://github.com/EngAzzamZaid) | Eng Azzam Alsharie  | @KitSysCo  |  | Yemen | 6780 |

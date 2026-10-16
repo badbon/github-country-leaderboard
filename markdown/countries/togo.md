@@ -25,13 +25,13 @@ Indexed users: 679
 | 11 | [charlesdzadu](https://github.com/charlesdzadu) | Charles DZADU | Lomé - Togo | 5,175 |
 | 12 | [sebandroidev](https://github.com/sebandroidev) | Sebastien NOGBEDJI | Lomé, TOGO | 4,965 |
 | 13 | [EmD-228](https://github.com/EmD-228) | Kokou DENYO | Lome-Togo | 4,491 |
-| 14 | [Dreykovic](https://github.com/Dreykovic) | Birewa Audrey AMONA | Togo | 4,473 |
+| 14 | [Dreykovic](https://github.com/Dreykovic) | Birewa Audrey AMONA | Togo | 4,464 |
 | 15 | [Rahim10020](https://github.com/Rahim10020) | Rahim ALI | Lome -TOGO | 4,223 |
 | 16 | [Einswilli](https://github.com/Einswilli) | #Einswilli | Lomé | 3,881 |
 | 17 | [Giovidoh](https://github.com/Giovidoh) | ICGreborns | Lomé, Togo | 3,640 |
-| 18 | [Le-Sourcier](https://github.com/Le-Sourcier) | Yao David LOGAN | US, TOGO, UK | 3,512 |
-| 19 | [Georginio-prod](https://github.com/Georginio-prod) | Georginio  | lomé-TOGO | 3,500 |
-| 20 | [GedeonRO](https://github.com/GedeonRO) | Devotak_u | lomé - Togo | 3,478 |
+| 18 | [Ygryan360](https://github.com/Ygryan360) | Rayane | Lomé, Togo | 3,531 |
+| 19 | [Le-Sourcier](https://github.com/Le-Sourcier) | Yao David LOGAN | US, TOGO, UK | 3,512 |
+| 20 | [Georginio-prod](https://github.com/Georginio-prod) | Georginio  | lomé-TOGO | 3,500 |
 
 ## Public Contributions
 
@@ -45,13 +45,13 @@ Indexed users: 679
 | 6 | [GYFX35](https://github.com/GYFX35) | GOUNTANTE yendoukoa | Togo | 1,965 |
 | 7 | [ALBAN3886](https://github.com/ALBAN3886) | AET Technology  | Togo | 1,899 |
 | 8 | [horacioskrp](https://github.com/horacioskrp) | Kudayah Sassou Horacio Herve | Togo-Lomé  | 1,840 |
-| 9 | [Dreykovic](https://github.com/Dreykovic) | Birewa Audrey AMONA | Togo | 1,797 |
+| 9 | [Dreykovic](https://github.com/Dreykovic) | Birewa Audrey AMONA | Togo | 1,762 |
 | 10 | [Juniorleriche27](https://github.com/Juniorleriche27) |  | Lome, Togo | 1,644 |
 | 11 | [Nova2026-graphik](https://github.com/Nova2026-graphik) | Samuel Nova | Lomé / Togo | 1,279 |
 | 12 | [Einswilli](https://github.com/Einswilli) | #Einswilli | Lomé | 1,189 |
-| 13 | [Gowaru](https://github.com/Gowaru) | Mawuli Godwin Alexandre AMEVOR | Lomé | 912 |
+| 13 | [Gowaru](https://github.com/Gowaru) | Mawuli Godwin Alexandre AMEVOR | Lomé | 913 |
 | 14 | [Docteur-Parfait](https://github.com/Docteur-Parfait) | Tech Pastor | Lomé, Togo | 851 |
-| 15 | [henocn](https://github.com/henocn) | Henoc N'GASAMA | Kara, Togo | 843 |
+| 15 | [henocn](https://github.com/henocn) | Henoc N'GASAMA | Kara, Togo | 842 |
 | 16 | [boboPrem1](https://github.com/boboPrem1) | Amouzougan Kangni Juvanio | Togo | 824 |
 | 17 | [georgesnoe](https://github.com/georgesnoe) | Kossi Georges-Noé AHOMBO | Lomé, Togo | 756 |
 | 18 | [icichainz](https://github.com/icichainz) | Abel Koudaya | Lomé, TOGO | 719 |
@@ -83,4 +83,4 @@ Indexed users: 679
 | 19 | [ica1010](https://github.com/ica1010) | Ghislin | Lomé , Togo | 65 |
 | 20 | [Maximekgn](https://github.com/Maximekgn) | KOGON Mawunygan Maxime | Togo | 64 |
 
-Generated: 2026-10-16T17:33:58.352Z
+Generated: 2026-10-16T19:01:46.116Z

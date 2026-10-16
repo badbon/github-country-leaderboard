@@ -29,7 +29,7 @@ Indexed users: 235
 | 15 | [Janeirohurley](https://github.com/Janeirohurley) | Janeiro hurley | Burundi | 1,010 |
 | 16 | [arsou2015](https://github.com/arsou2015) | Arsene Nduwayo | Burundi | 982 |
 | 17 | [Evran0](https://github.com/Evran0) | Eddy Poli | Bujumbura,  Burundi | 953 |
-| 18 | [kidasijunior10](https://github.com/kidasijunior10) | Joachim KIDASI | Bujumbura, Burundi | 930 |
+| 18 | [kidasijunior10](https://github.com/kidasijunior10) | Joachim KIDASI | Bujumbura, Burundi | 921 |
 | 19 | [ArtcalO](https://github.com/ArtcalO) | The Lone Wolf | Bujumbura, BURUNDI | 894 |
 | 20 | [EddyKubwimana](https://github.com/EddyKubwimana) | Eddy Kubwimana | Burundi | 894 |
 
@@ -64,11 +64,11 @@ Indexed users: 235
 |---:|---|---|---|---:|
 | 1 | [JovinMtl](https://github.com/JovinMtl) | Nsanzumukiza Thierry | Bujumbura, Burundi | 368 |
 | 2 | [gatarelib](https://github.com/gatarelib) | Gatare Libère | Burundi | 146 |
-| 3 | [EddyKubwimana](https://github.com/EddyKubwimana) | Eddy Kubwimana | Burundi | 136 |
+| 3 | [EddyKubwimana](https://github.com/EddyKubwimana) | Eddy Kubwimana | Burundi | 135 |
 | 4 | [muco-rolle](https://github.com/muco-rolle) | Trésor Muco | Bujumbura, Burundi | 102 |
 | 5 | [Toussaint-Coder](https://github.com/Toussaint-Coder) | toussaint iradukunda | bujumbura, burundi | 90 |
 | 6 | [srugano](https://github.com/srugano) | Allan Stockman RUGANO  | Burundi | 87 |
-| 7 | [Kirogodye](https://github.com/Kirogodye) | Kirogodye | Burundi | 80 |
+| 7 | [Kirogodye](https://github.com/Kirogodye) | Kirogodye | Burundi | 81 |
 | 8 | [ndikumanaisaie](https://github.com/ndikumanaisaie) | Ndikumana Isaie | Burundi | 78 |
 | 9 | [dondelice257](https://github.com/dondelice257) | Don Delice Dushime | Burundi | 74 |
 | 10 | [INGANZAMARUMPU](https://github.com/INGANZAMARUMPU) | NKURUNZIZA | Bujumbura, Burundi | 73 |
@@ -83,4 +83,4 @@ Indexed users: 235
 | 19 | [arsou2015](https://github.com/arsou2015) | Arsene Nduwayo | Burundi | 35 |
 | 20 | [tertcoder](https://github.com/tertcoder) | Bon Tertius Tuyishimire  | Bujumbura, Burundi | 35 |
 
-Generated: 2026-10-16T17:56:25.640Z
+Generated: 2026-10-16T19:23:14.392Z

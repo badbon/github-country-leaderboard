@@ -1,6 +1,6 @@
 # Followers - Albania
 
-Generated: 2026-10-16T17:43:29.294Z
+Generated: 2026-10-16T19:11:24.108Z
 
 Users: 1184
 
@@ -14,7 +14,7 @@ Users: 1184
 | 6 | [DenDev712](https://github.com/DenDev712) | Denis Papara |  |  | Tirana, Albania | 226 |
 | 7 | [jonatoni](https://github.com/jonatoni) | Jona Azizaj |  | jonatoni | Albania | 157 |
 | 8 | [banago](https://github.com/banago) | Baki Goxhaj | WPlancer | banago | Vlorë, Albania | 155 |
-| 9 | [aziflaj](https://github.com/aziflaj) | Aldo Ziflaj |  |  | Tirana, Albania | 143 |
+| 9 | [aziflaj](https://github.com/aziflaj) | Aldo Ziflaj |  |  | Tirana, Albania | 142 |
 | 10 | [klendi](https://github.com/klendi) | Klendi Goci |  |  | Tirana, Albania | 100 |
 | 11 | [meggsila](https://github.com/meggsila) | Megi Sila |  | meggsila | Tirana, Albania | 100 |
 | 12 | [genciiv](https://github.com/genciiv) | G-code | G-code |  | Albania | 92 |

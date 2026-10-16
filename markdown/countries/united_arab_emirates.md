@@ -26,12 +26,12 @@ Indexed users: 4,229
 | 12 | [ahmadpx](https://github.com/ahmadpx) | Ahmed Abdallah | United Arab Emirates | 10,867 |
 | 13 | [Massad](https://github.com/Massad) | Omar Masad | United Arab Emirates, Dubai | 10,605 |
 | 14 | [tech-sumit](https://github.com/tech-sumit) | Sumit S. Agrawal | Dubai, United Arab Emirates | 10,163 |
-| 15 | [aenawi](https://github.com/aenawi) | Hashem Aldhaheri | Abu Dhabi, United Arab Emirates | 9,573 |
-| 16 | [Aborii](https://github.com/Aborii) | Abdullah Almofleh | United Arab Emirates, Dubai | 9,537 |
-| 17 | [codemug](https://github.com/codemug) | Usman Shahid | Dubai, United Arab Emirates | 9,519 |
-| 18 | [abegehr](https://github.com/abegehr) | Anton Begehr | Dubai, United Arab Emirates | 9,141 |
-| 19 | [xdaguy](https://github.com/xdaguy) | ABDULLAH HARIS | Abu Dhabi, UAE | 8,796 |
-| 20 | [GuillermoDLCO](https://github.com/GuillermoDLCO) | Guillermo Jeremy De La Cruz Onton | Dubai, United Arab Emirates | 8,655 |
+| 15 | [iliakrupin](https://github.com/iliakrupin) | Ilia Krupin | Dubai, United Arab Emirates | 10,039 |
+| 16 | [aenawi](https://github.com/aenawi) | Hashem Aldhaheri | Abu Dhabi, United Arab Emirates | 9,573 |
+| 17 | [Aborii](https://github.com/Aborii) | Abdullah Almofleh | United Arab Emirates, Dubai | 9,537 |
+| 18 | [codemug](https://github.com/codemug) | Usman Shahid | Dubai, United Arab Emirates | 9,519 |
+| 19 | [abegehr](https://github.com/abegehr) | Anton Begehr | Dubai, United Arab Emirates | 9,141 |
+| 20 | [xdaguy](https://github.com/xdaguy) | ABDULLAH HARIS | Abu Dhabi, UAE | 8,796 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 4,229
 | 19 | [FrayxRulez](https://github.com/FrayxRulez) | Fela | Dubai, United Arab Emirates | 366 |
 | 20 | [yusufusta](https://github.com/yusufusta) | Yusuf Usta | Dubai, United Arab Emirates | 361 |
 
-Generated: 2026-10-16T17:37:25.669Z
+Generated: 2026-10-16T19:43:14.034Z

@@ -1,12 +1,12 @@
 # Followers - Slovenia
 
-Generated: 2026-10-16T18:40:31.551Z
+Generated: 2026-10-16T18:56:48.883Z
 
 Users: 3099
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [zbejas](https://github.com/zbejas) | Anže Mavrič | KoEnergija d.o.o. |  | Maribor, Slovenia | 3026 |
+| 1 | [zbejas](https://github.com/zbejas) | Anže Mavrič | KoEnergija d.o.o. |  | Maribor, Slovenia | 3018 |
 | 2 | [gto76](https://github.com/gto76) | Jure Šorn |  |  | Ljubljana | 1212 |
 | 3 | [luksa](https://github.com/luksa) | Marko Lukša | Independent contractor | markoluksa | Slovenia | 1118 |
 | 4 | [andrejbauer](https://github.com/andrejbauer) | Andrej Bauer | University of Ljubljana |  | Slovenia | 924 |
@@ -15,10 +15,10 @@ Users: 3099
 | 7 | [Kami](https://github.com/Kami) | Tomaz Muraus | SentinelOne \| Previously: Scalyr, Extreme Networks, Brocade, StackStorm, Rackspace, etc. |  | Ljubljana, Slovenia | 614 |
 | 8 | [CANopenNode](https://github.com/CANopenNode) | Janez |  |  | Slovenia | 609 |
 | 9 | [matej](https://github.com/matej) | Matej Bukovinski | PSPDFKit | bukovinski | Ljubljana, Slovenia | 414 |
-| 10 | [maticzav](https://github.com/maticzav) | Matic Zavadlal |  | maticzav | Ljubljana, Slovenia | 388 |
+| 10 | [maticzav](https://github.com/maticzav) | Matic Zavadlal |  | maticzav | Ljubljana, Slovenia | 390 |
 | 11 | [titpetric](https://github.com/titpetric) | Tit Petric |  |  | Ljubljana, Slovenia | 332 |
-| 12 | [tinrab](https://github.com/tinrab) | Tin Rabzelj |  | tinrab | Ljubljana, Slovenia | 284 |
-| 13 | [dz0ny](https://github.com/dz0ny) | Janez Troha | @teamniteo | dz0ny | Slovenia | 283 |
+| 12 | [dz0ny](https://github.com/dz0ny) | Janez Troha | @teamniteo | dz0ny | Slovenia | 283 |
+| 13 | [tinrab](https://github.com/tinrab) | Tin Rabzelj |  | tinrab | Ljubljana, Slovenia | 283 |
 | 14 | [AndrewStetsenko](https://github.com/AndrewStetsenko) |  | Relocate.me |  | Slovenia | 282 |
 | 15 | [otobrglez](https://github.com/otobrglez) | Oto Brglez | OPALAB | otobrglez | Ljubljana, Slovenia | 269 |
 | 16 | [tomaz](https://github.com/tomaz) | tomaz | Gentle Bytes |  | Slovenia | 249 |

@@ -16,7 +16,7 @@ Indexed users: 1,578
 | 2 | [benkauffman](https://github.com/benkauffman) | Ben Kauffman | Reykjavík, Iceland | 20,075 |
 | 3 | [Magnussmari](https://github.com/Magnussmari) | Magnús Smári Smárason | Akureyri, Iceland | 16,661 |
 | 4 | [padresmurfa](https://github.com/padresmurfa) | David Hermann Brandt | Reykjavík, Iceland | 15,680 |
-| 5 | [tylerelias](https://github.com/tylerelias) | Tyler | Iceland | 14,616 |
+| 5 | [tylerelias](https://github.com/tylerelias) | Tyler | Iceland | 14,782 |
 | 6 | [asgeirtj](https://github.com/asgeirtj) | Ásgeir Thor Johnson | Iceland | 12,951 |
 | 7 | [valurhrafn](https://github.com/valurhrafn) | Valur Hrafn Einarsson | Reykjavík, Iceland | 12,769 |
 | 8 | [Chipcius](https://github.com/Chipcius) | Andri Thorlacius | Reykjavik, Iceland | 12,229 |
@@ -83,4 +83,4 @@ Indexed users: 1,578
 | 19 | [jokull](https://github.com/jokull) | Jökull Sólberg Auðunsson | Reykjavík, Iceland | 209 |
 | 20 | [sbsigur](https://github.com/sbsigur) | Sævar Bergur Sigurgeirsson | Iceland | 203 |
 
-Generated: 2026-10-16T18:16:16.571Z
+Generated: 2026-10-16T19:43:28.846Z

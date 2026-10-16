@@ -28,7 +28,7 @@ Indexed users: 533
 | 14 | [BakangMonei](https://github.com/BakangMonei) | Monei Bakang | Gaborone, Botswana | 2,056 |
 | 15 | [WyvernPirate](https://github.com/WyvernPirate) | Phemelo Moloi | Maun, Botswana | 2,018 |
 | 16 | [Mopati123](https://github.com/Mopati123) | Mopati Ramaologa | Gaborone, Botswana | 1,890 |
-| 17 | [sheriff-kutlo](https://github.com/sheriff-kutlo) | Kutlo Will Mangwa | Botswana | 1,830 |
+| 17 | [sheriff-kutlo](https://github.com/sheriff-kutlo) | Kutlo Will Mangwa | Botswana | 1,844 |
 | 18 | [samsonmabetho](https://github.com/samsonmabetho) | Samson Mabetho | Botswana | 1,676 |
 | 19 | [Ed1ezac](https://github.com/Ed1ezac) | Edgar Kealeboga | Gaborone, Botswana | 1,534 |
 | 20 | [Goitseone-Themba](https://github.com/Goitseone-Themba) | ISOTOPE \| THEMBA | Botswana | 1,463 |
@@ -83,4 +83,4 @@ Indexed users: 533
 | 19 | [BakangMonei](https://github.com/BakangMonei) | Monei Bakang | Gaborone, Botswana | 34 |
 | 20 | [Tebalo](https://github.com/Tebalo) | Bopaki | Botswana, Gaborone-Mokobaxane | 34 |
 
-Generated: 2026-10-16T17:55:02.988Z
+Generated: 2026-10-16T19:20:29.081Z

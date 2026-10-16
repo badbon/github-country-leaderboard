@@ -1,6 +1,6 @@
 # Public Contributions - Eswatini
 
-Generated: 2026-10-16T18:07:13.986Z
+Generated: 2026-10-16T19:34:04.397Z
 
 Users: 108
 
@@ -15,7 +15,7 @@ Users: 108
 | 7 | [Sandziso](https://github.com/Sandziso) | Sandziso Mamba |  |  |  Eswatini | 70 |
 | 8 | [BhutiiMlamuli](https://github.com/BhutiiMlamuli) | Mlamuli Sibandze |  |  | Swaziland | 65 |
 | 9 | [sicelo](https://github.com/sicelo) | Sicelo |  |  | Mbabane, ESWATINI | 60 |
-| 10 | [sanele176](https://github.com/sanele176) | Mancoba Dlamini |  |  | Eswatini | 51 |
+| 10 | [sanele176](https://github.com/sanele176) | Mancoba Dlamini |  |  | Eswatini | 52 |
 | 11 | [Co-ordinator](https://github.com/Co-ordinator) | Coordinator | Bits & PCs | Coordinator | Manzini, Eswatini | 47 |
 | 12 | [benele-m](https://github.com/benele-m) | Benele Mamba |  |  | Eswatini, | 44 |
 | 13 | [Njabulo240](https://github.com/Njabulo240) | Njabulo Mamba | RFK Solutions |  | Eswatini, Manzini | 44 |

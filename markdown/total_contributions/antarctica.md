@@ -1,6 +1,6 @@
 # Total Contributions - Antarctica
 
-Generated: 2026-10-16T17:45:00.664Z
+Generated: 2026-10-16T19:13:37.254Z
 
 Users: 459
 
@@ -13,7 +13,7 @@ Users: 459
 | 5 | [jeongho](https://github.com/jeongho) | Jeongho Park |  |  | Deception Island, Antarctica | 5048 |
 | 6 | [morgaesis](https://github.com/morgaesis) | Mörgæsis |  |  | Antarctica | 4999 |
 | 7 | [JohnChristianD](https://github.com/JohnChristianD) | John Christian Domingo | https://www.goodnewsnetwork.org/dead-man-jolted-back-to-life-by-the-intolerable-bumps-of-indias-potholes/ |  | Antarctica | 4791 |
-| 8 | [AntoineSebert](https://github.com/AntoineSebert) | Antoine Sébert | Weyland-Yutani Corp. |  | Antarctica | 4725 |
+| 8 | [AntoineSebert](https://github.com/AntoineSebert) | Antoine Sébert | Weyland-Yutani Corp. |  | Antarctica | 4776 |
 | 9 | [Sup2point0](https://github.com/Sup2point0) | Sup#2.0 |  |  | Antarctica | 4616 |
 | 10 | [bharxhav](https://github.com/bharxhav) | Bhargav Kantheti |  |  | antarctica | 4217 |
 | 11 | [Rayrsn](https://github.com/Rayrsn) | Rayr | AsciiNomads |  | Antarctica | 3987 |

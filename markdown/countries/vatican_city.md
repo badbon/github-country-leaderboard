@@ -62,7 +62,7 @@ Indexed users: 30
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [DMMCA](https://github.com/DMMCA) | Ninj4Pri3st | Vatican City | 25 |
+| 1 | [DMMCA](https://github.com/DMMCA) | Ninj4Pri3st | Vatican City | 26 |
 | 2 | [LBreda](https://github.com/LBreda) | Lorenzo Breda | Vatican City State | 23 |
 | 3 | [NOPR9D](https://github.com/NOPR9D) | NOPR9D ☄️ | Vatican City State (Holy See)  | 18 |
 | 4 | [kubonnt](https://github.com/kubonnt) |  | Vatican City | 14 |
@@ -83,4 +83,4 @@ Indexed users: 30
 | 19 | [meereuk](https://github.com/meereuk) | KKUL | Vatican City | 2 |
 | 20 | [shapihelps-meta](https://github.com/shapihelps-meta) | Shapi | Vatican | 2 |
 
-Generated: 2026-10-16T17:38:59.672Z
+Generated: 2026-10-16T19:08:48.009Z

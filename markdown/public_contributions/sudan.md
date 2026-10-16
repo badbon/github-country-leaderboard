@@ -1,13 +1,13 @@
 # Public Contributions - Sudan
 
-Generated: 2026-10-16T17:29:23.536Z
+Generated: 2026-10-16T18:58:11.867Z
 
 Users: 727
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [oovaa](https://github.com/oovaa) | Omar  | SMAfrica | Omarvx211 | Sudan | 1244 |
-| 2 | [MoAnwer](https://github.com/MoAnwer) | Mohamed Anwer |  |  | sudan, kassala | 1196 |
+| 2 | [MoAnwer](https://github.com/MoAnwer) | Mohamed Anwer |  |  | sudan, kassala | 1190 |
 | 3 | [daoudtajeldeinn-png](https://github.com/daoudtajeldeinn-png) | Daoud Tajeldeinn Ahmed | Sudanese Chemical Industeis  |  | sudan -khartoum | 1184 |
 | 4 | [star4droid](https://github.com/star4droid) | Star4Droid  |  |  | Sudan | 943 |
 | 5 | [alilibx](https://github.com/alilibx) | Ali Alhashimi | Penstash | alilibx | Sudan | 861 |
@@ -16,7 +16,7 @@ Users: 727
 | 8 | [saifeldinkhedir-coder](https://github.com/saifeldinkhedir-coder) | Seifeldin M G Alkhedir | University of Khartoum |  |  Sudan | 691 |
 | 9 | [mohamedkam000](https://github.com/mohamedkam000) | Muhammad Kamal |  |  | Sudan | 551 |
 | 10 | [kabaros](https://github.com/kabaros) | Mozafar | nyala.dev |  | Khartoum / Glasgow | 535 |
-| 11 | [Wadamzmail](https://github.com/Wadamzmail) | MutwakilX |  |  | El-Obeid/Sudan | 478 |
+| 11 | [Wadamzmail](https://github.com/Wadamzmail) | MutwakilX |  |  | El-Obeid/Sudan | 479 |
 | 12 | [breezyx28](https://github.com/breezyx28) | Mohamed Ahmed (Kat) | ScriptHouse | breezyx28 | Omdurman, Khartoum, Sudan | 416 |
 | 13 | [AminElhag](https://github.com/AminElhag) | Amin Elhag |  |  | Khartoum,Sudan | 398 |
 | 14 | [Ah-m-ed-Dev](https://github.com/Ah-m-ed-Dev) | Ahmed_khalil | DevSeed |  | sudan | 397 |

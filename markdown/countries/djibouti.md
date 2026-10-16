@@ -17,7 +17,7 @@ Indexed users: 55
 | 3 | [Captain-iiro](https://github.com/Captain-iiro) | Captain iiro (Abdourahman) | Djibouti | 1,190 |
 | 4 | [moustapha-aden](https://github.com/moustapha-aden) | MOUSTAPHA ADEN DIRIYEH | Djibouti Dj | 664 |
 | 5 | [Ismael9-web](https://github.com/Ismael9-web) | Ismael Ladieh | Djibouti | 533 |
-| 6 | [Obelisk999](https://github.com/Obelisk999) | Abdoulrazak | Djibouti | 395 |
+| 6 | [Obelisk999](https://github.com/Obelisk999) | Abdoulrazak | Djibouti | 404 |
 | 7 | [Filsan648](https://github.com/Filsan648) | Filsan | Djibouti | 324 |
 | 8 | [hamoudabass](https://github.com/hamoudabass) | Hamoud Abass  | Djibouti | 291 |
 | 9 | [sammed384](https://github.com/sammed384) | Samatar Mohamed Ali | Djibouti | 147 |
@@ -70,7 +70,7 @@ Indexed users: 55
 | 6 | [Obelisk999](https://github.com/Obelisk999) | Abdoulrazak | Djibouti | 14 |
 | 7 | [moustapha-aden](https://github.com/moustapha-aden) | MOUSTAPHA ADEN DIRIYEH | Djibouti Dj | 11 |
 | 8 | [nabolitains](https://github.com/nabolitains) | Charko M. | Djibouti | 11 |
-| 9 | [zeynabhabib](https://github.com/zeynabhabib) | Zeinab Habib Hassan | Djibouti | 11 |
+| 9 | [zeynabhabib](https://github.com/zeynabhabib) | Zeinab Habib Hassan | Djibouti | 10 |
 | 10 | [Naeemalis](https://github.com/Naeemalis) | Naeemali | Djibouti  | 9 |
 | 11 | [inamkhosa](https://github.com/inamkhosa) | Inam | Dubai, Islamabad, Djibouti | 8 |
 | 12 | [benkhaireh](https://github.com/benkhaireh) | Mohamed Khaireh O. | Djibouti | 7 |
@@ -83,4 +83,4 @@ Indexed users: 55
 | 19 | [jibo-zz](https://github.com/jibo-zz) | Mohamed Cheikh | Djibouti | 5 |
 | 20 | [LuxusIX](https://github.com/LuxusIX) | Abdourahman A.Daher | Djibouti | 5 |
 
-Generated: 2026-10-16T18:03:58.881Z
+Generated: 2026-10-16T19:30:55.098Z
