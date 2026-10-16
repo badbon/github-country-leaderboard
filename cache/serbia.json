@@ -25106,12 +25106,12 @@
   {
     "login": "ilicdj",
     "name": "Djordje Ilic",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/80420514?s=72&u=6d9337372e5f8368f5e38333d3f799a07610d11f&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/80420514?s=72&v=4",
     "location": "Belgrade, Serbia",
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 7,
+    "privateContributions": 4,
     "publicContributions": 1,
     "createdAt": "2021-03-10T18:37:24Z"
   },
@@ -25135,7 +25135,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 7,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-08-05T21:50:28Z"
   },
@@ -25148,7 +25148,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 30,
     "createdAt": "2021-03-18T21:17:32Z"
   },
   {
@@ -25160,7 +25160,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 40,
+    "publicContributions": 42,
     "createdAt": "2021-12-13T07:03:14Z"
   },
   {
@@ -25183,8 +25183,8 @@
     "company": "@yandex-cloud ",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 12,
+    "privateContributions": 53,
+    "publicContributions": 13,
     "createdAt": "2021-04-03T19:59:01Z"
   },
   {
@@ -25255,21 +25255,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 132,
+    "privateContributions": 61,
     "publicContributions": 3,
     "createdAt": "2021-05-10T07:44:04Z"
-  },
-  {
-    "login": "advien",
-    "name": "D",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/84462794?s=72&u=eebdbd2b572c4fe05ce6461981a4daed11f23c22&v=4",
-    "location": "Serbia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 44,
-    "publicContributions": 121,
-    "createdAt": "2021-05-19T15:18:32Z"
   },
   {
     "login": "MilaStankovic",
@@ -25280,7 +25268,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 32,
+    "publicContributions": 30,
     "createdAt": "2021-10-20T16:03:37Z"
   },
   {
@@ -25292,7 +25280,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2021-01-20T13:13:07Z"
   },
   {
@@ -25303,8 +25291,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 54,
-    "publicContributions": 21,
+    "privateContributions": 22,
+    "publicContributions": 4,
     "createdAt": "2021-05-11T07:56:00Z"
   },
   {

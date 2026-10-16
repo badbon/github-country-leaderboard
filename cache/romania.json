@@ -25111,7 +25111,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 1,
+    "privateContributions": 0,
     "publicContributions": 13,
     "createdAt": "2022-01-28T07:41:22Z"
   },
@@ -25124,7 +25124,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2022-09-08T15:00:10Z"
   },
   {
@@ -25135,7 +25135,7 @@
     "company": "It Just Works Inc",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 311,
+    "privateContributions": 337,
     "publicContributions": 34,
     "createdAt": "2022-02-16T16:58:16Z"
   },
@@ -25184,7 +25184,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 9,
     "createdAt": "2022-02-22T10:10:35Z"
   },
   {
@@ -25194,9 +25194,9 @@
     "location": "Romania",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 501,
-    "publicContributions": 535,
+    "followers": 4,
+    "privateContributions": 683,
+    "publicContributions": 666,
     "createdAt": "2022-02-13T11:43:15Z"
   },
   {
@@ -25206,9 +25206,9 @@
     "location": "Romania, Bucuresti",
     "company": "Scarabytes",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 1440,
-    "publicContributions": 14,
+    "followers": 4,
+    "privateContributions": 1663,
+    "publicContributions": 12,
     "createdAt": "2022-12-20T15:51:42Z"
   },
   {
@@ -25254,8 +25254,8 @@
     "location": "Cluj-Napoca, Romania",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 227,
+    "followers": 4,
+    "privateContributions": 110,
     "publicContributions": 3,
     "createdAt": "2022-11-25T20:47:26Z"
   },
@@ -25268,7 +25268,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 24,
     "createdAt": "2022-11-24T19:17:12Z"
   },
   {
@@ -25290,7 +25290,7 @@
     "location": "Romania",
     "company": "Elaniin",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-07-14T14:48:02Z"
@@ -25304,7 +25304,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 107,
+    "publicContributions": 93,
     "createdAt": "2022-04-09T11:22:32Z"
   },
   {
@@ -25315,7 +25315,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 66,
+    "privateContributions": 68,
     "publicContributions": 4,
     "createdAt": "2022-01-14T10:12:36Z"
   },
@@ -25326,7 +25326,7 @@
     "location": "Bucharest, Romania",
     "company": "Snowflake Inc.",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 12,
     "createdAt": "2022-04-01T13:06:01Z"

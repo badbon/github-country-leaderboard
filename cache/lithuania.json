@@ -24996,27 +24996,15 @@
     "createdAt": "2018-05-08T07:23:39Z"
   },
   {
-    "login": "xanndevs",
-    "name": "xanndev",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/42589740?s=72&u=767b2d2332f2c14b5b0ca9c46df070d295e27950&v=4",
-    "location": "Kaunas, Lithuania",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 3,
-    "publicContributions": 12,
-    "createdAt": "2018-08-21T21:05:16Z"
-  },
-  {
     "login": "Darionas",
     "name": "Darionas",
     "avatarUrl": "https://avatars.githubusercontent.com/u/45307094?s=72&v=4",
     "location": "Lithuania/Norway",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 35,
+    "publicContributions": 67,
     "createdAt": "2018-11-24T08:07:46Z"
   },
   {
@@ -25039,7 +25027,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 409,
+    "privateContributions": 255,
     "publicContributions": 16,
     "createdAt": "2018-05-12T21:16:08Z"
   },
@@ -25051,8 +25039,8 @@
     "company": "Home sweet home",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 105,
-    "publicContributions": 64,
+    "privateContributions": 86,
+    "publicContributions": 69,
     "createdAt": "2018-01-06T00:19:00Z"
   },
   {
@@ -25060,11 +25048,11 @@
     "name": "Leonidas",
     "avatarUrl": "https://avatars.githubusercontent.com/u/45066606?s=72&u=b965bed70806915e9c5e3360d305461cf2d03ab9&v=4",
     "location": "Lithuania",
-    "company": "@NordSecurity",
+    "company": "",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 360,
-    "publicContributions": 33,
+    "followers": 13,
+    "privateContributions": 678,
+    "publicContributions": 201,
     "createdAt": "2018-11-15T11:04:45Z"
   },
   {
@@ -25075,7 +25063,7 @@
     "company": "@BentleySystems",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 5,
+    "privateContributions": 49,
     "publicContributions": 2,
     "createdAt": "2018-02-18T13:16:48Z"
   },
@@ -25100,7 +25088,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 9,
     "createdAt": "2018-12-19T13:51:08Z"
   },
   {
@@ -25110,9 +25098,9 @@
     "location": "Vilnius, Lithuania",
     "company": "VGTU (VilniusTech)",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 240,
-    "publicContributions": 174,
+    "followers": 9,
+    "privateContributions": 124,
+    "publicContributions": 252,
     "createdAt": "2018-07-01T11:14:51Z"
   },
   {
@@ -25122,9 +25110,9 @@
     "location": "Vilnius, Lithuania",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 470,
-    "publicContributions": 247,
+    "followers": 9,
+    "privateContributions": 586,
+    "publicContributions": 673,
     "createdAt": "2018-09-07T18:04:49Z"
   },
   {
@@ -25160,7 +25148,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 35,
+    "publicContributions": 81,
     "createdAt": "2018-03-13T12:51:11Z"
   },
   {
@@ -25170,9 +25158,9 @@
     "location": "Vilnius, Lithuania",
     "company": "self-employed",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 32,
-    "publicContributions": 4,
+    "followers": 6,
+    "privateContributions": 10,
+    "publicContributions": 5,
     "createdAt": "2018-06-21T08:56:39Z"
   },
   {
@@ -25183,7 +25171,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 576,
+    "privateContributions": 374,
     "publicContributions": 0,
     "createdAt": "2018-07-03T23:00:35Z"
   },
@@ -25195,7 +25183,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 1,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-12-21T15:56:10Z"
   },
@@ -25207,8 +25195,8 @@
     "company": "Bentley Systems",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 168,
-    "publicContributions": 188,
+    "privateContributions": 247,
+    "publicContributions": 190,
     "createdAt": "2018-12-16T19:34:24Z"
   },
   {
@@ -25219,7 +25207,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 662,
+    "privateContributions": 657,
     "publicContributions": 0,
     "createdAt": "2018-05-10T09:48:22Z"
   },

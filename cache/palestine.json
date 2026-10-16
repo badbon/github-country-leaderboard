@@ -25268,7 +25268,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 106,
     "createdAt": "2014-11-07T00:29:10Z"
   },
   {
@@ -25303,7 +25303,7 @@
     "company": "",
     "twitterUsername": "hazemnassr",
     "followers": 8,
-    "privateContributions": 461,
+    "privateContributions": 356,
     "publicContributions": 1,
     "createdAt": "2014-11-02T13:18:46Z"
   },
@@ -25327,7 +25327,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 4580,
+    "privateContributions": 6009,
     "publicContributions": 1,
     "createdAt": "2014-11-09T18:17:28Z"
   },
@@ -25350,8 +25350,8 @@
     "location": "Ramallah, Palestine",
     "company": "Iris Interactive Solutions",
     "twitterUsername": "hannunehg",
-    "followers": 6,
-    "privateContributions": 388,
+    "followers": 5,
+    "privateContributions": 391,
     "publicContributions": 2,
     "createdAt": "2014-07-25T08:21:46Z"
   },
@@ -25362,7 +25362,7 @@
     "location": "Palestine",
     "company": "Software Engineer",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-10-09T17:43:03Z"
@@ -25380,18 +25380,6 @@
     "createdAt": "2014-01-21T08:56:26Z"
   },
   {
-    "login": "aldrek",
-    "name": "Ahmad salman",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/10108221?s=72&v=4",
-    "location": "Palestine, gaza",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2014-12-07T19:09:22Z"
-  },
-  {
     "login": "hzhamad",
     "name": "Hasan Alhajhamad",
     "avatarUrl": "https://avatars.githubusercontent.com/u/6294476?s=72&u=1e8c75f7804f1da7eb49320b8a6beeebacfc627a&v=4",
@@ -25399,7 +25387,7 @@
     "company": "Palestine Technical University- Khadoorie",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 605,
+    "privateContributions": 578,
     "publicContributions": 5,
     "createdAt": "2013-12-31T19:13:30Z"
   },
@@ -25410,8 +25398,8 @@
     "location": "Palestine",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 144,
+    "followers": 6,
+    "privateContributions": 365,
     "publicContributions": 0,
     "createdAt": "2014-10-17T10:48:02Z"
   },
