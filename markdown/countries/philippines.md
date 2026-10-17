@@ -1,6 +1,6 @@
 # Philippines
 
-Indexed users: 19,775
+Indexed users: 19,774
 
 | Leaderboard | Link |
 |---|---|
@@ -80,7 +80,7 @@ Indexed users: 19,775
 | 16 | [six519](https://github.com/six519) | Ferdinand E. Silva | Lipa City, Batangas, Philippines | 772 |
 | 17 | [marksantiago290](https://github.com/marksantiago290) | MARK | Angeles, Philippines | 682 |
 | 18 | [JophilGulane](https://github.com/JophilGulane) | DevJophil | Philippines | 664 |
-| 19 | [exezick](https://github.com/exezick) | Exequiel Vibar | Philippines | 604 |
-| 20 | [lxsmnsyc](https://github.com/lxsmnsyc) | Alexis H. Munsayac | Philippines | 602 |
+| 19 | [Gerald200422](https://github.com/Gerald200422) | Gerald P. Balete | Metro Manila Philippines  | 613 |
+| 20 | [exezick](https://github.com/exezick) | Exequiel Vibar | Philippines | 604 |
 
-Generated: 2026-10-17T06:15:21.498Z
+Generated: 2026-10-17T06:36:26.552Z

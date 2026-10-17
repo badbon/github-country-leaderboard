@@ -1,8 +1,8 @@
 # Followers - Peru
 
-Generated: 2026-10-17T06:12:59.095Z
+Generated: 2026-10-17T06:36:22.305Z
 
-Users: 9774
+Users: 9773
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

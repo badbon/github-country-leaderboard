@@ -1,6 +1,6 @@
 # Public Contributions - Libya
 
-Generated: 2026-10-17T05:03:57.619Z
+Generated: 2026-10-17T06:22:15.247Z
 
 Users: 741
 
@@ -23,6 +23,6 @@ Users: 741
 | 15 | [MElkmeshi](https://github.com/MElkmeshi) | Mohamed Elkmeshi | @PrestoLY  | melkmeshi | Tripoli, Libya | 416 |
 | 16 | [Wondermine](https://github.com/Wondermine) | Taha Ali |  |  | Libya, Tripoli | 368 |
 | 17 | [Tellesy](https://github.com/Tellesy) | blueMu | @neptune-ly  |  | Tripoli, Libya | 360 |
-| 18 | [Nojaid-Ad](https://github.com/Nojaid-Ad) |  |  |  | Tripoli | 357 |
-| 19 | [Monther-bug](https://github.com/Monther-bug) | Monther |  @ditsly  |  | Libya | 356 |
+| 18 | [Monther-bug](https://github.com/Monther-bug) | Monther |  @ditsly  |  | Libya | 356 |
+| 19 | [Nojaid-Ad](https://github.com/Nojaid-Ad) |  |  |  | Tripoli | 352 |
 | 20 | [AbdelWahab-Farhat](https://github.com/AbdelWahab-Farhat) | Abdelwahab farhat |  |  | Libya-Tripoli-Gorji | 350 |

@@ -1,12 +1,12 @@
 # Total Contributions - Macau
 
-Generated: 2026-10-17T05:05:41.020Z
+Generated: 2026-10-17T06:23:49.606Z
 
 Users: 439
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [K4Lok](https://github.com/K4Lok) | KaLok Sam |  |  | Macau | 11545 |
+| 1 | [K4Lok](https://github.com/K4Lok) | KaLok Sam |  |  | Macau | 11749 |
 | 2 | [spiritLHLS](https://github.com/spiritLHLS) | spiritlhl | CAICT |  | Macau | 9836 |
 | 3 | [vergilsoleyn](https://github.com/vergilsoleyn) |  |  |  | Macau | 8122 |
 | 4 | [Chonwai](https://github.com/Chonwai) | Chonwai Un, Edison |  |  | Macau | 7323 |

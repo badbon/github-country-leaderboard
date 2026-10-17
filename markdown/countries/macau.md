@@ -12,7 +12,7 @@ Indexed users: 439
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [K4Lok](https://github.com/K4Lok) | KaLok Sam | Macau | 11,545 |
+| 1 | [K4Lok](https://github.com/K4Lok) | KaLok Sam | Macau | 11,749 |
 | 2 | [spiritLHLS](https://github.com/spiritLHLS) | spiritlhl | Macau | 9,836 |
 | 3 | [vergilsoleyn](https://github.com/vergilsoleyn) |  | Macau | 8,122 |
 | 4 | [Chonwai](https://github.com/Chonwai) | Chonwai Un, Edison | Macau | 7,323 |
@@ -54,7 +54,7 @@ Indexed users: 439
 | 15 | [DoongLi](https://github.com/DoongLi) | Frankie Dong Li | Taipa, Macau | 657 |
 | 16 | [gorgeousfish](https://github.com/gorgeousfish) | xuanyucai | Macau | 596 |
 | 17 | [Chonwai](https://github.com/Chonwai) | Chonwai Un, Edison | Macau | 584 |
-| 18 | [Boom5426](https://github.com/Boom5426) | Bo li (李波) | Macau | 571 |
+| 18 | [Boom5426](https://github.com/Boom5426) | Bo li (李波) | Macau | 570 |
 | 19 | [alemonmk](https://github.com/alemonmk) | Lemon Lam | Macau | 509 |
 | 20 | [LunchBox](https://github.com/LunchBox) | Daniel | Macau | 467 |
 
@@ -83,4 +83,4 @@ Indexed users: 439
 | 19 | [Boom5426](https://github.com/Boom5426) | Bo li (李波) | Macau | 68 |
 | 20 | [mugpeng](https://github.com/mugpeng) | Peng | macao | 67 |
 
-Generated: 2026-10-17T05:05:41.020Z
+Generated: 2026-10-17T06:23:49.606Z

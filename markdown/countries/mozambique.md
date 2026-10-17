@@ -71,7 +71,7 @@ Indexed users: 1,176
 | 7 | [eltonlaice](https://github.com/eltonlaice) | Elton | Mozambique | 195 |
 | 8 | [JefferMarcelino](https://github.com/JefferMarcelino) | Jeffer Marcelino | Mozambique, Maputo | 193 |
 | 9 | [jose-bone](https://github.com/jose-bone) | José Boné | Quelimane, Mozambique | 187 |
-| 10 | [estevaosimao](https://github.com/estevaosimao) | Estevão Simão | Mozambique | 167 |
+| 10 | [estevaosimao](https://github.com/estevaosimao) | Estevão Simão | Mozambique | 166 |
 | 11 | [kelven939](https://github.com/kelven939) | Kelven Bruno Carlos Lopes Bulha (KB) | Beira, Sofala, Mozambique | 164 |
 | 12 | [albrtinoaugusto](https://github.com/albrtinoaugusto) | Albertino Augusto | Mozambique, Maputo | 162 |
 | 13 | [americo](https://github.com/americo) | Américo Júnior | Mozambique | 151 |
@@ -83,4 +83,4 @@ Indexed users: 1,176
 | 19 | [enoquetembe](https://github.com/enoquetembe) | Enoque Tembe | Maputo, Mozambique | 111 |
 | 20 | [mariomthree](https://github.com/mariomthree) | Mário M. Mabande | Maputo, Mozambique | 95 |
 
-Generated: 2026-10-17T05:13:46.744Z
+Generated: 2026-10-17T06:28:33.354Z

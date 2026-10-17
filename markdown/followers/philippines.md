@@ -1,8 +1,8 @@
 # Followers - Philippines
 
-Generated: 2026-10-17T06:15:21.498Z
+Generated: 2026-10-17T06:36:26.552Z
 
-Users: 19775
+Users: 19774
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -24,5 +24,5 @@ Users: 19775
 | 16 | [six519](https://github.com/six519) | Ferdinand E. Silva |  |  | Lipa City, Batangas, Philippines | 772 |
 | 17 | [marksantiago290](https://github.com/marksantiago290) | MARK |  | marksantiago290 | Angeles, Philippines | 682 |
 | 18 | [JophilGulane](https://github.com/JophilGulane) | DevJophil | Freelancer | JophilGulane | Philippines | 664 |
-| 19 | [exezick](https://github.com/exezick) | Exequiel Vibar |  |  | Philippines | 604 |
-| 20 | [lxsmnsyc](https://github.com/lxsmnsyc) | Alexis H. Munsayac | @solidjs | lxsmnsyc | Philippines | 602 |
+| 19 | [Gerald200422](https://github.com/Gerald200422) | Gerald P. Balete |  |  | Metro Manila Philippines  | 613 |
+| 20 | [exezick](https://github.com/exezick) | Exequiel Vibar |  |  | Philippines | 604 |

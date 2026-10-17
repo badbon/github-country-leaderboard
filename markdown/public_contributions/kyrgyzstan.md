@@ -1,14 +1,14 @@
 # Public Contributions - Kyrgyzstan
 
-Generated: 2026-10-17T05:03:22.519Z
+Generated: 2026-10-17T06:20:04.578Z
 
 Users: 2444
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [bekishh](https://github.com/bekishh) | Zh Beknazar | Prodify |  | Kyrgystan, Bishkek | 9417 |
-| 2 | [kymuco](https://github.com/kymuco) | Ikymuco |  |  | Bishkek, Kyrgyzstan | 3599 |
-| 3 | [metalagman](https://github.com/metalagman) | Alexey Samoylov | @fastronome |  | Bishkek, Kyrgyz Republic | 3485 |
+| 2 | [metalagman](https://github.com/metalagman) | Alexey Samoylov | @baldaworks | metalagman | Bishkek, Kyrgyz Republic | 4843 |
+| 3 | [kymuco](https://github.com/kymuco) | Ikymuco |  |  | Bishkek, Kyrgyzstan | 3599 |
 | 4 | [Heartspell](https://github.com/Heartspell) | Amirhan Ordobaev | Kyrgyz State Technical University  |  | Kyrgyzstan | 3248 |
 | 5 | [ibrodevs](https://github.com/ibrodevs) | Ibrokhim | SU Solutions |  | Bishkek | 3050 |
 | 6 | [P5ina](https://github.com/P5ina) | Timur Turatbekov |  |  | Kyrgyzstan, Bishkek | 2962 |

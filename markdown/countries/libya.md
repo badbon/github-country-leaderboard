@@ -54,8 +54,8 @@ Indexed users: 741
 | 15 | [MElkmeshi](https://github.com/MElkmeshi) | Mohamed Elkmeshi | Tripoli, Libya | 416 |
 | 16 | [Wondermine](https://github.com/Wondermine) | Taha Ali | Libya, Tripoli | 368 |
 | 17 | [Tellesy](https://github.com/Tellesy) | blueMu | Tripoli, Libya | 360 |
-| 18 | [Nojaid-Ad](https://github.com/Nojaid-Ad) |  | Tripoli | 357 |
-| 19 | [Monther-bug](https://github.com/Monther-bug) | Monther | Libya | 356 |
+| 18 | [Monther-bug](https://github.com/Monther-bug) | Monther | Libya | 356 |
+| 19 | [Nojaid-Ad](https://github.com/Nojaid-Ad) |  | Tripoli | 352 |
 | 20 | [AbdelWahab-Farhat](https://github.com/AbdelWahab-Farhat) | Abdelwahab farhat | Libya-Tripoli-Gorji | 350 |
 
 ## Followers
@@ -65,7 +65,7 @@ Indexed users: 741
 | 1 | [absholi7ly](https://github.com/absholi7ly) | Abdualhadi khalifa | Libya | 133 |
 | 2 | [MohamedFarag6](https://github.com/MohamedFarag6) | Mohamed Farag | Benghazi, Libya | 125 |
 | 3 | [zakariasassi](https://github.com/zakariasassi) | Zakaria Sassi | Libya | 90 |
-| 4 | [Nojaid-Ad](https://github.com/Nojaid-Ad) |  | Tripoli | 86 |
+| 4 | [Nojaid-Ad](https://github.com/Nojaid-Ad) |  | Tripoli | 87 |
 | 5 | [mohamedjaouda](https://github.com/mohamedjaouda) | Mohamed Jaouda | Benghazi, Libya | 85 |
 | 6 | [Altaeb](https://github.com/Altaeb) | Abdelfattah Altaeb | Libya | 81 |
 | 7 | [boomeradhd](https://github.com/boomeradhd) | Boomer | Tripoli, Libya | 77 |
@@ -83,4 +83,4 @@ Indexed users: 741
 | 19 | [ZizouHuweidi](https://github.com/ZizouHuweidi) | El Zubeir Huweidi | Benghazi, Libya | 51 |
 | 20 | [Islam-alshiki](https://github.com/Islam-alshiki) | Islam alshiki | Benghazi, Libya | 49 |
 
-Generated: 2026-10-17T05:03:57.619Z
+Generated: 2026-10-17T06:22:15.247Z

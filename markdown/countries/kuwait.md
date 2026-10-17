@@ -13,7 +13,7 @@ Indexed users: 797
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [mshll](https://github.com/mshll) | meshal | Kuwait | 7,773 |
-| 2 | [buaziz](https://github.com/buaziz) | Buaziz | Kuwait | 7,028 |
+| 2 | [buaziz](https://github.com/buaziz) | Buaziz | Kuwait | 7,118 |
 | 3 | [ghaith99](https://github.com/ghaith99) |  | Kuwait | 6,933 |
 | 4 | [BAWES](https://github.com/BAWES) | Khalid Al-Mutawa | Kuwait | 6,616 |
 | 5 | [uusa35](https://github.com/uusa35) | Usama.Ahmed | kuwait | 6,384 |
@@ -26,7 +26,7 @@ Indexed users: 797
 | 12 | [knro](https://github.com/knro) | Jasem Mutlaq | Kuwait | 4,140 |
 | 13 | [mulaifi](https://github.com/mulaifi) | Salem Almulaifi | Kuwait | 3,929 |
 | 14 | [careless10](https://github.com/careless10) | Menawer | Kuwait | 3,828 |
-| 15 | [Mazyod](https://github.com/Mazyod) | Maz | Kuwait | 3,794 |
+| 15 | [Mazyod](https://github.com/Mazyod) | Maz | Kuwait | 3,812 |
 | 16 | [iZaL](https://github.com/iZaL) | Afzal Abbas | Kuwait | 3,529 |
 | 17 | [DiNaSoR](https://github.com/DiNaSoR) | BuYousef | Kuwait | 3,511 |
 | 18 | [aalhendi](https://github.com/aalhendi) | Abdulrazzaq Alhendi | Kuwait | 3,466 |
@@ -49,7 +49,7 @@ Indexed users: 797
 | 10 | [Mubder](https://github.com/Mubder) | Mubder Alfaris | Kuwait | 1,334 |
 | 11 | [knro](https://github.com/knro) | Jasem Mutlaq | Kuwait | 947 |
 | 12 | [usamahklair](https://github.com/usamahklair) | Usamah Klair | Kuwait | 823 |
-| 13 | [Mazyod](https://github.com/Mazyod) | Maz | Kuwait | 628 |
+| 13 | [Mazyod](https://github.com/Mazyod) | Maz | Kuwait | 631 |
 | 14 | [azikar24](https://github.com/azikar24) | Abdulaziz Karam | Kuwait | 616 |
 | 15 | [AwadhObaid](https://github.com/AwadhObaid) | Awadh Obaid | Kuwait | 556 |
 | 16 | [fibonacci61](https://github.com/fibonacci61) | Faisal Malallah | Kuwait | 545 |
@@ -83,4 +83,4 @@ Indexed users: 797
 | 19 | [MoathOthman](https://github.com/MoathOthman) | Moath othman | Kuwait | 85 |
 | 20 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Kuwait | 81 |
 
-Generated: 2026-10-17T05:03:16.463Z
+Generated: 2026-10-17T06:19:29.359Z

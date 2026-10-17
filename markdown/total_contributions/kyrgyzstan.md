@@ -1,6 +1,6 @@
 # Total Contributions - Kyrgyzstan
 
-Generated: 2026-10-17T05:03:22.519Z
+Generated: 2026-10-17T06:20:04.578Z
 
 Users: 2444
 
@@ -17,12 +17,12 @@ Users: 2444
 | 9 | [zarylbek-tenxdevs](https://github.com/zarylbek-tenxdevs) |  |  |  | Kyrgyzstan | 6123 |
 | 10 | [Amanch1ik](https://github.com/Amanch1ik) | Amanchik |  |  | Bishkek | 6088 |
 | 11 | [songhee24](https://github.com/songhee24) | Azamat |  |  | Kyrgyzstan | 5391 |
-| 12 | [qiniks](https://github.com/qiniks) | Talant Mataev |  |  | Kyrgyzstan | 5133 |
-| 13 | [chalshik](https://github.com/chalshik) | Nurmukhammed Kalmamatov | @aitsolutions |  | Kyrgyzstan | 5086 |
-| 14 | [emirbaktybekov-king](https://github.com/emirbaktybekov-king) | Emir Baktybekov |  |  | Bishkek, Kyrgyzstan | 5027 |
-| 15 | [P5ina](https://github.com/P5ina) | Timur Turatbekov |  |  | Kyrgyzstan, Bishkek | 4996 |
-| 16 | [991o2o9](https://github.com/991o2o9) | Soltobekov Amin |  |  | Bishkek | 4857 |
-| 17 | [isybai](https://github.com/isybai) | Isa | Stim.io |  | Bishkek | 4752 |
-| 18 | [nasipa1](https://github.com/nasipa1) | Nasipa | LLC Alpha-Net |  | Kyrgyzstan, Bishkek | 4724 |
-| 19 | [timplifier](https://github.com/timplifier) | timplifier雨 | @Timbermir |  | Bishkek | 4644 |
-| 20 | [eeemmm29](https://github.com/eeemmm29) | EM | AIT Solutions |  | Kyrgyzstan | 4454 |
+| 12 | [metalagman](https://github.com/metalagman) | Alexey Samoylov | @baldaworks | metalagman | Bishkek, Kyrgyz Republic | 5286 |
+| 13 | [qiniks](https://github.com/qiniks) | Talant Mataev |  |  | Kyrgyzstan | 5133 |
+| 14 | [chalshik](https://github.com/chalshik) | Nurmukhammed Kalmamatov | @aitsolutions |  | Kyrgyzstan | 5086 |
+| 15 | [emirbaktybekov-king](https://github.com/emirbaktybekov-king) | Emir Baktybekov |  |  | Bishkek, Kyrgyzstan | 5027 |
+| 16 | [P5ina](https://github.com/P5ina) | Timur Turatbekov |  |  | Kyrgyzstan, Bishkek | 4996 |
+| 17 | [991o2o9](https://github.com/991o2o9) | Soltobekov Amin |  |  | Bishkek | 4857 |
+| 18 | [isybai](https://github.com/isybai) | Isa | Stim.io |  | Bishkek | 4752 |
+| 19 | [nasipa1](https://github.com/nasipa1) | Nasipa | LLC Alpha-Net |  | Kyrgyzstan, Bishkek | 4724 |
+| 20 | [timplifier](https://github.com/timplifier) | timplifier雨 | @Timbermir |  | Bishkek | 4644 |

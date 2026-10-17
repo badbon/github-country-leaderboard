@@ -17,7 +17,7 @@ Top GitHub users by country, ranked from public GitHub profile and contribution 
 | [Kiribati](markdown/countries/kiribati.md) | 4 | [Public](markdown/public_contributions/kiribati.md) | [Total](markdown/total_contributions/kiribati.md) | [Followers](markdown/followers/kiribati.md) |
 | [Mayotte](markdown/countries/mayotte.md) | 17 | [Public](markdown/public_contributions/mayotte.md) | [Total](markdown/total_contributions/mayotte.md) | [Followers](markdown/followers/mayotte.md) |
 | [South Africa](markdown/countries/south_africa.md) | 17,931 | [Public](markdown/public_contributions/south_africa.md) | [Total](markdown/total_contributions/south_africa.md) | [Followers](markdown/followers/south_africa.md) |
-| [Peru](markdown/countries/peru.md) | 9,774 | [Public](markdown/public_contributions/peru.md) | [Total](markdown/total_contributions/peru.md) | [Followers](markdown/followers/peru.md) |
+| [Peru](markdown/countries/peru.md) | 9,773 | [Public](markdown/public_contributions/peru.md) | [Total](markdown/total_contributions/peru.md) | [Followers](markdown/followers/peru.md) |
 | [Falkland Islands](markdown/countries/falkland_islands.md) | 13 | [Public](markdown/public_contributions/falkland_islands.md) | [Total](markdown/total_contributions/falkland_islands.md) | [Followers](markdown/followers/falkland_islands.md) |
 
 ## How It Works
@@ -26,4 +26,4 @@ The collector searches GitHub users by self-reported profile location, keeps use
 
 Locations are not verified. The raw profile location is preserved, and country assignment uses deterministic country, alias, city, and exact phrase rules.
 
-Generated: 2026-10-17T06:17:28.859Z
+Generated: 2026-10-17T06:44:13.779Z

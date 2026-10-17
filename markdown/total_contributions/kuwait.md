@@ -1,13 +1,13 @@
 # Total Contributions - Kuwait
 
-Generated: 2026-10-17T05:03:16.463Z
+Generated: 2026-10-17T06:19:29.359Z
 
 Users: 797
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [mshll](https://github.com/mshll) | meshal | Boubyan Bank |  | Kuwait | 7773 |
-| 2 | [buaziz](https://github.com/buaziz) | Buaziz |  |  | Kuwait | 7028 |
+| 2 | [buaziz](https://github.com/buaziz) | Buaziz |  |  | Kuwait | 7118 |
 | 3 | [ghaith99](https://github.com/ghaith99) |  |  |  | Kuwait | 6933 |
 | 4 | [BAWES](https://github.com/BAWES) | Khalid Al-Mutawa | BAWES |  | Kuwait | 6616 |
 | 5 | [uusa35](https://github.com/uusa35) | Usama.Ahmed | 965 65772444 |  | kuwait | 6384 |
@@ -20,7 +20,7 @@ Users: 797
 | 12 | [knro](https://github.com/knro) | Jasem Mutlaq |  |  | Kuwait | 4140 |
 | 13 | [mulaifi](https://github.com/mulaifi) | Salem Almulaifi | LEAN | SalemAlmulaifi | Kuwait | 3929 |
 | 14 | [careless10](https://github.com/careless10) | Menawer | Ruba |  | Kuwait | 3828 |
-| 15 | [Mazyod](https://github.com/Mazyod) | Maz | Boubyan Bank |  | Kuwait | 3794 |
+| 15 | [Mazyod](https://github.com/Mazyod) | Maz | Boubyan Bank |  | Kuwait | 3812 |
 | 16 | [iZaL](https://github.com/iZaL) | Afzal Abbas |  |  | Kuwait | 3529 |
 | 17 | [DiNaSoR](https://github.com/DiNaSoR) | BuYousef |  |  | Kuwait | 3511 |
 | 18 | [aalhendi](https://github.com/aalhendi) | Abdulrazzaq Alhendi |  |  | Kuwait | 3466 |
