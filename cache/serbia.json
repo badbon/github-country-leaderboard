@@ -29856,18 +29856,6 @@
     "createdAt": "2021-07-07T10:58:50Z"
   },
   {
-    "login": "DachoCyber",
-    "name": "Dalibor Maksimovic",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/76927298?s=72&v=4",
-    "location": "Belgrade",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 146,
-    "createdAt": "2021-01-04T02:06:44Z"
-  },
-  {
     "login": "andrejbane",
     "name": "Andrej Tripkovic",
     "avatarUrl": "https://avatars.githubusercontent.com/u/81103545?s=72&u=afd89e3a071e1f861a62cd6e8202a3aa5677c84b&v=4",
@@ -29875,8 +29863,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 99,
-    "publicContributions": 0,
+    "privateContributions": 80,
+    "publicContributions": 10,
     "createdAt": "2021-03-21T16:53:30Z"
   },
   {
@@ -29888,7 +29876,7 @@
     "twitterUsername": "ksenijamisic",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 13,
     "createdAt": "2021-09-03T10:54:14Z"
   },
   {
@@ -29898,7 +29886,7 @@
     "location": "Belgrade",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-06-17T08:22:07Z"
@@ -29936,7 +29924,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 4,
     "createdAt": "2021-12-22T18:30:07Z"
   },
   {
@@ -29948,7 +29936,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 170,
+    "publicContributions": 172,
     "createdAt": "2021-08-31T17:14:51Z"
   },
   {
@@ -29960,7 +29948,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2021-03-18T09:23:32Z"
   },
   {
@@ -29983,7 +29971,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 2,
+    "privateContributions": 5,
     "publicContributions": 8,
     "createdAt": "2021-12-10T08:36:23Z"
   },
