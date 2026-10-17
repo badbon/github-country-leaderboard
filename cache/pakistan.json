@@ -28652,7 +28652,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 86,
+    "publicContributions": 0,
     "createdAt": "2025-06-20T09:20:56Z"
   },
   {
@@ -28664,13 +28664,13 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 10,
     "createdAt": "2025-06-02T15:41:37Z"
   },
   {
     "login": "Faiza-Bano",
     "name": "Faiza Bano",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/209670825?s=72&u=a15d62ea43ee4c72a04c672cb887bf3bff5f1f96&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/209670825?s=72&u=44c503a654967227ba2f31a8c316423cbf41fb75&v=4",
     "location": "Multan, Pakistan",
     "company": "",
     "twitterUsername": "",
@@ -28687,8 +28687,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 284,
+    "privateContributions": 94,
+    "publicContributions": 292,
     "createdAt": "2025-05-09T12:44:29Z"
   },
   {
@@ -28700,19 +28700,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 82,
+    "publicContributions": 70,
     "createdAt": "2025-04-14T20:38:18Z"
   },
   {
     "login": "awaishussainsoomro",
     "name": "Awais Hussain Soomro",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/206830263?s=72&u=1e6a1561b4325344ea9821e2e7026a21bb3de014&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/206830263?s=72&u=4b1b3f4d744d8ba8ee972c37970a203eb6fdf1ec&v=4",
     "location": "larkana, sindh, pakistan",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 55,
+    "publicContributions": 145,
     "createdAt": "2025-04-09T08:10:15Z"
   },
   {
@@ -28723,8 +28723,8 @@
     "company": "",
     "twitterUsername": "aaliyan_dev",
     "followers": 1,
-    "privateContributions": 223,
-    "publicContributions": 71,
+    "privateContributions": 242,
+    "publicContributions": 60,
     "createdAt": "2025-04-08T12:50:27Z"
   },
   {
@@ -28748,7 +28748,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 38,
+    "publicContributions": 31,
     "createdAt": "2025-05-11T11:21:15Z"
   },
   {
@@ -28764,18 +28764,6 @@
     "createdAt": "2025-04-17T08:55:28Z"
   },
   {
-    "login": "mzuhair9933",
-    "name": "Muhammad Zuhair",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/207322959?s=72&u=4e89aab8171a5948fe1b5b5a93c0b80656dcdc5b&v=4",
-    "location": "Lahore,Pakistan",
-    "company": "PNY",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1341,
-    "createdAt": "2025-04-12T09:57:27Z"
-  },
-  {
     "login": "musfiraahmed31",
     "name": "Musfira Ahmed",
     "avatarUrl": "https://avatars.githubusercontent.com/u/208713004?s=72&u=8876df0462f282bd60c4a70eac8ec25b2b0714ff&v=4",
@@ -28784,7 +28772,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 90,
+    "publicContributions": 91,
     "createdAt": "2025-04-22T20:16:15Z"
   },
   {
@@ -28806,7 +28794,7 @@
     "location": "Pakistan",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-05-11T18:18:24Z"
@@ -28854,9 +28842,9 @@
     "location": "Lahore, Pakistan",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 23,
     "createdAt": "2025-04-14T16:27:18Z"
   },
   {
@@ -502678,5 +502666,17 @@
     "privateContributions": 0,
     "publicContributions": 194,
     "createdAt": "2026-06-29T12:29:27Z"
+  },
+  {
+    "login": "khanyousafzaideveloper",
+    "name": "AHMAD KHAN YOUSAFZAI",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/86572183?s=72&u=4be2bb5f16eb4b958e3f96fcd65130072b804d1b&v=4",
+    "location": "Pakistan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 23,
+    "privateContributions": 2206,
+    "publicContributions": 131,
+    "createdAt": "2021-06-27T19:25:58Z"
   }
 ]

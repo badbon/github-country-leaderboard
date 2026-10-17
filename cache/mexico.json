@@ -28879,7 +28879,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 123,
+    "privateContributions": 143,
     "publicContributions": 0,
     "createdAt": "2023-05-08T03:23:18Z"
   },
@@ -28946,7 +28946,7 @@
   {
     "login": "DemonFF890",
     "name": "DemonFF890",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/124627385?s=72&u=a4a7123ad7e7bee142e6ef69024fb47ef4f0836b&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/124627385?s=72&u=55f612b9a54c485ef7d5fcbd94c19e518ef864fb&v=4",
     "location": "Mexico 🇲🇽 ",
     "company": "",
     "twitterUsername": "",
@@ -28988,7 +28988,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 19,
     "createdAt": "2023-05-03T02:27:25Z"
   },
   {
@@ -29011,8 +29011,8 @@
     "company": "O'Reilly Auto Partes",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 613,
-    "publicContributions": 194,
+    "privateContributions": 524,
+    "publicContributions": 189,
     "createdAt": "2023-06-05T06:00:09Z"
   },
   {
@@ -29034,9 +29034,9 @@
     "location": "Monterrey, Mexico",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 5,
     "createdAt": "2023-05-22T19:16:39Z"
   },
   {
@@ -29060,7 +29060,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 191,
+    "publicContributions": 190,
     "createdAt": "2023-02-15T14:14:20Z"
   },
   {
@@ -29096,20 +29096,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 140,
+    "publicContributions": 93,
     "createdAt": "2023-04-14T05:53:37Z"
-  },
-  {
-    "login": "gioNP",
-    "name": "Giovanni Nopal",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/138028985?s=72&u=33827eca4a76532051184a4036527fdab8b238d4&v=4",
-    "location": "Mexico City",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2023-06-28T14:51:49Z"
   },
   {
     "login": "carlosphilus",
