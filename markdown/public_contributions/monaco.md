@@ -1,23 +1,23 @@
 # Public Contributions - Monaco
 
-Generated: 2026-10-17T02:00:05.659Z
+Generated: 2026-10-17T05:11:46.523Z
 
 Users: 142
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [laurentqro](https://github.com/laurentqro) | Laurent Curau |  |  | Monaco | 3830 |
+| 1 | [laurentqro](https://github.com/laurentqro) | Laurent Curau |  |  | Monaco | 3811 |
 | 2 | [LovelessCodes](https://github.com/LovelessCodes) |  |  |  | Monaco | 2357 |
 | 3 | [KristofM854](https://github.com/KristofM854) | Kristof Moeller | International Atomic Energy Agency |  | Monaco | 1633 |
 | 4 | [asingizwe1](https://github.com/asingizwe1) | Dev. Louis Asingizwe | 7C | _Louis_A_ | Monaco , Kampala/Uganda | 582 |
 | 5 | [auvents-brave](https://github.com/auvents-brave) | Stéphane |  |  | Monaco | 235 |
 | 6 | [AlexRLG98](https://github.com/AlexRLG98) | Alex_RLG |  |  | Monaco | 212 |
-| 7 | [co-stig](https://github.com/co-stig) | Constantine | Vilia |  | Monaco | 173 |
+| 7 | [co-stig](https://github.com/co-stig) | Constantine | Vilia |  | Monaco | 172 |
 | 8 | [NicoBocq](https://github.com/NicoBocq) | Nicolas Bocquet | Inforca |  | Marseille / Monaco | 148 |
 | 9 | [margauxhaering](https://github.com/margauxhaering) | Margaux Haering |  |  | Monaco | 123 |
 | 10 | [Steve-Deguilly](https://github.com/Steve-Deguilly) | Steve DEGUILLY | CREASTORY CONSEIL |  | Nice / Monaco / Sophia Antipolis | 116 |
 | 11 | [fedecarz](https://github.com/fedecarz) | fedecarz | International University of Monaco - IUM |  | Monaco | 99 |
-| 12 | [vjandrea](https://github.com/vjandrea) | Andrea Bergamasco | KeeSystem | vjandrea | Monaco | 92 |
+| 12 | [vjandrea](https://github.com/vjandrea) | Andrea Bergamasco | KeeSystem | vjandrea | Monaco | 91 |
 | 13 | [giraudremi92](https://github.com/giraudremi92) | Rémi |  |  | Monaco | 80 |
 | 14 | [PhilCANDIDO](https://github.com/PhilCANDIDO) | Philippe CANDIDO |  |  | Monaco | 59 |
 | 15 | [sesjaphp](https://github.com/sesjaphp) |  |  |  | Monaco | 58 |

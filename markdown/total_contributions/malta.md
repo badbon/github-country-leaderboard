@@ -1,6 +1,6 @@
 # Total Contributions - Malta
 
-Generated: 2026-10-17T01:54:49.538Z
+Generated: 2026-10-17T05:08:48.244Z
 
 Users: 1225
 
@@ -8,12 +8,12 @@ Users: 1225
 |---:|---|---|---|---|---|---:|
 | 1 | [SijanC147](https://github.com/SijanC147) | Sean |  |  | Malta | 29571 |
 | 2 | [davidbalzan](https://github.com/davidbalzan) | David Balzan |  |  | Malta | 26792 |
-| 3 | [zcourts](https://github.com/zcourts) | Courtney Robinson | Hypi | zcourts | London (UK), Łodz (Poland), Valletta (Malta) | 14624 |
+| 3 | [zcourts](https://github.com/zcourts) | Courtney Robinson | Hypi | zcourts | London (UK), Łodz (Poland), Valletta (Malta) | 14775 |
 | 4 | [tssge](https://github.com/tssge) | Teemu Grönqvist | Freelancer @net9-oy |  | Msida, Malta | 13396 |
 | 5 | [kjlibsol](https://github.com/kjlibsol) | Klaus Jensen | Liberatum Solutions Ltd |  | Malta | 12581 |
 | 6 | [exori90](https://github.com/exori90) | exori |  |  | Malta | 11040 |
-| 7 | [mattbeedle](https://github.com/mattbeedle) | Matt Beedle |  |  | Malta | 10492 |
-| 8 | [GabrielGil](https://github.com/GabrielGil) | Gabriel | @redacreltd | GabrielSchlomo | Malta | 10208 |
+| 7 | [GabrielGil](https://github.com/GabrielGil) | Gabriel | @redacreltd | GabrielSchlomo | Malta | 10681 |
+| 8 | [mattbeedle](https://github.com/mattbeedle) | Matt Beedle |  |  | Malta | 10492 |
 | 9 | [silvandiepen](https://github.com/silvandiepen) | Sil van Diepen | Sil van Diepen | silvandiepen | Malta | 9398 |
 | 10 | [Sml995](https://github.com/Sml995) | Samuel HASSID | @Supplement-Bacon  |  | Sliema, Malta | 9224 |
 | 11 | [polp6880](https://github.com/polp6880) | Paul Portelli | Paul Portelli | polp6880 | Malta | 9022 |

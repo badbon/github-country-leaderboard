@@ -1,6 +1,6 @@
 # Followers - Madagascar
 
-Generated: 2026-10-17T01:52:31.303Z
+Generated: 2026-10-17T05:06:20.737Z
 
 Users: 1904
 
@@ -12,13 +12,13 @@ Users: 1904
 | 4 | [DavFilsDev](https://github.com/DavFilsDev) | F. Miharisoa David Fils RATIANDRAIBE |  | davfilsdev | Antananarivo Madagascar | 357 |
 | 5 | [julkwel](https://github.com/julkwel) | Julien Rajerison  | @Techzara, @Bocasay, @7he-Challenger |  | Madagascar | 342 |
 | 6 | [ThierryRakotomanana](https://github.com/ThierryRakotomanana) | ThierryRakt |  | ThieryRkt | Antananarivo | 338 |
-| 7 | [TsitouhRanjafy](https://github.com/TsitouhRanjafy) | Tsitohaina |  |  | Madagascar  | 330 |
-| 8 | [lahatra3](https://github.com/lahatra3) | Lahatra Anjara RAVELONARIVO  | @iTeam-S  | lahatra31 | Madagascar-Antananarivo | 329 |
+| 7 | [lahatra3](https://github.com/lahatra3) | Lahatra Anjara RAVELONARIVO  | @iTeam-S  | lahatra31 | Madagascar-Antananarivo | 329 |
+| 8 | [TsitouhRanjafy](https://github.com/TsitouhRanjafy) | Tsitohaina |  |  | Madagascar  | 327 |
 | 9 | [GhosTHaise](https://github.com/GhosTHaise) | Fitiavana Sambatra | @GhosTCorp  | NSFitiavana | Antananarivo, Madagascar | 213 |
 | 10 | [KiadyNirina](https://github.com/KiadyNirina) | Kiady | Kleonix | KiadyRam | Antananarivo, Madagascar | 183 |
-| 11 | [NajoroRabiaza](https://github.com/NajoroRabiaza) | Amboara RAJAONARILALA |  |  | Antananarivo - MADAGASCAR | 175 |
+| 11 | [NajoroRabiaza](https://github.com/NajoroRabiaza) | Amboara RAJAONARILALA |  |  | Antananarivo - MADAGASCAR | 174 |
 | 12 | [RajaRakoto](https://github.com/RajaRakoto) | Raja Rakotonirina |  |  | Antananarivo Madagascar | 171 |
-| 13 | [dario208](https://github.com/dario208) | TSIAHOUA Feno Dario Dasylva | @iTeam-S |  | Antananarivo - Madagascar | 165 |
+| 13 | [dario208](https://github.com/dario208) | TSIAHOUA Feno Dario Dasylva | @iTeam-S |  | Antananarivo - Madagascar | 163 |
 | 14 | [gaetan1903](https://github.com/gaetan1903) | Gaetan Jonathan BAKARY | @iTeam-S |  | Toamasina, Madagascar | 163 |
 | 15 | [DMikaia](https://github.com/DMikaia) | Daniel Mikaia |  |  | Antananarivo, Madagascar | 149 |
 | 16 | [LizkaRyan](https://github.com/LizkaRyan) | Ryan |  |  | Antananarivo, Madagascar | 145 |

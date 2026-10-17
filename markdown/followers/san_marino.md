@@ -1,6 +1,6 @@
 # Followers - San Marino
 
-Generated: 2026-10-17T02:24:01.998Z
+Generated: 2026-10-17T05:25:06.660Z
 
 Users: 61
 
@@ -12,7 +12,7 @@ Users: 61
 | 4 | [mcdado](https://github.com/mcdado) | David Gasperoni |  |  | San Marino (SMR) <✈️> Madrid, Spain | 33 |
 | 5 | [AleRiccardi](https://github.com/AleRiccardi) | Alessandro Riccardi |  |  | San Marino | 32 |
 | 6 | [stfDeveloper](https://github.com/stfDeveloper) |  |  |  | San Marino | 29 |
-| 7 | [ellenico77](https://github.com/ellenico77) | Lorenzo Nicoletti | I.e.S. SpA |  | San Marino | 19 |
+| 7 | [ellenico77](https://github.com/ellenico77) | Lorenzo Nicoletti | I.e.S. SpA |  | San Marino | 20 |
 | 8 | [alexsteinerr](https://github.com/alexsteinerr) | Alex Steiner |  |  | San Marino | 18 |
 | 9 | [gchen98](https://github.com/gchen98) | Gary K. Chen | Pioneer Metals |  | San Marino, CA | 17 |
 | 10 | [Llandy3d](https://github.com/Llandy3d) | Llandy Riveron Del Risco | @grafana | llandy3d | San Marino | 17 |

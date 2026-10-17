@@ -1,6 +1,6 @@
 # Followers - Kuwait
 
-Generated: 2026-10-17T01:45:11.462Z
+Generated: 2026-10-17T05:03:16.463Z
 
 Users: 797
 
@@ -20,8 +20,8 @@ Users: 797
 | 12 | [knro](https://github.com/knro) | Jasem Mutlaq |  |  | Kuwait | 104 |
 | 13 | [iZaL](https://github.com/iZaL) | Afzal Abbas |  |  | Kuwait | 98 |
 | 14 | [Cliprz](https://github.com/Cliprz) | Yousef Ismaeil | Cliprz |  | Kuwait | 96 |
-| 15 | [mohammedgmgn](https://github.com/mohammedgmgn) | Mohammed Abdullah  |  |  | Kuwait | 92 |
-| 16 | [kuwaitbinary](https://github.com/kuwaitbinary) | Abdullah Al Mashmoum |  |  | Kuwait | 91 |
+| 15 | [kuwaitbinary](https://github.com/kuwaitbinary) | Abdullah Al Mashmoum |  |  | Kuwait | 92 |
+| 16 | [mohammedgmgn](https://github.com/mohammedgmgn) | Mohammed Abdullah  |  |  | Kuwait | 92 |
 | 17 | [DiNaSoR](https://github.com/DiNaSoR) | BuYousef |  |  | Kuwait | 90 |
 | 18 | [AlanBennyOfficial](https://github.com/AlanBennyOfficial) | Alan Benny |  | AlanBennyX | Kuwait | 89 |
 | 19 | [MoathOthman](https://github.com/MoathOthman) | Moath othman |  |  | Kuwait | 85 |

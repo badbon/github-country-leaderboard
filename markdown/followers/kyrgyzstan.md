@@ -1,8 +1,8 @@
 # Followers - Kyrgyzstan
 
-Generated: 2026-10-17T01:45:18.660Z
+Generated: 2026-10-17T05:03:22.519Z
 
-Users: 2445
+Users: 2444
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -21,8 +21,8 @@ Users: 2445
 | 13 | [NuraiymMamatova](https://github.com/NuraiymMamatova) | Nuraiym |  |  | Kyrgyzstan | 115 |
 | 14 | [Turatkg](https://github.com/Turatkg) | Turat Alybaev | App IT Company |  | Kyrgyzstan | 113 |
 | 15 | [bmamatkadyr](https://github.com/bmamatkadyr) | beks | Loadex |  | Bishkek | 111 |
-| 16 | [5ekastanx](https://github.com/5ekastanx) | bekastan | Geeks  |  | Osh \| Kyrgyzstan | 106 |
-| 17 | [AlexanderBagel](https://github.com/AlexanderBagel) | Alexander (Rouse_) Bagel |  |  | Bishkek | 105 |
+| 16 | [AlexanderBagel](https://github.com/AlexanderBagel) | Alexander (Rouse_) Bagel |  |  | Bishkek | 110 |
+| 17 | [5ekastanx](https://github.com/5ekastanx) | bekastan | Geeks  |  | Osh \| Kyrgyzstan | 106 |
 | 18 | [bashu](https://github.com/bashu) | Basil Sh. |  |  | Bishkek, Kyrgyzstan | 104 |
 | 19 | [Elkhan2003](https://github.com/Elkhan2003) | Elkhan Sharshenbekov | WeDevX && UniCorn |  | Karakol, Kyrgyzstan | 103 |
 | 20 | [eszdman](https://github.com/eszdman) |  |  |  | Kyrgyzstan | 103 |
