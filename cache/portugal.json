@@ -29203,8 +29203,8 @@
     "company": "42 Porto",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 54,
-    "publicContributions": 63,
+    "privateContributions": 155,
+    "publicContributions": 16,
     "createdAt": "2023-02-15T14:09:11Z"
   },
   {
@@ -29240,20 +29240,8 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 1,
     "createdAt": "2023-03-02T23:36:49Z"
-  },
-  {
-    "login": "flowdrivenml",
-    "name": "Pavlo Vanat",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/136728020?s=72&u=b40a7b24c1501a15b8da66b18a889cd54b6e39e1&v=4",
-    "location": "Lisbon, Portugal",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 70,
-    "publicContributions": 63,
-    "createdAt": "2023-06-15T14:58:46Z"
   },
   {
     "login": "ritaspinto",
@@ -29286,7 +29274,7 @@
     "location": "Portugal",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 10,
     "privateContributions": 0,
     "publicContributions": 21,
     "createdAt": "2023-05-28T15:56:58Z"
@@ -29299,7 +29287,7 @@
     "company": "Instituto Superior Técnico",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 106,
+    "privateContributions": 126,
     "publicContributions": 139,
     "createdAt": "2023-05-24T15:44:09Z"
   },
@@ -29322,7 +29310,7 @@
     "location": "Portugal",
     "company": "Ciellos",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2023-06-20T14:08:03Z"
@@ -29334,7 +29322,7 @@
     "location": "Portugal",
     "company": "i9Business",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
     "publicContributions": 20,
     "createdAt": "2023-01-10T11:24:51Z"
@@ -29348,7 +29336,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 2,
     "createdAt": "2023-02-02T15:47:10Z"
   },
   {
@@ -29394,7 +29382,7 @@
     "location": "Porto, Portugal",
     "company": "Randstad",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-03-01T16:02:22Z"

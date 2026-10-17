@@ -220678,5 +220678,17 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2022-11-01T09:08:36Z"
+  },
+  {
+    "login": "lederhilger",
+    "name": "Simon",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/107355745?s=72&u=bd83e71ba5333cf796d9ad6f6d485818042ca804&v=4",
+    "location": "Brussels",
+    "company": "von Kármán Institute",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 362,
+    "createdAt": "2022-06-12T13:42:13Z"
   }
 ]

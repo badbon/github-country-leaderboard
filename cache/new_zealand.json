@@ -29311,7 +29311,7 @@
     "company": "University of Otago",
     "twitterUsername": "UsmanAfzali",
     "followers": 4,
-    "privateContributions": 9,
+    "privateContributions": 13,
     "publicContributions": 1,
     "createdAt": "2020-10-04T06:43:47Z"
   },
@@ -29370,7 +29370,7 @@
     "location": "New Zealand",
     "company": "@centralityai",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-02-09T08:17:29Z"
@@ -29398,18 +29398,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-03-04T22:57:30Z"
-  },
-  {
-    "login": "grueki",
-    "name": "Izzy Johns",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/68843370?s=72&v=4",
-    "location": "Auckland, New Zealand",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2020-07-27T07:33:10Z"
   },
   {
     "login": "Junivieve",
@@ -29466,7 +29454,7 @@
     "location": "Auckland, New Zealand",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-04-16T22:09:24Z"
@@ -29480,7 +29468,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 11,
     "createdAt": "2020-09-09T20:57:24Z"
   },
   {
@@ -29503,8 +29491,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 79,
-    "publicContributions": 143,
+    "privateContributions": 171,
+    "publicContributions": 125,
     "createdAt": "2020-08-15T02:20:41Z"
   },
   {
@@ -29527,8 +29515,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 3,
-    "publicContributions": 134,
+    "privateContributions": 7,
+    "publicContributions": 105,
     "createdAt": "2020-04-09T02:50:29Z"
   },
   {
@@ -29539,7 +29527,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 741,
+    "privateContributions": 593,
     "publicContributions": 0,
     "createdAt": "2020-03-05T00:36:47Z"
   },
