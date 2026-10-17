@@ -27728,7 +27728,7 @@
     "twitterUsername": "engr1ham",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 1,
     "createdAt": "2022-11-16T21:43:24Z"
   },
   {
@@ -27751,7 +27751,7 @@
     "company": "UXBERT Labs",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1105,
+    "privateContributions": 1312,
     "publicContributions": 0,
     "createdAt": "2022-10-24T08:43:43Z"
   },
@@ -27763,7 +27763,7 @@
     "company": "Saudi Water Authority",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 20,
+    "privateContributions": 16,
     "publicContributions": 0,
     "createdAt": "2022-03-03T11:41:30Z"
   },
@@ -27824,7 +27824,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 86,
+    "publicContributions": 9,
     "createdAt": "2022-08-15T14:18:55Z"
   },
   {
@@ -27836,7 +27836,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 18,
-    "publicContributions": 27,
+    "publicContributions": 3,
     "createdAt": "2022-05-22T07:39:44Z"
   },
   {
@@ -27870,7 +27870,7 @@
     "location": "Riyadh",
     "company": "none",
     "twitterUsername": "Raghad_Nourh",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-06-04T20:46:28Z"
@@ -92806,5 +92806,17 @@
     "privateContributions": 0,
     "publicContributions": 77,
     "createdAt": "2026-06-29T17:02:07Z"
+  },
+  {
+    "login": "aziztoba",
+    "name": "Abdulaziz Toba",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/122528370?s=72&u=970a7d690219c86f6b34e66485458409af370058&v=4",
+    "location": "Saudi Arabia",
+    "company": "Invento",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 27,
+    "createdAt": "2023-01-12T10:38:30Z"
   }
 ]

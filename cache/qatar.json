@@ -2167,7 +2167,7 @@
     "company": "",
     "twitterUsername": "kin230",
     "followers": 8,
-    "privateContributions": 8708,
+    "privateContributions": 8899,
     "publicContributions": 13,
     "createdAt": "2023-08-28T17:06:14Z"
   },
@@ -2179,7 +2179,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 286,
+    "privateContributions": 270,
     "publicContributions": 0,
     "createdAt": "2023-03-04T07:17:43Z"
   },
@@ -2216,7 +2216,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 969,
-    "publicContributions": 737,
+    "publicContributions": 766,
     "createdAt": "2023-07-03T20:33:22Z"
   },
   {
@@ -2240,7 +2240,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 896,
+    "publicContributions": 877,
     "createdAt": "2023-07-18T14:58:45Z"
   },
   {
@@ -2326,18 +2326,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-11-02T06:07:51Z"
-  },
-  {
-    "login": "aziztoba",
-    "name": "Abdulaziz Toba",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/122528370?s=72&v=4",
-    "location": "Qatar",
-    "company": "Mannai Corporation QPSC",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 19,
-    "createdAt": "2023-01-12T10:38:30Z"
   },
   {
     "login": "thasnimnashim",

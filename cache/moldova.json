@@ -6955,7 +6955,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 173,
+    "privateContributions": 176,
     "publicContributions": 22,
     "createdAt": "2020-07-15T13:52:29Z"
   },
@@ -6978,7 +6978,7 @@
     "location": "Moldova",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 8,
     "createdAt": "2020-02-04T12:48:21Z"
@@ -6991,8 +6991,8 @@
     "company": "Syncra Studio",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 2902,
-    "publicContributions": 1177,
+    "privateContributions": 3031,
+    "publicContributions": 2946,
     "createdAt": "2020-04-10T22:07:35Z"
   },
   {
@@ -7003,7 +7003,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 580,
+    "privateContributions": 574,
     "publicContributions": 0,
     "createdAt": "2020-07-03T17:57:47Z"
   },
@@ -7016,7 +7016,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 103,
+    "publicContributions": 106,
     "createdAt": "2020-03-15T11:01:18Z"
   },
   {
@@ -7027,7 +7027,7 @@
     "company": "Cozwix",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 512,
+    "privateContributions": 534,
     "publicContributions": 0,
     "createdAt": "2020-10-28T08:20:00Z"
   },
@@ -7044,18 +7044,6 @@
     "createdAt": "2020-08-06T10:10:56Z"
   },
   {
-    "login": "zeraviel-kaer",
-    "name": "Зеравиэль",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/67420677?s=72&u=11156e780a052624bd4017bccf6b75d29a68a3b1&v=4",
-    "location": "Moldova | Бендеры",
-    "company": "Horizon",
-    "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 0,
-    "publicContributions": 39,
-    "createdAt": "2020-06-25T12:15:18Z"
-  },
-  {
     "login": "maxpricop",
     "name": "Max",
     "avatarUrl": "https://avatars.githubusercontent.com/u/64973789?s=72&u=dd64a1002801605809a5f05a1b269903b44861ab&v=4",
@@ -7063,7 +7051,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 495,
+    "privateContributions": 508,
     "publicContributions": 124,
     "createdAt": "2020-05-07T15:09:19Z"
   },
@@ -7099,7 +7087,7 @@
     "company": "@croisdev ",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 194,
+    "privateContributions": 193,
     "publicContributions": 7,
     "createdAt": "2020-05-22T08:57:23Z"
   },
@@ -7136,7 +7124,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 24,
-    "publicContributions": 1,
+    "publicContributions": 3,
     "createdAt": "2020-04-02T10:58:31Z"
   },
   {
@@ -7159,8 +7147,8 @@
     "company": "@extenda",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 832,
-    "publicContributions": 61,
+    "privateContributions": 840,
+    "publicContributions": 62,
     "createdAt": "2020-10-27T13:01:18Z"
   },
   {
