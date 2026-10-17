@@ -28879,8 +28879,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 68,
+    "privateContributions": 1,
+    "publicContributions": 107,
     "createdAt": "2022-03-10T19:20:51Z"
   },
   {
@@ -28892,7 +28892,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 13,
     "createdAt": "2022-02-12T07:13:35Z"
   },
   {
@@ -28904,7 +28904,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 49,
+    "publicContributions": 65,
     "createdAt": "2022-02-17T10:15:51Z"
   },
   {
@@ -28915,8 +28915,8 @@
     "company": "Flyability",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1590,
-    "publicContributions": 18,
+    "privateContributions": 1866,
+    "publicContributions": 0,
     "createdAt": "2022-02-01T07:49:25Z"
   },
   {
@@ -28927,7 +28927,7 @@
     "company": "Swatch Ltd.",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 416,
+    "privateContributions": 411,
     "publicContributions": 0,
     "createdAt": "2022-02-02T09:08:54Z"
   },
@@ -28940,7 +28940,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 1,
     "createdAt": "2022-02-16T09:58:27Z"
   },
   {
@@ -28964,7 +28964,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2022-04-03T19:49:01Z"
   },
   {
@@ -29016,18 +29016,6 @@
     "createdAt": "2022-06-09T21:55:55Z"
   },
   {
-    "login": "DeliSkyDev",
-    "name": "DeliSky",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/98110057?s=72&u=1ad180a4ccf1a3d75df5b267cde7cf1c21acae70&v=4",
-    "location": "Switzerland",
-    "company": "DeliSky GmbH",
-    "twitterUsername": "DeliSkyCatering",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2022-01-20T15:54:33Z"
-  },
-  {
     "login": "dominikglaser",
     "name": "Dominik Glaser",
     "avatarUrl": "https://avatars.githubusercontent.com/u/102225007?s=72&u=a677cf4eb9625ed6d96b92c4057e952a2c02f7af&v=4",
@@ -29047,7 +29035,7 @@
     "company": "AISA SA",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 5,
+    "privateContributions": 4,
     "publicContributions": 0,
     "createdAt": "2022-03-16T16:22:42Z"
   },

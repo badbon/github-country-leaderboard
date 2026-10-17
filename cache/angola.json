@@ -29444,7 +29444,7 @@
     "twitterUsername": "BitOliveira",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 32,
+    "publicContributions": 24,
     "createdAt": "2013-10-17T11:09:37Z"
   },
   {
@@ -29479,7 +29479,7 @@
     "company": "Trine University",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
+    "privateContributions": 3,
     "publicContributions": 1,
     "createdAt": "2013-02-21T13:36:03Z"
   },
@@ -29491,8 +29491,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 43,
-    "privateContributions": 2411,
-    "publicContributions": 1,
+    "privateContributions": 2545,
+    "publicContributions": 0,
     "createdAt": "2013-09-09T14:34:42Z"
   },
   {
@@ -29502,9 +29502,9 @@
     "location": "Luanda",
     "company": "",
     "twitterUsername": "joelmarinho2016",
-    "followers": 26,
-    "privateContributions": 5558,
-    "publicContributions": 98,
+    "followers": 25,
+    "privateContributions": 4739,
+    "publicContributions": 93,
     "createdAt": "2013-11-21T09:49:13Z"
   },
   {
@@ -29516,7 +29516,7 @@
     "twitterUsername": "cassiopro",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 33,
     "createdAt": "2013-10-13T10:40:47Z"
   },
   {
@@ -29526,8 +29526,8 @@
     "location": "luanda, Angola",
     "company": "OREAL",
     "twitterUsername": "luthonda",
-    "followers": 24,
-    "privateContributions": 67,
+    "followers": 25,
+    "privateContributions": 34,
     "publicContributions": 6,
     "createdAt": "2012-05-02T17:52:37Z"
   },
@@ -29550,7 +29550,7 @@
     "location": "Luanda, Angola",
     "company": "Jupiter System & Solutions",
     "twitterUsername": "maiconzucco",
-    "followers": 11,
+    "followers": 12,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2012-06-13T14:48:21Z"
@@ -29576,7 +29576,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 14,
     "createdAt": "2012-05-31T09:47:07Z"
   },
   {
@@ -29588,7 +29588,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 12,
     "createdAt": "2012-11-25T13:43:50Z"
   },
   {
@@ -29608,7 +29608,7 @@
     "name": "",
     "avatarUrl": "https://avatars.githubusercontent.com/u/1781161?s=72&u=f4f1cf86a9aee43ed5dac66edfcfaffd70cff866&v=4",
     "location": "ANGOLA-LUANDA",
-    "company": "BPC",
+    "company": "UNITEL",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,

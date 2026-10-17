@@ -28856,7 +28856,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 37,
+    "publicContributions": 25,
     "createdAt": "2022-03-19T17:05:53Z"
   },
   {
@@ -28976,7 +28976,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2022-02-25T13:36:03Z"
   },
   {
@@ -28986,9 +28986,9 @@
     "location": "Constantine, Algeria",
     "company": "",
     "twitterUsername": "nacerkraa",
-    "followers": 627,
-    "privateContributions": 33,
-    "publicContributions": 11,
+    "followers": 626,
+    "privateContributions": 53,
+    "publicContributions": 41,
     "createdAt": "2021-02-26T17:04:30Z"
   },
   {
@@ -28998,22 +28998,10 @@
     "location": "Algiers, Algeria",
     "company": "",
     "twitterUsername": "",
-    "followers": 450,
-    "privateContributions": 905,
-    "publicContributions": 162,
+    "followers": 432,
+    "privateContributions": 969,
+    "publicContributions": 200,
     "createdAt": "2021-12-14T20:47:45Z"
-  },
-  {
-    "login": "ramzykemmoun",
-    "name": "Ramzy KEMMOUN",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/96486453?s=72&u=659590409f3e1ed402269f502c8a174f3d7570a7&v=4",
-    "location": "Algeria",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 282,
-    "privateContributions": 641,
-    "publicContributions": 220,
-    "createdAt": "2021-12-21T15:15:45Z"
   },
   {
     "login": "kaymen99",
@@ -29022,21 +29010,21 @@
     "location": "Algeria",
     "company": "",
     "twitterUsername": "",
-    "followers": 253,
-    "privateContributions": 41,
+    "followers": 257,
+    "privateContributions": 66,
     "publicContributions": 1,
     "createdAt": "2021-05-05T01:07:05Z"
   },
   {
     "login": "1FarZ1",
     "name": "FarZ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/91225280?s=72&u=3f2bc656e8881ec13d0d3fc89abed64769f3d047&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/91225280?s=72&u=5a9fbfa9fffdfe4368e5e4147ba22e761478247e&v=4",
     "location": "Algeries,Algeria",
     "company": "",
     "twitterUsername": "",
     "followers": 174,
-    "privateContributions": 1600,
-    "publicContributions": 19,
+    "privateContributions": 1341,
+    "publicContributions": 16,
     "createdAt": "2021-09-22T21:12:33Z"
   },
   {
@@ -29046,21 +29034,21 @@
     "location": "Algeria",
     "company": "",
     "twitterUsername": "",
-    "followers": 152,
+    "followers": 162,
     "privateContributions": 0,
-    "publicContributions": 58,
+    "publicContributions": 63,
     "createdAt": "2021-10-28T15:40:22Z"
   },
   {
     "login": "hexxt-git",
-    "name": "Zeghdani Salah",
+    "name": "Salah Zeghdani",
     "avatarUrl": "https://avatars.githubusercontent.com/u/88392191?s=72&u=525ef754843672a564b36463b8b4adb7fa63ea47&v=4",
     "location": "Algeria",
     "company": "",
     "twitterUsername": "",
-    "followers": 135,
-    "privateContributions": 2095,
-    "publicContributions": 434,
+    "followers": 148,
+    "privateContributions": 2101,
+    "publicContributions": 453,
     "createdAt": "2021-08-03T15:17:31Z"
   },
   {

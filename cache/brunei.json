@@ -1765,14 +1765,14 @@
   },
   {
     "login": "8185485",
-    "name": "zulyahya",
+    "name": "",
     "avatarUrl": "https://avatars.githubusercontent.com/u/72981327?s=72&v=4",
     "location": "Brunei Darussalam",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 3,
     "createdAt": "2020-10-16T13:13:20Z"
   },
   {
@@ -1795,7 +1795,7 @@
     "company": "Datastream Digital (DST) ",
     "twitterUsername": "",
     "followers": 28,
-    "privateContributions": 1011,
+    "privateContributions": 940,
     "publicContributions": 13,
     "createdAt": "2019-10-09T13:44:38Z"
   },
@@ -1831,7 +1831,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 636,
+    "privateContributions": 642,
     "publicContributions": 50,
     "createdAt": "2019-05-06T17:21:44Z"
   },

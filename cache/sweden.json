@@ -28303,7 +28303,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 3,
+    "privateContributions": 27,
     "publicContributions": 13,
     "createdAt": "2023-01-23T12:05:39Z"
   },
@@ -28316,7 +28316,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 310,
+    "publicContributions": 289,
     "createdAt": "2023-06-14T17:22:50Z"
   },
   {
@@ -28327,8 +28327,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 227,
-    "publicContributions": 100,
+    "privateContributions": 220,
+    "publicContributions": 135,
     "createdAt": "2023-01-26T17:48:54Z"
   },
   {
@@ -28340,7 +28340,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 42,
+    "publicContributions": 30,
     "createdAt": "2023-03-31T17:05:43Z"
   },
   {
@@ -28351,8 +28351,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 44,
-    "publicContributions": 2,
+    "privateContributions": 55,
+    "publicContributions": 3,
     "createdAt": "2023-03-20T17:12:03Z"
   },
   {
@@ -28362,9 +28362,9 @@
     "location": "Sweden",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 617,
+    "publicContributions": 559,
     "createdAt": "2023-04-11T19:02:32Z"
   },
   {
@@ -28376,7 +28376,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 2,
     "createdAt": "2023-01-22T17:27:23Z"
   },
   {
@@ -28398,9 +28398,9 @@
     "location": "Sweden",
     "company": "Lonitech AB/Gammabrewery",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 3,
     "createdAt": "2022-12-30T01:03:37Z"
   },
   {
@@ -28412,19 +28412,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 673,
+    "publicContributions": 748,
     "createdAt": "2023-06-16T08:19:10Z"
   },
   {
     "login": "Illuminy00",
     "name": "Carl Larsson",
     "avatarUrl": "https://avatars.githubusercontent.com/u/130466691?s=72&u=46277e9b6a61d516a98550955f92406a6ad0e6cb&v=4",
-    "location": "Västerås, Sweden",
+    "location": "Örebro, Sweden",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
+    "privateContributions": 8,
+    "publicContributions": 2,
     "createdAt": "2023-04-11T12:20:52Z"
   },
   {
@@ -28448,7 +28448,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 55,
+    "publicContributions": 61,
     "createdAt": "2022-12-31T14:55:53Z"
   },
   {
@@ -28478,7 +28478,7 @@
   {
     "login": "MAHFOOZ-16",
     "name": "Ahmed Mahfooz Ali Khan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/124452476?s=72&u=fac88545e551ffe2feec08aea7df98038dd9c4f6&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/124452476?s=72&u=71ff781b925dfc4cbc0b7563d4f9f225beea4ff1&v=4",
     "location": "Stockholm, Sweden",
     "company": "",
     "twitterUsername": "",
@@ -156190,18 +156190,6 @@
     "privateContributions": 0,
     "publicContributions": 11,
     "createdAt": "2018-01-09T10:40:43Z"
-  },
-  {
-    "login": "cynthialmy",
-    "name": "Cynthia Mengyuan Li",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/35946885?s=72&u=52dc6568b6b2f052b726a6f6a523fd59e4e736d4&v=4",
-    "location": "Gothenburg, Sweden",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 21,
-    "privateContributions": 948,
-    "publicContributions": 445,
-    "createdAt": "2018-01-30T04:17:32Z"
   },
   {
     "login": "iernstig",

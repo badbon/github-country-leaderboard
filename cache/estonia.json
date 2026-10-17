@@ -29347,21 +29347,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 600,
-    "publicContributions": 160,
+    "privateContributions": 844,
+    "publicContributions": 182,
     "createdAt": "2017-10-02T12:37:16Z"
-  },
-  {
-    "login": "evassilyev",
-    "name": "Eugene Vassilyev",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/28707951?s=72&v=4",
-    "location": "Tallinn",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2017-05-15T13:23:50Z"
   },
   {
     "login": "CUSTOMATICSESTONIA",
@@ -29408,7 +29396,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 30,
     "createdAt": "2017-08-05T14:52:22Z"
   },
   {
@@ -29420,7 +29408,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2017-04-27T15:16:53Z"
   },
   {
@@ -29442,7 +29430,7 @@
     "location": "Tallinn",
     "company": "Planyard",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 6,
     "publicContributions": 0,
     "createdAt": "2017-11-20T15:12:06Z"
@@ -29456,7 +29444,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 125,
+    "publicContributions": 121,
     "createdAt": "2017-08-06T01:50:12Z"
   },
   {
@@ -29502,7 +29490,7 @@
     "location": "Eesti",
     "company": "TEXTA OÜ",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-09-06T09:55:24Z"
@@ -29527,8 +29515,8 @@
     "company": "Pipedrive",
     "twitterUsername": "",
     "followers": 170,
-    "privateContributions": 195,
-    "publicContributions": 0,
+    "privateContributions": 234,
+    "publicContributions": 7,
     "createdAt": "2016-04-20T18:09:46Z"
   },
   {
@@ -29538,8 +29526,8 @@
     "location": "Tallinn, Estonia",
     "company": "",
     "twitterUsername": "",
-    "followers": 102,
-    "privateContributions": 804,
+    "followers": 101,
+    "privateContributions": 1231,
     "publicContributions": 44,
     "createdAt": "2016-08-04T14:20:55Z"
   },
@@ -29550,9 +29538,9 @@
     "location": "Estonia",
     "company": "@coingaming @mentorshub-hq ",
     "twitterUsername": "jbrainzdotts",
-    "followers": 96,
-    "privateContributions": 328,
-    "publicContributions": 12,
+    "followers": 84,
+    "privateContributions": 50,
+    "publicContributions": 6,
     "createdAt": "2016-12-21T17:15:48Z"
   },
   {
@@ -29562,7 +29550,7 @@
     "location": "Tallinn / Estonia",
     "company": "Novas Worx Consulting",
     "twitterUsername": "",
-    "followers": 79,
+    "followers": 77,
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2016-10-19T16:30:41Z"

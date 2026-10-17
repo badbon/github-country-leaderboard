@@ -29251,7 +29251,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 109,
+    "privateContributions": 73,
     "publicContributions": 161,
     "createdAt": "2023-01-16T19:23:38Z"
   },
@@ -29262,7 +29262,7 @@
     "location": "Ethiopia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 117,
     "createdAt": "2023-09-15T13:38:43Z"
@@ -29270,13 +29270,13 @@
   {
     "login": "teamrsec",
     "name": "Teamr Yheys",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/123044427?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/123044427?s=72&u=5cd9850cab29a89a3c81a9e187467b3e01f7b724&v=4",
     "location": "Addis Ababa, Ethiopia",
     "company": "Private Company",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 40,
     "createdAt": "2023-01-19T02:57:30Z"
   },
   {
@@ -29288,7 +29288,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 249,
+    "publicContributions": 256,
     "createdAt": "2023-07-13T17:35:32Z"
   },
   {
@@ -29300,7 +29300,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 37,
+    "publicContributions": 98,
     "createdAt": "2023-03-03T09:36:14Z"
   },
   {
@@ -29311,8 +29311,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1858,
-    "publicContributions": 179,
+    "privateContributions": 1788,
+    "publicContributions": 159,
     "createdAt": "2023-07-10T20:09:53Z"
   },
   {
@@ -29442,9 +29442,9 @@
     "location": "Addis Ababa, Ethiopia",
     "company": "",
     "twitterUsername": "hale17ot",
-    "followers": 1,
-    "privateContributions": 146,
-    "publicContributions": 32,
+    "followers": 2,
+    "privateContributions": 151,
+    "publicContributions": 77,
     "createdAt": "2023-12-09T21:31:43Z"
   },
   {
