@@ -28086,9 +28086,9 @@
     "location": "Costa Rica",
     "company": "Procter & Gamble",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 2261,
-    "publicContributions": 3,
+    "followers": 3,
+    "privateContributions": 2117,
+    "publicContributions": 0,
     "createdAt": "2020-06-06T00:24:50Z"
   },
   {
@@ -28100,7 +28100,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 61,
+    "publicContributions": 51,
     "createdAt": "2020-12-02T17:12:02Z"
   },
   {
@@ -28111,18 +28111,18 @@
     "company": "Software Engineer",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 823,
+    "privateContributions": 1058,
     "publicContributions": 4,
     "createdAt": "2020-08-14T16:43:02Z"
   },
   {
     "login": "rblsprz",
     "name": "David Robles Pérez",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/65626739?s=72&u=e66f4a1d8e776e920d5a3a304bf2240ae01b993d&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/65626739?s=72&u=c6e0e760ba56cca317338fb09b84a1161d1097c1&v=4",
     "location": "Costa Rica",
     "company": "Publicis Global Delivery (PGD)",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 5,
     "createdAt": "2020-05-19T20:27:42Z"
@@ -28171,7 +28171,7 @@
     "company": "Entrepreneur",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 490,
+    "privateContributions": 496,
     "publicContributions": 0,
     "createdAt": "2020-04-11T10:15:43Z"
   },
@@ -28190,13 +28190,13 @@
   {
     "login": "jose-lainer",
     "name": "Jose Lainer",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/71755283?s=72&u=88af77aebb3ebe53242af4e6664fa8dc0e8f2775&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/71755283?s=72&u=27e2bf2c196126381784f7fb79b35f069606eb73&v=4",
     "location": "Costa Rica",
-    "company": "@databricks",
+    "company": "Databricks",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
+    "privateContributions": 19,
+    "publicContributions": 1,
     "createdAt": "2020-09-23T07:45:30Z"
   },
   {
@@ -28231,7 +28231,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 47,
+    "privateContributions": 13,
     "publicContributions": 0,
     "createdAt": "2020-03-11T03:28:21Z"
   },
@@ -28256,7 +28256,7 @@
     "twitterUsername": "fernandezel_24",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 19,
     "createdAt": "2020-03-14T20:17:32Z"
   },
   {
@@ -28268,7 +28268,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 105,
+    "publicContributions": 42,
     "createdAt": "2020-05-30T22:42:00Z"
   },
   {
@@ -28302,9 +28302,9 @@
     "location": "Costa Rica",
     "company": "Ninguna",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 4,
     "createdAt": "2020-07-13T00:48:16Z"
   },
   {

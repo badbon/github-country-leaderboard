@@ -27355,7 +27355,7 @@
     "company": "None",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 870,
+    "privateContributions": 730,
     "publicContributions": 1,
     "createdAt": "2023-03-04T08:30:30Z"
   },
@@ -27368,7 +27368,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 215,
+    "publicContributions": 220,
     "createdAt": "2023-02-06T20:40:49Z"
   },
   {
@@ -27390,8 +27390,8 @@
     "location": "Ukraine",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 324,
+    "followers": 10,
+    "privateContributions": 325,
     "publicContributions": 0,
     "createdAt": "2023-01-31T21:52:40Z"
   },
@@ -27404,7 +27404,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 105,
+    "publicContributions": 221,
     "createdAt": "2023-01-09T16:26:45Z"
   },
   {
@@ -27415,8 +27415,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 1008,
-    "publicContributions": 0,
+    "privateContributions": 597,
+    "publicContributions": 23,
     "createdAt": "2023-01-11T09:22:47Z"
   },
   {
@@ -27462,9 +27462,9 @@
     "location": "Lviv, Ukraine",
     "company": "Ivan Franko National University of Lviv",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 33,
+    "publicContributions": 124,
     "createdAt": "2023-01-27T22:17:55Z"
   },
   {
@@ -27487,7 +27487,7 @@
     "company": "УжНУ",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 3,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-02-13T11:49:56Z"
   },
@@ -27510,22 +27510,10 @@
     "location": "Zvyagel, Ukraine",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 208,
+    "publicContributions": 122,
     "createdAt": "2023-03-27T11:45:41Z"
-  },
-  {
-    "login": "salko-ua",
-    "name": "SALO",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/125147422?s=72&u=e1670f9bd36a6a743436c9bea18932e86b6e168f&v=4",
-    "location": "Ukraine",
-    "company": "h4folks",
-    "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 37,
-    "publicContributions": 305,
-    "createdAt": "2023-02-11T17:03:56Z"
   },
   {
     "login": "OlgaSusidko",
@@ -27534,21 +27522,21 @@
     "location": "Ukraine",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2023-02-28T15:52:12Z"
   },
   {
     "login": "AndriiStaryk",
-    "name": "Andrii Staryk",
+    "name": "poss1ble",
     "avatarUrl": "https://avatars.githubusercontent.com/u/121547819?s=72&u=9e0001622add8d0ee57ba38b1767baec479e38e9&v=4",
     "location": "Kyiv, Ukraine",
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 319,
-    "publicContributions": 5,
+    "privateContributions": 280,
+    "publicContributions": 10,
     "createdAt": "2022-12-28T09:41:07Z"
   },
   {

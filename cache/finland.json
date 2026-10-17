@@ -27560,7 +27560,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 307,
+    "publicContributions": 338,
     "createdAt": "2022-11-06T17:48:43Z"
   },
   {
@@ -27568,11 +27568,11 @@
     "name": "Abdelrahman Abdeldaim",
     "avatarUrl": "https://avatars.githubusercontent.com/u/101872547?s=72&u=a5a9b1d372426234de550db17f6b4f9021fe7559&v=4",
     "location": "Espoo, Finland",
-    "company": "GIM Robotics",
+    "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1,
-    "publicContributions": 39,
+    "privateContributions": 58,
+    "publicContributions": 2,
     "createdAt": "2022-03-18T11:37:38Z"
   },
   {
@@ -27584,7 +27584,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 76,
+    "publicContributions": 56,
     "createdAt": "2022-01-11T14:49:44Z"
   },
   {
@@ -27620,7 +27620,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 20,
     "createdAt": "2022-09-02T07:24:11Z"
   },
   {
@@ -27632,7 +27632,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 355,
+    "publicContributions": 562,
     "createdAt": "2022-04-26T11:56:36Z"
   },
   {
@@ -27656,7 +27656,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2022-08-26T17:08:43Z"
   },
   {
@@ -27668,7 +27668,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 14,
     "createdAt": "2022-08-22T07:24:55Z"
   },
   {
@@ -27716,7 +27716,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 21,
     "createdAt": "2022-11-09T05:50:41Z"
   },
   {
@@ -27728,7 +27728,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 73,
+    "publicContributions": 92,
     "createdAt": "2022-09-27T07:33:13Z"
   },
   {
@@ -27776,7 +27776,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 1,
     "createdAt": "2022-05-19T13:43:39Z"
   },
   {
@@ -217822,5 +217822,17 @@
     "privateContributions": 0,
     "publicContributions": 32,
     "createdAt": "2021-10-03T11:16:56Z"
+  },
+  {
+    "login": "KalebYohannese",
+    "name": "Kaleb Yohannese",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/125556510?s=72&v=4",
+    "location": "Turku, Finland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 1936,
+    "publicContributions": 33,
+    "createdAt": "2023-02-16T10:17:14Z"
   }
 ]

@@ -27404,7 +27404,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 203,
+    "publicContributions": 232,
     "createdAt": "2022-05-09T08:09:07Z"
   },
   {
@@ -27414,9 +27414,9 @@
     "location": "Zurich, Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 77,
-    "publicContributions": 22,
+    "followers": 3,
+    "privateContributions": 78,
+    "publicContributions": 23,
     "createdAt": "2022-03-03T21:11:10Z"
   },
   {
@@ -27426,9 +27426,9 @@
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 8,
     "createdAt": "2022-03-14T07:43:58Z"
   },
   {
@@ -27452,7 +27452,7 @@
     "twitterUsername": "MarcoBertuletti",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 35,
+    "publicContributions": 25,
     "createdAt": "2022-03-09T07:50:23Z"
   },
   {
@@ -27464,20 +27464,8 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 67,
+    "publicContributions": 44,
     "createdAt": "2022-02-24T14:00:50Z"
-  },
-  {
-    "login": "AtiosAG",
-    "name": "Atios AG",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/106798797?s=72&u=c03853b6bbc13209a8628168d377d71429ffe1b5&v=4",
-    "location": "Zurich, Switzerland",
-    "company": "Atios AG",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 7,
-    "createdAt": "2022-06-03T05:58:33Z"
   },
   {
     "login": "angelgldh",
@@ -27498,7 +27486,7 @@
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-05-06T05:42:09Z"
@@ -27523,7 +27511,7 @@
     "company": "Alloy Therapeutics",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 766,
+    "privateContributions": 4615,
     "publicContributions": 0,
     "createdAt": "2022-06-01T13:23:49Z"
   },
@@ -27536,7 +27524,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2022-06-21T15:17:39Z"
   },
   {
@@ -27548,7 +27536,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 105,
+    "publicContributions": 17,
     "createdAt": "2022-02-24T07:14:54Z"
   },
   {
@@ -27607,7 +27595,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 148,
+    "privateContributions": 160,
     "publicContributions": 0,
     "createdAt": "2022-02-10T18:54:34Z"
   },

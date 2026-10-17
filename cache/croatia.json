@@ -28076,7 +28076,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 5,
-    "publicContributions": 92,
+    "publicContributions": 89,
     "createdAt": "2018-04-27T09:18:21Z"
   },
   {
@@ -28087,7 +28087,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 5,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-11-24T17:02:31Z"
   },
@@ -28096,11 +28096,11 @@
     "name": "Aljoša Oblak",
     "avatarUrl": "https://avatars.githubusercontent.com/u/44276682?s=72&v=4",
     "location": "Pula, Croatia",
-    "company": "",
+    "company": "Oblak Digital Labs",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 144,
     "createdAt": "2018-10-18T21:01:57Z"
   },
   {
@@ -28112,7 +28112,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 863,
+    "publicContributions": 778,
     "createdAt": "2018-07-13T12:36:06Z"
   },
   {
@@ -28135,7 +28135,7 @@
     "company": "Happening",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 814,
+    "privateContributions": 790,
     "publicContributions": 0,
     "createdAt": "2018-01-30T12:56:39Z"
   },
@@ -28148,13 +28148,13 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 30,
     "createdAt": "2018-01-30T22:26:49Z"
   },
   {
     "login": "Drassonax",
     "name": "Hrvoje Vujnović",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/40635532?s=72&u=b41ddad4389972cf0dbb3b72dc220b4f8979d176&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/40635532?s=72&v=4",
     "location": "Croatia",
     "company": "",
     "twitterUsername": "",
@@ -28207,8 +28207,8 @@
     "company": "Software Engineer at dSPACE",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 183,
-    "publicContributions": 18,
+    "privateContributions": 127,
+    "publicContributions": 2,
     "createdAt": "2018-11-05T20:26:00Z"
   },
   {
@@ -28243,8 +28243,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 14,
+    "privateContributions": 59,
+    "publicContributions": 0,
     "createdAt": "2018-11-10T15:43:56Z"
   },
   {
@@ -28268,7 +28268,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 18,
     "createdAt": "2018-01-13T20:29:29Z"
   },
   {

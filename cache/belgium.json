@@ -27884,7 +27884,7 @@
     "twitterUsername": "NielsVanWoensel",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2022-03-07T13:16:20Z"
   },
   {
@@ -27896,7 +27896,7 @@
     "twitterUsername": "karimi_solomon",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 3,
     "createdAt": "2022-12-10T15:15:30Z"
   },
   {
@@ -27920,7 +27920,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 58,
+    "publicContributions": 54,
     "createdAt": "2022-06-20T00:08:20Z"
   },
   {
@@ -27932,7 +27932,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 3,
     "createdAt": "2022-01-09T12:11:34Z"
   },
   {
@@ -27955,21 +27955,9 @@
     "company": "Discompany",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 128,
+    "privateContributions": 77,
     "publicContributions": 0,
     "createdAt": "2022-01-06T16:42:34Z"
-  },
-  {
-    "login": "CK2O",
-    "name": "Cormac Kerins",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/98518657?s=72&u=414aa39f62280e1f6d1ba6676ba9d91e2604ba28&v=4",
-    "location": "Belgium",
-    "company": "Turas",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 1388,
-    "publicContributions": 5,
-    "createdAt": "2022-01-27T08:47:56Z"
   },
   {
     "login": "App2web",
@@ -28002,9 +27990,9 @@
     "location": "Brussels / Copenhagen",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 56,
+    "publicContributions": 57,
     "createdAt": "2021-11-01T21:35:53Z"
   },
   {
@@ -28014,7 +28002,7 @@
     "location": "Belgium / Luxembourg",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 9,
     "privateContributions": 0,
     "publicContributions": 38,
     "createdAt": "2018-06-27T09:56:08Z"
@@ -28027,8 +28015,8 @@
     "company": "martingeorgiev.com",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 85,
-    "publicContributions": 71,
+    "privateContributions": 83,
+    "publicContributions": 64,
     "createdAt": "2018-02-06T08:25:45Z"
   },
   {
@@ -28039,8 +28027,8 @@
     "company": "@42School",
     "twitterUsername": "",
     "followers": 76,
-    "privateContributions": 396,
-    "publicContributions": 86,
+    "privateContributions": 551,
+    "publicContributions": 68,
     "createdAt": "2022-02-09T10:05:32Z"
   },
   {
@@ -28050,7 +28038,7 @@
     "location": "Brussels",
     "company": "",
     "twitterUsername": "",
-    "followers": 66,
+    "followers": 65,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-08-26T02:14:48Z"
@@ -28062,9 +28050,9 @@
     "location": "Brussels",
     "company": "",
     "twitterUsername": "",
-    "followers": 45,
+    "followers": 40,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 31,
     "createdAt": "2022-05-12T15:36:26Z"
   },
   {
@@ -28075,8 +28063,8 @@
     "company": "@StepInsight",
     "twitterUsername": "",
     "followers": 35,
-    "privateContributions": 1765,
-    "publicContributions": 10,
+    "privateContributions": 1672,
+    "publicContributions": 155,
     "createdAt": "2022-02-22T16:04:51Z"
   },
   {
