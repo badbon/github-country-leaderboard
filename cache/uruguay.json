@@ -28100,7 +28100,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 2,
     "createdAt": "2020-04-03T02:53:59Z"
   },
   {
@@ -28111,7 +28111,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 57,
+    "privateContributions": 58,
     "publicContributions": 5,
     "createdAt": "2020-07-05T01:16:15Z"
   },
@@ -28148,7 +28148,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 1,
     "createdAt": "2020-11-09T12:47:47Z"
   },
   {
@@ -28171,7 +28171,7 @@
     "company": "@orangeloops",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 1126,
+    "privateContributions": 1096,
     "publicContributions": 0,
     "createdAt": "2020-06-01T15:29:12Z"
   },
@@ -28184,7 +28184,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 0,
     "createdAt": "2020-06-21T23:54:13Z"
   },
   {
@@ -28195,8 +28195,8 @@
     "company": "Devsys Compliance Technology",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 161,
-    "publicContributions": 79,
+    "privateContributions": 416,
+    "publicContributions": 117,
     "createdAt": "2020-04-21T00:41:32Z"
   },
   {
@@ -28226,21 +28226,21 @@
   {
     "login": "JoacinB",
     "name": "Joaquín Borges",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/73504597?s=72&u=cf3862b1e99643ff91ee6e776119fb172f646a48&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/73504597?s=72&u=c063f78b3f3103dc9336b3296562f5e1f68248bc&v=4",
     "location": "Montevideo, Uruguay.",
     "company": "Avero Health (via Radical)",
     "twitterUsername": "Joaco_Borges",
     "followers": 4,
-    "privateContributions": 1153,
-    "publicContributions": 85,
+    "privateContributions": 1205,
+    "publicContributions": 83,
     "createdAt": "2020-10-26T23:21:22Z"
   },
   {
     "login": "sebarivero10",
     "name": "Sebastian Rivero",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/62648492?s=72&u=f99932f2566915e6b631410aedc12cfba5106261&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/62648492?s=72&u=993b471b45f506d75e98e4ce70019fc98d1b1e93&v=4",
     "location": "Montevideo, Uruguay",
-    "company": "Universidad ORT Uruguay",
+    "company": "",
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
@@ -28255,7 +28255,7 @@
     "company": "@cedarcode",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 1571,
+    "privateContributions": 1651,
     "publicContributions": 0,
     "createdAt": "2020-03-25T22:45:03Z"
   },
@@ -28266,7 +28266,7 @@
     "location": "Uruguay",
     "company": "Montevideo",
     "twitterUsername": "etereals",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-04-26T05:27:17Z"
@@ -28280,7 +28280,7 @@
     "twitterUsername": "JorcinTomas",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 4,
     "createdAt": "2020-04-13T22:56:59Z"
   },
   {
@@ -28303,8 +28303,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 250,
-    "publicContributions": 20,
+    "privateContributions": 281,
+    "publicContributions": 1,
     "createdAt": "2020-04-26T22:05:31Z"
   },
   {
@@ -28314,9 +28314,9 @@
     "location": "Uruguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 42,
+    "publicContributions": 30,
     "createdAt": "2020-01-19T22:53:16Z"
   },
   {
@@ -28326,7 +28326,7 @@
     "location": "Uruguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-09-15T13:32:15Z"

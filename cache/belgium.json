@@ -28087,8 +28087,8 @@
     "company": "Student at HE Vinci / 42 Belgium",
     "twitterUsername": "",
     "followers": 21,
-    "privateContributions": 76,
-    "publicContributions": 63,
+    "privateContributions": 359,
+    "publicContributions": 25,
     "createdAt": "2022-01-27T14:58:14Z"
   },
   {
@@ -28099,8 +28099,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 19,
-    "privateContributions": 31,
-    "publicContributions": 3,
+    "privateContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2022-09-10T14:43:44Z"
   },
   {
@@ -28110,7 +28110,7 @@
     "location": "Brussels",
     "company": "@becodeorg",
     "twitterUsername": "",
-    "followers": 19,
+    "followers": 17,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-06-07T11:59:23Z"
@@ -28124,7 +28124,7 @@
     "twitterUsername": "",
     "followers": 17,
     "privateContributions": 54,
-    "publicContributions": 183,
+    "publicContributions": 218,
     "createdAt": "2022-12-09T10:15:07Z"
   },
   {
@@ -28146,9 +28146,9 @@
     "location": "Brussels",
     "company": "",
     "twitterUsername": "",
-    "followers": 15,
-    "privateContributions": 752,
-    "publicContributions": 0,
+    "followers": 17,
+    "privateContributions": 789,
+    "publicContributions": 11,
     "createdAt": "2022-11-10T19:25:45Z"
   },
   {
@@ -28158,9 +28158,9 @@
     "location": "Brussels",
     "company": "",
     "twitterUsername": "",
-    "followers": 15,
+    "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 9,
     "createdAt": "2022-05-12T13:46:20Z"
   },
   {
@@ -28171,8 +28171,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 14,
-    "privateContributions": 2758,
-    "publicContributions": 71,
+    "privateContributions": 4136,
+    "publicContributions": 502,
     "createdAt": "2022-02-13T03:51:24Z"
   },
   {
@@ -28183,7 +28183,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 14,
-    "privateContributions": 84,
+    "privateContributions": 91,
     "publicContributions": 0,
     "createdAt": "2022-06-02T17:33:19Z"
   },
@@ -28200,27 +28200,15 @@
     "createdAt": "2022-10-15T22:06:16Z"
   },
   {
-    "login": "dspodina",
-    "name": "Daria Spodina",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/113624465?s=72&u=d286346bded611e79f4e96de1797a9f6608d2602&v=4",
-    "location": "Brussels",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 13,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2022-09-15T16:07:08Z"
-  },
-  {
     "login": "emily-palaska",
-    "name": "emily palaska",
+    "name": "aimilia (emily) palaska",
     "avatarUrl": "https://avatars.githubusercontent.com/u/103355365?s=72&u=6335b8fbf6e8643e53207f017dee8b1929d3d81b&v=4",
     "location": "Pleinlaan 9, Ixelles 1050, Brussels",
     "company": "Vrije Universiteit Brussels",
     "twitterUsername": "",
-    "followers": 13,
+    "followers": 14,
     "privateContributions": 1,
-    "publicContributions": 224,
+    "publicContributions": 250,
     "createdAt": "2022-04-10T07:46:28Z"
   },
   {
@@ -28254,7 +28242,7 @@
     "location": "Brussels",
     "company": "",
     "twitterUsername": "de_audric",
-    "followers": 11,
+    "followers": 9,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-09-19T09:34:48Z"
@@ -28266,7 +28254,7 @@
     "location": "Brussels",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 12,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-03-12T08:14:21Z"
@@ -28291,7 +28279,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 163,
+    "privateContributions": 166,
     "publicContributions": 13,
     "createdAt": "2022-01-21T22:14:18Z"
   },
@@ -28315,8 +28303,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 85,
-    "publicContributions": 46,
+    "privateContributions": 83,
+    "publicContributions": 79,
     "createdAt": "2022-11-08T23:04:59Z"
   },
   {

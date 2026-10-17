@@ -28124,7 +28124,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 0,
     "createdAt": "2022-04-16T09:45:22Z"
   },
   {
@@ -28172,7 +28172,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 27,
     "createdAt": "2022-03-08T12:35:54Z"
   },
   {
@@ -28183,7 +28183,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
+    "privateContributions": 258,
     "publicContributions": 0,
     "createdAt": "2022-04-27T11:34:59Z"
   },
@@ -28208,7 +28208,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 120,
+    "publicContributions": 129,
     "createdAt": "2022-06-17T13:49:17Z"
   },
   {
@@ -28232,7 +28232,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 13,
     "createdAt": "2022-03-22T08:13:31Z"
   },
   {
@@ -28268,20 +28268,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 491,
+    "publicContributions": 656,
     "createdAt": "2022-04-19T17:36:37Z"
-  },
-  {
-    "login": "jjsnot",
-    "name": "Heorhii Shoilytsia",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/114869948?s=72&u=74f7980ee7a23e919e575ad70eb52a5e647659ea&v=4",
-    "location": "Sankt-Pölten, Austria",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 1,
-    "publicContributions": 17,
-    "createdAt": "2022-10-02T15:15:00Z"
   },
   {
     "login": "MatykoBr",

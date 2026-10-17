@@ -27812,7 +27812,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 88,
     "createdAt": "2022-05-20T23:45:17Z"
   },
   {
@@ -27822,7 +27822,7 @@
     "location": "Dublin, Ireland",
     "company": "Student",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-10-19T20:23:16Z"
@@ -27836,7 +27836,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 71,
+    "publicContributions": 30,
     "createdAt": "2022-11-07T19:00:49Z"
   },
   {
@@ -27884,7 +27884,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 264,
+    "publicContributions": 268,
     "createdAt": "2022-02-09T12:22:20Z"
   },
   {
@@ -27895,7 +27895,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 0,
+    "privateContributions": 4,
     "publicContributions": 0,
     "createdAt": "2022-03-12T12:21:52Z"
   },
@@ -27943,8 +27943,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 228,
-    "publicContributions": 130,
+    "privateContributions": 231,
+    "publicContributions": 154,
     "createdAt": "2022-05-14T16:18:30Z"
   },
   {
@@ -27955,8 +27955,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 208,
-    "publicContributions": 514,
+    "privateContributions": 397,
+    "publicContributions": 518,
     "createdAt": "2022-11-19T20:56:51Z"
   },
   {
@@ -27968,7 +27968,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 35,
+    "publicContributions": 37,
     "createdAt": "2022-01-18T18:06:45Z"
   },
   {
@@ -28003,8 +28003,8 @@
     "company": "Pharmaledger Association",
     "twitterUsername": "cyberinvasion",
     "followers": 2,
-    "privateContributions": 1949,
-    "publicContributions": 172,
+    "privateContributions": 2164,
+    "publicContributions": 171,
     "createdAt": "2022-05-11T08:43:04Z"
   },
   {
@@ -28027,21 +28027,9 @@
     "company": "",
     "twitterUsername": "barbazzma",
     "followers": 2,
-    "privateContributions": 405,
-    "publicContributions": 72,
+    "privateContributions": 366,
+    "publicContributions": 71,
     "createdAt": "2022-04-11T19:21:17Z"
-  },
-  {
-    "login": "beccac00ke",
-    "name": "Becca Cooke",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/117293046?s=72&u=827c71e9d7e80fb1786b5632d930fd40720295e5&v=4",
-    "location": "Ireland",
-    "company": "AVEVA",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2022-11-02T14:43:19Z"
   },
   {
     "login": "RockfieldIT",
