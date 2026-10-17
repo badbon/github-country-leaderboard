@@ -759586,5 +759586,65 @@
     "privateContributions": 1279,
     "publicContributions": 985,
     "createdAt": "2014-03-23T15:33:40Z"
+  },
+  {
+    "login": "ARKANAALZAIR",
+    "name": "Arkana Alzair",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298277735?s=72&u=6be14ed3885e214bd812e2b6b8abd67ae77597e8&v=4",
+    "location": "Indonesia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 25,
+    "createdAt": "2026-06-30T12:45:42Z"
+  },
+  {
+    "login": "elcodebase",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298294209?s=72&u=15b079628f822fcf2e3c5328eb16f026c2bcf81a&v=4",
+    "location": "Indonesia",
+    "company": "University of Indonesia",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 70,
+    "publicContributions": 51,
+    "createdAt": "2026-06-30T13:36:09Z"
+  },
+  {
+    "login": "rayhanferdiansyah1-alt",
+    "name": "Rayhan F.M",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298411836?s=72&u=136ad0e43b476da9b9dcf7ec1321ad3fdb474258&v=4",
+    "location": "Indonesia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 119,
+    "createdAt": "2026-06-30T19:27:28Z"
+  },
+  {
+    "login": "GoldenSinapsis",
+    "name": "GoldenSinapsis",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298452186?s=72&u=39964af6751c04fc218bc38a6b837b75d153ad80&v=4",
+    "location": "Indonesia",
+    "company": "GoldenSinapsis",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2026-06-30T21:38:10Z"
+  },
+  {
+    "login": "nwdoang",
+    "name": "Marchel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298305786?s=72&u=9adb5315367ddeefe48a75040696211b8775d035&v=4",
+    "location": "Indonesia",
+    "company": "UniPin",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2026-06-30T14:01:42Z"
   }
 ]
