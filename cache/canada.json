@@ -1380043,7 +1380043,7 @@
     "company": "Arcnovus",
     "twitterUsername": "",
     "followers": 327,
-    "privateContributions": 7804,
+    "privateContributions": 7806,
     "publicContributions": 136,
     "createdAt": "2013-07-06T04:27:19Z"
   },
@@ -1425370,5 +1425370,29 @@
     "privateContributions": 39,
     "publicContributions": 58,
     "createdAt": "2021-08-14T20:03:01Z"
+  },
+  {
+    "login": "diegomera95",
+    "name": "Diego Mera",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/110945032?s=72&u=a7bf8128c9d7612edeb5a9fd3b03f25575dda050&v=4",
+    "location": "Vancouver",
+    "company": "Hamuq Agency",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2022-08-09T22:58:01Z"
+  },
+  {
+    "login": "demarillacizere",
+    "name": "Demarillac Izere",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/64693831?s=72&u=9d636b61d38b26dea061bfe7b92880a242e6199b&v=4",
+    "location": "Vancouver, Canada",
+    "company": "The University of British Columbia",
+    "twitterUsername": "",
+    "followers": 35,
+    "privateContributions": 0,
+    "publicContributions": 16,
+    "createdAt": "2020-05-02T13:48:54Z"
   }
 ]
