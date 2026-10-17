@@ -41,7 +41,7 @@ Indexed users: 1,069
 | 2 | [ramonfabrega](https://github.com/ramonfabrega) | Ramon | Panama | 5,946 |
 | 3 | [ElenaRevicheva](https://github.com/ElenaRevicheva) | Elena | Panama, Panama city | 5,746 |
 | 4 | [nandocdev](https://github.com/nandocdev) | Fernando Castillo Valdés | Panama, Panama City | 2,689 |
-| 5 | [dsfaccini](https://github.com/dsfaccini) | David SF | Panama City | 2,485 |
+| 5 | [dsfaccini](https://github.com/dsfaccini) | David SF | Panama City | 2,608 |
 | 6 | [ergofobe](https://github.com/ergofobe) | Jim Phillips | Panama | 2,166 |
 | 7 | [Yizack](https://github.com/Yizack) | Yizack Rangel | Panama | 1,975 |
 | 8 | [kingg22](https://github.com/kingg22) | Rey | Panama | 1,947 |
@@ -53,8 +53,8 @@ Indexed users: 1,069
 | 14 | [kelvinhe04](https://github.com/kelvinhe04) | Kelvin He Wu | Panama | 1,181 |
 | 15 | [jquesada92](https://github.com/jquesada92) | Jose Quesada | Panama | 1,158 |
 | 16 | [neithanmo](https://github.com/neithanmo) | Natanael Mojica | Panama City, Panama | 1,158 |
-| 17 | [ahmedrangel](https://github.com/ahmedrangel) | Ahmed Rangel | Panama | 1,140 |
-| 18 | [alexandermorales-dev](https://github.com/alexandermorales-dev) | Alexander Morales | Panama/Venezuela | 1,119 |
+| 17 | [alexandermorales-dev](https://github.com/alexandermorales-dev) | Alexander Morales | Panama/Venezuela | 1,146 |
+| 18 | [ahmedrangel](https://github.com/ahmedrangel) | Ahmed Rangel | Panama | 1,140 |
 | 19 | [swlarot](https://github.com/swlarot) | José Luis González Montenegro | Panama | 1,008 |
 | 20 | [iaretechnician](https://github.com/iaretechnician) | Frank Harris | Panama City Beach FL | 948 |
 
@@ -78,9 +78,9 @@ Indexed users: 1,069
 | 14 | [ibarria0](https://github.com/ibarria0) | Ivan Barria | Panama | 57 |
 | 15 | [joseabraham](https://github.com/joseabraham) | Jose Abraham Garcia | Panama | 56 |
 | 16 | [alexishevia](https://github.com/alexishevia) | Alexis Hevia | Panama City, Panama | 54 |
-| 17 | [hoolymama](https://github.com/hoolymama) | Julian Mann | Panama | 52 |
-| 18 | [dsfaccini](https://github.com/dsfaccini) | David SF | Panama City | 50 |
+| 17 | [dsfaccini](https://github.com/dsfaccini) | David SF | Panama City | 52 |
+| 18 | [hoolymama](https://github.com/hoolymama) | Julian Mann | Panama | 52 |
 | 19 | [Commandtechno](https://github.com/Commandtechno) | Techno | David, Panama | 49 |
 | 20 | [Iardo](https://github.com/Iardo) | Ivan Ramos | Panama | 47 |
 
-Generated: 2026-10-17T21:18:02.659Z
+Generated: 2026-10-17T23:37:20.431Z

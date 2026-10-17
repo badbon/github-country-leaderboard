@@ -1,6 +1,6 @@
 # Followers - Montenegro
 
-Generated: 2026-10-17T21:09:11.836Z
+Generated: 2026-10-17T23:28:01.720Z
 
 Users: 888
 
@@ -18,7 +18,7 @@ Users: 888
 | 10 | [cblp](https://github.com/cblp) | Yury Syrovetsky |  |  | Montenegro | 142 |
 | 11 | [lockie](https://github.com/lockie) | Andrew Kravchuk |  | awkravchuk | Montenegro, Podgorica | 136 |
 | 12 | [arikon](https://github.com/arikon) | Sergey Belov | Yandex |  | Tivat, Montenegro | 131 |
-| 13 | [mifth](https://github.com/mifth) | mifth |  |  | Montenegro | 130 |
+| 13 | [mifth](https://github.com/mifth) | mifth |  |  | Montenegro | 129 |
 | 14 | [ESA1979](https://github.com/ESA1979) | Emrah Süleyman Atalay |  | emrahatalay79 | Montenegro | 127 |
 | 15 | [gh110919](https://github.com/gh110919) | ilia sergeev | Webonizer |  | Podgorica | 127 |
 | 16 | [hedza06](https://github.com/hedza06) | Heril Muratovic |  | herilmuratovic | Montenegro, Podgorica | 107 |

@@ -1,8 +1,8 @@
 # Public Contributions - North Macedonia
 
-Generated: 2026-10-17T21:14:54.840Z
+Generated: 2026-10-17T23:34:32.086Z
 
-Users: 1928
+Users: 1927
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -19,10 +19,10 @@ Users: 1928
 | 11 | [martintrifunov](https://github.com/martintrifunov) | Martin Trifunov | CodeChem |  | Skopje, North Macedonia | 1008 |
 | 12 | [isekovanic](https://github.com/isekovanic) | Ivan Sekovanikj | @GetStream |  | Skopje, Macedonia | 1006 |
 | 13 | [ardijancuri](https://github.com/ardijancuri) | Ardijan Curi | ONINOVA |  | Skopje | 982 |
-| 14 | [bfzli](https://github.com/bfzli) | Benjamin |  | bfzli | North Macedonia | 933 |
-| 15 | [ssbarbee](https://github.com/ssbarbee) |  |  |  | Skopje, Macedonia | 890 |
-| 16 | [gocemitevski](https://github.com/gocemitevski) | Goce Mitevski |  | GoceMitevski | Skopje, North Macedonia | 887 |
-| 17 | [stojce](https://github.com/stojce) | Stojce Slavkovski |  |  | Skopje, Macedonia | 859 |
-| 18 | [KralMarko123](https://github.com/KralMarko123) | Marko Markovikj | Hornetsecurity |  | Skopje | 839 |
-| 19 | [bor0](https://github.com/bor0) | Boro Sitnikovski | @Automattic | BSitnikovski | Skopje, North Macedonia | 814 |
-| 20 | [NikoDola](https://github.com/NikoDola) | Nikola Dolovski (niko_dola) |  |  | Bitola/Macedonia | 802 |
+| 14 | [ssbarbee](https://github.com/ssbarbee) |  |  |  | Skopje, Macedonia | 890 |
+| 15 | [gocemitevski](https://github.com/gocemitevski) | Goce Mitevski |  | GoceMitevski | Skopje, North Macedonia | 887 |
+| 16 | [stojce](https://github.com/stojce) | Stojce Slavkovski |  |  | Skopje, Macedonia | 859 |
+| 17 | [KralMarko123](https://github.com/KralMarko123) | Marko Markovikj | Hornetsecurity |  | Skopje | 839 |
+| 18 | [bor0](https://github.com/bor0) | Boro Sitnikovski | @Automattic | BSitnikovski | Skopje, North Macedonia | 814 |
+| 19 | [NikoDola](https://github.com/NikoDola) | Nikola Dolovski (niko_dola) |  |  | Bitola/Macedonia | 802 |
+| 20 | [antonio-ivanovski](https://github.com/antonio-ivanovski) | Antonio |  | antonioivski | North Macedonia | 712 |

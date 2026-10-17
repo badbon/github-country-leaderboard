@@ -18,19 +18,19 @@ Indexed users: 160
 | 4 | [LomNtetha](https://github.com/LomNtetha) | Lumkile Ntetha | Maseru | 2,052 |
 | 5 | [KamoheloKoali](https://github.com/KamoheloKoali) | Kamohelo Koali | Lesotho | 2,003 |
 | 6 | [Montso-Matlaletsa](https://github.com/Montso-Matlaletsa) | Montso Matlaletsa | Maseru, Lesotho | 1,018 |
-| 7 | [hitman1c](https://github.com/hitman1c) | SechabaLaptopTracker | Lesotho,Maseru | 919 |
+| 7 | [hitman1c](https://github.com/hitman1c) | SechabaLaptopTracker | Lesotho,Maseru | 932 |
 | 8 | [kaneloramokhele](https://github.com/kaneloramokhele) | Ramokhele | Maseru | 814 |
 | 9 | [mokaty1818795](https://github.com/mokaty1818795) | Tlotliso Mokati | Maseru Qoaling | 693 |
 | 10 | [KenedyMoremi](https://github.com/KenedyMoremi) | Tumisang Moremi | Maseru | 687 |
 | 11 | [DevLereko](https://github.com/DevLereko) | Lereko Foloko | Maseru, Lesotho | 560 |
 | 12 | [LNkholise](https://github.com/LNkholise) | Leonard Nkholise | Maseru, Lesotho | 508 |
 | 13 | [MissPurrple](https://github.com/MissPurrple) | Miss Purple | Lesotho  | 430 |
-| 14 | [khauta](https://github.com/khauta) | Khauta Maliehe | Maseru, Lesotho | 346 |
-| 15 | [Matela-cyber](https://github.com/Matela-cyber) | Vicent Matela | Lesotho | 319 |
-| 16 | [tefol-hub](https://github.com/tefol-hub) | Tefo Leche | Lesotho | 295 |
-| 17 | [lebusa](https://github.com/lebusa) | Motebang | Maseru, Lesotho | 290 |
-| 18 | [setsoto](https://github.com/setsoto) | Setsoto | Lesotho | 264 |
-| 19 | [Thato-Motseki](https://github.com/Thato-Motseki) | Thato Motseki | Lesotho, Maseru | 257 |
+| 14 | [Thato-Motseki](https://github.com/Thato-Motseki) | Thato Motseki | Lesotho, Maseru | 352 |
+| 15 | [khauta](https://github.com/khauta) | Khauta Maliehe | Maseru, Lesotho | 346 |
+| 16 | [Matela-cyber](https://github.com/Matela-cyber) | Vicent Matela | Lesotho | 319 |
+| 17 | [tefol-hub](https://github.com/tefol-hub) | Tefo Leche | Lesotho | 295 |
+| 18 | [lebusa](https://github.com/lebusa) | Motebang | Maseru, Lesotho | 290 |
+| 19 | [setsoto](https://github.com/setsoto) | Setsoto | Lesotho | 264 |
 | 20 | [kananelotseisa](https://github.com/kananelotseisa) | Kananelo Ts'eisa | Lesotho | 238 |
 
 ## Public Contributions
@@ -62,10 +62,10 @@ Indexed users: 160
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [KamoheloKoali](https://github.com/KamoheloKoali) | Kamohelo Koali | Lesotho | 241 |
+| 1 | [KamoheloKoali](https://github.com/KamoheloKoali) | Kamohelo Koali | Lesotho | 251 |
 | 2 | [LomNtetha](https://github.com/LomNtetha) | Lumkile Ntetha | Maseru | 215 |
 | 3 | [ocaes](https://github.com/ocaes) | Tsitso Mafantiri | Lesotho | 114 |
-| 4 | [hitman1c](https://github.com/hitman1c) | SechabaLaptopTracker | Lesotho,Maseru | 60 |
+| 4 | [hitman1c](https://github.com/hitman1c) | SechabaLaptopTracker | Lesotho,Maseru | 61 |
 | 5 | [Tumisangkhabisi](https://github.com/Tumisangkhabisi) | Tumisang khabisi | Lesotho, maseru | 54 |
 | 6 | [Lemohang](https://github.com/Lemohang) | Lemohang57 | Maseru  | 45 |
 | 7 | [khauta](https://github.com/khauta) | Khauta Maliehe | Maseru, Lesotho | 43 |
@@ -83,4 +83,4 @@ Indexed users: 160
 | 19 | [lotesm](https://github.com/lotesm) | Lotes Molapo | Maseru, Lesotho | 13 |
 | 20 | [entsoereng](https://github.com/entsoereng) | Mokonyana Ntsoereng | Lesotho | 12 |
 
-Generated: 2026-10-17T20:59:00.193Z
+Generated: 2026-10-17T23:18:23.774Z

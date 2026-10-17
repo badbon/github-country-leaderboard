@@ -1,6 +1,6 @@
 # Total Contributions - Myanmar
 
-Generated: 2026-10-17T21:11:36.943Z
+Generated: 2026-10-17T23:29:52.703Z
 
 Users: 2057
 
@@ -16,8 +16,8 @@ Users: 2057
 | 8 | [kokim2022](https://github.com/kokim2022) | hwaung | Klink Myanmar, Oakhouse Technology |  | Yangon, Myanmar | 4750 |
 | 9 | [kwarnkham](https://github.com/kwarnkham) | SAI KWRN KHAM |  |  | Yangon, Myanmar | 4699 |
 | 10 | [kyawkoko232](https://github.com/kyawkoko232) | Kyaw Ko Ko | - | kyawkoko232 | Yangon, Myanmar(Burma) | 4580 |
-| 11 | [kyawhtetyang](https://github.com/kyawhtetyang) | Kyaw Htet |  |  | Myanmar | 4200 |
-| 12 | [why-a-en](https://github.com/why-a-en) | Yan Min Thwin | Message Spring | yanminthwin | Yangon, Myanmar (Burma) | 4053 |
+| 11 | [why-a-en](https://github.com/why-a-en) | Yan Min Thwin | Message Spring | yanminthwin | Yangon, Myanmar (Burma) | 4201 |
+| 12 | [kyawhtetyang](https://github.com/kyawhtetyang) | Kyaw Htet |  |  | Myanmar | 4200 |
 | 13 | [thanthtooaung-coding](https://github.com/thanthtooaung-coding) | Thant Htoo Aung | Laconic | VinnnDev | Yangon, Myanmar | 3888 |
 | 14 | [myatminag](https://github.com/myatminag) | Myat Min Aung | AYA Bank (Innovation Labs) |  | Yangon, Myanmar | 3857 |
 | 15 | [Hein-HtetSan](https://github.com/Hein-HtetSan) | dev@hnhts | Freelance |  | Myanmar, Yangon | 3664 |

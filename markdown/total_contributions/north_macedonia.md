@@ -1,8 +1,8 @@
 # Total Contributions - North Macedonia
 
-Generated: 2026-10-17T21:14:54.840Z
+Generated: 2026-10-17T23:34:32.086Z
 
-Users: 1928
+Users: 1927
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -10,19 +10,19 @@ Users: 1928
 | 2 | [ssbarbee](https://github.com/ssbarbee) |  |  |  | Skopje, Macedonia | 10836 |
 | 3 | [Bogatinovski](https://github.com/Bogatinovski) | Dejan Bogatinovski |  |  | Macedonia [FYROM] | 9351 |
 | 4 | [DarkoMK](https://github.com/DarkoMK) | Darko Cebov |  |  | Kochani, Macedonia | 9136 |
-| 5 | [bfzli](https://github.com/bfzli) | Benjamin |  | bfzli | North Macedonia | 7521 |
-| 6 | [nushkovg](https://github.com/nushkovg) | Goran Nushkov |  |  | Skopje, North Macedonia | 7086 |
-| 7 | [davorminchorov](https://github.com/davorminchorov) | Davor Minchorov |  | davorminchorov | Skopje, Macedonia | 6675 |
-| 8 | [andrejsshell](https://github.com/andrejsshell) | Andrej | @usekaneo | andrejsshell | Skopje | 6054 |
-| 9 | [sasojadrovski](https://github.com/sasojadrovski) | Sasho Jadrovski |  | sasojadrovski | Skopje, Macedonia | 5666 |
-| 10 | [markopetrov1](https://github.com/markopetrov1) | Marko Petrov | @iCardioAI |  | Skopje, Macedonia | 5388 |
-| 11 | [simeonmarkoski](https://github.com/simeonmarkoski) | Simeon Markoski | @silyze |  | Skopje, Macedonia | 5204 |
-| 12 | [DBozhinovski](https://github.com/DBozhinovski) | Darko Bozhinovski | @axiomatic-dev | d_bozhinovski | Skopje, Macedonia | 5146 |
-| 13 | [danielilievskii](https://github.com/danielilievskii) | Daniel Ilievski | Intertec.io |  | Skopje, North Macedonia | 4747 |
-| 14 | [Delemangi](https://github.com/Delemangi) | Stefan Milev | @codechem |  | Skopje, North Macedonia | 4673 |
-| 15 | [Shekswess](https://github.com/Shekswess) | Bojan Jakimovski | Loka | Shekswess | Skopje, Macedonia | 4185 |
-| 16 | [visar](https://github.com/visar) | Visar Zejnullahu |  |  | Skopje, Macedonia | 4148 |
-| 17 | [vetonshabani0](https://github.com/vetonshabani0) | Veton Shabani |  |  | Skopje | 4075 |
-| 18 | [andreyagovski](https://github.com/andreyagovski) | Andrey |  |  | Macedonia | 3997 |
-| 19 | [nikola-n](https://github.com/nikola-n) | Nikola | @CircleLinkHealth | nikola_najdov | Veles, Macedonia | 3884 |
-| 20 | [M9Mike](https://github.com/M9Mike) | Mihail Veljanoski |  |  | Skopje, Macedonia | 3747 |
+| 5 | [nushkovg](https://github.com/nushkovg) | Goran Nushkov |  |  | Skopje, North Macedonia | 7086 |
+| 6 | [davorminchorov](https://github.com/davorminchorov) | Davor Minchorov |  | davorminchorov | Skopje, Macedonia | 6675 |
+| 7 | [andrejsshell](https://github.com/andrejsshell) | Andrej | @usekaneo | andrejsshell | Skopje | 6054 |
+| 8 | [sasojadrovski](https://github.com/sasojadrovski) | Sasho Jadrovski |  | sasojadrovski | Skopje, Macedonia | 5666 |
+| 9 | [markopetrov1](https://github.com/markopetrov1) | Marko Petrov | @iCardioAI |  | Skopje, Macedonia | 5388 |
+| 10 | [simeonmarkoski](https://github.com/simeonmarkoski) | Simeon Markoski | @silyze |  | Skopje, Macedonia | 5204 |
+| 11 | [DBozhinovski](https://github.com/DBozhinovski) | Darko Bozhinovski | @axiomatic-dev | d_bozhinovski | Skopje, Macedonia | 5146 |
+| 12 | [danielilievskii](https://github.com/danielilievskii) | Daniel Ilievski | Intertec.io |  | Skopje, North Macedonia | 4747 |
+| 13 | [Delemangi](https://github.com/Delemangi) | Stefan Milev | @codechem |  | Skopje, North Macedonia | 4673 |
+| 14 | [Shekswess](https://github.com/Shekswess) | Bojan Jakimovski | Loka | Shekswess | Skopje, Macedonia | 4185 |
+| 15 | [visar](https://github.com/visar) | Visar Zejnullahu |  |  | Skopje, Macedonia | 4148 |
+| 16 | [vetonshabani0](https://github.com/vetonshabani0) | Veton Shabani |  |  | Skopje | 4075 |
+| 17 | [andreyagovski](https://github.com/andreyagovski) | Andrey |  |  | Macedonia | 3997 |
+| 18 | [nikola-n](https://github.com/nikola-n) | Nikola | @CircleLinkHealth | nikola_najdov | Veles, Macedonia | 3884 |
+| 19 | [M9Mike](https://github.com/M9Mike) | Mihail Veljanoski |  |  | Skopje, Macedonia | 3747 |
+| 20 | [deko96](https://github.com/deko96) | Dejan Bozhinoski | Intertec.io |  | Skopje, Macedonia | 3635 |

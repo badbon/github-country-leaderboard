@@ -21,7 +21,7 @@ Indexed users: 289
 | 7 | [beillahi](https://github.com/beillahi) | Sidi Mohamed Beillahi | Mauritania | 3,469 |
 | 8 | [myeljoud](https://github.com/myeljoud) | Mohamed Yahye El Joud | Nouakchott, Mauritania | 3,359 |
 | 9 | [OussamaTeyib](https://github.com/OussamaTeyib) | Oussama Teyib | Nouakchott, Mauritania | 2,749 |
-| 10 | [NejmiSidaty](https://github.com/NejmiSidaty) | Mohamed Jiyed | Nouakchott, Mauritania | 2,522 |
+| 10 | [NejmiSidaty](https://github.com/NejmiSidaty) | Mohamed Jiyed | Nouakchott, Mauritania | 2,528 |
 | 11 | [oumarhadrami](https://github.com/oumarhadrami) | Mohamed EL Hadramy Oumar | Nouakchott, Mauritania | 2,382 |
 | 12 | [babasahi](https://github.com/babasahi) | Babe Saleh Dahi | Nouakchott, Mauritania | 2,373 |
 | 13 | [salembaira](https://github.com/salembaira) | Mohamed Salem BAIRA | Nouakchott, Mauritania | 2,330 |
@@ -53,7 +53,7 @@ Indexed users: 289
 | 14 | [khalef-khalil](https://github.com/khalef-khalil) | Khalil Khalef | Mauritania | 215 |
 | 15 | [AymanMady](https://github.com/AymanMady) | Bechir Mady (octopus) | Nouakchott Mauritania | 207 |
 | 16 | [Hashimi01](https://github.com/Hashimi01) | Hashimi El Hashimi | Nouakchott, Mauritania | 207 |
-| 17 | [ghalass](https://github.com/ghalass) | MED SALEM GHALASS | Mauritania | 205 |
+| 17 | [ghalass](https://github.com/ghalass) | MED SALEM GHALASS | Mauritania | 202 |
 | 18 | [LeminEly](https://github.com/LeminEly) | Lemin | Mauritania | 185 |
 | 19 | [saeedbark](https://github.com/saeedbark) | saeedbark | mauritania | 177 |
 | 20 | [medmahmoudhdaya](https://github.com/medmahmoudhdaya) | med mahmoud hdaya | nouakchott mauritania | 174 |
@@ -83,4 +83,4 @@ Indexed users: 289
 | 19 | [mbareck7](https://github.com/mbareck7) | mbar3ck7 | Mauritania, Nouakchott | 25 |
 | 20 | [rajelmn](https://github.com/rajelmn) | ra_mn | mauritania | 24 |
 
-Generated: 2026-10-17T21:06:48.969Z
+Generated: 2026-10-17T23:25:15.496Z
