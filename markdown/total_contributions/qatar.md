@@ -1,8 +1,8 @@
 # Total Contributions - Qatar
 
-Generated: 2026-10-17T09:08:11.742Z
+Generated: 2026-10-17T11:40:45.322Z
 
-Users: 1073
+Users: 1072
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -15,8 +15,8 @@ Users: 1073
 | 7 | [rushdimohamed09](https://github.com/rushdimohamed09) | Rushdi Mohamed |  |  | Doha, Qatar | 7161 |
 | 8 | [yasircs4](https://github.com/yasircs4) | Yasir Najeeb |  | yasirnajeep | Doha, Qatar | 7109 |
 | 9 | [hussain4real](https://github.com/hussain4real) | Hussain Aminu | Gethouse | hussain4real | Doha, Qatar | 6825 |
-| 10 | [asifmkhan](https://github.com/asifmkhan) | M. Asif Khan | University of Doha for Science and Technology (UDST) |  | Doha, Qatar | 6427 |
-| 11 | [Snowy7](https://github.com/Snowy7) | Snowy |  |  | Qatar | 6276 |
+| 10 | [Snowy7](https://github.com/Snowy7) | Snowy |  |  | Qatar | 6801 |
+| 11 | [asifmkhan](https://github.com/asifmkhan) | M. Asif Khan | University of Doha for Science and Technology (UDST) |  | Doha, Qatar | 6427 |
 | 12 | [luca-bondi](https://github.com/luca-bondi) | Luca Bondi |  |  | Doha, Qatar | 5743 |
 | 13 | [samstickkz](https://github.com/samstickkz) | samuel joseph (samstickkz) | samstickkz |  | QATAR | 5695 |
 | 14 | [niyazpoyilan](https://github.com/niyazpoyilan) | Niyaz Poyilan |  |  | Qatar | 5594 |

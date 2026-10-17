@@ -1,13 +1,13 @@
 # Total Contributions - San Marino
 
-Generated: 2026-10-17T09:11:37.892Z
+Generated: 2026-10-17T11:44:13.647Z
 
 Users: 61
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [calebnewtonusc](https://github.com/calebnewtonusc) | Caleb Newton | AINA Tech |  | San Marino, CA | 14208 |
-| 2 | [simooooone](https://github.com/simooooone) | Simos |  |  | San Marino | 10141 |
+| 2 | [simooooone](https://github.com/simooooone) | Simos |  |  | San Marino | 10165 |
 | 3 | [brunodotgg](https://github.com/brunodotgg) | Bruno |  |  | San Marino | 4381 |
 | 4 | [mcdado](https://github.com/mcdado) | David Gasperoni |  |  | San Marino (SMR) <✈️> Madrid, Spain | 3180 |
 | 5 | [tomwhoooo](https://github.com/tomwhoooo) | Tom Hu | UC Berkeley |  | San Marino, California | 2303 |
@@ -23,6 +23,6 @@ Users: 61
 | 15 | [Llandy3d](https://github.com/Llandy3d) | Llandy Riveron Del Risco | @grafana | llandy3d | San Marino | 334 |
 | 16 | [simorina](https://github.com/simorina) | Simone Rinaldi |  |  | San Marino | 232 |
 | 17 | [elena-sarti](https://github.com/elena-sarti) | Elena Sarti |  |  | San Marino | 197 |
-| 18 | [nicorsm](https://github.com/nicorsm) | Nicola Giancecchi | @pop-sm | nicorsm | San Marino | 159 |
+| 18 | [nicorsm](https://github.com/nicorsm) | Nicola Giancecchi | @pop-sm | nicorsm | San Marino | 163 |
 | 19 | [CometaSensitiva](https://github.com/CometaSensitiva) | Michele Mazza | Alma Mater Studiorum - Università di Bologna |  | Bologna / Rimini / San Marino | 120 |
 | 20 | [alexsteinerr](https://github.com/alexsteinerr) | Alex Steiner |  |  | San Marino | 104 |

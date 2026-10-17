@@ -27,7 +27,7 @@ Indexed users: 210
 | 13 | [stenson](https://github.com/stenson) | Rob Stenson | Monrovia, CA | 870 |
 | 14 | [KalevRK](https://github.com/KalevRK) | Kalev Roomann-Kurrik | Monrovia, CA | 866 |
 | 15 | [abubakar3rd](https://github.com/abubakar3rd) | Abu-Bakar Abdullah Kanneh | Airfield, Sinkor, Monrovia, Liberia | 825 |
-| 16 | [daddysboy21](https://github.com/daddysboy21) | daddysboy.21 | Monrovia, Liberia | 817 |
+| 16 | [daddysboy21](https://github.com/daddysboy21) | daddysboy.21 | Monrovia, Liberia | 816 |
 | 17 | [jdaltonll02](https://github.com/jdaltonll02) | John Dalton Gibson | Liberia | 762 |
 | 18 | [efmomoh](https://github.com/efmomoh) | ENSSAH FAYIA MOMOH | Monrovia, Liberia | 719 |
 | 19 | [davewonnah](https://github.com/davewonnah) | Dave Wonnah | Monrovia, Liberia | 630 |
@@ -43,7 +43,7 @@ Indexed users: 210
 | 4 | [efmomoh](https://github.com/efmomoh) | ENSSAH FAYIA MOMOH | Monrovia, Liberia | 718 |
 | 5 | [timtjoe](https://github.com/timtjoe) | Tim T. Joe | Liberia, West Africa | 584 |
 | 6 | [RA9](https://github.com/RA9) | Carlos S. Nah  | Liberia  | 359 |
-| 7 | [JohannFonseca](https://github.com/JohannFonseca) | Johann Curry  | Liberia | 350 |
+| 7 | [JohannFonseca](https://github.com/JohannFonseca) | Johann Curry  | Liberia | 351 |
 | 8 | [FranklinD10](https://github.com/FranklinD10) | FrApps | Liberia | 318 |
 | 9 | [pastoreekahk96](https://github.com/pastoreekahk96) | Pastoreekahk S Arthur | Monrovia, Liberia | 316 |
 | 10 | [AlexUG0104](https://github.com/AlexUG0104) | Alexander Umaña  | Liberia | 286 |
@@ -83,4 +83,4 @@ Indexed users: 210
 | 19 | [boaslah](https://github.com/boaslah) | Blessing Boaslah | Montserrado County, Liberia  | 21 |
 | 20 | [ejaygbay](https://github.com/ejaygbay) | Emmanuel Jaygbay | Liberia | 21 |
 
-Generated: 2026-10-17T08:52:05.022Z
+Generated: 2026-10-17T11:12:59.385Z

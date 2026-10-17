@@ -1,6 +1,6 @@
 # Total Contributions - Macau
 
-Generated: 2026-10-17T08:53:57.548Z
+Generated: 2026-10-17T11:15:48.652Z
 
 Users: 439
 
@@ -17,7 +17,7 @@ Users: 439
 | 9 | [1595901624](https://github.com/1595901624) | Cloris |  | LhyLuhaoyu | Macau | 3321 |
 | 10 | [MUST-panxiao](https://github.com/MUST-panxiao) | Xiao Pan | Macau University of Science and Technology |  | Macau | 2937 |
 | 11 | [7788ken](https://github.com/7788ken) | Mark.pan |  |  | Macau,Zhuhai | 2305 |
-| 12 | [mugpeng](https://github.com/mugpeng) | Peng |  |  | macao | 2287 |
+| 12 | [mugpeng](https://github.com/mugpeng) | Peng |  |  | macao | 2284 |
 | 13 | [Alex-Leong](https://github.com/Alex-Leong) | Alex |  |  | Macau | 2166 |
 | 14 | [RyanKung](https://github.com/RyanKung) | Elder Ryan |  | Elder24601 | Macau | 2142 |
 | 15 | [Yh1sam](https://github.com/Yh1sam) |  | Pui Ching Middle School |  | Macau | 2099 |

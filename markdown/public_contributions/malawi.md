@@ -1,6 +1,6 @@
 # Public Contributions - Malawi
 
-Generated: 2026-10-17T08:55:19.304Z
+Generated: 2026-10-17T11:16:02.780Z
 
 Users: 901
 
@@ -12,7 +12,7 @@ Users: 901
 | 4 | [edisontaimu9-ui](https://github.com/edisontaimu9-ui) | Edison Taimu  | Bata All Nutrition  |  | Malawi  | 1281 |
 | 5 | [jelome265](https://github.com/jelome265) | Jelome Ngamuti |  |  | malawi | 1211 |
 | 6 | [finalSay9](https://github.com/finalSay9) | Evan Chimwaza | techvac |  | Lilongwe, Malawi | 981 |
-| 7 | [petroskayange](https://github.com/petroskayange) | Petros Kayange | @Kuunika @LUKEINTERNATIONAL @EGPAFMalawiHIS @HISMalawi @DoxDevOps  |  | Malawi | 944 |
+| 7 | [petroskayange](https://github.com/petroskayange) | Petros Kayange | @Kuunika @LUKEINTERNATIONAL @EGPAFMalawiHIS @HISMalawi @DoxDevOps  |  | Malawi | 932 |
 | 8 | [BenjaminMwambakulu](https://github.com/BenjaminMwambakulu) | BenjaminVamp2o5 |  |  | Malawi | 765 |
 | 9 | [lcfranklin](https://github.com/lcfranklin) | Franklin | f-algoverse |  | Rumphi, Malawi | 738 |
 | 10 | [Forgata](https://github.com/Forgata) | Forgata |  |  | Malawi | 686 |

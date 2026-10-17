@@ -1,6 +1,6 @@
 # Public Contributions - Malta
 
-Generated: 2026-10-17T08:56:31.097Z
+Generated: 2026-10-17T11:19:40.859Z
 
 Users: 1225
 
@@ -8,7 +8,7 @@ Users: 1225
 |---:|---|---|---|---|---|---:|
 | 1 | [ksazid](https://github.com/ksazid) | Sazid |  |  | Malta | 6244 |
 | 2 | [jonathan-vella](https://github.com/jonathan-vella) | Jonathan Vella | @Microsoft |  | Malta | 4038 |
-| 3 | [ripienaar](https://github.com/ripienaar) | R.I.Pienaar |  | ripienaar | Malta | 3835 |
+| 3 | [ripienaar](https://github.com/ripienaar) | R.I.Pienaar |  | ripienaar | Malta | 3872 |
 | 4 | [OmegaGbenga](https://github.com/OmegaGbenga) | Olugbenga Olatunde Dareowolabi |  |  | Malta | 3552 |
 | 5 | [rinrab](https://github.com/rinrab) | Timofei Zhakov |  |  | Malta | 3350 |
 | 6 | [KevinBusuttil](https://github.com/KevinBusuttil) | Kevin Busuttil | Busuttil Technologies Limited |  | Malta | 3125 |
@@ -22,7 +22,7 @@ Users: 1225
 | 14 | [marian2js](https://github.com/marian2js) | Mariano Pardo | BullAware | marian2js | Malta | 2336 |
 | 15 | [dfroberg](https://github.com/dfroberg) | Danny Froberg | @INFURA | dfroberg | Gozo, Malta | 1991 |
 | 16 | [SerZhyAle](https://github.com/SerZhyAle) | Serhii Zhyhunenko |  |  | Malta | 1991 |
-| 17 | [mbj](https://github.com/mbj) | Markus Schirp | Schirp DSO LTD | mbjschirp | Malta | 1977 |
+| 17 | [mbj](https://github.com/mbj) | Markus Schirp | Schirp DSO LTD | mbjschirp | Malta | 1980 |
 | 18 | [terranc](https://github.com/terranc) | Terran |  | terranc | Malta | 1891 |
 | 19 | [max-lt](https://github.com/max-lt) |  | @OpenWorkers |  | Malta | 1700 |
 | 20 | [owenfar](https://github.com/owenfar) |  | @owenfar |  | Malta | 1305 |

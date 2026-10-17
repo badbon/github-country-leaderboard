@@ -1,6 +1,6 @@
 # Philippines
 
-Indexed users: 19,773
+Indexed users: 19,772
 
 | Leaderboard | Link |
 |---|---|
@@ -56,7 +56,7 @@ Indexed users: 19,773
 | 17 | [RommJames](https://github.com/RommJames) | Romm James Cuya | Pasig City, Philippines | 10,424 |
 | 18 | [diazMelgarejo](https://github.com/diazMelgarejo) | cyre | Manila | 9,935 |
 | 19 | [bradpotts](https://github.com/bradpotts) | Bradley J Potts | Lapu-Lapu, Central Visayas, Philippines | 9,918 |
-| 20 | [ceorles](https://github.com/ceorles) | Drei | Philippines | 9,586 |
+| 20 | [dotSIS](https://github.com/dotSIS) | Jezzrel Aladdin S. Sambaan | Cagayan de Oro City, Philippines | 9,225 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 19,773
 | 19 | [Gerald200422](https://github.com/Gerald200422) | Gerald P. Balete | Metro Manila Philippines  | 613 |
 | 20 | [exezick](https://github.com/exezick) | Exequiel Vibar | Philippines | 604 |
 
-Generated: 2026-10-17T09:07:13.546Z
+Generated: 2026-10-17T11:38:47.757Z

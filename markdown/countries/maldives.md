@@ -22,14 +22,14 @@ Indexed users: 354
 | 8 | [hailam](https://github.com/hailam) | Mohamed Hailam Ahmed | Male`, Maldives | 6,201 |
 | 9 | [ajaaibu](https://github.com/ajaaibu) | Ahmed Ali | Maldives | 5,772 |
 | 10 | [hashes02](https://github.com/hashes02) | HASHES | Maldives | 5,634 |
-| 11 | [agent306](https://github.com/agent306) | Ncodex | Male', Maldives | 5,189 |
+| 11 | [agent306](https://github.com/agent306) | Ncodex | Male', Maldives | 5,195 |
 | 12 | [maldivien](https://github.com/maldivien) | Ahmed Shareef | Maldives | 5,116 |
 | 13 | [jaaahh](https://github.com/jaaahh) | Jaah | Maldives | 5,023 |
 | 14 | [N4ZEN](https://github.com/N4ZEN) | Naza | Maldives | 4,932 |
 | 15 | [NeXsHeLL](https://github.com/NeXsHeLL) | ismile ThuThts | Maldives | 4,867 |
 | 16 | [ayarse](https://github.com/ayarse) | ayaz | Maldives | 4,832 |
 | 17 | [roris](https://github.com/roris) | Thoail Ahmed | Maldives | 4,821 |
-| 18 | [muizzu](https://github.com/muizzu) | Muizzu Abbas | Maldives | 4,665 |
+| 18 | [muizzu](https://github.com/muizzu) | Muizzu Abbas | Maldives | 4,670 |
 | 19 | [samynmhd](https://github.com/samynmhd) | Mohamed Sameen Firaq | Maldives | 4,127 |
 | 20 | [whosaynow](https://github.com/whosaynow) | whosaynow | Maldives | 4,025 |
 
@@ -83,4 +83,4 @@ Indexed users: 354
 | 19 | [muhannad0](https://github.com/muhannad0) | Monde | Maldives | 41 |
 | 20 | [xahiru](https://github.com/xahiru) | Ahmed Zahir | Maldives | 41 |
 
-Generated: 2026-10-17T08:55:27.330Z
+Generated: 2026-10-17T11:18:08.295Z

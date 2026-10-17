@@ -1,8 +1,8 @@
 # Public Contributions - Philippines
 
-Generated: 2026-10-17T09:07:13.546Z
+Generated: 2026-10-17T11:38:47.757Z
 
-Users: 19773
+Users: 19772
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -25,4 +25,4 @@ Users: 19773
 | 17 | [RommJames](https://github.com/RommJames) | Romm James Cuya |  |  | Pasig City, Philippines | 10424 |
 | 18 | [diazMelgarejo](https://github.com/diazMelgarejo) | cyre |  | Melgarejo_yDiaz | Manila | 9935 |
 | 19 | [bradpotts](https://github.com/bradpotts) | Bradley J Potts | CoastDigitalGroup |  | Lapu-Lapu, Central Visayas, Philippines | 9918 |
-| 20 | [ceorles](https://github.com/ceorles) | Drei |  |  | Philippines | 9586 |
+| 20 | [dotSIS](https://github.com/dotSIS) | Jezzrel Aladdin S. Sambaan | University of Science and Technology of Southern Philippines |  | Cagayan de Oro City, Philippines | 9225 |

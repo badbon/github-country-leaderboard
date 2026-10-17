@@ -62,7 +62,7 @@ Indexed users: 1,356
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [ManuSquall](https://github.com/ManuSquall) | Charles Emmanuel S. Ndiaye | Dakar, Senegal | 533 |
+| 1 | [ManuSquall](https://github.com/ManuSquall) | Charles Emmanuel S. Ndiaye | Dakar, Senegal | 534 |
 | 2 | [ibrahima92](https://github.com/ibrahima92) | Ibrahima Ndaw | Senegal | 318 |
 | 3 | [daoodaba975](https://github.com/daoodaba975) | Daouda BA | Dakar, SN | 282 |
 | 4 | [orbitturner](https://github.com/orbitturner) | Orbit Turner | Dakar, Senegal | 272 |
@@ -83,4 +83,4 @@ Indexed users: 1,356
 | 19 | [ngorseck](https://github.com/ngorseck) | Ngor SECK | Dakar - Sénégal | 142 |
 | 20 | [patheGobel](https://github.com/patheGobel) | Pathé BA | Senegal  | 141 |
 
-Generated: 2026-10-17T09:12:54.702Z
+Generated: 2026-10-17T11:46:20.714Z

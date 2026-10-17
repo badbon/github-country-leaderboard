@@ -1,6 +1,6 @@
 # Qatar
 
-Indexed users: 1,073
+Indexed users: 1,072
 
 | Leaderboard | Link |
 |---|---|
@@ -21,8 +21,8 @@ Indexed users: 1,073
 | 7 | [rushdimohamed09](https://github.com/rushdimohamed09) | Rushdi Mohamed | Doha, Qatar | 7,161 |
 | 8 | [yasircs4](https://github.com/yasircs4) | Yasir Najeeb | Doha, Qatar | 7,109 |
 | 9 | [hussain4real](https://github.com/hussain4real) | Hussain Aminu | Doha, Qatar | 6,825 |
-| 10 | [asifmkhan](https://github.com/asifmkhan) | M. Asif Khan | Doha, Qatar | 6,427 |
-| 11 | [Snowy7](https://github.com/Snowy7) | Snowy | Qatar | 6,276 |
+| 10 | [Snowy7](https://github.com/Snowy7) | Snowy | Qatar | 6,801 |
+| 11 | [asifmkhan](https://github.com/asifmkhan) | M. Asif Khan | Doha, Qatar | 6,427 |
 | 12 | [luca-bondi](https://github.com/luca-bondi) | Luca Bondi | Doha, Qatar | 5,743 |
 | 13 | [samstickkz](https://github.com/samstickkz) | samuel joseph (samstickkz) | QATAR | 5,695 |
 | 14 | [niyazpoyilan](https://github.com/niyazpoyilan) | Niyaz Poyilan | Qatar | 5,594 |
@@ -83,4 +83,4 @@ Indexed users: 1,073
 | 19 | [brainconnect93](https://github.com/brainconnect93) | Afolabi Akorede | Al-Wakrah, Qatar | 100 |
 | 20 | [muratyaman](https://github.com/muratyaman) | Haci Murat Yaman | Doha, Qatar | 99 |
 
-Generated: 2026-10-17T09:08:11.742Z
+Generated: 2026-10-17T11:40:45.322Z

@@ -1,6 +1,6 @@
 # Total Contributions - Malta
 
-Generated: 2026-10-17T08:56:31.097Z
+Generated: 2026-10-17T11:19:40.859Z
 
 Users: 1225
 
@@ -12,8 +12,8 @@ Users: 1225
 | 4 | [tssge](https://github.com/tssge) | Teemu Grönqvist | Freelancer @net9-oy |  | Msida, Malta | 13396 |
 | 5 | [kjlibsol](https://github.com/kjlibsol) | Klaus Jensen | Liberatum Solutions Ltd |  | Malta | 12581 |
 | 6 | [exori90](https://github.com/exori90) | exori |  |  | Malta | 11040 |
-| 7 | [GabrielGil](https://github.com/GabrielGil) | Gabriel | @redacreltd | GabrielSchlomo | Malta | 10681 |
-| 8 | [mattbeedle](https://github.com/mattbeedle) | Matt Beedle |  |  | Malta | 10492 |
+| 7 | [mattbeedle](https://github.com/mattbeedle) | Matt Beedle |  |  | Malta | 11031 |
+| 8 | [GabrielGil](https://github.com/GabrielGil) | Gabriel | @redacreltd | GabrielSchlomo | Malta | 10681 |
 | 9 | [silvandiepen](https://github.com/silvandiepen) | Sil van Diepen | Sil van Diepen | silvandiepen | Malta | 9398 |
 | 10 | [Sml995](https://github.com/Sml995) | Samuel HASSID | @Supplement-Bacon  |  | Sliema, Malta | 9224 |
 | 11 | [polp6880](https://github.com/polp6880) | Paul Portelli | Paul Portelli | polp6880 | Malta | 9022 |
