@@ -27835,8 +27835,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 192,
-    "publicContributions": 24,
+    "privateContributions": 195,
+    "publicContributions": 40,
     "createdAt": "2023-01-19T14:57:46Z"
   },
   {
@@ -27848,7 +27848,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 15,
     "createdAt": "2022-12-30T15:31:35Z"
   },
   {
@@ -27860,7 +27860,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 51,
+    "publicContributions": 33,
     "createdAt": "2023-02-06T22:26:23Z"
   },
   {
@@ -27871,7 +27871,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 303,
+    "privateContributions": 339,
     "publicContributions": 15,
     "createdAt": "2023-01-20T17:13:03Z"
   },
@@ -27883,7 +27883,7 @@
     "company": "@UmeLuxSaOrg",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 1241,
+    "privateContributions": 1297,
     "publicContributions": 0,
     "createdAt": "2023-03-20T19:31:32Z"
   },
@@ -27894,7 +27894,7 @@
     "location": "Ukraine",
     "company": "HOME",
     "twitterUsername": "ilonasi",
-    "followers": 6,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-01-28T15:54:20Z"
@@ -27925,12 +27925,12 @@
   },
   {
     "login": "qwoe1x",
-    "name": "Yuriy Titarenko",
+    "name": "qwoe0x",
     "avatarUrl": "https://avatars.githubusercontent.com/u/121615012?s=72&u=8fd3c8ae15a8ffc532b9f6f3071f05a1cbc01a0e&v=4",
     "location": "Ukraine, Lviv",
     "company": "qwoe0x",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-12-29T12:03:25Z"
@@ -27942,9 +27942,9 @@
     "location": "Kiev, Ukraine",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 45,
-    "publicContributions": 182,
+    "followers": 7,
+    "privateContributions": 468,
+    "publicContributions": 176,
     "createdAt": "2023-03-24T15:03:37Z"
   },
   {
@@ -27955,7 +27955,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 141,
+    "privateContributions": 43,
     "publicContributions": 3,
     "createdAt": "2023-01-24T13:02:22Z"
   },
@@ -27967,8 +27967,8 @@
     "company": "https://www.upwork.com/freelancers/daria1frontend1react",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 500,
-    "publicContributions": 29,
+    "privateContributions": 401,
+    "publicContributions": 20,
     "createdAt": "2023-03-02T12:03:13Z"
   },
   {
@@ -27979,20 +27979,20 @@
     "company": "Ajax Systems",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 58,
+    "privateContributions": 53,
     "publicContributions": 70,
     "createdAt": "2022-12-30T18:30:33Z"
   },
   {
     "login": "Maksimka2280",
     "name": "Maksim Blystiv",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/127985831?s=72&u=97a039156b6140981c676f632603a36a789a0777&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/127985831?s=72&u=2a48c0ede27dd1a2f8bd0184844ba8ad235fc91d&v=4",
     "location": "Ukraine, Lviv",
     "company": "",
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 46,
     "createdAt": "2023-03-15T18:18:22Z"
   },
   {
@@ -28002,9 +28002,9 @@
     "location": "Kyiv, Ukraine",
     "company": "Student of NTUU \"KPI\"",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 48,
-    "publicContributions": 64,
+    "followers": 6,
+    "privateContributions": 2,
+    "publicContributions": 60,
     "createdAt": "2023-01-24T14:52:05Z"
   },
   {
@@ -28028,7 +28028,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 89,
+    "publicContributions": 98,
     "createdAt": "2023-01-25T00:14:54Z"
   },
   {
@@ -28038,22 +28038,10 @@
     "location": "Nemyriv, Vinnyts'Ka Oblast', Ukraine ",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 4,
     "createdAt": "2023-03-06T20:30:44Z"
-  },
-  {
-    "login": "ka9mal6t",
-    "name": "Volodymyr",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/125738766?s=72&u=c445cd02a07e93b55e038c0ead62336a3eb410ce&v=4",
-    "location": "Ukraine",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 65,
-    "createdAt": "2023-02-18T11:45:38Z"
   },
   {
     "login": "IDima1",

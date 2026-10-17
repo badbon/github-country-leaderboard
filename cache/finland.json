@@ -28038,7 +28038,7 @@
     "location": "Finland",
     "company": "University of Helsinki",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 8,
     "createdAt": "2022-11-21T04:40:31Z"
@@ -28062,9 +28062,9 @@
     "location": "Finland",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 157,
-    "publicContributions": 14,
+    "publicContributions": 1,
     "createdAt": "2022-08-31T12:10:38Z"
   },
   {
@@ -28075,7 +28075,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 17,
+    "privateContributions": 20,
     "publicContributions": 4,
     "createdAt": "2022-01-23T20:22:54Z"
   },
@@ -28100,20 +28100,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 7,
     "createdAt": "2022-12-08T08:02:21Z"
-  },
-  {
-    "login": "samw0907",
-    "name": "Sam Williamson",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/97834973?s=72&u=e758afd344fc33aaba150a50fc961fb484bcb5e2&v=4",
-    "location": "Finland",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 85,
-    "publicContributions": 534,
-    "createdAt": "2022-01-16T12:44:54Z"
   },
   {
     "login": "Jyddys",
@@ -28135,7 +28123,7 @@
     "company": "@Solteq",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 29,
+    "privateContributions": 27,
     "publicContributions": 0,
     "createdAt": "2022-04-04T18:22:15Z"
   },

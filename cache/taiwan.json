@@ -27944,7 +27944,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 10,
     "createdAt": "2022-09-09T09:48:45Z"
   },
   {
@@ -27956,7 +27956,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 227,
+    "publicContributions": 230,
     "createdAt": "2022-09-14T08:52:31Z"
   },
   {
@@ -27979,8 +27979,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 167,
-    "publicContributions": 35,
+    "privateContributions": 161,
+    "publicContributions": 2,
     "createdAt": "2022-11-29T14:29:45Z"
   },
   {
@@ -28003,8 +28003,8 @@
     "company": "National Yang Ming Chiao Tung University",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 113,
-    "publicContributions": 6780,
+    "privateContributions": 110,
+    "publicContributions": 7654,
     "createdAt": "2022-11-24T04:30:33Z"
   },
   {
@@ -28014,7 +28014,7 @@
     "location": "Taiwan",
     "company": "Mdas, Inc.",
     "twitterUsername": "mct_fred",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-09-14T14:54:16Z"
@@ -28039,8 +28039,8 @@
     "company": "National Yang Ming Chiao Tung University",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 258,
-    "publicContributions": 31,
+    "privateContributions": 279,
+    "publicContributions": 20,
     "createdAt": "2022-07-16T02:26:11Z"
   },
   {
@@ -28052,20 +28052,8 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 3,
     "createdAt": "2022-09-28T11:45:47Z"
-  },
-  {
-    "login": "blendership",
-    "name": "June Huang",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/116368313?s=72&u=e320342c21cf3ac046186ad6b8ef0573d037ead6&v=4",
-    "location": "Taipei, Taiwan",
-    "company": "TSMC",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 13,
-    "createdAt": "2022-10-21T14:28:55Z"
   },
   {
     "login": "itaru33776",
@@ -28086,9 +28074,9 @@
     "location": "Hsinchu/Yunlin, Taiwan (R.O.C.)",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 11,
     "createdAt": "2022-10-21T08:47:07Z"
   },
   {
@@ -28148,7 +28136,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 2,
-    "publicContributions": 127,
+    "publicContributions": 130,
     "createdAt": "2022-10-17T08:09:02Z"
   },
   {
@@ -28158,7 +28146,7 @@
     "location": "NewTaipei City, Taiwan",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-08-13T05:48:28Z"

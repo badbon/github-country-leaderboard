@@ -28028,7 +28028,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2013-05-27T19:42:55Z"
   },
   {
@@ -28064,7 +28064,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 1,
     "createdAt": "2013-11-03T17:10:45Z"
   },
   {
@@ -28086,9 +28086,9 @@
     "location": "Ljubljana, Slovenia",
     "company": "@celtra ",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 631,
-    "publicContributions": 5,
+    "followers": 7,
+    "privateContributions": 648,
+    "publicContributions": 2,
     "createdAt": "2013-11-22T00:44:35Z"
   },
   {
@@ -28099,8 +28099,8 @@
     "company": "@FlowForge-sh ",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 546,
-    "publicContributions": 7,
+    "privateContributions": 749,
+    "publicContributions": 5,
     "createdAt": "2013-06-19T07:47:33Z"
   },
   {
@@ -28112,7 +28112,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 47,
     "createdAt": "2013-07-17T10:29:38Z"
   },
   {
@@ -28123,8 +28123,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 6,
-    "publicContributions": 7,
+    "privateContributions": 8,
+    "publicContributions": 6,
     "createdAt": "2013-03-19T19:36:45Z"
   },
   {
@@ -28147,8 +28147,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 1163,
-    "publicContributions": 48,
+    "privateContributions": 1183,
+    "publicContributions": 35,
     "createdAt": "2013-01-09T10:08:40Z"
   },
   {
@@ -28160,7 +28160,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 83,
+    "publicContributions": 87,
     "createdAt": "2013-02-16T14:20:15Z"
   },
   {
@@ -28171,7 +28171,7 @@
     "company": "@kaminomobile ",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 323,
+    "privateContributions": 445,
     "publicContributions": 0,
     "createdAt": "2013-10-12T08:55:35Z"
   },
@@ -28184,7 +28184,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 35,
     "createdAt": "2013-06-23T02:20:06Z"
   },
   {
@@ -28196,7 +28196,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 8,
     "createdAt": "2013-03-30T14:19:28Z"
   },
   {
@@ -28243,7 +28243,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 187,
+    "privateContributions": 238,
     "publicContributions": 0,
     "createdAt": "2013-12-16T18:17:29Z"
   },
@@ -28256,7 +28256,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2013-07-16T20:11:30Z"
   },
   {
@@ -37174,5 +37174,17 @@
     "privateContributions": 0,
     "publicContributions": 283,
     "createdAt": "2022-03-28T19:42:42Z"
+  },
+  {
+    "login": "merdshesaid",
+    "name": "Merd",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298103549?s=72&u=f4d50105fb54657b0c0826a6e2c18d46adff4db2&v=4",
+    "location": "Maribor, Slovenia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 50,
+    "createdAt": "2026-06-30T02:53:42Z"
   }
 ]

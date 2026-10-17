@@ -28136,7 +28136,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 110,
+    "publicContributions": 83,
     "createdAt": "2022-10-11T09:26:02Z"
   },
   {
@@ -28158,9 +28158,9 @@
     "location": "Prague",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 21,
     "createdAt": "2022-05-11T14:18:47Z"
   },
   {
@@ -28196,19 +28196,19 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 10,
     "createdAt": "2022-08-15T19:30:55Z"
   },
   {
     "login": "JoseTheChamp",
     "name": "Josef Knotek",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/100157516?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/100157516?s=72&u=96f9786aa38579f14b6e4a2fa489ddd78a579e6d&v=4",
     "location": "Prague",
     "company": "HAVIT",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 146,
     "createdAt": "2022-02-21T18:06:46Z"
   },
   {
@@ -28220,7 +28220,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 18,
     "createdAt": "2022-10-11T15:37:57Z"
   },
   {
@@ -28232,7 +28232,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 154,
+    "publicContributions": 143,
     "createdAt": "2022-09-30T18:51:37Z"
   },
   {
@@ -28244,7 +28244,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 13,
     "createdAt": "2022-02-17T14:44:21Z"
   },
   {
@@ -28255,7 +28255,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 2777,
+    "privateContributions": 2937,
     "publicContributions": 27,
     "createdAt": "2022-04-04T09:06:25Z"
   },
@@ -28266,9 +28266,9 @@
     "location": "Prague",
     "company": "Microsoft Corporation",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 64,
     "createdAt": "2022-06-07T08:42:23Z"
   },
   {
@@ -28279,8 +28279,8 @@
     "company": "IOCB, IOCB Tech s.r.o., PharmTheon",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 2187,
-    "publicContributions": 240,
+    "privateContributions": 4163,
+    "publicContributions": 637,
     "createdAt": "2022-11-03T20:43:14Z"
   },
   {
@@ -28291,7 +28291,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 511,
+    "privateContributions": 439,
     "publicContributions": 5,
     "createdAt": "2022-10-13T07:59:57Z"
   },
@@ -28303,8 +28303,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 39,
+    "privateContributions": 2,
+    "publicContributions": 5,
     "createdAt": "2022-01-19T18:51:48Z"
   },
   {
@@ -28328,7 +28328,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 5,
     "createdAt": "2022-01-11T16:46:29Z"
   },
   {
@@ -28346,13 +28346,13 @@
   {
     "login": "xfabo1",
     "name": "Filip Fábry",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/109961556?s=72&u=35bb8da471bb40327e83560514af4b67c576054f&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/109961556?s=72&v=4",
     "location": "Prague",
     "company": "Microsoft",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 114,
-    "publicContributions": 3,
+    "privateContributions": 96,
+    "publicContributions": 5,
     "createdAt": "2022-07-25T11:39:00Z"
   },
   {
@@ -28363,8 +28363,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 306,
-    "publicContributions": 4,
+    "privateContributions": 408,
+    "publicContributions": 9,
     "createdAt": "2022-04-20T18:22:55Z"
   },
   {
@@ -194434,5 +194434,17 @@
     "privateContributions": 18,
     "publicContributions": 8,
     "createdAt": "2017-06-17T20:22:37Z"
+  },
+  {
+    "login": "The-Aurora",
+    "name": "The_Aurora",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/25014265?s=72&v=4",
+    "location": "Prague, Czechia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 63,
+    "publicContributions": 6,
+    "createdAt": "2017-01-09T18:16:33Z"
   }
 ]

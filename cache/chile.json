@@ -28352,7 +28352,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 22,
     "createdAt": "2023-05-25T02:50:50Z"
   },
   {
@@ -28398,9 +28398,9 @@
     "location": "Chile",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 85,
+    "publicContributions": 164,
     "createdAt": "2023-02-16T02:40:15Z"
   },
   {
@@ -28412,7 +28412,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 10,
     "createdAt": "2023-05-16T04:05:16Z"
   },
   {
@@ -28424,7 +28424,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 89,
+    "publicContributions": 180,
     "createdAt": "2023-05-26T20:36:02Z"
   },
   {
@@ -28447,20 +28447,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 365,
-    "publicContributions": 84,
+    "privateContributions": 455,
+    "publicContributions": 77,
     "createdAt": "2023-01-07T16:18:51Z"
   },
   {
     "login": "boot-kitty",
     "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/130717159?s=72&u=ac4f06197d37595c6c47fb96905502488e69359b&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/130717159?s=72&u=43284a108e531f8e11e73e28b9482b43a4df5e1c&v=4",
     "location": "Santiago, Chile",
     "company": "UC Chile",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 306,
-    "publicContributions": 37,
+    "followers": 7,
+    "privateContributions": 147,
+    "publicContributions": 14,
     "createdAt": "2023-04-14T00:56:45Z"
   },
   {
@@ -28472,7 +28472,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 189,
+    "publicContributions": 89,
     "createdAt": "2023-02-07T01:41:36Z"
   },
   {
@@ -28500,18 +28500,6 @@
     "createdAt": "2023-04-17T17:16:35Z"
   },
   {
-    "login": "Nylarion",
-    "name": "Luis Ignacio Cerda Zurita",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/134728490?s=72&u=18f6434d1b277092179374b4e5c58ab2caf1b41c&v=4",
-    "location": "Lautaro/Chile",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 227,
-    "createdAt": "2023-05-26T17:05:30Z"
-  },
-  {
     "login": "MadLucas",
     "name": "lucasfernandezc",
     "avatarUrl": "https://avatars.githubusercontent.com/u/131734688?s=72&u=2b3729aeb40024b13353e07c7168b58a9cc8d10f&v=4",
@@ -28519,7 +28507,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 181,
+    "privateContributions": 190,
     "publicContributions": 16,
     "createdAt": "2023-04-25T03:05:30Z"
   },
@@ -28532,7 +28520,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 39,
+    "publicContributions": 70,
     "createdAt": "2023-06-20T01:12:06Z"
   },
   {
@@ -28544,7 +28532,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 50,
+    "publicContributions": 18,
     "createdAt": "2023-04-04T23:10:39Z"
   },
   {
@@ -28556,7 +28544,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 77,
+    "publicContributions": 70,
     "createdAt": "2023-03-16T00:27:47Z"
   },
   {

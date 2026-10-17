@@ -28136,7 +28136,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 14,
     "createdAt": "2024-02-28T15:49:07Z"
   },
   {
@@ -28160,7 +28160,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 102,
     "createdAt": "2024-01-21T11:06:22Z"
   },
   {
@@ -28170,9 +28170,9 @@
     "location": "Sri Lanka ",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 260,
+    "publicContributions": 248,
     "createdAt": "2024-01-13T04:37:33Z"
   },
   {
@@ -28184,7 +28184,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 7,
     "createdAt": "2024-01-01T02:47:53Z"
   },
   {
@@ -28198,18 +28198,6 @@
     "privateContributions": 0,
     "publicContributions": 46,
     "createdAt": "2024-03-18T14:44:08Z"
-  },
-  {
-    "login": "strangegopher",
-    "name": "Nisal Bandara",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/159816631?s=72&u=26d849e9c521a523b2e8b0f2a9aa1e0c673cb3e8&v=4",
-    "location": "Colombo, Sri Lanka",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 15,
-    "createdAt": "2024-02-12T17:50:06Z"
   },
   {
     "login": "Kaja1206",
@@ -28244,7 +28232,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2024-02-21T06:32:36Z"
   },
   {
@@ -28267,8 +28255,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1,
-    "publicContributions": 97,
+    "privateContributions": 0,
+    "publicContributions": 88,
     "createdAt": "2024-01-16T02:45:07Z"
   },
   {
@@ -28280,20 +28268,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 154,
+    "publicContributions": 148,
     "createdAt": "2024-02-06T10:04:30Z"
-  },
-  {
-    "login": "DARKEMPIRESL",
-    "name": "DARK",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/158041163?s=72&v=4",
-    "location": "SRI LANKA",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2024-01-29T10:22:02Z"
   },
   {
     "login": "Mathushaan-dev",
@@ -28315,8 +28291,8 @@
     "company": "University of Moratuwa",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 664,
-    "publicContributions": 1,
+    "privateContributions": 482,
+    "publicContributions": 0,
     "createdAt": "2024-03-01T15:46:15Z"
   },
   {
@@ -28339,8 +28315,8 @@
     "company": "Riskonnect Asia Pacific",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 72,
-    "publicContributions": 3,
+    "privateContributions": 60,
+    "publicContributions": 2,
     "createdAt": "2024-03-08T17:10:49Z"
   },
   {
@@ -219838,5 +219814,17 @@
     "privateContributions": 0,
     "publicContributions": 12,
     "createdAt": "2026-06-29T07:05:45Z"
+  },
+  {
+    "login": "dfansoo",
+    "name": "Leo Felcianas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298345968?s=72&u=7e2f40b4367596f99cdae8ae96062a339b4b4fd6&v=4",
+    "location": "Sri Lanka",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 15,
+    "privateContributions": 3207,
+    "publicContributions": 84,
+    "createdAt": "2026-06-30T15:44:25Z"
   }
 ]

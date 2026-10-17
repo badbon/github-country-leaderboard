@@ -28338,8 +28338,8 @@
     "location": "Brussels, BE",
     "company": "POLITICO",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 311,
+    "followers": 11,
+    "privateContributions": 340,
     "publicContributions": 0,
     "createdAt": "2022-10-25T22:39:37Z"
   },
@@ -28362,8 +28362,8 @@
     "location": "Brussels",
     "company": "Mindoo",
     "twitterUsername": "Gauthier_Wi",
-    "followers": 9,
-    "privateContributions": 621,
+    "followers": 8,
+    "privateContributions": 505,
     "publicContributions": 0,
     "createdAt": "2022-10-03T17:55:31Z"
   },
@@ -28375,8 +28375,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 130,
-    "publicContributions": 197,
+    "privateContributions": 18,
+    "publicContributions": 50,
     "createdAt": "2022-03-21T16:15:58Z"
   },
   {
@@ -28388,7 +28388,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 1894,
+    "publicContributions": 1850,
     "createdAt": "2022-09-15T17:16:39Z"
   },
   {
@@ -28400,7 +28400,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 28,
     "createdAt": "2022-06-23T13:15:33Z"
   },
   {
@@ -28446,9 +28446,9 @@
     "location": "Brussels ",
     "company": "Lawgitech",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 1424,
-    "publicContributions": 9,
+    "followers": 10,
+    "privateContributions": 2902,
+    "publicContributions": 10,
     "createdAt": "2022-02-07T14:15:29Z"
   },
   {
@@ -28506,9 +28506,9 @@
     "location": "Brussels",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 61,
+    "publicContributions": 86,
     "createdAt": "2022-09-13T14:35:48Z"
   },
   {
@@ -28518,22 +28518,10 @@
     "location": "Brussels",
     "company": "VUB Racing",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-08-22T08:57:09Z"
-  },
-  {
-    "login": "margauuuuuxx",
-    "name": "Margaux Loncour",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/112220330?s=72&u=7547d1713dc71f63d0d747ef30ba1dfc607256e7&v=4",
-    "location": "Brussels, BE",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 250,
-    "publicContributions": 269,
-    "createdAt": "2022-08-27T00:29:07Z"
   },
   {
     "login": "abdessalems",
@@ -28542,9 +28530,9 @@
     "location": "Brussels ",
     "company": "efficom",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 56,
-    "publicContributions": 249,
+    "followers": 6,
+    "privateContributions": 146,
+    "publicContributions": 353,
     "createdAt": "2022-06-13T09:16:18Z"
   },
   {
@@ -220678,5 +220666,17 @@
     "privateContributions": 1964,
     "publicContributions": 439,
     "createdAt": "2014-05-03T07:09:52Z"
+  },
+  {
+    "login": "nihal-sakhri",
+    "name": "Nihal SAKHRI",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/117159505?s=72&v=4",
+    "location": "Brussels, Belgium",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2022-11-01T09:08:36Z"
   }
 ]
