@@ -1,6 +1,6 @@
 # Public Contributions - Sierra Leone
 
-Generated: 2026-10-17T21:32:58.842Z
+Generated: 2026-10-17T23:50:25.095Z
 
 Users: 443
 
@@ -20,8 +20,8 @@ Users: 443
 | 12 | [EmmanuelKeifala](https://github.com/EmmanuelKeifala) | Emmanuel Keifala |  |  | Freetown, Sierra Leone	 | 492 |
 | 13 | [joemrnice](https://github.com/joemrnice) | Joseph Lahai Kanu | CodeZerra | JosephLahaiKan3 | Freetown, Sierra Leone. | 417 |
 | 14 | [Barrie20](https://github.com/Barrie20) | Alpha Yerroh Barrie |  | Yerrohbarrie06 | Sierra Leone , West Africa | 383 |
-| 15 | [IshmaelKargbo](https://github.com/IshmaelKargbo) | Ishmael Kargbo | Moriba SL | ishodev | Sierra Leone | 373 |
-| 16 | [SUBiango](https://github.com/SUBiango) | UMARU SAHR BIANGO | Dot Portal | SUBiango | Sierra Leone | 367 |
+| 15 | [SUBiango](https://github.com/SUBiango) | UMARU SAHR BIANGO | Dot Portal | SUBiango | Sierra Leone | 380 |
+| 16 | [IshmaelKargbo](https://github.com/IshmaelKargbo) | Ishmael Kargbo | Moriba SL | ishodev | Sierra Leone | 373 |
 | 17 | [konneh-hub](https://github.com/konneh-hub) | Mohamed Kortu Konneh |  |  | Sierra Leone | 359 |
 | 18 | [devlinksl](https://github.com/devlinksl) | Dev-Link Sl  | Dev-Link  |  | Sierra Leone  | 316 |
 | 19 | [davidddeveloper](https://github.com/davidddeveloper) | David Conteh |  | _david_conteh | Freetown, SierraLeone | 252 |
