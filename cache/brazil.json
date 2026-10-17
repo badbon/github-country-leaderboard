@@ -1976431,7 +1976431,7 @@
     "company": "Inside Code",
     "twitterUsername": "C4sTr0",
     "followers": 44,
-    "privateContributions": 2169,
+    "privateContributions": 2171,
     "publicContributions": 73,
     "createdAt": "2018-04-16T14:41:31Z"
   },
@@ -1976482,5 +1976482,17 @@
     "privateContributions": 1310,
     "publicContributions": 68,
     "createdAt": "2018-11-18T16:32:10Z"
+  },
+  {
+    "login": "MatheusRafas",
+    "name": "Matheus Rafael",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/122946104?s=72&u=b9101738bea61a6b8c452c2058925c2017300a88&v=4",
+    "location": "Brasil",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 15,
+    "createdAt": "2023-01-18T00:35:12Z"
   }
 ]

@@ -30116,7 +30116,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 31,
-    "publicContributions": 24,
+    "publicContributions": 10,
     "createdAt": "2023-05-18T15:16:29Z"
   },
   {
@@ -30127,8 +30127,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 49,
-    "publicContributions": 252,
+    "privateContributions": 56,
+    "publicContributions": 253,
     "createdAt": "2023-03-27T16:50:55Z"
   },
   {
@@ -30138,9 +30138,9 @@
     "location": "Portugal",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 49,
+    "publicContributions": 51,
     "createdAt": "2023-01-25T22:31:28Z"
   },
   {
@@ -30150,7 +30150,7 @@
     "location": "Coimbra, Portugal",
     "company": "Substantial Group",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-01-24T15:40:30Z"
@@ -30162,9 +30162,9 @@
     "location": "Porto, Portugal",
     "company": "JQ AI SYSTEMS",
     "twitterUsername": "joaojbqueiros",
-    "followers": 5,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 186,
+    "publicContributions": 198,
     "createdAt": "2023-02-16T14:51:30Z"
   },
   {
@@ -30175,21 +30175,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 829,
+    "privateContributions": 818,
     "publicContributions": 77,
     "createdAt": "2023-01-17T18:22:04Z"
-  },
-  {
-    "login": "MatheusRafas",
-    "name": "Matheus Rafael",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/122946104?s=72&u=b9101738bea61a6b8c452c2058925c2017300a88&v=4",
-    "location": "Portugal",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 12,
-    "createdAt": "2023-01-18T00:35:12Z"
   },
   {
     "login": "FranciscoMotaa",
@@ -30200,19 +30188,19 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 50,
+    "publicContributions": 71,
     "createdAt": "2023-04-01T18:13:06Z"
   },
   {
     "login": "jorgeflmendes",
     "name": "Jorge Filipe Lamas Mendes",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/124299088?s=72&u=235a089f9b7fa7d135dfb3f1384e0d9ed896d809&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/124299088?s=72&u=3103a9e32484fe7e95e6bfb2c5348f4014c93af2&v=4",
     "location": "Lisbon, Portugal",
     "company": "Instituto Superior Técnico",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 154,
-    "publicContributions": 264,
+    "privateContributions": 0,
+    "publicContributions": 340,
     "createdAt": "2023-02-02T18:19:43Z"
   },
   {
@@ -30223,7 +30211,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 0,
+    "privateContributions": 5,
     "publicContributions": 0,
     "createdAt": "2023-02-13T17:39:46Z"
   },
@@ -30236,7 +30224,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 131,
     "createdAt": "2023-04-22T21:02:02Z"
   },
   {
@@ -30247,8 +30235,8 @@
     "company": "IPCA",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 22,
-    "publicContributions": 59,
+    "privateContributions": 17,
+    "publicContributions": 64,
     "createdAt": "2023-01-24T12:47:07Z"
   },
   {
@@ -30259,7 +30247,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 40,
+    "privateContributions": 14,
     "publicContributions": 59,
     "createdAt": "2023-01-06T14:05:37Z"
   },
@@ -30308,7 +30296,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 56,
+    "publicContributions": 51,
     "createdAt": "2023-02-21T17:16:45Z"
   },
   {
@@ -30332,7 +30320,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 140,
+    "publicContributions": 113,
     "createdAt": "2023-05-10T12:34:32Z"
   },
   {

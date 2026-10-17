@@ -29947,8 +29947,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 24,
-    "privateContributions": 187,
-    "publicContributions": 227,
+    "privateContributions": 130,
+    "publicContributions": 184,
     "createdAt": "2023-09-03T21:32:34Z"
   },
   {
@@ -29960,7 +29960,7 @@
     "twitterUsername": "",
     "followers": 24,
     "privateContributions": 0,
-    "publicContributions": 35,
+    "publicContributions": 64,
     "createdAt": "2023-07-21T00:47:23Z"
   },
   {
@@ -29970,9 +29970,9 @@
     "location": "morocco",
     "company": "1337",
     "twitterUsername": "",
-    "followers": 23,
-    "privateContributions": 156,
-    "publicContributions": 103,
+    "followers": 22,
+    "privateContributions": 540,
+    "publicContributions": 213,
     "createdAt": "2023-11-20T16:42:17Z"
   },
   {
@@ -29982,9 +29982,9 @@
     "location": "Rabat, Morocco",
     "company": "YouCan",
     "twitterUsername": "itseihab",
-    "followers": 23,
-    "privateContributions": 538,
-    "publicContributions": 749,
+    "followers": 25,
+    "privateContributions": 627,
+    "publicContributions": 830,
     "createdAt": "2023-09-01T08:33:31Z"
   },
   {
@@ -29994,7 +29994,7 @@
     "location": "Morocco",
     "company": "",
     "twitterUsername": "",
-    "followers": 22,
+    "followers": 21,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-11-14T22:18:59Z"
@@ -30003,24 +30003,24 @@
     "login": "Moraouid",
     "name": "Soufiane El Abboubi",
     "avatarUrl": "https://avatars.githubusercontent.com/u/140103287?s=72&u=9c723e11030e0767d5f5a3d0341017daf2c561e4&v=4",
-    "location": "Morocco",
+    "location": "Rabat Morocco",
     "company": "1337 coding school ",
     "twitterUsername": "",
-    "followers": 22,
-    "privateContributions": 204,
-    "publicContributions": 77,
+    "followers": 31,
+    "privateContributions": 257,
+    "publicContributions": 274,
     "createdAt": "2023-07-20T17:15:14Z"
   },
   {
     "login": "ElmehdiElkabia",
-    "name": "El mehdi Elkabia",
+    "name": "Software Engineer | Full-Stack Developer",
     "avatarUrl": "https://avatars.githubusercontent.com/u/149374411?s=72&v=4",
     "location": "morocco",
     "company": "1337",
     "twitterUsername": "",
-    "followers": 22,
+    "followers": 34,
     "privateContributions": 0,
-    "publicContributions": 697,
+    "publicContributions": 853,
     "createdAt": "2023-10-30T09:46:34Z"
   },
   {
@@ -30043,8 +30043,8 @@
     "company": "1337 Coding School",
     "twitterUsername": "",
     "followers": 21,
-    "privateContributions": 30,
-    "publicContributions": 100,
+    "privateContributions": 17,
+    "publicContributions": 127,
     "createdAt": "2023-07-22T19:00:30Z"
   },
   {
@@ -30055,21 +30055,9 @@
     "company": "Simplon",
     "twitterUsername": "",
     "followers": 20,
-    "privateContributions": 70,
-    "publicContributions": 5,
+    "privateContributions": 71,
+    "publicContributions": 1,
     "createdAt": "2023-07-21T07:59:51Z"
-  },
-  {
-    "login": "Foullane-Mohamed",
-    "name": "‪Mohamed Foullane‬‏",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/142094528?s=72&u=d07ef57feda42d288e38a7879940fde3aa576482&v=4",
-    "location": "Agadir,Morocco",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 20,
-    "privateContributions": 78,
-    "publicContributions": 325,
-    "createdAt": "2023-08-12T11:54:50Z"
   },
   {
     "login": "RihamBouchiha",
@@ -30079,20 +30067,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 20,
-    "privateContributions": 97,
-    "publicContributions": 128,
+    "privateContributions": 110,
+    "publicContributions": 165,
     "createdAt": "2023-09-26T21:06:34Z"
   },
   {
     "login": "BoringCookiie",
     "name": "AICHA EL HORRE",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/154907447?s=72&u=03689e959e24bb8daef65e02159accaf53e386e7&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/154907447?s=72&u=3d4b533c8e67d562cb052c37f2c7ef5226939640&v=4",
     "location": "Marrakesh, Morocco.",
     "company": "",
     "twitterUsername": "",
-    "followers": 20,
+    "followers": 19,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 41,
     "createdAt": "2023-12-26T15:32:34Z"
   },
   {
@@ -30104,7 +30092,7 @@
     "twitterUsername": "",
     "followers": 19,
     "privateContributions": 0,
-    "publicContributions": 263,
+    "publicContributions": 312,
     "createdAt": "2023-08-01T00:54:32Z"
   },
   {
@@ -30114,9 +30102,9 @@
     "location": "Taroudant/Morocco",
     "company": "",
     "twitterUsername": "",
-    "followers": 19,
+    "followers": 21,
     "privateContributions": 0,
-    "publicContributions": 103,
+    "publicContributions": 92,
     "createdAt": "2023-09-08T00:24:28Z"
   },
   {
@@ -30126,9 +30114,9 @@
     "location": "Morocco",
     "company": "",
     "twitterUsername": "",
-    "followers": 19,
+    "followers": 20,
     "privateContributions": 0,
-    "publicContributions": 470,
+    "publicContributions": 299,
     "createdAt": "2023-07-11T10:10:08Z"
   },
   {
@@ -30138,8 +30126,8 @@
     "location": "Morocco",
     "company": "",
     "twitterUsername": "vitocorleone2g",
-    "followers": 19,
-    "privateContributions": 139,
+    "followers": 20,
+    "privateContributions": 86,
     "publicContributions": 11,
     "createdAt": "2023-09-10T13:14:10Z"
   },
@@ -30152,7 +30140,7 @@
     "twitterUsername": "",
     "followers": 19,
     "privateContributions": 0,
-    "publicContributions": 311,
+    "publicContributions": 241,
     "createdAt": "2023-11-26T11:00:26Z"
   },
   {
@@ -30164,7 +30152,7 @@
     "twitterUsername": "",
     "followers": 19,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 3,
     "createdAt": "2023-09-22T11:46:07Z"
   },
   {
@@ -30174,9 +30162,9 @@
     "location": "Morocco",
     "company": "",
     "twitterUsername": "",
-    "followers": 19,
-    "privateContributions": 233,
-    "publicContributions": 8,
+    "followers": 18,
+    "privateContributions": 266,
+    "publicContributions": 6,
     "createdAt": "2023-07-04T12:08:18Z"
   },
   {

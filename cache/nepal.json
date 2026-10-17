@@ -30212,7 +30212,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 32,
+    "publicContributions": 37,
     "createdAt": "2024-11-18T07:15:12Z"
   },
   {
@@ -30222,9 +30222,9 @@
     "location": "Birgunj-17, Parsa, Nepal",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 36,
+    "publicContributions": 23,
     "createdAt": "2024-11-02T10:59:01Z"
   },
   {
@@ -30234,9 +30234,9 @@
     "location": "Nepal",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 6,
     "createdAt": "2024-10-26T09:01:14Z"
   },
   {
@@ -30248,20 +30248,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 0,
     "createdAt": "2024-09-27T14:46:55Z"
-  },
-  {
-    "login": "Agrim-Bhatta",
-    "name": "Agrim Bhatta",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/190735288?s=72&v=4",
-    "location": "Kathmandu,Nepal",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 4,
-    "createdAt": "2024-12-05T13:00:17Z"
   },
   {
     "login": "Sases-Chaudhary",
@@ -30284,7 +30272,7 @@
     "twitterUsername": "pant_subhakar",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 30,
     "createdAt": "2024-11-14T07:17:31Z"
   },
   {
@@ -30307,7 +30295,7 @@
     "company": "@Niural ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 4979,
+    "privateContributions": 5216,
     "publicContributions": 0,
     "createdAt": "2024-09-16T06:04:59Z"
   },
@@ -30319,8 +30307,8 @@
     "company": "BIrendra Multiple Campus,Bharatpur",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 67,
-    "publicContributions": 41,
+    "privateContributions": 98,
+    "publicContributions": 40,
     "createdAt": "2024-10-20T12:31:57Z"
   },
   {
@@ -30380,7 +30368,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 4,
     "createdAt": "2024-11-15T05:25:19Z"
   },
   {
@@ -30392,20 +30380,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2024-11-28T08:10:19Z"
-  },
-  {
-    "login": "ChiragKuikel",
-    "name": "Chirag Kuinkel",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/183338576?s=72&u=2cf47c9104c29ae774177cb1561312b5b1212189&v=4",
-    "location": "Kathmandu,Nepal",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 457,
-    "publicContributions": 40,
-    "createdAt": "2024-09-30T04:57:47Z"
   },
   {
     "login": "sumanashrestha",
@@ -30422,13 +30398,13 @@
   {
     "login": "saantdahal",
     "name": "Santosh",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/164855425?s=72&u=72d96ca32d6ac53627877ca97100a082bce26121&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/164855425?s=72&u=582cad959e79d833c852fd3c52bc5f70d9256a1d&v=4",
     "location": "Kathmandu",
     "company": "",
     "twitterUsername": "",
-    "followers": 61,
-    "privateContributions": 3027,
-    "publicContributions": 501,
+    "followers": 62,
+    "privateContributions": 3189,
+    "publicContributions": 541,
     "createdAt": "2024-03-25T07:54:37Z"
   },
   {

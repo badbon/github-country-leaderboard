@@ -967,8 +967,8 @@
     "company": "88Bit Limited",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 7265,
-    "publicContributions": 62,
+    "privateContributions": 7153,
+    "publicContributions": 57,
     "createdAt": "2023-01-24T10:55:49Z"
   },
   {
@@ -1016,7 +1016,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 9,
     "createdAt": "2023-12-12T14:12:06Z"
   },
   {
@@ -1027,7 +1027,7 @@
     "company": "Me",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 1364,
+    "privateContributions": 1376,
     "publicContributions": 30,
     "createdAt": "2023-07-23T10:26:14Z"
   },
@@ -1075,7 +1075,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 60,
+    "privateContributions": 64,
     "publicContributions": 2,
     "createdAt": "2023-06-24T23:59:00Z"
   },
@@ -1136,7 +1136,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 81,
+    "publicContributions": 79,
     "createdAt": "2023-03-30T13:21:10Z"
   },
   {
@@ -1186,18 +1186,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-08-14T12:21:21Z"
-  },
-  {
-    "login": "Zarvi16G",
-    "name": "Santiago Boada",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/145895650?s=72&u=7788f43acc3fcfd571392ebbf4f630f104db5a8f&v=4",
-    "location": "Malta",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 19,
-    "createdAt": "2023-09-24T07:45:21Z"
   },
   {
     "login": "Gabriel-Debono-Tanti",
