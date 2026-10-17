@@ -4316,7 +4316,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 11,
     "createdAt": "2024-11-01T09:12:55Z"
   },
   {
@@ -4352,7 +4352,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 192,
+    "publicContributions": 182,
     "createdAt": "2024-05-17T18:42:26Z"
   },
   {
@@ -4386,7 +4386,7 @@
     "location": "Ramallah",
     "company": "Birzeit University",
     "twitterUsername": "",
-    "followers": 76,
+    "followers": 75,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-01-04T16:02:56Z"
@@ -4400,7 +4400,7 @@
     "twitterUsername": "",
     "followers": 22,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2024-01-16T19:08:46Z"
   },
   {
@@ -4412,7 +4412,7 @@
     "twitterUsername": "",
     "followers": 20,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 25,
     "createdAt": "2024-04-21T10:29:18Z"
   },
   {
@@ -4434,7 +4434,7 @@
     "location": "Ramallah",
     "company": "",
     "twitterUsername": "",
-    "followers": 23,
+    "followers": 24,
     "privateContributions": 0,
     "publicContributions": 91,
     "createdAt": "2024-08-16T07:48:31Z"
@@ -4459,7 +4459,7 @@
     "company": "Birzeit Univeristy",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 66,
+    "privateContributions": 102,
     "publicContributions": 373,
     "createdAt": "2024-09-15T07:37:02Z"
   },
@@ -4482,7 +4482,7 @@
     "location": "Ramallah",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 9,
     "privateContributions": 87,
     "publicContributions": 38,
     "createdAt": "2024-12-01T18:45:46Z"
@@ -4490,12 +4490,12 @@
   {
     "login": "LayanJarrar1",
     "name": "Layan Jarrar",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/169552015?s=72&u=eac1a6db83941a5c3dbabd42e03df1ad4a8cd668&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/169552015?s=72&u=e338c7da5327dabea944d405dfc9c61f8c9bf4a2&v=4",
     "location": "Ramallah",
-    "company": "Birzeit University",
+    "company": "iConnect Technologies",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 381,
+    "privateContributions": 461,
     "publicContributions": 151,
     "createdAt": "2024-05-11T17:54:12Z"
   },

@@ -30648,18 +30648,6 @@
     "createdAt": "2022-08-09T11:53:09Z"
   },
   {
-    "login": "EmanueleNoa",
-    "name": "Emanuele Caprioli",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/111569178?s=72&v=4",
-    "location": "Oslo",
-    "company": "NoA Ignite Norge",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2022-08-19T09:44:23Z"
-  },
-  {
     "login": "byrjall",
     "name": "filip",
     "avatarUrl": "https://avatars.githubusercontent.com/u/113179365?s=72&u=8ab1bc7aa4ea40724c0f5b0c4c37a40a790d9782&v=4",
@@ -30702,8 +30690,8 @@
     "location": "Oslo",
     "company": "Skyfri",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 42,
+    "followers": 2,
+    "privateContributions": 15,
     "publicContributions": 0,
     "createdAt": "2022-08-22T08:07:53Z"
   },
@@ -30738,9 +30726,9 @@
     "location": "Oslo",
     "company": "DNB Bank ASA",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 849,
+    "publicContributions": 1284,
     "createdAt": "2022-10-16T18:13:15Z"
   },
   {
@@ -30788,7 +30776,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 82,
+    "publicContributions": 39,
     "createdAt": "2022-06-07T15:05:08Z"
   },
   {
