@@ -29516,7 +29516,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 9,
-    "publicContributions": 4,
+    "publicContributions": 2,
     "createdAt": "2018-09-06T14:49:49Z"
   },
   {
@@ -29551,7 +29551,7 @@
     "company": "@vinted ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 191,
+    "privateContributions": 178,
     "publicContributions": 0,
     "createdAt": "2018-05-07T08:24:38Z"
   },
@@ -29592,18 +29592,6 @@
     "createdAt": "2018-11-01T21:54:21Z"
   },
   {
-    "login": "KostasSliazas",
-    "name": "Kostas",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/31342007?s=72&v=4",
-    "location": "Lithuania",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3163,
-    "privateContributions": 18,
-    "publicContributions": 510,
-    "createdAt": "2017-08-25T09:01:17Z"
-  },
-  {
     "login": "vb100",
     "name": "Vytautas Bielinskas",
     "avatarUrl": "https://avatars.githubusercontent.com/u/29836346?s=72&u=15f2b5000188cb24fd130797f64e024686413d97&v=4",
@@ -29612,7 +29600,7 @@
     "twitterUsername": "",
     "followers": 128,
     "privateContributions": 0,
-    "publicContributions": 136,
+    "publicContributions": 121,
     "createdAt": "2017-07-02T12:30:50Z"
   },
   {
@@ -29622,9 +29610,9 @@
     "location": "Vilnius, Lithuania",
     "company": "@quassum ",
     "twitterUsername": "bringshrubberyy",
-    "followers": 117,
-    "privateContributions": 11780,
-    "publicContributions": 623,
+    "followers": 121,
+    "privateContributions": 15445,
+    "publicContributions": 1615,
     "createdAt": "2017-06-11T22:35:55Z"
   },
   {
@@ -29634,9 +29622,9 @@
     "location": "Lithuania",
     "company": "",
     "twitterUsername": "kiprasmel",
-    "followers": 100,
-    "privateContributions": 2055,
-    "publicContributions": 202,
+    "followers": 103,
+    "privateContributions": 10152,
+    "publicContributions": 224,
     "createdAt": "2017-06-14T12:17:08Z"
   },
   {
@@ -29647,8 +29635,8 @@
     "company": "Softeq Development",
     "twitterUsername": "",
     "followers": 85,
-    "privateContributions": 1,
-    "publicContributions": 9,
+    "privateContributions": 1459,
+    "publicContributions": 13,
     "createdAt": "2017-03-15T16:40:10Z"
   },
   {
@@ -29658,8 +29646,8 @@
     "location": "Lithuania",
     "company": "@Unity-Technologies ",
     "twitterUsername": "tomces375",
-    "followers": 72,
-    "privateContributions": 30,
+    "followers": 71,
+    "privateContributions": 57,
     "publicContributions": 0,
     "createdAt": "2017-08-03T18:04:15Z"
   },
@@ -29670,9 +29658,9 @@
     "location": "Vilnius, Lithuania",
     "company": "",
     "twitterUsername": "",
-    "followers": 50,
-    "privateContributions": 121,
-    "publicContributions": 5,
+    "followers": 49,
+    "privateContributions": 160,
+    "publicContributions": 9,
     "createdAt": "2017-11-11T20:58:09Z"
   },
   {
@@ -29682,9 +29670,9 @@
     "location": "Vilnius, Lithuania",
     "company": "Nikulipe",
     "twitterUsername": "",
-    "followers": 41,
+    "followers": 43,
     "privateContributions": 8,
-    "publicContributions": 15,
+    "publicContributions": 19,
     "createdAt": "2017-09-28T16:27:12Z"
   },
   {
@@ -29695,7 +29683,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 41,
-    "privateContributions": 0,
+    "privateContributions": 1,
     "publicContributions": 45,
     "createdAt": "2017-03-24T16:27:39Z"
   },
@@ -29726,11 +29714,11 @@
   {
     "login": "glebremniov",
     "name": "Hleb Ramniou",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/33552673?s=72&u=83f3c679aeef876fae293b458b5ab377894bb973&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/33552673?s=72&u=e65db95a653bb3a8e3d21cd0307776538bf88d70&v=4",
     "location": "Vilnius, Lithuania",
     "company": "",
     "twitterUsername": "",
-    "followers": 36,
+    "followers": 37,
     "privateContributions": 191,
     "publicContributions": 787,
     "createdAt": "2017-11-10T16:17:13Z"

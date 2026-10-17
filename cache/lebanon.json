@@ -29658,7 +29658,7 @@
     "location": "Lebanon",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 11,
     "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2012-01-22T23:16:52Z"
@@ -29672,7 +29672,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 8,
     "createdAt": "2012-01-02T12:08:29Z"
   },
   {
@@ -29719,7 +29719,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 310,
+    "privateContributions": 1012,
     "publicContributions": 6,
     "createdAt": "2012-01-25T02:30:53Z"
   },
@@ -29732,7 +29732,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 3,
     "createdAt": "2012-06-22T23:52:53Z"
   },
   {
@@ -29743,7 +29743,7 @@
     "company": "Data Quest sal.",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 3,
+    "privateContributions": 613,
     "publicContributions": 225,
     "createdAt": "2012-01-20T15:42:10Z"
   },
@@ -29766,22 +29766,10 @@
     "location": "Lebanon",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 117,
+    "publicContributions": 127,
     "createdAt": "2012-12-26T19:19:38Z"
-  },
-  {
-    "login": "hjawhar",
-    "name": "Hassan Jawhar",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/2130661?s=72&u=f07528ce1f33860b4916981df0090576c5ce573f&v=4",
-    "location": "Lebanon",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 572,
-    "publicContributions": 142,
-    "createdAt": "2012-08-10T15:45:30Z"
   },
   {
     "login": "josephelkhoury",
@@ -29815,7 +29803,7 @@
     "company": "Mangomolo",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 367,
+    "privateContributions": 428,
     "publicContributions": 0,
     "createdAt": "2012-11-26T19:16:08Z"
   },
@@ -29864,7 +29852,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2012-07-04T20:54:33Z"
   },
   {

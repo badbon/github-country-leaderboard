@@ -29539,21 +29539,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 76,
-    "publicContributions": 10,
+    "privateContributions": 92,
+    "publicContributions": 9,
     "createdAt": "2020-09-05T14:01:41Z"
-  },
-  {
-    "login": "zmkq",
-    "name": "MO",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/74769232?s=72&u=016726076b2f120425a385b371e1238d88878bfc&v=4",
-    "location": "Amman, Jordan",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 669,
-    "publicContributions": 108,
-    "createdAt": "2020-11-20T10:29:54Z"
   },
   {
     "login": "OlaHalawani",
@@ -29562,9 +29550,9 @@
     "location": "Jordan",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 4,
     "privateContributions": 73,
-    "publicContributions": 0,
+    "publicContributions": 5,
     "createdAt": "2020-04-23T19:29:37Z"
   },
   {
@@ -29586,9 +29574,9 @@
     "location": "Amman Jordan ",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 1516,
-    "publicContributions": 6,
+    "followers": 5,
+    "privateContributions": 884,
+    "publicContributions": 0,
     "createdAt": "2020-10-15T15:08:50Z"
   },
   {
@@ -29599,7 +29587,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 4342,
+    "privateContributions": 6192,
     "publicContributions": 12,
     "createdAt": "2020-11-15T08:23:31Z"
   },
@@ -29635,7 +29623,7 @@
     "company": "@scarletPlus",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 310,
+    "privateContributions": 692,
     "publicContributions": 4,
     "createdAt": "2020-12-22T12:48:27Z"
   },
@@ -29670,7 +29658,7 @@
     "location": "Jordan",
     "company": "Al al-Bayt University",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2020-07-09T21:46:50Z"
@@ -29718,9 +29706,9 @@
     "location": "Amman, Jordan",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 109,
-    "publicContributions": 52,
+    "followers": 6,
+    "privateContributions": 210,
+    "publicContributions": 38,
     "createdAt": "2020-10-04T17:31:51Z"
   },
   {
@@ -29732,7 +29720,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 54,
+    "publicContributions": 73,
     "createdAt": "2020-11-14T17:21:35Z"
   },
   {
@@ -29742,7 +29730,7 @@
     "location": "Jordan",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-09-30T21:05:24Z"
@@ -29756,7 +29744,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 7,
-    "publicContributions": 495,
+    "publicContributions": 482,
     "createdAt": "2020-01-12T07:25:28Z"
   },
   {
@@ -29766,7 +29754,7 @@
     "location": "jordan",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 13,
     "createdAt": "2020-05-14T14:22:56Z"

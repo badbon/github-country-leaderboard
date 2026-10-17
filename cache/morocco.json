@@ -29238,7 +29238,7 @@
     "location": "Morocco",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-01-23T13:18:55Z"
@@ -29252,7 +29252,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 10,
     "createdAt": "2023-02-15T09:45:35Z"
   },
   {
@@ -29276,7 +29276,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 17,
     "createdAt": "2023-03-04T11:17:11Z"
   },
   {
@@ -29298,7 +29298,7 @@
     "location": "Morocco",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 13,
     "createdAt": "2023-05-14T08:29:58Z"
@@ -29310,9 +29310,9 @@
     "location": "Casablanca, Morocco",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 48,
     "createdAt": "2023-01-21T19:23:07Z"
   },
   {
@@ -29324,7 +29324,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 9,
     "createdAt": "2023-03-25T00:57:45Z"
   },
   {
@@ -29334,21 +29334,21 @@
     "location": "Meknes, Morocco",
     "company": "UMI",
     "twitterUsername": "",
-    "followers": 981,
+    "followers": 999,
     "privateContributions": 0,
-    "publicContributions": 591,
+    "publicContributions": 519,
     "createdAt": "2023-11-04T20:27:34Z"
   },
   {
     "login": "CandleLearner-M",
     "name": "Mostafa El Issati",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/154463223?s=72&u=b0a0e0a9f1ca4a0c95dbaabcb34c08d4613d3922&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/154463223?s=72&u=b86315483240fd5dd54a6b99ae6ff50ef43631e3&v=4",
     "location": "Tangier, Morocco",
     "company": "",
     "twitterUsername": "",
-    "followers": 828,
-    "privateContributions": 540,
-    "publicContributions": 11,
+    "followers": 1105,
+    "privateContributions": 396,
+    "publicContributions": 7,
     "createdAt": "2023-12-20T18:31:16Z"
   },
   {
@@ -29358,9 +29358,9 @@
     "location": "Morocco",
     "company": "Zone01 Oujda",
     "twitterUsername": "",
-    "followers": 295,
+    "followers": 285,
     "privateContributions": 0,
-    "publicContributions": 406,
+    "publicContributions": 222,
     "createdAt": "2023-09-20T22:21:26Z"
   },
   {
@@ -29370,9 +29370,9 @@
     "location": "Morocco, Rabat",
     "company": "Mohammed VI Polytechnic University",
     "twitterUsername": "harunnoir",
-    "followers": 166,
-    "privateContributions": 122,
-    "publicContributions": 720,
+    "followers": 170,
+    "privateContributions": 73,
+    "publicContributions": 562,
     "createdAt": "2023-11-26T15:40:52Z"
   },
   {
@@ -29380,24 +29380,12 @@
     "name": "KHALID EDAOUDI",
     "avatarUrl": "https://avatars.githubusercontent.com/u/143753740?s=72&u=7cda6dbd0726c3607713cca2b67bcaa7dc37a516&v=4",
     "location": "Casablanca, Morocco",
-    "company": "ENSAM, University Hassan II of Casablanca",
+    "company": "Bimdiag International",
     "twitterUsername": "",
-    "followers": 146,
-    "privateContributions": 699,
-    "publicContributions": 338,
+    "followers": 142,
+    "privateContributions": 1064,
+    "publicContributions": 260,
     "createdAt": "2023-08-31T20:16:51Z"
-  },
-  {
-    "login": "abdelkabirouadoukou",
-    "name": "Abdelkabir Ouadoukou",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/152230716?s=72&u=60bb48b59a338758cc721c3b9aa4cffc3bed93c3&v=4",
-    "location": "Marrakesh, Morocco",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 145,
-    "privateContributions": 328,
-    "publicContributions": 571,
-    "createdAt": "2023-11-27T23:30:08Z"
   },
   {
     "login": "sanaa-ennaji",
@@ -29406,7 +29394,7 @@
     "location": "Morocco",
     "company": "",
     "twitterUsername": "EnngSanae12068",
-    "followers": 141,
+    "followers": 139,
     "privateContributions": 5,
     "publicContributions": 2,
     "createdAt": "2023-09-12T10:36:34Z"
@@ -29418,9 +29406,9 @@
     "location": "morocco, casablanca",
     "company": "1337 coding scholl",
     "twitterUsername": "the_real_rayn",
-    "followers": 132,
-    "privateContributions": 24,
-    "publicContributions": 440,
+    "followers": 137,
+    "privateContributions": 67,
+    "publicContributions": 432,
     "createdAt": "2023-07-12T18:41:32Z"
   },
   {
@@ -29430,9 +29418,9 @@
     "location": "MOROCCO",
     "company": "ENSAO",
     "twitterUsername": "",
-    "followers": 125,
-    "privateContributions": 77,
-    "publicContributions": 103,
+    "followers": 130,
+    "privateContributions": 481,
+    "publicContributions": 211,
     "createdAt": "2023-11-14T15:43:52Z"
   },
   {
@@ -29442,9 +29430,9 @@
     "location": "Morocco",
     "company": "Frontend Developer",
     "twitterUsername": "",
-    "followers": 124,
+    "followers": 123,
     "privateContributions": 0,
-    "publicContributions": 81,
+    "publicContributions": 0,
     "createdAt": "2023-07-06T04:21:10Z"
   },
   {
@@ -29454,9 +29442,9 @@
     "location": "Morocco",
     "company": "zone01 Oujda",
     "twitterUsername": "",
-    "followers": 118,
-    "privateContributions": 305,
-    "publicContributions": 712,
+    "followers": 120,
+    "privateContributions": 396,
+    "publicContributions": 530,
     "createdAt": "2023-11-05T22:46:28Z"
   },
   {
@@ -29466,9 +29454,9 @@
     "location": "Morocco",
     "company": "IT",
     "twitterUsername": "",
-    "followers": 104,
-    "privateContributions": 485,
-    "publicContributions": 358,
+    "followers": 92,
+    "privateContributions": 410,
+    "publicContributions": 356,
     "createdAt": "2023-12-09T09:11:29Z"
   },
   {

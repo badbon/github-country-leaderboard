@@ -29730,7 +29730,7 @@
     "location": "Romania, Cluj-Napoca",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-10-13T13:11:11Z"
@@ -29756,7 +29756,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 3,
     "createdAt": "2022-05-10T18:11:41Z"
   },
   {
@@ -29766,9 +29766,9 @@
     "location": "Cluj-Napoca, Romania ",
     "company": "Babeş-Bolyai University",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 27,
     "createdAt": "2022-09-24T14:24:16Z"
   },
   {
@@ -29792,7 +29792,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 162,
+    "publicContributions": 99,
     "createdAt": "2022-02-06T04:33:42Z"
   },
   {
@@ -29802,7 +29802,7 @@
     "location": "Bucharest, Romania",
     "company": "Faculty of Automatic Control and Computer Science",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-03-09T19:24:41Z"
@@ -29845,14 +29845,14 @@
   },
   {
     "login": "avunit1",
-    "name": "Balanescu Eduard",
+    "name": "",
     "avatarUrl": "https://avatars.githubusercontent.com/u/101359494?s=72&u=fd615873146e7110a4107b1e663589b49b866c68&v=4",
-    "location": "Neamt, Romania",
+    "location": "Romania",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 54,
+    "publicContributions": 67,
     "createdAt": "2022-03-10T19:03:56Z"
   },
   {

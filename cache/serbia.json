@@ -29599,8 +29599,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 9,
-    "publicContributions": 5,
+    "privateContributions": 14,
+    "publicContributions": 4,
     "createdAt": "2021-09-16T17:32:05Z"
   },
   {
@@ -29611,8 +29611,8 @@
     "company": "School of Electrical Enginering",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 77,
-    "publicContributions": 36,
+    "privateContributions": 80,
+    "publicContributions": 35,
     "createdAt": "2021-07-28T12:07:19Z"
   },
   {
@@ -29624,7 +29624,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 4,
     "createdAt": "2021-02-09T13:06:34Z"
   },
   {
@@ -29646,8 +29646,8 @@
     "location": "Belgrade",
     "company": "Radiacode",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 483,
+    "followers": 5,
+    "privateContributions": 584,
     "publicContributions": 0,
     "createdAt": "2021-06-09T17:02:13Z"
   },
@@ -29659,7 +29659,7 @@
     "company": "Phuket d.o.o.",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 61,
+    "privateContributions": 67,
     "publicContributions": 0,
     "createdAt": "2021-05-19T11:54:04Z"
   },
@@ -29670,9 +29670,9 @@
     "location": "Belgrade",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 81,
+    "publicContributions": 59,
     "createdAt": "2021-01-21T10:18:25Z"
   },
   {
@@ -29682,7 +29682,7 @@
     "location": "Belgrade",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 33,
     "publicContributions": 0,
     "createdAt": "2021-03-05T22:30:41Z"
@@ -29706,15 +29706,15 @@
     "location": "Belgrade",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 1146,
-    "publicContributions": 174,
+    "followers": 3,
+    "privateContributions": 861,
+    "publicContributions": 321,
     "createdAt": "2021-07-19T10:01:42Z"
   },
   {
     "login": "ManSe404",
     "name": "Stefan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/87141348?s=72&u=3fece11cb55651595a57fa28580bc14193f730de&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/87141348?s=72&u=7200078af900fb765bcebf6a7ff6cb4533028472&v=4",
     "location": "Belgrade",
     "company": "",
     "twitterUsername": "",
@@ -29744,7 +29744,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 41,
-    "publicContributions": 67,
+    "publicContributions": 47,
     "createdAt": "2021-12-23T20:31:56Z"
   },
   {
@@ -29792,7 +29792,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 218,
+    "publicContributions": 232,
     "createdAt": "2021-03-02T15:03:33Z"
   },
   {
@@ -29826,9 +29826,9 @@
     "location": "Belgrade",
     "company": "Institute of Physics, Belgrade",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 284,
-    "publicContributions": 27,
+    "followers": 4,
+    "privateContributions": 364,
+    "publicContributions": 20,
     "createdAt": "2021-05-25T14:43:09Z"
   },
   {
@@ -127966,5 +127966,17 @@
     "privateContributions": 0,
     "publicContributions": 14,
     "createdAt": "2026-06-29T20:40:41Z"
+  },
+  {
+    "login": "Leonid-Sarmatov",
+    "name": "Leonid Sarmatov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/95071562?s=72&u=010447fe3319beaf12b895710dbac523740b50f0&v=4",
+    "location": "Belgrade, Serbia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 17,
+    "privateContributions": 0,
+    "publicContributions": 128,
+    "createdAt": "2021-11-26T07:27:33Z"
   }
 ]

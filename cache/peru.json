@@ -29372,7 +29372,7 @@
     "twitterUsername": "",
     "followers": 23,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 0,
     "createdAt": "2022-11-21T21:50:28Z"
   },
   {
@@ -29394,9 +29394,9 @@
     "location": "Perú / Lima",
     "company": "",
     "twitterUsername": "",
-    "followers": 22,
+    "followers": 20,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 7,
     "createdAt": "2022-12-13T14:27:04Z"
   },
   {
@@ -29407,21 +29407,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 21,
-    "privateContributions": 515,
-    "publicContributions": 372,
+    "privateContributions": 586,
+    "publicContributions": 353,
     "createdAt": "2022-03-26T17:39:46Z"
-  },
-  {
-    "login": "LeoCodeDev",
-    "name": "Leopoldo Martinez",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/100180275?s=72&u=7764f1abbcc6443f6ab5da7b436068aabd9a76b6&v=4",
-    "location": "Lima",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 21,
-    "privateContributions": 52,
-    "publicContributions": 0,
-    "createdAt": "2022-02-22T03:36:55Z"
   },
   {
     "login": "Nekolas777",
@@ -29431,8 +29419,8 @@
     "company": "Universidad Peruana de Ciencias Aplicadas",
     "twitterUsername": "",
     "followers": 21,
-    "privateContributions": 633,
-    "publicContributions": 56,
+    "privateContributions": 943,
+    "publicContributions": 75,
     "createdAt": "2022-12-10T21:54:46Z"
   },
   {
@@ -29442,9 +29430,9 @@
     "location": "Lima, Perú",
     "company": "",
     "twitterUsername": "",
-    "followers": 21,
-    "privateContributions": 34,
-    "publicContributions": 99,
+    "followers": 19,
+    "privateContributions": 41,
+    "publicContributions": 59,
     "createdAt": "2022-09-01T18:49:14Z"
   },
   {
@@ -29456,7 +29444,7 @@
     "twitterUsername": "",
     "followers": 20,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 5,
     "createdAt": "2022-08-13T03:44:10Z"
   },
   {
@@ -29466,7 +29454,7 @@
     "location": "Perú, Lima",
     "company": "",
     "twitterUsername": "",
-    "followers": 20,
+    "followers": 16,
     "privateContributions": 0,
     "publicContributions": 11,
     "createdAt": "2022-07-01T00:17:18Z"
@@ -29480,7 +29468,7 @@
     "twitterUsername": "",
     "followers": 20,
     "privateContributions": 0,
-    "publicContributions": 44,
+    "publicContributions": 3,
     "createdAt": "2022-03-24T00:03:50Z"
   },
   {
@@ -29490,7 +29478,7 @@
     "location": "Lima",
     "company": "Meta",
     "twitterUsername": "",
-    "followers": 20,
+    "followers": 26,
     "privateContributions": 0,
     "publicContributions": 7,
     "createdAt": "2022-09-20T23:01:30Z"
@@ -29503,7 +29491,7 @@
     "company": "Full-stack developer student in @microverseinc ",
     "twitterUsername": "VctorMC20",
     "followers": 19,
-    "privateContributions": 40,
+    "privateContributions": 12,
     "publicContributions": 0,
     "createdAt": "2022-08-04T02:41:22Z"
   },
@@ -29514,9 +29502,9 @@
     "location": "Lima, Perú",
     "company": "UPC",
     "twitterUsername": "",
-    "followers": 19,
+    "followers": 20,
     "privateContributions": 0,
-    "publicContributions": 52,
+    "publicContributions": 51,
     "createdAt": "2022-09-30T03:14:52Z"
   },
   {
@@ -29539,8 +29527,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 18,
-    "privateContributions": 46,
-    "publicContributions": 183,
+    "privateContributions": 74,
+    "publicContributions": 159,
     "createdAt": "2022-05-21T03:34:56Z"
   },
   {
@@ -29550,7 +29538,7 @@
     "location": "Lima, Perú",
     "company": "Freelance",
     "twitterUsername": "",
-    "followers": 18,
+    "followers": 17,
     "privateContributions": 0,
     "publicContributions": 17,
     "createdAt": "2022-09-27T15:46:21Z"
@@ -29574,7 +29562,7 @@
     "location": "Lima, Perú",
     "company": "",
     "twitterUsername": "",
-    "followers": 18,
+    "followers": 17,
     "privateContributions": 0,
     "publicContributions": 21,
     "createdAt": "2022-05-19T21:00:31Z"
