@@ -44,9 +44,9 @@ Indexed users: 3,507
 | 5 | [Manzi-Elvis](https://github.com/Manzi-Elvis) | Elvis Manzi | Rwanda | 6,117 |
 | 6 | [Yackx-tx](https://github.com/Yackx-tx) | Yannick Gisubizo | Kigali, Rwanda | 5,997 |
 | 7 | [Derrick-MUGISHA](https://github.com/Derrick-MUGISHA) | Derrick | kigali, Rwanda | 5,107 |
-| 8 | [abeltony-prog](https://github.com/abeltony-prog) | AbelTony | Kigali/Rwannda | 4,278 |
-| 9 | [JackOfficial](https://github.com/JackOfficial) | Musengimana Jacques | Kigali Rwanda | 4,103 |
-| 10 | [kawacukennedy](https://github.com/kawacukennedy) | KAWACU Kennedy | Kigali, Rwanda | 3,872 |
+| 8 | [JackOfficial](https://github.com/JackOfficial) | Musengimana Jacques | Kigali Rwanda | 4,103 |
+| 9 | [kawacukennedy](https://github.com/kawacukennedy) | KAWACU Kennedy | Kigali, Rwanda | 3,872 |
+| 10 | [abeltony-prog](https://github.com/abeltony-prog) | AbelTony | Kigali/Rwannda | 3,856 |
 | 11 | [leandre000](https://github.com/leandre000) | Izere Shema Leandre | Kigali,Rwanda | 3,661 |
 | 12 | [Icyubahiro-Jay-P](https://github.com/Icyubahiro-Jay-P) | JAY P | Kigali, Rwanda | 3,074 |
 | 13 | [Ndevu12](https://github.com/Ndevu12) | Jean Paul Elisa NIYOKWIZERWA | Kigali Rwanda | 2,996 |
@@ -83,4 +83,4 @@ Indexed users: 3,507
 | 19 | [ghislainb-cracker](https://github.com/ghislainb-cracker) | Ghislain Byimbo | Rwanda | 316 |
 | 20 | [shemaikuzwe](https://github.com/shemaikuzwe) | Ikuzwe shema Elie | rwanda | 314 |
 
-Generated: 2026-10-17T21:24:10.593Z
+Generated: 2026-10-17T23:45:38.558Z

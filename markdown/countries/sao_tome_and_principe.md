@@ -66,7 +66,7 @@ Indexed users: 20
 | 2 | [denisquintasluiz](https://github.com/denisquintasluiz) | Denis Luiz | São Gabriel, São Tomé e Príncipe | 26 |
 | 3 | [JoelGraca](https://github.com/JoelGraca) | Joel da Graça | São Tomé e Príncipe | 23 |
 | 4 | [nevesade](https://github.com/nevesade) |  NEVES ADENASIO | São Tomé e Príncipe | 15 |
-| 5 | [JoaoNoel](https://github.com/JoaoNoel) | JoaoNoel | São Tomé e Príncipe | 10 |
+| 5 | [JoaoNoel](https://github.com/JoaoNoel) | JoaoNoel | São Tomé e Príncipe | 11 |
 | 6 | [joaopontifice](https://github.com/joaopontifice) | John | Água Grande, São Tomé e Príncipe | 9 |
 | 7 | [Jivaldo-Cruz](https://github.com/Jivaldo-Cruz) | Jivaldo Da Cruz | São Tomé e Principe | 6 |
 | 8 | [StephannyBorges](https://github.com/StephannyBorges) | Stephanny Borges | São Tomé RN | 6 |
@@ -83,4 +83,4 @@ Indexed users: 20
 | 19 | [manoxum](https://github.com/manoxum) | Daniel Costa | São Tomé e Pricipe | 1 |
 | 20 | [USTP](https://github.com/USTP) | USTP - Universidade de São Tomé e Principe | São Tomé e Principe, São Tomé | 1 |
 
-Generated: 2026-10-17T21:29:04.173Z
+Generated: 2026-10-17T23:47:36.257Z

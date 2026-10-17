@@ -1,6 +1,6 @@
 # Followers - São Tomé and Príncipe
 
-Generated: 2026-10-17T21:29:04.173Z
+Generated: 2026-10-17T23:47:36.257Z
 
 Users: 20
 
@@ -10,7 +10,7 @@ Users: 20
 | 2 | [denisquintasluiz](https://github.com/denisquintasluiz) | Denis Luiz |  |  | São Gabriel, São Tomé e Príncipe | 26 |
 | 3 | [JoelGraca](https://github.com/JoelGraca) | Joel da Graça | FCT-USTP | GracaJoelson | São Tomé e Príncipe | 23 |
 | 4 | [nevesade](https://github.com/nevesade) |  NEVES ADENASIO |  |  | São Tomé e Príncipe | 15 |
-| 5 | [JoaoNoel](https://github.com/JoaoNoel) | JoaoNoel | Ministério da Educação e Ensino Superior |  | São Tomé e Príncipe | 10 |
+| 5 | [JoaoNoel](https://github.com/JoaoNoel) | JoaoNoel | Ministério da Educação e Ensino Superior |  | São Tomé e Príncipe | 11 |
 | 6 | [joaopontifice](https://github.com/joaopontifice) | John |  |  | Água Grande, São Tomé e Príncipe | 9 |
 | 7 | [Jivaldo-Cruz](https://github.com/Jivaldo-Cruz) | Jivaldo Da Cruz | SanCode | Jivaldo67839615 | São Tomé e Principe | 6 |
 | 8 | [StephannyBorges](https://github.com/StephannyBorges) | Stephanny Borges |  |  | São Tomé RN | 6 |
