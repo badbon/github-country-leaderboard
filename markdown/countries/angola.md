@@ -79,8 +79,8 @@ Indexed users: 2,500
 | 15 | [EufranioDiogo](https://github.com/EufranioDiogo) | Eufránio Diogo | Angola | 180 |
 | 16 | [nazarepiedady](https://github.com/nazarepiedady) | Nazaré da Piedade | Angola | 171 |
 | 17 | [cirilocanganjo](https://github.com/cirilocanganjo) | Cirilo Cussaca Canganjo | Luanda, Amgola | 170 |
-| 18 | [manuelernesto](https://github.com/manuelernesto) | Manuel Ernesto | Angola | 165 |
+| 18 | [manuelernesto](https://github.com/manuelernesto) | Manuel Ernesto | Angola | 166 |
 | 19 | [jofranqueira](https://github.com/jofranqueira) | José Frangueira | Angola | 160 |
 | 20 | [Jovanysfive](https://github.com/Jovanysfive) | Job Bento | Angola/Luanda | 152 |
 
-Generated: 2026-10-17T07:03:39.859Z
+Generated: 2026-10-17T08:16:52.834Z

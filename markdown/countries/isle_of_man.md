@@ -14,7 +14,7 @@ Indexed users: 155
 |---:|---|---|---|---:|
 | 1 | [Not-Chur-Architect](https://github.com/Not-Chur-Architect) | Nicholas Campisano | Isle of Man | 11,254 |
 | 2 | [auberryberry](https://github.com/auberryberry) | Aubrey Stearn | Isle of Man | 10,222 |
-| 3 | [bengris32](https://github.com/bengris32) | Ben | Isle of Man | 8,497 |
+| 3 | [bengris32](https://github.com/bengris32) | Ben | Isle of Man | 8,454 |
 | 4 | [darrenbarklie](https://github.com/darrenbarklie) | Darren Barklie | Isle of Man | 4,515 |
 | 5 | [tekminewe](https://github.com/tekminewe) | Ewe Tek Min | Isle of Man | 3,533 |
 | 6 | [dive](https://github.com/dive) | Artem Loenko | Isle of Man | 2,160 |
@@ -37,8 +37,8 @@ Indexed users: 155
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [bengris32](https://github.com/bengris32) | Ben | Isle of Man | 5,616 |
-| 2 | [bllbtnd](https://github.com/bllbtnd) | Balla Botond | Isle of Man | 838 |
+| 1 | [bengris32](https://github.com/bengris32) | Ben | Isle of Man | 5,582 |
+| 2 | [bllbtnd](https://github.com/bllbtnd) | Balla Botond | Isle of Man | 831 |
 | 3 | [PerpetualBeta](https://github.com/PerpetualBeta) | Jonathan M. Hollin | Douglas, Isle of Man | 773 |
 | 4 | [craigiswayne](https://github.com/craigiswayne) | Craig Wayne | Isle of Man | 712 |
 | 5 | [torquuato](https://github.com/torquuato) |  | Isle of Man | 557 |
@@ -63,7 +63,7 @@ Indexed users: 155
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [braydie](https://github.com/braydie) | Braydie Grove | Isle of Man | 368 |
-| 2 | [bengris32](https://github.com/bengris32) | Ben | Isle of Man | 231 |
+| 2 | [bengris32](https://github.com/bengris32) | Ben | Isle of Man | 232 |
 | 3 | [thomas-coldwell](https://github.com/thomas-coldwell) | Thomas Coldwell | Isle of Man | 148 |
 | 4 | [cydolo](https://github.com/cydolo) | Dolo | Isle of Man | 147 |
 | 5 | [CubLinux](https://github.com/CubLinux) | Cub Linux | Isle of Man | 86 |
@@ -83,4 +83,4 @@ Indexed users: 155
 | 19 | [lwangenheim](https://github.com/lwangenheim) | Lee Wangenheim | Isle of Man | 19 |
 | 20 | [DanAnkers](https://github.com/DanAnkers) | Daniel Ankers | Isle of Man | 18 |
 
-Generated: 2026-10-17T07:31:36.587Z
+Generated: 2026-10-17T08:45:19.749Z

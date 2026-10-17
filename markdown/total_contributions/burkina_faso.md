@@ -1,6 +1,6 @@
 # Total Contributions - Burkina Faso
 
-Generated: 2026-10-17T07:12:13.741Z
+Generated: 2026-10-17T08:26:30.163Z
 
 Users: 486
 
@@ -25,4 +25,4 @@ Users: 486
 | 17 | [NICE-DEV226](https://github.com/NICE-DEV226) | Azaël Wend-panga SAWADOGO  |  | NiceDEVbf | Burkina Faso | 1577 |
 | 18 | [donnikurosaki](https://github.com/donnikurosaki) | DARA Dieudonné Goumba | @BIT-Solutions-Impact  |  | Burkina Faso, Ouagadougou | 1432 |
 | 19 | [adamako](https://github.com/adamako) | Adama KO | Declic |  | Burkina Faso | 1386 |
-| 20 | [k13lucien](https://github.com/k13lucien) | Lucien Kiemde | Inference |  | Ouagadougou, Burkina Faso | 1213 |
+| 20 | [rikudosama](https://github.com/rikudosama) | Lengam jean bonaventure | Taariam technologie | rikudosama | Ouagadougou, Burkina Faso | 1228 |

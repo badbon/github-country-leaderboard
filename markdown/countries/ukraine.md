@@ -1,6 +1,6 @@
 # Ukraine
 
-Indexed users: 47,746
+Indexed users: 47,745
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 47,746
 | 19 | [TBlindaruk](https://github.com/TBlindaruk) | Tetiana Blindaruk | Ukraine | 1,192 |
 | 20 | [NJul](https://github.com/NJul) | Nina | Ukraine | 1,140 |
 
-Generated: 2026-10-17T06:55:52.081Z
+Generated: 2026-10-17T08:09:51.644Z

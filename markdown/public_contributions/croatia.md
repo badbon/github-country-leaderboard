@@ -1,16 +1,16 @@
 # Public Contributions - Croatia
 
-Generated: 2026-10-17T07:16:58.939Z
+Generated: 2026-10-17T08:29:36.618Z
 
 Users: 5430
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [stepanic](https://github.com/stepanic) | Matija Stepanic | ITalk Ltd. |  | Zagreb, Croatia | 34404 |
-| 2 | [TVCTC](https://github.com/TVCTC) | Tomislav |  |  | Zagreb | 10893 |
-| 3 | [AleksandarDev](https://github.com/AleksandarDev) | Aleksandar Toplek | https://enterwell.net | AleksandarDev | Zagreb, Croatia | 8073 |
-| 4 | [ivanmeler](https://github.com/ivanmeler) | Ivan Meler | Meler Media Group | ivan_meler | Croatia, Vukovar | 7359 |
-| 5 | [SirBepy](https://github.com/SirBepy) | Josip Muzic | Proxify |  | Zagreb, Croatia | 6695 |
+| 2 | [AleksandarDev](https://github.com/AleksandarDev) | Aleksandar Toplek | https://enterwell.net | AleksandarDev | Zagreb, Croatia | 8073 |
+| 3 | [ivanmeler](https://github.com/ivanmeler) | Ivan Meler | Meler Media Group | ivan_meler | Croatia, Vukovar | 7359 |
+| 4 | [SirBepy](https://github.com/SirBepy) | Josip Muzic | Proxify |  | Zagreb, Croatia | 6695 |
+| 5 | [TVCTC](https://github.com/TVCTC) | Tomislav |  |  | Zagreb | 6555 |
 | 6 | [nibzard](https://github.com/nibzard) | Nikola Balic | @disequi | nibzard | Split, Croatia | 5346 |
 | 7 | [vladmandic](https://github.com/vladmandic) | Vladimir Mandic |  | vmandic00 | Miami, Florida / Rijeka, Croatia | 4846 |
 | 8 | [ivicac](https://github.com/ivicac) | Ivica Čardić | Liferay Inc. |  | Zagreb | 4748 |

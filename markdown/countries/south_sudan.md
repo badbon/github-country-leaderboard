@@ -16,7 +16,7 @@ Indexed users: 132
 | 2 | [davelee001](https://github.com/davelee001) | David Leek | South Sudan | 5,743 |
 | 3 | [jameswol-ai](https://github.com/jameswol-ai) | James Wol | Juba, South Sudan | 5,206 |
 | 4 | [riek27](https://github.com/riek27) | Riek Gatluak Geka Reat | Juba, South sudan | 3,194 |
-| 5 | [puoch1of1](https://github.com/puoch1of1) | Puoch Mabor Makuei  | South Sudan | 1,007 |
+| 5 | [puoch1of1](https://github.com/puoch1of1) | Puoch Mabor Makuei  | South Sudan | 1,005 |
 | 6 | [felixuxx](https://github.com/felixuxx) | ... | Juba, South Sudan | 811 |
 | 7 | [Konson22](https://github.com/Konson22) | Kon Akech | South Sudan | 771 |
 | 8 | [wellawet](https://github.com/wellawet) | Wella Awet | South Sudan | 625 |
@@ -41,7 +41,7 @@ Indexed users: 132
 | 2 | [davelee001](https://github.com/davelee001) | David Leek | South Sudan | 4,965 |
 | 3 | [riek27](https://github.com/riek27) | Riek Gatluak Geka Reat | Juba, South sudan | 3,194 |
 | 4 | [Maiz27](https://github.com/Maiz27) | Maged Faiz | Juba, South Sudan | 1,098 |
-| 5 | [puoch1of1](https://github.com/puoch1of1) | Puoch Mabor Makuei  | South Sudan | 583 |
+| 5 | [puoch1of1](https://github.com/puoch1of1) | Puoch Mabor Makuei  | South Sudan | 581 |
 | 6 | [JohnMarit](https://github.com/JohnMarit) | John Marit | Juba-South Sudan | 516 |
 | 7 | [Agaba-derrick](https://github.com/Agaba-derrick) | Agaba Derrick  | Juba  | 505 |
 | 8 | [stephen-morlex](https://github.com/stephen-morlex) | Stephen Victor | Juba, South Sudan | 502 |
@@ -76,11 +76,11 @@ Indexed users: 132
 | 12 | [stephen-morlex](https://github.com/stephen-morlex) | Stephen Victor | Juba, South Sudan | 26 |
 | 13 | [Konson22](https://github.com/Konson22) | Kon Akech | South Sudan | 21 |
 | 14 | [cholg2003](https://github.com/cholg2003) | Chol | South Sudan | 20 |
-| 15 | [PiengBol](https://github.com/PiengBol) | Pieng Bol | Juba, South Sudan | 19 |
+| 15 | [PiengBol](https://github.com/PiengBol) | Pieng Bol | Juba, South Sudan | 20 |
 | 16 | [cholkany](https://github.com/cholkany) | Digital | South Sudan | 18 |
 | 17 | [Ariik20](https://github.com/Ariik20) | Reegan Arick | Juba | 17 |
 | 18 | [bearded7](https://github.com/bearded7) | XaLabs03 | Juba, South Sudan | 16 |
 | 19 | [Amalsouthsudan23](https://github.com/Amalsouthsudan23) | AMAL South Sudan | South Sudan | 15 |
 | 20 | [Drago-cod](https://github.com/Drago-cod) | Drago Samuel Jared | Juba, South Sudan | 15 |
 
-Generated: 2026-10-17T06:48:30.749Z
+Generated: 2026-10-17T08:04:28.049Z

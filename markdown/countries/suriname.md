@@ -21,7 +21,7 @@ Indexed users: 123
 | 7 | [Beefy-py](https://github.com/Beefy-py) | Kenny Hoft | Commwijne, Suriname | 1,651 |
 | 8 | [JhonatanJavierDev](https://github.com/JhonatanJavierDev) | Jhonatan Javier Corella Pérez | Paramaribo | 1,575 |
 | 9 | [jairseedorf](https://github.com/jairseedorf) | Jaïr Seedorf  | Suriname | 1,126 |
-| 10 | [giannisanni](https://github.com/giannisanni) | Gianni Sanrochman | Paramaribo, Suriname | 865 |
+| 10 | [giannisanni](https://github.com/giannisanni) | Gianni Sanrochman | Paramaribo, Suriname | 866 |
 | 11 | [nerkarso](https://github.com/nerkarso) | Ner Karso | Paramaribo, Suriname | 824 |
 | 12 | [dmoed](https://github.com/dmoed) | <Don/> | Paramaribo, Suriname | 738 |
 | 13 | [Sh1vZ](https://github.com/Sh1vZ) | Shivam | Suriname | 719 |
@@ -30,7 +30,7 @@ Indexed users: 123
 | 16 | [ShawnMeo](https://github.com/ShawnMeo) | Shawn | Suriname | 603 |
 | 17 | [saifbechan](https://github.com/saifbechan) | Saif Bechan | Paramaribo, Suriname | 552 |
 | 18 | [girish-io](https://github.com/girish-io) | Girish Oemrawsingh | Paramaribo, Suriname | 534 |
-| 19 | [JoshKarta](https://github.com/JoshKarta) | Josh K | Paramaribo, Suriname | 514 |
+| 19 | [JoshKarta](https://github.com/JoshKarta) | Josh K | Paramaribo, Suriname | 521 |
 | 20 | [DustinVII](https://github.com/DustinVII) |  | Suriname | 446 |
 
 ## Public Contributions
@@ -52,7 +52,7 @@ Indexed users: 123
 | 13 | [DustinVII](https://github.com/DustinVII) |  | Suriname | 76 |
 | 14 | [shenayasitaldien-creator](https://github.com/shenayasitaldien-creator) | papaya | suriname | 74 |
 | 15 | [FrostiSR](https://github.com/FrostiSR) | Daniel dos Ramos | Paramaribo, Suriname | 72 |
-| 16 | [JoshKarta](https://github.com/JoshKarta) | Josh K | Paramaribo, Suriname | 65 |
+| 16 | [JoshKarta](https://github.com/JoshKarta) | Josh K | Paramaribo, Suriname | 72 |
 | 17 | [DeviousSiddy](https://github.com/DeviousSiddy) |  | Suriname | 64 |
 | 18 | [muskaanm4](https://github.com/muskaanm4) | Muskaan Mahabier | Suriname, Paramaribo | 63 |
 | 19 | [nathaniel123x3rd](https://github.com/nathaniel123x3rd) | Nathanielx3rd | Paramaribo, Suriname | 60 |
@@ -83,4 +83,4 @@ Indexed users: 123
 | 19 | [JovinF](https://github.com/JovinF) | Jovin Fransman | Suriname | 18 |
 | 20 | [Your1405](https://github.com/Your1405) | Youri Karijopawiro | Paramaribo, Suriname | 18 |
 
-Generated: 2026-10-17T06:49:12.593Z
+Generated: 2026-10-17T08:05:19.203Z

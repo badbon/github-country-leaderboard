@@ -1,8 +1,8 @@
 # Public Contributions - Sweden
 
-Generated: 2026-10-17T06:49:42.803Z
+Generated: 2026-10-17T08:06:18.494Z
 
-Users: 39035
+Users: 39034
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|

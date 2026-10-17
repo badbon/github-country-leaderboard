@@ -1,6 +1,6 @@
 # Public Contributions - Jamaica
 
-Generated: 2026-10-17T07:33:05.469Z
+Generated: 2026-10-17T08:45:53.196Z
 
 Users: 1274
 
@@ -17,9 +17,9 @@ Users: 1274
 | 9 | [yringler](https://github.com/yringler) | Yehuda Ringler | Chabad.Org |  | Kingston, PA | 1467 |
 | 10 | [elixer-prince](https://github.com/elixer-prince) | Daniel Leith |  |  | Jamaica | 1173 |
 | 11 | [shkeating](https://github.com/shkeating) | Shauna Keating | @Travelers |  | Kingston, NY | 1002 |
-| 12 | [billlevine](https://github.com/billlevine) | Bill LeVine | Flox |  | Kingston, Ontario | 978 |
+| 12 | [billlevine](https://github.com/billlevine) | Bill LeVine | Flox |  | Kingston, Ontario | 981 |
 | 13 | [wiegerthefarmer](https://github.com/wiegerthefarmer) | Aaron Visser |  |  | Kingston, Ontario | 876 |
-| 14 | [BernardUK](https://github.com/BernardUK) | Bernard Boase |  |  | Kingston upon Thames | 872 |
+| 14 | [BernardUK](https://github.com/BernardUK) | Bernard Boase |  |  | Kingston upon Thames | 860 |
 | 15 | [markoskatsi](https://github.com/markoskatsi) | Markos Katsi |  |  | Kingston Upon Thames | 751 |
 | 16 | [Patric-1613](https://github.com/Patric-1613) | Pratikraj Pavankumar Mugade |  |  | Kingston upon thames | 654 |
 | 17 | [kfrancis](https://github.com/kfrancis) | Kori Francis | Clinical Support Systems | djbyter | Kingston, Ontario | 652 |

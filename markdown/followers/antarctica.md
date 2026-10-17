@@ -1,6 +1,6 @@
 # Followers - Antarctica
 
-Generated: 2026-10-17T07:04:27.512Z
+Generated: 2026-10-17T08:17:26.663Z
 
 Users: 460
 

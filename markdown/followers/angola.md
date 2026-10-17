@@ -1,6 +1,6 @@
 # Followers - Angola
 
-Generated: 2026-10-17T07:03:39.859Z
+Generated: 2026-10-17T08:16:52.834Z
 
 Users: 2500
 
@@ -23,6 +23,6 @@ Users: 2500
 | 15 | [EufranioDiogo](https://github.com/EufranioDiogo) | Eufránio Diogo | Uija Code |  | Angola | 180 |
 | 16 | [nazarepiedady](https://github.com/nazarepiedady) | Nazaré da Piedade | @vitejs, @vuejs-translations, @pythonpt, @javascript-tutorial | nazarepiedady | Angola | 171 |
 | 17 | [cirilocanganjo](https://github.com/cirilocanganjo) | Cirilo Cussaca Canganjo |  | cirilocussaca | Luanda, Amgola | 170 |
-| 18 | [manuelernesto](https://github.com/manuelernesto) | Manuel Ernesto | Software Engineer | manuelernest0 | Angola | 165 |
+| 18 | [manuelernesto](https://github.com/manuelernesto) | Manuel Ernesto | Software Engineer | manuelernest0 | Angola | 166 |
 | 19 | [jofranqueira](https://github.com/jofranqueira) | José Frangueira |  | Kanashiides | Angola | 160 |
 | 20 | [Jovanysfive](https://github.com/Jovanysfive) | Job Bento |  | Jovany_sfive1 | Angola/Luanda | 152 |

@@ -1,6 +1,6 @@
 # Followers - South Sudan
 
-Generated: 2026-10-17T06:48:30.749Z
+Generated: 2026-10-17T08:04:28.049Z
 
 Users: 132
 
@@ -20,7 +20,7 @@ Users: 132
 | 12 | [stephen-morlex](https://github.com/stephen-morlex) | Stephen Victor | Freelancer | stephen_morlex | Juba, South Sudan | 26 |
 | 13 | [Konson22](https://github.com/Konson22) | Kon Akech | Miles global Link | konsonak | South Sudan | 21 |
 | 14 | [cholg2003](https://github.com/cholg2003) | Chol | Xhollo | cholg2003 | South Sudan | 20 |
-| 15 | [PiengBol](https://github.com/PiengBol) | Pieng Bol | Bolou Technology  | piengbol | Juba, South Sudan | 19 |
+| 15 | [PiengBol](https://github.com/PiengBol) | Pieng Bol | Bolou Technology  | piengbol | Juba, South Sudan | 20 |
 | 16 | [cholkany](https://github.com/cholkany) | Digital | @Ieyenu  | cholkany | South Sudan | 18 |
 | 17 | [Ariik20](https://github.com/Ariik20) | Reegan Arick |  |  | Juba | 17 |
 | 18 | [bearded7](https://github.com/bearded7) | XaLabs03 | Xalabs03  | _oriba | Juba, South Sudan | 16 |
