@@ -24,7 +24,7 @@ Indexed users: 709
 | 10 | [shahromako](https://github.com/shahromako) | Shahrom Kurbonov | Tajikistan, Dushanbe | 3,766 |
 | 11 | [sultonzoda2011](https://github.com/sultonzoda2011) | Sultonzoda Abdulloh | Dushanbe | 3,613 |
 | 12 | [dev-muhammad](https://github.com/dev-muhammad) | Muhammad Abdugafarov  | Tajikistan | 3,519 |
-| 13 | [D1lsh0D](https://github.com/D1lsh0D) | Dilshod Hojiboev | Khujand, Tajikistan | 3,227 |
+| 13 | [D1lsh0D](https://github.com/D1lsh0D) | Dilshod Hojiboev | Khujand, Tajikistan | 3,209 |
 | 14 | [Rahmonali](https://github.com/Rahmonali) | Rahmonali | Dushanbe, Tajikistan | 3,198 |
 | 15 | [IllMind11](https://github.com/IllMind11) | Islom Khushnazarov | Dushanbe, Tajikistan | 3,193 |
 | 16 | [Amsurur](https://github.com/Amsurur) | Muhammadsurur Abdulloev | Dushanbe | 2,919 |
@@ -83,4 +83,4 @@ Indexed users: 709
 | 19 | [11bit](https://github.com/11bit) | Ivan Buryak | Dushanbe | 49 |
 | 20 | [Abdughafur](https://github.com/Abdughafur) | Abdughafur Khujzoda | Tajikistan | 48 |
 
-Generated: 2026-10-17T11:59:53.521Z
+Generated: 2026-10-17T13:33:31.718Z

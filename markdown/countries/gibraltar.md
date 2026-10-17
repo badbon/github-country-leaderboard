@@ -14,7 +14,7 @@ Indexed users: 93
 |---:|---|---|---|---:|
 | 1 | [Likeandfeel](https://github.com/Likeandfeel) |  | Gibraltar | 27,736 |
 | 2 | [miohtama](https://github.com/miohtama) | Mikko Ohtamaa | Gibraltar | 5,657 |
-| 3 | [Industrial](https://github.com/Industrial) | Tom Wieland | Gibraltar | 5,263 |
+| 3 | [Industrial](https://github.com/Industrial) | Tom Wieland | Gibraltar | 5,267 |
 | 4 | [marcoscholz](https://github.com/marcoscholz) | Marco Scholz | Gibraltar | 3,287 |
 | 5 | [dlicudi](https://github.com/dlicudi) | Duane Licudi | Gibraltar | 2,627 |
 | 6 | [Fenicio](https://github.com/Fenicio) | Guillermo G C | Gibraltar | 1,391 |
@@ -39,7 +39,7 @@ Indexed users: 93
 |---:|---|---|---|---:|
 | 1 | [miohtama](https://github.com/miohtama) | Mikko Ohtamaa | Gibraltar | 5,657 |
 | 2 | [dlicudi](https://github.com/dlicudi) | Duane Licudi | Gibraltar | 2,472 |
-| 3 | [Industrial](https://github.com/Industrial) | Tom Wieland | Gibraltar | 1,903 |
+| 3 | [Industrial](https://github.com/Industrial) | Tom Wieland | Gibraltar | 1,907 |
 | 4 | [ArtemSoldatkin](https://github.com/ArtemSoldatkin) | Artem Soldatkin | Gibraltar | 559 |
 | 5 | [ajedrezpremium](https://github.com/ajedrezpremium) | Ajedrez Premium | GIBRALTAR | 548 |
 | 6 | [crpol](https://github.com/crpol) | Cesar Rosa Polanco | Gibraltar | 255 |
@@ -83,4 +83,4 @@ Indexed users: 93
 | 19 | [vfiodor](https://github.com/vfiodor) | Fiodor Veresciaka | Gibraltar | 13 |
 | 20 | [VPSServerCom](https://github.com/VPSServerCom) | VPS Server | Gibraltar | 13 |
 
-Generated: 2026-10-17T12:40:36.726Z
+Generated: 2026-10-17T14:19:08.525Z

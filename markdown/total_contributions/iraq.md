@@ -1,6 +1,6 @@
 # Total Contributions - Iraq
 
-Generated: 2026-10-17T12:45:51.639Z
+Generated: 2026-10-17T14:25:57.477Z
 
 Users: 2235
 
@@ -19,10 +19,10 @@ Users: 2235
 | 11 | [alimehasin](https://github.com/alimehasin) | Ali Mehasin |  | alimehasin | Baghdad | 7063 |
 | 12 | [MohammaedAlani](https://github.com/MohammaedAlani) | Mohammed Younis | ZainCash |  | Baghdad, Iraq | 6990 |
 | 13 | [Abdalkaderdev](https://github.com/Abdalkaderdev) | Abdalkader Alhamoud |  |  | Iraq | 6803 |
-| 14 | [Aramsatar](https://github.com/Aramsatar) | Aram Satar |  |  | Erbil, Iraq | 6728 |
+| 14 | [Aramsatar](https://github.com/Aramsatar) | Aram Satar |  |  | Erbil, Iraq | 6771 |
 | 15 | [codezardasht](https://github.com/codezardasht) | Zardasht Rwandzi | TechnoBase |  | Iraq/Erbil | 6641 |
 | 16 | [Hamoi1](https://github.com/Hamoi1) | Muhammad Esmael |  |  | Iraq, Sulaymaniyah, Ranya  | 6573 |
 | 17 | [RezdarNajeeb](https://github.com/RezdarNajeeb) | Rezdar Najeeb | @oXero-krd  |  | Iraq | 6468 |
 | 18 | [5h4k4r](https://github.com/5h4k4r) | Shakar Bakr | @ditkrg | shakar__ | Erbil, Iraq | 6285 |
 | 19 | [3bbasDev](https://github.com/3bbasDev) | Abbas Radam |  |  | Baghdad | 5942 |
-| 20 | [DiyarFirasmusa](https://github.com/DiyarFirasmusa) | Diyar Firas | @simple-applicable-solutions  |  | iraq | 5941 |
+| 20 | [DiyarFirasmusa](https://github.com/DiyarFirasmusa) | Diyar Firas | @simple-applicable-solutions  |  | iraq | 5873 |

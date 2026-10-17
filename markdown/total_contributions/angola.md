@@ -1,6 +1,6 @@
 # Total Contributions - Angola
 
-Generated: 2026-10-17T12:14:02.358Z
+Generated: 2026-10-17T13:47:16.392Z
 
 Users: 2500
 
@@ -14,13 +14,13 @@ Users: 2500
 | 6 | [EmanuelJoseCandido](https://github.com/EmanuelJoseCandido) | Emanuel Cândido |  |  | Luanda, Angola | 8618 |
 | 7 | [nuelst](https://github.com/nuelst) | manuel |  |  | Luanda, Angola | 6554 |
 | 8 | [Jndungue089](https://github.com/Jndungue089) | Josemar Ndungue |  |  | Angola | 6520 |
-| 9 | [joel2011140](https://github.com/joel2011140) | Joel Marinho |  | joelmarinho2016 | Luanda | 5656 |
-| 10 | [bentocussei](https://github.com/bentocussei) | Bento Cussei |  | bentobenack | Luanda, Angola | 5633 |
-| 11 | [emanuel-malungo](https://github.com/emanuel-malungo) | Emanuel Malungo | 42 Luanda |  |  Luanda, Angola | 5486 |
-| 12 | [figassis](https://github.com/figassis) | Assis Ngolo | Nellcorp |  | Luanda, Angola | 5456 |
-| 13 | [cnoble](https://github.com/cnoble) | Chris Noble | Business Warrior |  | Angola, IN | 5388 |
-| 14 | [osvaldowafulua](https://github.com/osvaldowafulua) | Osvaldo Wafulua | Smart Cloud |  | Angola | 4952 |
-| 15 | [noejunior299](https://github.com/noejunior299) | Noé Idagi | ITEL - Institute of Telecomunications | noejunior299 | Angola/Luanda | 4947 |
+| 9 | [bentocussei](https://github.com/bentocussei) | Bento Cussei |  | bentobenack | Luanda, Angola | 5633 |
+| 10 | [emanuel-malungo](https://github.com/emanuel-malungo) | Emanuel Malungo | 42 Luanda |  |  Luanda, Angola | 5486 |
+| 11 | [figassis](https://github.com/figassis) | Assis Ngolo | Nellcorp |  | Luanda, Angola | 5456 |
+| 12 | [cnoble](https://github.com/cnoble) | Chris Noble | Business Warrior |  | Angola, IN | 5388 |
+| 13 | [osvaldowafulua](https://github.com/osvaldowafulua) | Osvaldo Wafulua | Smart Cloud |  | Angola | 4952 |
+| 14 | [noejunior299](https://github.com/noejunior299) | Noé Idagi | ITEL - Institute of Telecomunications | noejunior299 | Angola/Luanda | 4947 |
+| 15 | [joel2011140](https://github.com/joel2011140) | Joel Marinho |  | joelmarinho2016 | Luanda | 4832 |
 | 16 | [Zebedeu](https://github.com/Zebedeu) | Marcio Zebedeu |  | marciozebedeu | Angola | 4177 |
 | 17 | [ithustle](https://github.com/ithustle) | Célio Garcia | @ToqueMedia | hackgarcia | Luanda, Angola | 4136 |
 | 18 | [Dalcio](https://github.com/Dalcio) | Dálcio Macuete Garcia |  | dalcio_ | Angola | 3992 |

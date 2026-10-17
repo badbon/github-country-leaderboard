@@ -15,7 +15,7 @@ Indexed users: 1,337
 | 1 | [Mwalek](https://github.com/Mwalek) | Mwale Kalenga | Lusaka, Zambia | 12,414 |
 | 2 | [DamianoSilverhand](https://github.com/DamianoSilverhand) | Damiano Chintala | Lusaka, Zambia | 12,014 |
 | 3 | [MwambaKaenga](https://github.com/MwambaKaenga) | Mwamba Kaenga | Lusaka, Zambia | 11,933 |
-| 4 | [CHAMA18](https://github.com/CHAMA18) | Chungu Chipimo Chama | Lusaka, Zambia | 11,074 |
+| 4 | [CHAMA18](https://github.com/CHAMA18) | Chungu Chipimo Chama | Lusaka, Zambia | 11,179 |
 | 5 | [thompsonmanda08](https://github.com/thompsonmanda08) | Thompson Manda | Zambia | 9,114 |
 | 6 | [Abdurrahmaan9](https://github.com/Abdurrahmaan9) |  | Lusaka, Zambia  | 7,240 |
 | 7 | [senorMk](https://github.com/senorMk) | Penjani M | Zambia | 6,710 |
@@ -25,9 +25,9 @@ Indexed users: 1,337
 | 11 | [makayi](https://github.com/makayi) | Mbuyu  Makayi | Zambia | 4,253 |
 | 12 | [Acesulfame02](https://github.com/Acesulfame02) | Aaron Masembe | Lusaka, Lusaka, Zambia | 4,247 |
 | 13 | [Jules369-ZM](https://github.com/Jules369-ZM) | JULIUS MARTIN BANDA | LUSAKA | 3,867 |
-| 14 | [genthegreat](https://github.com/genthegreat) | Prince Kwesi | Zambia | 3,497 |
-| 15 | [barthkapepula](https://github.com/barthkapepula) | Bartholomew Kapepula | Zambia | 3,472 |
-| 16 | [brucetruth](https://github.com/brucetruth) | Bruce Truth | Zambia | 3,443 |
+| 14 | [barthkapepula](https://github.com/barthkapepula) | Bartholomew Kapepula | Zambia | 3,472 |
+| 15 | [brucetruth](https://github.com/brucetruth) | Bruce Truth | Zambia | 3,443 |
+| 16 | [genthegreat](https://github.com/genthegreat) | Prince Kwesi | Zambia | 3,436 |
 | 17 | [boniface](https://github.com/boniface) | Boniface Kabaso | Lusaka, Zambia | 3,396 |
 | 18 | [Geoffrey-Zulu](https://github.com/Geoffrey-Zulu) | Geoffrey Zulu | Lusaka, Zambia | 3,304 |
 | 19 | [ericknamukolo](https://github.com/ericknamukolo) | Erick Namukolo | Lusaka, Zambia | 3,281 |
@@ -38,7 +38,7 @@ Indexed users: 1,337
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [Abdurrahmaan9](https://github.com/Abdurrahmaan9) |  | Lusaka, Zambia  | 6,847 |
-| 2 | [CHAMA18](https://github.com/CHAMA18) | Chungu Chipimo Chama | Lusaka, Zambia | 2,691 |
+| 2 | [CHAMA18](https://github.com/CHAMA18) | Chungu Chipimo Chama | Lusaka, Zambia | 2,802 |
 | 3 | [engineervix](https://github.com/engineervix) | Victor Miti | Lusaka, Zambia | 2,234 |
 | 4 | [thompsonmanda08](https://github.com/thompsonmanda08) | Thompson Manda | Zambia | 1,795 |
 | 5 | [RoyalMix](https://github.com/RoyalMix) | MOJAD - GOOS  | Zambia -lusaka - Kabwata  | 1,686 |
@@ -83,4 +83,4 @@ Indexed users: 1,337
 | 19 | [blessedjasonmwanza](https://github.com/blessedjasonmwanza) | Blessed Jason Mwanza |  Lusaka, Zambia | 104 |
 | 20 | [Eathorne2](https://github.com/Eathorne2) | Eathorne | Lusaka, Zambia | 103 |
 
-Generated: 2026-10-17T12:10:55.176Z
+Generated: 2026-10-17T13:41:27.159Z

@@ -1,6 +1,6 @@
 # Total Contributions - Slovenia
 
-Generated: 2026-10-17T11:53:42.447Z
+Generated: 2026-10-17T13:27:47.331Z
 
 Users: 3099
 
@@ -17,12 +17,12 @@ Users: 3099
 | 9 | [fentas](https://github.com/fentas) | Jan Guth | @lanisce | lanisce_si | Slovenia | 10622 |
 | 10 | [matija2209](https://github.com/matija2209) | Matija Žiberna | We Hate Copy Pasting |  | Slovenia | 10295 |
 | 11 | [tfourj](https://github.com/tfourj) | Taj Tkalec |  |  | Slovenia | 9996 |
-| 12 | [baadc0de](https://github.com/baadc0de) | Bojan Šernek | @distopik | reactocode | Ljubljana, Slovenia | 8700 |
-| 13 | [pako999](https://github.com/pako999) | Patrik |  | patrikslovenia | Slovenia  | 8682 |
-| 14 | [zprima](https://github.com/zprima) | Primož Žnidar | @poviolabs  |  | Slovenia | 8672 |
-| 15 | [vucinatim](https://github.com/vucinatim) | Tim Vučina | zerodays.dev |  | Ljubljana, Slovenia | 8637 |
-| 16 | [mitjapotocin](https://github.com/mitjapotocin) | Mitja Potočin | Mediately |  | Ljubljana | 8383 |
-| 17 | [dejanstrancar](https://github.com/dejanstrancar) | Dejan Strancar | Mediately |  | Slovenia | 7491 |
-| 18 | [AKzar1el](https://github.com/AKzar1el) | Tommy | Solo | AKzar1el | Ljubljana, Slovenia | 7042 |
-| 19 | [omeratagunn](https://github.com/omeratagunn) | Ömer Atagün | SAP | OmerAtagun | Slovenia | 6861 |
-| 20 | [jurej1](https://github.com/jurej1) | Jure Jures |  |  | Slovenia | 6645 |
+| 12 | [rockoo](https://github.com/rockoo) | Rok Nemet | Fantasyrock |  | Ljubljana, Slovenia | 9726 |
+| 13 | [baadc0de](https://github.com/baadc0de) | Bojan Šernek | @distopik | reactocode | Ljubljana, Slovenia | 8700 |
+| 14 | [pako999](https://github.com/pako999) | Patrik |  | patrikslovenia | Slovenia  | 8682 |
+| 15 | [zprima](https://github.com/zprima) | Primož Žnidar | @poviolabs  |  | Slovenia | 8672 |
+| 16 | [vucinatim](https://github.com/vucinatim) | Tim Vučina | zerodays.dev |  | Ljubljana, Slovenia | 8637 |
+| 17 | [mitjapotocin](https://github.com/mitjapotocin) | Mitja Potočin | Mediately |  | Ljubljana | 8383 |
+| 18 | [dejanstrancar](https://github.com/dejanstrancar) | Dejan Strancar | Mediately |  | Slovenia | 7491 |
+| 19 | [AKzar1el](https://github.com/AKzar1el) | Tommy | Solo | AKzar1el | Ljubljana, Slovenia | 7042 |
+| 20 | [omeratagunn](https://github.com/omeratagunn) | Ömer Atagün | SAP | OmerAtagun | Slovenia | 6861 |

@@ -23,7 +23,7 @@ Indexed users: 325
 | 9 | [ApophisX](https://github.com/ApophisX) | GienWang | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1,004 |
 | 10 | [rudrprasad05](https://github.com/rudrprasad05) | Rudr Prasad | Fiji | 928 |
 | 11 | [Eddie115-x](https://github.com/Eddie115-x) | Adrian Obadiah | SUVA | 898 |
-| 12 | [anav5704](https://github.com/anav5704) | Anav Chand | Fiji | 798 |
+| 12 | [anav5704](https://github.com/anav5704) | Anav Chand | Fiji | 785 |
 | 13 | [rahulduttt](https://github.com/rahulduttt) | Rahul Dutt | Fiji | 626 |
 | 14 | [kishkumar96](https://github.com/kishkumar96) | Kishan Chimman Kumar | Suva | 559 |
 | 15 | [SRVSRR](https://github.com/SRVSRR) | Rohan Nandan | Fiji | 526 |
@@ -38,11 +38,11 @@ Indexed users: 325
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [Amdeo](https://github.com/Amdeo) | Cooper | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1,438 |
-| 2 | [anav5704](https://github.com/anav5704) | Anav Chand | Fiji | 571 |
+| 2 | [anav5704](https://github.com/anav5704) | Anav Chand | Fiji | 564 |
 | 3 | [2-fly-4-ai](https://github.com/2-fly-4-ai) | Brian farley | Suva | 503 |
 | 4 | [kishkumar96](https://github.com/kishkumar96) | Kishan Chimman Kumar | Suva | 468 |
 | 5 | [SMani0547](https://github.com/SMani0547) | Shiva Mani Goundar | Nadi, Fiji | 396 |
-| 6 | [alexwoo79](https://github.com/alexwoo79) | Alex_Woo | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 284 |
+| 6 | [alexwoo79](https://github.com/alexwoo79) | Alex_Woo | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 307 |
 | 7 | [aryann-7](https://github.com/aryann-7) | Aryan Singh | Suva, Fiji | 283 |
 | 8 | [SRVSRR](https://github.com/SRVSRR) | Rohan Nandan | Fiji | 261 |
 | 9 | [codeshareman](https://github.com/codeshareman) | Z° North | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 243 |
@@ -83,4 +83,4 @@ Indexed users: 325
 | 19 | [phpoh](https://github.com/phpoh) | phpoh | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 21 |
 | 20 | [aryann-7](https://github.com/aryann-7) | Aryan Singh | Suva, Fiji | 19 |
 
-Generated: 2026-10-17T12:37:22.538Z
+Generated: 2026-10-17T14:16:57.026Z

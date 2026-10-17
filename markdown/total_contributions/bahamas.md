@@ -1,6 +1,6 @@
 # Total Contributions - Bahamas
 
-Generated: 2026-10-17T12:16:36.657Z
+Generated: 2026-10-17T13:51:35.112Z
 
 Users: 236
 
@@ -21,7 +21,7 @@ Users: 236
 | 13 | [Johndiddles](https://github.com/Johndiddles) | Johndiddles | Evon Medics LLC | john_diddles | Nassau, Bahamas | 819 |
 | 14 | [TerryJG](https://github.com/TerryJG) | Terrance |  |  | Nassau, Bahamas | 754 |
 | 15 | [Clearwood](https://github.com/Clearwood) |  |  | 0xKeno | Bahamas | 736 |
-| 16 | [dorson755](https://github.com/dorson755) | Dorson Williams |  |  | Nassau Bahamas | 726 |
+| 16 | [dorson755](https://github.com/dorson755) | Dorson Williams |  |  | Nassau Bahamas | 731 |
 | 17 | [mikepadiernos](https://github.com/mikepadiernos) | Mike Padiernos | TCS, GE Aerospace |  | Nassau County, NY | 564 |
 | 18 | [nhayling](https://github.com/nhayling) | Noah Hayling | @archipelagoapps | nhayling_ | Nassau, The Bahamas | 551 |
 | 19 | [avolel](https://github.com/avolel) | Andre Volel |  |  | Nassau County, NY | 335 |

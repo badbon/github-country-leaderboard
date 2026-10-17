@@ -1,6 +1,6 @@
 # Total Contributions - Azerbaijan
 
-Generated: 2026-10-17T12:16:00.152Z
+Generated: 2026-10-17T13:51:32.216Z
 
 Users: 5066
 
@@ -16,9 +16,9 @@ Users: 5066
 | 8 | [eynullabeyli](https://github.com/eynullabeyli) | Yusif Eynullabayli | Earth | steprider0 | Baku | 7278 |
 | 9 | [Rizayev](https://github.com/Rizayev) | Elsevar | FREELANCE |  | Azerbaijan | 7074 |
 | 10 | [Orik-dev](https://github.com/Orik-dev) | Orkhan Guseynov |  |  | Baku | 6349 |
-| 11 | [ogtayhuseynov0](https://github.com/ogtayhuseynov0) | Ogtay Huseynov | @Ogt.ai | ogtayhuseynov0 | Azerbaijan | 6223 |
-| 12 | [zhmdff](https://github.com/zhmdff) | Mahmud Ahmadov |  | zhmdff | Azerbaijan | 6056 |
-| 13 | [zaursharifov](https://github.com/zaursharifov) | Zaur Sharifov | AFEA |  | Baku, Azerbaijan | 6052 |
+| 11 | [zaursharifov](https://github.com/zaursharifov) | Zaur Sharifov | AFEA |  | Baku, Azerbaijan | 6319 |
+| 12 | [ogtayhuseynov0](https://github.com/ogtayhuseynov0) | Ogtay Huseynov | @Ogt.ai | ogtayhuseynov0 | Azerbaijan | 6223 |
+| 13 | [zhmdff](https://github.com/zhmdff) | Mahmud Ahmadov |  | zhmdff | Azerbaijan | 6056 |
 | 14 | [kerimovok](https://github.com/kerimovok) | Orkhan Karimov | HonestJS | karimovokx | Baku, Azerbaijan | 5607 |
 | 15 | [samirmhsnv](https://github.com/samirmhsnv) | Samir Mammadhasanov |  | samirmhsnv | Baku, Azerbaijan | 5599 |
 | 16 | [OrkhanAbbasli](https://github.com/OrkhanAbbasli) | Orkhan Abbasli |  | orkhando | Baku,Azerbaijan | 5281 |

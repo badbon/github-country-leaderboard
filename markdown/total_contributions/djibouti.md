@@ -1,13 +1,13 @@
 # Total Contributions - Djibouti
 
-Generated: 2026-10-17T12:33:17.707Z
+Generated: 2026-10-17T14:07:48.742Z
 
 Users: 55
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [Ama-dou](https://github.com/Ama-dou) | Amadou Bah | Manelix Technologies |  | Djibouti | 5609 |
-| 2 | [Abdoul-Hakim101](https://github.com/Abdoul-Hakim101) | Abdihakim  Mohamed | @SPS-SIPS @AsalSolutions @somnog |  | Djibouti | 1394 |
+| 1 | [Ama-dou](https://github.com/Ama-dou) | Amadou Bah | Manelix Technologies |  | Djibouti | 5615 |
+| 2 | [Abdoul-Hakim101](https://github.com/Abdoul-Hakim101) | Abdihakim  Mohamed | @SPS-SIPS @AsalSolutions @somnog |  | Djibouti | 1395 |
 | 3 | [Captain-iiro](https://github.com/Captain-iiro) | Captain iiro (Abdourahman) |  |  | Djibouti | 1190 |
 | 4 | [moustapha-aden](https://github.com/moustapha-aden) | MOUSTAPHA ADEN DIRIYEH |  |  | Djibouti Dj | 663 |
 | 5 | [Ismael9-web](https://github.com/Ismael9-web) | Ismael Ladieh | @djib-dsi-budget  |  | Djibouti | 531 |
@@ -16,8 +16,8 @@ Users: 55
 | 8 | [hamoudabass](https://github.com/hamoudabass) | Hamoud Abass  | Teacher at MENFOP | YoungAssajog | Djibouti | 291 |
 | 9 | [sammed384](https://github.com/sammed384) | Samatar Mohamed Ali |  |  | Djibouti | 147 |
 | 10 | [Medladieh](https://github.com/Medladieh) | Mohamed Ladieh |  | Medladieh | Djibouti | 135 |
-| 11 | [Mouhya01](https://github.com/Mouhya01) | Mouhyadine Zakaria |  |  | Djibouti | 116 |
-| 12 | [AminHassanDouale](https://github.com/AminHassanDouale) | AminHsn |  |  | Djibouti | 103 |
+| 11 | [AminHassanDouale](https://github.com/AminHassanDouale) | AminHsn |  |  | Djibouti | 132 |
+| 12 | [Mouhya01](https://github.com/Mouhya01) | Mouhyadine Zakaria |  |  | Djibouti | 116 |
 | 13 | [dayib77](https://github.com/dayib77) | Dayib Osman | Looking for an opportunity |  | Djibouti | 98 |
 | 14 | [jibo-zz](https://github.com/jibo-zz) | Mohamed Cheikh | GroWrk |  | Djibouti | 97 |
 | 15 | [nabolitains](https://github.com/nabolitains) | Charko M. |  | nabolitains | Djibouti | 91 |

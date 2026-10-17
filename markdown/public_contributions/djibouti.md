@@ -1,6 +1,6 @@
 # Public Contributions - Djibouti
 
-Generated: 2026-10-17T12:33:17.707Z
+Generated: 2026-10-17T14:07:48.742Z
 
 Users: 55
 
@@ -11,8 +11,8 @@ Users: 55
 | 3 | [Obelisk999](https://github.com/Obelisk999) | Abdoulrazak |  |  | Djibouti | 156 |
 | 4 | [sammed384](https://github.com/sammed384) | Samatar Mohamed Ali |  |  | Djibouti | 147 |
 | 5 | [Filsan648](https://github.com/Filsan648) | Filsan |  |  | Djibouti | 138 |
-| 6 | [Captain-iiro](https://github.com/Captain-iiro) | Captain iiro (Abdourahman) |  |  | Djibouti | 118 |
-| 7 | [AminHassanDouale](https://github.com/AminHassanDouale) | AminHsn |  |  | Djibouti | 103 |
+| 6 | [AminHassanDouale](https://github.com/AminHassanDouale) | AminHsn |  |  | Djibouti | 132 |
+| 7 | [Captain-iiro](https://github.com/Captain-iiro) | Captain iiro (Abdourahman) |  |  | Djibouti | 118 |
 | 8 | [dayib77](https://github.com/dayib77) | Dayib Osman | Looking for an opportunity |  | Djibouti | 92 |
 | 9 | [jibo-zz](https://github.com/jibo-zz) | Mohamed Cheikh | GroWrk |  | Djibouti | 78 |
 | 10 | [moustapha-aden](https://github.com/moustapha-aden) | MOUSTAPHA ADEN DIRIYEH |  |  | Djibouti Dj | 66 |

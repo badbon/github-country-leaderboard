@@ -51,10 +51,10 @@ Indexed users: 2,378
 | 12 | [daiv05](https://github.com/daiv05) | David DV | San Salvador | 1,186 |
 | 13 | [replaceafill](https://github.com/replaceafill) | Douglas Cerna | San Salvador, El Salvador | 1,119 |
 | 14 | [KevLehman](https://github.com/KevLehman) | Kevin Aleman | El Salvador | 1,064 |
-| 15 | [Alexisrx96](https://github.com/Alexisrx96) | Irvin Torres | El Salvador | 1,035 |
-| 16 | [ronirgp](https://github.com/ronirgp) | RONALD PINEDA | El Salvador  | 1,005 |
+| 15 | [ronirgp](https://github.com/ronirgp) | RONALD PINEDA | El Salvador  | 1,049 |
+| 16 | [Alexisrx96](https://github.com/Alexisrx96) | Irvin Torres | El Salvador | 1,035 |
 | 17 | [Lenny004](https://github.com/Lenny004) | Lenny Sánchez | El Salvador | 972 |
-| 18 | [Francisco-Guillermo-Hernandez](https://github.com/Francisco-Guillermo-Hernandez) | Francisco Guillermo Hernandez | El Salvador, San Salvador | 925 |
+| 18 | [Francisco-Guillermo-Hernandez](https://github.com/Francisco-Guillermo-Hernandez) | Francisco Guillermo Hernandez | El Salvador, San Salvador | 922 |
 | 19 | [FredyRivera-dev](https://github.com/FredyRivera-dev) | Fredy Rivera | El Salvador, San Vicente | 907 |
 | 20 | [C3SC0-V4113](https://github.com/C3SC0-V4113) | Francisco José Valle Cornejo | El Salvador, San Salvador | 897 |
 
@@ -83,4 +83,4 @@ Indexed users: 2,378
 | 19 | [MiPrimerBitcoin](https://github.com/MiPrimerBitcoin) | Mi Primer Bitcoin El Salvador | El Salvador | 96 |
 | 20 | [davequinta](https://github.com/davequinta) | David Quintanilla | El Salvador | 95 |
 
-Generated: 2026-10-17T12:35:23.781Z
+Generated: 2026-10-17T14:11:18.927Z

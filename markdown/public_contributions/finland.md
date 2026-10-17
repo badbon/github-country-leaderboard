@@ -1,8 +1,8 @@
 # Public Contributions - Finland
 
-Generated: 2026-10-17T12:37:27.735Z
+Generated: 2026-10-17T14:17:01.617Z
 
-Users: 18151
+Users: 18150
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|

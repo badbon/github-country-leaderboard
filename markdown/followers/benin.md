@@ -1,18 +1,18 @@
 # Followers - Benin
 
-Generated: 2026-10-17T12:19:26.959Z
+Generated: 2026-10-17T13:53:54.978Z
 
 Users: 471
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [JideGuru](https://github.com/JideGuru) | Festus Olusegun | Available for part-time roles | iamjideguru | Cotonou, Benin. | 2201 |
-| 2 | [AvineDev](https://github.com/AvineDev) | Avine Dev |  |  | Benin | 469 |
+| 2 | [AvineDev](https://github.com/AvineDev) | Avine Dev |  |  | Benin | 468 |
 | 3 | [Houessou1](https://github.com/Houessou1) | François-Xavier ALLA HOUESSOU  |  | alla_xavier | Benin 🇧🇯 | 432 |
 | 4 | [koladev32](https://github.com/koladev32) | Mangabo  Kolawole |  | koladev32 | Benin, Cotonou | 240 |
 | 5 | [NemesisX1](https://github.com/NemesisX1) | Elikem Medehou | @lixalistudio @lixalistudio-oss | elikemmedehou | Cotonou, Benin | 231 |
 | 6 | [COCOUVI](https://github.com/COCOUVI) | Alexandro Cocouvi  | Xandrotech | XTech26551 | Benin | 137 |
-| 7 | [florentak](https://github.com/florentak) | Florent Ayidedji |  |  | Cotonou, Littoral, Benin | 120 |
+| 7 | [florentak](https://github.com/florentak) | Florent Ayidedji |  |  | Cotonou, Littoral, Benin | 119 |
 | 8 | [ChafikHadjAbdouRazack](https://github.com/ChafikHadjAbdouRazack) | Chafik HADJ ABDOU RAZACK |  | chafik_Hadj | Benin | 110 |
 | 9 | [VEGLOgabin](https://github.com/VEGLOgabin) | Gabin Houetchenou VEGLO |  |  | Benin | 106 |
 | 10 | [Zchristian955](https://github.com/Zchristian955) | Kevin Christian ZANOU | LABEF (University of Abomey Calavi) | ChrisCK23683119 | Benin | 97 |
@@ -22,7 +22,7 @@ Users: 471
 | 14 | [Collins222614](https://github.com/Collins222614) | Collins Efesomo |  |  | Benin, Nigeria | 87 |
 | 15 | [jackjosias](https://github.com/jackjosias) | Jack-Josias |  |  | Cotonou, Benin | 87 |
 | 16 | [Jozzy4](https://github.com/Jozzy4) | Ibatuemoh Joseph  |  |  | Benin | 83 |
-| 17 | [Augustino127](https://github.com/Augustino127) | Augustino Comlangan | Vallis Technologies | AComlangan70558 | Benin, Cotonou | 80 |
+| 17 | [Augustino127](https://github.com/Augustino127) | Augustino Comlangan | Vallis Technologies | AComlangan70558 | Benin, Cotonou | 79 |
 | 18 | [salimane](https://github.com/salimane) | Salimane Adjao Moustapha | Meltwater |  | Africa, Benin, Rwanda, Ghana, Kenya, China, Germany | 79 |
-| 19 | [awarris](https://github.com/awarris) | Warris AGBANNONDE | VIPP INTERTIS | awarrisw | Benin, Cotonou Ganhi | 73 |
+| 19 | [awarris](https://github.com/awarris) | Warris AGBANNONDE | VIPP INTERTIS | awarrisw | Benin, Cotonou Ganhi | 71 |
 | 20 | [baba-mandef](https://github.com/baba-mandef) | Abiodoun Paraïso | @Rezolusoft | baba_mandef | Adjarra, Benin | 71 |

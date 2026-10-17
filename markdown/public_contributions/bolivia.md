@@ -1,6 +1,6 @@
 # Public Contributions - Bolivia
 
-Generated: 2026-10-17T12:20:27.024Z
+Generated: 2026-10-17T13:56:03.516Z
 
 Users: 1784
 
@@ -20,9 +20,9 @@ Users: 1784
 | 12 | [pachonjcl](https://github.com/pachonjcl) | Jose Carlos Laura Ramirez |  |  | La Paz, Bolivia | 1267 |
 | 13 | [asosab](https://github.com/asosab) | Alejandro Sosa Briceño |  | asosab | Bolivia | 1225 |
 | 14 | [jhersON1](https://github.com/jhersON1) | Jherson Rodriguez |  |  | Bolivia | 1225 |
-| 15 | [igidio](https://github.com/igidio) | Salvador Cáceres C. |  |  | Bolivia | 1224 |
-| 16 | [alphaonex86](https://github.com/alphaonex86) | BRULE Herman Jacques Roger | Confiared S.R.L. |  | Santa cruz de la sierra, Bolivia | 1199 |
-| 17 | [Lotiel-Dev](https://github.com/Lotiel-Dev) | Carlos Antonio Gutierrez Copara | Higher University of San Simón | Gerceis81 | Bolivia | 1193 |
+| 15 | [alphaonex86](https://github.com/alphaonex86) | BRULE Herman Jacques Roger | Confiared S.R.L. |  | Santa cruz de la sierra, Bolivia | 1199 |
+| 16 | [Lotiel-Dev](https://github.com/Lotiel-Dev) | Carlos Antonio Gutierrez Copara | Higher University of San Simón | Gerceis81 | Bolivia | 1193 |
+| 17 | [igidio](https://github.com/igidio) | Salvador Cáceres C. |  |  | Bolivia | 1147 |
 | 18 | [samuelloza](https://github.com/samuelloza) | Samuel Loza Ramirez |  |  | Bolivia | 1097 |
 | 19 | [nicobytes](https://github.com/nicobytes) | Nicolas Molina Monroy |  | nicobytes | Cochabamba, Bolivia | 1085 |
 | 20 | [nataly-33](https://github.com/nataly-33) | Nataly Vanessa Martinez Martinez |  |  | Bolivia | 1038 |

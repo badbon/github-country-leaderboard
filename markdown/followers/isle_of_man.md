@@ -1,6 +1,6 @@
 # Followers - Isle of Man
 
-Generated: 2026-10-17T12:46:44.089Z
+Generated: 2026-10-17T14:26:04.601Z
 
 Users: 155
 
@@ -19,7 +19,7 @@ Users: 155
 | 11 | [drapermovies](https://github.com/drapermovies) | Joel E.P. Draper | Ensemble Media | jepdraper | Isle of Man | 33 |
 | 12 | [drajmarsh](https://github.com/drajmarsh) | Dr Andrew Marsh | PerformativeDesign.com |  | Isle of Man | 26 |
 | 13 | [chris-jamieson](https://github.com/chris-jamieson) | Chris Jamieson | CCS Group, Melior Enterprises | cjamieson_uk | Isle of Man | 24 |
-| 14 | [samuelnub](https://github.com/samuelnub) | Sam Yap | @Yappers, @nubbers  |  | Douglas, Isle of Man | 23 |
+| 14 | [samuelnub](https://github.com/samuelnub) | Sam Yap | @Yappers, @nubbers  |  | Douglas, Isle of Man | 22 |
 | 15 | [francisuk1989](https://github.com/francisuk1989) | Francis |  |  | Douglas, Isle of Man | 21 |
 | 16 | [tonypartridge](https://github.com/tonypartridge) | Tony Partridge |  | tonypartridge | Isle of Man | 20 |
 | 17 | [AndrewIOM](https://github.com/AndrewIOM) | Andrew Martin | Scott Polar Research Institute, University of Cambridge |  | Isle of Man | 19 |

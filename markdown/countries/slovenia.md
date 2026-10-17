@@ -23,15 +23,15 @@ Indexed users: 3,099
 | 9 | [fentas](https://github.com/fentas) | Jan Guth | Slovenia | 10,622 |
 | 10 | [matija2209](https://github.com/matija2209) | Matija Žiberna | Slovenia | 10,295 |
 | 11 | [tfourj](https://github.com/tfourj) | Taj Tkalec | Slovenia | 9,996 |
-| 12 | [baadc0de](https://github.com/baadc0de) | Bojan Šernek | Ljubljana, Slovenia | 8,700 |
-| 13 | [pako999](https://github.com/pako999) | Patrik | Slovenia  | 8,682 |
-| 14 | [zprima](https://github.com/zprima) | Primož Žnidar | Slovenia | 8,672 |
-| 15 | [vucinatim](https://github.com/vucinatim) | Tim Vučina | Ljubljana, Slovenia | 8,637 |
-| 16 | [mitjapotocin](https://github.com/mitjapotocin) | Mitja Potočin | Ljubljana | 8,383 |
-| 17 | [dejanstrancar](https://github.com/dejanstrancar) | Dejan Strancar | Slovenia | 7,491 |
-| 18 | [AKzar1el](https://github.com/AKzar1el) | Tommy | Ljubljana, Slovenia | 7,042 |
-| 19 | [omeratagunn](https://github.com/omeratagunn) | Ömer Atagün | Slovenia | 6,861 |
-| 20 | [jurej1](https://github.com/jurej1) | Jure Jures | Slovenia | 6,645 |
+| 12 | [rockoo](https://github.com/rockoo) | Rok Nemet | Ljubljana, Slovenia | 9,726 |
+| 13 | [baadc0de](https://github.com/baadc0de) | Bojan Šernek | Ljubljana, Slovenia | 8,700 |
+| 14 | [pako999](https://github.com/pako999) | Patrik | Slovenia  | 8,682 |
+| 15 | [zprima](https://github.com/zprima) | Primož Žnidar | Slovenia | 8,672 |
+| 16 | [vucinatim](https://github.com/vucinatim) | Tim Vučina | Ljubljana, Slovenia | 8,637 |
+| 17 | [mitjapotocin](https://github.com/mitjapotocin) | Mitja Potočin | Ljubljana | 8,383 |
+| 18 | [dejanstrancar](https://github.com/dejanstrancar) | Dejan Strancar | Slovenia | 7,491 |
+| 19 | [AKzar1el](https://github.com/AKzar1el) | Tommy | Ljubljana, Slovenia | 7,042 |
+| 20 | [omeratagunn](https://github.com/omeratagunn) | Ömer Atagün | Slovenia | 6,861 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 3,099
 | 19 | [garbas](https://github.com/garbas) | Rok Garbas | Ljubljana, Slovenia | 240 |
 | 20 | [buresdv](https://github.com/buresdv) | David Bureš | Maribor, Slovenia | 238 |
 
-Generated: 2026-10-17T11:53:42.447Z
+Generated: 2026-10-17T13:27:47.331Z

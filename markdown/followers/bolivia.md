@@ -1,6 +1,6 @@
 # Followers - Bolivia
 
-Generated: 2026-10-17T12:20:27.024Z
+Generated: 2026-10-17T13:56:03.516Z
 
 Users: 1784
 
@@ -23,6 +23,6 @@ Users: 1784
 | 15 | [luucamay](https://github.com/luucamay) | luucamay | independent | luucamay_ | La Paz, Bolivia | 146 |
 | 16 | [AndyIbanez](https://github.com/AndyIbanez) | Andy Ibanez | Fairese | AndyIbanezK | Bolivia | 138 |
 | 17 | [pazteddy](https://github.com/pazteddy) | Teddy Paz Muñoz | DevTalles |  | Bolivia | 133 |
-| 18 | [CarlaMamaniChavez](https://github.com/CarlaMamaniChavez) | Carla Vanesa Mamani Chavez | University "Mayor de San Andres" | CarlaMamaniCha1 | La Paz, Bolivia | 127 |
+| 18 | [CarlaMamaniChavez](https://github.com/CarlaMamaniChavez) | Carla Vanesa Mamani Chavez | University "Mayor de San Andres" | CarlaMamaniCha1 | La Paz, Bolivia | 128 |
 | 19 | [alvarosiles11](https://github.com/alvarosiles11) | Alvaro Siles Estrada | SERVISOFTS SRL | alvarosiles11 | Bolivia | 121 |
 | 20 | [mauforonda](https://github.com/mauforonda) | Mau Foronda |  | mauforonda | Bolivia | 120 |

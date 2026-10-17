@@ -1,17 +1,17 @@
 # Public Contributions - Fiji
 
-Generated: 2026-10-17T12:37:22.538Z
+Generated: 2026-10-17T14:16:57.026Z
 
 Users: 325
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [Amdeo](https://github.com/Amdeo) | Cooper |  |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1438 |
-| 2 | [anav5704](https://github.com/anav5704) | Anav Chand | Pacific Technologies |  | Fiji | 571 |
+| 2 | [anav5704](https://github.com/anav5704) | Anav Chand | Pacific Technologies |  | Fiji | 564 |
 | 3 | [2-fly-4-ai](https://github.com/2-fly-4-ai) | Brian farley | serp.ai |  | Suva | 503 |
 | 4 | [kishkumar96](https://github.com/kishkumar96) | Kishan Chimman Kumar | Pacific Community |  | Suva | 468 |
 | 5 | [SMani0547](https://github.com/SMani0547) | Shiva Mani Goundar | Counterpoint Group |  | Nadi, Fiji | 396 |
-| 6 | [alexwoo79](https://github.com/alexwoo79) | Alex_Woo | Zenaida Orn Company |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 284 |
+| 6 | [alexwoo79](https://github.com/alexwoo79) | Alex_Woo | Zenaida Orn Company |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 307 |
 | 7 | [aryann-7](https://github.com/aryann-7) | Aryan Singh | The University of the South Pacific |  | Suva, Fiji | 283 |
 | 8 | [SRVSRR](https://github.com/SRVSRR) | Rohan Nandan | University of the South Pacific | SRVSRR | Fiji | 261 |
 | 9 | [codeshareman](https://github.com/codeshareman) | Z° North | Zenaida Orn Company |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 243 |

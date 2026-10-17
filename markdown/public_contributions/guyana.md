@@ -1,6 +1,6 @@
 # Public Contributions - Guyana
 
-Generated: 2026-10-17T12:43:58.807Z
+Generated: 2026-10-17T14:22:13.529Z
 
 Users: 186
 
@@ -23,6 +23,6 @@ Users: 186
 | 15 | [schrum2](https://github.com/schrum2) | Jacob Schrum | Southwestern University |  | Georgetown, TX | 317 |
 | 16 | [billydavis](https://github.com/billydavis) | Billy Davis |  |  | Georgetown, Texas | 277 |
 | 17 | [adi-pr](https://github.com/adi-pr) | Aditya (Ruben) Prasad |  |  | Guyana | 267 |
-| 18 | [codedbychavez](https://github.com/codedbychavez) | Chavez Harris | @configcat |  | Guyana | 250 |
-| 19 | [beckettharriman](https://github.com/beckettharriman) | Beckett Harriman | Georgetown University |  | Georgetown, DC | 249 |
+| 18 | [beckettharriman](https://github.com/beckettharriman) | Beckett Harriman | Georgetown University |  | Georgetown, DC | 250 |
+| 19 | [codedbychavez](https://github.com/codedbychavez) | Chavez Harris | @configcat |  | Guyana | 250 |
 | 20 | [amberhinds](https://github.com/amberhinds) | Amber Hinds | @equalizedigital  | heyamberhinds | Georgetown, TX | 220 |

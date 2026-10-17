@@ -13,7 +13,7 @@ Indexed users: 700
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [coolbeatz71](https://github.com/coolbeatz71) | Mutombo Jean-Vincent | Kinshasa, Kigali | 33,806 |
-| 2 | [kmdavid3](https://github.com/kmdavid3) | David M. KAYEMBE | DR Congo, kinshasa | 19,894 |
+| 2 | [kmdavid3](https://github.com/kmdavid3) | David M. KAYEMBE | DR Congo, kinshasa | 19,892 |
 | 3 | [Abarchibody](https://github.com/Abarchibody) | Archimede Body | Kinshasa, DRC | 13,382 |
 | 4 | [Bope142](https://github.com/Bope142) | Norbert Le Geek | Kinshasa DRC | 9,454 |
 | 5 | [JoeM1990](https://github.com/JoeM1990) | Jonathan Monkila  | kinshasa,RDC | 8,077 |
@@ -40,7 +40,7 @@ Indexed users: 700
 | 1 | [coolbeatz71](https://github.com/coolbeatz71) | Mutombo Jean-Vincent | Kinshasa, Kigali | 31,929 |
 | 2 | [andydefer](https://github.com/andydefer) | Andy Kani | Democratic Republic of Congo | 6,200 |
 | 3 | [Theodorebinda](https://github.com/Theodorebinda) | Theodore SAMBA | kinshasa | 3,176 |
-| 4 | [ChrisJustice600](https://github.com/ChrisJustice600) | justice | Kinshasa | 2,624 |
+| 4 | [ChrisJustice600](https://github.com/ChrisJustice600) | justice | Kinshasa | 2,606 |
 | 5 | [vickbk](https://github.com/vickbk) | Victoire Bake | Goma, DR Congo | 2,570 |
 | 6 | [ElieOko](https://github.com/ElieOko) | ElieOko | Kinshasa   | 1,570 |
 | 7 | [fordimalanda](https://github.com/fordimalanda) | Fordi Malanda | Kinshasa, DRC | 1,369 |
@@ -83,4 +83,4 @@ Indexed users: 700
 | 19 | [bolenge](https://github.com/bolenge) | Don de Dieu Bolenge | Congo - Kinshasa | 69 |
 | 20 | [ChrisMwanya](https://github.com/ChrisMwanya) | Chris Mwanya | kinshasa | 69 |
 
-Generated: 2026-10-17T12:34:14.733Z
+Generated: 2026-10-17T14:09:20.943Z

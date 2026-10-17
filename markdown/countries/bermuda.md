@@ -20,8 +20,8 @@ Indexed users: 898
 | 6 | [PatrickMcLennan](https://github.com/PatrickMcLennan) | Patrick McLennan | Hamilton, Ontario | 7,704 |
 | 7 | [eimaj](https://github.com/eimaj) | Jamie Allen | Hamilton | 7,402 |
 | 8 | [brandonpayton](https://github.com/brandonpayton) | Brandon Payton | Hamilton, Indiana | 7,381 |
-| 9 | [keithbrink](https://github.com/keithbrink) | Keith Brink | Hamilton, ON | 6,550 |
-| 10 | [danielsdeboer](https://github.com/danielsdeboer) | Daniel S. Deboer | Hamilton, Ontario | 6,305 |
+| 9 | [keithbrink](https://github.com/keithbrink) | Keith Brink | Hamilton, ON | 6,638 |
+| 10 | [danielsdeboer](https://github.com/danielsdeboer) | Daniel S. Deboer | Hamilton, Ontario | 6,507 |
 | 11 | [mattgrande](https://github.com/mattgrande) | Matt Grande | Hamilton, Ontario | 6,051 |
 | 12 | [Noprop](https://github.com/Noprop) | Greg Forster | Hamilton | 6,029 |
 | 13 | [nckdhl](https://github.com/nckdhl) | Nick Dahl | Hamilton | 5,625 |
@@ -29,8 +29,8 @@ Indexed users: 898
 | 15 | [dbactual](https://github.com/dbactual) | Dave Berton | Bermuda | 4,946 |
 | 16 | [lbrgriffith](https://github.com/lbrgriffith) | L. B. Ricardo Griffith | Hamilton, Bermuda | 4,559 |
 | 17 | [grantlucas](https://github.com/grantlucas) | Grant Lucas | Hamilton, Ontario | 4,359 |
-| 18 | [osamaaamer95](https://github.com/osamaaamer95) | Osama Aamer | Hamilton, NZ | 4,349 |
-| 19 | [izzudin96](https://github.com/izzudin96) | Izzudin Anuar | Hamilton | 4,336 |
+| 18 | [izzudin96](https://github.com/izzudin96) | Izzudin Anuar | Hamilton | 4,336 |
+| 19 | [osamaaamer95](https://github.com/osamaaamer95) | Osama Aamer | Hamilton, NZ | 4,315 |
 | 20 | [adriand](https://github.com/adriand) | Adrian Duyzer | Hamilton, Ontario | 4,143 |
 
 ## Public Contributions
@@ -83,4 +83,4 @@ Indexed users: 898
 | 19 | [feilongcheng](https://github.com/feilongcheng) | Felix | Hamilton, NZ | 85 |
 | 20 | [wittjosiah](https://github.com/wittjosiah) | Josiah Witt | Hamilton, ON | 67 |
 
-Generated: 2026-10-17T12:20:19.702Z
+Generated: 2026-10-17T13:55:25.184Z

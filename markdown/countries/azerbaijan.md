@@ -22,9 +22,9 @@ Indexed users: 5,066
 | 8 | [eynullabeyli](https://github.com/eynullabeyli) | Yusif Eynullabayli | Baku | 7,278 |
 | 9 | [Rizayev](https://github.com/Rizayev) | Elsevar | Azerbaijan | 7,074 |
 | 10 | [Orik-dev](https://github.com/Orik-dev) | Orkhan Guseynov | Baku | 6,349 |
-| 11 | [ogtayhuseynov0](https://github.com/ogtayhuseynov0) | Ogtay Huseynov | Azerbaijan | 6,223 |
-| 12 | [zhmdff](https://github.com/zhmdff) | Mahmud Ahmadov | Azerbaijan | 6,056 |
-| 13 | [zaursharifov](https://github.com/zaursharifov) | Zaur Sharifov | Baku, Azerbaijan | 6,052 |
+| 11 | [zaursharifov](https://github.com/zaursharifov) | Zaur Sharifov | Baku, Azerbaijan | 6,319 |
+| 12 | [ogtayhuseynov0](https://github.com/ogtayhuseynov0) | Ogtay Huseynov | Azerbaijan | 6,223 |
+| 13 | [zhmdff](https://github.com/zhmdff) | Mahmud Ahmadov | Azerbaijan | 6,056 |
 | 14 | [kerimovok](https://github.com/kerimovok) | Orkhan Karimov | Baku, Azerbaijan | 5,607 |
 | 15 | [samirmhsnv](https://github.com/samirmhsnv) | Samir Mammadhasanov | Baku, Azerbaijan | 5,599 |
 | 16 | [OrkhanAbbasli](https://github.com/OrkhanAbbasli) | Orkhan Abbasli | Baku,Azerbaijan | 5,281 |
@@ -83,4 +83,4 @@ Indexed users: 5,066
 | 19 | [Jeyhun1227](https://github.com/Jeyhun1227) | Jeyhun Malikli | Baku | 253 |
 | 20 | [husniababaeva](https://github.com/husniababaeva) | Husniyya Babayeva | Azerbaijan,Baku | 252 |
 
-Generated: 2026-10-17T12:16:00.152Z
+Generated: 2026-10-17T13:51:32.216Z

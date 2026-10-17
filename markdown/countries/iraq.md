@@ -25,13 +25,13 @@ Indexed users: 2,235
 | 11 | [alimehasin](https://github.com/alimehasin) | Ali Mehasin | Baghdad | 7,063 |
 | 12 | [MohammaedAlani](https://github.com/MohammaedAlani) | Mohammed Younis | Baghdad, Iraq | 6,990 |
 | 13 | [Abdalkaderdev](https://github.com/Abdalkaderdev) | Abdalkader Alhamoud | Iraq | 6,803 |
-| 14 | [Aramsatar](https://github.com/Aramsatar) | Aram Satar | Erbil, Iraq | 6,728 |
+| 14 | [Aramsatar](https://github.com/Aramsatar) | Aram Satar | Erbil, Iraq | 6,771 |
 | 15 | [codezardasht](https://github.com/codezardasht) | Zardasht Rwandzi | Iraq/Erbil | 6,641 |
 | 16 | [Hamoi1](https://github.com/Hamoi1) | Muhammad Esmael | Iraq, Sulaymaniyah, Ranya  | 6,573 |
 | 17 | [RezdarNajeeb](https://github.com/RezdarNajeeb) | Rezdar Najeeb | Iraq | 6,468 |
 | 18 | [5h4k4r](https://github.com/5h4k4r) | Shakar Bakr | Erbil, Iraq | 6,285 |
 | 19 | [3bbasDev](https://github.com/3bbasDev) | Abbas Radam | Baghdad | 5,942 |
-| 20 | [DiyarFirasmusa](https://github.com/DiyarFirasmusa) | Diyar Firas | iraq | 5,941 |
+| 20 | [DiyarFirasmusa](https://github.com/DiyarFirasmusa) | Diyar Firas | iraq | 5,873 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 2,235
 | 19 | [Om4r-007](https://github.com/Om4r-007) | Omar Imad | Baghdad / Iraq | 202 |
 | 20 | [TARQkop](https://github.com/TARQkop) | TARIQ | IRAQ | 190 |
 
-Generated: 2026-10-17T12:45:51.639Z
+Generated: 2026-10-17T14:25:57.477Z

@@ -51,9 +51,9 @@ Indexed users: 1,784
 | 12 | [pachonjcl](https://github.com/pachonjcl) | Jose Carlos Laura Ramirez | La Paz, Bolivia | 1,267 |
 | 13 | [asosab](https://github.com/asosab) | Alejandro Sosa Briceño | Bolivia | 1,225 |
 | 14 | [jhersON1](https://github.com/jhersON1) | Jherson Rodriguez | Bolivia | 1,225 |
-| 15 | [igidio](https://github.com/igidio) | Salvador Cáceres C. | Bolivia | 1,224 |
-| 16 | [alphaonex86](https://github.com/alphaonex86) | BRULE Herman Jacques Roger | Santa cruz de la sierra, Bolivia | 1,199 |
-| 17 | [Lotiel-Dev](https://github.com/Lotiel-Dev) | Carlos Antonio Gutierrez Copara | Bolivia | 1,193 |
+| 15 | [alphaonex86](https://github.com/alphaonex86) | BRULE Herman Jacques Roger | Santa cruz de la sierra, Bolivia | 1,199 |
+| 16 | [Lotiel-Dev](https://github.com/Lotiel-Dev) | Carlos Antonio Gutierrez Copara | Bolivia | 1,193 |
+| 17 | [igidio](https://github.com/igidio) | Salvador Cáceres C. | Bolivia | 1,147 |
 | 18 | [samuelloza](https://github.com/samuelloza) | Samuel Loza Ramirez | Bolivia | 1,097 |
 | 19 | [nicobytes](https://github.com/nicobytes) | Nicolas Molina Monroy | Cochabamba, Bolivia | 1,085 |
 | 20 | [nataly-33](https://github.com/nataly-33) | Nataly Vanessa Martinez Martinez | Bolivia | 1,038 |
@@ -79,8 +79,8 @@ Indexed users: 1,784
 | 15 | [luucamay](https://github.com/luucamay) | luucamay | La Paz, Bolivia | 146 |
 | 16 | [AndyIbanez](https://github.com/AndyIbanez) | Andy Ibanez | Bolivia | 138 |
 | 17 | [pazteddy](https://github.com/pazteddy) | Teddy Paz Muñoz | Bolivia | 133 |
-| 18 | [CarlaMamaniChavez](https://github.com/CarlaMamaniChavez) | Carla Vanesa Mamani Chavez | La Paz, Bolivia | 127 |
+| 18 | [CarlaMamaniChavez](https://github.com/CarlaMamaniChavez) | Carla Vanesa Mamani Chavez | La Paz, Bolivia | 128 |
 | 19 | [alvarosiles11](https://github.com/alvarosiles11) | Alvaro Siles Estrada | Bolivia | 121 |
 | 20 | [mauforonda](https://github.com/mauforonda) | Mau Foronda | Bolivia | 120 |
 
-Generated: 2026-10-17T12:20:27.024Z
+Generated: 2026-10-17T13:56:03.516Z
