@@ -1,6 +1,6 @@
 # Kyrgyzstan
 
-Indexed users: 2,444
+Indexed users: 2,443
 
 | Leaderboard | Link |
 |---|---|
@@ -47,16 +47,16 @@ Indexed users: 2,444
 | 8 | [fi-res](https://github.com/fi-res) | fires | kyrgyzstan | 1,651 |
 | 9 | [bvasilenko](https://github.com/bvasilenko) | Boris Vasilenko | Bishkek, Kyrgyzstan (Relocated) | 1,379 |
 | 10 | [Eldar2021](https://github.com/Eldar2021) | Eldiiar Almazbek | Bishkek | 1,350 |
-| 11 | [b4631119-oss](https://github.com/b4631119-oss) | DevRoot | Bishkek | 1,336 |
-| 12 | [raimbekovm](https://github.com/raimbekovm) | Murat Raimbekov | Bishkek, Kyrgyzstan | 1,261 |
-| 13 | [asannov](https://github.com/asannov) | Damir | Bishkek, Kyrgyz Republic | 1,238 |
-| 14 | [alxnko](https://github.com/alxnko) | Alex Neko | Kyrgyzstan | 1,217 |
-| 15 | [teimurjan](https://github.com/teimurjan) | Teimur Gasanov | Bishkek, Kyrgyzstan | 1,140 |
-| 16 | [isko18](https://github.com/isko18) | islam | Kyrgyzstan, Osh | 1,064 |
-| 17 | [ArzubekDev](https://github.com/ArzubekDev) | Arzubek | Bishkek | 1,025 |
-| 18 | [dioritdev](https://github.com/dioritdev) | DIOR | Kyrgyzstan/Osh | 978 |
-| 19 | [er-Bilim](https://github.com/er-Bilim) | notesoat | Bishkek, Kyrgyzstan | 964 |
-| 20 | [daniyarchambylov](https://github.com/daniyarchambylov) | Daniyar Chambylov | Bishkek, Kyrgyzstan | 947 |
+| 11 | [raimbekovm](https://github.com/raimbekovm) | Murat Raimbekov | Bishkek, Kyrgyzstan | 1,261 |
+| 12 | [asannov](https://github.com/asannov) | Damir | Bishkek, Kyrgyz Republic | 1,238 |
+| 13 | [alxnko](https://github.com/alxnko) | Alex Neko | Kyrgyzstan | 1,217 |
+| 14 | [teimurjan](https://github.com/teimurjan) | Teimur Gasanov | Bishkek, Kyrgyzstan | 1,140 |
+| 15 | [isko18](https://github.com/isko18) | islam | Kyrgyzstan, Osh | 1,064 |
+| 16 | [ArzubekDev](https://github.com/ArzubekDev) | Arzubek | Bishkek | 1,025 |
+| 17 | [dioritdev](https://github.com/dioritdev) | DIOR | Kyrgyzstan/Osh | 978 |
+| 18 | [er-Bilim](https://github.com/er-Bilim) | notesoat | Bishkek, Kyrgyzstan | 964 |
+| 19 | [daniyarchambylov](https://github.com/daniyarchambylov) | Daniyar Chambylov | Bishkek, Kyrgyzstan | 947 |
+| 20 | [salievyt](https://github.com/salievyt) | sm1le | Kyrgyzstan | 887 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 2,444
 | 19 | [Elkhan2003](https://github.com/Elkhan2003) | Elkhan Sharshenbekov | Karakol, Kyrgyzstan | 103 |
 | 20 | [eszdman](https://github.com/eszdman) |  | Kyrgyzstan | 103 |
 
-Generated: 2026-10-17T18:01:53.288Z
+Generated: 2026-10-17T19:34:49.582Z

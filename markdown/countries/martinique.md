@@ -24,7 +24,7 @@ Indexed users: 75
 | 10 | [LePtitBiscuit](https://github.com/LePtitBiscuit) | LePtitBiscuit | Martinique | 800 |
 | 11 | [vevedh](https://github.com/vevedh) | Hervé de CHAVIGNY | Martinique | 797 |
 | 12 | [blazux](https://github.com/blazux) | Vincent B. | Martinique | 468 |
-| 13 | [ricard33](https://github.com/ricard33) | Cédric RICARD | Martinique | 391 |
+| 13 | [ricard33](https://github.com/ricard33) | Cédric RICARD | Martinique | 392 |
 | 14 | [steeven-js](https://github.com/steeven-js) | steeven_js | Martinique | 372 |
 | 15 | [b1nj](https://github.com/b1nj) | B1nj | Martinique | 179 |
 | 16 | [kodzukye](https://github.com/kodzukye) | Jayyy ⋆˚✿˖° | Martinique | 171 |
@@ -62,7 +62,7 @@ Indexed users: 75
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [diasjorge](https://github.com/diasjorge) | Jorge Dias | Martinique | 89 |
+| 1 | [diasjorge](https://github.com/diasjorge) | Jorge Dias | Martinique | 88 |
 | 2 | [bolom](https://github.com/bolom) | Bolo Michelin | Martinique | 34 |
 | 3 | [blazux](https://github.com/blazux) | Vincent B. | Martinique | 18 |
 | 4 | [giovanny972](https://github.com/giovanny972) | giovanny adelaide | martinique | 16 |
@@ -83,4 +83,4 @@ Indexed users: 75
 | 19 | [LePtitBiscuit](https://github.com/LePtitBiscuit) | LePtitBiscuit | Martinique | 6 |
 | 20 | [phnxtrill](https://github.com/phnxtrill) | Quentin | Fort-de-France, Martinique | 6 |
 
-Generated: 2026-10-17T18:09:07.305Z
+Generated: 2026-10-17T19:39:38.534Z

@@ -1,8 +1,8 @@
 # Public Contributions - Kyrgyzstan
 
-Generated: 2026-10-17T18:01:53.288Z
+Generated: 2026-10-17T19:34:49.582Z
 
-Users: 2444
+Users: 2443
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -16,13 +16,13 @@ Users: 2444
 | 8 | [fi-res](https://github.com/fi-res) | fires |  |  | kyrgyzstan | 1651 |
 | 9 | [bvasilenko](https://github.com/bvasilenko) | Boris Vasilenko |  |  | Bishkek, Kyrgyzstan (Relocated) | 1379 |
 | 10 | [Eldar2021](https://github.com/Eldar2021) | Eldiiar Almazbek | ElTeh | EldiiarAlmazbek | Bishkek | 1350 |
-| 11 | [b4631119-oss](https://github.com/b4631119-oss) | DevRoot | PROlab |  | Bishkek | 1336 |
-| 12 | [raimbekovm](https://github.com/raimbekovm) | Murat Raimbekov | @ultralytics  |  | Bishkek, Kyrgyzstan | 1261 |
-| 13 | [asannov](https://github.com/asannov) | Damir |  |  | Bishkek, Kyrgyz Republic | 1238 |
-| 14 | [alxnko](https://github.com/alxnko) | Alex Neko | AIT Solutions |  | Kyrgyzstan | 1217 |
-| 15 | [teimurjan](https://github.com/teimurjan) | Teimur Gasanov | @SpeechifyInc | teimurjan | Bishkek, Kyrgyzstan | 1140 |
-| 16 | [isko18](https://github.com/isko18) | islam | Geeks  |  | Kyrgyzstan, Osh | 1064 |
-| 17 | [ArzubekDev](https://github.com/ArzubekDev) | Arzubek | Yldam market |  | Bishkek | 1025 |
-| 18 | [dioritdev](https://github.com/dioritdev) | DIOR | prolab |  | Kyrgyzstan/Osh | 978 |
-| 19 | [er-Bilim](https://github.com/er-Bilim) | notesoat | international university  |  | Bishkek, Kyrgyzstan | 964 |
-| 20 | [daniyarchambylov](https://github.com/daniyarchambylov) | Daniyar Chambylov |  |  | Bishkek, Kyrgyzstan | 947 |
+| 11 | [raimbekovm](https://github.com/raimbekovm) | Murat Raimbekov | @ultralytics  |  | Bishkek, Kyrgyzstan | 1261 |
+| 12 | [asannov](https://github.com/asannov) | Damir |  |  | Bishkek, Kyrgyz Republic | 1238 |
+| 13 | [alxnko](https://github.com/alxnko) | Alex Neko | AIT Solutions |  | Kyrgyzstan | 1217 |
+| 14 | [teimurjan](https://github.com/teimurjan) | Teimur Gasanov | @SpeechifyInc | teimurjan | Bishkek, Kyrgyzstan | 1140 |
+| 15 | [isko18](https://github.com/isko18) | islam | Geeks  |  | Kyrgyzstan, Osh | 1064 |
+| 16 | [ArzubekDev](https://github.com/ArzubekDev) | Arzubek | Yldam market |  | Bishkek | 1025 |
+| 17 | [dioritdev](https://github.com/dioritdev) | DIOR | prolab |  | Kyrgyzstan/Osh | 978 |
+| 18 | [er-Bilim](https://github.com/er-Bilim) | notesoat | international university  |  | Bishkek, Kyrgyzstan | 964 |
+| 19 | [daniyarchambylov](https://github.com/daniyarchambylov) | Daniyar Chambylov |  |  | Bishkek, Kyrgyzstan | 947 |
+| 20 | [salievyt](https://github.com/salievyt) | sm1le | @DEO-CORE |  | Kyrgyzstan | 887 |

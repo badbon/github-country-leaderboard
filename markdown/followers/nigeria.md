@@ -1,8 +1,8 @@
 # Followers - Nigeria
 
-Generated: 2026-10-17T18:15:15.571Z
+Generated: 2026-10-17T19:46:30.155Z
 
-Users: 33187
+Users: 33186
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -16,13 +16,13 @@ Users: 33187
 | 8 | [Brainydaps](https://github.com/Brainydaps) | Adedapo Adeniran | Brainydaps Technology Limited | Brainydaps | Nigeria | 1461 |
 | 9 | [desphixs](https://github.com/desphixs) | Destiny Franks | @staqed-hq @fusoraq  | desphixs | Nigeria | 1250 |
 | 10 | [BrightDaniel](https://github.com/BrightDaniel) | BRIGHT (Bwave) | Alx Software Engineering  | Ict1Bwave | Port Harcourt, Nigeria | 1199 |
-| 11 | [godstime-dev](https://github.com/godstime-dev) | Godstime |  |  | Nigeria | 991 |
-| 12 | [Lordwill1](https://github.com/Lordwill1) | Godswill Kalu (Lordwill) | Silicon Africa | IamLordwill | Abuja | 964 |
-| 13 | [davepartner](https://github.com/davepartner) | Dave | Braintemple |  | Nigeria | 878 |
-| 14 | [Ruth-ikegah](https://github.com/Ruth-ikegah) | Ruth Ikegah | Consulting | IkegahRuth | Lagos, Nigeria | 873 |
-| 15 | [bahdcoder](https://github.com/bahdcoder) | Frantz Kati | @tenseijs | bahdcoder | Lagos, Nigeria | 868 |
-| 16 | [appcypher](https://github.com/appcypher) | Stephen Akinyemi | @superradcompany | theappcypher | Lagos, Nigeria | 825 |
-| 17 | [Yczar](https://github.com/Yczar) | Ayotomide |  | czarify | Nigeria | 784 |
-| 18 | [samglish](https://github.com/samglish) | BEIDI DINA SAMUEL | @Samglish-Inc  | BeidiSamuel | Nigeria, Yola | 759 |
-| 19 | [slick-codes](https://github.com/slick-codes) | Paul Ezekiel-Hart |  | slick_codes | Nigeria | 709 |
-| 20 | [adeolaadeoti](https://github.com/adeolaadeoti) | adeola adeoti | @swipefintech  | adeolajs | Lagos, Nigeria | 707 |
+| 11 | [engripaye](https://github.com/engripaye) | Engr. Ipaye Babatunde | @cupanda | engripaye1 | Lagos, Nigeria | 1130 |
+| 12 | [godstime-dev](https://github.com/godstime-dev) | Godstime |  |  | Nigeria | 991 |
+| 13 | [Lordwill1](https://github.com/Lordwill1) | Godswill Kalu (Lordwill) | Silicon Africa | IamLordwill | Abuja | 964 |
+| 14 | [davepartner](https://github.com/davepartner) | Dave | Braintemple |  | Nigeria | 878 |
+| 15 | [Ruth-ikegah](https://github.com/Ruth-ikegah) | Ruth Ikegah | Consulting | IkegahRuth | Lagos, Nigeria | 873 |
+| 16 | [bahdcoder](https://github.com/bahdcoder) | Frantz Kati | @tenseijs | bahdcoder | Lagos, Nigeria | 868 |
+| 17 | [appcypher](https://github.com/appcypher) | Stephen Akinyemi | @superradcompany | theappcypher | Lagos, Nigeria | 825 |
+| 18 | [Yczar](https://github.com/Yczar) | Ayotomide |  | czarify | Nigeria | 784 |
+| 19 | [samglish](https://github.com/samglish) | BEIDI DINA SAMUEL | @Samglish-Inc  | BeidiSamuel | Nigeria, Yola | 759 |
+| 20 | [slick-codes](https://github.com/slick-codes) | Paul Ezekiel-Hart |  | slick_codes | Nigeria | 709 |

@@ -1,12 +1,12 @@
 # Followers - Martinique
 
-Generated: 2026-10-17T18:09:07.305Z
+Generated: 2026-10-17T19:39:38.534Z
 
 Users: 75
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [diasjorge](https://github.com/diasjorge) | Jorge Dias | http://aerisnova.com | dias_jorge | Martinique | 89 |
+| 1 | [diasjorge](https://github.com/diasjorge) | Jorge Dias | http://aerisnova.com | dias_jorge | Martinique | 88 |
 | 2 | [bolom](https://github.com/bolom) | Bolo Michelin | @scionx-io | bolomichelin | Martinique | 34 |
 | 3 | [blazux](https://github.com/blazux) | Vincent B. |  |  | Martinique | 18 |
 | 4 | [giovanny972](https://github.com/giovanny972) | giovanny adelaide |  |  | martinique | 16 |

@@ -12,12 +12,12 @@ Indexed users: 210
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [FranklinD10](https://github.com/FranklinD10) | FrApps | Liberia | 7,830 |
+| 1 | [FranklinD10](https://github.com/FranklinD10) | FrApps | Liberia | 7,833 |
 | 2 | [RA9](https://github.com/RA9) | Carlos S. Nah  | Liberia  | 5,340 |
 | 3 | [cruso003](https://github.com/cruso003) | Geitodyu Henrique Crusoe | Paynesville, Liberia | 4,277 |
 | 4 | [Forratino21](https://github.com/Forratino21) | Courage J. F. T Chileegbo | Liberia | 3,317 |
 | 5 | [Abayoh](https://github.com/Abayoh) | Alexander Bayoh | Monrovia, Liberia | 2,958 |
-| 6 | [deginmulbah](https://github.com/deginmulbah) | Jenkins D.Mulbah | Liberia,Monrovia | 2,091 |
+| 6 | [deginmulbah](https://github.com/deginmulbah) | Jenkins D.Mulbah | Liberia,Monrovia | 2,097 |
 | 7 | [priceflex](https://github.com/priceflex) | Steven Price | Monrovia, CA | 1,516 |
 | 8 | [timtjoe](https://github.com/timtjoe) | Tim T. Joe | Liberia, West Africa | 1,432 |
 | 9 | [arunponnappan](https://github.com/arunponnappan) | Arun P | Monrovia | 1,410 |
@@ -31,7 +31,7 @@ Indexed users: 210
 | 17 | [jdaltonll02](https://github.com/jdaltonll02) | John Dalton Gibson | Liberia | 762 |
 | 18 | [efmomoh](https://github.com/efmomoh) | ENSSAH FAYIA MOMOH | Monrovia, Liberia | 719 |
 | 19 | [davewonnah](https://github.com/davewonnah) | Dave Wonnah | Monrovia, Liberia | 630 |
-| 20 | [Prodigy-J](https://github.com/Prodigy-J) | Jerome N Tokpa | Monrovia, Liberia | 630 |
+| 20 | [xarrijorge](https://github.com/xarrijorge) | The African Nomad | Monrovia, Liberia | 628 |
 
 ## Public Contributions
 
@@ -74,7 +74,7 @@ Indexed users: 210
 | 10 | [xarrijorge](https://github.com/xarrijorge) | The African Nomad | Monrovia, Liberia | 34 |
 | 11 | [pastoreekahk96](https://github.com/pastoreekahk96) | Pastoreekahk S Arthur | Monrovia, Liberia | 33 |
 | 12 | [maxwelldorliea](https://github.com/maxwelldorliea) | Maxwell D.  Dorliea | Monrovia, Montserrado County, Liberia | 30 |
-| 13 | [weahotis](https://github.com/weahotis) | Otis Weah | Monrovia Liberia | 30 |
+| 13 | [weahotis](https://github.com/weahotis) | Otis Weah | Monrovia Liberia | 29 |
 | 14 | [tksiakor](https://github.com/tksiakor) | Kpetermeni Siakor | Monrovia, Liberia | 27 |
 | 15 | [tangaye](https://github.com/tangaye) | Nathan Tangaye Siafa | Paynesville, Liberia | 26 |
 | 16 | [KalevRK](https://github.com/KalevRK) | Kalev Roomann-Kurrik | Monrovia, CA | 25 |
@@ -83,4 +83,4 @@ Indexed users: 210
 | 19 | [boaslah](https://github.com/boaslah) | Blessing Boaslah | Montserrado County, Liberia  | 21 |
 | 20 | [ejaygbay](https://github.com/ejaygbay) | Emmanuel Jaygbay | Liberia | 21 |
 
-Generated: 2026-10-17T18:03:28.668Z
+Generated: 2026-10-17T19:35:44.148Z

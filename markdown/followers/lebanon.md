@@ -1,6 +1,6 @@
 # Followers - Lebanon
 
-Generated: 2026-10-17T18:02:23.312Z
+Generated: 2026-10-17T19:35:01.539Z
 
 Users: 2560
 
@@ -19,10 +19,10 @@ Users: 2560
 | 11 | [abbood](https://github.com/abbood) | Abdullah Bakhach | Village.do |  | Tripoli, Lebanon | 182 |
 | 12 | [CharbelNohra](https://github.com/CharbelNohra) | Charbel Nohra |  |  | Beirut, Lebanon | 157 |
 | 13 | [KABBOUCHI](https://github.com/KABBOUCHI) | Georges KABBOUCHI | @Instadapp  | KABBOUCHI | Lebanon | 155 |
-| 14 | [rafeasaayfan](https://github.com/rafeasaayfan) | Rafeh Saayfan |  |  | lebanon | 140 |
-| 15 | [kamicut](https://github.com/kamicut) | Marc Farra | @developmentseed  |  | Beirut | 138 |
+| 14 | [kamicut](https://github.com/kamicut) | Marc Farra | @developmentseed  |  | Beirut | 140 |
+| 15 | [rafeasaayfan](https://github.com/rafeasaayfan) | Rafeh Saayfan |  |  | lebanon | 140 |
 | 16 | [SarahMelki](https://github.com/SarahMelki) | Sarah Melki | 100Devs  | _SarahMelki | Beirut, Lebanon | 138 |
 | 17 | [Mahmoud7Osman](https://github.com/Mahmoud7Osman) | Mahmoud Osman | AMDCyberSec |  | Lebanon | 129 |
 | 18 | [saeedhalabi](https://github.com/saeedhalabi) | Saeed Halabi |  |  | Lebanon 🇱🇧 | 109 |
-| 19 | [hadiidbouk](https://github.com/hadiidbouk) | Hadi Dbouk | @Fueled | DboukHadi | Lebanon | 101 |
-| 20 | [rhamzeh](https://github.com/rhamzeh) | Raghd Hamzeh | @openfga  |  | Beirut, Lebanon | 95 |
+| 19 | [rhamzeh](https://github.com/rhamzeh) | Raghd Hamzeh | @openfga  |  | Beirut, Lebanon | 102 |
+| 20 | [hadiidbouk](https://github.com/hadiidbouk) | Hadi Dbouk | @Fueled | DboukHadi | Lebanon | 101 |

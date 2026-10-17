@@ -1,6 +1,6 @@
 # Nigeria
 
-Indexed users: 33,187
+Indexed users: 33,186
 
 | Leaderboard | Link |
 |---|---|
@@ -72,15 +72,15 @@ Indexed users: 33,187
 | 8 | [Brainydaps](https://github.com/Brainydaps) | Adedapo Adeniran | Nigeria | 1,461 |
 | 9 | [desphixs](https://github.com/desphixs) | Destiny Franks | Nigeria | 1,250 |
 | 10 | [BrightDaniel](https://github.com/BrightDaniel) | BRIGHT (Bwave) | Port Harcourt, Nigeria | 1,199 |
-| 11 | [godstime-dev](https://github.com/godstime-dev) | Godstime | Nigeria | 991 |
-| 12 | [Lordwill1](https://github.com/Lordwill1) | Godswill Kalu (Lordwill) | Abuja | 964 |
-| 13 | [davepartner](https://github.com/davepartner) | Dave | Nigeria | 878 |
-| 14 | [Ruth-ikegah](https://github.com/Ruth-ikegah) | Ruth Ikegah | Lagos, Nigeria | 873 |
-| 15 | [bahdcoder](https://github.com/bahdcoder) | Frantz Kati | Lagos, Nigeria | 868 |
-| 16 | [appcypher](https://github.com/appcypher) | Stephen Akinyemi | Lagos, Nigeria | 825 |
-| 17 | [Yczar](https://github.com/Yczar) | Ayotomide | Nigeria | 784 |
-| 18 | [samglish](https://github.com/samglish) | BEIDI DINA SAMUEL | Nigeria, Yola | 759 |
-| 19 | [slick-codes](https://github.com/slick-codes) | Paul Ezekiel-Hart | Nigeria | 709 |
-| 20 | [adeolaadeoti](https://github.com/adeolaadeoti) | adeola adeoti | Lagos, Nigeria | 707 |
+| 11 | [engripaye](https://github.com/engripaye) | Engr. Ipaye Babatunde | Lagos, Nigeria | 1,130 |
+| 12 | [godstime-dev](https://github.com/godstime-dev) | Godstime | Nigeria | 991 |
+| 13 | [Lordwill1](https://github.com/Lordwill1) | Godswill Kalu (Lordwill) | Abuja | 964 |
+| 14 | [davepartner](https://github.com/davepartner) | Dave | Nigeria | 878 |
+| 15 | [Ruth-ikegah](https://github.com/Ruth-ikegah) | Ruth Ikegah | Lagos, Nigeria | 873 |
+| 16 | [bahdcoder](https://github.com/bahdcoder) | Frantz Kati | Lagos, Nigeria | 868 |
+| 17 | [appcypher](https://github.com/appcypher) | Stephen Akinyemi | Lagos, Nigeria | 825 |
+| 18 | [Yczar](https://github.com/Yczar) | Ayotomide | Nigeria | 784 |
+| 19 | [samglish](https://github.com/samglish) | BEIDI DINA SAMUEL | Nigeria, Yola | 759 |
+| 20 | [slick-codes](https://github.com/slick-codes) | Paul Ezekiel-Hart | Nigeria | 709 |
 
-Generated: 2026-10-17T18:15:15.571Z
+Generated: 2026-10-17T19:46:30.155Z
