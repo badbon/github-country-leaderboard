@@ -51,9 +51,9 @@ Indexed users: 888
 | 12 | [Xaaalera](https://github.com/Xaaalera) | Roman Maslennikov | Montenegro | 1,970 |
 | 13 | [stefashkaa](https://github.com/stefashkaa) | Stefan Popov | Montenegro, Budva | 1,829 |
 | 14 | [atimofeev](https://github.com/atimofeev) | Artem Timofeev | Budva, Montenegro | 1,660 |
-| 15 | [YuriiMotov](https://github.com/YuriiMotov) | Yurii Motov | Bar, Montenegro | 1,477 |
-| 16 | [stevyhacker](https://github.com/stevyhacker) | Stevan Bogosavljević | Montenegro | 1,450 |
-| 17 | [yurabakhtin](https://github.com/yurabakhtin) | Yuriy Bakhtin | Montenegro | 1,376 |
+| 15 | [stevyhacker](https://github.com/stevyhacker) | Stevan Bogosavljević | Montenegro | 1,522 |
+| 16 | [YuriiMotov](https://github.com/YuriiMotov) | Yurii Motov | Bar, Montenegro | 1,477 |
+| 17 | [yurabakhtin](https://github.com/yurabakhtin) | Yuriy Bakhtin | Montenegro | 1,389 |
 | 18 | [artempartos](https://github.com/artempartos) | Artem Petrov | Montenegro | 1,255 |
 | 19 | [itrcz](https://github.com/itrcz) | Ilya Trikoz | Montenegro | 1,188 |
 | 20 | [lunochkin](https://github.com/lunochkin) | Maksim Lunochkin | Montenegro | 960 |
@@ -77,10 +77,10 @@ Indexed users: 888
 | 13 | [mifth](https://github.com/mifth) | mifth | Montenegro | 130 |
 | 14 | [ESA1979](https://github.com/ESA1979) | Emrah Süleyman Atalay | Montenegro | 127 |
 | 15 | [gh110919](https://github.com/gh110919) | ilia sergeev | Podgorica | 127 |
-| 16 | [hedza06](https://github.com/hedza06) | Heril Muratovic | Montenegro, Podgorica | 108 |
+| 16 | [hedza06](https://github.com/hedza06) | Heril Muratovic | Montenegro, Podgorica | 107 |
 | 17 | [perisicnikola37](https://github.com/perisicnikola37) | Nikola Perisic | Podgorica, Montenegro | 101 |
 | 18 | [StevanCakic](https://github.com/StevanCakic) | Stevan Čakić | Montenegro | 101 |
 | 19 | [vovkasm](https://github.com/vovkasm) | Vladimir Timofeev | Budva, Montenegro | 99 |
 | 20 | [marcoroganovic](https://github.com/marcoroganovic) | Marko Roganovic | Montenegro | 89 |
 
-Generated: 2026-10-17T13:04:57.948Z
+Generated: 2026-10-17T14:39:58.424Z

@@ -20,8 +20,8 @@ Indexed users: 61
 | 6 | [CastFX](https://github.com/CastFX) | Chris | San Marino | 2,260 |
 | 7 | [damiandominella](https://github.com/damiandominella) | dodo | San Marino / Milan / Remotely | 2,147 |
 | 8 | [deBrian07](https://github.com/deBrian07) | Brian C. | San Marino, CA | 2,020 |
-| 9 | [gerza-lab](https://github.com/gerza-lab) | adam gerza | San Marino, CA | 1,238 |
-| 10 | [alessandrorebosio](https://github.com/alessandrorebosio) | Rebo | San Marino | 997 |
+| 9 | [gerza-lab](https://github.com/gerza-lab) | adam gerza | San Marino, CA | 1,239 |
+| 10 | [alessandrorebosio](https://github.com/alessandrorebosio) | Rebo | San Marino | 1,006 |
 | 11 | [thu105](https://github.com/thu105) | Hein Moe Thu | San Marino, CA | 777 |
 | 12 | [gennaris](https://github.com/gennaris) | Simone Gennari | San Marino | 753 |
 | 13 | [gcardi](https://github.com/gcardi) | Giuliano Cardinali | Republic of San Marino | 731 |
@@ -38,7 +38,7 @@ Indexed users: 61
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [calebnewtonusc](https://github.com/calebnewtonusc) | Caleb Newton | San Marino, CA | 4,321 |
-| 2 | [alessandrorebosio](https://github.com/alessandrorebosio) | Rebo | San Marino | 997 |
+| 2 | [alessandrorebosio](https://github.com/alessandrorebosio) | Rebo | San Marino | 1,006 |
 | 3 | [gcardi](https://github.com/gcardi) | Giuliano Cardinali | Republic of San Marino | 487 |
 | 4 | [deBrian07](https://github.com/deBrian07) | Brian C. | San Marino, CA | 311 |
 | 5 | [simooooone](https://github.com/simooooone) | Simos | San Marino | 284 |
@@ -83,4 +83,4 @@ Indexed users: 61
 | 19 | [deBrian07](https://github.com/deBrian07) | Brian C. | San Marino, CA | 11 |
 | 20 | [Wentianlong](https://github.com/Wentianlong) | Erma O'Conner | 505 ,Gaynelle Locks ,Carleneland ,Texas ,San Marino | 11 |
 
-Generated: 2026-10-17T13:20:43.837Z
+Generated: 2026-10-17T14:55:13.852Z

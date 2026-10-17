@@ -1,8 +1,8 @@
 # Followers - Kyrgyzstan
 
-Generated: 2026-10-17T12:53:17.095Z
+Generated: 2026-10-17T14:46:01.092Z
 
-Users: 2443
+Users: 2444
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -11,8 +11,8 @@ Users: 2443
 | 3 | [Toktorov](https://github.com/Toktorov) | Toktorov Kurmanbek | Founder & CEO @CodexKG | binniev01 | Kyrgyzstan, Bishkek | 363 |
 | 4 | [anatoly-bobrovsky](https://github.com/anatoly-bobrovsky) | Anatoly Bobrovsky |  |  | Bishkek | 255 |
 | 5 | [gen1us2k](https://github.com/gen1us2k) | Andrew Zhuravlev |  | gen1us2k | Kyrgyzstan, Bishkek | 209 |
-| 6 | [nasirovx](https://github.com/nasirovx) | 5ekastan | ITC bootcamp  |  | Osh \| Kyrgyzstan | 183 |
-| 7 | [toksaitov](https://github.com/toksaitov) | Toksaitov Dmitrii Alexandrovich | @auca |  | Bishkek | 176 |
+| 6 | [toksaitov](https://github.com/toksaitov) | Toksaitov Dmitrii Alexandrovich | @auca |  | Bishkek | 184 |
+| 7 | [nasirovx](https://github.com/nasirovx) | 5ekastan | ITC bootcamp  |  | Osh \| Kyrgyzstan | 183 |
 | 8 | [Alymbekov](https://github.com/Alymbekov) |  | Boomerang |  | Bishkek, Kyrgyzstan | 141 |
 | 9 | [songhee24](https://github.com/songhee24) | Azamat |  |  | Kyrgyzstan | 134 |
 | 10 | [YaiLung](https://github.com/YaiLung) | Олег Владимирович | @Svag-gamesss @Microsoft |  | Bishkek | 127 |

@@ -1,6 +1,6 @@
 # Public Contributions - Serbia
 
-Generated: 2026-10-17T13:22:19.461Z
+Generated: 2026-10-17T14:56:21.566Z
 
 Users: 10664
 
@@ -15,14 +15,14 @@ Users: 10664
 | 7 | [sikleq](https://github.com/sikleq) | sikle |  |  | Belgrade | 5416 |
 | 8 | [ydnikolaev](https://github.com/ydnikolaev) | Nikolaev | @r22d222  |  | Belgrade, Serbia | 4998 |
 | 9 | [atimad](https://github.com/atimad) | Atila Madai |  |  | Serbia | 4933 |
-| 10 | [fiftydinar](https://github.com/fiftydinar) |  |  |  | Serbia | 4283 |
-| 11 | [svasenkov](https://github.com/svasenkov) | Vasenkov Stanislav | @qa-guru @autotests-ai |  | Serbia, Belgrade | 3936 |
-| 12 | [iscekic](https://github.com/iscekic) | Igor Šćekić | Kilo Code | sceka_ | Novi Sad, Serbia | 3636 |
-| 13 | [nklmilojevic](https://github.com/nklmilojevic) | Nikola Milojević | MailerLite Inc | nklmilojevic | Belgrade, Serbia | 3610 |
-| 14 | [proffesor-for-testing](https://github.com/proffesor-for-testing) | Dragan Spiridonov | Cognitum One |  | Petrovaradin, Serbia | 3575 |
-| 15 | [dreikanter](https://github.com/dreikanter) | Alex Musayev | @retailzipline, @amplifr |  | Novi Sad, Serbia | 3565 |
-| 16 | [L4ki](https://github.com/L4ki) | L4ki |  |  | Serbia, Smederevska Palanka | 3563 |
-| 17 | [vladprrs](https://github.com/vladprrs) | Vlad Pr |  |  | Belgrade, Serbia | 3336 |
-| 18 | [egv](https://github.com/egv) | Gena | Cambrian |  | Belgrade - Tel Aviv - Dubai | 3094 |
-| 19 | [maratik123](https://github.com/maratik123) |  |  |  | Serbia, Belgrade | 2991 |
-| 20 | [mrsladoje](https://github.com/mrsladoje) | Marko Sladojević | Codolis |  | Novi Sad, Serbia | 2967 |
+| 10 | [momoshell](https://github.com/momoshell) | Momcilo Miladinovic | IXNAY |  | Belgrade | 4818 |
+| 11 | [fiftydinar](https://github.com/fiftydinar) |  |  |  | Serbia | 4283 |
+| 12 | [svasenkov](https://github.com/svasenkov) | Vasenkov Stanislav | @qa-guru @autotests-ai |  | Serbia, Belgrade | 3936 |
+| 13 | [iscekic](https://github.com/iscekic) | Igor Šćekić | Kilo Code | sceka_ | Novi Sad, Serbia | 3636 |
+| 14 | [nklmilojevic](https://github.com/nklmilojevic) | Nikola Milojević | MailerLite Inc | nklmilojevic | Belgrade, Serbia | 3610 |
+| 15 | [proffesor-for-testing](https://github.com/proffesor-for-testing) | Dragan Spiridonov | Cognitum One |  | Petrovaradin, Serbia | 3575 |
+| 16 | [dreikanter](https://github.com/dreikanter) | Alex Musayev | @retailzipline, @amplifr |  | Novi Sad, Serbia | 3565 |
+| 17 | [L4ki](https://github.com/L4ki) | L4ki |  |  | Serbia, Smederevska Palanka | 3563 |
+| 18 | [vladprrs](https://github.com/vladprrs) | Vlad Pr |  |  | Belgrade, Serbia | 3336 |
+| 19 | [egv](https://github.com/egv) | Gena | Cambrian |  | Belgrade - Tel Aviv - Dubai | 3094 |
+| 20 | [maratik123](https://github.com/maratik123) |  |  |  | Serbia, Belgrade | 2991 |

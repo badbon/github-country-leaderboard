@@ -17,7 +17,7 @@ Indexed users: 1,394
 | 3 | [herroldreal](https://github.com/herroldreal) | Herrold H. Real | Nicaragua | 8,221 |
 | 4 | [LuiisDev21](https://github.com/LuiisDev21) | Luis Ordoñez | Managua, Nicaragua | 7,440 |
 | 5 | [williamjmorenor](https://github.com/williamjmorenor) | William Moreno | Managua Nicaragua | 7,381 |
-| 6 | [ahjavier](https://github.com/ahjavier) | Javier Alvarez | Nicaragua | 7,123 |
+| 6 | [ahjavier](https://github.com/ahjavier) | Javier Alvarez | Nicaragua | 7,342 |
 | 7 | [slzno](https://github.com/slzno) | Luis Solorzano | León, Nicaragua | 6,050 |
 | 8 | [alfchee](https://github.com/alfchee) | Alfchee | Nicaragua | 5,367 |
 | 9 | [josetorres1](https://github.com/josetorres1) | José Torres | Managua, Nicaragua | 5,340 |
@@ -83,4 +83,4 @@ Indexed users: 1,394
 | 19 | [luismejiadev](https://github.com/luismejiadev) | Luis Mejia | Managua, Nicaragua | 68 |
 | 20 | [dannygaray60](https://github.com/dannygaray60) | Danny Garay | Nicaragua | 61 |
 
-Generated: 2026-10-17T13:07:53.248Z
+Generated: 2026-10-17T14:43:46.248Z

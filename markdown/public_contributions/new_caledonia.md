@@ -1,16 +1,16 @@
 # Public Contributions - New Caledonia
 
-Generated: 2026-10-17T13:07:20.110Z
+Generated: 2026-10-17T14:43:38.465Z
 
 Users: 111
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [MelanieGault](https://github.com/MelanieGault) | Mélanie | Stratégie Zen IT |  | New Caledonia | 4036 |
-| 2 | [adriens](https://github.com/adriens) | SALES | OPT-NC | rastadidi | Nouméa, New-Caledonia | 3164 |
+| 1 | [MelanieGault](https://github.com/MelanieGault) | Mélanie | Stratégie Zen IT |  | New Caledonia | 4130 |
+| 2 | [adriens](https://github.com/adriens) | SALES | OPT-NC | rastadidi | Nouméa, New-Caledonia | 3169 |
 | 3 | [kyuhank](https://github.com/kyuhank) | Kyuhan Kim | SPC |  | Noumea, New Caledonia | 3009 |
 | 4 | [tom333](https://github.com/tom333) |  |  |  | Nouméa, New Calédonia | 1477 |
-| 5 | [gvdr](https://github.com/gvdr) | Giulio Valentino Dalla Riva | Pacific Community \| Communauté du Pacifique |  | Noumea, New Caledonia | 728 |
+| 5 | [gvdr](https://github.com/gvdr) | Giulio Valentino Dalla Riva | Pacific Community \| Communauté du Pacifique |  | Noumea, New Caledonia | 729 |
 | 6 | [PLStenger](https://github.com/PLStenger) | Pierre-Louis Stenger | New-Caledonian Agronomic Institute - IAC |  | Nouméa, New-Caledonia | 447 |
 | 7 | [jchable](https://github.com/jchable) | Julien CHABLE | NC IT |  | Nouméa | 372 |
 | 8 | [Nem0oo](https://github.com/Nem0oo) | Guillaume COURTOT | none |  | New-Caledonia | 371 |

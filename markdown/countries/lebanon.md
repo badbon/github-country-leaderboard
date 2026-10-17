@@ -62,7 +62,7 @@ Indexed users: 2,561
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [SaraSoueidan](https://github.com/SaraSoueidan) | Sara Soueidan | Lebanon | 4,398 |
+| 1 | [SaraSoueidan](https://github.com/SaraSoueidan) | Sara Soueidan | Lebanon | 4,400 |
 | 2 | [shahednasser](https://github.com/shahednasser) | Shahed Nasser | Aaramoun, Lebanon | 2,891 |
 | 3 | [FouadRaheb](https://github.com/FouadRaheb) | Fouad Raheb | Lebanon | 1,562 |
 | 4 | [Danyseifedine](https://github.com/Danyseifedine) | Dany Seifeddine  | lebanon | 1,160 |
@@ -83,4 +83,4 @@ Indexed users: 2,561
 | 19 | [hadiidbouk](https://github.com/hadiidbouk) | Hadi Dbouk | Lebanon | 101 |
 | 20 | [rhamzeh](https://github.com/rhamzeh) | Raghd Hamzeh | Beirut, Lebanon | 95 |
 
-Generated: 2026-10-17T12:56:39.276Z
+Generated: 2026-10-17T14:30:59.588Z

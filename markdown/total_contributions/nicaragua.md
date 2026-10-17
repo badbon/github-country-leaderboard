@@ -1,6 +1,6 @@
 # Total Contributions - Nicaragua
 
-Generated: 2026-10-17T13:07:53.248Z
+Generated: 2026-10-17T14:43:46.248Z
 
 Users: 1394
 
@@ -11,7 +11,7 @@ Users: 1394
 | 3 | [herroldreal](https://github.com/herroldreal) | Herrold H. Real |  |  | Nicaragua | 8221 |
 | 4 | [LuiisDev21](https://github.com/LuiisDev21) | Luis Ordoñez | Freelance |  | Managua, Nicaragua | 7440 |
 | 5 | [williamjmorenor](https://github.com/williamjmorenor) | William Moreno |  |  | Managua Nicaragua | 7381 |
-| 6 | [ahjavier](https://github.com/ahjavier) | Javier Alvarez | Telnyx |  | Nicaragua | 7123 |
+| 6 | [ahjavier](https://github.com/ahjavier) | Javier Alvarez | Telnyx |  | Nicaragua | 7342 |
 | 7 | [slzno](https://github.com/slzno) | Luis Solorzano | Homeflow Technologies | SlznoLudav | León, Nicaragua | 6050 |
 | 8 | [alfchee](https://github.com/alfchee) | Alfchee |  |  | Nicaragua | 5367 |
 | 9 | [josetorres1](https://github.com/josetorres1) | José Torres |  |  | Managua, Nicaragua | 5340 |

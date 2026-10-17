@@ -1,6 +1,6 @@
 # Public Contributions - Latvia
 
-Generated: 2026-10-17T12:55:15.334Z
+Generated: 2026-10-17T14:30:55.337Z
 
 Users: 3254
 
@@ -20,8 +20,8 @@ Users: 3254
 | 12 | [dmytropolizhai](https://github.com/dmytropolizhai) | Dmytro Polizhai |  |  | Latvia, Riga | 1850 |
 | 13 | [yarlson](https://github.com/yarlson) | Yar Kravtsov |  | yarlson | Riga, Latvia | 1820 |
 | 14 | [kristoferssolo](https://github.com/kristoferssolo) | Kristofers Solo |  |  | Latvia | 1576 |
-| 15 | [eglitise](https://github.com/eglitise) | Edgars Eglītis |  |  | Riga, Latvia | 1422 |
-| 16 | [flancer64](https://github.com/flancer64) | Alex Gusev | F. Lancer, LLC |  | Riga, Latvia | 1419 |
+| 15 | [flancer64](https://github.com/flancer64) | Alex Gusev | F. Lancer, LLC |  | Riga, Latvia | 1497 |
+| 16 | [eglitise](https://github.com/eglitise) | Edgars Eglītis |  |  | Riga, Latvia | 1422 |
 | 17 | [LilithStd](https://github.com/LilithStd) | Dmitrii |  |  | Latvia, Riga | 1390 |
 | 18 | [Qaevix](https://github.com/Qaevix) | Qaevix |  |  | Riga | 1281 |
 | 19 | [Ted-Rose](https://github.com/Ted-Rose) | Tedis Rozenfelds |  |  | Latvia | 1216 |

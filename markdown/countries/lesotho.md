@@ -22,7 +22,7 @@ Indexed users: 160
 | 8 | [kaneloramokhele](https://github.com/kaneloramokhele) | Ramokhele | Maseru | 814 |
 | 9 | [mokaty1818795](https://github.com/mokaty1818795) | Tlotliso Mokati | Maseru Qoaling | 689 |
 | 10 | [KenedyMoremi](https://github.com/KenedyMoremi) | Tumisang Moremi | Maseru | 687 |
-| 11 | [DevLereko](https://github.com/DevLereko) | Lereko Foloko | Maseru, Lesotho | 554 |
+| 11 | [DevLereko](https://github.com/DevLereko) | Lereko Foloko | Maseru, Lesotho | 560 |
 | 12 | [LNkholise](https://github.com/LNkholise) | Leonard Nkholise | Maseru, Lesotho | 508 |
 | 13 | [MissPurrple](https://github.com/MissPurrple) | Miss Purple | Lesotho  | 430 |
 | 14 | [khauta](https://github.com/khauta) | Khauta Maliehe | Maseru, Lesotho | 346 |
@@ -31,7 +31,7 @@ Indexed users: 160
 | 17 | [lebusa](https://github.com/lebusa) | Motebang | Maseru, Lesotho | 290 |
 | 18 | [setsoto](https://github.com/setsoto) | Setsoto | Lesotho | 264 |
 | 19 | [Thato-Motseki](https://github.com/Thato-Motseki) | Thato Motseki | Lesotho, Maseru | 257 |
-| 20 | [kananelotseisa](https://github.com/kananelotseisa) | Kananelo Ts'eisa | Lesotho | 243 |
+| 20 | [kananelotseisa](https://github.com/kananelotseisa) | Kananelo Ts'eisa | Lesotho | 238 |
 
 ## Public Contributions
 
@@ -42,7 +42,7 @@ Indexed users: 160
 | 3 | [Matela-cyber](https://github.com/Matela-cyber) | Vicent Matela | Lesotho | 309 |
 | 4 | [tefol-hub](https://github.com/tefol-hub) | Tefo Leche | Lesotho | 238 |
 | 5 | [Thato-Motseki](https://github.com/Thato-Motseki) | Thato Motseki | Lesotho, Maseru | 209 |
-| 6 | [Polokopule](https://github.com/Polokopule) | BD-SCHOOL-OF-CREATION  | MASERU,LESOTHO | 202 |
+| 6 | [Polokopule](https://github.com/Polokopule) | BD-SCHOOL-OF-CREATION  | MASERU,LESOTHO | 190 |
 | 7 | [dev-penniel](https://github.com/dev-penniel) | Penniel Mothae | Lesotho, maseru | 187 |
 | 8 | [LomNtetha](https://github.com/LomNtetha) | Lumkile Ntetha | Maseru | 182 |
 | 9 | [tshakalekholoane](https://github.com/tshakalekholoane) | Tshaka Lekholoane | Maseru, Lesotho | 149 |
@@ -83,4 +83,4 @@ Indexed users: 160
 | 19 | [lotesm](https://github.com/lotesm) | Lotes Molapo | Maseru, Lesotho | 13 |
 | 20 | [entsoereng](https://github.com/entsoereng) | Mokonyana Ntsoereng | Lesotho | 12 |
 
-Generated: 2026-10-17T12:56:44.346Z
+Generated: 2026-10-17T14:31:28.252Z

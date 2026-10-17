@@ -1,6 +1,6 @@
 # Palestine
 
-Indexed users: 2,197
+Indexed users: 2,196
 
 | Leaderboard | Link |
 |---|---|
@@ -27,11 +27,11 @@ Indexed users: 2,197
 | 13 | [skmail](https://github.com/skmail) |  | Palestine | 6,410 |
 | 14 | [abusalameh](https://github.com/abusalameh) | Raja Abu Salameh | Jenin, Palestine | 6,010 |
 | 15 | [farahty](https://github.com/farahty) | Nimer Farahty | Palestine | 5,678 |
-| 16 | [moustff](https://github.com/moustff) | Mustafa Salem | Gaza, Palestine. | 5,401 |
-| 17 | [moejehad](https://github.com/moejehad) | Mohammed Almadhoun | Palestine | 5,026 |
-| 18 | [IsmailAAmassi](https://github.com/IsmailAAmassi) | Ismail A. Amassi | Palestine, Gaza Strip | 4,747 |
-| 19 | [marayshi](https://github.com/marayshi) | Mohammed Alarayshi | Gaza, Palestine | 4,137 |
-| 20 | [Mahmoud-Skafi](https://github.com/Mahmoud-Skafi) | Mahmoud skafi | Palestine, Hebron   | 4,125 |
+| 16 | [moejehad](https://github.com/moejehad) | Mohammed Almadhoun | Palestine | 5,026 |
+| 17 | [IsmailAAmassi](https://github.com/IsmailAAmassi) | Ismail A. Amassi | Palestine, Gaza Strip | 4,747 |
+| 18 | [marayshi](https://github.com/marayshi) | Mohammed Alarayshi | Gaza, Palestine | 4,137 |
+| 19 | [Mahmoud-Skafi](https://github.com/Mahmoud-Skafi) | Mahmoud skafi | Palestine, Hebron   | 4,125 |
+| 20 | [zaqoutabed](https://github.com/zaqoutabed) | Abdallah A. Zaqout | Gaza, Palestine | 4,113 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 2,197
 | 19 | [dalia2323](https://github.com/dalia2323) |  | Qalqilya, Palestine | 127 |
 | 20 | [mhmdio](https://github.com/mhmdio) | Mohammed Almusaddar | Gaza, Palestine | 125 |
 
-Generated: 2026-10-17T13:11:53.548Z
+Generated: 2026-10-17T14:48:17.327Z

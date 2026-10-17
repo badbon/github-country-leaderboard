@@ -1,6 +1,6 @@
 # Total Contributions - Latvia
 
-Generated: 2026-10-17T12:55:15.334Z
+Generated: 2026-10-17T14:30:55.337Z
 
 Users: 3254
 
@@ -25,4 +25,4 @@ Users: 3254
 | 17 | [sansan](https://github.com/sansan) | Toms Veidemanis |  |  | Riga | 6604 |
 | 18 | [Shvembldr](https://github.com/Shvembldr) | Shvembldr |  | shvembldr | Latvia | 6475 |
 | 19 | [victory-sokolov](https://github.com/victory-sokolov) | Viktor Sokolov |  | VictorySokolov | Latvia | 6460 |
-| 20 | [emplv](https://github.com/emplv) | Emīls Pļavenieks | @emp-lv  | empdotlv | Latvia | 6151 |
+| 20 | [rolandsusans](https://github.com/rolandsusans) | Rolands Usāns |  |  | Latvia, Riga | 6161 |

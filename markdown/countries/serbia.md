@@ -23,15 +23,15 @@ Indexed users: 10,664
 | 9 | [msrdic](https://github.com/msrdic) | Mladen Srdic | Belgrade | 13,164 |
 | 10 | [ydnikolaev](https://github.com/ydnikolaev) | Nikolaev | Belgrade, Serbia | 12,572 |
 | 11 | [Nek-12](https://github.com/Nek-12) | Nek.12 | Serbia | 11,237 |
-| 12 | [valentinajemuovic](https://github.com/valentinajemuovic) | Valentina Jemuović  | Belgrade, Serbia | 11,013 |
-| 13 | [filiptrivan](https://github.com/filiptrivan) | Filip Trivan | Belgrade, Serbia | 10,193 |
-| 14 | [darktasevski](https://github.com/darktasevski) | Darkø Tasevski | Serbia | 10,046 |
-| 15 | [olujicz](https://github.com/olujicz) | Zoran Olujić | Serbia | 10,025 |
-| 16 | [igorhrcek](https://github.com/igorhrcek) | Igor Hrček | Serbia | 9,548 |
-| 17 | [stefanpejcic](https://github.com/stefanpejcic) | Stefan Pejcic | Belgrade, Serbia | 9,534 |
-| 18 | [igorskyflyer](https://github.com/igorskyflyer) | Igor Dimitrijević | Serbia | 9,286 |
-| 19 | [zombie](https://github.com/zombie) | Tomislav Jovanovic | Serbia | 8,912 |
-| 20 | [sh3ll3x3c](https://github.com/sh3ll3x3c) | Ljubisa Isakovic | Belgrade, Serbia | 8,901 |
+| 12 | [momoshell](https://github.com/momoshell) | Momcilo Miladinovic | Belgrade | 11,050 |
+| 13 | [valentinajemuovic](https://github.com/valentinajemuovic) | Valentina Jemuović  | Belgrade, Serbia | 11,013 |
+| 14 | [filiptrivan](https://github.com/filiptrivan) | Filip Trivan | Belgrade, Serbia | 10,193 |
+| 15 | [darktasevski](https://github.com/darktasevski) | Darkø Tasevski | Serbia | 10,046 |
+| 16 | [olujicz](https://github.com/olujicz) | Zoran Olujić | Serbia | 10,025 |
+| 17 | [igorhrcek](https://github.com/igorhrcek) | Igor Hrček | Serbia | 9,548 |
+| 18 | [stefanpejcic](https://github.com/stefanpejcic) | Stefan Pejcic | Belgrade, Serbia | 9,534 |
+| 19 | [igorskyflyer](https://github.com/igorskyflyer) | Igor Dimitrijević | Serbia | 9,286 |
+| 20 | [zombie](https://github.com/zombie) | Tomislav Jovanovic | Serbia | 8,912 |
 
 ## Public Contributions
 
@@ -46,17 +46,17 @@ Indexed users: 10,664
 | 7 | [sikleq](https://github.com/sikleq) | sikle | Belgrade | 5,416 |
 | 8 | [ydnikolaev](https://github.com/ydnikolaev) | Nikolaev | Belgrade, Serbia | 4,998 |
 | 9 | [atimad](https://github.com/atimad) | Atila Madai | Serbia | 4,933 |
-| 10 | [fiftydinar](https://github.com/fiftydinar) |  | Serbia | 4,283 |
-| 11 | [svasenkov](https://github.com/svasenkov) | Vasenkov Stanislav | Serbia, Belgrade | 3,936 |
-| 12 | [iscekic](https://github.com/iscekic) | Igor Šćekić | Novi Sad, Serbia | 3,636 |
-| 13 | [nklmilojevic](https://github.com/nklmilojevic) | Nikola Milojević | Belgrade, Serbia | 3,610 |
-| 14 | [proffesor-for-testing](https://github.com/proffesor-for-testing) | Dragan Spiridonov | Petrovaradin, Serbia | 3,575 |
-| 15 | [dreikanter](https://github.com/dreikanter) | Alex Musayev | Novi Sad, Serbia | 3,565 |
-| 16 | [L4ki](https://github.com/L4ki) | L4ki | Serbia, Smederevska Palanka | 3,563 |
-| 17 | [vladprrs](https://github.com/vladprrs) | Vlad Pr | Belgrade, Serbia | 3,336 |
-| 18 | [egv](https://github.com/egv) | Gena | Belgrade - Tel Aviv - Dubai | 3,094 |
-| 19 | [maratik123](https://github.com/maratik123) |  | Serbia, Belgrade | 2,991 |
-| 20 | [mrsladoje](https://github.com/mrsladoje) | Marko Sladojević | Novi Sad, Serbia | 2,967 |
+| 10 | [momoshell](https://github.com/momoshell) | Momcilo Miladinovic | Belgrade | 4,818 |
+| 11 | [fiftydinar](https://github.com/fiftydinar) |  | Serbia | 4,283 |
+| 12 | [svasenkov](https://github.com/svasenkov) | Vasenkov Stanislav | Serbia, Belgrade | 3,936 |
+| 13 | [iscekic](https://github.com/iscekic) | Igor Šćekić | Novi Sad, Serbia | 3,636 |
+| 14 | [nklmilojevic](https://github.com/nklmilojevic) | Nikola Milojević | Belgrade, Serbia | 3,610 |
+| 15 | [proffesor-for-testing](https://github.com/proffesor-for-testing) | Dragan Spiridonov | Petrovaradin, Serbia | 3,575 |
+| 16 | [dreikanter](https://github.com/dreikanter) | Alex Musayev | Novi Sad, Serbia | 3,565 |
+| 17 | [L4ki](https://github.com/L4ki) | L4ki | Serbia, Smederevska Palanka | 3,563 |
+| 18 | [vladprrs](https://github.com/vladprrs) | Vlad Pr | Belgrade, Serbia | 3,336 |
+| 19 | [egv](https://github.com/egv) | Gena | Belgrade - Tel Aviv - Dubai | 3,094 |
+| 20 | [maratik123](https://github.com/maratik123) |  | Serbia, Belgrade | 2,991 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 10,664
 | 19 | [umpirsky](https://github.com/umpirsky) | Saša Stamenković | Niš, Serbia | 458 |
 | 20 | [Stojanovic94](https://github.com/Stojanovic94) | Nikola Stojanović | Niš, Serbia | 435 |
 
-Generated: 2026-10-17T13:22:19.461Z
+Generated: 2026-10-17T14:56:21.566Z

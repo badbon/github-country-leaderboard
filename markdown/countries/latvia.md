@@ -31,7 +31,7 @@ Indexed users: 3,254
 | 17 | [sansan](https://github.com/sansan) | Toms Veidemanis | Riga | 6,604 |
 | 18 | [Shvembldr](https://github.com/Shvembldr) | Shvembldr | Latvia | 6,475 |
 | 19 | [victory-sokolov](https://github.com/victory-sokolov) | Viktor Sokolov | Latvia | 6,460 |
-| 20 | [emplv](https://github.com/emplv) | Emīls Pļavenieks | Latvia | 6,151 |
+| 20 | [rolandsusans](https://github.com/rolandsusans) | Rolands Usāns | Latvia, Riga | 6,161 |
 
 ## Public Contributions
 
@@ -51,8 +51,8 @@ Indexed users: 3,254
 | 12 | [dmytropolizhai](https://github.com/dmytropolizhai) | Dmytro Polizhai | Latvia, Riga | 1,850 |
 | 13 | [yarlson](https://github.com/yarlson) | Yar Kravtsov | Riga, Latvia | 1,820 |
 | 14 | [kristoferssolo](https://github.com/kristoferssolo) | Kristofers Solo | Latvia | 1,576 |
-| 15 | [eglitise](https://github.com/eglitise) | Edgars Eglītis | Riga, Latvia | 1,422 |
-| 16 | [flancer64](https://github.com/flancer64) | Alex Gusev | Riga, Latvia | 1,419 |
+| 15 | [flancer64](https://github.com/flancer64) | Alex Gusev | Riga, Latvia | 1,497 |
+| 16 | [eglitise](https://github.com/eglitise) | Edgars Eglītis | Riga, Latvia | 1,422 |
 | 17 | [LilithStd](https://github.com/LilithStd) | Dmitrii | Latvia, Riga | 1,390 |
 | 18 | [Qaevix](https://github.com/Qaevix) | Qaevix | Riga | 1,281 |
 | 19 | [Ted-Rose](https://github.com/Ted-Rose) | Tedis Rozenfelds | Latvia | 1,216 |
@@ -83,4 +83,4 @@ Indexed users: 3,254
 | 19 | [ruslanskorb](https://github.com/ruslanskorb) | Ruslan Skorb | Riga, Latvia | 226 |
 | 20 | [0ki](https://github.com/0ki) | Кirils Sоlovjоvs | Latvia | 224 |
 
-Generated: 2026-10-17T12:55:15.334Z
+Generated: 2026-10-17T14:30:55.337Z

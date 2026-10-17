@@ -1,6 +1,6 @@
 # Total Contributions - North Korea
 
-Generated: 2026-10-17T13:10:47.377Z
+Generated: 2026-10-17T14:46:33.161Z
 
 Users: 185
 
@@ -9,11 +9,11 @@ Users: 185
 | 1 | [Kim9wang](https://github.com/Kim9wang) | Kim Wang | @The-Korean-Fashion  |  | Pyongyang | 5899 |
 | 2 | [advanced-rising](https://github.com/advanced-rising) | risingcore |  |  | Democratic People's Republic of Korea | 5156 |
 | 3 | [boyesjo](https://github.com/boyesjo) | Boye Sjo | yo mama | elonmusk | pyongyang | 4384 |
-| 4 | [sakweli](https://github.com/sakweli) | Josh Sakweli | Qbit Spark | JosureSimon | North Korea | 2460 |
+| 4 | [sakweli](https://github.com/sakweli) | Josh Sakweli | Qbit Spark | JosureSimon | North Korea | 2448 |
 | 5 | [henxdl](https://github.com/henxdl) | henxdl | Unemployed :) |  | Pyongyang, North Korea | 2397 |
 | 6 | [andrewlee1807](https://github.com/andrewlee1807) | Andrew |  |  | North Korea | 1540 |
 | 7 | [The-Red-Serpent](https://github.com/The-Red-Serpent) | The_Red_Serpent |  |  | Pyongyang, North Korea | 1284 |
-| 8 | [iam-orsu](https://github.com/iam-orsu) | Vamsi Krishna |  |  | North Korea | 821 |
+| 8 | [iam-orsu](https://github.com/iam-orsu) | Vamsi Krishna |  |  | North Korea | 823 |
 | 9 | [Aashaby](https://github.com/Aashaby) |  |  |  | North Korea | 673 |
 | 10 | [1zumiSagiri](https://github.com/1zumiSagiri) | Vincent Chan |  |  | Pyongyang | 595 |
 | 11 | [Duzopy](https://github.com/Duzopy) | Dupozy | South Korea |  | North Korea | 574 |

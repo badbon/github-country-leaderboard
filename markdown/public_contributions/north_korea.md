@@ -1,13 +1,13 @@
 # Public Contributions - North Korea
 
-Generated: 2026-10-17T13:10:47.377Z
+Generated: 2026-10-17T14:46:33.161Z
 
 Users: 185
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [The-Red-Serpent](https://github.com/The-Red-Serpent) | The_Red_Serpent |  |  | Pyongyang, North Korea | 1284 |
-| 2 | [iam-orsu](https://github.com/iam-orsu) | Vamsi Krishna |  |  | North Korea | 821 |
+| 2 | [iam-orsu](https://github.com/iam-orsu) | Vamsi Krishna |  |  | North Korea | 823 |
 | 3 | [Duzopy](https://github.com/Duzopy) | Dupozy | South Korea |  | North Korea | 574 |
 | 4 | [dddqmmx](https://github.com/dddqmmx) | PaulPerkenstein | Workers' Party of Korea |  | Pyongyang | 505 |
 | 5 | [PookiePepelsss](https://github.com/PookiePepelsss) | Pookie | @Nebula-Softworks \| Nebula Softworks |  | North Korea | 350 |
@@ -24,5 +24,5 @@ Users: 185
 | 16 | [vega-holdings](https://github.com/vega-holdings) | Vega | CGIC | vega_holdings | Pyongyang | 137 |
 | 17 | [lavrentious](https://github.com/lavrentious) | lavrent | ITMO University |  | Democratic People's Republic of Korea | 105 |
 | 18 | [lilac1337](https://github.com/lilac1337) | Vera Lovelace |  |  | Pyongyang, Democrat People's Republic of Korea | 95 |
-| 19 | [stevboiii](https://github.com/stevboiii) | callisto |  |  | pyongyang | 84 |
+| 19 | [stevboiii](https://github.com/stevboiii) | callisto |  |  | pyongyang | 85 |
 | 20 | [1zumiSagiri](https://github.com/1zumiSagiri) | Vincent Chan |  |  | Pyongyang | 82 |

@@ -1,12 +1,12 @@
 # Followers - Lebanon
 
-Generated: 2026-10-17T12:56:39.276Z
+Generated: 2026-10-17T14:30:59.588Z
 
 Users: 2561
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [SaraSoueidan](https://github.com/SaraSoueidan) | Sara Soueidan |  | SaraSoueidan | Lebanon | 4398 |
+| 1 | [SaraSoueidan](https://github.com/SaraSoueidan) | Sara Soueidan |  | SaraSoueidan | Lebanon | 4400 |
 | 2 | [shahednasser](https://github.com/shahednasser) | Shahed Nasser | @medusajs | _shahednasser | Aaramoun, Lebanon | 2891 |
 | 3 | [FouadRaheb](https://github.com/FouadRaheb) | Fouad Raheb |  | FouadRaheb | Lebanon | 1562 |
 | 4 | [Danyseifedine](https://github.com/Danyseifedine) | Dany Seifeddine  |  |  | lebanon | 1160 |

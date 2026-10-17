@@ -1,6 +1,6 @@
 # Total Contributions - Oman
 
-Generated: 2026-10-17T13:11:46.499Z
+Generated: 2026-10-17T14:48:08.437Z
 
 Users: 991
 
@@ -22,7 +22,7 @@ Users: 991
 | 14 | [DevAseel](https://github.com/DevAseel) | Aseel Al Rawahi | instaSpace |  | Oman | 6870 |
 | 15 | [lqji](https://github.com/lqji) | Ahmed Abdullah | Codeline |  | Oman | 6004 |
 | 16 | [MohAnghabo](https://github.com/MohAnghabo) | Mohammed Anghabo | DhamenIT | MohAnghabo | Muscat | 5328 |
-| 17 | [mohdrasbi](https://github.com/mohdrasbi) | Mohamed Al-Rasbi | Rihal |  | Oman | 4678 |
-| 18 | [n3sser96](https://github.com/n3sser96) | Nasser Al Subhi | @rihal-om  | 96n3s | Oman | 4503 |
+| 17 | [n3sser96](https://github.com/n3sser96) | Nasser Al Subhi | @rihal-om  | 96n3s | Oman | 4719 |
+| 18 | [mohdrasbi](https://github.com/mohdrasbi) | Mohamed Al-Rasbi | Rihal |  | Oman | 4678 |
 | 19 | [amk9889](https://github.com/amk9889) | Alfarouq |  |  | Oman | 4282 |
 | 20 | [manqur](https://github.com/manqur) | Mansoor Qurishi | Remote |  | Oman | 4256 |
