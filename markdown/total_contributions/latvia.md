@@ -1,6 +1,6 @@
 # Total Contributions - Latvia
 
-Generated: 2026-10-17T14:30:55.337Z
+Generated: 2026-10-17T16:41:20.006Z
 
 Users: 3254
 
@@ -18,11 +18,11 @@ Users: 3254
 | 10 | [ricardomichel](https://github.com/ricardomichel) | Ricardo Michel Reyes | @HostPal-mx  |  | Riga | 10409 |
 | 11 | [puikinsh](https://github.com/puikinsh) | Aigars Silkalns | Divilab | AigarsSilkalns | Riga, Latvia | 9189 |
 | 12 | [rabestro](https://github.com/rabestro) | Jegors Čemisovs | @evolution-gaming |  | Latvia | 9004 |
-| 13 | [skakri](https://github.com/skakri) | Kristaps Karlsons |  |  | Latvia | 7758 |
-| 14 | [jecis-repos](https://github.com/jecis-repos) | Jecis |  | jecis_ | Latvia | 7539 |
-| 15 | [danielsbethers](https://github.com/danielsbethers) | Daniels Bethers | @request-lv |  | Riga, Latvia | 7122 |
-| 16 | [agubarev](https://github.com/agubarev) | Andrejs Gubarevs |  |  | Latvia, Riga | 6749 |
-| 17 | [sansan](https://github.com/sansan) | Toms Veidemanis |  |  | Riga | 6604 |
-| 18 | [Shvembldr](https://github.com/Shvembldr) | Shvembldr |  | shvembldr | Latvia | 6475 |
-| 19 | [victory-sokolov](https://github.com/victory-sokolov) | Viktor Sokolov |  | VictorySokolov | Latvia | 6460 |
-| 20 | [rolandsusans](https://github.com/rolandsusans) | Rolands Usāns |  |  | Latvia, Riga | 6161 |
+| 13 | [a-sandris](https://github.com/a-sandris) |  |  |  | Latvia | 7855 |
+| 14 | [skakri](https://github.com/skakri) | Kristaps Karlsons |  |  | Latvia | 7758 |
+| 15 | [jecis-repos](https://github.com/jecis-repos) | Jecis |  | jecis_ | Latvia | 7539 |
+| 16 | [danielsbethers](https://github.com/danielsbethers) | Daniels Bethers | @request-lv |  | Riga, Latvia | 7122 |
+| 17 | [agubarev](https://github.com/agubarev) | Andrejs Gubarevs |  |  | Latvia, Riga | 6749 |
+| 18 | [sansan](https://github.com/sansan) | Toms Veidemanis |  |  | Riga | 6604 |
+| 19 | [Shvembldr](https://github.com/Shvembldr) | Shvembldr |  | shvembldr | Latvia | 6475 |
+| 20 | [victory-sokolov](https://github.com/victory-sokolov) | Viktor Sokolov |  | VictorySokolov | Latvia | 6460 |

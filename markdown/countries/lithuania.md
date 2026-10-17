@@ -1,6 +1,6 @@
 # Lithuania
 
-Indexed users: 5,375
+Indexed users: 5,374
 
 | Leaderboard | Link |
 |---|---|
@@ -14,24 +14,24 @@ Indexed users: 5,375
 |---:|---|---|---|---:|
 | 1 | [kiznis](https://github.com/kiznis) | Mindaugas Kiznis | Lithuania | 99,902 |
 | 2 | [vytautas-bunevicius](https://github.com/vytautas-bunevicius) | Vytautas | Vilnius | 29,125 |
-| 3 | [Dambre](https://github.com/Dambre) | Lukas | Lithuania | 14,784 |
-| 4 | [renaldasbuilds](https://github.com/renaldasbuilds) | Renaldas | Lithuania | 14,763 |
-| 5 | [KonnikPahoni](https://github.com/KonnikPahoni) | Piotr Markielau | Vilnius, Lithuania | 13,412 |
-| 6 | [Midunas](https://github.com/Midunas) | Mykolas Vidunas | Vilnius | 13,013 |
-| 7 | [YOzaz](https://github.com/YOzaz) | Marijus Plančiūnas | Vilnius, Lithuania | 13,010 |
-| 8 | [justascesnauskas](https://github.com/justascesnauskas) | Justas Česnauskas | Lithuania | 12,973 |
-| 9 | [bring-shrubbery](https://github.com/bring-shrubbery) | Antoni Silvestrovič | Vilnius, Lithuania | 12,403 |
+| 3 | [bring-shrubbery](https://github.com/bring-shrubbery) | Antoni Silvestrovič | Vilnius, Lithuania | 17,060 |
+| 4 | [Dambre](https://github.com/Dambre) | Lukas | Lithuania | 14,784 |
+| 5 | [renaldasbuilds](https://github.com/renaldasbuilds) | Renaldas | Lithuania | 14,763 |
+| 6 | [KonnikPahoni](https://github.com/KonnikPahoni) | Piotr Markielau | Vilnius, Lithuania | 13,412 |
+| 7 | [Midunas](https://github.com/Midunas) | Mykolas Vidunas | Vilnius | 13,013 |
+| 8 | [YOzaz](https://github.com/YOzaz) | Marijus Plančiūnas | Vilnius, Lithuania | 13,010 |
+| 9 | [justascesnauskas](https://github.com/justascesnauskas) | Justas Česnauskas | Lithuania | 12,973 |
 | 10 | [justrau](https://github.com/justrau) | Justas Raudonius | Lithuania | 12,318 |
 | 11 | [kasinskas](https://github.com/kasinskas) | Rokas Kašinskas | Lithuania | 11,042 |
 | 12 | [Paktas](https://github.com/Paktas) | Zilvinas Bartkus | Vilnius, Lithuania | 10,402 |
-| 13 | [Algiras](https://github.com/Algiras) | Algimantas K. | Vilnius, Lithuania | 10,351 |
-| 14 | [goleaf](https://github.com/goleaf) | Andrej Prus | Lithuania, Vilnius | 10,091 |
-| 15 | [SashaSkywalker](https://github.com/SashaSkywalker) | Alexander Demeshko | Lithuania, Vilnius | 9,135 |
-| 16 | [CADBIMDeveloper](https://github.com/CADBIMDeveloper) | Alexander Ignatovich | Vilnius | 9,129 |
-| 17 | [podo](https://github.com/podo) | Giedrius Jaloveckas | Vilnius, Lithuania | 9,010 |
-| 18 | [jutaz](https://github.com/jutaz) | Justas Brazauskas | Kaunas, Lithuania | 8,824 |
-| 19 | [martynas-rakickis](https://github.com/martynas-rakickis) | Martynas Rakickis | Vilnius | 8,781 |
-| 20 | [CalmProton](https://github.com/CalmProton) | Denis | Vilnius | 8,625 |
+| 13 | [kiprasmel](https://github.com/kiprasmel) | Kipras Melnikovas | Lithuania | 10,376 |
+| 14 | [Algiras](https://github.com/Algiras) | Algimantas K. | Vilnius, Lithuania | 10,351 |
+| 15 | [goleaf](https://github.com/goleaf) | Andrej Prus | Lithuania, Vilnius | 10,091 |
+| 16 | [SashaSkywalker](https://github.com/SashaSkywalker) | Alexander Demeshko | Lithuania, Vilnius | 9,135 |
+| 17 | [CADBIMDeveloper](https://github.com/CADBIMDeveloper) | Alexander Ignatovich | Vilnius | 9,129 |
+| 18 | [podo](https://github.com/podo) | Giedrius Jaloveckas | Vilnius, Lithuania | 9,010 |
+| 19 | [jutaz](https://github.com/jutaz) | Justas Brazauskas | Kaunas, Lithuania | 8,824 |
+| 20 | [martynas-rakickis](https://github.com/martynas-rakickis) | Martynas Rakickis | Vilnius | 8,781 |
 
 ## Public Contributions
 
@@ -63,24 +63,24 @@ Indexed users: 5,375
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [LaravelDaily](https://github.com/LaravelDaily) | Laravel Daily | Vilnius, Lithuania / London, UK | 7,943 |
-| 2 | [KostasSliazas](https://github.com/KostasSliazas) | Kostas | Lithuania | 3,163 |
-| 3 | [PovilasKorop](https://github.com/PovilasKorop) |  | Vilnius, Lithuania | 2,744 |
-| 4 | [aras-p](https://github.com/aras-p) | Aras Pranckevičius | Kaunas, Lithuania | 2,531 |
-| 5 | [irenemmassy](https://github.com/irenemmassy) | Irene Arvydas Ranonis | Lithuania  | 677 |
-| 6 | [laimonas2g](https://github.com/laimonas2g) | Laimonas | Kaunas, Lithuania | 539 |
-| 7 | [remrc](https://github.com/remrc) | Remigijus | Lithuania | 405 |
-| 8 | [kibertoad](https://github.com/kibertoad) | Igor Savin | Vilnius | 395 |
-| 9 | [l3pp4rd](https://github.com/l3pp4rd) | Gediminas Morkevicius | Kaunas, Lithuania | 374 |
-| 10 | [justinas](https://github.com/justinas) | Justinas Stankevičius | Vilnius, Lithuania | 318 |
-| 11 | [belauzas](https://github.com/belauzas) | Rimantas | Lithuania | 304 |
-| 12 | [TheNeovimmer](https://github.com/TheNeovimmer) | TheNeovimmer | Lithuania | 286 |
-| 13 | [p12tic](https://github.com/p12tic) | Povilas Kanapickas | Lithuania | 248 |
-| 14 | [simison](https://github.com/simison) | Mikael Korpela | Lithuania | 224 |
-| 15 | [Elijas](https://github.com/Elijas) | Elijas Dapšauskas | Vilnius, Lithuania | 220 |
-| 16 | [mgedmin](https://github.com/mgedmin) | Marius Gedminas | Lithuania | 219 |
-| 17 | [pbrilius](https://github.com/pbrilius) | Povilas Brilius | Lithuania | 205 |
-| 18 | [spajus](https://github.com/spajus) | spajus | Vilnius, Lithuania | 201 |
-| 19 | [ErikasRamaneckas](https://github.com/ErikasRamaneckas) | Erikas Ramaneckas | Vilnius, Lithuania | 197 |
-| 20 | [Miceuz](https://github.com/Miceuz) | Albertas Mickėnas | Vilnius, Lithuania | 190 |
+| 2 | [PovilasKorop](https://github.com/PovilasKorop) |  | Vilnius, Lithuania | 2,744 |
+| 3 | [aras-p](https://github.com/aras-p) | Aras Pranckevičius | Kaunas, Lithuania | 2,531 |
+| 4 | [irenemmassy](https://github.com/irenemmassy) | Irene Arvydas Ranonis | Lithuania  | 677 |
+| 5 | [laimonas2g](https://github.com/laimonas2g) | Laimonas | Kaunas, Lithuania | 539 |
+| 6 | [remrc](https://github.com/remrc) | Remigijus | Lithuania | 405 |
+| 7 | [kibertoad](https://github.com/kibertoad) | Igor Savin | Vilnius | 395 |
+| 8 | [l3pp4rd](https://github.com/l3pp4rd) | Gediminas Morkevicius | Kaunas, Lithuania | 374 |
+| 9 | [justinas](https://github.com/justinas) | Justinas Stankevičius | Vilnius, Lithuania | 318 |
+| 10 | [belauzas](https://github.com/belauzas) | Rimantas | Lithuania | 304 |
+| 11 | [TheNeovimmer](https://github.com/TheNeovimmer) | TheNeovimmer | Lithuania | 286 |
+| 12 | [p12tic](https://github.com/p12tic) | Povilas Kanapickas | Lithuania | 248 |
+| 13 | [simison](https://github.com/simison) | Mikael Korpela | Lithuania | 224 |
+| 14 | [Elijas](https://github.com/Elijas) | Elijas Dapšauskas | Vilnius, Lithuania | 220 |
+| 15 | [mgedmin](https://github.com/mgedmin) | Marius Gedminas | Lithuania | 219 |
+| 16 | [pbrilius](https://github.com/pbrilius) | Povilas Brilius | Lithuania | 205 |
+| 17 | [spajus](https://github.com/spajus) | spajus | Vilnius, Lithuania | 201 |
+| 18 | [ErikasRamaneckas](https://github.com/ErikasRamaneckas) | Erikas Ramaneckas | Vilnius, Lithuania | 197 |
+| 19 | [Miceuz](https://github.com/Miceuz) | Albertas Mickėnas | Vilnius, Lithuania | 190 |
+| 20 | [mmozuras](https://github.com/mmozuras) | Mindaugas Mozūras | Vilnius, Lithuania | 183 |
 
-Generated: 2026-10-17T14:32:07.564Z
+Generated: 2026-10-17T16:42:37.854Z

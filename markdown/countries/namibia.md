@@ -46,7 +46,7 @@ Indexed users: 475
 | 7 | [gijzelaerr](https://github.com/gijzelaerr) | Gijs Molenaar | Amsterdam - Windhoek | 1,247 |
 | 8 | [lamlg00](https://github.com/lamlg00) | Lam II | Windhoek | 679 |
 | 9 | [Driftedbucket](https://github.com/Driftedbucket) | Awike Gulu | Windhoek, Namibia | 586 |
-| 10 | [Leon2332](https://github.com/Leon2332) | Leon | Namibia | 582 |
+| 10 | [Leon2332](https://github.com/Leon2332) | Leon | Namibia | 558 |
 | 11 | [Tusneld](https://github.com/Tusneld) | Tusnelde Endjala | Namibia | 427 |
 | 12 | [Sphellep04](https://github.com/Sphellep04) | Phellep.Dev | Windhoek, Namibia | 361 |
 | 13 | [mou-rush](https://github.com/mou-rush) | Moureen | Swakopmund, Namibia | 310 |
@@ -83,4 +83,4 @@ Indexed users: 475
 | 19 | [Hilya02](https://github.com/Hilya02) | Hilya Ntinda Tuyakula | Windhoek, Namibia | 36 |
 | 20 | [erassynathingo](https://github.com/erassynathingo) | Erastus Nathingo | Windhoek | 33 |
 
-Generated: 2026-10-17T14:42:30.978Z
+Generated: 2026-10-17T16:49:37.994Z

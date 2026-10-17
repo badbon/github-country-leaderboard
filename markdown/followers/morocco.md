@@ -1,8 +1,8 @@
 # Followers - Morocco
 
-Generated: 2026-10-17T14:42:21.772Z
+Generated: 2026-10-17T16:48:51.389Z
 
-Users: 9634
+Users: 9633
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -15,14 +15,14 @@ Users: 9634
 | 7 | [Abdellahsyani](https://github.com/Abdellahsyani) | Abdellah  | 42 Network/1337 | AbdellahSyani | Morocco | 1302 |
 | 8 | [ablaamim](https://github.com/ablaamim) | Abdessamad Laamimi | NULL |  | Morocco | 1150 |
 | 9 | [yjose](https://github.com/yjose) | Youssouf EL AZIZI | @obytes  | ElaziziYoussouf | Casablanca, Morocco | 1134 |
-| 10 | [yelouafi](https://github.com/yelouafi) | Yassine Elouafi |  |  | Morocco | 1046 |
-| 11 | [nuuxcode](https://github.com/nuuxcode) | Mounssif BOUHLAOUI (nuuX) |  | nuux_tv | Tangier, Morocco | 986 |
-| 12 | [Safae26](https://github.com/Safae26) | Safae | UMI |  | Meknes, Morocco | 981 |
-| 13 | [NawfalMotii79](https://github.com/NawfalMotii79) |  | ABAC INDUSTRY |  | Casablanca, MOROCCO | 973 |
-| 14 | [yezz123](https://github.com/yezz123) | Yasser Tahiri | Yezz LLC. | yezz123 | Morocco | 911 |
-| 15 | [benweet](https://github.com/benweet) | Benoit Schweblin |  |  | Marrakech, Morocco | 843 |
-| 16 | [MohammedHarmouche](https://github.com/MohammedHarmouche) | Mohammed Harmouche |  | Harmouche_Med | Morocco | 830 |
-| 17 | [CandleLearner-M](https://github.com/CandleLearner-M) | Mostafa El Issati |  |  | Tangier, Morocco | 828 |
+| 10 | [CandleLearner-M](https://github.com/CandleLearner-M) | Mostafa El Issati |  |  | Tangier, Morocco | 1105 |
+| 11 | [yelouafi](https://github.com/yelouafi) | Yassine Elouafi |  |  | Morocco | 1046 |
+| 12 | [Safae26](https://github.com/Safae26) | Safae | UMI |  | Meknes, Morocco | 999 |
+| 13 | [nuuxcode](https://github.com/nuuxcode) | Mounssif BOUHLAOUI (nuuX) |  | nuux_tv | Tangier, Morocco | 986 |
+| 14 | [NawfalMotii79](https://github.com/NawfalMotii79) |  | ABAC INDUSTRY |  | Casablanca, MOROCCO | 973 |
+| 15 | [yezz123](https://github.com/yezz123) | Yasser Tahiri | Yezz LLC. | yezz123 | Morocco | 911 |
+| 16 | [benweet](https://github.com/benweet) | Benoit Schweblin |  |  | Marrakech, Morocco | 843 |
+| 17 | [MohammedHarmouche](https://github.com/MohammedHarmouche) | Mohammed Harmouche |  | Harmouche_Med | Morocco | 830 |
 | 18 | [DevOam](https://github.com/DevOam) | mohamed reda lakouas | ISGI |  | Morocco | 823 |
 | 19 | [walidbosso](https://github.com/walidbosso) | Walid BOUSSOU |  |  | Tetouan, Morocco. | 821 |
 | 20 | [yassnemo](https://github.com/yassnemo) | Yassine Erradouani | @Phaxel-edi |  | Casablanca, Morocco | 741 |

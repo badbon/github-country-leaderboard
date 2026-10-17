@@ -24,14 +24,14 @@ Indexed users: 3,254
 | 10 | [ricardomichel](https://github.com/ricardomichel) | Ricardo Michel Reyes | Riga | 10,409 |
 | 11 | [puikinsh](https://github.com/puikinsh) | Aigars Silkalns | Riga, Latvia | 9,189 |
 | 12 | [rabestro](https://github.com/rabestro) | Jegors Čemisovs | Latvia | 9,004 |
-| 13 | [skakri](https://github.com/skakri) | Kristaps Karlsons | Latvia | 7,758 |
-| 14 | [jecis-repos](https://github.com/jecis-repos) | Jecis | Latvia | 7,539 |
-| 15 | [danielsbethers](https://github.com/danielsbethers) | Daniels Bethers | Riga, Latvia | 7,122 |
-| 16 | [agubarev](https://github.com/agubarev) | Andrejs Gubarevs | Latvia, Riga | 6,749 |
-| 17 | [sansan](https://github.com/sansan) | Toms Veidemanis | Riga | 6,604 |
-| 18 | [Shvembldr](https://github.com/Shvembldr) | Shvembldr | Latvia | 6,475 |
-| 19 | [victory-sokolov](https://github.com/victory-sokolov) | Viktor Sokolov | Latvia | 6,460 |
-| 20 | [rolandsusans](https://github.com/rolandsusans) | Rolands Usāns | Latvia, Riga | 6,161 |
+| 13 | [a-sandris](https://github.com/a-sandris) |  | Latvia | 7,855 |
+| 14 | [skakri](https://github.com/skakri) | Kristaps Karlsons | Latvia | 7,758 |
+| 15 | [jecis-repos](https://github.com/jecis-repos) | Jecis | Latvia | 7,539 |
+| 16 | [danielsbethers](https://github.com/danielsbethers) | Daniels Bethers | Riga, Latvia | 7,122 |
+| 17 | [agubarev](https://github.com/agubarev) | Andrejs Gubarevs | Latvia, Riga | 6,749 |
+| 18 | [sansan](https://github.com/sansan) | Toms Veidemanis | Riga | 6,604 |
+| 19 | [Shvembldr](https://github.com/Shvembldr) | Shvembldr | Latvia | 6,475 |
+| 20 | [victory-sokolov](https://github.com/victory-sokolov) | Viktor Sokolov | Latvia | 6,460 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 3,254
 | 19 | [ruslanskorb](https://github.com/ruslanskorb) | Ruslan Skorb | Riga, Latvia | 226 |
 | 20 | [0ki](https://github.com/0ki) | Кirils Sоlovjоvs | Latvia | 224 |
 
-Generated: 2026-10-17T14:30:55.337Z
+Generated: 2026-10-17T16:41:20.006Z

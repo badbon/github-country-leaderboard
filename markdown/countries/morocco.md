@@ -1,6 +1,6 @@
 # Morocco
 
-Indexed users: 9,634
+Indexed users: 9,633
 
 | Leaderboard | Link |
 |---|---|
@@ -71,16 +71,16 @@ Indexed users: 9,634
 | 7 | [Abdellahsyani](https://github.com/Abdellahsyani) | Abdellah  | Morocco | 1,302 |
 | 8 | [ablaamim](https://github.com/ablaamim) | Abdessamad Laamimi | Morocco | 1,150 |
 | 9 | [yjose](https://github.com/yjose) | Youssouf EL AZIZI | Casablanca, Morocco | 1,134 |
-| 10 | [yelouafi](https://github.com/yelouafi) | Yassine Elouafi | Morocco | 1,046 |
-| 11 | [nuuxcode](https://github.com/nuuxcode) | Mounssif BOUHLAOUI (nuuX) | Tangier, Morocco | 986 |
-| 12 | [Safae26](https://github.com/Safae26) | Safae | Meknes, Morocco | 981 |
-| 13 | [NawfalMotii79](https://github.com/NawfalMotii79) |  | Casablanca, MOROCCO | 973 |
-| 14 | [yezz123](https://github.com/yezz123) | Yasser Tahiri | Morocco | 911 |
-| 15 | [benweet](https://github.com/benweet) | Benoit Schweblin | Marrakech, Morocco | 843 |
-| 16 | [MohammedHarmouche](https://github.com/MohammedHarmouche) | Mohammed Harmouche | Morocco | 830 |
-| 17 | [CandleLearner-M](https://github.com/CandleLearner-M) | Mostafa El Issati | Tangier, Morocco | 828 |
+| 10 | [CandleLearner-M](https://github.com/CandleLearner-M) | Mostafa El Issati | Tangier, Morocco | 1,105 |
+| 11 | [yelouafi](https://github.com/yelouafi) | Yassine Elouafi | Morocco | 1,046 |
+| 12 | [Safae26](https://github.com/Safae26) | Safae | Meknes, Morocco | 999 |
+| 13 | [nuuxcode](https://github.com/nuuxcode) | Mounssif BOUHLAOUI (nuuX) | Tangier, Morocco | 986 |
+| 14 | [NawfalMotii79](https://github.com/NawfalMotii79) |  | Casablanca, MOROCCO | 973 |
+| 15 | [yezz123](https://github.com/yezz123) | Yasser Tahiri | Morocco | 911 |
+| 16 | [benweet](https://github.com/benweet) | Benoit Schweblin | Marrakech, Morocco | 843 |
+| 17 | [MohammedHarmouche](https://github.com/MohammedHarmouche) | Mohammed Harmouche | Morocco | 830 |
 | 18 | [DevOam](https://github.com/DevOam) | mohamed reda lakouas | Morocco | 823 |
 | 19 | [walidbosso](https://github.com/walidbosso) | Walid BOUSSOU | Tetouan, Morocco. | 821 |
 | 20 | [yassnemo](https://github.com/yassnemo) | Yassine Erradouani | Casablanca, Morocco | 741 |
 
-Generated: 2026-10-17T14:42:21.772Z
+Generated: 2026-10-17T16:48:51.389Z

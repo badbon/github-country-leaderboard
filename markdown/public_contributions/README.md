@@ -108,20 +108,20 @@ Published countries: 234
 | Ivory Coast | 488 | [View](./ivory_coast.md) |
 | Jamaica | 1,274 | [View](./jamaica.md) |
 | Jersey | 139 | [View](./jersey.md) |
-| Jordan | 4,012 | [View](./jordan.md) |
-| Kazakhstan | 5,641 | [View](./kazakhstan.md) |
+| Jordan | 4,011 | [View](./jordan.md) |
+| Kazakhstan | 5,639 | [View](./kazakhstan.md) |
 | Kenya | 24,023 | [View](./kenya.md) |
 | Kiribati | 4 | [View](./kiribati.md) |
 | Kuwait | 797 | [View](./kuwait.md) |
 | Kyrgyzstan | 2,444 | [View](./kyrgyzstan.md) |
 | Laos | 360 | [View](./laos.md) |
 | Latvia | 3,254 | [View](./latvia.md) |
-| Lebanon | 2,561 | [View](./lebanon.md) |
+| Lebanon | 2,560 | [View](./lebanon.md) |
 | Lesotho | 160 | [View](./lesotho.md) |
 | Liberia | 210 | [View](./liberia.md) |
 | Libya | 741 | [View](./libya.md) |
 | Liechtenstein | 113 | [View](./liechtenstein.md) |
-| Lithuania | 5,375 | [View](./lithuania.md) |
+| Lithuania | 5,374 | [View](./lithuania.md) |
 | Luxembourg | 2,189 | [View](./luxembourg.md) |
 | Macau | 439 | [View](./macau.md) |
 | Madagascar | 1,904 | [View](./madagascar.md) |
@@ -139,20 +139,20 @@ Published countries: 234
 | Micronesia | 11 | [View](./micronesia.md) |
 | Moldova | 1,748 | [View](./moldova.md) |
 | Monaco | 142 | [View](./monaco.md) |
-| Mongolia | 805 | [View](./mongolia.md) |
+| Mongolia | 804 | [View](./mongolia.md) |
 | Montenegro | 888 | [View](./montenegro.md) |
 | Montserrat | 291 | [View](./montserrat.md) |
-| Morocco | 9,634 | [View](./morocco.md) |
+| Morocco | 9,633 | [View](./morocco.md) |
 | Mozambique | 1,176 | [View](./mozambique.md) |
 | Myanmar | 2,057 | [View](./myanmar.md) |
 | Namibia | 475 | [View](./namibia.md) |
 | Nauru | 3 | [View](./nauru.md) |
 | Nepal | 14,114 | [View](./nepal.md) |
 | New Caledonia | 111 | [View](./new_caledonia.md) |
-| New Zealand | 12,150 | [View](./new_zealand.md) |
+| New Zealand | 12,149 | [View](./new_zealand.md) |
 | Nicaragua | 1,394 | [View](./nicaragua.md) |
 | Niger | 176 | [View](./niger.md) |
-| Nigeria | 33,191 | [View](./nigeria.md) |
+| Nigeria | 33,190 | [View](./nigeria.md) |
 | Niue | 4 | [View](./niue.md) |
 | Norfolk Island | 1 | [View](./norfolk_island.md) |
 | North Korea | 185 | [View](./north_korea.md) |
@@ -160,14 +160,14 @@ Published countries: 234
 | Northern Mariana Islands | 13 | [View](./northern_mariana_islands.md) |
 | Norway | 19,628 | [View](./norway.md) |
 | Oman | 991 | [View](./oman.md) |
-| Pakistan | 41,888 | [View](./pakistan.md) |
+| Pakistan | 41,887 | [View](./pakistan.md) |
 | Palau | 2 | [View](./palau.md) |
 | Palestine | 2,196 | [View](./palestine.md) |
 | Panama | 1,069 | [View](./panama.md) |
 | Papua New Guinea | 296 | [View](./papua_new_guinea.md) |
 | Paraguay | 2,014 | [View](./paraguay.md) |
-| Peru | 9,771 | [View](./peru.md) |
-| Philippines | 19,772 | [View](./philippines.md) |
+| Peru | 9,770 | [View](./peru.md) |
+| Philippines | 19,771 | [View](./philippines.md) |
 | Pitcairn Islands | 5 | [View](./pitcairn_islands.md) |
 | Portugal | 28,441 | [View](./portugal.md) |
 | Puerto Rico | 1,532 | [View](./puerto_rico.md) |
@@ -186,9 +186,9 @@ Published countries: 234
 | Samoa | 19 | [View](./samoa.md) |
 | San Marino | 61 | [View](./san_marino.md) |
 | São Tomé and Príncipe | 20 | [View](./sao_tome_and_principe.md) |
-| Saudi Arabia | 7,734 | [View](./saudi_arabia.md) |
+| Saudi Arabia | 7,732 | [View](./saudi_arabia.md) |
 | Senegal | 1,356 | [View](./senegal.md) |
-| Serbia | 10,664 | [View](./serbia.md) |
+| Serbia | 10,665 | [View](./serbia.md) |
 | Seychelles | 1,770 | [View](./seychelles.md) |
 | Sierra Leone | 443 | [View](./sierra_leone.md) |
 | Singapore | 24,702 | [View](./singapore.md) |
@@ -231,7 +231,7 @@ Published countries: 234
 | Uzbekistan | 9,522 | [View](./uzbekistan.md) |
 | Vanuatu | 18 | [View](./vanuatu.md) |
 | Vatican City | 30 | [View](./vatican_city.md) |
-| Venezuela | 6,623 | [View](./venezuela.md) |
+| Venezuela | 6,624 | [View](./venezuela.md) |
 | Vietnam | 25,848 | [View](./vietnam.md) |
 | Wallis and Futuna | 0 | [View](./wallis_and_futuna.md) |
 | Western Sahara | 5 | [View](./western_sahara.md) |
@@ -239,4 +239,4 @@ Published countries: 234
 | Zambia | 1,337 | [View](./zambia.md) |
 | Zimbabwe | 1,656 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-17T15:56:41.867Z
+Generated: 2026-10-17T17:06:13.492Z

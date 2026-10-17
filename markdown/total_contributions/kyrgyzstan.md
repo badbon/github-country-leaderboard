@@ -1,6 +1,6 @@
 # Total Contributions - Kyrgyzstan
 
-Generated: 2026-10-17T14:46:01.092Z
+Generated: 2026-10-17T16:40:38.545Z
 
 Users: 2444
 
@@ -12,11 +12,11 @@ Users: 2444
 | 4 | [Elkhan2003](https://github.com/Elkhan2003) | Elkhan Sharshenbekov | WeDevX && UniCorn |  | Karakol, Kyrgyzstan | 10024 |
 | 5 | [bekishh](https://github.com/bekishh) | Zh Beknazar | Prodify |  | Kyrgystan, Bishkek | 9417 |
 | 6 | [anton-plebanovich](https://github.com/anton-plebanovich) | Anton Plebanovich | Gologolol |  | Kyrgyzstan, Bishkek | 9200 |
-| 7 | [whyfoks1s](https://github.com/whyfoks1s) | Kutman Melisov | AIT Solutions |  | Kyrgyzstan | 6581 |
+| 7 | [whyfoks1s](https://github.com/whyfoks1s) | Kutman Melisov | AIT Solutions |  | Kyrgyzstan | 6717 |
 | 8 | [toksaitov](https://github.com/toksaitov) | Toksaitov Dmitrii Alexandrovich | @auca |  | Bishkek | 6476 |
 | 9 | [hinex](https://github.com/hinex) | Roman Hinex | @hardskilled  |  | Kyrgyzstan, Bishkek | 6175 |
-| 10 | [zarylbek-tenxdevs](https://github.com/zarylbek-tenxdevs) |  |  |  | Kyrgyzstan | 6123 |
-| 11 | [Amanch1ik](https://github.com/Amanch1ik) | Amanchik |  |  | Bishkek | 6088 |
+| 10 | [Amanch1ik](https://github.com/Amanch1ik) | Amanchik |  |  | Bishkek | 6088 |
+| 11 | [zarylbek-tenxdevs](https://github.com/zarylbek-tenxdevs) |  |  |  | Kyrgyzstan | 6032 |
 | 12 | [songhee24](https://github.com/songhee24) | Azamat |  |  | Kyrgyzstan | 5391 |
 | 13 | [metalagman](https://github.com/metalagman) | Alexey Samoylov | @baldaworks | metalagman | Bishkek, Kyrgyz Republic | 5286 |
 | 14 | [qiniks](https://github.com/qiniks) | Talant Mataev |  |  | Kyrgyzstan | 5133 |

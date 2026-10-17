@@ -40,11 +40,11 @@ Indexed users: 348
 | 1 | [koneke55](https://github.com/koneke55) | कोनेके | Bamako, Mali | 6,393 |
 | 2 | [MFOF7310](https://github.com/MFOF7310) | MFOFANA | Bamako,Mali | 4,387 |
 | 3 | [Dioman-Keita](https://github.com/Dioman-Keita) | Dioman Keïta | Bamako/Mali | 1,397 |
-| 4 | [rgaudin](https://github.com/rgaudin) | rgaudin | Bamako, Mali | 1,130 |
+| 4 | [rgaudin](https://github.com/rgaudin) | rgaudin | Bamako, Mali | 1,142 |
 | 5 | [sudoping01](https://github.com/sudoping01) | sed | Bamako | 1,112 |
 | 6 | [Abbv75](https://github.com/Abbv75) | Younouss Boré  | Bamako, telecel GBS | 566 |
-| 7 | [LeoAz](https://github.com/LeoAz) | Lionel AZ | Bamako | 383 |
-| 8 | [tijjanismk](https://github.com/tijjanismk) |  | Mali | 376 |
+| 7 | [tijjanismk](https://github.com/tijjanismk) |  | Mali | 387 |
+| 8 | [LeoAz](https://github.com/LeoAz) | Lionel AZ | Bamako | 383 |
 | 9 | [skypper109](https://github.com/skypper109) | SKYPPER | Mali | 369 |
 | 10 | [THIOYE97](https://github.com/THIOYE97) | THIOYE MARIKO | Bamako , Mali 🇲🇱  | 360 |
 | 11 | [Abdoul03](https://github.com/Abdoul03) | Abdoul Ibrahima Samaké | Bamako | 355 |
@@ -83,4 +83,4 @@ Indexed users: 348
 | 19 | [AlyKonte](https://github.com/AlyKonte) |  | Mali/Bamako | 27 |
 | 20 | [Dioman-Keita](https://github.com/Dioman-Keita) | Dioman Keïta | Bamako/Mali | 26 |
 
-Generated: 2026-10-17T14:34:57.706Z
+Generated: 2026-10-17T16:45:14.447Z

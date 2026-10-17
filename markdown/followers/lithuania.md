@@ -1,28 +1,28 @@
 # Followers - Lithuania
 
-Generated: 2026-10-17T14:32:07.564Z
+Generated: 2026-10-17T16:42:37.854Z
 
-Users: 5375
+Users: 5374
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [LaravelDaily](https://github.com/LaravelDaily) | Laravel Daily | Laravel Daily |  | Vilnius, Lithuania / London, UK | 7943 |
-| 2 | [KostasSliazas](https://github.com/KostasSliazas) | Kostas |  |  | Lithuania | 3163 |
-| 3 | [PovilasKorop](https://github.com/PovilasKorop) |  | Laravel Course Creator | PovilasKorop | Vilnius, Lithuania | 2744 |
-| 4 | [aras-p](https://github.com/aras-p) | Aras Pranckevičius |  | aras_p | Kaunas, Lithuania | 2531 |
-| 5 | [irenemmassy](https://github.com/irenemmassy) | Irene Arvydas Ranonis | Codemarketi |  | Lithuania  | 677 |
-| 6 | [laimonas2g](https://github.com/laimonas2g) | Laimonas |  |  | Kaunas, Lithuania | 539 |
-| 7 | [remrc](https://github.com/remrc) | Remigijus |  |  | Lithuania | 405 |
-| 8 | [kibertoad](https://github.com/kibertoad) | Igor Savin | Lokalise | kibertoad | Vilnius | 395 |
-| 9 | [l3pp4rd](https://github.com/l3pp4rd) | Gediminas Morkevicius | @Satalia  |  | Kaunas, Lithuania | 374 |
-| 10 | [justinas](https://github.com/justinas) | Justinas Stankevičius |  |  | Vilnius, Lithuania | 318 |
-| 11 | [belauzas](https://github.com/belauzas) | Rimantas | front-end-by-rimantas |  | Lithuania | 304 |
-| 12 | [TheNeovimmer](https://github.com/TheNeovimmer) | TheNeovimmer | CEO OF @99syntax | TheNeovimmer | Lithuania | 286 |
-| 13 | [p12tic](https://github.com/p12tic) | Povilas Kanapickas |  |  | Lithuania | 248 |
-| 14 | [simison](https://github.com/simison) | Mikael Korpela | @Automattic |  | Lithuania | 224 |
-| 15 | [Elijas](https://github.com/Elijas) | Elijas Dapšauskas |  | elijas_ai | Vilnius, Lithuania | 220 |
-| 16 | [mgedmin](https://github.com/mgedmin) | Marius Gedminas |  |  | Lithuania | 219 |
-| 17 | [pbrilius](https://github.com/pbrilius) | Povilas Brilius | prototype.in |  | Lithuania | 205 |
-| 18 | [spajus](https://github.com/spajus) | spajus | @kodolinija  | dev_spajus | Vilnius, Lithuania | 201 |
-| 19 | [ErikasRamaneckas](https://github.com/ErikasRamaneckas) | Erikas Ramaneckas |  |  | Vilnius, Lithuania | 197 |
-| 20 | [Miceuz](https://github.com/Miceuz) | Albertas Mickėnas | Technarium | miceuz | Vilnius, Lithuania | 190 |
+| 2 | [PovilasKorop](https://github.com/PovilasKorop) |  | Laravel Course Creator | PovilasKorop | Vilnius, Lithuania | 2744 |
+| 3 | [aras-p](https://github.com/aras-p) | Aras Pranckevičius |  | aras_p | Kaunas, Lithuania | 2531 |
+| 4 | [irenemmassy](https://github.com/irenemmassy) | Irene Arvydas Ranonis | Codemarketi |  | Lithuania  | 677 |
+| 5 | [laimonas2g](https://github.com/laimonas2g) | Laimonas |  |  | Kaunas, Lithuania | 539 |
+| 6 | [remrc](https://github.com/remrc) | Remigijus |  |  | Lithuania | 405 |
+| 7 | [kibertoad](https://github.com/kibertoad) | Igor Savin | Lokalise | kibertoad | Vilnius | 395 |
+| 8 | [l3pp4rd](https://github.com/l3pp4rd) | Gediminas Morkevicius | @Satalia  |  | Kaunas, Lithuania | 374 |
+| 9 | [justinas](https://github.com/justinas) | Justinas Stankevičius |  |  | Vilnius, Lithuania | 318 |
+| 10 | [belauzas](https://github.com/belauzas) | Rimantas | front-end-by-rimantas |  | Lithuania | 304 |
+| 11 | [TheNeovimmer](https://github.com/TheNeovimmer) | TheNeovimmer | CEO OF @99syntax | TheNeovimmer | Lithuania | 286 |
+| 12 | [p12tic](https://github.com/p12tic) | Povilas Kanapickas |  |  | Lithuania | 248 |
+| 13 | [simison](https://github.com/simison) | Mikael Korpela | @Automattic |  | Lithuania | 224 |
+| 14 | [Elijas](https://github.com/Elijas) | Elijas Dapšauskas |  | elijas_ai | Vilnius, Lithuania | 220 |
+| 15 | [mgedmin](https://github.com/mgedmin) | Marius Gedminas |  |  | Lithuania | 219 |
+| 16 | [pbrilius](https://github.com/pbrilius) | Povilas Brilius | prototype.in |  | Lithuania | 205 |
+| 17 | [spajus](https://github.com/spajus) | spajus | @kodolinija  | dev_spajus | Vilnius, Lithuania | 201 |
+| 18 | [ErikasRamaneckas](https://github.com/ErikasRamaneckas) | Erikas Ramaneckas |  |  | Vilnius, Lithuania | 197 |
+| 19 | [Miceuz](https://github.com/Miceuz) | Albertas Mickėnas | Technarium | miceuz | Vilnius, Lithuania | 190 |
+| 20 | [mmozuras](https://github.com/mmozuras) | Mindaugas Mozūras | @Vinted | mmozuras | Vilnius, Lithuania | 183 |

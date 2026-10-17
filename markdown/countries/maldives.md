@@ -80,7 +80,7 @@ Indexed users: 354
 | 16 | [Adamwaheed](https://github.com/Adamwaheed) | Adam | Maldives | 46 |
 | 17 | [mohamed-azhar](https://github.com/mohamed-azhar) | Mohamed Azhar | Maldives | 45 |
 | 18 | [ameer1234567890](https://github.com/ameer1234567890) | Ameer Dawood | Thulhaadhoo, Maldives | 42 |
-| 19 | [muhannad0](https://github.com/muhannad0) | Monde | Maldives | 41 |
-| 20 | [xahiru](https://github.com/xahiru) | Ahmed Zahir | Maldives | 41 |
+| 19 | [inash](https://github.com/inash) | Inash Zubair | Male', Maldives | 41 |
+| 20 | [muhannad0](https://github.com/muhannad0) | Monde | Maldives | 41 |
 
-Generated: 2026-10-17T14:33:35.619Z
+Generated: 2026-10-17T16:45:12.909Z

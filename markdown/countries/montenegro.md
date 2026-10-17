@@ -30,8 +30,8 @@ Indexed users: 888
 | 16 | [milunradonjic](https://github.com/milunradonjic) | Milun Radonjic | Podgorica | 4,935 |
 | 17 | [IvanPin](https://github.com/IvanPin) | Ivan Ponamarev | Podgorica, Montenegro | 4,722 |
 | 18 | [kayamuskas](https://github.com/kayamuskas) | Alexandr Logvinov | Montenegro | 4,714 |
-| 19 | [artempartos](https://github.com/artempartos) | Artem Petrov | Montenegro | 4,461 |
-| 20 | [tackadesignlab](https://github.com/tackadesignlab) | SRDNVCH | Montenegro | 4,456 |
+| 19 | [SashaRX](https://github.com/SashaRX) | SashaRX | Montenegro | 4,506 |
+| 20 | [artempartos](https://github.com/artempartos) | Artem Petrov | Montenegro | 4,461 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 888
 | 19 | [vovkasm](https://github.com/vovkasm) | Vladimir Timofeev | Budva, Montenegro | 99 |
 | 20 | [marcoroganovic](https://github.com/marcoroganovic) | Marko Roganovic | Montenegro | 89 |
 
-Generated: 2026-10-17T14:39:58.424Z
+Generated: 2026-10-17T16:48:45.273Z

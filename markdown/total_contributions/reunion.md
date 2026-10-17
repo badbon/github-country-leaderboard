@@ -1,6 +1,6 @@
 # Total Contributions - Réunion
 
-Generated: 2026-10-17T14:53:21.889Z
+Generated: 2026-10-17T17:01:02.723Z
 
 Users: 212
 
@@ -11,14 +11,14 @@ Users: 212
 | 3 | [digikaizen](https://github.com/digikaizen) | DigiKaizen | DigiKaizen |  | Saint-Denis | 6385 |
 | 4 | [saiht](https://github.com/saiht) | Saiht |  |  | Reunion Island | 3883 |
 | 5 | [axelearning](https://github.com/axelearning) | Axel Rasse |  |  | Reunion island | 3555 |
-| 6 | [vittoriobusatta](https://github.com/vittoriobusatta) | vittorio | @mascarinreunion |  | Reunion Island | 2731 |
+| 6 | [vittoriobusatta](https://github.com/vittoriobusatta) | vittorio | @mascarinreunion |  | Reunion Island | 2739 |
 | 7 | [Nicolas-Begue](https://github.com/Nicolas-Begue) | Nicolas BEGUE 🐱‍👤 | Skydo Digital Studio |  | Saint-Denis | 2614 |
 | 8 | [Angra974](https://github.com/Angra974) | Thierry Parlier | 100Devs | mrnemesys | Reunion Island, France | 2411 |
-| 9 | [ralphi2811](https://github.com/ralphi2811) | Raphaël Auberlet | Nashi.cloud |  | Réunion Island | 2128 |
-| 10 | [Skiwa](https://github.com/Skiwa) | Julien Haegman |  |  | Saint-Denis, Réunion | 2058 |
+| 9 | [ralphi2811](https://github.com/ralphi2811) | Raphaël Auberlet | Nashi.cloud |  | Réunion Island | 2140 |
+| 10 | [Skiwa](https://github.com/Skiwa) | Julien Haegman |  |  | Saint-Denis, Réunion | 2060 |
 | 11 | [Gabouin](https://github.com/Gabouin) | Gabouin |  |  | Reunion Island | 2022 |
 | 12 | [lvothnrv](https://github.com/lvothnrv) | LvothNrv |  |  | Reunion Island | 2019 |
-| 13 | [John361](https://github.com/John361) | John |  |  | Réunion | 1944 |
+| 13 | [John361](https://github.com/John361) | John |  |  | Réunion | 1987 |
 | 14 | [IamArayel](https://github.com/IamArayel) | Arayel |  |  | Reunion Island | 1779 |
 | 15 | [kevinturpin97](https://github.com/kevinturpin97) | RainMan | @EpitechWebAcademiePromo2023  |  | Reunion Island, France | 1768 |
 | 16 | [Nasjoe](https://github.com/Nasjoe) | Jonas TURBEAUX | Code Commun Coop |  | Réunion Island, Villeurbanne, Montpellier : France | 1713 |
