@@ -1,8 +1,8 @@
 # Total Contributions - Jordan
 
-Generated: 2026-10-17T16:38:38.244Z
+Generated: 2026-10-17T17:57:38.018Z
 
-Users: 4011
+Users: 4010
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -25,4 +25,4 @@ Users: 4011
 | 17 | [waleedyaseen](https://github.com/waleedyaseen) | Waleed Yaseen |  |  | Jordan, Amman | 5150 |
 | 18 | [OsamaShwman](https://github.com/OsamaShwman) | Osama Shoman | String Education |  | Jordan | 5122 |
 | 19 | [DefinetlyNotAI](https://github.com/DefinetlyNotAI) | Shahm Najeeb |  |  | Jordan, Amman | 5114 |
-| 20 | [Ziadstr](https://github.com/Ziadstr) | Ziad Al Sharif | Viero |  | Amman, Jordan | 4810 |
+| 20 | [shadiqaddoura](https://github.com/shadiqaddoura) | Shady Qaddoura | Software Engineer | QaddouraShady | Jordan | 4850 |

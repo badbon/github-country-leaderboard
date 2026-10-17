@@ -1,6 +1,6 @@
 # Jordan
 
-Indexed users: 4,011
+Indexed users: 4,010
 
 | Leaderboard | Link |
 |---|---|
@@ -31,7 +31,7 @@ Indexed users: 4,011
 | 17 | [waleedyaseen](https://github.com/waleedyaseen) | Waleed Yaseen | Jordan, Amman | 5,150 |
 | 18 | [OsamaShwman](https://github.com/OsamaShwman) | Osama Shoman | Jordan | 5,122 |
 | 19 | [DefinetlyNotAI](https://github.com/DefinetlyNotAI) | Shahm Najeeb | Jordan, Amman | 5,114 |
-| 20 | [Ziadstr](https://github.com/Ziadstr) | Ziad Al Sharif | Amman, Jordan | 4,810 |
+| 20 | [shadiqaddoura](https://github.com/shadiqaddoura) | Shady Qaddoura | Jordan | 4,850 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 4,011
 | 19 | [Eng-Mohamed-Elsayed](https://github.com/Eng-Mohamed-Elsayed) | Eng-Mohamed Elsayed | Jordan | 197 |
 | 20 | [omar-dulaimi](https://github.com/omar-dulaimi) | Omar Dulaimi | Jordan | 192 |
 
-Generated: 2026-10-17T16:38:38.244Z
+Generated: 2026-10-17T17:57:38.018Z

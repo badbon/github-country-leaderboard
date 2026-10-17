@@ -1,6 +1,6 @@
 # Algeria
 
-Indexed users: 5,791
+Indexed users: 5,790
 
 | Leaderboard | Link |
 |---|---|
@@ -12,38 +12,38 @@ Indexed users: 5,791
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [RAHAMNIabdelkaderseifelislem](https://github.com/RAHAMNIabdelkaderseifelislem) | RAHMANI AbdElKader Seif El Islem | Saida,Algeria | 18,926 |
-| 2 | [MoonFuji](https://github.com/MoonFuji) | Kadri Mohammed Mouncef | Algeria | 9,280 |
-| 3 | [samir1498](https://github.com/samir1498) | Samir Bettahar | Algeria | 8,238 |
-| 4 | [Achour](https://github.com/Achour) | Achour Meguenni | Algeria | 7,789 |
-| 5 | [xCyberpunkx](https://github.com/xCyberpunkx) | Zed | Algeria | 7,386 |
-| 6 | [oussamasf](https://github.com/oussamasf) |  | Algiers  | 7,372 |
-| 7 | [nezlicodes](https://github.com/nezlicodes) | Lylia Nezli | Algiers, Algeria | 7,090 |
-| 8 | [sedaradji](https://github.com/sedaradji) | Sdj | Algeria | 6,781 |
-| 9 | [ehocine](https://github.com/ehocine) | Elhadj Hocine | Algeria  | 6,425 |
-| 10 | [ubugnu](https://github.com/ubugnu) | Bouzid Badreddine | Algeria | 6,389 |
-| 11 | [aimen08](https://github.com/aimen08) | Aymen Hamza | Algeria | 6,072 |
-| 12 | [s77rt](https://github.com/s77rt) | Abdelhafidh Belalia | Algeria | 5,978 |
-| 13 | [mohammedMsgm](https://github.com/mohammedMsgm) | MOHAMMED MESSEGUEM | Algiers, Algeria | 5,232 |
-| 14 | [AMessaoudene](https://github.com/AMessaoudene) | Kweryzm | Algiers | 5,180 |
-| 15 | [wallydz](https://github.com/wallydz) |  | Algeria | 4,889 |
-| 16 | [maamriaabderahmene](https://github.com/maamriaabderahmene) | Maamria Abderahmene | algiers | 4,818 |
-| 17 | [mahmoud-alragabi](https://github.com/mahmoud-alragabi) | Mahmoud Y. Al-Ragabi | Algeria | 4,654 |
-| 18 | [useCallback](https://github.com/useCallback) | Mohamed El Mehdi Khalfoun | Algeria | 4,636 |
-| 19 | [Hamza-HM](https://github.com/Hamza-HM) | Hamza Hed Messaoud | Algeria | 4,628 |
-| 20 | [ousszizou](https://github.com/ousszizou) | oussama djaidri | Algeria | 4,544 |
+| 1 | [RAHAMNIabdelkaderseifelislem](https://github.com/RAHAMNIabdelkaderseifelislem) | RAHMANI AbdElKader Seif El Islem | Saida,Algeria | 18,565 |
+| 2 | [mohaneddz](https://github.com/mohaneddz) | Mohaned-Dz | Algeria, Constantine | 10,706 |
+| 3 | [MoonFuji](https://github.com/MoonFuji) | Kadri Mohammed Mouncef | Algeria | 9,280 |
+| 4 | [samir1498](https://github.com/samir1498) | Samir Bettahar | Algeria | 8,238 |
+| 5 | [Achour](https://github.com/Achour) | Achour Meguenni | Algeria | 7,789 |
+| 6 | [xCyberpunkx](https://github.com/xCyberpunkx) | Zed | Algeria | 7,386 |
+| 7 | [oussamasf](https://github.com/oussamasf) |  | Algiers  | 7,372 |
+| 8 | [nezlicodes](https://github.com/nezlicodes) | Lylia Nezli | Algiers, Algeria | 7,090 |
+| 9 | [sedaradji](https://github.com/sedaradji) | Sdj | Algeria | 6,781 |
+| 10 | [ehocine](https://github.com/ehocine) | Elhadj Hocine | Algeria  | 6,425 |
+| 11 | [ubugnu](https://github.com/ubugnu) | Bouzid Badreddine | Algeria | 6,389 |
+| 12 | [aimen08](https://github.com/aimen08) | Aymen Hamza | Algeria | 6,072 |
+| 13 | [s77rt](https://github.com/s77rt) | Abdelhafidh Belalia | Algeria | 5,978 |
+| 14 | [mohammedMsgm](https://github.com/mohammedMsgm) | MOHAMMED MESSEGUEM | Algiers, Algeria | 5,232 |
+| 15 | [AMessaoudene](https://github.com/AMessaoudene) | Kweryzm | Algiers | 5,180 |
+| 16 | [wallydz](https://github.com/wallydz) |  | Algeria | 4,889 |
+| 17 | [maamriaabderahmene](https://github.com/maamriaabderahmene) | Maamria Abderahmene | algiers | 4,818 |
+| 18 | [mahmoud-alragabi](https://github.com/mahmoud-alragabi) | Mahmoud Y. Al-Ragabi | Algeria | 4,654 |
+| 19 | [useCallback](https://github.com/useCallback) | Mohamed El Mehdi Khalfoun | Algeria | 4,636 |
+| 20 | [Hamza-HM](https://github.com/Hamza-HM) | Hamza Hed Messaoud | Algeria | 4,628 |
 
 ## Public Contributions
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [imadtbn](https://github.com/imadtbn) | imad tbn | algeria | 3,781 |
-| 2 | [selmahacii](https://github.com/selmahacii) | selma haci | Algiers, Algeria | 3,747 |
-| 3 | [BELYAGOUBIABDELILAH](https://github.com/BELYAGOUBIABDELILAH) | abdelilah | Algeria | 3,682 |
-| 4 | [Alaa-Younsi](https://github.com/Alaa-Younsi) | Alaa Younsi | Algeria | 2,802 |
-| 5 | [rayandripo](https://github.com/rayandripo) | Rayan | Algiers | 2,785 |
-| 6 | [phantekzy](https://github.com/phantekzy) | Maini Lotfi  | Algiers,Algeria | 2,715 |
-| 7 | [mohaneddz](https://github.com/mohaneddz) | Mohaned-Dz | Algeria, Constantine | 2,674 |
+| 1 | [mohaneddz](https://github.com/mohaneddz) | Mohaned-Dz | Algeria, Constantine | 4,608 |
+| 2 | [imadtbn](https://github.com/imadtbn) | imad tbn | algeria | 3,781 |
+| 3 | [selmahacii](https://github.com/selmahacii) | selma haci | Algiers, Algeria | 3,747 |
+| 4 | [BELYAGOUBIABDELILAH](https://github.com/BELYAGOUBIABDELILAH) | abdelilah | Algeria | 3,682 |
+| 5 | [Alaa-Younsi](https://github.com/Alaa-Younsi) | Alaa Younsi | Algeria | 2,802 |
+| 6 | [rayandripo](https://github.com/rayandripo) | Rayan | Algiers | 2,785 |
+| 7 | [phantekzy](https://github.com/phantekzy) | Maini Lotfi  | Algiers,Algeria | 2,715 |
 | 8 | [AchrefBoub](https://github.com/AchrefBoub) | Achref | Algeria | 2,486 |
 | 9 | [ndpm13](https://github.com/ndpm13) | Naz | M'sila, Algeria | 2,158 |
 | 10 | [Vtheonly](https://github.com/Vtheonly) | Mersel Fares | Algeria | 2,122 |
@@ -54,9 +54,9 @@ Indexed users: 5,791
 | 15 | [samir1498](https://github.com/samir1498) | Samir Bettahar | Algeria | 1,614 |
 | 16 | [bitsnaps](https://github.com/bitsnaps) | Ibrahim H. | Algeria | 1,551 |
 | 17 | [qamro](https://github.com/qamro) | Mohamed Qamar Eddine Bakhouche | Algiers, Algeria | 1,530 |
-| 18 | [nexus-scholar](https://github.com/nexus-scholar) | Bekhouche Mouadh | Algeria | 1,410 |
-| 19 | [s77rt](https://github.com/s77rt) | Abdelhafidh Belalia | Algeria | 1,378 |
-| 20 | [SaddexRnx](https://github.com/SaddexRnx) | Saddek Renane | Algeria | 1,376 |
+| 18 | [1hachem](https://github.com/1hachem) | dashi | Algiers, Algeria | 1,455 |
+| 19 | [nexus-scholar](https://github.com/nexus-scholar) | Bekhouche Mouadh | Algeria | 1,410 |
+| 20 | [s77rt](https://github.com/s77rt) | Abdelhafidh Belalia | Algeria | 1,378 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 5,791
 | 19 | [sabri-zaki](https://github.com/sabri-zaki) | sabri zakaria | Algeria | 686 |
 | 20 | [Hamza5](https://github.com/Hamza5) | Hamza Abbad | Algeria | 669 |
 
-Generated: 2026-10-17T15:19:08.756Z
+Generated: 2026-10-17T17:24:26.586Z

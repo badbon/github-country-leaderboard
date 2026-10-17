@@ -1,6 +1,6 @@
 # Followers - Antarctica
 
-Generated: 2026-10-17T15:21:36.340Z
+Generated: 2026-10-17T17:25:40.116Z
 
 Users: 460
 
@@ -14,7 +14,7 @@ Users: 460
 | 6 | [kura](https://github.com/kura) | Kura | @bbc  |  | Halley Research Station, Antarctica | 199 |
 | 7 | [DenzelPenzel](https://github.com/DenzelPenzel) |  | @FAQGURU  |  | Antarctica | 185 |
 | 8 | [ifarbod](https://github.com/ifarbod) | iFarbod | SYSTEM_SERVICE_EXCEPTION | ifarbod | Antarctica  | 133 |
-| 9 | [bestruirui](https://github.com/bestruirui) | BESTRUI |  |  | Antarctica | 123 |
+| 9 | [bestruirui](https://github.com/bestruirui) | BESTRUI |  |  | Antarctica | 124 |
 | 10 | [examachine](https://github.com/examachine) | Eray Özkural | @celestial-intellect  | examachine | Dead City, Antarctica | 123 |
 | 11 | [KrLite](https://github.com/KrLite) | KrLite |  | KrLite | Antarctica | 120 |
 | 12 | [TobitoFatitoRE](https://github.com/TobitoFatitoRE) | TobitoFatito |  |  | Davis Station, Antarctica | 119 |

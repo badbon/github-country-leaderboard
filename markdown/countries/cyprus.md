@@ -39,12 +39,12 @@ Indexed users: 2,726
 |---:|---|---|---|---:|
 | 1 | [andre-kuzminykh](https://github.com/andre-kuzminykh) | Andre Kuzminykh | Cyprus | 14,639 |
 | 2 | [cploutarchou](https://github.com/cploutarchou) | Christos Ploutarchou | Cyprus | 7,743 |
-| 3 | [AlisherAmonulloev](https://github.com/AlisherAmonulloev) | Alisher Amonulloev | Cyprus | 5,626 |
-| 4 | [IMKolganov](https://github.com/IMKolganov) | Ivan | Cyprus | 4,627 |
-| 5 | [protesilaos](https://github.com/protesilaos) | Protesilaos | Cyprus | 4,292 |
-| 6 | [NicosNicolaou16](https://github.com/NicosNicolaou16) | Nicos Nicolaou | Nicosia, Cyprus | 3,881 |
-| 7 | [servitola](https://github.com/servitola) | Adik Servitola | Cyprus | 3,829 |
-| 8 | [richardsolomou](https://github.com/richardsolomou) | Richard Solomou | Cyprus | 3,635 |
+| 3 | [richardsolomou](https://github.com/richardsolomou) | Richard Solomou | Cyprus | 7,201 |
+| 4 | [AlisherAmonulloev](https://github.com/AlisherAmonulloev) | Alisher Amonulloev | Cyprus | 5,626 |
+| 5 | [IMKolganov](https://github.com/IMKolganov) | Ivan | Cyprus | 4,627 |
+| 6 | [protesilaos](https://github.com/protesilaos) | Protesilaos | Cyprus | 4,292 |
+| 7 | [NicosNicolaou16](https://github.com/NicosNicolaou16) | Nicos Nicolaou | Nicosia, Cyprus | 3,881 |
+| 8 | [servitola](https://github.com/servitola) | Adik Servitola | Cyprus | 3,829 |
 | 9 | [VizzleTF](https://github.com/VizzleTF) | Ivan K | Cyprus | 3,486 |
 | 10 | [candasoz01-cmd](https://github.com/candasoz01-cmd) | Candaş Öz | Kıbrıs | 3,467 |
 | 11 | [phalouvas](https://github.com/phalouvas) | Panayiotis Halouvas | Cyprus  | 3,353 |
@@ -83,4 +83,4 @@ Indexed users: 2,726
 | 19 | [polterguy](https://github.com/polterguy) | Thomas Hansen | Cyprus | 245 |
 | 20 | [kstep](https://github.com/kstep) | Konstantin Stepanov | Cyprus | 241 |
 
-Generated: 2026-10-17T15:37:34.369Z
+Generated: 2026-10-17T17:39:10.097Z

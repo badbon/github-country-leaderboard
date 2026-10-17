@@ -38,7 +38,7 @@ Indexed users: 266
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [Kzoeps](https://github.com/Kzoeps) | Karma Zoepa Yoezer | Thimphu, Bhutan | 2,753 |
-| 2 | [Bomjan](https://github.com/Bomjan) | Sundra Builds | Thimphu | 1,041 |
+| 2 | [Bomjan](https://github.com/Bomjan) | Sundra Builds | Thimphu | 1,042 |
 | 3 | [guruwangchuk7](https://github.com/guruwangchuk7) | Guru Wangchuk | Bhutan | 1,009 |
 | 4 | [sangayt1997](https://github.com/sangayt1997) | Sangay Thinley | Thimphu, Bhutan | 1,008 |
 | 5 | [yesheytenzin](https://github.com/yesheytenzin) | Yeshey Tenzin | Thimphu, Bhutan | 936 |
@@ -83,4 +83,4 @@ Indexed users: 266
 | 19 | [TandinDev](https://github.com/TandinDev) | Tandin Tshewang | Thimphu | 23 |
 | 20 | [chimiWangchukWangdi](https://github.com/chimiWangchukWangdi) | Chimi Wangchuk Wangdi | Thimphu, Bhutan | 22 |
 
-Generated: 2026-10-17T15:26:19.000Z
+Generated: 2026-10-17T17:31:40.620Z

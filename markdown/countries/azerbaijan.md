@@ -55,8 +55,8 @@ Indexed users: 5,066
 | 16 | [aliyevaladddin](https://github.com/aliyevaladddin) | Aladdin Aliyev | Azerbaijan,Baku | 2,050 |
 | 17 | [TheSarKhan](https://github.com/TheSarKhan) | SarKhann | Azerbaijan | 1,989 |
 | 18 | [omar07ibrahim](https://github.com/omar07ibrahim) | Omar Ibrahim  | Baku  | 1,983 |
-| 19 | [MuradAgamedov](https://github.com/MuradAgamedov) | Murad Agamedov | Baku, Azerbaijan | 1,897 |
-| 20 | [subhangadirli](https://github.com/subhangadirli) | Subhan Gadirli | Sumgayit, Azerbaijan | 1,803 |
+| 19 | [subhangadirli](https://github.com/subhangadirli) | Subhan Gadirli | Sumgayit, Azerbaijan | 1,803 |
+| 20 | [yusifaliyevpro](https://github.com/yusifaliyevpro) | Yusif Aliyev | Baku, Azerbaijan | 1,711 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 5,066
 | 19 | [Jeyhun1227](https://github.com/Jeyhun1227) | Jeyhun Malikli | Baku | 253 |
 | 20 | [husniababaeva](https://github.com/husniababaeva) | Husniyya Babayeva | Azerbaijan,Baku | 252 |
 
-Generated: 2026-10-17T15:22:32.683Z
+Generated: 2026-10-17T17:28:01.763Z

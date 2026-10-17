@@ -15,9 +15,9 @@ Indexed users: 4,037
 | 1 | [Erik-Egnatosyan](https://github.com/Erik-Egnatosyan) | Erik Egnatosyan | Armenia | 113,819 |
 | 2 | [diazoxide](https://github.com/diazoxide) | Aaron Yordanyan | Armenia | 13,936 |
 | 3 | [logictonic](https://github.com/logictonic) | Eugene | Armenia | 13,603 |
-| 4 | [igoralentyev](https://github.com/igoralentyev) | Igor Alentyev | Armenia | 11,483 |
-| 5 | [meanmail](https://github.com/meanmail) | Alexander Petrov | Armenia, Yerevan | 10,720 |
-| 6 | [ilyalosinski](https://github.com/ilyalosinski) | Ilya Losinski | Yerevan, Armenia | 10,400 |
+| 4 | [ilyalosinski](https://github.com/ilyalosinski) | Ilya Losinski | Yerevan, Armenia | 12,592 |
+| 5 | [igoralentyev](https://github.com/igoralentyev) | Igor Alentyev | Armenia | 11,483 |
+| 6 | [meanmail](https://github.com/meanmail) | Alexander Petrov | Armenia, Yerevan | 10,720 |
 | 7 | [n0uk](https://github.com/n0uk) | Maksim Ustichenko | RA, Yerevan | 9,051 |
 | 8 | [prazian](https://github.com/prazian) | Pooyan Razian | Yerevan, Armenia | 8,784 |
 | 9 | [urumo](https://github.com/urumo) |  | Armenia, Yerevan | 8,750 |
@@ -83,4 +83,4 @@ Indexed users: 4,037
 | 19 | [khoren93](https://github.com/khoren93) | Khoren Markosyan | Yerevan, Armenia | 249 |
 | 20 | [nightwing](https://github.com/nightwing) | Harutyun Amirjanyan | Yerevan, Armenia | 236 |
 
-Generated: 2026-10-17T15:21:47.040Z
+Generated: 2026-10-17T17:26:56.947Z

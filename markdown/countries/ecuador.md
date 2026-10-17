@@ -1,6 +1,6 @@
 # Ecuador
 
-Indexed users: 4,885
+Indexed users: 4,884
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 4,885
 | 19 | [Davichobits](https://github.com/Davichobits) | David Ruiz | Ecuador | 116 |
 | 20 | [Bryan-Herrera-DEV](https://github.com/Bryan-Herrera-DEV) | Bryan Herrera ~ ርᚱ1ናተᛰ ᚻህᚥተპᚱ | Ecuador | 115 |
 
-Generated: 2026-10-17T15:39:39.874Z
+Generated: 2026-10-17T17:41:26.760Z

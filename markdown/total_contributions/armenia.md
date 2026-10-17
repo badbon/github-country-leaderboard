@@ -1,6 +1,6 @@
 # Total Contributions - Armenia
 
-Generated: 2026-10-17T15:21:47.040Z
+Generated: 2026-10-17T17:26:56.947Z
 
 Users: 4037
 
@@ -9,9 +9,9 @@ Users: 4037
 | 1 | [Erik-Egnatosyan](https://github.com/Erik-Egnatosyan) | Erik Egnatosyan | Globbing |  | Armenia | 113819 |
 | 2 | [diazoxide](https://github.com/diazoxide) | Aaron Yordanyan | EasyDMARC |  | Armenia | 13936 |
 | 3 | [logictonic](https://github.com/logictonic) | Eugene |  |  | Armenia | 13603 |
-| 4 | [igoralentyev](https://github.com/igoralentyev) | Igor Alentyev |  |  | Armenia | 11483 |
-| 5 | [meanmail](https://github.com/meanmail) | Alexander Petrov | meanmail.dev | meanmaildev | Armenia, Yerevan | 10720 |
-| 6 | [ilyalosinski](https://github.com/ilyalosinski) | Ilya Losinski |  |  | Yerevan, Armenia | 10400 |
+| 4 | [ilyalosinski](https://github.com/ilyalosinski) | Ilya Losinski |  |  | Yerevan, Armenia | 12592 |
+| 5 | [igoralentyev](https://github.com/igoralentyev) | Igor Alentyev |  |  | Armenia | 11483 |
+| 6 | [meanmail](https://github.com/meanmail) | Alexander Petrov | meanmail.dev | meanmaildev | Armenia, Yerevan | 10720 |
 | 7 | [n0uk](https://github.com/n0uk) | Maksim Ustichenko |  |  | RA, Yerevan | 9051 |
 | 8 | [prazian](https://github.com/prazian) | Pooyan Razian | Yanovian LLC |  | Yerevan, Armenia | 8784 |
 | 9 | [urumo](https://github.com/urumo) |  |  | svacksalty | Armenia, Yerevan | 8750 |

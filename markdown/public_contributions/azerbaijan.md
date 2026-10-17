@@ -1,6 +1,6 @@
 # Public Contributions - Azerbaijan
 
-Generated: 2026-10-17T15:22:32.683Z
+Generated: 2026-10-17T17:28:01.763Z
 
 Users: 5066
 
@@ -24,5 +24,5 @@ Users: 5066
 | 16 | [aliyevaladddin](https://github.com/aliyevaladddin) | Aladdin Aliyev |  | Aladddinaliyev | Azerbaijan,Baku | 2050 |
 | 17 | [TheSarKhan](https://github.com/TheSarKhan) | SarKhann |  |  | Azerbaijan | 1989 |
 | 18 | [omar07ibrahim](https://github.com/omar07ibrahim) | Omar Ibrahim  | MBZUAI  |  | Baku  | 1983 |
-| 19 | [MuradAgamedov](https://github.com/MuradAgamedov) | Murad Agamedov | Open to work |  | Baku, Azerbaijan | 1897 |
-| 20 | [subhangadirli](https://github.com/subhangadirli) | Subhan Gadirli | JK Holding |  | Sumgayit, Azerbaijan | 1803 |
+| 19 | [subhangadirli](https://github.com/subhangadirli) | Subhan Gadirli | JK Holding |  | Sumgayit, Azerbaijan | 1803 |
+| 20 | [yusifaliyevpro](https://github.com/yusifaliyevpro) | Yusif Aliyev |  |  | Baku, Azerbaijan | 1711 |

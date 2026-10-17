@@ -1,13 +1,13 @@
 # Followers - Faroe Islands
 
-Generated: 2026-10-17T15:41:59.281Z
+Generated: 2026-10-17T17:44:27.723Z
 
 Users: 68
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [kruseio](https://github.com/kruseio) | Ragnar Kruse |  | kruseio | Faroe Islands | 188 |
-| 2 | [TimonPeng](https://github.com/TimonPeng) | Timon Peng |  | timonpeng | Føroyar | 124 |
+| 2 | [TimonPeng](https://github.com/TimonPeng) | Timon Peng |  | timonpeng | Føroyar | 125 |
 | 3 | [ahjohannessen](https://github.com/ahjohannessen) | Alex Henning Johannessen |  | ahjohannessen | Faroe Islands | 45 |
 | 4 | [Brian-ED](https://github.com/Brian-ED) | Brian E |  |  | Faroe Islands | 21 |
 | 5 | [cybercrimecat](https://github.com/cybercrimecat) | vio | SiegedSec | cybercrimekitty | faroe islands | 18 |

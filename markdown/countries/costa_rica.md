@@ -25,13 +25,13 @@ Indexed users: 5,628
 | 11 | [HenryM8](https://github.com/HenryM8) | 𝙷𝚎𝚗𝚛𝚢 𝙼𝚊𝚛𝚒́𝚗 | Costa Rica | 7,023 |
 | 12 | [xavier506](https://github.com/xavier506) | Xavier Fernandez | Costa Rica | 6,797 |
 | 13 | [Tgarcia7](https://github.com/Tgarcia7) |  Tey García | San José, Costa Rica | 6,736 |
-| 14 | [Eduardof0nt](https://github.com/Eduardof0nt) | Eduardo Font Cruz | Costa Rica | 6,187 |
-| 15 | [KentoNishi](https://github.com/KentoNishi) | Kento Nishi | Cambridge, MA / San Jose, CA | 6,091 |
-| 16 | [nestormata](https://github.com/nestormata) | Nestor Mata Cuthbert | Costa Rica | 5,743 |
-| 17 | [saihdez](https://github.com/saihdez) | saihdez | Costa Rica, Heredia | 5,706 |
-| 18 | [alejandrochava](https://github.com/alejandrochava) | Alejandro | Costa Rica | 5,601 |
-| 19 | [maikol-solis](https://github.com/maikol-solis) | Maikol Solís | San Jose, Costa Rica | 5,589 |
-| 20 | [pblanco27-soin](https://github.com/pblanco27-soin) | Paolo Blanco | San José, Costa Rica | 5,433 |
+| 14 | [dbejarano820](https://github.com/dbejarano820) | Daniel Bejarano | Costa Rica | 6,549 |
+| 15 | [Eduardof0nt](https://github.com/Eduardof0nt) | Eduardo Font Cruz | Costa Rica | 6,187 |
+| 16 | [KentoNishi](https://github.com/KentoNishi) | Kento Nishi | Cambridge, MA / San Jose, CA | 6,091 |
+| 17 | [elianortega](https://github.com/elianortega) | Elian Ortega | San Jose, Costa Rica | 6,029 |
+| 18 | [nestormata](https://github.com/nestormata) | Nestor Mata Cuthbert | Costa Rica | 5,743 |
+| 19 | [saihdez](https://github.com/saihdez) | saihdez | Costa Rica, Heredia | 5,706 |
+| 20 | [alejandrochava](https://github.com/alejandrochava) | Alejandro | Costa Rica | 5,601 |
 
 ## Public Contributions
 
@@ -70,8 +70,8 @@ Indexed users: 5,628
 | 6 | [robey](https://github.com/robey) | Robey Pointer | San José, CA | 566 |
 | 7 | [tito](https://github.com/tito) | Mathieu Virbel | Costa Rica | 530 |
 | 8 | [siddharta1337](https://github.com/siddharta1337) | Carlos Solis | Costa Rica | 492 |
-| 9 | [r0r0x-xx](https://github.com/r0r0x-xx) | r0r0x | Costa Rica | 416 |
-| 10 | [JoanEsquivel](https://github.com/JoanEsquivel) | Joan Esquivel | Costa Rica | 374 |
+| 9 | [r0r0x-xx](https://github.com/r0r0x-xx) | r0r0x | Costa Rica | 451 |
+| 10 | [JoanEsquivel](https://github.com/JoanEsquivel) | Joan Esquivel | Costa Rica | 376 |
 | 11 | [edsiper](https://github.com/edsiper) | Eduardo Silva Pereira | Costa Rica | 278 |
 | 12 | [come-maiz](https://github.com/come-maiz) | Leonardo Arias Fonseca | Costa Rica | 263 |
 | 13 | [fmontes](https://github.com/fmontes) | Freddy Montes | Costa Rica | 260 |
@@ -83,4 +83,4 @@ Indexed users: 5,628
 | 19 | [stvansolano](https://github.com/stvansolano) | Esteban Solano Granados | Costa Rica | 189 |
 | 20 | [Jeffser](https://github.com/Jeffser) | Jeffry Samuel | Costa Rica | 174 |
 
-Generated: 2026-10-17T15:36:41.870Z
+Generated: 2026-10-17T17:37:35.181Z

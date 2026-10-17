@@ -1,6 +1,6 @@
 # Total Contributions - Costa Rica
 
-Generated: 2026-10-17T15:36:41.870Z
+Generated: 2026-10-17T17:37:35.181Z
 
 Users: 5628
 
@@ -19,10 +19,10 @@ Users: 5628
 | 11 | [HenryM8](https://github.com/HenryM8) | 𝙷𝚎𝚗𝚛𝚢 𝙼𝚊𝚛𝚒́𝚗 |  | HenryMarn08 | Costa Rica | 7023 |
 | 12 | [xavier506](https://github.com/xavier506) | Xavier Fernandez | Edenia | xaviercr | Costa Rica | 6797 |
 | 13 | [Tgarcia7](https://github.com/Tgarcia7) |  Tey García | @wootit | teygarciam | San José, Costa Rica | 6736 |
-| 14 | [Eduardof0nt](https://github.com/Eduardof0nt) | Eduardo Font Cruz |  |  | Costa Rica | 6187 |
-| 15 | [KentoNishi](https://github.com/KentoNishi) | Kento Nishi | MIT |  | Cambridge, MA / San Jose, CA | 6091 |
-| 16 | [nestormata](https://github.com/nestormata) | Nestor Mata Cuthbert | Profesional Costa Rica |  | Costa Rica | 5743 |
-| 17 | [saihdez](https://github.com/saihdez) | saihdez | @dimerso-global  |  | Costa Rica, Heredia | 5706 |
-| 18 | [alejandrochava](https://github.com/alejandrochava) | Alejandro |  |  | Costa Rica | 5601 |
-| 19 | [maikol-solis](https://github.com/maikol-solis) | Maikol Solís | Universidad de Costa Rica |  | San Jose, Costa Rica | 5589 |
-| 20 | [pblanco27-soin](https://github.com/pblanco27-soin) | Paolo Blanco | @SoinLabs  |  | San José, Costa Rica | 5433 |
+| 14 | [dbejarano820](https://github.com/dbejarano820) | Daniel Bejarano |  | 0xBeja | Costa Rica | 6549 |
+| 15 | [Eduardof0nt](https://github.com/Eduardof0nt) | Eduardo Font Cruz |  |  | Costa Rica | 6187 |
+| 16 | [KentoNishi](https://github.com/KentoNishi) | Kento Nishi | MIT |  | Cambridge, MA / San Jose, CA | 6091 |
+| 17 | [elianortega](https://github.com/elianortega) | Elian Ortega |  | ElianMOrtega | San Jose, Costa Rica | 6029 |
+| 18 | [nestormata](https://github.com/nestormata) | Nestor Mata Cuthbert | Profesional Costa Rica |  | Costa Rica | 5743 |
+| 19 | [saihdez](https://github.com/saihdez) | saihdez | @dimerso-global  |  | Costa Rica, Heredia | 5706 |
+| 20 | [alejandrochava](https://github.com/alejandrochava) | Alejandro |  |  | Costa Rica | 5601 |

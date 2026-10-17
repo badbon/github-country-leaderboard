@@ -1,6 +1,6 @@
 # Followers - Costa Rica
 
-Generated: 2026-10-17T15:36:41.870Z
+Generated: 2026-10-17T17:37:35.181Z
 
 Users: 5628
 
@@ -14,8 +14,8 @@ Users: 5628
 | 6 | [robey](https://github.com/robey) | Robey Pointer |  |  | San José, CA | 566 |
 | 7 | [tito](https://github.com/tito) | Mathieu Virbel | Monadical |  | Costa Rica | 530 |
 | 8 | [siddharta1337](https://github.com/siddharta1337) | Carlos Solis |  |  | Costa Rica | 492 |
-| 9 | [r0r0x-xx](https://github.com/r0r0x-xx) | r0r0x |  |  | Costa Rica | 416 |
-| 10 | [JoanEsquivel](https://github.com/JoanEsquivel) | Joan Esquivel |  | joan_media | Costa Rica | 374 |
+| 9 | [r0r0x-xx](https://github.com/r0r0x-xx) | r0r0x | Starsec / PWNSAT |  | Costa Rica | 451 |
+| 10 | [JoanEsquivel](https://github.com/JoanEsquivel) | Joan Esquivel |  | joan_media | Costa Rica | 376 |
 | 11 | [edsiper](https://github.com/edsiper) | Eduardo Silva Pereira | Chronosphere | edsiper | Costa Rica | 278 |
 | 12 | [come-maiz](https://github.com/come-maiz) | Leonardo Arias Fonseca |  |  | Costa Rica | 263 |
 | 13 | [fmontes](https://github.com/fmontes) | Freddy Montes | @dotCMS  | fmontes | Costa Rica | 260 |

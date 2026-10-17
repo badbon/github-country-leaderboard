@@ -1,6 +1,6 @@
 # Followers - Albania
 
-Generated: 2026-10-17T15:17:43.604Z
+Generated: 2026-10-17T17:23:52.688Z
 
 Users: 1184
 
@@ -18,8 +18,8 @@ Users: 1184
 | 10 | [klendi](https://github.com/klendi) | Klendi Goci |  |  | Tirana, Albania | 100 |
 | 11 | [meggsila](https://github.com/meggsila) | Megi Sila |  | meggsila | Tirana, Albania | 100 |
 | 12 | [genciiv](https://github.com/genciiv) | G-code | G-code |  | Albania | 92 |
-| 13 | [KristiSeraj](https://github.com/KristiSeraj) | Kristi |  | kristiseraj | Albania | 90 |
-| 14 | [devklajd](https://github.com/devklajd) | Klajd Belishaku |  |  | Tirana, Albania | 89 |
+| 13 | [devklajd](https://github.com/devklajd) | Klajd Belishaku |  |  | Tirana, Albania | 90 |
+| 14 | [KristiSeraj](https://github.com/KristiSeraj) | Kristi |  | kristiseraj | Albania | 90 |
 | 15 | [nikolliervin](https://github.com/nikolliervin) | undefined |  |  | Tirana, Albania | 87 |
 | 16 | [AndiXplorer](https://github.com/AndiXplorer) | Young Moon |  |  | Albania | 86 |
 | 17 | [rinor](https://github.com/rinor) | Rinor Hoxha | BAITS sh.p.k | rinorhoxha | Albania, Tirane | 86 |
