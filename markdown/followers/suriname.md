@@ -1,13 +1,13 @@
 # Followers - Suriname
 
-Generated: 2026-10-16T20:25:03.528Z
+Generated: 2026-10-17T00:33:47.365Z
 
 Users: 123
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [ragnarok22](https://github.com/ragnarok22) | Reinier Hernández |  | RagnarokReinier | Suriname | 117 |
-| 2 | [pawiromitchel](https://github.com/pawiromitchel) | Mitchel | @AbNormal-Labs  | pawiromitchel | Suriname | 95 |
+| 2 | [pawiromitchel](https://github.com/pawiromitchel) | Mitchel | @AbNormal-Labs  | pawiromitchel | Suriname | 96 |
 | 3 | [N3RDCLASH](https://github.com/N3RDCLASH) | Joel Naarendorp | @Bits-Please-Technologies | n3rdclash | Suriname | 49 |
 | 4 | [nerkarso](https://github.com/nerkarso) | Ner Karso | @ngineerlab |  | Paramaribo, Suriname | 41 |
 | 5 | [CreativeYudai](https://github.com/CreativeYudai) | Yudai Heber | StayDirect |  | Paramaribo | 38 |

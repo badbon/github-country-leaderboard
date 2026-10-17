@@ -1,8 +1,8 @@
 # Total Contributions - Paraguay
 
-Generated: 2026-10-17T00:15:05.075Z
+Generated: 2026-10-17T01:18:24.310Z
 
-Users: 2013
+Users: 2014
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -17,12 +17,12 @@ Users: 2013
 | 9 | [zot24](https://github.com/zot24) |  | Motty | zot24 | Asuncion, Paraguay | 7889 |
 | 10 | [juraj-m](https://github.com/juraj-m) | Juraj |  |  | Yaguarón, Paraguay | 7879 |
 | 11 | [mathiasgrimm](https://github.com/mathiasgrimm) | Mathias Grimm | @laravel | matgrimm | Asunción, Paraguay | 7299 |
-| 12 | [dev-cardenas](https://github.com/dev-cardenas) | Fernando Salinas Cardenas |  |  | Paraguay | 7008 |
-| 13 | [kiquetal](https://github.com/kiquetal) | Enrique\m/Talavera | <) |  | Paraguay | 6752 |
-| 14 | [MHHukiewitz](https://github.com/MHHukiewitz) | Mike Hukiewitz | YourTrading.ai GbR |  | Paraguay, Cordillera | 6583 |
-| 15 | [davicyyo](https://github.com/davicyyo) | DaViCyYo | HeadArrow | davicyyoYT | Paraguay | 5811 |
-| 16 | [everdaniel](https://github.com/everdaniel) | Ever Daniel Barreto | Borealis |  | Asunción, Paraguay | 5581 |
-| 17 | [yoryer](https://github.com/yoryer) | Jorge Noguera |  | yoryer | Paraguay | 5465 |
-| 18 | [aplgr](https://github.com/aplgr) | André Plöger |  |  | Paraguay | 5210 |
-| 19 | [apojomovsky](https://github.com/apojomovsky) | Alexis Pojomovsky |  |  | Asunción - Paraguay | 5111 |
-| 20 | [InumanSoul](https://github.com/InumanSoul) | Anderson Fariña |  | Inumansoul | Paraguay | 5001 |
+| 12 | [vVladyslaVv](https://github.com/vVladyslaVv) | Vladyslav Yeroma | Newly Booked |  | Asuncion | 7150 |
+| 13 | [dev-cardenas](https://github.com/dev-cardenas) | Fernando Salinas Cardenas |  |  | Paraguay | 7008 |
+| 14 | [kiquetal](https://github.com/kiquetal) | Enrique\m/Talavera | <) |  | Paraguay | 6752 |
+| 15 | [MHHukiewitz](https://github.com/MHHukiewitz) | Mike Hukiewitz | YourTrading.ai GbR |  | Paraguay, Cordillera | 6583 |
+| 16 | [davicyyo](https://github.com/davicyyo) | DaViCyYo | HeadArrow | davicyyoYT | Paraguay | 5811 |
+| 17 | [everdaniel](https://github.com/everdaniel) | Ever Daniel Barreto | Borealis |  | Asunción, Paraguay | 5581 |
+| 18 | [yoryer](https://github.com/yoryer) | Jorge Noguera |  | yoryer | Paraguay | 5465 |
+| 19 | [aplgr](https://github.com/aplgr) | André Plöger |  |  | Paraguay | 5210 |
+| 20 | [apojomovsky](https://github.com/apojomovsky) | Alexis Pojomovsky |  |  | Asunción - Paraguay | 5111 |

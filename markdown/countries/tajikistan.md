@@ -18,7 +18,7 @@ Indexed users: 709
 | 4 | [shyn1ck](https://github.com/shyn1ck) | Parvizjon Hasanov | Taikistan, Dushanbe  | 6,981 |
 | 5 | [umedsondoniyor](https://github.com/umedsondoniyor) | Umedzhon Izbasarov | Tajikistan/Dushanbe | 6,783 |
 | 6 | [ifteakhor](https://github.com/ifteakhor) |  | Tajikistan | 6,397 |
-| 7 | [sr-44](https://github.com/sr-44) | Shahrom | Tajikistan, Dushanbe | 6,326 |
+| 7 | [sr-44](https://github.com/sr-44) | Shahrom | Tajikistan, Dushanbe | 6,396 |
 | 8 | [UMARJO9](https://github.com/UMARJO9) | Умарджон Нурмадов | Tajikistan / Khujand / Dushanbe / Kulob | 6,298 |
 | 9 | [islom-sattorov](https://github.com/islom-sattorov) | islom-sattorov | Dushanbe, Tajikistan | 6,044 |
 | 10 | [shahromako](https://github.com/shahromako) | Shahrom Kurbonov | Tajikistan, Dushanbe | 3,766 |
@@ -62,13 +62,13 @@ Indexed users: 709
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [abdullokhonz](https://github.com/abdullokhonz) | Abdullokhon Ghaibulloev | Khujand, Tajikistan | 428 |
+| 1 | [abdullokhonz](https://github.com/abdullokhonz) | Abdullokhon Ghaibulloev | Khujand, Tajikistan | 427 |
 | 2 | [RahimovAbdurahmon](https://github.com/RahimovAbdurahmon) |  | Tajikistan, Dushanbe | 226 |
 | 3 | [jahongirholmatov](https://github.com/jahongirholmatov) | Jahongir | Khujand, Tajikistan | 176 |
 | 4 | [AzamBayzaev](https://github.com/AzamBayzaev) | Azam | Khujand, Tajikistan | 173 |
 | 5 | [Thexasan](https://github.com/Thexasan) | Husenov Hasan  | Tajikistan, Dushanbe | 140 |
 | 6 | [Amsurur](https://github.com/Amsurur) | Muhammadsurur Abdulloev | Dushanbe | 133 |
-| 7 | [faridun-dev](https://github.com/faridun-dev) | Faridun Fatkhullozoda | Dushanbe, Tajikistan | 114 |
+| 7 | [faridun-dev](https://github.com/faridun-dev) | Faridun Fatkhullozoda | Dushanbe, Tajikistan | 113 |
 | 8 | [Abubakr7](https://github.com/Abubakr7) | Abubakr Juraev | Dushanbe Tajikistan | 102 |
 | 9 | [khaydarov](https://github.com/khaydarov) | Murod Khaydarov | Dushanbe, Tajikistan | 86 |
 | 10 | [AED11](https://github.com/AED11) | Akhmetov Eraj | Tajikistan Dushanbe | 80 |
@@ -83,4 +83,4 @@ Indexed users: 709
 | 19 | [11bit](https://github.com/11bit) | Ivan Buryak | Dushanbe | 49 |
 | 20 | [Abdughafur](https://github.com/Abdughafur) | Abdughafur Khujzoda | Tajikistan | 48 |
 
-Generated: 2026-10-16T22:54:16.825Z
+Generated: 2026-10-17T00:36:52.202Z

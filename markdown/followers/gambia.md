@@ -1,6 +1,6 @@
 # Followers - Gambia
 
-Generated: 2026-10-16T23:37:08.877Z
+Generated: 2026-10-17T01:27:33.932Z
 
 Users: 79
 
@@ -18,7 +18,7 @@ Users: 79
 | 10 | [Baboucar](https://github.com/Baboucar) | Baboucarr |  |  | Gambia | 13 |
 | 11 | [Fatimatrawally](https://github.com/Fatimatrawally) | Camara |  |  | Gambia  | 13 |
 | 12 | [Karim-Mane](https://github.com/Karim-Mane) | Karim MANE | Medical Research Council The Gambia Unit at London School of Hygiene and Tropical medicine |  | Gambia | 12 |
-| 13 | [Sirhino](https://github.com/Sirhino) | Imwealthman | IT SPECIALIST  |  | United State,Gambia | 12 |
+| 13 | [Sirhino](https://github.com/Sirhino) | Imwealthman | IT SPECIALIST  |  | United State,Gambia | 11 |
 | 14 | [Degoot-AM](https://github.com/Degoot-AM) | Abdoelnaser M Degoot | @LSHTM @MRCG |  | Banjul, Gambia | 10 |
 | 15 | [Massay](https://github.com/Massay) | Massay Bah |  |  | The Gambia, Banjul | 10 |
 | 16 | [Bairoking](https://github.com/Bairoking) | Sanna Bah | GCAA | bairoking | Banjul International Airport | 9 |

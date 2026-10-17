@@ -12,13 +12,13 @@ Indexed users: 93
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [Likeandfeel](https://github.com/Likeandfeel) |  | Gibraltar | 27,548 |
+| 1 | [Likeandfeel](https://github.com/Likeandfeel) |  | Gibraltar | 27,735 |
 | 2 | [miohtama](https://github.com/miohtama) | Mikko Ohtamaa | Gibraltar | 5,658 |
 | 3 | [Industrial](https://github.com/Industrial) | Tom Wieland | Gibraltar | 5,252 |
 | 4 | [marcoscholz](https://github.com/marcoscholz) | Marco Scholz | Gibraltar | 3,296 |
 | 5 | [dlicudi](https://github.com/dlicudi) | Duane Licudi | Gibraltar | 2,624 |
 | 6 | [Fenicio](https://github.com/Fenicio) | Guillermo G C | Gibraltar | 1,391 |
-| 7 | [ArmandasB](https://github.com/ArmandasB) | Armandas Bespalovas | Gibraltar, GI | 1,238 |
+| 7 | [ArmandasB](https://github.com/ArmandasB) | Armandas Bespalovas | Gibraltar, GI | 1,232 |
 | 8 | [llmora](https://github.com/llmora) | Lluis Mora | Gibraltar | 1,183 |
 | 9 | [ArtemSoldatkin](https://github.com/ArtemSoldatkin) | Artem Soldatkin | Gibraltar | 817 |
 | 10 | [sTevoFort](https://github.com/sTevoFort) | Stephen Fortunato | Gibraltar | 772 |
@@ -30,7 +30,7 @@ Indexed users: 93
 | 16 | [PeterKottas](https://github.com/PeterKottas) | Peter Kottas | Gibraltar | 464 |
 | 17 | [cdharris](https://github.com/cdharris) | Chris Harris | Berlin / Europe / Gibraltar | 411 |
 | 18 | [VladimirHumeniuk](https://github.com/VladimirHumeniuk) | vhmnk | Gibraltar | 406 |
-| 19 | [thebaubau](https://github.com/thebaubau) | Daniel Fintinariu | Gibraltar | 298 |
+| 19 | [thebaubau](https://github.com/thebaubau) | Daniel Fintinariu | Gibraltar | 309 |
 | 20 | [crpol](https://github.com/crpol) | Cesar Rosa Polanco | Gibraltar | 255 |
 
 ## Public Contributions
@@ -83,4 +83,4 @@ Indexed users: 93
 | 19 | [vfiodor](https://github.com/vfiodor) | Fiodor Veresciaka | Gibraltar | 13 |
 | 20 | [VPSServerCom](https://github.com/VPSServerCom) | VPS Server | Gibraltar | 13 |
 
-Generated: 2026-10-16T23:37:17.711Z
+Generated: 2026-10-17T01:29:06.501Z

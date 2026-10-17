@@ -1,13 +1,13 @@
 # Total Contributions - Zambia
 
-Generated: 2026-10-16T23:01:42.800Z
+Generated: 2026-10-17T00:47:32.176Z
 
 Users: 1338
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [Mwalek](https://github.com/Mwalek) | Mwale Kalenga | @Inpsyde-Global-Service-Provider  | mwale_and_sons | Lusaka, Zambia | 12414 |
-| 2 | [DamianoSilverhand](https://github.com/DamianoSilverhand) | Damiano Chintala | @Plus94-Research | damianochintala | Lusaka, Zambia | 12068 |
+| 2 | [DamianoSilverhand](https://github.com/DamianoSilverhand) | Damiano Chintala | @Plus94-Research | damianochintala | Lusaka, Zambia | 12014 |
 | 3 | [MwambaKaenga](https://github.com/MwambaKaenga) | Mwamba Kaenga | BANTUZI ENTERPRISES LIMITED | mwambaekaenga | Lusaka, Zambia | 11298 |
 | 4 | [CHAMA18](https://github.com/CHAMA18) | Chungu Chipimo Chama |  |  | Lusaka, Zambia | 11074 |
 | 5 | [thompsonmanda08](https://github.com/thompsonmanda08) | Thompson Manda | @Interwebb | thompsonmanda08 | Zambia | 8828 |
@@ -21,8 +21,8 @@ Users: 1338
 | 13 | [Jules369-ZM](https://github.com/Jules369-ZM) | JULIUS MARTIN BANDA | ProBase Limited |  | LUSAKA | 3867 |
 | 14 | [genthegreat](https://github.com/genthegreat) | Prince Kwesi | @AdsOnAds  | princekwesi7 | Zambia | 3497 |
 | 15 | [barthkapepula](https://github.com/barthkapepula) | Bartholomew Kapepula |  |  | Zambia | 3472 |
-| 16 | [boniface](https://github.com/boniface) | Boniface Kabaso | Zambia |  | Lusaka, Zambia | 3396 |
-| 17 | [Geoffrey-Zulu](https://github.com/Geoffrey-Zulu) | Geoffrey Zulu |  |  | Lusaka, Zambia | 3304 |
-| 18 | [ericknamukolo](https://github.com/ericknamukolo) | Erick Namukolo | @Lassod-Consulting  | erickmndev | Lusaka, Zambia | 3281 |
-| 19 | [brucetruth](https://github.com/brucetruth) | Bruce Truth | @broosaction  |  | Zambia | 3200 |
+| 16 | [brucetruth](https://github.com/brucetruth) | Bruce Truth | @broosaction  |  | Zambia | 3443 |
+| 17 | [boniface](https://github.com/boniface) | Boniface Kabaso | Zambia |  | Lusaka, Zambia | 3396 |
+| 18 | [Geoffrey-Zulu](https://github.com/Geoffrey-Zulu) | Geoffrey Zulu |  |  | Lusaka, Zambia | 3304 |
+| 19 | [ericknamukolo](https://github.com/ericknamukolo) | Erick Namukolo | @Lassod-Consulting  | erickmndev | Lusaka, Zambia | 3281 |
 | 20 | [engineervix](https://github.com/engineervix) | Victor Miti | @torchbox |  | Lusaka, Zambia | 3188 |

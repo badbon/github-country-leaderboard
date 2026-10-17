@@ -1,6 +1,6 @@
 # Followers - Afghanistan
 
-Generated: 2026-10-16T23:02:46.419Z
+Generated: 2026-10-17T00:49:14.229Z
 
 Users: 1487
 
@@ -10,7 +10,7 @@ Users: 1487
 | 2 | [imranmalakzai](https://github.com/imranmalakzai) | Imran Malakzai | Hendra.com |  | Afghanistan | 672 |
 | 3 | [SanaTameem](https://github.com/SanaTameem) | Sana Tameem | Afghan Relief | sanooo2001 | Kabul-Afghanistan | 436 |
 | 4 | [UstadYasin](https://github.com/UstadYasin) | Muhammad Yasin Jamal |  |  | Kabul | 421 |
-| 5 | [YaserZarifi](https://github.com/YaserZarifi) | Yaser Zarifi | SharifiNeya Travel Services |  | Kabul | 295 |
+| 5 | [YaserZarifi](https://github.com/YaserZarifi) | Yaser Zarifi | SharifiNeya Travel Services |  | Kabul | 299 |
 | 6 | [jaweid123](https://github.com/jaweid123) | Jaweid Moraadi |  |  | Kabul province  | 287 |
 | 7 | [MasihMuhammadi](https://github.com/MasihMuhammadi) | MasihullahMuhammadi | AseelApp, Industry Umbrella | Masih_202 | Kabul, Afghanistan | 242 |
 | 8 | [AmanAyoub](https://github.com/AmanAyoub) | Aman Ayoub |  |  | Afghanistan | 222 |

@@ -13,7 +13,7 @@ Indexed users: 1,338
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [Mwalek](https://github.com/Mwalek) | Mwale Kalenga | Lusaka, Zambia | 12,414 |
-| 2 | [DamianoSilverhand](https://github.com/DamianoSilverhand) | Damiano Chintala | Lusaka, Zambia | 12,068 |
+| 2 | [DamianoSilverhand](https://github.com/DamianoSilverhand) | Damiano Chintala | Lusaka, Zambia | 12,014 |
 | 3 | [MwambaKaenga](https://github.com/MwambaKaenga) | Mwamba Kaenga | Lusaka, Zambia | 11,298 |
 | 4 | [CHAMA18](https://github.com/CHAMA18) | Chungu Chipimo Chama | Lusaka, Zambia | 11,074 |
 | 5 | [thompsonmanda08](https://github.com/thompsonmanda08) | Thompson Manda | Zambia | 8,828 |
@@ -27,10 +27,10 @@ Indexed users: 1,338
 | 13 | [Jules369-ZM](https://github.com/Jules369-ZM) | JULIUS MARTIN BANDA | LUSAKA | 3,867 |
 | 14 | [genthegreat](https://github.com/genthegreat) | Prince Kwesi | Zambia | 3,497 |
 | 15 | [barthkapepula](https://github.com/barthkapepula) | Bartholomew Kapepula | Zambia | 3,472 |
-| 16 | [boniface](https://github.com/boniface) | Boniface Kabaso | Lusaka, Zambia | 3,396 |
-| 17 | [Geoffrey-Zulu](https://github.com/Geoffrey-Zulu) | Geoffrey Zulu | Lusaka, Zambia | 3,304 |
-| 18 | [ericknamukolo](https://github.com/ericknamukolo) | Erick Namukolo | Lusaka, Zambia | 3,281 |
-| 19 | [brucetruth](https://github.com/brucetruth) | Bruce Truth | Zambia | 3,200 |
+| 16 | [brucetruth](https://github.com/brucetruth) | Bruce Truth | Zambia | 3,443 |
+| 17 | [boniface](https://github.com/boniface) | Boniface Kabaso | Lusaka, Zambia | 3,396 |
+| 18 | [Geoffrey-Zulu](https://github.com/Geoffrey-Zulu) | Geoffrey Zulu | Lusaka, Zambia | 3,304 |
+| 19 | [ericknamukolo](https://github.com/ericknamukolo) | Erick Namukolo | Lusaka, Zambia | 3,281 |
 | 20 | [engineervix](https://github.com/engineervix) | Victor Miti | Lusaka, Zambia | 3,188 |
 
 ## Public Contributions
@@ -83,4 +83,4 @@ Indexed users: 1,338
 | 19 | [blessedjasonmwanza](https://github.com/blessedjasonmwanza) | Blessed Jason Mwanza |  Lusaka, Zambia | 104 |
 | 20 | [Eathorne2](https://github.com/Eathorne2) | Eathorne | Lusaka, Zambia | 103 |
 
-Generated: 2026-10-16T23:01:42.800Z
+Generated: 2026-10-17T00:47:32.176Z

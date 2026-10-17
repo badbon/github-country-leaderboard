@@ -1,6 +1,6 @@
 # Followers - Albania
 
-Generated: 2026-10-16T23:03:27.401Z
+Generated: 2026-10-17T00:51:16.710Z
 
 Users: 1184
 
@@ -21,8 +21,8 @@ Users: 1184
 | 13 | [KristiSeraj](https://github.com/KristiSeraj) | Kristi |  | kristiseraj | Albania | 90 |
 | 14 | [devklajd](https://github.com/devklajd) | Klajd Belishaku |  |  | Tirana, Albania | 89 |
 | 15 | [nikolliervin](https://github.com/nikolliervin) | undefined |  |  | Tirana, Albania | 87 |
-| 16 | [rinor](https://github.com/rinor) | Rinor Hoxha | BAITS sh.p.k | rinorhoxha | Albania, Tirane | 87 |
-| 17 | [AndiXplorer](https://github.com/AndiXplorer) | Young Moon |  |  | Albania | 86 |
+| 16 | [AndiXplorer](https://github.com/AndiXplorer) | Young Moon |  |  | Albania | 86 |
+| 17 | [rinor](https://github.com/rinor) | Rinor Hoxha | BAITS sh.p.k | rinorhoxha | Albania, Tirane | 86 |
 | 18 | [joanjanku2000](https://github.com/joanjanku2000) | Joan Janku |  |  | Albania | 84 |
 | 19 | [SxtBox](https://github.com/SxtBox) | Albdroid.AL | PHP Framework |  | Albania | 81 |
 | 20 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | CyberSecurity Researcher, Red Team, Bug Hunter | OrgitoRTA | Albania | 75 |

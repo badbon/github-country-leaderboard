@@ -48,8 +48,8 @@ Indexed users: 2,378
 | 9 | [Forte11Cuba](https://github.com/Forte11Cuba) | Forte11 | El Salvador | 1,404 |
 | 10 | [LemonMantis5571](https://github.com/LemonMantis5571) | Leonel Guerrero | El Salvador | 1,206 |
 | 11 | [daiv05](https://github.com/daiv05) | David DV | San Salvador | 1,186 |
-| 12 | [KevLehman](https://github.com/KevLehman) | Kevin Aleman | El Salvador | 1,064 |
-| 13 | [replaceafill](https://github.com/replaceafill) | Douglas Cerna | San Salvador, El Salvador | 1,037 |
+| 12 | [replaceafill](https://github.com/replaceafill) | Douglas Cerna | San Salvador, El Salvador | 1,119 |
+| 13 | [KevLehman](https://github.com/KevLehman) | Kevin Aleman | El Salvador | 1,064 |
 | 14 | [Alexisrx96](https://github.com/Alexisrx96) | Irvin Torres | El Salvador | 1,035 |
 | 15 | [ronirgp](https://github.com/ronirgp) | RONALD PINEDA | El Salvador  | 1,005 |
 | 16 | [Lenny004](https://github.com/Lenny004) | Lenny Sánchez | El Salvador | 972 |
@@ -83,4 +83,4 @@ Indexed users: 2,378
 | 19 | [MiPrimerBitcoin](https://github.com/MiPrimerBitcoin) | Mi Primer Bitcoin El Salvador | El Salvador | 96 |
 | 20 | [davequinta](https://github.com/davequinta) | David Quintanilla | El Salvador | 95 |
 
-Generated: 2026-10-16T23:30:57.654Z
+Generated: 2026-10-17T01:21:25.142Z

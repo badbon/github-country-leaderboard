@@ -1,6 +1,6 @@
 # Followers - Bermuda
 
-Generated: 2026-10-16T23:11:55.090Z
+Generated: 2026-10-17T01:03:14.309Z
 
 Users: 898
 
@@ -12,7 +12,7 @@ Users: 898
 | 4 | [yaasuhiro](https://github.com/yaasuhiro) | naka | @USS-CALLISTER @angxlpraize ₊˚⊹ ᰔ ͟͟͞͞➳❥ bums ‧₊˚ ┊ (๑-﹏-๑) 𓂃 i ♡ all of my oomfs!! ˚₊‧꒰ა ✦ ໒꒱ ‧₊˚ i follow everyone back on my spam accs!!  ₊˚⊹♡  20+ dniuf  ִֶָpls  ഒ·˚ ⊹ ࣪ ˖ alt accs : @yasuhirohagakure @johnsoapmactavish @deartheodosia |  | danganronpa, hamilton, & cod areas.  ₊˚⊹ᰔ ask4insp ˖⁺‧₊˚✦  c+h heavily enc. ♡ im always offtab, pls w2i!! ಇ. dnc skins ꉂ(˵˃ ᗜ ˂˵)  | 272 |
 | 5 | [TOTBWF](https://github.com/TOTBWF) | Reed Mullanix | McMaster University |  | Hamilton, ON | 224 |
 | 6 | [drewminns](https://github.com/drewminns) | Drew Minns | @reallygoodwork |  | Hamilton | 219 |
-| 7 | [DesktopECHO](https://github.com/DesktopECHO) |  |  |  | Hamilton, Bermuda | 205 |
+| 7 | [DesktopECHO](https://github.com/DesktopECHO) |  |  |  | Hamilton, Bermuda | 206 |
 | 8 | [clintandrewhall](https://github.com/clintandrewhall) | Clint Andrew Hall | Elastic | clintandrewhall | Hamilton, ON | 199 |
 | 9 | [davidgrzyb](https://github.com/davidgrzyb) | David Grzyb | @worksitesafety |  | Hamilton, Ontario | 182 |
 | 10 | [jbfink](https://github.com/jbfink) | John Fink | McMaster University |  | Hamilton, Ontario | 174 |

@@ -12,8 +12,8 @@ Indexed users: 18
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [jah-ky](https://github.com/jah-ky) | Jackson | Port Vila (Vanuatu) | 469 |
-| 2 | [alfnitacoder](https://github.com/alfnitacoder) | AlffieGeorge | Port Vila | 179 |
+| 1 | [jah-ky](https://github.com/jah-ky) | Jackson | Port Vila (Vanuatu) | 468 |
+| 2 | [alfnitacoder](https://github.com/alfnitacoder) | AlffieGeorge | Port Vila | 184 |
 | 3 | [angeu4](https://github.com/angeu4) | Angelus Eutherius | Vanuatu | 5 |
 | 4 | [a-blu3](https://github.com/a-blu3) | A | Vanuatu | 0 |
 | 5 | [abanga851720](https://github.com/abanga851720) | Adrian Banga | Vanuatu | 0 |
@@ -35,8 +35,8 @@ Indexed users: 18
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [jah-ky](https://github.com/jah-ky) | Jackson | Port Vila (Vanuatu) | 469 |
-| 2 | [alfnitacoder](https://github.com/alfnitacoder) | AlffieGeorge | Port Vila | 179 |
+| 1 | [jah-ky](https://github.com/jah-ky) | Jackson | Port Vila (Vanuatu) | 468 |
+| 2 | [alfnitacoder](https://github.com/alfnitacoder) | AlffieGeorge | Port Vila | 184 |
 | 3 | [angeu4](https://github.com/angeu4) | Angelus Eutherius | Vanuatu | 5 |
 | 4 | [a-blu3](https://github.com/a-blu3) | A | Vanuatu | 0 |
 | 5 | [abanga851720](https://github.com/abanga851720) | Adrian Banga | Vanuatu | 0 |
@@ -77,4 +77,4 @@ Indexed users: 18
 | 17 | [VanuatuParliament](https://github.com/VanuatuParliament) | National Parliament of Vanuatu | Port-Vila, Vanuatu | 1 |
 | 18 | [Xenrob](https://github.com/Xenrob) | Jackson Robert | Vanuatu | 1 |
 
-Generated: 2026-10-16T23:00:46.302Z
+Generated: 2026-10-17T00:45:33.155Z

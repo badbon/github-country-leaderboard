@@ -1,6 +1,6 @@
 # Total Contributions - Gambia
 
-Generated: 2026-10-16T23:37:08.877Z
+Generated: 2026-10-17T01:27:33.932Z
 
 Users: 79
 
@@ -13,12 +13,12 @@ Users: 79
 | 5 | [laminbarrow](https://github.com/laminbarrow) | Lamin Barrow | LBarrow | laminbarrow | Bakoteh, Gambia | 1305 |
 | 6 | [ndimzKM](https://github.com/ndimzKM) | Alieu Ndimbalane |  | alieundimz | Gambia | 1300 |
 | 7 | [harunaabaldeh](https://github.com/harunaabaldeh) | Haruna A Baldeh | Kendesoft | farmerscoder | Banjul | 847 |
-| 8 | [Juniorbarry26](https://github.com/Juniorbarry26) | Alsainey Barry | Nafa Financial | fula_programmer | Gambia | 734 |
+| 8 | [Juniorbarry26](https://github.com/Juniorbarry26) | Alsainey Barry | Nafa Financial | fula_programmer | Gambia | 727 |
 | 9 | [almamarie](https://github.com/almamarie) | Louis Marie Atoluko Ayariga | African Commission on Human and Peoples' Rights | MarieLoumar | Banjul, The Gambia | 654 |
 | 10 | [geniuskidkanyi](https://github.com/geniuskidkanyi) | muhammed kanyi | Gcubed | ghostkanyi | Gambia | 628 |
 | 11 | [deedevs](https://github.com/deedevs) | David Ladipo |  | davy0417 | Banjul, The Gambia | 599 |
 | 12 | [gidavehub](https://github.com/gidavehub) | Godswill Iyke Dave |  | gidave_ | Banjul, The Gambia | 494 |
-| 13 | [bahsulayman689-hash](https://github.com/bahsulayman689-hash) | sulayman bah | NAN |  | Banjul | 413 |
+| 13 | [bahsulayman689-hash](https://github.com/bahsulayman689-hash) | sulayman bah | NAN |  | Banjul | 417 |
 | 14 | [kebba-philip](https://github.com/kebba-philip) | KEBBA NJIE |  |  | Gambia | 392 |
 | 15 | [JonMonday](https://github.com/JonMonday) | JohnMonday |  |  | Banjul, The Gambia | 259 |
 | 16 | [Baboucar](https://github.com/Baboucar) | Baboucarr |  |  | Gambia | 223 |

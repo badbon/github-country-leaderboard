@@ -1,6 +1,6 @@
 # Total Contributions - Timor-Leste
 
-Generated: 2026-10-16T22:55:30.537Z
+Generated: 2026-10-17T00:37:00.655Z
 
 Users: 77
 
@@ -8,9 +8,9 @@ Users: 77
 |---:|---|---|---|---|---|---:|
 | 1 | [joshbrooks](https://github.com/joshbrooks) | Joshua Brooks | @catalpainternational  |  | Dili, Timor-Leste | 10959 |
 | 2 | [Akokonunes](https://github.com/Akokonunes) | Roberto Nunes |  | 0x_Akoko | Timor-Leste | 2220 |
-| 3 | [Noro18](https://github.com/Noro18) | Ezequiel Vieira Gonzaga Macedo |  |  | Timor Leste  | 1685 |
+| 3 | [Noro18](https://github.com/Noro18) | Ezequiel Vieira Gonzaga Macedo |  |  | Timor Leste  | 1684 |
 | 4 | [marobo](https://github.com/marobo) | Onorio de Jesus Afonso | Catalpa International |  | Dili, East Timor | 1009 |
-| 5 | [abindacarmo](https://github.com/abindacarmo) | Brigida de Carvalho Carmo | UNTL |  | Timor-Leste | 831 |
+| 5 | [abindacarmo](https://github.com/abindacarmo) | Brigida de Carvalho Carmo | UNTL |  | Timor-Leste | 830 |
 | 6 | [zemalay](https://github.com/zemalay) | Geovannio Frederico de Jesus Vinhas | TIC TIMOR |  | Dili, Timor-Leste | 602 |
 | 7 | [ajitonelsonn](https://github.com/ajitonelsonn) | Ajito Nelson | Viettel Timor |  | Timor Leste | 407 |
 | 8 | [JabesNelma](https://github.com/JabesNelma) | Jay |  |  | Dili, Timor-Leste | 339 |
@@ -20,7 +20,7 @@ Users: 77
 | 12 | [adearanda](https://github.com/adearanda) | Aderito Aranda | Monte Academy |  | R. de Resistencia, Kuluhun, Dili Timor Leste | 156 |
 | 13 | [gabriel-de-jesus](https://github.com/gabriel-de-jesus) | Gabriel de Jesus | Timor News |  | Dili, Timor-Leste | 120 |
 | 14 | [Floren-pinto](https://github.com/Floren-pinto) | Florentino Pinto |  |  | Timor-Leste | 110 |
-| 15 | [KituDoutel](https://github.com/KituDoutel) | Francisco KiTu | Freelancer |  | Dili, Timor-Leste 🇹🇱 | 68 |
+| 15 | [KituDoutel](https://github.com/KituDoutel) | Francisco KiTu | Freelancer |  | Dili, Timor-Leste 🇹🇱 | 65 |
 | 16 | [timorleste](https://github.com/timorleste) | Degree Background: Information Management (Associate Degree), Information Systems (B.Comp.Sc), Information Technology (M.Eng). Certified Experience in Spatial intelligence, Interested in Photography, Audiovisual Archive and IT-Systems Architect |  | tonybehar | Dili, Timor-Leste | 41 |
 | 17 | [bmzashura](https://github.com/bmzashura) | Bemis Huntala |  |  | Dili, Timor Leste | 36 |
 | 18 | [axlescurial-lang](https://github.com/axlescurial-lang) | EVENSANTA |  |  | Timor-leste | 34 |

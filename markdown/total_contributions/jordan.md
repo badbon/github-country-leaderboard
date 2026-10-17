@@ -1,6 +1,6 @@
 # Total Contributions - Jordan
 
-Generated: 2026-10-16T23:46:59.700Z
+Generated: 2026-10-17T01:42:16.589Z
 
 Users: 4012
 
@@ -20,9 +20,9 @@ Users: 4012
 | 12 | [AliBakerSartawi](https://github.com/AliBakerSartawi) | Ali Baker Sartawi |  |  | Amman, Jordan | 5440 |
 | 13 | [shqear93](https://github.com/shqear93) | Khaled AbuShqear | Careem |  | Amman | 5377 |
 | 14 | [thisisabukarsh](https://github.com/thisisabukarsh) | AbdulRahman AbuKarsh |  |  | Jordan, Amman | 5292 |
-| 15 | [makkahwi](https://github.com/makkahwi) | Suhaib Ahmad | Several Brands |  | Amman, Jordan | 5271 |
-| 16 | [ahmadjubran](https://github.com/ahmadjubran) | Ahmad Jubran | eduArabia |  | Amman-Jordan | 5215 |
-| 17 | [waleedyaseen](https://github.com/waleedyaseen) | Waleed Yaseen |  |  | Jordan, Amman | 5150 |
-| 18 | [OsamaShwman](https://github.com/OsamaShwman) | Osama Shoman | String Education |  | Jordan | 5122 |
-| 19 | [DefinetlyNotAI](https://github.com/DefinetlyNotAI) | Shahm Najeeb |  |  | Jordan, Amman | 5114 |
-| 20 | [Ziadstr](https://github.com/Ziadstr) | Ziad Al Sharif | Viero |  | Amman, Jordan | 4810 |
+| 15 | [ahmadjubran](https://github.com/ahmadjubran) | Ahmad Jubran | eduArabia |  | Amman-Jordan | 5215 |
+| 16 | [waleedyaseen](https://github.com/waleedyaseen) | Waleed Yaseen |  |  | Jordan, Amman | 5150 |
+| 17 | [OsamaShwman](https://github.com/OsamaShwman) | Osama Shoman | String Education |  | Jordan | 5122 |
+| 18 | [DefinetlyNotAI](https://github.com/DefinetlyNotAI) | Shahm Najeeb |  |  | Jordan, Amman | 5114 |
+| 19 | [Ziadstr](https://github.com/Ziadstr) | Ziad Al Sharif | Viero |  | Amman, Jordan | 4810 |
+| 20 | [Ti-03](https://github.com/Ti-03) | Qutibah Ananzeh |  |  | Amman, Jordan | 4785 |

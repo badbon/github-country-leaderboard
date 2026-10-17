@@ -17,7 +17,7 @@ Indexed users: 254
 | 3 | [SatriaSuriaAriffin](https://github.com/SatriaSuriaAriffin) | Satria Suria | Brunei | 2,910 |
 | 4 | [akasmirhan4](https://github.com/akasmirhan4) | Amirrul Kasmirhan | Brunei | 2,276 |
 | 5 | [fatinjulaihi](https://github.com/fatinjulaihi) | Fatin Julaihi | Brunei | 1,183 |
-| 6 | [OmarDST](https://github.com/OmarDST) | Omar Ibrahim | Brunei | 1,039 |
+| 6 | [OmarDST](https://github.com/OmarDST) | Omar Ibrahim | Brunei | 1,025 |
 | 7 | [abizarleman](https://github.com/abizarleman) | Abizar Leman | Brunei Darussalam | 1,024 |
 | 8 | [hilmishah](https://github.com/hilmishah) | Hilmi Shah | Brunei | 896 |
 | 9 | [KaramelBytes](https://github.com/KaramelBytes) | Jeremiah Henning | Brunei Darussalam | 833 |
@@ -47,8 +47,8 @@ Indexed users: 254
 | 8 | [syahnur197](https://github.com/syahnur197) | Syahnur Nizam | Brunei | 110 |
 | 9 | [lmwnshn](https://github.com/lmwnshn) | Wan Shen Lim | San Francisco, CA \| Brunei | 108 |
 | 10 | [Zylioth](https://github.com/Zylioth) | Muhammad Amir Sabrin bin Mohamad Ali | Brunei | 108 |
-| 11 | [amirulmenjeni](https://github.com/amirulmenjeni) | Amirul Menjeni | Brunei Darussalam | 103 |
-| 12 | [PenguinMiaou](https://github.com/PenguinMiaou) | PenguinMiaou | Brunei Darussalam | 103 |
+| 11 | [PenguinMiaou](https://github.com/PenguinMiaou) | PenguinMiaou | Brunei Darussalam | 105 |
+| 12 | [amirulmenjeni](https://github.com/amirulmenjeni) | Amirul Menjeni | Brunei Darussalam | 103 |
 | 13 | [wafeeyhm](https://github.com/wafeeyhm) | Wafeey HM | Brunei Darussalam | 101 |
 | 14 | [jailanihar](https://github.com/jailanihar) | Jailani Abdul Rahman | Brunei Darussalam | 73 |
 | 15 | [nathanielcwm](https://github.com/nathanielcwm) | Nathaniel | Brunei | 71 |
@@ -83,4 +83,4 @@ Indexed users: 254
 | 19 | [nathanielcwm](https://github.com/nathanielcwm) | Nathaniel | Brunei | 14 |
 | 20 | [affenrahim88](https://github.com/affenrahim88) | Affandy Abdul Rahim | Brunei Darussalam | 13 |
 
-Generated: 2026-10-16T23:14:18.976Z
+Generated: 2026-10-17T01:07:28.565Z

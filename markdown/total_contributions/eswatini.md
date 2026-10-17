@@ -1,6 +1,6 @@
 # Total Contributions - Eswatini
 
-Generated: 2026-10-16T23:32:35.107Z
+Generated: 2026-10-17T01:23:35.325Z
 
 Users: 108
 
@@ -12,7 +12,7 @@ Users: 108
 | 4 | [CBahtaria](https://github.com/CBahtaria) | Charles Bartaria | BRT Inc. |  | Manzini, Kingdom of Eswatini | 1007 |
 | 5 | [mayo23-06-02](https://github.com/mayo23-06-02) | Mayo | Razonetix Eswatini |  | Eswatini | 702 |
 | 6 | [Dwaynemaster007](https://github.com/Dwaynemaster007) | Thubelihle Dlamini |  |  | Eswatini | 461 |
-| 7 | [SakhileMamba](https://github.com/SakhileMamba) | Sakhile Mamba |  |  | Eswatini | 365 |
+| 7 | [SakhileMamba](https://github.com/SakhileMamba) | Sakhile Mamba |  |  | Eswatini | 369 |
 | 8 | [Dalubuhle-Dlamini](https://github.com/Dalubuhle-Dlamini) | Sihlelo Dalubuhle Dlamini |  |  | Swaziland | 332 |
 | 9 | [kingMasombuka](https://github.com/kingMasombuka) | Senzo Ncongwane |  |  | Swaziland | 284 |
 | 10 | [wandilemawelela](https://github.com/wandilemawelela) | Wandile Mawelela | Intuition | wandilemawelel | Manzini, Eswatini | 254 |

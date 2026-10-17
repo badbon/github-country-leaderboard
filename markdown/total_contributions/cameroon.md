@@ -1,6 +1,6 @@
 # Total Contributions - Cameroon
 
-Generated: 2026-10-16T23:17:54.520Z
+Generated: 2026-10-17T01:10:54.617Z
 
 Users: 1799
 
@@ -24,5 +24,5 @@ Users: 1799
 | 16 | [OkonoWil](https://github.com/OkonoWil) | Okono Wilfried | @WeTell-Africa  @JEUNESMENTORS | OkonoWilfried | Douala,Cameroon | 6014 |
 | 17 | [itzomen](https://github.com/itzomen) | Peng Boris Akebuon | Traleor | itz_omen | Buea, Cameroon | 5598 |
 | 18 | [koatiromeo](https://github.com/koatiromeo) | koatiromeo | koatiromeo | koatiromeo | Cameroon | 5266 |
-| 19 | [dark-matter08](https://github.com/dark-matter08) | Nde Lucien | @Ntopor-Social  | dark_matter08 | Buea, Cameroon | 5241 |
-| 20 | [ussfranck](https://github.com/ussfranck) | Franck Mekoulou | @DorsetCompany |  | District 7 Of Yaoundé, CM | 5087 |
+| 19 | [ussfranck](https://github.com/ussfranck) | Franck Mekoulou |  |  | District 7 Of Yaoundé, CM | 5255 |
+| 20 | [dark-matter08](https://github.com/dark-matter08) | Nde Lucien | @Ntopor-Social  | dark_matter08 | Buea, Cameroon | 5241 |

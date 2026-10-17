@@ -62,7 +62,7 @@ Indexed users: 1,274
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [trevoirwilliams](https://github.com/trevoirwilliams) | Trevoir Williams | Jamaica | 1,469 |
+| 1 | [trevoirwilliams](https://github.com/trevoirwilliams) | Trevoir Williams | Jamaica | 1,471 |
 | 2 | [jed](https://github.com/jed) | Jed Schmidt | Kingston, NY | 1,147 |
 | 3 | [quirkey](https://github.com/quirkey) | Aaron Quint | Kingston, NY | 542 |
 | 4 | [tiannaparris](https://github.com/tiannaparris) | Tianna Parris | Jamaica | 301 |
@@ -83,4 +83,4 @@ Indexed users: 1,274
 | 19 | [aliasad059](https://github.com/aliasad059) | Ali Asad | Kingston, Ontario | 100 |
 | 20 | [jordanliu](https://github.com/jordanliu) | Jordan Liu | Kingston, Jamaica | 95 |
 
-Generated: 2026-10-16T23:46:53.453Z
+Generated: 2026-10-17T01:40:50.644Z

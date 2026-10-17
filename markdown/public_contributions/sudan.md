@@ -1,14 +1,14 @@
 # Public Contributions - Sudan
 
-Generated: 2026-10-16T21:53:22.079Z
+Generated: 2026-10-17T00:33:11.011Z
 
 Users: 727
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [oovaa](https://github.com/oovaa) | Omar  | SMAfrica | Omarvx211 | Sudan | 1244 |
-| 2 | [MoAnwer](https://github.com/MoAnwer) | Mohamed Anwer |  |  | sudan, kassala | 1190 |
-| 3 | [daoudtajeldeinn-png](https://github.com/daoudtajeldeinn-png) | Daoud Tajeldeinn Ahmed | Sudanese Chemical Industeis  |  | sudan -khartoum | 1184 |
+| 1 | [MoAnwer](https://github.com/MoAnwer) | Mohamed Anwer |  |  | sudan, kassala | 1190 |
+| 2 | [daoudtajeldeinn-png](https://github.com/daoudtajeldeinn-png) | Daoud Tajeldeinn Ahmed | Sudanese Chemical Industeis  |  | sudan -khartoum | 1184 |
+| 3 | [oovaa](https://github.com/oovaa) | Omar  | SMAfrica | Omarvx211 | Sudan | 1130 |
 | 4 | [star4droid](https://github.com/star4droid) | Star4Droid  |  |  | Sudan | 943 |
 | 5 | [alilibx](https://github.com/alilibx) | Ali Alhashimi | Penstash | alilibx | Sudan | 861 |
 | 6 | [adonese](https://github.com/adonese) | Mohamed Yousif | EEBAX | _adonese | Sudan, Khartoum | 812 |

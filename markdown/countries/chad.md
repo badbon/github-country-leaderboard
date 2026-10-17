@@ -29,7 +29,7 @@ Indexed users: 201
 | 15 | [Mbaigo](https://github.com/Mbaigo) | Evrard | N'Djamena | 117 |
 | 16 | [Debeing](https://github.com/Debeing) | MBAITEL-AM MBAINAISSEM ERIC | Tchad | 103 |
 | 17 | [BenjosMB235](https://github.com/BenjosMB235) | MBAIRAM BENJAMIN BEASSOUM | N'djaména-Tchad | 89 |
-| 18 | [OumarChabakaOusmane](https://github.com/OumarChabakaOusmane) | oumar chabaka ousmane | Tchad | 86 |
+| 18 | [OumarChabakaOusmane](https://github.com/OumarChabakaOusmane) | oumar chabaka ousmane | Tchad | 84 |
 | 19 | [Muffinlavania](https://github.com/Muffinlavania) | Cristian S | chad | 60 |
 | 20 | [jethro-dev235](https://github.com/jethro-dev235) | BAOLEDJI DINGAM JETHRO | N'djamena | 57 |
 
@@ -83,4 +83,4 @@ Indexed users: 201
 | 19 | [sulzokeboulin](https://github.com/sulzokeboulin) | Norma Brown | West Joshuaburgh, Chad | 8 |
 | 20 | [Floppinqq](https://github.com/Floppinqq) | Floppinqq | chad | 7 |
 
-Generated: 2026-10-16T23:21:12.345Z
+Generated: 2026-10-17T01:12:09.701Z

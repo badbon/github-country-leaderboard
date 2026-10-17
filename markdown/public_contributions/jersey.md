@@ -1,6 +1,6 @@
 # Public Contributions - Jersey
 
-Generated: 2026-10-16T23:46:57.415Z
+Generated: 2026-10-17T01:41:12.309Z
 
 Users: 139
 
@@ -25,4 +25,4 @@ Users: 139
 | 17 | [Adrian609](https://github.com/Adrian609) | Adrian |  |  | Jersey | 131 |
 | 18 | [shiaoligreen](https://github.com/shiaoligreen) | Shiao-li Green |  | shiao_li | Jersey, Channel Islands | 118 |
 | 19 | [JoshCollis](https://github.com/JoshCollis) | Josh Collis | Newtel Limited |  | Jersey | 105 |
-| 20 | [jde](https://github.com/jde) | David Erwin | RollDeep | daviderwin | New [York, Jersey] | 93 |
+| 20 | [jde](https://github.com/jde) | David Erwin | RollDeep | daviderwin | New [York, Jersey] | 91 |

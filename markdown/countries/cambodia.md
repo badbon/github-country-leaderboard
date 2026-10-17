@@ -1,6 +1,6 @@
 # Cambodia
 
-Indexed users: 2,866
+Indexed users: 2,865
 
 | Leaderboard | Link |
 |---|---|
@@ -64,8 +64,8 @@ Indexed users: 2,866
 |---:|---|---|---|---:|
 | 1 | [DJ-Raven](https://github.com/DJ-Raven) | Raven Laing | Cambodia | 1,204 |
 | 2 | [Chensokheng](https://github.com/Chensokheng) | Chensokheng | Cambodia | 966 |
-| 3 | [kosalgeek](https://github.com/kosalgeek) | KosalGeek | Phnom Penh, Cambodia | 483 |
-| 4 | [seanghay](https://github.com/seanghay) | Seanghay Yath | Cambodia | 394 |
+| 3 | [kosalgeek](https://github.com/kosalgeek) | KosalGeek | Phnom Penh, Cambodia | 485 |
+| 4 | [seanghay](https://github.com/seanghay) | Seanghay Yath | Cambodia | 408 |
 | 5 | [Kampotboy](https://github.com/Kampotboy) | Sothach Ly | Kampot, Cambodia | 393 |
 | 6 | [sisovin](https://github.com/sisovin) | Chieng Sisovin | Cambodia | 391 |
 | 7 | [invisal](https://github.com/invisal) | Visal .In | Cambodia | 367 |
@@ -83,4 +83,4 @@ Indexed users: 2,866
 | 19 | [0x1iii1ii](https://github.com/0x1iii1ii) | liiseng | Cambodia | 128 |
 | 20 | [samchanpanha](https://github.com/samchanpanha) | samchanpanha | Phnom Penh | 119 |
 
-Generated: 2026-10-16T23:16:34.364Z
+Generated: 2026-10-17T01:10:34.662Z

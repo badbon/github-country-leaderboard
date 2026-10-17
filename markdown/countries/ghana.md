@@ -56,7 +56,7 @@ Indexed users: 7,092
 | 17 | [collinsasante](https://github.com/collinsasante) | Collins Asante | Accra, Ghana | 2,420 |
 | 18 | [dominicnaatey](https://github.com/dominicnaatey) | Dominic Naatey | Accra | 2,387 |
 | 19 | [nyaabaaugustine-hue](https://github.com/nyaabaaugustine-hue) | Cyber | Accra | 2,294 |
-| 20 | [lankyghana](https://github.com/lankyghana) | Daniel Kwadwo Takyi | Accra Ghana | 2,176 |
+| 20 | [Willow7737](https://github.com/Willow7737) | Epigone | Accra, Ghana | 2,293 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 7,092
 | 19 | [Mmabiaa](https://github.com/Mmabiaa) | Boateng Prince Agyenim | Ghana | 326 |
 | 20 | [sedegah](https://github.com/sedegah) | Kimathi  Sedegah | Ghana | 310 |
 
-Generated: 2026-10-16T23:37:11.515Z
+Generated: 2026-10-17T01:28:59.719Z

@@ -12,7 +12,7 @@ Indexed users: 236
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [carlswann](https://github.com/carlswann) | Carl Swann | Freeport, Bahamas | 23,371 |
+| 1 | [carlswann](https://github.com/carlswann) | Carl Swann | Freeport, Bahamas | 23,507 |
 | 2 | [zoejessica](https://github.com/zoejessica) | Zoë Smith | Bahamas / Canada | 3,347 |
 | 3 | [dbraganca](https://github.com/dbraganca) | dbraganca | Bahamas | 3,316 |
 | 4 | [bondjacobbond](https://github.com/bondjacobbond) | Jacob Bond | Casino Royale, Nassau, Bahamas | 3,069 |
@@ -26,7 +26,7 @@ Indexed users: 236
 | 12 | [Tec4Sho](https://github.com/Tec4Sho) | Ziona | Nassau, Bahamas  | 890 |
 | 13 | [Johndiddles](https://github.com/Johndiddles) | Johndiddles | Nassau, Bahamas | 819 |
 | 14 | [TerryJG](https://github.com/TerryJG) | Terrance | Nassau, Bahamas | 749 |
-| 15 | [Clearwood](https://github.com/Clearwood) |  | Bahamas | 735 |
+| 15 | [Clearwood](https://github.com/Clearwood) |  | Bahamas | 736 |
 | 16 | [dorson755](https://github.com/dorson755) | Dorson Williams | Nassau Bahamas | 726 |
 | 17 | [mikepadiernos](https://github.com/mikepadiernos) | Mike Padiernos | Nassau County, NY | 564 |
 | 18 | [nhayling](https://github.com/nhayling) | Noah Hayling | Nassau, The Bahamas | 550 |
@@ -65,7 +65,7 @@ Indexed users: 236
 | 1 | [PingPaid](https://github.com/PingPaid) | PingPaid  | Nassau, Bahamas | 104 |
 | 2 | [zoejessica](https://github.com/zoejessica) | Zoë Smith | Bahamas / Canada | 100 |
 | 3 | [Clearwood](https://github.com/Clearwood) |  | Bahamas | 88 |
-| 4 | [mikkqu](https://github.com/mikkqu) | Mikhail Kalashnikov | Nassau, Bahamas | 62 |
+| 4 | [mikkqu](https://github.com/mikkqu) | Mikhail Kalashnikov | Nassau, Bahamas | 63 |
 | 5 | [btcwoot](https://github.com/btcwoot) | btcwoot | bahamas | 50 |
 | 6 | [mikepadiernos](https://github.com/mikepadiernos) | Mike Padiernos | Nassau County, NY | 39 |
 | 7 | [Johndiddles](https://github.com/Johndiddles) | Johndiddles | Nassau, Bahamas | 37 |
@@ -83,4 +83,4 @@ Indexed users: 236
 | 19 | [paulcitarella](https://github.com/paulcitarella) | Paul Citarella | George Town, Bahamas | 15 |
 | 20 | [yemix](https://github.com/yemix) |  | Bahamas | 14 |
 
-Generated: 2026-10-16T23:09:32.243Z
+Generated: 2026-10-17T00:57:00.045Z

@@ -22,8 +22,8 @@ Indexed users: 460
 | 8 | [AntoineSebert](https://github.com/AntoineSebert) | Antoine Sébert | Antarctica | 4,776 |
 | 9 | [Sup2point0](https://github.com/Sup2point0) | Sup#2.0 | Antarctica | 4,616 |
 | 10 | [bharxhav](https://github.com/bharxhav) | Bhargav Kantheti | antarctica | 4,217 |
-| 11 | [Rayrsn](https://github.com/Rayrsn) | Rayr | Antarctica | 3,987 |
-| 12 | [cutetux](https://github.com/cutetux) | CuteTux | Antarctica ;) | 3,885 |
+| 11 | [cutetux](https://github.com/cutetux) | CuteTux | Antarctica ;) | 4,073 |
+| 12 | [Rayrsn](https://github.com/Rayrsn) | Rayr | Antarctica | 3,987 |
 | 13 | [enriquephl](https://github.com/enriquephl) |  | Antarctica | 3,477 |
 | 14 | [ethicnology](https://github.com/ethicnology) | Azad | Antarctica | 3,305 |
 | 15 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Antarctica | 3,250 |
@@ -83,4 +83,4 @@ Indexed users: 460
 | 19 | [alphaaurigae](https://github.com/alphaaurigae) | Marian Brockerhoff | Antarctica | 86 |
 | 20 | [fakeid30](https://github.com/fakeid30) | Fake ID | Antarctica | 78 |
 
-Generated: 2026-10-16T23:06:23.895Z
+Generated: 2026-10-17T00:51:55.553Z

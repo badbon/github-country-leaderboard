@@ -18,7 +18,7 @@ Indexed users: 132
 | 4 | [riek27](https://github.com/riek27) | Riek Gatluak Geka Reat | Juba, South sudan | 3,236 |
 | 5 | [puoch1of1](https://github.com/puoch1of1) | Puoch Mabor Makuei  | South Sudan | 1,007 |
 | 6 | [felixuxx](https://github.com/felixuxx) | ... | Juba, South Sudan | 811 |
-| 7 | [Konson22](https://github.com/Konson22) | Kon Akech | South Sudan | 765 |
+| 7 | [Konson22](https://github.com/Konson22) | Kon Akech | South Sudan | 771 |
 | 8 | [wellawet](https://github.com/wellawet) | Wella Awet | South Sudan | 625 |
 | 9 | [AchukCodeMaster](https://github.com/AchukCodeMaster) | Johnson Achuk | Juba, South Sudan | 611 |
 | 10 | [WANI12](https://github.com/WANI12) | wani geoffrey | Juba, South Sudan | 529 |
@@ -54,7 +54,7 @@ Indexed users: 132
 | 15 | [Yel-Mangok](https://github.com/Yel-Mangok) |  | South Sudan | 271 |
 | 16 | [felixuxx](https://github.com/felixuxx) | ... | Juba, South Sudan | 268 |
 | 17 | [Wai-Mike](https://github.com/Wai-Mike) | Wai Michael Kat | South Sudan | 261 |
-| 18 | [Konson22](https://github.com/Konson22) | Kon Akech | South Sudan | 232 |
+| 18 | [Konson22](https://github.com/Konson22) | Kon Akech | South Sudan | 238 |
 | 19 | [joseph-akaro](https://github.com/joseph-akaro) | Joseph Akaro | Juba | 212 |
 | 20 | [Ibrahim-Lbib](https://github.com/Ibrahim-Lbib) | Ibrahim Labib | Juba, South - Sudan | 178 |
 
@@ -83,4 +83,4 @@ Indexed users: 132
 | 19 | [Amalsouthsudan23](https://github.com/Amalsouthsudan23) | AMAL South Sudan | South Sudan | 15 |
 | 20 | [Drago-cod](https://github.com/Drago-cod) | Drago Samuel Jared | Juba, South Sudan | 15 |
 
-Generated: 2026-10-16T21:53:14.499Z
+Generated: 2026-10-17T00:33:03.670Z

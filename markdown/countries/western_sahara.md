@@ -12,7 +12,7 @@ Indexed users: 5
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [suzuya1331](https://github.com/suzuya1331) | Hassan mansour | Laayoune, Western Sahara | 5,934 |
+| 1 | [suzuya1331](https://github.com/suzuya1331) | Hassan mansour | Laayoune, Western Sahara | 5,918 |
 | 2 | [ob-aion](https://github.com/ob-aion) | OB | Western Sahara | 1,129 |
 | 3 | [Omebran](https://github.com/Omebran) |  | East Annaton, Western Sahara | 15 |
 | 4 | [Agaoudi](https://github.com/Agaoudi) | Mohamed Elamine Gaoudi | Western Sahara | 0 |
@@ -23,7 +23,7 @@ Indexed users: 5
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [ob-aion](https://github.com/ob-aion) | OB | Western Sahara | 660 |
-| 2 | [suzuya1331](https://github.com/suzuya1331) | Hassan mansour | Laayoune, Western Sahara | 26 |
+| 2 | [suzuya1331](https://github.com/suzuya1331) | Hassan mansour | Laayoune, Western Sahara | 25 |
 | 3 | [Omebran](https://github.com/Omebran) |  | East Annaton, Western Sahara | 15 |
 | 4 | [Agaoudi](https://github.com/Agaoudi) | Mohamed Elamine Gaoudi | Western Sahara | 0 |
 | 5 | [LevKotly](https://github.com/LevKotly) | Lev | Laayoune, Western Sahara | 0 |
@@ -38,4 +38,4 @@ Indexed users: 5
 | 4 | [Omebran](https://github.com/Omebran) |  | East Annaton, Western Sahara | 5 |
 | 5 | [LevKotly](https://github.com/LevKotly) | Lev | Laayoune, Western Sahara | 1 |
 
-Generated: 2026-10-16T23:00:57.147Z
+Generated: 2026-10-17T00:47:25.351Z

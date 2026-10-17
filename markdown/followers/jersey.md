@@ -1,6 +1,6 @@
 # Followers - Jersey
 
-Generated: 2026-10-16T23:46:57.415Z
+Generated: 2026-10-17T01:41:12.309Z
 
 Users: 139
 
@@ -13,7 +13,7 @@ Users: 139
 | 5 | [techtribesje](https://github.com/techtribesje) | techtribes.je |  |  | Jersey, Channel Islands | 55 |
 | 6 | [CJ-Jackson](https://github.com/CJ-Jackson) | Christopher John Jackson | Sephora UK | MrCJJackson | St. Clement, Jersey | 47 |
 | 7 | [Adrian609](https://github.com/Adrian609) | Adrian |  |  | Jersey | 45 |
-| 8 | [cappadona](https://github.com/cappadona) | Nick Cappadona | @anaconda |  | Jersey | 39 |
+| 8 | [cappadona](https://github.com/cappadona) | Nick Cappadona | @anaconda |  | Jersey | 38 |
 | 9 | [nunnsy](https://github.com/nunnsy) | Daniel Nunns |  |  | Jersey, Channel Islands | 38 |
 | 10 | [j4ckxyz](https://github.com/j4ckxyz) | jack |  |  | Jersey, UK | 36 |
 | 11 | [oidz1234](https://github.com/oidz1234) | Mark McNally |  | mark_mcnally_je | Jersey | 34 |

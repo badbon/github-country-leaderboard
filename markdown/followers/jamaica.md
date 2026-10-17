@@ -1,12 +1,12 @@
 # Followers - Jamaica
 
-Generated: 2026-10-16T23:46:53.453Z
+Generated: 2026-10-17T01:40:50.644Z
 
 Users: 1274
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [trevoirwilliams](https://github.com/trevoirwilliams) | Trevoir Williams |  | trevoirwilliams | Jamaica | 1469 |
+| 1 | [trevoirwilliams](https://github.com/trevoirwilliams) | Trevoir Williams |  | trevoirwilliams | Jamaica | 1471 |
 | 2 | [jed](https://github.com/jed) | Jed Schmidt |  |  | Kingston, NY | 1147 |
 | 3 | [quirkey](https://github.com/quirkey) | Aaron Quint | Heroku  |  | Kingston, NY | 542 |
 | 4 | [tiannaparris](https://github.com/tiannaparris) | Tianna Parris |  |  | Jamaica | 301 |

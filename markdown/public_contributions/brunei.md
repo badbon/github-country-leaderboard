@@ -1,6 +1,6 @@
 # Public Contributions - Brunei
 
-Generated: 2026-10-16T23:14:18.976Z
+Generated: 2026-10-17T01:07:28.565Z
 
 Users: 254
 
@@ -16,8 +16,8 @@ Users: 254
 | 8 | [syahnur197](https://github.com/syahnur197) | Syahnur Nizam |  | syahnur197 | Brunei | 110 |
 | 9 | [lmwnshn](https://github.com/lmwnshn) | Wan Shen Lim |  |  | San Francisco, CA \| Brunei | 108 |
 | 10 | [Zylioth](https://github.com/Zylioth) | Muhammad Amir Sabrin bin Mohamad Ali | Brunei University of Technology |  | Brunei | 108 |
-| 11 | [amirulmenjeni](https://github.com/amirulmenjeni) | Amirul Menjeni | Brunei Shell Petroleum |  | Brunei Darussalam | 103 |
-| 12 | [PenguinMiaou](https://github.com/PenguinMiaou) | PenguinMiaou |  |  | Brunei Darussalam | 103 |
+| 11 | [PenguinMiaou](https://github.com/PenguinMiaou) | PenguinMiaou |  |  | Brunei Darussalam | 105 |
+| 12 | [amirulmenjeni](https://github.com/amirulmenjeni) | Amirul Menjeni | Brunei Shell Petroleum |  | Brunei Darussalam | 103 |
 | 13 | [wafeeyhm](https://github.com/wafeeyhm) | Wafeey HM |  |  | Brunei Darussalam | 101 |
 | 14 | [jailanihar](https://github.com/jailanihar) | Jailani Abdul Rahman |  |  | Brunei Darussalam | 73 |
 | 15 | [nathanielcwm](https://github.com/nathanielcwm) | Nathaniel |  |  | Brunei | 71 |

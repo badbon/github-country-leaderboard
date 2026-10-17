@@ -1,6 +1,6 @@
 # Total Contributions - Isle of Man
 
-Generated: 2026-10-16T23:45:24.032Z
+Generated: 2026-10-17T01:40:19.334Z
 
 Users: 155
 
@@ -10,11 +10,11 @@ Users: 155
 | 2 | [auberryberry](https://github.com/auberryberry) | Aubrey Stearn | @AuBerryBerry | auberryberry | Isle of Man | 10160 |
 | 3 | [bengris32](https://github.com/bengris32) | Ben |  |  | Isle of Man | 8497 |
 | 4 | [darrenbarklie](https://github.com/darrenbarklie) | Darren Barklie | @craftapplied | dazdotdev | Isle of Man | 4519 |
-| 5 | [tekminewe](https://github.com/tekminewe) | Ewe Tek Min |  |  | Isle of Man | 3528 |
+| 5 | [tekminewe](https://github.com/tekminewe) | Ewe Tek Min |  |  | Isle of Man | 3533 |
 | 6 | [dive](https://github.com/dive) | Artem Loenko |  | justsitandgrin | Isle of Man | 2160 |
 | 7 | [oliciv](https://github.com/oliciv) | Oli Allen |  |  | Isle of Man | 2000 |
 | 8 | [lukawarren](https://github.com/lukawarren) | Luka Warren |  |  | Isle of Man | 1911 |
-| 9 | [craigiswayne](https://github.com/craigiswayne) | Craig Wayne | @uroc-studios | craigiswayne | Isle of Man | 1855 |
+| 9 | [craigiswayne](https://github.com/craigiswayne) | Craig Wayne | @uroc-studios | craigiswayne | Isle of Man | 1861 |
 | 10 | [PerpetualBeta](https://github.com/PerpetualBeta) | Jonathan M. Hollin |  |  | Douglas, Isle of Man | 1710 |
 | 11 | [thomas-coldwell](https://github.com/thomas-coldwell) | Thomas Coldwell | Infinium | thomas_iom | Isle of Man | 1678 |
 | 12 | [ceottaki](https://github.com/ceottaki) | Felipe Ceotto |  |  | Isle of Man | 1630 |
@@ -24,5 +24,5 @@ Users: 155
 | 16 | [Gwiilo](https://github.com/Gwiilo) | Gwilo |  |  | Isle of Man | 1213 |
 | 17 | [allantrabuco](https://github.com/allantrabuco) | Allan Trabuco |  |  | Isle of Man | 1211 |
 | 18 | [mattwilson02](https://github.com/mattwilson02) | Matt Wilson |  |  | Isle of Man | 1122 |
-| 19 | [dannmat](https://github.com/dannmat) | Matt Ward |  |  | Isle of Man | 1059 |
-| 20 | [AshLeece](https://github.com/AshLeece) | Ash Leece |  |  | Isle of Man | 1041 |
+| 19 | [dannmat](https://github.com/dannmat) | Matt Ward |  |  | Isle of Man | 1060 |
+| 20 | [AshLeece](https://github.com/AshLeece) | Ash Leece |  |  | Isle of Man | 1045 |

@@ -23,14 +23,14 @@ Indexed users: 898
 | 9 | [keithbrink](https://github.com/keithbrink) | Keith Brink | Hamilton, ON | 6,550 |
 | 10 | [danielsdeboer](https://github.com/danielsdeboer) | Daniel S. Deboer | Hamilton, Ontario | 6,305 |
 | 11 | [mattgrande](https://github.com/mattgrande) | Matt Grande | Hamilton, Ontario | 6,051 |
-| 12 | [Noprop](https://github.com/Noprop) | Greg Forster | Hamilton | 5,990 |
+| 12 | [Noprop](https://github.com/Noprop) | Greg Forster | Hamilton | 6,029 |
 | 13 | [nckdhl](https://github.com/nckdhl) | Nick Dahl | Hamilton | 5,625 |
 | 14 | [rdaum](https://github.com/rdaum) | Ryan Daum | Hamilton, Ontario | 5,130 |
 | 15 | [dbactual](https://github.com/dbactual) | Dave Berton | Bermuda | 4,946 |
 | 16 | [lbrgriffith](https://github.com/lbrgriffith) | L. B. Ricardo Griffith | Hamilton, Bermuda | 4,556 |
 | 17 | [grantlucas](https://github.com/grantlucas) | Grant Lucas | Hamilton, Ontario | 4,359 |
 | 18 | [osamaaamer95](https://github.com/osamaaamer95) | Osama Aamer | Hamilton, NZ | 4,349 |
-| 19 | [izzudin96](https://github.com/izzudin96) | Izzudin Anuar | Hamilton | 4,204 |
+| 19 | [izzudin96](https://github.com/izzudin96) | Izzudin Anuar | Hamilton | 4,336 |
 | 20 | [adriand](https://github.com/adriand) | Adrian Duyzer | Hamilton, Ontario | 4,143 |
 
 ## Public Contributions
@@ -50,7 +50,7 @@ Indexed users: 898
 | 11 | [kadgitub7](https://github.com/kadgitub7) | Kadhir Ponnambalam | Hamilton Ontario | 893 |
 | 12 | [obeabi](https://github.com/obeabi) | David_Abiola_Obembe | Hamilton, Ontario | 866 |
 | 13 | [nvelden](https://github.com/nvelden) |  | Hamilton, Bermuda | 818 |
-| 14 | [DesktopECHO](https://github.com/DesktopECHO) |  | Hamilton, Bermuda | 781 |
+| 14 | [DesktopECHO](https://github.com/DesktopECHO) |  | Hamilton, Bermuda | 798 |
 | 15 | [clintandrewhall](https://github.com/clintandrewhall) | Clint Andrew Hall | Hamilton, ON | 710 |
 | 16 | [AymenS02](https://github.com/AymenS02) | Aymen Shoteri | Hamilton, Ontario | 598 |
 | 17 | [bjornbasar](https://github.com/bjornbasar) | Bjorn Christian Basar | Hamilton | 562 |
@@ -68,7 +68,7 @@ Indexed users: 898
 | 4 | [yaasuhiro](https://github.com/yaasuhiro) | naka | danganronpa, hamilton, & cod areas.  ₊˚⊹ᰔ ask4insp ˖⁺‧₊˚✦  c+h heavily enc. ♡ im always offtab, pls w2i!! ಇ. dnc skins ꉂ(˵˃ ᗜ ˂˵)  | 272 |
 | 5 | [TOTBWF](https://github.com/TOTBWF) | Reed Mullanix | Hamilton, ON | 224 |
 | 6 | [drewminns](https://github.com/drewminns) | Drew Minns | Hamilton | 219 |
-| 7 | [DesktopECHO](https://github.com/DesktopECHO) |  | Hamilton, Bermuda | 205 |
+| 7 | [DesktopECHO](https://github.com/DesktopECHO) |  | Hamilton, Bermuda | 206 |
 | 8 | [clintandrewhall](https://github.com/clintandrewhall) | Clint Andrew Hall | Hamilton, ON | 199 |
 | 9 | [davidgrzyb](https://github.com/davidgrzyb) | David Grzyb | Hamilton, Ontario | 182 |
 | 10 | [jbfink](https://github.com/jbfink) | John Fink | Hamilton, Ontario | 174 |
@@ -83,4 +83,4 @@ Indexed users: 898
 | 19 | [feilongcheng](https://github.com/feilongcheng) | Felix | Hamilton, NZ | 85 |
 | 20 | [wittjosiah](https://github.com/wittjosiah) | Josiah Witt | Hamilton, ON | 67 |
 
-Generated: 2026-10-16T23:11:55.090Z
+Generated: 2026-10-17T01:03:14.309Z

@@ -1,18 +1,18 @@
 # Followers - Tajikistan
 
-Generated: 2026-10-16T22:54:16.825Z
+Generated: 2026-10-17T00:36:52.202Z
 
 Users: 709
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [abdullokhonz](https://github.com/abdullokhonz) | Abdullokhon Ghaibulloev | CEO at @google & @microsoft | abdullokhonz | Khujand, Tajikistan | 428 |
+| 1 | [abdullokhonz](https://github.com/abdullokhonz) | Abdullokhon Ghaibulloev | CEO at @google & @microsoft | abdullokhonz | Khujand, Tajikistan | 427 |
 | 2 | [RahimovAbdurahmon](https://github.com/RahimovAbdurahmon) |  | Soft Club |  | Tajikistan, Dushanbe | 226 |
 | 3 | [jahongirholmatov](https://github.com/jahongirholmatov) | Jahongir |  |  | Khujand, Tajikistan | 176 |
 | 4 | [AzamBayzaev](https://github.com/AzamBayzaev) | Azam |  |  | Khujand, Tajikistan | 173 |
 | 5 | [Thexasan](https://github.com/Thexasan) | Husenov Hasan  | Ayon Smart Solutions |  | Tajikistan, Dushanbe | 140 |
 | 6 | [Amsurur](https://github.com/Amsurur) | Muhammadsurur Abdulloev | Softclub , RowTech |  | Dushanbe | 133 |
-| 7 | [faridun-dev](https://github.com/faridun-dev) | Faridun Fatkhullozoda |  JŅŔ FTech |  | Dushanbe, Tajikistan | 114 |
+| 7 | [faridun-dev](https://github.com/faridun-dev) | Faridun Fatkhullozoda |  JŅŔ FTech |  | Dushanbe, Tajikistan | 113 |
 | 8 | [Abubakr7](https://github.com/Abubakr7) | Abubakr Juraev | Oriyonbonk |  | Dushanbe Tajikistan | 102 |
 | 9 | [khaydarov](https://github.com/khaydarov) | Murod Khaydarov | @codex-team |  | Dushanbe, Tajikistan | 86 |
 | 10 | [AED11](https://github.com/AED11) | Akhmetov Eraj | Home |  | Tajikistan Dushanbe | 80 |
