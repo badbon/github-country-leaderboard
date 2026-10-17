@@ -28770,7 +28770,7 @@
     "location": "Nelson Mandela Drive, Mthatha Campus, Eastern Cape, South Africa",
     "company": "Walter Sisulu University",
     "twitterUsername": "dave__daniel",
-    "followers": 8,
+    "followers": 9,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-01-17T12:47:02Z"
@@ -28782,9 +28782,9 @@
     "location": "Pretoria, South Africa",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 450,
-    "publicContributions": 27,
+    "followers": 9,
+    "privateContributions": 457,
+    "publicContributions": 8,
     "createdAt": "2023-05-31T13:07:52Z"
   },
   {
@@ -28795,8 +28795,8 @@
     "company": "Plum Systems",
     "twitterUsername": "hades_on_napalm",
     "followers": 8,
-    "privateContributions": 193,
-    "publicContributions": 279,
+    "privateContributions": 235,
+    "publicContributions": 273,
     "createdAt": "2023-03-12T10:55:37Z"
   },
   {
@@ -28807,20 +28807,20 @@
     "company": "",
     "twitterUsername": "mellow_mokoen",
     "followers": 8,
-    "privateContributions": 23,
-    "publicContributions": 0,
+    "privateContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2023-05-16T20:33:42Z"
   },
   {
     "login": "Topsy2003Turvey",
     "name": "Stéfan Driaan Turvey",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/137085607?s=72&u=2716a655862c1ff730913b3e2b9d1b1a784ee385&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/137085607?s=72&u=9e409a65c7049d7e271393ed9e3aed84d5c90a60&v=4",
     "location": "South Africa",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 50,
+    "publicContributions": 79,
     "createdAt": "2023-06-19T14:41:28Z"
   },
   {
@@ -28867,7 +28867,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 43,
+    "privateContributions": 37,
     "publicContributions": 56,
     "createdAt": "2023-01-16T14:39:39Z"
   },
@@ -28878,7 +28878,7 @@
     "location": "Durban , KwaZulu-Natal , South Africa ",
     "company": "Trade & Investment KwaZulu-Natal",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 13,
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2023-02-13T03:39:50Z"
@@ -28903,8 +28903,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 4,
-    "publicContributions": 302,
+    "privateContributions": 5,
+    "publicContributions": 255,
     "createdAt": "2023-03-09T07:12:36Z"
   },
   {
@@ -28915,8 +28915,8 @@
     "company": "wethinkcode_Student",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 105,
-    "publicContributions": 79,
+    "privateContributions": 166,
+    "publicContributions": 140,
     "createdAt": "2023-04-01T11:50:03Z"
   },
   {
@@ -28926,7 +28926,7 @@
     "location": "South Africa",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-04-02T19:55:07Z"
@@ -28958,13 +28958,13 @@
   {
     "login": "EC-Prime",
     "name": "Emmanuel Chuma",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/129880258?s=72&u=0ebeba3fdf504475a6f18bd19eff42f113044136&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/129880258?s=72&u=5d2096cfba6baafe16b6eeb255d28357b9f06fab&v=4",
     "location": "South Africa, Johannesburg",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 143,
+    "publicContributions": 239,
     "createdAt": "2023-04-04T15:42:36Z"
   },
   {
@@ -28986,9 +28986,9 @@
     "location": "South Africa",
     "company": "Vylex",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 36,
-    "publicContributions": 1017,
+    "followers": 9,
+    "privateContributions": 99,
+    "publicContributions": 1555,
     "createdAt": "2023-04-04T18:00:17Z"
   },
   {
@@ -29000,7 +29000,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 30,
     "createdAt": "2023-04-07T18:30:50Z"
   },
   {
@@ -215170,5 +215170,17 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-06-29T19:38:58Z"
+  },
+  {
+    "login": "ErnestKapesa",
+    "name": "Ernest Kapesa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/32816871?s=72&u=d49be7dd1268f5829fab4736da00837a45cdc559&v=4",
+    "location": "South Africa",
+    "company": "Agririgo",
+    "twitterUsername": "ernestsalac",
+    "followers": 17,
+    "privateContributions": 150,
+    "publicContributions": 140,
+    "createdAt": "2017-10-15T14:34:19Z"
   }
 ]

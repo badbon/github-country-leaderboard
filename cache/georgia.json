@@ -29202,9 +29202,9 @@
     "location": "Batumi",
     "company": "International FinTech",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 155,
-    "publicContributions": 293,
+    "followers": 3,
+    "privateContributions": 161,
+    "publicContributions": 280,
     "createdAt": "2021-09-25T14:33:26Z"
   },
   {
@@ -29216,7 +29216,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 8,
     "createdAt": "2021-10-24T17:47:06Z"
   },
   {
@@ -29240,7 +29240,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 7,
     "createdAt": "2021-06-08T18:52:44Z"
   },
   {
@@ -29264,7 +29264,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2021-01-01T11:03:02Z"
   },
   {
@@ -29274,22 +29274,10 @@
     "location": "Pyatigorsk, Krasnodar, Stavropol, Batumi, Tbilisi",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-04-15T22:00:26Z"
-  },
-  {
-    "login": "otoGT",
-    "name": "oto1980",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/91826998?s=72&u=d14b4b45d8d3c12ec80becc4c48b02f507883f17&v=4",
-    "location": "Kutaisi",
-    "company": "none",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2021-10-03T10:12:59Z"
   },
   {
     "login": "jomarja",
@@ -29300,7 +29288,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 12,
     "createdAt": "2021-10-17T14:28:37Z"
   },
   {
@@ -29322,7 +29310,7 @@
     "location": "Tbilisi",
     "company": "",
     "twitterUsername": "",
-    "followers": 244,
+    "followers": 243,
     "privateContributions": 0,
     "publicContributions": 17,
     "createdAt": "2021-10-23T09:15:23Z"
@@ -29334,9 +29322,9 @@
     "location": "Tbilisi",
     "company": "LLC LOGICSELL",
     "twitterUsername": "",
-    "followers": 47,
+    "followers": 50,
     "privateContributions": 136,
-    "publicContributions": 64,
+    "publicContributions": 30,
     "createdAt": "2021-12-19T20:24:25Z"
   },
   {
@@ -29358,22 +29346,10 @@
     "location": "Tbilisi",
     "company": "",
     "twitterUsername": "",
-    "followers": 29,
+    "followers": 28,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2021-02-12T15:56:23Z"
-  },
-  {
-    "login": "gkosach",
-    "name": "German Kosach",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/86929830?s=72&u=40a03ac33deffcaf6e6cfc1f33999eea8ee2ab0f&v=4",
-    "location": "Tbilisi, GE",
-    "company": "duckbyte",
-    "twitterUsername": "spacylion",
-    "followers": 25,
-    "privateContributions": 334,
-    "publicContributions": 218,
-    "createdAt": "2021-07-04T19:30:16Z"
   },
   {
     "login": "LukaBabunadze",
@@ -29384,19 +29360,19 @@
     "twitterUsername": "",
     "followers": 22,
     "privateContributions": 0,
-    "publicContributions": 147,
+    "publicContributions": 157,
     "createdAt": "2021-02-25T13:48:49Z"
   },
   {
     "login": "kuzminxyz",
-    "name": "Dmitry Kuzmin",
+    "name": "Dmitrii Kuzmin",
     "avatarUrl": "https://avatars.githubusercontent.com/u/82306830?s=72&u=e27ab28d0f2727b8b8c773613f183a3119fa6122&v=4",
     "location": "Tbilisi",
-    "company": "",
+    "company": "1inch.com",
     "twitterUsername": "kuzmindmitry0x",
-    "followers": 22,
+    "followers": 23,
     "privateContributions": 12,
-    "publicContributions": 312,
+    "publicContributions": 322,
     "createdAt": "2021-04-11T07:07:37Z"
   },
   {

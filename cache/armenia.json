@@ -29168,7 +29168,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2017-07-31T07:56:13Z"
   },
   {
@@ -29179,7 +29179,7 @@
     "company": "@mutable ",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 21,
+    "privateContributions": 1096,
     "publicContributions": 8,
     "createdAt": "2017-06-06T09:29:15Z"
   },
@@ -29190,7 +29190,7 @@
     "location": "Armenia",
     "company": "Synopsys Inc.",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-09-17T18:11:36Z"
@@ -29203,8 +29203,8 @@
     "company": "CAST@RAU",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 244,
-    "publicContributions": 7,
+    "privateContributions": 425,
+    "publicContributions": 10,
     "createdAt": "2017-07-15T19:25:11Z"
   },
   {
@@ -29221,7 +29221,7 @@
   },
   {
     "login": "har17bar",
-    "name": "Harut ",
+    "name": "Harutyun Barseghyan",
     "avatarUrl": "https://avatars.githubusercontent.com/u/26884501?s=72&v=4",
     "location": "Armenia",
     "company": "",
@@ -29238,9 +29238,9 @@
     "location": "Armenia, Artsakh, Stepanakert",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 639,
-    "publicContributions": 42,
+    "followers": 5,
+    "privateContributions": 601,
+    "publicContributions": 193,
     "createdAt": "2017-06-13T20:54:18Z"
   },
   {
@@ -29254,18 +29254,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-07-26T09:46:20Z"
-  },
-  {
-    "login": "geek-sajjad",
-    "name": "Sajad Sohrabi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/30924359?s=72&u=b24cec8f1cb6c698690567c4644e992c61e60828&v=4",
-    "location": "Yerevan, Armenia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 239,
-    "publicContributions": 71,
-    "createdAt": "2017-08-11T08:41:01Z"
   },
   {
     "login": "TeamXArmenia",
@@ -29299,8 +29287,8 @@
     "company": "Hystax",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 952,
-    "publicContributions": 148,
+    "privateContributions": 1031,
+    "publicContributions": 126,
     "createdAt": "2017-10-22T18:05:06Z"
   },
   {
@@ -29312,19 +29300,19 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 28,
     "createdAt": "2017-03-24T09:05:19Z"
   },
   {
     "login": "arm092",
-    "name": "Arman",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/26311312?s=72&u=789cbf31825ec202528e3567546269799d920d7c&v=4",
+    "name": "Armando",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/26311312?s=72&u=22a3b312d689fef5b1a6c4806b4c0f3666a55796&v=4",
     "location": "Yerevan, Armenia",
-    "company": "Apricode LLC",
+    "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 127,
+    "publicContributions": 442,
     "createdAt": "2017-03-09T20:20:57Z"
   },
   {
@@ -29335,7 +29323,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 1089,
+    "privateContributions": 1134,
     "publicContributions": 0,
     "createdAt": "2017-06-03T14:53:40Z"
   },
@@ -29360,7 +29348,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 2,
     "createdAt": "2017-05-15T10:27:49Z"
   },
   {
@@ -29370,9 +29358,9 @@
     "location": "Yerevan, Armenia",
     "company": "GuideMe",
     "twitterUsername": "sargismk",
-    "followers": 4,
-    "privateContributions": 1115,
-    "publicContributions": 4,
+    "followers": 5,
+    "privateContributions": 1576,
+    "publicContributions": 0,
     "createdAt": "2017-07-13T11:34:23Z"
   },
   {
@@ -29384,7 +29372,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 26,
     "createdAt": "2017-01-16T12:42:09Z"
   },
   {

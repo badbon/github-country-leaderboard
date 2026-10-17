@@ -28578,7 +28578,7 @@
     "location": "Ankara",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-08-12T12:46:42Z"
@@ -28592,7 +28592,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 1,
     "createdAt": "2025-01-09T08:05:41Z"
   },
   {
@@ -28616,7 +28616,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 11,
     "createdAt": "2025-08-24T15:09:38Z"
   },
   {
@@ -28628,7 +28628,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 42,
+    "publicContributions": 41,
     "createdAt": "2025-09-17T07:33:36Z"
   },
   {
@@ -28640,7 +28640,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 7,
     "createdAt": "2025-09-20T08:45:18Z"
   },
   {
@@ -28652,7 +28652,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 2,
     "createdAt": "2025-09-16T06:32:29Z"
   },
   {
@@ -28676,20 +28676,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 47,
+    "publicContributions": 31,
     "createdAt": "2025-10-02T16:32:10Z"
-  },
-  {
-    "login": "ta2jam",
-    "name": "Oğuzhan İnce",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/239969319?s=72&u=4059eb44a786242edb0cebff8e413a4ed72dad25&v=4",
-    "location": "Ankara, Turkiye",
-    "company": "Internet Company",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 110,
-    "publicContributions": 78,
-    "createdAt": "2025-10-24T09:51:06Z"
   },
   {
     "login": "Ozanibs",
@@ -28724,7 +28712,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 21,
     "createdAt": "2025-01-10T18:36:14Z"
   },
   {
@@ -28746,9 +28734,9 @@
     "location": "Ankara, Turkiye",
     "company": "TOBB ETÜ",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 30,
+    "publicContributions": 42,
     "createdAt": "2025-06-07T10:15:02Z"
   },
   {
@@ -28760,13 +28748,13 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-10-10T11:56:24Z"
   },
   {
     "login": "osman06061",
     "name": "Osman Ülger",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/203011382?s=72&u=f52005855920202bad318f089017167c6cd0a84a&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/203011382?s=72&u=fb030315585d4ede8cce16abf4080796e947b99c&v=4",
     "location": "Ankara",
     "company": "",
     "twitterUsername": "",
@@ -28795,7 +28783,7 @@
     "company": "Vorforge Grup Electronics",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 181,
+    "privateContributions": 538,
     "publicContributions": 1,
     "createdAt": "2025-10-22T06:45:45Z"
   },
@@ -950170,5 +950158,17 @@
     "privateContributions": 0,
     "publicContributions": 8,
     "createdAt": "2026-06-28T16:21:02Z"
+  },
+  {
+    "login": "geek-sajjad",
+    "name": "Sajad Sohrabi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/30924359?s=72&u=b24cec8f1cb6c698690567c4644e992c61e60828&v=4",
+    "location": "Istanbul, Turkey",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 200,
+    "publicContributions": 135,
+    "createdAt": "2017-08-11T08:41:01Z"
   }
 ]

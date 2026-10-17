@@ -29035,7 +29035,7 @@
     "company": "Trilogic GmbH",
     "twitterUsername": "",
     "followers": 45,
-    "privateContributions": 1328,
+    "privateContributions": 1574,
     "publicContributions": 1,
     "createdAt": "2022-02-10T19:30:11Z"
   },
@@ -29048,7 +29048,7 @@
     "twitterUsername": "tmsdkeys",
     "followers": 30,
     "privateContributions": 0,
-    "publicContributions": 119,
+    "publicContributions": 2,
     "createdAt": "2022-02-01T09:09:27Z"
   },
   {
@@ -29058,9 +29058,9 @@
     "location": "Vienna",
     "company": "die-spengergasse",
     "twitterUsername": "",
-    "followers": 29,
+    "followers": 31,
     "privateContributions": 0,
-    "publicContributions": 3597,
+    "publicContributions": 4440,
     "createdAt": "2022-10-09T16:26:06Z"
   },
   {
@@ -29071,8 +29071,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 27,
-    "privateContributions": 21,
-    "publicContributions": 1,
+    "privateContributions": 46,
+    "publicContributions": 0,
     "createdAt": "2022-03-10T20:54:59Z"
   },
   {
@@ -29084,7 +29084,7 @@
     "twitterUsername": "",
     "followers": 26,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2022-06-26T20:02:13Z"
   },
   {
@@ -29096,7 +29096,7 @@
     "twitterUsername": "",
     "followers": 23,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 5,
     "createdAt": "2022-05-09T06:50:51Z"
   },
   {
@@ -29106,7 +29106,7 @@
     "location": "Vienna",
     "company": "",
     "twitterUsername": "",
-    "followers": 23,
+    "followers": 24,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-03-07T09:40:32Z"
@@ -29118,22 +29118,10 @@
     "location": "Vienna",
     "company": "",
     "twitterUsername": "martinmkostov",
-    "followers": 21,
-    "privateContributions": 504,
-    "publicContributions": 8,
+    "followers": 25,
+    "privateContributions": 425,
+    "publicContributions": 6,
     "createdAt": "2022-09-07T11:48:17Z"
-  },
-  {
-    "login": "StefanPenchev05",
-    "name": "Stefan Penchev",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/107648556?s=72&u=0f5ed1674d357e6bcfd592f979170ea01c7f9a3d&v=4",
-    "location": "Vienna",
-    "company": "",
-    "twitterUsername": "StefanPenc05",
-    "followers": 19,
-    "privateContributions": 484,
-    "publicContributions": 261,
-    "createdAt": "2022-06-16T19:55:31Z"
   },
   {
     "login": "floheid98",
@@ -29166,9 +29154,9 @@
     "location": "Vienna",
     "company": "Sklera GmbH",
     "twitterUsername": "David_Ihl",
-    "followers": 18,
-    "privateContributions": 317,
-    "publicContributions": 6,
+    "followers": 17,
+    "privateContributions": 356,
+    "publicContributions": 7,
     "createdAt": "2022-08-24T09:52:18Z"
   },
   {
@@ -29178,7 +29166,7 @@
     "location": "Vienna",
     "company": "",
     "twitterUsername": "",
-    "followers": 18,
+    "followers": 20,
     "privateContributions": 0,
     "publicContributions": 133,
     "createdAt": "2022-10-26T13:11:49Z"
@@ -29194,18 +29182,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-01-09T19:22:13Z"
-  },
-  {
-    "login": "LukaMucko",
-    "name": "Luka Mucko",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/103285277?s=72&u=c9aac282a40727e263c6aeb676435fa02b2c49f2&v=4",
-    "location": "Vienna",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 17,
-    "privateContributions": 1858,
-    "publicContributions": 66,
-    "createdAt": "2022-04-08T19:42:23Z"
   },
   {
     "login": "CodingClubVienna",
@@ -29238,9 +29214,9 @@
     "location": "Vienna",
     "company": "Red Hat",
     "twitterUsername": "",
-    "followers": 17,
+    "followers": 22,
     "privateContributions": 0,
-    "publicContributions": 41,
+    "publicContributions": 28,
     "createdAt": "2022-11-07T19:28:03Z"
   },
   {
@@ -29251,8 +29227,8 @@
     "company": "@proxmox",
     "twitterUsername": "",
     "followers": 16,
-    "privateContributions": 80,
-    "publicContributions": 78,
+    "privateContributions": 365,
+    "publicContributions": 135,
     "createdAt": "2022-09-27T18:21:06Z"
   },
   {
@@ -29264,7 +29240,7 @@
     "twitterUsername": "OSAgarim",
     "followers": 16,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 21,
     "createdAt": "2022-11-12T22:47:37Z"
   },
   {

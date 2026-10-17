@@ -29048,7 +29048,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 2,
-    "publicContributions": 7,
+    "publicContributions": 3,
     "createdAt": "2025-09-28T16:47:16Z"
   },
   {
@@ -29072,7 +29072,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 16,
     "createdAt": "2025-10-24T19:12:31Z"
   },
   {
@@ -29082,9 +29082,9 @@
     "location": "Egypt/Cairo",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 17,
     "createdAt": "2025-10-25T12:02:25Z"
   },
   {
@@ -29096,7 +29096,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 78,
+    "publicContributions": 91,
     "createdAt": "2025-11-19T20:00:21Z"
   },
   {
@@ -29108,7 +29108,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 163,
+    "publicContributions": 207,
     "createdAt": "2025-10-22T21:35:33Z"
   },
   {
@@ -29118,9 +29118,9 @@
     "location": "egypt",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 21,
     "createdAt": "2025-10-18T14:13:43Z"
   },
   {
@@ -29144,7 +29144,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 62,
+    "publicContributions": 91,
     "createdAt": "2025-12-05T13:36:14Z"
   },
   {
@@ -29154,7 +29154,7 @@
     "location": "Cairo, Egypt",
     "company": "Egypt's University of Informatics",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 11,
     "createdAt": "2025-11-04T11:31:38Z"
@@ -29168,20 +29168,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 77,
     "createdAt": "2025-12-17T17:37:09Z"
-  },
-  {
-    "login": "edrisoso",
-    "name": "Mohamed Idris",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/236067124?s=72&u=da2425bbeeaf3838660f5e683894c9af69b20768&v=4",
-    "location": "Alexandria, Egypt",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 60,
-    "createdAt": "2025-10-04T14:24:42Z"
   },
   {
     "login": "ahmeeddemaad",
@@ -29190,9 +29178,9 @@
     "location": "Cairo, Egypt",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 63,
     "createdAt": "2025-10-29T23:06:59Z"
   },
   {
@@ -29202,9 +29190,9 @@
     "location": "EGYPT",
     "company": "NTI",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 411,
+    "publicContributions": 446,
     "createdAt": "2025-10-27T21:09:27Z"
   },
   {
@@ -29214,7 +29202,7 @@
     "location": "Alexandria, Egypt",
     "company": "Pharos University",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 38,
     "createdAt": "2025-11-26T07:28:37Z"
@@ -409222,5 +409210,17 @@
     "privateContributions": 17676,
     "publicContributions": 65,
     "createdAt": "2019-11-04T15:04:59Z"
+  },
+  {
+    "login": "doaam4255-lab",
+    "name": "Doaa Mohamed",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298806107?s=72&u=1ab7e8d521bb508488adf7b4e35975e24ccc6277&v=4",
+    "location": "Cairo,Egept",
+    "company": "Data Analysis Trainee at Digilians",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 20,
+    "createdAt": "2026-07-01T17:07:13Z"
   }
 ]

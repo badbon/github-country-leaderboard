@@ -1354891,7 +1354891,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 34,
-    "privateContributions": 22615,
+    "privateContributions": 22618,
     "publicContributions": 3,
     "createdAt": "2013-02-27T13:51:34Z"
   },
@@ -1380043,7 +1380043,7 @@
     "company": "Arcnovus",
     "twitterUsername": "",
     "followers": 327,
-    "privateContributions": 7828,
+    "privateContributions": 7851,
     "publicContributions": 136,
     "createdAt": "2013-07-06T04:27:19Z"
   },
@@ -1425406,5 +1425406,17 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-07-21T05:12:00Z"
+  },
+  {
+    "login": "LukaMucko",
+    "name": "Luka Mucko",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/103285277?s=72&u=c9aac282a40727e263c6aeb676435fa02b2c49f2&v=4",
+    "location": "Toronto",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 18,
+    "privateContributions": 1892,
+    "publicContributions": 68,
+    "createdAt": "2022-04-08T19:42:23Z"
   }
 ]
