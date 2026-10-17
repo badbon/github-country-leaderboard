@@ -1,6 +1,6 @@
 # Public Contributions - Paraguay
 
-Generated: 2026-10-17T19:51:50.601Z
+Generated: 2026-10-17T21:18:44.230Z
 
 Users: 2014
 
@@ -18,11 +18,11 @@ Users: 2014
 | 10 | [raczajko](https://github.com/raczajko) | Raúl Aguiar Czajkowski | Secretaría Técnica de Planificación del Desarrollo Económico y Social | raczajko | Paraguay | 1644 |
 | 11 | [ciroiriarte](https://github.com/ciroiriarte) | Ciro Iriarte |  | ciroiriarte | Paraguay | 1384 |
 | 12 | [nikdim03](https://github.com/nikdim03) | Dmitrii Nikulin | TON Foundation |  | Paraguay | 1349 |
-| 13 | [oscar0pavon](https://github.com/oscar0pavon) | Oscar Pavon | pavon.com.py |  | Paraguay | 1269 |
-| 14 | [m2f0](https://github.com/m2f0) | Mario Mayerle | @INOSX  |  | Paraguay/USA | 1086 |
-| 15 | [cardozoaldama](https://github.com/cardozoaldama) | Fernando Cardozo |  |  | Paraguay | 980 |
-| 16 | [Renetrox](https://github.com/Renetrox) | Dino René Caballero Marquez |  |  | Paraguay | 971 |
-| 17 | [janparkio](https://github.com/janparkio) | Jan Park | LeadWise (PL EAS) @leadwisepro  | janparkio | Paraguay | 966 |
-| 18 | [matiasinsaurralde](https://github.com/matiasinsaurralde) | Matías Insaurralde | Chainloop, Inc. |  | Paraguay | 931 |
-| 19 | [da21nny](https://github.com/da21nny) | Edgar Vega |  |  | Paraguay | 906 |
-| 20 | [isaias-alt](https://github.com/isaias-alt) | Lucas Isaias Casco |  | lucascodev | Paraguay | 892 |
+| 13 | [isaias-alt](https://github.com/isaias-alt) | Lucas Isaias Casco |  | lucascodev | Paraguay | 1325 |
+| 14 | [oscar0pavon](https://github.com/oscar0pavon) | Oscar Pavon | pavon.com.py |  | Paraguay | 1269 |
+| 15 | [m2f0](https://github.com/m2f0) | Mario Mayerle | @INOSX  |  | Paraguay/USA | 1086 |
+| 16 | [cardozoaldama](https://github.com/cardozoaldama) | Fernando Cardozo |  |  | Paraguay | 980 |
+| 17 | [Renetrox](https://github.com/Renetrox) | Dino René Caballero Marquez |  |  | Paraguay | 971 |
+| 18 | [janparkio](https://github.com/janparkio) | Jan Park | LeadWise (PL EAS) @leadwisepro  | janparkio | Paraguay | 966 |
+| 19 | [matiasinsaurralde](https://github.com/matiasinsaurralde) | Matías Insaurralde | Chainloop, Inc. |  | Paraguay | 931 |
+| 20 | [da21nny](https://github.com/da21nny) | Edgar Vega |  |  | Paraguay | 906 |

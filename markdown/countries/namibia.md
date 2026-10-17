@@ -20,7 +20,7 @@ Indexed users: 475
 | 6 | [asenmwa](https://github.com/asenmwa) | Asen Mwandemele | Windhoek, Namibia | 6,118 |
 | 7 | [rvs1257](https://github.com/rvs1257) | Rudi Steinbach | Namibia | 6,062 |
 | 8 | [axelmukwena](https://github.com/axelmukwena) | Axel Mukwena | Namibia | 5,223 |
-| 9 | [frans-nekongo](https://github.com/frans-nekongo) | frans nekongo | namibia,Africa | 4,538 |
+| 9 | [frans-nekongo](https://github.com/frans-nekongo) | frans nekongo | namibia,Africa | 4,532 |
 | 10 | [holgarkotze-commits](https://github.com/holgarkotze-commits) | STITCH WORX INC. | NAMIBIA | 3,611 |
 | 11 | [codezilla91](https://github.com/codezilla91) | Leon CodeZilla Matota | Namibia, Windhoek | 3,176 |
 | 12 | [rtonata88](https://github.com/rtonata88) | Richard Chambula | Windhoek, Namibia | 2,924 |
@@ -75,7 +75,7 @@ Indexed users: 475
 | 11 | [aaron-muti-420](https://github.com/aaron-muti-420) | Aaron Markus | windhoek | 56 |
 | 12 | [douglasmasho](https://github.com/douglasmasho) | Douglas Mashonganyika | Windhoek | 51 |
 | 13 | [Amunwe-ENE](https://github.com/Amunwe-ENE) | Erastus Amunwe | Windhoek, Namibia | 45 |
-| 14 | [euricodande](https://github.com/euricodande) | Eurico Dande | Namibia-Windhoek | 44 |
+| 14 | [euricodande](https://github.com/euricodande) | Eurico Dande | Namibia-Windhoek | 43 |
 | 15 | [KuberKode](https://github.com/KuberKode) | Johan Strydom | Windhoek, Namibia | 41 |
 | 16 | [SelmaNdapanda](https://github.com/SelmaNdapanda) | Selma Hamutenya | Windhoek, Namibia | 41 |
 | 17 | [ShifidiMetumoN](https://github.com/ShifidiMetumoN) | ShifidiM | Windhoek | 39 |
@@ -83,4 +83,4 @@ Indexed users: 475
 | 19 | [Hilya02](https://github.com/Hilya02) | Hilya Ntinda Tuyakula | Windhoek, Namibia | 36 |
 | 20 | [erassynathingo](https://github.com/erassynathingo) | Erastus Nathingo | Windhoek | 33 |
 
-Generated: 2026-10-17T19:44:27.390Z
+Generated: 2026-10-17T21:11:40.726Z

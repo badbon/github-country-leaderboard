@@ -1,8 +1,8 @@
 # Followers - Nepal
 
-Generated: 2026-10-17T19:44:59.415Z
+Generated: 2026-10-17T21:12:38.044Z
 
-Users: 14113
+Users: 14111
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

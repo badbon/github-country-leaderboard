@@ -49,14 +49,14 @@ Indexed users: 2,014
 | 10 | [raczajko](https://github.com/raczajko) | Raúl Aguiar Czajkowski | Paraguay | 1,644 |
 | 11 | [ciroiriarte](https://github.com/ciroiriarte) | Ciro Iriarte | Paraguay | 1,384 |
 | 12 | [nikdim03](https://github.com/nikdim03) | Dmitrii Nikulin | Paraguay | 1,349 |
-| 13 | [oscar0pavon](https://github.com/oscar0pavon) | Oscar Pavon | Paraguay | 1,269 |
-| 14 | [m2f0](https://github.com/m2f0) | Mario Mayerle | Paraguay/USA | 1,086 |
-| 15 | [cardozoaldama](https://github.com/cardozoaldama) | Fernando Cardozo | Paraguay | 980 |
-| 16 | [Renetrox](https://github.com/Renetrox) | Dino René Caballero Marquez | Paraguay | 971 |
-| 17 | [janparkio](https://github.com/janparkio) | Jan Park | Paraguay | 966 |
-| 18 | [matiasinsaurralde](https://github.com/matiasinsaurralde) | Matías Insaurralde | Paraguay | 931 |
-| 19 | [da21nny](https://github.com/da21nny) | Edgar Vega | Paraguay | 906 |
-| 20 | [isaias-alt](https://github.com/isaias-alt) | Lucas Isaias Casco | Paraguay | 892 |
+| 13 | [isaias-alt](https://github.com/isaias-alt) | Lucas Isaias Casco | Paraguay | 1,325 |
+| 14 | [oscar0pavon](https://github.com/oscar0pavon) | Oscar Pavon | Paraguay | 1,269 |
+| 15 | [m2f0](https://github.com/m2f0) | Mario Mayerle | Paraguay/USA | 1,086 |
+| 16 | [cardozoaldama](https://github.com/cardozoaldama) | Fernando Cardozo | Paraguay | 980 |
+| 17 | [Renetrox](https://github.com/Renetrox) | Dino René Caballero Marquez | Paraguay | 971 |
+| 18 | [janparkio](https://github.com/janparkio) | Jan Park | Paraguay | 966 |
+| 19 | [matiasinsaurralde](https://github.com/matiasinsaurralde) | Matías Insaurralde | Paraguay | 931 |
+| 20 | [da21nny](https://github.com/da21nny) | Edgar Vega | Paraguay | 906 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 2,014
 | 19 | [metakeule](https://github.com/metakeule) | metakeule | Asunción / Paraguay | 109 |
 | 20 | [replay](https://github.com/replay) | Mauro Stettler | Asuncion, Paraguay | 105 |
 
-Generated: 2026-10-17T19:51:50.601Z
+Generated: 2026-10-17T21:18:44.230Z

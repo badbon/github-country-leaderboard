@@ -1,6 +1,6 @@
 # Malta
 
-Indexed users: 1,225
+Indexed users: 1,224
 
 | Leaderboard | Link |
 |---|---|
@@ -27,7 +27,7 @@ Indexed users: 1,225
 | 13 | [angusgee](https://github.com/angusgee) | Angus Girvan | Malta | 8,219 |
 | 14 | [KimSpecht](https://github.com/KimSpecht) | Kim Pedersen | Malta | 7,618 |
 | 15 | [m2ximus](https://github.com/m2ximus) | max—os | Malta | 7,610 |
-| 16 | [iko2000](https://github.com/iko2000) | Iviko Shengelia | Malta | 7,327 |
+| 16 | [iko2000](https://github.com/iko2000) | Iviko Shengelia | Malta | 7,210 |
 | 17 | [ksazid](https://github.com/ksazid) | Sazid | Malta | 6,244 |
 | 18 | [mzaharenkov](https://github.com/mzaharenkov) | Mikhail Zakharenkov | Malta | 5,805 |
 | 19 | [seanellul](https://github.com/seanellul) | Sean Ellul | Malta | 5,628 |
@@ -83,4 +83,4 @@ Indexed users: 1,225
 | 19 | [mattcg](https://github.com/mattcg) | Matthew Caruana Galizia | Malta | 126 |
 | 20 | [CM2Walki](https://github.com/CM2Walki) | Walki | Malta | 118 |
 
-Generated: 2026-10-17T19:39:33.664Z
+Generated: 2026-10-17T21:05:49.199Z

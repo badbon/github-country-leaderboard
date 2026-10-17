@@ -1,6 +1,6 @@
 # Total Contributions - Malawi
 
-Generated: 2026-10-17T19:38:26.446Z
+Generated: 2026-10-17T21:03:13.294Z
 
 Users: 901
 
@@ -11,14 +11,14 @@ Users: 901
 | 3 | [calmwalija](https://github.com/calmwalija) | Comfort Mwalija |  |  | Malawi, Lilongwe | 7501 |
 | 4 | [PatienceBond](https://github.com/PatienceBond) | Patience Isaiah Nyirenda | FindLink |  | Malawi, Africa | 6721 |
 | 5 | [madzalo](https://github.com/madzalo) | Resten Madzalo |  |  | Malawi | 6002 |
-| 6 | [CliffordMarley](https://github.com/CliffordMarley) | Clifford P. Mwale | Maziko Financial Technologies Limited |  | Area 47, Lilongwe, Malawi | 5767 |
+| 6 | [CliffordMarley](https://github.com/CliffordMarley) | Clifford P. Mwale | Maziko Financial Technologies Limited |  | Area 47, Lilongwe, Malawi | 5835 |
 | 7 | [jones-blackwell](https://github.com/jones-blackwell) | Jones Blackwell | Global Health Informatics Institute  |  | Lilongwe, Malawi | 5565 |
 | 8 | [mcleanka](https://github.com/mcleanka) | Mclean Kasambala | Zonse247 |  | Malawi, Lilongwe | 5434 |
 | 9 | [M2KDevelopments](https://github.com/M2KDevelopments) | M2K Dev | M2K Developments | DevelopmentsM2k | Malawi | 4940 |
 | 10 | [hopekali04](https://github.com/hopekali04) | Hope Kalitera |  |  | Blantyre, Malawi | 4779 |
 | 11 | [ColonelBlimp](https://github.com/ColonelBlimp) | ColonelBlimp |  |  | Mzuzu, Malawi | 4723 |
 | 12 | [prow57](https://github.com/prow57) | Immanuel Bester | iMoSyS |  | Malawi | 4176 |
-| 13 | [dominickasanga](https://github.com/dominickasanga) | Dominic Kasanga |  |  | Mzuzu, Malawi | 4050 |
+| 13 | [dominickasanga](https://github.com/dominickasanga) | Dominic Kasanga |  |  | Mzuzu, Malawi | 4053 |
 | 14 | [Frank5ive](https://github.com/Frank5ive) | Frank Gondwe |  | FrankGondwe11 | Malawi | 3614 |
 | 15 | [petroskayange](https://github.com/petroskayange) | Petros Kayange | @Kuunika @LUKEINTERNATIONAL @EGPAFMalawiHIS @HISMalawi @DoxDevOps  |  | Malawi | 3571 |
 | 16 | [KhoTheProgrammer](https://github.com/KhoTheProgrammer) | Kondwani Padyera | Self |  | Malawi | 3261 |

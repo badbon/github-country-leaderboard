@@ -26,7 +26,7 @@ Indexed users: 296
 | 12 | [nessktn](https://github.com/nessktn) | Johannes Kutan | Papua New Guinea | 1,055 |
 | 13 | [nshoresh](https://github.com/nshoresh) | Shoresh Nick Narowen | Port Moresby, 5 Mile | 821 |
 | 14 | [chrisaugu](https://github.com/chrisaugu) | Christian Augustyn | Madang, Papua New Guinea | 782 |
-| 15 | [jebudo](https://github.com/jebudo) | Jesse Biribudo | Port Moresby, Papua New Guinea | 563 |
+| 15 | [jebudo](https://github.com/jebudo) | Jesse Biribudo | Port Moresby, Papua New Guinea | 562 |
 | 16 | [TMJ-24](https://github.com/TMJ-24) | tmj | Port Moresby | 452 |
 | 17 | [rudoq007](https://github.com/rudoq007) | WanixRSGIS | Papua New Guinea | 331 |
 | 18 | [jeremykes](https://github.com/jeremykes) | Jeremy Kes Palme  | Papua New Guinea | 326 |
@@ -83,4 +83,4 @@ Indexed users: 296
 | 19 | [jm0535](https://github.com/jm0535) | Jimmy Moses | Papua New Guinea | 8 |
 | 20 | [loiwai](https://github.com/loiwai) | Loi Wai | Papua New Guinea | 8 |
 
-Generated: 2026-10-17T19:51:45.802Z
+Generated: 2026-10-17T21:18:07.267Z

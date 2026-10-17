@@ -24,8 +24,8 @@ Indexed users: 1,395
 | 10 | [Xch4rt](https://github.com/Xch4rt) | Pablo Gutiérrez | Managua, Nicaragua | 4,501 |
 | 11 | [marcosmamg](https://github.com/marcosmamg) | Marcos Moreno | NIcaragua | 4,498 |
 | 12 | [edycarreyes99](https://github.com/edycarreyes99) | Edycar Reyes | Nicaragua | 4,437 |
-| 13 | [victorstein](https://github.com/victorstein) | Alfonso Emilio Gomez Selva | Nicaragua | 4,142 |
-| 14 | [degomon](https://github.com/degomon) | Denis González | Nicaragua | 4,085 |
+| 13 | [degomon](https://github.com/degomon) | Denis González | Nicaragua | 4,207 |
+| 14 | [victorstein](https://github.com/victorstein) | Alfonso Emilio Gomez Selva | Nicaragua | 4,142 |
 | 15 | [ElVatoEste](https://github.com/ElVatoEste) | VatoDev | Nicaragua | 3,996 |
 | 16 | [fabmnt](https://github.com/fabmnt) | Fabián Montoya | Nicaragua | 3,759 |
 | 17 | [ernestoruiz89](https://github.com/ernestoruiz89) | Ernesto Ruiz | Nicaragua | 3,655 |
@@ -83,4 +83,4 @@ Indexed users: 1,395
 | 19 | [luismejiadev](https://github.com/luismejiadev) | Luis Mejia | Managua, Nicaragua | 68 |
 | 20 | [dannygaray60](https://github.com/dannygaray60) | Danny Garay | Nicaragua | 61 |
 
-Generated: 2026-10-17T19:45:55.369Z
+Generated: 2026-10-17T21:12:50.957Z

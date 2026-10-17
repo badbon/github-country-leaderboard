@@ -1,6 +1,6 @@
 # Total Contributions - Kyrgyzstan
 
-Generated: 2026-10-17T19:34:49.582Z
+Generated: 2026-10-17T20:57:27.366Z
 
 Users: 2443
 
@@ -14,8 +14,8 @@ Users: 2443
 | 6 | [anton-plebanovich](https://github.com/anton-plebanovich) | Anton Plebanovich | Gologolol |  | Kyrgyzstan, Bishkek | 9200 |
 | 7 | [whyfoks1s](https://github.com/whyfoks1s) | Kutman Melisov | AIT Solutions |  | Kyrgyzstan | 6717 |
 | 8 | [toksaitov](https://github.com/toksaitov) | Toksaitov Dmitrii Alexandrovich | @auca |  | Bishkek | 6476 |
-| 9 | [hinex](https://github.com/hinex) | Roman Hinex | @hardskilled  |  | Kyrgyzstan, Bishkek | 6175 |
-| 10 | [Amanch1ik](https://github.com/Amanch1ik) | Amanchik |  |  | Bishkek | 6088 |
+| 9 | [Amanch1ik](https://github.com/Amanch1ik) | Amanchik |  |  | Bishkek | 6231 |
+| 10 | [hinex](https://github.com/hinex) | Roman Hinex | @hardskilled  |  | Kyrgyzstan, Bishkek | 6175 |
 | 11 | [zarylbek-tenxdevs](https://github.com/zarylbek-tenxdevs) |  |  |  | Kyrgyzstan | 6032 |
 | 12 | [songhee24](https://github.com/songhee24) | Azamat |  |  | Kyrgyzstan | 5391 |
 | 13 | [metalagman](https://github.com/metalagman) | Alexey Samoylov | @baldaworks | metalagman | Bishkek, Kyrgyz Republic | 5286 |

@@ -20,8 +20,8 @@ Indexed users: 2,443
 | 6 | [anton-plebanovich](https://github.com/anton-plebanovich) | Anton Plebanovich | Kyrgyzstan, Bishkek | 9,200 |
 | 7 | [whyfoks1s](https://github.com/whyfoks1s) | Kutman Melisov | Kyrgyzstan | 6,717 |
 | 8 | [toksaitov](https://github.com/toksaitov) | Toksaitov Dmitrii Alexandrovich | Bishkek | 6,476 |
-| 9 | [hinex](https://github.com/hinex) | Roman Hinex | Kyrgyzstan, Bishkek | 6,175 |
-| 10 | [Amanch1ik](https://github.com/Amanch1ik) | Amanchik | Bishkek | 6,088 |
+| 9 | [Amanch1ik](https://github.com/Amanch1ik) | Amanchik | Bishkek | 6,231 |
+| 10 | [hinex](https://github.com/hinex) | Roman Hinex | Kyrgyzstan, Bishkek | 6,175 |
 | 11 | [zarylbek-tenxdevs](https://github.com/zarylbek-tenxdevs) |  | Kyrgyzstan | 6,032 |
 | 12 | [songhee24](https://github.com/songhee24) | Azamat | Kyrgyzstan | 5,391 |
 | 13 | [metalagman](https://github.com/metalagman) | Alexey Samoylov | Bishkek, Kyrgyz Republic | 5,286 |
@@ -83,4 +83,4 @@ Indexed users: 2,443
 | 19 | [Elkhan2003](https://github.com/Elkhan2003) | Elkhan Sharshenbekov | Karakol, Kyrgyzstan | 103 |
 | 20 | [eszdman](https://github.com/eszdman) |  | Kyrgyzstan | 103 |
 
-Generated: 2026-10-17T19:34:49.582Z
+Generated: 2026-10-17T20:57:27.366Z

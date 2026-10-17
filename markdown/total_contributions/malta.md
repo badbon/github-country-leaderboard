@@ -1,8 +1,8 @@
 # Total Contributions - Malta
 
-Generated: 2026-10-17T19:39:33.664Z
+Generated: 2026-10-17T21:05:49.199Z
 
-Users: 1225
+Users: 1224
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -21,7 +21,7 @@ Users: 1225
 | 13 | [angusgee](https://github.com/angusgee) | Angus Girvan |  |  | Malta | 8219 |
 | 14 | [KimSpecht](https://github.com/KimSpecht) | Kim Pedersen |  |  | Malta | 7618 |
 | 15 | [m2ximus](https://github.com/m2ximus) | max—os |  |  | Malta | 7610 |
-| 16 | [iko2000](https://github.com/iko2000) | Iviko Shengelia | 88Bit Limited |  | Malta | 7327 |
+| 16 | [iko2000](https://github.com/iko2000) | Iviko Shengelia | 88Bit Limited |  | Malta | 7210 |
 | 17 | [ksazid](https://github.com/ksazid) | Sazid |  |  | Malta | 6244 |
 | 18 | [mzaharenkov](https://github.com/mzaharenkov) | Mikhail Zakharenkov | HMLabs |  | Malta | 5805 |
 | 19 | [seanellul](https://github.com/seanellul) | Sean Ellul |  |  | Malta | 5628 |

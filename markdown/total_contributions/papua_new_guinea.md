@@ -1,6 +1,6 @@
 # Total Contributions - Papua New Guinea
 
-Generated: 2026-10-17T19:51:45.802Z
+Generated: 2026-10-17T21:18:07.267Z
 
 Users: 296
 
@@ -20,7 +20,7 @@ Users: 296
 | 12 | [nessktn](https://github.com/nessktn) | Johannes Kutan |  |  | Papua New Guinea | 1055 |
 | 13 | [nshoresh](https://github.com/nshoresh) | Shoresh Nick Narowen | Yumi Code |  | Port Moresby, 5 Mile | 821 |
 | 14 | [chrisaugu](https://github.com/chrisaugu) | Christian Augustyn |  |  | Madang, Papua New Guinea | 782 |
-| 15 | [jebudo](https://github.com/jebudo) | Jesse Biribudo |  |  | Port Moresby, Papua New Guinea | 563 |
+| 15 | [jebudo](https://github.com/jebudo) | Jesse Biribudo |  |  | Port Moresby, Papua New Guinea | 562 |
 | 16 | [TMJ-24](https://github.com/TMJ-24) | tmj | https://jershmamet.com |  | Port Moresby | 452 |
 | 17 | [rudoq007](https://github.com/rudoq007) | WanixRSGIS |  |  | Papua New Guinea | 331 |
 | 18 | [jeremykes](https://github.com/jeremykes) | Jeremy Kes Palme  | Skoonters |  | Papua New Guinea | 326 |

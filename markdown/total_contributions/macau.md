@@ -1,6 +1,6 @@
 # Total Contributions - Macau
 
-Generated: 2026-10-17T19:37:46.527Z
+Generated: 2026-10-17T21:02:29.202Z
 
 Users: 439
 
@@ -8,7 +8,7 @@ Users: 439
 |---:|---|---|---|---|---|---:|
 | 1 | [K4Lok](https://github.com/K4Lok) | KaLok Sam |  |  | Macau | 11749 |
 | 2 | [spiritLHLS](https://github.com/spiritLHLS) | spiritlhl | CAICT |  | Macau | 9836 |
-| 3 | [vergilsoleyn](https://github.com/vergilsoleyn) |  |  |  | Macau | 8122 |
+| 3 | [vergilsoleyn](https://github.com/vergilsoleyn) |  |  |  | Macau | 8135 |
 | 4 | [Chonwai](https://github.com/Chonwai) | Chonwai Un, Edison |  |  | Macau | 7323 |
 | 5 | [kenischu](https://github.com/kenischu) | Kenis Chu |  |  | Macau | 5968 |
 | 6 | [sou350121](https://github.com/sou350121) | KenSou |  |  | Macau | 5527 |
@@ -18,11 +18,11 @@ Users: 439
 | 10 | [MUST-panxiao](https://github.com/MUST-panxiao) | Xiao Pan | Macau University of Science and Technology |  | Macau | 2937 |
 | 11 | [7788ken](https://github.com/7788ken) | Mark.pan |  |  | Macau,Zhuhai | 2305 |
 | 12 | [mugpeng](https://github.com/mugpeng) | Peng |  |  | macao | 2284 |
-| 13 | [Alex-Leong](https://github.com/Alex-Leong) | Alex |  |  | Macau | 2166 |
+| 13 | [Alex-Leong](https://github.com/Alex-Leong) | Alex |  |  | Macau | 2184 |
 | 14 | [RyanKung](https://github.com/RyanKung) | Elder Ryan |  | Elder24601 | Macau | 2142 |
 | 15 | [Yh1sam](https://github.com/Yh1sam) |  | Pui Ching Middle School |  | Macau | 2099 |
 | 16 | [aungminnkhant9400](https://github.com/aungminnkhant9400) | Rollo |  |  | Macau | 1792 |
 | 17 | [HansiChan](https://github.com/HansiChan) | Colin | Sands  | hansiCrypto | Macau | 1764 |
 | 18 | [hheei](https://github.com/hheei) | Lo Chon Hei |  |  | Macau | 1757 |
 | 19 | [yyyyyyounger](https://github.com/yyyyyyounger) | Rookie, LIN | University of Macau |  | Macau | 1643 |
-| 20 | [ygqygq2](https://github.com/ygqygq2) | Chinge Yang |  |  | macao | 1632 |
+| 20 | [ygqygq2](https://github.com/ygqygq2) | Chinge Yang |  |  | macao | 1630 |

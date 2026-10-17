@@ -49,7 +49,7 @@ Indexed users: 741
 | 10 | [Nick-800](https://github.com/Nick-800) | Sohaib Kamash | Libya | 664 |
 | 11 | [mhmdnab](https://github.com/mhmdnab) | Mohamad Naboulsi | Tripoli - Lebanon | 640 |
 | 12 | [habberrih](https://github.com/habberrih) | Abdullah Habberrih | Libya | 502 |
-| 13 | [Asma-Nasr](https://github.com/Asma-Nasr) | Asmaa Nasr | Libya | 461 |
+| 13 | [Asma-Nasr](https://github.com/Asma-Nasr) | Asmaa Nasr | Libya | 432 |
 | 14 | [salemaljebaly](https://github.com/salemaljebaly) | Salem Aljebaly | Libya | 423 |
 | 15 | [MElkmeshi](https://github.com/MElkmeshi) | Mohamed Elkmeshi | Tripoli, Libya | 412 |
 | 16 | [Wondermine](https://github.com/Wondermine) | Taha Ali | Libya, Tripoli | 368 |
@@ -83,4 +83,4 @@ Indexed users: 741
 | 19 | [ZizouHuweidi](https://github.com/ZizouHuweidi) | El Zubeir Huweidi | Benghazi, Libya | 51 |
 | 20 | [Islam-alshiki](https://github.com/Islam-alshiki) | Islam alshiki | Benghazi, Libya | 49 |
 
-Generated: 2026-10-17T19:36:07.934Z
+Generated: 2026-10-17T21:01:05.440Z

@@ -1,6 +1,6 @@
 # Total Contributions - North Macedonia
 
-Generated: 2026-10-17T19:48:58.316Z
+Generated: 2026-10-17T21:14:54.840Z
 
 Users: 1928
 
@@ -19,8 +19,8 @@ Users: 1928
 | 11 | [simeonmarkoski](https://github.com/simeonmarkoski) | Simeon Markoski | @silyze |  | Skopje, Macedonia | 5204 |
 | 12 | [DBozhinovski](https://github.com/DBozhinovski) | Darko Bozhinovski | @axiomatic-dev | d_bozhinovski | Skopje, Macedonia | 5146 |
 | 13 | [danielilievskii](https://github.com/danielilievskii) | Daniel Ilievski | Intertec.io |  | Skopje, North Macedonia | 4747 |
-| 14 | [Delemangi](https://github.com/Delemangi) | Stefan Milev | @codechem |  | Skopje, North Macedonia | 4515 |
-| 15 | [Shekswess](https://github.com/Shekswess) | Bojan Jakimovski | Loka | Shekswess | Skopje, Macedonia | 4182 |
+| 14 | [Delemangi](https://github.com/Delemangi) | Stefan Milev | @codechem |  | Skopje, North Macedonia | 4673 |
+| 15 | [Shekswess](https://github.com/Shekswess) | Bojan Jakimovski | Loka | Shekswess | Skopje, Macedonia | 4185 |
 | 16 | [visar](https://github.com/visar) | Visar Zejnullahu |  |  | Skopje, Macedonia | 4148 |
 | 17 | [vetonshabani0](https://github.com/vetonshabani0) | Veton Shabani |  |  | Skopje | 4075 |
 | 18 | [andreyagovski](https://github.com/andreyagovski) | Andrey |  |  | Macedonia | 3997 |

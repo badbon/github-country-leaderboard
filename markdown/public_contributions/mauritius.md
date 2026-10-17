@@ -1,6 +1,6 @@
 # Public Contributions - Mauritius
 
-Generated: 2026-10-17T19:39:46.120Z
+Generated: 2026-10-17T21:07:21.792Z
 
 Users: 713
 
@@ -15,7 +15,7 @@ Users: 713
 | 7 | [Abdur-rahmaanJ](https://github.com/Abdur-rahmaanJ) | Abdur-Rahmaan Janhangeer | @compileralchemy  | osdotsystem | Mauritius | 1406 |
 | 8 | [MrSunshyne](https://github.com/MrSunshyne) | Sandeep Ramgolam | Livestorm | __sun__ | Mauritius | 1394 |
 | 9 | [danielgithiomi](https://github.com/danielgithiomi) | Daniel Githiomi | Uniicy IT Limited | daniel_githiomi | Grand Baie, Mauritius | 1308 |
-| 10 | [eznix86](https://github.com/eznix86) | Bruno Bernard |  |  | Mauritius | 1303 |
+| 10 | [eznix86](https://github.com/eznix86) | Bruno Bernard |  |  | Mauritius | 1280 |
 | 11 | [Andriamahay11master](https://github.com/Andriamahay11master) | Andriamahay Henikaja IRIMANANA |  |  | Trianon, Mauritius | 1010 |
 | 12 | [jochenkirstaetter](https://github.com/jochenkirstaetter) | Jochen Kirstätter | IOS Indian Ocean Software Ltd. | JKirstaetter | Mauritius | 991 |
 | 13 | [BarbUk](https://github.com/BarbUk) | Julien Virey | @oceandba |  | Mauritius | 869 |
