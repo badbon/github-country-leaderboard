@@ -1,6 +1,6 @@
 # Followers - Republic of the Congo
 
-Generated: 2026-10-17T17:00:32.459Z
+Generated: 2026-10-17T18:27:25.803Z
 
 Users: 298
 
@@ -23,6 +23,6 @@ Users: 298
 | 15 | [bim-g](https://github.com/bim-g) | Boss | @evoludata | ibmussa | Congo, Democratic Republic of, Goma | 38 |
 | 16 | [Esdras-Nsounda](https://github.com/Esdras-Nsounda) | esdras nsounda |  |  | brazzaville \ Congo | 37 |
 | 17 | [seleshabani](https://github.com/seleshabani) |  | kollectif numérique \| nurse maïsha | seleshabani1 | Congo | 33 |
-| 18 | [Cooger17](https://github.com/Cooger17) |  |  |  | Congo Brazzaville  | 32 |
+| 18 | [Cooger17](https://github.com/Cooger17) |  |  |  | Congo Brazzaville  | 31 |
 | 19 | [Ssnnee](https://github.com/Ssnnee) | Samuel Nandi |  | NandiSne | Republic of the Congo | 26 |
 | 20 | [WinnersProx](https://github.com/WinnersProx) | Vainqueur Bihame |  | WinnersProx | Kigali,Rwanda,Congo | 25 |

@@ -55,8 +55,8 @@ Indexed users: 1,072
 | 16 | [syedahmedkhaderi](https://github.com/syedahmedkhaderi) | Syed Ahmed | Doha | 866 |
 | 17 | [Ozhana](https://github.com/Ozhana) | Ozhan Akdag | Doha / Qatar | 792 |
 | 18 | [Melikash98](https://github.com/Melikash98) | Melika Shooryabi | Qatar | 766 |
-| 19 | [prajwal918](https://github.com/prajwal918) | prajwaljogi_ | qatar doha | 734 |
-| 20 | [Thilsan-Abuissa](https://github.com/Thilsan-Abuissa) | Ahamed Thilsan Ismalebbe | Doha, Qatar | 734 |
+| 19 | [Thilsan-Abuissa](https://github.com/Thilsan-Abuissa) | Ahamed Thilsan Ismalebbe | Doha, Qatar | 745 |
+| 20 | [prajwal918](https://github.com/prajwal918) | prajwaljogi_ | qatar doha | 734 |
 
 ## Followers
 
@@ -79,8 +79,8 @@ Indexed users: 1,072
 | 15 | [akhalil-qa](https://github.com/akhalil-qa) | Ahmed Khalil | Qatar | 110 |
 | 16 | [thouseef-hamza](https://github.com/thouseef-hamza) | Thouseef Hamza T P | Doha, Qatar | 108 |
 | 17 | [kevinpiac](https://github.com/kevinpiac) | Kevin Piacentini | Doha | 107 |
-| 18 | [thm-msror](https://github.com/thm-msror) | Tehreem Masroor | Al-Rayyan, Qatar | 107 |
-| 19 | [brainconnect93](https://github.com/brainconnect93) | Afolabi Akorede | Al-Wakrah, Qatar | 100 |
+| 18 | [thm-msror](https://github.com/thm-msror) | Tehreem Masroor | Al-Rayyan, Qatar | 106 |
+| 19 | [brainconnect93](https://github.com/brainconnect93) | Afolabi Akorede | Al-Wakrah, Qatar | 99 |
 | 20 | [muratyaman](https://github.com/muratyaman) | Haci Murat Yaman | Doha, Qatar | 99 |
 
-Generated: 2026-10-17T16:58:59.663Z
+Generated: 2026-10-17T18:26:44.372Z

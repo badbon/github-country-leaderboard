@@ -12,7 +12,7 @@ Indexed users: 298
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [bruxx-6243](https://github.com/bruxx-6243) | Fariol Blondeau | Brazzaville - Congo | 11,578 |
+| 1 | [bruxx-6243](https://github.com/bruxx-6243) | Fariol Blondeau | Brazzaville - Congo | 11,580 |
 | 2 | [Athanaze](https://github.com/Athanaze) | Sacha Liechti | Congo | 7,727 |
 | 3 | [Saintrick-FM](https://github.com/Saintrick-FM) | Francy Saintrick Malonga | Congo Brazzaville | 4,082 |
 | 4 | [chrismoussounda](https://github.com/chrismoussounda) | Christoffert Moussounda | Pointe-Noire, Congo | 3,844 |
@@ -22,7 +22,7 @@ Indexed users: 298
 | 8 | [Justany](https://github.com/Justany) | Justany ITOUA | Brazzaville | 3,001 |
 | 9 | [Flammeduciel](https://github.com/Flammeduciel) | Flamme Du Ciel WASS | Brazzaville CG | 2,995 |
 | 10 | [OrionWambert](https://github.com/OrionWambert) | Orion WAMBERT | Brazzaville - Congo | 2,951 |
-| 11 | [Merite15](https://github.com/Merite15) | Merite | Brazzaville, Congo | 2,899 |
+| 11 | [Merite15](https://github.com/Merite15) | Merite | Brazzaville, Congo | 2,886 |
 | 12 | [Elisee01](https://github.com/Elisee01) | Kitoga Elisee | Kigali, Rwanda \| Congo, Kinshasa | 2,461 |
 | 13 | [sancty007](https://github.com/sancty007) | sanctifier Yaw-Mensah | Congo Brazzaville  | 2,320 |
 | 14 | [Cesar008](https://github.com/Cesar008) | Cesar Grace Louzala | Congo | 2,302 |
@@ -79,8 +79,8 @@ Indexed users: 298
 | 15 | [bim-g](https://github.com/bim-g) | Boss | Congo, Democratic Republic of, Goma | 38 |
 | 16 | [Esdras-Nsounda](https://github.com/Esdras-Nsounda) | esdras nsounda | brazzaville \ Congo | 37 |
 | 17 | [seleshabani](https://github.com/seleshabani) |  | Congo | 33 |
-| 18 | [Cooger17](https://github.com/Cooger17) |  | Congo Brazzaville  | 32 |
+| 18 | [Cooger17](https://github.com/Cooger17) |  | Congo Brazzaville  | 31 |
 | 19 | [Ssnnee](https://github.com/Ssnnee) | Samuel Nandi | Republic of the Congo | 26 |
 | 20 | [WinnersProx](https://github.com/WinnersProx) | Vainqueur Bihame | Kigali,Rwanda,Congo | 25 |
 
-Generated: 2026-10-17T17:00:32.459Z
+Generated: 2026-10-17T18:27:25.803Z
