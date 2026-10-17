@@ -488,7 +488,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 45,
+    "publicContributions": 37,
     "createdAt": "2025-09-27T13:13:04Z"
   },
   {
@@ -523,7 +523,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1455,
+    "privateContributions": 1523,
     "publicContributions": 2,
     "createdAt": "2025-12-10T12:29:35Z"
   },
@@ -536,7 +536,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 3,
     "createdAt": "2025-10-10T19:26:08Z"
   },
   {
@@ -620,7 +620,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 42,
+    "publicContributions": 56,
     "createdAt": "2025-01-28T14:54:51Z"
   },
   {
@@ -656,7 +656,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 58,
+    "publicContributions": 67,
     "createdAt": "2025-11-02T10:54:47Z"
   },
   {
@@ -668,7 +668,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 186,
+    "publicContributions": 173,
     "createdAt": "2025-08-26T05:11:27Z"
   },
   {
@@ -691,7 +691,7 @@
     "company": "Prom.Consulting",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1364,
+    "privateContributions": 1244,
     "publicContributions": 4,
     "createdAt": "2025-05-19T11:05:43Z"
   },
@@ -706,18 +706,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-05-16T05:11:24Z"
-  },
-  {
-    "login": "b4631119-oss",
-    "name": "DevRoot",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/230121896?s=72&u=c3f145ba0c1d3e29d987743caa23e73f2f26beb3&v=4",
-    "location": "Bishkek",
-    "company": "PROlab",
-    "twitterUsername": "",
-    "followers": 45,
-    "privateContributions": 97,
-    "publicContributions": 1336,
-    "createdAt": "2025-09-03T08:44:15Z"
   },
   {
     "login": "Baitengir",
