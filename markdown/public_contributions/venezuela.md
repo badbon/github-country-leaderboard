@@ -1,6 +1,6 @@
 # Public Contributions - Venezuela
 
-Generated: 2026-10-17T13:41:16.668Z
+Generated: 2026-10-17T15:14:16.464Z
 
 Users: 6623
 
@@ -17,12 +17,12 @@ Users: 6623
 | 9 | [lumi-tip](https://github.com/lumi-tip) | Luis Miguel Del Valle |  |  | Venezuela | 2871 |
 | 10 | [jlcarrascof](https://github.com/jlcarrascof) | Javier Jesus Martínez Fariñas | Soluciones Administrativas, C.A. |  | Venezuela. | 2853 |
 | 11 | [LuisAlejandro](https://github.com/LuisAlejandro) | Luis Alejandro |  | LuisAlejandro | Maracay, Venezuela | 2787 |
-| 12 | [elfotito](https://github.com/elfotito) | elfotito |  |  | Venezuela | 2158 |
-| 13 | [TheElegantCoding](https://github.com/TheElegantCoding) | Luis Monsalve | Astralys |  | Venezuela | 1967 |
-| 14 | [Danielk10](https://github.com/Danielk10) | Daniel Elias Diamon Vazquez |  |  | Venezuela | 1916 |
-| 15 | [gabrielbaute](https://github.com/gabrielbaute) | Gabriel Baute |  | gabrielfenyx | Venezuela | 1848 |
-| 16 | [hrodrig](https://github.com/hrodrig) | Hermes Rodríguez |  | hejeroaz | Caracas, Venezuela | 1848 |
-| 17 | [claucondor](https://github.com/claucondor) | Claudio Condor | A0x Company |  | Merida, Venezuela | 1757 |
-| 18 | [JesusAraujoDEV](https://github.com/JesusAraujoDEV) | Jesús Alberto Araujo Arteaga | Intelix |  | Valencia, Venezuela | 1652 |
-| 19 | [Arviixzuh](https://github.com/Arviixzuh) |  |  | Arviixzuh_ | Venezuela | 1620 |
-| 20 | [joseorono](https://github.com/joseorono) | José Miguel Oroño |  |  | Maracaibo, Venezuela | 1620 |
+| 12 | [CiszukoAntony](https://github.com/CiszukoAntony) | Ciszuko | Ciszu Network |  | Venezuela | 2165 |
+| 13 | [elfotito](https://github.com/elfotito) | elfotito |  |  | Venezuela | 2158 |
+| 14 | [TheElegantCoding](https://github.com/TheElegantCoding) | Luis Monsalve | Astralys |  | Venezuela | 1967 |
+| 15 | [Danielk10](https://github.com/Danielk10) | Daniel Elias Diamon Vazquez |  |  | Venezuela | 1916 |
+| 16 | [gabrielbaute](https://github.com/gabrielbaute) | Gabriel Baute |  | gabrielfenyx | Venezuela | 1848 |
+| 17 | [hrodrig](https://github.com/hrodrig) | Hermes Rodríguez |  | hejeroaz | Caracas, Venezuela | 1848 |
+| 18 | [claucondor](https://github.com/claucondor) | Claudio Condor | A0x Company |  | Merida, Venezuela | 1757 |
+| 19 | [JesusAraujoDEV](https://github.com/JesusAraujoDEV) | Jesús Alberto Araujo Arteaga | Intelix |  | Valencia, Venezuela | 1652 |
+| 20 | [Arviixzuh](https://github.com/Arviixzuh) |  |  | Arviixzuh_ | Venezuela | 1620 |

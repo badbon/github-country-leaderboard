@@ -1,6 +1,6 @@
 # Total Contributions - Angola
 
-Generated: 2026-10-17T13:47:16.392Z
+Generated: 2026-10-17T15:21:10.954Z
 
 Users: 2500
 
@@ -11,13 +11,13 @@ Users: 2500
 | 3 | [marianoj8](https://github.com/marianoj8) | Mariano JavaSwing | Wasp-TI |  | Angola, Luanda | 12910 |
 | 4 | [Katumbela](https://github.com/Katumbela) | João Afonso Katombela | @R360 |  | LUANDA | 11834 |
 | 5 | [josecaseiro](https://github.com/josecaseiro) | José Caseiro | Musickool Lda |  | Angola | 10429 |
-| 6 | [EmanuelJoseCandido](https://github.com/EmanuelJoseCandido) | Emanuel Cândido |  |  | Luanda, Angola | 8618 |
-| 7 | [nuelst](https://github.com/nuelst) | manuel |  |  | Luanda, Angola | 6554 |
-| 8 | [Jndungue089](https://github.com/Jndungue089) | Josemar Ndungue |  |  | Angola | 6520 |
-| 9 | [bentocussei](https://github.com/bentocussei) | Bento Cussei |  | bentobenack | Luanda, Angola | 5633 |
-| 10 | [emanuel-malungo](https://github.com/emanuel-malungo) | Emanuel Malungo | 42 Luanda |  |  Luanda, Angola | 5486 |
-| 11 | [figassis](https://github.com/figassis) | Assis Ngolo | Nellcorp |  | Luanda, Angola | 5456 |
-| 12 | [cnoble](https://github.com/cnoble) | Chris Noble | Business Warrior |  | Angola, IN | 5388 |
+| 6 | [cnoble](https://github.com/cnoble) | Chris Noble | Business Warrior |  | Angola, IN | 9520 |
+| 7 | [EmanuelJoseCandido](https://github.com/EmanuelJoseCandido) | Emanuel Cândido |  |  | Luanda, Angola | 8618 |
+| 8 | [nuelst](https://github.com/nuelst) | manuel |  |  | Luanda, Angola | 6554 |
+| 9 | [Jndungue089](https://github.com/Jndungue089) | Josemar Ndungue |  |  | Angola | 6520 |
+| 10 | [figassis](https://github.com/figassis) | Assis Ngolo | Nellcorp |  | Luanda, Angola | 6103 |
+| 11 | [bentocussei](https://github.com/bentocussei) | Bento Cussei |  | bentobenack | Luanda, Angola | 5633 |
+| 12 | [emanuel-malungo](https://github.com/emanuel-malungo) | Emanuel Malungo | 42 Luanda |  |  Luanda, Angola | 5486 |
 | 13 | [osvaldowafulua](https://github.com/osvaldowafulua) | Osvaldo Wafulua | Smart Cloud |  | Angola | 4952 |
 | 14 | [noejunior299](https://github.com/noejunior299) | Noé Idagi | ITEL - Institute of Telecomunications | noejunior299 | Angola/Luanda | 4947 |
 | 15 | [joel2011140](https://github.com/joel2011140) | Joel Marinho |  | joelmarinho2016 | Luanda | 4832 |

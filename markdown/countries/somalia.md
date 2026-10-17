@@ -16,7 +16,7 @@ Indexed users: 867
 | 2 | [hanadderia](https://github.com/hanadderia) | Abdulshakur Ahmed | Mogadishu, Somalia | 7,637 |
 | 3 | [mohaaosman](https://github.com/mohaaosman) | Mohamed Osman | Mogadishu, Banaadir, Somalia | 7,468 |
 | 4 | [baaslaawe](https://github.com/baaslaawe) | Abdalla Hassan Awale | somalia | 7,113 |
-| 5 | [khalidhussein957](https://github.com/khalidhussein957) | khalid Hussein | Mogadishu Somalia | 6,799 |
+| 5 | [khalidhussein957](https://github.com/khalidhussein957) | khalid Hussein | Mogadishu Somalia | 6,848 |
 | 6 | [hayle01](https://github.com/hayle01) |  Mohamed Abdirahim | Mogadishu, Somalia | 6,510 |
 | 7 | [yousumohamed](https://github.com/yousumohamed) | Yousuf Mohamed | somalia | 6,065 |
 | 8 | [mhbaando](https://github.com/mhbaando) | kamaal Abshir | Mogadishu Somalia | 4,936 |
@@ -83,4 +83,4 @@ Indexed users: 867
 | 19 | [Hasson23](https://github.com/Hasson23) | Hassan Abdullah   | Somalia - Mogadishu  | 100 |
 | 20 | [AbdifatahYasin1](https://github.com/AbdifatahYasin1) | Abdifatah Yasin Yusuf | Somalia, Hargeisa  | 96 |
 
-Generated: 2026-10-17T13:27:53.687Z
+Generated: 2026-10-17T15:01:11.150Z

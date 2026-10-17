@@ -16,7 +16,7 @@ Indexed users: 53
 | 2 | [kloostermanw](https://github.com/kloostermanw) | Wiebe | Willemstad, Curaçao | 3,835 |
 | 3 | [flangfeldt](https://github.com/flangfeldt) | FΞLIX | Willemstad, Curacao | 3,586 |
 | 4 | [BalusC](https://github.com/BalusC) | Bauke Scholtz | Willemstad, Curaçao | 3,403 |
-| 5 | [dwarfland](https://github.com/dwarfland) | marc hoffman | Curaçao | 1,435 |
+| 5 | [dwarfland](https://github.com/dwarfland) | marc hoffman | Curaçao | 1,450 |
 | 6 | [GilbertoFraaij](https://github.com/GilbertoFraaij) |  | Curacao, Netherlands Antilles | 1,257 |
 | 7 | [drosalia](https://github.com/drosalia) | Darrell Rosalia | Curaçao | 917 |
 | 8 | [frankgeerlings](https://github.com/frankgeerlings) | Frank Geerlings | Curaçao | 911 |
@@ -38,8 +38,8 @@ Indexed users: 53
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [BalusC](https://github.com/BalusC) | Bauke Scholtz | Willemstad, Curaçao | 3,403 |
-| 2 | [kloostermanw](https://github.com/kloostermanw) | Wiebe | Willemstad, Curaçao | 489 |
-| 3 | [dwarfland](https://github.com/dwarfland) | marc hoffman | Curaçao | 486 |
+| 2 | [dwarfland](https://github.com/dwarfland) | marc hoffman | Curaçao | 499 |
+| 3 | [kloostermanw](https://github.com/kloostermanw) | Wiebe | Willemstad, Curaçao | 489 |
 | 4 | [JObersi10](https://github.com/JObersi10) |  | Willemstad, Curaçao | 468 |
 | 5 | [acesuares](https://github.com/acesuares) | Ace Suares | Willemstad, Netherlands Antilles | 253 |
 | 6 | [weyert](https://github.com/weyert) | Weyert de Boer | London, Curaçao | 130 |
@@ -69,7 +69,7 @@ Indexed users: 53
 | 5 | [weyert](https://github.com/weyert) | Weyert de Boer | London, Curaçao | 43 |
 | 6 | [acesuares](https://github.com/acesuares) | Ace Suares | Willemstad, Netherlands Antilles | 38 |
 | 7 | [rascoop](https://github.com/rascoop) | Richard Scoop | Curaçao, Dutch Caribbean | 33 |
-| 8 | [jentanbernardus](https://github.com/jentanbernardus) | Jentan Bernardus | Curaçao | 28 |
+| 8 | [jentanbernardus](https://github.com/jentanbernardus) | Jentan Bernardus | Curaçao | 29 |
 | 9 | [frankgeerlings](https://github.com/frankgeerlings) | Frank Geerlings | Curaçao | 22 |
 | 10 | [nelreina](https://github.com/nelreina) | Nelreina | Willemstad, Curacao | 19 |
 | 11 | [ekid](https://github.com/ekid) | Ekid | Willemstad | 16 |
@@ -83,4 +83,4 @@ Indexed users: 53
 | 19 | [theowlsden](https://github.com/theowlsden) | Shaquil Maria | Curaçao | 6 |
 | 20 | [coinversus](https://github.com/coinversus) | CoinVersus | Curaçao | 5 |
 
-Generated: 2026-10-17T14:07:29.774Z
+Generated: 2026-10-17T15:36:57.164Z

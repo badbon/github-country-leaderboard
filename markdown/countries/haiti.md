@@ -19,7 +19,7 @@ Indexed users: 339
 | 5 | [jecode93](https://github.com/jecode93) | Jean Emmanuel Cadet | Haiti | 3,583 |
 | 6 | [platon777](https://github.com/platon777) | Wichley Valentin | Haiti | 2,443 |
 | 7 | [FalandyJEAN](https://github.com/FalandyJEAN) | Falandy Jean | Haiti | 2,395 |
-| 8 | [odilson-dev](https://github.com/odilson-dev) | Odilson W. Italis | Les Cayes, Haiti | 2,254 |
+| 8 | [odilson-dev](https://github.com/odilson-dev) | Odilson W. Italis | Les Cayes, Haiti | 2,261 |
 | 9 | [bogosla](https://github.com/bogosla) | James Destiné | Haiti | 2,211 |
 | 10 | [Nicaisse](https://github.com/Nicaisse) | Nicaisse Bryan  | Port-au-Prince | 1,943 |
 | 11 | [youko509](https://github.com/youko509) |  Erico Saint-Charles | Haiti | 1,781 |
@@ -42,10 +42,10 @@ Indexed users: 339
 | 3 | [jecode93](https://github.com/jecode93) | Jean Emmanuel Cadet | Haiti | 435 |
 | 4 | [ritchartconcept](https://github.com/ritchartconcept) | Fritzner Richard | haiti | 420 |
 | 5 | [Tonton-ios](https://github.com/Tonton-ios) | Eernst_ | HAITI | 369 |
-| 6 | [dolphfi](https://github.com/dolphfi) | Fidele Delon Phayendy Rodolph | Cap-Haïtien, Haiti | 367 |
+| 6 | [dolphfi](https://github.com/dolphfi) | Fidele Delon Phayendy Rodolph | Cap-Haïtien, Haiti | 342 |
 | 7 | [AD0791](https://github.com/AD0791) | Alexandro Disla | Haiti | 294 |
 | 8 | [platon777](https://github.com/platon777) | Wichley Valentin | Haiti | 290 |
-| 9 | [odilson-dev](https://github.com/odilson-dev) | Odilson W. Italis | Les Cayes, Haiti | 265 |
+| 9 | [odilson-dev](https://github.com/odilson-dev) | Odilson W. Italis | Les Cayes, Haiti | 274 |
 | 10 | [haitibrand-co](https://github.com/haitibrand-co) | HaitiBrand  | Haiti | 241 |
 | 11 | [ventzDev509](https://github.com/ventzDev509) | Marceille Eventz | Haiti | 215 |
 | 12 | [Joffra](https://github.com/Joffra) | Jonel Francois | Haiti | 209 |
@@ -83,4 +83,4 @@ Indexed users: 339
 | 19 | [KeitelDOG](https://github.com/KeitelDOG) | Keitel Jovin | Delmas 41, Ouest, Haiti | 32 |
 | 20 | [skydevht](https://github.com/skydevht) | Holy-Elie Scaïde | Port-au-prince, Haïti | 32 |
 
-Generated: 2026-10-17T14:22:38.013Z
+Generated: 2026-10-17T15:50:26.542Z

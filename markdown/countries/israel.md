@@ -17,20 +17,20 @@ Indexed users: 12,425
 | 3 | [thefourcraft](https://github.com/thefourcraft) | David | Israel | 29,661 |
 | 4 | [aryeh-stark](https://github.com/aryeh-stark) | Aryeh Stark | Israel | 27,637 |
 | 5 | [tomyam1](https://github.com/tomyam1) | Tom Yam | Tel-Aviv, Israel | 26,184 |
-| 6 | [oferchen](https://github.com/oferchen) | Ofer Chen | Israel | 23,992 |
-| 7 | [karabil](https://github.com/karabil) | Shay Panuilov | Israel | 23,658 |
-| 8 | [vega113](https://github.com/vega113) | Yuri Z. | Tel Aviv, Israel | 19,031 |
-| 9 | [elie222](https://github.com/elie222) | Elie Steinbock | Tel Aviv, Israel | 18,843 |
-| 10 | [danielrosehill](https://github.com/danielrosehill) | Daniel Rosehill | Jerusalem Or Remote | 18,821 |
-| 11 | [shmuelhizmi](https://github.com/shmuelhizmi) | Shmuel Hizmi | Tel Aviv, israel | 17,973 |
-| 12 | [chernistry](https://github.com/chernistry) | Alex Chernysh | Tel Aviv, Israel | 17,284 |
-| 13 | [asaphe](https://github.com/asaphe) | Asaph | Israel | 15,903 |
-| 14 | [Dave-London](https://github.com/Dave-London) | Dave London | Israel | 15,429 |
-| 15 | [slep2-0](https://github.com/slep2-0) | slep | Israel | 13,689 |
-| 16 | [YoraiLevi](https://github.com/YoraiLevi) | Yorai Levi | Israel | 13,247 |
-| 17 | [Novodes](https://github.com/Novodes) | Eyal Gerber | Israel | 13,235 |
-| 18 | [benjamingr](https://github.com/benjamingr) | Benjamin Gruenbaum | Israel  | 13,160 |
-| 19 | [EtanHey](https://github.com/EtanHey) | Etan Heyman | Rehovot, Israel | 13,024 |
+| 6 | [EtanHey](https://github.com/EtanHey) | Etan Heyman | Rehovot, Israel | 25,109 |
+| 7 | [oferchen](https://github.com/oferchen) | Ofer Chen | Israel | 23,992 |
+| 8 | [karabil](https://github.com/karabil) | Shay Panuilov | Israel | 23,658 |
+| 9 | [vega113](https://github.com/vega113) | Yuri Z. | Tel Aviv, Israel | 19,031 |
+| 10 | [elie222](https://github.com/elie222) | Elie Steinbock | Tel Aviv, Israel | 18,843 |
+| 11 | [danielrosehill](https://github.com/danielrosehill) | Daniel Rosehill | Jerusalem Or Remote | 18,821 |
+| 12 | [shmuelhizmi](https://github.com/shmuelhizmi) | Shmuel Hizmi | Tel Aviv, israel | 17,973 |
+| 13 | [chernistry](https://github.com/chernistry) | Alex Chernysh | Tel Aviv, Israel | 17,284 |
+| 14 | [asaphe](https://github.com/asaphe) | Asaph | Israel | 15,903 |
+| 15 | [Dave-London](https://github.com/Dave-London) | Dave London | Israel | 15,429 |
+| 16 | [slep2-0](https://github.com/slep2-0) | slep | Israel | 13,689 |
+| 17 | [YoraiLevi](https://github.com/YoraiLevi) | Yorai Levi | Israel | 13,247 |
+| 18 | [Novodes](https://github.com/Novodes) | Eyal Gerber | Israel | 13,235 |
+| 19 | [benjamingr](https://github.com/benjamingr) | Benjamin Gruenbaum | Israel  | 13,160 |
 | 20 | [mariiio](https://github.com/mariiio) | Mario | Israel | 12,230 |
 
 ## Public Contributions
@@ -40,16 +40,16 @@ Indexed users: 12,425
 | 1 | [guy-davidi](https://github.com/guy-davidi) | Guy Davidi | israel | 127,261 |
 | 2 | [oferchen](https://github.com/oferchen) | Ofer Chen | Israel | 21,715 |
 | 3 | [tupe12334](https://github.com/tupe12334) | Ofek Gabay | Tel aviv, Israel | 15,886 |
-| 4 | [chernistry](https://github.com/chernistry) | Alex Chernysh | Tel Aviv, Israel | 12,764 |
-| 5 | [arthurzam](https://github.com/arthurzam) | Arthur Zamarin | Israel | 10,773 |
-| 6 | [ariannamethod](https://github.com/ariannamethod) | Arianna Method | Israel | 8,865 |
-| 7 | [kdroidFilter](https://github.com/kdroidFilter) | Elie Gambache | Jerusalem Israel | 8,365 |
-| 8 | [kossoy](https://github.com/kossoy) | Oleg Kossoy | Israel | 7,229 |
-| 9 | [BigBIueWhale](https://github.com/BigBIueWhale) | Ronen Zyroff | Israel | 7,206 |
-| 10 | [elie222](https://github.com/elie222) | Elie Steinbock | Tel Aviv, Israel | 7,033 |
-| 11 | [alonf](https://github.com/alonf) | Alon Fliess | Israel | 6,869 |
-| 12 | [veltzer](https://github.com/veltzer) | Mark Veltzer | Holon, Israel | 6,740 |
-| 13 | [EtanHey](https://github.com/EtanHey) | Etan Heyman | Rehovot, Israel | 6,251 |
+| 4 | [EtanHey](https://github.com/EtanHey) | Etan Heyman | Rehovot, Israel | 15,612 |
+| 5 | [chernistry](https://github.com/chernistry) | Alex Chernysh | Tel Aviv, Israel | 12,764 |
+| 6 | [arthurzam](https://github.com/arthurzam) | Arthur Zamarin | Israel | 10,773 |
+| 7 | [ariannamethod](https://github.com/ariannamethod) | Arianna Method | Israel | 8,865 |
+| 8 | [kdroidFilter](https://github.com/kdroidFilter) | Elie Gambache | Jerusalem Israel | 8,365 |
+| 9 | [kossoy](https://github.com/kossoy) | Oleg Kossoy | Israel | 7,229 |
+| 10 | [BigBIueWhale](https://github.com/BigBIueWhale) | Ronen Zyroff | Israel | 7,206 |
+| 11 | [elie222](https://github.com/elie222) | Elie Steinbock | Tel Aviv, Israel | 7,033 |
+| 12 | [alonf](https://github.com/alonf) | Alon Fliess | Israel | 6,869 |
+| 13 | [veltzer](https://github.com/veltzer) | Mark Veltzer | Holon, Israel | 6,740 |
 | 14 | [lirantal](https://github.com/lirantal) | Liran Tal | Tel Aviv, Israel | 6,163 |
 | 15 | [szabgab](https://github.com/szabgab) | Gábor Szabó | Modiin, Israel | 5,823 |
 | 16 | [RonenMars](https://github.com/RonenMars) | Ronen Mars | Israel | 5,228 |
@@ -83,4 +83,4 @@ Indexed users: 12,425
 | 19 | [kuchin](https://github.com/kuchin) | Dima Kuchin | Israel | 665 |
 | 20 | [YuvalNirkin](https://github.com/YuvalNirkin) | Yuval Nirkin | Tel Aviv, Israel | 641 |
 
-Generated: 2026-10-17T14:26:13.399Z
+Generated: 2026-10-17T15:55:19.175Z

@@ -1,6 +1,6 @@
 # Total Contributions - French Guiana
 
-Generated: 2026-10-17T14:17:04.469Z
+Generated: 2026-10-17T15:43:10.073Z
 
 Users: 36
 
@@ -9,8 +9,8 @@ Users: 36
 | 1 | [LunettoRandall](https://github.com/LunettoRandall) | Randall Lunetto |  | randyLunetto | French Amazonia (Guyane) | 3070 |
 | 2 | [MelPeslier](https://github.com/MelPeslier) | Mel |  |  | Guyane  | 1226 |
 | 3 | [Ludoc0de](https://github.com/Ludoc0de) | Ludocode | @100Devs | ludoC0de | French Guiana | 282 |
-| 4 | [baffy-req](https://github.com/baffy-req) | Thomas Boyd DDS |  |  | Amandafurt, French Guiana | 135 |
-| 5 | [highotutorn](https://github.com/highotutorn) | Dawn Alexander |  |  | Elizabethberg, French Guiana | 108 |
+| 4 | [highotutorn](https://github.com/highotutorn) | Dawn Alexander |  |  | Elizabethberg, French Guiana | 206 |
+| 5 | [baffy-req](https://github.com/baffy-req) | Thomas Boyd DDS |  |  | Amandafurt, French Guiana | 135 |
 | 6 | [jjcabon](https://github.com/jjcabon) | JJCABON | EDUCATION NATIONALE |  | CAYENNE | 99 |
 | 7 | [drainerw](https://github.com/drainerw) |  |  |  | French Guiana | 82 |
 | 8 | [ginimod](https://github.com/ginimod) | GIni |  |  | Cayenne | 79 |

@@ -52,11 +52,11 @@ Indexed users: 4,885
 | 13 | [jxlarrea](https://github.com/jxlarrea) | Xavier Larrea | Ecuador | 2,032 |
 | 14 | [AndSanG](https://github.com/AndSanG) | Andrés Sánchez | Quito - Ecuador | 1,927 |
 | 15 | [devsebastian44](https://github.com/devsebastian44) | Sebastian Zhunaula | Ecuador | 1,878 |
-| 16 | [DavidAucancela](https://github.com/DavidAucancela) |  | Quito, Ecuador | 1,742 |
-| 17 | [Alanjavier22](https://github.com/Alanjavier22) | Alan Mejia | Ecuador | 1,738 |
-| 18 | [itusebastian](https://github.com/itusebastian) | Sebastián Iturralde | Cumbayá, Ecuador | 1,665 |
-| 19 | [pedrodcsjostrom](https://github.com/pedrodcsjostrom) | Peter | Quito, Ecuador | 1,627 |
-| 20 | [AnthonyLozadaAlexander](https://github.com/AnthonyLozadaAlexander) | zDefcon21 | Ecuador | 1,573 |
+| 16 | [AndrezRecalde](https://github.com/AndrezRecalde) | Andres Recalde | Ecuador | 1,812 |
+| 17 | [DavidAucancela](https://github.com/DavidAucancela) |  | Quito, Ecuador | 1,742 |
+| 18 | [Alanjavier22](https://github.com/Alanjavier22) | Alan Mejia | Ecuador | 1,738 |
+| 19 | [itusebastian](https://github.com/itusebastian) | Sebastián Iturralde | Cumbayá, Ecuador | 1,665 |
+| 20 | [pedrodcsjostrom](https://github.com/pedrodcsjostrom) | Peter | Quito, Ecuador | 1,627 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 4,885
 | 19 | [Davichobits](https://github.com/Davichobits) | David Ruiz | Ecuador | 116 |
 | 20 | [Bryan-Herrera-DEV](https://github.com/Bryan-Herrera-DEV) | Bryan Herrera ~ ርᚱ1ናተᛰ ᚻህᚥተპᚱ | Ecuador | 115 |
 
-Generated: 2026-10-17T14:09:26.330Z
+Generated: 2026-10-17T15:39:39.874Z

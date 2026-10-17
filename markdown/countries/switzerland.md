@@ -16,9 +16,9 @@ Indexed users: 24,083
 | 2 | [philippherzig](https://github.com/philippherzig) | Philipp Herzig | Zurich, Switzerland | 43,171 |
 | 3 | [antoineschaller](https://github.com/antoineschaller) | Antoine Schaller | Switzerland | 37,821 |
 | 4 | [AndreaCensi](https://github.com/AndreaCensi) | Andrea Censi | Zürich, Switzerland | 32,543 |
-| 5 | [anulum](https://github.com/anulum) | Miroslav Šotek | Switzerland | 28,182 |
-| 6 | [JonnyBurger](https://github.com/JonnyBurger) | Jonny Burger | Zurich, Switzerland | 28,154 |
-| 7 | [arkswiss](https://github.com/arkswiss) | ark.swiss Sàrl | Switzerland | 25,676 |
+| 5 | [arkswiss](https://github.com/arkswiss) | ark.swiss Sàrl | Switzerland | 31,538 |
+| 6 | [anulum](https://github.com/anulum) | Miroslav Šotek | Switzerland | 28,182 |
+| 7 | [JonnyBurger](https://github.com/JonnyBurger) | Jonny Burger | Zurich, Switzerland | 28,154 |
 | 8 | [marfeyx](https://github.com/marfeyx) | Marfeyx | Rotkreuz, Switzerland | 21,479 |
 | 9 | [auge2u](https://github.com/auge2u) | Agustin M. | Zurich, Switzerland | 18,988 |
 | 10 | [fabaff](https://github.com/fabaff) | Fabian Affolter | Switzerland | 18,727 |
@@ -83,4 +83,4 @@ Indexed users: 24,083
 | 19 | [nyancrimew](https://github.com/nyancrimew) | maia arson crimew | Switzerland | 1,856 |
 | 20 | [jeremytammik](https://github.com/jeremytammik) | Jeremy Tammik | Switzerland | 1,841 |
 
-Generated: 2026-10-17T13:32:50.094Z
+Generated: 2026-10-17T15:07:43.658Z

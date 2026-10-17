@@ -1,6 +1,6 @@
 # Public Contributions - Yemen
 
-Generated: 2026-10-17T13:41:24.018Z
+Generated: 2026-10-17T15:15:24.478Z
 
 Users: 1206
 
@@ -9,8 +9,8 @@ Users: 1206
 | 1 | [thejulan](https://github.com/thejulan) | Julan | @green-goblins @DevITOps @looptron-team  |  | Yemen | 95318 |
 | 2 | [YounisDany](https://github.com/YounisDany) | Younis Dany \| يونس ضاعني |  | Yunesdhanei | Yemen | 43101 |
 | 3 | [MrIbrahem](https://github.com/MrIbrahem) | ibrahem Qasim |  | Ibrahem_Qasim | Sana'a  | 22778 |
-| 4 | [tarasana-mufadhala](https://github.com/tarasana-mufadhala) | Mokhtar Hussein Abdulwahab Alsorori | University of Saba Region  |  | Yemen  | 7227 |
-| 5 | [Jabri-web](https://github.com/Jabri-web) | Abdulla Al-Jabri | Yemen |  | Haziz- Sana'a | 6182 |
+| 4 | [Jabri-web](https://github.com/Jabri-web) | Abdulla Al-Jabri | Yemen |  | Haziz- Sana'a | 6182 |
+| 5 | [tarasana-mufadhala](https://github.com/tarasana-mufadhala) | Mokhtar Hussein Abdulwahab Alsorori | University of Saba Region  |  | Yemen  | 4286 |
 | 6 | [ken00H](https://github.com/ken00H) |  | NerdMagic Games |  | Yemen | 3486 |
 | 7 | [HakimAlqubati](https://github.com/HakimAlqubati) | Hakim Ahmed Alqubati | NLT Software (Malaysia) | alqubatihakim | Yemen | 3476 |
 | 8 | [mibo01699](https://github.com/mibo01699) | Mayass Ali  | Arabian Eagle A.E.C . 🌐🦅 | Arabianeagleaec | Yemen  | 2133 |

@@ -24,14 +24,14 @@ Indexed users: 471
 | 10 | [ludndev](https://github.com/ludndev) | Judicaël AHYI | Cotonou, Benin | 4,064 |
 | 11 | [Richard6141](https://github.com/Richard6141) | Richard SALANON | Cotonou, Bénin | 4,045 |
 | 12 | [iyosayi0x](https://github.com/iyosayi0x) | Iyosayi | Nigeria , Benin  | 3,991 |
-| 13 | [Yoannoza](https://github.com/Yoannoza) | Yoann OZA | Cotonou, Benin | 3,902 |
-| 14 | [Reqima-dev](https://github.com/Reqima-dev) | Abdul A. KONDO | Benin, Cotonou | 3,900 |
+| 13 | [Reqima-dev](https://github.com/Reqima-dev) | Abdul A. KONDO | Benin, Cotonou | 3,900 |
+| 14 | [Yoannoza](https://github.com/Yoannoza) | Yoann OZA | Cotonou, Benin | 3,896 |
 | 15 | [eliotfgn](https://github.com/eliotfgn) | Eliot FAGNON | Cotonou, Benin | 3,602 |
 | 16 | [Van064886](https://github.com/Van064886) | Vanique ATADE  | Cotonou, Benin | 3,581 |
 | 17 | [20Frederic20](https://github.com/20Frederic20) |  | Benin, Cotonou | 3,352 |
 | 18 | [Aulerien](https://github.com/Aulerien) | TCHANHOUIN Amede Angel Aulerien | Benin, Cotonou | 3,236 |
 | 19 | [koladev32](https://github.com/koladev32) | Mangabo  Kolawole | Benin, Cotonou | 3,216 |
-| 20 | [mdnjohn](https://github.com/mdnjohn) | John B. | Benin | 3,138 |
+| 20 | [Kinbor1994](https://github.com/Kinbor1994) | KINNOUME S. Borel | BENIN | 3,150 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 471
 | 19 | [awarris](https://github.com/awarris) | Warris AGBANNONDE | Benin, Cotonou Ganhi | 71 |
 | 20 | [baba-mandef](https://github.com/baba-mandef) | Abiodoun Paraïso | Adjarra, Benin | 71 |
 
-Generated: 2026-10-17T13:53:54.978Z
+Generated: 2026-10-17T15:26:11.818Z

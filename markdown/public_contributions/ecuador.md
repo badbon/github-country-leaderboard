@@ -1,6 +1,6 @@
 # Public Contributions - Ecuador
 
-Generated: 2026-10-17T14:09:26.330Z
+Generated: 2026-10-17T15:39:39.874Z
 
 Users: 4885
 
@@ -21,8 +21,8 @@ Users: 4885
 | 13 | [jxlarrea](https://github.com/jxlarrea) | Xavier Larrea |  | jxlarrea | Ecuador | 2032 |
 | 14 | [AndSanG](https://github.com/AndSanG) | Andrés Sánchez |  |  | Quito - Ecuador | 1927 |
 | 15 | [devsebastian44](https://github.com/devsebastian44) | Sebastian Zhunaula |  | devsebastian44 | Ecuador | 1878 |
-| 16 | [DavidAucancela](https://github.com/DavidAucancela) |  | Here and there |  | Quito, Ecuador | 1742 |
-| 17 | [Alanjavier22](https://github.com/Alanjavier22) | Alan Mejia |  |  | Ecuador | 1738 |
-| 18 | [itusebastian](https://github.com/itusebastian) | Sebastián Iturralde | BUOY |  | Cumbayá, Ecuador | 1665 |
-| 19 | [pedrodcsjostrom](https://github.com/pedrodcsjostrom) | Peter | @ez-donate @ioet @gdg-quito  | peterDev_ | Quito, Ecuador | 1627 |
-| 20 | [AnthonyLozadaAlexander](https://github.com/AnthonyLozadaAlexander) | zDefcon21 |  |  | Ecuador | 1573 |
+| 16 | [AndrezRecalde](https://github.com/AndrezRecalde) | Andres Recalde |  |  | Ecuador | 1812 |
+| 17 | [DavidAucancela](https://github.com/DavidAucancela) |  | Here and there |  | Quito, Ecuador | 1742 |
+| 18 | [Alanjavier22](https://github.com/Alanjavier22) | Alan Mejia |  |  | Ecuador | 1738 |
+| 19 | [itusebastian](https://github.com/itusebastian) | Sebastián Iturralde | BUOY |  | Cumbayá, Ecuador | 1665 |
+| 20 | [pedrodcsjostrom](https://github.com/pedrodcsjostrom) | Peter | @ez-donate @ioet @gdg-quito  | peterDev_ | Quito, Ecuador | 1627 |

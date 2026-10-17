@@ -19,7 +19,7 @@ Indexed users: 139
 | 5 | [guessty](https://github.com/guessty) | Christian | Jersey, Channel Islands | 8,127 |
 | 6 | [timkrins](https://github.com/timkrins) | Tim Krins | Jersey, Channel Islands | 4,861 |
 | 7 | [danielmullin](https://github.com/danielmullin) | Daniel Mullin | Jersey | 4,688 |
-| 8 | [gnathoi](https://github.com/gnathoi) | Nathaniel Hey | Jersey, Channel Islands | 4,334 |
+| 8 | [gnathoi](https://github.com/gnathoi) | Nathaniel Hey | Jersey, Channel Islands | 4,336 |
 | 9 | [wildgeodude](https://github.com/wildgeodude) | Dominic Samphier | Jersey | 4,055 |
 | 10 | [digitalbuddha](https://github.com/digitalbuddha) | Mike Nakhimovich | The dirty (jersey) | 3,872 |
 | 11 | [oidz1234](https://github.com/oidz1234) | Mark McNally | Jersey | 3,347 |
@@ -44,7 +44,7 @@ Indexed users: 139
 | 5 | [adecler](https://github.com/adecler) | Arnaud Declercq | Jersey | 572 |
 | 6 | [CJ-Jackson](https://github.com/CJ-Jackson) | Christopher John Jackson | St. Clement, Jersey | 547 |
 | 7 | [vraic](https://github.com/vraic) | André Tanguy | Jersey | 500 |
-| 8 | [gnathoi](https://github.com/gnathoi) | Nathaniel Hey | Jersey, Channel Islands | 428 |
+| 8 | [gnathoi](https://github.com/gnathoi) | Nathaniel Hey | Jersey, Channel Islands | 430 |
 | 9 | [doobox](https://github.com/doobox) | Doobox | Jersey | 409 |
 | 10 | [michaelbutler1998](https://github.com/michaelbutler1998) | Michael Butler | Jersey | 407 |
 | 11 | [mhaddon](https://github.com/mhaddon) | Michael Haddon | Jersey, Channel Islands | 211 |
@@ -83,4 +83,4 @@ Indexed users: 139
 | 19 | [garyedwards](https://github.com/garyedwards) | Gary Edwards | Jersey, Channel Islands | 21 |
 | 20 | [Chrisedmo](https://github.com/Chrisedmo) | Chris Mousdale | Jersey, Channel Islands | 20 |
 
-Generated: 2026-10-17T14:27:09.065Z
+Generated: 2026-10-17T15:55:46.225Z

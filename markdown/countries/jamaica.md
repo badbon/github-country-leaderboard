@@ -12,11 +12,11 @@ Indexed users: 1,274
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [gordonswaby](https://github.com/gordonswaby) | EduFocal | Kingston, Jamaica  | 43,890 |
+| 1 | [gordonswaby](https://github.com/gordonswaby) | EduFocal | Kingston, Jamaica  | 43,963 |
 | 2 | [slocker3](https://github.com/slocker3) | Stephen Locker | Kingston, WA | 15,661 |
 | 3 | [alexarthurs](https://github.com/alexarthurs) | Alex Arthurs | Kingston, Ontario | 12,442 |
 | 4 | [SirFitz](https://github.com/SirFitz) | Romario Fitzgerald | Jamaica | 11,378 |
-| 5 | [eforth](https://github.com/eforth) | Ervin Forth | Jamaica | 9,400 |
+| 5 | [eforth](https://github.com/eforth) | Ervin Forth | Jamaica | 9,217 |
 | 6 | [olusiekwin](https://github.com/olusiekwin) | Gramm | kingston, JM | 8,867 |
 | 7 | [kenoButler](https://github.com/kenoButler) | KenoB | Kingston, Jamaica | 8,749 |
 | 8 | [QuigProQuo](https://github.com/QuigProQuo) | John Peter Quigley | Kingston, New York | 7,955 |
@@ -27,7 +27,7 @@ Indexed users: 1,274
 | 13 | [dimitriharding](https://github.com/dimitriharding) | Dimitri Harding | Kingston, Jamaica | 5,291 |
 | 14 | [SammarieoBrown](https://github.com/SammarieoBrown) | Sammarieo Brown | Kingston, Jamaica | 5,238 |
 | 15 | [cogell](https://github.com/cogell) | B. Cedric Cogell | Kingston, NY | 4,636 |
-| 16 | [emperorjm](https://github.com/emperorjm) | Adrian Thompson | Jamaica | 4,618 |
+| 16 | [emperorjm](https://github.com/emperorjm) | Adrian Thompson | Jamaica | 4,532 |
 | 17 | [javaniecampbell](https://github.com/javaniecampbell) | Javanie Campbell | Jamaica | 4,426 |
 | 18 | [JCarran0](https://github.com/JCarran0) | Jared Carrano | Kingston, NY | 4,413 |
 | 19 | [shanoysinc](https://github.com/shanoysinc) | Shanoy Sinclair | Jamaica | 4,160 |
@@ -83,4 +83,4 @@ Indexed users: 1,274
 | 19 | [aliasad059](https://github.com/aliasad059) | Ali Asad | Kingston, Ontario | 100 |
 | 20 | [jordanliu](https://github.com/jordanliu) | Jordan Liu | Kingston, Jamaica | 95 |
 
-Generated: 2026-10-17T14:26:24.177Z
+Generated: 2026-10-17T15:55:42.713Z

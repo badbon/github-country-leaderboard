@@ -17,13 +17,13 @@ Indexed users: 2,500
 | 3 | [marianoj8](https://github.com/marianoj8) | Mariano JavaSwing | Angola, Luanda | 12,910 |
 | 4 | [Katumbela](https://github.com/Katumbela) | João Afonso Katombela | LUANDA | 11,834 |
 | 5 | [josecaseiro](https://github.com/josecaseiro) | José Caseiro | Angola | 10,429 |
-| 6 | [EmanuelJoseCandido](https://github.com/EmanuelJoseCandido) | Emanuel Cândido | Luanda, Angola | 8,618 |
-| 7 | [nuelst](https://github.com/nuelst) | manuel | Luanda, Angola | 6,554 |
-| 8 | [Jndungue089](https://github.com/Jndungue089) | Josemar Ndungue | Angola | 6,520 |
-| 9 | [bentocussei](https://github.com/bentocussei) | Bento Cussei | Luanda, Angola | 5,633 |
-| 10 | [emanuel-malungo](https://github.com/emanuel-malungo) | Emanuel Malungo |  Luanda, Angola | 5,486 |
-| 11 | [figassis](https://github.com/figassis) | Assis Ngolo | Luanda, Angola | 5,456 |
-| 12 | [cnoble](https://github.com/cnoble) | Chris Noble | Angola, IN | 5,388 |
+| 6 | [cnoble](https://github.com/cnoble) | Chris Noble | Angola, IN | 9,520 |
+| 7 | [EmanuelJoseCandido](https://github.com/EmanuelJoseCandido) | Emanuel Cândido | Luanda, Angola | 8,618 |
+| 8 | [nuelst](https://github.com/nuelst) | manuel | Luanda, Angola | 6,554 |
+| 9 | [Jndungue089](https://github.com/Jndungue089) | Josemar Ndungue | Angola | 6,520 |
+| 10 | [figassis](https://github.com/figassis) | Assis Ngolo | Luanda, Angola | 6,103 |
+| 11 | [bentocussei](https://github.com/bentocussei) | Bento Cussei | Luanda, Angola | 5,633 |
+| 12 | [emanuel-malungo](https://github.com/emanuel-malungo) | Emanuel Malungo |  Luanda, Angola | 5,486 |
 | 13 | [osvaldowafulua](https://github.com/osvaldowafulua) | Osvaldo Wafulua | Angola | 4,952 |
 | 14 | [noejunior299](https://github.com/noejunior299) | Noé Idagi | Angola/Luanda | 4,947 |
 | 15 | [joel2011140](https://github.com/joel2011140) | Joel Marinho | Luanda | 4,832 |
@@ -83,4 +83,4 @@ Indexed users: 2,500
 | 19 | [jofranqueira](https://github.com/jofranqueira) | José Frangueira | Angola | 160 |
 | 20 | [Jovanysfive](https://github.com/Jovanysfive) | Job Bento | Angola/Luanda | 152 |
 
-Generated: 2026-10-17T13:47:16.392Z
+Generated: 2026-10-17T15:21:10.954Z

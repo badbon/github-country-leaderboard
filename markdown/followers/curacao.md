@@ -1,6 +1,6 @@
 # Followers - Curaçao
 
-Generated: 2026-10-17T14:07:29.774Z
+Generated: 2026-10-17T15:36:57.164Z
 
 Users: 53
 
@@ -13,7 +13,7 @@ Users: 53
 | 5 | [weyert](https://github.com/weyert) | Weyert de Boer |  |  | London, Curaçao | 43 |
 | 6 | [acesuares](https://github.com/acesuares) | Ace Suares | Suares & Co |  | Willemstad, Netherlands Antilles | 38 |
 | 7 | [rascoop](https://github.com/rascoop) | Richard Scoop |  |  | Curaçao, Dutch Caribbean | 33 |
-| 8 | [jentanbernardus](https://github.com/jentanbernardus) | Jentan Bernardus |  | jentanbernardus | Curaçao | 28 |
+| 8 | [jentanbernardus](https://github.com/jentanbernardus) | Jentan Bernardus |  | jentanbernardus | Curaçao | 29 |
 | 9 | [frankgeerlings](https://github.com/frankgeerlings) | Frank Geerlings |  |  | Curaçao | 22 |
 | 10 | [nelreina](https://github.com/nelreina) | Nelreina |  | nelreina | Willemstad, Curacao | 19 |
 | 11 | [ekid](https://github.com/ekid) | Ekid | Eflavour |  | Willemstad | 16 |

@@ -1,6 +1,6 @@
 # Public Contributions - Jersey
 
-Generated: 2026-10-17T14:27:09.065Z
+Generated: 2026-10-17T15:55:46.225Z
 
 Users: 139
 
@@ -13,7 +13,7 @@ Users: 139
 | 5 | [adecler](https://github.com/adecler) | Arnaud Declercq | BuroHappold Engineering |  | Jersey | 572 |
 | 6 | [CJ-Jackson](https://github.com/CJ-Jackson) | Christopher John Jackson | Sephora UK | MrCJJackson | St. Clement, Jersey | 547 |
 | 7 | [vraic](https://github.com/vraic) | André Tanguy |  |  | Jersey | 500 |
-| 8 | [gnathoi](https://github.com/gnathoi) | Nathaniel Hey |  |  | Jersey, Channel Islands | 428 |
+| 8 | [gnathoi](https://github.com/gnathoi) | Nathaniel Hey |  |  | Jersey, Channel Islands | 430 |
 | 9 | [doobox](https://github.com/doobox) | Doobox | Doobox | doobox | Jersey | 409 |
 | 10 | [michaelbutler1998](https://github.com/michaelbutler1998) | Michael Butler | Insert Affiliate Ltd |  | Jersey | 407 |
 | 11 | [mhaddon](https://github.com/mhaddon) | Michael Haddon | @politepixels  |  | Jersey, Channel Islands | 211 |

@@ -1,6 +1,6 @@
 # Total Contributions - Switzerland
 
-Generated: 2026-10-17T13:32:50.094Z
+Generated: 2026-10-17T15:07:43.658Z
 
 Users: 24083
 
@@ -10,9 +10,9 @@ Users: 24083
 | 2 | [philippherzig](https://github.com/philippherzig) | Philipp Herzig | @switzerlandtourism |  | Zurich, Switzerland | 43171 |
 | 3 | [antoineschaller](https://github.com/antoineschaller) | Antoine Schaller |  |  | Switzerland | 37821 |
 | 4 | [AndreaCensi](https://github.com/AndreaCensi) | Andrea Censi | ETH Zürich @idsc-frazzoli  & @duckietown  |  | Zürich, Switzerland | 32543 |
-| 5 | [anulum](https://github.com/anulum) | Miroslav Šotek | Anulum Institute | anulum | Switzerland | 28182 |
-| 6 | [JonnyBurger](https://github.com/JonnyBurger) | Jonny Burger | @remotion-dev | JNYBGR | Zurich, Switzerland | 28154 |
-| 7 | [arkswiss](https://github.com/arkswiss) | ark.swiss Sàrl | ark.swiss sàrl |  | Switzerland | 25676 |
+| 5 | [arkswiss](https://github.com/arkswiss) | ark.swiss Sàrl | ark.swiss sàrl |  | Switzerland | 31538 |
+| 6 | [anulum](https://github.com/anulum) | Miroslav Šotek | Anulum Institute | anulum | Switzerland | 28182 |
+| 7 | [JonnyBurger](https://github.com/JonnyBurger) | Jonny Burger | @remotion-dev | JNYBGR | Zurich, Switzerland | 28154 |
 | 8 | [marfeyx](https://github.com/marfeyx) | Marfeyx |  |  | Rotkreuz, Switzerland | 21479 |
 | 9 | [auge2u](https://github.com/auge2u) | Agustin M. | @habitusnet @nhabitus @pie3-com @rhelvia @devguard-pro |  | Zurich, Switzerland | 18988 |
 | 10 | [fabaff](https://github.com/fabaff) | Fabian Affolter |  | fabaff | Switzerland | 18727 |

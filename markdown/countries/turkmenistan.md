@@ -13,7 +13,7 @@ Indexed users: 501
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [Kemalstudio](https://github.com/Kemalstudio) | Kemal Atayev | Turkmenistan / Ashgabat | 23,739 |
-| 2 | [resuls](https://github.com/resuls) | Resul | Turkmenistan | 8,549 |
+| 2 | [resuls](https://github.com/resuls) | Resul | Turkmenistan | 8,605 |
 | 3 | [bruno-keiko](https://github.com/bruno-keiko) | Bruno | Turkmenistan | 6,653 |
 | 4 | [arslanAta](https://github.com/arslanAta) | Arslan | Turkmenistan | 5,293 |
 | 5 | [realmeylisdev](https://github.com/realmeylisdev) | Meylis | Ashgabat, Turkmenistan | 4,570 |
@@ -54,8 +54,8 @@ Indexed users: 501
 | 15 | [atageldi194229](https://github.com/atageldi194229) | Atageldi | Ashgabat, Turkmenistan | 366 |
 | 16 | [Seyit47](https://github.com/Seyit47) | Seyitmyrat Geldiyew | Ashgabat, Turkmenistan | 352 |
 | 17 | [richxcame](https://github.com/richxcame) | Baygeldi Cholukov | Turkmenistan | 330 |
-| 18 | [wepashka](https://github.com/wepashka) | Vepa Sabyrow | Ashgabat | 286 |
-| 19 | [leonid-belousov](https://github.com/leonid-belousov) | Leonid | Turkmenistan Ashgabat | 281 |
+| 18 | [leonid-belousov](https://github.com/leonid-belousov) | Leonid | Turkmenistan Ashgabat | 286 |
+| 19 | [wepashka](https://github.com/wepashka) | Vepa Sabyrow | Ashgabat | 286 |
 | 20 | [mekanbaymyradov](https://github.com/mekanbaymyradov) | Mekan Baymyradov | Turkmenistan, Ashgabat | 267 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 501
 | 19 | [MerlinEmris](https://github.com/MerlinEmris) | Merdan Chariyarov | Ashgabat | 65 |
 | 20 | [atageldi194229](https://github.com/atageldi194229) | Atageldi | Ashgabat, Turkmenistan | 64 |
 
-Generated: 2026-10-17T13:36:21.928Z
+Generated: 2026-10-17T15:11:53.760Z

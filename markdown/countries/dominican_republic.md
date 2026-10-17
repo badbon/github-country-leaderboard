@@ -13,25 +13,25 @@ Indexed users: 3,301
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [ibernabel](https://github.com/ibernabel) | Idequel Bernabel | Dominican Republic | 16,414 |
-| 2 | [kaioken](https://github.com/kaioken) | Max Castro | Dominican Republic | 12,671 |
-| 3 | [jflerime314](https://github.com/jflerime314) | Joseph Angelo Flerimé | Dominican Republic | 11,312 |
-| 4 | [deuriib](https://github.com/deuriib) | Deuri Vasquez | Santo Domingo, R. D. | 10,542 |
-| 5 | [0x-Crisbanks](https://github.com/0x-Crisbanks) | Crisbanks | Dominican Republic  | 9,538 |
-| 6 | [emilsosa](https://github.com/emilsosa) | Emil Sosa | Dominican Republic | 8,906 |
-| 7 | [Urpirio](https://github.com/Urpirio) | UrpirioDev | Dominican Republic  | 8,607 |
-| 8 | [everylisting](https://github.com/everylisting) | Philippe Roy | Dominican-Republic | 8,493 |
-| 9 | [josuegrullon](https://github.com/josuegrullon) | Josue Grullon  | Dominican Republic | 8,322 |
+| 2 | [josuegrullon](https://github.com/josuegrullon) | Josue Grullon  | Dominican Republic | 12,774 |
+| 3 | [kaioken](https://github.com/kaioken) | Max Castro | Dominican Republic | 12,671 |
+| 4 | [jflerime314](https://github.com/jflerime314) | Joseph Angelo Flerimé | Dominican Republic | 11,312 |
+| 5 | [deuriib](https://github.com/deuriib) | Deuri Vasquez | Santo Domingo, R. D. | 10,542 |
+| 6 | [0x-Crisbanks](https://github.com/0x-Crisbanks) | Crisbanks | Dominican Republic  | 9,538 |
+| 7 | [emilsosa](https://github.com/emilsosa) | Emil Sosa | Dominican Republic | 8,906 |
+| 8 | [Urpirio](https://github.com/Urpirio) | UrpirioDev | Dominican Republic  | 8,607 |
+| 9 | [everylisting](https://github.com/everylisting) | Philippe Roy | Dominican-Republic | 8,493 |
 | 10 | [cervantesh](https://github.com/cervantesh) | Cervantes Hernandez | Dominican Republic | 7,804 |
 | 11 | [elminson](https://github.com/elminson) | Elminson De Oleo Baez | Santo Domingo, Dominican Republic | 7,675 |
-| 12 | [wcontreras](https://github.com/wcontreras) | Williams Contreras | Dominican Republic, Santo Domingo | 7,121 |
-| 13 | [sanchezta](https://github.com/sanchezta) | Adrian Sanchez | Dominican Republic | 6,885 |
-| 14 | [dkropachev](https://github.com/dkropachev) | Dmitry Kropachev | Dominican Republic | 6,784 |
-| 15 | [arielbritorivera](https://github.com/arielbritorivera) | Ariel A. Brito | Dominican Republic | 6,641 |
-| 16 | [luismts](https://github.com/luismts) | Luis Matos | Dominican Republic | 6,633 |
-| 17 | [focux](https://github.com/focux) | Leonardo E. Dominguez | Dominican Republic | 6,567 |
-| 18 | [lewandy](https://github.com/lewandy) | Lewandy Dilone | Santiago,Dominican Republic | 6,261 |
-| 19 | [franklinmdev](https://github.com/franklinmdev) | Franklin Martinez | Dominican Republic | 6,230 |
-| 20 | [AnthRG](https://github.com/AnthRG) | Anthony Rosario G. | Dominican Republic | 5,922 |
+| 12 | [Zyruks](https://github.com/Zyruks) | Samuel Llibre-Pillco | Dominican Republic | 7,147 |
+| 13 | [wcontreras](https://github.com/wcontreras) | Williams Contreras | Dominican Republic, Santo Domingo | 7,121 |
+| 14 | [sanchezta](https://github.com/sanchezta) | Adrian Sanchez | Dominican Republic | 6,885 |
+| 15 | [dkropachev](https://github.com/dkropachev) | Dmitry Kropachev | Dominican Republic | 6,784 |
+| 16 | [arielbritorivera](https://github.com/arielbritorivera) | Ariel A. Brito | Dominican Republic | 6,641 |
+| 17 | [luismts](https://github.com/luismts) | Luis Matos | Dominican Republic | 6,633 |
+| 18 | [focux](https://github.com/focux) | Leonardo E. Dominguez | Dominican Republic | 6,567 |
+| 19 | [lewandy](https://github.com/lewandy) | Lewandy Dilone | Santiago,Dominican Republic | 6,261 |
+| 20 | [franklinmdev](https://github.com/franklinmdev) | Franklin Martinez | Dominican Republic | 6,230 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 3,301
 | 19 | [eatskolnikov](https://github.com/eatskolnikov) | Enmanuel Toribio | Dominican Republic | 149 |
 | 20 | [adonismendozaperez](https://github.com/adonismendozaperez) | Adonis Mendoza  | Dominican Republic | 117 |
 
-Generated: 2026-10-17T14:08:47.975Z
+Generated: 2026-10-17T15:39:33.834Z

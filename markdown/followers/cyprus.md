@@ -1,12 +1,12 @@
 # Followers - Cyprus
 
-Generated: 2026-10-17T14:07:35.414Z
+Generated: 2026-10-17T15:37:34.369Z
 
 Users: 2726
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [zloirock](https://github.com/zloirock) | Denis Pushkarev |  | zloirock | Cyprus, Larnaca | 7491 |
+| 1 | [zloirock](https://github.com/zloirock) | Denis Pushkarev |  | zloirock | Cyprus, Larnaca | 7498 |
 | 2 | [blackhatethicalhacking](https://github.com/blackhatethicalhacking) | Black Hat Ethical Hacking | @blackhatethicalhacking | secur1ty1samyth | Cyprus | 2155 |
 | 3 | [protesilaos](https://github.com/protesilaos) | Protesilaos |  |  | Cyprus | 1355 |
 | 4 | [mozafarimanesh](https://github.com/mozafarimanesh) | Reza  Mozafari Manesh |  | MozafariManesh | Republic Of Cyprus | 697 |

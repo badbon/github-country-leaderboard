@@ -1,6 +1,6 @@
 # Public Contributions - Turkmenistan
 
-Generated: 2026-10-17T13:36:21.928Z
+Generated: 2026-10-17T15:11:53.760Z
 
 Users: 501
 
@@ -23,6 +23,6 @@ Users: 501
 | 15 | [atageldi194229](https://github.com/atageldi194229) | Atageldi |  |  | Ashgabat, Turkmenistan | 366 |
 | 16 | [Seyit47](https://github.com/Seyit47) | Seyitmyrat Geldiyew | Ynamly Belentlik |  | Ashgabat, Turkmenistan | 352 |
 | 17 | [richxcame](https://github.com/richxcame) | Baygeldi Cholukov |  | richxcame | Turkmenistan | 330 |
-| 18 | [wepashka](https://github.com/wepashka) | Vepa Sabyrow |  |  | Ashgabat | 286 |
-| 19 | [leonid-belousov](https://github.com/leonid-belousov) | Leonid |  |  | Turkmenistan Ashgabat | 281 |
+| 18 | [leonid-belousov](https://github.com/leonid-belousov) | Leonid |  |  | Turkmenistan Ashgabat | 286 |
+| 19 | [wepashka](https://github.com/wepashka) | Vepa Sabyrow |  |  | Ashgabat | 286 |
 | 20 | [mekanbaymyradov](https://github.com/mekanbaymyradov) | Mekan Baymyradov |  |  | Turkmenistan, Ashgabat | 267 |

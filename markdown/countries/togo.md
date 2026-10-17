@@ -23,7 +23,7 @@ Indexed users: 679
 | 9 | [jeanclaudesoft](https://github.com/jeanclaudesoft) | Claudy | Togo | 5,892 |
 | 10 | [JsOptimizer](https://github.com/JsOptimizer) | Michael Olalekan | Togo | 5,712 |
 | 11 | [charlesdzadu](https://github.com/charlesdzadu) | Charles DZADU | Lomé - Togo | 5,175 |
-| 12 | [sebandroidev](https://github.com/sebandroidev) | Sebastien NOGBEDJI | Lomé, TOGO | 4,965 |
+| 12 | [sebandroidev](https://github.com/sebandroidev) | Sebastien NOGBEDJI | Lomé, TOGO | 5,049 |
 | 13 | [EmD-228](https://github.com/EmD-228) | Kokou DENYO | Lome-Togo | 4,491 |
 | 14 | [Dreykovic](https://github.com/Dreykovic) | Birewa Audrey AMONA | Togo | 4,464 |
 | 15 | [Rahim10020](https://github.com/Rahim10020) | Rahim ALI | Lome -TOGO | 4,223 |
@@ -50,7 +50,7 @@ Indexed users: 679
 | 11 | [Nova2026-graphik](https://github.com/Nova2026-graphik) | Samuel Nova | Lomé / Togo | 1,279 |
 | 12 | [Einswilli](https://github.com/Einswilli) | #Einswilli | Lomé | 1,189 |
 | 13 | [Gowaru](https://github.com/Gowaru) | Mawuli Godwin Alexandre AMEVOR | Lomé | 913 |
-| 14 | [Docteur-Parfait](https://github.com/Docteur-Parfait) | Tech Pastor | Lomé, Togo | 851 |
+| 14 | [Docteur-Parfait](https://github.com/Docteur-Parfait) | Tech Pastor | Lomé, Togo | 850 |
 | 15 | [henocn](https://github.com/henocn) | Henoc N'GASAMA | Kara, Togo | 842 |
 | 16 | [boboPrem1](https://github.com/boboPrem1) | Amouzougan Kangni Juvanio | Togo | 824 |
 | 17 | [georgesnoe](https://github.com/georgesnoe) | Kossi Georges-Noé AHOMBO | Lomé, Togo | 756 |
@@ -63,7 +63,7 @@ Indexed users: 679
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [bekmarc](https://github.com/bekmarc) | K. Marco BEKOUTARE | Togo | 386 |
-| 2 | [mayonorris](https://github.com/mayonorris) | Mayo Takémsi Norris KADANGA | Lomé, Togo | 209 |
+| 2 | [mayonorris](https://github.com/mayonorris) | Mayo Takémsi Norris KADANGA | Lomé, Togo | 210 |
 | 3 | [IrouKaizen](https://github.com/IrouKaizen) | irouKaizen | Lomé | 197 |
 | 4 | [kpidiba](https://github.com/kpidiba) | KaizenCoder | Lomé-Togo | 149 |
 | 5 | [Agadafrancis](https://github.com/Agadafrancis) | Agada Francis Louis N. | Togo | 141 |
@@ -83,4 +83,4 @@ Indexed users: 679
 | 19 | [ica1010](https://github.com/ica1010) | Ghislin | Lomé , Togo | 65 |
 | 20 | [Maximekgn](https://github.com/Maximekgn) | KOGON Mawunygan Maxime | Togo | 64 |
 
-Generated: 2026-10-17T13:34:47.635Z
+Generated: 2026-10-17T15:08:30.330Z
