@@ -1,18 +1,18 @@
 # Public Contributions - Sierra Leone
 
-Generated: 2026-10-17T07:59:27.985Z
+Generated: 2026-10-17T09:16:49.692Z
 
 Users: 443
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [HawaKallon](https://github.com/HawaKallon) | Hawa Kallon |  |  | Sierra Leone | 2114 |
+| 1 | [HawaKallon](https://github.com/HawaKallon) | Hawa Kallon |  |  | Sierra Leone | 2106 |
 | 2 | [walonCode](https://github.com/walonCode) | Mohamed Lamin Walon Jalloh | Walon-Foundation |  | Sierra Leone | 1905 |
 | 3 | [saidubundukamara](https://github.com/saidubundukamara) | Saidu | Christex Foundation @christex-foundation  | kotor_saedu | Sierra Leone | 1282 |
 | 4 | [bnjox](https://github.com/bnjox) | Ben |  | bnjoxx | Sierra Leone | 1017 |
 | 5 | [ElktrumElk](https://github.com/ElktrumElk) | Elktrum Elk |  |  | Regent, Freetown, Sierra Leone. | 1000 |
 | 6 | [AlphaDumbuya](https://github.com/AlphaDumbuya) | Alpha Dumbuya |  | AlphaDumbuya7 | Freetown, sierra Leone  | 968 |
-| 7 | [stElmitchay](https://github.com/stElmitchay) | Mitch | Christex Foundation | el_saintt | Sierra Leone | 920 |
+| 7 | [stElmitchay](https://github.com/stElmitchay) | Mitch | Christex Foundation | el_saintt | Sierra Leone | 912 |
 | 8 | [adewoleeugene](https://github.com/adewoleeugene) | Jinjon | @christex-foundation  |  | Freetown,Sierra Leone | 780 |
 | 9 | [mkk2026](https://github.com/mkk2026) | Momodu Kamara-Kolleh | Core Brim Tech |  | Freetown, Sierra Leone | 771 |
 | 10 | [fatormajohn64-bit](https://github.com/fatormajohn64-bit) | Johnny-Tech  | Johnny-Tech  |  | Freetown Sierra Leone  | 769 |

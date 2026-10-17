@@ -1,6 +1,6 @@
 # Total Contributions - Sierra Leone
 
-Generated: 2026-10-17T07:59:27.985Z
+Generated: 2026-10-17T09:16:49.692Z
 
 Users: 443
 
@@ -15,10 +15,10 @@ Users: 443
 | 7 | [BarrieLAJ](https://github.com/BarrieLAJ) | Alhaji Abubakarr Barrie | @monimesl , @monime-lab  | Abarrie_potter | Freetown, Sierra Leone | 3576 |
 | 8 | [eponkratova](https://github.com/eponkratova) | Eka Ponkratova |  | ponkratikka | Sierra Leone | 3570 |
 | 9 | [EmmanuelKeifala](https://github.com/EmmanuelKeifala) | Emmanuel Keifala |  |  | Freetown, Sierra Leone	 | 3337 |
-| 10 | [TheLoneWulf-WA](https://github.com/TheLoneWulf-WA) | Theodore Rogers |  | TheLoneWulf_WA | Freetown, Sierra Leone | 2500 |
-| 11 | [dominicOT](https://github.com/dominicOT) | Dominic Oladapo-Tonade | @DORB-AI |  | Sierra Leone | 2486 |
-| 12 | [Mmah-Zombo](https://github.com/Mmah-Zombo) | M'mah Zombo | Korlie Limited | zombo_mah | Wilberforce, Freetown. | 2236 |
-| 13 | [HawaKallon](https://github.com/HawaKallon) | Hawa Kallon |  |  | Sierra Leone | 2114 |
+| 10 | [HawaKallon](https://github.com/HawaKallon) | Hawa Kallon |  |  | Sierra Leone | 2800 |
+| 11 | [TheLoneWulf-WA](https://github.com/TheLoneWulf-WA) | Theodore Rogers |  | TheLoneWulf_WA | Freetown, Sierra Leone | 2500 |
+| 12 | [dominicOT](https://github.com/dominicOT) | Dominic Oladapo-Tonade | @DORB-AI |  | Sierra Leone | 2486 |
+| 13 | [Mmah-Zombo](https://github.com/Mmah-Zombo) | M'mah Zombo | Korlie Limited | zombo_mah | Wilberforce, Freetown. | 2236 |
 | 14 | [ksawaneh](https://github.com/ksawaneh) | Karim Sawaneh |  |  | Freetown, Sierra Leone | 2088 |
 | 15 | [samuelmoiwa](https://github.com/samuelmoiwa) | Moiwa | Coursepaddy | samuelmoiwa | Sierra Leone | 2086 |
 | 16 | [Mevizcode](https://github.com/Mevizcode) | David Cole |  |  | Freetown, Sierra Leone | 1876 |
