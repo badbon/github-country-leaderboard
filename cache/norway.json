@@ -29923,8 +29923,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 23,
-    "publicContributions": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
     "createdAt": "2022-07-10T12:55:10Z"
   },
   {
@@ -29946,7 +29946,7 @@
     "location": "Oslo",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-02-16T00:34:06Z"
@@ -29971,8 +29971,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 238,
-    "publicContributions": 71,
+    "privateContributions": 236,
+    "publicContributions": 85,
     "createdAt": "2022-10-31T12:07:06Z"
   },
   {
@@ -29984,7 +29984,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2022-04-01T12:34:41Z"
   },
   {
@@ -29995,7 +29995,7 @@
     "company": "Cloud Operations, Ruter / TET Digital",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 2590,
+    "privateContributions": 3248,
     "publicContributions": 52,
     "createdAt": "2022-08-31T10:53:51Z"
   },
@@ -30006,9 +30006,9 @@
     "location": "Oslo",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 292,
-    "publicContributions": 146,
+    "followers": 3,
+    "privateContributions": 445,
+    "publicContributions": 123,
     "createdAt": "2022-01-10T16:37:02Z"
   },
   {
@@ -30016,11 +30016,11 @@
     "name": "Eirik B. Egge",
     "avatarUrl": "https://avatars.githubusercontent.com/u/100426260?s=72&u=9ecf986e8e4b233efab1782cf7f8a51d61903fda&v=4",
     "location": "Oslo",
-    "company": "",
+    "company": "Sopra Steria",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 83,
+    "publicContributions": 46,
     "createdAt": "2022-02-25T14:41:07Z"
   },
   {
@@ -30030,9 +30030,9 @@
     "location": "Oslo",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 144,
+    "publicContributions": 161,
     "createdAt": "2022-04-05T16:50:31Z"
   },
   {
@@ -30044,7 +30044,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 201,
+    "publicContributions": 0,
     "createdAt": "2022-08-22T14:22:21Z"
   },
   {
@@ -30056,7 +30056,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 175,
+    "publicContributions": 214,
     "createdAt": "2022-10-13T14:50:07Z"
   },
   {
@@ -30066,7 +30066,7 @@
     "location": "Oslo",
     "company": "Point Taken AS",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2022-01-28T12:51:57Z"
@@ -30079,8 +30079,8 @@
     "company": "Vipps",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1665,
-    "publicContributions": 393,
+    "privateContributions": 3869,
+    "publicContributions": 462,
     "createdAt": "2022-09-12T13:25:12Z"
   },
   {
@@ -30090,9 +30090,9 @@
     "location": "Oslo",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 511,
-    "publicContributions": 441,
+    "followers": 5,
+    "privateContributions": 479,
+    "publicContributions": 506,
     "createdAt": "2022-04-06T18:47:37Z"
   },
   {
@@ -30115,8 +30115,8 @@
     "company": "Bekk",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 440,
-    "publicContributions": 40,
+    "privateContributions": 344,
+    "publicContributions": 36,
     "createdAt": "2022-10-17T09:39:26Z"
   },
   {
@@ -30127,8 +30127,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 77,
-    "publicContributions": 32,
+    "privateContributions": 80,
+    "publicContributions": 22,
     "createdAt": "2022-06-13T21:12:49Z"
   },
   {
@@ -30140,7 +30140,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 9,
     "createdAt": "2022-04-06T17:27:45Z"
   },
   {
