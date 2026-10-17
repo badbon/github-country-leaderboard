@@ -28423,7 +28423,7 @@
     "company": "@workaroundgmbh ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 12,
+    "privateContributions": 7,
     "publicContributions": 26,
     "createdAt": "2021-04-12T10:40:44Z"
   },
@@ -28460,7 +28460,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 59,
+    "publicContributions": 51,
     "createdAt": "2021-06-14T11:26:49Z"
   },
   {
@@ -28484,7 +28484,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 55,
+    "publicContributions": 92,
     "createdAt": "2021-05-17T18:03:56Z"
   },
   {
@@ -28496,7 +28496,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 0,
     "createdAt": "2021-07-26T15:01:10Z"
   },
   {
@@ -28549,27 +28549,15 @@
   },
   {
     "login": "miloradtrninic-qbitech",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/92441171?s=72&v=4",
+    "name": "Milorad Trninic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/92441171?s=72&u=bc6c10b651419ae178a60c5e132f1b496902007b&v=4",
     "location": "Serbia",
     "company": "Qbitech Solutions",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-10-13T11:57:36Z"
-  },
-  {
-    "login": "anstepanova",
-    "name": "Anastasia Stepanova",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/78479694?s=72&u=e94d4fa3e74a20d1de9f90bdb74d69f94214c7bb&v=4",
-    "location": "Belgrade, Serbia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 47,
-    "publicContributions": 0,
-    "createdAt": "2021-02-03T11:12:26Z"
   },
   {
     "login": "PetarPurac",
@@ -28580,7 +28568,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 40,
+    "publicContributions": 55,
     "createdAt": "2021-01-18T19:35:45Z"
   },
   {
@@ -28603,8 +28591,8 @@
     "company": "@ROCm",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 2,
-    "publicContributions": 136,
+    "privateContributions": 1,
+    "publicContributions": 189,
     "createdAt": "2021-06-30T13:10:08Z"
   },
   {
@@ -28652,7 +28640,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 1,
     "createdAt": "2021-01-04T11:26:55Z"
   },
   {

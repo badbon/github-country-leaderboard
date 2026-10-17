@@ -28315,7 +28315,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 2049,
+    "privateContributions": 2182,
     "publicContributions": 0,
     "createdAt": "2018-09-12T14:16:09Z"
   },
@@ -28339,8 +28339,8 @@
     "company": "Visma",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 557,
-    "publicContributions": 216,
+    "privateContributions": 852,
+    "publicContributions": 213,
     "createdAt": "2018-10-01T06:41:37Z"
   },
   {
@@ -28435,8 +28435,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 483,
-    "publicContributions": 6,
+    "privateContributions": 455,
+    "publicContributions": 7,
     "createdAt": "2018-05-28T18:55:53Z"
   },
   {
@@ -28471,7 +28471,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 2634,
+    "privateContributions": 4445,
     "publicContributions": 0,
     "createdAt": "2018-11-14T21:56:37Z"
   },
@@ -28482,7 +28482,7 @@
     "location": "Vilnius",
     "company": "",
     "twitterUsername": "aniketchauhan1",
-    "followers": 101,
+    "followers": 100,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-10-07T10:19:23Z"
@@ -28506,22 +28506,10 @@
     "location": "Vilnius",
     "company": "Wargaming Group Limited",
     "twitterUsername": "",
-    "followers": 35,
-    "privateContributions": 1,
+    "followers": 37,
+    "privateContributions": 105,
     "publicContributions": 0,
     "createdAt": "2018-09-01T16:57:53Z"
-  },
-  {
-    "login": "AndyCosow",
-    "name": "Andrius",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/43371771?s=72&u=2016f601a9ad79aed1c5d684a0e486154a61a3ce&v=4",
-    "location": "Vilnius",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 33,
-    "privateContributions": 605,
-    "publicContributions": 8,
-    "createdAt": "2018-09-18T09:26:13Z"
   },
   {
     "login": "EdPutans",
@@ -28530,8 +28518,8 @@
     "location": "London | Vilnius",
     "company": "",
     "twitterUsername": "",
-    "followers": 30,
-    "privateContributions": 1,
+    "followers": 32,
+    "privateContributions": 0,
     "publicContributions": 6,
     "createdAt": "2018-06-14T04:55:38Z"
   },
@@ -28543,7 +28531,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 18,
-    "privateContributions": 650,
+    "privateContributions": 1014,
     "publicContributions": 14,
     "createdAt": "2018-03-13T12:49:36Z"
   },
