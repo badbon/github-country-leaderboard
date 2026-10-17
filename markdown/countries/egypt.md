@@ -1,6 +1,6 @@
 # Egypt
 
-Indexed users: 34,096
+Indexed users: 34,104
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 34,096
 | 19 | [mohamedtamer0](https://github.com/mohamedtamer0) | Mohamed Tamer | Egypt | 1,072 |
 | 20 | [mbadry1](https://github.com/mbadry1) | Mahmoud Badry | Cairo, Egypt | 1,055 |
 
-Generated: 2026-10-16T23:29:32.464Z
+Generated: 2026-10-16T23:54:44.163Z

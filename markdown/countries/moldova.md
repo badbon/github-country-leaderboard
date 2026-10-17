@@ -39,7 +39,7 @@ Indexed users: 1,749
 |---:|---|---|---|---:|
 | 1 | [amberpixels](https://github.com/amberpixels) | Eugene | Moldova, Chișinău | 28,606 |
 | 2 | [texpert](https://github.com/texpert) | Aurel Branzeanu | Chisinau, Moldova | 4,394 |
-| 3 | [ivanm696](https://github.com/ivanm696) | ivanm696  | Moldova | 3,189 |
+| 3 | [ivanm696](https://github.com/ivanm696) | ivanm696  | Moldova | 3,289 |
 | 4 | [deoleg](https://github.com/deoleg) | deoleg | Moldova | 3,165 |
 | 5 | [sighook](https://github.com/sighook) | Alex Savca | Moldova | 3,076 |
 | 6 | [nikpopesku](https://github.com/nikpopesku) | Nikolai Popesku | Chisinau, Moldova | 2,534 |
@@ -54,9 +54,9 @@ Indexed users: 1,749
 | 15 | [GabsEdits](https://github.com/GabsEdits) | Gabriel Cozma | Chisinau, Moldova | 1,651 |
 | 16 | [g0ddest](https://github.com/g0ddest) | veet | Bendery, Moldova | 1,648 |
 | 17 | [nalyk](https://github.com/nalyk) | Ion (Nalyk) Calmîș | Ungheni, Republic of Moldova | 1,397 |
-| 18 | [CatalinPlesu](https://github.com/CatalinPlesu) | Catalin Plesu | Moldova | 1,385 |
-| 19 | [iatsiuk](https://github.com/iatsiuk) | Aleksei Iatsiuk | Chisinau, Moldova | 1,378 |
-| 20 | [CyberShadow](https://github.com/CyberShadow) | Vladimir Panteleev | Moldova, Eastern Europe | 1,308 |
+| 18 | [iatsiuk](https://github.com/iatsiuk) | Aleksei Iatsiuk | Chisinau, Moldova | 1,378 |
+| 19 | [CyberShadow](https://github.com/CyberShadow) | Vladimir Panteleev | Moldova, Eastern Europe | 1,308 |
+| 20 | [alexandru-savinov](https://github.com/alexandru-savinov) | Alexandru Savinov | Moldova | 1,276 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,749
 | 19 | [vgaidarji](https://github.com/vgaidarji) | Veaceslav Gaidarji | Moldova | 115 |
 | 20 | [Ernest96](https://github.com/Ernest96) | Ernest | Chisinau Moldova | 107 |
 
-Generated: 2026-10-16T21:26:23.242Z
+Generated: 2026-10-16T23:59:34.473Z

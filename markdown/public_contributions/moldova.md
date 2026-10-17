@@ -1,6 +1,6 @@
 # Public Contributions - Moldova
 
-Generated: 2026-10-16T21:26:23.242Z
+Generated: 2026-10-16T23:59:34.473Z
 
 Users: 1749
 
@@ -8,7 +8,7 @@ Users: 1749
 |---:|---|---|---|---|---|---:|
 | 1 | [amberpixels](https://github.com/amberpixels) | Eugene | amberpixels.io |  | Moldova, Chișinău | 28606 |
 | 2 | [texpert](https://github.com/texpert) | Aurel Branzeanu | PC-Link | tvorogoff | Chisinau, Moldova | 4394 |
-| 3 | [ivanm696](https://github.com/ivanm696) | ivanm696  |  |  | Moldova | 3189 |
+| 3 | [ivanm696](https://github.com/ivanm696) | ivanm696  |  |  | Moldova | 3289 |
 | 4 | [deoleg](https://github.com/deoleg) | deoleg | CRU Moldova |  | Moldova | 3165 |
 | 5 | [sighook](https://github.com/sighook) | Alex Savca |  |  | Moldova | 3076 |
 | 6 | [nikpopesku](https://github.com/nikpopesku) | Nikolai Popesku |  |  | Chisinau, Moldova | 2534 |
@@ -23,6 +23,6 @@ Users: 1749
 | 15 | [GabsEdits](https://github.com/GabsEdits) | Gabriel Cozma | @fabricatorsltd | gxbsdev | Chisinau, Moldova | 1651 |
 | 16 | [g0ddest](https://github.com/g0ddest) | veet |  |  | Bendery, Moldova | 1648 |
 | 17 | [nalyk](https://github.com/nalyk) | Ion (Nalyk) Calmîș | Yoda.Digital | nalyk | Ungheni, Republic of Moldova | 1397 |
-| 18 | [CatalinPlesu](https://github.com/CatalinPlesu) | Catalin Plesu |  |  | Moldova | 1385 |
-| 19 | [iatsiuk](https://github.com/iatsiuk) | Aleksei Iatsiuk | Overgear |  | Chisinau, Moldova | 1378 |
-| 20 | [CyberShadow](https://github.com/CyberShadow) | Vladimir Panteleev |  |  | Moldova, Eastern Europe | 1308 |
+| 18 | [iatsiuk](https://github.com/iatsiuk) | Aleksei Iatsiuk | Overgear |  | Chisinau, Moldova | 1378 |
+| 19 | [CyberShadow](https://github.com/CyberShadow) | Vladimir Panteleev |  |  | Moldova, Eastern Europe | 1308 |
+| 20 | [alexandru-savinov](https://github.com/alexandru-savinov) | Alexandru Savinov |  |  | Moldova | 1276 |

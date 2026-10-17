@@ -1,6 +1,6 @@
 # Followers - Papua New Guinea
 
-Generated: 2026-10-16T21:35:59.157Z
+Generated: 2026-10-17T00:13:24.518Z
 
 Users: 296
 

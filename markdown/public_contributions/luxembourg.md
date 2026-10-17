@@ -1,8 +1,8 @@
 # Public Contributions - Luxembourg
 
-Generated: 2026-10-16T21:20:41.919Z
+Generated: 2026-10-16T23:53:29.644Z
 
-Users: 2188
+Users: 2187
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -24,5 +24,5 @@ Users: 2188
 | 16 | [barnumbirr](https://github.com/barnumbirr) | Martin Simon |  |  | Luxembourg | 1931 |
 | 17 | [fmind](https://github.com/fmind) | Médéric Hurier (Fmind) | Fmind.dev | fmind_dev | Luxembourg | 1861 |
 | 18 | [mike-ionut-mihai-sandu-tao](https://github.com/mike-ionut-mihai-sandu-tao) | Ionut Mihai Sandu | TAO |  | Luxembourg | 1861 |
-| 19 | [lorem-dev](https://github.com/lorem-dev) | Lorem Dev |  |  | Luxembourg | 1749 |
-| 20 | [EZotoff](https://github.com/EZotoff) | Evgeny Zotov | University of Luxembourg |  | Luxembourg | 1737 |
+| 19 | [EZotoff](https://github.com/EZotoff) | Evgeny Zotov | University of Luxembourg |  | Luxembourg | 1737 |
+| 20 | [rauschenberger](https://github.com/rauschenberger) | Armin Rauschenberger | uni.lu |  | Luxembourg | 1655 |
