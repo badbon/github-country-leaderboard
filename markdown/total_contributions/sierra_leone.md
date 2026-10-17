@@ -1,6 +1,6 @@
 # Total Contributions - Sierra Leone
 
-Generated: 2026-10-16T21:48:50.892Z
+Generated: 2026-10-17T00:27:05.618Z
 
 Users: 443
 
@@ -9,7 +9,7 @@ Users: 443
 | 1 | [alphashaw](https://github.com/alphashaw) | Alpha Shaw | @monimesl @monime-lab @fixsl |  | Sierra Leone | 8670 |
 | 2 | [butagreeza](https://github.com/butagreeza) | Francis Bangura | Byte Limited |  | Freetown. Sierra Leone | 6073 |
 | 3 | [ibrahimgeorgefoday](https://github.com/ibrahimgeorgefoday) | Ibrahim George Foday | TEKI-SL | Georges_mindset | Sierra Leone, West Africa | 5559 |
-| 4 | [saidubundukamara](https://github.com/saidubundukamara) | Saidu | Christex Foundation @christex-foundation  | kotor_saedu | Sierra Leone | 5403 |
+| 4 | [saidubundukamara](https://github.com/saidubundukamara) | Saidu | Christex Foundation @christex-foundation  | kotor_saedu | Sierra Leone | 5396 |
 | 5 | [walonCode](https://github.com/walonCode) | Mohamed Lamin Walon Jalloh | Walon-Foundation |  | Sierra Leone | 5259 |
 | 6 | [bnjox](https://github.com/bnjox) | Ben |  | bnjoxx | Sierra Leone | 3695 |
 | 7 | [BarrieLAJ](https://github.com/BarrieLAJ) | Alhaji Abubakarr Barrie | @monimesl , @monime-lab  | Abarrie_potter | Freetown, Sierra Leone | 3576 |
@@ -22,7 +22,7 @@ Users: 443
 | 14 | [ksawaneh](https://github.com/ksawaneh) | Karim Sawaneh |  |  | Freetown, Sierra Leone | 2088 |
 | 15 | [samuelmoiwa](https://github.com/samuelmoiwa) | Moiwa | Coursepaddy | samuelmoiwa | Sierra Leone | 2086 |
 | 16 | [Mevizcode](https://github.com/Mevizcode) | David Cole |  |  | Freetown, Sierra Leone | 1876 |
-| 17 | [mkk2026](https://github.com/mkk2026) | Momodu Kamara-Kolleh | Core Brim Tech |  | Freetown, Sierra Leone | 1719 |
+| 17 | [mkk2026](https://github.com/mkk2026) | Momodu Kamara-Kolleh | Core Brim Tech |  | Freetown, Sierra Leone | 1721 |
 | 18 | [Hadesalive](https://github.com/Hadesalive) | Alpha Amadu Bah | @DropX-Labs  |  | Freetown Sierra Leone | 1687 |
 | 19 | [abu-bakarr](https://github.com/abu-bakarr) |  | Limkokwing University Student | Boss_Lovel | Sierra Leone | 1674 |
 | 20 | [Swaray10](https://github.com/Swaray10) | Alusine Swaray |  |  | Sierra Leone | 1608 |
