@@ -29600,7 +29600,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 136,
+    "publicContributions": 138,
     "createdAt": "2023-01-08T18:40:43Z"
   },
   {
@@ -29635,8 +29635,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 1070,
-    "publicContributions": 589,
+    "privateContributions": 1652,
+    "publicContributions": 221,
     "createdAt": "2022-12-30T20:35:46Z"
   },
   {
@@ -29646,7 +29646,7 @@
     "location": "Santiago, Chile",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 24,
     "createdAt": "2023-03-28T14:34:42Z"
@@ -29660,7 +29660,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 195,
+    "publicContributions": 179,
     "createdAt": "2023-06-07T03:13:03Z"
   },
   {
@@ -29682,7 +29682,7 @@
     "location": "Chile",
     "company": "NTT DATA",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-01-24T19:11:33Z"
@@ -29736,27 +29736,15 @@
     "createdAt": "2023-04-03T22:47:10Z"
   },
   {
-    "login": "DrStone438",
-    "name": "Joaquin B.",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/135196724?s=72&u=4113a7aa2150b6b657174007d1cd1b91275cf57e&v=4",
-    "location": "chile",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 56,
-    "createdAt": "2023-06-01T04:31:44Z"
-  },
-  {
     "login": "FraWagner",
     "name": "Franziska Wagner",
     "avatarUrl": "https://avatars.githubusercontent.com/u/122016542?s=72&u=b725e89d0509433fb914c3fba075189647fa94fb&v=4",
     "location": "Santiago, Chile",
     "company": "Centro Nacional de Inteligencia Artificial",
     "twitterUsername": "fra_wagner_",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 12,
     "createdAt": "2023-01-05T10:05:03Z"
   },
   {
@@ -29768,7 +29756,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 14,
     "createdAt": "2023-04-12T14:21:32Z"
   },
   {

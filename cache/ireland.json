@@ -29204,7 +29204,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 3,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2022-03-15T17:20:22Z"
   },
   {
@@ -29215,8 +29215,8 @@
     "company": "",
     "twitterUsername": "suriyaswamii",
     "followers": 1,
-    "privateContributions": 28,
-    "publicContributions": 74,
+    "privateContributions": 18,
+    "publicContributions": 42,
     "createdAt": "2021-12-29T08:44:53Z"
   },
   {
@@ -29250,7 +29250,7 @@
     "location": "Dublin, Ireland",
     "company": "@Spitfire-Tech ",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2022-07-11T19:15:22Z"
@@ -29299,7 +29299,7 @@
     "company": "Intel Research & Development",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 394,
+    "privateContributions": 468,
     "publicContributions": 0,
     "createdAt": "2022-07-27T12:42:24Z"
   },
@@ -29311,8 +29311,8 @@
     "company": "",
     "twitterUsername": "ReinwatashiDev",
     "followers": 1,
-    "privateContributions": 227,
-    "publicContributions": 48,
+    "privateContributions": 186,
+    "publicContributions": 21,
     "createdAt": "2022-08-16T12:04:30Z"
   },
   {
@@ -29324,7 +29324,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 162,
+    "publicContributions": 96,
     "createdAt": "2022-08-30T09:49:03Z"
   },
   {
@@ -29364,18 +29364,6 @@
     "createdAt": "2022-10-15T14:34:42Z"
   },
   {
-    "login": "Tanxunze",
-    "name": "Mio",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/103798154?s=72&u=5c769cc9c0ac5948531cfeec4f9f8a731b8f3386&v=4",
-    "location": "Ireland",
-    "company": "University of Limerick",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 203,
-    "publicContributions": 174,
-    "createdAt": "2022-04-16T01:59:31Z"
-  },
-  {
     "login": "Christian-Butler",
     "name": "Christian Butler",
     "avatarUrl": "https://avatars.githubusercontent.com/u/99195442?s=72&u=04caaba972b4c647e5f14bffb266e087bb812312&v=4",
@@ -29384,7 +29372,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 48,
+    "publicContributions": 58,
     "createdAt": "2022-02-07T14:46:28Z"
   },
   {
@@ -29403,12 +29391,12 @@
     "login": "conor-sometimes",
     "name": "Conor",
     "avatarUrl": "https://avatars.githubusercontent.com/u/117556909?s=72&u=d361a0130f4814f96244478a5cca2564e47b3f9e&v=4",
-    "location": "Ireland",
+    "location": "Dublin, Ireland",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 550,
-    "publicContributions": 3,
+    "privateContributions": 2702,
+    "publicContributions": 1421,
     "createdAt": "2022-11-06T04:23:52Z"
   },
   {
@@ -29420,19 +29408,19 @@
     "twitterUsername": "JanobMusayev",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 114,
+    "publicContributions": 113,
     "createdAt": "2022-10-15T23:25:41Z"
   },
   {
     "login": "sbnn3",
     "name": "Sebastian Neagu",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/98599743?s=72&u=c732e2022638763e2d65cd23052d93d7df175614&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/98599743?s=72&u=fb369bdfec6f1659ede5c27cfa6cd50b8e46bc4e&v=4",
     "location": "Dublin, Ireland",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 245,
+    "publicContributions": 346,
     "createdAt": "2022-01-28T14:30:06Z"
   },
   {

@@ -29048,7 +29048,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 0,
     "createdAt": "2022-04-30T12:02:23Z"
   },
   {
@@ -29060,7 +29060,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 81,
+    "publicContributions": 71,
     "createdAt": "2022-03-01T00:14:50Z"
   },
   {
@@ -29083,8 +29083,8 @@
     "company": "ark.swiss sàrl",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 25609,
-    "publicContributions": 67,
+    "privateContributions": 31476,
+    "publicContributions": 62,
     "createdAt": "2022-05-04T09:19:57Z"
   },
   {
@@ -29108,7 +29108,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2022-02-25T08:11:09Z"
   },
   {
@@ -29142,7 +29142,7 @@
     "location": "Basel, Switzerland",
     "company": "",
     "twitterUsername": "Aliroll",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-06-15T14:00:11Z"
@@ -29191,7 +29191,7 @@
     "company": "ETH Zürich",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 16,
+    "privateContributions": 25,
     "publicContributions": 15,
     "createdAt": "2022-04-27T21:15:46Z"
   },
@@ -29234,11 +29234,11 @@
   {
     "login": "stevenb4rt",
     "name": "Steven B.",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/107679247?s=72&u=bdac6bf8d965c589a94851e97a60bdc80686419b&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/107679247?s=72&u=c8b593e78c338cf976f1717f1ff4dc0110b7631d&v=4",
     "location": "Lausanne, Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-06-17T09:33:41Z"
@@ -29264,7 +29264,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 1,
     "createdAt": "2022-05-25T04:56:51Z"
   },
   {

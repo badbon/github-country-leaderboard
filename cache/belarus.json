@@ -29635,7 +29635,7 @@
     "company": "BSU",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 0,
+    "privateContributions": 55,
     "publicContributions": 17,
     "createdAt": "2021-04-19T11:10:43Z"
   },
@@ -29648,7 +29648,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 3,
     "createdAt": "2021-02-28T14:23:00Z"
   },
   {
@@ -29660,7 +29660,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 1,
     "createdAt": "2021-02-27T10:50:58Z"
   },
   {
@@ -29682,9 +29682,9 @@
     "location": "Belarus, Homel",
     "company": "Predicta labs",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 80,
-    "publicContributions": 39,
+    "followers": 5,
+    "privateContributions": 27,
+    "publicContributions": 414,
     "createdAt": "2021-07-09T11:43:05Z"
   },
   {
@@ -29695,8 +29695,8 @@
     "company": "GRSU",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 304,
-    "publicContributions": 106,
+    "privateContributions": 512,
+    "publicContributions": 129,
     "createdAt": "2021-12-27T16:51:14Z"
   },
   {
@@ -29731,8 +29731,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 21,
-    "publicContributions": 52,
+    "privateContributions": 13,
+    "publicContributions": 61,
     "createdAt": "2021-09-05T10:36:30Z"
   },
   {
@@ -29768,7 +29768,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 268,
+    "publicContributions": 250,
     "createdAt": "2021-11-19T13:09:45Z"
   },
   {
@@ -29804,7 +29804,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 10,
     "createdAt": "2021-09-11T14:51:15Z"
   },
   {
@@ -29814,7 +29814,7 @@
     "location": "Belarus, Lelchitsy",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-12-29T15:02:05Z"
@@ -29840,7 +29840,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 640,
+    "publicContributions": 382,
     "createdAt": "2021-11-06T19:14:13Z"
   },
   {
@@ -29852,19 +29852,19 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 11,
     "createdAt": "2021-01-21T20:56:59Z"
   },
   {
     "login": "bogdanmironov67",
     "name": "Bogdan Mironov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/84681193?s=72&u=9f4582578ccaf79f8843818befa1a4f145ba83e9&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/84681193?s=72&u=d5bf6a1fe8433f5dbda945db027267962ba89973&v=4",
     "location": "Belarus",
     "company": "@modifold-website",
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 762,
+    "publicContributions": 1008,
     "createdAt": "2021-05-23T18:19:45Z"
   },
   {
