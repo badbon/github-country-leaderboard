@@ -119847,7 +119847,7 @@
           "kept": 0
         }
       },
-      "lastDiscoveryAt": "2026-10-17T07:48:12.106Z",
+      "lastDiscoveryAt": "2026-10-17T07:59:22.919Z",
       "lastDiscoveryCompletedAt": null,
       "discoveryQueuedThrough": "2026-05-12",
       "lastCacheChangeAt": "2026-10-16T01:58:43.035Z",
@@ -119856,9 +119856,9 @@
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 2468,
+        "searchRequests": 2469,
         "enrichmentRequests": 3875,
-        "usersDiscovered": 221753,
+        "usersDiscovered": 221853,
         "usersEnriched": 74945,
         "usersRefreshed": 0,
         "usersKept": 48825
@@ -122751,7 +122751,7 @@
           "kept": 12
         }
       },
-      "lastDiscoveryAt": "2026-10-17T07:48:48.001Z",
+      "lastDiscoveryAt": "2026-10-17T07:59:47.222Z",
       "lastDiscoveryCompletedAt": null,
       "discoveryQueuedThrough": "2026-05-12",
       "lastCacheChangeAt": "2026-10-16T07:16:45.123Z",
@@ -122760,9 +122760,9 @@
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 2468,
+        "searchRequests": 2469,
         "enrichmentRequests": 2361,
-        "usersDiscovered": 129608,
+        "usersDiscovered": 129621,
         "usersEnriched": 46075,
         "usersRefreshed": 0,
         "usersKept": 33923
@@ -210878,7 +210878,7 @@
     },
     "sierra_leone": {
       "slug": "sierra_leone",
-      "status": "discovering",
+      "status": "refreshing",
       "queue": [
         {
           "country": "sierra_leone",
@@ -211570,24 +211570,24 @@
       "lastDiscoveryAt": "2026-10-17T07:05:37.242Z",
       "lastDiscoveryCompletedAt": "2026-08-16T04:08:53.322Z",
       "discoveryQueuedThrough": "2026-07-16",
-      "lastCacheChangeAt": "2026-10-17T06:45:27.731Z",
+      "lastCacheChangeAt": "2026-10-17T07:59:27.985Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": "2026-10-16T20:19:43.218Z",
       "lastError": null,
       "stats": {
         "searchRequests": 72,
-        "enrichmentRequests": 169,
+        "enrichmentRequests": 170,
         "usersDiscovered": 629,
-        "usersEnriched": 2943,
-        "usersRefreshed": 2314,
+        "usersEnriched": 2963,
+        "usersRefreshed": 2334,
         "usersKept": 443
       },
-      "refreshCursor": 100
+      "refreshCursor": 120
     },
     "singapore": {
       "slug": "singapore",
-      "status": "discovering",
+      "status": "refreshing",
       "queue": [
         {
           "country": "singapore",
@@ -213187,7 +213187,7 @@
       "lastError": {
         "message": "Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.",
         "status": null,
-        "at": "2026-10-17T06:45:55.882Z"
+        "at": "2026-10-17T08:00:16.649Z"
       },
       "stats": {
         "searchRequests": 678,
@@ -269848,18 +269848,18 @@
       "refreshCursor": 720
     }
   },
-  "nextCountryIndex": 101,
+  "nextCountryIndex": 111,
   "nextDeltaCountryIndex": 225,
-  "nextRefreshCountryIndex": 198,
+  "nextRefreshCountryIndex": 200,
   "nextRediscoveryCountryIndex": 0,
-  "lastRunStartedAt": "2026-10-17T07:34:25.644Z",
-  "lastRunFinishedAt": "2026-10-17T07:58:02.235Z",
+  "lastRunStartedAt": "2026-10-17T07:58:41.891Z",
+  "lastRunFinishedAt": "2026-10-17T08:00:16.728Z",
   "stats": {
-    "searchRequests": 79806,
-    "enrichmentRequests": 213383,
-    "usersDiscovered": 5145785,
-    "usersEnriched": 4040939,
-    "usersRefreshed": 493493,
+    "searchRequests": 79808,
+    "enrichmentRequests": 213384,
+    "usersDiscovered": 5145898,
+    "usersEnriched": 4040959,
+    "usersRefreshed": 493513,
     "usersKept": 2666593
   }
 }
