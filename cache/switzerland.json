@@ -29300,7 +29300,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 17,
     "createdAt": "2022-04-07T04:14:06Z"
   },
   {
@@ -29322,9 +29322,9 @@
     "location": "Switzerland",
     "company": "EPFL",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 78,
-    "publicContributions": 77,
+    "followers": 2,
+    "privateContributions": 73,
+    "publicContributions": 48,
     "createdAt": "2022-01-31T11:53:59Z"
   },
   {
@@ -29346,7 +29346,7 @@
     "location": "Zürich, Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-05-16T12:12:14Z"
@@ -29382,21 +29382,21 @@
     "location": "Genève, Switzerland",
     "company": "@clairvault ",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 737,
-    "publicContributions": 0,
+    "followers": 2,
+    "privateContributions": 749,
+    "publicContributions": 7,
     "createdAt": "2022-02-17T09:35:01Z"
   },
   {
     "login": "estherxwang",
     "name": "Esther",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/98283657?s=72&u=0511b90bcebf334014b19e547b19456288de4c8e&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/98283657?s=72&u=9407bf62adc0e8674e504a88a63d7eb3f07d5ff5&v=4",
     "location": "Bern, Switzerland",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 4,
     "createdAt": "2022-01-23T19:53:50Z"
   },
   {
@@ -29419,8 +29419,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 163,
+    "privateContributions": 43,
+    "publicContributions": 171,
     "createdAt": "2022-04-03T03:34:11Z"
   },
   {
@@ -29430,9 +29430,9 @@
     "location": "Burgdorf, Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 15,
     "createdAt": "2022-06-24T15:39:42Z"
   },
   {
@@ -29444,7 +29444,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 13,
     "createdAt": "2022-04-05T12:14:57Z"
   },
   {
@@ -29452,23 +29452,23 @@
     "name": "Omar",
     "avatarUrl": "https://avatars.githubusercontent.com/u/107177037?s=72&u=0fe9dfc5ff48ae1f41105a520fcf70113018e542&v=4",
     "location": "Switzerland",
-    "company": "",
+    "company": "Sellita Watch SA",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 98,
+    "publicContributions": 479,
     "createdAt": "2022-06-09T08:03:04Z"
   },
   {
     "login": "martinseifertprojuventute",
     "name": "Martin Seifert",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/103060395?s=72&u=ab1c4b8e29c6c86bc9846feb4fa34513c6d0467f&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/103060395?s=72&u=e612969a1e374f1a5b94e85a7b0fdc6125a1fcbb&v=4",
     "location": "Zürich, Switzerland",
     "company": "Pro Juventute",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 97,
+    "publicContributions": 76,
     "createdAt": "2022-04-05T16:16:18Z"
   },
   {
@@ -29504,7 +29504,7 @@
     "twitterUsername": "SwissSign",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 2,
     "createdAt": "2022-05-24T10:24:03Z"
   },
   {
@@ -29514,9 +29514,9 @@
     "location": "Ecublens VD, Switzerland",
     "company": "EPFL",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 76,
+    "publicContributions": 80,
     "createdAt": "2022-05-18T07:37:08Z"
   },
   {

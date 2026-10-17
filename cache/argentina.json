@@ -29444,7 +29444,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 206,
+    "publicContributions": 103,
     "createdAt": "2024-04-14T20:41:48Z"
   },
   {
@@ -29456,20 +29456,8 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 0,
     "createdAt": "2024-04-01T19:37:08Z"
-  },
-  {
-    "login": "Tuco21",
-    "name": "Tuco",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/167127330?s=72&u=a81875c3dfe401ebe38270baf0942d9026734b6d&v=4",
-    "location": "Argentina",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 0,
-    "publicContributions": 5,
-    "createdAt": "2024-04-15T18:22:06Z"
   },
   {
     "login": "Urban20",
@@ -29478,9 +29466,9 @@
     "location": "Argentina",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 34,
-    "publicContributions": 551,
+    "followers": 8,
+    "privateContributions": 37,
+    "publicContributions": 578,
     "createdAt": "2024-06-26T22:22:49Z"
   },
   {
@@ -29488,11 +29476,11 @@
     "name": "Juan Ignacio Dominguez",
     "avatarUrl": "https://avatars.githubusercontent.com/u/171208761?s=72&u=2d3799c80c8f7c2112d23969e037b525a738060a&v=4",
     "location": "Argentina",
-    "company": "",
+    "company": "@Arcynox",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 68,
+    "publicContributions": 185,
     "createdAt": "2024-05-30T01:58:14Z"
   },
   {
@@ -29502,21 +29490,21 @@
     "location": "Córdoba, Argentina ",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 46,
+    "publicContributions": 113,
     "createdAt": "2024-04-03T20:41:58Z"
   },
   {
     "login": "Isaacjesusacevedo",
     "name": "Isaac Jesús Acevedo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/169501144?s=72&u=5d9f235ba0ca8c580c4efbbd7d8bf4210713870d&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/169501144?s=72&u=ae0fa031f272d128dd606445174798f78d1b2400&v=4",
     "location": "Buenos Aires/Argentina",
     "company": "Tutor de Programación @ Instituto Tupac Amaru",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 73,
+    "publicContributions": 195,
     "createdAt": "2024-05-10T23:04:48Z"
   },
   {
@@ -29539,8 +29527,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 3358,
-    "publicContributions": 649,
+    "privateContributions": 4821,
+    "publicContributions": 501,
     "createdAt": "2024-04-09T18:54:04Z"
   },
   {
@@ -29551,8 +29539,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 111,
-    "publicContributions": 227,
+    "privateContributions": 98,
+    "publicContributions": 123,
     "createdAt": "2024-04-17T15:47:02Z"
   },
   {
@@ -29562,21 +29550,21 @@
     "location": "Buenos Aires, Argentina",
     "company": "bad, I am afraid, I've been told I am bad company. ",
     "twitterUsername": "PimentelElazar",
-    "followers": 7,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 373,
+    "publicContributions": 363,
     "createdAt": "2024-05-16T09:18:50Z"
   },
   {
     "login": "patopolser",
-    "name": "Patricio Polser",
+    "name": "Patricio",
     "avatarUrl": "https://avatars.githubusercontent.com/u/167658131?s=72&u=065e54eab7448dcc8bd1d271247fa2272900a8fb&v=4",
     "location": "Argentina",
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 239,
-    "publicContributions": 9,
+    "privateContributions": 376,
+    "publicContributions": 10,
     "createdAt": "2024-04-21T00:44:16Z"
   },
   {
@@ -29586,9 +29574,9 @@
     "location": "Rosario, Argentina",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 116,
+    "publicContributions": 110,
     "createdAt": "2024-05-31T11:54:05Z"
   },
   {
@@ -29599,8 +29587,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 4,
-    "publicContributions": 122,
+    "privateContributions": 3,
+    "publicContributions": 98,
     "createdAt": "2024-04-16T01:36:48Z"
   },
   {
@@ -29612,7 +29600,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 37,
+    "publicContributions": 19,
     "createdAt": "2024-05-13T06:37:02Z"
   },
   {
@@ -29622,21 +29610,21 @@
     "location": "Córdoba, Argentina",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 213,
+    "publicContributions": 136,
     "createdAt": "2024-05-03T18:18:40Z"
   },
   {
     "login": "IvooBSJ",
     "name": "Ivo Boris Sodja",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/169917810?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/169917810?s=72&u=0f8e1a5a175c73775f4bde7f073aca0f7146ac94&v=4",
     "location": "Argentina",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 0,
-    "publicContributions": 78,
+    "followers": 8,
+    "privateContributions": 210,
+    "publicContributions": 98,
     "createdAt": "2024-05-15T14:24:48Z"
   },
   {
@@ -29648,7 +29636,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 155,
+    "publicContributions": 35,
     "createdAt": "2024-06-12T23:49:50Z"
   },
   {
@@ -29658,9 +29646,9 @@
     "location": "Argentina",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 16,
     "privateContributions": 0,
-    "publicContributions": 958,
+    "publicContributions": 732,
     "createdAt": "2024-05-16T17:49:54Z"
   },
   {
@@ -29672,7 +29660,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 90,
+    "publicContributions": 115,
     "createdAt": "2024-04-30T20:32:06Z"
   },
   {

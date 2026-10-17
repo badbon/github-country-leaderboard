@@ -29599,8 +29599,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 21,
-    "publicContributions": 1,
+    "privateContributions": 24,
+    "publicContributions": 0,
     "createdAt": "2022-02-12T22:24:31Z"
   },
   {
@@ -29612,7 +29612,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 71,
+    "publicContributions": 36,
     "createdAt": "2022-09-07T11:40:47Z"
   },
   {
@@ -29624,7 +29624,7 @@
     "twitterUsername": "TomasSobota4",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 73,
+    "publicContributions": 64,
     "createdAt": "2022-07-25T16:45:09Z"
   },
   {
@@ -29672,7 +29672,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 60,
+    "publicContributions": 5,
     "createdAt": "2022-02-11T11:48:15Z"
   },
   {
@@ -29683,8 +29683,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 206,
+    "privateContributions": 341,
+    "publicContributions": 237,
     "createdAt": "2022-06-11T18:23:46Z"
   },
   {
@@ -29696,7 +29696,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 7,
     "createdAt": "2022-06-22T11:04:49Z"
   },
   {
@@ -29708,7 +29708,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 2,
     "createdAt": "2022-01-25T18:00:04Z"
   },
   {
@@ -29746,18 +29746,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-10-09T09:58:09Z"
-  },
-  {
-    "login": "Tommys7",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/120651745?s=72&u=5bd49357bcce11e37ae3dddd3ae4538ed1996f98&v=4",
-    "location": "Prague",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2022-12-15T12:53:50Z"
   },
   {
     "login": "tibor-nagy",

@@ -29420,7 +29420,7 @@
     "twitterUsername": "CuteRayYT",
     "followers": 2,
     "privateContributions": 3,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2021-01-22T15:00:25Z"
   },
   {
@@ -29502,9 +29502,9 @@
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 223,
+    "publicContributions": 185,
     "createdAt": "2021-02-11T09:34:22Z"
   },
   {
@@ -29526,9 +29526,9 @@
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 465,
-    "publicContributions": 142,
+    "publicContributions": 132,
     "createdAt": "2021-04-10T07:44:03Z"
   },
   {
@@ -29539,8 +29539,8 @@
     "company": "@Kellett-School ",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 15,
-    "publicContributions": 49,
+    "privateContributions": 0,
+    "publicContributions": 19,
     "createdAt": "2021-04-13T04:16:52Z"
   },
   {
@@ -29551,21 +29551,9 @@
     "company": "The Hong Kong Polytechnic University",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1273,
-    "publicContributions": 2,
+    "privateContributions": 833,
+    "publicContributions": 1,
     "createdAt": "2021-06-16T15:39:29Z"
-  },
-  {
-    "login": "leo2www",
-    "name": "hazy",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/88533544?s=72&u=6c3dbc2855f2aac237c8709ddd6d80e8d22d08cb&v=4",
-    "location": "Hong Kong",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 128,
-    "publicContributions": 48,
-    "createdAt": "2021-08-06T08:24:32Z"
   },
   {
     "login": "Serena33i",
@@ -29574,9 +29562,9 @@
     "location": "Hong Kong",
     "company": "The Hong Kong University of Science and Technology",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 2,
     "createdAt": "2021-04-07T02:26:51Z"
   },
   {
@@ -29587,8 +29575,8 @@
     "company": "HKUST",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 487,
-    "publicContributions": 128,
+    "privateContributions": 435,
+    "publicContributions": 111,
     "createdAt": "2021-02-27T16:29:37Z"
   },
   {
@@ -29600,7 +29588,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 32,
+    "publicContributions": 24,
     "createdAt": "2021-10-04T19:58:06Z"
   },
   {
@@ -29622,9 +29610,9 @@
     "location": "Hong Kong",
     "company": "The University of Hong Kong",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 153,
-    "publicContributions": 187,
+    "followers": 10,
+    "privateContributions": 109,
+    "publicContributions": 308,
     "createdAt": "2021-08-21T15:38:16Z"
   },
   {

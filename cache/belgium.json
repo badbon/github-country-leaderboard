@@ -29742,9 +29742,9 @@
     "location": "Brussels",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 70,
+    "publicContributions": 134,
     "createdAt": "2022-09-18T13:44:55Z"
   },
   {
@@ -29814,9 +29814,9 @@
     "location": "Maasmechelen, België",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 14,
-    "publicContributions": 13,
+    "followers": 4,
+    "privateContributions": 18,
+    "publicContributions": 19,
     "createdAt": "2021-10-19T11:59:06Z"
   },
   {
@@ -29852,7 +29852,7 @@
     "twitterUsername": "CEMPER_BE",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 18,
     "createdAt": "2021-08-31T11:18:41Z"
   },
   {
@@ -29862,7 +29862,7 @@
     "location": "Belgique ",
     "company": "",
     "twitterUsername": "",
-    "followers": 23,
+    "followers": 21,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-12-22T13:51:25Z"
@@ -29898,22 +29898,10 @@
     "location": "Liège, Belgique",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 8,
     "privateContributions": 3,
     "publicContributions": 17,
     "createdAt": "2021-11-09T00:12:04Z"
-  },
-  {
-    "login": "EliotBD03",
-    "name": "Julien Ladeuze",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/89980155?s=72&u=30979a8f4787ecd1d9d4e3e9b32c646e1d8a8a0e&v=4",
-    "location": "Mons, Hainaut, Belgique",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 92,
-    "publicContributions": 25,
-    "createdAt": "2021-09-02T11:53:31Z"
   },
   {
     "login": "JessicaDupont",
@@ -29946,8 +29934,8 @@
     "location": "Bruxelles, Belgique",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 1,
+    "followers": 7,
+    "privateContributions": 3,
     "publicContributions": 7,
     "createdAt": "2021-12-19T15:48:17Z"
   },
@@ -29959,7 +29947,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 0,
+    "privateContributions": 6,
     "publicContributions": 3,
     "createdAt": "2021-10-03T09:41:05Z"
   },
