@@ -30068,7 +30068,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 39,
+    "publicContributions": 33,
     "createdAt": "2021-09-06T10:49:36Z"
   },
   {
@@ -30080,7 +30080,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 2,
     "createdAt": "2021-08-23T09:05:57Z"
   },
   {
@@ -30090,9 +30090,9 @@
     "location": "Copenhagen, Denmark",
     "company": "University of Copenhagen",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 27,
-    "publicContributions": 14,
+    "followers": 7,
+    "privateContributions": 66,
+    "publicContributions": 9,
     "createdAt": "2021-08-01T21:25:23Z"
   },
   {
@@ -30102,9 +30102,9 @@
     "location": "Copenhagen, Denmark",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 0,
-    "publicContributions": 2,
+    "followers": 9,
+    "privateContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2021-09-03T04:37:30Z"
   },
   {
@@ -30114,9 +30114,9 @@
     "location": "Copenhagen, Denmark",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 1995,
-    "publicContributions": 176,
+    "followers": 10,
+    "privateContributions": 1532,
+    "publicContributions": 213,
     "createdAt": "2021-02-02T08:54:30Z"
   },
   {
@@ -30126,21 +30126,21 @@
     "location": "Copenhagen, Denmark",
     "company": "The OEIS Foundation Inc.",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 12,
     "createdAt": "2021-10-09T07:31:46Z"
   },
   {
     "login": "mch-sg",
-    "name": "sarch",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/93657779?s=72&u=4dd97cb495d247febf68edbff96ba99db0d191cf&v=4",
+    "name": "mahv",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/93657779?s=72&u=b2df0f1e68199248039cb0da5bdb76585104f658&v=4",
     "location": "Denmark",
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 99,
-    "publicContributions": 28,
+    "privateContributions": 100,
+    "publicContributions": 34,
     "createdAt": "2021-11-03T12:47:34Z"
   },
   {
@@ -30150,7 +30150,7 @@
     "location": "Horsens, Denmark",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 10,
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2021-02-26T14:35:23Z"
@@ -30174,9 +30174,9 @@
     "location": "Denmark",
     "company": "Reload",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 1350,
-    "publicContributions": 0,
+    "followers": 7,
+    "privateContributions": 1441,
+    "publicContributions": 3,
     "createdAt": "2021-01-18T11:26:35Z"
   },
   {
@@ -30187,8 +30187,8 @@
     "company": "Siemens Energy",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 73,
-    "publicContributions": 124,
+    "privateContributions": 70,
+    "publicContributions": 152,
     "createdAt": "2021-10-19T16:06:23Z"
   },
   {
@@ -30196,9 +30196,9 @@
     "name": "Jakub Gaj",
     "avatarUrl": "https://avatars.githubusercontent.com/u/82813428?s=72&u=e5da08f27b859d4b2691a5888a5d540c5edc45eb&v=4",
     "location": "Copenhagen, Denmark",
-    "company": "@LEGO ",
+    "company": "@AWS",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 9,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-04-19T11:08:59Z"
@@ -30222,9 +30222,9 @@
     "location": "Denmark",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 387,
-    "publicContributions": 135,
+    "followers": 10,
+    "privateContributions": 345,
+    "publicContributions": 127,
     "createdAt": "2021-09-24T20:40:53Z"
   },
   {
@@ -30234,9 +30234,9 @@
     "location": "Denmark",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 187,
+    "publicContributions": 166,
     "createdAt": "2021-06-10T14:24:21Z"
   },
   {
@@ -30258,9 +30258,9 @@
     "location": "Denmark",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 23,
-    "publicContributions": 518,
+    "followers": 11,
+    "privateContributions": 18,
+    "publicContributions": 451,
     "createdAt": "2021-07-23T13:35:29Z"
   },
   {
@@ -30271,8 +30271,8 @@
     "company": "Technical University of Denmark",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 37,
-    "publicContributions": 1390,
+    "privateContributions": 28,
+    "publicContributions": 1354,
     "createdAt": "2021-09-21T14:51:02Z"
   },
   {
@@ -30296,7 +30296,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 193,
+    "publicContributions": 250,
     "createdAt": "2021-09-23T12:22:39Z"
   },
   {

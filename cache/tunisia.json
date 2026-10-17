@@ -29612,7 +29612,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2022-03-22T20:03:41Z"
   },
   {
@@ -29636,7 +29636,7 @@
     "twitterUsername": "ManelKharbout",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 4,
     "createdAt": "2022-08-20T10:45:24Z"
   },
   {
@@ -29660,7 +29660,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 9,
     "createdAt": "2022-09-12T13:50:07Z"
   },
   {
@@ -29672,7 +29672,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 2,
     "createdAt": "2022-09-07T12:46:37Z"
   },
   {
@@ -29684,7 +29684,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 35,
     "createdAt": "2022-10-16T12:29:36Z"
   },
   {
@@ -29695,8 +29695,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 327,
-    "publicContributions": 13,
+    "privateContributions": 269,
+    "publicContributions": 42,
     "createdAt": "2022-10-25T08:46:55Z"
   },
   {
@@ -29731,8 +29731,8 @@
     "company": "ENET'COM",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 129,
-    "publicContributions": 48,
+    "privateContributions": 200,
+    "publicContributions": 46,
     "createdAt": "2022-12-25T18:49:45Z"
   },
   {
@@ -29768,19 +29768,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 95,
     "createdAt": "2022-01-18T10:33:17Z"
   },
   {
     "login": "lurkerwin22",
     "name": "Mouin Hizem",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/115400887?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/115400887?s=72&u=410bd875e22d6bba4a6ad11054b4cca6c0876d8f&v=4",
     "location": "Monastir , Tunisia",
     "company": "",
     "twitterUsername": "MouinHizem",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 12,
     "createdAt": "2022-10-09T10:29:28Z"
   },
   {
@@ -29790,21 +29790,21 @@
     "location": "Tunis, Tunisia",
     "company": "Octomiro",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 438,
-    "publicContributions": 15,
+    "followers": 2,
+    "privateContributions": 594,
+    "publicContributions": 8,
     "createdAt": "2022-07-01T11:32:41Z"
   },
   {
     "login": "BoussaidiBadii",
     "name": "BADII BOUSSAIDI",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/103760214?s=72&u=a6525a7992711b906e6c6a56e29f88f1586197d4&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/103760214?s=72&u=6e31ce85c43212b1d8018b03eaead2f66aab435f&v=4",
     "location": "Tunisia",
-    "company": "Esprit",
+    "company": "Juridoc",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 282,
-    "publicContributions": 19,
+    "followers": 11,
+    "privateContributions": 492,
+    "publicContributions": 31,
     "createdAt": "2022-04-15T14:30:00Z"
   },
   {
@@ -29826,9 +29826,9 @@
     "location": "Tunisia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 43,
-    "publicContributions": 23,
+    "followers": 2,
+    "privateContributions": 50,
+    "publicContributions": 9,
     "createdAt": "2022-09-09T09:37:19Z"
   },
   {
@@ -29839,8 +29839,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 302,
-    "publicContributions": 36,
+    "privateContributions": 365,
+    "publicContributions": 39,
     "createdAt": "2022-10-27T19:58:34Z"
   },
   {

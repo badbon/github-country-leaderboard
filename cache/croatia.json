@@ -30211,7 +30211,7 @@
     "company": "@butiga ",
     "twitterUsername": "stipelelas",
     "followers": 11,
-    "privateContributions": 378,
+    "privateContributions": 404,
     "publicContributions": 1,
     "createdAt": "2017-03-18T20:29:55Z"
   },
@@ -30224,19 +30224,19 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 2,
     "createdAt": "2017-03-23T09:58:16Z"
   },
   {
     "login": "Trawis",
-    "name": "Ivan",
+    "name": "",
     "avatarUrl": "https://avatars.githubusercontent.com/u/27821832?s=72&v=4",
     "location": "Croatia",
     "company": "",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 440,
-    "publicContributions": 184,
+    "privateContributions": 739,
+    "publicContributions": 850,
     "createdAt": "2017-04-20T16:15:58Z"
   },
   {
@@ -30247,8 +30247,8 @@
     "company": "Cultivate code",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 798,
-    "publicContributions": 123,
+    "privateContributions": 904,
+    "publicContributions": 78,
     "createdAt": "2017-03-26T12:00:15Z"
   },
   {
@@ -30274,18 +30274,6 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2017-03-08T19:27:05Z"
-  },
-  {
-    "login": "aeoden96",
-    "name": "Mateo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/26655729?s=72&u=8a7eaa15e498c3c0f657b7d56dc887cec29f3d61&v=4",
-    "location": "Zagreb , Croatia",
-    "company": "@reversinglabs",
-    "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 522,
-    "publicContributions": 461,
-    "createdAt": "2017-03-24T15:45:44Z"
   },
   {
     "login": "patdolovs",
@@ -30330,9 +30318,9 @@
     "location": "Split, Croatia",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 1579,
-    "publicContributions": 13,
+    "followers": 14,
+    "privateContributions": 1905,
+    "publicContributions": 33,
     "createdAt": "2017-04-17T17:40:03Z"
   },
   {
@@ -30343,21 +30331,9 @@
     "company": "@enterwell",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 12,
+    "privateContributions": 19,
     "publicContributions": 2,
     "createdAt": "2017-10-15T13:35:02Z"
-  },
-  {
-    "login": "Pat-1337",
-    "name": "Patrik \"Pat\" Vuković",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/33397510?s=72&v=4",
-    "location": "Zagreb, Croatia",
-    "company": "@CialDNB ",
-    "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 468,
-    "publicContributions": 13,
-    "createdAt": "2017-11-05T16:03:26Z"
   },
   {
     "login": "tomislav-ficko",
@@ -30379,7 +30355,7 @@
     "company": "Visage Technologies d.o.o.",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 456,
+    "privateContributions": 464,
     "publicContributions": 0,
     "createdAt": "2017-06-07T13:44:31Z"
   },
@@ -30402,9 +30378,9 @@
     "location": "Zagreb, Croatia, EU",
     "company": "EPAM Systems",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 2128,
-    "publicContributions": 248,
+    "followers": 9,
+    "privateContributions": 3112,
+    "publicContributions": 162,
     "createdAt": "2017-07-14T08:03:02Z"
   },
   {
@@ -30427,8 +30403,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 42,
-    "publicContributions": 8,
+    "privateContributions": 20,
+    "publicContributions": 9,
     "createdAt": "2017-09-02T15:41:35Z"
   },
   {

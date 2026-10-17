@@ -8,7 +8,7 @@
     "twitterUsername": "",
     "followers": 24,
     "privateContributions": 1139,
-    "publicContributions": 31686,
+    "publicContributions": 32925,
     "createdAt": "2026-04-23T15:15:20Z"
   },
   {
@@ -18,7 +18,7 @@
     "location": "Luanda, Angola",
     "company": "@ENBI",
     "twitterUsername": "",
-    "followers": 24,
+    "followers": 27,
     "privateContributions": 0,
     "publicContributions": 324,
     "createdAt": "2026-01-07T12:06:47Z"
@@ -30,7 +30,7 @@
     "location": "Angola, Indiana",
     "company": "RuneForgeAI",
     "twitterUsername": "",
-    "followers": 23,
+    "followers": 21,
     "privateContributions": 4,
     "publicContributions": 47,
     "createdAt": "2026-05-06T10:09:32Z"
@@ -54,7 +54,7 @@
     "location": "Angola",
     "company": "42 School",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 13,
     "privateContributions": 0,
     "publicContributions": 53,
     "createdAt": "2026-03-04T18:13:56Z"
@@ -66,9 +66,9 @@
     "location": "Angola-Luanda",
     "company": "",
     "twitterUsername": "",
-    "followers": 30,
-    "privateContributions": 97,
-    "publicContributions": 143,
+    "followers": 28,
+    "privateContributions": 139,
+    "publicContributions": 169,
     "createdAt": "2026-04-17T20:03:20Z"
   },
   {
@@ -104,7 +104,7 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 145,
-    "publicContributions": 270,
+    "publicContributions": 379,
     "createdAt": "2026-03-07T14:34:38Z"
   },
   {
@@ -114,7 +114,7 @@
     "location": "Luanda, Angola",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 59,
     "createdAt": "2026-04-10T07:52:59Z"
@@ -138,22 +138,10 @@
     "location": "Angola",
     "company": "Eclipse Solutions",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 67,
     "createdAt": "2026-01-10T13:43:38Z"
-  },
-  {
-    "login": "Wilsonice123",
-    "name": "Wilson Chiveio",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/280989332?s=72&u=f4dec835840e56b539d0469b80e703d0d8f0f6a8&v=4",
-    "location": "Luanda, Angola",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 16,
-    "createdAt": "2026-05-01T15:51:01Z"
   },
   {
     "login": "josejorgejanuariojacinto",
@@ -176,7 +164,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 68,
+    "publicContributions": 72,
     "createdAt": "2026-01-17T19:31:55Z"
   },
   {
@@ -199,7 +187,7 @@
     "company": "ITEL",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 1487,
+    "privateContributions": 1542,
     "publicContributions": 49,
     "createdAt": "2026-01-03T15:42:52Z"
   },
@@ -210,7 +198,7 @@
     "location": "Luanda/Angola",
     "company": "",
     "twitterUsername": "JoaoChipuila",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 7,
     "createdAt": "2026-03-31T23:12:41Z"
@@ -222,7 +210,7 @@
     "location": "Angola",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 17,
     "createdAt": "2026-02-10T10:10:45Z"
@@ -234,7 +222,7 @@
     "location": "Angola/Huíla",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2026-04-27T23:58:05Z"

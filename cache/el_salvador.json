@@ -1220,7 +1220,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 4,
     "createdAt": "2025-03-26T13:24:35Z"
   },
   {
@@ -1230,9 +1230,9 @@
     "location": "El Salvador, La Paz Centro",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 73,
+    "publicContributions": 65,
     "createdAt": "2025-06-06T23:41:41Z"
   },
   {
@@ -1256,7 +1256,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 88,
+    "publicContributions": 97,
     "createdAt": "2025-01-17T04:04:55Z"
   },
   {
@@ -1328,7 +1328,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 29,
     "createdAt": "2025-12-19T01:55:33Z"
   },
   {
@@ -1358,13 +1358,13 @@
   {
     "login": "tsuchinaka",
     "name": "Haruki",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/202475766?s=72&u=809edf88edf43e2da27fde90364cc387ba094a80&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/202475766?s=72&u=29b4ffe0ba422f69761d1f64c0b72bcee41d2305&v=4",
     "location": "San Salvador",
     "company": "@byteboxhq",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 120,
     "createdAt": "2025-03-09T03:59:30Z"
   },
   {
@@ -1375,7 +1375,7 @@
     "company": "Grupo Resurrección",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 88,
+    "privateContributions": 96,
     "publicContributions": 2,
     "createdAt": "2025-08-10T06:22:35Z"
   },
@@ -1399,8 +1399,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 32,
-    "privateContributions": 342,
-    "publicContributions": 896,
+    "privateContributions": 330,
+    "publicContributions": 727,
     "createdAt": "2024-06-29T01:19:13Z"
   },
   {
@@ -1412,7 +1412,7 @@
     "twitterUsername": "",
     "followers": 21,
     "privateContributions": 0,
-    "publicContributions": 232,
+    "publicContributions": 236,
     "createdAt": "2024-06-18T21:09:15Z"
   },
   {
@@ -1422,9 +1422,9 @@
     "location": "El Salvador",
     "company": "",
     "twitterUsername": "",
-    "followers": 21,
+    "followers": 22,
     "privateContributions": 0,
-    "publicContributions": 532,
+    "publicContributions": 557,
     "createdAt": "2024-03-05T17:38:11Z"
   },
   {
@@ -1434,9 +1434,9 @@
     "location": "El Salvador",
     "company": "CODEMARK",
     "twitterUsername": "",
-    "followers": 19,
-    "privateContributions": 956,
-    "publicContributions": 149,
+    "followers": 21,
+    "privateContributions": 963,
+    "publicContributions": 150,
     "createdAt": "2024-02-08T00:38:10Z"
   },
   {

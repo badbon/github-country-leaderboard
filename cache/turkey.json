@@ -29502,9 +29502,9 @@
     "location": "Ankara",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 383,
-    "publicContributions": 269,
+    "followers": 3,
+    "privateContributions": 538,
+    "publicContributions": 239,
     "createdAt": "2025-06-30T19:13:20Z"
   },
   {
@@ -29516,7 +29516,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 30,
     "createdAt": "2025-05-07T18:23:26Z"
   },
   {
@@ -29540,7 +29540,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 0,
     "createdAt": "2025-10-02T11:19:37Z"
   },
   {
@@ -29550,9 +29550,9 @@
     "location": "Ankara",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 55,
     "createdAt": "2025-06-13T18:05:03Z"
   },
   {
@@ -29564,7 +29564,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 8,
     "createdAt": "2025-09-21T12:31:24Z"
   },
   {
@@ -29576,7 +29576,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 34,
+    "publicContributions": 2,
     "createdAt": "2025-06-25T10:11:05Z"
   },
   {
@@ -29586,7 +29586,7 @@
     "location": "Ankara",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2025-12-02T18:03:26Z"
@@ -29600,7 +29600,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2025-03-30T20:19:52Z"
   },
   {
@@ -29624,7 +29624,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 45,
+    "publicContributions": 44,
     "createdAt": "2025-10-10T07:53:25Z"
   },
   {
@@ -29636,7 +29636,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 52,
+    "publicContributions": 36,
     "createdAt": "2025-08-26T08:31:06Z"
   },
   {
@@ -29648,20 +29648,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-09-04T18:49:46Z"
-  },
-  {
-    "login": "Baghadurr",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/248908686?s=72&u=4ab9d2f0580e6291dd901d38366bcbfca3567fc5&v=4",
-    "location": "Ankara",
-    "company": "Bug Production",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 459,
-    "publicContributions": 1,
-    "createdAt": "2025-12-10T14:59:10Z"
   },
   {
     "login": "beyzauner549-cloud",
@@ -29684,7 +29672,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 3,
     "createdAt": "2025-07-10T08:07:11Z"
   },
   {
@@ -29696,20 +29684,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 98,
+    "publicContributions": 97,
     "createdAt": "2025-09-19T11:54:52Z"
-  },
-  {
-    "login": "techpattis",
-    "name": "RpiPro2140",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/196221648?s=72&u=033504b9dc27394e93fcd3c3da222676f5fc9a66&v=4",
-    "location": "Ankara",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 28,
-    "createdAt": "2025-01-23T16:29:52Z"
   },
   {
     "login": "Kanekhy",
@@ -29730,8 +29706,8 @@
     "location": "Ankara",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 38,
+    "followers": 5,
+    "privateContributions": 25,
     "publicContributions": 73,
     "createdAt": "2025-07-13T15:24:29Z"
   },

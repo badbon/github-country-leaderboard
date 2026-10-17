@@ -29977,14 +29977,14 @@
   },
   {
     "login": "zekurio",
-    "name": "Michael Schwieger",
+    "name": "zekurio",
     "avatarUrl": "https://avatars.githubusercontent.com/u/100386813?s=72&u=74f1b7ededcc503b244ef8a50c86b245b401c729&v=4",
     "location": "Vienna",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 24,
-    "publicContributions": 2316,
+    "followers": 6,
+    "privateContributions": 162,
+    "publicContributions": 6317,
     "createdAt": "2022-02-24T22:42:48Z"
   },
   {
@@ -29995,20 +29995,20 @@
     "company": "enspired",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 10,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-09-08T18:03:36Z"
   },
   {
     "login": "devopsguy",
     "name": "Octavian Helm",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/110597135?s=72&u=1cebb42692e1fecbe71495adab8267459bf1e33e&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/110597135?s=72&u=fdcb38c6f014ef6bb3f0874713778cce023b44eb&v=4",
     "location": "Vienna",
     "company": "@bearingpoint",
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 5,
     "createdAt": "2022-08-04T08:36:40Z"
   },
   {
@@ -30018,22 +30018,10 @@
     "location": "Vienna",
     "company": "Real Life Online",
     "twitterUsername": "RealLifeOnline_",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-06-18T16:15:17Z"
-  },
-  {
-    "login": "danicelinyu",
-    "name": "Linyu",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/99179567?s=72&v=4",
-    "location": "Vienna",
-    "company": "",
-    "twitterUsername": "LinyuYribarren",
-    "followers": 6,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2022-02-07T10:36:55Z"
   },
   {
     "login": "earl-iest",
@@ -30042,7 +30030,7 @@
     "location": "Vienna (transit)",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-03-17T14:47:14Z"
@@ -30050,13 +30038,13 @@
   {
     "login": "christofpichler",
     "name": "Christof Pichler",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/101206010?s=72&u=0772d4c5d646ccbf845a1d2993ccbb8e3b989935&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/101206010?s=72&u=7f4c7cd0435d5febe93cab97d7f82287c1a4023b&v=4",
     "location": "Vienna",
-    "company": "Deutsche Telekom Security",
+    "company": "",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 0,
-    "publicContributions": 117,
+    "followers": 9,
+    "privateContributions": 66,
+    "publicContributions": 210,
     "createdAt": "2022-03-08T17:01:37Z"
   },
   {
@@ -30078,9 +30066,9 @@
     "location": "Vienna",
     "company": "PORR AG",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 196,
+    "publicContributions": 182,
     "createdAt": "2022-01-18T11:10:32Z"
   },
   {
@@ -30090,9 +30078,9 @@
     "location": "Vienna",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 284,
-    "publicContributions": 103,
+    "followers": 7,
+    "privateContributions": 263,
+    "publicContributions": 68,
     "createdAt": "2022-05-07T13:02:01Z"
   },
   {
@@ -30102,7 +30090,7 @@
     "location": "Vienna",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-03-19T09:11:15Z"
@@ -30116,7 +30104,7 @@
     "twitterUsername": "it_crypt",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 14,
     "createdAt": "2022-01-24T21:42:38Z"
   },
   {
@@ -30138,9 +30126,9 @@
     "location": "Vienna",
     "company": "",
     "twitterUsername": "IFalimendikov",
-    "followers": 5,
-    "privateContributions": 1582,
-    "publicContributions": 36,
+    "followers": 6,
+    "privateContributions": 1362,
+    "publicContributions": 21,
     "createdAt": "2022-09-08T11:03:18Z"
   },
   {
@@ -30151,8 +30139,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 435,
-    "publicContributions": 244,
+    "privateContributions": 456,
+    "publicContributions": 725,
     "createdAt": "2022-09-05T08:44:11Z"
   },
   {
@@ -30164,7 +30152,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 2,
     "createdAt": "2022-03-07T08:36:26Z"
   },
   {
@@ -30176,7 +30164,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 35,
     "createdAt": "2022-07-04T11:51:52Z"
   },
   {
@@ -30186,9 +30174,9 @@
     "location": "Vienna, AT",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 350,
-    "publicContributions": 154,
+    "followers": 4,
+    "privateContributions": 620,
+    "publicContributions": 149,
     "createdAt": "2022-06-29T09:48:13Z"
   },
   {
@@ -30196,11 +30184,11 @@
     "name": "Camilo Tello Fachin",
     "avatarUrl": "https://avatars.githubusercontent.com/u/101008039?s=72&u=01fa8f0d8dde882e2e5367878b85a14f61137769&v=4",
     "location": "Vienna",
-    "company": "ZHAW Institute of Computational Physics",
+    "company": "aramiko GmbH",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 120,
-    "publicContributions": 23,
+    "privateContributions": 123,
+    "publicContributions": 29,
     "createdAt": "2022-03-05T14:51:55Z"
   },
   {
