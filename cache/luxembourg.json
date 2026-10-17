@@ -990,7 +990,7 @@
     "location": "Luxembourg",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 94,
     "createdAt": "2024-11-11T14:04:38Z"
@@ -1003,7 +1003,7 @@
     "company": "Circu Li-ion S.A",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 584,
+    "privateContributions": 617,
     "publicContributions": 0,
     "createdAt": "2024-09-20T22:10:55Z"
   },
@@ -1032,18 +1032,6 @@
     "createdAt": "2024-04-23T04:55:37Z"
   },
   {
-    "login": "lorem-dev",
-    "name": "Lorem Dev",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/158839528?s=72&u=6ec4718aa2492ee978a059bfb1677b125c47ea20&v=4",
-    "location": "Luxembourg",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 121,
-    "publicContributions": 1749,
-    "createdAt": "2024-02-04T16:21:21Z"
-  },
-  {
     "login": "emakunin",
     "name": "Eugene Makunin",
     "avatarUrl": "https://avatars.githubusercontent.com/u/163905604?s=72&u=16e631700168e7ed1ae6ca475cb90f10698c2d3e&v=4",
@@ -1051,7 +1039,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 959,
+    "privateContributions": 999,
     "publicContributions": 3,
     "createdAt": "2024-03-18T18:28:19Z"
   },
@@ -1064,7 +1052,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 122,
+    "publicContributions": 105,
     "createdAt": "2024-09-16T10:21:58Z"
   },
   {
@@ -1075,8 +1063,8 @@
     "company": "Regit.io",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 2502,
-    "publicContributions": 91,
+    "privateContributions": 2661,
+    "publicContributions": 96,
     "createdAt": "2024-02-07T16:42:48Z"
   },
   {
@@ -1099,8 +1087,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 578,
-    "publicContributions": 247,
+    "privateContributions": 582,
+    "publicContributions": 305,
     "createdAt": "2024-07-02T11:59:14Z"
   },
   {
@@ -1111,8 +1099,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 199,
-    "publicContributions": 54,
+    "privateContributions": 194,
+    "publicContributions": 45,
     "createdAt": "2024-02-21T18:50:19Z"
   },
   {
@@ -1158,9 +1146,9 @@
     "location": "42 Luxembourg",
     "company": "",
     "twitterUsername": "",
-    "followers": 111,
-    "privateContributions": 14,
-    "publicContributions": 2,
+    "followers": 112,
+    "privateContributions": 17,
+    "publicContributions": 11,
     "createdAt": "2023-08-06T13:47:36Z"
   },
   {
@@ -1183,8 +1171,8 @@
     "company": "Stellar Nursery S.à r.l",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 633,
-    "publicContributions": 758,
+    "privateContributions": 645,
+    "publicContributions": 724,
     "createdAt": "2023-10-23T19:26:37Z"
   },
   {

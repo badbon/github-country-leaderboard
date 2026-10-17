@@ -27475,8 +27475,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 124,
-    "publicContributions": 24,
+    "privateContributions": 24,
+    "publicContributions": 77,
     "createdAt": "2021-05-14T17:22:49Z"
   },
   {
@@ -27487,8 +27487,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 690,
-    "publicContributions": 99,
+    "privateContributions": 854,
+    "publicContributions": 54,
     "createdAt": "2021-08-08T17:32:46Z"
   },
   {
@@ -27499,8 +27499,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 226,
-    "publicContributions": 39,
+    "privateContributions": 185,
+    "publicContributions": 17,
     "createdAt": "2021-12-07T22:45:36Z"
   },
   {
@@ -27564,18 +27564,6 @@
     "createdAt": "2021-09-09T13:33:29Z"
   },
   {
-    "login": "CerovecVojislav",
-    "name": "Vojislav Cerovec",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/84142643?s=72&u=641c082faba884243aae45aa74d272b6bb2953d1&v=4",
-    "location": "Serbia, Novi Sad",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 42,
-    "publicContributions": 19,
-    "createdAt": "2021-05-13T15:24:06Z"
-  },
-  {
     "login": "Ilkenza",
     "name": "ilkenza.dev",
     "avatarUrl": "https://avatars.githubusercontent.com/u/78756816?s=72&u=c93d72062c8cb38192740097794756975ae52dba&v=4",
@@ -27584,7 +27572,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 119,
-    "publicContributions": 653,
+    "publicContributions": 736,
     "createdAt": "2021-02-08T18:53:16Z"
   },
   {
@@ -27607,8 +27595,8 @@
     "company": "Mathematical Grammar School",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 62,
-    "publicContributions": 37,
+    "privateContributions": 48,
+    "publicContributions": 69,
     "createdAt": "2021-01-06T16:49:12Z"
   },
   {
@@ -27631,7 +27619,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 22,
+    "privateContributions": 17,
     "publicContributions": 0,
     "createdAt": "2021-01-25T09:46:15Z"
   },
