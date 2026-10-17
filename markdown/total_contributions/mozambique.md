@@ -1,6 +1,6 @@
 # Total Contributions - Mozambique
 
-Generated: 2026-10-17T00:02:36.381Z
+Generated: 2026-10-17T02:02:02.004Z
 
 Users: 1176
 
@@ -22,7 +22,7 @@ Users: 1176
 | 14 | [rafael-the-dev](https://github.com/rafael-the-dev) | Rafael Tivane |  |  | Mozambique | 2782 |
 | 15 | [enoqueJonas](https://github.com/enoqueJonas) | Enoque Macanda | Microverse | enoque_jonas | Maputo, Mozambique | 2769 |
 | 16 | [backstageel](https://github.com/backstageel) | Elísio Leonardo | Hostmoz |  | Maputo | 2722 |
-| 17 | [gmahota](https://github.com/gmahota) | Guimaraes Mahota Jr. |  | mahota_g | Maputo, Mozambique | 2603 |
+| 17 | [gmahota](https://github.com/gmahota) | Guimaraes Mahota Jr. |  | mahota_g | Maputo, Mozambique | 2574 |
 | 18 | [KelvenCassamo](https://github.com/KelvenCassamo) | Kelven Cassamo | Bivdev, LDA |  | Maputo, Mozambique | 2560 |
 | 19 | [domingoslequechane](https://github.com/domingoslequechane) | Domingos Francisco Lequechane |  |  | Mozambique | 2521 |
 | 20 | [IvanBila](https://github.com/IvanBila) | Connoisseur | @bazara  |  | Maputo, Mozambique | 2451 |

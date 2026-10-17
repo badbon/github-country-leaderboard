@@ -1,6 +1,6 @@
 # Public Contributions - Mongolia
 
-Generated: 2026-10-17T00:01:19.769Z
+Generated: 2026-10-17T02:00:09.837Z
 
 Users: 805
 
@@ -21,8 +21,8 @@ Users: 805
 | 13 | [TemuulenBM](https://github.com/TemuulenBM) | Temuulen | @Fleetbase |  | Mongolia | 542 |
 | 14 | [Amartuvshins0404](https://github.com/Amartuvshins0404) | Amartuvshin Surenjav | erxes | Amaraa2404 | Ulaanbaatar, Mongolia | 529 |
 | 15 | [Ar-temis](https://github.com/Ar-temis) | Temuulen Enkhtamir | Duke Kunshan University |  | Ulaanbaatar, Mongolia | 514 |
-| 16 | [dolgoonnn](https://github.com/dolgoonnn) | Dolgoon | Numad Labs | Dolgoonnn1 | Ulaanbaatar, Mongolia | 493 |
-| 17 | [munkhsaikhan](https://github.com/munkhsaikhan) | munkhsaikhan | @erxes  |  | mongolia | 492 |
+| 16 | [munkhsaikhan](https://github.com/munkhsaikhan) | munkhsaikhan | @erxes  |  | mongolia | 507 |
+| 17 | [dolgoonnn](https://github.com/dolgoonnn) | Dolgoon | Numad Labs | Dolgoonnn1 | Ulaanbaatar, Mongolia | 493 |
 | 18 | [zolbooo](https://github.com/zolbooo) | Oleg | @coretech-asia |  | Ulaanbaatar, Mongolia | 489 |
 | 19 | [Namuun0521](https://github.com/Namuun0521) | Namuun |  |  | Ulaanbaatar, Mongolia | 484 |
 | 20 | [munkhorgil](https://github.com/munkhorgil) | Orgil | Engineer @roarkhq |  | Mongolia | 476 |

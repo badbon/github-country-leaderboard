@@ -1,13 +1,13 @@
 # Total Contributions - Northern Mariana Islands
 
-Generated: 2026-10-17T00:08:42.663Z
+Generated: 2026-10-17T02:09:50.347Z
 
 Users: 13
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [chris-yng](https://github.com/chris-yng) | Christopher Young |  |  | Sotobury, Northern Mariana Islands | 303 |
-| 2 | [stephenalonzo](https://github.com/stephenalonzo) | Stephen Alonzo |  |  | Saipan, MP | 286 |
+| 1 | [chris-yng](https://github.com/chris-yng) | Christopher Young |  |  | Sotobury, Northern Mariana Islands | 302 |
+| 2 | [stephenalonzo](https://github.com/stephenalonzo) | Stephen Alonzo |  |  | Saipan, MP | 283 |
 | 3 | [nihaolifei999](https://github.com/nihaolifei999) | nihaolifei999 |  |  | Saipan | 6 |
 | 4 | [donnaada](https://github.com/donnaada) | Donna Ada |  |  | Saipan, MP | 1 |
 | 5 | [BaiJaCheng](https://github.com/BaiJaCheng) | Shanti Walker | Denesik and Sons |  | 715 ,Cristopher Forge ,Williehaven ,Virginia ,Northern Mariana Islands | 0 |

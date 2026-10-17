@@ -28,7 +28,7 @@ Indexed users: 1,176
 | 14 | [rafael-the-dev](https://github.com/rafael-the-dev) | Rafael Tivane | Mozambique | 2,782 |
 | 15 | [enoqueJonas](https://github.com/enoqueJonas) | Enoque Macanda | Maputo, Mozambique | 2,769 |
 | 16 | [backstageel](https://github.com/backstageel) | Elísio Leonardo | Maputo | 2,722 |
-| 17 | [gmahota](https://github.com/gmahota) | Guimaraes Mahota Jr. | Maputo, Mozambique | 2,603 |
+| 17 | [gmahota](https://github.com/gmahota) | Guimaraes Mahota Jr. | Maputo, Mozambique | 2,574 |
 | 18 | [KelvenCassamo](https://github.com/KelvenCassamo) | Kelven Cassamo | Maputo, Mozambique | 2,560 |
 | 19 | [domingoslequechane](https://github.com/domingoslequechane) | Domingos Francisco Lequechane | Mozambique | 2,521 |
 | 20 | [IvanBila](https://github.com/IvanBila) | Connoisseur | Maputo, Mozambique | 2,451 |
@@ -63,7 +63,7 @@ Indexed users: 1,176
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [JoneBulande](https://github.com/JoneBulande) | Jone  | Maputo, Mozambique | 450 |
-| 2 | [gmahota](https://github.com/gmahota) | Guimaraes Mahota Jr. | Maputo, Mozambique | 323 |
+| 2 | [gmahota](https://github.com/gmahota) | Guimaraes Mahota Jr. | Maputo, Mozambique | 325 |
 | 3 | [EdgarJFA](https://github.com/EdgarJFA) | Edgar Amado | Mozambique | 299 |
 | 4 | [joseseie](https://github.com/joseseie) | Jose Seie | Maputo, Mozambique | 279 |
 | 5 | [gabrielmjr](https://github.com/gabrielmjr) | Gabriel Mucacho Júnior | Maputo/Mozambique  | 227 |
@@ -83,4 +83,4 @@ Indexed users: 1,176
 | 19 | [enoquetembe](https://github.com/enoquetembe) | Enoque Tembe | Maputo, Mozambique | 111 |
 | 20 | [mariomthree](https://github.com/mariomthree) | Mário M. Mabande | Maputo, Mozambique | 95 |
 
-Generated: 2026-10-17T00:02:36.381Z
+Generated: 2026-10-17T02:02:02.004Z

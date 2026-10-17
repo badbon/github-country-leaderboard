@@ -31,7 +31,7 @@ Indexed users: 298
 | 17 | [gedeon2306](https://github.com/gedeon2306) | JihrelDev | Brazzaville | 1,944 |
 | 18 | [Rajivhost](https://github.com/Rajivhost) | Rajiv Mounguengue | Brazzaville, Congo | 1,598 |
 | 19 | [Nianga-hussein](https://github.com/Nianga-hussein) | NIANGA Claude Hussein | Brazzaville | 1,408 |
-| 20 | [DevProsper](https://github.com/DevProsper) |  | Brazzaville, Congo | 1,389 |
+| 20 | [DevProsper](https://github.com/DevProsper) |  | Brazzaville, Congo | 1,387 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 298
 | 19 | [Ssnnee](https://github.com/Ssnnee) | Samuel Nandi | Republic of the Congo | 26 |
 | 20 | [WinnersProx](https://github.com/WinnersProx) | Vainqueur Bihame | Kigali,Rwanda,Congo | 25 |
 
-Generated: 2026-10-17T00:17:27.293Z
+Generated: 2026-10-17T02:16:06.104Z

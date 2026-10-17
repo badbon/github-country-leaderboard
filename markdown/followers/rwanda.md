@@ -1,6 +1,6 @@
 # Followers - Rwanda
 
-Generated: 2026-10-17T00:18:43.704Z
+Generated: 2026-10-17T02:17:21.169Z
 
 Users: 3513
 
@@ -14,11 +14,11 @@ Users: 3513
 | 6 | [codeWithEdison](https://github.com/codeWithEdison) | Edison UWIHANGANYE | UR Binary Hub |  | Rwanda | 1016 |
 | 7 | [Nsoro-Allan](https://github.com/Nsoro-Allan) | Nsoro Allan | AllanCorp |  | Kigali, Rwanda | 974 |
 | 8 | [ProgrammerDATCH](https://github.com/ProgrammerDATCH) | Mr. David | @gokabisa | ProgrammerDATCH | Kigali Rwanda | 896 |
-| 9 | [umutambyi-gad](https://github.com/umutambyi-gad) | Gad |  | umutambyi_gad | Kigali, Rwanda | 652 |
+| 9 | [umutambyi-gad](https://github.com/umutambyi-gad) | Gad |  | umutambyi_gad | Kigali, Rwanda | 655 |
 | 10 | [samuelumutiti](https://github.com/samuelumutiti) | Umutiti Samuel | Freelancer | UsamuelC2287 | Rwanda / Kigali City | 614 |
 | 11 | [AlineHub-tech](https://github.com/AlineHub-tech) | Umugwaneza Aline | ByteFlow Ltd |  | Kigali, Rwanda | 511 |
 | 12 | [Pericles001](https://github.com/Pericles001) | Pericles Adjovi | Carnegie Mellon University |  | Kigali, Rwanda | 508 |
-| 13 | [uwenayoallain](https://github.com/uwenayoallain) | Alain Pacifique UWENAYO |  | uwenayoallain | Kigali,Rwanda | 445 |
+| 13 | [uwenayoallain](https://github.com/uwenayoallain) | Alain Pacifique UWENAYO |  | uwenayoallain | Kigali,Rwanda | 428 |
 | 14 | [Mucyo-chris](https://github.com/Mucyo-chris) | Christian MUCYO |  |  | KIGALI-RWANDA | 388 |
 | 15 | [neoscratchteam](https://github.com/neoscratchteam) | NeoScratch | NeoScratch |  | Kigali, Rwanda | 386 |
 | 16 | [Goal651](https://github.com/Goal651) |  Wilson Goal BUGIRI | @Echo-Sols-Ltd |  | Rwanda-Kigali | 357 |

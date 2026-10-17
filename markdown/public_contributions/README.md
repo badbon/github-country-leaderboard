@@ -99,12 +99,12 @@ Published countries: 234
 | Hong Kong | 10,273 | [View](./hong_kong.md) |
 | Hungary | 11,178 | [View](./hungary.md) |
 | Iceland | 1,578 | [View](./iceland.md) |
-| Indonesia | 63,299 | [View](./indonesia.md) |
+| Indonesia | 63,304 | [View](./indonesia.md) |
 | Iran | 26,870 | [View](./iran.md) |
 | Iraq | 2,235 | [View](./iraq.md) |
 | Ireland | 19,500 | [View](./ireland.md) |
 | Isle of Man | 155 | [View](./isle_of_man.md) |
-| Israel | 12,419 | [View](./israel.md) |
+| Israel | 12,425 | [View](./israel.md) |
 | Ivory Coast | 488 | [View](./ivory_coast.md) |
 | Jamaica | 1,274 | [View](./jamaica.md) |
 | Jersey | 139 | [View](./jersey.md) |
@@ -126,7 +126,7 @@ Published countries: 234
 | Macau | 439 | [View](./macau.md) |
 | Madagascar | 1,904 | [View](./madagascar.md) |
 | Malawi | 901 | [View](./malawi.md) |
-| Malaysia | 11,797 | [View](./malaysia.md) |
+| Malaysia | 11,796 | [View](./malaysia.md) |
 | Maldives | 354 | [View](./maldives.md) |
 | Mali | 348 | [View](./mali.md) |
 | Malta | 1,225 | [View](./malta.md) |
@@ -135,7 +135,7 @@ Published countries: 234
 | Mauritania | 289 | [View](./mauritania.md) |
 | Mauritius | 713 | [View](./mauritius.md) |
 | Mayotte | 17 | [View](./mayotte.md) |
-| Mexico | 23,495 | [View](./mexico.md) |
+| Mexico | 23,494 | [View](./mexico.md) |
 | Micronesia | 11 | [View](./micronesia.md) |
 | Moldova | 1,749 | [View](./moldova.md) |
 | Monaco | 142 | [View](./monaco.md) |
@@ -239,4 +239,4 @@ Published countries: 234
 | Zambia | 1,338 | [View](./zambia.md) |
 | Zimbabwe | 1,656 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-17T01:43:17.225Z
+Generated: 2026-10-17T02:28:55.503Z

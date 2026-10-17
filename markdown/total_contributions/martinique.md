@@ -1,6 +1,6 @@
 # Total Contributions - Martinique
 
-Generated: 2026-10-16T23:58:01.253Z
+Generated: 2026-10-17T01:56:27.654Z
 
 Users: 75
 
@@ -11,7 +11,7 @@ Users: 75
 | 3 | [diasjorge](https://github.com/diasjorge) | Jorge Dias | http://aerisnova.com | dias_jorge | Martinique | 5076 |
 | 4 | [GuillaumeBld](https://github.com/GuillaumeBld) | Guillaume Bolivard |  |  | Chicago / Fort-de-France | 4503 |
 | 5 | [bolom](https://github.com/bolom) | Bolo Michelin | @scionx-io | bolomichelin | Martinique | 3178 |
-| 6 | [docVoid](https://github.com/docVoid) | void216 | pngrtz |  | Martinique | 1534 |
+| 6 | [docVoid](https://github.com/docVoid) | void216 | pngrtz |  | Martinique | 1497 |
 | 7 | [p4cm4n972](https://github.com/p4cm4n972) | Manuel ADELE |  |  | Martinique | 1105 |
 | 8 | [R3tr8](https://github.com/R3tr8) | Franck-Emmanuel |  | R3tr8 | Martinique | 941 |
 | 9 | [esrid](https://github.com/esrid) | ADS | none | as_esrid | Martinique | 940 |

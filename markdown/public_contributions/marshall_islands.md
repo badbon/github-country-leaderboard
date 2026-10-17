@@ -1,13 +1,13 @@
 # Public Contributions - Marshall Islands
 
-Generated: 2026-10-16T23:57:27.618Z
+Generated: 2026-10-17T01:54:51.372Z
 
 Users: 11
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [baolood](https://github.com/baolood) | BAO LE DAO | ROFF Technology Co. |  | Marshall Islands | 1815 |
-| 2 | [Charles-Hello](https://github.com/Charles-Hello) | Charles | Lakin, Corkery and Hermiston |  | 10327 ,Reynolds Meadows ,West Ilana ,Wyoming ,Marshall Islands | 37 |
+| 2 | [Charles-Hello](https://github.com/Charles-Hello) | Charles | Lakin, Corkery and Hermiston |  | 10327 ,Reynolds Meadows ,West Ilana ,Wyoming ,Marshall Islands | 36 |
 | 3 | [jfhs](https://github.com/jfhs) | Andrey |  |  | Marshall Islands | 3 |
 | 4 | [7d00med](https://github.com/7d00med) |  |  |  | Marshall Islands | 0 |
 | 5 | [EKSwitaj](https://github.com/EKSwitaj) | Elizabeth Kate Switaj |  |  | Majuro, Marshall Islands | 0 |

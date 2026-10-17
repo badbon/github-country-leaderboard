@@ -14,7 +14,7 @@ Indexed users: 17
 |---:|---|---|---|---:|
 | 1 | [beeraw](https://github.com/beeraw) | Jean-Luc Petit | Mayotte | 2,377 |
 | 2 | [feycoil](https://github.com/feycoil) | Feyçoil Mouhoussoune | Mamoudzou | 327 |
-| 3 | [TechNerdSam](https://github.com/TechNerdSam) | Samyn-Antoy ABASSE | mayotte | 314 |
+| 3 | [TechNerdSam](https://github.com/TechNerdSam) | Samyn-Antoy ABASSE | mayotte | 312 |
 | 4 | [bacardeveloper](https://github.com/bacardeveloper) | niwradCodera | Mayotte | 196 |
 | 5 | [anniou21](https://github.com/anniou21) | Anniou | Mayotte | 18 |
 | 6 | [nuthered](https://github.com/nuthered) |  | East Kevinbury, Mayotte | 15 |
@@ -35,7 +35,7 @@ Indexed users: 17
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [feycoil](https://github.com/feycoil) | Feyçoil Mouhoussoune | Mamoudzou | 327 |
-| 2 | [TechNerdSam](https://github.com/TechNerdSam) | Samyn-Antoy ABASSE | mayotte | 314 |
+| 2 | [TechNerdSam](https://github.com/TechNerdSam) | Samyn-Antoy ABASSE | mayotte | 312 |
 | 3 | [beeraw](https://github.com/beeraw) | Jean-Luc Petit | Mayotte | 157 |
 | 4 | [bacardeveloper](https://github.com/bacardeveloper) | niwradCodera | Mayotte | 22 |
 | 5 | [anniou21](https://github.com/anniou21) | Anniou | Mayotte | 18 |
@@ -74,4 +74,4 @@ Indexed users: 17
 | 16 | [shamounni](https://github.com/shamounni) | Shamounni | Mayotte | 1 |
 | 17 | [TechNerdSam](https://github.com/TechNerdSam) | Samyn-Antoy ABASSE | mayotte | 1 |
 
-Generated: 2026-10-16T23:59:22.542Z
+Generated: 2026-10-17T01:58:34.432Z

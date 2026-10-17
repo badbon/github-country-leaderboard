@@ -70,11 +70,11 @@ Indexed users: 3,513
 | 6 | [codeWithEdison](https://github.com/codeWithEdison) | Edison UWIHANGANYE | Rwanda | 1,016 |
 | 7 | [Nsoro-Allan](https://github.com/Nsoro-Allan) | Nsoro Allan | Kigali, Rwanda | 974 |
 | 8 | [ProgrammerDATCH](https://github.com/ProgrammerDATCH) | Mr. David | Kigali Rwanda | 896 |
-| 9 | [umutambyi-gad](https://github.com/umutambyi-gad) | Gad | Kigali, Rwanda | 652 |
+| 9 | [umutambyi-gad](https://github.com/umutambyi-gad) | Gad | Kigali, Rwanda | 655 |
 | 10 | [samuelumutiti](https://github.com/samuelumutiti) | Umutiti Samuel | Rwanda / Kigali City | 614 |
 | 11 | [AlineHub-tech](https://github.com/AlineHub-tech) | Umugwaneza Aline | Kigali, Rwanda | 511 |
 | 12 | [Pericles001](https://github.com/Pericles001) | Pericles Adjovi | Kigali, Rwanda | 508 |
-| 13 | [uwenayoallain](https://github.com/uwenayoallain) | Alain Pacifique UWENAYO | Kigali,Rwanda | 445 |
+| 13 | [uwenayoallain](https://github.com/uwenayoallain) | Alain Pacifique UWENAYO | Kigali,Rwanda | 428 |
 | 14 | [Mucyo-chris](https://github.com/Mucyo-chris) | Christian MUCYO | KIGALI-RWANDA | 388 |
 | 15 | [neoscratchteam](https://github.com/neoscratchteam) | NeoScratch | Kigali, Rwanda | 386 |
 | 16 | [Goal651](https://github.com/Goal651) |  Wilson Goal BUGIRI | Rwanda-Kigali | 357 |
@@ -83,4 +83,4 @@ Indexed users: 3,513
 | 19 | [ghislainb-cracker](https://github.com/ghislainb-cracker) | Ghislain Byimbo | Rwanda | 316 |
 | 20 | [shemaikuzwe](https://github.com/shemaikuzwe) | Ikuzwe shema Elie | rwanda | 314 |
 
-Generated: 2026-10-17T00:18:43.704Z
+Generated: 2026-10-17T02:17:21.169Z

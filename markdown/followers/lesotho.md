@@ -1,6 +1,6 @@
 # Followers - Lesotho
 
-Generated: 2026-10-16T23:50:53.016Z
+Generated: 2026-10-17T01:47:55.062Z
 
 Users: 160
 
@@ -11,7 +11,7 @@ Users: 160
 | 3 | [ocaes](https://github.com/ocaes) | Tsitso Mafantiri | OCAES  | ocaes_lso | Lesotho | 114 |
 | 4 | [hitman1c](https://github.com/hitman1c) | SechabaLaptopTracker | SechabaLaptopTracker |  | Lesotho,Maseru | 60 |
 | 5 | [Tumisangkhabisi](https://github.com/Tumisangkhabisi) | Tumisang khabisi |  | khabisixivk | Lesotho, maseru | 54 |
-| 6 | [Lemohang](https://github.com/Lemohang) | Lemohang57 |  |  | Maseru  | 44 |
+| 6 | [Lemohang](https://github.com/Lemohang) | Lemohang57 |  |  | Maseru  | 45 |
 | 7 | [khauta](https://github.com/khauta) | Khauta Maliehe | @Liparola  | kjamaliehe | Maseru, Lesotho | 43 |
 | 8 | [khobatha](https://github.com/khobatha) | Khobatha Setetemela | NUL |  | Maseru, Roma, Lesotho | 38 |
 | 9 | [AtomLaw](https://github.com/AtomLaw) | Hlompho | Private |  | Lesotho | 32 |

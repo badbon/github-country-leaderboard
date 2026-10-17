@@ -1,6 +1,6 @@
 # Total Contributions - Montenegro
 
-Generated: 2026-10-17T00:01:23.836Z
+Generated: 2026-10-17T02:00:13.652Z
 
 Users: 888
 
@@ -13,9 +13,9 @@ Users: 888
 | 5 | [sondreb](https://github.com/sondreb) | SondreB | @nostria-app @block-core @Liberstad | sondreb | Bar, Montenegro | 7259 |
 | 6 | [McSim85](https://github.com/McSim85) | Max Kramarenko | Quicknode Inc |  | Montenegro | 6704 |
 | 7 | [jare25](https://github.com/jare25) | Miloš Jaredić |  |  | Podgorica, Montenegro | 6570 |
-| 8 | [Timev](https://github.com/Timev) | Evgenii Timofeev |  |  | Montenegro | 6223 |
-| 9 | [recursion128](https://github.com/recursion128) | DDDDOGE |  |  | Crna Gora | 6213 |
-| 10 | [stefashkaa](https://github.com/stefashkaa) | Stefan Popov | @DeSource-Labs |  | Montenegro, Budva | 5983 |
+| 8 | [recursion128](https://github.com/recursion128) | DDDDOGE |  |  | Crna Gora | 6298 |
+| 9 | [Timev](https://github.com/Timev) | Evgenii Timofeev |  |  | Montenegro | 6223 |
+| 10 | [stefashkaa](https://github.com/stefashkaa) | Stefan Popov | @DeSource-Labs |  | Montenegro, Budva | 6017 |
 | 11 | [1v4n4](https://github.com/1v4n4) |  | Fix The Status Quo |  | Montenegro | 5795 |
 | 12 | [aco228](https://github.com/aco228) | Aleksandar Konatar | Likvido |  | Podgorica | 5709 |
 | 13 | [pokidov](https://github.com/pokidov) | Kirill Pokidov | AAA Consulting |  | Montenegro | 5471 |

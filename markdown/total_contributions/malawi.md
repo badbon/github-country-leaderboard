@@ -1,12 +1,12 @@
 # Total Contributions - Malawi
 
-Generated: 2026-10-16T23:54:49.931Z
+Generated: 2026-10-17T01:52:36.151Z
 
 Users: 901
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [dthyolerak](https://github.com/dthyolerak) | Donnex Thyolera Kamsonga | INFI-TECH(Infinity Technologies Inc) @InfinityCodeMw  as well as @talents2germany |  | Malawi | 13668 |
+| 1 | [dthyolerak](https://github.com/dthyolerak) | Donnex Thyolera Kamsonga | INFI-TECH(Infinity Technologies Inc) @InfinityCodeMw  as well as @talents2germany |  | Malawi | 13660 |
 | 2 | [kachaje](https://github.com/kachaje) | Chimwemwe Kachaje |  |  | Lilongwe, Malawi | 10296 |
 | 3 | [calmwalija](https://github.com/calmwalija) | Comfort Mwalija |  |  | Malawi, Lilongwe | 7591 |
 | 4 | [PatienceBond](https://github.com/PatienceBond) | Patience Isaiah Nyirenda | FindLink |  | Malawi, Africa | 6721 |
@@ -22,7 +22,7 @@ Users: 901
 | 14 | [petroskayange](https://github.com/petroskayange) | Petros Kayange | @Kuunika @LUKEINTERNATIONAL @EGPAFMalawiHIS @HISMalawi @DoxDevOps  |  | Malawi | 3624 |
 | 15 | [Frank5ive](https://github.com/Frank5ive) | Frank Gondwe |  | FrankGondwe11 | Malawi | 3614 |
 | 16 | [KhoTheProgrammer](https://github.com/KhoTheProgrammer) | Kondwani Padyera | Self |  | Malawi | 3261 |
-| 17 | [markulaya2](https://github.com/markulaya2) | Mark Ulaya | @creditdatamw |  | Blantyre, Malawi | 3184 |
+| 17 | [markulaya2](https://github.com/markulaya2) | Mark Ulaya | @creditdatamw |  | Blantyre, Malawi | 3152 |
 | 18 | [IsaacKalambo22](https://github.com/IsaacKalambo22) | Isaac Kalambo | @InfinityCodeMw  | IsaacKalam44251 | Lilongwe | 3147 |
 | 19 | [Valent-p](https://github.com/Valent-p) | Valentino Phiri - Programmer | Veigatec |  | Lilongwe, Malawi | 3060 |
 | 20 | [zikani03](https://github.com/zikani03) | Zikani Nyirenda Mwase | @nndi-tech | zikani03 | Lilongwe, Malawi | 3054 |

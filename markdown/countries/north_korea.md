@@ -13,7 +13,7 @@ Indexed users: 185
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [Kim9wang](https://github.com/Kim9wang) | Kim Wang | Pyongyang | 5,880 |
-| 2 | [advanced-rising](https://github.com/advanced-rising) | risingcore | Democratic People's Republic of Korea | 5,145 |
+| 2 | [advanced-rising](https://github.com/advanced-rising) | risingcore | Democratic People's Republic of Korea | 5,156 |
 | 3 | [boyesjo](https://github.com/boyesjo) | Boye Sjo | pyongyang | 4,098 |
 | 4 | [sakweli](https://github.com/sakweli) | Josh Sakweli | North Korea | 2,460 |
 | 5 | [andrewlee1807](https://github.com/andrewlee1807) | Andrew | North Korea | 1,540 |
@@ -65,7 +65,7 @@ Indexed users: 185
 | 1 | [x1hy9](https://github.com/x1hy9) | MyeongGun Kim | Pyongyang | 138 |
 | 2 | [jdzmfg](https://github.com/jdzmfg) | ! ★ | pyongyang | 69 |
 | 3 | [0x4f53](https://github.com/0x4f53) | Owais Shaikh | 🇰🇵 Pyongyang, North Korea | 66 |
-| 4 | [advanced-rising](https://github.com/advanced-rising) | risingcore | Democratic People's Republic of Korea | 63 |
+| 4 | [advanced-rising](https://github.com/advanced-rising) | risingcore | Democratic People's Republic of Korea | 62 |
 | 5 | [norksec](https://github.com/norksec) | NORKSEC | Pyongyang, North Korea | 32 |
 | 6 | [strangerting](https://github.com/strangerting) | Big Kim | Bunker, DPRK | 32 |
 | 7 | [shiftre](https://github.com/shiftre) | Shift | Pyongyang | 31 |
@@ -83,4 +83,4 @@ Indexed users: 185
 | 19 | [DillerOFire](https://github.com/DillerOFire) | VerpaSRP | North Korea | 14 |
 | 20 | [JeonJung-kook](https://github.com/JeonJung-kook) | Jeon Jung-kook Cantor | North Korea | 14 |
 
-Generated: 2026-10-17T00:06:49.543Z
+Generated: 2026-10-17T02:08:12.907Z

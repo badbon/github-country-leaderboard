@@ -1,6 +1,6 @@
 # Total Contributions - Saint Helena, Ascension and Tristan da Cunha
 
-Generated: 2026-10-17T00:20:18.305Z
+Generated: 2026-10-17T02:19:27.840Z
 
 Users: 25
 
@@ -9,7 +9,7 @@ Users: 25
 | 1 | [Dylandoesprogramming](https://github.com/Dylandoesprogramming) | Dylan Brown | EBTH |  | Jamestown, CA | 1409 |
 | 2 | [zerodoc](https://github.com/zerodoc) | Howard M Wheeler |  |  | Jamestown, New York | 184 |
 | 3 | [radshiny1992](https://github.com/radshiny1992) | Ashley Moreno |  |  | New Emilychester, Saint Helena | 135 |
-| 4 | [carehart](https://github.com/carehart) | Charlie Arehart | CArehart.org | carehart | Jamestown, KY | 123 |
+| 4 | [carehart](https://github.com/carehart) | Charlie Arehart | CArehart.org | carehart | Jamestown, KY | 121 |
 | 5 | [johncoder](https://github.com/johncoder) | John Nelson |  | johncoder | Jamestown, NY | 68 |
 | 6 | [brandan-schmitz](https://github.com/brandan-schmitz) | Brandan Schmitz |  |  | Jamestown, North Dakota | 62 |
 | 7 | [scottley](https://github.com/scottley) | Scott Simon | Garcilote LLC |  | Jamestown, MO | 41 |
