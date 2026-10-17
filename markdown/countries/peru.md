@@ -53,7 +53,7 @@ Indexed users: 9,770
 | 14 | [dxrzc](https://github.com/dxrzc) | Diego Rodriguez | Peru (UTC-5) | 3,044 |
 | 15 | [shiarauzo](https://github.com/shiarauzo) | Shiara Arauzo | Peru | 2,834 |
 | 16 | [patricio0312rev](https://github.com/patricio0312rev) | Patricio Marroquin | Peru | 2,762 |
-| 17 | [VidalLuyo](https://github.com/VidalLuyo) | VidalLuyo | Imperial - Cañete - Lima | 2,698 |
+| 17 | [VidalLuyo](https://github.com/VidalLuyo) | VidalLuyo | Imperial - Cañete - Lima | 2,684 |
 | 18 | [Dreamcoder08](https://github.com/Dreamcoder08) | Dreamcoder08 | Piura, Peru | 2,660 |
 | 19 | [Grazen0](https://github.com/Grazen0) | José Daniel Grayson | Peru | 2,652 |
 | 20 | [carlosvidal](https://github.com/carlosvidal) | Carlos Vidal | Lima, Peru | 2,602 |
@@ -83,4 +83,4 @@ Indexed users: 9,770
 | 19 | [carlosal1015](https://github.com/carlosal1015) | Oromion | Lima, Peru | 438 |
 | 20 | [HackUnderway](https://github.com/HackUnderway) | Hack Underway | Lima - Perú | 413 |
 
-Generated: 2026-10-17T16:58:05.414Z
+Generated: 2026-10-17T18:22:47.723Z

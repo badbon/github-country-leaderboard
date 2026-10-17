@@ -1,6 +1,6 @@
 # Total Contributions - Malawi
 
-Generated: 2026-10-17T16:45:06.439Z
+Generated: 2026-10-17T18:07:05.848Z
 
 Users: 901
 
@@ -8,7 +8,7 @@ Users: 901
 |---:|---|---|---|---|---|---:|
 | 1 | [dthyolerak](https://github.com/dthyolerak) | Donnex Thyolera Kamsonga | INFI-TECH(Infinity Technologies Inc) @InfinityCodeMw  as well as @talents2germany |  | Malawi | 13660 |
 | 2 | [kachaje](https://github.com/kachaje) | Chimwemwe Kachaje |  |  | Lilongwe, Malawi | 10296 |
-| 3 | [calmwalija](https://github.com/calmwalija) | Comfort Mwalija |  |  | Malawi, Lilongwe | 7591 |
+| 3 | [calmwalija](https://github.com/calmwalija) | Comfort Mwalija |  |  | Malawi, Lilongwe | 7501 |
 | 4 | [PatienceBond](https://github.com/PatienceBond) | Patience Isaiah Nyirenda | FindLink |  | Malawi, Africa | 6721 |
 | 5 | [madzalo](https://github.com/madzalo) | Resten Madzalo |  |  | Malawi | 6002 |
 | 6 | [CliffordMarley](https://github.com/CliffordMarley) | Clifford P. Mwale | Maziko Financial Technologies Limited |  | Area 47, Lilongwe, Malawi | 5767 |

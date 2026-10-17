@@ -1,13 +1,13 @@
 # Total Contributions - Liechtenstein
 
-Generated: 2026-10-17T16:42:32.095Z
+Generated: 2026-10-17T18:04:11.265Z
 
 Users: 113
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [oscardvs](https://github.com/oscardvs) | Oscar Devos |  | oskrt_dvs | Liechtenstein | 5695 |
-| 2 | [bernhardw](https://github.com/bernhardw) | Bernhard Wanger | Rezendo |  | Vaduz, Liechtenstein | 4574 |
+| 2 | [bernhardw](https://github.com/bernhardw) | Bernhard Wanger | Rezendo |  | Vaduz, Liechtenstein | 4586 |
 | 3 | [tnaescher](https://github.com/tnaescher) | T. Näscher | J&T Treuhand GmbH, Zürich |  | Liechtenstein | 4312 |
 | 4 | [msanft](https://github.com/msanft) | Moritz Sanft | Edgeless Systems | stdoutput | Liechtenstein | 2911 |
 | 5 | [PhilippHGerber](https://github.com/PhilippHGerber) | Philipp H. Gerber |  | PhilippHGerber | Liechtenstein | 2614 |
@@ -21,8 +21,8 @@ Users: 113
 | 13 | [archham](https://github.com/archham) | Nicolas Eberle |  |  | Liechtenstein | 463 |
 | 14 | [wol-fi](https://github.com/wol-fi) | Wolfgang Schadner | University of Liechtenstein |  | Liechtenstein | 332 |
 | 15 | [xGreeny](https://github.com/xGreeny) | Flurin |  |  | Liechtenstein | 329 |
-| 16 | [anonymouslyanonymous1](https://github.com/anonymouslyanonymous1) | Anonymously Anonymous |  |  | Liechtenstein | 309 |
-| 17 | [FeeJai](https://github.com/FeeJai) | Felix Jankowski |  |  | Liechtenstein | 309 |
+| 16 | [FeeJai](https://github.com/FeeJai) | Felix Jankowski |  |  | Liechtenstein | 326 |
+| 17 | [anonymouslyanonymous1](https://github.com/anonymouslyanonymous1) | Anonymously Anonymous |  |  | Liechtenstein | 309 |
 | 18 | [anondotli](https://github.com/anondotli) | anon.li |  |  | Liechtenstein | 301 |
 | 19 | [ColinFL](https://github.com/ColinFL) |  |  |  | Liechtenstein | 268 |
 | 20 | [catbears](https://github.com/catbears) |  |  |  | Eschen, Liechtenstein | 166 |

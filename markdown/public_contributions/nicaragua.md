@@ -1,6 +1,6 @@
 # Public Contributions - Nicaragua
 
-Generated: 2026-10-17T17:11:55.448Z
+Generated: 2026-10-17T18:14:35.071Z
 
 Users: 1395
 
@@ -17,7 +17,7 @@ Users: 1395
 | 9 | [ErvingMiranda](https://github.com/ErvingMiranda) | Ezone |  |  | Nicaragua | 1215 |
 | 10 | [MaycollJaramillo01](https://github.com/MaycollJaramillo01) | Maycoll Jaramillo | Mao Agency |  | Nicaragua | 1173 |
 | 11 | [jp-zuniga](https://github.com/jp-zuniga) | Joaquín Zúñiga | Universidad Americana |  | Managua, Nicaragua | 1172 |
-| 12 | [victorstein](https://github.com/victorstein) | Alfonso Emilio Gomez Selva | CleverTech |  | Nicaragua | 1093 |
+| 12 | [victorstein](https://github.com/victorstein) | Alfonso Emilio Gomez Selva | CleverTech |  | Nicaragua | 1127 |
 | 13 | [fn-cafeina](https://github.com/fn-cafeina) | Jasmir Medina |  |  | Nicaragua | 1087 |
 | 14 | [staFF6773](https://github.com/staFF6773) | Not_staff |  |  | República de Nicaragua | 1070 |
 | 15 | [ernestoruiz89](https://github.com/ernestoruiz89) | Ernesto Ruiz |  | ernestoruiz89 | Nicaragua | 967 |
@@ -25,4 +25,4 @@ Users: 1395
 | 17 | [Gaboxqc](https://github.com/Gaboxqc) | Gabriel Mayorga | MortaCorp |  | Managua | 917 |
 | 18 | [fabmnt](https://github.com/fabmnt) | Fabián Montoya | Dentalrobot | fabmnt_ | Nicaragua | 896 |
 | 19 | [R0LM0](https://github.com/R0LM0) | r0lm0 | None | r0lm0 | Managua, Nicaragua | 895 |
-| 20 | [xangcastle](https://github.com/xangcastle) | Cesar Abel |  |  | Nicaragua | 845 |
+| 20 | [Alvinferdeveloper](https://github.com/Alvinferdeveloper) | Albin Fernandez |  |  | Leon, Nicaragua | 838 |

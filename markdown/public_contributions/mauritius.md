@@ -1,6 +1,6 @@
 # Public Contributions - Mauritius
 
-Generated: 2026-10-17T16:47:00.388Z
+Generated: 2026-10-17T18:09:57.937Z
 
 Users: 713
 
@@ -8,8 +8,8 @@ Users: 713
 |---:|---|---|---|---|---|---:|
 | 1 | [EdgarEldy](https://github.com/EdgarEldy) | EDGAR MUHAMYANGABO | @Accenture | EdgarEldy | Mauritius | 7486 |
 | 2 | [wyxos](https://github.com/wyxos) | Wyxos |  |  | Mauritius | 4254 |
-| 3 | [Redstoneinvente](https://github.com/Redstoneinvente) | Doshagyasing Gowardun | Redstoneinvente Game Studio | Redstoneinvente | Mauritius | 2228 |
-| 4 | [AQUILA04](https://github.com/AQUILA04) | Francis AHONSOU | OptimizeSolux |  | Port-Louis, Mauritius \| Lomé, Togo | 1722 |
+| 3 | [Redstoneinvente](https://github.com/Redstoneinvente) | Doshagyasing Gowardun | Redstoneinvente Game Studio | Redstoneinvente | Mauritius | 2236 |
+| 4 | [AQUILA04](https://github.com/AQUILA04) | Francis AHONSOU | OptimizeSolux |  | Port-Louis, Mauritius \| Lomé, Togo | 1748 |
 | 5 | [asvinb](https://github.com/asvinb) | Asvin Balloo | @10up  |  | Mauritius | 1587 |
 | 6 | [xelab04](https://github.com/xelab04) | Alex Bissessur |  |  | Mauritius | 1491 |
 | 7 | [Abdur-rahmaanJ](https://github.com/Abdur-rahmaanJ) | Abdur-Rahmaan Janhangeer | @compileralchemy  | osdotsystem | Mauritius | 1406 |

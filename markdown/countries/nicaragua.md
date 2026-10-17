@@ -24,7 +24,7 @@ Indexed users: 1,395
 | 10 | [Xch4rt](https://github.com/Xch4rt) | Pablo Gutiérrez | Managua, Nicaragua | 4,501 |
 | 11 | [marcosmamg](https://github.com/marcosmamg) | Marcos Moreno | NIcaragua | 4,498 |
 | 12 | [edycarreyes99](https://github.com/edycarreyes99) | Edycar Reyes | Nicaragua | 4,437 |
-| 13 | [victorstein](https://github.com/victorstein) | Alfonso Emilio Gomez Selva | Nicaragua | 4,103 |
+| 13 | [victorstein](https://github.com/victorstein) | Alfonso Emilio Gomez Selva | Nicaragua | 4,142 |
 | 14 | [degomon](https://github.com/degomon) | Denis González | Nicaragua | 4,085 |
 | 15 | [ElVatoEste](https://github.com/ElVatoEste) | VatoDev | Nicaragua | 3,996 |
 | 16 | [fabmnt](https://github.com/fabmnt) | Fabián Montoya | Nicaragua | 3,759 |
@@ -48,7 +48,7 @@ Indexed users: 1,395
 | 9 | [ErvingMiranda](https://github.com/ErvingMiranda) | Ezone | Nicaragua | 1,215 |
 | 10 | [MaycollJaramillo01](https://github.com/MaycollJaramillo01) | Maycoll Jaramillo | Nicaragua | 1,173 |
 | 11 | [jp-zuniga](https://github.com/jp-zuniga) | Joaquín Zúñiga | Managua, Nicaragua | 1,172 |
-| 12 | [victorstein](https://github.com/victorstein) | Alfonso Emilio Gomez Selva | Nicaragua | 1,093 |
+| 12 | [victorstein](https://github.com/victorstein) | Alfonso Emilio Gomez Selva | Nicaragua | 1,127 |
 | 13 | [fn-cafeina](https://github.com/fn-cafeina) | Jasmir Medina | Nicaragua | 1,087 |
 | 14 | [staFF6773](https://github.com/staFF6773) | Not_staff | República de Nicaragua | 1,070 |
 | 15 | [ernestoruiz89](https://github.com/ernestoruiz89) | Ernesto Ruiz | Nicaragua | 967 |
@@ -56,7 +56,7 @@ Indexed users: 1,395
 | 17 | [Gaboxqc](https://github.com/Gaboxqc) | Gabriel Mayorga | Managua | 917 |
 | 18 | [fabmnt](https://github.com/fabmnt) | Fabián Montoya | Nicaragua | 896 |
 | 19 | [R0LM0](https://github.com/R0LM0) | r0lm0 | Managua, Nicaragua | 895 |
-| 20 | [xangcastle](https://github.com/xangcastle) | Cesar Abel | Nicaragua | 845 |
+| 20 | [Alvinferdeveloper](https://github.com/Alvinferdeveloper) | Albin Fernandez | Leon, Nicaragua | 838 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,395
 | 19 | [luismejiadev](https://github.com/luismejiadev) | Luis Mejia | Managua, Nicaragua | 68 |
 | 20 | [dannygaray60](https://github.com/dannygaray60) | Danny Garay | Nicaragua | 61 |
 
-Generated: 2026-10-17T17:11:55.448Z
+Generated: 2026-10-17T18:14:35.071Z
