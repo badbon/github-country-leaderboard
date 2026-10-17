@@ -27152,7 +27152,7 @@
     "twitterUsername": "",
     "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 3,
     "createdAt": "2023-02-03T15:37:52Z"
   },
   {
@@ -27162,7 +27162,7 @@
     "location": "Kremenchuk, Ukraine",
     "company": "",
     "twitterUsername": "elec7reify",
-    "followers": 11,
+    "followers": 12,
     "privateContributions": 121,
     "publicContributions": 8,
     "createdAt": "2022-12-29T23:49:41Z"
@@ -27176,7 +27176,7 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 3,
     "createdAt": "2023-01-16T07:04:53Z"
   },
   {
@@ -27199,7 +27199,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 292,
+    "privateContributions": 583,
     "publicContributions": 0,
     "createdAt": "2023-01-18T17:39:28Z"
   },
@@ -27210,7 +27210,7 @@
     "location": "Ukraine",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 11,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-02-03T09:41:00Z"
@@ -27222,7 +27222,7 @@
     "location": "Kyiv, Ukraine",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 8,
     "privateContributions": 0,
     "publicContributions": 322,
     "createdAt": "2023-02-17T19:45:27Z"
@@ -27248,7 +27248,7 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 131,
+    "publicContributions": 104,
     "createdAt": "2023-01-19T08:19:24Z"
   },
   {
@@ -27259,8 +27259,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 395,
-    "publicContributions": 113,
+    "privateContributions": 504,
+    "publicContributions": 80,
     "createdAt": "2023-03-23T09:09:09Z"
   },
   {
@@ -27270,9 +27270,9 @@
     "location": "Ukraine, Vinnitsa",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 14,
     "privateContributions": 0,
-    "publicContributions": 54,
+    "publicContributions": 45,
     "createdAt": "2023-03-12T15:38:31Z"
   },
   {
@@ -27282,9 +27282,9 @@
     "location": "Ukraine, Lviv",
     "company": "",
     "twitterUsername": "JavaDevv",
-    "followers": 9,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 62,
+    "publicContributions": 52,
     "createdAt": "2023-01-17T11:11:55Z"
   },
   {
@@ -27296,7 +27296,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 876,
+    "publicContributions": 409,
     "createdAt": "2023-01-28T17:50:14Z"
   },
   {
@@ -27324,18 +27324,6 @@
     "createdAt": "2023-03-26T05:31:37Z"
   },
   {
-    "login": "volonin",
-    "name": "Dmitry Volonin",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/122146735?s=72&u=5eb6747909a153042ac8bcbc17dd83b1f565fc57&v=4",
-    "location": "Ukraine",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 0,
-    "publicContributions": 5,
-    "createdAt": "2023-01-07T07:35:23Z"
-  },
-  {
     "login": "MirrorReflectionTeam",
     "name": "MirrorReflectionTeam",
     "avatarUrl": "https://avatars.githubusercontent.com/u/122169371?s=72&u=e401ab7370fbb03441ab41382a5c1b0f90040a62&v=4",
@@ -27350,13 +27338,13 @@
   {
     "login": "SmollaL1st",
     "name": "Smo//a L!st",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/123025186?s=72&u=5fb09c5d91deea4a6f4d4f8bee91cfb402337778&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/123025186?s=72&u=4f77f2d151ffa33fa2ce07951534e86995f2ef50&v=4",
     "location": "Ukraine",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 90,
+    "publicContributions": 80,
     "createdAt": "2023-01-18T21:12:26Z"
   },
   {

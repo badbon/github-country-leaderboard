@@ -27728,7 +27728,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2021-08-14T11:41:16Z"
   },
   {
@@ -27788,7 +27788,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 20,
     "createdAt": "2021-06-16T17:05:53Z"
   },
   {
@@ -27859,20 +27859,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 696,
-    "publicContributions": 505,
+    "privateContributions": 619,
+    "publicContributions": 599,
     "createdAt": "2021-08-19T20:01:11Z"
   },
   {
     "login": "Allexsen",
     "name": "Aleksi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/91543060?s=72&u=2e667aecd36fec78cb4d98aff8d04a0f74ff6e54&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/91543060?s=72&u=dbdb0425a9f9c86a815f3557df7bd9d23c40f959&v=4",
     "location": "Tbilisi, Georgia",
     "company": "",
-    "twitterUsername": "",
+    "twitterUsername": "allexsen_",
     "followers": 1,
-    "privateContributions": 102,
-    "publicContributions": 192,
+    "privateContributions": 343,
+    "publicContributions": 193,
     "createdAt": "2021-09-28T12:39:32Z"
   },
   {
@@ -27895,8 +27895,8 @@
     "company": "Renderfix",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 172,
-    "publicContributions": 20,
+    "privateContributions": 101,
+    "publicContributions": 22,
     "createdAt": "2021-10-17T08:37:14Z"
   },
   {
@@ -27932,7 +27932,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 111,
-    "publicContributions": 163,
+    "publicContributions": 161,
     "createdAt": "2021-02-01T18:20:35Z"
   },
   {
@@ -27942,7 +27942,7 @@
     "location": "Tbilis, Georgia.",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-02-20T19:41:44Z"
@@ -27956,7 +27956,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 53,
     "createdAt": "2021-06-12T10:29:57Z"
   },
   {

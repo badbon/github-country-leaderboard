@@ -27632,7 +27632,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2022-09-30T13:38:08Z"
   },
   {
@@ -27644,7 +27644,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 2,
     "createdAt": "2022-10-05T11:24:28Z"
   },
   {
@@ -27654,7 +27654,7 @@
     "location": "Austria",
     "company": "",
     "twitterUsername": "loideyron",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-10-11T08:32:31Z"
@@ -27680,7 +27680,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 0,
     "createdAt": "2022-08-24T12:39:11Z"
   },
   {
@@ -27691,7 +27691,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 36,
+    "privateContributions": 33,
     "publicContributions": 30,
     "createdAt": "2022-09-27T07:50:56Z"
   },
@@ -27721,38 +27721,26 @@
   },
   {
     "login": "Friedrich-X",
-    "name": "Friedrich-X",
+    "name": "Elias Ratt",
     "avatarUrl": "https://avatars.githubusercontent.com/u/101397035?s=72&u=30fa52441a47bfa2a3fa4eabb310973f95d2b7cf&v=4",
     "location": "Austria",
     "company": "KreativRaum",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 21,
     "createdAt": "2022-03-11T10:18:25Z"
   },
   {
-    "login": "Rapture132",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/100489375?s=72&v=4",
-    "location": "Austria",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2022-02-26T19:09:24Z"
-  },
-  {
     "login": "Suzkapu",
-    "name": "Suzkapu",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/103884590?s=72&u=337a6cc5023ee30122002b71a0a96f286fbe2385&v=4",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/103884590?s=72&u=10a8adafe1caad3d0fabf2da9839a868792b5493&v=4",
     "location": "Austria",
-    "company": "",
+    "company": "FH Hagenberg - Software Engineering",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 11,
-    "publicContributions": 154,
+    "followers": 3,
+    "privateContributions": 97,
+    "publicContributions": 671,
     "createdAt": "2022-04-17T11:47:50Z"
   },
   {
@@ -27776,7 +27764,7 @@
     "twitterUsername": "flo_builds",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2022-10-11T09:32:37Z"
   },
   {
@@ -27786,9 +27774,9 @@
     "location": "Austria",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 50,
+    "publicContributions": 60,
     "createdAt": "2022-05-19T13:36:19Z"
   },
   {
@@ -27834,7 +27822,7 @@
     "location": "Graz, Austria",
     "company": "STEINBAUER IT GmbH",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2021-12-28T19:02:00Z"
@@ -27847,8 +27835,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 325,
-    "publicContributions": 32,
+    "privateContributions": 249,
+    "publicContributions": 24,
     "createdAt": "2022-11-17T21:30:43Z"
   },
   {
@@ -27856,11 +27844,11 @@
     "name": "Lietziboyy",
     "avatarUrl": "https://avatars.githubusercontent.com/u/108574405?s=72&v=4",
     "location": "Graz, Austria",
-    "company": "CheesyChomp Studios",
+    "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2022-07-02T10:44:35Z"
   },
   {

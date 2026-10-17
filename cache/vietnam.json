@@ -26851,8 +26851,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 133,
-    "publicContributions": 298,
+    "privateContributions": 0,
+    "publicContributions": 281,
     "createdAt": "2024-01-14T01:33:38Z"
   },
   {
@@ -26864,7 +26864,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2024-01-11T03:32:46Z"
   },
   {
@@ -26900,7 +26900,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 61,
+    "publicContributions": 34,
     "createdAt": "2024-06-20T01:11:07Z"
   },
   {
@@ -26924,7 +26924,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 91,
+    "publicContributions": 359,
     "createdAt": "2024-05-22T00:28:45Z"
   },
   {
@@ -26936,7 +26936,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 110,
+    "publicContributions": 175,
     "createdAt": "2024-01-02T07:06:33Z"
   },
   {
@@ -26944,7 +26944,7 @@
     "name": "Htet Aung",
     "avatarUrl": "https://avatars.githubusercontent.com/u/171558366?s=72&u=7dd24391eb0f0e5f332ea30a49122365c09f2d3f&v=4",
     "location": "Vietnam",
-    "company": "",
+    "company": "Origins Software",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
@@ -26958,9 +26958,9 @@
     "location": "Vietnam",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 128,
+    "publicContributions": 181,
     "createdAt": "2024-03-27T06:07:50Z"
   },
   {
@@ -26984,20 +26984,8 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2024-05-19T06:25:08Z"
-  },
-  {
-    "login": "todanh2706",
-    "name": "Danh To",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/163650867?s=72&u=67efdad7e6c3a30fbb594e3ded2ff31bf110e9d9&v=4",
-    "location": "Ho Chi Minh City, Vietnam",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 34,
-    "publicContributions": 777,
-    "createdAt": "2024-03-16T12:10:52Z"
   },
   {
     "login": "Duy-T-Nguyen",
@@ -27006,9 +26994,9 @@
     "location": "Ho Chi Minh, Vietnam",
     "company": "Smart Generation of Digital",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 125,
+    "publicContributions": 137,
     "createdAt": "2024-06-13T08:12:03Z"
   },
   {
@@ -27020,7 +27008,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 76,
+    "publicContributions": 80,
     "createdAt": "2024-02-07T08:09:18Z"
   },
   {
@@ -27032,7 +27020,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 165,
+    "publicContributions": 119,
     "createdAt": "2024-03-25T08:29:22Z"
   },
   {
@@ -27054,9 +27042,9 @@
     "location": "Ho Chi Minh City, Vietnam",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 29,
-    "publicContributions": 97,
+    "followers": 3,
+    "privateContributions": 28,
+    "publicContributions": 69,
     "createdAt": "2023-12-31T03:02:37Z"
   },
   {
@@ -27066,9 +27054,9 @@
     "location": "Vietnam",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 237,
+    "publicContributions": 263,
     "createdAt": "2024-01-14T13:49:04Z"
   },
   {
