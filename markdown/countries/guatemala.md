@@ -1,6 +1,6 @@
 # Guatemala
 
-Indexed users: 3,217
+Indexed users: 3,215
 
 | Leaderboard | Link |
 |---|---|
@@ -22,16 +22,16 @@ Indexed users: 3,217
 | 8 | [Charlisim](https://github.com/Charlisim) | Carlos Simon | Guatemala | 6,785 |
 | 9 | [GeorgeLBS1](https://github.com/GeorgeLBS1) | Jose Jorge Díaz | Guatemala | 6,725 |
 | 10 | [RudiksChess](https://github.com/RudiksChess) | Rudik Rompich | Guatemala City | 6,673 |
-| 11 | [MarioAndF](https://github.com/MarioAndF) | Mario A Flores | Guatemala | 6,585 |
-| 12 | [edman-cota](https://github.com/edman-cota) | edmancota | Guatemala | 6,100 |
-| 13 | [Esaban17](https://github.com/Esaban17) | Estuardo Saban | Guatemala | 5,978 |
-| 14 | [FR98](https://github.com/FR98) | Francisco Rosal | Guatemala | 5,671 |
-| 15 | [capuche777](https://github.com/capuche777) | Jeremias Enriquez | Guatemala | 5,602 |
-| 16 | [marcoleejr](https://github.com/marcoleejr) | Marco Lee | Guatemala | 5,506 |
-| 17 | [damianpeaf](https://github.com/damianpeaf) | Damián Peña | Guatemala | 5,493 |
-| 18 | [jrodas4044](https://github.com/jrodas4044) | Jonhathan Rolando Rodas López | Chimaltenango/Guatemala | 5,446 |
-| 19 | [fcpauldiaz](https://github.com/fcpauldiaz) | Pablo Díaz | Guatemala | 5,250 |
-| 20 | [jdanielrodriguez](https://github.com/jdanielrodriguez) | Daniel Rodriguez | Guatemala | 5,023 |
+| 11 | [edman-cota](https://github.com/edman-cota) | edmancota | Guatemala | 6,100 |
+| 12 | [Esaban17](https://github.com/Esaban17) | Estuardo Saban | Guatemala | 5,978 |
+| 13 | [FR98](https://github.com/FR98) | Francisco Rosal | Guatemala | 5,671 |
+| 14 | [capuche777](https://github.com/capuche777) | Jeremias Enriquez | Guatemala | 5,602 |
+| 15 | [marcoleejr](https://github.com/marcoleejr) | Marco Lee | Guatemala | 5,506 |
+| 16 | [damianpeaf](https://github.com/damianpeaf) | Damián Peña | Guatemala | 5,493 |
+| 17 | [jrodas4044](https://github.com/jrodas4044) | Jonhathan Rolando Rodas López | Chimaltenango/Guatemala | 5,446 |
+| 18 | [fcpauldiaz](https://github.com/fcpauldiaz) | Pablo Díaz | Guatemala | 5,250 |
+| 19 | [jdanielrodriguez](https://github.com/jdanielrodriguez) | Daniel Rodriguez | Guatemala | 5,023 |
+| 20 | [Mgodoyd](https://github.com/Mgodoyd) | MARIO   GODOY | Guatemala | 4,898 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 3,217
 | 19 | [cms](https://github.com/cms) | Christian C. Salvadó | Guatemala | 117 |
 | 20 | [tian2992](https://github.com/tian2992) | Sebastian Oliva | Guatemala | 114 |
 
-Generated: 2026-10-17T19:21:54.260Z
+Generated: 2026-10-17T20:46:46.015Z

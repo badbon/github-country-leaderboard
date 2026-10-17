@@ -1,6 +1,6 @@
 # Total Contributions - Togo
 
-Generated: 2026-10-17T18:45:11.913Z
+Generated: 2026-10-17T20:13:34.117Z
 
 Users: 679
 
@@ -16,7 +16,7 @@ Users: 679
 | 8 | [DATAGNIKAN](https://github.com/DATAGNIKAN) | DATAGNI K. Armand Noël |  | DATAGNIKAN | Togo, Lomé | 6408 |
 | 9 | [jeanclaudesoft](https://github.com/jeanclaudesoft) | Claudy | Coders For Togo | JeanKonou | Togo | 5892 |
 | 10 | [JsOptimizer](https://github.com/JsOptimizer) | Michael Olalekan |  |  | Togo | 5712 |
-| 11 | [charlesdzadu](https://github.com/charlesdzadu) | Charles DZADU | @makifaa  | CharlesDzadu | Lomé - Togo | 5175 |
+| 11 | [charlesdzadu](https://github.com/charlesdzadu) | Charles DZADU | @makifaa  | CharlesDzadu | Lomé - Togo | 5217 |
 | 12 | [sebandroidev](https://github.com/sebandroidev) | Sebastien NOGBEDJI | Wiicode | devbyseb | Lomé, TOGO | 5049 |
 | 13 | [EmD-228](https://github.com/EmD-228) | Kokou DENYO |  |  | Lome-Togo | 4502 |
 | 14 | [Dreykovic](https://github.com/Dreykovic) | Birewa Audrey AMONA |  |  | Togo | 4464 |

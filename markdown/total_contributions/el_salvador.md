@@ -1,6 +1,6 @@
 # Total Contributions - El Salvador
 
-Generated: 2026-10-17T19:14:26.705Z
+Generated: 2026-10-17T20:38:42.341Z
 
 Users: 2378
 
@@ -20,9 +20,9 @@ Users: 2378
 | 12 | [DesKevinMendez](https://github.com/DesKevinMendez) | Kevin Mendez | teip | deskmendez | El Salvador | 6290 |
 | 13 | [josealvarado3a](https://github.com/josealvarado3a) | José Alvarado |  |  | El Salvador | 6010 |
 | 14 | [cativo23](https://github.com/cativo23) | Carlos Cativo |  |  | San Salvador, El Salvador | 5913 |
-| 15 | [eduard-gonzalez](https://github.com/eduard-gonzalez) | Efrain Gonzalez | Savvy Post Marketing |  | El Salvador | 4888 |
-| 16 | [wmacall](https://github.com/wmacall) | Macall |  |  | El Salvador | 4863 |
-| 17 | [loviver](https://github.com/loviver) | Oliver Calderón |  |  | El Salvador, San Salvador | 4728 |
+| 15 | [loviver](https://github.com/loviver) | Oliver Calderón |  |  | El Salvador, San Salvador | 5044 |
+| 16 | [eduard-gonzalez](https://github.com/eduard-gonzalez) | Efrain Gonzalez | Savvy Post Marketing |  | El Salvador | 4888 |
+| 17 | [wmacall](https://github.com/wmacall) | Macall |  |  | El Salvador | 4863 |
 | 18 | [aedneth](https://github.com/aedneth) | Eduardo A. Borjas | Korvex | aedneth | San Salvador, El Salvador | 4698 |
 | 19 | [ThomasFarstrike](https://github.com/ThomasFarstrike) | Thomas Farstrike |  | ThomasFarstrike | El Zonte, El Salvador | 4590 |
 | 20 | [lucario028](https://github.com/lucario028) | Lucaritas | @BluefoxSV |  | El Salvador | 4586 |

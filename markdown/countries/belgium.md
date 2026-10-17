@@ -29,9 +29,9 @@ Indexed users: 18,390
 | 15 | [sigmadeltasoftware](https://github.com/sigmadeltasoftware) | Bojan Belic | Belgium | 14,464 |
 | 16 | [semaidi](https://github.com/semaidi) | Didier | Brussels | 14,348 |
 | 17 | [jleclanche](https://github.com/jleclanche) | Jerome Leclanche | Brussels, Belgium | 13,265 |
-| 18 | [kwevers](https://github.com/kwevers) | Kristof Wevers | Belgium | 12,662 |
-| 19 | [willem-delbare](https://github.com/willem-delbare) |  | Belgium | 12,607 |
-| 20 | [gjbex](https://github.com/gjbex) | Geert Jan Bex | Hasselt, Belgium | 12,568 |
+| 18 | [akif-dogan](https://github.com/akif-dogan) | Akif Dogan | Belgium | 12,961 |
+| 19 | [kwevers](https://github.com/kwevers) | Kristof Wevers | Belgium | 12,662 |
+| 20 | [willem-delbare](https://github.com/willem-delbare) |  | Belgium | 12,607 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 18,390
 | 19 | [erikdubois](https://github.com/erikdubois) | Erik Dubois | Belgium | 1,200 |
 | 20 | [hazexone](https://github.com/hazexone) | Haze | Brussels | 1,181 |
 
-Generated: 2026-10-17T19:02:57.562Z
+Generated: 2026-10-17T20:24:41.155Z

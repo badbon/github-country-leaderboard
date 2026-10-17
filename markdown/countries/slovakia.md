@@ -1,6 +1,6 @@
 # Slovakia
 
-Indexed users: 4,664
+Indexed users: 4,663
 
 | Leaderboard | Link |
 |---|---|
@@ -18,18 +18,18 @@ Indexed users: 4,664
 | 4 | [kyemets](https://github.com/kyemets) | Kostiantyn Yemets | Slovak Republic | 13,908 |
 | 5 | [Mausino](https://github.com/Mausino) | Miky Mikolaj | Košice, Slovakia | 11,966 |
 | 6 | [vzeman](https://github.com/vzeman) | Viktor Zeman | Bratislava | 11,799 |
-| 7 | [oliver-kriska](https://github.com/oliver-kriska) | Oliver Kriska | Slovakia | 10,417 |
-| 8 | [potyl](https://github.com/potyl) | Emmanuel Rodriguez | Bratislava, Slovakia | 10,414 |
-| 9 | [lubomir-dlhy](https://github.com/lubomir-dlhy) | Ľubomír Dlhý | Slovakia | 9,998 |
-| 10 | [thecubbe](https://github.com/thecubbe) | TheCubbe | Slovakia | 9,956 |
-| 11 | [dimaver6work](https://github.com/dimaver6work) | Dmytro | Bratislava, Slovakia | 9,941 |
-| 12 | [drepkovsky](https://github.com/drepkovsky) | Dominik Repkovský | Slovakia | 9,931 |
-| 13 | [Kenessy](https://github.com/Kenessy) | Daniel Kenessy | Slovakia | 9,652 |
-| 14 | [crnkjck](https://github.com/crnkjck) | Ján Kľuka | Bratislava, Slovakia | 9,637 |
-| 15 | [VladimirTomko](https://github.com/VladimirTomko) | Vladimír Tomko | Bratislava, Slovakia | 9,429 |
-| 16 | [digitalapplied](https://github.com/digitalapplied) | Richard Gibbons | Bratislava, Slovakia | 9,172 |
-| 17 | [valferon](https://github.com/valferon) | Feron Valentin | Slovakia | 8,723 |
-| 18 | [davidian-sk](https://github.com/davidian-sk) |  | Bratislava | 8,568 |
+| 7 | [davidian-sk](https://github.com/davidian-sk) |  | Bratislava | 11,724 |
+| 8 | [oliver-kriska](https://github.com/oliver-kriska) | Oliver Kriska | Slovakia | 10,417 |
+| 9 | [potyl](https://github.com/potyl) | Emmanuel Rodriguez | Bratislava, Slovakia | 10,414 |
+| 10 | [lubomir-dlhy](https://github.com/lubomir-dlhy) | Ľubomír Dlhý | Slovakia | 9,998 |
+| 11 | [thecubbe](https://github.com/thecubbe) | TheCubbe | Slovakia | 9,956 |
+| 12 | [dimaver6work](https://github.com/dimaver6work) | Dmytro | Bratislava, Slovakia | 9,941 |
+| 13 | [drepkovsky](https://github.com/drepkovsky) | Dominik Repkovský | Slovakia | 9,931 |
+| 14 | [Kenessy](https://github.com/Kenessy) | Daniel Kenessy | Slovakia | 9,652 |
+| 15 | [crnkjck](https://github.com/crnkjck) | Ján Kľuka | Bratislava, Slovakia | 9,637 |
+| 16 | [VladimirTomko](https://github.com/VladimirTomko) | Vladimír Tomko | Bratislava, Slovakia | 9,429 |
+| 17 | [digitalapplied](https://github.com/digitalapplied) | Richard Gibbons | Bratislava, Slovakia | 9,172 |
+| 18 | [valferon](https://github.com/valferon) | Feron Valentin | Slovakia | 8,723 |
 | 19 | [mrshu](https://github.com/mrshu) | Marek Šuppa | Slovakia | 8,545 |
 | 20 | [samuelpatro](https://github.com/samuelpatro) | Samuel | Slovakia | 8,263 |
 
@@ -37,8 +37,8 @@ Indexed users: 4,664
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [martin-janci](https://github.com/martin-janci) | Martin Janči | Bratislava | 7,850 |
-| 2 | [davidian-sk](https://github.com/davidian-sk) |  | Bratislava | 7,535 |
+| 1 | [davidian-sk](https://github.com/davidian-sk) |  | Bratislava | 8,778 |
+| 2 | [martin-janci](https://github.com/martin-janci) | Martin Janči | Bratislava | 7,850 |
 | 3 | [tomasol](https://github.com/tomasol) | Tomáš Olvecký | Bratislava, Slovakia | 5,880 |
 | 4 | [NagyVikt](https://github.com/NagyVikt) | Viktor Nagy | Slovakia  | 4,193 |
 | 5 | [rischo32](https://github.com/rischo32) | Richard Fonfára | Slovakia | 3,943 |
@@ -83,4 +83,4 @@ Indexed users: 4,664
 | 19 | [Stiivi](https://github.com/Stiivi) | Stefan Urbanek | Bratislava | 280 |
 | 20 | [haad](https://github.com/haad) | Adam Hamsik | Bratislava Slovakia | 259 |
 
-Generated: 2026-10-17T18:37:40.425Z
+Generated: 2026-10-17T20:07:35.814Z

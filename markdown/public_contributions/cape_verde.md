@@ -1,6 +1,6 @@
 # Public Contributions - Cape Verde
 
-Generated: 2026-10-17T19:07:30.199Z
+Generated: 2026-10-17T20:30:21.105Z
 
 Users: 562
 
@@ -9,8 +9,8 @@ Users: 562
 | 1 | [codewrldniclas](https://github.com/codewrldniclas) | Nicholas Alves |  |  | Praia, Cape Verde | 1372 |
 | 2 | [Matheuszy](https://github.com/Matheuszy) | Matheus Carlos | DescPay |  | Praia Grande | 1169 |
 | 3 | [klcombr](https://github.com/klcombr) | KL Com |  |  | Praia Grande, SP | 1054 |
-| 4 | [erilshackle](https://github.com/erilshackle) | Eril TS Carvalho |  |  | Cape Verde | 715 |
-| 5 | [luizintrepido](https://github.com/luizintrepido) | Luiz Intrépido |  |  | praia grande-sp | 712 |
+| 4 | [luizintrepido](https://github.com/luizintrepido) | Luiz Intrépido |  |  | praia grande-sp | 717 |
+| 5 | [erilshackle](https://github.com/erilshackle) | Eril TS Carvalho |  |  | Cape Verde | 715 |
 | 6 | [kccristinadev-dev](https://github.com/kccristinadev-dev) | Cristina  |  |  | Praia grande - sp | 557 |
 | 7 | [Coyas](https://github.com/Coyas) | Ailton Duarte | TerraSystem | A_coyas | Praia, Cabo Verde | 497 |
 | 8 | [eduardosaraujo1](https://github.com/eduardosaraujo1) | Eduardo S Araujo | Fatec Praia Grande |  | Praia Grande | 398 |

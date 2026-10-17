@@ -63,7 +63,7 @@ Indexed users: 9,522
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [anvarnarz](https://github.com/anvarnarz) | Anvar Narzullaev | Tashkent | 2,572 |
-| 2 | [Iqbolshoh](https://github.com/Iqbolshoh) | Iqbolshoh Ilhomjonov | Uzbekistan, Samarqand city | 2,299 |
+| 2 | [Iqbolshoh](https://github.com/Iqbolshoh) | Iqbolshoh Ilhomjonov | Uzbekistan, Samarqand city | 2,282 |
 | 3 | [romankh3](https://github.com/romankh3) | Roman Beskrovnyi | Tashkent | 1,669 |
 | 4 | [Zuhriddin2010](https://github.com/Zuhriddin2010) | zuhriddin | uzbekistan | 955 |
 | 5 | [NazarovAsadbek](https://github.com/NazarovAsadbek) |  | Uzbekistan, Tashkent | 903 |
@@ -83,4 +83,4 @@ Indexed users: 9,522
 | 19 | [Andrey0189](https://github.com/Andrey0189) | Andrew | Tashkent | 310 |
 | 20 | [mukhtorov](https://github.com/mukhtorov) | Sardor | Tashkent, Uzbekistan | 299 |
 
-Generated: 2026-10-17T18:52:33.811Z
+Generated: 2026-10-17T20:17:29.808Z

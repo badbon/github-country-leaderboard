@@ -1,13 +1,13 @@
 # Public Contributions - Slovakia
 
-Generated: 2026-10-17T18:37:40.425Z
+Generated: 2026-10-17T20:07:35.814Z
 
-Users: 4664
+Users: 4663
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [martin-janci](https://github.com/martin-janci) | Martin Janči | Jakala Germany Gmbh. |  | Bratislava | 7850 |
-| 2 | [davidian-sk](https://github.com/davidian-sk) |  |  |  | Bratislava | 7535 |
+| 1 | [davidian-sk](https://github.com/davidian-sk) |  |  |  | Bratislava | 8778 |
+| 2 | [martin-janci](https://github.com/martin-janci) | Martin Janči | Jakala Germany Gmbh. |  | Bratislava | 7850 |
 | 3 | [tomasol](https://github.com/tomasol) | Tomáš Olvecký |  |  | Bratislava, Slovakia | 5880 |
 | 4 | [NagyVikt](https://github.com/NagyVikt) | Viktor Nagy | Kromberg & Schubert | NagyViktordp | Slovakia  | 4193 |
 | 5 | [rischo32](https://github.com/rischo32) | Richard Fonfára | VECTAETOS™ & VECTLAB™ |  | Slovakia | 3943 |

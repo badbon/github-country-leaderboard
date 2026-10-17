@@ -1,6 +1,6 @@
 # Public Contributions - Georgia
 
-Generated: 2026-10-17T18:55:40.033Z
+Generated: 2026-10-17T20:19:19.086Z
 
 Users: 6885
 
@@ -25,4 +25,4 @@ Users: 6885
 | 17 | [NSchatz](https://github.com/NSchatz) | Noah Schatz |  |  | Georgia | 3307 |
 | 18 | [Khizanag](https://github.com/Khizanag) | Giga Khizanishvili | Space International | Khizanag | Tbilisi, Georgia | 3085 |
 | 19 | [Nikushhaa](https://github.com/Nikushhaa) | Nikushhaa Developer \| AI • Web • Software |  |  | 📍 Georgia | 3054 |
-| 20 | [ilobilo](https://github.com/ilobilo) | ilobilo |  |  | Georgia | 3041 |
+| 20 | [skulidropek](https://github.com/skulidropek) | Skuli Dropek |  |  | Tbilisi | 3036 |

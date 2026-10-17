@@ -48,9 +48,9 @@ Indexed users: 6,623
 | 9 | [lumi-tip](https://github.com/lumi-tip) | Luis Miguel Del Valle | Venezuela | 2,871 |
 | 10 | [jlcarrascof](https://github.com/jlcarrascof) | Javier Jesus Martínez Fariñas | Venezuela. | 2,853 |
 | 11 | [LuisAlejandro](https://github.com/LuisAlejandro) | Luis Alejandro | Maracay, Venezuela | 2,787 |
-| 12 | [CiszukoAntony](https://github.com/CiszukoAntony) | Ciszuko | Venezuela | 2,165 |
-| 13 | [elfotito](https://github.com/elfotito) | elfotito | Venezuela | 2,158 |
-| 14 | [TheElegantCoding](https://github.com/TheElegantCoding) | Luis Monsalve | Venezuela | 1,967 |
+| 12 | [TheElegantCoding](https://github.com/TheElegantCoding) | Luis Monsalve | Venezuela | 2,508 |
+| 13 | [CiszukoAntony](https://github.com/CiszukoAntony) | Ciszuko | Venezuela | 2,165 |
+| 14 | [elfotito](https://github.com/elfotito) | elfotito | Venezuela | 2,158 |
 | 15 | [Danielk10](https://github.com/Danielk10) | Daniel Elias Diamon Vazquez | Venezuela | 1,916 |
 | 16 | [gabrielbaute](https://github.com/gabrielbaute) | Gabriel Baute | Venezuela | 1,848 |
 | 17 | [hrodrig](https://github.com/hrodrig) | Hermes Rodríguez | Caracas, Venezuela | 1,848 |
@@ -83,4 +83,4 @@ Indexed users: 6,623
 | 19 | [NTBBloodbath](https://github.com/NTBBloodbath) | Alejandro | Caracas, Venezuela | 179 |
 | 20 | [KellbisJ](https://github.com/KellbisJ) | Kellbis Salazar | Venezuela / Remote | 175 |
 
-Generated: 2026-10-17T18:53:48.174Z
+Generated: 2026-10-17T20:37:47.592Z

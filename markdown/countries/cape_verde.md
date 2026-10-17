@@ -40,8 +40,8 @@ Indexed users: 562
 | 1 | [codewrldniclas](https://github.com/codewrldniclas) | Nicholas Alves | Praia, Cape Verde | 1,372 |
 | 2 | [Matheuszy](https://github.com/Matheuszy) | Matheus Carlos | Praia Grande | 1,169 |
 | 3 | [klcombr](https://github.com/klcombr) | KL Com | Praia Grande, SP | 1,054 |
-| 4 | [erilshackle](https://github.com/erilshackle) | Eril TS Carvalho | Cape Verde | 715 |
-| 5 | [luizintrepido](https://github.com/luizintrepido) | Luiz Intrépido | praia grande-sp | 712 |
+| 4 | [luizintrepido](https://github.com/luizintrepido) | Luiz Intrépido | praia grande-sp | 717 |
+| 5 | [erilshackle](https://github.com/erilshackle) | Eril TS Carvalho | Cape Verde | 715 |
 | 6 | [kccristinadev-dev](https://github.com/kccristinadev-dev) | Cristina  | Praia grande - sp | 557 |
 | 7 | [Coyas](https://github.com/Coyas) | Ailton Duarte | Praia, Cabo Verde | 497 |
 | 8 | [eduardosaraujo1](https://github.com/eduardosaraujo1) | Eduardo S Araujo | Praia Grande | 398 |
@@ -83,4 +83,4 @@ Indexed users: 562
 | 19 | [Murzchnvok](https://github.com/Murzchnvok) | Pedro Araujo | Praia de Jatobá, SE - Brasil | 58 |
 | 20 | [FredSoares](https://github.com/FredSoares) | Frederico Soares | Cape Verde | 54 |
 
-Generated: 2026-10-17T19:07:30.199Z
+Generated: 2026-10-17T20:30:21.105Z

@@ -1,8 +1,8 @@
 # Followers - Ecuador
 
-Generated: 2026-10-17T19:13:43.184Z
+Generated: 2026-10-17T20:37:47.592Z
 
-Users: 4884
+Users: 4883
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -24,5 +24,5 @@ Users: 4884
 | 16 | [br-programmer](https://github.com/br-programmer) | Brayan Cantos |  | br_programmer | Ecuador | 134 |
 | 17 | [omarjcm](https://github.com/omarjcm) | Guillermo Pizarro | @ieeecisecuador | omarjcm | Guayaquil, Ecuador | 125 |
 | 18 | [yjot-dev](https://github.com/yjot-dev) | YASSER ORTIZ T. |  |  | Ecuador | 125 |
-| 19 | [Davichobits](https://github.com/Davichobits) | David Ruiz |  | CodingTube | Ecuador | 116 |
-| 20 | [Bryan-Herrera-DEV](https://github.com/Bryan-Herrera-DEV) | Bryan Herrera ~ ርᚱ1ናተᛰ ᚻህᚥተპᚱ | AXIOS click | BryanHe52482198 | Ecuador | 115 |
+| 19 | [Bryan-Herrera-DEV](https://github.com/Bryan-Herrera-DEV) | Bryan Herrera ~ ርᚱ1ናተᛰ ᚻህᚥተპᚱ | AXIOS click | BryanHe52482198 | Ecuador | 116 |
+| 20 | [Davichobits](https://github.com/Davichobits) | David Ruiz |  | CodingTube | Ecuador | 116 |

@@ -46,7 +46,7 @@ Indexed users: 1,784
 | 7 | [arkgast](https://github.com/arkgast) | Arnold Gandarillas Castillo | Bolivia | 1,859 |
 | 8 | [rafael1199v](https://github.com/rafael1199v) | Rafael Vargas | Bolivia | 1,577 |
 | 9 | [ovidiocbba](https://github.com/ovidiocbba) | Simon Ovidio Miranda Chiri | Bolivia | 1,504 |
-| 10 | [olivio-git](https://github.com/olivio-git) | olivio-git | Tarija/Bolivia | 1,416 |
+| 10 | [olivio-git](https://github.com/olivio-git) | olivio-git | Tarija/Bolivia | 1,415 |
 | 11 | [ggonzalez94](https://github.com/ggonzalez94) | Gustavo Gonzalez | Santa Cruz de la SIerra, Bolivia | 1,399 |
 | 12 | [pachonjcl](https://github.com/pachonjcl) | Jose Carlos Laura Ramirez | La Paz, Bolivia | 1,267 |
 | 13 | [asosab](https://github.com/asosab) | Alejandro Sosa Briceño | Bolivia | 1,225 |
@@ -83,4 +83,4 @@ Indexed users: 1,784
 | 19 | [alvarosiles11](https://github.com/alvarosiles11) | Alvaro Siles Estrada | Bolivia | 121 |
 | 20 | [mauforonda](https://github.com/mauforonda) | Mau Foronda | Bolivia | 120 |
 
-Generated: 2026-10-17T19:04:34.123Z
+Generated: 2026-10-17T20:26:37.873Z

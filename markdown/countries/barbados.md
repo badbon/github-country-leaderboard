@@ -28,10 +28,10 @@ Indexed users: 132
 | 14 | [ianhambleton](https://github.com/ianhambleton) | Ian Hambleton | Barbados | 676 |
 | 15 | [Thomas-Heniart](https://github.com/Thomas-Heniart) | Thomas Heniart | Barbados | 604 |
 | 16 | [starsden](https://github.com/starsden) | den | Barbados | 584 |
-| 17 | [diondree](https://github.com/diondree) | Diondre Edwards | Barbados | 442 |
-| 18 | [paulamelrz](https://github.com/paulamelrz) | Paula Melero | Barbados | 438 |
-| 19 | [caritechsolutions](https://github.com/caritechsolutions) |  | Barbados | 410 |
-| 20 | [intricate](https://github.com/intricate) | Luke | Barbados | 343 |
+| 17 | [clemjfrancis](https://github.com/clemjfrancis) | Clem "CJ" Francis | Barbados | 528 |
+| 18 | [diondree](https://github.com/diondree) | Diondre Edwards | Barbados | 442 |
+| 19 | [paulamelrz](https://github.com/paulamelrz) | Paula Melero | Barbados | 438 |
+| 20 | [caritechsolutions](https://github.com/caritechsolutions) |  | Barbados | 410 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 132
 | 19 | [sramharack](https://github.com/sramharack) | Shankar Ramharack | St. Phillips, Barbados, W.I. | 12 |
 | 20 | [paulamelrz](https://github.com/paulamelrz) | Paula Melero | Barbados | 11 |
 
-Generated: 2026-10-17T19:02:51.274Z
+Generated: 2026-10-17T20:24:31.895Z

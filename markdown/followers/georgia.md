@@ -1,6 +1,6 @@
 # Followers - Georgia
 
-Generated: 2026-10-17T18:55:40.033Z
+Generated: 2026-10-17T20:19:19.086Z
 
 Users: 6885
 
@@ -8,7 +8,7 @@ Users: 6885
 |---:|---|---|---|---|---|---:|
 | 1 | [thecodeholic](https://github.com/thecodeholic) | TheCodeholic |  | Thecodeholic | Tbilisi, Georgia | 3756 |
 | 2 | [riseansmal](https://github.com/riseansmal) | Ri Sean Smal | @reverseable  |  | Tbilisi, Georgia | 2603 |
-| 3 | [catherineisonline](https://github.com/catherineisonline) | Ekaterine Mitagvaria |  |  | From Tbilisi, Georgia | 2296 |
+| 3 | [catherineisonline](https://github.com/catherineisonline) | Ekaterine Mitagvaria |  |  | From Tbilisi, Georgia | 2300 |
 | 4 | [heinodendal](https://github.com/heinodendal) | Hein Odendal | @reverseable |  | Tbilisi, Georgia | 922 |
 | 5 | [quasilyte](https://github.com/quasilyte) | quasilyte |  |  | Georgia | 843 |
 | 6 | [dachi-khelashvili](https://github.com/dachi-khelashvili) | Dachi Khelashvili |  |  | Tbilisi, Georgia | 749 |

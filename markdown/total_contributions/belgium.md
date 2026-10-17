@@ -1,6 +1,6 @@
 # Total Contributions - Belgium
 
-Generated: 2026-10-17T19:02:57.562Z
+Generated: 2026-10-17T20:24:41.155Z
 
 Users: 18390
 
@@ -23,6 +23,6 @@ Users: 18390
 | 15 | [sigmadeltasoftware](https://github.com/sigmadeltasoftware) | Bojan Belic | Sigma Delta Software Solutions |  | Belgium | 14464 |
 | 16 | [semaidi](https://github.com/semaidi) | Didier | MFM Digital |  | Brussels | 14348 |
 | 17 | [jleclanche](https://github.com/jleclanche) | Jerome Leclanche | @ingram-technologies |  | Brussels, Belgium | 13265 |
-| 18 | [kwevers](https://github.com/kwevers) | Kristof Wevers | Infura |  | Belgium | 12662 |
-| 19 | [willem-delbare](https://github.com/willem-delbare) |  | Aikido Security |  | Belgium | 12607 |
-| 20 | [gjbex](https://github.com/gjbex) | Geert Jan Bex | Hasselt University | GeertBex | Hasselt, Belgium | 12568 |
+| 18 | [akif-dogan](https://github.com/akif-dogan) | Akif Dogan | Mars AI Technology Solutions | akif_doganx | Belgium | 12961 |
+| 19 | [kwevers](https://github.com/kwevers) | Kristof Wevers | Infura |  | Belgium | 12662 |
+| 20 | [willem-delbare](https://github.com/willem-delbare) |  | Aikido Security |  | Belgium | 12607 |

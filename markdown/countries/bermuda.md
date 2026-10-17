@@ -13,7 +13,7 @@ Indexed users: 898
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [bokmann](https://github.com/bokmann) | David Bock | Hamilton, VA | 20,678 |
-| 2 | [nahoskins](https://github.com/nahoskins) | Nick Hoskins | Bermuda | 13,216 |
+| 2 | [nahoskins](https://github.com/nahoskins) | Nick Hoskins | Bermuda | 13,357 |
 | 3 | [kianis4](https://github.com/kianis4) | Suleyman Kiani | Hamilton, ON | 11,121 |
 | 4 | [marc-pelland](https://github.com/marc-pelland) | Marc Pelland | Hamilton, ON | 10,375 |
 | 5 | [xaphod](https://github.com/xaphod) | Tim Carr | Hamilton ON | 10,206 |
@@ -83,4 +83,4 @@ Indexed users: 898
 | 19 | [feilongcheng](https://github.com/feilongcheng) | Felix | Hamilton, NZ | 85 |
 | 20 | [wittjosiah](https://github.com/wittjosiah) | Josiah Witt | Hamilton, ON | 67 |
 
-Generated: 2026-10-17T19:03:11.962Z
+Generated: 2026-10-17T20:25:53.596Z

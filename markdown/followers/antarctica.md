@@ -1,6 +1,6 @@
 # Followers - Antarctica
 
-Generated: 2026-10-17T18:58:08.778Z
+Generated: 2026-10-17T20:22:02.027Z
 
 Users: 460
 
@@ -16,7 +16,7 @@ Users: 460
 | 8 | [ifarbod](https://github.com/ifarbod) | iFarbod | SYSTEM_SERVICE_EXCEPTION | ifarbod | Antarctica  | 133 |
 | 9 | [bestruirui](https://github.com/bestruirui) | BESTRUI |  |  | Antarctica | 124 |
 | 10 | [examachine](https://github.com/examachine) | Eray Özkural | @celestial-intellect  | examachine | Dead City, Antarctica | 123 |
-| 11 | [KrLite](https://github.com/KrLite) | KrLite |  | KrLite | Antarctica | 120 |
+| 11 | [KrLite](https://github.com/KrLite) | KrLite |  | KrLite | Antarctica | 119 |
 | 12 | [TobitoFatitoRE](https://github.com/TobitoFatitoRE) | TobitoFatito |  |  | Davis Station, Antarctica | 119 |
 | 13 | [emre1393](https://github.com/emre1393) | Emre |  |  | Antarctica | 114 |
 | 14 | [ethicnology](https://github.com/ethicnology) | Azad | @SatoshiPortal  |  | Antarctica | 105 |

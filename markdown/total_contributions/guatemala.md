@@ -1,8 +1,8 @@
 # Total Contributions - Guatemala
 
-Generated: 2026-10-17T19:21:54.260Z
+Generated: 2026-10-17T20:46:46.015Z
 
-Users: 3217
+Users: 3215
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -16,13 +16,13 @@ Users: 3217
 | 8 | [Charlisim](https://github.com/Charlisim) | Carlos Simon |  |  | Guatemala | 6785 |
 | 9 | [GeorgeLBS1](https://github.com/GeorgeLBS1) | Jose Jorge Díaz |  | JoseJorge_Diaz | Guatemala | 6725 |
 | 10 | [RudiksChess](https://github.com/RudiksChess) | Rudik Rompich | Cinco Innovative Solutions LLC | TheRudiks | Guatemala City | 6673 |
-| 11 | [MarioAndF](https://github.com/MarioAndF) | Mario A Flores | MedHue Labs LLC |  | Guatemala | 6585 |
-| 12 | [edman-cota](https://github.com/edman-cota) | edmancota | Universidad del Valle de Guatemala |  | Guatemala | 6100 |
-| 13 | [Esaban17](https://github.com/Esaban17) | Estuardo Saban | Quattro |  | Guatemala | 5978 |
-| 14 | [FR98](https://github.com/FR98) | Francisco Rosal | Fantastech S.A. |  | Guatemala | 5671 |
-| 15 | [capuche777](https://github.com/capuche777) | Jeremias Enriquez | Eyefly Tech | capuche777 | Guatemala | 5602 |
-| 16 | [marcoleejr](https://github.com/marcoleejr) | Marco Lee |  |  | Guatemala | 5506 |
-| 17 | [damianpeaf](https://github.com/damianpeaf) | Damián Peña | FIUSAC |  | Guatemala | 5493 |
-| 18 | [jrodas4044](https://github.com/jrodas4044) | Jonhathan Rolando Rodas López |  |  | Chimaltenango/Guatemala | 5446 |
-| 19 | [fcpauldiaz](https://github.com/fcpauldiaz) | Pablo Díaz | @Chapi-Labs  |  | Guatemala | 5250 |
-| 20 | [jdanielrodriguez](https://github.com/jdanielrodriguez) | Daniel Rodriguez | @vidoomy |  | Guatemala | 5023 |
+| 11 | [edman-cota](https://github.com/edman-cota) | edmancota | Universidad del Valle de Guatemala |  | Guatemala | 6100 |
+| 12 | [Esaban17](https://github.com/Esaban17) | Estuardo Saban | Quattro |  | Guatemala | 5978 |
+| 13 | [FR98](https://github.com/FR98) | Francisco Rosal | Fantastech S.A. |  | Guatemala | 5671 |
+| 14 | [capuche777](https://github.com/capuche777) | Jeremias Enriquez | Eyefly Tech | capuche777 | Guatemala | 5602 |
+| 15 | [marcoleejr](https://github.com/marcoleejr) | Marco Lee |  |  | Guatemala | 5506 |
+| 16 | [damianpeaf](https://github.com/damianpeaf) | Damián Peña | FIUSAC |  | Guatemala | 5493 |
+| 17 | [jrodas4044](https://github.com/jrodas4044) | Jonhathan Rolando Rodas López |  |  | Chimaltenango/Guatemala | 5446 |
+| 18 | [fcpauldiaz](https://github.com/fcpauldiaz) | Pablo Díaz | @Chapi-Labs  |  | Guatemala | 5250 |
+| 19 | [jdanielrodriguez](https://github.com/jdanielrodriguez) | Daniel Rodriguez | @vidoomy |  | Guatemala | 5023 |
+| 20 | [Mgodoyd](https://github.com/Mgodoyd) | MARIO   GODOY |  |  | Guatemala | 4898 |

@@ -14,12 +14,12 @@ Indexed users: 215
 |---:|---|---|---|---:|
 | 1 | [ericrisco](https://github.com/ericrisco) | Eric Risco de la Torre | Andorra | 35,255 |
 | 2 | [heldermanueltv](https://github.com/heldermanueltv) | Helder Manuel Torres Vieira | Andorra la Vella | 13,057 |
-| 3 | [AdrianMastronardi](https://github.com/AdrianMastronardi) | Adrian Mastronardi | Andorra | 9,959 |
+| 3 | [AdrianMastronardi](https://github.com/AdrianMastronardi) | Adrian Mastronardi | Andorra | 9,980 |
 | 4 | [orimarti](https://github.com/orimarti) | Oriol Martí | Andorra | 9,202 |
 | 5 | [castrolem](https://github.com/castrolem) | Luis Castro | Andorra la Vella, Andorra | 8,642 |
 | 6 | [niwinz](https://github.com/niwinz) | Andrey Antukh | Andorra | 8,530 |
 | 7 | [l3wi](https://github.com/l3wi) | Lewis Freiberg | Andorra | 6,337 |
-| 8 | [acastellana](https://github.com/acastellana) | Albert Castellana | Andorra | 5,782 |
+| 8 | [acastellana](https://github.com/acastellana) | Albert Castellana | Andorra | 5,794 |
 | 9 | [alexmf91](https://github.com/alexmf91) | Alex Muñoz | Barcelona (Spain) \| Encamp (Andorra) | 5,300 |
 | 10 | [tombrewsviews](https://github.com/tombrewsviews) | Tom Parandyk | Andorra | 5,109 |
 | 11 | [marcalj](https://github.com/marcalj) | Marçal | Andorra | 5,078 |
@@ -53,8 +53,8 @@ Indexed users: 215
 | 14 | [markusand](https://github.com/markusand) | Marc Vilella | Andorra | 382 |
 | 15 | [georgeee](https://github.com/georgeee) | George Agapov | Andorra | 354 |
 | 16 | [marciglesias17](https://github.com/marciglesias17) | Marc Iglesias | Andorra | 318 |
-| 17 | [PaulMatencio](https://github.com/PaulMatencio) | Paul Matencio | Andorra | 276 |
-| 18 | [davidbalivo](https://github.com/davidbalivo) |  | Andorra | 269 |
+| 17 | [davidbalivo](https://github.com/davidbalivo) |  | Andorra | 279 |
+| 18 | [PaulMatencio](https://github.com/PaulMatencio) | Paul Matencio | Andorra | 276 |
 | 19 | [loixlab](https://github.com/loixlab) | Sébastien LVL | Andorra | 224 |
 | 20 | [kopenkinda](https://github.com/kopenkinda) | Kopenkin Dmitrii | Andorra | 220 |
 
@@ -83,4 +83,4 @@ Indexed users: 215
 | 19 | [ysb33r](https://github.com/ysb33r) | Schalk W. Cronjé | Andorra | 63 |
 | 20 | [castrolem](https://github.com/castrolem) | Luis Castro | Andorra la Vella, Andorra | 59 |
 
-Generated: 2026-10-17T18:57:18.644Z
+Generated: 2026-10-17T20:21:01.540Z

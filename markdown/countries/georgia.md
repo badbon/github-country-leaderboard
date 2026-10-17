@@ -56,7 +56,7 @@ Indexed users: 6,885
 | 17 | [NSchatz](https://github.com/NSchatz) | Noah Schatz | Georgia | 3,307 |
 | 18 | [Khizanag](https://github.com/Khizanag) | Giga Khizanishvili | Tbilisi, Georgia | 3,085 |
 | 19 | [Nikushhaa](https://github.com/Nikushhaa) | Nikushhaa Developer \| AI • Web • Software | 📍 Georgia | 3,054 |
-| 20 | [ilobilo](https://github.com/ilobilo) | ilobilo | Georgia | 3,041 |
+| 20 | [skulidropek](https://github.com/skulidropek) | Skuli Dropek | Tbilisi | 3,036 |
 
 ## Followers
 
@@ -64,7 +64,7 @@ Indexed users: 6,885
 |---:|---|---|---|---:|
 | 1 | [thecodeholic](https://github.com/thecodeholic) | TheCodeholic | Tbilisi, Georgia | 3,756 |
 | 2 | [riseansmal](https://github.com/riseansmal) | Ri Sean Smal | Tbilisi, Georgia | 2,603 |
-| 3 | [catherineisonline](https://github.com/catherineisonline) | Ekaterine Mitagvaria | From Tbilisi, Georgia | 2,296 |
+| 3 | [catherineisonline](https://github.com/catherineisonline) | Ekaterine Mitagvaria | From Tbilisi, Georgia | 2,300 |
 | 4 | [heinodendal](https://github.com/heinodendal) | Hein Odendal | Tbilisi, Georgia | 922 |
 | 5 | [quasilyte](https://github.com/quasilyte) | quasilyte | Georgia | 843 |
 | 6 | [dachi-khelashvili](https://github.com/dachi-khelashvili) | Dachi Khelashvili | Tbilisi, Georgia | 749 |
@@ -83,4 +83,4 @@ Indexed users: 6,885
 | 19 | [h-mdm](https://github.com/h-mdm) | Headwind MDM | Iustine Abuladze st. N15, Tbilisi, Georgia | 396 |
 | 20 | [jkomyno](https://github.com/jkomyno) | Alberto Schiabel | Tbilisi, Georgia | 392 |
 
-Generated: 2026-10-17T18:55:40.033Z
+Generated: 2026-10-17T20:19:19.086Z
