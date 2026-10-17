@@ -28543,8 +28543,8 @@
     "company": "@ShapeGames",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1453,
-    "publicContributions": 0,
+    "privateContributions": 1315,
+    "publicContributions": 1,
     "createdAt": "2014-03-27T12:35:49Z"
   },
   {
@@ -28579,8 +28579,8 @@
     "company": "webscraper.io",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 343,
-    "publicContributions": 36,
+    "privateContributions": 253,
+    "publicContributions": 38,
     "createdAt": "2014-05-25T20:12:43Z"
   },
   {
@@ -28592,7 +28592,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 21,
     "createdAt": "2014-01-28T13:54:38Z"
   },
   {
@@ -28606,18 +28606,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-11-20T07:43:06Z"
-  },
-  {
-    "login": "oalinaresmd",
-    "name": "Dr. Oscar Linares",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/7326769?s=72&u=5afe5dbfccddee1654e1752f655dd6c5160c67ef&v=4",
-    "location": "Riga, Latvija",
-    "company": "Financial Data Science * Forecasting * Modeling",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 3,
-    "createdAt": "2014-04-17T12:51:52Z"
   },
   {
     "login": "mrgarry",
@@ -28675,7 +28663,7 @@
     "company": "VK AND ILK SOLUTIONS",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1027,
+    "privateContributions": 1191,
     "publicContributions": 40,
     "createdAt": "2014-12-03T13:57:03Z"
   },
@@ -28758,9 +28746,9 @@
     "location": "Riga",
     "company": "Absolute Management ",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 444,
+    "publicContributions": 732,
     "createdAt": "2014-03-14T22:18:29Z"
   },
   {

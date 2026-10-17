@@ -3152,7 +3152,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 530,
+    "publicContributions": 532,
     "createdAt": "2023-12-04T16:05:36Z"
   },
   {
@@ -3187,8 +3187,8 @@
     "company": "Avey",
     "twitterUsername": "",
     "followers": 41,
-    "privateContributions": 972,
-    "publicContributions": 9,
+    "privateContributions": 1077,
+    "publicContributions": 10,
     "createdAt": "2022-04-27T20:34:40Z"
   },
   {
@@ -3198,7 +3198,7 @@
     "location": "Qatar",
     "company": "",
     "twitterUsername": "",
-    "followers": 26,
+    "followers": 24,
     "privateContributions": 55,
     "publicContributions": 11,
     "createdAt": "2022-05-24T10:31:29Z"
@@ -3210,22 +3210,10 @@
     "location": "Qatar",
     "company": "",
     "twitterUsername": "",
-    "followers": 29,
-    "privateContributions": 5644,
-    "publicContributions": 632,
+    "followers": 28,
+    "privateContributions": 6175,
+    "publicContributions": 626,
     "createdAt": "2022-01-04T19:52:00Z"
-  },
-  {
-    "login": "UmairMohammadh",
-    "name": "Mohammadh Umair",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/120825989?s=72&u=72f171210a2552a0f479c16f680c4b13baf0182f&v=4",
-    "location": "Qatar",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 25,
-    "privateContributions": 67,
-    "publicContributions": 27,
-    "createdAt": "2022-12-17T19:02:23Z"
   },
   {
     "login": "Khaldosh249",
@@ -3235,7 +3223,7 @@
     "company": "",
     "twitterUsername": "KhalidBinRashad",
     "followers": 21,
-    "privateContributions": 1101,
+    "privateContributions": 1135,
     "publicContributions": 83,
     "createdAt": "2022-07-27T19:52:55Z"
   },
@@ -3320,7 +3308,7 @@
     "twitterUsername": "",
     "followers": 11,
     "privateContributions": 36,
-    "publicContributions": 33,
+    "publicContributions": 25,
     "createdAt": "2022-08-04T11:49:36Z"
   },
   {
@@ -3331,7 +3319,7 @@
     "company": "Qatar University",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 604,
+    "privateContributions": 593,
     "publicContributions": 54,
     "createdAt": "2022-11-20T10:35:55Z"
   },
