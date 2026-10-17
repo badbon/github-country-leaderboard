@@ -4303,7 +4303,7 @@
     "company": "Voultrex",
     "twitterUsername": "",
     "followers": 59,
-    "privateContributions": 2724,
+    "privateContributions": 2753,
     "publicContributions": 675,
     "createdAt": "2021-06-24T15:21:15Z"
   },
@@ -4314,7 +4314,7 @@
     "location": "Doha, Qatar",
     "company": "Commercial Bank of Qatar",
     "twitterUsername": "factopediac",
-    "followers": 59,
+    "followers": 57,
     "privateContributions": 87,
     "publicContributions": 294,
     "createdAt": "2021-02-08T09:54:19Z"
@@ -4322,13 +4322,13 @@
   {
     "login": "A7med7x7",
     "name": "Ahmed Alghali",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/95593096?s=72&u=e26c1fddef1f7fe62f4cdbb27daf1de1654adb3e&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/95593096?s=72&u=c8f3c473cb94b0ca0d39f255b7e79ba10615d036&v=4",
     "location": "Doha, Qatar ",
     "company": "nil",
-    "twitterUsername": "a7med7alghali",
-    "followers": 41,
-    "privateContributions": 546,
-    "publicContributions": 497,
+    "twitterUsername": "a7med7x7",
+    "followers": 42,
+    "privateContributions": 569,
+    "publicContributions": 572,
     "createdAt": "2021-12-05T22:45:17Z"
   },
   {
@@ -4351,7 +4351,7 @@
     "company": "Teciza Solutions",
     "twitterUsername": "",
     "followers": 33,
-    "privateContributions": 3964,
+    "privateContributions": 3982,
     "publicContributions": 20,
     "createdAt": "2021-10-04T13:51:59Z"
   },
@@ -4363,7 +4363,7 @@
     "company": "Blaze Technology Solutions",
     "twitterUsername": "",
     "followers": 27,
-    "privateContributions": 3529,
+    "privateContributions": 3564,
     "publicContributions": 34,
     "createdAt": "2020-12-29T13:12:14Z"
   },
@@ -4375,21 +4375,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 14,
-    "privateContributions": 787,
+    "privateContributions": 786,
     "publicContributions": 1,
     "createdAt": "2021-06-15T11:39:45Z"
-  },
-  {
-    "login": "Mohammed-Aljazzar",
-    "name": "Mohammed Aljazzar",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/89651666?s=72&u=67171a44b155ebf0007d1490cf17bcb97496339c&v=4",
-    "location": "Qatar",
-    "company": "OUN for Consultation and Development",
-    "twitterUsername": "",
-    "followers": 13,
-    "privateContributions": 1105,
-    "publicContributions": 48,
-    "createdAt": "2021-08-27T15:09:45Z"
   },
   {
     "login": "HishamKhalil1990",
@@ -4399,7 +4387,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 200,
+    "privateContributions": 212,
     "publicContributions": 0,
     "createdAt": "2021-01-24T08:12:07Z"
   },
@@ -4411,7 +4399,7 @@
     "company": "Simitai",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 1490,
+    "privateContributions": 1512,
     "publicContributions": 0,
     "createdAt": "2021-09-06T13:35:21Z"
   },
@@ -4448,7 +4436,7 @@
     "twitterUsername": "",
     "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 95,
+    "publicContributions": 83,
     "createdAt": "2021-05-28T15:41:09Z"
   },
   {
@@ -4483,7 +4471,7 @@
     "company": "Carnegie Mellon University",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 417,
+    "privateContributions": 424,
     "publicContributions": 7,
     "createdAt": "2021-09-03T09:07:11Z"
   },
@@ -4518,8 +4506,8 @@
     "location": "Doha, Qatar",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 34,
+    "followers": 10,
+    "privateContributions": 43,
     "publicContributions": 93,
     "createdAt": "2021-07-08T08:17:02Z"
   },
