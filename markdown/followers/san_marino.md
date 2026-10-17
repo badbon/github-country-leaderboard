@@ -1,12 +1,12 @@
 # Followers - San Marino
 
-Generated: 2026-10-17T18:29:55.435Z
+Generated: 2026-10-17T20:01:04.009Z
 
 Users: 61
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [agustingianni](https://github.com/agustingianni) | Agustin Gianni | @coinspect | agustingianni | San Marino | 216 |
+| 1 | [agustingianni](https://github.com/agustingianni) | Agustin Gianni | @coinspect | agustingianni | San Marino | 218 |
 | 2 | [calebnewtonusc](https://github.com/calebnewtonusc) | Caleb Newton | AINA Tech |  | San Marino, CA | 38 |
 | 3 | [nicorsm](https://github.com/nicorsm) | Nicola Giancecchi | @pop-sm | nicorsm | San Marino | 36 |
 | 4 | [mcdado](https://github.com/mcdado) | David Gasperoni |  |  | San Marino (SMR) <✈️> Madrid, Spain | 33 |

@@ -1,6 +1,6 @@
 # Palestine
 
-Indexed users: 2,196
+Indexed users: 2,197
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 2,196
 | 19 | [dalia2323](https://github.com/dalia2323) |  | Qalqilya, Palestine | 127 |
 | 20 | [mhmdio](https://github.com/mhmdio) | Mohammed Almusaddar | Gaza, Palestine | 125 |
 
-Generated: 2026-10-17T19:50:35.775Z
+Generated: 2026-10-17T19:55:48.378Z

@@ -1,6 +1,6 @@
 # Qatar
 
-Indexed users: 1,072
+Indexed users: 1,071
 
 | Leaderboard | Link |
 |---|---|
@@ -31,7 +31,7 @@ Indexed users: 1,072
 | 17 | [ilhamsyahids](https://github.com/ilhamsyahids) | Ilham Syahid S | Qatar | 4,995 |
 | 18 | [Engineersticity](https://github.com/Engineersticity) | Erastus Kirui | Doha, Qatar | 4,132 |
 | 19 | [mbrksntrk](https://github.com/mbrksntrk) | M Burak Şentürk | Doha, Qatar | 4,039 |
-| 20 | [Gubbu77](https://github.com/Gubbu77) | Indrajith vs | Qatar | 3,984 |
+| 20 | [Gubbu77](https://github.com/Gubbu77) | Indrajith vs | Qatar | 4,002 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 1,072
 | 19 | [brainconnect93](https://github.com/brainconnect93) | Afolabi Akorede | Al-Wakrah, Qatar | 99 |
 | 20 | [muratyaman](https://github.com/muratyaman) | Haci Murat Yaman | Doha, Qatar | 99 |
 
-Generated: 2026-10-17T18:26:44.372Z
+Generated: 2026-10-17T19:55:48.378Z
