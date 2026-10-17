@@ -12,9 +12,9 @@ Indexed users: 2,726
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [andreasasprou](https://github.com/andreasasprou) | Andreas Asprou | Cyprus | 24,606 |
-| 2 | [programmeradu](https://github.com/programmeradu) | Samuel Adu-Berekorang | nicosia, cyprus | 23,421 |
-| 3 | [linegel](https://github.com/linegel) | Eugène P. | Limassol, Cyprus | 22,798 |
+| 1 | [linegel](https://github.com/linegel) | Eugène P. | Limassol, Cyprus | 66,292 |
+| 2 | [andreasasprou](https://github.com/andreasasprou) | Andreas Asprou | Cyprus | 24,606 |
+| 3 | [programmeradu](https://github.com/programmeradu) | Samuel Adu-Berekorang | nicosia, cyprus | 23,421 |
 | 4 | [denizgolbas](https://github.com/denizgolbas) | Deniz Gölbaş | Cyprus | 19,015 |
 | 5 | [megasteve19](https://github.com/megasteve19) | Abdulkadir Cemiloğlu | Cyprus, Nicosia | 17,697 |
 | 6 | [miguelrisero](https://github.com/miguelrisero) | Miguel Rasero | Cyprus | 15,244 |
@@ -83,4 +83,4 @@ Indexed users: 2,726
 | 19 | [polterguy](https://github.com/polterguy) | Thomas Hansen | Cyprus | 245 |
 | 20 | [kstep](https://github.com/kstep) | Konstantin Stepanov | Cyprus | 241 |
 
-Generated: 2026-10-17T17:39:10.097Z
+Generated: 2026-10-17T19:12:13.664Z

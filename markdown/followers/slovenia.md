@@ -1,6 +1,6 @@
 # Followers - Slovenia
 
-Generated: 2026-10-17T17:10:44.319Z
+Generated: 2026-10-17T18:37:46.639Z
 
 Users: 3099
 
@@ -9,8 +9,8 @@ Users: 3099
 | 1 | [zbejas](https://github.com/zbejas) | Anže Mavrič | KoEnergija d.o.o. |  | Maribor, Slovenia | 3018 |
 | 2 | [gto76](https://github.com/gto76) | Jure Šorn |  |  | Ljubljana | 1212 |
 | 3 | [luksa](https://github.com/luksa) | Marko Lukša | Independent contractor | markoluksa | Slovenia | 1118 |
-| 4 | [andrejbauer](https://github.com/andrejbauer) | Andrej Bauer | University of Ljubljana |  | Slovenia | 924 |
-| 5 | [igorpecovnik](https://github.com/igorpecovnik) | Igor | @armbian  |  | Ljubljana | 916 |
+| 4 | [igorpecovnik](https://github.com/igorpecovnik) | Igor | @armbian  |  | Ljubljana | 925 |
+| 5 | [andrejbauer](https://github.com/andrejbauer) | Andrej Bauer | University of Ljubljana |  | Slovenia | 924 |
 | 6 | [aksonov](https://github.com/aksonov) | Pavel Aksonov |  |  | Koper, Slovenia | 627 |
 | 7 | [Kami](https://github.com/Kami) | Tomaz Muraus | SentinelOne \| Previously: Scalyr, Extreme Networks, Brocade, StackStorm, Rackspace, etc. |  | Ljubljana, Slovenia | 614 |
 | 8 | [CANopenNode](https://github.com/CANopenNode) | Janez |  |  | Slovenia | 609 |

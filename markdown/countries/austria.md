@@ -1,6 +1,6 @@
 # Austria
 
-Indexed users: 18,250
+Indexed users: 18,249
 
 | Leaderboard | Link |
 |---|---|
@@ -56,7 +56,7 @@ Indexed users: 18,250
 | 17 | [cenk1cenk2](https://github.com/cenk1cenk2) | Cenk Kılıç | Vienna, Austria | 6,696 |
 | 18 | [markus-barta](https://github.com/markus-barta) | Markus Barta | Graz, Austria | 6,686 |
 | 19 | [raulssorban](https://github.com/raulssorban) | Raul-Sorin Sorban | Braunau, Austria | 6,405 |
-| 20 | [mkg20001](https://github.com/mkg20001) | Maciej Krüger | Austria | 5,869 |
+| 20 | [zekurio](https://github.com/zekurio) | zekurio | Vienna | 6,317 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 18,250
 | 19 | [timolins](https://github.com/timolins) | Timo Lins | Vienna, Austria | 1,173 |
 | 20 | [cliffordwolf](https://github.com/cliffordwolf) | Claire Wolf | Vienna | 1,143 |
 
-Generated: 2026-10-17T17:27:25.783Z
+Generated: 2026-10-17T19:01:01.095Z

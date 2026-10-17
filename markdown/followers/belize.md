@@ -1,6 +1,6 @@
 # Followers - Belize
 
-Generated: 2026-10-17T17:30:14.176Z
+Generated: 2026-10-17T19:03:00.263Z
 
 Users: 94
 
@@ -16,7 +16,7 @@ Users: 94
 | 8 | [andreshungbz](https://github.com/andreshungbz) | Andres Hung | University of Belize |  | Belmopan, Belize | 17 |
 | 9 | [Deaf-Web-Admin](https://github.com/Deaf-Web-Admin) | Deaf Developer |  |  | Belize | 13 |
 | 10 | [jennxsierra](https://github.com/jennxsierra) | Jennessa Sierra | University of Belize |  | Belmopan, Belize | 12 |
-| 11 | [PLGuerraDesigns](https://github.com/PLGuerraDesigns) | Pablo L. Guerra |  |  | Belize | 12 |
+| 11 | [PLGuerraDesigns](https://github.com/PLGuerraDesigns) | Pablo L. Guerra |  |  | Belize | 11 |
 | 12 | [hubertdomagalaa](https://github.com/hubertdomagalaa) | HD | Self-employed |  | Belize | 10 |
 | 13 | [cruzer45](https://github.com/cruzer45) | Maurice Rogers |  |  | Belize  | 9 |
 | 14 | [joshuariverol](https://github.com/joshuariverol) | Joshua Riverol |  | joshuariverol | Belize, CA | 9 |

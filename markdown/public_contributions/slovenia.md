@@ -1,6 +1,6 @@
 # Public Contributions - Slovenia
 
-Generated: 2026-10-17T17:10:44.319Z
+Generated: 2026-10-17T18:37:46.639Z
 
 Users: 3099
 
@@ -8,9 +8,9 @@ Users: 3099
 |---:|---|---|---|---|---|---:|
 | 1 | [garbas](https://github.com/garbas) | Rok Garbas | Nix - Elm - Rust - Python | garbas | Ljubljana, Slovenia | 9114 |
 | 2 | [itechdom](https://github.com/itechdom) | Osama Alghanmi | Almadar |  | Ljubljana, Slovenia | 8386 |
-| 3 | [MatejGomboc](https://github.com/MatejGomboc) | Matej Gomboc | SkyLabs d.o.o. |  | Maribor, Slovenia | 5747 |
-| 4 | [darkojelen](https://github.com/darkojelen) | darko |  |  | Ljubljana | 5412 |
-| 5 | [igorpecovnik](https://github.com/igorpecovnik) | Igor | @armbian  |  | Ljubljana | 4219 |
+| 3 | [igorpecovnik](https://github.com/igorpecovnik) | Igor | @armbian  |  | Ljubljana | 6012 |
+| 4 | [MatejGomboc](https://github.com/MatejGomboc) | Matej Gomboc | SkyLabs d.o.o. |  | Maribor, Slovenia | 5747 |
+| 5 | [darkojelen](https://github.com/darkojelen) | darko |  |  | Ljubljana | 5412 |
 | 6 | [BigWhale](https://github.com/BigWhale) | David Klasinc |  |  | Slovenska Bistrica, Slovenia | 3944 |
 | 7 | [AKzar1el](https://github.com/AKzar1el) | Tommy | Solo | AKzar1el | Ljubljana, Slovenia | 3845 |
 | 8 | [stefanb](https://github.com/stefanb) | Stefan Baebler | @equaleyes | StefanBaebler | Ljubljana, Slovenia | 3790 |

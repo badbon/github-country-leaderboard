@@ -1,6 +1,6 @@
 # Public Contributions - Trinidad and Tobago
 
-Generated: 2026-10-17T17:16:29.161Z
+Generated: 2026-10-17T18:46:08.853Z
 
 Users: 256
 
@@ -8,12 +8,12 @@ Users: 256
 |---:|---|---|---|---|---|---:|
 | 1 | [jeiang](https://github.com/jeiang) | Aidan Pinard | CIBC Caribbean | jeiang_ | Trinidad and Tobago | 4839 |
 | 2 | [snorkpete](https://github.com/snorkpete) | Kion Stephen |  |  | Trinidad and Tobago | 1436 |
-| 3 | [renniemaharaj](https://github.com/renniemaharaj) | Rennie Maharaj | The Writer Company  |  | Trinidad and Tobago | 1186 |
+| 3 | [renniemaharaj](https://github.com/renniemaharaj) | Rennie Maharaj |  |  | Trinidad and Tobago | 1192 |
 | 4 | [mreid-tt](https://github.com/mreid-tt) | Michael Reid |  | mreid_tt | Trinidad and Tobago | 1092 |
 | 5 | [rishi-latchmepersad](https://github.com/rishi-latchmepersad) | Rishi Latchmepersad | Shell |  | Trinidad and Tobago | 949 |
 | 6 | [creativenull](https://github.com/creativenull) | Arnold Chand |  | creativenu11 | Trinidad and Tobago | 785 |
 | 7 | [Andrews3002](https://github.com/Andrews3002) | Alexangelo Andews |  |  | Trinidad and Tobago | 658 |
-| 8 | [JadeOfMaar](https://github.com/JadeOfMaar) | JadeOfMaar |  |  | Trinidad and Tobago | 438 |
+| 8 | [JadeOfMaar](https://github.com/JadeOfMaar) | JadeOfMaar |  |  | Trinidad and Tobago | 429 |
 | 9 | [msanatan](https://github.com/msanatan) | Marcus Sanatan | @CoplayDev  | marcussanatan | Trinidad and Tobago | 415 |
 | 10 | [Somi-Project](https://github.com/Somi-Project) | Somi |  | SomiProject | Trinidad And Tobago | 363 |
 | 11 | [AnthonyASBaptiste](https://github.com/AnthonyASBaptiste) | Anthony A.S Baptiste |  |  | Trinidad and Tobago | 342 |

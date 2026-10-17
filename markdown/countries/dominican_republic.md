@@ -30,8 +30,8 @@ Indexed users: 3,301
 | 16 | [arielbritorivera](https://github.com/arielbritorivera) | Ariel A. Brito | Dominican Republic | 6,641 |
 | 17 | [luismts](https://github.com/luismts) | Luis Matos | Dominican Republic | 6,633 |
 | 18 | [focux](https://github.com/focux) | Leonardo E. Dominguez | Dominican Republic | 6,567 |
-| 19 | [lewandy](https://github.com/lewandy) | Lewandy Dilone | Santiago,Dominican Republic | 6,261 |
-| 20 | [franklinmdev](https://github.com/franklinmdev) | Franklin Martinez | Dominican Republic | 6,230 |
+| 19 | [edgarleonardo](https://github.com/edgarleonardo) | Edgar Leonardo Perez | Santo Domingo, Dominican Republic | 6,451 |
+| 20 | [lewandy](https://github.com/lewandy) | Lewandy Dilone | Santiago,Dominican Republic | 6,261 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 3,301
 | 19 | [eatskolnikov](https://github.com/eatskolnikov) | Enmanuel Toribio | Dominican Republic | 149 |
 | 20 | [adonismendozaperez](https://github.com/adonismendozaperez) | Adonis Mendoza  | Dominican Republic | 117 |
 
-Generated: 2026-10-17T17:40:19.468Z
+Generated: 2026-10-17T19:13:33.038Z

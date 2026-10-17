@@ -1,6 +1,6 @@
 # Angola
 
-Indexed users: 2,500
+Indexed users: 2,499
 
 | Leaderboard | Link |
 |---|---|
@@ -12,7 +12,7 @@ Indexed users: 2,500
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [runtechx](https://github.com/runtechx) | RunTech | Angola | 32,825 |
+| 1 | [runtechx](https://github.com/runtechx) | RunTech | Angola | 34,064 |
 | 2 | [aurennunes](https://github.com/aurennunes) | Aureliano Nunes | Angola | 13,225 |
 | 3 | [marianoj8](https://github.com/marianoj8) | Mariano JavaSwing | Angola, Luanda | 12,910 |
 | 4 | [Katumbela](https://github.com/Katumbela) | João Afonso Katombela | LUANDA | 11,834 |
@@ -37,7 +37,7 @@ Indexed users: 2,500
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [runtechx](https://github.com/runtechx) | RunTech | Angola | 31,686 |
+| 1 | [runtechx](https://github.com/runtechx) | RunTech | Angola | 32,925 |
 | 2 | [Zebedeu](https://github.com/Zebedeu) | Marcio Zebedeu | Angola | 2,908 |
 | 3 | [NdondaDaniel2020](https://github.com/NdondaDaniel2020) | Ndonda Daniel | Luanda | 2,614 |
 | 4 | [FranciscoDala](https://github.com/FranciscoDala) | Francisco Dala | Angola, Luanda | 2,301 |
@@ -83,4 +83,4 @@ Indexed users: 2,500
 | 19 | [jofranqueira](https://github.com/jofranqueira) | José Frangueira | Angola | 160 |
 | 20 | [Jovanysfive](https://github.com/Jovanysfive) | Job Bento | Angola/Luanda | 152 |
 
-Generated: 2026-10-17T17:24:40.507Z
+Generated: 2026-10-17T18:57:26.944Z

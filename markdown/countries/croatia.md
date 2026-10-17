@@ -1,6 +1,6 @@
 # Croatia
 
-Indexed users: 5,430
+Indexed users: 5,428
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 5,430
 | 19 | [loboris](https://github.com/loboris) | Boris Lovosevic | Zagreb, Croatia | 406 |
 | 20 | [nibzard](https://github.com/nibzard) | Nikola Balic | Split, Croatia | 364 |
 
-Generated: 2026-10-17T17:38:07.137Z
+Generated: 2026-10-17T19:11:08.952Z

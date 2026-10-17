@@ -1,6 +1,6 @@
 # Total Contributions - Dominican Republic
 
-Generated: 2026-10-17T17:40:19.468Z
+Generated: 2026-10-17T19:13:33.038Z
 
 Users: 3301
 
@@ -24,5 +24,5 @@ Users: 3301
 | 16 | [arielbritorivera](https://github.com/arielbritorivera) | Ariel A. Brito | Brito Solutions BS |  | Dominican Republic | 6641 |
 | 17 | [luismts](https://github.com/luismts) | Luis Matos | @lacomarcaDO @xamarinuniverse  | luismatosluna | Dominican Republic | 6633 |
 | 18 | [focux](https://github.com/focux) | Leonardo E. Dominguez |  | foocux | Dominican Republic | 6567 |
-| 19 | [lewandy](https://github.com/lewandy) | Lewandy Dilone | @x-team @Reunionmarketing | lewandydilone | Santiago,Dominican Republic | 6261 |
-| 20 | [franklinmdev](https://github.com/franklinmdev) | Franklin Martinez | Nubeteck, SRL |  | Dominican Republic | 6230 |
+| 19 | [edgarleonardo](https://github.com/edgarleonardo) | Edgar Leonardo Perez | Maxim Group |  | Santo Domingo, Dominican Republic | 6451 |
+| 20 | [lewandy](https://github.com/lewandy) | Lewandy Dilone | @x-team @Reunionmarketing | lewandydilone | Santiago,Dominican Republic | 6261 |

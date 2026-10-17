@@ -1,6 +1,6 @@
 # Public Contributions - DR Congo
 
-Generated: 2026-10-17T17:40:23.345Z
+Generated: 2026-10-17T19:13:38.334Z
 
 Users: 700
 
@@ -25,4 +25,4 @@ Users: 700
 | 17 | [Mgreat01](https://github.com/Mgreat01) | ephraim monga ( ambassadeur 🥷) |  |  | KINSHASA / RD CONGO | 787 |
 | 18 | [AngisheSALEM](https://github.com/AngisheSALEM) | Salem Angishe  |  |  | Kinshasa  | 739 |
 | 19 | [silasmas](https://github.com/silasmas) | silasmas | silasdev | silasmas | kinshasa | 701 |
-| 20 | [arnold722](https://github.com/arnold722) | Arnold Leonce | @FreeDev-Group | Arnoldleonce | Bukavu, DR Congo | 665 |
+| 20 | [bernard-ng](https://github.com/bernard-ng) | Bernard Ngandu | @ngandu-dev | BernardNgandu | DR Congo, Lubumbashi | 680 |

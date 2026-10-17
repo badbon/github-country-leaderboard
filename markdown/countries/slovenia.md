@@ -39,9 +39,9 @@ Indexed users: 3,099
 |---:|---|---|---|---:|
 | 1 | [garbas](https://github.com/garbas) | Rok Garbas | Ljubljana, Slovenia | 9,114 |
 | 2 | [itechdom](https://github.com/itechdom) | Osama Alghanmi | Ljubljana, Slovenia | 8,386 |
-| 3 | [MatejGomboc](https://github.com/MatejGomboc) | Matej Gomboc | Maribor, Slovenia | 5,747 |
-| 4 | [darkojelen](https://github.com/darkojelen) | darko | Ljubljana | 5,412 |
-| 5 | [igorpecovnik](https://github.com/igorpecovnik) | Igor | Ljubljana | 4,219 |
+| 3 | [igorpecovnik](https://github.com/igorpecovnik) | Igor | Ljubljana | 6,012 |
+| 4 | [MatejGomboc](https://github.com/MatejGomboc) | Matej Gomboc | Maribor, Slovenia | 5,747 |
+| 5 | [darkojelen](https://github.com/darkojelen) | darko | Ljubljana | 5,412 |
 | 6 | [BigWhale](https://github.com/BigWhale) | David Klasinc | Slovenska Bistrica, Slovenia | 3,944 |
 | 7 | [AKzar1el](https://github.com/AKzar1el) | Tommy | Ljubljana, Slovenia | 3,845 |
 | 8 | [stefanb](https://github.com/stefanb) | Stefan Baebler | Ljubljana, Slovenia | 3,790 |
@@ -65,8 +65,8 @@ Indexed users: 3,099
 | 1 | [zbejas](https://github.com/zbejas) | Anže Mavrič | Maribor, Slovenia | 3,018 |
 | 2 | [gto76](https://github.com/gto76) | Jure Šorn | Ljubljana | 1,212 |
 | 3 | [luksa](https://github.com/luksa) | Marko Lukša | Slovenia | 1,118 |
-| 4 | [andrejbauer](https://github.com/andrejbauer) | Andrej Bauer | Slovenia | 924 |
-| 5 | [igorpecovnik](https://github.com/igorpecovnik) | Igor | Ljubljana | 916 |
+| 4 | [igorpecovnik](https://github.com/igorpecovnik) | Igor | Ljubljana | 925 |
+| 5 | [andrejbauer](https://github.com/andrejbauer) | Andrej Bauer | Slovenia | 924 |
 | 6 | [aksonov](https://github.com/aksonov) | Pavel Aksonov | Koper, Slovenia | 627 |
 | 7 | [Kami](https://github.com/Kami) | Tomaz Muraus | Ljubljana, Slovenia | 614 |
 | 8 | [CANopenNode](https://github.com/CANopenNode) | Janez | Slovenia | 609 |
@@ -83,4 +83,4 @@ Indexed users: 3,099
 | 19 | [garbas](https://github.com/garbas) | Rok Garbas | Ljubljana, Slovenia | 240 |
 | 20 | [buresdv](https://github.com/buresdv) | David Bureš | Maribor, Slovenia | 238 |
 
-Generated: 2026-10-17T17:10:44.319Z
+Generated: 2026-10-17T18:37:46.639Z

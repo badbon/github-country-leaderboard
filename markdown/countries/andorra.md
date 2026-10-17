@@ -27,7 +27,7 @@ Indexed users: 215
 | 13 | [cmarfil](https://github.com/cmarfil) | Cristian Marfil | Andorra | 4,643 |
 | 14 | [cuva](https://github.com/cuva) | Hugo Cuvillier | Andorra | 4,294 |
 | 15 | [kopenkinda](https://github.com/kopenkinda) | Kopenkin Dmitrii | Andorra | 4,053 |
-| 16 | [dvdjmnz](https://github.com/dvdjmnz) | David Jiménez | Andorra | 3,515 |
+| 16 | [dvdjmnz](https://github.com/dvdjmnz) | David Jiménez | Andorra | 3,636 |
 | 17 | [sgirones](https://github.com/sgirones) | Salvador Gironès Gil | Andorra | 3,477 |
 | 18 | [ColColty](https://github.com/ColColty) | Tomàs Forné Cappeau | Andorra | 3,446 |
 | 19 | [GRKdev](https://github.com/GRKdev) | G.R.K. | Andorra | 3,117 |
@@ -83,4 +83,4 @@ Indexed users: 215
 | 19 | [ysb33r](https://github.com/ysb33r) | Schalk W. Cronjé | Andorra | 63 |
 | 20 | [castrolem](https://github.com/castrolem) | Luis Castro | Andorra la Vella, Andorra | 59 |
 
-Generated: 2026-10-17T17:24:36.794Z
+Generated: 2026-10-17T18:57:18.644Z

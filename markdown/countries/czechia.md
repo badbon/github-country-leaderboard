@@ -62,7 +62,7 @@ Indexed users: 16,201
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [george0st](https://github.com/george0st) | jist | Europe, Czech Republic, Prague | 13,638 |
+| 1 | [george0st](https://github.com/george0st) | jist | Europe, Czech Republic, Prague | 13,662 |
 | 2 | [filiph](https://github.com/filiph) | Filip Hracek | Prague, Czechia | 4,283 |
 | 3 | [Borda](https://github.com/Borda) | Jirka Borovec | Prague | 4,012 |
 | 4 | [photopea](https://github.com/photopea) | Photopea | Prague, the Czech Republic | 2,946 |
@@ -83,4 +83,4 @@ Indexed users: 16,201
 | 19 | [wbenny](https://github.com/wbenny) | Petr Beneš | Brno, Czech Republic | 877 |
 | 20 | [ondras](https://github.com/ondras) | Ondřej Žára | Prague | 840 |
 
-Generated: 2026-10-17T17:39:44.331Z
+Generated: 2026-10-17T19:12:48.474Z
