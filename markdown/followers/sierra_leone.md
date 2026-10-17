@@ -1,6 +1,6 @@
 # Followers - Sierra Leone
 
-Generated: 2026-10-17T06:45:27.731Z
+Generated: 2026-10-17T07:59:27.985Z
 
 Users: 443
 
@@ -12,7 +12,7 @@ Users: 443
 | 4 | [larrybah](https://github.com/larrybah) | Larry Bah |  | larrybah3 | Sierra Leone | 89 |
 | 5 | [aempirei](https://github.com/aempirei) | Christopher Abad | 256 LLC |  | Freetown, Sierra Leone | 69 |
 | 6 | [bnjox](https://github.com/bnjox) | Ben |  | bnjoxx | Sierra Leone | 67 |
-| 7 | [dominicOT](https://github.com/dominicOT) | Dominic Oladapo-Tonade | @DORB-AI |  | Sierra Leone | 65 |
+| 7 | [dominicOT](https://github.com/dominicOT) | Dominic Oladapo-Tonade | @DORB-AI |  | Sierra Leone | 64 |
 | 8 | [Mmah-Zombo](https://github.com/Mmah-Zombo) | M'mah Zombo | Korlie Limited | zombo_mah | Wilberforce, Freetown. | 53 |
 | 9 | [samuelmoiwa](https://github.com/samuelmoiwa) | Moiwa | Coursepaddy | samuelmoiwa | Sierra Leone | 46 |
 | 10 | [stElmitchay](https://github.com/stElmitchay) | Mitch | Christex Foundation | el_saintt | Sierra Leone | 42 |
