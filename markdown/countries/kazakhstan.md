@@ -1,6 +1,6 @@
 # Kazakhstan
 
-Indexed users: 5,637
+Indexed users: 5,636
 
 | Leaderboard | Link |
 |---|---|
@@ -15,7 +15,7 @@ Indexed users: 5,637
 | 1 | [chelaxian](https://github.com/chelaxian) | ratu.sh | Kazakhstan | 126,195 |
 | 2 | [rldyourmnd](https://github.com/rldyourmnd) | Danil Silantyev | Kazakhstan/World | 74,329 |
 | 3 | [nstwfdev](https://github.com/nstwfdev) | Timur | Kazakhstan | 40,407 |
-| 4 | [ZhymabekRoman](https://github.com/ZhymabekRoman) | Zhymabek Roman | Kazakhstan | 34,165 |
+| 4 | [ZhymabekRoman](https://github.com/ZhymabekRoman) | Zhymabek Roman | Kazakhstan | 34,197 |
 | 5 | [yrn-dev](https://github.com/yrn-dev) | Yernur | Kazakhstan, Kyzylorda | 24,758 |
 | 6 | [yasball](https://github.com/yasball) | Yesbol Sariyev | Atyrau, Kazakhstan | 15,489 |
 | 7 | [alexey-abblix](https://github.com/alexey-abblix) | Alexey Poltorak | Astana, Kazakhstan | 14,638 |
@@ -72,15 +72,15 @@ Indexed users: 5,637
 | 8 | [kekekeks](https://github.com/kekekeks) | Nikita Tsukanov | Kazakhstan, Astana | 527 |
 | 9 | [andreikhromushin](https://github.com/andreikhromushin) | Andrei Khromushin | Kazakhstan, Astana | 510 |
 | 10 | [adilkhash](https://github.com/adilkhash) | Adylzhan Khashtamov | Astana, Kazakhstan | 466 |
-| 11 | [D-Mass-RR](https://github.com/D-Mass-RR) | Alan Mit | Astana, Kazakhstan | 445 |
-| 12 | [ykmnkmi](https://github.com/ykmnkmi) | Olzhas Suleimen | Kazakhstan, Almaty | 437 |
-| 13 | [zerobias](https://github.com/zerobias) | Dmitry | Kazakhstan | 429 |
-| 14 | [ZhymabekRoman](https://github.com/ZhymabekRoman) | Zhymabek Roman | Kazakhstan | 394 |
-| 15 | [Fsoky](https://github.com/Fsoky) | DanIII ~ | Kazakhstan | 386 |
+| 11 | [ykmnkmi](https://github.com/ykmnkmi) | Olzhas Suleimen | Kazakhstan, Almaty | 437 |
+| 12 | [zerobias](https://github.com/zerobias) | Dmitry | Kazakhstan | 429 |
+| 13 | [D-Mass-RR](https://github.com/D-Mass-RR) | Alan Mit | Astana, Kazakhstan | 428 |
+| 14 | [ZhymabekRoman](https://github.com/ZhymabekRoman) | Zhymabek Roman | Kazakhstan | 407 |
+| 15 | [Fsoky](https://github.com/Fsoky) | DanIII ~ | Kazakhstan | 381 |
 | 16 | [SapphoSys](https://github.com/SapphoSys) | Chloe | Almaty, Kazakhstan | 379 |
 | 17 | [Alex009](https://github.com/Alex009) | Aleksey Mikhailov | Astana | 378 |
 | 18 | [Beisenbek](https://github.com/Beisenbek) | Beisenbek Baisakov | Almaty, Kazakhstan | 365 |
 | 19 | [aidarnouman](https://github.com/aidarnouman) | Aidar Nouman | Almaty, Kazakhstan | 303 |
 | 20 | [azamxvit](https://github.com/azamxvit) | Azamat | Kazakhstan, Atyrau | 295 |
 
-Generated: 2026-10-17T20:56:21.546Z
+Generated: 2026-10-17T23:12:58.577Z

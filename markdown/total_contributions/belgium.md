@@ -1,8 +1,8 @@
 # Total Contributions - Belgium
 
-Generated: 2026-10-17T20:24:41.155Z
+Generated: 2026-10-17T22:37:43.770Z
 
-Users: 18390
+Users: 18389
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -17,12 +17,12 @@ Users: 18390
 | 9 | [tetiana-ai](https://github.com/tetiana-ai) | Tetiana Stepanets | @lilidi-ai | tetiana_ai | Brussels  | 19428 |
 | 10 | [sujithq](https://github.com/sujithq) | Sujith Quintelier | @microsoft | SujithQ | Belgium | 19233 |
 | 11 | [bmichotte](https://github.com/bmichotte) | Benjamin Michotte | @opp-studio  | bmichotte | Liège, Belgium | 17056 |
-| 12 | [brtdv](https://github.com/brtdv) | Bert Devriese |  |  | Ghent x Bruges, Belgium | 15360 |
-| 13 | [wouterds](https://github.com/wouterds) | Wouter | @tallyforms  |  | Ghent, Belgium | 14883 |
-| 14 | [artem-invoid](https://github.com/artem-invoid) | Artem | @Invoid-Vision  | nonvoider | Belgium | 14595 |
-| 15 | [sigmadeltasoftware](https://github.com/sigmadeltasoftware) | Bojan Belic | Sigma Delta Software Solutions |  | Belgium | 14464 |
-| 16 | [semaidi](https://github.com/semaidi) | Didier | MFM Digital |  | Brussels | 14348 |
-| 17 | [jleclanche](https://github.com/jleclanche) | Jerome Leclanche | @ingram-technologies |  | Brussels, Belgium | 13265 |
-| 18 | [akif-dogan](https://github.com/akif-dogan) | Akif Dogan | Mars AI Technology Solutions | akif_doganx | Belgium | 12961 |
-| 19 | [kwevers](https://github.com/kwevers) | Kristof Wevers | Infura |  | Belgium | 12662 |
-| 20 | [willem-delbare](https://github.com/willem-delbare) |  | Aikido Security |  | Belgium | 12607 |
+| 12 | [rgfaber](https://github.com/rgfaber) | R.G. Lefever | BEAM Campus | beamologist | Leuven, Belgium | 15383 |
+| 13 | [brtdv](https://github.com/brtdv) | Bert Devriese |  |  | Ghent x Bruges, Belgium | 15360 |
+| 14 | [wouterds](https://github.com/wouterds) | Wouter | @tallyforms  |  | Ghent, Belgium | 14883 |
+| 15 | [artem-invoid](https://github.com/artem-invoid) | Artem | @Invoid-Vision  | nonvoider | Belgium | 14595 |
+| 16 | [sigmadeltasoftware](https://github.com/sigmadeltasoftware) | Bojan Belic | Sigma Delta Software Solutions |  | Belgium | 14464 |
+| 17 | [semaidi](https://github.com/semaidi) | Didier | MFM Digital |  | Brussels | 14348 |
+| 18 | [jleclanche](https://github.com/jleclanche) | Jerome Leclanche | @ingram-technologies |  | Brussels, Belgium | 13265 |
+| 19 | [akif-dogan](https://github.com/akif-dogan) | Akif Dogan | Mars AI Technology Solutions | akif_doganx | Belgium | 12961 |
+| 20 | [kwevers](https://github.com/kwevers) | Kristof Wevers | Infura |  | Belgium | 12662 |

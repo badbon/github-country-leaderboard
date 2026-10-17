@@ -56,7 +56,7 @@ Indexed users: 5,789
 | 17 | [qamro](https://github.com/qamro) | Mohamed Qamar Eddine Bakhouche | Algiers, Algeria | 1,530 |
 | 18 | [1hachem](https://github.com/1hachem) | dashi | Algiers, Algeria | 1,455 |
 | 19 | [nexus-scholar](https://github.com/nexus-scholar) | Bekhouche Mouadh | Algeria | 1,410 |
-| 20 | [s77rt](https://github.com/s77rt) | Abdelhafidh Belalia | Algeria | 1,378 |
+| 20 | [SaddexRnx](https://github.com/SaddexRnx) | Saddek Renane | Algeria | 1,383 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 5,789
 | 19 | [sabri-zaki](https://github.com/sabri-zaki) | sabri zakaria | Algeria | 686 |
 | 20 | [Hamza5](https://github.com/Hamza5) | Hamza Abbad | Algeria | 669 |
 
-Generated: 2026-10-17T20:20:52.317Z
+Generated: 2026-10-17T22:29:11.550Z

@@ -1,6 +1,6 @@
 # Denmark
 
-Indexed users: 19,308
+Indexed users: 19,309
 
 | Leaderboard | Link |
 |---|---|
@@ -21,17 +21,17 @@ Indexed users: 19,308
 | 7 | [JonasAbde](https://github.com/JonasAbde) | Jonas Abde | Denmark  | 22,194 |
 | 8 | [marti-s](https://github.com/marti-s) | Marti Staerfeldt | Denmark | 18,981 |
 | 9 | [lassestilvang](https://github.com/lassestilvang) | Lasse Stilvang | Copenhagen, Denmark | 18,851 |
-| 10 | [TanvirAlam](https://github.com/TanvirAlam) | Tanvir Alam | Denmark | 16,334 |
-| 11 | [trenskow](https://github.com/trenskow) | Kristian Trenskow | Aarhus, Denmark | 15,978 |
-| 12 | [LayZeeDK](https://github.com/LayZeeDK) | Lars Gyrup Brink Nielsen | Holstebro, Denmark | 15,540 |
-| 13 | [devantler](https://github.com/devantler) | Nikolai Emil Damm | Denmark | 15,097 |
-| 14 | [EpochBoy](https://github.com/EpochBoy) | EpochBoy | Copenhagen | 14,885 |
-| 15 | [sylvesterdamgaard](https://github.com/sylvesterdamgaard) | Sylvester Damgaard | Denmark | 14,434 |
-| 16 | [kimdv](https://github.com/kimdv) | Kim de Vos | Aarhus, Denmark  | 13,968 |
-| 17 | [atiti](https://github.com/atiti) | Attila Sukosd | Copenhagen, Denmark | 13,262 |
-| 18 | [luxass](https://github.com/luxass) | Lucas Nørgård | Aarhus, Denmark | 12,712 |
-| 19 | [holgarsson](https://github.com/holgarsson) | Rói Holgarsson | Copenhagen, Denmark | 12,638 |
-| 20 | [michaelthuren](https://github.com/michaelthuren) | Michael Thuren | Copenhagen | 12,088 |
+| 10 | [mbrummerstedt](https://github.com/mbrummerstedt) | Martin Brummerstedt | Copenhagen, Denmark | 17,203 |
+| 11 | [TanvirAlam](https://github.com/TanvirAlam) | Tanvir Alam | Denmark | 16,334 |
+| 12 | [trenskow](https://github.com/trenskow) | Kristian Trenskow | Aarhus, Denmark | 15,978 |
+| 13 | [LayZeeDK](https://github.com/LayZeeDK) | Lars Gyrup Brink Nielsen | Holstebro, Denmark | 15,540 |
+| 14 | [devantler](https://github.com/devantler) | Nikolai Emil Damm | Denmark | 15,097 |
+| 15 | [EpochBoy](https://github.com/EpochBoy) | EpochBoy | Copenhagen | 14,885 |
+| 16 | [sylvesterdamgaard](https://github.com/sylvesterdamgaard) | Sylvester Damgaard | Denmark | 14,434 |
+| 17 | [kimdv](https://github.com/kimdv) | Kim de Vos | Aarhus, Denmark  | 13,968 |
+| 18 | [atiti](https://github.com/atiti) | Attila Sukosd | Copenhagen, Denmark | 13,262 |
+| 19 | [luxass](https://github.com/luxass) | Lucas Nørgård | Aarhus, Denmark | 12,712 |
+| 20 | [holgarsson](https://github.com/holgarsson) | Rói Holgarsson | Copenhagen, Denmark | 12,638 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 19,308
 | 19 | [ThomasVitale](https://github.com/ThomasVitale) | Thomas Vitale | Denmark | 1,273 |
 | 20 | [mit-mit](https://github.com/mit-mit) | Michael Thomsen | Aarhus, Denmark | 1,198 |
 
-Generated: 2026-10-17T20:36:04.157Z
+Generated: 2026-10-17T22:49:27.564Z

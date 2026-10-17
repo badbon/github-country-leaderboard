@@ -12,8 +12,8 @@ Indexed users: 3,099
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [itechdom](https://github.com/itechdom) | Osama Alghanmi | Ljubljana, Slovenia | 32,477 |
-| 2 | [Legoless](https://github.com/Legoless) | Dal Rupnik | Slovenia | 16,440 |
+| 1 | [Legoless](https://github.com/Legoless) | Dal Rupnik | Slovenia | 37,509 |
+| 2 | [itechdom](https://github.com/itechdom) | Osama Alghanmi | Ljubljana, Slovenia | 32,477 |
 | 3 | [Meemaw](https://github.com/Meemaw) | Matej Šnuderl | Ljubljana, Slovenia | 16,408 |
 | 4 | [bl4ko](https://github.com/bl4ko) | Gasper Oblak | Slovenia | 13,573 |
 | 5 | [bobalazek](https://github.com/bobalazek) | Borut Balazek | Slovenia, Europe | 13,109 |
@@ -24,14 +24,14 @@ Indexed users: 3,099
 | 10 | [matija2209](https://github.com/matija2209) | Matija Žiberna | Slovenia | 10,295 |
 | 11 | [tfourj](https://github.com/tfourj) | Taj Tkalec | Slovenia | 9,996 |
 | 12 | [rockoo](https://github.com/rockoo) | Rok Nemet | Ljubljana, Slovenia | 9,726 |
-| 13 | [baadc0de](https://github.com/baadc0de) | Bojan Šernek | Ljubljana, Slovenia | 8,700 |
-| 14 | [pako999](https://github.com/pako999) | Patrik | Slovenia  | 8,682 |
-| 15 | [zprima](https://github.com/zprima) | Primož Žnidar | Slovenia | 8,672 |
-| 16 | [vucinatim](https://github.com/vucinatim) | Tim Vučina | Ljubljana, Slovenia | 8,637 |
-| 17 | [mitjapotocin](https://github.com/mitjapotocin) | Mitja Potočin | Ljubljana | 8,383 |
-| 18 | [dejanstrancar](https://github.com/dejanstrancar) | Dejan Strancar | Slovenia | 7,491 |
-| 19 | [AKzar1el](https://github.com/AKzar1el) | Tommy | Ljubljana, Slovenia | 7,042 |
-| 20 | [omeratagunn](https://github.com/omeratagunn) | Ömer Atagün | Slovenia | 6,861 |
+| 13 | [tfius](https://github.com/tfius) | Tadej Fius | Slovenia | 8,723 |
+| 14 | [baadc0de](https://github.com/baadc0de) | Bojan Šernek | Ljubljana, Slovenia | 8,700 |
+| 15 | [pako999](https://github.com/pako999) | Patrik | Slovenia  | 8,682 |
+| 16 | [zprima](https://github.com/zprima) | Primož Žnidar | Slovenia | 8,672 |
+| 17 | [vucinatim](https://github.com/vucinatim) | Tim Vučina | Ljubljana, Slovenia | 8,637 |
+| 18 | [mitjapotocin](https://github.com/mitjapotocin) | Mitja Potočin | Ljubljana | 8,383 |
+| 19 | [dejanstrancar](https://github.com/dejanstrancar) | Dejan Strancar | Slovenia | 7,491 |
+| 20 | [AKzar1el](https://github.com/AKzar1el) | Tommy | Ljubljana, Slovenia | 7,042 |
 
 ## Public Contributions
 
@@ -67,15 +67,15 @@ Indexed users: 3,099
 | 3 | [luksa](https://github.com/luksa) | Marko Lukša | Slovenia | 1,118 |
 | 4 | [igorpecovnik](https://github.com/igorpecovnik) | Igor | Ljubljana | 925 |
 | 5 | [andrejbauer](https://github.com/andrejbauer) | Andrej Bauer | Slovenia | 924 |
-| 6 | [aksonov](https://github.com/aksonov) | Pavel Aksonov | Koper, Slovenia | 627 |
+| 6 | [aksonov](https://github.com/aksonov) | Pavel Aksonov | Koper, Slovenia | 629 |
 | 7 | [Kami](https://github.com/Kami) | Tomaz Muraus | Ljubljana, Slovenia | 614 |
 | 8 | [CANopenNode](https://github.com/CANopenNode) | Janez | Slovenia | 609 |
 | 9 | [matej](https://github.com/matej) | Matej Bukovinski | Ljubljana, Slovenia | 414 |
 | 10 | [maticzav](https://github.com/maticzav) | Matic Zavadlal | Ljubljana, Slovenia | 390 |
 | 11 | [titpetric](https://github.com/titpetric) | Tit Petric | Ljubljana, Slovenia | 332 |
-| 12 | [dz0ny](https://github.com/dz0ny) | Janez Troha | Slovenia | 283 |
-| 13 | [tinrab](https://github.com/tinrab) | Tin Rabzelj | Ljubljana, Slovenia | 283 |
-| 14 | [AndrewStetsenko](https://github.com/AndrewStetsenko) |  | Slovenia | 282 |
+| 12 | [AndrewStetsenko](https://github.com/AndrewStetsenko) |  | Slovenia | 288 |
+| 13 | [dz0ny](https://github.com/dz0ny) | Janez Troha | Slovenia | 283 |
+| 14 | [tinrab](https://github.com/tinrab) | Tin Rabzelj | Ljubljana, Slovenia | 283 |
 | 15 | [otobrglez](https://github.com/otobrglez) | Oto Brglez | Ljubljana, Slovenia | 269 |
 | 16 | [tomaz](https://github.com/tomaz) | tomaz | Slovenia | 249 |
 | 17 | [dorkamotorka](https://github.com/dorkamotorka) | Teodor Janez Podobnik | Ljubljana, Slovenia | 248 |
@@ -83,4 +83,4 @@ Indexed users: 3,099
 | 19 | [garbas](https://github.com/garbas) | Rok Garbas | Ljubljana, Slovenia | 240 |
 | 20 | [buresdv](https://github.com/buresdv) | David Bureš | Maribor, Slovenia | 238 |
 
-Generated: 2026-10-17T20:07:59.943Z
+Generated: 2026-10-17T22:10:50.872Z

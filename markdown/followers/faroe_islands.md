@@ -1,6 +1,6 @@
 # Followers - Faroe Islands
 
-Generated: 2026-10-17T20:40:37.660Z
+Generated: 2026-10-17T22:56:50.027Z
 
 Users: 68
 
@@ -25,4 +25,4 @@ Users: 68
 | 17 | [BogiSyderbo](https://github.com/BogiSyderbo) | Bogi |  |  | Tórshavn | 7 |
 | 18 | [Marimuda](https://github.com/Marimuda) | Jákup Svøðstein | University of Faroe islands |  | Faroe islands  | 7 |
 | 19 | [olavurellefsen](https://github.com/olavurellefsen) | Olavur Ellefsen | @Flowcore-io |  | Faroe Islands | 7 |
-| 20 | [shishpt](https://github.com/shishpt) | Shishir Patel |  |  | Torshavn, Faroe Islands | 7 |
+| 20 | [RudiPersson](https://github.com/RudiPersson) | Rudi Persson | Poul Michelsen |  | Tórshavn, Faroe Islands | 7 |

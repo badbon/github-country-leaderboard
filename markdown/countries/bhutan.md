@@ -73,8 +73,8 @@ Indexed users: 266
 | 9 | [sangayt1997](https://github.com/sangayt1997) | Sangay Thinley | Thimphu, Bhutan | 33 |
 | 10 | [tashi-iu](https://github.com/tashi-iu) | Tashi Tobgay Dakpa | Thimphu, Bhutan | 33 |
 | 11 | [Kzoeps](https://github.com/Kzoeps) | Karma Zoepa Yoezer | Thimphu, Bhutan | 31 |
-| 12 | [lit-poks](https://github.com/lit-poks) | Lalit Pokhrel | Thimphu, Bhutan | 30 |
-| 13 | [ugyentring](https://github.com/ugyentring) | Ugyen Tshering | Bhutan | 30 |
+| 12 | [ugyentring](https://github.com/ugyentring) | Ugyen Tshering | Bhutan | 31 |
+| 13 | [lit-poks](https://github.com/lit-poks) | Lalit Pokhrel | Thimphu, Bhutan | 30 |
 | 14 | [KinWang-2013](https://github.com/KinWang-2013) | Kinley Wangchuk | Thimphu, Bhutan | 29 |
 | 15 | [c19850727](https://github.com/c19850727) | Sakaguchi | Thimphu & Hong Kong & Tokyo | 24 |
 | 16 | [sonamtaa](https://github.com/sonamtaa) | Sonam Tashi | Babesa, Thimphu | 24 |
@@ -83,4 +83,4 @@ Indexed users: 266
 | 19 | [TandinDev](https://github.com/TandinDev) | Tandin Tshewang | Thimphu | 23 |
 | 20 | [chimiWangchukWangdi](https://github.com/chimiWangchukWangdi) | Chimi Wangchuk Wangdi | Thimphu, Bhutan | 22 |
 
-Generated: 2026-10-17T20:26:02.401Z
+Generated: 2026-10-17T22:38:32.430Z

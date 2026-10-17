@@ -81,6 +81,6 @@ Indexed users: 68
 | 17 | [BogiSyderbo](https://github.com/BogiSyderbo) | Bogi | Tórshavn | 7 |
 | 18 | [Marimuda](https://github.com/Marimuda) | Jákup Svøðstein | Faroe islands  | 7 |
 | 19 | [olavurellefsen](https://github.com/olavurellefsen) | Olavur Ellefsen | Faroe Islands | 7 |
-| 20 | [shishpt](https://github.com/shishpt) | Shishir Patel | Torshavn, Faroe Islands | 7 |
+| 20 | [RudiPersson](https://github.com/RudiPersson) | Rudi Persson | Tórshavn, Faroe Islands | 7 |
 
-Generated: 2026-10-17T20:40:37.660Z
+Generated: 2026-10-17T22:56:50.027Z

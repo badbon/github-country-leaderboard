@@ -1,8 +1,8 @@
 # Total Contributions - Uganda
 
-Generated: 2026-10-17T20:15:36.569Z
+Generated: 2026-10-17T22:22:48.797Z
 
-Users: 3868
+Users: 3867
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -18,11 +18,11 @@ Users: 3868
 | 10 | [MUKE-coder](https://github.com/MUKE-coder) | MUKE JOHNBAPTIST | Deisishub Technologies | MJohnbaptist | KAMPALA -UGANDA | 9513 |
 | 11 | [GenoJ83](https://github.com/GenoJ83) | Geno Joshua |  |  | Kampala | 9133 |
 | 12 | [engWafula](https://github.com/engWafula) | Wafula Allan  Isaac | Freelancer | WafulaAllanIsa1 | kampala | 9056 |
-| 13 | [baliddeki](https://github.com/baliddeki) | Aliddeki Mulindwa Bryan | Klan Logistics Limited |  | Kampala, Uganda | 9028 |
-| 14 | [Mugamba669](https://github.com/Mugamba669) | Mugamba669 | Kutunzamawazo | BrunoMugamba | Kampala, Uganda | 7995 |
-| 15 | [KansiimeKenie](https://github.com/KansiimeKenie) | Kansiime Keneth |  | kansiime_keneth | kampala, Ug | 7957 |
-| 16 | [GaspardKirira](https://github.com/GaspardKirira) | G-kirira | @vixcpp @softadastra | g_kirira | Africa / Uganda / Kampala | 7825 |
-| 17 | [baliksjosay](https://github.com/baliksjosay) | Joseph Balikuddembe | GDExperts LTD | BaliksJoseph | Kampala, uganda | 7753 |
-| 18 | [judeotine](https://github.com/judeotine) | Judeotine |  | Judeotine | Uganda | 7440 |
-| 19 | [sharif-smj](https://github.com/sharif-smj) | SHARIF |  | SharifSemujju | Kampala Uganda | 7365 |
-| 20 | [cosmah](https://github.com/cosmah) | cosmah | CosMc technologies | cosmah_l | kampala, Uganda | 7177 |
+| 13 | [raheebwa](https://github.com/raheebwa) | Ramadhan Aheebwa | Badrama Technologies LTD | raheebwa | Kampala, Uganda | 9040 |
+| 14 | [baliddeki](https://github.com/baliddeki) | Aliddeki Mulindwa Bryan | Klan Logistics Limited |  | Kampala, Uganda | 9028 |
+| 15 | [Mugamba669](https://github.com/Mugamba669) | Mugamba669 | Kutunzamawazo | BrunoMugamba | Kampala, Uganda | 7995 |
+| 16 | [KansiimeKenie](https://github.com/KansiimeKenie) | Kansiime Keneth |  | kansiime_keneth | kampala, Ug | 7957 |
+| 17 | [GaspardKirira](https://github.com/GaspardKirira) | G-kirira | @vixcpp @softadastra | g_kirira | Africa / Uganda / Kampala | 7825 |
+| 18 | [baliksjosay](https://github.com/baliksjosay) | Joseph Balikuddembe | GDExperts LTD | BaliksJoseph | Kampala, uganda | 7753 |
+| 19 | [judeotine](https://github.com/judeotine) | Judeotine |  | Judeotine | Uganda | 7440 |
+| 20 | [sharif-smj](https://github.com/sharif-smj) | SHARIF |  | SharifSemujju | Kampala Uganda | 7365 |

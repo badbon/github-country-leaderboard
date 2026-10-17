@@ -15,8 +15,8 @@ Indexed users: 700
 | 1 | [coolbeatz71](https://github.com/coolbeatz71) | Mutombo Jean-Vincent | Kinshasa, Kigali | 33,806 |
 | 2 | [kmdavid3](https://github.com/kmdavid3) | David M. KAYEMBE | DR Congo, kinshasa | 19,892 |
 | 3 | [Abarchibody](https://github.com/Abarchibody) | Archimede Body | Kinshasa, DRC | 13,382 |
-| 4 | [Bope142](https://github.com/Bope142) | Norbert Le Geek | Kinshasa DRC | 9,454 |
-| 5 | [JoeM1990](https://github.com/JoeM1990) | Jonathan Monkila  | kinshasa,RDC | 8,077 |
+| 4 | [Bope142](https://github.com/Bope142) | Norbert Le Geek | Kinshasa DRC | 9,414 |
+| 5 | [JoeM1990](https://github.com/JoeM1990) | Jonathan Monkila  | kinshasa,RDC | 8,062 |
 | 6 | [Dr-Lab1](https://github.com/Dr-Lab1) | Jonathan Kukwabantu Bahati | Kinshasa | 7,016 |
 | 7 | [Theodorebinda](https://github.com/Theodorebinda) | Theodore SAMBA | kinshasa | 6,932 |
 | 8 | [esaiemuhasa](https://github.com/esaiemuhasa) | Esaie Muhasa | Butembo, Congo Kinshasa | 6,908 |
@@ -76,11 +76,11 @@ Indexed users: 700
 | 12 | [hktom](https://github.com/hktom) | Tom Hikari | Congo Kinshasa | 100 |
 | 13 | [valamandar](https://github.com/valamandar) | Vala Mandar | RD Congo, Kinshasa | 90 |
 | 14 | [fdis111](https://github.com/fdis111) | Francois Disubi | Kinshasa Drc | 87 |
-| 15 | [RolandM99](https://github.com/RolandM99) | Roland MN | Kinshasa \| Kigali \| Nairobi | 84 |
-| 16 | [jlmbaka](https://github.com/jlmbaka) | Jean-Louis Mbaka | Kinshasa, DRC | 83 |
+| 15 | [jlmbaka](https://github.com/jlmbaka) | Jean-Louis Mbaka | Kinshasa, DRC | 83 |
+| 16 | [RolandM99](https://github.com/RolandM99) | Roland MN | Kinshasa \| Kigali \| Nairobi | 83 |
 | 17 | [johnmbiya](https://github.com/johnmbiya) | Jean Claude Mbiya | Kinshasa | 72 |
 | 18 | [enigma972](https://github.com/enigma972) | Joel Lusavuvu | Kinshasa, RDCongo  | 71 |
 | 19 | [bolenge](https://github.com/bolenge) | Don de Dieu Bolenge | Congo - Kinshasa | 69 |
 | 20 | [ChrisMwanya](https://github.com/ChrisMwanya) | Chris Mwanya | kinshasa | 69 |
 
-Generated: 2026-10-17T20:37:14.901Z
+Generated: 2026-10-17T22:51:36.899Z

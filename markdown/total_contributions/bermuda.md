@@ -1,6 +1,6 @@
 # Total Contributions - Bermuda
 
-Generated: 2026-10-17T20:25:53.596Z
+Generated: 2026-10-17T22:37:57.230Z
 
 Users: 898
 
@@ -9,8 +9,8 @@ Users: 898
 | 1 | [bokmann](https://github.com/bokmann) | David Bock | @loudouncodes | bokmann | Hamilton, VA | 20678 |
 | 2 | [nahoskins](https://github.com/nahoskins) | Nick Hoskins | @cactus-bm  |  | Bermuda | 13357 |
 | 3 | [kianis4](https://github.com/kianis4) | Suleyman Kiani | SKomp Studio |  | Hamilton, ON | 11121 |
-| 4 | [marc-pelland](https://github.com/marc-pelland) | Marc Pelland |  |  | Hamilton, ON | 10375 |
-| 5 | [xaphod](https://github.com/xaphod) | Tim Carr | Solodigitalis | timcarrphoto | Hamilton ON | 10206 |
+| 4 | [xaphod](https://github.com/xaphod) | Tim Carr | Solodigitalis | timcarrphoto | Hamilton ON | 10462 |
+| 5 | [marc-pelland](https://github.com/marc-pelland) | Marc Pelland |  |  | Hamilton, ON | 10375 |
 | 6 | [PatrickMcLennan](https://github.com/PatrickMcLennan) | Patrick McLennan | Shopify |  | Hamilton, Ontario | 7704 |
 | 7 | [eimaj](https://github.com/eimaj) | Jamie Allen | @Enflick  |  | Hamilton | 7402 |
 | 8 | [brandonpayton](https://github.com/brandonpayton) | Brandon Payton | @Automattic  |  | Hamilton, Indiana | 7381 |

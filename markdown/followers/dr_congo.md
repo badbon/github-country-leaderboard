@@ -1,6 +1,6 @@
 # Followers - DR Congo
 
-Generated: 2026-10-17T20:37:14.901Z
+Generated: 2026-10-17T22:51:36.899Z
 
 Users: 700
 
@@ -20,8 +20,8 @@ Users: 700
 | 12 | [hktom](https://github.com/hktom) | Tom Hikari | Akieni |  | Congo Kinshasa | 100 |
 | 13 | [valamandar](https://github.com/valamandar) | Vala Mandar | @mosala-group  | vala_mandar | RD Congo, Kinshasa | 90 |
 | 14 | [fdis111](https://github.com/fdis111) | Francois Disubi |  |  | Kinshasa Drc | 87 |
-| 15 | [RolandM99](https://github.com/RolandM99) | Roland MN | Reputable Tech Company | ManfulMwez | Kinshasa \| Kigali \| Nairobi | 84 |
-| 16 | [jlmbaka](https://github.com/jlmbaka) | Jean-Louis Mbaka | Kadea | jlmbaka | Kinshasa, DRC | 83 |
+| 15 | [jlmbaka](https://github.com/jlmbaka) | Jean-Louis Mbaka | Kadea | jlmbaka | Kinshasa, DRC | 83 |
+| 16 | [RolandM99](https://github.com/RolandM99) | Roland MN | Reputable Tech Company | ManfulMwez | Kinshasa \| Kigali \| Nairobi | 83 |
 | 17 | [johnmbiya](https://github.com/johnmbiya) | Jean Claude Mbiya | @guidelightfoundation | johnmbiya | Kinshasa | 72 |
 | 18 | [enigma972](https://github.com/enigma972) | Joel Lusavuvu | Lussi | joellusavuvu | Kinshasa, RDCongo  | 71 |
 | 19 | [bolenge](https://github.com/bolenge) | Don de Dieu Bolenge | Dev Artefact | bolenge_ | Congo - Kinshasa | 69 |

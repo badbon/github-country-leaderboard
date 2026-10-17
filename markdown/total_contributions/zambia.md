@@ -1,6 +1,6 @@
 # Total Contributions - Zambia
 
-Generated: 2026-10-17T20:19:08.624Z
+Generated: 2026-10-17T22:27:02.456Z
 
 Users: 1337
 
@@ -16,7 +16,7 @@ Users: 1337
 | 8 | [c00p75](https://github.com/c00p75) | George M'sapenda |  |  | Lusaka, Zambia | 5444 |
 | 9 | [S4INT25](https://github.com/S4INT25) | luckson |  |  | lusaka zambia  | 5309 |
 | 10 | [cacious7](https://github.com/cacious7) | Cacious Siamunyanga | @connexcs  |  | Lusaka, Zambia | 4457 |
-| 11 | [makayi](https://github.com/makayi) | Mbuyu  Makayi | @ChipperCash  | mbuyu_ | Zambia | 4253 |
+| 11 | [makayi](https://github.com/makayi) | Mbuyu  Makayi | @ChipperCash  | mbuyu_ | Zambia | 4289 |
 | 12 | [Acesulfame02](https://github.com/Acesulfame02) | Aaron Masembe |  |  | Lusaka, Lusaka, Zambia | 4247 |
 | 13 | [Jules369-ZM](https://github.com/Jules369-ZM) | JULIUS MARTIN BANDA | ProBase Limited |  | LUSAKA | 3867 |
 | 14 | [barthkapepula](https://github.com/barthkapepula) | Bartholomew Kapepula |  |  | Zambia | 3472 |

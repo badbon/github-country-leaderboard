@@ -66,7 +66,7 @@ Indexed users: 4,663
 | 2 | [Jerga99](https://github.com/Jerga99) | Filip Jerga | Slovakia | 1,182 |
 | 3 | [MartinHeinz](https://github.com/MartinHeinz) | Martin Heinz | Bratislava | 1,110 |
 | 4 | [ResoDev](https://github.com/ResoDev) | Matej Rešetár | Košice, Slovakia | 900 |
-| 5 | [filiphric](https://github.com/filiphric) | Filip Hric | Senec, Slovakia | 709 |
+| 5 | [filiphric](https://github.com/filiphric) | Filip Hric | Senec, Slovakia | 711 |
 | 6 | [janbodnar](https://github.com/janbodnar) | Jan Bodnar | Bratislava | 558 |
 | 7 | [misohu](https://github.com/misohu) | Michal Hucko | Bratislava | 518 |
 | 8 | [radovankavicky](https://github.com/radovankavicky) | Radovan Kavicky | Bratislava, Slovakia | 447 |
@@ -83,4 +83,4 @@ Indexed users: 4,663
 | 19 | [Stiivi](https://github.com/Stiivi) | Stefan Urbanek | Bratislava | 280 |
 | 20 | [haad](https://github.com/haad) | Adam Hamsik | Bratislava Slovakia | 259 |
 
-Generated: 2026-10-17T20:07:35.814Z
+Generated: 2026-10-17T22:10:41.568Z

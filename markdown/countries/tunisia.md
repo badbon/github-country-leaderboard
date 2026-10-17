@@ -14,10 +14,10 @@ Indexed users: 7,173
 |---:|---|---|---|---:|
 | 1 | [haythemgalelem](https://github.com/haythemgalelem) | HAGTIC | Tunisia | 586,955 |
 | 2 | [Mohamed-Amine-Slama](https://github.com/Mohamed-Amine-Slama) |  | Sousse, Tunis  | 31,257 |
-| 3 | [The-iyed](https://github.com/The-iyed) | Sebai Iyed | Tunis, Tunisia | 22,342 |
-| 4 | [thevpc](https://github.com/thevpc) | thevpc | Tunisia | 21,742 |
-| 5 | [labidiaymen](https://github.com/labidiaymen) | Aymen | Tunis, Tunisia | 19,874 |
-| 6 | [urshabib](https://github.com/urshabib) | Habib Lomma | Tunisia | 19,226 |
+| 3 | [urshabib](https://github.com/urshabib) | Habib Lomma | Tunisia | 26,870 |
+| 4 | [The-iyed](https://github.com/The-iyed) | Sebai Iyed | Tunis, Tunisia | 22,342 |
+| 5 | [thevpc](https://github.com/thevpc) | thevpc | Tunisia | 21,742 |
+| 6 | [labidiaymen](https://github.com/labidiaymen) | Aymen | Tunis, Tunisia | 19,874 |
 | 7 | [Nour-yahyaoui](https://github.com/Nour-yahyaoui) | Nour-Yahyaoui | Tunisia | 14,984 |
 | 8 | [MohamedBechirMejri](https://github.com/MohamedBechirMejri) | Mohamed Bechir Mejri | Tunisia | 12,741 |
 | 9 | [ifaouibadi](https://github.com/ifaouibadi) | Badi Ifaoui | Tunisia | 7,694 |
@@ -38,7 +38,7 @@ Indexed users: 7,173
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [haythemgalelem](https://github.com/haythemgalelem) | HAGTIC | Tunisia | 516,063 |
-| 2 | [urshabib](https://github.com/urshabib) | Habib Lomma | Tunisia | 19,226 |
+| 2 | [urshabib](https://github.com/urshabib) | Habib Lomma | Tunisia | 26,870 |
 | 3 | [thevpc](https://github.com/thevpc) | thevpc | Tunisia | 15,723 |
 | 4 | [Nour-yahyaoui](https://github.com/Nour-yahyaoui) | Nour-Yahyaoui | Tunisia | 14,899 |
 | 5 | [labidiaymen](https://github.com/labidiaymen) | Aymen | Tunis, Tunisia | 10,439 |
@@ -83,4 +83,4 @@ Indexed users: 7,173
 | 19 | [zied-snoussi](https://github.com/zied-snoussi) | Zied Snoussi | Tunisia | 522 |
 | 20 | [machour](https://github.com/machour) | Mehdi Achour | Tunisia | 483 |
 
-Generated: 2026-10-17T20:14:05.484Z
+Generated: 2026-10-17T22:20:46.415Z

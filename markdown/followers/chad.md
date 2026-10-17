@@ -1,12 +1,12 @@
 # Followers - Chad
 
-Generated: 2026-10-17T20:31:26.477Z
+Generated: 2026-10-17T22:45:50.053Z
 
 Users: 201
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [Helionux](https://github.com/Helionux) | Deoule-Allah Madjitoloum Heliodore |  |  | Tchad | 196 |
+| 1 | [Helionux](https://github.com/Helionux) | Deoule-Allah Madjitoloum Heliodore |  |  | Tchad | 204 |
 | 2 | [Abdelkerim516](https://github.com/Abdelkerim516) | ABDEL_ABBO | AbboTech |  | N'djamena | 115 |
 | 3 | [Kakaymi10](https://github.com/Kakaymi10) | Moussa |  |  | NDjamena, Chad | 61 |
 | 4 | [adoumouangnamouemmanuel](https://github.com/adoumouangnamouemmanuel) | Emmanuel Adoum | Ashesi University | emmanueladoum | Chad | 25 |

@@ -27,11 +27,11 @@ Indexed users: 4,883
 | 13 | [jorgesolerrr](https://github.com/jorgesolerrr) | Jorge Soler | Guayaquil, Ecuador | 6,539 |
 | 14 | [joffx](https://github.com/joffx) | Joffre Veloz | Ecuador | 6,361 |
 | 15 | [devrchancay](https://github.com/devrchancay) | Ramón Chancay Ortega  | Ecuador, Guayaquil | 6,275 |
-| 16 | [raulidavid](https://github.com/raulidavid) | Raúl Flores | Ecuador | 6,081 |
-| 17 | [Johrespi](https://github.com/Johrespi) | Johann Alejandro Ramírez Espinoza | Guayaquil, Ecuador | 6,048 |
-| 18 | [shaskola](https://github.com/shaskola) | Fernando Ruiz | Ecuador | 5,843 |
-| 19 | [astandre](https://github.com/astandre) | André Herrera | Loja, Ecuador | 5,601 |
-| 20 | [somatechlat](https://github.com/somatechlat) | SomaTech - Bringin Artificiall Intelligence closer to Humans  | Quito | 5,138 |
+| 16 | [franmc01](https://github.com/franmc01) | Francisco | Ecuador | 6,104 |
+| 17 | [raulidavid](https://github.com/raulidavid) | Raúl Flores | Ecuador | 6,081 |
+| 18 | [Johrespi](https://github.com/Johrespi) | Johann Alejandro Ramírez Espinoza | Guayaquil, Ecuador | 6,048 |
+| 19 | [shaskola](https://github.com/shaskola) | Fernando Ruiz | Ecuador | 5,843 |
+| 20 | [astandre](https://github.com/astandre) | André Herrera | Loja, Ecuador | 5,601 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 4,883
 | 19 | [Bryan-Herrera-DEV](https://github.com/Bryan-Herrera-DEV) | Bryan Herrera ~ ርᚱ1ናተᛰ ᚻህᚥተპᚱ | Ecuador | 116 |
 | 20 | [Davichobits](https://github.com/Davichobits) | David Ruiz | Ecuador | 116 |
 
-Generated: 2026-10-17T20:37:47.592Z
+Generated: 2026-10-17T22:51:45.042Z

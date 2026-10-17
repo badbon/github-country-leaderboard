@@ -1,6 +1,6 @@
 # Tanzania
 
-Indexed users: 2,039
+Indexed users: 2,038
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 2,039
 | 19 | [3nock](https://github.com/3nock) | Enock | Dar es Salaam, Tanzania | 188 |
 | 20 | [Mrhanstz](https://github.com/Mrhanstz) | HANSTZ | Africa Dodoma | 179 |
 
-Generated: 2026-10-17T20:11:57.851Z
+Generated: 2026-10-17T22:18:08.493Z

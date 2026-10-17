@@ -28,10 +28,10 @@ Indexed users: 679
 | 14 | [Dreykovic](https://github.com/Dreykovic) | Birewa Audrey AMONA | Togo | 4,464 |
 | 15 | [Rahim10020](https://github.com/Rahim10020) | Rahim ALI | Lome -TOGO | 4,223 |
 | 16 | [Einswilli](https://github.com/Einswilli) | #Einswilli | Lomé | 3,881 |
-| 17 | [Giovidoh](https://github.com/Giovidoh) | ICGreborns | Lomé, Togo | 3,614 |
-| 18 | [Ygryan360](https://github.com/Ygryan360) | Rayane | Lomé, Togo | 3,531 |
-| 19 | [Georginio-prod](https://github.com/Georginio-prod) | Georginio  | lomé-TOGO | 3,521 |
-| 20 | [Le-Sourcier](https://github.com/Le-Sourcier) | Yao David LOGAN | US, TOGO, UK | 3,512 |
+| 17 | [Le-Sourcier](https://github.com/Le-Sourcier) | Yao David LOGAN | US, TOGO, UK | 3,815 |
+| 18 | [Giovidoh](https://github.com/Giovidoh) | ICGreborns | Lomé, Togo | 3,614 |
+| 19 | [Ygryan360](https://github.com/Ygryan360) | Rayane | Lomé, Togo | 3,531 |
+| 20 | [Georginio-prod](https://github.com/Georginio-prod) | Georginio  | lomé-TOGO | 3,521 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 679
 | 19 | [ica1010](https://github.com/ica1010) | Ghislin | Lomé , Togo | 65 |
 | 20 | [Maximekgn](https://github.com/Maximekgn) | KOGON Mawunygan Maxime | Togo | 64 |
 
-Generated: 2026-10-17T20:13:34.117Z
+Generated: 2026-10-17T22:19:19.754Z

@@ -1,6 +1,6 @@
 # Public Contributions - Iceland
 
-Generated: 2026-10-17T20:49:37.016Z
+Generated: 2026-10-17T23:08:32.089Z
 
 Users: 1579
 
@@ -9,7 +9,7 @@ Users: 1579
 | 1 | [odinndagur](https://github.com/odinndagur) | Óðinn Dagur Bjarnason |  |  | Reykjavík, Iceland | 6395 |
 | 2 | [hugithordarson](https://github.com/hugithordarson) | Hugi Thordarson | Góður kóði |  | Rekjavik, Iceland | 5804 |
 | 3 | [smnasiruz016-blip](https://github.com/smnasiruz016-blip) | Sheikh Muhammad Nasir Uz Zaman | almiworld.com |  | iceland | 3953 |
-| 4 | [karirafn](https://github.com/karirafn) | Kári Rafn Karlsson | EFLA |  | Akranes, Iceland | 3568 |
+| 4 | [karirafn](https://github.com/karirafn) | Kári Rafn Karlsson | EFLA |  | Akranes, Iceland | 3577 |
 | 5 | [HermannBjorgvin](https://github.com/HermannBjorgvin) | Hermann Björgvin | JBT Marel |  | Reykjavík, Iceland | 3008 |
 | 6 | [philcockfield](https://github.com/philcockfield) | Phil Cockfield | ƒ → sys → cell → db.team  |  | island( waiheke( nz )) | 2986 |
 | 7 | [Raudbjorn](https://github.com/Raudbjorn) | Sveinbjörn Geirsson | @massif-network  |  | Reykjavik | 2720 |

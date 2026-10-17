@@ -1,6 +1,6 @@
 # Total Contributions - DR Congo
 
-Generated: 2026-10-17T20:37:14.901Z
+Generated: 2026-10-17T22:51:36.899Z
 
 Users: 700
 
@@ -9,8 +9,8 @@ Users: 700
 | 1 | [coolbeatz71](https://github.com/coolbeatz71) | Mutombo Jean-Vincent | B2Tech-Git | coolbeatz71 | Kinshasa, Kigali | 33806 |
 | 2 | [kmdavid3](https://github.com/kmdavid3) | David M. KAYEMBE | kin distribution |  | DR Congo, kinshasa | 19892 |
 | 3 | [Abarchibody](https://github.com/Abarchibody) | Archimede Body | @nevolut  | abarchibody | Kinshasa, DRC | 13382 |
-| 4 | [Bope142](https://github.com/Bope142) | Norbert Le Geek | @nulevices |  | Kinshasa DRC | 9454 |
-| 5 | [JoeM1990](https://github.com/JoeM1990) | Jonathan Monkila  | MonkilaTECH | joemonkila | kinshasa,RDC | 8077 |
+| 4 | [Bope142](https://github.com/Bope142) | Norbert Le Geek | @nulevices |  | Kinshasa DRC | 9414 |
+| 5 | [JoeM1990](https://github.com/JoeM1990) | Jonathan Monkila  | MonkilaTECH | joemonkila | kinshasa,RDC | 8062 |
 | 6 | [Dr-Lab1](https://github.com/Dr-Lab1) | Jonathan Kukwabantu Bahati | Labyrinthe | JoBahati1 | Kinshasa | 7016 |
 | 7 | [Theodorebinda](https://github.com/Theodorebinda) | Theodore SAMBA |  |  | kinshasa | 6932 |
 | 8 | [esaiemuhasa](https://github.com/esaiemuhasa) | Esaie Muhasa | Forge Digitale | esaiemuhasa | Butembo, Congo Kinshasa | 6908 |

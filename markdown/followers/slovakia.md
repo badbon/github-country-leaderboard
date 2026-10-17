@@ -1,6 +1,6 @@
 # Followers - Slovakia
 
-Generated: 2026-10-17T20:07:35.814Z
+Generated: 2026-10-17T22:10:41.568Z
 
 Users: 4663
 
@@ -10,7 +10,7 @@ Users: 4663
 | 2 | [Jerga99](https://github.com/Jerga99) | Filip Jerga | Eincode s.r.o. | filip0x1 | Slovakia | 1182 |
 | 3 | [MartinHeinz](https://github.com/MartinHeinz) | Martin Heinz |  | Martin_Heinz_ | Bratislava | 1110 |
 | 4 | [ResoDev](https://github.com/ResoDev) | Matej Rešetár | @ResoCoder  |  | Košice, Slovakia | 900 |
-| 5 | [filiphric](https://github.com/filiphric) | Filip Hric |  | filip_hric | Senec, Slovakia | 709 |
+| 5 | [filiphric](https://github.com/filiphric) | Filip Hric |  | filip_hric | Senec, Slovakia | 711 |
 | 6 | [janbodnar](https://github.com/janbodnar) | Jan Bodnar |  |  | Bratislava | 558 |
 | 7 | [misohu](https://github.com/misohu) | Michal Hucko | Canonical |  | Bratislava | 518 |
 | 8 | [radovankavicky](https://github.com/radovankavicky) | Radovan Kavicky | GapData Institute | radovankavicky | Bratislava, Slovakia | 447 |

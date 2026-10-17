@@ -1,13 +1,13 @@
 # Total Contributions - Slovenia
 
-Generated: 2026-10-17T20:07:59.943Z
+Generated: 2026-10-17T22:10:50.872Z
 
 Users: 3099
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [itechdom](https://github.com/itechdom) | Osama Alghanmi | Almadar |  | Ljubljana, Slovenia | 32477 |
-| 2 | [Legoless](https://github.com/Legoless) | Dal Rupnik | Unified Sense |  | Slovenia | 16440 |
+| 1 | [Legoless](https://github.com/Legoless) | Dal Rupnik | Unified Sense |  | Slovenia | 37509 |
+| 2 | [itechdom](https://github.com/itechdom) | Osama Alghanmi | Almadar |  | Ljubljana, Slovenia | 32477 |
 | 3 | [Meemaw](https://github.com/Meemaw) | Matej Šnuderl | OpenSea |  | Ljubljana, Slovenia | 16408 |
 | 4 | [bl4ko](https://github.com/bl4ko) | Gasper Oblak | Ljubljana |  | Slovenia | 13573 |
 | 5 | [bobalazek](https://github.com/bobalazek) | Borut Balazek |  |  | Slovenia, Europe | 13109 |
@@ -18,11 +18,11 @@ Users: 3099
 | 10 | [matija2209](https://github.com/matija2209) | Matija Žiberna | We Hate Copy Pasting |  | Slovenia | 10295 |
 | 11 | [tfourj](https://github.com/tfourj) | Taj Tkalec |  |  | Slovenia | 9996 |
 | 12 | [rockoo](https://github.com/rockoo) | Rok Nemet | Fantasyrock |  | Ljubljana, Slovenia | 9726 |
-| 13 | [baadc0de](https://github.com/baadc0de) | Bojan Šernek | @distopik | reactocode | Ljubljana, Slovenia | 8700 |
-| 14 | [pako999](https://github.com/pako999) | Patrik |  | patrikslovenia | Slovenia  | 8682 |
-| 15 | [zprima](https://github.com/zprima) | Primož Žnidar | @poviolabs  |  | Slovenia | 8672 |
-| 16 | [vucinatim](https://github.com/vucinatim) | Tim Vučina | zerodays.dev |  | Ljubljana, Slovenia | 8637 |
-| 17 | [mitjapotocin](https://github.com/mitjapotocin) | Mitja Potočin | Mediately |  | Ljubljana | 8383 |
-| 18 | [dejanstrancar](https://github.com/dejanstrancar) | Dejan Strancar | Mediately |  | Slovenia | 7491 |
-| 19 | [AKzar1el](https://github.com/AKzar1el) | Tommy | Solo | AKzar1el | Ljubljana, Slovenia | 7042 |
-| 20 | [omeratagunn](https://github.com/omeratagunn) | Ömer Atagün | SAP | OmerAtagun | Slovenia | 6861 |
+| 13 | [tfius](https://github.com/tfius) | Tadej Fius | MediaAtlas |  | Slovenia | 8723 |
+| 14 | [baadc0de](https://github.com/baadc0de) | Bojan Šernek | @distopik | reactocode | Ljubljana, Slovenia | 8700 |
+| 15 | [pako999](https://github.com/pako999) | Patrik |  | patrikslovenia | Slovenia  | 8682 |
+| 16 | [zprima](https://github.com/zprima) | Primož Žnidar | @poviolabs  |  | Slovenia | 8672 |
+| 17 | [vucinatim](https://github.com/vucinatim) | Tim Vučina | zerodays.dev |  | Ljubljana, Slovenia | 8637 |
+| 18 | [mitjapotocin](https://github.com/mitjapotocin) | Mitja Potočin | Mediately |  | Ljubljana | 8383 |
+| 19 | [dejanstrancar](https://github.com/dejanstrancar) | Dejan Strancar | Mediately |  | Slovenia | 7491 |
+| 20 | [AKzar1el](https://github.com/AKzar1el) | Tommy | Solo | AKzar1el | Ljubljana, Slovenia | 7042 |

@@ -13,15 +13,15 @@ Indexed users: 3,301
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [ibernabel](https://github.com/ibernabel) | Idequel Bernabel | Dominican Republic | 16,414 |
-| 2 | [josuegrullon](https://github.com/josuegrullon) | Josue Grullon  | Dominican Republic | 12,774 |
-| 3 | [kaioken](https://github.com/kaioken) | Max Castro | Dominican Republic | 12,671 |
-| 4 | [jflerime314](https://github.com/jflerime314) | Joseph Angelo Flerimé | Dominican Republic | 11,312 |
-| 5 | [deuriib](https://github.com/deuriib) | Deuri Vasquez | Santo Domingo, R. D. | 10,542 |
-| 6 | [0x-Crisbanks](https://github.com/0x-Crisbanks) | Crisbanks | Dominican Republic  | 9,538 |
-| 7 | [emilsosa](https://github.com/emilsosa) | Emil Sosa | Dominican Republic | 8,906 |
-| 8 | [Urpirio](https://github.com/Urpirio) | UrpirioDev | Dominican Republic  | 8,607 |
-| 9 | [everylisting](https://github.com/everylisting) | Philippe Roy | Dominican-Republic | 8,493 |
-| 10 | [cervantesh](https://github.com/cervantesh) | Cervantes Hernandez | Dominican Republic | 7,804 |
+| 2 | [cervantesh](https://github.com/cervantesh) | Cervantes Hernandez | Dominican Republic | 13,089 |
+| 3 | [josuegrullon](https://github.com/josuegrullon) | Josue Grullon  | Dominican Republic | 12,774 |
+| 4 | [kaioken](https://github.com/kaioken) | Max Castro | Dominican Republic | 12,671 |
+| 5 | [jflerime314](https://github.com/jflerime314) | Joseph Angelo Flerimé | Dominican Republic | 11,312 |
+| 6 | [deuriib](https://github.com/deuriib) | Deuri Vasquez | Santo Domingo, R. D. | 10,542 |
+| 7 | [0x-Crisbanks](https://github.com/0x-Crisbanks) | Crisbanks | Dominican Republic  | 9,538 |
+| 8 | [emilsosa](https://github.com/emilsosa) | Emil Sosa | Dominican Republic | 8,906 |
+| 9 | [Urpirio](https://github.com/Urpirio) | UrpirioDev | Dominican Republic  | 8,607 |
+| 10 | [everylisting](https://github.com/everylisting) | Philippe Roy | Dominican-Republic | 8,493 |
 | 11 | [elminson](https://github.com/elminson) | Elminson De Oleo Baez | Santo Domingo, Dominican Republic | 7,675 |
 | 12 | [Zyruks](https://github.com/Zyruks) | Samuel Llibre-Pillco | Dominican Republic | 7,147 |
 | 13 | [wcontreras](https://github.com/wcontreras) | Williams Contreras | Dominican Republic, Santo Domingo | 7,121 |
@@ -40,7 +40,7 @@ Indexed users: 3,301
 | 1 | [kaioken](https://github.com/kaioken) | Max Castro | Dominican Republic | 11,393 |
 | 2 | [dkropachev](https://github.com/dkropachev) | Dmitry Kropachev | Dominican Republic | 6,784 |
 | 3 | [Bebell-Digital-Solutions](https://github.com/Bebell-Digital-Solutions) | Bebell Digital Solutions 🚀 | Dominican Republic | 5,554 |
-| 4 | [cervantesh](https://github.com/cervantesh) | Cervantes Hernandez | Dominican Republic | 3,848 |
+| 4 | [cervantesh](https://github.com/cervantesh) | Cervantes Hernandez | Dominican Republic | 4,007 |
 | 5 | [Portegaperalta](https://github.com/Portegaperalta) | pablortega | Santo Domingo, Dominican Republic | 3,159 |
 | 6 | [ubercylon8](https://github.com/ubercylon8) | James Pichardo | Dominican Republic | 3,034 |
 | 7 | [xNeuNoRo](https://github.com/xNeuNoRo) | Ángel González Muñoz | Dominican Republic | 2,552 |
@@ -83,4 +83,4 @@ Indexed users: 3,301
 | 19 | [eatskolnikov](https://github.com/eatskolnikov) | Enmanuel Toribio | Dominican Republic | 149 |
 | 20 | [adonismendozaperez](https://github.com/adonismendozaperez) | Adonis Mendoza  | Dominican Republic | 117 |
 
-Generated: 2026-10-17T20:37:08.336Z
+Generated: 2026-10-17T22:51:31.798Z

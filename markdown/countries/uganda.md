@@ -1,6 +1,6 @@
 # Uganda
 
-Indexed users: 3,868
+Indexed users: 3,867
 
 | Leaderboard | Link |
 |---|---|
@@ -24,14 +24,14 @@ Indexed users: 3,868
 | 10 | [MUKE-coder](https://github.com/MUKE-coder) | MUKE JOHNBAPTIST | KAMPALA -UGANDA | 9,513 |
 | 11 | [GenoJ83](https://github.com/GenoJ83) | Geno Joshua | Kampala | 9,133 |
 | 12 | [engWafula](https://github.com/engWafula) | Wafula Allan  Isaac | kampala | 9,056 |
-| 13 | [baliddeki](https://github.com/baliddeki) | Aliddeki Mulindwa Bryan | Kampala, Uganda | 9,028 |
-| 14 | [Mugamba669](https://github.com/Mugamba669) | Mugamba669 | Kampala, Uganda | 7,995 |
-| 15 | [KansiimeKenie](https://github.com/KansiimeKenie) | Kansiime Keneth | kampala, Ug | 7,957 |
-| 16 | [GaspardKirira](https://github.com/GaspardKirira) | G-kirira | Africa / Uganda / Kampala | 7,825 |
-| 17 | [baliksjosay](https://github.com/baliksjosay) | Joseph Balikuddembe | Kampala, uganda | 7,753 |
-| 18 | [judeotine](https://github.com/judeotine) | Judeotine | Uganda | 7,440 |
-| 19 | [sharif-smj](https://github.com/sharif-smj) | SHARIF | Kampala Uganda | 7,365 |
-| 20 | [cosmah](https://github.com/cosmah) | cosmah | kampala, Uganda | 7,177 |
+| 13 | [raheebwa](https://github.com/raheebwa) | Ramadhan Aheebwa | Kampala, Uganda | 9,040 |
+| 14 | [baliddeki](https://github.com/baliddeki) | Aliddeki Mulindwa Bryan | Kampala, Uganda | 9,028 |
+| 15 | [Mugamba669](https://github.com/Mugamba669) | Mugamba669 | Kampala, Uganda | 7,995 |
+| 16 | [KansiimeKenie](https://github.com/KansiimeKenie) | Kansiime Keneth | kampala, Ug | 7,957 |
+| 17 | [GaspardKirira](https://github.com/GaspardKirira) | G-kirira | Africa / Uganda / Kampala | 7,825 |
+| 18 | [baliksjosay](https://github.com/baliksjosay) | Joseph Balikuddembe | Kampala, uganda | 7,753 |
+| 19 | [judeotine](https://github.com/judeotine) | Judeotine | Uganda | 7,440 |
+| 20 | [sharif-smj](https://github.com/sharif-smj) | SHARIF | Kampala Uganda | 7,365 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 3,868
 | 19 | [kallyas](https://github.com/kallyas) | Iden | Uganda | 190 |
 | 20 | [FahimWeblogicAndCyberTechnologies](https://github.com/FahimWeblogicAndCyberTechnologies) | FRANKLIN | Uganda | 186 |
 
-Generated: 2026-10-17T20:15:36.569Z
+Generated: 2026-10-17T22:22:48.797Z

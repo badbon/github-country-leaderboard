@@ -12,8 +12,8 @@ Indexed users: 263
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [DialloYoussef](https://github.com/DialloYoussef) | Youssouf | Guinée, Conakry, GN | 7,912 |
-| 2 | [Morymirco](https://github.com/Morymirco) | Mory Mirco Koulibaly | Conakry,Guinéé | 7,244 |
+| 1 | [DialloYoussef](https://github.com/DialloYoussef) | Youssouf | Guinée, Conakry, GN | 7,889 |
+| 2 | [Morymirco](https://github.com/Morymirco) | Mory Mirco Koulibaly | Conakry,Guinéé | 7,245 |
 | 3 | [koulibalyamadou10](https://github.com/koulibalyamadou10) | Koulibaly | Conakry | 6,637 |
 | 4 | [korbonya](https://github.com/korbonya) | Mamadou Alpha Baldé | Conakry | 6,502 |
 | 5 | [GYOM15](https://github.com/GYOM15) | Guy Olivier Millimouno | Guinea/Conakry | 3,714 |
@@ -53,9 +53,9 @@ Indexed users: 263
 | 14 | [EORBAH](https://github.com/EORBAH) | EOR_BAH545 | Guinea Conakry | 154 |
 | 15 | [elhadjmamadou](https://github.com/elhadjmamadou) | Elhadj Mamadou Diallo | Guinee, conakry | 149 |
 | 16 | [Abel-sangare](https://github.com/Abel-sangare) |  | Conakry | 129 |
-| 17 | [Kourahoye](https://github.com/Kourahoye) | Amadou Kourahoye | Conakry | 122 |
-| 18 | [Skjnior](https://github.com/Skjnior) | Rj_45 | Guinea | 118 |
-| 19 | [Keira224](https://github.com/Keira224) | Ousmane Keira  | Guinée, Conakry | 115 |
+| 17 | [Skjnior](https://github.com/Skjnior) | Rj_45 | Guinea | 118 |
+| 18 | [Keira224](https://github.com/Keira224) | Ousmane Keira  | Guinée, Conakry | 115 |
+| 19 | [Kourahoye](https://github.com/Kourahoye) | Amadou Kourahoye | Conakry | 109 |
 | 20 | [ouberete](https://github.com/ouberete) | Oumar BERETE | Conakry | 101 |
 
 ## Followers
@@ -77,10 +77,10 @@ Indexed users: 263
 | 13 | [mrrootc](https://github.com/mrrootc) | Abdoulaye Camara | Guinea, Conakry | 25 |
 | 14 | [TheBlackDude](https://github.com/TheBlackDude) | Ousmane Seidy Diallo | Guinea, Conakry | 24 |
 | 15 | [thebestofAKB](https://github.com/thebestofAKB) | Abdoul Karim Baldé | Conakry, Guinea | 23 |
-| 16 | [mamadou6c](https://github.com/mamadou6c) | Mamadou | Guinea | 21 |
+| 16 | [mamadou6c](https://github.com/mamadou6c) | Mamadou | Guinea | 20 |
 | 17 | [massazoum](https://github.com/massazoum) | Massa Zoumanigui | Guinea | 20 |
 | 18 | [Ibrahima2487](https://github.com/Ibrahima2487) | Ibrahima Sory Diallo | Guinée, Conakry | 14 |
 | 19 | [fouzo09](https://github.com/fouzo09) | Mafouz DIALLO | Guinée, conakry | 13 |
 | 20 | [koulibalyamadou10](https://github.com/koulibalyamadou10) | Koulibaly | Conakry | 13 |
 
-Generated: 2026-10-17T20:47:20.449Z
+Generated: 2026-10-17T23:06:16.908Z

@@ -1,6 +1,6 @@
 # Total Contributions - Ecuador
 
-Generated: 2026-10-17T20:37:47.592Z
+Generated: 2026-10-17T22:51:45.042Z
 
 Users: 4883
 
@@ -21,8 +21,8 @@ Users: 4883
 | 13 | [jorgesolerrr](https://github.com/jorgesolerrr) | Jorge Soler |  |  | Guayaquil, Ecuador | 6539 |
 | 14 | [joffx](https://github.com/joffx) | Joffre Veloz | @fasterydev  |  | Ecuador | 6361 |
 | 15 | [devrchancay](https://github.com/devrchancay) | Ramón Chancay Ortega  | @desarol | devrchancay | Ecuador, Guayaquil | 6275 |
-| 16 | [raulidavid](https://github.com/raulidavid) | Raúl Flores | Jiban Advanced Systems |  | Ecuador | 6081 |
-| 17 | [Johrespi](https://github.com/Johrespi) | Johann Alejandro Ramírez Espinoza |  |  | Guayaquil, Ecuador | 6048 |
-| 18 | [shaskola](https://github.com/shaskola) | Fernando Ruiz | UXNodes | shasko | Ecuador | 5843 |
-| 19 | [astandre](https://github.com/astandre) | André Herrera | CondorSoft |  | Loja, Ecuador | 5601 |
-| 20 | [somatechlat](https://github.com/somatechlat) | SomaTech - Bringin Artificiall Intelligence closer to Humans  | Somatech  |  | Quito | 5138 |
+| 16 | [franmc01](https://github.com/franmc01) | Francisco | Katarion |  | Ecuador | 6104 |
+| 17 | [raulidavid](https://github.com/raulidavid) | Raúl Flores | Jiban Advanced Systems |  | Ecuador | 6081 |
+| 18 | [Johrespi](https://github.com/Johrespi) | Johann Alejandro Ramírez Espinoza |  |  | Guayaquil, Ecuador | 6048 |
+| 19 | [shaskola](https://github.com/shaskola) | Fernando Ruiz | UXNodes | shasko | Ecuador | 5843 |
+| 20 | [astandre](https://github.com/astandre) | André Herrera | CondorSoft |  | Loja, Ecuador | 5601 |
