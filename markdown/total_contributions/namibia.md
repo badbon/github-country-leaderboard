@@ -1,6 +1,6 @@
 # Total Contributions - Namibia
 
-Generated: 2026-10-17T06:29:10.674Z
+Generated: 2026-10-17T07:45:17.056Z
 
 Users: 475
 
@@ -15,8 +15,8 @@ Users: 475
 | 7 | [rvs1257](https://github.com/rvs1257) | Rudi Steinbach |  |  | Namibia | 6062 |
 | 8 | [axelmukwena](https://github.com/axelmukwena) | Axel Mukwena | @nzzdev @meyabase @silosset | axelmukwena | Namibia | 5223 |
 | 9 | [frans-nekongo](https://github.com/frans-nekongo) | frans nekongo | @Absynth-Tech  |  | namibia,Africa | 4538 |
-| 10 | [codezilla91](https://github.com/codezilla91) | Leon CodeZilla Matota | Cyberdyne Investments cc | SirLeon14 | Namibia, Windhoek | 3176 |
-| 11 | [holgarkotze-commits](https://github.com/holgarkotze-commits) | STITCH WORX INC. | STITCH WORX |  | NAMIBIA | 3133 |
+| 10 | [holgarkotze-commits](https://github.com/holgarkotze-commits) | STITCH WORX INC. | STITCH WORX |  | NAMIBIA | 3611 |
+| 11 | [codezilla91](https://github.com/codezilla91) | Leon CodeZilla Matota | Cyberdyne Investments cc | SirLeon14 | Namibia, Windhoek | 3176 |
 | 12 | [rtonata88](https://github.com/rtonata88) | Richard Chambula | University of Namibia | rtonata | Windhoek, Namibia | 2924 |
 | 13 | [mtjikuzu](https://github.com/mtjikuzu) | Mbaunguraije Tjikuzu | Namibia University of Science and Technology |  | Windhoek, Namibia | 2671 |
 | 14 | [rolandihms](https://github.com/rolandihms) | ihms | @ihms-co  | rolandihms | Swakopmund, Namibia | 2433 |

@@ -26,7 +26,7 @@ Indexed users: 1,532
 | 12 | [chrisrodz](https://github.com/chrisrodz) | Christian A. Rodriguez | San Juan, PR | 7,027 |
 | 13 | [brettheap](https://github.com/brettheap) | Brett Heap | Puerto Rico | 6,739 |
 | 14 | [shawntabrizi](https://github.com/shawntabrizi) | Shawn Tabrizi | Puerto Rico | 6,569 |
-| 15 | [Wolfkid200444](https://github.com/Wolfkid200444) | Wolfie | Puerto Rico | 6,253 |
+| 15 | [Wolfkid200444](https://github.com/Wolfkid200444) | Wolfie | Puerto Rico | 6,312 |
 | 16 | [egmtm](https://github.com/egmtm) | EGM™ | Puerto Rico | 5,875 |
 | 17 | [torlanco](https://github.com/torlanco) | Francisco Tirado | San juan, Puerto Rico | 5,843 |
 | 18 | [grpecunia](https://github.com/grpecunia) | Gustavo Rivera Pecunia | San Juan, PR | 5,795 |
@@ -42,7 +42,7 @@ Indexed users: 1,532
 | 3 | [bpamiri](https://github.com/bpamiri) | Peter Amiri | San Juan Capistrano, CA | 9,824 |
 | 4 | [brettheap](https://github.com/brettheap) | Brett Heap | Puerto Rico | 6,739 |
 | 5 | [egmtm](https://github.com/egmtm) | EGM™ | Puerto Rico | 5,872 |
-| 6 | [Wolfkid200444](https://github.com/Wolfkid200444) | Wolfie | Puerto Rico | 4,798 |
+| 6 | [Wolfkid200444](https://github.com/Wolfkid200444) | Wolfie | Puerto Rico | 4,851 |
 | 7 | [edwardlthompson](https://github.com/edwardlthompson) | Edward Thompson | Puerto Rico | 3,411 |
 | 8 | [rnegron](https://github.com/rnegron) | Raúl Negrón-Otero | Bayamón, Puerto Rico | 3,100 |
 | 9 | [shawntabrizi](https://github.com/shawntabrizi) | Shawn Tabrizi | Puerto Rico | 2,993 |
@@ -83,4 +83,4 @@ Indexed users: 1,532
 | 19 | [rnegron](https://github.com/rnegron) | Raúl Negrón-Otero | Bayamón, Puerto Rico | 113 |
 | 20 | [hackingbutlegal](https://github.com/hackingbutlegal) | Jackie Singh | San Juan, PR | 107 |
 
-Generated: 2026-10-17T06:36:51.402Z
+Generated: 2026-10-17T07:53:39.896Z

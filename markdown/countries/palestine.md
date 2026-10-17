@@ -45,7 +45,7 @@ Indexed users: 2,197
 | 6 | [Tojan-Naiem](https://github.com/Tojan-Naiem) | Tojan | Palestine | 1,562 |
 | 7 | [darxx03eh](https://github.com/darxx03eh) | Mahmoud Darawsheh | Nablus, Palestine | 1,531 |
 | 8 | [Maryam-Skaik](https://github.com/Maryam-Skaik) | Maryam Skaik | Gaza, Palestine | 1,436 |
-| 9 | [AlaaArmoush](https://github.com/AlaaArmoush) | Alaa Armoush | Nablus, Palestine | 1,014 |
+| 9 | [AlaaArmoush](https://github.com/AlaaArmoush) | Alaa Armoush | Nablus, Palestine | 1,030 |
 | 10 | [hayasam](https://github.com/hayasam) | Haya Samaana | Palestine | 992 |
 | 11 | [fjcj0](https://github.com/fjcj0) | 𝓞𝓜𝓐𝓡 𝓒𝓞𝓓𝓘𝓝𝓖🐉 | Palestine,Ramallah | 982 |
 | 12 | [hussainabuhajjaj](https://github.com/hussainabuhajjaj) | Hussain abu hajjaj | Palestine  | 979 |
@@ -83,4 +83,4 @@ Indexed users: 2,197
 | 19 | [dalia2323](https://github.com/dalia2323) |  | Qalqilya, Palestine | 127 |
 | 20 | [mhmdio](https://github.com/mhmdio) | Mohammed Almusaddar | Gaza, Palestine | 125 |
 
-Generated: 2026-10-17T06:34:39.852Z
+Generated: 2026-10-17T07:49:57.391Z

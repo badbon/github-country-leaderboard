@@ -1,12 +1,12 @@
 # Public Contributions - Myanmar
 
-Generated: 2026-10-17T06:29:05.639Z
+Generated: 2026-10-17T07:45:12.073Z
 
 Users: 2057
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [nyeinkokoaung404](https://github.com/nyeinkokoaung404) | i AM 404 |  |  | Myanmar | 6627 |
+| 1 | [nyeinkokoaung404](https://github.com/nyeinkokoaung404) | i AM 404 |  |  | Myanmar | 6481 |
 | 2 | [MinThutaSawNaing](https://github.com/MinThutaSawNaing) | Min Thuta Saw Naing Eric | Myanmar Golden Rock International |  | Myanmar/ Singapore | 3316 |
 | 3 | [thesithunyein](https://github.com/thesithunyein) | SITHU NYEIN |  | thesithunyein | Yangon, Myanmar | 2822 |
 | 4 | [peterlianpi](https://github.com/peterlianpi) | Peter |  | peterlianpi | Myanmar | 2590 |
@@ -16,13 +16,13 @@ Users: 2057
 | 8 | [MoeThetKhine](https://github.com/MoeThetKhine) | Moe Thet Khine |  |  | Yangon,Myanmar | 1367 |
 | 9 | [sannlynnhtun-coding](https://github.com/sannlynnhtun-coding) | Sann Lynn Htun | ACE Data Systems | burma_collin | Yangon, Myanmar | 1268 |
 | 10 | [yoonpyae](https://github.com/yoonpyae) | Yoon Pyae Eain  |  |  | Yangon, Myanmar | 1240 |
-| 11 | [wintkhantlin](https://github.com/wintkhantlin) | Wint Khant Lin |  | Happer64Bit | Myanmar, Yangon, Shwe Pyi Thar | 1175 |
-| 12 | [thaw98](https://github.com/thaw98) | Pyae Phyo Thaw | ACE Data Systems |  | Myanmar | 1071 |
-| 13 | [aungkoman](https://github.com/aungkoman) | Aung Ko Man |  | aungkoman | Mandalay,Myanmar | 1048 |
-| 14 | [SaingHmineTun](https://github.com/SaingHmineTun) | Sai Saing Hmine Tun | TMK Group | SaingHmineTun2 | Muse, Shan State, Myanmar | 1037 |
-| 15 | [acehidan](https://github.com/acehidan) | Aung Aung Oo | OTAS Tech Solutions |  | Myanmar | 1032 |
-| 16 | [mrmyothet](https://github.com/mrmyothet) | MyoThet | @solidplm  |  | Yangon, Myanmar | 1030 |
-| 17 | [TaoMonLae](https://github.com/TaoMonLae) |  |  |  | Myanmar | 1017 |
-| 18 | [agrogers](https://github.com/agrogers) | Andrew Rogers |  |  | Yangon, Myanmar | 1010 |
-| 19 | [phothinmg](https://github.com/phothinmg) | Pho Thin Maung |  |  | Myanmar | 1006 |
-| 20 | [thanthtooaung-coding](https://github.com/thanthtooaung-coding) | Thant Htoo Aung | Laconic | VinnnDev | Yangon, Myanmar | 1001 |
+| 11 | [thanthtooaung-coding](https://github.com/thanthtooaung-coding) | Thant Htoo Aung | Laconic | VinnnDev | Yangon, Myanmar | 1224 |
+| 12 | [wintkhantlin](https://github.com/wintkhantlin) | Wint Khant Lin |  | Happer64Bit | Myanmar, Yangon, Shwe Pyi Thar | 1175 |
+| 13 | [thaw98](https://github.com/thaw98) | Pyae Phyo Thaw | ACE Data Systems |  | Myanmar | 1071 |
+| 14 | [aungkoman](https://github.com/aungkoman) | Aung Ko Man |  | aungkoman | Mandalay,Myanmar | 1048 |
+| 15 | [SaingHmineTun](https://github.com/SaingHmineTun) | Sai Saing Hmine Tun | TMK Group | SaingHmineTun2 | Muse, Shan State, Myanmar | 1037 |
+| 16 | [acehidan](https://github.com/acehidan) | Aung Aung Oo | OTAS Tech Solutions |  | Myanmar | 1032 |
+| 17 | [mrmyothet](https://github.com/mrmyothet) | MyoThet | @solidplm  |  | Yangon, Myanmar | 1030 |
+| 18 | [TaoMonLae](https://github.com/TaoMonLae) |  |  |  | Myanmar | 1017 |
+| 19 | [agrogers](https://github.com/agrogers) | Andrew Rogers |  |  | Yangon, Myanmar | 1010 |
+| 20 | [phothinmg](https://github.com/phothinmg) | Pho Thin Maung |  |  | Myanmar | 1006 |

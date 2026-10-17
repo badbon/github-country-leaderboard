@@ -1,6 +1,6 @@
 # Public Contributions - Mauritania
 
-Generated: 2026-10-17T06:26:16.686Z
+Generated: 2026-10-17T07:40:40.540Z
 
 Users: 289
 
@@ -11,7 +11,7 @@ Users: 289
 | 3 | [LhacenMed](https://github.com/LhacenMed) | Lhacen Med |  |  | Nouakchott, Mauritania | 868 |
 | 4 | [sidihmety](https://github.com/sidihmety) | SIDI HMETY | ACPEC SARL |  | Nouakchott | 673 |
 | 5 | [Th3-attacker](https://github.com/Th3-attacker) | Elhadj Malick Ndiaye | Next Technology | 3lh_j | Nouakchott-Mauritanie | 672 |
-| 6 | [visola777](https://github.com/visola777) | visola777 |  |  | Mauritania | 658 |
+| 6 | [visola777](https://github.com/visola777) | visola777 |  |  | Mauritania | 656 |
 | 7 | [AbdellahiAhmed](https://github.com/AbdellahiAhmed) | Abdellahi Ahmed |  |  | Nouakchott | 527 |
 | 8 | [12ahm-c](https://github.com/12ahm-c) | ahmed ismail | supnum |  | Mauritania  | 403 |
 | 9 | [sidi-maadh](https://github.com/sidi-maadh) |  Sidi Maadh |  | SidiMaadh | Nouakchott | 378 |
@@ -23,6 +23,6 @@ Users: 289
 | 15 | [AymanMady](https://github.com/AymanMady) | Bechir Mady (octopus) | Awlyg tech |  | Nouakchott Mauritania | 207 |
 | 16 | [Hashimi01](https://github.com/Hashimi01) | Hashimi El Hashimi | @IBTIKAR-Technologies  |  | Nouakchott, Mauritania | 207 |
 | 17 | [ghalass](https://github.com/ghalass) | MED SALEM GHALASS |  |  | Mauritania | 205 |
-| 18 | [LeminEly](https://github.com/LeminEly) | Lemin |  SupNum |  | Mauritania | 188 |
+| 18 | [LeminEly](https://github.com/LeminEly) | Lemin |  SupNum |  | Mauritania | 185 |
 | 19 | [saeedbark](https://github.com/saeedbark) | saeedbark |  |  | mauritania | 177 |
 | 20 | [medmahmoudhdaya](https://github.com/medmahmoudhdaya) | med mahmoud hdaya |  |  | nouakchott mauritania | 174 |

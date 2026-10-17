@@ -13,13 +13,13 @@ Indexed users: 113
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [oscardvs](https://github.com/oscardvs) | Oscar Devos | Liechtenstein | 5,644 |
-| 2 | [bernhardw](https://github.com/bernhardw) | Bernhard Wanger | Vaduz, Liechtenstein | 4,568 |
+| 2 | [bernhardw](https://github.com/bernhardw) | Bernhard Wanger | Vaduz, Liechtenstein | 4,574 |
 | 3 | [tnaescher](https://github.com/tnaescher) | T. Näscher | Liechtenstein | 4,312 |
 | 4 | [msanft](https://github.com/msanft) | Moritz Sanft | Liechtenstein | 2,911 |
 | 5 | [PhilippHGerber](https://github.com/PhilippHGerber) | Philipp H. Gerber | Liechtenstein | 2,605 |
 | 6 | [ColinFrick](https://github.com/ColinFrick) | Colin Frick | Liechtenstein | 2,541 |
 | 7 | [AHaldner](https://github.com/AHaldner) | Andrin Haldner | Liechtenstein | 1,848 |
-| 8 | [marsop](https://github.com/marsop) | Alberto Gregorio | Ruggell, Liechtenstein | 1,689 |
+| 8 | [marsop](https://github.com/marsop) | Alberto Gregorio | Ruggell, Liechtenstein | 1,690 |
 | 9 | [niklasfrick](https://github.com/niklasfrick) | Niklas Frick | Liechtenstein | 1,254 |
 | 10 | [iwhp](https://github.com/iwhp) | Harry Pfleger | Liechtenstein | 754 |
 | 11 | [masteradhoc](https://github.com/masteradhoc) | Brian | Liechtenstein | 741 |
@@ -28,8 +28,8 @@ Indexed users: 113
 | 14 | [wol-fi](https://github.com/wol-fi) | Wolfgang Schadner | Liechtenstein | 332 |
 | 15 | [xGreeny](https://github.com/xGreeny) | Flurin | Liechtenstein | 329 |
 | 16 | [anonymouslyanonymous1](https://github.com/anonymouslyanonymous1) | Anonymously Anonymous | Liechtenstein | 309 |
-| 17 | [anondotli](https://github.com/anondotli) | anon.li | Liechtenstein | 301 |
-| 18 | [FeeJai](https://github.com/FeeJai) | Felix Jankowski | Liechtenstein | 300 |
+| 17 | [FeeJai](https://github.com/FeeJai) | Felix Jankowski | Liechtenstein | 309 |
+| 18 | [anondotli](https://github.com/anondotli) | anon.li | Liechtenstein | 301 |
 | 19 | [ColinFL](https://github.com/ColinFL) |  | Liechtenstein | 268 |
 | 20 | [catbears](https://github.com/catbears) |  | Eschen, Liechtenstein | 166 |
 
@@ -38,7 +38,7 @@ Indexed users: 113
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [oscardvs](https://github.com/oscardvs) | Oscar Devos | Liechtenstein | 1,932 |
-| 2 | [marsop](https://github.com/marsop) | Alberto Gregorio | Ruggell, Liechtenstein | 1,689 |
+| 2 | [marsop](https://github.com/marsop) | Alberto Gregorio | Ruggell, Liechtenstein | 1,690 |
 | 3 | [niklasfrick](https://github.com/niklasfrick) | Niklas Frick | Liechtenstein | 1,254 |
 | 4 | [iwhp](https://github.com/iwhp) | Harry Pfleger | Liechtenstein | 754 |
 | 5 | [masteradhoc](https://github.com/masteradhoc) | Brian | Liechtenstein | 658 |
@@ -70,9 +70,9 @@ Indexed users: 113
 | 6 | [Hujun](https://github.com/Hujun) | HJ | Vaduz | 30 |
 | 7 | [danheron](https://github.com/danheron) | Dan Heron | Liechtenstein | 29 |
 | 8 | [masteradhoc](https://github.com/masteradhoc) | Brian | Liechtenstein | 29 |
-| 9 | [marsop](https://github.com/marsop) | Alberto Gregorio | Ruggell, Liechtenstein | 22 |
-| 10 | [ColinFrick](https://github.com/ColinFrick) | Colin Frick | Liechtenstein | 21 |
-| 11 | [TOLDOTECHNIK](https://github.com/TOLDOTECHNIK) |  | Vaduz | 21 |
+| 9 | [ColinFrick](https://github.com/ColinFrick) | Colin Frick | Liechtenstein | 21 |
+| 10 | [TOLDOTECHNIK](https://github.com/TOLDOTECHNIK) |  | Vaduz | 21 |
+| 11 | [marsop](https://github.com/marsop) | Alberto Gregorio | Ruggell, Liechtenstein | 20 |
 | 12 | [wol-fi](https://github.com/wol-fi) | Wolfgang Schadner | Liechtenstein | 18 |
 | 13 | [InsurePal](https://github.com/InsurePal) | VouchForMe | Vaduz | 17 |
 | 14 | [anonymouslyanonymous1](https://github.com/anonymouslyanonymous1) | Anonymously Anonymous | Liechtenstein | 16 |
@@ -83,4 +83,4 @@ Indexed users: 113
 | 19 | [PhilippHGerber](https://github.com/PhilippHGerber) | Philipp H. Gerber | Liechtenstein | 14 |
 | 20 | [niklasfrick](https://github.com/niklasfrick) | Niklas Frick | Liechtenstein | 12 |
 
-Generated: 2026-10-17T06:22:51.813Z
+Generated: 2026-10-17T07:37:51.272Z

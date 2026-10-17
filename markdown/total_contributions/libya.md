@@ -1,6 +1,6 @@
 # Total Contributions - Libya
 
-Generated: 2026-10-17T06:22:15.247Z
+Generated: 2026-10-17T07:37:48.533Z
 
 Users: 741
 
@@ -16,13 +16,13 @@ Users: 741
 | 8 | [Tellesy](https://github.com/Tellesy) | blueMu | @neptune-ly  |  | Tripoli, Libya | 9193 |
 | 9 | [radwan-77](https://github.com/radwan-77) | RADWAN |  |  | Libya | 8342 |
 | 10 | [GaafarBBK](https://github.com/GaafarBBK) | Mohamed Gaafar |  |  | Libya | 7824 |
-| 11 | [Elsheshtawwy](https://github.com/Elsheshtawwy) | Badr Elsheshtawy |  | El_Sheshtawwy | Benghazi, Libya 🇱🇾 | 6865 |
+| 11 | [Elsheshtawwy](https://github.com/Elsheshtawwy) | Badr Elsheshtawy |  | El_Sheshtawwy | Benghazi, Libya 🇱🇾 | 7445 |
 | 12 | [Salehahmedeus](https://github.com/Salehahmedeus) | Ahmed Saleh |  |  | Libya | 6768 |
 | 13 | [EngGharbia](https://github.com/EngGharbia) | Abdurraouf Ben Gharbia |  |  | Tripoli, Libya | 6197 |
 | 14 | [swe-sanad](https://github.com/swe-sanad) | Sanad AlArousi | Software Pioneers |  | Zawia, Libya | 6136 |
 | 15 | [almontasser](https://github.com/almontasser) | Mahmoud Almontasser | Lamah |  | Misurata, Libya | 6132 |
-| 16 | [x414i](https://github.com/x414i) | Mohamed S. Belaid |  |  | Libya/Misrata | 6041 |
+| 16 | [x414i](https://github.com/x414i) | Mohamed S. Belaid |  |  | Libya/Misrata | 6042 |
 | 17 | [Flat-Duck](https://github.com/Flat-Duck) | A.Mahidwei | Bithive | AMahidwei | Libya | 5968 |
 | 18 | [AliAgela-dev](https://github.com/AliAgela-dev) | Ali Agela |  |  | Libya | 5525 |
-| 19 | [OthmanHaba](https://github.com/OthmanHaba) |  Othman Haba  (ง'̀-'́)ง     |  |  | Tripoli Libya | 5239 |
+| 19 | [OthmanHaba](https://github.com/OthmanHaba) |  Othman Haba  (ง'̀-'́)ง     |  |  | Tripoli Libya | 5485 |
 | 20 | [erabti](https://github.com/erabti) | Ahmed Erabti | @libyanspider |  | Libya | 5212 |

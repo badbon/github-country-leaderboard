@@ -29,9 +29,9 @@ Indexed users: 7,735
 | 15 | [A1cy](https://github.com/A1cy) | A1 | Riyadh | 10,288 |
 | 16 | [imadaitelarabi](https://github.com/imadaitelarabi) | IMAD AIT EL ARABI | Riyadh | 9,583 |
 | 17 | [mo-alhaddad](https://github.com/mo-alhaddad) | Mohammed Alhaddad | Khobar, Saudi Arabia | 8,946 |
-| 18 | [GarthOrmsby](https://github.com/GarthOrmsby) |  | Saudi Arabia | 8,196 |
-| 19 | [devmsh](https://github.com/devmsh) | Mohammed S Shurrab | Jeddah, Saudi Arabia | 8,144 |
-| 20 | [cc1a2b](https://github.com/cc1a2b) | Hussain Alsharman | Saudi Arabia, Riyadh | 8,095 |
+| 18 | [y0u-0](https://github.com/y0u-0) | Ali | Saudi Arabia | 8,477 |
+| 19 | [GarthOrmsby](https://github.com/GarthOrmsby) |  | Saudi Arabia | 8,196 |
+| 20 | [devmsh](https://github.com/devmsh) | Mohammed S Shurrab | Jeddah, Saudi Arabia | 8,144 |
 
 ## Public Contributions
 
@@ -49,14 +49,14 @@ Indexed users: 7,735
 | 10 | [ManalAlyami7](https://github.com/ManalAlyami7) | Manal Alyami  | Riyadh, Saudi Arabia | 3,438 |
 | 11 | [EslamElshikh-dev](https://github.com/EslamElshikh-dev) | Eslam Elshikh | Riyadh  | 3,381 |
 | 12 | [CalledSTRIKER](https://github.com/CalledSTRIKER) | Sultan | Saudi Arabia | 3,251 |
-| 13 | [Su03l](https://github.com/Su03l) | Suliman Yousef | Saudi Arabia | 2,480 |
-| 14 | [nn6n](https://github.com/nn6n) |  | Saudi Arabia  | 2,459 |
+| 13 | [SyabAhmad](https://github.com/SyabAhmad) | Syed Syab Ahmad | Al-Riyadh, Saudi Arabia | 2,740 |
+| 14 | [Su03l](https://github.com/Su03l) | Suliman Yousef | Saudi Arabia | 2,480 |
 | 15 | [singer-yang](https://github.com/singer-yang) | Xinge Yang | Thuwal, Saudi Arabia | 2,413 |
 | 16 | [Shoug-Alomran](https://github.com/Shoug-Alomran) | Shoug Alomran | Saudi Arabia | 2,404 |
 | 17 | [GalaxyRuler](https://github.com/GalaxyRuler) | GalaxyRuler | Riyadh, Saudi Arabia | 2,294 |
-| 18 | [SyabAhmad](https://github.com/SyabAhmad) | Syed Syab Ahmad | Al-Riyadh, Saudi Arabia | 2,289 |
-| 19 | [usernane](https://github.com/usernane) | Ibrahim BinAlshikh | Saudi Arabia | 2,261 |
-| 20 | [aliakarma](https://github.com/aliakarma) | Ali Akarma | Madinah, Saudi Arabia | 2,238 |
+| 18 | [usernane](https://github.com/usernane) | Ibrahim BinAlshikh | Saudi Arabia | 2,261 |
+| 19 | [aliakarma](https://github.com/aliakarma) | Ali Akarma | Madinah, Saudi Arabia | 2,238 |
+| 20 | [nx2io](https://github.com/nx2io) | Abdullah | Saudi Arabia, Tabuk | 2,207 |
 
 ## Followers
 
@@ -67,7 +67,7 @@ Indexed users: 7,735
 | 3 | [shakiliitju](https://github.com/shakiliitju) | Md. Shakil Hossain | Buraydah, Kingdom of Saudi Arabia (KSA) | 1,370 |
 | 4 | [BotolMehedi](https://github.com/BotolMehedi) | Md. Mehedi Hasan | Riyadh, Saudi Arabia | 1,315 |
 | 5 | [BandarHL](https://github.com/BandarHL) | Bandar Alruwaili | Saudi Arabia | 1,300 |
-| 6 | [Mlook70](https://github.com/Mlook70) | Abdulmalek.Akel \| MlookScript | Saudi / Jeddah | 1,270 |
+| 6 | [Mlook70](https://github.com/Mlook70) | Abdulmalek.Akel \| MlookScript | Saudi / Jeddah | 1,246 |
 | 7 | [Yarob50](https://github.com/Yarob50) | Yarob Al Mostafa (يعرُب) | Saudi Arabia, Riyadh | 1,096 |
 | 8 | [amoola1992](https://github.com/amoola1992) | Amal Mansour | Mecca, Saudi Arabia | 777 |
 | 9 | [SEAbdulbasit](https://github.com/SEAbdulbasit) | Abdul Basit | Riyadh | 749 |
@@ -83,4 +83,4 @@ Indexed users: 7,735
 | 19 | [davidrpugh](https://github.com/davidrpugh) | David R. Pugh | Thuwal, Saudi Arabia | 458 |
 | 20 | [madahetooo](https://github.com/madahetooo) | Eslam Medhat | Riyadh, Saudi Arabia | 458 |
 
-Generated: 2026-10-17T06:57:31.410Z
+Generated: 2026-10-17T07:57:15.433Z

@@ -1,6 +1,6 @@
 # Public Contributions - Palestine
 
-Generated: 2026-10-17T06:34:39.852Z
+Generated: 2026-10-17T07:49:57.391Z
 
 Users: 2197
 
@@ -14,7 +14,7 @@ Users: 2197
 | 6 | [Tojan-Naiem](https://github.com/Tojan-Naiem) | Tojan |  |  | Palestine | 1562 |
 | 7 | [darxx03eh](https://github.com/darxx03eh) | Mahmoud Darawsheh |  |  | Nablus, Palestine | 1531 |
 | 8 | [Maryam-Skaik](https://github.com/Maryam-Skaik) | Maryam Skaik | IUG |  | Gaza, Palestine | 1436 |
-| 9 | [AlaaArmoush](https://github.com/AlaaArmoush) | Alaa Armoush |  |  | Nablus, Palestine | 1014 |
+| 9 | [AlaaArmoush](https://github.com/AlaaArmoush) | Alaa Armoush |  |  | Nablus, Palestine | 1030 |
 | 10 | [hayasam](https://github.com/hayasam) | Haya Samaana | An Najah National University |  | Palestine | 992 |
 | 11 | [fjcj0](https://github.com/fjcj0) | 𝓞𝓜𝓐𝓡 𝓒𝓞𝓓𝓘𝓝𝓖🐉 | Blue | OMARCODING_LEET | Palestine,Ramallah | 982 |
 | 12 | [hussainabuhajjaj](https://github.com/hussainabuhajjaj) | Hussain abu hajjaj | Freelancer  |  | Palestine  | 979 |

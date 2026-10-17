@@ -1,6 +1,6 @@
 # Total Contributions - Malta
 
-Generated: 2026-10-17T06:25:04.711Z
+Generated: 2026-10-17T07:39:43.467Z
 
 Users: 1225
 
@@ -19,9 +19,9 @@ Users: 1225
 | 11 | [polp6880](https://github.com/polp6880) | Paul Portelli | Paul Portelli | polp6880 | Malta | 9022 |
 | 12 | [mauroziux](https://github.com/mauroziux) | Mauricio Suárez vega |  |  | malta | 8669 |
 | 13 | [angusgee](https://github.com/angusgee) | Angus Girvan |  |  | Malta | 8219 |
-| 14 | [m2ximus](https://github.com/m2ximus) | max—os |  |  | Malta | 7610 |
-| 15 | [iko2000](https://github.com/iko2000) | Iviko Shengelia | 88Bit Limited |  | Malta | 7327 |
-| 16 | [KimSpecht](https://github.com/KimSpecht) | Kim Pedersen |  |  | Malta | 7238 |
+| 14 | [KimSpecht](https://github.com/KimSpecht) | Kim Pedersen |  |  | Malta | 7618 |
+| 15 | [m2ximus](https://github.com/m2ximus) | max—os |  |  | Malta | 7610 |
+| 16 | [iko2000](https://github.com/iko2000) | Iviko Shengelia | 88Bit Limited |  | Malta | 7327 |
 | 17 | [ksazid](https://github.com/ksazid) | Sazid |  |  | Malta | 6244 |
 | 18 | [mzaharenkov](https://github.com/mzaharenkov) | Mikhail Zakharenkov | HMLabs |  | Malta | 5805 |
 | 19 | [seanellul](https://github.com/seanellul) | Sean Ellul |  |  | Malta | 5628 |

@@ -1,6 +1,6 @@
 # Followers - Saudi Arabia
 
-Generated: 2026-10-17T06:57:31.410Z
+Generated: 2026-10-17T07:57:15.433Z
 
 Users: 7735
 
@@ -11,7 +11,7 @@ Users: 7735
 | 3 | [shakiliitju](https://github.com/shakiliitju) | Md. Shakil Hossain | IT at Qassim University | shakiliitju | Buraydah, Kingdom of Saudi Arabia (KSA) | 1370 |
 | 4 | [BotolMehedi](https://github.com/BotolMehedi) | Md. Mehedi Hasan | BabasLab |  | Riyadh, Saudi Arabia | 1315 |
 | 5 | [BandarHL](https://github.com/BandarHL) | Bandar Alruwaili |  | BandarHL | Saudi Arabia | 1300 |
-| 6 | [Mlook70](https://github.com/Mlook70) | Abdulmalek.Akel \| MlookScript |  |  | Saudi / Jeddah | 1270 |
+| 6 | [Mlook70](https://github.com/Mlook70) | Abdulmalek.Akel \| MlookScript |  |  | Saudi / Jeddah | 1246 |
 | 7 | [Yarob50](https://github.com/Yarob50) | Yarob Al Mostafa (يعرُب) | @Eventful \| @Thmanyah  | YarHmm | Saudi Arabia, Riyadh | 1096 |
 | 8 | [amoola1992](https://github.com/amoola1992) | Amal Mansour | Confidential |  | Mecca, Saudi Arabia | 777 |
 | 9 | [SEAbdulbasit](https://github.com/SEAbdulbasit) | Abdul Basit |  | abdulbasitgd | Riyadh | 749 |

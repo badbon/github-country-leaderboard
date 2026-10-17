@@ -48,7 +48,7 @@ Indexed users: 160
 | 9 | [tshakalekholoane](https://github.com/tshakalekholoane) | Tshaka Lekholoane | Maseru, Lesotho | 149 |
 | 10 | [hitman1c](https://github.com/hitman1c) | SechabaLaptopTracker | Lesotho,Maseru | 131 |
 | 11 | [khauta](https://github.com/khauta) | Khauta Maliehe | Maseru, Lesotho | 119 |
-| 12 | [kgatman](https://github.com/kgatman) | kgatman | Maseru,Lesotho | 104 |
+| 12 | [kgatman](https://github.com/kgatman) | kgatman | Maseru,Lesotho | 103 |
 | 13 | [Relebo1](https://github.com/Relebo1) | Relebohile Sekutlu | Maseru | 101 |
 | 14 | [ocaes](https://github.com/ocaes) | Tsitso Mafantiri | Lesotho | 98 |
 | 15 | [AguelDawma](https://github.com/AguelDawma) | Thapelo Sekhonyana | Upper Thamae Maseru | 95 |
@@ -83,4 +83,4 @@ Indexed users: 160
 | 19 | [lotesm](https://github.com/lotesm) | Lotes Molapo | Maseru, Lesotho | 13 |
 | 20 | [entsoereng](https://github.com/entsoereng) | Mokonyana Ntsoereng | Lesotho | 12 |
 
-Generated: 2026-10-17T06:21:12.375Z
+Generated: 2026-10-17T07:37:25.074Z
