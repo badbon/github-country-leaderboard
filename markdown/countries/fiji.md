@@ -21,14 +21,14 @@ Indexed users: 325
 | 7 | [jaclla](https://github.com/jaclla) | Logic | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1,031 |
 | 8 | [navneil-naicker](https://github.com/navneil-naicker) | Navneil Naicker | Suva City, Central, Fiji | 1,025 |
 | 9 | [ApophisX](https://github.com/ApophisX) | GienWang | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1,004 |
-| 10 | [rudrprasad05](https://github.com/rudrprasad05) | Rudr Prasad | Fiji | 932 |
-| 11 | [Eddie115-x](https://github.com/Eddie115-x) | Adrian Obadiah | SUVA | 903 |
+| 10 | [rudrprasad05](https://github.com/rudrprasad05) | Rudr Prasad | Fiji | 928 |
+| 11 | [Eddie115-x](https://github.com/Eddie115-x) | Adrian Obadiah | SUVA | 898 |
 | 12 | [anav5704](https://github.com/anav5704) | Anav Chand | Fiji | 798 |
 | 13 | [rahulduttt](https://github.com/rahulduttt) | Rahul Dutt | Fiji | 626 |
 | 14 | [kishkumar96](https://github.com/kishkumar96) | Kishan Chimman Kumar | Suva | 559 |
 | 15 | [SRVSRR](https://github.com/SRVSRR) | Rohan Nandan | Fiji | 526 |
 | 16 | [kunz398](https://github.com/kunz398) | Kunal Singh | Fiji | 513 |
-| 17 | [2-fly-4-ai](https://github.com/2-fly-4-ai) | Brian farley | Suva | 502 |
+| 17 | [2-fly-4-ai](https://github.com/2-fly-4-ai) | Brian farley | Suva | 503 |
 | 18 | [aryann-7](https://github.com/aryann-7) | Aryan Singh | Suva, Fiji | 436 |
 | 19 | [vikichand](https://github.com/vikichand) | Vikash Chand | Fiji | 431 |
 | 20 | [Amanimal](https://github.com/Amanimal) | Abhishek Swamy | Fiji | 399 |
@@ -39,15 +39,15 @@ Indexed users: 325
 |---:|---|---|---|---:|
 | 1 | [Amdeo](https://github.com/Amdeo) | Cooper | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1,438 |
 | 2 | [anav5704](https://github.com/anav5704) | Anav Chand | Fiji | 571 |
-| 3 | [2-fly-4-ai](https://github.com/2-fly-4-ai) | Brian farley | Suva | 502 |
+| 3 | [2-fly-4-ai](https://github.com/2-fly-4-ai) | Brian farley | Suva | 503 |
 | 4 | [kishkumar96](https://github.com/kishkumar96) | Kishan Chimman Kumar | Suva | 468 |
 | 5 | [SMani0547](https://github.com/SMani0547) | Shiva Mani Goundar | Nadi, Fiji | 396 |
 | 6 | [alexwoo79](https://github.com/alexwoo79) | Alex_Woo | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 284 |
 | 7 | [aryann-7](https://github.com/aryann-7) | Aryan Singh | Suva, Fiji | 283 |
 | 8 | [SRVSRR](https://github.com/SRVSRR) | Rohan Nandan | Fiji | 261 |
 | 9 | [codeshareman](https://github.com/codeshareman) | Z° North | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 243 |
-| 10 | [grey0758](https://github.com/grey0758) | 徐业辉 | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 222 |
-| 11 | [rudrprasad05](https://github.com/rudrprasad05) | Rudr Prasad | Fiji | 209 |
+| 10 | [grey0758](https://github.com/grey0758) | 徐业辉 | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 216 |
+| 11 | [rudrprasad05](https://github.com/rudrprasad05) | Rudr Prasad | Fiji | 205 |
 | 12 | [Lagilava](https://github.com/Lagilava) | Lagilava Paulo | Fiji | 203 |
 | 13 | [Geekmaxxer](https://github.com/Geekmaxxer) | Pew | Fiji | 187 |
 | 14 | [kunz398](https://github.com/kunz398) | Kunal Singh | Fiji | 166 |
@@ -83,4 +83,4 @@ Indexed users: 325
 | 19 | [phpoh](https://github.com/phpoh) | phpoh | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 21 |
 | 20 | [aryann-7](https://github.com/aryann-7) | Aryan Singh | Suva, Fiji | 19 |
 
-Generated: 2026-10-17T08:36:16.047Z
+Generated: 2026-10-17T09:50:36.017Z

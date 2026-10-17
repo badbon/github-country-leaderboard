@@ -1,6 +1,6 @@
 # Total Contributions - Sri Lanka
 
-Generated: 2026-10-17T08:05:13.958Z
+Generated: 2026-10-17T09:20:05.861Z
 
 Users: 18319
 
@@ -8,7 +8,7 @@ Users: 18319
 |---:|---|---|---|---|---|---:|
 | 1 | [nuuuwan](https://github.com/nuuuwan) | Nuwan I. Senaratna |  | nuuuwan | Colombo, Sri Lanka | 163626 |
 | 2 | [RensithUdara](https://github.com/RensithUdara) | Rensith Udara Gonalagoda |  | RensithUdara | Galle, Sri Lanka | 153664 |
-| 3 | [pawara-mmns](https://github.com/pawara-mmns) | Pawara Samarawickrama | CLYSO |  | Colombo,Sri Lanka | 86162 |
+| 3 | [pawara-mmns](https://github.com/pawara-mmns) | Pawara Samarawickrama | CLYSO |  | Colombo,Sri Lanka | 86834 |
 | 4 | [subothr14](https://github.com/subothr14) | Suboth Ragunathan | University of Moratuwa |  | Colombo, Sri Lanka | 25083 |
 | 5 | [RAVEENSR](https://github.com/RAVEENSR) | Raveen Savinda Rathnayake | WSO2 | RAVEENSAVINDA | Colombo, Sri Lanka | 22273 |
 | 6 | [udmodz0](https://github.com/udmodz0) | UDhanika Dissanayaka | UDMODZ |  | Sri Lanka | 20079 |

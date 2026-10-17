@@ -47,7 +47,7 @@ Indexed users: 2,039
 | 8 | [APKnation](https://github.com/APKnation) | apk | DODOMA -TANZANIA | 3,061 |
 | 9 | [ALTUM-02](https://github.com/ALTUM-02) | Altum02 | Dodoma - Tanzania | 2,851 |
 | 10 | [zuck30](https://github.com/zuck30) | Shadrackovsky | Tanzania | 2,351 |
-| 11 | [wizystudios](https://github.com/wizystudios) | khalifa Nadhir | tanzania | 1,952 |
+| 11 | [wizystudios](https://github.com/wizystudios) | khalifa Nadhir | tanzania | 1,975 |
 | 12 | [troubleman96](https://github.com/troubleman96) | Lugenge Emmanuel | Dar es Salaam ,Tanzania | 1,923 |
 | 13 | [klaus-gudy](https://github.com/klaus-gudy) | Goodluck Madadi | Tanzania | 1,893 |
 | 14 | [Heracraft](https://github.com/Heracraft) | Nehemia Kaaya | Tanzania | 1,826 |
@@ -63,7 +63,7 @@ Indexed users: 2,039
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [dexflare](https://github.com/dexflare) | Dexflare Network | Tanzania | 2,492 |
-| 2 | [nyenza](https://github.com/nyenza) | Agrey Nyenza | Iringa, Tanzania | 1,479 |
+| 2 | [nyenza](https://github.com/nyenza) | Agrey Nyenza | Iringa, Tanzania | 1,486 |
 | 3 | [lykmapipo](https://github.com/lykmapipo) | lally elias | Dar es salaam, Tanzania | 1,118 |
 | 4 | [karimshaban01](https://github.com/karimshaban01) | Karim S. Haruna | ARUSHA, TANZANIA | 1,070 |
 | 5 | [avict18](https://github.com/avict18) | Aaron Vic | Tanzania | 1,025 |
@@ -83,4 +83,4 @@ Indexed users: 2,039
 | 19 | [3nock](https://github.com/3nock) | Enock | Dar es Salaam, Tanzania | 188 |
 | 20 | [Mrhanstz](https://github.com/Mrhanstz) | HANSTZ | Africa Dodoma | 179 |
 
-Generated: 2026-10-17T08:07:06.496Z
+Generated: 2026-10-17T09:23:21.165Z

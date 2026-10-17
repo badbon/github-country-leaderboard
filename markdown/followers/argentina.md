@@ -1,6 +1,6 @@
 # Followers - Argentina
 
-Generated: 2026-10-17T08:17:51.657Z
+Generated: 2026-10-17T09:34:19.927Z
 
 Users: 50727
 
@@ -12,7 +12,7 @@ Users: 50727
 | 4 | [sammwyy](https://github.com/sammwyy) | Sammwy | @StarOverlay | sammwy | Argentina | 2648 |
 | 5 | [majoledesma](https://github.com/majoledesma) | Majo Ledesma |  | majoledes | Ciudad de Buenos Aires, Argentina | 2518 |
 | 6 | [gerMdz](https://github.com/gerMdz) | gerMdz | Particular |  | Argentina / Mendoza | 1996 |
-| 7 | [FrMahon](https://github.com/FrMahon) | Fran Mahon | @cooperativaObrera |  | Argentina | 1848 |
+| 7 | [FrMahon](https://github.com/FrMahon) | Fran Mahon | @cooperativaObrera |  | Argentina | 1825 |
 | 8 | [jrgarciadev](https://github.com/jrgarciadev) | Junior Garcia | heroui | jrgarciadev | Buenos Aires, Argentina | 1549 |
 | 9 | [choidavid4](https://github.com/choidavid4) | David Choi |  | deivchoi | Buenos Aires, Argentina | 1390 |
 | 10 | [rennf93](https://github.com/rennf93) | Renzo F | Guard Core \| RoboCo | rennf93 | Argentina | 1364 |

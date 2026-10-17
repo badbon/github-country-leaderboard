@@ -1,6 +1,6 @@
 # Followers - Burkina Faso
 
-Generated: 2026-10-17T08:26:30.163Z
+Generated: 2026-10-17T09:39:41.726Z
 
 Users: 486
 
@@ -25,4 +25,4 @@ Users: 486
 | 17 | [ArielShadrac](https://github.com/ArielShadrac) | Ouedraogo Fildouindé Ariel Shadrac | Xcept-Health |  | Burkina Faso | 40 |
 | 18 | [Masterchief-07](https://github.com/Masterchief-07) | KIENDREBEOGO JONATHAN |  |  | BURKINAFASO/OUAGADOUGOU | 39 |
 | 19 | [sokevinjonas](https://github.com/sokevinjonas) | SO Kevin Jonas Gningnabe | KGSLAB |  | BURKINA FASO | 38 |
-| 20 | [kulturman](https://github.com/kulturman) | Arnaud Bakyono  |  |  | Ouagadougou | 37 |
+| 20 | [kulturman](https://github.com/kulturman) | Arnaud Bakyono  |  |  | Ouagadougou | 36 |

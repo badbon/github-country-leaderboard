@@ -64,7 +64,7 @@ Indexed users: 3,301
 |---:|---|---|---|---:|
 | 1 | [alanhamlett](https://github.com/alanhamlett) | Alan Hamlett | Dominican Republic | 5,137 |
 | 2 | [johansitoweb](https://github.com/johansitoweb) | Johan Antonio | Dominican republic | 940 |
-| 3 | [sgermosen](https://github.com/sgermosen) | Starling Germosen | Santo Domingo, Republica Dominicana | 728 |
+| 3 | [sgermosen](https://github.com/sgermosen) | Starling Germosen | Santo Domingo, Republica Dominicana | 729 |
 | 4 | [LeomarisReyes](https://github.com/LeomarisReyes) | Leomaris Reyes | Dominican Republic | 565 |
 | 5 | [rmariuzzo](https://github.com/rmariuzzo) | Rubens Mariuzzo | Dominican Republic | 425 |
 | 6 | [juliourena](https://github.com/juliourena) | Julio Ureña | Dominican Republic | 313 |
@@ -83,4 +83,4 @@ Indexed users: 3,301
 | 19 | [eatskolnikov](https://github.com/eatskolnikov) | Enmanuel Toribio | Dominican Republic | 149 |
 | 20 | [adonismendozaperez](https://github.com/adonismendozaperez) | Adonis Mendoza  | Dominican Republic | 117 |
 
-Generated: 2026-10-17T08:32:52.391Z
+Generated: 2026-10-17T09:47:44.146Z

@@ -12,7 +12,7 @@ Indexed users: 47,745
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [chaichuk](https://github.com/chaichuk) | Serhii Chaichuk | Kyiv, Ukraine | 64,257 |
+| 1 | [chaichuk](https://github.com/chaichuk) | Serhii Chaichuk | Kyiv, Ukraine | 80,542 |
 | 2 | [ewgenij87snwork](https://github.com/ewgenij87snwork) | Yevgeniy Sorokin | Ukraine | 42,343 |
 | 3 | [gotthejuicee](https://github.com/gotthejuicee) | Valeriy | Odesa, Ukraine  | 35,231 |
 | 4 | [EgorVegas](https://github.com/EgorVegas) | Egor M. | Ukraine | 33,287 |
@@ -37,7 +37,7 @@ Indexed users: 47,745
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [chaichuk](https://github.com/chaichuk) | Serhii Chaichuk | Kyiv, Ukraine | 63,529 |
+| 1 | [chaichuk](https://github.com/chaichuk) | Serhii Chaichuk | Kyiv, Ukraine | 79,809 |
 | 2 | [gotthejuicee](https://github.com/gotthejuicee) | Valeriy | Odesa, Ukraine  | 35,109 |
 | 3 | [tolikhalas](https://github.com/tolikhalas) | Anatolii Halas | Ukraine, Ternopil | 29,070 |
 | 4 | [BRN-SLP](https://github.com/BRN-SLP) | BoRn_SliPPy | Kyiv | 22,758 |
@@ -83,4 +83,4 @@ Indexed users: 47,745
 | 19 | [TBlindaruk](https://github.com/TBlindaruk) | Tetiana Blindaruk | Ukraine | 1,192 |
 | 20 | [NJul](https://github.com/NJul) | Nina | Ukraine | 1,140 |
 
-Generated: 2026-10-17T08:09:51.644Z
+Generated: 2026-10-17T09:27:00.829Z

@@ -1,6 +1,6 @@
 # Followers - Yemen
 
-Generated: 2026-10-17T08:14:32.125Z
+Generated: 2026-10-17T09:29:18.850Z
 
 Users: 1206
 
@@ -22,7 +22,7 @@ Users: 1206
 | 14 | [mrpythonfpi](https://github.com/mrpythonfpi) | 𝐌r𝐏𝐘𝐓𝐇𝐎𝐍🎩༒ | 𝗦𝗘𝗖𝗥𝗘𝗧 𝗡𝗘𝗧 ⋆ 🏴‍☠️ |  | YEMEN | 187 |
 | 15 | [muath-ye](https://github.com/muath-ye) | Muath Alsowadi | Co-founder @YemenOpenSource, Member of @open-sale | muathye | Yemen | 181 |
 | 16 | [Emadalshamery](https://github.com/Emadalshamery) | Emad QEAD Alshamiri  | alemadtr.com |  | Yemen | 172 |
-| 17 | [0-d3y](https://github.com/0-d3y) | S4Tech | Cyber Security | Linux_ye | Yemen | 160 |
-| 18 | [hetari](https://github.com/hetari) | Ebraheem Alhetari | Temmam Light | hetaridev | Yemen | 160 |
-| 19 | [aameralduais](https://github.com/aameralduais) | Aamer Alduais |  |  | Sana'a, Yemen | 158 |
+| 17 | [aameralduais](https://github.com/aameralduais) | Aamer Alduais |  |  | Sana'a, Yemen | 161 |
+| 18 | [0-d3y](https://github.com/0-d3y) | S4Tech | Cyber Security | Linux_ye | Yemen | 160 |
+| 19 | [hetari](https://github.com/hetari) | Ebraheem Alhetari | Temmam Light | hetaridev | Yemen | 160 |
 | 20 | [its4nas](https://github.com/its4nas) | Anas Al-Dharei | Yemen International Technology Company | its4nas | Yemen | 147 |

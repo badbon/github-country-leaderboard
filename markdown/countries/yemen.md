@@ -48,7 +48,7 @@ Indexed users: 1,206
 | 9 | [Ammar-1993](https://github.com/Ammar-1993) | Ammar Al-Najjar | Yemen | 2,112 |
 | 10 | [HusseinBaraja](https://github.com/HusseinBaraja) | Hussein Ba Ragaa | Yemen | 1,935 |
 | 11 | [Hamza-ye](https://github.com/Hamza-ye) | Hamza | Yemen | 1,819 |
-| 12 | [islamux](https://github.com/islamux) | Fathi Mohammed Saeed AlQadasi | Yemen | 1,475 |
+| 12 | [islamux](https://github.com/islamux) | Fathi Mohammed Saeed AlQadasi | Yemen | 1,481 |
 | 13 | [ahmedalsanadi](https://github.com/ahmedalsanadi) | Ahmed Alsanadi | Yemen | 1,293 |
 | 14 | [hishamco](https://github.com/hishamco) | Hisham Bin Ateya | Yemen | 1,277 |
 | 15 | [Alfrahi](https://github.com/Alfrahi) | Abdullah | Yemen | 1,124 |
@@ -78,9 +78,9 @@ Indexed users: 1,206
 | 14 | [mrpythonfpi](https://github.com/mrpythonfpi) | 𝐌r𝐏𝐘𝐓𝐇𝐎𝐍🎩༒ | YEMEN | 187 |
 | 15 | [muath-ye](https://github.com/muath-ye) | Muath Alsowadi | Yemen | 181 |
 | 16 | [Emadalshamery](https://github.com/Emadalshamery) | Emad QEAD Alshamiri  | Yemen | 172 |
-| 17 | [0-d3y](https://github.com/0-d3y) | S4Tech | Yemen | 160 |
-| 18 | [hetari](https://github.com/hetari) | Ebraheem Alhetari | Yemen | 160 |
-| 19 | [aameralduais](https://github.com/aameralduais) | Aamer Alduais | Sana'a, Yemen | 158 |
+| 17 | [aameralduais](https://github.com/aameralduais) | Aamer Alduais | Sana'a, Yemen | 161 |
+| 18 | [0-d3y](https://github.com/0-d3y) | S4Tech | Yemen | 160 |
+| 19 | [hetari](https://github.com/hetari) | Ebraheem Alhetari | Yemen | 160 |
 | 20 | [its4nas](https://github.com/its4nas) | Anas Al-Dharei | Yemen | 147 |
 
-Generated: 2026-10-17T08:14:32.125Z
+Generated: 2026-10-17T09:29:18.850Z

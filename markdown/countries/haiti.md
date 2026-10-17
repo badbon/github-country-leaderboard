@@ -56,7 +56,7 @@ Indexed users: 339
 | 17 | [jsbeaudry](https://github.com/jsbeaudry) | Beaudry Jean Sauvenel | Port-au-prince, Haiti | 166 |
 | 18 | [blessedwingtech](https://github.com/blessedwingtech) | Blessed Wing Technology | Haiti | 165 |
 | 19 | [clarensromeus](https://github.com/clarensromeus) | Romeus Clarens | Port-au-prince/Petion-ville | 163 |
-| 20 | [Rocky1324](https://github.com/Rocky1324) | Rock Khyshnert | Haiti | 161 |
+| 20 | [EdManDev](https://github.com/EdManDev) | EdManDev | Haiti | 151 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 339
 | 19 | [KeitelDOG](https://github.com/KeitelDOG) | Keitel Jovin | Delmas 41, Ouest, Haiti | 32 |
 | 20 | [skydevht](https://github.com/skydevht) | Holy-Elie Scaïde | Port-au-prince, Haïti | 32 |
 
-Generated: 2026-10-17T08:41:40.242Z
+Generated: 2026-10-17T09:56:47.297Z

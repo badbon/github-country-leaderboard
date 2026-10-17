@@ -30,7 +30,7 @@ Indexed users: 215
 | 16 | [dvdjmnz](https://github.com/dvdjmnz) | David Jiménez | Andorra | 3,515 |
 | 17 | [sgirones](https://github.com/sgirones) | Salvador Gironès Gil | Andorra | 3,477 |
 | 18 | [ColColty](https://github.com/ColColty) | Tomàs Forné Cappeau | Andorra | 3,430 |
-| 19 | [GRKdev](https://github.com/GRKdev) | G.R.K. | Andorra | 3,119 |
+| 19 | [GRKdev](https://github.com/GRKdev) | G.R.K. | Andorra | 3,117 |
 | 20 | [FaZeTitans](https://github.com/FaZeTitans) | Axel DA SILVA | Andorra | 3,004 |
 
 ## Public Contributions
@@ -83,4 +83,4 @@ Indexed users: 215
 | 19 | [ysb33r](https://github.com/ysb33r) | Schalk W. Cronjé | Andorra | 63 |
 | 20 | [castrolem](https://github.com/castrolem) | Luis Castro | Andorra la Vella, Andorra | 59 |
 
-Generated: 2026-10-17T08:16:22.191Z
+Generated: 2026-10-17T09:31:59.774Z

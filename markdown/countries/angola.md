@@ -83,4 +83,4 @@ Indexed users: 2,500
 | 19 | [jofranqueira](https://github.com/jofranqueira) | José Frangueira | Angola | 160 |
 | 20 | [Jovanysfive](https://github.com/Jovanysfive) | Job Bento | Angola/Luanda | 152 |
 
-Generated: 2026-10-17T08:16:52.834Z
+Generated: 2026-10-17T09:32:34.341Z

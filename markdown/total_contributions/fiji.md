@@ -1,6 +1,6 @@
 # Total Contributions - Fiji
 
-Generated: 2026-10-17T08:36:16.047Z
+Generated: 2026-10-17T09:50:36.017Z
 
 Users: 325
 
@@ -15,14 +15,14 @@ Users: 325
 | 7 | [jaclla](https://github.com/jaclla) | Logic | Zenaida Orn Company |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1031 |
 | 8 | [navneil-naicker](https://github.com/navneil-naicker) | Navneil Naicker |  |  | Suva City, Central, Fiji | 1025 |
 | 9 | [ApophisX](https://github.com/ApophisX) | GienWang | Zenaida Orn Company |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1004 |
-| 10 | [rudrprasad05](https://github.com/rudrprasad05) | Rudr Prasad | Procyon |  | Fiji | 932 |
-| 11 | [Eddie115-x](https://github.com/Eddie115-x) | Adrian Obadiah |  |  | SUVA | 903 |
+| 10 | [rudrprasad05](https://github.com/rudrprasad05) | Rudr Prasad | Procyon |  | Fiji | 928 |
+| 11 | [Eddie115-x](https://github.com/Eddie115-x) | Adrian Obadiah |  |  | SUVA | 898 |
 | 12 | [anav5704](https://github.com/anav5704) | Anav Chand | Pacific Technologies |  | Fiji | 798 |
 | 13 | [rahulduttt](https://github.com/rahulduttt) | Rahul Dutt |  |  | Fiji | 626 |
 | 14 | [kishkumar96](https://github.com/kishkumar96) | Kishan Chimman Kumar | Pacific Community |  | Suva | 559 |
 | 15 | [SRVSRR](https://github.com/SRVSRR) | Rohan Nandan | University of the South Pacific | SRVSRR | Fiji | 526 |
 | 16 | [kunz398](https://github.com/kunz398) | Kunal Singh |  |  | Fiji | 513 |
-| 17 | [2-fly-4-ai](https://github.com/2-fly-4-ai) | Brian farley | serp.ai |  | Suva | 502 |
+| 17 | [2-fly-4-ai](https://github.com/2-fly-4-ai) | Brian farley | serp.ai |  | Suva | 503 |
 | 18 | [aryann-7](https://github.com/aryann-7) | Aryan Singh | The University of the South Pacific |  | Suva, Fiji | 436 |
 | 19 | [vikichand](https://github.com/vikichand) | Vikash Chand | @kpmg-au @simplex-lab | takeiteasyvik | Fiji | 431 |
 | 20 | [Amanimal](https://github.com/Amanimal) | Abhishek Swamy |  |  | Fiji | 399 |

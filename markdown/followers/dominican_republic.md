@@ -1,6 +1,6 @@
 # Followers - Dominican Republic
 
-Generated: 2026-10-17T08:32:52.391Z
+Generated: 2026-10-17T09:47:44.146Z
 
 Users: 3301
 
@@ -8,7 +8,7 @@ Users: 3301
 |---:|---|---|---|---|---|---:|
 | 1 | [alanhamlett](https://github.com/alanhamlett) | Alan Hamlett | @wakatime | alanhamlett | Dominican Republic | 5137 |
 | 2 | [johansitoweb](https://github.com/johansitoweb) | Johan Antonio | Jsoftsolutiom |  | Dominican republic | 940 |
-| 3 | [sgermosen](https://github.com/sgermosen) | Starling Germosen | @sgsoluciones  | stgermosen | Santo Domingo, Republica Dominicana | 728 |
+| 3 | [sgermosen](https://github.com/sgermosen) | Starling Germosen | @sgsoluciones  | stgermosen | Santo Domingo, Republica Dominicana | 729 |
 | 4 | [LeomarisReyes](https://github.com/LeomarisReyes) | Leomaris Reyes | Stemelle | LeomarisReyes11 | Dominican Republic | 565 |
 | 5 | [rmariuzzo](https://github.com/rmariuzzo) | Rubens Mariuzzo | @x-team  |  | Dominican Republic | 425 |
 | 6 | [juliourena](https://github.com/juliourena) | Julio Ureña |  | JulioUrena | Dominican Republic | 313 |

@@ -68,7 +68,7 @@ Indexed users: 50,727
 | 4 | [sammwyy](https://github.com/sammwyy) | Sammwy | Argentina | 2,648 |
 | 5 | [majoledesma](https://github.com/majoledesma) | Majo Ledesma | Ciudad de Buenos Aires, Argentina | 2,518 |
 | 6 | [gerMdz](https://github.com/gerMdz) | gerMdz | Argentina / Mendoza | 1,996 |
-| 7 | [FrMahon](https://github.com/FrMahon) | Fran Mahon | Argentina | 1,848 |
+| 7 | [FrMahon](https://github.com/FrMahon) | Fran Mahon | Argentina | 1,825 |
 | 8 | [jrgarciadev](https://github.com/jrgarciadev) | Junior Garcia | Buenos Aires, Argentina | 1,549 |
 | 9 | [choidavid4](https://github.com/choidavid4) | David Choi | Buenos Aires, Argentina | 1,390 |
 | 10 | [rennf93](https://github.com/rennf93) | Renzo F | Argentina | 1,364 |
@@ -83,4 +83,4 @@ Indexed users: 50,727
 | 19 | [dacap](https://github.com/dacap) | David Capello | Argentina | 1,004 |
 | 20 | [andresriancho](https://github.com/andresriancho) | Andres Riancho | Buenos Aires, Argentina | 1,001 |
 
-Generated: 2026-10-17T08:17:51.657Z
+Generated: 2026-10-17T09:34:19.927Z

@@ -21,7 +21,7 @@ Indexed users: 139
 | 7 | [danielmullin](https://github.com/danielmullin) | Daniel Mullin | Jersey | 4,698 |
 | 8 | [gnathoi](https://github.com/gnathoi) | Nathaniel Hey | Jersey, Channel Islands | 4,334 |
 | 9 | [wildgeodude](https://github.com/wildgeodude) | Dominic Samphier | Jersey | 4,055 |
-| 10 | [digitalbuddha](https://github.com/digitalbuddha) | Mike Nakhimovich | The dirty (jersey) | 3,837 |
+| 10 | [digitalbuddha](https://github.com/digitalbuddha) | Mike Nakhimovich | The dirty (jersey) | 3,872 |
 | 11 | [oidz1234](https://github.com/oidz1234) | Mark McNally | Jersey | 3,347 |
 | 12 | [r-moore](https://github.com/r-moore) | Richard Moore | Jersey | 3,344 |
 | 13 | [cjkmcc](https://github.com/cjkmcc) | Chris McCarthy | Jersey / London | 2,888 |
@@ -83,4 +83,4 @@ Indexed users: 139
 | 19 | [garyedwards](https://github.com/garyedwards) | Gary Edwards | Jersey, Channel Islands | 21 |
 | 20 | [Chrisedmo](https://github.com/Chrisedmo) | Chris Mousdale | Jersey, Channel Islands | 20 |
 
-Generated: 2026-10-17T08:47:02.662Z
+Generated: 2026-10-17T10:00:39.879Z

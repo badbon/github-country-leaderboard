@@ -1,6 +1,6 @@
 # Total Contributions - Iceland
 
-Generated: 2026-10-17T08:44:15.160Z
+Generated: 2026-10-17T09:57:18.497Z
 
 Users: 1578
 
@@ -15,8 +15,8 @@ Users: 1578
 | 7 | [valurhrafn](https://github.com/valurhrafn) | Valur Hrafn Einarsson | Loaloa |  | Reykjavík, Iceland | 12769 |
 | 8 | [Chipcius](https://github.com/Chipcius) | Andri Thorlacius | @Daveloehf  | Chipcius | Reykjavik, Iceland | 12229 |
 | 9 | [bgunnarsson](https://github.com/bgunnarsson) | B. Gunnarsson | @Vettvangur  | bgunnarssonis | Iceland | 10894 |
-| 10 | [sandsower](https://github.com/sandsower) | Vic Valenzuela |  |  | Reykjavík, Iceland | 9507 |
-| 11 | [DavidBachmann](https://github.com/DavidBachmann) | Davíð Bachmann | @aranja  |  | Iceland | 9170 |
+| 10 | [DavidBachmann](https://github.com/DavidBachmann) | Davíð Bachmann | @aranja  |  | Iceland | 9699 |
+| 11 | [sandsower](https://github.com/sandsower) | Vic Valenzuela |  |  | Reykjavík, Iceland | 9507 |
 | 12 | [rbjarnason](https://github.com/rbjarnason) | Róbert Viðar Bjarnason | Citizens Foundation |  | Iceland | 7954 |
 | 13 | [sarnason](https://github.com/sarnason) | Steingrímur Árnason |  |  | Reykjavik, Iceland | 7577 |
 | 14 | [olioskar](https://github.com/olioskar) | Olafur O. Egilsson | Tero |  | Reykjavik | 7571 |

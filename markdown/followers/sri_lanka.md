@@ -1,6 +1,6 @@
 # Followers - Sri Lanka
 
-Generated: 2026-10-17T08:05:13.958Z
+Generated: 2026-10-17T09:20:05.861Z
 
 Users: 18319
 
@@ -19,7 +19,7 @@ Users: 18319
 | 11 | [sasmithx](https://github.com/sasmithx) | Sasmith Manawadu | SITREK SECURE LOGISTICS (PVT) LTD |  | Sri Lanka  | 992 |
 | 12 | [Dinil-Thilakarathne](https://github.com/Dinil-Thilakarathne) | Dinil Thilakarathne  |  |  | Sri Lanka | 944 |
 | 13 | [Sanjaya-Danushka](https://github.com/Sanjaya-Danushka) | sanjaya | Full-Cycle DevOps & Software Engineer |  | sri lanka | 819 |
-| 14 | [hirushavinushka99](https://github.com/hirushavinushka99) | Hirusha De Silva | Sabaragamuwa University Of Sri Lanka |  | Negambo, Sri lanka | 771 |
+| 14 | [hirushavinushka99](https://github.com/hirushavinushka99) | Hirusha De Silva | Sabaragamuwa University Of Sri Lanka |  | Negambo, Sri lanka | 756 |
 | 15 | [sameerasw](https://github.com/sameerasw) | sameerasw.com | @zone24x7 | sameeraswdotcom | Sri Lanka | 738 |
 | 16 | [chamodshehanka](https://github.com/chamodshehanka) | Chamod Shehanka Perera | @circleslife | chamodshehanka | Horana, Sri Lanka | 732 |
 | 17 | [ksenginew](https://github.com/ksenginew) | Kavindu Santhusa |  | ksanthusa | Sri Lanka | 716 |

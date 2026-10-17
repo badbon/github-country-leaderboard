@@ -27,8 +27,8 @@ Indexed users: 1,274
 | 13 | [dimitriharding](https://github.com/dimitriharding) | Dimitri Harding | Kingston, Jamaica | 5,291 |
 | 14 | [SammarieoBrown](https://github.com/SammarieoBrown) | Sammarieo Brown | Kingston, Jamaica | 5,238 |
 | 15 | [emperorjm](https://github.com/emperorjm) | Adrian Thompson | Jamaica | 4,618 |
-| 16 | [JCarran0](https://github.com/JCarran0) | Jared Carrano | Kingston, NY | 4,413 |
-| 17 | [javaniecampbell](https://github.com/javaniecampbell) | Javanie Campbell | Jamaica | 4,388 |
+| 16 | [javaniecampbell](https://github.com/javaniecampbell) | Javanie Campbell | Jamaica | 4,426 |
+| 17 | [JCarran0](https://github.com/JCarran0) | Jared Carrano | Kingston, NY | 4,413 |
 | 18 | [cogell](https://github.com/cogell) | B. Cedric Cogell | Kingston, NY | 4,336 |
 | 19 | [shanoysinc](https://github.com/shanoysinc) | Shanoy Sinclair | Jamaica | 4,160 |
 | 20 | [kazo0](https://github.com/kazo0) | Steve Bilogan | Kingston, ON | 4,142 |
@@ -55,7 +55,7 @@ Indexed users: 1,274
 | 16 | [Patric-1613](https://github.com/Patric-1613) | Pratikraj Pavankumar Mugade | Kingston upon thames | 654 |
 | 17 | [kfrancis](https://github.com/kfrancis) | Kori Francis | Kingston, Ontario | 652 |
 | 18 | [HughScott2002](https://github.com/HughScott2002) | Hugh Scott | Kingston, Jamaica  | 639 |
-| 19 | [JonCooperWorks](https://github.com/JonCooperWorks) |  | Jamaica | 630 |
+| 19 | [JonCooperWorks](https://github.com/JonCooperWorks) |  | Jamaica | 634 |
 | 20 | [lord-dubious](https://github.com/lord-dubious) | Lord_dubious | Kingston, ON | 624 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 1,274
 | 19 | [aliasad059](https://github.com/aliasad059) | Ali Asad | Kingston, Ontario | 100 |
 | 20 | [jordanliu](https://github.com/jordanliu) | Jordan Liu | Kingston, Jamaica | 95 |
 
-Generated: 2026-10-17T08:45:53.196Z
+Generated: 2026-10-17T10:00:06.967Z
