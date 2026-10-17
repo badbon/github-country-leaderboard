@@ -15,7 +15,7 @@ Indexed users: 68
 | 1 | [olavurellefsen](https://github.com/olavurellefsen) | Olavur Ellefsen | Faroe Islands | 15,647 |
 | 2 | [kruseio](https://github.com/kruseio) | Ragnar Kruse | Faroe Islands | 6,552 |
 | 3 | [jbiskur](https://github.com/jbiskur) | Julius á Rógvi Biskopstø | Faroe Islands | 5,324 |
-| 4 | [argilzar](https://github.com/argilzar) | Brian Bischoff | Faroe Islands | 3,350 |
+| 4 | [argilzar](https://github.com/argilzar) | Brian Bischoff | Faroe Islands | 3,349 |
 | 5 | [RudiPersson](https://github.com/RudiPersson) | Rudi Persson | Tórshavn, Faroe Islands | 2,783 |
 | 6 | [mashema](https://github.com/mashema) | John Eyðstein Johannesen  | Faroe Islands | 2,422 |
 | 7 | [hoegnason](https://github.com/hoegnason) | Rani Högnason Hansen | Tórshavn | 2,372 |
@@ -31,7 +31,7 @@ Indexed users: 68
 | 17 | [eydunn](https://github.com/eydunn) | Eyðun Nielsen | Tórshavn, Faroe islands | 692 |
 | 18 | [hansjd](https://github.com/hansjd) | Hans Jákup Danielsen | Faroe Islands | 650 |
 | 19 | [TimonPeng](https://github.com/TimonPeng) | Timon Peng | Føroyar | 620 |
-| 20 | [bardurdam](https://github.com/bardurdam) | Bárður Viberg Dam | Faroe Islands | 502 |
+| 20 | [bardurdam](https://github.com/bardurdam) | Bárður Viberg Dam | Faroe Islands | 500 |
 
 ## Public Contributions
 
@@ -43,8 +43,8 @@ Indexed users: 68
 | 4 | [suuunly](https://github.com/suuunly) | Jóhann Østerø | Faroe Islands | 509 |
 | 5 | [jbiskur](https://github.com/jbiskur) | Julius á Rógvi Biskopstø | Faroe Islands | 487 |
 | 6 | [krvi](https://github.com/krvi) |  | Faroe Islands | 466 |
-| 7 | [ahjohannessen](https://github.com/ahjohannessen) | Alex Henning Johannessen | Faroe Islands | 286 |
-| 8 | [olavurellefsen](https://github.com/olavurellefsen) | Olavur Ellefsen | Faroe Islands | 286 |
+| 7 | [olavurellefsen](https://github.com/olavurellefsen) | Olavur Ellefsen | Faroe Islands | 286 |
+| 8 | [ahjohannessen](https://github.com/ahjohannessen) | Alex Henning Johannessen | Faroe Islands | 284 |
 | 9 | [Marimuda](https://github.com/Marimuda) | Jákup Svøðstein | Faroe islands  | 218 |
 | 10 | [SheetHappiness](https://github.com/SheetHappiness) | SheetHappiness | Faroe Islands | 202 |
 | 11 | [Femfus](https://github.com/Femfus) | Molly | Faroe Islands | 127 |
@@ -83,4 +83,4 @@ Indexed users: 68
 | 19 | [olavurellefsen](https://github.com/olavurellefsen) | Olavur Ellefsen | Faroe Islands | 7 |
 | 20 | [shishpt](https://github.com/shishpt) | Shishir Patel | Torshavn, Faroe Islands | 7 |
 
-Generated: 2026-10-17T03:30:38.175Z
+Generated: 2026-10-17T06:06:54.332Z

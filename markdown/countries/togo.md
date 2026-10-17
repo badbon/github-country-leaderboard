@@ -28,7 +28,7 @@ Indexed users: 679
 | 14 | [Dreykovic](https://github.com/Dreykovic) | Birewa Audrey AMONA | Togo | 4,464 |
 | 15 | [Rahim10020](https://github.com/Rahim10020) | Rahim ALI | Lome -TOGO | 4,223 |
 | 16 | [Einswilli](https://github.com/Einswilli) | #Einswilli | Lomé | 3,881 |
-| 17 | [Giovidoh](https://github.com/Giovidoh) | ICGreborns | Lomé, Togo | 3,640 |
+| 17 | [Giovidoh](https://github.com/Giovidoh) | ICGreborns | Lomé, Togo | 3,614 |
 | 18 | [Ygryan360](https://github.com/Ygryan360) | Rayane | Lomé, Togo | 3,531 |
 | 19 | [Georginio-prod](https://github.com/Georginio-prod) | Georginio  | lomé-TOGO | 3,521 |
 | 20 | [Le-Sourcier](https://github.com/Le-Sourcier) | Yao David LOGAN | US, TOGO, UK | 3,512 |
@@ -62,7 +62,7 @@ Indexed users: 679
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [bekmarc](https://github.com/bekmarc) | K. Marco BEKOUTARE | Togo | 384 |
+| 1 | [bekmarc](https://github.com/bekmarc) | K. Marco BEKOUTARE | Togo | 386 |
 | 2 | [mayonorris](https://github.com/mayonorris) | Mayo Takémsi Norris KADANGA | Lomé, Togo | 209 |
 | 3 | [IrouKaizen](https://github.com/IrouKaizen) | irouKaizen | Lomé | 197 |
 | 4 | [kpidiba](https://github.com/kpidiba) | KaizenCoder | Lomé-Togo | 149 |
@@ -83,4 +83,4 @@ Indexed users: 679
 | 19 | [ica1010](https://github.com/ica1010) | Ghislin | Lomé , Togo | 65 |
 | 20 | [Maximekgn](https://github.com/Maximekgn) | KOGON Mawunygan Maxime | Togo | 64 |
 
-Generated: 2026-10-17T02:40:53.627Z
+Generated: 2026-10-17T05:36:39.380Z

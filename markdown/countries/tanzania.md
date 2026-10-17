@@ -53,8 +53,8 @@ Indexed users: 2,039
 | 14 | [Heracraft](https://github.com/Heracraft) | Nehemia Kaaya | Tanzania | 1,826 |
 | 15 | [elishagerson](https://github.com/elishagerson) | Elisha Gerson | Mbeya, Tanzania | 1,711 |
 | 16 | [AdamMashaka](https://github.com/AdamMashaka) | Adam Mashaka | Dar es salaam , Tanzania | 1,565 |
-| 17 | [fmpiza](https://github.com/fmpiza) | fridolinmpiza, Msc. | Tanzania | 1,544 |
-| 18 | [Gudi650](https://github.com/Gudi650) | Godluck Emmanuel Msangi | Tanzania | 1,516 |
+| 17 | [Gudi650](https://github.com/Gudi650) | Godluck Emmanuel Msangi | Tanzania | 1,551 |
+| 18 | [fmpiza](https://github.com/fmpiza) | fridolinmpiza, Msc. | Tanzania | 1,544 |
 | 19 | [JuliusNtale](https://github.com/JuliusNtale) | Julius Peter Ntale | Tanzania  | 1,497 |
 | 20 | [zayqu](https://github.com/zayqu) | Daraja | Dar Es Salaam, Tanzania | 1,452 |
 
@@ -83,4 +83,4 @@ Indexed users: 2,039
 | 19 | [3nock](https://github.com/3nock) | Enock | Dar es Salaam, Tanzania | 188 |
 | 20 | [Mrhanstz](https://github.com/Mrhanstz) | HANSTZ | Africa Dodoma | 179 |
 
-Generated: 2026-10-17T02:39:42.530Z
+Generated: 2026-10-17T05:36:27.847Z

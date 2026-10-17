@@ -18,14 +18,14 @@ Indexed users: 235
 | 4 | [INGANZAMARUMPU](https://github.com/INGANZAMARUMPU) | NKURUNZIZA | Bujumbura, Burundi | 2,470 |
 | 5 | [klauskira07](https://github.com/klauskira07) | Klaus KIRA | Burundi | 2,129 |
 | 6 | [yvartpro](https://github.com/yvartpro) | Nshemezimana Yves | Bujumbura,Burundi | 1,651 |
-| 7 | [gatarelib](https://github.com/gatarelib) | Gatare Libère | Burundi | 1,547 |
+| 7 | [gatarelib](https://github.com/gatarelib) | Gatare Libère | Burundi | 1,545 |
 | 8 | [kalculata](https://github.com/kalculata) | Huzaifa Nimushimirimana | Bujumbura, Burundi | 1,512 |
 | 9 | [Blaise28](https://github.com/Blaise28) | MANIRAKIZA Blaise | Burundi/Bujumbura | 1,504 |
 | 10 | [Advaxe](https://github.com/Advaxe) | Advaxe Ndayisenga | Gitega-Burundi | 1,307 |
 | 11 | [tertcoder](https://github.com/tertcoder) | Bon Tertius Tuyishimire  | Bujumbura, Burundi | 1,298 |
 | 12 | [allyelvis](https://github.com/allyelvis) | Ally Elvis Nzeyimana | Burundi | 1,252 |
 | 13 | [XPTOOLS](https://github.com/XPTOOLS) | XP TOOLS | Burundi | 1,108 |
-| 14 | [b3rking](https://github.com/b3rking) | ISHIMWE Eschyle Bersy | Burundi | 1,027 |
+| 14 | [b3rking](https://github.com/b3rking) | ISHIMWE Eschyle Bersy | Burundi | 1,029 |
 | 15 | [Janeirohurley](https://github.com/Janeirohurley) | Janeiro hurley | Burundi | 1,007 |
 | 16 | [arsou2015](https://github.com/arsou2015) | Arsene Nduwayo | Burundi | 981 |
 | 17 | [Evran0](https://github.com/Evran0) | Eddy Poli | Bujumbura,  Burundi | 953 |
@@ -54,8 +54,8 @@ Indexed users: 235
 | 15 | [Christardev](https://github.com/Christardev) | NIJIMBERE Jean-Christar | Burundi | 134 |
 | 16 | [MrDeveloperXP](https://github.com/MrDeveloperXP) | MrXP | Burundi | 117 |
 | 17 | [Yanhozanam](https://github.com/Yanhozanam) | Yan Hozanam Mbonyumugisha | Burundi | 112 |
-| 18 | [JovinMtl](https://github.com/JovinMtl) | Nsanzumukiza Thierry | Bujumbura, Burundi | 111 |
-| 19 | [b3rking](https://github.com/b3rking) | ISHIMWE Eschyle Bersy | Burundi | 109 |
+| 18 | [b3rking](https://github.com/b3rking) | ISHIMWE Eschyle Bersy | Burundi | 111 |
+| 19 | [JovinMtl](https://github.com/JovinMtl) | Nsanzumukiza Thierry | Bujumbura, Burundi | 111 |
 | 20 | [clevercreativeofficial](https://github.com/clevercreativeofficial) | Clever Creative | Burundi | 108 |
 
 ## Followers
@@ -63,7 +63,7 @@ Indexed users: 235
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [JovinMtl](https://github.com/JovinMtl) | Nsanzumukiza Thierry | Bujumbura, Burundi | 368 |
-| 2 | [gatarelib](https://github.com/gatarelib) | Gatare Libère | Burundi | 146 |
+| 2 | [gatarelib](https://github.com/gatarelib) | Gatare Libère | Burundi | 147 |
 | 3 | [EddyKubwimana](https://github.com/EddyKubwimana) | Eddy Kubwimana | Burundi | 135 |
 | 4 | [muco-rolle](https://github.com/muco-rolle) | Trésor Muco | Bujumbura, Burundi | 102 |
 | 5 | [Toussaint-Coder](https://github.com/Toussaint-Coder) | toussaint iradukunda | bujumbura, burundi | 90 |
@@ -83,4 +83,4 @@ Indexed users: 235
 | 19 | [arsou2015](https://github.com/arsou2015) | Arsene Nduwayo | Burundi | 35 |
 | 20 | [tertcoder](https://github.com/tertcoder) | Bon Tertius Tuyishimire  | Bujumbura, Burundi | 35 |
 
-Generated: 2026-10-17T03:13:23.922Z
+Generated: 2026-10-17T05:56:14.859Z

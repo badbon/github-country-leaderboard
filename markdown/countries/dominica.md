@@ -12,10 +12,10 @@ Indexed users: 18
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [xeno3dev](https://github.com/xeno3dev) | Aylon Johnson | Dominica | 537 |
+| 1 | [xeno3dev](https://github.com/xeno3dev) | Aylon Johnson | Dominica | 538 |
 | 2 | [jaheemprevost](https://github.com/jaheemprevost) | Jaheem Prevost | Dominica | 343 |
 | 3 | [crwne1](https://github.com/crwne1) | Kieron Clunes | Roseau, Dominica  | 107 |
-| 4 | [kingDebo](https://github.com/kingDebo) | Debo | Dominica, Caribbean | 96 |
+| 4 | [kingDebo](https://github.com/kingDebo) | Debo | Dominica, Caribbean | 101 |
 | 5 | [jozreel](https://github.com/jozreel) | Jozreel Laurent | Roseau, Dominica | 44 |
 | 6 | [jaimonorle](https://github.com/jaimonorle) | Jaimon Orlé | Dominica | 43 |
 | 7 | [lazarusvc](https://github.com/lazarusvc) | Austin Lazarus | Dominica | 26 |
@@ -35,7 +35,7 @@ Indexed users: 18
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [xeno3dev](https://github.com/xeno3dev) | Aylon Johnson | Dominica | 216 |
+| 1 | [xeno3dev](https://github.com/xeno3dev) | Aylon Johnson | Dominica | 217 |
 | 2 | [jozreel](https://github.com/jozreel) | Jozreel Laurent | Roseau, Dominica | 44 |
 | 3 | [jaimonorle](https://github.com/jaimonorle) | Jaimon Orlé | Dominica | 43 |
 | 4 | [kingDebo](https://github.com/kingDebo) | Debo | Dominica, Caribbean | 20 |
@@ -77,4 +77,4 @@ Indexed users: 18
 | 17 | [robinsonassc](https://github.com/robinsonassc) | Edmund Robinson | Dominica | 1 |
 | 18 | [theode](https://github.com/theode) | Derrick Theophille | Dominica | 1 |
 
-Generated: 2026-10-17T03:22:02.497Z
+Generated: 2026-10-17T06:03:03.594Z

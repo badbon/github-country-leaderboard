@@ -14,12 +14,12 @@ Indexed users: 53
 |---:|---|---|---|---:|
 | 1 | [mvdgun](https://github.com/mvdgun) | Mauro van der Gun | Curaçao | 6,252 |
 | 2 | [kloostermanw](https://github.com/kloostermanw) | Wiebe | Willemstad, Curaçao | 3,835 |
-| 3 | [flangfeldt](https://github.com/flangfeldt) | FΞLIX | Willemstad, Curacao | 3,595 |
+| 3 | [flangfeldt](https://github.com/flangfeldt) | FΞLIX | Willemstad, Curacao | 3,586 |
 | 4 | [BalusC](https://github.com/BalusC) | Bauke Scholtz | Willemstad, Curaçao | 3,403 |
-| 5 | [dwarfland](https://github.com/dwarfland) | marc hoffman | Curaçao | 1,440 |
+| 5 | [dwarfland](https://github.com/dwarfland) | marc hoffman | Curaçao | 1,435 |
 | 6 | [GilbertoFraaij](https://github.com/GilbertoFraaij) |  | Curacao, Netherlands Antilles | 1,257 |
-| 7 | [frankgeerlings](https://github.com/frankgeerlings) | Frank Geerlings | Curaçao | 918 |
-| 8 | [drosalia](https://github.com/drosalia) | Darrell Rosalia | Curaçao | 917 |
+| 7 | [drosalia](https://github.com/drosalia) | Darrell Rosalia | Curaçao | 917 |
+| 8 | [frankgeerlings](https://github.com/frankgeerlings) | Frank Geerlings | Curaçao | 911 |
 | 9 | [JObersi10](https://github.com/JObersi10) |  | Willemstad, Curaçao | 472 |
 | 10 | [emile2600](https://github.com/emile2600) | Emile | Willemstad, Curacao | 378 |
 | 11 | [acesuares](https://github.com/acesuares) | Ace Suares | Willemstad, Netherlands Antilles | 253 |
@@ -39,7 +39,7 @@ Indexed users: 53
 |---:|---|---|---|---:|
 | 1 | [BalusC](https://github.com/BalusC) | Bauke Scholtz | Willemstad, Curaçao | 3,403 |
 | 2 | [kloostermanw](https://github.com/kloostermanw) | Wiebe | Willemstad, Curaçao | 489 |
-| 3 | [dwarfland](https://github.com/dwarfland) | marc hoffman | Curaçao | 487 |
+| 3 | [dwarfland](https://github.com/dwarfland) | marc hoffman | Curaçao | 486 |
 | 4 | [JObersi10](https://github.com/JObersi10) |  | Willemstad, Curaçao | 468 |
 | 5 | [acesuares](https://github.com/acesuares) | Ace Suares | Willemstad, Netherlands Antilles | 253 |
 | 6 | [weyert](https://github.com/weyert) | Weyert de Boer | London, Curaçao | 130 |
@@ -83,4 +83,4 @@ Indexed users: 53
 | 19 | [theowlsden](https://github.com/theowlsden) | Shaquil Maria | Curaçao | 6 |
 | 20 | [coinversus](https://github.com/coinversus) | CoinVersus | Curaçao | 5 |
 
-Generated: 2026-10-17T03:19:49.906Z
+Generated: 2026-10-17T06:01:55.177Z

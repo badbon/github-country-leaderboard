@@ -23,9 +23,9 @@ Indexed users: 1,274
 | 9 | [DinitoThompson](https://github.com/DinitoThompson) | Dinito Thompson | Jamaica | 6,874 |
 | 10 | [marcamillion](https://github.com/marcamillion) | Marc Gayle | Kingston, Jamaica | 6,366 |
 | 11 | [billlevine](https://github.com/billlevine) | Bill LeVine | Kingston, Ontario | 6,067 |
-| 12 | [dimitriharding](https://github.com/dimitriharding) | Dimitri Harding | Kingston, Jamaica | 5,291 |
-| 13 | [SammarieoBrown](https://github.com/SammarieoBrown) | Sammarieo Brown | Kingston, Jamaica | 5,238 |
-| 14 | [tunecrew](https://github.com/tunecrew) | Christopher Edmonds | Kingston, Jamaica | 5,114 |
+| 12 | [tunecrew](https://github.com/tunecrew) | Christopher Edmonds | Kingston, Jamaica | 5,976 |
+| 13 | [dimitriharding](https://github.com/dimitriharding) | Dimitri Harding | Kingston, Jamaica | 5,291 |
+| 14 | [SammarieoBrown](https://github.com/SammarieoBrown) | Sammarieo Brown | Kingston, Jamaica | 5,238 |
 | 15 | [emperorjm](https://github.com/emperorjm) | Adrian Thompson | Jamaica | 4,618 |
 | 16 | [javaniecampbell](https://github.com/javaniecampbell) | Javanie Campbell | Jamaica | 4,388 |
 | 17 | [cogell](https://github.com/cogell) | B. Cedric Cogell | Kingston, NY | 4,336 |
@@ -83,4 +83,4 @@ Indexed users: 1,274
 | 19 | [aliasad059](https://github.com/aliasad059) | Ali Asad | Kingston, Ontario | 100 |
 | 20 | [jordanliu](https://github.com/jordanliu) | Jordan Liu | Kingston, Jamaica | 95 |
 
-Generated: 2026-10-17T03:47:57.029Z
+Generated: 2026-10-17T06:16:31.470Z

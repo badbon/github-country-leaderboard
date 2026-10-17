@@ -1,6 +1,6 @@
 # Iran
 
-Indexed users: 26,870
+Indexed users: 26,869
 
 | Leaderboard | Link |
 |---|---|
@@ -66,7 +66,7 @@ Indexed users: 26,870
 | 2 | [mohammadhasanii](https://github.com/mohammadhasanii) | Mohammad | Tehran , Iran | 10,108 |
 | 3 | [SharifiZarchi](https://github.com/SharifiZarchi) | علی شریفی زارچی | Tehran, Iran | 4,688 |
 | 4 | [mrpaziresh](https://github.com/mrpaziresh) | Ali Reza Paziresh | Tehran | 3,137 |
-| 5 | [alikhazaeii](https://github.com/alikhazaeii) | Ali | iran , Tehran | 2,873 |
+| 5 | [alikhazaeii](https://github.com/alikhazaeii) | Ali | iran , Tehran | 2,854 |
 | 6 | [CodingWithEnjoy](https://github.com/CodingWithEnjoy) | Amirmasoud Abedi | Tehran, Iran | 2,751 |
 | 7 | [FaezehRahimian](https://github.com/FaezehRahimian) | Faezeh | Iran | 2,509 |
 | 8 | [ircfspace](https://github.com/ircfspace) | IRCF | Iran | 2,498 |
@@ -83,4 +83,4 @@ Indexed users: 26,870
 | 19 | [abolfazl-shadrouh](https://github.com/abolfazl-shadrouh) | Abolfazl Shadrouh | Guilan, Iran | 1,388 |
 | 20 | [FarzaneF](https://github.com/FarzaneF) | Farzane Faizi | Shiraz,Iran | 1,352 |
 
-Generated: 2026-10-17T03:45:18.565Z
+Generated: 2026-10-17T06:15:19.225Z

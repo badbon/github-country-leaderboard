@@ -14,8 +14,8 @@ Indexed users: 59
 |---:|---|---|---|---:|
 | 1 | [sgoggins](https://github.com/sgoggins) | Sean P. Goggins | Greenland | 3,876 |
 | 2 | [johan-ejstrud](https://github.com/johan-ejstrud) | Johan Ejstrud | Nuuk, Greenland | 1,764 |
-| 3 | [ProjectAtlantis-dev](https://github.com/ProjectAtlantis-dev) | hello kitty | Greenland | 1,413 |
-| 4 | [ASGDLO](https://github.com/ASGDLO) | ASGDLO | Greenland | 1,269 |
+| 3 | [ProjectAtlantis-dev](https://github.com/ProjectAtlantis-dev) | hello kitty | Greenland | 1,404 |
+| 4 | [ASGDLO](https://github.com/ASGDLO) | ASGDLO | Greenland | 1,268 |
 | 5 | [filzehoka](https://github.com/filzehoka) | Filze | Greenland | 900 |
 | 6 | [WingWR](https://github.com/WingWR) |  | Greenland | 821 |
 | 7 | [ibdj](https://github.com/ibdj) | ibdj | Nuuk, Greenland | 696 |
@@ -38,7 +38,7 @@ Indexed users: 59
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [sgoggins](https://github.com/sgoggins) | Sean P. Goggins | Greenland | 1,944 |
-| 2 | [ProjectAtlantis-dev](https://github.com/ProjectAtlantis-dev) | hello kitty | Greenland | 1,413 |
+| 2 | [ProjectAtlantis-dev](https://github.com/ProjectAtlantis-dev) | hello kitty | Greenland | 1,404 |
 | 3 | [filzehoka](https://github.com/filzehoka) | Filze | Greenland | 900 |
 | 4 | [ibdj](https://github.com/ibdj) | ibdj | Nuuk, Greenland | 696 |
 | 5 | [WingWR](https://github.com/WingWR) |  | Greenland | 544 |
@@ -67,7 +67,7 @@ Indexed users: 59
 | 3 | [panyster](https://github.com/panyster) | Pany | Greenland | 1,026 |
 | 4 | [Jiiks](https://github.com/Jiiks) | Alexei Stukov | Greenland | 293 |
 | 5 | [sgoggins](https://github.com/sgoggins) | Sean P. Goggins | Greenland | 201 |
-| 6 | [ASGDLO](https://github.com/ASGDLO) | ASGDLO | Greenland | 151 |
+| 6 | [ASGDLO](https://github.com/ASGDLO) | ASGDLO | Greenland | 150 |
 | 7 | [Nelson-Cheung](https://github.com/Nelson-Cheung) | Nelson Cheung | Greenland | 91 |
 | 8 | [FandyHanz](https://github.com/FandyHanz) | General Tenzen Yamauchi | Fjord Dickson, Greenland | 63 |
 | 9 | [Naxela](https://github.com/Naxela) | Alexander Kleemann | Greenland | 58 |
@@ -83,4 +83,4 @@ Indexed users: 59
 | 19 | [yuzujam](https://github.com/yuzujam) | yuzujam | Nuuk,Greenland | 10 |
 | 20 | [DaniEstevezBarcia](https://github.com/DaniEstevezBarcia) | Daniel Estévez-Barcia | Greenland | 8 |
 
-Generated: 2026-10-17T03:35:23.434Z
+Generated: 2026-10-17T06:10:13.627Z

@@ -1,8 +1,8 @@
 # Total Contributions - Barbados
 
-Generated: 2026-10-17T03:03:07.365Z
+Generated: 2026-10-17T05:51:26.451Z
 
-Users: 133
+Users: 132
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -14,14 +14,14 @@ Users: 133
 | 6 | [shaquillehinds](https://github.com/shaquillehinds) | Shaquille Hinds |  |  | Barbados | 2750 |
 | 7 | [alexlilburn](https://github.com/alexlilburn) | Alex Lilburn |  |  | Barbados | 1931 |
 | 8 | [Taggs](https://github.com/Taggs) | Neil Taggart | Adaptive Consulting | neiltaggart | (London \|\| Barbados) && Cloud | 1719 |
-| 9 | [FamineDT246](https://github.com/FamineDT246) | Ceejay C |  |  | Barbados | 1527 |
+| 9 | [FamineDT246](https://github.com/FamineDT246) | Ceejay C |  |  | Barbados | 1545 |
 | 10 | [ShamarKellman](https://github.com/ShamarKellman) | Shamar Kellman |  | CoderShamar | Barbados | 1377 |
 | 11 | [alexanderbahlk](https://github.com/alexanderbahlk) | Alexander Bahlk | Coast Solutions OÜ |  | Barbados | 1341 |
 | 12 | [dario-j-c](https://github.com/dario-j-c) | Dario J C |  |  | Barbados | 1139 |
 | 13 | [lukehefson](https://github.com/lukehefson) | Luke Hefson | @workbrew | lukehefson | Barbados | 960 |
 | 14 | [ianhambleton](https://github.com/ianhambleton) | Ian Hambleton | The University of the West Indies |  | Barbados | 676 |
 | 15 | [Thomas-Heniart](https://github.com/Thomas-Heniart) | Thomas Heniart | Bitfinex |  | Barbados | 604 |
-| 16 | [starsden](https://github.com/starsden) | den | Airbus |  | Barbados | 582 |
+| 16 | [starsden](https://github.com/starsden) | den | Airbus |  | Barbados | 584 |
 | 17 | [diondree](https://github.com/diondree) | Diondre Edwards |  | diondredev | Barbados | 443 |
 | 18 | [paulamelrz](https://github.com/paulamelrz) | Paula Melero | Viral Nation |  | Barbados | 441 |
 | 19 | [caritechsolutions](https://github.com/caritechsolutions) |  |  |  | Barbados | 410 |

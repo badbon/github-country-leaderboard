@@ -1,6 +1,6 @@
 # Public Contributions - Tanzania
 
-Generated: 2026-10-17T02:39:42.530Z
+Generated: 2026-10-17T05:36:27.847Z
 
 Users: 2039
 
@@ -22,7 +22,7 @@ Users: 2039
 | 14 | [Heracraft](https://github.com/Heracraft) | Nehemia Kaaya |  |  | Tanzania | 1826 |
 | 15 | [elishagerson](https://github.com/elishagerson) | Elisha Gerson |  |  | Mbeya, Tanzania | 1711 |
 | 16 | [AdamMashaka](https://github.com/AdamMashaka) | Adam Mashaka | University of Dar es salaam | AdamMashak1 | Dar es salaam , Tanzania | 1565 |
-| 17 | [fmpiza](https://github.com/fmpiza) | fridolinmpiza, Msc. |  |  | Tanzania | 1544 |
-| 18 | [Gudi650](https://github.com/Gudi650) | Godluck Emmanuel Msangi |  |  | Tanzania | 1516 |
+| 17 | [Gudi650](https://github.com/Gudi650) | Godluck Emmanuel Msangi |  |  | Tanzania | 1551 |
+| 18 | [fmpiza](https://github.com/fmpiza) | fridolinmpiza, Msc. |  |  | Tanzania | 1544 |
 | 19 | [JuliusNtale](https://github.com/JuliusNtale) | Julius Peter Ntale | Neuraltlae Technologies |  | Tanzania  | 1497 |
 | 20 | [zayqu](https://github.com/zayqu) | Daraja | MzHoldings |  | Dar Es Salaam, Tanzania | 1452 |

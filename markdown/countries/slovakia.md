@@ -45,11 +45,11 @@ Indexed users: 4,666
 | 6 | [lalinsky](https://github.com/lalinsky) | Lukáš Lalinský | Trenčín, Slovakia | 3,812 |
 | 7 | [Kenessy](https://github.com/Kenessy) | Daniel Kenessy | Slovakia | 3,788 |
 | 8 | [imincik](https://github.com/imincik) | Ivan Mincik | Slovakia | 3,740 |
-| 9 | [vzeman](https://github.com/vzeman) | Viktor Zeman | Bratislava | 3,667 |
-| 10 | [marianmeres](https://github.com/marianmeres) | Marian Meres | Bratislava, Slovakia | 3,264 |
-| 11 | [peter-fusek](https://github.com/peter-fusek) | Peter Fusek \| instarea | Bratislava, Slovakia, EU | 3,256 |
-| 12 | [matejkosiarcik](https://github.com/matejkosiarcik) | Matej Košiarčik | Slovakia | 3,113 |
-| 13 | [MatusMockor](https://github.com/MatusMockor) | Matúš Močkor | Slovakia | 3,031 |
+| 9 | [MatusMockor](https://github.com/MatusMockor) | Matúš Močkor | Slovakia | 3,668 |
+| 10 | [vzeman](https://github.com/vzeman) | Viktor Zeman | Bratislava | 3,667 |
+| 11 | [marianmeres](https://github.com/marianmeres) | Marian Meres | Bratislava, Slovakia | 3,264 |
+| 12 | [peter-fusek](https://github.com/peter-fusek) | Peter Fusek \| instarea | Bratislava, Slovakia, EU | 3,256 |
+| 13 | [matejkosiarcik](https://github.com/matejkosiarcik) | Matej Košiarčik | Slovakia | 3,113 |
 | 14 | [NightMean](https://github.com/NightMean) |  | Slovakia | 3,023 |
 | 15 | [WizzardSK](https://github.com/WizzardSK) |  | Bratislava, Slovakia | 2,853 |
 | 16 | [alvianzf](https://github.com/alvianzf) | Alvian Zachry Faturrahman | Tanjungpinang, Batam, Karimun, Bratislava | 2,610 |
@@ -83,4 +83,4 @@ Indexed users: 4,666
 | 19 | [Stiivi](https://github.com/Stiivi) | Stefan Urbanek | Bratislava | 280 |
 | 20 | [haad](https://github.com/haad) | Adam Hamsik | Bratislava Slovakia | 259 |
 
-Generated: 2026-10-17T02:32:09.533Z
+Generated: 2026-10-17T05:31:53.761Z

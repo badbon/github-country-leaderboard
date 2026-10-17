@@ -1,6 +1,6 @@
 # Total Contributions - Angola
 
-Generated: 2026-10-17T02:56:24.070Z
+Generated: 2026-10-17T05:46:14.036Z
 
 Users: 2500
 
@@ -10,7 +10,7 @@ Users: 2500
 | 2 | [aurennunes](https://github.com/aurennunes) | Aureliano Nunes | @spollytech |  | Angola | 13225 |
 | 3 | [marianoj8](https://github.com/marianoj8) | Mariano JavaSwing | Wasp-TI |  | Angola, Luanda | 12910 |
 | 4 | [Katumbela](https://github.com/Katumbela) | João Afonso Katombela | @R360 |  | LUANDA | 11834 |
-| 5 | [josecaseiro](https://github.com/josecaseiro) | José Caseiro | Musickool Lda |  | Angola | 10064 |
+| 5 | [josecaseiro](https://github.com/josecaseiro) | José Caseiro | Musickool Lda |  | Angola | 10429 |
 | 6 | [EmanuelJoseCandido](https://github.com/EmanuelJoseCandido) | Emanuel Cândido |  |  | Luanda, Angola | 8618 |
 | 7 | [nuelst](https://github.com/nuelst) | manuel |  |  | Luanda, Angola | 6554 |
 | 8 | [Jndungue089](https://github.com/Jndungue089) | Josemar Ndungue |  |  | Angola | 6520 |
@@ -21,8 +21,8 @@ Users: 2500
 | 13 | [cnoble](https://github.com/cnoble) | Chris Noble | Business Warrior |  | Angola, IN | 5388 |
 | 14 | [osvaldowafulua](https://github.com/osvaldowafulua) | Osvaldo Wafulua | Smart Cloud |  | Angola | 4952 |
 | 15 | [noejunior299](https://github.com/noejunior299) | Noé Idagi | ITEL - Institute of Telecomunications | noejunior299 | Angola/Luanda | 4947 |
-| 16 | [Dalcio](https://github.com/Dalcio) | Dálcio Macuete Garcia |  | dalcio_ | Angola | 3992 |
-| 17 | [steviejames](https://github.com/steviejames) | Sílvio Dumba |  |  | Luanda, Angola | 3691 |
-| 18 | [paulinofonsecas](https://github.com/paulinofonsecas) | Paulino Fonseca | BITKABIR | fonseca00c | Luanda | 3660 |
-| 19 | [rickdeu](https://github.com/rickdeu) | André Hangalo |  Horizon Dev | rickdeu | Angola | 3655 |
-| 20 | [overlineink](https://github.com/overlineink) | 𝔍𝖔𝖗𝖌𝖊 𝕮𝖔𝖘𝖙𝖆 | Principal Frontend Engineer @ Appy People, Co-Founder of @businx | overlineink | Luanda, Angola | 3600 |
+| 16 | [Zebedeu](https://github.com/Zebedeu) | Marcio Zebedeu |  | marciozebedeu | Angola | 4177 |
+| 17 | [Dalcio](https://github.com/Dalcio) | Dálcio Macuete Garcia |  | dalcio_ | Angola | 3992 |
+| 18 | [steviejames](https://github.com/steviejames) | Sílvio Dumba |  |  | Luanda, Angola | 3691 |
+| 19 | [paulinofonsecas](https://github.com/paulinofonsecas) | Paulino Fonseca | BITKABIR | fonseca00c | Luanda | 3660 |
+| 20 | [rickdeu](https://github.com/rickdeu) | André Hangalo |  Horizon Dev | rickdeu | Angola | 3655 |

@@ -19,7 +19,7 @@ Indexed users: 488
 | 5 | [baudoliver7](https://github.com/baudoliver7) | Olivier Baudouin OURA | Abidjan, Côte d'Ivoire | 7,500 |
 | 6 | [AlMoustapha01](https://github.com/AlMoustapha01) | Al Moustapha | Cocody, Abidjan, Côte d'Ivoire | 6,303 |
 | 7 | [houssenedao](https://github.com/houssenedao) | Houssene Dao | Côte d'ivoire, Abidjan | 6,148 |
-| 8 | [theboss001](https://github.com/theboss001) | Landry Kolaï | Côte d'ivoire | 5,851 |
+| 8 | [theboss001](https://github.com/theboss001) | Landry Kolaï | Côte d'ivoire | 5,835 |
 | 9 | [lordkkjmix](https://github.com/lordkkjmix) | Koffi Josué Kouakou | abidjan, côte d'ivoire | 5,781 |
 | 10 | [karimalik](https://github.com/karimalik) | Karim Kompissi | Abidjan, Côte d'ivoire | 5,328 |
 | 11 | [lambirou](https://github.com/lambirou) | Roland Edi | Abidjan, Côte d'ivoire | 5,304 |
@@ -83,4 +83,4 @@ Indexed users: 488
 | 19 | [DevAlves1993](https://github.com/DevAlves1993) | Christian Alves Cyrille Amani | Ivory Coast (Abidjan) | 42 |
 | 20 | [stephsalou](https://github.com/stephsalou) | stephane salou | Abidjan , Côte D'Ivoire | 42 |
 
-Generated: 2026-10-17T03:47:51.916Z
+Generated: 2026-10-17T06:16:26.897Z

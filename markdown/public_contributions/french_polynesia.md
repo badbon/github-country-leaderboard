@@ -1,12 +1,12 @@
 # Public Contributions - French Polynesia
 
-Generated: 2026-10-17T03:31:43.349Z
+Generated: 2026-10-17T06:07:40.971Z
 
 Users: 60
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [smortex](https://github.com/smortex) | Romain Tartière | @FreeBSD @opus-codium @voxpupuli |  | Faa'a, Tahiti, French Polynesia | 1060 |
+| 1 | [smortex](https://github.com/smortex) | Romain Tartière | @FreeBSD @opus-codium @voxpupuli |  | Faa'a, Tahiti, French Polynesia | 1057 |
 | 2 | [ch4mpy](https://github.com/ch4mpy) | Jérôme Wacongne |  |  | Papeete, French Polynesia | 501 |
 | 3 | [craff](https://github.com/craff) | Christophe Raffalli | Gaati, UPF |  | Polynésie, Française | 428 |
 | 4 | [marsender](https://github.com/marsender) | Didier Corbière |  |  | French Polynesia | 390 |

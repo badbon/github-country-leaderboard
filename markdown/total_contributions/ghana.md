@@ -1,8 +1,8 @@
 # Total Contributions - Ghana
 
-Generated: 2026-10-17T03:33:52.162Z
+Generated: 2026-10-17T06:09:16.815Z
 
-Users: 7092
+Users: 7091
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -13,10 +13,10 @@ Users: 7092
 | 5 | [danieladeabah](https://github.com/danieladeabah) | Daniel Adeabah | CEO at Toazeo, Fullstack Dev @wonchunii. |  | Takoradi, Western Region, Ghana. | 24855 |
 | 6 | [lutheralien](https://github.com/lutheralien) | Luther Essum |  | lutheralien | Ghana | 16506 |
 | 7 | [mhiskall282](https://github.com/mhiskall282) | John Okyere | https://johnokyere.xyz | 0xMhiskall | Accra Ghana | 15891 |
-| 8 | [felixyeboah](https://github.com/felixyeboah) | Felix Nana Yaw Yeboah | Complete Farmer LLC | sudocode_ | Accra, Ghana | 12739 |
-| 9 | [Philinzag](https://github.com/Philinzag) | Philip A. | SOFNED |  | Ghana | 10626 |
-| 10 | [DreKwasi](https://github.com/DreKwasi) | Andrews Boateng | Piply |  | Accra, Ghana | 10142 |
-| 11 | [Gideon-Dadey](https://github.com/Gideon-Dadey) | Gideon Dadey | PragmaHealth LLC | cannymirah | Accra, Ghana | 9758 |
+| 8 | [Gideon-Dadey](https://github.com/Gideon-Dadey) | Gideon Dadey | PragmaHealth LLC | cannymirah | Accra, Ghana | 15633 |
+| 9 | [felixyeboah](https://github.com/felixyeboah) | Felix Nana Yaw Yeboah | Complete Farmer LLC | sudocode_ | Accra, Ghana | 12739 |
+| 10 | [Philinzag](https://github.com/Philinzag) | Philip A. | SOFNED |  | Ghana | 10626 |
+| 11 | [DreKwasi](https://github.com/DreKwasi) | Andrews Boateng | Piply |  | Accra, Ghana | 10142 |
 | 12 | [qbentil](https://github.com/qbentil) | Bentil Shadrack |  | themanbentil | Ghana | 9624 |
 | 13 | [Eselase-Noble](https://github.com/Eselase-Noble) | Nobleson | AfricodeLab | brandedhustler | Accra | 9406 |
 | 14 | [Aliu2211](https://github.com/Aliu2211) | Aliu Tijani |  | AliuTijani21 | Ghana | 9365 |

@@ -23,7 +23,7 @@ Indexed users: 1,487
 | 9 | [danishyarkhwork](https://github.com/danishyarkhwork) | Khalid Danishyar | Kabul, Afghanistan | 9,591 |
 | 10 | [Nasratullah-Shafiq](https://github.com/Nasratullah-Shafiq) | Nasratullah Shafiq | Afghanistan | 7,449 |
 | 11 | [Ali-Aref](https://github.com/Ali-Aref) | Ali Aref | Kabul Afghanistan | 7,369 |
-| 12 | [Mustafa-Zahedi](https://github.com/Mustafa-Zahedi) | Mustafa Zahedi | Herat, Afghanistan | 6,766 |
+| 12 | [Mustafa-Zahedi](https://github.com/Mustafa-Zahedi) | Mustafa Zahedi | Herat, Afghanistan | 6,684 |
 | 13 | [ShoaibNaseri](https://github.com/ShoaibNaseri) | Shoaib Naseri | Afghanistan | 6,157 |
 | 14 | [WiyarAhmadZai](https://github.com/WiyarAhmadZai) | Muhammad Hakeem Wiyar | Kabul khoshal khan | 6,063 |
 | 15 | [shahghasiadil](https://github.com/shahghasiadil) | Shahghasi Adil | Afghanistan | 5,753 |
@@ -50,8 +50,8 @@ Indexed users: 1,487
 | 11 | [abdurrahmanoori](https://github.com/abdurrahmanoori) | Abdurrahman Noori | Afghanistan  | 1,471 |
 | 12 | [ElhamDevelopmentStudio](https://github.com/ElhamDevelopmentStudio) | Elhamullah Hossaini | Kabul, Afghanistan | 1,442 |
 | 13 | [MohammadNasirAriaee](https://github.com/MohammadNasirAriaee) | Mohammad Nasir Ariaee | Kabul, Afghanistan | 1,398 |
-| 14 | [sulaimanQasimi](https://github.com/sulaimanQasimi) | Sulaiman Qasimi | Kabul, Afghanistan | 1,318 |
-| 15 | [elyasdehati](https://github.com/elyasdehati) | Elyas Dehati | Kabul, Afghanistan | 1,261 |
+| 14 | [elyasdehati](https://github.com/elyasdehati) | Elyas Dehati | Kabul, Afghanistan | 1,261 |
+| 15 | [sulaimanQasimi](https://github.com/sulaimanQasimi) | Sulaiman Qasimi | Kabul, Afghanistan | 1,259 |
 | 16 | [Jamalludeen](https://github.com/Jamalludeen) | Jamalludeen Karimi | Kabul, Afghanistan | 1,214 |
 | 17 | [Munib03](https://github.com/Munib03) | Hedayatullah Yamin | Afghanistan | 1,083 |
 | 18 | [nasir-ehsan-83](https://github.com/nasir-ehsan-83) | Nasir Ahmad Ehsan | Herat, Afghanistan | 1,078 |
@@ -83,4 +83,4 @@ Indexed users: 1,487
 | 19 | [zainabturkmen](https://github.com/zainabturkmen) | Zainab Turkmen | Kabul  | 124 |
 | 20 | [NaveedAhmadHematmal](https://github.com/NaveedAhmadHematmal) | Naveed Ahmad Hematmal | Afghanistan | 117 |
 
-Generated: 2026-10-17T02:51:57.252Z
+Generated: 2026-10-17T05:45:19.795Z

@@ -1,6 +1,6 @@
 # Followers - Vatican City
 
-Generated: 2026-10-17T02:48:19.930Z
+Generated: 2026-10-17T05:42:39.951Z
 
 Users: 30
 
@@ -8,7 +8,7 @@ Users: 30
 |---:|---|---|---|---|---|---:|
 | 1 | [DMMCA](https://github.com/DMMCA) | Ninj4Pri3st |  |  | Vatican City | 26 |
 | 2 | [LBreda](https://github.com/LBreda) | Lorenzo Breda | ISP Service |  | Vatican City State | 23 |
-| 3 | [NOPR9D](https://github.com/NOPR9D) | NOPR9D ☄️ | MyLabz | amine_boucham | Vatican City State (Holy See)  | 18 |
+| 3 | [NOPR9D](https://github.com/NOPR9D) | NOPR9D ☄️ | MyLabz | amine_boucham | Vatican City State (Holy See)  | 17 |
 | 4 | [kubonnt](https://github.com/kubonnt) |  |  |  | Vatican City | 14 |
 | 5 | [reijop](https://github.com/reijop) | Reijo Pitkanen |  |  | Vatican City | 8 |
 | 6 | [dru91ce](https://github.com/dru91ce) | dru91ce |  |  | Vatican City (Holy See) | 5 |

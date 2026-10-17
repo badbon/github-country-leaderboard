@@ -1,6 +1,6 @@
 # Public Contributions - Bhutan
 
-Generated: 2026-10-17T03:05:33.754Z
+Generated: 2026-10-17T05:53:54.816Z
 
 Users: 267
 
@@ -16,13 +16,13 @@ Users: 267
 | 8 | [Choedra](https://github.com/Choedra) | Choedra Gyamtsho | Light Webx |  | Chubachu, Thimphu | 460 |
 | 9 | [SurajSunar](https://github.com/SurajSunar) | Suraj Sunar |  |  | Thimphu, Bhutan | 352 |
 | 10 | [lakikishorsubba](https://github.com/lakikishorsubba) | Laki Kishor Subba | Selise Group |  | Thimphu,Bhutan | 306 |
-| 11 | [nimaytenzin](https://github.com/nimaytenzin) |  |  |  | Bhutan | 297 |
-| 12 | [jigmeloday](https://github.com/jigmeloday) | Jigme Lodey | Freelancer |  | Thimphu Bhutan | 230 |
-| 13 | [aspee12](https://github.com/aspee12) | Sonam Phuntsho | SELISE |  | Thimphu, IT Park | 186 |
-| 14 | [devdgna](https://github.com/devdgna) | Dev | Bhutan NDI, CoinOn, ScanPrice, Prescaner |  | Kingdom of Bhutan | 180 |
-| 15 | [Tenzin-06](https://github.com/Tenzin-06) | Tenzin Tobgay | None |  | Bhutan | 161 |
-| 16 | [bugloper](https://github.com/bugloper) | Nima Yonten | Selise |  | Thimphu Babesa | 157 |
-| 17 | [jigmetnamgyal](https://github.com/jigmetnamgyal) | Jigme Namgyal | Selise |  | Thimphu, Bhutan | 154 |
-| 18 | [dorjizangpo-067](https://github.com/dorjizangpo-067) | Dorji Zangpo |  |  | Bhutan | 136 |
-| 19 | [teknatha136](https://github.com/teknatha136) | Tek Nath | @SELISEdigitalplatforms  |  | Thimphu | 122 |
-| 20 | [Ugyenjigmerangdrel](https://github.com/Ugyenjigmerangdrel) | Ugyen Jigme Rangdrel | @jaggle.ai | URangdrel | Bhutan | 120 |
+| 11 | [jigmeloday](https://github.com/jigmeloday) | Jigme Lodey | Freelancer |  | Thimphu Bhutan | 230 |
+| 12 | [aspee12](https://github.com/aspee12) | Sonam Phuntsho | SELISE |  | Thimphu, IT Park | 186 |
+| 13 | [devdgna](https://github.com/devdgna) | Dev | Bhutan NDI, CoinOn, ScanPrice, Prescaner |  | Kingdom of Bhutan | 180 |
+| 14 | [Tenzin-06](https://github.com/Tenzin-06) | Tenzin Tobgay | None |  | Bhutan | 161 |
+| 15 | [bugloper](https://github.com/bugloper) | Nima Yonten | Selise |  | Thimphu Babesa | 157 |
+| 16 | [jigmetnamgyal](https://github.com/jigmetnamgyal) | Jigme Namgyal | Selise |  | Thimphu, Bhutan | 154 |
+| 17 | [dorjizangpo-067](https://github.com/dorjizangpo-067) | Dorji Zangpo |  |  | Bhutan | 136 |
+| 18 | [teknatha136](https://github.com/teknatha136) | Tek Nath | @SELISEdigitalplatforms  |  | Thimphu | 122 |
+| 19 | [Ugyenjigmerangdrel](https://github.com/Ugyenjigmerangdrel) | Ugyen Jigme Rangdrel | @jaggle.ai | URangdrel | Bhutan | 120 |
+| 20 | [Art-sys-86](https://github.com/Art-sys-86) | Art |  |  | Bhutan | 119 |

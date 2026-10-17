@@ -1,6 +1,6 @@
 # Public Contributions - Burundi
 
-Generated: 2026-10-17T03:13:23.922Z
+Generated: 2026-10-17T05:56:14.859Z
 
 Users: 235
 
@@ -23,6 +23,6 @@ Users: 235
 | 15 | [Christardev](https://github.com/Christardev) | NIJIMBERE Jean-Christar | Amplitude Ventures |  | Burundi | 134 |
 | 16 | [MrDeveloperXP](https://github.com/MrDeveloperXP) | MrXP | XP TEAM |  | Burundi | 117 |
 | 17 | [Yanhozanam](https://github.com/Yanhozanam) | Yan Hozanam Mbonyumugisha |  |  | Burundi | 112 |
-| 18 | [JovinMtl](https://github.com/JovinMtl) | Nsanzumukiza Thierry | Self-Employed | Mtl_Thierry_Jov | Bujumbura, Burundi | 111 |
-| 19 | [b3rking](https://github.com/b3rking) | ISHIMWE Eschyle Bersy | Immadridista | b3rking | Burundi | 109 |
+| 18 | [b3rking](https://github.com/b3rking) | ISHIMWE Eschyle Bersy | Immadridista | b3rking | Burundi | 111 |
+| 19 | [JovinMtl](https://github.com/JovinMtl) | Nsanzumukiza Thierry | Self-Employed | Mtl_Thierry_Jov | Bujumbura, Burundi | 111 |
 | 20 | [clevercreativeofficial](https://github.com/clevercreativeofficial) | Clever Creative | The Creative House Inc. |  | Burundi | 108 |

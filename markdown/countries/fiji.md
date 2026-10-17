@@ -12,10 +12,10 @@ Indexed users: 325
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [SMani0547](https://github.com/SMani0547) | Shiva Mani Goundar | Nadi, Fiji | 3,028 |
+| 1 | [SMani0547](https://github.com/SMani0547) | Shiva Mani Goundar | Nadi, Fiji | 3,022 |
 | 2 | [Shoneel](https://github.com/Shoneel) |  | Fiji, Suva  | 1,555 |
 | 3 | [Amdeo](https://github.com/Amdeo) | Cooper | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1,438 |
-| 4 | [felix-davui-679](https://github.com/felix-davui-679) | Filimone Davui | Fiji | 1,365 |
+| 4 | [felix-davui-679](https://github.com/felix-davui-679) | Filimone Davui | Fiji | 1,368 |
 | 5 | [krishneelkamalsingh](https://github.com/krishneelkamalsingh) | Krish | Fiji | 1,149 |
 | 6 | [crazybanboo](https://github.com/crazybanboo) | Ethan | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1,085 |
 | 7 | [jaclla](https://github.com/jaclla) | Logic | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1,031 |
@@ -48,7 +48,7 @@ Indexed users: 325
 | 9 | [codeshareman](https://github.com/codeshareman) | Z° North | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 243 |
 | 10 | [grey0758](https://github.com/grey0758) | 徐业辉 | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 222 |
 | 11 | [rudrprasad05](https://github.com/rudrprasad05) | Rudr Prasad | Fiji | 209 |
-| 12 | [Lagilava](https://github.com/Lagilava) | Lagilava Paulo | Fiji | 205 |
+| 12 | [Lagilava](https://github.com/Lagilava) | Lagilava Paulo | Fiji | 203 |
 | 13 | [Geekmaxxer](https://github.com/Geekmaxxer) | Pew | Fiji | 187 |
 | 14 | [kunz398](https://github.com/kunz398) | Kunal Singh | Fiji | 166 |
 | 15 | [LangfordKuo](https://github.com/LangfordKuo) | Langford | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 145 |
@@ -81,6 +81,6 @@ Indexed users: 325
 | 17 | [rudrprasad05](https://github.com/rudrprasad05) | Rudr Prasad | Fiji | 22 |
 | 18 | [SMani0547](https://github.com/SMani0547) | Shiva Mani Goundar | Nadi, Fiji | 22 |
 | 19 | [phpoh](https://github.com/phpoh) | phpoh | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 21 |
-| 20 | [alvinkumar18](https://github.com/alvinkumar18) | Alvin Kumar | Fiji | 18 |
+| 20 | [aryann-7](https://github.com/aryann-7) | Aryan Singh | Suva, Fiji | 19 |
 
-Generated: 2026-10-17T03:30:38.989Z
+Generated: 2026-10-17T06:06:57.412Z

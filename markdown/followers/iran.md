@@ -1,8 +1,8 @@
 # Followers - Iran
 
-Generated: 2026-10-17T03:45:18.565Z
+Generated: 2026-10-17T06:15:19.225Z
 
-Users: 26870
+Users: 26869
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -10,7 +10,7 @@ Users: 26870
 | 2 | [mohammadhasanii](https://github.com/mohammadhasanii) | Mohammad | @Ourolabs | code_mohammad | Tehran , Iran | 10108 |
 | 3 | [SharifiZarchi](https://github.com/SharifiZarchi) | علی شریفی زارچی | Aryamehr University of Technology |  | Tehran, Iran | 4688 |
 | 4 | [mrpaziresh](https://github.com/mrpaziresh) | Ali Reza Paziresh | AISA Solutions | alirezapaziresh | Tehran | 3137 |
-| 5 | [alikhazaeii](https://github.com/alikhazaeii) | Ali |  |  | iran , Tehran | 2873 |
+| 5 | [alikhazaeii](https://github.com/alikhazaeii) | Ali |  |  | iran , Tehran | 2854 |
 | 6 | [CodingWithEnjoy](https://github.com/CodingWithEnjoy) | Amirmasoud Abedi |  | codingwithenjoy | Tehran, Iran | 2751 |
 | 7 | [FaezehRahimian](https://github.com/FaezehRahimian) | Faezeh |  |  | Iran | 2509 |
 | 8 | [ircfspace](https://github.com/ircfspace) | IRCF |  | ircfspace | Iran | 2498 |

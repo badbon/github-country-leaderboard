@@ -1,8 +1,8 @@
 # Followers - Barbados
 
-Generated: 2026-10-17T03:03:07.365Z
+Generated: 2026-10-17T05:51:26.451Z
 
-Users: 133
+Users: 132
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -10,7 +10,7 @@ Users: 133
 | 2 | [kaku2015](https://github.com/kaku2015) | FishingNet | ｴﾇﾃｨﾃｨ ﾃﾞｰﾀ |  | Barbados | 427 |
 | 3 | [iRoachie](https://github.com/iRoachie) | Kyle Roach |  | roach_iam | Barbados | 299 |
 | 4 | [lukehefson](https://github.com/lukehefson) | Luke Hefson | @workbrew | lukehefson | Barbados | 275 |
-| 5 | [AnalystLiv](https://github.com/AnalystLiv) | Liv 📊 |  |  | Barbados 🇧🇧 | 160 |
+| 5 | [AnalystLiv](https://github.com/AnalystLiv) | Liv 📊 |  |  | Barbados 🇧🇧 | 161 |
 | 6 | [hammertoe](https://github.com/hammertoe) | Matt Hamilton | Dharach  | hammertoe | Barbados | 85 |
 | 7 | [adevbuildingstuff](https://github.com/adevbuildingstuff) | Owan Hunte | @everos-labs | owanhunte | Barbados | 48 |
 | 8 | [paulmiu](https://github.com/paulmiu) | Paul Miu |  |  | Barbados | 35 |

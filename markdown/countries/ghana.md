@@ -1,6 +1,6 @@
 # Ghana
 
-Indexed users: 7,092
+Indexed users: 7,091
 
 | Leaderboard | Link |
 |---|---|
@@ -19,10 +19,10 @@ Indexed users: 7,092
 | 5 | [danieladeabah](https://github.com/danieladeabah) | Daniel Adeabah | Takoradi, Western Region, Ghana. | 24,855 |
 | 6 | [lutheralien](https://github.com/lutheralien) | Luther Essum | Ghana | 16,506 |
 | 7 | [mhiskall282](https://github.com/mhiskall282) | John Okyere | Accra Ghana | 15,891 |
-| 8 | [felixyeboah](https://github.com/felixyeboah) | Felix Nana Yaw Yeboah | Accra, Ghana | 12,739 |
-| 9 | [Philinzag](https://github.com/Philinzag) | Philip A. | Ghana | 10,626 |
-| 10 | [DreKwasi](https://github.com/DreKwasi) | Andrews Boateng | Accra, Ghana | 10,142 |
-| 11 | [Gideon-Dadey](https://github.com/Gideon-Dadey) | Gideon Dadey | Accra, Ghana | 9,758 |
+| 8 | [Gideon-Dadey](https://github.com/Gideon-Dadey) | Gideon Dadey | Accra, Ghana | 15,633 |
+| 9 | [felixyeboah](https://github.com/felixyeboah) | Felix Nana Yaw Yeboah | Accra, Ghana | 12,739 |
+| 10 | [Philinzag](https://github.com/Philinzag) | Philip A. | Ghana | 10,626 |
+| 11 | [DreKwasi](https://github.com/DreKwasi) | Andrews Boateng | Accra, Ghana | 10,142 |
 | 12 | [qbentil](https://github.com/qbentil) | Bentil Shadrack | Ghana | 9,624 |
 | 13 | [Eselase-Noble](https://github.com/Eselase-Noble) | Nobleson | Accra | 9,406 |
 | 14 | [Aliu2211](https://github.com/Aliu2211) | Aliu Tijani | Ghana | 9,365 |
@@ -83,4 +83,4 @@ Indexed users: 7,092
 | 19 | [Mmabiaa](https://github.com/Mmabiaa) | Boateng Prince Agyenim | Ghana | 326 |
 | 20 | [sedegah](https://github.com/sedegah) | Kimathi  Sedegah | Ghana | 310 |
 
-Generated: 2026-10-17T03:33:52.162Z
+Generated: 2026-10-17T06:09:16.815Z
