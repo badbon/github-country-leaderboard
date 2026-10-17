@@ -28280,7 +28280,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 409,
+    "publicContributions": 392,
     "createdAt": "2024-09-29T16:28:30Z"
   },
   {
@@ -28290,33 +28290,21 @@
     "location": "Bogotá, Colombia",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 21,
     "createdAt": "2024-08-15T01:24:23Z"
   },
   {
-    "login": "kosmicplane",
-    "name": "Juan Esteban Beron Zapata",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/185826987?s=72&u=d570f83e72a26fe6abfdcbafcbb273918591f32e&v=4",
-    "location": "Medellin, Colombia",
-    "company": "Universidad Pontificia Bolivariana",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 446,
-    "createdAt": "2024-10-21T16:13:12Z"
-  },
-  {
     "login": "Duvandoe",
     "name": "Duvan Cardona",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/174386086?s=72&u=969921e16a424785ab44dd59436534a5f01c46ed&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/174386086?s=72&u=28f6c3f1eec5ae1eb78eec27ab49a1d79cca5b44&v=4",
     "location": "Colombia, Buenaventura - Valle del cauca",
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 28,
-    "publicContributions": 37,
+    "privateContributions": 22,
+    "publicContributions": 24,
     "createdAt": "2024-07-01T21:28:54Z"
   },
   {
@@ -28326,9 +28314,9 @@
     "location": "Cartagena, Colombia",
     "company": "SentraLabs",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 421,
-    "publicContributions": 234,
+    "followers": 8,
+    "privateContributions": 442,
+    "publicContributions": 766,
     "createdAt": "2024-08-12T15:07:43Z"
   },
   {
@@ -28338,9 +28326,9 @@
     "location": "Colombia, Montería",
     "company": "Freelancer",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 350,
-    "publicContributions": 151,
+    "followers": 4,
+    "privateContributions": 340,
+    "publicContributions": 157,
     "createdAt": "2024-08-02T23:08:37Z"
   },
   {
@@ -28350,9 +28338,9 @@
     "location": "Medellín, Colombia",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 168,
+    "publicContributions": 113,
     "createdAt": "2024-11-19T19:17:42Z"
   },
   {
@@ -28364,7 +28352,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 182,
+    "publicContributions": 172,
     "createdAt": "2024-08-22T00:00:12Z"
   },
   {
@@ -28376,20 +28364,8 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 545,
+    "publicContributions": 618,
     "createdAt": "2024-12-07T22:27:40Z"
-  },
-  {
-    "login": "Andres-Developer-23",
-    "name": "Andres Bravo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/184963655?s=72&u=3edee20ff29fd9978e4da45501e55eeba9e0a476&v=4",
-    "location": "Colombia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 303,
-    "createdAt": "2024-10-14T14:57:40Z"
   },
   {
     "login": "LnxFCA",
@@ -28398,9 +28374,9 @@
     "location": "Colombia",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 16,
     "createdAt": "2024-07-07T22:14:15Z"
   },
   {
@@ -28410,9 +28386,9 @@
     "location": "Colombia",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 242,
+    "publicContributions": 302,
     "createdAt": "2024-10-16T03:03:43Z"
   },
   {
@@ -28422,8 +28398,8 @@
     "location": "Colombia",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 568,
+    "followers": 6,
+    "privateContributions": 748,
     "publicContributions": 9,
     "createdAt": "2024-08-15T22:39:41Z"
   },
@@ -28435,8 +28411,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 82,
-    "publicContributions": 130,
+    "privateContributions": 71,
+    "publicContributions": 102,
     "createdAt": "2024-07-26T14:47:25Z"
   },
   {
@@ -28459,8 +28435,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 261,
-    "publicContributions": 341,
+    "privateContributions": 447,
+    "publicContributions": 260,
     "createdAt": "2024-09-28T17:51:45Z"
   },
   {
@@ -28472,7 +28448,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 248,
+    "publicContributions": 276,
     "createdAt": "2024-10-30T20:26:27Z"
   },
   {
@@ -28482,7 +28458,7 @@
     "location": "Colombia",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-11-13T18:29:43Z"
@@ -28493,10 +28469,10 @@
     "avatarUrl": "https://avatars.githubusercontent.com/u/179668082?s=72&u=3a256f2d439ba0333240d62c8572b0cf5399f683&v=4",
     "location": "Colombia",
     "company": "",
-    "twitterUsername": "",
+    "twitterUsername": "sqfdz1",
     "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 47,
+    "privateContributions": 311,
+    "publicContributions": 69,
     "createdAt": "2024-08-28T03:32:17Z"
   },
   {
@@ -28507,7 +28483,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 224,
+    "privateContributions": 209,
     "publicContributions": 29,
     "createdAt": "2024-11-27T21:11:56Z"
   },

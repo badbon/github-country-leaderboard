@@ -28652,7 +28652,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 221,
+    "publicContributions": 238,
     "createdAt": "2021-10-23T09:26:02Z"
   },
   {
@@ -28664,7 +28664,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 35,
+    "publicContributions": 58,
     "createdAt": "2021-06-15T11:41:25Z"
   },
   {
@@ -28676,7 +28676,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 0,
     "createdAt": "2021-09-02T10:11:06Z"
   },
   {
@@ -28687,7 +28687,7 @@
     "company": "LE34",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 19,
+    "privateContributions": 29,
     "publicContributions": 237,
     "createdAt": "2021-05-10T11:46:40Z"
   },
@@ -28698,9 +28698,9 @@
     "location": "Esbjerg, Danmark",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 26,
-    "publicContributions": 44,
+    "followers": 2,
+    "privateContributions": 72,
+    "publicContributions": 63,
     "createdAt": "2021-01-21T09:22:09Z"
   },
   {
@@ -28722,9 +28722,9 @@
     "location": "Denmark 🇩🇰",
     "company": "Lead SWE @VitVio",
     "twitterUsername": "cafkafk",
-    "followers": 512,
-    "privateContributions": 1003,
-    "publicContributions": 269,
+    "followers": 563,
+    "privateContributions": 959,
+    "publicContributions": 225,
     "createdAt": "2021-08-21T21:54:58Z"
   },
   {
@@ -28734,9 +28734,9 @@
     "location": "Denmark",
     "company": "",
     "twitterUsername": "",
-    "followers": 208,
+    "followers": 215,
     "privateContributions": 0,
-    "publicContributions": 2248,
+    "publicContributions": 2656,
     "createdAt": "2021-01-11T18:37:41Z"
   },
   {
@@ -28746,9 +28746,9 @@
     "location": "Denmark",
     "company": "Mindcore",
     "twitterUsername": "mmelkersen",
-    "followers": 75,
-    "privateContributions": 130,
-    "publicContributions": 27,
+    "followers": 78,
+    "privateContributions": 137,
+    "publicContributions": 41,
     "createdAt": "2021-01-13T06:25:37Z"
   },
   {
@@ -28758,9 +28758,9 @@
     "location": "Copenhagen, Denmark",
     "company": "Self",
     "twitterUsername": "",
-    "followers": 73,
+    "followers": 63,
     "privateContributions": 0,
-    "publicContributions": 60,
+    "publicContributions": 48,
     "createdAt": "2021-07-05T14:30:35Z"
   },
   {
@@ -28768,23 +28768,23 @@
     "name": "Pourya",
     "avatarUrl": "https://avatars.githubusercontent.com/u/78661560?s=72&u=0b398c9a15ff003e76ba7c14bacdfd4668b91a64&v=4",
     "location": "Denmark",
-    "company": "APSignals",
+    "company": "freelancer",
     "twitterUsername": "",
-    "followers": 70,
-    "privateContributions": 4,
-    "publicContributions": 2,
+    "followers": 69,
+    "privateContributions": 10,
+    "publicContributions": 4,
     "createdAt": "2021-02-06T19:32:45Z"
   },
   {
     "login": "lambdachad",
     "name": "lambdachad",
     "avatarUrl": "https://avatars.githubusercontent.com/u/85593302?s=72&u=fc0a545aa0771739a8e15490dbcaedd29fb8d5f5&v=4",
-    "location": "[Norway, Denmark, Sweden] |> Enum.at(0)",
+    "location": "[\"Norway\", \"Denmark\", \"Sweden\"].iter().find(|it| it.len() == 6)",
     "company": "",
     "twitterUsername": "",
-    "followers": 67,
-    "privateContributions": 896,
-    "publicContributions": 348,
+    "followers": 64,
+    "privateContributions": 912,
+    "publicContributions": 336,
     "createdAt": "2021-06-09T00:24:29Z"
   },
   {
@@ -28794,7 +28794,7 @@
     "location": "Denmark",
     "company": "",
     "twitterUsername": "",
-    "followers": 54,
+    "followers": 52,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-10-09T13:02:10Z"
@@ -28802,13 +28802,13 @@
   {
     "login": "NoHop3",
     "name": "Stefan Georgiev",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/82092907?s=72&u=d03796d47bfa3fe1804a5bc30f20682eb0ce8ccb&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/82092907?s=72&u=ec5ce2c7abdee4aa4291bdc937fd05ad6ae1f861&v=4",
     "location": "Denmark",
     "company": "Plan2Learn, Aarhus, Denmark",
     "twitterUsername": "",
-    "followers": 54,
-    "privateContributions": 221,
-    "publicContributions": 44,
+    "followers": 52,
+    "privateContributions": 208,
+    "publicContributions": 57,
     "createdAt": "2021-04-07T10:49:40Z"
   },
   {
@@ -28818,9 +28818,9 @@
     "location": "Denmark",
     "company": "Nordic Semiconductor",
     "twitterUsername": "",
-    "followers": 45,
-    "privateContributions": 45,
-    "publicContributions": 1109,
+    "followers": 46,
+    "privateContributions": 10,
+    "publicContributions": 1106,
     "createdAt": "2021-04-08T07:58:02Z"
   },
   {
@@ -28830,9 +28830,9 @@
     "location": "Copenhagen, Denmark",
     "company": "Medusa",
     "twitterUsername": "nicklasgellner",
-    "followers": 40,
-    "privateContributions": 16,
-    "publicContributions": 6,
+    "followers": 42,
+    "privateContributions": 9,
+    "publicContributions": 1,
     "createdAt": "2021-06-07T17:05:30Z"
   },
   {
@@ -28842,9 +28842,9 @@
     "location": "Copenhagen, Denmark",
     "company": "EK",
     "twitterUsername": "",
-    "followers": 39,
-    "privateContributions": 3384,
-    "publicContributions": 449,
+    "followers": 48,
+    "privateContributions": 3037,
+    "publicContributions": 384,
     "createdAt": "2021-01-03T13:42:17Z"
   },
   {
@@ -28854,9 +28854,9 @@
     "location": "Aalborg, Denmark",
     "company": "",
     "twitterUsername": "",
-    "followers": 38,
+    "followers": 39,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 16,
     "createdAt": "2021-06-28T15:07:40Z"
   },
   {
@@ -28866,7 +28866,7 @@
     "location": "Denmark",
     "company": "UWU",
     "twitterUsername": "",
-    "followers": 38,
+    "followers": 37,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-03-19T23:15:58Z"

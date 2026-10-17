@@ -28052,7 +28052,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 57,
+    "publicContributions": 48,
     "createdAt": "2023-02-05T21:10:04Z"
   },
   {
@@ -28076,7 +28076,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 872,
+    "publicContributions": 955,
     "createdAt": "2023-02-05T10:25:52Z"
   },
   {
@@ -28087,8 +28087,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 17,
-    "publicContributions": 102,
+    "privateContributions": 20,
+    "publicContributions": 72,
     "createdAt": "2022-12-29T11:38:42Z"
   },
   {
@@ -28110,7 +28110,7 @@
     "location": "Ukraine",
     "company": "FrontEnd WebDev",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2023-01-02T16:17:42Z"
@@ -28124,7 +28124,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 10,
     "createdAt": "2023-01-04T11:33:25Z"
   },
   {
@@ -28148,32 +28148,20 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 52,
+    "publicContributions": 45,
     "createdAt": "2023-02-01T19:04:20Z"
   },
   {
     "login": "Undercat037",
-    "name": "Deltacat",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/124718856?s=72&u=fd1a5a44d930bb0cb59b8e7b96dc5e831d5fc944&v=4",
+    "name": "0xD3LT4C4T",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/124718856?s=72&u=5400d135ce4dd884f7211eb170fc3e44f1bfdf0e&v=4",
     "location": "Ukraine",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 372,
+    "followers": 3,
+    "privateContributions": 1,
+    "publicContributions": 841,
     "createdAt": "2023-02-07T18:39:02Z"
-  },
-  {
-    "login": "JustEnotik",
-    "name": "JustEnotik",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/128303220?s=72&u=fbf3f14e08ebdd2c375dd19cbdb55cc382cc00cf&v=4",
-    "location": "Ukraine",
-    "company": "LLC “Money Laundering Co.”",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 100,
-    "createdAt": "2023-03-19T14:03:21Z"
   },
   {
     "login": "danyapac3",
@@ -28183,8 +28171,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 68,
-    "publicContributions": 251,
+    "privateContributions": 49,
+    "publicContributions": 224,
     "createdAt": "2023-03-20T18:29:37Z"
   },
   {
@@ -28206,9 +28194,9 @@
     "location": "Ukraine",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 103,
-    "publicContributions": 63,
+    "followers": 4,
+    "privateContributions": 3,
+    "publicContributions": 62,
     "createdAt": "2023-03-24T23:33:16Z"
   },
   {
@@ -28232,7 +28220,7 @@
     "twitterUsername": "shvydkyi_",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 63,
+    "publicContributions": 66,
     "createdAt": "2023-03-20T10:14:38Z"
   },
   {
@@ -28248,15 +28236,15 @@
     "createdAt": "2023-01-12T21:37:05Z"
   },
   {
-    "login": "CYKLER01",
+    "login": "cykler01",
     "name": "cykler",
     "avatarUrl": "https://avatars.githubusercontent.com/u/121840800?s=72&u=9f34e02319dd555d70cfa12a2da9c97d5030e3fb&v=4",
     "location": "Kyiv, Ukraine",
     "company": "cykler technologies",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 587,
-    "publicContributions": 98,
+    "followers": 12,
+    "privateContributions": 637,
+    "publicContributions": 236,
     "createdAt": "2023-01-03T02:51:36Z"
   },
   {
@@ -28268,7 +28256,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 38,
+    "publicContributions": 7,
     "createdAt": "2023-02-07T20:12:15Z"
   },
   {
@@ -28280,7 +28268,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 30,
     "createdAt": "2023-02-16T18:40:10Z"
   },
   {

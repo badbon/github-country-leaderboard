@@ -28328,7 +28328,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2021-10-06T20:00:19Z"
   },
   {
@@ -28346,13 +28346,13 @@
   {
     "login": "gabemak",
     "name": "Makkai Gábor",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/88712262?s=72&u=3f8d290a459764bed1dcc83f0557ef6d0dd302a5&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/88712262?s=72&u=079bc4212af12f687fe8e6a7cb0447426dbebd0d&v=4",
     "location": "Budapest",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 10,
     "createdAt": "2021-08-10T09:19:50Z"
   },
   {
@@ -28363,7 +28363,7 @@
     "company": "Qneiform",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 2216,
+    "privateContributions": 2228,
     "publicContributions": 1,
     "createdAt": "2021-12-14T12:21:16Z"
   },
@@ -28375,7 +28375,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 258,
+    "privateContributions": 255,
     "publicContributions": 3,
     "createdAt": "2021-02-10T18:32:07Z"
   },
@@ -28411,7 +28411,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 11,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-02-27T11:20:40Z"
   },
@@ -28460,7 +28460,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 5,
     "createdAt": "2021-09-03T06:57:43Z"
   },
   {
@@ -28480,11 +28480,11 @@
     "name": "Gyarmathy Gábor",
     "avatarUrl": "https://avatars.githubusercontent.com/u/76744883?s=72&u=bdb2bc892001ac8b00f1416217bef3e316340789&v=4",
     "location": "Budapest",
-    "company": "Done.",
+    "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 8,
-    "publicContributions": 104,
+    "privateContributions": 70,
+    "publicContributions": 103,
     "createdAt": "2020-12-29T16:57:55Z"
   },
   {

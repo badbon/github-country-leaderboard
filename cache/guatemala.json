@@ -28832,7 +28832,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2016-06-11T05:00:09Z"
   },
   {
@@ -28843,8 +28843,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 34,
-    "publicContributions": 0,
+    "privateContributions": 85,
+    "publicContributions": 1,
     "createdAt": "2016-05-02T16:57:31Z"
   },
   {
@@ -28856,7 +28856,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 20,
     "createdAt": "2016-10-03T06:36:24Z"
   },
   {
@@ -28868,7 +28868,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 5,
     "createdAt": "2016-08-18T16:51:51Z"
   },
   {
@@ -28879,8 +28879,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1048,
-    "publicContributions": 19,
+    "privateContributions": 1336,
+    "publicContributions": 16,
     "createdAt": "2016-01-27T16:58:50Z"
   },
   {
@@ -28898,13 +28898,13 @@
   {
     "login": "wesner",
     "name": "Wesner Ché",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/18712633?s=72&u=447ab49f8fd9bfbd5755fc7b923577e5bb238a8b&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/18712633?s=72&u=a6f07560f0195a8c06643d9dc96db89cfaf9f858&v=4",
     "location": "Guatemala",
     "company": "@HomeGT ",
     "twitterUsername": "wesnerche",
     "followers": 1,
-    "privateContributions": 1825,
-    "publicContributions": 2,
+    "privateContributions": 2374,
+    "publicContributions": 0,
     "createdAt": "2016-04-28T03:54:38Z"
   },
   {
@@ -28916,7 +28916,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 15,
     "createdAt": "2016-02-13T18:09:21Z"
   },
   {
@@ -28969,14 +28969,14 @@
   },
   {
     "login": "jsalguero94",
-    "name": "Julio A. Salguero",
+    "name": "Julio Salguero",
     "avatarUrl": "https://avatars.githubusercontent.com/u/20937807?s=72&u=d93ce5b27e9682b4d194074f6d2e63f94e885b5c&v=4",
     "location": "Guatemala",
     "company": "",
     "twitterUsername": "julio_34",
     "followers": 1,
-    "privateContributions": 179,
-    "publicContributions": 1,
+    "privateContributions": 271,
+    "publicContributions": 10,
     "createdAt": "2016-08-10T00:31:39Z"
   },
   {

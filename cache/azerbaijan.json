@@ -28574,13 +28574,13 @@
   {
     "login": "aynurdenikayeva",
     "name": "Aynur",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/113580226?s=72&u=63201f83e7f26ff90b7f4ca7f743aecb86ea8141&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/113580226?s=72&u=73a580f0097199475db01af01ecabd6d2b672aab&v=4",
     "location": "Baku",
     "company": "Open to work",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 132,
+    "publicContributions": 185,
     "createdAt": "2022-09-15T06:21:48Z"
   },
   {
@@ -28590,9 +28590,9 @@
     "location": "Baku",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 7,
     "createdAt": "2022-01-16T14:13:37Z"
   },
   {
@@ -28604,7 +28604,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 57,
+    "publicContributions": 68,
     "createdAt": "2022-07-27T10:00:17Z"
   },
   {
@@ -28615,7 +28615,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 2049,
+    "privateContributions": 1712,
     "publicContributions": 2,
     "createdAt": "2022-05-23T14:00:34Z"
   },
@@ -28639,7 +28639,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 87,
+    "privateContributions": 90,
     "publicContributions": 0,
     "createdAt": "2022-10-30T10:27:43Z"
   },
@@ -28676,7 +28676,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 9,
     "createdAt": "2022-08-28T12:19:03Z"
   },
   {
@@ -28724,7 +28724,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 193,
     "createdAt": "2022-12-21T15:25:39Z"
   },
   {
@@ -28748,7 +28748,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 24,
     "createdAt": "2022-11-19T23:00:42Z"
   },
   {
@@ -28764,18 +28764,6 @@
     "createdAt": "2022-06-15T15:50:29Z"
   },
   {
-    "login": "DarkRaike",
-    "name": "Даниил",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/106670333?s=72&u=a437b4abadd65b40aa62e0aba9c9c1a160840431&v=4",
-    "location": "Baku",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 378,
-    "createdAt": "2022-06-01T11:28:38Z"
-  },
-  {
     "login": "richard-petrov",
     "name": "Richard Petrov",
     "avatarUrl": "https://avatars.githubusercontent.com/u/116804491?s=72&u=abb9bcaa38039978a6d43c6e8f77f1dcce23d433&v=4",
@@ -28783,8 +28771,8 @@
     "company": "OCS",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 37,
-    "publicContributions": 10,
+    "privateContributions": 30,
+    "publicContributions": 1,
     "createdAt": "2022-10-27T10:25:34Z"
   },
   {

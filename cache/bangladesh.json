@@ -28284,18 +28284,6 @@
     "createdAt": "2025-05-24T12:30:43Z"
   },
   {
-    "login": "tyhan-data",
-    "name": "Mosairul Alam Tyhan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/213462942?s=72&u=bbfa01291f25c6def6398201f2472bc18f0b3b9a&v=4",
-    "location": "Bangladesh",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 208,
-    "createdAt": "2025-05-26T13:48:14Z"
-  },
-  {
     "login": "mostafamirkashemworks",
     "name": "Mostafa Mir Kashem",
     "avatarUrl": "https://avatars.githubusercontent.com/u/217976516?s=72&u=5007980def20e9191c631bba8dc462331220c58b&v=4",
@@ -28352,7 +28340,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 50,
+    "publicContributions": 34,
     "createdAt": "2025-04-08T12:07:06Z"
   },
   {
@@ -28376,7 +28364,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 309,
+    "publicContributions": 321,
     "createdAt": "2025-06-23T18:09:12Z"
   },
   {
@@ -28394,13 +28382,13 @@
   {
     "login": "julqarnaeen",
     "name": "Julqarnaeen Ahmed Jihad",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/210684094?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/210684094?s=72&u=7fdb9dc0bbade160467fad8901ce0a8463321987&v=4",
     "location": "Dhaka, Bangladesh",
     "company": "Green University of Bangladesh",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 2,
-    "publicContributions": 119,
+    "followers": 4,
+    "privateContributions": 4,
+    "publicContributions": 85,
     "createdAt": "2025-05-07T10:13:49Z"
   },
   {
@@ -28412,7 +28400,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 55,
+    "publicContributions": 99,
     "createdAt": "2025-06-17T16:38:43Z"
   },
   {
@@ -28424,7 +28412,7 @@
     "twitterUsername": "sheikh_sf60013",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 147,
+    "publicContributions": 153,
     "createdAt": "2025-06-10T18:15:59Z"
   },
   {
@@ -28434,33 +28422,21 @@
     "location": "Dhaka, Bangladesh",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 471,
+    "followers": 2,
+    "privateContributions": 479,
     "publicContributions": 0,
     "createdAt": "2025-04-20T10:13:33Z"
   },
   {
-    "login": "shoaibdebug",
-    "name": "Shoaib Malik",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/217156799?s=72&u=ce86e80dede6c674b393edd8b5bf749c4c444cdb&v=4",
-    "location": "Savar, Dhaka, Bangladesh",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 68,
-    "createdAt": "2025-06-20T05:57:56Z"
-  },
-  {
     "login": "masatoshinn",
-    "name": "Masato 真",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/217228716?s=72&u=1ce4458a254ffcaeb5208a3f949dc5cf5cd2eeed&v=4",
+    "name": "mostofa.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/217228716?s=72&u=a4d2d330f83e5f4da69ecdf2e3008ae2940c8ec3&v=4",
     "location": "Bangladesh",
-    "company": "Bystro Tecnology",
+    "company": "Lumo Engine",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 70,
+    "privateContributions": 15,
+    "publicContributions": 167,
     "createdAt": "2025-06-20T15:27:20Z"
   },
   {
@@ -28472,7 +28448,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2025-06-02T13:52:51Z"
   },
   {
@@ -28494,9 +28470,9 @@
     "location": "Chittagong, Bangladesh",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 61,
+    "publicContributions": 98,
     "createdAt": "2025-06-12T06:25:09Z"
   },
   {

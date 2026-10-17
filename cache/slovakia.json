@@ -28171,8 +28171,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 2,
-    "publicContributions": 0,
+    "privateContributions": 3,
+    "publicContributions": 1,
     "createdAt": "2017-02-07T19:43:14Z"
   },
   {
@@ -28208,7 +28208,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 81,
-    "publicContributions": 126,
+    "publicContributions": 128,
     "createdAt": "2017-04-11T13:03:36Z"
   },
   {
@@ -28230,9 +28230,9 @@
     "location": "Slovakia",
     "company": "Moxymind",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 48,
-    "publicContributions": 6,
+    "publicContributions": 5,
     "createdAt": "2017-12-07T09:34:17Z"
   },
   {
@@ -28255,7 +28255,7 @@
     "company": "everch.at",
     "twitterUsername": "PatrikOndrovic",
     "followers": 2,
-    "privateContributions": 325,
+    "privateContributions": 369,
     "publicContributions": 0,
     "createdAt": "2017-06-01T08:38:17Z"
   },
@@ -28267,8 +28267,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 922,
-    "publicContributions": 386,
+    "privateContributions": 412,
+    "publicContributions": 1067,
     "createdAt": "2017-12-11T16:51:03Z"
   },
   {
@@ -28280,7 +28280,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 37,
+    "publicContributions": 78,
     "createdAt": "2017-05-03T02:22:08Z"
   },
   {
@@ -28290,9 +28290,9 @@
     "location": "Slovakia",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 4,
-    "publicContributions": 407,
+    "followers": 3,
+    "privateContributions": 16,
+    "publicContributions": 393,
     "createdAt": "2017-02-12T22:04:34Z"
   },
   {
@@ -28316,7 +28316,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 152,
+    "publicContributions": 153,
     "createdAt": "2017-01-23T06:46:48Z"
   },
   {
@@ -28326,22 +28326,10 @@
     "location": "Slovakia",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 20,
     "privateContributions": 1,
-    "publicContributions": 1,
+    "publicContributions": 8,
     "createdAt": "2017-04-18T09:49:36Z"
-  },
-  {
-    "login": "Tuzex",
-    "name": "Edo Barnáš",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/25415042?s=72&u=ccb11d3ac65e581fa82864bdf98ace118350ccc7&v=4",
-    "location": "Poprad, Slovakia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 4,
-    "createdAt": "2017-01-29T11:37:36Z"
   },
   {
     "login": "PatrikKoscelansky",
@@ -28351,7 +28339,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 7,
+    "privateContributions": 4,
     "publicContributions": 0,
     "createdAt": "2017-07-17T21:26:36Z"
   },
@@ -28376,7 +28364,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 3,
     "createdAt": "2017-06-07T05:58:42Z"
   },
   {
@@ -28386,9 +28374,9 @@
     "location": "Slovakia, Bratislava",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 46,
     "createdAt": "2017-10-11T20:37:51Z"
   },
   {
