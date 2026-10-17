@@ -75,12 +75,12 @@ Indexed users: 111
 | 11 | [stoyann-open-classrooms](https://github.com/stoyann-open-classrooms) | Stoyann Velten | Nouméa (New Caledonia) | 14 |
 | 12 | [FreddieJH](https://github.com/FreddieJH) | Freddie J. Heather | Noumea, New Caledonia | 13 |
 | 13 | [andymalo43](https://github.com/andymalo43) | Andy MALO | New-Caledonia | 12 |
-| 14 | [jchable](https://github.com/jchable) | Julien CHABLE | Nouméa | 12 |
-| 15 | [aNaoy](https://github.com/aNaoy) | Yoan Agostini | Nouméa | 11 |
+| 14 | [aNaoy](https://github.com/aNaoy) | Yoan Agostini | Nouméa | 11 |
+| 15 | [jchable](https://github.com/jchable) | Julien CHABLE | Nouméa | 11 |
 | 16 | [fabricedujardinportfolio](https://github.com/fabricedujardinportfolio) | Fabrice DUJARDIN | Nouméa | 10 |
 | 17 | [Alexandre-JAMROZ](https://github.com/Alexandre-JAMROZ) | Alexandre JAMROZ | New Caledonia | 9 |
 | 18 | [AviMcCartney](https://github.com/AviMcCartney) | CATALA Alexandre | New-Caledonia | 9 |
 | 19 | [gronono](https://github.com/gronono) | Arnaud | New Caledonia | 9 |
 | 20 | [6pheR](https://github.com/6pheR) | CipheR_ | New Caledonia | 8 |
 
-Generated: 2026-10-17T11:30:09.602Z
+Generated: 2026-10-17T13:07:20.110Z

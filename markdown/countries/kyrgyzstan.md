@@ -49,11 +49,11 @@ Indexed users: 2,443
 | 10 | [Eldar2021](https://github.com/Eldar2021) | Eldiiar Almazbek | Bishkek | 1,350 |
 | 11 | [b4631119-oss](https://github.com/b4631119-oss) | DevRoot | Bishkek | 1,336 |
 | 12 | [raimbekovm](https://github.com/raimbekovm) | Murat Raimbekov | Bishkek, Kyrgyzstan | 1,261 |
-| 13 | [alxnko](https://github.com/alxnko) | Alex Neko | Kyrgyzstan | 1,217 |
-| 14 | [teimurjan](https://github.com/teimurjan) | Teimur Gasanov | Bishkek, Kyrgyzstan | 1,140 |
-| 15 | [isko18](https://github.com/isko18) | islam | Kyrgyzstan, Osh | 1,064 |
-| 16 | [ArzubekDev](https://github.com/ArzubekDev) | Arzubek | Bishkek | 1,025 |
-| 17 | [asannov](https://github.com/asannov) | Damir | Bishkek, Kyrgyz Republic | 991 |
+| 13 | [asannov](https://github.com/asannov) | Damir | Bishkek, Kyrgyz Republic | 1,238 |
+| 14 | [alxnko](https://github.com/alxnko) | Alex Neko | Kyrgyzstan | 1,217 |
+| 15 | [teimurjan](https://github.com/teimurjan) | Teimur Gasanov | Bishkek, Kyrgyzstan | 1,140 |
+| 16 | [isko18](https://github.com/isko18) | islam | Kyrgyzstan, Osh | 1,064 |
+| 17 | [ArzubekDev](https://github.com/ArzubekDev) | Arzubek | Bishkek | 1,025 |
 | 18 | [dioritdev](https://github.com/dioritdev) | DIOR | Kyrgyzstan/Osh | 978 |
 | 19 | [er-Bilim](https://github.com/er-Bilim) | notesoat | Bishkek, Kyrgyzstan | 964 |
 | 20 | [daniyarchambylov](https://github.com/daniyarchambylov) | Daniyar Chambylov | Bishkek, Kyrgyzstan | 947 |
@@ -66,7 +66,7 @@ Indexed users: 2,443
 | 2 | [Maksbicoin](https://github.com/Maksbicoin) | Cryptopunk13(soon1) | Kyrgyzstan | 380 |
 | 3 | [Toktorov](https://github.com/Toktorov) | Toktorov Kurmanbek | Kyrgyzstan, Bishkek | 363 |
 | 4 | [anatoly-bobrovsky](https://github.com/anatoly-bobrovsky) | Anatoly Bobrovsky | Bishkek | 255 |
-| 5 | [gen1us2k](https://github.com/gen1us2k) | Andrew Zhuravlev | Kyrgyzstan, Bishkek | 208 |
+| 5 | [gen1us2k](https://github.com/gen1us2k) | Andrew Zhuravlev | Kyrgyzstan, Bishkek | 209 |
 | 6 | [nasirovx](https://github.com/nasirovx) | 5ekastan | Osh \| Kyrgyzstan | 183 |
 | 7 | [toksaitov](https://github.com/toksaitov) | Toksaitov Dmitrii Alexandrovich | Bishkek | 176 |
 | 8 | [Alymbekov](https://github.com/Alymbekov) |  | Bishkek, Kyrgyzstan | 141 |
@@ -79,8 +79,8 @@ Indexed users: 2,443
 | 15 | [bmamatkadyr](https://github.com/bmamatkadyr) | beks | Bishkek | 111 |
 | 16 | [AlexanderBagel](https://github.com/AlexanderBagel) | Alexander (Rouse_) Bagel | Bishkek | 110 |
 | 17 | [5ekastanx](https://github.com/5ekastanx) | bekastan | Osh \| Kyrgyzstan | 106 |
-| 18 | [bashu](https://github.com/bashu) | Basil Sh. | Bishkek, Kyrgyzstan | 104 |
+| 18 | [bashu](https://github.com/bashu) | Basil Sh. | Bishkek, Kyrgyzstan | 105 |
 | 19 | [Elkhan2003](https://github.com/Elkhan2003) | Elkhan Sharshenbekov | Karakol, Kyrgyzstan | 103 |
 | 20 | [eszdman](https://github.com/eszdman) |  | Kyrgyzstan | 103 |
 
-Generated: 2026-10-17T11:11:35.179Z
+Generated: 2026-10-17T12:53:17.095Z

@@ -1,6 +1,6 @@
 # Followers - New Caledonia
 
-Generated: 2026-10-17T11:30:09.602Z
+Generated: 2026-10-17T13:07:20.110Z
 
 Users: 111
 
@@ -19,8 +19,8 @@ Users: 111
 | 11 | [stoyann-open-classrooms](https://github.com/stoyann-open-classrooms) | Stoyann Velten | @KRYSTO-NC  | DevStoyann | Nouméa (New Caledonia) | 14 |
 | 12 | [FreddieJH](https://github.com/FreddieJH) | Freddie J. Heather |  |  | Noumea, New Caledonia | 13 |
 | 13 | [andymalo43](https://github.com/andymalo43) | Andy MALO | CAFAT |  | New-Caledonia | 12 |
-| 14 | [jchable](https://github.com/jchable) | Julien CHABLE | NC IT |  | Nouméa | 12 |
-| 15 | [aNaoy](https://github.com/aNaoy) | Yoan Agostini |  |  | Nouméa | 11 |
+| 14 | [aNaoy](https://github.com/aNaoy) | Yoan Agostini |  |  | Nouméa | 11 |
+| 15 | [jchable](https://github.com/jchable) | Julien CHABLE | NC IT |  | Nouméa | 11 |
 | 16 | [fabricedujardinportfolio](https://github.com/fabricedujardinportfolio) | Fabrice DUJARDIN |  |  | Nouméa | 10 |
 | 17 | [Alexandre-JAMROZ](https://github.com/Alexandre-JAMROZ) | Alexandre JAMROZ |  |  | New Caledonia | 9 |
 | 18 | [AviMcCartney](https://github.com/AviMcCartney) | CATALA Alexandre | @52-entertainment |  | New-Caledonia | 9 |

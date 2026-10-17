@@ -110,12 +110,12 @@ Published countries: 234
 | Jersey | 139 | [View](./jersey.md) |
 | Jordan | 4,011 | [View](./jordan.md) |
 | Kazakhstan | 5,641 | [View](./kazakhstan.md) |
-| Kenya | 24,024 | [View](./kenya.md) |
+| Kenya | 24,023 | [View](./kenya.md) |
 | Kiribati | 4 | [View](./kiribati.md) |
 | Kuwait | 797 | [View](./kuwait.md) |
 | Kyrgyzstan | 2,443 | [View](./kyrgyzstan.md) |
 | Laos | 360 | [View](./laos.md) |
-| Latvia | 3,255 | [View](./latvia.md) |
+| Latvia | 3,254 | [View](./latvia.md) |
 | Lebanon | 2,561 | [View](./lebanon.md) |
 | Lesotho | 160 | [View](./lesotho.md) |
 | Liberia | 210 | [View](./liberia.md) |
@@ -135,7 +135,7 @@ Published countries: 234
 | Mauritania | 289 | [View](./mauritania.md) |
 | Mauritius | 713 | [View](./mauritius.md) |
 | Mayotte | 17 | [View](./mayotte.md) |
-| Mexico | 23,494 | [View](./mexico.md) |
+| Mexico | 23,493 | [View](./mexico.md) |
 | Micronesia | 11 | [View](./micronesia.md) |
 | Moldova | 1,748 | [View](./moldova.md) |
 | Monaco | 142 | [View](./monaco.md) |
@@ -174,7 +174,7 @@ Published countries: 234
 | Qatar | 1,072 | [View](./qatar.md) |
 | Republic of the Congo | 298 | [View](./republic_of_the_congo.md) |
 | Réunion | 212 | [View](./reunion.md) |
-| Romania | 14,980 | [View](./romania.md) |
+| Romania | 14,979 | [View](./romania.md) |
 | Rwanda | 3,511 | [View](./rwanda.md) |
 | Saint Barthélemy | 1 | [View](./saint_barthelemy.md) |
 | Saint Helena, Ascension and Tristan da Cunha | 25 | [View](./saint_helena_ascension_and_tristan_da_cunha.md) |
@@ -186,7 +186,7 @@ Published countries: 234
 | Samoa | 19 | [View](./samoa.md) |
 | San Marino | 61 | [View](./san_marino.md) |
 | São Tomé and Príncipe | 20 | [View](./sao_tome_and_principe.md) |
-| Saudi Arabia | 7,735 | [View](./saudi_arabia.md) |
+| Saudi Arabia | 7,734 | [View](./saudi_arabia.md) |
 | Senegal | 1,356 | [View](./senegal.md) |
 | Serbia | 10,664 | [View](./serbia.md) |
 | Seychelles | 1,770 | [View](./seychelles.md) |
@@ -239,4 +239,4 @@ Published countries: 234
 | Zambia | 1,337 | [View](./zambia.md) |
 | Zimbabwe | 1,656 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-17T12:50:36.795Z
+Generated: 2026-10-17T13:23:56.282Z

@@ -1,6 +1,6 @@
 # Total Contributions - Macau
 
-Generated: 2026-10-17T11:15:48.652Z
+Generated: 2026-10-17T13:00:11.432Z
 
 Users: 439
 
@@ -24,5 +24,5 @@ Users: 439
 | 16 | [aungminnkhant9400](https://github.com/aungminnkhant9400) | Rollo |  |  | Macau | 1792 |
 | 17 | [HansiChan](https://github.com/HansiChan) | Colin | Sands  | hansiCrypto | Macau | 1764 |
 | 18 | [hheei](https://github.com/hheei) | Lo Chon Hei |  |  | Macau | 1757 |
-| 19 | [yyyyyyounger](https://github.com/yyyyyyounger) | Rookie, LIN | University of Macau |  | Macau | 1641 |
+| 19 | [yyyyyyounger](https://github.com/yyyyyyounger) | Rookie, LIN | University of Macau |  | Macau | 1643 |
 | 20 | [ygqygq2](https://github.com/ygqygq2) | Chinge Yang |  |  | macao | 1632 |

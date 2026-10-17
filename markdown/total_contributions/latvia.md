@@ -1,8 +1,8 @@
 # Total Contributions - Latvia
 
-Generated: 2026-10-17T11:12:49.918Z
+Generated: 2026-10-17T12:55:15.334Z
 
-Users: 3255
+Users: 3254
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -16,13 +16,13 @@ Users: 3255
 | 8 | [raimonade](https://github.com/raimonade) | Raimonds Korzenevskis | raykay.dk | raimonade_ | Riga, Latvia | 14135 |
 | 9 | [yarlson](https://github.com/yarlson) | Yar Kravtsov |  | yarlson | Riga, Latvia | 12198 |
 | 10 | [ricardomichel](https://github.com/ricardomichel) | Ricardo Michel Reyes | @HostPal-mx  |  | Riga | 10409 |
-| 11 | [rabestro](https://github.com/rabestro) | Jegors Čemisovs | @evolution-gaming |  | Latvia | 9004 |
-| 12 | [skakri](https://github.com/skakri) | Kristaps Karlsons |  |  | Latvia | 7758 |
-| 13 | [jecis-repos](https://github.com/jecis-repos) | Jecis |  | jecis_ | Latvia | 7539 |
-| 14 | [danielsbethers](https://github.com/danielsbethers) | Daniels Bethers | @request-lv |  | Riga, Latvia | 7122 |
-| 15 | [agubarev](https://github.com/agubarev) | Andrejs Gubarevs |  |  | Latvia, Riga | 6749 |
-| 16 | [sansan](https://github.com/sansan) | Toms Veidemanis |  |  | Riga | 6604 |
-| 17 | [Shvembldr](https://github.com/Shvembldr) | Shvembldr |  | shvembldr | Latvia | 6475 |
-| 18 | [victory-sokolov](https://github.com/victory-sokolov) | Viktor Sokolov |  | VictorySokolov | Latvia | 6460 |
-| 19 | [emplv](https://github.com/emplv) | Emīls Pļavenieks | @emp-lv  | empdotlv | Latvia | 6151 |
-| 20 | [Grizzlijs](https://github.com/Grizzlijs) | Emils Kicans | @picanova  |  | Riga/Latvia | 6083 |
+| 11 | [puikinsh](https://github.com/puikinsh) | Aigars Silkalns | Divilab | AigarsSilkalns | Riga, Latvia | 9189 |
+| 12 | [rabestro](https://github.com/rabestro) | Jegors Čemisovs | @evolution-gaming |  | Latvia | 9004 |
+| 13 | [skakri](https://github.com/skakri) | Kristaps Karlsons |  |  | Latvia | 7758 |
+| 14 | [jecis-repos](https://github.com/jecis-repos) | Jecis |  | jecis_ | Latvia | 7539 |
+| 15 | [danielsbethers](https://github.com/danielsbethers) | Daniels Bethers | @request-lv |  | Riga, Latvia | 7122 |
+| 16 | [agubarev](https://github.com/agubarev) | Andrejs Gubarevs |  |  | Latvia, Riga | 6749 |
+| 17 | [sansan](https://github.com/sansan) | Toms Veidemanis |  |  | Riga | 6604 |
+| 18 | [Shvembldr](https://github.com/Shvembldr) | Shvembldr |  | shvembldr | Latvia | 6475 |
+| 19 | [victory-sokolov](https://github.com/victory-sokolov) | Viktor Sokolov |  | VictorySokolov | Latvia | 6460 |
+| 20 | [emplv](https://github.com/emplv) | Emīls Pļavenieks | @emp-lv  | empdotlv | Latvia | 6151 |

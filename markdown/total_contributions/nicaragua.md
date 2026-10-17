@@ -1,6 +1,6 @@
 # Total Contributions - Nicaragua
 
-Generated: 2026-10-17T11:30:45.507Z
+Generated: 2026-10-17T13:07:53.248Z
 
 Users: 1394
 
@@ -23,6 +23,6 @@ Users: 1394
 | 15 | [ElVatoEste](https://github.com/ElVatoEste) | VatoDev | @EscaliaTech  |  | Nicaragua | 3996 |
 | 16 | [fabmnt](https://github.com/fabmnt) | Fabián Montoya | Dentalrobot | fabmnt_ | Nicaragua | 3759 |
 | 17 | [ernestoruiz89](https://github.com/ernestoruiz89) | Ernesto Ruiz |  | ernestoruiz89 | Nicaragua | 3655 |
-| 18 | [paulomcnally](https://github.com/paulomcnally) | Paulo McNally | @mcnallydev  |  | Mangua, Nicaragua | 3536 |
-| 19 | [Steven-Mendez](https://github.com/Steven-Mendez) | Steven Mendez |  |  | Managua, Nicaragua | 3423 |
-| 20 | [kenetpicado](https://github.com/kenetpicado) | Kenet |  | kenetphp | León, Nicaragua | 3420 |
+| 18 | [edgewl2](https://github.com/edgewl2) | Gerardo Hernández |  |  | León, Nicaragua | 3555 |
+| 19 | [paulomcnally](https://github.com/paulomcnally) | Paulo McNally | @mcnallydev  |  | Mangua, Nicaragua | 3536 |
+| 20 | [Steven-Mendez](https://github.com/Steven-Mendez) | Steven Mendez |  |  | Managua, Nicaragua | 3423 |

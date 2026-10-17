@@ -14,7 +14,7 @@ Indexed users: 212
 |---:|---|---|---|---:|
 | 1 | [fabricepayet](https://github.com/fabricepayet) | Fabrice Payet | Reunion Island | 21,540 |
 | 2 | [PhilDL](https://github.com/PhilDL) | Philippe L'ATTENTION | Réunion | 6,992 |
-| 3 | [digikaizen](https://github.com/digikaizen) | DigiKaizen | Saint-Denis | 6,429 |
+| 3 | [digikaizen](https://github.com/digikaizen) | DigiKaizen | Saint-Denis | 6,385 |
 | 4 | [saiht](https://github.com/saiht) | Saiht | Reunion Island | 3,883 |
 | 5 | [axelearning](https://github.com/axelearning) | Axel Rasse | Reunion island | 3,555 |
 | 6 | [vittoriobusatta](https://github.com/vittoriobusatta) | vittorio | Reunion Island | 2,731 |
@@ -55,8 +55,8 @@ Indexed users: 212
 | 16 | [RandomZeleff](https://github.com/RandomZeleff) | Zeleff_ | Reunion Island | 234 |
 | 17 | [thibautfontaine](https://github.com/thibautfontaine) | Ti_punch | Reunion Island | 220 |
 | 18 | [aurelien-loyer](https://github.com/aurelien-loyer) | LOYER Aurélien | Reunion Island | 216 |
-| 19 | [dancodeur](https://github.com/dancodeur) | Dan Elenga |  93210, Saint-Denis | 192 |
-| 20 | [alexreu](https://github.com/alexreu) | Alexandre ADOLPHE | Reunion island | 174 |
+| 19 | [alexreu](https://github.com/alexreu) | Alexandre ADOLPHE | Reunion island | 174 |
+| 20 | [dancodeur](https://github.com/dancodeur) | Dan Elenga |  93210, Saint-Denis | 164 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 212
 | 19 | [julien-lav](https://github.com/julien-lav) | julien-lav | Saint-Denis | 20 |
 | 20 | [Nasjoe](https://github.com/Nasjoe) | Jonas TURBEAUX | Réunion Island, Villeurbanne, Montpellier : France | 20 |
 
-Generated: 2026-10-17T11:40:55.007Z
+Generated: 2026-10-17T13:16:37.629Z

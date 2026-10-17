@@ -29,16 +29,16 @@ Indexed users: 797
 | 15 | [Mazyod](https://github.com/Mazyod) | Maz | Kuwait | 3,812 |
 | 16 | [iZaL](https://github.com/iZaL) | Afzal Abbas | Kuwait | 3,529 |
 | 17 | [DiNaSoR](https://github.com/DiNaSoR) | BuYousef | Kuwait | 3,511 |
-| 18 | [aalhendi](https://github.com/aalhendi) | Abdulrazzaq Alhendi | Kuwait | 3,466 |
-| 19 | [tammerofficial](https://github.com/tammerofficial) | tammer | Kuwait City | 3,336 |
-| 20 | [saudshaddad](https://github.com/saudshaddad) | Saud Shaddad | Kuwait | 3,287 |
+| 18 | [quadrillion-q8](https://github.com/quadrillion-q8) | Kuwait Computer Repair on Call | Hawalli, Kuwait | 3,499 |
+| 19 | [aalhendi](https://github.com/aalhendi) | Abdulrazzaq Alhendi | Kuwait | 3,466 |
+| 20 | [tammerofficial](https://github.com/tammerofficial) | tammer | Kuwait City | 3,336 |
 
 ## Public Contributions
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [BAWES](https://github.com/BAWES) | Khalid Al-Mutawa | Kuwait | 6,575 |
-| 2 | [quadrillion-q8](https://github.com/quadrillion-q8) | Kuwait Computer Repair on Call | Hawalli, Kuwait | 3,205 |
+| 2 | [quadrillion-q8](https://github.com/quadrillion-q8) | Kuwait Computer Repair on Call | Hawalli, Kuwait | 3,499 |
 | 3 | [arabcoders](https://github.com/arabcoders) | Abdulmohsen | Kuwait | 2,335 |
 | 4 | [SiteQ8](https://github.com/SiteQ8) | Ali AlEnezi | Kuwait | 2,286 |
 | 5 | [fahadTheTechIdea](https://github.com/fahadTheTechIdea) | Fahad Aldhubaib | Kuwait | 2,193 |
@@ -55,8 +55,8 @@ Indexed users: 797
 | 16 | [fibonacci61](https://github.com/fibonacci61) | Faisal Malallah | Kuwait | 545 |
 | 17 | [agatho-daemon](https://github.com/agatho-daemon) | Agathodaemon | Kuwait | 532 |
 | 18 | [lonlydwolf](https://github.com/lonlydwolf) | Ahmad Mollaei | Kuwait | 491 |
-| 19 | [drhema](https://github.com/drhema) | Ibrahim Elsherbiny | Kuwait | 447 |
-| 20 | [Ahmad-Ali-mohammad](https://github.com/Ahmad-Ali-mohammad) | ahmad al mohammad | kuwait | 445 |
+| 19 | [Ahmad-Ali-mohammad](https://github.com/Ahmad-Ali-mohammad) | ahmad al mohammad | kuwait | 448 |
+| 20 | [drhema](https://github.com/drhema) | Ibrahim Elsherbiny | Kuwait | 447 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 797
 | 19 | [MoathOthman](https://github.com/MoathOthman) | Moath othman | Kuwait | 85 |
 | 20 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Kuwait | 81 |
 
-Generated: 2026-10-17T11:11:31.327Z
+Generated: 2026-10-17T12:52:07.286Z

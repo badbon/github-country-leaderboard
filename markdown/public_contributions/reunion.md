@@ -1,6 +1,6 @@
 # Public Contributions - Réunion
 
-Generated: 2026-10-17T11:40:55.007Z
+Generated: 2026-10-17T13:16:37.629Z
 
 Users: 212
 
@@ -24,5 +24,5 @@ Users: 212
 | 16 | [RandomZeleff](https://github.com/RandomZeleff) | Zeleff_ | Nartya | zeleff_ii | Reunion Island | 234 |
 | 17 | [thibautfontaine](https://github.com/thibautfontaine) | Ti_punch |  |  | Reunion Island | 220 |
 | 18 | [aurelien-loyer](https://github.com/aurelien-loyer) | LOYER Aurélien | EPITECH |  | Reunion Island | 216 |
-| 19 | [dancodeur](https://github.com/dancodeur) | Dan Elenga |  |  |  93210, Saint-Denis | 192 |
-| 20 | [alexreu](https://github.com/alexreu) | Alexandre ADOLPHE |  |  | Reunion island | 174 |
+| 19 | [alexreu](https://github.com/alexreu) | Alexandre ADOLPHE |  |  | Reunion island | 174 |
+| 20 | [dancodeur](https://github.com/dancodeur) | Dan Elenga |  |  |  93210, Saint-Denis | 164 |
