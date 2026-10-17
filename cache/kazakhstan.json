@@ -28292,7 +28292,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 7,
     "createdAt": "2021-01-27T05:57:13Z"
   },
   {
@@ -28304,7 +28304,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 4,
     "createdAt": "2021-09-08T08:37:20Z"
   },
   {
@@ -28374,7 +28374,7 @@
     "location": "Kazakhstan",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 20,
     "createdAt": "2021-02-27T16:21:32Z"
@@ -28386,9 +28386,9 @@
     "location": "Almaty, Kazakhstan",
     "company": "Prime Source",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 46,
+    "publicContributions": 59,
     "createdAt": "2021-06-13T09:13:03Z"
   },
   {
@@ -28418,12 +28418,12 @@
   {
     "login": "ilyas-mf",
     "name": "Ilyas Shaikenov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/80824586?s=72&u=a489db3fb59d466e60d76fef59d06029432c2e69&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/80824586?s=72&u=757a19eb2a94796f07fd395e61a1ba2b8e5857ea&v=4",
     "location": "Astana, Kazakhstan",
     "company": "@sys911",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 142,
+    "privateContributions": 368,
     "publicContributions": 0,
     "createdAt": "2021-03-17T10:58:18Z"
   },
@@ -28434,21 +28434,21 @@
     "location": "Astana, Kazakhstan",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 78,
+    "publicContributions": 106,
     "createdAt": "2021-02-26T13:01:10Z"
   },
   {
     "login": "normalno295",
-    "name": "Pasha",
+    "name": "Ahmet",
     "avatarUrl": "https://avatars.githubusercontent.com/u/90567230?s=72&u=58d27c629d9f31cff4527e784aca431cbcb5b8f8&v=4",
     "location": "Kazakhstan",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 302,
-    "publicContributions": 14,
+    "privateContributions": 298,
+    "publicContributions": 3,
     "createdAt": "2021-09-12T15:47:20Z"
   },
   {
@@ -28506,8 +28506,8 @@
     "location": "Almaty, Kazakhstan",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 184,
+    "followers": 2,
+    "privateContributions": 95,
     "publicContributions": 0,
     "createdAt": "2021-03-02T14:26:33Z"
   },

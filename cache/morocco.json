@@ -28303,8 +28303,8 @@
     "company": "UM6P",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 115,
-    "publicContributions": 77,
+    "privateContributions": 120,
+    "publicContributions": 18,
     "createdAt": "2023-06-01T02:23:04Z"
   },
   {
@@ -28315,7 +28315,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 460,
+    "privateContributions": 604,
     "publicContributions": 42,
     "createdAt": "2023-06-03T20:58:26Z"
   },
@@ -28326,7 +28326,7 @@
     "location": "Casablanca, Morocco",
     "company": "White444_yt",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-02-08T11:02:20Z"
@@ -28392,18 +28392,6 @@
     "createdAt": "2023-06-08T18:24:47Z"
   },
   {
-    "login": "Maha-Jr10",
-    "name": "Muhammed John",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/137701896?s=72&u=ccaf2c4a7df806d0f8febc761eae5a168bcd55d4&v=4",
-    "location": "Fes, Morocco",
-    "company": "ENSAF",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 431,
-    "publicContributions": 95,
-    "createdAt": "2023-06-25T13:19:04Z"
-  },
-  {
     "login": "aminebk99",
     "name": "Mohamed Amine Bazaou",
     "avatarUrl": "https://avatars.githubusercontent.com/u/129026688?s=72&u=c179f7f505a96aba5e93d677f6e25f7c48fc4f60&v=4",
@@ -28411,8 +28399,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 54,
-    "publicContributions": 18,
+    "privateContributions": 17,
+    "publicContributions": 14,
     "createdAt": "2023-03-27T03:40:24Z"
   },
   {
@@ -28483,7 +28471,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 108,
+    "privateContributions": 110,
     "publicContributions": 15,
     "createdAt": "2023-02-05T11:11:09Z"
   },

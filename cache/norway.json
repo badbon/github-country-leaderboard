@@ -28735,20 +28735,20 @@
     "company": "Exorlive",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 2892,
+    "privateContributions": 5462,
     "publicContributions": 2,
     "createdAt": "2022-11-18T10:47:31Z"
   },
   {
     "login": "Mathiasotnes",
-    "name": "Mathias Otnes",
+    "name": "Mathias Størseth Otnes",
     "avatarUrl": "https://avatars.githubusercontent.com/u/114017261?s=72&u=b4163ecec2118fc540555c56788e4cbab0ee6855&v=4",
     "location": "Oslo",
     "company": "Equinor",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 136,
-    "publicContributions": 26,
+    "privateContributions": 167,
+    "publicContributions": 10,
     "createdAt": "2022-09-20T17:29:56Z"
   },
   {
@@ -28760,7 +28760,7 @@
     "twitterUsername": "",
     "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 17,
     "createdAt": "2022-06-10T14:10:33Z"
   },
   {
@@ -28771,8 +28771,8 @@
     "company": "Sopra Steria",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 10,
-    "publicContributions": 58,
+    "privateContributions": 4,
+    "publicContributions": 33,
     "createdAt": "2022-08-28T18:42:31Z"
   },
   {
@@ -28782,9 +28782,9 @@
     "location": "Oslo",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 433,
+    "publicContributions": 384,
     "createdAt": "2022-10-25T13:48:53Z"
   },
   {
@@ -28795,7 +28795,7 @@
     "company": "@sparebank1utvikling ",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 3,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-04-28T10:52:03Z"
   },
@@ -28813,14 +28813,14 @@
   },
   {
     "login": "AndrewMoisa",
-    "name": "Andrei ",
+    "name": "Andrei Moisa",
     "avatarUrl": "https://avatars.githubusercontent.com/u/113123678?s=72&u=52f062a0941a327110e32a72947a87622657aa05&v=4",
     "location": "Oslo",
     "company": "",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 117,
-    "publicContributions": 330,
+    "privateContributions": 146,
+    "publicContributions": 308,
     "createdAt": "2022-09-08T15:10:25Z"
   },
   {
@@ -28831,7 +28831,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 51,
+    "privateContributions": 82,
     "publicContributions": 23,
     "createdAt": "2022-03-29T14:15:49Z"
   },
@@ -28842,9 +28842,9 @@
     "location": "Oslo",
     "company": "University Of Oslo",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 8,
     "createdAt": "2022-11-22T10:32:42Z"
   },
   {
@@ -28866,7 +28866,7 @@
     "location": "Oslo",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 10,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-10-06T14:30:04Z"
@@ -28891,8 +28891,8 @@
     "company": "UiO",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 851,
-    "publicContributions": 24,
+    "privateContributions": 849,
+    "publicContributions": 20,
     "createdAt": "2022-08-16T08:39:22Z"
   },
   {
@@ -28910,13 +28910,13 @@
   {
     "login": "StianHaSu",
     "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/97457481?s=72&u=a67c1e10087e10cb856b64ed8a3b488640617ea2&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/97457481?s=72&u=2b7fbb1a2c333a7a826685eb92fe410a1f7316cb&v=4",
     "location": "Oslo",
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 983,
-    "publicContributions": 392,
+    "privateContributions": 1263,
+    "publicContributions": 362,
     "createdAt": "2022-01-10T14:50:50Z"
   },
   {
@@ -28927,8 +28927,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 460,
-    "publicContributions": 18,
+    "privateContributions": 1023,
+    "publicContributions": 14,
     "createdAt": "2022-08-25T11:13:36Z"
   },
   {
@@ -28939,8 +28939,8 @@
     "company": "University of Oslo",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 15,
-    "publicContributions": 29,
+    "privateContributions": 32,
+    "publicContributions": 17,
     "createdAt": "2022-03-22T23:38:14Z"
   },
   {
@@ -28950,9 +28950,9 @@
     "location": "Oslo",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 499,
+    "publicContributions": 567,
     "createdAt": "2022-09-07T11:21:11Z"
   },
   {
@@ -28963,7 +28963,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 269,
+    "privateContributions": 379,
     "publicContributions": 0,
     "createdAt": "2022-05-05T17:06:01Z"
   },
