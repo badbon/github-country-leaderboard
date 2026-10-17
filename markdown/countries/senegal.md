@@ -14,7 +14,7 @@ Indexed users: 1,356
 |---:|---|---|---|---:|
 | 1 | [traorecheikh](https://github.com/traorecheikh) | Cheikh Tidiane TRAORÉ | dakar, senegal | 13,400 |
 | 2 | [niangamadou888](https://github.com/niangamadou888) | Amadou Boubacar Niang | Saint-Louis, Senegal | 12,555 |
-| 3 | [OusManDiouf](https://github.com/OusManDiouf) | OUSMANE  DIOUF | Dakar, Sénégal | 10,369 |
+| 3 | [OusManDiouf](https://github.com/OusManDiouf) | OUSMANE  DIOUF | Dakar, Sénégal | 10,735 |
 | 4 | [ModesteNAHUM](https://github.com/ModesteNAHUM) | Modeste NAHUM | Dakar, Sénégal | 10,140 |
 | 5 | [Titovich2203](https://github.com/Titovich2203) | Tito GBEDJEHA | Dakar, Senegal | 9,124 |
 | 6 | [jmndao](https://github.com/jmndao) | Jonathan Musa NDAO | Senegal | 8,074 |
@@ -83,4 +83,4 @@ Indexed users: 1,356
 | 19 | [ngorseck](https://github.com/ngorseck) | Ngor SECK | Dakar - Sénégal | 142 |
 | 20 | [patheGobel](https://github.com/patheGobel) | Pathé BA | Senegal  | 141 |
 
-Generated: 2026-10-17T20:01:48.557Z
+Generated: 2026-10-17T21:29:51.082Z
