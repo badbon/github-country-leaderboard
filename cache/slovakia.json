@@ -29863,8 +29863,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1033,
-    "publicContributions": 7535,
+    "privateContributions": 2946,
+    "publicContributions": 8778,
     "createdAt": "2017-06-20T22:33:35Z"
   },
   {
@@ -29874,9 +29874,9 @@
     "location": "Bratislava",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 5,
     "privateContributions": 82,
-    "publicContributions": 33,
+    "publicContributions": 24,
     "createdAt": "2017-02-24T15:30:34Z"
   },
   {
@@ -29892,18 +29892,6 @@
     "createdAt": "2017-09-09T15:27:41Z"
   },
   {
-    "login": "detaility",
-    "name": "Daniel Čeliga",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/28677867?s=72&u=9eeb870058912a8765af2f9b654dc5fb1ec68242&v=4",
-    "location": "Bratislava",
-    "company": "@detaility-studio ",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 1587,
-    "publicContributions": 0,
-    "createdAt": "2017-05-13T20:12:11Z"
-  },
-  {
     "login": "hucKOder",
     "name": "Andrej Hucko",
     "avatarUrl": "https://avatars.githubusercontent.com/u/25310611?s=72&u=0947a50e9bfea13c77c2dd81761cf10b65eae67f&v=4",
@@ -29912,7 +29900,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 9,
     "createdAt": "2017-01-23T22:59:00Z"
   },
   {
@@ -29936,7 +29924,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 71,
+    "publicContributions": 14,
     "createdAt": "2017-12-06T19:49:56Z"
   },
   {
@@ -29994,7 +29982,7 @@
     "location": "Bratislava ",
     "company": "DARTIN",
     "twitterUsername": "igikiss",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 21,
     "createdAt": "2017-08-20T19:53:15Z"
@@ -30007,7 +29995,7 @@
     "company": "dominanz spol. s.r.o.",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 54,
+    "privateContributions": 187,
     "publicContributions": 1,
     "createdAt": "2017-06-05T11:42:02Z"
   },
@@ -30044,7 +30032,7 @@
     "twitterUsername": "BritkaPeter",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 6,
     "createdAt": "2017-05-18T09:48:57Z"
   },
   {

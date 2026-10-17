@@ -30282,9 +30282,9 @@
     "location": "Tallinn, Estonia",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 2709,
-    "publicContributions": 38,
+    "followers": 14,
+    "privateContributions": 2706,
+    "publicContributions": 27,
     "createdAt": "2016-03-04T16:49:51Z"
   },
   {
@@ -30307,8 +30307,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 481,
-    "publicContributions": 12,
+    "privateContributions": 928,
+    "publicContributions": 0,
     "createdAt": "2016-12-04T00:05:59Z"
   },
   {
@@ -30318,9 +30318,9 @@
     "location": "Estonia",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 161,
+    "publicContributions": 368,
     "createdAt": "2016-08-25T14:42:10Z"
   },
   {
@@ -30332,7 +30332,7 @@
     "twitterUsername": "JKivinukk",
     "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2016-10-03T14:55:47Z"
   },
   {
@@ -30342,8 +30342,8 @@
     "location": "Estonia",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 4,
+    "followers": 13,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-10-14T05:52:25Z"
   },
@@ -30356,7 +30356,7 @@
     "twitterUsername": "",
     "followers": 12,
     "privateContributions": 378,
-    "publicContributions": 504,
+    "publicContributions": 491,
     "createdAt": "2016-10-12T06:54:09Z"
   },
   {
@@ -30367,7 +30367,7 @@
     "company": "Veriff",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 217,
+    "privateContributions": 226,
     "publicContributions": 48,
     "createdAt": "2016-01-03T08:08:30Z"
   },
@@ -30391,7 +30391,7 @@
     "company": "@ituk-ttu ",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 418,
+    "privateContributions": 383,
     "publicContributions": 0,
     "createdAt": "2016-08-18T09:22:40Z"
   },
@@ -30402,7 +30402,7 @@
     "location": "Estonia",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 11,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2016-01-08T20:49:13Z"
@@ -30414,8 +30414,8 @@
     "location": "Estonia",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 881,
+    "followers": 10,
+    "privateContributions": 1085,
     "publicContributions": 1,
     "createdAt": "2016-03-26T16:16:23Z"
   },
@@ -30427,20 +30427,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 25,
+    "privateContributions": 40,
     "publicContributions": 0,
     "createdAt": "2016-02-03T06:29:32Z"
   },
   {
     "login": "ahmedbadawy4",
     "name": "Ahmed Badawy",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/18551056?s=72&u=c214982bb49d78d35654b837abce4363426f834a&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/18551056?s=72&u=4fd15075207c71f7ef69c216bbef0a5ae313b1c4&v=4",
     "location": "Estonia",
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 1326,
-    "publicContributions": 106,
+    "privateContributions": 1698,
+    "publicContributions": 109,
     "createdAt": "2016-04-19T10:48:11Z"
   },
   {
@@ -30464,7 +30464,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 6,
     "createdAt": "2016-03-16T21:30:07Z"
   },
   {
@@ -30476,7 +30476,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 65,
+    "publicContributions": 41,
     "createdAt": "2016-07-12T16:54:09Z"
   },
   {
@@ -30486,9 +30486,9 @@
     "location": "Estonia",
     "company": "Upwork",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 1019,
-    "publicContributions": 51,
+    "followers": 11,
+    "privateContributions": 1616,
+    "publicContributions": 16,
     "createdAt": "2016-02-17T19:22:58Z"
   },
   {
@@ -30498,9 +30498,9 @@
     "location": "Tallinn, Estonia",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 69,
-    "publicContributions": 20,
+    "followers": 8,
+    "privateContributions": 38,
+    "publicContributions": 25,
     "createdAt": "2016-03-24T14:47:03Z"
   },
   {
@@ -30510,7 +30510,7 @@
     "location": "Tallinn, Estonia",
     "company": "deus4",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 9,
     "privateContributions": 0,
     "publicContributions": 35,
     "createdAt": "2016-08-26T08:13:23Z"

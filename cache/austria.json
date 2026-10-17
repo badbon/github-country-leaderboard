@@ -30212,7 +30212,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 16,
     "createdAt": "2022-12-07T14:55:31Z"
   },
   {
@@ -30235,8 +30235,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 72,
-    "publicContributions": 470,
+    "privateContributions": 97,
+    "publicContributions": 366,
     "createdAt": "2022-12-27T12:08:40Z"
   },
   {
@@ -30271,8 +30271,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 210,
-    "publicContributions": 94,
+    "privateContributions": 102,
+    "publicContributions": 91,
     "createdAt": "2022-06-28T16:34:55Z"
   },
   {
@@ -30284,7 +30284,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 4,
     "createdAt": "2022-09-27T08:11:05Z"
   },
   {
@@ -30319,19 +30319,19 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 1,
+    "privateContributions": 79,
     "publicContributions": 0,
     "createdAt": "2022-03-14T14:49:24Z"
   },
   {
     "login": "pabcasdev",
     "name": "Pablo Castillo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/108684758?s=72&u=60cba88c37be363871fbd6431e97b00a63837053&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/108684758?s=72&u=afde0a32da8cec637a7b209f369d7f71baa5ca05&v=4",
     "location": "Vienna",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 633,
+    "followers": 8,
+    "privateContributions": 852,
     "publicContributions": 0,
     "createdAt": "2022-07-04T15:32:08Z"
   },
@@ -30344,7 +30344,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 366,
+    "publicContributions": 509,
     "createdAt": "2022-04-05T07:19:06Z"
   },
   {
@@ -30355,21 +30355,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 187,
+    "privateContributions": 152,
     "publicContributions": 48,
     "createdAt": "2022-06-02T14:12:57Z"
-  },
-  {
-    "login": "Oni01110011",
-    "name": "Bernhard Aichinger-Ganas",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/105129361?s=72&u=3b2bab1fba37e4c08b6157d0fe7d6811324e56f1&v=4",
-    "location": "TGM, Vienna",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 58,
-    "createdAt": "2022-05-07T20:20:28Z"
   },
   {
     "login": "lnm-at-work",
@@ -30379,7 +30367,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 151,
+    "privateContributions": 170,
     "publicContributions": 14,
     "createdAt": "2022-04-11T14:10:03Z"
   },
@@ -30392,7 +30380,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 56,
+    "publicContributions": 44,
     "createdAt": "2022-02-01T09:44:36Z"
   },
   {
@@ -30412,11 +30400,11 @@
     "name": "Vikentiy Pukhaev",
     "avatarUrl": "https://avatars.githubusercontent.com/u/108030809?s=72&u=2f156a9204588b852e44224eab4e8bca5d373c12&v=4",
     "location": "Vienna",
-    "company": "",
+    "company": "Austrian Student",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 629,
-    "publicContributions": 105,
+    "followers": 7,
+    "privateContributions": 810,
+    "publicContributions": 186,
     "createdAt": "2022-06-22T20:57:19Z"
   },
   {
@@ -30427,8 +30415,8 @@
     "company": "@madebywild ",
     "twitterUsername": "CodingFlames",
     "followers": 4,
-    "privateContributions": 2573,
-    "publicContributions": 456,
+    "privateContributions": 2850,
+    "publicContributions": 449,
     "createdAt": "2022-04-01T08:50:00Z"
   },
   {

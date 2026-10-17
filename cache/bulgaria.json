@@ -30410,13 +30410,13 @@
   {
     "login": "greevdev",
     "name": "Georgi Andreev",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/114828856?s=72&u=c25a1852386795d5165abcae8d853af03d6df908&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/114828856?s=72&u=0dd3f3aa26853952911b58158b1f7ebdf3519868&v=4",
     "location": "Bulgaria",
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 20,
-    "publicContributions": 0,
+    "privateContributions": 10,
+    "publicContributions": 67,
     "createdAt": "2022-10-01T18:13:55Z"
   },
   {
@@ -30451,8 +30451,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 120,
-    "publicContributions": 725,
+    "privateContributions": 88,
+    "publicContributions": 815,
     "createdAt": "2022-07-17T14:21:04Z"
   },
   {
@@ -30463,7 +30463,7 @@
     "company": "DHR Engineering",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 476,
+    "privateContributions": 483,
     "publicContributions": 3,
     "createdAt": "2022-12-18T09:28:44Z"
   },
@@ -30475,7 +30475,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 113,
+    "privateContributions": 107,
     "publicContributions": 0,
     "createdAt": "2022-11-30T22:48:18Z"
   },
@@ -30500,7 +30500,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 57,
+    "publicContributions": 64,
     "createdAt": "2022-10-27T16:47:45Z"
   },
   {
@@ -30510,9 +30510,9 @@
     "location": "Sofia, Bulgaria",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 240,
+    "publicContributions": 235,
     "createdAt": "2022-12-26T17:48:17Z"
   },
   {
@@ -30523,8 +30523,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 239,
-    "publicContributions": 332,
+    "privateContributions": 209,
+    "publicContributions": 281,
     "createdAt": "2022-11-04T08:27:16Z"
   },
   {
@@ -30570,7 +30570,7 @@
     "location": "Varna, Bulgaria",
     "company": "Hilscher Development and Test Center",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-10-25T10:55:53Z"
@@ -30618,9 +30618,9 @@
     "location": "Stara Zagora, Bulgaria",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 343,
+    "publicContributions": 261,
     "createdAt": "2022-10-02T13:04:27Z"
   },
   {
@@ -30642,7 +30642,7 @@
     "location": "Karlovo, Bulgaria",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 4,
     "privateContributions": 29,
     "publicContributions": 4,
     "createdAt": "2022-11-07T16:39:59Z"

@@ -29239,8 +29239,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 10,
-    "publicContributions": 0,
+    "privateContributions": 135,
+    "publicContributions": 1,
     "createdAt": "2023-03-15T14:41:49Z"
   },
   {
@@ -29251,20 +29251,20 @@
     "company": "HLMPN AB",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 552,
-    "publicContributions": 73,
+    "privateContributions": 539,
+    "publicContributions": 48,
     "createdAt": "2023-03-05T09:52:47Z"
   },
   {
     "login": "fashinski",
     "name": "Eli Fadi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/125807255?s=72&u=f3007909fee2bbc2b182c1986618a185f7a52fb5&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/125807255?s=72&u=eacd57d88f58dbae3de252b9297b9da5b3e456de&v=4",
     "location": "sweden",
     "company": "iCareIntel.com",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 41,
     "createdAt": "2023-02-19T13:24:58Z"
   },
   {
@@ -29288,7 +29288,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 153,
+    "publicContributions": 158,
     "createdAt": "2023-02-11T08:16:52Z"
   },
   {
@@ -29298,7 +29298,7 @@
     "location": "Sweden/Stockholm",
     "company": "",
     "twitterUsername": "",
-    "followers": 134,
+    "followers": 131,
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2023-12-25T14:42:00Z"
@@ -29308,11 +29308,11 @@
     "name": "Cesar Talén",
     "avatarUrl": "https://avatars.githubusercontent.com/u/154442565?s=72&v=4",
     "location": "Sweden, Västerås",
-    "company": "",
+    "company": "OpiFlex",
     "twitterUsername": "",
-    "followers": 67,
-    "privateContributions": 2723,
-    "publicContributions": 5,
+    "followers": 124,
+    "privateContributions": 5410,
+    "publicContributions": 109,
     "createdAt": "2023-12-20T14:09:00Z"
   },
   {
@@ -29322,9 +29322,9 @@
     "location": "Kista, Sweden",
     "company": "Ericsson",
     "twitterUsername": "",
-    "followers": 58,
+    "followers": 63,
     "privateContributions": 0,
-    "publicContributions": 443,
+    "publicContributions": 507,
     "createdAt": "2023-07-04T21:06:36Z"
   },
   {
@@ -29347,8 +29347,8 @@
     "company": "",
     "twitterUsername": "isakskogstad",
     "followers": 28,
-    "privateContributions": 2442,
-    "publicContributions": 652,
+    "privateContributions": 2818,
+    "publicContributions": 624,
     "createdAt": "2023-10-27T11:41:49Z"
   },
   {
@@ -29360,7 +29360,7 @@
     "twitterUsername": "",
     "followers": 28,
     "privateContributions": 0,
-    "publicContributions": 41,
+    "publicContributions": 31,
     "createdAt": "2023-10-02T13:47:34Z"
   },
   {
@@ -29371,7 +29371,7 @@
     "company": "Syncify AB",
     "twitterUsername": "",
     "followers": 27,
-    "privateContributions": 757,
+    "privateContributions": 455,
     "publicContributions": 13,
     "createdAt": "2023-07-15T11:10:49Z"
   },
@@ -29390,13 +29390,13 @@
   {
     "login": "AbodiDawoud",
     "name": "Abodi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/152935368?s=72&u=d9b3c1a932594e7f2dc77d0db080241aa85cc0a5&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/152935368?s=72&u=bf28202615c56d0845602292d7de5ec3c3458c1b&v=4",
     "location": "Sweden",
     "company": "",
     "twitterUsername": "raptor_o10",
-    "followers": 25,
+    "followers": 29,
     "privateContributions": 0,
-    "publicContributions": 254,
+    "publicContributions": 219,
     "createdAt": "2023-12-05T00:38:41Z"
   },
   {
@@ -29414,13 +29414,13 @@
   {
     "login": "oliviaaMach",
     "name": "Olivia Mach",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/141875058?s=72&u=4b0383b0e91569d13163066b1102ea0ae2fd4ca7&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/141875058?s=72&u=4933aa0f3d9969b6bc6d7616d7f56c07f3a7a296&v=4",
     "location": "Hörby, Sweden",
     "company": "",
     "twitterUsername": "",
     "followers": 24,
     "privateContributions": 0,
-    "publicContributions": 482,
+    "publicContributions": 435,
     "createdAt": "2023-08-09T20:32:11Z"
   },
   {
@@ -29444,7 +29444,7 @@
     "twitterUsername": "",
     "followers": 20,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2023-10-04T09:31:09Z"
   },
   {
@@ -29454,7 +29454,7 @@
     "location": "Lund, Sweden",
     "company": "",
     "twitterUsername": "",
-    "followers": 20,
+    "followers": 19,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-07-27T08:23:59Z"
@@ -29466,7 +29466,7 @@
     "location": "Sweden ",
     "company": "Make and learn",
     "twitterUsername": "",
-    "followers": 19,
+    "followers": 11,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-11-10T15:15:26Z"

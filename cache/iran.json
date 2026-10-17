@@ -29684,7 +29684,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 72,
+    "publicContributions": 62,
     "createdAt": "2024-06-12T13:51:21Z"
   },
   {
@@ -29744,7 +29744,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 343,
+    "publicContributions": 369,
     "createdAt": "2024-06-15T11:34:21Z"
   },
   {
@@ -29755,7 +29755,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 147,
+    "privateContributions": 193,
     "publicContributions": 9,
     "createdAt": "2024-03-29T16:37:14Z"
   },
@@ -29780,7 +29780,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 95,
+    "publicContributions": 71,
     "createdAt": "2024-05-14T08:54:12Z"
   },
   {
@@ -29792,20 +29792,8 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 2,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2024-06-16T19:19:46Z"
-  },
-  {
-    "login": "rezarezaeic",
-    "name": "Reza Rezaei",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/173999743?s=72&v=4",
-    "location": "iran",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2024-06-27T08:30:50Z"
   },
   {
     "login": "rezae140422",
@@ -29816,7 +29804,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 41,
     "createdAt": "2024-06-02T09:14:58Z"
   },
   {
@@ -29826,7 +29814,7 @@
     "location": "Iran",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-04-30T06:22:16Z"
@@ -29840,7 +29828,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 45,
+    "publicContributions": 33,
     "createdAt": "2024-05-06T19:40:07Z"
   },
   {
@@ -29850,9 +29838,9 @@
     "location": "Iran",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 45,
     "createdAt": "2024-05-13T10:28:45Z"
   },
   {
@@ -29898,8 +29886,8 @@
     "location": "Tehran, Iran",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 45,
+    "followers": 6,
+    "privateContributions": 5,
     "publicContributions": 0,
     "createdAt": "2024-06-07T07:34:03Z"
   },

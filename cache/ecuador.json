@@ -30379,7 +30379,7 @@
     "company": "corvustec",
     "twitterUsername": "fensefernando",
     "followers": 1,
-    "privateContributions": 504,
+    "privateContributions": 516,
     "publicContributions": 0,
     "createdAt": "2020-05-29T17:02:48Z"
   },
@@ -30439,8 +30439,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 267,
-    "publicContributions": 0,
+    "privateContributions": 228,
+    "publicContributions": 19,
     "createdAt": "2020-05-08T03:37:35Z"
   },
   {
@@ -30528,27 +30528,15 @@
     "createdAt": "2020-01-07T20:02:14Z"
   },
   {
-    "login": "Eduardo-Pastrano",
-    "name": "Eduardo Pastrano Muziotti",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/69042780?s=72&u=b5580d08b796ce4eff290429af4820b6a1239ed5&v=4",
-    "location": "Quito",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2020-07-31T12:47:11Z"
-  },
-  {
     "login": "Bryan-Herrera-DEV",
     "name": "Bryan Herrera ~ ርᚱ1ናተᛰ ᚻህᚥተპᚱ",
     "avatarUrl": "https://avatars.githubusercontent.com/u/50712646?s=72&u=c2af6f88d07673a2e3dae54e4e4ba67b72cdcd6e&v=4",
     "location": "Ecuador",
     "company": "AXIOS click",
     "twitterUsername": "BryanHe52482198",
-    "followers": 115,
-    "privateContributions": 72,
-    "publicContributions": 284,
+    "followers": 116,
+    "privateContributions": 128,
+    "publicContributions": 342,
     "createdAt": "2019-05-16T16:27:02Z"
   },
   {
@@ -30558,9 +30546,9 @@
     "location": "Loja, Ecuador",
     "company": "Universidad de Cuenca",
     "twitterUsername": "AlvaroArmijoss",
-    "followers": 74,
+    "followers": 73,
     "privateContributions": 0,
-    "publicContributions": 55,
+    "publicContributions": 43,
     "createdAt": "2019-10-08T20:31:50Z"
   },
   {

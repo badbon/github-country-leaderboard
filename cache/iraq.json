@@ -3104,7 +3104,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 19,
     "createdAt": "2024-09-17T14:46:05Z"
   },
   {
@@ -3144,18 +3144,6 @@
     "createdAt": "2024-05-09T12:48:52Z"
   },
   {
-    "login": "encdata",
-    "name": "EncData",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/173700551?s=72&u=0746d732a5bfa8fc1ae4b06a5f8cbc0c2691cdc5&v=4",
-    "location": "Iraq",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 750,
-    "publicContributions": 117,
-    "createdAt": "2024-06-24T13:54:34Z"
-  },
-  {
     "login": "vodex-dev",
     "name": "Vodex Tech",
     "avatarUrl": "https://avatars.githubusercontent.com/u/191667771?s=72&u=81b44a8eb7668e6a23b53042cbf8d5d87a0eb86b&v=4",
@@ -3163,7 +3151,7 @@
     "company": "Vodex Tech",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 4670,
+    "privateContributions": 4758,
     "publicContributions": 0,
     "createdAt": "2024-12-14T07:10:57Z"
   },
@@ -3200,7 +3188,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 5,
     "createdAt": "2024-01-28T00:44:29Z"
   },
   {
@@ -3260,7 +3248,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 3,
     "createdAt": "2024-06-11T08:34:09Z"
   },
   {
@@ -3331,7 +3319,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1497,
+    "privateContributions": 1592,
     "publicContributions": 8,
     "createdAt": "2024-07-16T14:04:24Z"
   },
