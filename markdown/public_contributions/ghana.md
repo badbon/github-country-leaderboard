@@ -1,12 +1,12 @@
 # Public Contributions - Ghana
 
-Generated: 2026-10-17T06:09:16.815Z
+Generated: 2026-10-17T07:24:52.447Z
 
-Users: 7091
+Users: 7090
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [Ibrahim-Aboubacar](https://github.com/Ibrahim-Aboubacar) | Ibrahim Aboubacar Ibrahim | @tech-plus-plus |  | Accra, Ghana | 31359 |
+| 1 | [Ibrahim-Aboubacar](https://github.com/Ibrahim-Aboubacar) | Ibrahim Aboubacar Ibrahim | @tech-plus-plus |  | Accra, Ghana | 31158 |
 | 2 | [sedegah](https://github.com/sedegah) | Kimathi  Sedegah | Rehotech & Tayenn | heiskimathi | Ghana | 23317 |
 | 3 | [Joeboy77](https://github.com/Joeboy77) | Joseph Acheampong |  |  | Accra, Ghana | 19539 |
 | 4 | [danieladeabah](https://github.com/danieladeabah) | Daniel Adeabah | CEO at Toazeo, Fullstack Dev @wonchunii. |  | Takoradi, Western Region, Ghana. | 19383 |

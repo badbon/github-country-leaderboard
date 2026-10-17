@@ -26,7 +26,7 @@ Indexed users: 60
 | 12 | [geoffguillain](https://github.com/geoffguillain) | Geoff | French Polynesia | 67 |
 | 13 | [Apollo987](https://github.com/Apollo987) | Jerome B | French Polynesia | 64 |
 | 14 | [laurentpellet](https://github.com/laurentpellet) | Laurent PELLET | French Polynesia | 46 |
-| 15 | [kavehei-lang](https://github.com/kavehei-lang) | Anastasia - HIKUTINI | Polynésie Française | 31 |
+| 15 | [kavehei-lang](https://github.com/kavehei-lang) | Anastasia - HIKUTINI | Polynésie Française | 34 |
 | 16 | [teuna](https://github.com/teuna) | Teuna Ferrand | Tahiti, French Polynesia | 18 |
 | 17 | [AJamelot](https://github.com/AJamelot) | ajamelot | Polynésie Française | 12 |
 | 18 | [DLTBryan](https://github.com/DLTBryan) |  | French Polynesia | 12 |
@@ -48,7 +48,7 @@ Indexed users: 60
 | 9 | [syllebra](https://github.com/syllebra) | BilboX | French Polynesia | 128 |
 | 10 | [laurentpellet](https://github.com/laurentpellet) | Laurent PELLET | French Polynesia | 46 |
 | 11 | [paraita](https://github.com/paraita) | Paraita Wohler | Tahiti, French Polynesia | 40 |
-| 12 | [kavehei-lang](https://github.com/kavehei-lang) | Anastasia - HIKUTINI | Polynésie Française | 31 |
+| 12 | [kavehei-lang](https://github.com/kavehei-lang) | Anastasia - HIKUTINI | Polynésie Française | 34 |
 | 13 | [AJamelot](https://github.com/AJamelot) | ajamelot | Polynésie Française | 12 |
 | 14 | [DLTBryan](https://github.com/DLTBryan) |  | French Polynesia | 9 |
 | 15 | [jbtheou](https://github.com/jbtheou) | Jean-Baptiste Théou | French Polynesia | 7 |
@@ -83,4 +83,4 @@ Indexed users: 60
 | 19 | [TToarii](https://github.com/TToarii) | TAU Toarii | French Polynesia | 5 |
 | 20 | [geoffguillain](https://github.com/geoffguillain) | Geoff | French Polynesia | 4 |
 
-Generated: 2026-10-17T06:07:40.971Z
+Generated: 2026-10-17T07:24:37.295Z

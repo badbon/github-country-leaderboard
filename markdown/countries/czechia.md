@@ -1,6 +1,6 @@
 # Czechia
 
-Indexed users: 16,203
+Indexed users: 16,204
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 16,203
 | 19 | [wbenny](https://github.com/wbenny) | Petr Beneš | Brno, Czech Republic | 877 |
 | 20 | [ondras](https://github.com/ondras) | Ondřej Žára | Prague | 840 |
 
-Generated: 2026-10-17T06:02:52.545Z
+Generated: 2026-10-17T07:17:36.475Z

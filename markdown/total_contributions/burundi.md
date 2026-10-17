@@ -1,13 +1,13 @@
 # Total Contributions - Burundi
 
-Generated: 2026-10-17T05:56:14.859Z
+Generated: 2026-10-17T07:12:15.831Z
 
 Users: 235
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [257lad](https://github.com/257lad) | Isaac NDAYIZEYE | HOGI |  | Bujumbura, Burundi | 6238 |
-| 2 | [mugar](https://github.com/mugar) | mugabo armand |  |  | Burundi | 4661 |
+| 2 | [mugar](https://github.com/mugar) | mugabo armand |  |  | Burundi | 4745 |
 | 3 | [muco-rolle](https://github.com/muco-rolle) | Trésor Muco | Leapa | mucotreso | Bujumbura, Burundi | 2628 |
 | 4 | [INGANZAMARUMPU](https://github.com/INGANZAMARUMPU) | NKURUNZIZA | hogitugende | inganzamarumpu | Bujumbura, Burundi | 2470 |
 | 5 | [klauskira07](https://github.com/klauskira07) | Klaus KIRA | Vortex Ltd. | klauskira07 | Burundi | 2129 |

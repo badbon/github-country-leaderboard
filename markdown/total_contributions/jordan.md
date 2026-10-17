@@ -1,6 +1,6 @@
 # Total Contributions - Jordan
 
-Generated: 2026-10-17T06:16:36.579Z
+Generated: 2026-10-17T07:33:16.852Z
 
 Users: 4011
 
@@ -10,11 +10,11 @@ Users: 4011
 | 2 | [jaberjaber23](https://github.com/jaberjaber23) | Jaber Jaber | RightNow AI | Akashi203 | Amman, Jordan | 28820 |
 | 3 | [MrGiveItAway-TPK](https://github.com/MrGiveItAway-TPK) | Munes Bani Fawaz | Syarah - TechWadi |  | Amman, Jordan | 10839 |
 | 4 | [samertall](https://github.com/samertall) | Samer Tallauze | SamerTallauze |  | Amman, Jordan | 8574 |
-| 5 | [abuaboud](https://github.com/abuaboud) | Mo AbuAboud | @activepieces  | mabuaboud | Amman, Jordan | 8035 |
-| 6 | [Jaber-Saed](https://github.com/Jaber-Saed) | Jaber-Said | Axionic | Jaber_Said_ | Amman Jordan | 7128 |
-| 7 | [OsamaAssaf](https://github.com/OsamaAssaf) | Osama Assaf | @Solutions-Now | OsamaAssaf2k | Jordan | 6492 |
-| 8 | [K3epEv3rythingYours](https://github.com/K3epEv3rythingYours) | K3YB1T |  |  | Jordan | 6128 |
-| 9 | [MusaMisto](https://github.com/MusaMisto) | Musa Misto | Simplify9 |  | Amman, Jordan | 6105 |
+| 5 | [MusaMisto](https://github.com/MusaMisto) | Musa Misto | Simplify9 |  | Amman, Jordan | 8318 |
+| 6 | [abuaboud](https://github.com/abuaboud) | Mo AbuAboud | @activepieces  | mabuaboud | Amman, Jordan | 8035 |
+| 7 | [Jaber-Saed](https://github.com/Jaber-Saed) | Jaber-Said | Axionic | Jaber_Said_ | Amman Jordan | 7128 |
+| 8 | [OsamaAssaf](https://github.com/OsamaAssaf) | Osama Assaf | @Solutions-Now | OsamaAssaf2k | Jordan | 6492 |
+| 9 | [K3epEv3rythingYours](https://github.com/K3epEv3rythingYours) | K3YB1T |  |  | Jordan | 6128 |
 | 10 | [htirawi](https://github.com/htirawi) | Hussein Tirawi |  |  | Jordan | 5976 |
 | 11 | [MahmoudEsawi](https://github.com/MahmoudEsawi) | Mahmoud Al-Esawi | MENADevs |  | Amman\Jordan | 5804 |
 | 12 | [AliBakerSartawi](https://github.com/AliBakerSartawi) | Ali Baker Sartawi |  |  | Amman, Jordan | 5440 |

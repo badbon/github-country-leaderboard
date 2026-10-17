@@ -1,6 +1,6 @@
 # Ghana
 
-Indexed users: 7,091
+Indexed users: 7,090
 
 | Leaderboard | Link |
 |---|---|
@@ -14,7 +14,7 @@ Indexed users: 7,091
 |---:|---|---|---|---:|
 | 1 | [1mos-droid](https://github.com/1mos-droid) | Kumesi Moses Mawulolo | Ghana | 78,019 |
 | 2 | [Joeboy77](https://github.com/Joeboy77) | Joseph Acheampong | Accra, Ghana | 53,012 |
-| 3 | [Ibrahim-Aboubacar](https://github.com/Ibrahim-Aboubacar) | Ibrahim Aboubacar Ibrahim | Accra, Ghana | 33,429 |
+| 3 | [Ibrahim-Aboubacar](https://github.com/Ibrahim-Aboubacar) | Ibrahim Aboubacar Ibrahim | Accra, Ghana | 33,208 |
 | 4 | [sedegah](https://github.com/sedegah) | Kimathi  Sedegah | Ghana | 27,754 |
 | 5 | [danieladeabah](https://github.com/danieladeabah) | Daniel Adeabah | Takoradi, Western Region, Ghana. | 24,855 |
 | 6 | [lutheralien](https://github.com/lutheralien) | Luther Essum | Ghana | 16,506 |
@@ -37,7 +37,7 @@ Indexed users: 7,091
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [Ibrahim-Aboubacar](https://github.com/Ibrahim-Aboubacar) | Ibrahim Aboubacar Ibrahim | Accra, Ghana | 31,359 |
+| 1 | [Ibrahim-Aboubacar](https://github.com/Ibrahim-Aboubacar) | Ibrahim Aboubacar Ibrahim | Accra, Ghana | 31,158 |
 | 2 | [sedegah](https://github.com/sedegah) | Kimathi  Sedegah | Ghana | 23,317 |
 | 3 | [Joeboy77](https://github.com/Joeboy77) | Joseph Acheampong | Accra, Ghana | 19,539 |
 | 4 | [danieladeabah](https://github.com/danieladeabah) | Daniel Adeabah | Takoradi, Western Region, Ghana. | 19,383 |
@@ -83,4 +83,4 @@ Indexed users: 7,091
 | 19 | [Mmabiaa](https://github.com/Mmabiaa) | Boateng Prince Agyenim | Ghana | 326 |
 | 20 | [sedegah](https://github.com/sedegah) | Kimathi  Sedegah | Ghana | 310 |
 
-Generated: 2026-10-17T06:09:16.815Z
+Generated: 2026-10-17T07:24:52.447Z

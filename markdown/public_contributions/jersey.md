@@ -1,6 +1,6 @@
 # Public Contributions - Jersey
 
-Generated: 2026-10-17T06:16:33.788Z
+Generated: 2026-10-17T07:33:11.706Z
 
 Users: 139
 
@@ -17,8 +17,8 @@ Users: 139
 | 9 | [doobox](https://github.com/doobox) | Doobox | Doobox | doobox | Jersey | 409 |
 | 10 | [michaelbutler1998](https://github.com/michaelbutler1998) | Michael Butler | Insert Affiliate Ltd |  | Jersey | 408 |
 | 11 | [mhaddon](https://github.com/mhaddon) | Michael Haddon | @politepixels  |  | Jersey, Channel Islands | 211 |
-| 12 | [ndestates](https://github.com/ndestates) | Nick Dodsley | ND Estates | nickdodsley | Jersey | 182 |
-| 13 | [xsebby](https://github.com/xsebby) | sebby |  | xsebby | jersey | 181 |
+| 12 | [xsebby](https://github.com/xsebby) | sebby |  | xsebby | jersey | 181 |
+| 13 | [ndestates](https://github.com/ndestates) | Nick Dodsley | ND Estates | nickdodsley | Jersey | 174 |
 | 14 | [morrisjam](https://github.com/morrisjam) | James Morris |  |  | Jersey | 152 |
 | 15 | [devdanio](https://github.com/devdanio) | Dan | DevDan | DevDanIO | Jersey | 139 |
 | 16 | [alexleach](https://github.com/alexleach) | ALB.Leach | ITC Bio |  | Jersey, UK | 132 |

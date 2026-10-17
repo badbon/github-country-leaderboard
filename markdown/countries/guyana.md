@@ -31,7 +31,7 @@ Indexed users: 186
 | 17 | [rjvaleo](https://github.com/rjvaleo) | transelectronic | Georgetown, Colorado | 1,451 |
 | 18 | [xbze3](https://github.com/xbze3) | Ezra Minty | Guyana | 1,402 |
 | 19 | [owengrant](https://github.com/owengrant) | Owen Grant | Guyana | 1,275 |
-| 20 | [kathigg](https://github.com/kathigg) | Kathleen Higgins | Georgetown University | 1,274 |
+| 20 | [kathigg](https://github.com/kathigg) | Kathleen Higgins | Georgetown University | 1,267 |
 
 ## Public Contributions
 
@@ -45,7 +45,7 @@ Indexed users: 186
 | 6 | [ktappdev](https://github.com/ktappdev) | Ken Andrew Taylor | Guyana | 1,500 |
 | 7 | [rjvaleo](https://github.com/rjvaleo) | transelectronic | Georgetown, Colorado | 1,451 |
 | 8 | [sandogeorge](https://github.com/sandogeorge) | Sando George | Guyana, South America | 1,332 |
-| 9 | [kathigg](https://github.com/kathigg) | Kathleen Higgins | Georgetown University | 757 |
+| 9 | [kathigg](https://github.com/kathigg) | Kathleen Higgins | Georgetown University | 750 |
 | 10 | [blackMastery](https://github.com/blackMastery) | kevon Cadogan | Guyana | 662 |
 | 11 | [xwings](https://github.com/xwings) | xwings | Georgetown, Penang | 489 |
 | 12 | [xbze3](https://github.com/xbze3) | Ezra Minty | Guyana | 480 |
@@ -83,4 +83,4 @@ Indexed users: 186
 | 19 | [Alien-nick](https://github.com/Alien-nick) | Nicholas Seetaram | South America, Guyana, Georgetown | 22 |
 | 20 | [duncanfinney](https://github.com/duncanfinney) | Duncan Finney | Georgetown, CO | 22 |
 
-Generated: 2026-10-17T06:12:57.805Z
+Generated: 2026-10-17T07:27:10.727Z

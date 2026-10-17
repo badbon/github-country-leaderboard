@@ -53,10 +53,10 @@ Indexed users: 1,338
 | 14 | [cephaschapa](https://github.com/cephaschapa) | Cephas Chapa | Zambia | 684 |
 | 15 | [simwawatim](https://github.com/simwawatim) | Timothy Simwawa | Lusaka, Zambia | 645 |
 | 16 | [mataa019](https://github.com/mataa019) | John Mataa | Zambia, Lusaka Province | 624 |
-| 17 | [Mwapsam](https://github.com/Mwapsam) | Samuel Chimfwembe | Zambia | 611 |
-| 18 | [c00p75](https://github.com/c00p75) | George M'sapenda | Lusaka, Zambia | 586 |
-| 19 | [marksikaundi](https://github.com/marksikaundi) | Mark Sikaundi | Zambia | 582 |
-| 20 | [wmweemba](https://github.com/wmweemba) | William .S. Mweemba | Lusaka, Zambia | 579 |
+| 17 | [wmweemba](https://github.com/wmweemba) | William .S. Mweemba | Lusaka, Zambia | 612 |
+| 18 | [Mwapsam](https://github.com/Mwapsam) | Samuel Chimfwembe | Zambia | 611 |
+| 19 | [c00p75](https://github.com/c00p75) | George M'sapenda | Lusaka, Zambia | 586 |
+| 20 | [marksikaundi](https://github.com/marksikaundi) | Mark Sikaundi | Zambia | 582 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,338
 | 19 | [blessedjasonmwanza](https://github.com/blessedjasonmwanza) | Blessed Jason Mwanza |  Lusaka, Zambia | 104 |
 | 20 | [Eathorne2](https://github.com/Eathorne2) | Eathorne | Lusaka, Zambia | 103 |
 
-Generated: 2026-10-17T05:44:06.755Z
+Generated: 2026-10-17T06:59:11.834Z

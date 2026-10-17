@@ -1,6 +1,6 @@
 # Public Contributions - Uruguay
 
-Generated: 2026-10-17T05:42:31.568Z
+Generated: 2026-10-17T06:57:25.149Z
 
 Users: 5616
 
@@ -20,8 +20,8 @@ Users: 5616
 | 12 | [jm181987](https://github.com/jm181987) | Jorge Marquez |  |  | Uruguay | 2672 |
 | 13 | [fzipi](https://github.com/fzipi) | Felipe Zipitría | Facultad de Ingeniería, Universidad de la República |  | Montevideo, Uruguay | 2539 |
 | 14 | [rpiaggio](https://github.com/rpiaggio) | Raúl Piaggio |  |  | Uruguay | 2520 |
-| 15 | [nicolas-maman](https://github.com/nicolas-maman) | Nicolas Maman |  |  | Montevideo,Uruguay | 2373 |
-| 16 | [Joacohbc](https://github.com/Joacohbc) | Joacohbc |  |  | Uruguay | 2299 |
+| 15 | [Joacohbc](https://github.com/Joacohbc) | Joacohbc |  |  | Uruguay | 2485 |
+| 16 | [nicolas-maman](https://github.com/nicolas-maman) | Nicolas Maman |  |  | Montevideo,Uruguay | 2373 |
 | 17 | [eduair94](https://github.com/eduair94) | EduAir | Shellix / CheckLeaked.cc |  | Uruguay | 2284 |
 | 18 | [bradelev](https://github.com/bradelev) | Braulio De Leon |  |  | Montevideo, Uruguay | 2033 |
 | 19 | [Pauisdev](https://github.com/Pauisdev) | Pau |  |  | Uruguay, Montevideo | 2028 |

@@ -31,7 +31,7 @@ Indexed users: 1,274
 | 17 | [cogell](https://github.com/cogell) | B. Cedric Cogell | Kingston, NY | 4,336 |
 | 18 | [JCarran0](https://github.com/JCarran0) | Jared Carrano | Kingston, NY | 4,180 |
 | 19 | [shanoysinc](https://github.com/shanoysinc) | Shanoy Sinclair | Jamaica | 4,160 |
-| 20 | [capndave](https://github.com/capndave) | David Thompson | Kingston, NY | 4,065 |
+| 20 | [kazo0](https://github.com/kazo0) | Steve Bilogan | Kingston, ON | 4,142 |
 
 ## Public Contributions
 
@@ -44,8 +44,8 @@ Indexed users: 1,274
 | 5 | [craole-cc](https://github.com/craole-cc) | Craig "Craole' Cole | Jamaica | 2,260 |
 | 6 | [OddBloke](https://github.com/OddBloke) | Daniel Watkins | Kingston, ON | 1,597 |
 | 7 | [airpocket-soundman](https://github.com/airpocket-soundman) | airpocket | kingston jamaca | 1,562 |
-| 8 | [kazo0](https://github.com/kazo0) | Steve Bilogan | Kingston, ON | 1,418 |
-| 9 | [yringler](https://github.com/yringler) | Yehuda Ringler | Kingston, PA | 1,362 |
+| 8 | [kazo0](https://github.com/kazo0) | Steve Bilogan | Kingston, ON | 1,560 |
+| 9 | [yringler](https://github.com/yringler) | Yehuda Ringler | Kingston, PA | 1,467 |
 | 10 | [elixer-prince](https://github.com/elixer-prince) | Daniel Leith | Jamaica | 1,173 |
 | 11 | [shkeating](https://github.com/shkeating) | Shauna Keating | Kingston, NY | 1,002 |
 | 12 | [billlevine](https://github.com/billlevine) | Bill LeVine | Kingston, Ontario | 978 |
@@ -83,4 +83,4 @@ Indexed users: 1,274
 | 19 | [aliasad059](https://github.com/aliasad059) | Ali Asad | Kingston, Ontario | 100 |
 | 20 | [jordanliu](https://github.com/jordanliu) | Jordan Liu | Kingston, Jamaica | 95 |
 
-Generated: 2026-10-17T06:16:31.470Z
+Generated: 2026-10-17T07:33:05.469Z

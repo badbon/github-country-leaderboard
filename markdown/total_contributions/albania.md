@@ -1,6 +1,6 @@
 # Total Contributions - Albania
 
-Generated: 2026-10-17T05:45:50.227Z
+Generated: 2026-10-17T07:01:55.848Z
 
 Users: 1184
 
@@ -17,7 +17,7 @@ Users: 1184
 | 9 | [geridev12](https://github.com/geridev12) | Gerald Nuraj |  |  | Tirana, Albania | 6533 |
 | 10 | [orges](https://github.com/orges) | orges |  |  | Albania | 6501 |
 | 11 | [bledar](https://github.com/bledar) | Bledar Haxhia | MarineDataCloud |  | Albania | 6049 |
-| 12 | [arkellahi82-tech](https://github.com/arkellahi82-tech) | Arkel Lahi | FiltonHayes |  | Tirana, Albania | 5794 |
+| 12 | [arkellahi82-tech](https://github.com/arkellahi82-tech) | Arkel Lahi | FiltonHayes |  | Tirana, Albania | 5766 |
 | 13 | [lacieri](https://github.com/lacieri) | Erand Laci | @kirschbaum-development |  | Tirana, Albania | 5661 |
 | 14 | [nertilpoci](https://github.com/nertilpoci) | Nertil Poci |  |  | Albania | 5482 |
 | 15 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | CyberSecurity Researcher, Red Team, Bug Hunter | OrgitoRTA | Albania | 4672 |
