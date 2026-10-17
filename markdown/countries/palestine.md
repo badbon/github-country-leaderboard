@@ -43,7 +43,7 @@ Indexed users: 2,197
 | 4 | [KhaledAwashreh](https://github.com/KhaledAwashreh) | Khaled Awashreh |  Palestine - Ramallah | 1,693 |
 | 5 | [Ayaalmadhon2004](https://github.com/Ayaalmadhon2004) | Aya almadhon | Palestine | 1,621 |
 | 6 | [Tojan-Naiem](https://github.com/Tojan-Naiem) | Tojan | Palestine | 1,562 |
-| 7 | [darxx03eh](https://github.com/darxx03eh) | Mahmoud Darawsheh | Nablus, Palestine | 1,531 |
+| 7 | [darxx03eh](https://github.com/darxx03eh) | Mahmoud Darawsheh | Nablus, Palestine | 1,515 |
 | 8 | [Maryam-Skaik](https://github.com/Maryam-Skaik) | Maryam Skaik | Gaza, Palestine | 1,436 |
 | 9 | [AlaaArmoush](https://github.com/AlaaArmoush) | Alaa Armoush | Nablus, Palestine | 1,030 |
 | 10 | [hayasam](https://github.com/hayasam) | Haya Samaana | Palestine | 992 |
@@ -55,8 +55,8 @@ Indexed users: 2,197
 | 16 | [Adel-Shurrab](https://github.com/Adel-Shurrab) | Adel Shurrab | Palestine, Gaza, Khan yunis | 816 |
 | 17 | [SamehDheir](https://github.com/SamehDheir) | Sameh Dheir | Palestine/ Gaza | 802 |
 | 18 | [AMD4x](https://github.com/AMD4x) | Ahmed Mustafa | Palestine | 774 |
-| 19 | [eslamalbaik](https://github.com/eslamalbaik) | Eslam AlBaik | palestine | 721 |
-| 20 | [Khalidiqnaibi](https://github.com/Khalidiqnaibi) | khalid iqnaibi | Palestine | 718 |
+| 19 | [zaidmoen](https://github.com/zaidmoen) | Zaid Mayyalleh | Palestine | 766 |
+| 20 | [eslamalbaik](https://github.com/eslamalbaik) | Eslam AlBaik | palestine | 721 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 2,197
 | 19 | [dalia2323](https://github.com/dalia2323) |  | Qalqilya, Palestine | 127 |
 | 20 | [mhmdio](https://github.com/mhmdio) | Mohammed Almusaddar | Gaza, Palestine | 125 |
 
-Generated: 2026-10-17T07:49:57.391Z
+Generated: 2026-10-17T09:05:55.059Z

@@ -1,6 +1,6 @@
 # Total Contributions - Lesotho
 
-Generated: 2026-10-17T07:37:25.074Z
+Generated: 2026-10-17T08:51:43.068Z
 
 Users: 160
 
@@ -24,5 +24,5 @@ Users: 160
 | 16 | [Matela-cyber](https://github.com/Matela-cyber) | Vicent Matela |  |  | Lesotho | 291 |
 | 17 | [lebusa](https://github.com/lebusa) | Motebang |  | sirfongfong | Maseru, Lesotho | 290 |
 | 18 | [setsoto](https://github.com/setsoto) | Setsoto |  |  | Lesotho | 264 |
-| 19 | [Thato-Motseki](https://github.com/Thato-Motseki) | Thato Motseki |  |  | Lesotho, Maseru | 250 |
+| 19 | [Thato-Motseki](https://github.com/Thato-Motseki) | Thato Motseki |  |  | Lesotho, Maseru | 257 |
 | 20 | [kananelotseisa](https://github.com/kananelotseisa) | Kananelo Ts'eisa |  |  | Lesotho | 243 |

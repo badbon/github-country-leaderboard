@@ -1,25 +1,25 @@
 # Public Contributions - Réunion
 
-Generated: 2026-10-17T07:53:48.207Z
+Generated: 2026-10-17T09:08:18.966Z
 
 Users: 212
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [Gabouin](https://github.com/Gabouin) | Gabouin |  |  | Reunion Island | 1953 |
+| 1 | [Gabouin](https://github.com/Gabouin) | Gabouin |  |  | Reunion Island | 1955 |
 | 2 | [Nasjoe](https://github.com/Nasjoe) | Jonas TURBEAUX | Code Commun Coop |  | Réunion Island, Villeurbanne, Montpellier : France | 1713 |
 | 3 | [elmarco](https://github.com/elmarco) | Marc-André Lureau | Red Hat, Inc. | elmarco | Réunion | 1145 |
 | 4 | [ChaffyLace](https://github.com/ChaffyLace) |  |  |  | Saint Denis | 970 |
 | 5 | [PhilDL](https://github.com/PhilDL) | Philippe L'ATTENTION | @Basaltbytes @Coding-Dodo | _philDL | Réunion | 869 |
 | 6 | [IamArayel](https://github.com/IamArayel) | Arayel |  |  | Reunion Island | 713 |
 | 7 | [gfo974](https://github.com/gfo974) | Geoffrey Fournier  | @arribada  |  | Réunion Island | 697 |
-| 8 | [Karl97490](https://github.com/Karl97490) | Karl Pery-Potonie |  |  | Réunion | 485 |
+| 8 | [Karl97490](https://github.com/Karl97490) | Karl Pery-Potonie |  |  | Réunion | 476 |
 | 9 | [John361](https://github.com/John361) | John |  |  | Réunion | 343 |
 | 10 | [W-D0n](https://github.com/W-D0n) | D0n |  |  | Reunion Island | 335 |
 | 11 | [ralphi2811](https://github.com/ralphi2811) | Raphaël Auberlet | Nashi.cloud |  | Réunion Island | 308 |
 | 12 | [arthur-girardin-calbe](https://github.com/arthur-girardin-calbe) | Arthur Girardin--Calbe |  |  | Réunion | 288 |
 | 13 | [bourgault314](https://github.com/bourgault314) | Gwenaël Bourgault |  |  | Réunion island  | 280 |
-| 14 | [DeiTsukiii](https://github.com/DeiTsukiii) | DeiTsuki | DeiTsuki corp |  | Reunion Island | 279 |
+| 14 | [DeiTsukiii](https://github.com/DeiTsukiii) | DeiTsuki | DeiTsuki corp |  | Reunion Island | 269 |
 | 15 | [jnativel](https://github.com/jnativel) | Jimmy NATIVEL |  |  | Reunion Island | 267 |
 | 16 | [RandomZeleff](https://github.com/RandomZeleff) | Zeleff_ | Nartya | zeleff_ii | Reunion Island | 234 |
 | 17 | [thibautfontaine](https://github.com/thibautfontaine) | Ti_punch |  |  | Reunion Island | 220 |

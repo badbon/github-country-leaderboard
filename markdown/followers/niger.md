@@ -1,6 +1,6 @@
 # Followers - Niger
 
-Generated: 2026-10-17T07:47:07.391Z
+Generated: 2026-10-17T09:01:46.621Z
 
 Users: 176
 
@@ -10,8 +10,8 @@ Users: 176
 | 2 | [kodjodevf](https://github.com/kodjodevf) | Moustapha Kodjo Amadou |  | kodjodevf | Niamey,Niger | 230 |
 | 3 | [feyroozecode](https://github.com/feyroozecode) | Ibrahim Ahmad (feyroozecode) |  | feyroozcode | Niger | 112 |
 | 4 | [Mahamadou-Nouridine](https://github.com/Mahamadou-Nouridine) | Mahamadou Nouridine | Microverse | Nouridine_Dino | Niger | 69 |
-| 5 | [abass-dev](https://github.com/abass-dev) | Mr. Abass | Work for home | abass_dev | Niamey, Niger | 67 |
-| 6 | [Yacoubou-seidou](https://github.com/Yacoubou-seidou) | Yacos | Available for hire |  | Niamey/Niger | 67 |
+| 5 | [Yacoubou-seidou](https://github.com/Yacoubou-seidou) | Yacos | Available for hire |  | Niamey/Niger | 67 |
+| 6 | [abass-dev](https://github.com/abass-dev) | Mr. Abass | Work for home | abass_dev | Niamey, Niger | 66 |
 | 7 | [HamaBarhamou](https://github.com/HamaBarhamou) | HAMA Barhamou | SETES SARL | hama_barhamou | Niger | 48 |
 | 8 | [bkina1](https://github.com/bkina1) | Boubacar Kina |  | KinaBoubacar | Niger | 31 |
 | 9 | [Chaibouu](https://github.com/Chaibouu) | Chaibouu |  |  | Niger | 31 |

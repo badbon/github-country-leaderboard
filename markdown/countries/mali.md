@@ -79,8 +79,8 @@ Indexed users: 348
 | 15 | [touredri](https://github.com/touredri) | Drissa | Bamako, Mali | 31 |
 | 16 | [dsekou166](https://github.com/dsekou166) | Sékou DIAKITE | Bamako, Mali | 30 |
 | 17 | [geekdjenika](https://github.com/geekdjenika) | Aboubacar DJENIKA | Bamako | 30 |
-| 18 | [Kalifasenou](https://github.com/Kalifasenou) | Kalifa Senou | bamako, Mali | 29 |
+| 18 | [Kalifasenou](https://github.com/Kalifasenou) | Kalifa Senou | bamako, Mali | 28 |
 | 19 | [AlyKonte](https://github.com/AlyKonte) |  | Mali/Bamako | 27 |
 | 20 | [Dioman-Keita](https://github.com/Dioman-Keita) | Dioman Keïta | Bamako/Mali | 26 |
 
-Generated: 2026-10-17T07:39:12.293Z
+Generated: 2026-10-17T08:55:30.115Z

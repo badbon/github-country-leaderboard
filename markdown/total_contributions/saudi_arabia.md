@@ -1,6 +1,6 @@
 # Total Contributions - Saudi Arabia
 
-Generated: 2026-10-17T07:57:15.433Z
+Generated: 2026-10-17T09:12:46.891Z
 
 Users: 7735
 
@@ -21,8 +21,8 @@ Users: 7735
 | 13 | [Ahmed-aleryani](https://github.com/Ahmed-aleryani) | Ahmed Aleryani | @Transferwise |  | Sana'a, Yemen / Tallinn, Estonia / Riyadh, Saudi Arabia | 11607 |
 | 14 | [a7mad3bdullah](https://github.com/a7mad3bdullah) | Ahmad |  |  | Saudi Arabia | 11447 |
 | 15 | [A1cy](https://github.com/A1cy) | A1 | A1xAI | A1hady | Riyadh | 10288 |
-| 16 | [imadaitelarabi](https://github.com/imadaitelarabi) | IMAD AIT EL ARABI | Xenith AI |  | Riyadh | 9583 |
-| 17 | [mo-alhaddad](https://github.com/mo-alhaddad) | Mohammed Alhaddad | IPTech |  | Khobar, Saudi Arabia | 8946 |
-| 18 | [y0u-0](https://github.com/y0u-0) | Ali |  |  | Saudi Arabia | 8477 |
-| 19 | [GarthOrmsby](https://github.com/GarthOrmsby) |  |  |  | Saudi Arabia | 8196 |
-| 20 | [devmsh](https://github.com/devmsh) | Mohammed S Shurrab | One Studio |  | Jeddah, Saudi Arabia | 8144 |
+| 16 | [xahmd](https://github.com/xahmd) | AHMAD JAMOS |  |  | Saudi Arabia | 10263 |
+| 17 | [imadaitelarabi](https://github.com/imadaitelarabi) | IMAD AIT EL ARABI | Xenith AI |  | Riyadh | 9583 |
+| 18 | [mo-alhaddad](https://github.com/mo-alhaddad) | Mohammed Alhaddad | IPTech |  | Khobar, Saudi Arabia | 8946 |
+| 19 | [y0u-0](https://github.com/y0u-0) | Ali |  |  | Saudi Arabia | 8477 |
+| 20 | [GarthOrmsby](https://github.com/GarthOrmsby) |  |  |  | Saudi Arabia | 8196 |

@@ -1,6 +1,6 @@
 # Public Contributions - Palestine
 
-Generated: 2026-10-17T07:49:57.391Z
+Generated: 2026-10-17T09:05:55.059Z
 
 Users: 2197
 
@@ -12,7 +12,7 @@ Users: 2197
 | 4 | [KhaledAwashreh](https://github.com/KhaledAwashreh) | Khaled Awashreh | @Restaurant365 |  |  Palestine - Ramallah | 1693 |
 | 5 | [Ayaalmadhon2004](https://github.com/Ayaalmadhon2004) | Aya almadhon |  |  | Palestine | 1621 |
 | 6 | [Tojan-Naiem](https://github.com/Tojan-Naiem) | Tojan |  |  | Palestine | 1562 |
-| 7 | [darxx03eh](https://github.com/darxx03eh) | Mahmoud Darawsheh |  |  | Nablus, Palestine | 1531 |
+| 7 | [darxx03eh](https://github.com/darxx03eh) | Mahmoud Darawsheh |  |  | Nablus, Palestine | 1515 |
 | 8 | [Maryam-Skaik](https://github.com/Maryam-Skaik) | Maryam Skaik | IUG |  | Gaza, Palestine | 1436 |
 | 9 | [AlaaArmoush](https://github.com/AlaaArmoush) | Alaa Armoush |  |  | Nablus, Palestine | 1030 |
 | 10 | [hayasam](https://github.com/hayasam) | Haya Samaana | An Najah National University |  | Palestine | 992 |
@@ -24,5 +24,5 @@ Users: 2197
 | 16 | [Adel-Shurrab](https://github.com/Adel-Shurrab) | Adel Shurrab |  |  | Palestine, Gaza, Khan yunis | 816 |
 | 17 | [SamehDheir](https://github.com/SamehDheir) | Sameh Dheir | wasla Compony |  | Palestine/ Gaza | 802 |
 | 18 | [AMD4x](https://github.com/AMD4x) | Ahmed Mustafa |  |  | Palestine | 774 |
-| 19 | [eslamalbaik](https://github.com/eslamalbaik) | Eslam AlBaik | @Mental-Care | eslam_D7 | palestine | 721 |
-| 20 | [Khalidiqnaibi](https://github.com/Khalidiqnaibi) | khalid iqnaibi | Co.Te.De. | KQnabi | Palestine | 718 |
+| 19 | [zaidmoen](https://github.com/zaidmoen) | Zaid Mayyalleh |  |  | Palestine | 766 |
+| 20 | [eslamalbaik](https://github.com/eslamalbaik) | Eslam AlBaik | @Mental-Care | eslam_D7 | palestine | 721 |

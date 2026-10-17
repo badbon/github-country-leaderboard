@@ -1,6 +1,6 @@
 # Total Contributions - Madagascar
 
-Generated: 2026-10-17T07:38:05.521Z
+Generated: 2026-10-17T08:54:31.246Z
 
 Users: 1904
 
@@ -20,9 +20,9 @@ Users: 1904
 | 12 | [TantelyRandriamazaoro](https://github.com/TantelyRandriamazaoro) | Tantely Randriamazaoro | Mazaoro SARLU |  | Madagascar | 6553 |
 | 13 | [amel-sc](https://github.com/amel-sc) | Amel CHARLES | IT University |  | Madagascar | 6519 |
 | 14 | [Andryrasolofomanana](https://github.com/Andryrasolofomanana) | Andry Rasolofomanana | Kiama |  | Madagascar | 5795 |
-| 15 | [Emii-lia](https://github.com/Emii-lia) | Fiaro Miangaly |  |  | Madagascar | 5181 |
-| 16 | [andostronaut](https://github.com/andostronaut) | Ando |  | andostronaut | Antananarivo, MG | 5129 |
-| 17 | [fatratra-png](https://github.com/fatratra-png) | RAFANOMEZANTSOA Ny Fatratra |  |  | Antananarivo, Madagascar | 5064 |
-| 18 | [jckylalaina](https://github.com/jckylalaina) | Jacky Randrianarivony |  | rjacky00 | Antananarivo, Madagascar | 5037 |
-| 19 | [Rakotoarilala51](https://github.com/Rakotoarilala51) | Aina Rakotoarilala |  |  | Madagascar | 4933 |
-| 20 | [colombefioren](https://github.com/colombefioren) | COCO |  |  | Madagascar, Antananarivo | 4924 |
+| 15 | [Dokja620](https://github.com/Dokja620) | Axel RAKOTOARIVAO | Ohayo Dev&Design |  | Madagascar, Antananarivo | 5625 |
+| 16 | [Emii-lia](https://github.com/Emii-lia) | Fiaro Miangaly |  |  | Madagascar | 5181 |
+| 17 | [andostronaut](https://github.com/andostronaut) | Ando |  | andostronaut | Antananarivo, MG | 5129 |
+| 18 | [fatratra-png](https://github.com/fatratra-png) | RAFANOMEZANTSOA Ny Fatratra |  |  | Antananarivo, Madagascar | 5064 |
+| 19 | [jckylalaina](https://github.com/jckylalaina) | Jacky Randrianarivony |  | rjacky00 | Antananarivo, Madagascar | 5037 |
+| 20 | [Rakotoarilala51](https://github.com/Rakotoarilala51) | Aina Rakotoarilala |  |  | Madagascar | 4933 |

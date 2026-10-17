@@ -51,11 +51,11 @@ Indexed users: 1,225
 | 12 | [stefanbuttigieg](https://github.com/stefanbuttigieg) | Stefan Buttigieg | Malta | 2,544 |
 | 13 | [ntulenev](https://github.com/ntulenev) | Nikita Tulenev | Malta | 2,499 |
 | 14 | [marian2js](https://github.com/marian2js) | Mariano Pardo | Malta | 2,336 |
-| 15 | [SerZhyAle](https://github.com/SerZhyAle) | Serhii Zhyhunenko | Malta | 1,991 |
-| 16 | [mbj](https://github.com/mbj) | Markus Schirp | Malta | 1,977 |
-| 17 | [terranc](https://github.com/terranc) | Terran | Malta | 1,891 |
-| 18 | [max-lt](https://github.com/max-lt) |  | Malta | 1,700 |
-| 19 | [dfroberg](https://github.com/dfroberg) | Danny Froberg | Gozo, Malta | 1,443 |
+| 15 | [dfroberg](https://github.com/dfroberg) | Danny Froberg | Gozo, Malta | 1,991 |
+| 16 | [SerZhyAle](https://github.com/SerZhyAle) | Serhii Zhyhunenko | Malta | 1,991 |
+| 17 | [mbj](https://github.com/mbj) | Markus Schirp | Malta | 1,977 |
+| 18 | [terranc](https://github.com/terranc) | Terran | Malta | 1,891 |
+| 19 | [max-lt](https://github.com/max-lt) |  | Malta | 1,700 |
 | 20 | [owenfar](https://github.com/owenfar) |  | Malta | 1,305 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 1,225
 | 19 | [mattcg](https://github.com/mattcg) | Matthew Caruana Galizia | Malta | 126 |
 | 20 | [CM2Walki](https://github.com/CM2Walki) | Walki | Malta | 118 |
 
-Generated: 2026-10-17T07:39:43.467Z
+Generated: 2026-10-17T08:56:31.097Z

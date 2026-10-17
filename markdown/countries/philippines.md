@@ -1,6 +1,6 @@
 # Philippines
 
-Indexed users: 19,774
+Indexed users: 19,773
 
 | Leaderboard | Link |
 |---|---|
@@ -23,9 +23,9 @@ Indexed users: 19,774
 | 9 | [jigz](https://github.com/jigz) | Jigz | Philippines | 21,714 |
 | 10 | [jrzvnn](https://github.com/jrzvnn) | Joriz Villanueva | Manila, Philippines | 21,653 |
 | 11 | [dongumayagay](https://github.com/dongumayagay) | Don | Philippines | 20,758 |
-| 12 | [arvilmena](https://github.com/arvilmena) | Arvil Meña | Malolos City Bulacan, Philippines | 19,698 |
-| 13 | [jerieltiu](https://github.com/jerieltiu) | Jeriel Tiu | Manila | 19,508 |
-| 14 | [LeeDev428](https://github.com/LeeDev428) | Lee Torres | Laguna, Philippines | 19,473 |
+| 12 | [LeeDev428](https://github.com/LeeDev428) | Lee Torres | Laguna, Philippines | 20,326 |
+| 13 | [arvilmena](https://github.com/arvilmena) | Arvil Meña | Malolos City Bulacan, Philippines | 19,698 |
+| 14 | [jerieltiu](https://github.com/jerieltiu) | Jeriel Tiu | Manila | 19,508 |
 | 15 | [Gyakusetsu](https://github.com/Gyakusetsu) | Reymar Clemente | Philippines | 18,437 |
 | 16 | [eun0115](https://github.com/eun0115) | Gian Paolo | Manila, Philippines | 17,919 |
 | 17 | [aldrichalvarez](https://github.com/aldrichalvarez) | Aldrich | Metro Manila, Philippines | 17,231 |
@@ -83,4 +83,4 @@ Indexed users: 19,774
 | 19 | [Gerald200422](https://github.com/Gerald200422) | Gerald P. Balete | Metro Manila Philippines  | 613 |
 | 20 | [exezick](https://github.com/exezick) | Exequiel Vibar | Philippines | 604 |
 
-Generated: 2026-10-17T07:51:41.418Z
+Generated: 2026-10-17T09:07:13.546Z
