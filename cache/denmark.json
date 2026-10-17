@@ -30547,8 +30547,8 @@
     "company": "Technical University of Denmark",
     "twitterUsername": "SPuyosa",
     "followers": 7,
-    "privateContributions": 1429,
-    "publicContributions": 44,
+    "privateContributions": 2261,
+    "publicContributions": 28,
     "createdAt": "2021-10-06T20:27:11Z"
   },
   {
@@ -30559,8 +30559,8 @@
     "company": "@miinto ",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 8594,
-    "publicContributions": 78,
+    "privateContributions": 17092,
+    "publicContributions": 111,
     "createdAt": "2021-01-04T16:06:01Z"
   },
   {
@@ -30571,8 +30571,8 @@
     "company": "Onomondo",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 708,
-    "publicContributions": 458,
+    "privateContributions": 743,
+    "publicContributions": 596,
     "createdAt": "2021-01-05T13:38:02Z"
   },
   {
@@ -30583,8 +30583,8 @@
     "company": "University of Copenhagen",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 129,
-    "publicContributions": 13,
+    "privateContributions": 128,
+    "publicContributions": 16,
     "createdAt": "2021-04-24T12:12:23Z"
   },
   {
@@ -30607,8 +30607,8 @@
     "company": "VML",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 72,
-    "publicContributions": 8,
+    "privateContributions": 70,
+    "publicContributions": 7,
     "createdAt": "2021-06-12T12:08:59Z"
   },
   {
@@ -30619,8 +30619,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 160,
-    "publicContributions": 189,
+    "privateContributions": 158,
+    "publicContributions": 229,
     "createdAt": "2021-09-17T06:24:18Z"
   },
   {
@@ -30630,9 +30630,9 @@
     "location": "Aalborg, Denmark",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 109,
+    "publicContributions": 105,
     "createdAt": "2021-10-18T10:10:40Z"
   },
   {
@@ -30655,7 +30655,7 @@
     "company": "Lumant",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 1694,
+    "privateContributions": 1848,
     "publicContributions": 3,
     "createdAt": "2021-09-17T06:23:22Z"
   },
@@ -30691,20 +30691,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 53,
+    "privateContributions": 21,
     "publicContributions": 0,
     "createdAt": "2021-12-06T16:22:22Z"
   },
   {
     "login": "devjamin",
     "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/93514672?s=72&u=e69fad6819fa6457a1221f64154ecd74266ba827&v=4",
-    "location": "Denmark",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/93514672?s=72&u=8625304f9a88899835cf930278a1dd3a6605a645&v=4",
+    "location": "Copenhagen, Denmark",
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 932,
-    "publicContributions": 0,
+    "privateContributions": 1287,
+    "publicContributions": 15,
     "createdAt": "2021-11-01T08:18:33Z"
   },
   {
@@ -30728,7 +30728,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 47,
+    "publicContributions": 20,
     "createdAt": "2021-12-13T10:02:16Z"
   },
   {
@@ -30750,9 +30750,9 @@
     "location": "Denmark",
     "company": "KvalitetsIT",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 0,
-    "publicContributions": 4,
+    "followers": 8,
+    "privateContributions": 5,
+    "publicContributions": 5,
     "createdAt": "2021-10-27T06:25:37Z"
   },
   {
@@ -30762,9 +30762,9 @@
     "location": "Denmark",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 0,
-    "publicContributions": 280,
+    "followers": 11,
+    "privateContributions": 66,
+    "publicContributions": 286,
     "createdAt": "2021-11-14T00:31:30Z"
   },
   {
@@ -30775,8 +30775,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 0,
-    "publicContributions": 6,
+    "privateContributions": 1,
+    "publicContributions": 9,
     "createdAt": "2021-01-29T18:41:26Z"
   },
   {
@@ -231694,5 +231694,17 @@
     "privateContributions": 0,
     "publicContributions": 228,
     "createdAt": "2026-06-29T18:11:36Z"
+  },
+  {
+    "login": "EphraimSiegfried",
+    "name": "Ephraim Siegfried",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/114060741?s=72&u=f18da2165c3dfaf70580ba9e89fe48d4242d6c8b&v=4",
+    "location": "Copenhagen, Denmark",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 25,
+    "privateContributions": 138,
+    "publicContributions": 824,
+    "createdAt": "2022-09-21T08:11:02Z"
   }
 ]

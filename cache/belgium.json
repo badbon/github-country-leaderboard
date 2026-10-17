@@ -30444,27 +30444,15 @@
     "createdAt": "2021-03-12T16:02:04Z"
   },
   {
-    "login": "ansibleguy76",
-    "name": "AnsibleGuy76",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/89778474?s=72&u=8ed48d76afae36b8c7d6e0d208b022f61fbdf73d&v=4",
-    "location": "Belgium",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 32,
-    "privateContributions": 0,
-    "publicContributions": 453,
-    "createdAt": "2021-08-30T10:21:51Z"
-  },
-  {
     "login": "ceselder",
     "name": "Celeste",
     "avatarUrl": "https://avatars.githubusercontent.com/u/94973748?s=72&u=2891cce100a921064fd916d4c66fb96b1fc18bd7&v=4",
     "location": "Belgium",
     "company": "",
     "twitterUsername": "",
-    "followers": 31,
+    "followers": 33,
     "privateContributions": 0,
-    "publicContributions": 2189,
+    "publicContributions": 2235,
     "createdAt": "2021-11-24T13:27:55Z"
   },
   {
@@ -30486,9 +30474,9 @@
     "location": "Belgium",
     "company": "@19network42",
     "twitterUsername": "",
-    "followers": 28,
-    "privateContributions": 168,
-    "publicContributions": 20,
+    "followers": 27,
+    "privateContributions": 302,
+    "publicContributions": 18,
     "createdAt": "2021-10-24T12:42:59Z"
   },
   {
@@ -30498,9 +30486,9 @@
     "location": "Brussels, Belgium",
     "company": "",
     "twitterUsername": "",
-    "followers": 28,
-    "privateContributions": 721,
-    "publicContributions": 58,
+    "followers": 29,
+    "privateContributions": 1007,
+    "publicContributions": 212,
     "createdAt": "2021-08-29T16:29:03Z"
   },
   {
@@ -30510,9 +30498,9 @@
     "location": "Belgium, Liege",
     "company": "@devtehenOne",
     "twitterUsername": "AntoTehen",
-    "followers": 28,
-    "privateContributions": 2549,
-    "publicContributions": 163,
+    "followers": 26,
+    "privateContributions": 5692,
+    "publicContributions": 137,
     "createdAt": "2021-02-05T22:57:14Z"
   },
   {
@@ -30530,13 +30518,13 @@
   {
     "login": "rgfaber",
     "name": "R.G. Lefever",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/87915836?s=72&u=20eccc9209955bd6b89cc9f3aba37e1bf17961e9&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/87915836?s=72&u=5508583e3d5aa72219e1f8a08cfe218632e5a6e4&v=4",
     "location": "Leuven, Belgium",
-    "company": "DisComCo sp.z.o.o",
+    "company": "BEAM Campus",
     "twitterUsername": "beamologist",
-    "followers": 27,
-    "privateContributions": 2202,
-    "publicContributions": 5761,
+    "followers": 29,
+    "privateContributions": 5022,
+    "publicContributions": 10361,
     "createdAt": "2021-07-24T21:41:25Z"
   },
   {
@@ -30548,7 +30536,7 @@
     "twitterUsername": "whyoursad",
     "followers": 26,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 11,
     "createdAt": "2021-06-02T06:37:03Z"
   },
   {
@@ -30559,7 +30547,7 @@
     "company": "Herbertech",
     "twitterUsername": "",
     "followers": 25,
-    "privateContributions": 6,
+    "privateContributions": 15,
     "publicContributions": 8,
     "createdAt": "2021-05-12T06:32:49Z"
   },
@@ -30570,21 +30558,21 @@
     "location": "Leuven, Belgium",
     "company": "Raes Lab, VIB-KU Leuven Center for Microbiology",
     "twitterUsername": "",
-    "followers": 24,
+    "followers": 25,
     "privateContributions": 0,
-    "publicContributions": 86,
+    "publicContributions": 52,
     "createdAt": "2021-07-16T16:55:09Z"
   },
   {
     "login": "celarye",
-    "name": "Eduard Smet",
+    "name": "Celarye",
     "avatarUrl": "https://avatars.githubusercontent.com/u/96624179?s=72&u=a1e336864a0f3779f0fea91f601b8d91a1c87239&v=4",
     "location": "Belgium",
-    "company": "Belgian Armed Forces",
+    "company": "",
     "twitterUsername": "",
-    "followers": 24,
+    "followers": 23,
     "privateContributions": 15,
-    "publicContributions": 784,
+    "publicContributions": 695,
     "createdAt": "2021-12-24T13:49:41Z"
   },
   {
@@ -30595,7 +30583,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 24,
-    "privateContributions": 29,
+    "privateContributions": 9,
     "publicContributions": 0,
     "createdAt": "2021-11-16T15:44:10Z"
   },
@@ -30606,7 +30594,7 @@
     "location": "Belgium",
     "company": "",
     "twitterUsername": "",
-    "followers": 24,
+    "followers": 25,
     "privateContributions": 1,
     "publicContributions": 0,
     "createdAt": "2021-01-17T16:50:57Z"
@@ -30618,9 +30606,9 @@
     "location": "Belgium",
     "company": "",
     "twitterUsername": "",
-    "followers": 23,
-    "privateContributions": 396,
-    "publicContributions": 800,
+    "followers": 28,
+    "privateContributions": 582,
+    "publicContributions": 789,
     "createdAt": "2021-10-12T17:44:58Z"
   },
   {
@@ -30631,8 +30619,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 23,
-    "privateContributions": 3733,
-    "publicContributions": 48,
+    "privateContributions": 2757,
+    "publicContributions": 42,
     "createdAt": "2021-06-16T10:22:20Z"
   },
   {
@@ -30643,8 +30631,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 23,
-    "privateContributions": 633,
-    "publicContributions": 419,
+    "privateContributions": 638,
+    "publicContributions": 416,
     "createdAt": "2021-10-28T16:02:38Z"
   },
   {
@@ -30668,7 +30656,7 @@
     "twitterUsername": "",
     "followers": 23,
     "privateContributions": 0,
-    "publicContributions": 165,
+    "publicContributions": 26,
     "createdAt": "2021-06-03T09:05:44Z"
   },
   {

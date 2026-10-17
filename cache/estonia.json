@@ -30523,7 +30523,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 825,
+    "privateContributions": 792,
     "publicContributions": 12,
     "createdAt": "2016-08-01T02:22:13Z"
   },
@@ -30534,9 +30534,9 @@
     "location": "Tallinn Estonia",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 171,
+    "publicContributions": 153,
     "createdAt": "2016-12-08T02:02:19Z"
   },
   {
@@ -30546,9 +30546,9 @@
     "location": "Tartu, Estonia",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 358,
+    "publicContributions": 310,
     "createdAt": "2016-07-11T19:27:43Z"
   },
   {
@@ -30559,7 +30559,7 @@
     "company": "@Testreel",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 112,
+    "privateContributions": 94,
     "publicContributions": 0,
     "createdAt": "2016-07-20T14:58:01Z"
   },
@@ -30572,7 +30572,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 327,
+    "publicContributions": 449,
     "createdAt": "2016-06-13T09:01:00Z"
   },
   {
@@ -30583,8 +30583,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 1118,
-    "publicContributions": 66,
+    "privateContributions": 1014,
+    "publicContributions": 63,
     "createdAt": "2016-02-11T00:09:51Z"
   },
   {
@@ -30595,20 +30595,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 35,
-    "publicContributions": 0,
+    "privateContributions": 26,
+    "publicContributions": 1,
     "createdAt": "2016-11-23T22:13:25Z"
   },
   {
     "login": "BananaJeanss",
     "name": "BananaJeans",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/18456310?s=72&u=5b83756f4a2569baa08e1fbffe5aa436fd8ce44b&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/18456310?s=72&u=2840a7f037f82a9333008ca60d5cc071c9236902&v=4",
     "location": "Estonia",
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 5,
-    "publicContributions": 365,
+    "privateContributions": 10,
+    "publicContributions": 722,
     "createdAt": "2016-04-14T05:26:53Z"
   },
   {
@@ -30641,10 +30641,10 @@
     "avatarUrl": "https://avatars.githubusercontent.com/u/22280291?s=72&u=72fa6d10aa09a03732fb76ecdd71d7d4770e1ca5&v=4",
     "location": "Tallinn, Harjumaa, Estonia",
     "company": "dyego.com.br",
-    "twitterUsername": "dyegoe",
-    "followers": 8,
-    "privateContributions": 713,
-    "publicContributions": 106,
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 731,
+    "publicContributions": 521,
     "createdAt": "2016-09-18T18:45:06Z"
   },
   {
@@ -30654,9 +30654,9 @@
     "location": "Tallinn, Estonia",
     "company": "INTECH",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 0,
-    "publicContributions": 4,
+    "followers": 6,
+    "privateContributions": 2,
+    "publicContributions": 6,
     "createdAt": "2016-09-20T07:36:36Z"
   },
   {
@@ -30678,7 +30678,7 @@
     "location": "Estonia",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-09-02T10:33:23Z"
@@ -30715,7 +30715,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 977,
+    "privateContributions": 1481,
     "publicContributions": 0,
     "createdAt": "2016-01-10T09:04:25Z"
   },
@@ -30727,7 +30727,7 @@
     "company": "Wise",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 31,
+    "privateContributions": 22,
     "publicContributions": 0,
     "createdAt": "2016-07-04T14:47:21Z"
   },
@@ -30746,9 +30746,9 @@
   {
     "login": "hurtlockerpro",
     "name": "Vladimir Kähri",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/18674359?s=72&u=f0cc9eae8d48bf6696a37a9dc32bea2c9ef40537&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/18674359?s=72&u=c95effe51560c6a405a95d8e9305ff5e8862385c&v=4",
     "location": "Estonia",
-    "company": "Alliance of Finance Ltd",
+    "company": "Alliance of Finance OÜ",
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,

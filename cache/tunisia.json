@@ -30092,7 +30092,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 65,
+    "publicContributions": 63,
     "createdAt": "2022-06-28T18:38:49Z"
   },
   {
@@ -30127,8 +30127,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 41,
-    "publicContributions": 12,
+    "privateContributions": 21,
+    "publicContributions": 0,
     "createdAt": "2022-01-19T11:48:51Z"
   },
   {
@@ -30188,7 +30188,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 19226,
+    "publicContributions": 26870,
     "createdAt": "2022-03-30T18:52:33Z"
   },
   {
@@ -30210,7 +30210,7 @@
     "location": "Tunisia",
     "company": "EDLIGO GmbH",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-04-30T22:14:44Z"
@@ -30224,7 +30224,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 210,
+    "publicContributions": 218,
     "createdAt": "2022-06-04T11:13:31Z"
   },
   {
@@ -30236,7 +30236,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 104,
+    "publicContributions": 116,
     "createdAt": "2022-02-24T07:04:55Z"
   },
   {
@@ -30260,7 +30260,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 13,
     "createdAt": "2022-09-06T08:17:47Z"
   },
   {
@@ -30272,19 +30272,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 37,
+    "publicContributions": 58,
     "createdAt": "2022-09-04T10:23:26Z"
   },
   {
     "login": "AdemZg",
     "name": "Adem Zaghouane",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/111447187?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/111447187?s=72&u=cb71f310cf3e1cbb5fc62ce35bb3fe1cd3885380&v=4",
     "location": "Tunisia, Sousse",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
+    "privateContributions": 2,
+    "publicContributions": 4,
     "createdAt": "2022-08-17T15:20:25Z"
   },
   {

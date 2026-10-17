@@ -30582,9 +30582,9 @@
     "location": "Georgia, Tbilisi",
     "company": "Tipalti",
     "twitterUsername": "",
-    "followers": 35,
-    "privateContributions": 0,
-    "publicContributions": 53,
+    "followers": 36,
+    "privateContributions": 17,
+    "publicContributions": 33,
     "createdAt": "2020-05-01T18:32:57Z"
   },
   {
@@ -30606,9 +30606,9 @@
     "location": "Georgia",
     "company": "Supabase",
     "twitterUsername": "",
-    "followers": 36,
+    "followers": 38,
     "privateContributions": 8,
-    "publicContributions": 454,
+    "publicContributions": 642,
     "createdAt": "2020-04-08T09:34:22Z"
   },
   {
@@ -30630,8 +30630,8 @@
     "location": "Tbilisi, Georgia",
     "company": "Microsoft",
     "twitterUsername": "",
-    "followers": 37,
-    "privateContributions": 206,
+    "followers": 36,
+    "privateContributions": 235,
     "publicContributions": 39,
     "createdAt": "2020-01-02T13:46:34Z"
   },
@@ -30642,21 +30642,21 @@
     "location": "georgia",
     "company": "free university / gadik19@freeuni.edu.ge",
     "twitterUsername": "",
-    "followers": 30,
+    "followers": 28,
     "privateContributions": 0,
     "publicContributions": 16,
     "createdAt": "2020-11-02T08:43:24Z"
   },
   {
     "login": "amirh3sam",
-    "name": "AmirHeSam",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/69331074?s=72&u=862bf08270118d25c75e3a54e377e1dc24b304b8&v=4",
+    "name": "TechWithAmirhesam",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/69331074?s=72&u=4e2e1232fc14119ad7c778ff06dc6078c46e0d5b&v=4",
     "location": "Georgia",
     "company": "",
     "twitterUsername": "",
-    "followers": 30,
-    "privateContributions": 1,
-    "publicContributions": 43,
+    "followers": 36,
+    "privateContributions": 65,
+    "publicContributions": 51,
     "createdAt": "2020-08-07T00:53:15Z"
   },
   {
@@ -30668,7 +30668,7 @@
     "twitterUsername": "dominnya",
     "followers": 29,
     "privateContributions": 10,
-    "publicContributions": 135,
+    "publicContributions": 110,
     "createdAt": "2020-08-19T18:10:26Z"
   },
   {
@@ -30679,7 +30679,7 @@
     "company": "@usessnt ",
     "twitterUsername": "",
     "followers": 28,
-    "privateContributions": 174,
+    "privateContributions": 192,
     "publicContributions": 0,
     "createdAt": "2020-08-30T06:07:15Z"
   },
@@ -30690,8 +30690,8 @@
     "location": "Hazlehurst, Georgia",
     "company": "",
     "twitterUsername": "",
-    "followers": 27,
-    "privateContributions": 27,
+    "followers": 28,
+    "privateContributions": 32,
     "publicContributions": 1,
     "createdAt": "2020-04-24T15:52:31Z"
   },
@@ -30703,7 +30703,7 @@
     "company": "Plura.ai",
     "twitterUsername": "LashaMarkh",
     "followers": 27,
-    "privateContributions": 520,
+    "privateContributions": 458,
     "publicContributions": 4,
     "createdAt": "2020-12-02T05:56:47Z"
   },
@@ -30732,27 +30732,15 @@
     "createdAt": "2020-10-07T10:00:59Z"
   },
   {
-    "login": "Isalia20",
-    "name": "Irakli Salia",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/65120973?s=72&u=0f3a2ac10a2bd085fbb7f01b47bedb02d07c5cb3&v=4",
-    "location": "Tbilisi, Georgia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 28,
-    "privateContributions": 0,
-    "publicContributions": 596,
-    "createdAt": "2020-05-10T13:59:38Z"
-  },
-  {
     "login": "nikasepiskveradze",
     "name": "Nika Sepiskveradze",
     "avatarUrl": "https://avatars.githubusercontent.com/u/62851300?s=72&v=4",
     "location": "Georgia, Tbilisi",
     "company": "",
     "twitterUsername": "",
-    "followers": 25,
-    "privateContributions": 46,
-    "publicContributions": 2,
+    "followers": 26,
+    "privateContributions": 4,
+    "publicContributions": 0,
     "createdAt": "2020-03-29T18:19:04Z"
   },
   {
@@ -30763,7 +30751,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 25,
-    "privateContributions": 946,
+    "privateContributions": 1264,
     "publicContributions": 0,
     "createdAt": "2020-02-08T15:08:34Z"
   },
@@ -30774,9 +30762,9 @@
     "location": "Georgia",
     "company": "Tyler Technologies",
     "twitterUsername": "",
-    "followers": 23,
+    "followers": 22,
     "privateContributions": 50,
-    "publicContributions": 46,
+    "publicContributions": 9,
     "createdAt": "2020-02-21T22:06:54Z"
   },
   {
@@ -30787,7 +30775,7 @@
     "company": "",
     "twitterUsername": "Ghveda1997",
     "followers": 24,
-    "privateContributions": 1,
+    "privateContributions": 9,
     "publicContributions": 2,
     "createdAt": "2020-04-23T16:27:22Z"
   },
@@ -30798,7 +30786,7 @@
     "location": "Tbilisi, Georgia",
     "company": "",
     "twitterUsername": "",
-    "followers": 23,
+    "followers": 22,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-11-30T15:43:53Z"
@@ -30811,8 +30799,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 24,
-    "privateContributions": 603,
-    "publicContributions": 129,
+    "privateContributions": 534,
+    "publicContributions": 126,
     "createdAt": "2020-07-25T16:22:45Z"
   },
   {

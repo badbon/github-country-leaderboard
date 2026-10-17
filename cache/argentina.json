@@ -30150,9 +30150,9 @@
     "location": "Buenos Aires, Argentina",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 175,
+    "publicContributions": 218,
     "createdAt": "2024-04-11T22:17:48Z"
   },
   {
@@ -30164,7 +30164,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 17,
     "createdAt": "2024-05-07T17:15:26Z"
   },
   {
@@ -30176,7 +30176,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 82,
+    "publicContributions": 67,
     "createdAt": "2024-04-16T19:48:01Z"
   },
   {
@@ -30186,21 +30186,21 @@
     "location": "Argentina ",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 122,
+    "publicContributions": 131,
     "createdAt": "2024-05-09T19:36:58Z"
   },
   {
     "login": "carlosNahuelSanchez",
-    "name": "NahUX-UI",
+    "name": "devnahuel",
     "avatarUrl": "https://avatars.githubusercontent.com/u/167783534?s=72&u=9ae08d8439ab611a714211ba5c09bb052dcf0756&v=4",
     "location": "Argentina, Formosa",
     "company": "",
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 46,
+    "publicContributions": 108,
     "createdAt": "2024-04-22T14:00:19Z"
   },
   {
@@ -30212,7 +30212,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 10,
-    "publicContributions": 141,
+    "publicContributions": 123,
     "createdAt": "2024-04-23T21:56:04Z"
   },
   {
@@ -30223,13 +30223,13 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 4,
-    "publicContributions": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
     "createdAt": "2024-06-16T22:36:06Z"
   },
   {
     "login": "AgustinMoreno75",
-    "name": "Agustin Moreno",
+    "name": "Augusto Valmont",
     "avatarUrl": "https://avatars.githubusercontent.com/u/167476691?s=72&u=4f45a504a62ffae83ace4224e0f7c2224553788e&v=4",
     "location": "Argentina",
     "company": "",
@@ -30248,7 +30248,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 54,
+    "publicContributions": 17,
     "createdAt": "2024-06-15T17:50:50Z"
   },
   {
@@ -30259,8 +30259,8 @@
     "company": "Universidad de San Andrés",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 838,
-    "publicContributions": 119,
+    "privateContributions": 1234,
+    "publicContributions": 80,
     "createdAt": "2024-04-30T17:22:39Z"
   },
   {
@@ -30282,7 +30282,7 @@
     "location": "Córdoba,Argentina ",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-05-27T16:41:36Z"
@@ -30304,11 +30304,11 @@
     "name": "maestrosplinter",
     "avatarUrl": "https://avatars.githubusercontent.com/u/171453583?s=72&u=26ea2a580f336f55437a2fc1e2b8655d9354f5cb&v=4",
     "location": "Argentina",
-    "company": "AGV Studio",
+    "company": "Gavia Software",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 431,
-    "publicContributions": 266,
+    "followers": 5,
+    "privateContributions": 543,
+    "publicContributions": 475,
     "createdAt": "2024-06-01T21:32:22Z"
   },
   {
@@ -30344,7 +30344,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 36,
+    "publicContributions": 28,
     "createdAt": "2024-06-03T19:59:11Z"
   },
   {
@@ -30356,7 +30356,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 38,
+    "publicContributions": 11,
     "createdAt": "2024-05-06T22:38:30Z"
   },
   {
@@ -30366,9 +30366,9 @@
     "location": "CABA, Argentina",
     "company": "Universidad de Buenos Aires",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 16,
     "createdAt": "2024-04-04T21:18:08Z"
   },
   {
@@ -30379,7 +30379,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 820,
+    "privateContributions": 421,
     "publicContributions": 0,
     "createdAt": "2024-05-15T19:53:42Z"
   },
@@ -608710,5 +608710,53 @@
     "privateContributions": 0,
     "publicContributions": 26,
     "createdAt": "2026-06-30T22:26:30Z"
+  },
+  {
+    "login": "Joel-Fnz",
+    "name": "Joel Fernández",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298794377?s=72&u=b8fe2e4cea2316fefdc16bde2c24f086fccd8dfe&v=4",
+    "location": "Buenos Aires, Argentina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-07-01T16:30:40Z"
+  },
+  {
+    "login": "larissaweber92520",
+    "name": "Santiago Flórez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298768720?s=72&v=4",
+    "location": "Argentina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-07-01T15:17:20Z"
+  },
+  {
+    "login": "paulaberardi",
+    "name": "Paula Berardi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298801050?s=72&u=862c472fc9d180b0f1c47e5cfd3c4e1658a9b153&v=4",
+    "location": "Buenos Aires, Argentina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2026-07-01T16:51:31Z"
+  },
+  {
+    "login": "averhoeven272",
+    "name": "Fernando Moreira",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298879602?s=72&v=4",
+    "location": "North Yurdanurtown, Argentina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-07-01T21:29:13Z"
   }
 ]

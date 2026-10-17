@@ -1208,7 +1208,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 43,
+    "publicContributions": 18,
     "createdAt": "2025-02-21T20:35:45Z"
   },
   {
@@ -1220,7 +1220,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 35,
+    "publicContributions": 34,
     "createdAt": "2025-10-13T11:51:55Z"
   },
   {
@@ -1266,9 +1266,9 @@
     "location": "Yemen | Aden",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 8,
-    "publicContributions": 276,
+    "publicContributions": 288,
     "createdAt": "2025-03-15T17:04:50Z"
   },
   {
@@ -1326,8 +1326,8 @@
     "location": "Sanaa, Yemen",
     "company": "Self-Learning",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 445,
+    "followers": 9,
+    "privateContributions": 464,
     "publicContributions": 58,
     "createdAt": "2025-09-18T00:12:07Z"
   },
@@ -1354,18 +1354,6 @@
     "privateContributions": 0,
     "publicContributions": 10,
     "createdAt": "2025-05-29T12:43:05Z"
-  },
-  {
-    "login": "malek-aldhelaa",
-    "name": "Malek AL-Dhelaa",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/225015591?s=72&v=4",
-    "location": "Yemen",
-    "company": "freelance ",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 2,
-    "createdAt": "2025-08-06T13:50:45Z"
   },
   {
     "login": "sltanbyr266-prog",

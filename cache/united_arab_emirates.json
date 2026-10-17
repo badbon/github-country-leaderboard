@@ -30043,7 +30043,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 0,
+    "privateContributions": 1,
     "publicContributions": 28,
     "createdAt": "2018-07-25T10:22:12Z"
   },
@@ -30068,7 +30068,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 4,
     "createdAt": "2018-09-29T00:55:35Z"
   },
   {
@@ -30080,7 +30080,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 103,
+    "publicContributions": 66,
     "createdAt": "2018-07-12T06:20:15Z"
   },
   {
@@ -30091,8 +30091,8 @@
     "company": "Talabat",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 72,
-    "publicContributions": 1,
+    "privateContributions": 94,
+    "publicContributions": 0,
     "createdAt": "2018-01-20T01:01:25Z"
   },
   {
@@ -30114,8 +30114,8 @@
     "location": "United Arab Emirates",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 70,
+    "followers": 4,
+    "privateContributions": 72,
     "publicContributions": 25,
     "createdAt": "2018-07-20T21:34:48Z"
   },
@@ -30127,20 +30127,20 @@
     "company": "United Arab Emirates University & KU Leuven",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 85,
-    "publicContributions": 46,
+    "privateContributions": 295,
+    "publicContributions": 66,
     "createdAt": "2018-04-07T16:30:51Z"
   },
   {
     "login": "LionelOrishane",
     "name": "Lionel Orishane",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/45254796?s=72&u=27f1b5e713a9ee108676dd67d95caa095cdb0693&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/45254796?s=72&u=76db16c4a59686f77d7ddd36b260a5509fb33b9c&v=4",
     "location": "Dubai, United Arab Emirates",
     "company": "Leading Engineering",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 32,
+    "followers": 4,
+    "privateContributions": 1821,
+    "publicContributions": 8,
     "createdAt": "2018-11-22T07:25:46Z"
   },
   {
@@ -30188,7 +30188,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 41,
+    "publicContributions": 98,
     "createdAt": "2018-06-04T08:03:04Z"
   },
   {
@@ -30235,7 +30235,7 @@
     "company": "Auxwall Software Solutions",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 109,
+    "privateContributions": 101,
     "publicContributions": 8,
     "createdAt": "2018-06-11T07:13:00Z"
   },
@@ -30258,21 +30258,21 @@
     "location": "Dubai, United Arab Emirates",
     "company": "",
     "twitterUsername": "naeem_nh_",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 525,
     "publicContributions": 244,
     "createdAt": "2018-04-08T08:54:23Z"
   },
   {
     "login": "bilalshafqat42",
-    "name": "bilalshafqat42",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/36641808?s=72&u=e729225ba4162bdddadc03db6d2c4b9a1e00d4d5&v=4",
-    "location": "United Arab Emirates",
+    "name": "Bilal Shafqat",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/36641808?s=72&u=9d42b33fc11ebb1cdf098650e3bd4bf7486e8697&v=4",
+    "location": "Dubai, United Arab Emirates",
     "company": "Bilal Shafqat",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 140,
+    "publicContributions": 505,
     "createdAt": "2018-02-19T17:39:34Z"
   },
   {

@@ -30186,9 +30186,9 @@
     "location": "Helsinki",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 4,
-    "publicContributions": 382,
+    "followers": 4,
+    "privateContributions": 10,
+    "publicContributions": 329,
     "createdAt": "2022-12-13T14:11:12Z"
   },
   {
@@ -30200,7 +30200,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 57,
+    "publicContributions": 52,
     "createdAt": "2022-01-17T08:16:40Z"
   },
   {
@@ -30211,8 +30211,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 70,
-    "publicContributions": 25,
+    "privateContributions": 69,
+    "publicContributions": 5,
     "createdAt": "2022-10-31T13:24:28Z"
   },
   {
@@ -30235,7 +30235,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 11,
+    "privateContributions": 9,
     "publicContributions": 1,
     "createdAt": "2022-08-24T11:45:37Z"
   },
@@ -30248,7 +30248,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 67,
+    "publicContributions": 42,
     "createdAt": "2022-10-31T11:07:38Z"
   },
   {
@@ -30258,9 +30258,9 @@
     "location": "Helsinki",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 308,
-    "publicContributions": 122,
+    "followers": 4,
+    "privateContributions": 234,
+    "publicContributions": 169,
     "createdAt": "2022-02-03T15:09:16Z"
   },
   {
@@ -30282,9 +30282,9 @@
     "location": "Helsinki",
     "company": "Starship",
     "twitterUsername": "eralpkaraduman",
-    "followers": 2,
-    "privateContributions": 1760,
-    "publicContributions": 227,
+    "followers": 1,
+    "privateContributions": 1641,
+    "publicContributions": 169,
     "createdAt": "2022-05-30T13:02:25Z"
   },
   {
@@ -30295,21 +30295,9 @@
     "company": "Ubigu",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 11,
+    "privateContributions": 111,
     "publicContributions": 0,
     "createdAt": "2022-02-08T12:38:31Z"
-  },
-  {
-    "login": "DooMi42",
-    "name": "Johannes Hurmerinta",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/98088996?s=72&u=9ca55a01d759b0191ad6e27747e727071b3400d6&v=4",
-    "location": "Helsinki",
-    "company": "Mitrox Oy",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 430,
-    "publicContributions": 186,
-    "createdAt": "2022-01-20T09:57:16Z"
   },
   {
     "login": "vlad-frontdev",
@@ -30319,7 +30307,7 @@
     "company": "@holvi ",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 3372,
+    "privateContributions": 3543,
     "publicContributions": 0,
     "createdAt": "2022-06-01T08:56:50Z"
   },
@@ -30332,7 +30320,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 0,
     "createdAt": "2022-08-17T21:40:58Z"
   },
   {
@@ -30342,9 +30330,9 @@
     "location": "Helsinki",
     "company": "Calori",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 79,
+    "publicContributions": 44,
     "createdAt": "2022-05-13T09:25:53Z"
   },
   {

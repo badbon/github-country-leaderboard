@@ -30172,11 +30172,11 @@
     "name": "Dimash",
     "avatarUrl": "https://avatars.githubusercontent.com/u/96410368?s=72&v=4",
     "location": "Astana",
-    "company": "SpaceVela",
+    "company": "Astana IT University",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 38,
     "createdAt": "2021-12-20T07:09:16Z"
   },
   {
@@ -30211,8 +30211,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 16,
-    "publicContributions": 24,
+    "privateContributions": 21,
+    "publicContributions": 35,
     "createdAt": "2021-06-28T05:16:42Z"
   },
   {
@@ -30236,7 +30236,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 41,
+    "publicContributions": 44,
     "createdAt": "2021-05-21T09:52:57Z"
   },
   {
@@ -30247,8 +30247,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 3,
-    "publicContributions": 55,
+    "privateContributions": 2,
+    "publicContributions": 3,
     "createdAt": "2021-06-24T15:45:56Z"
   },
   {
@@ -30260,7 +30260,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 7,
     "createdAt": "2021-09-27T04:57:32Z"
   },
   {
@@ -30295,8 +30295,8 @@
     "company": "@Innim ",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 478,
-    "publicContributions": 132,
+    "privateContributions": 574,
+    "publicContributions": 140,
     "createdAt": "2020-01-20T15:13:22Z"
   },
   {
@@ -30306,8 +30306,8 @@
     "location": "Astana, Kazakhstan",
     "company": "WONK",
     "twitterUsername": "",
-    "followers": 445,
-    "privateContributions": 2822,
+    "followers": 428,
+    "privateContributions": 2522,
     "publicContributions": 0,
     "createdAt": "2020-12-09T12:14:55Z"
   },
@@ -30318,9 +30318,9 @@
     "location": "Kazakhstan",
     "company": "",
     "twitterUsername": "",
-    "followers": 394,
-    "privateContributions": 34060,
-    "publicContributions": 105,
+    "followers": 407,
+    "privateContributions": 34063,
+    "publicContributions": 134,
     "createdAt": "2020-02-16T21:32:51Z"
   },
   {
@@ -30330,22 +30330,10 @@
     "location": "Kazakhstan",
     "company": "Fsoky Community",
     "twitterUsername": "",
-    "followers": 386,
+    "followers": 381,
     "privateContributions": 0,
-    "publicContributions": 299,
+    "publicContributions": 294,
     "createdAt": "2020-02-21T08:02:45Z"
-  },
-  {
-    "login": "effuone",
-    "name": "Alibek Seitov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/65224356?s=72&u=e7b2deba3fd993c74f8740e6d6fbbc6eb619a855&v=4",
-    "location": "Almaty, Kazakhstan",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 121,
-    "privateContributions": 3557,
-    "publicContributions": 5,
-    "createdAt": "2020-05-12T09:46:34Z"
   },
   {
     "login": "iyandiyev",
@@ -30355,8 +30343,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 80,
-    "privateContributions": 659,
-    "publicContributions": 93,
+    "privateContributions": 608,
+    "publicContributions": 1,
     "createdAt": "2020-04-30T14:52:00Z"
   },
   {
@@ -30366,7 +30354,7 @@
     "location": "Kazakhstan",
     "company": "",
     "twitterUsername": "",
-    "followers": 77,
+    "followers": 75,
     "privateContributions": 0,
     "publicContributions": 36,
     "createdAt": "2020-04-30T11:02:13Z"
@@ -30378,9 +30366,9 @@
     "location": "Almaty, Kazakhstan",
     "company": "@irbis-sh",
     "twitterUsername": "",
-    "followers": 74,
-    "privateContributions": 301,
-    "publicContributions": 709,
+    "followers": 75,
+    "privateContributions": 316,
+    "publicContributions": 755,
     "createdAt": "2020-04-03T19:37:18Z"
   },
   {

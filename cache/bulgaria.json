@@ -30656,7 +30656,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 144,
+    "publicContributions": 132,
     "createdAt": "2022-10-25T05:37:47Z"
   },
   {
@@ -30667,8 +30667,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 80,
-    "publicContributions": 30,
+    "privateContributions": 10,
+    "publicContributions": 3,
     "createdAt": "2022-09-02T14:25:43Z"
   },
   {
@@ -30680,7 +30680,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 4,
     "createdAt": "2022-09-21T07:10:01Z"
   },
   {
@@ -30739,7 +30739,7 @@
     "company": "ABB Bulgaria",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 8,
+    "privateContributions": 2,
     "publicContributions": 0,
     "createdAt": "2022-10-03T06:08:04Z"
   },
@@ -30751,7 +30751,7 @@
     "company": "Inensia",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 479,
+    "privateContributions": 367,
     "publicContributions": 1,
     "createdAt": "2022-07-06T09:35:16Z"
   },
@@ -30799,20 +30799,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 826,
-    "publicContributions": 18,
+    "privateContributions": 1291,
+    "publicContributions": 2,
     "createdAt": "2022-12-15T08:16:50Z"
   },
   {
     "login": "yani2173",
     "name": "Yani",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/112619487?s=72&u=7d531ee14b2f3321e914ee5e028613fc2f459233&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/112619487?s=72&u=6f83e505737ba3d7a3b853c5ccf6b14f5a510207&v=4",
     "location": "Bulgaria",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 670,
-    "publicContributions": 1,
+    "followers": 5,
+    "privateContributions": 961,
+    "publicContributions": 68,
     "createdAt": "2022-09-01T09:05:05Z"
   },
   {
@@ -30858,9 +30858,9 @@
     "location": "Sofia, Bulgaria",
     "company": "Kaizen Gaming",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 114,
+    "publicContributions": 109,
     "createdAt": "2022-09-27T12:18:16Z"
   },
   {
@@ -30871,7 +30871,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 2,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-10-26T14:25:21Z"
   },
