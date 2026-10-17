@@ -1,6 +1,6 @@
 # Followers - Afghanistan
 
-Generated: 2026-10-17T09:30:27.775Z
+Generated: 2026-10-17T12:11:36.167Z
 
 Users: 1487
 
@@ -8,7 +8,7 @@ Users: 1487
 |---:|---|---|---|---|---|---:|
 | 1 | [afgprogrammer](https://github.com/afgprogrammer) | Mohammad Rahmani | @openafg |  |  Kabul, Afghanistan | 3463 |
 | 2 | [imranmalakzai](https://github.com/imranmalakzai) | Imran Malakzai | Hendra.com |  | Afghanistan | 672 |
-| 3 | [SanaTameem](https://github.com/SanaTameem) | Sana Tameem | Afghan Relief | sanooo2001 | Kabul-Afghanistan | 436 |
+| 3 | [SanaTameem](https://github.com/SanaTameem) | Sana Tameem | Afghan Relief | sanooo2001 | Kabul-Afghanistan | 435 |
 | 4 | [UstadYasin](https://github.com/UstadYasin) | Muhammad Yasin Jamal |  |  | Kabul | 421 |
 | 5 | [YaserZarifi](https://github.com/YaserZarifi) | Yaser Zarifi | SharifiNeya Travel Services |  | Kabul | 299 |
 | 6 | [jaweid123](https://github.com/jaweid123) | Jaweid Moraadi |  |  | Kabul province  | 287 |

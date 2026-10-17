@@ -1,6 +1,6 @@
 # Total Contributions - Israel
 
-Generated: 2026-10-17T09:59:36.016Z
+Generated: 2026-10-17T12:47:20.451Z
 
 Users: 12425
 
@@ -8,16 +8,16 @@ Users: 12425
 |---:|---|---|---|---|---|---:|
 | 1 | [guy-davidi](https://github.com/guy-davidi) | Guy Davidi |  |  | israel | 127333 |
 | 2 | [tupe12334](https://github.com/tupe12334) | Ofek Gabay |  |  | Tel aviv, Israel | 46505 |
-| 3 | [aryeh-stark](https://github.com/aryeh-stark) | Aryeh Stark |  |  | Israel | 27637 |
-| 4 | [tomyam1](https://github.com/tomyam1) | Tom Yam | @tepez |  | Tel-Aviv, Israel | 26184 |
-| 5 | [oferchen](https://github.com/oferchen) | Ofer Chen |  |  | Israel | 23992 |
-| 6 | [karabil](https://github.com/karabil) | Shay Panuilov | Scheduler Systems |  | Israel | 23658 |
-| 7 | [vega113](https://github.com/vega113) | Yuri Z. |  |  | Tel Aviv, Israel | 19031 |
-| 8 | [elie222](https://github.com/elie222) | Elie Steinbock | @inbox-zero  | elie2222 | Tel Aviv, Israel | 18843 |
-| 9 | [danielrosehill](https://github.com/danielrosehill) | Daniel Rosehill | DSR Holdings |  | Jerusalem Or Remote | 18821 |
-| 10 | [shmuelhizmi](https://github.com/shmuelhizmi) | Shmuel Hizmi | Play |  | Tel Aviv, israel | 17973 |
-| 11 | [chernistry](https://github.com/chernistry) | Alex Chernysh | Sip Your Drink |  | Tel Aviv, Israel | 17284 |
-| 12 | [thefourcraft](https://github.com/thefourcraft) | David | @arcusis |  | Israel | 16247 |
+| 3 | [thefourcraft](https://github.com/thefourcraft) | David | @arcusis |  | Israel | 29661 |
+| 4 | [aryeh-stark](https://github.com/aryeh-stark) | Aryeh Stark |  |  | Israel | 27637 |
+| 5 | [tomyam1](https://github.com/tomyam1) | Tom Yam | @tepez |  | Tel-Aviv, Israel | 26184 |
+| 6 | [oferchen](https://github.com/oferchen) | Ofer Chen |  |  | Israel | 23992 |
+| 7 | [karabil](https://github.com/karabil) | Shay Panuilov | Scheduler Systems |  | Israel | 23658 |
+| 8 | [vega113](https://github.com/vega113) | Yuri Z. |  |  | Tel Aviv, Israel | 19031 |
+| 9 | [elie222](https://github.com/elie222) | Elie Steinbock | @inbox-zero  | elie2222 | Tel Aviv, Israel | 18843 |
+| 10 | [danielrosehill](https://github.com/danielrosehill) | Daniel Rosehill | DSR Holdings |  | Jerusalem Or Remote | 18821 |
+| 11 | [shmuelhizmi](https://github.com/shmuelhizmi) | Shmuel Hizmi | Play |  | Tel Aviv, israel | 17973 |
+| 12 | [chernistry](https://github.com/chernistry) | Alex Chernysh | Sip Your Drink |  | Tel Aviv, Israel | 17284 |
 | 13 | [asaphe](https://github.com/asaphe) | Asaph |  |  | Israel | 15903 |
 | 14 | [Dave-London](https://github.com/Dave-London) | Dave London |  |  | Israel | 15429 |
 | 15 | [slep2-0](https://github.com/slep2-0) | slep |  |  | Israel | 13689 |

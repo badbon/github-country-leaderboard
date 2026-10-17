@@ -1,6 +1,6 @@
 # Azerbaijan
 
-Indexed users: 5,068
+Indexed users: 5,066
 
 | Leaderboard | Link |
 |---|---|
@@ -63,7 +63,7 @@ Indexed users: 5,068
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [martian56](https://github.com/martian56) | Martian | Azerbaijan | 1,709 |
-| 2 | [eldarlrd](https://github.com/eldarlrd) | Eldar Paşazadə | Baku, Azerbaijan | 991 |
+| 2 | [eldarlrd](https://github.com/eldarlrd) | Eldar Paşazadə | Baku, Azerbaijan | 1,097 |
 | 3 | [gojayevmurad](https://github.com/gojayevmurad) | Murad Gojayev | Baku, Azerbaijan | 937 |
 | 4 | [qafaraz](https://github.com/qafaraz) | Qafar Qəmbərzadə | Azerbaijan baku | 664 |
 | 5 | [EminHaziyev](https://github.com/EminHaziyev) | emin | Baku | 598 |
@@ -83,4 +83,4 @@ Indexed users: 5,068
 | 19 | [Jeyhun1227](https://github.com/Jeyhun1227) | Jeyhun Malikli | Baku | 253 |
 | 20 | [husniababaeva](https://github.com/husniababaeva) | Husniyya Babayeva | Azerbaijan,Baku | 252 |
 
-Generated: 2026-10-17T09:35:13.977Z
+Generated: 2026-10-17T12:16:00.152Z

@@ -1,17 +1,17 @@
 # Followers - Turkmenistan
 
-Generated: 2026-10-17T09:26:49.015Z
+Generated: 2026-10-17T12:01:57.983Z
 
 Users: 501
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [Kemalstudio](https://github.com/Kemalstudio) | Kemal Atayev | . |  | Turkmenistan / Ashgabat | 251 |
-| 2 | [evgeniy-dammer](https://github.com/evgeniy-dammer) | Evgeniy Dammer |  |  | Ashgabat, Turkmenistan | 166 |
+| 2 | [evgeniy-dammer](https://github.com/evgeniy-dammer) | Evgeniy Dammer |  |  | Ashgabat, Turkmenistan | 165 |
 | 3 | [MaysaShad](https://github.com/MaysaShad) |  |  |  | Ashgabat | 148 |
 | 4 | [saggeldi](https://github.com/saggeldi) | Shageldi Alyyew |  |  | Turkmenistan | 140 |
 | 5 | [bridgecoresystems-cmd](https://github.com/bridgecoresystems-cmd) | BridgeCore SYSTEMS | BridgeCore SYSTEMS |  | Turkmenistan | 108 |
-| 6 | [octonet29](https://github.com/octonet29) | Gulbahar |  |  | Ashgabat, Turkmenistan | 105 |
+| 6 | [octonet29](https://github.com/octonet29) | Gulbahar |  |  | Ashgabat, Turkmenistan | 104 |
 | 7 | [orazchollaev](https://github.com/orazchollaev) | Oraznyýaz Çollaýew | Sada Zehin |  | Turkmenistan, Ashgabat | 99 |
 | 8 | [narlyyev](https://github.com/narlyyev) | Arslan Narlyyev |  |  | Turkmenistan, Ashgabat | 97 |
 | 9 | [resulshm](https://github.com/resulshm) | Resul Shamuhammedov |  |  | Ashgabat, Turkmenistan | 93 |

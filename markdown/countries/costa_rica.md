@@ -31,7 +31,7 @@ Indexed users: 5,628
 | 17 | [saihdez](https://github.com/saihdez) | saihdez | Costa Rica, Heredia | 5,706 |
 | 18 | [alejandrochava](https://github.com/alejandrochava) | Alejandro | Costa Rica | 5,601 |
 | 19 | [maikol-solis](https://github.com/maikol-solis) | Maikol Solís | San Jose, Costa Rica | 5,589 |
-| 20 | [vdaluz](https://github.com/vdaluz) | Victor Da Luz | San Jose, Costa Rica | 5,379 |
+| 20 | [pblanco27-soin](https://github.com/pblanco27-soin) | Paolo Blanco | San José, Costa Rica | 5,433 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 5,628
 | 19 | [stvansolano](https://github.com/stvansolano) | Esteban Solano Granados | Costa Rica | 189 |
 | 20 | [Jeffser](https://github.com/Jeffser) | Jeffry Samuel | Costa Rica | 174 |
 
-Generated: 2026-10-17T09:45:21.533Z
+Generated: 2026-10-17T12:30:25.599Z

@@ -28,10 +28,10 @@ Indexed users: 2,500
 | 14 | [osvaldowafulua](https://github.com/osvaldowafulua) | Osvaldo Wafulua | Angola | 4,952 |
 | 15 | [noejunior299](https://github.com/noejunior299) | Noé Idagi | Angola/Luanda | 4,947 |
 | 16 | [Zebedeu](https://github.com/Zebedeu) | Marcio Zebedeu | Angola | 4,177 |
-| 17 | [Dalcio](https://github.com/Dalcio) | Dálcio Macuete Garcia | Angola | 3,992 |
-| 18 | [steviejames](https://github.com/steviejames) | Sílvio Dumba | Luanda, Angola | 3,691 |
-| 19 | [paulinofonsecas](https://github.com/paulinofonsecas) | Paulino Fonseca | Luanda | 3,660 |
-| 20 | [rickdeu](https://github.com/rickdeu) | André Hangalo | Angola | 3,655 |
+| 17 | [ithustle](https://github.com/ithustle) | Célio Garcia | Luanda, Angola | 4,136 |
+| 18 | [Dalcio](https://github.com/Dalcio) | Dálcio Macuete Garcia | Angola | 3,992 |
+| 19 | [steviejames](https://github.com/steviejames) | Sílvio Dumba | Luanda, Angola | 3,691 |
+| 20 | [paulinofonsecas](https://github.com/paulinofonsecas) | Paulino Fonseca | Luanda | 3,660 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 2,500
 | 19 | [jofranqueira](https://github.com/jofranqueira) | José Frangueira | Angola | 160 |
 | 20 | [Jovanysfive](https://github.com/Jovanysfive) | Job Bento | Angola/Luanda | 152 |
 
-Generated: 2026-10-17T09:32:34.341Z
+Generated: 2026-10-17T12:14:02.358Z

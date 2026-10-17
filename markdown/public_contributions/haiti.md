@@ -1,6 +1,6 @@
 # Public Contributions - Haiti
 
-Generated: 2026-10-17T09:56:47.297Z
+Generated: 2026-10-17T12:44:01.999Z
 
 Users: 339
 
@@ -21,8 +21,8 @@ Users: 339
 | 13 | [antifugazis](https://github.com/antifugazis) | Jyvor Slaadel Mortimer |  | antifugazis | Port-au-Prince | 198 |
 | 14 | [CalvertWanguy](https://github.com/CalvertWanguy) | Wanguy Calvert | Reves & Voyages |  | Port-Au-Prince | 198 |
 | 15 | [didierganthier](https://github.com/didierganthier) | Didier Peran Ganthier | @reactjs @microverseinc  | didierganthier_ | Port-au-prince, Haïti | 187 |
-| 16 | [jbob9](https://github.com/jbob9) | Jean Baptiste Berlensky O. |  | BerlenskyO | Haiti | 166 |
-| 17 | [jsbeaudry](https://github.com/jsbeaudry) | Beaudry Jean Sauvenel | Parkour studio |  | Port-au-prince, Haiti | 166 |
-| 18 | [blessedwingtech](https://github.com/blessedwingtech) | Blessed Wing Technology | BWT |  | Haiti | 165 |
+| 16 | [blessedwingtech](https://github.com/blessedwingtech) | Blessed Wing Technology | BWT |  | Haiti | 171 |
+| 17 | [jbob9](https://github.com/jbob9) | Jean Baptiste Berlensky O. |  | BerlenskyO | Haiti | 166 |
+| 18 | [jsbeaudry](https://github.com/jsbeaudry) | Beaudry Jean Sauvenel | Parkour studio |  | Port-au-prince, Haiti | 166 |
 | 19 | [clarensromeus](https://github.com/clarensromeus) | Romeus Clarens | Techy trans | clarensromeus | Port-au-prince/Petion-ville | 163 |
 | 20 | [EdManDev](https://github.com/EdManDev) | EdManDev | EdManDev | EdmanManigat | Haiti | 151 |

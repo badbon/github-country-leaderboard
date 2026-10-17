@@ -14,16 +14,16 @@ Indexed users: 12,425
 |---:|---|---|---|---:|
 | 1 | [guy-davidi](https://github.com/guy-davidi) | Guy Davidi | israel | 127,333 |
 | 2 | [tupe12334](https://github.com/tupe12334) | Ofek Gabay | Tel aviv, Israel | 46,505 |
-| 3 | [aryeh-stark](https://github.com/aryeh-stark) | Aryeh Stark | Israel | 27,637 |
-| 4 | [tomyam1](https://github.com/tomyam1) | Tom Yam | Tel-Aviv, Israel | 26,184 |
-| 5 | [oferchen](https://github.com/oferchen) | Ofer Chen | Israel | 23,992 |
-| 6 | [karabil](https://github.com/karabil) | Shay Panuilov | Israel | 23,658 |
-| 7 | [vega113](https://github.com/vega113) | Yuri Z. | Tel Aviv, Israel | 19,031 |
-| 8 | [elie222](https://github.com/elie222) | Elie Steinbock | Tel Aviv, Israel | 18,843 |
-| 9 | [danielrosehill](https://github.com/danielrosehill) | Daniel Rosehill | Jerusalem Or Remote | 18,821 |
-| 10 | [shmuelhizmi](https://github.com/shmuelhizmi) | Shmuel Hizmi | Tel Aviv, israel | 17,973 |
-| 11 | [chernistry](https://github.com/chernistry) | Alex Chernysh | Tel Aviv, Israel | 17,284 |
-| 12 | [thefourcraft](https://github.com/thefourcraft) | David | Israel | 16,247 |
+| 3 | [thefourcraft](https://github.com/thefourcraft) | David | Israel | 29,661 |
+| 4 | [aryeh-stark](https://github.com/aryeh-stark) | Aryeh Stark | Israel | 27,637 |
+| 5 | [tomyam1](https://github.com/tomyam1) | Tom Yam | Tel-Aviv, Israel | 26,184 |
+| 6 | [oferchen](https://github.com/oferchen) | Ofer Chen | Israel | 23,992 |
+| 7 | [karabil](https://github.com/karabil) | Shay Panuilov | Israel | 23,658 |
+| 8 | [vega113](https://github.com/vega113) | Yuri Z. | Tel Aviv, Israel | 19,031 |
+| 9 | [elie222](https://github.com/elie222) | Elie Steinbock | Tel Aviv, Israel | 18,843 |
+| 10 | [danielrosehill](https://github.com/danielrosehill) | Daniel Rosehill | Jerusalem Or Remote | 18,821 |
+| 11 | [shmuelhizmi](https://github.com/shmuelhizmi) | Shmuel Hizmi | Tel Aviv, israel | 17,973 |
+| 12 | [chernistry](https://github.com/chernistry) | Alex Chernysh | Tel Aviv, Israel | 17,284 |
 | 13 | [asaphe](https://github.com/asaphe) | Asaph | Israel | 15,903 |
 | 14 | [Dave-London](https://github.com/Dave-London) | Dave London | Israel | 15,429 |
 | 15 | [slep2-0](https://github.com/slep2-0) | slep | Israel | 13,689 |
@@ -83,4 +83,4 @@ Indexed users: 12,425
 | 19 | [kuchin](https://github.com/kuchin) | Dima Kuchin | Israel | 665 |
 | 20 | [YuvalNirkin](https://github.com/YuvalNirkin) | Yuval Nirkin | Tel Aviv, Israel | 641 |
 
-Generated: 2026-10-17T09:59:36.016Z
+Generated: 2026-10-17T12:47:20.451Z

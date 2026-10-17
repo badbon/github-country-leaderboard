@@ -80,7 +80,7 @@ Indexed users: 3,868
 | 16 | [kbjude](https://github.com/kbjude) | kbjude | Kampala | 218 |
 | 17 | [ceasor-elvis](https://github.com/ceasor-elvis) | Elvis Joseph Kawalya | Kampala, Uganda | 209 |
 | 18 | [mitalasamuel](https://github.com/mitalasamuel) | Mitala Samuel | Kampala | 203 |
-| 19 | [Kitemaggwa-Shafic](https://github.com/Kitemaggwa-Shafic) | Bin Profic | Kampala mengo, Najjanankumbi Ebb rd | 198 |
-| 20 | [kallyas](https://github.com/kallyas) | Iden | Uganda | 190 |
+| 19 | [kallyas](https://github.com/kallyas) | Iden | Uganda | 190 |
+| 20 | [FahimWeblogicAndCyberTechnologies](https://github.com/FahimWeblogicAndCyberTechnologies) | FRANKLIN | Uganda | 186 |
 
-Generated: 2026-10-17T09:26:54.836Z
+Generated: 2026-10-17T12:04:16.800Z

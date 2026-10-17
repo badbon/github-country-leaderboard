@@ -1,6 +1,6 @@
 # Total Contributions - Angola
 
-Generated: 2026-10-17T09:32:34.341Z
+Generated: 2026-10-17T12:14:02.358Z
 
 Users: 2500
 
@@ -22,7 +22,7 @@ Users: 2500
 | 14 | [osvaldowafulua](https://github.com/osvaldowafulua) | Osvaldo Wafulua | Smart Cloud |  | Angola | 4952 |
 | 15 | [noejunior299](https://github.com/noejunior299) | Noé Idagi | ITEL - Institute of Telecomunications | noejunior299 | Angola/Luanda | 4947 |
 | 16 | [Zebedeu](https://github.com/Zebedeu) | Marcio Zebedeu |  | marciozebedeu | Angola | 4177 |
-| 17 | [Dalcio](https://github.com/Dalcio) | Dálcio Macuete Garcia |  | dalcio_ | Angola | 3992 |
-| 18 | [steviejames](https://github.com/steviejames) | Sílvio Dumba |  |  | Luanda, Angola | 3691 |
-| 19 | [paulinofonsecas](https://github.com/paulinofonsecas) | Paulino Fonseca | BITKABIR | fonseca00c | Luanda | 3660 |
-| 20 | [rickdeu](https://github.com/rickdeu) | André Hangalo |  Horizon Dev | rickdeu | Angola | 3655 |
+| 17 | [ithustle](https://github.com/ithustle) | Célio Garcia | @ToqueMedia | hackgarcia | Luanda, Angola | 4136 |
+| 18 | [Dalcio](https://github.com/Dalcio) | Dálcio Macuete Garcia |  | dalcio_ | Angola | 3992 |
+| 19 | [steviejames](https://github.com/steviejames) | Sílvio Dumba |  |  | Luanda, Angola | 3691 |
+| 20 | [paulinofonsecas](https://github.com/paulinofonsecas) | Paulino Fonseca | BITKABIR | fonseca00c | Luanda | 3660 |

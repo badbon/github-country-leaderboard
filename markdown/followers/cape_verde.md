@@ -1,12 +1,12 @@
 # Followers - Cape Verde
 
-Generated: 2026-10-17T09:41:11.597Z
+Generated: 2026-10-17T12:25:47.896Z
 
 Users: 562
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [Andreia797](https://github.com/Andreia797) | Andreia Semedo |  |  | Cape Verde | 451 |
+| 1 | [Andreia797](https://github.com/Andreia797) | Andreia Semedo |  |  | Cape Verde | 450 |
 | 2 | [natanvalimcardoso](https://github.com/natanvalimcardoso) | Natan Valim | Bemol |  | Praia Grande - SC | 436 |
 | 3 | [Jorgegabrielsantos](https://github.com/Jorgegabrielsantos) | Jorge Gabriel |  |  | Cape Verde,Praia | 369 |
 | 4 | [Dnuns](https://github.com/Dnuns) | David Nunes | @academia-de-codigo | DavidFNunes | Cape Verde | 212 |
@@ -16,7 +16,7 @@ Users: 562
 | 8 | [gabrielngomes](https://github.com/gabrielngomes) | Gabriel Gomes |  |  | Praia Grande, SP | 118 |
 | 9 | [eloisaoliveira](https://github.com/eloisaoliveira) | Eloisa de Oliveira |  | elooliveira_png | Praia Grande - SP | 116 |
 | 10 | [cdfortes](https://github.com/cdfortes) | Carlos Fortes |  | cdfortes | Praia - Cabo Verde | 92 |
-| 11 | [isabellacoliveira](https://github.com/isabellacoliveira) | Isabella Cruz de Oliveira | Itaú Unibanco |  | Praia Grande | 92 |
+| 11 | [isabellacoliveira](https://github.com/isabellacoliveira) | Isabella Cruz de Oliveira | Itaú Unibanco |  | Praia Grande | 91 |
 | 12 | [felipesurfe](https://github.com/felipesurfe) | FELIPE CAMARGO FERNANDES |  |  | Praia Grande - SP - Brazil | 88 |
 | 13 | [Deustavo](https://github.com/Deustavo) | Gustavo Andrade | Tray |  | Praia Grande - SP | 80 |
 | 14 | [GabrielJalmeida](https://github.com/GabrielJalmeida) | Gabriel Almeida |  |  | Praia Grande | 80 |

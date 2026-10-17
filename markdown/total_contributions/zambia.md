@@ -1,16 +1,16 @@
 # Total Contributions - Zambia
 
-Generated: 2026-10-17T09:29:22.450Z
+Generated: 2026-10-17T12:10:55.176Z
 
-Users: 1338
+Users: 1337
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [Mwalek](https://github.com/Mwalek) | Mwale Kalenga | @Inpsyde-Global-Service-Provider  | mwale_and_sons | Lusaka, Zambia | 12414 |
 | 2 | [DamianoSilverhand](https://github.com/DamianoSilverhand) | Damiano Chintala | @Plus94-Research | damianochintala | Lusaka, Zambia | 12014 |
-| 3 | [MwambaKaenga](https://github.com/MwambaKaenga) | Mwamba Kaenga | BANTUZI ENTERPRISES LIMITED | mwambaekaenga | Lusaka, Zambia | 11298 |
+| 3 | [MwambaKaenga](https://github.com/MwambaKaenga) | Mwamba Kaenga | BANTUZI ENTERPRISES LIMITED | mwambaekaenga | Lusaka, Zambia | 11933 |
 | 4 | [CHAMA18](https://github.com/CHAMA18) | Chungu Chipimo Chama |  |  | Lusaka, Zambia | 11074 |
-| 5 | [thompsonmanda08](https://github.com/thompsonmanda08) | Thompson Manda | @Interwebb | thompsonmanda08 | Zambia | 8828 |
+| 5 | [thompsonmanda08](https://github.com/thompsonmanda08) | Thompson Manda | @Interwebb | thompsonmanda08 | Zambia | 9114 |
 | 6 | [Abdurrahmaan9](https://github.com/Abdurrahmaan9) |  |  | AbdurChimalo | Lusaka, Zambia  | 7240 |
 | 7 | [senorMk](https://github.com/senorMk) | Penjani M |  | senorMk | Zambia | 6710 |
 | 8 | [c00p75](https://github.com/c00p75) | George M'sapenda |  |  | Lusaka, Zambia | 5444 |

@@ -20,7 +20,7 @@ Indexed users: 215
 | 6 | [niwinz](https://github.com/niwinz) | Andrey Antukh | Andorra | 8,530 |
 | 7 | [l3wi](https://github.com/l3wi) | Lewis Freiberg | Andorra | 6,337 |
 | 8 | [acastellana](https://github.com/acastellana) | Albert Castellana | Andorra | 5,782 |
-| 9 | [alexmf91](https://github.com/alexmf91) | Alex Muñoz | Barcelona (Spain) \| Encamp (Andorra) | 5,301 |
+| 9 | [alexmf91](https://github.com/alexmf91) | Alex Muñoz | Barcelona (Spain) \| Encamp (Andorra) | 5,300 |
 | 10 | [tombrewsviews](https://github.com/tombrewsviews) | Tom Parandyk | Andorra | 5,109 |
 | 11 | [marcalj](https://github.com/marcalj) | Marçal | Andorra | 5,078 |
 | 12 | [jorge07](https://github.com/jorge07) | Jorge Arco | Escaldes, Andorra | 4,954 |
@@ -83,4 +83,4 @@ Indexed users: 215
 | 19 | [ysb33r](https://github.com/ysb33r) | Schalk W. Cronjé | Andorra | 63 |
 | 20 | [castrolem](https://github.com/castrolem) | Luis Castro | Andorra la Vella, Andorra | 59 |
 
-Generated: 2026-10-17T09:31:59.774Z
+Generated: 2026-10-17T12:13:59.624Z

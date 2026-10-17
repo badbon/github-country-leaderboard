@@ -62,13 +62,13 @@ Indexed users: 5,430
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [adrianhajdin](https://github.com/adrianhajdin) | Adrian Hajdin - JS Mastery | Croatia | 37,312 |
+| 1 | [adrianhajdin](https://github.com/adrianhajdin) | Adrian Hajdin - JS Mastery | Croatia | 37,543 |
 | 2 | [AntonioErdeljac](https://github.com/AntonioErdeljac) | Antonio Erdeljac | Zagreb, Croatia | 9,129 |
 | 3 | [stamparm](https://github.com/stamparm) | Miroslav Stampar | Croatia | 2,923 |
 | 4 | [sasa1977](https://github.com/sasa1977) | Saša Jurić | Zagreb, Croatia | 1,862 |
 | 5 | [vladmandic](https://github.com/vladmandic) | Vladimir Mandic | Miami, Florida / Rijeka, Croatia | 1,185 |
 | 6 | [Valloric](https://github.com/Valloric) | Val Markovic | Zagreb, Croatia | 1,146 |
-| 7 | [PCrnjak](https://github.com/PCrnjak) | Source Robotics | Croatia, Zagreb | 951 |
+| 7 | [PCrnjak](https://github.com/PCrnjak) | Source Robotics | Croatia, Zagreb | 970 |
 | 8 | [matiadev](https://github.com/matiadev) | Matia | Zagreb, Croatia | 844 |
 | 9 | [josip0920-zz](https://github.com/josip0920-zz) | Josip Neretljak | Rijeka, Croatia | 815 |
 | 10 | [Swader](https://github.com/Swader) | Bruno Škvorc | Zagreb, Croatia | 780 |
@@ -83,4 +83,4 @@ Indexed users: 5,430
 | 19 | [loboris](https://github.com/loboris) | Boris Lovosevic | Zagreb, Croatia | 406 |
 | 20 | [nibzard](https://github.com/nibzard) | Nikola Balic | Split, Croatia | 364 |
 
-Generated: 2026-10-17T09:45:25.673Z
+Generated: 2026-10-17T12:30:48.610Z

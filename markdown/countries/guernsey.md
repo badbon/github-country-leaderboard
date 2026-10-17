@@ -13,7 +13,7 @@ Indexed users: 45
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [nick-vermeulen](https://github.com/nick-vermeulen) | Nick | Guernsey | 2,668 |
-| 2 | [gsydev191](https://github.com/gsydev191) | Dan | Guernsey | 2,037 |
+| 2 | [gsydev191](https://github.com/gsydev191) | Dan | Guernsey | 2,060 |
 | 3 | [RicLeP](https://github.com/RicLeP) | Ric Le Poidevin | Guernsey | 1,458 |
 | 4 | [tris203](https://github.com/tris203) | Tristan Knight | Guernsey | 1,366 |
 | 5 | [technosight](https://github.com/technosight) | Ivan Petrov | St Peter Port, Guernsey | 990 |
@@ -83,4 +83,4 @@ Indexed users: 45
 | 19 | [LIHITAB](https://github.com/LIHITAB) | Like and Code on GitHub | Guernsey, CI | 3 |
 | 20 | [mtp-tkostudax](https://github.com/mtp-tkostudax) | Shanty Irish | Guernsey | 3 |
 
-Generated: 2026-10-17T09:55:34.443Z
+Generated: 2026-10-17T12:43:26.078Z

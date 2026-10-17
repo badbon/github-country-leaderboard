@@ -1,8 +1,8 @@
 # Total Contributions - Austria
 
-Generated: 2026-10-17T09:35:11.218Z
+Generated: 2026-10-17T12:15:52.758Z
 
-Users: 18252
+Users: 18250
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

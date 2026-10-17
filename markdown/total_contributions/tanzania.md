@@ -1,13 +1,13 @@
 # Total Contributions - Tanzania
 
-Generated: 2026-10-17T09:23:21.165Z
+Generated: 2026-10-17T11:59:57.942Z
 
 Users: 2039
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [mpinzile](https://github.com/mpinzile) | David Mpinzile | SEWMR Technologies | sewmrtechnology | Arusha, Tanzania  | 178570 |
-| 2 | [KaReeeeeeeeEM](https://github.com/KaReeeeeeeeEM) | _running_program | University of Dar es Salaam |  |  Dar-es-salaam, Tanzania | 123960 |
+| 2 | [KaReeeeeeeeEM](https://github.com/KaReeeeeeeeEM) | _running_program | University of Dar es Salaam |  |  Dar-es-salaam, Tanzania | 150256 |
 | 3 | [nyandajr](https://github.com/nyandajr) | Nyanda Freddy |  |  | Tanzania | 53229 |
 | 4 | [johnson2006christopher](https://github.com/johnson2006christopher) | Johnson Christopher Hassan | Neurotech HQ |  | Mbeya,Tanzania | 27470 |
 | 5 | [raydanielg](https://github.com/raydanielg) | Ezra Daniel Gyunda |  |  | Tanzania | 18171 |
@@ -22,7 +22,7 @@ Users: 2039
 | 14 | [fredygerman](https://github.com/fredygerman) | Fredy Mgimba | Credable | fredygerman_ | Tanzania | 9059 |
 | 15 | [fmwasekaga](https://github.com/fmwasekaga) | Fredrick Lusako Mwasekaga | kagaconnect |  | Tanzania | 8875 |
 | 16 | [islandkid-20](https://github.com/islandkid-20) | James Mashaka | @appziro  |  | Dar Es Salaam,Tanzania | 8739 |
-| 17 | [troubleman96](https://github.com/troubleman96) | Lugenge Emmanuel | Camel Creatives |  | Dar es Salaam ,Tanzania | 8023 |
+| 17 | [alobit21](https://github.com/alobit21) | Aloyce Mtavangu | Tarxemo Software Company  |  | Dodoma-Tanzania | 7802 |
 | 18 | [elishagerson](https://github.com/elishagerson) | Elisha Gerson |  |  | Mbeya, Tanzania | 7797 |
 | 19 | [Bulalu](https://github.com/Bulalu) |  |  | elisha_bulalu | Dar-es-Salaam,Tanzania | 7623 |
 | 20 | [victorjudysen](https://github.com/victorjudysen) | Victor Kweka | ThisUncle Technologies |  | Dodoma, Tanzania | 7534 |

@@ -1,6 +1,6 @@
 # Luxembourg
 
-Indexed users: 2,188
+Indexed users: 2,189
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 2,188
 | 19 | [l4rz](https://github.com/l4rz) | Mike K. | Luxembourg | 197 |
 | 20 | [urosolia](https://github.com/urosolia) | Ugo Rosolia | Luxembourg, Lux | 192 |
 
-Generated: 2026-10-17T11:15:45.952Z
+Generated: 2026-10-17T12:15:52.758Z
