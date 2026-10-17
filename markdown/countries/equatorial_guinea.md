@@ -12,14 +12,14 @@ Indexed users: 21
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [vicentehmba](https://github.com/vicentehmba) | VIcente Hugo Mba | Equatorial Guinea | 2,814 |
+| 1 | [vicentehmba](https://github.com/vicentehmba) | VIcente Hugo Mba | Equatorial Guinea | 2,811 |
 | 2 | [alexis-ngoyi](https://github.com/alexis-ngoyi) | Alexis Ngoyi M. | Guinee Equatoriale, Malabo | 319 |
 | 3 | [arongesono12](https://github.com/arongesono12) | Aron Esono Ondo Eyang | Malabo | 257 |
 | 4 | [seamuddin](https://github.com/seamuddin) | Seam uddin | Malabo, Equatorial guinea | 125 |
-| 5 | [barsie](https://github.com/barsie) | Sirineo Barila  | Equatorial Guinea  | 115 |
+| 5 | [barsie](https://github.com/barsie) | Sirineo Barila  | Equatorial Guinea  | 112 |
 | 6 | [Xenon0001](https://github.com/Xenon0001) | Luis Rafael Eyoma | Bata, Equatorial Guinea | 89 |
 | 7 | [Soniangomo](https://github.com/Soniangomo) | Sonia NGOMO | MALABO- EQUATORIAL GUINEA | 27 |
-| 8 | [sersobrenatural](https://github.com/sersobrenatural) | Santiago Gabriel Micha Ndong Obiang | Equatorial Guinea  | 16 |
+| 8 | [sersobrenatural](https://github.com/sersobrenatural) | Santiago Gabriel Micha Ndong Obiang | Equatorial Guinea  | 15 |
 | 9 | [Nazario95](https://github.com/Nazario95) | Nazario Muanbama | Malabo-EQ | 11 |
 | 10 | [melitonio](https://github.com/melitonio) | Meliton Pablo Mangue Mañana | Malabo, Guinea Ecuatorial | 5 |
 | 11 | [DanielNdong](https://github.com/DanielNdong) | Daniel Aquilino Ndong | Malabo, Guinea Ecuatorial | 4 |
@@ -38,12 +38,12 @@ Indexed users: 21
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [arongesono12](https://github.com/arongesono12) | Aron Esono Ondo Eyang | Malabo | 257 |
-| 2 | [barsie](https://github.com/barsie) | Sirineo Barila  | Equatorial Guinea  | 115 |
+| 2 | [barsie](https://github.com/barsie) | Sirineo Barila  | Equatorial Guinea  | 112 |
 | 3 | [Xenon0001](https://github.com/Xenon0001) | Luis Rafael Eyoma | Bata, Equatorial Guinea | 89 |
 | 4 | [alexis-ngoyi](https://github.com/alexis-ngoyi) | Alexis Ngoyi M. | Guinee Equatoriale, Malabo | 49 |
 | 5 | [vicentehmba](https://github.com/vicentehmba) | VIcente Hugo Mba | Equatorial Guinea | 38 |
 | 6 | [Soniangomo](https://github.com/Soniangomo) | Sonia NGOMO | MALABO- EQUATORIAL GUINEA | 27 |
-| 7 | [sersobrenatural](https://github.com/sersobrenatural) | Santiago Gabriel Micha Ndong Obiang | Equatorial Guinea  | 16 |
+| 7 | [sersobrenatural](https://github.com/sersobrenatural) | Santiago Gabriel Micha Ndong Obiang | Equatorial Guinea  | 15 |
 | 8 | [Nazario95](https://github.com/Nazario95) | Nazario Muanbama | Malabo-EQ | 11 |
 | 9 | [seamuddin](https://github.com/seamuddin) | Seam uddin | Malabo, Equatorial guinea | 8 |
 | 10 | [melitonio](https://github.com/melitonio) | Meliton Pablo Mangue Mañana | Malabo, Guinea Ecuatorial | 5 |
@@ -83,4 +83,4 @@ Indexed users: 21
 | 19 | [petr2rzu](https://github.com/petr2rzu) | Javier |  Equatorial Guinea | 1 |
 | 20 | [sersobrenatural](https://github.com/sersobrenatural) | Santiago Gabriel Micha Ndong Obiang | Equatorial Guinea  | 1 |
 
-Generated: 2026-10-17T01:21:25.696Z
+Generated: 2026-10-17T03:26:39.729Z

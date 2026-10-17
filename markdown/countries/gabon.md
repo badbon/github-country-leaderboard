@@ -55,8 +55,8 @@ Indexed users: 314
 | 16 | [waly2020](https://github.com/waly2020) | waly le dev | Gabon (Libreville) | 154 |
 | 17 | [Dylan245-droid](https://github.com/Dylan245-droid) | Dylan ONDO | Libreville, Gabon | 150 |
 | 18 | [lmlouis](https://github.com/lmlouis) | WORA SOUAMY Louis Martin  | Libreville, Gabon | 146 |
-| 19 | [NGOUBADJAMBO-Richard](https://github.com/NGOUBADJAMBO-Richard) | NGOUBADJAMBO Richard | Gabon - Libreville | 130 |
-| 20 | [maestrodimateo](https://github.com/maestrodimateo) | Mebale Noel | Gabon / Libreville | 117 |
+| 19 | [flucasx2](https://github.com/flucasx2) | Francis Sop Sop | Libreville | 138 |
+| 20 | [NGOUBADJAMBO-Richard](https://github.com/NGOUBADJAMBO-Richard) | NGOUBADJAMBO Richard | Gabon - Libreville | 130 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 314
 | 19 | [Dylan245-droid](https://github.com/Dylan245-droid) | Dylan ONDO | Libreville, Gabon | 22 |
 | 20 | [Marseven](https://github.com/Marseven) | Aristide Mebodo | Libreville | 19 |
 
-Generated: 2026-10-17T01:27:08.154Z
+Generated: 2026-10-17T03:31:49.107Z

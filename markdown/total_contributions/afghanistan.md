@@ -1,6 +1,6 @@
 # Total Contributions - Afghanistan
 
-Generated: 2026-10-17T00:49:14.229Z
+Generated: 2026-10-17T02:51:57.252Z
 
 Users: 1487
 
@@ -24,5 +24,5 @@ Users: 1487
 | 16 | [shafaqatullah](https://github.com/shafaqatullah) | shafaqatullah zaheer |  |  | Kabul, Afghanistan | 5743 |
 | 17 | [ahmadjoya](https://github.com/ahmadjoya) | Ahmad Joya | Softwareship-io |  | Afghanistan | 5201 |
 | 18 | [azizpgl](https://github.com/azizpgl) | Aziz Nabizada |  Peace Global Logistic |  | Kabul, Afghanistan | 5133 |
-| 19 | [basirkhan1995](https://github.com/basirkhan1995) | Basir Hashimi | Zaitoon |  | Afghanistan | 4857 |
-| 20 | [khalidafghanmal](https://github.com/khalidafghanmal) | khalid afghanmal | Smart City Solution ICT |  | Afghanistan | 4839 |
+| 19 | [basirkhan1995](https://github.com/basirkhan1995) | Basir Hashimi | Zaitoon |  | Afghanistan | 4873 |
+| 20 | [khalidafghanmal](https://github.com/khalidafghanmal) | khalid afghanmal | Smart City Solution ICT |  | Afghanistan | 4835 |

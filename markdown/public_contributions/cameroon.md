@@ -1,6 +1,6 @@
 # Public Contributions - Cameroon
 
-Generated: 2026-10-17T01:10:54.617Z
+Generated: 2026-10-17T03:13:31.551Z
 
 Users: 1799
 
@@ -17,12 +17,12 @@ Users: 1799
 | 9 | [Chu29](https://github.com/Chu29) | Malik Chu | REBASE CODE CAMP | unku_chu | Yaounde, Cameroon | 1892 |
 | 10 | [Kynmmarshall](https://github.com/Kynmmarshall) | Kamdeu Yamdjeuson Neil Marshall |  | kynmmarshall | Cameroon | 1832 |
 | 11 | [freddychoudja](https://github.com/freddychoudja) | Freddy Choudja |  |  | Cameroon | 1809 |
-| 12 | [Kanjo-Elkamira-Ndi](https://github.com/Kanjo-Elkamira-Ndi) | Alchemy Codes | DigiMark Consulting & Revive | kanjo_elkamira | Yaoundé Cameroon | 1715 |
+| 12 | [Kanjo-Elkamira-Ndi](https://github.com/Kanjo-Elkamira-Ndi) | Alchemy Codes | DigiMark Consulting & Revive | kanjo_elkamira | Yaoundé Cameroon | 1736 |
 | 13 | [Josiasange37](https://github.com/Josiasange37) | AKANA SIGNING JOSIAS AARON | Xyber CLan | AlmightJosias | Cameroon | 1635 |
-| 14 | [Arielpetit](https://github.com/Arielpetit) | arielpetit | @adorsys |  | cameroon | 1621 |
-| 15 | [Allmight2002](https://github.com/Allmight2002) | Raymond Mbassi |  |  | Cameroon | 1484 |
-| 16 | [pythonbrad](https://github.com/pythonbrad) | Brady Fomegne | @fodydev | pythonbrad | Douala, Cameroon | 1448 |
-| 17 | [Hermann-Core](https://github.com/Hermann-Core) | Hermann Core | SkyEngPro/Adorsys | Dr_Itachii | Cameroon | 1447 |
-| 18 | [Koufan-De-King](https://github.com/Koufan-De-King) | King-Koufan | ADORSYS |  | Cameroon | 1419 |
-| 19 | [JOELNATHAN544](https://github.com/JOELNATHAN544) | Joel Nathan Wanko | Adorsys |  | Cameroon, Bangangté  | 1388 |
-| 20 | [PromiseFru](https://github.com/PromiseFru) | Promise Fru | promisefru | promisefru | Cameroon | 1354 |
+| 14 | [Allmight2002](https://github.com/Allmight2002) | Raymond Mbassi |  |  | Cameroon | 1484 |
+| 15 | [pythonbrad](https://github.com/pythonbrad) | Brady Fomegne | @fodydev | pythonbrad | Douala, Cameroon | 1448 |
+| 16 | [Hermann-Core](https://github.com/Hermann-Core) | Hermann Core | SkyEngPro/Adorsys | Dr_Itachii | Cameroon | 1447 |
+| 17 | [Koufan-De-King](https://github.com/Koufan-De-King) | King-Koufan | ADORSYS |  | Cameroon | 1419 |
+| 18 | [JOELNATHAN544](https://github.com/JOELNATHAN544) | Joel Nathan Wanko | Adorsys |  | Cameroon, Bangangté  | 1388 |
+| 19 | [PromiseFru](https://github.com/PromiseFru) | Promise Fru | promisefru | promisefru | Cameroon | 1354 |
+| 20 | [Mbiydzenyuy3](https://github.com/Mbiydzenyuy3) | Leila |  |  | Yaounde, Cameroon | 1348 |

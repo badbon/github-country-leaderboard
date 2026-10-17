@@ -55,8 +55,8 @@ Indexed users: 486
 | 16 | [k13lucien](https://github.com/k13lucien) | Lucien Kiemde | Ouagadougou, Burkina Faso | 532 |
 | 17 | [Zangafigue](https://github.com/Zangafigue) | Zangafigué Mathias TRAORE | Koudougou, Burkina Faso | 444 |
 | 18 | [NICE-DEV226](https://github.com/NICE-DEV226) | Azaël Wend-panga SAWADOGO  | Burkina Faso | 433 |
-| 19 | [rxzkie](https://github.com/rxzkie) |  | Ouagadougou, Burkina Faso | 376 |
-| 20 | [gosse123](https://github.com/gosse123) | Nahounou gosse  | Burkina Faso  | 369 |
+| 19 | [gosse123](https://github.com/gosse123) | Nahounou gosse  | Burkina Faso  | 369 |
+| 20 | [rxzkie](https://github.com/rxzkie) |  | Ouagadougou, Burkina Faso | 361 |
 
 ## Followers
 
@@ -70,7 +70,7 @@ Indexed users: 486
 | 6 | [adamako](https://github.com/adamako) | Adama KO | Burkina Faso | 107 |
 | 7 | [faso-dev](https://github.com/faso-dev) | Clovis S.J Onadja | Burkina-Faso,Ouagadougou | 104 |
 | 8 | [honokini](https://github.com/honokini) | KINI Biè Honoré | Burkina Faso(Bobo-Dioulasso) | 104 |
-| 9 | [bsrodrigue](https://github.com/bsrodrigue) | Badini Rachid Rodrigue | Burkina Faso - Ouagadougou | 99 |
+| 9 | [bsrodrigue](https://github.com/bsrodrigue) | Badini Rachid Rodrigue | Burkina Faso - Ouagadougou | 98 |
 | 10 | [theobosomtwe](https://github.com/theobosomtwe) | Theophilus_Bosomtwe | Burkina Faso | 93 |
 | 11 | [spwoodcock](https://github.com/spwoodcock) | Sam | Ouagadougou, Burkina Faso | 65 |
 | 12 | [Kidchris](https://github.com/Kidchris) | Kidchris | Ouagadougou, Burkina Faso | 64 |
@@ -83,4 +83,4 @@ Indexed users: 486
 | 19 | [sokevinjonas](https://github.com/sokevinjonas) | SO Kevin Jonas Gningnabe | BURKINA FASO | 38 |
 | 20 | [kulturman](https://github.com/kulturman) | Arnaud Bakyono  | Ouagadougou | 37 |
 
-Generated: 2026-10-17T01:09:01.479Z
+Generated: 2026-10-17T03:11:31.374Z

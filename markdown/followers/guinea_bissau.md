@@ -1,12 +1,12 @@
 # Followers - Guinea-Bissau
 
-Generated: 2026-10-17T01:34:06.208Z
+Generated: 2026-10-17T03:38:46.067Z
 
 Users: 23
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [HobaiGuigui](https://github.com/HobaiGuigui) | Mr.Hobai | CEO @ IHT - Iniciativa Hobai Tecnologias |  | Bissau | 23 |
+| 1 | [HobaiGuigui](https://github.com/HobaiGuigui) | Mr.Hobai | CEO @ IHT - Iniciativa Hobai Tecnologias |  | Bissau | 22 |
 | 2 | [atchutchi](https://github.com/atchutchi) | Atchutchi B Ferreira | Abiptom |  | Bissau, Guinea-Bissau | 8 |
 | 3 | [DionisioSeuna](https://github.com/DionisioSeuna) | Dionisio Seuna |  |  | Bissau, Guiné-Bissau | 6 |
 | 4 | [Luiginia](https://github.com/Luiginia) | Luiginia Caetano Gomes |  |  | Guiné - Bissau | 5 |

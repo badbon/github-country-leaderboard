@@ -1,6 +1,6 @@
 # Public Contributions - Tajikistan
 
-Generated: 2026-10-17T00:36:52.202Z
+Generated: 2026-10-17T02:39:08.691Z
 
 Users: 709
 
@@ -18,8 +18,8 @@ Users: 709
 | 10 | [Ilkhom-S](https://github.com/Ilkhom-S) | Ilkhom Safarov | Payvand |  | Dushanbe, Tajikistan | 761 |
 | 11 | [Suhrob4ikk](https://github.com/Suhrob4ikk) | Suhrob Davlatov |  |  | Dushanbe, Tajikistan | 735 |
 | 12 | [Osaf-Abdulloev](https://github.com/Osaf-Abdulloev) | Abdulloev Osaf |  |  | Dushanbe | 658 |
-| 13 | [GulomovCreative](https://github.com/GulomovCreative) | Bakhtovar Gulomov |  |  | Dushanbe, Tajikistan | 558 |
-| 14 | [UMARJO9](https://github.com/UMARJO9) | Умарджон Нурмадов |  |  | Tajikistan / Khujand / Dushanbe / Kulob | 508 |
+| 13 | [UMARJO9](https://github.com/UMARJO9) | Умарджон Нурмадов |  |  | Tajikistan / Khujand / Dushanbe / Kulob | 587 |
+| 14 | [GulomovCreative](https://github.com/GulomovCreative) | Bakhtovar Gulomov |  |  | Dushanbe, Tajikistan | 558 |
 | 15 | [Muhammadjon0204](https://github.com/Muhammadjon0204) | Muhammadjon Kosimov | SoftClub - IT Academy |  | Dushanbe | 503 |
 | 16 | [mehrvarshodiev](https://github.com/mehrvarshodiev) | Mehrvar Shodiev |  | shod1ev_ | Dushanbe | 496 |
 | 17 | [Roma-723](https://github.com/Roma-723) | Yusufjon |  |  | Dushanbe | 476 |

@@ -1,6 +1,6 @@
 # Public Contributions - Gabon
 
-Generated: 2026-10-17T01:27:08.154Z
+Generated: 2026-10-17T03:31:49.107Z
 
 Users: 314
 
@@ -24,5 +24,5 @@ Users: 314
 | 16 | [waly2020](https://github.com/waly2020) | waly le dev | LMD |  | Gabon (Libreville) | 154 |
 | 17 | [Dylan245-droid](https://github.com/Dylan245-droid) | Dylan ONDO | NOUN CONCEPT |  | Libreville, Gabon | 150 |
 | 18 | [lmlouis](https://github.com/lmlouis) | WORA SOUAMY Louis Martin  | lm louis |  | Libreville, Gabon | 146 |
-| 19 | [NGOUBADJAMBO-Richard](https://github.com/NGOUBADJAMBO-Richard) | NGOUBADJAMBO Richard | M.G.N CodeWave |  | Gabon - Libreville | 130 |
-| 20 | [maestrodimateo](https://github.com/maestrodimateo) | Mebale Noel |  |  | Gabon / Libreville | 117 |
+| 19 | [flucasx2](https://github.com/flucasx2) | Francis Sop Sop | NeoSys Consulting |  | Libreville | 138 |
+| 20 | [NGOUBADJAMBO-Richard](https://github.com/NGOUBADJAMBO-Richard) | NGOUBADJAMBO Richard | M.G.N CodeWave |  | Gabon - Libreville | 130 |

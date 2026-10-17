@@ -1,8 +1,8 @@
 # Public Contributions - Cyprus
 
-Generated: 2026-10-17T01:17:46.396Z
+Generated: 2026-10-17T03:19:54.174Z
 
-Users: 2728
+Users: 2727
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -16,8 +16,8 @@ Users: 2728
 | 8 | [richardsolomou](https://github.com/richardsolomou) | Richard Solomou | @PostHog | richardsolomou | Cyprus | 3635 |
 | 9 | [VizzleTF](https://github.com/VizzleTF) | Ivan K |  |  | Cyprus | 3486 |
 | 10 | [candasoz01-cmd](https://github.com/candasoz01-cmd) | Candaş Öz | Candaş Öz |  | Kıbrıs | 3467 |
-| 11 | [siyabendoezdemir](https://github.com/siyabendoezdemir) | Siya | CIYA | siyabuilt | Cyprus | 3289 |
-| 12 | [phalouvas](https://github.com/phalouvas) | Panayiotis Halouvas | KAINOTOMO PH LTD  |  | Cyprus  | 3137 |
+| 11 | [phalouvas](https://github.com/phalouvas) | Panayiotis Halouvas | KAINOTOMO PH LTD  |  | Cyprus  | 3353 |
+| 12 | [siyabendoezdemir](https://github.com/siyabendoezdemir) | Siya | CIYA | siyabuilt | Cyprus | 3289 |
 | 13 | [Disentinel](https://github.com/Disentinel) | Vadim Reshetnikov |  |  | Cyprus, Limassol | 3117 |
 | 14 | [programmeradu](https://github.com/programmeradu) | Samuel Adu-Berekorang | @stapolar  |  | nicosia, cyprus | 3112 |
 | 15 | [GeorgeWebDevCy](https://github.com/GeorgeWebDevCy) | George Nicolaou |  | GeorgeWebDev | Cyprus | 2884 |

@@ -1,8 +1,8 @@
 # Total Contributions - Cape Verde
 
-Generated: 2026-10-17T01:10:57.570Z
+Generated: 2026-10-17T03:13:34.129Z
 
-Users: 563
+Users: 562
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -25,4 +25,4 @@ Users: 563
 | 17 | [machadoah](https://github.com/machadoah) | Antonio Henrique Machado | @gupy-io | machadoah | Praia Grande/SP | 1147 |
 | 18 | [mrbonini](https://github.com/mrbonini) | Kaique Sousa Bonini |  |  | Praia Grande, SP - Brazil | 1144 |
 | 19 | [ewerton336](https://github.com/ewerton336) | Ewerton  Guimarães | Usiminas |  | Praia Grande - SP | 1103 |
-| 20 | [klcombr](https://github.com/klcombr) | KL Com |  |  | Praia Grande, SP | 1034 |
+| 20 | [klcombr](https://github.com/klcombr) | KL Com |  |  | Praia Grande, SP | 1054 |

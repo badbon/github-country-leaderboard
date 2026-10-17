@@ -1,6 +1,6 @@
 # Public Contributions - Gambia
 
-Generated: 2026-10-17T01:27:33.932Z
+Generated: 2026-10-17T03:32:22.865Z
 
 Users: 79
 
@@ -18,7 +18,7 @@ Users: 79
 | 10 | [ONjie](https://github.com/ONjie) | Muhammed O Njie |  |  | Banjul, The Gambia | 138 |
 | 11 | [harunaabaldeh](https://github.com/harunaabaldeh) | Haruna A Baldeh | Kendesoft | farmerscoder | Banjul | 126 |
 | 12 | [thanos14million605](https://github.com/thanos14million605) | Ebrima Gajaga |  |  | Brikama, Gambia | 121 |
-| 13 | [JonMonday](https://github.com/JonMonday) | JohnMonday |  |  | Banjul, The Gambia | 88 |
+| 13 | [JonMonday](https://github.com/JonMonday) | JohnMonday |  |  | Banjul, The Gambia | 86 |
 | 14 | [geniuskidkanyi](https://github.com/geniuskidkanyi) | muhammed kanyi | Gcubed | ghostkanyi | Gambia | 61 |
 | 15 | [mustapha-jaiteh](https://github.com/mustapha-jaiteh) | Mustapha Jaiteh |  |  | Banjul, The Gambia | 57 |
 | 16 | [Sannabs](https://github.com/Sannabs) | Sanna BS Jammeh |  |  | Gambia banjul | 55 |

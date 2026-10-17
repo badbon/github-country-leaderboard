@@ -1,13 +1,13 @@
 # Total Contributions - Aruba
 
-Generated: 2026-10-17T00:53:59.335Z
+Generated: 2026-10-17T02:59:17.618Z
 
 Users: 37
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [QVault](https://github.com/QVault) | Quincent |  |  | Aruba | 1737 |
-| 2 | [azaandam](https://github.com/azaandam) | André Zaandam | CR38TE | azaandam | Aruba | 849 |
+| 2 | [azaandam](https://github.com/azaandam) | André Zaandam | CR38TE | azaandam | Aruba | 838 |
 | 3 | [flacle](https://github.com/flacle) | Francis Laclé |  | flacle | Aruba | 565 |
 | 4 | [rendell](https://github.com/rendell) | Rendell de Kort | Cornerstone Economics / Lovely Data |  | Aruba | 548 |
 | 5 | [EstherPlomp](https://github.com/EstherPlomp) | Esther Plomp |  |  | Aruba | 496 |
@@ -17,7 +17,7 @@ Users: 37
 | 9 | [Veknica](https://github.com/Veknica) | Pola Sendviča |  |  | Oranjestad | 72 |
 | 10 | [waterkip](https://github.com/waterkip) | Wesley Schwengle | wdms |  | Aruba | 47 |
 | 11 | [Vortex93](https://github.com/Vortex93) | Derwin Tromp | AIB, UTwente |  | Oranjestad, Aruba | 44 |
-| 12 | [hfsyung](https://github.com/hfsyung) |  |  |  | Aruba | 35 |
+| 12 | [hfsyung](https://github.com/hfsyung) |  |  |  | Aruba | 36 |
 | 13 | [JunTechWebSolutions](https://github.com/JunTechWebSolutions) | Juny Engelhart (AWS Aruba) | Lead Web Designer @AWSAruba | JWSARUBA | Oranjestad, Aruba | 17 |
 | 14 | [XBrewyn](https://github.com/XBrewyn) | Brewyn Frederick Espinal Mercado | Freelancer |  | Aruba | 11 |
 | 15 | [AyrtonAG](https://github.com/AyrtonAG) | Ayrton Geerman |  |  | Aruba | 8 |

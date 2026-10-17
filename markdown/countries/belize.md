@@ -13,7 +13,7 @@ Indexed users: 94
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [amodevinc](https://github.com/amodevinc) | Alain Morris | Belize (UTC−6) · Remote | 2,844 |
-| 2 | [AlexDev404](https://github.com/AlexDev404) | Immanuel Daviel A. Garcia | Belmopan, BZ | 2,038 |
+| 2 | [AlexDev404](https://github.com/AlexDev404) | Immanuel Daviel A. Garcia | Belmopan, BZ | 2,037 |
 | 3 | [roock3r](https://github.com/roock3r) | Cristian Silva | Belize | 1,892 |
 | 4 | [andreshungbz](https://github.com/andreshungbz) | Andres Hung | Belmopan, Belize | 1,656 |
 | 5 | [jimidle](https://github.com/jimidle) | Jim Idle | Hopkins, Belize | 1,483 |
@@ -40,7 +40,7 @@ Indexed users: 94
 | 1 | [andreshungbz](https://github.com/andreshungbz) | Andres Hung | Belmopan, Belize | 1,329 |
 | 2 | [happyherp](https://github.com/happyherp) | Carlos Freund | Belize | 783 |
 | 3 | [DrianeDiojanPerez](https://github.com/DrianeDiojanPerez) | Driane Diojan Perez | Avenida Primitivo Aragon, Sarteneja, Corozal, Belize | 767 |
-| 4 | [AlexDev404](https://github.com/AlexDev404) | Immanuel Daviel A. Garcia | Belmopan, BZ | 638 |
+| 4 | [AlexDev404](https://github.com/AlexDev404) | Immanuel Daviel A. Garcia | Belmopan, BZ | 637 |
 | 5 | [krispyre](https://github.com/krispyre) | kris | Belize | 488 |
 | 6 | [raycadle](https://github.com/raycadle) | Ray Cadle | Belize, C.A. | 317 |
 | 7 | [jennxsierra](https://github.com/jennxsierra) | Jennessa Sierra | Belmopan, Belize | 307 |
@@ -56,7 +56,7 @@ Indexed users: 94
 | 17 | [GirlWhoCodes14](https://github.com/GirlWhoCodes14) | Alexis Ayuso | Belize | 42 |
 | 18 | [FranceCawich](https://github.com/FranceCawich) | Francis Cawich | Belize | 33 |
 | 19 | [amodevinc](https://github.com/amodevinc) | Alain Morris | Belize (UTC−6) · Remote | 27 |
-| 20 | [donaldtmcknight](https://github.com/donaldtmcknight) | Donald T. McKnight | Belize | 23 |
+| 20 | [alexanderrivera96](https://github.com/alexanderrivera96) | AlexRiv007 | Belize City, Belize | 23 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 94
 | 19 | [mmedinajr](https://github.com/mmedinajr) | Manuel Medina Jr | Belmopan City | 7 |
 | 20 | [raycadle](https://github.com/raycadle) | Ray Cadle | Belize, C.A. | 7 |
 
-Generated: 2026-10-17T01:01:28.006Z
+Generated: 2026-10-17T03:03:21.515Z

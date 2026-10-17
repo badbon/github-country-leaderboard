@@ -1,18 +1,18 @@
 # Public Contributions - Equatorial Guinea
 
-Generated: 2026-10-17T01:21:25.696Z
+Generated: 2026-10-17T03:26:39.729Z
 
 Users: 21
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [arongesono12](https://github.com/arongesono12) | Aron Esono Ondo Eyang | @SEGESA | aronesono | Malabo | 257 |
-| 2 | [barsie](https://github.com/barsie) | Sirineo Barila  |  |  | Equatorial Guinea  | 115 |
+| 2 | [barsie](https://github.com/barsie) | Sirineo Barila  |  |  | Equatorial Guinea  | 112 |
 | 3 | [Xenon0001](https://github.com/Xenon0001) | Luis Rafael Eyoma | Xenon.py |  | Bata, Equatorial Guinea | 89 |
 | 4 | [alexis-ngoyi](https://github.com/alexis-ngoyi) | Alexis Ngoyi M. | Qirah | alexisNgoyi | Guinee Equatoriale, Malabo | 49 |
 | 5 | [vicentehmba](https://github.com/vicentehmba) | VIcente Hugo Mba | Deftreach |  | Equatorial Guinea | 38 |
 | 6 | [Soniangomo](https://github.com/Soniangomo) | Sonia NGOMO | CFAO MOBILITY |  | MALABO- EQUATORIAL GUINEA | 27 |
-| 7 | [sersobrenatural](https://github.com/sersobrenatural) | Santiago Gabriel Micha Ndong Obiang | ConocoPhillips |  | Equatorial Guinea  | 16 |
+| 7 | [sersobrenatural](https://github.com/sersobrenatural) | Santiago Gabriel Micha Ndong Obiang | ConocoPhillips |  | Equatorial Guinea  | 15 |
 | 8 | [Nazario95](https://github.com/Nazario95) | Nazario Muanbama |  | NazzaReg | Malabo-EQ | 11 |
 | 9 | [seamuddin](https://github.com/seamuddin) | Seam uddin | Rosa Money SL |  | Malabo, Equatorial guinea | 8 |
 | 10 | [melitonio](https://github.com/melitonio) | Meliton Pablo Mangue Mañana | MAIT |  | Malabo, Guinea Ecuatorial | 5 |

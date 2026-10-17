@@ -1,6 +1,6 @@
 # Followers - Burkina Faso
 
-Generated: 2026-10-17T01:09:01.479Z
+Generated: 2026-10-17T03:11:31.374Z
 
 Users: 486
 
@@ -14,7 +14,7 @@ Users: 486
 | 6 | [adamako](https://github.com/adamako) | Adama KO | Declic |  | Burkina Faso | 107 |
 | 7 | [faso-dev](https://github.com/faso-dev) | Clovis S.J Onadja | Declic Africa | fasodev | Burkina-Faso,Ouagadougou | 104 |
 | 8 | [honokini](https://github.com/honokini) | KINI Biè Honoré | Université Aube Nouvelle (New Dawn University) | HonoreKini | Burkina Faso(Bobo-Dioulasso) | 104 |
-| 9 | [bsrodrigue](https://github.com/bsrodrigue) | Badini Rachid Rodrigue |  |  | Burkina Faso - Ouagadougou | 99 |
+| 9 | [bsrodrigue](https://github.com/bsrodrigue) | Badini Rachid Rodrigue |  |  | Burkina Faso - Ouagadougou | 98 |
 | 10 | [theobosomtwe](https://github.com/theobosomtwe) | Theophilus_Bosomtwe | Theojnana Tech Solution | theobosomtwe | Burkina Faso | 93 |
 | 11 | [spwoodcock](https://github.com/spwoodcock) | Sam | Tech Lead @hotosm |  | Ouagadougou, Burkina Faso | 65 |
 | 12 | [Kidchris](https://github.com/Kidchris) | Kidchris | Passionate Developer | KidChris7 | Ouagadougou, Burkina Faso | 64 |

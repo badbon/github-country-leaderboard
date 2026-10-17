@@ -1,6 +1,6 @@
 # Followers - Cameroon
 
-Generated: 2026-10-17T01:10:54.617Z
+Generated: 2026-10-17T03:13:31.551Z
 
 Users: 1799
 
@@ -10,7 +10,7 @@ Users: 1799
 | 2 | [ln-dev7](https://github.com/ln-dev7) | LN | @mus-inn | ln_dev7 | Cameroon | 1235 |
 | 3 | [chojuninengu](https://github.com/chojuninengu) | JU-NINE NGU CHO | Clemios | chojuninengu | Cameroon | 679 |
 | 4 | [bonzum](https://github.com/bonzum) | Mark legend |  |  | Cameroon | 559 |
-| 5 | [Arielpetit](https://github.com/Arielpetit) | arielpetit | @adorsys |  | cameroon | 506 |
+| 5 | [Arielpetit](https://github.com/Arielpetit) | arielpetit | @adorsys |  | cameroon | 511 |
 | 6 | [djonmaila](https://github.com/djonmaila) | DJONMAILA PYTHAGORE  | @Univ-Douala |  | Cameroon | 494 |
 | 7 | [Nkwenti-Severian-Ndongtsop](https://github.com/Nkwenti-Severian-Ndongtsop) | @Nkwenti @Severian | Adorsys | n_severian | Cameroon, Bangangte | 355 |
 | 8 | [sangafabrice](https://github.com/sangafabrice) | Fabrice Sanga |  |  | Yaoundé, CM | 331 |

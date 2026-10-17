@@ -1,6 +1,6 @@
 # Public Contributions - Faroe Islands
 
-Generated: 2026-10-17T01:25:17.625Z
+Generated: 2026-10-17T03:30:38.175Z
 
 Users: 68
 
@@ -9,7 +9,7 @@ Users: 68
 | 1 | [hoegnason](https://github.com/hoegnason) | Rani Högnason Hansen | Faroese Telecom |  | Tórshavn | 1432 |
 | 2 | [Brian-ED](https://github.com/Brian-ED) | Brian E |  |  | Faroe Islands | 1005 |
 | 3 | [kruseio](https://github.com/kruseio) | Ragnar Kruse |  | kruseio | Faroe Islands | 997 |
-| 4 | [suuunly](https://github.com/suuunly) | Jóhann Østerø | Flowcore, Gaman Games |  | Faroe Islands | 516 |
+| 4 | [suuunly](https://github.com/suuunly) | Jóhann Østerø | Flowcore, Gaman Games |  | Faroe Islands | 509 |
 | 5 | [jbiskur](https://github.com/jbiskur) | Julius á Rógvi Biskopstø |  |  | Faroe Islands | 487 |
 | 6 | [krvi](https://github.com/krvi) |  |  |  | Faroe Islands | 466 |
 | 7 | [ahjohannessen](https://github.com/ahjohannessen) | Alex Henning Johannessen |  | ahjohannessen | Faroe Islands | 286 |
@@ -19,7 +19,7 @@ Users: 68
 | 11 | [Femfus](https://github.com/Femfus) | Molly |  |  | Faroe Islands | 127 |
 | 12 | [Theoistic](https://github.com/Theoistic) | Theodor Solbjorg | Theoistic | Theoistic | Faroe Islands | 122 |
 | 13 | [forkh](https://github.com/forkh) |  |  |  | Føroyar | 112 |
-| 14 | [mashema](https://github.com/mashema) | John Eyðstein Johannesen  |  |  | Faroe Islands | 109 |
+| 14 | [mashema](https://github.com/mashema) | John Eyðstein Johannesen  |  |  | Faroe Islands | 105 |
 | 15 | [samal-rasmussen](https://github.com/samal-rasmussen) | Sámal Rasmussen | @bokin-fo  |  | Tórshavn, Faroe Islands | 102 |
 | 16 | [Rogn](https://github.com/Rogn) | Hallur Holm Johannessen |  |  | Faroe Islands | 94 |
 | 17 | [BergurDavidsen](https://github.com/BergurDavidsen) |  | @flowcore-io |  | Faroe Islands | 90 |

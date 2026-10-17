@@ -1,8 +1,8 @@
 # Followers - Cape Verde
 
-Generated: 2026-10-17T01:10:57.570Z
+Generated: 2026-10-17T03:13:34.129Z
 
-Users: 563
+Users: 562
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

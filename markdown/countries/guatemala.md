@@ -25,13 +25,13 @@ Indexed users: 3,218
 | 11 | [edman-cota](https://github.com/edman-cota) | edmancota | Guatemala | 6,100 |
 | 12 | [Esaban17](https://github.com/Esaban17) | Estuardo Saban | Guatemala | 5,978 |
 | 13 | [FR98](https://github.com/FR98) | Francisco Rosal | Guatemala | 5,671 |
-| 14 | [marcoleejr](https://github.com/marcoleejr) | Marco Lee | Guatemala | 5,506 |
-| 15 | [damianpeaf](https://github.com/damianpeaf) | Damián Peña | Guatemala | 5,493 |
-| 16 | [kenny08gt](https://github.com/kenny08gt) | Alan Hurtarte | Guatemala city, Guatemala | 5,488 |
-| 17 | [jrodas4044](https://github.com/jrodas4044) | Jonhathan Rolando Rodas López | Chimaltenango/Guatemala | 5,446 |
-| 18 | [fcpauldiaz](https://github.com/fcpauldiaz) | Pablo Díaz | Guatemala | 5,250 |
-| 19 | [Mgodoyd](https://github.com/Mgodoyd) | MARIO   GODOY | Guatemala | 4,898 |
-| 20 | [wmsales](https://github.com/wmsales) | Wilson Sales | Guatemala | 4,898 |
+| 14 | [capuche777](https://github.com/capuche777) | Jeremias Enriquez | Guatemala | 5,602 |
+| 15 | [marcoleejr](https://github.com/marcoleejr) | Marco Lee | Guatemala | 5,506 |
+| 16 | [damianpeaf](https://github.com/damianpeaf) | Damián Peña | Guatemala | 5,493 |
+| 17 | [kenny08gt](https://github.com/kenny08gt) | Alan Hurtarte | Guatemala city, Guatemala | 5,488 |
+| 18 | [jrodas4044](https://github.com/jrodas4044) | Jonhathan Rolando Rodas López | Chimaltenango/Guatemala | 5,446 |
+| 19 | [fcpauldiaz](https://github.com/fcpauldiaz) | Pablo Díaz | Guatemala | 5,250 |
+| 20 | [Mgodoyd](https://github.com/Mgodoyd) | MARIO   GODOY | Guatemala | 4,898 |
 
 ## Public Contributions
 
@@ -52,9 +52,9 @@ Indexed users: 3,218
 | 13 | [MaxMald](https://github.com/MaxMald) | Max Maldonado | Guatemala | 1,305 |
 | 14 | [pablo-mald03](https://github.com/pablo-mald03) | Pablo_Maldonado | Guatemala | 1,112 |
 | 15 | [eylles](https://github.com/eylles) |  | Guatemala | 1,067 |
-| 16 | [AlfredoG87](https://github.com/AlfredoG87) | Alfredo Gutierrez | Guatemala | 1,019 |
-| 17 | [GlendyT](https://github.com/GlendyT) | Glendy Tuyuc | Guatemala | 995 |
-| 18 | [robindanilo2218](https://github.com/robindanilo2218) | Robin Gregorio | Guatemala | 929 |
+| 16 | [robindanilo2218](https://github.com/robindanilo2218) | Robin Gregorio | Guatemala | 1,026 |
+| 17 | [AlfredoG87](https://github.com/AlfredoG87) | Alfredo Gutierrez | Guatemala | 1,019 |
+| 18 | [GlendyT](https://github.com/GlendyT) | Glendy Tuyuc | Guatemala | 995 |
 | 19 | [alemanuel18](https://github.com/alemanuel18) | Alejandro Jerez | Guatemala, Guatemala | 899 |
 | 20 | [jherreragt](https://github.com/jherreragt) | Julio Herrera | Guatemala | 885 |
 
@@ -83,4 +83,4 @@ Indexed users: 3,218
 | 19 | [cms](https://github.com/cms) | Christian C. Salvadó | Guatemala | 117 |
 | 20 | [tian2992](https://github.com/tian2992) | Sebastian Oliva | Guatemala | 114 |
 
-Generated: 2026-10-17T01:31:53.989Z
+Generated: 2026-10-17T03:37:00.205Z

@@ -18,10 +18,10 @@ Indexed users: 1,481
 | 4 | [Abubakr-Alsheikh](https://github.com/Abubakr-Alsheikh) | Abubakr Alsheikh | Syria | 4,654 |
 | 5 | [ibrahim4433](https://github.com/ibrahim4433) | Ibrahim Andraws | Syria | 4,647 |
 | 6 | [ali-talal-ibrahem](https://github.com/ali-talal-ibrahem) | Ali Talal Ibrahem | syria | 3,183 |
-| 7 | [amurru](https://github.com/amurru) | Ammar Zerouk | Syria | 3,117 |
-| 8 | [sam-a1a](https://github.com/sam-a1a) | Sam | Damascus, Syrian Arab Republic | 2,916 |
-| 9 | [gaaferHajji2](https://github.com/gaaferHajji2) | Jafar Loka | Damascus - SY | 2,853 |
-| 10 | [AhmedHMWI](https://github.com/AhmedHMWI) | Ahmed hamwi | Damascus | 2,559 |
+| 7 | [AhmedHMWI](https://github.com/AhmedHMWI) | Ahmed hamwi | Damascus | 3,125 |
+| 8 | [amurru](https://github.com/amurru) | Ammar Zerouk | Syria | 3,117 |
+| 9 | [sam-a1a](https://github.com/sam-a1a) | Sam | Damascus, Syrian Arab Republic | 2,916 |
+| 10 | [gaaferHajji2](https://github.com/gaaferHajji2) | Jafar Loka | Damascus - SY | 2,853 |
 | 11 | [alsa7err90](https://github.com/alsa7err90) | abdulnafea | syria | 2,324 |
 | 12 | [eymeen](https://github.com/eymeen) | Ayman Eid | Syria, Turkey | 2,242 |
 | 13 | [rasheed-k-mozaffar](https://github.com/rasheed-k-mozaffar) | Rasheed K Mozaffar | Damascus, Syria | 2,129 |
@@ -71,7 +71,7 @@ Indexed users: 1,481
 | 7 | [simabilony](https://github.com/simabilony) | Sima Bilony | Syria/Aleppo | 175 |
 | 8 | [hassansaker](https://github.com/hassansaker) |  | Damascus | 174 |
 | 9 | [Rabee-Omran](https://github.com/Rabee-Omran) | Rabee Omran | Syria | 155 |
-| 10 | [Yassin522](https://github.com/Yassin522) | Yassin Abdulmahdi | Syria | 148 |
+| 10 | [Yassin522](https://github.com/Yassin522) | Yassin Abdulmahdi | Syria | 149 |
 | 11 | [RakoSY](https://github.com/RakoSY) | Rakthon | Syria | 137 |
 | 12 | [ZeinMoh](https://github.com/ZeinMoh) | Zein | Syria, Latakia | 137 |
 | 13 | [SaleemAdhamKassab](https://github.com/SaleemAdhamKassab) | Saleem Kassab | Damascus | 136 |
@@ -83,4 +83,4 @@ Indexed users: 1,481
 | 19 | [nebrassy](https://github.com/nebrassy) | Nebrassy | Latakia, Syria | 102 |
 | 20 | [zaher](https://github.com/zaher) | Zaher Dirkey | Damascus, Syria | 95 |
 
-Generated: 2026-10-17T00:36:26.685Z
+Generated: 2026-10-17T02:37:45.601Z

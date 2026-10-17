@@ -1,6 +1,6 @@
 # Followers - Syria
 
-Generated: 2026-10-17T00:36:26.685Z
+Generated: 2026-10-17T02:37:45.601Z
 
 Users: 1481
 
@@ -15,7 +15,7 @@ Users: 1481
 | 7 | [simabilony](https://github.com/simabilony) | Sima Bilony |  |  | Syria/Aleppo | 175 |
 | 8 | [hassansaker](https://github.com/hassansaker) |  | SMART ROUTE |  | Damascus | 174 |
 | 9 | [Rabee-Omran](https://github.com/Rabee-Omran) | Rabee Omran |  |  | Syria | 155 |
-| 10 | [Yassin522](https://github.com/Yassin522) | Yassin Abdulmahdi | Damascus University |  | Syria | 148 |
+| 10 | [Yassin522](https://github.com/Yassin522) | Yassin Abdulmahdi | Damascus University |  | Syria | 149 |
 | 11 | [RakoSY](https://github.com/RakoSY) | Rakthon | Rakwan Ali |  | Syria | 137 |
 | 12 | [ZeinMoh](https://github.com/ZeinMoh) | Zein |  |  | Syria, Latakia | 137 |
 | 13 | [SaleemAdhamKassab](https://github.com/SaleemAdhamKassab) | Saleem Kassab | Syriatel Mobile Telecom |  | Damascus | 136 |
