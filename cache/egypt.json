@@ -28808,7 +28808,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-10-02T22:38:58Z"
   },
   {
@@ -28820,7 +28820,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 43,
+    "publicContributions": 39,
     "createdAt": "2025-09-30T11:14:56Z"
   },
   {
@@ -28832,7 +28832,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 5,
     "createdAt": "2025-09-28T17:48:22Z"
   },
   {
@@ -28856,7 +28856,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 3,
     "createdAt": "2025-11-04T23:55:07Z"
   },
   {
@@ -28867,14 +28867,14 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 275,
-    "publicContributions": 515,
+    "privateContributions": 591,
+    "publicContributions": 250,
     "createdAt": "2025-11-22T20:54:36Z"
   },
   {
     "login": "osama-abdelsattar",
     "name": "Osama Abdelsattar",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/242392881?s=72&u=70fd0ba6b83040e311cb681bf2972ff8766fdcb7&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/242392881?s=72&u=d9c2d39351423e1c59f712f3935d8d402ebc3037&v=4",
     "location": "Cairo, Egypt",
     "company": "",
     "twitterUsername": "",
@@ -28892,7 +28892,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 28,
     "createdAt": "2025-11-05T11:27:44Z"
   },
   {
@@ -28916,7 +28916,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 42,
+    "publicContributions": 43,
     "createdAt": "2025-10-31T20:13:38Z"
   },
   {
@@ -28951,8 +28951,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1984,
-    "publicContributions": 563,
+    "privateContributions": 2271,
+    "publicContributions": 1199,
     "createdAt": "2025-11-10T08:30:07Z"
   },
   {
@@ -28976,7 +28976,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 48,
+    "publicContributions": 46,
     "createdAt": "2025-11-24T22:51:54Z"
   },
   {
@@ -29014,18 +29014,6 @@
     "privateContributions": 0,
     "publicContributions": 12,
     "createdAt": "2025-10-19T01:27:25Z"
-  },
-  {
-    "login": "notemannassar",
-    "name": "Eman Nassar",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/237848008?s=72&u=ba26268f02ae2ac0f48e9471b73efb96a5176cad&v=4",
-    "location": "Egypt",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2025-10-13T18:53:07Z"
   },
   {
     "login": "Sherif-Osama-59",

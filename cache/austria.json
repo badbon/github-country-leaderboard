@@ -28808,7 +28808,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2022-07-29T18:11:15Z"
   },
   {
@@ -28867,21 +28867,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 16,
-    "createdAt": "2022-11-07T10:45:10Z"
-  },
-  {
-    "login": "y-ebneddin",
-    "name": "Yahya Ebneddin",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/118657355?s=72&u=de74317b6706960a5dec2bd6c050937b769589d0&v=4",
-    "location": "Austria",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
+    "privateContributions": 11,
     "publicContributions": 0,
-    "createdAt": "2022-11-20T08:27:16Z"
+    "createdAt": "2022-11-07T10:45:10Z"
   },
   {
     "login": "crafter32",
@@ -28916,7 +28904,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2022-11-28T07:38:14Z"
   },
   {
@@ -28962,9 +28950,9 @@
     "location": "Prague, Vienna",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 157,
+    "publicContributions": 116,
     "createdAt": "2022-11-11T07:33:10Z"
   },
   {
@@ -28986,9 +28974,9 @@
     "location": "Austria/Slovenia",
     "company": "@NIB-SI",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 24,
-    "publicContributions": 99,
+    "followers": 9,
+    "privateContributions": 86,
+    "publicContributions": 196,
     "createdAt": "2017-03-07T21:43:03Z"
   },
   {
@@ -28999,7 +28987,7 @@
     "company": "Studo",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 65,
+    "privateContributions": 74,
     "publicContributions": 3,
     "createdAt": "2017-06-28T09:51:01Z"
   },
@@ -29010,9 +28998,9 @@
     "location": "Vienna",
     "company": "",
     "twitterUsername": "",
-    "followers": 350,
-    "privateContributions": 78,
-    "publicContributions": 787,
+    "followers": 490,
+    "privateContributions": 93,
+    "publicContributions": 750,
     "createdAt": "2022-04-15T07:31:38Z"
   },
   {
@@ -29022,9 +29010,9 @@
     "location": "Vienna",
     "company": "Microsoft",
     "twitterUsername": "",
-    "followers": 88,
+    "followers": 94,
     "privateContributions": 0,
-    "publicContributions": 56,
+    "publicContributions": 46,
     "createdAt": "2022-02-13T09:48:08Z"
   },
   {
@@ -29036,7 +29024,7 @@
     "twitterUsername": "",
     "followers": 86,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 6,
     "createdAt": "2022-01-26T14:22:06Z"
   },
   {

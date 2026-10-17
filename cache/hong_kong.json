@@ -28447,8 +28447,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 50,
-    "publicContributions": 29,
+    "privateContributions": 126,
+    "publicContributions": 39,
     "createdAt": "2021-11-19T19:22:32Z"
   },
   {
@@ -28472,7 +28472,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 19,
     "createdAt": "2021-03-13T03:12:20Z"
   },
   {
@@ -28484,7 +28484,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 3,
     "createdAt": "2021-08-19T04:48:49Z"
   },
   {
@@ -28494,7 +28494,7 @@
     "location": "Hong Kong",
     "company": "The Chinese University of Hong Kong",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-08-05T12:59:46Z"
@@ -28531,8 +28531,8 @@
     "company": "The Hong Kong Polytechnic University",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 8,
-    "publicContributions": 41,
+    "privateContributions": 0,
+    "publicContributions": 73,
     "createdAt": "2021-07-27T02:08:02Z"
   },
   {
@@ -28566,8 +28566,8 @@
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 83,
+    "followers": 4,
+    "privateContributions": 72,
     "publicContributions": 18,
     "createdAt": "2021-03-08T11:27:23Z"
   },
@@ -28576,7 +28576,7 @@
     "name": "CHAN Ka Po",
     "avatarUrl": "https://avatars.githubusercontent.com/u/79346628?s=72&u=1a9cd59319a3f62b0ce044beaa5e638dc0f6f3cb&v=4",
     "location": "HONG KONG,CHINA",
-    "company": " Hong Kong Institute of Information Technology",
+    "company": "HONG KONG METROPOLITAN UNIVERSITY",
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
@@ -28602,7 +28602,7 @@
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "natalielpy",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-06-23T02:49:58Z"
@@ -28614,22 +28614,10 @@
     "location": "Hong Kong",
     "company": "none",
     "twitterUsername": "eno",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2021-12-13T20:37:27Z"
-  },
-  {
-    "login": "0xceb1",
-    "name": "Darren Weng",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/96345464?s=72&v=4",
-    "location": "Hong Kong",
-    "company": "University of Chicago",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 172,
-    "publicContributions": 277,
-    "createdAt": "2021-12-18T15:18:42Z"
   },
   {
     "login": "ziancn",
@@ -28640,7 +28628,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 242,
+    "publicContributions": 244,
     "createdAt": "2021-07-12T04:34:10Z"
   },
   {
@@ -28652,7 +28640,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2021-10-09T11:30:36Z"
   },
   {
@@ -28674,9 +28662,9 @@
     "location": "Hong Kong",
     "company": "video rebirth",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 413,
-    "publicContributions": 1,
+    "followers": 1,
+    "privateContributions": 993,
+    "publicContributions": 0,
     "createdAt": "2021-04-16T12:12:10Z"
   },
   {
