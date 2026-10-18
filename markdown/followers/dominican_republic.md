@@ -1,6 +1,6 @@
 # Followers - Dominican Republic
 
-Generated: 2026-10-18T08:58:51.907Z
+Generated: 2026-10-18T12:01:41.625Z
 
 Users: 3299
 
@@ -15,7 +15,7 @@ Users: 3299
 | 7 | [Topdev1234](https://github.com/Topdev1234) | Topdev | Dev Protocol |  | Dominican Republic | 309 |
 | 8 | [Char0394](https://github.com/Char0394) | Charlin Agramonte | @CrossGeeks  | Chard003 | Dominican Republic  | 276 |
 | 9 | [DannyFeliz](https://github.com/DannyFeliz) | Danny Feliz |  | dannyfeliz08 | Santo Domingo, Dominican Republic | 254 |
-| 10 | [KevRojo](https://github.com/KevRojo) | Kevin Rojo | Dulus AI | kevrojo | Dominican Republic | 227 |
+| 10 | [KevRojo](https://github.com/KevRojo) | Kevin Rojo | Dulus AI | kevrojox | Dominican Republic | 227 |
 | 11 | [rdelrosario](https://github.com/rdelrosario) | Rendy Del Rosario | CrossGeeks |  | Dominican Republic | 225 |
 | 12 | [Jadhielv](https://github.com/Jadhielv) | Jadhiel Vélez |  | JadhielV | Dominican Republic | 218 |
 | 13 | [crystalduran](https://github.com/crystalduran) | Crystal D |  |  | Santo Domingo, Dominican Republic | 194 |

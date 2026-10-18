@@ -1,12 +1,12 @@
 # Total Contributions - Somalia
 
-Generated: 2026-10-18T08:24:53.008Z
+Generated: 2026-10-18T11:28:20.356Z
 
 Users: 866
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [abdirahman-sharmarke](https://github.com/abdirahman-sharmarke) | ᵃᵇᵈⁱ | Astaan  |  | Somalia/ Mogdisho | 8979 |
+| 1 | [abdirahman-sharmarke](https://github.com/abdirahman-sharmarke) | ᵃᵇᵈⁱ | Astaan  |  | Somalia/ Mogdisho | 9175 |
 | 2 | [mohaaosman](https://github.com/mohaaosman) | Mohamed Osman |  | moha_a_osman | Mogadishu, Banaadir, Somalia | 8511 |
 | 3 | [hanadderia](https://github.com/hanadderia) | Abdulshakur Ahmed | SOMALI PAYMENT SWITCH (SPS) |  | Mogadishu, Somalia | 7637 |
 | 4 | [baaslaawe](https://github.com/baaslaawe) | Abdalla Hassan Awale | @Adwaar Technologies | baaslaawe | somalia | 7205 |

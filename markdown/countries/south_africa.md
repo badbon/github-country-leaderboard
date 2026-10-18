@@ -1,6 +1,6 @@
 # South Africa
 
-Indexed users: 17,929
+Indexed users: 17,928
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 17,929
 | 19 | [peterp](https://github.com/peterp) | Peter Pistorius | South Africa | 639 |
 | 20 | [mortolian](https://github.com/mortolian) | Gideon Schoonbee | Western Cape, South Africa | 632 |
 
-Generated: 2026-10-18T08:25:27.016Z
+Generated: 2026-10-18T11:28:22.658Z

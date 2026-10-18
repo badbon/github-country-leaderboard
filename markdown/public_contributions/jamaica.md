@@ -1,16 +1,16 @@
 # Public Contributions - Jamaica
 
-Generated: 2026-10-18T09:17:18.392Z
+Generated: 2026-10-18T12:17:02.026Z
 
-Users: 1274
+Users: 1273
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [olusiekwin](https://github.com/olusiekwin) | Gramm | Gramm's Foundation | _olusiekwin | kingston, JM | 8346 |
 | 2 | [kaplanz](https://github.com/kaplanz) | Zakhary Kaplan | @tenstorrent |  | Kingston, ON | 3869 |
 | 3 | [dcblundell](https://github.com/dcblundell) | David Blundell |  |  | Kingston, ON | 2891 |
-| 4 | [shamar-morrison](https://github.com/shamar-morrison) | horizon |  | theavgcoder | Jamaica | 2283 |
-| 5 | [craole-cc](https://github.com/craole-cc) | Craig "Craole' Cole |  |  | Jamaica | 2260 |
+| 4 | [craole-cc](https://github.com/craole-cc) | Craig "Craole' Cole |  |  | Jamaica | 2363 |
+| 5 | [shamar-morrison](https://github.com/shamar-morrison) | horizon |  | theavgcoder | Jamaica | 2283 |
 | 6 | [airpocket-soundman](https://github.com/airpocket-soundman) | airpocket |  | AirpocketRobot | kingston jamaca | 1562 |
 | 7 | [kazo0](https://github.com/kazo0) | Steve Bilogan | @unoplatform | BiloganSteve | Kingston, ON | 1560 |
 | 8 | [OddBloke](https://github.com/OddBloke) | Daniel Watkins |  |  | Kingston, ON | 1499 |

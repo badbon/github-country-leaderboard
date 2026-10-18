@@ -1,6 +1,6 @@
 # Public Contributions - Somalia
 
-Generated: 2026-10-18T08:24:53.008Z
+Generated: 2026-10-18T11:28:20.356Z
 
 Users: 866
 
@@ -17,10 +17,10 @@ Users: 866
 | 9 | [EsraAbdirashid](https://github.com/EsraAbdirashid) | EsraAbdirashid |  |  | mogadishu,somalia | 770 |
 | 10 | [omartood](https://github.com/omartood) | Omar Tood | Instructor & Researcher At @goobolabs | omartoodAIR | Somalia | 769 |
 | 11 | [Joseph-Abdullaah](https://github.com/Joseph-Abdullaah) | Joseph Abdullaahi |  | JosephAbdullaah | somalia | 757 |
-| 12 | [ibrahimmoalim](https://github.com/ibrahimmoalim) | Ibrahim |  |  | Garowe, Somalia | 754 |
+| 12 | [ibrahimmoalim](https://github.com/ibrahimmoalim) | Ibrahim |  |  | Garowe, Somalia | 745 |
 | 13 | [ali-hmed](https://github.com/ali-hmed) | Ali ahmed |  |  | Mogadishu, Somalia | 660 |
-| 14 | [khaledyusuf44](https://github.com/khaledyusuf44) | Khalid Yusuf Dahir |  | khaledyusuf44 | Mogadishu | 615 |
-| 15 | [karimsaabir9](https://github.com/karimsaabir9) | Sabir Salad Hassan |  | karimsaabir9 | Mogadishu-Somalia | 601 |
+| 14 | [karimsaabir9](https://github.com/karimsaabir9) | Sabir Salad Hassan |  | karimsaabir9 | Mogadishu-Somalia | 625 |
+| 15 | [khaledyusuf44](https://github.com/khaledyusuf44) | Khalid Yusuf Dahir |  | khaledyusuf44 | Mogadishu | 615 |
 | 16 | [hayle01](https://github.com/hayle01) |  Mohamed Abdirahim |  |  | Mogadishu, Somalia | 576 |
 | 17 | [mohamedbashirnux](https://github.com/mohamedbashirnux) | Maxamett Bashir |  |  | Mogadishu-Somalia | 563 |
 | 18 | [marshaale](https://github.com/marshaale) |  |  |  | Somalia | 538 |

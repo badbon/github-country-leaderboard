@@ -1,6 +1,6 @@
 # Total Contributions - Bermuda
 
-Generated: 2026-10-18T08:45:26.362Z
+Generated: 2026-10-18T11:50:07.300Z
 
 Users: 898
 
@@ -13,7 +13,7 @@ Users: 898
 | 5 | [marc-pelland](https://github.com/marc-pelland) | Marc Pelland |  |  | Hamilton, ON | 10397 |
 | 6 | [PatrickMcLennan](https://github.com/PatrickMcLennan) | Patrick McLennan | Shopify |  | Hamilton, Ontario | 7704 |
 | 7 | [eimaj](https://github.com/eimaj) | Jamie Allen | @Enflick  |  | Hamilton | 7402 |
-| 8 | [brandonpayton](https://github.com/brandonpayton) | Brandon Payton | @Automattic  |  | Hamilton, Indiana | 7381 |
+| 8 | [brandonpayton](https://github.com/brandonpayton) | Brandon Payton | @Automattic  |  | Hamilton, Indiana | 7383 |
 | 9 | [keithbrink](https://github.com/keithbrink) | Keith Brink |  |  | Hamilton, ON | 6638 |
 | 10 | [danielsdeboer](https://github.com/danielsdeboer) | Daniel S. Deboer | @DeBoerTool  |  | Hamilton, Ontario | 6507 |
 | 11 | [mattgrande](https://github.com/mattgrande) | Matt Grande | @squareup  | mattgrande | Hamilton, Ontario | 6165 |
@@ -22,7 +22,7 @@ Users: 898
 | 14 | [rdaum](https://github.com/rdaum) | Ryan Daum |  |  | Hamilton, Ontario | 5130 |
 | 15 | [dbactual](https://github.com/dbactual) | Dave Berton | https://radixils.com |  | Bermuda | 5041 |
 | 16 | [lbrgriffith](https://github.com/lbrgriffith) | L. B. Ricardo Griffith | Questown L.L.C. |  | Hamilton, Bermuda | 4559 |
-| 17 | [grantlucas](https://github.com/grantlucas) | Grant Lucas | @hostpapa  |  | Hamilton, Ontario | 4359 |
+| 17 | [grantlucas](https://github.com/grantlucas) | Grant Lucas | @hostpapa  |  | Hamilton, Ontario | 4362 |
 | 18 | [izzudin96](https://github.com/izzudin96) | Izzudin Anuar | @initio-insurance |  | Hamilton | 4336 |
 | 19 | [osamaaamer95](https://github.com/osamaaamer95) | Osama Aamer | @fankave  | osamaaamer | Hamilton, NZ | 4315 |
-| 20 | [adriand](https://github.com/adriand) | Adrian Duyzer |  |  | Hamilton, Ontario | 4143 |
+| 20 | [Stieneee](https://github.com/Stieneee) | Tyler Stiene |  | stieneee | Hamilton, Ontario | 4168 |

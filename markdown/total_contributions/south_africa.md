@@ -1,8 +1,8 @@
 # Total Contributions - South Africa
 
-Generated: 2026-10-18T08:25:27.016Z
+Generated: 2026-10-18T11:28:22.658Z
 
-Users: 17929
+Users: 17928
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

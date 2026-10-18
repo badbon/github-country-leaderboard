@@ -1,6 +1,6 @@
 # Total Contributions - Bulgaria
 
-Generated: 2026-10-18T08:48:15.178Z
+Generated: 2026-10-18T11:54:38.132Z
 
 Users: 14073
 
