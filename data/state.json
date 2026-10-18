@@ -216217,20 +216217,20 @@
       "lastDiscoveryAt": "2026-10-18T09:32:06.353Z",
       "lastDiscoveryCompletedAt": "2026-08-16T04:08:53.322Z",
       "discoveryQueuedThrough": "2026-07-17",
-      "lastCacheChangeAt": "2026-10-18T17:23:38.144Z",
+      "lastCacheChangeAt": "2026-10-18T18:38:58.906Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": "2026-10-18T15:35:16.370Z",
       "lastError": null,
       "stats": {
         "searchRequests": 74,
-        "enrichmentRequests": 188,
+        "enrichmentRequests": 189,
         "usersDiscovered": 629,
-        "usersEnriched": 3306,
-        "usersRefreshed": 2677,
+        "usersEnriched": 3326,
+        "usersRefreshed": 2697,
         "usersKept": 443
       },
-      "refreshCursor": 20
+      "refreshCursor": 40
     },
     "singapore": {
       "slug": "singapore",
@@ -217872,7 +217872,7 @@
       "lastError": {
         "message": "Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.",
         "status": null,
-        "at": "2026-10-18T17:24:26.231Z"
+        "at": "2026-10-18T18:39:34.566Z"
       },
       "stats": {
         "searchRequests": 680,
@@ -259950,7 +259950,7 @@
           "kept": 60
         }
       },
-      "lastDiscoveryAt": "2026-10-18T18:26:08.232Z",
+      "lastDiscoveryAt": "2026-10-18T18:38:53.314Z",
       "lastDiscoveryCompletedAt": null,
       "discoveryQueuedThrough": "2026-05-12",
       "lastCacheChangeAt": "2026-10-18T18:01:49.379Z",
@@ -259959,9 +259959,9 @@
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 2596,
+        "searchRequests": 2597,
         "enrichmentRequests": 4845,
-        "usersDiscovered": 208094,
+        "usersDiscovered": 208194,
         "usersEnriched": 94371,
         "usersRefreshed": 0,
         "usersKept": 83032
@@ -259971,14 +259971,6 @@
       "slug": "united_states",
       "status": "discovering",
       "queue": [
-        {
-          "country": "united_states",
-          "term": "los angeles",
-          "kind": "city",
-          "createdStart": "2018-06-30",
-          "createdEnd": "2018-12-28",
-          "page": 10
-        },
         {
           "country": "united_states",
           "term": "new york",
@@ -262665,23 +262657,28 @@
           "completedAt": "2026-10-18T16:10:02.459Z",
           "total": 977,
           "kept": 77
+        },
+        "united_states|city|los angeles|2018-06-30|2018-12-28||": {
+          "completedAt": "2026-10-18T18:39:04.876Z",
+          "total": 933,
+          "kept": 33
         }
       },
-      "lastDiscoveryAt": "2026-10-18T18:26:26.748Z",
+      "lastDiscoveryAt": "2026-10-18T18:39:04.876Z",
       "lastDiscoveryCompletedAt": null,
       "discoveryQueuedThrough": "2026-05-12",
-      "lastCacheChangeAt": "2026-10-18T18:26:26.748Z",
+      "lastCacheChangeAt": "2026-10-18T18:39:04.876Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 2596,
-        "enrichmentRequests": 7571,
-        "usersDiscovered": 230038,
-        "usersEnriched": 148673,
+        "searchRequests": 2597,
+        "enrichmentRequests": 7573,
+        "usersDiscovered": 230071,
+        "usersEnriched": 148706,
         "usersRefreshed": 0,
-        "usersKept": 135763
+        "usersKept": 135796
       }
     },
     "united_states_minor_outlying_islands": {
@@ -275774,18 +275771,18 @@
       "refreshCursor": 1100
     }
   },
-  "nextCountryIndex": 209,
+  "nextCountryIndex": 235,
   "nextDeltaCountryIndex": 121,
-  "nextRefreshCountryIndex": 198,
+  "nextRefreshCountryIndex": 200,
   "nextRediscoveryCountryIndex": 0,
-  "lastRunStartedAt": "2026-10-18T18:11:43.315Z",
-  "lastRunFinishedAt": "2026-10-18T18:37:24.029Z",
+  "lastRunStartedAt": "2026-10-18T18:38:13.172Z",
+  "lastRunFinishedAt": "2026-10-18T18:39:34.623Z",
   "stats": {
-    "searchRequests": 82334,
-    "enrichmentRequests": 219688,
-    "usersDiscovered": 5311933,
-    "usersEnriched": 4155211,
-    "usersRefreshed": 569619,
-    "usersKept": 2682192
+    "searchRequests": 82336,
+    "enrichmentRequests": 219691,
+    "usersDiscovered": 5312066,
+    "usersEnriched": 4155264,
+    "usersRefreshed": 569639,
+    "usersKept": 2682225
   }
 }
