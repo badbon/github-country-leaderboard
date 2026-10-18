@@ -31194,7 +31194,7 @@
     "location": "Switzerland",
     "company": "Komax AG",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-09-19T09:20:25Z"
@@ -31206,9 +31206,9 @@
     "location": "Zurich, Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 72,
-    "publicContributions": 70,
+    "followers": 9,
+    "privateContributions": 121,
+    "publicContributions": 69,
     "createdAt": "2022-11-21T15:51:55Z"
   },
   {
@@ -31219,8 +31219,8 @@
     "company": "EPFL",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 139,
-    "publicContributions": 56,
+    "privateContributions": 121,
+    "publicContributions": 55,
     "createdAt": "2022-10-31T11:45:46Z"
   },
   {
@@ -31242,7 +31242,7 @@
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-09-07T09:26:12Z"
@@ -31266,9 +31266,9 @@
     "location": "Switzerland",
     "company": "the-i-need-a-job-company",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 8,
-    "publicContributions": 44,
+    "followers": 8,
+    "privateContributions": 302,
+    "publicContributions": 96,
     "createdAt": "2022-09-29T09:32:28Z"
   },
   {
@@ -31280,7 +31280,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 184,
+    "publicContributions": 370,
     "createdAt": "2022-11-30T11:12:08Z"
   },
   {
@@ -31314,9 +31314,9 @@
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "ThatCrazyDcGuy",
-    "followers": 7,
+    "followers": 50,
     "privateContributions": 0,
-    "publicContributions": 591,
+    "publicContributions": 745,
     "createdAt": "2022-09-11T02:56:29Z"
   },
   {
@@ -31326,9 +31326,9 @@
     "location": "Bern, Switzerland",
     "company": "Bundesamt für Bauten und Logistik",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 4556,
+    "publicContributions": 4208,
     "createdAt": "2022-10-18T19:11:44Z"
   },
   {
@@ -31338,7 +31338,7 @@
     "location": "Zurich, Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2022-06-30T11:08:12Z"
@@ -31350,9 +31350,9 @@
     "location": "Switzerland ",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 1,
-    "publicContributions": 305,
+    "publicContributions": 248,
     "createdAt": "2022-09-28T06:44:40Z"
   },
   {
@@ -31362,7 +31362,7 @@
     "location": "Bern, Switzerland",
     "company": "Stivio",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 5,
     "createdAt": "2022-10-26T07:53:33Z"
@@ -31374,9 +31374,9 @@
     "location": "Switzerland",
     "company": "Thurgauer Kantonalbank",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 692,
-    "publicContributions": 755,
+    "followers": 11,
+    "privateContributions": 773,
+    "publicContributions": 707,
     "createdAt": "2022-10-19T11:18:50Z"
   },
   {
@@ -31399,7 +31399,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 183,
+    "privateContributions": 62,
     "publicContributions": 11,
     "createdAt": "2022-08-14T11:08:02Z"
   },
@@ -31408,24 +31408,12 @@
     "name": "Darkroom4364",
     "avatarUrl": "https://avatars.githubusercontent.com/u/119725387?s=72&u=c37606a0c45adc8e63aaeac05760039b0ed1f6b0&v=4",
     "location": "Switzerland",
-    "company": "",
+    "company": "Migros-Genossenschafts-Bund",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 1868,
-    "publicContributions": 2736,
+    "followers": 11,
+    "privateContributions": 1947,
+    "publicContributions": 2848,
     "createdAt": "2022-12-03T07:13:59Z"
-  },
-  {
-    "login": "pardonhacim",
-    "name": "Yusuf Kemal",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/108555066?s=72&u=5dc076e938e15e6b2b6b3e1fd82d75632865c465&v=4",
-    "location": "Switzerland",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2022-07-01T22:11:28Z"
   },
   {
     "login": "battlej07",

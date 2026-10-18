@@ -31664,7 +31664,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 4,
     "createdAt": "2022-11-03T16:12:57Z"
   },
   {
@@ -31692,18 +31692,6 @@
     "createdAt": "2022-10-03T02:14:06Z"
   },
   {
-    "login": "JurajkoDS",
-    "name": "Juraj Simkovic",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/121245511?s=72&u=ecf5c0af6c2e8ff508240573f5f77b3a701b01a4&v=4",
-    "location": "Vienna",
-    "company": "TU Wien",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 66,
-    "createdAt": "2022-12-22T15:21:47Z"
-  },
-  {
     "login": "neofelis2X",
     "name": "Neofelis",
     "avatarUrl": "https://avatars.githubusercontent.com/u/118119547?s=72&u=7629029f3bb4f004e7b6458bdcc215291ab374a0&v=4",
@@ -31711,8 +31699,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 239,
-    "publicContributions": 22,
+    "privateContributions": 206,
+    "publicContributions": 24,
     "createdAt": "2022-11-13T15:03:24Z"
   },
   {
@@ -31748,7 +31736,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 187,
+    "publicContributions": 202,
     "createdAt": "2022-12-14T20:29:02Z"
   },
   {
@@ -31760,7 +31748,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 33,
+    "publicContributions": 35,
     "createdAt": "2022-03-30T14:41:22Z"
   },
   {
@@ -31772,7 +31760,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2022-08-25T13:10:11Z"
   },
   {
@@ -31820,7 +31808,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 33,
+    "publicContributions": 28,
     "createdAt": "2022-10-13T09:59:39Z"
   },
   {
@@ -31832,20 +31820,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 28,
     "createdAt": "2022-07-13T22:14:31Z"
-  },
-  {
-    "login": "ChrisKununu",
-    "name": "Christoph Haushofer",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/99737548?s=72&u=0264b5de309e2766771b70caa211238fd2fa79c7&v=4",
-    "location": "vienna",
-    "company": "kununu",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 428,
-    "publicContributions": 10,
-    "createdAt": "2022-02-15T13:26:00Z"
   },
   {
     "login": "Koala0CE",

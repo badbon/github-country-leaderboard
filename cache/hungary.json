@@ -31363,21 +31363,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 16,
+    "privateContributions": 40,
     "publicContributions": 21,
     "createdAt": "2020-07-28T13:03:37Z"
-  },
-  {
-    "login": "mazamaka",
-    "name": "Maksym Babenko",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/69447976?s=72&v=4",
-    "location": "Budapest, Hungary 🇭🇺 (from Kyiv, Ukraine 🇺🇦)",
-    "company": "Traffic Devils",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 3982,
-    "publicContributions": 753,
-    "createdAt": "2020-08-10T05:06:38Z"
   },
   {
     "login": "gydoma",
@@ -31387,21 +31375,9 @@
     "company": "Chromium Network",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 62,
+    "privateContributions": 50,
     "publicContributions": 22,
     "createdAt": "2020-05-20T22:29:03Z"
-  },
-  {
-    "login": "Oyunbldd",
-    "name": "Oyunbldd",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/64143281?s=72&u=09f028b19d6d8c16d8c2c49d1958f6e308f74d10&v=4",
-    "location": "Hungary, Budapest",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 113,
-    "createdAt": "2020-04-22T12:34:06Z"
   },
   {
     "login": "ak91hu",
@@ -31412,7 +31388,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 187,
+    "publicContributions": 283,
     "createdAt": "2020-12-10T16:30:31Z"
   },
   {
@@ -31446,9 +31422,9 @@
     "location": "Hungary",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 321,
-    "publicContributions": 87,
+    "followers": 5,
+    "privateContributions": 336,
+    "publicContributions": 71,
     "createdAt": "2020-08-25T11:46:12Z"
   },
   {
@@ -31458,9 +31434,9 @@
     "location": "Hungary",
     "company": "@Horribili-kft ",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 30,
-    "publicContributions": 98,
+    "followers": 7,
+    "privateContributions": 16,
+    "publicContributions": 95,
     "createdAt": "2020-09-08T11:43:11Z"
   },
   {
@@ -31496,7 +31472,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 117,
+    "publicContributions": 14,
     "createdAt": "2020-12-10T11:07:31Z"
   },
   {
@@ -31507,8 +31483,8 @@
     "company": "Bitrise",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 1502,
-    "publicContributions": 100,
+    "privateContributions": 1348,
+    "publicContributions": 90,
     "createdAt": "2020-11-09T11:12:27Z"
   },
   {
@@ -31518,9 +31494,9 @@
     "location": "Hungary",
     "company": "SZTAKI",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 7,
-    "publicContributions": 98,
+    "followers": 5,
+    "privateContributions": 8,
+    "publicContributions": 118,
     "createdAt": "2020-10-18T21:22:44Z"
   },
   {
@@ -31549,13 +31525,13 @@
   },
   {
     "login": "Lamaaar",
-    "name": "Áron Kokas",
+    "name": "",
     "avatarUrl": "https://avatars.githubusercontent.com/u/64546635?s=72&u=283f9940e2ddb95514cf00d2e56b8c29ea136881&v=4",
     "location": "Budapest, Hungary",
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 275,
+    "privateContributions": 656,
     "publicContributions": 3,
     "createdAt": "2020-04-29T16:02:56Z"
   },
@@ -31567,7 +31543,7 @@
     "company": "Inter-CAD Kft.",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 109,
+    "privateContributions": 99,
     "publicContributions": 1,
     "createdAt": "2020-01-13T21:38:33Z"
   },
@@ -31591,8 +31567,8 @@
     "company": "Europe / Hungary / Budapest / Yext",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 1375,
-    "publicContributions": 1,
+    "privateContributions": 1198,
+    "publicContributions": 4,
     "createdAt": "2020-08-02T10:03:25Z"
   },
   {

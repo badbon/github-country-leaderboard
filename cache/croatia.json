@@ -31832,7 +31832,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 224,
+    "publicContributions": 256,
     "createdAt": "2017-04-23T19:19:51Z"
   },
   {
@@ -31866,20 +31866,20 @@
     "location": "Zagreb, Croatia",
     "company": "Faculty of Electrical Engineering and Computing",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2017-03-13T20:06:21Z"
   },
   {
     "login": "Friizbac",
-    "name": "Luka Petek",
+    "name": "",
     "avatarUrl": "https://avatars.githubusercontent.com/u/26548069?s=72&u=a4547e54cbae829992b9bf1e8fa6afc8ca25c06d&v=4",
     "location": "Croatia",
     "company": "Storenest d.o.o.",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 1810,
+    "privateContributions": 2004,
     "publicContributions": 0,
     "createdAt": "2017-03-20T15:02:05Z"
   },
@@ -31903,8 +31903,8 @@
     "company": "Dot Lambda",
     "twitterUsername": "ivan_brko",
     "followers": 3,
-    "privateContributions": 4088,
-    "publicContributions": 411,
+    "privateContributions": 6186,
+    "publicContributions": 467,
     "createdAt": "2017-01-27T16:30:21Z"
   },
   {
@@ -31916,7 +31916,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 94,
+    "publicContributions": 3,
     "createdAt": "2017-06-24T07:32:58Z"
   },
   {
@@ -31951,8 +31951,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 5,
+    "privateContributions": 170,
+    "publicContributions": 16,
     "createdAt": "2017-10-05T19:42:07Z"
   },
   {
@@ -31963,8 +31963,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 118,
-    "publicContributions": 264,
+    "privateContributions": 586,
+    "publicContributions": 123,
     "createdAt": "2017-10-17T08:50:02Z"
   },
   {
@@ -31976,7 +31976,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2017-09-15T07:16:29Z"
   },
   {
@@ -32046,7 +32046,7 @@
     "location": "Zagreb, Croatia",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2017-11-28T17:01:37Z"
@@ -32056,11 +32056,11 @@
     "name": "Juraj Velimirović",
     "avatarUrl": "https://avatars.githubusercontent.com/u/29841068?s=72&u=56502a3baac27020812751c6eefcd3eac559d250&v=4",
     "location": "Zagreb, Croatia",
-    "company": "Ars Futura",
+    "company": "",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 25,
     "createdAt": "2017-07-02T17:19:15Z"
   },
   {
