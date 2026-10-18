@@ -50,7 +50,7 @@ Indexed users: 1,784
 | 11 | [ggonzalez94](https://github.com/ggonzalez94) | Gustavo Gonzalez | Santa Cruz de la SIerra, Bolivia | 1,399 |
 | 12 | [pachonjcl](https://github.com/pachonjcl) | Jose Carlos Laura Ramirez | La Paz, Bolivia | 1,267 |
 | 13 | [asosab](https://github.com/asosab) | Alejandro Sosa Briceño | Bolivia | 1,225 |
-| 14 | [jhersON1](https://github.com/jhersON1) | Jherson Rodriguez | Bolivia | 1,225 |
+| 14 | [jhersON1](https://github.com/jhersON1) | Jherson Rodriguez | Bolivia | 1,212 |
 | 15 | [alphaonex86](https://github.com/alphaonex86) | BRULE Herman Jacques Roger | Santa cruz de la sierra, Bolivia | 1,199 |
 | 16 | [Lotiel-Dev](https://github.com/Lotiel-Dev) | Carlos Antonio Gutierrez Copara | Bolivia | 1,193 |
 | 17 | [igidio](https://github.com/igidio) | Salvador Cáceres C. | Bolivia | 1,147 |
@@ -83,4 +83,4 @@ Indexed users: 1,784
 | 19 | [alvarosiles11](https://github.com/alvarosiles11) | Alvaro Siles Estrada | Bolivia | 121 |
 | 20 | [mauforonda](https://github.com/mauforonda) | Mau Foronda | Bolivia | 120 |
 
-Generated: 2026-10-18T11:50:50.282Z
+Generated: 2026-10-18T13:09:42.203Z

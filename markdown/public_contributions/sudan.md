@@ -1,6 +1,6 @@
 # Public Contributions - Sudan
 
-Generated: 2026-10-18T11:30:02.665Z
+Generated: 2026-10-18T12:47:40.867Z
 
 Users: 727
 
@@ -14,10 +14,10 @@ Users: 727
 | 6 | [adonese](https://github.com/adonese) | Mohamed Yousif | EEBAX | _adonese | Sudan, Khartoum | 812 |
 | 7 | [sherif414](https://github.com/sherif414) | shareef | @undefined |  | Sudan | 784 |
 | 8 | [saifeldinkhedir-coder](https://github.com/saifeldinkhedir-coder) | Seifeldin M G Alkhedir | University of Khartoum |  |  Sudan | 691 |
-| 9 | [mohamedkam000](https://github.com/mohamedkam000) | Muhammad Kamal |  |  | Sudan | 551 |
+| 9 | [mohamedkam000](https://github.com/mohamedkam000) | Muhammad Kamal |  |  | Sudan | 536 |
 | 10 | [kabaros](https://github.com/kabaros) | Mozafar | nyala.dev |  | Khartoum / Glasgow | 535 |
 | 11 | [Wadamzmail](https://github.com/Wadamzmail) | MutwakilX |  |  | El-Obeid/Sudan | 479 |
-| 12 | [breezyx28](https://github.com/breezyx28) | Mohamed Ahmed (Kat) | ScriptHouse | breezyx28 | Omdurman, Khartoum, Sudan | 416 |
+| 12 | [breezyx28](https://github.com/breezyx28) | Mohamed Ahmed (Kat) | ScriptHouse | breezyx28 | Omdurman, Khartoum, Sudan | 414 |
 | 13 | [AminElhag](https://github.com/AminElhag) | Amin Elhag |  |  | Khartoum,Sudan | 398 |
 | 14 | [Ah-m-ed-Dev](https://github.com/Ah-m-ed-Dev) | Ahmed_khalil | DevSeed |  | sudan | 397 |
 | 15 | [249f](https://github.com/249f) | ALi Abdellatif |  |  | Omdurman Khartoum - Sudan | 382 |

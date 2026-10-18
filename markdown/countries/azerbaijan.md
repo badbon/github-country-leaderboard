@@ -19,12 +19,12 @@ Indexed users: 5,065
 | 5 | [RavanGuliyeff](https://github.com/RavanGuliyeff) | Ravan Guliyev | Baku | 8,410 |
 | 6 | [BaxtiyarMammadyarov](https://github.com/BaxtiyarMammadyarov) | Baxtiyar Mammadyarov | Azerbaijan, Baku | 8,065 |
 | 7 | [SuleimanHajizadeh](https://github.com/SuleimanHajizadeh) | Suleiman Hajizadeh | Azerbaijan, Baku | 7,588 |
-| 8 | [eynullabeyli](https://github.com/eynullabeyli) | Yusif Eynullabayli | Baku | 7,278 |
-| 9 | [Rizayev](https://github.com/Rizayev) | Elsevar | Azerbaijan | 7,074 |
-| 10 | [Orik-dev](https://github.com/Orik-dev) | Orkhan Guseynov | Baku | 6,349 |
-| 11 | [zaursharifov](https://github.com/zaursharifov) | Zaur Sharifov | Baku, Azerbaijan | 6,319 |
-| 12 | [ogtayhuseynov0](https://github.com/ogtayhuseynov0) | Ogtay Huseynov | Azerbaijan | 6,223 |
-| 13 | [zhmdff](https://github.com/zhmdff) | Mahmud Ahmadov | Azerbaijan | 6,056 |
+| 8 | [zhmdff](https://github.com/zhmdff) | Mahmud Ahmadov | Azerbaijan | 7,565 |
+| 9 | [eynullabeyli](https://github.com/eynullabeyli) | Yusif Eynullabayli | Baku | 7,278 |
+| 10 | [Rizayev](https://github.com/Rizayev) | Elsevar | Azerbaijan | 7,074 |
+| 11 | [Orik-dev](https://github.com/Orik-dev) | Orkhan Guseynov | Baku | 6,349 |
+| 12 | [zaursharifov](https://github.com/zaursharifov) | Zaur Sharifov | Baku, Azerbaijan | 6,319 |
+| 13 | [ogtayhuseynov0](https://github.com/ogtayhuseynov0) | Ogtay Huseynov | Azerbaijan | 6,223 |
 | 14 | [kerimovok](https://github.com/kerimovok) | Orkhan Karimov | Baku, Azerbaijan | 5,607 |
 | 15 | [samirmhsnv](https://github.com/samirmhsnv) | Samir Mammadhasanov | Baku, Azerbaijan | 5,599 |
 | 16 | [OrkhanAbbasli](https://github.com/OrkhanAbbasli) | Orkhan Abbasli | Baku,Azerbaijan | 5,281 |
@@ -83,4 +83,4 @@ Indexed users: 5,065
 | 19 | [Jeyhun1227](https://github.com/Jeyhun1227) | Jeyhun Malikli | Baku | 253 |
 | 20 | [husniababaeva](https://github.com/husniababaeva) | Husniyya Babayeva | Azerbaijan,Baku | 252 |
 
-Generated: 2026-10-18T11:46:45.762Z
+Generated: 2026-10-18T13:07:03.703Z

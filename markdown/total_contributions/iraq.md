@@ -1,6 +1,6 @@
 # Total Contributions - Iraq
 
-Generated: 2026-10-18T12:14:39.316Z
+Generated: 2026-10-18T13:33:05.644Z
 
 Users: 2234
 
@@ -10,7 +10,7 @@ Users: 2234
 | 2 | [Alifaleh](https://github.com/Alifaleh) | Ali Faleh | Freelancer |  | Baghdad / Iraq | 19083 |
 | 3 | [RekarBotany](https://github.com/RekarBotany) | Rekar Botany | Lezzoo Inc. | Rekar_Botany | Iraq, Erbil | 10149 |
 | 4 | [Mo7amedSMahdi](https://github.com/Mo7amedSMahdi) | Mohammed Salah Mahdi | Full-Stack Developer | devMo7amed | Iraq,Najaf | 10000 |
-| 5 | [araaso-dev](https://github.com/araaso-dev) | Ara Aso |  |  | Iraq | 9000 |
+| 5 | [araaso-dev](https://github.com/araaso-dev) | Ara Aso |  |  | Iraq | 8938 |
 | 6 | [MujtabaFR](https://github.com/MujtabaFR) | Mujtaba Fadhil | Capsula | MujtabaFR | Iraq, Najaf | 8822 |
 | 7 | [SamadZuhair](https://github.com/SamadZuhair) | Abdulsamad Zuhair | Independent ~ Bregeoff | SamadZuhairdev | Erbil, Iraq | 8799 |
 | 8 | [alialnaimi1](https://github.com/alialnaimi1) | Ali Mohammed |  |  | Iraq | 8037 |

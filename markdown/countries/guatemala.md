@@ -13,21 +13,21 @@ Indexed users: 3,215
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [Lewatoto](https://github.com/Lewatoto) | Gerson Alvarado | Guatemala | 15,012 |
-| 2 | [daviddevsoftware](https://github.com/daviddevsoftware) | David | Guatemala | 10,767 |
-| 3 | [oscarleonapp](https://github.com/oscarleonapp) | Oscar León | Guatemala | 9,523 |
-| 4 | [anndreloopez012](https://github.com/anndreloopez012) | Andre Lopez | Guatemala | 9,213 |
-| 5 | [kenny08gt](https://github.com/kenny08gt) | Alan Hurtarte | Guatemala city, Guatemala | 9,198 |
-| 6 | [DubAvenXP](https://github.com/DubAvenXP) | Alejandro Dubon | Guatemala | 8,675 |
-| 7 | [ehvidalp](https://github.com/ehvidalp) | Edward Vidal | Guatemala | 7,824 |
-| 8 | [alexmeji](https://github.com/alexmeji) | Alex Mejicanos | Guatemala | 7,422 |
-| 9 | [Charlisim](https://github.com/Charlisim) | Carlos Simon | Guatemala | 6,785 |
-| 10 | [GeorgeLBS1](https://github.com/GeorgeLBS1) | Jose Jorge Díaz | Guatemala | 6,725 |
-| 11 | [RudiksChess](https://github.com/RudiksChess) | Rudik Rompich | Guatemala City | 6,673 |
-| 12 | [edman-cota](https://github.com/edman-cota) | edmancota | Guatemala | 6,100 |
-| 13 | [Esaban17](https://github.com/Esaban17) | Estuardo Saban | Guatemala | 5,978 |
-| 14 | [FR98](https://github.com/FR98) | Francisco Rosal | Guatemala | 5,671 |
-| 15 | [capuche777](https://github.com/capuche777) | Jeremias Enriquez | Guatemala | 5,602 |
-| 16 | [marcoleejr](https://github.com/marcoleejr) | Marco Lee | Guatemala | 5,506 |
+| 2 | [marcoleejr](https://github.com/marcoleejr) | Marco Lee | Guatemala | 11,204 |
+| 3 | [daviddevsoftware](https://github.com/daviddevsoftware) | David | Guatemala | 10,767 |
+| 4 | [oscarleonapp](https://github.com/oscarleonapp) | Oscar León | Guatemala | 9,523 |
+| 5 | [anndreloopez012](https://github.com/anndreloopez012) | Andre Lopez | Guatemala | 9,213 |
+| 6 | [kenny08gt](https://github.com/kenny08gt) | Alan Hurtarte | Guatemala city, Guatemala | 9,198 |
+| 7 | [DubAvenXP](https://github.com/DubAvenXP) | Alejandro Dubon | Guatemala | 8,675 |
+| 8 | [ehvidalp](https://github.com/ehvidalp) | Edward Vidal | Guatemala | 7,824 |
+| 9 | [alexmeji](https://github.com/alexmeji) | Alex Mejicanos | Guatemala | 7,422 |
+| 10 | [Charlisim](https://github.com/Charlisim) | Carlos Simon | Guatemala | 6,785 |
+| 11 | [GeorgeLBS1](https://github.com/GeorgeLBS1) | Jose Jorge Díaz | Guatemala | 6,725 |
+| 12 | [RudiksChess](https://github.com/RudiksChess) | Rudik Rompich | Guatemala City | 6,673 |
+| 13 | [edman-cota](https://github.com/edman-cota) | edmancota | Guatemala | 6,100 |
+| 14 | [Esaban17](https://github.com/Esaban17) | Estuardo Saban | Guatemala | 5,978 |
+| 15 | [FR98](https://github.com/FR98) | Francisco Rosal | Guatemala | 5,671 |
+| 16 | [capuche777](https://github.com/capuche777) | Jeremias Enriquez | Guatemala | 5,602 |
 | 17 | [damianpeaf](https://github.com/damianpeaf) | Damián Peña | Guatemala | 5,493 |
 | 18 | [jrodas4044](https://github.com/jrodas4044) | Jonhathan Rolando Rodas López | Chimaltenango/Guatemala | 5,446 |
 | 19 | [fcpauldiaz](https://github.com/fcpauldiaz) | Pablo Díaz | Guatemala | 5,250 |
@@ -83,4 +83,4 @@ Indexed users: 3,215
 | 19 | [cms](https://github.com/cms) | Christian C. Salvadó | Guatemala | 117 |
 | 20 | [tian2992](https://github.com/tian2992) | Sebastian Oliva | Guatemala | 114 |
 
-Generated: 2026-10-18T12:09:54.934Z
+Generated: 2026-10-18T13:28:45.255Z

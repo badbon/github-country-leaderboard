@@ -12,10 +12,10 @@ Indexed users: 325
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [SMani0547](https://github.com/SMani0547) | Shiva Mani Goundar | Nadi, Fiji | 3,022 |
+| 1 | [SMani0547](https://github.com/SMani0547) | Shiva Mani Goundar | Nadi, Fiji | 3,021 |
 | 2 | [Shoneel](https://github.com/Shoneel) |  | Fiji, Suva  | 1,555 |
 | 3 | [Amdeo](https://github.com/Amdeo) | Cooper | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1,441 |
-| 4 | [felix-davui-679](https://github.com/felix-davui-679) | Filimone Davui | Fiji | 1,368 |
+| 4 | [felix-davui-679](https://github.com/felix-davui-679) | Filimone Davui | Fiji | 1,381 |
 | 5 | [krishneelkamalsingh](https://github.com/krishneelkamalsingh) | Krish | Fiji | 1,187 |
 | 6 | [crazybanboo](https://github.com/crazybanboo) | Ethan | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1,084 |
 | 7 | [jaclla](https://github.com/jaclla) | Logic | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1,031 |
@@ -29,7 +29,7 @@ Indexed users: 325
 | 15 | [SRVSRR](https://github.com/SRVSRR) | Rohan Nandan | Fiji | 526 |
 | 16 | [2-fly-4-ai](https://github.com/2-fly-4-ai) | Brian farley | Suva | 503 |
 | 17 | [kunz398](https://github.com/kunz398) | Kunal Singh | Fiji | 494 |
-| 18 | [aryann-7](https://github.com/aryann-7) | Aryan Singh | Suva, Fiji | 436 |
+| 18 | [aryann-7](https://github.com/aryann-7) | Aryan Singh | Suva, Fiji | 437 |
 | 19 | [vikichand](https://github.com/vikichand) | Vikash Chand | Fiji | 433 |
 | 20 | [Amanimal](https://github.com/Amanimal) | Abhishek Swamy | Fiji | 399 |
 
@@ -41,14 +41,14 @@ Indexed users: 325
 | 2 | [anav5704](https://github.com/anav5704) | Anav Chand | Fiji | 564 |
 | 3 | [2-fly-4-ai](https://github.com/2-fly-4-ai) | Brian farley | Suva | 503 |
 | 4 | [kishkumar96](https://github.com/kishkumar96) | Kishan Chimman Kumar | Suva | 462 |
-| 5 | [SMani0547](https://github.com/SMani0547) | Shiva Mani Goundar | Nadi, Fiji | 396 |
+| 5 | [SMani0547](https://github.com/SMani0547) | Shiva Mani Goundar | Nadi, Fiji | 427 |
 | 6 | [alexwoo79](https://github.com/alexwoo79) | Alex_Woo | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 307 |
 | 7 | [aryann-7](https://github.com/aryann-7) | Aryan Singh | Suva, Fiji | 283 |
 | 8 | [SRVSRR](https://github.com/SRVSRR) | Rohan Nandan | Fiji | 261 |
 | 9 | [codeshareman](https://github.com/codeshareman) | Z° North | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 244 |
-| 10 | [grey0758](https://github.com/grey0758) | 徐业辉 | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 216 |
-| 11 | [rudrprasad05](https://github.com/rudrprasad05) | Rudr Prasad | Fiji | 205 |
-| 12 | [Lagilava](https://github.com/Lagilava) | Lagilava Paulo | Fiji | 203 |
+| 10 | [Lagilava](https://github.com/Lagilava) | Lagilava Paulo | Fiji | 218 |
+| 11 | [grey0758](https://github.com/grey0758) | 徐业辉 | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 216 |
+| 12 | [rudrprasad05](https://github.com/rudrprasad05) | Rudr Prasad | Fiji | 205 |
 | 13 | [Geekmaxxer](https://github.com/Geekmaxxer) | Pew | Fiji | 196 |
 | 14 | [kunz398](https://github.com/kunz398) | Kunal Singh | Fiji | 166 |
 | 15 | [LangfordKuo](https://github.com/LangfordKuo) | Langford | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 150 |
@@ -79,8 +79,8 @@ Indexed users: 325
 | 15 | [kunz398](https://github.com/kunz398) | Kunal Singh | Fiji | 24 |
 | 16 | [anuraag165](https://github.com/anuraag165) | Anuraag Raj | Suva, Fiji | 22 |
 | 17 | [rudrprasad05](https://github.com/rudrprasad05) | Rudr Prasad | Fiji | 22 |
-| 18 | [SMani0547](https://github.com/SMani0547) | Shiva Mani Goundar | Nadi, Fiji | 22 |
-| 19 | [phpoh](https://github.com/phpoh) | phpoh | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 21 |
+| 18 | [phpoh](https://github.com/phpoh) | phpoh | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 21 |
+| 19 | [SMani0547](https://github.com/SMani0547) | Shiva Mani Goundar | Nadi, Fiji | 21 |
 | 20 | [aryann-7](https://github.com/aryann-7) | Aryan Singh | Suva, Fiji | 19 |
 
-Generated: 2026-10-18T12:05:22.041Z
+Generated: 2026-10-18T13:24:36.087Z

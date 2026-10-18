@@ -1,6 +1,6 @@
 # Total Contributions - Azerbaijan
 
-Generated: 2026-10-18T11:46:45.762Z
+Generated: 2026-10-18T13:07:03.703Z
 
 Users: 5065
 
@@ -13,12 +13,12 @@ Users: 5065
 | 5 | [RavanGuliyeff](https://github.com/RavanGuliyeff) | Ravan Guliyev |  |  | Baku | 8410 |
 | 6 | [BaxtiyarMammadyarov](https://github.com/BaxtiyarMammadyarov) | Baxtiyar Mammadyarov | Chevveek LLC |  | Azerbaijan, Baku | 8065 |
 | 7 | [SuleimanHajizadeh](https://github.com/SuleimanHajizadeh) | Suleiman Hajizadeh | Western Caspian University  |  | Azerbaijan, Baku | 7588 |
-| 8 | [eynullabeyli](https://github.com/eynullabeyli) | Yusif Eynullabayli | Earth | steprider0 | Baku | 7278 |
-| 9 | [Rizayev](https://github.com/Rizayev) | Elsevar | FREELANCE |  | Azerbaijan | 7074 |
-| 10 | [Orik-dev](https://github.com/Orik-dev) | Orkhan Guseynov |  |  | Baku | 6349 |
-| 11 | [zaursharifov](https://github.com/zaursharifov) | Zaur Sharifov | AFEA |  | Baku, Azerbaijan | 6319 |
-| 12 | [ogtayhuseynov0](https://github.com/ogtayhuseynov0) | Ogtay Huseynov | @Ogt.ai | ogtayhuseynov0 | Azerbaijan | 6223 |
-| 13 | [zhmdff](https://github.com/zhmdff) | Mahmud Ahmadov |  | zhmdff | Azerbaijan | 6056 |
+| 8 | [zhmdff](https://github.com/zhmdff) | Mahmud Ahmadov |  | zhmdff | Azerbaijan | 7565 |
+| 9 | [eynullabeyli](https://github.com/eynullabeyli) | Yusif Eynullabayli | Earth | steprider0 | Baku | 7278 |
+| 10 | [Rizayev](https://github.com/Rizayev) | Elsevar | FREELANCE |  | Azerbaijan | 7074 |
+| 11 | [Orik-dev](https://github.com/Orik-dev) | Orkhan Guseynov |  |  | Baku | 6349 |
+| 12 | [zaursharifov](https://github.com/zaursharifov) | Zaur Sharifov | AFEA |  | Baku, Azerbaijan | 6319 |
+| 13 | [ogtayhuseynov0](https://github.com/ogtayhuseynov0) | Ogtay Huseynov | @Ogt.ai | ogtayhuseynov0 | Azerbaijan | 6223 |
 | 14 | [kerimovok](https://github.com/kerimovok) | Orkhan Karimov | HonestJS | karimovokx | Baku, Azerbaijan | 5607 |
 | 15 | [samirmhsnv](https://github.com/samirmhsnv) | Samir Mammadhasanov |  | samirmhsnv | Baku, Azerbaijan | 5599 |
 | 16 | [OrkhanAbbasli](https://github.com/OrkhanAbbasli) | Orkhan Abbasli |  | orkhando | Baku,Azerbaijan | 5281 |

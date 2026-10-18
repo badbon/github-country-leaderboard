@@ -1,13 +1,13 @@
 # Followers - Haiti
 
-Generated: 2026-10-18T12:10:26.142Z
+Generated: 2026-10-18T13:29:23.803Z
 
 Users: 339
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [didierganthier](https://github.com/didierganthier) | Didier Peran Ganthier | @reactjs @microverseinc  | didierganthier_ | Port-au-prince, Haïti | 264 |
-| 2 | [jkenley](https://github.com/jkenley) | Kenley Jean | @syntaxstudio-io  | jn_kenley | Haiti | 87 |
+| 2 | [jkenley](https://github.com/jkenley) | Kenley Jean | @syntaxstudio-io  | jn_kenley | Haiti | 88 |
 | 3 | [davidsonluma](https://github.com/davidsonluma) | Davidson |  | Hope3Mahmoud | Haiti | 72 |
 | 4 | [cbaja](https://github.com/cbaja) | Carly BAJA | @codepath |  | HAITI | 71 |
 | 5 | [certilremy](https://github.com/certilremy) | Certil Remy |  Full-stack Developer | certilremy | Haiti | 71 |

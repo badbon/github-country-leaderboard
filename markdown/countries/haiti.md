@@ -12,7 +12,7 @@ Indexed users: 339
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [jkenley](https://github.com/jkenley) | Kenley Jean | Haiti | 5,645 |
+| 1 | [jkenley](https://github.com/jkenley) | Kenley Jean | Haiti | 5,646 |
 | 2 | [jbob9](https://github.com/jbob9) | Jean Baptiste Berlensky O. | Haiti | 4,761 |
 | 3 | [ninjaroot-509](https://github.com/ninjaroot-509) | Castin Stanley | Haiti | 4,593 |
 | 4 | [joassanon](https://github.com/joassanon) | Joas Sanon | Port-au-prince, Haiti | 3,616 |
@@ -26,7 +26,7 @@ Indexed users: 339
 | 12 | [kingsGuillaume99](https://github.com/kingsGuillaume99) | Guillaume Kingsley | Port-au-Prince , Haiti | 1,754 |
 | 13 | [bleuscyther](https://github.com/bleuscyther) | jeffrey n. carre | Haiti | 1,729 |
 | 14 | [didierganthier](https://github.com/didierganthier) | Didier Peran Ganthier | Port-au-prince, Haïti | 1,712 |
-| 15 | [thecassion](https://github.com/thecassion) | Pierre Robentz CASSION | Haiti | 1,567 |
+| 15 | [thecassion](https://github.com/thecassion) | Pierre Robentz CASSION | Haiti | 1,563 |
 | 16 | [antifugazis](https://github.com/antifugazis) | Jyvor Slaadel Mortimer | Port-au-Prince | 1,479 |
 | 17 | [fater04](https://github.com/fater04) | fater_04 | Haiti | 1,186 |
 | 18 | [jsbeaudry](https://github.com/jsbeaudry) | Beaudry Jean Sauvenel | Port-au-prince, Haiti | 972 |
@@ -63,7 +63,7 @@ Indexed users: 339
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [didierganthier](https://github.com/didierganthier) | Didier Peran Ganthier | Port-au-prince, Haïti | 264 |
-| 2 | [jkenley](https://github.com/jkenley) | Kenley Jean | Haiti | 87 |
+| 2 | [jkenley](https://github.com/jkenley) | Kenley Jean | Haiti | 88 |
 | 3 | [davidsonluma](https://github.com/davidsonluma) | Davidson | Haiti | 72 |
 | 4 | [cbaja](https://github.com/cbaja) | Carly BAJA | HAITI | 71 |
 | 5 | [certilremy](https://github.com/certilremy) | Certil Remy | Haiti | 71 |
@@ -83,4 +83,4 @@ Indexed users: 339
 | 19 | [KeitelDOG](https://github.com/KeitelDOG) | Keitel Jovin | Delmas 41, Ouest, Haiti | 32 |
 | 20 | [skydevht](https://github.com/skydevht) | Holy-Elie Scaïde | Port-au-prince, Haïti | 32 |
 
-Generated: 2026-10-18T12:10:26.142Z
+Generated: 2026-10-18T13:29:23.803Z

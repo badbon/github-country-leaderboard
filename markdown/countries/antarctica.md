@@ -1,6 +1,6 @@
 # Antarctica
 
-Indexed users: 460
+Indexed users: 461
 
 | Leaderboard | Link |
 |---|---|
@@ -13,7 +13,7 @@ Indexed users: 460
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [lukeanthony007](https://github.com/lukeanthony007) | Lucas | Antarctica | 6,600 |
-| 2 | [shreeshiv](https://github.com/shreeshiv) | Shreeshiv Patel | Antarctica | 6,337 |
+| 2 | [shreeshiv](https://github.com/shreeshiv) | Shreeshiv Patel | Antarctica | 6,349 |
 | 3 | [adwait1290](https://github.com/adwait1290) | Adwait Athale | Antarctica | 6,033 |
 | 4 | [morgaesis](https://github.com/morgaesis) | Mörgæsis | Antarctica | 5,186 |
 | 5 | [ifarbod](https://github.com/ifarbod) | iFarbod | Antarctica  | 5,171 |
@@ -31,7 +31,7 @@ Indexed users: 460
 | 17 | [echo108471](https://github.com/echo108471) | Eugene Cho | Antarctica | 2,672 |
 | 18 | [shangyian](https://github.com/shangyian) | Yian | Antarctica | 2,598 |
 | 19 | [oagix](https://github.com/oagix) | AGENT | Antarctica | 2,416 |
-| 20 | [PenguinNexus](https://github.com/PenguinNexus) | Penguin | Antarctica | 1,761 |
+| 20 | [PenguinNexus](https://github.com/PenguinNexus) | Penguin | Antarctica | 1,750 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 460
 | 19 | [alphaaurigae](https://github.com/alphaaurigae) | Marian Brockerhoff | Antarctica | 86 |
 | 20 | [fakeid30](https://github.com/fakeid30) | Fake ID | Antarctica | 78 |
 
-Generated: 2026-10-18T11:44:37.175Z
+Generated: 2026-10-18T13:34:20.083Z

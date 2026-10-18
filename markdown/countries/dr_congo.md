@@ -12,7 +12,7 @@ Indexed users: 700
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [coolbeatz71](https://github.com/coolbeatz71) | Mutombo Jean-Vincent | Kinshasa, Kigali | 33,806 |
+| 1 | [coolbeatz71](https://github.com/coolbeatz71) | Mutombo Jean-Vincent | Kinshasa, Kigali | 33,758 |
 | 2 | [kmdavid3](https://github.com/kmdavid3) | David M. KAYEMBE | DR Congo, kinshasa | 19,892 |
 | 3 | [Abarchibody](https://github.com/Abarchibody) | Archimede Body | Kinshasa, DRC | 14,033 |
 | 4 | [Bope142](https://github.com/Bope142) | Norbert Le Geek | Kinshasa DRC | 9,414 |
@@ -37,7 +37,7 @@ Indexed users: 700
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [coolbeatz71](https://github.com/coolbeatz71) | Mutombo Jean-Vincent | Kinshasa, Kigali | 31,929 |
+| 1 | [coolbeatz71](https://github.com/coolbeatz71) | Mutombo Jean-Vincent | Kinshasa, Kigali | 31,880 |
 | 2 | [andydefer](https://github.com/andydefer) | Andy Kani | Democratic Republic of Congo | 6,200 |
 | 3 | [Theodorebinda](https://github.com/Theodorebinda) | Theodore SAMBA | kinshasa | 3,176 |
 | 4 | [ChrisJustice600](https://github.com/ChrisJustice600) | justice | Kinshasa | 2,606 |
@@ -83,4 +83,4 @@ Indexed users: 700
 | 19 | [bolenge](https://github.com/bolenge) | Don de Dieu Bolenge | Congo - Kinshasa | 69 |
 | 20 | [ChrisMwanya](https://github.com/ChrisMwanya) | Chris Mwanya | kinshasa | 69 |
 
-Generated: 2026-10-18T12:01:49.025Z
+Generated: 2026-10-18T13:21:04.128Z

@@ -1,6 +1,6 @@
 # Followers - Botswana
 
-Generated: 2026-10-18T11:52:37.482Z
+Generated: 2026-10-18T13:10:47.488Z
 
 Users: 533
 

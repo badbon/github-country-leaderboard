@@ -1,6 +1,6 @@
 # Angola
 
-Indexed users: 2,499
+Indexed users: 2,497
 
 | Leaderboard | Link |
 |---|---|
@@ -43,7 +43,7 @@ Indexed users: 2,499
 | 4 | [FranciscoDala](https://github.com/FranciscoDala) | Francisco Dala | Angola, Luanda | 2,301 |
 | 5 | [alberto-rj](https://github.com/alberto-rj) | Alberto José |  Luanda, Angola | 2,163 |
 | 6 | [skillmio](https://github.com/skillmio) | Skillmio | Angola | 2,160 |
-| 7 | [Enock200558](https://github.com/Enock200558) | Enoque Bumba Cando  | Angola 🇦🇴 | 2,104 |
+| 7 | [Enock200558](https://github.com/Enock200558) | Enoque Bumba Cando  | Angola 🇦🇴 | 2,126 |
 | 8 | [emanuel-malungo](https://github.com/emanuel-malungo) | Emanuel Malungo |  Luanda, Angola | 1,779 |
 | 9 | [adilson889](https://github.com/adilson889) | Adilson C. Rafael | Moçâmedes, Namibe, Angola | 1,652 |
 | 10 | [LouAntonio](https://github.com/LouAntonio) | Lourenço António Dala | Luanda, Angola | 1,569 |
@@ -83,4 +83,4 @@ Indexed users: 2,499
 | 19 | [manuelernesto](https://github.com/manuelernesto) | Manuel Ernesto | Angola | 166 |
 | 20 | [Jovanysfive](https://github.com/Jovanysfive) | Job Bento | Angola/Luanda | 152 |
 
-Generated: 2026-10-18T11:44:30.912Z
+Generated: 2026-10-18T13:02:56.335Z

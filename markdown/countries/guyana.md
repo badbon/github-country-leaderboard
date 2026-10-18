@@ -21,12 +21,12 @@ Indexed users: 186
 | 7 | [uberhacker](https://github.com/uberhacker) | Ed Reel | Georgetown, TX | 3,953 |
 | 8 | [pachev](https://github.com/pachev) | Pachev Joseph | Georgetown, TX | 3,914 |
 | 9 | [beckettharriman](https://github.com/beckettharriman) | Beckett Harriman | Georgetown, DC | 3,504 |
-| 10 | [jonathansharman](https://github.com/jonathansharman) | Jonathan Sharman | Georgetown, DE | 3,276 |
+| 10 | [jonathansharman](https://github.com/jonathansharman) | Jonathan Sharman | Georgetown, DE | 3,273 |
 | 11 | [negz](https://github.com/negz) | Nic Cope | Georgetown, Seattle | 3,000 |
 | 12 | [JohnnyMcGee](https://github.com/JohnnyMcGee) | Johnny McGee | Georgetown, TX | 2,242 |
 | 13 | [jzills](https://github.com/jzills) | Joshua Zillwood | Georgetown, TX | 1,909 |
 | 14 | [codedbychavez](https://github.com/codedbychavez) | Chavez Harris | Guyana | 1,583 |
-| 15 | [schrum2](https://github.com/schrum2) | Jacob Schrum | Georgetown, TX | 1,522 |
+| 15 | [schrum2](https://github.com/schrum2) | Jacob Schrum | Georgetown, TX | 1,518 |
 | 16 | [kev-mb](https://github.com/kev-mb) | Kevin Martinez Bautista | Georgetown, Texas | 1,476 |
 | 17 | [rjvaleo](https://github.com/rjvaleo) | transelectronic | Georgetown, Colorado | 1,451 |
 | 18 | [xbze3](https://github.com/xbze3) | Ezra Minty | Guyana | 1,402 |
@@ -83,4 +83,4 @@ Indexed users: 186
 | 19 | [Alien-nick](https://github.com/Alien-nick) | Nicholas Seetaram | South America, Guyana, Georgetown | 22 |
 | 20 | [duncanfinney](https://github.com/duncanfinney) | Duncan Finney | Georgetown, CO | 22 |
 
-Generated: 2026-10-18T12:10:23.668Z
+Generated: 2026-10-18T13:29:20.771Z

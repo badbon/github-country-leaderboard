@@ -12,11 +12,11 @@ Indexed users: 55
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [Ama-dou](https://github.com/Ama-dou) | Amadou Bah | Djibouti | 5,620 |
+| 1 | [Ama-dou](https://github.com/Ama-dou) | Amadou Bah | Djibouti | 5,662 |
 | 2 | [Abdoul-Hakim101](https://github.com/Abdoul-Hakim101) | Abdihakim  Mohamed | Djibouti | 1,388 |
 | 3 | [Captain-iiro](https://github.com/Captain-iiro) | Captain iiro (Abdourahman) | Djibouti | 1,190 |
 | 4 | [moustapha-aden](https://github.com/moustapha-aden) | MOUSTAPHA ADEN DIRIYEH | Djibouti Dj | 655 |
-| 5 | [Ismael9-web](https://github.com/Ismael9-web) | Ismael Ladieh | Djibouti | 529 |
+| 5 | [Ismael9-web](https://github.com/Ismael9-web) | Ismael Ladieh | Djibouti | 532 |
 | 6 | [Obelisk999](https://github.com/Obelisk999) | Abdoulrazak | Djibouti | 418 |
 | 7 | [Filsan648](https://github.com/Filsan648) | Filsan | Djibouti | 324 |
 | 8 | [hamoudabass](https://github.com/hamoudabass) | Hamoud Abass  | Djibouti | 291 |
@@ -55,7 +55,7 @@ Indexed users: 55
 | 16 | [fathia09](https://github.com/fathia09) | fathia abdourahman mohamed | Djibouti | 31 |
 | 17 | [ABDOURAHMAN-ILTIREH](https://github.com/ABDOURAHMAN-ILTIREH) | ABOURAHMAN ILTIREH | DJIBOUTI | 30 |
 | 18 | [LuxusIX](https://github.com/LuxusIX) | Abdourahman A.Daher | Djibouti | 28 |
-| 19 | [bassim18ramad](https://github.com/bassim18ramad) | BassimRH | Djibouti | 18 |
+| 19 | [bassim18ramad](https://github.com/bassim18ramad) | BassimRH | Djibouti | 16 |
 | 20 | [alitani253](https://github.com/alitani253) | Tani Ali | Djibouti | 6 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 55
 | 19 | [jibo-zz](https://github.com/jibo-zz) | Mohamed Cheikh | Djibouti | 5 |
 | 20 | [LuxusIX](https://github.com/LuxusIX) | Abdourahman A.Daher | Djibouti | 5 |
 
-Generated: 2026-10-18T12:00:57.088Z
+Generated: 2026-10-18T13:20:48.887Z
