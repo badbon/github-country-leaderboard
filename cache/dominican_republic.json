@@ -30896,7 +30896,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 37,
+    "publicContributions": 39,
     "createdAt": "2015-03-05T15:00:56Z"
   },
   {
@@ -31015,7 +31015,7 @@
     "company": "UMA",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 5234,
+    "privateContributions": 8494,
     "publicContributions": 0,
     "createdAt": "2015-07-22T15:46:48Z"
   },
@@ -31075,21 +31075,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 28,
+    "privateContributions": 27,
     "publicContributions": 0,
     "createdAt": "2015-06-22T00:45:17Z"
-  },
-  {
-    "login": "forcize",
-    "name": "Pedro Roman",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/14141183?s=72&u=c3ee29fd06f222ca80f107e6e4e42415c9322463&v=4",
-    "location": "Dominican Republic",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 1076,
-    "publicContributions": 1,
-    "createdAt": "2015-09-05T17:54:04Z"
   },
   {
     "login": "gmdom",
@@ -31098,8 +31086,8 @@
     "location": "Dominican Republic",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 815,
+    "followers": 2,
+    "privateContributions": 915,
     "publicContributions": 2,
     "createdAt": "2015-01-17T23:09:51Z"
   },
@@ -31124,7 +31112,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 12,
     "createdAt": "2015-10-10T21:32:19Z"
   },
   {

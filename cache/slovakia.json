@@ -30308,7 +30308,7 @@
     "twitterUsername": "",
     "followers": 17,
     "privateContributions": 2,
-    "publicContributions": 103,
+    "publicContributions": 90,
     "createdAt": "2016-05-19T17:41:54Z"
   },
   {
@@ -30318,7 +30318,7 @@
     "location": "Slovakia",
     "company": "",
     "twitterUsername": "",
-    "followers": 17,
+    "followers": 18,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-06-07T08:41:57Z"
@@ -30342,7 +30342,7 @@
     "location": "Bratislava, Slovakia",
     "company": "Swiss Re",
     "twitterUsername": "",
-    "followers": 15,
+    "followers": 16,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-09-27T21:03:30Z"
@@ -30355,20 +30355,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 15,
-    "privateContributions": 385,
-    "publicContributions": 778,
+    "privateContributions": 725,
+    "publicContributions": 794,
     "createdAt": "2016-11-05T15:27:32Z"
   },
   {
     "login": "LukePetko",
     "name": "Lukas Petko",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/19292943?s=72&u=eda99beb8912a20b7e3e259b4f8ed04d61847c4c&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/19292943?s=72&u=f5336bfbe0b995caaa1b47233350c48b98bb71bc&v=4",
     "location": "Slovakia",
-    "company": "",
+    "company": "Innovatrics",
     "twitterUsername": "LUkEPetko",
     "followers": 14,
-    "privateContributions": 198,
-    "publicContributions": 253,
+    "privateContributions": 238,
+    "publicContributions": 211,
     "createdAt": "2016-05-10T19:15:50Z"
   },
   {
@@ -30379,8 +30379,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 225,
-    "publicContributions": 245,
+    "privateContributions": 233,
+    "publicContributions": 267,
     "createdAt": "2016-02-04T22:42:18Z"
   },
   {
@@ -30390,9 +30390,9 @@
     "location": "Slovakia",
     "company": "",
     "twitterUsername": "samuelfarkas_",
-    "followers": 12,
-    "privateContributions": 448,
-    "publicContributions": 34,
+    "followers": 13,
+    "privateContributions": 806,
+    "publicContributions": 63,
     "createdAt": "2016-12-02T19:40:11Z"
   },
   {
@@ -30402,8 +30402,8 @@
     "location": "Bratislava, Slovakia",
     "company": "@lablabs ",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 602,
+    "followers": 14,
+    "privateContributions": 1061,
     "publicContributions": 2,
     "createdAt": "2016-04-10T13:36:06Z"
   },
@@ -30415,7 +30415,7 @@
     "company": "Deutsche Telekom Pan-Net",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 89,
+    "privateContributions": 72,
     "publicContributions": 0,
     "createdAt": "2016-05-15T16:50:43Z"
   },
@@ -30426,9 +30426,9 @@
     "location": "Slovakia",
     "company": "Dalien s. r. o.",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 12,
     "privateContributions": 44,
-    "publicContributions": 0,
+    "publicContributions": 7,
     "createdAt": "2016-06-03T10:42:51Z"
   },
   {
@@ -30451,7 +30451,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 894,
+    "privateContributions": 980,
     "publicContributions": 0,
     "createdAt": "2016-09-17T06:56:09Z"
   },
@@ -30464,7 +30464,7 @@
     "twitterUsername": "",
     "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 33,
+    "publicContributions": 19,
     "createdAt": "2016-06-18T16:29:42Z"
   },
   {
@@ -30475,7 +30475,7 @@
     "company": "Smart Block s.r.o.",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 33,
+    "privateContributions": 6,
     "publicContributions": 10,
     "createdAt": "2016-04-17T21:37:58Z"
   },
@@ -30486,9 +30486,9 @@
     "location": "Slovakia",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 38,
     "createdAt": "2015-12-31T11:13:08Z"
   },
   {
@@ -30499,8 +30499,8 @@
     "company": "MasterMinds",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 366,
-    "publicContributions": 29,
+    "privateContributions": 321,
+    "publicContributions": 10,
     "createdAt": "2016-01-16T22:41:57Z"
   },
   {
@@ -30510,9 +30510,9 @@
     "location": "Slovakia",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 6,
     "createdAt": "2016-04-22T10:44:11Z"
   },
   {
@@ -30523,8 +30523,8 @@
     "company": "Data Dance s.r.o.",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 1221,
-    "publicContributions": 79,
+    "privateContributions": 2323,
+    "publicContributions": 96,
     "createdAt": "2016-05-03T13:17:21Z"
   },
   {
@@ -30534,9 +30534,9 @@
     "location": "Slovakia",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 106,
-    "publicContributions": 34,
+    "followers": 11,
+    "privateContributions": 142,
+    "publicContributions": 29,
     "createdAt": "2016-04-08T19:22:36Z"
   },
   {

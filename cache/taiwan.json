@@ -30295,7 +30295,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 7,
+    "privateContributions": 12,
     "publicContributions": 2,
     "createdAt": "2022-11-10T03:15:13Z"
   },
@@ -30308,7 +30308,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 48,
+    "publicContributions": 46,
     "createdAt": "2022-09-02T02:38:21Z"
   },
   {
@@ -30318,7 +30318,7 @@
     "location": "Taiwan",
     "company": "逢甲大學",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2022-11-10T07:01:13Z"
@@ -30330,7 +30330,7 @@
     "location": "Taiwan",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-11-22T11:10:34Z"
@@ -30343,7 +30343,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 160,
+    "privateContributions": 313,
     "publicContributions": 8,
     "createdAt": "2022-09-07T17:15:00Z"
   },
@@ -30354,9 +30354,9 @@
     "location": "Taipei",
     "company": "",
     "twitterUsername": "",
-    "followers": 95,
-    "privateContributions": 1342,
-    "publicContributions": 1350,
+    "followers": 96,
+    "privateContributions": 5283,
+    "publicContributions": 1762,
     "createdAt": "2022-03-28T11:48:29Z"
   },
   {
@@ -30366,9 +30366,9 @@
     "location": "Taipei",
     "company": "",
     "twitterUsername": "",
-    "followers": 43,
-    "privateContributions": 39,
-    "publicContributions": 60,
+    "followers": 45,
+    "privateContributions": 38,
+    "publicContributions": 55,
     "createdAt": "2022-06-07T19:33:34Z"
   },
   {
@@ -30378,7 +30378,7 @@
     "location": "Taipei",
     "company": "TSP",
     "twitterUsername": "ouagenxx",
-    "followers": 40,
+    "followers": 44,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-10-30T14:33:29Z"
@@ -30388,11 +30388,11 @@
     "name": "Ken Huang",
     "avatarUrl": "https://avatars.githubusercontent.com/u/100591800?s=72&v=4",
     "location": "Taipei",
-    "company": "@LINE",
+    "company": "",
     "twitterUsername": "",
-    "followers": 37,
+    "followers": 40,
     "privateContributions": 0,
-    "publicContributions": 515,
+    "publicContributions": 502,
     "createdAt": "2022-02-28T14:10:55Z"
   },
   {
@@ -30402,9 +30402,9 @@
     "location": "Taipei",
     "company": "",
     "twitterUsername": "",
-    "followers": 36,
-    "privateContributions": 63,
-    "publicContributions": 13,
+    "followers": 35,
+    "privateContributions": 45,
+    "publicContributions": 1,
     "createdAt": "2022-12-19T09:11:26Z"
   },
   {
@@ -30414,9 +30414,9 @@
     "location": "Taipei",
     "company": "",
     "twitterUsername": "",
-    "followers": 28,
+    "followers": 31,
     "privateContributions": 0,
-    "publicContributions": 322,
+    "publicContributions": 385,
     "createdAt": "2022-01-05T15:14:25Z"
   },
   {
@@ -30427,8 +30427,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 21,
-    "privateContributions": 917,
-    "publicContributions": 213,
+    "privateContributions": 1615,
+    "publicContributions": 208,
     "createdAt": "2022-05-18T04:05:14Z"
   },
   {
@@ -30438,9 +30438,9 @@
     "location": "Taipei",
     "company": "Ultralytics",
     "twitterUsername": "",
-    "followers": 21,
-    "privateContributions": 1174,
-    "publicContributions": 29,
+    "followers": 26,
+    "privateContributions": 2067,
+    "publicContributions": 48,
     "createdAt": "2022-03-20T14:26:34Z"
   },
   {
@@ -30450,9 +30450,9 @@
     "location": "Taipei",
     "company": "EVIDEN",
     "twitterUsername": "",
-    "followers": 20,
-    "privateContributions": 320,
-    "publicContributions": 43,
+    "followers": 18,
+    "privateContributions": 252,
+    "publicContributions": 38,
     "createdAt": "2022-01-06T09:14:30Z"
   },
   {
@@ -30475,7 +30475,7 @@
     "company": "Entrusy Co. Ltd.",
     "twitterUsername": "",
     "followers": 18,
-    "privateContributions": 954,
+    "privateContributions": 975,
     "publicContributions": 3,
     "createdAt": "2022-05-20T06:53:33Z"
   },
@@ -30486,7 +30486,7 @@
     "location": "Taipei",
     "company": "",
     "twitterUsername": "",
-    "followers": 17,
+    "followers": 18,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-12-05T07:24:37Z"
@@ -30498,9 +30498,9 @@
     "location": "Taipei",
     "company": "",
     "twitterUsername": "",
-    "followers": 16,
-    "privateContributions": 177,
-    "publicContributions": 11,
+    "followers": 14,
+    "privateContributions": 301,
+    "publicContributions": 26,
     "createdAt": "2022-11-27T15:01:39Z"
   },
   {
@@ -30510,9 +30510,9 @@
     "location": "Taipei",
     "company": "BigStack co., Itd",
     "twitterUsername": "",
-    "followers": 16,
+    "followers": 17,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 18,
     "createdAt": "2022-04-28T11:25:39Z"
   },
   {

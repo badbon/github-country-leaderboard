@@ -30752,7 +30752,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 77,
+    "publicContributions": 76,
     "createdAt": "2023-03-17T02:50:45Z"
   },
   {
@@ -30764,7 +30764,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 58,
+    "publicContributions": 50,
     "createdAt": "2023-05-10T01:50:20Z"
   },
   {
@@ -30848,7 +30848,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 65,
+    "publicContributions": 54,
     "createdAt": "2023-06-15T23:50:08Z"
   },
   {
@@ -30883,8 +30883,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 104,
-    "publicContributions": 10,
+    "privateContributions": 98,
+    "publicContributions": 0,
     "createdAt": "2023-02-19T19:38:12Z"
   },
   {
@@ -30894,9 +30894,9 @@
     "location": "Santiago de chile",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 61,
+    "publicContributions": 49,
     "createdAt": "2023-05-17T19:54:38Z"
   },
   {
@@ -30906,9 +30906,9 @@
     "location": "Chile",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 50,
+    "publicContributions": 179,
     "createdAt": "2023-03-15T17:07:48Z"
   },
   {
@@ -30932,7 +30932,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 23,
     "createdAt": "2023-03-24T15:36:30Z"
   },
   {
@@ -30943,7 +30943,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1000,
+    "privateContributions": 932,
     "publicContributions": 1,
     "createdAt": "2023-05-16T16:14:37Z"
   },
@@ -30954,8 +30954,8 @@
     "location": "Santiago, Chile",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 310,
+    "followers": 3,
+    "privateContributions": 434,
     "publicContributions": 34,
     "createdAt": "2023-01-03T16:40:33Z"
   },
@@ -232534,5 +232534,89 @@
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2026-06-30T21:59:05Z"
+  },
+  {
+    "login": "wRenard460",
+    "name": "Juliana Quiñones",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298767024?s=72&v=4",
+    "location": "Chile",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-07-01T15:12:49Z"
+  },
+  {
+    "login": "koo724",
+    "name": "Elvia Dominguez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298880438?s=72&v=4",
+    "location": "Chile",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-07-01T21:31:58Z"
+  },
+  {
+    "login": "kFisher616",
+    "name": "Ricardo Perrot",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298880064?s=72&v=4",
+    "location": "Danapur, Chile",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-07-01T21:30:41Z"
+  },
+  {
+    "login": "MaxFuhrer47",
+    "name": "Maximiliano Führer",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298822697?s=72&u=ccb29ba0877aa9a1cdb303a55853ebcd35783e75&v=4",
+    "location": "Chile",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-07-01T18:00:27Z"
+  },
+  {
+    "login": "Danieel17",
+    "name": "Daniel Alejandro Parraguez Matamala",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298555326?s=72&v=4",
+    "location": "Chile",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 28,
+    "createdAt": "2026-07-01T04:51:47Z"
+  },
+  {
+    "login": "Mishra1586",
+    "name": "Laura Atkins",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298891368?s=72&v=4",
+    "location": "Chile",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2026-07-01T22:24:34Z"
+  },
+  {
+    "login": "carolynt878",
+    "name": "Caio Ferrera",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298877723?s=72&v=4",
+    "location": "Bydgoszcz, Chile",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-07-01T21:23:13Z"
   }
 ]
