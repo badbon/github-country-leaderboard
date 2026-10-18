@@ -32276,7 +32276,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 8,
     "createdAt": "2016-09-26T16:34:47Z"
   },
   {
@@ -32299,7 +32299,7 @@
     "company": "Clever ETL s.r.o.",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 295,
+    "privateContributions": 319,
     "publicContributions": 2,
     "createdAt": "2016-09-23T08:06:32Z"
   },
@@ -32336,7 +32336,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 8,
     "createdAt": "2016-05-07T18:27:41Z"
   },
   {
@@ -32346,8 +32346,8 @@
     "location": "Bratislava/Slovakia",
     "company": "RMLabs Studio",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 1875,
+    "followers": 3,
+    "privateContributions": 2194,
     "publicContributions": 17,
     "createdAt": "2016-10-04T12:38:07Z"
   },
@@ -32360,7 +32360,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2016-05-27T07:42:26Z"
   },
   {
@@ -32420,19 +32420,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2016-09-28T13:15:18Z"
   },
   {
     "login": "senzorika",
-    "name": "Podpora pre predmety FBP (SAP/SaIT/VTJ).",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/23209320?s=72&u=ca92506a28171b39e9f00f45a1b4850242d752bd&v=4",
+    "name": "Podpora pre predmety FBP (SAP/SaIT/DIP).",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/23209320?s=72&u=5168ad9c571599392f2ada99d24bc7dd42f47088&v=4",
     "location": "Nitra, Slovakia",
     "company": "senzorika.com",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 49,
+    "publicContributions": 7,
     "createdAt": "2016-11-02T08:22:24Z"
   },
   {

@@ -31880,7 +31880,7 @@
     "twitterUsername": "",
     "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 523,
+    "publicContributions": 432,
     "createdAt": "2024-03-12T06:06:32Z"
   },
   {
@@ -31890,9 +31890,9 @@
     "location": "Seoul",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 103,
+    "publicContributions": 116,
     "createdAt": "2024-01-09T07:58:05Z"
   },
   {
@@ -31900,11 +31900,11 @@
     "name": "Jiwoo Park",
     "avatarUrl": "https://avatars.githubusercontent.com/u/156992925?s=72&u=13ee86c1aad14d0cee58f637b1ceddd21a24ad1e&v=4",
     "location": "Seoul/Eunpyeong",
-    "company": "삼성 SW AI 청년 아카데미 14기 (2025.07 ~ )",
+    "company": "",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 734,
-    "publicContributions": 707,
+    "privateContributions": 656,
+    "publicContributions": 631,
     "createdAt": "2024-01-18T06:11:58Z"
   },
   {
@@ -31914,9 +31914,9 @@
     "location": "Dongdaemun-gu/Seoul",
     "company": "삼성 청년 SW·AI 아카데미(SSAFY) 14기",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 310,
-    "publicContributions": 913,
+    "followers": 14,
+    "privateContributions": 305,
+    "publicContributions": 798,
     "createdAt": "2024-05-03T05:03:30Z"
   },
   {
@@ -31926,22 +31926,10 @@
     "location": "Seoul",
     "company": "공군지능정보체계관리단",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 319,
+    "publicContributions": 355,
     "createdAt": "2024-04-15T10:39:21Z"
-  },
-  {
-    "login": "nmsngh",
-    "name": "SeongHa Nam",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/162091618?s=72&u=9addea19b3b76591138c51c8b7ca08067a3a6c42&v=4",
-    "location": "Seoul, Korea",
-    "company": "Sejong University",
-    "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 429,
-    "publicContributions": 18,
-    "createdAt": "2024-03-04T06:10:50Z"
   },
   {
     "login": "yuseok01",
@@ -31962,21 +31950,21 @@
     "location": "seoul",
     "company": "@sunrin-ana",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 122,
-    "publicContributions": 209,
+    "followers": 20,
+    "privateContributions": 506,
+    "publicContributions": 263,
     "createdAt": "2024-02-07T12:20:07Z"
   },
   {
     "login": "dotcom07",
     "name": "SUNG JE PARK",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/166581861?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/166581861?s=72&u=d1072de6318973e1d810a6c89352d9311340a534&v=4",
     "location": "Seoul",
     "company": "Double major at Yonsei University: Business Administration (AI Business) & Computer Science",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 702,
-    "publicContributions": 623,
+    "privateContributions": 987,
+    "publicContributions": 531,
     "createdAt": "2024-04-10T04:24:23Z"
   },
   {
@@ -31986,7 +31974,7 @@
     "location": "Seoul, Korea",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 13,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2024-01-04T07:04:58Z"
@@ -32011,8 +31999,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 543,
-    "publicContributions": 1020,
+    "privateContributions": 1758,
+    "publicContributions": 232,
     "createdAt": "2024-01-05T02:45:16Z"
   },
   {
@@ -32023,8 +32011,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 570,
-    "publicContributions": 621,
+    "privateContributions": 444,
+    "publicContributions": 337,
     "createdAt": "2024-05-31T04:01:00Z"
   },
   {
@@ -32034,9 +32022,9 @@
     "location": "Seoul, Korea",
     "company": "Sookmyung Woman University",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 61,
-    "publicContributions": 125,
+    "followers": 12,
+    "privateContributions": 161,
+    "publicContributions": 166,
     "createdAt": "2024-02-21T04:32:25Z"
   },
   {
@@ -32047,7 +32035,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 1108,
+    "privateContributions": 1679,
     "publicContributions": 0,
     "createdAt": "2024-06-18T12:18:52Z"
   },
@@ -32070,9 +32058,9 @@
     "location": "seoul, korea",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 35,
-    "publicContributions": 15,
+    "followers": 10,
+    "privateContributions": 4,
+    "publicContributions": 3,
     "createdAt": "2024-05-07T04:06:15Z"
   },
   {
@@ -32082,9 +32070,9 @@
     "location": "Seoul",
     "company": "Sogang Univ.",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 14,
     "privateContributions": 0,
-    "publicContributions": 1534,
+    "publicContributions": 1456,
     "createdAt": "2024-05-10T05:34:58Z"
   },
   {
@@ -32094,21 +32082,21 @@
     "location": "Gangnam, Seoul, South_Korea",
     "company": "NaverCloudBitCamp_DevOps12nd",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 10,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-04-24T03:39:27Z"
   },
   {
     "login": "TaySeobLee",
-    "name": "TayseobLee",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/162679741?s=72&u=4ccd73ce897c81d35c8078f63246010b0c460494&v=4",
+    "name": "TaeSubLee",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/162679741?s=72&u=1aea8e73d0d187a68c352568ad6115fdb780c9db&v=4",
     "location": "Seoul, Korea",
     "company": "Dongguk Univ.",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 0,
     "createdAt": "2024-03-08T07:34:02Z"
   },
   {

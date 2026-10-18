@@ -32142,9 +32142,9 @@
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 268,
-    "publicContributions": 158,
+    "followers": 5,
+    "privateContributions": 288,
+    "publicContributions": 157,
     "createdAt": "2022-12-12T13:01:48Z"
   },
   {
@@ -32155,8 +32155,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 103,
-    "publicContributions": 0,
+    "privateContributions": 111,
+    "publicContributions": 9,
     "createdAt": "2022-07-23T22:28:35Z"
   },
   {
@@ -32166,9 +32166,9 @@
     "location": "Switzerland (the country after Swaziland and Sweden)",
     "company": "",
     "twitterUsername": "Zertovitch",
-    "followers": 84,
+    "followers": 83,
     "privateContributions": 0,
-    "publicContributions": 251,
+    "publicContributions": 232,
     "createdAt": "2019-09-12T07:01:09Z"
   },
   {
@@ -32202,21 +32202,21 @@
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 139,
+    "publicContributions": 143,
     "createdAt": "2022-12-25T20:09:17Z"
   },
   {
     "login": "marvinwiget",
     "name": "Marvin",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/115663512?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/115663512?s=72&u=cb17f7848dd2362b21c1859fdcd8e29dc775d2f8&v=4",
     "location": "Switzerland, Lucerne",
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 52,
+    "privateContributions": 2,
+    "publicContributions": 119,
     "createdAt": "2022-10-12T19:19:34Z"
   },
   {
@@ -32228,7 +32228,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2022-06-30T15:12:57Z"
   },
   {
@@ -32239,8 +32239,8 @@
     "company": "Swisscom AG",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 40,
-    "publicContributions": 66,
+    "privateContributions": 546,
+    "publicContributions": 3,
     "createdAt": "2022-09-14T17:59:15Z"
   },
   {
@@ -32252,7 +32252,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 61,
+    "publicContributions": 2,
     "createdAt": "2022-09-20T10:03:49Z"
   },
   {
@@ -32275,8 +32275,8 @@
     "company": "EPFL",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 26,
-    "publicContributions": 86,
+    "privateContributions": 29,
+    "publicContributions": 24,
     "createdAt": "2022-11-21T15:08:27Z"
   },
   {
@@ -32288,7 +32288,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 2,
     "createdAt": "2022-12-27T11:10:01Z"
   },
   {
@@ -32310,21 +32310,21 @@
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "tomrford",
-    "followers": 4,
-    "privateContributions": 989,
-    "publicContributions": 1397,
+    "followers": 5,
+    "privateContributions": 920,
+    "publicContributions": 1795,
     "createdAt": "2022-07-14T20:26:25Z"
   },
   {
     "login": "MarcelKoeberlin",
     "name": "Marcel Köberlin",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/118287020?s=72&u=f1dccafc23a709f1fd5a614d9f1af559d8b66f0e&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/118287020?s=72&u=949ea41911fa2509c84d262b93d977e0f62dfc6b&v=4",
     "location": "Zürich, Switzerland",
     "company": "ETH Zürich",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 118,
+    "privateContributions": 878,
+    "publicContributions": 29,
     "createdAt": "2022-11-15T14:56:57Z"
   },
   {
@@ -32334,9 +32334,9 @@
     "location": "Bern, Switzerland",
     "company": "Experience Design Institute",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 58,
+    "publicContributions": 76,
     "createdAt": "2022-08-08T18:59:22Z"
   },
   {
@@ -32346,22 +32346,10 @@
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 2121,
+    "followers": 8,
+    "privateContributions": 2569,
     "publicContributions": 45,
     "createdAt": "2022-08-07T16:53:25Z"
-  },
-  {
-    "login": "LAZARUSj",
-    "name": "Wenjie Zhang",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/119016668?s=72&u=a2ea819c277b94373da457db280fc3522e89dd1e&v=4",
-    "location": "Switzerland",
-    "company": "University of Zurich",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 2,
-    "createdAt": "2022-11-24T22:59:06Z"
   },
   {
     "login": "ChloeM17",

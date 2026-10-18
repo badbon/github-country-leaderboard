@@ -31640,7 +31640,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 20,
     "createdAt": "2023-08-28T18:30:00Z"
   },
   {
@@ -31662,9 +31662,9 @@
     "location": "Sweden",
     "company": "TeamSmartWorld ",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 651,
+    "publicContributions": 638,
     "createdAt": "2023-10-06T15:44:26Z"
   },
   {
@@ -31675,8 +31675,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 1486,
-    "publicContributions": 202,
+    "privateContributions": 1610,
+    "publicContributions": 207,
     "createdAt": "2023-11-01T19:08:46Z"
   },
   {
@@ -31687,8 +31687,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 171,
-    "publicContributions": 229,
+    "privateContributions": 451,
+    "publicContributions": 206,
     "createdAt": "2023-08-31T06:20:32Z"
   },
   {
@@ -31700,7 +31700,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 1,
-    "publicContributions": 6,
+    "publicContributions": 2,
     "createdAt": "2023-07-31T17:21:58Z"
   },
   {
@@ -31735,20 +31735,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 93,
-    "publicContributions": 397,
+    "privateContributions": 98,
+    "publicContributions": 402,
     "createdAt": "2023-12-07T17:54:43Z"
   },
   {
     "login": "brownbeardeveloper",
-    "name": "Björn",
+    "name": "Björn Bergström",
     "avatarUrl": "https://avatars.githubusercontent.com/u/142538281?s=72&u=c6726609d321987501a4b6d057e7dd9400b52205&v=4",
-    "location": "Sweden",
+    "location": "Stockholm, Sweden",
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 351,
-    "publicContributions": 80,
+    "privateContributions": 398,
+    "publicContributions": 86,
     "createdAt": "2023-08-17T19:22:12Z"
   },
   {
@@ -31760,7 +31760,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2023-12-05T09:44:05Z"
   },
   {
@@ -31771,8 +31771,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 321,
-    "publicContributions": 428,
+    "privateContributions": 230,
+    "publicContributions": 420,
     "createdAt": "2023-09-16T18:33:44Z"
   },
   {
@@ -31796,7 +31796,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 36,
+    "publicContributions": 31,
     "createdAt": "2023-09-20T11:47:10Z"
   },
   {
@@ -31832,7 +31832,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 284,
+    "publicContributions": 278,
     "createdAt": "2023-09-05T17:51:56Z"
   },
   {
@@ -31842,8 +31842,8 @@
     "location": "Stockholm, Sweden",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 72,
+    "followers": 3,
+    "privateContributions": 55,
     "publicContributions": 35,
     "createdAt": "2023-09-07T07:51:36Z"
   },
