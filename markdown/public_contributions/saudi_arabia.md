@@ -1,6 +1,6 @@
 # Public Contributions - Saudi Arabia
 
-Generated: 2026-10-18T20:09:07.727Z
+Generated: 2026-10-18T21:27:33.914Z
 
 Users: 7732
 
@@ -14,10 +14,10 @@ Users: 7732
 | 6 | [a-green-hand-jack](https://github.com/a-green-hand-jack) | Jack Wu | King Abdullah University of Science and Technology  |  | Saudi Arabia (SA)  | 5062 |
 | 7 | [justpainful](https://github.com/justpainful) | 777 | Flowline · @1980Est |  | Saudi Arabia | 4237 |
 | 8 | [rashadnaqeeb](https://github.com/rashadnaqeeb) | Rashad Naqeeb |  |  | Saudi Arabia | 4097 |
-| 9 | [AsemJK](https://github.com/AsemJK) | Asem Alsaiyadi |  |  | Saudi Arabia | 4084 |
-| 10 | [ManalAlyami7](https://github.com/ManalAlyami7) | Manal Alyami  | King Saud University |  | Riyadh, Saudi Arabia | 3438 |
-| 11 | [EslamElshikh-dev](https://github.com/EslamElshikh-dev) | Eslam Elshikh | Google  | remoesoo10 | Riyadh  | 3381 |
-| 12 | [CalledSTRIKER](https://github.com/CalledSTRIKER) | Sultan |  |  | Saudi Arabia | 3251 |
+| 9 | [ManalAlyami7](https://github.com/ManalAlyami7) | Manal Alyami  | King Saud University |  | Riyadh, Saudi Arabia | 3438 |
+| 10 | [EslamElshikh-dev](https://github.com/EslamElshikh-dev) | Eslam Elshikh | Google  | remoesoo10 | Riyadh  | 3381 |
+| 11 | [CalledSTRIKER](https://github.com/CalledSTRIKER) | Sultan |  |  | Saudi Arabia | 3251 |
+| 12 | [AsemJK](https://github.com/AsemJK) | Asem Alsaiyadi |  |  | Saudi Arabia | 3090 |
 | 13 | [SyabAhmad](https://github.com/SyabAhmad) | Syed Syab Ahmad | MenteE | SyabSays | Al-Riyadh, Saudi Arabia | 2740 |
 | 14 | [aliakarma](https://github.com/aliakarma) | Ali Akarma | Islamic University of Madinah | akarma_ali | Madinah, Saudi Arabia | 2463 |
 | 15 | [singer-yang](https://github.com/singer-yang) | Xinge Yang | KAUST |  | Thuwal, Saudi Arabia | 2413 |

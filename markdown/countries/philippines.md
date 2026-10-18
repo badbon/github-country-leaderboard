@@ -1,6 +1,6 @@
 # Philippines
 
-Indexed users: 19,764
+Indexed users: 19,762
 
 | Leaderboard | Link |
 |---|---|
@@ -12,8 +12,8 @@ Indexed users: 19,764
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [jaymar921](https://github.com/jaymar921) | Jayharron Abejar | Cebu, Philippines | 1,082,638 |
-| 2 | [HaroldMars](https://github.com/HaroldMars) | Jay Harold Mars Abejar | Cebu, Philippines  | 920,699 |
+| 1 | [HaroldMars](https://github.com/HaroldMars) | Jay Harold Mars Abejar | Cebu, Philippines  | 1,405,903 |
+| 2 | [jaymar921](https://github.com/jaymar921) | Jayharron Abejar | Cebu, Philippines | 1,082,638 |
 | 3 | [jian6137](https://github.com/jian6137) | Jiandale Ambal | Iligan City, Philippines | 137,305 |
 | 4 | [Mra1k3r0](https://github.com/Mra1k3r0) | John Paul Caigas  | Philippines | 102,001 |
 | 5 | [RyannKim327](https://github.com/RyannKim327) | 1101.0410 | Philippines | 45,557 |
@@ -37,8 +37,8 @@ Indexed users: 19,764
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [jaymar921](https://github.com/jaymar921) | Jayharron Abejar | Cebu, Philippines | 1,081,241 |
-| 2 | [HaroldMars](https://github.com/HaroldMars) | Jay Harold Mars Abejar | Cebu, Philippines  | 920,333 |
+| 1 | [HaroldMars](https://github.com/HaroldMars) | Jay Harold Mars Abejar | Cebu, Philippines  | 1,405,299 |
+| 2 | [jaymar921](https://github.com/jaymar921) | Jayharron Abejar | Cebu, Philippines | 1,081,241 |
 | 3 | [Mra1k3r0](https://github.com/Mra1k3r0) | John Paul Caigas  | Philippines | 101,854 |
 | 4 | [markfietje](https://github.com/markfietje) | Mark Fietje | Philippines | 24,226 |
 | 5 | [jrzvnn](https://github.com/jrzvnn) | Joriz Villanueva | Manila, Philippines | 21,650 |
@@ -83,4 +83,4 @@ Indexed users: 19,764
 | 19 | [Gerald200422](https://github.com/Gerald200422) | Gerald P. Balete | Metro Manila Philippines  | 613 |
 | 20 | [exezick](https://github.com/exezick) | Exequiel Vibar | Philippines | 604 |
 
-Generated: 2026-10-18T20:54:57.421Z
+Generated: 2026-10-18T21:21:40.702Z

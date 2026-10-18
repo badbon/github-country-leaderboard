@@ -1,12 +1,12 @@
 # Followers - Malawi
 
-Generated: 2026-10-18T19:46:58.565Z
+Generated: 2026-10-18T21:10:43.691Z
 
 Users: 900
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [Iankulani](https://github.com/Iankulani) | Ian Carter Kulani | @Accurate-Cyber-Defense ☠️🏴‍☠️ | Iankulani | Mzimba, Malawi | 2657 |
+| 1 | [Iankulani](https://github.com/Iankulani) | Ian Carter Kulani | @Accurate-Cyber-Defense ☠️🏴‍☠️ | Iankulani | Mzimba, Malawi | 2676 |
 | 2 | [StevenKamwaza](https://github.com/StevenKamwaza) | Steven Kamwaza |  |  |  Malawi | 1444 |
 | 3 | [ACT91](https://github.com/ACT91) | Stanley Gersom |  |  | Blantyre , Malawi | 767 |
 | 4 | [Marhardal](https://github.com/Marhardal) | Martin Harawa | @HashTag-Technologies-Limited  | Marhardal | Lilongwe Malaŵi  | 564 |
@@ -23,6 +23,6 @@ Users: 900
 | 15 | [TgkCapture](https://github.com/TgkCapture) | tgkcapture | ex @creditdatamw  | tgkcapture | Blantyre, Malawi. | 197 |
 | 16 | [i-christian](https://github.com/i-christian) | Christian |  |  | Mzuzu, Malawi  | 177 |
 | 17 | [MalcolmorianVII](https://github.com/MalcolmorianVII) | Belson Malcolm Kutambe | Malawi Liverpool Wellcome Trust |  | Malawi | 152 |
-| 18 | [sam-zarila](https://github.com/sam-zarila) | sam zarila | TechNest | badboy_trox99 | Blantyre, Malawi | 146 |
+| 18 | [sam-zarila](https://github.com/sam-zarila) | sam zarila | TechNest | badboy_trox99 | Blantyre, Malawi | 145 |
 | 19 | [RodgerCodes](https://github.com/RodgerCodes) | Rodger Kumwanje | @Horizon-vertex |  | Malawi | 130 |
 | 20 | [g1ftmkyelu](https://github.com/g1ftmkyelu) | codemaestro🚀 | Hyphen Malawi | GMkyelu | 🇲🇼 Malawi | 129 |

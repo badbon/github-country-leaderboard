@@ -1,13 +1,13 @@
 # Public Contributions - Philippines
 
-Generated: 2026-10-18T20:54:57.421Z
+Generated: 2026-10-18T21:21:40.702Z
 
-Users: 19764
+Users: 19762
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [jaymar921](https://github.com/jaymar921) | Jayharron Abejar | @full-scale-teams |  | Cebu, Philippines | 1081241 |
-| 2 | [HaroldMars](https://github.com/HaroldMars) | Jay Harold Mars Abejar | Illuminary Peak |  | Cebu, Philippines  | 920333 |
+| 1 | [HaroldMars](https://github.com/HaroldMars) | Jay Harold Mars Abejar | Illuminary Peak |  | Cebu, Philippines  | 1405299 |
+| 2 | [jaymar921](https://github.com/jaymar921) | Jayharron Abejar | @full-scale-teams |  | Cebu, Philippines | 1081241 |
 | 3 | [Mra1k3r0](https://github.com/Mra1k3r0) | John Paul Caigas  | @CodeSyncPH @HallOfCodes |  | Philippines | 101854 |
 | 4 | [markfietje](https://github.com/markfietje) | Mark Fietje | Ex-Dell Technologies Senior Engineer | mark_fietje | Philippines | 24226 |
 | 5 | [jrzvnn](https://github.com/jrzvnn) | Joriz Villanueva | Samsung Electronics | jrzvnn_ | Manila, Philippines | 21650 |

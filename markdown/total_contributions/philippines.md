@@ -1,13 +1,13 @@
 # Total Contributions - Philippines
 
-Generated: 2026-10-18T20:54:57.421Z
+Generated: 2026-10-18T21:21:40.702Z
 
-Users: 19764
+Users: 19762
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [jaymar921](https://github.com/jaymar921) | Jayharron Abejar | @full-scale-teams |  | Cebu, Philippines | 1082638 |
-| 2 | [HaroldMars](https://github.com/HaroldMars) | Jay Harold Mars Abejar | Illuminary Peak |  | Cebu, Philippines  | 920699 |
+| 1 | [HaroldMars](https://github.com/HaroldMars) | Jay Harold Mars Abejar | Illuminary Peak |  | Cebu, Philippines  | 1405903 |
+| 2 | [jaymar921](https://github.com/jaymar921) | Jayharron Abejar | @full-scale-teams |  | Cebu, Philippines | 1082638 |
 | 3 | [jian6137](https://github.com/jian6137) | Jiandale Ambal | @zaide6137 |  | Iligan City, Philippines | 137305 |
 | 4 | [Mra1k3r0](https://github.com/Mra1k3r0) | John Paul Caigas  | @CodeSyncPH @HallOfCodes |  | Philippines | 102001 |
 | 5 | [RyannKim327](https://github.com/RyannKim327) | 1101.0410 |  |  | Philippines | 45557 |

@@ -25,13 +25,13 @@ Indexed users: 354
 | 11 | [maldivien](https://github.com/maldivien) | Ahmed Shareef | Maldives | 5,401 |
 | 12 | [agent306](https://github.com/agent306) | Ncodex | Male', Maldives | 5,276 |
 | 13 | [jaaahh](https://github.com/jaaahh) | Jaah | Maldives | 5,023 |
-| 14 | [N4ZEN](https://github.com/N4ZEN) | Naza | Maldives | 4,920 |
-| 15 | [NeXsHeLL](https://github.com/NeXsHeLL) | ismile ThuThts | Maldives | 4,912 |
-| 16 | [ayarse](https://github.com/ayarse) | ayaz | Maldives | 4,839 |
-| 17 | [roris](https://github.com/roris) | Thoail Ahmed | Maldives | 4,835 |
+| 14 | [ayarse](https://github.com/ayarse) | ayaz | Maldives | 4,966 |
+| 15 | [N4ZEN](https://github.com/N4ZEN) | Naza | Maldives | 4,920 |
+| 16 | [NeXsHeLL](https://github.com/NeXsHeLL) | ismile ThuThts | Maldives | 4,912 |
+| 17 | [roris](https://github.com/roris) | Thoail Ahmed | Maldives | 4,833 |
 | 18 | [muizzu](https://github.com/muizzu) | Muizzu Abbas | Maldives | 4,735 |
 | 19 | [samynmhd](https://github.com/samynmhd) | Mohamed Sameen Firaq | Maldives | 4,156 |
-| 20 | [whosaynow](https://github.com/whosaynow) | whosaynow | Maldives | 4,013 |
+| 20 | [whosaynow](https://github.com/whosaynow) | whosaynow | Maldives | 4,012 |
 
 ## Public Contributions
 
@@ -47,7 +47,7 @@ Indexed users: 354
 | 8 | [ayarse](https://github.com/ayarse) | ayaz | Maldives | 724 |
 | 9 | [crockalet](https://github.com/crockalet) |  | Maldives | 680 |
 | 10 | [fallenbagel](https://github.com/fallenbagel) |  | Maldives | 632 |
-| 11 | [chipaau](https://github.com/chipaau) | ahmed shifau | Maldives | 559 |
+| 11 | [chipaau](https://github.com/chipaau) | ahmed shifau | Maldives | 575 |
 | 12 | [N4ZEN](https://github.com/N4ZEN) | Naza | Maldives | 498 |
 | 13 | [Ghoul4500](https://github.com/Ghoul4500) | Ahmed Yaseen | Maldives | 425 |
 | 14 | [xSil3nt](https://github.com/xSil3nt) | Shazin | Male', Maldives | 422 |
@@ -83,4 +83,4 @@ Indexed users: 354
 | 19 | [muhannad0](https://github.com/muhannad0) | Monde | Maldives | 42 |
 | 20 | [inash](https://github.com/inash) | Inash Zubair | Male', Maldives | 41 |
 
-Generated: 2026-10-18T19:47:37.149Z
+Generated: 2026-10-18T21:10:55.565Z

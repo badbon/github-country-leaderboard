@@ -45,10 +45,10 @@ Indexed users: 7,732
 | 6 | [a-green-hand-jack](https://github.com/a-green-hand-jack) | Jack Wu | Saudi Arabia (SA)  | 5,062 |
 | 7 | [justpainful](https://github.com/justpainful) | 777 | Saudi Arabia | 4,237 |
 | 8 | [rashadnaqeeb](https://github.com/rashadnaqeeb) | Rashad Naqeeb | Saudi Arabia | 4,097 |
-| 9 | [AsemJK](https://github.com/AsemJK) | Asem Alsaiyadi | Saudi Arabia | 4,084 |
-| 10 | [ManalAlyami7](https://github.com/ManalAlyami7) | Manal Alyami  | Riyadh, Saudi Arabia | 3,438 |
-| 11 | [EslamElshikh-dev](https://github.com/EslamElshikh-dev) | Eslam Elshikh | Riyadh  | 3,381 |
-| 12 | [CalledSTRIKER](https://github.com/CalledSTRIKER) | Sultan | Saudi Arabia | 3,251 |
+| 9 | [ManalAlyami7](https://github.com/ManalAlyami7) | Manal Alyami  | Riyadh, Saudi Arabia | 3,438 |
+| 10 | [EslamElshikh-dev](https://github.com/EslamElshikh-dev) | Eslam Elshikh | Riyadh  | 3,381 |
+| 11 | [CalledSTRIKER](https://github.com/CalledSTRIKER) | Sultan | Saudi Arabia | 3,251 |
+| 12 | [AsemJK](https://github.com/AsemJK) | Asem Alsaiyadi | Saudi Arabia | 3,090 |
 | 13 | [SyabAhmad](https://github.com/SyabAhmad) | Syed Syab Ahmad | Al-Riyadh, Saudi Arabia | 2,740 |
 | 14 | [aliakarma](https://github.com/aliakarma) | Ali Akarma | Madinah, Saudi Arabia | 2,463 |
 | 15 | [singer-yang](https://github.com/singer-yang) | Xinge Yang | Thuwal, Saudi Arabia | 2,413 |
@@ -83,4 +83,4 @@ Indexed users: 7,732
 | 19 | [davidrpugh](https://github.com/davidrpugh) | David R. Pugh | Thuwal, Saudi Arabia | 458 |
 | 20 | [madahetooo](https://github.com/madahetooo) | Eslam Medhat | Riyadh, Saudi Arabia | 458 |
 
-Generated: 2026-10-18T20:09:07.727Z
+Generated: 2026-10-18T21:27:33.914Z

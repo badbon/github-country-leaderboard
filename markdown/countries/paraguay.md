@@ -13,8 +13,8 @@ Indexed users: 2,014
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [LuisValdesZero](https://github.com/LuisValdesZero) | Luis Valdés | Paraguay | 20,188 |
-| 2 | [devsart95](https://github.com/devsart95) | S4R | Paraguay | 16,831 |
-| 3 | [nikdim03](https://github.com/nikdim03) | Dmitrii Nikulin | Paraguay | 14,573 |
+| 2 | [nikdim03](https://github.com/nikdim03) | Dmitrii Nikulin | Paraguay | 17,587 |
+| 3 | [devsart95](https://github.com/devsart95) | S4R | Paraguay | 16,831 |
 | 4 | [diogocsoares](https://github.com/diogocsoares) | Diogo Soares | Paraguay | 11,498 |
 | 5 | [vargascarlitos](https://github.com/vargascarlitos) | Carlitos Vargas | Paraguay | 10,883 |
 | 6 | [anthonybir](https://github.com/anthonybir) | Anthony Bir | Asuncion, Paraguay | 10,793 |
@@ -49,9 +49,9 @@ Indexed users: 2,014
 | 10 | [stevenayal](https://github.com/stevenayal) | Steven Ayala | Asunción, Paraguay | 1,653 |
 | 11 | [raczajko](https://github.com/raczajko) | Raúl Aguiar Czajkowski | Paraguay | 1,644 |
 | 12 | [ciroiriarte](https://github.com/ciroiriarte) | Ciro Iriarte | Paraguay | 1,384 |
-| 13 | [nikdim03](https://github.com/nikdim03) | Dmitrii Nikulin | Paraguay | 1,349 |
-| 14 | [isaias-alt](https://github.com/isaias-alt) | Lucas Isaias Casco | Paraguay | 1,325 |
-| 15 | [oscar0pavon](https://github.com/oscar0pavon) | Oscar Pavon | Paraguay | 1,269 |
+| 13 | [isaias-alt](https://github.com/isaias-alt) | Lucas Isaias Casco | Paraguay | 1,325 |
+| 14 | [oscar0pavon](https://github.com/oscar0pavon) | Oscar Pavon | Paraguay | 1,269 |
+| 15 | [nikdim03](https://github.com/nikdim03) | Dmitrii Nikulin | Paraguay | 1,266 |
 | 16 | [m2f0](https://github.com/m2f0) | Mario Mayerle | Paraguay/USA | 1,086 |
 | 17 | [cardozoaldama](https://github.com/cardozoaldama) | Fernando Cardozo | Paraguay | 980 |
 | 18 | [Renetrox](https://github.com/Renetrox) | Dino René Caballero Marquez | Paraguay | 971 |
@@ -83,4 +83,4 @@ Indexed users: 2,014
 | 19 | [metakeule](https://github.com/metakeule) | metakeule | Asunción / Paraguay | 109 |
 | 20 | [replay](https://github.com/replay) | Mauro Stettler | Asuncion, Paraguay | 105 |
 
-Generated: 2026-10-18T20:01:32.604Z
+Generated: 2026-10-18T21:20:33.669Z
