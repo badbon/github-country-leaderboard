@@ -31794,9 +31794,9 @@
     "location": "Dublin, CA",
     "company": "Epoch AI",
     "twitterUsername": "",
-    "followers": 16,
-    "privateContributions": 468,
-    "publicContributions": 1964,
+    "followers": 17,
+    "privateContributions": 418,
+    "publicContributions": 1880,
     "createdAt": "2022-10-18T01:21:01Z"
   },
   {
@@ -31807,8 +31807,8 @@
     "company": "",
     "twitterUsername": "musaddique333",
     "followers": 16,
-    "privateContributions": 705,
-    "publicContributions": 17,
+    "privateContributions": 694,
+    "publicContributions": 42,
     "createdAt": "2022-01-14T03:54:23Z"
   },
   {
@@ -31818,9 +31818,9 @@
     "location": "Dublin",
     "company": "",
     "twitterUsername": "",
-    "followers": 15,
-    "privateContributions": 2,
-    "publicContributions": 0,
+    "followers": 14,
+    "privateContributions": 16,
+    "publicContributions": 4,
     "createdAt": "2022-01-04T17:23:49Z"
   },
   {
@@ -31830,9 +31830,9 @@
     "location": "Dublin",
     "company": "",
     "twitterUsername": "yaswanth7868",
-    "followers": 15,
-    "privateContributions": 0,
-    "publicContributions": 56,
+    "followers": 16,
+    "privateContributions": 2,
+    "publicContributions": 94,
     "createdAt": "2022-05-12T08:37:39Z"
   },
   {
@@ -31842,7 +31842,7 @@
     "location": "Dublin",
     "company": "AWS",
     "twitterUsername": "",
-    "followers": 15,
+    "followers": 14,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-05-04T06:06:52Z"
@@ -31854,9 +31854,9 @@
     "location": "Dublin",
     "company": "Covalen Solutions",
     "twitterUsername": "",
-    "followers": 15,
+    "followers": 14,
     "privateContributions": 0,
-    "publicContributions": 64,
+    "publicContributions": 58,
     "createdAt": "2022-01-24T17:56:41Z"
   },
   {
@@ -31879,8 +31879,8 @@
     "company": "DCU",
     "twitterUsername": "",
     "followers": 14,
-    "privateContributions": 77,
-    "publicContributions": 421,
+    "privateContributions": 38,
+    "publicContributions": 313,
     "createdAt": "2022-10-11T08:41:43Z"
   },
   {
@@ -31890,9 +31890,9 @@
     "location": "Dublin",
     "company": "",
     "twitterUsername": "",
-    "followers": 13,
+    "followers": 14,
     "privateContributions": 0,
-    "publicContributions": 716,
+    "publicContributions": 701,
     "createdAt": "2022-12-19T15:05:48Z"
   },
   {
@@ -31902,7 +31902,7 @@
     "location": "Dublin",
     "company": "",
     "twitterUsername": "MichaelBabik",
-    "followers": 12,
+    "followers": 11,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-03-02T22:47:30Z"
@@ -31938,9 +31938,9 @@
     "location": "Dublin",
     "company": "Red Hat",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 9,
     "privateContributions": 18,
-    "publicContributions": 200,
+    "publicContributions": 449,
     "createdAt": "2022-04-07T09:43:00Z"
   },
   {
@@ -31968,25 +31968,13 @@
     "createdAt": "2022-06-26T23:34:20Z"
   },
   {
-    "login": "songyang8964",
-    "name": "Song Yang",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/109130469?s=72&u=6a7ff4ee21dcaa5267049387a4e6584d70e6b037&v=4",
-    "location": "Dublin",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 0,
-    "publicContributions": 491,
-    "createdAt": "2022-07-12T05:45:50Z"
-  },
-  {
     "login": "vaaleerkiin",
     "name": "Valerii Kamelkov",
     "avatarUrl": "https://avatars.githubusercontent.com/u/109087195?s=72&u=06ec0bedb4b8efb617f2ab296dda54a6420390b6&v=4",
     "location": "Dublin",
     "company": "NAKKKIM",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 12,
     "privateContributions": 0,
     "publicContributions": 104,
     "createdAt": "2022-07-11T13:56:56Z"
@@ -31998,7 +31986,7 @@
     "location": "Dublin",
     "company": "Microsoft",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 10,
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2022-01-04T18:35:39Z"
@@ -32010,7 +31998,7 @@
     "location": "Dublin",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 10,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-03-13T09:49:32Z"

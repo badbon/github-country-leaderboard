@@ -31746,7 +31746,7 @@
     "location": "Abu Dhabi, UAE",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-06-04T16:57:27Z"
@@ -31759,8 +31759,8 @@
     "company": "Slider Delivery Service",
     "twitterUsername": "asif_tiwana",
     "followers": 5,
-    "privateContributions": 696,
-    "publicContributions": 10,
+    "privateContributions": 767,
+    "publicContributions": 5,
     "createdAt": "2018-10-06T12:59:04Z"
   },
   {
@@ -31780,11 +31780,11 @@
     "name": "Mohamed Mahmoud",
     "avatarUrl": "https://avatars.githubusercontent.com/u/44899101?s=72&u=0f3d644003bd27417328bfdfc29d84e736e78996&v=4",
     "location": "Abu Dhabi, UAE",
-    "company": "",
+    "company": "New York University",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 120,
-    "publicContributions": 52,
+    "privateContributions": 20,
+    "publicContributions": 61,
     "createdAt": "2018-11-09T13:13:35Z"
   },
   {
@@ -31796,7 +31796,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 14,
     "createdAt": "2018-04-23T19:00:24Z"
   },
   {
@@ -31807,7 +31807,7 @@
     "company": "Wizcommerce",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 798,
+    "privateContributions": 578,
     "publicContributions": 14,
     "createdAt": "2018-10-09T07:23:34Z"
   },
@@ -31820,7 +31820,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 3,
-    "publicContributions": 11,
+    "publicContributions": 12,
     "createdAt": "2018-04-25T18:21:55Z"
   },
   {
@@ -31831,8 +31831,8 @@
     "company": "Etihad Aviation Group",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 145,
-    "publicContributions": 15,
+    "privateContributions": 103,
+    "publicContributions": 3,
     "createdAt": "2018-03-15T06:01:21Z"
   },
   {
@@ -31867,8 +31867,8 @@
     "company": "",
     "twitterUsername": "mbs047",
     "followers": 4,
-    "privateContributions": 3479,
-    "publicContributions": 489,
+    "privateContributions": 5306,
+    "publicContributions": 474,
     "createdAt": "2018-04-18T16:58:14Z"
   },
   {
@@ -31904,7 +31904,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 31,
     "createdAt": "2018-05-21T04:43:22Z"
   },
   {
@@ -31938,9 +31938,9 @@
     "location": "Abu Dhabi",
     "company": "Presight AI",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 25,
     "createdAt": "2018-05-06T20:40:44Z"
   },
   {
@@ -31950,9 +31950,9 @@
     "location": "Abu Dhabi",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 18,
     "createdAt": "2018-08-07T08:07:52Z"
   },
   {
@@ -50698,5 +50698,17 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-07-02T13:43:04Z"
+  },
+  {
+    "login": "Mohamad-Hag",
+    "name": "Mohammad Al-Haj Houssein",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/52244289?s=72&u=4c6c92919407dfe8589865d27486add18a636d87&v=4",
+    "location": "Dubai, United Arab Emirates",
+    "company": "",
+    "twitterUsername": "mhdhag99",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2019-06-26T12:10:43Z"
   }
 ]

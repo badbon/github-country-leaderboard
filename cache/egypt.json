@@ -32072,7 +32072,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 33,
+    "publicContributions": 26,
     "createdAt": "2025-06-24T17:36:26Z"
   },
   {
@@ -32084,7 +32084,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 0,
     "createdAt": "2025-02-28T15:51:49Z"
   },
   {
@@ -32096,7 +32096,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 53,
+    "publicContributions": 58,
     "createdAt": "2025-12-12T19:13:06Z"
   },
   {
@@ -32106,7 +32106,7 @@
     "location": "cairo",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-02-23T16:17:55Z"
@@ -32120,20 +32120,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 17,
     "createdAt": "2025-09-30T10:12:14Z"
-  },
-  {
-    "login": "SamehAbdelAlYoussef",
-    "name": "Software engineer",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/193988794?s=72&u=cae7a4b4eb158c2932c2a3aea69417a86e9e0248&v=4",
-    "location": "cairo",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 145,
-    "createdAt": "2025-01-06T21:50:12Z"
   },
   {
     "login": "Mahmoud-Elmaghraby",
@@ -32144,7 +32132,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 45,
+    "publicContributions": 95,
     "createdAt": "2025-08-17T11:52:41Z"
   },
   {
@@ -32154,9 +32142,9 @@
     "location": "cairo",
     "company": "No",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 17,
     "createdAt": "2025-01-26T12:21:21Z"
   },
   {
@@ -32180,7 +32168,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 52,
+    "publicContributions": 58,
     "createdAt": "2025-09-18T16:43:33Z"
   },
   {
@@ -32202,9 +32190,9 @@
     "location": "Cairo",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 25,
     "createdAt": "2025-03-05T11:01:06Z"
   },
   {
@@ -32240,7 +32228,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 180,
+    "publicContributions": 429,
     "createdAt": "2025-12-09T20:04:26Z"
   },
   {
@@ -32264,7 +32252,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 60,
+    "publicContributions": 59,
     "createdAt": "2025-10-06T18:01:59Z"
   },
   {
@@ -32276,7 +32264,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-10-05T08:44:51Z"
   },
   {
@@ -32288,7 +32276,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 4,
     "createdAt": "2025-09-10T23:47:34Z"
   },
   {
@@ -32299,7 +32287,7 @@
     "company": "Balance-Code",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
+    "privateContributions": 53,
     "publicContributions": 19,
     "createdAt": "2025-12-20T13:07:29Z"
   },

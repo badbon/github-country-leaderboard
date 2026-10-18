@@ -2167,8 +2167,8 @@
     "company": "yhankotech",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 40,
-    "publicContributions": 0,
+    "privateContributions": 12,
+    "publicContributions": 28,
     "createdAt": "2025-01-11T19:02:51Z"
   },
   {
@@ -2228,7 +2228,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 38,
+    "publicContributions": 39,
     "createdAt": "2025-08-14T10:26:52Z"
   },
   {
@@ -2264,7 +2264,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2104,
+    "publicContributions": 2126,
     "createdAt": "2025-03-17T00:49:10Z"
   },
   {
@@ -2298,22 +2298,10 @@
     "location": "Angola",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-08-11T18:08:04Z"
-  },
-  {
-    "login": "Aureo-z",
-    "name": "Áureo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/216942817?s=72&u=11900f3bc9dbca1576abe0e8247545c7d12895ab&v=4",
-    "location": "Angola",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 23,
-    "createdAt": "2025-06-18T18:57:51Z"
   },
   {
     "login": "MarchelQuiala",
@@ -2328,18 +2316,6 @@
     "createdAt": "2025-04-09T16:36:44Z"
   },
   {
-    "login": "jozzoficial",
-    "name": "JOZZ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/194631430?s=72&u=8b089d1576033a7e91bbf83bf30d4149b28f2b1e&v=4",
-    "location": "Angola, Uige",
-    "company": "TaketWare",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 98,
-    "createdAt": "2025-01-11T18:36:24Z"
-  },
-  {
     "login": "itamar-pambo-baika-developer",
     "name": "Itamar Pambo",
     "avatarUrl": "https://avatars.githubusercontent.com/u/193168845?s=72&u=4b0f92060e80e34d4c435f474d8f03423bddbc7e&v=4",
@@ -2347,7 +2323,7 @@
     "company": "TERAMED SA",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 616,
+    "privateContributions": 613,
     "publicContributions": 1,
     "createdAt": "2024-12-29T19:40:04Z"
   },

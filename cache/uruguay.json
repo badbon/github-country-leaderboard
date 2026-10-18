@@ -32154,9 +32154,9 @@
     "location": "Montevideo",
     "company": "Institut Pasteur Montevideo",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 42,
-    "publicContributions": 89,
+    "followers": 4,
+    "privateContributions": 29,
+    "publicContributions": 73,
     "createdAt": "2020-01-02T22:18:24Z"
   },
   {
@@ -32167,8 +32167,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 627,
-    "publicContributions": 1,
+    "privateContributions": 629,
+    "publicContributions": 4,
     "createdAt": "2020-07-19T20:46:17Z"
   },
   {
@@ -32180,7 +32180,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 91,
+    "publicContributions": 89,
     "createdAt": "2020-07-31T17:44:21Z"
   },
   {
@@ -32227,7 +32227,7 @@
     "company": "Bicasoft",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 5,
+    "privateContributions": 6,
     "publicContributions": 10,
     "createdAt": "2020-02-14T16:11:33Z"
   },
@@ -32240,7 +32240,7 @@
     "twitterUsername": "zebraitis",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 15,
     "createdAt": "2020-11-09T15:00:26Z"
   },
   {
@@ -32275,8 +32275,8 @@
     "company": "Streaver",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 941,
-    "publicContributions": 103,
+    "privateContributions": 1207,
+    "publicContributions": 15,
     "createdAt": "2020-08-18T23:28:21Z"
   },
   {
@@ -32300,7 +32300,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 11,
     "createdAt": "2020-04-16T21:35:31Z"
   },
   {
@@ -32335,8 +32335,8 @@
     "company": "TalkingPoints",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 443,
-    "publicContributions": 0,
+    "privateContributions": 535,
+    "publicContributions": 2,
     "createdAt": "2020-12-04T21:10:55Z"
   },
   {
@@ -32346,22 +32346,10 @@
     "location": "Montevideo",
     "company": "WorkWithPlus",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 1811,
-    "publicContributions": 58,
+    "followers": 2,
+    "privateContributions": 2625,
+    "publicContributions": 55,
     "createdAt": "2020-07-04T02:43:25Z"
-  },
-  {
-    "login": "FalonStrada",
-    "name": "Falon Strada",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/59482978?s=72&u=bec2a556e4219dc7504da366c90227957c29d7ff&v=4",
-    "location": "Montevideo, Uruguay ",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 74,
-    "createdAt": "2020-01-03T17:02:40Z"
   },
   {
     "login": "dtt1976",
@@ -32383,8 +32371,8 @@
     "company": "New Age Data",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 14,
-    "publicContributions": 24,
+    "privateContributions": 16,
+    "publicContributions": 20,
     "createdAt": "2020-03-21T01:11:14Z"
   },
   {

@@ -32360,7 +32360,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 0,
     "createdAt": "2019-04-10T19:03:06Z"
   },
   {
@@ -32372,7 +32372,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 35,
     "createdAt": "2019-04-12T16:50:28Z"
   },
   {
@@ -32406,9 +32406,9 @@
     "location": "Costa Rica",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 12,
-    "publicContributions": 22,
+    "followers": 4,
+    "privateContributions": 10,
+    "publicContributions": 23,
     "createdAt": "2019-02-18T22:02:40Z"
   },
   {
@@ -32452,10 +32452,10 @@
     "name": "Luis Cisneros",
     "avatarUrl": "https://avatars.githubusercontent.com/u/46541769?s=72&u=a7e119d1d009a70fb8729000babc6337b667b27f&v=4",
     "location": "Costa Rica",
-    "company": "",
+    "company": "@Andromeda-Software-Inc",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 193,
+    "privateContributions": 176,
     "publicContributions": 0,
     "createdAt": "2019-01-09T20:54:30Z"
   },
@@ -32479,7 +32479,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 251,
+    "privateContributions": 320,
     "publicContributions": 2,
     "createdAt": "2019-06-03T03:16:48Z"
   },
@@ -32526,7 +32526,7 @@
     "location": "Costa Rica",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-03-01T23:34:20Z"
@@ -32556,13 +32556,13 @@
     "createdAt": "2019-05-30T17:22:13Z"
   },
   {
-    "login": "R4PO",
+    "login": "r4po",
     "name": "Richard Picado",
     "avatarUrl": "https://avatars.githubusercontent.com/u/57374266?s=72&u=c077d1050da82ccb86fedc13707c235606b7c886&v=4",
     "location": "Costa Rica",
     "company": "",
     "twitterUsername": "xR4P0x",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-11-04T21:58:54Z"
@@ -32587,8 +32587,8 @@
     "company": "Kepler Group",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1570,
-    "publicContributions": 16,
+    "privateContributions": 1640,
+    "publicContributions": 11,
     "createdAt": "2019-06-02T02:05:33Z"
   },
   {
