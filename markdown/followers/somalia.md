@@ -1,6 +1,6 @@
 # Followers - Somalia
 
-Generated: 2026-10-18T17:28:08.367Z
+Generated: 2026-10-18T18:42:47.042Z
 
 Users: 866
 
@@ -19,7 +19,7 @@ Users: 866
 | 11 | [miirshe](https://github.com/miirshe) | Abdikafi Isse Isak | @kaabeup @Waagefaal @bulsho-development-bank |  | Somalia | 202 |
 | 12 | [baabale](https://github.com/baabale) | Abdirahman Baabale | Bulsho Development Bank | baabale | Mogadishu, Somalia | 164 |
 | 13 | [abdinasir-Tman](https://github.com/abdinasir-Tman) | Abdinasir Mursal | @dugsiiye |  | Mogadishu, Somalia | 156 |
-| 14 | [engabdullah-2024](https://github.com/engabdullah-2024) | Abdullah Ali | Co-Founder & Lead Dev Of TTMCHANGE  | enga95311 | Somalia | 130 |
+| 14 | [engabdullah-2024](https://github.com/engabdullah-2024) | Abdullah Ali | Co-Founder & Lead Dev Of TTMCHANGE  | enga95311 | Somalia | 138 |
 | 15 | [hanad124](https://github.com/hanad124) | Hanad Mohamed Dahir | @bulsho-development-bank |  | Mogadishu \| Somalia | 118 |
 | 16 | [Manka-Mohamet](https://github.com/Manka-Mohamet) | عبد الرحمان محمد |  |  | Somalia | 113 |
 | 17 | [ENG-CJ](https://github.com/ENG-CJ) | Abdulrahman | Tabaarak ICT Solutions |  | Mogdisho,banadir,somalia | 111 |

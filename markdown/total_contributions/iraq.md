@@ -1,6 +1,6 @@
 # Total Contributions - Iraq
 
-Generated: 2026-10-18T18:06:49.363Z
+Generated: 2026-10-18T19:35:59.763Z
 
 Users: 2233
 
@@ -17,8 +17,8 @@ Users: 2233
 | 9 | [laith43d](https://github.com/laith43d) | Layth Zahid | Twoabstracts |  | Baghdad | 8032 |
 | 10 | [sajadfd](https://github.com/sajadfd) | sajjad | Al-jad |  | Iraq | 7950 |
 | 11 | [alimehasin](https://github.com/alimehasin) | Ali Mehasin |  | alimehasin | Baghdad | 7063 |
-| 12 | [MohammaedAlani](https://github.com/MohammaedAlani) | Mohammed Younis | ZainCash |  | Baghdad, Iraq | 6990 |
-| 13 | [Abdalkaderdev](https://github.com/Abdalkaderdev) | Abdalkader Alhamoud |  |  | Iraq | 6803 |
+| 12 | [Abdalkaderdev](https://github.com/Abdalkaderdev) | Abdalkader Alhamoud |  |  | Iraq | 6997 |
+| 13 | [MohammaedAlani](https://github.com/MohammaedAlani) | Mohammed Younis | ZainCash |  | Baghdad, Iraq | 6990 |
 | 14 | [Aramsatar](https://github.com/Aramsatar) | Aram Satar |  |  | Erbil, Iraq | 6771 |
 | 15 | [codezardasht](https://github.com/codezardasht) | Zardasht Rwandzi | TechnoBase |  | Iraq/Erbil | 6641 |
 | 16 | [Hamoi1](https://github.com/Hamoi1) | Muhammad Esmael |  |  | Iraq, Sulaymaniyah, Ranya  | 6573 |

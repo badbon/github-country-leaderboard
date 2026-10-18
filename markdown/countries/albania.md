@@ -31,7 +31,7 @@ Indexed users: 1,184
 | 17 | [ezekaj](https://github.com/ezekaj) | Elvi Zekaj | Tirana, Albania | 4,540 |
 | 18 | [sly503](https://github.com/sly503) | Fatjon Rami | Tirana | 4,508 |
 | 19 | [klevisndoka](https://github.com/klevisndoka) | Klevis Ndoka | Tirane, Albania | 4,264 |
-| 20 | [klkucaj](https://github.com/klkucaj) | Klaudio Kuçaj | Tirana, Albania | 4,217 |
+| 20 | [jozefini](https://github.com/jozefini) | Jozefin B. | Albania | 4,198 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 1,184
 | 19 | [SxtBox](https://github.com/SxtBox) | Albdroid.AL | Albania | 81 |
 | 20 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | Albania | 77 |
 
-Generated: 2026-10-18T17:40:42.881Z
+Generated: 2026-10-18T19:01:52.006Z

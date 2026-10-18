@@ -46,10 +46,10 @@ Indexed users: 263
 | 7 | [koulibalyamadou10](https://github.com/koulibalyamadou10) | Koulibaly | Conakry | 252 |
 | 8 | [Le-web-developpeur1](https://github.com/Le-web-developpeur1) | Boubacar Bah | Conakry-Guinea | 231 |
 | 9 | [AlhsGdev](https://github.com/AlhsGdev) | Alhousseny Bangoura | Guinée, Conakry | 196 |
-| 10 | [popytech](https://github.com/popytech) | POPY TRAORE | Conakry | 177 |
-| 11 | [Jeanos2004](https://github.com/Jeanos2004) | Jeanos Ouamouno | Guinee-Conakry | 173 |
-| 12 | [Delamou1234](https://github.com/Delamou1234) | Samaké DELAMOU | Conakry  | 168 |
-| 13 | [amadou11doumbouya10-lgtm](https://github.com/amadou11doumbouya10-lgtm) | Amah  | Guinée. Conakry | 167 |
+| 10 | [amadou11doumbouya10-lgtm](https://github.com/amadou11doumbouya10-lgtm) | Amah  | Guinée. Conakry | 180 |
+| 11 | [popytech](https://github.com/popytech) | POPY TRAORE | Conakry | 177 |
+| 12 | [Jeanos2004](https://github.com/Jeanos2004) | Jeanos Ouamouno | Guinee-Conakry | 173 |
+| 13 | [Delamou1234](https://github.com/Delamou1234) | Samaké DELAMOU | Conakry  | 168 |
 | 14 | [EORBAH](https://github.com/EORBAH) | EOR_BAH545 | Guinea Conakry | 154 |
 | 15 | [elhadjmamadou](https://github.com/elhadjmamadou) | Elhadj Mamadou Diallo | Guinee, conakry | 149 |
 | 16 | [Abel-sangare](https://github.com/Abel-sangare) |  | Conakry | 129 |
@@ -83,4 +83,4 @@ Indexed users: 263
 | 19 | [fouzo09](https://github.com/fouzo09) | Mafouz DIALLO | Guinée, conakry | 13 |
 | 20 | [koulibalyamadou10](https://github.com/koulibalyamadou10) | Koulibaly | Conakry | 13 |
 
-Generated: 2026-10-18T18:03:42.126Z
+Generated: 2026-10-18T19:32:01.775Z

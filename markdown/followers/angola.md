@@ -1,6 +1,6 @@
 # Followers - Angola
 
-Generated: 2026-10-18T17:42:20.542Z
+Generated: 2026-10-18T19:03:10.248Z
 
 Users: 2497
 
@@ -9,7 +9,7 @@ Users: 2497
 | 1 | [ismaely](https://github.com/ismaely) | Gunza Ismael | SofyNex |  | Luanda - Angola | 1064 |
 | 2 | [MarcioQuimbundo](https://github.com/MarcioQuimbundo) | Márcio Quimbundo | @ombank | marcioquimbundo | Luanda, Angola | 604 |
 | 3 | [kurogai](https://github.com/kurogai) | Héber Júlio |  | kurogai_pwn | Luanda / Angola | 472 |
-| 4 | [EmenegildoMarques0](https://github.com/EmenegildoMarques0) | Emenegildo Marques | Eclipse Solutions |  | Angola, Luanda | 414 |
+| 4 | [EmenegildoMarques0](https://github.com/EmenegildoMarques0) | Emenegildo Marques | Eclipse Solutions |  | Angola, Luanda | 420 |
 | 5 | [JoseCage](https://github.com/JoseCage) | José Cage  |  | cagejose | Luanda, Angola | 406 |
 | 6 | [westjoao12](https://github.com/westjoao12) | West João |  |  | Angola, Luanda | 338 |
 | 7 | [Adyllsxn](https://github.com/Adyllsxn) | Domingos Nascimento | innovaqui |  | Luanda, Angola | 294 |

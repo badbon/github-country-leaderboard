@@ -41,15 +41,15 @@ Indexed users: 4,662
 | 2 | [martin-janci](https://github.com/martin-janci) | Martin Janči | Bratislava | 7,850 |
 | 3 | [tomasol](https://github.com/tomasol) | Tomáš Olvecký | Bratislava, Slovakia | 5,880 |
 | 4 | [NagyVikt](https://github.com/NagyVikt) | Viktor Nagy | Slovakia  | 4,193 |
-| 5 | [rischo32](https://github.com/rischo32) | Richard Fonfára | Slovakia | 3,943 |
-| 6 | [lalinsky](https://github.com/lalinsky) | Lukáš Lalinský | Trenčín, Slovakia | 3,812 |
-| 7 | [Kenessy](https://github.com/Kenessy) | Daniel Kenessy | Slovakia | 3,788 |
-| 8 | [imincik](https://github.com/imincik) | Ivan Mincik | Slovakia | 3,740 |
-| 9 | [MatusMockor](https://github.com/MatusMockor) | Matúš Močkor | Slovakia | 3,668 |
-| 10 | [vzeman](https://github.com/vzeman) | Viktor Zeman | Bratislava | 3,667 |
-| 11 | [marianmeres](https://github.com/marianmeres) | Marian Meres | Bratislava, Slovakia | 3,264 |
-| 12 | [peter-fusek](https://github.com/peter-fusek) | Peter Fusek \| instarea | Bratislava, Slovakia, EU | 3,256 |
-| 13 | [matejkosiarcik](https://github.com/matejkosiarcik) | Matej Košiarčik | Slovakia | 3,113 |
+| 5 | [matejkosiarcik](https://github.com/matejkosiarcik) | Matej Košiarčik | Slovakia | 3,962 |
+| 6 | [rischo32](https://github.com/rischo32) | Richard Fonfára | Slovakia | 3,943 |
+| 7 | [lalinsky](https://github.com/lalinsky) | Lukáš Lalinský | Trenčín, Slovakia | 3,812 |
+| 8 | [Kenessy](https://github.com/Kenessy) | Daniel Kenessy | Slovakia | 3,788 |
+| 9 | [imincik](https://github.com/imincik) | Ivan Mincik | Slovakia | 3,740 |
+| 10 | [MatusMockor](https://github.com/MatusMockor) | Matúš Močkor | Slovakia | 3,668 |
+| 11 | [vzeman](https://github.com/vzeman) | Viktor Zeman | Bratislava | 3,667 |
+| 12 | [marianmeres](https://github.com/marianmeres) | Marian Meres | Bratislava, Slovakia | 3,264 |
+| 13 | [peter-fusek](https://github.com/peter-fusek) | Peter Fusek \| instarea | Bratislava, Slovakia, EU | 3,256 |
 | 14 | [NightMean](https://github.com/NightMean) |  | Slovakia | 3,023 |
 | 15 | [WizzardSK](https://github.com/WizzardSK) |  | Bratislava, Slovakia | 2,853 |
 | 16 | [alvianzf](https://github.com/alvianzf) | Alvian Zachry Faturrahman | Tanjungpinang, Batam, Karimun, Bratislava | 2,610 |
@@ -83,4 +83,4 @@ Indexed users: 4,662
 | 19 | [Stiivi](https://github.com/Stiivi) | Stefan Urbanek | Bratislava | 280 |
 | 20 | [haad](https://github.com/haad) | Adam Hamsik | Bratislava Slovakia | 259 |
 
-Generated: 2026-10-18T17:26:01.673Z
+Generated: 2026-10-18T18:42:32.448Z

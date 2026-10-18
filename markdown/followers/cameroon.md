@@ -1,13 +1,13 @@
 # Followers - Cameroon
 
-Generated: 2026-10-18T17:50:27.530Z
+Generated: 2026-10-18T19:12:29.616Z
 
 Users: 1798
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [JOELNATHAN544](https://github.com/JOELNATHAN544) | Joel Nathan Wanko | Adorsys |  | Cameroon, Bangangté  | 1348 |
-| 2 | [ln-dev7](https://github.com/ln-dev7) | LN | @mus-inn | ln_dev7 | Cameroon | 1235 |
+| 2 | [ln-dev7](https://github.com/ln-dev7) | LN | @mus-inn | ln_dev7 | Cameroon | 1238 |
 | 3 | [chojuninengu](https://github.com/chojuninengu) | JU-NINE NGU CHO | Clemios | chojuninengu | Cameroon | 679 |
 | 4 | [bonzum](https://github.com/bonzum) | Mark legend |  |  | Cameroon | 559 |
 | 5 | [Arielpetit](https://github.com/Arielpetit) | arielpetit | @adorsys |  | cameroon | 511 |
@@ -15,7 +15,7 @@ Users: 1798
 | 7 | [Nkwenti-Severian-Ndongtsop](https://github.com/Nkwenti-Severian-Ndongtsop) | @Nkwenti @Severian | Adorsys | n_severian | Cameroon, Bangangte | 355 |
 | 8 | [sangafabrice](https://github.com/sangafabrice) | Fabrice Sanga |  |  | Yaoundé, CM | 331 |
 | 9 | [donaldte](https://github.com/donaldte) | donald programmeur | @HooYia | DProgrammeur | Bamenda/Cameroon | 322 |
-| 10 | [kenrique100](https://github.com/kenrique100) | Kenrique _Ngwa |  | Kenrique_Ngwa | Cameroon | 289 |
+| 10 | [kenrique100](https://github.com/kenrique100) | Kenrique _Ngwa |  | Kenrique_Ngwa | Cameroon | 288 |
 | 11 | [AssahBismarkabah](https://github.com/AssahBismarkabah) | Assah Bismark | @adorsys | Assah_Bismark | Cameroon | 273 |
 | 12 | [wisdom2608](https://github.com/wisdom2608) | Julius |  |  | Buea, Cameroon | 250 |
 | 13 | [tegha-romeo](https://github.com/tegha-romeo) | tegha-romeo | student at GIS Training Center |  | Bangante, Cameroon | 240 |

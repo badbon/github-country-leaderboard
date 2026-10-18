@@ -65,7 +65,7 @@ Indexed users: 2,497
 | 1 | [ismaely](https://github.com/ismaely) | Gunza Ismael | Luanda - Angola | 1,064 |
 | 2 | [MarcioQuimbundo](https://github.com/MarcioQuimbundo) | Márcio Quimbundo | Luanda, Angola | 604 |
 | 3 | [kurogai](https://github.com/kurogai) | Héber Júlio | Luanda / Angola | 472 |
-| 4 | [EmenegildoMarques0](https://github.com/EmenegildoMarques0) | Emenegildo Marques | Angola, Luanda | 414 |
+| 4 | [EmenegildoMarques0](https://github.com/EmenegildoMarques0) | Emenegildo Marques | Angola, Luanda | 420 |
 | 5 | [JoseCage](https://github.com/JoseCage) | José Cage  | Luanda, Angola | 406 |
 | 6 | [westjoao12](https://github.com/westjoao12) | West João | Angola, Luanda | 338 |
 | 7 | [Adyllsxn](https://github.com/Adyllsxn) | Domingos Nascimento | Luanda, Angola | 294 |
@@ -83,4 +83,4 @@ Indexed users: 2,497
 | 19 | [manuelernesto](https://github.com/manuelernesto) | Manuel Ernesto | Angola | 166 |
 | 20 | [Jovanysfive](https://github.com/Jovanysfive) | Job Bento | Angola/Luanda | 152 |
 
-Generated: 2026-10-18T17:42:20.542Z
+Generated: 2026-10-18T19:03:10.248Z

@@ -31,7 +31,7 @@ Indexed users: 5,613
 | 17 | [barbatdev](https://github.com/barbatdev) | Juan Barbat | Uruguay | 7,968 |
 | 18 | [LuisHdezE](https://github.com/LuisHdezE) | MSc Luis A. Hernández Elias | Montevideo, Uruguay | 7,825 |
 | 19 | [Tombar](https://github.com/Tombar) | Martin Loy | Montevideo, Uruguay | 7,600 |
-| 20 | [hernandezsanti](https://github.com/hernandezsanti) | Santiago Hernández | Montevideo, Uruguay | 7,198 |
+| 20 | [FabianLevi](https://github.com/FabianLevi) | Fabian Levinsky | Uruguay | 7,492 |
 
 ## Public Contributions
 
@@ -45,15 +45,15 @@ Indexed users: 5,613
 | 6 | [daedalus](https://github.com/daedalus) | Darío Clavijo | Montevideo, Uruguay | 4,810 |
 | 7 | [davidmonterocrespo24](https://github.com/davidmonterocrespo24) | David Montero Crespo | Uruguay | 3,989 |
 | 8 | [dcadenas](https://github.com/dcadenas) | Daniel Cadenas | Montevideo, Uruguay | 3,937 |
-| 9 | [matiasportugau-ui](https://github.com/matiasportugau-ui) | MatPrompt | Uruguay  | 3,036 |
-| 10 | [ferfalcon](https://github.com/ferfalcon) | Fernando Falcon | Montevideo | 2,943 |
-| 11 | [damiansire](https://github.com/damiansire) | Damian Sire | Uruguay | 2,721 |
-| 12 | [jm181987](https://github.com/jm181987) | Jorge Marquez | Uruguay | 2,672 |
-| 13 | [fzipi](https://github.com/fzipi) | Felipe Zipitría | Montevideo, Uruguay | 2,539 |
-| 14 | [rpiaggio](https://github.com/rpiaggio) | Raúl Piaggio | Uruguay | 2,520 |
-| 15 | [Joacohbc](https://github.com/Joacohbc) | Joacohbc | Uruguay | 2,485 |
-| 16 | [nicolas-maman](https://github.com/nicolas-maman) | Nicolas Maman | Montevideo,Uruguay | 2,373 |
-| 17 | [eduair94](https://github.com/eduair94) | EduAir | Uruguay | 2,284 |
+| 9 | [eduair94](https://github.com/eduair94) | EduAir | Uruguay | 3,797 |
+| 10 | [matiasportugau-ui](https://github.com/matiasportugau-ui) | MatPrompt | Uruguay  | 3,036 |
+| 11 | [ferfalcon](https://github.com/ferfalcon) | Fernando Falcon | Montevideo | 2,943 |
+| 12 | [damiansire](https://github.com/damiansire) | Damian Sire | Uruguay | 2,721 |
+| 13 | [jm181987](https://github.com/jm181987) | Jorge Marquez | Uruguay | 2,672 |
+| 14 | [fzipi](https://github.com/fzipi) | Felipe Zipitría | Montevideo, Uruguay | 2,539 |
+| 15 | [rpiaggio](https://github.com/rpiaggio) | Raúl Piaggio | Uruguay | 2,520 |
+| 16 | [Joacohbc](https://github.com/Joacohbc) | Joacohbc | Uruguay | 2,485 |
+| 17 | [nicolas-maman](https://github.com/nicolas-maman) | Nicolas Maman | Montevideo,Uruguay | 2,373 |
 | 18 | [yanquisalexander](https://github.com/yanquisalexander) | Alexander Barrios | Uruguay | 2,037 |
 | 19 | [bradelev](https://github.com/bradelev) | Braulio De Leon | Montevideo, Uruguay | 2,033 |
 | 20 | [Pauisdev](https://github.com/Pauisdev) | Pau | Uruguay, Montevideo | 2,028 |
@@ -83,4 +83,4 @@ Indexed users: 5,613
 | 19 | [mauricioszabo](https://github.com/mauricioszabo) | Maurício Szabo | Montevideo, Uruguay | 196 |
 | 20 | [ppazos](https://github.com/ppazos) | Pablo Pazos Gutiérrez | Montevideo, Uruguay | 196 |
 
-Generated: 2026-10-18T17:37:01.673Z
+Generated: 2026-10-18T18:56:59.033Z

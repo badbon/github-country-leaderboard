@@ -64,9 +64,9 @@ Indexed users: 3,098
 |---:|---|---|---|---:|
 | 1 | [zbejas](https://github.com/zbejas) | Anže Mavrič | Maribor, Slovenia | 3,018 |
 | 2 | [gto76](https://github.com/gto76) | Jure Šorn | Ljubljana | 1,220 |
-| 3 | [luksa](https://github.com/luksa) | Marko Lukša | Slovenia | 1,118 |
-| 4 | [igorpecovnik](https://github.com/igorpecovnik) | Igor | Ljubljana | 925 |
-| 5 | [andrejbauer](https://github.com/andrejbauer) | Andrej Bauer | Slovenia | 924 |
+| 3 | [luksa](https://github.com/luksa) | Marko Lukša | Slovenia | 1,121 |
+| 4 | [andrejbauer](https://github.com/andrejbauer) | Andrej Bauer | Slovenia | 933 |
+| 5 | [igorpecovnik](https://github.com/igorpecovnik) | Igor | Ljubljana | 925 |
 | 6 | [aksonov](https://github.com/aksonov) | Pavel Aksonov | Koper, Slovenia | 629 |
 | 7 | [Kami](https://github.com/Kami) | Tomaz Muraus | Ljubljana, Slovenia | 614 |
 | 8 | [CANopenNode](https://github.com/CANopenNode) | Janez | Slovenia | 609 |
@@ -83,4 +83,4 @@ Indexed users: 3,098
 | 19 | [garbas](https://github.com/garbas) | Rok Garbas | Ljubljana, Slovenia | 240 |
 | 20 | [buresdv](https://github.com/buresdv) | David Bureš | Maribor, Slovenia | 238 |
 
-Generated: 2026-10-18T17:27:25.687Z
+Generated: 2026-10-18T18:42:38.303Z

@@ -67,20 +67,20 @@ Indexed users: 2,725
 | 3 | [protesilaos](https://github.com/protesilaos) | Protesilaos | Cyprus | 1,355 |
 | 4 | [mozafarimanesh](https://github.com/mozafarimanesh) | Reza  Mozafari Manesh | Republic Of Cyprus | 697 |
 | 5 | [zakirullin](https://github.com/zakirullin) | Artem Zakirullin | Limassol, Cyprus | 565 |
-| 6 | [bravit](https://github.com/bravit) | Vitaly Bragilevsky | Larnaca, Cyprus | 539 |
+| 6 | [bravit](https://github.com/bravit) | Vitaly Bragilevsky | Larnaca, Cyprus | 542 |
 | 7 | [FZambia](https://github.com/FZambia) | Alexander Emelin | Limassol, Cyprus | 470 |
 | 8 | [KaterinaPetrova](https://github.com/KaterinaPetrova) | Ekaterina Petrova | Nicosia, Cyprus | 438 |
 | 9 | [Sanaebadi97](https://github.com/Sanaebadi97) | Sana Ebadi | Cyprus, Nicosia | 401 |
 | 10 | [Dieterbe](https://github.com/Dieterbe) | Dieter Plaetinck | Cyprus | 396 |
 | 11 | [tony2001](https://github.com/tony2001) | Antony Dovgal | Limassol, Cyprus | 371 |
-| 12 | [dgutov](https://github.com/dgutov) | Dmitry Gutov | Limassol, Cyprus | 352 |
+| 12 | [dgutov](https://github.com/dgutov) | Dmitry Gutov | Limassol, Cyprus | 355 |
 | 13 | [fedosejev](https://github.com/fedosejev) | Artemij Fedosejev | Paphos, Cyprus | 352 |
 | 14 | [GrigoriiTarasov](https://github.com/GrigoriiTarasov) |  | Cyprus, Limassol | 334 |
 | 15 | [unsaldemircioglu](https://github.com/unsaldemircioglu) | Ünsal Demircioğlu | Cyprus | 332 |
 | 16 | [merikbest](https://github.com/merikbest) | Miroslav  Khotinskiy | Cyprus | 302 |
-| 17 | [paracycle](https://github.com/paracycle) | Ufuk Kayserilioglu | Nicosia, Cyprus | 294 |
+| 17 | [paracycle](https://github.com/paracycle) | Ufuk Kayserilioglu | Nicosia, Cyprus | 302 |
 | 18 | [sudoguy](https://github.com/sudoguy) | Evgeny Kemerov | Limassol, Cyprus | 251 |
 | 19 | [polterguy](https://github.com/polterguy) | Thomas Hansen | Cyprus | 245 |
-| 20 | [kstep](https://github.com/kstep) | Konstantin Stepanov | Cyprus | 241 |
+| 20 | [mdevaev](https://github.com/mdevaev) | Maxim Devaev | Cyprus | 242 |
 
-Generated: 2026-10-18T17:53:28.082Z
+Generated: 2026-10-18T19:19:45.201Z

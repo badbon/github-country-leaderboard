@@ -1,6 +1,6 @@
 # Total Contributions - Uruguay
 
-Generated: 2026-10-18T17:37:01.673Z
+Generated: 2026-10-18T18:56:59.033Z
 
 Users: 5613
 
@@ -25,4 +25,4 @@ Users: 5613
 | 17 | [barbatdev](https://github.com/barbatdev) | Juan Barbat | Barbat.Dev |  | Uruguay | 7968 |
 | 18 | [LuisHdezE](https://github.com/LuisHdezE) | MSc Luis A. Hernández Elias | PuntoTecno |  | Montevideo, Uruguay | 7825 |
 | 19 | [Tombar](https://github.com/Tombar) | Martin Loy | Undermountain Coding Company | martinloy | Montevideo, Uruguay | 7600 |
-| 20 | [hernandezsanti](https://github.com/hernandezsanti) | Santiago Hernández | @NeoCoast  |  | Montevideo, Uruguay | 7198 |
+| 20 | [FabianLevi](https://github.com/FabianLevi) | Fabian Levinsky | @pentoai |  | Uruguay | 7492 |

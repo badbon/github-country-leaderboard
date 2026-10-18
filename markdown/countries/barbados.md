@@ -27,7 +27,7 @@ Indexed users: 132
 | 13 | [lukehefson](https://github.com/lukehefson) | Luke Hefson | Barbados | 959 |
 | 14 | [ianhambleton](https://github.com/ianhambleton) | Ian Hambleton | Barbados | 673 |
 | 15 | [Thomas-Heniart](https://github.com/Thomas-Heniart) | Thomas Heniart | Barbados | 597 |
-| 16 | [starsden](https://github.com/starsden) | den | Barbados | 584 |
+| 16 | [starsden](https://github.com/starsden) | den | Barbados | 586 |
 | 17 | [clemjfrancis](https://github.com/clemjfrancis) | Clem "CJ" Francis | Barbados | 565 |
 | 18 | [diondree](https://github.com/diondree) | Diondre Edwards | Barbados | 441 |
 | 19 | [paulamelrz](https://github.com/paulamelrz) | Paula Melero | Barbados | 428 |
@@ -52,7 +52,7 @@ Indexed users: 132
 | 13 | [AzielJust](https://github.com/AzielJust) | Aziel Hoyte | Barbados | 107 |
 | 14 | [sramharack](https://github.com/sramharack) | Shankar Ramharack | St. Phillips, Barbados, W.I. | 105 |
 | 15 | [baebranch](https://github.com/baebranch) | Brian Branch | Barbados | 104 |
-| 16 | [starsden](https://github.com/starsden) | den | Barbados | 90 |
+| 16 | [starsden](https://github.com/starsden) | den | Barbados | 92 |
 | 17 | [Taggs](https://github.com/Taggs) | Neil Taggart | (London \|\| Barbados) && Cloud | 90 |
 | 18 | [alexanderbahlk](https://github.com/alexanderbahlk) | Alexander Bahlk | Barbados | 84 |
 | 19 | [Rayh23](https://github.com/Rayh23) | Raynel | Barbados | 81 |
@@ -83,4 +83,4 @@ Indexed users: 132
 | 19 | [sramharack](https://github.com/sramharack) | Shankar Ramharack | St. Phillips, Barbados, W.I. | 12 |
 | 20 | [paulamelrz](https://github.com/paulamelrz) | Paula Melero | Barbados | 11 |
 
-Generated: 2026-10-18T17:45:36.729Z
+Generated: 2026-10-18T19:07:40.402Z

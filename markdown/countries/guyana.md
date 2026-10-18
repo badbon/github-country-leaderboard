@@ -29,7 +29,7 @@ Indexed users: 186
 | 15 | [schrum2](https://github.com/schrum2) | Jacob Schrum | Georgetown, TX | 1,518 |
 | 16 | [kev-mb](https://github.com/kev-mb) | Kevin Martinez Bautista | Georgetown, Texas | 1,476 |
 | 17 | [rjvaleo](https://github.com/rjvaleo) | transelectronic | Georgetown, Colorado | 1,451 |
-| 18 | [xbze3](https://github.com/xbze3) | Ezra Minty | Guyana | 1,402 |
+| 18 | [xbze3](https://github.com/xbze3) | Ezra Minty | Guyana | 1,394 |
 | 19 | [owengrant](https://github.com/owengrant) | Owen Grant | Guyana | 1,275 |
 | 20 | [kathigg](https://github.com/kathigg) | Kathleen Higgins | Georgetown University | 1,267 |
 
@@ -48,7 +48,7 @@ Indexed users: 186
 | 9 | [kathigg](https://github.com/kathigg) | Kathleen Higgins | Georgetown University | 750 |
 | 10 | [blackMastery](https://github.com/blackMastery) | kevon Cadogan | Guyana | 662 |
 | 11 | [xwings](https://github.com/xwings) | xwings | Georgetown, Penang | 488 |
-| 12 | [xbze3](https://github.com/xbze3) | Ezra Minty | Guyana | 480 |
+| 12 | [xbze3](https://github.com/xbze3) | Ezra Minty | Guyana | 472 |
 | 13 | [aG00Dtime](https://github.com/aG00Dtime) | David Henry | Guyana | 329 |
 | 14 | [ryanrhanson](https://github.com/ryanrhanson) | Ryan Hanson | Georgetown, TX | 324 |
 | 15 | [schrum2](https://github.com/schrum2) | Jacob Schrum | Georgetown, TX | 318 |
@@ -83,4 +83,4 @@ Indexed users: 186
 | 19 | [Alien-nick](https://github.com/Alien-nick) | Nicholas Seetaram | South America, Guyana, Georgetown | 22 |
 | 20 | [duncanfinney](https://github.com/duncanfinney) | Duncan Finney | Georgetown, CO | 22 |
 
-Generated: 2026-10-18T18:04:38.942Z
+Generated: 2026-10-18T19:33:08.221Z
