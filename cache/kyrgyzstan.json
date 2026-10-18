@@ -3619,7 +3619,7 @@
     "company": "ACScorp",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 7,
+    "privateContributions": 1,
     "publicContributions": 3,
     "createdAt": "2023-09-14T08:11:13Z"
   },
@@ -3672,18 +3672,6 @@
     "createdAt": "2023-08-07T11:33:54Z"
   },
   {
-    "login": "Taskov1ch",
-    "name": "Askhat",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/154591704?s=72&u=26ce23932754fde9f0b0e416a93244277b1ed265&v=4",
-    "location": "Kyrgyzstan",
-    "company": "@task-v1 @BANedetta @Taskov1ch-Repos",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 480,
-    "createdAt": "2023-12-22T09:22:19Z"
-  },
-  {
     "login": "erzhanKub",
     "name": "Erzhan Kubanchbek uulu",
     "avatarUrl": "https://avatars.githubusercontent.com/u/137794574?s=72&u=476ae09691c1cdeaa4e0ddd5ad6625f83daef33c&v=4",
@@ -3691,7 +3679,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 206,
+    "privateContributions": 192,
     "publicContributions": 0,
     "createdAt": "2023-06-26T13:07:12Z"
   },
@@ -3728,7 +3716,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 59,
+    "publicContributions": 58,
     "createdAt": "2023-11-30T11:50:57Z"
   },
   {
@@ -3751,7 +3739,7 @@
     "company": "PROlab agency",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 117,
+    "privateContributions": 91,
     "publicContributions": 61,
     "createdAt": "2023-10-21T09:22:41Z"
   },
@@ -3799,7 +3787,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 311,
+    "privateContributions": 313,
     "publicContributions": 0,
     "createdAt": "2023-06-14T13:50:43Z"
   },
