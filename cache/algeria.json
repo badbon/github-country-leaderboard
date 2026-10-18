@@ -30714,7 +30714,7 @@
     "location": "Algeria",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 11,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-04-13T14:53:48Z"
@@ -30726,8 +30726,8 @@
     "location": "Algeria",
     "company": "@ Faculty of new technologies (NTIC) [Constantine]",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 1438,
+    "followers": 14,
+    "privateContributions": 1556,
     "publicContributions": 17,
     "createdAt": "2021-10-24T17:13:49Z"
   },
@@ -30738,8 +30738,8 @@
     "location": "algeria",
     "company": "",
     "twitterUsername": "zenomarhoum",
-    "followers": 12,
-    "privateContributions": 180,
+    "followers": 14,
+    "privateContributions": 196,
     "publicContributions": 0,
     "createdAt": "2021-08-20T07:58:48Z"
   },
@@ -30750,7 +30750,7 @@
     "location": "Tlemcen,Algeria",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 13,
     "privateContributions": 6,
     "publicContributions": 22,
     "createdAt": "2021-09-23T00:51:56Z"
@@ -30775,7 +30775,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 80,
+    "privateContributions": 52,
     "publicContributions": 3,
     "createdAt": "2021-11-03T16:48:29Z"
   },
@@ -30799,8 +30799,8 @@
     "company": "",
     "twitterUsername": "blilitasimouch",
     "followers": 12,
-    "privateContributions": 0,
-    "publicContributions": 13,
+    "privateContributions": 1182,
+    "publicContributions": 12,
     "createdAt": "2021-11-14T13:31:28Z"
   },
   {
@@ -30834,9 +30834,9 @@
     "location": "algeria",
     "company": "ZENBREAK",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 253,
-    "publicContributions": 1,
+    "followers": 14,
+    "privateContributions": 272,
+    "publicContributions": 0,
     "createdAt": "2021-11-20T00:53:51Z"
   },
   {
@@ -30847,8 +30847,8 @@
     "company": "SONATRACH",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 2,
-    "publicContributions": 18,
+    "privateContributions": 0,
+    "publicContributions": 21,
     "createdAt": "2021-10-17T14:05:00Z"
   },
   {
@@ -30860,7 +30860,7 @@
     "twitterUsername": "",
     "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 30,
+    "publicContributions": 31,
     "createdAt": "2021-05-27T21:01:18Z"
   },
   {
@@ -30870,8 +30870,8 @@
     "location": "Algeria, Algiers",
     "company": "Higher National School of Computer Science- ESI ex INI",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 20,
+    "followers": 14,
+    "privateContributions": 19,
     "publicContributions": 2,
     "createdAt": "2021-11-05T07:25:48Z"
   },
@@ -30883,8 +30883,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 926,
-    "publicContributions": 207,
+    "privateContributions": 1615,
+    "publicContributions": 244,
     "createdAt": "2021-06-06T13:40:15Z"
   },
   {
@@ -30900,27 +30900,15 @@
     "createdAt": "2021-06-10T16:20:04Z"
   },
   {
-    "login": "OthDr",
-    "name": "Othmane DR",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/79415421?s=72&u=caccebba1f2bbe7b572e53c16bfe52da5de5fdc1&v=4",
-    "location": "Algiers, Algeria",
-    "company": "",
-    "twitterUsername": "derroth76",
-    "followers": 11,
-    "privateContributions": 234,
-    "publicContributions": 3,
-    "createdAt": "2021-02-21T17:09:31Z"
-  },
-  {
     "login": "khaledbenmachiche",
     "name": "Khaled Benmachiche",
     "avatarUrl": "https://avatars.githubusercontent.com/u/89877742?s=72&v=4",
     "location": "Algeria ",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 211,
-    "publicContributions": 120,
+    "followers": 12,
+    "privateContributions": 198,
+    "publicContributions": 130,
     "createdAt": "2021-08-31T21:58:20Z"
   },
   {
@@ -30931,8 +30919,8 @@
     "company": "Tracker Network",
     "twitterUsername": "FlynVAL",
     "followers": 11,
-    "privateContributions": 86,
-    "publicContributions": 6,
+    "privateContributions": 77,
+    "publicContributions": 0,
     "createdAt": "2021-11-13T18:37:37Z"
   },
   {
@@ -30943,7 +30931,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 54,
+    "privateContributions": 46,
     "publicContributions": 15,
     "createdAt": "2021-09-23T14:04:59Z"
   },

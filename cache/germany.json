@@ -847270,5 +847270,29 @@
     "privateContributions": 0,
     "publicContributions": 252,
     "createdAt": "2023-02-18T11:45:38Z"
+  },
+  {
+    "login": "MouadhBouneb",
+    "name": "MouadhBouneb",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/102998690?s=72&u=6df70d0eacafb4e21fa32f7ae2f49f3ac5f8b1ca&v=4",
+    "location": "Germany",
+    "company": "Kaibe",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2022-04-04T20:46:05Z"
+  },
+  {
+    "login": "lamorasjr",
+    "name": "Luiz Amoras",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/66752015?s=72&u=b7e70b5d51f17aa7bbbd4b2389faef2a81773184&v=4",
+    "location": "Berlin, Germany",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2020-06-10T20:40:32Z"
   }
 ]

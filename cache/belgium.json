@@ -31147,8 +31147,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 13,
-    "privateContributions": 20,
-    "publicContributions": 1,
+    "privateContributions": 9,
+    "publicContributions": 0,
     "createdAt": "2021-02-11T12:16:59Z"
   },
   {
@@ -31159,8 +31159,8 @@
     "company": "Kolibri Consulting",
     "twitterUsername": "",
     "followers": 13,
-    "privateContributions": 46,
-    "publicContributions": 8,
+    "privateContributions": 47,
+    "publicContributions": 5,
     "createdAt": "2021-04-30T10:24:08Z"
   },
   {
@@ -31170,9 +31170,9 @@
     "location": "belgium",
     "company": "Freelance",
     "twitterUsername": "dkp_consult",
-    "followers": 13,
-    "privateContributions": 1180,
-    "publicContributions": 136,
+    "followers": 12,
+    "privateContributions": 1496,
+    "publicContributions": 117,
     "createdAt": "2021-12-21T19:50:33Z"
   },
   {
@@ -31182,9 +31182,9 @@
     "location": "Belgium",
     "company": "University of Liège",
     "twitterUsername": "",
-    "followers": 13,
+    "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 339,
+    "publicContributions": 392,
     "createdAt": "2021-09-03T09:37:12Z"
   },
   {
@@ -31194,8 +31194,8 @@
     "location": "Antwerp, Belgium",
     "company": "",
     "twitterUsername": "",
-    "followers": 13,
-    "privateContributions": 139,
+    "followers": 11,
+    "privateContributions": 137,
     "publicContributions": 0,
     "createdAt": "2021-10-28T08:43:23Z"
   },
@@ -31208,19 +31208,19 @@
     "twitterUsername": "",
     "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2021-07-28T15:08:41Z"
   },
   {
     "login": "jugurtha-gaci",
     "name": "Jugurtha Gaci",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/88148092?s=72&u=8351f0f82fe7f274cfa26701c15eb9c2c4a385d5&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/88148092?s=72&u=2662e215c311a1848559dbf07832787486be0fc1&v=4",
     "location": "Namur, Belgium",
     "company": "",
     "twitterUsername": "",
-    "followers": 13,
-    "privateContributions": 74,
-    "publicContributions": 79,
+    "followers": 16,
+    "privateContributions": 319,
+    "publicContributions": 99,
     "createdAt": "2021-07-29T13:25:55Z"
   },
   {
@@ -31232,7 +31232,7 @@
     "twitterUsername": "",
     "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 107,
+    "publicContributions": 17,
     "createdAt": "2021-07-05T07:11:45Z"
   },
   {
@@ -31242,8 +31242,8 @@
     "location": "Belgium",
     "company": "",
     "twitterUsername": "",
-    "followers": 13,
-    "privateContributions": 1985,
+    "followers": 11,
+    "privateContributions": 2427,
     "publicContributions": 18,
     "createdAt": "2021-10-24T13:56:11Z"
   },
@@ -31262,13 +31262,13 @@
   {
     "login": "PhilemonPhilippin",
     "name": "Philémon Philippin",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/91825951?s=72&u=d2a769ffc82fb18b26861b0b4f6c040621b4cc59&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/91825951?s=72&u=14b20f603d0faeabfd8cf3ceb0845bb5afaf1a20&v=4",
     "location": "Brussels, Belgium",
     "company": "",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 207,
-    "publicContributions": 0,
+    "privateContributions": 223,
+    "publicContributions": 1,
     "createdAt": "2021-10-03T09:41:50Z"
   },
   {
@@ -31278,9 +31278,9 @@
     "location": "Antwerp, Belgium",
     "company": "University of Antwerp",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 412,
-    "publicContributions": 74,
+    "followers": 15,
+    "privateContributions": 430,
+    "publicContributions": 64,
     "createdAt": "2021-12-22T21:45:19Z"
   },
   {
@@ -31292,7 +31292,7 @@
     "twitterUsername": "",
     "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 0,
     "createdAt": "2021-01-18T12:11:32Z"
   },
   {
@@ -31311,12 +31311,12 @@
     "login": "BoozeLee",
     "name": "Kiliaan Vanvoorden",
     "avatarUrl": "https://avatars.githubusercontent.com/u/96494827?s=72&u=695d122743e50dc53c8ef8f251c681c39e89afd9&v=4",
-    "location": "Hasselt, Belgium",
-    "company": "@Bakery-street-project",
+    "location": "Riemst, Belgium",
+    "company": "",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 918,
-    "publicContributions": 5604,
+    "followers": 16,
+    "privateContributions": 7067,
+    "publicContributions": 636,
     "createdAt": "2021-12-21T18:25:38Z"
   },
   {
@@ -31326,9 +31326,9 @@
     "location": "Belgium",
     "company": "@axioneer-studio",
     "twitterUsername": "Laxe4k",
-    "followers": 12,
-    "privateContributions": 775,
-    "publicContributions": 671,
+    "followers": 10,
+    "privateContributions": 697,
+    "publicContributions": 324,
     "createdAt": "2021-02-21T23:40:41Z"
   },
   {
@@ -31340,7 +31340,7 @@
     "twitterUsername": "",
     "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 979,
+    "publicContributions": 972,
     "createdAt": "2021-05-24T13:25:03Z"
   },
   {
@@ -31374,9 +31374,9 @@
     "location": "Belgium",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 20,
-    "publicContributions": 57,
+    "followers": 10,
+    "privateContributions": 22,
+    "publicContributions": 67,
     "createdAt": "2021-02-08T08:06:52Z"
   },
   {

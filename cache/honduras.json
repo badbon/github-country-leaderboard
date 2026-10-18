@@ -967,7 +967,7 @@
     "company": "ADUO HN",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1115,
+    "privateContributions": 1151,
     "publicContributions": 37,
     "createdAt": "2024-09-16T21:20:03Z"
   },
@@ -980,7 +980,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 408,
+    "publicContributions": 416,
     "createdAt": "2024-01-23T23:33:03Z"
   },
   {
@@ -992,7 +992,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 152,
+    "publicContributions": 159,
     "createdAt": "2024-06-12T01:55:07Z"
   },
   {
@@ -1028,20 +1028,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 116,
+    "publicContributions": 115,
     "createdAt": "2024-01-04T08:03:42Z"
-  },
-  {
-    "login": "EduardoVal3",
-    "name": "levittwl",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/156035992?s=72&u=f4445544d702ed9ae2f912c58122a3cddd8dedd2&v=4",
-    "location": "Honduras",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 177,
-    "createdAt": "2024-01-09T00:52:02Z"
   },
   {
     "login": "Maryc-hub",
@@ -1123,7 +1111,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1150,
+    "privateContributions": 1217,
     "publicContributions": 15,
     "createdAt": "2024-06-05T17:57:33Z"
   },
@@ -1136,18 +1124,18 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 53,
-    "publicContributions": 316,
+    "publicContributions": 400,
     "createdAt": "2024-06-09T04:29:53Z"
   },
   {
     "login": "rafatafon",
     "name": "Fredy Rafael Maldonado Maradiaga",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/157491789?s=72&u=3a297860a159f56fe038fa7b3dd34694a0574cf6&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/157491789?s=72&u=7a9af0b00442e6b2f1144b87f07dce1e6b23a28c&v=4",
     "location": "Comayagua, Honduras",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 303,
+    "followers": 2,
+    "privateContributions": 293,
     "publicContributions": 152,
     "createdAt": "2024-01-23T12:36:51Z"
   },

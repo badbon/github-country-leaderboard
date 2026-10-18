@@ -30804,18 +30804,6 @@
     "createdAt": "2022-11-16T20:58:00Z"
   },
   {
-    "login": "MouadhBouneb",
-    "name": "MouadhBouneb",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/102998690?s=72&u=6df70d0eacafb4e21fa32f7ae2f49f3ac5f8b1ca&v=4",
-    "location": "tunisia",
-    "company": "axia solution",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 21,
-    "createdAt": "2022-04-04T20:46:05Z"
-  },
-  {
     "login": "HBOSTM",
     "name": "Houssine BOUGUERBA",
     "avatarUrl": "https://avatars.githubusercontent.com/u/106234835?s=72&u=fff83407ee72835ef981f549bd112158250d0ea1&v=4",
@@ -30864,18 +30852,6 @@
     "createdAt": "2022-07-19T10:36:34Z"
   },
   {
-    "login": "internetuser001",
-    "name": "swdnx",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/98737014?s=72&u=781cb075bca7e48449b007cc29cfd1c2e35c37dc&v=4",
-    "location": "tunisia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2022-01-31T08:40:00Z"
-  },
-  {
     "login": "Brellos",
     "name": "Nassir Louati",
     "avatarUrl": "https://avatars.githubusercontent.com/u/102171394?s=72&u=2f675c4b2a2a9e5b4588b0758c55d42369507b5a&v=4",
@@ -30896,7 +30872,7 @@
     "twitterUsername": "SyrineH04",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 27,
     "createdAt": "2022-04-18T18:50:45Z"
   },
   {
@@ -30907,7 +30883,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 10,
+    "privateContributions": 11,
     "publicContributions": 10,
     "createdAt": "2022-05-06T08:47:35Z"
   },
@@ -30932,7 +30908,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 1,
     "createdAt": "2022-10-16T22:34:40Z"
   },
   {
@@ -30992,7 +30968,7 @@
     "twitterUsername": "Dhibou",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 5,
     "createdAt": "2022-04-11T21:31:21Z"
   },
   {
@@ -31002,22 +30978,10 @@
     "location": "Tunisia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 11,
     "createdAt": "2022-04-16T15:02:05Z"
-  },
-  {
-    "login": "doofus003",
-    "name": "Ines Belkahla",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/99595798?s=72&u=165eb19da781768d06d8620c76252b0230833873&v=4",
-    "location": "Tunisia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 24,
-    "createdAt": "2022-02-13T12:26:55Z"
   },
   {
     "login": "chaimalimayem1",
@@ -31039,7 +31003,7 @@
     "company": "M&C It Consulting",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 733,
+    "privateContributions": 750,
     "publicContributions": 1,
     "createdAt": "2022-05-06T18:33:25Z"
   },

@@ -31230,7 +31230,7 @@
     "location": "Tallinn, Estonia",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-11-09T15:00:12Z"
@@ -31256,7 +31256,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 376,
+    "publicContributions": 377,
     "createdAt": "2016-04-11T07:41:24Z"
   },
   {
@@ -31267,7 +31267,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 2033,
+    "privateContributions": 3113,
     "publicContributions": 2,
     "createdAt": "2016-03-16T18:55:54Z"
   },
@@ -31300,24 +31300,12 @@
     "name": "Dmitrii Shaburov",
     "avatarUrl": "https://avatars.githubusercontent.com/u/17923117?s=72&u=3788b1f82b353746ca68621f24b6a4fbf08e644a&v=4",
     "location": "Tallinn, Estonia",
-    "company": "bolt.eu",
+    "company": "SRE @ bolt.eu",
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 38,
     "createdAt": "2016-03-18T08:20:29Z"
-  },
-  {
-    "login": "IvicaVrkic",
-    "name": "Ivica Vrkic",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/24392195?s=72&u=cdfee7d8f864d8fef66797a8402cb0110fd2c6d5&v=4",
-    "location": "Tallinn, Estonia",
-    "company": "@nine-dots-digital",
-    "twitterUsername": "vrkic_ivica",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2016-12-05T15:48:52Z"
   },
   {
     "login": "toivoparnpuu",
@@ -31326,9 +31314,9 @@
     "location": "Estonia",
     "company": "Tallinna Polütehnikum",
     "twitterUsername": "toivopuu",
-    "followers": 4,
+    "followers": 6,
     "privateContributions": 91,
-    "publicContributions": 198,
+    "publicContributions": 197,
     "createdAt": "2016-11-16T11:22:30Z"
   },
   {
@@ -31339,8 +31327,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 1033,
-    "publicContributions": 14,
+    "privateContributions": 1268,
+    "publicContributions": 6,
     "createdAt": "2016-04-10T10:58:38Z"
   },
   {
@@ -31351,8 +31339,8 @@
     "company": "@FlowstepDesign",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 174,
-    "publicContributions": 7,
+    "privateContributions": 172,
+    "publicContributions": 0,
     "createdAt": "2016-09-29T10:54:14Z"
   },
   {
@@ -31362,9 +31350,9 @@
     "location": "Estonia",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 273,
-    "publicContributions": 26,
+    "followers": 5,
+    "privateContributions": 216,
+    "publicContributions": 28,
     "createdAt": "2016-02-05T07:19:14Z"
   },
   {
@@ -31375,7 +31363,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 0,
+    "privateContributions": 298,
     "publicContributions": 45,
     "createdAt": "2016-07-06T12:42:37Z"
   },
@@ -31388,7 +31376,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 18,
     "createdAt": "2016-01-31T19:02:50Z"
   },
   {
@@ -31399,7 +31387,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 353,
+    "privateContributions": 401,
     "publicContributions": 0,
     "createdAt": "2016-05-29T10:38:25Z"
   },
@@ -31410,7 +31398,7 @@
     "location": "Estonia, Ida-Virumaa",
     "company": "ByteExecLab LLC",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 3,
     "privateContributions": 118,
     "publicContributions": 82,
     "createdAt": "2016-11-11T16:48:52Z"
@@ -31435,8 +31423,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 132,
-    "publicContributions": 3,
+    "privateContributions": 27,
+    "publicContributions": 4,
     "createdAt": "2016-08-04T13:24:01Z"
   },
   {
@@ -31448,7 +31436,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2016-07-11T10:59:12Z"
   },
   {

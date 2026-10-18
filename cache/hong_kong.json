@@ -30896,7 +30896,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 7,
     "createdAt": "2021-02-13T08:35:20Z"
   },
   {
@@ -30907,8 +30907,8 @@
     "company": "Visionerse",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 414,
-    "publicContributions": 8,
+    "privateContributions": 495,
+    "publicContributions": 16,
     "createdAt": "2021-01-24T14:15:59Z"
   },
   {
@@ -30916,11 +30916,11 @@
     "name": "Aumio",
     "avatarUrl": "https://avatars.githubusercontent.com/u/87389689?s=72&v=4",
     "location": "Hong Kong",
-    "company": "City University of Hong Kong",
+    "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 132,
+    "publicContributions": 244,
     "createdAt": "2021-07-13T18:22:03Z"
   },
   {
@@ -30932,20 +30932,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 21,
     "createdAt": "2021-06-07T12:31:20Z"
-  },
-  {
-    "login": "HillaryTam",
-    "name": "tly",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/86868861?s=72&u=8bd443c780d38369a7aa3344c09a643996809342&v=4",
-    "location": "Hong Kong",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2021-07-03T06:30:22Z"
   },
   {
     "login": "ericmakcfu",
@@ -30966,7 +30954,7 @@
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 9,
     "createdAt": "2021-06-16T17:07:29Z"
@@ -30980,7 +30968,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 52,
+    "publicContributions": 61,
     "createdAt": "2021-03-28T06:26:42Z"
   },
   {
@@ -31004,7 +30992,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 9,
     "createdAt": "2021-06-01T22:35:19Z"
   },
   {
@@ -31015,8 +31003,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 140,
-    "publicContributions": 11,
+    "privateContributions": 267,
+    "publicContributions": 8,
     "createdAt": "2021-02-02T06:28:24Z"
   },
   {
@@ -31052,7 +31040,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 3,
     "createdAt": "2021-08-17T06:22:19Z"
   },
   {

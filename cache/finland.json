@@ -30871,7 +30871,7 @@
     "company": "@wolt",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 353,
+    "privateContributions": 415,
     "publicContributions": 1,
     "createdAt": "2022-03-04T15:06:53Z"
   },
@@ -30895,8 +30895,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 128,
-    "publicContributions": 38,
+    "privateContributions": 143,
+    "publicContributions": 41,
     "createdAt": "2022-04-08T13:18:06Z"
   },
   {
@@ -30940,7 +30940,7 @@
     "name": "Līva Freimane",
     "avatarUrl": "https://avatars.githubusercontent.com/u/105494381?s=72&v=4",
     "location": "Helsinki",
-    "company": "University of Helsinki",
+    "company": "VTT",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
@@ -30956,7 +30956,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 32,
+    "publicContributions": 25,
     "createdAt": "2022-04-08T07:59:11Z"
   },
   {
@@ -30979,7 +30979,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 34,
+    "privateContributions": 55,
     "publicContributions": 2,
     "createdAt": "2022-09-20T16:17:57Z"
   },
@@ -30992,20 +30992,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 59,
-    "publicContributions": 44,
+    "publicContributions": 42,
     "createdAt": "2022-08-30T12:58:58Z"
-  },
-  {
-    "login": "norrin-heikki",
-    "name": "Heikki Hyttinen",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/99193626?s=72&v=4",
-    "location": "Helsinki",
-    "company": "Norrin",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 712,
-    "publicContributions": 7,
-    "createdAt": "2022-02-07T14:20:21Z"
   },
   {
     "login": "Mihuy1",
@@ -31015,8 +31003,8 @@
     "company": "Metropolia University of Applied Sciences",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 55,
-    "publicContributions": 273,
+    "privateContributions": 106,
+    "publicContributions": 369,
     "createdAt": "2022-01-20T08:24:01Z"
   },
   {
@@ -31039,7 +31027,7 @@
     "company": "Smartly.io",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 793,
+    "privateContributions": 713,
     "publicContributions": 0,
     "createdAt": "2022-08-02T06:46:19Z"
   },
@@ -31064,7 +31052,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2022-11-13T01:58:19Z"
   },
   {
@@ -31088,7 +31076,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 43,
+    "publicContributions": 63,
     "createdAt": "2022-05-09T15:50:58Z"
   },
   {
@@ -31099,7 +31087,7 @@
     "company": "SEK oy",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1513,
+    "privateContributions": 2506,
     "publicContributions": 19,
     "createdAt": "2022-10-18T09:17:34Z"
   },

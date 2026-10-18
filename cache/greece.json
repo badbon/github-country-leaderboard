@@ -31056,18 +31056,6 @@
     "createdAt": "2022-08-11T16:27:08Z"
   },
   {
-    "login": "AlexandrosPol",
-    "name": "Alexandros Polyzoidis",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/97522467?s=72&u=421fdc9caf534c8c1c8954347134f21fd729aea3&v=4",
-    "location": "Thessaloniki, Greece",
-    "company": "Satori Analytics",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 3,
-    "createdAt": "2022-01-11T11:55:56Z"
-  },
-  {
     "login": "AthanGeorgoulas",
     "name": "Thanasis Georgoulas",
     "avatarUrl": "https://avatars.githubusercontent.com/u/102180891?s=72&u=ffe4981245cde9db2bbcfe15562192d50940b173&v=4",
@@ -31099,8 +31087,8 @@
     "company": "University of Athens",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 607,
-    "publicContributions": 188,
+    "privateContributions": 501,
+    "publicContributions": 30,
     "createdAt": "2022-03-03T21:37:07Z"
   },
   {
@@ -31123,7 +31111,7 @@
     "company": "EchoByte",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 305,
+    "privateContributions": 555,
     "publicContributions": 19,
     "createdAt": "2022-12-19T23:19:07Z"
   },
@@ -31135,7 +31123,7 @@
     "company": "Dimokritos S.A",
     "twitterUsername": "Evgenios_Moiris",
     "followers": 1,
-    "privateContributions": 4,
+    "privateContributions": 9,
     "publicContributions": 0,
     "createdAt": "2022-05-10T21:27:15Z"
   },
@@ -31147,8 +31135,8 @@
     "company": "Círdan’s Shipyard",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 254,
-    "publicContributions": 99,
+    "privateContributions": 122,
+    "publicContributions": 96,
     "createdAt": "2022-08-16T21:45:00Z"
   },
   {
@@ -31182,9 +31170,9 @@
     "location": "Athens, Greece",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 2447,
-    "publicContributions": 5,
+    "followers": 2,
+    "privateContributions": 2491,
+    "publicContributions": 0,
     "createdAt": "2022-04-12T09:51:07Z"
   },
   {
@@ -31220,7 +31208,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 36,
+    "publicContributions": 4,
     "createdAt": "2022-07-19T12:34:28Z"
   },
   {
@@ -31249,12 +31237,12 @@
   },
   {
     "login": "petrakisgeo",
-    "name": "Giorgos Petrakis",
+    "name": "Georgios Petrakis",
     "avatarUrl": "https://avatars.githubusercontent.com/u/117226445?s=72&u=ff879133ade6fed13b944efa43ddea4317239bb9&v=4",
     "location": "Athens, Greece",
-    "company": "",
+    "company": "KU Leuven",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-11-01T20:46:22Z"
@@ -186634,5 +186622,17 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-02-18T01:56:02Z"
+  },
+  {
+    "login": "blastup",
+    "name": "Blastup",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2225889?s=72&u=5ff517c52771b9e19a85396ef3ad4c13d3d693b3&v=4",
+    "location": "Greece",
+    "company": "Blastup",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-08-27T07:50:58Z"
   }
 ]
