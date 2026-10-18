@@ -1,6 +1,6 @@
 # Public Contributions - Syria
 
-Generated: 2026-10-18T14:11:57.216Z
+Generated: 2026-10-18T15:43:44.899Z
 
 Users: 1480
 
@@ -16,8 +16,8 @@ Users: 1480
 | 8 | [ibrahimhamwi99](https://github.com/ibrahimhamwi99) | ibrahimhamwi  |  |  | syria | 1498 |
 | 9 | [Abdomghrbi](https://github.com/Abdomghrbi) | Abdullrahman almaghrabi | Freelancer | AbdoMaghrbi | Syria | 1252 |
 | 10 | [Hakam-aldeen-Kh](https://github.com/Hakam-aldeen-Kh) | Hakam aldeen Alkhadraa | Sham Logix |  | Syria | 1193 |
-| 11 | [DrAbdulmalek](https://github.com/DrAbdulmalek) | Dr Abdulmalek Al-Husseini |  |  | Syria | 1158 |
-| 12 | [firasuke](https://github.com/firasuke) | Firas Khana | @glaucuslinux  |  | Aleppo, Syria | 1156 |
+| 11 | [firasuke](https://github.com/firasuke) | Firas Khana | @glaucuslinux  |  | Aleppo, Syria | 1168 |
+| 12 | [DrAbdulmalek](https://github.com/DrAbdulmalek) | Dr Abdulmalek Al-Husseini |  |  | Syria | 1158 |
 | 13 | [ali-talal-ibrahem](https://github.com/ali-talal-ibrahem) | Ali Talal Ibrahem |  |  | syria | 1153 |
 | 14 | [YAZAN420](https://github.com/YAZAN420) | YazanMahfooz |  |  | Syria | 1082 |
 | 15 | [AliMohammadDev](https://github.com/AliMohammadDev) | Ali Mohammad |  |  | Syria | 1005 |

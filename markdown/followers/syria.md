@@ -1,6 +1,6 @@
 # Followers - Syria
 
-Generated: 2026-10-18T14:11:57.216Z
+Generated: 2026-10-18T15:43:44.899Z
 
 Users: 1480
 
@@ -10,7 +10,7 @@ Users: 1480
 | 2 | [WaelTarabishi](https://github.com/WaelTarabishi) | Wael Tarabishi |  |  | Syria | 311 |
 | 3 | [SedrAlex](https://github.com/SedrAlex) | Sedra Mhanna | Seven Technologies |  | Damascus, Syria | 306 |
 | 4 | [Rakwan007](https://github.com/Rakwan007) | Rakwan | Rako |  | syria | 303 |
-| 5 | [firasuke](https://github.com/firasuke) | Firas Khana | @glaucuslinux  |  | Aleppo, Syria | 222 |
+| 5 | [firasuke](https://github.com/firasuke) | Firas Khana | @glaucuslinux  |  | Aleppo, Syria | 224 |
 | 6 | [nawrzqal](https://github.com/nawrzqal) | nawrz qal | Yarmouk Private University |  | syria  | 203 |
 | 7 | [simabilony](https://github.com/simabilony) | Sima Bilony |  |  | Syria/Aleppo | 175 |
 | 8 | [hassansaker](https://github.com/hassansaker) |  | SMART ROUTE |  | Damascus | 174 |
@@ -20,7 +20,7 @@ Users: 1480
 | 12 | [ZeinMoh](https://github.com/ZeinMoh) | Zein |  |  | Syria, Latakia | 137 |
 | 13 | [SaleemAdhamKassab](https://github.com/SaleemAdhamKassab) | Saleem Kassab | Syriatel Mobile Telecom |  | Damascus | 136 |
 | 14 | [Mohammadbill](https://github.com/Mohammadbill) | Mohammad bilal |  |  | Syria  | 128 |
-| 15 | [MuhammadSulaiman001](https://github.com/MuhammadSulaiman001) | Muhammad Sulaiman | LikeCard | m_sulaiman001 | Damascus, Syria | 126 |
+| 15 | [MuhammadSulaiman001](https://github.com/MuhammadSulaiman001) | Muhammad Sulaiman | LikeCard | m_sulaiman001 | Damascus, Syria | 127 |
 | 16 | [Sedraalsabagh](https://github.com/Sedraalsabagh) | sedra sbg |  |  | Damascus... Syria | 123 |
 | 17 | [Makihataima-Ken](https://github.com/Makihataima-Ken) | Ahmad Soud |  |  | Damascus | 115 |
 | 18 | [muhammedelsami](https://github.com/muhammedelsami) | Muhammed Elşami | DetaySoft |  | Sivas, Syria | 102 |

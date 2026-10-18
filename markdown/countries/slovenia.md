@@ -63,7 +63,7 @@ Indexed users: 3,098
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [zbejas](https://github.com/zbejas) | Anže Mavrič | Maribor, Slovenia | 3,018 |
-| 2 | [gto76](https://github.com/gto76) | Jure Šorn | Ljubljana | 1,212 |
+| 2 | [gto76](https://github.com/gto76) | Jure Šorn | Ljubljana | 1,220 |
 | 3 | [luksa](https://github.com/luksa) | Marko Lukša | Slovenia | 1,118 |
 | 4 | [igorpecovnik](https://github.com/igorpecovnik) | Igor | Ljubljana | 925 |
 | 5 | [andrejbauer](https://github.com/andrejbauer) | Andrej Bauer | Slovenia | 924 |
@@ -83,4 +83,4 @@ Indexed users: 3,098
 | 19 | [garbas](https://github.com/garbas) | Rok Garbas | Ljubljana, Slovenia | 240 |
 | 20 | [buresdv](https://github.com/buresdv) | David Bureš | Maribor, Slovenia | 238 |
 
-Generated: 2026-10-18T14:09:08.747Z
+Generated: 2026-10-18T15:38:25.189Z

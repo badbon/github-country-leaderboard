@@ -1,13 +1,13 @@
 # Followers - Slovenia
 
-Generated: 2026-10-18T14:09:08.747Z
+Generated: 2026-10-18T15:38:25.189Z
 
 Users: 3098
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [zbejas](https://github.com/zbejas) | Anže Mavrič | KoEnergija d.o.o. |  | Maribor, Slovenia | 3018 |
-| 2 | [gto76](https://github.com/gto76) | Jure Šorn |  |  | Ljubljana | 1212 |
+| 2 | [gto76](https://github.com/gto76) | Jure Šorn |  |  | Ljubljana | 1220 |
 | 3 | [luksa](https://github.com/luksa) | Marko Lukša | Independent contractor | markoluksa | Slovenia | 1118 |
 | 4 | [igorpecovnik](https://github.com/igorpecovnik) | Igor | @armbian  |  | Ljubljana | 925 |
 | 5 | [andrejbauer](https://github.com/andrejbauer) | Andrej Bauer | University of Ljubljana |  | Slovenia | 924 |

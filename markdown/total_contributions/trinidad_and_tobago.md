@@ -1,13 +1,13 @@
 # Total Contributions - Trinidad and Tobago
 
-Generated: 2026-10-18T14:14:06.753Z
+Generated: 2026-10-18T15:46:27.427Z
 
 Users: 256
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [Spartanlasergun](https://github.com/Spartanlasergun) | Narendra Singh |  |  | Trinidad and Tobago | 6105 |
-| 2 | [jeiang](https://github.com/jeiang) | Aidan Pinard | CIBC Caribbean | jeiang_ | Trinidad and Tobago | 5190 |
+| 2 | [jeiang](https://github.com/jeiang) | Aidan Pinard | CIBC Caribbean | jeiang_ | Trinidad and Tobago | 5561 |
 | 3 | [jefroy](https://github.com/jefroy) | Ajay Sieunarine | PGS |  | Trinidad and Tobago | 4349 |
 | 4 | [kyledef](https://github.com/kyledef) | Kyle E DeFreitas | @squareup  | kyle_def | Canda / Trinidad and Tobago / St Vincent and the Grenadines | 3149 |
 | 5 | [Emille1723](https://github.com/Emille1723) | Emille Henry |  |  | Trinidad and Tobago | 3082 |
@@ -17,7 +17,7 @@ Users: 256
 | 9 | [devxlag](https://github.com/devxlag) | Devon Murray | UWI |  | Trinidad and Tobago | 2223 |
 | 10 | [marcstampfli](https://github.com/marcstampfli) | Marc Stämpfli |  |  | Trinidad and Tobago | 2104 |
 | 11 | [jaedanpersaud12](https://github.com/jaedanpersaud12) | Jaedan Persaud | zed-io | jaedanpersaudtt | Trinidad and Tobago | 2058 |
-| 12 | [edgeboy47](https://github.com/edgeboy47) | Darrion Mills |  |  | Trinidad and Tobago | 1551 |
+| 12 | [edgeboy47](https://github.com/edgeboy47) | Darrion Mills |  |  | Trinidad and Tobago | 1549 |
 | 13 | [snorkpete](https://github.com/snorkpete) | Kion Stephen |  |  | Trinidad and Tobago | 1436 |
 | 14 | [Yhonathon-Maharaj](https://github.com/Yhonathon-Maharaj) | Yhonathon Maharaj | Euthy Labs | Yhonathon | Trinidad and Tobago | 1413 |
 | 15 | [mreid-tt](https://github.com/mreid-tt) | Michael Reid |  | mreid_tt | Trinidad and Tobago | 1297 |

@@ -57,7 +57,7 @@ Published countries: 234
 | Cuba | 1,275 | [View](./cuba.md) |
 | Curaçao | 53 | [View](./curacao.md) |
 | Cyprus | 2,725 | [View](./cyprus.md) |
-| Czechia | 16,201 | [View](./czechia.md) |
+| Czechia | 16,202 | [View](./czechia.md) |
 | Denmark | 19,306 | [View](./denmark.md) |
 | Djibouti | 55 | [View](./djibouti.md) |
 | Dominica | 18 | [View](./dominica.md) |
@@ -199,16 +199,16 @@ Published countries: 234
 | Somalia | 866 | [View](./somalia.md) |
 | South Africa | 17,927 | [View](./south_africa.md) |
 | South Georgia | 6 | [View](./south_georgia.md) |
-| South Korea | 56,911 | [View](./south_korea.md) |
+| South Korea | 56,910 | [View](./south_korea.md) |
 | South Sudan | 132 | [View](./south_sudan.md) |
-| Sri Lanka | 18,319 | [View](./sri_lanka.md) |
+| Sri Lanka | 18,318 | [View](./sri_lanka.md) |
 | Sudan | 727 | [View](./sudan.md) |
 | Suriname | 123 | [View](./suriname.md) |
 | Svalbard and Jan Mayen | 10 | [View](./svalbard_and_jan_mayen.md) |
 | Sweden | 39,032 | [View](./sweden.md) |
-| Switzerland | 24,081 | [View](./switzerland.md) |
+| Switzerland | 24,080 | [View](./switzerland.md) |
 | Syria | 1,480 | [View](./syria.md) |
-| Taiwan | 21,995 | [View](./taiwan.md) |
+| Taiwan | 21,996 | [View](./taiwan.md) |
 | Tajikistan | 709 | [View](./tajikistan.md) |
 | Tanzania | 2,037 | [View](./tanzania.md) |
 | Thailand | 15,002 | [View](./thailand.md) |
@@ -217,7 +217,7 @@ Published countries: 234
 | Tokelau | 4 | [View](./tokelau.md) |
 | Tonga | 9 | [View](./tonga.md) |
 | Trinidad and Tobago | 256 | [View](./trinidad_and_tobago.md) |
-| Tunisia | 7,169 | [View](./tunisia.md) |
+| Tunisia | 7,168 | [View](./tunisia.md) |
 | Turkey | 79,175 | [View](./turkey.md) |
 | Turkmenistan | 501 | [View](./turkmenistan.md) |
 | Turks and Caicos Islands | 7 | [View](./turks_and_caicos_islands.md) |
@@ -239,4 +239,4 @@ Published countries: 234
 | Zambia | 1,337 | [View](./zambia.md) |
 | Zimbabwe | 1,656 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-18T15:36:18.385Z
+Generated: 2026-10-18T15:50:48.746Z

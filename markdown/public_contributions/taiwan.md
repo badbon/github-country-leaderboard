@@ -1,8 +1,8 @@
 # Public Contributions - Taiwan
 
-Generated: 2026-10-18T14:12:31.707Z
+Generated: 2026-10-18T15:44:20.963Z
 
-Users: 21995
+Users: 21996
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -19,10 +19,10 @@ Users: 21995
 | 11 | [narumiruna](https://github.com/narumiruna) | なるみ |  |  | Taipei, Taiwan | 13087 |
 | 12 | [frank890417](https://github.com/frank890417) | Wu Che Yu | Monoame Design | cheyuwu345 | Taipei | 9771 |
 | 13 | [julianshen](https://github.com/julianshen) | Julian Shen |  |  | Taipei | 9565 |
-| 14 | [thc1006](https://github.com/thc1006) | 秀吉 | Taipei City Hospital, Yangming Branch |  | No. 155, Sec. 2, Linong St. Beitou Dist., Taipei City 112304, Taiwan | 9142 |
-| 15 | [neilkuan](https://github.com/neilkuan) | Neil Kuan |  | neil_kuan | Taipei | 8627 |
-| 16 | [barracuda156](https://github.com/barracuda156) | Sergey Fedorov | Soochow University |  | Taiwan | 8508 |
-| 17 | [suzuke](https://github.com/suzuke) | suzuke |  |  | Taiwan | 8460 |
+| 14 | [neilkuan](https://github.com/neilkuan) | Neil Kuan |  | neil_kuan | Taipei | 8627 |
+| 15 | [barracuda156](https://github.com/barracuda156) | Sergey Fedorov | Soochow University |  | Taiwan | 8508 |
+| 16 | [suzuke](https://github.com/suzuke) | suzuke |  |  | Taiwan | 8460 |
+| 17 | [thc1006](https://github.com/thc1006) | 秀吉 | Taipei City Hospital, Yangming Branch |  | No. 155, Sec. 2, Linong St. Beitou Dist., Taipei City 112304, Taiwan | 8304 |
 | 18 | [elct9620](https://github.com/elct9620) | 蒼時弦也 | @Gogolook-Inc @StarPortal @BasalticStudio  | elct9620 | Taipei City,Taiwan | 8084 |
 | 19 | [yazelin](https://github.com/yazelin) | YAZE LIN | ChingTech 擎添工業 |  | Taipei, Taiwan | 8063 |
 | 20 | [kiki830621](https://github.com/kiki830621) | Che Cheng |  |  | Taipei, Taiwan | 7790 |

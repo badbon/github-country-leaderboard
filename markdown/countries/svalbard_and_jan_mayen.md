@@ -12,7 +12,7 @@ Indexed users: 10
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [PrinsFrank](https://github.com/PrinsFrank) |  | Haarlem, Netherlands & Longyearbyen, Svalbard | 1,160 |
+| 1 | [PrinsFrank](https://github.com/PrinsFrank) |  | Haarlem, Netherlands & Longyearbyen, Svalbard | 1,169 |
 | 2 | [encrize](https://github.com/encrize) | encrize | Svalbard og Jan Mayen | 643 |
 | 3 | [ngvrnd](https://github.com/ngvrnd) | Nick Caruso | Svalbard and Jan Mayen | 178 |
 | 4 | [ThalesAbyss](https://github.com/ThalesAbyss) | David Parmenter | Longyearbyen, Svalbard & Jan Mayen | 171 |
@@ -27,7 +27,7 @@ Indexed users: 10
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [PrinsFrank](https://github.com/PrinsFrank) |  | Haarlem, Netherlands & Longyearbyen, Svalbard | 1,065 |
+| 1 | [PrinsFrank](https://github.com/PrinsFrank) |  | Haarlem, Netherlands & Longyearbyen, Svalbard | 1,074 |
 | 2 | [encrize](https://github.com/encrize) | encrize | Svalbard og Jan Mayen | 525 |
 | 3 | [danavitski](https://github.com/danavitski) | Daan Kivits | Longyearbyen, Svalbard | 59 |
 | 4 | [sunnyerteit](https://github.com/sunnyerteit) | S🌞nny | Longyearbyen | 31 |
@@ -49,8 +49,8 @@ Indexed users: 10
 | 5 | [Rainbowed](https://github.com/Rainbowed) | Cake | Longyearbyen, Svalbard | 9 |
 | 6 | [ThalesAbyss](https://github.com/ThalesAbyss) | David Parmenter | Longyearbyen, Svalbard & Jan Mayen | 6 |
 | 7 | [elden-l0rd](https://github.com/elden-l0rd) |  | Longyearbyen | 2 |
-| 8 | [ngvrnd](https://github.com/ngvrnd) | Nick Caruso | Svalbard and Jan Mayen | 2 |
-| 9 | [slipeer](https://github.com/slipeer) | Pavel | Barentsburg, Svalbard og Jan Mayen | 2 |
-| 10 | [danavitski](https://github.com/danavitski) | Daan Kivits | Longyearbyen, Svalbard | 1 |
+| 8 | [slipeer](https://github.com/slipeer) | Pavel | Barentsburg, Svalbard og Jan Mayen | 2 |
+| 9 | [danavitski](https://github.com/danavitski) | Daan Kivits | Longyearbyen, Svalbard | 1 |
+| 10 | [ngvrnd](https://github.com/ngvrnd) | Nick Caruso | Svalbard and Jan Mayen | 1 |
 
-Generated: 2026-10-18T14:11:48.210Z
+Generated: 2026-10-18T15:41:48.503Z
