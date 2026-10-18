@@ -33620,7 +33620,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 40,
+    "publicContributions": 56,
     "createdAt": "2020-05-27T08:37:26Z"
   },
   {
@@ -33666,8 +33666,8 @@
     "location": "Belgrade. Serbia",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 131,
+    "followers": 7,
+    "privateContributions": 104,
     "publicContributions": 164,
     "createdAt": "2020-01-26T20:13:42Z"
   },
@@ -33676,23 +33676,23 @@
     "name": "Petar Ćevriz",
     "avatarUrl": "https://avatars.githubusercontent.com/u/62151376?s=72&u=96f19ed71d48a972e36da9d24e79792f343a4431&v=4",
     "location": "Serbia",
-    "company": "Avantos.ai",
+    "company": "Huginn&Muninn.dev",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 205,
+    "publicContributions": 201,
     "createdAt": "2020-03-13T16:19:16Z"
   },
   {
     "login": "Kovacevic22",
     "name": "Vukasin Kovacevic",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/75897909?s=72&u=9b934a5ce8d26fff18d4f1c1482e1608974751d0&v=4",
-    "location": "Belgrade, Serbia",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/75897909?s=72&u=398624038d57f0b2da58d83e648b04627092e5df&v=4",
+    "location": "Uzice, Serbia",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 13,
-    "publicContributions": 347,
+    "followers": 5,
+    "privateContributions": 228,
+    "publicContributions": 361,
     "createdAt": "2020-12-12T13:29:26Z"
   },
   {
@@ -33704,7 +33704,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 6,
     "createdAt": "2020-06-16T13:58:25Z"
   },
   {
@@ -33715,8 +33715,8 @@
     "company": "Pont Systems Zrt.",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 950,
-    "publicContributions": 103,
+    "privateContributions": 1256,
+    "publicContributions": 67,
     "createdAt": "2020-06-30T04:44:48Z"
   },
   {
@@ -33763,8 +33763,8 @@
     "company": "Hurricane Studio",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 706,
-    "publicContributions": 45,
+    "privateContributions": 602,
+    "publicContributions": 44,
     "createdAt": "2020-05-11T12:56:46Z"
   },
   {
@@ -33775,8 +33775,8 @@
     "company": "Gitarologia",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 303,
-    "publicContributions": 41,
+    "privateContributions": 291,
+    "publicContributions": 31,
     "createdAt": "2020-10-30T15:57:49Z"
   },
   {
@@ -33798,21 +33798,21 @@
     "location": "Serbia",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 141,
+    "publicContributions": 91,
     "createdAt": "2020-05-30T17:51:40Z"
   },
   {
     "login": "Mefodys",
-    "name": "Anton Mefodys",
+    "name": "Anton Mefodichev",
     "avatarUrl": "https://avatars.githubusercontent.com/u/59740539?s=72&u=ca8d9b85370d548c6c1b99208e79b6e81887e96b&v=4",
     "location": "Serbia",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 48,
     "createdAt": "2020-01-10T16:12:56Z"
   },
   {
@@ -33834,7 +33834,7 @@
     "location": "Serbia",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 15,
     "createdAt": "2020-01-17T22:25:46Z"

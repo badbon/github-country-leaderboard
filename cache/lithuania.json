@@ -33511,7 +33511,7 @@
     "company": "PVcase",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 3,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-02-08T07:04:17Z"
   },
@@ -33546,7 +33546,7 @@
     "location": "Vilnius, Lithuania",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-08-02T06:37:16Z"
@@ -33583,21 +33583,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 390,
+    "privateContributions": 1119,
     "publicContributions": 0,
     "createdAt": "2017-10-13T18:03:54Z"
-  },
-  {
-    "login": "mantzu132",
-    "name": "Mantas",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/25063550?s=72&v=4",
-    "location": "Lithuania",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 42,
-    "createdAt": "2017-01-11T18:38:52Z"
   },
   {
     "login": "KRST0",
@@ -33618,8 +33606,8 @@
     "location": "Vilnius, Lithuania",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 491,
+    "followers": 2,
+    "privateContributions": 390,
     "publicContributions": 1,
     "createdAt": "2017-10-27T11:22:44Z"
   },
@@ -33644,7 +33632,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 265,
+    "publicContributions": 79,
     "createdAt": "2017-01-01T22:59:02Z"
   },
   {
@@ -33690,7 +33678,7 @@
     "location": "Vilnius, Lithuania",
     "company": "Self company",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-05-25T18:00:55Z"
@@ -33703,7 +33691,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 4563,
+    "privateContributions": 3577,
     "publicContributions": 0,
     "createdAt": "2017-06-14T06:30:42Z"
   },
@@ -33726,7 +33714,7 @@
     "location": "Lithuania",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-03-30T17:49:35Z"
