@@ -1569046,5 +1569046,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-06-29T15:25:17Z"
+  },
+  {
+    "login": "LucindaLinde",
+    "name": "Lucinda Linde",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/40402022?s=72&u=70607804f4e13f40011025309c5b41576f047149&v=4",
+    "location": "Greater Boston",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2018-06-19T17:08:18Z"
+  },
+  {
+    "login": "caaden",
+    "name": "Chris Aden",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/36344114?s=72&u=8eebf8ace0c3b21a88346441f772431728d203f4&v=4",
+    "location": "Boston, MA",
+    "company": "fringeai.com",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2018-02-10T21:49:54Z"
+  },
+  {
+    "login": "shujaullah",
+    "name": "Shujaullah Ahsan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/35875311?s=72&u=bb7ee0f435743a9146c1b8a1737fa075b2258355&v=4",
+    "location": "Boston, Massachusetts",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2018-01-27T18:13:34Z"
+  },
+  {
+    "login": "SagarBansal7",
+    "name": "Sagar Bansal",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/37155988?s=72&u=50cef64e2ba746dedf5f49d4a43f7497c342fa1e&v=4",
+    "location": "Boston, MA",
+    "company": "Bentley University",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-03-07T18:41:54Z"
+  },
+  {
+    "login": "JoeGuidoboni",
+    "name": "jogu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/38297044?s=72&u=1c65ff00aed3c0b71521ba5fae51e7df0d564211&v=4",
+    "location": "Boston, MA",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 14,
+    "createdAt": "2018-04-11T18:49:38Z"
   }
 ]
