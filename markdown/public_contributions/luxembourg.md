@@ -1,14 +1,14 @@
 # Public Contributions - Luxembourg
 
-Generated: 2026-10-18T19:01:43.604Z
+Generated: 2026-10-18T19:45:54.143Z
 
 Users: 2190
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [kidiatoliny](https://github.com/kidiatoliny) | kidiatoliny | Akira | kidiatoliny | 23 Rue Théodore Gillen 1625 Howald Luxembourg | 9597 |
-| 2 | [leobenkel-db](https://github.com/leobenkel-db) | Leo Benkel (bot)  | PURE LAMBDA | LeoBenkel | Luxembourg | 6955 |
-| 3 | [b-rodrigues](https://github.com/b-rodrigues) | Bruno Rodrigues | MESR, Luxembourg | brodriguesco | Luxembourg-City, Luxembourg | 6889 |
+| 2 | [b-rodrigues](https://github.com/b-rodrigues) | Bruno Rodrigues | MESR, Luxembourg | brodriguesco | Luxembourg-City, Luxembourg | 6889 |
+| 3 | [leobenkel-db](https://github.com/leobenkel-db) | Leo Benkel (bot)  | PURE LAMBDA | LeoBenkel | Luxembourg | 6787 |
 | 4 | [AbdallahCoptan](https://github.com/AbdallahCoptan) | Abdallah IBRAHIM | University of Luxembourg |  | Luxembourg | 4379 |
 | 5 | [EuphoriaLux](https://github.com/EuphoriaLux) | Twisto |  |  | Luxembourg | 4033 |
 | 6 | [dbarzin](https://github.com/dbarzin) | Didier Barzin | Sourcentis |  | Luxembourg | 3817 |

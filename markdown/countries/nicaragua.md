@@ -66,9 +66,9 @@ Indexed users: 1,395
 | 2 | [paulomcnally](https://github.com/paulomcnally) | Paulo McNally | Mangua, Nicaragua | 214 |
 | 3 | [Aleejandro26](https://github.com/Aleejandro26) | Aleejandro Lagu. | [Rivas, Nicaragua] | 178 |
 | 4 | [QuesilloLover](https://github.com/QuesilloLover) | Adilia Moreno | Nicaragua | 158 |
-| 5 | [fitoria](https://github.com/fitoria) | Adolfo Fitoria | Mangua, Nicaragua | 146 |
-| 6 | [Victor-0rtiz](https://github.com/Victor-0rtiz) | Victor Oss | Nicaragua | 143 |
-| 7 | [Elmnik](https://github.com/Elmnik) | Elmer Aguilar | Nicaragua | 135 |
+| 5 | [fitoria](https://github.com/fitoria) | Adolfo Fitoria | Mangua, Nicaragua | 147 |
+| 6 | [Elmnik](https://github.com/Elmnik) | Elmer Aguilar | Nicaragua | 144 |
+| 7 | [Victor-0rtiz](https://github.com/Victor-0rtiz) | Victor Oss | Nicaragua | 143 |
 | 8 | [narencastellon](https://github.com/narencastellon) | Naren Castellon | Nicaragua | 121 |
 | 9 | [hosmelq](https://github.com/hosmelq) | Hosmel Quintana | Managua, Nic | 114 |
 | 10 | [linuxmel27](https://github.com/linuxmel27) | Melvin Pineda | Leon, Nicaragua | 114 |
@@ -83,4 +83,4 @@ Indexed users: 1,395
 | 19 | [luismejiadev](https://github.com/luismejiadev) | Luis Mejia | Managua, Nicaragua | 68 |
 | 20 | [dannygaray60](https://github.com/dannygaray60) | Danny Garay | Nicaragua | 61 |
 
-Generated: 2026-10-18T18:25:07.099Z
+Generated: 2026-10-18T19:55:17.459Z

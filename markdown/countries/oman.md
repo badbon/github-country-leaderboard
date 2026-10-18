@@ -30,7 +30,7 @@ Indexed users: 991
 | 16 | [MohAnghabo](https://github.com/MohAnghabo) | Mohammed Anghabo | Muscat | 5,328 |
 | 17 | [n3sser96](https://github.com/n3sser96) | Nasser Al Subhi | Oman | 4,719 |
 | 18 | [mohdrasbi](https://github.com/mohdrasbi) | Mohamed Al-Rasbi | Oman | 4,678 |
-| 19 | [amk9889](https://github.com/amk9889) | Alfarouq | Oman | 4,282 |
+| 19 | [amk9889](https://github.com/amk9889) | Alfarouq | Oman | 4,346 |
 | 20 | [manqur](https://github.com/manqur) | Mansoor Qurishi | Oman | 4,256 |
 
 ## Public Contributions
@@ -83,4 +83,4 @@ Indexed users: 991
 | 19 | [3mrdev](https://github.com/3mrdev) | Amr Abd-Alkrim | Khartoum, Sudan \| Muscat, Oman | 94 |
 | 20 | [AmirSa12](https://github.com/AmirSa12) | AmirHossein Sakhravi | Muscat, Oman | 91 |
 
-Generated: 2026-10-18T18:26:42.609Z
+Generated: 2026-10-18T19:59:08.563Z

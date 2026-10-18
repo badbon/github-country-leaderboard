@@ -1,6 +1,6 @@
 # Nigeria
 
-Indexed users: 33,182
+Indexed users: 33,181
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 33,182
 | 19 | [samglish](https://github.com/samglish) | BEIDI DINA SAMUEL | Nigeria, Yola | 759 |
 | 20 | [slick-codes](https://github.com/slick-codes) | Paul Ezekiel-Hart | Nigeria | 709 |
 
-Generated: 2026-10-18T18:25:42.369Z
+Generated: 2026-10-18T19:57:18.738Z

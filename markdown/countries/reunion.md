@@ -25,7 +25,7 @@ Indexed users: 212
 | 11 | [Gabouin](https://github.com/Gabouin) | Gabouin | Reunion Island | 2,023 |
 | 12 | [lvothnrv](https://github.com/lvothnrv) | LvothNrv | Reunion Island | 2,005 |
 | 13 | [John361](https://github.com/John361) | John | Réunion | 1,987 |
-| 14 | [IamArayel](https://github.com/IamArayel) | Arayel | Reunion Island | 1,779 |
+| 14 | [IamArayel](https://github.com/IamArayel) | Arayel | Reunion Island | 1,807 |
 | 15 | [kevinturpin97](https://github.com/kevinturpin97) | RainMan | Reunion Island, France | 1,762 |
 | 16 | [eldertek](https://github.com/eldertek) | André Théo LAURET | Reunion Island | 1,752 |
 | 17 | [Nasjoe](https://github.com/Nasjoe) | Jonas TURBEAUX | Réunion Island, Villeurbanne, Montpellier : France | 1,719 |
@@ -39,10 +39,10 @@ Indexed users: 212
 |---:|---|---|---|---:|
 | 1 | [Gabouin](https://github.com/Gabouin) | Gabouin | Reunion Island | 1,956 |
 | 2 | [Nasjoe](https://github.com/Nasjoe) | Jonas TURBEAUX | Réunion Island, Villeurbanne, Montpellier : France | 1,719 |
-| 3 | [elmarco](https://github.com/elmarco) | Marc-André Lureau | Réunion | 1,145 |
+| 3 | [elmarco](https://github.com/elmarco) | Marc-André Lureau | Réunion | 1,141 |
 | 4 | [ChaffyLace](https://github.com/ChaffyLace) |  | Saint Denis | 970 |
 | 5 | [PhilDL](https://github.com/PhilDL) | Philippe L'ATTENTION | Réunion | 869 |
-| 6 | [IamArayel](https://github.com/IamArayel) | Arayel | Reunion Island | 713 |
+| 6 | [IamArayel](https://github.com/IamArayel) | Arayel | Reunion Island | 741 |
 | 7 | [gfo974](https://github.com/gfo974) | Geoffrey Fournier  | Réunion Island | 697 |
 | 8 | [Karl97490](https://github.com/Karl97490) | Karl Pery-Potonie | Réunion | 476 |
 | 9 | [John361](https://github.com/John361) | John | Réunion | 343 |
@@ -83,4 +83,4 @@ Indexed users: 212
 | 19 | [julien-lav](https://github.com/julien-lav) | julien-lav | Saint-Denis | 20 |
 | 20 | [Nasjoe](https://github.com/Nasjoe) | Jonas TURBEAUX | Réunion Island, Villeurbanne, Montpellier : France | 20 |
 
-Generated: 2026-10-18T18:32:02.813Z
+Generated: 2026-10-18T20:04:14.510Z

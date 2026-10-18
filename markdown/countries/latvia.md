@@ -29,9 +29,9 @@ Indexed users: 3,253
 | 15 | [jecis-repos](https://github.com/jecis-repos) | Jecis | Latvia | 7,539 |
 | 16 | [danielsbethers](https://github.com/danielsbethers) | Daniels Bethers | Riga, Latvia | 7,122 |
 | 17 | [agubarev](https://github.com/agubarev) | Andrejs Gubarevs | Latvia, Riga | 6,749 |
-| 18 | [sansan](https://github.com/sansan) | Toms Veidemanis | Riga | 6,604 |
-| 19 | [Shvembldr](https://github.com/Shvembldr) | Shvembldr | Latvia | 6,475 |
-| 20 | [victory-sokolov](https://github.com/victory-sokolov) | Viktor Sokolov | Latvia | 6,460 |
+| 18 | [vitalijssilins](https://github.com/vitalijssilins) | Vitālijs Silins | Latvia, Riga | 6,694 |
+| 19 | [sansan](https://github.com/sansan) | Toms Veidemanis | Riga | 6,604 |
+| 20 | [Shvembldr](https://github.com/Shvembldr) | Shvembldr | Latvia | 6,475 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 3,253
 | 19 | [ruslanskorb](https://github.com/ruslanskorb) | Ruslan Skorb | Riga, Latvia | 226 |
 | 20 | [0ki](https://github.com/0ki) | Кirils Sоlovjоvs | Latvia | 224 |
 
-Generated: 2026-10-18T18:14:33.301Z
+Generated: 2026-10-18T19:44:00.404Z
