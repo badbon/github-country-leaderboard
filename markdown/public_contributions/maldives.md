@@ -1,13 +1,13 @@
 # Public Contributions - Maldives
 
-Generated: 2026-10-18T06:10:19.887Z
+Generated: 2026-10-18T07:50:49.709Z
 
 Users: 354
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [hadithmv](https://github.com/hadithmv) | Mohamed Ashraaf Ibrahim | Hadithmv | hadithmv | Malé, Maldives | 1564 |
-| 2 | [nedanwr](https://github.com/nedanwr) | Naveed Ali Anwar | Self-Employed | nedanwr | Male', Maldives | 1339 |
+| 2 | [nedanwr](https://github.com/nedanwr) | Naveed Ali Anwar | Self-Employed | nedanwr | Male', Maldives | 1332 |
 | 3 | [hilarl](https://github.com/hilarl) | Hilal Agil |  | hilaarl | Male', Maldives | 1307 |
 | 4 | [72sevenzy2](https://github.com/72sevenzy2) | 72 | CampaignityAI | 72sevenzy2 | malé, maldives  | 1299 |
 | 5 | [mnazaal](https://github.com/mnazaal) | Nazaal | Aalto University | mnazaaI | Maldives | 1223 |

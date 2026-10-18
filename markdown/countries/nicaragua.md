@@ -14,13 +14,13 @@ Indexed users: 1,395
 |---:|---|---|---|---:|
 | 1 | [antonygiomarxdev](https://github.com/antonygiomarxdev) | Antony Giomar Hernández | Nicaragua | 9,320 |
 | 2 | [pacisauctor](https://github.com/pacisauctor) | Axel Garcia | Managua, Nicaragua | 9,145 |
-| 3 | [herroldreal](https://github.com/herroldreal) | Herrold H. Real | Nicaragua | 8,221 |
+| 3 | [herroldreal](https://github.com/herroldreal) | Herrold H. Real | Nicaragua | 8,427 |
 | 4 | [LuiisDev21](https://github.com/LuiisDev21) | Luis Ordoñez | Managua, Nicaragua | 7,440 |
-| 5 | [williamjmorenor](https://github.com/williamjmorenor) | William Moreno | Managua Nicaragua | 7,381 |
+| 5 | [williamjmorenor](https://github.com/williamjmorenor) | William Moreno | Managua Nicaragua | 7,432 |
 | 6 | [ahjavier](https://github.com/ahjavier) | Javier Alvarez | Nicaragua | 7,342 |
 | 7 | [slzno](https://github.com/slzno) | Luis Solorzano | León, Nicaragua | 6,050 |
-| 8 | [alfchee](https://github.com/alfchee) | Alfchee | Nicaragua | 5,367 |
-| 9 | [josetorres1](https://github.com/josetorres1) | José Torres | Managua, Nicaragua | 5,340 |
+| 8 | [josetorres1](https://github.com/josetorres1) | José Torres | Managua, Nicaragua | 5,686 |
+| 9 | [alfchee](https://github.com/alfchee) | Alfchee | Nicaragua | 5,367 |
 | 10 | [Xch4rt](https://github.com/Xch4rt) | Pablo Gutiérrez | Managua, Nicaragua | 4,501 |
 | 11 | [marcosmamg](https://github.com/marcosmamg) | Marcos Moreno | NIcaragua | 4,498 |
 | 12 | [edycarreyes99](https://github.com/edycarreyes99) | Edycar Reyes | Nicaragua | 4,437 |
@@ -37,7 +37,7 @@ Indexed users: 1,395
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [williamjmorenor](https://github.com/williamjmorenor) | William Moreno | Managua Nicaragua | 6,984 |
+| 1 | [williamjmorenor](https://github.com/williamjmorenor) | William Moreno | Managua Nicaragua | 7,035 |
 | 2 | [Xch4rt](https://github.com/Xch4rt) | Pablo Gutiérrez | Managua, Nicaragua | 2,121 |
 | 3 | [Void-CA](https://github.com/Void-CA) | Ari Castillo | Nicaragua | 2,052 |
 | 4 | [CharFranR](https://github.com/CharFranR) | Oscar Francisco Reyes Guevara  | Nicaragua | 1,646 |
@@ -83,4 +83,4 @@ Indexed users: 1,395
 | 19 | [luismejiadev](https://github.com/luismejiadev) | Luis Mejia | Managua, Nicaragua | 68 |
 | 20 | [dannygaray60](https://github.com/dannygaray60) | Danny Garay | Nicaragua | 61 |
 
-Generated: 2026-10-18T06:20:00.563Z
+Generated: 2026-10-18T08:01:31.897Z

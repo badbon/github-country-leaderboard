@@ -1,12 +1,12 @@
 # Followers - Mexico
 
-Generated: 2026-10-18T06:14:59.403Z
+Generated: 2026-10-18T07:53:54.794Z
 
 Users: 23490
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [stan8086](https://github.com/stan8086) | Jose Rodríguez | @ProductivityDirectory | xtan8086 | Mexico | 3819 |
+| 1 | [stan8086](https://github.com/stan8086) | Jose Rodríguez | @ProductivityDirectory | xtan8086 | Mexico | 3805 |
 | 2 | [deromafilossali](https://github.com/deromafilossali) | Rodrigo | RP |  | Mexico | 2303 |
 | 3 | [anncode1](https://github.com/anncode1) | Anahí Salgado |  | anncode | Mexico City | 2254 |
 | 4 | [marcosrivasr](https://github.com/marcosrivasr) | Marcos Rivas R @vidamrr | @microsoft | vidamrr | Mexico | 1715 |

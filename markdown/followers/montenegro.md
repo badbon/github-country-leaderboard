@@ -1,6 +1,6 @@
 # Followers - Montenegro
 
-Generated: 2026-10-18T06:17:57.516Z
+Generated: 2026-10-18T07:54:35.247Z
 
 Users: 888
 
@@ -14,7 +14,7 @@ Users: 888
 | 6 | [dockimbel](https://github.com/dockimbel) | Nenad Rakocevic | Fullstack Technologies | red_lang | Montenegro | 334 |
 | 7 | [LukaDut7](https://github.com/LukaDut7) | Luka Dutina |  |  | Podgorica, Montenegro | 229 |
 | 8 | [YuriiMotov](https://github.com/YuriiMotov) | Yurii Motov |  |  | Bar, Montenegro | 197 |
-| 9 | [sondreb](https://github.com/sondreb) | SondreB | @nostria-app @block-core @Liberstad | sondreb | Bar, Montenegro | 144 |
+| 9 | [sondreb](https://github.com/sondreb) | SondreB | @nostria-app @block-core @Liberstad | sondreb | Bar, Montenegro | 145 |
 | 10 | [cblp](https://github.com/cblp) | Yury Syrovetsky |  |  | Montenegro | 142 |
 | 11 | [lockie](https://github.com/lockie) | Andrew Kravchuk |  | awkravchuk | Montenegro, Podgorica | 136 |
 | 12 | [arikon](https://github.com/arikon) | Sergey Belov | Yandex |  | Tivat, Montenegro | 131 |

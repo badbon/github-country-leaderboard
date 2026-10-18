@@ -18,20 +18,20 @@ Indexed users: 23,490
 | 4 | [encouver](https://github.com/encouver) | Marcos Ramirez | Mexico | 19,819 |
 | 5 | [daniel-z](https://github.com/daniel-z) | Daniel Zamorano | Guadalajara, Jalisco, México | 17,993 |
 | 6 | [jdalmasso](https://github.com/jdalmasso) | Jacopo Dalmasso | Mexico City / San Francisco | 16,375 |
-| 7 | [enmaca](https://github.com/enmaca) | Enrique Martinez | Monterrey | 15,442 |
-| 8 | [geoperez](https://github.com/geoperez) | Geovanni Perez | Guadalajara, MX | 15,267 |
-| 9 | [salmosri](https://github.com/salmosri) | Shadi Almosri | La Paz, Mexico | 15,104 |
-| 10 | [gregorycoppola](https://github.com/gregorycoppola) | Gregory Coppola | Mexico | 14,981 |
-| 11 | [FerAnimaciones](https://github.com/FerAnimaciones) | Fernando Manuel Avila Cataño | Tepic, Nayarit, Mexico | 13,765 |
-| 12 | [Jorgelig](https://github.com/Jorgelig) | Jorgelig | Monterrey, Nuevo Leon | 13,421 |
-| 13 | [joseamijares](https://github.com/joseamijares) | José Antonio Mijares | Mexico City | 13,337 |
-| 14 | [8Dionysus](https://github.com/8Dionysus) | Dionysus | Mexico | 12,884 |
-| 15 | [michaelcoburn](https://github.com/michaelcoburn) | Michael Coburn | Mexico | 12,407 |
-| 16 | [luisfernandobarrera](https://github.com/luisfernandobarrera) | Luis Fernando Barrera | Mexico City, Mexico | 10,892 |
-| 17 | [fercreek](https://github.com/fercreek) | Fernando Contreras | Monterrey, Nuevo Leon | 10,499 |
-| 18 | [paridin](https://github.com/paridin) | Roberto Estrada | Mexico City | 10,287 |
-| 19 | [lomeliDev](https://github.com/lomeliDev) | Miguel Lomeli | Mexico | 10,140 |
-| 20 | [TheAlexYao](https://github.com/TheAlexYao) | Alex Yao | Mexico City, Mexico | 10,123 |
+| 7 | [jeresoftx](https://github.com/jeresoftx) | Joel Alvarez Mexia | Mexico | 15,869 |
+| 8 | [enmaca](https://github.com/enmaca) | Enrique Martinez | Monterrey | 15,442 |
+| 9 | [geoperez](https://github.com/geoperez) | Geovanni Perez | Guadalajara, MX | 15,267 |
+| 10 | [salmosri](https://github.com/salmosri) | Shadi Almosri | La Paz, Mexico | 15,104 |
+| 11 | [gregorycoppola](https://github.com/gregorycoppola) | Gregory Coppola | Mexico | 14,981 |
+| 12 | [FerAnimaciones](https://github.com/FerAnimaciones) | Fernando Manuel Avila Cataño | Tepic, Nayarit, Mexico | 13,765 |
+| 13 | [Jorgelig](https://github.com/Jorgelig) | Jorgelig | Monterrey, Nuevo Leon | 13,421 |
+| 14 | [joseamijares](https://github.com/joseamijares) | José Antonio Mijares | Mexico City | 13,337 |
+| 15 | [8Dionysus](https://github.com/8Dionysus) | Dionysus | Mexico | 12,884 |
+| 16 | [michaelcoburn](https://github.com/michaelcoburn) | Michael Coburn | Mexico | 12,407 |
+| 17 | [luisfernandobarrera](https://github.com/luisfernandobarrera) | Luis Fernando Barrera | Mexico City, Mexico | 10,892 |
+| 18 | [fercreek](https://github.com/fercreek) | Fernando Contreras | Monterrey, Nuevo Leon | 10,499 |
+| 19 | [paridin](https://github.com/paridin) | Roberto Estrada | Mexico City | 10,287 |
+| 20 | [lomeliDev](https://github.com/lomeliDev) | Miguel Lomeli | Mexico | 10,140 |
 
 ## Public Contributions
 
@@ -62,7 +62,7 @@ Indexed users: 23,490
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [stan8086](https://github.com/stan8086) | Jose Rodríguez | Mexico | 3,819 |
+| 1 | [stan8086](https://github.com/stan8086) | Jose Rodríguez | Mexico | 3,805 |
 | 2 | [deromafilossali](https://github.com/deromafilossali) | Rodrigo | Mexico | 2,303 |
 | 3 | [anncode1](https://github.com/anncode1) | Anahí Salgado | Mexico City | 2,254 |
 | 4 | [marcosrivasr](https://github.com/marcosrivasr) | Marcos Rivas R @vidamrr | Mexico | 1,715 |
@@ -83,4 +83,4 @@ Indexed users: 23,490
 | 19 | [FiliSantillan](https://github.com/FiliSantillan) | Fili Santillán | Mexico City | 661 |
 | 20 | [edglaz](https://github.com/edglaz) |  | Mexico City | 636 |
 
-Generated: 2026-10-18T06:14:59.403Z
+Generated: 2026-10-18T07:53:54.794Z

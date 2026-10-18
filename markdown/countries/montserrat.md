@@ -13,13 +13,13 @@ Indexed users: 291
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [dotslashderek](https://github.com/dotslashderek) | Derek Thompson | Plymouth, MI | 14,559 |
-| 2 | [BuckinghamIO](https://github.com/BuckinghamIO) | Sam Buckingham | Plymouth, Devon | 8,384 |
+| 2 | [BuckinghamIO](https://github.com/BuckinghamIO) | Sam Buckingham | Plymouth, Devon | 8,758 |
 | 3 | [flaviocfneto](https://github.com/flaviocfneto) | Flávio Neto | Plymouth | 6,934 |
 | 4 | [dvmrry](https://github.com/dvmrry) | Dave Murray | Plymouth Meeting, Pennsylvania | 4,070 |
 | 5 | [Aloogy](https://github.com/Aloogy) | Alex Cottenham | Plymouth, GB. | 4,026 |
 | 6 | [albemontors](https://github.com/albemontors) | Alberto Montorsi | Plymouth | 3,853 |
-| 7 | [binarytide](https://github.com/binarytide) | John McAndrews | Plymouth, Ma | 3,410 |
-| 8 | [thisisthechris](https://github.com/thisisthechris) | Chris Hunt | Plymouth | 3,132 |
+| 7 | [binarytide](https://github.com/binarytide) | John McAndrews | Plymouth, Ma | 3,404 |
+| 8 | [thisisthechris](https://github.com/thisisthechris) | Chris Hunt | Plymouth | 3,129 |
 | 9 | [gathercole3](https://github.com/gathercole3) | jacob gathercole | plymouth | 2,476 |
 | 10 | [cpotey](https://github.com/cpotey) | Connor Pote | Plymouth | 2,318 |
 | 11 | [Faved](https://github.com/Faved) | Alan Bennett | Plymouth, Devon | 2,274 |
@@ -43,7 +43,7 @@ Indexed users: 291
 | 4 | [robertjwilson](https://github.com/robertjwilson) | Robert Wilson | Plymouth | 1,012 |
 | 5 | [gjbauer](https://github.com/gjbauer) |  | Plymouth, NH | 722 |
 | 6 | [jaydreyer](https://github.com/jaydreyer) | Jay Dreyer | Plymouth, MN | 703 |
-| 7 | [binarytide](https://github.com/binarytide) | John McAndrews | Plymouth, Ma | 680 |
+| 7 | [binarytide](https://github.com/binarytide) | John McAndrews | Plymouth, Ma | 682 |
 | 8 | [cpuzzuol](https://github.com/cpuzzuol) | Chris Puzzuoli | Plymouth, MI | 523 |
 | 9 | [patrickmgarrity](https://github.com/patrickmgarrity) | Patrick Garrity | Plymouth, MI | 448 |
 | 10 | [AnshLaw](https://github.com/AnshLaw) | Ansh R. Suryavanshi | Plymouth, MI | 394 |
@@ -80,7 +80,7 @@ Indexed users: 291
 | 16 | [ianckc](https://github.com/ianckc) | Ian Luckraft | Plymouth UK | 22 |
 | 17 | [kelefouras](https://github.com/kelefouras) | Kelefouras Vasilis | Plymouth | 22 |
 | 18 | [Prestophobia](https://github.com/Prestophobia) | Xander Wardell | Plymouth, Michigan | 22 |
-| 19 | [BeresIvan](https://github.com/BeresIvan) |  | Plymouth, MN | 20 |
-| 20 | [binarytide](https://github.com/binarytide) | John McAndrews | Plymouth, Ma | 20 |
+| 19 | [binarytide](https://github.com/binarytide) | John McAndrews | Plymouth, Ma | 21 |
+| 20 | [BeresIvan](https://github.com/BeresIvan) |  | Plymouth, MN | 20 |
 
-Generated: 2026-10-18T06:18:03.020Z
+Generated: 2026-10-18T07:55:41.279Z

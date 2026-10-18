@@ -1,6 +1,6 @@
 # Followers - Paraguay
 
-Generated: 2026-10-18T06:24:45.598Z
+Generated: 2026-10-18T08:07:26.935Z
 
 Users: 2014
 

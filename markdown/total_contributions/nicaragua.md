@@ -1,6 +1,6 @@
 # Total Contributions - Nicaragua
 
-Generated: 2026-10-18T06:20:00.563Z
+Generated: 2026-10-18T08:01:31.897Z
 
 Users: 1395
 
@@ -8,13 +8,13 @@ Users: 1395
 |---:|---|---|---|---|---|---:|
 | 1 | [antonygiomarxdev](https://github.com/antonygiomarxdev) | Antony Giomar Hernández | @Atomchat-io | antonygiomarx | Nicaragua | 9320 |
 | 2 | [pacisauctor](https://github.com/pacisauctor) | Axel Garcia | @BreveTech @tizo-nic  | pacisauctor_ | Managua, Nicaragua | 9145 |
-| 3 | [herroldreal](https://github.com/herroldreal) | Herrold H. Real |  |  | Nicaragua | 8221 |
+| 3 | [herroldreal](https://github.com/herroldreal) | Herrold H. Real |  |  | Nicaragua | 8427 |
 | 4 | [LuiisDev21](https://github.com/LuiisDev21) | Luis Ordoñez | Freelance |  | Managua, Nicaragua | 7440 |
-| 5 | [williamjmorenor](https://github.com/williamjmorenor) | William Moreno |  |  | Managua Nicaragua | 7381 |
+| 5 | [williamjmorenor](https://github.com/williamjmorenor) | William Moreno |  |  | Managua Nicaragua | 7432 |
 | 6 | [ahjavier](https://github.com/ahjavier) | Javier Alvarez | Telnyx |  | Nicaragua | 7342 |
 | 7 | [slzno](https://github.com/slzno) | Luis Solorzano | Homeflow Technologies | SlznoLudav | León, Nicaragua | 6050 |
-| 8 | [alfchee](https://github.com/alfchee) | Alfchee |  |  | Nicaragua | 5367 |
-| 9 | [josetorres1](https://github.com/josetorres1) | José Torres |  |  | Managua, Nicaragua | 5340 |
+| 8 | [josetorres1](https://github.com/josetorres1) | José Torres |  |  | Managua, Nicaragua | 5686 |
+| 9 | [alfchee](https://github.com/alfchee) | Alfchee |  |  | Nicaragua | 5367 |
 | 10 | [Xch4rt](https://github.com/Xch4rt) | Pablo Gutiérrez |  |  | Managua, Nicaragua | 4501 |
 | 11 | [marcosmamg](https://github.com/marcosmamg) | Marcos Moreno |  |  | NIcaragua | 4498 |
 | 12 | [edycarreyes99](https://github.com/edycarreyes99) | Edycar Reyes |  | edycarreyes99 | Nicaragua | 4437 |

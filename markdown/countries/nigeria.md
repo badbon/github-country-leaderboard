@@ -46,8 +46,8 @@ Indexed users: 33,183
 | 7 | [beresdowds-afk](https://github.com/beresdowds-afk) | Olusola Adebayo  | Nigeria  | 7,029 |
 | 8 | [eshanokpe](https://github.com/eshanokpe) | Dannicode | Lagos, Nigeria | 6,755 |
 | 9 | [ademosuoluwatobi-cloud](https://github.com/ademosuoluwatobi-cloud) | Oluwatobi Peter Ademosu | Ibadan, Nigeria | 6,320 |
-| 10 | [Xaxxoo](https://github.com/Xaxxoo) |  | Nigeria | 6,151 |
-| 11 | [aabxtract](https://github.com/aabxtract) | Afolami Anuoluwapo | Akure, Nigeria | 6,049 |
+| 10 | [aabxtract](https://github.com/aabxtract) | Afolami Anuoluwapo | Akure, Nigeria | 6,194 |
+| 11 | [Xaxxoo](https://github.com/Xaxxoo) |  | Nigeria | 6,151 |
 | 12 | [Officialhomie](https://github.com/Officialhomie) | OneTrueHomie | Lagos, Nigeria | 5,789 |
 | 13 | [caxtonacollins](https://github.com/caxtonacollins) | caxton strange | Nigeria | 5,675 |
 | 14 | [DiceTech435](https://github.com/DiceTech435) | Amevye Matthew | Lagos, Nigeria | 5,604 |
@@ -83,4 +83,4 @@ Indexed users: 33,183
 | 19 | [samglish](https://github.com/samglish) | BEIDI DINA SAMUEL | Nigeria, Yola | 759 |
 | 20 | [slick-codes](https://github.com/slick-codes) | Paul Ezekiel-Hart | Nigeria | 709 |
 
-Generated: 2026-10-18T06:21:27.760Z
+Generated: 2026-10-18T08:02:54.944Z

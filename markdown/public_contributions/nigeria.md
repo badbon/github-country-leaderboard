@@ -1,6 +1,6 @@
 # Public Contributions - Nigeria
 
-Generated: 2026-10-18T06:21:27.760Z
+Generated: 2026-10-18T08:02:54.944Z
 
 Users: 33183
 
@@ -15,8 +15,8 @@ Users: 33183
 | 7 | [beresdowds-afk](https://github.com/beresdowds-afk) | Olusola Adebayo  | East-forte-fabrications-and-equipments  |  | Nigeria  | 7029 |
 | 8 | [eshanokpe](https://github.com/eshanokpe) | Dannicode | Infoscert |  | Lagos, Nigeria | 6755 |
 | 9 | [ademosuoluwatobi-cloud](https://github.com/ademosuoluwatobi-cloud) | Oluwatobi Peter Ademosu | Electrical & Electronics Engineer | Oluwatobiui | Ibadan, Nigeria | 6320 |
-| 10 | [Xaxxoo](https://github.com/Xaxxoo) |  |  | xaxxoo | Nigeria | 6151 |
-| 11 | [aabxtract](https://github.com/aabxtract) | Afolami Anuoluwapo |  | anuafolami_ | Akure, Nigeria | 6049 |
+| 10 | [aabxtract](https://github.com/aabxtract) | Afolami Anuoluwapo |  | anuafolami_ | Akure, Nigeria | 6194 |
+| 11 | [Xaxxoo](https://github.com/Xaxxoo) |  |  | xaxxoo | Nigeria | 6151 |
 | 12 | [Officialhomie](https://github.com/Officialhomie) | OneTrueHomie |  | officialhomie_ | Lagos, Nigeria | 5789 |
 | 13 | [caxtonacollins](https://github.com/caxtonacollins) | caxton strange |  | CollinsCaxton4 | Nigeria | 5675 |
 | 14 | [DiceTech435](https://github.com/DiceTech435) | Amevye Matthew | 🎯 DICES |  | Lagos, Nigeria | 5604 |

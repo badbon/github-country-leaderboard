@@ -1,6 +1,6 @@
 # Followers - Montserrat
 
-Generated: 2026-10-18T06:18:03.020Z
+Generated: 2026-10-18T07:55:41.279Z
 
 Users: 291
 
@@ -24,5 +24,5 @@ Users: 291
 | 16 | [ianckc](https://github.com/ianckc) | Ian Luckraft |  | ianckc | Plymouth UK | 22 |
 | 17 | [kelefouras](https://github.com/kelefouras) | Kelefouras Vasilis | Uni of Plymouth |  | Plymouth | 22 |
 | 18 | [Prestophobia](https://github.com/Prestophobia) | Xander Wardell | Stardock | prestophobia | Plymouth, Michigan | 22 |
-| 19 | [BeresIvan](https://github.com/BeresIvan) |  | June Co |  | Plymouth, MN | 20 |
-| 20 | [binarytide](https://github.com/binarytide) | John McAndrews | Infinite-scope.com |  | Plymouth, Ma | 20 |
+| 19 | [binarytide](https://github.com/binarytide) | John McAndrews | Infinite-scope.com |  | Plymouth, Ma | 21 |
+| 20 | [BeresIvan](https://github.com/BeresIvan) |  | June Co |  | Plymouth, MN | 20 |
