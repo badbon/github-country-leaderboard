@@ -31074,8 +31074,8 @@
     "location": "Thailand",
     "company": "",
     "twitterUsername": "",
-    "followers": 20,
-    "privateContributions": 15,
+    "followers": 19,
+    "privateContributions": 57,
     "publicContributions": 11,
     "createdAt": "2022-02-28T17:18:39Z"
   },
@@ -31088,7 +31088,7 @@
     "twitterUsername": "",
     "followers": 19,
     "privateContributions": 0,
-    "publicContributions": 191,
+    "publicContributions": 246,
     "createdAt": "2022-06-08T04:38:25Z"
   },
   {
@@ -31099,8 +31099,8 @@
     "company": "Education Technology, Khon Kaen University",
     "twitterUsername": "",
     "followers": 19,
-    "privateContributions": 97,
-    "publicContributions": 56,
+    "privateContributions": 102,
+    "publicContributions": 50,
     "createdAt": "2022-03-21T07:28:59Z"
   },
   {
@@ -31112,7 +31112,7 @@
     "twitterUsername": "bonazzoli_17",
     "followers": 18,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2022-03-15T09:02:51Z"
   },
   {
@@ -31124,7 +31124,7 @@
     "twitterUsername": "kelvin",
     "followers": 18,
     "privateContributions": 0,
-    "publicContributions": 109,
+    "publicContributions": 25,
     "createdAt": "2022-06-17T15:19:53Z"
   },
   {
@@ -31135,8 +31135,8 @@
     "company": "SONEPAR (THAILAND) LIMITED",
     "twitterUsername": "ingpawat",
     "followers": 18,
-    "privateContributions": 1120,
-    "publicContributions": 56,
+    "privateContributions": 1021,
+    "publicContributions": 38,
     "createdAt": "2022-04-06T09:58:43Z"
   },
   {
@@ -31147,7 +31147,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 18,
-    "privateContributions": 278,
+    "privateContributions": 637,
     "publicContributions": 0,
     "createdAt": "2022-03-10T04:35:50Z"
   },
@@ -31160,7 +31160,7 @@
     "twitterUsername": "",
     "followers": 18,
     "privateContributions": 0,
-    "publicContributions": 176,
+    "publicContributions": 167,
     "createdAt": "2022-05-07T10:12:51Z"
   },
   {
@@ -31170,7 +31170,7 @@
     "location": "Bangkok Thailand",
     "company": "",
     "twitterUsername": "",
-    "followers": 18,
+    "followers": 20,
     "privateContributions": 0,
     "publicContributions": 6,
     "createdAt": "2022-03-08T13:52:23Z"
@@ -31183,8 +31183,8 @@
     "company": "@hackclub @ku-t3ch",
     "twitterUsername": "",
     "followers": 17,
-    "privateContributions": 128,
-    "publicContributions": 144,
+    "privateContributions": 100,
+    "publicContributions": 181,
     "createdAt": "2022-03-15T11:01:00Z"
   },
   {
@@ -31196,7 +31196,7 @@
     "twitterUsername": "",
     "followers": 17,
     "privateContributions": 0,
-    "publicContributions": 94,
+    "publicContributions": 14,
     "createdAt": "2022-06-23T01:19:34Z"
   },
   {
@@ -31207,7 +31207,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 17,
-    "privateContributions": 19,
+    "privateContributions": 17,
     "publicContributions": 211,
     "createdAt": "2022-05-14T04:46:18Z"
   },
@@ -31219,8 +31219,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 17,
-    "privateContributions": 505,
-    "publicContributions": 186,
+    "privateContributions": 1470,
+    "publicContributions": 192,
     "createdAt": "2022-01-18T01:15:55Z"
   },
   {
@@ -31231,8 +31231,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 17,
-    "privateContributions": 661,
-    "publicContributions": 18,
+    "privateContributions": 572,
+    "publicContributions": 17,
     "createdAt": "2022-02-14T06:58:41Z"
   },
   {
@@ -31255,21 +31255,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 15,
-    "privateContributions": 697,
-    "publicContributions": 88,
+    "privateContributions": 614,
+    "publicContributions": 76,
     "createdAt": "2022-03-22T06:44:17Z"
-  },
-  {
-    "login": "1ampupa",
-    "name": "pupa",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/101866129?s=72&u=e80ba45035efa720399c19f15e1ce8ccfaeb9687&v=4",
-    "location": "Thailand",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 15,
-    "privateContributions": 53,
-    "publicContributions": 225,
-    "createdAt": "2022-03-18T09:20:06Z"
   },
   {
     "login": "KittisakPh",
@@ -31278,9 +31266,9 @@
     "location": "Hatyai, Thailand",
     "company": "INET",
     "twitterUsername": "",
-    "followers": 14,
+    "followers": 17,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 26,
     "createdAt": "2022-02-22T08:02:06Z"
   },
   {
@@ -31290,9 +31278,9 @@
     "location": "Bangkok, Thailand",
     "company": "",
     "twitterUsername": "",
-    "followers": 14,
+    "followers": 17,
     "privateContributions": 0,
-    "publicContributions": 422,
+    "publicContributions": 193,
     "createdAt": "2022-05-27T10:11:35Z"
   },
   {
@@ -31302,9 +31290,9 @@
     "location": "Bangkok, Thailand",
     "company": "King Mongkut's Institute of Technology Ladkrabang",
     "twitterUsername": "",
-    "followers": 14,
+    "followers": 15,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 0,
     "createdAt": "2022-02-18T15:33:32Z"
   },
   {

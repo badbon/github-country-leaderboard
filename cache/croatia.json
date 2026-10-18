@@ -31616,7 +31616,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2017-11-19T20:23:39Z"
   },
   {
@@ -31627,7 +31627,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 0,
+    "privateContributions": 80,
     "publicContributions": 19,
     "createdAt": "2017-03-08T22:59:40Z"
   },
@@ -31640,7 +31640,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 147,
     "createdAt": "2017-04-01T22:18:46Z"
   },
   {
@@ -31652,7 +31652,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 100,
+    "publicContributions": 80,
     "createdAt": "2017-06-27T09:38:13Z"
   },
   {
@@ -31664,7 +31664,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2017-11-05T11:08:22Z"
   },
   {
@@ -31692,18 +31692,6 @@
     "createdAt": "2017-01-07T10:38:41Z"
   },
   {
-    "login": "mislavva",
-    "name": "Mislav Švaljek",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/26609185?s=72&u=dafa0a3b4a6a95e59a2ec3a762dc17826b033afb&v=4",
-    "location": "Zagreb, Croatia",
-    "company": "Determ",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2017-03-22T19:55:30Z"
-  },
-  {
     "login": "karlohrvacic",
     "name": "Karlo Hrvačić",
     "avatarUrl": "https://avatars.githubusercontent.com/u/34110072?s=72&v=4",
@@ -31711,8 +31699,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 4,
-    "publicContributions": 132,
+    "privateContributions": 51,
+    "publicContributions": 213,
     "createdAt": "2017-11-29T21:55:31Z"
   },
   {
@@ -31723,7 +31711,7 @@
     "company": "@Acodeon ",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 207,
+    "privateContributions": 173,
     "publicContributions": 1,
     "createdAt": "2017-12-09T12:26:11Z"
   },
@@ -31735,7 +31723,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 829,
+    "privateContributions": 1310,
     "publicContributions": 1,
     "createdAt": "2017-05-07T20:08:30Z"
   },
@@ -31796,7 +31784,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 16,
     "createdAt": "2017-03-29T13:20:22Z"
   },
   {
@@ -31810,18 +31798,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-07-04T12:43:10Z"
-  },
-  {
-    "login": "mislavbasic",
-    "name": "Mislav",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/25529318?s=72&v=4",
-    "location": "Croatia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2017-02-03T12:43:11Z"
   },
   {
     "login": "DMesek",
