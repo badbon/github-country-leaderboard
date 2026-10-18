@@ -31050,9 +31050,9 @@
     "location": "Malaysia",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 28,
     "createdAt": "2022-04-05T14:08:50Z"
   },
   {
@@ -31064,7 +31064,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 87,
+    "publicContributions": 158,
     "createdAt": "2022-05-11T10:26:26Z"
   },
   {
@@ -31104,18 +31104,6 @@
     "createdAt": "2022-12-12T02:35:03Z"
   },
   {
-    "login": "JKYIU",
-    "name": "Ji Kang",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/121168533?s=72&u=fd34ff69c8424c04439b9b28be990b7d51739bf1&v=4",
-    "location": "Kuala Lumpur, Malaysia",
-    "company": "Cape Cloud",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 19,
-    "createdAt": "2022-12-21T11:35:25Z"
-  },
-  {
     "login": "aliff850",
     "name": "Aliff Ramli",
     "avatarUrl": "https://avatars.githubusercontent.com/u/119686504?s=72&u=357fa66dda023370a7c04a7e738136d7db0c01ba&v=4",
@@ -31123,8 +31111,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 5,
-    "publicContributions": 167,
+    "privateContributions": 21,
+    "publicContributions": 158,
     "createdAt": "2022-12-02T15:22:03Z"
   },
   {
@@ -31148,7 +31136,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 37,
+    "publicContributions": 20,
     "createdAt": "2022-10-19T01:45:04Z"
   },
   {
@@ -31172,7 +31160,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 0,
     "createdAt": "2022-05-27T13:38:17Z"
   },
   {
@@ -31182,7 +31170,7 @@
     "location": "Malaysia, Kuala Lumpur",
     "company": "Pilot Multimedia (M) Sdn Bhd",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-04-06T15:32:18Z"
@@ -31194,7 +31182,7 @@
     "location": "PUTRAJAYA,MALAYSIA",
     "company": "PERBADANAN PUTRAJAYA",
     "twitterUsername": "sepz36",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 10,
     "createdAt": "2022-11-07T02:53:35Z"
@@ -31232,7 +31220,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 2,
     "createdAt": "2022-11-17T02:36:58Z"
   },
   {
@@ -31242,9 +31230,9 @@
     "location": "Malaysia",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 382,
+    "publicContributions": 387,
     "createdAt": "2022-08-09T11:35:05Z"
   },
   {
@@ -31254,9 +31242,9 @@
     "location": "Puchong, Selangor, Malaysia",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 166,
+    "publicContributions": 203,
     "createdAt": "2022-07-12T11:03:50Z"
   },
   {
@@ -141550,5 +141538,29 @@
     "privateContributions": 0,
     "publicContributions": 18,
     "createdAt": "2026-07-03T23:22:03Z"
+  },
+  {
+    "login": "jianxiangt",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/299835202?s=72&v=4",
+    "location": "Kuala Lumpur, Malaysia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-07-04T12:29:46Z"
+  },
+  {
+    "login": "UyenHarrison4100",
+    "name": "Thiago Valentin Escalante",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/299924000?s=72&v=4",
+    "location": "Malaysia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2026-07-04T19:27:16Z"
   }
 ]

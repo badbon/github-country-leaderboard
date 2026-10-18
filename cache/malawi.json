@@ -9900,18 +9900,6 @@
     "createdAt": "2016-10-05T08:54:21Z"
   },
   {
-    "login": "Sydney83",
-    "name": "Sydney Nyirenda",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/18641851?s=72&u=d1677f75094043064a5e55aa25e30c8e706b1ec3&v=4",
-    "location": "Karonga, Malawi",
-    "company": "Belea Enterprise ",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 208,
-    "publicContributions": 11,
-    "createdAt": "2016-04-24T10:38:18Z"
-  },
-  {
     "login": "chrisWalan",
     "name": "Chikumbutso Walani",
     "avatarUrl": "https://avatars.githubusercontent.com/u/20659846?s=72&u=0f90bee47b3533a544d268298083770d508ef7b2&v=4",
@@ -9942,7 +9930,7 @@
     "location": "Lilongwe",
     "company": "@808Computing",
     "twitterUsername": "chisuwochimango",
-    "followers": 28,
+    "followers": 27,
     "privateContributions": 38,
     "publicContributions": 0,
     "createdAt": "2016-02-29T08:24:14Z"
@@ -10038,8 +10026,8 @@
     "location": "Blantyre, Malawi",
     "company": "@lync-systems-mw ",
     "twitterUsername": "_fraganya",
-    "followers": 259,
-    "privateContributions": 2641,
+    "followers": 261,
+    "privateContributions": 2630,
     "publicContributions": 6,
     "createdAt": "2015-01-15T23:55:30Z"
   },
@@ -10050,7 +10038,7 @@
     "location": "Zomba, Malawi",
     "company": "",
     "twitterUsername": "",
-    "followers": 97,
+    "followers": 96,
     "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2015-09-25T22:47:51Z"
@@ -10064,7 +10052,7 @@
     "twitterUsername": "simuzeche",
     "followers": 73,
     "privateContributions": 154,
-    "publicContributions": 51,
+    "publicContributions": 43,
     "createdAt": "2015-05-06T08:57:19Z"
   },
   {
@@ -10075,7 +10063,7 @@
     "company": "Telekom Networks Malawi",
     "twitterUsername": "kalmfuz",
     "followers": 42,
-    "privateContributions": 1100,
+    "privateContributions": 1102,
     "publicContributions": 9,
     "createdAt": "2015-04-18T10:07:04Z"
   },

@@ -31292,7 +31292,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2021-11-09T16:05:23Z"
   },
   {
@@ -31304,7 +31304,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 47,
+    "publicContributions": 26,
     "createdAt": "2021-10-18T14:02:22Z"
   },
   {
@@ -31326,7 +31326,7 @@
     "location": "Tel Aviv, Israel",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-08-17T07:45:53Z"
@@ -31352,7 +31352,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 6,
     "createdAt": "2021-11-07T20:35:21Z"
   },
   {
@@ -31387,7 +31387,7 @@
     "company": "",
     "twitterUsername": "eylonxx",
     "followers": 3,
-    "privateContributions": 103,
+    "privateContributions": 177,
     "publicContributions": 0,
     "createdAt": "2021-11-24T11:29:30Z"
   },
@@ -31400,7 +31400,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 250,
+    "publicContributions": 285,
     "createdAt": "2021-07-06T09:33:47Z"
   },
   {
@@ -31408,11 +31408,11 @@
     "name": "Michael Scharff",
     "avatarUrl": "https://avatars.githubusercontent.com/u/93777361?s=72&u=69e1d1a0b4e476cbde7c86d6533f82baae1fe072&v=4",
     "location": "Israel",
-    "company": "Geomage",
+    "company": "",
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 524,
+    "publicContributions": 598,
     "createdAt": "2021-11-05T13:40:42Z"
   },
   {
@@ -31422,9 +31422,9 @@
     "location": "Israel",
     "company": "-",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 554,
-    "publicContributions": 91,
+    "followers": 4,
+    "privateContributions": 601,
+    "publicContributions": 122,
     "createdAt": "2021-10-25T14:07:32Z"
   },
   {
@@ -31454,12 +31454,12 @@
   {
     "login": "benjamins1995",
     "name": "beni saadon",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/88382856?s=72&u=dd1ad712fbcdda9a92c796f0206913a3ba3b0514&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/88382856?s=72&u=4f2be154ee0c4158f7f199c1c439742e50a29cf3&v=4",
     "location": "israel",
-    "company": "AI Platform Engineer (Confidential)",
+    "company": "Zohar Labs",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 1596,
+    "privateContributions": 2057,
     "publicContributions": 7,
     "createdAt": "2021-08-03T12:11:43Z"
   },
@@ -31471,8 +31471,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 233,
-    "publicContributions": 1,
+    "privateContributions": 342,
+    "publicContributions": 5,
     "createdAt": "2021-10-12T12:00:13Z"
   },
   {

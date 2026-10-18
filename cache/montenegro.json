@@ -9836,7 +9836,7 @@
     "twitterUsername": "",
     "followers": 67,
     "privateContributions": 1,
-    "publicContributions": 446,
+    "publicContributions": 450,
     "createdAt": "2011-12-23T12:34:56Z"
   },
   {
@@ -9859,7 +9859,7 @@
     "company": "@Automattic",
     "twitterUsername": "",
     "followers": 46,
-    "privateContributions": 1888,
+    "privateContributions": 1894,
     "publicContributions": 3,
     "createdAt": "2011-11-09T00:08:29Z"
   },
@@ -9871,7 +9871,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 33,
-    "privateContributions": 264,
+    "privateContributions": 260,
     "publicContributions": 3,
     "createdAt": "2011-03-20T20:23:25Z"
   },
@@ -9883,8 +9883,8 @@
     "company": "CloudLinux",
     "twitterUsername": "",
     "followers": 30,
-    "privateContributions": 663,
-    "publicContributions": 2226,
+    "privateContributions": 656,
+    "publicContributions": 2217,
     "createdAt": "2011-03-04T05:37:38Z"
   },
   {
@@ -9894,7 +9894,7 @@
     "location": "Montenegro/Budva",
     "company": "@purelabio @ayyliens ",
     "twitterUsername": "",
-    "followers": 28,
+    "followers": 27,
     "privateContributions": 197,
     "publicContributions": 30,
     "createdAt": "2011-12-02T07:55:44Z"
@@ -9908,7 +9908,7 @@
     "twitterUsername": "",
     "followers": 20,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 26,
     "createdAt": "2011-10-04T23:50:19Z"
   },
   {
@@ -9931,7 +9931,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 543,
+    "privateContributions": 583,
     "publicContributions": 64,
     "createdAt": "2011-09-11T15:52:44Z"
   },
@@ -9956,7 +9956,7 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 92,
+    "publicContributions": 98,
     "createdAt": "2011-04-13T12:30:48Z"
   },
   {
@@ -9968,7 +9968,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 401,
+    "publicContributions": 395,
     "createdAt": "2011-06-21T06:00:44Z"
   },
   {
@@ -9991,7 +9991,7 @@
     "company": "SYNAPS",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 2798,
+    "privateContributions": 2883,
     "publicContributions": 9,
     "createdAt": "2011-08-09T15:14:21Z"
   },
@@ -10039,7 +10039,7 @@
     "company": "Libertex",
     "twitterUsername": "lamak",
     "followers": 5,
-    "privateContributions": 5,
+    "privateContributions": 4,
     "publicContributions": 0,
     "createdAt": "2011-05-18T13:44:16Z"
   },
