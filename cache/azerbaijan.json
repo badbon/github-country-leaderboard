@@ -32828,7 +32828,7 @@
     "twitterUsername": "mhrc_o",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 2,
     "createdAt": "2021-09-04T12:15:55Z"
   },
   {
@@ -32838,9 +32838,9 @@
     "location": "Azerbaijan",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 1139,
-    "publicContributions": 247,
+    "followers": 7,
+    "privateContributions": 2817,
+    "publicContributions": 261,
     "createdAt": "2021-03-02T16:44:00Z"
   },
   {
@@ -32864,7 +32864,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 4,
     "createdAt": "2021-06-02T23:00:10Z"
   },
   {
@@ -32874,7 +32874,7 @@
     "location": "Baku, Azerbaijan",
     "company": "Holberton School",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2021-11-17T18:21:13Z"
@@ -32898,9 +32898,9 @@
     "location": "Azerbaijan, Baku",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 288,
-    "publicContributions": 142,
+    "followers": 9,
+    "privateContributions": 97,
+    "publicContributions": 111,
     "createdAt": "2021-06-28T05:25:15Z"
   },
   {
@@ -32935,7 +32935,7 @@
     "company": "",
     "twitterUsername": "jalalrafiyev",
     "followers": 6,
-    "privateContributions": 501,
+    "privateContributions": 502,
     "publicContributions": 7,
     "createdAt": "2021-05-20T04:16:17Z"
   },
@@ -32960,20 +32960,8 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 3,
     "createdAt": "2021-11-22T16:42:59Z"
-  },
-  {
-    "login": "unbeirrter",
-    "name": "Asgar V. Tahmazov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/83038857?s=72&u=9b68fae2972d87a22098fe056a80760f4c4c3cf4&v=4",
-    "location": "Baku, Azerbaijan",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2021-04-22T20:35:58Z"
   },
   {
     "login": "Aytaj-Kazim",
@@ -33007,8 +32995,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 252,
-    "publicContributions": 83,
+    "privateContributions": 363,
+    "publicContributions": 70,
     "createdAt": "2021-01-13T19:03:26Z"
   },
   {
@@ -33020,7 +33008,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 16,
     "createdAt": "2021-10-12T16:48:04Z"
   },
   {
@@ -33042,7 +33030,7 @@
     "location": "Azerbaijan, Baku.",
     "company": "Azerbaijan Technical University",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-05-21T14:58:03Z"

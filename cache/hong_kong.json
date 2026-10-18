@@ -32528,7 +32528,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 8,
     "createdAt": "2021-02-08T07:59:06Z"
   },
   {
@@ -32540,32 +32540,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 145,
+    "publicContributions": 69,
     "createdAt": "2021-12-19T02:21:25Z"
-  },
-  {
-    "login": "JJ-Jacko",
-    "name": "Jacko",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/94732978?s=72&u=2a73935fada78c56e44923853a72efa1c9b192c7&v=4",
-    "location": "Hong Kong",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 232,
-    "createdAt": "2021-11-20T05:50:38Z"
-  },
-  {
-    "login": "sammeng5232",
-    "name": "Sam Meng",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/87763897?s=72&v=4",
-    "location": "Hong Kong",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 50,
-    "publicContributions": 37,
-    "createdAt": "2021-07-21T12:47:32Z"
   },
   {
     "login": "LCriAaUnN",
@@ -32611,7 +32587,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 23,
+    "privateContributions": 30,
     "publicContributions": 0,
     "createdAt": "2021-01-01T08:23:22Z"
   },
@@ -32647,8 +32623,8 @@
     "company": "The Hong Kong Polytechnic University",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 54,
-    "publicContributions": 70,
+    "privateContributions": 56,
+    "publicContributions": 56,
     "createdAt": "2021-04-14T14:23:46Z"
   },
   {
@@ -32696,7 +32672,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 28,
     "createdAt": "2021-07-01T08:41:57Z"
   },
   {
@@ -123214,5 +123190,17 @@
     "privateContributions": 355,
     "publicContributions": 1756,
     "createdAt": "2022-07-04T10:12:25Z"
+  },
+  {
+    "login": "Hemoupa",
+    "name": "Hush",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298984723?s=72&u=422e798d693dab14240d582985ecc0024e8688d6&v=4",
+    "location": "Beijing/Hong Kong",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 48,
+    "publicContributions": 17,
+    "createdAt": "2026-07-02T05:51:54Z"
   }
 ]

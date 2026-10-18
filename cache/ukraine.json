@@ -32324,7 +32324,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 54,
+    "publicContributions": 49,
     "createdAt": "2023-03-20T13:34:59Z"
   },
   {
@@ -32383,7 +32383,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 440,
+    "privateContributions": 413,
     "publicContributions": 0,
     "createdAt": "2023-02-07T17:39:38Z"
   },
@@ -32406,7 +32406,7 @@
     "location": "Ukraine",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-01-11T09:43:47Z"
@@ -32490,9 +32490,9 @@
     "location": "Ukraine",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 59,
     "createdAt": "2023-02-14T10:32:36Z"
   },
   {
@@ -32503,32 +32503,20 @@
     "company": "@TNTU-121-Software-Engineering ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 395,
+    "privateContributions": 8,
+    "publicContributions": 342,
     "createdAt": "2023-01-10T12:27:37Z"
   },
   {
-    "login": "ruden4",
-    "name": "OLEKSANDR RUDENKO",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/126696327?s=72&u=4c97034998df99018b999c8f72cba1bbc4ccf331&v=4",
-    "location": "Ukraine",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2023-03-01T15:36:45Z"
-  },
-  {
     "login": "vovanov1023",
-    "name": "vovanov",
+    "name": "Volodymyr Novytskyi",
     "avatarUrl": "https://avatars.githubusercontent.com/u/123986150?s=72&u=0f051ed505ecb9c3be91e22e4d918ff1a801d379&v=4",
     "location": "Kyiv, Ukraine",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 9,
     "createdAt": "2023-01-30T18:23:33Z"
   },
   {
@@ -32539,8 +32527,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 3,
-    "publicContributions": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
     "createdAt": "2023-02-04T09:33:45Z"
   },
   {

@@ -32442,21 +32442,21 @@
     "location": "United Arab Emirates - Abu Dhabi",
     "company": "",
     "twitterUsername": "",
-    "followers": 52,
-    "privateContributions": 73,
-    "publicContributions": 11,
+    "followers": 49,
+    "privateContributions": 36,
+    "publicContributions": 38,
     "createdAt": "2017-09-24T21:07:53Z"
   },
   {
     "login": "Mhashimea",
     "name": "Muhammed Hashim",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/28055581?s=72&u=bcaae1dd65d63b0aa43eafe445432a619f834a85&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/28055581?s=72&v=4",
     "location": "United Arab Emirates",
     "company": "@flowtrail",
     "twitterUsername": "hashim_ea",
-    "followers": 46,
-    "privateContributions": 2722,
-    "publicContributions": 4,
+    "followers": 45,
+    "privateContributions": 4195,
+    "publicContributions": 47,
     "createdAt": "2017-04-26T14:10:32Z"
   },
   {
@@ -32467,7 +32467,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 42,
-    "privateContributions": 505,
+    "privateContributions": 665,
     "publicContributions": 2,
     "createdAt": "2017-07-15T09:23:50Z"
   },
@@ -32478,8 +32478,8 @@
     "location": "United Arab Emirates (UAE)",
     "company": "",
     "twitterUsername": "thegeekyasian",
-    "followers": 37,
-    "privateContributions": 51,
+    "followers": 39,
+    "privateContributions": 100,
     "publicContributions": 2,
     "createdAt": "2017-08-07T05:42:29Z"
   },
@@ -32490,7 +32490,7 @@
     "location": "Abu Dhabi, United Arab Emirates",
     "company": "@headout",
     "twitterUsername": "",
-    "followers": 34,
+    "followers": 35,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-06-30T06:10:13Z"
@@ -32503,21 +32503,9 @@
     "company": "Axiom Telecom LLC",
     "twitterUsername": "",
     "followers": 32,
-    "privateContributions": 212,
+    "privateContributions": 631,
     "publicContributions": 12,
     "createdAt": "2017-08-31T02:26:45Z"
-  },
-  {
-    "login": "Habib23me",
-    "name": "Habib Mohammed",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/26527325?s=72&u=3bce0091c2124b258a9c2f8dfdca3e4db7e115a8&v=4",
-    "location": "United Arab Emirates",
-    "company": "Whales Technology",
-    "twitterUsername": "",
-    "followers": 30,
-    "privateContributions": 2941,
-    "publicContributions": 37,
-    "createdAt": "2017-03-19T18:45:26Z"
   },
   {
     "login": "nabilshuja",
@@ -32527,7 +32515,7 @@
     "company": "",
     "twitterUsername": "nabilshuja",
     "followers": 30,
-    "privateContributions": 1174,
+    "privateContributions": 4598,
     "publicContributions": 0,
     "createdAt": "2017-02-15T14:31:36Z"
   },
@@ -32538,9 +32526,9 @@
     "location": "United Arab Emirates",
     "company": "",
     "twitterUsername": "lokeshwaran_a",
-    "followers": 30,
-    "privateContributions": 806,
-    "publicContributions": 12,
+    "followers": 32,
+    "privateContributions": 675,
+    "publicContributions": 11,
     "createdAt": "2017-04-25T12:42:11Z"
   },
   {
@@ -32550,7 +32538,7 @@
     "location": "Sharjah, United Arab Emirates.",
     "company": "ESRI -Environmental Systems Research Institue",
     "twitterUsername": "",
-    "followers": 29,
+    "followers": 27,
     "privateContributions": 0,
     "publicContributions": 15,
     "createdAt": "2016-12-29T17:08:24Z"
@@ -32562,7 +32550,7 @@
     "location": "Abou Dhabi , United Arab Emirates",
     "company": "Arabsstock",
     "twitterUsername": "",
-    "followers": 28,
+    "followers": 27,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-03-26T00:16:41Z"
@@ -32574,9 +32562,9 @@
     "location": "Dubai, United Arab Emirates",
     "company": "TCL Detergents LLC",
     "twitterUsername": "",
-    "followers": 27,
+    "followers": 29,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 30,
     "createdAt": "2017-11-01T12:11:16Z"
   },
   {
@@ -32586,9 +32574,9 @@
     "location": "Abu Dhabi, United Arab Emirates",
     "company": "International Holding Company",
     "twitterUsername": "YogiBairagi_",
-    "followers": 25,
-    "privateContributions": 587,
-    "publicContributions": 35,
+    "followers": 28,
+    "privateContributions": 421,
+    "publicContributions": 34,
     "createdAt": "2017-03-16T14:54:54Z"
   },
   {
@@ -32598,9 +32586,9 @@
     "location": "United Arab Emirates",
     "company": "",
     "twitterUsername": "",
-    "followers": 23,
+    "followers": 20,
     "privateContributions": 8,
-    "publicContributions": 204,
+    "publicContributions": 210,
     "createdAt": "2017-06-27T11:32:09Z"
   },
   {
@@ -32611,8 +32599,8 @@
     "company": "Senior Software Engineer @ noon",
     "twitterUsername": "",
     "followers": 22,
-    "privateContributions": 860,
-    "publicContributions": 61,
+    "privateContributions": 870,
+    "publicContributions": 31,
     "createdAt": "2017-11-01T21:53:36Z"
   },
   {
@@ -32624,7 +32612,7 @@
     "twitterUsername": "",
     "followers": 20,
     "privateContributions": 0,
-    "publicContributions": 45,
+    "publicContributions": 37,
     "createdAt": "2017-11-12T17:13:42Z"
   },
   {
@@ -32634,9 +32622,9 @@
     "location": "Dubai, United Arab Emirates",
     "company": "",
     "twitterUsername": "",
-    "followers": 20,
+    "followers": 22,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 0,
     "createdAt": "2017-03-27T21:49:20Z"
   },
   {
@@ -32647,8 +32635,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 18,
-    "privateContributions": 517,
-    "publicContributions": 3,
+    "privateContributions": 555,
+    "publicContributions": 2,
     "createdAt": "2017-06-28T05:36:39Z"
   },
   {
@@ -32658,9 +32646,9 @@
     "location": "United Arab Emirates",
     "company": "",
     "twitterUsername": "",
-    "followers": 17,
+    "followers": 19,
     "privateContributions": 21,
-    "publicContributions": 18,
+    "publicContributions": 26,
     "createdAt": "2017-12-28T05:32:01Z"
   },
   {

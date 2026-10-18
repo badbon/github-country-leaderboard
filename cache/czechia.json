@@ -32635,8 +32635,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 227,
-    "publicContributions": 176,
+    "privateContributions": 165,
+    "publicContributions": 213,
     "createdAt": "2021-11-10T09:31:35Z"
   },
   {
@@ -32647,8 +32647,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 184,
-    "publicContributions": 351,
+    "privateContributions": 282,
+    "publicContributions": 355,
     "createdAt": "2021-11-17T10:44:16Z"
   },
   {
@@ -32672,7 +32672,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 20,
     "createdAt": "2021-11-24T21:31:19Z"
   },
   {
@@ -32682,9 +32682,9 @@
     "location": "Czech republic",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 129,
+    "publicContributions": 100,
     "createdAt": "2021-09-16T19:07:28Z"
   },
   {
@@ -32695,7 +32695,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 0,
+    "privateContributions": 4,
     "publicContributions": 18,
     "createdAt": "2021-02-08T16:36:36Z"
   },
@@ -32706,9 +32706,9 @@
     "location": "Czech Republic",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 2178,
-    "publicContributions": 7,
+    "followers": 5,
+    "privateContributions": 3229,
+    "publicContributions": 8,
     "createdAt": "2021-01-05T12:44:17Z"
   },
   {
@@ -32719,8 +32719,8 @@
     "company": "WORKGROUP",
     "twitterUsername": "xenarthric",
     "followers": 4,
-    "privateContributions": 1,
-    "publicContributions": 5,
+    "privateContributions": 0,
+    "publicContributions": 4,
     "createdAt": "2021-09-12T11:37:22Z"
   },
   {
@@ -32731,7 +32731,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 4654,
+    "privateContributions": 6592,
     "publicContributions": 2,
     "createdAt": "2021-02-27T16:24:33Z"
   },
@@ -32750,13 +32750,13 @@
   {
     "login": "Maremic",
     "name": "Michal Mareš",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/95303921?s=72&u=9cd584a6ff347bae613c1dd99b77cb815d31bdd6&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/95303921?s=72&u=4e6e76b210790edfc532804c34618544df1e3f21&v=4",
     "location": "Czech Republic, Liberec",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 8,
     "createdAt": "2021-11-30T16:35:06Z"
   },
   {
@@ -32768,7 +32768,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 96,
+    "publicContributions": 103,
     "createdAt": "2021-06-03T13:46:09Z"
   },
   {
@@ -32791,8 +32791,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 48,
-    "publicContributions": 22,
+    "privateContributions": 211,
+    "publicContributions": 28,
     "createdAt": "2021-04-13T07:15:28Z"
   },
   {
@@ -32802,7 +32802,7 @@
     "location": "Czech Republic",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-07-18T09:29:37Z"
@@ -32816,7 +32816,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 46,
-    "publicContributions": 80,
+    "publicContributions": 55,
     "createdAt": "2021-10-28T18:41:22Z"
   },
   {
@@ -32826,7 +32826,7 @@
     "location": "Olomouc, Czech republic",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 26,
     "publicContributions": 67,
     "createdAt": "2021-01-27T13:24:31Z"
@@ -32851,7 +32851,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 0,
+    "privateContributions": 34,
     "publicContributions": 0,
     "createdAt": "2021-10-24T22:12:29Z"
   },
