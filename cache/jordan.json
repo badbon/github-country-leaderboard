@@ -30932,7 +30932,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2020-12-05T16:30:45Z"
   },
   {
@@ -31002,7 +31002,7 @@
     "location": "Jordan",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-08-09T13:28:42Z"
@@ -31028,7 +31028,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2020-04-02T21:11:09Z"
   },
   {
@@ -31063,8 +31063,8 @@
     "company": "maisa141317",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 28,
-    "publicContributions": 2,
+    "privateContributions": 84,
+    "publicContributions": 40,
     "createdAt": "2020-10-16T10:09:43Z"
   },
   {
@@ -31076,7 +31076,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 32,
     "createdAt": "2020-08-14T19:01:48Z"
   },
   {
@@ -31136,7 +31136,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 234,
+    "publicContributions": 281,
     "createdAt": "2020-08-27T07:28:07Z"
   },
   {
@@ -31147,8 +31147,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 304,
-    "publicContributions": 131,
+    "privateContributions": 919,
+    "publicContributions": 82,
     "createdAt": "2020-04-15T14:27:11Z"
   },
   {
@@ -31159,7 +31159,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 25,
+    "privateContributions": 27,
     "publicContributions": 1,
     "createdAt": "2020-12-13T08:21:12Z"
   },
