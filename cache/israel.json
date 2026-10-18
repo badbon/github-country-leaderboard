@@ -32455,8 +32455,8 @@
     "company": "Red Hat",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 297,
+    "privateContributions": 1,
+    "publicContributions": 326,
     "createdAt": "2021-09-30T11:15:39Z"
   },
   {
@@ -32479,7 +32479,7 @@
     "company": "Trustmi",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 2069,
+    "privateContributions": 2035,
     "publicContributions": 88,
     "createdAt": "2021-09-11T11:10:05Z"
   },
@@ -32490,7 +32490,7 @@
     "location": "Israel",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-08-18T09:09:13Z"
@@ -32498,13 +32498,13 @@
   {
     "login": "tuxpepe1893",
     "name": "David Tatikashvili",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/95068538?s=72&u=da013d9737c3d787dabecf8675918ecc8124fd2a&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/95068538?s=72&u=e2aec004a8be43bd13618871728f8ca1b6ca1dc4&v=4",
     "location": "Israel",
     "company": "Stealth Startup",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 0,
+    "privateContributions": 3771,
+    "publicContributions": 18,
     "createdAt": "2021-11-26T06:10:20Z"
   },
   {
@@ -32516,7 +32516,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 15,
     "createdAt": "2021-11-17T21:09:11Z"
   },
   {
@@ -32551,7 +32551,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 35,
+    "privateContributions": 28,
     "publicContributions": 0,
     "createdAt": "2021-10-20T10:06:43Z"
   },
@@ -32652,18 +32652,6 @@
     "createdAt": "2021-10-19T16:36:01Z"
   },
   {
-    "login": "dekelbyz",
-    "name": "Dekel Bayazi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/96546565?s=72&u=3140064095b0d4826f710c5f693bc792ad15edd0&v=4",
-    "location": "Tel Aviv, Israel",
-    "company": "Tikal Knowledge",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 256,
-    "publicContributions": 0,
-    "createdAt": "2021-12-22T19:07:10Z"
-  },
-  {
     "login": "Kristis1111",
     "name": "Kris",
     "avatarUrl": "https://avatars.githubusercontent.com/u/91776391?s=72&u=2b324e83850702ffb5f45ac9339ee8ab36560d19&v=4",
@@ -32672,7 +32660,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 4,
     "createdAt": "2021-10-02T07:17:33Z"
   },
   {
@@ -32683,7 +32671,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 142,
+    "privateContributions": 93,
     "publicContributions": 0,
     "createdAt": "2021-10-24T15:41:06Z"
   },

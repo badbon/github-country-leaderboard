@@ -32250,8 +32250,8 @@
     "location": "Greece",
     "company": "@hellasweb",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 6,
+    "followers": 2,
+    "privateContributions": 5,
     "publicContributions": 102,
     "createdAt": "2022-09-04T22:14:38Z"
   },
@@ -32264,7 +32264,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 13,
     "createdAt": "2022-07-11T17:54:18Z"
   },
   {
@@ -32282,13 +32282,13 @@
   {
     "login": "elefrodi",
     "name": "Lefteris Rodinos",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/102169963?s=72&u=833174336a51e21f32aa989149d5d7c7ff31baa3&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/102169963?s=72&u=6e9e61e70f05d742da4ed8d97bb7290d6927ad1e&v=4",
     "location": "Greece",
     "company": "AUTH",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2022-03-22T15:09:35Z"
   },
   {
@@ -32335,8 +32335,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 115,
+    "privateContributions": 1,
+    "publicContributions": 158,
     "createdAt": "2022-09-08T17:55:30Z"
   },
   {
@@ -32348,7 +32348,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 3,
     "createdAt": "2022-10-21T21:12:52Z"
   },
   {
@@ -32371,8 +32371,8 @@
     "company": "AUTH IT Center",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 473,
-    "publicContributions": 0,
+    "privateContributions": 442,
+    "publicContributions": 12,
     "createdAt": "2022-11-10T16:04:10Z"
   },
   {
@@ -32398,18 +32398,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-02-14T14:25:01Z"
-  },
-  {
-    "login": "TsaousisPanagiotis",
-    "name": "Panagiotis Tsaousis",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/98830290?s=72&u=0286f4611b684f57000e036b1f7aaad71b4d8f83&v=4",
-    "location": "Attica, Greece",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2022-02-01T15:19:27Z"
   },
   {
     "login": "DBelwnhs",
@@ -32443,7 +32431,7 @@
     "company": "InstaShop",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1010,
+    "privateContributions": 1130,
     "publicContributions": 0,
     "createdAt": "2022-01-18T08:48:23Z"
   },

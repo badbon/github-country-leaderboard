@@ -32431,7 +32431,7 @@
     "company": "Prike AS, Omis OÜ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 297,
+    "privateContributions": 293,
     "publicContributions": 0,
     "createdAt": "2016-09-07T12:04:16Z"
   },
@@ -32468,7 +32468,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 10,
     "createdAt": "2016-01-29T12:39:09Z"
   },
   {
@@ -32479,7 +32479,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 150,
+    "privateContributions": 195,
     "publicContributions": 77,
     "createdAt": "2016-03-12T17:48:03Z"
   },
@@ -32492,7 +32492,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 25,
     "createdAt": "2016-04-04T20:53:46Z"
   },
   {
@@ -32504,7 +32504,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 126,
+    "publicContributions": 97,
     "createdAt": "2016-12-17T06:40:53Z"
   },
   {
@@ -32514,9 +32514,9 @@
     "location": "Tallinn, Estonia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 37,
+    "publicContributions": 50,
     "createdAt": "2016-10-09T09:22:31Z"
   },
   {
@@ -32527,7 +32527,7 @@
     "company": "University of Tartu",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1,
+    "privateContributions": 3,
     "publicContributions": 0,
     "createdAt": "2016-06-06T11:33:13Z"
   },
@@ -32540,7 +32540,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 1,
     "createdAt": "2016-09-08T21:27:42Z"
   },
   {
@@ -32552,7 +32552,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 5,
     "createdAt": "2016-06-23T16:41:55Z"
   },
   {
@@ -32588,7 +32588,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 67,
+    "publicContributions": 68,
     "createdAt": "2016-03-09T01:51:22Z"
   },
   {
@@ -32599,21 +32599,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 938,
-    "publicContributions": 0,
+    "privateContributions": 910,
+    "publicContributions": 6,
     "createdAt": "2016-06-29T19:34:36Z"
-  },
-  {
-    "login": "abatar1",
-    "name": "Evgeny Halzov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/22716086?s=72&u=758bcbf3948a028d2eeb3d921bf0a75b90ddbf35&v=4",
-    "location": "Estonia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2016-10-08T18:52:29Z"
   },
   {
     "login": "a-ill",
@@ -32624,7 +32612,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 1,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2016-11-12T16:29:14Z"
   },
   {

@@ -32552,7 +32552,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 115,
+    "publicContributions": 126,
     "createdAt": "2017-03-16T08:57:28Z"
   },
   {
@@ -32588,7 +32588,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 17,
-    "publicContributions": 14,
+    "publicContributions": 18,
     "createdAt": "2017-02-23T00:33:36Z"
   },
   {
@@ -32624,7 +32624,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 55,
+    "publicContributions": 52,
     "createdAt": "2017-09-10T11:32:21Z"
   },
   {
@@ -32636,7 +32636,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 14,
     "createdAt": "2017-01-23T08:22:36Z"
   },
   {
@@ -32678,13 +32678,13 @@
   {
     "login": "mariokvcvc",
     "name": "Mario Kovačević",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/24880388?s=72&u=dd48d5c7acd5c17523910b0de62ba941e72c3346&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/24880388?s=72&v=4",
     "location": "Croatia",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2017-01-02T18:47:54Z"
   },
   {
@@ -32692,10 +32692,10 @@
     "name": "Nino",
     "avatarUrl": "https://avatars.githubusercontent.com/u/32095650?s=72&u=1a64660b9edcb6dfbe9bc34e90cce6a6ca7ee180&v=4",
     "location": "Croatia",
-    "company": "Serapion",
+    "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 114,
+    "privateContributions": 113,
     "publicContributions": 0,
     "createdAt": "2017-09-19T10:45:46Z"
   },
@@ -32708,7 +32708,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 11,
     "createdAt": "2017-09-27T19:40:36Z"
   },
   {
@@ -32742,8 +32742,8 @@
     "location": "Croatia",
     "company": "WinPIS j.d.o.o.",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 1610,
+    "followers": 2,
+    "privateContributions": 1314,
     "publicContributions": 603,
     "createdAt": "2017-04-23T11:52:58Z"
   },
@@ -32755,8 +32755,8 @@
     "company": "Bez granica",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 405,
-    "publicContributions": 9,
+    "privateContributions": 573,
+    "publicContributions": 2,
     "createdAt": "2017-09-02T11:43:08Z"
   },
   {

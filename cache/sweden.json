@@ -31400,7 +31400,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 0,
     "createdAt": "2023-08-30T15:15:22Z"
   },
   {
@@ -31410,7 +31410,7 @@
     "location": "Sweden",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-12-03T09:11:38Z"
@@ -31434,7 +31434,7 @@
     "location": "Sweden",
     "company": "SKF Group",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2023-06-30T21:56:34Z"
@@ -31459,8 +31459,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 79,
-    "publicContributions": 81,
+    "privateContributions": 66,
+    "publicContributions": 76,
     "createdAt": "2023-09-06T15:24:14Z"
   },
   {
@@ -31484,7 +31484,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 43,
-    "publicContributions": 56,
+    "publicContributions": 69,
     "createdAt": "2023-07-21T05:23:53Z"
   },
   {
@@ -31494,9 +31494,9 @@
     "location": "Huskvarna, Sweden",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 220,
-    "publicContributions": 27,
+    "followers": 3,
+    "privateContributions": 60,
+    "publicContributions": 45,
     "createdAt": "2023-10-21T09:57:59Z"
   },
   {
@@ -31508,7 +31508,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 2,
     "createdAt": "2023-09-28T08:11:30Z"
   },
   {
@@ -31526,13 +31526,13 @@
   {
     "login": "josefiin",
     "name": "Josefin H",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/146443336?s=72&u=bfa24ccb7ec4d5e47f287968bf0c32b4ee86b12d&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/146443336?s=72&u=f8cde48d5b123317482af89c7b8b3cd38aeae381&v=4",
     "location": "Jönköping, Sweden",
     "company": "",
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 74,
+    "publicContributions": 66,
     "createdAt": "2023-09-29T12:02:41Z"
   },
   {
@@ -31566,9 +31566,9 @@
     "location": "Sweden",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 386,
-    "publicContributions": 14,
+    "followers": 6,
+    "privateContributions": 525,
+    "publicContributions": 165,
     "createdAt": "2023-12-21T19:04:30Z"
   },
   {
@@ -31579,7 +31579,7 @@
     "company": "School of Engineering Jönköping University",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 63,
+    "privateContributions": 24,
     "publicContributions": 7,
     "createdAt": "2023-10-18T17:43:27Z"
   },
@@ -31590,8 +31590,8 @@
     "location": "Sweden",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 5037,
+    "followers": 3,
+    "privateContributions": 6373,
     "publicContributions": 47,
     "createdAt": "2023-08-18T16:03:31Z"
   },
@@ -31604,7 +31604,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 3,
     "createdAt": "2023-09-07T17:34:17Z"
   },
   {

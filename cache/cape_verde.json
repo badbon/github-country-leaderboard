@@ -5107,7 +5107,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 293,
+    "privateContributions": 291,
     "publicContributions": 9,
     "createdAt": "2018-02-13T07:12:38Z"
   },
@@ -5131,7 +5131,7 @@
     "company": "Bemol",
     "twitterUsername": "",
     "followers": 436,
-    "privateContributions": 2260,
+    "privateContributions": 2490,
     "publicContributions": 1,
     "createdAt": "2018-08-22T16:57:21Z"
   },
@@ -5144,7 +5144,7 @@
     "twitterUsername": "",
     "followers": 51,
     "privateContributions": 0,
-    "publicContributions": 155,
+    "publicContributions": 160,
     "createdAt": "2018-09-13T18:48:57Z"
   },
   {
@@ -5215,7 +5215,7 @@
     "company": "",
     "twitterUsername": "_deecardos",
     "followers": 9,
-    "privateContributions": 100,
+    "privateContributions": 255,
     "publicContributions": 8,
     "createdAt": "2018-08-30T23:24:49Z"
   },
@@ -6742,5 +6742,17 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-06-09T07:21:06Z"
+  },
+  {
+    "login": "Carvalho-Eduardo",
+    "name": "Eduardo Carvalho",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298331044?s=72&u=be567db5461aca976bd142a55662a198322a5270&v=4",
+    "location": "Praia Grande - SP",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 44,
+    "createdAt": "2026-06-30T14:57:27Z"
   }
 ]

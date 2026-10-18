@@ -1036734,7 +1036734,7 @@
     "location": "Shanghai/Los Angeles",
     "company": "Pearl Studio Animation",
     "twitterUsername": "",
-    "followers": 15,
+    "followers": 16,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-03-08T23:43:52Z"
@@ -1428274,5 +1428274,17 @@
     "privateContributions": 0,
     "publicContributions": 28,
     "createdAt": "2026-06-28T12:46:48Z"
+  },
+  {
+    "login": "WayneUSC",
+    "name": "Wen Chen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/36430683?s=72&u=ce2a9067af5d655cfaf56de025ae32bb219b9669&v=4",
+    "location": "Los Angeles/Beijing",
+    "company": "Tsinghua University/University of Southern California/Kaiwu Robotics",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 51,
+    "createdAt": "2018-02-13T02:27:07Z"
   }
 ]

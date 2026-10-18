@@ -32372,7 +32372,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2021-07-16T17:46:58Z"
   },
   {
@@ -32384,7 +32384,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 4,
     "createdAt": "2021-02-22T22:05:41Z"
   },
   {
@@ -32418,9 +32418,9 @@
     "location": "Mechelen, Belgium",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 24,
-    "publicContributions": 8,
+    "followers": 11,
+    "privateContributions": 18,
+    "publicContributions": 6,
     "createdAt": "2021-04-08T13:20:25Z"
   },
   {
@@ -32431,8 +32431,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 13,
-    "publicContributions": 120,
+    "privateContributions": 12,
+    "publicContributions": 118,
     "createdAt": "2021-09-21T07:40:13Z"
   },
   {
@@ -32472,18 +32472,6 @@
     "createdAt": "2021-11-15T14:21:37Z"
   },
   {
-    "login": "no0be",
-    "name": "Samy Baiwir",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/26097759?s=72&u=45de18a30203d3e2a4a485385d32db5bc7dc2b47&v=4",
-    "location": "Belgium/Luxembourg",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 45,
-    "privateContributions": 0,
-    "publicContributions": 4,
-    "createdAt": "2017-02-28T20:51:51Z"
-  },
-  {
     "login": "MathisVkg",
     "name": "Mathis Vankoekelberg",
     "avatarUrl": "https://avatars.githubusercontent.com/u/78411455?s=72&u=386667729800a8905bff897b9058e26e9daf69c7&v=4",
@@ -32491,20 +32479,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 18,
-    "publicContributions": 65,
+    "privateContributions": 30,
+    "publicContributions": 21,
     "createdAt": "2021-02-02T09:04:38Z"
   },
   {
     "login": "diphie",
     "name": "Arthur",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/87574941?s=72&u=73f3e00f0045b498788b35280c36a3daa783a645&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/87574941?s=72&u=5dd61f402c3cde3f566d25d1a906de735356ba11&v=4",
     "location": "Belgium",
-    "company": "@studigogroup",
+    "company": "@shorebound-ab",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 225,
-    "publicContributions": 22,
+    "followers": 6,
+    "privateContributions": 267,
+    "publicContributions": 46,
     "createdAt": "2021-07-17T14:34:52Z"
   },
   {
@@ -32516,7 +32504,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 82,
+    "publicContributions": 108,
     "createdAt": "2021-10-20T14:25:07Z"
   },
   {
@@ -32528,7 +32516,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 3,
     "createdAt": "2021-04-03T05:16:07Z"
   },
   {
@@ -32538,9 +32526,9 @@
     "location": "Ghent, Belgium",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 11,
-    "publicContributions": 7,
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2021-05-16T00:39:04Z"
   },
   {
@@ -32550,8 +32538,8 @@
     "location": "Limburg, Belgium",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 2,
+    "followers": 8,
+    "privateContributions": 14,
     "publicContributions": 2,
     "createdAt": "2021-08-21T21:40:04Z"
   },
@@ -32563,8 +32551,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 51,
-    "publicContributions": 81,
+    "privateContributions": 318,
+    "publicContributions": 80,
     "createdAt": "2021-09-22T08:51:36Z"
   },
   {
