@@ -12,9 +12,9 @@ Indexed users: 35
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [jarnickae](https://github.com/jarnickae) |  | Castries, Saint Lucia | 7,383 |
+| 1 | [jarnickae](https://github.com/jarnickae) |  | Castries, Saint Lucia | 7,392 |
 | 2 | [wilsonwolf](https://github.com/wilsonwolf) |  | Castries, Saint Lucia | 3,987 |
-| 3 | [jigzstar](https://github.com/jigzstar) | Joakim George | Castries, Saint Lucia | 3,950 |
+| 3 | [jigzstar](https://github.com/jigzstar) | Joakim George | Castries, Saint Lucia | 3,952 |
 | 4 | [UVLabs](https://github.com/UVLabs) | Uriahs Victor | Saint Lucia | 2,038 |
 | 5 | [k-alphonse](https://github.com/k-alphonse) | Kaitlyn Alphonse | Saint Lucia | 1,039 |
 | 6 | [leadegroot](https://github.com/leadegroot) | Lea de Groot | Saint Lucia | 1,010 |
@@ -83,4 +83,4 @@ Indexed users: 35
 | 19 | [PGPillar](https://github.com/PGPillar) | H | Saint Lucia | 3 |
 | 20 | [fontius](https://github.com/fontius) |  | Saint Lucia | 2 |
 
-Generated: 2026-10-18T06:32:05.421Z
+Generated: 2026-10-18T08:14:03.836Z

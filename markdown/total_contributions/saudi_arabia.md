@@ -1,6 +1,6 @@
 # Total Contributions - Saudi Arabia
 
-Generated: 2026-10-18T06:33:54.787Z
+Generated: 2026-10-18T08:18:56.943Z
 
 Users: 7732
 
@@ -23,6 +23,6 @@ Users: 7732
 | 15 | [A1cy](https://github.com/A1cy) | A1 | A1xAI | A1hady | Riyadh | 10288 |
 | 16 | [xahmd](https://github.com/xahmd) | AHMAD JAMOS |  |  | Saudi Arabia | 10263 |
 | 17 | [imadaitelarabi](https://github.com/imadaitelarabi) | IMAD AIT EL ARABI | Xenith AI |  | Riyadh | 9583 |
-| 18 | [mo-alhaddad](https://github.com/mo-alhaddad) | Mohammed Alhaddad | IPTech |  | Khobar, Saudi Arabia | 8946 |
-| 19 | [y0u-0](https://github.com/y0u-0) | Ali |  |  | Saudi Arabia | 8477 |
-| 20 | [GarthOrmsby](https://github.com/GarthOrmsby) |  |  |  | Saudi Arabia | 8196 |
+| 18 | [mohamedBalkhi](https://github.com/mohamedBalkhi) | Mohamed Ahmad ALbalki |  |  | Saudi Arabia | 9036 |
+| 19 | [mo-alhaddad](https://github.com/mo-alhaddad) | Mohammed Alhaddad | IPTech |  | Khobar, Saudi Arabia | 8946 |
+| 20 | [y0u-0](https://github.com/y0u-0) | Ali |  |  | Saudi Arabia | 8477 |

@@ -29,9 +29,9 @@ Indexed users: 7,732
 | 15 | [A1cy](https://github.com/A1cy) | A1 | Riyadh | 10,288 |
 | 16 | [xahmd](https://github.com/xahmd) | AHMAD JAMOS | Saudi Arabia | 10,263 |
 | 17 | [imadaitelarabi](https://github.com/imadaitelarabi) | IMAD AIT EL ARABI | Riyadh | 9,583 |
-| 18 | [mo-alhaddad](https://github.com/mo-alhaddad) | Mohammed Alhaddad | Khobar, Saudi Arabia | 8,946 |
-| 19 | [y0u-0](https://github.com/y0u-0) | Ali | Saudi Arabia | 8,477 |
-| 20 | [GarthOrmsby](https://github.com/GarthOrmsby) |  | Saudi Arabia | 8,196 |
+| 18 | [mohamedBalkhi](https://github.com/mohamedBalkhi) | Mohamed Ahmad ALbalki | Saudi Arabia | 9,036 |
+| 19 | [mo-alhaddad](https://github.com/mo-alhaddad) | Mohammed Alhaddad | Khobar, Saudi Arabia | 8,946 |
+| 20 | [y0u-0](https://github.com/y0u-0) | Ali | Saudi Arabia | 8,477 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 7,732
 | 19 | [davidrpugh](https://github.com/davidrpugh) | David R. Pugh | Thuwal, Saudi Arabia | 458 |
 | 20 | [madahetooo](https://github.com/madahetooo) | Eslam Medhat | Riyadh, Saudi Arabia | 458 |
 
-Generated: 2026-10-18T06:33:54.787Z
+Generated: 2026-10-18T08:18:56.943Z
