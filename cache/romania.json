@@ -30824,7 +30824,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 23,
     "createdAt": "2022-01-11T17:41:28Z"
   },
   {
@@ -30836,7 +30836,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 17,
     "createdAt": "2022-01-22T20:37:18Z"
   },
   {
@@ -30846,7 +30846,7 @@
     "location": "Bucharest",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-01-27T21:59:08Z"
@@ -30859,8 +30859,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 0,
-    "publicContributions": 3,
+    "privateContributions": 11,
+    "publicContributions": 10,
     "createdAt": "2022-06-12T08:47:38Z"
   },
   {
@@ -30884,7 +30884,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 2,
-    "publicContributions": 15,
+    "publicContributions": 10,
     "createdAt": "2022-06-07T11:31:31Z"
   },
   {
@@ -30908,7 +30908,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 92,
+    "publicContributions": 97,
     "createdAt": "2022-02-26T18:17:53Z"
   },
   {
@@ -30918,8 +30918,8 @@
     "location": "Bucharest",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 402,
+    "followers": 5,
+    "privateContributions": 610,
     "publicContributions": 2,
     "createdAt": "2022-06-23T15:59:00Z"
   },
@@ -30931,8 +30931,8 @@
     "company": "nisipeanutech.ro",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 606,
-    "publicContributions": 133,
+    "privateContributions": 620,
+    "publicContributions": 134,
     "createdAt": "2022-08-07T15:42:14Z"
   },
   {
@@ -30943,8 +30943,8 @@
     "company": "Faculty of Mathematics & Computer Science",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 10,
-    "publicContributions": 11,
+    "privateContributions": 1,
+    "publicContributions": 6,
     "createdAt": "2022-10-11T16:32:25Z"
   },
   {
@@ -30974,13 +30974,13 @@
   {
     "login": "Paius-George",
     "name": "Paius George-Daniel",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/110635907?s=72&u=2489dd425198b718277e5fae71f221ec4d2c2db2&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/110635907?s=72&u=98cf914269dd310870de1232c07be98eb859416e&v=4",
     "location": "Bucharest",
     "company": "/dev/paius",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 108,
+    "followers": 7,
+    "privateContributions": 61,
+    "publicContributions": 164,
     "createdAt": "2022-08-04T20:35:16Z"
   },
   {
@@ -31038,9 +31038,9 @@
     "location": "Bucharest",
     "company": "CSE student @ Politehnica University of Bucharest",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 75,
+    "publicContributions": 60,
     "createdAt": "2022-07-30T12:32:53Z"
   },
   {
@@ -31050,7 +31050,7 @@
     "location": "Bucharest",
     "company": "",
     "twitterUsername": "andreimilion",
-    "followers": 5,
+    "followers": 3,
     "privateContributions": 6,
     "publicContributions": 0,
     "createdAt": "2022-01-23T13:55:47Z"

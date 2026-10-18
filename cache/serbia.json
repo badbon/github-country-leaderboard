@@ -30822,22 +30822,10 @@
     "location": "Belgrade",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2021-04-19T14:42:51Z"
-  },
-  {
-    "login": "lazar-stellar",
-    "name": "Lazar Stellar",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/93229235?s=72&v=4",
-    "location": "Belgrade",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 12,
-    "createdAt": "2021-10-26T22:32:55Z"
   },
   {
     "login": "PextraPex",
@@ -30884,7 +30872,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 8,
     "createdAt": "2021-06-02T22:39:12Z"
   },
   {
@@ -30943,7 +30931,7 @@
     "company": " Engineering",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 43,
+    "privateContributions": 48,
     "publicContributions": 8,
     "createdAt": "2021-02-01T17:07:18Z"
   },
@@ -30998,13 +30986,13 @@
   {
     "login": "381sm016",
     "name": "Volsam",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/71410026?s=72&u=f58526c83f298896107325fd22a8e749b8934194&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/71410026?s=72&u=543497a112828ec1b82d736932bcef559ac967e0&v=4",
     "location": "Republika Srbija",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 3265,
-    "publicContributions": 69,
+    "followers": 4,
+    "privateContributions": 3045,
+    "publicContributions": 72,
     "createdAt": "2020-09-16T20:58:16Z"
   },
   {
