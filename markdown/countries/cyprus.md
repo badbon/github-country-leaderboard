@@ -79,8 +79,8 @@ Indexed users: 2,725
 | 15 | [unsaldemircioglu](https://github.com/unsaldemircioglu) | Ünsal Demircioğlu | Cyprus | 332 |
 | 16 | [merikbest](https://github.com/merikbest) | Miroslav  Khotinskiy | Cyprus | 302 |
 | 17 | [paracycle](https://github.com/paracycle) | Ufuk Kayserilioglu | Nicosia, Cyprus | 302 |
-| 18 | [sudoguy](https://github.com/sudoguy) | Evgeny Kemerov | Limassol, Cyprus | 251 |
-| 19 | [polterguy](https://github.com/polterguy) | Thomas Hansen | Cyprus | 245 |
-| 20 | [mdevaev](https://github.com/mdevaev) | Maxim Devaev | Cyprus | 242 |
+| 18 | [gosom](https://github.com/gosom) | Georgios Komninos | Cyprus | 253 |
+| 19 | [sudoguy](https://github.com/sudoguy) | Evgeny Kemerov | Limassol, Cyprus | 251 |
+| 20 | [polterguy](https://github.com/polterguy) | Thomas Hansen | Cyprus | 245 |
 
-Generated: 2026-10-18T19:19:45.201Z
+Generated: 2026-10-18T20:49:19.974Z

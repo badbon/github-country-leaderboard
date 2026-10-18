@@ -22,10 +22,10 @@ Indexed users: 1,273
 | 8 | [QuigProQuo](https://github.com/QuigProQuo) | John Peter Quigley | Kingston, New York | 7,955 |
 | 9 | [DinitoThompson](https://github.com/DinitoThompson) | Dinito Thompson | Jamaica | 6,874 |
 | 10 | [marcamillion](https://github.com/marcamillion) | Marc Gayle | Kingston, Jamaica | 6,515 |
-| 11 | [billlevine](https://github.com/billlevine) | Bill LeVine | Kingston, Ontario | 6,265 |
-| 12 | [tunecrew](https://github.com/tunecrew) | Christopher Edmonds | Kingston, Jamaica | 5,976 |
-| 13 | [dimitriharding](https://github.com/dimitriharding) | Dimitri Harding | Kingston, Jamaica | 5,291 |
-| 14 | [SammarieoBrown](https://github.com/SammarieoBrown) | Sammarieo Brown | Kingston, Jamaica | 5,238 |
+| 11 | [SammarieoBrown](https://github.com/SammarieoBrown) | Sammarieo Brown | Kingston, Jamaica | 6,392 |
+| 12 | [billlevine](https://github.com/billlevine) | Bill LeVine | Kingston, Ontario | 6,265 |
+| 13 | [tunecrew](https://github.com/tunecrew) | Christopher Edmonds | Kingston, Jamaica | 5,976 |
+| 14 | [dimitriharding](https://github.com/dimitriharding) | Dimitri Harding | Kingston, Jamaica | 5,291 |
 | 15 | [cogell](https://github.com/cogell) | B. Cedric Cogell | Kingston, NY | 4,636 |
 | 16 | [emperorjm](https://github.com/emperorjm) | Adrian Thompson | Jamaica | 4,532 |
 | 17 | [javaniecampbell](https://github.com/javaniecampbell) | Javanie Campbell | Jamaica | 4,426 |
@@ -41,7 +41,7 @@ Indexed users: 1,273
 | 2 | [kaplanz](https://github.com/kaplanz) | Zakhary Kaplan | Kingston, ON | 3,869 |
 | 3 | [dcblundell](https://github.com/dcblundell) | David Blundell | Kingston, ON | 2,891 |
 | 4 | [craole-cc](https://github.com/craole-cc) | Craig "Craole' Cole | Jamaica | 2,363 |
-| 5 | [shamar-morrison](https://github.com/shamar-morrison) | horizon | Jamaica | 2,283 |
+| 5 | [shamar-morrison](https://github.com/shamar-morrison) | horizon | Jamaica | 2,260 |
 | 6 | [airpocket-soundman](https://github.com/airpocket-soundman) | airpocket | kingston jamaca | 1,562 |
 | 7 | [kazo0](https://github.com/kazo0) | Steve Bilogan | Kingston, ON | 1,560 |
 | 8 | [OddBloke](https://github.com/OddBloke) | Daniel Watkins | Kingston, ON | 1,499 |
@@ -83,4 +83,4 @@ Indexed users: 1,273
 | 19 | [aliasad059](https://github.com/aliasad059) | Ali Asad | Kingston, Ontario | 100 |
 | 20 | [andrewmaier](https://github.com/andrewmaier) | Andrew Maier | Kingston, Ontario | 95 |
 
-Generated: 2026-10-18T19:38:02.207Z
+Generated: 2026-10-18T21:04:14.817Z

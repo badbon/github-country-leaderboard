@@ -26,7 +26,7 @@ Indexed users: 266
 | 12 | [grey300](https://github.com/grey300) | Tshering Gyeltshen | Bhutan | 1,968 |
 | 13 | [namgaytobden](https://github.com/namgaytobden) | Namgay Tobden | Thimphu | 1,962 |
 | 14 | [bugloper](https://github.com/bugloper) | Nima Yonten | Thimphu Babesa | 1,953 |
-| 15 | [SonamWangchuk77jr](https://github.com/SonamWangchuk77jr) | Sonam Wangchuk | Thimphu | 1,929 |
+| 15 | [SonamWangchuk77jr](https://github.com/SonamWangchuk77jr) | Sonam Wangchuk | Thimphu | 1,930 |
 | 16 | [jigmeloday](https://github.com/jigmeloday) | Jigme Lodey | Thimphu Bhutan | 1,925 |
 | 17 | [khandudo](https://github.com/khandudo) | Dorji Khandu | Thimphu, Bhutan | 1,845 |
 | 18 | [JigmePwangyel](https://github.com/JigmePwangyel) | Jigme Phuntsho Wangyel | Bhutan | 1,836 |
@@ -49,8 +49,8 @@ Indexed users: 266
 | 10 | [lakikishorsubba](https://github.com/lakikishorsubba) | Laki Kishor Subba | Thimphu,Bhutan | 306 |
 | 11 | [jigmeloday](https://github.com/jigmeloday) | Jigme Lodey | Thimphu Bhutan | 236 |
 | 12 | [aspee12](https://github.com/aspee12) | Sonam Phuntsho | Thimphu, IT Park | 186 |
-| 13 | [devdgna](https://github.com/devdgna) | Dev | Kingdom of Bhutan | 180 |
-| 14 | [Tenzin-06](https://github.com/Tenzin-06) | Tenzin Tobgay | Bhutan | 161 |
+| 13 | [devdgna](https://github.com/devdgna) | Dev | Kingdom of Bhutan | 181 |
+| 14 | [Tenzin-06](https://github.com/Tenzin-06) | Tenzin Tobgay | Bhutan | 163 |
 | 15 | [bugloper](https://github.com/bugloper) | Nima Yonten | Thimphu Babesa | 157 |
 | 16 | [jigmetnamgyal](https://github.com/jigmetnamgyal) | Jigme Namgyal | Thimphu, Bhutan | 154 |
 | 17 | [dorjizangpo-067](https://github.com/dorjizangpo-067) | Dorji Zangpo | Bhutan | 136 |
@@ -83,4 +83,4 @@ Indexed users: 266
 | 19 | [TandinDev](https://github.com/TandinDev) | Tandin Tshewang | Thimphu | 23 |
 | 20 | [chimiWangchukWangdi](https://github.com/chimiWangchukWangdi) | Chimi Wangchuk Wangdi | Thimphu, Bhutan | 22 |
 
-Generated: 2026-10-18T19:08:51.785Z
+Generated: 2026-10-18T20:40:25.527Z

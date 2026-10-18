@@ -1,6 +1,6 @@
 # Total Contributions - Jersey
 
-Generated: 2026-10-18T19:38:05.230Z
+Generated: 2026-10-18T21:04:21.335Z
 
 Users: 139
 
@@ -9,8 +9,8 @@ Users: 139
 | 1 | [marcusquinn](https://github.com/marcusquinn) | Marcus Quinn | @wpallstars @evergreenjersey @awardsapp | marcuswquinn | London, UK, Los-angeles, California, England, Jersey | 54803 |
 | 2 | [PhilETaylor](https://github.com/PhilETaylor) | Phil E. Taylor | Blue Flame Digital Solutions Limited | myPhilTaylor | Jersey, Channel Islands | 38779 |
 | 3 | [jde](https://github.com/jde) | David Erwin | RollDeep | daviderwin | New [York, Jersey] | 11944 |
-| 4 | [ndestates](https://github.com/ndestates) | Nick Dodsley | ND Estates | nickdodsley | Jersey | 10718 |
-| 5 | [guessty](https://github.com/guessty) | Christian |  |  | Jersey, Channel Islands | 8131 |
+| 4 | [ndestates](https://github.com/ndestates) | Nick Dodsley | ND Estates | nickdodsley | Jersey | 10803 |
+| 5 | [guessty](https://github.com/guessty) | Christian |  |  | Jersey, Channel Islands | 8138 |
 | 6 | [timkrins](https://github.com/timkrins) | Tim Krins | @InfuseGroup  |  | Jersey, Channel Islands | 4878 |
 | 7 | [danielmullin](https://github.com/danielmullin) | Daniel Mullin | inshore Ltd | danielmullin | Jersey | 4708 |
 | 8 | [gnathoi](https://github.com/gnathoi) | Nathaniel Hey |  |  | Jersey, Channel Islands | 4358 |

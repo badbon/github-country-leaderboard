@@ -1,12 +1,12 @@
 # Followers - Benin
 
-Generated: 2026-10-18T19:08:44.350Z
+Generated: 2026-10-18T20:39:55.844Z
 
 Users: 471
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [JideGuru](https://github.com/JideGuru) | Festus Olusegun | Available for part-time roles | iamjideguru | Cotonou, Benin. | 2201 |
+| 1 | [JideGuru](https://github.com/JideGuru) | Festus Olusegun | Available for part-time roles | iamjideguru | Cotonou, Benin. | 2199 |
 | 2 | [AvineDev](https://github.com/AvineDev) | Avine Dev |  |  | Benin | 468 |
 | 3 | [Houessou1](https://github.com/Houessou1) | François-Xavier ALLA HOUESSOU  |  | alla_xavier | Benin 🇧🇯 | 441 |
 | 4 | [koladev32](https://github.com/koladev32) | Mangabo  Kolawole |  | koladev32 | Benin, Cotonou | 240 |

@@ -1,6 +1,6 @@
 # Public Contributions - Zambia
 
-Generated: 2026-10-18T19:00:28.480Z
+Generated: 2026-10-18T20:32:31.144Z
 
 Users: 1337
 
@@ -17,12 +17,12 @@ Users: 1337
 | 9 | [rly0nheart](https://github.com/rly0nheart) | Ritchie Mwewa |  |  | Zambia | 986 |
 | 10 | [MS0C54073](https://github.com/MS0C54073) | Musonda Salimu | Not Employed |  | Zambia | 829 |
 | 11 | [Pietrols](https://github.com/Pietrols) | Peter Kabamba |  |  | Kitwe, Zambia | 800 |
-| 12 | [214Toto](https://github.com/214Toto) | ToToZ Collection |  |  | Ndola, Copperbelt, Zambia | 731 |
-| 13 | [Mukela12](https://github.com/Mukela12) | Mukela Katungu |  |  | Lusaka | 685 |
-| 14 | [cephaschapa](https://github.com/cephaschapa) | Cephas Chapa | OpenEarth Foundation |  | Zambia | 684 |
-| 15 | [simwawatim](https://github.com/simwawatim) | Timothy Simwawa | iZyane InnovSoultion |  | Lusaka, Zambia | 637 |
-| 16 | [mataa019](https://github.com/mataa019) | John Mataa | Imangatech Innovations |  | Zambia, Lusaka Province | 624 |
-| 17 | [wmweemba](https://github.com/wmweemba) | William .S. Mweemba |  |  | Lusaka, Zambia | 612 |
-| 18 | [Mwapsam](https://github.com/Mwapsam) | Samuel Chimfwembe | mwapsam@gmail.com | mwapesamuel4 | Zambia | 611 |
-| 19 | [c00p75](https://github.com/c00p75) | George M'sapenda |  |  | Lusaka, Zambia | 586 |
-| 20 | [marksikaundi](https://github.com/marksikaundi) | Mark Sikaundi | @Lupleg | Alisikaundi | Zambia | 582 |
+| 12 | [SilasChalwe](https://github.com/SilasChalwe) | Silas Chalwe  | Covian hive technologies  |  | Zambia  | 742 |
+| 13 | [214Toto](https://github.com/214Toto) | ToToZ Collection |  |  | Ndola, Copperbelt, Zambia | 731 |
+| 14 | [Mukela12](https://github.com/Mukela12) | Mukela Katungu |  |  | Lusaka | 685 |
+| 15 | [cephaschapa](https://github.com/cephaschapa) | Cephas Chapa | OpenEarth Foundation |  | Zambia | 684 |
+| 16 | [simwawatim](https://github.com/simwawatim) | Timothy Simwawa | iZyane InnovSoultion |  | Lusaka, Zambia | 637 |
+| 17 | [mataa019](https://github.com/mataa019) | John Mataa | Imangatech Innovations |  | Zambia, Lusaka Province | 624 |
+| 18 | [wmweemba](https://github.com/wmweemba) | William .S. Mweemba |  |  | Lusaka, Zambia | 612 |
+| 19 | [Mwapsam](https://github.com/Mwapsam) | Samuel Chimfwembe | mwapsam@gmail.com | mwapesamuel4 | Zambia | 611 |
+| 20 | [c00p75](https://github.com/c00p75) | George M'sapenda |  |  | Lusaka, Zambia | 586 |

@@ -1,6 +1,6 @@
 # Bangladesh
 
-Indexed users: 55,311
+Indexed users: 55,310
 
 | Leaderboard | Link |
 |---|---|
@@ -46,11 +46,11 @@ Indexed users: 55,311
 | 7 | [sazibislam](https://github.com/sazibislam) | Saiful Sazib | Bashundhara, Dhaka | 10,008 |
 | 8 | [mdrifat05](https://github.com/mdrifat05) | Md. Rifat Hossen | Dhaka, Bangladesh | 9,960 |
 | 9 | [shovo896](https://github.com/shovo896) | Ahadul Haque Shovo | Rajshahi ,Bangladesh | 9,533 |
-| 10 | [aamarzan](https://github.com/aamarzan) | Abdullah Al Marzan | Dhaka, Bangladesh | 7,323 |
-| 11 | [mralaminahamed](https://github.com/mralaminahamed) | Al Amin Ahamed | Dhaka, Bangladesh | 6,764 |
-| 12 | [Prosunsajal4](https://github.com/Prosunsajal4) | Prosun Mukherjee | Khulna,Bangladesh | 6,656 |
-| 13 | [creativehabib](https://github.com/creativehabib) | Habibur Rahaman | Gazipur Dhaka Bangladesh | 6,602 |
-| 14 | [mdalmarzan](https://github.com/mdalmarzan) | MD.Al Marzan | Bangladesh Dhaka  | 6,602 |
+| 10 | [mdalmarzan](https://github.com/mdalmarzan) | MD.Al Marzan | Bangladesh Dhaka  | 7,663 |
+| 11 | [aamarzan](https://github.com/aamarzan) | Abdullah Al Marzan | Dhaka, Bangladesh | 7,323 |
+| 12 | [mralaminahamed](https://github.com/mralaminahamed) | Al Amin Ahamed | Dhaka, Bangladesh | 6,764 |
+| 13 | [Prosunsajal4](https://github.com/Prosunsajal4) | Prosun Mukherjee | Khulna,Bangladesh | 6,656 |
+| 14 | [creativehabib](https://github.com/creativehabib) | Habibur Rahaman | Gazipur Dhaka Bangladesh | 6,602 |
 | 15 | [Atik203](https://github.com/Atik203) | Atikur Rahaman | Dhaka,Bangladesh | 6,455 |
 | 16 | [mehediScriptDev](https://github.com/mehediScriptDev) | Mehedi | A majid tower 8th floor,Ka-24 Progati Sarani Rd, Dhaka 1229 | 6,168 |
 | 17 | [ihkokil](https://github.com/ihkokil) | Md. Iqbal Haider Khan | Rajshahi, Bangladesh | 6,139 |
@@ -83,4 +83,4 @@ Indexed users: 55,311
 | 19 | [hasancse91](https://github.com/hasancse91) | Abdullah Al Hasan | Dhaka, Bangladesh | 1,916 |
 | 20 | [raufurislam](https://github.com/raufurislam) | Raufur Islam | Jamalpur Sadar Upazila, Bangladesh | 1,822 |
 
-Generated: 2026-10-18T19:07:36.896Z
+Generated: 2026-10-18T20:37:51.592Z

@@ -1,6 +1,6 @@
 # Followers - Timor-Leste
 
-Generated: 2026-10-18T18:49:39.166Z
+Generated: 2026-10-18T20:24:30.234Z
 
 Users: 77
 
@@ -14,7 +14,7 @@ Users: 77
 | 6 | [sergiojosevalente](https://github.com/sergiojosevalente) | Sergio Jose Valente Da Cruz | IT & Application Officer Telkomcel | sergiojose031 | Timor-Leste | 15 |
 | 7 | [ajitonelsonn](https://github.com/ajitonelsonn) | Ajito Nelson | Viettel Timor |  | Timor Leste | 13 |
 | 8 | [zemalay](https://github.com/zemalay) | Geovannio Frederico de Jesus Vinhas | TIC TIMOR |  | Dili, Timor-Leste | 13 |
-| 9 | [abindacarmo](https://github.com/abindacarmo) | Brigida de Carvalho Carmo | UNTL |  | Timor-Leste | 11 |
+| 9 | [abindacarmo](https://github.com/abindacarmo) | Brigida de Carvalho Carmo | UNTL |  | Timor-Leste | 12 |
 | 10 | [watakalea](https://github.com/watakalea) | Wateba Watakalea |  |  | Timor Leste  | 11 |
 | 11 | [amandio-eto](https://github.com/amandio-eto) | Jose Amandio de Almeida | Esperanca Timor Oan |  | Rua china Rate Lahane Oreintal Dili Timor Leste | 9 |
 | 12 | [pvosco](https://github.com/pvosco) |  | @InfoUNTL |  | Dili, Timor Leste | 8 |

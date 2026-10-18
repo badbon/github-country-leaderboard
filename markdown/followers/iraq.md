@@ -1,13 +1,13 @@
 # Followers - Iraq
 
-Generated: 2026-10-18T19:35:59.763Z
+Generated: 2026-10-18T21:02:28.201Z
 
 Users: 2233
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [Aziz-AXG](https://github.com/Aziz-AXG) | Aziz falah |  |  | Baghdad, Iraq | 3608 |
-| 2 | [sajjad-salam](https://github.com/sajjad-salam) | sajjad_salam | freelancer |  | iraq-baghdad | 3004 |
+| 2 | [sajjad-salam](https://github.com/sajjad-salam) | sajjad_salam | freelancer |  | iraq-baghdad | 3001 |
 | 3 | [muhammedessa](https://github.com/muhammedessa) | Muhammed Essa | Code for IRAQ |  | IRAQ | 2288 |
 | 4 | [Ha3MrX](https://github.com/Ha3MrX) | Ha3MrX | Rami |  | Iraq | 2055 |
 | 5 | [Mohammadkrd1](https://github.com/Mohammadkrd1) | Mohamed Krd | SpaceX |  | Zakho, Iraq | 1769 |

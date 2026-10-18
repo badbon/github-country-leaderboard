@@ -1,6 +1,6 @@
 # Azerbaijan
 
-Indexed users: 5,061
+Indexed users: 5,060
 
 | Leaderboard | Link |
 |---|---|
@@ -25,12 +25,12 @@ Indexed users: 5,061
 | 11 | [Orik-dev](https://github.com/Orik-dev) | Orkhan Guseynov | Baku | 6,349 |
 | 12 | [zaursharifov](https://github.com/zaursharifov) | Zaur Sharifov | Baku, Azerbaijan | 6,319 |
 | 13 | [ogtayhuseynov0](https://github.com/ogtayhuseynov0) | Ogtay Huseynov | Azerbaijan | 6,223 |
-| 14 | [kerimovok](https://github.com/kerimovok) | Orkhan Karimov | Baku, Azerbaijan | 5,607 |
-| 15 | [samirmhsnv](https://github.com/samirmhsnv) | Samir Mammadhasanov | Baku, Azerbaijan | 5,599 |
-| 16 | [OrkhanAbbasli](https://github.com/OrkhanAbbasli) | Orkhan Abbasli | Baku,Azerbaijan | 5,281 |
-| 17 | [mahammad-ibrahimli](https://github.com/mahammad-ibrahimli) | Admin | Baku, Azerbaijan | 5,267 |
-| 18 | [mahooo0](https://github.com/mahooo0) | Muhemed Ibrahimov | Azerbaijan | 5,262 |
-| 19 | [mirmovsum-abasov](https://github.com/mirmovsum-abasov) | Mirmövsüm Abasov | Baku, Azerbaijan | 5,045 |
+| 14 | [mirmovsum-abasov](https://github.com/mirmovsum-abasov) | Mirmövsüm Abasov | Baku, Azerbaijan | 5,891 |
+| 15 | [kerimovok](https://github.com/kerimovok) | Orkhan Karimov | Baku, Azerbaijan | 5,607 |
+| 16 | [samirmhsnv](https://github.com/samirmhsnv) | Samir Mammadhasanov | Baku, Azerbaijan | 5,599 |
+| 17 | [OrkhanAbbasli](https://github.com/OrkhanAbbasli) | Orkhan Abbasli | Baku,Azerbaijan | 5,281 |
+| 18 | [mahammad-ibrahimli](https://github.com/mahammad-ibrahimli) | Admin | Baku, Azerbaijan | 5,267 |
+| 19 | [mahooo0](https://github.com/mahooo0) | Muhemed Ibrahimov | Azerbaijan | 5,262 |
 | 20 | [kamranbekirovyz](https://github.com/kamranbekirovyz) | Kamran Bekirov | Baku, Azerbaijan | 4,767 |
 
 ## Public Contributions
@@ -83,4 +83,4 @@ Indexed users: 5,061
 | 19 | [Jeyhun1227](https://github.com/Jeyhun1227) | Jeyhun Malikli | Baku | 253 |
 | 20 | [husniababaeva](https://github.com/husniababaeva) | Husniyya Babayeva | Azerbaijan,Baku | 252 |
 
-Generated: 2026-10-18T19:06:06.995Z
+Generated: 2026-10-18T20:36:51.366Z

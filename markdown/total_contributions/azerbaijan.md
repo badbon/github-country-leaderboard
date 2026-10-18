@@ -1,8 +1,8 @@
 # Total Contributions - Azerbaijan
 
-Generated: 2026-10-18T19:06:06.995Z
+Generated: 2026-10-18T20:36:51.366Z
 
-Users: 5061
+Users: 5060
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -19,10 +19,10 @@ Users: 5061
 | 11 | [Orik-dev](https://github.com/Orik-dev) | Orkhan Guseynov |  |  | Baku | 6349 |
 | 12 | [zaursharifov](https://github.com/zaursharifov) | Zaur Sharifov | AFEA |  | Baku, Azerbaijan | 6319 |
 | 13 | [ogtayhuseynov0](https://github.com/ogtayhuseynov0) | Ogtay Huseynov | @Ogt.ai | ogtayhuseynov0 | Azerbaijan | 6223 |
-| 14 | [kerimovok](https://github.com/kerimovok) | Orkhan Karimov | HonestJS | karimovokx | Baku, Azerbaijan | 5607 |
-| 15 | [samirmhsnv](https://github.com/samirmhsnv) | Samir Mammadhasanov |  | samirmhsnv | Baku, Azerbaijan | 5599 |
-| 16 | [OrkhanAbbasli](https://github.com/OrkhanAbbasli) | Orkhan Abbasli |  | orkhando | Baku,Azerbaijan | 5281 |
-| 17 | [mahammad-ibrahimli](https://github.com/mahammad-ibrahimli) | Admin |  |  | Baku, Azerbaijan | 5267 |
-| 18 | [mahooo0](https://github.com/mahooo0) | Muhemed Ibrahimov |  |  | Azerbaijan | 5262 |
-| 19 | [mirmovsum-abasov](https://github.com/mirmovsum-abasov) | Mirmövsüm Abasov |  |  | Baku, Azerbaijan | 5045 |
+| 14 | [mirmovsum-abasov](https://github.com/mirmovsum-abasov) | Mirmövsüm Abasov |  |  | Baku, Azerbaijan | 5891 |
+| 15 | [kerimovok](https://github.com/kerimovok) | Orkhan Karimov | HonestJS | karimovokx | Baku, Azerbaijan | 5607 |
+| 16 | [samirmhsnv](https://github.com/samirmhsnv) | Samir Mammadhasanov |  | samirmhsnv | Baku, Azerbaijan | 5599 |
+| 17 | [OrkhanAbbasli](https://github.com/OrkhanAbbasli) | Orkhan Abbasli |  | orkhando | Baku,Azerbaijan | 5281 |
+| 18 | [mahammad-ibrahimli](https://github.com/mahammad-ibrahimli) | Admin |  |  | Baku, Azerbaijan | 5267 |
+| 19 | [mahooo0](https://github.com/mahooo0) | Muhemed Ibrahimov |  |  | Azerbaijan | 5262 |
 | 20 | [kamranbekirovyz](https://github.com/kamranbekirovyz) | Kamran Bekirov |  | kamranbekirovyz | Baku, Azerbaijan | 4767 |

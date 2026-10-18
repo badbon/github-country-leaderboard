@@ -1,8 +1,8 @@
 # Total Contributions - Argentina
 
-Generated: 2026-10-18T19:04:41.797Z
+Generated: 2026-10-18T20:36:05.045Z
 
-Users: 50730
+Users: 50729
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

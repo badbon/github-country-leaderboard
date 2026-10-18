@@ -1,8 +1,8 @@
 # Public Contributions - Bangladesh
 
-Generated: 2026-10-18T19:07:36.896Z
+Generated: 2026-10-18T20:37:51.592Z
 
-Users: 55311
+Users: 55310
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -15,11 +15,11 @@ Users: 55311
 | 7 | [sazibislam](https://github.com/sazibislam) | Saiful Sazib | B Trac Solutions Ltd |  | Bashundhara, Dhaka | 10008 |
 | 8 | [mdrifat05](https://github.com/mdrifat05) | Md. Rifat Hossen | HawarIT Limited | mdrifat_05 | Dhaka, Bangladesh | 9960 |
 | 9 | [shovo896](https://github.com/shovo896) | Ahadul Haque Shovo |  |  | Rajshahi ,Bangladesh | 9533 |
-| 10 | [aamarzan](https://github.com/aamarzan) | Abdullah Al Marzan | Toxicology Society of Bangladesh | aamarzan | Dhaka, Bangladesh | 7323 |
-| 11 | [mralaminahamed](https://github.com/mralaminahamed) | Al Amin Ahamed | Team Lead of Product at @codexpertio |  | Dhaka, Bangladesh | 6764 |
-| 12 | [Prosunsajal4](https://github.com/Prosunsajal4) | Prosun Mukherjee |  |  | Khulna,Bangladesh | 6656 |
-| 13 | [creativehabib](https://github.com/creativehabib) | Habibur Rahaman | creativehabib | createhabib | Gazipur Dhaka Bangladesh | 6602 |
-| 14 | [mdalmarzan](https://github.com/mdalmarzan) | MD.Al Marzan |  | md_al_marzan | Bangladesh Dhaka  | 6602 |
+| 10 | [mdalmarzan](https://github.com/mdalmarzan) | MD.Al Marzan |  | md_al_marzan | Bangladesh Dhaka  | 7663 |
+| 11 | [aamarzan](https://github.com/aamarzan) | Abdullah Al Marzan | Toxicology Society of Bangladesh | aamarzan | Dhaka, Bangladesh | 7323 |
+| 12 | [mralaminahamed](https://github.com/mralaminahamed) | Al Amin Ahamed | Team Lead of Product at @codexpertio |  | Dhaka, Bangladesh | 6764 |
+| 13 | [Prosunsajal4](https://github.com/Prosunsajal4) | Prosun Mukherjee |  |  | Khulna,Bangladesh | 6656 |
+| 14 | [creativehabib](https://github.com/creativehabib) | Habibur Rahaman | creativehabib | createhabib | Gazipur Dhaka Bangladesh | 6602 |
 | 15 | [Atik203](https://github.com/Atik203) | Atikur Rahaman | United International University |  | Dhaka,Bangladesh | 6455 |
 | 16 | [mehediScriptDev](https://github.com/mehediScriptDev) | Mehedi | Mak Tech solution | mehediScriptDev | A majid tower 8th floor,Ka-24 Progati Sarani Rd, Dhaka 1229 | 6168 |
 | 17 | [ihkokil](https://github.com/ihkokil) | Md. Iqbal Haider Khan |  | ihkokil | Rajshahi, Bangladesh | 6139 |
