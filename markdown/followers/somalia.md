@@ -1,8 +1,8 @@
 # Followers - Somalia
 
-Generated: 2026-10-18T03:08:21.314Z
+Generated: 2026-10-18T06:39:49.439Z
 
-Users: 867
+Users: 866
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

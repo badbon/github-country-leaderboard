@@ -1,6 +1,6 @@
 # Somalia
 
-Indexed users: 867
+Indexed users: 866
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 867
 | 19 | [Hasson23](https://github.com/Hasson23) | Hassan Abdullah   | Somalia - Mogadishu  | 100 |
 | 20 | [AbdifatahYasin1](https://github.com/AbdifatahYasin1) | Abdifatah Yasin Yusuf | Somalia, Hargeisa  | 96 |
 
-Generated: 2026-10-18T03:08:21.314Z
+Generated: 2026-10-18T06:39:49.439Z
