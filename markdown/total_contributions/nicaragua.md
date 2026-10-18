@@ -1,6 +1,6 @@
 # Total Contributions - Nicaragua
 
-Generated: 2026-10-18T17:09:49.825Z
+Generated: 2026-10-18T18:25:07.099Z
 
 Users: 1395
 
@@ -24,5 +24,5 @@ Users: 1395
 | 16 | [fabmnt](https://github.com/fabmnt) | Fabián Montoya | Dentalrobot | fabmnt_ | Nicaragua | 3759 |
 | 17 | [ernestoruiz89](https://github.com/ernestoruiz89) | Ernesto Ruiz |  | ernestoruiz89 | Nicaragua | 3723 |
 | 18 | [edgewl2](https://github.com/edgewl2) | Gerardo Hernández |  |  | León, Nicaragua | 3555 |
-| 19 | [paulomcnally](https://github.com/paulomcnally) | Paulo McNally | @mcnallydev  |  | Mangua, Nicaragua | 3536 |
+| 19 | [paulomcnally](https://github.com/paulomcnally) | Paulo McNally | @mcnallydev  |  | Mangua, Nicaragua | 3476 |
 | 20 | [Steven-Mendez](https://github.com/Steven-Mendez) | Steven Mendez |  |  | Managua, Nicaragua | 3423 |

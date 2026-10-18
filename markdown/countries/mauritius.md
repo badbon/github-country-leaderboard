@@ -13,15 +13,15 @@ Indexed users: 714
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [EdgarEldy](https://github.com/EdgarEldy) | EDGAR MUHAMYANGABO | Mauritius | 14,178 |
-| 2 | [512banque](https://github.com/512banque) | Kevin Richard | Mauritius | 7,826 |
+| 2 | [512banque](https://github.com/512banque) | Kevin Richard | Mauritius | 7,845 |
 | 3 | [borissedov](https://github.com/borissedov) | Boris Sedov | Tamarin, Mauritius | 7,470 |
 | 4 | [andrashejj](https://github.com/andrashejj) | Andras Hejj | Mauritius | 6,860 |
 | 5 | [wyxos](https://github.com/wyxos) | Wyxos | Mauritius | 6,725 |
 | 6 | [cedpoilly](https://github.com/cedpoilly) | Cedric | Mauritius | 6,582 |
 | 7 | [w1am](https://github.com/w1am) | William Chong | Mauritius | 6,565 |
-| 8 | [Emmastro](https://github.com/Emmastro) | Emmanuel Bauma Murairi | Mauritius | 5,785 |
-| 9 | [MrSunshyne](https://github.com/MrSunshyne) | Sandeep Ramgolam | Mauritius | 5,536 |
-| 10 | [masterdubs](https://github.com/masterdubs) | Dubs | Mauritius | 5,518 |
+| 8 | [masterdubs](https://github.com/masterdubs) | Dubs | Mauritius | 5,869 |
+| 9 | [Emmastro](https://github.com/Emmastro) | Emmanuel Bauma Murairi | Mauritius | 5,785 |
+| 10 | [MrSunshyne](https://github.com/MrSunshyne) | Sandeep Ramgolam | Mauritius | 5,536 |
 | 11 | [oliverox](https://github.com/oliverox) | Oliver Oxenham | Mauritius | 5,348 |
 | 12 | [nyashaChiza](https://github.com/nyashaChiza) | Nyasha Chizampeni | Port Louis, Mauritius | 4,926 |
 | 13 | [MGabala](https://github.com/MGabala) | Mateusz | Mauritius | 4,139 |
@@ -29,7 +29,7 @@ Indexed users: 714
 | 15 | [zfir](https://github.com/zfir) | Zafir Sk Heerah | Mauritius | 3,989 |
 | 16 | [thhsie](https://github.com/thhsie) | hitesh | Mauritius | 3,887 |
 | 17 | [k3ii](https://github.com/k3ii) | Jain Ramchurn | Mauritius | 3,801 |
-| 18 | [cbillowes](https://github.com/cbillowes) | Clarice Bouwer | Mauritius | 3,350 |
+| 18 | [cbillowes](https://github.com/cbillowes) | Clarice Bouwer | Mauritius | 3,481 |
 | 19 | [johanleroch](https://github.com/johanleroch) | Johan le Roch | Mauritius | 3,155 |
 | 20 | [iwugod](https://github.com/iwugod) | Joshua Iwugod  | Republic of Mauritius  | 3,102 |
 
@@ -83,4 +83,4 @@ Indexed users: 714
 | 19 | [MaskyS](https://github.com/MaskyS) | Kifah M | Mauritius | 75 |
 | 20 | [cbillowes](https://github.com/cbillowes) | Clarice Bouwer | Mauritius | 65 |
 
-Generated: 2026-10-18T16:38:46.469Z
+Generated: 2026-10-18T18:19:44.832Z

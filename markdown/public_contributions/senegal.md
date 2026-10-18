@@ -1,15 +1,15 @@
 # Public Contributions - Senegal
 
-Generated: 2026-10-18T17:21:19.630Z
+Generated: 2026-10-18T18:36:09.991Z
 
-Users: 1356
+Users: 1355
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [traorecheikh](https://github.com/traorecheikh) | Cheikh Tidiane TRAORÉ | @Teksi-inc @404-NotFound-Org @TyvaaServices  | HanoWhisper | dakar, senegal | 4264 |
 | 2 | [Zoubeir23](https://github.com/Zoubeir23) | ZOUBEIR IBRAHIMA | ISI |  | Sénegale, Dakar | 3264 |
 | 3 | [utachicodes](https://github.com/utachicodes) | Abdoullah Ndao | Azertica |  | Senegal | 3097 |
-| 4 | [nosleepman1](https://github.com/nosleepman1) | Abdallah Diouf |  |  | Dakar  | 2810 |
+| 4 | [nosleepman1](https://github.com/nosleepman1) | Abdallah Diouf |  |  | Dakar  | 2805 |
 | 5 | [Anna-007-tech](https://github.com/Anna-007-tech) | Anne Marie Seye | 21STUDIO |  | Dakar, Sénégal | 2508 |
 | 6 | [thesenegalesehitch](https://github.com/thesenegalesehitch) | Alexandre Albert Ndour |  |  | Rufisque, Dakar, Sénégal | 1902 |
 | 7 | [IbrahimaTall](https://github.com/IbrahimaTall) | Ibrahima TALL | National Agency of Statistic and Demography | IbrahimaTall_SN | Dakar, Senegal | 1787 |

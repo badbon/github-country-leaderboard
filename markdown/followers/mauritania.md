@@ -1,6 +1,6 @@
 # Followers - Mauritania
 
-Generated: 2026-10-18T16:38:40.685Z
+Generated: 2026-10-18T18:19:03.977Z
 
 Users: 289
 
@@ -11,7 +11,7 @@ Users: 289
 | 3 | [aziz0x00](https://github.com/aziz0x00) | Aziz |  |  | Mauritania | 61 |
 | 4 | [visola777](https://github.com/visola777) | visola777 |  |  | Mauritania | 49 |
 | 5 | [leloufadel](https://github.com/leloufadel) | Lala Aicha El Vadel | Focus.mr | leloufadel | Mauritania | 48 |
-| 6 | [ErgeibiMed](https://github.com/ErgeibiMed) |  |  |  | Nouakchott - Mauritanie  | 47 |
+| 6 | [ErgeibiMed](https://github.com/ErgeibiMed) |  |  |  | Nouakchott - Mauritanie  | 46 |
 | 7 | [iyehah](https://github.com/iyehah) | Iyehah Hacen |  | iyehah |  Nouakchott | 38 |
 | 8 | [lavantora](https://github.com/lavantora) | Aysha |  |  | Mauritania | 36 |
 | 9 | [ahmed-abdat](https://github.com/ahmed-abdat) | Ahmed Abdellahi Abdat | rimecode |  | mauritania nouakchott | 33 |

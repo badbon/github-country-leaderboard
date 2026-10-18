@@ -1,6 +1,6 @@
 # Lithuania
 
-Indexed users: 5,370
+Indexed users: 5,369
 
 | Leaderboard | Link |
 |---|---|
@@ -56,7 +56,7 @@ Indexed users: 5,370
 | 17 | [MekDrop](https://github.com/MekDrop) | Raimondas Rimkevičius | Vilnius, Lithuania | 2,332 |
 | 18 | [savonarola](https://github.com/savonarola) | Ilia Averianov | Vilnius | 2,228 |
 | 19 | [VytCepas](https://github.com/VytCepas) | Vytautas Cepas | Vilnius, Lithuania | 2,216 |
-| 20 | [salisk](https://github.com/salisk) | Sarunas | Lithuania | 2,129 |
+| 20 | [salisk](https://github.com/salisk) | Sarunas | Lithuania | 2,117 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 5,370
 | 19 | [Miceuz](https://github.com/Miceuz) | Albertas Mickėnas | Vilnius, Lithuania | 190 |
 | 20 | [mmozuras](https://github.com/mmozuras) | Mindaugas Mozūras | Vilnius, Lithuania | 183 |
 
-Generated: 2026-10-18T16:34:19.919Z
+Generated: 2026-10-18T18:16:09.331Z

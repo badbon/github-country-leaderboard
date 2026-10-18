@@ -52,9 +52,9 @@ Indexed users: 2,560
 | 13 | [AbedAmouneh](https://github.com/AbedAmouneh) | Abed El-Fattah Amouneh | Lebanon | 1,671 |
 | 14 | [imtithalhalalo](https://github.com/imtithalhalalo) | Imtithal Halalo | Beirut, Lebanon | 1,233 |
 | 15 | [jat10](https://github.com/jat10) | Jad Tarabay | Lebanon | 1,222 |
-| 16 | [ahomsi0](https://github.com/ahomsi0) | Ahmad Homsi | Lebanon | 1,160 |
+| 16 | [ahomsi0](https://github.com/ahomsi0) | Ahmad Homsi | Lebanon | 1,211 |
 | 17 | [wwilson1017](https://github.com/wwilson1017) | Will Wilson | Lebanon, TN | 1,158 |
-| 18 | [mahdi-alkak-1](https://github.com/mahdi-alkak-1) | Mahdi Kak | Lebanon,Beirut | 1,138 |
+| 18 | [mahdi-alkak-1](https://github.com/mahdi-alkak-1) | Mahdi Kak | Lebanon,Beirut | 1,135 |
 | 19 | [Kronbii](https://github.com/Kronbii) | Rami Kronbi | Beirut, LB | 1,107 |
 | 20 | [mabd-dev](https://github.com/mabd-dev) | Mahmoud Abdallah | Beirut, Lebanon | 1,066 |
 
@@ -83,4 +83,4 @@ Indexed users: 2,560
 | 19 | [rhamzeh](https://github.com/rhamzeh) | Raghd Hamzeh | Beirut, Lebanon | 102 |
 | 20 | [hadiidbouk](https://github.com/hadiidbouk) | Hadi Dbouk | Lebanon | 101 |
 
-Generated: 2026-10-18T16:33:04.864Z
+Generated: 2026-10-18T18:14:53.168Z

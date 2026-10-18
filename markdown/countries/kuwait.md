@@ -18,7 +18,7 @@ Indexed users: 797
 | 4 | [BAWES](https://github.com/BAWES) | Khalid Al-Mutawa | Kuwait | 6,616 |
 | 5 | [uusa35](https://github.com/uusa35) | Usama.Ahmed | kuwait | 6,384 |
 | 6 | [drhema](https://github.com/drhema) | Ibrahim Elsherbiny | Kuwait | 6,179 |
-| 7 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Kuwait | 5,645 |
+| 7 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Kuwait | 5,785 |
 | 8 | [saskw2010](https://github.com/saskw2010) | Mostafa Elnagar | kuwait | 5,239 |
 | 9 | [bigboss97lnt](https://github.com/bigboss97lnt) | Nasser Tahan | Kuwait | 5,221 |
 | 10 | [Mubder](https://github.com/Mubder) | Mubder Alfaris | Kuwait | 4,586 |
@@ -43,7 +43,7 @@ Indexed users: 797
 | 4 | [SiteQ8](https://github.com/SiteQ8) | Ali AlEnezi | Kuwait | 2,286 |
 | 5 | [fahadTheTechIdea](https://github.com/fahadTheTechIdea) | Fahad Aldhubaib | Kuwait | 2,193 |
 | 6 | [saskw2010](https://github.com/saskw2010) | Mostafa Elnagar | kuwait | 1,740 |
-| 7 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Kuwait | 1,653 |
+| 7 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Kuwait | 1,650 |
 | 8 | [Moslemjaw](https://github.com/Moslemjaw) | Moslem Jawich | Kuwait | 1,575 |
 | 9 | [aalhendi](https://github.com/aalhendi) | Abdulrazzaq Alhendi | Kuwait | 1,399 |
 | 10 | [Mubder](https://github.com/Mubder) | Mubder Alfaris | Kuwait | 1,334 |
@@ -81,6 +81,6 @@ Indexed users: 797
 | 17 | [DiNaSoR](https://github.com/DiNaSoR) | BuYousef | Kuwait | 90 |
 | 18 | [AlanBennyOfficial](https://github.com/AlanBennyOfficial) | Alan Benny | Kuwait | 89 |
 | 19 | [MoathOthman](https://github.com/MoathOthman) | Moath othman | Kuwait | 85 |
-| 20 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Kuwait | 81 |
+| 20 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Kuwait | 82 |
 
-Generated: 2026-10-18T16:32:26.491Z
+Generated: 2026-10-18T18:13:20.624Z

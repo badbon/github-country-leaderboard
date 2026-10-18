@@ -1,6 +1,6 @@
 # Followers - Mauritius
 
-Generated: 2026-10-18T16:38:46.469Z
+Generated: 2026-10-18T18:19:44.832Z
 
 Users: 714
 

@@ -1,6 +1,6 @@
 # Mozambique
 
-Indexed users: 1,176
+Indexed users: 1,175
 
 | Leaderboard | Link |
 |---|---|
@@ -66,7 +66,7 @@ Indexed users: 1,176
 | 2 | [gmahota](https://github.com/gmahota) | Guimaraes Mahota Jr. | Maputo, Mozambique | 325 |
 | 3 | [EdgarJFA](https://github.com/EdgarJFA) | Edgar Amado | Mozambique | 299 |
 | 4 | [joseseie](https://github.com/joseseie) | Jose Seie | Maputo, Mozambique | 279 |
-| 5 | [gabrielmjr](https://github.com/gabrielmjr) | Gabriel Mucacho Júnior | Maputo/Mozambique  | 227 |
+| 5 | [gabrielmjr](https://github.com/gabrielmjr) | Gabriel Mucacho Júnior | Maputo/Mozambique  | 229 |
 | 6 | [arnaldo-tomo](https://github.com/arnaldo-tomo) | Arnaldo tomo | Mozambique | 195 |
 | 7 | [eltonlaice](https://github.com/eltonlaice) | Elton | Mozambique | 195 |
 | 8 | [JefferMarcelino](https://github.com/JefferMarcelino) | Jeffer Marcelino | Mozambique, Maputo | 193 |
@@ -83,4 +83,4 @@ Indexed users: 1,176
 | 19 | [enoquetembe](https://github.com/enoquetembe) | Enoque Tembe | Maputo, Mozambique | 111 |
 | 20 | [mariomthree](https://github.com/mariomthree) | Mário M. Mabande | Maputo, Mozambique | 95 |
 
-Generated: 2026-10-18T16:42:26.814Z
+Generated: 2026-10-18T18:22:30.240Z

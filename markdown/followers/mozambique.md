@@ -1,8 +1,8 @@
 # Followers - Mozambique
 
-Generated: 2026-10-18T16:42:26.814Z
+Generated: 2026-10-18T18:22:30.240Z
 
-Users: 1176
+Users: 1175
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -10,7 +10,7 @@ Users: 1176
 | 2 | [gmahota](https://github.com/gmahota) | Guimaraes Mahota Jr. |  | mahota_g | Maputo, Mozambique | 325 |
 | 3 | [EdgarJFA](https://github.com/EdgarJFA) | Edgar Amado | FastTeam | edgarfeliciano | Mozambique | 299 |
 | 4 | [joseseie](https://github.com/joseseie) | Jose Seie | Explicador Inc, LDA. |  | Maputo, Mozambique | 279 |
-| 5 | [gabrielmjr](https://github.com/gabrielmjr) | Gabriel Mucacho Júnior |  | GabrielMJ_2005 | Maputo/Mozambique  | 227 |
+| 5 | [gabrielmjr](https://github.com/gabrielmjr) | Gabriel Mucacho Júnior |  | GabrielMJ_2005 | Maputo/Mozambique  | 229 |
 | 6 | [arnaldo-tomo](https://github.com/arnaldo-tomo) | Arnaldo tomo | Dintell | Arnaldo_j_tomo | Mozambique | 195 |
 | 7 | [eltonlaice](https://github.com/eltonlaice) | Elton |  |  | Mozambique | 195 |
 | 8 | [JefferMarcelino](https://github.com/JefferMarcelino) | Jeffer Marcelino |  |  | Mozambique, Maputo | 193 |

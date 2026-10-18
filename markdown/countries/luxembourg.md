@@ -30,7 +30,7 @@ Indexed users: 2,190
 | 16 | [b-rodrigues](https://github.com/b-rodrigues) | Bruno Rodrigues | Luxembourg-City, Luxembourg | 6,927 |
 | 17 | [nicolasguelfi](https://github.com/nicolasguelfi) | Nicolas Guelfi | Esch-sur-Alzette, Luxembourg | 6,213 |
 | 18 | [francois352](https://github.com/francois352) | Francois Altwies | Luxembourg | 6,191 |
-| 19 | [jose99segura](https://github.com/jose99segura) | Jose Luis Segura | Luxembourg | 6,081 |
+| 19 | [jose99segura](https://github.com/jose99segura) | Jose Luis Segura | Luxembourg | 6,138 |
 | 20 | [remiminnebo](https://github.com/remiminnebo) | Remi J. Minnebo | Luxembourg | 5,465 |
 
 ## Public Contributions
@@ -83,4 +83,4 @@ Indexed users: 2,190
 | 19 | [l4rz](https://github.com/l4rz) | Mike K. | Luxembourg | 197 |
 | 20 | [urosolia](https://github.com/urosolia) | Ugo Rosolia | Luxembourg, Lux | 192 |
 
-Generated: 2026-10-18T16:34:52.296Z
+Generated: 2026-10-18T18:16:14.949Z

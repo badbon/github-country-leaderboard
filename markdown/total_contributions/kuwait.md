@@ -1,6 +1,6 @@
 # Total Contributions - Kuwait
 
-Generated: 2026-10-18T16:32:26.491Z
+Generated: 2026-10-18T18:13:20.624Z
 
 Users: 797
 
@@ -12,7 +12,7 @@ Users: 797
 | 4 | [BAWES](https://github.com/BAWES) | Khalid Al-Mutawa | BAWES |  | Kuwait | 6616 |
 | 5 | [uusa35](https://github.com/uusa35) | Usama.Ahmed | 965 65772444 |  | kuwait | 6384 |
 | 6 | [drhema](https://github.com/drhema) | Ibrahim Elsherbiny | Ibrahim |  | Kuwait | 6179 |
-| 7 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Dsrpt. | AbdulkaderSafi | Kuwait | 5645 |
+| 7 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Dsrpt. | AbdulkaderSafi | Kuwait | 5785 |
 | 8 | [saskw2010](https://github.com/saskw2010) | Mostafa Elnagar | wytSKY Clouding Solutions | wyt_sky | kuwait | 5239 |
 | 9 | [bigboss97lnt](https://github.com/bigboss97lnt) | Nasser Tahan | Yuehlia | bigboss97lnt | Kuwait | 5221 |
 | 10 | [Mubder](https://github.com/Mubder) | Mubder Alfaris | KazmaAI | b_alfaris | Kuwait | 4586 |

@@ -24,12 +24,12 @@ Indexed users: 1,747
 | 10 | [stephen-golban](https://github.com/stephen-golban) | Stephen G | Moldova | 5,977 |
 | 11 | [mtkachenk0](https://github.com/mtkachenk0) | Maxim Tkachenko | Chisinau, Moldova | 5,841 |
 | 12 | [sebsti5](https://github.com/sebsti5) | Sebastian | Moldova 🇲🇩 | 5,426 |
-| 13 | [kneazy](https://github.com/kneazy) | Vitalie | Moldova, Chisinau  | 5,412 |
-| 14 | [batanus](https://github.com/batanus) | Dmitrii Medvedev | Chisinau, Moldova | 5,313 |
-| 15 | [grigorii-horos](https://github.com/grigorii-horos) | Grigorii Horos | Republic of Moldova | 5,250 |
-| 16 | [xyrolle](https://github.com/xyrolle) | Serghei | Moldova | 5,240 |
-| 17 | [httpcatalin](https://github.com/httpcatalin) | Catalin | Chișinău, Moldova | 5,117 |
-| 18 | [artickc](https://github.com/artickc) | NOXX - Commiter | Moldova, Chisinau | 5,071 |
+| 13 | [artickc](https://github.com/artickc) | NOXX - Commiter | Moldova, Chisinau | 5,416 |
+| 14 | [kneazy](https://github.com/kneazy) | Vitalie | Moldova, Chisinau  | 5,412 |
+| 15 | [batanus](https://github.com/batanus) | Dmitrii Medvedev | Chisinau, Moldova | 5,313 |
+| 16 | [grigorii-horos](https://github.com/grigorii-horos) | Grigorii Horos | Republic of Moldova | 5,250 |
+| 17 | [xyrolle](https://github.com/xyrolle) | Serghei | Moldova | 5,240 |
+| 18 | [httpcatalin](https://github.com/httpcatalin) | Catalin | Chișinău, Moldova | 5,117 |
 | 19 | [fedotovdev](https://github.com/fedotovdev) | Ivan Fedotov | Chisinau, Moldova | 5,019 |
 | 20 | [Andrei-Ciuperca](https://github.com/Andrei-Ciuperca) | Andrei Ciupercă | Moldova | 4,908 |
 
@@ -83,4 +83,4 @@ Indexed users: 1,747
 | 19 | [vgaidarji](https://github.com/vgaidarji) | Veaceslav Gaidarji | Moldova | 115 |
 | 20 | [Ernest96](https://github.com/Ernest96) | Ernest | Chisinau Moldova | 107 |
 
-Generated: 2026-10-18T16:41:15.097Z
+Generated: 2026-10-18T18:20:54.249Z

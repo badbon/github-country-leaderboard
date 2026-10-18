@@ -73,8 +73,8 @@ Indexed users: 1,532
 | 9 | [joeykrug](https://github.com/joeykrug) | Joseph Krug | Puerto Rico | 204 |
 | 10 | [FrenzyExists](https://github.com/FrenzyExists) | Detective Pikachu | Aguadilla, Puerto Rico | 199 |
 | 11 | [bvelez](https://github.com/bvelez) | Bienvenido Vélez | Mayagüez, Puerto Rico | 174 |
-| 12 | [RhettCreighton](https://github.com/RhettCreighton) | Rhett Creighton | San Juan, Puerto Rico | 169 |
-| 13 | [victoroalvarez](https://github.com/victoroalvarez) | Victor O. Alvarez | Puerto Rico | 167 |
+| 12 | [victoroalvarez](https://github.com/victoroalvarez) | Victor O. Alvarez | Puerto Rico | 171 |
+| 13 | [RhettCreighton](https://github.com/RhettCreighton) | Rhett Creighton | San Juan, Puerto Rico | 169 |
 | 14 | [aryxns](https://github.com/aryxns) | Aryan Sharma | puerto rico | 159 |
 | 15 | [perazaharmonics](https://github.com/perazaharmonics) | J. Enrique Peraza, BScEE MEngEE | Hatillo, Puerto Rico | 150 |
 | 16 | [danysantiago](https://github.com/danysantiago) | Daniel Santiago | Puerto Rico | 149 |
@@ -83,4 +83,4 @@ Indexed users: 1,532
 | 19 | [rnegron](https://github.com/rnegron) | Raúl Negrón-Otero | Bayamón, Puerto Rico | 113 |
 | 20 | [hackingbutlegal](https://github.com/hackingbutlegal) | Jackie Singh | San Juan, PR | 107 |
 
-Generated: 2026-10-18T17:16:02.145Z
+Generated: 2026-10-18T18:30:27.682Z

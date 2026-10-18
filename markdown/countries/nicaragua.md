@@ -30,7 +30,7 @@ Indexed users: 1,395
 | 16 | [fabmnt](https://github.com/fabmnt) | Fabián Montoya | Nicaragua | 3,759 |
 | 17 | [ernestoruiz89](https://github.com/ernestoruiz89) | Ernesto Ruiz | Nicaragua | 3,723 |
 | 18 | [edgewl2](https://github.com/edgewl2) | Gerardo Hernández | León, Nicaragua | 3,555 |
-| 19 | [paulomcnally](https://github.com/paulomcnally) | Paulo McNally | Mangua, Nicaragua | 3,536 |
+| 19 | [paulomcnally](https://github.com/paulomcnally) | Paulo McNally | Mangua, Nicaragua | 3,476 |
 | 20 | [Steven-Mendez](https://github.com/Steven-Mendez) | Steven Mendez | Managua, Nicaragua | 3,423 |
 
 ## Public Contributions
@@ -63,7 +63,7 @@ Indexed users: 1,395
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [CrisLottz](https://github.com/CrisLottz) | Cris Lottz | Nicaragua | 2,238 |
-| 2 | [paulomcnally](https://github.com/paulomcnally) | Paulo McNally | Mangua, Nicaragua | 213 |
+| 2 | [paulomcnally](https://github.com/paulomcnally) | Paulo McNally | Mangua, Nicaragua | 214 |
 | 3 | [Aleejandro26](https://github.com/Aleejandro26) | Aleejandro Lagu. | [Rivas, Nicaragua] | 178 |
 | 4 | [QuesilloLover](https://github.com/QuesilloLover) | Adilia Moreno | Nicaragua | 158 |
 | 5 | [fitoria](https://github.com/fitoria) | Adolfo Fitoria | Mangua, Nicaragua | 146 |
@@ -83,4 +83,4 @@ Indexed users: 1,395
 | 19 | [luismejiadev](https://github.com/luismejiadev) | Luis Mejia | Managua, Nicaragua | 68 |
 | 20 | [dannygaray60](https://github.com/dannygaray60) | Danny Garay | Nicaragua | 61 |
 
-Generated: 2026-10-18T17:09:49.825Z
+Generated: 2026-10-18T18:25:07.099Z
