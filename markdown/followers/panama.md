@@ -1,6 +1,6 @@
 # Followers - Panama
 
-Generated: 2026-10-18T09:38:22.719Z
+Generated: 2026-10-18T12:33:37.881Z
 
 Users: 1069
 
@@ -10,7 +10,7 @@ Users: 1069
 | 2 | [jeremymcs](https://github.com/jeremymcs) | Jeremy McSpadden | Flux Labs | jeremymcs | Panama City, FL | 118 |
 | 3 | [mariajosemv](https://github.com/mariajosemv) | Maria Jose Medina | Procter & Gamble | mariajosemvv | Panama City, Panama | 110 |
 | 4 | [abdelgmartinezl](https://github.com/abdelgmartinezl) | Abdel G. Martínez L. | Solusoft |  | Panama, Panama | 109 |
-| 5 | [apimercantil](https://github.com/apimercantil) | Mercantil Banco | Mercantil Banco CA | mercantilbanco | Venezuala, Panama, Suiza | 108 |
+| 5 | [apimercantil](https://github.com/apimercantil) | Mercantil Banco | Mercantil Banco CA | mercantilbanco | Venezuala, Panama, Suiza | 109 |
 | 6 | [lfamorim](https://github.com/lfamorim) | Lucas Fernando Amorim | Goodfellas & CreditHub | lfamorim | San Blas, Panama | 101 |
 | 7 | [calvinfroedge](https://github.com/calvinfroedge) | Calvin Froedge |  |  | Panama | 98 |
 | 8 | [issaiass](https://github.com/issaiass) | Rangel Isaías Alvarado Walles | DATA ACQUISITION SYSTEMS, S.A. | daqsyspty | Panama City, Panama | 96 |

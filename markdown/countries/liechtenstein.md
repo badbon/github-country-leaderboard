@@ -12,10 +12,10 @@ Indexed users: 113
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [oscardvs](https://github.com/oscardvs) | Oscar Devos | Liechtenstein | 5,695 |
+| 1 | [oscardvs](https://github.com/oscardvs) | Oscar Devos | Liechtenstein | 5,832 |
 | 2 | [bernhardw](https://github.com/bernhardw) | Bernhard Wanger | Vaduz, Liechtenstein | 4,584 |
-| 3 | [tnaescher](https://github.com/tnaescher) | T. Näscher | Liechtenstein | 4,322 |
-| 4 | [msanft](https://github.com/msanft) | Moritz Sanft | Liechtenstein | 2,911 |
+| 3 | [tnaescher](https://github.com/tnaescher) | T. Näscher | Liechtenstein | 4,342 |
+| 4 | [msanft](https://github.com/msanft) | Moritz Sanft | Liechtenstein | 2,893 |
 | 5 | [PhilippHGerber](https://github.com/PhilippHGerber) | Philipp H. Gerber | Liechtenstein | 2,614 |
 | 6 | [ColinFrick](https://github.com/ColinFrick) | Colin Frick | Liechtenstein | 2,566 |
 | 7 | [AHaldner](https://github.com/AHaldner) | Andrin Haldner | Liechtenstein | 1,836 |
@@ -37,13 +37,13 @@ Indexed users: 113
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [oscardvs](https://github.com/oscardvs) | Oscar Devos | Liechtenstein | 1,932 |
+| 1 | [oscardvs](https://github.com/oscardvs) | Oscar Devos | Liechtenstein | 2,069 |
 | 2 | [marsop](https://github.com/marsop) | Alberto Gregorio | Ruggell, Liechtenstein | 1,690 |
 | 3 | [niklasfrick](https://github.com/niklasfrick) | Niklas Frick | Liechtenstein | 1,252 |
 | 4 | [iwhp](https://github.com/iwhp) | Harry Pfleger | Liechtenstein | 754 |
 | 5 | [masteradhoc](https://github.com/masteradhoc) | Brian | Liechtenstein | 666 |
 | 6 | [PhilippHGerber](https://github.com/PhilippHGerber) | Philipp H. Gerber | Liechtenstein | 572 |
-| 7 | [msanft](https://github.com/msanft) | Moritz Sanft | Liechtenstein | 524 |
+| 7 | [msanft](https://github.com/msanft) | Moritz Sanft | Liechtenstein | 522 |
 | 8 | [archham](https://github.com/archham) | Nicolas Eberle | Liechtenstein | 458 |
 | 9 | [anondotli](https://github.com/anondotli) | anon.li | Liechtenstein | 301 |
 | 10 | [wol-fi](https://github.com/wol-fi) | Wolfgang Schadner | Liechtenstein | 288 |
@@ -83,4 +83,4 @@ Indexed users: 113
 | 19 | [PhilippHGerber](https://github.com/PhilippHGerber) | Philipp H. Gerber | Liechtenstein | 14 |
 | 20 | [niklasfrick](https://github.com/niklasfrick) | Niklas Frick | Liechtenstein | 12 |
 
-Generated: 2026-10-18T09:24:06.892Z
+Generated: 2026-10-18T12:22:28.133Z

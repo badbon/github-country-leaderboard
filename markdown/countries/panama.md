@@ -54,7 +54,7 @@ Indexed users: 1,069
 | 15 | [jquesada92](https://github.com/jquesada92) | Jose Quesada | Panama | 1,158 |
 | 16 | [neithanmo](https://github.com/neithanmo) | Natanael Mojica | Panama City, Panama | 1,158 |
 | 17 | [alexandermorales-dev](https://github.com/alexandermorales-dev) | Alexander Morales | Panama/Venezuela | 1,146 |
-| 18 | [ahmedrangel](https://github.com/ahmedrangel) | Ahmed Rangel | Panama | 1,140 |
+| 18 | [ahmedrangel](https://github.com/ahmedrangel) | Ahmed Rangel | Panama | 1,138 |
 | 19 | [swlarot](https://github.com/swlarot) | José Luis González Montenegro | Panama | 1,008 |
 | 20 | [iaretechnician](https://github.com/iaretechnician) | Frank Harris | Panama City Beach FL | 948 |
 
@@ -66,7 +66,7 @@ Indexed users: 1,069
 | 2 | [jeremymcs](https://github.com/jeremymcs) | Jeremy McSpadden | Panama City, FL | 118 |
 | 3 | [mariajosemv](https://github.com/mariajosemv) | Maria Jose Medina | Panama City, Panama | 110 |
 | 4 | [abdelgmartinezl](https://github.com/abdelgmartinezl) | Abdel G. Martínez L. | Panama, Panama | 109 |
-| 5 | [apimercantil](https://github.com/apimercantil) | Mercantil Banco | Venezuala, Panama, Suiza | 108 |
+| 5 | [apimercantil](https://github.com/apimercantil) | Mercantil Banco | Venezuala, Panama, Suiza | 109 |
 | 6 | [lfamorim](https://github.com/lfamorim) | Lucas Fernando Amorim | San Blas, Panama | 101 |
 | 7 | [calvinfroedge](https://github.com/calvinfroedge) | Calvin Froedge | Panama | 98 |
 | 8 | [issaiass](https://github.com/issaiass) | Rangel Isaías Alvarado Walles | Panama City, Panama | 96 |
@@ -83,4 +83,4 @@ Indexed users: 1,069
 | 19 | [Commandtechno](https://github.com/Commandtechno) | Techno | David, Panama | 49 |
 | 20 | [Iardo](https://github.com/Iardo) | Ivan Ramos | Panama | 47 |
 
-Generated: 2026-10-18T09:38:22.719Z
+Generated: 2026-10-18T12:33:37.881Z

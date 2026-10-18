@@ -1,6 +1,6 @@
 # Followers - Namibia
 
-Generated: 2026-10-18T09:31:30.869Z
+Generated: 2026-10-18T12:28:38.410Z
 
 Users: 475
 
@@ -10,10 +10,10 @@ Users: 475
 | 2 | [Justin-sketch](https://github.com/Justin-sketch) | Gabriel Kambinda Justinu |  |  | windhoek,namibia | 180 |
 | 3 | [Lucas-Erkana](https://github.com/Lucas-Erkana) | Lucas David Erkana | @microverseinc  | Lucas_David_22 | Walvis Bay, Namibia | 130 |
 | 4 | [LogicHarvest](https://github.com/LogicHarvest) | Logic Harvest | @LogicHarvestOrg |  | Windhoek Namibia | 113 |
-| 5 | [Eckhardt-D](https://github.com/Eckhardt-D) | Eckhardt Scheffer | Kaizen Media | eckhardtdreyer | Namibia | 105 |
+| 5 | [Eckhardt-D](https://github.com/Eckhardt-D) | Eckhardt Scheffer | Kaizen Media | eckhardtdreyer | Namibia | 104 |
 | 6 | [afroGeM7](https://github.com/afroGeM7) | Gemma Usiku |  | gemmausiku | Namibia | 103 |
 | 7 | [Kacelo](https://github.com/Kacelo) | Vernon Kacelo | @nzzdev | KaceloVernon | Windhoek, Namibia | 98 |
-| 8 | [sekhubede](https://github.com/sekhubede) | Michael Sekhubede | The Document Warehouse Namibia |  | Namibia | 90 |
+| 8 | [sekhubede](https://github.com/sekhubede) | Michael Sekhubede | The Document Warehouse Namibia |  | Namibia | 91 |
 | 9 | [Ngazetungue](https://github.com/Ngazetungue) | Ngazetungue Muheue | LaLoka Labs | muheuenga | Windhoek, Namibia | 60 |
 | 10 | [WilhelmK109](https://github.com/WilhelmK109) | Wilhelm Naayole Kamulunga | Full-stack Developer |  | Windhoek, Namibia | 58 |
 | 11 | [aaron-muti-420](https://github.com/aaron-muti-420) | Aaron Markus | Zunda Inc |  | windhoek | 56 |

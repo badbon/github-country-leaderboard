@@ -1,6 +1,6 @@
 # Total Contributions - Mauritius
 
-Generated: 2026-10-18T09:28:21.338Z
+Generated: 2026-10-18T12:25:34.765Z
 
 Users: 714
 
@@ -10,9 +10,9 @@ Users: 714
 | 2 | [512banque](https://github.com/512banque) | Kevin Richard | SEObserver | 512banque | Mauritius | 7826 |
 | 3 | [borissedov](https://github.com/borissedov) | Boris Sedov |  |  | Tamarin, Mauritius | 7453 |
 | 4 | [andrashejj](https://github.com/andrashejj) | Andras Hejj |  | andrashejj | Mauritius | 6860 |
-| 5 | [cedpoilly](https://github.com/cedpoilly) | Cedric |  |  | Mauritius | 6613 |
-| 6 | [w1am](https://github.com/w1am) | William Chong | @kurrent-io |  | Mauritius | 6565 |
-| 7 | [wyxos](https://github.com/wyxos) | Wyxos |  |  | Mauritius | 6536 |
+| 5 | [wyxos](https://github.com/wyxos) | Wyxos |  |  | Mauritius | 6725 |
+| 6 | [cedpoilly](https://github.com/cedpoilly) | Cedric |  |  | Mauritius | 6613 |
+| 7 | [w1am](https://github.com/w1am) | William Chong | @kurrent-io |  | Mauritius | 6565 |
 | 8 | [Emmastro](https://github.com/Emmastro) | Emmanuel Bauma Murairi | ITverse |  | Mauritius | 5785 |
 | 9 | [MrSunshyne](https://github.com/MrSunshyne) | Sandeep Ramgolam | Livestorm | __sun__ | Mauritius | 5536 |
 | 10 | [masterdubs](https://github.com/masterdubs) | Dubs | @starkleytech | mast3rdubs | Mauritius | 5518 |

@@ -1,6 +1,6 @@
 # Total Contributions - Puerto Rico
 
-Generated: 2026-10-18T09:41:00.257Z
+Generated: 2026-10-18T12:35:45.792Z
 
 Users: 1532
 
@@ -21,8 +21,8 @@ Users: 1532
 | 13 | [brettheap](https://github.com/brettheap) | Brett Heap | Opensoft, Inc |  | Puerto Rico | 6739 |
 | 14 | [shawntabrizi](https://github.com/shawntabrizi) | Shawn Tabrizi | @paritytech  | shawntabrizi | Puerto Rico | 6569 |
 | 15 | [Wolfkid200444](https://github.com/Wolfkid200444) | Wolfie | @FutureDeveloperZ   | RealWolfkid | Puerto Rico | 6312 |
-| 16 | [egmtm](https://github.com/egmtm) | EGM™ |  | EGMDownloader | Puerto Rico | 5875 |
-| 17 | [torlanco](https://github.com/torlanco) | Francisco Tirado |  |  | San juan, Puerto Rico | 5843 |
-| 18 | [grpecunia](https://github.com/grpecunia) | Gustavo Rivera Pecunia | @grpecunia | grpecunia | San Juan, PR | 5795 |
-| 19 | [ChristianPerez34](https://github.com/ChristianPerez34) | Christian Perez Villanueva | @borkinc @videoutpl @t4future |  | Puerto Rico | 5790 |
-| 20 | [cfboy](https://github.com/cfboy) | Cristian F. Torres Collazo | CFT Services |  | San Juan, Puerto Rico | 5490 |
+| 16 | [cfboy](https://github.com/cfboy) | Cristian F. Torres Collazo | CFT Services |  | San Juan, Puerto Rico | 6086 |
+| 17 | [egmtm](https://github.com/egmtm) | EGM™ |  | EGMDownloader | Puerto Rico | 5875 |
+| 18 | [torlanco](https://github.com/torlanco) | Francisco Tirado |  |  | San juan, Puerto Rico | 5843 |
+| 19 | [grpecunia](https://github.com/grpecunia) | Gustavo Rivera Pecunia | @grpecunia | grpecunia | San Juan, PR | 5795 |
+| 20 | [ChristianPerez34](https://github.com/ChristianPerez34) | Christian Perez Villanueva | @borkinc @videoutpl @t4future |  | Puerto Rico | 5790 |
