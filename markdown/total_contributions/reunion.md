@@ -1,6 +1,6 @@
 # Total Contributions - Réunion
 
-Generated: 2026-10-18T15:28:43.595Z
+Generated: 2026-10-18T17:17:56.030Z
 
 Users: 212
 
@@ -17,12 +17,12 @@ Users: 212
 | 9 | [ralphi2811](https://github.com/ralphi2811) | Raphaël Auberlet | Nashi.cloud |  | Réunion Island | 2153 |
 | 10 | [Skiwa](https://github.com/Skiwa) | Julien Haegman |  |  | Saint-Denis, Réunion | 2070 |
 | 11 | [Gabouin](https://github.com/Gabouin) | Gabouin |  |  | Reunion Island | 2023 |
-| 12 | [lvothnrv](https://github.com/lvothnrv) | LvothNrv |  |  | Reunion Island | 2015 |
+| 12 | [lvothnrv](https://github.com/lvothnrv) | LvothNrv |  |  | Reunion Island | 2005 |
 | 13 | [John361](https://github.com/John361) | John |  |  | Réunion | 1987 |
 | 14 | [IamArayel](https://github.com/IamArayel) | Arayel |  |  | Reunion Island | 1779 |
 | 15 | [kevinturpin97](https://github.com/kevinturpin97) | RainMan | @EpitechWebAcademiePromo2023  |  | Reunion Island, France | 1762 |
 | 16 | [eldertek](https://github.com/eldertek) | André Théo LAURET |  |  | Reunion Island | 1752 |
-| 17 | [Nasjoe](https://github.com/Nasjoe) | Jonas TURBEAUX | Code Commun Coop |  | Réunion Island, Villeurbanne, Montpellier : France | 1713 |
+| 17 | [Nasjoe](https://github.com/Nasjoe) | Jonas TURBEAUX | Code Commun Coop |  | Réunion Island, Villeurbanne, Montpellier : France | 1719 |
 | 18 | [gfo974](https://github.com/gfo974) | Geoffrey Fournier  | @arribada  |  | Réunion Island | 1364 |
 | 19 | [arthur-girardin-calbe](https://github.com/arthur-girardin-calbe) | Arthur Girardin--Calbe |  |  | Réunion | 1296 |
 | 20 | [Robin-Lune](https://github.com/Robin-Lune) |  | La Forge Numérique | Robin_Lune | Réunion | 1159 |

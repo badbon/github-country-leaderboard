@@ -20,18 +20,18 @@ Indexed users: 111
 | 6 | [tom333](https://github.com/tom333) |  | Nouméa, New Calédonia | 1,477 |
 | 7 | [120dev](https://github.com/120dev) | 120 | NEW CALEDONIA | 1,468 |
 | 8 | [TooFuW](https://github.com/TooFuW) | Eyrian Muet | New- Caledonia | 1,443 |
-| 9 | [Julien-Fruteau](https://github.com/Julien-Fruteau) | Julien | New Caledonia | 1,217 |
-| 10 | [Dougniel](https://github.com/Dougniel) | Daniel Santos | New Caledonia | 1,200 |
-| 11 | [davidfevre-gouv-nc](https://github.com/davidfevre-gouv-nc) | David FEVRE | Nouméa, New Caledonia | 1,152 |
-| 12 | [bpouzet](https://github.com/bpouzet) | Benoît Pouzet | Nouméa, New Caledonia | 938 |
-| 13 | [lschaeffer313](https://github.com/lschaeffer313) | Laurent Schaeffer | New-Caledonia | 751 |
-| 14 | [gvdr](https://github.com/gvdr) | Giulio Valentino Dalla Riva | Noumea, New Caledonia | 734 |
-| 15 | [aNaoy](https://github.com/aNaoy) | Yoan Agostini | Nouméa | 718 |
-| 16 | [FreddieJH](https://github.com/FreddieJH) | Freddie J. Heather | Noumea, New Caledonia | 656 |
-| 17 | [ellisp](https://github.com/ellisp) | Peter Ellis | Nouméa, Nouvelle-Calédonie | 626 |
-| 18 | [darwiin](https://github.com/darwiin) | Christophe ROGER | New Caledonia | 513 |
-| 19 | [BJ-Cochrane](https://github.com/BJ-Cochrane) | Ben Cochrane | Nouméa | 481 |
-| 20 | [PLStenger](https://github.com/PLStenger) | Pierre-Louis Stenger | Nouméa, New-Caledonia | 437 |
+| 9 | [melvind94](https://github.com/melvind94) | Melvin Deplanque | Nouméa, New Caledonia | 1,235 |
+| 10 | [Julien-Fruteau](https://github.com/Julien-Fruteau) | Julien | New Caledonia | 1,217 |
+| 11 | [Dougniel](https://github.com/Dougniel) | Daniel Santos | New Caledonia | 1,200 |
+| 12 | [davidfevre-gouv-nc](https://github.com/davidfevre-gouv-nc) | David FEVRE | Nouméa, New Caledonia | 1,152 |
+| 13 | [bpouzet](https://github.com/bpouzet) | Benoît Pouzet | Nouméa, New Caledonia | 938 |
+| 14 | [lschaeffer313](https://github.com/lschaeffer313) | Laurent Schaeffer | New-Caledonia | 751 |
+| 15 | [gvdr](https://github.com/gvdr) | Giulio Valentino Dalla Riva | Noumea, New Caledonia | 734 |
+| 16 | [aNaoy](https://github.com/aNaoy) | Yoan Agostini | Nouméa | 718 |
+| 17 | [FreddieJH](https://github.com/FreddieJH) | Freddie J. Heather | Noumea, New Caledonia | 656 |
+| 18 | [ellisp](https://github.com/ellisp) | Peter Ellis | Nouméa, Nouvelle-Calédonie | 626 |
+| 19 | [darwiin](https://github.com/darwiin) | Christophe ROGER | New Caledonia | 513 |
+| 20 | [BJ-Cochrane](https://github.com/BJ-Cochrane) | Ben Cochrane | Nouméa | 481 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 111
 | 19 | [gronono](https://github.com/gronono) | Arnaud | New Caledonia | 9 |
 | 20 | [6pheR](https://github.com/6pheR) | CipheR_ | New Caledonia | 8 |
 
-Generated: 2026-10-18T15:19:31.868Z
+Generated: 2026-10-18T17:09:33.500Z
