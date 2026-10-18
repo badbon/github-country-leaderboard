@@ -33188,7 +33188,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2019-02-22T19:32:14Z"
   },
   {
@@ -33230,13 +33230,13 @@
   {
     "login": "drcarfrei",
     "name": "Carlos Freiermuth",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/47226181?s=72&u=6344f6aa8951e3ffbbb6a71bdca67ae054a76e9c&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/47226181?s=72&u=ad3639389640943754649d6e3b10b5f2e8ddeaa0&v=4",
     "location": "Ecuador",
-    "company": "",
+    "company": "@Freiermuth-Solutions ",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 867,
-    "publicContributions": 105,
+    "followers": 3,
+    "privateContributions": 1058,
+    "publicContributions": 120,
     "createdAt": "2019-01-31T19:49:03Z"
   },
   {
@@ -33258,7 +33258,7 @@
     "location": "Guayaquil, Ecuador",
     "company": "",
     "twitterUsername": "oscarax3",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 3,
     "publicContributions": 0,
     "createdAt": "2019-01-05T01:28:05Z"
@@ -33282,8 +33282,8 @@
     "location": "El Oro, Ecuador",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 172,
+    "followers": 3,
+    "privateContributions": 1005,
     "publicContributions": 0,
     "createdAt": "2019-11-12T22:40:56Z"
   },
@@ -33296,7 +33296,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 4,
     "createdAt": "2019-06-26T14:49:44Z"
   },
   {
@@ -33308,7 +33308,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 6,
     "createdAt": "2019-06-22T03:06:18Z"
   },
   {
@@ -33318,8 +33318,8 @@
     "location": "Quito, Ecuador",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 300,
+    "followers": 3,
+    "privateContributions": 327,
     "publicContributions": 0,
     "createdAt": "2019-05-27T17:16:01Z"
   },
@@ -33331,8 +33331,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 100,
-    "publicContributions": 0,
+    "privateContributions": 54,
+    "publicContributions": 1,
     "createdAt": "2019-01-10T18:44:05Z"
   },
   {
@@ -33343,7 +33343,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 12,
+    "privateContributions": 10,
     "publicContributions": 0,
     "createdAt": "2019-07-31T21:44:37Z"
   },
@@ -33356,7 +33356,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 27,
     "createdAt": "2019-07-03T14:23:53Z"
   },
   {
@@ -33368,7 +33368,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 30,
     "createdAt": "2019-06-05T13:31:44Z"
   },
   {
@@ -33394,18 +33394,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-11-28T14:44:32Z"
-  },
-  {
-    "login": "georgeisamazed",
-    "name": "George Arce",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/51139370?s=72&u=9eea361d91877631155d25356ba1753218e219ad&v=4",
-    "location": "Ecuador",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2019-05-28T22:24:20Z"
   },
   {
     "login": "Parodi14",

@@ -33332,7 +33332,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 24,
     "createdAt": "2019-08-02T00:36:01Z"
   },
   {
@@ -33416,7 +33416,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 40,
+    "publicContributions": 30,
     "createdAt": "2019-02-20T22:18:48Z"
   },
   {
@@ -33522,7 +33522,7 @@
     "location": "Costa Rica",
     "company": "Infotech",
     "twitterUsername": "infotechcr",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-02-19T04:21:08Z"
@@ -33530,13 +33530,13 @@
   {
     "login": "alejandrolm96",
     "name": "Alejandro López Marín",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/48534329?s=72&u=5aa26f8953b60a9604768ada1b43f4f2ee1f623b&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/48534329?s=72&u=a67261280296bee9e1a6ca7392ba1015105482dc&v=4",
     "location": "Costa Rica",
     "company": "Cargill",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 14,
     "createdAt": "2019-03-13T21:42:18Z"
   },
   {
@@ -33547,8 +33547,8 @@
     "company": "Frreelancer",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 113,
-    "publicContributions": 81,
+    "privateContributions": 29,
+    "publicContributions": 8,
     "createdAt": "2019-09-28T13:03:26Z"
   },
   {

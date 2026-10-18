@@ -917494,5 +917494,29 @@
     "privateContributions": 3,
     "publicContributions": 17,
     "createdAt": "2020-01-30T12:02:52Z"
+  },
+  {
+    "login": "eyaguerdelly140",
+    "name": "Eya Guerdelly",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/114705233?s=72&u=0d6dc9c20ffb07e91bb1f855d39b5caf9746270f&v=4",
+    "location": "Barcelone, spain",
+    "company": "cien.ai",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2022-09-29T22:56:14Z"
+  },
+  {
+    "login": "SuisSanem000",
+    "name": "Simin Shoeibi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/19772789?s=72&u=bb771db6435bc706d75df48cbbc597873173cb34&v=4",
+    "location": "Barcelona, Spain",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 10,
+    "publicContributions": 112,
+    "createdAt": "2016-06-06T07:43:41Z"
   }
 ]

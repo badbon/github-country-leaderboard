@@ -32610,7 +32610,7 @@
     "location": "Tlemcen, Algeria",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-11-10T14:04:43Z"
@@ -32623,7 +32623,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 174,
+    "privateContributions": 153,
     "publicContributions": 14,
     "createdAt": "2021-07-23T10:33:56Z"
   },
@@ -32634,8 +32634,8 @@
     "location": "Algeria, Algiers, Hydra",
     "company": "High Commission for Digitalization - HCN",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 7,
+    "followers": 8,
+    "privateContributions": 2,
     "publicContributions": 6,
     "createdAt": "2021-01-12T17:33:22Z"
   },
@@ -32659,8 +32659,8 @@
     "company": "Bit",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 190,
-    "publicContributions": 4,
+    "privateContributions": 394,
+    "publicContributions": 7,
     "createdAt": "2021-03-14T20:37:03Z"
   },
   {
@@ -32671,8 +32671,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 189,
-    "publicContributions": 23,
+    "privateContributions": 192,
+    "publicContributions": 21,
     "createdAt": "2021-03-03T12:18:15Z"
   },
   {
@@ -32682,7 +32682,7 @@
     "location": "Algeria, Oran.",
     "company": "Cloudfuse INC.",
     "twitterUsername": "algerization",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 7,
     "createdAt": "2021-11-09T20:35:44Z"
@@ -32719,7 +32719,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 130,
+    "privateContributions": 93,
     "publicContributions": 5,
     "createdAt": "2021-04-20T11:26:19Z"
   },
@@ -32748,30 +32748,6 @@
     "createdAt": "2021-10-28T20:28:23Z"
   },
   {
-    "login": "NadirZamouche",
-    "name": "Nadir Zamouche",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/95188070?s=72&u=3ee673a072c6f055c640a4f62793310efe0f71df&v=4",
-    "location": "Algiers, Algeria",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 253,
-    "createdAt": "2021-11-28T19:47:28Z"
-  },
-  {
-    "login": "xavihachem",
-    "name": "Ciro Hachem",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/78273368?s=72&u=14249574f29e916da1879fae741ffa35ce32d20b&v=4",
-    "location": "Algeria",
-    "company": "Thodz",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 48,
-    "publicContributions": 222,
-    "createdAt": "2021-01-30T17:43:02Z"
-  },
-  {
     "login": "Islamroubache",
     "name": "ROUBACHE Islam",
     "avatarUrl": "https://avatars.githubusercontent.com/u/88188000?s=72&u=a00b9c13911a7e7f4c190b8d2bdc74c12fb4abca&v=4",
@@ -32780,7 +32756,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 45,
+    "publicContributions": 9,
     "createdAt": "2021-07-30T09:31:23Z"
   },
   {
@@ -32804,7 +32780,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2021-04-15T14:07:44Z"
   },
   {

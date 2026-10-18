@@ -32863,8 +32863,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 15,
-    "privateContributions": 1105,
-    "publicContributions": 507,
+    "privateContributions": 898,
+    "publicContributions": 396,
     "createdAt": "2019-02-26T12:53:13Z"
   },
   {
@@ -32875,8 +32875,8 @@
     "company": "@pentoai",
     "twitterUsername": "",
     "followers": 14,
-    "privateContributions": 4487,
-    "publicContributions": 60,
+    "privateContributions": 7442,
+    "publicContributions": 50,
     "createdAt": "2019-10-25T12:48:46Z"
   },
   {
@@ -32886,9 +32886,9 @@
     "location": "Uruguay",
     "company": "Everpass Media",
     "twitterUsername": "",
-    "followers": 14,
-    "privateContributions": 375,
-    "publicContributions": 537,
+    "followers": 24,
+    "privateContributions": 366,
+    "publicContributions": 1510,
     "createdAt": "2019-03-13T23:36:28Z"
   },
   {
@@ -32911,20 +32911,20 @@
     "company": "Booveware",
     "twitterUsername": "pacogonber",
     "followers": 14,
-    "privateContributions": 592,
+    "privateContributions": 501,
     "publicContributions": 0,
     "createdAt": "2019-04-12T17:28:21Z"
   },
   {
     "login": "andres-vidal",
     "name": "Andrés Vidal",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/54192868?s=72&u=f5051b5bbeb4f1dffb7e16b03b1a2a168113d476&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/54192868?s=72&u=1b0bfe1ff9537bff6390bce625c2de5c00487efa&v=4",
     "location": "Montevideo, Uruguay",
     "company": "WyeWorks",
     "twitterUsername": "",
     "followers": 14,
-    "privateContributions": 178,
-    "publicContributions": 1117,
+    "privateContributions": 197,
+    "publicContributions": 1598,
     "createdAt": "2019-08-16T23:51:13Z"
   },
   {
@@ -32934,9 +32934,9 @@
     "location": "Uruguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 14,
-    "privateContributions": 2321,
-    "publicContributions": 72,
+    "followers": 15,
+    "privateContributions": 2163,
+    "publicContributions": 89,
     "createdAt": "2019-02-13T18:43:23Z"
   },
   {
@@ -32946,9 +32946,9 @@
     "location": "Montevideo, Uruguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 13,
-    "privateContributions": 246,
-    "publicContributions": 7,
+    "followers": 12,
+    "privateContributions": 214,
+    "publicContributions": 6,
     "createdAt": "2019-06-06T15:29:05Z"
   },
   {
@@ -32970,9 +32970,9 @@
     "location": "Uruguay",
     "company": "Shellix / CheckLeaked.cc",
     "twitterUsername": "",
-    "followers": 13,
+    "followers": 18,
     "privateContributions": 0,
-    "publicContributions": 2284,
+    "publicContributions": 3797,
     "createdAt": "2019-04-25T01:01:09Z"
   },
   {
@@ -32983,8 +32983,8 @@
     "company": "eagerWorks",
     "twitterUsername": "",
     "followers": 13,
-    "privateContributions": 1515,
-    "publicContributions": 34,
+    "privateContributions": 1651,
+    "publicContributions": 4,
     "createdAt": "2019-12-06T13:27:49Z"
   },
   {
@@ -33006,9 +33006,9 @@
     "location": "Mercedes, Uruguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 1208,
-    "publicContributions": 125,
+    "followers": 10,
+    "privateContributions": 1720,
+    "publicContributions": 149,
     "createdAt": "2019-05-06T22:51:54Z"
   },
   {
@@ -33018,9 +33018,9 @@
     "location": "Uruguay",
     "company": "@Pydantic",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 1554,
-    "publicContributions": 553,
+    "followers": 14,
+    "privateContributions": 2066,
+    "publicContributions": 808,
     "createdAt": "2019-07-01T14:39:22Z"
   },
   {
@@ -33031,8 +33031,8 @@
     "company": "@wyeworks",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 3765,
-    "publicContributions": 2,
+    "privateContributions": 4535,
+    "publicContributions": 10,
     "createdAt": "2019-07-29T18:10:39Z"
   },
   {
@@ -33042,8 +33042,8 @@
     "location": "Uruguay",
     "company": "scalablesolutions.io",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 122,
+    "followers": 11,
+    "privateContributions": 513,
     "publicContributions": 0,
     "createdAt": "2019-04-03T13:12:12Z"
   },
@@ -33054,9 +33054,9 @@
     "location": "Montevideo, Uruguay",
     "company": "@eagerworks ",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 981,
-    "publicContributions": 2,
+    "followers": 13,
+    "privateContributions": 1108,
+    "publicContributions": 74,
     "createdAt": "2019-08-15T23:23:19Z"
   },
   {
@@ -33066,7 +33066,7 @@
     "location": "Uruguay",
     "company": "@AlphaLabsUY ",
     "twitterUsername": "n_fornasari",
-    "followers": 12,
+    "followers": 10,
     "privateContributions": 7,
     "publicContributions": 3,
     "createdAt": "2019-11-02T23:21:22Z"
@@ -33079,8 +33079,8 @@
     "company": "@nofrixion ",
     "twitterUsername": "publicker",
     "followers": 12,
-    "privateContributions": 1339,
-    "publicContributions": 59,
+    "privateContributions": 1285,
+    "publicContributions": 58,
     "createdAt": "2019-07-08T17:28:46Z"
   },
   {

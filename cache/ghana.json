@@ -33116,7 +33116,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 22,
     "createdAt": "2022-01-30T20:06:27Z"
   },
   {
@@ -33128,7 +33128,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 51,
+    "publicContributions": 77,
     "createdAt": "2022-04-21T02:22:09Z"
   },
   {
@@ -33140,20 +33140,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 50,
+    "publicContributions": 37,
     "createdAt": "2022-08-12T10:55:27Z"
-  },
-  {
-    "login": "ekafui07",
-    "name": "EDWIN K. GLIGAH",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/112875184?s=72&v=4",
-    "location": "Accra Ghana",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 27,
-    "publicContributions": 80,
-    "createdAt": "2022-09-05T12:55:46Z"
   },
   {
     "login": "snrman1",
@@ -33164,7 +33152,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 30,
     "createdAt": "2022-07-12T14:11:00Z"
   },
   {
@@ -33200,7 +33188,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 0,
     "createdAt": "2022-03-19T15:36:25Z"
   },
   {
@@ -33234,9 +33222,9 @@
     "location": "Tamale, Ghana",
     "company": "Ghana Police Service",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 121,
+    "publicContributions": 157,
     "createdAt": "2022-03-11T17:34:41Z"
   },
   {
@@ -33259,8 +33247,8 @@
     "company": "Softmasters company Ltd.",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 8,
-    "publicContributions": 45,
+    "privateContributions": 9,
+    "publicContributions": 20,
     "createdAt": "2022-11-02T11:23:07Z"
   },
   {

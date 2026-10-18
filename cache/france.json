@@ -702402,7 +702402,7 @@
     "location": "New York London Paris Hoorn",
     "company": "",
     "twitterUsername": "",
-    "followers": 63,
+    "followers": 65,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-02-10T20:11:21Z"
@@ -1053682,5 +1053682,17 @@
     "privateContributions": 26,
     "publicContributions": 0,
     "createdAt": "2023-02-22T14:46:11Z"
+  },
+  {
+    "login": "PeindreLaColline",
+    "name": "Chaewon KIM",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/158552381?s=72&u=f8f511949c88061e0592450f25cef09d06ca438c&v=4",
+    "location": "Paris, France",
+    "company": "@EPITA",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 175,
+    "createdAt": "2024-02-02T07:03:11Z"
   }
 ]
