@@ -66,14 +66,14 @@ Indexed users: 4,008
 | 2 | [ShadowHackrs](https://github.com/ShadowHackrs) | Shadow Hacker | jordan | 1,126 |
 | 3 | [enghamzasalem](https://github.com/enghamzasalem) | Hamza Salem | Amman Jordan / Innopolis Russia  | 924 |
 | 4 | [Asaqa988](https://github.com/Asaqa988) | Abedalraheem | Amman, Amman Governorate, Jordan | 737 |
-| 5 | [Adel-Nasim](https://github.com/Adel-Nasim) | Adel Nasim Adel Suleiman | Amman - Jordan | 712 |
+| 5 | [Adel-Nasim](https://github.com/Adel-Nasim) | Adel Nasim Adel Suleiman | Amman - Jordan | 715 |
 | 6 | [tjoudeh](https://github.com/tjoudeh) | Taiseer Joudeh | Jordan-Amman | 689 |
 | 7 | [MohammadYounes](https://github.com/MohammadYounes) | Mohammad Younes | Jordan | 629 |
 | 8 | [abuaboud](https://github.com/abuaboud) | Mo AbuAboud | Amman, Jordan | 501 |
 | 9 | [Natshah](https://github.com/Natshah) | Rajab Natshah | Amman, Jordan | 469 |
 | 10 | [jaberjaber23](https://github.com/jaberjaber23) | Jaber Jaber | Amman, Jordan | 456 |
 | 11 | [AliOsm](https://github.com/AliOsm) | Ali Hamdi Ali Fadel | Amman - Jordan | 427 |
-| 12 | [NSAntoine](https://github.com/NSAntoine) | NSAntoine | Amman, Jordan | 386 |
+| 12 | [NSAntoine](https://github.com/NSAntoine) | NSAntoine | Amman, Jordan | 389 |
 | 13 | [OmarSalhab](https://github.com/OmarSalhab) | Omar Marouf | Jordan | 372 |
 | 14 | [nancyalaswad90](https://github.com/nancyalaswad90) | Ms. Nancy Al Aswad  | Jordan | 328 |
 | 15 | [Hamza-Abdulrahman](https://github.com/Hamza-Abdulrahman) | Hamza Abdulrahman | Jordan,Amman | 299 |
@@ -83,4 +83,4 @@ Indexed users: 4,008
 | 19 | [Eng-Mohamed-Elsayed](https://github.com/Eng-Mohamed-Elsayed) | Eng-Mohamed Elsayed | Jordan | 197 |
 | 20 | [omar-dulaimi](https://github.com/omar-dulaimi) | Omar Dulaimi | Jordan | 192 |
 
-Generated: 2026-10-18T15:00:41.054Z
+Generated: 2026-10-18T16:31:14.687Z

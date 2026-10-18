@@ -30,8 +30,8 @@ Indexed users: 3,215
 | 16 | [capuche777](https://github.com/capuche777) | Jeremias Enriquez | Guatemala | 5,602 |
 | 17 | [damianpeaf](https://github.com/damianpeaf) | Damián Peña | Guatemala | 5,493 |
 | 18 | [jrodas4044](https://github.com/jrodas4044) | Jonhathan Rolando Rodas López | Chimaltenango/Guatemala | 5,446 |
-| 19 | [fcpauldiaz](https://github.com/fcpauldiaz) | Pablo Díaz | Guatemala | 5,250 |
-| 20 | [pcordon](https://github.com/pcordon) | Pablo Cordon | Guatemala | 5,061 |
+| 19 | [arojasjg](https://github.com/arojasjg) | Jose Rojas | Guatemala | 5,373 |
+| 20 | [fcpauldiaz](https://github.com/fcpauldiaz) | Pablo Díaz | Guatemala | 5,250 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 3,215
 | 19 | [cms](https://github.com/cms) | Christian C. Salvadó | Guatemala | 117 |
 | 20 | [tian2992](https://github.com/tian2992) | Sebastian Oliva | Guatemala | 114 |
 
-Generated: 2026-10-18T14:55:00.421Z
+Generated: 2026-10-18T16:21:33.767Z

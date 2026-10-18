@@ -1,6 +1,6 @@
 # Total Contributions - Guyana
 
-Generated: 2026-10-18T14:55:12.910Z
+Generated: 2026-10-18T16:25:15.109Z
 
 Users: 186
 
@@ -12,11 +12,11 @@ Users: 186
 | 4 | [rayonhunte](https://github.com/rayonhunte) | Rayon Hunte | RASH |  | Georgetown Guyana | 4515 |
 | 5 | [barnwell](https://github.com/barnwell) | Jason Barnwell |  |  | Guyana | 4428 |
 | 6 | [ktappdev](https://github.com/ktappdev) | Ken Andrew Taylor | LugeTech, Brutal Tracks Recording Studio, Maad 97.5 FM | ktappdev | Guyana | 4074 |
-| 7 | [uberhacker](https://github.com/uberhacker) | Ed Reel | Mobile Strategies LLC |  | Georgetown, TX | 3953 |
+| 7 | [uberhacker](https://github.com/uberhacker) | Ed Reel | Mobile Strategies LLC |  | Georgetown, TX | 3954 |
 | 8 | [pachev](https://github.com/pachev) | Pachev Joseph |  |  | Georgetown, TX | 3914 |
 | 9 | [beckettharriman](https://github.com/beckettharriman) | Beckett Harriman | Georgetown University |  | Georgetown, DC | 3504 |
 | 10 | [jonathansharman](https://github.com/jonathansharman) | Jonathan Sharman |  |  | Georgetown, DE | 3273 |
-| 11 | [negz](https://github.com/negz) | Nic Cope | @upbound  | internegz | Georgetown, Seattle | 3000 |
+| 11 | [negz](https://github.com/negz) | Nic Cope | @upbound  | internegz | Georgetown, Seattle | 2997 |
 | 12 | [JohnnyMcGee](https://github.com/JohnnyMcGee) | Johnny McGee |  |  | Georgetown, TX | 2242 |
 | 13 | [jzills](https://github.com/jzills) | Joshua Zillwood |  |  | Georgetown, TX | 1909 |
 | 14 | [codedbychavez](https://github.com/codedbychavez) | Chavez Harris | @configcat |  | Guyana | 1583 |

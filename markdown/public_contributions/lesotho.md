@@ -1,14 +1,14 @@
 # Public Contributions - Lesotho
 
-Generated: 2026-10-18T15:06:23.355Z
+Generated: 2026-10-18T16:33:07.400Z
 
 Users: 160
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [ntholi](https://github.com/ntholi) | Ntholi Nkhatho | Limkokwing University | ntholi | Maseru | 416 |
-| 2 | [LNkholise](https://github.com/LNkholise) | Leonard Nkholise | Phytely Pty Ltd |  | Maseru, Lesotho | 309 |
-| 3 | [Matela-cyber](https://github.com/Matela-cyber) | Vicent Matela |  |  | Lesotho | 309 |
+| 2 | [Matela-cyber](https://github.com/Matela-cyber) | Vicent Matela |  |  | Lesotho | 311 |
+| 3 | [LNkholise](https://github.com/LNkholise) | Leonard Nkholise | Phytely Pty Ltd |  | Maseru, Lesotho | 309 |
 | 4 | [tefol-hub](https://github.com/tefol-hub) | Tefo Leche |  | tefoLec | Lesotho | 238 |
 | 5 | [Thato-Motseki](https://github.com/Thato-Motseki) | Thato Motseki |  |  | Lesotho, Maseru | 209 |
 | 6 | [dev-penniel](https://github.com/dev-penniel) | Penniel Mothae | Zeeecom Technologies  |  | Lesotho, maseru | 187 |

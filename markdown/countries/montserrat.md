@@ -14,7 +14,7 @@ Indexed users: 291
 |---:|---|---|---|---:|
 | 1 | [dotslashderek](https://github.com/dotslashderek) | Derek Thompson | Plymouth, MI | 14,559 |
 | 2 | [BuckinghamIO](https://github.com/BuckinghamIO) | Sam Buckingham | Plymouth, Devon | 8,758 |
-| 3 | [flaviocfneto](https://github.com/flaviocfneto) | Flávio Neto | Plymouth | 6,934 |
+| 3 | [flaviocfneto](https://github.com/flaviocfneto) | Flávio Neto | Plymouth | 7,002 |
 | 4 | [dvmrry](https://github.com/dvmrry) | Dave Murray | Plymouth Meeting, Pennsylvania | 4,070 |
 | 5 | [Aloogy](https://github.com/Aloogy) | Alex Cottenham | Plymouth, GB. | 4,026 |
 | 6 | [albemontors](https://github.com/albemontors) | Alberto Montorsi | Plymouth | 3,853 |
@@ -51,7 +51,7 @@ Indexed users: 291
 | 12 | [tjrandall](https://github.com/tjrandall) | T.j. Randall | Plymouth, MA | 348 |
 | 13 | [lucafrancesc](https://github.com/lucafrancesc) | Luca Francesco Eto | Plymouth | 344 |
 | 14 | [vivekbiju](https://github.com/vivekbiju) | Vivek Biju | Plymouth | 321 |
-| 15 | [scollinspt](https://github.com/scollinspt) | Sean Collins | Plymouth, NH | 287 |
+| 15 | [scollinspt](https://github.com/scollinspt) | Sean Collins | Plymouth, NH | 290 |
 | 16 | [gingeapple182](https://github.com/gingeapple182) | Oliver | Plymouth | 278 |
 | 17 | [leeper48](https://github.com/leeper48) | Kurt Jordan | Plymouth, MA | 260 |
 | 18 | [JacobMalin](https://github.com/JacobMalin) | Jacob Malin | Plymouth, MN | 225 |
@@ -83,4 +83,4 @@ Indexed users: 291
 | 19 | [binarytide](https://github.com/binarytide) | John McAndrews | Plymouth, Ma | 21 |
 | 20 | [BeresIvan](https://github.com/BeresIvan) |  | Plymouth, MN | 20 |
 
-Generated: 2026-10-18T15:15:55.682Z
+Generated: 2026-10-18T16:42:20.842Z

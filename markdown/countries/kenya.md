@@ -1,6 +1,6 @@
 # Kenya
 
-Indexed users: 24,018
+Indexed users: 24,016
 
 | Leaderboard | Link |
 |---|---|
@@ -31,7 +31,7 @@ Indexed users: 24,018
 | 17 | [NexusGKSoftwares](https://github.com/NexusGKSoftwares) | Eng. Gideon Bett | Nairobi Kenya  | 18,089 |
 | 18 | [mikeyhodl](https://github.com/mikeyhodl) | mikey | Kenya | 18,025 |
 | 19 | [erickwasambo](https://github.com/erickwasambo) | Erick Wasambo | Nairobi, Kenya | 17,892 |
-| 20 | [salvatoluis](https://github.com/salvatoluis) | Salvato | Nairobi, Kenya | 16,113 |
+| 20 | [Stanley-blik](https://github.com/Stanley-blik) | Stanl3y | Nairobi, Kenya. | 16,423 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 24,018
 | 19 | [Lincoln-Madaraka](https://github.com/Lincoln-Madaraka) | lincoln | Nairobi and Worldwide  | 1,320 |
 | 20 | [danielmuthama](https://github.com/danielmuthama) | Daniel Muthama | Nairobi, Kenya | 1,289 |
 
-Generated: 2026-10-18T15:02:33.456Z
+Generated: 2026-10-18T16:32:20.039Z

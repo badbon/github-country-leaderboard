@@ -1,6 +1,6 @@
 # Total Contributions - Kuwait
 
-Generated: 2026-10-18T15:04:17.696Z
+Generated: 2026-10-18T16:32:26.491Z
 
 Users: 797
 
@@ -13,8 +13,8 @@ Users: 797
 | 5 | [uusa35](https://github.com/uusa35) | Usama.Ahmed | 965 65772444 |  | kuwait | 6384 |
 | 6 | [drhema](https://github.com/drhema) | Ibrahim Elsherbiny | Ibrahim |  | Kuwait | 6179 |
 | 7 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Dsrpt. | AbdulkaderSafi | Kuwait | 5645 |
-| 8 | [bigboss97lnt](https://github.com/bigboss97lnt) | Nasser Tahan | Yuehlia | bigboss97lnt | Kuwait | 5282 |
-| 9 | [saskw2010](https://github.com/saskw2010) | Mostafa Elnagar | wytSKY Clouding Solutions | wyt_sky | kuwait | 5239 |
+| 8 | [saskw2010](https://github.com/saskw2010) | Mostafa Elnagar | wytSKY Clouding Solutions | wyt_sky | kuwait | 5239 |
+| 9 | [bigboss97lnt](https://github.com/bigboss97lnt) | Nasser Tahan | Yuehlia | bigboss97lnt | Kuwait | 5221 |
 | 10 | [Mubder](https://github.com/Mubder) | Mubder Alfaris | KazmaAI | b_alfaris | Kuwait | 4586 |
 | 11 | [azikar24](https://github.com/azikar24) | Abdulaziz Karam |  |  | Kuwait | 4407 |
 | 12 | [knro](https://github.com/knro) | Jasem Mutlaq |  |  | Kuwait | 4140 |

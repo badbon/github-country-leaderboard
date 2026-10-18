@@ -1,22 +1,22 @@
 # Public Contributions - Guyana
 
-Generated: 2026-10-18T14:55:12.910Z
+Generated: 2026-10-18T16:25:15.109Z
 
 Users: 186
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [FlyOverCoderKY](https://github.com/FlyOverCoderKY) | Fly Over Coder |  |  | Georgetown, KY | 4111 |
-| 2 | [uberhacker](https://github.com/uberhacker) | Ed Reel | Mobile Strategies LLC |  | Georgetown, TX | 3952 |
+| 2 | [uberhacker](https://github.com/uberhacker) | Ed Reel | Mobile Strategies LLC |  | Georgetown, TX | 3953 |
 | 3 | [bdenham](https://github.com/bdenham) | Bruce Denham | @adobe |  | Georgetown, Texas | 3393 |
-| 4 | [negz](https://github.com/negz) | Nic Cope | @upbound  | internegz | Georgetown, Seattle | 1858 |
+| 4 | [negz](https://github.com/negz) | Nic Cope | @upbound  | internegz | Georgetown, Seattle | 1855 |
 | 5 | [jzills](https://github.com/jzills) | Joshua Zillwood |  |  | Georgetown, TX | 1758 |
 | 6 | [ktappdev](https://github.com/ktappdev) | Ken Andrew Taylor | LugeTech, Brutal Tracks Recording Studio, Maad 97.5 FM | ktappdev | Guyana | 1522 |
 | 7 | [rjvaleo](https://github.com/rjvaleo) | transelectronic |  |  | Georgetown, Colorado | 1451 |
 | 8 | [sandogeorge](https://github.com/sandogeorge) | Sando George | Vorso Computing, Inc. | sandogee | Guyana, South America | 1332 |
 | 9 | [kathigg](https://github.com/kathigg) | Kathleen Higgins | Johns Hopkins Applied Physics Lab |  | Georgetown University | 750 |
 | 10 | [blackMastery](https://github.com/blackMastery) | kevon Cadogan | v75inc |  | Guyana | 662 |
-| 11 | [xwings](https://github.com/xwings) | xwings | Qiling Framework | onlyxwings | Georgetown, Penang | 489 |
+| 11 | [xwings](https://github.com/xwings) | xwings | Qiling Framework | onlyxwings | Georgetown, Penang | 488 |
 | 12 | [xbze3](https://github.com/xbze3) | Ezra Minty | @MintLeaf-Tech  |  | Guyana | 480 |
 | 13 | [aG00Dtime](https://github.com/aG00Dtime) | David Henry |  |  | Guyana | 329 |
 | 14 | [ryanrhanson](https://github.com/ryanrhanson) | Ryan Hanson | Doppler |  | Georgetown, TX | 324 |

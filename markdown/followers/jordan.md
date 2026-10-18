@@ -1,6 +1,6 @@
 # Followers - Jordan
 
-Generated: 2026-10-18T15:00:41.054Z
+Generated: 2026-10-18T16:31:14.687Z
 
 Users: 4008
 
@@ -10,14 +10,14 @@ Users: 4008
 | 2 | [ShadowHackrs](https://github.com/ShadowHackrs) | Shadow Hacker | Shadow Hacker | ShadowHackrs | jordan | 1126 |
 | 3 | [enghamzasalem](https://github.com/enghamzasalem) | Hamza Salem | I can do push-up on One Arm 3 fingers | enghamzasalem | Amman Jordan / Innopolis Russia  | 924 |
 | 4 | [Asaqa988](https://github.com/Asaqa988) | Abedalraheem | international arab islamic bank |  | Amman, Amman Governorate, Jordan | 737 |
-| 5 | [Adel-Nasim](https://github.com/Adel-Nasim) | Adel Nasim Adel Suleiman |  |  | Amman - Jordan | 712 |
+| 5 | [Adel-Nasim](https://github.com/Adel-Nasim) | Adel Nasim Adel Suleiman |  |  | Amman - Jordan | 715 |
 | 6 | [tjoudeh](https://github.com/tjoudeh) | Taiseer Joudeh | Microsoft | tjoudeh | Jordan-Amman | 689 |
 | 7 | [MohammadYounes](https://github.com/MohammadYounes) | Mohammad Younes |  |  | Jordan | 629 |
 | 8 | [abuaboud](https://github.com/abuaboud) | Mo AbuAboud | @activepieces  | mabuaboud | Amman, Jordan | 501 |
 | 9 | [Natshah](https://github.com/Natshah) | Rajab Natshah | @Vardot  |  | Amman, Jordan | 469 |
 | 10 | [jaberjaber23](https://github.com/jaberjaber23) | Jaber Jaber | RightNow AI | Akashi203 | Amman, Jordan | 456 |
 | 11 | [AliOsm](https://github.com/AliOsm) | Ali Hamdi Ali Fadel | MilkStraw AI | alihfadel | Amman - Jordan | 427 |
-| 12 | [NSAntoine](https://github.com/NSAntoine) | NSAntoine |  |  | Amman, Jordan | 386 |
+| 12 | [NSAntoine](https://github.com/NSAntoine) | NSAntoine |  |  | Amman, Jordan | 389 |
 | 13 | [OmarSalhab](https://github.com/OmarSalhab) | Omar Marouf |  | MoonWebsDev | Jordan | 372 |
 | 14 | [nancyalaswad90](https://github.com/nancyalaswad90) | Ms. Nancy Al Aswad  | Independent Contractor  | AswadNancy | Jordan | 328 |
 | 15 | [Hamza-Abdulrahman](https://github.com/Hamza-Abdulrahman) | Hamza Abdulrahman |  | R1DDIF | Jordan,Amman | 299 |

@@ -26,7 +26,7 @@ Indexed users: 700
 | 12 | [stany-bns](https://github.com/stany-bns) | Stany Bibwangu | Kinshasa, DRC | 5,756 |
 | 13 | [kalemadaniel](https://github.com/kalemadaniel) | Kalema Daniel Jonathan | Democratic Republic of the Congo, Goma | 5,749 |
 | 14 | [bilwifi](https://github.com/bilwifi) | Peniel DIALUNDAMA | Kinshasa, DRC | 5,652 |
-| 15 | [danielrubango](https://github.com/danielrubango) | Daniel RUBANGO | Kinshasa | 5,199 |
+| 15 | [danielrubango](https://github.com/danielrubango) | Daniel RUBANGO | Kinshasa | 5,264 |
 | 16 | [hktom](https://github.com/hktom) | Tom Hikari | Congo Kinshasa | 5,113 |
 | 17 | [AlbusDigi](https://github.com/AlbusDigi) | Albus | Kinshasa | 4,822 |
 | 18 | [pacomeissa](https://github.com/pacomeissa) | PACOME ISSA | Democratic Republic of Congo | 4,819 |
@@ -55,7 +55,7 @@ Indexed users: 700
 | 16 | [josamuna](https://github.com/josamuna) | Josue Isamuna Nkembo | Democratic Republic of the Congo | 878 |
 | 17 | [Mgreat01](https://github.com/Mgreat01) | ephraim monga ( ambassadeur 🥷) | KINSHASA / RD CONGO | 787 |
 | 18 | [AngisheSALEM](https://github.com/AngisheSALEM) | Salem Angishe  | Kinshasa  | 739 |
-| 19 | [silasmas](https://github.com/silasmas) | silasmas | kinshasa | 701 |
+| 19 | [silasmas](https://github.com/silasmas) | silasmas | kinshasa | 699 |
 | 20 | [bernard-ng](https://github.com/bernard-ng) | Bernard Ngandu | DR Congo, Lubumbashi | 680 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 700
 | 19 | [bolenge](https://github.com/bolenge) | Don de Dieu Bolenge | Congo - Kinshasa | 69 |
 | 20 | [ChrisMwanya](https://github.com/ChrisMwanya) | Chris Mwanya | kinshasa | 69 |
 
-Generated: 2026-10-18T14:48:29.271Z
+Generated: 2026-10-18T16:12:07.869Z

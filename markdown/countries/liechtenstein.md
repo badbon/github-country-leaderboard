@@ -13,7 +13,7 @@ Indexed users: 113
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [oscardvs](https://github.com/oscardvs) | Oscar Devos | Liechtenstein | 5,832 |
-| 2 | [bernhardw](https://github.com/bernhardw) | Bernhard Wanger | Vaduz, Liechtenstein | 4,584 |
+| 2 | [bernhardw](https://github.com/bernhardw) | Bernhard Wanger | Vaduz, Liechtenstein | 4,585 |
 | 3 | [tnaescher](https://github.com/tnaescher) | T. Näscher | Liechtenstein | 4,342 |
 | 4 | [msanft](https://github.com/msanft) | Moritz Sanft | Liechtenstein | 2,893 |
 | 5 | [PhilippHGerber](https://github.com/PhilippHGerber) | Philipp H. Gerber | Liechtenstein | 2,671 |
@@ -25,7 +25,7 @@ Indexed users: 113
 | 11 | [masteradhoc](https://github.com/masteradhoc) | Brian | Liechtenstein | 750 |
 | 12 | [d0dge-dev](https://github.com/d0dge-dev) | David | Liechtenstein | 471 |
 | 13 | [archham](https://github.com/archham) | Nicolas Eberle | Liechtenstein | 462 |
-| 14 | [FeeJai](https://github.com/FeeJai) | Felix Jankowski | Liechtenstein | 349 |
+| 14 | [FeeJai](https://github.com/FeeJai) | Felix Jankowski | Liechtenstein | 373 |
 | 15 | [wol-fi](https://github.com/wol-fi) | Wolfgang Schadner | Liechtenstein | 332 |
 | 16 | [xGreeny](https://github.com/xGreeny) | Flurin | Liechtenstein | 329 |
 | 17 | [anonymouslyanonymous1](https://github.com/anonymouslyanonymous1) | Anonymously Anonymous | Liechtenstein | 309 |
@@ -83,4 +83,4 @@ Indexed users: 113
 | 19 | [PhilippHGerber](https://github.com/PhilippHGerber) | Philipp H. Gerber | Liechtenstein | 14 |
 | 20 | [niklasfrick](https://github.com/niklasfrick) | Niklas Frick | Liechtenstein | 12 |
 
-Generated: 2026-10-18T15:07:57.100Z
+Generated: 2026-10-18T16:34:15.785Z

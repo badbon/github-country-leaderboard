@@ -1,6 +1,6 @@
 # Public Contributions - Moldova
 
-Generated: 2026-10-18T15:14:23.354Z
+Generated: 2026-10-18T16:41:15.097Z
 
 Users: 1747
 
@@ -25,4 +25,4 @@ Users: 1747
 | 17 | [g0ddest](https://github.com/g0ddest) | veet |  |  | Bendery, Moldova | 1648 |
 | 18 | [nalyk](https://github.com/nalyk) | Ion (Nalyk) Calmîș | Yoda.Digital | nalyk | Ungheni, Republic of Moldova | 1397 |
 | 19 | [iatsiuk](https://github.com/iatsiuk) | Aleksei Iatsiuk | Overgear |  | Chisinau, Moldova | 1378 |
-| 20 | [CyberShadow](https://github.com/CyberShadow) | Vladimir Panteleev |  |  | Moldova, Eastern Europe | 1308 |
+| 20 | [maximmasiutin](https://github.com/maximmasiutin) | Maxim Masiutin | Advanced Data Security Solutions | MaximMasiutin | Chisinau, Republic of Moldova | 1320 |

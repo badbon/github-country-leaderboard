@@ -14,7 +14,7 @@ Indexed users: 714
 |---:|---|---|---|---:|
 | 1 | [EdgarEldy](https://github.com/EdgarEldy) | EDGAR MUHAMYANGABO | Mauritius | 14,178 |
 | 2 | [512banque](https://github.com/512banque) | Kevin Richard | Mauritius | 7,826 |
-| 3 | [borissedov](https://github.com/borissedov) | Boris Sedov | Tamarin, Mauritius | 7,453 |
+| 3 | [borissedov](https://github.com/borissedov) | Boris Sedov | Tamarin, Mauritius | 7,470 |
 | 4 | [andrashejj](https://github.com/andrashejj) | Andras Hejj | Mauritius | 6,860 |
 | 5 | [wyxos](https://github.com/wyxos) | Wyxos | Mauritius | 6,725 |
 | 6 | [cedpoilly](https://github.com/cedpoilly) | Cedric | Mauritius | 6,582 |
@@ -83,4 +83,4 @@ Indexed users: 714
 | 19 | [MaskyS](https://github.com/MaskyS) | Kifah M | Mauritius | 75 |
 | 20 | [cbillowes](https://github.com/cbillowes) | Clarice Bouwer | Mauritius | 65 |
 
-Generated: 2026-10-18T15:12:52.277Z
+Generated: 2026-10-18T16:38:46.469Z

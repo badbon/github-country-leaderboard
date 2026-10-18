@@ -1,6 +1,6 @@
 # Kyrgyzstan
 
-Indexed users: 2,443
+Indexed users: 2,442
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 2,443
 | 19 | [Elkhan2003](https://github.com/Elkhan2003) | Elkhan Sharshenbekov | Karakol, Kyrgyzstan | 103 |
 | 20 | [eszdman](https://github.com/eszdman) |  | Kyrgyzstan | 103 |
 
-Generated: 2026-10-18T15:04:21.579Z
+Generated: 2026-10-18T16:32:48.152Z

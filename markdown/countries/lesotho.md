@@ -27,7 +27,7 @@ Indexed users: 160
 | 13 | [MissPurrple](https://github.com/MissPurrple) | Miss Purple | Lesotho  | 430 |
 | 14 | [Thato-Motseki](https://github.com/Thato-Motseki) | Thato Motseki | Lesotho, Maseru | 352 |
 | 15 | [khauta](https://github.com/khauta) | Khauta Maliehe | Maseru, Lesotho | 345 |
-| 16 | [Matela-cyber](https://github.com/Matela-cyber) | Vicent Matela | Lesotho | 319 |
+| 16 | [Matela-cyber](https://github.com/Matela-cyber) | Vicent Matela | Lesotho | 321 |
 | 17 | [tefol-hub](https://github.com/tefol-hub) | Tefo Leche | Lesotho | 295 |
 | 18 | [lebusa](https://github.com/lebusa) | Motebang | Maseru, Lesotho | 290 |
 | 19 | [setsoto](https://github.com/setsoto) | Setsoto | Lesotho | 265 |
@@ -38,8 +38,8 @@ Indexed users: 160
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [ntholi](https://github.com/ntholi) | Ntholi Nkhatho | Maseru | 416 |
-| 2 | [LNkholise](https://github.com/LNkholise) | Leonard Nkholise | Maseru, Lesotho | 309 |
-| 3 | [Matela-cyber](https://github.com/Matela-cyber) | Vicent Matela | Lesotho | 309 |
+| 2 | [Matela-cyber](https://github.com/Matela-cyber) | Vicent Matela | Lesotho | 311 |
+| 3 | [LNkholise](https://github.com/LNkholise) | Leonard Nkholise | Maseru, Lesotho | 309 |
 | 4 | [tefol-hub](https://github.com/tefol-hub) | Tefo Leche | Lesotho | 238 |
 | 5 | [Thato-Motseki](https://github.com/Thato-Motseki) | Thato Motseki | Lesotho, Maseru | 209 |
 | 6 | [dev-penniel](https://github.com/dev-penniel) | Penniel Mothae | Lesotho, maseru | 187 |
@@ -83,4 +83,4 @@ Indexed users: 160
 | 19 | [lotesm](https://github.com/lotesm) | Lotes Molapo | Maseru, Lesotho | 13 |
 | 20 | [entsoereng](https://github.com/entsoereng) | Mokonyana Ntsoereng | Lesotho | 12 |
 
-Generated: 2026-10-18T15:06:23.355Z
+Generated: 2026-10-18T16:33:07.400Z

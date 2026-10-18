@@ -13,13 +13,13 @@ Indexed users: 486
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [faso-dev](https://github.com/faso-dev) | Clovis S.J Onadja | Burkina-Faso,Ouagadougou | 8,805 |
-| 2 | [tky0065](https://github.com/tky0065) | Enokdev | Burkina Faso | 6,617 |
+| 2 | [tky0065](https://github.com/tky0065) | Enokdev | Burkina Faso | 6,616 |
 | 3 | [kulturman](https://github.com/kulturman) | Arnaud Bakyono  | Ouagadougou | 4,494 |
 | 4 | [Rafik226](https://github.com/Rafik226) | Oumar Abdoul Rafik Sawadogo | Burkina Faso, Kadiogo, Ouagadougou | 4,457 |
 | 5 | [sokevinjonas](https://github.com/sokevinjonas) | SO Kevin Jonas Gningnabe | BURKINA FASO | 4,003 |
 | 6 | [Y4NN777](https://github.com/Y4NN777) | Ragnang-Newende Yanis Axel DABO | Burkina Faso | 3,998 |
-| 7 | [nanaelie](https://github.com/nanaelie) | Nana Elie  | Burkina Faso / Bobo Dioulasso | 3,835 |
-| 8 | [spwoodcock](https://github.com/spwoodcock) | Sam | Ouagadougou, Burkina Faso | 3,638 |
+| 7 | [nanaelie](https://github.com/nanaelie) | Nana Elie  | Burkina Faso / Bobo Dioulasso | 3,827 |
+| 8 | [spwoodcock](https://github.com/spwoodcock) | Sam | Ouagadougou, Burkina Faso | 3,623 |
 | 9 | [serge-eric-kalaga](https://github.com/serge-eric-kalaga) | KALAGA Serge Eric | Ouagadougou, Burkina Faso 🇧🇫 | 2,859 |
 | 10 | [ao627515](https://github.com/ao627515) | Abdoul Aziz Ouedraogo | Ouagadougou, Burkina Faso | 2,616 |
 | 11 | [ArielShadrac](https://github.com/ArielShadrac) | Ouedraogo Fildouindé Ariel Shadrac | Burkina Faso | 2,335 |
@@ -37,7 +37,7 @@ Indexed users: 486
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [spwoodcock](https://github.com/spwoodcock) | Sam | Ouagadougou, Burkina Faso | 3,638 |
+| 1 | [spwoodcock](https://github.com/spwoodcock) | Sam | Ouagadougou, Burkina Faso | 3,623 |
 | 2 | [tky0065](https://github.com/tky0065) | Enokdev | Burkina Faso | 2,666 |
 | 3 | [Y4NN777](https://github.com/Y4NN777) | Ragnang-Newende Yanis Axel DABO | Burkina Faso | 2,213 |
 | 4 | [sokevinjonas](https://github.com/sokevinjonas) | SO Kevin Jonas Gningnabe | BURKINA FASO | 1,424 |
@@ -83,4 +83,4 @@ Indexed users: 486
 | 19 | [sokevinjonas](https://github.com/sokevinjonas) | SO Kevin Jonas Gningnabe | BURKINA FASO | 38 |
 | 20 | [kulturman](https://github.com/kulturman) | Arnaud Bakyono  | Ouagadougou | 36 |
 
-Generated: 2026-10-18T14:37:02.909Z
+Generated: 2026-10-18T16:05:42.785Z

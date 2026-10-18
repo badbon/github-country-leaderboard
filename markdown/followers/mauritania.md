@@ -1,6 +1,6 @@
 # Followers - Mauritania
 
-Generated: 2026-10-18T15:12:46.223Z
+Generated: 2026-10-18T16:38:40.685Z
 
 Users: 289
 
@@ -25,4 +25,4 @@ Users: 289
 | 17 | [BechirAhmed](https://github.com/BechirAhmed) | Bechir Ahmed |  |  | Nouakchott, Mauritania | 27 |
 | 18 | [mohamdi](https://github.com/mohamdi) | Mohamdi Khlil |  |  | Mauritania | 26 |
 | 19 | [mbareck7](https://github.com/mbareck7) | mbar3ck7 | Bits Tamer | mbareck77 | Mauritania, Nouakchott | 25 |
-| 20 | [rajelmn](https://github.com/rajelmn) | ra_mn | 0xmr |  | mauritania | 24 |
+| 20 | [Mohamed-Beirouk](https://github.com/Mohamed-Beirouk) | Mohamed Mohamed Beirouk | Student at iscae |  | Mauritania | 23 |

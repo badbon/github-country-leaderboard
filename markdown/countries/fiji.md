@@ -69,8 +69,8 @@ Indexed users: 325
 | 5 | [navneil-naicker](https://github.com/navneil-naicker) | Navneil Naicker | Suva City, Central, Fiji | 66 |
 | 6 | [GeekTR](https://github.com/GeekTR) | Rui Tang | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 65 |
 | 7 | [Iapa](https://github.com/Iapa) | Ava Niu | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 39 |
-| 8 | [Pranav-XP](https://github.com/Pranav-XP) | Pranav | Fiji | 34 |
-| 9 | [JonGates](https://github.com/JonGates) | Jon Gates | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 33 |
+| 8 | [JonGates](https://github.com/JonGates) | Jon Gates | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 33 |
+| 9 | [Pranav-XP](https://github.com/Pranav-XP) | Pranav | Fiji | 33 |
 | 10 | [mucsbr](https://github.com/mucsbr) | beingS | 0558 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 28 |
 | 11 | [anuraganands](https://github.com/anuraganands) | Anuraganand Sharma | Suva, Fiji | 27 |
 | 12 | [Colorlaris](https://github.com/Colorlaris) |  | Fiji | 27 |
@@ -83,4 +83,4 @@ Indexed users: 325
 | 19 | [SMani0547](https://github.com/SMani0547) | Shiva Mani Goundar | Nadi, Fiji | 21 |
 | 20 | [aryann-7](https://github.com/aryann-7) | Aryan Singh | Suva, Fiji | 19 |
 
-Generated: 2026-10-18T14:51:29.687Z
+Generated: 2026-10-18T16:15:21.428Z

@@ -44,11 +44,11 @@ Indexed users: 4,035
 | 5 | [disafronov](https://github.com/disafronov) | Dmitrii Safronov | Yerevan, Armenia | 3,716 |
 | 6 | [ashvardanian](https://github.com/ashvardanian) | Ash Vardanian | London, San Francisco, Yerevan | 3,618 |
 | 7 | [diazoxide](https://github.com/diazoxide) | Aaron Yordanyan | Armenia | 3,378 |
-| 8 | [m0n0x41d](https://github.com/m0n0x41d) | ivan zakutni | Armenia | 2,610 |
-| 9 | [esceptico](https://github.com/esceptico) | Tim Ganiev | Yerevan, Armenia | 2,586 |
-| 10 | [anatoly-scherbakov](https://github.com/anatoly-scherbakov) | Anatoly Scherbakov | Yerevan, Armenia | 2,578 |
-| 11 | [diegnghtmr](https://github.com/diegnghtmr) | Diego Alejandro Flores Quintero | Armenia, Quindío, Colombia | 2,130 |
-| 12 | [vvmspace](https://github.com/vvmspace) | Vladimir V. M. | Armenia | 2,013 |
+| 8 | [vvmspace](https://github.com/vvmspace) | Vladimir V. M. | Armenia | 2,800 |
+| 9 | [m0n0x41d](https://github.com/m0n0x41d) | ivan zakutni | Armenia | 2,610 |
+| 10 | [esceptico](https://github.com/esceptico) | Tim Ganiev | Yerevan, Armenia | 2,586 |
+| 11 | [anatoly-scherbakov](https://github.com/anatoly-scherbakov) | Anatoly Scherbakov | Yerevan, Armenia | 2,578 |
+| 12 | [diegnghtmr](https://github.com/diegnghtmr) | Diego Alejandro Flores Quintero | Armenia, Quindío, Colombia | 2,130 |
 | 13 | [gagik894](https://github.com/gagik894) | Gagik Sargsyan | Armenia | 1,982 |
 | 14 | [barivanlab](https://github.com/barivanlab) | BarivanLab | Armenia | 1,740 |
 | 15 | [HenrikGharagyozyan](https://github.com/HenrikGharagyozyan) | Henrik Gharagyozyan | Yerevan, Armenia | 1,715 |
@@ -83,4 +83,4 @@ Indexed users: 4,035
 | 19 | [khoren93](https://github.com/khoren93) | Khoren Markosyan | Yerevan, Armenia | 249 |
 | 20 | [nightwing](https://github.com/nightwing) | Harutyun Amirjanyan | Yerevan, Armenia | 236 |
 
-Generated: 2026-10-18T14:28:15.282Z
+Generated: 2026-10-18T15:58:34.600Z

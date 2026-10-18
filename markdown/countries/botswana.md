@@ -44,7 +44,7 @@ Indexed users: 533
 | 5 | [Todd366](https://github.com/Todd366) | BSTM Ecosystem  | Botswana 🇧🇼  | 1,055 |
 | 6 | [NjabuloJf](https://github.com/NjabuloJf) | Njabulo Jb | Botswana  | 1,014 |
 | 7 | [arnold1990-cell](https://github.com/arnold1990-cell) | Arnold Tyvern Madamombe | Gaborone Botswana | 876 |
-| 8 | [tmosimanyana](https://github.com/tmosimanyana) | Tinny Mosimanyana | Gaborone, Botswana | 829 |
+| 8 | [tmosimanyana](https://github.com/tmosimanyana) | Tinny Mosimanyana | Gaborone, Botswana | 822 |
 | 9 | [Mopati123](https://github.com/Mopati123) | Mopati Ramaologa | Gaborone, Botswana | 735 |
 | 10 | [Cse21-034](https://github.com/Cse21-034) | leatile mosimanyana | Gaborone | 616 |
 | 11 | [Scheke](https://github.com/Scheke) | Boipuso Rante | Botswana | 581 |
@@ -83,4 +83,4 @@ Indexed users: 533
 | 19 | [BakangMonei](https://github.com/BakangMonei) | Monei Bakang | Gaborone, Botswana | 34 |
 | 20 | [Tebalo](https://github.com/Tebalo) | Bopaki | Botswana, Gaborone-Mokobaxane | 34 |
 
-Generated: 2026-10-18T14:35:25.209Z
+Generated: 2026-10-18T16:04:08.010Z

@@ -38,13 +38,13 @@ Indexed users: 2,560
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [1homsi](https://github.com/1homsi) | Mohamad Homsi | Lebanon | 6,378 |
-| 2 | [Mazennaji](https://github.com/Mazennaji) | Mazen Naji | Lebanon | 3,217 |
+| 2 | [Mazennaji](https://github.com/Mazennaji) | Mazen Naji | Lebanon | 3,196 |
 | 3 | [shahednasser](https://github.com/shahednasser) | Shahed Nasser | Aaramoun, Lebanon | 2,995 |
 | 4 | [aliscco](https://github.com/aliscco) | Ali mazloum | Beirut | 2,919 |
 | 5 | [KhaledSaeed18](https://github.com/KhaledSaeed18) | Khaled Saeed | Lebanon | 2,639 |
 | 6 | [Omar7tech](https://github.com/Omar7tech) | Omar Abi Farraj | Beirut | 2,603 |
 | 7 | [Ali-Al-Ahmad](https://github.com/Ali-Al-Ahmad) | Ali Al Ahmad | Beirut, Lebanon | 2,396 |
-| 8 | [MahmoudAmouni](https://github.com/MahmoudAmouni) | Mahmoud Abou Amoun | Lebanon | 1,998 |
+| 8 | [MahmoudAmouni](https://github.com/MahmoudAmouni) | Mahmoud Abou Amoun | Lebanon | 1,843 |
 | 9 | [MohammadRstm](https://github.com/MohammadRstm) | Mohammad Rostom | Beirut - Lebanon | 1,814 |
 | 10 | [samerc](https://github.com/samerc) | Samer Cheaib | Beirut | 1,779 |
 | 11 | [mcfarhat](https://github.com/mcfarhat) | Mohammad Farhat | Lebanon | 1,735 |
@@ -83,4 +83,4 @@ Indexed users: 2,560
 | 19 | [rhamzeh](https://github.com/rhamzeh) | Raghd Hamzeh | Beirut, Lebanon | 102 |
 | 20 | [hadiidbouk](https://github.com/hadiidbouk) | Hadi Dbouk | Lebanon | 101 |
 
-Generated: 2026-10-18T15:06:20.395Z
+Generated: 2026-10-18T16:33:04.864Z

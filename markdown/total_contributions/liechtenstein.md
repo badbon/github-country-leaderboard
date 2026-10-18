@@ -1,13 +1,13 @@
 # Total Contributions - Liechtenstein
 
-Generated: 2026-10-18T15:07:57.100Z
+Generated: 2026-10-18T16:34:15.785Z
 
 Users: 113
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [oscardvs](https://github.com/oscardvs) | Oscar Devos |  | oskrt_dvs | Liechtenstein | 5832 |
-| 2 | [bernhardw](https://github.com/bernhardw) | Bernhard Wanger | Rezendo |  | Vaduz, Liechtenstein | 4584 |
+| 2 | [bernhardw](https://github.com/bernhardw) | Bernhard Wanger | Rezendo |  | Vaduz, Liechtenstein | 4585 |
 | 3 | [tnaescher](https://github.com/tnaescher) | T. Näscher | J&T Treuhand GmbH, Zürich |  | Liechtenstein | 4342 |
 | 4 | [msanft](https://github.com/msanft) | Moritz Sanft | Edgeless Systems | stdoutput | Liechtenstein | 2893 |
 | 5 | [PhilippHGerber](https://github.com/PhilippHGerber) | Philipp H. Gerber |  | PhilippHGerber | Liechtenstein | 2671 |
@@ -19,7 +19,7 @@ Users: 113
 | 11 | [masteradhoc](https://github.com/masteradhoc) | Brian |  | mrbrianhaas | Liechtenstein | 750 |
 | 12 | [d0dge-dev](https://github.com/d0dge-dev) | David |  |  | Liechtenstein | 471 |
 | 13 | [archham](https://github.com/archham) | Nicolas Eberle |  |  | Liechtenstein | 462 |
-| 14 | [FeeJai](https://github.com/FeeJai) | Felix Jankowski |  |  | Liechtenstein | 349 |
+| 14 | [FeeJai](https://github.com/FeeJai) | Felix Jankowski |  |  | Liechtenstein | 373 |
 | 15 | [wol-fi](https://github.com/wol-fi) | Wolfgang Schadner | University of Liechtenstein |  | Liechtenstein | 332 |
 | 16 | [xGreeny](https://github.com/xGreeny) | Flurin |  |  | Liechtenstein | 329 |
 | 17 | [anonymouslyanonymous1](https://github.com/anonymouslyanonymous1) | Anonymously Anonymous |  |  | Liechtenstein | 309 |

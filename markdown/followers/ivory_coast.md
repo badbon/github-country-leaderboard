@@ -1,6 +1,6 @@
 # Followers - Ivory Coast
 
-Generated: 2026-10-18T15:00:30.191Z
+Generated: 2026-10-18T16:30:12.230Z
 
 Users: 488
 

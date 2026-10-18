@@ -19,8 +19,8 @@ Indexed users: 797
 | 5 | [uusa35](https://github.com/uusa35) | Usama.Ahmed | kuwait | 6,384 |
 | 6 | [drhema](https://github.com/drhema) | Ibrahim Elsherbiny | Kuwait | 6,179 |
 | 7 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Kuwait | 5,645 |
-| 8 | [bigboss97lnt](https://github.com/bigboss97lnt) | Nasser Tahan | Kuwait | 5,282 |
-| 9 | [saskw2010](https://github.com/saskw2010) | Mostafa Elnagar | kuwait | 5,239 |
+| 8 | [saskw2010](https://github.com/saskw2010) | Mostafa Elnagar | kuwait | 5,239 |
+| 9 | [bigboss97lnt](https://github.com/bigboss97lnt) | Nasser Tahan | Kuwait | 5,221 |
 | 10 | [Mubder](https://github.com/Mubder) | Mubder Alfaris | Kuwait | 4,586 |
 | 11 | [azikar24](https://github.com/azikar24) | Abdulaziz Karam | Kuwait | 4,407 |
 | 12 | [knro](https://github.com/knro) | Jasem Mutlaq | Kuwait | 4,140 |
@@ -51,12 +51,12 @@ Indexed users: 797
 | 12 | [usamahklair](https://github.com/usamahklair) | Usamah Klair | Kuwait | 823 |
 | 13 | [Mazyod](https://github.com/Mazyod) | Maz | Kuwait | 631 |
 | 14 | [azikar24](https://github.com/azikar24) | Abdulaziz Karam | Kuwait | 616 |
-| 15 | [AwadhObaid](https://github.com/AwadhObaid) | Awadh Obaid | Kuwait | 556 |
-| 16 | [fibonacci61](https://github.com/fibonacci61) | Faisal Malallah | Kuwait | 545 |
-| 17 | [agatho-daemon](https://github.com/agatho-daemon) | Agathodaemon | Kuwait | 532 |
-| 18 | [lonlydwolf](https://github.com/lonlydwolf) | Ahmad Mollaei | Kuwait | 491 |
-| 19 | [AbdelrahmanBerchan](https://github.com/AbdelrahmanBerchan) | Abdelrahman B. | Kuwait | 477 |
-| 20 | [Ahmad-Ali-mohammad](https://github.com/Ahmad-Ali-mohammad) | ahmad al mohammad | kuwait | 448 |
+| 15 | [jamalxcode](https://github.com/jamalxcode) | jamal xcode | Kuwait | 558 |
+| 16 | [AwadhObaid](https://github.com/AwadhObaid) | Awadh Obaid | Kuwait | 556 |
+| 17 | [fibonacci61](https://github.com/fibonacci61) | Faisal Malallah | Kuwait | 545 |
+| 18 | [agatho-daemon](https://github.com/agatho-daemon) | Agathodaemon | Kuwait | 532 |
+| 19 | [lonlydwolf](https://github.com/lonlydwolf) | Ahmad Mollaei | Kuwait | 491 |
+| 20 | [AbdelrahmanBerchan](https://github.com/AbdelrahmanBerchan) | Abdelrahman B. | Kuwait | 477 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 797
 | 19 | [MoathOthman](https://github.com/MoathOthman) | Moath othman | Kuwait | 85 |
 | 20 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Kuwait | 81 |
 
-Generated: 2026-10-18T15:04:17.696Z
+Generated: 2026-10-18T16:32:26.491Z

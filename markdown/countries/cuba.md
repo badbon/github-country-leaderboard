@@ -13,8 +13,8 @@ Indexed users: 1,275
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [apiad](https://github.com/apiad) | Alejandro Piad | Cuba | 18,982 |
-| 2 | [EduardoProfe666](https://github.com/EduardoProfe666) | Eduardo Alejandro González Martell | La Habana, Cuba | 16,158 |
-| 3 | [PerezO12](https://github.com/PerezO12) | Adrian Perez Osorio | Havana - Cuba - Spain - Mexico | 14,900 |
+| 2 | [PerezO12](https://github.com/PerezO12) | Adrian Perez Osorio | Havana - Cuba - Spain - Mexico | 18,542 |
+| 3 | [EduardoProfe666](https://github.com/EduardoProfe666) | Eduardo Alejandro González Martell | La Habana, Cuba | 16,158 |
 | 4 | [Walkercito](https://github.com/Walkercito) | Walkercito | 🌍 Coding from Cienfuegos, Cuba | 12,343 |
 | 5 | [yasmramos](https://github.com/yasmramos) | Yasmany Ramos García  | Ciego de Ávila, Cuba | 9,311 |
 | 6 | [gustavoylc](https://github.com/gustavoylc) | Gustavo Leyte-Vidal | Cuba | 7,244 |
@@ -83,4 +83,4 @@ Indexed users: 1,275
 | 19 | [markospy](https://github.com/markospy) | Marcos Avila | Cuba | 72 |
 | 20 | [leoGlez01](https://github.com/leoGlez01) | Leandro González  | La Habana, Cuba | 70 |
 
-Generated: 2026-10-18T14:44:14.136Z
+Generated: 2026-10-18T16:10:16.563Z

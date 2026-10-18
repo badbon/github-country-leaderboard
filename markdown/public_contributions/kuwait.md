@@ -1,6 +1,6 @@
 # Public Contributions - Kuwait
 
-Generated: 2026-10-18T15:04:17.696Z
+Generated: 2026-10-18T16:32:26.491Z
 
 Users: 797
 
@@ -20,9 +20,9 @@ Users: 797
 | 12 | [usamahklair](https://github.com/usamahklair) | Usamah Klair | ZyntraChain  |  | Kuwait | 823 |
 | 13 | [Mazyod](https://github.com/Mazyod) | Maz | Boubyan Bank |  | Kuwait | 631 |
 | 14 | [azikar24](https://github.com/azikar24) | Abdulaziz Karam |  |  | Kuwait | 616 |
-| 15 | [AwadhObaid](https://github.com/AwadhObaid) | Awadh Obaid |  |  | Kuwait | 556 |
-| 16 | [fibonacci61](https://github.com/fibonacci61) | Faisal Malallah | Folk Valley | fibn_cc | Kuwait | 545 |
-| 17 | [agatho-daemon](https://github.com/agatho-daemon) | Agathodaemon |  |  | Kuwait | 532 |
-| 18 | [lonlydwolf](https://github.com/lonlydwolf) | Ahmad Mollaei |  |  | Kuwait | 491 |
-| 19 | [AbdelrahmanBerchan](https://github.com/AbdelrahmanBerchan) | Abdelrahman B. |  | AB_berchan | Kuwait | 477 |
-| 20 | [Ahmad-Ali-mohammad](https://github.com/Ahmad-Ali-mohammad) | ahmad al mohammad | free lancer |  | kuwait | 448 |
+| 15 | [jamalxcode](https://github.com/jamalxcode) | jamal xcode |  |  | Kuwait | 558 |
+| 16 | [AwadhObaid](https://github.com/AwadhObaid) | Awadh Obaid |  |  | Kuwait | 556 |
+| 17 | [fibonacci61](https://github.com/fibonacci61) | Faisal Malallah | Folk Valley | fibn_cc | Kuwait | 545 |
+| 18 | [agatho-daemon](https://github.com/agatho-daemon) | Agathodaemon |  |  | Kuwait | 532 |
+| 19 | [lonlydwolf](https://github.com/lonlydwolf) | Ahmad Mollaei |  |  | Kuwait | 491 |
+| 20 | [AbdelrahmanBerchan](https://github.com/AbdelrahmanBerchan) | Abdelrahman B. |  | AB_berchan | Kuwait | 477 |

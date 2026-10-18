@@ -29,8 +29,8 @@ Indexed users: 461
 | 15 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Antarctica | 3,263 |
 | 16 | [PicasoTheDeal](https://github.com/PicasoTheDeal) | Tetstack | Antarctica | 3,030 |
 | 17 | [echo108471](https://github.com/echo108471) | Eugene Cho | Antarctica | 2,672 |
-| 18 | [shangyian](https://github.com/shangyian) | Yian | Antarctica | 2,598 |
-| 19 | [oagix](https://github.com/oagix) | AGENT | Antarctica | 2,416 |
+| 18 | [shangyian](https://github.com/shangyian) | Yian | Antarctica | 2,596 |
+| 19 | [oagix](https://github.com/oagix) | AGENT | Antarctica | 2,413 |
 | 20 | [PenguinNexus](https://github.com/PenguinNexus) | Penguin | Antarctica | 1,750 |
 
 ## Public Contributions
@@ -43,7 +43,7 @@ Indexed users: 461
 | 4 | [ethicnology](https://github.com/ethicnology) | Azad | Antarctica | 3,060 |
 | 5 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Antarctica | 3,043 |
 | 6 | [PicasoTheDeal](https://github.com/PicasoTheDeal) | Tetstack | Antarctica | 2,970 |
-| 7 | [shangyian](https://github.com/shangyian) | Yian | Antarctica | 2,167 |
+| 7 | [shangyian](https://github.com/shangyian) | Yian | Antarctica | 2,165 |
 | 8 | [FreezingSnail](https://github.com/FreezingSnail) | Freezing Snail | Antarctica | 1,541 |
 | 9 | [krwg](https://github.com/krwg) | アイダ ミール | Antarctica | 1,465 |
 | 10 | [enriquephl](https://github.com/enriquephl) |  | Antarctica | 1,439 |
@@ -77,10 +77,10 @@ Indexed users: 461
 | 13 | [emre1393](https://github.com/emre1393) | Emre | Antarctica | 114 |
 | 14 | [ethicnology](https://github.com/ethicnology) | Azad | Antarctica | 105 |
 | 15 | [piplup7575](https://github.com/piplup7575) | pipl | antarctica | 92 |
-| 16 | [crse](https://github.com/crse) |  | Antarctica | 88 |
+| 16 | [crse](https://github.com/crse) |  | Antarctica | 89 |
 | 17 | [pkasila](https://github.com/pkasila) | Pavel Kasila | Antarctica | 88 |
 | 18 | [r4sas](https://github.com/r4sas) | R4SAS | Vostok Station, Antarctica | 88 |
 | 19 | [alphaaurigae](https://github.com/alphaaurigae) | Marian Brockerhoff | Antarctica | 86 |
 | 20 | [fakeid30](https://github.com/fakeid30) | Fake ID | Antarctica | 78 |
 
-Generated: 2026-10-18T14:26:03.432Z
+Generated: 2026-10-18T15:57:39.709Z

@@ -1,8 +1,8 @@
 # Total Contributions - Kenya
 
-Generated: 2026-10-18T15:02:33.456Z
+Generated: 2026-10-18T16:32:20.039Z
 
-Users: 24018
+Users: 24016
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -25,4 +25,4 @@ Users: 24018
 | 17 | [NexusGKSoftwares](https://github.com/NexusGKSoftwares) | Eng. Gideon Bett | CEO & Founder of @NexusGK Softwares  | nexus_gk | Nairobi Kenya  | 18089 |
 | 18 | [mikeyhodl](https://github.com/mikeyhodl) | mikey | @WeKnow-io @gadgetsmagke @weknow-finance @amdefiguy | mikeyhodl | Kenya | 18025 |
 | 19 | [erickwasambo](https://github.com/erickwasambo) | Erick Wasambo |  |  | Nairobi, Kenya | 17892 |
-| 20 | [salvatoluis](https://github.com/salvatoluis) | Salvato | Webmasters (K) Ltd |  | Nairobi, Kenya | 16113 |
+| 20 | [Stanley-blik](https://github.com/Stanley-blik) | Stanl3y | @StaNLink-Inc  |  | Nairobi, Kenya. | 16423 |

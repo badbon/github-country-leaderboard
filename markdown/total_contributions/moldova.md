@@ -1,6 +1,6 @@
 # Total Contributions - Moldova
 
-Generated: 2026-10-18T15:14:23.354Z
+Generated: 2026-10-18T16:41:15.097Z
 
 Users: 1747
 
@@ -19,9 +19,9 @@ Users: 1747
 | 11 | [mtkachenk0](https://github.com/mtkachenk0) | Maxim Tkachenko |  |  | Chisinau, Moldova | 5841 |
 | 12 | [sebsti5](https://github.com/sebsti5) | Sebastian | @Tafi-Solutions |  | Moldova 🇲🇩 | 5426 |
 | 13 | [kneazy](https://github.com/kneazy) | Vitalie | CorLab |  | Moldova, Chisinau  | 5412 |
-| 14 | [grigorii-horos](https://github.com/grigorii-horos) | Grigorii Horos |  |  | Republic of Moldova | 5250 |
-| 15 | [xyrolle](https://github.com/xyrolle) | Serghei |  |  | Moldova | 5240 |
-| 16 | [batanus](https://github.com/batanus) | Dmitrii Medvedev |  |  | Chisinau, Moldova | 5122 |
+| 14 | [batanus](https://github.com/batanus) | Dmitrii Medvedev |  |  | Chisinau, Moldova | 5313 |
+| 15 | [grigorii-horos](https://github.com/grigorii-horos) | Grigorii Horos |  |  | Republic of Moldova | 5250 |
+| 16 | [xyrolle](https://github.com/xyrolle) | Serghei |  |  | Moldova | 5240 |
 | 17 | [httpcatalin](https://github.com/httpcatalin) | Catalin | Eventino |  | Chișinău, Moldova | 5117 |
 | 18 | [artickc](https://github.com/artickc) | NOXX - Commiter | iTSolution |  | Moldova, Chisinau | 5071 |
 | 19 | [fedotovdev](https://github.com/fedotovdev) | Ivan Fedotov |  |  | Chisinau, Moldova | 5019 |

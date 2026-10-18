@@ -1,6 +1,6 @@
 # Followers - Gabon
 
-Generated: 2026-10-18T14:52:39.175Z
+Generated: 2026-10-18T16:16:53.368Z
 
 Users: 314
 
@@ -23,6 +23,6 @@ Users: 314
 | 15 | [dynamo63](https://github.com/dynamo63) | Mouckeytou Moulongui |  |  | Gabon | 29 |
 | 16 | [bangaromaric](https://github.com/bangaromaric) | BANGA |  | bangaromaric | Libreville, Gabon | 28 |
 | 17 | [hamiltondarryl](https://github.com/hamiltondarryl) | MAHANGA BOULINGUI Hamilton Darryl |  | hamiltonlezama2 | Libreville, Gabon | 27 |
-| 18 | [abdoulayedong](https://github.com/abdoulayedong) | Abdoulaye Dong |  |  | Libreville, Gabon | 26 |
+| 18 | [abdoulayedong](https://github.com/abdoulayedong) | Abdoulaye Dong |  |  | Libreville, Gabon | 25 |
 | 19 | [Dylan245-droid](https://github.com/Dylan245-droid) | Dylan ONDO | NOUN CONCEPT |  | Libreville, Gabon | 22 |
 | 20 | [Marseven](https://github.com/Marseven) | Aristide Mebodo | Mood | aristidemebodo | Libreville | 19 |

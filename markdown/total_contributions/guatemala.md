@@ -1,6 +1,6 @@
 # Total Contributions - Guatemala
 
-Generated: 2026-10-18T14:55:00.421Z
+Generated: 2026-10-18T16:21:33.767Z
 
 Users: 3215
 
@@ -24,5 +24,5 @@ Users: 3215
 | 16 | [capuche777](https://github.com/capuche777) | Jeremias Enriquez | Eyefly Tech | capuche777 | Guatemala | 5602 |
 | 17 | [damianpeaf](https://github.com/damianpeaf) | Damián Peña | FIUSAC |  | Guatemala | 5493 |
 | 18 | [jrodas4044](https://github.com/jrodas4044) | Jonhathan Rolando Rodas López |  |  | Chimaltenango/Guatemala | 5446 |
-| 19 | [fcpauldiaz](https://github.com/fcpauldiaz) | Pablo Díaz | @Chapi-Labs  |  | Guatemala | 5250 |
-| 20 | [pcordon](https://github.com/pcordon) | Pablo Cordon |  |  | Guatemala | 5061 |
+| 19 | [arojasjg](https://github.com/arojasjg) | Jose Rojas | GRUPO GDS |  | Guatemala | 5373 |
+| 20 | [fcpauldiaz](https://github.com/fcpauldiaz) | Pablo Díaz | @Chapi-Labs  |  | Guatemala | 5250 |

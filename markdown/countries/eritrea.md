@@ -56,7 +56,7 @@ Indexed users: 17
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [fgaim](https://github.com/fgaim) | Fitsum Gaim | Stockholm \|\| Daejeon \|\| Asmara | 63 |
+| 1 | [fgaim](https://github.com/fgaim) | Fitsum Gaim | Stockholm \|\| Daejeon \|\| Asmara | 62 |
 | 2 | [afatinong](https://github.com/afatinong) | Afewerki Fkadu | Eritrea | 8 |
 | 3 | [aigemito](https://github.com/aigemito) | Amanuel Isack Gebreendrias | Asmara,Eritrea | 5 |
 | 4 | [Bereket-Desbele](https://github.com/Bereket-Desbele) | Bereket Desbele Ghebregiorgis | Asmara, Eritrea | 2 |
@@ -74,4 +74,4 @@ Indexed users: 17
 | 16 | [yonte73](https://github.com/yonte73) |  | Eritrea | 1 |
 | 17 | [ZaerIT](https://github.com/ZaerIT) | Zaer IT  | Asmara, Eritrea | 1 |
 
-Generated: 2026-10-18T14:49:47.829Z
+Generated: 2026-10-18T16:13:24.536Z

@@ -1,6 +1,6 @@
 # Public Contributions - Armenia
 
-Generated: 2026-10-18T14:28:15.282Z
+Generated: 2026-10-18T15:58:34.600Z
 
 Users: 4035
 
@@ -13,11 +13,11 @@ Users: 4035
 | 5 | [disafronov](https://github.com/disafronov) | Dmitrii Safronov |  |  | Yerevan, Armenia | 3716 |
 | 6 | [ashvardanian](https://github.com/ashvardanian) | Ash Vardanian | BDFL @ Unum | ashvardanian | London, San Francisco, Yerevan | 3618 |
 | 7 | [diazoxide](https://github.com/diazoxide) | Aaron Yordanyan | EasyDMARC |  | Armenia | 3378 |
-| 8 | [m0n0x41d](https://github.com/m0n0x41d) | ivan zakutni | Fusioncat |  | Armenia | 2610 |
-| 9 | [esceptico](https://github.com/esceptico) | Tim Ganiev |  | postimortem | Yerevan, Armenia | 2586 |
-| 10 | [anatoly-scherbakov](https://github.com/anatoly-scherbakov) | Anatoly Scherbakov | @datafold  |  | Yerevan, Armenia | 2578 |
-| 11 | [diegnghtmr](https://github.com/diegnghtmr) | Diego Alejandro Flores Quintero | Universidad del Quindío |  | Armenia, Quindío, Colombia | 2130 |
-| 12 | [vvmspace](https://github.com/vvmspace) | Vladimir V. M. | DST - Dubai eSTate |  | Armenia | 2013 |
+| 8 | [vvmspace](https://github.com/vvmspace) | Vladimir V. M. | DST - Dubai eSTate |  | Armenia | 2800 |
+| 9 | [m0n0x41d](https://github.com/m0n0x41d) | ivan zakutni | Fusioncat |  | Armenia | 2610 |
+| 10 | [esceptico](https://github.com/esceptico) | Tim Ganiev |  | postimortem | Yerevan, Armenia | 2586 |
+| 11 | [anatoly-scherbakov](https://github.com/anatoly-scherbakov) | Anatoly Scherbakov | @datafold  |  | Yerevan, Armenia | 2578 |
+| 12 | [diegnghtmr](https://github.com/diegnghtmr) | Diego Alejandro Flores Quintero | Universidad del Quindío |  | Armenia, Quindío, Colombia | 2130 |
 | 13 | [gagik894](https://github.com/gagik894) | Gagik Sargsyan |  |  | Armenia | 1982 |
 | 14 | [barivanlab](https://github.com/barivanlab) | BarivanLab | Barivan |  | Armenia | 1740 |
 | 15 | [HenrikGharagyozyan](https://github.com/HenrikGharagyozyan) | Henrik Gharagyozyan |  |  | Yerevan, Armenia | 1715 |

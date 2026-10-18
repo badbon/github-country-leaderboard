@@ -25,9 +25,9 @@ Indexed users: 1,747
 | 11 | [mtkachenk0](https://github.com/mtkachenk0) | Maxim Tkachenko | Chisinau, Moldova | 5,841 |
 | 12 | [sebsti5](https://github.com/sebsti5) | Sebastian | Moldova 🇲🇩 | 5,426 |
 | 13 | [kneazy](https://github.com/kneazy) | Vitalie | Moldova, Chisinau  | 5,412 |
-| 14 | [grigorii-horos](https://github.com/grigorii-horos) | Grigorii Horos | Republic of Moldova | 5,250 |
-| 15 | [xyrolle](https://github.com/xyrolle) | Serghei | Moldova | 5,240 |
-| 16 | [batanus](https://github.com/batanus) | Dmitrii Medvedev | Chisinau, Moldova | 5,122 |
+| 14 | [batanus](https://github.com/batanus) | Dmitrii Medvedev | Chisinau, Moldova | 5,313 |
+| 15 | [grigorii-horos](https://github.com/grigorii-horos) | Grigorii Horos | Republic of Moldova | 5,250 |
+| 16 | [xyrolle](https://github.com/xyrolle) | Serghei | Moldova | 5,240 |
 | 17 | [httpcatalin](https://github.com/httpcatalin) | Catalin | Chișinău, Moldova | 5,117 |
 | 18 | [artickc](https://github.com/artickc) | NOXX - Commiter | Moldova, Chisinau | 5,071 |
 | 19 | [fedotovdev](https://github.com/fedotovdev) | Ivan Fedotov | Chisinau, Moldova | 5,019 |
@@ -56,7 +56,7 @@ Indexed users: 1,747
 | 17 | [g0ddest](https://github.com/g0ddest) | veet | Bendery, Moldova | 1,648 |
 | 18 | [nalyk](https://github.com/nalyk) | Ion (Nalyk) Calmîș | Ungheni, Republic of Moldova | 1,397 |
 | 19 | [iatsiuk](https://github.com/iatsiuk) | Aleksei Iatsiuk | Chisinau, Moldova | 1,378 |
-| 20 | [CyberShadow](https://github.com/CyberShadow) | Vladimir Panteleev | Moldova, Eastern Europe | 1,308 |
+| 20 | [maximmasiutin](https://github.com/maximmasiutin) | Maxim Masiutin | Chisinau, Republic of Moldova | 1,320 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,747
 | 19 | [vgaidarji](https://github.com/vgaidarji) | Veaceslav Gaidarji | Moldova | 115 |
 | 20 | [Ernest96](https://github.com/Ernest96) | Ernest | Chisinau Moldova | 107 |
 
-Generated: 2026-10-18T15:14:23.354Z
+Generated: 2026-10-18T16:41:15.097Z
