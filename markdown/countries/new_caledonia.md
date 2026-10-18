@@ -12,13 +12,13 @@ Indexed users: 111
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [MelanieGault](https://github.com/MelanieGault) | Mélanie | New Caledonia | 13,971 |
+| 1 | [MelanieGault](https://github.com/MelanieGault) | Mélanie | New Caledonia | 13,984 |
 | 2 | [kyuhank](https://github.com/kyuhank) | Kyuhan Kim | Noumea, New Caledonia | 6,791 |
-| 3 | [maitredede](https://github.com/maitredede) | Damien DALY | Nouméa, New Caledonia | 5,483 |
+| 3 | [maitredede](https://github.com/maitredede) | Damien DALY | Nouméa, New Caledonia | 5,484 |
 | 4 | [adriens](https://github.com/adriens) | SALES | Nouméa, New-Caledonia | 4,132 |
 | 5 | [6pheR](https://github.com/6pheR) | CipheR_ | New Caledonia | 2,628 |
-| 6 | [tom333](https://github.com/tom333) |  | Nouméa, New Calédonia | 1,477 |
-| 7 | [120dev](https://github.com/120dev) | 120 | NEW CALEDONIA | 1,468 |
+| 6 | [120dev](https://github.com/120dev) | 120 | NEW CALEDONIA | 1,478 |
+| 7 | [tom333](https://github.com/tom333) |  | Nouméa, New Calédonia | 1,477 |
 | 8 | [TooFuW](https://github.com/TooFuW) | Eyrian Muet | New- Caledonia | 1,443 |
 | 9 | [melvind94](https://github.com/melvind94) | Melvin Deplanque | Nouméa, New Caledonia | 1,235 |
 | 10 | [Julien-Fruteau](https://github.com/Julien-Fruteau) | Julien | New Caledonia | 1,217 |
@@ -83,4 +83,4 @@ Indexed users: 111
 | 19 | [gronono](https://github.com/gronono) | Arnaud | New Caledonia | 9 |
 | 20 | [6pheR](https://github.com/6pheR) | CipheR_ | New Caledonia | 8 |
 
-Generated: 2026-10-18T21:16:19.213Z
+Generated: 2026-10-18T23:33:32.041Z

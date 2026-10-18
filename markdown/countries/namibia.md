@@ -24,8 +24,8 @@ Indexed users: 475
 | 10 | [holgarkotze-commits](https://github.com/holgarkotze-commits) | STITCH WORX INC. | NAMIBIA | 3,611 |
 | 11 | [codezilla91](https://github.com/codezilla91) | Leon CodeZilla Matota | Namibia, Windhoek | 3,187 |
 | 12 | [rtonata88](https://github.com/rtonata88) | Richard Chambula | Windhoek, Namibia | 2,930 |
-| 13 | [mtjikuzu](https://github.com/mtjikuzu) | Mbaunguraije Tjikuzu | Windhoek, Namibia | 2,671 |
-| 14 | [rolandihms](https://github.com/rolandihms) | ihms | Swakopmund, Namibia | 2,433 |
+| 13 | [mtjikuzu](https://github.com/mtjikuzu) | Mbaunguraije Tjikuzu | Windhoek, Namibia | 2,745 |
+| 14 | [rolandihms](https://github.com/rolandihms) | ihms | Swakopmund, Namibia | 2,427 |
 | 15 | [gijzelaerr](https://github.com/gijzelaerr) | Gijs Molenaar | Amsterdam - Windhoek | 2,288 |
 | 16 | [geraldokandonga](https://github.com/geraldokandonga) | Geraldo K. Fillipus | Windhoek, Namibia | 2,176 |
 | 17 | [Eckhardt-D](https://github.com/Eckhardt-D) | Eckhardt Scheffer | Namibia | 2,048 |
@@ -77,10 +77,10 @@ Indexed users: 475
 | 13 | [ShifidiMetumoN](https://github.com/ShifidiMetumoN) | ShifidiM | Windhoek | 49 |
 | 14 | [Amunwe-ENE](https://github.com/Amunwe-ENE) | Erastus Amunwe | Windhoek, Namibia | 45 |
 | 15 | [euricodande](https://github.com/euricodande) | Eurico Dande | Namibia-Windhoek | 43 |
-| 16 | [KuberKode](https://github.com/KuberKode) | Johan Strydom | Windhoek, Namibia | 41 |
+| 16 | [KuberKode](https://github.com/KuberKode) | Johan Strydom | Windhoek, Namibia | 40 |
 | 17 | [SelmaNdapanda](https://github.com/SelmaNdapanda) | Selma Hamutenya | Windhoek, Namibia | 40 |
 | 18 | [Bettinalisah](https://github.com/Bettinalisah) | Bettinalisah | Windhoek, Namibia | 36 |
 | 19 | [Hilya02](https://github.com/Hilya02) | Hilya Ntinda Tuyakula | Windhoek, Namibia | 36 |
 | 20 | [erassynathingo](https://github.com/erassynathingo) | Erastus Nathingo | Windhoek | 33 |
 
-Generated: 2026-10-18T21:15:40.173Z
+Generated: 2026-10-18T23:31:53.785Z

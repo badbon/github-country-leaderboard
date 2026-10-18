@@ -21,7 +21,7 @@ Indexed users: 797
 | 7 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Kuwait | 5,785 |
 | 8 | [saskw2010](https://github.com/saskw2010) | Mostafa Elnagar | kuwait | 5,239 |
 | 9 | [bigboss97lnt](https://github.com/bigboss97lnt) | Nasser Tahan | Kuwait | 5,221 |
-| 10 | [Mubder](https://github.com/Mubder) | Mubder Alfaris | Kuwait | 4,586 |
+| 10 | [Mubder](https://github.com/Mubder) | Mubder Alfaris | Kuwait | 4,590 |
 | 11 | [azikar24](https://github.com/azikar24) | Abdulaziz Karam | Kuwait | 4,407 |
 | 12 | [knro](https://github.com/knro) | Jasem Mutlaq | Kuwait | 4,140 |
 | 13 | [mulaifi](https://github.com/mulaifi) | Salem Almulaifi | Kuwait | 3,929 |
@@ -31,7 +31,7 @@ Indexed users: 797
 | 17 | [DiNaSoR](https://github.com/DiNaSoR) | BuYousef | Kuwait | 3,511 |
 | 18 | [quadrillion-q8](https://github.com/quadrillion-q8) | Kuwait Computer Repair on Call | Hawalli, Kuwait | 3,499 |
 | 19 | [aalhendi](https://github.com/aalhendi) | Abdulrazzaq Alhendi | Kuwait | 3,466 |
-| 20 | [tammerofficial](https://github.com/tammerofficial) | tammer | Kuwait City | 3,336 |
+| 20 | [tammerofficial](https://github.com/tammerofficial) | tammer | Kuwait City | 3,394 |
 
 ## Public Contributions
 
@@ -46,7 +46,7 @@ Indexed users: 797
 | 7 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Kuwait | 1,650 |
 | 8 | [Moslemjaw](https://github.com/Moslemjaw) | Moslem Jawich | Kuwait | 1,575 |
 | 9 | [aalhendi](https://github.com/aalhendi) | Abdulrazzaq Alhendi | Kuwait | 1,399 |
-| 10 | [Mubder](https://github.com/Mubder) | Mubder Alfaris | Kuwait | 1,334 |
+| 10 | [Mubder](https://github.com/Mubder) | Mubder Alfaris | Kuwait | 1,335 |
 | 11 | [knro](https://github.com/knro) | Jasem Mutlaq | Kuwait | 947 |
 | 12 | [usamahklair](https://github.com/usamahklair) | Usamah Klair | Kuwait | 823 |
 | 13 | [Mazyod](https://github.com/Mazyod) | Maz | Kuwait | 631 |
@@ -66,9 +66,9 @@ Indexed users: 797
 | 2 | [Voulnet](https://github.com/Voulnet) | Mohammed ALDOUB | Kuwait, Kuwait City | 445 |
 | 3 | [abdallahelsokary](https://github.com/abdallahelsokary) | Abdallah Elsokary | kuwait | 390 |
 | 4 | [Mazyod](https://github.com/Mazyod) | Maz | Kuwait | 211 |
-| 5 | [smokeme](https://github.com/smokeme) | Fawaz Adi | Kuwait | 150 |
-| 6 | [MMGGYY66](https://github.com/MMGGYY66) | MOHAMED GAMIL ELDIMARDASH | KUWAIT | 143 |
-| 7 | [Mubder](https://github.com/Mubder) | Mubder Alfaris | Kuwait | 140 |
+| 5 | [Mubder](https://github.com/Mubder) | Mubder Alfaris | Kuwait | 151 |
+| 6 | [smokeme](https://github.com/smokeme) | Fawaz Adi | Kuwait | 150 |
+| 7 | [MMGGYY66](https://github.com/MMGGYY66) | MOHAMED GAMIL ELDIMARDASH | KUWAIT | 143 |
 | 8 | [dmakwt](https://github.com/dmakwt) | Dhari | Kuwait | 131 |
 | 9 | [omsi96](https://github.com/omsi96) | Omar | Kuwait | 120 |
 | 10 | [hashemi](https://github.com/hashemi) | Ahmad Alhashemi | Kuwait | 110 |
@@ -83,4 +83,4 @@ Indexed users: 797
 | 19 | [MoathOthman](https://github.com/MoathOthman) | Moath othman | Kuwait | 85 |
 | 20 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Kuwait | 82 |
 
-Generated: 2026-10-18T21:05:46.727Z
+Generated: 2026-10-18T23:23:44.162Z

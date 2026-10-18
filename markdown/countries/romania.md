@@ -75,12 +75,12 @@ Indexed users: 14,976
 | 11 | [mishoo](https://github.com/mishoo) | Mihai Bazon | Iasi, Romania | 1,092 |
 | 12 | [RomulusMirauta](https://github.com/RomulusMirauta) | Romulus Mirăuță | Iasi, Romania | 1,085 |
 | 13 | [catalinpit](https://github.com/catalinpit) | Catalin Pit | Romania | 1,073 |
-| 14 | [cojocaru-david](https://github.com/cojocaru-david) | Cojocaru David | Romania | 879 |
-| 15 | [Bogdanp](https://github.com/Bogdanp) | Bogdan Popa | Cluj-Napoca, Romania | 878 |
+| 14 | [Bogdanp](https://github.com/Bogdanp) | Bogdan Popa | Cluj-Napoca, Romania | 878 |
+| 15 | [cojocaru-david](https://github.com/cojocaru-david) | Cojocaru David | Romania | 877 |
 | 16 | [eddyb](https://github.com/eddyb) | Eduard-Mihai Burtescu | Bucharest, Romania | 752 |
 | 17 | [alin23](https://github.com/alin23) | Alin Panaitiu | Romania | 749 |
-| 18 | [lazarnarcis](https://github.com/lazarnarcis) | Narcis Lazăr | Romania | 622 |
+| 18 | [lazarnarcis](https://github.com/lazarnarcis) | Narcis Lazăr | Romania | 607 |
 | 19 | [alexandru-paduraru](https://github.com/alexandru-paduraru) | Alex Paduraru | Bucharest | 600 |
 | 20 | [ovidiuch](https://github.com/ovidiuch) | Ovidiu Cherecheș | Cluj-Napoca, Romania | 582 |
 
-Generated: 2026-10-18T21:24:22.763Z
+Generated: 2026-10-18T23:40:53.032Z

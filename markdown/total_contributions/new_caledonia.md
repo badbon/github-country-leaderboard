@@ -1,18 +1,18 @@
 # Total Contributions - New Caledonia
 
-Generated: 2026-10-18T21:16:19.213Z
+Generated: 2026-10-18T23:33:32.041Z
 
 Users: 111
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [MelanieGault](https://github.com/MelanieGault) | Mélanie | Stratégie Zen IT |  | New Caledonia | 13971 |
+| 1 | [MelanieGault](https://github.com/MelanieGault) | Mélanie | Stratégie Zen IT |  | New Caledonia | 13984 |
 | 2 | [kyuhank](https://github.com/kyuhank) | Kyuhan Kim | SPC |  | Noumea, New Caledonia | 6791 |
-| 3 | [maitredede](https://github.com/maitredede) | Damien DALY |  |  | Nouméa, New Caledonia | 5483 |
+| 3 | [maitredede](https://github.com/maitredede) | Damien DALY |  |  | Nouméa, New Caledonia | 5484 |
 | 4 | [adriens](https://github.com/adriens) | SALES | OPT-NC | rastadidi | Nouméa, New-Caledonia | 4132 |
 | 5 | [6pheR](https://github.com/6pheR) | CipheR_ | Mineria |  | New Caledonia | 2628 |
-| 6 | [tom333](https://github.com/tom333) |  |  |  | Nouméa, New Calédonia | 1477 |
-| 7 | [120dev](https://github.com/120dev) | 120 | 120DEV |  | NEW CALEDONIA | 1468 |
+| 6 | [120dev](https://github.com/120dev) | 120 | 120DEV |  | NEW CALEDONIA | 1478 |
+| 7 | [tom333](https://github.com/tom333) |  |  |  | Nouméa, New Calédonia | 1477 |
 | 8 | [TooFuW](https://github.com/TooFuW) | Eyrian Muet |  |  | New- Caledonia | 1443 |
 | 9 | [melvind94](https://github.com/melvind94) | Melvin Deplanque | Pacifika |  | Nouméa, New Caledonia | 1235 |
 | 10 | [Julien-Fruteau](https://github.com/Julien-Fruteau) | Julien |  | jfruteau | New Caledonia | 1217 |

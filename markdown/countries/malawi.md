@@ -28,10 +28,10 @@ Indexed users: 900
 | 14 | [Frank5ive](https://github.com/Frank5ive) | Frank Gondwe | Malawi | 3,614 |
 | 15 | [petroskayange](https://github.com/petroskayange) | Petros Kayange | Malawi | 3,571 |
 | 16 | [KhoTheProgrammer](https://github.com/KhoTheProgrammer) | Kondwani Padyera | Malawi | 3,261 |
-| 17 | [markulaya2](https://github.com/markulaya2) | Mark Ulaya | Blantyre, Malawi | 3,152 |
-| 18 | [IsaacKalambo22](https://github.com/IsaacKalambo22) | Isaac Kalambo | Lilongwe | 3,147 |
-| 19 | [Valent-p](https://github.com/Valent-p) | Valentino Phiri - Programmer | Lilongwe, Malawi | 3,080 |
-| 20 | [zikani03](https://github.com/zikani03) | Zikani Nyirenda Mwase | Lilongwe, Malawi | 3,049 |
+| 17 | [2KAY-kat](https://github.com/2KAY-kat) | Kelvin KAY Katoya | Blantyre, Malawi | 3,172 |
+| 18 | [markulaya2](https://github.com/markulaya2) | Mark Ulaya | Blantyre, Malawi | 3,152 |
+| 19 | [IsaacKalambo22](https://github.com/IsaacKalambo22) | Isaac Kalambo | Lilongwe | 3,147 |
+| 20 | [Valent-p](https://github.com/Valent-p) | Valentino Phiri - Programmer | Lilongwe, Malawi | 3,080 |
 
 ## Public Contributions
 
@@ -53,8 +53,8 @@ Indexed users: 900
 | 14 | [Chrispine-1210](https://github.com/Chrispine-1210) | Chrispine Mndala | Lilongwe  | 565 |
 | 15 | [TgkCapture](https://github.com/TgkCapture) | tgkcapture | Blantyre, Malawi. | 485 |
 | 16 | [hopgausi](https://github.com/hopgausi) | Hopson Gausi | Malawi | 483 |
-| 17 | [wotcheni21](https://github.com/wotcheni21) | Joseph Witman Wotcheni | Malawi | 477 |
-| 18 | [codaMW](https://github.com/codaMW) | codaMW | Lilongwe, Malawi | 476 |
+| 17 | [codaMW](https://github.com/codaMW) | codaMW | Lilongwe, Malawi | 476 |
+| 18 | [wotcheni21](https://github.com/wotcheni21) | Joseph Witman Wotcheni | Malawi | 476 |
 | 19 | [Tmkandawire](https://github.com/Tmkandawire) | Tawanda Mkandawire | Malawi | 433 |
 | 20 | [ipi19](https://github.com/ipi19) | Ipyana Mwakikunga | Malawi  | 399 |
 
@@ -83,4 +83,4 @@ Indexed users: 900
 | 19 | [RodgerCodes](https://github.com/RodgerCodes) | Rodger Kumwanje | Malawi | 130 |
 | 20 | [g1ftmkyelu](https://github.com/g1ftmkyelu) | codemaestro🚀 | 🇲🇼 Malawi | 129 |
 
-Generated: 2026-10-18T21:10:43.691Z
+Generated: 2026-10-18T23:27:44.906Z

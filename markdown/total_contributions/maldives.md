@@ -1,20 +1,20 @@
 # Total Contributions - Maldives
 
-Generated: 2026-10-18T21:10:55.565Z
+Generated: 2026-10-18T23:27:56.649Z
 
 Users: 354
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [xahiru](https://github.com/xahiru) | Ahmed Zahir | Balloonshare |  | Maldives | 11479 |
-| 2 | [hilarl](https://github.com/hilarl) | Hilal Agil |  | hilaarl | Male', Maldives | 10503 |
+| 1 | [xahiru](https://github.com/xahiru) | Ahmed Zahir | Balloonshare |  | Maldives | 11484 |
+| 2 | [hilarl](https://github.com/hilarl) | Hilal Agil |  | hilaarl | Male', Maldives | 10802 |
 | 3 | [fauzaanu](https://github.com/fauzaanu) | Fauzaan Gasim |  | fauzaanu | Maldives | 8706 |
 | 4 | [mnazaal](https://github.com/mnazaal) | Nazaal | Aalto University | mnazaaI | Maldives | 8484 |
 | 5 | [mohamed-aiman](https://github.com/mohamed-aiman) | Mohamed Aiman |  | mohamed_aiman | Maldives | 7193 |
 | 6 | [nullptrz](https://github.com/nullptrz) | Ali Ahsan Saeed | @seastackmv  | nullptrz | Maldives | 7046 |
 | 7 | [lishaan](https://github.com/lishaan) | Lishan | @avas-app |  | Malé, Maldives | 6824 |
-| 8 | [hailam](https://github.com/hailam) | Mohamed Hailam Ahmed |  |  | Male`, Maldives | 6198 |
-| 9 | [ajaaibu](https://github.com/ajaaibu) | Ahmed Ali |  |  | Maldives | 5766 |
+| 8 | [hailam](https://github.com/hailam) | Mohamed Hailam Ahmed |  |  | Male`, Maldives | 6179 |
+| 9 | [ajaaibu](https://github.com/ajaaibu) | Ahmed Ali |  |  | Maldives | 5756 |
 | 10 | [hashes02](https://github.com/hashes02) | HASHES |  |  | Maldives | 5640 |
 | 11 | [maldivien](https://github.com/maldivien) | Ahmed Shareef |  |  | Maldives | 5401 |
 | 12 | [agent306](https://github.com/agent306) | Ncodex | @pension  | nash_athu | Male', Maldives | 5276 |

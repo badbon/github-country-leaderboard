@@ -1,14 +1,14 @@
 # Total Contributions - Papua New Guinea
 
-Generated: 2026-10-18T21:20:31.096Z
+Generated: 2026-10-18T23:38:01.925Z
 
 Users: 296
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [NiuPay-Jason](https://github.com/NiuPay-Jason) | Jaye | NiuPay |  | Papua New Guinea | 17817 |
+| 1 | [NiuPay-Jason](https://github.com/NiuPay-Jason) | Jaye | NiuPay |  | Papua New Guinea | 17999 |
 | 2 | [kirioh](https://github.com/kirioh) | Cieran Kelly |  | CieranKelly6 | Port Moresby | 12722 |
-| 3 | [Emmanue707](https://github.com/Emmanue707) | Emmanuel Kokele | Waghi Tech | EKokele | Papua New Guinea | 10485 |
+| 3 | [Emmanue707](https://github.com/Emmanue707) | Emmanuel Kokele | Waghi Tech | EKokele | Papua New Guinea | 10490 |
 | 4 | [BruinGrowly](https://github.com/BruinGrowly) | Wellington Taureka |  |  | Port Moresby, Papua New Guinea | 4423 |
 | 5 | [myitsolutionspg](https://github.com/myitsolutionspg) | Melky Warinak | My IT Solutions |  | Port Moresby | 3092 |
 | 6 | [n30dyn4m1c](https://github.com/n30dyn4m1c) | Neo Malesa |  | n30dyn4m1c | Port Moresby, Papua New Guinea | 3045 |
@@ -23,6 +23,6 @@ Users: 296
 | 15 | [jebudo](https://github.com/jebudo) | Jesse Biribudo |  |  | Port Moresby, Papua New Guinea | 562 |
 | 16 | [TMJ-24](https://github.com/TMJ-24) | tmj | https://jershmamet.com |  | Port Moresby | 452 |
 | 17 | [jeremykes](https://github.com/jeremykes) | Jeremy Kes Palme  | Skoonters |  | Papua New Guinea | 334 |
-| 18 | [rudoq007](https://github.com/rudoq007) | WanixRSGIS |  |  | Papua New Guinea | 331 |
+| 18 | [rudoq007](https://github.com/rudoq007) | WanixRSGIS |  |  | Papua New Guinea | 332 |
 | 19 | [mrwicktheprogrammer](https://github.com/mrwicktheprogrammer) | Jonathan Kamalan |  |  | Mt Hagen, Western Highlands Province, Papua New Guinea | 308 |
 | 20 | [hoiregeno](https://github.com/hoiregeno) | Geno Hoire | Self-Employed |  | Port Moresby, Papua New Guinea | 245 |

@@ -1,6 +1,6 @@
 # Total Contributions - Namibia
 
-Generated: 2026-10-18T21:15:40.173Z
+Generated: 2026-10-18T23:31:53.785Z
 
 Users: 475
 
@@ -18,8 +18,8 @@ Users: 475
 | 10 | [holgarkotze-commits](https://github.com/holgarkotze-commits) | STITCH WORX INC. | STITCH WORX |  | NAMIBIA | 3611 |
 | 11 | [codezilla91](https://github.com/codezilla91) | Leon CodeZilla Matota | Cyberdyne Investments cc | SirLeon14 | Namibia, Windhoek | 3187 |
 | 12 | [rtonata88](https://github.com/rtonata88) | Richard Chambula | University of Namibia | rtonata | Windhoek, Namibia | 2930 |
-| 13 | [mtjikuzu](https://github.com/mtjikuzu) | Mbaunguraije Tjikuzu | Namibia University of Science and Technology |  | Windhoek, Namibia | 2671 |
-| 14 | [rolandihms](https://github.com/rolandihms) | ihms | @ihms-co  | rolandihms | Swakopmund, Namibia | 2433 |
+| 13 | [mtjikuzu](https://github.com/mtjikuzu) | Mbaunguraije Tjikuzu | Namibia University of Science and Technology |  | Windhoek, Namibia | 2745 |
+| 14 | [rolandihms](https://github.com/rolandihms) | ihms | @ihms-co  | rolandihms | Swakopmund, Namibia | 2427 |
 | 15 | [gijzelaerr](https://github.com/gijzelaerr) | Gijs Molenaar | Spotify |  | Amsterdam - Windhoek | 2288 |
 | 16 | [geraldokandonga](https://github.com/geraldokandonga) | Geraldo K. Fillipus | Holoog |  | Windhoek, Namibia | 2176 |
 | 17 | [Eckhardt-D](https://github.com/Eckhardt-D) | Eckhardt Scheffer | Kaizen Media | eckhardtdreyer | Namibia | 2048 |

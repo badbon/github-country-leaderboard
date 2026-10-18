@@ -1,6 +1,6 @@
 # Public Contributions - Mali
 
-Generated: 2026-10-18T21:10:58.781Z
+Generated: 2026-10-18T23:27:59.683Z
 
 Users: 348
 
@@ -23,6 +23,6 @@ Users: 348
 | 15 | [kontere-tienou](https://github.com/kontere-tienou) | Kontere TIENOU | Falcon Digital Hub |  | Mali | 229 |
 | 16 | [Aissatou007](https://github.com/Aissatou007) | Aïssatou Coulibaly |  |  | Mali  | 207 |
 | 17 | [mandjou-dama](https://github.com/mandjou-dama) | Mandjou Dama |  | Mandjou_JS | Bamako, Mali | 176 |
-| 18 | [mohdiop](https://github.com/mohdiop) | Mohamed Diop | Irrex Consulting |  | Mali | 166 |
-| 19 | [Ibraci](https://github.com/Ibraci) | Ibrahim CISSE | @Ibracilinks | ibraci2 | Bamako | 158 |
-| 20 | [diarray-hub](https://github.com/diarray-hub) | Diarra Yacouba |  | d1array | Bamako, Mali | 155 |
+| 18 | [dione24](https://github.com/dione24) | Niangaly Abdoulaye | SahelPAY | diblo_n | BAMAKO MALI | 167 |
+| 19 | [mohdiop](https://github.com/mohdiop) | Mohamed Diop | Irrex Consulting |  | Mali | 166 |
+| 20 | [Ibraci](https://github.com/Ibraci) | Ibrahim CISSE | @Ibracilinks | ibraci2 | Bamako | 158 |

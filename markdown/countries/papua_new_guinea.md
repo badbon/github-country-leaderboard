@@ -12,9 +12,9 @@ Indexed users: 296
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [NiuPay-Jason](https://github.com/NiuPay-Jason) | Jaye | Papua New Guinea | 17,817 |
+| 1 | [NiuPay-Jason](https://github.com/NiuPay-Jason) | Jaye | Papua New Guinea | 17,999 |
 | 2 | [kirioh](https://github.com/kirioh) | Cieran Kelly | Port Moresby | 12,722 |
-| 3 | [Emmanue707](https://github.com/Emmanue707) | Emmanuel Kokele | Papua New Guinea | 10,485 |
+| 3 | [Emmanue707](https://github.com/Emmanue707) | Emmanuel Kokele | Papua New Guinea | 10,490 |
 | 4 | [BruinGrowly](https://github.com/BruinGrowly) | Wellington Taureka | Port Moresby, Papua New Guinea | 4,423 |
 | 5 | [myitsolutionspg](https://github.com/myitsolutionspg) | Melky Warinak | Port Moresby | 3,092 |
 | 6 | [n30dyn4m1c](https://github.com/n30dyn4m1c) | Neo Malesa | Port Moresby, Papua New Guinea | 3,045 |
@@ -29,7 +29,7 @@ Indexed users: 296
 | 15 | [jebudo](https://github.com/jebudo) | Jesse Biribudo | Port Moresby, Papua New Guinea | 562 |
 | 16 | [TMJ-24](https://github.com/TMJ-24) | tmj | Port Moresby | 452 |
 | 17 | [jeremykes](https://github.com/jeremykes) | Jeremy Kes Palme  | Papua New Guinea | 334 |
-| 18 | [rudoq007](https://github.com/rudoq007) | WanixRSGIS | Papua New Guinea | 331 |
+| 18 | [rudoq007](https://github.com/rudoq007) | WanixRSGIS | Papua New Guinea | 332 |
 | 19 | [mrwicktheprogrammer](https://github.com/mrwicktheprogrammer) | Jonathan Kamalan | Mt Hagen, Western Highlands Province, Papua New Guinea | 308 |
 | 20 | [hoiregeno](https://github.com/hoiregeno) | Geno Hoire | Port Moresby, Papua New Guinea | 245 |
 
@@ -43,7 +43,7 @@ Indexed users: 296
 | 4 | [jm0535](https://github.com/jm0535) | Jimmy Moses | Papua New Guinea | 824 |
 | 5 | [BruinGrowly](https://github.com/BruinGrowly) | Wellington Taureka | Port Moresby, Papua New Guinea | 542 |
 | 6 | [TMJ-24](https://github.com/TMJ-24) | tmj | Port Moresby | 452 |
-| 7 | [rudoq007](https://github.com/rudoq007) | WanixRSGIS | Papua New Guinea | 331 |
+| 7 | [rudoq007](https://github.com/rudoq007) | WanixRSGIS | Papua New Guinea | 332 |
 | 8 | [alefsolutions](https://github.com/alefsolutions) | Louis Ronald | Port Moresby | 280 |
 | 9 | [hoiregeno](https://github.com/hoiregeno) | Geno Hoire | Port Moresby, Papua New Guinea | 245 |
 | 10 | [digi4arch424](https://github.com/digi4arch424) | DigiArch 424 | Port Moresby | 242 |
@@ -83,4 +83,4 @@ Indexed users: 296
 | 19 | [jm0535](https://github.com/jm0535) | Jimmy Moses | Papua New Guinea | 8 |
 | 20 | [loiwai](https://github.com/loiwai) | Loi Wai | Papua New Guinea | 8 |
 
-Generated: 2026-10-18T21:20:31.096Z
+Generated: 2026-10-18T23:38:01.925Z

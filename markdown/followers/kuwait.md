@@ -1,6 +1,6 @@
 # Followers - Kuwait
 
-Generated: 2026-10-18T21:05:46.727Z
+Generated: 2026-10-18T23:23:44.162Z
 
 Users: 797
 
@@ -10,9 +10,9 @@ Users: 797
 | 2 | [Voulnet](https://github.com/Voulnet) | Mohammed ALDOUB |  |  | Kuwait, Kuwait City | 445 |
 | 3 | [abdallahelsokary](https://github.com/abdallahelsokary) | Abdallah Elsokary |  |  | kuwait | 390 |
 | 4 | [Mazyod](https://github.com/Mazyod) | Maz | Boubyan Bank |  | Kuwait | 211 |
-| 5 | [smokeme](https://github.com/smokeme) | Fawaz Adi |  |  | Kuwait | 150 |
-| 6 | [MMGGYY66](https://github.com/MMGGYY66) | MOHAMED GAMIL ELDIMARDASH | @microverseinc | MOHAMEDELDIMARd | KUWAIT | 143 |
-| 7 | [Mubder](https://github.com/Mubder) | Mubder Alfaris | KazmaAI | b_alfaris | Kuwait | 140 |
+| 5 | [Mubder](https://github.com/Mubder) | Mubder Alfaris | KazmaAI | b_alfaris | Kuwait | 151 |
+| 6 | [smokeme](https://github.com/smokeme) | Fawaz Adi |  |  | Kuwait | 150 |
+| 7 | [MMGGYY66](https://github.com/MMGGYY66) | MOHAMED GAMIL ELDIMARDASH | @microverseinc | MOHAMEDELDIMARd | KUWAIT | 143 |
 | 8 | [dmakwt](https://github.com/dmakwt) | Dhari | Indie Developer | dmakwt | Kuwait | 131 |
 | 9 | [omsi96](https://github.com/omsi96) | Omar | @barmej, @JoinCODED, @kuwaitcodes  |  | Kuwait | 120 |
 | 10 | [hashemi](https://github.com/hashemi) | Ahmad Alhashemi |  |  | Kuwait | 110 |

@@ -23,8 +23,8 @@ Indexed users: 289
 | 9 | [OussamaTeyib](https://github.com/OussamaTeyib) | Oussama Teyib | Nouakchott, Mauritania | 2,749 |
 | 10 | [salembaira](https://github.com/salembaira) | Mohamed Salem BAIRA | Nouakchott, Mauritania | 2,577 |
 | 11 | [NejmiSidaty](https://github.com/NejmiSidaty) | Mohamed Jiyed | Nouakchott, Mauritania | 2,528 |
-| 12 | [oumarhadrami](https://github.com/oumarhadrami) | Mohamed EL Hadramy Oumar | Nouakchott, Mauritania | 2,382 |
-| 13 | [babasahi](https://github.com/babasahi) | Babe Saleh Dahi | Nouakchott, Mauritania | 2,373 |
+| 12 | [babasahi](https://github.com/babasahi) | Babe Saleh Dahi | Nouakchott, Mauritania | 2,387 |
+| 13 | [oumarhadrami](https://github.com/oumarhadrami) | Mohamed EL Hadramy Oumar | Nouakchott, Mauritania | 2,382 |
 | 14 | [va0000ll](https://github.com/va0000ll) | mohamedvall ibrahim | Nouakchott, Mauritania | 1,788 |
 | 15 | [sons-of-titus](https://github.com/sons-of-titus) | Mourad Abdellahi | Mauritania | 1,714 |
 | 16 | [Mohamed-Beirouk](https://github.com/Mohamed-Beirouk) | Mohamed Mohamed Beirouk | Mauritania | 1,534 |
@@ -83,4 +83,4 @@ Indexed users: 289
 | 19 | [mbareck7](https://github.com/mbareck7) | mbar3ck7 | Mauritania, Nouakchott | 25 |
 | 20 | [Mohamed-Beirouk](https://github.com/Mohamed-Beirouk) | Mohamed Mohamed Beirouk | Mauritania | 23 |
 
-Generated: 2026-10-18T21:11:45.631Z
+Generated: 2026-10-18T23:29:22.423Z

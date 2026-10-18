@@ -21,7 +21,7 @@ Indexed users: 991
 | 7 | [bshbsh404](https://github.com/bshbsh404) | Bashir Hassan | Muscat, Oman | 10,687 |
 | 8 | [alanqoudif](https://github.com/alanqoudif) | faisal al anqoudi | Muscat, Oman 🇴🇲 | 9,459 |
 | 9 | [aldhaifani](https://github.com/aldhaifani) | Tareq Al-Dhaifani | Muscat, Oman | 9,045 |
-| 10 | [iamsj7](https://github.com/iamsj7) | Shaik Jaleel | Muscat | 8,676 |
+| 10 | [iamsj7](https://github.com/iamsj7) | Shaik Jaleel | Muscat | 9,036 |
 | 11 | [sanjeed5](https://github.com/sanjeed5) | Sanjeed | Bangalore / Oman  | 8,371 |
 | 12 | [shm379](https://github.com/shm379) | Hussein | Muscat | 8,259 |
 | 13 | [dmsherazi](https://github.com/dmsherazi) | Dost Muhammad Shah | Muscat, Oman | 7,532 |
@@ -83,4 +83,4 @@ Indexed users: 991
 | 19 | [3mrdev](https://github.com/3mrdev) | Amr Abd-Alkrim | Khartoum, Sudan \| Muscat, Oman | 94 |
 | 20 | [AmirSa12](https://github.com/AmirSa12) | AmirHossein Sakhravi | Muscat, Oman | 91 |
 
-Generated: 2026-10-18T21:19:35.077Z
+Generated: 2026-10-18T23:36:32.340Z

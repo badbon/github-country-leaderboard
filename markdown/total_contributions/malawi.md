@@ -1,6 +1,6 @@
 # Total Contributions - Malawi
 
-Generated: 2026-10-18T21:10:43.691Z
+Generated: 2026-10-18T23:27:44.906Z
 
 Users: 900
 
@@ -22,7 +22,7 @@ Users: 900
 | 14 | [Frank5ive](https://github.com/Frank5ive) | Frank Gondwe |  | FrankGondwe11 | Malawi | 3614 |
 | 15 | [petroskayange](https://github.com/petroskayange) | Petros Kayange | @Kuunika @LUKEINTERNATIONAL @EGPAFMalawiHIS @HISMalawi @DoxDevOps  |  | Malawi | 3571 |
 | 16 | [KhoTheProgrammer](https://github.com/KhoTheProgrammer) | Kondwani Padyera | Self |  | Malawi | 3261 |
-| 17 | [markulaya2](https://github.com/markulaya2) | Mark Ulaya | @creditdatamw |  | Blantyre, Malawi | 3152 |
-| 18 | [IsaacKalambo22](https://github.com/IsaacKalambo22) | Isaac Kalambo | @InfinityCodeMw  | IsaacKalam44251 | Lilongwe | 3147 |
-| 19 | [Valent-p](https://github.com/Valent-p) | Valentino Phiri - Programmer | Veigatec |  | Lilongwe, Malawi | 3080 |
-| 20 | [zikani03](https://github.com/zikani03) | Zikani Nyirenda Mwase | @nndi-tech | zikani03 | Lilongwe, Malawi | 3049 |
+| 17 | [2KAY-kat](https://github.com/2KAY-kat) | Kelvin KAY Katoya | Zennertekh | Katoyakelvin | Blantyre, Malawi | 3172 |
+| 18 | [markulaya2](https://github.com/markulaya2) | Mark Ulaya | @creditdatamw |  | Blantyre, Malawi | 3152 |
+| 19 | [IsaacKalambo22](https://github.com/IsaacKalambo22) | Isaac Kalambo | @InfinityCodeMw  | IsaacKalam44251 | Lilongwe | 3147 |
+| 20 | [Valent-p](https://github.com/Valent-p) | Valentino Phiri - Programmer | Veigatec |  | Lilongwe, Malawi | 3080 |

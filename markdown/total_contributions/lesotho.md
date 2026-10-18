@@ -1,13 +1,13 @@
 # Total Contributions - Lesotho
 
-Generated: 2026-10-18T21:07:00.332Z
+Generated: 2026-10-18T23:25:59.487Z
 
 Users: 160
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [ntholi](https://github.com/ntholi) | Ntholi Nkhatho | Limkokwing University | ntholi | Maseru | 7538 |
-| 2 | [KNkoe](https://github.com/KNkoe) | Katleho Nkoe | Ducens PTY LTD |  | Maseru | 2433 |
+| 2 | [KNkoe](https://github.com/KNkoe) | Katleho Nkoe | Ducens PTY LTD |  | Maseru | 2435 |
 | 3 | [tshakalekholoane](https://github.com/tshakalekholoane) | Tshaka Lekholoane |  |  | Maseru, Lesotho | 2364 |
 | 4 | [LomNtetha](https://github.com/LomNtetha) | Lumkile Ntetha |  | ntethalumkile | Maseru | 2057 |
 | 5 | [KamoheloKoali](https://github.com/KamoheloKoali) | Kamohelo Koali |  |  | Lesotho | 2004 |

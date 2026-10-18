@@ -121,21 +121,21 @@ Published countries: 234
 | [Liberia](countries/liberia.md) | 210 | [Public](public_contributions/liberia.md) | [Total](total_contributions/liberia.md) | [Followers](followers/liberia.md) |
 | [Libya](countries/libya.md) | 741 | [Public](public_contributions/libya.md) | [Total](total_contributions/libya.md) | [Followers](followers/libya.md) |
 | [Liechtenstein](countries/liechtenstein.md) | 113 | [Public](public_contributions/liechtenstein.md) | [Total](total_contributions/liechtenstein.md) | [Followers](followers/liechtenstein.md) |
-| [Lithuania](countries/lithuania.md) | 5,369 | [Public](public_contributions/lithuania.md) | [Total](total_contributions/lithuania.md) | [Followers](followers/lithuania.md) |
+| [Lithuania](countries/lithuania.md) | 5,368 | [Public](public_contributions/lithuania.md) | [Total](total_contributions/lithuania.md) | [Followers](followers/lithuania.md) |
 | [Luxembourg](countries/luxembourg.md) | 2,190 | [Public](public_contributions/luxembourg.md) | [Total](total_contributions/luxembourg.md) | [Followers](followers/luxembourg.md) |
 | [Macau](countries/macau.md) | 439 | [Public](public_contributions/macau.md) | [Total](total_contributions/macau.md) | [Followers](followers/macau.md) |
 | [Madagascar](countries/madagascar.md) | 1,903 | [Public](public_contributions/madagascar.md) | [Total](total_contributions/madagascar.md) | [Followers](followers/madagascar.md) |
 | [Malawi](countries/malawi.md) | 900 | [Public](public_contributions/malawi.md) | [Total](total_contributions/malawi.md) | [Followers](followers/malawi.md) |
-| [Malaysia](countries/malaysia.md) | 11,793 | [Public](public_contributions/malaysia.md) | [Total](total_contributions/malaysia.md) | [Followers](followers/malaysia.md) |
+| [Malaysia](countries/malaysia.md) | 11,791 | [Public](public_contributions/malaysia.md) | [Total](total_contributions/malaysia.md) | [Followers](followers/malaysia.md) |
 | [Maldives](countries/maldives.md) | 354 | [Public](public_contributions/maldives.md) | [Total](total_contributions/maldives.md) | [Followers](followers/maldives.md) |
 | [Mali](countries/mali.md) | 348 | [Public](public_contributions/mali.md) | [Total](total_contributions/mali.md) | [Followers](followers/mali.md) |
 | [Malta](countries/malta.md) | 1,224 | [Public](public_contributions/malta.md) | [Total](total_contributions/malta.md) | [Followers](followers/malta.md) |
 | [Marshall Islands](countries/marshall_islands.md) | 11 | [Public](public_contributions/marshall_islands.md) | [Total](total_contributions/marshall_islands.md) | [Followers](followers/marshall_islands.md) |
 | [Martinique](countries/martinique.md) | 75 | [Public](public_contributions/martinique.md) | [Total](total_contributions/martinique.md) | [Followers](followers/martinique.md) |
 | [Mauritania](countries/mauritania.md) | 289 | [Public](public_contributions/mauritania.md) | [Total](total_contributions/mauritania.md) | [Followers](followers/mauritania.md) |
-| [Mauritius](countries/mauritius.md) | 714 | [Public](public_contributions/mauritius.md) | [Total](total_contributions/mauritius.md) | [Followers](followers/mauritius.md) |
+| [Mauritius](countries/mauritius.md) | 715 | [Public](public_contributions/mauritius.md) | [Total](total_contributions/mauritius.md) | [Followers](followers/mauritius.md) |
 | [Mayotte](countries/mayotte.md) | 17 | [Public](public_contributions/mayotte.md) | [Total](total_contributions/mayotte.md) | [Followers](followers/mayotte.md) |
-| [Mexico](countries/mexico.md) | 23,491 | [Public](public_contributions/mexico.md) | [Total](total_contributions/mexico.md) | [Followers](followers/mexico.md) |
+| [Mexico](countries/mexico.md) | 23,490 | [Public](public_contributions/mexico.md) | [Total](total_contributions/mexico.md) | [Followers](followers/mexico.md) |
 | [Micronesia](countries/micronesia.md) | 11 | [Public](public_contributions/micronesia.md) | [Total](total_contributions/micronesia.md) | [Followers](followers/micronesia.md) |
 | [Moldova](countries/moldova.md) | 1,747 | [Public](public_contributions/moldova.md) | [Total](total_contributions/moldova.md) | [Followers](followers/moldova.md) |
 | [Monaco](countries/monaco.md) | 142 | [Public](public_contributions/monaco.md) | [Total](total_contributions/monaco.md) | [Followers](followers/monaco.md) |
@@ -207,7 +207,7 @@ Published countries: 234
 | [Svalbard and Jan Mayen](countries/svalbard_and_jan_mayen.md) | 10 | [Public](public_contributions/svalbard_and_jan_mayen.md) | [Total](total_contributions/svalbard_and_jan_mayen.md) | [Followers](followers/svalbard_and_jan_mayen.md) |
 | [Sweden](countries/sweden.md) | 39,031 | [Public](public_contributions/sweden.md) | [Total](total_contributions/sweden.md) | [Followers](followers/sweden.md) |
 | [Switzerland](countries/switzerland.md) | 24,078 | [Public](public_contributions/switzerland.md) | [Total](total_contributions/switzerland.md) | [Followers](followers/switzerland.md) |
-| [Syria](countries/syria.md) | 1,480 | [Public](public_contributions/syria.md) | [Total](total_contributions/syria.md) | [Followers](followers/syria.md) |
+| [Syria](countries/syria.md) | 1,481 | [Public](public_contributions/syria.md) | [Total](total_contributions/syria.md) | [Followers](followers/syria.md) |
 | [Taiwan](countries/taiwan.md) | 21,994 | [Public](public_contributions/taiwan.md) | [Total](total_contributions/taiwan.md) | [Followers](followers/taiwan.md) |
 | [Tajikistan](countries/tajikistan.md) | 709 | [Public](public_contributions/tajikistan.md) | [Total](total_contributions/tajikistan.md) | [Followers](followers/tajikistan.md) |
 | [Tanzania](countries/tanzania.md) | 2,037 | [Public](public_contributions/tanzania.md) | [Total](total_contributions/tanzania.md) | [Followers](followers/tanzania.md) |
@@ -239,4 +239,4 @@ Published countries: 234
 | [Zambia](countries/zambia.md) | 1,337 | [Public](public_contributions/zambia.md) | [Total](total_contributions/zambia.md) | [Followers](followers/zambia.md) |
 | [Zimbabwe](countries/zimbabwe.md) | 1,656 | [Public](public_contributions/zimbabwe.md) | [Total](total_contributions/zimbabwe.md) | [Followers](followers/zimbabwe.md) |
 
-Generated: 2026-10-18T23:21:08.744Z
+Generated: 2026-10-18T23:45:55.617Z

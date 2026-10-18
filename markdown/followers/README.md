@@ -121,21 +121,21 @@ Published countries: 234
 | Liberia | 210 | [View](./liberia.md) |
 | Libya | 741 | [View](./libya.md) |
 | Liechtenstein | 113 | [View](./liechtenstein.md) |
-| Lithuania | 5,369 | [View](./lithuania.md) |
+| Lithuania | 5,368 | [View](./lithuania.md) |
 | Luxembourg | 2,190 | [View](./luxembourg.md) |
 | Macau | 439 | [View](./macau.md) |
 | Madagascar | 1,903 | [View](./madagascar.md) |
 | Malawi | 900 | [View](./malawi.md) |
-| Malaysia | 11,793 | [View](./malaysia.md) |
+| Malaysia | 11,791 | [View](./malaysia.md) |
 | Maldives | 354 | [View](./maldives.md) |
 | Mali | 348 | [View](./mali.md) |
 | Malta | 1,224 | [View](./malta.md) |
 | Marshall Islands | 11 | [View](./marshall_islands.md) |
 | Martinique | 75 | [View](./martinique.md) |
 | Mauritania | 289 | [View](./mauritania.md) |
-| Mauritius | 714 | [View](./mauritius.md) |
+| Mauritius | 715 | [View](./mauritius.md) |
 | Mayotte | 17 | [View](./mayotte.md) |
-| Mexico | 23,491 | [View](./mexico.md) |
+| Mexico | 23,490 | [View](./mexico.md) |
 | Micronesia | 11 | [View](./micronesia.md) |
 | Moldova | 1,747 | [View](./moldova.md) |
 | Monaco | 142 | [View](./monaco.md) |
@@ -207,7 +207,7 @@ Published countries: 234
 | Svalbard and Jan Mayen | 10 | [View](./svalbard_and_jan_mayen.md) |
 | Sweden | 39,031 | [View](./sweden.md) |
 | Switzerland | 24,078 | [View](./switzerland.md) |
-| Syria | 1,480 | [View](./syria.md) |
+| Syria | 1,481 | [View](./syria.md) |
 | Taiwan | 21,994 | [View](./taiwan.md) |
 | Tajikistan | 709 | [View](./tajikistan.md) |
 | Tanzania | 2,037 | [View](./tanzania.md) |
@@ -239,4 +239,4 @@ Published countries: 234
 | Zambia | 1,337 | [View](./zambia.md) |
 | Zimbabwe | 1,656 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-18T23:21:08.744Z
+Generated: 2026-10-18T23:45:55.617Z

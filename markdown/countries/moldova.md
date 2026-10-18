@@ -18,14 +18,14 @@ Indexed users: 1,747
 | 4 | [icaliman](https://github.com/icaliman) | Ion Căliman | Moldova | 10,453 |
 | 5 | [danlapteacru](https://github.com/danlapteacru) | Dan Lapteacru | Ungheni, Moldova / Iasi, Romania | 8,074 |
 | 6 | [Nemo-Illusionist](https://github.com/Nemo-Illusionist) | Peter Radilov | Moldova | 7,286 |
-| 7 | [dotteamdev](https://github.com/dotteamdev) | Dan Oistric | Moldova | 6,910 |
-| 8 | [deniscuciuc](https://github.com/deniscuciuc) | Denis Cuciuc | Moldova | 6,898 |
-| 9 | [pv-a-ilievici](https://github.com/pv-a-ilievici) | Andrei Ilievici | Chisinau, Moldova | 6,398 |
-| 10 | [stephen-golban](https://github.com/stephen-golban) | Stephen G | Moldova | 5,977 |
-| 11 | [mtkachenk0](https://github.com/mtkachenk0) | Maxim Tkachenko | Chisinau, Moldova | 5,841 |
-| 12 | [sebsti5](https://github.com/sebsti5) | Sebastian | Moldova 🇲🇩 | 5,426 |
-| 13 | [artickc](https://github.com/artickc) | NOXX - Commiter | Moldova, Chisinau | 5,416 |
-| 14 | [kneazy](https://github.com/kneazy) | Vitalie | Moldova, Chisinau  | 5,412 |
+| 7 | [kneazy](https://github.com/kneazy) | Vitalie | Moldova, Chisinau  | 6,940 |
+| 8 | [dotteamdev](https://github.com/dotteamdev) | Dan Oistric | Moldova | 6,910 |
+| 9 | [deniscuciuc](https://github.com/deniscuciuc) | Denis Cuciuc | Moldova | 6,898 |
+| 10 | [pv-a-ilievici](https://github.com/pv-a-ilievici) | Andrei Ilievici | Chisinau, Moldova | 6,398 |
+| 11 | [stephen-golban](https://github.com/stephen-golban) | Stephen G | Moldova | 5,977 |
+| 12 | [mtkachenk0](https://github.com/mtkachenk0) | Maxim Tkachenko | Chisinau, Moldova | 5,841 |
+| 13 | [sebsti5](https://github.com/sebsti5) | Sebastian | Moldova 🇲🇩 | 5,426 |
+| 14 | [artickc](https://github.com/artickc) | NOXX - Commiter | Moldova, Chisinau | 5,416 |
 | 15 | [batanus](https://github.com/batanus) | Dmitrii Medvedev | Chisinau, Moldova | 5,313 |
 | 16 | [grigorii-horos](https://github.com/grigorii-horos) | Grigorii Horos | Republic of Moldova | 5,250 |
 | 17 | [xyrolle](https://github.com/xyrolle) | Serghei | Moldova | 5,240 |
@@ -83,4 +83,4 @@ Indexed users: 1,747
 | 19 | [vgaidarji](https://github.com/vgaidarji) | Veaceslav Gaidarji | Moldova | 115 |
 | 20 | [Ernest96](https://github.com/Ernest96) | Ernest | Chisinau Moldova | 107 |
 
-Generated: 2026-10-18T21:13:46.279Z
+Generated: 2026-10-18T23:31:03.709Z

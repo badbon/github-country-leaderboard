@@ -1,6 +1,6 @@
 # Public Contributions - Papua New Guinea
 
-Generated: 2026-10-18T21:20:31.096Z
+Generated: 2026-10-18T23:38:01.925Z
 
 Users: 296
 
@@ -12,7 +12,7 @@ Users: 296
 | 4 | [jm0535](https://github.com/jm0535) | Jimmy Moses |  |  | Papua New Guinea | 824 |
 | 5 | [BruinGrowly](https://github.com/BruinGrowly) | Wellington Taureka |  |  | Port Moresby, Papua New Guinea | 542 |
 | 6 | [TMJ-24](https://github.com/TMJ-24) | tmj | https://jershmamet.com |  | Port Moresby | 452 |
-| 7 | [rudoq007](https://github.com/rudoq007) | WanixRSGIS |  |  | Papua New Guinea | 331 |
+| 7 | [rudoq007](https://github.com/rudoq007) | WanixRSGIS |  |  | Papua New Guinea | 332 |
 | 8 | [alefsolutions](https://github.com/alefsolutions) | Louis Ronald | Alef Digital Solutions |  | Port Moresby | 280 |
 | 9 | [hoiregeno](https://github.com/hoiregeno) | Geno Hoire | Self-Employed |  | Port Moresby, Papua New Guinea | 245 |
 | 10 | [digi4arch424](https://github.com/digi4arch424) | DigiArch 424 |  |  | Port Moresby | 242 |
