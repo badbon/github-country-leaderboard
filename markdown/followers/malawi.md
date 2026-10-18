@@ -1,6 +1,6 @@
 # Followers - Malawi
 
-Generated: 2026-10-17T23:22:19.421Z
+Generated: 2026-10-18T00:55:34.836Z
 
 Users: 901
 
@@ -18,7 +18,7 @@ Users: 901
 | 10 | [JosephGMkonda](https://github.com/JosephGMkonda) | Joseph Mkonda | codebuddy |  | malawi | 235 |
 | 11 | [IsaacKalambo22](https://github.com/IsaacKalambo22) | Isaac Kalambo | @InfinityCodeMw  | IsaacKalam44251 | Lilongwe | 230 |
 | 12 | [nbolok-code](https://github.com/nbolok-code) | Nathan Bolokonya |  |  | Malawi  | 223 |
-| 13 | [macneil265](https://github.com/macneil265) | Mac Neil | Mac Neil | macneil265 | Lilongwe | 205 |
+| 13 | [macneil265](https://github.com/macneil265) | Mac Neil | Mac Neil | macneil265 | Lilongwe | 206 |
 | 14 | [PreciousNyasulu](https://github.com/PreciousNyasulu) | Precious Nyasulu | @Angledimension @Almost-thr  ex @creditdatamw @golang-malawi | theebyter | Blantyre, Malawi | 202 |
 | 15 | [TgkCapture](https://github.com/TgkCapture) | tgkcapture | ex @creditdatamw  | tgkcapture | Blantyre, Malawi. | 197 |
 | 16 | [i-christian](https://github.com/i-christian) | Christian |  |  | Mzuzu, Malawi  | 177 |

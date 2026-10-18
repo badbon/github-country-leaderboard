@@ -55,7 +55,7 @@ Indexed users: 888
 | 16 | [YuriiMotov](https://github.com/YuriiMotov) | Yurii Motov | Bar, Montenegro | 1,477 |
 | 17 | [yurabakhtin](https://github.com/yurabakhtin) | Yuriy Bakhtin | Montenegro | 1,389 |
 | 18 | [artempartos](https://github.com/artempartos) | Artem Petrov | Montenegro | 1,281 |
-| 19 | [itrcz](https://github.com/itrcz) | Ilya Trikoz | Montenegro | 1,188 |
+| 19 | [itrcz](https://github.com/itrcz) | Ilya Trikoz | Montenegro | 1,190 |
 | 20 | [lunochkin](https://github.com/lunochkin) | Maksim Lunochkin | Montenegro | 960 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 888
 | 19 | [vovkasm](https://github.com/vovkasm) | Vladimir Timofeev | Budva, Montenegro | 99 |
 | 20 | [marcoroganovic](https://github.com/marcoroganovic) | Marko Roganovic | Montenegro | 89 |
 
-Generated: 2026-10-17T23:28:01.720Z
+Generated: 2026-10-18T01:02:49.566Z

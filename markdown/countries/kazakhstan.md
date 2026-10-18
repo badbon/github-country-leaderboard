@@ -12,7 +12,7 @@ Indexed users: 5,636
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [chelaxian](https://github.com/chelaxian) | ratu.sh | Kazakhstan | 126,195 |
+| 1 | [chelaxian](https://github.com/chelaxian) | ratu.sh | Kazakhstan | 114,335 |
 | 2 | [rldyourmnd](https://github.com/rldyourmnd) | Danil Silantyev | Kazakhstan/World | 74,329 |
 | 3 | [nstwfdev](https://github.com/nstwfdev) | Timur | Kazakhstan | 40,407 |
 | 4 | [ZhymabekRoman](https://github.com/ZhymabekRoman) | Zhymabek Roman | Kazakhstan | 34,197 |
@@ -52,11 +52,11 @@ Indexed users: 5,636
 | 13 | [SapphoSys](https://github.com/SapphoSys) | Chloe | Almaty, Kazakhstan | 2,680 |
 | 14 | [MDI74](https://github.com/MDI74) | Dmitriy Myakotin | Kazakhstan, Astana | 2,672 |
 | 15 | [Kaiyrkhan](https://github.com/Kaiyrkhan) | Kaiyrkhan Mukapil | Almaty, Qazaqstan | 2,232 |
-| 16 | [chelaxian](https://github.com/chelaxian) | ratu.sh | Kazakhstan | 2,191 |
-| 17 | [atlet99](https://github.com/atlet99) | Abdurakhman Rakhmankulov | Shymkent, Kazakhstan | 2,099 |
-| 18 | [maximgorbatyuk](https://github.com/maximgorbatyuk) | Maxim Gorbatyuk | Kazakhstan | 2,049 |
-| 19 | [rdmbtc](https://github.com/rdmbtc) | Dr RDM | Kazakhstan | 2,041 |
-| 20 | [borisk85](https://github.com/borisk85) | Boris Komarov | Kazakhstan | 2,026 |
+| 16 | [atlet99](https://github.com/atlet99) | Abdurakhman Rakhmankulov | Shymkent, Kazakhstan | 2,099 |
+| 17 | [maximgorbatyuk](https://github.com/maximgorbatyuk) | Maxim Gorbatyuk | Kazakhstan | 2,049 |
+| 18 | [rdmbtc](https://github.com/rdmbtc) | Dr RDM | Kazakhstan | 2,041 |
+| 19 | [borisk85](https://github.com/borisk85) | Boris Komarov | Kazakhstan | 2,026 |
+| 20 | [shinovon](https://github.com/shinovon) | Arman Jussupgaliyev | Kazakhstan | 2,003 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 5,636
 | 19 | [aidarnouman](https://github.com/aidarnouman) | Aidar Nouman | Almaty, Kazakhstan | 303 |
 | 20 | [azamxvit](https://github.com/azamxvit) | Azamat | Kazakhstan, Atyrau | 295 |
 
-Generated: 2026-10-17T23:12:58.577Z
+Generated: 2026-10-18T00:48:02.251Z

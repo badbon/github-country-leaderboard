@@ -17,7 +17,7 @@ Indexed users: 991
 | 3 | [i4mjad](https://github.com/i4mjad) | Amjad Khalfan | Muscat, Oman | 14,547 |
 | 4 | [jaifar530](https://github.com/jaifar530) | Jaifar | Oman | 13,206 |
 | 5 | [7kylor](https://github.com/7kylor) | Taher Al Kiyumi | Muscat, OM. | 13,027 |
-| 6 | [NasserAlbusaidi](https://github.com/NasserAlbusaidi) | Nasser Albusaidi | Oman | 12,630 |
+| 6 | [NasserAlbusaidi](https://github.com/NasserAlbusaidi) | Nasser Albusaidi | Oman | 13,004 |
 | 7 | [bshbsh404](https://github.com/bshbsh404) | Bashir Hassan | Muscat, Oman | 10,687 |
 | 8 | [alanqoudif](https://github.com/alanqoudif) | faisal al anqoudi | Muscat, Oman 🇴🇲 | 9,231 |
 | 9 | [aldhaifani](https://github.com/aldhaifani) | Tareq Al-Dhaifani | Muscat, Oman | 9,045 |
@@ -26,7 +26,7 @@ Indexed users: 991
 | 12 | [shm379](https://github.com/shm379) | Hussein | Muscat | 8,259 |
 | 13 | [dmsherazi](https://github.com/dmsherazi) | Dost Muhammad Shah | Muscat, Oman | 7,532 |
 | 14 | [DevAseel](https://github.com/DevAseel) | Aseel Al Rawahi | Oman | 6,870 |
-| 15 | [lqji](https://github.com/lqji) | Ahmed Abdullah | Oman | 6,004 |
+| 15 | [lqji](https://github.com/lqji) | Ahmed Abdullah | Oman | 6,006 |
 | 16 | [MohAnghabo](https://github.com/MohAnghabo) | Mohammed Anghabo | Muscat | 5,328 |
 | 17 | [n3sser96](https://github.com/n3sser96) | Nasser Al Subhi | Oman | 4,719 |
 | 18 | [mohdrasbi](https://github.com/mohdrasbi) | Mohamed Al-Rasbi | Oman | 4,678 |
@@ -83,4 +83,4 @@ Indexed users: 991
 | 19 | [3mrdev](https://github.com/3mrdev) | Amr Abd-Alkrim | Khartoum, Sudan \| Muscat, Oman | 94 |
 | 20 | [AmirSa12](https://github.com/AmirSa12) | AmirHossein Sakhravi | Muscat, Oman | 91 |
 
-Generated: 2026-10-17T23:34:42.875Z
+Generated: 2026-10-18T01:10:33.314Z

@@ -1,8 +1,8 @@
 # Public Contributions - Latvia
 
-Generated: 2026-10-17T23:18:18.050Z
+Generated: 2026-10-18T00:51:58.681Z
 
-Users: 3254
+Users: 3253
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -19,10 +19,10 @@ Users: 3254
 | 11 | [ar2rsawseen](https://github.com/ar2rsawseen) | Arturs Sosins | @Countly  | ar2rsawseen | Latvia | 1858 |
 | 12 | [dmytropolizhai](https://github.com/dmytropolizhai) | Dmytro Polizhai |  |  | Latvia, Riga | 1850 |
 | 13 | [yarlson](https://github.com/yarlson) | Yar Kravtsov |  | yarlson | Riga, Latvia | 1820 |
-| 14 | [kristoferssolo](https://github.com/kristoferssolo) | Kristofers Solo |  |  | Latvia | 1576 |
-| 15 | [flancer64](https://github.com/flancer64) | Alex Gusev | F. Lancer, LLC |  | Riga, Latvia | 1497 |
-| 16 | [eglitise](https://github.com/eglitise) | Edgars Eglītis |  |  | Riga, Latvia | 1422 |
-| 17 | [LilithStd](https://github.com/LilithStd) | Dmitrii |  |  | Latvia, Riga | 1390 |
-| 18 | [Qaevix](https://github.com/Qaevix) | Qaevix |  |  | Riga | 1281 |
-| 19 | [Ted-Rose](https://github.com/Ted-Rose) | Tedis Rozenfelds |  |  | Latvia | 1216 |
-| 20 | [alanarzumanjan](https://github.com/alanarzumanjan) | Alan Arzumanjan | Transport and Telecommunication Institute |  | Latvia, Riga | 1214 |
+| 14 | [aleksejs1](https://github.com/aleksejs1) |  |  |  | Latvia | 1744 |
+| 15 | [kristoferssolo](https://github.com/kristoferssolo) | Kristofers Solo |  |  | Latvia | 1576 |
+| 16 | [flancer64](https://github.com/flancer64) | Alex Gusev | F. Lancer, LLC |  | Riga, Latvia | 1497 |
+| 17 | [eglitise](https://github.com/eglitise) | Edgars Eglītis |  |  | Riga, Latvia | 1422 |
+| 18 | [LilithStd](https://github.com/LilithStd) | Dmitrii |  |  | Latvia, Riga | 1390 |
+| 19 | [Qaevix](https://github.com/Qaevix) | Qaevix |  |  | Riga | 1281 |
+| 20 | [Ted-Rose](https://github.com/Ted-Rose) | Tedis Rozenfelds |  |  | Latvia | 1216 |

@@ -1,6 +1,6 @@
 # Public Contributions - Kyrgyzstan
 
-Generated: 2026-10-17T23:17:07.936Z
+Generated: 2026-10-18T00:51:23.634Z
 
 Users: 2443
 
@@ -13,7 +13,7 @@ Users: 2443
 | 5 | [ibrodevs](https://github.com/ibrodevs) | Ibrokhim | SU Solutions |  | Bishkek | 3050 |
 | 6 | [P5ina](https://github.com/P5ina) | Timur Turatbekov |  |  | Kyrgyzstan, Bishkek | 2962 |
 | 7 | [alisher-zhuman](https://github.com/alisher-zhuman) | Alisher Zhuman | Tunduk |  | Bishkek, Kyrgyzstan  | 1852 |
-| 8 | [fi-res](https://github.com/fi-res) | fires |  |  | kyrgyzstan | 1651 |
+| 8 | [fi-res](https://github.com/fi-res) | fires |  |  | kyrgyzstan | 1630 |
 | 9 | [bvasilenko](https://github.com/bvasilenko) | Boris Vasilenko |  |  | Bishkek, Kyrgyzstan (Relocated) | 1379 |
 | 10 | [Eldar2021](https://github.com/Eldar2021) | Eldiiar Almazbek | ElTeh | EldiiarAlmazbek | Bishkek | 1350 |
 | 11 | [raimbekovm](https://github.com/raimbekovm) | Murat Raimbekov | @ultralytics  |  | Bishkek, Kyrgyzstan | 1261 |

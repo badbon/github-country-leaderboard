@@ -1,13 +1,13 @@
 # Followers - Palestine
 
-Generated: 2026-10-17T23:35:47.872Z
+Generated: 2026-10-18T01:11:58.232Z
 
 Users: 2197
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [shadeed](https://github.com/shadeed) | Ahmad Shadeed |  | shadeed9 | Tulkarm, Palestine | 1849 |
-| 2 | [LaithGhnemat12302](https://github.com/LaithGhnemat12302) | Laith Ghnemat | Student at BZU |  | Palestine-Ramallah-Kufor-Malik | 498 |
+| 2 | [LaithGhnemat12302](https://github.com/LaithGhnemat12302) | Laith Ghnemat | Student at BZU |  | Palestine-Ramallah-Kufor-Malik | 505 |
 | 3 | [msafadi](https://github.com/msafadi) | Mohammed Safadi |  | msafadi | Gaza, Palestine | 491 |
 | 4 | [izadoesdev](https://github.com/izadoesdev) | iza | Databuddy | izadoesdev | Palestine | 257 |
 | 5 | [hayasam](https://github.com/hayasam) | Haya Samaana | An Najah National University |  | Palestine | 222 |

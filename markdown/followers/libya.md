@@ -1,6 +1,6 @@
 # Followers - Libya
 
-Generated: 2026-10-17T23:20:07.241Z
+Generated: 2026-10-18T00:52:58.854Z
 
 Users: 741
 
@@ -14,7 +14,7 @@ Users: 741
 | 6 | [Altaeb](https://github.com/Altaeb) | Abdelfattah Altaeb |  Namma Technology |  | Libya | 81 |
 | 7 | [boomeradhd](https://github.com/boomeradhd) | Boomer | Freelancer |  | Tripoli, Libya | 77 |
 | 8 | [qw46478](https://github.com/qw46478) | WZ_asaeh |  |  | Libya | 77 |
-| 9 | [mohimenly1](https://github.com/mohimenly1) | Mohimen Tantoush |  |  | Tripoli | 76 |
+| 9 | [mohimenly1](https://github.com/mohimenly1) | Mohimen Tantoush |  |  | Tripoli | 75 |
 | 10 | [Abdullah-Arab](https://github.com/Abdullah-Arab) | Abdullah Arab | Golden Network | AbdullahArab101 | tripoli / libya | 70 |
 | 11 | [Mahamed-Belkheir](https://github.com/Mahamed-Belkheir) |  | Taking a break |  | Libya, Benghazi | 64 |
 | 12 | [mohn93](https://github.com/mohn93) | Mohaned Benmesken | Libyan Spider |  | Libya | 62 |

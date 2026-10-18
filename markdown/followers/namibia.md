@@ -1,6 +1,6 @@
 # Followers - Namibia
 
-Generated: 2026-10-17T23:29:55.606Z
+Generated: 2026-10-18T01:04:47.083Z
 
 Users: 475
 
@@ -21,7 +21,7 @@ Users: 475
 | 13 | [Amunwe-ENE](https://github.com/Amunwe-ENE) | Erastus Amunwe | @ssc-na  |  | Windhoek, Namibia | 45 |
 | 14 | [euricodande](https://github.com/euricodande) | Eurico Dande |  | euricodande12 | Namibia-Windhoek | 43 |
 | 15 | [KuberKode](https://github.com/KuberKode) | Johan Strydom | Kuberkode.com |  | Windhoek, Namibia | 41 |
-| 16 | [SelmaNdapanda](https://github.com/SelmaNdapanda) | Selma Hamutenya |  |  | Windhoek, Namibia | 41 |
+| 16 | [SelmaNdapanda](https://github.com/SelmaNdapanda) | Selma Hamutenya |  |  | Windhoek, Namibia | 40 |
 | 17 | [ShifidiMetumoN](https://github.com/ShifidiMetumoN) | ShifidiM | Windhoek Consulting Engineers |  | Windhoek | 39 |
 | 18 | [Bettinalisah](https://github.com/Bettinalisah) | Bettinalisah |  | bettinalisah | Windhoek, Namibia | 36 |
 | 19 | [Hilya02](https://github.com/Hilya02) | Hilya Ntinda Tuyakula | Adaire | tuu_kuku | Windhoek, Namibia | 36 |

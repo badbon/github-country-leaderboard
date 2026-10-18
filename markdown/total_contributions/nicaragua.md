@@ -1,6 +1,6 @@
 # Total Contributions - Nicaragua
 
-Generated: 2026-10-17T23:30:13.928Z
+Generated: 2026-10-18T01:07:43.953Z
 
 Users: 1395
 

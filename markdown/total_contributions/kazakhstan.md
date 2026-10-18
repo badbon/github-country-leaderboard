@@ -1,12 +1,12 @@
 # Total Contributions - Kazakhstan
 
-Generated: 2026-10-17T23:12:58.577Z
+Generated: 2026-10-18T00:48:02.251Z
 
 Users: 5636
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [chelaxian](https://github.com/chelaxian) | ratu.sh |  |  | Kazakhstan | 126195 |
+| 1 | [chelaxian](https://github.com/chelaxian) | ratu.sh |  |  | Kazakhstan | 114335 |
 | 2 | [rldyourmnd](https://github.com/rldyourmnd) | Danil Silantyev | @NDDev-it-com |  | Kazakhstan/World | 74329 |
 | 3 | [nstwfdev](https://github.com/nstwfdev) | Timur |  |  | Kazakhstan | 40407 |
 | 4 | [ZhymabekRoman](https://github.com/ZhymabekRoman) | Zhymabek Roman |  |  | Kazakhstan | 34197 |

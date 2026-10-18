@@ -1,6 +1,6 @@
 # Public Contributions - Laos
 
-Generated: 2026-10-17T23:18:11.339Z
+Generated: 2026-10-18T00:51:53.894Z
 
 Users: 360
 
@@ -11,7 +11,7 @@ Users: 360
 | 3 | [bobby-sills](https://github.com/bobby-sills) | Bobby Sills |  |  | Vientiane, Laos | 1042 |
 | 4 | [tyecode](https://github.com/tyecode) | Sengphachanh CHANTHAVONG |  |  | Vientiane Capital, Laos | 624 |
 | 5 | [iamlex01](https://github.com/iamlex01) | Alex Saelao |  |  | Vientiane, Laos | 442 |
-| 6 | [dhecaptain](https://github.com/dhecaptain) | David Wambua | PUFFADDERS |  | Laos | 400 |
+| 6 | [dhecaptain](https://github.com/dhecaptain) | David Wambua | PUFFADDERS |  | Laos | 396 |
 | 7 | [douangtavanh](https://github.com/douangtavanh) | Douangtavanh Kongphaly |  |  | Vientiane, Laos | 387 |
 | 8 | [maxontorres](https://github.com/maxontorres) | Maxon Torres | Freelance | MaxonTorres | Vientiane, Laos | 362 |
 | 9 | [barluscuda](https://github.com/barluscuda) | BarlusCuda |  |  | Laos | 294 |

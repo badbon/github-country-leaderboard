@@ -1,6 +1,6 @@
 # Total Contributions - Oman
 
-Generated: 2026-10-17T23:34:42.875Z
+Generated: 2026-10-18T01:10:33.314Z
 
 Users: 991
 
@@ -11,7 +11,7 @@ Users: 991
 | 3 | [i4mjad](https://github.com/i4mjad) | Amjad Khalfan |  |  | Muscat, Oman | 14547 |
 | 4 | [jaifar530](https://github.com/jaifar530) | Jaifar |  |  | Oman | 13206 |
 | 5 | [7kylor](https://github.com/7kylor) | Taher Al Kiyumi |  |  | Muscat, OM. | 13027 |
-| 6 | [NasserAlbusaidi](https://github.com/NasserAlbusaidi) | Nasser Albusaidi | Rihal |  | Oman | 12630 |
+| 6 | [NasserAlbusaidi](https://github.com/NasserAlbusaidi) | Nasser Albusaidi | Rihal |  | Oman | 13004 |
 | 7 | [bshbsh404](https://github.com/bshbsh404) | Bashir Hassan |  |  | Muscat, Oman | 10687 |
 | 8 | [alanqoudif](https://github.com/alanqoudif) | faisal al anqoudi | @NuqtaAI |  | Muscat, Oman 🇴🇲 | 9231 |
 | 9 | [aldhaifani](https://github.com/aldhaifani) | Tareq Al-Dhaifani |  |  | Muscat, Oman | 9045 |
@@ -20,7 +20,7 @@ Users: 991
 | 12 | [shm379](https://github.com/shm379) | Hussein | MrChatGPT |  | Muscat | 8259 |
 | 13 | [dmsherazi](https://github.com/dmsherazi) | Dost Muhammad Shah | Kindows Tech Solutions |  | Muscat, Oman | 7532 |
 | 14 | [DevAseel](https://github.com/DevAseel) | Aseel Al Rawahi | instaSpace |  | Oman | 6870 |
-| 15 | [lqji](https://github.com/lqji) | Ahmed Abdullah | Codeline |  | Oman | 6004 |
+| 15 | [lqji](https://github.com/lqji) | Ahmed Abdullah | Codeline |  | Oman | 6006 |
 | 16 | [MohAnghabo](https://github.com/MohAnghabo) | Mohammed Anghabo | DhamenIT | MohAnghabo | Muscat | 5328 |
 | 17 | [n3sser96](https://github.com/n3sser96) | Nasser Al Subhi | @rihal-om  | 96n3s | Oman | 4719 |
 | 18 | [mohdrasbi](https://github.com/mohdrasbi) | Mohamed Al-Rasbi | Rihal |  | Oman | 4678 |

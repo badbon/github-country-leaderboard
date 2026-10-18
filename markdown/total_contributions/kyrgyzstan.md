@@ -1,6 +1,6 @@
 # Total Contributions - Kyrgyzstan
 
-Generated: 2026-10-17T23:17:07.936Z
+Generated: 2026-10-18T00:51:23.634Z
 
 Users: 2443
 
@@ -21,8 +21,8 @@ Users: 2443
 | 13 | [metalagman](https://github.com/metalagman) | Alexey Samoylov | @baldaworks | metalagman | Bishkek, Kyrgyz Republic | 5286 |
 | 14 | [chalshik](https://github.com/chalshik) | Nurmukhammed Kalmamatov | @aitsolutions |  | Kyrgyzstan | 5150 |
 | 15 | [qiniks](https://github.com/qiniks) | Talant Mataev |  |  | Kyrgyzstan | 5133 |
-| 16 | [emirbaktybekov-king](https://github.com/emirbaktybekov-king) | Emir Baktybekov |  |  | Bishkek, Kyrgyzstan | 5027 |
-| 17 | [P5ina](https://github.com/P5ina) | Timur Turatbekov |  |  | Kyrgyzstan, Bishkek | 4996 |
-| 18 | [991o2o9](https://github.com/991o2o9) | Soltobekov Amin |  |  | Bishkek | 4857 |
-| 19 | [isybai](https://github.com/isybai) | Isa | Stim.io |  | Bishkek | 4752 |
-| 20 | [nasipa1](https://github.com/nasipa1) | Nasipa | LLC Alpha-Net |  | Kyrgyzstan, Bishkek | 4724 |
+| 16 | [nasipa1](https://github.com/nasipa1) | Nasipa | LLC Alpha-Net |  | Kyrgyzstan, Bishkek | 5031 |
+| 17 | [emirbaktybekov-king](https://github.com/emirbaktybekov-king) | Emir Baktybekov |  |  | Bishkek, Kyrgyzstan | 5027 |
+| 18 | [P5ina](https://github.com/P5ina) | Timur Turatbekov |  |  | Kyrgyzstan, Bishkek | 4996 |
+| 19 | [991o2o9](https://github.com/991o2o9) | Soltobekov Amin |  |  | Bishkek | 4857 |
+| 20 | [isybai](https://github.com/isybai) | Isa | Stim.io |  | Bishkek | 4752 |

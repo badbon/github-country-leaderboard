@@ -1,8 +1,8 @@
 # Total Contributions - Myanmar
 
-Generated: 2026-10-17T23:29:52.703Z
+Generated: 2026-10-18T01:04:08.857Z
 
-Users: 2057
+Users: 2056
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -20,9 +20,9 @@ Users: 2057
 | 12 | [kyawhtetyang](https://github.com/kyawhtetyang) | Kyaw Htet |  |  | Myanmar | 4200 |
 | 13 | [thanthtooaung-coding](https://github.com/thanthtooaung-coding) | Thant Htoo Aung | Laconic | VinnnDev | Yangon, Myanmar | 3888 |
 | 14 | [myatminag](https://github.com/myatminag) | Myat Min Aung | AYA Bank (Innovation Labs) |  | Yangon, Myanmar | 3857 |
-| 15 | [Hein-HtetSan](https://github.com/Hein-HtetSan) | dev@hnhts | Freelance |  | Myanmar, Yangon | 3664 |
+| 15 | [Hein-HtetSan](https://github.com/Hein-HtetSan) | dev@hnhts | Freelance |  | Myanmar, Yangon | 3744 |
 | 16 | [PyaeSoneAungRgn](https://github.com/PyaeSoneAungRgn) | Pyae Sone Aung |  |  | Yangon, Myanmar | 3646 |
-| 17 | [KHUN-NOON](https://github.com/KHUN-NOON) |  |  |  | Taunggyi, Myanmar | 3409 |
-| 18 | [YeMyoAung](https://github.com/YeMyoAung) | Ye Myo Aung | Klink.cloud | YeMyoAung994 | Myanmar/Mandalay | 3399 |
-| 19 | [MinThutaSawNaing](https://github.com/MinThutaSawNaing) | Min Thuta Saw Naing Eric | Myanmar Golden Rock International |  | Myanmar/ Singapore | 3316 |
-| 20 | [sithuaung](https://github.com/sithuaung) | Si Thu Aung | Carro |  | Myanmar | 3249 |
+| 17 | [HanZawNyein](https://github.com/HanZawNyein) | Agga | IdeaCode Academy |  | Myanmar | 3422 |
+| 18 | [KHUN-NOON](https://github.com/KHUN-NOON) |  |  |  | Taunggyi, Myanmar | 3409 |
+| 19 | [YeMyoAung](https://github.com/YeMyoAung) | Ye Myo Aung | Klink.cloud | YeMyoAung994 | Myanmar/Mandalay | 3399 |
+| 20 | [MinThutaSawNaing](https://github.com/MinThutaSawNaing) | Min Thuta Saw Naing Eric | Myanmar Golden Rock International |  | Myanmar/ Singapore | 3316 |

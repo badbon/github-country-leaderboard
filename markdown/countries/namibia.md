@@ -31,7 +31,7 @@ Indexed users: 475
 | 17 | [Eckhardt-D](https://github.com/Eckhardt-D) | Eckhardt Scheffer | Namibia | 2,058 |
 | 18 | [TulongaHishiko](https://github.com/TulongaHishiko) | Tulonga Hishiko | Namibia  | 2,043 |
 | 19 | [lothartj](https://github.com/lothartj) | Lothar Tjipueja | Windhoek | 1,937 |
-| 20 | [mou-rush](https://github.com/mou-rush) | Moureen | Swakopmund, Namibia | 1,762 |
+| 20 | [mou-rush](https://github.com/mou-rush) | Moureen | Swakopmund, Namibia | 1,745 |
 
 ## Public Contributions
 
@@ -42,14 +42,14 @@ Indexed users: 475
 | 3 | [lemuelvdm](https://github.com/lemuelvdm) | Lemuel | Namibia | 2,175 |
 | 4 | [DeclanRiedel](https://github.com/DeclanRiedel) | Declan | Walvis Bay, Namibia | 1,904 |
 | 5 | [evertvorster](https://github.com/evertvorster) | Evert Vorster | Walvis Bay, Namibia | 1,664 |
-| 6 | [CodeGrogu](https://github.com/CodeGrogu) | Jaden Awaseb | Namibia | 1,318 |
+| 6 | [CodeGrogu](https://github.com/CodeGrogu) | Jaden Awaseb | Namibia | 1,320 |
 | 7 | [gijzelaerr](https://github.com/gijzelaerr) | Gijs Molenaar | Amsterdam - Windhoek | 1,247 |
 | 8 | [lamlg00](https://github.com/lamlg00) | Lam II | Windhoek | 679 |
 | 9 | [Driftedbucket](https://github.com/Driftedbucket) | Awike Gulu | Windhoek, Namibia | 586 |
 | 10 | [Leon2332](https://github.com/Leon2332) | Leon | Namibia | 558 |
 | 11 | [Tusneld](https://github.com/Tusneld) | Tusnelde Endjala | Namibia | 427 |
 | 12 | [Sphellep04](https://github.com/Sphellep04) | Phellep.Dev | Windhoek, Namibia | 361 |
-| 13 | [mou-rush](https://github.com/mou-rush) | Moureen | Swakopmund, Namibia | 310 |
+| 13 | [mou-rush](https://github.com/mou-rush) | Moureen | Swakopmund, Namibia | 312 |
 | 14 | [Math0202](https://github.com/Math0202) | Tangeni Matheus | Namibia, Windhoek | 273 |
 | 15 | [rtonata88](https://github.com/rtonata88) | Richard Chambula | Windhoek, Namibia | 272 |
 | 16 | [PascalMTK](https://github.com/PascalMTK) |  | Windhoek - Namibia | 264 |
@@ -77,10 +77,10 @@ Indexed users: 475
 | 13 | [Amunwe-ENE](https://github.com/Amunwe-ENE) | Erastus Amunwe | Windhoek, Namibia | 45 |
 | 14 | [euricodande](https://github.com/euricodande) | Eurico Dande | Namibia-Windhoek | 43 |
 | 15 | [KuberKode](https://github.com/KuberKode) | Johan Strydom | Windhoek, Namibia | 41 |
-| 16 | [SelmaNdapanda](https://github.com/SelmaNdapanda) | Selma Hamutenya | Windhoek, Namibia | 41 |
+| 16 | [SelmaNdapanda](https://github.com/SelmaNdapanda) | Selma Hamutenya | Windhoek, Namibia | 40 |
 | 17 | [ShifidiMetumoN](https://github.com/ShifidiMetumoN) | ShifidiM | Windhoek | 39 |
 | 18 | [Bettinalisah](https://github.com/Bettinalisah) | Bettinalisah | Windhoek, Namibia | 36 |
 | 19 | [Hilya02](https://github.com/Hilya02) | Hilya Ntinda Tuyakula | Windhoek, Namibia | 36 |
 | 20 | [erassynathingo](https://github.com/erassynathingo) | Erastus Nathingo | Windhoek | 33 |
 
-Generated: 2026-10-17T23:29:55.606Z
+Generated: 2026-10-18T01:04:47.083Z

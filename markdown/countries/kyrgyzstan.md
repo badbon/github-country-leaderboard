@@ -27,11 +27,11 @@ Indexed users: 2,443
 | 13 | [metalagman](https://github.com/metalagman) | Alexey Samoylov | Bishkek, Kyrgyz Republic | 5,286 |
 | 14 | [chalshik](https://github.com/chalshik) | Nurmukhammed Kalmamatov | Kyrgyzstan | 5,150 |
 | 15 | [qiniks](https://github.com/qiniks) | Talant Mataev | Kyrgyzstan | 5,133 |
-| 16 | [emirbaktybekov-king](https://github.com/emirbaktybekov-king) | Emir Baktybekov | Bishkek, Kyrgyzstan | 5,027 |
-| 17 | [P5ina](https://github.com/P5ina) | Timur Turatbekov | Kyrgyzstan, Bishkek | 4,996 |
-| 18 | [991o2o9](https://github.com/991o2o9) | Soltobekov Amin | Bishkek | 4,857 |
-| 19 | [isybai](https://github.com/isybai) | Isa | Bishkek | 4,752 |
-| 20 | [nasipa1](https://github.com/nasipa1) | Nasipa | Kyrgyzstan, Bishkek | 4,724 |
+| 16 | [nasipa1](https://github.com/nasipa1) | Nasipa | Kyrgyzstan, Bishkek | 5,031 |
+| 17 | [emirbaktybekov-king](https://github.com/emirbaktybekov-king) | Emir Baktybekov | Bishkek, Kyrgyzstan | 5,027 |
+| 18 | [P5ina](https://github.com/P5ina) | Timur Turatbekov | Kyrgyzstan, Bishkek | 4,996 |
+| 19 | [991o2o9](https://github.com/991o2o9) | Soltobekov Amin | Bishkek | 4,857 |
+| 20 | [isybai](https://github.com/isybai) | Isa | Bishkek | 4,752 |
 
 ## Public Contributions
 
@@ -44,7 +44,7 @@ Indexed users: 2,443
 | 5 | [ibrodevs](https://github.com/ibrodevs) | Ibrokhim | Bishkek | 3,050 |
 | 6 | [P5ina](https://github.com/P5ina) | Timur Turatbekov | Kyrgyzstan, Bishkek | 2,962 |
 | 7 | [alisher-zhuman](https://github.com/alisher-zhuman) | Alisher Zhuman | Bishkek, Kyrgyzstan  | 1,852 |
-| 8 | [fi-res](https://github.com/fi-res) | fires | kyrgyzstan | 1,651 |
+| 8 | [fi-res](https://github.com/fi-res) | fires | kyrgyzstan | 1,630 |
 | 9 | [bvasilenko](https://github.com/bvasilenko) | Boris Vasilenko | Bishkek, Kyrgyzstan (Relocated) | 1,379 |
 | 10 | [Eldar2021](https://github.com/Eldar2021) | Eldiiar Almazbek | Bishkek | 1,350 |
 | 11 | [raimbekovm](https://github.com/raimbekovm) | Murat Raimbekov | Bishkek, Kyrgyzstan | 1,261 |
@@ -83,4 +83,4 @@ Indexed users: 2,443
 | 19 | [Elkhan2003](https://github.com/Elkhan2003) | Elkhan Sharshenbekov | Karakol, Kyrgyzstan | 103 |
 | 20 | [eszdman](https://github.com/eszdman) |  | Kyrgyzstan | 103 |
 
-Generated: 2026-10-17T23:17:07.936Z
+Generated: 2026-10-18T00:51:23.634Z

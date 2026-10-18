@@ -1,6 +1,6 @@
 # Latvia
 
-Indexed users: 3,254
+Indexed users: 3,253
 
 | Leaderboard | Link |
 |---|---|
@@ -50,13 +50,13 @@ Indexed users: 3,254
 | 11 | [ar2rsawseen](https://github.com/ar2rsawseen) | Arturs Sosins | Latvia | 1,858 |
 | 12 | [dmytropolizhai](https://github.com/dmytropolizhai) | Dmytro Polizhai | Latvia, Riga | 1,850 |
 | 13 | [yarlson](https://github.com/yarlson) | Yar Kravtsov | Riga, Latvia | 1,820 |
-| 14 | [kristoferssolo](https://github.com/kristoferssolo) | Kristofers Solo | Latvia | 1,576 |
-| 15 | [flancer64](https://github.com/flancer64) | Alex Gusev | Riga, Latvia | 1,497 |
-| 16 | [eglitise](https://github.com/eglitise) | Edgars Eglītis | Riga, Latvia | 1,422 |
-| 17 | [LilithStd](https://github.com/LilithStd) | Dmitrii | Latvia, Riga | 1,390 |
-| 18 | [Qaevix](https://github.com/Qaevix) | Qaevix | Riga | 1,281 |
-| 19 | [Ted-Rose](https://github.com/Ted-Rose) | Tedis Rozenfelds | Latvia | 1,216 |
-| 20 | [alanarzumanjan](https://github.com/alanarzumanjan) | Alan Arzumanjan | Latvia, Riga | 1,214 |
+| 14 | [aleksejs1](https://github.com/aleksejs1) |  | Latvia | 1,744 |
+| 15 | [kristoferssolo](https://github.com/kristoferssolo) | Kristofers Solo | Latvia | 1,576 |
+| 16 | [flancer64](https://github.com/flancer64) | Alex Gusev | Riga, Latvia | 1,497 |
+| 17 | [eglitise](https://github.com/eglitise) | Edgars Eglītis | Riga, Latvia | 1,422 |
+| 18 | [LilithStd](https://github.com/LilithStd) | Dmitrii | Latvia, Riga | 1,390 |
+| 19 | [Qaevix](https://github.com/Qaevix) | Qaevix | Riga | 1,281 |
+| 20 | [Ted-Rose](https://github.com/Ted-Rose) | Tedis Rozenfelds | Latvia | 1,216 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 3,254
 | 19 | [ruslanskorb](https://github.com/ruslanskorb) | Ruslan Skorb | Riga, Latvia | 226 |
 | 20 | [0ki](https://github.com/0ki) | Кirils Sоlovjоvs | Latvia | 224 |
 
-Generated: 2026-10-17T23:18:18.050Z
+Generated: 2026-10-18T00:51:58.681Z
