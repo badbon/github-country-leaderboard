@@ -20,7 +20,7 @@ Indexed users: 132
 | 6 | [shaquillehinds](https://github.com/shaquillehinds) | Shaquille Hinds | Barbados | 2,743 |
 | 7 | [alexlilburn](https://github.com/alexlilburn) | Alex Lilburn | Barbados | 1,949 |
 | 8 | [Taggs](https://github.com/Taggs) | Neil Taggart | (London \|\| Barbados) && Cloud | 1,719 |
-| 9 | [FamineDT246](https://github.com/FamineDT246) | Ceejay C | Barbados | 1,545 |
+| 9 | [FamineDT246](https://github.com/FamineDT246) | Ceejay C | Barbados | 1,546 |
 | 10 | [ShamarKellman](https://github.com/ShamarKellman) | Shamar Kellman | Barbados | 1,383 |
 | 11 | [alexanderbahlk](https://github.com/alexanderbahlk) | Alexander Bahlk | Barbados | 1,346 |
 | 12 | [dario-j-c](https://github.com/dario-j-c) | Dario J C | Barbados | 1,135 |
@@ -41,7 +41,7 @@ Indexed users: 132
 | 2 | [ianhambleton](https://github.com/ianhambleton) | Ian Hambleton | Barbados | 673 |
 | 3 | [caritechsolutions](https://github.com/caritechsolutions) |  | Barbados | 410 |
 | 4 | [shaquillehinds](https://github.com/shaquillehinds) | Shaquille Hinds | Barbados | 357 |
-| 5 | [jlayne246](https://github.com/jlayne246) | Joshua Layne | Bridgetown, Barbados | 308 |
+| 5 | [jlayne246](https://github.com/jlayne246) | Joshua Layne | Bridgetown, Barbados | 307 |
 | 6 | [daley-mottley](https://github.com/daley-mottley) | Daley Mottley | Barbados | 267 |
 | 7 | [BlueRoyy](https://github.com/BlueRoyy) | Kenroy Ronnie Roach | Barbados | 226 |
 | 8 | [lukehefson](https://github.com/lukehefson) | Luke Hefson | Barbados | 220 |
@@ -83,4 +83,4 @@ Indexed users: 132
 | 19 | [sramharack](https://github.com/sramharack) | Shankar Ramharack | St. Phillips, Barbados, W.I. | 12 |
 | 20 | [paulamelrz](https://github.com/paulamelrz) | Paula Melero | Barbados | 11 |
 
-Generated: 2026-10-18T05:25:41.606Z
+Generated: 2026-10-18T07:04:00.632Z

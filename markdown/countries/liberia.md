@@ -26,8 +26,8 @@ Indexed users: 210
 | 12 | [mdsomah](https://github.com/mdsomah) | Mesheal D. Somah Sr. | Monrovia, Liberia | 1,112 |
 | 13 | [stenson](https://github.com/stenson) | Rob Stenson | Monrovia, CA | 867 |
 | 14 | [KalevRK](https://github.com/KalevRK) | Kalev Roomann-Kurrik | Monrovia, CA | 866 |
-| 15 | [abubakar3rd](https://github.com/abubakar3rd) | Abu-Bakar Abdullah Kanneh | Airfield, Sinkor, Monrovia, Liberia | 822 |
-| 16 | [daddysboy21](https://github.com/daddysboy21) | daddysboy.21 | Monrovia, Liberia | 816 |
+| 15 | [daddysboy21](https://github.com/daddysboy21) | daddysboy.21 | Monrovia, Liberia | 823 |
+| 16 | [abubakar3rd](https://github.com/abubakar3rd) | Abu-Bakar Abdullah Kanneh | Airfield, Sinkor, Monrovia, Liberia | 822 |
 | 17 | [jdaltonll02](https://github.com/jdaltonll02) | John Dalton Gibson | Liberia | 762 |
 | 18 | [efmomoh](https://github.com/efmomoh) | ENSSAH FAYIA MOMOH | Monrovia, Liberia | 719 |
 | 19 | [davewonnah](https://github.com/davewonnah) | Dave Wonnah | Monrovia, Liberia | 630 |
@@ -46,7 +46,7 @@ Indexed users: 210
 | 7 | [JohannFonseca](https://github.com/JohannFonseca) | Johann Curry  | Liberia | 351 |
 | 8 | [FranklinD10](https://github.com/FranklinD10) | FrApps | Liberia | 318 |
 | 9 | [pastoreekahk96](https://github.com/pastoreekahk96) | Pastoreekahk S Arthur | Monrovia, Liberia | 316 |
-| 10 | [AlexUG0104](https://github.com/AlexUG0104) | Alexander Umaña  | Liberia | 286 |
+| 10 | [AlexUG0104](https://github.com/AlexUG0104) | Alexander Umaña  | Liberia | 285 |
 | 11 | [cruso003](https://github.com/cruso003) | Geitodyu Henrique Crusoe | Paynesville, Liberia | 267 |
 | 12 | [prince14-D](https://github.com/prince14-D) | Dr. Prince W Dahn Jr | Liberia | 256 |
 | 13 | [SimeonATarr231](https://github.com/SimeonATarr231) | Simeon Aseon Tarr | Buchanan City, Liberia | 210 |
@@ -83,4 +83,4 @@ Indexed users: 210
 | 19 | [boaslah](https://github.com/boaslah) | Blessing Boaslah | Montserrado County, Liberia  | 21 |
 | 20 | [ejaygbay](https://github.com/ejaygbay) | Emmanuel Jaygbay | Liberia | 21 |
 
-Generated: 2026-10-18T06:06:30.435Z
+Generated: 2026-10-18T07:44:29.683Z

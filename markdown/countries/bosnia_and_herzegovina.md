@@ -22,9 +22,9 @@ Indexed users: 2,126
 | 8 | [ribice](https://github.com/ribice) | Emir Ribić | Sarajevo | 6,627 |
 | 9 | [NedimKuj](https://github.com/NedimKuj) | Nedim Kujrakovic | Sarajevo | 6,466 |
 | 10 | [JovanJevtic](https://github.com/JovanJevtic) | Jovan Jevtic | Banjaluka, Bosnia and Herzegovina | 6,310 |
-| 11 | [agobeljic1](https://github.com/agobeljic1) | Adnan Gobeljic | Sarajevo | 5,816 |
-| 12 | [TarikVelic](https://github.com/TarikVelic) | Tarik Velic | Sarajevo | 5,773 |
-| 13 | [vascabarkapa](https://github.com/vascabarkapa) | Vasilije Čabarkapa | East Sarajevo, Bosnia and Herzegovina | 5,769 |
+| 11 | [vascabarkapa](https://github.com/vascabarkapa) | Vasilije Čabarkapa | East Sarajevo, Bosnia and Herzegovina | 6,172 |
+| 12 | [agobeljic1](https://github.com/agobeljic1) | Adnan Gobeljic | Sarajevo | 5,816 |
+| 13 | [TarikVelic](https://github.com/TarikVelic) | Tarik Velic | Sarajevo | 5,773 |
 | 14 | [JokerHin](https://github.com/JokerHin) | Cho Kar Hin | Bosnia and Herzegovina | 5,738 |
 | 15 | [sanilmusic](https://github.com/sanilmusic) | Sanil Musić | Sarajevo | 5,737 |
 | 16 | [robo58](https://github.com/robo58) | Robert Sliskovic | Siroki Brijeg,Bosnia and Herzegovina | 5,452 |
@@ -50,7 +50,7 @@ Indexed users: 2,126
 | 11 | [DEntis-T](https://github.com/DEntis-T) | Tractus Corticospinalis | Sarajevo, FBiH | 1,374 |
 | 12 | [beganovich](https://github.com/beganovich) | Benjamin Beganović | Bosnia and Herzegovina | 1,345 |
 | 13 | [IntuitionAmiga](https://github.com/IntuitionAmiga) | Zayn | Sarajevo, BiH | 1,289 |
-| 14 | [kimamovic21](https://github.com/kimamovic21) | Kerim Imamović | Bosnia and Herzegovina | 1,141 |
+| 14 | [kimamovic21](https://github.com/kimamovic21) | Kerim Imamović | Bosnia and Herzegovina | 1,109 |
 | 15 | [pixerize](https://github.com/pixerize) | Djordje Sajlovic | Sarajevo, Bosnia and Herzegovina | 1,095 |
 | 16 | [omznc](https://github.com/omznc) | Omar Zunic | Bosnia & Herzegovina | 1,011 |
 | 17 | [enisdenjo](https://github.com/enisdenjo) | Denis Badurina | Sarajevo | 970 |
@@ -83,4 +83,4 @@ Indexed users: 2,126
 | 19 | [Mickey0001](https://github.com/Mickey0001) | Mirza Sisic | Sarajevo, Bosnia and Herzegovina  | 122 |
 | 20 | [sake92](https://github.com/sake92) | Sakib Hadžiavdić | Sarajevo, Bosnia | 118 |
 
-Generated: 2026-10-18T05:27:57.583Z
+Generated: 2026-10-18T07:06:49.978Z

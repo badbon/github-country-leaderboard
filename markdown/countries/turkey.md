@@ -45,7 +45,7 @@ Indexed users: 79,177
 | 6 | [tecotv2025](https://github.com/tecotv2025) | tecotv2025 | Türkiye | 18,266 |
 | 7 | [poyrazK](https://github.com/poyrazK) |  Hüseyin Poyraz Küçükarslan | Erzurum , Türkiye | 17,002 |
 | 8 | [yanekyuk](https://github.com/yanekyuk) | Yankı Ekin Yüksel | İstanbul | 12,571 |
-| 9 | [ardamoustafa1](https://github.com/ardamoustafa1) | Arda | İstanbul  | 11,265 |
+| 9 | [ardamoustafa1](https://github.com/ardamoustafa1) | Arda | İstanbul  | 11,148 |
 | 10 | [deligoez](https://github.com/deligoez) | Yunus Emre Deligöz | Ankara, TR | 10,835 |
 | 11 | [oaslananka](https://github.com/oaslananka) | Osman Aslan | Izmir/Türkiye | 10,365 |
 | 12 | [h4yfans](https://github.com/h4yfans) | Kaan Karaca | Istanbul, Turkey | 9,027 |
@@ -83,4 +83,4 @@ Indexed users: 79,177
 | 19 | [buger](https://github.com/buger) | Leonid Bugaev | Istanbul | 3,587 |
 | 20 | [ardaltunel](https://github.com/ardaltunel) | Arda Altunel | İstanbul/Turkey | 3,517 |
 
-Generated: 2026-10-18T05:07:54.674Z
+Generated: 2026-10-18T06:50:42.932Z

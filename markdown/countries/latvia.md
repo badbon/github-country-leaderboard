@@ -53,10 +53,10 @@ Indexed users: 3,253
 | 14 | [aleksejs1](https://github.com/aleksejs1) |  | Latvia | 1,744 |
 | 15 | [kristoferssolo](https://github.com/kristoferssolo) | Kristofers Solo | Latvia | 1,576 |
 | 16 | [flancer64](https://github.com/flancer64) | Alex Gusev | Riga, Latvia | 1,497 |
-| 17 | [eglitise](https://github.com/eglitise) | Edgars Eglītis | Riga, Latvia | 1,422 |
-| 18 | [LilithStd](https://github.com/LilithStd) | Dmitrii | Latvia, Riga | 1,390 |
-| 19 | [Qaevix](https://github.com/Qaevix) | Qaevix | Riga | 1,281 |
-| 20 | [Ted-Rose](https://github.com/Ted-Rose) | Tedis Rozenfelds | Latvia | 1,216 |
+| 17 | [sorokin-vladimir](https://github.com/sorokin-vladimir) | Vladimir Sorokin | Riga | 1,430 |
+| 18 | [eglitise](https://github.com/eglitise) | Edgars Eglītis | Riga, Latvia | 1,422 |
+| 19 | [LilithStd](https://github.com/LilithStd) | Dmitrii | Latvia, Riga | 1,390 |
+| 20 | [Qaevix](https://github.com/Qaevix) | Qaevix | Riga | 1,281 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 3,253
 | 19 | [ruslanskorb](https://github.com/ruslanskorb) | Ruslan Skorb | Riga, Latvia | 226 |
 | 20 | [0ki](https://github.com/0ki) | Кirils Sоlovjоvs | Latvia | 224 |
 
-Generated: 2026-10-18T06:05:40.153Z
+Generated: 2026-10-18T07:42:02.015Z

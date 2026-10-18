@@ -1,13 +1,13 @@
 # Total Contributions - Guam
 
-Generated: 2026-10-18T05:53:43.931Z
+Generated: 2026-10-18T07:31:43.435Z
 
 Users: 48
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [xiaden](https://github.com/xiaden) | Lucian Hardy |  |  | Guam | 1675 |
-| 2 | [ChairGTables](https://github.com/ChairGTables) | Jurichii | Lame Dimension | chairgtables | Guam | 1577 |
+| 2 | [ChairGTables](https://github.com/ChairGTables) | Jurichii | Lame Dimension | chairgtables | Guam | 1563 |
 | 3 | [dannikate](https://github.com/dannikate) | Dannika | WERI UOG |  | Guam | 1176 |
 | 4 | [ThaumX](https://github.com/ThaumX) | ThaumX |  |  | Guam | 478 |
 | 5 | [Chovin](https://github.com/Chovin) |  |  | Guamfella | Guam | 292 |

@@ -1,16 +1,16 @@
 # Total Contributions - Djibouti
 
-Generated: 2026-10-18T05:40:00.256Z
+Generated: 2026-10-18T07:20:03.226Z
 
 Users: 55
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [Ama-dou](https://github.com/Ama-dou) | Amadou Bah | Manelix Technologies |  | Djibouti | 5615 |
-| 2 | [Abdoul-Hakim101](https://github.com/Abdoul-Hakim101) | Abdihakim  Mohamed | @SPS-SIPS @AsalSolutions @somnog |  | Djibouti | 1395 |
+| 1 | [Ama-dou](https://github.com/Ama-dou) | Amadou Bah | Manelix Technologies |  | Djibouti | 5620 |
+| 2 | [Abdoul-Hakim101](https://github.com/Abdoul-Hakim101) | Abdihakim  Mohamed | @SPS-SIPS @AsalSolutions @somnog |  | Djibouti | 1388 |
 | 3 | [Captain-iiro](https://github.com/Captain-iiro) | Captain iiro (Abdourahman) |  |  | Djibouti | 1190 |
 | 4 | [moustapha-aden](https://github.com/moustapha-aden) | MOUSTAPHA ADEN DIRIYEH |  |  | Djibouti Dj | 655 |
-| 5 | [Ismael9-web](https://github.com/Ismael9-web) | Ismael Ladieh | @djib-dsi-budget  |  | Djibouti | 531 |
+| 5 | [Ismael9-web](https://github.com/Ismael9-web) | Ismael Ladieh | @djib-dsi-budget  |  | Djibouti | 529 |
 | 6 | [Obelisk999](https://github.com/Obelisk999) | Abdoulrazak |  |  | Djibouti | 404 |
 | 7 | [Filsan648](https://github.com/Filsan648) | Filsan |  |  | Djibouti | 324 |
 | 8 | [hamoudabass](https://github.com/hamoudabass) | Hamoud Abass  | Teacher at MENFOP | YoungAssajog | Djibouti | 291 |

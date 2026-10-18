@@ -1,6 +1,6 @@
 # Public Contributions - Antarctica
 
-Generated: 2026-10-18T05:20:27.202Z
+Generated: 2026-10-18T07:00:02.311Z
 
 Users: 460
 
@@ -13,9 +13,9 @@ Users: 460
 | 5 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Lapr Inc. |  | Antarctica | 3043 |
 | 6 | [PicasoTheDeal](https://github.com/PicasoTheDeal) | Tetstack |  |  | Antarctica | 2970 |
 | 7 | [shangyian](https://github.com/shangyian) | Yian |  |  | Antarctica | 2167 |
-| 8 | [krwg](https://github.com/krwg) | アイダ ミール | Google University |  | Antarctica | 1465 |
-| 9 | [enriquephl](https://github.com/enriquephl) |  | EtherFun Lab |  | Antarctica | 1439 |
-| 10 | [FreezingSnail](https://github.com/FreezingSnail) | Freezing Snail |  |  | Antarctica | 1384 |
+| 8 | [FreezingSnail](https://github.com/FreezingSnail) | Freezing Snail |  |  | Antarctica | 1541 |
+| 9 | [krwg](https://github.com/krwg) | アイダ ミール | Google University |  | Antarctica | 1465 |
+| 10 | [enriquephl](https://github.com/enriquephl) |  | EtherFun Lab |  | Antarctica | 1439 |
 | 11 | [antedotee](https://github.com/antedotee) | ky505 |  |  | Antarctica | 1119 |
 | 12 | [codes-by-utkarsh](https://github.com/codes-by-utkarsh) | Utkarsh Srivastava | VIT Bhopal  | u25tkarsh | Antarctica | 708 |
 | 13 | [KrLite](https://github.com/KrLite) | KrLite |  | KrLite | Antarctica | 684 |

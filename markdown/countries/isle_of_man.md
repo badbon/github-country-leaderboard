@@ -16,11 +16,11 @@ Indexed users: 155
 | 2 | [auberryberry](https://github.com/auberryberry) | Aubrey Stearn | Isle of Man | 10,272 |
 | 3 | [bengris32](https://github.com/bengris32) | Ben | Isle of Man | 8,454 |
 | 4 | [darrenbarklie](https://github.com/darrenbarklie) | Darren Barklie | Isle of Man | 4,515 |
-| 5 | [tekminewe](https://github.com/tekminewe) | Ewe Tek Min | Isle of Man | 3,542 |
+| 5 | [tekminewe](https://github.com/tekminewe) | Ewe Tek Min | Isle of Man | 3,570 |
 | 6 | [dive](https://github.com/dive) | Artem Loenko | Isle of Man | 2,160 |
 | 7 | [oliciv](https://github.com/oliciv) | Oli Allen | Isle of Man | 2,010 |
 | 8 | [lukawarren](https://github.com/lukawarren) | Luka Warren | Isle of Man | 1,940 |
-| 9 | [craigiswayne](https://github.com/craigiswayne) | Craig Wayne | Isle of Man | 1,864 |
+| 9 | [craigiswayne](https://github.com/craigiswayne) | Craig Wayne | Isle of Man | 1,855 |
 | 10 | [PerpetualBeta](https://github.com/PerpetualBeta) | Jonathan M. Hollin | Douglas, Isle of Man | 1,764 |
 | 11 | [thomas-coldwell](https://github.com/thomas-coldwell) | Thomas Coldwell | Isle of Man | 1,677 |
 | 12 | [ceottaki](https://github.com/ceottaki) | Felipe Ceotto | Isle of Man | 1,627 |
@@ -40,7 +40,7 @@ Indexed users: 155
 | 1 | [bengris32](https://github.com/bengris32) | Ben | Isle of Man | 5,582 |
 | 2 | [bllbtnd](https://github.com/bllbtnd) | Balla Botond | Isle of Man | 831 |
 | 3 | [PerpetualBeta](https://github.com/PerpetualBeta) | Jonathan M. Hollin | Douglas, Isle of Man | 773 |
-| 4 | [craigiswayne](https://github.com/craigiswayne) | Craig Wayne | Isle of Man | 712 |
+| 4 | [craigiswayne](https://github.com/craigiswayne) | Craig Wayne | Isle of Man | 706 |
 | 5 | [torquuato](https://github.com/torquuato) |  | Isle of Man | 557 |
 | 6 | [jonnyirwin](https://github.com/jonnyirwin) | Jonny Irwin | Isle of Man | 433 |
 | 7 | [dominichubble](https://github.com/dominichubble) | Dominic Hubble | Isle of Man | 360 |
@@ -83,4 +83,4 @@ Indexed users: 155
 | 19 | [lwangenheim](https://github.com/lwangenheim) | Lee Wangenheim | Isle of Man | 19 |
 | 20 | [DanAnkers](https://github.com/DanAnkers) | Daniel Ankers | Isle of Man | 18 |
 
-Generated: 2026-10-18T06:01:02.293Z
+Generated: 2026-10-18T07:36:34.458Z

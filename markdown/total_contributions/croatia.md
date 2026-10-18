@@ -1,8 +1,8 @@
 # Total Contributions - Croatia
 
-Generated: 2026-10-18T05:38:31.266Z
+Generated: 2026-10-18T07:16:42.784Z
 
-Users: 5429
+Users: 5427
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

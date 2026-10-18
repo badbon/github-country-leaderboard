@@ -1,6 +1,6 @@
 # Total Contributions - United Arab Emirates
 
-Generated: 2026-10-18T05:09:31.921Z
+Generated: 2026-10-18T06:51:53.890Z
 
 Users: 4225
 
@@ -18,11 +18,11 @@ Users: 4225
 | 10 | [AliRaZa1121](https://github.com/AliRaZa1121) | Ali RaZa |  |  | Dubai, United Arab Emirates | 10914 |
 | 11 | [ahmadpx](https://github.com/ahmadpx) | Ahmed Abdallah | Seera \| Tajawal \| Almosafer |  | United Arab Emirates | 10867 |
 | 12 | [Massad](https://github.com/Massad) | Omar Masad | @testappio |  | United Arab Emirates, Dubai | 10605 |
-| 13 | [tech-sumit](https://github.com/tech-sumit) | Sumit S. Agrawal |  |  | Dubai, United Arab Emirates | 10163 |
-| 14 | [iliakrupin](https://github.com/iliakrupin) | Ilia Krupin | INSIGNIS |  | Dubai, United Arab Emirates | 10039 |
-| 15 | [aenawi](https://github.com/aenawi) | Hashem Aldhaheri |  | aenawi | Abu Dhabi, United Arab Emirates | 9573 |
-| 16 | [Aborii](https://github.com/Aborii) | Abdullah Almofleh | @tech-propwise-org  |  | United Arab Emirates, Dubai | 9537 |
-| 17 | [codemug](https://github.com/codemug) | Usman Shahid | Careem |  | Dubai, United Arab Emirates | 9519 |
-| 18 | [abegehr](https://github.com/abegehr) | Anton Begehr | @Stealth | abegehr | Dubai, United Arab Emirates | 9141 |
-| 19 | [xdaguy](https://github.com/xdaguy) | ABDULLAH HARIS |  |  | Abu Dhabi, UAE | 8796 |
-| 20 | [GuillermoDLCO](https://github.com/GuillermoDLCO) | Guillermo Jeremy De La Cruz Onton | @VarnCloud | GuillermoDLCO | Dubai, United Arab Emirates | 8655 |
+| 13 | [nikolai-vysotskyi](https://github.com/nikolai-vysotskyi) | Nikolai Vysotskyi | Asset Feed |  | Abu Dhabi, UAE | 10422 |
+| 14 | [tech-sumit](https://github.com/tech-sumit) | Sumit S. Agrawal |  |  | Dubai, United Arab Emirates | 10163 |
+| 15 | [iliakrupin](https://github.com/iliakrupin) | Ilia Krupin | INSIGNIS |  | Dubai, United Arab Emirates | 10039 |
+| 16 | [aenawi](https://github.com/aenawi) | Hashem Aldhaheri |  | aenawi | Abu Dhabi, United Arab Emirates | 9573 |
+| 17 | [Aborii](https://github.com/Aborii) | Abdullah Almofleh | @tech-propwise-org  |  | United Arab Emirates, Dubai | 9537 |
+| 18 | [codemug](https://github.com/codemug) | Usman Shahid | Careem |  | Dubai, United Arab Emirates | 9519 |
+| 19 | [abegehr](https://github.com/abegehr) | Anton Begehr | @Stealth | abegehr | Dubai, United Arab Emirates | 9141 |
+| 20 | [xdaguy](https://github.com/xdaguy) | ABDULLAH HARIS |  |  | Abu Dhabi, UAE | 8796 |

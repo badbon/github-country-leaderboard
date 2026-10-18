@@ -16,8 +16,8 @@ Indexed users: 93
 | 2 | [miohtama](https://github.com/miohtama) | Mikko Ohtamaa | Gibraltar | 5,657 |
 | 3 | [Industrial](https://github.com/Industrial) | Tom Wieland | Gibraltar | 5,269 |
 | 4 | [marcoscholz](https://github.com/marcoscholz) | Marco Scholz | Gibraltar | 3,285 |
-| 5 | [dlicudi](https://github.com/dlicudi) | Duane Licudi | Gibraltar | 2,657 |
-| 6 | [Fenicio](https://github.com/Fenicio) | Guillermo G C | Gibraltar | 1,391 |
+| 5 | [dlicudi](https://github.com/dlicudi) | Duane Licudi | Gibraltar | 2,659 |
+| 6 | [Fenicio](https://github.com/Fenicio) | Guillermo G C | Gibraltar | 1,390 |
 | 7 | [ArmandasB](https://github.com/ArmandasB) | Armandas Bespalovas | Gibraltar, GI | 1,222 |
 | 8 | [llmora](https://github.com/llmora) | Lluis Mora | Gibraltar | 1,193 |
 | 9 | [ArtemSoldatkin](https://github.com/ArtemSoldatkin) | Artem Soldatkin | Gibraltar | 804 |
@@ -38,7 +38,7 @@ Indexed users: 93
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [miohtama](https://github.com/miohtama) | Mikko Ohtamaa | Gibraltar | 5,657 |
-| 2 | [dlicudi](https://github.com/dlicudi) | Duane Licudi | Gibraltar | 2,502 |
+| 2 | [dlicudi](https://github.com/dlicudi) | Duane Licudi | Gibraltar | 2,504 |
 | 3 | [Industrial](https://github.com/Industrial) | Tom Wieland | Gibraltar | 1,907 |
 | 4 | [ArtemSoldatkin](https://github.com/ArtemSoldatkin) | Artem Soldatkin | Gibraltar | 554 |
 | 5 | [ajedrezpremium](https://github.com/ajedrezpremium) | Ajedrez Premium | GIBRALTAR | 553 |
@@ -83,4 +83,4 @@ Indexed users: 93
 | 19 | [vfiodor](https://github.com/vfiodor) | Fiodor Veresciaka | Gibraltar | 13 |
 | 20 | [VPSServerCom](https://github.com/VPSServerCom) | VPS Server | Gibraltar | 13 |
 
-Generated: 2026-10-18T05:51:02.056Z
+Generated: 2026-10-18T07:29:24.892Z

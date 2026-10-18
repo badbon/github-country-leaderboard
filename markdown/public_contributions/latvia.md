@@ -1,6 +1,6 @@
 # Public Contributions - Latvia
 
-Generated: 2026-10-18T06:05:40.153Z
+Generated: 2026-10-18T07:42:02.015Z
 
 Users: 3253
 
@@ -22,7 +22,7 @@ Users: 3253
 | 14 | [aleksejs1](https://github.com/aleksejs1) |  |  |  | Latvia | 1744 |
 | 15 | [kristoferssolo](https://github.com/kristoferssolo) | Kristofers Solo |  |  | Latvia | 1576 |
 | 16 | [flancer64](https://github.com/flancer64) | Alex Gusev | F. Lancer, LLC |  | Riga, Latvia | 1497 |
-| 17 | [eglitise](https://github.com/eglitise) | Edgars Eglītis |  |  | Riga, Latvia | 1422 |
-| 18 | [LilithStd](https://github.com/LilithStd) | Dmitrii |  |  | Latvia, Riga | 1390 |
-| 19 | [Qaevix](https://github.com/Qaevix) | Qaevix |  |  | Riga | 1281 |
-| 20 | [Ted-Rose](https://github.com/Ted-Rose) | Tedis Rozenfelds |  |  | Latvia | 1216 |
+| 17 | [sorokin-vladimir](https://github.com/sorokin-vladimir) | Vladimir Sorokin |  | sorokin_vl | Riga | 1430 |
+| 18 | [eglitise](https://github.com/eglitise) | Edgars Eglītis |  |  | Riga, Latvia | 1422 |
+| 19 | [LilithStd](https://github.com/LilithStd) | Dmitrii |  |  | Latvia, Riga | 1390 |
+| 20 | [Qaevix](https://github.com/Qaevix) | Qaevix |  |  | Riga | 1281 |

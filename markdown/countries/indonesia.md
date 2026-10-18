@@ -54,9 +54,9 @@ Indexed users: 63,289
 | 15 | [tomiprs0x](https://github.com/tomiprs0x) | Tomi Prasetio | Semarang, Indonesia | 19,862 |
 | 16 | [nevzenly](https://github.com/nevzenly) | Nevzenly | Indonesia | 18,149 |
 | 17 | [cabrata](https://github.com/cabrata) | Caliph Atibrata | Sragen, Indonesia | 18,090 |
-| 18 | [wahidyankf](https://github.com/wahidyankf) | Wahidyan Kresna Fridayoka | Jakarta, Indonesia | 17,204 |
-| 19 | [imransetiadi](https://github.com/imransetiadi) | Imran Setiadi | indonesia | 16,946 |
-| 20 | [RzkyNT](https://github.com/RzkyNT) | Rizqi Ahsan Setiawan | Indonesia | 16,708 |
+| 18 | [Albatany](https://github.com/Albatany) | Aziz | Indonesia | 17,241 |
+| 19 | [wahidyankf](https://github.com/wahidyankf) | Wahidyan Kresna Fridayoka | Jakarta, Indonesia | 17,204 |
+| 20 | [imransetiadi](https://github.com/imransetiadi) | Imran Setiadi | indonesia | 16,946 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 63,289
 | 19 | [theodorusclarence](https://github.com/theodorusclarence) | Theodorus Clarence | Indonesia | 1,488 |
 | 20 | [imrenagi](https://github.com/imrenagi) | Imre Nagi | Jakarta | 1,307 |
 
-Generated: 2026-10-18T05:59:43.206Z
+Generated: 2026-10-18T07:35:27.061Z

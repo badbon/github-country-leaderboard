@@ -1,6 +1,6 @@
 # Public Contributions - Bosnia and Herzegovina
 
-Generated: 2026-10-18T05:27:57.583Z
+Generated: 2026-10-18T07:06:49.978Z
 
 Users: 2126
 
@@ -19,7 +19,7 @@ Users: 2126
 | 11 | [DEntis-T](https://github.com/DEntis-T) | Tractus Corticospinalis | bracetm |  | Sarajevo, FBiH | 1374 |
 | 12 | [beganovich](https://github.com/beganovich) | Benjamin Beganović |  | beganovichhh | Bosnia and Herzegovina | 1345 |
 | 13 | [IntuitionAmiga](https://github.com/IntuitionAmiga) | Zayn |  | IntuitionAmigaX | Sarajevo, BiH | 1289 |
-| 14 | [kimamovic21](https://github.com/kimamovic21) | Kerim Imamović |  | k_imamovic | Bosnia and Herzegovina | 1141 |
+| 14 | [kimamovic21](https://github.com/kimamovic21) | Kerim Imamović |  | k_imamovic | Bosnia and Herzegovina | 1109 |
 | 15 | [pixerize](https://github.com/pixerize) | Djordje Sajlovic | Pixerize |  | Sarajevo, Bosnia and Herzegovina | 1095 |
 | 16 | [omznc](https://github.com/omznc) | Omar Zunic | Profico |  | Bosnia & Herzegovina | 1011 |
 | 17 | [enisdenjo](https://github.com/enisdenjo) | Denis Badurina | @denelop  | enisdenjo | Sarajevo | 970 |

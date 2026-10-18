@@ -23,8 +23,8 @@ Indexed users: 79
 | 9 | [almamarie](https://github.com/almamarie) | Louis Marie Atoluko Ayariga | Banjul, The Gambia | 654 |
 | 10 | [geniuskidkanyi](https://github.com/geniuskidkanyi) | muhammed kanyi | Gambia | 628 |
 | 11 | [deedevs](https://github.com/deedevs) | David Ladipo | Banjul, The Gambia | 588 |
-| 12 | [gidavehub](https://github.com/gidavehub) | Godswill Iyke Dave | Banjul, The Gambia | 494 |
-| 13 | [bahsulayman689-hash](https://github.com/bahsulayman689-hash) | sulayman bah | Banjul | 419 |
+| 12 | [gidavehub](https://github.com/gidavehub) | Godswill Iyke Dave | Banjul, The Gambia | 496 |
+| 13 | [bahsulayman689-hash](https://github.com/bahsulayman689-hash) | sulayman bah | Banjul | 420 |
 | 14 | [Jordanlopez546](https://github.com/Jordanlopez546) | Jordan Nwabuike | Gambia | 417 |
 | 15 | [kebba-philip](https://github.com/kebba-philip) | KEBBA NJIE | Gambia | 392 |
 | 16 | [JonMonday](https://github.com/JonMonday) | JohnMonday | Banjul, The Gambia | 259 |
@@ -37,8 +37,8 @@ Indexed users: 79
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [gidavehub](https://github.com/gidavehub) | Godswill Iyke Dave | Banjul, The Gambia | 494 |
-| 2 | [bahsulayman689-hash](https://github.com/bahsulayman689-hash) | sulayman bah | Banjul | 419 |
+| 1 | [gidavehub](https://github.com/gidavehub) | Godswill Iyke Dave | Banjul, The Gambia | 496 |
+| 2 | [bahsulayman689-hash](https://github.com/bahsulayman689-hash) | sulayman bah | Banjul | 420 |
 | 3 | [ZaynSaul](https://github.com/ZaynSaul) | Saul Zayn | Gambia/Banjul | 408 |
 | 4 | [kebba-philip](https://github.com/kebba-philip) | KEBBA NJIE | Gambia | 392 |
 | 5 | [Juniorbarry26](https://github.com/Juniorbarry26) | Alsainey Barry | Gambia | 307 |
@@ -83,4 +83,4 @@ Indexed users: 79
 | 19 | [nyassian](https://github.com/nyassian) | EBRIMA NYASSI | Banjul,THE GAMBIA | 8 |
 | 20 | [cyberdavinci](https://github.com/cyberdavinci) | CyberDavinci | Gambia | 7 |
 
-Generated: 2026-10-18T05:50:53.816Z
+Generated: 2026-10-18T07:27:53.855Z

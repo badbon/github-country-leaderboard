@@ -1,6 +1,6 @@
 # Public Contributions - Iceland
 
-Generated: 2026-10-18T00:42:16.286Z
+Generated: 2026-10-18T07:35:24.701Z
 
 Users: 1579
 
@@ -16,9 +16,9 @@ Users: 1579
 | 8 | [bjorndarri](https://github.com/bjorndarri) | Björn Darri Sigurðsson |  |  | Reykjavík, Iceland | 2477 |
 | 9 | [gardarthorsteins](https://github.com/gardarthorsteins) | Garðar Þorsteinsson | Vettvangur |  | Reykjavík, Iceland | 2405 |
 | 10 | [jokull](https://github.com/jokull) | Jökull Sólberg Auðunsson | @trip-to-japan  | jokull | Reykjavík, Iceland | 2163 |
-| 11 | [pzychozen](https://github.com/pzychozen) | Hilmir Frímann Halldórsson |  | pzychozen | Iceland | 2028 |
-| 12 | [bgautijonsson](https://github.com/bgautijonsson) | Brynjolfur Gauti Jónsson |  |  | Reykjavík, Iceland | 2002 |
-| 13 | [vvzvlad](https://github.com/vvzvlad) | vvzvlad |  | vvzvlad | Iceland | 1947 |
+| 11 | [vvzvlad](https://github.com/vvzvlad) | vvzvlad |  | vvzvlad | Iceland | 2155 |
+| 12 | [pzychozen](https://github.com/pzychozen) | Hilmir Frímann Halldórsson |  | pzychozen | Iceland | 2028 |
+| 13 | [bgautijonsson](https://github.com/bgautijonsson) | Brynjolfur Gauti Jónsson |  |  | Reykjavík, Iceland | 2002 |
 | 14 | [egil](https://github.com/egil) | Egil Hansen | Egil Hansen ehf |  | Iceland | 1580 |
 | 15 | [sandsower](https://github.com/sandsower) | Vic Valenzuela |  |  | Reykjavík, Iceland | 1501 |
 | 16 | [bgunnarsson](https://github.com/bgunnarsson) | B. Gunnarsson | @Vettvangur  | bgunnarssonis | Iceland | 1493 |

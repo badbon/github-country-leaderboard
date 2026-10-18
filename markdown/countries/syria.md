@@ -22,7 +22,7 @@ Indexed users: 1,481
 | 8 | [amurru](https://github.com/amurru) | Ammar Zerouk | Syria | 3,117 |
 | 9 | [sam-a1a](https://github.com/sam-a1a) | Sam | Damascus, Syrian Arab Republic | 2,916 |
 | 10 | [gaaferHajji2](https://github.com/gaaferHajji2) | Jafar Loka | Damascus - SY | 2,853 |
-| 11 | [alsa7err90](https://github.com/alsa7err90) | abdulnafea | syria | 2,324 |
+| 11 | [alsa7err90](https://github.com/alsa7err90) | abdulnafea | syria | 2,435 |
 | 12 | [eymeen](https://github.com/eymeen) | Ayman Eid | Syria, Turkey | 2,242 |
 | 13 | [rasheed-k-mozaffar](https://github.com/rasheed-k-mozaffar) | Rasheed K Mozaffar | Damascus, Syria | 2,129 |
 | 14 | [CodeFather-xe](https://github.com/CodeFather-xe) | CodeFather-xe | Syria | 2,127 |
@@ -83,4 +83,4 @@ Indexed users: 1,481
 | 19 | [nebrassy](https://github.com/nebrassy) | Nebrassy | Latakia, Syria | 102 |
 | 20 | [zaher](https://github.com/zaher) | Zaher Dirkey | Damascus, Syria | 95 |
 
-Generated: 2026-10-18T05:03:15.292Z
+Generated: 2026-10-18T06:45:03.237Z

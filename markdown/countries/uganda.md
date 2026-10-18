@@ -26,12 +26,12 @@ Indexed users: 3,867
 | 12 | [engWafula](https://github.com/engWafula) | Wafula Allan  Isaac | kampala | 9,056 |
 | 13 | [raheebwa](https://github.com/raheebwa) | Ramadhan Aheebwa | Kampala, Uganda | 9,040 |
 | 14 | [baliddeki](https://github.com/baliddeki) | Aliddeki Mulindwa Bryan | Kampala, Uganda | 9,028 |
-| 15 | [Mugamba669](https://github.com/Mugamba669) | Mugamba669 | Kampala, Uganda | 7,995 |
-| 16 | [KansiimeKenie](https://github.com/KansiimeKenie) | Kansiime Keneth | kampala, Ug | 7,957 |
-| 17 | [GaspardKirira](https://github.com/GaspardKirira) | G-kirira | Africa / Uganda / Kampala | 7,825 |
-| 18 | [baliksjosay](https://github.com/baliksjosay) | Joseph Balikuddembe | Kampala, uganda | 7,753 |
-| 19 | [judeotine](https://github.com/judeotine) | Judeotine | Uganda | 7,440 |
-| 20 | [sharif-smj](https://github.com/sharif-smj) | SHARIF | Kampala Uganda | 7,365 |
+| 15 | [kal-J](https://github.com/kal-J) | kalujja | Uganda | 8,301 |
+| 16 | [Mugamba669](https://github.com/Mugamba669) | Mugamba669 | Kampala, Uganda | 7,995 |
+| 17 | [KansiimeKenie](https://github.com/KansiimeKenie) | Kansiime Keneth | kampala, Ug | 7,957 |
+| 18 | [GaspardKirira](https://github.com/GaspardKirira) | G-kirira | Africa / Uganda / Kampala | 7,825 |
+| 19 | [baliksjosay](https://github.com/baliksjosay) | Joseph Balikuddembe | Kampala, uganda | 7,753 |
+| 20 | [judeotine](https://github.com/judeotine) | Judeotine | Uganda | 7,440 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 3,867
 | 19 | [kallyas](https://github.com/kallyas) | Iden | Uganda | 190 |
 | 20 | [FahimWeblogicAndCyberTechnologies](https://github.com/FahimWeblogicAndCyberTechnologies) | FRANKLIN | Uganda | 186 |
 
-Generated: 2026-10-18T05:09:22.506Z
+Generated: 2026-10-18T06:51:44.974Z

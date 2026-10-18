@@ -28,10 +28,10 @@ Indexed users: 2,038
 | 14 | [fredygerman](https://github.com/fredygerman) | Fredy Mgimba | Tanzania | 9,059 |
 | 15 | [fmwasekaga](https://github.com/fmwasekaga) | Fredrick Lusako Mwasekaga | Tanzania | 8,875 |
 | 16 | [islandkid-20](https://github.com/islandkid-20) | James Mashaka | Dar Es Salaam,Tanzania | 8,739 |
-| 17 | [alobit21](https://github.com/alobit21) | Aloyce Mtavangu | Dodoma-Tanzania | 7,802 |
-| 18 | [elishagerson](https://github.com/elishagerson) | Elisha Gerson | Mbeya, Tanzania | 7,797 |
-| 19 | [Bulalu](https://github.com/Bulalu) |  | Dar-es-Salaam,Tanzania | 7,623 |
-| 20 | [victorjudysen](https://github.com/victorjudysen) | Victor Kweka | Dodoma, Tanzania | 7,534 |
+| 17 | [victorjudysen](https://github.com/victorjudysen) | Victor Kweka | Dodoma, Tanzania | 8,111 |
+| 18 | [alobit21](https://github.com/alobit21) | Aloyce Mtavangu | Dodoma-Tanzania | 7,802 |
+| 19 | [elishagerson](https://github.com/elishagerson) | Elisha Gerson | Mbeya, Tanzania | 7,797 |
+| 20 | [Bulalu](https://github.com/Bulalu) |  | Dar-es-Salaam,Tanzania | 7,623 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 2,038
 | 19 | [3nock](https://github.com/3nock) | Enock | Dar es Salaam, Tanzania | 188 |
 | 20 | [Mrhanstz](https://github.com/Mrhanstz) | HANSTZ | Africa Dodoma | 179 |
 
-Generated: 2026-10-18T05:04:55.371Z
+Generated: 2026-10-18T06:47:02.345Z

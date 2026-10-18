@@ -49,8 +49,8 @@ Indexed users: 700
 | 10 | [jeereq](https://github.com/jeereq) | minganda | rdc/kinshasa | 1,241 |
 | 11 | [Kakesa](https://github.com/Kakesa) | Espoir Kakesa | kinshasa DRC | 1,158 |
 | 12 | [KUROYUKIHIME333](https://github.com/KUROYUKIHIME333) | Daniel RAMAZANI | Kinshasa, Democratic Republic of the Congo | 1,076 |
-| 13 | [mr-leo44](https://github.com/mr-leo44) | Lionel Kaniki | Kinshasa, Drc | 1,070 |
-| 14 | [martinbitha5](https://github.com/martinbitha5) | Martin Bitha | Kinshasa | 1,057 |
+| 13 | [martinbitha5](https://github.com/martinbitha5) | Martin Bitha | Kinshasa | 1,057 |
+| 14 | [mr-leo44](https://github.com/mr-leo44) | Lionel Kaniki | Kinshasa, Drc | 1,036 |
 | 15 | [JohnHeshima](https://github.com/JohnHeshima) | JOHN HESHIMA | DRC, Kinshasa | 897 |
 | 16 | [josamuna](https://github.com/josamuna) | Josue Isamuna Nkembo | Democratic Republic of the Congo | 878 |
 | 17 | [Mgreat01](https://github.com/Mgreat01) | ephraim monga ( ambassadeur 🥷) | KINSHASA / RD CONGO | 787 |
@@ -83,4 +83,4 @@ Indexed users: 700
 | 19 | [bolenge](https://github.com/bolenge) | Don de Dieu Bolenge | Congo - Kinshasa | 69 |
 | 20 | [ChrisMwanya](https://github.com/ChrisMwanya) | Chris Mwanya | kinshasa | 69 |
 
-Generated: 2026-10-18T05:41:12.877Z
+Generated: 2026-10-18T07:21:10.408Z

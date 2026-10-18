@@ -42,7 +42,7 @@ Indexed users: 1,784
 | 3 | [OscarGauss](https://github.com/OscarGauss) | Oscar Gauss Carvajal Yucra | La Paz, Bolivia | 2,907 |
 | 4 | [LudCano](https://github.com/LudCano) | Ludving Cano Fernandez | La Paz, Bolivia | 2,572 |
 | 5 | [ldgd2](https://github.com/ldgd2) | Lider | Bolivia | 2,274 |
-| 6 | [SergioRibera](https://github.com/SergioRibera) | Sergio Alejandro Ribera Costa | Santa Cruz de la Sierra, Bolivia | 2,088 |
+| 6 | [SergioRibera](https://github.com/SergioRibera) | Sergio Alejandro Ribera Costa | Santa Cruz de la Sierra, Bolivia | 2,252 |
 | 7 | [arkgast](https://github.com/arkgast) | Arnold Gandarillas Castillo | Bolivia | 1,859 |
 | 8 | [rafael1199v](https://github.com/rafael1199v) | Rafael Vargas | Bolivia | 1,577 |
 | 9 | [ovidiocbba](https://github.com/ovidiocbba) | Simon Ovidio Miranda Chiri | Bolivia | 1,504 |
@@ -68,7 +68,7 @@ Indexed users: 1,784
 | 4 | [lizarragadev](https://github.com/lizarragadev) | Gustavo Lizárraga | La Paz, Bolivia | 429 |
 | 5 | [Snifer](https://github.com/Snifer) | Snifer | Bolivia | 295 |
 | 6 | [kapit4n](https://github.com/kapit4n) | Luis Arce | Bolivia | 287 |
-| 7 | [SergioRibera](https://github.com/SergioRibera) | Sergio Alejandro Ribera Costa | Santa Cruz de la Sierra, Bolivia | 261 |
+| 7 | [SergioRibera](https://github.com/SergioRibera) | Sergio Alejandro Ribera Costa | Santa Cruz de la Sierra, Bolivia | 262 |
 | 8 | [CrisBelDev](https://github.com/CrisBelDev) | Cristian Abel | La Paz, Bolivia | 244 |
 | 9 | [cwpachecol](https://github.com/cwpachecol) | Carlos Walter Pacheco Lora | Sucre - Bolivia | 220 |
 | 10 | [Pericena](https://github.com/Pericena) | Luishiño | Bolivia, Santa Cruz | 197 |
@@ -83,4 +83,4 @@ Indexed users: 1,784
 | 19 | [alvarosiles11](https://github.com/alvarosiles11) | Alvaro Siles Estrada | Bolivia | 121 |
 | 20 | [mauforonda](https://github.com/mauforonda) | Mau Foronda | Bolivia | 120 |
 
-Generated: 2026-10-18T05:27:51.670Z
+Generated: 2026-10-18T07:06:42.734Z

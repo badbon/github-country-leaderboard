@@ -1,6 +1,6 @@
 # Total Contributions - Gambia
 
-Generated: 2026-10-18T05:50:53.816Z
+Generated: 2026-10-18T07:27:53.855Z
 
 Users: 79
 
@@ -17,8 +17,8 @@ Users: 79
 | 9 | [almamarie](https://github.com/almamarie) | Louis Marie Atoluko Ayariga | African Commission on Human and Peoples' Rights | MarieLoumar | Banjul, The Gambia | 654 |
 | 10 | [geniuskidkanyi](https://github.com/geniuskidkanyi) | muhammed kanyi | Gcubed | ghostkanyi | Gambia | 628 |
 | 11 | [deedevs](https://github.com/deedevs) | David Ladipo |  | davy0417 | Banjul, The Gambia | 588 |
-| 12 | [gidavehub](https://github.com/gidavehub) | Godswill Iyke Dave |  | gidave_ | Banjul, The Gambia | 494 |
-| 13 | [bahsulayman689-hash](https://github.com/bahsulayman689-hash) | sulayman bah | NAN |  | Banjul | 419 |
+| 12 | [gidavehub](https://github.com/gidavehub) | Godswill Iyke Dave |  | gidave_ | Banjul, The Gambia | 496 |
+| 13 | [bahsulayman689-hash](https://github.com/bahsulayman689-hash) | sulayman bah | NAN |  | Banjul | 420 |
 | 14 | [Jordanlopez546](https://github.com/Jordanlopez546) | Jordan Nwabuike | Jordan In Tech |  | Gambia | 417 |
 | 15 | [kebba-philip](https://github.com/kebba-philip) | KEBBA NJIE |  |  | Gambia | 392 |
 | 16 | [JonMonday](https://github.com/JonMonday) | JohnMonday |  |  | Banjul, The Gambia | 259 |

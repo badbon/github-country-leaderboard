@@ -24,14 +24,14 @@ Indexed users: 4,225
 | 10 | [AliRaZa1121](https://github.com/AliRaZa1121) | Ali RaZa | Dubai, United Arab Emirates | 10,914 |
 | 11 | [ahmadpx](https://github.com/ahmadpx) | Ahmed Abdallah | United Arab Emirates | 10,867 |
 | 12 | [Massad](https://github.com/Massad) | Omar Masad | United Arab Emirates, Dubai | 10,605 |
-| 13 | [tech-sumit](https://github.com/tech-sumit) | Sumit S. Agrawal | Dubai, United Arab Emirates | 10,163 |
-| 14 | [iliakrupin](https://github.com/iliakrupin) | Ilia Krupin | Dubai, United Arab Emirates | 10,039 |
-| 15 | [aenawi](https://github.com/aenawi) | Hashem Aldhaheri | Abu Dhabi, United Arab Emirates | 9,573 |
-| 16 | [Aborii](https://github.com/Aborii) | Abdullah Almofleh | United Arab Emirates, Dubai | 9,537 |
-| 17 | [codemug](https://github.com/codemug) | Usman Shahid | Dubai, United Arab Emirates | 9,519 |
-| 18 | [abegehr](https://github.com/abegehr) | Anton Begehr | Dubai, United Arab Emirates | 9,141 |
-| 19 | [xdaguy](https://github.com/xdaguy) | ABDULLAH HARIS | Abu Dhabi, UAE | 8,796 |
-| 20 | [GuillermoDLCO](https://github.com/GuillermoDLCO) | Guillermo Jeremy De La Cruz Onton | Dubai, United Arab Emirates | 8,655 |
+| 13 | [nikolai-vysotskyi](https://github.com/nikolai-vysotskyi) | Nikolai Vysotskyi | Abu Dhabi, UAE | 10,422 |
+| 14 | [tech-sumit](https://github.com/tech-sumit) | Sumit S. Agrawal | Dubai, United Arab Emirates | 10,163 |
+| 15 | [iliakrupin](https://github.com/iliakrupin) | Ilia Krupin | Dubai, United Arab Emirates | 10,039 |
+| 16 | [aenawi](https://github.com/aenawi) | Hashem Aldhaheri | Abu Dhabi, United Arab Emirates | 9,573 |
+| 17 | [Aborii](https://github.com/Aborii) | Abdullah Almofleh | United Arab Emirates, Dubai | 9,537 |
+| 18 | [codemug](https://github.com/codemug) | Usman Shahid | Dubai, United Arab Emirates | 9,519 |
+| 19 | [abegehr](https://github.com/abegehr) | Anton Begehr | Dubai, United Arab Emirates | 9,141 |
+| 20 | [xdaguy](https://github.com/xdaguy) | ABDULLAH HARIS | Abu Dhabi, UAE | 8,796 |
 
 ## Public Contributions
 
@@ -44,19 +44,19 @@ Indexed users: 4,225
 | 5 | [Gaurav-Gosain](https://github.com/Gaurav-Gosain) | Gaurav Gosain | Abu Dhabi, United Arab Emirates | 6,147 |
 | 6 | [hhenson](https://github.com/hhenson) | Howard Henson | Abu Dhabi | 4,227 |
 | 7 | [joshuajbouw](https://github.com/joshuajbouw) | Joshua J. Bouw | Dubai, United Arab Emirates | 3,982 |
-| 8 | [dave-hudson](https://github.com/dave-hudson) | Dave Hudson | Abu Dhabi, UAE | 3,411 |
-| 9 | [maddada](https://github.com/maddada) | Mohamad Yahia | Dubai, United Arab Emirates. | 3,334 |
-| 10 | [codemug](https://github.com/codemug) | Usman Shahid | Dubai, United Arab Emirates | 3,200 |
-| 11 | [tech-sumit](https://github.com/tech-sumit) | Sumit S. Agrawal | Dubai, United Arab Emirates | 3,114 |
-| 12 | [klkvr](https://github.com/klkvr) | Arsenii Kulikov | Dubai, United Arab Emirates | 2,900 |
-| 13 | [aroff](https://github.com/aroff) | Alex Oliveira | United Arab Emirates | 2,753 |
-| 14 | [delta6626](https://github.com/delta6626) | Delta | United Arab Emirates | 2,745 |
-| 15 | [haseeb-heaven](https://github.com/haseeb-heaven) | Haseeb Heaven | Dubai,United Arab Emirates | 2,460 |
-| 16 | [drakulavich](https://github.com/drakulavich) | Anton Yakutovich | Abu Dhabi, UAE | 2,378 |
-| 17 | [eunwoo-levi](https://github.com/eunwoo-levi) | Eunwoo | Dubai, United Arab Emirates | 2,344 |
-| 18 | [avinash-mall](https://github.com/avinash-mall) | Avinash Mall | Abu Dhabi | 2,146 |
-| 19 | [fidellim](https://github.com/fidellim) | Fidel Lim | Abu Dhabi, UAE | 2,094 |
-| 20 | [FrayxRulez](https://github.com/FrayxRulez) | Fela | Dubai, United Arab Emirates | 2,025 |
+| 8 | [nikolai-vysotskyi](https://github.com/nikolai-vysotskyi) | Nikolai Vysotskyi | Abu Dhabi, UAE | 3,657 |
+| 9 | [dave-hudson](https://github.com/dave-hudson) | Dave Hudson | Abu Dhabi, UAE | 3,411 |
+| 10 | [maddada](https://github.com/maddada) | Mohamad Yahia | Dubai, United Arab Emirates. | 3,334 |
+| 11 | [codemug](https://github.com/codemug) | Usman Shahid | Dubai, United Arab Emirates | 3,200 |
+| 12 | [tech-sumit](https://github.com/tech-sumit) | Sumit S. Agrawal | Dubai, United Arab Emirates | 3,114 |
+| 13 | [klkvr](https://github.com/klkvr) | Arsenii Kulikov | Dubai, United Arab Emirates | 2,900 |
+| 14 | [aroff](https://github.com/aroff) | Alex Oliveira | United Arab Emirates | 2,753 |
+| 15 | [delta6626](https://github.com/delta6626) | Delta | United Arab Emirates | 2,745 |
+| 16 | [haseeb-heaven](https://github.com/haseeb-heaven) | Haseeb Heaven | Dubai,United Arab Emirates | 2,460 |
+| 17 | [drakulavich](https://github.com/drakulavich) | Anton Yakutovich | Abu Dhabi, UAE | 2,378 |
+| 18 | [eunwoo-levi](https://github.com/eunwoo-levi) | Eunwoo | Dubai, United Arab Emirates | 2,344 |
+| 19 | [avinash-mall](https://github.com/avinash-mall) | Avinash Mall | Abu Dhabi | 2,146 |
+| 20 | [fidellim](https://github.com/fidellim) | Fidel Lim | Abu Dhabi, UAE | 2,094 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 4,225
 | 19 | [FrayxRulez](https://github.com/FrayxRulez) | Fela | Dubai, United Arab Emirates | 366 |
 | 20 | [yusufusta](https://github.com/yusufusta) | Yusuf Usta | Dubai, United Arab Emirates | 361 |
 
-Generated: 2026-10-18T05:09:31.921Z
+Generated: 2026-10-18T06:51:53.890Z

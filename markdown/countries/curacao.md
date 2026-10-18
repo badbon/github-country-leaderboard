@@ -17,8 +17,8 @@ Indexed users: 53
 | 3 | [flangfeldt](https://github.com/flangfeldt) | FΞLIX | Willemstad, Curacao | 3,615 |
 | 4 | [BalusC](https://github.com/BalusC) | Bauke Scholtz | Willemstad, Curaçao | 3,403 |
 | 5 | [dwarfland](https://github.com/dwarfland) | marc hoffman | Curaçao | 1,451 |
-| 6 | [GilbertoFraaij](https://github.com/GilbertoFraaij) |  | Curacao, Netherlands Antilles | 1,265 |
-| 7 | [drosalia](https://github.com/drosalia) | Darrell Rosalia | Curaçao | 917 |
+| 6 | [GilbertoFraaij](https://github.com/GilbertoFraaij) |  | Curacao, Netherlands Antilles | 1,260 |
+| 7 | [drosalia](https://github.com/drosalia) | Darrell Rosalia | Curaçao | 910 |
 | 8 | [frankgeerlings](https://github.com/frankgeerlings) | Frank Geerlings | Curaçao | 907 |
 | 9 | [JObersi10](https://github.com/JObersi10) |  | Willemstad, Curaçao | 491 |
 | 10 | [emile2600](https://github.com/emile2600) | Emile | Willemstad, Curacao | 378 |
@@ -83,4 +83,4 @@ Indexed users: 53
 | 19 | [theowlsden](https://github.com/theowlsden) | Shaquil Maria | Curaçao | 6 |
 | 20 | [coinversus](https://github.com/coinversus) | CoinVersus | Curaçao | 5 |
 
-Generated: 2026-10-18T05:39:32.952Z
+Generated: 2026-10-18T07:16:48.810Z

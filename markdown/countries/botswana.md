@@ -21,8 +21,8 @@ Indexed users: 533
 | 7 | [ChinyangaTL](https://github.com/ChinyangaTL) | Les Chinyanga | Gaborone, Botswana | 2,349 |
 | 8 | [Koketso1999](https://github.com/Koketso1999) | Koketso Morapedi | Gaborone, Botswana | 2,325 |
 | 9 | [Batoli19](https://github.com/Batoli19) | future | Gaborone | 2,278 |
-| 10 | [Fuzzworth](https://github.com/Fuzzworth) | Nyangasi Mhozya | Botswana | 2,240 |
-| 11 | [mwmiller](https://github.com/mwmiller) | Matt Miller | Gaborone, Botswana | 2,143 |
+| 10 | [Fuzzworth](https://github.com/Fuzzworth) | Nyangasi Mhozya | Botswana | 2,205 |
+| 11 | [mwmiller](https://github.com/mwmiller) | Matt Miller | Gaborone, Botswana | 2,141 |
 | 12 | [Tebalo](https://github.com/Tebalo) | Bopaki | Botswana, Gaborone-Mokobaxane | 2,091 |
 | 13 | [mrdiin](https://github.com/mrdiin) | Botshelo Brandon Tidimalo | Gaborone | 2,062 |
 | 14 | [BakangMonei](https://github.com/BakangMonei) | Monei Bakang | Gaborone, Botswana | 2,050 |
@@ -39,7 +39,7 @@ Indexed users: 533
 |---:|---|---|---|---:|
 | 1 | [rasali535](https://github.com/rasali535) | Alpheaus Chiwaze | Botswana, Gaborone | 2,839 |
 | 2 | [BakangMonei](https://github.com/BakangMonei) | Monei Bakang | Gaborone, Botswana | 1,384 |
-| 3 | [mwmiller](https://github.com/mwmiller) | Matt Miller | Gaborone, Botswana | 1,232 |
+| 3 | [mwmiller](https://github.com/mwmiller) | Matt Miller | Gaborone, Botswana | 1,230 |
 | 4 | [darula-hpp](https://github.com/darula-hpp) | Olebogeng Mbedzi | Gaborone | 1,198 |
 | 5 | [Todd366](https://github.com/Todd366) | BSTM Ecosystem  | Botswana 🇧🇼  | 1,053 |
 | 6 | [NjabuloJf](https://github.com/NjabuloJf) | Njabulo Jb | Botswana  | 1,010 |
@@ -83,4 +83,4 @@ Indexed users: 533
 | 19 | [BakangMonei](https://github.com/BakangMonei) | Monei Bakang | Gaborone, Botswana | 34 |
 | 20 | [Tebalo](https://github.com/Tebalo) | Bopaki | Botswana, Gaborone-Mokobaxane | 34 |
 
-Generated: 2026-10-18T05:28:26.168Z
+Generated: 2026-10-18T07:08:19.457Z

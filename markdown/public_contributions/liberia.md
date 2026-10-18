@@ -1,6 +1,6 @@
 # Public Contributions - Liberia
 
-Generated: 2026-10-18T06:06:30.435Z
+Generated: 2026-10-18T07:44:29.683Z
 
 Users: 210
 
@@ -15,7 +15,7 @@ Users: 210
 | 7 | [JohannFonseca](https://github.com/JohannFonseca) | Johann Curry  |  |  | Liberia | 351 |
 | 8 | [FranklinD10](https://github.com/FranklinD10) | FrApps | FrApps |  | Liberia | 318 |
 | 9 | [pastoreekahk96](https://github.com/pastoreekahk96) | Pastoreekahk S Arthur | ALX | arthur_solomon | Monrovia, Liberia | 316 |
-| 10 | [AlexUG0104](https://github.com/AlexUG0104) | Alexander Umaña  |  |  | Liberia | 286 |
+| 10 | [AlexUG0104](https://github.com/AlexUG0104) | Alexander Umaña  |  |  | Liberia | 285 |
 | 11 | [cruso003](https://github.com/cruso003) | Geitodyu Henrique Crusoe |  | CrusoeHenrique | Paynesville, Liberia | 267 |
 | 12 | [prince14-D](https://github.com/prince14-D) | Dr. Prince W Dahn Jr | Tec Liberia |  | Liberia | 256 |
 | 13 | [SimeonATarr231](https://github.com/SimeonATarr231) | Simeon Aseon Tarr |  | simeonatarr862 | Buchanan City, Liberia | 210 |

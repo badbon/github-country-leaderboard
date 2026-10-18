@@ -24,7 +24,7 @@ Indexed users: 1,275
 | 10 | [frarteaga](https://github.com/frarteaga) | Frank Rafael Arteaga Salgado | Cuba | 5,459 |
 | 11 | [manuelaguadomtz](https://github.com/manuelaguadomtz) | Manuel Aguado Martinez | Havana, Cuba | 4,845 |
 | 12 | [leodanisbi](https://github.com/leodanisbi) | Leodanis Bernal Ibanez | Havaba/Cuba | 4,729 |
-| 13 | [AgenciaSeniors](https://github.com/AgenciaSeniors) | Eduardo Daniel Pérez Ruiz | Cuba | 4,454 |
+| 13 | [AgenciaSeniors](https://github.com/AgenciaSeniors) | Eduardo Daniel Pérez Ruiz | Cuba | 4,487 |
 | 14 | [saulo-hermida](https://github.com/saulo-hermida) | Saulo Hermida | Havana,Cuba | 4,324 |
 | 15 | [raulodev](https://github.com/raulodev) | Raúl Cobiellas | Cuba | 4,067 |
 | 16 | [ucicarlos](https://github.com/ucicarlos) | Carlos Miguel Pérez Reyes | Havana, Cuba | 4,054 |
@@ -40,7 +40,7 @@ Indexed users: 1,275
 | 1 | [EduardoProfe666](https://github.com/EduardoProfe666) | Eduardo Alejandro González Martell | La Habana, Cuba | 10,461 |
 | 2 | [yasmramos](https://github.com/yasmramos) | Yasmany Ramos García  | Ciego de Ávila, Cuba | 9,105 |
 | 3 | [apiad](https://github.com/apiad) | Alejandro Piad | Cuba | 7,904 |
-| 4 | [AgenciaSeniors](https://github.com/AgenciaSeniors) | Eduardo Daniel Pérez Ruiz | Cuba | 4,454 |
+| 4 | [AgenciaSeniors](https://github.com/AgenciaSeniors) | Eduardo Daniel Pérez Ruiz | Cuba | 4,487 |
 | 5 | [MiguelAntonioRS](https://github.com/MiguelAntonioRS) | Miguel | Cuba, Holguin | 3,246 |
 | 6 | [rafaelrdgz](https://github.com/rafaelrdgz) | Rafael Rodríguez Pérez | Havana, Cuba | 2,352 |
 | 7 | [kaelthasmanu](https://github.com/kaelthasmanu) | Manuel Gorrin | Cuba | 1,996 |
@@ -83,4 +83,4 @@ Indexed users: 1,275
 | 19 | [leoGlez01](https://github.com/leoGlez01) | Leandro González  | La Habana, Cuba | 70 |
 | 20 | [EduardoProfe666](https://github.com/EduardoProfe666) | Eduardo Alejandro González Martell | La Habana, Cuba | 69 |
 
-Generated: 2026-10-18T05:39:00.824Z
+Generated: 2026-10-18T07:16:46.162Z
