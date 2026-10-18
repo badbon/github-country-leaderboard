@@ -31567,8 +31567,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 59,
-    "publicContributions": 7,
+    "privateContributions": 57,
+    "publicContributions": 13,
     "createdAt": "2020-02-08T16:13:40Z"
   },
   {
@@ -31578,7 +31578,7 @@
     "location": "Almaty, Kazakhstan",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 10,
     "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2020-10-21T10:17:47Z"
@@ -31591,7 +31591,7 @@
     "company": "@Gamigos ",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 550,
+    "privateContributions": 533,
     "publicContributions": 16,
     "createdAt": "2020-06-10T16:32:12Z"
   },
@@ -31602,9 +31602,9 @@
     "location": "Kazakhstan",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 1648,
-    "publicContributions": 0,
+    "followers": 7,
+    "privateContributions": 2612,
+    "publicContributions": 36,
     "createdAt": "2020-03-17T08:34:18Z"
   },
   {
@@ -31645,13 +31645,13 @@
   },
   {
     "login": "rooohaa",
-    "name": "Rakhat Alpysbai",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/66871165?s=72&u=ea942856ae072b557366a34f8e02858167073948&v=4",
+    "name": "Rakhat",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/66871165?s=72&v=4",
     "location": "Kazakhstan, Astana",
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 0,
+    "privateContributions": 1,
     "publicContributions": 2,
     "createdAt": "2020-06-13T11:34:46Z"
   },
@@ -31674,7 +31674,7 @@
     "location": "Almaty, Kazakhstan",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 10,
     "privateContributions": 0,
     "publicContributions": 114,
     "createdAt": "2020-06-18T04:59:37Z"
@@ -31687,8 +31687,8 @@
     "company": "AlexFrontEnd",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 2554,
-    "publicContributions": 2,
+    "privateContributions": 2447,
+    "publicContributions": 1,
     "createdAt": "2020-04-16T07:50:40Z"
   },
   {
@@ -31699,21 +31699,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 2,
-    "publicContributions": 10,
+    "privateContributions": 0,
+    "publicContributions": 14,
     "createdAt": "2020-07-14T05:09:34Z"
-  },
-  {
-    "login": "deniiiiz-i",
-    "name": "Deniz Isik",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/66132191?s=72&u=45ff5c18e9d5a5fcacef0de4b82b67c6a9310b5f&v=4",
-    "location": "Kazakhstan",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 145,
-    "publicContributions": 94,
-    "createdAt": "2020-05-29T16:01:20Z"
   },
   {
     "login": "anuarbv",
@@ -31734,7 +31722,7 @@
     "location": "Kazakhstan",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 9,
     "privateContributions": 1,
     "publicContributions": 5,
     "createdAt": "2020-08-04T06:26:55Z"
@@ -31758,21 +31746,21 @@
     "location": "Uralsk, Kazakhstan",
     "company": "23Stud",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 54,
-    "publicContributions": 45,
+    "followers": 7,
+    "privateContributions": 23,
+    "publicContributions": 31,
     "createdAt": "2020-07-15T15:03:52Z"
   },
   {
     "login": "hzchet",
-    "name": "Aidar Amrin",
+    "name": "hzchet",
     "avatarUrl": "https://avatars.githubusercontent.com/u/69722107?s=72&u=664a08bef24d447c3b52879545cd06132a987edf&v=4",
     "location": "Almaty, Kazakhstan",
     "company": "@higgsfield-ai ",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 222,
-    "publicContributions": 1,
+    "followers": 9,
+    "privateContributions": 155,
+    "publicContributions": 2,
     "createdAt": "2020-08-15T13:54:03Z"
   },
   {

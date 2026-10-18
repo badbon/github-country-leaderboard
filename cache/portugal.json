@@ -31868,7 +31868,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 5,
     "createdAt": "2023-04-19T18:10:15Z"
   },
   {
@@ -31878,7 +31878,7 @@
     "location": "Portugal",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-01-18T21:10:29Z"
@@ -31892,7 +31892,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 0,
     "createdAt": "2023-03-06T15:02:16Z"
   },
   {
@@ -31900,10 +31900,10 @@
     "name": "Bruno Rocha",
     "avatarUrl": "https://avatars.githubusercontent.com/u/124274218?s=72&u=03263bf98075f2d15fdbeef8906b103f9ba3741b&v=4",
     "location": "Fátima, Portugal",
-    "company": "IPLeiria",
+    "company": "Luso Digital Assets",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 855,
+    "followers": 4,
+    "privateContributions": 998,
     "publicContributions": 0,
     "createdAt": "2023-02-02T14:00:32Z"
   },
@@ -31926,9 +31926,9 @@
     "location": "Portugal",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 189,
-    "publicContributions": 24,
+    "followers": 2,
+    "privateContributions": 239,
+    "publicContributions": 17,
     "createdAt": "2023-05-19T14:57:41Z"
   },
   {
@@ -31939,7 +31939,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 60,
+    "privateContributions": 51,
     "publicContributions": 92,
     "createdAt": "2023-03-05T19:31:40Z"
   },
@@ -31952,20 +31952,8 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 244,
+    "publicContributions": 215,
     "createdAt": "2023-06-13T17:05:31Z"
-  },
-  {
-    "login": "pedromanuelamaral",
-    "name": "Pedro Amaral",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/134155640?s=72&u=05ce94550fe8c452f7f9eb4b62ea7e6990d68c34&v=4",
-    "location": "Portugal",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 42,
-    "publicContributions": 133,
-    "createdAt": "2023-05-20T15:35:39Z"
   },
   {
     "login": "Francisco-Bulhosa",
@@ -31975,7 +31963,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 181,
+    "privateContributions": 42,
     "publicContributions": 10,
     "createdAt": "2023-06-22T11:05:04Z"
   },
@@ -32000,7 +31988,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 9,
     "createdAt": "2023-06-26T13:20:34Z"
   },
   {
