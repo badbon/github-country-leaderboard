@@ -32695,7 +32695,7 @@
     "company": "@DaPulse ",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 962,
+    "privateContributions": 1006,
     "publicContributions": 0,
     "createdAt": "2021-12-16T12:21:46Z"
   },
@@ -32706,7 +32706,7 @@
     "location": "Ofakim, Israel",
     "company": "UNPWNED",
     "twitterUsername": "azulay_raz",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
     "publicContributions": 116,
     "createdAt": "2021-11-01T16:49:07Z"
@@ -32756,7 +32756,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2021-11-13T10:05:25Z"
   },
   {
@@ -32768,7 +32768,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 170,
+    "publicContributions": 173,
     "createdAt": "2021-08-08T09:40:42Z"
   },
   {
@@ -32792,20 +32792,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 317,
+    "publicContributions": 270,
     "createdAt": "2021-07-14T13:56:01Z"
-  },
-  {
-    "login": "SegevSolomon",
-    "name": "Segev Solomon",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/89121546?s=72&u=a7f7e70e20abfd837ae7eba1b76609c2c58a7a31&v=4",
-    "location": "Tel Aviv, Israel",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 9,
-    "createdAt": "2021-08-18T05:20:35Z"
   },
   {
     "login": "EgorovaNastya",
@@ -32828,7 +32816,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 293,
+    "publicContributions": 509,
     "createdAt": "2021-07-24T11:55:00Z"
   },
   {
@@ -32851,8 +32839,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 244,
-    "publicContributions": 278,
+    "privateContributions": 230,
+    "publicContributions": 238,
     "createdAt": "2021-10-16T20:58:10Z"
   },
   {
@@ -32890,18 +32878,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-12-12T17:27:50Z"
-  },
-  {
-    "login": "Stas-Levman",
-    "name": "Stas Levman",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/96661007?s=72&u=7c8eb91096390e8e9ae630a15ba0c4881a1ee21c&v=4",
-    "location": "Haifa, Israel",
-    "company": "Coperato Ltd.",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2021-12-25T16:53:05Z"
   },
   {
     "login": "carmelbd",

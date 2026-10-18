@@ -31712,7 +31712,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 37,
     "createdAt": "2024-08-08T03:35:44Z"
   },
   {
@@ -31723,8 +31723,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 2829,
-    "publicContributions": 160,
+    "privateContributions": 2895,
+    "publicContributions": 146,
     "createdAt": "2024-08-26T17:19:33Z"
   },
   {
@@ -31746,22 +31746,10 @@
     "location": "Vietnam",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 485,
+    "publicContributions": 444,
     "createdAt": "2024-08-26T04:26:49Z"
-  },
-  {
-    "login": "Angeltlh30",
-    "name": "Hồ Lê Thiên An",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/179968167?s=72&u=faabb6953c4e89262096cb19489774194336735a&v=4",
-    "location": "Vietnam",
-    "company": "Đại học FPT",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 161,
-    "createdAt": "2024-08-30T19:08:57Z"
   },
   {
     "login": "Duongvu05",
@@ -31770,9 +31758,9 @@
     "location": "Hanoi, Vietnam",
     "company": "Business AI Lab (BAIlab)",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 344,
-    "publicContributions": 200,
+    "followers": 5,
+    "privateContributions": 474,
+    "publicContributions": 205,
     "createdAt": "2024-10-26T03:36:06Z"
   },
   {
@@ -31784,7 +31772,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 7,
-    "publicContributions": 5,
+    "publicContributions": 3,
     "createdAt": "2024-10-28T09:17:34Z"
   },
   {
@@ -31796,7 +31784,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 231,
+    "publicContributions": 164,
     "createdAt": "2024-11-24T14:51:54Z"
   },
   {
@@ -31808,7 +31796,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 107,
     "createdAt": "2024-10-09T16:30:25Z"
   },
   {
@@ -31842,7 +31830,7 @@
     "location": "VietNam",
     "company": "VNU-HCMUS",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-10-21T04:02:46Z"
@@ -31856,7 +31844,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 117,
+    "publicContributions": 120,
     "createdAt": "2024-12-25T11:30:39Z"
   },
   {
@@ -31867,7 +31855,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 631,
+    "privateContributions": 519,
     "publicContributions": 0,
     "createdAt": "2024-07-16T10:00:55Z"
   },
@@ -31879,8 +31867,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 763,
-    "publicContributions": 839,
+    "privateContributions": 1726,
+    "publicContributions": 811,
     "createdAt": "2024-07-03T05:39:37Z"
   },
   {
@@ -31892,7 +31880,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 187,
+    "publicContributions": 193,
     "createdAt": "2024-11-22T10:31:30Z"
   },
   {
@@ -31902,9 +31890,9 @@
     "location": "Danang, Vietnam",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 52,
+    "publicContributions": 77,
     "createdAt": "2024-11-03T15:38:00Z"
   },
   {
@@ -31916,7 +31904,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 62,
+    "publicContributions": 60,
     "createdAt": "2024-06-30T14:47:20Z"
   },
   {
@@ -31928,19 +31916,19 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 154,
+    "publicContributions": 131,
     "createdAt": "2024-10-29T14:15:42Z"
   },
   {
     "login": "alexajuno",
     "name": "Giao Le",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/177396706?s=72&u=5d5c38973507325c6b0481b528b35eb95469514c&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/177396706?s=72&u=2f7e4f4aabd48bcc718ee186388d9efce5b2a950&v=4",
     "location": "Hanoi, Vietnam",
     "company": "@ownego",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 3379,
-    "publicContributions": 874,
+    "privateContributions": 4263,
+    "publicContributions": 1015,
     "createdAt": "2024-08-03T10:29:36Z"
   },
   {

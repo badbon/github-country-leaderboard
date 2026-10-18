@@ -32540,7 +32540,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 8,
     "createdAt": "2025-02-16T22:40:31Z"
   },
   {
@@ -32550,9 +32550,9 @@
     "location": "Cairo",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 16,
     "createdAt": "2025-04-02T00:30:24Z"
   },
   {
@@ -32562,9 +32562,9 @@
     "location": "Cairo",
     "company": "almona",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 59,
+    "publicContributions": 245,
     "createdAt": "2025-04-06T21:05:33Z"
   },
   {
@@ -32574,9 +32574,9 @@
     "location": "Cairo",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 41,
+    "publicContributions": 31,
     "createdAt": "2025-02-06T22:37:59Z"
   },
   {
@@ -32624,7 +32624,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 14,
     "createdAt": "2025-09-28T14:12:42Z"
   },
   {
@@ -32640,18 +32640,6 @@
     "createdAt": "2025-01-21T14:09:53Z"
   },
   {
-    "login": "Ibrahim2352001",
-    "name": "Ibrahim Mostafa",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/219838382?s=72&u=19d58bba1d218614a44a9ab0e99d541c4b7db105&v=4",
-    "location": "cairo",
-    "company": "Tanta University",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 14,
-    "createdAt": "2025-07-08T11:33:11Z"
-  },
-  {
     "login": "KarimMohamed01",
     "name": "Karim Mohamed",
     "avatarUrl": "https://avatars.githubusercontent.com/u/228214295?s=72&v=4",
@@ -32660,7 +32648,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 0,
     "createdAt": "2025-08-23T14:38:44Z"
   },
   {
@@ -32670,9 +32658,9 @@
     "location": "Eygpt-cairo",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 10,
     "createdAt": "2025-06-26T09:16:46Z"
   },
   {
@@ -32684,7 +32672,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-09-11T02:36:11Z"
   },
   {
@@ -32696,20 +32684,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 35,
+    "publicContributions": 30,
     "createdAt": "2025-08-28T22:10:27Z"
-  },
-  {
-    "login": "carbon-eg",
-    "name": "Carbon",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/209158054?s=72&u=22509d20512d839b648f5fca48cc6c419f02c310&v=4",
-    "location": "Cairo",
-    "company": "Carbon - كربون",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2025-04-25T18:00:41Z"
   },
   {
     "login": "doaa5sobhy-lang",
@@ -32724,18 +32700,6 @@
     "createdAt": "2025-08-04T09:52:34Z"
   },
   {
-    "login": "MohamedHossam-1",
-    "name": "Mohamed Hossam ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/223578495?s=72&u=6021c95c8e3e54edff63664abddef690915cc7e6&v=4",
-    "location": "Cairo",
-    "company": "ABBA Servicios",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 37,
-    "createdAt": "2025-07-30T00:50:31Z"
-  },
-  {
     "login": "shahd6ahmed-ctrl",
     "name": "SHAHD7",
     "avatarUrl": "https://avatars.githubusercontent.com/u/224807592?s=72&v=4",
@@ -32744,7 +32708,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 106,
+    "publicContributions": 76,
     "createdAt": "2025-08-05T13:54:56Z"
   },
   {
@@ -32766,9 +32730,9 @@
     "location": "Cairo ",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 22,
     "createdAt": "2025-03-10T22:44:10Z"
   },
   {
@@ -409150,5 +409114,53 @@
     "privateContributions": 5371,
     "publicContributions": 5,
     "createdAt": "2024-01-11T08:41:39Z"
+  },
+  {
+    "login": "NouranTalaat",
+    "name": "NOURAN TALAAT",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/299029223?s=72&v=4",
+    "location": "Egypt",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 30,
+    "createdAt": "2026-07-02T08:08:31Z"
+  },
+  {
+    "login": "AmrSalah-89",
+    "name": "Amr Salah",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/299036580?s=72&v=4",
+    "location": "Cairo, Egypt",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2026-07-02T08:30:46Z"
+  },
+  {
+    "login": "shady-fathe",
+    "name": "4D4D",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/299276171?s=72&u=11fd14c257b1aa1a3d0b1167f0d0dabdb532e7fd&v=4",
+    "location": "Egypt",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 57,
+    "createdAt": "2026-07-02T20:02:47Z"
+  },
+  {
+    "login": "minaashraf21-mis",
+    "name": "Mina Ashraf",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/299127502?s=72&v=4",
+    "location": "Egypt",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-07-02T12:54:16Z"
   }
 ]

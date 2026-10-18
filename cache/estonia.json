@@ -32683,7 +32683,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 17,
+    "privateContributions": 206,
     "publicContributions": 0,
     "createdAt": "2016-08-05T08:50:30Z"
   },
@@ -32731,8 +32731,8 @@
     "company": "Thorgate",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 117,
-    "publicContributions": 2,
+    "privateContributions": 162,
+    "publicContributions": 0,
     "createdAt": "2016-10-13T21:31:37Z"
   },
   {
@@ -32803,7 +32803,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 887,
+    "privateContributions": 890,
     "publicContributions": 9,
     "createdAt": "2016-12-08T21:19:16Z"
   },
@@ -32874,9 +32874,9 @@
     "location": "Tallinn, Estonia",
     "company": "Wise",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 1706,
-    "publicContributions": 22,
+    "followers": 2,
+    "privateContributions": 2489,
+    "publicContributions": 33,
     "createdAt": "2016-10-21T10:28:33Z"
   },
   {
@@ -58774,5 +58774,17 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2026-06-29T16:08:25Z"
+  },
+  {
+    "login": "JoosepM-565",
+    "name": "Joosep Madar",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298247088?s=72&v=4",
+    "location": "Tallinn, Estonia",
+    "company": "@Eesti-Raudtee ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 146,
+    "publicContributions": 1,
+    "createdAt": "2026-06-30T11:14:14Z"
   }
 ]

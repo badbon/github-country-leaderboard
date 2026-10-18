@@ -32274,7 +32274,7 @@
     "location": "Dublin",
     "company": "s/current/any/",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-03-10T12:12:57Z"
@@ -32311,7 +32311,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 288,
+    "privateContributions": 231,
     "publicContributions": 10,
     "createdAt": "2022-02-07T21:35:06Z"
   },
@@ -32336,20 +32336,8 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 3085,
+    "publicContributions": 3084,
     "createdAt": "2022-01-13T14:25:22Z"
-  },
-  {
-    "login": "AbduldevLab",
-    "name": "Abderahman Haouit",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/101268705?s=72&u=24e9a38edaee4391e5ad53bc4371d38d829e7046&v=4",
-    "location": "Dublin",
-    "company": "Northern Trust",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 430,
-    "createdAt": "2022-03-09T14:07:21Z"
   },
   {
     "login": "Ktoettotakoy",
@@ -32359,8 +32347,8 @@
     "company": "TCD",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 1086,
-    "publicContributions": 5,
+    "privateContributions": 1220,
+    "publicContributions": 6,
     "createdAt": "2022-02-01T17:30:43Z"
   },
   {
@@ -32382,9 +32370,9 @@
     "location": "Dublin",
     "company": "@Microsoft ",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 0,
     "createdAt": "2022-03-09T08:38:56Z"
   },
   {
@@ -32418,9 +32406,9 @@
     "location": "Dublin",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 113,
+    "publicContributions": 128,
     "createdAt": "2022-01-20T13:36:23Z"
   },
   {
@@ -32432,7 +32420,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2022-04-28T14:07:01Z"
   },
   {
@@ -32444,7 +32432,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 72,
+    "publicContributions": 154,
     "createdAt": "2022-12-10T13:17:52Z"
   },
   {
@@ -32456,7 +32444,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 1,
-    "publicContributions": 18,
+    "publicContributions": 28,
     "createdAt": "2022-05-03T18:42:09Z"
   },
   {
@@ -32467,8 +32455,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 18,
-    "publicContributions": 40,
+    "privateContributions": 29,
+    "publicContributions": 29,
     "createdAt": "2022-08-29T19:39:41Z"
   },
   {
@@ -32490,9 +32478,9 @@
     "location": "Dublin",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 5,
-    "publicContributions": 3,
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
     "createdAt": "2022-03-23T22:49:48Z"
   },
   {

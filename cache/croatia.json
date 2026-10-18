@@ -32816,7 +32816,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 10,
     "createdAt": "2017-11-11T18:40:45Z"
   },
   {
@@ -32875,7 +32875,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 18,
+    "privateContributions": 19,
     "publicContributions": 1,
     "createdAt": "2017-08-30T19:23:04Z"
   },
@@ -32888,7 +32888,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 73,
+    "publicContributions": 77,
     "createdAt": "2017-04-20T08:19:24Z"
   },
   {
@@ -32932,11 +32932,11 @@
     "name": "Kristina Knežević",
     "avatarUrl": "https://avatars.githubusercontent.com/u/30662395?s=72&u=f52c5438c014cc3623f7f36122d886840c2c7dbd&v=4",
     "location": "Zagreb, Croatia",
-    "company": "appotekka",
+    "company": "Appotekka",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 169,
-    "publicContributions": 4,
+    "followers": 2,
+    "privateContributions": 312,
+    "publicContributions": 0,
     "createdAt": "2017-08-02T15:14:28Z"
   },
   {
@@ -32953,26 +32953,26 @@
   },
   {
     "login": "vtuhtan",
-    "name": "",
+    "name": "Vjeran Tuhtan",
     "avatarUrl": "https://avatars.githubusercontent.com/u/31307628?s=72&v=4",
     "location": "Rijeka, Croatia",
     "company": "Verdino",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 37,
+    "privateContributions": 26,
     "publicContributions": 5,
     "createdAt": "2017-08-24T09:10:30Z"
   },
   {
     "login": "veneruzzo",
     "name": "Florijan Veneruzzo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/34711248?s=72&u=a51e7ca4a10fc5ab204265a2576e60cf51c97171&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/34711248?s=72&u=837d3b50e6732b4b70ae40d10a7f121665adca91&v=4",
     "location": "Pula, Croatia",
-    "company": "Cavamalusa (gausspeak.com, slicr.tech, gaussguild.com)",
+    "company": "Cavamalusa (gausspeak.com)",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 892,
-    "publicContributions": 4,
+    "privateContributions": 1051,
+    "publicContributions": 2,
     "createdAt": "2017-12-20T11:31:05Z"
   },
   {
@@ -32992,11 +32992,11 @@
     "name": "Ante Šušak",
     "avatarUrl": "https://avatars.githubusercontent.com/u/26067300?s=72&u=003da69a29fe1391747ed58876ca009d8bb0614f&v=4",
     "location": "Zagreb, Croatia",
-    "company": "SofaScore",
+    "company": "AVIV Group",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 5,
     "createdAt": "2017-02-27T16:19:04Z"
   },
   {

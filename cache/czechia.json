@@ -32406,9 +32406,9 @@
     "location": "Czech Republic",
     "company": "ICS MUNI",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 330,
-    "publicContributions": 128,
+    "followers": 6,
+    "privateContributions": 278,
+    "publicContributions": 120,
     "createdAt": "2021-03-31T12:29:09Z"
   },
   {
@@ -32420,7 +32420,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 0,
     "createdAt": "2021-02-16T13:54:18Z"
   },
   {
@@ -32430,9 +32430,9 @@
     "location": "Czech Republic",
     "company": "Microsoft",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 2,
-    "publicContributions": 7,
+    "publicContributions": 19,
     "createdAt": "2021-04-01T16:43:38Z"
   },
   {
@@ -32456,7 +32456,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 7,
     "createdAt": "2020-12-30T20:00:21Z"
   },
   {
@@ -32479,8 +32479,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 24,
-    "publicContributions": 254,
+    "privateContributions": 18,
+    "publicContributions": 215,
     "createdAt": "2021-11-02T13:47:25Z"
   },
   {
@@ -32503,7 +32503,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 510,
+    "privateContributions": 656,
     "publicContributions": 100,
     "createdAt": "2021-09-07T20:23:35Z"
   },
@@ -32515,7 +32515,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 408,
+    "privateContributions": 469,
     "publicContributions": 3,
     "createdAt": "2021-09-02T11:42:47Z"
   },
@@ -32526,21 +32526,21 @@
     "location": "Brno, Czech Republic",
     "company": "Red Hat",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 21,
-    "publicContributions": 190,
+    "followers": 6,
+    "privateContributions": 22,
+    "publicContributions": 205,
     "createdAt": "2021-03-19T11:05:14Z"
   },
   {
     "login": "edoardosignoroni",
     "name": "E. Signoroni",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/77529996?s=72&u=dab111632814bc3612c49ccf7cd7f851504f5c14&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/77529996?s=72&u=9c561b18ccca25ae9394aefd274cc8418d67d6f3&v=4",
     "location": "602 00 Brno, Czech Republic",
     "company": "NLP Centre, Faculty of Informatics, Masaryk University",
     "twitterUsername": "edo_signoroni",
     "followers": 4,
-    "privateContributions": 98,
-    "publicContributions": 22,
+    "privateContributions": 78,
+    "publicContributions": 18,
     "createdAt": "2021-01-16T09:32:15Z"
   },
   {
@@ -32552,7 +32552,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 6,
     "createdAt": "2021-04-09T06:36:47Z"
   },
   {
@@ -32562,9 +32562,9 @@
     "location": "Trutnov, Czech Republic",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 44,
+    "publicContributions": 39,
     "createdAt": "2021-11-27T17:05:59Z"
   },
   {
@@ -32588,20 +32588,8 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 36,
+    "publicContributions": 15,
     "createdAt": "2021-01-16T20:01:39Z"
-  },
-  {
-    "login": "fabfawufawd",
-    "name": "カネキ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/78453573?s=72&u=b51e9b9530e98b4f5149a89d3f42ff63d396c189&v=4",
-    "location": "Czech republic, Prague",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 4,
-    "createdAt": "2021-02-03T00:06:08Z"
   },
   {
     "login": "peberanek",
@@ -32612,19 +32600,19 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 47,
-    "publicContributions": 300,
+    "publicContributions": 221,
     "createdAt": "2021-05-07T05:46:09Z"
   },
   {
     "login": "danielklein-arch",
     "name": "DanielKlein",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/82767072?s=72&u=a7f8335abd683e3eae2fc21596eeb51993bfda0a&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/82767072?s=72&u=85ce8b8a08db883847228be3760c41bfcd7171d6&v=4",
     "location": "Czech Republic",
     "company": "Develit",
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 53,
+    "publicContributions": 45,
     "createdAt": "2021-04-18T14:45:04Z"
   },
   {
