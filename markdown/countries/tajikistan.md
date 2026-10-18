@@ -21,15 +21,15 @@ Indexed users: 709
 | 7 | [islom-sattorov](https://github.com/islom-sattorov) | islom-sattorov | Dushanbe, Tajikistan | 6,642 |
 | 8 | [ifteakhor](https://github.com/ifteakhor) |  | Tajikistan | 6,479 |
 | 9 | [sr-44](https://github.com/sr-44) | Shahrom | Tajikistan, Dushanbe | 6,396 |
-| 10 | [shahromako](https://github.com/shahromako) | Shahrom Kurbonov | Tajikistan, Dushanbe | 3,766 |
+| 10 | [shahromako](https://github.com/shahromako) | Shahrom Kurbonov | Tajikistan, Dushanbe | 3,741 |
 | 11 | [sultonzoda2011](https://github.com/sultonzoda2011) | Sultonzoda Abdulloh | Dushanbe | 3,613 |
 | 12 | [dev-muhammad](https://github.com/dev-muhammad) | Muhammad Abdugafarov  | Tajikistan | 3,521 |
 | 13 | [D1lsh0D](https://github.com/D1lsh0D) | Dilshod Hojiboev | Khujand, Tajikistan | 3,209 |
 | 14 | [Rahmonali](https://github.com/Rahmonali) | Rahmonali | Dushanbe, Tajikistan | 3,198 |
 | 15 | [IllMind11](https://github.com/IllMind11) | Islom Khushnazarov | Dushanbe, Tajikistan | 3,186 |
-| 16 | [Amsurur](https://github.com/Amsurur) | Muhammadsurur Abdulloev | Dushanbe | 2,919 |
-| 17 | [Z4f4r](https://github.com/Z4f4r) | Zafarjon Makhsudov | Tajikistan | 2,821 |
-| 18 | [Aiyom](https://github.com/Aiyom) |  | Tajikistan | 2,816 |
+| 16 | [Aiyom](https://github.com/Aiyom) |  | Tajikistan | 3,012 |
+| 17 | [Amsurur](https://github.com/Amsurur) | Muhammadsurur Abdulloev | Dushanbe | 2,919 |
+| 18 | [Z4f4r](https://github.com/Z4f4r) | Zafarjon Makhsudov | Tajikistan | 2,821 |
 | 19 | [Jamoliddin2001](https://github.com/Jamoliddin2001) | Jamoliddin  | Dushanbe | 2,815 |
 | 20 | [yusupkhemraev](https://github.com/yusupkhemraev) | Yusup Khemraev | Tajikistan, Dushanbe | 2,815 |
 
@@ -83,4 +83,4 @@ Indexed users: 709
 | 19 | [11bit](https://github.com/11bit) | Ivan Buryak | Dushanbe | 49 |
 | 20 | [Abdughafur](https://github.com/Abdughafur) | Abdughafur Khujzoda | Tajikistan | 48 |
 
-Generated: 2026-10-18T15:44:28.868Z
+Generated: 2026-10-18T17:32:16.544Z

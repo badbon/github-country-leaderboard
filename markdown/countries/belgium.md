@@ -17,11 +17,11 @@ Indexed users: 18,387
 | 3 | [VulcanoSoftware](https://github.com/VulcanoSoftware) | VulcanoSoftware | Belgium | 31,930 |
 | 4 | [welle](https://github.com/welle) | Welle Charlotte | Belgium | 29,673 |
 | 5 | [Laurens-Nys](https://github.com/Laurens-Nys) | Laurens Nys | Belgium | 27,346 |
-| 6 | [KenziDeSmet](https://github.com/KenziDeSmet) | Kenzi De Smet | Waregem, Belgium | 24,124 |
-| 7 | [phmatray](https://github.com/phmatray) | Philippe Matray | Belgium | 22,954 |
-| 8 | [huaxel](https://github.com/huaxel) | Juan Benjumea | Brussels | 19,875 |
-| 9 | [tetiana-ai](https://github.com/tetiana-ai) | Tetiana Stepanets | Brussels  | 19,428 |
-| 10 | [sujithq](https://github.com/sujithq) | Sujith Quintelier | Belgium | 19,233 |
+| 6 | [phmatray](https://github.com/phmatray) | Philippe Matray | Belgium | 22,954 |
+| 7 | [huaxel](https://github.com/huaxel) | Juan Benjumea | Brussels | 19,875 |
+| 8 | [tetiana-ai](https://github.com/tetiana-ai) | Tetiana Stepanets | Brussels  | 19,428 |
+| 9 | [sujithq](https://github.com/sujithq) | Sujith Quintelier | Belgium | 19,233 |
+| 10 | [KenziDeSmet](https://github.com/KenziDeSmet) | Kenzi De Smet | Waregem, Belgium | 17,980 |
 | 11 | [bmichotte](https://github.com/bmichotte) | Benjamin Michotte | Liège, Belgium | 17,056 |
 | 12 | [rgfaber](https://github.com/rgfaber) | R.G. Lefever | Leuven, Belgium | 15,383 |
 | 13 | [brtdv](https://github.com/brtdv) | Bert Devriese | Ghent x Bruges, Belgium | 15,360 |
@@ -83,4 +83,4 @@ Indexed users: 18,387
 | 19 | [erikdubois](https://github.com/erikdubois) | Erik Dubois | Belgium | 1,200 |
 | 20 | [hazexone](https://github.com/hazexone) | Haze | Brussels | 1,181 |
 
-Generated: 2026-10-18T16:02:19.553Z
+Generated: 2026-10-18T17:46:07.140Z

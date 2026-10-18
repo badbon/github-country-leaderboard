@@ -1,6 +1,6 @@
 # Followers - Antarctica
 
-Generated: 2026-10-18T15:57:39.709Z
+Generated: 2026-10-18T17:42:29.430Z
 
 Users: 461
 
@@ -24,5 +24,5 @@ Users: 461
 | 16 | [crse](https://github.com/crse) |  |  |  | Antarctica | 89 |
 | 17 | [pkasila](https://github.com/pkasila) | Pavel Kasila | Somewhere | pavelkasila | Antarctica | 88 |
 | 18 | [r4sas](https://github.com/r4sas) | R4SAS | @purple-tech |  | Vostok Station, Antarctica | 88 |
-| 19 | [alphaaurigae](https://github.com/alphaaurigae) | Marian Brockerhoff |  |  | Antarctica | 86 |
+| 19 | [alphaaurigae](https://github.com/alphaaurigae) | Marian Brockerhoff |  |  | Antarctica | 85 |
 | 20 | [fakeid30](https://github.com/fakeid30) | Fake ID | @BlackPearl-Forum  | Nirjhor | Antarctica | 78 |

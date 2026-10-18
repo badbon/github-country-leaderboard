@@ -20,7 +20,7 @@ Indexed users: 5,633
 | 6 | [yasball](https://github.com/yasball) | Yesbol Sariyev | Atyrau, Kazakhstan | 15,489 |
 | 7 | [alexey-abblix](https://github.com/alexey-abblix) | Alexey Poltorak | Astana, Kazakhstan | 14,638 |
 | 8 | [LeventySeven](https://github.com/LeventySeven) | Slava | Almaty, Kazakhstan | 13,558 |
-| 9 | [edelmir-muratkanov](https://github.com/edelmir-muratkanov) | Edelmir | Kazakhstan, Almaty | 12,873 |
+| 9 | [edelmir-muratkanov](https://github.com/edelmir-muratkanov) | Edelmir | Kazakhstan, Almaty | 12,857 |
 | 10 | [IManss-ai](https://github.com/IManss-ai) | Mansur Zhiger | Almaty, Kazakhstan | 12,675 |
 | 11 | [uzarsalan](https://github.com/uzarsalan) | Arsalan | Astana, Kazakhstan | 12,368 |
 | 12 | [enganese](https://github.com/enganese) | Ulan Aitbay | Aktau, Kazakhstan / Almaty, Kazakhstan | 11,740 |
@@ -83,4 +83,4 @@ Indexed users: 5,633
 | 19 | [aidarnouman](https://github.com/aidarnouman) | Aidar Nouman | Almaty, Kazakhstan | 303 |
 | 20 | [azamxvit](https://github.com/azamxvit) | Azamat | Kazakhstan, Atyrau | 295 |
 
-Generated: 2026-10-18T16:31:47.665Z
+Generated: 2026-10-18T18:10:16.574Z

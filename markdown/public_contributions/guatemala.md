@@ -1,6 +1,6 @@
 # Public Contributions - Guatemala
 
-Generated: 2026-10-18T16:21:33.767Z
+Generated: 2026-10-18T18:03:37.771Z
 
 Users: 3215
 
@@ -8,8 +8,8 @@ Users: 3215
 |---:|---|---|---|---|---|---:|
 | 1 | [Lewatoto](https://github.com/Lewatoto) | Gerson Alvarado | @SparkProjects  | Lewatoto | Guatemala | 15012 |
 | 2 | [Aisaac2205](https://github.com/Aisaac2205) | Isaac Sarceño |  |  | Jutiapa, Guatemala | 2116 |
-| 3 | [gaborage](https://github.com/gaborage) | Gabriel Rosales | @rewardsweb  |  | Guatemala | 1719 |
-| 4 | [PlataformasInformaticas](https://github.com/PlataformasInformaticas) | Plataformas Informáticas | Plataformas Informáticas |  | Guatemala | 1708 |
+| 3 | [PlataformasInformaticas](https://github.com/PlataformasInformaticas) | Plataformas Informáticas | Plataformas Informáticas |  | Guatemala | 1739 |
+| 4 | [gaborage](https://github.com/gaborage) | Gabriel Rosales | @rewardsweb  |  | Guatemala | 1719 |
 | 5 | [Adriianh](https://github.com/Adriianh) | Adrián Fúnez | @devblook |  | Guatemala | 1700 |
 | 6 | [acwilan](https://github.com/acwilan) | Andres Rovira | @telus | acwilan | Guatemala | 1666 |
 | 7 | [anndreloopez012](https://github.com/anndreloopez012) | Andre Lopez | ALCORE |  | Guatemala | 1633 |

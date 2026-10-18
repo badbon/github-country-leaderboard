@@ -16,8 +16,8 @@ Indexed users: 461
 | 2 | [shreeshiv](https://github.com/shreeshiv) | Shreeshiv Patel | Antarctica | 6,349 |
 | 3 | [adwait1290](https://github.com/adwait1290) | Adwait Athale | Antarctica | 6,033 |
 | 4 | [morgaesis](https://github.com/morgaesis) | Mörgæsis | Antarctica | 5,186 |
-| 5 | [ifarbod](https://github.com/ifarbod) | iFarbod | Antarctica  | 5,171 |
-| 6 | [jeongho](https://github.com/jeongho) | Jeongho Park | Deception Island, Antarctica | 5,103 |
+| 5 | [jeongho](https://github.com/jeongho) | Jeongho Park | Deception Island, Antarctica | 5,102 |
+| 6 | [ifarbod](https://github.com/ifarbod) | iFarbod | Antarctica  | 4,974 |
 | 7 | [JohnChristianD](https://github.com/JohnChristianD) | John Christian Domingo | Antarctica | 4,904 |
 | 8 | [AntoineSebert](https://github.com/AntoineSebert) | Antoine Sébert | Antarctica | 4,771 |
 | 9 | [Sup2point0](https://github.com/Sup2point0) | Sup#2.0 | Antarctica | 4,666 |
@@ -80,7 +80,7 @@ Indexed users: 461
 | 16 | [crse](https://github.com/crse) |  | Antarctica | 89 |
 | 17 | [pkasila](https://github.com/pkasila) | Pavel Kasila | Antarctica | 88 |
 | 18 | [r4sas](https://github.com/r4sas) | R4SAS | Vostok Station, Antarctica | 88 |
-| 19 | [alphaaurigae](https://github.com/alphaaurigae) | Marian Brockerhoff | Antarctica | 86 |
+| 19 | [alphaaurigae](https://github.com/alphaaurigae) | Marian Brockerhoff | Antarctica | 85 |
 | 20 | [fakeid30](https://github.com/fakeid30) | Fake ID | Antarctica | 78 |
 
-Generated: 2026-10-18T15:57:39.709Z
+Generated: 2026-10-18T17:42:29.430Z

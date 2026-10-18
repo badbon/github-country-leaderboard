@@ -48,7 +48,7 @@ Indexed users: 19,491
 | 9 | [notheotherben](https://github.com/notheotherben) | Benjamin Pannell | Dublin, Ireland | 10,701 |
 | 10 | [morganmcg1](https://github.com/morganmcg1) | Morgan McGuire | Dublin, Ireland | 10,243 |
 | 11 | [trakhimenok](https://github.com/trakhimenok) | Alexander Trakhimenok | Limerick, Ireland | 9,051 |
-| 12 | [Nelson-Lamounier](https://github.com/Nelson-Lamounier) | Nelson Lamounier | Dublin | 7,971 |
+| 12 | [Nelson-Lamounier](https://github.com/Nelson-Lamounier) | Nelson Lamounier | Dublin | 7,970 |
 | 13 | [bact](https://github.com/bact) | Arthit Suriyawongkul | Dublin and Bangkok | 7,039 |
 | 14 | [pjfanning](https://github.com/pjfanning) | PJ Fanning | Kilkenny, Ireland | 6,421 |
 | 15 | [pshirshov](https://github.com/pshirshov) | Paul S. | Dublin | 6,310 |
@@ -83,4 +83,4 @@ Indexed users: 19,491
 | 19 | [damienmaguire](https://github.com/damienmaguire) | Damien Maguire | Ireland | 1,045 |
 | 20 | [afshinm](https://github.com/afshinm) | Afshin Mehrabani | Dublin, Ireland | 1,037 |
 
-Generated: 2026-10-18T16:29:04.400Z
+Generated: 2026-10-18T18:06:54.480Z

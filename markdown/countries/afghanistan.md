@@ -13,7 +13,7 @@ Indexed users: 1,487
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [Fazlullahmamond](https://github.com/Fazlullahmamond) | Fazlullah Mamond | Kabul, Afghanistan | 204,921 |
-| 2 | [zevrok](https://github.com/zevrok) | Zevrok | Kabul, Afghanistan | 95,801 |
+| 2 | [zevrok](https://github.com/zevrok) | Zevrok | Kabul, Afghanistan | 88,601 |
 | 3 | [devpro0313](https://github.com/devpro0313) | Dev pro | Afghanistan | 82,717 |
 | 4 | [ahmadullahmukhlis](https://github.com/ahmadullahmukhlis) | Ahmadullah Mukhlis | Kabul, Afghanistan | 66,696 |
 | 5 | [haroonrashidzadran](https://github.com/haroonrashidzadran) | Haroon Rashid Zadran | Kabul, Afghanistan | 30,647 |
@@ -29,9 +29,9 @@ Indexed users: 1,487
 | 15 | [ShoaibNaseri](https://github.com/ShoaibNaseri) | Shoaib Naseri | Afghanistan | 5,973 |
 | 16 | [shafaqatullah](https://github.com/shafaqatullah) | shafaqatullah zaheer | Kabul, Afghanistan | 5,743 |
 | 17 | [ahmadjoya](https://github.com/ahmadjoya) | Ahmad Joya | Afghanistan | 5,455 |
-| 18 | [azizpgl](https://github.com/azizpgl) | Aziz Nabizada | Kabul, Afghanistan | 5,133 |
-| 19 | [basirkhan1995](https://github.com/basirkhan1995) | Basir Hashimi | Afghanistan | 4,873 |
-| 20 | [khalidafghanmal](https://github.com/khalidafghanmal) | khalid afghanmal | Afghanistan | 4,835 |
+| 18 | [yarzai](https://github.com/yarzai) | Aziz Rahman Yarzai | Kabul, Afghanistan | 5,239 |
+| 19 | [azizpgl](https://github.com/azizpgl) | Aziz Nabizada | Kabul, Afghanistan | 5,133 |
+| 20 | [basirkhan1995](https://github.com/basirkhan1995) | Basir Hashimi | Afghanistan | 4,873 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 1,487
 | 19 | [zainabturkmen](https://github.com/zainabturkmen) | Zainab Turkmen | Kabul  | 124 |
 | 20 | [NaveedAhmadHematmal](https://github.com/NaveedAhmadHematmal) | Naveed Ahmad Hematmal | Afghanistan | 117 |
 
-Generated: 2026-10-18T15:54:24.202Z
+Generated: 2026-10-18T17:40:38.510Z

@@ -1,13 +1,13 @@
 # Total Contributions - Afghanistan
 
-Generated: 2026-10-18T15:54:24.202Z
+Generated: 2026-10-18T17:40:38.510Z
 
 Users: 1487
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [Fazlullahmamond](https://github.com/Fazlullahmamond) | Fazlullah Mamond |  |  | Kabul, Afghanistan | 204921 |
-| 2 | [zevrok](https://github.com/zevrok) | Zevrok |  |  | Kabul, Afghanistan | 95801 |
+| 2 | [zevrok](https://github.com/zevrok) | Zevrok |  |  | Kabul, Afghanistan | 88601 |
 | 3 | [devpro0313](https://github.com/devpro0313) | Dev pro |  |  | Afghanistan | 82717 |
 | 4 | [ahmadullahmukhlis](https://github.com/ahmadullahmukhlis) | Ahmadullah Mukhlis | Da Afghanistan Bank (APS) |  | Kabul, Afghanistan | 66696 |
 | 5 | [haroonrashidzadran](https://github.com/haroonrashidzadran) | Haroon Rashid Zadran | @BarlasTech | A1_HAROON | Kabul, Afghanistan | 30647 |
@@ -23,6 +23,6 @@ Users: 1487
 | 15 | [ShoaibNaseri](https://github.com/ShoaibNaseri) | Shoaib Naseri |  |  | Afghanistan | 5973 |
 | 16 | [shafaqatullah](https://github.com/shafaqatullah) | shafaqatullah zaheer |  |  | Kabul, Afghanistan | 5743 |
 | 17 | [ahmadjoya](https://github.com/ahmadjoya) | Ahmad Joya | Softwareship-io |  | Afghanistan | 5455 |
-| 18 | [azizpgl](https://github.com/azizpgl) | Aziz Nabizada |  Peace Global Logistic |  | Kabul, Afghanistan | 5133 |
-| 19 | [basirkhan1995](https://github.com/basirkhan1995) | Basir Hashimi | Zaitoon |  | Afghanistan | 4873 |
-| 20 | [khalidafghanmal](https://github.com/khalidafghanmal) | khalid afghanmal | Smart City Solution ICT |  | Afghanistan | 4835 |
+| 18 | [yarzai](https://github.com/yarzai) | Aziz Rahman Yarzai |  |  | Kabul, Afghanistan | 5239 |
+| 19 | [azizpgl](https://github.com/azizpgl) | Aziz Nabizada |  Peace Global Logistic |  | Kabul, Afghanistan | 5133 |
+| 20 | [basirkhan1995](https://github.com/basirkhan1995) | Basir Hashimi | Zaitoon |  | Afghanistan | 4873 |

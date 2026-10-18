@@ -40,7 +40,7 @@ Indexed users: 139
 | 1 | [marcusquinn](https://github.com/marcusquinn) | Marcus Quinn | London, UK, Los-angeles, California, England, Jersey | 46,368 |
 | 2 | [simonbrowndotje](https://github.com/simonbrowndotje) | Simon Brown | Jersey, Channel Islands | 747 |
 | 3 | [PhilETaylor](https://github.com/PhilETaylor) | Phil E. Taylor | Jersey, Channel Islands | 711 |
-| 4 | [j4ckxyz](https://github.com/j4ckxyz) | jack | Jersey, UK | 697 |
+| 4 | [j4ckxyz](https://github.com/j4ckxyz) | jack | Jersey, UK | 699 |
 | 5 | [adecler](https://github.com/adecler) | Arnaud Declercq | Jersey | 576 |
 | 6 | [CJ-Jackson](https://github.com/CJ-Jackson) | Christopher John Jackson | St. Clement, Jersey | 550 |
 | 7 | [vraic](https://github.com/vraic) | André Tanguy | Jersey | 500 |
@@ -83,4 +83,4 @@ Indexed users: 139
 | 19 | [garyedwards](https://github.com/garyedwards) | Gary Edwards | Jersey, Channel Islands | 21 |
 | 20 | [Chrisedmo](https://github.com/Chrisedmo) | Chris Mousdale | Jersey, Channel Islands | 20 |
 
-Generated: 2026-10-18T16:30:38.831Z
+Generated: 2026-10-18T18:08:44.525Z

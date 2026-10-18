@@ -15,7 +15,7 @@ Indexed users: 4,008
 | 1 | [Mutasem-mk4](https://github.com/Mutasem-mk4) | Mutasem Kharma | Jordan | 33,722 |
 | 2 | [jaberjaber23](https://github.com/jaberjaber23) | Jaber Jaber | Amman, Jordan | 28,820 |
 | 3 | [MrGiveItAway-TPK](https://github.com/MrGiveItAway-TPK) | Munes Bani Fawaz | Amman, Jordan | 10,839 |
-| 4 | [samertall](https://github.com/samertall) | Samer Tallauze | Amman, Jordan | 8,574 |
+| 4 | [samertall](https://github.com/samertall) | Samer Tallauze | Amman, Jordan | 8,545 |
 | 5 | [MusaMisto](https://github.com/MusaMisto) | Musa Misto | Amman, Jordan | 8,318 |
 | 6 | [abuaboud](https://github.com/abuaboud) | Mo AbuAboud | Amman, Jordan | 8,035 |
 | 7 | [Jaber-Saed](https://github.com/Jaber-Saed) | Jaber-Said | Amman Jordan | 7,128 |
@@ -46,10 +46,10 @@ Indexed users: 4,008
 | 7 | [iofahmawi](https://github.com/iofahmawi) | Mohammad Fahmawi | Jordan | 2,784 |
 | 8 | [Natshah](https://github.com/Natshah) | Rajab Natshah | Amman, Jordan | 2,587 |
 | 9 | [AmroKSaleh](https://github.com/AmroKSaleh) | Amro Saleh | Jordan | 2,052 |
-| 10 | [MKAbuMattar](https://github.com/MKAbuMattar) | Mohammad Abu Mattar | Amman, Jordan | 1,938 |
-| 11 | [DRAGOX7](https://github.com/DRAGOX7) | Abdallah Talal Abdallah Alja'Fari | Jordan | 1,783 |
-| 12 | [AbdulTheActivePiecer](https://github.com/AbdulTheActivePiecer) | Abdul | Jordan | 1,620 |
-| 13 | [OmarAlJarrah](https://github.com/OmarAlJarrah) | Omar Aljarrah | Jordan | 1,537 |
+| 10 | [OmarAlJarrah](https://github.com/OmarAlJarrah) | Omar Aljarrah | Jordan | 2,042 |
+| 11 | [MKAbuMattar](https://github.com/MKAbuMattar) | Mohammad Abu Mattar | Amman, Jordan | 1,938 |
+| 12 | [DRAGOX7](https://github.com/DRAGOX7) | Abdallah Talal Abdallah Alja'Fari | Jordan | 1,783 |
+| 13 | [AbdulTheActivePiecer](https://github.com/AbdulTheActivePiecer) | Abdul | Jordan | 1,620 |
 | 14 | [AliOsm](https://github.com/AliOsm) | Ali Hamdi Ali Fadel | Amman - Jordan | 1,409 |
 | 15 | [motasemodeh](https://github.com/motasemodeh) | Mo'tasem Odeh | Amman/Jordan | 1,352 |
 | 16 | [mohammadtmohsen](https://github.com/mohammadtmohsen) | Mohammad Taleb | Jordan | 1,349 |
@@ -83,4 +83,4 @@ Indexed users: 4,008
 | 19 | [Eng-Mohamed-Elsayed](https://github.com/Eng-Mohamed-Elsayed) | Eng-Mohamed Elsayed | Jordan | 197 |
 | 20 | [omar-dulaimi](https://github.com/omar-dulaimi) | Omar Dulaimi | Jordan | 192 |
 
-Generated: 2026-10-18T16:31:14.687Z
+Generated: 2026-10-18T18:09:10.011Z

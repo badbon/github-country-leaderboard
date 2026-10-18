@@ -1,6 +1,6 @@
 # Total Contributions - Kazakhstan
 
-Generated: 2026-10-18T16:31:47.665Z
+Generated: 2026-10-18T18:10:16.574Z
 
 Users: 5633
 
@@ -14,7 +14,7 @@ Users: 5633
 | 6 | [yasball](https://github.com/yasball) | Yesbol Sariyev |  |  | Atyrau, Kazakhstan | 15489 |
 | 7 | [alexey-abblix](https://github.com/alexey-abblix) | Alexey Poltorak | Abblix |  | Astana, Kazakhstan | 14638 |
 | 8 | [LeventySeven](https://github.com/LeventySeven) | Slava |  | Seventydotleven | Almaty, Kazakhstan | 13558 |
-| 9 | [edelmir-muratkanov](https://github.com/edelmir-muratkanov) | Edelmir | @Maxinum |  | Kazakhstan, Almaty | 12873 |
+| 9 | [edelmir-muratkanov](https://github.com/edelmir-muratkanov) | Edelmir | @Maxinum |  | Kazakhstan, Almaty | 12857 |
 | 10 | [IManss-ai](https://github.com/IManss-ai) | Mansur Zhiger |  | Manss_dev | Almaty, Kazakhstan | 12675 |
 | 11 | [uzarsalan](https://github.com/uzarsalan) | Arsalan |  |  | Astana, Kazakhstan | 12368 |
 | 12 | [enganese](https://github.com/enganese) | Ulan Aitbay |  |  | Aktau, Kazakhstan / Almaty, Kazakhstan | 11740 |

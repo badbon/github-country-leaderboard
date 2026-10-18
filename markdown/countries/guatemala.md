@@ -39,8 +39,8 @@ Indexed users: 3,215
 |---:|---|---|---|---:|
 | 1 | [Lewatoto](https://github.com/Lewatoto) | Gerson Alvarado | Guatemala | 15,012 |
 | 2 | [Aisaac2205](https://github.com/Aisaac2205) | Isaac Sarceño | Jutiapa, Guatemala | 2,116 |
-| 3 | [gaborage](https://github.com/gaborage) | Gabriel Rosales | Guatemala | 1,719 |
-| 4 | [PlataformasInformaticas](https://github.com/PlataformasInformaticas) | Plataformas Informáticas | Guatemala | 1,708 |
+| 3 | [PlataformasInformaticas](https://github.com/PlataformasInformaticas) | Plataformas Informáticas | Guatemala | 1,739 |
+| 4 | [gaborage](https://github.com/gaborage) | Gabriel Rosales | Guatemala | 1,719 |
 | 5 | [Adriianh](https://github.com/Adriianh) | Adrián Fúnez | Guatemala | 1,700 |
 | 6 | [acwilan](https://github.com/acwilan) | Andres Rovira | Guatemala | 1,666 |
 | 7 | [anndreloopez012](https://github.com/anndreloopez012) | Andre Lopez | Guatemala | 1,633 |
@@ -83,4 +83,4 @@ Indexed users: 3,215
 | 19 | [cms](https://github.com/cms) | Christian C. Salvadó | Guatemala | 117 |
 | 20 | [tian2992](https://github.com/tian2992) | Sebastian Oliva | Guatemala | 114 |
 
-Generated: 2026-10-18T16:21:33.767Z
+Generated: 2026-10-18T18:03:37.771Z

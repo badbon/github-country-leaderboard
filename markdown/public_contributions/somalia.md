@@ -1,6 +1,6 @@
 # Public Contributions - Somalia
 
-Generated: 2026-10-18T15:38:32.436Z
+Generated: 2026-10-18T17:28:08.367Z
 
 Users: 866
 
@@ -10,8 +10,8 @@ Users: 866
 | 2 | [mrabukar](https://github.com/mrabukar) | Mr Abukar | @Loranet-Technologies  |  | Mogadisho, Somalia | 3829 |
 | 3 | [abdulsalamhassan](https://github.com/abdulsalamhassan) | Abdulsalam H. Shiikhow | SIMAD University |  | Somalia, Mogadishu | 1557 |
 | 4 | [TheAnfac](https://github.com/TheAnfac) | Anfac Abdullahi |  |  | Somalia-Mogadishu | 1068 |
-| 5 | [hanadderia](https://github.com/hanadderia) | Abdulshakur Ahmed | SOMALI PAYMENT SWITCH (SPS) |  | Mogadishu, Somalia | 963 |
-| 6 | [sadaqhassan](https://github.com/sadaqhassan) | Sadak Hassan Ahmed |  |  | mogadishu-somalia | 930 |
+| 5 | [sadaqhassan](https://github.com/sadaqhassan) | Sadak Hassan Ahmed |  |  | mogadishu-somalia | 974 |
+| 6 | [hanadderia](https://github.com/hanadderia) | Abdulshakur Ahmed | SOMALI PAYMENT SWITCH (SPS) |  | Mogadishu, Somalia | 963 |
 | 7 | [mohameddahir57](https://github.com/mohameddahir57) | Mohamed Dahir Osman |  |  | Somalia,Mogadishu | 912 |
 | 8 | [Maxamed459](https://github.com/Maxamed459) | Maxamed Mahdi |  |  | Somalia | 844 |
 | 9 | [EsraAbdirashid](https://github.com/EsraAbdirashid) | EsraAbdirashid |  |  | mogadishu,somalia | 770 |

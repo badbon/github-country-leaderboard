@@ -16,9 +16,9 @@ Indexed users: 256
 | 2 | [jeiang](https://github.com/jeiang) | Aidan Pinard | Trinidad and Tobago | 5,561 |
 | 3 | [jefroy](https://github.com/jefroy) | Ajay Sieunarine | Trinidad and Tobago | 4,349 |
 | 4 | [kyledef](https://github.com/kyledef) | Kyle E DeFreitas | Canda / Trinidad and Tobago / St Vincent and the Grenadines | 3,149 |
-| 5 | [Emille1723](https://github.com/Emille1723) | Emille Henry | Trinidad and Tobago | 3,082 |
+| 5 | [Emille1723](https://github.com/Emille1723) | Emille Henry | Trinidad and Tobago | 3,065 |
 | 6 | [AnthonyASBaptiste](https://github.com/AnthonyASBaptiste) | Anthony A.S Baptiste | Trinidad and Tobago | 2,946 |
-| 7 | [Chiggs-I-Am](https://github.com/Chiggs-I-Am) | Stephan Wilson | Trinidad and Tobago | 2,889 |
+| 7 | [Chiggs-I-Am](https://github.com/Chiggs-I-Am) | Stephan Wilson | Trinidad and Tobago | 2,886 |
 | 8 | [creativenull](https://github.com/creativenull) | Arnold Chand | Trinidad and Tobago | 2,317 |
 | 9 | [devxlag](https://github.com/devxlag) | Devon Murray | Trinidad and Tobago | 2,223 |
 | 10 | [marcstampfli](https://github.com/marcstampfli) | Marc Stämpfli | Trinidad and Tobago | 2,104 |
@@ -69,7 +69,7 @@ Indexed users: 256
 | 5 | [ArmstrongSubero](https://github.com/ArmstrongSubero) | Armstrong Subero | Moruga, Trinidad and Tobago | 78 |
 | 6 | [kyledef](https://github.com/kyledef) | Kyle E DeFreitas | Canda / Trinidad and Tobago / St Vincent and the Grenadines | 70 |
 | 7 | [creativenull](https://github.com/creativenull) | Arnold Chand | Trinidad and Tobago | 68 |
-| 8 | [Emille1723](https://github.com/Emille1723) | Emille Henry | Trinidad and Tobago | 63 |
+| 8 | [Emille1723](https://github.com/Emille1723) | Emille Henry | Trinidad and Tobago | 62 |
 | 9 | [foohyfooh](https://github.com/foohyfooh) | Jonathan Herbert | Trinidad and Tobago | 62 |
 | 10 | [premarafael108-jpg](https://github.com/premarafael108-jpg) | Anahata.Agent | Trinidad and tobago | 58 |
 | 11 | [Snickdx](https://github.com/Snickdx) | Nicholas Mendez | Trinidad and Tobago | 51 |
@@ -83,4 +83,4 @@ Indexed users: 256
 | 19 | [DionMS8](https://github.com/DionMS8) | Dion Singh | Trinidad and Tobago | 29 |
 | 20 | [wyntonfranklin](https://github.com/wyntonfranklin) | Wynton Franklin | Trinidad and Tobago | 29 |
 
-Generated: 2026-10-18T15:46:27.427Z
+Generated: 2026-10-18T17:34:33.243Z

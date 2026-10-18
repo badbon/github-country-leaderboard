@@ -1,6 +1,6 @@
 # Public Contributions - Dominican Republic
 
-Generated: 2026-10-18T16:12:03.985Z
+Generated: 2026-10-18T17:55:15.429Z
 
 Users: 3299
 
@@ -24,5 +24,5 @@ Users: 3299
 | 16 | [franklinmdev](https://github.com/franklinmdev) | Franklin Martinez | Nubeteck, SRL |  | Dominican Republic | 1622 |
 | 17 | [oliverdiaz873](https://github.com/oliverdiaz873) | Oliver Antonio Diaz |  |  | Santo Domingo | 1545 |
 | 18 | [ctorressoftware](https://github.com/ctorressoftware) | Carlos Torres |  |  | Dominican Republic | 1508 |
-| 19 | [adelrodriguez](https://github.com/adelrodriguez) | Adel Rodríguez |  | adeldotdo | Dominican Republic | 1473 |
-| 20 | [ingfranciscastillo](https://github.com/ingfranciscastillo) | Ing. Francis Castillo Cruz | @Nephrite-theme  |  | Dominican Republic | 1456 |
+| 19 | [eliaquin](https://github.com/eliaquin) | Eliaquín Encarnación |  |  | Santo Domingo, Dominican Republic | 1505 |
+| 20 | [adelrodriguez](https://github.com/adelrodriguez) | Adel Rodríguez |  | adeldotdo | Dominican Republic | 1473 |

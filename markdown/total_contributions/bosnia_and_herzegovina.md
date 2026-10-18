@@ -1,6 +1,6 @@
 # Total Contributions - Bosnia and Herzegovina
 
-Generated: 2026-10-18T16:03:34.019Z
+Generated: 2026-10-18T17:46:58.306Z
 
 Users: 2126
 
@@ -9,8 +9,8 @@ Users: 2126
 | 1 | [kemo](https://github.com/kemo) |  |  | delalick | Sarajevo, Bosnia and Herzegovina | 16810 |
 | 2 | [newPrimitives](https://github.com/newPrimitives) | Nermin Šehić | @betastudio | itsnerminsehic | Bosnia and Herzegovina | 8685 |
 | 3 | [mirzap](https://github.com/mirzap) | Mirza Pasic | @bosnadev  |  | Sarajevo | 8596 |
-| 4 | [leoyigit](https://github.com/leoyigit) | LeoYigit | Flyrank AI |  | Sarajevo | 7150 |
-| 5 | [benjaminpeljto](https://github.com/benjaminpeljto) | Benjamin Peljto | ShownMedia |  | Sarajevo | 7094 |
+| 4 | [benjaminpeljto](https://github.com/benjaminpeljto) | Benjamin Peljto | ShownMedia |  | Sarajevo | 7384 |
+| 5 | [leoyigit](https://github.com/leoyigit) | LeoYigit | Flyrank AI |  | Sarajevo | 7150 |
 | 6 | [ghostrider0470](https://github.com/ghostrider0470) | Abdagić Hamza | Horizon Tech d.o.o. Sarajevo  |  | Sarajevo | 7042 |
 | 7 | [aness55](https://github.com/aness55) | Anes |  |  | Sarajevo | 7028 |
 | 8 | [ribice](https://github.com/ribice) | Emir Ribić | @caseconnect-ai |  | Sarajevo | 6627 |

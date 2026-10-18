@@ -1,6 +1,6 @@
 # Total Contributions - Belgium
 
-Generated: 2026-10-18T16:02:19.553Z
+Generated: 2026-10-18T17:46:07.140Z
 
 Users: 18387
 
@@ -11,11 +11,11 @@ Users: 18387
 | 3 | [VulcanoSoftware](https://github.com/VulcanoSoftware) | VulcanoSoftware | VulcanoSoftware |  | Belgium | 31930 |
 | 4 | [welle](https://github.com/welle) | Welle Charlotte |  |  | Belgium | 29673 |
 | 5 | [Laurens-Nys](https://github.com/Laurens-Nys) | Laurens Nys | Ortelian | laurensnys | Belgium | 27346 |
-| 6 | [KenziDeSmet](https://github.com/KenziDeSmet) | Kenzi De Smet | Gold Code Group (1000376935) |  | Waregem, Belgium | 24124 |
-| 7 | [phmatray](https://github.com/phmatray) | Philippe Matray | @Atypical-Consulting  |  | Belgium | 22954 |
-| 8 | [huaxel](https://github.com/huaxel) | Juan Benjumea |  |  | Brussels | 19875 |
-| 9 | [tetiana-ai](https://github.com/tetiana-ai) | Tetiana Stepanets | @lilidi-ai | tetiana_ai | Brussels  | 19428 |
-| 10 | [sujithq](https://github.com/sujithq) | Sujith Quintelier | @microsoft | SujithQ | Belgium | 19233 |
+| 6 | [phmatray](https://github.com/phmatray) | Philippe Matray | @Atypical-Consulting  |  | Belgium | 22954 |
+| 7 | [huaxel](https://github.com/huaxel) | Juan Benjumea |  |  | Brussels | 19875 |
+| 8 | [tetiana-ai](https://github.com/tetiana-ai) | Tetiana Stepanets | @lilidi-ai | tetiana_ai | Brussels  | 19428 |
+| 9 | [sujithq](https://github.com/sujithq) | Sujith Quintelier | @microsoft | SujithQ | Belgium | 19233 |
+| 10 | [KenziDeSmet](https://github.com/KenziDeSmet) | Kenzi De Smet |  |  | Waregem, Belgium | 17980 |
 | 11 | [bmichotte](https://github.com/bmichotte) | Benjamin Michotte | @opp-studio  | bmichotte | Liège, Belgium | 17056 |
 | 12 | [rgfaber](https://github.com/rgfaber) | R.G. Lefever | BEAM Campus | beamologist | Leuven, Belgium | 15383 |
 | 13 | [brtdv](https://github.com/brtdv) | Bert Devriese |  |  | Ghent x Bruges, Belgium | 15360 |
