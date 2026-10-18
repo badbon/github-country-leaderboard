@@ -22,8 +22,8 @@ Indexed users: 1,656
 | 8 | [tapiwamakandigona](https://github.com/tapiwamakandigona) | Tapiwa Makandigona | Zimbabwe | 7,324 |
 | 9 | [kudzaiprichard](https://github.com/kudzaiprichard) | Kudzai Prichard Matizirofa | Mashonaland West Province, Zimbabwe, Harare | 7,186 |
 | 10 | [phoscoder](https://github.com/phoscoder) | Victor Phos | Zimbabwe | 7,159 |
-| 11 | [protendai](https://github.com/protendai) | Tendai Karuma | Harare Zimbabwe | 6,939 |
-| 12 | [josemukorivo](https://github.com/josemukorivo) | Joseph Mukorivo | Harare, Zimbabwe | 6,400 |
+| 11 | [josemukorivo](https://github.com/josemukorivo) | Joseph Mukorivo | Harare, Zimbabwe | 6,400 |
+| 12 | [protendai](https://github.com/protendai) | Tendai Karuma | Harare Zimbabwe | 6,369 |
 | 13 | [morebnyemba](https://github.com/morebnyemba) | Moreblessing Nyemba | Zimbabwe | 6,315 |
 | 14 | [tkmawarire](https://github.com/tkmawarire) | #SpecialForces | Harare, Zimbabwe | 5,953 |
 | 15 | [Tadiwr](https://github.com/Tadiwr) | Tadiwanashe Shangwa | Zimbabwe | 5,768 |
@@ -68,8 +68,8 @@ Indexed users: 1,656
 | 4 | [KnowledgeSeeker101-bit](https://github.com/KnowledgeSeeker101-bit) | Nyashadzaishe Masvongo | harare  Zimbabwe | 462 |
 | 5 | [iamngoni](https://github.com/iamngoni) | Ngonidzashe Mangudya | Harare | 231 |
 | 6 | [skyridertk](https://github.com/skyridertk) | Tanaka I Kahwai | Harare, Zimbabwe | 200 |
-| 7 | [blessing-mufaro](https://github.com/blessing-mufaro) | Blessing Mufaro Kashava | Harare, Zimbabwe | 188 |
-| 8 | [kculz](https://github.com/kculz) | Kudzai Munyama | Mutare, Zimbabwe | 186 |
+| 7 | [kculz](https://github.com/kculz) | Kudzai Munyama | Mutare, Zimbabwe | 194 |
+| 8 | [blessing-mufaro](https://github.com/blessing-mufaro) | Blessing Mufaro Kashava | Harare, Zimbabwe | 188 |
 | 9 | [alistairholmes](https://github.com/alistairholmes) | Alistair Holmes | Bulawayo, Zimbabwe | 184 |
 | 10 | [sirx2713](https://github.com/sirx2713) | iSAD | Zimbabwe | 171 |
 | 11 | [protendai](https://github.com/protendai) | Tendai Karuma | Harare Zimbabwe | 166 |
@@ -83,4 +83,4 @@ Indexed users: 1,656
 | 19 | [zim-bot](https://github.com/zim-bot) | DRIPS MEMES BLENNIE BLESSED TUNA | Zimbabwe | 110 |
 | 20 | [KudakwasheM](https://github.com/KudakwasheM) | Kudakwashe Masaya | Harare | 105 |
 
-Generated: 2026-10-18T00:06:49.496Z
+Generated: 2026-10-18T01:45:05.621Z

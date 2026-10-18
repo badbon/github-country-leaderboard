@@ -40,7 +40,7 @@ Indexed users: 1,784
 | 1 | [AndyIbanez](https://github.com/AndyIbanez) | Andy Ibanez | Bolivia | 25,237 |
 | 2 | [DanielTorres1](https://github.com/DanielTorres1) | Daniel Torres Sandi | Bolivia | 3,024 |
 | 3 | [OscarGauss](https://github.com/OscarGauss) | Oscar Gauss Carvajal Yucra | La Paz, Bolivia | 2,907 |
-| 4 | [LudCano](https://github.com/LudCano) | Ludving Cano Fernandez | La Paz, Bolivia | 2,567 |
+| 4 | [LudCano](https://github.com/LudCano) | Ludving Cano Fernandez | La Paz, Bolivia | 2,572 |
 | 5 | [ldgd2](https://github.com/ldgd2) | Lider | Bolivia | 2,274 |
 | 6 | [SergioRibera](https://github.com/SergioRibera) | Sergio Alejandro Ribera Costa | Santa Cruz de la Sierra, Bolivia | 2,088 |
 | 7 | [arkgast](https://github.com/arkgast) | Arnold Gandarillas Castillo | Bolivia | 1,859 |
@@ -83,4 +83,4 @@ Indexed users: 1,784
 | 19 | [alvarosiles11](https://github.com/alvarosiles11) | Alvaro Siles Estrada | Bolivia | 121 |
 | 20 | [mauforonda](https://github.com/mauforonda) | Mau Foronda | Bolivia | 120 |
 
-Generated: 2026-10-18T00:18:25.323Z
+Generated: 2026-10-18T01:56:54.999Z

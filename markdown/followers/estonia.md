@@ -1,8 +1,8 @@
 # Followers - Estonia
 
-Generated: 2026-10-18T00:30:09.576Z
+Generated: 2026-10-18T02:09:34.707Z
 
-Users: 4901
+Users: 4900
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

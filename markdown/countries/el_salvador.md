@@ -15,7 +15,7 @@ Indexed users: 2,378
 | 1 | [heycesar](https://github.com/heycesar) | César A. Ramírez | El Salvador | 12,565 |
 | 2 | [marombeltran](https://github.com/marombeltran) | Marom Beltran | La Libertad, El Salvador | 11,301 |
 | 3 | [b-mendoza](https://github.com/b-mendoza) | Bryan Mendoza | San Salvador, El Salvador | 10,782 |
-| 4 | [Thrumanshow](https://github.com/Thrumanshow) | Cristhiam Leonardo Hernández Quiñonez  | El Salvador  | 10,365 |
+| 4 | [Thrumanshow](https://github.com/Thrumanshow) | Cristhiam Leonardo Hernández Quiñonez  | El Salvador  | 10,394 |
 | 5 | [striker25](https://github.com/striker25) | Fernando Alvarado | El Salvador | 10,175 |
 | 6 | [jromerojarj](https://github.com/jromerojarj) | Jonathan Romero | San Salvador, El Salvador | 9,862 |
 | 7 | [sthbryan](https://github.com/sthbryan) | Bryan Villafuerte | El Salvador | 9,644 |
@@ -44,7 +44,7 @@ Indexed users: 2,378
 | 5 | [martirale](https://github.com/martirale) | Alejandro Mártir | El Salvador | 2,052 |
 | 6 | [AugustoPedraza](https://github.com/AugustoPedraza) | Augusto | San Salvador de Jujuy | 1,768 |
 | 7 | [Haruki1707](https://github.com/Haruki1707) | Diego Gómez | El Salvador | 1,701 |
-| 8 | [Thrumanshow](https://github.com/Thrumanshow) | Cristhiam Leonardo Hernández Quiñonez  | El Salvador  | 1,626 |
+| 8 | [Thrumanshow](https://github.com/Thrumanshow) | Cristhiam Leonardo Hernández Quiñonez  | El Salvador  | 1,655 |
 | 9 | [jcanizalez](https://github.com/jcanizalez) | Javier Canizalez | El Salvador | 1,616 |
 | 10 | [Forte11Cuba](https://github.com/Forte11Cuba) | Forte11 | El Salvador | 1,404 |
 | 11 | [LemonMantis5571](https://github.com/LemonMantis5571) | Leonel Guerrero | El Salvador | 1,206 |
@@ -83,4 +83,4 @@ Indexed users: 2,378
 | 19 | [MiPrimerBitcoin](https://github.com/MiPrimerBitcoin) | Mi Primer Bitcoin El Salvador | El Salvador | 96 |
 | 20 | [davequinta](https://github.com/davequinta) | David Quintanilla | El Salvador | 95 |
 
-Generated: 2026-10-18T00:29:16.941Z
+Generated: 2026-10-18T02:09:26.354Z

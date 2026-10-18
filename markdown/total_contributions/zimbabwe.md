@@ -1,6 +1,6 @@
 # Total Contributions - Zimbabwe
 
-Generated: 2026-10-18T00:06:49.496Z
+Generated: 2026-10-18T01:45:05.621Z
 
 Users: 1656
 
@@ -16,8 +16,8 @@ Users: 1656
 | 8 | [tapiwamakandigona](https://github.com/tapiwamakandigona) | Tapiwa Makandigona |  |  | Zimbabwe | 7324 |
 | 9 | [kudzaiprichard](https://github.com/kudzaiprichard) | Kudzai Prichard Matizirofa |  |  | Mashonaland West Province, Zimbabwe, Harare | 7186 |
 | 10 | [phoscoder](https://github.com/phoscoder) | Victor Phos |  |  | Zimbabwe | 7159 |
-| 11 | [protendai](https://github.com/protendai) | Tendai Karuma | @code-stallion-zw | karumatendai | Harare Zimbabwe | 6939 |
-| 12 | [josemukorivo](https://github.com/josemukorivo) | Joseph Mukorivo | Complexus Technologies | josemukorivo | Harare, Zimbabwe | 6400 |
+| 11 | [josemukorivo](https://github.com/josemukorivo) | Joseph Mukorivo | Complexus Technologies | josemukorivo | Harare, Zimbabwe | 6400 |
+| 12 | [protendai](https://github.com/protendai) | Tendai Karuma | @code-stallion-zw | karumatendai | Harare Zimbabwe | 6369 |
 | 13 | [morebnyemba](https://github.com/morebnyemba) | Moreblessing Nyemba | Slyker Tech Web Services |  | Zimbabwe | 6315 |
 | 14 | [tkmawarire](https://github.com/tkmawarire) | #SpecialForces |  |  | Harare, Zimbabwe | 5953 |
 | 15 | [Tadiwr](https://github.com/Tadiwr) | Tadiwanashe Shangwa | @codaptdev | tadiwrr | Zimbabwe | 5768 |

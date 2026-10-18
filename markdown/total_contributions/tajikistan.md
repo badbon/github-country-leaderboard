@@ -1,6 +1,6 @@
 # Total Contributions - Tajikistan
 
-Generated: 2026-10-17T23:58:34.926Z
+Generated: 2026-10-18T01:35:06.090Z
 
 Users: 709
 
@@ -22,7 +22,7 @@ Users: 709
 | 14 | [Rahmonali](https://github.com/Rahmonali) | Rahmonali | Paydo-Team |  | Dushanbe, Tajikistan | 3198 |
 | 15 | [IllMind11](https://github.com/IllMind11) | Islom Khushnazarov | Ayan Capital |  | Dushanbe, Tajikistan | 3186 |
 | 16 | [Amsurur](https://github.com/Amsurur) | Muhammadsurur Abdulloev | Softclub , RowTech |  | Dushanbe | 2919 |
-| 17 | [Jamoliddin2001](https://github.com/Jamoliddin2001) | Jamoliddin  | MTM, FARDO |  | Dushanbe | 2829 |
-| 18 | [Z4f4r](https://github.com/Z4f4r) | Zafarjon Makhsudov | @Silk-Road-Professionals |  | Tajikistan | 2821 |
-| 19 | [Aiyom](https://github.com/Aiyom) |  |  |  | Tajikistan | 2816 |
+| 17 | [Z4f4r](https://github.com/Z4f4r) | Zafarjon Makhsudov | @Silk-Road-Professionals |  | Tajikistan | 2821 |
+| 18 | [Aiyom](https://github.com/Aiyom) |  |  |  | Tajikistan | 2816 |
+| 19 | [Jamoliddin2001](https://github.com/Jamoliddin2001) | Jamoliddin  | MTM, FARDO |  | Dushanbe | 2815 |
 | 20 | [yusupkhemraev](https://github.com/yusupkhemraev) | Yusup Khemraev | @Paydo-Team |  | Tajikistan, Dushanbe | 2815 |

@@ -1,6 +1,6 @@
 # Total Contributions - Bermuda
 
-Generated: 2026-10-18T00:16:48.910Z
+Generated: 2026-10-18T01:56:43.290Z
 
 Users: 898
 
@@ -20,7 +20,7 @@ Users: 898
 | 12 | [Noprop](https://github.com/Noprop) | Greg Forster |  |  | Hamilton | 6029 |
 | 13 | [nckdhl](https://github.com/nckdhl) | Nick Dahl | Solodigitalis |  | Hamilton | 5625 |
 | 14 | [rdaum](https://github.com/rdaum) | Ryan Daum |  |  | Hamilton, Ontario | 5130 |
-| 15 | [dbactual](https://github.com/dbactual) | Dave Berton | https://radixils.com |  | Bermuda | 4946 |
+| 15 | [dbactual](https://github.com/dbactual) | Dave Berton | https://radixils.com |  | Bermuda | 5041 |
 | 16 | [lbrgriffith](https://github.com/lbrgriffith) | L. B. Ricardo Griffith | Questown L.L.C. |  | Hamilton, Bermuda | 4559 |
 | 17 | [grantlucas](https://github.com/grantlucas) | Grant Lucas | @hostpapa  |  | Hamilton, Ontario | 4359 |
 | 18 | [izzudin96](https://github.com/izzudin96) | Izzudin Anuar | @initio-insurance |  | Hamilton | 4336 |

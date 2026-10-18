@@ -53,10 +53,10 @@ Indexed users: 6,884
 | 14 | [ivanopcode](https://github.com/ivanopcode) | Ivan | Tbilisi | 3,453 |
 | 15 | [pozitronik](https://github.com/pozitronik) | Pavel Dubrovsky | Tbilisi | 3,442 |
 | 16 | [andrinoff](https://github.com/andrinoff) | Drew Smirnoff | Tbilisi | 3,344 |
-| 17 | [NSchatz](https://github.com/NSchatz) | Noah Schatz | Georgia | 3,307 |
-| 18 | [Khizanag](https://github.com/Khizanag) | Giga Khizanishvili | Tbilisi, Georgia | 3,085 |
-| 19 | [Nikushhaa](https://github.com/Nikushhaa) | Nikushhaa Developer \| AI • Web • Software | 📍 Georgia | 3,054 |
-| 20 | [skulidropek](https://github.com/skulidropek) | Skuli Dropek | Tbilisi | 3,036 |
+| 17 | [anatoly-m-maslennikov](https://github.com/anatoly-m-maslennikov) | Anatoly Maslennikov | Tbilisi, Georgia (originally from Nizhny Novgorod, Russia) | 3,339 |
+| 18 | [NSchatz](https://github.com/NSchatz) | Noah Schatz | Georgia | 3,307 |
+| 19 | [Khizanag](https://github.com/Khizanag) | Giga Khizanishvili | Tbilisi, Georgia | 3,085 |
+| 20 | [Nikushhaa](https://github.com/Nikushhaa) | Nikushhaa Developer \| AI • Web • Software | 📍 Georgia | 3,054 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 6,884
 | 19 | [h-mdm](https://github.com/h-mdm) | Headwind MDM | Iustine Abuladze st. N15, Tbilisi, Georgia | 396 |
 | 20 | [jkomyno](https://github.com/jkomyno) | Alberto Schiabel | Tbilisi, Georgia | 392 |
 
-Generated: 2026-10-18T00:08:13.154Z
+Generated: 2026-10-18T01:45:40.042Z

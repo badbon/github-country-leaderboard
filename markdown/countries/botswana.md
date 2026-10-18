@@ -13,9 +13,9 @@ Indexed users: 533
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [kalungia](https://github.com/kalungia) | Abraham Kalungi | Botswana, Gaborone | 8,403 |
-| 2 | [Chalebgwa](https://github.com/Chalebgwa) | Pako Chalebgwa | Botswana,Gaborone | 8,282 |
+| 2 | [Chalebgwa](https://github.com/Chalebgwa) | Pako Chalebgwa | Botswana,Gaborone | 8,271 |
 | 3 | [rasali535](https://github.com/rasali535) | Alpheaus Chiwaze | Botswana, Gaborone | 2,839 |
-| 4 | [darula-hpp](https://github.com/darula-hpp) | Olebogeng Mbedzi | Gaborone | 2,678 |
+| 4 | [darula-hpp](https://github.com/darula-hpp) | Olebogeng Mbedzi | Gaborone | 2,675 |
 | 5 | [tiromodibedi](https://github.com/tiromodibedi) | Tiro Modibedi | Gaborone, Botswana | 2,624 |
 | 6 | [kmaphane](https://github.com/kmaphane) | Kenna Maphane | Maun, Botswana | 2,581 |
 | 7 | [ChinyangaTL](https://github.com/ChinyangaTL) | Les Chinyanga | Gaborone, Botswana | 2,349 |
@@ -66,7 +66,7 @@ Indexed users: 533
 | 2 | [ramokhua](https://github.com/ramokhua) | Boitsholo Ramokhua | Gaborone, Botswana | 153 |
 | 3 | [PrimordialOrigin](https://github.com/PrimordialOrigin) | Primordial | Gaborone, Botswana | 121 |
 | 4 | [Goitseone-Themba](https://github.com/Goitseone-Themba) | ISOTOPE \| THEMBA | Botswana | 104 |
-| 5 | [darula-hpp](https://github.com/darula-hpp) | Olebogeng Mbedzi | Gaborone | 74 |
+| 5 | [darula-hpp](https://github.com/darula-hpp) | Olebogeng Mbedzi | Gaborone | 75 |
 | 6 | [Raymacmillan](https://github.com/Raymacmillan) | Ryodevv | Botswana | 67 |
 | 7 | [VioletShards](https://github.com/VioletShards) | Leon N. | Botswana | 67 |
 | 8 | [Aobakwe25](https://github.com/Aobakwe25) | Aobakwe | Botswana | 65 |
@@ -83,4 +83,4 @@ Indexed users: 533
 | 19 | [BakangMonei](https://github.com/BakangMonei) | Monei Bakang | Gaborone, Botswana | 34 |
 | 20 | [Tebalo](https://github.com/Tebalo) | Bopaki | Botswana, Gaborone-Mokobaxane | 34 |
 
-Generated: 2026-10-18T00:18:49.071Z
+Generated: 2026-10-18T01:59:12.422Z

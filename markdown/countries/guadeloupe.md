@@ -19,7 +19,7 @@ Indexed users: 86
 | 5 | [gbaccetta](https://github.com/gbaccetta) | Giovanni Accetta | Guadeloupe | 1,638 |
 | 6 | [iamcryptoki](https://github.com/iamcryptoki) | Gael Gentil | Guadeloupe | 1,414 |
 | 7 | [Gaelle-charles](https://github.com/Gaelle-charles) | Gaëlle CHARLES-BELAMOUR | Guadeloupe (FWI) | 1,393 |
-| 8 | [liobrasil](https://github.com/liobrasil) | Lionel LIMOL | Guadeloupe | 943 |
+| 8 | [liobrasil](https://github.com/liobrasil) | Lionel LIMOL | Guadeloupe | 951 |
 | 9 | [BLVCK971](https://github.com/BLVCK971) | Yoel Pépin | Le Moule, GUADELOUPE | 839 |
 | 10 | [r1d](https://github.com/r1d) | Eric Degoul | Sainte-Anne, Guadeloupe | 738 |
 | 11 | [nath971](https://github.com/nath971) | N | Guadeloupe | 658 |
@@ -29,7 +29,7 @@ Indexed users: 86
 | 15 | [khalil-tabbal](https://github.com/khalil-tabbal) | Khalil TABBAL | Guadeloupe | 202 |
 | 16 | [Virguiles](https://github.com/Virguiles) | Virgile | Guadeloupe | 144 |
 | 17 | [Tomc1x](https://github.com/Tomc1x) | Tomy DACALOR | Basse-Terre, Guadeloupe | 136 |
-| 18 | [rgdgs](https://github.com/rgdgs) | Ruben G | Guadeloupe | 96 |
+| 18 | [rgdgs](https://github.com/rgdgs) | Ruben G | Guadeloupe | 95 |
 | 19 | [mperouma](https://github.com/mperouma) | Mathias P. | Guadeloupe | 80 |
 | 20 | [ELITEindev](https://github.com/ELITEindev) | Ethan Lacoste | Guadeloupe | 76 |
 
@@ -83,4 +83,4 @@ Indexed users: 86
 | 19 | [fg8oj](https://github.com/fg8oj) | Bertrand Demarcq FG8OJ/AG8OJ | Guadeloupe | 6 |
 | 20 | [kvaillant](https://github.com/kvaillant) | Karl Vaillant | Guadeloupe, West-Indies | 6 |
 
-Generated: 2026-10-18T00:36:23.660Z
+Generated: 2026-10-18T02:14:55.687Z

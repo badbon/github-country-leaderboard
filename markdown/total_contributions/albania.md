@@ -1,6 +1,6 @@
 # Total Contributions - Albania
 
-Generated: 2026-10-18T00:10:10.111Z
+Generated: 2026-10-18T01:46:47.469Z
 
 Users: 1184
 
@@ -10,7 +10,7 @@ Users: 1184
 | 2 | [okturan](https://github.com/okturan) | Okan Erturan |  |  | Tirana | 10599 |
 | 3 | [ErionTp](https://github.com/ErionTp) | Erjon Këllëçi | RokoHub |  | Tirane, Albania | 9388 |
 | 4 | [alban-hh](https://github.com/alban-hh) | Alban Shermadhi | Abissnet Sha |  | Albania | 8621 |
-| 5 | [Jorgo55](https://github.com/Jorgo55) | Jorgo Bardho |  |  | Albania, Tirana | 8238 |
+| 5 | [Jorgo55](https://github.com/Jorgo55) | Jorgo Bardho |  |  | Albania, Tirana | 8136 |
 | 6 | [kevingabeci](https://github.com/kevingabeci) | Kevin Gabeci | Apatero | gabeciii | Tirana | 7892 |
 | 7 | [somethim](https://github.com/somethim) | Arbi Kullakshi | @zennit-dev | arbi_kullakshi | Tirana, Albania | 6693 |
 | 8 | [emilushi](https://github.com/emilushi) | Eduard Milushi | Freelancer | edMilushi | Albania | 6666 |
@@ -22,7 +22,7 @@ Users: 1184
 | 14 | [nertilpoci](https://github.com/nertilpoci) | Nertil Poci |  |  | Albania | 5482 |
 | 15 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | CyberSecurity Researcher, Red Team, Bug Hunter | OrgitoRTA | Albania | 4672 |
 | 16 | [blenardpazari](https://github.com/blenardpazari) | Blenard Pazari | @new-media-communications | blenardpazari | Tirana | 4583 |
-| 17 | [sly503](https://github.com/sly503) | Fatjon Rami |  |  | Tirana | 4508 |
-| 18 | [ezekaj](https://github.com/ezekaj) | Elvi Zekaj |  |  | Tirana, Albania | 4397 |
+| 17 | [ezekaj](https://github.com/ezekaj) | Elvi Zekaj | @zedigitaltech |  | Tirana, Albania | 4540 |
+| 18 | [sly503](https://github.com/sly503) | Fatjon Rami |  |  | Tirana | 4508 |
 | 19 | [klevisndoka](https://github.com/klevisndoka) | Klevis Ndoka |  |  | Tirane, Albania | 4264 |
 | 20 | [klkucaj](https://github.com/klkucaj) | Klaudio Kuçaj | https://www.idea-developers.com/ |  | Tirana, Albania | 4217 |

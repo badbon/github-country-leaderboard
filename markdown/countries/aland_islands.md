@@ -27,7 +27,7 @@ Indexed users: 61
 | 13 | [kejpa](https://github.com/kejpa) | Kjell Hansen | Mariehamn, Åland Islands | 528 |
 | 14 | [karusmari](https://github.com/karusmari) | Maris Karu | Åland Islands | 463 |
 | 15 | [khalavak](https://github.com/khalavak) | Kim Halavakoski | Åland Islands | 383 |
-| 16 | [johanwestling](https://github.com/johanwestling) | Johan Westling | Åland, Finland | 211 |
+| 16 | [johanwestling](https://github.com/johanwestling) | Johan Westling | Åland, Finland | 209 |
 | 17 | [GitHug](https://github.com/GitHug) | Fredrik Mäkilä | London / Mariehamn | 185 |
 | 18 | [ejmilli](https://github.com/ejmilli) | eliza john |  Åland Islands, Finland | 171 |
 | 19 | [BeornG](https://github.com/BeornG) | Björn Granholm | Mariehamn, Åland | 131 |
@@ -83,4 +83,4 @@ Indexed users: 61
 | 19 | [GitHug](https://github.com/GitHug) | Fredrik Mäkilä | London / Mariehamn | 10 |
 | 20 | [fannielf](https://github.com/fannielf) | Fanni Vesanen | Mariehamn | 9 |
 
-Generated: 2026-10-18T00:09:49.078Z
+Generated: 2026-10-18T01:46:41.782Z

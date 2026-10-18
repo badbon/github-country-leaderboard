@@ -1,12 +1,12 @@
 # Total Contributions - Central African Republic
 
-Generated: 2026-10-18T00:23:00.058Z
+Generated: 2026-10-18T02:02:12.541Z
 
 Users: 11
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [elielMengue](https://github.com/elielMengue) | Eliel MENGUE | @ikouelabs @sendou-startup  | ElielMengue | BANGUI | 1355 |
+| 1 | [elielMengue](https://github.com/elielMengue) | Eliel MENGUE | @ikouelabs @sendou-startup  | ElielMengue | BANGUI | 1350 |
 | 2 | [Nanobolide](https://github.com/Nanobolide) | Geoffroy Maidou |  |  | Remote ,Bangui , Centrafrique 🇨🇫 ; | 1049 |
 | 3 | [yann-bot](https://github.com/yann-bot) | Yann Dubois Ouafete | @ikoueorg  | YannOuafete | Bangui , CAR | 862 |
 | 4 | [Jerry-M-L](https://github.com/Jerry-M-L) | Jerry |  | Lecreatif01 | Centrafrique,Bangui | 428 |
@@ -14,6 +14,6 @@ Users: 11
 | 6 | [yadiOs-a-darel](https://github.com/yadiOs-a-darel) | Alphonso Darel |  |  | Bangui, Central African Republic | 190 |
 | 7 | [tacopola](https://github.com/tacopola) | polaDev | Google |  | Bangui | 44 |
 | 8 | [hermanmandaba](https://github.com/hermanmandaba) | Hermann Mandaba | IKOUE |  | Bangui, Cenral African Republic | 23 |
-| 9 | [josuehdasse](https://github.com/josuehdasse) | DASSE TE NGBOKOTA Josué Honoré | OUBANGUI STAT CONSULTING |  | Bangui, République Centrafricaine | 12 |
+| 9 | [josuehdasse](https://github.com/josuehdasse) | DASSE TE NGBOKOTA Josué Honoré | OUBANGUI STAT CONSULTING |  | Bangui, République Centrafricaine | 11 |
 | 10 | [Zompire7](https://github.com/Zompire7) | Mahamat BENAMOU |  |  | Bangui | 5 |
 | 11 | [ikouecode](https://github.com/ikouecode) |  | IKOUĒ |  | Central African Republic | 3 |

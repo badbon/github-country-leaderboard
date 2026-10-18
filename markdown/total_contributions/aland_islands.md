@@ -1,6 +1,6 @@
 # Total Contributions - Åland Islands
 
-Generated: 2026-10-18T00:09:49.078Z
+Generated: 2026-10-18T01:46:41.782Z
 
 Users: 61
 
@@ -21,7 +21,7 @@ Users: 61
 | 13 | [kejpa](https://github.com/kejpa) | Kjell Hansen |  |  | Mariehamn, Åland Islands | 528 |
 | 14 | [karusmari](https://github.com/karusmari) | Maris Karu | Gritlab |  | Åland Islands | 463 |
 | 15 | [khalavak](https://github.com/khalavak) | Kim Halavakoski | @DeductiveLabs @Sofecta @SofectaLabs  | khalavak | Åland Islands | 383 |
-| 16 | [johanwestling](https://github.com/johanwestling) | Johan Westling | @Aventyret |  | Åland, Finland | 211 |
+| 16 | [johanwestling](https://github.com/johanwestling) | Johan Westling | @Aventyret |  | Åland, Finland | 209 |
 | 17 | [GitHug](https://github.com/GitHug) | Fredrik Mäkilä | Takanoha |  | London / Mariehamn | 185 |
 | 18 | [ejmilli](https://github.com/ejmilli) | eliza john |  |  |  Åland Islands, Finland | 171 |
 | 19 | [BeornG](https://github.com/BeornG) | Björn Granholm |  |  | Mariehamn, Åland | 131 |

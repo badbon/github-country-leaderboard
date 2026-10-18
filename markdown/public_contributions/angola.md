@@ -1,6 +1,6 @@
 # Public Contributions - Angola
 
-Generated: 2026-10-18T00:11:50.224Z
+Generated: 2026-10-18T01:48:18.667Z
 
 Users: 2499
 
@@ -14,9 +14,9 @@ Users: 2499
 | 6 | [skillmio](https://github.com/skillmio) | Skillmio |  |  | Angola | 2160 |
 | 7 | [Enock200558](https://github.com/Enock200558) | Enoque Bumba Cando  | GASOtec Corporation  |  | Angola 🇦🇴 | 2104 |
 | 8 | [emanuel-malungo](https://github.com/emanuel-malungo) | Emanuel Malungo | 42 Luanda |  |  Luanda, Angola | 1779 |
-| 9 | [LouAntonio](https://github.com/LouAntonio) | Lourenço António Dala | 42 Luanda |  | Luanda, Angola | 1569 |
-| 10 | [SW-Wanted](https://github.com/SW-Wanted) | Emanuel dos Santos | ISPTEC, 42 Luanda |  | Angola | 1421 |
-| 11 | [adilson889](https://github.com/adilson889) | Adilson C. Rafael | @underdev-official  |  | Moçâmedes, Namibe, Angola | 1400 |
+| 9 | [adilson889](https://github.com/adilson889) | Adilson C. Rafael | @getnativelayout |  | Moçâmedes, Namibe, Angola | 1652 |
+| 10 | [LouAntonio](https://github.com/LouAntonio) | Lourenço António Dala | 42 Luanda |  | Luanda, Angola | 1569 |
+| 11 | [SW-Wanted](https://github.com/SW-Wanted) | Emanuel dos Santos | ISPTEC, 42 Luanda |  | Angola | 1421 |
 | 12 | [jormaedes](https://github.com/jormaedes) | Jormaedes Luís |  |  | Angola | 1374 |
 | 13 | [joaquimmulaza](https://github.com/joaquimmulaza) | Joaquim Mulaza | Yaala | JoaquimMulaza | Luanda Angola | 1332 |
 | 14 | [ercabsalias](https://github.com/ercabsalias) | Ernesto Cabingano Salias | @IS4S-Intelligence-Software-Solutions  |  | Angola - Luanda Viana Estalagem | 1169 |

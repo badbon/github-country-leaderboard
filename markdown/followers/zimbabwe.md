@@ -1,6 +1,6 @@
 # Followers - Zimbabwe
 
-Generated: 2026-10-18T00:06:49.496Z
+Generated: 2026-10-18T01:45:05.621Z
 
 Users: 1656
 
@@ -12,8 +12,8 @@ Users: 1656
 | 4 | [KnowledgeSeeker101-bit](https://github.com/KnowledgeSeeker101-bit) | Nyashadzaishe Masvongo | @seViVI-Tese |  | harare  Zimbabwe | 462 |
 | 5 | [iamngoni](https://github.com/iamngoni) | Ngonidzashe Mangudya | Codecraft Solutions | iamngoni | Harare | 231 |
 | 6 | [skyridertk](https://github.com/skyridertk) | Tanaka I Kahwai |  | skyridertk | Harare, Zimbabwe | 200 |
-| 7 | [blessing-mufaro](https://github.com/blessing-mufaro) | Blessing Mufaro Kashava |  | blessing_mufaro | Harare, Zimbabwe | 188 |
-| 8 | [kculz](https://github.com/kculz) | Kudzai Munyama | Payment Facilitator (Payfac) |  | Mutare, Zimbabwe | 186 |
+| 7 | [kculz](https://github.com/kculz) | Kudzai Munyama | Payment Facilitator (Payfac) |  | Mutare, Zimbabwe | 194 |
+| 8 | [blessing-mufaro](https://github.com/blessing-mufaro) | Blessing Mufaro Kashava |  | blessing_mufaro | Harare, Zimbabwe | 188 |
 | 9 | [alistairholmes](https://github.com/alistairholmes) | Alistair Holmes | Holmes Digital Ventures | alistairholmes_ | Bulawayo, Zimbabwe | 184 |
 | 10 | [sirx2713](https://github.com/sirx2713) | iSAD | iSAD |  | Zimbabwe | 171 |
 | 11 | [protendai](https://github.com/protendai) | Tendai Karuma | @code-stallion-zw | karumatendai | Harare Zimbabwe | 166 |

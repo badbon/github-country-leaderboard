@@ -1,13 +1,13 @@
 # Total Contributions - Bhutan
 
-Generated: 2026-10-18T00:16:55.144Z
+Generated: 2026-10-18T01:56:49.717Z
 
 Users: 266
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [tshewang-rinzin](https://github.com/tshewang-rinzin) | Tshewang Rinzin | @Cloud-Bhutan  | trigdzeen | Thimphu, Bhutan | 6147 |
-| 2 | [tenztshering](https://github.com/tenztshering) | Tenzin Tshering |  |  | Thimphu, Bhutan | 5079 |
+| 2 | [tenztshering](https://github.com/tenztshering) | Tenzin Tshering |  |  | Thimphu, Bhutan | 5069 |
 | 3 | [Kzoeps](https://github.com/Kzoeps) | Karma Zoepa Yoezer |  | kzoeps | Thimphu, Bhutan | 3606 |
 | 4 | [teknatha136](https://github.com/teknatha136) | Tek Nath | @SELISEdigitalplatforms  |  | Thimphu | 3560 |
 | 5 | [tashi-iu](https://github.com/tashi-iu) | Tashi Tobgay Dakpa | @Jaggle-AI-HQ  |  | Thimphu, Bhutan | 3385 |
@@ -21,8 +21,8 @@ Users: 266
 | 13 | [namgaytobden](https://github.com/namgaytobden) | Namgay Tobden | @selisebt |  | Thimphu | 1962 |
 | 14 | [bugloper](https://github.com/bugloper) | Nima Yonten | Selise |  | Thimphu Babesa | 1958 |
 | 15 | [SonamWangchuk77jr](https://github.com/SonamWangchuk77jr) | Sonam Wangchuk | @ROMx-Tech  |  | Thimphu | 1929 |
-| 16 | [jigmeloday](https://github.com/jigmeloday) | Jigme Lodey | Freelancer |  | Thimphu Bhutan | 1919 |
+| 16 | [jigmeloday](https://github.com/jigmeloday) | Jigme Lodey | Freelancer |  | Thimphu Bhutan | 1925 |
 | 17 | [khandudo](https://github.com/khandudo) | Dorji Khandu | Coala Pay(San Francisco, CA) | Dojeee1 | Thimphu, Bhutan | 1846 |
 | 18 | [JigmePwangyel](https://github.com/JigmePwangyel) | Jigme Phuntsho Wangyel | Selise Bhutan |  | Bhutan | 1836 |
 | 19 | [sonamtaa](https://github.com/sonamtaa) | Sonam Tashi | SELISE Bhutan | tashist515 | Babesa, Thimphu | 1774 |
-| 20 | [KinWang-2013](https://github.com/KinWang-2013) | Kinley Wangchuk |  |  | Thimphu, Bhutan | 1764 |
+| 20 | [KinWang-2013](https://github.com/KinWang-2013) | Kinley Wangchuk |  |  | Thimphu, Bhutan | 1751 |

@@ -1,15 +1,15 @@
 # Followers - Ethiopia
 
-Generated: 2026-10-18T01:17:49.651Z
+Generated: 2026-10-18T02:10:46.744Z
 
-Users: 6686
+Users: 6685
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [yonana-sahile](https://github.com/yonana-sahile) | Yonas Sahile | Freelance / Open to Opportunities | sahile_yon2056 | Addis Ababa, Ethiopia | 3726 |
 | 2 | [Ambesawi](https://github.com/Ambesawi) | Aman Brhane |  | AmanAmbes | Addis Ababa | 3632 |
-| 3 | [Makitey](https://github.com/Makitey) | Makda Abraham |  | Maki_Weldem | Addis Ababa | 2881 |
-| 4 | [Emakiflom](https://github.com/Emakiflom) | Aman Kflom |  | AmanKflom | Addis Ababa | 2617 |
+| 3 | [Makitey](https://github.com/Makitey) | Makda Abraham |  | Maki_Weldem | Addis Ababa | 2858 |
+| 4 | [Emakiflom](https://github.com/Emakiflom) | Aman Kflom |  | AmanKflom | Addis Ababa | 2585 |
 | 5 | [Ruth12mak](https://github.com/Ruth12mak) | Ruth Simon | Freelancer |  | Addis Ababa  | 2239 |
 | 6 | [game-ale](https://github.com/game-ale) | Gemechu Alemu Bedasa | Adama Science and Technology University | alemu_geme88545 | Ethiopia | 1567 |
 | 7 | [devefy](https://github.com/devefy) | Abdulkerim Hamid |  |  | Ethiopia, Adama | 1523 |

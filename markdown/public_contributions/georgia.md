@@ -1,6 +1,6 @@
 # Public Contributions - Georgia
 
-Generated: 2026-10-18T00:08:13.154Z
+Generated: 2026-10-18T01:45:40.042Z
 
 Users: 6884
 
@@ -22,7 +22,7 @@ Users: 6884
 | 14 | [ivanopcode](https://github.com/ivanopcode) | Ivan | @wildberries-tech |  | Tbilisi | 3453 |
 | 15 | [pozitronik](https://github.com/pozitronik) | Pavel Dubrovsky | Freelancer |  | Tbilisi | 3442 |
 | 16 | [andrinoff](https://github.com/andrinoff) | Drew Smirnoff | @charmbracelet | andrin0ff | Tbilisi | 3344 |
-| 17 | [NSchatz](https://github.com/NSchatz) | Noah Schatz |  |  | Georgia | 3307 |
-| 18 | [Khizanag](https://github.com/Khizanag) | Giga Khizanishvili | Space International | Khizanag | Tbilisi, Georgia | 3085 |
-| 19 | [Nikushhaa](https://github.com/Nikushhaa) | Nikushhaa Developer \| AI • Web • Software |  |  | 📍 Georgia | 3054 |
-| 20 | [skulidropek](https://github.com/skulidropek) | Skuli Dropek |  |  | Tbilisi | 3036 |
+| 17 | [anatoly-m-maslennikov](https://github.com/anatoly-m-maslennikov) | Anatoly Maslennikov |  |  | Tbilisi, Georgia (originally from Nizhny Novgorod, Russia) | 3339 |
+| 18 | [NSchatz](https://github.com/NSchatz) | Noah Schatz |  |  | Georgia | 3307 |
+| 19 | [Khizanag](https://github.com/Khizanag) | Giga Khizanishvili | Space International | Khizanag | Tbilisi, Georgia | 3085 |
+| 20 | [Nikushhaa](https://github.com/Nikushhaa) | Nikushhaa Developer \| AI • Web • Software |  |  | 📍 Georgia | 3054 |

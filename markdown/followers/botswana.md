@@ -1,6 +1,6 @@
 # Followers - Botswana
 
-Generated: 2026-10-18T00:18:49.071Z
+Generated: 2026-10-18T01:59:12.422Z
 
 Users: 533
 
@@ -10,7 +10,7 @@ Users: 533
 | 2 | [ramokhua](https://github.com/ramokhua) | Boitsholo Ramokhua | Student at University of Botswana  | boitsholo_r | Gaborone, Botswana | 153 |
 | 3 | [PrimordialOrigin](https://github.com/PrimordialOrigin) | Primordial |  |  | Gaborone, Botswana | 121 |
 | 4 | [Goitseone-Themba](https://github.com/Goitseone-Themba) | ISOTOPE \| THEMBA | Botswana International University of Science and Technology | GoitseoneThemba | Botswana | 104 |
-| 5 | [darula-hpp](https://github.com/darula-hpp) | Olebogeng Mbedzi | Gitwork |  | Gaborone | 74 |
+| 5 | [darula-hpp](https://github.com/darula-hpp) | Olebogeng Mbedzi | Gitwork |  | Gaborone | 75 |
 | 6 | [Raymacmillan](https://github.com/Raymacmillan) | Ryodevv | Ryom | Ryodevv | Botswana | 67 |
 | 7 | [VioletShards](https://github.com/VioletShards) | Leon N. |  |  | Botswana | 67 |
 | 8 | [Aobakwe25](https://github.com/Aobakwe25) | Aobakwe |  |  | Botswana | 65 |

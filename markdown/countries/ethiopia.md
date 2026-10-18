@@ -1,6 +1,6 @@
 # Ethiopia
 
-Indexed users: 6,686
+Indexed users: 6,685
 
 | Leaderboard | Link |
 |---|---|
@@ -64,8 +64,8 @@ Indexed users: 6,686
 |---:|---|---|---|---:|
 | 1 | [yonana-sahile](https://github.com/yonana-sahile) | Yonas Sahile | Addis Ababa, Ethiopia | 3,726 |
 | 2 | [Ambesawi](https://github.com/Ambesawi) | Aman Brhane | Addis Ababa | 3,632 |
-| 3 | [Makitey](https://github.com/Makitey) | Makda Abraham | Addis Ababa | 2,881 |
-| 4 | [Emakiflom](https://github.com/Emakiflom) | Aman Kflom | Addis Ababa | 2,617 |
+| 3 | [Makitey](https://github.com/Makitey) | Makda Abraham | Addis Ababa | 2,858 |
+| 4 | [Emakiflom](https://github.com/Emakiflom) | Aman Kflom | Addis Ababa | 2,585 |
 | 5 | [Ruth12mak](https://github.com/Ruth12mak) | Ruth Simon | Addis Ababa  | 2,239 |
 | 6 | [game-ale](https://github.com/game-ale) | Gemechu Alemu Bedasa | Ethiopia | 1,567 |
 | 7 | [devefy](https://github.com/devefy) | Abdulkerim Hamid | Ethiopia, Adama | 1,523 |
@@ -83,4 +83,4 @@ Indexed users: 6,686
 | 19 | [Olyadtemesgen](https://github.com/Olyadtemesgen) | Olyad Temesgen Amsalu | Addis Ababa, Ethiopia | 519 |
 | 20 | [yonasleykun27](https://github.com/yonasleykun27) | Yonas Leykun | Addis Ababa, Ethiopia  | 515 |
 
-Generated: 2026-10-18T01:17:49.651Z
+Generated: 2026-10-18T02:10:46.744Z
