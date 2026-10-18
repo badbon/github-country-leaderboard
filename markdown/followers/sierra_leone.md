@@ -1,12 +1,12 @@
 # Followers - Sierra Leone
 
-Generated: 2026-10-18T01:25:15.549Z
+Generated: 2026-10-18T03:03:08.390Z
 
 Users: 443
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [mmsesay](https://github.com/mmsesay) | Muhammad Sesay | Nexlura | DeeMaejor | Freetown, Sierra Leone | 224 |
+| 1 | [mmsesay](https://github.com/mmsesay) | Muhammad Sesay | Nexlura | DeeMaejor | Freetown, Sierra Leone | 225 |
 | 2 | [AmaduKamara](https://github.com/AmaduKamara) | Amadu Kamara | Remote Front-End and Full-Stack Developer | DevAmkam | Freetown, Sierra Leone. | 111 |
 | 3 | [tayyibGbondo](https://github.com/tayyibGbondo) | Tayyib Gbondo |  | TahibGbondo | Sierra Leone | 93 |
 | 4 | [larrybah](https://github.com/larrybah) | Larry Bah |  | larrybah3 | Sierra Leone | 89 |
