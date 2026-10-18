@@ -1,28 +1,28 @@
 # Total Contributions - Kenya
 
-Generated: 2026-10-18T12:19:34.611Z
+Generated: 2026-10-18T13:35:56.402Z
 
-Users: 24019
+Users: 24018
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [CodeWithEugene](https://github.com/CodeWithEugene) | Eugene Mutembei | Technetium Kenya | codewitheugenee | Nairobi, Kenya | 993626 |
 | 2 | [mwakidenis](https://github.com/mwakidenis) |  🐘 |  |  | Nairobi | 252261 |
 | 3 | [mauricegift](https://github.com/mauricegift) | Maurice Gift | @gifted-solstice  |  | Eldoret, Kenya | 158347 |
-| 4 | [Bd-Mutant7](https://github.com/Bd-Mutant7) | 7 |  | BdMutant | Nairobi, Kenya | 131244 |
-| 5 | [FeyrithhbcQC8](https://github.com/FeyrithhbcQC8) | MythForger |  |  | Savior, kenya | 58608 |
-| 6 | [gkarumbi](https://github.com/gkarumbi) | George Karumbi |  | gkarumbi | Nairobi,KE | 47165 |
-| 7 | [amdefiguy](https://github.com/amdefiguy) | Defi Guy |  |  | Kenya | 45847 |
-| 8 | [MathewKioko](https://github.com/MathewKioko) | Mathew Kioko |  |  | Nairobi | 39823 |
-| 9 | [nyimbi](https://github.com/nyimbi) | Nyimbi Odero | Datacraft |  | Nairobi | 35536 |
+| 4 | [FeyrithhbcQC8](https://github.com/FeyrithhbcQC8) | MythForger |  |  | Savior, kenya | 58608 |
+| 5 | [gkarumbi](https://github.com/gkarumbi) | George Karumbi |  | gkarumbi | Nairobi,KE | 47165 |
+| 6 | [amdefiguy](https://github.com/amdefiguy) | Defi Guy |  |  | Kenya | 45847 |
+| 7 | [MathewKioko](https://github.com/MathewKioko) | Mathew Kioko |  |  | Nairobi | 39823 |
+| 8 | [nyimbi](https://github.com/nyimbi) | Nyimbi Odero | Datacraft |  | Nairobi | 35536 |
+| 9 | [Dark-Xploit](https://github.com/Dark-Xploit) | Tylor |  |  | Kenya | 24543 |
 | 10 | [Casper-Tech-ke](https://github.com/Casper-Tech-ke) | Casper Tech Kenya | xcasper.space |  | Nairobi, Kenya | 21856 |
 | 11 | [alexkemboi](https://github.com/alexkemboi) | ALEX KEMBOI | FINTECH-GROUP | alexkemboi97 | Nairobi-Kenya | 21658 |
 | 12 | [nedmoeca](https://github.com/nedmoeca) | TERRENCE M.K |  | nedmoeca | Nairobi, Kenya | 20631 |
 | 13 | [peterjuma](https://github.com/peterjuma) | Peter Juma | @github |  | Nairobi | 19674 |
 | 14 | [allano0](https://github.com/allano0) | Allan Wachira |  |  | KENYA | 19466 |
 | 15 | [philwamba](https://github.com/philwamba) | Phil Wamba |  |  | Kenya | 19453 |
-| 16 | [NexusGKSoftwares](https://github.com/NexusGKSoftwares) | Eng. Gideon Bett | CEO & Founder of @NexusGK Softwares  | nexus_gk | Nairobi Kenya  | 18857 |
-| 17 | [EngEryx](https://github.com/EngEryx) | Eric Kirima |  |  | Kenya | 18339 |
+| 16 | [EngEryx](https://github.com/EngEryx) | Eric Kirima |  |  | Kenya | 18339 |
+| 17 | [NexusGKSoftwares](https://github.com/NexusGKSoftwares) | Eng. Gideon Bett | CEO & Founder of @NexusGK Softwares  | nexus_gk | Nairobi Kenya  | 18089 |
 | 18 | [mikeyhodl](https://github.com/mikeyhodl) | mikey | @WeKnow-io @gadgetsmagke @weknow-finance @amdefiguy | mikeyhodl | Kenya | 18025 |
 | 19 | [erickwasambo](https://github.com/erickwasambo) | Erick Wasambo |  |  | Nairobi, Kenya | 17892 |
 | 20 | [salvatoluis](https://github.com/salvatoluis) | Salvato | Webmasters (K) Ltd |  | Nairobi, Kenya | 16113 |

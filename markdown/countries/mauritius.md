@@ -17,7 +17,7 @@ Indexed users: 714
 | 3 | [borissedov](https://github.com/borissedov) | Boris Sedov | Tamarin, Mauritius | 7,453 |
 | 4 | [andrashejj](https://github.com/andrashejj) | Andras Hejj | Mauritius | 6,860 |
 | 5 | [wyxos](https://github.com/wyxos) | Wyxos | Mauritius | 6,725 |
-| 6 | [cedpoilly](https://github.com/cedpoilly) | Cedric | Mauritius | 6,613 |
+| 6 | [cedpoilly](https://github.com/cedpoilly) | Cedric | Mauritius | 6,582 |
 | 7 | [w1am](https://github.com/w1am) | William Chong | Mauritius | 6,565 |
 | 8 | [Emmastro](https://github.com/Emmastro) | Emmanuel Bauma Murairi | Mauritius | 5,785 |
 | 9 | [MrSunshyne](https://github.com/MrSunshyne) | Sandeep Ramgolam | Mauritius | 5,536 |
@@ -56,7 +56,7 @@ Indexed users: 714
 | 17 | [lakubuDavid](https://github.com/lakubuDavid) | Lakubu Mayanda David | Mauritius | 614 |
 | 18 | [MaskyS](https://github.com/MaskyS) | Kifah M | Mauritius | 603 |
 | 19 | [ZiadJ](https://github.com/ZiadJ) | Ziad Jeeroburkhan | Mauritius | 573 |
-| 20 | [VishSeen](https://github.com/VishSeen) | Vishroy Seenarain | Port Louis, Mauritius | 531 |
+| 20 | [VishSeen](https://github.com/VishSeen) | Vishroy Seenarain | Port Louis, Mauritius | 537 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 714
 | 19 | [MaskyS](https://github.com/MaskyS) | Kifah M | Mauritius | 75 |
 | 20 | [cbillowes](https://github.com/cbillowes) | Clarice Bouwer | Mauritius | 65 |
 
-Generated: 2026-10-18T12:25:34.765Z
+Generated: 2026-10-18T13:46:12.296Z

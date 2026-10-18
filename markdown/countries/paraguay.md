@@ -26,7 +26,7 @@ Indexed users: 2,014
 | 12 | [vVladyslaVv](https://github.com/vVladyslaVv) | Vladyslav Yeroma | Asuncion | 7,150 |
 | 13 | [dev-cardenas](https://github.com/dev-cardenas) | Fernando Salinas Cardenas | Paraguay | 7,008 |
 | 14 | [kiquetal](https://github.com/kiquetal) | Enrique\m/Talavera | Paraguay | 6,752 |
-| 15 | [MHHukiewitz](https://github.com/MHHukiewitz) | Mike Hukiewitz | Paraguay, Cordillera | 6,583 |
+| 15 | [MHHukiewitz](https://github.com/MHHukiewitz) | Mike Hukiewitz | Paraguay, Cordillera | 6,711 |
 | 16 | [davicyyo](https://github.com/davicyyo) | DaViCyYo | Paraguay | 5,811 |
 | 17 | [everdaniel](https://github.com/everdaniel) | Ever Daniel Barreto | Asunción, Paraguay | 5,581 |
 | 18 | [yoryer](https://github.com/yoryer) | Jorge Noguera | Paraguay | 5,465 |
@@ -76,11 +76,11 @@ Indexed users: 2,014
 | 12 | [garyservin](https://github.com/garyservin) | Gary Servin | Asunción - Paraguay | 154 |
 | 13 | [pablo](https://github.com/pablo) | Pablo Santa Cruz | Asunción, Paraguay | 151 |
 | 14 | [WilliBobadilla](https://github.com/WilliBobadilla) | Williams Ismael Bobadilla Torres  | Paraguay | 136 |
-| 15 | [ramirezsebas](https://github.com/ramirezsebas) | Matias Sebastian Ramirez Brizuela | Fernando de la Mora, Central, Paraguay | 128 |
+| 15 | [ramirezsebas](https://github.com/ramirezsebas) | Matias Sebastian Ramirez Brizuela | Fernando de la Mora, Central, Paraguay | 129 |
 | 16 | [cardozoaldama](https://github.com/cardozoaldama) | Fernando Cardozo | Paraguay | 125 |
 | 17 | [ivankoop](https://github.com/ivankoop) | Ivan Koop  | Asunción, Paraguay | 116 |
 | 18 | [leodufer](https://github.com/leodufer) | Oscar Duarte | Ciudad del Este,  Paraguay | 116 |
 | 19 | [metakeule](https://github.com/metakeule) | metakeule | Asunción / Paraguay | 109 |
 | 20 | [replay](https://github.com/replay) | Mauro Stettler | Asuncion, Paraguay | 105 |
 
-Generated: 2026-10-18T12:34:09.381Z
+Generated: 2026-10-18T13:55:30.761Z

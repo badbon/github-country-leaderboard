@@ -21,14 +21,14 @@ Indexed users: 1,395
 | 7 | [slzno](https://github.com/slzno) | Luis Solorzano | León, Nicaragua | 6,050 |
 | 8 | [josetorres1](https://github.com/josetorres1) | José Torres | Managua, Nicaragua | 5,686 |
 | 9 | [alfchee](https://github.com/alfchee) | Alfchee | Nicaragua | 5,367 |
-| 10 | [Xch4rt](https://github.com/Xch4rt) | Pablo Gutiérrez | Managua, Nicaragua | 4,501 |
-| 11 | [marcosmamg](https://github.com/marcosmamg) | Marcos Moreno | NIcaragua | 4,498 |
+| 10 | [marcosmamg](https://github.com/marcosmamg) | Marcos Moreno | NIcaragua | 4,618 |
+| 11 | [Xch4rt](https://github.com/Xch4rt) | Pablo Gutiérrez | Managua, Nicaragua | 4,501 |
 | 12 | [edycarreyes99](https://github.com/edycarreyes99) | Edycar Reyes | Nicaragua | 4,437 |
 | 13 | [degomon](https://github.com/degomon) | Denis González | Nicaragua | 4,207 |
 | 14 | [victorstein](https://github.com/victorstein) | Alfonso Emilio Gomez Selva | Nicaragua | 4,142 |
 | 15 | [ElVatoEste](https://github.com/ElVatoEste) | VatoDev | Nicaragua | 3,996 |
 | 16 | [fabmnt](https://github.com/fabmnt) | Fabián Montoya | Nicaragua | 3,759 |
-| 17 | [ernestoruiz89](https://github.com/ernestoruiz89) | Ernesto Ruiz | Nicaragua | 3,655 |
+| 17 | [ernestoruiz89](https://github.com/ernestoruiz89) | Ernesto Ruiz | Nicaragua | 3,723 |
 | 18 | [edgewl2](https://github.com/edgewl2) | Gerardo Hernández | León, Nicaragua | 3,555 |
 | 19 | [paulomcnally](https://github.com/paulomcnally) | Paulo McNally | Mangua, Nicaragua | 3,536 |
 | 20 | [Steven-Mendez](https://github.com/Steven-Mendez) | Steven Mendez | Managua, Nicaragua | 3,423 |
@@ -51,7 +51,7 @@ Indexed users: 1,395
 | 12 | [victorstein](https://github.com/victorstein) | Alfonso Emilio Gomez Selva | Nicaragua | 1,127 |
 | 13 | [fn-cafeina](https://github.com/fn-cafeina) | Jasmir Medina | Nicaragua | 1,087 |
 | 14 | [staFF6773](https://github.com/staFF6773) | Not_staff | República de Nicaragua | 1,070 |
-| 15 | [ernestoruiz89](https://github.com/ernestoruiz89) | Ernesto Ruiz | Nicaragua | 967 |
+| 15 | [ernestoruiz89](https://github.com/ernestoruiz89) | Ernesto Ruiz | Nicaragua | 1,016 |
 | 16 | [TheSteelNinjaCode](https://github.com/TheSteelNinjaCode) | Jefferson Abraham Omier | Nicaragua | 955 |
 | 17 | [Gaboxqc](https://github.com/Gaboxqc) | Gabriel Mayorga | Managua | 917 |
 | 18 | [fabmnt](https://github.com/fabmnt) | Fabián Montoya | Nicaragua | 896 |
@@ -83,4 +83,4 @@ Indexed users: 1,395
 | 19 | [luismejiadev](https://github.com/luismejiadev) | Luis Mejia | Managua, Nicaragua | 68 |
 | 20 | [dannygaray60](https://github.com/dannygaray60) | Danny Garay | Nicaragua | 61 |
 
-Generated: 2026-10-18T12:30:49.700Z
+Generated: 2026-10-18T13:50:05.903Z

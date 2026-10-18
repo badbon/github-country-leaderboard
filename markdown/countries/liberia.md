@@ -56,14 +56,14 @@ Indexed users: 210
 | 17 | [stenson](https://github.com/stenson) | Rob Stenson | Monrovia, CA | 156 |
 | 18 | [brimaabrahamfuller-blip](https://github.com/brimaabrahamfuller-blip) | Brima Abraham Fuller | Rwanda, Liberia. | 144 |
 | 19 | [boakaidorborkamara](https://github.com/boakaidorborkamara) | Boakai Dorbor Kamara | West Africa, Liberia | 134 |
-| 20 | [Rolandzogbay](https://github.com/Rolandzogbay) | Roland Zogbay | Paynesville City, Monrovia Liberia | 130 |
+| 20 | [armandosolisvillegas-max](https://github.com/armandosolisvillegas-max) | Armando José Solís Villegas | Liberia | 129 |
 
 ## Followers
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [mdsomah](https://github.com/mdsomah) | Mesheal D. Somah Sr. | Monrovia, Liberia | 307 |
-| 2 | [BugHunter-SN](https://github.com/BugHunter-SN) | Samuel E. H. Nimely |  Monrovia Liberia. West Africa | 170 |
+| 2 | [BugHunter-SN](https://github.com/BugHunter-SN) | Samuel E. H. Nimely |  Monrovia Liberia. West Africa | 171 |
 | 3 | [1989shack](https://github.com/1989shack) | Martin M Sheriff | Monrovia, Liberia | 154 |
 | 4 | [Massaquoi716](https://github.com/Massaquoi716) | Massaquoi L Dehmie | Liberia | 151 |
 | 5 | [stenson](https://github.com/stenson) | Rob Stenson | Monrovia, CA | 129 |
@@ -83,4 +83,4 @@ Indexed users: 210
 | 19 | [boaslah](https://github.com/boaslah) | Blessing Boaslah | Montserrado County, Liberia  | 21 |
 | 20 | [ejaygbay](https://github.com/ejaygbay) | Emmanuel Jaygbay | Liberia | 21 |
 
-Generated: 2026-10-18T12:21:25.536Z
+Generated: 2026-10-18T13:38:48.712Z

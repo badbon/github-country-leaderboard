@@ -47,7 +47,7 @@ Indexed users: 176
 | 8 | [debugAyo](https://github.com/debugAyo) | Ayomide Olajide | Niger | 263 |
 | 9 | [hmandela](https://github.com/hmandela) | Mandela HOUNGNIBO | Niamey, NIGER | 229 |
 | 10 | [Kounou25](https://github.com/Kounou25) | Kounou Gilbert | Niamey,Niger | 205 |
-| 11 | [AbdelkaderYS](https://github.com/AbdelkaderYS) | Abdel Kader Younoussi Saley | Niamey | 195 |
+| 11 | [AbdelkaderYS](https://github.com/AbdelkaderYS) | Abdel Kader Younoussi Saley | Niamey | 194 |
 | 12 | [feyroozecode](https://github.com/feyroozecode) | Ibrahim Ahmad (feyroozecode) | Niger | 160 |
 | 13 | [Carbouba](https://github.com/Carbouba) | BOUBACAR MAMANE SANI CHEFFOU | Niamey-Niger | 138 |
 | 14 | [abbuss11](https://github.com/abbuss11) | ABBA | Niamey, Niger | 113 |
@@ -56,7 +56,7 @@ Indexed users: 176
 | 17 | [F3T1W](https://github.com/F3T1W) | Vlad Matiushin | Zinder, Niger | 97 |
 | 18 | [Imrana-Moustapha](https://github.com/Imrana-Moustapha) | Imrana Moustapha | Niamey-Niger | 97 |
 | 19 | [youss-uiux](https://github.com/youss-uiux) | Aboubacar Youssif | Niamey Niger | 95 |
-| 20 | [Chaibouu](https://github.com/Chaibouu) | Chaibouu | Niger | 93 |
+| 20 | [Chaibouu](https://github.com/Chaibouu) | Chaibouu | Niger | 94 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 176
 | 19 | [ibkhall](https://github.com/ibkhall) | Ibrahim Boubacar | Niamey | 17 |
 | 20 | [ibrahimcheik](https://github.com/ibrahimcheik) | Amadou Moussa Ibrahim | Niamey | 17 |
 
-Generated: 2026-10-18T12:30:52.631Z
+Generated: 2026-10-18T13:50:44.304Z

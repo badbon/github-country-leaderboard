@@ -31,7 +31,7 @@ Indexed users: 1,356
 | 17 | [lamine-f](https://github.com/lamine-f) | Mouhamed Lamine Faye | Sénégal - Dakar | 4,525 |
 | 18 | [madicke12](https://github.com/madicke12) | Madicke Cisse | Dakar | 4,409 |
 | 19 | [Zoubeir23](https://github.com/Zoubeir23) | ZOUBEIR IBRAHIMA | Sénegale, Dakar | 4,387 |
-| 20 | [eliusxpol](https://github.com/eliusxpol) | Elhadji Ibrahima Ndiaye | Senegal | 4,300 |
+| 20 | [lonie12](https://github.com/lonie12) | Yxie | Dakar, Senegal | 4,378 |
 
 ## Public Contributions
 
@@ -44,7 +44,7 @@ Indexed users: 1,356
 | 5 | [Anna-007-tech](https://github.com/Anna-007-tech) | Anne Marie Seye | Dakar, Sénégal | 2,508 |
 | 6 | [thesenegalesehitch](https://github.com/thesenegalesehitch) | Alexandre Albert Ndour | Rufisque, Dakar, Sénégal | 1,902 |
 | 7 | [IbrahimaTall](https://github.com/IbrahimaTall) | Ibrahima TALL | Dakar, Senegal | 1,787 |
-| 8 | [unic-backend](https://github.com/unic-backend) | Ousmane | dakar senegal | 1,760 |
+| 8 | [unic-backend](https://github.com/unic-backend) | Ousmane | dakar senegal | 1,778 |
 | 9 | [FadelDia](https://github.com/FadelDia) | Fallou Dia | SENEGAL | 1,671 |
 | 10 | [crybaby050](https://github.com/crybaby050) | Seydina | Senegal | 1,651 |
 | 11 | [Libs9977](https://github.com/Libs9977) | Libasse Mbaye | Dakar,Senegal | 1,599 |
@@ -83,4 +83,4 @@ Indexed users: 1,356
 | 19 | [ngorseck](https://github.com/ngorseck) | Ngor SECK | Dakar - Sénégal | 142 |
 | 20 | [patheGobel](https://github.com/patheGobel) | Pathé BA | Senegal  | 141 |
 
-Generated: 2026-10-18T12:40:07.244Z
+Generated: 2026-10-18T14:02:39.554Z

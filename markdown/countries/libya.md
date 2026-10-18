@@ -12,13 +12,13 @@ Indexed users: 741
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [Abdlrrahman](https://github.com/Abdlrrahman) | Abdlrrahman Shibani | Tripoli, Libya | 165,845 |
+| 1 | [Abdlrrahman](https://github.com/Abdlrrahman) | Abdlrrahman Shibani | Tripoli, Libya | 165,746 |
 | 2 | [mohn93](https://github.com/mohn93) | Mohaned Benmesken | Libya | 14,483 |
-| 3 | [ZeroGDrive](https://github.com/ZeroGDrive) | Ayoub Alfurjani | Libya | 13,426 |
-| 4 | [Arjeeah](https://github.com/Arjeeah) | Arjeeah | Libya  | 12,663 |
-| 5 | [salemaljebaly](https://github.com/salemaljebaly) | Salem Aljebaly | Libya | 12,609 |
-| 6 | [ayagaidi](https://github.com/ayagaidi) | Yaya |  Tripoli, Libya  | 9,577 |
-| 7 | [Sokanon](https://github.com/Sokanon) | So | Libya | 9,467 |
+| 3 | [ZeroGDrive](https://github.com/ZeroGDrive) | Ayoub Alfurjani | Libya | 13,907 |
+| 4 | [salemaljebaly](https://github.com/salemaljebaly) | Salem Aljebaly | Libya | 12,679 |
+| 5 | [Arjeeah](https://github.com/Arjeeah) | Arjeeah | Libya  | 12,663 |
+| 6 | [Sokanon](https://github.com/Sokanon) | So | Libya | 9,889 |
+| 7 | [ayagaidi](https://github.com/ayagaidi) | Yaya |  Tripoli, Libya  | 9,577 |
 | 8 | [Tellesy](https://github.com/Tellesy) | blueMu | Tripoli, Libya | 9,193 |
 | 9 | [radwan-77](https://github.com/radwan-77) | RADWAN | Libya | 8,342 |
 | 10 | [GaafarBBK](https://github.com/GaafarBBK) | Mohamed Gaafar | Libya | 7,824 |
@@ -37,7 +37,7 @@ Indexed users: 741
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [Abdlrrahman](https://github.com/Abdlrrahman) | Abdlrrahman Shibani | Tripoli, Libya | 165,000 |
+| 1 | [Abdlrrahman](https://github.com/Abdlrrahman) | Abdlrrahman Shibani | Tripoli, Libya | 164,930 |
 | 2 | [mohn93](https://github.com/mohn93) | Mohaned Benmesken | Libya | 3,475 |
 | 3 | [OthmanHaba](https://github.com/OthmanHaba) |  Othman Haba  (ง'̀-'́)ง     | Tripoli Libya | 1,260 |
 | 4 | [Uldy-USDBOT](https://github.com/Uldy-USDBOT) | ULDY | Libya | 1,088 |
@@ -83,4 +83,4 @@ Indexed users: 741
 | 19 | [ZizouHuweidi](https://github.com/ZizouHuweidi) | El Zubeir Huweidi | Benghazi, Libya | 51 |
 | 20 | [Islam-alshiki](https://github.com/Islam-alshiki) | Islam alshiki | Benghazi, Libya | 49 |
 
-Generated: 2026-10-18T12:21:56.026Z
+Generated: 2026-10-18T13:39:27.939Z

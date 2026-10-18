@@ -1,6 +1,6 @@
 # Followers - New Caledonia
 
-Generated: 2026-10-18T12:29:24.543Z
+Generated: 2026-10-18T13:49:55.233Z
 
 Users: 111
 
@@ -8,7 +8,7 @@ Users: 111
 |---:|---|---|---|---|---|---:|
 | 1 | [AkiraLaine](https://github.com/AkiraLaine) | Akira Laine |  |  | Noumea, New Caledonia | 263 |
 | 2 | [ellisp](https://github.com/ellisp) | Peter Ellis | Pacific Community \| Communauté de Pacifique |  | Nouméa, Nouvelle-Calédonie | 235 |
-| 3 | [adriens](https://github.com/adriens) | SALES | OPT-NC | rastadidi | Nouméa, New-Caledonia | 77 |
+| 3 | [adriens](https://github.com/adriens) | SALES | OPT-NC | rastadidi | Nouméa, New-Caledonia | 78 |
 | 4 | [loxK](https://github.com/loxK) | Laurent Dinclaux | Gecka |  | New Caledonia | 57 |
 | 5 | [gvdr](https://github.com/gvdr) | Giulio Valentino Dalla Riva | Pacific Community \| Communauté du Pacifique |  | Noumea, New Caledonia | 56 |
 | 6 | [darwiin](https://github.com/darwiin) | Christophe ROGER |  |  | New Caledonia | 43 |

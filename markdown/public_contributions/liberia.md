@@ -1,6 +1,6 @@
 # Public Contributions - Liberia
 
-Generated: 2026-10-18T12:21:25.536Z
+Generated: 2026-10-18T13:38:48.712Z
 
 Users: 210
 
@@ -25,4 +25,4 @@ Users: 210
 | 17 | [stenson](https://github.com/stenson) | Rob Stenson | @goodhertz  | robstenson | Monrovia, CA | 156 |
 | 18 | [brimaabrahamfuller-blip](https://github.com/brimaabrahamfuller-blip) | Brima Abraham Fuller | NextGents Tech Inc. |  | Rwanda, Liberia. | 144 |
 | 19 | [boakaidorborkamara](https://github.com/boakaidorborkamara) | Boakai Dorbor Kamara | Sogital Lab | bdk_codes | West Africa, Liberia | 134 |
-| 20 | [Rolandzogbay](https://github.com/Rolandzogbay) | Roland Zogbay |  |  | Paynesville City, Monrovia Liberia | 130 |
+| 20 | [armandosolisvillegas-max](https://github.com/armandosolisvillegas-max) | Armando José Solís Villegas |  |  | Liberia | 129 |

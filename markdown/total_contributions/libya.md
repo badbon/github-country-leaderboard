@@ -1,18 +1,18 @@
 # Total Contributions - Libya
 
-Generated: 2026-10-18T12:21:56.026Z
+Generated: 2026-10-18T13:39:27.939Z
 
 Users: 741
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [Abdlrrahman](https://github.com/Abdlrrahman) | Abdlrrahman Shibani | ReBootKamp |  | Tripoli, Libya | 165845 |
+| 1 | [Abdlrrahman](https://github.com/Abdlrrahman) | Abdlrrahman Shibani | ReBootKamp |  | Tripoli, Libya | 165746 |
 | 2 | [mohn93](https://github.com/mohn93) | Mohaned Benmesken | Libyan Spider |  | Libya | 14483 |
-| 3 | [ZeroGDrive](https://github.com/ZeroGDrive) | Ayoub Alfurjani |  |  | Libya | 13426 |
-| 4 | [Arjeeah](https://github.com/Arjeeah) | Arjeeah | @Artisans-Digital-Agency , @ditsly |  | Libya  | 12663 |
-| 5 | [salemaljebaly](https://github.com/salemaljebaly) | Salem Aljebaly |  |  | Libya | 12609 |
-| 6 | [ayagaidi](https://github.com/ayagaidi) | Yaya |  |  |  Tripoli, Libya  | 9577 |
-| 7 | [Sokanon](https://github.com/Sokanon) | So | @beyondtheinnovation  | Sokanon_ | Libya | 9467 |
+| 3 | [ZeroGDrive](https://github.com/ZeroGDrive) | Ayoub Alfurjani |  |  | Libya | 13907 |
+| 4 | [salemaljebaly](https://github.com/salemaljebaly) | Salem Aljebaly |  |  | Libya | 12679 |
+| 5 | [Arjeeah](https://github.com/Arjeeah) | Arjeeah | @Artisans-Digital-Agency , @ditsly |  | Libya  | 12663 |
+| 6 | [Sokanon](https://github.com/Sokanon) | So | @beyondtheinnovation  | Sokanon_ | Libya | 9889 |
+| 7 | [ayagaidi](https://github.com/ayagaidi) | Yaya |  |  |  Tripoli, Libya  | 9577 |
 | 8 | [Tellesy](https://github.com/Tellesy) | blueMu | @neptune-ly  |  | Tripoli, Libya | 9193 |
 | 9 | [radwan-77](https://github.com/radwan-77) | RADWAN |  |  | Libya | 8342 |
 | 10 | [GaafarBBK](https://github.com/GaafarBBK) | Mohamed Gaafar |  |  | Libya | 7824 |

@@ -1,6 +1,6 @@
 # Public Contributions - Nicaragua
 
-Generated: 2026-10-18T12:30:49.700Z
+Generated: 2026-10-18T13:50:05.903Z
 
 Users: 1395
 
@@ -20,7 +20,7 @@ Users: 1395
 | 12 | [victorstein](https://github.com/victorstein) | Alfonso Emilio Gomez Selva | CleverTech |  | Nicaragua | 1127 |
 | 13 | [fn-cafeina](https://github.com/fn-cafeina) | Jasmir Medina |  |  | Nicaragua | 1087 |
 | 14 | [staFF6773](https://github.com/staFF6773) | Not_staff |  |  | República de Nicaragua | 1070 |
-| 15 | [ernestoruiz89](https://github.com/ernestoruiz89) | Ernesto Ruiz |  | ernestoruiz89 | Nicaragua | 967 |
+| 15 | [ernestoruiz89](https://github.com/ernestoruiz89) | Ernesto Ruiz |  | ernestoruiz89 | Nicaragua | 1016 |
 | 16 | [TheSteelNinjaCode](https://github.com/TheSteelNinjaCode) | Jefferson Abraham Omier | The Steel Ninja Code |  | Nicaragua | 955 |
 | 17 | [Gaboxqc](https://github.com/Gaboxqc) | Gabriel Mayorga | MortaCorp |  | Managua | 917 |
 | 18 | [fabmnt](https://github.com/fabmnt) | Fabián Montoya | Dentalrobot | fabmnt_ | Nicaragua | 896 |

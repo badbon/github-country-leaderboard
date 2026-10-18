@@ -47,7 +47,7 @@ Indexed users: 10,661
 | 8 | [ydnikolaev](https://github.com/ydnikolaev) | Nikolaev | Belgrade, Serbia | 4,998 |
 | 9 | [atimad](https://github.com/atimad) | Atila Madai | Serbia | 4,933 |
 | 10 | [momoshell](https://github.com/momoshell) | Momcilo Miladinovic | Belgrade | 4,818 |
-| 11 | [fiftydinar](https://github.com/fiftydinar) |  | Serbia | 4,283 |
+| 11 | [fiftydinar](https://github.com/fiftydinar) |  | Serbia | 4,221 |
 | 12 | [svasenkov](https://github.com/svasenkov) | Vasenkov Stanislav | Serbia, Belgrade | 3,936 |
 | 13 | [iscekic](https://github.com/iscekic) | Igor Šćekić | Novi Sad, Serbia | 3,636 |
 | 14 | [nklmilojevic](https://github.com/nklmilojevic) | Nikola Milojević | Belgrade, Serbia | 3,610 |
@@ -83,4 +83,4 @@ Indexed users: 10,661
 | 19 | [umpirsky](https://github.com/umpirsky) | Saša Stamenković | Niš, Serbia | 458 |
 | 20 | [Stojanovic94](https://github.com/Stojanovic94) | Nikola Stojanović | Niš, Serbia | 435 |
 
-Generated: 2026-10-18T12:40:10.575Z
+Generated: 2026-10-18T14:03:15.211Z

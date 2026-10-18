@@ -30,8 +30,8 @@ Indexed users: 1,069
 | 16 | [dashboardtech](https://github.com/dashboardtech) | Frederick Roberts | Panama | 7,835 |
 | 17 | [cabe56](https://github.com/cabe56) | Jose Varela | Panama City, Panama | 7,495 |
 | 18 | [xtealer](https://github.com/xtealer) | Enrique Shunnar | Panama City, Panama | 7,288 |
-| 19 | [atebites-hub](https://github.com/atebites-hub) | atebites | Panama | 6,865 |
-| 20 | [bryanjtc](https://github.com/bryanjtc) | Bryan Thomas | Panama | 6,773 |
+| 19 | [bryanjtc](https://github.com/bryanjtc) | Bryan Thomas | Panama | 6,866 |
+| 20 | [atebites-hub](https://github.com/atebites-hub) | atebites | Panama | 6,865 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 1,069
 | 19 | [Commandtechno](https://github.com/Commandtechno) | Techno | David, Panama | 49 |
 | 20 | [Iardo](https://github.com/Iardo) | Ivan Ramos | Panama | 47 |
 
-Generated: 2026-10-18T12:33:37.881Z
+Generated: 2026-10-18T13:55:21.780Z

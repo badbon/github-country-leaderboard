@@ -1,6 +1,6 @@
 # Public Contributions - Laos
 
-Generated: 2026-10-18T12:20:38.457Z
+Generated: 2026-10-18T13:36:05.363Z
 
 Users: 360
 
@@ -21,8 +21,8 @@ Users: 360
 | 13 | [hiramoto](https://github.com/hiramoto) | 永田彰 (Akira NAGATA) | TOKYO | kazaimu_ | Vientiane, Lao P.D.R. | 157 |
 | 14 | [Dan16ssd](https://github.com/Dan16ssd) | Sinthanavanh Sinsamphanh | MakerBox |  | Vientiane, Laos | 136 |
 | 15 | [aoypsk8](https://github.com/aoypsk8) | AOY PHONGSAKOUN MR | IndochinaBank |  | Vientiane, Laos | 128 |
-| 16 | [Tedev555](https://github.com/Tedev555) | Thanongsine Chanthakham | http://tedory.me |  | Vientiane, Laos | 120 |
-| 17 | [med1213](https://github.com/med1213) | Med | APB Bank |  | Laos, Vientaince | 119 |
+| 16 | [med1213](https://github.com/med1213) | Med | APB Bank |  | Laos, Vientaince | 122 |
+| 17 | [Tedev555](https://github.com/Tedev555) | Thanongsine Chanthakham | http://tedory.me |  | Vientiane, Laos | 120 |
 | 18 | [Bird9249](https://github.com/Bird9249) | BirdKeonavong | hal tech |  | Laos, Vientiane | 116 |
 | 19 | [BigguyPapsi](https://github.com/BigguyPapsi) | ThanouPap |  |  | Vangvieng, Vientiane, Laos | 114 |
 | 20 | [Billion101](https://github.com/Billion101) | Billion101 |  |  | Laos | 112 |

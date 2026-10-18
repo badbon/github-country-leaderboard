@@ -1,6 +1,6 @@
 # Public Contributions - Serbia
 
-Generated: 2026-10-18T12:40:10.575Z
+Generated: 2026-10-18T14:03:15.211Z
 
 Users: 10661
 
@@ -16,7 +16,7 @@ Users: 10661
 | 8 | [ydnikolaev](https://github.com/ydnikolaev) | Nikolaev | @r22d222  |  | Belgrade, Serbia | 4998 |
 | 9 | [atimad](https://github.com/atimad) | Atila Madai |  |  | Serbia | 4933 |
 | 10 | [momoshell](https://github.com/momoshell) | Momcilo Miladinovic | IXNAY |  | Belgrade | 4818 |
-| 11 | [fiftydinar](https://github.com/fiftydinar) |  |  |  | Serbia | 4283 |
+| 11 | [fiftydinar](https://github.com/fiftydinar) |  |  |  | Serbia | 4221 |
 | 12 | [svasenkov](https://github.com/svasenkov) | Vasenkov Stanislav | @qa-guru @autotests-ai |  | Serbia, Belgrade | 3936 |
 | 13 | [iscekic](https://github.com/iscekic) | Igor Šćekić | Kilo Code | sceka_ | Novi Sad, Serbia | 3636 |
 | 14 | [nklmilojevic](https://github.com/nklmilojevic) | Nikola Milojević | MailerLite Inc | nklmilojevic | Belgrade, Serbia | 3610 |

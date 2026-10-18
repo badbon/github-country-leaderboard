@@ -1,6 +1,6 @@
 # Total Contributions - Senegal
 
-Generated: 2026-10-18T12:40:07.244Z
+Generated: 2026-10-18T14:02:39.554Z
 
 Users: 1356
 
@@ -25,4 +25,4 @@ Users: 1356
 | 17 | [lamine-f](https://github.com/lamine-f) | Mouhamed Lamine Faye | Ecole Supérieure Polytechnique |  | Sénégal - Dakar | 4525 |
 | 18 | [madicke12](https://github.com/madicke12) | Madicke Cisse | Ridwan Technologie |  | Dakar | 4409 |
 | 19 | [Zoubeir23](https://github.com/Zoubeir23) | ZOUBEIR IBRAHIMA | ISI |  | Sénegale, Dakar | 4387 |
-| 20 | [eliusxpol](https://github.com/eliusxpol) | Elhadji Ibrahima Ndiaye | @efficity | eliusx | Senegal | 4300 |
+| 20 | [lonie12](https://github.com/lonie12) | Yxie |  | lonie73919967 | Dakar, Senegal | 4378 |

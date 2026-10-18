@@ -1,6 +1,6 @@
 # Total Contributions - Paraguay
 
-Generated: 2026-10-18T12:34:09.381Z
+Generated: 2026-10-18T13:55:30.761Z
 
 Users: 2014
 
@@ -20,7 +20,7 @@ Users: 2014
 | 12 | [vVladyslaVv](https://github.com/vVladyslaVv) | Vladyslav Yeroma | Newly Booked |  | Asuncion | 7150 |
 | 13 | [dev-cardenas](https://github.com/dev-cardenas) | Fernando Salinas Cardenas |  |  | Paraguay | 7008 |
 | 14 | [kiquetal](https://github.com/kiquetal) | Enrique\m/Talavera | <) |  | Paraguay | 6752 |
-| 15 | [MHHukiewitz](https://github.com/MHHukiewitz) | Mike Hukiewitz | YourTrading.ai GbR |  | Paraguay, Cordillera | 6583 |
+| 15 | [MHHukiewitz](https://github.com/MHHukiewitz) | Mike Hukiewitz | YourTrading.ai GbR |  | Paraguay, Cordillera | 6711 |
 | 16 | [davicyyo](https://github.com/davicyyo) | DaViCyYo | HeadArrow | davicyyoYT | Paraguay | 5811 |
 | 17 | [everdaniel](https://github.com/everdaniel) | Ever Daniel Barreto | Borealis |  | Asunción, Paraguay | 5581 |
 | 18 | [yoryer](https://github.com/yoryer) | Jorge Noguera |  | yoryer | Paraguay | 5465 |

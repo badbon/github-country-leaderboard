@@ -1,8 +1,8 @@
 # Followers - Kenya
 
-Generated: 2026-10-18T12:19:34.611Z
+Generated: 2026-10-18T13:35:56.402Z
 
-Users: 24019
+Users: 24018
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -20,9 +20,9 @@ Users: 24019
 | 12 | [Mathenge-Alex](https://github.com/Mathenge-Alex) | Alex M |  |  | Nairobi, Kenya | 1763 |
 | 13 | [iVGeek](https://github.com/iVGeek) | iVGeek | W∆K∆ND∆ |  | Kenya | 1739 |
 | 14 | [fbiego](https://github.com/fbiego) | Felix Biego | LVGL kft @lvgl | fbiego_ | Kenya | 1604 |
-| 15 | [Dark-Xploit](https://github.com/Dark-Xploit) | Tylor |  |  | Kenya | 1503 |
-| 16 | [Bd-Mutant7](https://github.com/Bd-Mutant7) | 7 |  | BdMutant | Nairobi, Kenya | 1447 |
-| 17 | [mbitujames](https://github.com/mbitujames) | Mbitu |  | mbituke | Nairobi, Kenya | 1442 |
-| 18 | [jumaallan](https://github.com/jumaallan) | Juma Allan | @smileidentity | _jumaallan | Nairobi Kenya | 1431 |
-| 19 | [Mulandii](https://github.com/Mulandii) | Ace. | Ace |  | Nairobi,Kenya | 1322 |
-| 20 | [Lincoln-Madaraka](https://github.com/Lincoln-Madaraka) | lincoln | Open to opportunities | syntaxrtx | Nairobi and Worldwide  | 1320 |
+| 15 | [Dark-Xploit](https://github.com/Dark-Xploit) | Tylor |  |  | Kenya | 1543 |
+| 16 | [mbitujames](https://github.com/mbitujames) | Mbitu |  | mbituke | Nairobi, Kenya | 1442 |
+| 17 | [jumaallan](https://github.com/jumaallan) | Juma Allan | @smileidentity | _jumaallan | Nairobi Kenya | 1431 |
+| 18 | [Mulandii](https://github.com/Mulandii) | Ace. | Ace |  | Nairobi,Kenya | 1322 |
+| 19 | [Lincoln-Madaraka](https://github.com/Lincoln-Madaraka) | lincoln | Open to opportunities | syntaxrtx | Nairobi and Worldwide  | 1320 |
+| 20 | [danielmuthama](https://github.com/danielmuthama) | Daniel Muthama | @moringaschool \| @andela \| @Holberton \| @Dasom-Technologies-Inc. \| @Udacity \| @Aws \| @Cisco \| @Microsoft \| @Huawei |  | Nairobi, Kenya | 1289 |
