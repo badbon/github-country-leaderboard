@@ -2648,7 +2648,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2024-04-29T21:04:02Z"
   },
   {
@@ -2684,7 +2684,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 4,
-    "publicContributions": 22,
+    "publicContributions": 23,
     "createdAt": "2024-04-24T09:27:37Z"
   },
   {
@@ -2743,7 +2743,7 @@
     "company": "@Digital-Revolution-Cuba ",
     "twitterUsername": "superionix",
     "followers": 24,
-    "privateContributions": 258,
+    "privateContributions": 247,
     "publicContributions": 544,
     "createdAt": "2024-04-09T09:08:47Z"
   },
@@ -2826,9 +2826,9 @@
     "location": "Ciudad de Manzanillo, Cuba",
     "company": "@Microsoft",
     "twitterUsername": "LuisGuisado1990",
-    "followers": 133,
-    "privateContributions": 247,
-    "publicContributions": 1168,
+    "followers": 134,
+    "privateContributions": 306,
+    "publicContributions": 1182,
     "createdAt": "2023-04-13T14:29:03Z"
   },
   {
@@ -2838,8 +2838,8 @@
     "location": "Cuba",
     "company": "",
     "twitterUsername": "",
-    "followers": 104,
-    "privateContributions": 428,
+    "followers": 111,
+    "privateContributions": 423,
     "publicContributions": 44,
     "createdAt": "2023-03-01T22:30:07Z"
   },
@@ -2862,9 +2862,9 @@
     "location": "Holguín, Cuba",
     "company": "",
     "twitterUsername": "",
-    "followers": 94,
-    "privateContributions": 2212,
-    "publicContributions": 244,
+    "followers": 95,
+    "privateContributions": 2214,
+    "publicContributions": 229,
     "createdAt": "2023-10-18T16:00:12Z"
   },
   {
@@ -2876,7 +2876,7 @@
     "twitterUsername": "",
     "followers": 75,
     "privateContributions": 0,
-    "publicContributions": 526,
+    "publicContributions": 549,
     "createdAt": "2023-09-05T01:12:54Z"
   },
   {

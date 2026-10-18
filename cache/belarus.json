@@ -33487,7 +33487,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 5,
+    "privateContributions": 0,
     "publicContributions": 72,
     "createdAt": "2021-12-02T12:07:19Z"
   },
@@ -33500,7 +33500,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 66,
+    "publicContributions": 71,
     "createdAt": "2021-02-11T20:57:34Z"
   },
   {
@@ -33514,18 +33514,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-10-04T14:42:02Z"
-  },
-  {
-    "login": "artyom-borodin",
-    "name": "Artyom Borodin",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/80592924?s=72&u=62d43fe8fb6e52630308d486032a9cfa21b3054a&v=4",
-    "location": "Minsk, Belarus",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 102,
-    "publicContributions": 68,
-    "createdAt": "2021-03-13T16:28:51Z"
   },
   {
     "login": "yhinevich",
@@ -33639,12 +33627,12 @@
     "login": "Majddj",
     "name": "Maksim Korunets",
     "avatarUrl": "https://avatars.githubusercontent.com/u/95242903?s=72&v=4",
-    "location": "Belarus",
+    "location": "Belarus, Minsk",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 5,
     "createdAt": "2021-11-29T17:38:52Z"
   },
   {

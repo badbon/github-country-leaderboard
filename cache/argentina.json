@@ -33020,7 +33020,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 33,
+    "publicContributions": 34,
     "createdAt": "2024-06-02T19:22:28Z"
   },
   {
@@ -33031,32 +33031,32 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 14,
-    "publicContributions": 79,
+    "privateContributions": 8,
+    "publicContributions": 65,
     "createdAt": "2024-04-03T14:04:40Z"
   },
   {
     "login": "gonzalolima004",
     "name": "Gonzalo Lima",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/173932965?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/173932965?s=72&u=38229f9b5997615083dc3203aa6173afd2de758c&v=4",
     "location": "Entre Ríos, Argentina",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 628,
-    "publicContributions": 24,
+    "followers": 4,
+    "privateContributions": 703,
+    "publicContributions": 146,
     "createdAt": "2024-06-26T15:05:08Z"
   },
   {
     "login": "Sheivol",
     "name": "Juana Rojas",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/166309153?s=72&u=4c6131eda50e2493f6b2fa2a1c85812241a4064e&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/166309153?s=72&u=3279d4d66e505736ce1871e911f7e844ad94eb9d&v=4",
     "location": "Buenos Aires/Argentina",
     "company": "",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2024-04-07T13:52:13Z"
   },
   {
@@ -33066,21 +33066,21 @@
     "location": "Argentina, CABA",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 573,
+    "publicContributions": 629,
     "createdAt": "2024-04-03T13:15:47Z"
   },
   {
     "login": "Matthewcin",
-    "name": "Matthew Becker",
+    "name": "Mateo",
     "avatarUrl": "https://avatars.githubusercontent.com/u/173618617?s=72&u=b6a0f0358a29cebfe3e265e3e82c4be282ab082c&v=4",
     "location": "Argentina",
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 735,
-    "publicContributions": 365,
+    "privateContributions": 992,
+    "publicContributions": 291,
     "createdAt": "2024-06-23T14:42:43Z"
   },
   {
@@ -33091,21 +33091,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 37,
+    "privateContributions": 49,
     "publicContributions": 21,
     "createdAt": "2024-05-27T04:31:25Z"
-  },
-  {
-    "login": "uri157",
-    "name": "Paul Uriel",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/168551470?s=72&u=f8c69577a31d38a762dacf04eab533568f30bf2a&v=4",
-    "location": "Libertador San Martín, Entre Ríos, Argentina",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 2687,
-    "publicContributions": 164,
-    "createdAt": "2024-04-30T12:50:38Z"
   },
   {
     "login": "jciasenza",
@@ -33116,7 +33104,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 61,
+    "publicContributions": 76,
     "createdAt": "2024-04-05T17:22:48Z"
   },
   {
@@ -33138,7 +33126,7 @@
     "location": "Argentina",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-05-08T14:50:35Z"
@@ -33164,7 +33152,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 68,
+    "publicContributions": 83,
     "createdAt": "2024-05-11T14:10:42Z"
   },
   {
@@ -33188,7 +33176,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 40,
     "createdAt": "2024-05-24T22:48:03Z"
   },
   {
@@ -33200,19 +33188,19 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 184,
+    "publicContributions": 175,
     "createdAt": "2024-04-07T19:29:27Z"
   },
   {
     "login": "Tatumerlino",
     "name": "Tatiana Malano Merlino",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/171454208?s=72&u=31bb09d3acd89e154c87929fc9a00e8a0ff4d064&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/171454208?s=72&u=37b9705d3a7aaed79792d9d6a4bb1cb49d802185&v=4",
     "location": "Mar del Plata, Argentina",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 46,
     "createdAt": "2024-06-01T21:49:55Z"
   },
   {
@@ -33224,7 +33212,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 3,
     "createdAt": "2024-04-14T16:25:41Z"
   },
   {
@@ -33246,9 +33234,9 @@
     "location": "Santa Fe, Argentina",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 141,
+    "publicContributions": 109,
     "createdAt": "2024-06-02T18:33:06Z"
   },
   {

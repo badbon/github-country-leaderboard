@@ -33336,18 +33336,6 @@
     "createdAt": "2019-09-03T12:28:13Z"
   },
   {
-    "login": "EmadIdris",
-    "name": "Emad Al-Buhaisi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/50682678?s=72&u=f0adab535b90eb0b960a2a0dc3df906d46ccd005&v=4",
-    "location": "Amman, Jordan",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 13,
-    "privateContributions": 0,
-    "publicContributions": 16,
-    "createdAt": "2019-05-15T23:10:21Z"
-  },
-  {
     "login": "Sami-Tadros",
     "name": "Sami Tadros",
     "avatarUrl": "https://avatars.githubusercontent.com/u/47887440?s=72&u=afd8b4b0852edc32513b6ec1128b7f9f064869bc&v=4",
@@ -33366,7 +33354,7 @@
     "location": "Jordan",
     "company": "",
     "twitterUsername": "",
-    "followers": 13,
+    "followers": 14,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-06-16T21:55:31Z"
@@ -33390,22 +33378,10 @@
     "location": "Amman, Jordan",
     "company": "Orange",
     "twitterUsername": "",
-    "followers": 13,
-    "privateContributions": 635,
+    "followers": 14,
+    "privateContributions": 670,
     "publicContributions": 39,
     "createdAt": "2019-01-22T06:05:57Z"
-  },
-  {
-    "login": "eyad96",
-    "name": "Eyad odeh",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/50524514?s=72&u=105a15e323bb2d54163579f5b5a6ac1cead0bed1&v=4",
-    "location": "Jordan",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 0,
-    "publicContributions": 60,
-    "createdAt": "2019-05-11T15:40:11Z"
   },
   {
     "login": "HalaHamdan96",
@@ -33462,7 +33438,7 @@
     "location": "Jordan, Amman",
     "company": "",
     "twitterUsername": "AlaiwahYazan",
-    "followers": 12,
+    "followers": 13,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-03-03T19:28:11Z"
@@ -33488,7 +33464,7 @@
     "twitterUsername": "",
     "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 154,
+    "publicContributions": 152,
     "createdAt": "2019-09-01T08:02:58Z"
   },
   {
@@ -33500,7 +33476,7 @@
     "twitterUsername": "",
     "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 58,
+    "publicContributions": 54,
     "createdAt": "2019-08-30T13:06:31Z"
   },
   {
@@ -33510,7 +33486,7 @@
     "location": "Amman, Jordan",
     "company": "avertra",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 12,
     "privateContributions": 1,
     "publicContributions": 11,
     "createdAt": "2019-04-17T10:39:54Z"
@@ -33522,7 +33498,7 @@
     "location": "Jordan-Amman",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 10,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-01-01T16:27:41Z"
@@ -33536,7 +33512,7 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2019-10-26T18:13:29Z"
   },
   {
@@ -33546,7 +33522,7 @@
     "location": "Jordan",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 11,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-10-01T12:36:47Z"
