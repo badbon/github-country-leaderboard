@@ -1,8 +1,8 @@
 # Total Contributions - Thailand
 
-Generated: 2026-10-18T01:37:59.207Z
+Generated: 2026-10-18T05:05:00.450Z
 
-Users: 15006
+Users: 15005
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -17,12 +17,12 @@ Users: 15006
 | 9 | [smilexth](https://github.com/smilexth) | Damrongwit Nusuk | @racksync | jackz | Suratthani, Thailand | 16496 |
 | 10 | [katopz](https://github.com/katopz) | Todsaporn Banjerdkit |  | katopz | Bangkok, Thailand | 16442 |
 | 11 | [tumf](https://github.com/tumf) | tumf | @wakumo  | tumf | Bangkok, Thailand | 16061 |
-| 12 | [evanrintho](https://github.com/evanrintho) | Ronnkon Na Suwan | @anantix-network |  | Surat Thani, Thailand | 15847 |
-| 13 | [menotafari](https://github.com/menotafari) | MK |  |  | Bangkok, Thailand | 15720 |
-| 14 | [komphet](https://github.com/komphet) | Komphet Meesab | Gumon Technology |  | Bangkok | 14967 |
-| 15 | [LoneExile](https://github.com/LoneExile) | Apinant.u |  | L0neExile | Thailand | 14891 |
-| 16 | [Restuta](https://github.com/Restuta) | Anton Vynogradenko | @orba-health @SharkyFi @toast-ninja | restuta | San Francisco, CA and Bangkok | 14406 |
-| 17 | [jojoprison](https://github.com/jojoprison) | jojoprison |  |  | Thailand | 14370 |
-| 18 | [watchakorn-18k](https://github.com/watchakorn-18k) | Watchakorn Buddeewong | Fakduai logistics and digital platform co., ltd |  | Pak Chong, Nakhon Ratchasima, Thailand | 14360 |
-| 19 | [serial-coder](https://github.com/serial-coder) | Phuwanai Thummavet | @valixconsulting | 0x_serial_coder | Bangkok, Thailand. | 14263 |
-| 20 | [jeremi](https://github.com/jeremi) | Jeremi Joslin | @openspp | jeremi | Phuket, Thailand | 14139 |
+| 12 | [menotafari](https://github.com/menotafari) | MK |  |  | Bangkok, Thailand | 15720 |
+| 13 | [komphet](https://github.com/komphet) | Komphet Meesab | Gumon Technology |  | Bangkok | 14967 |
+| 14 | [LoneExile](https://github.com/LoneExile) | Apinant.u |  | L0neExile | Thailand | 14891 |
+| 15 | [Restuta](https://github.com/Restuta) | Anton Vynogradenko | @orba-health @SharkyFi @toast-ninja | restuta | San Francisco, CA and Bangkok | 14406 |
+| 16 | [jojoprison](https://github.com/jojoprison) | jojoprison |  |  | Thailand | 14370 |
+| 17 | [watchakorn-18k](https://github.com/watchakorn-18k) | Watchakorn Buddeewong | Fakduai logistics and digital platform co., ltd |  | Pak Chong, Nakhon Ratchasima, Thailand | 14360 |
+| 18 | [serial-coder](https://github.com/serial-coder) | Phuwanai Thummavet | @valixconsulting | 0x_serial_coder | Bangkok, Thailand. | 14263 |
+| 19 | [jeremi](https://github.com/jeremi) | Jeremi Joslin | @openspp | jeremi | Phuket, Thailand | 14139 |
+| 20 | [samithiwat](https://github.com/samithiwat) | samithiwat |  |  | Bangkok | 13999 |

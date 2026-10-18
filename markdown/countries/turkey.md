@@ -29,9 +29,9 @@ Indexed users: 79,177
 | 15 | [BurakCanYukselen](https://github.com/BurakCanYukselen) | Burak Can Yükselen | Istanbul | 23,747 |
 | 16 | [erkanalperen54-boop](https://github.com/erkanalperen54-boop) | Alperen ERKAN | Türkiye/Ankara | 23,678 |
 | 17 | [ozkuran](https://github.com/ozkuran) | Mahmut Ali ÖZKURAN | Istanbul | 23,193 |
-| 18 | [mturac](https://github.com/mturac) | mehmet turac | Istanbul | 21,165 |
-| 19 | [keyvanarasteh](https://github.com/keyvanarasteh) | Keyvan Arasteh | Istanbul, Turkey | 20,193 |
-| 20 | [umutkeltek](https://github.com/umutkeltek) | Umut Keltek | Istanbul | 19,089 |
+| 18 | [SovranAMR](https://github.com/SovranAMR) | Ali Ilcel | Bursa, Turkiye | 21,631 |
+| 19 | [mturac](https://github.com/mturac) | mehmet turac | Istanbul | 21,165 |
+| 20 | [keyvanarasteh](https://github.com/keyvanarasteh) | Keyvan Arasteh | Istanbul, Turkey | 20,193 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 79,177
 | 19 | [buger](https://github.com/buger) | Leonid Bugaev | Istanbul | 3,587 |
 | 20 | [ardaltunel](https://github.com/ardaltunel) | Arda Altunel | İstanbul/Turkey | 3,517 |
 
-Generated: 2026-10-18T01:55:18.589Z
+Generated: 2026-10-18T05:07:54.674Z

@@ -1,13 +1,13 @@
 # Public Contributions - Vietnam
 
-Generated: 2026-10-18T01:44:50.220Z
+Generated: 2026-10-18T05:13:37.819Z
 
-Users: 25843
+Users: 25841
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [hoangsvit](https://github.com/hoangsvit) | David Nguyen | Founder at @ePlus-DEV | david_nguyen94 | Ho Chi Minh, Vietnam | 136865 |
-| 2 | [frankrichardhall](https://github.com/frankrichardhall) | Frank Richard Hall |  |  | Hanoi, Vietnam | 100157 |
+| 2 | [frankrichardhall](https://github.com/frankrichardhall) | Frank Richard Hall |  |  | Hanoi, Vietnam | 73216 |
 | 3 | [tamnd](https://github.com/tamnd) | Tam Nguyen Duc |  |  | Ho Chi Minh City, Vietnam | 58698 |
 | 4 | [caothu159](https://github.com/caothu159) | Trần Ngọc Đức | @diepxuan |  | vietnam | 21990 |
 | 5 | [bigdargon](https://github.com/bigdargon) | BigDargon |  | bigdargon | Vietnam | 20766 |

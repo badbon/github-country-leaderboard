@@ -12,8 +12,8 @@ Indexed users: 132
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [hammertoe](https://github.com/hammertoe) | Matt Hamilton | Barbados | 5,444 |
-| 2 | [jasonals](https://github.com/jasonals) | Jason Als | Barbados | 5,392 |
+| 1 | [hammertoe](https://github.com/hammertoe) | Matt Hamilton | Barbados | 5,447 |
+| 2 | [jasonals](https://github.com/jasonals) | Jason Als | Barbados | 5,404 |
 | 3 | [bajedev](https://github.com/bajedev) | Theo Taylor | Barbados | 4,211 |
 | 4 | [d-alleyne](https://github.com/d-alleyne) | Damien Alleyne | Barbados | 3,247 |
 | 5 | [paulmiu](https://github.com/paulmiu) | Paul Miu | Barbados | 2,860 |
@@ -24,7 +24,7 @@ Indexed users: 132
 | 10 | [ShamarKellman](https://github.com/ShamarKellman) | Shamar Kellman | Barbados | 1,383 |
 | 11 | [alexanderbahlk](https://github.com/alexanderbahlk) | Alexander Bahlk | Barbados | 1,346 |
 | 12 | [dario-j-c](https://github.com/dario-j-c) | Dario J C | Barbados | 1,135 |
-| 13 | [lukehefson](https://github.com/lukehefson) | Luke Hefson | Barbados | 960 |
+| 13 | [lukehefson](https://github.com/lukehefson) | Luke Hefson | Barbados | 959 |
 | 14 | [ianhambleton](https://github.com/ianhambleton) | Ian Hambleton | Barbados | 673 |
 | 15 | [Thomas-Heniart](https://github.com/Thomas-Heniart) | Thomas Heniart | Barbados | 597 |
 | 16 | [starsden](https://github.com/starsden) | den | Barbados | 584 |
@@ -37,7 +37,7 @@ Indexed users: 132
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [hammertoe](https://github.com/hammertoe) | Matt Hamilton | Barbados | 680 |
+| 1 | [hammertoe](https://github.com/hammertoe) | Matt Hamilton | Barbados | 679 |
 | 2 | [ianhambleton](https://github.com/ianhambleton) | Ian Hambleton | Barbados | 673 |
 | 3 | [caritechsolutions](https://github.com/caritechsolutions) |  | Barbados | 410 |
 | 4 | [shaquillehinds](https://github.com/shaquillehinds) | Shaquille Hinds | Barbados | 357 |
@@ -83,4 +83,4 @@ Indexed users: 132
 | 19 | [sramharack](https://github.com/sramharack) | Shankar Ramharack | St. Phillips, Barbados, W.I. | 12 |
 | 20 | [paulamelrz](https://github.com/paulamelrz) | Paula Melero | Barbados | 11 |
 
-Generated: 2026-10-18T01:54:59.378Z
+Generated: 2026-10-18T05:25:41.606Z

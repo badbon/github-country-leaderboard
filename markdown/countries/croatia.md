@@ -23,15 +23,15 @@ Indexed users: 5,429
 | 9 | [bis3946](https://github.com/bis3946) | bis3946 | Croatia | 8,871 |
 | 10 | [lazar-tomislav](https://github.com/lazar-tomislav) | Tomislav Lazar | Croatia | 8,131 |
 | 11 | [ivanmeler](https://github.com/ivanmeler) | Ivan Meler | Croatia, Vukovar | 7,621 |
-| 12 | [zvanjak](https://github.com/zvanjak) | Zvonimir Vanjak | Zagreb | 7,219 |
-| 13 | [viborc](https://github.com/viborc) | Vibor Cipan | Croatia | 7,209 |
-| 14 | [verona-dev](https://github.com/verona-dev) | Zoran G. Verona | Croatia | 6,981 |
-| 15 | [Domogo](https://github.com/Domogo) | Domagoj Satrapa | Pula, Croatia | 6,913 |
-| 16 | [SeloSlav](https://github.com/SeloSlav) | Martin Erlic | Zagreb | 6,760 |
-| 17 | [piqusy](https://github.com/piqusy) | Ivan Ramljak | Zagreb | 6,748 |
-| 18 | [leonardogazdek](https://github.com/leonardogazdek) | Leonardo Gazdek | Croatia | 6,743 |
-| 19 | [drKreso](https://github.com/drKreso) | Kresimir Bojcic | Croatia | 6,678 |
-| 20 | [Sartaq12](https://github.com/Sartaq12) | Marin Zujić | Osijek, Croatia | 6,624 |
+| 12 | [mbrcic](https://github.com/mbrcic) | Mario Brcic | Zagreb, Croatia | 7,336 |
+| 13 | [zvanjak](https://github.com/zvanjak) | Zvonimir Vanjak | Zagreb | 7,219 |
+| 14 | [viborc](https://github.com/viborc) | Vibor Cipan | Croatia | 7,209 |
+| 15 | [verona-dev](https://github.com/verona-dev) | Zoran G. Verona | Croatia | 6,981 |
+| 16 | [Domogo](https://github.com/Domogo) | Domagoj Satrapa | Pula, Croatia | 6,913 |
+| 17 | [SeloSlav](https://github.com/SeloSlav) | Martin Erlic | Zagreb | 6,760 |
+| 18 | [piqusy](https://github.com/piqusy) | Ivan Ramljak | Zagreb | 6,748 |
+| 19 | [leonardogazdek](https://github.com/leonardogazdek) | Leonardo Gazdek | Croatia | 6,743 |
+| 20 | [drKreso](https://github.com/drKreso) | Kresimir Bojcic | Croatia | 6,678 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 5,429
 | 19 | [loboris](https://github.com/loboris) | Boris Lovosevic | Zagreb, Croatia | 406 |
 | 20 | [nibzard](https://github.com/nibzard) | Nikola Balic | Split, Croatia | 364 |
 
-Generated: 2026-10-18T02:05:07.177Z
+Generated: 2026-10-18T05:38:31.266Z

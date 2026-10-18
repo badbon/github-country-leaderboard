@@ -1,6 +1,6 @@
 # Public Contributions - Albania
 
-Generated: 2026-10-18T01:46:47.469Z
+Generated: 2026-10-18T05:16:44.027Z
 
 Users: 1184
 
@@ -15,8 +15,8 @@ Users: 1184
 | 7 | [KLEOJAHOLLARI](https://github.com/KLEOJAHOLLARI) | Kleo Jahollari | Western Balkan Univesity | kleo_j14 | Albania | 1243 |
 | 8 | [ezekaj](https://github.com/ezekaj) | Elvi Zekaj | @zedigitaltech |  | Tirana, Albania | 1002 |
 | 9 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | CyberSecurity Researcher, Red Team, Bug Hunter | OrgitoRTA | Albania | 914 |
-| 10 | [ilrexho2011](https://github.com/ilrexho2011) | Ilirjan Rexho | Computer House AL |  | Vlorë, Albania | 784 |
-| 11 | [cyanidium1](https://github.com/cyanidium1) | Fedir |  |  | Durres, Albania | 782 |
+| 10 | [cyanidium1](https://github.com/cyanidium1) | Fedir |  |  | Durres, Albania | 825 |
+| 11 | [ilrexho2011](https://github.com/ilrexho2011) | Ilirjan Rexho | Computer House AL |  | Vlorë, Albania | 784 |
 | 12 | [bredliplaku](https://github.com/bredliplaku) | Bredli |  |  | Albania | 757 |
 | 13 | [alban-hh](https://github.com/alban-hh) | Alban Shermadhi | Abissnet Sha |  | Albania | 733 |
 | 14 | [edythebolman](https://github.com/edythebolman) | Sri Handayani | Dynamic Ventures |  | Tirana, Albania | 731 |

@@ -1,6 +1,6 @@
 # Total Contributions - Croatia
 
-Generated: 2026-10-18T02:05:07.177Z
+Generated: 2026-10-18T05:38:31.266Z
 
 Users: 5429
 
@@ -17,12 +17,12 @@ Users: 5429
 | 9 | [bis3946](https://github.com/bis3946) | bis3946 | NuN Nexus of Unity  | bis3946 | Croatia | 8871 |
 | 10 | [lazar-tomislav](https://github.com/lazar-tomislav) | Tomislav Lazar | Morgan Code |  | Croatia | 8131 |
 | 11 | [ivanmeler](https://github.com/ivanmeler) | Ivan Meler | Meler Media Group | ivan_meler | Croatia, Vukovar | 7621 |
-| 12 | [zvanjak](https://github.com/zvanjak) | Zvonimir Vanjak | Quantum Soft d.o.o. | zvanjak | Zagreb | 7219 |
-| 13 | [viborc](https://github.com/viborc) | Vibor Cipan | Daydream | viborc | Croatia | 7209 |
-| 14 | [verona-dev](https://github.com/verona-dev) | Zoran G. Verona | Good Code |  | Croatia | 6981 |
-| 15 | [Domogo](https://github.com/Domogo) | Domagoj Satrapa |  |  | Pula, Croatia | 6913 |
-| 16 | [SeloSlav](https://github.com/SeloSlav) | Martin Erlic |  | SeloSlav | Zagreb | 6760 |
-| 17 | [piqusy](https://github.com/piqusy) | Ivan Ramljak | @infinum  |  | Zagreb | 6748 |
-| 18 | [leonardogazdek](https://github.com/leonardogazdek) | Leonardo Gazdek |  |  | Croatia | 6743 |
-| 19 | [drKreso](https://github.com/drKreso) | Kresimir Bojcic | @kodius  |  | Croatia | 6678 |
-| 20 | [Sartaq12](https://github.com/Sartaq12) | Marin Zujić | Manufactorial d.o.o. |  | Osijek, Croatia | 6624 |
+| 12 | [mbrcic](https://github.com/mbrcic) | Mario Brcic |  |  | Zagreb, Croatia | 7336 |
+| 13 | [zvanjak](https://github.com/zvanjak) | Zvonimir Vanjak | Quantum Soft d.o.o. | zvanjak | Zagreb | 7219 |
+| 14 | [viborc](https://github.com/viborc) | Vibor Cipan | Daydream | viborc | Croatia | 7209 |
+| 15 | [verona-dev](https://github.com/verona-dev) | Zoran G. Verona | Good Code |  | Croatia | 6981 |
+| 16 | [Domogo](https://github.com/Domogo) | Domagoj Satrapa |  |  | Pula, Croatia | 6913 |
+| 17 | [SeloSlav](https://github.com/SeloSlav) | Martin Erlic |  | SeloSlav | Zagreb | 6760 |
+| 18 | [piqusy](https://github.com/piqusy) | Ivan Ramljak | @infinum  |  | Zagreb | 6748 |
+| 19 | [leonardogazdek](https://github.com/leonardogazdek) | Leonardo Gazdek |  |  | Croatia | 6743 |
+| 20 | [drKreso](https://github.com/drKreso) | Kresimir Bojcic | @kodius  |  | Croatia | 6678 |

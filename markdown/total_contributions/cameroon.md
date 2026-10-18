@@ -1,8 +1,8 @@
 # Total Contributions - Cameroon
 
-Generated: 2026-10-18T02:01:01.130Z
+Generated: 2026-10-18T05:31:45.078Z
 
-Users: 1799
+Users: 1798
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -10,7 +10,7 @@ Users: 1799
 | 2 | [Tomdieu](https://github.com/Tomdieu) | ivantom | TrixGroup | navicorp_ | Cameroon | 12821 |
 | 3 | [momo-87](https://github.com/momo-87) | Christian Romuald MOMO TONFACK | Full-Stack Developer | Momo_yde | Cameroon - Yaounde | 11652 |
 | 4 | [cliffordten](https://github.com/cliffordten) | Teneng Clifford | @gwislab  | bisynerd | Buea, Cameroon | 10943 |
-| 5 | [bpsmartdesign](https://github.com/bpsmartdesign) | Biya Paul | @think-dev-io | bpsmartdesign | Yaoundé - Douala, Cameroon | 10058 |
+| 5 | [bpsmartdesign](https://github.com/bpsmartdesign) | Biya Paul | @think-dev-io | bpsmartdesign | Yaoundé - Douala, Cameroon | 10190 |
 | 6 | [gwagsi](https://github.com/gwagsi) | Gwagsi |  | gwagsig | Yaounde, Cameroon | 10008 |
 | 7 | [iws3](https://github.com/iws3) | Fonyuy Gita |  |  | Bamenda, Cameroon | 9993 |
 | 8 | [LudovicAndreBiyong](https://github.com/LudovicAndreBiyong) | Ludovic André Biyong | GAIA SARL U |  | Cameroon | 9905 |

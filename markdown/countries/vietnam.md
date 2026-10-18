@@ -1,6 +1,6 @@
 # Vietnam
 
-Indexed users: 25,843
+Indexed users: 25,841
 
 | Leaderboard | Link |
 |---|---|
@@ -13,8 +13,8 @@ Indexed users: 25,843
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [hoangsvit](https://github.com/hoangsvit) | David Nguyen | Ho Chi Minh, Vietnam | 139,886 |
-| 2 | [frankrichardhall](https://github.com/frankrichardhall) | Frank Richard Hall | Hanoi, Vietnam | 100,157 |
-| 3 | [tamnd](https://github.com/tamnd) | Tam Nguyen Duc | Ho Chi Minh City, Vietnam | 81,949 |
+| 2 | [tamnd](https://github.com/tamnd) | Tam Nguyen Duc | Ho Chi Minh City, Vietnam | 81,949 |
+| 3 | [frankrichardhall](https://github.com/frankrichardhall) | Frank Richard Hall | Hanoi, Vietnam | 73,216 |
 | 4 | [vitran1987](https://github.com/vitran1987) | Vi Tran | Vietnam | 33,606 |
 | 5 | [nht2312](https://github.com/nht2312) | NHT | VietNam | 31,122 |
 | 6 | [olragon](https://github.com/olragon) | Long Nguyen | Ho Chi Minh City, Viet Nam | 28,032 |
@@ -38,7 +38,7 @@ Indexed users: 25,843
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [hoangsvit](https://github.com/hoangsvit) | David Nguyen | Ho Chi Minh, Vietnam | 136,865 |
-| 2 | [frankrichardhall](https://github.com/frankrichardhall) | Frank Richard Hall | Hanoi, Vietnam | 100,157 |
+| 2 | [frankrichardhall](https://github.com/frankrichardhall) | Frank Richard Hall | Hanoi, Vietnam | 73,216 |
 | 3 | [tamnd](https://github.com/tamnd) | Tam Nguyen Duc | Ho Chi Minh City, Vietnam | 58,698 |
 | 4 | [caothu159](https://github.com/caothu159) | Trần Ngọc Đức | vietnam | 21,990 |
 | 5 | [bigdargon](https://github.com/bigdargon) | BigDargon | Vietnam | 20,766 |
@@ -83,4 +83,4 @@ Indexed users: 25,843
 | 19 | [paulnguyen-mn](https://github.com/paulnguyen-mn) | Paul Nguyen | HCMC, Vietnam | 1,087 |
 | 20 | [qnblackcat](https://github.com/qnblackcat) | Nguyễn Đạt | Vietnam | 1,033 |
 
-Generated: 2026-10-18T01:44:50.220Z
+Generated: 2026-10-18T05:13:37.819Z

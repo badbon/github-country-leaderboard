@@ -1,6 +1,6 @@
 # Total Contributions - Equatorial Guinea
 
-Generated: 2026-10-18T02:09:26.866Z
+Generated: 2026-10-18T05:42:59.698Z
 
 Users: 21
 
@@ -13,7 +13,7 @@ Users: 21
 | 5 | [barsie](https://github.com/barsie) | Sirineo Barila  |  |  | Equatorial Guinea  | 112 |
 | 6 | [Xenon0001](https://github.com/Xenon0001) | Luis Rafael Eyoma | Xenon.py |  | Bata, Equatorial Guinea | 89 |
 | 7 | [Soniangomo](https://github.com/Soniangomo) | Sonia NGOMO | CFAO MOBILITY |  | MALABO- EQUATORIAL GUINEA | 27 |
-| 8 | [sersobrenatural](https://github.com/sersobrenatural) | Santiago Gabriel Micha Ndong Obiang | ConocoPhillips |  | Equatorial Guinea  | 15 |
+| 8 | [sersobrenatural](https://github.com/sersobrenatural) | Santiago Gabriel Micha Ndong Obiang | ConocoPhillips |  | Equatorial Guinea  | 14 |
 | 9 | [Nazario95](https://github.com/Nazario95) | Nazario Muanbama |  | NazzaReg | Malabo-EQ | 11 |
 | 10 | [melitonio](https://github.com/melitonio) | Meliton Pablo Mangue Mañana | MAIT |  | Malabo, Guinea Ecuatorial | 5 |
 | 11 | [DanielNdong](https://github.com/DanielNdong) | Daniel Aquilino Ndong |  | devtotech | Malabo, Guinea Ecuatorial | 4 |

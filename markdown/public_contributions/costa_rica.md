@@ -1,6 +1,6 @@
 # Public Contributions - Costa Rica
 
-Generated: 2026-10-18T02:04:46.307Z
+Generated: 2026-10-18T05:37:48.776Z
 
 Users: 5629
 
@@ -22,7 +22,7 @@ Users: 5629
 | 14 | [nestormata](https://github.com/nestormata) | Nestor Mata Cuthbert | Profesional Costa Rica |  | Costa Rica | 2308 |
 | 15 | [lapc506](https://github.com/lapc506) | Andrés Peña | AltruPets, Vertivo, KeikoStart (my startups) |  | Heredia, Costa Rica | 2305 |
 | 16 | [kfonsecah](https://github.com/kfonsecah) | Kendall Fonseca | Universidad Nacional de Costa Rica |  | Costa Rica | 2199 |
-| 17 | [rjwrld](https://github.com/rjwrld) | Josue Calderon |  |  | Costa Rica | 2060 |
-| 18 | [aguilar1x](https://github.com/aguilar1x) | Matias Aguilar |  | aguilar1x1 | Costa Rica | 1978 |
-| 19 | [byLAEV](https://github.com/byLAEV) | Lerry Alexander Elizondo Villalobos (LAEV) |  |  | Costa Rica  | 1927 |
-| 20 | [adrianvrj](https://github.com/adrianvrj) | adr!an | @cavos-labs  | 0xAdrianvrj | Costa Rica | 1901 |
+| 17 | [snaveoguh](https://github.com/snaveoguh) | pip | MSHRM |  | COSTA RICA | 2151 |
+| 18 | [rjwrld](https://github.com/rjwrld) | Josue Calderon |  |  | Costa Rica | 2060 |
+| 19 | [aguilar1x](https://github.com/aguilar1x) | Matias Aguilar |  | aguilar1x1 | Costa Rica | 1978 |
+| 20 | [byLAEV](https://github.com/byLAEV) | Lerry Alexander Elizondo Villalobos (LAEV) |  |  | Costa Rica  | 1927 |

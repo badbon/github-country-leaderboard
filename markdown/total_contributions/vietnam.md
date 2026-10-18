@@ -1,14 +1,14 @@
 # Total Contributions - Vietnam
 
-Generated: 2026-10-18T01:44:50.220Z
+Generated: 2026-10-18T05:13:37.819Z
 
-Users: 25843
+Users: 25841
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [hoangsvit](https://github.com/hoangsvit) | David Nguyen | Founder at @ePlus-DEV | david_nguyen94 | Ho Chi Minh, Vietnam | 139886 |
-| 2 | [frankrichardhall](https://github.com/frankrichardhall) | Frank Richard Hall |  |  | Hanoi, Vietnam | 100157 |
-| 3 | [tamnd](https://github.com/tamnd) | Tam Nguyen Duc |  |  | Ho Chi Minh City, Vietnam | 81949 |
+| 2 | [tamnd](https://github.com/tamnd) | Tam Nguyen Duc |  |  | Ho Chi Minh City, Vietnam | 81949 |
+| 3 | [frankrichardhall](https://github.com/frankrichardhall) | Frank Richard Hall |  |  | Hanoi, Vietnam | 73216 |
 | 4 | [vitran1987](https://github.com/vitran1987) | Vi Tran | https://bangioi.vn/ |  | Vietnam | 33606 |
 | 5 | [nht2312](https://github.com/nht2312) | NHT | PHAT DAT INTERIOR CONSTRUCTION INVESTMENT COMPANY LIMITED |  | VietNam | 31122 |
 | 6 | [olragon](https://github.com/olragon) | Long Nguyen |  |  | Ho Chi Minh City, Viet Nam | 28032 |
