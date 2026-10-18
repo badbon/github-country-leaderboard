@@ -31796,7 +31796,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 228,
+    "publicContributions": 169,
     "createdAt": "2022-11-01T08:24:13Z"
   },
   {
@@ -31807,8 +31807,8 @@
     "company": "Sword Services Greece S.A.",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 14,
-    "publicContributions": 58,
+    "privateContributions": 9,
+    "publicContributions": 67,
     "createdAt": "2022-03-23T18:31:23Z"
   },
   {
@@ -31832,7 +31832,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 11,
     "createdAt": "2022-06-02T09:59:49Z"
   },
   {
@@ -31855,7 +31855,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1302,
+    "privateContributions": 1178,
     "publicContributions": 0,
     "createdAt": "2022-05-24T09:05:43Z"
   },
@@ -31892,7 +31892,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 51,
+    "publicContributions": 32,
     "createdAt": "2022-04-02T08:28:30Z"
   },
   {
@@ -31921,27 +31921,15 @@
   },
   {
     "login": "char-papadopoulos",
-    "name": "Haris Papadopoulos",
+    "name": "Haris",
     "avatarUrl": "https://avatars.githubusercontent.com/u/108619344?s=72&u=6197c90a646223e0f2f90ff8a6e4f9f5d50c3e1b&v=4",
     "location": "Greece",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 7,
     "createdAt": "2022-07-03T13:51:36Z"
-  },
-  {
-    "login": "TsampGeo",
-    "name": "TsampGeo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/102925109?s=72&u=d61145ee5a1b5f683975981d8f711d6c6856c2bc&v=4",
-    "location": "Greece",
-    "company": "PwC",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2022-04-03T20:02:19Z"
   },
   {
     "login": "TakosNik",
@@ -31952,7 +31940,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 2,
     "createdAt": "2022-10-31T17:39:21Z"
   },
   {

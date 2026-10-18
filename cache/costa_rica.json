@@ -32132,7 +32132,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 9,
     "createdAt": "2019-05-21T02:48:16Z"
   },
   {
@@ -32162,13 +32162,13 @@
   {
     "login": "Huevaldinho",
     "name": "Felipe Obando",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/47650141?s=72&u=407232c136a4f05548b32cb284010886793d5b11&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/47650141?s=72&v=4",
     "location": "Costa Rica",
-    "company": "@equifax.com",
+    "company": "",
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 62,
+    "publicContributions": 58,
     "createdAt": "2019-02-15T01:52:54Z"
   },
   {
@@ -32190,7 +32190,7 @@
     "location": "Costa Rica",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-12-11T00:20:49Z"
@@ -32204,7 +32204,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 6,
     "createdAt": "2019-03-20T01:10:36Z"
   },
   {
@@ -32218,18 +32218,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-01-15T21:01:27Z"
-  },
-  {
-    "login": "KSCeciliano",
-    "name": "Kevin Ceciliano",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/54950531?s=72&u=8707ab583a647de4a9907e7e814d0fd333d77cee&v=4",
-    "location": "Costa Rica",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2019-09-05T15:38:25Z"
   },
   {
     "login": "alebermudez94",
@@ -32251,8 +32239,8 @@
     "company": "Universidad de Costa Rica",
     "twitterUsername": "rodamaj",
     "followers": 2,
-    "privateContributions": 132,
-    "publicContributions": 343,
+    "privateContributions": 111,
+    "publicContributions": 256,
     "createdAt": "2019-08-21T05:24:22Z"
   },
   {
@@ -32274,7 +32262,7 @@
     "location": "Costa Rica",
     "company": "Tecnológico de Costa Rica",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-02-20T20:48:29Z"
@@ -32287,7 +32275,7 @@
     "company": "TreviPay",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 140,
+    "privateContributions": 128,
     "publicContributions": 1,
     "createdAt": "2019-05-28T05:30:12Z"
   },
@@ -32298,7 +32286,7 @@
     "location": "Costa Rica",
     "company": "Ale Sans",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-11-29T11:44:31Z"
@@ -32312,7 +32300,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2019-05-13T20:22:07Z"
   },
   {
@@ -32334,9 +32322,9 @@
     "location": "Costa Rica",
     "company": "Zimplifica S.A",
     "twitterUsername": "fcordobarojas",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 1,
     "createdAt": "2019-09-18T06:24:19Z"
   },
   {
@@ -32347,7 +32335,7 @@
     "company": "Datasite",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1203,
+    "privateContributions": 1211,
     "publicContributions": 0,
     "createdAt": "2019-05-16T03:26:50Z"
   },
