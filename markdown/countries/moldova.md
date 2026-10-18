@@ -71,7 +71,7 @@ Indexed users: 1,747
 | 7 | [mgutu](https://github.com/mgutu) | Maria Gutu | Republica Moldova | 289 |
 | 8 | [nicubarbaros](https://github.com/nicubarbaros) | Nicu Barbaros | Moldova | 280 |
 | 9 | [sighook](https://github.com/sighook) | Alex Savca | Moldova | 207 |
-| 10 | [gvvynplaine](https://github.com/gvvynplaine) | Roman | Moldova, Tiraspol | 194 |
+| 10 | [gvvynplaine](https://github.com/gvvynplaine) | Roman | Moldova, Tiraspol | 195 |
 | 11 | [steevehook](https://github.com/steevehook) | Steve Hook | Chisinau, Moldova | 187 |
 | 12 | [Ywxig](https://github.com/Ywxig) | Ywxig | Moldova Chisinau  | 177 |
 | 13 | [vova07](https://github.com/vova07) | Vasile C. | Chișinău, Moldova | 172 |
@@ -83,4 +83,4 @@ Indexed users: 1,747
 | 19 | [vgaidarji](https://github.com/vgaidarji) | Veaceslav Gaidarji | Moldova | 115 |
 | 20 | [Ernest96](https://github.com/Ernest96) | Ernest | Chisinau Moldova | 107 |
 
-Generated: 2026-10-18T01:01:20.299Z
+Generated: 2026-10-18T02:40:15.803Z

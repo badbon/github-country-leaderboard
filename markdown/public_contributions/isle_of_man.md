@@ -1,6 +1,6 @@
 # Public Contributions - Isle of Man
 
-Generated: 2026-10-18T00:43:42.023Z
+Generated: 2026-10-18T02:25:33.915Z
 
 Users: 155
 
@@ -20,9 +20,9 @@ Users: 155
 | 12 | [AndrewIOM](https://github.com/AndrewIOM) | Andrew Martin | Scott Polar Research Institute, University of Cambridge |  | Isle of Man | 215 |
 | 13 | [AdamDIOM](https://github.com/AdamDIOM) | Adam Cameron Drummond | Isle of Man Code Club |  | Isle of Man | 160 |
 | 14 | [aquacash5](https://github.com/aquacash5) | Kyle Bloom | IFGL |  | Douglas, Isle of Man | 153 |
-| 15 | [mayconht](https://github.com/mayconht) | Maycon Douglas |  |  | Isle of Man | 124 |
+| 15 | [mayconht](https://github.com/mayconht) | Maycon Douglas |  |  | Isle of Man | 108 |
 | 16 | [oliciv](https://github.com/oliciv) | Oli Allen |  |  | Isle of Man | 108 |
-| 17 | [lukawarren](https://github.com/lukawarren) | Luka Warren |  |  | Isle of Man | 93 |
+| 17 | [lukawarren](https://github.com/lukawarren) | Luka Warren |  |  | Isle of Man | 99 |
 | 18 | [RCornidez](https://github.com/RCornidez) | Rodrigo Cornidez |  |  | Douglas, Arizona | 90 |
 | 19 | [Jessicaward](https://github.com/Jessicaward) | Jessica Ward | Fusion.co.im |  | Isle of Man | 85 |
 | 20 | [wishypw](https://github.com/wishypw) | Paul Williamson |  | wishypw | Isle of Man | 82 |

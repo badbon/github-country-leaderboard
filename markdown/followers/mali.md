@@ -1,6 +1,6 @@
 # Followers - Mali
 
-Generated: 2026-10-18T00:55:44.702Z
+Generated: 2026-10-18T02:38:13.727Z
 
 Users: 348
 

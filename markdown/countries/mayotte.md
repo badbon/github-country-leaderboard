@@ -56,7 +56,7 @@ Indexed users: 17
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [beeraw](https://github.com/beeraw) | Jean-Luc Petit | Mayotte | 38 |
+| 1 | [beeraw](https://github.com/beeraw) | Jean-Luc Petit | Mayotte | 37 |
 | 2 | [ssrb](https://github.com/ssrb) | Sebastian | Mayotte | 17 |
 | 3 | [bacardeveloper](https://github.com/bacardeveloper) | niwradCodera | Mayotte | 9 |
 | 4 | [gbourel](https://github.com/gbourel) |  | Mamoudzou, Mayotte | 9 |
@@ -74,4 +74,4 @@ Indexed users: 17
 | 16 | [shamounni](https://github.com/shamounni) | Shamounni | Mayotte | 1 |
 | 17 | [TechNerdSam](https://github.com/TechNerdSam) | Samyn-Antoy ABASSE | mayotte | 1 |
 
-Generated: 2026-10-18T00:59:16.020Z
+Generated: 2026-10-18T02:38:51.518Z

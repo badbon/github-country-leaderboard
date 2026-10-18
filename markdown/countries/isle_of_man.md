@@ -19,12 +19,12 @@ Indexed users: 155
 | 5 | [tekminewe](https://github.com/tekminewe) | Ewe Tek Min | Isle of Man | 3,542 |
 | 6 | [dive](https://github.com/dive) | Artem Loenko | Isle of Man | 2,160 |
 | 7 | [oliciv](https://github.com/oliciv) | Oli Allen | Isle of Man | 2,010 |
-| 8 | [lukawarren](https://github.com/lukawarren) | Luka Warren | Isle of Man | 1,918 |
+| 8 | [lukawarren](https://github.com/lukawarren) | Luka Warren | Isle of Man | 1,940 |
 | 9 | [craigiswayne](https://github.com/craigiswayne) | Craig Wayne | Isle of Man | 1,864 |
 | 10 | [PerpetualBeta](https://github.com/PerpetualBeta) | Jonathan M. Hollin | Douglas, Isle of Man | 1,764 |
 | 11 | [thomas-coldwell](https://github.com/thomas-coldwell) | Thomas Coldwell | Isle of Man | 1,677 |
 | 12 | [ceottaki](https://github.com/ceottaki) | Felipe Ceotto | Isle of Man | 1,627 |
-| 13 | [mayconht](https://github.com/mayconht) | Maycon Douglas | Isle of Man | 1,558 |
+| 13 | [mayconht](https://github.com/mayconht) | Maycon Douglas | Isle of Man | 1,556 |
 | 14 | [lwangenheim](https://github.com/lwangenheim) | Lee Wangenheim | Isle of Man | 1,498 |
 | 15 | [tonypartridge](https://github.com/tonypartridge) | Tony Partridge | Isle of Man | 1,233 |
 | 16 | [allantrabuco](https://github.com/allantrabuco) | Allan Trabuco | Isle of Man | 1,217 |
@@ -51,9 +51,9 @@ Indexed users: 155
 | 12 | [AndrewIOM](https://github.com/AndrewIOM) | Andrew Martin | Isle of Man | 215 |
 | 13 | [AdamDIOM](https://github.com/AdamDIOM) | Adam Cameron Drummond | Isle of Man | 160 |
 | 14 | [aquacash5](https://github.com/aquacash5) | Kyle Bloom | Douglas, Isle of Man | 153 |
-| 15 | [mayconht](https://github.com/mayconht) | Maycon Douglas | Isle of Man | 124 |
+| 15 | [mayconht](https://github.com/mayconht) | Maycon Douglas | Isle of Man | 108 |
 | 16 | [oliciv](https://github.com/oliciv) | Oli Allen | Isle of Man | 108 |
-| 17 | [lukawarren](https://github.com/lukawarren) | Luka Warren | Isle of Man | 93 |
+| 17 | [lukawarren](https://github.com/lukawarren) | Luka Warren | Isle of Man | 99 |
 | 18 | [RCornidez](https://github.com/RCornidez) | Rodrigo Cornidez | Douglas, Arizona | 90 |
 | 19 | [Jessicaward](https://github.com/Jessicaward) | Jessica Ward | Isle of Man | 85 |
 | 20 | [wishypw](https://github.com/wishypw) | Paul Williamson | Isle of Man | 82 |
@@ -69,8 +69,8 @@ Indexed users: 155
 | 5 | [CubLinux](https://github.com/CubLinux) | Cub Linux | Isle of Man | 86 |
 | 6 | [dive](https://github.com/dive) | Artem Loenko | Isle of Man | 78 |
 | 7 | [AdamDIOM](https://github.com/AdamDIOM) | Adam Cameron Drummond | Isle of Man | 77 |
-| 8 | [aquacash5](https://github.com/aquacash5) | Kyle Bloom | Douglas, Isle of Man | 40 |
-| 9 | [mayconht](https://github.com/mayconht) | Maycon Douglas | Isle of Man | 38 |
+| 8 | [mayconht](https://github.com/mayconht) | Maycon Douglas | Isle of Man | 47 |
+| 9 | [aquacash5](https://github.com/aquacash5) | Kyle Bloom | Douglas, Isle of Man | 40 |
 | 10 | [lproven](https://github.com/lproven) | Liam Proven | Douglas, Isle of Man | 36 |
 | 11 | [drapermovies](https://github.com/drapermovies) | Joel E.P. Draper | Isle of Man | 33 |
 | 12 | [drajmarsh](https://github.com/drajmarsh) | Dr Andrew Marsh | Isle of Man | 26 |
@@ -83,4 +83,4 @@ Indexed users: 155
 | 19 | [lwangenheim](https://github.com/lwangenheim) | Lee Wangenheim | Isle of Man | 19 |
 | 20 | [DanAnkers](https://github.com/DanAnkers) | Daniel Ankers | Isle of Man | 18 |
 
-Generated: 2026-10-18T00:43:42.023Z
+Generated: 2026-10-18T02:25:33.915Z

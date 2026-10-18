@@ -1,12 +1,12 @@
 # Followers - Mayotte
 
-Generated: 2026-10-18T00:59:16.020Z
+Generated: 2026-10-18T02:38:51.518Z
 
 Users: 17
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [beeraw](https://github.com/beeraw) | Jean-Luc Petit |  |  | Mayotte | 38 |
+| 1 | [beeraw](https://github.com/beeraw) | Jean-Luc Petit |  |  | Mayotte | 37 |
 | 2 | [ssrb](https://github.com/ssrb) | Sebastian | unhexhexium ltd |  | Mayotte | 17 |
 | 3 | [bacardeveloper](https://github.com/bacardeveloper) | niwradCodera | https://github.com/bacardevelopper |  | Mayotte | 9 |
 | 4 | [gbourel](https://github.com/gbourel) |  |  |  | Mamoudzou, Mayotte | 9 |

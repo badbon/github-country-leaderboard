@@ -12,7 +12,7 @@ Indexed users: 2,056
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [YellMinNaing-micro](https://github.com/YellMinNaing-micro) | Yell Min Naing | Yangon, Myanmar | 10,244 |
+| 1 | [YellMinNaing-micro](https://github.com/YellMinNaing-micro) | Yell Min Naing | Yangon, Myanmar | 10,485 |
 | 2 | [peterlianpi](https://github.com/peterlianpi) | Peter | Myanmar | 8,676 |
 | 3 | [MoeThetKhine](https://github.com/MoeThetKhine) | Moe Thet Khine | Yangon,Myanmar | 7,085 |
 | 4 | [nyeinkokoaung404](https://github.com/nyeinkokoaung404) | i AM 404 | Myanmar | 6,481 |
@@ -28,10 +28,10 @@ Indexed users: 2,056
 | 14 | [myatminag](https://github.com/myatminag) | Myat Min Aung | Yangon, Myanmar | 3,857 |
 | 15 | [Hein-HtetSan](https://github.com/Hein-HtetSan) | dev@hnhts | Myanmar, Yangon | 3,744 |
 | 16 | [PyaeSoneAungRgn](https://github.com/PyaeSoneAungRgn) | Pyae Sone Aung | Yangon, Myanmar | 3,646 |
-| 17 | [HanZawNyein](https://github.com/HanZawNyein) | Agga | Myanmar | 3,422 |
-| 18 | [KHUN-NOON](https://github.com/KHUN-NOON) |  | Taunggyi, Myanmar | 3,409 |
-| 19 | [YeMyoAung](https://github.com/YeMyoAung) | Ye Myo Aung | Myanmar/Mandalay | 3,399 |
-| 20 | [MinThutaSawNaing](https://github.com/MinThutaSawNaing) | Min Thuta Saw Naing Eric | Myanmar/ Singapore | 3,316 |
+| 17 | [htetaunglin-coder](https://github.com/htetaunglin-coder) | Htet Aung Lin (Kelvin) | Myanmar, Yangon | 3,565 |
+| 18 | [HanZawNyein](https://github.com/HanZawNyein) | Agga | Myanmar | 3,422 |
+| 19 | [KHUN-NOON](https://github.com/KHUN-NOON) |  | Taunggyi, Myanmar | 3,409 |
+| 20 | [YeMyoAung](https://github.com/YeMyoAung) | Ye Myo Aung | Myanmar/Mandalay | 3,399 |
 
 ## Public Contributions
 
@@ -43,7 +43,7 @@ Indexed users: 2,056
 | 4 | [peterlianpi](https://github.com/peterlianpi) | Peter | Myanmar | 2,590 |
 | 5 | [ninjastrikers](https://github.com/ninjastrikers) | NinjaStrikers | Myanmar | 1,470 |
 | 6 | [Oungseik](https://github.com/Oungseik) |  | Mawlamyine, Mon State, Myanmar | 1,429 |
-| 7 | [YellMinNaing-micro](https://github.com/YellMinNaing-micro) | Yell Min Naing | Yangon, Myanmar | 1,400 |
+| 7 | [YellMinNaing-micro](https://github.com/YellMinNaing-micro) | Yell Min Naing | Yangon, Myanmar | 1,397 |
 | 8 | [MoeThetKhine](https://github.com/MoeThetKhine) | Moe Thet Khine | Yangon,Myanmar | 1,359 |
 | 9 | [sannlynnhtun-coding](https://github.com/sannlynnhtun-coding) | Sann Lynn Htun | Yangon, Myanmar | 1,268 |
 | 10 | [yoonpyae](https://github.com/yoonpyae) | Yoon Pyae Eain  | Yangon, Myanmar | 1,240 |
@@ -56,7 +56,7 @@ Indexed users: 2,056
 | 17 | [mrmyothet](https://github.com/mrmyothet) | MyoThet | Yangon, Myanmar | 1,030 |
 | 18 | [TaoMonLae](https://github.com/TaoMonLae) |  | Myanmar | 1,017 |
 | 19 | [agrogers](https://github.com/agrogers) | Andrew Rogers | Yangon, Myanmar | 1,010 |
-| 20 | [phothinmg](https://github.com/phothinmg) | Pho Thin Maung | Myanmar | 1,006 |
+| 20 | [phothinmg](https://github.com/phothinmg) | Pho Thin Maung | Myanmar | 1,007 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 2,056
 | 19 | [winsandymyint](https://github.com/winsandymyint) | Win Sandy Myint | Myanmar | 168 |
 | 20 | [LunaM00n](https://github.com/LunaM00n) | Thin Ba Shane (Luna) | Myanmar | 162 |
 
-Generated: 2026-10-18T01:04:08.857Z
+Generated: 2026-10-18T02:41:49.504Z

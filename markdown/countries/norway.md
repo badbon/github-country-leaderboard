@@ -73,7 +73,7 @@ Indexed users: 19,627
 | 9 | [oleavr](https://github.com/oleavr) | Ole André Vadla Ravnås | Stavanger, Norway | 1,956 |
 | 10 | [ali123321123](https://github.com/ali123321123) | MHD Ali Zedan | Oslo | 1,791 |
 | 11 | [balazsorban44](https://github.com/balazsorban44) | Balázs Orbán | Oslo, Norway | 1,785 |
-| 12 | [AmirhosseinHonardoust](https://github.com/AmirhosseinHonardoust) | Amir | Norway | 1,669 |
+| 12 | [AmirhosseinHonardoust](https://github.com/AmirhosseinHonardoust) | Amir | Norway | 1,701 |
 | 13 | [raphw](https://github.com/raphw) | Rafael Winterhalter | Oslo, Norway | 1,638 |
 | 14 | [asmvik](https://github.com/asmvik) | Åsmund Vikane | Stavanger, Norway | 1,633 |
 | 15 | [Flangvik](https://github.com/Flangvik) | Melvin L | Norway | 1,446 |
@@ -83,4 +83,4 @@ Indexed users: 19,627
 | 19 | [SimenB](https://github.com/SimenB) | Simen Bekkhus | Oslo, Norway | 1,277 |
 | 20 | [aurorascharff](https://github.com/aurorascharff) | Aurora Scharff | Oslo, Norway | 1,275 |
 
-Generated: 2026-10-18T01:09:27.715Z
+Generated: 2026-10-18T02:46:08.140Z

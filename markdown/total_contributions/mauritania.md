@@ -1,6 +1,6 @@
 # Total Contributions - Mauritania
 
-Generated: 2026-10-18T00:57:34.752Z
+Generated: 2026-10-18T02:38:46.748Z
 
 Users: 289
 
@@ -12,8 +12,8 @@ Users: 289
 | 4 | [LeminEly](https://github.com/LeminEly) | Lemin |  SupNum |  | Mauritania | 8408 |
 | 5 | [BechirAhmed](https://github.com/BechirAhmed) | Bechir Ahmed |  |  | Nouakchott, Mauritania | 4704 |
 | 6 | [mohameden19961](https://github.com/mohameden19961) | abdy mohameden | SUPNUM - Institut Supérieur du Numérique |  | Nouakchott, Mauritania | 4093 |
-| 7 | [beillahi](https://github.com/beillahi) | Sidi Mohamed Beillahi |  |  | Mauritania | 3469 |
-| 8 | [myeljoud](https://github.com/myeljoud) | Mohamed Yahye El Joud | Next Technology | myeljoud | Nouakchott, Mauritania | 3359 |
+| 7 | [myeljoud](https://github.com/myeljoud) | Mohamed Yahye El Joud | Next Technology | myeljoud | Nouakchott, Mauritania | 3477 |
+| 8 | [beillahi](https://github.com/beillahi) | Sidi Mohamed Beillahi |  |  | Mauritania | 3469 |
 | 9 | [OussamaTeyib](https://github.com/OussamaTeyib) | Oussama Teyib |  |  | Nouakchott, Mauritania | 2749 |
 | 10 | [NejmiSidaty](https://github.com/NejmiSidaty) | Mohamed Jiyed |  |  | Nouakchott, Mauritania | 2528 |
 | 11 | [oumarhadrami](https://github.com/oumarhadrami) | Mohamed EL Hadramy Oumar |  | mohamed_hadramy | Nouakchott, Mauritania | 2382 |
@@ -24,5 +24,5 @@ Users: 289
 | 16 | [Mohamed-Beirouk](https://github.com/Mohamed-Beirouk) | Mohamed Mohamed Beirouk | Student at iscae |  | Mauritania | 1534 |
 | 17 | [cheikh-sadbouh](https://github.com/cheikh-sadbouh) | J-developer |  |  | Mauritania | 1353 |
 | 18 | [LhacenMed](https://github.com/LhacenMed) | Lhacen Med |  |  | Nouakchott, Mauritania | 1332 |
-| 19 | [MedAb94](https://github.com/MedAb94) | Medab Vall | Joujou Services  |  | Nouakchott | 1015 |
+| 19 | [MedAb94](https://github.com/MedAb94) | Medab Vall | Joujou Services  |  | Nouakchott | 1016 |
 | 20 | [aadeina](https://github.com/aadeina) | Amar |  |  | Mauritania | 856 |

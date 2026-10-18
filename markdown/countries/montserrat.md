@@ -15,7 +15,7 @@ Indexed users: 291
 | 1 | [dotslashderek](https://github.com/dotslashderek) | Derek Thompson | Plymouth, MI | 14,559 |
 | 2 | [BuckinghamIO](https://github.com/BuckinghamIO) | Sam Buckingham | Plymouth, Devon | 8,384 |
 | 3 | [flaviocfneto](https://github.com/flaviocfneto) | Flávio Neto | Plymouth | 6,934 |
-| 4 | [dvmrry](https://github.com/dvmrry) | Dave Murray | Plymouth Meeting, Pennsylvania | 4,065 |
+| 4 | [dvmrry](https://github.com/dvmrry) | Dave Murray | Plymouth Meeting, Pennsylvania | 4,070 |
 | 5 | [Aloogy](https://github.com/Aloogy) | Alex Cottenham | Plymouth, GB. | 4,033 |
 | 6 | [albemontors](https://github.com/albemontors) | Alberto Montorsi | Plymouth | 3,853 |
 | 7 | [binarytide](https://github.com/binarytide) | John McAndrews | Plymouth, Ma | 3,410 |
@@ -27,7 +27,7 @@ Indexed users: 291
 | 13 | [AnshLaw](https://github.com/AnshLaw) | Ansh R. Suryavanshi | Plymouth, MI | 1,627 |
 | 14 | [pillingworth](https://github.com/pillingworth) | Paul Illingworth | Plymouth, Devon | 1,627 |
 | 15 | [bostonmyk](https://github.com/bostonmyk) | Mike Mykytyn | Plymouth | 1,419 |
-| 16 | [418error](https://github.com/418error) | Andy 'Channie' Chan | Plymouth | 1,131 |
+| 16 | [418error](https://github.com/418error) | Andy 'Channie' Chan | Plymouth | 1,128 |
 | 17 | [samuel-duffield1](https://github.com/samuel-duffield1) | Sam Duffield | Plymouth | 1,064 |
 | 18 | [robertjwilson](https://github.com/robertjwilson) | Robert Wilson | Plymouth | 1,012 |
 | 19 | [edgood1](https://github.com/edgood1) | Eddie Goodwin | Plymouth, MA | 987 |
@@ -37,7 +37,7 @@ Indexed users: 291
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [dvmrry](https://github.com/dvmrry) | Dave Murray | Plymouth Meeting, Pennsylvania | 4,065 |
+| 1 | [dvmrry](https://github.com/dvmrry) | Dave Murray | Plymouth Meeting, Pennsylvania | 4,070 |
 | 2 | [albemontors](https://github.com/albemontors) | Alberto Montorsi | Plymouth | 3,853 |
 | 3 | [bostonmyk](https://github.com/bostonmyk) | Mike Mykytyn | Plymouth | 1,419 |
 | 4 | [robertjwilson](https://github.com/robertjwilson) | Robert Wilson | Plymouth | 1,012 |
@@ -83,4 +83,4 @@ Indexed users: 291
 | 19 | [BeresIvan](https://github.com/BeresIvan) |  | Plymouth, MN | 20 |
 | 20 | [binarytide](https://github.com/binarytide) | John McAndrews | Plymouth, Ma | 20 |
 
-Generated: 2026-10-18T01:02:53.294Z
+Generated: 2026-10-18T02:41:40.010Z

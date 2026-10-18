@@ -14,7 +14,7 @@ Indexed users: 888
 |---:|---|---|---|---:|
 | 1 | [zenalex](https://github.com/zenalex) | Aleksei | Budva, Montenegro | 16,123 |
 | 2 | [Hatshepsuth](https://github.com/Hatshepsuth) | Katja | Montenegro | 15,545 |
-| 3 | [mashkovd](https://github.com/mashkovd) | mashkovd | Podgorica | 14,549 |
+| 3 | [mashkovd](https://github.com/mashkovd) | mashkovd | Podgorica | 15,498 |
 | 4 | [alekspetrov](https://github.com/alekspetrov) | Aleks Petrov | Montenegro, Podgorica | 13,619 |
 | 5 | [sondreb](https://github.com/sondreb) | SondreB | Bar, Montenegro | 7,259 |
 | 6 | [McSim85](https://github.com/McSim85) | Max Kramarenko | Montenegro | 6,704 |
@@ -37,7 +37,7 @@ Indexed users: 888
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [mashkovd](https://github.com/mashkovd) | mashkovd | Podgorica | 14,549 |
+| 1 | [mashkovd](https://github.com/mashkovd) | mashkovd | Podgorica | 15,498 |
 | 2 | [alekspetrov](https://github.com/alekspetrov) | Aleks Petrov | Montenegro, Podgorica | 10,712 |
 | 3 | [sondreb](https://github.com/sondreb) | SondreB | Bar, Montenegro | 7,023 |
 | 4 | [recursion128](https://github.com/recursion128) | DDDDOGE | Crna Gora | 4,869 |
@@ -83,4 +83,4 @@ Indexed users: 888
 | 19 | [vovkasm](https://github.com/vovkasm) | Vladimir Timofeev | Budva, Montenegro | 99 |
 | 20 | [marcoroganovic](https://github.com/marcoroganovic) | Marko Roganovic | Montenegro | 89 |
 
-Generated: 2026-10-18T01:02:49.566Z
+Generated: 2026-10-18T02:40:27.962Z

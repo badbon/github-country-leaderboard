@@ -1,6 +1,6 @@
 # Total Contributions - New Zealand
 
-Generated: 2026-10-18T01:06:22.206Z
+Generated: 2026-10-18T02:44:33.184Z
 
 Users: 12149
 

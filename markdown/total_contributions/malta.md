@@ -1,6 +1,6 @@
 # Total Contributions - Malta
 
-Generated: 2026-10-18T00:57:26.064Z
+Generated: 2026-10-18T02:38:38.036Z
 
 Users: 1224
 
@@ -18,11 +18,11 @@ Users: 1224
 | 10 | [Sml995](https://github.com/Sml995) | Samuel HASSID | @Supplement-Bacon  |  | Sliema, Malta | 9224 |
 | 11 | [polp6880](https://github.com/polp6880) | Paul Portelli | Paul Portelli | polp6880 | Malta | 9022 |
 | 12 | [mauroziux](https://github.com/mauroziux) | Mauricio Suárez vega |  |  | malta | 8669 |
-| 13 | [angusgee](https://github.com/angusgee) | Angus Girvan |  |  | Malta | 8219 |
+| 13 | [angusgee](https://github.com/angusgee) | Angus Girvan |  |  | Malta | 8517 |
 | 14 | [KimSpecht](https://github.com/KimSpecht) | Kim Pedersen |  |  | Malta | 7618 |
 | 15 | [m2ximus](https://github.com/m2ximus) | max—os |  |  | Malta | 7610 |
 | 16 | [iko2000](https://github.com/iko2000) | Iviko Shengelia | 88Bit Limited |  | Malta | 7210 |
-| 17 | [ksazid](https://github.com/ksazid) | Sazid |  |  | Malta | 6244 |
-| 18 | [mzaharenkov](https://github.com/mzaharenkov) | Mikhail Zakharenkov | HMLabs |  | Malta | 5805 |
-| 19 | [seanellul](https://github.com/seanellul) | Sean Ellul |  |  | Malta | 5628 |
-| 20 | [kevinfarrugia](https://github.com/kevinfarrugia) | Kevin Farrugia | @SpiffingIO  |  | Malta | 5544 |
+| 17 | [DarthTigerson](https://github.com/DarthTigerson) | Thomas Bonnici |  |  | Malta | 6775 |
+| 18 | [ksazid](https://github.com/ksazid) | Sazid |  |  | Malta | 6244 |
+| 19 | [seanellul](https://github.com/seanellul) | Sean Ellul |  |  | Malta | 5955 |
+| 20 | [mzaharenkov](https://github.com/mzaharenkov) | Mikhail Zakharenkov | HMLabs |  | Malta | 5805 |

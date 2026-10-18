@@ -1,13 +1,13 @@
 # Total Contributions - Niger
 
-Generated: 2026-10-18T01:08:15.003Z
+Generated: 2026-10-18T02:44:58.095Z
 
 Users: 176
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [Yacine-ai-tech](https://github.com/Yacine-ai-tech) | Seybou Siddo Yacine |  |  | Niamey, Niger | 13694 |
-| 2 | [jamilbachard](https://github.com/jamilbachard) | Bachard Jamil |  | jamilbachard | Niger | 3332 |
+| 2 | [jamilbachard](https://github.com/jamilbachard) | Bachard Jamil |  | jamilbachard | Niger | 3348 |
 | 3 | [feyroozecode](https://github.com/feyroozecode) | Ibrahim Ahmad (feyroozecode) |  | feyroozcode | Niger | 2987 |
 | 4 | [docteur-charles](https://github.com/docteur-charles) | MOUSSA DAN SAAADOU Abdourahamane | SAADAW SYSTEMS |  | Niamey, Niger | 2153 |
 | 5 | [akaletekoffilevis](https://github.com/akaletekoffilevis) | akaletekoffilevis | None |  | Niger/Niamey | 1829 |
@@ -15,8 +15,8 @@ Users: 176
 | 7 | [Yacoubou-seidou](https://github.com/Yacoubou-seidou) | Yacos | Available for hire |  | Niamey/Niger | 1170 |
 | 8 | [kodjodevf](https://github.com/kodjodevf) | Moustapha Kodjo Amadou |  | kodjodevf | Niamey,Niger | 1149 |
 | 9 | [FadelMamar](https://github.com/FadelMamar) | Fadel |  |  | Niger | 1063 |
-| 10 | [5mamane](https://github.com/5mamane) | Mamane I. |  |  | Niamey | 951 |
-| 11 | [Transega](https://github.com/Transega) | Collins Asega Amadala  | @omdena | asega_collins | Niamey Niger | 949 |
+| 10 | [5mamane](https://github.com/5mamane) | Mamane I. |  |  | Niamey | 955 |
+| 11 | [Transega](https://github.com/Transega) | Collins Asega Amadala  | @omdena | asega_collins | Niamey Niger | 941 |
 | 12 | [Godisouleymane](https://github.com/Godisouleymane) | Souleymane Sabiou | @Sakona-Ne | godi_Souleymane | Niger | 779 |
 | 13 | [oxy227](https://github.com/oxy227) | Ayouba Issoufou |  |  | Niamey/Niger | 743 |
 | 14 | [Abdoulaye-Ly](https://github.com/Abdoulaye-Ly) | Abdoulaye Ousmane Ly |  | doudou__ly | Niamey, Niger | 719 |

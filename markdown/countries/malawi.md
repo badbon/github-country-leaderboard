@@ -22,7 +22,7 @@ Indexed users: 901
 | 8 | [mcleanka](https://github.com/mcleanka) | Mclean Kasambala | Malawi, Lilongwe | 5,434 |
 | 9 | [M2KDevelopments](https://github.com/M2KDevelopments) | M2K Dev | Malawi | 4,940 |
 | 10 | [hopekali04](https://github.com/hopekali04) | Hope Kalitera | Blantyre, Malawi | 4,779 |
-| 11 | [ColonelBlimp](https://github.com/ColonelBlimp) | ColonelBlimp | Mzuzu, Malawi | 4,723 |
+| 11 | [ColonelBlimp](https://github.com/ColonelBlimp) | ColonelBlimp | Mzuzu, Malawi | 4,733 |
 | 12 | [prow57](https://github.com/prow57) | Immanuel Bester | Malawi | 4,176 |
 | 13 | [dominickasanga](https://github.com/dominickasanga) | Dominic Kasanga | Mzuzu, Malawi | 4,053 |
 | 14 | [Frank5ive](https://github.com/Frank5ive) | Frank Gondwe | Malawi | 3,614 |
@@ -37,7 +37,7 @@ Indexed users: 901
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [ColonelBlimp](https://github.com/ColonelBlimp) | ColonelBlimp | Mzuzu, Malawi | 4,723 |
+| 1 | [ColonelBlimp](https://github.com/ColonelBlimp) | ColonelBlimp | Mzuzu, Malawi | 4,733 |
 | 2 | [Iankulani](https://github.com/Iankulani) | Ian Carter Kulani | Mzimba, Malawi | 1,754 |
 | 3 | [zikani03](https://github.com/zikani03) | Zikani Nyirenda Mwase | Lilongwe, Malawi | 1,615 |
 | 4 | [edisontaimu9-ui](https://github.com/edisontaimu9-ui) | Edison Taimu  | Malawi  | 1,281 |
@@ -56,7 +56,7 @@ Indexed users: 901
 | 17 | [wotcheni21](https://github.com/wotcheni21) | Joseph Witman Wotcheni | Malawi | 477 |
 | 18 | [codaMW](https://github.com/codaMW) | codaMW | Lilongwe, Malawi | 476 |
 | 19 | [Tmkandawire](https://github.com/Tmkandawire) | Tawanda Mkandawire | Malawi | 433 |
-| 20 | [uniquedj95](https://github.com/uniquedj95) | Daniel Justin | Lilongwe, Malawi | 406 |
+| 20 | [ipi19](https://github.com/ipi19) | Ipyana Mwakikunga | Malawi  | 399 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 901
 | 19 | [RodgerCodes](https://github.com/RodgerCodes) | Rodger Kumwanje | Malawi | 130 |
 | 20 | [g1ftmkyelu](https://github.com/g1ftmkyelu) | codemaestro🚀 | 🇲🇼 Malawi | 129 |
 
-Generated: 2026-10-18T00:55:34.836Z
+Generated: 2026-10-18T02:36:54.359Z

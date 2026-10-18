@@ -1,6 +1,6 @@
 # Public Contributions - Palestine
 
-Generated: 2026-10-18T01:11:58.232Z
+Generated: 2026-10-18T02:49:30.020Z
 
 Users: 2197
 
@@ -11,7 +11,7 @@ Users: 2197
 | 3 | [ibrahimhajjaj](https://github.com/ibrahimhajjaj) | Ibrahim Hajjaj | Verdelic |  | Palestine | 2477 |
 | 4 | [KhaledAwashreh](https://github.com/KhaledAwashreh) | Khaled Awashreh | @Restaurant365 |  |  Palestine - Ramallah | 1693 |
 | 5 | [Ayaalmadhon2004](https://github.com/Ayaalmadhon2004) | Aya almadhon |  |  | Palestine | 1621 |
-| 6 | [Tojan-Naiem](https://github.com/Tojan-Naiem) | Tojan |  |  | Palestine | 1562 |
+| 6 | [Tojan-Naiem](https://github.com/Tojan-Naiem) | Tojan |  |  | Palestine | 1545 |
 | 7 | [darxx03eh](https://github.com/darxx03eh) | Mahmoud Darawsheh |  |  | Nablus, Palestine | 1515 |
 | 8 | [Maryam-Skaik](https://github.com/Maryam-Skaik) | Maryam Skaik | IUG |  | Gaza, Palestine | 1436 |
 | 9 | [AlaaArmoush](https://github.com/AlaaArmoush) | Alaa Armoush |  |  | Nablus, Palestine | 1030 |

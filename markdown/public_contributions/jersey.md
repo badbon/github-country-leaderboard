@@ -1,6 +1,6 @@
 # Public Contributions - Jersey
 
-Generated: 2026-10-18T00:45:48.551Z
+Generated: 2026-10-18T02:27:41.895Z
 
 Users: 139
 
@@ -21,8 +21,8 @@ Users: 139
 | 13 | [ndestates](https://github.com/ndestates) | Nick Dodsley | ND Estates | nickdodsley | Jersey | 174 |
 | 14 | [morrisjam](https://github.com/morrisjam) | James Morris |  |  | Jersey | 152 |
 | 15 | [devdanio](https://github.com/devdanio) | Dan | DevDan | DevDanIO | Jersey | 139 |
-| 16 | [alexleach](https://github.com/alexleach) | ALB.Leach | ITC Bio |  | Jersey, UK | 132 |
-| 17 | [Adrian609](https://github.com/Adrian609) | Adrian |  |  | Jersey | 131 |
+| 16 | [Adrian609](https://github.com/Adrian609) | Adrian |  |  | Jersey | 131 |
+| 17 | [alexleach](https://github.com/alexleach) | ALB.Leach | ITC Bio |  | Jersey, UK | 130 |
 | 18 | [shiaoligreen](https://github.com/shiaoligreen) | Shiao-li Green |  | shiao_li | Jersey, Channel Islands | 118 |
 | 19 | [JoshCollis](https://github.com/JoshCollis) | Josh Collis | Newtel Limited |  | Jersey | 107 |
 | 20 | [jde](https://github.com/jde) | David Erwin | RollDeep | daviderwin | New [York, Jersey] | 91 |

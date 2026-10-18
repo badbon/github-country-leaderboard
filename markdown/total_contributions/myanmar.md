@@ -1,12 +1,12 @@
 # Total Contributions - Myanmar
 
-Generated: 2026-10-18T01:04:08.857Z
+Generated: 2026-10-18T02:41:49.504Z
 
 Users: 2056
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [YellMinNaing-micro](https://github.com/YellMinNaing-micro) | Yell Min Naing | @Efficient-Soft |  | Yangon, Myanmar | 10244 |
+| 1 | [YellMinNaing-micro](https://github.com/YellMinNaing-micro) | Yell Min Naing | @Efficient-Soft |  | Yangon, Myanmar | 10485 |
 | 2 | [peterlianpi](https://github.com/peterlianpi) | Peter |  | peterlianpi | Myanmar | 8676 |
 | 3 | [MoeThetKhine](https://github.com/MoeThetKhine) | Moe Thet Khine |  |  | Yangon,Myanmar | 7085 |
 | 4 | [nyeinkokoaung404](https://github.com/nyeinkokoaung404) | i AM 404 |  |  | Myanmar | 6481 |
@@ -22,7 +22,7 @@ Users: 2056
 | 14 | [myatminag](https://github.com/myatminag) | Myat Min Aung | AYA Bank (Innovation Labs) |  | Yangon, Myanmar | 3857 |
 | 15 | [Hein-HtetSan](https://github.com/Hein-HtetSan) | dev@hnhts | Freelance |  | Myanmar, Yangon | 3744 |
 | 16 | [PyaeSoneAungRgn](https://github.com/PyaeSoneAungRgn) | Pyae Sone Aung |  |  | Yangon, Myanmar | 3646 |
-| 17 | [HanZawNyein](https://github.com/HanZawNyein) | Agga | IdeaCode Academy |  | Myanmar | 3422 |
-| 18 | [KHUN-NOON](https://github.com/KHUN-NOON) |  |  |  | Taunggyi, Myanmar | 3409 |
-| 19 | [YeMyoAung](https://github.com/YeMyoAung) | Ye Myo Aung | Klink.cloud | YeMyoAung994 | Myanmar/Mandalay | 3399 |
-| 20 | [MinThutaSawNaing](https://github.com/MinThutaSawNaing) | Min Thuta Saw Naing Eric | Myanmar Golden Rock International |  | Myanmar/ Singapore | 3316 |
+| 17 | [htetaunglin-coder](https://github.com/htetaunglin-coder) | Htet Aung Lin (Kelvin) |  | htetaunglin_cdr | Myanmar, Yangon | 3565 |
+| 18 | [HanZawNyein](https://github.com/HanZawNyein) | Agga | IdeaCode Academy |  | Myanmar | 3422 |
+| 19 | [KHUN-NOON](https://github.com/KHUN-NOON) |  |  |  | Taunggyi, Myanmar | 3409 |
+| 20 | [YeMyoAung](https://github.com/YeMyoAung) | Ye Myo Aung | Klink.cloud | YeMyoAung994 | Myanmar/Mandalay | 3399 |

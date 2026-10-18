@@ -24,14 +24,14 @@ Indexed users: 1,224
 | 10 | [Sml995](https://github.com/Sml995) | Samuel HASSID | Sliema, Malta | 9,224 |
 | 11 | [polp6880](https://github.com/polp6880) | Paul Portelli | Malta | 9,022 |
 | 12 | [mauroziux](https://github.com/mauroziux) | Mauricio Suárez vega | malta | 8,669 |
-| 13 | [angusgee](https://github.com/angusgee) | Angus Girvan | Malta | 8,219 |
+| 13 | [angusgee](https://github.com/angusgee) | Angus Girvan | Malta | 8,517 |
 | 14 | [KimSpecht](https://github.com/KimSpecht) | Kim Pedersen | Malta | 7,618 |
 | 15 | [m2ximus](https://github.com/m2ximus) | max—os | Malta | 7,610 |
 | 16 | [iko2000](https://github.com/iko2000) | Iviko Shengelia | Malta | 7,210 |
-| 17 | [ksazid](https://github.com/ksazid) | Sazid | Malta | 6,244 |
-| 18 | [mzaharenkov](https://github.com/mzaharenkov) | Mikhail Zakharenkov | Malta | 5,805 |
-| 19 | [seanellul](https://github.com/seanellul) | Sean Ellul | Malta | 5,628 |
-| 20 | [kevinfarrugia](https://github.com/kevinfarrugia) | Kevin Farrugia | Malta | 5,544 |
+| 17 | [DarthTigerson](https://github.com/DarthTigerson) | Thomas Bonnici | Malta | 6,775 |
+| 18 | [ksazid](https://github.com/ksazid) | Sazid | Malta | 6,244 |
+| 19 | [seanellul](https://github.com/seanellul) | Sean Ellul | Malta | 5,955 |
+| 20 | [mzaharenkov](https://github.com/mzaharenkov) | Mikhail Zakharenkov | Malta | 5,805 |
 
 ## Public Contributions
 
@@ -68,7 +68,7 @@ Indexed users: 1,224
 | 4 | [ethernity-cloud](https://github.com/ethernity-cloud) | Ethernity CLOUD | St. Julians, Malta | 524 |
 | 5 | [xiaocong](https://github.com/xiaocong) | xiaocong | Malta | 475 |
 | 6 | [camilamacedo86](https://github.com/camilamacedo86) | Camila Macedo | Malta | 441 |
-| 7 | [mandyfarrugia](https://github.com/mandyfarrugia) | Mandy Farrugia | Malta | 370 |
+| 7 | [mandyfarrugia](https://github.com/mandyfarrugia) | Mandy Farrugia | Malta | 378 |
 | 8 | [mbj](https://github.com/mbj) | Markus Schirp | Malta | 293 |
 | 9 | [zeelog](https://github.com/zeelog) |  | Malta | 259 |
 | 10 | [jirevwe](https://github.com/jirevwe) | Raymond Tukpe | Luqa, Malta | 243 |
@@ -83,4 +83,4 @@ Indexed users: 1,224
 | 19 | [mattcg](https://github.com/mattcg) | Matthew Caruana Galizia | Malta | 126 |
 | 20 | [CM2Walki](https://github.com/CM2Walki) | Walki | Malta | 118 |
 
-Generated: 2026-10-18T00:57:26.064Z
+Generated: 2026-10-18T02:38:38.036Z

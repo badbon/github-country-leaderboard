@@ -1,6 +1,6 @@
 # Public Contributions - Myanmar
 
-Generated: 2026-10-18T01:04:08.857Z
+Generated: 2026-10-18T02:41:49.504Z
 
 Users: 2056
 
@@ -12,7 +12,7 @@ Users: 2056
 | 4 | [peterlianpi](https://github.com/peterlianpi) | Peter |  | peterlianpi | Myanmar | 2590 |
 | 5 | [ninjastrikers](https://github.com/ninjastrikers) | NinjaStrikers | The NINJA STRIKERS | Ninjastrikers | Myanmar | 1470 |
 | 6 | [Oungseik](https://github.com/Oungseik) |  | Crossworks Myanmar |  | Mawlamyine, Mon State, Myanmar | 1429 |
-| 7 | [YellMinNaing-micro](https://github.com/YellMinNaing-micro) | Yell Min Naing | @Efficient-Soft |  | Yangon, Myanmar | 1400 |
+| 7 | [YellMinNaing-micro](https://github.com/YellMinNaing-micro) | Yell Min Naing | @Efficient-Soft |  | Yangon, Myanmar | 1397 |
 | 8 | [MoeThetKhine](https://github.com/MoeThetKhine) | Moe Thet Khine |  |  | Yangon,Myanmar | 1359 |
 | 9 | [sannlynnhtun-coding](https://github.com/sannlynnhtun-coding) | Sann Lynn Htun | ACE Data Systems | burma_collin | Yangon, Myanmar | 1268 |
 | 10 | [yoonpyae](https://github.com/yoonpyae) | Yoon Pyae Eain  |  |  | Yangon, Myanmar | 1240 |
@@ -25,4 +25,4 @@ Users: 2056
 | 17 | [mrmyothet](https://github.com/mrmyothet) | MyoThet | @solidplm  |  | Yangon, Myanmar | 1030 |
 | 18 | [TaoMonLae](https://github.com/TaoMonLae) |  |  |  | Myanmar | 1017 |
 | 19 | [agrogers](https://github.com/agrogers) | Andrew Rogers |  |  | Yangon, Myanmar | 1010 |
-| 20 | [phothinmg](https://github.com/phothinmg) | Pho Thin Maung |  |  | Myanmar | 1006 |
+| 20 | [phothinmg](https://github.com/phothinmg) | Pho Thin Maung |  |  | Myanmar | 1007 |

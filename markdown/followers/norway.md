@@ -1,6 +1,6 @@
 # Followers - Norway
 
-Generated: 2026-10-18T01:09:27.715Z
+Generated: 2026-10-18T02:46:08.140Z
 
 Users: 19627
 
@@ -17,7 +17,7 @@ Users: 19627
 | 9 | [oleavr](https://github.com/oleavr) | Ole André Vadla Ravnås | @nowsecure | oleavr | Stavanger, Norway | 1956 |
 | 10 | [ali123321123](https://github.com/ali123321123) | MHD Ali Zedan | Netcompany |  | Oslo | 1791 |
 | 11 | [balazsorban44](https://github.com/balazsorban44) | Balázs Orbán | @Unite-AS | balazsorban44 | Oslo, Norway | 1785 |
-| 12 | [AmirhosseinHonardoust](https://github.com/AmirhosseinHonardoust) | Amir |  | amirhonardoust | Norway | 1669 |
+| 12 | [AmirhosseinHonardoust](https://github.com/AmirhosseinHonardoust) | Amir |  | amirhonardoust | Norway | 1701 |
 | 13 | [raphw](https://github.com/raphw) | Rafael Winterhalter | Scienta | rafaelcodes | Oslo, Norway | 1638 |
 | 14 | [asmvik](https://github.com/asmvik) | Åsmund Vikane |  |  | Stavanger, Norway | 1633 |
 | 15 | [Flangvik](https://github.com/Flangvik) | Melvin L | TrustedSec | Flangvik | Norway | 1446 |

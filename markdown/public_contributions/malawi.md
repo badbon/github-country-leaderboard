@@ -1,12 +1,12 @@
 # Public Contributions - Malawi
 
-Generated: 2026-10-18T00:55:34.836Z
+Generated: 2026-10-18T02:36:54.359Z
 
 Users: 901
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [ColonelBlimp](https://github.com/ColonelBlimp) | ColonelBlimp |  |  | Mzuzu, Malawi | 4723 |
+| 1 | [ColonelBlimp](https://github.com/ColonelBlimp) | ColonelBlimp |  |  | Mzuzu, Malawi | 4733 |
 | 2 | [Iankulani](https://github.com/Iankulani) | Ian Carter Kulani | @Accurate-Cyber-Defense ☠️🏴‍☠️ | Iankulani | Mzimba, Malawi | 1754 |
 | 3 | [zikani03](https://github.com/zikani03) | Zikani Nyirenda Mwase | @nndi-tech | zikani03 | Lilongwe, Malawi | 1615 |
 | 4 | [edisontaimu9-ui](https://github.com/edisontaimu9-ui) | Edison Taimu  | Bata All Nutrition  |  | Malawi  | 1281 |
@@ -25,4 +25,4 @@ Users: 901
 | 17 | [wotcheni21](https://github.com/wotcheni21) | Joseph Witman Wotcheni |  |  | Malawi | 477 |
 | 18 | [codaMW](https://github.com/codaMW) | codaMW | BitDevs Malawi | codaMW | Lilongwe, Malawi | 476 |
 | 19 | [Tmkandawire](https://github.com/Tmkandawire) | Tawanda Mkandawire |  |  | Malawi | 433 |
-| 20 | [uniquedj95](https://github.com/uniquedj95) | Daniel Justin | World Bank Group | uniquedj95 | Lilongwe, Malawi | 406 |
+| 20 | [ipi19](https://github.com/ipi19) | Ipyana Mwakikunga | Ipi |  | Malawi  | 399 |

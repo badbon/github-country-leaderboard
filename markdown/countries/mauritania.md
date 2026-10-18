@@ -18,8 +18,8 @@ Indexed users: 289
 | 4 | [LeminEly](https://github.com/LeminEly) | Lemin | Mauritania | 8,408 |
 | 5 | [BechirAhmed](https://github.com/BechirAhmed) | Bechir Ahmed | Nouakchott, Mauritania | 4,704 |
 | 6 | [mohameden19961](https://github.com/mohameden19961) | abdy mohameden | Nouakchott, Mauritania | 4,093 |
-| 7 | [beillahi](https://github.com/beillahi) | Sidi Mohamed Beillahi | Mauritania | 3,469 |
-| 8 | [myeljoud](https://github.com/myeljoud) | Mohamed Yahye El Joud | Nouakchott, Mauritania | 3,359 |
+| 7 | [myeljoud](https://github.com/myeljoud) | Mohamed Yahye El Joud | Nouakchott, Mauritania | 3,477 |
+| 8 | [beillahi](https://github.com/beillahi) | Sidi Mohamed Beillahi | Mauritania | 3,469 |
 | 9 | [OussamaTeyib](https://github.com/OussamaTeyib) | Oussama Teyib | Nouakchott, Mauritania | 2,749 |
 | 10 | [NejmiSidaty](https://github.com/NejmiSidaty) | Mohamed Jiyed | Nouakchott, Mauritania | 2,528 |
 | 11 | [oumarhadrami](https://github.com/oumarhadrami) | Mohamed EL Hadramy Oumar | Nouakchott, Mauritania | 2,382 |
@@ -30,7 +30,7 @@ Indexed users: 289
 | 16 | [Mohamed-Beirouk](https://github.com/Mohamed-Beirouk) | Mohamed Mohamed Beirouk | Mauritania | 1,534 |
 | 17 | [cheikh-sadbouh](https://github.com/cheikh-sadbouh) | J-developer | Mauritania | 1,353 |
 | 18 | [LhacenMed](https://github.com/LhacenMed) | Lhacen Med | Nouakchott, Mauritania | 1,332 |
-| 19 | [MedAb94](https://github.com/MedAb94) | Medab Vall | Nouakchott | 1,015 |
+| 19 | [MedAb94](https://github.com/MedAb94) | Medab Vall | Nouakchott | 1,016 |
 | 20 | [aadeina](https://github.com/aadeina) | Amar | Mauritania | 856 |
 
 ## Public Contributions
@@ -83,4 +83,4 @@ Indexed users: 289
 | 19 | [mbareck7](https://github.com/mbareck7) | mbar3ck7 | Mauritania, Nouakchott | 25 |
 | 20 | [rajelmn](https://github.com/rajelmn) | ra_mn | mauritania | 24 |
 
-Generated: 2026-10-18T00:57:34.752Z
+Generated: 2026-10-18T02:38:46.748Z

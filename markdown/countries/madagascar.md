@@ -49,7 +49,7 @@ Indexed users: 1,904
 | 10 | [Mathieu-bot](https://github.com/Mathieu-bot) | Tafita Mathieu | Madagascar | 2,049 |
 | 11 | [lorick-tsarazaka](https://github.com/lorick-tsarazaka) | Lorick TSARAZAKA | Madagascar | 1,947 |
 | 12 | [Ismael148](https://github.com/Ismael148) | Zo Lalaina Ismael RAJAOHARIMANANA | Antananarivo | 1,815 |
-| 13 | [RaJharit77](https://github.com/RaJharit77) | Rajoharitiana Ainasoa Raharison | Antananarivo | 1,738 |
+| 13 | [RaJharit77](https://github.com/RaJharit77) | Rajoharitiana Ainasoa Raharison | Antananarivo | 1,764 |
 | 14 | [Emii-lia](https://github.com/Emii-lia) | Fiaro Miangaly | Madagascar | 1,706 |
 | 15 | [ChristianMDG](https://github.com/ChristianMDG) | Christian RAVELOJAONA | Antananarivo Madagascar | 1,637 |
 | 16 | [aina-lang](https://github.com/aina-lang) | RAFANDEFERANA MAMINIAINA MERCIA | madagascar | 1,589 |
@@ -83,4 +83,4 @@ Indexed users: 1,904
 | 19 | [tokyramarozaka](https://github.com/tokyramarozaka) | Tokimahery | Madagascar | 143 |
 | 20 | [luckasRanarison](https://github.com/luckasRanarison) | Luckas | Antananarivo, Madagascar | 140 |
 
-Generated: 2026-10-18T00:54:51.522Z
+Generated: 2026-10-18T02:36:29.070Z

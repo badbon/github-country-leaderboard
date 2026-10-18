@@ -14,7 +14,7 @@ Indexed users: 488
 |---:|---|---|---|---:|
 | 1 | [eshe-huli](https://github.com/eshe-huli) | Ben G. Seydou Ouattara | Abidjan, Ivory Coast | 10,147 |
 | 2 | [adrielzimbril](https://github.com/adrielzimbril) | Adriel Zimbril | Abidjan, Ivory Coast | 8,651 |
-| 3 | [davtechci2](https://github.com/davtechci2) | ADZASU KOFFI DAVID | Côte d'ivoire, Abidjan | 8,438 |
+| 3 | [davtechci2](https://github.com/davtechci2) | ADZASU KOFFI DAVID | Côte d'ivoire, Abidjan | 8,614 |
 | 4 | [agazinakou](https://github.com/agazinakou) | Lamine AZINAKOU | Abidjan, Côte d'ivoire | 7,941 |
 | 5 | [baudoliver7](https://github.com/baudoliver7) | Olivier Baudouin OURA | Abidjan, Côte d'Ivoire | 7,578 |
 | 6 | [AlMoustapha01](https://github.com/AlMoustapha01) | Al Moustapha | Cocody, Abidjan, Côte d'Ivoire | 6,303 |
@@ -51,8 +51,8 @@ Indexed users: 488
 | 12 | [DPYTHA](https://github.com/DPYTHA) | Agoua Moua | Ivory Coast | 451 |
 | 13 | [pmkod](https://github.com/pmkod) | Kodossou | Abidjan, Côte d'Ivoire | 391 |
 | 14 | [houphouet](https://github.com/houphouet) | KOUADIO Houphouët | Abidjan, Côte d'Ivoire  | 367 |
-| 15 | [23cyy](https://github.com/23cyy) | Cyrille N'DAH | Côte d'Ivoire | 366 |
-| 16 | [DanielShofela](https://github.com/DanielShofela) | Student | abidjan, Côte d'Ivoire | 366 |
+| 15 | [DanielShofela](https://github.com/DanielShofela) | Student | abidjan, Côte d'Ivoire | 366 |
+| 16 | [23cyy](https://github.com/23cyy) | Cyrille N'DAH | Côte d'Ivoire | 365 |
 | 17 | [lambirou](https://github.com/lambirou) | Roland Edi | Abidjan, Côte d'ivoire | 361 |
 | 18 | [Yaya12085](https://github.com/Yaya12085) | Yaya Mohamed | Côte d'Ivoire, Abidjan | 320 |
 | 19 | [Diby-dev](https://github.com/Diby-dev) | Dan | Côte d'Ivoire, Abidjan | 302 |
@@ -83,4 +83,4 @@ Indexed users: 488
 | 19 | [DevAlves1993](https://github.com/DevAlves1993) | Christian Alves Cyrille Amani | Ivory Coast (Abidjan) | 42 |
 | 20 | [stephsalou](https://github.com/stephsalou) | stephane salou | Abidjan , Côte D'Ivoire | 42 |
 
-Generated: 2026-10-18T00:45:19.646Z
+Generated: 2026-10-18T02:27:28.581Z

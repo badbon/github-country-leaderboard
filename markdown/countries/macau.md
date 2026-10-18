@@ -15,11 +15,11 @@ Indexed users: 439
 | 1 | [K4Lok](https://github.com/K4Lok) | KaLok Sam | Macau | 11,749 |
 | 2 | [spiritLHLS](https://github.com/spiritLHLS) | spiritlhl | Macau | 9,836 |
 | 3 | [vergilsoleyn](https://github.com/vergilsoleyn) |  | Macau | 8,135 |
-| 4 | [Chonwai](https://github.com/Chonwai) | Chonwai Un, Edison | Macau | 7,323 |
-| 5 | [kenischu](https://github.com/kenischu) | Kenis Chu | Macau | 5,968 |
+| 4 | [Chonwai](https://github.com/Chonwai) | Chonwai Un, Edison | Macau | 7,353 |
+| 5 | [kenischu](https://github.com/kenischu) | Kenis Chu | Macau | 6,099 |
 | 6 | [sou350121](https://github.com/sou350121) | KenSou | Macau | 5,527 |
 | 7 | [LunchBox](https://github.com/LunchBox) | Daniel | Macau | 3,509 |
-| 8 | [sfcheung](https://github.com/sfcheung) | Shu Fai Cheung | Macao | 3,341 |
+| 8 | [sfcheung](https://github.com/sfcheung) | Shu Fai Cheung | Macao | 3,351 |
 | 9 | [1595901624](https://github.com/1595901624) | Cloris | Macau | 3,333 |
 | 10 | [MUST-panxiao](https://github.com/MUST-panxiao) | Xiao Pan | Macau | 2,937 |
 | 11 | [7788ken](https://github.com/7788ken) | Mark.pan | Macau,Zhuhai | 2,305 |
@@ -39,7 +39,7 @@ Indexed users: 439
 |---:|---|---|---|---:|
 | 1 | [sou350121](https://github.com/sou350121) | KenSou | Macau | 5,527 |
 | 2 | [spiritLHLS](https://github.com/spiritLHLS) | spiritlhl | Macau | 5,320 |
-| 3 | [sfcheung](https://github.com/sfcheung) | Shu Fai Cheung | Macao | 2,798 |
+| 3 | [sfcheung](https://github.com/sfcheung) | Shu Fai Cheung | Macao | 2,809 |
 | 4 | [mugpeng](https://github.com/mugpeng) | Peng | macao | 2,284 |
 | 5 | [RyanKung](https://github.com/RyanKung) | Elder Ryan | Macau | 2,140 |
 | 6 | [hheei](https://github.com/hheei) | Lo Chon Hei | Macau | 1,757 |
@@ -83,4 +83,4 @@ Indexed users: 439
 | 19 | [Boom5426](https://github.com/Boom5426) | Bo li (李波) | Macau | 68 |
 | 20 | [mugpeng](https://github.com/mugpeng) | Peng | macao | 67 |
 
-Generated: 2026-10-18T00:54:44.552Z
+Generated: 2026-10-18T02:35:46.921Z
