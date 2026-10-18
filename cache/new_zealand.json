@@ -31699,7 +31699,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 10,
+    "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2020-10-27T03:25:33Z"
   },
@@ -31711,7 +31711,7 @@
     "company": "Sandfield",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 33,
+    "privateContributions": 34,
     "publicContributions": 30,
     "createdAt": "2020-02-03T07:38:44Z"
   },
@@ -31782,22 +31782,10 @@
     "location": "New Zealand",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 107,
-    "publicContributions": 149,
+    "followers": 3,
+    "privateContributions": 174,
+    "publicContributions": 145,
     "createdAt": "2020-12-07T22:18:36Z"
-  },
-  {
-    "login": "Hoptilic",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/63001212?s=72&u=e9ae7f5f205514bd3ce02220f3a2f93ab8d3a450&v=4",
-    "location": "New Zealand",
-    "company": "Tide Digital",
-    "twitterUsername": "Hoptilic",
-    "followers": 1,
-    "privateContributions": 265,
-    "publicContributions": 32,
-    "createdAt": "2020-04-01T13:32:46Z"
   },
   {
     "login": "YKTT-REIGN7",
@@ -31843,7 +31831,7 @@
     "company": "Digital Robot",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 207,
+    "privateContributions": 144,
     "publicContributions": 1,
     "createdAt": "2020-05-31T19:11:11Z"
   },
@@ -31867,8 +31855,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 157,
-    "publicContributions": 213,
+    "privateContributions": 251,
+    "publicContributions": 149,
     "createdAt": "2020-04-07T09:26:59Z"
   },
   {
@@ -31879,8 +31867,8 @@
     "company": "",
     "twitterUsername": "Ich_bin_Temi",
     "followers": 41,
-    "privateContributions": 136,
-    "publicContributions": 103,
+    "privateContributions": 37,
+    "publicContributions": 8,
     "createdAt": "2019-12-12T14:41:35Z"
   },
   {
@@ -31890,9 +31878,9 @@
     "location": "Hamilton, New Zealand",
     "company": "University of Waikato",
     "twitterUsername": "someparsa",
-    "followers": 15,
-    "privateContributions": 149,
-    "publicContributions": 58,
+    "followers": 16,
+    "privateContributions": 241,
+    "publicContributions": 71,
     "createdAt": "2019-01-08T16:52:51Z"
   },
   {
@@ -31902,8 +31890,8 @@
     "location": "Hamilton, New Zealand",
     "company": "Gallagher",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 730,
+    "followers": 5,
+    "privateContributions": 942,
     "publicContributions": 0,
     "createdAt": "2019-10-22T23:36:25Z"
   },

@@ -31520,7 +31520,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 11,
     "createdAt": "2022-05-05T08:27:07Z"
   },
   {
@@ -31544,7 +31544,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 73,
+    "publicContributions": 62,
     "createdAt": "2022-04-18T11:09:05Z"
   },
   {
@@ -31560,18 +31560,6 @@
     "createdAt": "2022-06-07T09:33:37Z"
   },
   {
-    "login": "aljabarti84",
-    "name": "Eman",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/107851373?s=72&u=f8359623af5b62213584d42ad20f75932f3ddce0&v=4",
-    "location": "Kuala Lumpor , Malaysia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 2,
-    "createdAt": "2022-06-20T10:25:48Z"
-  },
-  {
     "login": "itsNas",
     "name": "Nasrullah ",
     "avatarUrl": "https://avatars.githubusercontent.com/u/102759013?s=72&u=c21acd440fe0fd31394fea0d7486df57a3d2173b&v=4",
@@ -31580,7 +31568,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 3,
     "createdAt": "2022-03-31T18:11:20Z"
   },
   {
@@ -31604,7 +31592,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 47,
+    "publicContributions": 8,
     "createdAt": "2022-05-31T18:11:33Z"
   },
   {
@@ -31646,13 +31634,13 @@
   {
     "login": "hajullahputra",
     "name": "Hajullah Putra",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/117307321?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/117307321?s=72&u=c0e29b3b64f0e3dbf8768ffe83954946e9c839e3&v=4",
     "location": "Malaysia",
     "company": "Dell Technologies",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 15,
     "createdAt": "2022-11-02T17:55:55Z"
   },
   {
@@ -31662,9 +31650,9 @@
     "location": "Kuala Lumpur, Malaysia",
     "company": "@SEEK-Jobs",
     "twitterUsername": "mustafakmelli",
-    "followers": 1,
-    "privateContributions": 766,
-    "publicContributions": 54,
+    "followers": 2,
+    "privateContributions": 895,
+    "publicContributions": 61,
     "createdAt": "2022-06-21T17:11:34Z"
   },
   {
@@ -31699,7 +31687,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 59,
+    "privateContributions": 43,
     "publicContributions": 15,
     "createdAt": "2022-10-17T04:08:23Z"
   },

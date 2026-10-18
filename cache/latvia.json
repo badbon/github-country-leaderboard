@@ -31388,7 +31388,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2013-08-06T08:02:38Z"
   },
   {
@@ -31398,9 +31398,9 @@
     "location": "Riga",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 1364,
-    "publicContributions": 9,
+    "followers": 8,
+    "privateContributions": 1821,
+    "publicContributions": 5,
     "createdAt": "2013-11-12T21:00:48Z"
   },
   {
@@ -31411,7 +31411,7 @@
     "company": "Evolution Gaming",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 16,
+    "privateContributions": 24,
     "publicContributions": 0,
     "createdAt": "2013-01-13T16:07:30Z"
   },
@@ -31423,7 +31423,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 1876,
+    "privateContributions": 2055,
     "publicContributions": 8,
     "createdAt": "2013-12-27T23:23:40Z"
   },
@@ -31435,8 +31435,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 137,
-    "publicContributions": 5,
+    "privateContributions": 139,
+    "publicContributions": 4,
     "createdAt": "2013-05-29T06:35:47Z"
   },
   {
@@ -31448,7 +31448,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 8,
     "createdAt": "2013-09-24T21:28:45Z"
   },
   {
@@ -31458,9 +31458,9 @@
     "location": "Riga",
     "company": "",
     "twitterUsername": "OskarsPakers",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 282,
+    "publicContributions": 344,
     "createdAt": "2013-01-22T20:25:59Z"
   },
   {
@@ -31472,7 +31472,7 @@
     "twitterUsername": "peteriselksnis",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2013-04-05T11:17:22Z"
   },
   {
@@ -31484,7 +31484,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 16,
     "createdAt": "2013-04-08T20:11:30Z"
   },
   {
@@ -31502,13 +31502,13 @@
   {
     "login": "raivis-kalnins",
     "name": "Raivis Kalnins",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/4364430?s=72&u=240433cb22971ab3b3d6dec6182fd7f3d0d3f983&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4364430?s=72&u=b3f244a003da5885495a565427bc2db8b370f892&v=4",
     "location": "Northampton, UK & Riga, LV / EU",
     "company": "DigitalPulse.click",
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 155,
+    "publicContributions": 443,
     "createdAt": "2013-05-07T11:30:02Z"
   },
   {
@@ -31519,7 +31519,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 3784,
+    "privateContributions": 3444,
     "publicContributions": 17,
     "createdAt": "2013-03-28T08:12:12Z"
   },
@@ -31555,7 +31555,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 95,
+    "privateContributions": 593,
     "publicContributions": 1,
     "createdAt": "2013-03-12T17:05:27Z"
   },
@@ -31568,7 +31568,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 8,
     "createdAt": "2013-09-05T19:48:50Z"
   },
   {
@@ -31578,8 +31578,8 @@
     "location": "Riga",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 1538,
+    "followers": 5,
+    "privateContributions": 1505,
     "publicContributions": 2,
     "createdAt": "2013-07-20T14:58:49Z"
   },
@@ -31592,7 +31592,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 31,
     "createdAt": "2013-01-05T14:01:42Z"
   },
   {
@@ -31603,7 +31603,7 @@
     "company": "Printify",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 97,
+    "privateContributions": 135,
     "publicContributions": 0,
     "createdAt": "2013-05-12T13:04:12Z"
   },
