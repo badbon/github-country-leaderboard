@@ -1,19 +1,19 @@
 # Public Contributions - Saint Lucia
 
-Generated: 2026-10-18T01:17:48.703Z
+Generated: 2026-10-18T02:58:09.338Z
 
 Users: 35
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [leadegroot](https://github.com/leadegroot) | Lea de Groot |  |  | Saint Lucia | 906 |
+| 1 | [leadegroot](https://github.com/leadegroot) | Lea de Groot |  |  | Saint Lucia | 903 |
 | 2 | [k-alphonse](https://github.com/k-alphonse) | Kaitlyn Alphonse | @ec-intl |  | Saint Lucia | 449 |
 | 3 | [cmbengue-ec-intl](https://github.com/cmbengue-ec-intl) | Cheikh Mbengue | @ec-intl @CliMA @utatulc  | combengue | Castries, Saint Lucia | 132 |
 | 4 | [fontius](https://github.com/fontius) |  |  |  | Saint Lucia | 93 |
 | 5 | [wilsonwolf](https://github.com/wilsonwolf) |  |  |  | Castries, Saint Lucia | 67 |
-| 6 | [UVLabs](https://github.com/UVLabs) | Uriahs Victor |  |  | Saint Lucia | 43 |
-| 7 | [johnsBeharry](https://github.com/johnsBeharry) | Johns Beharry | @peakshift  | johnsBeharry | Saint Lucia | 42 |
-| 8 | [PGPillar](https://github.com/PGPillar) | H |  |  | Saint Lucia | 42 |
+| 6 | [johnsBeharry](https://github.com/johnsBeharry) | Johns Beharry | @peakshift  | johnsBeharry | Saint Lucia | 42 |
+| 7 | [PGPillar](https://github.com/PGPillar) | H |  |  | Saint Lucia | 42 |
+| 8 | [UVLabs](https://github.com/UVLabs) | Uriahs Victor |  |  | Saint Lucia | 39 |
 | 9 | [swelanauguste](https://github.com/swelanauguste) | Swelan R. Auguste | kingship |  | Saint Lucia | 18 |
 | 10 | [Azendae-Popo](https://github.com/Azendae-Popo) | Azendae Popo |  |  | Castries, Saint Lucia | 16 |
 | 11 | [Orbtronics-Admin](https://github.com/Orbtronics-Admin) | Orbtronics |  |  | Saint Lucia | 14 |

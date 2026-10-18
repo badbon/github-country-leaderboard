@@ -62,7 +62,7 @@ Indexed users: 61
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [agustingianni](https://github.com/agustingianni) | Agustin Gianni | San Marino | 218 |
+| 1 | [agustingianni](https://github.com/agustingianni) | Agustin Gianni | San Marino | 217 |
 | 2 | [calebnewtonusc](https://github.com/calebnewtonusc) | Caleb Newton | San Marino, CA | 38 |
 | 3 | [nicorsm](https://github.com/nicorsm) | Nicola Giancecchi | San Marino | 36 |
 | 4 | [mcdado](https://github.com/mcdado) | David Gasperoni | San Marino (SMR) <✈️> Madrid, Spain | 33 |
@@ -83,4 +83,4 @@ Indexed users: 61
 | 19 | [deBrian07](https://github.com/deBrian07) | Brian C. | San Marino, CA | 11 |
 | 20 | [Wentianlong](https://github.com/Wentianlong) | Erma O'Conner | 505 ,Gaynelle Locks ,Carleneland ,Texas ,San Marino | 11 |
 
-Generated: 2026-10-18T01:20:20.964Z
+Generated: 2026-10-18T02:59:43.591Z

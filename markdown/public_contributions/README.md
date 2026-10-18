@@ -102,7 +102,7 @@ Published countries: 234
 | Indonesia | 63,291 | [View](./indonesia.md) |
 | Iran | 26,863 | [View](./iran.md) |
 | Iraq | 2,234 | [View](./iraq.md) |
-| Ireland | 19,492 | [View](./ireland.md) |
+| Ireland | 19,495 | [View](./ireland.md) |
 | Isle of Man | 155 | [View](./isle_of_man.md) |
 | Israel | 12,425 | [View](./israel.md) |
 | Ivory Coast | 488 | [View](./ivory_coast.md) |
@@ -174,7 +174,7 @@ Published countries: 234
 | Qatar | 1,071 | [View](./qatar.md) |
 | Republic of the Congo | 298 | [View](./republic_of_the_congo.md) |
 | Réunion | 212 | [View](./reunion.md) |
-| Romania | 14,979 | [View](./romania.md) |
+| Romania | 14,978 | [View](./romania.md) |
 | Rwanda | 3,507 | [View](./rwanda.md) |
 | Saint Barthélemy | 1 | [View](./saint_barthelemy.md) |
 | Saint Helena, Ascension and Tristan da Cunha | 25 | [View](./saint_helena_ascension_and_tristan_da_cunha.md) |
@@ -239,4 +239,4 @@ Published countries: 234
 | Zambia | 1,337 | [View](./zambia.md) |
 | Zimbabwe | 1,656 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-18T02:55:13.988Z
+Generated: 2026-10-18T03:02:14.900Z

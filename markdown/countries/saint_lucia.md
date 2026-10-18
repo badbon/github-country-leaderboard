@@ -12,13 +12,13 @@ Indexed users: 35
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [jarnickae](https://github.com/jarnickae) |  | Castries, Saint Lucia | 7,285 |
+| 1 | [jarnickae](https://github.com/jarnickae) |  | Castries, Saint Lucia | 7,383 |
 | 2 | [wilsonwolf](https://github.com/wilsonwolf) |  | Castries, Saint Lucia | 3,987 |
-| 3 | [jigzstar](https://github.com/jigzstar) | Joakim George | Castries, Saint Lucia | 3,942 |
-| 4 | [UVLabs](https://github.com/UVLabs) | Uriahs Victor | Saint Lucia | 2,078 |
+| 3 | [jigzstar](https://github.com/jigzstar) | Joakim George | Castries, Saint Lucia | 3,950 |
+| 4 | [UVLabs](https://github.com/UVLabs) | Uriahs Victor | Saint Lucia | 2,038 |
 | 5 | [k-alphonse](https://github.com/k-alphonse) | Kaitlyn Alphonse | Saint Lucia | 1,039 |
-| 6 | [leadegroot](https://github.com/leadegroot) | Lea de Groot | Saint Lucia | 1,013 |
-| 7 | [remyfrancis](https://github.com/remyfrancis) | Remy Francis | Saint Lucia | 957 |
+| 6 | [leadegroot](https://github.com/leadegroot) | Lea de Groot | Saint Lucia | 1,010 |
+| 7 | [remyfrancis](https://github.com/remyfrancis) | Remy Francis | Saint Lucia | 954 |
 | 8 | [cmbengue-ec-intl](https://github.com/cmbengue-ec-intl) | Cheikh Mbengue | Castries, Saint Lucia | 822 |
 | 9 | [antonio-agiste](https://github.com/antonio-agiste) | Antonio | Saint Lucia | 389 |
 | 10 | [johnsBeharry](https://github.com/johnsBeharry) | Johns Beharry | Saint Lucia | 95 |
@@ -37,14 +37,14 @@ Indexed users: 35
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [leadegroot](https://github.com/leadegroot) | Lea de Groot | Saint Lucia | 906 |
+| 1 | [leadegroot](https://github.com/leadegroot) | Lea de Groot | Saint Lucia | 903 |
 | 2 | [k-alphonse](https://github.com/k-alphonse) | Kaitlyn Alphonse | Saint Lucia | 449 |
 | 3 | [cmbengue-ec-intl](https://github.com/cmbengue-ec-intl) | Cheikh Mbengue | Castries, Saint Lucia | 132 |
 | 4 | [fontius](https://github.com/fontius) |  | Saint Lucia | 93 |
 | 5 | [wilsonwolf](https://github.com/wilsonwolf) |  | Castries, Saint Lucia | 67 |
-| 6 | [UVLabs](https://github.com/UVLabs) | Uriahs Victor | Saint Lucia | 43 |
-| 7 | [johnsBeharry](https://github.com/johnsBeharry) | Johns Beharry | Saint Lucia | 42 |
-| 8 | [PGPillar](https://github.com/PGPillar) | H | Saint Lucia | 42 |
+| 6 | [johnsBeharry](https://github.com/johnsBeharry) | Johns Beharry | Saint Lucia | 42 |
+| 7 | [PGPillar](https://github.com/PGPillar) | H | Saint Lucia | 42 |
+| 8 | [UVLabs](https://github.com/UVLabs) | Uriahs Victor | Saint Lucia | 39 |
 | 9 | [swelanauguste](https://github.com/swelanauguste) | Swelan R. Auguste | Saint Lucia | 18 |
 | 10 | [Azendae-Popo](https://github.com/Azendae-Popo) | Azendae Popo | Castries, Saint Lucia | 16 |
 | 11 | [Orbtronics-Admin](https://github.com/Orbtronics-Admin) | Orbtronics | Saint Lucia | 14 |
@@ -83,4 +83,4 @@ Indexed users: 35
 | 19 | [PGPillar](https://github.com/PGPillar) | H | Saint Lucia | 3 |
 | 20 | [fontius](https://github.com/fontius) |  | Saint Lucia | 2 |
 
-Generated: 2026-10-18T01:17:48.703Z
+Generated: 2026-10-18T02:58:09.338Z

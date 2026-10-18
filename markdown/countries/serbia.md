@@ -56,7 +56,7 @@ Indexed users: 10,662
 | 17 | [L4ki](https://github.com/L4ki) | L4ki | Serbia, Smederevska Palanka | 3,563 |
 | 18 | [vladprrs](https://github.com/vladprrs) | Vlad Pr | Belgrade, Serbia | 3,336 |
 | 19 | [egv](https://github.com/egv) | Gena | Belgrade - Tel Aviv - Dubai | 3,094 |
-| 20 | [maratik123](https://github.com/maratik123) |  | Serbia, Belgrade | 2,991 |
+| 20 | [MilosPaunovic](https://github.com/MilosPaunovic) | Miloš Paunović | Belgrade, Serbia | 3,024 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 10,662
 | 19 | [umpirsky](https://github.com/umpirsky) | Saša Stamenković | Niš, Serbia | 458 |
 | 20 | [Stojanovic94](https://github.com/Stojanovic94) | Nikola Stojanović | Niš, Serbia | 435 |
 
-Generated: 2026-10-18T01:22:47.798Z
+Generated: 2026-10-18T03:01:20.686Z

@@ -1,6 +1,6 @@
 # Public Contributions - Serbia
 
-Generated: 2026-10-18T01:22:47.798Z
+Generated: 2026-10-18T03:01:20.686Z
 
 Users: 10662
 
@@ -25,4 +25,4 @@ Users: 10662
 | 17 | [L4ki](https://github.com/L4ki) | L4ki |  |  | Serbia, Smederevska Palanka | 3563 |
 | 18 | [vladprrs](https://github.com/vladprrs) | Vlad Pr |  |  | Belgrade, Serbia | 3336 |
 | 19 | [egv](https://github.com/egv) | Gena | Cambrian |  | Belgrade - Tel Aviv - Dubai | 3094 |
-| 20 | [maratik123](https://github.com/maratik123) |  |  |  | Serbia, Belgrade | 2991 |
+| 20 | [MilosPaunovic](https://github.com/MilosPaunovic) | Miloš Paunović | @kestra-io |  | Belgrade, Serbia | 3024 |
