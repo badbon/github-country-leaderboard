@@ -1,6 +1,6 @@
 # Total Contributions - Serbia
 
-Generated: 2026-10-18T03:01:20.686Z
+Generated: 2026-10-18T06:34:02.965Z
 
 Users: 10662
 
@@ -9,10 +9,10 @@ Users: 10662
 | 1 | [kernel-memory-dump](https://github.com/kernel-memory-dump) | Sebastian Novak | eqho.ai |  | Serbia | 26443 |
 | 2 | [botantony](https://github.com/botantony) | Anton Melnikov |  | botantony | Belgrade, Serbia | 23247 |
 | 3 | [alifanov](https://github.com/alifanov) | Aleksandr Lifanov |  | jetbootsmaker | Belgrade, Serbia | 22551 |
-| 4 | [misho85](https://github.com/misho85) | Mišo Stevović |  |  | Belgrade, Serbia | 20244 |
-| 5 | [probablyrobot](https://github.com/probablyrobot) | Igor Bogicevic |  |  | Serbia | 17374 |
-| 6 | [MauricDaniel](https://github.com/MauricDaniel) |  |  |  | Novi Sad, Serbia | 17170 |
-| 7 | [Iskanderrus](https://github.com/Iskanderrus) | Alexander Chasovskoy |  |  | Serbia | 13778 |
+| 4 | [Iskanderrus](https://github.com/Iskanderrus) | Alexander Chasovskoy |  |  | Serbia | 21442 |
+| 5 | [misho85](https://github.com/misho85) | Mišo Stevović |  |  | Belgrade, Serbia | 20244 |
+| 6 | [probablyrobot](https://github.com/probablyrobot) | Igor Bogicevic |  |  | Serbia | 17374 |
+| 7 | [MauricDaniel](https://github.com/MauricDaniel) |  |  |  | Novi Sad, Serbia | 17170 |
 | 8 | [proffesor-for-testing](https://github.com/proffesor-for-testing) | Dragan Spiridonov | Cognitum One |  | Petrovaradin, Serbia | 13173 |
 | 9 | [msrdic](https://github.com/msrdic) | Mladen Srdic |  | quantumdot | Belgrade | 13164 |
 | 10 | [ydnikolaev](https://github.com/ydnikolaev) | Nikolaev | @r22d222  |  | Belgrade, Serbia | 12572 |

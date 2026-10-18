@@ -1,6 +1,6 @@
 # Total Contributions - Saint Vincent and the Grenadines
 
-Generated: 2026-10-18T02:59:13.770Z
+Generated: 2026-10-18T06:32:53.260Z
 
 Users: 26
 
@@ -12,7 +12,7 @@ Users: 26
 | 4 | [azeldaniel](https://github.com/azeldaniel) | Azel Daniel |  |  | Saint Vincent and the Grenadines | 328 |
 | 5 | [lukecampbell](https://github.com/lukecampbell) | Luke Campbell | Axiom Data Science, LLC |  | South Kingstown, RI | 302 |
 | 6 | [kazar4](https://github.com/kazar4) | Kazen Gallman |  |  | North Kingstown, Rhode Island | 159 |
-| 7 | [Kascique](https://github.com/Kascique) | Kascique Lowmans |  |  | Saint Vincent and the Grenadines | 45 |
+| 7 | [Kascique](https://github.com/Kascique) | Kascique Lowmans |  |  | Saint Vincent and the Grenadines | 94 |
 | 8 | [dellon28](https://github.com/dellon28) | Dellonte Boucher |  |  | Saint Vincent and the Grenadines | 25 |
 | 9 | [Richardson-Rayshorn](https://github.com/Richardson-Rayshorn) | Rayshorn Richardson | Eknotec Services Ltd |  | Saint Vincent and the Grenadines | 4 |
 | 10 | [Tomrish](https://github.com/Tomrish) | Tom Rishworth | New England FIRST |  | North Kingstown, RI | 3 |

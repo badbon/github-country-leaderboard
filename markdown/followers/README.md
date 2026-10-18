@@ -133,7 +133,7 @@ Published countries: 234
 | Marshall Islands | 11 | [View](./marshall_islands.md) |
 | Martinique | 75 | [View](./martinique.md) |
 | Mauritania | 289 | [View](./mauritania.md) |
-| Mauritius | 713 | [View](./mauritius.md) |
+| Mauritius | 714 | [View](./mauritius.md) |
 | Mayotte | 17 | [View](./mayotte.md) |
 | Mexico | 23,490 | [View](./mexico.md) |
 | Micronesia | 11 | [View](./micronesia.md) |
@@ -175,7 +175,7 @@ Published countries: 234
 | Republic of the Congo | 298 | [View](./republic_of_the_congo.md) |
 | Réunion | 212 | [View](./reunion.md) |
 | Romania | 14,978 | [View](./romania.md) |
-| Rwanda | 3,507 | [View](./rwanda.md) |
+| Rwanda | 3,506 | [View](./rwanda.md) |
 | Saint Barthélemy | 1 | [View](./saint_barthelemy.md) |
 | Saint Helena, Ascension and Tristan da Cunha | 25 | [View](./saint_helena_ascension_and_tristan_da_cunha.md) |
 | Saint Kitts and Nevis | 5 | [View](./saint_kitts_and_nevis.md) |
@@ -205,7 +205,7 @@ Published countries: 234
 | Sudan | 727 | [View](./sudan.md) |
 | Suriname | 123 | [View](./suriname.md) |
 | Svalbard and Jan Mayen | 10 | [View](./svalbard_and_jan_mayen.md) |
-| Sweden | 39,031 | [View](./sweden.md) |
+| Sweden | 39,032 | [View](./sweden.md) |
 | Switzerland | 24,083 | [View](./switzerland.md) |
 | Syria | 1,481 | [View](./syria.md) |
 | Taiwan | 21,996 | [View](./taiwan.md) |
@@ -239,4 +239,4 @@ Published countries: 234
 | Zambia | 1,337 | [View](./zambia.md) |
 | Zimbabwe | 1,656 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-18T06:29:14.586Z
+Generated: 2026-10-18T06:35:44.077Z

@@ -15,10 +15,10 @@ Indexed users: 10,662
 | 1 | [kernel-memory-dump](https://github.com/kernel-memory-dump) | Sebastian Novak | Serbia | 26,443 |
 | 2 | [botantony](https://github.com/botantony) | Anton Melnikov | Belgrade, Serbia | 23,247 |
 | 3 | [alifanov](https://github.com/alifanov) | Aleksandr Lifanov | Belgrade, Serbia | 22,551 |
-| 4 | [misho85](https://github.com/misho85) | Mišo Stevović | Belgrade, Serbia | 20,244 |
-| 5 | [probablyrobot](https://github.com/probablyrobot) | Igor Bogicevic | Serbia | 17,374 |
-| 6 | [MauricDaniel](https://github.com/MauricDaniel) |  | Novi Sad, Serbia | 17,170 |
-| 7 | [Iskanderrus](https://github.com/Iskanderrus) | Alexander Chasovskoy | Serbia | 13,778 |
+| 4 | [Iskanderrus](https://github.com/Iskanderrus) | Alexander Chasovskoy | Serbia | 21,442 |
+| 5 | [misho85](https://github.com/misho85) | Mišo Stevović | Belgrade, Serbia | 20,244 |
+| 6 | [probablyrobot](https://github.com/probablyrobot) | Igor Bogicevic | Serbia | 17,374 |
+| 7 | [MauricDaniel](https://github.com/MauricDaniel) |  | Novi Sad, Serbia | 17,170 |
 | 8 | [proffesor-for-testing](https://github.com/proffesor-for-testing) | Dragan Spiridonov | Petrovaradin, Serbia | 13,173 |
 | 9 | [msrdic](https://github.com/msrdic) | Mladen Srdic | Belgrade | 13,164 |
 | 10 | [ydnikolaev](https://github.com/ydnikolaev) | Nikolaev | Belgrade, Serbia | 12,572 |
@@ -83,4 +83,4 @@ Indexed users: 10,662
 | 19 | [umpirsky](https://github.com/umpirsky) | Saša Stamenković | Niš, Serbia | 458 |
 | 20 | [Stojanovic94](https://github.com/Stojanovic94) | Nikola Stojanović | Niš, Serbia | 435 |
 
-Generated: 2026-10-18T03:01:20.686Z
+Generated: 2026-10-18T06:34:02.965Z

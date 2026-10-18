@@ -1,12 +1,12 @@
 # Public Contributions - Réunion
 
-Generated: 2026-10-18T02:56:54.361Z
+Generated: 2026-10-18T06:30:57.487Z
 
 Users: 212
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [Gabouin](https://github.com/Gabouin) | Gabouin |  |  | Reunion Island | 1955 |
+| 1 | [Gabouin](https://github.com/Gabouin) | Gabouin |  |  | Reunion Island | 1956 |
 | 2 | [Nasjoe](https://github.com/Nasjoe) | Jonas TURBEAUX | Code Commun Coop |  | Réunion Island, Villeurbanne, Montpellier : France | 1713 |
 | 3 | [elmarco](https://github.com/elmarco) | Marc-André Lureau | Red Hat, Inc. | elmarco | Réunion | 1145 |
 | 4 | [ChaffyLace](https://github.com/ChaffyLace) |  |  |  | Saint Denis | 970 |
@@ -19,8 +19,8 @@ Users: 212
 | 11 | [ralphi2811](https://github.com/ralphi2811) | Raphaël Auberlet | Nashi.cloud |  | Réunion Island | 308 |
 | 12 | [arthur-girardin-calbe](https://github.com/arthur-girardin-calbe) | Arthur Girardin--Calbe |  |  | Réunion | 288 |
 | 13 | [bourgault314](https://github.com/bourgault314) | Gwenaël Bourgault |  |  | Réunion island  | 280 |
-| 14 | [DeiTsukiii](https://github.com/DeiTsukiii) | DeiTsuki | DeiTsuki corp |  | Reunion Island | 269 |
-| 15 | [jnativel](https://github.com/jnativel) | Jimmy NATIVEL |  |  | Reunion Island | 267 |
+| 14 | [jnativel](https://github.com/jnativel) | Jimmy NATIVEL |  |  | Reunion Island | 267 |
+| 15 | [DeiTsukiii](https://github.com/DeiTsukiii) | DeiTsuki | DeiTsuki corp |  | Reunion Island | 259 |
 | 16 | [RandomZeleff](https://github.com/RandomZeleff) | Zeleff_ | Nartya | zeleff_ii | Reunion Island | 234 |
 | 17 | [thibautfontaine](https://github.com/thibautfontaine) | Ti_punch |  |  | Reunion Island | 220 |
 | 18 | [aurelien-loyer](https://github.com/aurelien-loyer) | LOYER Aurélien | EPITECH |  | Reunion Island | 216 |

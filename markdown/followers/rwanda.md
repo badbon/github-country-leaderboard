@@ -1,8 +1,8 @@
 # Followers - Rwanda
 
-Generated: 2026-10-18T02:57:01.133Z
+Generated: 2026-10-18T06:31:38.212Z
 
-Users: 3507
+Users: 3506
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -17,12 +17,12 @@ Users: 3507
 | 9 | [umutambyi-gad](https://github.com/umutambyi-gad) | Gad |  | umutambyi_gad | Kigali, Rwanda | 655 |
 | 10 | [samuelumutiti](https://github.com/samuelumutiti) | Umutiti Samuel | Freelancer | UsamuelC2287 | Rwanda / Kigali City | 614 |
 | 11 | [AlineHub-tech](https://github.com/AlineHub-tech) | Umugwaneza Aline | ByteFlow Ltd |  | Kigali, Rwanda | 511 |
-| 12 | [Pericles001](https://github.com/Pericles001) | Pericles Adjovi | Carnegie Mellon University |  | Kigali, Rwanda | 508 |
-| 13 | [uwenayoallain](https://github.com/uwenayoallain) | Alain Pacifique UWENAYO |  | uwenayoallain | Kigali,Rwanda | 428 |
-| 14 | [Mucyo-chris](https://github.com/Mucyo-chris) | Christian MUCYO |  |  | KIGALI-RWANDA | 388 |
-| 15 | [neoscratchteam](https://github.com/neoscratchteam) | NeoScratch | NeoScratch |  | Kigali, Rwanda | 386 |
-| 16 | [Goal651](https://github.com/Goal651) |  Wilson Goal BUGIRI | @Echo-Sols-Ltd |  | Rwanda-Kigali | 357 |
-| 17 | [regis-mucyo](https://github.com/regis-mucyo) | Regis Mucyo |  |  | Kigali, Rwanda | 351 |
-| 18 | [descholar-ceo](https://github.com/descholar-ceo) | Mugirase Emmanuel |  | descholar3 | Kigali, Rwanda | 328 |
-| 19 | [ghislainb-cracker](https://github.com/ghislainb-cracker) | Ghislain Byimbo | PangaTrip |  | Rwanda | 316 |
-| 20 | [shemaikuzwe](https://github.com/shemaikuzwe) | Ikuzwe shema Elie |  | Shemaelie97 | rwanda | 314 |
+| 12 | [uwenayoallain](https://github.com/uwenayoallain) | Alain Pacifique UWENAYO |  | uwenayoallain | Kigali,Rwanda | 428 |
+| 13 | [Mucyo-chris](https://github.com/Mucyo-chris) | Christian MUCYO |  |  | KIGALI-RWANDA | 388 |
+| 14 | [neoscratchteam](https://github.com/neoscratchteam) | NeoScratch | NeoScratch |  | Kigali, Rwanda | 386 |
+| 15 | [Goal651](https://github.com/Goal651) |  Wilson Goal BUGIRI | @Echo-Sols-Ltd |  | Rwanda-Kigali | 357 |
+| 16 | [regis-mucyo](https://github.com/regis-mucyo) | Regis Mucyo |  |  | Kigali, Rwanda | 351 |
+| 17 | [descholar-ceo](https://github.com/descholar-ceo) | Mugirase Emmanuel |  | descholar3 | Kigali, Rwanda | 332 |
+| 18 | [ghislainb-cracker](https://github.com/ghislainb-cracker) | Ghislain Byimbo | PangaTrip |  | Rwanda | 316 |
+| 19 | [shemaikuzwe](https://github.com/shemaikuzwe) | Ikuzwe shema Elie |  | Shemaelie97 | rwanda | 314 |
+| 20 | [Manzi-Elvis](https://github.com/Manzi-Elvis) | Elvis Manzi | MiCorp | _MRElvis_ | Rwanda | 299 |

@@ -63,7 +63,7 @@ Indexed users: 298
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [alexissengangabo07](https://github.com/alexissengangabo07) | Dr. Code | Goma, Congo | 318 |
-| 2 | [chronoss09](https://github.com/chronoss09) | Chronoss | Congo | 213 |
+| 2 | [chronoss09](https://github.com/chronoss09) | Chronoss | Congo | 214 |
 | 3 | [Shadow8021](https://github.com/Shadow8021) | Red_Sh@dow | Congo, brazzaville | 208 |
 | 4 | [Josephbakulikira](https://github.com/Josephbakulikira) | Joseph  | Congo | 107 |
 | 5 | [AdalbertPungu](https://github.com/AdalbertPungu) | Adalbert Pungu | Congo (DRC) | 104 |
@@ -83,4 +83,4 @@ Indexed users: 298
 | 19 | [Ssnnee](https://github.com/Ssnnee) | Samuel Nandi | Republic of the Congo | 26 |
 | 20 | [WinnersProx](https://github.com/WinnersProx) | Vainqueur Bihame | Kigali,Rwanda,Congo | 25 |
 
-Generated: 2026-10-18T02:56:52.991Z
+Generated: 2026-10-18T06:30:26.269Z
