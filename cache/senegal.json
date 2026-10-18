@@ -488,7 +488,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 112,
+    "publicContributions": 129,
     "createdAt": "2025-01-05T01:10:12Z"
   },
   {
@@ -560,7 +560,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 105,
+    "publicContributions": 109,
     "createdAt": "2025-08-10T11:21:53Z"
   },
   {
@@ -588,27 +588,15 @@
     "createdAt": "2025-05-02T12:10:57Z"
   },
   {
-    "login": "at8tech",
-    "name": "Aliou Thiam",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/235415887?s=72&u=e623353189cb3c54750f4b5386c35d628f23d6fd&v=4",
-    "location": "Dakar",
-    "company": "Cotiz",
-    "twitterUsername": "",
-    "followers": 23,
-    "privateContributions": 0,
-    "publicContributions": 106,
-    "createdAt": "2025-10-01T01:26:37Z"
-  },
-  {
     "login": "nosleepman1",
     "name": "Abdallah Diouf",
     "avatarUrl": "https://avatars.githubusercontent.com/u/212015359?s=72&u=c9444c085796705871e087e2950ad014b021cff1&v=4",
     "location": "Dakar ",
     "company": "",
     "twitterUsername": "",
-    "followers": 17,
-    "privateContributions": 1035,
-    "publicContributions": 2810,
+    "followers": 18,
+    "privateContributions": 1130,
+    "publicContributions": 2805,
     "createdAt": "2025-05-16T15:54:55Z"
   },
   {
@@ -620,7 +608,7 @@
     "twitterUsername": "",
     "followers": 23,
     "privateContributions": 0,
-    "publicContributions": 235,
+    "publicContributions": 245,
     "createdAt": "2025-08-01T08:22:29Z"
   },
   {
@@ -631,8 +619,8 @@
     "company": "Ecole Supérieure Polytechnique",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 188,
-    "publicContributions": 131,
+    "privateContributions": 206,
+    "publicContributions": 134,
     "createdAt": "2025-03-09T23:00:56Z"
   },
   {
@@ -691,8 +679,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 625,
-    "publicContributions": 310,
+    "privateContributions": 628,
+    "publicContributions": 311,
     "createdAt": "2025-02-12T23:00:53Z"
   },
   {
@@ -702,9 +690,9 @@
     "location": "Sénégal ,Dakar",
     "company": "Yokkutelabs",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 171,
+    "publicContributions": 179,
     "createdAt": "2025-02-07T19:02:10Z"
   },
   {
@@ -715,7 +703,7 @@
     "company": "@alphabeclic",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 1281,
+    "privateContributions": 1453,
     "publicContributions": 14,
     "createdAt": "2025-06-22T21:40:54Z"
   },
