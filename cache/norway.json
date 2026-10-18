@@ -32310,22 +32310,10 @@
     "location": "Norway",
     "company": "",
     "twitterUsername": "",
-    "followers": 13,
+    "followers": 12,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-04-11T16:56:00Z"
-  },
-  {
-    "login": "julianslatlem",
-    "name": "Julian Slatlem",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/79726826?s=72&u=db241ef048ed92ad092c9669dae2fd4240bf82bf&v=4",
-    "location": "Norway",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 13,
-    "privateContributions": 221,
-    "publicContributions": 1,
-    "createdAt": "2021-02-26T22:16:40Z"
   },
   {
     "login": "aksel-os",
@@ -32334,33 +32322,33 @@
     "location": "Oslo, Norway",
     "company": "IFI-ProgSys();",
     "twitterUsername": "",
-    "followers": 13,
-    "privateContributions": 248,
-    "publicContributions": 548,
+    "followers": 16,
+    "privateContributions": 190,
+    "publicContributions": 649,
     "createdAt": "2021-11-26T21:35:05Z"
   },
   {
     "login": "julianriise",
     "name": "Julian Riise",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/77626314?s=72&u=68dd34b6512d397d19f103a31aca188eafb66222&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/77626314?s=72&u=f591ba1f3c1b17aa2ce50cc34c5efbab1ee095e5&v=4",
     "location": "Oslo, Norway",
     "company": "Arealize",
     "twitterUsername": "",
     "followers": 13,
-    "privateContributions": 1495,
-    "publicContributions": 0,
+    "privateContributions": 2816,
+    "publicContributions": 2,
     "createdAt": "2021-01-18T14:08:55Z"
   },
   {
     "login": "marhjoh",
     "name": "Martin Hegnum Johannessen",
     "avatarUrl": "https://avatars.githubusercontent.com/u/94908112?s=72&u=f6090f770852df02495cf6eaa56eab66280bbe8b&v=4",
-    "location": "Trondheim, Norway",
-    "company": "@Scoped-Solutions",
+    "location": "Oslo, Norway",
+    "company": "@Bekk",
     "twitterUsername": "",
-    "followers": 13,
-    "privateContributions": 536,
-    "publicContributions": 192,
+    "followers": 14,
+    "privateContributions": 624,
+    "publicContributions": 435,
     "createdAt": "2021-11-23T12:33:58Z"
   },
   {
@@ -32384,7 +32372,7 @@
     "twitterUsername": "",
     "followers": 13,
     "privateContributions": 27,
-    "publicContributions": 37,
+    "publicContributions": 52,
     "createdAt": "2021-08-08T18:12:46Z"
   },
   {
@@ -32407,8 +32395,8 @@
     "company": "Autodesk",
     "twitterUsername": "ikezedev",
     "followers": 13,
-    "privateContributions": 457,
-    "publicContributions": 23,
+    "privateContributions": 225,
+    "publicContributions": 20,
     "createdAt": "2021-10-11T10:32:35Z"
   },
   {
@@ -32442,8 +32430,8 @@
     "location": "Norway",
     "company": "Bekk",
     "twitterUsername": "",
-    "followers": 13,
-    "privateContributions": 125,
+    "followers": 11,
+    "privateContributions": 70,
     "publicContributions": 0,
     "createdAt": "2021-03-11T09:03:32Z"
   },
@@ -32456,7 +32444,7 @@
     "twitterUsername": "",
     "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2021-02-10T15:22:43Z"
   },
   {
@@ -32478,7 +32466,7 @@
     "location": "Oslo ,Norway",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 11,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-09-20T10:40:13Z"
@@ -32502,9 +32490,9 @@
     "location": "Norway",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 42,
-    "publicContributions": 155,
+    "followers": 13,
+    "privateContributions": 67,
+    "publicContributions": 148,
     "createdAt": "2021-10-03T14:18:50Z"
   },
   {
@@ -32515,7 +32503,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 0,
+    "privateContributions": 1,
     "publicContributions": 0,
     "createdAt": "2021-08-23T19:56:51Z"
   },
@@ -32526,9 +32514,9 @@
     "location": "Norway",
     "company": "Jobloop AS // Kodehode Porsgrunn",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 13,
     "privateContributions": 2,
-    "publicContributions": 137,
+    "publicContributions": 80,
     "createdAt": "2021-03-09T09:12:45Z"
   },
   {
