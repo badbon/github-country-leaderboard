@@ -190,7 +190,7 @@ Published countries: 234
 | [Senegal](countries/senegal.md) | 1,355 | [Public](public_contributions/senegal.md) | [Total](total_contributions/senegal.md) | [Followers](followers/senegal.md) |
 | [Serbia](countries/serbia.md) | 10,660 | [Public](public_contributions/serbia.md) | [Total](total_contributions/serbia.md) | [Followers](followers/serbia.md) |
 | [Seychelles](countries/seychelles.md) | 1,770 | [Public](public_contributions/seychelles.md) | [Total](total_contributions/seychelles.md) | [Followers](followers/seychelles.md) |
-| [Sierra Leone](countries/sierra_leone.md) | 443 | [Public](public_contributions/sierra_leone.md) | [Total](total_contributions/sierra_leone.md) | [Followers](followers/sierra_leone.md) |
+| [Sierra Leone](countries/sierra_leone.md) | 442 | [Public](public_contributions/sierra_leone.md) | [Total](total_contributions/sierra_leone.md) | [Followers](followers/sierra_leone.md) |
 | [Singapore](countries/singapore.md) | 24,701 | [Public](public_contributions/singapore.md) | [Total](total_contributions/singapore.md) | [Followers](followers/singapore.md) |
 | [Sint Maarten](countries/sint_maarten.md) | 7 | [Public](public_contributions/sint_maarten.md) | [Total](total_contributions/sint_maarten.md) | [Followers](followers/sint_maarten.md) |
 | [Slovakia](countries/slovakia.md) | 4,662 | [Public](public_contributions/slovakia.md) | [Total](total_contributions/slovakia.md) | [Followers](followers/slovakia.md) |
@@ -239,4 +239,4 @@ Published countries: 234
 | [Zambia](countries/zambia.md) | 1,337 | [Public](public_contributions/zambia.md) | [Total](total_contributions/zambia.md) | [Followers](followers/zambia.md) |
 | [Zimbabwe](countries/zimbabwe.md) | 1,656 | [Public](public_contributions/zimbabwe.md) | [Total](total_contributions/zimbabwe.md) | [Followers](followers/zimbabwe.md) |
 
-Generated: 2026-10-18T20:12:26.628Z
+Generated: 2026-10-18T20:15:09.125Z

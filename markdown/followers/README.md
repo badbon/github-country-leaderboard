@@ -190,7 +190,7 @@ Published countries: 234
 | Senegal | 1,355 | [View](./senegal.md) |
 | Serbia | 10,660 | [View](./serbia.md) |
 | Seychelles | 1,770 | [View](./seychelles.md) |
-| Sierra Leone | 443 | [View](./sierra_leone.md) |
+| Sierra Leone | 442 | [View](./sierra_leone.md) |
 | Singapore | 24,701 | [View](./singapore.md) |
 | Sint Maarten | 7 | [View](./sint_maarten.md) |
 | Slovakia | 4,662 | [View](./slovakia.md) |
@@ -239,4 +239,4 @@ Published countries: 234
 | Zambia | 1,337 | [View](./zambia.md) |
 | Zimbabwe | 1,656 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-18T20:12:26.628Z
+Generated: 2026-10-18T20:15:09.125Z
