@@ -32719,8 +32719,8 @@
     "company": "@snyk",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 12,
-    "publicContributions": 1,
+    "privateContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2022-12-13T11:46:33Z"
   },
   {
@@ -32767,21 +32767,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 17,
-    "publicContributions": 79,
+    "privateContributions": 229,
+    "publicContributions": 106,
     "createdAt": "2022-08-16T20:51:34Z"
-  },
-  {
-    "login": "Dontmindmeifido",
-    "name": "Ruslan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/118607790?s=72&v=4",
-    "location": "Bucharest, Romania",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 32,
-    "createdAt": "2022-11-19T11:33:28Z"
   },
   {
     "login": "SoniaPetreanu",
@@ -32827,7 +32815,7 @@
     "company": "@bearingpoint",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 594,
+    "privateContributions": 595,
     "publicContributions": 0,
     "createdAt": "2022-12-13T11:55:42Z"
   },
@@ -32899,8 +32887,8 @@
     "company": "Viva Credit",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 267,
-    "publicContributions": 90,
+    "privateContributions": 220,
+    "publicContributions": 91,
     "createdAt": "2022-10-03T15:28:07Z"
   },
   {
@@ -32947,8 +32935,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 254,
-    "publicContributions": 68,
+    "privateContributions": 199,
+    "publicContributions": 25,
     "createdAt": "2022-09-16T16:30:24Z"
   },
   {
