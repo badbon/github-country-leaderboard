@@ -27,7 +27,7 @@ Indexed users: 1,926
 | 13 | [Delemangi](https://github.com/Delemangi) | Stefan Milev | Skopje, North Macedonia | 4,673 |
 | 14 | [Shekswess](https://github.com/Shekswess) | Bojan Jakimovski | Skopje, Macedonia | 4,185 |
 | 15 | [visar](https://github.com/visar) | Visar Zejnullahu | Skopje, Macedonia | 4,148 |
-| 16 | [vetonshabani0](https://github.com/vetonshabani0) | Veton Shabani | Skopje | 4,075 |
+| 16 | [vetonshabani0](https://github.com/vetonshabani0) | Veton Shabani | Skopje | 4,037 |
 | 17 | [andreyagovski](https://github.com/andreyagovski) | Andrey | Macedonia | 3,997 |
 | 18 | [nikola-n](https://github.com/nikola-n) | Nikola | Veles, Macedonia | 3,884 |
 | 19 | [M9Mike](https://github.com/M9Mike) | Mihail Veljanoski | Skopje, Macedonia | 3,747 |
@@ -53,9 +53,9 @@ Indexed users: 1,926
 | 14 | [ssbarbee](https://github.com/ssbarbee) |  | Skopje, Macedonia | 890 |
 | 15 | [gocemitevski](https://github.com/gocemitevski) | Goce Mitevski | Skopje, North Macedonia | 887 |
 | 16 | [stojce](https://github.com/stojce) | Stojce Slavkovski | Skopje, Macedonia | 859 |
-| 17 | [KralMarko123](https://github.com/KralMarko123) | Marko Markovikj | Skopje | 839 |
-| 18 | [bor0](https://github.com/bor0) | Boro Sitnikovski | Skopje, North Macedonia | 814 |
-| 19 | [NikoDola](https://github.com/NikoDola) | Nikola Dolovski (niko_dola) | Bitola/Macedonia | 802 |
+| 17 | [bor0](https://github.com/bor0) | Boro Sitnikovski | Skopje, North Macedonia | 814 |
+| 18 | [NikoDola](https://github.com/NikoDola) | Nikola Dolovski (niko_dola) | Bitola/Macedonia | 802 |
+| 19 | [KralMarko123](https://github.com/KralMarko123) | Marko Markovikj | Skopje | 782 |
 | 20 | [antonio-ivanovski](https://github.com/antonio-ivanovski) | Antonio | North Macedonia | 712 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 1,926
 | 19 | [bor0](https://github.com/bor0) | Boro Sitnikovski | Skopje, North Macedonia | 166 |
 | 20 | [gdamjan](https://github.com/gdamjan) | Дамјан Георгиевски | Skopje, Macedonia | 145 |
 
-Generated: 2026-10-18T13:52:37.392Z
+Generated: 2026-10-18T15:21:37.768Z

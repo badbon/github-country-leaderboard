@@ -17,16 +17,16 @@ Indexed users: 805
 | 3 | [tortuvshin](https://github.com/tortuvshin) | Turtuvshin Byambaa | Mongolia | 18,202 |
 | 4 | [ganbold](https://github.com/ganbold) | Ganbold | Ulaanbaatar, Mongolia | 12,148 |
 | 5 | [baysaa006](https://github.com/baysaa006) |  | Mongolia. | 11,207 |
-| 6 | [Amartuvshins0404](https://github.com/Amartuvshins0404) | Amartuvshin Surenjav | Ulaanbaatar, Mongolia | 10,671 |
+| 6 | [Amartuvshins0404](https://github.com/Amartuvshins0404) | Amartuvshin Surenjav | Ulaanbaatar, Mongolia | 10,822 |
 | 7 | [heisenberg-kz](https://github.com/heisenberg-kz) | heisenbergjs | Ulan Bator | 9,543 |
 | 8 | [dolgoonnn](https://github.com/dolgoonnn) | Dolgoon | Ulaanbaatar, Mongolia | 9,356 |
 | 9 | [sadespresso](https://github.com/sadespresso) | Батмэнд Ганбаатар | Ulaanbaatar, Mongolia | 8,813 |
 | 10 | [ebattulga](https://github.com/ebattulga) | ebattulga | Mongolia, Ulaanbaatar | 6,626 |
 | 11 | [blgn94](https://github.com/blgn94) | Bilguun | Erdenet, Mongolia | 6,534 |
 | 12 | [turbold24](https://github.com/turbold24) | Turbold | Ulaanbaatar, Mongolia | 6,381 |
-| 13 | [mtergel](https://github.com/mtergel) | Tergel Munkhdelger | Mongolia | 5,826 |
+| 13 | [mtergel](https://github.com/mtergel) | Tergel Munkhdelger | Mongolia | 5,921 |
 | 14 | [ssxenon01](https://github.com/ssxenon01) | Gundsambuu | Mongolia | 5,822 |
-| 15 | [2khan](https://github.com/2khan) | Jargalsaikhan Erdenetsetseg | Ulaanbaatar, Mongolia | 5,259 |
+| 15 | [2khan](https://github.com/2khan) | Jargalsaikhan Erdenetsetseg | Ulaanbaatar, Mongolia | 5,258 |
 | 16 | [anhbaysgalan1](https://github.com/anhbaysgalan1) | Ankhbayasgalan Davaadorj | Mongolia, Ulaanbaatar | 5,059 |
 | 17 | [kyuna0312](https://github.com/kyuna0312) | kyuna0312 | Mongolia | 4,786 |
 | 18 | [dokind](https://github.com/dokind) | dokind | Mongolia | 4,567 |
@@ -49,7 +49,7 @@ Indexed users: 805
 | 10 | [PQ-007](https://github.com/PQ-007) | Bilguuntushig | Mongolia, Ulaanbaatar | 683 |
 | 11 | [barsboldb](https://github.com/barsboldb) | Barsbold Bayar-Erdene | Ulaanbaatar, Mongolia | 619 |
 | 12 | [batdorj-s](https://github.com/batdorj-s) | batdorj | mongolia | 543 |
-| 13 | [Amartuvshins0404](https://github.com/Amartuvshins0404) | Amartuvshin Surenjav | Ulaanbaatar, Mongolia | 529 |
+| 13 | [Amartuvshins0404](https://github.com/Amartuvshins0404) | Amartuvshin Surenjav | Ulaanbaatar, Mongolia | 530 |
 | 14 | [Ar-temis](https://github.com/Ar-temis) | Temuulen Enkhtamir | Ulaanbaatar, Mongolia | 520 |
 | 15 | [munkhsaikhan](https://github.com/munkhsaikhan) | munkhsaikhan | mongolia | 507 |
 | 16 | [dolgoonnn](https://github.com/dolgoonnn) | Dolgoon | Ulaanbaatar, Mongolia | 493 |
@@ -83,4 +83,4 @@ Indexed users: 805
 | 19 | [munkhjin0223](https://github.com/munkhjin0223) | Munkhjin | Ulaanbaatar, Mongolia | 64 |
 | 20 | [temuulennibno](https://github.com/temuulennibno) | Temuulen | Ulaanbaatar, Mongolia | 55 |
 
-Generated: 2026-10-18T13:47:41.837Z
+Generated: 2026-10-18T15:15:29.612Z

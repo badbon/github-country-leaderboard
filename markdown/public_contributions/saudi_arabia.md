@@ -1,6 +1,6 @@
 # Public Contributions - Saudi Arabia
 
-Generated: 2026-10-18T14:01:06.971Z
+Generated: 2026-10-18T15:31:56.702Z
 
 Users: 7733
 
@@ -19,10 +19,10 @@ Users: 7733
 | 11 | [EslamElshikh-dev](https://github.com/EslamElshikh-dev) | Eslam Elshikh | Google  | remoesoo10 | Riyadh  | 3381 |
 | 12 | [CalledSTRIKER](https://github.com/CalledSTRIKER) | Sultan |  |  | Saudi Arabia | 3251 |
 | 13 | [SyabAhmad](https://github.com/SyabAhmad) | Syed Syab Ahmad | MenteE | SyabSays | Al-Riyadh, Saudi Arabia | 2740 |
-| 14 | [singer-yang](https://github.com/singer-yang) | Xinge Yang | KAUST |  | Thuwal, Saudi Arabia | 2413 |
-| 15 | [Shoug-Alomran](https://github.com/Shoug-Alomran) | Shoug Alomran |  |  | Saudi Arabia | 2404 |
-| 16 | [GalaxyRuler](https://github.com/GalaxyRuler) | GalaxyRuler |  |  | Riyadh, Saudi Arabia | 2294 |
-| 17 | [usernane](https://github.com/usernane) | Ibrahim BinAlshikh | @OSHCO  | IbrahimBAli2017 | Saudi Arabia | 2261 |
-| 18 | [aliakarma](https://github.com/aliakarma) | Ali Akarma | Islamic University of Madinah | akarma_ali | Madinah, Saudi Arabia | 2238 |
+| 14 | [aliakarma](https://github.com/aliakarma) | Ali Akarma | Islamic University of Madinah | akarma_ali | Madinah, Saudi Arabia | 2463 |
+| 15 | [singer-yang](https://github.com/singer-yang) | Xinge Yang | KAUST |  | Thuwal, Saudi Arabia | 2413 |
+| 16 | [Shoug-Alomran](https://github.com/Shoug-Alomran) | Shoug Alomran |  |  | Saudi Arabia | 2404 |
+| 17 | [GalaxyRuler](https://github.com/GalaxyRuler) | GalaxyRuler |  |  | Riyadh, Saudi Arabia | 2294 |
+| 18 | [usernane](https://github.com/usernane) | Ibrahim BinAlshikh | @OSHCO  | IbrahimBAli2017 | Saudi Arabia | 2261 |
 | 19 | [Su03l](https://github.com/Su03l) | Suliman Yousef |  | su05l | Saudi Arabia | 2225 |
 | 20 | [nx2io](https://github.com/nx2io) | Abdullah |  | nx_2io | Saudi Arabia, Tabuk | 2207 |

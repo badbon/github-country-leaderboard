@@ -26,7 +26,7 @@ Indexed users: 142
 | 12 | [Orion98MC](https://github.com/Orion98MC) | Thierry Passeron | Monaco | 594 |
 | 13 | [asingizwe1](https://github.com/asingizwe1) | Dev. Louis Asingizwe | Monaco , Kampala/Uganda | 580 |
 | 14 | [vjandrea](https://github.com/vjandrea) | Andrea Bergamasco | Monaco | 558 |
-| 15 | [auvents-brave](https://github.com/auvents-brave) | Stéphane | Monaco | 399 |
+| 15 | [auvents-brave](https://github.com/auvents-brave) | Stéphane | Monaco | 404 |
 | 16 | [giraudremi92](https://github.com/giraudremi92) | Rémi | Monaco | 372 |
 | 17 | [scribelia-anthony](https://github.com/scribelia-anthony) | Anthony | Monaco | 362 |
 | 18 | [ap705](https://github.com/ap705) | Arnaud Pradier | Monaco | 273 |
@@ -41,7 +41,7 @@ Indexed users: 142
 | 2 | [LovelessCodes](https://github.com/LovelessCodes) |  | Monaco | 2,363 |
 | 3 | [KristofM854](https://github.com/KristofM854) | Kristof Moeller | Monaco | 1,633 |
 | 4 | [asingizwe1](https://github.com/asingizwe1) | Dev. Louis Asingizwe | Monaco , Kampala/Uganda | 580 |
-| 5 | [auvents-brave](https://github.com/auvents-brave) | Stéphane | Monaco | 235 |
+| 5 | [auvents-brave](https://github.com/auvents-brave) | Stéphane | Monaco | 236 |
 | 6 | [AlexRLG98](https://github.com/AlexRLG98) | Alex_RLG | Monaco | 212 |
 | 7 | [co-stig](https://github.com/co-stig) | Constantine | Monaco | 172 |
 | 8 | [NicoBocq](https://github.com/NicoBocq) | Nicolas Bocquet | Marseille / Monaco | 148 |
@@ -83,4 +83,4 @@ Indexed users: 142
 | 19 | [coachklng12](https://github.com/coachklng12) |  | Monaco | 14 |
 | 20 | [co-stig](https://github.com/co-stig) | Constantine | Monaco | 13 |
 
-Generated: 2026-10-18T13:47:34.858Z
+Generated: 2026-10-18T15:14:55.522Z

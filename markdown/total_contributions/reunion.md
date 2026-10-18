@@ -1,13 +1,13 @@
 # Total Contributions - Réunion
 
-Generated: 2026-10-18T13:57:26.021Z
+Generated: 2026-10-18T15:28:43.595Z
 
 Users: 212
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [fabricepayet](https://github.com/fabricepayet) | Fabrice Payet |  | fabricepayetfr | Reunion Island | 21565 |
-| 2 | [PhilDL](https://github.com/PhilDL) | Philippe L'ATTENTION | @Basaltbytes @Coding-Dodo | _philDL | Réunion | 7065 |
+| 2 | [PhilDL](https://github.com/PhilDL) | Philippe L'ATTENTION | @Basaltbytes @Coding-Dodo | _philDL | Réunion | 7072 |
 | 3 | [digikaizen](https://github.com/digikaizen) | DigiKaizen | DigiKaizen |  | Saint-Denis | 6364 |
 | 4 | [saiht](https://github.com/saiht) | Saiht |  |  | Reunion Island | 3883 |
 | 5 | [axelearning](https://github.com/axelearning) | Axel Rasse |  |  | Reunion island | 3555 |
@@ -20,7 +20,7 @@ Users: 212
 | 12 | [lvothnrv](https://github.com/lvothnrv) | LvothNrv |  |  | Reunion Island | 2015 |
 | 13 | [John361](https://github.com/John361) | John |  |  | Réunion | 1987 |
 | 14 | [IamArayel](https://github.com/IamArayel) | Arayel |  |  | Reunion Island | 1779 |
-| 15 | [kevinturpin97](https://github.com/kevinturpin97) | RainMan | @EpitechWebAcademiePromo2023  |  | Reunion Island, France | 1763 |
+| 15 | [kevinturpin97](https://github.com/kevinturpin97) | RainMan | @EpitechWebAcademiePromo2023  |  | Reunion Island, France | 1762 |
 | 16 | [eldertek](https://github.com/eldertek) | André Théo LAURET |  |  | Reunion Island | 1752 |
 | 17 | [Nasjoe](https://github.com/Nasjoe) | Jonas TURBEAUX | Code Commun Coop |  | Réunion Island, Villeurbanne, Montpellier : France | 1713 |
 | 18 | [gfo974](https://github.com/gfo974) | Geoffrey Fournier  | @arribada  |  | Réunion Island | 1364 |

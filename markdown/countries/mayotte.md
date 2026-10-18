@@ -12,7 +12,7 @@ Indexed users: 17
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [beeraw](https://github.com/beeraw) | Jean-Luc Petit | Mayotte | 2,590 |
+| 1 | [beeraw](https://github.com/beeraw) | Jean-Luc Petit | Mayotte | 2,592 |
 | 2 | [feycoil](https://github.com/feycoil) | Feyçoil Mouhoussoune | Mamoudzou | 327 |
 | 3 | [TechNerdSam](https://github.com/TechNerdSam) | Samyn-Antoy ABASSE | mayotte | 313 |
 | 4 | [bacardeveloper](https://github.com/bacardeveloper) | niwradCodera | Mayotte | 195 |
@@ -56,7 +56,7 @@ Indexed users: 17
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [beeraw](https://github.com/beeraw) | Jean-Luc Petit | Mayotte | 36 |
+| 1 | [beeraw](https://github.com/beeraw) | Jean-Luc Petit | Mayotte | 35 |
 | 2 | [ssrb](https://github.com/ssrb) | Sebastian | Mayotte | 17 |
 | 3 | [bacardeveloper](https://github.com/bacardeveloper) | niwradCodera | Mayotte | 9 |
 | 4 | [gbourel](https://github.com/gbourel) |  | Mamoudzou, Mayotte | 9 |
@@ -74,4 +74,4 @@ Indexed users: 17
 | 16 | [shamounni](https://github.com/shamounni) | Shamounni | Mayotte | 1 |
 | 17 | [TechNerdSam](https://github.com/TechNerdSam) | Samyn-Antoy ABASSE | mayotte | 1 |
 
-Generated: 2026-10-18T13:46:14.589Z
+Generated: 2026-10-18T15:13:23.890Z

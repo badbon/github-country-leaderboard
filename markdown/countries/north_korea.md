@@ -13,7 +13,7 @@ Indexed users: 185
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [Kim9wang](https://github.com/Kim9wang) | Kim Wang | Pyongyang | 5,914 |
-| 2 | [advanced-rising](https://github.com/advanced-rising) | risingcore | Democratic People's Republic of Korea | 5,179 |
+| 2 | [advanced-rising](https://github.com/advanced-rising) | risingcore | Democratic People's Republic of Korea | 5,182 |
 | 3 | [boyesjo](https://github.com/boyesjo) | Boye Sjo | pyongyang | 4,390 |
 | 4 | [sakweli](https://github.com/sakweli) | Josh Sakweli | North Korea | 2,443 |
 | 5 | [henxdl](https://github.com/henxdl) | henxdl | Pyongyang, North Korea | 1,704 |
@@ -83,4 +83,4 @@ Indexed users: 185
 | 19 | [DillerOFire](https://github.com/DillerOFire) | VerpaSRP | North Korea | 14 |
 | 20 | [JeonJung-kook](https://github.com/JeonJung-kook) | Jeon Jung-kook Cantor | North Korea | 14 |
 
-Generated: 2026-10-18T13:52:15.210Z
+Generated: 2026-10-18T15:21:31.577Z

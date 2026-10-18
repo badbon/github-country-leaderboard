@@ -75,12 +75,12 @@ Indexed users: 888
 | 11 | [lockie](https://github.com/lockie) | Andrew Kravchuk | Montenegro, Podgorica | 135 |
 | 12 | [arikon](https://github.com/arikon) | Sergey Belov | Tivat, Montenegro | 131 |
 | 13 | [mifth](https://github.com/mifth) | mifth | Montenegro | 129 |
-| 14 | [ESA1979](https://github.com/ESA1979) | Emrah Süleyman Atalay | Montenegro | 127 |
-| 15 | [gh110919](https://github.com/gh110919) | ilia sergeev | Podgorica | 127 |
+| 14 | [gh110919](https://github.com/gh110919) | ilia sergeev | Podgorica | 127 |
+| 15 | [ESA1979](https://github.com/ESA1979) | Emrah Süleyman Atalay | Montenegro | 126 |
 | 16 | [hedza06](https://github.com/hedza06) | Heril Muratovic | Montenegro, Podgorica | 107 |
 | 17 | [perisicnikola37](https://github.com/perisicnikola37) | Nikola Perisic | Podgorica, Montenegro | 101 |
 | 18 | [StevanCakic](https://github.com/StevanCakic) | Stevan Čakić | Montenegro | 101 |
 | 19 | [vovkasm](https://github.com/vovkasm) | Vladimir Timofeev | Budva, Montenegro | 99 |
 | 20 | [marcoroganovic](https://github.com/marcoroganovic) | Marko Roganovic | Montenegro | 89 |
 
-Generated: 2026-10-18T13:48:15.681Z
+Generated: 2026-10-18T15:15:52.191Z

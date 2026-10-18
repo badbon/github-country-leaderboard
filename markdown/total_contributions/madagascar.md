@@ -1,6 +1,6 @@
 # Total Contributions - Madagascar
 
-Generated: 2026-10-18T13:43:24.258Z
+Generated: 2026-10-18T15:10:16.002Z
 
 Users: 1904
 
@@ -11,7 +11,7 @@ Users: 1904
 | 3 | [rajostelly](https://github.com/rajostelly) | RANDRIATSEHENO Rajo Stelly  |  |  | Madagascar | 14957 |
 | 4 | [tiavina-mika](https://github.com/tiavina-mika) | Tiavina Michael Ralainirina | Freelance |  | Antananarivo, Madagascar | 11993 |
 | 5 | [titamrtn](https://github.com/titamrtn) | RAJAONAH Nandrianina |  |  | Antananarivo, Madagascar | 11123 |
-| 6 | [elsycharles](https://github.com/elsycharles) | Elsy | IT University |  | Madagascar | 10457 |
+| 6 | [elsycharles](https://github.com/elsycharles) | Elsy | IT University |  | Madagascar | 10326 |
 | 7 | [EdouardoRabe](https://github.com/EdouardoRabe) |  |  |  | Madagascar | 10158 |
 | 8 | [Xpirix](https://github.com/Xpirix) | Lova Andriarimalala |  | Xpirix3 | Madagascar | 9440 |
 | 9 | [josoavj](https://github.com/josoavj) | Josoa Vonjiniaina | @APEXNovaLabs  | j_Josoa | Antananarivo, Madagascar | 7594 |

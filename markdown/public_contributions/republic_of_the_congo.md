@@ -1,6 +1,6 @@
 # Public Contributions - Republic of the Congo
 
-Generated: 2026-10-18T13:56:51.568Z
+Generated: 2026-10-18T15:28:22.269Z
 
 Users: 298
 
@@ -15,14 +15,14 @@ Users: 298
 | 7 | [elongastarks](https://github.com/elongastarks) | Elonga Stark  | Es.Dev |  | Congo/North-kivu/Butembo | 518 |
 | 8 | [SedeoLeos](https://github.com/SedeoLeos) | Slaega | @NovenveraTech  |  | Brazzaville congo | 451 |
 | 9 | [Flammeduciel](https://github.com/Flammeduciel) | Flamme Du Ciel WASS |  |  | Brazzaville CG | 385 |
-| 10 | [lafondcodeur](https://github.com/lafondcodeur) | MACK LAFOND De Boumas | PossaCode |  | Brazzaville | 360 |
-| 11 | [denniskoech457](https://github.com/denniskoech457) | Extravaganza | Extravaganza |  | Congo | 354 |
-| 12 | [leloeduk](https://github.com/leloeduk) | Lelo  | Lelo eduk |  | Congo | 316 |
-| 13 | [babacleven](https://github.com/babacleven) | BABA Aristote Cleven  | AKIENI ACADEMY |  | Congo-Brazzaville | 302 |
-| 14 | [lepresk](https://github.com/lepresk) | Logan CodeMaker | @Akieni | lepresk1 | Brazzaville, Congo | 296 |
-| 15 | [Chadrac-WAKOMYA](https://github.com/Chadrac-WAKOMYA) | KIGHUNDILA WAKOMYA Chadrac |  |  | Congo | 254 |
-| 16 | [chronoss09](https://github.com/chronoss09) | Chronoss | CHRONOSS GAMES | chronoss09 | Congo | 217 |
-| 17 | [Ssnnee](https://github.com/Ssnnee) | Samuel Nandi |  | NandiSne | Republic of the Congo | 200 |
-| 18 | [arsene-akiana](https://github.com/arsene-akiana) | Arsène Gloire AKIANA  |  | AkianaArsene | Brazzaville, Congo | 195 |
-| 19 | [DMiyalu](https://github.com/DMiyalu) | Dieudonné Miyalu |  |  | congo | 193 |
-| 20 | [MakVieSAinte](https://github.com/MakVieSAinte) | MakVieSAinte |  |  | Congo Brazzaville | 186 |
+| 10 | [BlackAngel242](https://github.com/BlackAngel242) | DrSmoke |  |  | Congo | 370 |
+| 11 | [lafondcodeur](https://github.com/lafondcodeur) | MACK LAFOND De Boumas | PossaCode |  | Brazzaville | 360 |
+| 12 | [denniskoech457](https://github.com/denniskoech457) | Extravaganza | Extravaganza |  | Congo | 354 |
+| 13 | [leloeduk](https://github.com/leloeduk) | Lelo  | Lelo eduk |  | Congo | 316 |
+| 14 | [babacleven](https://github.com/babacleven) | BABA Aristote Cleven  | AKIENI ACADEMY |  | Congo-Brazzaville | 302 |
+| 15 | [lepresk](https://github.com/lepresk) | Logan CodeMaker | @Akieni | lepresk1 | Brazzaville, Congo | 296 |
+| 16 | [Chadrac-WAKOMYA](https://github.com/Chadrac-WAKOMYA) | KIGHUNDILA WAKOMYA Chadrac |  |  | Congo | 254 |
+| 17 | [chronoss09](https://github.com/chronoss09) | Chronoss | CHRONOSS GAMES | chronoss09 | Congo | 217 |
+| 18 | [Ssnnee](https://github.com/Ssnnee) | Samuel Nandi |  | NandiSne | Republic of the Congo | 200 |
+| 19 | [arsene-akiana](https://github.com/arsene-akiana) | Arsène Gloire AKIANA  |  | AkianaArsene | Brazzaville, Congo | 195 |
+| 20 | [DMiyalu](https://github.com/DMiyalu) | Dieudonné Miyalu |  |  | congo | 193 |

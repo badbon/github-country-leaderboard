@@ -1,6 +1,6 @@
 # Total Contributions - Macau
 
-Generated: 2026-10-18T13:42:03.082Z
+Generated: 2026-10-18T15:09:09.696Z
 
 Users: 439
 
@@ -16,7 +16,7 @@ Users: 439
 | 8 | [sfcheung](https://github.com/sfcheung) | Shu Fai Cheung | University of Macau | blogonresearch | Macao | 3351 |
 | 9 | [1595901624](https://github.com/1595901624) | Cloris |  | LhyLuhaoyu | Macau | 3333 |
 | 10 | [MUST-panxiao](https://github.com/MUST-panxiao) | Xiao Pan | Macau University of Science and Technology |  | Macau | 2937 |
-| 11 | [7788ken](https://github.com/7788ken) | Mark.pan |  |  | Macau,Zhuhai | 2305 |
+| 11 | [7788ken](https://github.com/7788ken) | Mark.pan |  |  | Macau,Zhuhai | 2298 |
 | 12 | [mugpeng](https://github.com/mugpeng) | Peng |  |  | macao | 2284 |
 | 13 | [Alex-Leong](https://github.com/Alex-Leong) | Alex |  |  | Macau | 2184 |
 | 14 | [Yh1sam](https://github.com/Yh1sam) |  | Pui Ching Middle School |  | Macau | 2099 |
