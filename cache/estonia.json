@@ -33583,7 +33583,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 52,
+    "privateContributions": 48,
     "publicContributions": 0,
     "createdAt": "2016-11-21T18:02:08Z"
   },
@@ -33620,18 +33620,18 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 135,
+    "publicContributions": 132,
     "createdAt": "2016-09-06T09:55:43Z"
   },
   {
     "login": "hanshs",
     "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/19611757?s=72&u=eb7c9b0c40ff4b7bf74587a9004c59f4bf794b04&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/19611757?s=72&u=33e7b22eeef6f1da10cf0f27cf50048f7ba9deea&v=4",
     "location": "Tallinn",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 744,
+    "followers": 5,
+    "privateContributions": 1247,
     "publicContributions": 1,
     "createdAt": "2016-05-27T15:32:18Z"
   },
@@ -33667,7 +33667,7 @@
     "company": "Norstat",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 2139,
+    "privateContributions": 2930,
     "publicContributions": 1,
     "createdAt": "2016-02-25T13:46:25Z"
   },
@@ -33676,11 +33676,11 @@
     "name": "Bertrand Dour",
     "avatarUrl": "https://avatars.githubusercontent.com/u/16834069?s=72&u=4ea71b8bf0718ef8ee714a56e3cb120a780edc80&v=4",
     "location": "Tallinn, EE",
-    "company": "7 Flows",
+    "company": "7 Flows - Bluewaves",
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 549,
+    "publicContributions": 650,
     "createdAt": "2016-01-22T08:56:15Z"
   },
   {
@@ -33708,18 +33708,6 @@
     "createdAt": "2016-07-20T07:48:47Z"
   },
   {
-    "login": "ssilver113",
-    "name": "Silver S",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/20640350?s=72&v=4",
-    "location": "Tallinn",
-    "company": "ON24",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 569,
-    "publicContributions": 1,
-    "createdAt": "2016-07-25T10:41:40Z"
-  },
-  {
     "login": "ivaravi",
     "name": "Ivar Avi",
     "avatarUrl": "https://avatars.githubusercontent.com/u/21142961?s=72&u=f2369dfbf81db1aa1ed232d5df4eda817a2e1413&v=4",
@@ -33727,7 +33715,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 0,
+    "privateContributions": 1695,
     "publicContributions": 0,
     "createdAt": "2016-08-20T14:04:23Z"
   },
@@ -33740,19 +33728,19 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 12,
     "createdAt": "2016-09-25T06:18:02Z"
   },
   {
     "login": "lukacsaron",
     "name": "Aron Lukacs",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/16500474?s=72&u=8a029146e6e9fcb5ebb7a24d6d3607528d9edc35&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16500474?s=72&u=855f37d6b2fc52f6f1768c1a9d301594ef3c0607&v=4",
     "location": "Tallinn",
     "company": "jazzrabbit OÜ",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 10970,
-    "publicContributions": 104,
+    "followers": 3,
+    "privateContributions": 17543,
+    "publicContributions": 338,
     "createdAt": "2015-12-31T12:10:55Z"
   },
   {
@@ -33787,21 +33775,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 307,
+    "privateContributions": 288,
     "publicContributions": 32,
     "createdAt": "2016-09-06T09:55:51Z"
-  },
-  {
-    "login": "ievgeniilogunov",
-    "name": "Yevhenii Lohunov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/21203903?s=72&u=776d9ea464af660f05e64756d6ea739262925d2b&v=4",
-    "location": "Tallinn",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2016-08-23T18:18:12Z"
   },
   {
     "login": "npletneva",

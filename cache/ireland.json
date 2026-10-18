@@ -33224,7 +33224,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 0,
     "createdAt": "2022-02-08T08:20:18Z"
   },
   {
@@ -33284,7 +33284,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 27,
-    "publicContributions": 3,
+    "publicContributions": 2,
     "createdAt": "2022-10-26T22:02:30Z"
   },
   {
@@ -33320,7 +33320,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 226,
+    "publicContributions": 240,
     "createdAt": "2022-10-13T19:09:14Z"
   },
   {
@@ -33343,8 +33343,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 15,
+    "privateContributions": 2398,
+    "publicContributions": 16,
     "createdAt": "2022-02-15T09:44:48Z"
   },
   {
@@ -33354,9 +33354,9 @@
     "location": "Dublin",
     "company": "Microsoft",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2022-08-31T15:00:27Z"
   },
   {
@@ -33366,21 +33366,21 @@
     "location": "Dublin",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 1120,
+    "followers": 2,
+    "privateContributions": 1712,
     "publicContributions": 1,
     "createdAt": "2022-10-04T14:55:53Z"
   },
   {
     "login": "sqsp-rwatkins",
     "name": "Ronan Watkins",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/114502094?s=72&u=2c9c6eadb3fb683ac4dbef658fa430adf71568a1&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/114502094?s=72&u=2a0d6148b4cbf205448e4c1c25aec4b12789f72d&v=4",
     "location": "Dublin",
     "company": "@sqsp ",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 3,
     "createdAt": "2022-09-27T14:49:30Z"
   },
   {

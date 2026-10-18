@@ -2887,7 +2887,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 75,
-    "privateContributions": 329,
+    "privateContributions": 330,
     "publicContributions": 364,
     "createdAt": "2023-05-02T18:52:09Z"
   },
@@ -2900,7 +2900,7 @@
     "twitterUsername": "",
     "followers": 40,
     "privateContributions": 42,
-    "publicContributions": 238,
+    "publicContributions": 237,
     "createdAt": "2023-03-01T05:24:53Z"
   },
   {
@@ -2911,7 +2911,7 @@
     "company": "Central University \"Marta Abreu\" of Las Villas",
     "twitterUsername": "",
     "followers": 38,
-    "privateContributions": 2767,
+    "privateContributions": 2750,
     "publicContributions": 7,
     "createdAt": "2023-04-08T18:43:07Z"
   },
@@ -2934,9 +2934,9 @@
     "location": "Santa Clara, Cuba",
     "company": "",
     "twitterUsername": "",
-    "followers": 27,
-    "privateContributions": 251,
-    "publicContributions": 28,
+    "followers": 26,
+    "privateContributions": 247,
+    "publicContributions": 31,
     "createdAt": "2023-03-17T22:45:17Z"
   },
   {
@@ -2958,9 +2958,9 @@
     "location": "Cuba",
     "company": "",
     "twitterUsername": "",
-    "followers": 24,
+    "followers": 23,
     "privateContributions": 187,
-    "publicContributions": 16,
+    "publicContributions": 20,
     "createdAt": "2023-11-25T09:40:22Z"
   },
   {
@@ -2983,7 +2983,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 26,
-    "privateContributions": 15,
+    "privateContributions": 13,
     "publicContributions": 9,
     "createdAt": "2023-04-14T08:56:59Z"
   },
@@ -2994,7 +2994,7 @@
     "location": "Matanzas, Cuba",
     "company": "@Universidad-de-Matanzas ",
     "twitterUsername": "",
-    "followers": 22,
+    "followers": 23,
     "privateContributions": 36,
     "publicContributions": 475,
     "createdAt": "2023-03-30T21:58:42Z"
@@ -3019,21 +3019,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 20,
-    "privateContributions": 66,
+    "privateContributions": 77,
     "publicContributions": 479,
     "createdAt": "2023-04-08T07:00:22Z"
-  },
-  {
-    "login": "AndyCG03",
-    "name": "Andy Clemente",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/130183788?s=72&u=6383ccfdd005e2108fb4805da1b897395e090f9e&v=4",
-    "location": "La Habana, Cuba",
-    "company": "Devisi",
-    "twitterUsername": "",
-    "followers": 34,
-    "privateContributions": 0,
-    "publicContributions": 368,
-    "createdAt": "2023-04-07T20:14:55Z"
   },
   {
     "login": "KITEG21",
@@ -3043,8 +3031,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 20,
-    "privateContributions": 55,
-    "publicContributions": 283,
+    "privateContributions": 38,
+    "publicContributions": 288,
     "createdAt": "2023-11-07T01:24:39Z"
   },
   {
@@ -3054,9 +3042,9 @@
     "location": "Havana, Cuba",
     "company": "",
     "twitterUsername": "sebagonz106",
-    "followers": 18,
+    "followers": 17,
     "privateContributions": 0,
-    "publicContributions": 504,
+    "publicContributions": 497,
     "createdAt": "2023-01-28T01:47:31Z"
   },
   {
@@ -3079,8 +3067,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 21,
-    "privateContributions": 2381,
-    "publicContributions": 481,
+    "privateContributions": 2375,
+    "publicContributions": 498,
     "createdAt": "2023-03-15T20:15:00Z"
   },
   {
@@ -3092,7 +3080,7 @@
     "twitterUsername": "",
     "followers": 19,
     "privateContributions": 0,
-    "publicContributions": 32,
+    "publicContributions": 31,
     "createdAt": "2023-05-17T23:51:29Z"
   },
   {

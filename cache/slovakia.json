@@ -33176,7 +33176,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2016-05-17T21:16:10Z"
   },
   {
@@ -33224,7 +33224,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2016-05-31T12:34:27Z"
   },
   {
@@ -33331,8 +33331,8 @@
     "company": "@exponea",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 2,
-    "publicContributions": 3,
+    "privateContributions": 3,
+    "publicContributions": 4,
     "createdAt": "2016-09-27T07:03:08Z"
   },
   {
@@ -33344,7 +33344,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 36,
+    "publicContributions": 31,
     "createdAt": "2016-03-16T12:17:32Z"
   },
   {
@@ -33360,18 +33360,6 @@
     "createdAt": "2016-12-21T17:22:43Z"
   },
   {
-    "login": "keyz7x",
-    "name": "Kamil",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/21365409?s=72&u=d2ade44771562e931800b5c6f7b97bbc636b8385&v=4",
-    "location": "Slovakia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 89,
-    "publicContributions": 0,
-    "createdAt": "2016-08-31T15:20:37Z"
-  },
-  {
     "login": "Kubis4",
     "name": "Vladimir Kubica",
     "avatarUrl": "https://avatars.githubusercontent.com/u/17035028?s=72&v=4",
@@ -33380,7 +33368,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 54,
     "createdAt": "2016-02-02T22:31:20Z"
   },
   {
@@ -33390,9 +33378,9 @@
     "location": "Bratislava",
     "company": "",
     "twitterUsername": "",
-    "followers": 558,
+    "followers": 561,
     "privateContributions": 0,
-    "publicContributions": 2391,
+    "publicContributions": 1700,
     "createdAt": "2016-01-31T12:12:28Z"
   },
   {
@@ -33402,9 +33390,9 @@
     "location": "Bratislava",
     "company": "Canonical",
     "twitterUsername": "",
-    "followers": 518,
+    "followers": 520,
     "privateContributions": 13,
-    "publicContributions": 646,
+    "publicContributions": 605,
     "createdAt": "2016-02-15T22:32:23Z"
   },
   {
