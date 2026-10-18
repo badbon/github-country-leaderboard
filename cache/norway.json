@@ -31591,8 +31591,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 26,
-    "privateContributions": 103,
-    "publicContributions": 200,
+    "privateContributions": 214,
+    "publicContributions": 118,
     "createdAt": "2021-11-23T12:07:02Z"
   },
   {
@@ -31603,31 +31603,31 @@
     "company": "",
     "twitterUsername": "",
     "followers": 25,
-    "privateContributions": 360,
+    "privateContributions": 371,
     "publicContributions": 0,
     "createdAt": "2021-01-07T10:47:35Z"
   },
   {
     "login": "nahmed215",
     "name": "Nisar Ahmed (PhD)",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/95133121?s=72&u=b5cb3bef169208f4e30677eca3da35384db5b44c&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/95133121?s=72&u=8b2d7171cbdb0d4f92a156774ed5e7671c1e98ce&v=4",
     "location": "Norway",
     "company": "Universitetet i Stavanger",
     "twitterUsername": "philo_seismos",
-    "followers": 25,
-    "privateContributions": 0,
+    "followers": 26,
+    "privateContributions": 26,
     "publicContributions": 12,
     "createdAt": "2021-11-27T13:29:42Z"
   },
   {
     "login": "TheodorSTTH",
     "name": "Theodor Strøm-Thrane",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/95082046?s=72&u=423a03f77c43c4372b7bf5844a74229c88bcdf79&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/95082046?s=72&u=21e9cda97f307c6f7766a6508ec5d2f0d9685a54&v=4",
     "location": "Trondheim, Norway",
     "company": "",
-    "twitterUsername": "TheodorSTTH",
+    "twitterUsername": "m_thrane",
     "followers": 23,
-    "privateContributions": 178,
+    "privateContributions": 187,
     "publicContributions": 138,
     "createdAt": "2021-11-26T11:37:18Z"
   },
@@ -31638,9 +31638,9 @@
     "location": "Oslo, Norway",
     "company": "",
     "twitterUsername": "",
-    "followers": 23,
+    "followers": 28,
     "privateContributions": 1,
-    "publicContributions": 32,
+    "publicContributions": 9,
     "createdAt": "2021-10-26T13:02:44Z"
   },
   {
@@ -31648,11 +31648,11 @@
     "name": "Magnus Byrkjeland",
     "avatarUrl": "https://avatars.githubusercontent.com/u/92637738?s=72&u=7632cb7a5e57dd672646e699c7474bd8882a012c&v=4",
     "location": "Oslo, Norway",
-    "company": "Fagtrykk AS",
+    "company": "Bekk",
     "twitterUsername": "byrkjiz",
-    "followers": 23,
-    "privateContributions": 818,
-    "publicContributions": 283,
+    "followers": 26,
+    "privateContributions": 1560,
+    "publicContributions": 373,
     "createdAt": "2021-10-16T14:20:14Z"
   },
   {
@@ -31662,9 +31662,9 @@
     "location": "Norway",
     "company": "",
     "twitterUsername": "",
-    "followers": 23,
-    "privateContributions": 17,
-    "publicContributions": 3,
+    "followers": 24,
+    "privateContributions": 20,
+    "publicContributions": 4,
     "createdAt": "2021-04-06T23:08:18Z"
   },
   {
@@ -31674,9 +31674,9 @@
     "location": "Oslo, Norway",
     "company": "@Bouvet",
     "twitterUsername": "",
-    "followers": 23,
-    "privateContributions": 189,
-    "publicContributions": 1864,
+    "followers": 22,
+    "privateContributions": 180,
+    "publicContributions": 2036,
     "createdAt": "2021-04-21T17:13:09Z"
   },
   {
@@ -31686,8 +31686,8 @@
     "location": "Oslo, Norway",
     "company": "@livearena",
     "twitterUsername": "",
-    "followers": 22,
-    "privateContributions": 1111,
+    "followers": 24,
+    "privateContributions": 1025,
     "publicContributions": 3,
     "createdAt": "2021-02-25T15:30:47Z"
   },
@@ -31699,8 +31699,8 @@
     "company": "",
     "twitterUsername": "KatDotSoftware",
     "followers": 22,
-    "privateContributions": 904,
-    "publicContributions": 2494,
+    "privateContributions": 1222,
+    "publicContributions": 1524,
     "createdAt": "2021-10-06T23:50:16Z"
   },
   {
@@ -31734,9 +31734,9 @@
     "location": "Oslo, Norway",
     "company": "",
     "twitterUsername": "",
-    "followers": 22,
+    "followers": 23,
     "privateContributions": 0,
-    "publicContributions": 502,
+    "publicContributions": 676,
     "createdAt": "2021-05-09T20:39:12Z"
   },
   {
@@ -31748,7 +31748,7 @@
     "twitterUsername": "",
     "followers": 21,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 5,
     "createdAt": "2021-11-26T20:37:21Z"
   },
   {
@@ -31758,9 +31758,9 @@
     "location": "Haugesund, Norway",
     "company": "CGI",
     "twitterUsername": "sailedev",
-    "followers": 21,
-    "privateContributions": 3829,
-    "publicContributions": 68,
+    "followers": 23,
+    "privateContributions": 4454,
+    "publicContributions": 57,
     "createdAt": "2021-03-19T20:25:00Z"
   },
   {
@@ -31783,8 +31783,8 @@
     "company": "Netcompany",
     "twitterUsername": "",
     "followers": 20,
-    "privateContributions": 576,
-    "publicContributions": 627,
+    "privateContributions": 590,
+    "publicContributions": 516,
     "createdAt": "2021-09-14T13:10:59Z"
   },
   {
@@ -31794,9 +31794,9 @@
     "location": "Trondheim, Norway",
     "company": "@OrbitNTNU",
     "twitterUsername": "",
-    "followers": 20,
-    "privateContributions": 74,
-    "publicContributions": 534,
+    "followers": 23,
+    "privateContributions": 31,
+    "publicContributions": 549,
     "createdAt": "2021-01-26T10:25:01Z"
   },
   {
@@ -31806,9 +31806,9 @@
     "location": "Norway",
     "company": "",
     "twitterUsername": "zeonwin",
-    "followers": 19,
-    "privateContributions": 14,
-    "publicContributions": 78,
+    "followers": 21,
+    "privateContributions": 20,
+    "publicContributions": 80,
     "createdAt": "2021-12-21T13:30:00Z"
   },
   {

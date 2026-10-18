@@ -31423,8 +31423,8 @@
     "company": "@Vinted",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 841,
-    "publicContributions": 44,
+    "privateContributions": 866,
+    "publicContributions": 36,
     "createdAt": "2017-11-26T21:16:54Z"
   },
   {
@@ -31447,7 +31447,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 24,
+    "privateContributions": 20,
     "publicContributions": 0,
     "createdAt": "2017-03-27T14:01:49Z"
   },
@@ -31470,7 +31470,7 @@
     "location": "Lithuania, Vilnius",
     "company": "EPAM Systems",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-01-31T15:55:28Z"
@@ -31488,18 +31488,6 @@
     "createdAt": "2017-11-15T17:39:24Z"
   },
   {
-    "login": "yuridulin",
-    "name": "void",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/26840616?s=72&u=571e8f1211daf7efeb9cf910a0e8a3bc1580d599&v=4",
-    "location": "Vilnius, Lithuania",
-    "company": "OPO StudyCenter",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2017-04-01T15:39:40Z"
-  },
-  {
     "login": "nfwGytautas",
     "name": "Gytautas Kazlauskas",
     "avatarUrl": "https://avatars.githubusercontent.com/u/31259804?s=72&u=c9b0647c0ba4f3b9a5502a4351d84309b2a3cca2&v=4",
@@ -31507,7 +31495,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 291,
+    "privateContributions": 270,
     "publicContributions": 30,
     "createdAt": "2017-08-22T22:12:28Z"
   },
@@ -31532,7 +31520,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 58,
     "createdAt": "2017-05-01T15:47:18Z"
   },
   {
@@ -31567,8 +31555,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 798,
-    "publicContributions": 5,
+    "privateContributions": 945,
+    "publicContributions": 1,
     "createdAt": "2017-07-20T13:39:10Z"
   },
   {
@@ -31579,7 +31567,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 1268,
+    "privateContributions": 1358,
     "publicContributions": 0,
     "createdAt": "2017-07-15T16:44:58Z"
   },
@@ -31592,7 +31580,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 1,
     "createdAt": "2017-10-09T14:59:18Z"
   },
   {
