@@ -31004,7 +31004,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 14,
     "createdAt": "2016-09-12T11:13:55Z"
   },
   {
@@ -31016,7 +31016,7 @@
     "twitterUsername": "sroheed",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 110,
+    "publicContributions": 122,
     "createdAt": "2016-06-26T10:15:51Z"
   },
   {
@@ -31027,8 +31027,8 @@
     "company": "@Qminder",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 2342,
-    "publicContributions": 30,
+    "privateContributions": 2780,
+    "publicContributions": 25,
     "createdAt": "2016-04-02T13:53:10Z"
   },
   {
@@ -31051,7 +31051,7 @@
     "company": "@pipedrive ",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 1686,
+    "privateContributions": 1698,
     "publicContributions": 0,
     "createdAt": "2016-01-14T10:58:43Z"
   },
@@ -31062,9 +31062,9 @@
     "location": "Tallinn, Estonia",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 110,
+    "followers": 7,
+    "privateContributions": 1221,
+    "publicContributions": 108,
     "createdAt": "2016-12-21T10:36:35Z"
   },
   {
@@ -31086,22 +31086,10 @@
     "location": "Tartu, Estonia",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 38,
     "createdAt": "2016-09-08T13:20:54Z"
-  },
-  {
-    "login": "lambdatamer",
-    "name": "Alexander Sirota",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/19763025?s=72&u=01bad62ba5646d2c3605209c0e3dac8a35644ed1&v=4",
-    "location": "Tallinn, Estonia",
-    "company": "Monese",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2016-06-05T16:16:51Z"
   },
   {
     "login": "AndresVork",
@@ -31112,7 +31100,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 33,
+    "publicContributions": 81,
     "createdAt": "2016-09-23T10:45:40Z"
   },
   {
@@ -31171,7 +31159,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 2906,
+    "privateContributions": 2692,
     "publicContributions": 0,
     "createdAt": "2016-10-20T12:41:04Z"
   },
@@ -31196,7 +31184,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 12,
     "createdAt": "2016-01-25T06:50:09Z"
   },
   {
@@ -31220,7 +31208,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 77,
+    "publicContributions": 78,
     "createdAt": "2016-04-27T09:32:21Z"
   },
   {
@@ -31230,7 +31218,7 @@
     "location": "Tallinn, Estonia",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 3,
     "privateContributions": 11,
     "publicContributions": 12,
     "createdAt": "2016-06-26T20:30:08Z"

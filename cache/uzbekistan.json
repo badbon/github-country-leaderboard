@@ -30746,13 +30746,13 @@
   {
     "login": "xafizovdev",
     "name": "Xafizov G'iyosiddin",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/153916780?s=72&u=a0b6ef5155a155f6ab82e78e96fa2d2f5b132469&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/153916780?s=72&u=6da6ca81b908ce7fff25159db7bd452575ca1c4e&v=4",
     "location": "Uzbekistan, Namangan",
     "company": "",
     "twitterUsername": "",
-    "followers": 13,
+    "followers": 18,
     "privateContributions": 0,
-    "publicContributions": 102,
+    "publicContributions": 108,
     "createdAt": "2023-12-15T12:08:36Z"
   },
   {
@@ -30763,8 +30763,8 @@
     "company": "Dreamcity",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 2,
-    "publicContributions": 18,
+    "privateContributions": 0,
+    "publicContributions": 3,
     "createdAt": "2023-09-11T04:02:00Z"
   },
   {
@@ -30775,7 +30775,7 @@
     "company": "Faktura.uz",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 383,
+    "privateContributions": 69,
     "publicContributions": 21,
     "createdAt": "2023-08-16T05:36:47Z"
   },
@@ -30786,9 +30786,9 @@
     "location": "Tashkent, Uzbekistan ",
     "company": "Mars IT School",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 410,
+    "publicContributions": 726,
     "createdAt": "2023-12-16T12:27:06Z"
   },
   {
@@ -30798,9 +30798,9 @@
     "location": "Uzbekistan/Tashkent",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 776,
-    "publicContributions": 226,
+    "followers": 11,
+    "privateContributions": 1011,
+    "publicContributions": 217,
     "createdAt": "2023-12-26T09:21:43Z"
   },
   {
@@ -30810,21 +30810,21 @@
     "location": "Tashkent, Uzbekistan",
     "company": "@zehnmind",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 15,
     "privateContributions": 0,
-    "publicContributions": 227,
+    "publicContributions": 328,
     "createdAt": "2023-10-24T10:00:55Z"
   },
   {
     "login": "zecoryx",
-    "name": "zecoryx",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/149165864?s=72&u=175d951fd552fd0116dc6a8a77186ebedb4a62b6&v=4",
+    "name": "lazizbek",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/149165864?s=72&u=db187abe322bf4825d51f558a2969400db41589b&v=4",
     "location": "Uzbekistan, Fergana",
     "company": "",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 752,
-    "publicContributions": 122,
+    "privateContributions": 824,
+    "publicContributions": 126,
     "createdAt": "2023-10-27T11:51:13Z"
   },
   {
@@ -30835,8 +30835,8 @@
     "company": "Urgench Branch of Tashkent University of Information Technologies named after Muhammad Al-Khwarizmi",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 1173,
-    "publicContributions": 1040,
+    "privateContributions": 1851,
+    "publicContributions": 1103,
     "createdAt": "2023-12-11T07:47:34Z"
   },
   {
@@ -30848,7 +30848,7 @@
     "twitterUsername": "",
     "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 87,
+    "publicContributions": 67,
     "createdAt": "2023-08-26T13:41:40Z"
   },
   {
@@ -30858,9 +30858,9 @@
     "location": "Uzbekistan, Tashkent",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 138,
+    "publicContributions": 131,
     "createdAt": "2023-07-13T11:06:44Z"
   },
   {
@@ -30882,9 +30882,9 @@
     "location": "Uzbekistan, Fergana",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 48,
     "createdAt": "2023-09-02T15:07:24Z"
   },
   {
@@ -30918,9 +30918,9 @@
     "location": "Tashkent, Uzbekistan.",
     "company": "Home Developer",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 32,
     "createdAt": "2023-07-17T15:11:19Z"
   },
   {
@@ -30944,20 +30944,8 @@
     "twitterUsername": "",
     "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 37,
+    "publicContributions": 29,
     "createdAt": "2023-11-25T15:32:18Z"
-  },
-  {
-    "login": "abdumajidov-temurbek",
-    "name": "Temurbek",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/147587309?s=72&u=8e51ac7dc6e95e1c93ded83857d844fb02014805&v=4",
-    "location": "uzbekistan",
-    "company": "school-21",
-    "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 0,
-    "publicContributions": 10,
-    "createdAt": "2023-10-11T06:21:51Z"
   },
   {
     "login": "ganyaowl",
@@ -30966,9 +30954,9 @@
     "location": "Uzbekistan, Tashkent",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 78,
-    "publicContributions": 219,
+    "followers": 10,
+    "privateContributions": 95,
+    "publicContributions": 255,
     "createdAt": "2023-09-27T15:55:35Z"
   },
   {
@@ -30980,7 +30968,7 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 203,
+    "publicContributions": 250,
     "createdAt": "2023-12-16T04:28:12Z"
   },
   {

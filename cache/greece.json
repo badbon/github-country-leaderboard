@@ -30888,18 +30888,6 @@
     "createdAt": "2022-03-11T09:54:52Z"
   },
   {
-    "login": "rafaelasterg",
-    "name": "Ραφαηλία Στεργιοπούλου",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/103337174?s=72&v=4",
-    "location": "Athens,Greece",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2022-04-09T21:18:17Z"
-  },
-  {
     "login": "NickAttemptingNeural",
     "name": "Niko Adamopoulos",
     "avatarUrl": "https://avatars.githubusercontent.com/u/113801339?s=72&v=4",
@@ -30936,18 +30924,6 @@
     "createdAt": "2022-08-20T11:12:49Z"
   },
   {
-    "login": "LevantisChris",
-    "name": "Levantis Christos",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/117188793?s=72&u=0b8c9e22ce2b928251a1136935efd02d372d2b63&v=4",
-    "location": "Greece",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 181,
-    "publicContributions": 0,
-    "createdAt": "2022-11-01T14:44:15Z"
-  },
-  {
     "login": "AngelGiovanis",
     "name": "Αγγελος Γιοβανης",
     "avatarUrl": "https://avatars.githubusercontent.com/u/116574977?s=72&u=86f37a809aa29bea5e8bd4f2d713b81eeaa9ff2f&v=4",
@@ -30967,8 +30943,8 @@
     "company": "@indice-co ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 809,
-    "publicContributions": 120,
+    "privateContributions": 834,
+    "publicContributions": 91,
     "createdAt": "2022-10-20T10:08:38Z"
   },
   {
@@ -30978,7 +30954,7 @@
     "location": "Greece",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-10-01T18:17:11Z"
@@ -30992,7 +30968,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 1,
     "createdAt": "2022-04-20T22:13:23Z"
   },
   {
@@ -31028,7 +31004,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 15,
     "createdAt": "2022-07-16T10:22:47Z"
   },
   {
@@ -31040,20 +31016,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 4,
     "createdAt": "2022-07-21T08:48:46Z"
-  },
-  {
-    "login": "spirostrakadas",
-    "name": "Spiros.Trakadas",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/111435322?s=72&u=c67c68aa4c5a9d307e4b607edab5b18fff37f5a9&v=4",
-    "location": "athens Greece",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2022-08-17T12:15:24Z"
   },
   {
     "login": "ChrisZaf",
@@ -31076,7 +31040,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 0,
     "createdAt": "2022-10-21T12:07:18Z"
   },
   {

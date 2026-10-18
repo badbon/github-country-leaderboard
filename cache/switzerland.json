@@ -30474,7 +30474,7 @@
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 15,
+    "followers": 12,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-11-30T18:35:07Z"
@@ -30486,9 +30486,9 @@
     "location": "Basel, Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 15,
-    "privateContributions": 391,
-    "publicContributions": 202,
+    "followers": 16,
+    "privateContributions": 310,
+    "publicContributions": 209,
     "createdAt": "2022-08-14T11:03:12Z"
   },
   {
@@ -30510,8 +30510,8 @@
     "location": "Switzerland ",
     "company": "",
     "twitterUsername": "Chrissotino",
-    "followers": 15,
-    "privateContributions": 1475,
+    "followers": 18,
+    "privateContributions": 1952,
     "publicContributions": 63,
     "createdAt": "2022-08-19T22:15:49Z"
   },
@@ -30522,9 +30522,9 @@
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 15,
+    "followers": 17,
     "privateContributions": 0,
-    "publicContributions": 677,
+    "publicContributions": 828,
     "createdAt": "2022-12-01T15:57:55Z"
   },
   {
@@ -30546,9 +30546,9 @@
     "location": "Geneva, Switzerland ",
     "company": "EPFL",
     "twitterUsername": "",
-    "followers": 14,
-    "privateContributions": 430,
-    "publicContributions": 38,
+    "followers": 16,
+    "privateContributions": 759,
+    "publicContributions": 70,
     "createdAt": "2022-09-05T09:19:47Z"
   },
   {
@@ -30558,9 +30558,9 @@
     "location": "Lausanne, Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 14,
-    "privateContributions": 259,
-    "publicContributions": 224,
+    "followers": 16,
+    "privateContributions": 306,
+    "publicContributions": 256,
     "createdAt": "2022-10-23T18:58:19Z"
   },
   {
@@ -30570,9 +30570,9 @@
     "location": "Kaiseraugst, Switzerland",
     "company": "dsm-firmenich",
     "twitterUsername": "",
-    "followers": 14,
+    "followers": 16,
     "privateContributions": 0,
-    "publicContributions": 32,
+    "publicContributions": 5,
     "createdAt": "2022-08-09T07:53:23Z"
   },
   {
@@ -30582,8 +30582,8 @@
     "location": "Switzerland",
     "company": "@Marvelous-Digital",
     "twitterUsername": "",
-    "followers": 14,
-    "privateContributions": 1591,
+    "followers": 15,
+    "privateContributions": 1860,
     "publicContributions": 120,
     "createdAt": "2022-09-30T08:09:46Z"
   },
@@ -30594,9 +30594,9 @@
     "location": "Sursee, Switzerland",
     "company": "FINNOFLEET Schweiz AG",
     "twitterUsername": "",
-    "followers": 14,
-    "privateContributions": 150,
-    "publicContributions": 317,
+    "followers": 15,
+    "privateContributions": 149,
+    "publicContributions": 211,
     "createdAt": "2022-09-23T14:57:23Z"
   },
   {
@@ -30618,9 +30618,9 @@
     "location": "Switzerland",
     "company": "Hakurei Shrine (not real)",
     "twitterUsername": "",
-    "followers": 13,
+    "followers": 15,
     "privateContributions": 0,
-    "publicContributions": 116,
+    "publicContributions": 95,
     "createdAt": "2022-10-02T07:48:12Z"
   },
   {
@@ -30630,8 +30630,8 @@
     "location": "Zürich, Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 13,
-    "privateContributions": 278,
+    "followers": 15,
+    "privateContributions": 134,
     "publicContributions": 0,
     "createdAt": "2022-09-17T10:16:15Z"
   },
@@ -30656,7 +30656,7 @@
     "twitterUsername": "",
     "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 3,
     "createdAt": "2022-09-03T12:24:52Z"
   },
   {
@@ -30666,9 +30666,9 @@
     "location": "Switzerland",
     "company": "Abacus Resarch AG",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 693,
-    "publicContributions": 1006,
+    "followers": 10,
+    "privateContributions": 480,
+    "publicContributions": 1149,
     "createdAt": "2022-09-06T09:35:45Z"
   },
   {
@@ -30691,8 +30691,8 @@
     "company": "",
     "twitterUsername": "F_Schwendinger",
     "followers": 12,
-    "privateContributions": 17,
-    "publicContributions": 23,
+    "privateContributions": 14,
+    "publicContributions": 24,
     "createdAt": "2022-08-26T16:27:25Z"
   },
   {
@@ -30702,7 +30702,7 @@
     "location": "switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 13,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-07-02T16:36:13Z"
@@ -288982,5 +288982,17 @@
     "privateContributions": 13,
     "publicContributions": 63,
     "createdAt": "2026-06-28T17:27:13Z"
+  },
+  {
+    "login": "ktr0a",
+    "name": "Qiang Luo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/107317602?s=72&u=eed58d7ad11084f1c67b90e41a8c962d501b1307&v=4",
+    "location": "Switzerland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 76,
+    "publicContributions": 172,
+    "createdAt": "2022-06-11T16:35:27Z"
   }
 ]

@@ -30944,7 +30944,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 3,
     "createdAt": "2022-03-14T10:38:12Z"
   },
   {
@@ -31038,9 +31038,9 @@
     "location": "Vienna ",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 23,
     "createdAt": "2022-03-23T10:34:45Z"
   },
   {
@@ -31076,7 +31076,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 2,
     "createdAt": "2022-07-05T07:55:39Z"
   },
   {
@@ -31086,22 +31086,10 @@
     "location": "Vienna",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-09-04T21:36:43Z"
-  },
-  {
-    "login": "ktr0a",
-    "name": "QLuo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/107317602?s=72&u=eed58d7ad11084f1c67b90e41a8c962d501b1307&v=4",
-    "location": "Vienna",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 73,
-    "publicContributions": 139,
-    "createdAt": "2022-06-11T16:35:27Z"
   },
   {
     "login": "F51X",
