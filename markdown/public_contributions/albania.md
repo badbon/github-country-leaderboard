@@ -1,6 +1,6 @@
 # Public Contributions - Albania
 
-Generated: 2026-10-18T12:59:26.288Z
+Generated: 2026-10-18T14:23:44.318Z
 
 Users: 1184
 
@@ -14,7 +14,7 @@ Users: 1184
 | 6 | [okturan](https://github.com/okturan) | Okan Erturan |  |  | Tirana | 1406 |
 | 7 | [KLEOJAHOLLARI](https://github.com/KLEOJAHOLLARI) | Kleo Jahollari | Western Balkan Univesity | kleo_j14 | Albania | 1243 |
 | 8 | [ezekaj](https://github.com/ezekaj) | Elvi Zekaj | @zedigitaltech |  | Tirana, Albania | 1002 |
-| 9 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | CyberSecurity Researcher, Red Team, Bug Hunter | OrgitoRTA | Albania | 914 |
+| 9 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | CyberSecurity Researcher, Red Team, Bug Hunter | OrgitoRTA | Albania | 909 |
 | 10 | [cyanidium1](https://github.com/cyanidium1) | Fedir |  |  | Durres, Albania | 825 |
 | 11 | [ilrexho2011](https://github.com/ilrexho2011) | Ilirjan Rexho | Computer House AL |  | Vlorë, Albania | 784 |
 | 12 | [bredliplaku](https://github.com/bredliplaku) | Bredli |  |  | Albania | 757 |

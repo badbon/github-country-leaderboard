@@ -12,7 +12,7 @@ Indexed users: 898
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [bokmann](https://github.com/bokmann) | David Bock | Hamilton, VA | 20,678 |
+| 1 | [bokmann](https://github.com/bokmann) | David Bock | Hamilton, VA | 21,464 |
 | 2 | [nahoskins](https://github.com/nahoskins) | Nick Hoskins | Bermuda | 13,357 |
 | 3 | [kianis4](https://github.com/kianis4) | Suleyman Kiani | Hamilton, ON | 11,121 |
 | 4 | [xaphod](https://github.com/xaphod) | Tim Carr | Hamilton ON | 10,462 |
@@ -25,7 +25,7 @@ Indexed users: 898
 | 11 | [mattgrande](https://github.com/mattgrande) | Matt Grande | Hamilton, Ontario | 6,165 |
 | 12 | [Noprop](https://github.com/Noprop) | Greg Forster | Hamilton | 6,029 |
 | 13 | [nckdhl](https://github.com/nckdhl) | Nick Dahl | Hamilton | 5,625 |
-| 14 | [rdaum](https://github.com/rdaum) | Ryan Daum | Hamilton, Ontario | 5,130 |
+| 14 | [rdaum](https://github.com/rdaum) | Ryan Daum | Hamilton, Ontario | 5,112 |
 | 15 | [dbactual](https://github.com/dbactual) | Dave Berton | Bermuda | 5,041 |
 | 16 | [lbrgriffith](https://github.com/lbrgriffith) | L. B. Ricardo Griffith | Hamilton, Bermuda | 4,559 |
 | 17 | [grantlucas](https://github.com/grantlucas) | Grant Lucas | Hamilton, Ontario | 4,362 |
@@ -38,7 +38,7 @@ Indexed users: 898
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [brandonpayton](https://github.com/brandonpayton) | Brandon Payton | Hamilton, Indiana | 7,205 |
-| 2 | [rdaum](https://github.com/rdaum) | Ryan Daum | Hamilton, Ontario | 5,130 |
+| 2 | [rdaum](https://github.com/rdaum) | Ryan Daum | Hamilton, Ontario | 5,112 |
 | 3 | [wittjosiah](https://github.com/wittjosiah) | Josiah Witt | Hamilton, ON | 2,654 |
 | 4 | [bbolker](https://github.com/bbolker) | Ben Bolker | Hamilton, Ontario | 2,049 |
 | 5 | [Justype](https://github.com/Justype) | Cheng | Hamilton | 1,398 |
@@ -83,4 +83,4 @@ Indexed users: 898
 | 19 | [feilongcheng](https://github.com/feilongcheng) | Felix | Hamilton, NZ | 85 |
 | 20 | [wittjosiah](https://github.com/wittjosiah) | Josiah Witt | Hamilton, ON | 67 |
 
-Generated: 2026-10-18T13:09:34.666Z
+Generated: 2026-10-18T14:33:01.853Z

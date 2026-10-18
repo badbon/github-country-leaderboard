@@ -1,13 +1,13 @@
 # Followers - Botswana
 
-Generated: 2026-10-18T13:10:47.488Z
+Generated: 2026-10-18T14:35:25.209Z
 
 Users: 533
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [Fuzzworth](https://github.com/Fuzzworth) | Nyangasi Mhozya | @MODISAR  | FuzzFoo | Botswana | 241 |
-| 2 | [ramokhua](https://github.com/ramokhua) | Boitsholo Ramokhua | Student at University of Botswana  | boitsholo_r | Gaborone, Botswana | 153 |
+| 2 | [ramokhua](https://github.com/ramokhua) | Boitsholo Ramokhua | Student at University of Botswana  | boitsholo_r | Gaborone, Botswana | 154 |
 | 3 | [PrimordialOrigin](https://github.com/PrimordialOrigin) | Primordial |  |  | Gaborone, Botswana | 121 |
 | 4 | [Goitseone-Themba](https://github.com/Goitseone-Themba) | ISOTOPE \| THEMBA | Botswana International University of Science and Technology | GoitseoneThemba | Botswana | 104 |
 | 5 | [darula-hpp](https://github.com/darula-hpp) | Olebogeng Mbedzi | Gitwork |  | Gaborone | 75 |
@@ -15,7 +15,7 @@ Users: 533
 | 7 | [Raymacmillan](https://github.com/Raymacmillan) | Ryodevv | Ryom | Ryodevv | Botswana | 67 |
 | 8 | [VioletShards](https://github.com/VioletShards) | Leon N. |  |  | Botswana | 67 |
 | 9 | [Timbar09](https://github.com/Timbar09) | Miles Mosweu | Microverse | Milez09 | Palapye, Botswana | 64 |
-| 10 | [mulaxprime](https://github.com/mulaxprime) | Mulax Prime |  | RomeobwIII | Gaborone, Botswana | 62 |
+| 10 | [mulaxprime](https://github.com/mulaxprime) | Mulax Prime |  | RomeobwIII | Gaborone, Botswana | 63 |
 | 11 | [impurefunctions](https://github.com/impurefunctions) | Kesego Tumisang | @Spectrum-Analytics @officialgdggaborone  | impurefunctions | Gaborone, Botswana | 58 |
 | 12 | [Mathhews777](https://github.com/Mathhews777) | Thato Mooketsi |  |  | Gaborone | 50 |
 | 13 | [Hope-Nts](https://github.com/Hope-Nts) | Hope Ntshonono |  | Hope_Ntshonono | Gaborone,Botswana | 46 |

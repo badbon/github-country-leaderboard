@@ -18,7 +18,7 @@ Indexed users: 254
 | 4 | [akasmirhan4](https://github.com/akasmirhan4) | Amirrul Kasmirhan | Brunei | 2,276 |
 | 5 | [fatinjulaihi](https://github.com/fatinjulaihi) | Fatin Julaihi | Brunei | 1,178 |
 | 6 | [OmarDST](https://github.com/OmarDST) | Omar Ibrahim | Brunei | 1,025 |
-| 7 | [abizarleman](https://github.com/abizarleman) | Abizar Leman | Brunei Darussalam | 953 |
+| 7 | [abizarleman](https://github.com/abizarleman) | Abizar Leman | Brunei Darussalam | 934 |
 | 8 | [hilmishah](https://github.com/hilmishah) | Hilmi Shah | Brunei | 896 |
 | 9 | [KaramelBytes](https://github.com/KaramelBytes) | Jeremiah Henning | Brunei Darussalam | 854 |
 | 10 | [anwari-fikri](https://github.com/anwari-fikri) | Anwari Fikri | Brunei Darussalam | 692 |
@@ -83,4 +83,4 @@ Indexed users: 254
 | 19 | [nathanielcwm](https://github.com/nathanielcwm) | Nathaniel | Brunei | 14 |
 | 20 | [affenrahim88](https://github.com/affenrahim88) | Affandy Abdul Rahim | Brunei Darussalam | 13 |
 
-Generated: 2026-10-18T13:11:42.297Z
+Generated: 2026-10-18T14:35:57.812Z

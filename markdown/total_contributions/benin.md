@@ -1,6 +1,6 @@
 # Total Contributions - Benin
 
-Generated: 2026-10-18T13:09:30.739Z
+Generated: 2026-10-18T14:32:27.643Z
 
 Users: 471
 
@@ -13,9 +13,9 @@ Users: 471
 | 5 | [AxelSalim](https://github.com/AxelSalim) | ADJAKIDJE K. Axel S. H. |  | iamaxelsalim | Benin | 7318 |
 | 6 | [devalade](https://github.com/devalade) | Alade YESSOUFOU |  | dev_alade | Cotonou,Littoral, Benin | 6566 |
 | 7 | [jprud67](https://github.com/jprud67) | Prudence  Dieudonné Assogba |  | jprud667 | Benin, cotonou | 5175 |
-| 8 | [BOCOVO](https://github.com/BOCOVO) | bocovo | @BCV-TECH | juste_bocovo | Cotonou, Benin | 4444 |
+| 8 | [BOCOVO](https://github.com/BOCOVO) | bocovo | @BCV-TECH | juste_bocovo | Cotonou, Benin | 4410 |
 | 9 | [Block67](https://github.com/Block67) | Rahamane ₿ODA |  | Ramane_Boda | Benin, Cotonou | 4255 |
-| 10 | [ludndev](https://github.com/ludndev) | Judicaël AHYI |  | JudicaelAhyi | Cotonou, Benin | 4064 |
+| 10 | [ludndev](https://github.com/ludndev) | Judicaël AHYI |  | JudicaelAhyi | Cotonou, Benin | 4063 |
 | 11 | [Richard6141](https://github.com/Richard6141) | Richard SALANON |  |  | Cotonou, Bénin | 4026 |
 | 12 | [iyosayi0x](https://github.com/iyosayi0x) | Iyosayi |  | iyosayi0x | Nigeria , Benin  | 3985 |
 | 13 | [Reqima-dev](https://github.com/Reqima-dev) | Abdul A. KONDO | Friym |  | Benin, Cotonou | 3906 |

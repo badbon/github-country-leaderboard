@@ -1,8 +1,8 @@
 # Public Contributions - Armenia
 
-Generated: 2026-10-18T13:05:52.998Z
+Generated: 2026-10-18T14:28:15.282Z
 
-Users: 4036
+Users: 4035
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -14,8 +14,8 @@ Users: 4036
 | 6 | [ashvardanian](https://github.com/ashvardanian) | Ash Vardanian | BDFL @ Unum | ashvardanian | London, San Francisco, Yerevan | 3618 |
 | 7 | [diazoxide](https://github.com/diazoxide) | Aaron Yordanyan | EasyDMARC |  | Armenia | 3378 |
 | 8 | [m0n0x41d](https://github.com/m0n0x41d) | ivan zakutni | Fusioncat |  | Armenia | 2610 |
-| 9 | [anatoly-scherbakov](https://github.com/anatoly-scherbakov) | Anatoly Scherbakov | @datafold  |  | Yerevan, Armenia | 2578 |
-| 10 | [esceptico](https://github.com/esceptico) | Tim Ganiev |  | postimortem | Yerevan, Armenia | 2475 |
+| 9 | [esceptico](https://github.com/esceptico) | Tim Ganiev |  | postimortem | Yerevan, Armenia | 2586 |
+| 10 | [anatoly-scherbakov](https://github.com/anatoly-scherbakov) | Anatoly Scherbakov | @datafold  |  | Yerevan, Armenia | 2578 |
 | 11 | [diegnghtmr](https://github.com/diegnghtmr) | Diego Alejandro Flores Quintero | Universidad del Quindío |  | Armenia, Quindío, Colombia | 2130 |
 | 12 | [vvmspace](https://github.com/vvmspace) | Vladimir V. M. | DST - Dubai eSTate |  | Armenia | 2013 |
 | 13 | [gagik894](https://github.com/gagik894) | Gagik Sargsyan |  |  | Armenia | 1982 |

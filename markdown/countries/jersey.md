@@ -18,13 +18,13 @@ Indexed users: 139
 | 4 | [ndestates](https://github.com/ndestates) | Nick Dodsley | Jersey | 10,718 |
 | 5 | [guessty](https://github.com/guessty) | Christian | Jersey, Channel Islands | 8,131 |
 | 6 | [timkrins](https://github.com/timkrins) | Tim Krins | Jersey, Channel Islands | 4,859 |
-| 7 | [danielmullin](https://github.com/danielmullin) | Daniel Mullin | Jersey | 4,707 |
+| 7 | [danielmullin](https://github.com/danielmullin) | Daniel Mullin | Jersey | 4,708 |
 | 8 | [gnathoi](https://github.com/gnathoi) | Nathaniel Hey | Jersey, Channel Islands | 4,358 |
 | 9 | [wildgeodude](https://github.com/wildgeodude) | Dominic Samphier | Jersey | 4,043 |
 | 10 | [digitalbuddha](https://github.com/digitalbuddha) | Mike Nakhimovich | The dirty (jersey) | 3,942 |
 | 11 | [oidz1234](https://github.com/oidz1234) | Mark McNally | Jersey | 3,343 |
 | 12 | [r-moore](https://github.com/r-moore) | Richard Moore | Jersey | 3,343 |
-| 13 | [cjkmcc](https://github.com/cjkmcc) | Chris McCarthy | Jersey / London | 2,873 |
+| 13 | [cjkmcc](https://github.com/cjkmcc) | Chris McCarthy | Jersey / London | 2,853 |
 | 14 | [TafadzwaD](https://github.com/TafadzwaD) | Tafadzwa Demba | Jersey | 2,369 |
 | 15 | [samjamead](https://github.com/samjamead) | Sam Mead | Grouville, Jersey | 1,756 |
 | 16 | [jackleriche](https://github.com/jackleriche) | Jack Le Riche | Jersey | 1,640 |
@@ -47,7 +47,7 @@ Indexed users: 139
 | 8 | [gnathoi](https://github.com/gnathoi) | Nathaniel Hey | Jersey, Channel Islands | 452 |
 | 9 | [doobox](https://github.com/doobox) | Doobox | Jersey | 409 |
 | 10 | [michaelbutler1998](https://github.com/michaelbutler1998) | Michael Butler | Jersey | 407 |
-| 11 | [mhaddon](https://github.com/mhaddon) | Michael Haddon | Jersey, Channel Islands | 211 |
+| 11 | [mhaddon](https://github.com/mhaddon) | Michael Haddon | Jersey, Channel Islands | 217 |
 | 12 | [xsebby](https://github.com/xsebby) | sebby | jersey | 181 |
 | 13 | [ndestates](https://github.com/ndestates) | Nick Dodsley | Jersey | 162 |
 | 14 | [morrisjam](https://github.com/morrisjam) | James Morris | Jersey | 152 |
@@ -83,4 +83,4 @@ Indexed users: 139
 | 19 | [garyedwards](https://github.com/garyedwards) | Gary Edwards | Jersey, Channel Islands | 21 |
 | 20 | [Chrisedmo](https://github.com/Chrisedmo) | Chris Mousdale | Jersey, Channel Islands | 20 |
 
-Generated: 2026-10-18T13:34:25.854Z
+Generated: 2026-10-18T15:00:38.044Z

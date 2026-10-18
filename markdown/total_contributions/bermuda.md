@@ -1,12 +1,12 @@
 # Total Contributions - Bermuda
 
-Generated: 2026-10-18T13:09:34.666Z
+Generated: 2026-10-18T14:33:01.853Z
 
 Users: 898
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [bokmann](https://github.com/bokmann) | David Bock | @loudouncodes | bokmann | Hamilton, VA | 20678 |
+| 1 | [bokmann](https://github.com/bokmann) | David Bock | @loudouncodes | bokmann | Hamilton, VA | 21464 |
 | 2 | [nahoskins](https://github.com/nahoskins) | Nick Hoskins | @cactus-bm  |  | Bermuda | 13357 |
 | 3 | [kianis4](https://github.com/kianis4) | Suleyman Kiani | SKomp Studio |  | Hamilton, ON | 11121 |
 | 4 | [xaphod](https://github.com/xaphod) | Tim Carr | Solodigitalis | timcarrphoto | Hamilton ON | 10462 |
@@ -19,7 +19,7 @@ Users: 898
 | 11 | [mattgrande](https://github.com/mattgrande) | Matt Grande | @squareup  | mattgrande | Hamilton, Ontario | 6165 |
 | 12 | [Noprop](https://github.com/Noprop) | Greg Forster |  |  | Hamilton | 6029 |
 | 13 | [nckdhl](https://github.com/nckdhl) | Nick Dahl | Solodigitalis |  | Hamilton | 5625 |
-| 14 | [rdaum](https://github.com/rdaum) | Ryan Daum |  |  | Hamilton, Ontario | 5130 |
+| 14 | [rdaum](https://github.com/rdaum) | Ryan Daum |  |  | Hamilton, Ontario | 5112 |
 | 15 | [dbactual](https://github.com/dbactual) | Dave Berton | https://radixils.com |  | Bermuda | 5041 |
 | 16 | [lbrgriffith](https://github.com/lbrgriffith) | L. B. Ricardo Griffith | Questown L.L.C. |  | Hamilton, Bermuda | 4559 |
 | 17 | [grantlucas](https://github.com/grantlucas) | Grant Lucas | @hostpapa  |  | Hamilton, Ontario | 4362 |

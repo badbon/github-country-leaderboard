@@ -1,8 +1,8 @@
 # Total Contributions - Armenia
 
-Generated: 2026-10-18T13:05:52.998Z
+Generated: 2026-10-18T14:28:15.282Z
 
-Users: 4036
+Users: 4035
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -18,11 +18,11 @@ Users: 4036
 | 10 | [m0n0x41d](https://github.com/m0n0x41d) | ivan zakutni | Fusioncat |  | Armenia | 8606 |
 | 11 | [vadim-su](https://github.com/vadim-su) | Vadim Suharnikov |  |  | Armenia Yerevan | 8162 |
 | 12 | [ashvardanian](https://github.com/ashvardanian) | Ash Vardanian | BDFL @ Unum | ashvardanian | London, San Francisco, Yerevan | 8125 |
-| 13 | [wKich](https://github.com/wKich) | Dmitriy Lazarev | @thefrontside | wkichdev | Armenia | 7743 |
-| 14 | [aramarakelyan88](https://github.com/aramarakelyan88) | Aram Arakelyan | CoinStats | AramArakelyan13 | Yerevan | 7628 |
-| 15 | [ashottonoyan](https://github.com/ashottonoyan) | Ashot Tonoyan |  |  | Yerevan | 7617 |
-| 16 | [anatoly-scherbakov](https://github.com/anatoly-scherbakov) | Anatoly Scherbakov | @datafold  |  | Yerevan, Armenia | 7340 |
-| 17 | [melontron](https://github.com/melontron) |  | @2hzai  |  | Yerevan | 6914 |
-| 18 | [otanim](https://github.com/otanim) | Arman Yeghiazaryan |  |  | Armenia, Yerevan | 6913 |
-| 19 | [eventbalancer](https://github.com/eventbalancer) | Aleksei Filippov | BotScale |  | Armenia, Yerevan | 6763 |
-| 20 | [namebogsecret](https://github.com/namebogsecret) | Vladimir Podlevskikh |  |  | Armenia Yerevan | 6418 |
+| 13 | [esceptico](https://github.com/esceptico) | Tim Ganiev |  | postimortem | Yerevan, Armenia | 7750 |
+| 14 | [wKich](https://github.com/wKich) | Dmitriy Lazarev | @thefrontside | wkichdev | Armenia | 7743 |
+| 15 | [aramarakelyan88](https://github.com/aramarakelyan88) | Aram Arakelyan | CoinStats | AramArakelyan13 | Yerevan | 7628 |
+| 16 | [ashottonoyan](https://github.com/ashottonoyan) | Ashot Tonoyan |  |  | Yerevan | 7617 |
+| 17 | [anatoly-scherbakov](https://github.com/anatoly-scherbakov) | Anatoly Scherbakov | @datafold  |  | Yerevan, Armenia | 7340 |
+| 18 | [melontron](https://github.com/melontron) |  | @2hzai  |  | Yerevan | 6914 |
+| 19 | [otanim](https://github.com/otanim) | Arman Yeghiazaryan |  |  | Armenia, Yerevan | 6913 |
+| 20 | [eventbalancer](https://github.com/eventbalancer) | Aleksei Filippov | BotScale |  | Armenia, Yerevan | 6763 |

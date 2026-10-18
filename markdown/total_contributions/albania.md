@@ -1,6 +1,6 @@
 # Total Contributions - Albania
 
-Generated: 2026-10-18T12:59:26.288Z
+Generated: 2026-10-18T14:23:44.318Z
 
 Users: 1184
 
@@ -20,7 +20,7 @@ Users: 1184
 | 12 | [arkellahi82-tech](https://github.com/arkellahi82-tech) | Arkel Lahi | FiltonHayes |  | Tirana, Albania | 5766 |
 | 13 | [lacieri](https://github.com/lacieri) | Erand Laci | @kirschbaum-development |  | Tirana, Albania | 5661 |
 | 14 | [nertilpoci](https://github.com/nertilpoci) | Nertil Poci |  |  | Albania | 5482 |
-| 15 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | CyberSecurity Researcher, Red Team, Bug Hunter | OrgitoRTA | Albania | 4672 |
+| 15 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | CyberSecurity Researcher, Red Team, Bug Hunter | OrgitoRTA | Albania | 4643 |
 | 16 | [blenardpazari](https://github.com/blenardpazari) | Blenard Pazari | @new-media-communications | blenardpazari | Tirana | 4583 |
 | 17 | [ezekaj](https://github.com/ezekaj) | Elvi Zekaj | @zedigitaltech |  | Tirana, Albania | 4540 |
 | 18 | [sly503](https://github.com/sly503) | Fatjon Rami |  |  | Tirana | 4508 |

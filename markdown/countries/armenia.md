@@ -1,6 +1,6 @@
 # Armenia
 
-Indexed users: 4,036
+Indexed users: 4,035
 
 | Leaderboard | Link |
 |---|---|
@@ -24,14 +24,14 @@ Indexed users: 4,036
 | 10 | [m0n0x41d](https://github.com/m0n0x41d) | ivan zakutni | Armenia | 8,606 |
 | 11 | [vadim-su](https://github.com/vadim-su) | Vadim Suharnikov | Armenia Yerevan | 8,162 |
 | 12 | [ashvardanian](https://github.com/ashvardanian) | Ash Vardanian | London, San Francisco, Yerevan | 8,125 |
-| 13 | [wKich](https://github.com/wKich) | Dmitriy Lazarev | Armenia | 7,743 |
-| 14 | [aramarakelyan88](https://github.com/aramarakelyan88) | Aram Arakelyan | Yerevan | 7,628 |
-| 15 | [ashottonoyan](https://github.com/ashottonoyan) | Ashot Tonoyan | Yerevan | 7,617 |
-| 16 | [anatoly-scherbakov](https://github.com/anatoly-scherbakov) | Anatoly Scherbakov | Yerevan, Armenia | 7,340 |
-| 17 | [melontron](https://github.com/melontron) |  | Yerevan | 6,914 |
-| 18 | [otanim](https://github.com/otanim) | Arman Yeghiazaryan | Armenia, Yerevan | 6,913 |
-| 19 | [eventbalancer](https://github.com/eventbalancer) | Aleksei Filippov | Armenia, Yerevan | 6,763 |
-| 20 | [namebogsecret](https://github.com/namebogsecret) | Vladimir Podlevskikh | Armenia Yerevan | 6,418 |
+| 13 | [esceptico](https://github.com/esceptico) | Tim Ganiev | Yerevan, Armenia | 7,750 |
+| 14 | [wKich](https://github.com/wKich) | Dmitriy Lazarev | Armenia | 7,743 |
+| 15 | [aramarakelyan88](https://github.com/aramarakelyan88) | Aram Arakelyan | Yerevan | 7,628 |
+| 16 | [ashottonoyan](https://github.com/ashottonoyan) | Ashot Tonoyan | Yerevan | 7,617 |
+| 17 | [anatoly-scherbakov](https://github.com/anatoly-scherbakov) | Anatoly Scherbakov | Yerevan, Armenia | 7,340 |
+| 18 | [melontron](https://github.com/melontron) |  | Yerevan | 6,914 |
+| 19 | [otanim](https://github.com/otanim) | Arman Yeghiazaryan | Armenia, Yerevan | 6,913 |
+| 20 | [eventbalancer](https://github.com/eventbalancer) | Aleksei Filippov | Armenia, Yerevan | 6,763 |
 
 ## Public Contributions
 
@@ -45,8 +45,8 @@ Indexed users: 4,036
 | 6 | [ashvardanian](https://github.com/ashvardanian) | Ash Vardanian | London, San Francisco, Yerevan | 3,618 |
 | 7 | [diazoxide](https://github.com/diazoxide) | Aaron Yordanyan | Armenia | 3,378 |
 | 8 | [m0n0x41d](https://github.com/m0n0x41d) | ivan zakutni | Armenia | 2,610 |
-| 9 | [anatoly-scherbakov](https://github.com/anatoly-scherbakov) | Anatoly Scherbakov | Yerevan, Armenia | 2,578 |
-| 10 | [esceptico](https://github.com/esceptico) | Tim Ganiev | Yerevan, Armenia | 2,475 |
+| 9 | [esceptico](https://github.com/esceptico) | Tim Ganiev | Yerevan, Armenia | 2,586 |
+| 10 | [anatoly-scherbakov](https://github.com/anatoly-scherbakov) | Anatoly Scherbakov | Yerevan, Armenia | 2,578 |
 | 11 | [diegnghtmr](https://github.com/diegnghtmr) | Diego Alejandro Flores Quintero | Armenia, Quindío, Colombia | 2,130 |
 | 12 | [vvmspace](https://github.com/vvmspace) | Vladimir V. M. | Armenia | 2,013 |
 | 13 | [gagik894](https://github.com/gagik894) | Gagik Sargsyan | Armenia | 1,982 |
@@ -83,4 +83,4 @@ Indexed users: 4,036
 | 19 | [khoren93](https://github.com/khoren93) | Khoren Markosyan | Yerevan, Armenia | 249 |
 | 20 | [nightwing](https://github.com/nightwing) | Harutyun Amirjanyan | Yerevan, Armenia | 236 |
 
-Generated: 2026-10-18T13:05:52.998Z
+Generated: 2026-10-18T14:28:15.282Z

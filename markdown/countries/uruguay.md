@@ -43,10 +43,10 @@ Indexed users: 5,613
 | 4 | [emiliano-go](https://github.com/emiliano-go) | Emiliano G.O. | Montevideo, Uruguay | 5,444 |
 | 5 | [Gabr1el20](https://github.com/Gabr1el20) | Gabriel Delgado | Uruguay | 5,074 |
 | 6 | [daedalus](https://github.com/daedalus) | Darío Clavijo | Montevideo, Uruguay | 4,810 |
-| 7 | [dcadenas](https://github.com/dcadenas) | Daniel Cadenas | Montevideo, Uruguay | 3,937 |
-| 8 | [matiasportugau-ui](https://github.com/matiasportugau-ui) | MatPrompt | Uruguay  | 3,036 |
-| 9 | [ferfalcon](https://github.com/ferfalcon) | Fernando Falcon | Montevideo | 2,943 |
-| 10 | [davidmonterocrespo24](https://github.com/davidmonterocrespo24) | David Montero Crespo | Uruguay | 2,866 |
+| 7 | [davidmonterocrespo24](https://github.com/davidmonterocrespo24) | David Montero Crespo | Uruguay | 3,989 |
+| 8 | [dcadenas](https://github.com/dcadenas) | Daniel Cadenas | Montevideo, Uruguay | 3,937 |
+| 9 | [matiasportugau-ui](https://github.com/matiasportugau-ui) | MatPrompt | Uruguay  | 3,036 |
+| 10 | [ferfalcon](https://github.com/ferfalcon) | Fernando Falcon | Montevideo | 2,943 |
 | 11 | [damiansire](https://github.com/damiansire) | Damian Sire | Uruguay | 2,721 |
 | 12 | [jm181987](https://github.com/jm181987) | Jorge Marquez | Uruguay | 2,672 |
 | 13 | [fzipi](https://github.com/fzipi) | Felipe Zipitría | Montevideo, Uruguay | 2,539 |
@@ -83,4 +83,4 @@ Indexed users: 5,613
 | 19 | [mauricioszabo](https://github.com/mauricioszabo) | Maurício Szabo | Montevideo, Uruguay | 196 |
 | 20 | [ppazos](https://github.com/ppazos) | Pablo Pazos Gutiérrez | Montevideo, Uruguay | 196 |
 
-Generated: 2026-10-18T12:54:23.665Z
+Generated: 2026-10-18T14:20:35.818Z

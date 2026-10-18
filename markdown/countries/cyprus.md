@@ -53,9 +53,9 @@ Indexed users: 2,725
 | 14 | [Disentinel](https://github.com/Disentinel) | Vadim Reshetnikov | Cyprus, Limassol | 3,117 |
 | 15 | [programmeradu](https://github.com/programmeradu) | Samuel Adu-Berekorang | nicosia, cyprus | 3,112 |
 | 16 | [VISTALL](https://github.com/VISTALL) | Valery Semenchuk | Cyprus | 3,060 |
-| 17 | [slima4](https://github.com/slima4) | Artem Senenko | Nicosia, Cyprus | 2,984 |
-| 18 | [GeorgeWebDevCy](https://github.com/GeorgeWebDevCy) | George Nicolaou | Cyprus | 2,884 |
-| 19 | [nekto007](https://github.com/nekto007) | Igor | Limassol, Cyprus | 2,695 |
+| 17 | [nekto007](https://github.com/nekto007) | Igor | Limassol, Cyprus | 2,985 |
+| 18 | [slima4](https://github.com/slima4) | Artem Senenko | Nicosia, Cyprus | 2,984 |
+| 19 | [GeorgeWebDevCy](https://github.com/GeorgeWebDevCy) | George Nicolaou | Cyprus | 2,884 |
 | 20 | [psoldunov](https://github.com/psoldunov) | Philipp Soldunov | Limassol, Cyprus | 2,614 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 2,725
 | 19 | [polterguy](https://github.com/polterguy) | Thomas Hansen | Cyprus | 245 |
 | 20 | [kstep](https://github.com/kstep) | Konstantin Stepanov | Cyprus | 241 |
 
-Generated: 2026-10-18T13:17:31.673Z
+Generated: 2026-10-18T14:45:57.742Z

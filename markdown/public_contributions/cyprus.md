@@ -1,6 +1,6 @@
 # Public Contributions - Cyprus
 
-Generated: 2026-10-18T13:17:31.673Z
+Generated: 2026-10-18T14:45:57.742Z
 
 Users: 2725
 
@@ -22,7 +22,7 @@ Users: 2725
 | 14 | [Disentinel](https://github.com/Disentinel) | Vadim Reshetnikov |  |  | Cyprus, Limassol | 3117 |
 | 15 | [programmeradu](https://github.com/programmeradu) | Samuel Adu-Berekorang | @stapolar  |  | nicosia, cyprus | 3112 |
 | 16 | [VISTALL](https://github.com/VISTALL) | Valery Semenchuk | @consulo | vistall_valery | Cyprus | 3060 |
-| 17 | [slima4](https://github.com/slima4) | Artem Senenko |  | sl1ma4 | Nicosia, Cyprus | 2984 |
-| 18 | [GeorgeWebDevCy](https://github.com/GeorgeWebDevCy) | George Nicolaou |  | GeorgeWebDev | Cyprus | 2884 |
-| 19 | [nekto007](https://github.com/nekto007) | Igor |  | Nekto_007 | Limassol, Cyprus | 2695 |
+| 17 | [nekto007](https://github.com/nekto007) | Igor |  | Nekto_007 | Limassol, Cyprus | 2985 |
+| 18 | [slima4](https://github.com/slima4) | Artem Senenko |  | sl1ma4 | Nicosia, Cyprus | 2984 |
+| 19 | [GeorgeWebDevCy](https://github.com/GeorgeWebDevCy) | George Nicolaou |  | GeorgeWebDev | Cyprus | 2884 |
 | 20 | [psoldunov](https://github.com/psoldunov) | Philipp Soldunov | Lead Dev @boundary-digital / Building @ensemblr-hq |  | Limassol, Cyprus | 2614 |

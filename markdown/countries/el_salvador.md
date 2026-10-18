@@ -24,7 +24,7 @@ Indexed users: 2,378
 | 10 | [dgerardoflores](https://github.com/dgerardoflores) | Gerardo Flores | El Salvador | 7,270 |
 | 11 | [martirale](https://github.com/martirale) | Alejandro Mártir | El Salvador | 7,264 |
 | 12 | [DesKevinMendez](https://github.com/DesKevinMendez) | Kevin Mendez | El Salvador | 6,290 |
-| 13 | [josealvarado3a](https://github.com/josealvarado3a) | José Alvarado | El Salvador | 6,010 |
+| 13 | [josealvarado3a](https://github.com/josealvarado3a) | José Alvarado | El Salvador | 6,032 |
 | 14 | [cativo23](https://github.com/cativo23) | Carlos Cativo | San Salvador, El Salvador | 5,913 |
 | 15 | [loviver](https://github.com/loviver) | Oliver Calderón | El Salvador, San Salvador | 5,044 |
 | 16 | [eduard-gonzalez](https://github.com/eduard-gonzalez) | Efrain Gonzalez | El Salvador | 4,888 |
@@ -83,4 +83,4 @@ Indexed users: 2,378
 | 19 | [MiPrimerBitcoin](https://github.com/MiPrimerBitcoin) | Mi Primer Bitcoin El Salvador | El Salvador | 96 |
 | 20 | [davequinta](https://github.com/davequinta) | David Quintanilla | El Salvador | 95 |
 
-Generated: 2026-10-18T13:22:23.041Z
+Generated: 2026-10-18T14:49:44.585Z

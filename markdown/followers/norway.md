@@ -1,8 +1,8 @@
 # Followers - Norway
 
-Generated: 2026-10-18T13:53:14.134Z
+Generated: 2026-10-18T14:09:04.586Z
 
-Users: 19625
+Users: 19626
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
