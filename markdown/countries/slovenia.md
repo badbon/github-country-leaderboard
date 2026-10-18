@@ -1,6 +1,6 @@
 # Slovenia
 
-Indexed users: 3,099
+Indexed users: 3,098
 
 | Leaderboard | Link |
 |---|---|
@@ -14,9 +14,9 @@ Indexed users: 3,099
 |---:|---|---|---|---:|
 | 1 | [Legoless](https://github.com/Legoless) | Dal Rupnik | Slovenia | 37,509 |
 | 2 | [itechdom](https://github.com/itechdom) | Osama Alghanmi | Ljubljana, Slovenia | 32,477 |
-| 3 | [Meemaw](https://github.com/Meemaw) | Matej Šnuderl | Ljubljana, Slovenia | 16,408 |
-| 4 | [bl4ko](https://github.com/bl4ko) | Gasper Oblak | Slovenia | 13,573 |
-| 5 | [bobalazek](https://github.com/bobalazek) | Borut Balazek | Slovenia, Europe | 13,109 |
+| 3 | [bobalazek](https://github.com/bobalazek) | Borut Balazek | Slovenia, Europe | 17,006 |
+| 4 | [Meemaw](https://github.com/Meemaw) | Matej Šnuderl | Ljubljana, Slovenia | 16,408 |
+| 5 | [bl4ko](https://github.com/bl4ko) | Gasper Oblak | Slovenia | 13,573 |
 | 6 | [domengabrovsek](https://github.com/domengabrovsek) | Domen Gabrovšek | Ljubljana, Slovenia | 11,949 |
 | 7 | [AMGrobelnik](https://github.com/AMGrobelnik) | Adrian Mladenic Grobelnik | Ljubljana, Slovenia | 11,306 |
 | 8 | [garbas](https://github.com/garbas) | Rok Garbas | Ljubljana, Slovenia | 10,718 |
@@ -83,4 +83,4 @@ Indexed users: 3,099
 | 19 | [garbas](https://github.com/garbas) | Rok Garbas | Ljubljana, Slovenia | 240 |
 | 20 | [buresdv](https://github.com/buresdv) | David Bureš | Maribor, Slovenia | 238 |
 
-Generated: 2026-10-18T01:29:33.686Z
+Generated: 2026-10-18T03:07:47.308Z

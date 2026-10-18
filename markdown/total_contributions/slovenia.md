@@ -1,16 +1,16 @@
 # Total Contributions - Slovenia
 
-Generated: 2026-10-18T01:29:33.686Z
+Generated: 2026-10-18T03:07:47.308Z
 
-Users: 3099
+Users: 3098
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [Legoless](https://github.com/Legoless) | Dal Rupnik | Unified Sense |  | Slovenia | 37509 |
 | 2 | [itechdom](https://github.com/itechdom) | Osama Alghanmi | Almadar |  | Ljubljana, Slovenia | 32477 |
-| 3 | [Meemaw](https://github.com/Meemaw) | Matej Šnuderl | OpenSea |  | Ljubljana, Slovenia | 16408 |
-| 4 | [bl4ko](https://github.com/bl4ko) | Gasper Oblak | Ljubljana |  | Slovenia | 13573 |
-| 5 | [bobalazek](https://github.com/bobalazek) | Borut Balazek |  |  | Slovenia, Europe | 13109 |
+| 3 | [bobalazek](https://github.com/bobalazek) | Borut Balazek |  |  | Slovenia, Europe | 17006 |
+| 4 | [Meemaw](https://github.com/Meemaw) | Matej Šnuderl | OpenSea |  | Ljubljana, Slovenia | 16408 |
+| 5 | [bl4ko](https://github.com/bl4ko) | Gasper Oblak | Ljubljana |  | Slovenia | 13573 |
 | 6 | [domengabrovsek](https://github.com/domengabrovsek) | Domen Gabrovšek |  | domengabrovsek | Ljubljana, Slovenia | 11949 |
 | 7 | [AMGrobelnik](https://github.com/AMGrobelnik) | Adrian Mladenic Grobelnik | IJS |  | Ljubljana, Slovenia | 11306 |
 | 8 | [garbas](https://github.com/garbas) | Rok Garbas | Nix - Elm - Rust - Python | garbas | Ljubljana, Slovenia | 10718 |
