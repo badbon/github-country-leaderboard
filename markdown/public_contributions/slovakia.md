@@ -1,6 +1,6 @@
 # Public Contributions - Slovakia
 
-Generated: 2026-10-17T23:52:13.134Z
+Generated: 2026-10-18T01:29:24.798Z
 
 Users: 4663
 
@@ -24,5 +24,5 @@ Users: 4663
 | 16 | [alvianzf](https://github.com/alvianzf) | Alvian Zachry Faturrahman | TiketQ |  | Tanjungpinang, Batam, Karimun, Bratislava | 2610 |
 | 17 | [mont127](https://github.com/mont127) | mont127 | None  |  | Slovakia | 2492 |
 | 18 | [janbodnar](https://github.com/janbodnar) | Jan Bodnar |  |  | Bratislava | 2391 |
-| 19 | [Vanderhell](https://github.com/Vanderhell) | Vanderhell |  |  | Slovakia | 2328 |
-| 20 | [PavolUlicny](https://github.com/PavolUlicny) | Pavol Ulicny | High school | s0nda7 | Bratislava  | 2289 |
+| 19 | [matuscongrady](https://github.com/matuscongrady) | Matúš Čongrády | Stacktape | matus_congrady | Bratislava, Slovakia | 2369 |
+| 20 | [Vanderhell](https://github.com/Vanderhell) | Vanderhell |  |  | Slovakia | 2328 |

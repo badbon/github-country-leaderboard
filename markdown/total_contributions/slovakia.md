@@ -1,6 +1,6 @@
 # Total Contributions - Slovakia
 
-Generated: 2026-10-17T23:52:13.134Z
+Generated: 2026-10-18T01:29:24.798Z
 
 Users: 4663
 
@@ -15,14 +15,14 @@ Users: 4663
 | 7 | [davidian-sk](https://github.com/davidian-sk) |  |  |  | Bratislava | 11724 |
 | 8 | [oliver-kriska](https://github.com/oliver-kriska) | Oliver Kriska |  | quatermain32 | Slovakia | 10417 |
 | 9 | [potyl](https://github.com/potyl) | Emmanuel Rodriguez | Cloudbeds |  | Bratislava, Slovakia | 10414 |
-| 10 | [lubomir-dlhy](https://github.com/lubomir-dlhy) | Ľubomír Dlhý | @GoodRequest  |  | Slovakia | 9998 |
-| 11 | [thecubbe](https://github.com/thecubbe) | TheCubbe |  |  | Slovakia | 9956 |
-| 12 | [dimaver6work](https://github.com/dimaver6work) | Dmytro |  |  | Bratislava, Slovakia | 9941 |
-| 13 | [drepkovsky](https://github.com/drepkovsky) | Dominik Repkovský | @questpie | drepkovsky | Slovakia | 9931 |
-| 14 | [Kenessy](https://github.com/Kenessy) | Daniel Kenessy | VRAXION |  | Slovakia | 9652 |
-| 15 | [crnkjck](https://github.com/crnkjck) | Ján Kľuka | Comenius University Bratislava |  | Bratislava, Slovakia | 9637 |
-| 16 | [VladimirTomko](https://github.com/VladimirTomko) | Vladimír Tomko | BeCode s.r.o.  |  | Bratislava, Slovakia | 9429 |
-| 17 | [digitalapplied](https://github.com/digitalapplied) | Richard Gibbons | Digital Applied |  | Bratislava, Slovakia | 9172 |
-| 18 | [valferon](https://github.com/valferon) | Feron Valentin | swipejobs |  | Slovakia | 8723 |
-| 19 | [mrshu](https://github.com/mrshu) | Marek Šuppa |  | mareksuppa | Slovakia | 8545 |
-| 20 | [samuelpatro](https://github.com/samuelpatro) | Samuel | @dajanarodriguez | sam_uell1 | Slovakia | 8263 |
+| 10 | [michaljurecko](https://github.com/michaljurecko) | Michal Jurečko |  |  | Slovakia | 10141 |
+| 11 | [lubomir-dlhy](https://github.com/lubomir-dlhy) | Ľubomír Dlhý | @GoodRequest  |  | Slovakia | 9998 |
+| 12 | [thecubbe](https://github.com/thecubbe) | TheCubbe |  |  | Slovakia | 9956 |
+| 13 | [dimaver6work](https://github.com/dimaver6work) | Dmytro |  |  | Bratislava, Slovakia | 9941 |
+| 14 | [drepkovsky](https://github.com/drepkovsky) | Dominik Repkovský | @questpie | drepkovsky | Slovakia | 9931 |
+| 15 | [Kenessy](https://github.com/Kenessy) | Daniel Kenessy | VRAXION |  | Slovakia | 9652 |
+| 16 | [crnkjck](https://github.com/crnkjck) | Ján Kľuka | Comenius University Bratislava |  | Bratislava, Slovakia | 9637 |
+| 17 | [VladimirTomko](https://github.com/VladimirTomko) | Vladimír Tomko | BeCode s.r.o.  |  | Bratislava, Slovakia | 9429 |
+| 18 | [digitalapplied](https://github.com/digitalapplied) | Richard Gibbons | Digital Applied |  | Bratislava, Slovakia | 9172 |
+| 19 | [valferon](https://github.com/valferon) | Feron Valentin | swipejobs |  | Slovakia | 8723 |
+| 20 | [mrshu](https://github.com/mrshu) | Marek Šuppa |  | mareksuppa | Slovakia | 8545 |
