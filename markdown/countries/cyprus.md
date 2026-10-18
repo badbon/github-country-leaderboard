@@ -51,12 +51,12 @@ Indexed users: 2,724
 | 12 | [siyabendoezdemir](https://github.com/siyabendoezdemir) | Siya | Cyprus | 3,289 |
 | 13 | [Disentinel](https://github.com/Disentinel) | Vadim Reshetnikov | Cyprus, Limassol | 3,117 |
 | 14 | [programmeradu](https://github.com/programmeradu) | Samuel Adu-Berekorang | nicosia, cyprus | 3,112 |
-| 15 | [GeorgeWebDevCy](https://github.com/GeorgeWebDevCy) | George Nicolaou | Cyprus | 2,884 |
-| 16 | [nekto007](https://github.com/nekto007) | Igor | Limassol, Cyprus | 2,695 |
-| 17 | [VISTALL](https://github.com/VISTALL) | Valery Semenchuk | Cyprus | 2,670 |
+| 15 | [VISTALL](https://github.com/VISTALL) | Valery Semenchuk | Cyprus | 3,060 |
+| 16 | [GeorgeWebDevCy](https://github.com/GeorgeWebDevCy) | George Nicolaou | Cyprus | 2,884 |
+| 17 | [nekto007](https://github.com/nekto007) | Igor | Limassol, Cyprus | 2,695 |
 | 18 | [psoldunov](https://github.com/psoldunov) | Philipp Soldunov | Limassol, Cyprus | 2,614 |
 | 19 | [eg013ra1n](https://github.com/eg013ra1n) | Vilen Sharifov | Cyprus | 2,593 |
-| 20 | [AxGord](https://github.com/AxGord) | Alexander Gordeyko | Limassol, Cyprus | 2,444 |
+| 20 | [sakno](https://github.com/sakno) | Roman Sakno | Nicosia, Cyprus | 2,540 |
 
 ## Followers
 
@@ -68,8 +68,8 @@ Indexed users: 2,724
 | 4 | [mozafarimanesh](https://github.com/mozafarimanesh) | Reza  Mozafari Manesh | Republic Of Cyprus | 697 |
 | 5 | [zakirullin](https://github.com/zakirullin) | Artem Zakirullin | Limassol, Cyprus | 565 |
 | 6 | [bravit](https://github.com/bravit) | Vitaly Bragilevsky | Larnaca, Cyprus | 539 |
-| 7 | [FZambia](https://github.com/FZambia) | Alexander Emelin | Limassol, Cyprus | 471 |
-| 8 | [KaterinaPetrova](https://github.com/KaterinaPetrova) | Ekaterina Petrova | Nicosia, Cyprus | 440 |
+| 7 | [FZambia](https://github.com/FZambia) | Alexander Emelin | Limassol, Cyprus | 470 |
+| 8 | [KaterinaPetrova](https://github.com/KaterinaPetrova) | Ekaterina Petrova | Nicosia, Cyprus | 438 |
 | 9 | [Sanaebadi97](https://github.com/Sanaebadi97) | Sana Ebadi | Cyprus, Nicosia | 401 |
 | 10 | [Dieterbe](https://github.com/Dieterbe) | Dieter Plaetinck | Cyprus | 396 |
 | 11 | [tony2001](https://github.com/tony2001) | Antony Dovgal | Limassol, Cyprus | 371 |
@@ -83,4 +83,4 @@ Indexed users: 2,724
 | 19 | [polterguy](https://github.com/polterguy) | Thomas Hansen | Cyprus | 245 |
 | 20 | [kstep](https://github.com/kstep) | Konstantin Stepanov | Cyprus | 241 |
 
-Generated: 2026-10-18T07:18:10.501Z
+Generated: 2026-10-18T08:55:22.150Z

@@ -1,6 +1,6 @@
 # Total Contributions - Armenia
 
-Generated: 2026-10-18T07:00:32.324Z
+Generated: 2026-10-18T08:42:05.185Z
 
 Users: 4037
 
@@ -22,7 +22,7 @@ Users: 4037
 | 14 | [aramarakelyan88](https://github.com/aramarakelyan88) | Aram Arakelyan | CoinStats | AramArakelyan13 | Yerevan | 7628 |
 | 15 | [ashottonoyan](https://github.com/ashottonoyan) | Ashot Tonoyan |  |  | Yerevan | 7617 |
 | 16 | [anatoly-scherbakov](https://github.com/anatoly-scherbakov) | Anatoly Scherbakov | @datafold  |  | Yerevan, Armenia | 7340 |
-| 17 | [otanim](https://github.com/otanim) | Arman Yeghiazaryan |  |  | Armenia, Yerevan | 6913 |
-| 18 | [eventbalancer](https://github.com/eventbalancer) | Aleksei Filippov | BotScale |  | Armenia, Yerevan | 6763 |
-| 19 | [namebogsecret](https://github.com/namebogsecret) | Vladimir Podlevskikh |  |  | Armenia Yerevan | 6418 |
-| 20 | [lobotomoe](https://github.com/lobotomoe) | Alex Kraiz | @FoilHats |  | Yerevan | 6361 |
+| 17 | [melontron](https://github.com/melontron) |  | @2hzai  |  | Yerevan | 6914 |
+| 18 | [otanim](https://github.com/otanim) | Arman Yeghiazaryan |  |  | Armenia, Yerevan | 6913 |
+| 19 | [eventbalancer](https://github.com/eventbalancer) | Aleksei Filippov | BotScale |  | Armenia, Yerevan | 6763 |
+| 20 | [namebogsecret](https://github.com/namebogsecret) | Vladimir Podlevskikh |  |  | Armenia Yerevan | 6418 |

@@ -12,9 +12,9 @@ Indexed users: 60
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [jaffadog](https://github.com/jaffadog) | Jeremy Waters | Tahanea, Tuamotus, French Polynesia | 3,663 |
+| 1 | [jaffadog](https://github.com/jaffadog) | Jeremy Waters | Tahanea, Tuamotus, French Polynesia | 3,693 |
 | 2 | [jburckel](https://github.com/jburckel) |  | French Polynesia | 3,039 |
-| 3 | [marsender](https://github.com/marsender) | Didier Corbière | French Polynesia | 2,843 |
+| 3 | [marsender](https://github.com/marsender) | Didier Corbière | French Polynesia | 2,848 |
 | 4 | [smortex](https://github.com/smortex) | Romain Tartière | Faa'a, Tahiti, French Polynesia | 1,041 |
 | 5 | [jalik](https://github.com/jalik) | Karl Stein | French Polynesia | 711 |
 | 6 | [ch4mpy](https://github.com/ch4mpy) | Jérôme Wacongne | Papeete, French Polynesia | 501 |
@@ -23,7 +23,7 @@ Indexed users: 60
 | 9 | [adriencanterot](https://github.com/adriencanterot) | Adrien Cantérot | Tahiti, French Polynesia | 300 |
 | 10 | [paraita](https://github.com/paraita) | Paraita Wohler | Tahiti, French Polynesia | 259 |
 | 11 | [syllebra](https://github.com/syllebra) | BilboX | French Polynesia | 130 |
-| 12 | [geoffguillain](https://github.com/geoffguillain) | Geoff | French Polynesia | 67 |
+| 12 | [geoffguillain](https://github.com/geoffguillain) | Geoff | French Polynesia | 74 |
 | 13 | [Apollo987](https://github.com/Apollo987) | Jerome B | French Polynesia | 64 |
 | 14 | [laurentpellet](https://github.com/laurentpellet) | Laurent PELLET | French Polynesia | 45 |
 | 15 | [kavehei-lang](https://github.com/kavehei-lang) | Anastasia - HIKUTINI | Polynésie Française | 34 |
@@ -83,4 +83,4 @@ Indexed users: 60
 | 19 | [TToarii](https://github.com/TToarii) | TAU Toarii | French Polynesia | 5 |
 | 20 | [geoffguillain](https://github.com/geoffguillain) | Geoff | French Polynesia | 4 |
 
-Generated: 2026-10-18T07:26:51.027Z
+Generated: 2026-10-18T09:04:31.493Z

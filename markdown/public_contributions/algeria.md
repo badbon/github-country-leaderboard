@@ -1,8 +1,8 @@
 # Public Contributions - Algeria
 
-Generated: 2026-10-18T06:57:03.713Z
+Generated: 2026-10-18T08:37:57.014Z
 
-Users: 5786
+Users: 5785
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -19,8 +19,8 @@ Users: 5786
 | 11 | [MedRedha](https://github.com/MedRedha) | Mohamed Redha Khelifi | Co-Founder @WuuD-Team \| Head of Mobile Development @ResearchGate |  | Berlin, Germany / Algiers, Algeria | 2083 |
 | 12 | [XaviCode1000](https://github.com/XaviCode1000) | Xavi |  |  | Algeria | 1797 |
 | 13 | [maamriaabderahmene](https://github.com/maamriaabderahmene) | Maamria Abderahmene | National higher school of advanced technologies |  | algiers | 1774 |
-| 14 | [Adel-Ayoub](https://github.com/Adel-Ayoub) | MAAZIZ Adel Ayoub |  |  | Algeria | 1651 |
-| 15 | [samir1498](https://github.com/samir1498) | Samir Bettahar | ObserveOne |  | Algeria | 1614 |
+| 14 | [samir1498](https://github.com/samir1498) | Samir Bettahar | ObserveOne |  | Algeria | 1664 |
+| 15 | [Adel-Ayoub](https://github.com/Adel-Ayoub) | MAAZIZ Adel Ayoub |  |  | Algeria | 1651 |
 | 16 | [bitsnaps](https://github.com/bitsnaps) | Ibrahim H. | CorpoSense |  | Algeria | 1551 |
 | 17 | [qamro](https://github.com/qamro) | Mohamed Qamar Eddine Bakhouche | Higher School of Computer Science and Digital Technologies ESTIN Béjaia |  | Algiers, Algeria | 1530 |
 | 18 | [1hachem](https://github.com/1hachem) | dashi |  |  | Algiers, Algeria | 1455 |

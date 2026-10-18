@@ -28,7 +28,7 @@ Indexed users: 1,337
 | 14 | [barthkapepula](https://github.com/barthkapepula) | Bartholomew Kapepula | Zambia | 3,472 |
 | 15 | [brucetruth](https://github.com/brucetruth) | Bruce Truth | Zambia | 3,443 |
 | 16 | [genthegreat](https://github.com/genthegreat) | Prince Kwesi | Zambia | 3,436 |
-| 17 | [boniface](https://github.com/boniface) | Boniface Kabaso | Lusaka, Zambia | 3,396 |
+| 17 | [boniface](https://github.com/boniface) | Boniface Kabaso | Lusaka, Zambia | 3,391 |
 | 18 | [Geoffrey-Zulu](https://github.com/Geoffrey-Zulu) | Geoffrey Zulu | Lusaka, Zambia | 3,304 |
 | 19 | [ericknamukolo](https://github.com/ericknamukolo) | Erick Namukolo | Lusaka, Zambia | 3,281 |
 | 20 | [engineervix](https://github.com/engineervix) | Victor Miti | Lusaka, Zambia | 3,155 |
@@ -68,7 +68,7 @@ Indexed users: 1,337
 | 4 | [KMKCODER](https://github.com/KMKCODER) | Kapembwa Kangali  | Ndola, Zambia | 233 |
 | 5 | [Joshk21758](https://github.com/Joshk21758) | Mwansa kunda  | Lusaka, Zambia  | 230 |
 | 6 | [marksikaundi](https://github.com/marksikaundi) | Mark Sikaundi | Zambia | 223 |
-| 7 | [boniface](https://github.com/boniface) | Boniface Kabaso | Lusaka, Zambia | 192 |
+| 7 | [boniface](https://github.com/boniface) | Boniface Kabaso | Lusaka, Zambia | 191 |
 | 8 | [smaboshe](https://github.com/smaboshe) | Silumesii Maboshe | Zambia | 175 |
 | 9 | [kalumwe](https://github.com/kalumwe) | Kalumba Mweshi | Lusaka, Zambia | 159 |
 | 10 | [nmbazima](https://github.com/nmbazima) | Newton Mbazima | Zambia | 147 |
@@ -83,4 +83,4 @@ Indexed users: 1,337
 | 19 | [blessedjasonmwanza](https://github.com/blessedjasonmwanza) | Blessed Jason Mwanza |  Lusaka, Zambia | 104 |
 | 20 | [Eathorne2](https://github.com/Eathorne2) | Eathorne | Lusaka, Zambia | 103 |
 
-Generated: 2026-10-18T06:55:10.048Z
+Generated: 2026-10-18T08:35:58.715Z

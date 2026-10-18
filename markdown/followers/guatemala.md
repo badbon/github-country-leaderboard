@@ -1,6 +1,6 @@
 # Followers - Guatemala
 
-Generated: 2026-10-18T07:32:03.023Z
+Generated: 2026-10-18T09:10:31.460Z
 
 Users: 3215
 
@@ -12,11 +12,11 @@ Users: 3215
 | 4 | [tuxtor](https://github.com/tuxtor) | Víctor Orozco |  | tuxtor | Guatemala | 298 |
 | 5 | [bryan967132](https://github.com/bryan967132) | Bryan Tejaxún | Universidad De San Carlos De Guatemala |  | Guatemala | 280 |
 | 6 | [micromasterandroid](https://github.com/micromasterandroid) | amoraleschan | Galileo University |  | Guatemala | 217 |
-| 7 | [JPaulMora](https://github.com/JPaulMora) | John Mora | nimble. | jpaulmora | Guatemala | 210 |
+| 7 | [JPaulMora](https://github.com/JPaulMora) | John Mora | nimble. | jpaulmora | Guatemala | 214 |
 | 8 | [tahayk3](https://github.com/tahayk3) | Cristian Tahay |  |  | Guatemala | 186 |
 | 9 | [sergioarmgpl](https://github.com/sergioarmgpl) | Sergio Méndez | USAC | sergioarmgpl | Guatemala | 171 |
 | 10 | [luisespino](https://github.com/luisespino) | Luis Espino | Universidad de San Carlos de Guatemala |  | Guatemala | 170 |
-| 11 | [RandolphVI](https://github.com/RandolphVI) | Randolph |  |  | Guatemala | 162 |
+| 11 | [RandolphVI](https://github.com/RandolphVI) | Randolph |  |  | Guatemala | 165 |
 | 12 | [ericknavarro](https://github.com/ericknavarro) | Erick Navarro |  |  | Guatemala | 160 |
 | 13 | [XaviAlvarado18](https://github.com/XaviAlvarado18) | Javier Alvarado | Universidad del Valle de Guatemala |  | Guatemala | 160 |
 | 14 | [jinchuika](https://github.com/jinchuika) | Luis Carlos | PatientPoint Technologies |  | Guatemala | 136 |

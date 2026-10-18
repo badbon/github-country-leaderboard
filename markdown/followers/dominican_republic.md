@@ -1,8 +1,8 @@
 # Followers - Dominican Republic
 
-Generated: 2026-10-18T07:20:09.364Z
+Generated: 2026-10-18T08:58:51.907Z
 
-Users: 3300
+Users: 3299
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

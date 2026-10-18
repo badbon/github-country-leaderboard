@@ -1,8 +1,8 @@
 # Public Contributions - Taiwan
 
-Generated: 2026-10-18T06:46:36.663Z
+Generated: 2026-10-18T08:27:42.228Z
 
-Users: 21996
+Users: 21995
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|

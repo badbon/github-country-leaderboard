@@ -17,8 +17,8 @@ Indexed users: 94
 | 3 | [roock3r](https://github.com/roock3r) | Cristian Silva | Belize | 1,900 |
 | 4 | [andreshungbz](https://github.com/andreshungbz) | Andres Hung | Belmopan, Belize | 1,663 |
 | 5 | [happyherp](https://github.com/happyherp) | Carlos Freund | Belize | 1,482 |
-| 6 | [jimidle](https://github.com/jimidle) | Jim Idle | Hopkins, Belize | 1,475 |
-| 7 | [blackmambo](https://github.com/blackmambo) | Winston Hope, Jr. | Belize | 1,276 |
+| 6 | [jimidle](https://github.com/jimidle) | Jim Idle | Hopkins, Belize | 1,473 |
+| 7 | [blackmambo](https://github.com/blackmambo) | Winston Hope, Jr. | Belize | 1,280 |
 | 8 | [Jaymar](https://github.com/Jaymar) | Jaymar Zane Noralez | Belize | 1,250 |
 | 9 | [DrianeDiojanPerez](https://github.com/DrianeDiojanPerez) | Driane Diojan Perez | Avenida Primitivo Aragon, Sarteneja, Corozal, Belize | 979 |
 | 10 | [TadeoBennett](https://github.com/TadeoBennett) | TheTechieINTJ | Belize | 972 |
@@ -52,8 +52,8 @@ Indexed users: 94
 | 13 | [JerryHamm](https://github.com/JerryHamm) | Jeremiah Hammond | Ladyville, Belize | 78 |
 | 14 | [Rubi3r3](https://github.com/Rubi3r3) | Rubiere Ramirez | Belize | 72 |
 | 15 | [hubertdomagalaa](https://github.com/hubertdomagalaa) | HD | Belize | 56 |
-| 16 | [erichanson](https://github.com/erichanson) | Eric Hanson | Belize | 43 |
-| 17 | [GirlWhoCodes14](https://github.com/GirlWhoCodes14) | Alexis Ayuso | Belize | 42 |
+| 16 | [GirlWhoCodes14](https://github.com/GirlWhoCodes14) | Alexis Ayuso | Belize | 42 |
+| 17 | [erichanson](https://github.com/erichanson) | Eric Hanson | Belize | 39 |
 | 18 | [FranceCawich](https://github.com/FranceCawich) | Francis Cawich | Belize | 33 |
 | 19 | [amodevinc](https://github.com/amodevinc) | Alain Morris | Belize (UTC−6) · Remote | 27 |
 | 20 | [alexanderrivera96](https://github.com/alexanderrivera96) | AlexRiv007 | Belize City, Belize | 23 |
@@ -83,4 +83,4 @@ Indexed users: 94
 | 19 | [mmedinajr](https://github.com/mmedinajr) | Manuel Medina Jr | Belmopan City | 7 |
 | 20 | [raycadle](https://github.com/raycadle) | Ray Cadle | Belize, C.A. | 7 |
 
-Generated: 2026-10-18T07:05:57.046Z
+Generated: 2026-10-18T08:45:13.091Z

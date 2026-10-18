@@ -1,15 +1,15 @@
 # Total Contributions - Algeria
 
-Generated: 2026-10-18T06:57:03.713Z
+Generated: 2026-10-18T08:37:57.014Z
 
-Users: 5786
+Users: 5785
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [RAHAMNIabdelkaderseifelislem](https://github.com/RAHAMNIabdelkaderseifelislem) | RAHMANI AbdElKader Seif El Islem |  |  | Saida,Algeria | 18565 |
-| 2 | [mohaneddz](https://github.com/mohaneddz) | Mohaned-Dz | ENSIA | DzMohaned | Algeria, Constantine | 10706 |
-| 3 | [MoonFuji](https://github.com/MoonFuji) | Kadri Mohammed Mouncef | @Dusens-Research-Dev  |  | Algeria | 9280 |
-| 4 | [samir1498](https://github.com/samir1498) | Samir Bettahar | ObserveOne |  | Algeria | 8238 |
+| 2 | [samir1498](https://github.com/samir1498) | Samir Bettahar | ObserveOne |  | Algeria | 13578 |
+| 3 | [mohaneddz](https://github.com/mohaneddz) | Mohaned-Dz | ENSIA | DzMohaned | Algeria, Constantine | 10706 |
+| 4 | [MoonFuji](https://github.com/MoonFuji) | Kadri Mohammed Mouncef | @Dusens-Research-Dev  |  | Algeria | 9280 |
 | 5 | [Achour](https://github.com/Achour) | Achour Meguenni |  |  | Algeria | 7789 |
 | 6 | [xCyberpunkx](https://github.com/xCyberpunkx) | Zed | Freelancer |  | Algeria | 7386 |
 | 7 | [oussamasf](https://github.com/oussamasf) |  | EP | OSeffai | Algiers  | 7372 |

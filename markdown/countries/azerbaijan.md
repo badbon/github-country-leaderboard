@@ -28,10 +28,10 @@ Indexed users: 5,065
 | 14 | [kerimovok](https://github.com/kerimovok) | Orkhan Karimov | Baku, Azerbaijan | 5,607 |
 | 15 | [samirmhsnv](https://github.com/samirmhsnv) | Samir Mammadhasanov | Baku, Azerbaijan | 5,599 |
 | 16 | [OrkhanAbbasli](https://github.com/OrkhanAbbasli) | Orkhan Abbasli | Baku,Azerbaijan | 5,281 |
-| 17 | [mahooo0](https://github.com/mahooo0) | Muhemed Ibrahimov | Azerbaijan | 5,262 |
-| 18 | [mirmovsum-abasov](https://github.com/mirmovsum-abasov) | Mirmövsüm Abasov | Baku, Azerbaijan | 5,045 |
-| 19 | [kamranbekirovyz](https://github.com/kamranbekirovyz) | Kamran Bekirov | Baku, Azerbaijan | 4,767 |
-| 20 | [frddl](https://github.com/frddl) | Farid M. | Baku, Azerbaijan | 4,667 |
+| 17 | [mahammad-ibrahimli](https://github.com/mahammad-ibrahimli) | Admin | Baku, Azerbaijan | 5,267 |
+| 18 | [mahooo0](https://github.com/mahooo0) | Muhemed Ibrahimov | Azerbaijan | 5,262 |
+| 19 | [mirmovsum-abasov](https://github.com/mirmovsum-abasov) | Mirmövsüm Abasov | Baku, Azerbaijan | 5,045 |
+| 20 | [kamranbekirovyz](https://github.com/kamranbekirovyz) | Kamran Bekirov | Baku, Azerbaijan | 4,767 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 5,065
 | 19 | [Jeyhun1227](https://github.com/Jeyhun1227) | Jeyhun Malikli | Baku | 253 |
 | 20 | [husniababaeva](https://github.com/husniababaeva) | Husniyya Babayeva | Azerbaijan,Baku | 252 |
 
-Generated: 2026-10-18T07:01:41.342Z
+Generated: 2026-10-18T08:42:45.535Z

@@ -1,14 +1,14 @@
 # Total Contributions - Suriname
 
-Generated: 2026-10-17T23:56:51.056Z
+Generated: 2026-10-18T08:26:48.806Z
 
 Users: 123
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [rafageist](https://github.com/rafageist) | Rafa Rodríguez | Divengine Software Solutions | rafageist | Paramaribo, Suriname | 44958 |
+| 1 | [rafageist](https://github.com/rafageist) | Rafa Rodríguez | Divengine Software Solutions | rafageist | Paramaribo, Suriname | 44940 |
 | 2 | [ragnarok22](https://github.com/ragnarok22) | Reinier Hernández |  | RagnarokReinier | Suriname | 13710 |
-| 3 | [doctorneon](https://github.com/doctorneon) | Fabian Jacott |  |  | Suriname | 6221 |
+| 3 | [doctorneon](https://github.com/doctorneon) | Fabian Jacott |  |  | Suriname | 6215 |
 | 4 | [Karel95](https://github.com/Karel95) | Karel Hernández |  |  | Paramaribo, Suriname | 2772 |
 | 5 | [eSaniello](https://github.com/eSaniello) | Shaniel  | @Bits-Please-Technologies | shaniel292 | Suriname | 1771 |
 | 6 | [CreativeYudai](https://github.com/CreativeYudai) | Yudai Heber | StayDirect |  | Paramaribo | 1763 |
@@ -16,7 +16,7 @@ Users: 123
 | 8 | [JhonatanJavierDev](https://github.com/JhonatanJavierDev) | Jhonatan Javier Corella Pérez | EndaCore Software | jhon_corella | Paramaribo | 1594 |
 | 9 | [jairseedorf](https://github.com/jairseedorf) | Jaïr Seedorf  | @paisrtechnologies  | secondn_ | Suriname | 1127 |
 | 10 | [giannisanni](https://github.com/giannisanni) | Gianni Sanrochman |  | Giannisanii | Paramaribo, Suriname | 866 |
-| 11 | [nerkarso](https://github.com/nerkarso) | Ner Karso | @ngineerlab |  | Paramaribo, Suriname | 824 |
+| 11 | [nerkarso](https://github.com/nerkarso) | Ner Karso | @ngineerlab |  | Paramaribo, Suriname | 817 |
 | 12 | [dmoed](https://github.com/dmoed) | <Don/> |  |  | Paramaribo, Suriname | 738 |
 | 13 | [Sh1vZ](https://github.com/Sh1vZ) | Shivam |  |  | Suriname | 712 |
 | 14 | [SantoshDevX](https://github.com/SantoshDevX) | Vishant Ramratan |  |  | Suriname | 661 |

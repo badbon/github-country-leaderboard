@@ -1,6 +1,6 @@
 # Followers - Cuba
 
-Generated: 2026-10-18T07:16:46.162Z
+Generated: 2026-10-18T08:55:12.071Z
 
 Users: 1275
 
@@ -22,7 +22,7 @@ Users: 1275
 | 14 | [ObisoftDev](https://github.com/ObisoftDev) | Obisoft Dev | obisoftdev |  | Cuba | 76 |
 | 15 | [ALbertE03](https://github.com/ALbertE03) | Albert | Universidad de la Habana |  | La Habana, Cuba | 75 |
 | 16 | [dnielpy](https://github.com/dnielpy) | Daniel Quesada |  |  | Cuba | 75 |
-| 17 | [stdevPavelmc](https://github.com/stdevPavelmc) | Pavel Milanes (CO7WT) | MailAD | co7wt | Camagüey, Cuba | 74 |
-| 18 | [markospy](https://github.com/markospy) | Marcos Avila |  |  | Cuba | 72 |
-| 19 | [leoGlez01](https://github.com/leoGlez01) | Leandro González  | Freelance | leoglezdev | La Habana, Cuba | 70 |
-| 20 | [EduardoProfe666](https://github.com/EduardoProfe666) | Eduardo Alejandro González Martell | AIKoders LLC |  | La Habana, Cuba | 69 |
+| 17 | [daironln](https://github.com/daironln) | Dairon Luis |  |  | Havana, Cuba | 74 |
+| 18 | [stdevPavelmc](https://github.com/stdevPavelmc) | Pavel Milanes (CO7WT) | MailAD | co7wt | Camagüey, Cuba | 74 |
+| 19 | [markospy](https://github.com/markospy) | Marcos Avila |  |  | Cuba | 72 |
+| 20 | [leoGlez01](https://github.com/leoGlez01) | Leandro González  | Freelance | leoglezdev | La Habana, Cuba | 70 |

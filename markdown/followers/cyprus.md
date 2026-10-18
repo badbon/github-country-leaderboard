@@ -1,6 +1,6 @@
 # Followers - Cyprus
 
-Generated: 2026-10-18T07:18:10.501Z
+Generated: 2026-10-18T08:55:22.150Z
 
 Users: 2724
 
@@ -12,8 +12,8 @@ Users: 2724
 | 4 | [mozafarimanesh](https://github.com/mozafarimanesh) | Reza  Mozafari Manesh |  | MozafariManesh | Republic Of Cyprus | 697 |
 | 5 | [zakirullin](https://github.com/zakirullin) | Artem Zakirullin |  | zakirullin | Limassol, Cyprus | 565 |
 | 6 | [bravit](https://github.com/bravit) | Vitaly Bragilevsky | JetBrains | VBragilevsky | Larnaca, Cyprus | 539 |
-| 7 | [FZambia](https://github.com/FZambia) | Alexander Emelin | @centrifugal  |  | Limassol, Cyprus | 471 |
-| 8 | [KaterinaPetrova](https://github.com/KaterinaPetrova) | Ekaterina Petrova | @JetBrains | KathrinPetrova | Nicosia, Cyprus | 440 |
+| 7 | [FZambia](https://github.com/FZambia) | Alexander Emelin | @centrifugal  |  | Limassol, Cyprus | 470 |
+| 8 | [KaterinaPetrova](https://github.com/KaterinaPetrova) | Ekaterina Petrova | @JetBrains | KathrinPetrova | Nicosia, Cyprus | 438 |
 | 9 | [Sanaebadi97](https://github.com/Sanaebadi97) | Sana Ebadi | https://www.journeymentor.net | Sanaebadi97 | Cyprus, Nicosia | 401 |
 | 10 | [Dieterbe](https://github.com/Dieterbe) | Dieter Plaetinck | @grafana  | Dieter_be | Cyprus | 396 |
 | 11 | [tony2001](https://github.com/tony2001) | Antony Dovgal |  |  | Limassol, Cyprus | 371 |

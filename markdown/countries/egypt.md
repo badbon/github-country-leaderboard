@@ -1,6 +1,6 @@
 # Egypt
 
-Indexed users: 34,098
+Indexed users: 34,097
 
 | Leaderboard | Link |
 |---|---|
@@ -38,10 +38,10 @@ Indexed users: 34,098
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [3bsalam-1](https://github.com/3bsalam-1) | Ahmed Mohamed | Ismailia, Egypt | 54,701 |
-| 2 | [Kotiba](https://github.com/Kotiba) | Kotiba Marg | Cairo | 7,076 |
-| 3 | [AnasElbattra](https://github.com/AnasElbattra) | Anas Elbattra | Egypt | 6,482 |
-| 4 | [MH0386](https://github.com/MH0386) | Mohamed Hisham Abdelzaher | Giza, Egypt | 5,446 |
-| 5 | [Kemetra](https://github.com/Kemetra) | Kemetra | cairo | 5,395 |
+| 2 | [Kemetra](https://github.com/Kemetra) | Kemetra | cairo | 8,164 |
+| 3 | [Kotiba](https://github.com/Kotiba) | Kotiba Marg | Cairo | 7,076 |
+| 4 | [AnasElbattra](https://github.com/AnasElbattra) | Anas Elbattra | Egypt | 6,482 |
+| 5 | [MH0386](https://github.com/MH0386) | Mohamed Hisham Abdelzaher | Giza, Egypt | 5,446 |
 | 6 | [maraouf](https://github.com/maraouf) | Mo Raouf | Cairo, Egypt | 5,380 |
 | 7 | [fadymondy](https://github.com/fadymondy) | Fady Mondy | Cairo, Egypt | 5,369 |
 | 8 | [sherow1982](https://github.com/sherow1982) | Sherif Salama | Egypt  | 5,164 |
@@ -83,4 +83,4 @@ Indexed users: 34,098
 | 19 | [mohamedtamer0](https://github.com/mohamedtamer0) | Mohamed Tamer | Egypt | 1,072 |
 | 20 | [mbadry1](https://github.com/mbadry1) | Mahmoud Badry | Cairo, Egypt | 1,055 |
 
-Generated: 2026-10-18T07:21:18.537Z
+Generated: 2026-10-18T08:59:05.093Z

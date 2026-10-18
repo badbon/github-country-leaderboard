@@ -22,8 +22,8 @@ Indexed users: 727
 | 8 | [fairbird](https://github.com/fairbird) | RAED | Bahrain | 5,462 |
 | 9 | [zahidala](https://github.com/zahidala) | Zahid Allaulddin | Bahrain | 5,212 |
 | 10 | [xCuzSkillz](https://github.com/xCuzSkillz) | Ali M. | Bahrain | 4,913 |
-| 11 | [halalgami](https://github.com/halalgami) | Algam | Bahrain | 4,628 |
-| 12 | [kelvindecosta](https://github.com/kelvindecosta) | Kelvin DeCosta | Bahrain | 4,614 |
+| 11 | [kelvindecosta](https://github.com/kelvindecosta) | Kelvin DeCosta | Bahrain | 4,678 |
+| 12 | [halalgami](https://github.com/halalgami) | Algam | Bahrain | 4,628 |
 | 13 | [iMythms](https://github.com/iMythms) | Mytham Jasim | Bahrain | 4,455 |
 | 14 | [UnbreakableMJ](https://github.com/UnbreakableMJ) | Mohamed Hammad | Bahrain | 4,214 |
 | 15 | [Ali-Hassan-2000](https://github.com/Ali-Hassan-2000) | ALI SALMAN | Bahrain | 3,911 |
@@ -69,8 +69,8 @@ Indexed users: 727
 | 5 | [burhan](https://github.com/burhan) | Burhan Khalid | Bahrain/Kuwait | 111 |
 | 6 | [ExTBH](https://github.com/ExTBH) | Natheer Radhi | Bahrain | 106 |
 | 7 | [mufarrah](https://github.com/mufarrah) | A.Rahman Mufarrah | Bahrain | 105 |
-| 8 | [FnrDev](https://github.com/FnrDev) | Ahmed | Bahrain | 93 |
-| 9 | [kelvindecosta](https://github.com/kelvindecosta) | Kelvin DeCosta | Bahrain | 93 |
+| 8 | [kelvindecosta](https://github.com/kelvindecosta) | Kelvin DeCosta | Bahrain | 94 |
+| 9 | [FnrDev](https://github.com/FnrDev) | Ahmed | Bahrain | 93 |
 | 10 | [aldoyh](https://github.com/aldoyh) | Hasan AlDoy | Al Muharraq, Bahrain | 87 |
 | 11 | [zakk616](https://github.com/zakk616) | Muhammad Zakaria | Manama, Bahrain | 84 |
 | 12 | [SouvikChoudhury360](https://github.com/SouvikChoudhury360) | Souvik Choudhury | Manama, Bahrain | 80 |
@@ -83,4 +83,4 @@ Indexed users: 727
 | 19 | [f-9t9it](https://github.com/f-9t9it) | 9T9 IT | Bahrain | 42 |
 | 20 | [masterde](https://github.com/masterde) | Baker | Bahrain, Muharraq | 40 |
 
-Generated: 2026-10-18T07:02:22.510Z
+Generated: 2026-10-18T08:42:51.273Z

@@ -1,6 +1,6 @@
 # Algeria
 
-Indexed users: 5,786
+Indexed users: 5,785
 
 | Leaderboard | Link |
 |---|---|
@@ -13,9 +13,9 @@ Indexed users: 5,786
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [RAHAMNIabdelkaderseifelislem](https://github.com/RAHAMNIabdelkaderseifelislem) | RAHMANI AbdElKader Seif El Islem | Saida,Algeria | 18,565 |
-| 2 | [mohaneddz](https://github.com/mohaneddz) | Mohaned-Dz | Algeria, Constantine | 10,706 |
-| 3 | [MoonFuji](https://github.com/MoonFuji) | Kadri Mohammed Mouncef | Algeria | 9,280 |
-| 4 | [samir1498](https://github.com/samir1498) | Samir Bettahar | Algeria | 8,238 |
+| 2 | [samir1498](https://github.com/samir1498) | Samir Bettahar | Algeria | 13,578 |
+| 3 | [mohaneddz](https://github.com/mohaneddz) | Mohaned-Dz | Algeria, Constantine | 10,706 |
+| 4 | [MoonFuji](https://github.com/MoonFuji) | Kadri Mohammed Mouncef | Algeria | 9,280 |
 | 5 | [Achour](https://github.com/Achour) | Achour Meguenni | Algeria | 7,789 |
 | 6 | [xCyberpunkx](https://github.com/xCyberpunkx) | Zed | Algeria | 7,386 |
 | 7 | [oussamasf](https://github.com/oussamasf) |  | Algiers  | 7,372 |
@@ -50,8 +50,8 @@ Indexed users: 5,786
 | 11 | [MedRedha](https://github.com/MedRedha) | Mohamed Redha Khelifi | Berlin, Germany / Algiers, Algeria | 2,083 |
 | 12 | [XaviCode1000](https://github.com/XaviCode1000) | Xavi | Algeria | 1,797 |
 | 13 | [maamriaabderahmene](https://github.com/maamriaabderahmene) | Maamria Abderahmene | algiers | 1,774 |
-| 14 | [Adel-Ayoub](https://github.com/Adel-Ayoub) | MAAZIZ Adel Ayoub | Algeria | 1,651 |
-| 15 | [samir1498](https://github.com/samir1498) | Samir Bettahar | Algeria | 1,614 |
+| 14 | [samir1498](https://github.com/samir1498) | Samir Bettahar | Algeria | 1,664 |
+| 15 | [Adel-Ayoub](https://github.com/Adel-Ayoub) | MAAZIZ Adel Ayoub | Algeria | 1,651 |
 | 16 | [bitsnaps](https://github.com/bitsnaps) | Ibrahim H. | Algeria | 1,551 |
 | 17 | [qamro](https://github.com/qamro) | Mohamed Qamar Eddine Bakhouche | Algiers, Algeria | 1,530 |
 | 18 | [1hachem](https://github.com/1hachem) | dashi | Algiers, Algeria | 1,455 |
@@ -83,4 +83,4 @@ Indexed users: 5,786
 | 19 | [sabri-zaki](https://github.com/sabri-zaki) | sabri zakaria | Algeria | 686 |
 | 20 | [Hamza5](https://github.com/Hamza5) | Hamza Abbad | Algeria | 669 |
 
-Generated: 2026-10-18T06:57:03.713Z
+Generated: 2026-10-18T08:37:57.014Z

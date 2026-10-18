@@ -1,6 +1,6 @@
 # Followers - Curaçao
 
-Generated: 2026-10-18T07:16:48.810Z
+Generated: 2026-10-18T08:55:15.793Z
 
 Users: 53
 
@@ -9,7 +9,7 @@ Users: 53
 | 1 | [BalusC](https://github.com/BalusC) | Bauke Scholtz |  | OmniFaces | Willemstad, Curaçao | 448 |
 | 2 | [schroef](https://github.com/schroef) |  |  |  | Curaçao, Dutch Caribbean | 67 |
 | 3 | [dwarfland](https://github.com/dwarfland) | marc hoffman | RemObjects Software | dwarfland | Curaçao | 63 |
-| 4 | [plopezbarbosa](https://github.com/plopezbarbosa) | Pierre López Barbosa | Loba Tech Ltd. |  | Curaçao | 62 |
+| 4 | [plopezbarbosa](https://github.com/plopezbarbosa) | Pierre López Barbosa | Loba Tech Ltd. |  | Curaçao | 63 |
 | 5 | [weyert](https://github.com/weyert) | Weyert de Boer |  |  | London, Curaçao | 43 |
 | 6 | [acesuares](https://github.com/acesuares) | Ace Suares | Suares & Co |  | Willemstad, Netherlands Antilles | 38 |
 | 7 | [rascoop](https://github.com/rascoop) | Richard Scoop |  |  | Curaçao, Dutch Caribbean | 33 |

@@ -1,6 +1,6 @@
 # Total Contributions - Bahrain
 
-Generated: 2026-10-18T07:02:22.510Z
+Generated: 2026-10-18T08:42:51.273Z
 
 Users: 727
 
@@ -16,8 +16,8 @@ Users: 727
 | 8 | [fairbird](https://github.com/fairbird) | RAED | (Enigma2 Developer) |  | Bahrain | 5462 |
 | 9 | [zahidala](https://github.com/zahidala) | Zahid Allaulddin |  |  | Bahrain | 5212 |
 | 10 | [xCuzSkillz](https://github.com/xCuzSkillz) | Ali M. | AvexInc | xCuzSkillz | Bahrain | 4913 |
-| 11 | [halalgami](https://github.com/halalgami) | Algam |  |  | Bahrain | 4628 |
-| 12 | [kelvindecosta](https://github.com/kelvindecosta) | Kelvin DeCosta | @dotlas | _kelvindecosta | Bahrain | 4614 |
+| 11 | [kelvindecosta](https://github.com/kelvindecosta) | Kelvin DeCosta | @dotlas | _kelvindecosta | Bahrain | 4678 |
+| 12 | [halalgami](https://github.com/halalgami) | Algam |  |  | Bahrain | 4628 |
 | 13 | [iMythms](https://github.com/iMythms) | Mytham Jasim | Al Salam Bank |  | Bahrain | 4455 |
 | 14 | [UnbreakableMJ](https://github.com/UnbreakableMJ) | Mohamed Hammad |  | S3CURE_ME | Bahrain | 4214 |
 | 15 | [Ali-Hassan-2000](https://github.com/Ali-Hassan-2000) | ALI SALMAN |  |  | Bahrain | 3911 |

@@ -1,6 +1,6 @@
 # Followers - Bahrain
 
-Generated: 2026-10-18T07:02:22.510Z
+Generated: 2026-10-18T08:42:51.273Z
 
 Users: 727
 
@@ -13,8 +13,8 @@ Users: 727
 | 5 | [burhan](https://github.com/burhan) | Burhan Khalid |  | burhan | Bahrain/Kuwait | 111 |
 | 6 | [ExTBH](https://github.com/ExTBH) | Natheer Radhi | Bahrain Polytechnic |  | Bahrain | 106 |
 | 7 | [mufarrah](https://github.com/mufarrah) | A.Rahman Mufarrah | Delet |  | Bahrain | 105 |
-| 8 | [FnrDev](https://github.com/FnrDev) | Ahmed |  | FnrDev | Bahrain | 93 |
-| 9 | [kelvindecosta](https://github.com/kelvindecosta) | Kelvin DeCosta | @dotlas | _kelvindecosta | Bahrain | 93 |
+| 8 | [kelvindecosta](https://github.com/kelvindecosta) | Kelvin DeCosta | @dotlas | _kelvindecosta | Bahrain | 94 |
+| 9 | [FnrDev](https://github.com/FnrDev) | Ahmed |  | FnrDev | Bahrain | 93 |
 | 10 | [aldoyh](https://github.com/aldoyh) | Hasan AlDoy | @doy.tech @Bahrain-TV @RadioBahrain  |  | Al Muharraq, Bahrain | 87 |
 | 11 | [zakk616](https://github.com/zakk616) | Muhammad Zakaria | Avanza Solutions |  | Manama, Bahrain | 84 |
 | 12 | [SouvikChoudhury360](https://github.com/SouvikChoudhury360) | Souvik Choudhury | AIP Genius |  | Manama, Bahrain | 80 |

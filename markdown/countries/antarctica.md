@@ -23,9 +23,9 @@ Indexed users: 460
 | 9 | [Sup2point0](https://github.com/Sup2point0) | Sup#2.0 | Antarctica | 4,666 |
 | 10 | [bharxhav](https://github.com/bharxhav) | Bhargav Kantheti | antarctica | 4,258 |
 | 11 | [cutetux](https://github.com/cutetux) | CuteTux | Antarctica ;) | 4,073 |
-| 12 | [Rayrsn](https://github.com/Rayrsn) | Rayr | Antarctica | 3,987 |
+| 12 | [Rayrsn](https://github.com/Rayrsn) | Rayr | Antarctica | 3,997 |
 | 13 | [enriquephl](https://github.com/enriquephl) |  | Antarctica | 3,544 |
-| 14 | [ethicnology](https://github.com/ethicnology) | Azad | Antarctica | 3,305 |
+| 14 | [ethicnology](https://github.com/ethicnology) | Azad | Antarctica | 3,312 |
 | 15 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Antarctica | 3,263 |
 | 16 | [PicasoTheDeal](https://github.com/PicasoTheDeal) | Tetstack | Antarctica | 3,030 |
 | 17 | [echo108471](https://github.com/echo108471) | Eugene Cho | Antarctica | 2,672 |
@@ -40,7 +40,7 @@ Indexed users: 460
 | 1 | [JohnChristianD](https://github.com/JohnChristianD) | John Christian Domingo | Antarctica | 4,791 |
 | 2 | [Sup2point0](https://github.com/Sup2point0) | Sup#2.0 | Antarctica | 4,272 |
 | 3 | [morgaesis](https://github.com/morgaesis) | Mörgæsis | Antarctica | 3,520 |
-| 4 | [ethicnology](https://github.com/ethicnology) | Azad | Antarctica | 3,053 |
+| 4 | [ethicnology](https://github.com/ethicnology) | Azad | Antarctica | 3,060 |
 | 5 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Antarctica | 3,043 |
 | 6 | [PicasoTheDeal](https://github.com/PicasoTheDeal) | Tetstack | Antarctica | 2,970 |
 | 7 | [shangyian](https://github.com/shangyian) | Yian | Antarctica | 2,167 |
@@ -83,4 +83,4 @@ Indexed users: 460
 | 19 | [alphaaurigae](https://github.com/alphaaurigae) | Marian Brockerhoff | Antarctica | 86 |
 | 20 | [fakeid30](https://github.com/fakeid30) | Fake ID | Antarctica | 78 |
 
-Generated: 2026-10-18T07:00:02.311Z
+Generated: 2026-10-18T08:40:30.109Z

@@ -65,7 +65,7 @@ Indexed users: 53
 | 1 | [BalusC](https://github.com/BalusC) | Bauke Scholtz | Willemstad, Curaçao | 448 |
 | 2 | [schroef](https://github.com/schroef) |  | Curaçao, Dutch Caribbean | 67 |
 | 3 | [dwarfland](https://github.com/dwarfland) | marc hoffman | Curaçao | 63 |
-| 4 | [plopezbarbosa](https://github.com/plopezbarbosa) | Pierre López Barbosa | Curaçao | 62 |
+| 4 | [plopezbarbosa](https://github.com/plopezbarbosa) | Pierre López Barbosa | Curaçao | 63 |
 | 5 | [weyert](https://github.com/weyert) | Weyert de Boer | London, Curaçao | 43 |
 | 6 | [acesuares](https://github.com/acesuares) | Ace Suares | Willemstad, Netherlands Antilles | 38 |
 | 7 | [rascoop](https://github.com/rascoop) | Richard Scoop | Curaçao, Dutch Caribbean | 33 |
@@ -83,4 +83,4 @@ Indexed users: 53
 | 19 | [theowlsden](https://github.com/theowlsden) | Shaquil Maria | Curaçao | 6 |
 | 20 | [coinversus](https://github.com/coinversus) | CoinVersus | Curaçao | 5 |
 
-Generated: 2026-10-18T07:16:48.810Z
+Generated: 2026-10-18T08:55:15.793Z

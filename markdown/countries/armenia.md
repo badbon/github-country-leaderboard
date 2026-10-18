@@ -28,10 +28,10 @@ Indexed users: 4,037
 | 14 | [aramarakelyan88](https://github.com/aramarakelyan88) | Aram Arakelyan | Yerevan | 7,628 |
 | 15 | [ashottonoyan](https://github.com/ashottonoyan) | Ashot Tonoyan | Yerevan | 7,617 |
 | 16 | [anatoly-scherbakov](https://github.com/anatoly-scherbakov) | Anatoly Scherbakov | Yerevan, Armenia | 7,340 |
-| 17 | [otanim](https://github.com/otanim) | Arman Yeghiazaryan | Armenia, Yerevan | 6,913 |
-| 18 | [eventbalancer](https://github.com/eventbalancer) | Aleksei Filippov | Armenia, Yerevan | 6,763 |
-| 19 | [namebogsecret](https://github.com/namebogsecret) | Vladimir Podlevskikh | Armenia Yerevan | 6,418 |
-| 20 | [lobotomoe](https://github.com/lobotomoe) | Alex Kraiz | Yerevan | 6,361 |
+| 17 | [melontron](https://github.com/melontron) |  | Yerevan | 6,914 |
+| 18 | [otanim](https://github.com/otanim) | Arman Yeghiazaryan | Armenia, Yerevan | 6,913 |
+| 19 | [eventbalancer](https://github.com/eventbalancer) | Aleksei Filippov | Armenia, Yerevan | 6,763 |
+| 20 | [namebogsecret](https://github.com/namebogsecret) | Vladimir Podlevskikh | Armenia Yerevan | 6,418 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 4,037
 | 19 | [khoren93](https://github.com/khoren93) | Khoren Markosyan | Yerevan, Armenia | 249 |
 | 20 | [nightwing](https://github.com/nightwing) | Harutyun Amirjanyan | Yerevan, Armenia | 236 |
 
-Generated: 2026-10-18T07:00:32.324Z
+Generated: 2026-10-18T08:42:05.185Z

@@ -1,6 +1,6 @@
 # Public Contributions - South Sudan
 
-Generated: 2026-10-18T06:40:32.186Z
+Generated: 2026-10-18T08:26:04.574Z
 
 Users: 132
 
@@ -24,5 +24,5 @@ Users: 132
 | 16 | [felixuxx](https://github.com/felixuxx) | ... |  |  | Juba, South Sudan | 268 |
 | 17 | [Wai-Mike](https://github.com/Wai-Mike) | Wai Michael Kat | climaware |  | South Sudan | 261 |
 | 18 | [Konson22](https://github.com/Konson22) | Kon Akech | Miles global Link | konsonak | South Sudan | 242 |
-| 19 | [joseph-akaro](https://github.com/joseph-akaro) | Joseph Akaro | Turning Point Innovation Limited |  | Juba | 212 |
+| 19 | [joseph-akaro](https://github.com/joseph-akaro) | Joseph Akaro | Turning Point Innovation Limited |  | Juba | 210 |
 | 20 | [JackPhilpott](https://github.com/JackPhilpott) | Jack Philpott | Impact Initiatsive |  | Juba, South Sudan | 182 |

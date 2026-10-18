@@ -55,7 +55,7 @@ Indexed users: 132
 | 16 | [felixuxx](https://github.com/felixuxx) | ... | Juba, South Sudan | 268 |
 | 17 | [Wai-Mike](https://github.com/Wai-Mike) | Wai Michael Kat | South Sudan | 261 |
 | 18 | [Konson22](https://github.com/Konson22) | Kon Akech | South Sudan | 242 |
-| 19 | [joseph-akaro](https://github.com/joseph-akaro) | Joseph Akaro | Juba | 212 |
+| 19 | [joseph-akaro](https://github.com/joseph-akaro) | Joseph Akaro | Juba | 210 |
 | 20 | [JackPhilpott](https://github.com/JackPhilpott) | Jack Philpott | Juba, South Sudan | 182 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 132
 | 19 | [Amalsouthsudan23](https://github.com/Amalsouthsudan23) | AMAL South Sudan | South Sudan | 15 |
 | 20 | [Drago-cod](https://github.com/Drago-cod) | Drago Samuel Jared | Juba, South Sudan | 15 |
 
-Generated: 2026-10-18T06:40:32.186Z
+Generated: 2026-10-18T08:26:04.574Z

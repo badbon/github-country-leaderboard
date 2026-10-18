@@ -1,6 +1,6 @@
 # Total Contributions - Sudan
 
-Generated: 2026-10-18T06:41:00.665Z
+Generated: 2026-10-18T08:26:29.110Z
 
 Users: 727
 

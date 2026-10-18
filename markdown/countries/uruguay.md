@@ -1,6 +1,6 @@
 # Uruguay
 
-Indexed users: 5,615
+Indexed users: 5,614
 
 | Leaderboard | Link |
 |---|---|
@@ -56,7 +56,7 @@ Indexed users: 5,615
 | 17 | [eduair94](https://github.com/eduair94) | EduAir | Uruguay | 2,284 |
 | 18 | [bradelev](https://github.com/bradelev) | Braulio De Leon | Montevideo, Uruguay | 2,033 |
 | 19 | [Pauisdev](https://github.com/Pauisdev) | Pau | Uruguay, Montevideo | 2,028 |
-| 20 | [vola-trebla](https://github.com/vola-trebla) | Vola Trebla | Uruguay, Montevideo | 1,963 |
+| 20 | [matintosh](https://github.com/matintosh) | Matias Martinez | Montevideo | 2,001 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 5,615
 | 19 | [mauricioszabo](https://github.com/mauricioszabo) | Maurício Szabo | Montevideo, Uruguay | 196 |
 | 20 | [ppazos](https://github.com/ppazos) | Pablo Pazos Gutiérrez | Montevideo, Uruguay | 196 |
 
-Generated: 2026-10-18T06:52:28.629Z
+Generated: 2026-10-18T08:33:44.956Z
