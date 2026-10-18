@@ -30728,7 +30728,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 6,
     "createdAt": "2020-01-30T15:10:03Z"
   },
   {
@@ -30764,7 +30764,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 1,
-    "publicContributions": 1,
+    "publicContributions": 81,
     "createdAt": "2020-11-29T16:56:34Z"
   },
   {
@@ -30776,7 +30776,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 54,
+    "publicContributions": 55,
     "createdAt": "2020-12-12T00:02:12Z"
   },
   {
@@ -30790,18 +30790,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-04-06T16:15:29Z"
-  },
-  {
-    "login": "omarmalas",
-    "name": "Omar Malas",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/63895256?s=72&u=02c1ec38a7e26239f877b75018318fd123d20c54&v=4",
-    "location": "Jordan",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2020-04-18T05:34:28Z"
   },
   {
     "login": "BasilAlQaqah",
@@ -30870,22 +30858,10 @@
     "location": "Jordan , Amman",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 49,
     "createdAt": "2020-01-31T09:36:47Z"
-  },
-  {
-    "login": "aabdelhaleemm",
-    "name": "Abdelhaleem Alfreihat",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/62956011?s=72&v=4",
-    "location": "Jordan",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2020-03-31T17:09:26Z"
   },
   {
     "login": "iyadah",
@@ -30906,7 +30882,7 @@
     "location": "amman Jordan",
     "company": "FreeLancer",
     "twitterUsername": "3odaiQudah",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-12-13T07:51:31Z"
@@ -30931,7 +30907,7 @@
     "company": "Tajrobtak",
     "twitterUsername": "ward_nsour",
     "followers": 1,
-    "privateContributions": 93,
+    "privateContributions": 286,
     "publicContributions": 6,
     "createdAt": "2020-01-14T20:05:35Z"
   },
@@ -30943,7 +30919,7 @@
     "company": "@staqio",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 861,
+    "privateContributions": 1564,
     "publicContributions": 3,
     "createdAt": "2020-04-07T12:22:45Z"
   },

@@ -5732,7 +5732,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2022-01-03T05:35:03Z"
   },
   {
@@ -5778,9 +5778,9 @@
     "location": "Myanmar",
     "company": "Vithey",
     "twitterUsername": "",
-    "followers": 238,
-    "privateContributions": 7,
-    "publicContributions": 289,
+    "followers": 235,
+    "privateContributions": 6,
+    "publicContributions": 267,
     "createdAt": "2022-03-30T06:47:35Z"
   },
   {
@@ -5790,8 +5790,8 @@
     "location": "Myanmar, Yangon",
     "company": "Freelance",
     "twitterUsername": "",
-    "followers": 209,
-    "privateContributions": 3538,
+    "followers": 207,
+    "privateContributions": 3618,
     "publicContributions": 126,
     "createdAt": "2022-02-07T14:09:30Z"
   },
@@ -5803,7 +5803,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 89,
-    "privateContributions": 1197,
+    "privateContributions": 1348,
     "publicContributions": 1,
     "createdAt": "2022-08-12T00:07:32Z"
   },
@@ -5814,9 +5814,9 @@
     "location": "Yangon, Myanmar",
     "company": "ConceptX",
     "twitterUsername": "",
-    "followers": 85,
-    "privateContributions": 473,
-    "publicContributions": 108,
+    "followers": 86,
+    "privateContributions": 463,
+    "publicContributions": 105,
     "createdAt": "2022-10-05T07:29:16Z"
   },
   {
@@ -5827,7 +5827,7 @@
     "company": "Tokio Marine",
     "twitterUsername": "",
     "followers": 70,
-    "privateContributions": 470,
+    "privateContributions": 445,
     "publicContributions": 46,
     "createdAt": "2022-04-29T11:57:25Z"
   },
@@ -5850,9 +5850,9 @@
     "location": "Myanmar",
     "company": "IdeaCode Academy",
     "twitterUsername": "",
-    "followers": 55,
-    "privateContributions": 2866,
-    "publicContributions": 219,
+    "followers": 54,
+    "privateContributions": 3210,
+    "publicContributions": 212,
     "createdAt": "2022-04-05T03:16:27Z"
   },
   {
@@ -5863,7 +5863,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 51,
-    "privateContributions": 214,
+    "privateContributions": 237,
     "publicContributions": 21,
     "createdAt": "2022-11-19T02:47:11Z"
   },
@@ -5876,20 +5876,8 @@
     "twitterUsername": "",
     "followers": 43,
     "privateContributions": 40,
-    "publicContributions": 217,
+    "publicContributions": 224,
     "createdAt": "2022-02-23T10:05:22Z"
-  },
-  {
-    "login": "lilskyex0x",
-    "name": "Aung Pyae Khant",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/108471064?s=72&u=fc4404ee2ab61364a589778185c2853c28c2f492&v=4",
-    "location": "Myanmar",
-    "company": "Front-End Developer",
-    "twitterUsername": "",
-    "followers": 43,
-    "privateContributions": 0,
-    "publicContributions": 43,
-    "createdAt": "2022-06-30T12:55:24Z"
   },
   {
     "login": "thelapyae",
@@ -5900,7 +5888,7 @@
     "twitterUsername": "thelapyae",
     "followers": 40,
     "privateContributions": 0,
-    "publicContributions": 86,
+    "publicContributions": 98,
     "createdAt": "2022-01-09T07:54:15Z"
   },
   {
@@ -5911,7 +5899,7 @@
     "company": "",
     "twitterUsername": "heintayzarhm",
     "followers": 41,
-    "privateContributions": 976,
+    "privateContributions": 1031,
     "publicContributions": 0,
     "createdAt": "2022-05-08T20:08:58Z"
   },
@@ -5923,8 +5911,8 @@
     "company": "nexcode",
     "twitterUsername": "",
     "followers": 37,
-    "privateContributions": 762,
-    "publicContributions": 177,
+    "privateContributions": 843,
+    "publicContributions": 161,
     "createdAt": "2022-10-05T10:39:48Z"
   },
   {
@@ -5934,8 +5922,8 @@
     "location": "Myanmar",
     "company": "",
     "twitterUsername": "",
-    "followers": 28,
-    "privateContributions": 388,
+    "followers": 27,
+    "privateContributions": 412,
     "publicContributions": 44,
     "createdAt": "2022-01-26T05:05:42Z"
   },
@@ -5946,8 +5934,8 @@
     "location": "Mandalay, Myanmar",
     "company": "",
     "twitterUsername": "",
-    "followers": 34,
-    "privateContributions": 2112,
+    "followers": 35,
+    "privateContributions": 2304,
     "publicContributions": 1,
     "createdAt": "2022-04-19T17:48:31Z"
   },

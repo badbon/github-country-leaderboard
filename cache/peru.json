@@ -30536,7 +30536,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 6,
     "createdAt": "2022-11-14T17:51:45Z"
   },
   {
@@ -30546,9 +30546,9 @@
     "location": "Lima, Perú",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 255,
-    "publicContributions": 55,
+    "followers": 8,
+    "privateContributions": 385,
+    "publicContributions": 22,
     "createdAt": "2022-10-13T23:42:35Z"
   },
   {
@@ -30560,7 +30560,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 4,
     "createdAt": "2022-08-23T20:47:38Z"
   },
   {
@@ -30583,8 +30583,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 0,
-    "publicContributions": 12,
+    "privateContributions": 8,
+    "publicContributions": 35,
     "createdAt": "2022-09-24T02:45:01Z"
   },
   {
@@ -30620,7 +30620,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 3,
-    "publicContributions": 2,
+    "publicContributions": 6,
     "createdAt": "2022-03-30T02:57:56Z"
   },
   {
@@ -30630,9 +30630,9 @@
     "location": "Lima, Perú",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 8,
-    "publicContributions": 74,
+    "followers": 10,
+    "privateContributions": 14,
+    "publicContributions": 122,
     "createdAt": "2022-05-24T17:48:26Z"
   },
   {
@@ -30642,7 +30642,7 @@
     "location": "Lima, Perú",
     "company": "UPC",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-11-09T00:33:07Z"
@@ -30650,13 +30650,13 @@
   {
     "login": "Sebas122005",
     "name": "Sebastian Cortez",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/106283050?s=72&u=ee7b6212b02376645bbd3c52e74b1e504b959b7c&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/106283050?s=72&u=6c39b748d8df3d7e5fb682cb0e060d923374b03e&v=4",
     "location": "Lima, Perú",
     "company": "",
     "twitterUsername": "sebastiancc_12",
-    "followers": 7,
-    "privateContributions": 85,
-    "publicContributions": 43,
+    "followers": 11,
+    "privateContributions": 649,
+    "publicContributions": 5,
     "createdAt": "2022-05-25T22:29:18Z"
   },
   {
@@ -30667,20 +30667,20 @@
     "company": "Software engineering student at UMinho",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 95,
-    "publicContributions": 214,
+    "privateContributions": 341,
+    "publicContributions": 221,
     "createdAt": "2022-03-30T08:36:54Z"
   },
   {
     "login": "iJosueeh",
-    "name": "IJosueeh01",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/107824312?s=72&u=3309fb9df05d125844c0588bff1a16d5b21d6efb&v=4",
+    "name": "Josue Royer Tanta Cieza",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/107824312?s=72&u=7e70a80095818ab70a35bf20c264be745b5d55b3&v=4",
     "location": "Perú, Lima",
     "company": "",
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 1291,
+    "publicContributions": 1718,
     "createdAt": "2022-06-20T02:49:46Z"
   },
   {
@@ -30692,7 +30692,7 @@
     "twitterUsername": "antivz",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 111,
+    "publicContributions": 101,
     "createdAt": "2022-09-02T00:34:04Z"
   },
   {
@@ -30716,7 +30716,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 13,
     "createdAt": "2022-01-23T20:07:21Z"
   },
   {
@@ -30738,9 +30738,9 @@
     "location": "Lima - Perú",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 4,
-    "publicContributions": 26,
+    "followers": 6,
+    "privateContributions": 107,
+    "publicContributions": 69,
     "createdAt": "2022-08-03T19:10:37Z"
   },
   {
@@ -30762,9 +30762,9 @@
     "location": "Lima, Perú",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2022-02-16T18:50:12Z"
   },
   {

@@ -30584,7 +30584,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2023-03-15T23:51:30Z"
   },
   {
@@ -30620,7 +30620,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 25,
     "createdAt": "2023-02-16T20:58:00Z"
   },
   {
@@ -30630,7 +30630,7 @@
     "location": "Porto, Portugal",
     "company": "Universidade de Trás-os-Montes e Alto Douro",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 48,
     "createdAt": "2023-02-16T02:39:08Z"
@@ -30680,7 +30680,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 31,
     "createdAt": "2023-05-24T15:47:41Z"
   },
   {
@@ -30728,20 +30728,8 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2023-01-10T20:14:10Z"
-  },
-  {
-    "login": "hgsanson",
-    "name": "Giovani Sanson",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/136741863?s=72&u=7b4e1dde77f67aa5b8259cf345b04a1eb7895fd1&v=4",
-    "location": "Portugal",
-    "company": "ITSector",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 166,
-    "publicContributions": 3,
-    "createdAt": "2023-06-15T17:13:07Z"
   },
   {
     "login": "beneditagoncalves",
@@ -30752,7 +30740,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 22,
     "createdAt": "2023-03-20T16:31:37Z"
   },
   {
@@ -30775,8 +30763,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 90,
+    "privateContributions": 260,
+    "publicContributions": 95,
     "createdAt": "2023-02-28T21:57:05Z"
   },
   {
@@ -30786,9 +30774,9 @@
     "location": "Portugal",
     "company": "",
     "twitterUsername": "odiaboexiste",
-    "followers": 4,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 19,
     "createdAt": "2023-02-28T07:15:53Z"
   },
   {
@@ -30811,7 +30799,7 @@
     "company": "Universidade do Minho",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 84,
+    "privateContributions": 141,
     "publicContributions": 7,
     "createdAt": "2023-04-14T17:37:00Z"
   },

@@ -30476,7 +30476,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 9,
     "createdAt": "2013-12-04T09:39:40Z"
   },
   {
@@ -30523,7 +30523,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 124,
+    "privateContributions": 123,
     "publicContributions": 0,
     "createdAt": "2013-05-31T15:46:09Z"
   },
@@ -30535,8 +30535,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 275,
-    "publicContributions": 931,
+    "privateContributions": 278,
+    "publicContributions": 1744,
     "createdAt": "2013-09-28T09:15:33Z"
   },
   {
@@ -30548,7 +30548,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 30,
     "createdAt": "2013-03-12T08:53:55Z"
   },
   {
@@ -30570,7 +30570,7 @@
     "location": "Latvia",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-11-04T11:02:11Z"
@@ -30584,7 +30584,7 @@
     "twitterUsername": "therceman",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 154,
+    "publicContributions": 178,
     "createdAt": "2013-07-18T07:53:30Z"
   },
   {
@@ -30619,7 +30619,7 @@
     "company": "@fullcontact ",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 41,
+    "privateContributions": 6,
     "publicContributions": 0,
     "createdAt": "2013-06-18T11:09:12Z"
   },
@@ -30646,18 +30646,6 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2013-03-13T21:49:46Z"
-  },
-  {
-    "login": "dsitovs",
-    "name": "Dmitrijs Sitovs",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/4233982?s=72&v=4",
-    "location": "Riga, Latvia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2013-04-23T10:37:33Z"
   },
   {
     "login": "intrade",
