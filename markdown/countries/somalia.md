@@ -49,7 +49,7 @@ Indexed users: 866
 | 10 | [omartood](https://github.com/omartood) | Omar Tood | Somalia | 769 |
 | 11 | [Joseph-Abdullaah](https://github.com/Joseph-Abdullaah) | Joseph Abdullaahi | somalia | 757 |
 | 12 | [ibrahimmoalim](https://github.com/ibrahimmoalim) | Ibrahim | Garowe, Somalia | 745 |
-| 13 | [ali-hmed](https://github.com/ali-hmed) | Ali ahmed | Mogadishu, Somalia | 660 |
+| 13 | [ali-hmed](https://github.com/ali-hmed) | Ali ahmed | Mogadishu, Somalia | 668 |
 | 14 | [karimsaabir9](https://github.com/karimsaabir9) | Sabir Salad Hassan | Mogadishu-Somalia | 625 |
 | 15 | [khaledyusuf44](https://github.com/khaledyusuf44) | Khalid Yusuf Dahir | Mogadishu | 615 |
 | 16 | [hayle01](https://github.com/hayle01) |  Mohamed Abdirahim | Mogadishu, Somalia | 576 |
@@ -83,4 +83,4 @@ Indexed users: 866
 | 19 | [Hasson23](https://github.com/Hasson23) | Hassan Abdullah   | Somalia - Mogadishu  | 100 |
 | 20 | [AbdifatahYasin1](https://github.com/AbdifatahYasin1) | Abdifatah Yasin Yusuf | Somalia, Hargeisa  | 96 |
 
-Generated: 2026-10-18T18:42:47.042Z
+Generated: 2026-10-18T20:18:24.914Z

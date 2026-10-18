@@ -81,6 +81,6 @@ Indexed users: 132
 | 17 | [Ariik20](https://github.com/Ariik20) | Reegan Arick | Juba | 17 |
 | 18 | [bearded7](https://github.com/bearded7) | XaLabs03 | Juba, South Sudan | 16 |
 | 19 | [Amalsouthsudan23](https://github.com/Amalsouthsudan23) | AMAL South Sudan | South Sudan | 15 |
-| 20 | [Drago-cod](https://github.com/Drago-cod) | Drago Samuel Jared | Juba, South Sudan | 15 |
+| 20 | [Codetym](https://github.com/Codetym) | Nelson Mandela D.M.J | Juba, South Sudan  | 14 |
 
-Generated: 2026-10-18T18:46:10.038Z
+Generated: 2026-10-18T20:18:37.681Z
