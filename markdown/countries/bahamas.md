@@ -13,7 +13,7 @@ Indexed users: 236
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [carlswann](https://github.com/carlswann) | Carl Swann | Freeport, Bahamas | 23,507 |
-| 2 | [zoejessica](https://github.com/zoejessica) | Zoë Smith | Bahamas / Canada | 3,423 |
+| 2 | [zoejessica](https://github.com/zoejessica) | Zoë Smith | Bahamas / Canada | 3,487 |
 | 3 | [dbraganca](https://github.com/dbraganca) | dbraganca | Bahamas | 3,324 |
 | 4 | [bondjacobbond](https://github.com/bondjacobbond) | Jacob Bond | Casino Royale, Nassau, Bahamas | 3,069 |
 | 5 | [ryaustin](https://github.com/ryaustin) | Ryan | Bahamas | 2,511 |
@@ -30,7 +30,7 @@ Indexed users: 236
 | 16 | [dorson755](https://github.com/dorson755) | Dorson Williams | Nassau Bahamas | 731 |
 | 17 | [mikepadiernos](https://github.com/mikepadiernos) | Mike Padiernos | Nassau County, NY | 572 |
 | 18 | [nhayling](https://github.com/nhayling) | Noah Hayling | Nassau, The Bahamas | 551 |
-| 19 | [avolel](https://github.com/avolel) | Andre Volel | Nassau County, NY | 335 |
+| 19 | [avolel](https://github.com/avolel) | Andre Volel | Nassau County, NY | 365 |
 | 20 | [FLIPPING-PROFITS](https://github.com/FLIPPING-PROFITS) | FLIPPING PROFITS | Bahamas | 222 |
 
 ## Public Contributions
@@ -38,7 +38,7 @@ Indexed users: 236
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [Tec4Sho](https://github.com/Tec4Sho) | Ziona | Nassau, Bahamas  | 859 |
-| 2 | [avolel](https://github.com/avolel) | Andre Volel | Nassau County, NY | 335 |
+| 2 | [avolel](https://github.com/avolel) | Andre Volel | Nassau County, NY | 365 |
 | 3 | [mikepadiernos](https://github.com/mikepadiernos) | Mike Padiernos | Nassau County, NY | 297 |
 | 4 | [FLIPPING-PROFITS](https://github.com/FLIPPING-PROFITS) | FLIPPING PROFITS | Bahamas | 222 |
 | 5 | [zotz](https://github.com/zotz) | drew Roberts | Nassau, Bahamas | 148 |
@@ -83,4 +83,4 @@ Indexed users: 236
 | 19 | [paulcitarella](https://github.com/paulcitarella) | Paul Citarella | George Town, Bahamas | 15 |
 | 20 | [yemix](https://github.com/yemix) |  | Bahamas | 14 |
 
-Generated: 2026-10-17T22:33:59.908Z
+Generated: 2026-10-18T00:14:22.612Z

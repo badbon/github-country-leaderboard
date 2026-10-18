@@ -1,6 +1,6 @@
 # Followers - Iceland
 
-Generated: 2026-10-17T23:08:32.089Z
+Generated: 2026-10-18T00:42:16.286Z
 
 Users: 1579
 
@@ -25,4 +25,4 @@ Users: 1579
 | 17 | [MIK4GE-RE0](https://github.com/MIK4GE-RE0) | ReoReo | guys omg do NOT follow @DBYTEZ and @SH1NSOU or else tung tung sahur will haunt you at 3am!! |  | bllk/ Pjsk/ Hsr/ Bakery/ Island/ moots +tied up in sunnys bed | 226 |
 | 18 | [szhorvat](https://github.com/szhorvat) | Szabolcs Horvát |  |  | Iceland | 217 |
 | 19 | [jokull](https://github.com/jokull) | Jökull Sólberg Auðunsson | @trip-to-japan  | jokull | Reykjavík, Iceland | 209 |
-| 20 | [sbsigur](https://github.com/sbsigur) | Sævar Bergur Sigurgeirsson |  |  | Iceland | 203 |
+| 20 | [kevien](https://github.com/kevien) | K3vin |  |  | iceland | 204 |

@@ -21,15 +21,15 @@ Indexed users: 314
 | 7 | [Crazynotdev](https://github.com/Crazynotdev) | ZynXx | Gabon | 959 |
 | 8 | [Marseven](https://github.com/Marseven) | Aristide Mebodo | Libreville | 930 |
 | 9 | [Dylan245-droid](https://github.com/Dylan245-droid) | Dylan ONDO | Libreville, Gabon | 871 |
-| 10 | [NathanLeFuturMillionaire](https://github.com/NathanLeFuturMillionaire) | Nathan Le Fütür Milliønãîre | Libreville | 731 |
-| 11 | [nguie2](https://github.com/nguie2) | jean roch | Libreville, Gabon | 663 |
-| 12 | [dynamo63](https://github.com/dynamo63) | Mouckeytou Moulongui | Gabon | 633 |
-| 13 | [EbenEzer-MOMBO](https://github.com/EbenEzer-MOMBO) | MOMBO Eben | Gabon | 583 |
-| 14 | [MeylandMan](https://github.com/MeylandMan) | M.Meyland | Gabon | 571 |
+| 10 | [MeylandMan](https://github.com/MeylandMan) | M.Meyland | Gabon | 759 |
+| 11 | [NathanLeFuturMillionaire](https://github.com/NathanLeFuturMillionaire) | Nathan Le Fütür Milliønãîre | Libreville | 731 |
+| 12 | [nguie2](https://github.com/nguie2) | jean roch | Libreville, Gabon | 663 |
+| 13 | [dynamo63](https://github.com/dynamo63) | Mouckeytou Moulongui | Gabon | 633 |
+| 14 | [EbenEzer-MOMBO](https://github.com/EbenEzer-MOMBO) | MOMBO Eben | Gabon | 583 |
 | 15 | [mawuva](https://github.com/mawuva) | Ephraïm SEDDOR | Libreville, Lomé | 506 |
 | 16 | [mendoc](https://github.com/mendoc) | Dimitri ONGOUA | Libreville, Gabon | 473 |
 | 17 | [jealife](https://github.com/jealife) | JEaLiFe | Gabon | 451 |
-| 18 | [FeldymZ](https://github.com/FeldymZ) | Feldy MZ | Libreville | 377 |
+| 18 | [FeldymZ](https://github.com/FeldymZ) | Feldy MZ | Libreville | 370 |
 | 19 | [glennNTM](https://github.com/glennNTM) | Glenn Ntoutoume | Libreville - Gabon | 356 |
 | 20 | [abdoulayedong](https://github.com/abdoulayedong) | Abdoulaye Dong | Libreville, Gabon | 314 |
 
@@ -43,13 +43,13 @@ Indexed users: 314
 | 4 | [NathanLeFuturMillionaire](https://github.com/NathanLeFuturMillionaire) | Nathan Le Fütür Milliønãîre | Libreville | 731 |
 | 5 | [EbenEzer-MOMBO](https://github.com/EbenEzer-MOMBO) | MOMBO Eben | Gabon | 583 |
 | 6 | [jealife](https://github.com/jealife) | JEaLiFe | Gabon | 451 |
-| 7 | [FeldymZ](https://github.com/FeldymZ) | Feldy MZ | Libreville | 377 |
+| 7 | [FeldymZ](https://github.com/FeldymZ) | Feldy MZ | Libreville | 370 |
 | 8 | [glennNTM](https://github.com/glennNTM) | Glenn Ntoutoume | Libreville - Gabon | 356 |
 | 9 | [MeylandMan](https://github.com/MeylandMan) | M.Meyland | Gabon | 317 |
 | 10 | [nnangassejb10](https://github.com/nnangassejb10) | gloire jb nnang | Gabon  | 303 |
 | 11 | [mendoc](https://github.com/mendoc) | Dimitri ONGOUA | Libreville, Gabon | 267 |
 | 12 | [Yusufibin](https://github.com/Yusufibin) | Youssouf ⚜️ | Gabon, Libreville | 233 |
-| 13 | [Lichtensteiner](https://github.com/Lichtensteiner) | Lichtensteiner Stawikowski | Libreville Gabon | 224 |
+| 13 | [Lichtensteiner](https://github.com/Lichtensteiner) | Lichtensteiner Stawikowski | Libreville Gabon | 230 |
 | 14 | [reasonknowledge](https://github.com/reasonknowledge) | NGOUBOUKOU Franck Hervé | Libreville-Gabon | 168 |
 | 15 | [jennigs241](https://github.com/jennigs241) |  | Gabon | 165 |
 | 16 | [waly2020](https://github.com/waly2020) | waly le dev | Gabon (Libreville) | 154 |
@@ -63,7 +63,7 @@ Indexed users: 314
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [yvan-ngoahitsi](https://github.com/yvan-ngoahitsi) | Yvan A. Ngoahitsi | Gabon | 122 |
-| 2 | [davcode92](https://github.com/davcode92) | Davy Methe Nzeng | Gabon | 108 |
+| 2 | [davcode92](https://github.com/davcode92) | Davy Methe Nzeng | Gabon | 109 |
 | 3 | [mawuva](https://github.com/mawuva) | Ephraïm SEDDOR | Libreville, Lomé | 84 |
 | 4 | [mendoc](https://github.com/mendoc) | Dimitri ONGOUA | Libreville, Gabon | 65 |
 | 5 | [bonachylauriel](https://github.com/bonachylauriel) | Leyoussi Bonachi Lauriel | Gabon | 62 |
@@ -83,4 +83,4 @@ Indexed users: 314
 | 19 | [Dylan245-droid](https://github.com/Dylan245-droid) | Dylan ONDO | Libreville, Gabon | 22 |
 | 20 | [Marseven](https://github.com/Marseven) | Aristide Mebodo | Libreville | 19 |
 
-Generated: 2026-10-17T22:59:31.682Z
+Generated: 2026-10-18T00:32:34.623Z

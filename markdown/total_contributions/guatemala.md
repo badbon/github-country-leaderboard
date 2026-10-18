@@ -1,6 +1,6 @@
 # Total Contributions - Guatemala
 
-Generated: 2026-10-17T23:06:07.819Z
+Generated: 2026-10-18T00:37:30.439Z
 
 Users: 3215
 
@@ -24,5 +24,5 @@ Users: 3215
 | 16 | [damianpeaf](https://github.com/damianpeaf) | Damián Peña | FIUSAC |  | Guatemala | 5493 |
 | 17 | [jrodas4044](https://github.com/jrodas4044) | Jonhathan Rolando Rodas López |  |  | Chimaltenango/Guatemala | 5446 |
 | 18 | [fcpauldiaz](https://github.com/fcpauldiaz) | Pablo Díaz | @Chapi-Labs  |  | Guatemala | 5250 |
-| 19 | [jdanielrodriguez](https://github.com/jdanielrodriguez) | Daniel Rodriguez | @vidoomy |  | Guatemala | 5023 |
-| 20 | [Mgodoyd](https://github.com/Mgodoyd) | MARIO   GODOY |  |  | Guatemala | 4898 |
+| 19 | [pcordon](https://github.com/pcordon) | Pablo Cordon |  |  | Guatemala | 5061 |
+| 20 | [jdanielrodriguez](https://github.com/jdanielrodriguez) | Daniel Rodriguez | @vidoomy |  | Guatemala | 5023 |

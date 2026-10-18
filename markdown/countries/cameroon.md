@@ -13,7 +13,7 @@ Indexed users: 1,799
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [jp-sft](https://github.com/jp-sft) | Jessy Pango | Cameroon | 15,161 |
-| 2 | [Tomdieu](https://github.com/Tomdieu) | ivantom | Cameroon | 12,903 |
+| 2 | [Tomdieu](https://github.com/Tomdieu) | ivantom | Cameroon | 12,821 |
 | 3 | [momo-87](https://github.com/momo-87) | Christian Romuald MOMO TONFACK | Cameroon - Yaounde | 11,652 |
 | 4 | [cliffordten](https://github.com/cliffordten) | Teneng Clifford | Buea, Cameroon | 10,943 |
 | 5 | [bpsmartdesign](https://github.com/bpsmartdesign) | Biya Paul | Yaoundé - Douala, Cameroon | 10,058 |
@@ -26,8 +26,8 @@ Indexed users: 1,799
 | 12 | [ln-dev7](https://github.com/ln-dev7) | LN | Cameroon | 7,402 |
 | 13 | [leonelngande](https://github.com/leonelngande) | Leonel Elimpe | Buea, Cameroon | 7,257 |
 | 14 | [Martin-Luther](https://github.com/Martin-Luther) | Martin Luther ETOUMAN NDAMBWE | Douala / Cameroon | 6,398 |
-| 15 | [psycho237-prog](https://github.com/psycho237-prog) | ONANA GREGOIRE LEGRAND  | Cameroon | 6,340 |
-| 16 | [OkonoWil](https://github.com/OkonoWil) | Okono Wilfried | Douala,Cameroon | 6,014 |
+| 15 | [OkonoWil](https://github.com/OkonoWil) | Okono Wilfried | Douala,Cameroon | 6,342 |
+| 16 | [psycho237-prog](https://github.com/psycho237-prog) | ONANA GREGOIRE LEGRAND  | Cameroon | 6,340 |
 | 17 | [itzomen](https://github.com/itzomen) | Peng Boris Akebuon | Buea, Cameroon | 5,598 |
 | 18 | [koatiromeo](https://github.com/koatiromeo) | koatiromeo | Cameroon | 5,353 |
 | 19 | [ussfranck](https://github.com/ussfranck) | Franck Mekoulou | District 7 Of Yaoundé, CM | 5,255 |
@@ -70,7 +70,7 @@ Indexed users: 1,799
 | 6 | [djonmaila](https://github.com/djonmaila) | DJONMAILA PYTHAGORE  | Cameroon | 494 |
 | 7 | [Nkwenti-Severian-Ndongtsop](https://github.com/Nkwenti-Severian-Ndongtsop) | @Nkwenti @Severian | Cameroon, Bangangte | 355 |
 | 8 | [sangafabrice](https://github.com/sangafabrice) | Fabrice Sanga | Yaoundé, CM | 331 |
-| 9 | [donaldte](https://github.com/donaldte) | donald programmeur | Bamenda/Cameroon | 321 |
+| 9 | [donaldte](https://github.com/donaldte) | donald programmeur | Bamenda/Cameroon | 322 |
 | 10 | [kenrique100](https://github.com/kenrique100) | Kenrique _Ngwa | Cameroon | 289 |
 | 11 | [AssahBismarkabah](https://github.com/AssahBismarkabah) | Assah Bismark | Cameroon | 273 |
 | 12 | [wisdom2608](https://github.com/wisdom2608) | Julius | Buea, Cameroon | 250 |
@@ -81,6 +81,6 @@ Indexed users: 1,799
 | 17 | [Clovremix](https://github.com/Clovremix) |  | Yaounde Cameroon  | 179 |
 | 18 | [Blair2004](https://github.com/Blair2004) | Blair Jersyer | Cameroon. Yaoundé | 174 |
 | 19 | [baimamboukar](https://github.com/baimamboukar) | BAIMAM BOUKAR JEAN JACQUES | Yaoundé | 170 |
-| 20 | [Suprememajor](https://github.com/Suprememajor) | Nobert Etta | Buea, Cameroon | 170 |
+| 20 | [Suprememajor](https://github.com/Suprememajor) | Nobert Etta | Buea, Cameroon | 168 |
 
-Generated: 2026-10-17T22:42:24.112Z
+Generated: 2026-10-18T00:21:33.058Z

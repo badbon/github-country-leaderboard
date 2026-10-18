@@ -1,12 +1,12 @@
 # Followers - Brunei
 
-Generated: 2026-10-17T22:41:08.452Z
+Generated: 2026-10-18T00:18:57.267Z
 
 Users: 254
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [notanonymouse](https://github.com/notanonymouse) | notanonymouse |  |  | Brunei | 175 |
+| 1 | [notanonymouse](https://github.com/notanonymouse) | notanonymouse |  |  | Brunei | 185 |
 | 2 | [lmwnshn](https://github.com/lmwnshn) | Wan Shen Lim |  |  | San Francisco, CA \| Brunei | 113 |
 | 3 | [izdiwho](https://github.com/izdiwho) | Iz |  | izdiwho | Brunei | 64 |
 | 4 | [Qoyyuum](https://github.com/Qoyyuum) | Abdul Qoyyuum |  | Qoyyuum | Brunei Darussalam | 52 |

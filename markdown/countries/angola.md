@@ -50,8 +50,8 @@ Indexed users: 2,499
 | 11 | [adilson889](https://github.com/adilson889) | Adilson C. Rafael | Moçâmedes, Namibe, Angola | 1,400 |
 | 12 | [jormaedes](https://github.com/jormaedes) | Jormaedes Luís | Angola | 1,374 |
 | 13 | [joaquimmulaza](https://github.com/joaquimmulaza) | Joaquim Mulaza | Luanda Angola | 1,332 |
-| 14 | [marcmav](https://github.com/marcmav) | Marciano Mavungo | Luanda, Angola | 1,200 |
-| 15 | [ercabsalias](https://github.com/ercabsalias) | Ernesto Cabingano Salias | Angola - Luanda Viana Estalagem | 1,169 |
+| 14 | [ercabsalias](https://github.com/ercabsalias) | Ernesto Cabingano Salias | Angola - Luanda Viana Estalagem | 1,169 |
+| 15 | [marcmav](https://github.com/marcmav) | Marciano Mavungo | Luanda, Angola | 1,064 |
 | 16 | [kandadavid36](https://github.com/kandadavid36) | Kanda David | Angola | 1,060 |
 | 17 | [Wolf-Quiteque](https://github.com/Wolf-Quiteque) | Marcio Ragy Daveiga Quiteque | Luanda, Angola | 945 |
 | 18 | [joao-tambue](https://github.com/joao-tambue) | João Tambue | Angola/Luanda | 930 |
@@ -77,10 +77,10 @@ Indexed users: 2,499
 | 13 | [trupakufi](https://github.com/trupakufi) | Mário Varela | Luanda, Angola | 205 |
 | 14 | [tchiinhemba](https://github.com/tchiinhemba) | Eládio Tchiinhemba | Luanda - Angola | 181 |
 | 15 | [EufranioDiogo](https://github.com/EufranioDiogo) | Eufránio Diogo | Angola | 180 |
-| 16 | [nazarepiedady](https://github.com/nazarepiedady) | Nazaré da Piedade | Angola | 171 |
-| 17 | [cirilocanganjo](https://github.com/cirilocanganjo) | Cirilo Cussaca Canganjo | Luanda, Amgola | 170 |
-| 18 | [manuelernesto](https://github.com/manuelernesto) | Manuel Ernesto | Angola | 166 |
-| 19 | [jofranqueira](https://github.com/jofranqueira) | José Frangueira | Angola | 160 |
+| 16 | [jofranqueira](https://github.com/jofranqueira) | José Frangueira | Angola | 171 |
+| 17 | [nazarepiedady](https://github.com/nazarepiedady) | Nazaré da Piedade | Angola | 171 |
+| 18 | [cirilocanganjo](https://github.com/cirilocanganjo) | Cirilo Cussaca Canganjo | Luanda, Amgola | 170 |
+| 19 | [manuelernesto](https://github.com/manuelernesto) | Manuel Ernesto | Angola | 166 |
 | 20 | [Jovanysfive](https://github.com/Jovanysfive) | Job Bento | Angola/Luanda | 152 |
 
-Generated: 2026-10-17T22:31:11.336Z
+Generated: 2026-10-18T00:11:50.224Z

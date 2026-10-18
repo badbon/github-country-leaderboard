@@ -1,6 +1,6 @@
 # Followers - Ecuador
 
-Generated: 2026-10-17T22:51:45.042Z
+Generated: 2026-10-18T00:28:38.272Z
 
 Users: 4883
 
