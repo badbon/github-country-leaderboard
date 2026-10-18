@@ -1,13 +1,13 @@
 # Total Contributions - Liechtenstein
 
-Generated: 2026-10-18T02:33:41.749Z
+Generated: 2026-10-18T06:08:30.501Z
 
 Users: 113
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [oscardvs](https://github.com/oscardvs) | Oscar Devos |  | oskrt_dvs | Liechtenstein | 5695 |
-| 2 | [bernhardw](https://github.com/bernhardw) | Bernhard Wanger | Rezendo |  | Vaduz, Liechtenstein | 4586 |
+| 2 | [bernhardw](https://github.com/bernhardw) | Bernhard Wanger | Rezendo |  | Vaduz, Liechtenstein | 4584 |
 | 3 | [tnaescher](https://github.com/tnaescher) | T. Näscher | J&T Treuhand GmbH, Zürich |  | Liechtenstein | 4322 |
 | 4 | [msanft](https://github.com/msanft) | Moritz Sanft | Edgeless Systems | stdoutput | Liechtenstein | 2911 |
 | 5 | [PhilippHGerber](https://github.com/PhilippHGerber) | Philipp H. Gerber |  | PhilippHGerber | Liechtenstein | 2614 |
@@ -19,9 +19,9 @@ Users: 113
 | 11 | [masteradhoc](https://github.com/masteradhoc) | Brian |  | mrbrianhaas | Liechtenstein | 749 |
 | 12 | [d0dge-dev](https://github.com/d0dge-dev) | David |  |  | Liechtenstein | 471 |
 | 13 | [archham](https://github.com/archham) | Nicolas Eberle |  |  | Liechtenstein | 463 |
-| 14 | [wol-fi](https://github.com/wol-fi) | Wolfgang Schadner | University of Liechtenstein |  | Liechtenstein | 332 |
-| 15 | [xGreeny](https://github.com/xGreeny) | Flurin |  |  | Liechtenstein | 329 |
-| 16 | [FeeJai](https://github.com/FeeJai) | Felix Jankowski |  |  | Liechtenstein | 326 |
+| 14 | [FeeJai](https://github.com/FeeJai) | Felix Jankowski |  |  | Liechtenstein | 349 |
+| 15 | [wol-fi](https://github.com/wol-fi) | Wolfgang Schadner | University of Liechtenstein |  | Liechtenstein | 332 |
+| 16 | [xGreeny](https://github.com/xGreeny) | Flurin |  |  | Liechtenstein | 329 |
 | 17 | [anonymouslyanonymous1](https://github.com/anonymouslyanonymous1) | Anonymously Anonymous |  |  | Liechtenstein | 309 |
 | 18 | [anondotli](https://github.com/anondotli) | anon.li |  |  | Liechtenstein | 301 |
 | 19 | [ColinFL](https://github.com/ColinFL) |  |  |  | Liechtenstein | 268 |

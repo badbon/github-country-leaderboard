@@ -28,8 +28,8 @@ Indexed users: 2,234
 | 14 | [Aramsatar](https://github.com/Aramsatar) | Aram Satar | Erbil, Iraq | 6,771 |
 | 15 | [codezardasht](https://github.com/codezardasht) | Zardasht Rwandzi | Iraq/Erbil | 6,641 |
 | 16 | [Hamoi1](https://github.com/Hamoi1) | Muhammad Esmael | Iraq, Sulaymaniyah, Ranya  | 6,573 |
-| 17 | [RezdarNajeeb](https://github.com/RezdarNajeeb) | Rezdar Najeeb | Iraq | 6,468 |
-| 18 | [5h4k4r](https://github.com/5h4k4r) | Shakar Bakr | Erbil, Iraq | 6,285 |
+| 17 | [5h4k4r](https://github.com/5h4k4r) | Shakar Bakr | Erbil, Iraq | 6,285 |
+| 18 | [RezdarNajeeb](https://github.com/RezdarNajeeb) | Rezdar Najeeb | Iraq | 6,091 |
 | 19 | [3bbasDev](https://github.com/3bbasDev) | Abbas Radam | Baghdad | 5,942 |
 | 20 | [DiyarFirasmusa](https://github.com/DiyarFirasmusa) | Diyar Firas | iraq | 5,873 |
 
@@ -83,4 +83,4 @@ Indexed users: 2,234
 | 19 | [Om4r-007](https://github.com/Om4r-007) | Omar Imad | Baghdad / Iraq | 211 |
 | 20 | [TARQkop](https://github.com/TARQkop) | TARIQ | IRAQ | 190 |
 
-Generated: 2026-10-18T02:25:26.992Z
+Generated: 2026-10-18T06:00:53.648Z

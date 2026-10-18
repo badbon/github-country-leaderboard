@@ -1,8 +1,8 @@
 # Public Contributions - Nepal
 
-Generated: 2026-10-18T02:43:00.284Z
+Generated: 2026-10-18T06:19:48.185Z
 
-Users: 14109
+Users: 14107
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|

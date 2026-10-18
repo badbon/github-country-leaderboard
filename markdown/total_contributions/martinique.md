@@ -1,6 +1,6 @@
 # Total Contributions - Martinique
 
-Generated: 2026-10-18T02:38:42.873Z
+Generated: 2026-10-18T06:12:22.643Z
 
 Users: 75
 
@@ -9,7 +9,7 @@ Users: 75
 | 1 | [pyleglise](https://github.com/pyleglise) | Pierre-Yves Léglise | axialdata |  | Schoelcher, Martinique | 5328 |
 | 2 | [glefait](https://github.com/glefait) | Guillem Lefait | @Holimetrix @tvty-official  |  | Fort-de-France, Martinique | 5206 |
 | 3 | [diasjorge](https://github.com/diasjorge) | Jorge Dias | http://aerisnova.com | dias_jorge | Martinique | 5086 |
-| 4 | [GuillaumeBld](https://github.com/GuillaumeBld) | Guillaume Bolivard |  |  | Chicago / Fort-de-France | 4555 |
+| 4 | [GuillaumeBld](https://github.com/GuillaumeBld) | Guillaume Bolivard |  |  | Chicago / Fort-de-France | 4543 |
 | 5 | [bolom](https://github.com/bolom) | Bolo Michelin | @scionx-io | bolomichelin | Martinique | 3140 |
 | 6 | [docVoid](https://github.com/docVoid) | void216 | pngrtz |  | Martinique | 1497 |
 | 7 | [p4cm4n972](https://github.com/p4cm4n972) | Manuel ADELE |  |  | Martinique | 1105 |
@@ -21,7 +21,7 @@ Users: 75
 | 13 | [ricard33](https://github.com/ricard33) | Cédric RICARD |  |  | Martinique | 399 |
 | 14 | [steeven-js](https://github.com/steeven-js) | steeven_js | Madin.IA |  | Martinique | 372 |
 | 15 | [b1nj](https://github.com/b1nj) | B1nj | pixellweb.com |  | Martinique | 179 |
-| 16 | [kodzukye](https://github.com/kodzukye) | Jayyy ⋆˚✿˖° |  |  | Martinique | 172 |
+| 16 | [kodzukye](https://github.com/kodzukye) | Jayyy ⋆˚✿˖° |  |  | Martinique | 173 |
 | 17 | [Jb-Analytics](https://github.com/Jb-Analytics) | Célia JEAN-BART |  |  | Martinique | 160 |
 | 18 | [Ulrico972](https://github.com/Ulrico972) | Ulrich Giberné | Airship |  | Martinique | 141 |
 | 19 | [marieangeliquepied](https://github.com/marieangeliquepied) | Marie-Angélique PIED |  |  | Martinique  | 126 |

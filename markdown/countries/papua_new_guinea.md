@@ -28,8 +28,8 @@ Indexed users: 296
 | 14 | [chrisaugu](https://github.com/chrisaugu) | Christian Augustyn | Madang, Papua New Guinea | 776 |
 | 15 | [jebudo](https://github.com/jebudo) | Jesse Biribudo | Port Moresby, Papua New Guinea | 562 |
 | 16 | [TMJ-24](https://github.com/TMJ-24) | tmj | Port Moresby | 452 |
-| 17 | [rudoq007](https://github.com/rudoq007) | WanixRSGIS | Papua New Guinea | 331 |
-| 18 | [jeremykes](https://github.com/jeremykes) | Jeremy Kes Palme  | Papua New Guinea | 326 |
+| 17 | [jeremykes](https://github.com/jeremykes) | Jeremy Kes Palme  | Papua New Guinea | 334 |
+| 18 | [rudoq007](https://github.com/rudoq007) | WanixRSGIS | Papua New Guinea | 331 |
 | 19 | [mrwicktheprogrammer](https://github.com/mrwicktheprogrammer) | Jonathan Kamalan | Mt Hagen, Western Highlands Province, Papua New Guinea | 301 |
 | 20 | [hoiregeno](https://github.com/hoiregeno) | Geno Hoire | Port Moresby, Papua New Guinea | 245 |
 
@@ -83,4 +83,4 @@ Indexed users: 296
 | 19 | [jm0535](https://github.com/jm0535) | Jimmy Moses | Papua New Guinea | 8 |
 | 20 | [loiwai](https://github.com/loiwai) | Loi Wai | Papua New Guinea | 8 |
 
-Generated: 2026-10-18T02:51:08.550Z
+Generated: 2026-10-18T06:24:40.667Z

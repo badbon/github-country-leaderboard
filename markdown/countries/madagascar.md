@@ -81,6 +81,6 @@ Indexed users: 1,904
 | 17 | [Mickaellah](https://github.com/Mickaellah) | Clopedia Nomenjanahary | Toamasina, Madagascar | 144 |
 | 18 | [valisoa01](https://github.com/valisoa01) | Valisoa Tolotriniaina | Antananarivo | 144 |
 | 19 | [tokyramarozaka](https://github.com/tokyramarozaka) | Tokimahery | Madagascar | 143 |
-| 20 | [luckasRanarison](https://github.com/luckasRanarison) | Luckas | Antananarivo, Madagascar | 140 |
+| 20 | [luckasRanarison](https://github.com/luckasRanarison) | Luckas | Antananarivo, Madagascar | 141 |
 
-Generated: 2026-10-18T02:36:29.070Z
+Generated: 2026-10-18T06:09:09.649Z

@@ -1,6 +1,6 @@
 # Total Contributions - Moldova
 
-Generated: 2026-10-18T02:40:15.803Z
+Generated: 2026-10-18T06:15:42.848Z
 
 Users: 1747
 
@@ -20,9 +20,9 @@ Users: 1747
 | 12 | [sebsti5](https://github.com/sebsti5) | Sebastian | @Tafi-Solutions |  | Moldova 🇲🇩 | 5426 |
 | 13 | [kneazy](https://github.com/kneazy) | Vitalie | CorLab |  | Moldova, Chisinau  | 5412 |
 | 14 | [grigorii-horos](https://github.com/grigorii-horos) | Grigorii Horos |  |  | Republic of Moldova | 5250 |
-| 15 | [batanus](https://github.com/batanus) | Dmitrii Medvedev |  |  | Chisinau, Moldova | 5122 |
-| 16 | [httpcatalin](https://github.com/httpcatalin) | Catalin | Eventino |  | Chișinău, Moldova | 5117 |
-| 17 | [artickc](https://github.com/artickc) | NOXX - Commiter | iTSolution |  | Moldova, Chisinau | 5071 |
-| 18 | [fedotovdev](https://github.com/fedotovdev) | Ivan Fedotov |  |  | Chisinau, Moldova | 5019 |
-| 19 | [Andrei-Ciuperca](https://github.com/Andrei-Ciuperca) | Andrei Ciupercă | @Tafi-Solutions  |  | Moldova | 4908 |
-| 20 | [vfarafonov](https://github.com/vfarafonov) | Vladimir Farafonov |  |  | Moldova | 4859 |
+| 15 | [xyrolle](https://github.com/xyrolle) | Serghei |  |  | Moldova | 5240 |
+| 16 | [batanus](https://github.com/batanus) | Dmitrii Medvedev |  |  | Chisinau, Moldova | 5122 |
+| 17 | [httpcatalin](https://github.com/httpcatalin) | Catalin | Eventino |  | Chișinău, Moldova | 5117 |
+| 18 | [artickc](https://github.com/artickc) | NOXX - Commiter | iTSolution |  | Moldova, Chisinau | 5071 |
+| 19 | [fedotovdev](https://github.com/fedotovdev) | Ivan Fedotov |  |  | Chisinau, Moldova | 5019 |
+| 20 | [Andrei-Ciuperca](https://github.com/Andrei-Ciuperca) | Andrei Ciupercă | @Tafi-Solutions  |  | Moldova | 4908 |

@@ -15,10 +15,10 @@ Indexed users: 2,014
 | 1 | [LuisValdesZero](https://github.com/LuisValdesZero) | Luis Valdés | Paraguay | 20,188 |
 | 2 | [devsart95](https://github.com/devsart95) | S4R | Paraguay | 16,831 |
 | 3 | [nikdim03](https://github.com/nikdim03) | Dmitrii Nikulin | Paraguay | 14,573 |
-| 4 | [vargascarlitos](https://github.com/vargascarlitos) | Carlitos Vargas | Paraguay | 10,883 |
-| 5 | [anthonybir](https://github.com/anthonybir) | Anthony Bir | Asuncion, Paraguay | 10,793 |
-| 6 | [pyfection](https://github.com/pyfection) | Matthias Schreiber | Paraguay | 10,440 |
-| 7 | [diogocsoares](https://github.com/diogocsoares) | Diogo Soares | Paraguay | 10,224 |
+| 4 | [diogocsoares](https://github.com/diogocsoares) | Diogo Soares | Paraguay | 11,498 |
+| 5 | [vargascarlitos](https://github.com/vargascarlitos) | Carlitos Vargas | Paraguay | 10,883 |
+| 6 | [anthonybir](https://github.com/anthonybir) | Anthony Bir | Asuncion, Paraguay | 10,793 |
+| 7 | [pyfection](https://github.com/pyfection) | Matthias Schreiber | Paraguay | 10,440 |
 | 8 | [cmelgarejo](https://github.com/cmelgarejo) | Christian Melgarejo | Paraguay | 9,877 |
 | 9 | [zot24](https://github.com/zot24) |  | Asuncion, Paraguay | 7,889 |
 | 10 | [juraj-m](https://github.com/juraj-m) | Juraj | Yaguarón, Paraguay | 7,879 |
@@ -83,4 +83,4 @@ Indexed users: 2,014
 | 19 | [metakeule](https://github.com/metakeule) | metakeule | Asunción / Paraguay | 109 |
 | 20 | [replay](https://github.com/replay) | Mauro Stettler | Asuncion, Paraguay | 105 |
 
-Generated: 2026-10-18T02:52:30.651Z
+Generated: 2026-10-18T06:24:45.598Z

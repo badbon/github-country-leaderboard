@@ -26,12 +26,12 @@ Indexed users: 1,747
 | 12 | [sebsti5](https://github.com/sebsti5) | Sebastian | Moldova 🇲🇩 | 5,426 |
 | 13 | [kneazy](https://github.com/kneazy) | Vitalie | Moldova, Chisinau  | 5,412 |
 | 14 | [grigorii-horos](https://github.com/grigorii-horos) | Grigorii Horos | Republic of Moldova | 5,250 |
-| 15 | [batanus](https://github.com/batanus) | Dmitrii Medvedev | Chisinau, Moldova | 5,122 |
-| 16 | [httpcatalin](https://github.com/httpcatalin) | Catalin | Chișinău, Moldova | 5,117 |
-| 17 | [artickc](https://github.com/artickc) | NOXX - Commiter | Moldova, Chisinau | 5,071 |
-| 18 | [fedotovdev](https://github.com/fedotovdev) | Ivan Fedotov | Chisinau, Moldova | 5,019 |
-| 19 | [Andrei-Ciuperca](https://github.com/Andrei-Ciuperca) | Andrei Ciupercă | Moldova | 4,908 |
-| 20 | [vfarafonov](https://github.com/vfarafonov) | Vladimir Farafonov | Moldova | 4,859 |
+| 15 | [xyrolle](https://github.com/xyrolle) | Serghei | Moldova | 5,240 |
+| 16 | [batanus](https://github.com/batanus) | Dmitrii Medvedev | Chisinau, Moldova | 5,122 |
+| 17 | [httpcatalin](https://github.com/httpcatalin) | Catalin | Chișinău, Moldova | 5,117 |
+| 18 | [artickc](https://github.com/artickc) | NOXX - Commiter | Moldova, Chisinau | 5,071 |
+| 19 | [fedotovdev](https://github.com/fedotovdev) | Ivan Fedotov | Chisinau, Moldova | 5,019 |
+| 20 | [Andrei-Ciuperca](https://github.com/Andrei-Ciuperca) | Andrei Ciupercă | Moldova | 4,908 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 1,747
 | 19 | [vgaidarji](https://github.com/vgaidarji) | Veaceslav Gaidarji | Moldova | 115 |
 | 20 | [Ernest96](https://github.com/Ernest96) | Ernest | Chisinau Moldova | 107 |
 
-Generated: 2026-10-18T02:40:15.803Z
+Generated: 2026-10-18T06:15:42.848Z

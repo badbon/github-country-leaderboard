@@ -1,8 +1,8 @@
 # Followers - Malawi
 
-Generated: 2026-10-18T02:36:54.359Z
+Generated: 2026-10-18T06:09:12.541Z
 
-Users: 901
+Users: 900
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -14,7 +14,7 @@ Users: 901
 | 6 | [Cardkess-SG](https://github.com/Cardkess-SG) | Blessings Chidambe |  |  | Blantyre, MALAWI | 372 |
 | 7 | [madzalo](https://github.com/madzalo) | Resten Madzalo |  |  | Malawi | 306 |
 | 8 | [Cardkess](https://github.com/Cardkess) | Blessings Chidambe |  | Cardkess | Blantyre, MALAWI | 291 |
-| 9 | [Fraganya](https://github.com/Fraganya) | Francis Ganya | @lync-systems-mw  | _fraganya | Blantyre, Malawi | 259 |
+| 9 | [Fraganya](https://github.com/Fraganya) | Francis Ganya | @lync-systems-mw  | _fraganya | Blantyre, Malawi | 261 |
 | 10 | [JosephGMkonda](https://github.com/JosephGMkonda) | Joseph Mkonda | codebuddy |  | malawi | 235 |
 | 11 | [IsaacKalambo22](https://github.com/IsaacKalambo22) | Isaac Kalambo | @InfinityCodeMw  | IsaacKalam44251 | Lilongwe | 230 |
 | 12 | [nbolok-code](https://github.com/nbolok-code) | Nathan Bolokonya |  |  | Malawi  | 223 |

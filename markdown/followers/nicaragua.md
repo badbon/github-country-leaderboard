@@ -1,6 +1,6 @@
 # Followers - Nicaragua
 
-Generated: 2026-10-18T02:44:38.066Z
+Generated: 2026-10-18T06:20:00.563Z
 
 Users: 1395
 
@@ -23,6 +23,6 @@ Users: 1395
 | 15 | [alexxandraSalazar](https://github.com/alexxandraSalazar) | Alexandra Salazar |  |  | Nicaragua | 78 |
 | 16 | [JezerM](https://github.com/JezerM) | Jezer Mejía |  |  | Nicaragua | 78 |
 | 17 | [14BryanEspinoza](https://github.com/14BryanEspinoza) | Bryan Espinoza |  | 14BryanEspinoza | Nicaragua | 76 |
-| 18 | [neydroid](https://github.com/neydroid) | José Ney Guerrero |  |  | Managua, Nicaragua | 71 |
+| 18 | [neydroid](https://github.com/neydroid) | José Ney Guerrero |  |  | Managua, Nicaragua | 70 |
 | 19 | [luismejiadev](https://github.com/luismejiadev) | Luis Mejia |  | luismejiadev | Managua, Nicaragua | 68 |
 | 20 | [dannygaray60](https://github.com/dannygaray60) | Danny Garay |  | dannygaray60 | Nicaragua | 61 |

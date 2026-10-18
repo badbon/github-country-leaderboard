@@ -44,7 +44,7 @@ Indexed users: 475
 | 5 | [evertvorster](https://github.com/evertvorster) | Evert Vorster | Walvis Bay, Namibia | 1,664 |
 | 6 | [CodeGrogu](https://github.com/CodeGrogu) | Jaden Awaseb | Namibia | 1,320 |
 | 7 | [gijzelaerr](https://github.com/gijzelaerr) | Gijs Molenaar | Amsterdam - Windhoek | 1,247 |
-| 8 | [lamlg00](https://github.com/lamlg00) | Lam II | Windhoek | 679 |
+| 8 | [lamlg00](https://github.com/lamlg00) | Lam II | Windhoek | 683 |
 | 9 | [Driftedbucket](https://github.com/Driftedbucket) | Awike Gulu | Windhoek, Namibia | 586 |
 | 10 | [Leon2332](https://github.com/Leon2332) | Leon | Namibia | 558 |
 | 11 | [Tusneld](https://github.com/Tusneld) | Tusnelde Endjala | Namibia | 427 |
@@ -74,13 +74,13 @@ Indexed users: 475
 | 10 | [WilhelmK109](https://github.com/WilhelmK109) | Wilhelm Naayole Kamulunga | Windhoek, Namibia | 58 |
 | 11 | [aaron-muti-420](https://github.com/aaron-muti-420) | Aaron Markus | windhoek | 56 |
 | 12 | [douglasmasho](https://github.com/douglasmasho) | Douglas Mashonganyika | Windhoek | 51 |
-| 13 | [Amunwe-ENE](https://github.com/Amunwe-ENE) | Erastus Amunwe | Windhoek, Namibia | 45 |
-| 14 | [euricodande](https://github.com/euricodande) | Eurico Dande | Namibia-Windhoek | 43 |
-| 15 | [KuberKode](https://github.com/KuberKode) | Johan Strydom | Windhoek, Namibia | 41 |
-| 16 | [SelmaNdapanda](https://github.com/SelmaNdapanda) | Selma Hamutenya | Windhoek, Namibia | 40 |
-| 17 | [ShifidiMetumoN](https://github.com/ShifidiMetumoN) | ShifidiM | Windhoek | 39 |
+| 13 | [ShifidiMetumoN](https://github.com/ShifidiMetumoN) | ShifidiM | Windhoek | 49 |
+| 14 | [Amunwe-ENE](https://github.com/Amunwe-ENE) | Erastus Amunwe | Windhoek, Namibia | 45 |
+| 15 | [euricodande](https://github.com/euricodande) | Eurico Dande | Namibia-Windhoek | 43 |
+| 16 | [KuberKode](https://github.com/KuberKode) | Johan Strydom | Windhoek, Namibia | 41 |
+| 17 | [SelmaNdapanda](https://github.com/SelmaNdapanda) | Selma Hamutenya | Windhoek, Namibia | 40 |
 | 18 | [Bettinalisah](https://github.com/Bettinalisah) | Bettinalisah | Windhoek, Namibia | 36 |
 | 19 | [Hilya02](https://github.com/Hilya02) | Hilya Ntinda Tuyakula | Windhoek, Namibia | 36 |
 | 20 | [erassynathingo](https://github.com/erassynathingo) | Erastus Nathingo | Windhoek | 33 |
 
-Generated: 2026-10-18T02:41:55.942Z
+Generated: 2026-10-18T06:18:19.669Z

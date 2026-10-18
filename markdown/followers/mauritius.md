@@ -1,12 +1,12 @@
 # Followers - Mauritius
 
-Generated: 2026-10-18T02:38:49.297Z
+Generated: 2026-10-18T06:13:02.008Z
 
 Users: 713
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [Abdur-rahmaanJ](https://github.com/Abdur-rahmaanJ) | Abdur-Rahmaan Janhangeer | @compileralchemy  | osdotsystem | Mauritius | 714 |
+| 1 | [Abdur-rahmaanJ](https://github.com/Abdur-rahmaanJ) | Abdur-Rahmaan Janhangeer | @compileralchemy  | osdotsystem | Mauritius | 715 |
 | 2 | [marclamberti](https://github.com/marclamberti) | Marc Lamberti | Marc Lamberti |  | Mauritius | 630 |
 | 3 | [thatstraw](https://github.com/thatstraw) | Traw | GotechMu | thatstraw | Mauritius | 583 |
 | 4 | [Emmastro](https://github.com/Emmastro) | Emmanuel Bauma Murairi | ITverse |  | Mauritius | 301 |
@@ -24,5 +24,5 @@ Users: 713
 | 16 | [puchka](https://github.com/puchka) | A. Marius Rabenarivo | @funpro-mu @AlgoMada @BetaX-Community @SimplyFinServices | MariusRabenariv | Mauritius | 82 |
 | 17 | [EdgarEldy](https://github.com/EdgarEldy) | EDGAR MUHAMYANGABO | @Accenture | EdgarEldy | Mauritius | 81 |
 | 18 | [arwinneil](https://github.com/arwinneil) | Arwin Neil Baichoo | @livestorm | arwinneil | Mauritius | 75 |
-| 19 | [MaskyS](https://github.com/MaskyS) | Kifah M |  | maskys_ | Mauritius | 74 |
+| 19 | [MaskyS](https://github.com/MaskyS) | Kifah M |  | maskys_ | Mauritius | 75 |
 | 20 | [cbillowes](https://github.com/cbillowes) | Clarice Bouwer | Cloudsure Limited |  | Mauritius | 65 |

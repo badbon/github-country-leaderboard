@@ -18,8 +18,8 @@ Indexed users: 2,056
 | 4 | [nyeinkokoaung404](https://github.com/nyeinkokoaung404) | i AM 404 | Myanmar | 6,481 |
 | 5 | [gon-khaung](https://github.com/gon-khaung) | GK | Yangon, Myanmar | 5,531 |
 | 6 | [thitlwincoder](https://github.com/thitlwincoder) | Thit Lwin | Yangon, Myanmar(Burma) | 5,527 |
-| 7 | [aungaung99](https://github.com/aungaung99) | Aung Naing Oo | Yangon, Myanmar | 5,157 |
-| 8 | [kokim2022](https://github.com/kokim2022) | hwaung | Yangon, Myanmar | 4,750 |
+| 7 | [kokim2022](https://github.com/kokim2022) | hwaung | Yangon, Myanmar | 5,398 |
+| 8 | [aungaung99](https://github.com/aungaung99) | Aung Naing Oo | Yangon, Myanmar | 5,157 |
 | 9 | [kwarnkham](https://github.com/kwarnkham) | SAI KWRN KHAM | Yangon, Myanmar | 4,699 |
 | 10 | [kyawkoko232](https://github.com/kyawkoko232) | Kyaw Ko Ko | Yangon, Myanmar(Burma) | 4,580 |
 | 11 | [why-a-en](https://github.com/why-a-en) | Yan Min Thwin | Yangon, Myanmar (Burma) | 4,201 |
@@ -48,7 +48,7 @@ Indexed users: 2,056
 | 9 | [sannlynnhtun-coding](https://github.com/sannlynnhtun-coding) | Sann Lynn Htun | Yangon, Myanmar | 1,268 |
 | 10 | [yoonpyae](https://github.com/yoonpyae) | Yoon Pyae Eain  | Yangon, Myanmar | 1,240 |
 | 11 | [thanthtooaung-coding](https://github.com/thanthtooaung-coding) | Thant Htoo Aung | Yangon, Myanmar | 1,224 |
-| 12 | [wintkhantlin](https://github.com/wintkhantlin) | Wint Khant Lin | Myanmar, Yangon, Shwe Pyi Thar | 1,175 |
+| 12 | [wintkhantlin](https://github.com/wintkhantlin) | Wint Khant Lin | Myanmar, Yangon, Shwe Pyi Thar | 1,170 |
 | 13 | [thaw98](https://github.com/thaw98) | Pyae Phyo Thaw | Myanmar | 1,071 |
 | 14 | [aungkoman](https://github.com/aungkoman) | Aung Ko Man | Mandalay,Myanmar | 1,048 |
 | 15 | [SaingHmineTun](https://github.com/SaingHmineTun) | Sai Saing Hmine Tun | Muse, Shan State, Myanmar | 1,037 |
@@ -83,4 +83,4 @@ Indexed users: 2,056
 | 19 | [winsandymyint](https://github.com/winsandymyint) | Win Sandy Myint | Myanmar | 168 |
 | 20 | [LunaM00n](https://github.com/LunaM00n) | Thin Ba Shane (Luna) | Myanmar | 162 |
 
-Generated: 2026-10-18T02:41:49.504Z
+Generated: 2026-10-18T06:18:14.865Z

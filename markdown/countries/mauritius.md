@@ -62,7 +62,7 @@ Indexed users: 713
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [Abdur-rahmaanJ](https://github.com/Abdur-rahmaanJ) | Abdur-Rahmaan Janhangeer | Mauritius | 714 |
+| 1 | [Abdur-rahmaanJ](https://github.com/Abdur-rahmaanJ) | Abdur-Rahmaan Janhangeer | Mauritius | 715 |
 | 2 | [marclamberti](https://github.com/marclamberti) | Marc Lamberti | Mauritius | 630 |
 | 3 | [thatstraw](https://github.com/thatstraw) | Traw | Mauritius | 583 |
 | 4 | [Emmastro](https://github.com/Emmastro) | Emmanuel Bauma Murairi | Mauritius | 301 |
@@ -80,7 +80,7 @@ Indexed users: 713
 | 16 | [puchka](https://github.com/puchka) | A. Marius Rabenarivo | Mauritius | 82 |
 | 17 | [EdgarEldy](https://github.com/EdgarEldy) | EDGAR MUHAMYANGABO | Mauritius | 81 |
 | 18 | [arwinneil](https://github.com/arwinneil) | Arwin Neil Baichoo | Mauritius | 75 |
-| 19 | [MaskyS](https://github.com/MaskyS) | Kifah M | Mauritius | 74 |
+| 19 | [MaskyS](https://github.com/MaskyS) | Kifah M | Mauritius | 75 |
 | 20 | [cbillowes](https://github.com/cbillowes) | Clarice Bouwer | Mauritius | 65 |
 
-Generated: 2026-10-18T02:38:49.297Z
+Generated: 2026-10-18T06:13:02.008Z
