@@ -16,7 +16,7 @@ Indexed users: 443
 | 2 | [butagreeza](https://github.com/butagreeza) | Francis Bangura | Freetown. Sierra Leone | 6,127 |
 | 3 | [ibrahimgeorgefoday](https://github.com/ibrahimgeorgefoday) | Ibrahim George Foday | Sierra Leone, West Africa | 5,603 |
 | 4 | [saidubundukamara](https://github.com/saidubundukamara) | Saidu | Sierra Leone | 5,396 |
-| 5 | [walonCode](https://github.com/walonCode) | Mohamed Lamin Walon Jalloh | Sierra Leone | 5,259 |
+| 5 | [walonCode](https://github.com/walonCode) | Mohamed Lamin Walon Jalloh | Sierra Leone | 5,293 |
 | 6 | [BarrieLAJ](https://github.com/BarrieLAJ) | Alhaji Abubakarr Barrie | Freetown, Sierra Leone | 3,989 |
 | 7 | [bnjox](https://github.com/bnjox) | Ben | Sierra Leone | 3,681 |
 | 8 | [eponkratova](https://github.com/eponkratova) | Eka Ponkratova | Sierra Leone | 3,579 |
@@ -29,7 +29,7 @@ Indexed users: 443
 | 15 | [samuelmoiwa](https://github.com/samuelmoiwa) | Moiwa | Sierra Leone | 2,087 |
 | 16 | [Mevizcode](https://github.com/Mevizcode) | David Cole | Freetown, Sierra Leone | 1,875 |
 | 17 | [mkk2026](https://github.com/mkk2026) | Momodu Kamara-Kolleh | Freetown, Sierra Leone | 1,721 |
-| 18 | [Hadesalive](https://github.com/Hadesalive) | Alpha Amadu Bah | Freetown Sierra Leone | 1,687 |
+| 18 | [Hadesalive](https://github.com/Hadesalive) | Alpha Amadu Bah | Freetown Sierra Leone | 1,685 |
 | 19 | [abu-bakarr](https://github.com/abu-bakarr) |  | Sierra Leone | 1,674 |
 | 20 | [Swaray10](https://github.com/Swaray10) | Alusine Swaray | Sierra Leone | 1,607 |
 
@@ -38,7 +38,7 @@ Indexed users: 443
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [HawaKallon](https://github.com/HawaKallon) | Hawa Kallon | Sierra Leone | 2,106 |
-| 2 | [walonCode](https://github.com/walonCode) | Mohamed Lamin Walon Jalloh | Sierra Leone | 1,905 |
+| 2 | [walonCode](https://github.com/walonCode) | Mohamed Lamin Walon Jalloh | Sierra Leone | 1,895 |
 | 3 | [saidubundukamara](https://github.com/saidubundukamara) | Saidu | Sierra Leone | 1,282 |
 | 4 | [bnjox](https://github.com/bnjox) | Ben | Sierra Leone | 1,016 |
 | 5 | [ElktrumElk](https://github.com/ElktrumElk) | Elktrum Elk | Regent, Freetown, Sierra Leone. | 1,000 |
@@ -83,4 +83,4 @@ Indexed users: 443
 | 19 | [IshmaelKargbo](https://github.com/IshmaelKargbo) | Ishmael Kargbo | Sierra Leone | 29 |
 | 20 | [Ifuhad622](https://github.com/Ifuhad622) | Ibraihim Fuhad Suma | Freetown, Sierra Leone, West Africa | 26 |
 
-Generated: 2026-10-18T15:35:16.370Z
+Generated: 2026-10-18T17:23:38.144Z
