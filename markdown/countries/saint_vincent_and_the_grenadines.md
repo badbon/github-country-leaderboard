@@ -14,8 +14,8 @@ Indexed users: 26
 |---:|---|---|---|---:|
 | 1 | [colin-dbv](https://github.com/colin-dbv) | Colin Vincent | North Kingstown RI | 536 |
 | 2 | [blazetopher](https://github.com/blazetopher) | Christopher Mueller | North Kingstown, RI | 491 |
-| 3 | [2Remus](https://github.com/2Remus) | human#23416 | Kingstown, Saint George, Saint Vincent and the Grenadines | 373 |
-| 4 | [azeldaniel](https://github.com/azeldaniel) | Azel Daniel | Saint Vincent and the Grenadines | 332 |
+| 3 | [2Remus](https://github.com/2Remus) | human#23416 | Kingstown, Saint George, Saint Vincent and the Grenadines | 370 |
+| 4 | [azeldaniel](https://github.com/azeldaniel) | Azel Daniel | Saint Vincent and the Grenadines | 328 |
 | 5 | [lukecampbell](https://github.com/lukecampbell) | Luke Campbell | South Kingstown, RI | 306 |
 | 6 | [kazar4](https://github.com/kazar4) | Kazen Gallman | North Kingstown, Rhode Island | 159 |
 | 7 | [Kascique](https://github.com/Kascique) | Kascique Lowmans | Saint Vincent and the Grenadines | 45 |
@@ -37,7 +37,7 @@ Indexed users: 26
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [2Remus](https://github.com/2Remus) | human#23416 | Kingstown, Saint George, Saint Vincent and the Grenadines | 344 |
+| 1 | [2Remus](https://github.com/2Remus) | human#23416 | Kingstown, Saint George, Saint Vincent and the Grenadines | 343 |
 | 2 | [lukecampbell](https://github.com/lukecampbell) | Luke Campbell | South Kingstown, RI | 100 |
 | 3 | [kazar4](https://github.com/kazar4) | Kazen Gallman | North Kingstown, Rhode Island | 37 |
 | 4 | [dellon28](https://github.com/dellon28) | Dellonte Boucher | Saint Vincent and the Grenadines | 25 |
@@ -83,4 +83,4 @@ Indexed users: 26
 | 19 | [95Tarek784](https://github.com/95Tarek784) | Tarek Ollivierre | Kingstown, Saint Vincent  & The Grenadines | 1 |
 | 20 | [dellon28](https://github.com/dellon28) | Dellonte Boucher | Saint Vincent and the Grenadines | 1 |
 
-Generated: 2026-10-17T23:46:42.553Z
+Generated: 2026-10-18T01:18:33.172Z
