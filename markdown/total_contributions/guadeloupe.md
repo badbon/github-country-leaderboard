@@ -1,6 +1,6 @@
 # Total Contributions - Guadeloupe
 
-Generated: 2026-10-18T20:57:35.192Z
+Generated: 2026-10-18T23:13:09.795Z
 
 Users: 86
 
@@ -14,11 +14,11 @@ Users: 86
 | 6 | [iamcryptoki](https://github.com/iamcryptoki) | Gael Gentil | @ionis-education-group |  | Guadeloupe | 1413 |
 | 7 | [Gaelle-charles](https://github.com/Gaelle-charles) | Gaëlle CHARLES-BELAMOUR |  |  | Guadeloupe (FWI) | 1393 |
 | 8 | [liobrasil](https://github.com/liobrasil) | Lionel LIMOL | Blockchain Xpert Solutions | lionel_limol | Guadeloupe | 957 |
-| 9 | [BLVCK971](https://github.com/BLVCK971) | Yoel Pépin |  |  | Le Moule, GUADELOUPE | 865 |
+| 9 | [BLVCK971](https://github.com/BLVCK971) | Yoel Pépin |  |  | Le Moule, GUADELOUPE | 882 |
 | 10 | [r1d](https://github.com/r1d) | Eric Degoul | EDSI Technologie |  | Sainte-Anne, Guadeloupe | 740 |
 | 11 | [nath971](https://github.com/nath971) | N |  |  | Guadeloupe | 658 |
 | 12 | [sboli](https://github.com/sboli) | Bolivar Stephen |  | _sboli | Guadeloupe | 633 |
-| 13 | [FWICSS](https://github.com/FWICSS) | FWICSS |  | FWICSS | Guadeloupe | 479 |
+| 13 | [FWICSS](https://github.com/FWICSS) | FWICSS |  | FWICSS | Guadeloupe | 484 |
 | 14 | [seyken971](https://github.com/seyken971) | Andy Zébus | PXLC | seyken971 | Guadeloupe | 230 |
 | 15 | [khalil-tabbal](https://github.com/khalil-tabbal) | Khalil TABBAL | Gwadaweb | rubatdub | Guadeloupe | 202 |
 | 16 | [Virguiles](https://github.com/Virguiles) | Virgile |  |  | Guadeloupe | 144 |

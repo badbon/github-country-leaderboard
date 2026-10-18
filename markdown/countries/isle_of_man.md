@@ -15,7 +15,7 @@ Indexed users: 155
 | 1 | [Not-Chur-Architect](https://github.com/Not-Chur-Architect) | Nicholas Campisano | Isle of Man | 11,257 |
 | 2 | [auberryberry](https://github.com/auberryberry) | Aubrey Stearn | Isle of Man | 10,306 |
 | 3 | [bengris32](https://github.com/bengris32) | Ben | Isle of Man | 8,457 |
-| 4 | [darrenbarklie](https://github.com/darrenbarklie) | Darren Barklie | Isle of Man | 4,511 |
+| 4 | [darrenbarklie](https://github.com/darrenbarklie) | Darren Barklie | Isle of Man | 4,519 |
 | 5 | [tekminewe](https://github.com/tekminewe) | Ewe Tek Min | Isle of Man | 3,630 |
 | 6 | [dive](https://github.com/dive) | Artem Loenko | Isle of Man | 2,160 |
 | 7 | [oliciv](https://github.com/oliciv) | Oli Allen | Isle of Man | 2,010 |
@@ -83,4 +83,4 @@ Indexed users: 155
 | 19 | [lwangenheim](https://github.com/lwangenheim) | Lee Wangenheim | Isle of Man | 19 |
 | 20 | [DanAnkers](https://github.com/DanAnkers) | Daniel Ankers | Isle of Man | 18 |
 
-Generated: 2026-10-18T21:03:36.498Z
+Generated: 2026-10-18T23:18:33.897Z

@@ -1,8 +1,8 @@
 # Public Contributions - Slovakia
 
-Generated: 2026-10-18T20:17:18.483Z
+Generated: 2026-10-18T22:40:01.299Z
 
-Users: 4662
+Users: 4661
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -23,6 +23,6 @@ Users: 4662
 | 15 | [WizzardSK](https://github.com/WizzardSK) |  |  |  | Bratislava, Slovakia | 2853 |
 | 16 | [alvianzf](https://github.com/alvianzf) | Alvian Zachry Faturrahman | TiketQ |  | Tanjungpinang, Batam, Karimun, Bratislava | 2610 |
 | 17 | [mont127](https://github.com/mont127) | mont127 | None  |  | Slovakia | 2492 |
-| 18 | [janbodnar](https://github.com/janbodnar) | Jan Bodnar |  |  | Bratislava | 2391 |
-| 19 | [matuscongrady](https://github.com/matuscongrady) | Matúš Čongrády | Stacktape | matus_congrady | Bratislava, Slovakia | 2369 |
-| 20 | [Vanderhell](https://github.com/Vanderhell) | Vanderhell |  |  | Slovakia | 2328 |
+| 18 | [matuscongrady](https://github.com/matuscongrady) | Matúš Čongrády | Stacktape | matus_congrady | Bratislava, Slovakia | 2369 |
+| 19 | [Vanderhell](https://github.com/Vanderhell) | Vanderhell |  |  | Slovakia | 2328 |
+| 20 | [PavolUlicny](https://github.com/PavolUlicny) | Pavol Ulicny | High school | s0nda7 | Bratislava  | 2289 |

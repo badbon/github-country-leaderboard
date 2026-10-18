@@ -1,8 +1,8 @@
 # Total Contributions - Slovakia
 
-Generated: 2026-10-18T20:17:18.483Z
+Generated: 2026-10-18T22:40:01.299Z
 
-Users: 4662
+Users: 4661
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

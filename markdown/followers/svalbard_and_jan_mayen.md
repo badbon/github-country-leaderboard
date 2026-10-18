@@ -1,6 +1,6 @@
 # Followers - Svalbard and Jan Mayen
 
-Generated: 2026-10-18T20:22:26.259Z
+Generated: 2026-10-18T22:42:26.153Z
 
 Users: 10
 
@@ -11,7 +11,7 @@ Users: 10
 | 3 | [sunnyerteit](https://github.com/sunnyerteit) | S🌞nny | Store Norske Spitsbergen Kulkompani AS |  | Longyearbyen | 12 |
 | 4 | [encrize](https://github.com/encrize) | encrize | @huawei |  | Svalbard og Jan Mayen | 11 |
 | 5 | [Rainbowed](https://github.com/Rainbowed) | Cake |  |  | Longyearbyen, Svalbard | 9 |
-| 6 | [ThalesAbyss](https://github.com/ThalesAbyss) | David Parmenter | Stereo Bee |  | Longyearbyen, Svalbard & Jan Mayen | 6 |
+| 6 | [ThalesAbyss](https://github.com/ThalesAbyss) | David Parmenter | Stereo Bee |  | Longyearbyen, Svalbard & Jan Mayen | 7 |
 | 7 | [elden-l0rd](https://github.com/elden-l0rd) |  |  |  | Longyearbyen | 2 |
 | 8 | [slipeer](https://github.com/slipeer) | Pavel |  |  | Barentsburg, Svalbard og Jan Mayen | 2 |
 | 9 | [danavitski](https://github.com/danavitski) | Daan Kivits | Svalbard Integrated Arctic Earth Observing System (SIOS) |  | Longyearbyen, Svalbard | 1 |

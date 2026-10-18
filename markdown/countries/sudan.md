@@ -13,7 +13,7 @@ Indexed users: 727
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [mustafa-online](https://github.com/mustafa-online) | Mustafa Online | Khartoum, Sudan | 10,235 |
-| 2 | [TheYass1n](https://github.com/TheYass1n) | Yassin Hussein | Sudan | 7,635 |
+| 2 | [TheYass1n](https://github.com/TheYass1n) | Yassin Hussein | Sudan | 7,752 |
 | 3 | [EMAD77](https://github.com/EMAD77) | Emad777 | Sudan | 5,816 |
 | 4 | [Mohammed-Moniem](https://github.com/Mohammed-Moniem) | Mohammed-Moniem | Farog Diyab St, Mamora, Khartoum, Sudan | 5,368 |
 | 5 | [obaaa8](https://github.com/obaaa8) | محمود عبدالسميع التوم | sudan | 5,119 |
@@ -29,7 +29,7 @@ Indexed users: 727
 | 15 | [osmanabdelsalam](https://github.com/osmanabdelsalam) | Osman Abdelsalam | Sudan / Khartoum | 2,545 |
 | 16 | [Bakrialtaif](https://github.com/Bakrialtaif) | Abobaker Altaif | Sudan | 2,516 |
 | 17 | [AminOmer](https://github.com/AminOmer) | Amin Omer | Khartoum, Sudan | 2,496 |
-| 18 | [asimsharf](https://github.com/asimsharf) | Asim Abdelgadir | Sudan | 2,255 |
+| 18 | [asimsharf](https://github.com/asimsharf) | Asim Abdelgadir | Sudan | 2,298 |
 | 19 | [OxSama](https://github.com/OxSama) | OxSama | Khartoum - Sudan | 2,078 |
 | 20 | [wali-eldin-hassan](https://github.com/wali-eldin-hassan) | Wali Eldin  | Sudan | 2,077 |
 
@@ -78,9 +78,9 @@ Indexed users: 727
 | 14 | [Amar-Dev1](https://github.com/Amar-Dev1) | Amar Ibrahim | Sudan, Khartoum | 58 |
 | 15 | [HussamAdil](https://github.com/HussamAdil) | Hussam Adil | Sudan | 58 |
 | 16 | [sam-x86](https://github.com/sam-x86) | SAM X86 | Sudan | 56 |
-| 17 | [mhadiahmed](https://github.com/mhadiahmed) | Mhadi Ahmed | sudan | 55 |
+| 17 | [mhadiahmed](https://github.com/mhadiahmed) | Mhadi Ahmed | sudan | 54 |
 | 18 | [osayami](https://github.com/osayami) | OSAYAMI | Sudan | 52 |
 | 19 | [kabaros](https://github.com/kabaros) | Mozafar | Khartoum / Glasgow | 51 |
 | 20 | [obaaa8](https://github.com/obaaa8) | محمود عبدالسميع التوم | sudan | 49 |
 
-Generated: 2026-10-18T20:19:16.770Z
+Generated: 2026-10-18T22:41:19.551Z

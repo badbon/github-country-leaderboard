@@ -1,6 +1,6 @@
 # Total Contributions - Cyprus
 
-Generated: 2026-10-18T20:49:19.974Z
+Generated: 2026-10-18T23:05:16.321Z
 
 Users: 2725
 
@@ -15,14 +15,14 @@ Users: 2725
 | 7 | [andre-kuzminykh](https://github.com/andre-kuzminykh) | Andre Kuzminykh | Andre AI Technologies |  | Cyprus | 14639 |
 | 8 | [ei-grad](https://github.com/ei-grad) | Andrew Grigorev | FaceApp |  | Limassol, Cyprus | 14588 |
 | 9 | [openmindednewby](https://github.com/openmindednewby) | Demetrios Loizides |  |  | Cyprus | 14379 |
-| 10 | [servitola](https://github.com/servitola) | Adik Servitola |  |  | Cyprus | 14035 |
-| 11 | [jin0x](https://github.com/jin0x) | John Leskas | RSH Creative Web Studio LTD | john_leskas | Limassol, Cyprus | 13492 |
-| 12 | [iskifogl](https://github.com/iskifogl) | Abdullah İskifoğlu |  |  | Cyprus | 11983 |
-| 13 | [Bezarius](https://github.com/Bezarius) | Mstislav Pavlov | Nekki |  | Cyprus, Larnaca | 11829 |
+| 10 | [jin0x](https://github.com/jin0x) | John Leskas | RSH Creative Web Studio LTD | john_leskas | Limassol, Cyprus | 13492 |
+| 11 | [iskifogl](https://github.com/iskifogl) | Abdullah İskifoğlu |  |  | Cyprus | 11983 |
+| 12 | [Bezarius](https://github.com/Bezarius) | Mstislav Pavlov | Nekki |  | Cyprus, Larnaca | 11829 |
+| 13 | [yhersh](https://github.com/yhersh) | Yaron Hersh |  |  | Cyprus | 11708 |
 | 14 | [laikhtman](https://github.com/laikhtman) | [DL] | Filiatix |  | Cyprus | 11184 |
 | 15 | [pitops](https://github.com/pitops) | Petros Kyriakou |  |  | Cyprus | 10749 |
-| 16 | [ByczukMartin](https://github.com/ByczukMartin) | Martin B. | MBYT LTD |  | Cyprus | 9995 |
-| 17 | [cploutarchou](https://github.com/cploutarchou) | Christos Ploutarchou |  | cploutarchou | Cyprus | 9926 |
-| 18 | [nyyhao](https://github.com/nyyhao) | nyhaoo_ | n1apps |  | Cyprus | 9666 |
-| 19 | [vvsotnikov](https://github.com/vvsotnikov) | Vladimir Sotnikov | @JetBrains |  | Cyprus, Paphos | 9399 |
-| 20 | [rsaryev](https://github.com/rsaryev) | Saryev Rustam |  | rsaryevdev | Cyprus | 9314 |
+| 16 | [aidinb](https://github.com/aidinb) | Aidin  | Aidin |  | Cyprus | 10217 |
+| 17 | [ByczukMartin](https://github.com/ByczukMartin) | Martin B. | MBYT LTD |  | Cyprus | 9995 |
+| 18 | [cploutarchou](https://github.com/cploutarchou) | Christos Ploutarchou |  | cploutarchou | Cyprus | 9926 |
+| 19 | [nyyhao](https://github.com/nyyhao) | nyhaoo_ | n1apps |  | Cyprus | 9666 |
+| 20 | [vvsotnikov](https://github.com/vvsotnikov) | Vladimir Sotnikov | @JetBrains |  | Cyprus, Paphos | 9399 |

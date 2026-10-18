@@ -1,6 +1,6 @@
 # Estonia
 
-Indexed users: 4,897
+Indexed users: 4,895
 
 | Leaderboard | Link |
 |---|---|
@@ -17,21 +17,21 @@ Indexed users: 4,897
 | 3 | [ashfordeOU](https://github.com/ashfordeOU) | Ashforde OÜ | Estonia | 22,475 |
 | 4 | [kwunlokng](https://github.com/kwunlokng) | Kwun-Lok Ng | Tallinn, Estonia | 22,394 |
 | 5 | [trevorlasn](https://github.com/trevorlasn) | Trevor I. Lasn | Tartu, Estonia | 20,844 |
-| 6 | [rkaalma](https://github.com/rkaalma) | Risto Kaalma | Estonia | 14,733 |
-| 7 | [LEISSON-DARKSSON](https://github.com/LEISSON-DARKSSON) | Gert Leisson | Tallinn, ESTONIA | 14,008 |
-| 8 | [oisincoveney](https://github.com/oisincoveney) | Oisin Coveney | Tallinn, Estonia | 13,893 |
-| 9 | [Nitrammets](https://github.com/Nitrammets) | Martin Metsküla | Tallinn | 13,725 |
-| 10 | [Wirasm](https://github.com/Wirasm) | Rasmus Widing | tallinn | 13,667 |
-| 11 | [Artexis10](https://github.com/Artexis10) | Hugo Ander Kivi | Tallinn | 13,652 |
-| 12 | [battlesnake](https://github.com/battlesnake) | Mark Cowan | Tallinn | 13,447 |
-| 13 | [Kypsis](https://github.com/Kypsis) | Harry Sild | Estonia | 13,244 |
-| 14 | [kempu](https://github.com/kempu) | Klemens Arro | Estonia | 12,958 |
-| 15 | [alright212](https://github.com/alright212) | Glen Kink | Tallinn | 12,564 |
-| 16 | [pietrodelfranco](https://github.com/pietrodelfranco) | Pietro Del Franco | Tallinn | 12,368 |
-| 17 | [tooming](https://github.com/tooming) | Martin Tooming | Tallinn | 12,354 |
-| 18 | [enkronos](https://github.com/enkronos) | Enkronos OÜ | Estonia | 12,330 |
-| 19 | [matbcvo](https://github.com/matbcvo) | Martin Vooremäe | Estonia | 12,300 |
-| 20 | [paat](https://github.com/paat) | Andre Tšernikov | Tallinn, Estonia | 11,779 |
+| 6 | [lukacsaron](https://github.com/lukacsaron) | Aron Lukacs | Tallinn | 17,881 |
+| 7 | [rkaalma](https://github.com/rkaalma) | Risto Kaalma | Estonia | 14,733 |
+| 8 | [LEISSON-DARKSSON](https://github.com/LEISSON-DARKSSON) | Gert Leisson | Tallinn, ESTONIA | 14,008 |
+| 9 | [oisincoveney](https://github.com/oisincoveney) | Oisin Coveney | Tallinn, Estonia | 13,893 |
+| 10 | [Nitrammets](https://github.com/Nitrammets) | Martin Metsküla | Tallinn | 13,725 |
+| 11 | [Wirasm](https://github.com/Wirasm) | Rasmus Widing | tallinn | 13,667 |
+| 12 | [Artexis10](https://github.com/Artexis10) | Hugo Ander Kivi | Tallinn | 13,652 |
+| 13 | [battlesnake](https://github.com/battlesnake) | Mark Cowan | Tallinn | 13,447 |
+| 14 | [Kypsis](https://github.com/Kypsis) | Harry Sild | Estonia | 13,244 |
+| 15 | [kempu](https://github.com/kempu) | Klemens Arro | Estonia | 12,958 |
+| 16 | [alright212](https://github.com/alright212) | Glen Kink | Tallinn | 12,564 |
+| 17 | [pietrodelfranco](https://github.com/pietrodelfranco) | Pietro Del Franco | Tallinn | 12,368 |
+| 18 | [tooming](https://github.com/tooming) | Martin Tooming | Tallinn | 12,354 |
+| 19 | [enkronos](https://github.com/enkronos) | Enkronos OÜ | Estonia | 12,330 |
+| 20 | [matbcvo](https://github.com/matbcvo) | Martin Vooremäe | Estonia | 12,300 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 4,897
 | 19 | [Wirasm](https://github.com/Wirasm) | Rasmus Widing | tallinn | 406 |
 | 20 | [toomastahves](https://github.com/toomastahves) | Toomas Tahves | Tallinn, Estonia | 388 |
 
-Generated: 2026-10-18T20:53:19.141Z
+Generated: 2026-10-18T23:08:17.195Z

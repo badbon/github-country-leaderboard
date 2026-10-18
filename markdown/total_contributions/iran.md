@@ -1,8 +1,8 @@
 # Total Contributions - Iran
 
-Generated: 2026-10-18T21:02:05.696Z
+Generated: 2026-10-18T23:17:12.469Z
 
-Users: 26859
+Users: 26858
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

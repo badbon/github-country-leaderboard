@@ -12,9 +12,9 @@ Indexed users: 55
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [Ama-dou](https://github.com/Ama-dou) | Amadou Bah | Djibouti | 5,668 |
+| 1 | [Ama-dou](https://github.com/Ama-dou) | Amadou Bah | Djibouti | 5,685 |
 | 2 | [Abdoul-Hakim101](https://github.com/Abdoul-Hakim101) | Abdihakim  Mohamed | Djibouti | 1,388 |
-| 3 | [Captain-iiro](https://github.com/Captain-iiro) | Captain iiro (Abdourahman) | Djibouti | 1,190 |
+| 3 | [Captain-iiro](https://github.com/Captain-iiro) | Captain iiro (Abdourahman) | Djibouti | 1,191 |
 | 4 | [moustapha-aden](https://github.com/moustapha-aden) | MOUSTAPHA ADEN DIRIYEH | Djibouti Dj | 655 |
 | 5 | [Ismael9-web](https://github.com/Ismael9-web) | Ismael Ladieh | Djibouti | 532 |
 | 6 | [Obelisk999](https://github.com/Obelisk999) | Abdoulrazak | Djibouti | 418 |
@@ -43,7 +43,7 @@ Indexed users: 55
 | 4 | [sammed384](https://github.com/sammed384) | Samatar Mohamed Ali | Djibouti | 147 |
 | 5 | [Filsan648](https://github.com/Filsan648) | Filsan | Djibouti | 138 |
 | 6 | [AminHassanDouale](https://github.com/AminHassanDouale) | AminHsn | Djibouti | 132 |
-| 7 | [Captain-iiro](https://github.com/Captain-iiro) | Captain iiro (Abdourahman) | Djibouti | 118 |
+| 7 | [Captain-iiro](https://github.com/Captain-iiro) | Captain iiro (Abdourahman) | Djibouti | 119 |
 | 8 | [dayib77](https://github.com/dayib77) | Dayib Osman | Djibouti | 92 |
 | 9 | [jibo-zz](https://github.com/jibo-zz) | Mohamed Cheikh | Djibouti | 78 |
 | 10 | [moustapha-aden](https://github.com/moustapha-aden) | MOUSTAPHA ADEN DIRIYEH | Djibouti Dj | 66 |
@@ -83,4 +83,4 @@ Indexed users: 55
 | 19 | [jibo-zz](https://github.com/jibo-zz) | Mohamed Cheikh | Djibouti | 5 |
 | 20 | [LuxusIX](https://github.com/LuxusIX) | Abdourahman A.Daher | Djibouti | 5 |
 
-Generated: 2026-10-18T20:50:46.324Z
+Generated: 2026-10-18T23:06:04.946Z

@@ -12,9 +12,9 @@ Indexed users: 123
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [rafageist](https://github.com/rafageist) | Rafa Rodríguez | Paramaribo, Suriname | 44,940 |
+| 1 | [rafageist](https://github.com/rafageist) | Rafa Rodríguez | Paramaribo, Suriname | 45,095 |
 | 2 | [ragnarok22](https://github.com/ragnarok22) | Reinier Hernández | Suriname | 13,696 |
-| 3 | [doctorneon](https://github.com/doctorneon) | Fabian Jacott | Suriname | 6,215 |
+| 3 | [doctorneon](https://github.com/doctorneon) | Fabian Jacott | Suriname | 6,217 |
 | 4 | [Karel95](https://github.com/Karel95) | Karel Hernández | Paramaribo, Suriname | 2,772 |
 | 5 | [eSaniello](https://github.com/eSaniello) | Shaniel  | Suriname | 1,789 |
 | 6 | [CreativeYudai](https://github.com/CreativeYudai) | Yudai Heber | Paramaribo | 1,769 |
@@ -37,8 +37,8 @@ Indexed users: 123
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [ragnarok22](https://github.com/ragnarok22) | Reinier Hernández | Suriname | 2,826 |
-| 2 | [rafageist](https://github.com/rafageist) | Rafa Rodríguez | Paramaribo, Suriname | 757 |
+| 1 | [rafageist](https://github.com/rafageist) | Rafa Rodríguez | Paramaribo, Suriname | 30,855 |
+| 2 | [ragnarok22](https://github.com/ragnarok22) | Reinier Hernández | Suriname | 2,826 |
 | 3 | [giannisanni](https://github.com/giannisanni) | Gianni Sanrochman | Paramaribo, Suriname | 611 |
 | 4 | [JustinDouglas16](https://github.com/JustinDouglas16) | Justin Douglas | Paramaribo | 252 |
 | 5 | [pawiromitchel](https://github.com/pawiromitchel) | Mitchel | Suriname | 194 |
@@ -63,7 +63,7 @@ Indexed users: 123
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [ragnarok22](https://github.com/ragnarok22) | Reinier Hernández | Suriname | 117 |
-| 2 | [pawiromitchel](https://github.com/pawiromitchel) | Mitchel | Suriname | 96 |
+| 2 | [pawiromitchel](https://github.com/pawiromitchel) | Mitchel | Suriname | 95 |
 | 3 | [N3RDCLASH](https://github.com/N3RDCLASH) | Joel Naarendorp | Suriname | 49 |
 | 4 | [nerkarso](https://github.com/nerkarso) | Ner Karso | Paramaribo, Suriname | 41 |
 | 5 | [CreativeYudai](https://github.com/CreativeYudai) | Yudai Heber | Paramaribo | 38 |
@@ -83,4 +83,4 @@ Indexed users: 123
 | 19 | [JovinF](https://github.com/JovinF) | Jovin Fransman | Suriname | 18 |
 | 20 | [Your1405](https://github.com/Your1405) | Youri Karijopawiro | Paramaribo, Suriname | 18 |
 
-Generated: 2026-10-18T18:47:24.596Z
+Generated: 2026-10-18T22:42:02.165Z

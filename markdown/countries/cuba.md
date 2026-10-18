@@ -1,6 +1,6 @@
 # Cuba
 
-Indexed users: 1,275
+Indexed users: 1,274
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 1,275
 | 19 | [markospy](https://github.com/markospy) | Marcos Avila | Cuba | 72 |
 | 20 | [leoGlez01](https://github.com/leoGlez01) | Leandro González  | La Habana, Cuba | 70 |
 
-Generated: 2026-10-18T20:48:32.958Z
+Generated: 2026-10-18T23:04:28.021Z

@@ -1,8 +1,8 @@
 # Total Contributions - Cuba
 
-Generated: 2026-10-18T20:48:32.958Z
+Generated: 2026-10-18T23:04:28.021Z
 
-Users: 1275
+Users: 1274
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

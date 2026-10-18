@@ -18,20 +18,20 @@ Indexed users: 3,098
 | 4 | [Meemaw](https://github.com/Meemaw) | Matej Šnuderl | Ljubljana, Slovenia | 16,408 |
 | 5 | [bl4ko](https://github.com/bl4ko) | Gasper Oblak | Slovenia | 13,573 |
 | 6 | [domengabrovsek](https://github.com/domengabrovsek) | Domen Gabrovšek | Ljubljana, Slovenia | 11,949 |
-| 7 | [AMGrobelnik](https://github.com/AMGrobelnik) | Adrian Mladenic Grobelnik | Ljubljana, Slovenia | 11,306 |
-| 8 | [garbas](https://github.com/garbas) | Rok Garbas | Ljubljana, Slovenia | 10,718 |
-| 9 | [fentas](https://github.com/fentas) | Jan Guth | Slovenia | 10,622 |
-| 10 | [matija2209](https://github.com/matija2209) | Matija Žiberna | Slovenia | 10,295 |
-| 11 | [tfourj](https://github.com/tfourj) | Taj Tkalec | Slovenia | 9,996 |
-| 12 | [rockoo](https://github.com/rockoo) | Rok Nemet | Ljubljana, Slovenia | 9,726 |
-| 13 | [tfius](https://github.com/tfius) | Tadej Fius | Slovenia | 8,723 |
-| 14 | [baadc0de](https://github.com/baadc0de) | Bojan Šernek | Ljubljana, Slovenia | 8,700 |
-| 15 | [pako999](https://github.com/pako999) | Patrik | Slovenia  | 8,682 |
-| 16 | [zprima](https://github.com/zprima) | Primož Žnidar | Slovenia | 8,672 |
-| 17 | [vucinatim](https://github.com/vucinatim) | Tim Vučina | Ljubljana, Slovenia | 8,637 |
-| 18 | [mitjapotocin](https://github.com/mitjapotocin) | Mitja Potočin | Ljubljana | 8,383 |
-| 19 | [dejanstrancar](https://github.com/dejanstrancar) | Dejan Strancar | Slovenia | 7,491 |
-| 20 | [AKzar1el](https://github.com/AKzar1el) | Tommy | Ljubljana, Slovenia | 7,042 |
+| 7 | [Putr](https://github.com/Putr) | Rok Andrée | Ljubljana, Slovenia | 11,478 |
+| 8 | [AMGrobelnik](https://github.com/AMGrobelnik) | Adrian Mladenic Grobelnik | Ljubljana, Slovenia | 11,306 |
+| 9 | [garbas](https://github.com/garbas) | Rok Garbas | Ljubljana, Slovenia | 10,718 |
+| 10 | [fentas](https://github.com/fentas) | Jan Guth | Slovenia | 10,622 |
+| 11 | [matija2209](https://github.com/matija2209) | Matija Žiberna | Slovenia | 10,295 |
+| 12 | [tfourj](https://github.com/tfourj) | Taj Tkalec | Slovenia | 9,996 |
+| 13 | [rockoo](https://github.com/rockoo) | Rok Nemet | Ljubljana, Slovenia | 9,726 |
+| 14 | [tfius](https://github.com/tfius) | Tadej Fius | Slovenia | 8,723 |
+| 15 | [baadc0de](https://github.com/baadc0de) | Bojan Šernek | Ljubljana, Slovenia | 8,700 |
+| 16 | [pako999](https://github.com/pako999) | Patrik | Slovenia  | 8,682 |
+| 17 | [zprima](https://github.com/zprima) | Primož Žnidar | Slovenia | 8,672 |
+| 18 | [vucinatim](https://github.com/vucinatim) | Tim Vučina | Ljubljana, Slovenia | 8,637 |
+| 19 | [mitjapotocin](https://github.com/mitjapotocin) | Mitja Potočin | Ljubljana | 8,383 |
+| 20 | [dejanstrancar](https://github.com/dejanstrancar) | Dejan Strancar | Slovenia | 7,491 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 3,098
 | 19 | [garbas](https://github.com/garbas) | Rok Garbas | Ljubljana, Slovenia | 240 |
 | 20 | [buresdv](https://github.com/buresdv) | David Bureš | Maribor, Slovenia | 238 |
 
-Generated: 2026-10-18T20:17:55.297Z
+Generated: 2026-10-18T22:40:32.656Z

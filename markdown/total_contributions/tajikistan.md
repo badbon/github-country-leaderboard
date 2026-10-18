@@ -1,13 +1,13 @@
 # Total Contributions - Tajikistan
 
-Generated: 2026-10-18T20:23:44.645Z
+Generated: 2026-10-18T22:44:07.644Z
 
 Users: 709
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [veyxov](https://github.com/veyxov) | Shekhov Ismoil | @LLC-Alif-Technology  |  | Tajikistan | 9177 |
-| 2 | [OdinManiac](https://github.com/OdinManiac) | George |  |  | Tajikistan | 8842 |
+| 1 | [OdinManiac](https://github.com/OdinManiac) | George |  |  | Tajikistan | 9330 |
+| 2 | [veyxov](https://github.com/veyxov) | Shekhov Ismoil | @LLC-Alif-Technology  |  | Tajikistan | 9177 |
 | 3 | [rahimov-yr](https://github.com/rahimov-yr) | Yusuf Rahimov |  |  | Tajikistan | 7908 |
 | 4 | [shyn1ck](https://github.com/shyn1ck) | Parvizjon Hasanov | DC-TechHQ |  | Taikistan, Dushanbe  | 6981 |
 | 5 | [UMARJO9](https://github.com/UMARJO9) | Умарджон Нурмадов |  |  | Tajikistan / Khujand / Dushanbe / Kulob | 6921 |
@@ -19,7 +19,7 @@ Users: 709
 | 11 | [sultonzoda2011](https://github.com/sultonzoda2011) | Sultonzoda Abdulloh | Freelance |  | Dushanbe | 3613 |
 | 12 | [dev-muhammad](https://github.com/dev-muhammad) | Muhammad Abdugafarov  | Lookona Labs |  | Tajikistan | 3521 |
 | 13 | [D1lsh0D](https://github.com/D1lsh0D) | Dilshod Hojiboev | @Silk-Road-Professionals |  | Khujand, Tajikistan | 3209 |
-| 14 | [Rahmonali](https://github.com/Rahmonali) | Rahmonali | Paydo-Team |  | Dushanbe, Tajikistan | 3198 |
+| 14 | [Rahmonali](https://github.com/Rahmonali) | Rahmonali | Paydo-Team |  | Dushanbe, Tajikistan | 3192 |
 | 15 | [IllMind11](https://github.com/IllMind11) | Islom Khushnazarov | Ayan Capital |  | Dushanbe, Tajikistan | 3186 |
 | 16 | [Aiyom](https://github.com/Aiyom) |  |  |  | Tajikistan | 3012 |
 | 17 | [Amsurur](https://github.com/Amsurur) | Muhammadsurur Abdulloev | Softclub , RowTech |  | Dushanbe | 2919 |

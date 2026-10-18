@@ -18,20 +18,20 @@ Indexed users: 5,613
 | 4 | [figlesias221](https://github.com/figlesias221) | Federico Iglesias | Montevideo, Uruguay | 16,114 |
 | 5 | [fausanchez](https://github.com/fausanchez) | Fausto Sanchez | Uruguay | 14,173 |
 | 6 | [dcadenas](https://github.com/dcadenas) | Daniel Cadenas | Montevideo, Uruguay | 13,568 |
-| 7 | [ignaciogarcia-dev](https://github.com/ignaciogarcia-dev) | Ignacio García | Uruguay | 11,961 |
-| 8 | [EmoPorEmilio](https://github.com/EmoPorEmilio) | Emilio "Emo" Franceschini | Montevideo, Uruguay | 11,515 |
-| 9 | [MateoVidalS](https://github.com/MateoVidalS) | Mateo Vidal | Uruguay | 11,113 |
-| 10 | [agurod42](https://github.com/agurod42) | Agu Rodríguez | Montevideo, Uruguay, Earth | 10,131 |
-| 11 | [frankdavidcorona](https://github.com/frankdavidcorona) | Frank Corona Prendes | Montevideo, Uruguay | 10,097 |
-| 12 | [JuanFKurucz](https://github.com/JuanFKurucz) | Francisco Kurucz | Uruguay | 9,097 |
-| 13 | [EugeniaGramajo](https://github.com/EugeniaGramajo) | Eugenia Gramajo | Uruguay | 8,420 |
-| 14 | [emiliano-go](https://github.com/emiliano-go) | Emiliano G.O. | Montevideo, Uruguay | 8,276 |
-| 15 | [pedrosgmagalhaes](https://github.com/pedrosgmagalhaes) | Pedro Magalhaes | Uruguay | 8,205 |
-| 16 | [brunoocal](https://github.com/brunoocal) | Bruno Cal | Uruguay | 8,152 |
-| 17 | [barbatdev](https://github.com/barbatdev) | Juan Barbat | Uruguay | 7,968 |
-| 18 | [LuisHdezE](https://github.com/LuisHdezE) | MSc Luis A. Hernández Elias | Montevideo, Uruguay | 7,825 |
-| 19 | [Tombar](https://github.com/Tombar) | Martin Loy | Montevideo, Uruguay | 7,600 |
-| 20 | [FabianLevi](https://github.com/FabianLevi) | Fabian Levinsky | Uruguay | 7,492 |
+| 7 | [turnyi](https://github.com/turnyi) | Martin Radovitzky | Montevideo, Uruguay | 12,732 |
+| 8 | [ignaciogarcia-dev](https://github.com/ignaciogarcia-dev) | Ignacio García | Uruguay | 11,961 |
+| 9 | [EmoPorEmilio](https://github.com/EmoPorEmilio) | Emilio "Emo" Franceschini | Montevideo, Uruguay | 11,515 |
+| 10 | [MateoVidalS](https://github.com/MateoVidalS) | Mateo Vidal | Uruguay | 11,113 |
+| 11 | [agurod42](https://github.com/agurod42) | Agu Rodríguez | Montevideo, Uruguay, Earth | 10,131 |
+| 12 | [frankdavidcorona](https://github.com/frankdavidcorona) | Frank Corona Prendes | Montevideo, Uruguay | 10,097 |
+| 13 | [JuanFKurucz](https://github.com/JuanFKurucz) | Francisco Kurucz | Uruguay | 9,097 |
+| 14 | [EugeniaGramajo](https://github.com/EugeniaGramajo) | Eugenia Gramajo | Uruguay | 8,420 |
+| 15 | [emiliano-go](https://github.com/emiliano-go) | Emiliano G.O. | Montevideo, Uruguay | 8,276 |
+| 16 | [pedrosgmagalhaes](https://github.com/pedrosgmagalhaes) | Pedro Magalhaes | Uruguay | 8,205 |
+| 17 | [brunoocal](https://github.com/brunoocal) | Bruno Cal | Uruguay | 8,152 |
+| 18 | [barbatdev](https://github.com/barbatdev) | Juan Barbat | Uruguay | 7,968 |
+| 19 | [LuisHdezE](https://github.com/LuisHdezE) | MSc Luis A. Hernández Elias | Montevideo, Uruguay | 7,825 |
+| 20 | [Tombar](https://github.com/Tombar) | Martin Loy | Montevideo, Uruguay | 7,600 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 5,613
 | 19 | [mauricioszabo](https://github.com/mauricioszabo) | Maurício Szabo | Montevideo, Uruguay | 196 |
 | 20 | [ppazos](https://github.com/ppazos) | Pablo Pazos Gutiérrez | Montevideo, Uruguay | 196 |
 
-Generated: 2026-10-18T20:28:51.765Z
+Generated: 2026-10-18T22:48:40.509Z

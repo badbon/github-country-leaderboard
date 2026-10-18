@@ -1,6 +1,6 @@
 # Public Contributions - Cyprus
 
-Generated: 2026-10-18T20:49:19.974Z
+Generated: 2026-10-18T23:05:16.321Z
 
 Users: 2725
 
@@ -8,13 +8,13 @@ Users: 2725
 |---:|---|---|---|---|---|---:|
 | 1 | [andre-kuzminykh](https://github.com/andre-kuzminykh) | Andre Kuzminykh | Andre AI Technologies |  | Cyprus | 14639 |
 | 2 | [cploutarchou](https://github.com/cploutarchou) | Christos Ploutarchou |  | cploutarchou | Cyprus | 7743 |
-| 3 | [richardsolomou](https://github.com/richardsolomou) | Richard Solomou | @PostHog | richardsolomou | Cyprus | 7201 |
-| 4 | [AlisherAmonulloev](https://github.com/AlisherAmonulloev) | Alisher Amonulloev |  |  | Cyprus | 5626 |
-| 5 | [IMKolganov](https://github.com/IMKolganov) | Ivan | Rackot production |  | Cyprus | 4627 |
-| 6 | [AxGord](https://github.com/AxGord) | Alexander Gordeyko |  | axgord | Limassol, Cyprus | 4455 |
-| 7 | [protesilaos](https://github.com/protesilaos) | Protesilaos |  |  | Cyprus | 4292 |
-| 8 | [NicosNicolaou16](https://github.com/NicosNicolaou16) | Nicos Nicolaou |  | nicolaou_nicos | Nicosia, Cyprus | 3881 |
-| 9 | [servitola](https://github.com/servitola) | Adik Servitola |  |  | Cyprus | 3829 |
+| 3 | [servitola](https://github.com/servitola) | Adik Servitola |  |  | Cyprus | 7550 |
+| 4 | [richardsolomou](https://github.com/richardsolomou) | Richard Solomou | @PostHog | richardsolomou | Cyprus | 7201 |
+| 5 | [AlisherAmonulloev](https://github.com/AlisherAmonulloev) | Alisher Amonulloev |  |  | Cyprus | 5626 |
+| 6 | [IMKolganov](https://github.com/IMKolganov) | Ivan | Rackot production |  | Cyprus | 4627 |
+| 7 | [AxGord](https://github.com/AxGord) | Alexander Gordeyko |  | axgord | Limassol, Cyprus | 4455 |
+| 8 | [protesilaos](https://github.com/protesilaos) | Protesilaos |  |  | Cyprus | 4292 |
+| 9 | [NicosNicolaou16](https://github.com/NicosNicolaou16) | Nicos Nicolaou |  | nicolaou_nicos | Nicosia, Cyprus | 3881 |
 | 10 | [VizzleTF](https://github.com/VizzleTF) | Ivan K |  |  | Cyprus | 3486 |
 | 11 | [candasoz01-cmd](https://github.com/candasoz01-cmd) | Candaş Öz | Candaş Öz |  | Kıbrıs | 3467 |
 | 12 | [phalouvas](https://github.com/phalouvas) | Panayiotis Halouvas | KAINOTOMO PH LTD  |  | Cyprus  | 3353 |

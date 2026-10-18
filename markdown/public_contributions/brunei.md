@@ -1,6 +1,6 @@
 # Public Contributions - Brunei
 
-Generated: 2026-10-18T20:42:58.418Z
+Generated: 2026-10-18T22:58:47.935Z
 
 Users: 254
 
@@ -8,7 +8,7 @@ Users: 254
 |---:|---|---|---|---|---|---:|
 | 1 | [aresople](https://github.com/aresople) | Aresa Naif | Developer |  | Brunei | 5635 |
 | 2 | [SatriaSuriaAriffin](https://github.com/SatriaSuriaAriffin) | Satria Suria | Deltice Technology |  | Brunei | 550 |
-| 3 | [Qoyyuum](https://github.com/Qoyyuum) | Abdul Qoyyuum |  | Qoyyuum | Brunei Darussalam | 347 |
+| 3 | [Qoyyuum](https://github.com/Qoyyuum) | Abdul Qoyyuum |  | Qoyyuum | Brunei Darussalam | 346 |
 | 4 | [bumplzz69](https://github.com/bumplzz69) | Eddie |  |  | Brunei | 340 |
 | 5 | [danialothman](https://github.com/danialothman) | Danial Othman |  |  | Brunei Darussalam | 238 |
 | 6 | [naqiuddinihsan](https://github.com/naqiuddinihsan) | Ihsan |  |  | Brunei | 148 |

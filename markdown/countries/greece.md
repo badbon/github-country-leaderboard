@@ -1,6 +1,6 @@
 # Greece
 
-Indexed users: 15,550
+Indexed users: 15,548
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 15,550
 | 19 | [EleftheriaBatsou](https://github.com/EleftheriaBatsou) | Eleftheria Batsou | Thessaloniki, Greece | 808 |
 | 20 | [chsakell](https://github.com/chsakell) | Christos Sakellarios | Athens, Greece | 762 |
 
-Generated: 2026-10-18T20:56:23.002Z
+Generated: 2026-10-18T23:11:43.727Z

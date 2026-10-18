@@ -1,6 +1,6 @@
 # Egypt
 
-Indexed users: 34,096
+Indexed users: 34,095
 
 | Leaderboard | Link |
 |---|---|
@@ -69,9 +69,9 @@ Indexed users: 34,096
 | 5 | [OsamaElzero](https://github.com/OsamaElzero) | Osama | Egypt | 3,409 |
 | 6 | [abdullahmansss](https://github.com/abdullahmansss) | Abdullah Mansour | Cairo, Egypt | 2,856 |
 | 7 | [zigoo0](https://github.com/zigoo0) | Ebrahem Hegazy | Egypt / Netherlands | 2,739 |
-| 8 | [mohamedelmougy](https://github.com/mohamedelmougy) | Mohamed Elmougy | Egypt | 2,058 |
+| 8 | [mohamedelmougy](https://github.com/mohamedelmougy) | Mohamed Elmougy | Egypt | 2,415 |
 | 9 | [Abdullahsaleh203](https://github.com/Abdullahsaleh203) | Abdallah Saleh | Egypt | 1,990 |
-| 10 | [YoussefMoHlemyAlpha](https://github.com/YoussefMoHlemyAlpha) | Youssef MO Helmy  | Alexandria , Egypt | 1,856 |
+| 10 | [YoussefMoHlemyAlpha](https://github.com/YoussefMoHlemyAlpha) | Youssef MO Helmy  | Alexandria , Egypt | 1,883 |
 | 11 | [A-Hemeda](https://github.com/A-Hemeda) | Ahmed Hemeda | Cairo, Egypt | 1,789 |
 | 12 | [h9-tect](https://github.com/h9-tect) | Hesham Haroon | Egypt | 1,781 |
 | 13 | [QidarSarhan](https://github.com/QidarSarhan) | Qidar Sarhan | Egypt | 1,689 |
@@ -83,4 +83,4 @@ Indexed users: 34,096
 | 19 | [mohamedtamer0](https://github.com/mohamedtamer0) | Mohamed Tamer | Egypt | 1,072 |
 | 20 | [mbadry1](https://github.com/mbadry1) | Mahmoud Badry | Cairo, Egypt | 1,055 |
 
-Generated: 2026-10-18T20:52:30.036Z
+Generated: 2026-10-18T23:07:59.434Z

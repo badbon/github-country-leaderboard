@@ -1,6 +1,6 @@
 # Total Contributions - Tanzania
 
-Generated: 2026-10-18T20:23:50.632Z
+Generated: 2026-10-18T22:44:41.495Z
 
 Users: 2037
 
@@ -8,7 +8,7 @@ Users: 2037
 |---:|---|---|---|---|---|---:|
 | 1 | [mpinzile](https://github.com/mpinzile) | David Mpinzile | SEWMR Technologies | sewmrtechnology | Arusha, Tanzania  | 178570 |
 | 2 | [KaReeeeeeeeEM](https://github.com/KaReeeeeeeeEM) | _running_program | University of Dar es Salaam |  |  Dar-es-salaam, Tanzania | 150256 |
-| 3 | [nyandajr](https://github.com/nyandajr) | Nyanda Freddy |  |  | Tanzania | 53229 |
+| 3 | [nyandajr](https://github.com/nyandajr) | Nyanda Freddy |  |  | Tanzania | 59579 |
 | 4 | [johnson2006christopher](https://github.com/johnson2006christopher) | Johnson Christopher Hassan | Neurotech HQ |  | Mbeya,Tanzania | 27470 |
 | 5 | [raydanielg](https://github.com/raydanielg) | Ezra Daniel Gyunda |  |  | Tanzania | 18171 |
 | 6 | [cleven12](https://github.com/cleven12) | cleven |  | cleven02 | Tanzania | 18101 |

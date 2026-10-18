@@ -26,7 +26,7 @@ Indexed users: 488
 | 12 | [Chris000888](https://github.com/Chris000888) | Christopher DATO | Abidjan, Côte d'Ivoire | 5,027 |
 | 13 | [codecaiine](https://github.com/codecaiine) | Yannick-Noël AKA | Ivory Coast | 4,605 |
 | 14 | [sidikfaha](https://github.com/sidikfaha) | Aboubakar Sidik Faha | Abidjan, Ivory Coast | 4,284 |
-| 15 | [juniorbrindou](https://github.com/juniorbrindou) | Junior Brindou | Côte d'Ivoire, Abidjan | 4,147 |
+| 15 | [juniorbrindou](https://github.com/juniorbrindou) | Junior Brindou | Côte d'Ivoire, Abidjan | 4,231 |
 | 16 | [azizsoule](https://github.com/azizsoule) | Aziz Soulé | Abidjan, Côte d'Ivoire | 4,128 |
 | 17 | [elinguiuriel](https://github.com/elinguiuriel) | ELINGUI Pascal Uriel | Côte d'Ivoire | 4,019 |
 | 18 | [Anse-dev](https://github.com/Anse-dev) | N'guettia Atta Jean Anselme | Ivory Coast | 3,848 |
@@ -50,7 +50,7 @@ Indexed users: 488
 | 11 | [DPYTHA](https://github.com/DPYTHA) | Agoua Moua | Ivory Coast | 455 |
 | 12 | [kjlinux](https://github.com/kjlinux) | Ghost | Yamoussoukro, Côte d'Ivoire | 449 |
 | 13 | [pmkod](https://github.com/pmkod) | Kodossou | Abidjan, Côte d'Ivoire | 391 |
-| 14 | [houphouet](https://github.com/houphouet) | KOUADIO Houphouët | Abidjan, Côte d'Ivoire  | 367 |
+| 14 | [houphouet](https://github.com/houphouet) | KOUADIO Houphouët | Abidjan, Côte d'Ivoire  | 380 |
 | 15 | [DanielShofela](https://github.com/DanielShofela) | Student | abidjan, Côte d'Ivoire | 366 |
 | 16 | [23cyy](https://github.com/23cyy) | Cyrille N'DAH | Côte d'Ivoire | 365 |
 | 17 | [lambirou](https://github.com/lambirou) | Roland Edi | Abidjan, Côte d'ivoire | 361 |
@@ -83,4 +83,4 @@ Indexed users: 488
 | 19 | [DevAlves1993](https://github.com/DevAlves1993) | Christian Alves Cyrille Amani | Ivory Coast (Abidjan) | 42 |
 | 20 | [stephsalou](https://github.com/stephsalou) | stephane salou | Abidjan , Côte D'Ivoire | 42 |
 
-Generated: 2026-10-18T21:04:10.324Z
+Generated: 2026-10-18T23:19:06.396Z

@@ -21,17 +21,17 @@ Indexed users: 2,725
 | 7 | [andre-kuzminykh](https://github.com/andre-kuzminykh) | Andre Kuzminykh | Cyprus | 14,639 |
 | 8 | [ei-grad](https://github.com/ei-grad) | Andrew Grigorev | Limassol, Cyprus | 14,588 |
 | 9 | [openmindednewby](https://github.com/openmindednewby) | Demetrios Loizides | Cyprus | 14,379 |
-| 10 | [servitola](https://github.com/servitola) | Adik Servitola | Cyprus | 14,035 |
-| 11 | [jin0x](https://github.com/jin0x) | John Leskas | Limassol, Cyprus | 13,492 |
-| 12 | [iskifogl](https://github.com/iskifogl) | Abdullah İskifoğlu | Cyprus | 11,983 |
-| 13 | [Bezarius](https://github.com/Bezarius) | Mstislav Pavlov | Cyprus, Larnaca | 11,829 |
+| 10 | [jin0x](https://github.com/jin0x) | John Leskas | Limassol, Cyprus | 13,492 |
+| 11 | [iskifogl](https://github.com/iskifogl) | Abdullah İskifoğlu | Cyprus | 11,983 |
+| 12 | [Bezarius](https://github.com/Bezarius) | Mstislav Pavlov | Cyprus, Larnaca | 11,829 |
+| 13 | [yhersh](https://github.com/yhersh) | Yaron Hersh | Cyprus | 11,708 |
 | 14 | [laikhtman](https://github.com/laikhtman) | [DL] | Cyprus | 11,184 |
 | 15 | [pitops](https://github.com/pitops) | Petros Kyriakou | Cyprus | 10,749 |
-| 16 | [ByczukMartin](https://github.com/ByczukMartin) | Martin B. | Cyprus | 9,995 |
-| 17 | [cploutarchou](https://github.com/cploutarchou) | Christos Ploutarchou | Cyprus | 9,926 |
-| 18 | [nyyhao](https://github.com/nyyhao) | nyhaoo_ | Cyprus | 9,666 |
-| 19 | [vvsotnikov](https://github.com/vvsotnikov) | Vladimir Sotnikov | Cyprus, Paphos | 9,399 |
-| 20 | [rsaryev](https://github.com/rsaryev) | Saryev Rustam | Cyprus | 9,314 |
+| 16 | [aidinb](https://github.com/aidinb) | Aidin  | Cyprus | 10,217 |
+| 17 | [ByczukMartin](https://github.com/ByczukMartin) | Martin B. | Cyprus | 9,995 |
+| 18 | [cploutarchou](https://github.com/cploutarchou) | Christos Ploutarchou | Cyprus | 9,926 |
+| 19 | [nyyhao](https://github.com/nyyhao) | nyhaoo_ | Cyprus | 9,666 |
+| 20 | [vvsotnikov](https://github.com/vvsotnikov) | Vladimir Sotnikov | Cyprus, Paphos | 9,399 |
 
 ## Public Contributions
 
@@ -39,13 +39,13 @@ Indexed users: 2,725
 |---:|---|---|---|---:|
 | 1 | [andre-kuzminykh](https://github.com/andre-kuzminykh) | Andre Kuzminykh | Cyprus | 14,639 |
 | 2 | [cploutarchou](https://github.com/cploutarchou) | Christos Ploutarchou | Cyprus | 7,743 |
-| 3 | [richardsolomou](https://github.com/richardsolomou) | Richard Solomou | Cyprus | 7,201 |
-| 4 | [AlisherAmonulloev](https://github.com/AlisherAmonulloev) | Alisher Amonulloev | Cyprus | 5,626 |
-| 5 | [IMKolganov](https://github.com/IMKolganov) | Ivan | Cyprus | 4,627 |
-| 6 | [AxGord](https://github.com/AxGord) | Alexander Gordeyko | Limassol, Cyprus | 4,455 |
-| 7 | [protesilaos](https://github.com/protesilaos) | Protesilaos | Cyprus | 4,292 |
-| 8 | [NicosNicolaou16](https://github.com/NicosNicolaou16) | Nicos Nicolaou | Nicosia, Cyprus | 3,881 |
-| 9 | [servitola](https://github.com/servitola) | Adik Servitola | Cyprus | 3,829 |
+| 3 | [servitola](https://github.com/servitola) | Adik Servitola | Cyprus | 7,550 |
+| 4 | [richardsolomou](https://github.com/richardsolomou) | Richard Solomou | Cyprus | 7,201 |
+| 5 | [AlisherAmonulloev](https://github.com/AlisherAmonulloev) | Alisher Amonulloev | Cyprus | 5,626 |
+| 6 | [IMKolganov](https://github.com/IMKolganov) | Ivan | Cyprus | 4,627 |
+| 7 | [AxGord](https://github.com/AxGord) | Alexander Gordeyko | Limassol, Cyprus | 4,455 |
+| 8 | [protesilaos](https://github.com/protesilaos) | Protesilaos | Cyprus | 4,292 |
+| 9 | [NicosNicolaou16](https://github.com/NicosNicolaou16) | Nicos Nicolaou | Nicosia, Cyprus | 3,881 |
 | 10 | [VizzleTF](https://github.com/VizzleTF) | Ivan K | Cyprus | 3,486 |
 | 11 | [candasoz01-cmd](https://github.com/candasoz01-cmd) | Candaş Öz | Kıbrıs | 3,467 |
 | 12 | [phalouvas](https://github.com/phalouvas) | Panayiotis Halouvas | Cyprus  | 3,353 |
@@ -83,4 +83,4 @@ Indexed users: 2,725
 | 19 | [sudoguy](https://github.com/sudoguy) | Evgeny Kemerov | Limassol, Cyprus | 251 |
 | 20 | [polterguy](https://github.com/polterguy) | Thomas Hansen | Cyprus | 245 |
 
-Generated: 2026-10-18T20:49:19.974Z
+Generated: 2026-10-18T23:05:16.321Z

@@ -43,20 +43,20 @@ Indexed users: 10,267
 | 4 | [BattlefieldDuck](https://github.com/BattlefieldDuck) | tptat | Hong Kong | 13,015 |
 | 5 | [CeHouGIS](https://github.com/CeHouGIS) | Ce Hou | Hong Kong | 11,082 |
 | 6 | [tombelieber](https://github.com/tombelieber) | Tom Tang | Hong Kong | 9,074 |
-| 7 | [lokshunhung](https://github.com/lokshunhung) | LS Hung | Hong Kong | 8,170 |
-| 8 | [wonglaitung](https://github.com/wonglaitung) | Marco Wong | Hong Kong | 7,683 |
-| 9 | [SpatLyu](https://github.com/SpatLyu) | Wenbo Lyu | Hong Kong | 7,663 |
-| 10 | [lcacchiani](https://github.com/lcacchiani) | Luca Cacchiani | Hong Kong | 7,358 |
+| 7 | [wonglaitung](https://github.com/wonglaitung) | Marco Wong | Hong Kong | 7,683 |
+| 8 | [SpatLyu](https://github.com/SpatLyu) | Wenbo Lyu | Hong Kong | 7,663 |
+| 9 | [lcacchiani](https://github.com/lcacchiani) | Luca Cacchiani | Hong Kong | 7,358 |
+| 10 | [lokshunhung](https://github.com/lokshunhung) | LS Hung | Hong Kong | 7,151 |
 | 11 | [ZhuchkaTriplesix](https://github.com/ZhuchkaTriplesix) | 3rdYuno | Hong Kong | 6,876 |
 | 12 | [JakkuSakura](https://github.com/JakkuSakura) | Jakku Sakura | Hong Kong, China | 6,455 |
 | 13 | [Jamyth](https://github.com/Jamyth) | Jamyth Luk | Hong Kong | 6,407 |
 | 14 | [auto-wood](https://github.com/auto-wood) | Auto.Wood | Hong Kong | 6,337 |
 | 15 | [dirkarnez](https://github.com/dirkarnez) | Dirk Arnez | Hong Kong | 6,035 |
 | 16 | [williamchong](https://github.com/williamchong) | William Chong | Hong Kong | 5,950 |
-| 17 | [tijptjik](https://github.com/tijptjik) | Mart van de Ven | Hong Kong | 4,735 |
-| 18 | [DarkLight1337](https://github.com/DarkLight1337) | Cyrus Leung | Hong Kong | 4,241 |
-| 19 | [shuakami](https://github.com/shuakami) | 速冻饺子 | Hong Kong | 3,845 |
-| 20 | [atomyyyy](https://github.com/atomyyyy) | Alan | Hong Kong | 3,664 |
+| 17 | [rponeawa](https://github.com/rponeawa) | Sharky Wang | Hong Kong | 5,123 |
+| 18 | [tijptjik](https://github.com/tijptjik) | Mart van de Ven | Hong Kong | 4,735 |
+| 19 | [DarkLight1337](https://github.com/DarkLight1337) | Cyrus Leung | Hong Kong | 4,241 |
+| 20 | [shuakami](https://github.com/shuakami) | 速冻饺子 | Hong Kong | 3,845 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 10,267
 | 19 | [syhyz1990](https://github.com/syhyz1990) | iPc | Hong Kong | 975 |
 | 20 | [robbin](https://github.com/robbin) | Fan Kai | Hong Kong | 959 |
 
-Generated: 2026-10-18T21:00:28.187Z
+Generated: 2026-10-18T23:15:55.871Z

@@ -1,6 +1,6 @@
 # Slovakia
 
-Indexed users: 4,662
+Indexed users: 4,661
 
 | Leaderboard | Link |
 |---|---|
@@ -54,9 +54,9 @@ Indexed users: 4,662
 | 15 | [WizzardSK](https://github.com/WizzardSK) |  | Bratislava, Slovakia | 2,853 |
 | 16 | [alvianzf](https://github.com/alvianzf) | Alvian Zachry Faturrahman | Tanjungpinang, Batam, Karimun, Bratislava | 2,610 |
 | 17 | [mont127](https://github.com/mont127) | mont127 | Slovakia | 2,492 |
-| 18 | [janbodnar](https://github.com/janbodnar) | Jan Bodnar | Bratislava | 2,391 |
-| 19 | [matuscongrady](https://github.com/matuscongrady) | Matúš Čongrády | Bratislava, Slovakia | 2,369 |
-| 20 | [Vanderhell](https://github.com/Vanderhell) | Vanderhell | Slovakia | 2,328 |
+| 18 | [matuscongrady](https://github.com/matuscongrady) | Matúš Čongrády | Bratislava, Slovakia | 2,369 |
+| 19 | [Vanderhell](https://github.com/Vanderhell) | Vanderhell | Slovakia | 2,328 |
+| 20 | [PavolUlicny](https://github.com/PavolUlicny) | Pavol Ulicny | Bratislava  | 2,289 |
 
 ## Followers
 
@@ -67,8 +67,8 @@ Indexed users: 4,662
 | 3 | [MartinHeinz](https://github.com/MartinHeinz) | Martin Heinz | Bratislava | 1,110 |
 | 4 | [ResoDev](https://github.com/ResoDev) | Matej Rešetár | Košice, Slovakia | 900 |
 | 5 | [filiphric](https://github.com/filiphric) | Filip Hric | Senec, Slovakia | 711 |
-| 6 | [janbodnar](https://github.com/janbodnar) | Jan Bodnar | Bratislava | 558 |
-| 7 | [misohu](https://github.com/misohu) | Michal Hucko | Bratislava | 518 |
+| 6 | [janbodnar](https://github.com/janbodnar) | Jan Bodnar | Bratislava | 561 |
+| 7 | [misohu](https://github.com/misohu) | Michal Hucko | Bratislava | 520 |
 | 8 | [radovankavicky](https://github.com/radovankavicky) | Radovan Kavicky | Bratislava, Slovakia | 447 |
 | 9 | [nem0](https://github.com/nem0) | Mikulas Florek | Slovakia, Bratislava | 406 |
 | 10 | [petersirka](https://github.com/petersirka) | Peter Širka | Slovakia | 402 |
@@ -83,4 +83,4 @@ Indexed users: 4,662
 | 19 | [Stiivi](https://github.com/Stiivi) | Stefan Urbanek | Bratislava | 280 |
 | 20 | [haad](https://github.com/haad) | Adam Hamsik | Bratislava Slovakia | 259 |
 
-Generated: 2026-10-18T20:17:18.483Z
+Generated: 2026-10-18T22:40:01.299Z
