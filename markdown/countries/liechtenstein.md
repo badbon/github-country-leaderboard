@@ -18,7 +18,7 @@ Indexed users: 113
 | 4 | [msanft](https://github.com/msanft) | Moritz Sanft | Liechtenstein | 2,911 |
 | 5 | [PhilippHGerber](https://github.com/PhilippHGerber) | Philipp H. Gerber | Liechtenstein | 2,614 |
 | 6 | [ColinFrick](https://github.com/ColinFrick) | Colin Frick | Liechtenstein | 2,566 |
-| 7 | [AHaldner](https://github.com/AHaldner) | Andrin Haldner | Liechtenstein | 1,843 |
+| 7 | [AHaldner](https://github.com/AHaldner) | Andrin Haldner | Liechtenstein | 1,836 |
 | 8 | [marsop](https://github.com/marsop) | Alberto Gregorio | Ruggell, Liechtenstein | 1,690 |
 | 9 | [niklasfrick](https://github.com/niklasfrick) | Niklas Frick | Liechtenstein | 1,252 |
 | 10 | [iwhp](https://github.com/iwhp) | Harry Pfleger | Liechtenstein | 754 |
@@ -83,4 +83,4 @@ Indexed users: 113
 | 19 | [PhilippHGerber](https://github.com/PhilippHGerber) | Philipp H. Gerber | Liechtenstein | 14 |
 | 20 | [niklasfrick](https://github.com/niklasfrick) | Niklas Frick | Liechtenstein | 12 |
 
-Generated: 2026-10-18T07:46:06.367Z
+Generated: 2026-10-18T09:24:06.892Z

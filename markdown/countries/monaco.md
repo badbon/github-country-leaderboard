@@ -14,7 +14,7 @@ Indexed users: 142
 |---:|---|---|---|---:|
 | 1 | [AlexRLG98](https://github.com/AlexRLG98) | Alex_RLG | Monaco | 7,394 |
 | 2 | [DamienMonchaty](https://github.com/DamienMonchaty) | Damien Monchaty | Monaco | 6,050 |
-| 3 | [laurentqro](https://github.com/laurentqro) | Laurent Curau | Monaco | 5,169 |
+| 3 | [laurentqro](https://github.com/laurentqro) | Laurent Curau | Monaco | 5,139 |
 | 4 | [LovelessCodes](https://github.com/LovelessCodes) |  | Monaco | 3,647 |
 | 5 | [KristofM854](https://github.com/KristofM854) | Kristof Moeller | Monaco | 1,874 |
 | 6 | [silvainfm](https://github.com/silvainfm) | François-Marie Brych | Nashville & Monaco | 1,778 |
@@ -23,9 +23,9 @@ Indexed users: 142
 | 9 | [NicoBocq](https://github.com/NicoBocq) | Nicolas Bocquet | Marseille / Monaco | 951 |
 | 10 | [tatianamc](https://github.com/tatianamc) | Tatiana | Monaco | 783 |
 | 11 | [jz222](https://github.com/jz222) | Timo Zimmermann | Monte-Carlo, Monaco | 777 |
-| 12 | [Orion98MC](https://github.com/Orion98MC) | Thierry Passeron | Monaco | 591 |
+| 12 | [Orion98MC](https://github.com/Orion98MC) | Thierry Passeron | Monaco | 594 |
 | 13 | [asingizwe1](https://github.com/asingizwe1) | Dev. Louis Asingizwe | Monaco , Kampala/Uganda | 582 |
-| 14 | [vjandrea](https://github.com/vjandrea) | Andrea Bergamasco | Monaco | 561 |
+| 14 | [vjandrea](https://github.com/vjandrea) | Andrea Bergamasco | Monaco | 558 |
 | 15 | [auvents-brave](https://github.com/auvents-brave) | Stéphane | Monaco | 399 |
 | 16 | [giraudremi92](https://github.com/giraudremi92) | Rémi | Monaco | 372 |
 | 17 | [scribelia-anthony](https://github.com/scribelia-anthony) | Anthony | Monaco | 362 |
@@ -37,7 +37,7 @@ Indexed users: 142
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [laurentqro](https://github.com/laurentqro) | Laurent Curau | Monaco | 3,811 |
+| 1 | [laurentqro](https://github.com/laurentqro) | Laurent Curau | Monaco | 3,781 |
 | 2 | [LovelessCodes](https://github.com/LovelessCodes) |  | Monaco | 2,363 |
 | 3 | [KristofM854](https://github.com/KristofM854) | Kristof Moeller | Monaco | 1,633 |
 | 4 | [asingizwe1](https://github.com/asingizwe1) | Dev. Louis Asingizwe | Monaco , Kampala/Uganda | 582 |
@@ -83,4 +83,4 @@ Indexed users: 142
 | 19 | [coachklng12](https://github.com/coachklng12) |  | Monaco | 14 |
 | 20 | [co-stig](https://github.com/co-stig) | Constantine | Monaco | 13 |
 
-Generated: 2026-10-18T07:54:26.673Z
+Generated: 2026-10-18T09:29:28.728Z

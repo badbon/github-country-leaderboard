@@ -15,13 +15,13 @@ Indexed users: 185
 | 1 | [Kim9wang](https://github.com/Kim9wang) | Kim Wang | Pyongyang | 5,914 |
 | 2 | [advanced-rising](https://github.com/advanced-rising) | risingcore | Democratic People's Republic of Korea | 5,179 |
 | 3 | [boyesjo](https://github.com/boyesjo) | Boye Sjo | pyongyang | 4,390 |
-| 4 | [sakweli](https://github.com/sakweli) | Josh Sakweli | North Korea | 2,448 |
+| 4 | [sakweli](https://github.com/sakweli) | Josh Sakweli | North Korea | 2,443 |
 | 5 | [henxdl](https://github.com/henxdl) | henxdl | Pyongyang, North Korea | 1,704 |
 | 6 | [andrewlee1807](https://github.com/andrewlee1807) | Andrew | North Korea | 1,545 |
 | 7 | [The-Red-Serpent](https://github.com/The-Red-Serpent) | The_Red_Serpent | Pyongyang, North Korea | 1,284 |
-| 8 | [iam-orsu](https://github.com/iam-orsu) | Vamsi Krishna | North Korea | 823 |
+| 8 | [iam-orsu](https://github.com/iam-orsu) | Vamsi Krishna | North Korea | 834 |
 | 9 | [Aashaby](https://github.com/Aashaby) |  | North Korea | 673 |
-| 10 | [1zumiSagiri](https://github.com/1zumiSagiri) | Vincent Chan | Pyongyang | 595 |
+| 10 | [1zumiSagiri](https://github.com/1zumiSagiri) | Vincent Chan | Pyongyang | 594 |
 | 11 | [Duzopy](https://github.com/Duzopy) | Dupozy | North Korea | 574 |
 | 12 | [chihongze](https://github.com/chihongze) | chihongze |  P'yŏngyang, North Korea | 531 |
 | 13 | [dddqmmx](https://github.com/dddqmmx) | PaulPerkenstein | Pyongyang | 505 |
@@ -38,7 +38,7 @@ Indexed users: 185
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [The-Red-Serpent](https://github.com/The-Red-Serpent) | The_Red_Serpent | Pyongyang, North Korea | 1,284 |
-| 2 | [iam-orsu](https://github.com/iam-orsu) | Vamsi Krishna | North Korea | 823 |
+| 2 | [iam-orsu](https://github.com/iam-orsu) | Vamsi Krishna | North Korea | 834 |
 | 3 | [Duzopy](https://github.com/Duzopy) | Dupozy | North Korea | 574 |
 | 4 | [dddqmmx](https://github.com/dddqmmx) | PaulPerkenstein | Pyongyang | 505 |
 | 5 | [PookiePepelsss](https://github.com/PookiePepelsss) | Pookie | North Korea | 350 |
@@ -83,4 +83,4 @@ Indexed users: 185
 | 19 | [DillerOFire](https://github.com/DillerOFire) | VerpaSRP | North Korea | 14 |
 | 20 | [JeonJung-kook](https://github.com/JeonJung-kook) | Jeon Jung-kook Cantor | North Korea | 14 |
 
-Generated: 2026-10-18T08:02:59.189Z
+Generated: 2026-10-18T09:35:19.305Z

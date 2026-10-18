@@ -1,17 +1,17 @@
 # Public Contributions - Martinique
 
-Generated: 2026-10-18T07:52:35.345Z
+Generated: 2026-10-18T09:28:17.300Z
 
 Users: 75
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [glefait](https://github.com/glefait) | Guillem Lefait | @Holimetrix @tvty-official  |  | Fort-de-France, Martinique | 5205 |
+| 1 | [glefait](https://github.com/glefait) | Guillem Lefait | @Holimetrix @tvty-official  |  | Fort-de-France, Martinique | 5206 |
 | 2 | [pyleglise](https://github.com/pyleglise) | Pierre-Yves Léglise | axialdata |  | Schoelcher, Martinique | 5048 |
 | 3 | [diasjorge](https://github.com/diasjorge) | Jorge Dias | http://aerisnova.com | dias_jorge | Martinique | 1524 |
 | 4 | [p4cm4n972](https://github.com/p4cm4n972) | Manuel ADELE |  |  | Martinique | 716 |
 | 5 | [GuillaumeBld](https://github.com/GuillaumeBld) | Guillaume Bolivard |  |  | Chicago / Fort-de-France | 488 |
-| 6 | [blazux](https://github.com/blazux) | Vincent B. |  |  | Martinique | 417 |
+| 6 | [blazux](https://github.com/blazux) | Vincent B. |  |  | Martinique | 418 |
 | 7 | [esrid](https://github.com/esrid) | ADS | none | as_esrid | Martinique | 399 |
 | 8 | [steeven-js](https://github.com/steeven-js) | steeven_js | Madin.IA |  | Martinique | 372 |
 | 9 | [ricard33](https://github.com/ricard33) | Cédric RICARD |  |  | Martinique | 330 |

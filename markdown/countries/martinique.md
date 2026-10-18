@@ -13,7 +13,7 @@ Indexed users: 75
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [pyleglise](https://github.com/pyleglise) | Pierre-Yves Léglise | Schoelcher, Martinique | 5,328 |
-| 2 | [glefait](https://github.com/glefait) | Guillem Lefait | Fort-de-France, Martinique | 5,206 |
+| 2 | [glefait](https://github.com/glefait) | Guillem Lefait | Fort-de-France, Martinique | 5,207 |
 | 3 | [diasjorge](https://github.com/diasjorge) | Jorge Dias | Martinique | 5,086 |
 | 4 | [GuillaumeBld](https://github.com/GuillaumeBld) | Guillaume Bolivard | Chicago / Fort-de-France | 4,543 |
 | 5 | [bolom](https://github.com/bolom) | Bolo Michelin | Martinique | 3,140 |
@@ -23,7 +23,7 @@ Indexed users: 75
 | 9 | [esrid](https://github.com/esrid) | ADS | Martinique | 940 |
 | 10 | [vevedh](https://github.com/vevedh) | Hervé de CHAVIGNY | Martinique | 802 |
 | 11 | [LePtitBiscuit](https://github.com/LePtitBiscuit) | LePtitBiscuit | Martinique | 800 |
-| 12 | [blazux](https://github.com/blazux) | Vincent B. | Martinique | 466 |
+| 12 | [blazux](https://github.com/blazux) | Vincent B. | Martinique | 468 |
 | 13 | [ricard33](https://github.com/ricard33) | Cédric RICARD | Martinique | 399 |
 | 14 | [steeven-js](https://github.com/steeven-js) | steeven_js | Martinique | 372 |
 | 15 | [b1nj](https://github.com/b1nj) | B1nj | Martinique | 179 |
@@ -37,12 +37,12 @@ Indexed users: 75
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [glefait](https://github.com/glefait) | Guillem Lefait | Fort-de-France, Martinique | 5,205 |
+| 1 | [glefait](https://github.com/glefait) | Guillem Lefait | Fort-de-France, Martinique | 5,206 |
 | 2 | [pyleglise](https://github.com/pyleglise) | Pierre-Yves Léglise | Schoelcher, Martinique | 5,048 |
 | 3 | [diasjorge](https://github.com/diasjorge) | Jorge Dias | Martinique | 1,524 |
 | 4 | [p4cm4n972](https://github.com/p4cm4n972) | Manuel ADELE | Martinique | 716 |
 | 5 | [GuillaumeBld](https://github.com/GuillaumeBld) | Guillaume Bolivard | Chicago / Fort-de-France | 488 |
-| 6 | [blazux](https://github.com/blazux) | Vincent B. | Martinique | 417 |
+| 6 | [blazux](https://github.com/blazux) | Vincent B. | Martinique | 418 |
 | 7 | [esrid](https://github.com/esrid) | ADS | Martinique | 399 |
 | 8 | [steeven-js](https://github.com/steeven-js) | steeven_js | Martinique | 372 |
 | 9 | [ricard33](https://github.com/ricard33) | Cédric RICARD | Martinique | 330 |
@@ -83,4 +83,4 @@ Indexed users: 75
 | 19 | [LePtitBiscuit](https://github.com/LePtitBiscuit) | LePtitBiscuit | Martinique | 6 |
 | 20 | [phnxtrill](https://github.com/phnxtrill) | Quentin | Fort-de-France, Martinique | 6 |
 
-Generated: 2026-10-18T07:52:35.345Z
+Generated: 2026-10-18T09:28:17.300Z

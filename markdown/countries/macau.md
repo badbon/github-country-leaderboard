@@ -18,7 +18,7 @@ Indexed users: 439
 | 4 | [Chonwai](https://github.com/Chonwai) | Chonwai Un, Edison | Macau | 7,353 |
 | 5 | [kenischu](https://github.com/kenischu) | Kenis Chu | Macau | 6,099 |
 | 6 | [sou350121](https://github.com/sou350121) | KenSou | Macau | 5,527 |
-| 7 | [LunchBox](https://github.com/LunchBox) | Daniel | Macau | 3,509 |
+| 7 | [LunchBox](https://github.com/LunchBox) | Daniel | Macau | 3,513 |
 | 8 | [sfcheung](https://github.com/sfcheung) | Shu Fai Cheung | Macao | 3,351 |
 | 9 | [1595901624](https://github.com/1595901624) | Cloris | Macau | 3,333 |
 | 10 | [MUST-panxiao](https://github.com/MUST-panxiao) | Xiao Pan | Macau | 2,937 |
@@ -83,4 +83,4 @@ Indexed users: 439
 | 19 | [Boom5426](https://github.com/Boom5426) | Bo li (李波) | Macau | 68 |
 | 20 | [mugpeng](https://github.com/mugpeng) | Peng | macao | 67 |
 
-Generated: 2026-10-18T07:48:42.389Z
+Generated: 2026-10-18T09:25:16.010Z

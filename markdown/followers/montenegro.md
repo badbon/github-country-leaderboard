@@ -1,13 +1,13 @@
 # Followers - Montenegro
 
-Generated: 2026-10-18T07:54:35.247Z
+Generated: 2026-10-18T09:30:10.073Z
 
 Users: 888
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [therustmonk](https://github.com/therustmonk) | Denis Kolodin |  | therustmonk | Montenegro | 792 |
-| 2 | [dchest](https://github.com/dchest) | Dmitry Chestnykh | Coding Robots | dchest | Montenegro | 553 |
+| 2 | [dchest](https://github.com/dchest) | Dmitry Chestnykh | Coding Robots | dchest | Montenegro | 554 |
 | 3 | [1v4n4](https://github.com/1v4n4) |  | Fix The Status Quo |  | Montenegro | 485 |
 | 4 | [Const-me](https://github.com/Const-me) | Konstantin |  |  | Tivat, Montenegro | 363 |
 | 5 | [oranmehmetsirin](https://github.com/oranmehmetsirin) | Mehmet Şirin ORAN |  | MehmetSirinORAN | Montenegro | 346 |
@@ -16,7 +16,7 @@ Users: 888
 | 8 | [YuriiMotov](https://github.com/YuriiMotov) | Yurii Motov |  |  | Bar, Montenegro | 197 |
 | 9 | [sondreb](https://github.com/sondreb) | SondreB | @nostria-app @block-core @Liberstad | sondreb | Bar, Montenegro | 145 |
 | 10 | [cblp](https://github.com/cblp) | Yury Syrovetsky |  |  | Montenegro | 142 |
-| 11 | [lockie](https://github.com/lockie) | Andrew Kravchuk |  | awkravchuk | Montenegro, Podgorica | 136 |
+| 11 | [lockie](https://github.com/lockie) | Andrew Kravchuk |  | awkravchuk | Montenegro, Podgorica | 135 |
 | 12 | [arikon](https://github.com/arikon) | Sergey Belov | Yandex |  | Tivat, Montenegro | 131 |
 | 13 | [mifth](https://github.com/mifth) | mifth |  |  | Montenegro | 129 |
 | 14 | [ESA1979](https://github.com/ESA1979) | Emrah Süleyman Atalay |  | emrahatalay79 | Montenegro | 127 |

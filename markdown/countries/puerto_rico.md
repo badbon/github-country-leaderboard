@@ -16,7 +16,7 @@ Indexed users: 1,532
 | 2 | [mattvv](https://github.com/mattvv) | Matt Van | San Juan, Puerto Rico | 33,191 |
 | 3 | [angusdavis2](https://github.com/angusdavis2) |  | Dorado, Puerto Rico | 27,920 |
 | 4 | [robertjchristian](https://github.com/robertjchristian) | Robert Christian | Orlando FL \| Seattle WA \| San Juan PR | 22,250 |
-| 5 | [gabynevada](https://github.com/gabynevada) | Elvis Nieves | Puerto Rico | 19,949 |
+| 5 | [gabynevada](https://github.com/gabynevada) | Elvis Nieves | Puerto Rico | 20,645 |
 | 6 | [0xPlayerOne](https://github.com/0xPlayerOne) | A. Mahoney-Fernandes | San Juan, PR 🇵🇷 | 19,434 |
 | 7 | [bpamiri](https://github.com/bpamiri) | Peter Amiri | San Juan Capistrano, CA | 17,915 |
 | 8 | [devmoreno](https://github.com/devmoreno) | Edwin Moreno | Aguadilla, Puerto Rico | 8,232 |
@@ -83,4 +83,4 @@ Indexed users: 1,532
 | 19 | [rnegron](https://github.com/rnegron) | Raúl Negrón-Otero | Bayamón, Puerto Rico | 113 |
 | 20 | [hackingbutlegal](https://github.com/hackingbutlegal) | Jackie Singh | San Juan, PR | 107 |
 
-Generated: 2026-10-17T16:58:54.255Z
+Generated: 2026-10-18T09:41:00.257Z

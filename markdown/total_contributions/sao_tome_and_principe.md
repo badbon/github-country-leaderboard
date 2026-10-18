@@ -1,6 +1,6 @@
 # Total Contributions - São Tomé and Príncipe
 
-Generated: 2026-10-18T08:17:35.765Z
+Generated: 2026-10-18T09:46:43.461Z
 
 Users: 20
 

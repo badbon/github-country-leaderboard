@@ -1,6 +1,6 @@
 # Total Contributions - Puerto Rico
 
-Generated: 2026-10-17T16:58:54.255Z
+Generated: 2026-10-18T09:41:00.257Z
 
 Users: 1532
 
@@ -10,7 +10,7 @@ Users: 1532
 | 2 | [mattvv](https://github.com/mattvv) | Matt Van |  |  | San Juan, Puerto Rico | 33191 |
 | 3 | [angusdavis2](https://github.com/angusdavis2) |  | @alianzacap  | angusdav | Dorado, Puerto Rico | 27920 |
 | 4 | [robertjchristian](https://github.com/robertjchristian) | Robert Christian | @DRM3Labs  | 7SigmaCompanies | Orlando FL \| Seattle WA \| San Juan PR | 22250 |
-| 5 | [gabynevada](https://github.com/gabynevada) | Elvis Nieves |  | ElvisGNieves | Puerto Rico | 19949 |
+| 5 | [gabynevada](https://github.com/gabynevada) | Elvis Nieves |  | ElvisGNieves | Puerto Rico | 20645 |
 | 6 | [0xPlayerOne](https://github.com/0xPlayerOne) | A. Mahoney-Fernandes | @NiftyLeague  | 0xPlayerOne | San Juan, PR 🇵🇷 | 19434 |
 | 7 | [bpamiri](https://github.com/bpamiri) | Peter Amiri |  |  | San Juan Capistrano, CA | 17915 |
 | 8 | [devmoreno](https://github.com/devmoreno) | Edwin Moreno | @ProRanked  | devmoreno | Aguadilla, Puerto Rico | 8232 |

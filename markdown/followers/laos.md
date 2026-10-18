@@ -1,6 +1,6 @@
 # Followers - Laos
 
-Generated: 2026-10-18T07:41:56.086Z
+Generated: 2026-10-18T09:21:05.258Z
 
 Users: 360
 
@@ -12,8 +12,8 @@ Users: 360
 | 4 | [Alamnzr123](https://github.com/Alamnzr123) | Rahmad Alamsyah Nazaruddin |  |  | Laos | 37 |
 | 5 | [SourceDev-Lab](https://github.com/SourceDev-Lab) | SourceDev-Lab |  | XianExsensai | Vientiane, Lao | 37 |
 | 6 | [barluscuda](https://github.com/barluscuda) | BarlusCuda |  |  | Laos | 32 |
-| 7 | [Dan16ssd](https://github.com/Dan16ssd) | Sinthanavanh Sinsamphanh | MakerBox |  | Vientiane, Laos | 27 |
-| 8 | [tinbotu](https://github.com/tinbotu) | Akira KUMAGAI |  |  | ວຽງຈັນ, Laos | 27 |
+| 7 | [tinbotu](https://github.com/tinbotu) | Akira KUMAGAI |  |  | ວຽງຈັນ, Laos | 27 |
+| 8 | [Dan16ssd](https://github.com/Dan16ssd) | Sinthanavanh Sinsamphanh | MakerBox |  | Vientiane, Laos | 26 |
 | 9 | [khatthaphone](https://github.com/khatthaphone) | Khatthaphone Sengvilai |  |  | Vientiane, Laos | 24 |
 | 10 | [Tedev555](https://github.com/Tedev555) | Thanongsine Chanthakham | http://tedory.me |  | Vientiane, Laos | 24 |
 | 11 | [huevangxp](https://github.com/huevangxp) | Hue Vang | Freelancer |  | laos | 23 |

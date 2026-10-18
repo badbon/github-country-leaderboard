@@ -55,8 +55,8 @@ Indexed users: 805
 | 16 | [dolgoonnn](https://github.com/dolgoonnn) | Dolgoon | Ulaanbaatar, Mongolia | 493 |
 | 17 | [zolbooo](https://github.com/zolbooo) | Oleg | Ulaanbaatar, Mongolia | 489 |
 | 18 | [Namuun0521](https://github.com/Namuun0521) | Namuun | Ulaanbaatar, Mongolia | 484 |
-| 19 | [munkhorgil](https://github.com/munkhorgil) | Orgil | Mongolia | 476 |
-| 20 | [Zombie-01](https://github.com/Zombie-01) | adiyadorj badamsereejid | mongolia | 476 |
+| 19 | [Zombie-01](https://github.com/Zombie-01) | adiyadorj badamsereejid | mongolia | 477 |
+| 20 | [munkhorgil](https://github.com/munkhorgil) | Orgil | Mongolia | 476 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 805
 | 19 | [munkhjin0223](https://github.com/munkhjin0223) | Munkhjin | Ulaanbaatar, Mongolia | 64 |
 | 20 | [temuulennibno](https://github.com/temuulennibno) | Temuulen | Ulaanbaatar, Mongolia | 55 |
 
-Generated: 2026-10-18T09:14:10.805Z
+Generated: 2026-10-18T09:29:32.095Z

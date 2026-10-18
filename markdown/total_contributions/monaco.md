@@ -1,6 +1,6 @@
 # Total Contributions - Monaco
 
-Generated: 2026-10-18T07:54:26.673Z
+Generated: 2026-10-18T09:29:28.728Z
 
 Users: 142
 
@@ -8,7 +8,7 @@ Users: 142
 |---:|---|---|---|---|---|---:|
 | 1 | [AlexRLG98](https://github.com/AlexRLG98) | Alex_RLG |  |  | Monaco | 7394 |
 | 2 | [DamienMonchaty](https://github.com/DamienMonchaty) | Damien Monchaty | @MRX-Systems  |  | Monaco | 6050 |
-| 3 | [laurentqro](https://github.com/laurentqro) | Laurent Curau |  |  | Monaco | 5169 |
+| 3 | [laurentqro](https://github.com/laurentqro) | Laurent Curau |  |  | Monaco | 5139 |
 | 4 | [LovelessCodes](https://github.com/LovelessCodes) |  |  |  | Monaco | 3647 |
 | 5 | [KristofM854](https://github.com/KristofM854) | Kristof Moeller | International Atomic Energy Agency |  | Monaco | 1874 |
 | 6 | [silvainfm](https://github.com/silvainfm) | François-Marie Brych |  |  | Nashville & Monaco | 1778 |
@@ -17,9 +17,9 @@ Users: 142
 | 9 | [NicoBocq](https://github.com/NicoBocq) | Nicolas Bocquet | Inforca |  | Marseille / Monaco | 951 |
 | 10 | [tatianamc](https://github.com/tatianamc) | Tatiana |  |  | Monaco | 783 |
 | 11 | [jz222](https://github.com/jz222) | Timo Zimmermann | Mosaic S.A.R.L |  | Monte-Carlo, Monaco | 777 |
-| 12 | [Orion98MC](https://github.com/Orion98MC) | Thierry Passeron | Monte-Carlo Computing |  | Monaco | 591 |
+| 12 | [Orion98MC](https://github.com/Orion98MC) | Thierry Passeron | Monte-Carlo Computing |  | Monaco | 594 |
 | 13 | [asingizwe1](https://github.com/asingizwe1) | Dev. Louis Asingizwe | 7C | _Louis_A_ | Monaco , Kampala/Uganda | 582 |
-| 14 | [vjandrea](https://github.com/vjandrea) | Andrea Bergamasco | KeeSystem | vjandrea | Monaco | 561 |
+| 14 | [vjandrea](https://github.com/vjandrea) | Andrea Bergamasco | KeeSystem | vjandrea | Monaco | 558 |
 | 15 | [auvents-brave](https://github.com/auvents-brave) | Stéphane |  |  | Monaco | 399 |
 | 16 | [giraudremi92](https://github.com/giraudremi92) | Rémi |  |  | Monaco | 372 |
 | 17 | [scribelia-anthony](https://github.com/scribelia-anthony) | Anthony | Scribelia |  | Monaco | 362 |

@@ -1,12 +1,12 @@
 # Public Contributions - Monaco
 
-Generated: 2026-10-18T07:54:26.673Z
+Generated: 2026-10-18T09:29:28.728Z
 
 Users: 142
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [laurentqro](https://github.com/laurentqro) | Laurent Curau |  |  | Monaco | 3811 |
+| 1 | [laurentqro](https://github.com/laurentqro) | Laurent Curau |  |  | Monaco | 3781 |
 | 2 | [LovelessCodes](https://github.com/LovelessCodes) |  |  |  | Monaco | 2363 |
 | 3 | [KristofM854](https://github.com/KristofM854) | Kristof Moeller | International Atomic Energy Agency |  | Monaco | 1633 |
 | 4 | [asingizwe1](https://github.com/asingizwe1) | Dev. Louis Asingizwe | 7C | _Louis_A_ | Monaco , Kampala/Uganda | 582 |
