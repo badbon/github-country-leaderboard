@@ -1,6 +1,6 @@
 # Public Contributions - Angola
 
-Generated: 2026-10-18T22:52:25.605Z
+Generated: 2026-10-19T00:02:29.848Z
 
 Users: 2497
 
@@ -22,7 +22,7 @@ Users: 2497
 | 14 | [ercabsalias](https://github.com/ercabsalias) | Ernesto Cabingano Salias | @IS4S-Intelligence-Software-Solutions  |  | Angola - Luanda Viana Estalagem | 1169 |
 | 15 | [marcmav](https://github.com/marcmav) | Marciano Mavungo | 42 Luanda |  | Luanda, Angola | 1064 |
 | 16 | [kandadavid36](https://github.com/kandadavid36) | Kanda David | ngoladata.com.ao |  | Angola | 1060 |
-| 17 | [Wolf-Quiteque](https://github.com/Wolf-Quiteque) | Marcio Ragy Daveiga Quiteque |  |  | Luanda, Angola | 945 |
-| 18 | [joao-tambue](https://github.com/joao-tambue) | João Tambue |  |  | Angola/Luanda | 930 |
+| 17 | [joao-tambue](https://github.com/joao-tambue) | João Tambue |  |  | Angola/Luanda | 1018 |
+| 18 | [Wolf-Quiteque](https://github.com/Wolf-Quiteque) | Marcio Ragy Daveiga Quiteque |  |  | Luanda, Angola | 945 |
 | 19 | [DumiJDev](https://github.com/DumiJDev) | Dumildes Paulo |  | PauloDumildes | Luanda, Angola | 879 |
 | 20 | [gasparfranciscogulungo](https://github.com/gasparfranciscogulungo) | Gaspar Francisco Gulungo | EMJ CONSULTORIA LDA |  | Angola, Luanda, Viana | 879 |

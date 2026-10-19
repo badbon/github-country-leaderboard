@@ -1,6 +1,6 @@
 # Total Contributions - Sri Lanka
 
-Generated: 2026-10-18T22:41:14.758Z
+Generated: 2026-10-18T23:50:56.725Z
 
 Users: 18317
 
@@ -23,6 +23,6 @@ Users: 18317
 | 15 | [Rumeasiyan](https://github.com/Rumeasiyan) | Suseenthiran Arulraj Rumeasiyan | ​Hedge Island AI Consultancy | Rumeasiyan | Sri Lanka | 11348 |
 | 16 | [octalpixel](https://github.com/octalpixel) | Mithushan Jalangan | Asyncdot |  | Sri Lanka | 11043 |
 | 17 | [sameerasw](https://github.com/sameerasw) | sameerasw.com | @zone24x7 | sameeraswdotcom | Sri Lanka | 10693 |
-| 18 | [dineshliyanage0](https://github.com/dineshliyanage0) | Dinesh Priyankara Liyanage | DLAD Software Solutions |  | Colombo 07 | 9507 |
-| 19 | [kaveeshadinamidu](https://github.com/kaveeshadinamidu) | Kaveesha Dinamidu |  | dinamidu | Sri Lanka | 9172 |
-| 20 | [AhsanLozaa](https://github.com/AhsanLozaa) | Muhammad Ilyas Muhammad Ahsan | XASSANES | mahsan_ilyas | Sri Lanka | 9048 |
+| 18 | [vidwadeseram](https://github.com/vidwadeseram) | Vidwa De Seram | @skepjandi |  | Hanwella,Sri Lanka | 9820 |
+| 19 | [dineshliyanage0](https://github.com/dineshliyanage0) | Dinesh Priyankara Liyanage | DLAD Software Solutions |  | Colombo 07 | 9507 |
+| 20 | [kaveeshadinamidu](https://github.com/kaveeshadinamidu) | Kaveesha Dinamidu |  | dinamidu | Sri Lanka | 9172 |

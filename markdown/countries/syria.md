@@ -1,6 +1,6 @@
 # Syria
 
-Indexed users: 1,481
+Indexed users: 1,480
 
 | Leaderboard | Link |
 |---|---|
@@ -21,14 +21,14 @@ Indexed users: 1,481
 | 7 | [AhmedHMWI](https://github.com/AhmedHMWI) | Ahmed hamwi | Damascus | 3,125 |
 | 8 | [amurru](https://github.com/amurru) | Ammar Zerouk | Syria | 3,117 |
 | 9 | [sam-a1a](https://github.com/sam-a1a) | Sam | Damascus, Syrian Arab Republic | 2,916 |
-| 10 | [gaaferHajji2](https://github.com/gaaferHajji2) | Jafar Loka | Damascus - SY | 2,853 |
+| 10 | [gaaferHajji2](https://github.com/gaaferHajji2) | Jafar Loka | Damascus - SY | 2,836 |
 | 11 | [alsa7err90](https://github.com/alsa7err90) | abdulnafea | syria | 2,435 |
 | 12 | [eymeen](https://github.com/eymeen) | Ayman Eid | Syria, Turkey | 2,217 |
 | 13 | [rasheed-k-mozaffar](https://github.com/rasheed-k-mozaffar) | Rasheed K Mozaffar | Damascus, Syria | 2,129 |
 | 14 | [CodeFather-xe](https://github.com/CodeFather-xe) | CodeFather-xe | Syria | 2,127 |
 | 15 | [nachawati](https://github.com/nachawati) | Mohamad Omar Nachawati | Damascus, Syria | 2,088 |
-| 16 | [muhammedelsami](https://github.com/muhammedelsami) | Muhammed Elşami | Sivas, Syria | 1,999 |
-| 17 | [MahmoudSlameh](https://github.com/MahmoudSlameh) | Mahmoud Salameh | Damascus | 1,997 |
+| 16 | [MahmoudSlameh](https://github.com/MahmoudSlameh) | Mahmoud Salameh | Damascus | 2,028 |
+| 17 | [muhammedelsami](https://github.com/muhammedelsami) | Muhammed Elşami | Sivas, Syria | 1,999 |
 | 18 | [kutaibah](https://github.com/kutaibah) | Kutaibah Halima | Damascus, Syria | 1,906 |
 | 19 | [Yazan-Alrefaai](https://github.com/Yazan-Alrefaai) | Yazan Alrefaai | Damascus, Syria | 1,866 |
 | 20 | [OmarElseyyid](https://github.com/OmarElseyyid) | Mahmud Elseyyidomer | Syria / Aleppo | 1,838 |
@@ -38,7 +38,7 @@ Indexed users: 1,481
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [MustafaFares445](https://github.com/MustafaFares445) | Mustafa Fares | Aleppo/Syria | 4,653 |
-| 2 | [gaaferHajji2](https://github.com/gaaferHajji2) | Jafar Loka | Damascus - SY | 2,853 |
+| 2 | [gaaferHajji2](https://github.com/gaaferHajji2) | Jafar Loka | Damascus - SY | 2,836 |
 | 3 | [nachawati](https://github.com/nachawati) | Mohamad Omar Nachawati | Damascus, Syria | 2,060 |
 | 4 | [assem2023-habib](https://github.com/assem2023-habib) | Assem | Latakia, Syria | 1,654 |
 | 5 | [M7MMAD-OMAR](https://github.com/M7MMAD-OMAR) | Muhmad | Syria | 1,601 |
@@ -81,6 +81,6 @@ Indexed users: 1,481
 | 17 | [Makihataima-Ken](https://github.com/Makihataima-Ken) | Ahmad Soud | Damascus | 115 |
 | 18 | [muhammedelsami](https://github.com/muhammedelsami) | Muhammed Elşami | Sivas, Syria | 102 |
 | 19 | [nebrassy](https://github.com/nebrassy) | Nebrassy | Latakia, Syria | 102 |
-| 20 | [zaher](https://github.com/zaher) | Zaher Dirkey | Damascus, Syria | 95 |
+| 20 | [evoiz](https://github.com/evoiz) | Elias Al-bittar | Homs, Syria | 95 |
 
-Generated: 2026-10-18T23:31:45.280Z
+Generated: 2026-10-18T23:53:11.872Z

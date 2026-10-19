@@ -48,10 +48,10 @@ Indexed users: 7,083
 | 9 | [wsuits6](https://github.com/wsuits6) | wsuits6 | Ghana | 5,658 |
 | 10 | [AlatiphA](https://github.com/AlatiphA) | Abdul-Latif Ahmed  | Tamale, Ghana  | 5,017 |
 | 11 | [kelvinagyareyeboah](https://github.com/kelvinagyareyeboah) | Kelvin Agyare Yeboah | Accra | 4,879 |
-| 12 | [romeo-folie](https://github.com/romeo-folie) | Romeo Nutifafa Folie | Ghana | 3,201 |
-| 13 | [devekkx](https://github.com/devekkx) | Emmanuel Komla Kpendo | Accra, Ghana | 2,719 |
-| 14 | [maxwellagyapong](https://github.com/maxwellagyapong) | Maxwell Agyapong | Accra | 2,610 |
-| 15 | [s-kvng](https://github.com/s-kvng) | Nathaniel E. Adama | Accra \|\| Koforidua | 2,557 |
+| 12 | [s-kvng](https://github.com/s-kvng) | Nathaniel E. Adama | Accra \|\| Koforidua | 3,414 |
+| 13 | [romeo-folie](https://github.com/romeo-folie) | Romeo Nutifafa Folie | Ghana | 3,201 |
+| 14 | [devekkx](https://github.com/devekkx) | Emmanuel Komla Kpendo | Accra, Ghana | 2,719 |
+| 15 | [maxwellagyapong](https://github.com/maxwellagyapong) | Maxwell Agyapong | Accra | 2,610 |
 | 16 | [gideonadeti](https://github.com/gideonadeti) | Gideon Adeti | Accra, Ghana | 2,518 |
 | 17 | [collinsasante](https://github.com/collinsasante) | Collins Asante | Accra, Ghana | 2,420 |
 | 18 | [dominicnaatey](https://github.com/dominicnaatey) | Dominic Naatey | Accra | 2,387 |
@@ -83,4 +83,4 @@ Indexed users: 7,083
 | 19 | [Mmabiaa](https://github.com/Mmabiaa) | Boateng Prince Agyenim | Ghana | 326 |
 | 20 | [sedegah](https://github.com/sedegah) | Kimathi  Sedegah | Ghana | 310 |
 
-Generated: 2026-10-18T23:11:11.015Z
+Generated: 2026-10-19T00:21:31.681Z

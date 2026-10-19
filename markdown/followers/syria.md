@@ -1,8 +1,8 @@
 # Followers - Syria
 
-Generated: 2026-10-18T23:31:45.280Z
+Generated: 2026-10-18T23:53:11.872Z
 
-Users: 1481
+Users: 1480
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -25,4 +25,4 @@ Users: 1481
 | 17 | [Makihataima-Ken](https://github.com/Makihataima-Ken) | Ahmad Soud |  |  | Damascus | 115 |
 | 18 | [muhammedelsami](https://github.com/muhammedelsami) | Muhammed Elşami | DetaySoft |  | Sivas, Syria | 102 |
 | 19 | [nebrassy](https://github.com/nebrassy) | Nebrassy |  |  | Latakia, Syria | 102 |
-| 20 | [zaher](https://github.com/zaher) | Zaher Dirkey | Creative Solutions | zaherdirkey | Damascus, Syria | 95 |
+| 20 | [evoiz](https://github.com/evoiz) | Elias Al-bittar | MetaMAS |  | Homs, Syria | 95 |

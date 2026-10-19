@@ -53,8 +53,8 @@ Indexed users: 2,497
 | 14 | [ercabsalias](https://github.com/ercabsalias) | Ernesto Cabingano Salias | Angola - Luanda Viana Estalagem | 1,169 |
 | 15 | [marcmav](https://github.com/marcmav) | Marciano Mavungo | Luanda, Angola | 1,064 |
 | 16 | [kandadavid36](https://github.com/kandadavid36) | Kanda David | Angola | 1,060 |
-| 17 | [Wolf-Quiteque](https://github.com/Wolf-Quiteque) | Marcio Ragy Daveiga Quiteque | Luanda, Angola | 945 |
-| 18 | [joao-tambue](https://github.com/joao-tambue) | João Tambue | Angola/Luanda | 930 |
+| 17 | [joao-tambue](https://github.com/joao-tambue) | João Tambue | Angola/Luanda | 1,018 |
+| 18 | [Wolf-Quiteque](https://github.com/Wolf-Quiteque) | Marcio Ragy Daveiga Quiteque | Luanda, Angola | 945 |
 | 19 | [DumiJDev](https://github.com/DumiJDev) | Dumildes Paulo | Luanda, Angola | 879 |
 | 20 | [gasparfranciscogulungo](https://github.com/gasparfranciscogulungo) | Gaspar Francisco Gulungo | Angola, Luanda, Viana | 879 |
 
@@ -83,4 +83,4 @@ Indexed users: 2,497
 | 19 | [manuelernesto](https://github.com/manuelernesto) | Manuel Ernesto | Angola | 166 |
 | 20 | [Jovanysfive](https://github.com/Jovanysfive) | Job Bento | Angola/Luanda | 152 |
 
-Generated: 2026-10-18T22:52:25.605Z
+Generated: 2026-10-19T00:02:29.848Z

@@ -21,7 +21,7 @@ Indexed users: 37
 | 7 | [GeraldR12](https://github.com/GeraldR12) | Nathan R | Aruba | 182 |
 | 8 | [StephanZaat](https://github.com/StephanZaat) | Stephan Zaat | Aruba | 130 |
 | 9 | [Veknica](https://github.com/Veknica) | Pola Sendviča | Oranjestad | 72 |
-| 10 | [waterkip](https://github.com/waterkip) | Wesley Schwengle | Aruba | 47 |
+| 10 | [waterkip](https://github.com/waterkip) | Wesley Schwengle | Aruba | 48 |
 | 11 | [Vortex93](https://github.com/Vortex93) | Derwin Tromp | Oranjestad, Aruba | 44 |
 | 12 | [hfsyung](https://github.com/hfsyung) |  | Aruba | 36 |
 | 13 | [JunTechWebSolutions](https://github.com/JunTechWebSolutions) | Juny Engelhart (AWS Aruba) | Oranjestad, Aruba | 17 |
@@ -43,7 +43,7 @@ Indexed users: 37
 | 4 | [StephanZaat](https://github.com/StephanZaat) | Stephan Zaat | Aruba | 130 |
 | 5 | [GeraldR12](https://github.com/GeraldR12) | Nathan R | Aruba | 114 |
 | 6 | [Veknica](https://github.com/Veknica) | Pola Sendviča | Oranjestad | 72 |
-| 7 | [waterkip](https://github.com/waterkip) | Wesley Schwengle | Aruba | 47 |
+| 7 | [waterkip](https://github.com/waterkip) | Wesley Schwengle | Aruba | 48 |
 | 8 | [Vortex93](https://github.com/Vortex93) | Derwin Tromp | Oranjestad, Aruba | 44 |
 | 9 | [hfsyung](https://github.com/hfsyung) |  | Aruba | 36 |
 | 10 | [flacle](https://github.com/flacle) | Francis Laclé | Aruba | 30 |
@@ -83,4 +83,4 @@ Indexed users: 37
 | 19 | [DushiRox](https://github.com/DushiRox) | Roxana Rodriguez | Oranjestad, Aruba | 4 |
 | 20 | [JunyEngelhart](https://github.com/JunyEngelhart) | JunTech  (AWS Aruba) | Oranjestad, Aruba | 4 |
 
-Generated: 2026-10-18T22:54:47.090Z
+Generated: 2026-10-19T00:03:05.698Z

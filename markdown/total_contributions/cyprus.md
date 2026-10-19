@@ -1,6 +1,6 @@
 # Total Contributions - Cyprus
 
-Generated: 2026-10-18T23:05:16.321Z
+Generated: 2026-10-19T00:14:03.101Z
 
 Users: 2725
 
@@ -11,9 +11,9 @@ Users: 2725
 | 3 | [programmeradu](https://github.com/programmeradu) | Samuel Adu-Berekorang | @stapolar  |  | nicosia, cyprus | 23421 |
 | 4 | [denizgolbas](https://github.com/denizgolbas) | Deniz Gölbaş | Retrocket | denizgolbas | Cyprus | 19015 |
 | 5 | [megasteve19](https://github.com/megasteve19) | Abdulkadir Cemiloğlu | Retrocket |  | Cyprus, Nicosia | 17697 |
-| 6 | [miguelrisero](https://github.com/miguelrisero) | Miguel Rasero | BetterGroup Holding Inc |  | Cyprus | 15244 |
-| 7 | [andre-kuzminykh](https://github.com/andre-kuzminykh) | Andre Kuzminykh | Andre AI Technologies |  | Cyprus | 14639 |
-| 8 | [ei-grad](https://github.com/ei-grad) | Andrew Grigorev | FaceApp |  | Limassol, Cyprus | 14588 |
+| 6 | [ei-grad](https://github.com/ei-grad) | Andrew Grigorev | FaceApp |  | Limassol, Cyprus | 16436 |
+| 7 | [miguelrisero](https://github.com/miguelrisero) | Miguel Rasero | BetterGroup Holding Inc |  | Cyprus | 15244 |
+| 8 | [andre-kuzminykh](https://github.com/andre-kuzminykh) | Andre Kuzminykh | Andre AI Technologies |  | Cyprus | 14639 |
 | 9 | [openmindednewby](https://github.com/openmindednewby) | Demetrios Loizides |  |  | Cyprus | 14379 |
 | 10 | [jin0x](https://github.com/jin0x) | John Leskas | RSH Creative Web Studio LTD | john_leskas | Limassol, Cyprus | 13492 |
 | 11 | [iskifogl](https://github.com/iskifogl) | Abdullah İskifoğlu |  |  | Cyprus | 11983 |

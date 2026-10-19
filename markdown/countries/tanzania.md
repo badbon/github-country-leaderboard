@@ -46,9 +46,9 @@ Indexed users: 2,037
 | 7 | [Barakael](https://github.com/Barakael) | barakael | Dar-es-salaam, Tanzania | 3,072 |
 | 8 | [APKnation](https://github.com/APKnation) | apk | DODOMA -TANZANIA | 3,061 |
 | 9 | [ALTUM-02](https://github.com/ALTUM-02) | Altum02 | Dodoma - Tanzania | 2,851 |
-| 10 | [zuck30](https://github.com/zuck30) | Shadrackovsky | Tanzania | 2,351 |
-| 11 | [wizystudios](https://github.com/wizystudios) | khalifa Nadhir | tanzania | 1,975 |
-| 12 | [klaus-gudy](https://github.com/klaus-gudy) | Goodluck Madadi | Tanzania | 1,893 |
+| 10 | [klaus-gudy](https://github.com/klaus-gudy) | Goodluck Madadi | Tanzania | 2,416 |
+| 11 | [zuck30](https://github.com/zuck30) | Shadrackovsky | Tanzania | 2,351 |
+| 12 | [wizystudios](https://github.com/wizystudios) | khalifa Nadhir | tanzania | 1,975 |
 | 13 | [Heracraft](https://github.com/Heracraft) | Nehemia Kaaya | Tanzania | 1,826 |
 | 14 | [elishagerson](https://github.com/elishagerson) | Elisha Gerson | Mbeya, Tanzania | 1,711 |
 | 15 | [Gudi650](https://github.com/Gudi650) | Godluck Emmanuel Msangi | Tanzania | 1,551 |
@@ -83,4 +83,4 @@ Indexed users: 2,037
 | 19 | [3nock](https://github.com/3nock) | Enock | Dar es Salaam, Tanzania | 187 |
 | 20 | [Mrhanstz](https://github.com/Mrhanstz) | HANSTZ | Africa Dodoma | 179 |
 
-Generated: 2026-10-18T22:44:41.495Z
+Generated: 2026-10-18T23:53:25.955Z

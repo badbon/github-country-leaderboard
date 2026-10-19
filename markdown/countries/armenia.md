@@ -31,7 +31,7 @@ Indexed users: 4,034
 | 17 | [anatoly-scherbakov](https://github.com/anatoly-scherbakov) | Anatoly Scherbakov | Yerevan, Armenia | 7,340 |
 | 18 | [melontron](https://github.com/melontron) |  | Yerevan | 6,914 |
 | 19 | [otanim](https://github.com/otanim) | Arman Yeghiazaryan | Armenia, Yerevan | 6,913 |
-| 20 | [eventbalancer](https://github.com/eventbalancer) | Aleksei Filippov | Armenia, Yerevan | 6,763 |
+| 20 | [namebogsecret](https://github.com/namebogsecret) | Vladimir Podlevskikh | Armenia Yerevan | 6,418 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 4,034
 | 19 | [khoren93](https://github.com/khoren93) | Khoren Markosyan | Yerevan, Armenia | 249 |
 | 20 | [nightwing](https://github.com/nightwing) | Harutyun Amirjanyan | Yerevan, Armenia | 236 |
 
-Generated: 2026-10-18T22:54:08.751Z
+Generated: 2026-10-19T00:03:03.491Z

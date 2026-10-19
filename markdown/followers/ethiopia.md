@@ -1,6 +1,6 @@
 # Followers - Ethiopia
 
-Generated: 2026-10-18T23:09:22.029Z
+Generated: 2026-10-19T00:18:27.893Z
 
 Users: 6683
 
@@ -15,14 +15,14 @@ Users: 6683
 | 7 | [devefy](https://github.com/devefy) | Abdulkerim Hamid |  |  | Ethiopia, Adama | 1523 |
 | 8 | [Yonatankinfe](https://github.com/Yonatankinfe) | Yonatan Kinfe | Tekhaf Trading PLC | Yonatankinfe_B | Ethiopia/Addis Ababa | 1157 |
 | 9 | [bayisagit](https://github.com/bayisagit) | Bayisa Daba | Addis Ababa Science And Technology University |  | Addis Ababa Ethiopia | 1124 |
-| 10 | [Nathanage3](https://github.com/Nathanage3) | Nathan Hailu |  | nattthy954 | Addis Ababa, Ethiopia | 1112 |
+| 10 | [Nathanage3](https://github.com/Nathanage3) | Nathan Hailu |  | nattthy954 | Addis Ababa, Ethiopia | 1088 |
 | 11 | [codingWithElias](https://github.com/codingWithElias) | Elias Yasin | @codingWithElias |  | Alem Gena, Ethiopia | 799 |
 | 12 | [dagmawibabi](https://github.com/dagmawibabi) | Dagmawi Babi | Dream Intelligence | DagmawiBabi | Addis Ababa, Ethiopia | 774 |
 | 13 | [frectonz](https://github.com/frectonz) | Fraol Lemecha |  | frectonz | Ethiopia, Addis Abeba | 668 |
 | 14 | [TadesseAsrie](https://github.com/TadesseAsrie) | Tadesse Asrie |  |  | Addis Ababa Ethiopia | 665 |
 | 15 | [melaku2402](https://github.com/melaku2402) | Melaku Adane | Self-employed |  | Addis Ababa, Ethiopia | 620 |
-| 16 | [lealemb](https://github.com/lealemb) | Lealem Birhanu  |  |  | Addis Ababa, Ethiopia | 610 |
+| 16 | [lealemb](https://github.com/lealemb) | Lealem Birhanu  |  |  | Addis Ababa, Ethiopia | 591 |
 | 17 | [yared2124](https://github.com/yared2124) | yared aregayehu |  | aregayehu68339 | Addis Ababa | 587 |
-| 18 | [Yohannes90](https://github.com/Yohannes90) | Yohannes Mekonnen |  |  | Ethiopia | 557 |
-| 19 | [Olyadtemesgen](https://github.com/Olyadtemesgen) | Olyad Temesgen Amsalu | @xgnosis |  | Addis Ababa, Ethiopia | 519 |
-| 20 | [yonasleykun27](https://github.com/yonasleykun27) | Yonas Leykun |  |  | Addis Ababa, Ethiopia  | 515 |
+| 18 | [Yohannes90](https://github.com/Yohannes90) | Yohannes Mekonnen |  |  | Ethiopia | 553 |
+| 19 | [yonasleykun27](https://github.com/yonasleykun27) | Yonas Leykun |  |  | Addis Ababa, Ethiopia  | 511 |
+| 20 | [Olyadtemesgen](https://github.com/Olyadtemesgen) | Olyad Temesgen Amsalu | @xgnosis |  | Addis Ababa, Ethiopia | 501 |

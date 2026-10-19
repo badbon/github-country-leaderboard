@@ -1,8 +1,8 @@
 # Followers - Bulgaria
 
-Generated: 2026-10-18T22:59:21.698Z
+Generated: 2026-10-19T00:09:11.426Z
 
-Users: 14072
+Users: 14071
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

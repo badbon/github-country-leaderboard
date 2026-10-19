@@ -29,9 +29,9 @@ Indexed users: 18,317
 | 15 | [Rumeasiyan](https://github.com/Rumeasiyan) | Suseenthiran Arulraj Rumeasiyan | Sri Lanka | 11,348 |
 | 16 | [octalpixel](https://github.com/octalpixel) | Mithushan Jalangan | Sri Lanka | 11,043 |
 | 17 | [sameerasw](https://github.com/sameerasw) | sameerasw.com | Sri Lanka | 10,693 |
-| 18 | [dineshliyanage0](https://github.com/dineshliyanage0) | Dinesh Priyankara Liyanage | Colombo 07 | 9,507 |
-| 19 | [kaveeshadinamidu](https://github.com/kaveeshadinamidu) | Kaveesha Dinamidu | Sri Lanka | 9,172 |
-| 20 | [AhsanLozaa](https://github.com/AhsanLozaa) | Muhammad Ilyas Muhammad Ahsan | Sri Lanka | 9,048 |
+| 18 | [vidwadeseram](https://github.com/vidwadeseram) | Vidwa De Seram | Hanwella,Sri Lanka | 9,820 |
+| 19 | [dineshliyanage0](https://github.com/dineshliyanage0) | Dinesh Priyankara Liyanage | Colombo 07 | 9,507 |
+| 20 | [kaveeshadinamidu](https://github.com/kaveeshadinamidu) | Kaveesha Dinamidu | Sri Lanka | 9,172 |
 
 ## Public Contributions
 
@@ -50,13 +50,13 @@ Indexed users: 18,317
 | 11 | [DARKDRAGON-LK](https://github.com/DARKDRAGON-LK) | Lawan Chaamindu Jayalath Samarasekara | Galle, Sri Lanka | 5,259 |
 | 12 | [Roshen-Perera](https://github.com/Roshen-Perera) | Roshen Perera | Sri Lanka | 5,122 |
 | 13 | [shenald-dev](https://github.com/shenald-dev) | Shenal D | Sri Lanka | 5,010 |
-| 14 | [lahirunirmalx](https://github.com/lahirunirmalx) | Lahiru | Colombo,Srilanka | 4,841 |
-| 15 | [themiyadilann](https://github.com/themiyadilann) | Themiya Dilan | Sri Lanka | 4,652 |
-| 16 | [yasandu0505](https://github.com/yasandu0505) | Yasandu Imanjith  | Sri Lanka | 4,600 |
-| 17 | [randikapra](https://github.com/randikapra) | Randika Prabashwara | Colombo, Sri Lanka | 4,493 |
-| 18 | [octalpixel](https://github.com/octalpixel) | Mithushan Jalangan | Sri Lanka | 4,367 |
-| 19 | [Cookie-Cat21](https://github.com/Cookie-Cat21) | Cookie_Cat21 | Sri Lanka | 4,267 |
-| 20 | [Commie-debug](https://github.com/Commie-debug) | Commie45 | Colombo | 4,176 |
+| 14 | [vidwadeseram](https://github.com/vidwadeseram) | Vidwa De Seram | Hanwella,Sri Lanka | 4,918 |
+| 15 | [lahirunirmalx](https://github.com/lahirunirmalx) | Lahiru | Colombo,Srilanka | 4,841 |
+| 16 | [themiyadilann](https://github.com/themiyadilann) | Themiya Dilan | Sri Lanka | 4,652 |
+| 17 | [yasandu0505](https://github.com/yasandu0505) | Yasandu Imanjith  | Sri Lanka | 4,600 |
+| 18 | [randikapra](https://github.com/randikapra) | Randika Prabashwara | Colombo, Sri Lanka | 4,493 |
+| 19 | [octalpixel](https://github.com/octalpixel) | Mithushan Jalangan | Sri Lanka | 4,367 |
+| 20 | [Cookie-Cat21](https://github.com/Cookie-Cat21) | Cookie_Cat21 | Sri Lanka | 4,267 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 18,317
 | 19 | [shenald-dev](https://github.com/shenald-dev) | Shenal D | Sri Lanka | 648 |
 | 20 | [Ihsas01](https://github.com/Ihsas01) | Mohamed Ihsas | Colombo , Srilanka | 639 |
 
-Generated: 2026-10-18T22:41:14.758Z
+Generated: 2026-10-18T23:50:56.725Z

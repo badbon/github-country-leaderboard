@@ -56,7 +56,7 @@ Indexed users: 486
 | 17 | [Zangafigue](https://github.com/Zangafigue) | Zangafigué Mathias TRAORE | Koudougou, Burkina Faso | 444 |
 | 18 | [NICE-DEV226](https://github.com/NICE-DEV226) | Azaël Wend-panga SAWADOGO  | Burkina Faso | 433 |
 | 19 | [gosse123](https://github.com/gosse123) | Nahounou gosse  | Burkina Faso  | 369 |
-| 20 | [rxzkie](https://github.com/rxzkie) |  | Ouagadougou, Burkina Faso | 361 |
+| 20 | [rxzkie](https://github.com/rxzkie) |  | Ouagadougou, Burkina Faso | 360 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 486
 | 19 | [sokevinjonas](https://github.com/sokevinjonas) | SO Kevin Jonas Gningnabe | BURKINA FASO | 38 |
 | 20 | [kulturman](https://github.com/kulturman) | Arnaud Bakyono  | Ouagadougou | 36 |
 
-Generated: 2026-10-18T22:59:53.663Z
+Generated: 2026-10-19T00:09:14.804Z

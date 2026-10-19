@@ -1,6 +1,6 @@
 # Total Contributions - Armenia
 
-Generated: 2026-10-18T22:54:08.751Z
+Generated: 2026-10-19T00:03:03.491Z
 
 Users: 4034
 
@@ -25,4 +25,4 @@ Users: 4034
 | 17 | [anatoly-scherbakov](https://github.com/anatoly-scherbakov) | Anatoly Scherbakov | @datafold  |  | Yerevan, Armenia | 7340 |
 | 18 | [melontron](https://github.com/melontron) |  | @2hzai  |  | Yerevan | 6914 |
 | 19 | [otanim](https://github.com/otanim) | Arman Yeghiazaryan |  |  | Armenia, Yerevan | 6913 |
-| 20 | [eventbalancer](https://github.com/eventbalancer) | Aleksei Filippov | BotScale |  | Armenia, Yerevan | 6763 |
+| 20 | [namebogsecret](https://github.com/namebogsecret) | Vladimir Podlevskikh |  |  | Armenia Yerevan | 6418 |

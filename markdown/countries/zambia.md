@@ -46,8 +46,8 @@ Indexed users: 1,337
 | 7 | [Sonickmumba](https://github.com/Sonickmumba) | Sonick Mumba | Lusaka, Zambia | 1,069 |
 | 8 | [Simbarasheat](https://github.com/Simbarasheat) | Simbarashe Augustus Tembo | Zambia | 1,051 |
 | 9 | [rly0nheart](https://github.com/rly0nheart) | Ritchie Mwewa | Zambia | 986 |
-| 10 | [MS0C54073](https://github.com/MS0C54073) | Musonda Salimu | Zambia | 829 |
-| 11 | [Pietrols](https://github.com/Pietrols) | Peter Kabamba | Kitwe, Zambia | 800 |
+| 10 | [Pietrols](https://github.com/Pietrols) | Peter Kabamba | Kitwe, Zambia | 963 |
+| 11 | [MS0C54073](https://github.com/MS0C54073) | Musonda Salimu | Zambia | 829 |
 | 12 | [SilasChalwe](https://github.com/SilasChalwe) | Silas Chalwe  | Zambia  | 742 |
 | 13 | [214Toto](https://github.com/214Toto) | ToToZ Collection | Ndola, Copperbelt, Zambia | 731 |
 | 14 | [Mukela12](https://github.com/Mukela12) | Mukela Katungu | Lusaka | 685 |
@@ -83,4 +83,4 @@ Indexed users: 1,337
 | 19 | [blessedjasonmwanza](https://github.com/blessedjasonmwanza) | Blessed Jason Mwanza |  Lusaka, Zambia | 104 |
 | 20 | [Eathorne2](https://github.com/Eathorne2) | Eathorne | Lusaka, Zambia | 103 |
 
-Generated: 2026-10-18T22:50:42.227Z
+Generated: 2026-10-19T00:00:33.441Z

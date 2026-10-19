@@ -52,7 +52,7 @@ Indexed users: 1,798
 | 13 | [Josiasange37](https://github.com/Josiasange37) | AKANA SIGNING JOSIAS AARON | Cameroon | 1,635 |
 | 14 | [Allmight2002](https://github.com/Allmight2002) | Raymond Mbassi | Cameroon | 1,484 |
 | 15 | [pythonbrad](https://github.com/pythonbrad) | Brady Fomegne | Douala, Cameroon | 1,448 |
-| 16 | [Hermann-Core](https://github.com/Hermann-Core) | Hermann Core | Cameroon | 1,447 |
+| 16 | [Hermann-Core](https://github.com/Hermann-Core) | Hermann Core | Cameroon | 1,421 |
 | 17 | [Koufan-De-King](https://github.com/Koufan-De-King) | King-Koufan | Cameroon | 1,419 |
 | 18 | [JOELNATHAN544](https://github.com/JOELNATHAN544) | Joel Nathan Wanko | Cameroon, Bangangté  | 1,388 |
 | 19 | [PromiseFru](https://github.com/PromiseFru) | Promise Fru | Cameroon | 1,354 |
@@ -83,4 +83,4 @@ Indexed users: 1,798
 | 19 | [baimamboukar](https://github.com/baimamboukar) | BAIMAM BOUKAR JEAN JACQUES | Yaoundé | 170 |
 | 20 | [Suprememajor](https://github.com/Suprememajor) | Nobert Etta | Buea, Cameroon | 168 |
 
-Generated: 2026-10-18T23:00:33.681Z
+Generated: 2026-10-19T00:10:18.445Z

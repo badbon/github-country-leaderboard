@@ -18,8 +18,8 @@ Indexed users: 37
 | 4 | [smcqueen-95](https://github.com/smcqueen-95) | Samira Mc Queen | Grenada | 250 |
 | 5 | [davidwilson001](https://github.com/davidwilson001) | David Wilson | Grenada | 187 |
 | 6 | [lenuswalker](https://github.com/lenuswalker) | Lenus Walker | Grenada | 146 |
-| 7 | [AlexS473](https://github.com/AlexS473) | Shereece Victor | Grenada | 115 |
-| 8 | [mmsacky](https://github.com/mmsacky) | Michael Msacky | Grenada, W.I | 45 |
+| 7 | [AlexS473](https://github.com/AlexS473) | Shereece Victor | Grenada | 116 |
+| 8 | [mmsacky](https://github.com/mmsacky) | Michael Msacky | Grenada, W.I | 46 |
 | 9 | [trudygill](https://github.com/trudygill) | Trudy Gill | Grenada | 31 |
 | 10 | [RockimSaintBernard](https://github.com/RockimSaintBernard) | Rockim St. Bernard | Grenada, West Indies | 28 |
 | 11 | [Edixlk](https://github.com/Edixlk) | jsh.dev | Grenada | 15 |
@@ -40,7 +40,7 @@ Indexed users: 37
 | 1 | [AhndreWalters](https://github.com/AhndreWalters) | Ahndre Walters | Grenada, West Indies | 610 |
 | 2 | [lenuswalker](https://github.com/lenuswalker) | Lenus Walker | Grenada | 102 |
 | 3 | [kerrongordon](https://github.com/kerrongordon) | kerron gordon | Grenada | 81 |
-| 4 | [mmsacky](https://github.com/mmsacky) | Michael Msacky | Grenada, W.I | 45 |
+| 4 | [mmsacky](https://github.com/mmsacky) | Michael Msacky | Grenada, W.I | 46 |
 | 5 | [trudygill](https://github.com/trudygill) | Trudy Gill | Grenada | 29 |
 | 6 | [RockimSaintBernard](https://github.com/RockimSaintBernard) | Rockim St. Bernard | Grenada, West Indies | 28 |
 | 7 | [Edixlk](https://github.com/Edixlk) | jsh.dev | Grenada | 15 |
@@ -83,4 +83,4 @@ Indexed users: 37
 | 19 | [lenuswalker](https://github.com/lenuswalker) | Lenus Walker | Grenada | 3 |
 | 20 | [OmariCelestine](https://github.com/OmariCelestine) | Omari Celestine | Grenada | 3 |
 
-Generated: 2026-10-18T23:12:49.803Z
+Generated: 2026-10-19T00:22:06.098Z

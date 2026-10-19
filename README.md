@@ -14,11 +14,11 @@ Top GitHub users by country, ranked from public GitHub profile and contribution 
 
 | Country | Indexed Users | Public | Total | Followers |
 |---|---:|---|---|---|
-| [Marshall Islands](markdown/countries/marshall_islands.md) | 11 | [Public](markdown/public_contributions/marshall_islands.md) | [Total](markdown/total_contributions/marshall_islands.md) | [Followers](markdown/followers/marshall_islands.md) |
-| [Dominican Republic](markdown/countries/dominican_republic.md) | 3,299 | [Public](markdown/public_contributions/dominican_republic.md) | [Total](markdown/total_contributions/dominican_republic.md) | [Followers](markdown/followers/dominican_republic.md) |
-| [Botswana](markdown/countries/botswana.md) | 533 | [Public](markdown/public_contributions/botswana.md) | [Total](markdown/total_contributions/botswana.md) | [Followers](markdown/followers/botswana.md) |
-| [Switzerland](markdown/countries/switzerland.md) | 24,078 | [Public](markdown/public_contributions/switzerland.md) | [Total](markdown/total_contributions/switzerland.md) | [Followers](markdown/followers/switzerland.md) |
-| [Kuwait](markdown/countries/kuwait.md) | 797 | [Public](markdown/public_contributions/kuwait.md) | [Total](markdown/total_contributions/kuwait.md) | [Followers](markdown/followers/kuwait.md) |
+| [Togo](markdown/countries/togo.md) | 679 | [Public](markdown/public_contributions/togo.md) | [Total](markdown/total_contributions/togo.md) | [Followers](markdown/followers/togo.md) |
+| [Colombia](markdown/countries/colombia.md) | 29,150 | [Public](markdown/public_contributions/colombia.md) | [Total](markdown/total_contributions/colombia.md) | [Followers](markdown/followers/colombia.md) |
+| [Greece](markdown/countries/greece.md) | 15,546 | [Public](markdown/public_contributions/greece.md) | [Total](markdown/total_contributions/greece.md) | [Followers](markdown/followers/greece.md) |
+| [Austria](markdown/countries/austria.md) | 18,243 | [Public](markdown/public_contributions/austria.md) | [Total](markdown/total_contributions/austria.md) | [Followers](markdown/followers/austria.md) |
+| [Bouvet Island](markdown/countries/bouvet_island.md) | 6 | [Public](markdown/public_contributions/bouvet_island.md) | [Total](markdown/total_contributions/bouvet_island.md) | [Followers](markdown/followers/bouvet_island.md) |
 
 ## How It Works
 
@@ -26,4 +26,4 @@ The collector searches GitHub users by self-reported profile location, keeps use
 
 Locations are not verified. The raw profile location is preserved, and country assignment uses deterministic country, alias, city, and exact phrase rules.
 
-Generated: 2026-10-18T23:47:51.429Z
+Generated: 2026-10-19T00:30:08.855Z
