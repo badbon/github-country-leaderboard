@@ -14,7 +14,7 @@ Indexed users: 563
 |---:|---|---|---|---:|
 | 1 | [svcrashh](https://github.com/svcrashh) | crashh | Praia Grande | 8,008 |
 | 2 | [Kowts](https://github.com/Kowts) | Joselito Lima Coutinho | Praia, Cabo Verde | 3,229 |
-| 3 | [Balula12](https://github.com/Balula12) | Gustavo Santos Balula | Praia Grande, SP | 2,763 |
+| 3 | [Balula12](https://github.com/Balula12) | Gustavo Santos Balula | Praia Grande, SP | 2,768 |
 | 4 | [natanvalimcardoso](https://github.com/natanvalimcardoso) | Natan Valim | Praia Grande - SC | 2,491 |
 | 5 | [Brocy](https://github.com/Brocy) | Brocy Centeio | Praia, Cabo Verde | 2,099 |
 | 6 | [ThiagoCI](https://github.com/ThiagoCI) | Thiago C Iglesias | Praia Grande - SP | 1,923 |
@@ -83,4 +83,4 @@ Indexed users: 563
 | 19 | [Murzchnvok](https://github.com/Murzchnvok) | Pedro Araujo | Praia de Jatobá, SE - Brasil | 58 |
 | 20 | [FredSoares](https://github.com/FredSoares) | Frederico Soares | Cape Verde | 54 |
 
-Generated: 2026-10-19T14:18:45.516Z
+Generated: 2026-10-19T15:42:27.513Z

@@ -15,9 +15,9 @@ Indexed users: 266
 | 1 | [tshewang-rinzin](https://github.com/tshewang-rinzin) | Tshewang Rinzin | Thimphu, Bhutan | 6,270 |
 | 2 | [tenztshering](https://github.com/tenztshering) | Tenzin Tshering | Thimphu, Bhutan | 5,070 |
 | 3 | [Kzoeps](https://github.com/Kzoeps) | Karma Zoepa Yoezer | Thimphu, Bhutan | 3,602 |
-| 4 | [teknatha136](https://github.com/teknatha136) | Tek Nath | Thimphu | 3,559 |
+| 4 | [teknatha136](https://github.com/teknatha136) | Tek Nath | Thimphu | 3,576 |
 | 5 | [tashi-iu](https://github.com/tashi-iu) | Tashi Tobgay Dakpa | Thimphu, Bhutan | 3,391 |
-| 6 | [jimbatshetrim](https://github.com/jimbatshetrim) | Jimba Tshetrim | Thimphu, Bhutan | 3,268 |
+| 6 | [jimbatshetrim](https://github.com/jimbatshetrim) | Jimba Tshetrim | Thimphu, Bhutan | 3,270 |
 | 7 | [ThuktenSingye](https://github.com/ThuktenSingye) | ThuktenSingye | Bhutan | 2,793 |
 | 8 | [PraMishra-s](https://github.com/PraMishra-s) | Pralad Mishra | Bhutan | 2,636 |
 | 9 | [sangayt1997](https://github.com/sangayt1997) | Sangay Thinley | Thimphu, Bhutan | 2,298 |
@@ -83,4 +83,4 @@ Indexed users: 266
 | 19 | [TandinDev](https://github.com/TandinDev) | Tandin Tshewang | Thimphu | 23 |
 | 20 | [chimiWangchukWangdi](https://github.com/chimiWangchukWangdi) | Chimi Wangchuk Wangdi | Thimphu, Bhutan | 22 |
 
-Generated: 2026-10-19T14:14:46.670Z
+Generated: 2026-10-19T15:36:45.745Z

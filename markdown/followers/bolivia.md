@@ -1,6 +1,6 @@
 # Followers - Bolivia
 
-Generated: 2026-10-19T14:15:25.036Z
+Generated: 2026-10-19T15:37:29.492Z
 
 Users: 1784
 
@@ -15,7 +15,7 @@ Users: 1784
 | 7 | [SergioRibera](https://github.com/SergioRibera) | Sergio Alejandro Ribera Costa | @RustLangES | sergioribera_rs | Santa Cruz de la Sierra, Bolivia | 262 |
 | 8 | [CrisBelDev](https://github.com/CrisBelDev) | Cristian Abel |  |  | La Paz, Bolivia | 244 |
 | 9 | [cwpachecol](https://github.com/cwpachecol) | Carlos Walter Pacheco Lora | Universidad Mayor Real y Pontificia de San Francisco Xavier de Chuquisaca |  | Sucre - Bolivia | 220 |
-| 10 | [Pericena](https://github.com/Pericena) | Luishiño | UAGRM student | LPericena | Bolivia, Santa Cruz | 197 |
+| 10 | [Pericena](https://github.com/Pericena) | Luishiño | UAGRM student | LPericena | Bolivia, Santa Cruz | 198 |
 | 11 | [rivera-ernesto](https://github.com/rivera-ernesto) | Ernesto Rivera | @PTEz  |  | La Paz, Bolivia | 188 |
 | 12 | [mariocesar](https://github.com/mariocesar) | Mario-César | Humanzilla | mariocesar_xyz | Santa Cruz de la Sierra, Bolivia | 178 |
 | 13 | [Lotiel-Dev](https://github.com/Lotiel-Dev) | Carlos Antonio Gutierrez Copara | Higher University of San Simón | Gerceis81 | Bolivia | 170 |

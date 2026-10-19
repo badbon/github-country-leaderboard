@@ -54,7 +54,7 @@ Indexed users: 2,037
 | 15 | [Gudi650](https://github.com/Gudi650) | Godluck Emmanuel Msangi | Tanzania | 1,551 |
 | 16 | [fmpiza](https://github.com/fmpiza) | fridolinmpiza, Msc. | Tanzania | 1,544 |
 | 17 | [JuliusNtale](https://github.com/JuliusNtale) | Julius Peter Ntale | Tanzania  | 1,505 |
-| 18 | [zayqu](https://github.com/zayqu) | Daraja | Dar Es Salaam, Tanzania | 1,452 |
+| 18 | [zayqu](https://github.com/zayqu) | Daraja | Dar Es Salaam, Tanzania | 1,466 |
 | 19 | [cephasgm](https://github.com/cephasgm) | CephasGM | Dar Es Salaam, Tanzania | 1,385 |
 | 20 | [Gideonamani](https://github.com/Gideonamani) | Gideonamani A. Marress | Dar es Salaam, Tanzania | 1,318 |
 
@@ -83,4 +83,4 @@ Indexed users: 2,037
 | 19 | [3nock](https://github.com/3nock) | Enock | Dar es Salaam, Tanzania | 187 |
 | 20 | [Mrhanstz](https://github.com/Mrhanstz) | HANSTZ | Africa Dodoma | 179 |
 
-Generated: 2026-10-19T13:57:40.731Z
+Generated: 2026-10-19T15:20:33.617Z

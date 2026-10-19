@@ -16,7 +16,7 @@ Indexed users: 2,126
 | 2 | [newPrimitives](https://github.com/newPrimitives) | Nermin Šehić | Bosnia and Herzegovina | 8,685 |
 | 3 | [mirzap](https://github.com/mirzap) | Mirza Pasic | Sarajevo | 8,596 |
 | 4 | [benjaminpeljto](https://github.com/benjaminpeljto) | Benjamin Peljto | Sarajevo | 7,384 |
-| 5 | [leoyigit](https://github.com/leoyigit) | LeoYigit | Sarajevo | 7,150 |
+| 5 | [leoyigit](https://github.com/leoyigit) | LeoYigit | Sarajevo | 7,348 |
 | 6 | [ghostrider0470](https://github.com/ghostrider0470) | Abdagić Hamza | Sarajevo | 7,042 |
 | 7 | [aness55](https://github.com/aness55) | Anes | Sarajevo | 7,028 |
 | 8 | [ribice](https://github.com/ribice) | Emir Ribić | Sarajevo | 6,627 |
@@ -83,4 +83,4 @@ Indexed users: 2,126
 | 19 | [Mickey0001](https://github.com/Mickey0001) | Mirza Sisic | Sarajevo, Bosnia and Herzegovina  | 122 |
 | 20 | [sake92](https://github.com/sake92) | Sakib Hadžiavdić | Sarajevo, Bosnia | 118 |
 
-Generated: 2026-10-19T14:15:29.645Z
+Generated: 2026-10-19T15:38:25.423Z

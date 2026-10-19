@@ -1,6 +1,6 @@
 # Followers - Andorra
 
-Generated: 2026-10-19T14:08:13.930Z
+Generated: 2026-10-19T15:31:21.544Z
 
 Users: 215
 
@@ -25,4 +25,4 @@ Users: 215
 | 17 | [delgod](https://github.com/delgod) | Mykola Marzhan | @Canonical |  | Andorra | 82 |
 | 18 | [madmongo1](https://github.com/madmongo1) | Richard Hodges | Sierra Global Experts |  | Andorra | 79 |
 | 19 | [ysb33r](https://github.com/ysb33r) | Schalk W. Cronjé |  |  | Andorra | 63 |
-| 20 | [castrolem](https://github.com/castrolem) | Luis Castro |  |  | Andorra la Vella, Andorra | 59 |
+| 20 | [castrolem](https://github.com/castrolem) | Luis Castro |  |  | Andorra la Vella, Andorra | 60 |

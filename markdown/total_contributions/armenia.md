@@ -1,6 +1,6 @@
 # Total Contributions - Armenia
 
-Generated: 2026-10-19T14:09:36.803Z
+Generated: 2026-10-19T15:32:02.531Z
 
 Users: 4035
 
@@ -11,18 +11,18 @@ Users: 4035
 | 3 | [logictonic](https://github.com/logictonic) | Eugene |  |  | Armenia | 13603 |
 | 4 | [ilyalosinski](https://github.com/ilyalosinski) | Ilya Losinski |  |  | Yerevan, Armenia | 12592 |
 | 5 | [igoralentyev](https://github.com/igoralentyev) | Igor Alentyev |  |  | Armenia | 11483 |
-| 6 | [lobotomoe](https://github.com/lobotomoe) | Alex Kraiz | @FoilHats |  | Yerevan | 10887 |
-| 7 | [meanmail](https://github.com/meanmail) | Alexander Petrov | meanmail.dev | meanmaildev | Armenia, Yerevan | 10720 |
-| 8 | [n0uk](https://github.com/n0uk) | Maksim Ustichenko |  |  | RA, Yerevan | 9051 |
-| 9 | [prazian](https://github.com/prazian) | Pooyan Razian | Yanovian LLC |  | Yerevan, Armenia | 8784 |
-| 10 | [urumo](https://github.com/urumo) |  |  | svacksalty | Armenia, Yerevan | 8750 |
-| 11 | [m0n0x41d](https://github.com/m0n0x41d) | ivan zakutni | Fusioncat |  | Armenia | 8606 |
-| 12 | [vadim-su](https://github.com/vadim-su) | Vadim Suharnikov |  |  | Armenia Yerevan | 8162 |
-| 13 | [ashvardanian](https://github.com/ashvardanian) | Ash Vardanian | BDFL @ Unum | ashvardanian | London, San Francisco, Yerevan | 8125 |
-| 14 | [esceptico](https://github.com/esceptico) | Tim Ganiev |  | postimortem | Yerevan, Armenia | 7750 |
-| 15 | [wKich](https://github.com/wKich) | Dmitriy Lazarev | @thefrontside | wkichdev | Armenia | 7743 |
-| 16 | [aramarakelyan88](https://github.com/aramarakelyan88) | Aram Arakelyan | CoinStats | AramArakelyan13 | Yerevan | 7628 |
-| 17 | [ashottonoyan](https://github.com/ashottonoyan) | Ashot Tonoyan |  |  | Yerevan | 7617 |
-| 18 | [anatoly-scherbakov](https://github.com/anatoly-scherbakov) | Anatoly Scherbakov | @datafold  |  | Yerevan, Armenia | 7340 |
-| 19 | [melontron](https://github.com/melontron) |  | @2hzai  |  | Yerevan | 6914 |
-| 20 | [otanim](https://github.com/otanim) | Arman Yeghiazaryan |  |  | Armenia, Yerevan | 6913 |
+| 6 | [RALIST](https://github.com/RALIST) | Alexander Danilov  | Tiksat |  | Yerevan | 11414 |
+| 7 | [lobotomoe](https://github.com/lobotomoe) | Alex Kraiz | @FoilHats |  | Yerevan | 10887 |
+| 8 | [meanmail](https://github.com/meanmail) | Alexander Petrov | meanmail.dev | meanmaildev | Armenia, Yerevan | 10720 |
+| 9 | [n0uk](https://github.com/n0uk) | Maksim Ustichenko |  |  | RA, Yerevan | 9051 |
+| 10 | [prazian](https://github.com/prazian) | Pooyan Razian | Yanovian LLC |  | Yerevan, Armenia | 8784 |
+| 11 | [urumo](https://github.com/urumo) |  |  | svacksalty | Armenia, Yerevan | 8750 |
+| 12 | [m0n0x41d](https://github.com/m0n0x41d) | ivan zakutni | Fusioncat |  | Armenia | 8606 |
+| 13 | [vadim-su](https://github.com/vadim-su) | Vadim Suharnikov |  |  | Armenia Yerevan | 8162 |
+| 14 | [ashvardanian](https://github.com/ashvardanian) | Ash Vardanian | BDFL @ Unum | ashvardanian | London, San Francisco, Yerevan | 8125 |
+| 15 | [esceptico](https://github.com/esceptico) | Tim Ganiev |  | postimortem | Yerevan, Armenia | 7750 |
+| 16 | [wKich](https://github.com/wKich) | Dmitriy Lazarev | @thefrontside | wkichdev | Armenia | 7743 |
+| 17 | [aramarakelyan88](https://github.com/aramarakelyan88) | Aram Arakelyan | CoinStats | AramArakelyan13 | Yerevan | 7628 |
+| 18 | [ashottonoyan](https://github.com/ashottonoyan) | Ashot Tonoyan |  |  | Yerevan | 7617 |
+| 19 | [anatoly-scherbakov](https://github.com/anatoly-scherbakov) | Anatoly Scherbakov | @datafold  |  | Yerevan, Armenia | 7340 |
+| 20 | [melontron](https://github.com/melontron) |  | @2hzai  |  | Yerevan | 6914 |

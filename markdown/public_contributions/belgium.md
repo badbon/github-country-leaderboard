@@ -1,8 +1,8 @@
 # Public Contributions - Belgium
 
-Generated: 2026-10-19T14:13:13.043Z
+Generated: 2026-10-19T15:36:20.382Z
 
-Users: 18381
+Users: 18380
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|

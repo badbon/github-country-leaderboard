@@ -1,6 +1,6 @@
 # Followers - Djibouti
 
-Generated: 2026-10-19T14:23:40.563Z
+Generated: 2026-10-19T15:48:09.699Z
 
 Users: 55
 
@@ -8,7 +8,7 @@ Users: 55
 |---:|---|---|---|---|---|---:|
 | 1 | [Captain-iiro](https://github.com/Captain-iiro) | Captain iiro (Abdourahman) |  |  | Djibouti | 28 |
 | 2 | [bassim18ramad](https://github.com/bassim18ramad) | BassimRH |  |  | Djibouti | 25 |
-| 3 | [Ama-dou](https://github.com/Ama-dou) | Amadou Bah | Manelix Technologies |  | Djibouti | 17 |
+| 3 | [Ama-dou](https://github.com/Ama-dou) | Amadou Bah | Manelix Technologies |  | Djibouti | 18 |
 | 4 | [abdibogor](https://github.com/abdibogor) |  |  |  | Djibouti | 15 |
 | 5 | [hamoudabass](https://github.com/hamoudabass) | Hamoud Abass  | Teacher at MENFOP | YoungAssajog | Djibouti | 15 |
 | 6 | [Obelisk999](https://github.com/Obelisk999) | Abdoulrazak |  |  | Djibouti | 14 |

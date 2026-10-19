@@ -16,12 +16,12 @@ Indexed users: 4,880
 | 2 | [danny270793](https://github.com/danny270793) | Danny Vaca | Ecuador | 11,911 |
 | 3 | [kamikhanz](https://github.com/kamikhanz) | Edisson Barbecho | Ecuador | 11,630 |
 | 4 | [adrianarodriguezp](https://github.com/adrianarodriguezp) |  | Ecuador | 10,133 |
-| 5 | [jcdaniel14](https://github.com/jcdaniel14) | Gustavo Santiago | Ecuador | 9,075 |
-| 6 | [joffx](https://github.com/joffx) | Joffre Veloz | Ecuador | 8,367 |
-| 7 | [bitgandtter](https://github.com/bitgandtter) | Yasmany Cubela Medina | Guayaquil, Ecuador | 7,955 |
-| 8 | [JorgeDoicela](https://github.com/JorgeDoicela) | Jorge Doicela | Quito | 7,903 |
-| 9 | [StevSant](https://github.com/StevSant) | Bryan Menoscal | Ecuador, Manabi, Manta | 7,246 |
-| 10 | [Neoterux](https://github.com/Neoterux) | Luis Andrés Bajaña F. | Guayaquil, Ecuador | 7,234 |
+| 5 | [Neoterux](https://github.com/Neoterux) | Luis Andrés Bajaña F. | Guayaquil, Ecuador | 9,328 |
+| 6 | [jcdaniel14](https://github.com/jcdaniel14) | Gustavo Santiago | Ecuador | 9,075 |
+| 7 | [joffx](https://github.com/joffx) | Joffre Veloz | Ecuador | 8,367 |
+| 8 | [bitgandtter](https://github.com/bitgandtter) | Yasmany Cubela Medina | Guayaquil, Ecuador | 7,955 |
+| 9 | [JorgeDoicela](https://github.com/JorgeDoicela) | Jorge Doicela | Quito | 7,903 |
+| 10 | [StevSant](https://github.com/StevSant) | Bryan Menoscal | Ecuador, Manabi, Manta | 7,246 |
 | 11 | [sanieni6](https://github.com/sanieni6) | Luis Sanchez | Ecuador | 7,174 |
 | 12 | [br-programmer](https://github.com/br-programmer) | Brayan Cantos | Ecuador | 6,794 |
 | 13 | [alvarezmario](https://github.com/alvarezmario) | Mario A. Alvarez Garcia | Quito, Ecuador | 6,554 |
@@ -83,4 +83,4 @@ Indexed users: 4,880
 | 19 | [Bryan-Herrera-DEV](https://github.com/Bryan-Herrera-DEV) | Bryan Herrera ~ ርᚱ1ናተᛰ ᚻህᚥተპᚱ | Ecuador | 116 |
 | 20 | [Davichobits](https://github.com/Davichobits) | David Ruiz | Ecuador | 116 |
 
-Generated: 2026-10-19T14:25:33.665Z
+Generated: 2026-10-19T15:50:00.064Z

@@ -1,8 +1,8 @@
 # Total Contributions - Angola
 
-Generated: 2026-10-19T14:08:21.672Z
+Generated: 2026-10-19T15:31:45.131Z
 
-Users: 2497
+Users: 2496
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

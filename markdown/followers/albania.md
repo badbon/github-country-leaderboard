@@ -1,12 +1,12 @@
 # Followers - Albania
 
-Generated: 2026-10-19T14:06:18.554Z
+Generated: 2026-10-19T15:30:32.703Z
 
 Users: 1183
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [vasilirigels](https://github.com/vasilirigels) | Vasili Rigels | @SisalSpA |  | Tirana, Albania | 3786 |
+| 1 | [vasilirigels](https://github.com/vasilirigels) | Vasili Rigels | @SisalSpA |  | Tirana, Albania | 3784 |
 | 2 | [jbaci](https://github.com/jbaci) | J.Baci | Vibrance.al |  | Tirana, Albania | 1887 |
 | 3 | [redianmarku](https://github.com/redianmarku) | Redian Marku |  |  | Albania | 773 |
 | 4 | [4lbH4cker](https://github.com/4lbH4cker) | 4lbH4cker |  |  | Albania | 722 |

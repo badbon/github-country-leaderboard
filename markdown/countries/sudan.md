@@ -22,7 +22,7 @@ Indexed users: 727
 | 8 | [harranali](https://github.com/harranali) |  | Sudan | 3,295 |
 | 9 | [hamoda-dev](https://github.com/hamoda-dev) | Mohammed Hamid Hamoda | Sudan | 3,165 |
 | 10 | [m-elhabib-dev](https://github.com/m-elhabib-dev) | Mohamed Elhabib | Sudan, Khartoum | 2,867 |
-| 11 | [MohdMuslim92](https://github.com/MohdMuslim92) | Mohammed Saeed | Sudan - Khartoum | 2,857 |
+| 11 | [MohdMuslim92](https://github.com/MohdMuslim92) | Mohammed Saeed | Sudan - Khartoum | 2,854 |
 | 12 | [hazembabiker-2004](https://github.com/hazembabiker-2004) | Hazem Babiker | Khartoum | 2,752 |
 | 13 | [abdosaeedelhassan](https://github.com/abdosaeedelhassan) | Abdelrahman Saeed Elhassan | Al-Thawrah H 19, Omdurman, Sudan | 2,731 |
 | 14 | [adonese](https://github.com/adonese) | Mohamed Yousif | Sudan, Khartoum | 2,612 |
@@ -37,8 +37,8 @@ Indexed users: 727
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [MoAnwer](https://github.com/MoAnwer) | Mohamed Anwer | sudan, kassala | 1,190 |
-| 2 | [daoudtajeldeinn-png](https://github.com/daoudtajeldeinn-png) | Daoud Tajeldeinn Ahmed | sudan -khartoum | 1,184 |
+| 1 | [daoudtajeldeinn-png](https://github.com/daoudtajeldeinn-png) | Daoud Tajeldeinn Ahmed | sudan -khartoum | 1,184 |
+| 2 | [MoAnwer](https://github.com/MoAnwer) | Mohamed Anwer | sudan, kassala | 1,178 |
 | 3 | [oovaa](https://github.com/oovaa) | Omar  | Sudan | 1,130 |
 | 4 | [star4droid](https://github.com/star4droid) | Star4Droid  | Sudan | 950 |
 | 5 | [alilibx](https://github.com/alilibx) | Ali Alhashimi | Sudan | 872 |
@@ -69,8 +69,8 @@ Indexed users: 727
 | 5 | [oovaa](https://github.com/oovaa) | Omar  | Sudan | 115 |
 | 6 | [adonese](https://github.com/adonese) | Mohamed Yousif | Sudan, Khartoum | 112 |
 | 7 | [MohdMuslim92](https://github.com/MohdMuslim92) | Mohammed Saeed | Sudan - Khartoum | 109 |
-| 8 | [phr3nzy](https://github.com/phr3nzy) | Osama Adil | Sudan | 90 |
-| 9 | [Muawia24](https://github.com/Muawia24) | Ahmed Muawia | Sudan | 87 |
+| 8 | [Muawia24](https://github.com/Muawia24) | Ahmed Muawia | Sudan | 98 |
+| 9 | [phr3nzy](https://github.com/phr3nzy) | Osama Adil | Sudan | 90 |
 | 10 | [the94air](https://github.com/the94air) | Abdalla Arbab | Khartoum, Sudan | 76 |
 | 11 | [saeedo201](https://github.com/saeedo201) | Saeed Ahmeed | sudan | 73 |
 | 12 | [vzool](https://github.com/vzool) | Abdelaziz Elrashed | Sudan | 63 |
@@ -83,4 +83,4 @@ Indexed users: 727
 | 19 | [kabaros](https://github.com/kabaros) | Mozafar | Khartoum / Glasgow | 51 |
 | 20 | [obaaa8](https://github.com/obaaa8) | محمود عبدالسميع التوم | sudan | 49 |
 
-Generated: 2026-10-19T13:52:11.257Z
+Generated: 2026-10-19T15:19:14.969Z

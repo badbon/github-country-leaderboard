@@ -12,7 +12,7 @@ Indexed users: 132
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [Maiz27](https://github.com/Maiz27) | Maged Faiz | Juba, South Sudan | 10,631 |
+| 1 | [Maiz27](https://github.com/Maiz27) | Maged Faiz | Juba, South Sudan | 10,648 |
 | 2 | [davelee001](https://github.com/davelee001) | David Leek | South Sudan | 5,997 |
 | 3 | [jameswol-ai](https://github.com/jameswol-ai) | James Wol | Juba, South Sudan | 5,206 |
 | 4 | [riek27](https://github.com/riek27) | Riek Gatluak Geka Reat | Juba, South sudan | 3,194 |
@@ -62,7 +62,7 @@ Indexed users: 132
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [Maiz27](https://github.com/Maiz27) | Maged Faiz | Juba, South Sudan | 434 |
+| 1 | [Maiz27](https://github.com/Maiz27) | Maged Faiz | Juba, South Sudan | 436 |
 | 2 | [dutkulang](https://github.com/dutkulang) | Dut Kulang | Juba, South Sudan | 135 |
 | 3 | [OchudhoCham](https://github.com/OchudhoCham) | Ochudho Cham | Juba,South Sudan | 61 |
 | 4 | [longmaker2](https://github.com/longmaker2) | Long Maker Long Deng | Juba | 45 |
@@ -83,4 +83,4 @@ Indexed users: 132
 | 19 | [Amalsouthsudan23](https://github.com/Amalsouthsudan23) | AMAL South Sudan | South Sudan | 15 |
 | 20 | [Codetym](https://github.com/Codetym) | Nelson Mandela D.M.J | Juba, South Sudan  | 14 |
 
-Generated: 2026-10-19T13:51:35.947Z
+Generated: 2026-10-19T15:17:47.596Z

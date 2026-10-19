@@ -1,6 +1,6 @@
 # Total Contributions - Andorra
 
-Generated: 2026-10-19T14:08:13.930Z
+Generated: 2026-10-19T15:31:21.544Z
 
 Users: 215
 
@@ -9,13 +9,13 @@ Users: 215
 | 1 | [ericrisco](https://github.com/ericrisco) | Eric Risco de la Torre | Andorra Telecom | erisco_and | Andorra | 39862 |
 | 2 | [heldermanueltv](https://github.com/heldermanueltv) | Helder Manuel Torres Vieira | @innki-tech @humani-studio |  | Andorra la Vella | 13059 |
 | 3 | [AdrianMastronardi](https://github.com/AdrianMastronardi) | Adrian Mastronardi |  | amastronardi | Andorra | 10275 |
-| 4 | [orimarti](https://github.com/orimarti) | Oriol Martí |  |  | Andorra | 9224 |
-| 5 | [castrolem](https://github.com/castrolem) | Luis Castro |  |  | Andorra la Vella, Andorra | 8579 |
+| 4 | [orimarti](https://github.com/orimarti) | Oriol Martí |  |  | Andorra | 9144 |
+| 5 | [castrolem](https://github.com/castrolem) | Luis Castro |  |  | Andorra la Vella, Andorra | 8591 |
 | 6 | [niwinz](https://github.com/niwinz) | Andrey Antukh | @kaleidos & @penpot |  | Andorra | 8576 |
-| 7 | [l3wi](https://github.com/l3wi) | Lewis Freiberg |  | lewifree | Andorra | 6342 |
+| 7 | [l3wi](https://github.com/l3wi) | Lewis Freiberg |  | lewifree | Andorra | 6345 |
 | 8 | [acastellana](https://github.com/acastellana) | Albert Castellana | @yeagerai | kstellana | Andorra | 5794 |
 | 9 | [alexmf91](https://github.com/alexmf91) | Alex Muñoz |  |  | Barcelona (Spain) \| Encamp (Andorra) | 5297 |
-| 10 | [tombrewsviews](https://github.com/tombrewsviews) | Tom Parandyk | Altramanera |  | Andorra | 5169 |
+| 10 | [tombrewsviews](https://github.com/tombrewsviews) | Tom Parandyk | Altramanera |  | Andorra | 5249 |
 | 11 | [marcalj](https://github.com/marcalj) | Marçal | Lizcore |  | Andorra | 5070 |
 | 12 | [jorge07](https://github.com/jorge07) | Jorge Arco | 90P Lab | Jorge__SVQ | Escaldes, Andorra | 5017 |
 | 13 | [cmarfil](https://github.com/cmarfil) | Cristian Marfil |  |  | Andorra | 4769 |

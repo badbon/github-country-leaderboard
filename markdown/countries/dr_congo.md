@@ -17,9 +17,9 @@ Indexed users: 701
 | 3 | [Abarchibody](https://github.com/Abarchibody) | Archimede Body | Kinshasa, DRC | 14,033 |
 | 4 | [Bope142](https://github.com/Bope142) | Norbert Le Geek | Kinshasa DRC | 9,414 |
 | 5 | [JoeM1990](https://github.com/JoeM1990) | Jonathan Monkila  | kinshasa,RDC | 8,062 |
-| 6 | [Dr-Lab1](https://github.com/Dr-Lab1) | Jonathan Kukwabantu Bahati | Kinshasa | 7,016 |
-| 7 | [Theodorebinda](https://github.com/Theodorebinda) | Theodore SAMBA | kinshasa | 6,932 |
-| 8 | [esaiemuhasa](https://github.com/esaiemuhasa) | Esaie Muhasa | Butembo, Congo Kinshasa | 6,908 |
+| 6 | [esaiemuhasa](https://github.com/esaiemuhasa) | Esaie Muhasa | Butembo, Congo Kinshasa | 7,119 |
+| 7 | [Dr-Lab1](https://github.com/Dr-Lab1) | Jonathan Kukwabantu Bahati | Kinshasa | 7,016 |
+| 8 | [Theodorebinda](https://github.com/Theodorebinda) | Theodore SAMBA | kinshasa | 6,932 |
 | 9 | [merdielongo](https://github.com/merdielongo) | merdielongo | Congo / Kinshasa | 6,594 |
 | 10 | [andydefer](https://github.com/andydefer) | Andy Kani | Democratic Republic of Congo | 6,391 |
 | 11 | [bindukabusara](https://github.com/bindukabusara) | Bindu Kabusara Josué | Kampala, Kinshasa | 5,960 |
@@ -83,4 +83,4 @@ Indexed users: 701
 | 19 | [bolenge](https://github.com/bolenge) | Don de Dieu Bolenge | Congo - Kinshasa | 69 |
 | 20 | [ChrisMwanya](https://github.com/ChrisMwanya) | Chris Mwanya | kinshasa | 69 |
 
-Generated: 2026-10-19T14:24:52.962Z
+Generated: 2026-10-19T15:49:50.376Z

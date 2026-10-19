@@ -1,6 +1,6 @@
 # Public Contributions - Cuba
 
-Generated: 2026-10-19T14:22:26.829Z
+Generated: 2026-10-19T15:45:38.495Z
 
 Users: 1273
 
@@ -11,12 +11,12 @@ Users: 1273
 | 3 | [apiad](https://github.com/apiad) | Alejandro Piad | University of Havana (@matcom) | alepiad | Cuba | 7904 |
 | 4 | [AgenciaSeniors](https://github.com/AgenciaSeniors) | Eduardo Daniel Pérez Ruiz |  |  | Cuba | 4487 |
 | 5 | [MiguelAntonioRS](https://github.com/MiguelAntonioRS) | Miguel |  | rojassucar0115 | Cuba, Holguin | 3212 |
-| 6 | [rafaelrdgz](https://github.com/rafaelrdgz) | Rafael Rodríguez Pérez |  |  | Havana, Cuba | 2352 |
+| 6 | [rafaelrdgz](https://github.com/rafaelrdgz) | Rafael Rodríguez Pérez |  |  | Havana, Cuba | 2401 |
 | 7 | [kaelthasmanu](https://github.com/kaelthasmanu) | Manuel Gorrin | Universidad de Matanzas |  | Cuba | 1996 |
 | 8 | [danielitoCode](https://github.com/danielitoCode) | Daniel Imbert |  |  | Cuba | 1789 |
 | 9 | [rodnye](https://github.com/rodnye) | Rodny Estrada | @cujaeredsocial | rodnyecode | La Habana, Cuba | 1514 |
 | 10 | [GloriousTacoo](https://github.com/GloriousTacoo) | GloriousTaco |  |  | Havana, Cuba | 1464 |
-| 11 | [NairAd02](https://github.com/NairAd02) | Adrian Suarez | NTSprint |  | Havana, Cuba | 1338 |
+| 11 | [NairAd02](https://github.com/NairAd02) | Adrian Suarez | NTSprint |  | Havana, Cuba | 1228 |
 | 12 | [ArtStyles](https://github.com/ArtStyles) | Frank Enrique James Hernández |  |  | Universidad de Ciencias Informáticas, La Habana, Cuba | 1203 |
 | 13 | [PushoDev](https://github.com/PushoDev) | Luis A. Guisado | @Microsoft | LuisGuisado1990 | Ciudad de Manzanillo, Cuba | 1182 |
 | 14 | [apokaliptolesamale](https://github.com/apokaliptolesamale) | Dailyn García Domínguez | SoftwarEnTalla |  | La Habana, Cuba | 994 |

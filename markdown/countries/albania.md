@@ -62,7 +62,7 @@ Indexed users: 1,183
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [vasilirigels](https://github.com/vasilirigels) | Vasili Rigels | Tirana, Albania | 3,786 |
+| 1 | [vasilirigels](https://github.com/vasilirigels) | Vasili Rigels | Tirana, Albania | 3,784 |
 | 2 | [jbaci](https://github.com/jbaci) | J.Baci | Tirana, Albania | 1,887 |
 | 3 | [redianmarku](https://github.com/redianmarku) | Redian Marku | Albania | 773 |
 | 4 | [4lbH4cker](https://github.com/4lbH4cker) | 4lbH4cker | Albania | 722 |
@@ -83,4 +83,4 @@ Indexed users: 1,183
 | 19 | [SxtBox](https://github.com/SxtBox) | Albdroid.AL | Albania | 81 |
 | 20 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | Albania | 77 |
 
-Generated: 2026-10-19T14:06:18.554Z
+Generated: 2026-10-19T15:30:32.703Z

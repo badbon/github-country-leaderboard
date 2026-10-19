@@ -30,7 +30,7 @@ Indexed users: 1,784
 | 16 | [villcabo](https://github.com/villcabo) | Bismarck Villca | Bolivia | 4,262 |
 | 17 | [GonzaloPinell](https://github.com/GonzaloPinell) | Gonzalo Pinell | La Paz, Bolivia | 4,018 |
 | 18 | [Mats2208](https://github.com/Mats2208) | Mateo Andres Soto Gareca | Santa Cruz, Bolivia  | 3,957 |
-| 19 | [ggonzalez94](https://github.com/ggonzalez94) | Gustavo Gonzalez | Santa Cruz de la SIerra, Bolivia | 3,746 |
+| 19 | [ggonzalez94](https://github.com/ggonzalez94) | Gustavo Gonzalez | Santa Cruz de la SIerra, Bolivia | 3,813 |
 | 20 | [Aliaga23](https://github.com/Aliaga23) | Arturo Aliaga | Santa Cruz, Bolivia | 3,403 |
 
 ## Public Contributions
@@ -39,7 +39,7 @@ Indexed users: 1,784
 |---:|---|---|---|---:|
 | 1 | [AndyIbanez](https://github.com/AndyIbanez) | Andy Ibanez | Bolivia | 25,237 |
 | 2 | [DaleneyRuben](https://github.com/DaleneyRuben) | Fernando Daleney | La Paz, Bolivia | 3,428 |
-| 3 | [DanielTorres1](https://github.com/DanielTorres1) | Daniel Torres Sandi | Bolivia | 3,024 |
+| 3 | [DanielTorres1](https://github.com/DanielTorres1) | Daniel Torres Sandi | Bolivia | 3,039 |
 | 4 | [OscarGauss](https://github.com/OscarGauss) | Oscar Gauss Carvajal Yucra | La Paz, Bolivia | 2,907 |
 | 5 | [LudCano](https://github.com/LudCano) | Ludving Cano Fernandez | La Paz, Bolivia | 2,572 |
 | 6 | [ldgd2](https://github.com/ldgd2) | Lider | Bolivia | 2,274 |
@@ -48,7 +48,7 @@ Indexed users: 1,784
 | 9 | [rafael1199v](https://github.com/rafael1199v) | Rafael Vargas | Bolivia | 1,577 |
 | 10 | [ovidiocbba](https://github.com/ovidiocbba) | Simon Ovidio Miranda Chiri | Bolivia | 1,504 |
 | 11 | [olivio-git](https://github.com/olivio-git) | olivio-git | Tarija/Bolivia | 1,415 |
-| 12 | [ggonzalez94](https://github.com/ggonzalez94) | Gustavo Gonzalez | Santa Cruz de la SIerra, Bolivia | 1,399 |
+| 12 | [ggonzalez94](https://github.com/ggonzalez94) | Gustavo Gonzalez | Santa Cruz de la SIerra, Bolivia | 1,387 |
 | 13 | [pachonjcl](https://github.com/pachonjcl) | Jose Carlos Laura Ramirez | La Paz, Bolivia | 1,242 |
 | 14 | [asosab](https://github.com/asosab) | Alejandro Sosa Briceño | Bolivia | 1,225 |
 | 15 | [jhersON1](https://github.com/jhersON1) | Jherson Rodriguez | Bolivia | 1,212 |
@@ -71,7 +71,7 @@ Indexed users: 1,784
 | 7 | [SergioRibera](https://github.com/SergioRibera) | Sergio Alejandro Ribera Costa | Santa Cruz de la Sierra, Bolivia | 262 |
 | 8 | [CrisBelDev](https://github.com/CrisBelDev) | Cristian Abel | La Paz, Bolivia | 244 |
 | 9 | [cwpachecol](https://github.com/cwpachecol) | Carlos Walter Pacheco Lora | Sucre - Bolivia | 220 |
-| 10 | [Pericena](https://github.com/Pericena) | Luishiño | Bolivia, Santa Cruz | 197 |
+| 10 | [Pericena](https://github.com/Pericena) | Luishiño | Bolivia, Santa Cruz | 198 |
 | 11 | [rivera-ernesto](https://github.com/rivera-ernesto) | Ernesto Rivera | La Paz, Bolivia | 188 |
 | 12 | [mariocesar](https://github.com/mariocesar) | Mario-César | Santa Cruz de la Sierra, Bolivia | 178 |
 | 13 | [Lotiel-Dev](https://github.com/Lotiel-Dev) | Carlos Antonio Gutierrez Copara | Bolivia | 170 |
@@ -83,4 +83,4 @@ Indexed users: 1,784
 | 19 | [alvarosiles11](https://github.com/alvarosiles11) | Alvaro Siles Estrada | Bolivia | 121 |
 | 20 | [mauforonda](https://github.com/mauforonda) | Mau Foronda | Bolivia | 120 |
 
-Generated: 2026-10-19T14:15:25.036Z
+Generated: 2026-10-19T15:37:29.492Z
