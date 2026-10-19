@@ -1,6 +1,6 @@
 # Total Contributions - Ivory Coast
 
-Generated: 2026-10-19T02:45:58.222Z
+Generated: 2026-10-19T05:21:58.929Z
 
 Users: 488
 
@@ -12,8 +12,8 @@ Users: 488
 | 4 | [davtechci2](https://github.com/davtechci2) | ADZASU KOFFI DAVID | @Vague-Digitale |  | Côte d'ivoire, Abidjan | 8614 |
 | 5 | [baudoliver7](https://github.com/baudoliver7) | Olivier Baudouin OURA | @endeavourmining @artipie @cqfn | baudoliver7 | Abidjan, Côte d'Ivoire | 7578 |
 | 6 | [AlMoustapha01](https://github.com/AlMoustapha01) | Al Moustapha | Artefact |  | Cocody, Abidjan, Côte d'Ivoire | 6308 |
-| 7 | [houssenedao](https://github.com/houssenedao) | Houssene Dao | @nascent-tech  | houssenedao | Côte d'ivoire, Abidjan | 6098 |
-| 8 | [lordkkjmix](https://github.com/lordkkjmix) | Koffi Josué Kouakou | AFRICAN PERMANENT INNOVATIONS | lordkkjmix | abidjan, côte d'ivoire | 5828 |
+| 7 | [houssenedao](https://github.com/houssenedao) | Houssene Dao | @nascent-tech  | houssenedao | Côte d'ivoire, Abidjan | 6186 |
+| 8 | [lordkkjmix](https://github.com/lordkkjmix) | Koffi Josué Kouakou | AFRICAN PERMANENT INNOVATIONS | lordkkjmix | abidjan, côte d'ivoire | 5868 |
 | 9 | [theboss001](https://github.com/theboss001) | Landry Kolaï | @africancarfleet  |  | Côte d'ivoire | 5796 |
 | 10 | [karimalik](https://github.com/karimalik) | Karim Kompissi | @workify | KKompissi | Abidjan, Côte d'ivoire | 5409 |
 | 11 | [lambirou](https://github.com/lambirou) | Roland Edi | Codivoire SARL. | lambirou225 | Abidjan, Côte d'ivoire | 5278 |

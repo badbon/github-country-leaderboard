@@ -14,10 +14,10 @@ Indexed users: 2,441
 |---:|---|---|---|---:|
 | 1 | [alxnko](https://github.com/alxnko) | Alex Neko | Kyrgyzstan | 25,053 |
 | 2 | [bekturmamytov](https://github.com/bekturmamytov) | bekturmamytov | Bishkek | 12,787 |
-| 3 | [kymuco](https://github.com/kymuco) | Ikymuco | Bishkek, Kyrgyzstan | 11,207 |
+| 3 | [kymuco](https://github.com/kymuco) | Ikymuco | Bishkek, Kyrgyzstan | 11,568 |
 | 4 | [Elkhan2003](https://github.com/Elkhan2003) | Elkhan Sharshenbekov | Karakol, Kyrgyzstan | 10,024 |
-| 5 | [bekishh](https://github.com/bekishh) | Zh Beknazar | Kyrgystan, Bishkek | 9,417 |
-| 6 | [anton-plebanovich](https://github.com/anton-plebanovich) | Anton Plebanovich | Kyrgyzstan, Bishkek | 9,200 |
+| 5 | [anton-plebanovich](https://github.com/anton-plebanovich) | Anton Plebanovich | Kyrgyzstan, Bishkek | 9,200 |
+| 6 | [bekishh](https://github.com/bekishh) | Zh Beknazar | Kyrgystan, Bishkek | 8,865 |
 | 7 | [whyfoks1s](https://github.com/whyfoks1s) | Kutman Melisov | Kyrgyzstan | 6,717 |
 | 8 | [toksaitov](https://github.com/toksaitov) | Toksaitov Dmitrii Alexandrovich | Bishkek | 6,476 |
 | 9 | [Amanch1ik](https://github.com/Amanch1ik) | Amanchik | Bishkek | 6,231 |
@@ -26,20 +26,20 @@ Indexed users: 2,441
 | 12 | [songhee24](https://github.com/songhee24) | Azamat | Kyrgyzstan | 5,391 |
 | 13 | [emirbaktybekov-king](https://github.com/emirbaktybekov-king) | Emir Baktybekov | Bishkek, Kyrgyzstan | 5,373 |
 | 14 | [metalagman](https://github.com/metalagman) | Alexey Samoylov | Bishkek, Kyrgyz Republic | 5,286 |
-| 15 | [chalshik](https://github.com/chalshik) | Nurmukhammed Kalmamatov | Kyrgyzstan | 5,150 |
-| 16 | [qiniks](https://github.com/qiniks) | Talant Mataev | Kyrgyzstan | 5,133 |
-| 17 | [nasipa1](https://github.com/nasipa1) | Nasipa | Kyrgyzstan, Bishkek | 5,031 |
-| 18 | [P5ina](https://github.com/P5ina) | Timur Turatbekov | Kyrgyzstan, Bishkek | 4,996 |
-| 19 | [991o2o9](https://github.com/991o2o9) | Soltobekov Amin | Bishkek | 4,857 |
+| 15 | [991o2o9](https://github.com/991o2o9) | Soltobekov Amin | Bishkek | 5,194 |
+| 16 | [chalshik](https://github.com/chalshik) | Nurmukhammed Kalmamatov | Kyrgyzstan | 5,150 |
+| 17 | [qiniks](https://github.com/qiniks) | Talant Mataev | Kyrgyzstan | 5,133 |
+| 18 | [nasipa1](https://github.com/nasipa1) | Nasipa | Kyrgyzstan, Bishkek | 5,031 |
+| 19 | [P5ina](https://github.com/P5ina) | Timur Turatbekov | Kyrgyzstan, Bishkek | 4,996 |
 | 20 | [isybai](https://github.com/isybai) | Isa | Bishkek | 4,752 |
 
 ## Public Contributions
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [bekishh](https://github.com/bekishh) | Zh Beknazar | Kyrgystan, Bishkek | 9,417 |
+| 1 | [bekishh](https://github.com/bekishh) | Zh Beknazar | Kyrgystan, Bishkek | 8,865 |
 | 2 | [metalagman](https://github.com/metalagman) | Alexey Samoylov | Bishkek, Kyrgyz Republic | 4,843 |
-| 3 | [kymuco](https://github.com/kymuco) | Ikymuco | Bishkek, Kyrgyzstan | 3,599 |
+| 3 | [kymuco](https://github.com/kymuco) | Ikymuco | Bishkek, Kyrgyzstan | 3,812 |
 | 4 | [Heartspell](https://github.com/Heartspell) | Amirhan Ordobaev | Kyrgyzstan | 3,245 |
 | 5 | [ibrodevs](https://github.com/ibrodevs) | Ibrokhim | Bishkek | 3,050 |
 | 6 | [P5ina](https://github.com/P5ina) | Timur Turatbekov | Kyrgyzstan, Bishkek | 2,962 |
@@ -83,4 +83,4 @@ Indexed users: 2,441
 | 19 | [Elkhan2003](https://github.com/Elkhan2003) | Elkhan Sharshenbekov | Karakol, Kyrgyzstan | 103 |
 | 20 | [eszdman](https://github.com/eszdman) |  | Kyrgyzstan | 103 |
 
-Generated: 2026-10-19T02:47:40.598Z
+Generated: 2026-10-19T05:25:04.925Z

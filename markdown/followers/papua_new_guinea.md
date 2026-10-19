@@ -1,6 +1,6 @@
 # Followers - Papua New Guinea
 
-Generated: 2026-10-19T03:02:01.953Z
+Generated: 2026-10-19T05:45:29.730Z
 
 Users: 296
 
@@ -12,7 +12,7 @@ Users: 296
 | 4 | [chrisaugu](https://github.com/chrisaugu) | Christian Augustyn |  |  | Madang, Papua New Guinea | 28 |
 | 5 | [JHEK675](https://github.com/JHEK675) | Hosea Wartabar Kolis | JHEK Investment Limited |  | Lae, Papua New Guinea | 26 |
 | 6 | [nxnmsl0](https://github.com/nxnmsl0) | Nixon Misiel Agregum | Mad Travel |  | PORT MORESBY | 22 |
-| 7 | [n30dyn4m1c](https://github.com/n30dyn4m1c) | Neo Malesa |  | n30dyn4m1c | Port Moresby, Papua New Guinea | 19 |
+| 7 | [n30dyn4m1c](https://github.com/n30dyn4m1c) | Neo Malesa |  | n30dyn4m1c | Port Moresby, Papua New Guinea | 20 |
 | 8 | [161710125](https://github.com/161710125) | Muuu | bram.ltd |  | Papua New Guinea | 16 |
 | 9 | [cravenhoff](https://github.com/cravenhoff) | Crystal Kewe | Crysan Technology Ltd |  | Port Moresby, Papua New Guinea | 16 |
 | 10 | [sutherlandnele](https://github.com/sutherlandnele) | Sutherland Nele | Cloudcode PNG Limited | suthzy | Port Moresby | 15 |

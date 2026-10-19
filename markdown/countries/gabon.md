@@ -21,7 +21,7 @@ Indexed users: 314
 | 7 | [Crazynotdev](https://github.com/Crazynotdev) | ZynXx | Gabon | 959 |
 | 8 | [Marseven](https://github.com/Marseven) | Aristide Mebodo | Libreville | 929 |
 | 9 | [Dylan245-droid](https://github.com/Dylan245-droid) | Dylan ONDO | Libreville, Gabon | 871 |
-| 10 | [MeylandMan](https://github.com/MeylandMan) | M.Meyland | Gabon | 759 |
+| 10 | [MeylandMan](https://github.com/MeylandMan) | M.Meyland | Gabon | 809 |
 | 11 | [NathanLeFuturMillionaire](https://github.com/NathanLeFuturMillionaire) | Nathan Le Fütür Milliønãîre | Libreville | 731 |
 | 12 | [nguie2](https://github.com/nguie2) | jean roch | Libreville, Gabon | 662 |
 | 13 | [dynamo63](https://github.com/dynamo63) | Mouckeytou Moulongui | Gabon | 636 |
@@ -48,8 +48,8 @@ Indexed users: 314
 | 9 | [MeylandMan](https://github.com/MeylandMan) | M.Meyland | Gabon | 317 |
 | 10 | [nnangassejb10](https://github.com/nnangassejb10) | gloire jb nnang | Gabon  | 303 |
 | 11 | [mendoc](https://github.com/mendoc) | Dimitri ONGOUA | Libreville, Gabon | 267 |
-| 12 | [Yusufibin](https://github.com/Yusufibin) | Youssouf ⚜️ | Gabon, Libreville | 233 |
-| 13 | [Lichtensteiner](https://github.com/Lichtensteiner) | Lichtensteiner Stawikowski | Libreville Gabon | 230 |
+| 12 | [Lichtensteiner](https://github.com/Lichtensteiner) | Lichtensteiner Stawikowski | Libreville Gabon | 249 |
+| 13 | [Yusufibin](https://github.com/Yusufibin) | Youssouf ⚜️ | Gabon, Libreville | 233 |
 | 14 | [reasonknowledge](https://github.com/reasonknowledge) | NGOUBOUKOU Franck Hervé | Libreville-Gabon | 168 |
 | 15 | [jennigs241](https://github.com/jennigs241) |  | Gabon | 165 |
 | 16 | [waly2020](https://github.com/waly2020) | waly le dev | Gabon (Libreville) | 154 |
@@ -63,7 +63,7 @@ Indexed users: 314
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [yvan-ngoahitsi](https://github.com/yvan-ngoahitsi) | Yvan A. Ngoahitsi | Gabon | 122 |
-| 2 | [davcode92](https://github.com/davcode92) | Davy Methe Nzeng | Gabon | 109 |
+| 2 | [davcode92](https://github.com/davcode92) | Davy Methe Nzeng | Gabon | 108 |
 | 3 | [mawuva](https://github.com/mawuva) | Ephraïm SEDDOR | Libreville, Lomé | 84 |
 | 4 | [mendoc](https://github.com/mendoc) | Dimitri ONGOUA | Libreville, Gabon | 65 |
 | 5 | [bonachylauriel](https://github.com/bonachylauriel) | Leyoussi Bonachi Lauriel | Gabon | 62 |
@@ -83,4 +83,4 @@ Indexed users: 314
 | 19 | [Dylan245-droid](https://github.com/Dylan245-droid) | Dylan ONDO | Libreville, Gabon | 22 |
 | 20 | [Marseven](https://github.com/Marseven) | Aristide Mebodo | Libreville | 19 |
 
-Generated: 2026-10-19T02:37:53.679Z
+Generated: 2026-10-19T05:13:24.464Z

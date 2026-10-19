@@ -1,15 +1,15 @@
 # Total Contributions - San Marino
 
-Generated: 2026-10-19T03:06:45.652Z
+Generated: 2026-10-19T05:50:36.480Z
 
 Users: 61
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [calebnewtonusc](https://github.com/calebnewtonusc) | Caleb Newton | AINA Tech |  | San Marino, CA | 14407 |
-| 2 | [simooooone](https://github.com/simooooone) | Simos |  |  | San Marino | 10280 |
+| 2 | [simooooone](https://github.com/simooooone) | Simos |  |  | San Marino | 10279 |
 | 3 | [brunodotgg](https://github.com/brunodotgg) | Bruno |  |  | San Marino | 4579 |
-| 4 | [mcdado](https://github.com/mcdado) | David Gasperoni |  |  | San Marino (SMR) <✈️> Madrid, Spain | 3183 |
+| 4 | [mcdado](https://github.com/mcdado) | David Gasperoni |  |  | San Marino (SMR) <✈️> Madrid, Spain | 3185 |
 | 5 | [tomwhoooo](https://github.com/tomwhoooo) | Tom Hu | UC Berkeley |  | San Marino, California | 2302 |
 | 6 | [CastFX](https://github.com/CastFX) | Chris |  |  | San Marino | 2260 |
 | 7 | [damiandominella](https://github.com/damiandominella) | dodo | Golee |  | San Marino / Milan / Remotely | 2152 |

@@ -1,8 +1,8 @@
 # Total Contributions - Latvia
 
-Generated: 2026-10-19T02:47:49.663Z
+Generated: 2026-10-19T05:27:26.987Z
 
-Users: 3252
+Users: 3251
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -22,7 +22,7 @@ Users: 3252
 | 14 | [skakri](https://github.com/skakri) | Kristaps Karlsons |  |  | Latvia | 7758 |
 | 15 | [jecis-repos](https://github.com/jecis-repos) | Jecis |  | jecis_ | Latvia | 7539 |
 | 16 | [danielsbethers](https://github.com/danielsbethers) | Daniels Bethers | @request-lv |  | Riga, Latvia | 7122 |
-| 17 | [agubarev](https://github.com/agubarev) | Andrejs Gubarevs |  |  | Latvia, Riga | 6749 |
-| 18 | [vitalijssilins](https://github.com/vitalijssilins) | Vitālijs Silins | Convershake |  | Latvia, Riga | 6694 |
-| 19 | [sansan](https://github.com/sansan) | Toms Veidemanis |  |  | Riga | 6604 |
-| 20 | [Shvembldr](https://github.com/Shvembldr) | Shvembldr |  | shvembldr | Latvia | 6475 |
+| 17 | [aivars](https://github.com/aivars) | Aivars |  | aivars_meijers | Latvia | 6930 |
+| 18 | [agubarev](https://github.com/agubarev) | Andrejs Gubarevs |  |  | Latvia, Riga | 6749 |
+| 19 | [vitalijssilins](https://github.com/vitalijssilins) | Vitālijs Silins | Convershake |  | Latvia, Riga | 6694 |
+| 20 | [sansan](https://github.com/sansan) | Toms Veidemanis |  |  | Riga | 6604 |

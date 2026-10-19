@@ -1,12 +1,12 @@
 # Public Contributions - Martinique
 
-Generated: 2026-10-19T02:52:27.590Z
+Generated: 2026-10-19T05:32:37.854Z
 
 Users: 75
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [glefait](https://github.com/glefait) | Guillem Lefait | @Holimetrix @tvty-official  |  | Fort-de-France, Martinique | 5206 |
+| 1 | [glefait](https://github.com/glefait) | Guillem Lefait | @Holimetrix @tvty-official  |  | Fort-de-France, Martinique | 5202 |
 | 2 | [pyleglise](https://github.com/pyleglise) | Pierre-Yves Léglise | axialdata |  | Schoelcher, Martinique | 5048 |
 | 3 | [diasjorge](https://github.com/diasjorge) | Jorge Dias | http://aerisnova.com | dias_jorge | Martinique | 1524 |
 | 4 | [p4cm4n972](https://github.com/p4cm4n972) | Manuel ADELE |  |  | Martinique | 716 |
@@ -23,6 +23,6 @@ Users: 75
 | 15 | [Ulrico972](https://github.com/Ulrico972) | Ulrich Giberné | Airship |  | Martinique | 141 |
 | 16 | [marieangeliquepied](https://github.com/marieangeliquepied) | Marie-Angélique PIED |  |  | Martinique  | 126 |
 | 17 | [kodzukye](https://github.com/kodzukye) | Jayyy ⋆˚✿˖° |  |  | Martinique | 90 |
-| 18 | [aldofwi](https://github.com/aldofwi) | Dominique ALMANDIN | ΛDHD | aldofwi | Martinique | 78 |
+| 18 | [aldofwi](https://github.com/aldofwi) | Dominique ALMANDIN | ΛDHD | aldofwi | Martinique | 77 |
 | 19 | [TCox972](https://github.com/TCox972) | Jean-Jérôme |  |  | Martinique | 33 |
 | 20 | [anthony-nosibor](https://github.com/anthony-nosibor) | Anthony nosibor |  |  | Martinique | 24 |

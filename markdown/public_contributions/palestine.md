@@ -1,6 +1,6 @@
 # Public Contributions - Palestine
 
-Generated: 2026-10-19T03:00:55.089Z
+Generated: 2026-10-19T05:44:59.772Z
 
 Users: 2197
 
@@ -25,4 +25,4 @@ Users: 2197
 | 17 | [SamehDheir](https://github.com/SamehDheir) | Sameh Dheir | wasla Compony |  | Palestine/ Gaza | 802 |
 | 18 | [AMD4x](https://github.com/AMD4x) | Ahmed Mustafa |  |  | Palestine | 774 |
 | 19 | [zaidmoen](https://github.com/zaidmoen) | Zaid Mayyalleh |  |  | Palestine | 766 |
-| 20 | [eslamalbaik](https://github.com/eslamalbaik) | Eslam AlBaik | @Mental-Care | eslam_D7 | palestine | 721 |
+| 20 | [Baraa-Rj](https://github.com/Baraa-Rj) | Baraa RJ | Birzeit University |  | Palestine | 761 |

@@ -1,8 +1,8 @@
 # Followers - Latvia
 
-Generated: 2026-10-19T02:47:49.663Z
+Generated: 2026-10-19T05:27:26.987Z
 
-Users: 3252
+Users: 3251
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -14,15 +14,15 @@ Users: 3252
 | 6 | [bodrovis](https://github.com/bodrovis) | Elijah S. Krukowski | @lokalise |  | Riga | 532 |
 | 7 | [esneko](https://github.com/esneko) | Andrejs Agejevs |  |  | Latvia | 505 |
 | 8 | [darjaorlova](https://github.com/darjaorlova) | Darja Orlova | BBapps | dariadroid | Latvia, Riga | 491 |
-| 9 | [tostercx](https://github.com/tostercx) |  |  |  | Riga, Latvia | 457 |
-| 10 | [aivars](https://github.com/aivars) | Aivars |  | aivars_meijers | Latvia | 456 |
+| 9 | [aivars](https://github.com/aivars) | Aivars |  | aivars_meijers | Latvia | 468 |
+| 10 | [tostercx](https://github.com/tostercx) |  |  |  | Riga, Latvia | 457 |
 | 11 | [wonderwhy-er](https://github.com/wonderwhy-er) | Eduard Ruzga |  |  | Riga | 415 |
 | 12 | [sunny250984](https://github.com/sunny250984) | Sunny |  |  | Latvia | 319 |
 | 13 | [dxHubCoin](https://github.com/dxHubCoin) | dxHub | dxHub |  | Latvia | 314 |
 | 14 | [kasparsd](https://github.com/kasparsd) | Kaspars Dambis |  | konstruktors | Latvia | 299 |
 | 15 | [arturssmirnovs](https://github.com/arturssmirnovs) | Arturs Smirnovs |  | artuurssmirnovs | Latvia | 296 |
 | 16 | [arthepsy](https://github.com/arthepsy) | Andris Raugulis | @evolution-gaming |  | Latvia | 254 |
-| 17 | [YahnisElsts](https://github.com/YahnisElsts) | Yahnis Elsts |  |  | Latvia | 244 |
-| 18 | [cuu508](https://github.com/cuu508) | Pēteris Caune | @healthchecks  |  | Valmiera, Latvia | 233 |
-| 19 | [ruslanskorb](https://github.com/ruslanskorb) | Ruslan Skorb | OktoSpace SIA |  | Riga, Latvia | 226 |
-| 20 | [0ki](https://github.com/0ki) | Кirils Sоlovjоvs | My contributions are licensed under the Modified BSD licence |  | Latvia | 224 |
+| 17 | [cuu508](https://github.com/cuu508) | Pēteris Caune | @healthchecks  |  | Valmiera, Latvia | 245 |
+| 18 | [YahnisElsts](https://github.com/YahnisElsts) | Yahnis Elsts |  |  | Latvia | 244 |
+| 19 | [0ki](https://github.com/0ki) | Кirils Sоlovjоvs | My contributions are licensed under the Modified BSD licence |  | Latvia | 224 |
+| 20 | [LatvianModder](https://github.com/LatvianModder) | Kristiāns Micītis | @latvian-dev | LatvianModder | Latvia | 221 |
