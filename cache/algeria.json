@@ -34484,7 +34484,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 62,
     "createdAt": "2021-02-07T10:08:53Z"
   },
   {
@@ -34507,7 +34507,7 @@
     "company": "Beyn",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 76,
+    "privateContributions": 65,
     "publicContributions": 0,
     "createdAt": "2021-09-14T13:49:32Z"
   },
@@ -34580,7 +34580,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 10,
     "createdAt": "2021-03-24T16:22:11Z"
   },
   {
@@ -34588,7 +34588,7 @@
     "name": "ihemsou",
     "avatarUrl": "https://avatars.githubusercontent.com/u/81417846?s=72&u=5f46fafcd274973ee861b55ded16e05c8cfd1ac5&v=4",
     "location": "Algeria, Setif ",
-    "company": "",
+    "company": "ihemsou",
     "twitterUsername": "ihemsou",
     "followers": 1,
     "privateContributions": 0,
@@ -34604,7 +34604,7 @@
     "twitterUsername": "haythem_bfgs",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2021-09-24T22:11:05Z"
   },
   {
@@ -34642,18 +34642,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-09-18T04:08:19Z"
-  },
-  {
-    "login": "Zouzou0",
-    "name": "zoubida nemer",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/88108511?s=72&u=af591439016d1aee708b0f0a3689d2b01516c854&v=4",
-    "location": "Ouargla, Algeria ",
-    "company": "University of Kasdi Merbah Ouargla ",
-    "twitterUsername": "aria518",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2021-07-28T18:10:35Z"
   },
   {
     "login": "Abdelhamidbensadoun",
@@ -34698,9 +34686,9 @@
     "location": "Algeria",
     "company": "USTHB",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 12,
     "createdAt": "2021-09-18T10:14:14Z"
   },
   {

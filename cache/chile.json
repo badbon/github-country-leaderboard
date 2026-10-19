@@ -35060,7 +35060,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 10,
     "createdAt": "2023-04-09T19:12:22Z"
   },
   {
@@ -35166,34 +35166,22 @@
     "location": "Chile",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 30,
+    "publicContributions": 40,
     "createdAt": "2023-05-30T16:37:17Z"
   },
   {
     "login": "felirosalesb",
     "name": "Felipe Rosales Bravo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/134455975?s=72&u=cbdea46796a5b6d39f4fd9534fce0aff13f74b17&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/134455975?s=72&u=a7f59ad7bfce1a59fe0e908d9f1bdf965f369d2e&v=4",
     "location": "Santiago, Chile",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 52,
+    "publicContributions": 21,
     "createdAt": "2023-05-23T23:23:12Z"
-  },
-  {
-    "login": "gbkjy",
-    "name": "gabriel",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/129249978?s=72&u=114f196d0eb5c638d548d8a43d823d00620f105c&v=4",
-    "location": "Chile",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 742,
-    "publicContributions": 309,
-    "createdAt": "2023-03-29T04:13:09Z"
   },
   {
     "login": "TomasAngelMebiel",
@@ -35228,7 +35216,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 0,
     "createdAt": "2023-05-04T02:10:13Z"
   },
   {

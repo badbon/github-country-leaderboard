@@ -34915,8 +34915,8 @@
     "company": "Mockora",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 252,
-    "publicContributions": 380,
+    "privateContributions": 90,
+    "publicContributions": 381,
     "createdAt": "2021-07-06T07:45:49Z"
   },
   {
@@ -34950,9 +34950,9 @@
     "location": "Baku, Azerbaijan",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 134,
     "createdAt": "2021-03-01T14:04:20Z"
   },
   {
@@ -34963,7 +34963,7 @@
     "company": "",
     "twitterUsername": "orxannagisoy",
     "followers": 1,
-    "privateContributions": 630,
+    "privateContributions": 459,
     "publicContributions": 3,
     "createdAt": "2021-06-17T20:18:47Z"
   },
@@ -35048,7 +35048,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2021-03-06T06:32:53Z"
   },
   {
@@ -35083,7 +35083,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 657,
+    "privateContributions": 2291,
     "publicContributions": 0,
     "createdAt": "2021-01-13T14:39:32Z"
   },
@@ -35098,18 +35098,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-08-27T14:03:22Z"
-  },
-  {
-    "login": "CaspianShephard",
-    "name": "Ramil Muzaffarsky Maharramov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/89919008?s=72&u=da918b256459bb605edae149d7b2ab453a65d772&v=4",
-    "location": "Azerbaijan",
-    "company": "Tethys Investment Management",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2021-09-01T12:51:29Z"
   },
   {
     "login": "kananRustamli",

@@ -13711,7 +13711,7 @@
     "company": "@spreeloop ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 592,
+    "privateContributions": 586,
     "publicContributions": 26,
     "createdAt": "2020-05-22T13:02:49Z"
   },
@@ -13747,8 +13747,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 761,
-    "publicContributions": 344,
+    "privateContributions": 754,
+    "publicContributions": 342,
     "createdAt": "2020-04-20T06:58:28Z"
   },
   {
@@ -13848,26 +13848,14 @@
     "createdAt": "2020-01-29T14:38:38Z"
   },
   {
-    "login": "cypher01-droid",
-    "name": "0x000",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/70664567?s=72&v=4",
-    "location": "Yaounde,cameroon",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 55,
-    "createdAt": "2020-09-02T20:02:16Z"
-  },
-  {
     "login": "AJA237",
     "name": "Jordan Agha",
     "avatarUrl": "https://avatars.githubusercontent.com/u/73307392?s=72&u=fef5e0f257560ca70757007e96d28610b23cc852&v=4",
     "location": "Yaounde, Cameroon",
     "company": "Caasitech Group",
     "twitterUsername": "azumbi_j",
-    "followers": 1,
-    "privateContributions": 321,
+    "followers": 2,
+    "privateContributions": 319,
     "publicContributions": 15,
     "createdAt": "2020-10-22T17:34:36Z"
   },

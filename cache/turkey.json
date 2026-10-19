@@ -34484,7 +34484,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 11,
     "createdAt": "2025-03-04T07:17:24Z"
   },
   {
@@ -34495,8 +34495,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 5,
-    "publicContributions": 14,
+    "privateContributions": 2,
+    "publicContributions": 11,
     "createdAt": "2025-02-21T20:28:41Z"
   },
   {
@@ -34542,9 +34542,9 @@
     "location": "İstanbul",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 27,
     "createdAt": "2025-10-14T15:32:44Z"
   },
   {
@@ -34580,7 +34580,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 2,
     "createdAt": "2025-09-21T19:01:29Z"
   },
   {
@@ -34604,7 +34604,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 1,
     "createdAt": "2025-03-10T18:21:02Z"
   },
   {
@@ -34614,9 +34614,9 @@
     "location": "Istanbul",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 63,
+    "followers": 7,
+    "privateContributions": 95,
+    "publicContributions": 65,
     "createdAt": "2025-05-13T22:09:16Z"
   },
   {
@@ -34628,7 +34628,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 43,
+    "publicContributions": 23,
     "createdAt": "2025-04-25T12:53:18Z"
   },
   {
@@ -34640,20 +34640,8 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 195,
+    "publicContributions": 194,
     "createdAt": "2025-02-28T06:21:22Z"
-  },
-  {
-    "login": "thisiskiv",
-    "name": "kiv",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/225175320?s=72&u=047f911b7b4c872b510460acd489830a5428a795&v=4",
-    "location": "Istanbul",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 7,
-    "createdAt": "2025-08-07T10:12:48Z"
   },
   {
     "login": "mdemirci10",
@@ -34662,9 +34650,9 @@
     "location": "Istanbul",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 10,
     "createdAt": "2025-08-14T14:09:06Z"
   },
   {
@@ -34688,7 +34676,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 44,
     "createdAt": "2025-01-24T15:41:15Z"
   },
   {
@@ -34700,19 +34688,19 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 14,
     "createdAt": "2025-02-19T11:48:54Z"
   },
   {
     "login": "besirevic06",
     "name": "Kadir Can",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/226968771?s=72&u=836af6e28c21dabcfbd0f0c4c7cae46066c52831&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/226968771?s=72&u=0e7edaf71ef48b660762f809a778f2c2615c1c51&v=4",
     "location": "Istanbul",
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 1,
+    "privateContributions": 94,
+    "publicContributions": 8,
     "createdAt": "2025-08-17T07:18:30Z"
   },
   {

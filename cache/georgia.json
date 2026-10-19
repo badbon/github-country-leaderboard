@@ -35144,7 +35144,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 0,
     "createdAt": "2020-08-05T17:33:07Z"
   },
   {
@@ -35154,7 +35154,7 @@
     "location": "Tbilisi, Georgia",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-10-28T12:13:39Z"
@@ -35167,8 +35167,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 196,
-    "publicContributions": 99,
+    "privateContributions": 328,
+    "publicContributions": 116,
     "createdAt": "2020-11-18T17:00:13Z"
   },
   {
@@ -35191,8 +35191,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 336,
-    "publicContributions": 220,
+    "privateContributions": 1621,
+    "publicContributions": 227,
     "createdAt": "2020-12-03T08:45:12Z"
   },
   {
@@ -35232,18 +35232,6 @@
     "createdAt": "2020-12-07T08:03:30Z"
   },
   {
-    "login": "ahoy55",
-    "name": "Sergei",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/62417883?s=72&u=e7f83c8550298420d0f1021e97eb6d63739efc7a&v=4",
-    "location": "Georgia, Batumi",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 165,
-    "publicContributions": 47,
-    "createdAt": "2020-03-20T06:44:13Z"
-  },
-  {
     "login": "aOverholt",
     "name": "Andrew Overholt",
     "avatarUrl": "https://avatars.githubusercontent.com/u/65783599?s=72&u=81935966996709fd02288b8e4e1c5b47965820f3&v=4",
@@ -35251,7 +35239,7 @@
     "company": "Sparq Inc.",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 16,
+    "privateContributions": 3,
     "publicContributions": 1,
     "createdAt": "2020-05-22T17:54:13Z"
   },
@@ -35280,18 +35268,6 @@
     "createdAt": "2020-04-14T08:02:15Z"
   },
   {
-    "login": "OneEyed1366",
-    "name": "Andrey Prokopenko",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/70268975?s=72&u=ca4b58d37a236dfe05e855030317945580fbc062&v=4",
-    "location": "Batumi, Georgia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 734,
-    "publicContributions": 620,
-    "createdAt": "2020-08-26T11:43:37Z"
-  },
-  {
     "login": "nikabara",
     "name": "Nick Baratashvili - ნიკა ბარათაშვილი",
     "avatarUrl": "https://avatars.githubusercontent.com/u/63517031?s=72&u=6bfd546d46d7f5d78dd03eaef4561638321293a5&v=4",
@@ -35299,8 +35275,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 43,
-    "publicContributions": 7,
+    "privateContributions": 54,
+    "publicContributions": 6,
     "createdAt": "2020-04-11T19:16:46Z"
   },
   {
@@ -35312,7 +35288,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 126,
+    "publicContributions": 77,
     "createdAt": "2020-09-30T10:37:11Z"
   },
   {
