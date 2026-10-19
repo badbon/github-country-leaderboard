@@ -1,8 +1,8 @@
 # Total Contributions - Armenia
 
-Generated: 2026-10-19T17:05:54.523Z
+Generated: 2026-10-19T23:09:01.731Z
 
-Users: 4034
+Users: 4033
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -10,12 +10,12 @@ Users: 4034
 | 2 | [diazoxide](https://github.com/diazoxide) | Aaron Yordanyan | EasyDMARC |  | Armenia | 13936 |
 | 3 | [logictonic](https://github.com/logictonic) | Eugene |  |  | Armenia | 13603 |
 | 4 | [ilyalosinski](https://github.com/ilyalosinski) | Ilya Losinski |  |  | Yerevan, Armenia | 12592 |
-| 5 | [igoralentyev](https://github.com/igoralentyev) | Igor Alentyev |  |  | Armenia | 11483 |
-| 6 | [RALIST](https://github.com/RALIST) | Alexander Danilov  | Tiksat |  | Yerevan | 11414 |
-| 7 | [lobotomoe](https://github.com/lobotomoe) | Alex Kraiz | @FoilHats |  | Yerevan | 10887 |
-| 8 | [meanmail](https://github.com/meanmail) | Alexander Petrov | meanmail.dev | meanmaildev | Armenia, Yerevan | 10720 |
-| 9 | [n0uk](https://github.com/n0uk) | Maksim Ustichenko |  |  | RA, Yerevan | 9051 |
-| 10 | [prazian](https://github.com/prazian) | Pooyan Razian | Yanovian LLC |  | Yerevan, Armenia | 8784 |
+| 5 | [prazian](https://github.com/prazian) | Pooyan Razian | Yanovian LLC |  | Yerevan, Armenia | 11578 |
+| 6 | [igoralentyev](https://github.com/igoralentyev) | Igor Alentyev |  |  | Armenia | 11483 |
+| 7 | [RALIST](https://github.com/RALIST) | Alexander Danilov  | Tiksat |  | Yerevan | 11414 |
+| 8 | [lobotomoe](https://github.com/lobotomoe) | Alex Kraiz | @FoilHats |  | Yerevan | 10887 |
+| 9 | [meanmail](https://github.com/meanmail) | Alexander Petrov | meanmail.dev | meanmaildev | Armenia, Yerevan | 10720 |
+| 10 | [n0uk](https://github.com/n0uk) | Maksim Ustichenko |  |  | RA, Yerevan | 9051 |
 | 11 | [urumo](https://github.com/urumo) |  |  | svacksalty | Armenia, Yerevan | 8750 |
 | 12 | [m0n0x41d](https://github.com/m0n0x41d) | ivan zakutni | Fusioncat |  | Armenia | 8606 |
 | 13 | [vadim-su](https://github.com/vadim-su) | Vadim Suharnikov |  |  | Armenia Yerevan | 8162 |

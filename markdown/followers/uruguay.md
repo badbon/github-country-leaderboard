@@ -1,8 +1,8 @@
 # Followers - Uruguay
 
-Generated: 2026-10-19T16:57:47.819Z
+Generated: 2026-10-19T23:01:04.455Z
 
-Users: 5610
+Users: 5608
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

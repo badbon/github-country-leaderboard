@@ -1,8 +1,8 @@
 # Followers - Togo
 
-Generated: 2026-10-19T16:53:00.936Z
+Generated: 2026-10-19T22:55:54.221Z
 
-Users: 679
+Users: 678
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -24,5 +24,5 @@ Users: 679
 | 16 | [lecodeur228](https://github.com/lecodeur228) | irin |  |  | TOGO | 70 |
 | 17 | [Matthieu96Code](https://github.com/Matthieu96Code) | Kodjo Matthieu SENOU | Full-Stack Developer | MatthieuSenou | Togo, Lome | 69 |
 | 18 | [Koj-Kyo](https://github.com/Koj-Kyo) |  |  |  | Lomé , Togo | 68 |
-| 19 | [ica1010](https://github.com/ica1010) | Ghislin |  |  | Lomé , Togo | 65 |
+| 19 | [ica1010](https://github.com/ica1010) | Ghislin |  |  | Lomé , Togo | 66 |
 | 20 | [Maximekgn](https://github.com/Maximekgn) | KOGON Mawunygan Maxime |  |  | Togo | 64 |

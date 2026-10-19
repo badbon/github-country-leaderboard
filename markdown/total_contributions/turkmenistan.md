@@ -1,6 +1,6 @@
 # Total Contributions - Turkmenistan
 
-Generated: 2026-10-19T16:54:43.279Z
+Generated: 2026-10-19T22:57:47.137Z
 
 Users: 501
 
@@ -14,8 +14,8 @@ Users: 501
 | 6 | [richxcame](https://github.com/richxcame) | Baygeldi Cholukov |  | richxcame | Turkmenistan | 4382 |
 | 7 | [bayramBabagulyyev](https://github.com/bayramBabagulyyev) | Bayram Babagulyyev | @KIP-Engineering  | BayramBabagulyy | Turkmenistan | 4272 |
 | 8 | [lightRain0629](https://github.com/lightRain0629) | Umyt | @GSR-Network |  | Ashgabat, Turkmenistan | 4039 |
-| 9 | [noxur05](https://github.com/noxur05) | Bagtyyar Rejepov | @GSR-Network | noxur05 | Ashgabat, Turkmenistan | 3715 |
-| 10 | [kakajansh](https://github.com/kakajansh) | Kakajan SH | Ajap Ulgam |  | Ashgabat | 3707 |
+| 9 | [kakajansh](https://github.com/kakajansh) | Kakajan SH | Ajap Ulgam |  | Ashgabat | 3744 |
+| 10 | [noxur05](https://github.com/noxur05) | Bagtyyar Rejepov | @GSR-Network | noxur05 | Ashgabat, Turkmenistan | 3715 |
 | 11 | [Nirovitsky](https://github.com/Nirovitsky) | Ata |  |  | Turkmenistan | 3369 |
 | 12 | [Begench2005](https://github.com/Begench2005) | Begench |  |  | Ashgabat, Turkmenistan | 3253 |
 | 13 | [Dayanch437](https://github.com/Dayanch437) | Salarov Dayanch Kemalovich | Oguz han technology center | Dayanch437 | Turkmenistan | 3101 |

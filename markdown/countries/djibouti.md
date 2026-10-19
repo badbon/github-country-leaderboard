@@ -67,7 +67,7 @@ Indexed users: 55
 | 3 | [Ama-dou](https://github.com/Ama-dou) | Amadou Bah | Djibouti | 18 |
 | 4 | [abdibogor](https://github.com/abdibogor) |  | Djibouti | 15 |
 | 5 | [hamoudabass](https://github.com/hamoudabass) | Hamoud Abass  | Djibouti | 15 |
-| 6 | [Obelisk999](https://github.com/Obelisk999) | Abdoulrazak | Djibouti | 14 |
+| 6 | [Obelisk999](https://github.com/Obelisk999) | Abdoulrazak | Djibouti | 13 |
 | 7 | [moustapha-aden](https://github.com/moustapha-aden) | MOUSTAPHA ADEN DIRIYEH | Djibouti Dj | 11 |
 | 8 | [nabolitains](https://github.com/nabolitains) | Charko M. | Djibouti | 11 |
 | 9 | [zeynabhabib](https://github.com/zeynabhabib) | Zeinab Habib Hassan | Djibouti | 10 |
@@ -83,4 +83,4 @@ Indexed users: 55
 | 19 | [jibo-zz](https://github.com/jibo-zz) | Mohamed Cheikh | Djibouti | 5 |
 | 20 | [LuxusIX](https://github.com/LuxusIX) | Abdourahman A.Daher | Djibouti | 5 |
 
-Generated: 2026-10-19T17:21:49.092Z
+Generated: 2026-10-19T23:24:59.270Z

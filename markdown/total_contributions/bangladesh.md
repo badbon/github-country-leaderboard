@@ -1,6 +1,6 @@
 # Total Contributions - Bangladesh
 
-Generated: 2026-10-19T17:07:21.630Z
+Generated: 2026-10-19T23:11:09.992Z
 
 Users: 55315
 
@@ -19,10 +19,10 @@ Users: 55315
 | 11 | [MusfiqDehan](https://github.com/MusfiqDehan) | Md. Musfiqur Rahaman | TechForing Ltd. | musfiqdehan | Baridhara DOHS, Dhaka, Bangladesh | 26666 |
 | 12 | [myselfhridoy](https://github.com/myselfhridoy) | Hridoy Matber | Home |  | Dhaka, Bangladesh | 24965 |
 | 13 | [JahidGittu](https://github.com/JahidGittu) | Jahid Hossen |  |  | Raipur, Lakshmipur, Chittagong, Bangladesh. | 22698 |
-| 14 | [selim121](https://github.com/selim121) | Md Selim Hossain | Co-Founder @ Lex Academy | selim_hossain1 | Dhaka, Bangladesh | 21126 |
-| 15 | [Azimul-Haque](https://github.com/Azimul-Haque) | A. H. M. Azimul Haque | IIT, DU | orbachinujbuk | Dhaka, Bangladesh | 20630 |
-| 16 | [DevZonayed](https://github.com/DevZonayed) | Jonayed Ahamed |  |  | Naogaon,Dhaka,Bangladesh | 19660 |
-| 17 | [developerjillur](https://github.com/developerjillur) | Jillur Rahman | DevsSquad |  | Dhaka, Bangladesh | 18924 |
-| 18 | [MHRahman](https://github.com/MHRahman) | Md. Habibur Rahman | Software Engineer \| Product Developer |  | Bangladesh | 18144 |
-| 19 | [rahat664](https://github.com/rahat664) | Rahat kabir Dhrubo | Shamolima Limited | rahat64527 | Gulshan, Dhaka, Bangladesh  | 17789 |
-| 20 | [MarufAlAslam](https://github.com/MarufAlAslam) | Maruf H. | Bloxley | Maruf23350252 | Banasree, Dhaka | 17257 |
+| 14 | [absrasel-cell](https://github.com/absrasel-cell) | Md. Rasel Miah | redxtrm | redxtrm | Dhaka, Bangladesh | 21214 |
+| 15 | [selim121](https://github.com/selim121) | Md Selim Hossain | Co-Founder @ Lex Academy | selim_hossain1 | Dhaka, Bangladesh | 21126 |
+| 16 | [Azimul-Haque](https://github.com/Azimul-Haque) | A. H. M. Azimul Haque | IIT, DU | orbachinujbuk | Dhaka, Bangladesh | 20630 |
+| 17 | [DevZonayed](https://github.com/DevZonayed) | Jonayed Ahamed |  |  | Naogaon,Dhaka,Bangladesh | 19660 |
+| 18 | [developerjillur](https://github.com/developerjillur) | Jillur Rahman | DevsSquad |  | Dhaka, Bangladesh | 18924 |
+| 19 | [MHRahman](https://github.com/MHRahman) | Md. Habibur Rahman | Software Engineer \| Product Developer |  | Bangladesh | 18144 |
+| 20 | [rahat664](https://github.com/rahat664) | Rahat kabir Dhrubo | Shamolima Limited | rahat64527 | Gulshan, Dhaka, Bangladesh  | 17789 |

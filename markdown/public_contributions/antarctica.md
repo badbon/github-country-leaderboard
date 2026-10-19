@@ -1,8 +1,8 @@
 # Public Contributions - Antarctica
 
-Generated: 2026-10-19T17:05:20.148Z
+Generated: 2026-10-19T23:07:17.510Z
 
-Users: 461
+Users: 460
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -23,6 +23,6 @@ Users: 461
 | 15 | [PenguinDOOM](https://github.com/PenguinDOOM) | Penguin | Working 6 days a week, 317 days a year |  | Antarctica, Discord, VRChat | 524 |
 | 16 | [oniaz](https://github.com/oniaz) | Omnia |  |  | antarctica | 517 |
 | 17 | [Daedalus-code](https://github.com/Daedalus-code) |  |  |  | Antarctica | 472 |
-| 18 | [AuroraLantean](https://github.com/AuroraLantean) | AuroraLantean  |  | raymondlweb3 | Antarctica | 453 |
+| 18 | [AuroraLantean](https://github.com/AuroraLantean) | AuroraLantean  |  | raymondlweb3 | Antarctica | 457 |
 | 19 | [VilnisGrinbergs2000](https://github.com/VilnisGrinbergs2000) |  | No clue |  | Antarctica | 451 |
 | 20 | [bestruirui](https://github.com/bestruirui) | BESTRUI |  |  | Antarctica | 440 |

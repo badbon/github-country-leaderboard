@@ -68,12 +68,12 @@ Indexed users: 2,037
 | 4 | [karimshaban01](https://github.com/karimshaban01) | Karim S. Haruna | ARUSHA, TANZANIA | 1,065 |
 | 5 | [avict18](https://github.com/avict18) | Aaron Vic | Tanzania | 1,030 |
 | 6 | [Kalebu](https://github.com/Kalebu) | Jordan Kalebu | Dar es Salaam , Tanzania | 955 |
-| 7 | [isaka-james](https://github.com/isaka-james) | masterplan | Dodoma, Tanzania | 553 |
+| 7 | [isaka-james](https://github.com/isaka-james) | masterplan | Dodoma, Tanzania | 554 |
 | 8 | [gernest](https://github.com/gernest) | Geofrey Ernest | Arusha, Tanzania | 409 |
 | 9 | [tarxemo](https://github.com/tarxemo) | TarXemo | Dodoma-Tanzania | 406 |
 | 10 | [TheCollinsByte](https://github.com/TheCollinsByte) | Collins | Arusha, Tanzania | 390 |
 | 11 | [benny-png](https://github.com/benny-png) | Benjamin Maziku Mashimba | Dar Es Salaam, TANZANIA | 381 |
-| 12 | [TripleHat](https://github.com/TripleHat) |  | Tanzania | 295 |
+| 12 | [TripleHat](https://github.com/TripleHat) |  | Tanzania | 296 |
 | 13 | [gilbertmunuotz](https://github.com/gilbertmunuotz) | Gilbert Munuo | Tanzania | 249 |
 | 14 | [Pheogrammer](https://github.com/Pheogrammer) | Alfeo Raymond | Dar es salaam, Tanzania | 219 |
 | 15 | [AvicennaJr](https://github.com/AvicennaJr) | Avicenna | Dar Es Salaam, Tanzania | 215 |
@@ -83,4 +83,4 @@ Indexed users: 2,037
 | 19 | [3nock](https://github.com/3nock) | Enock | Dar es Salaam, Tanzania | 187 |
 | 20 | [Mrhanstz](https://github.com/Mrhanstz) | HANSTZ | Africa Dodoma | 179 |
 
-Generated: 2026-10-19T16:52:14.251Z
+Generated: 2026-10-19T22:53:41.605Z

@@ -68,19 +68,19 @@ Indexed users: 3,097
 | 4 | [andrejbauer](https://github.com/andrejbauer) | Andrej Bauer | Slovenia | 933 |
 | 5 | [igorpecovnik](https://github.com/igorpecovnik) | Igor | Ljubljana | 925 |
 | 6 | [aksonov](https://github.com/aksonov) | Pavel Aksonov | Koper, Slovenia | 629 |
-| 7 | [Kami](https://github.com/Kami) | Tomaz Muraus | Ljubljana, Slovenia | 614 |
+| 7 | [Kami](https://github.com/Kami) | Tomaz Muraus | Ljubljana, Slovenia | 617 |
 | 8 | [CANopenNode](https://github.com/CANopenNode) | Janez | Slovenia | 609 |
-| 9 | [matej](https://github.com/matej) | Matej Bukovinski | Ljubljana, Slovenia | 414 |
+| 9 | [matej](https://github.com/matej) | Matej Bukovinski | Ljubljana, Slovenia | 418 |
 | 10 | [maticzav](https://github.com/maticzav) | Matic Zavadlal | Ljubljana, Slovenia | 390 |
 | 11 | [dz0ny](https://github.com/dz0ny) | Janez Troha | Slovenia | 289 |
 | 12 | [AndrewStetsenko](https://github.com/AndrewStetsenko) |  | Slovenia | 288 |
 | 13 | [tinrab](https://github.com/tinrab) | Tin Rabzelj | Ljubljana, Slovenia | 283 |
 | 14 | [otobrglez](https://github.com/otobrglez) | Oto Brglez | Ljubljana, Slovenia | 276 |
 | 15 | [titpetric](https://github.com/titpetric) | Tit Petric | Ljubljana, Slovenia | 261 |
-| 16 | [tomaz](https://github.com/tomaz) | tomaz | Slovenia | 249 |
+| 16 | [tomaz](https://github.com/tomaz) | tomaz | Slovenia | 251 |
 | 17 | [dorkamotorka](https://github.com/dorkamotorka) | Teodor Janez Podobnik | Ljubljana, Slovenia | 248 |
 | 18 | [jure](https://github.com/jure) | Jure Triglav | Ljubljana, Slovenia | 243 |
 | 19 | [garbas](https://github.com/garbas) | Rok Garbas | Ljubljana, Slovenia | 240 |
 | 20 | [buresdv](https://github.com/buresdv) | David Bureš | Maribor, Slovenia | 238 |
 
-Generated: 2026-10-19T16:45:26.282Z
+Generated: 2026-10-19T22:49:35.113Z

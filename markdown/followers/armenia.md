@@ -1,8 +1,8 @@
 # Followers - Armenia
 
-Generated: 2026-10-19T17:05:54.523Z
+Generated: 2026-10-19T23:09:01.731Z
 
-Users: 4034
+Users: 4033
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

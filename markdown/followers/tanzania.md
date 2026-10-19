@@ -1,6 +1,6 @@
 # Followers - Tanzania
 
-Generated: 2026-10-19T16:52:14.251Z
+Generated: 2026-10-19T22:53:41.605Z
 
 Users: 2037
 
@@ -12,12 +12,12 @@ Users: 2037
 | 4 | [karimshaban01](https://github.com/karimshaban01) | Karim S. Haruna |  | OficialKareem | ARUSHA, TANZANIA | 1065 |
 | 5 | [avict18](https://github.com/avict18) | Aaron Vic | Ziplies |  | Tanzania | 1030 |
 | 6 | [Kalebu](https://github.com/Kalebu) | Jordan Kalebu | @NeuroTech-HQ | j_kalebu | Dar es Salaam , Tanzania | 955 |
-| 7 | [isaka-james](https://github.com/isaka-james) | masterplan | @innotake |  | Dodoma, Tanzania | 553 |
+| 7 | [isaka-james](https://github.com/isaka-james) | masterplan | @innotake |  | Dodoma, Tanzania | 554 |
 | 8 | [gernest](https://github.com/gernest) | Geofrey Ernest |  |  | Arusha, Tanzania | 409 |
 | 9 | [tarxemo](https://github.com/tarxemo) | TarXemo | TarXemo |  | Dodoma-Tanzania | 406 |
 | 10 | [TheCollinsByte](https://github.com/TheCollinsByte) | Collins | @KwaWingu | TheCollinsByte | Arusha, Tanzania | 390 |
 | 11 | [benny-png](https://github.com/benny-png) | Benjamin Maziku Mashimba | 3D & Robotics Lab UDSM |  | Dar Es Salaam, TANZANIA | 381 |
-| 12 | [TripleHat](https://github.com/TripleHat) |  |  | tripl3hat | Tanzania | 295 |
+| 12 | [TripleHat](https://github.com/TripleHat) |  |  | tripl3hat | Tanzania | 296 |
 | 13 | [gilbertmunuotz](https://github.com/gilbertmunuotz) | Gilbert Munuo | Remote | gilbertmunuotz | Tanzania | 249 |
 | 14 | [Pheogrammer](https://github.com/Pheogrammer) | Alfeo Raymond |  | pheogrammer | Dar es salaam, Tanzania | 219 |
 | 15 | [AvicennaJr](https://github.com/AvicennaJr) | Avicenna |  |  | Dar Es Salaam, Tanzania | 215 |

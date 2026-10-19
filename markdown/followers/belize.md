@@ -1,12 +1,12 @@
 # Followers - Belize
 
-Generated: 2026-10-19T17:09:10.982Z
+Generated: 2026-10-19T23:13:11.898Z
 
 Users: 94
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [AlexDev404](https://github.com/AlexDev404) | Immanuel Daviel A. Garcia | The University of Belize |  | Belmopan, BZ | 112 |
+| 1 | [AlexDev404](https://github.com/AlexDev404) | Immanuel Daviel A. Garcia | The University of Belize |  | Belmopan, BZ | 113 |
 | 2 | [erichanson](https://github.com/erichanson) | Eric Hanson |  | erichanson | Belize | 38 |
 | 3 | [Maou-Shimazu](https://github.com/Maou-Shimazu) | Eldad Danladi |  |  | Belize | 31 |
 | 4 | [Prufio](https://github.com/Prufio) | prufio | pruf.io | prufteam | Belize City, Belize | 24 |

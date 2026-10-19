@@ -1,6 +1,6 @@
 # Antarctica
 
-Indexed users: 461
+Indexed users: 460
 
 | Leaderboard | Link |
 |---|---|
@@ -54,7 +54,7 @@ Indexed users: 461
 | 15 | [PenguinDOOM](https://github.com/PenguinDOOM) | Penguin | Antarctica, Discord, VRChat | 524 |
 | 16 | [oniaz](https://github.com/oniaz) | Omnia | antarctica | 517 |
 | 17 | [Daedalus-code](https://github.com/Daedalus-code) |  | Antarctica | 472 |
-| 18 | [AuroraLantean](https://github.com/AuroraLantean) | AuroraLantean  | Antarctica | 453 |
+| 18 | [AuroraLantean](https://github.com/AuroraLantean) | AuroraLantean  | Antarctica | 457 |
 | 19 | [VilnisGrinbergs2000](https://github.com/VilnisGrinbergs2000) |  | Antarctica | 451 |
 | 20 | [bestruirui](https://github.com/bestruirui) | BESTRUI | Antarctica | 440 |
 
@@ -83,4 +83,4 @@ Indexed users: 461
 | 19 | [alphaaurigae](https://github.com/alphaaurigae) | Marian Brockerhoff | Antarctica | 85 |
 | 20 | [fakeid30](https://github.com/fakeid30) | Fake ID | Antarctica | 78 |
 
-Generated: 2026-10-19T17:05:20.148Z
+Generated: 2026-10-19T23:07:17.510Z

@@ -1,6 +1,6 @@
 # Togo
 
-Indexed users: 679
+Indexed users: 678
 
 | Leaderboard | Link |
 |---|---|
@@ -29,8 +29,8 @@ Indexed users: 679
 | 15 | [Rahim10020](https://github.com/Rahim10020) | Rahim ALI | Lome -TOGO | 4,166 |
 | 16 | [Einswilli](https://github.com/Einswilli) | #Einswilli | Lomé | 3,897 |
 | 17 | [Le-Sourcier](https://github.com/Le-Sourcier) | Yao David LOGAN | US, TOGO, UK | 3,815 |
-| 18 | [Giovidoh](https://github.com/Giovidoh) | ICGreborns | Lomé, Togo | 3,614 |
-| 19 | [Ygryan360](https://github.com/Ygryan360) | Rayane | Lomé, Togo | 3,606 |
+| 18 | [Ygryan360](https://github.com/Ygryan360) | Rayane | Lomé, Togo | 3,606 |
+| 19 | [Giovidoh](https://github.com/Giovidoh) | ICGreborns | Lomé, Togo | 3,598 |
 | 20 | [Georginio-prod](https://github.com/Georginio-prod) | Georginio  | lomé-TOGO | 3,517 |
 
 ## Public Contributions
@@ -80,7 +80,7 @@ Indexed users: 679
 | 16 | [lecodeur228](https://github.com/lecodeur228) | irin | TOGO | 70 |
 | 17 | [Matthieu96Code](https://github.com/Matthieu96Code) | Kodjo Matthieu SENOU | Togo, Lome | 69 |
 | 18 | [Koj-Kyo](https://github.com/Koj-Kyo) |  | Lomé , Togo | 68 |
-| 19 | [ica1010](https://github.com/ica1010) | Ghislin | Lomé , Togo | 65 |
+| 19 | [ica1010](https://github.com/ica1010) | Ghislin | Lomé , Togo | 66 |
 | 20 | [Maximekgn](https://github.com/Maximekgn) | KOGON Mawunygan Maxime | Togo | 64 |
 
-Generated: 2026-10-19T16:53:00.936Z
+Generated: 2026-10-19T22:55:54.221Z

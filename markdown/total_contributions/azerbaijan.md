@@ -1,8 +1,8 @@
 # Total Contributions - Azerbaijan
 
-Generated: 2026-10-19T17:06:04.380Z
+Generated: 2026-10-19T23:11:00.010Z
 
-Users: 5053
+Users: 5051
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
