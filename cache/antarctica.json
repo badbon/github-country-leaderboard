@@ -296,7 +296,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 485,
-    "publicContributions": 236,
+    "publicContributions": 451,
     "createdAt": "2025-10-26T01:35:30Z"
   },
   {
@@ -352,10 +352,10 @@
     "name": "xilo",
     "avatarUrl": "https://avatars.githubusercontent.com/u/232167622?s=72&u=485a293f0f9d020f777bc38524234259dffb70e1&v=4",
     "location": "Antarctica",
-    "company": "https://xilosarchive.justxilo.workers.dev",
+    "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 76,
+    "privateContributions": 82,
     "publicContributions": 134,
     "createdAt": "2025-09-14T08:12:03Z"
   },
@@ -380,7 +380,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 6,
     "createdAt": "2025-09-24T16:51:54Z"
   },
   {
@@ -475,7 +475,7 @@
     "company": "@pancakeswap",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 1505,
+    "privateContributions": 1499,
     "publicContributions": 3,
     "createdAt": "2024-05-06T08:47:25Z"
   },

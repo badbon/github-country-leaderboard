@@ -33636,18 +33636,6 @@
     "createdAt": "2022-07-19T20:40:34Z"
   },
   {
-    "login": "xWonder87x",
-    "name": "odisseasmk",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/99147089?s=72&u=58523ea5f590846986e30281a74fd19ab6ecd9ed&v=4",
-    "location": "Athens, Greece",
-    "company": "Webpartner",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 100,
-    "createdAt": "2022-02-06T21:39:10Z"
-  },
-  {
     "login": "gramiotis",
     "name": "George Ramiotis",
     "avatarUrl": "https://avatars.githubusercontent.com/u/116106088?s=72&u=57ebd9c022f9a0923a0c68d4bf21098d1cc189b2&v=4",
@@ -33655,7 +33643,7 @@
     "company": "Technical University of Crete",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 68,
+    "privateContributions": 77,
     "publicContributions": 0,
     "createdAt": "2022-10-18T17:10:59Z"
   },
@@ -33666,9 +33654,9 @@
     "location": "Hellenic Republic",
     "company": "New Technologies Software",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 457,
+    "publicContributions": 502,
     "createdAt": "2022-10-09T10:45:02Z"
   },
   {
@@ -33679,7 +33667,7 @@
     "company": "http://www.ikea.com",
     "twitterUsername": "",
     "followers": 21,
-    "privateContributions": 143,
+    "privateContributions": 330,
     "publicContributions": 0,
     "createdAt": "2013-02-07T00:36:11Z"
   },
@@ -33690,8 +33678,8 @@
     "location": "Athens",
     "company": "",
     "twitterUsername": "",
-    "followers": 54,
-    "privateContributions": 277,
+    "followers": 47,
+    "privateContributions": 431,
     "publicContributions": 0,
     "createdAt": "2022-11-10T17:39:51Z"
   },
@@ -33702,9 +33690,9 @@
     "location": "Athens",
     "company": "",
     "twitterUsername": "",
-    "followers": 29,
-    "privateContributions": 12,
-    "publicContributions": 183,
+    "followers": 28,
+    "privateContributions": 3,
+    "publicContributions": 156,
     "createdAt": "2022-11-15T14:12:32Z"
   },
   {
@@ -33714,9 +33702,9 @@
     "location": "Athens",
     "company": "",
     "twitterUsername": "",
-    "followers": 29,
+    "followers": 28,
     "privateContributions": 18,
-    "publicContributions": 38,
+    "publicContributions": 32,
     "createdAt": "2022-03-31T15:10:09Z"
   },
   {
@@ -33738,22 +33726,10 @@
     "location": "Athens, Labrini",
     "company": "Self-Employed",
     "twitterUsername": "",
-    "followers": 24,
-    "privateContributions": 0,
-    "publicContributions": 2,
-    "createdAt": "2022-10-25T19:23:01Z"
-  },
-  {
-    "login": "HliasMpGH",
-    "name": "Ilias Bourdakos",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/115589434?s=72&u=ef0c34404d87ed024b35617a436ba8e0df843a98&v=4",
-    "location": "Athens, GR",
-    "company": "Agile Actors | Red Hat | IBM",
-    "twitterUsername": "",
     "followers": 23,
-    "privateContributions": 195,
-    "publicContributions": 51,
-    "createdAt": "2022-10-11T20:28:11Z"
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2022-10-25T19:23:01Z"
   },
   {
     "login": "ChrisAnagno",
@@ -33787,8 +33763,8 @@
     "company": "National Technical University of Athens",
     "twitterUsername": "",
     "followers": 19,
-    "privateContributions": 775,
-    "publicContributions": 7,
+    "privateContributions": 760,
+    "publicContributions": 9,
     "createdAt": "2022-10-19T11:30:47Z"
   },
   {
@@ -33798,9 +33774,9 @@
     "location": "Athens",
     "company": "SILVARE ",
     "twitterUsername": "",
-    "followers": 17,
+    "followers": 15,
     "privateContributions": 0,
-    "publicContributions": 77,
+    "publicContributions": 63,
     "createdAt": "2022-03-20T21:08:45Z"
   },
   {
@@ -33811,7 +33787,7 @@
     "company": "University of Athens",
     "twitterUsername": "",
     "followers": 17,
-    "privateContributions": 9,
+    "privateContributions": 16,
     "publicContributions": 2,
     "createdAt": "2022-01-13T15:25:00Z"
   },
@@ -33822,7 +33798,7 @@
     "location": "Athens",
     "company": "",
     "twitterUsername": "",
-    "followers": 15,
+    "followers": 14,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2022-05-28T09:23:39Z"
@@ -33834,9 +33810,9 @@
     "location": "Athens",
     "company": "",
     "twitterUsername": "",
-    "followers": 15,
-    "privateContributions": 413,
-    "publicContributions": 120,
+    "followers": 18,
+    "privateContributions": 604,
+    "publicContributions": 320,
     "createdAt": "2022-11-15T12:23:57Z"
   },
   {
@@ -33846,9 +33822,9 @@
     "location": "Athens",
     "company": "",
     "twitterUsername": "",
-    "followers": 14,
-    "privateContributions": 449,
-    "publicContributions": 949,
+    "followers": 17,
+    "privateContributions": 647,
+    "publicContributions": 992,
     "createdAt": "2022-01-05T16:44:58Z"
   },
   {
@@ -33858,9 +33834,9 @@
     "location": "Athens, GR",
     "company": "",
     "twitterUsername": "",
-    "followers": 14,
-    "privateContributions": 91,
-    "publicContributions": 13,
+    "followers": 15,
+    "privateContributions": 54,
+    "publicContributions": 4,
     "createdAt": "2022-05-19T09:03:45Z"
   },
   {

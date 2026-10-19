@@ -32852,7 +32852,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 2,
     "createdAt": "2023-10-10T11:03:31Z"
   },
   {
@@ -32863,20 +32863,20 @@
     "company": "@Caspeco",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1383,
-    "publicContributions": 116,
+    "privateContributions": 1400,
+    "publicContributions": 137,
     "createdAt": "2023-09-04T19:15:15Z"
   },
   {
     "login": "rasmusm2023",
     "name": "Rasmus Mattsson",
     "avatarUrl": "https://avatars.githubusercontent.com/u/145431710?s=72&u=6536e678fc4b881b37c86cb2696071dc972d1edb&v=4",
-    "location": "Stockholm, Sweden",
+    "location": "Halmstad, Sweden",
     "company": "",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 401,
+    "publicContributions": 515,
     "createdAt": "2023-09-19T07:17:11Z"
   },
   {
@@ -32888,7 +32888,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 9,
     "createdAt": "2023-10-10T19:40:36Z"
   },
   {
@@ -32900,7 +32900,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 95,
+    "publicContributions": 59,
     "createdAt": "2023-08-29T06:03:26Z"
   },
   {
@@ -32922,9 +32922,9 @@
     "location": "Sweden, Stockholm",
     "company": "",
     "twitterUsername": "ErikFrankling",
-    "followers": 2,
-    "privateContributions": 1259,
-    "publicContributions": 492,
+    "followers": 4,
+    "privateContributions": 1686,
+    "publicContributions": 661,
     "createdAt": "2023-08-01T22:51:38Z"
   },
   {
@@ -32960,7 +32960,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 0,
     "createdAt": "2023-08-30T07:44:14Z"
   },
   {
@@ -32978,13 +32978,13 @@
   {
     "login": "micaelaegger",
     "name": "Micaela Egger",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/142034582?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/142034582?s=72&u=73bb0313aa1d8b1005338c7ad38067569b37ffc7&v=4",
     "location": "Sweden, Stockholm",
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 5,
+    "privateContributions": 265,
+    "publicContributions": 0,
     "createdAt": "2023-08-11T15:17:47Z"
   },
   {
@@ -32996,7 +32996,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 87,
+    "publicContributions": 101,
     "createdAt": "2023-06-29T17:06:48Z"
   },
   {
@@ -33019,7 +33019,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 3,
+    "privateContributions": 2,
     "publicContributions": 15,
     "createdAt": "2023-08-30T08:52:20Z"
   },
@@ -33031,8 +33031,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 7,
+    "privateContributions": 50,
+    "publicContributions": 5,
     "createdAt": "2023-12-06T08:10:47Z"
   },
   {
@@ -33044,7 +33044,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 6,
     "createdAt": "2023-09-13T19:50:04Z"
   },
   {
@@ -33056,7 +33056,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 8,
     "createdAt": "2023-08-31T12:59:07Z"
   },
   {
@@ -468370,5 +468370,17 @@
     "privateContributions": 165,
     "publicContributions": 62,
     "createdAt": "2019-09-07T21:46:03Z"
+  },
+  {
+    "login": "HliasMpGH",
+    "name": "Ilias Bourdakos",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/115589434?s=72&u=ef0c34404d87ed024b35617a436ba8e0df843a98&v=4",
+    "location": "Stockholm, SE",
+    "company": "Agile Actors | Red Hat | IBM",
+    "twitterUsername": "",
+    "followers": 24,
+    "privateContributions": 259,
+    "publicContributions": 38,
+    "createdAt": "2022-10-11T20:28:11Z"
   }
 ]

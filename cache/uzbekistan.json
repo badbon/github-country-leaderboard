@@ -33536,7 +33536,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 170,
+    "publicContributions": 275,
     "createdAt": "2023-11-07T06:02:28Z"
   },
   {
@@ -33630,7 +33630,7 @@
     "location": "Uzbekistan, Tashkent",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-07-19T12:38:53Z"
@@ -33642,9 +33642,9 @@
     "location": "Tashkent, Uzbekistan",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 93,
+    "publicContributions": 98,
     "createdAt": "2023-08-08T14:31:36Z"
   },
   {
@@ -33656,7 +33656,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 7,
     "createdAt": "2023-07-04T07:20:48Z"
   },
   {
@@ -33678,7 +33678,7 @@
     "location": "Uzbekistan",
     "company": "Devus",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-08-24T07:52:30Z"
@@ -33704,7 +33704,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 300,
+    "publicContributions": 202,
     "createdAt": "2023-12-22T03:14:13Z"
   },
   {
@@ -33716,7 +33716,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 32,
+    "publicContributions": 33,
     "createdAt": "2023-08-01T11:26:03Z"
   },
   {
@@ -33752,7 +33752,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 3,
     "createdAt": "2023-07-22T04:44:57Z"
   },
   {
@@ -33763,7 +33763,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 0,
+    "privateContributions": 1,
     "publicContributions": 26,
     "createdAt": "2023-06-30T13:37:53Z"
   },
@@ -114154,5 +114154,41 @@
     "privateContributions": 0,
     "publicContributions": 36,
     "createdAt": "2026-06-29T16:44:02Z"
+  },
+  {
+    "login": "mamajonovzokhidjon",
+    "name": "Zoxidjon Mamajonov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298141445?s=72&u=a3fd061e539e084798a815ee8a2e14f437fe49d4&v=4",
+    "location": "Uzbekistan ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2026-06-30T05:49:07Z"
+  },
+  {
+    "login": "Doniyorbek011",
+    "name": "Doniyorbek Hazratqulov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298202566?s=72&u=79f02d0b0b690f65e0e24d3b99494fae5fa46f39&v=4",
+    "location": "Gulistan, Uzbekistan",
+    "company": "IT LIVE",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 11,
+    "createdAt": "2026-06-30T08:55:21Z"
+  },
+  {
+    "login": "murodovaxror9-coder",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298144121?s=72&u=357496d7f5102e3280ac8633f9efc0b46c0fc03e&v=4",
+    "location": "Tashkent, Uzbekistan",
+    "company": "Tashkent, Uzbekistan",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 68,
+    "createdAt": "2026-06-30T05:58:26Z"
   }
 ]
