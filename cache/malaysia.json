@@ -35696,7 +35696,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 0,
     "createdAt": "2022-09-02T08:30:18Z"
   },
   {
@@ -35720,7 +35720,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 186,
+    "publicContributions": 187,
     "createdAt": "2022-07-06T06:28:36Z"
   },
   {
@@ -35731,7 +35731,7 @@
     "company": "@sourceflow-uk",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 335,
+    "privateContributions": 235,
     "publicContributions": 8,
     "createdAt": "2022-09-09T12:15:46Z"
   },
@@ -35790,7 +35790,7 @@
     "location": "Kuala Lumpur",
     "company": "UiTM",
     "twitterUsername": "nurulainibm_",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-07-24T15:31:37Z"
@@ -35802,9 +35802,9 @@
     "location": "PT 13796, Jalan, Tekno Usahawan 2, MRANTI Park, 57000 Kuala Lumpur, Federal Territory of Kuala Lumpur",
     "company": "Solution Engiverse Sdn Bhd",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 6,
     "createdAt": "2022-09-13T03:52:35Z"
   },
   {
@@ -35818,18 +35818,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-09-16T03:23:52Z"
-  },
-  {
-    "login": "jian-hong",
-    "name": "Jian Hong",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/112492415?s=72&u=52bd01069ce080f8eddae66e5f227cbd75221149&v=4",
-    "location": "Kuala Lumpur",
-    "company": "@Netie-AI ",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 230,
-    "createdAt": "2022-08-30T13:43:16Z"
   },
   {
     "login": "izzgohantu",
@@ -35862,7 +35850,7 @@
     "location": "Kuala Lumpur",
     "company": "Excelerate Asia/Invoke",
     "twitterUsername": "",
-    "followers": 39,
+    "followers": 40,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-10-20T08:39:03Z"
@@ -35874,9 +35862,9 @@
     "location": "Kuala Lumpur",
     "company": "",
     "twitterUsername": "",
-    "followers": 16,
+    "followers": 23,
     "privateContributions": 0,
-    "publicContributions": 120,
+    "publicContributions": 177,
     "createdAt": "2022-09-29T02:33:18Z"
   },
   {
@@ -35887,7 +35875,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 7,
+    "privateContributions": 3,
     "publicContributions": 47,
     "createdAt": "2022-11-02T09:14:28Z"
   },
@@ -35899,8 +35887,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 279,
-    "publicContributions": 29,
+    "privateContributions": 391,
+    "publicContributions": 44,
     "createdAt": "2022-12-09T03:05:15Z"
   },
   {
@@ -35910,9 +35898,9 @@
     "location": "Kuala Lumpur",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 11,
     "createdAt": "2022-12-02T02:03:56Z"
   },
   {
@@ -35922,7 +35910,7 @@
     "location": "Kuala Lumpur",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 9,
     "privateContributions": 0,
     "publicContributions": 83,
     "createdAt": "2022-11-14T11:53:53Z"

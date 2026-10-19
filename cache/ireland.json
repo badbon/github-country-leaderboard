@@ -35563,8 +35563,8 @@
     "company": "Mastercard",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 7,
-    "publicContributions": 43,
+    "privateContributions": 15,
+    "publicContributions": 15,
     "createdAt": "2021-04-22T22:02:40Z"
   },
   {
@@ -35576,7 +35576,7 @@
     "twitterUsername": "",
     "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 491,
+    "publicContributions": 113,
     "createdAt": "2021-02-24T16:12:05Z"
   },
   {
@@ -35587,8 +35587,8 @@
     "company": "Trinity College Dublin",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 156,
-    "publicContributions": 132,
+    "privateContributions": 143,
+    "publicContributions": 120,
     "createdAt": "2021-02-24T13:36:47Z"
   },
   {
@@ -35599,8 +35599,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 384,
-    "publicContributions": 1,
+    "privateContributions": 388,
+    "publicContributions": 10,
     "createdAt": "2021-01-13T22:06:54Z"
   },
   {
@@ -35610,9 +35610,9 @@
     "location": "Limerick, Ireland ",
     "company": "",
     "twitterUsername": "gupta_aryank",
-    "followers": 11,
-    "privateContributions": 1,
-    "publicContributions": 23,
+    "followers": 12,
+    "privateContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2021-06-06T15:10:55Z"
   },
   {
@@ -35630,12 +35630,12 @@
   {
     "login": "KSDunne",
     "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/77549699?s=72&u=a7a74157945ae589912483f8e64a2ffbe888d079&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/77549699?s=72&u=118a56136a4a7fc45a568e844ccf1f3892b235d3&v=4",
     "location": "Ireland",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 2,
+    "followers": 8,
+    "privateContributions": 5,
     "publicContributions": 0,
     "createdAt": "2021-01-16T19:07:00Z"
   },
@@ -35648,20 +35648,8 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 117,
+    "publicContributions": 211,
     "createdAt": "2021-04-10T20:38:29Z"
-  },
-  {
-    "login": "Sandalu2001",
-    "name": "Sandalu De Silva",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/86417299?s=72&u=29c95c8d0706391d24e919e159e91bad4c3327f3&v=4",
-    "location": "Ireland",
-    "company": "Sitecore",
-    "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 135,
-    "publicContributions": 0,
-    "createdAt": "2021-06-24T13:21:12Z"
   },
   {
     "login": "nupurrathod",
@@ -35684,7 +35672,7 @@
     "twitterUsername": "GrassetsT",
     "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 14,
     "createdAt": "2021-04-08T11:56:59Z"
   },
   {
@@ -35692,11 +35680,11 @@
     "name": "Mykhailo Balaker",
     "avatarUrl": "https://avatars.githubusercontent.com/u/83900885?s=72&v=4",
     "location": "Carlow, Ireland",
-    "company": "",
+    "company": "@GTNewHorizons ",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 18,
-    "publicContributions": 138,
+    "followers": 14,
+    "privateContributions": 64,
+    "publicContributions": 252,
     "createdAt": "2021-05-09T07:36:18Z"
   },
   {
@@ -35707,8 +35695,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 280,
-    "publicContributions": 74,
+    "privateContributions": 6,
+    "publicContributions": 113,
     "createdAt": "2021-05-22T04:55:57Z"
   },
   {
@@ -35718,7 +35706,7 @@
     "location": "Ireland",
     "company": "",
     "twitterUsername": "WsgSec",
-    "followers": 10,
+    "followers": 9,
     "privateContributions": 155,
     "publicContributions": 25,
     "createdAt": "2021-02-03T17:47:08Z"
@@ -35732,7 +35720,7 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 17,
     "createdAt": "2021-03-08T12:34:12Z"
   },
   {
@@ -35780,7 +35768,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 237,
-    "publicContributions": 58,
+    "publicContributions": 54,
     "createdAt": "2021-01-30T15:20:02Z"
   },
   {
@@ -35790,8 +35778,8 @@
     "location": "Dublin, Ireland",
     "company": "UCD",
     "twitterUsername": "sabi_mechanic",
-    "followers": 9,
-    "privateContributions": 261,
+    "followers": 8,
+    "privateContributions": 337,
     "publicContributions": 0,
     "createdAt": "2021-04-20T08:54:05Z"
   },

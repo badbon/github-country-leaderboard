@@ -35624,7 +35624,7 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 111,
+    "publicContributions": 109,
     "createdAt": "2023-12-17T20:48:46Z"
   },
   {
@@ -35634,9 +35634,9 @@
     "location": "Rabat",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 38,
-    "publicContributions": 176,
+    "followers": 11,
+    "privateContributions": 24,
+    "publicContributions": 168,
     "createdAt": "2023-10-17T21:28:11Z"
   },
   {
@@ -35646,7 +35646,7 @@
     "location": "Rabat",
     "company": "ENSAK",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 11,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-07-06T08:39:10Z"
@@ -35671,7 +35671,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 47,
+    "privateContributions": 83,
     "publicContributions": 0,
     "createdAt": "2023-02-19T12:10:08Z"
   },
@@ -35684,7 +35684,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 9,
     "createdAt": "2023-11-26T20:05:18Z"
   },
   {
@@ -35694,9 +35694,9 @@
     "location": "Rabat, Marocco",
     "company": "TalentMind",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 52,
-    "publicContributions": 146,
+    "followers": 11,
+    "privateContributions": 120,
+    "publicContributions": 94,
     "createdAt": "2023-01-06T21:13:38Z"
   },
   {
@@ -35706,7 +35706,7 @@
     "location": "Rabat",
     "company": "ENSIAS",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 8,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-04-24T21:13:49Z"
@@ -35718,22 +35718,10 @@
     "location": "Rabat-Agdal",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 175,
-    "publicContributions": 17,
+    "followers": 10,
+    "privateContributions": 10,
+    "publicContributions": 188,
     "createdAt": "2023-10-25T07:13:06Z"
-  },
-  {
-    "login": "zinebelbacha",
-    "name": "Zineb",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/147102745?s=72&u=ae614573eb9477f0dff745e02cbc48e4245f8ec1&v=4",
-    "location": "Rabat",
-    "company": "INPT",
-    "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 29,
-    "publicContributions": 25,
-    "createdAt": "2023-10-05T20:07:51Z"
   },
   {
     "login": "othmane-chaikhi",
@@ -35744,7 +35732,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 34,
+    "publicContributions": 28,
     "createdAt": "2023-01-30T16:26:18Z"
   },
   {
@@ -35754,9 +35742,9 @@
     "location": "Rabat Metroplitan Area",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 1229,
-    "publicContributions": 158,
+    "followers": 7,
+    "privateContributions": 1666,
+    "publicContributions": 194,
     "createdAt": "2023-08-10T16:17:25Z"
   },
   {
@@ -35767,8 +35755,8 @@
     "company": "ENSIAS",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 75,
-    "publicContributions": 186,
+    "privateContributions": 17,
+    "publicContributions": 63,
     "createdAt": "2023-10-01T21:13:32Z"
   },
   {
@@ -35791,8 +35779,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 467,
-    "publicContributions": 48,
+    "privateContributions": 517,
+    "publicContributions": 58,
     "createdAt": "2023-04-09T14:14:57Z"
   },
   {
@@ -35815,7 +35803,7 @@
     "company": "Analytics lab ",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 85,
+    "privateContributions": 91,
     "publicContributions": 21,
     "createdAt": "2023-07-31T21:48:11Z"
   },
@@ -35826,9 +35814,9 @@
     "location": "Rabat",
     "company": "AL Barid Bank",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 12,
-    "publicContributions": 25,
+    "followers": 8,
+    "privateContributions": 22,
+    "publicContributions": 1,
     "createdAt": "2023-04-27T20:16:36Z"
   },
   {
@@ -35840,7 +35828,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 75,
+    "publicContributions": 37,
     "createdAt": "2023-11-21T13:26:59Z"
   },
   {
@@ -35850,7 +35838,7 @@
     "location": "Rabat-Morroco",
     "company": "MAROC TELECOM",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 19,
     "createdAt": "2023-01-22T23:19:15Z"

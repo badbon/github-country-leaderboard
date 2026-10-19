@@ -35976,18 +35976,6 @@
     "createdAt": "2020-04-30T09:55:23Z"
   },
   {
-    "login": "rpegorov",
-    "name": "Rostislav Egorov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/64966568?s=72&u=ccd31a54497996327a1afd0ccb8dbfbb4d4a85d9&v=4",
-    "location": "Serbia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 276,
-    "publicContributions": 117,
-    "createdAt": "2020-05-07T12:49:50Z"
-  },
-  {
     "login": "petradev79",
     "name": "Ivan Petrovic",
     "avatarUrl": "https://avatars.githubusercontent.com/u/61566864?s=72&u=08dfd945f6337f2a9bda8fbb1f8978cd24ebc0ed&v=4",
@@ -36019,8 +36007,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 121,
-    "publicContributions": 4,
+    "privateContributions": 342,
+    "publicContributions": 87,
     "createdAt": "2020-02-01T23:29:40Z"
   },
   {
@@ -36066,7 +36054,7 @@
     "location": "Serbia",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-11-23T23:00:01Z"
@@ -36103,7 +36091,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 37,
+    "privateContributions": 427,
     "publicContributions": 0,
     "createdAt": "2020-03-09T02:14:19Z"
   },
@@ -36126,8 +36114,8 @@
     "location": "Belgrade, Serbia",
     "company": "@Treeconomy",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 6044,
+    "followers": 4,
+    "privateContributions": 6145,
     "publicContributions": 1,
     "createdAt": "2020-04-08T12:16:20Z"
   },
@@ -36180,27 +36168,15 @@
     "createdAt": "2020-06-16T12:23:08Z"
   },
   {
-    "login": "uross-11",
-    "name": "Uroš Ignjatović",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/71189996?s=72&u=47557e5cc5f2d5a6d837495d8fd7ac495b1e3f97&v=4",
-    "location": "Belgrade, Serbia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 402,
-    "publicContributions": 103,
-    "createdAt": "2020-09-12T18:13:58Z"
-  },
-  {
     "login": "dusanpetkovicdsaga",
     "name": "Dusan Petkovic",
     "avatarUrl": "https://avatars.githubusercontent.com/u/69249702?s=72&u=d21427249cbd177dab521e26b872d8933970c4a2&v=4",
     "location": "Serbia",
-    "company": "NCR Voyix",
+    "company": "Candescent",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 296,
-    "publicContributions": 19,
+    "privateContributions": 240,
+    "publicContributions": 21,
     "createdAt": "2020-08-05T13:20:39Z"
   },
   {

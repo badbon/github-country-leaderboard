@@ -13171,7 +13171,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 31,
+    "privateContributions": 30,
     "publicContributions": 0,
     "createdAt": "2018-03-16T11:32:50Z"
   },
@@ -13184,7 +13184,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 104,
+    "publicContributions": 103,
     "createdAt": "2018-03-06T13:18:30Z"
   },
   {
@@ -13320,18 +13320,6 @@
     "createdAt": "2018-02-03T17:37:21Z"
   },
   {
-    "login": "todortanevski",
-    "name": "todor.tanevski",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/43077767?s=72&u=502415b6e5d87262eb9df79cf7a5a062e0f5c6d0&v=4",
-    "location": "Prilep, Macedonia",
-    "company": "OpsGuru",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2018-09-07T19:53:42Z"
-  },
-  {
     "login": "toodimov",
     "name": "Todor Dimov",
     "avatarUrl": "https://avatars.githubusercontent.com/u/38589514?s=72&u=cbc0fdf0b3655a05b4747f821b99db758f8abcce&v=4",
@@ -13375,7 +13363,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 3411,
+    "privateContributions": 3321,
     "publicContributions": 336,
     "createdAt": "2018-02-13T17:20:32Z"
   },

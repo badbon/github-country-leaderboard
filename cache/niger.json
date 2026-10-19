@@ -2052,18 +2052,6 @@
     "createdAt": "2014-02-05T10:26:08Z"
   },
   {
-    "login": "anassersalifou",
-    "name": "anasser.salifou-IT",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/3839960?s=72&u=058b4901de79b7ca818db170fc603c4350805bcc&v=4",
-    "location": "Niamey,Niger",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2013-03-12T07:27:24Z"
-  },
-  {
     "login": "petrozavodsky",
     "name": "Vladimir Petrozavodsky",
     "avatarUrl": "https://avatars.githubusercontent.com/u/2689829?s=72&u=8f8c93731f5a8df972fbd26d8462f7327997ef7c&v=4",
@@ -2071,7 +2059,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1166,
-    "privateContributions": 1379,
+    "privateContributions": 1393,
     "publicContributions": 0,
     "createdAt": "2012-10-31T08:58:12Z"
   },
