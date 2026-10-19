@@ -35240,7 +35240,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 32,
+    "publicContributions": 59,
     "createdAt": "2023-12-04T22:36:28Z"
   },
   {
@@ -35263,8 +35263,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 211,
-    "publicContributions": 467,
+    "privateContributions": 96,
+    "publicContributions": 457,
     "createdAt": "2023-08-12T23:40:23Z"
   },
   {
@@ -35276,7 +35276,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 46,
+    "publicContributions": 45,
     "createdAt": "2023-09-04T05:07:55Z"
   },
   {
@@ -35316,18 +35316,6 @@
     "createdAt": "2023-10-26T00:16:42Z"
   },
   {
-    "login": "jonadev19",
-    "name": "Jonathan Pérez",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/152642071?s=72&v=4",
-    "location": "Merida, Yucatan, Mexico",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 21,
-    "publicContributions": 402,
-    "createdAt": "2023-12-01T17:10:49Z"
-  },
-  {
     "login": "PagedMoth",
     "name": "Bruno Estrada Rosales",
     "avatarUrl": "https://avatars.githubusercontent.com/u/148911807?s=72&u=fd2282bf01be756fa70a8e6201d80e38a0bf9632&v=4",
@@ -35358,7 +35346,7 @@
     "location": "Mexico",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2023-08-29T02:49:25Z"
@@ -35418,7 +35406,7 @@
     "location": "Tlalnepantla de Baz, Estado de México, Mexico",
     "company": "Open to Work",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 15,
     "createdAt": "2023-07-13T05:03:07Z"
@@ -35432,7 +35420,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 135,
+    "publicContributions": 144,
     "createdAt": "2023-07-17T16:43:04Z"
   },
   {
@@ -35455,7 +35443,7 @@
     "company": "",
     "twitterUsername": "vptellez_dev",
     "followers": 1,
-    "privateContributions": 124,
+    "privateContributions": 112,
     "publicContributions": 9,
     "createdAt": "2023-10-05T05:10:50Z"
   },
@@ -35467,7 +35455,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 314,
+    "privateContributions": 244,
     "publicContributions": 0,
     "createdAt": "2023-09-06T23:48:20Z"
   },

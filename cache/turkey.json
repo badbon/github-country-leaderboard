@@ -950062,5 +950062,29 @@
     "privateContributions": 200,
     "publicContributions": 135,
     "createdAt": "2017-08-11T08:41:01Z"
+  },
+  {
+    "login": "safa-zehiroglu-ee",
+    "name": "SAFA MERVE ZEHIROGLU",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/297723292?s=72&u=7f3cf6111463956a2041b8b79bdae63bb3bf4ee9&v=4",
+    "location": "Istanbul, TURKIYE",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-28T21:23:29Z"
+  },
+  {
+    "login": "exagg",
+    "name": "Mehmet",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/297703586?s=72&u=16f3c839499fd509e4cadebf6a2c9f13bdbac6a0&v=4",
+    "location": "Istanbul",
+    "company": "12 Numara",
+    "twitterUsername": "12numaraorg",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-28T19:01:57Z"
   }
 ]
