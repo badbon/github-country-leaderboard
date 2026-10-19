@@ -34976,7 +34976,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2011-10-31T19:59:17Z"
   },
   {
@@ -34986,9 +34986,9 @@
     "location": "Ljubljana, Slovenia",
     "company": "",
     "twitterUsername": "",
-    "followers": 332,
-    "privateContributions": 71,
-    "publicContributions": 1713,
+    "followers": 261,
+    "privateContributions": 57,
+    "publicContributions": 3019,
     "createdAt": "2010-03-30T13:32:43Z"
   },
   {
@@ -34998,9 +34998,9 @@
     "location": "Slovenia",
     "company": "@teamniteo",
     "twitterUsername": "dz0ny",
-    "followers": 283,
-    "privateContributions": 3001,
-    "publicContributions": 1747,
+    "followers": 289,
+    "privateContributions": 3274,
+    "publicContributions": 1770,
     "createdAt": "2010-04-08T12:57:17Z"
   },
   {
@@ -35010,9 +35010,9 @@
     "location": "Ljubljana, Slovenia",
     "company": "OPALAB",
     "twitterUsername": "otobrglez",
-    "followers": 269,
-    "privateContributions": 224,
-    "publicContributions": 420,
+    "followers": 276,
+    "privateContributions": 271,
+    "publicContributions": 958,
     "createdAt": "2010-03-19T07:24:07Z"
   },
   {
@@ -35022,9 +35022,9 @@
     "location": "Ljubljana, Slovenia",
     "company": "",
     "twitterUsername": "juretriglav",
-    "followers": 241,
+    "followers": 243,
     "privateContributions": 0,
-    "publicContributions": 61,
+    "publicContributions": 64,
     "createdAt": "2010-04-07T11:13:14Z"
   },
   {
@@ -35034,7 +35034,7 @@
     "location": "Ljubljana, Slovenia",
     "company": "Bird Buddy",
     "twitterUsername": "",
-    "followers": 119,
+    "followers": 120,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2010-01-07T16:31:00Z"
@@ -35047,8 +35047,8 @@
     "company": "brodul s.p.",
     "twitterUsername": "",
     "followers": 117,
-    "privateContributions": 58,
-    "publicContributions": 47,
+    "privateContributions": 134,
+    "publicContributions": 62,
     "createdAt": "2010-02-16T10:35:44Z"
   },
   {
@@ -35058,9 +35058,9 @@
     "location": "Kranj, Slovenia",
     "company": "Mali Mlin d.o.o.",
     "twitterUsername": "",
-    "followers": 106,
-    "privateContributions": 1888,
-    "publicContributions": 560,
+    "followers": 108,
+    "privateContributions": 4244,
+    "publicContributions": 788,
     "createdAt": "2010-06-10T18:54:36Z"
   },
   {
@@ -35072,7 +35072,7 @@
     "twitterUsername": "",
     "followers": 87,
     "privateContributions": 0,
-    "publicContributions": 134,
+    "publicContributions": 163,
     "createdAt": "2010-07-14T13:22:01Z"
   },
   {
@@ -35084,7 +35084,7 @@
     "twitterUsername": "",
     "followers": 85,
     "privateContributions": 0,
-    "publicContributions": 2825,
+    "publicContributions": 2873,
     "createdAt": "2010-12-03T12:11:38Z"
   },
   {
@@ -35094,21 +35094,21 @@
     "location": "Slovenia",
     "company": "",
     "twitterUsername": "",
-    "followers": 76,
-    "privateContributions": 778,
-    "publicContributions": 737,
+    "followers": 77,
+    "privateContributions": 1441,
+    "publicContributions": 458,
     "createdAt": "2010-06-04T16:38:17Z"
   },
   {
     "login": "stefanb",
-    "name": "Stefan Baebler",
+    "name": "Štefan Baebler",
     "avatarUrl": "https://avatars.githubusercontent.com/u/319826?s=72&u=1d81ce78f6b8e7204f16527f27dc284f9c473ad9&v=4",
     "location": "Ljubljana, Slovenia",
-    "company": "@equaleyes",
+    "company": "",
     "twitterUsername": "StefanBaebler",
-    "followers": 70,
-    "privateContributions": 600,
-    "publicContributions": 3790,
+    "followers": 72,
+    "privateContributions": 637,
+    "publicContributions": 4264,
     "createdAt": "2010-07-01T09:00:34Z"
   },
   {
@@ -35118,7 +35118,7 @@
     "location": "Litija, Slovenia",
     "company": "",
     "twitterUsername": "",
-    "followers": 62,
+    "followers": 63,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2010-08-24T10:51:45Z"
@@ -35130,9 +35130,9 @@
     "location": "Ljubljana, Slovenia",
     "company": "",
     "twitterUsername": "",
-    "followers": 59,
+    "followers": 61,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 27,
     "createdAt": "2010-06-02T06:37:52Z"
   },
   {
@@ -35142,9 +35142,9 @@
     "location": "Ljubljana, Slovenia",
     "company": "",
     "twitterUsername": "",
-    "followers": 50,
-    "privateContributions": 0,
-    "publicContributions": 217,
+    "followers": 51,
+    "privateContributions": 1735,
+    "publicContributions": 234,
     "createdAt": "2010-08-17T16:26:27Z"
   },
   {
@@ -35154,9 +35154,9 @@
     "location": "Ptuj, Slovenia",
     "company": "http://databox.com",
     "twitterUsername": "",
-    "followers": 43,
+    "followers": 46,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 24,
     "createdAt": "2010-03-25T09:56:40Z"
   },
   {
@@ -35166,9 +35166,9 @@
     "location": "Porotorož, Slovenia",
     "company": "",
     "twitterUsername": "",
-    "followers": 42,
-    "privateContributions": 39,
-    "publicContributions": 221,
+    "followers": 41,
+    "privateContributions": 42,
+    "publicContributions": 279,
     "createdAt": "2010-08-26T13:27:10Z"
   },
   {
@@ -35178,9 +35178,9 @@
     "location": "Slovenia",
     "company": "@lanisce",
     "twitterUsername": "lanisce_si",
-    "followers": 38,
-    "privateContributions": 7587,
-    "publicContributions": 3035,
+    "followers": 39,
+    "privateContributions": 12266,
+    "publicContributions": 3587,
     "createdAt": "2010-09-17T20:57:04Z"
   },
   {

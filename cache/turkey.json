@@ -34712,7 +34712,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 113,
+    "publicContributions": 115,
     "createdAt": "2025-03-07T23:45:08Z"
   },
   {
@@ -34736,7 +34736,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 25,
     "createdAt": "2025-03-08T15:09:53Z"
   },
   {
@@ -34759,7 +34759,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1176,
+    "privateContributions": 1395,
     "publicContributions": 7,
     "createdAt": "2025-01-06T12:20:59Z"
   },
@@ -34772,7 +34772,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 8,
     "createdAt": "2025-09-19T09:14:17Z"
   },
   {
@@ -34794,9 +34794,9 @@
     "location": "Istanbul",
     "company": "AssemCorp",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 80,
+    "publicContributions": 70,
     "createdAt": "2025-02-11T08:23:14Z"
   },
   {
@@ -34808,7 +34808,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 4,
     "createdAt": "2025-02-25T18:55:46Z"
   },
   {
@@ -34820,7 +34820,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 2,
     "createdAt": "2025-02-13T09:03:24Z"
   },
   {
@@ -34854,9 +34854,9 @@
     "location": "Istanbul",
     "company": "Timelands",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 7465,
-    "publicContributions": 1,
+    "followers": 3,
+    "privateContributions": 12344,
+    "publicContributions": 0,
     "createdAt": "2025-09-02T14:25:39Z"
   },
   {
@@ -34908,27 +34908,15 @@
     "createdAt": "2025-12-02T10:40:14Z"
   },
   {
-    "login": "Altay-Aksoy",
-    "name": "Altay Aksoy",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/241827928?s=72&v=4",
-    "location": "Istanbul Technical University",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2025-11-03T19:08:24Z"
-  },
-  {
     "login": "bedohly",
-    "name": "hly",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/219016287?s=72&u=f2713096b6e3171a9be632e75adf0573d4cd27ad&v=4",
+    "name": "yaw",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/219016287?s=72&u=cc5e26e8a9e13afb10bf17314f73407c8d89eb08&v=4",
     "location": "Istanbul, Turkiye",
     "company": "Yekta Teknoloji",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 28,
-    "publicContributions": 105,
+    "followers": 15,
+    "privateContributions": 68,
+    "publicContributions": 107,
     "createdAt": "2025-07-02T17:12:57Z"
   },
   {
@@ -34939,8 +34927,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 162,
-    "publicContributions": 26,
+    "privateContributions": 142,
+    "publicContributions": 14,
     "createdAt": "2025-01-19T18:00:56Z"
   },
   {

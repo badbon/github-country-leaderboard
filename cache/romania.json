@@ -179698,5 +179698,29 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-06-30T18:45:21Z"
+  },
+  {
+    "login": "alicemedina73633",
+    "name": "Noelia Baños",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298823527?s=72&v=4",
+    "location": "צפרירים, Romania",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-07-01T18:03:16Z"
+  },
+  {
+    "login": "FujeStudio",
+    "name": "Fuje Studio",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298652087?s=72&v=4",
+    "location": "Romania",
+    "company": "FujeStudio",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-07-01T09:37:25Z"
   }
 ]

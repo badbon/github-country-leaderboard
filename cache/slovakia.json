@@ -34867,7 +34867,7 @@
     "company": "Freelance",
     "twitterUsername": "",
     "followers": 15,
-    "privateContributions": 1837,
+    "privateContributions": 2060,
     "publicContributions": 28,
     "createdAt": "2015-07-01T13:35:47Z"
   },
@@ -34902,7 +34902,7 @@
     "location": "Bratislava, Slovakia",
     "company": "Appliable",
     "twitterUsername": "",
-    "followers": 14,
+    "followers": 13,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-01-29T19:45:48Z"
@@ -34914,9 +34914,9 @@
     "location": "Slovakia",
     "company": "Codera, s.r.o.",
     "twitterUsername": "",
-    "followers": 13,
-    "privateContributions": 0,
-    "publicContributions": 11,
+    "followers": 12,
+    "privateContributions": 2,
+    "publicContributions": 16,
     "createdAt": "2015-12-13T09:40:58Z"
   },
   {
@@ -34938,8 +34938,8 @@
     "location": "Slovakia",
     "company": "@NormandyLP @MTK-CM",
     "twitterUsername": "",
-    "followers": 13,
-    "privateContributions": 29,
+    "followers": 14,
+    "privateContributions": 8,
     "publicContributions": 0,
     "createdAt": "2015-03-02T18:55:50Z"
   },
@@ -34952,7 +34952,7 @@
     "twitterUsername": "",
     "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2015-12-09T19:27:51Z"
   },
   {
@@ -34963,8 +34963,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 13,
-    "privateContributions": 1272,
-    "publicContributions": 257,
+    "privateContributions": 1571,
+    "publicContributions": 321,
     "createdAt": "2015-07-10T19:44:36Z"
   },
   {
@@ -34975,21 +34975,9 @@
     "company": "",
     "twitterUsername": "vudiq",
     "followers": 12,
-    "privateContributions": 1,
-    "publicContributions": 95,
+    "privateContributions": 4,
+    "publicContributions": 96,
     "createdAt": "2015-12-29T21:56:23Z"
-  },
-  {
-    "login": "mvarchdev",
-    "name": "Maroš Varchola",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/12719761?s=72&v=4",
-    "location": "Slovakia",
-    "company": "@sunray-eu @smilingwords @strg-at",
-    "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 2261,
-    "publicContributions": 44,
-    "createdAt": "2015-06-02T19:13:19Z"
   },
   {
     "login": "antonbalucha",
@@ -35011,8 +34999,8 @@
     "company": "",
     "twitterUsername": "jtimoransky",
     "followers": 12,
-    "privateContributions": 1440,
-    "publicContributions": 459,
+    "privateContributions": 1297,
+    "publicContributions": 461,
     "createdAt": "2015-11-04T14:27:18Z"
   },
   {
@@ -35034,9 +35022,9 @@
     "location": "Slovakia",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 103,
-    "publicContributions": 142,
+    "followers": 12,
+    "privateContributions": 31,
+    "publicContributions": 136,
     "createdAt": "2015-03-18T14:10:04Z"
   },
   {
@@ -35047,8 +35035,8 @@
     "company": "DSiDATA a.s.",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 936,
-    "publicContributions": 925,
+    "privateContributions": 2131,
+    "publicContributions": 1061,
     "createdAt": "2015-03-13T12:22:03Z"
   },
   {
@@ -35059,7 +35047,7 @@
     "company": "Sudolabs",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 97,
+    "privateContributions": 98,
     "publicContributions": 0,
     "createdAt": "2015-11-09T21:50:24Z"
   },
@@ -35071,7 +35059,7 @@
     "company": "",
     "twitterUsername": "grouter_",
     "followers": 10,
-    "privateContributions": 122,
+    "privateContributions": 113,
     "publicContributions": 0,
     "createdAt": "2015-09-16T21:04:13Z"
   },

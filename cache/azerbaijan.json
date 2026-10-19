@@ -35156,7 +35156,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2021-01-12T11:43:19Z"
   },
   {
@@ -35167,8 +35167,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 5,
+    "privateContributions": 1,
+    "publicContributions": 1,
     "createdAt": "2021-11-20T16:02:15Z"
   },
   {
@@ -35240,7 +35240,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 23,
     "createdAt": "2021-12-15T20:10:39Z"
   },
   {
@@ -35341,7 +35341,7 @@
   },
   {
     "login": "ahmaaz10",
-    "name": "Ismail Ehmedov",
+    "name": "Ismayil Ahmadov",
     "avatarUrl": "https://avatars.githubusercontent.com/u/80395167?s=72&v=4",
     "location": "Azerbaijan,Baku",
     "company": "Metaflix LLC",
