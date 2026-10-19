@@ -20,7 +20,7 @@ Indexed users: 1,355
 | 6 | [jmndao](https://github.com/jmndao) | Jonathan Musa NDAO | Senegal | 8,074 |
 | 7 | [MJoshua25](https://github.com/MJoshua25) | Yao Josué | Dakar | 7,580 |
 | 8 | [gaelahouanvoedo](https://github.com/gaelahouanvoedo) | Gael AHOUANVOEDO | Dakar, Sénégal | 7,526 |
-| 9 | [utachicodes](https://github.com/utachicodes) | Abdoullah Ndao | Senegal | 6,338 |
+| 9 | [utachicodes](https://github.com/utachicodes) | Abdoullah Ndao | Senegal | 6,419 |
 | 10 | [touskar](https://github.com/touskar) | Moussa Ndour DSI at INTech Group | Dakar | 5,806 |
 | 11 | [njaga](https://github.com/njaga) | Ndiaga Ndiaye | Dakar | 5,792 |
 | 12 | [i2sac](https://github.com/i2sac) | Louis Issac Jean Samba DIOUF | Dakar, Senegal | 5,737 |
@@ -39,7 +39,7 @@ Indexed users: 1,355
 |---:|---|---|---|---:|
 | 1 | [traorecheikh](https://github.com/traorecheikh) | Cheikh Tidiane TRAORÉ | dakar, senegal | 4,264 |
 | 2 | [Zoubeir23](https://github.com/Zoubeir23) | ZOUBEIR IBRAHIMA | Sénegale, Dakar | 3,270 |
-| 3 | [utachicodes](https://github.com/utachicodes) | Abdoullah Ndao | Senegal | 3,097 |
+| 3 | [utachicodes](https://github.com/utachicodes) | Abdoullah Ndao | Senegal | 3,136 |
 | 4 | [nosleepman1](https://github.com/nosleepman1) | Abdallah Diouf | Dakar  | 2,805 |
 | 5 | [Anna-007-tech](https://github.com/Anna-007-tech) | Anne Marie Seye | Dakar, Sénégal | 2,478 |
 | 6 | [thesenegalesehitch](https://github.com/thesenegalesehitch) | Alexandre Albert Ndour | Rufisque, Dakar, Sénégal | 1,902 |
@@ -83,4 +83,4 @@ Indexed users: 1,355
 | 19 | [ngorseck](https://github.com/ngorseck) | Ngor SECK | Dakar - Sénégal | 142 |
 | 20 | [patheGobel](https://github.com/patheGobel) | Pathé BA | Senegal  | 141 |
 
-Generated: 2026-10-19T07:09:57.564Z
+Generated: 2026-10-19T08:24:32.007Z

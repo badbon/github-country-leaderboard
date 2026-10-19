@@ -16,8 +16,8 @@ Indexed users: 2,560
 | 2 | [1homsi](https://github.com/1homsi) | Mohamad Homsi | Lebanon | 21,539 |
 | 3 | [Mhmdhammoud](https://github.com/Mhmdhammoud) | Mohammad Hammoud | Lebanon | 16,320 |
 | 4 | [Kaakati](https://github.com/Kaakati) | Mohamad Kaakati | Beirut, Lebanon | 13,134 |
-| 5 | [hussein-turfah](https://github.com/hussein-turfah) | Hussein Turfah | Lebanon | 12,520 |
-| 6 | [KhaledSaeed18](https://github.com/KhaledSaeed18) | Khaled Saeed | Lebanon | 10,546 |
+| 5 | [KhaledSaeed18](https://github.com/KhaledSaeed18) | Khaled Saeed | Lebanon | 12,654 |
+| 6 | [hussein-turfah](https://github.com/hussein-turfah) | Hussein Turfah | Lebanon | 12,520 |
 | 7 | [SilverLucFox](https://github.com/SilverLucFox) | Jawad Choucair | lebanon | 9,902 |
 | 8 | [AbedAmouneh](https://github.com/AbedAmouneh) | Abed El-Fattah Amouneh | Lebanon | 9,741 |
 | 9 | [abedshaaban](https://github.com/abedshaaban) | Abed Al Ghani Shaaban | Lebanon | 9,233 |
@@ -38,10 +38,10 @@ Indexed users: 2,560
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [1homsi](https://github.com/1homsi) | Mohamad Homsi | Lebanon | 6,378 |
-| 2 | [Mazennaji](https://github.com/Mazennaji) | Mazen Naji | Lebanon | 3,196 |
-| 3 | [shahednasser](https://github.com/shahednasser) | Shahed Nasser | Aaramoun, Lebanon | 2,995 |
-| 4 | [aliscco](https://github.com/aliscco) | Ali mazloum | Beirut | 2,919 |
-| 5 | [KhaledSaeed18](https://github.com/KhaledSaeed18) | Khaled Saeed | Lebanon | 2,639 |
+| 2 | [KhaledSaeed18](https://github.com/KhaledSaeed18) | Khaled Saeed | Lebanon | 4,251 |
+| 3 | [Mazennaji](https://github.com/Mazennaji) | Mazen Naji | Lebanon | 3,196 |
+| 4 | [shahednasser](https://github.com/shahednasser) | Shahed Nasser | Aaramoun, Lebanon | 2,995 |
+| 5 | [aliscco](https://github.com/aliscco) | Ali mazloum | Beirut | 2,919 |
 | 6 | [Omar7tech](https://github.com/Omar7tech) | Omar Abi Farraj | Beirut | 2,603 |
 | 7 | [Ali-Al-Ahmad](https://github.com/Ali-Al-Ahmad) | Ali Al Ahmad | Beirut, Lebanon | 2,396 |
 | 8 | [MahmoudAmouni](https://github.com/MahmoudAmouni) | Mahmoud Abou Amoun | Lebanon | 1,843 |
@@ -65,9 +65,9 @@ Indexed users: 2,560
 | 1 | [SaraSoueidan](https://github.com/SaraSoueidan) | Sara Soueidan | Lebanon | 4,400 |
 | 2 | [shahednasser](https://github.com/shahednasser) | Shahed Nasser | Aaramoun, Lebanon | 2,891 |
 | 3 | [FouadRaheb](https://github.com/FouadRaheb) | Fouad Raheb | Lebanon | 1,562 |
-| 4 | [Danyseifedine](https://github.com/Danyseifedine) | Dany Seifeddine  | lebanon | 1,160 |
+| 4 | [Danyseifedine](https://github.com/Danyseifedine) | Dany Seifeddine  | lebanon | 1,163 |
 | 5 | [anasty17](https://github.com/anasty17) | Anas Tayyar | Saida, Lebanon | 682 |
-| 6 | [KhaledSaeed18](https://github.com/KhaledSaeed18) | Khaled Saeed | Lebanon | 401 |
+| 6 | [KhaledSaeed18](https://github.com/KhaledSaeed18) | Khaled Saeed | Lebanon | 410 |
 | 7 | [mhdhaidarah](https://github.com/mhdhaidarah) | Mohammed Haidar | Beirut Lebanon | 307 |
 | 8 | [MuhamadCheaito](https://github.com/MuhamadCheaito) | Muhamad Cheaito | Beirut,Lebanon | 287 |
 | 9 | [V-i-x-x](https://github.com/V-i-x-x) | Vixx | Lebanon | 265 |
@@ -76,11 +76,11 @@ Indexed users: 2,560
 | 12 | [CharbelNohra](https://github.com/CharbelNohra) | Charbel Nohra | Beirut, Lebanon | 158 |
 | 13 | [KABBOUCHI](https://github.com/KABBOUCHI) | Georges KABBOUCHI | Lebanon | 155 |
 | 14 | [kamicut](https://github.com/kamicut) | Marc Farra | Beirut | 140 |
-| 15 | [rafeasaayfan](https://github.com/rafeasaayfan) | Rafeh Saayfan | lebanon | 140 |
+| 15 | [rafeasaayfan](https://github.com/rafeasaayfan) | Rafeh Saayfan | lebanon | 138 |
 | 16 | [SarahMelki](https://github.com/SarahMelki) | Sarah Melki | Beirut, Lebanon | 138 |
 | 17 | [Mahmoud7Osman](https://github.com/Mahmoud7Osman) | Mahmoud Osman | Lebanon | 129 |
 | 18 | [saeedhalabi](https://github.com/saeedhalabi) | Saeed Halabi | Lebanon 🇱🇧 | 109 |
 | 19 | [rhamzeh](https://github.com/rhamzeh) | Raghd Hamzeh | Beirut, Lebanon | 102 |
 | 20 | [hadiidbouk](https://github.com/hadiidbouk) | Hadi Dbouk | Lebanon | 101 |
 
-Generated: 2026-10-19T06:49:33.805Z
+Generated: 2026-10-19T08:05:34.300Z

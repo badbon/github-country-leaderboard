@@ -1,6 +1,6 @@
 # Followers - Montenegro
 
-Generated: 2026-10-19T06:56:01.788Z
+Generated: 2026-10-19T08:12:36.850Z
 
 Users: 888
 
@@ -8,7 +8,7 @@ Users: 888
 |---:|---|---|---|---|---|---:|
 | 1 | [therustmonk](https://github.com/therustmonk) | Denis Kolodin |  | therustmonk | Montenegro | 792 |
 | 2 | [dchest](https://github.com/dchest) | Dmitry Chestnykh | Coding Robots | dchest | Montenegro | 554 |
-| 3 | [1v4n4](https://github.com/1v4n4) |  | Fix The Status Quo |  | Montenegro | 485 |
+| 3 | [1v4n4](https://github.com/1v4n4) |  | Fix The Status Quo |  | Montenegro | 494 |
 | 4 | [Const-me](https://github.com/Const-me) | Konstantin |  |  | Tivat, Montenegro | 363 |
 | 5 | [oranmehmetsirin](https://github.com/oranmehmetsirin) | Mehmet Şirin ORAN |  | MehmetSirinORAN | Montenegro | 346 |
 | 6 | [dockimbel](https://github.com/dockimbel) | Nenad Rakocevic | Fullstack Technologies | red_lang | Montenegro | 334 |

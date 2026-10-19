@@ -12,7 +12,7 @@ Indexed users: 1,175
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [arnaldo-tomo](https://github.com/arnaldo-tomo) | Arnaldo tomo | Mozambique | 10,093 |
+| 1 | [arnaldo-tomo](https://github.com/arnaldo-tomo) | Arnaldo tomo | Mozambique | 10,017 |
 | 2 | [Uanela](https://github.com/Uanela) | Uanela Como | Beira, Sofala, Mozambique | 6,581 |
 | 3 | [playboybillionaire-prod](https://github.com/playboybillionaire-prod) | Mário jambo | Mozambique | 6,115 |
 | 4 | [reizen-desu](https://github.com/reizen-desu) | Reizen dos Santos | Maputo, Mozambique | 5,943 |
@@ -23,7 +23,7 @@ Indexed users: 1,175
 | 9 | [JoneBulande](https://github.com/JoneBulande) | Jone  | Maputo, Mozambique | 4,478 |
 | 10 | [rnrnshn](https://github.com/rnrnshn) | rurushu | Mozambique | 3,857 |
 | 11 | [Edsonjorgef1](https://github.com/Edsonjorgef1) | Edson Jorge Francisco | Mozambique, Sofala, Beira | 3,533 |
-| 12 | [americo](https://github.com/americo) | Américo Júnior | Mozambique | 3,256 |
+| 12 | [americo](https://github.com/americo) | Américo Júnior | Mozambique | 3,281 |
 | 13 | [emuneme](https://github.com/emuneme) | Eusebio  Augusto Munene | Maputo | 2,844 |
 | 14 | [backstageel](https://github.com/backstageel) | Elísio Leonardo | Maputo | 2,777 |
 | 15 | [enoqueJonas](https://github.com/enoqueJonas) | Enoque Macanda | Maputo, Mozambique | 2,769 |
@@ -64,7 +64,7 @@ Indexed users: 1,175
 |---:|---|---|---|---:|
 | 1 | [JoneBulande](https://github.com/JoneBulande) | Jone  | Maputo, Mozambique | 450 |
 | 2 | [gmahota](https://github.com/gmahota) | Guimaraes Mahota Jr. | Maputo, Mozambique | 325 |
-| 3 | [EdgarJFA](https://github.com/EdgarJFA) | Edgar Amado | Mozambique | 299 |
+| 3 | [EdgarJFA](https://github.com/EdgarJFA) | Edgar Amado | Mozambique | 300 |
 | 4 | [joseseie](https://github.com/joseseie) | Jose Seie | Maputo, Mozambique | 279 |
 | 5 | [gabrielmjr](https://github.com/gabrielmjr) | Gabriel Mucacho Júnior | Maputo/Mozambique  | 229 |
 | 6 | [arnaldo-tomo](https://github.com/arnaldo-tomo) | Arnaldo tomo | Mozambique | 195 |
@@ -83,4 +83,4 @@ Indexed users: 1,175
 | 19 | [enoquetembe](https://github.com/enoquetembe) | Enoque Tembe | Maputo, Mozambique | 111 |
 | 20 | [mariomthree](https://github.com/mariomthree) | Mário M. Mabande | Maputo, Mozambique | 95 |
 
-Generated: 2026-10-19T06:56:13.777Z
+Generated: 2026-10-19T08:12:52.375Z

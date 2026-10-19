@@ -1,6 +1,6 @@
 # Total Contributions - Lebanon
 
-Generated: 2026-10-19T06:49:33.805Z
+Generated: 2026-10-19T08:05:34.300Z
 
 Users: 2560
 
@@ -10,8 +10,8 @@ Users: 2560
 | 2 | [1homsi](https://github.com/1homsi) | Mohamad Homsi |  | 1homsii | Lebanon | 21539 |
 | 3 | [Mhmdhammoud](https://github.com/Mhmdhammoud) | Mohammad Hammoud | @Meritt-dev  |  | Lebanon | 16320 |
 | 4 | [Kaakati](https://github.com/Kaakati) | Mohamad Kaakati | @manifest @barqfleet @thaat | kaakati | Beirut, Lebanon | 13134 |
-| 5 | [hussein-turfah](https://github.com/hussein-turfah) | Hussein Turfah | Beachbeds | husseinturfah | Lebanon | 12520 |
-| 6 | [KhaledSaeed18](https://github.com/KhaledSaeed18) | Khaled Saeed |  | KhaleddSaeed18 | Lebanon | 10546 |
+| 5 | [KhaledSaeed18](https://github.com/KhaledSaeed18) | Khaled Saeed |  | KhaleddSaeed18 | Lebanon | 12654 |
+| 6 | [hussein-turfah](https://github.com/hussein-turfah) | Hussein Turfah | Beachbeds | husseinturfah | Lebanon | 12520 |
 | 7 | [SilverLucFox](https://github.com/SilverLucFox) | Jawad Choucair | @detay-devs  @lblabs-dev @CGode-Dev  |  | lebanon | 9902 |
 | 8 | [AbedAmouneh](https://github.com/AbedAmouneh) | Abed El-Fattah Amouneh | @voxire |  | Lebanon | 9741 |
 | 9 | [abedshaaban](https://github.com/abedshaaban) | Abed Al Ghani Shaaban | @Poyesis | abedshaaban600 | Lebanon | 9233 |

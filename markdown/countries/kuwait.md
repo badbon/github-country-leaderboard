@@ -12,7 +12,7 @@ Indexed users: 796
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [mshll](https://github.com/mshll) | meshal | Kuwait | 7,773 |
+| 1 | [mshll](https://github.com/mshll) | meshal | Kuwait | 7,795 |
 | 2 | [buaziz](https://github.com/buaziz) | Buaziz | Kuwait | 7,118 |
 | 3 | [ghaith99](https://github.com/ghaith99) |  | Kuwait | 6,933 |
 | 4 | [BAWES](https://github.com/BAWES) | Khalid Al-Mutawa | Kuwait | 6,616 |
@@ -69,7 +69,7 @@ Indexed users: 796
 | 5 | [Mubder](https://github.com/Mubder) | Mubder Alfaris | Kuwait | 151 |
 | 6 | [smokeme](https://github.com/smokeme) | Fawaz Adi | Kuwait | 150 |
 | 7 | [MMGGYY66](https://github.com/MMGGYY66) | MOHAMED GAMIL ELDIMARDASH | KUWAIT | 144 |
-| 8 | [dmakwt](https://github.com/dmakwt) | Dhari | Kuwait | 131 |
+| 8 | [dmakwt](https://github.com/dmakwt) | Dhari | Kuwait | 129 |
 | 9 | [omsi96](https://github.com/omsi96) | Omar | Kuwait | 120 |
 | 10 | [hashemi](https://github.com/hashemi) | Ahmad Alhashemi | Kuwait | 110 |
 | 11 | [asmaaeltawil](https://github.com/asmaaeltawil) | Asmaa Eltawil | Kuwait | 106 |
@@ -83,4 +83,4 @@ Indexed users: 796
 | 19 | [MoathOthman](https://github.com/MoathOthman) | Moath othman | Kuwait | 85 |
 | 20 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Kuwait | 82 |
 
-Generated: 2026-10-19T06:46:42.003Z
+Generated: 2026-10-19T08:04:36.120Z

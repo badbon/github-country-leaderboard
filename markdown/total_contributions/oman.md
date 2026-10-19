@@ -1,6 +1,6 @@
 # Total Contributions - Oman
 
-Generated: 2026-10-19T07:00:56.648Z
+Generated: 2026-10-19T08:17:38.541Z
 
 Users: 991
 
@@ -18,7 +18,7 @@ Users: 991
 | 10 | [iamsj7](https://github.com/iamsj7) | Shaik Jaleel | @CarbonMobile @ForkLineageOS @NerdInfusions  | iamshaikjaleel | Muscat | 9036 |
 | 11 | [shm379](https://github.com/shm379) | Hussein | MrChatGPT |  | Muscat | 8678 |
 | 12 | [sanjeed5](https://github.com/sanjeed5) | Sanjeed |  | sanjeed_i | Bangalore / Oman  | 8371 |
-| 13 | [dmsherazi](https://github.com/dmsherazi) | Dost Muhammad Shah | Kindows Tech Solutions |  | Muscat, Oman | 7532 |
+| 13 | [dmsherazi](https://github.com/dmsherazi) | Dost Muhammad Shah | Kindows Tech Solutions |  | Muscat, Oman | 7836 |
 | 14 | [DevAseel](https://github.com/DevAseel) | Aseel Al Rawahi | instaSpace |  | Oman | 6870 |
 | 15 | [lqji](https://github.com/lqji) | Ahmed Abdullah | Codeline |  | Oman | 6006 |
 | 16 | [MohAnghabo](https://github.com/MohAnghabo) | Mohammed Anghabo | DhamenIT | MohAnghabo | Muscat | 5312 |

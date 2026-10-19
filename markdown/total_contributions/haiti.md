@@ -1,6 +1,6 @@
 # Total Contributions - Haiti
 
-Generated: 2026-10-19T06:41:16.585Z
+Generated: 2026-10-19T07:57:41.303Z
 
 Users: 339
 
@@ -9,8 +9,8 @@ Users: 339
 | 1 | [jkenley](https://github.com/jkenley) | Kenley Jean | @syntaxstudio-io  | jn_kenley | Haiti | 5646 |
 | 2 | [jbob9](https://github.com/jbob9) | Jean Baptiste Berlensky O. |  | BerlenskyO | Haiti | 4743 |
 | 3 | [ninjaroot-509](https://github.com/ninjaroot-509) | Castin Stanley | Loyalto Services | ninjaroot509 | Haiti | 4593 |
-| 4 | [joassanon](https://github.com/joassanon) | Joas Sanon | FMG. IFY. |  | Port-au-prince, Haiti | 3616 |
-| 5 | [jecode93](https://github.com/jecode93) | Jean Emmanuel Cadet | @jecode93 | jecode93 | Haiti | 3578 |
+| 4 | [jecode93](https://github.com/jecode93) | Jean Emmanuel Cadet | @jecode93 | jecode93 | Haiti | 3554 |
+| 5 | [joassanon](https://github.com/joassanon) | Joas Sanon | FMG. IFY. |  | Port-au-prince, Haiti | 3425 |
 | 6 | [platon777](https://github.com/platon777) | Wichley Valentin |  |  | Haiti | 2443 |
 | 7 | [FalandyJEAN](https://github.com/FalandyJEAN) | Falandy Jean | Mackandal Technologies |  | Haiti | 2419 |
 | 8 | [odilson-dev](https://github.com/odilson-dev) | Odilson W. Italis |  | odilsondev | Les Cayes, Haiti | 2269 |
@@ -23,6 +23,6 @@ Users: 339
 | 15 | [thecassion](https://github.com/thecassion) | Pierre Robentz CASSION | @CarisFoundation @YoopleCorp @MLHaiti @FDS | thecassion | Haiti | 1563 |
 | 16 | [antifugazis](https://github.com/antifugazis) | Jyvor Slaadel Mortimer |  | antifugazis | Port-au-Prince | 1484 |
 | 17 | [fater04](https://github.com/fater04) | fater_04 | freelance | fater_04 | Haiti | 1186 |
-| 18 | [jsbeaudry](https://github.com/jsbeaudry) | Beaudry Jean Sauvenel | Parkour studio |  | Port-au-prince, Haiti | 972 |
+| 18 | [jsbeaudry](https://github.com/jsbeaudry) | Beaudry Jean Sauvenel | Parkour studio |  | Port-au-prince, Haiti | 975 |
 | 19 | [EdManDev](https://github.com/EdManDev) | EdManDev | EdManDev | EdmanManigat | Haiti | 942 |
 | 20 | [dukenst2006](https://github.com/dukenst2006) | Thelemaque | Jetlitransfer | dukenst | Port-au-Prince | 920 |

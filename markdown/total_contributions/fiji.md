@@ -1,6 +1,6 @@
 # Total Contributions - Fiji
 
-Generated: 2026-10-19T06:36:25.754Z
+Generated: 2026-10-19T07:50:38.049Z
 
 Users: 325
 
@@ -13,8 +13,8 @@ Users: 325
 | 5 | [krishneelkamalsingh](https://github.com/krishneelkamalsingh) | Krish |  |  | Fiji | 1187 |
 | 6 | [crazybanboo](https://github.com/crazybanboo) | Ethan | sunmi |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1084 |
 | 7 | [jaclla](https://github.com/jaclla) | Logic | Zenaida Orn Company |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1031 |
-| 8 | [navneil-naicker](https://github.com/navneil-naicker) | Navneil Naicker |  |  | Suva City, Central, Fiji | 1022 |
-| 9 | [ApophisX](https://github.com/ApophisX) | GienWang | Zenaida Orn Company |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1012 |
+| 8 | [ApophisX](https://github.com/ApophisX) | GienWang | Zenaida Orn Company |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1012 |
+| 9 | [navneil-naicker](https://github.com/navneil-naicker) | Navneil Naicker |  |  | Suva City, Central, Fiji | 1006 |
 | 10 | [rudrprasad05](https://github.com/rudrprasad05) | Rudr Prasad | Procyon |  | Fiji | 931 |
 | 11 | [Eddie115-x](https://github.com/Eddie115-x) | Adrian Obadiah |  |  | SUVA | 898 |
 | 12 | [anav5704](https://github.com/anav5704) | Anav Chand | Pacific Technologies |  | Fiji | 790 |

@@ -42,7 +42,7 @@ Indexed users: 360
 | 3 | [bobby-sills](https://github.com/bobby-sills) | Bobby Sills | Vientiane, Laos | 1,037 |
 | 4 | [tyecode](https://github.com/tyecode) | Sengphachanh CHANTHAVONG | Vientiane Capital, Laos | 624 |
 | 5 | [iamlex01](https://github.com/iamlex01) | Alex Saelao | Vientiane, Laos | 442 |
-| 6 | [dhecaptain](https://github.com/dhecaptain) | David Wambua | Laos | 396 |
+| 6 | [dhecaptain](https://github.com/dhecaptain) | David Wambua | Laos | 397 |
 | 7 | [douangtavanh](https://github.com/douangtavanh) | Douangtavanh Kongphaly | Vientiane, Laos | 386 |
 | 8 | [maxontorres](https://github.com/maxontorres) | Maxon Torres | Vientiane, Laos | 366 |
 | 9 | [barluscuda](https://github.com/barluscuda) | BarlusCuda | Laos | 294 |
@@ -67,7 +67,7 @@ Indexed users: 360
 | 3 | [topser9](https://github.com/topser9) | Top | Lao People's Democratic Republic | 38 |
 | 4 | [Alamnzr123](https://github.com/Alamnzr123) | Rahmad Alamsyah Nazaruddin | Laos | 37 |
 | 5 | [SourceDev-Lab](https://github.com/SourceDev-Lab) | SourceDev-Lab | Vientiane, Lao | 37 |
-| 6 | [barluscuda](https://github.com/barluscuda) | BarlusCuda | Laos | 32 |
+| 6 | [barluscuda](https://github.com/barluscuda) | BarlusCuda | Laos | 31 |
 | 7 | [tinbotu](https://github.com/tinbotu) | Akira KUMAGAI | ວຽງຈັນ, Laos | 27 |
 | 8 | [Dan16ssd](https://github.com/Dan16ssd) | Sinthanavanh Sinsamphanh | Vientiane, Laos | 26 |
 | 9 | [khatthaphone](https://github.com/khatthaphone) | Khatthaphone Sengvilai | Vientiane, Laos | 24 |
@@ -83,4 +83,4 @@ Indexed users: 360
 | 19 | [Sengkue](https://github.com/Sengkue) | SengKueVang | Laos, Vientiane capital | 16 |
 | 20 | [JarnKet](https://github.com/JarnKet) | Ketsadaphone BOUTPANYDA | Savannakhet, Laos | 14 |
 
-Generated: 2026-10-19T06:48:17.394Z
+Generated: 2026-10-19T08:04:44.162Z

@@ -1,6 +1,6 @@
 # Greenland
 
-Indexed users: 59
+Indexed users: 58
 
 | Leaderboard | Link |
 |---|---|
@@ -80,7 +80,7 @@ Indexed users: 59
 | 16 | [qovero](https://github.com/qovero) |  | Nuuk, Greenland | 11 |
 | 17 | [piaere](https://github.com/piaere) | piære | greenland | 10 |
 | 18 | [Pocket-sys32](https://github.com/Pocket-sys32) | Manraj Thandi | Greenland | 10 |
-| 19 | [yuzujam](https://github.com/yuzujam) | yuzujam | Nuuk,Greenland | 10 |
-| 20 | [DaniEstevezBarcia](https://github.com/DaniEstevezBarcia) | Daniel Estévez-Barcia | Greenland | 8 |
+| 19 | [DaniEstevezBarcia](https://github.com/DaniEstevezBarcia) | Daniel Estévez-Barcia | Greenland | 8 |
+| 20 | [polarstoat](https://github.com/polarstoat) | Polar stoat | Greenland | 6 |
 
-Generated: 2026-10-19T06:38:43.293Z
+Generated: 2026-10-19T07:54:44.594Z

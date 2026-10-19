@@ -50,8 +50,8 @@ Indexed users: 475
 | 11 | [Tusneld](https://github.com/Tusneld) | Tusnelde Endjala | Namibia | 427 |
 | 12 | [Sphellep04](https://github.com/Sphellep04) | Phellep.Dev | Windhoek, Namibia | 361 |
 | 13 | [mou-rush](https://github.com/mou-rush) | Moureen | Swakopmund, Namibia | 312 |
-| 14 | [rtonata88](https://github.com/rtonata88) | Richard Chambula | Windhoek, Namibia | 275 |
-| 15 | [Math0202](https://github.com/Math0202) | Tangeni Matheus | Namibia, Windhoek | 273 |
+| 14 | [Math0202](https://github.com/Math0202) | Tangeni Matheus | Namibia, Windhoek | 275 |
+| 15 | [rtonata88](https://github.com/rtonata88) | Richard Chambula | Windhoek, Namibia | 275 |
 | 16 | [PascalMTK](https://github.com/PascalMTK) |  | Windhoek - Namibia | 254 |
 | 17 | [RohanBez2801](https://github.com/RohanBez2801) | Rohan Bezuidenhout | Windhoek, Namibia | 250 |
 | 18 | [yaasoniii](https://github.com/yaasoniii) | Jason | Windhoek, Namibia | 246 |
@@ -83,4 +83,4 @@ Indexed users: 475
 | 19 | [Hilya02](https://github.com/Hilya02) | Hilya Ntinda Tuyakula | Windhoek, Namibia | 36 |
 | 20 | [erassynathingo](https://github.com/erassynathingo) | Erastus Nathingo | Windhoek | 33 |
 
-Generated: 2026-10-19T06:56:54.504Z
+Generated: 2026-10-19T08:14:23.676Z

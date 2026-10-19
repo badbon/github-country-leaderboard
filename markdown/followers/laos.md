@@ -1,6 +1,6 @@
 # Followers - Laos
 
-Generated: 2026-10-19T06:48:17.394Z
+Generated: 2026-10-19T08:04:44.162Z
 
 Users: 360
 
@@ -11,7 +11,7 @@ Users: 360
 | 3 | [topser9](https://github.com/topser9) | Top |  |  | Lao People's Democratic Republic | 38 |
 | 4 | [Alamnzr123](https://github.com/Alamnzr123) | Rahmad Alamsyah Nazaruddin |  |  | Laos | 37 |
 | 5 | [SourceDev-Lab](https://github.com/SourceDev-Lab) | SourceDev-Lab |  | XianExsensai | Vientiane, Lao | 37 |
-| 6 | [barluscuda](https://github.com/barluscuda) | BarlusCuda |  |  | Laos | 32 |
+| 6 | [barluscuda](https://github.com/barluscuda) | BarlusCuda |  |  | Laos | 31 |
 | 7 | [tinbotu](https://github.com/tinbotu) | Akira KUMAGAI |  |  | ວຽງຈັນ, Laos | 27 |
 | 8 | [Dan16ssd](https://github.com/Dan16ssd) | Sinthanavanh Sinsamphanh | MakerBox |  | Vientiane, Laos | 26 |
 | 9 | [khatthaphone](https://github.com/khatthaphone) | Khatthaphone Sengvilai |  |  | Vientiane, Laos | 24 |

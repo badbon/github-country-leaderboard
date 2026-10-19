@@ -12,7 +12,7 @@ Indexed users: 1,579
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [davideagle](https://github.com/davideagle) | davideagle | Iceland | 25,173 |
+| 1 | [davideagle](https://github.com/davideagle) | davideagle | Iceland | 25,600 |
 | 2 | [benkauffman](https://github.com/benkauffman) | Ben Kauffman | Reykjavík, Iceland | 20,179 |
 | 3 | [Magnussmari](https://github.com/Magnussmari) | Magnús Smári Smárason | Akureyri, Iceland | 16,661 |
 | 4 | [padresmurfa](https://github.com/padresmurfa) | David Hermann Brandt | Reykjavík, Iceland | 15,224 |
@@ -83,4 +83,4 @@ Indexed users: 1,579
 | 19 | [jokull](https://github.com/jokull) | Jökull Sólberg Auðunsson | Reykjavík, Iceland | 209 |
 | 20 | [kevien](https://github.com/kevien) | K3vin | iceland | 204 |
 
-Generated: 2026-10-19T06:42:59.894Z
+Generated: 2026-10-19T07:59:28.423Z

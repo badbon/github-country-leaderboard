@@ -1,6 +1,6 @@
 # Followers - Oman
 
-Generated: 2026-10-19T07:00:56.648Z
+Generated: 2026-10-19T08:17:38.541Z
 
 Users: 991
 
@@ -23,6 +23,6 @@ Users: 991
 | 15 | [HosseinShabani](https://github.com/HosseinShabani) | Hossein Shabani | XQuad | HosseinH3n | Oman | 108 |
 | 16 | [shm379](https://github.com/shm379) | Hussein | MrChatGPT |  | Muscat | 105 |
 | 17 | [xZAYEDx](https://github.com/xZAYEDx) | ZAYED AL-GAWI |  | DrCyborg | Muscat,Oman | 105 |
-| 18 | [foxoman](https://github.com/foxoman) | Sultan Al Isaiee | Foxoman | foxoman | Oman | 98 |
+| 18 | [foxoman](https://github.com/foxoman) | Sultan Al Isaiee | Foxoman | foxoman | Oman | 99 |
 | 19 | [3mrdev](https://github.com/3mrdev) | Amr Abd-Alkrim | @firebitsnet @firebitscode @sgcsd | 3mrdev | Khartoum, Sudan \| Muscat, Oman | 94 |
 | 20 | [AmirSa12](https://github.com/AmirSa12) | AmirHossein Sakhravi |  | amirsakhravi | Muscat, Oman | 91 |

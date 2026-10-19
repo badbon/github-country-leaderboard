@@ -1,6 +1,6 @@
 # Followers - North Macedonia
 
-Generated: 2026-10-19T07:00:44.891Z
+Generated: 2026-10-19T08:17:23.999Z
 
 Users: 1925
 
@@ -12,7 +12,7 @@ Users: 1925
 | 4 | [jaggedsoft](https://github.com/jaggedsoft) | jagged | Darkpool Liquidity | jaggedsoft | North Macedonia | 468 |
 | 5 | [trajchevska](https://github.com/trajchevska) | Katerina Trajchevska | @adevait  |  | Skopje Macedonia | 462 |
 | 6 | [xStephx](https://github.com/xStephx) | Stefan Bojkovski | localhost |  | Macedonia | 306 |
-| 7 | [BojanaVasilevska](https://github.com/BojanaVasilevska) | Bojana  | Full-Stack Developer |  | Macedonia | 282 |
+| 7 | [BojanaVasilevska](https://github.com/BojanaVasilevska) | Bojana  | Full-Stack Developer |  | Macedonia | 292 |
 | 8 | [Shekswess](https://github.com/Shekswess) | Bojan Jakimovski | Loka | Shekswess | Skopje, Macedonia | 242 |
 | 9 | [callibra](https://github.com/callibra) | Ivan Gjorcev  |  |  | Sveti Nikole, Macedonia  🌎 🗺️ | 225 |
 | 10 | [stefanandonov](https://github.com/stefanandonov) | Stefan Andonov | Faculty of computer science and engineering - Skopje |  | Skopje, Macedonia | 223 |

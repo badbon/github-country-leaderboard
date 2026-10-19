@@ -24,7 +24,7 @@ Indexed users: 991
 | 10 | [iamsj7](https://github.com/iamsj7) | Shaik Jaleel | Muscat | 9,036 |
 | 11 | [shm379](https://github.com/shm379) | Hussein | Muscat | 8,678 |
 | 12 | [sanjeed5](https://github.com/sanjeed5) | Sanjeed | Bangalore / Oman  | 8,371 |
-| 13 | [dmsherazi](https://github.com/dmsherazi) | Dost Muhammad Shah | Muscat, Oman | 7,532 |
+| 13 | [dmsherazi](https://github.com/dmsherazi) | Dost Muhammad Shah | Muscat, Oman | 7,836 |
 | 14 | [DevAseel](https://github.com/DevAseel) | Aseel Al Rawahi | Oman | 6,870 |
 | 15 | [lqji](https://github.com/lqji) | Ahmed Abdullah | Oman | 6,006 |
 | 16 | [MohAnghabo](https://github.com/MohAnghabo) | Mohammed Anghabo | Muscat | 5,312 |
@@ -79,8 +79,8 @@ Indexed users: 991
 | 15 | [HosseinShabani](https://github.com/HosseinShabani) | Hossein Shabani | Oman | 108 |
 | 16 | [shm379](https://github.com/shm379) | Hussein | Muscat | 105 |
 | 17 | [xZAYEDx](https://github.com/xZAYEDx) | ZAYED AL-GAWI | Muscat,Oman | 105 |
-| 18 | [foxoman](https://github.com/foxoman) | Sultan Al Isaiee | Oman | 98 |
+| 18 | [foxoman](https://github.com/foxoman) | Sultan Al Isaiee | Oman | 99 |
 | 19 | [3mrdev](https://github.com/3mrdev) | Amr Abd-Alkrim | Khartoum, Sudan \| Muscat, Oman | 94 |
 | 20 | [AmirSa12](https://github.com/AmirSa12) | AmirHossein Sakhravi | Muscat, Oman | 91 |
 
-Generated: 2026-10-19T07:00:56.648Z
+Generated: 2026-10-19T08:17:38.541Z

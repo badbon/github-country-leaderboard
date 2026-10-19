@@ -1,16 +1,16 @@
 # Public Contributions - Lebanon
 
-Generated: 2026-10-19T06:49:33.805Z
+Generated: 2026-10-19T08:05:34.300Z
 
 Users: 2560
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [1homsi](https://github.com/1homsi) | Mohamad Homsi |  | 1homsii | Lebanon | 6378 |
-| 2 | [Mazennaji](https://github.com/Mazennaji) | Mazen Naji |  |  | Lebanon | 3196 |
-| 3 | [shahednasser](https://github.com/shahednasser) | Shahed Nasser | @medusajs | _shahednasser | Aaramoun, Lebanon | 2995 |
-| 4 | [aliscco](https://github.com/aliscco) | Ali mazloum | acme,inc |  | Beirut | 2919 |
-| 5 | [KhaledSaeed18](https://github.com/KhaledSaeed18) | Khaled Saeed |  | KhaleddSaeed18 | Lebanon | 2639 |
+| 2 | [KhaledSaeed18](https://github.com/KhaledSaeed18) | Khaled Saeed |  | KhaleddSaeed18 | Lebanon | 4251 |
+| 3 | [Mazennaji](https://github.com/Mazennaji) | Mazen Naji |  |  | Lebanon | 3196 |
+| 4 | [shahednasser](https://github.com/shahednasser) | Shahed Nasser | @medusajs | _shahednasser | Aaramoun, Lebanon | 2995 |
+| 5 | [aliscco](https://github.com/aliscco) | Ali mazloum | acme,inc |  | Beirut | 2919 |
 | 6 | [Omar7tech](https://github.com/Omar7tech) | Omar Abi Farraj | Omar7tech |  | Beirut | 2603 |
 | 7 | [Ali-Al-Ahmad](https://github.com/Ali-Al-Ahmad) | Ali Al Ahmad |  |  | Beirut, Lebanon | 2396 |
 | 8 | [MahmoudAmouni](https://github.com/MahmoudAmouni) | Mahmoud Abou Amoun |  |  | Lebanon | 1843 |

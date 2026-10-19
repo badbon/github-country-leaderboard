@@ -12,18 +12,18 @@ Indexed users: 86
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [sype](https://github.com/sype) | Sebastien Pincemail | Paris / Guadeloupe | 6,219 |
+| 1 | [sype](https://github.com/sype) | Sebastien Pincemail | Paris / Guadeloupe | 6,208 |
 | 2 | [JoDrm](https://github.com/JoDrm) | Jodrm | Guadeloupe | 3,235 |
-| 3 | [macojaune](https://github.com/macojaune) | macojaune | Guadeloupe | 2,273 |
+| 3 | [macojaune](https://github.com/macojaune) | macojaune | Guadeloupe | 2,270 |
 | 4 | [kvaillant](https://github.com/kvaillant) | Karl Vaillant | Guadeloupe, West-Indies | 1,726 |
-| 5 | [gbaccetta](https://github.com/gbaccetta) | Giovanni Accetta | Guadeloupe | 1,630 |
+| 5 | [gbaccetta](https://github.com/gbaccetta) | Giovanni Accetta | Guadeloupe | 1,626 |
 | 6 | [iamcryptoki](https://github.com/iamcryptoki) | Gael Gentil | Guadeloupe | 1,413 |
 | 7 | [Gaelle-charles](https://github.com/Gaelle-charles) | Gaëlle CHARLES-BELAMOUR | Guadeloupe (FWI) | 1,393 |
 | 8 | [liobrasil](https://github.com/liobrasil) | Lionel LIMOL | Guadeloupe | 958 |
 | 9 | [BLVCK971](https://github.com/BLVCK971) | Yoel Pépin | Le Moule, GUADELOUPE | 890 |
 | 10 | [r1d](https://github.com/r1d) | Eric Degoul | Sainte-Anne, Guadeloupe | 740 |
 | 11 | [nath971](https://github.com/nath971) | N | Guadeloupe | 658 |
-| 12 | [sboli](https://github.com/sboli) | Bolivar Stephen | Guadeloupe | 633 |
+| 12 | [sboli](https://github.com/sboli) | Bolivar Stephen | Guadeloupe | 638 |
 | 13 | [FWICSS](https://github.com/FWICSS) | FWICSS | Guadeloupe | 487 |
 | 14 | [seyken971](https://github.com/seyken971) | Andy Zébus | Guadeloupe | 230 |
 | 15 | [khalil-tabbal](https://github.com/khalil-tabbal) | Khalil TABBAL | Guadeloupe | 202 |
@@ -40,7 +40,7 @@ Indexed users: 86
 | 1 | [Gaelle-charles](https://github.com/Gaelle-charles) | Gaëlle CHARLES-BELAMOUR | Guadeloupe (FWI) | 1,393 |
 | 2 | [liobrasil](https://github.com/liobrasil) | Lionel LIMOL | Guadeloupe | 664 |
 | 3 | [FWICSS](https://github.com/FWICSS) | FWICSS | Guadeloupe | 487 |
-| 4 | [macojaune](https://github.com/macojaune) | macojaune | Guadeloupe | 318 |
+| 4 | [macojaune](https://github.com/macojaune) | macojaune | Guadeloupe | 315 |
 | 5 | [seyken971](https://github.com/seyken971) | Andy Zébus | Guadeloupe | 230 |
 | 6 | [Virguiles](https://github.com/Virguiles) | Virgile | Guadeloupe | 144 |
 | 7 | [KaribbeanCreative](https://github.com/KaribbeanCreative) | Karibbean Creative | Guadeloupe | 74 |
@@ -83,4 +83,4 @@ Indexed users: 86
 | 19 | [fg8oj](https://github.com/fg8oj) | Bertrand Demarcq FG8OJ/AG8OJ | Guadeloupe | 6 |
 | 20 | [kvaillant](https://github.com/kvaillant) | Karl Vaillant | Guadeloupe, West-Indies | 6 |
 
-Generated: 2026-10-19T06:39:22.244Z
+Generated: 2026-10-19T07:55:17.857Z

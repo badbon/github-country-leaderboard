@@ -1,6 +1,6 @@
 # Peru
 
-Indexed users: 9,769
+Indexed users: 9,771
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 9,769
 | 19 | [carlosal1015](https://github.com/carlosal1015) | Oromion | Lima, Peru | 438 |
 | 20 | [HackUnderway](https://github.com/HackUnderway) | Hack Underway | Lima - Perú | 413 |
 
-Generated: 2026-10-19T07:04:35.734Z
+Generated: 2026-10-19T08:22:53.565Z

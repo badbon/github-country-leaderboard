@@ -1,6 +1,6 @@
 # Total Contributions - Guyana
 
-Generated: 2026-10-19T06:41:14.531Z
+Generated: 2026-10-19T07:57:15.799Z
 
 Users: 186
 
@@ -12,7 +12,7 @@ Users: 186
 | 4 | [rayonhunte](https://github.com/rayonhunte) | Rayon Hunte | RASH |  | Georgetown Guyana | 4523 |
 | 5 | [barnwell](https://github.com/barnwell) | Jason Barnwell |  |  | Guyana | 4432 |
 | 6 | [ktappdev](https://github.com/ktappdev) | Ken Andrew Taylor | LugeTech, Brutal Tracks Recording Studio, Maad 97.5 FM | ktappdev | Guyana | 4098 |
-| 7 | [uberhacker](https://github.com/uberhacker) | Ed Reel | Mobile Strategies LLC |  | Georgetown, TX | 3954 |
+| 7 | [uberhacker](https://github.com/uberhacker) | Ed Reel | Mobile Strategies LLC |  | Georgetown, TX | 3953 |
 | 8 | [pachev](https://github.com/pachev) | Pachev Joseph |  |  | Georgetown, TX | 3914 |
 | 9 | [beckettharriman](https://github.com/beckettharriman) | Beckett Harriman | Georgetown University |  | Georgetown, DC | 3512 |
 | 10 | [jonathansharman](https://github.com/jonathansharman) | Jonathan Sharman |  |  | Georgetown, DE | 3273 |

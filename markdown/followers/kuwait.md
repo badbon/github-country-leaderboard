@@ -1,6 +1,6 @@
 # Followers - Kuwait
 
-Generated: 2026-10-19T06:46:42.003Z
+Generated: 2026-10-19T08:04:36.120Z
 
 Users: 796
 
@@ -13,7 +13,7 @@ Users: 796
 | 5 | [Mubder](https://github.com/Mubder) | Mubder Alfaris | KazmaAI | b_alfaris | Kuwait | 151 |
 | 6 | [smokeme](https://github.com/smokeme) | Fawaz Adi |  |  | Kuwait | 150 |
 | 7 | [MMGGYY66](https://github.com/MMGGYY66) | MOHAMED GAMIL ELDIMARDASH | @microverseinc | MOHAMEDELDIMARd | KUWAIT | 144 |
-| 8 | [dmakwt](https://github.com/dmakwt) | Dhari | Indie Developer | dmakwt | Kuwait | 131 |
+| 8 | [dmakwt](https://github.com/dmakwt) | Dhari | Indie Developer | dmakwt | Kuwait | 129 |
 | 9 | [omsi96](https://github.com/omsi96) | Omar | @barmej, @JoinCODED, @kuwaitcodes  |  | Kuwait | 120 |
 | 10 | [hashemi](https://github.com/hashemi) | Ahmad Alhashemi |  |  | Kuwait | 110 |
 | 11 | [asmaaeltawil](https://github.com/asmaaeltawil) | Asmaa Eltawil |  | semsemaeltawil | Kuwait | 106 |

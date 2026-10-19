@@ -1,8 +1,8 @@
 # Followers - Greenland
 
-Generated: 2026-10-19T06:38:43.293Z
+Generated: 2026-10-19T07:54:44.594Z
 
-Users: 59
+Users: 58
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -24,5 +24,5 @@ Users: 59
 | 16 | [qovero](https://github.com/qovero) |  | Nukissiorfiit |  | Nuuk, Greenland | 11 |
 | 17 | [piaere](https://github.com/piaere) | piære |  | piaere | greenland | 10 |
 | 18 | [Pocket-sys32](https://github.com/Pocket-sys32) | Manraj Thandi |  |  | Greenland | 10 |
-| 19 | [yuzujam](https://github.com/yuzujam) | yuzujam |  | yuzujam | Nuuk,Greenland | 10 |
-| 20 | [DaniEstevezBarcia](https://github.com/DaniEstevezBarcia) | Daniel Estévez-Barcia | Greenland Institute of Natural Resources |  | Greenland | 8 |
+| 19 | [DaniEstevezBarcia](https://github.com/DaniEstevezBarcia) | Daniel Estévez-Barcia | Greenland Institute of Natural Resources |  | Greenland | 8 |
+| 20 | [polarstoat](https://github.com/polarstoat) | Polar stoat |  |  | Greenland | 6 |
