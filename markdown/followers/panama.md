@@ -1,6 +1,6 @@
 # Followers - Panama
 
-Generated: 2026-10-19T09:39:48.105Z
+Generated: 2026-10-19T15:01:21.227Z
 
 Users: 1070
 
@@ -20,7 +20,7 @@ Users: 1070
 | 12 | [Yizack](https://github.com/Yizack) | Yizack Rangel | MailChannels | YizackR | Panama | 62 |
 | 13 | [muniter](https://github.com/muniter) | Javier Lopez |  |  | Panama, Panama City | 61 |
 | 14 | [ibarria0](https://github.com/ibarria0) | Ivan Barria |  |  | Panama | 57 |
-| 15 | [joseabraham](https://github.com/joseabraham) | Jose Abraham Garcia | Eprezto.com |  | Panama | 56 |
+| 15 | [joseabraham](https://github.com/joseabraham) | Jose Abraham Garcia | Eprezto.com |  | Panama | 55 |
 | 16 | [alexishevia](https://github.com/alexishevia) | Alexis Hevia |  |  | Panama City, Panama | 54 |
 | 17 | [dsfaccini](https://github.com/dsfaccini) | David SF | alecs | dasfacc | Panama City | 52 |
 | 18 | [hoolymama](https://github.com/hoolymama) | Julian Mann |  |  | Panama | 52 |

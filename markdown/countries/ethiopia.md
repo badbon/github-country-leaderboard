@@ -17,10 +17,10 @@ Indexed users: 6,679
 | 3 | [Tesfamariam-Gebre](https://github.com/Tesfamariam-Gebre) | Tesfamariam Gebre | Ethiopia, Addis Ababa | 15,677 |
 | 4 | [Yab1](https://github.com/Yab1) | Yeabsera  | Ethiopia | 14,365 |
 | 5 | [iamTadaeltadi](https://github.com/iamTadaeltadi) | Tadaeel Shewarega  | Ethiopia | 12,603 |
-| 6 | [tokukiyu](https://github.com/tokukiyu) | Tokuma Abdisa | Addis Ababa | 11,381 |
-| 7 | [shambel-amare](https://github.com/shambel-amare) | Shambel-Amare | Addis Ababa, Ethiopia | 10,971 |
-| 8 | [Benomi](https://github.com/Benomi) | Binyam T. Fisseha | Addis Ababa, Ethiopia | 10,687 |
-| 9 | [tolossamuel](https://github.com/tolossamuel) | Samuel Tolossa | Ethiopia | 10,449 |
+| 6 | [tolossamuel](https://github.com/tolossamuel) | Samuel Tolossa | Ethiopia | 12,206 |
+| 7 | [tokukiyu](https://github.com/tokukiyu) | Tokuma Abdisa | Addis Ababa | 11,381 |
+| 8 | [shambel-amare](https://github.com/shambel-amare) | Shambel-Amare | Addis Ababa, Ethiopia | 10,971 |
+| 9 | [Benomi](https://github.com/Benomi) | Binyam T. Fisseha | Addis Ababa, Ethiopia | 10,687 |
 | 10 | [haxurn](https://github.com/haxurn) | Samson Tesfaye | Ethiopia, Addis Ababa | 10,289 |
 | 11 | [yaftes](https://github.com/yaftes) | Yafet Tesfaye | Ethiopia , Adama | 10,268 |
 | 12 | [natnaeln4d](https://github.com/natnaeln4d) | Natnael Getachew | Addis Ababa, Ethiopia | 8,533 |
@@ -83,4 +83,4 @@ Indexed users: 6,679
 | 19 | [yonasleykun27](https://github.com/yonasleykun27) | Yonas Leykun | Addis Ababa, Ethiopia  | 511 |
 | 20 | [Olyadtemesgen](https://github.com/Olyadtemesgen) | Olyad Temesgen Amsalu | Addis Ababa, Ethiopia | 501 |
 
-Generated: 2026-10-19T09:08:14.856Z
+Generated: 2026-10-19T14:30:39.038Z

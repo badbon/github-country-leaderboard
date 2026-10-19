@@ -44,7 +44,7 @@ Indexed users: 900
 | 5 | [jelome265](https://github.com/jelome265) | Jelome Ngamuti | malawi | 1,286 |
 | 6 | [finalSay9](https://github.com/finalSay9) | Evan Chimwaza | Lilongwe, Malawi | 981 |
 | 7 | [petroskayange](https://github.com/petroskayange) | Petros Kayange | Malawi | 932 |
-| 8 | [BenjaminMwambakulu](https://github.com/BenjaminMwambakulu) | BenjaminVamp2o5 | Malawi | 765 |
+| 8 | [BenjaminMwambakulu](https://github.com/BenjaminMwambakulu) | BenjaminVamp2o5 | Malawi | 766 |
 | 9 | [lcfranklin](https://github.com/lcfranklin) | Franklin | Rumphi, Malawi | 738 |
 | 10 | [Forgata](https://github.com/Forgata) | Forgata | Malawi | 686 |
 | 11 | [V014](https://github.com/V014) | Wanga Kanjala | Blantyre, Malawi | 671 |
@@ -83,4 +83,4 @@ Indexed users: 900
 | 19 | [RodgerCodes](https://github.com/RodgerCodes) | Rodger Kumwanje | Malawi | 130 |
 | 20 | [g1ftmkyelu](https://github.com/g1ftmkyelu) | codemaestro🚀 | 🇲🇼 Malawi | 129 |
 
-Generated: 2026-10-19T09:28:07.091Z
+Generated: 2026-10-19T14:49:40.750Z

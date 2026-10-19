@@ -1,6 +1,6 @@
 # Total Contributions - Malta
 
-Generated: 2026-10-19T09:28:57.243Z
+Generated: 2026-10-19T14:51:31.385Z
 
 Users: 1224
 
@@ -11,7 +11,7 @@ Users: 1224
 | 3 | [zcourts](https://github.com/zcourts) | Courtney Robinson | Hypi | zcourts | London (UK), Łodz (Poland), Valletta (Malta) | 14775 |
 | 4 | [tssge](https://github.com/tssge) | Teemu Grönqvist | Freelancer @net9-oy |  | Msida, Malta | 13396 |
 | 5 | [kjlibsol](https://github.com/kjlibsol) | Klaus Jensen | Liberatum Solutions Ltd |  | Malta | 12520 |
-| 6 | [exori90](https://github.com/exori90) | exori |  |  | Malta | 11040 |
+| 6 | [exori90](https://github.com/exori90) | exori |  |  | Malta | 11706 |
 | 7 | [mattbeedle](https://github.com/mattbeedle) | Matt Beedle |  |  | Malta | 11031 |
 | 8 | [GabrielGil](https://github.com/GabrielGil) | Gabriel | @redacreltd | GabrielSchlomo | Malta | 10681 |
 | 9 | [silvandiepen](https://github.com/silvandiepen) | Sil van Diepen | Sil van Diepen | silvandiepen | Malta | 9398 |

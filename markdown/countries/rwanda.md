@@ -31,7 +31,7 @@ Indexed users: 3,503
 | 17 | [brunorwanda4](https://github.com/brunorwanda4) | Bruno Rwanda | Rwanda/ Kigali | 7,609 |
 | 18 | [Kevin-The-Cyber-Coder](https://github.com/Kevin-The-Cyber-Coder) | MUKESHIMANA KEVIN | Kigali Rwanda | 7,511 |
 | 19 | [nrep](https://github.com/nrep) | Elvis Peace NDAHAYO RUGERO | Rwanda | 7,389 |
-| 20 | [mjeanbosco19](https://github.com/mjeanbosco19) | MUGIRANEZA Jean Bosco | Kigali Rwanda | 7,137 |
+| 20 | [franakol](https://github.com/franakol) | Francis Akol | Rwanda | 7,150 |
 
 ## Public Contributions
 
@@ -48,15 +48,15 @@ Indexed users: 3,503
 | 9 | [kawacukennedy](https://github.com/kawacukennedy) | KAWACU Kennedy | Kigali, Rwanda | 3,872 |
 | 10 | [abeltony-prog](https://github.com/abeltony-prog) | AbelTony | Kigali/Rwannda | 3,856 |
 | 11 | [leandre000](https://github.com/leandre000) | Izere Shema Leandre | Kigali,Rwanda | 3,661 |
-| 12 | [Icyubahiro-Jay-P](https://github.com/Icyubahiro-Jay-P) | JAY P | Kigali, Rwanda | 3,074 |
-| 13 | [Ndevu12](https://github.com/Ndevu12) | Jean Paul Elisa NIYOKWIZERWA | Kigali Rwanda | 2,996 |
-| 14 | [etienne0114](https://github.com/etienne0114) | etienne tuyihamye | kigali | 2,820 |
-| 15 | [Goal651](https://github.com/Goal651) |  Wilson Goal BUGIRI | Rwanda-Kigali | 2,667 |
-| 16 | [tuyisengeaurele](https://github.com/tuyisengeaurele) | Ange Aurele Tuyisenge | Kigali, Rwanda | 2,665 |
-| 17 | [uparfait](https://github.com/uparfait) | Parfait Uwayo | Rwanda | 2,563 |
-| 18 | [mugisham37](https://github.com/mugisham37) | MUGISHA MOSES | KIGALI- RWANDA | 2,539 |
-| 19 | [rayiecho](https://github.com/rayiecho) | Regan Ayiecho | Rwanda | 2,493 |
-| 20 | [Moise-codes](https://github.com/Moise-codes) | YEHOVAYIRE Moise | Kigali,Rwanda | 2,365 |
+| 12 | [niyongaboemmy](https://github.com/niyongaboemmy) | Niyongabo Emmanuel | Kigali, Rwanda | 3,271 |
+| 13 | [Icyubahiro-Jay-P](https://github.com/Icyubahiro-Jay-P) | JAY P | Kigali, Rwanda | 3,074 |
+| 14 | [Ndevu12](https://github.com/Ndevu12) | Jean Paul Elisa NIYOKWIZERWA | Kigali Rwanda | 2,996 |
+| 15 | [etienne0114](https://github.com/etienne0114) | etienne tuyihamye | kigali | 2,820 |
+| 16 | [Goal651](https://github.com/Goal651) |  Wilson Goal BUGIRI | Rwanda-Kigali | 2,667 |
+| 17 | [tuyisengeaurele](https://github.com/tuyisengeaurele) | Ange Aurele Tuyisenge | Kigali, Rwanda | 2,665 |
+| 18 | [uparfait](https://github.com/uparfait) | Parfait Uwayo | Rwanda | 2,563 |
+| 19 | [mugisham37](https://github.com/mugisham37) | MUGISHA MOSES | KIGALI- RWANDA | 2,539 |
+| 20 | [rayiecho](https://github.com/rayiecho) | Regan Ayiecho | Rwanda | 2,493 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 3,503
 | 19 | [shemaikuzwe](https://github.com/shemaikuzwe) | Ikuzwe shema Elie | rwanda | 314 |
 | 20 | [Manzi-Elvis](https://github.com/Manzi-Elvis) | Elvis Manzi | Rwanda | 299 |
 
-Generated: 2026-10-19T09:44:01.534Z
+Generated: 2026-10-19T15:04:51.901Z

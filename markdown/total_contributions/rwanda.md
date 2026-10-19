@@ -1,6 +1,6 @@
 # Total Contributions - Rwanda
 
-Generated: 2026-10-19T09:44:01.534Z
+Generated: 2026-10-19T15:04:51.901Z
 
 Users: 3503
 
@@ -25,4 +25,4 @@ Users: 3503
 | 17 | [brunorwanda4](https://github.com/brunorwanda4) | Bruno Rwanda | @space-together-org  | rwanda_bruno | Rwanda/ Kigali | 7609 |
 | 18 | [Kevin-The-Cyber-Coder](https://github.com/Kevin-The-Cyber-Coder) | MUKESHIMANA KEVIN | Cyber Coding Arena |  | Kigali Rwanda | 7511 |
 | 19 | [nrep](https://github.com/nrep) | Elvis Peace NDAHAYO RUGERO | Digital Umuganda | ElvisPeaceNR | Rwanda | 7389 |
-| 20 | [mjeanbosco19](https://github.com/mjeanbosco19) | MUGIRANEZA Jean Bosco | @etite-ltd  | mjeanbosco19 | Kigali Rwanda | 7137 |
+| 20 | [franakol](https://github.com/franakol) | Francis Akol | InversePay | FrancisAkol3 | Rwanda | 7150 |

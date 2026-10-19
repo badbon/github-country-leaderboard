@@ -43,13 +43,13 @@ Indexed users: 2,560
 | 4 | [shahednasser](https://github.com/shahednasser) | Shahed Nasser | Aaramoun, Lebanon | 2,995 |
 | 5 | [aliscco](https://github.com/aliscco) | Ali mazloum | Beirut | 2,919 |
 | 6 | [Omar7tech](https://github.com/Omar7tech) | Omar Abi Farraj | Beirut | 2,603 |
-| 7 | [Ali-Al-Ahmad](https://github.com/Ali-Al-Ahmad) | Ali Al Ahmad | Beirut, Lebanon | 2,396 |
-| 8 | [MahmoudAmouni](https://github.com/MahmoudAmouni) | Mahmoud Abou Amoun | Lebanon | 1,843 |
-| 9 | [MohammadRstm](https://github.com/MohammadRstm) | Mohammad Rostom | Beirut - Lebanon | 1,814 |
-| 10 | [samerc](https://github.com/samerc) | Samer Cheaib | Beirut | 1,779 |
-| 11 | [mcfarhat](https://github.com/mcfarhat) | Mohammad Farhat | Lebanon | 1,735 |
-| 12 | [JanoTheDev](https://github.com/JanoTheDev) | Jean Haddad | Lebanon | 1,701 |
-| 13 | [AbedAmouneh](https://github.com/AbedAmouneh) | Abed El-Fattah Amouneh | Lebanon | 1,671 |
+| 7 | [MahmoudAmouni](https://github.com/MahmoudAmouni) | Mahmoud Abou Amoun | Lebanon | 1,843 |
+| 8 | [MohammadRstm](https://github.com/MohammadRstm) | Mohammad Rostom | Beirut - Lebanon | 1,814 |
+| 9 | [samerc](https://github.com/samerc) | Samer Cheaib | Beirut | 1,779 |
+| 10 | [mcfarhat](https://github.com/mcfarhat) | Mohammad Farhat | Lebanon | 1,735 |
+| 11 | [JanoTheDev](https://github.com/JanoTheDev) | Jean Haddad | Lebanon | 1,701 |
+| 12 | [AbedAmouneh](https://github.com/AbedAmouneh) | Abed El-Fattah Amouneh | Lebanon | 1,671 |
+| 13 | [Ali-Al-Ahmad](https://github.com/Ali-Al-Ahmad) | Ali Al Ahmad | Beirut, Lebanon | 1,545 |
 | 14 | [imtithalhalalo](https://github.com/imtithalhalalo) | Imtithal Halalo | Beirut, Lebanon | 1,233 |
 | 15 | [jat10](https://github.com/jat10) | Jad Tarabay | Lebanon | 1,222 |
 | 16 | [ahomsi0](https://github.com/ahomsi0) | Ahmad Homsi | Lebanon | 1,211 |
@@ -83,4 +83,4 @@ Indexed users: 2,560
 | 19 | [rhamzeh](https://github.com/rhamzeh) | Raghd Hamzeh | Beirut, Lebanon | 102 |
 | 20 | [hadiidbouk](https://github.com/hadiidbouk) | Hadi Dbouk | Lebanon | 101 |
 
-Generated: 2026-10-19T09:24:04.133Z
+Generated: 2026-10-19T14:46:11.851Z

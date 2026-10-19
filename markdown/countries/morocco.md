@@ -1,6 +1,6 @@
 # Morocco
 
-Indexed users: 9,629
+Indexed users: 9,628
 
 | Leaderboard | Link |
 |---|---|
@@ -53,10 +53,10 @@ Indexed users: 9,629
 | 14 | [Hi1talib1World](https://github.com/Hi1talib1World) | hicham outaleb | Essaouira, Morocco | 2,431 |
 | 15 | [laghzal49](https://github.com/laghzal49) | tlaghzal | Morocco | 2,426 |
 | 16 | [tornidomaroc-web](https://github.com/tornidomaroc-web) | Abdelfettah Amellah | Morocco | 2,395 |
-| 17 | [ayagmar](https://github.com/ayagmar) | Abdeslam Yassine Agmar | Morocco | 2,338 |
-| 18 | [ilyas-doughmi](https://github.com/ilyas-doughmi) | Ilyas Doughmi | Taroudant, Morocco | 2,325 |
-| 19 | [MyLhassane](https://github.com/MyLhassane) | My Lhassane | Morocco | 2,283 |
-| 20 | [hichamboushaba](https://github.com/hichamboushaba) | Hicham Boushaba | Morocco | 2,276 |
+| 17 | [khalid-arrazani](https://github.com/khalid-arrazani) | khalid arrazani | Morocco | 2,381 |
+| 18 | [ayagmar](https://github.com/ayagmar) | Abdeslam Yassine Agmar | Morocco | 2,338 |
+| 19 | [ilyas-doughmi](https://github.com/ilyas-doughmi) | Ilyas Doughmi | Taroudant, Morocco | 2,325 |
+| 20 | [MyLhassane](https://github.com/MyLhassane) | My Lhassane | Morocco | 2,283 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 9,629
 | 19 | [walidbosso](https://github.com/walidbosso) | Walid BOUSSOU | Tetouan, Morocco. | 821 |
 | 20 | [yassnemo](https://github.com/yassnemo) | Yassine Erradouani | Casablanca, Morocco | 741 |
 
-Generated: 2026-10-19T09:33:14.305Z
+Generated: 2026-10-19T14:54:22.248Z

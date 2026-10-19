@@ -1,13 +1,13 @@
 # Total Contributions - Israel
 
-Generated: 2026-10-19T14:21:12.982Z
+Generated: 2026-10-19T14:41:14.063Z
 
 Users: 12420
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [guy-davidi](https://github.com/guy-davidi) | Guy Davidi |  |  | israel | 127333 |
-| 2 | [tupe12334](https://github.com/tupe12334) | Ofek Gabay |  |  | Tel aviv, Israel | 46505 |
+| 2 | [tupe12334](https://github.com/tupe12334) | Ofek Gabay |  |  | Tel aviv, Israel | 55590 |
 | 3 | [thefourcraft](https://github.com/thefourcraft) | David | @arcusis |  | Israel | 29661 |
 | 4 | [aryeh-stark](https://github.com/aryeh-stark) | Aryeh Stark |  |  | Israel | 27637 |
 | 5 | [tomyam1](https://github.com/tomyam1) | Tom Yam | @tepez |  | Tel-Aviv, Israel | 26184 |

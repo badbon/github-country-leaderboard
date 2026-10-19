@@ -1,6 +1,6 @@
 # Public Contributions - Jersey
 
-Generated: 2026-10-19T09:20:09.752Z
+Generated: 2026-10-19T14:41:29.101Z
 
 Users: 139
 
@@ -18,7 +18,7 @@ Users: 139
 | 10 | [michaelbutler1998](https://github.com/michaelbutler1998) | Michael Butler | Insert Affiliate Ltd |  | Jersey | 407 |
 | 11 | [mhaddon](https://github.com/mhaddon) | Michael Haddon | @politepixels  |  | Jersey, Channel Islands | 217 |
 | 12 | [xsebby](https://github.com/xsebby) | sebby |  | xsebby | jersey | 181 |
-| 13 | [ndestates](https://github.com/ndestates) | Nick Dodsley | ND Estates | nickdodsley | Jersey | 162 |
+| 13 | [ndestates](https://github.com/ndestates) | Nick Dodsley | ND Estates | nickdodsley | Jersey | 154 |
 | 14 | [morrisjam](https://github.com/morrisjam) | James Morris |  |  | Jersey | 152 |
 | 15 | [devdanio](https://github.com/devdanio) | Dan | DevDan | DevDanIO | Jersey | 139 |
 | 16 | [Adrian609](https://github.com/Adrian609) | Adrian |  |  | Jersey | 131 |

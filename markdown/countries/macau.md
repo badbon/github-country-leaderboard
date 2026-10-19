@@ -14,7 +14,7 @@ Indexed users: 439
 |---:|---|---|---|---:|
 | 1 | [K4Lok](https://github.com/K4Lok) | KaLok Sam | Macau | 11,854 |
 | 2 | [spiritLHLS](https://github.com/spiritLHLS) | spiritlhl | Macau | 9,838 |
-| 3 | [vergilsoleyn](https://github.com/vergilsoleyn) |  | Macau | 8,135 |
+| 3 | [vergilsoleyn](https://github.com/vergilsoleyn) |  | Macau | 8,126 |
 | 4 | [Chonwai](https://github.com/Chonwai) | Chonwai Un, Edison | Macau | 7,353 |
 | 5 | [kenischu](https://github.com/kenischu) | Kenis Chu | Macau | 6,099 |
 | 6 | [sou350121](https://github.com/sou350121) | KenSou | Macau | 5,581 |
@@ -24,14 +24,14 @@ Indexed users: 439
 | 10 | [MUST-panxiao](https://github.com/MUST-panxiao) | Xiao Pan | Macau | 2,937 |
 | 11 | [7788ken](https://github.com/7788ken) | Mark.pan | Macau,Zhuhai | 2,298 |
 | 12 | [mugpeng](https://github.com/mugpeng) | Peng | macao | 2,284 |
-| 13 | [Alex-Leong](https://github.com/Alex-Leong) | Alex | Macau | 2,184 |
+| 13 | [Alex-Leong](https://github.com/Alex-Leong) | Alex | Macau | 2,187 |
 | 14 | [Yh1sam](https://github.com/Yh1sam) |  | Macau | 2,142 |
 | 15 | [RyanKung](https://github.com/RyanKung) | Elder Ryan | Macau | 2,094 |
 | 16 | [aungminnkhant9400](https://github.com/aungminnkhant9400) | Rollo | Macau | 1,794 |
 | 17 | [HansiChan](https://github.com/HansiChan) | Colin | Macau | 1,764 |
 | 18 | [hheei](https://github.com/hheei) | Lo Chon Hei | Macau | 1,757 |
 | 19 | [yyyyyyounger](https://github.com/yyyyyyounger) | Rookie, LIN | Macau | 1,643 |
-| 20 | [ygqygq2](https://github.com/ygqygq2) | Chinge Yang | macao | 1,630 |
+| 20 | [ygqygq2](https://github.com/ygqygq2) | Chinge Yang | macao | 1,628 |
 
 ## Public Contributions
 
@@ -48,7 +48,7 @@ Indexed users: 439
 | 9 | [simoniong](https://github.com/simoniong) | Simon Iong | Macau | 1,277 |
 | 10 | [mrvictoru](https://github.com/mrvictoru) | Victor | Macau | 959 |
 | 11 | [1595901624](https://github.com/1595901624) | Cloris | Macau | 842 |
-| 12 | [ygqygq2](https://github.com/ygqygq2) | Chinge Yang | macao | 800 |
+| 12 | [ygqygq2](https://github.com/ygqygq2) | Chinge Yang | macao | 798 |
 | 13 | [comsaint](https://github.com/comsaint) | comsaint | Macau | 758 |
 | 14 | [joaquimrcarvalho](https://github.com/joaquimrcarvalho) | Joaquim Carvalho | Macao, China and Coimbra, Portugal | 710 |
 | 15 | [DoongLi](https://github.com/DoongLi) | Frankie Dong Li | Taipa, Macau | 658 |
@@ -83,4 +83,4 @@ Indexed users: 439
 | 19 | [1595901624](https://github.com/1595901624) | Cloris | Macau | 68 |
 | 20 | [Boom5426](https://github.com/Boom5426) | Bo li (李波) | Macau | 68 |
 
-Generated: 2026-10-19T09:26:11.653Z
+Generated: 2026-10-19T14:48:16.644Z

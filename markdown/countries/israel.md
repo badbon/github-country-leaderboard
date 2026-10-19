@@ -13,7 +13,7 @@ Indexed users: 12,420
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [guy-davidi](https://github.com/guy-davidi) | Guy Davidi | israel | 127,333 |
-| 2 | [tupe12334](https://github.com/tupe12334) | Ofek Gabay | Tel aviv, Israel | 46,505 |
+| 2 | [tupe12334](https://github.com/tupe12334) | Ofek Gabay | Tel aviv, Israel | 55,590 |
 | 3 | [thefourcraft](https://github.com/thefourcraft) | David | Israel | 29,661 |
 | 4 | [aryeh-stark](https://github.com/aryeh-stark) | Aryeh Stark | Israel | 27,637 |
 | 5 | [tomyam1](https://github.com/tomyam1) | Tom Yam | Tel-Aviv, Israel | 26,184 |
@@ -39,8 +39,8 @@ Indexed users: 12,420
 |---:|---|---|---|---:|
 | 1 | [guy-davidi](https://github.com/guy-davidi) | Guy Davidi | israel | 127,261 |
 | 2 | [oferchen](https://github.com/oferchen) | Ofer Chen | Israel | 21,715 |
-| 3 | [tupe12334](https://github.com/tupe12334) | Ofek Gabay | Tel aviv, Israel | 15,886 |
-| 4 | [EtanHey](https://github.com/EtanHey) | Etan Heyman | Rehovot, Israel | 15,612 |
+| 3 | [EtanHey](https://github.com/EtanHey) | Etan Heyman | Rehovot, Israel | 15,612 |
+| 4 | [tupe12334](https://github.com/tupe12334) | Ofek Gabay | Tel aviv, Israel | 15,294 |
 | 5 | [chernistry](https://github.com/chernistry) | Alex Chernysh | Tel Aviv, Israel | 12,764 |
 | 6 | [arthurzam](https://github.com/arthurzam) | Arthur Zamarin | Israel | 10,773 |
 | 7 | [ariannamethod](https://github.com/ariannamethod) | Arianna Method | Israel | 8,865 |
@@ -83,4 +83,4 @@ Indexed users: 12,420
 | 19 | [kuchin](https://github.com/kuchin) | Dima Kuchin | Israel | 665 |
 | 20 | [YuvalNirkin](https://github.com/YuvalNirkin) | Yuval Nirkin | Tel Aviv, Israel | 641 |
 
-Generated: 2026-10-19T14:21:12.982Z
+Generated: 2026-10-19T14:41:14.063Z

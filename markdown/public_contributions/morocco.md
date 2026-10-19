@@ -1,8 +1,8 @@
 # Public Contributions - Morocco
 
-Generated: 2026-10-19T09:33:14.305Z
+Generated: 2026-10-19T14:54:22.248Z
 
-Users: 9629
+Users: 9628
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -22,7 +22,7 @@ Users: 9629
 | 14 | [Hi1talib1World](https://github.com/Hi1talib1World) | hicham outaleb | Denzo |  | Essaouira, Morocco | 2431 |
 | 15 | [laghzal49](https://github.com/laghzal49) | tlaghzal |  |  | Morocco | 2426 |
 | 16 | [tornidomaroc-web](https://github.com/tornidomaroc-web) | Abdelfettah Amellah |  | AboJadMar | Morocco | 2395 |
-| 17 | [ayagmar](https://github.com/ayagmar) | Abdeslam Yassine Agmar | @theodo-group |  | Morocco | 2338 |
-| 18 | [ilyas-doughmi](https://github.com/ilyas-doughmi) | Ilyas Doughmi | YOUCODE - SAFI |  | Taroudant, Morocco | 2325 |
-| 19 | [MyLhassane](https://github.com/MyLhassane) | My Lhassane | @MyLhassane |  | Morocco | 2283 |
-| 20 | [hichamboushaba](https://github.com/hichamboushaba) | Hicham Boushaba | @Automattic |  | Morocco | 2276 |
+| 17 | [khalid-arrazani](https://github.com/khalid-arrazani) | khalid arrazani |  |  | Morocco | 2381 |
+| 18 | [ayagmar](https://github.com/ayagmar) | Abdeslam Yassine Agmar | @theodo-group |  | Morocco | 2338 |
+| 19 | [ilyas-doughmi](https://github.com/ilyas-doughmi) | Ilyas Doughmi | YOUCODE - SAFI |  | Taroudant, Morocco | 2325 |
+| 20 | [MyLhassane](https://github.com/MyLhassane) | My Lhassane | @MyLhassane |  | Morocco | 2283 |

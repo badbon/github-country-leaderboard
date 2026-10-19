@@ -1,6 +1,6 @@
 # Finland
 
-Indexed users: 18,141
+Indexed users: 18,140
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 18,141
 | 19 | [teropa](https://github.com/teropa) | Tero Parviainen | Helsinki, Finland | 1,359 |
 | 20 | [petkaantonov](https://github.com/petkaantonov) | Petka Antonov | Helsinki, Finland | 1,188 |
 
-Generated: 2026-10-19T09:09:54.448Z
+Generated: 2026-10-19T14:32:42.735Z

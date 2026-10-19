@@ -1,6 +1,6 @@
 # Public Contributions - Israel
 
-Generated: 2026-10-19T14:21:12.982Z
+Generated: 2026-10-19T14:41:14.063Z
 
 Users: 12420
 
@@ -8,8 +8,8 @@ Users: 12420
 |---:|---|---|---|---|---|---:|
 | 1 | [guy-davidi](https://github.com/guy-davidi) | Guy Davidi |  |  | israel | 127261 |
 | 2 | [oferchen](https://github.com/oferchen) | Ofer Chen |  |  | Israel | 21715 |
-| 3 | [tupe12334](https://github.com/tupe12334) | Ofek Gabay |  |  | Tel aviv, Israel | 15886 |
-| 4 | [EtanHey](https://github.com/EtanHey) | Etan Heyman |  |  | Rehovot, Israel | 15612 |
+| 3 | [EtanHey](https://github.com/EtanHey) | Etan Heyman |  |  | Rehovot, Israel | 15612 |
+| 4 | [tupe12334](https://github.com/tupe12334) | Ofek Gabay |  |  | Tel aviv, Israel | 15294 |
 | 5 | [chernistry](https://github.com/chernistry) | Alex Chernysh | Sip Your Drink |  | Tel Aviv, Israel | 12764 |
 | 6 | [arthurzam](https://github.com/arthurzam) | Arthur Zamarin |  |  | Israel | 10773 |
 | 7 | [ariannamethod](https://github.com/ariannamethod) | Arianna Method | @Arianna-Method  | olegataeff | Israel | 8865 |

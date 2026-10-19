@@ -1,6 +1,6 @@
 # Public Contributions - Rwanda
 
-Generated: 2026-10-19T09:44:01.534Z
+Generated: 2026-10-19T15:04:51.901Z
 
 Users: 3503
 
@@ -17,12 +17,12 @@ Users: 3503
 | 9 | [kawacukennedy](https://github.com/kawacukennedy) | KAWACU Kennedy | Founder @ Témporia | Arnaud_Kennedy | Kigali, Rwanda | 3872 |
 | 10 | [abeltony-prog](https://github.com/abeltony-prog) | AbelTony | @Plasera | StilesAbel | Kigali/Rwannda | 3856 |
 | 11 | [leandre000](https://github.com/leandre000) | Izere Shema Leandre | EchoSols   | shema_Leandre | Kigali,Rwanda | 3661 |
-| 12 | [Icyubahiro-Jay-P](https://github.com/Icyubahiro-Jay-P) | JAY P | Diolichat |  | Kigali, Rwanda | 3074 |
-| 13 | [Ndevu12](https://github.com/Ndevu12) | Jean Paul Elisa NIYOKWIZERWA | @Django-Rwanda @rwanda-computing-olympiad  @atlp-rwanda ATLP Andela | elion55698906 | Kigali Rwanda | 2996 |
-| 14 | [etienne0114](https://github.com/etienne0114) | etienne tuyihamye | university of Rwanda |  | kigali | 2820 |
-| 15 | [Goal651](https://github.com/Goal651) |  Wilson Goal BUGIRI | @Echo-Sols-Ltd |  | Rwanda-Kigali | 2667 |
-| 16 | [tuyisengeaurele](https://github.com/tuyisengeaurele) | Ange Aurele Tuyisenge | University of Rwanda College of Science and Technology |  | Kigali, Rwanda | 2665 |
-| 17 | [uparfait](https://github.com/uparfait) | Parfait Uwayo |  |  | Rwanda | 2563 |
-| 18 | [mugisham37](https://github.com/mugisham37) | MUGISHA MOSES |  |  | KIGALI- RWANDA | 2539 |
-| 19 | [rayiecho](https://github.com/rayiecho) | Regan Ayiecho | Young Africans Network |  | Rwanda | 2493 |
-| 20 | [Moise-codes](https://github.com/Moise-codes) | YEHOVAYIRE Moise | Enterpreneur | Moiseyehovayire | Kigali,Rwanda | 2365 |
+| 12 | [niyongaboemmy](https://github.com/niyongaboemmy) | Niyongabo Emmanuel | Rwanda FDA |  | Kigali, Rwanda | 3271 |
+| 13 | [Icyubahiro-Jay-P](https://github.com/Icyubahiro-Jay-P) | JAY P | Diolichat |  | Kigali, Rwanda | 3074 |
+| 14 | [Ndevu12](https://github.com/Ndevu12) | Jean Paul Elisa NIYOKWIZERWA | @Django-Rwanda @rwanda-computing-olympiad  @atlp-rwanda ATLP Andela | elion55698906 | Kigali Rwanda | 2996 |
+| 15 | [etienne0114](https://github.com/etienne0114) | etienne tuyihamye | university of Rwanda |  | kigali | 2820 |
+| 16 | [Goal651](https://github.com/Goal651) |  Wilson Goal BUGIRI | @Echo-Sols-Ltd |  | Rwanda-Kigali | 2667 |
+| 17 | [tuyisengeaurele](https://github.com/tuyisengeaurele) | Ange Aurele Tuyisenge | University of Rwanda College of Science and Technology |  | Kigali, Rwanda | 2665 |
+| 18 | [uparfait](https://github.com/uparfait) | Parfait Uwayo |  |  | Rwanda | 2563 |
+| 19 | [mugisham37](https://github.com/mugisham37) | MUGISHA MOSES |  |  | KIGALI- RWANDA | 2539 |
+| 20 | [rayiecho](https://github.com/rayiecho) | Regan Ayiecho | Young Africans Network |  | Rwanda | 2493 |

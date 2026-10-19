@@ -43,7 +43,7 @@ Indexed users: 1,070
 | 4 | [nandocdev](https://github.com/nandocdev) | Fernando Castillo Valdés | Panama, Panama City | 2,690 |
 | 5 | [dsfaccini](https://github.com/dsfaccini) | David SF | Panama City | 2,608 |
 | 6 | [ergofobe](https://github.com/ergofobe) | Jim Phillips | Panama | 2,166 |
-| 7 | [Yizack](https://github.com/Yizack) | Yizack Rangel | Panama | 1,975 |
+| 7 | [Yizack](https://github.com/Yizack) | Yizack Rangel | Panama | 1,979 |
 | 8 | [kingg22](https://github.com/kingg22) | Rey | Panama | 1,947 |
 | 9 | [gonzalezulises](https://github.com/gonzalezulises) | Ulises Gonzalez | Panama | 1,841 |
 | 10 | [angelnereira](https://github.com/angelnereira) | Angel Nereira | Panama | 1,505 |
@@ -76,11 +76,11 @@ Indexed users: 1,070
 | 12 | [Yizack](https://github.com/Yizack) | Yizack Rangel | Panama | 62 |
 | 13 | [muniter](https://github.com/muniter) | Javier Lopez | Panama, Panama City | 61 |
 | 14 | [ibarria0](https://github.com/ibarria0) | Ivan Barria | Panama | 57 |
-| 15 | [joseabraham](https://github.com/joseabraham) | Jose Abraham Garcia | Panama | 56 |
+| 15 | [joseabraham](https://github.com/joseabraham) | Jose Abraham Garcia | Panama | 55 |
 | 16 | [alexishevia](https://github.com/alexishevia) | Alexis Hevia | Panama City, Panama | 54 |
 | 17 | [dsfaccini](https://github.com/dsfaccini) | David SF | Panama City | 52 |
 | 18 | [hoolymama](https://github.com/hoolymama) | Julian Mann | Panama | 52 |
 | 19 | [Commandtechno](https://github.com/Commandtechno) | Techno | David, Panama | 49 |
 | 20 | [Iardo](https://github.com/Iardo) | Ivan Ramos | Panama | 47 |
 
-Generated: 2026-10-19T09:39:48.105Z
+Generated: 2026-10-19T15:01:21.227Z

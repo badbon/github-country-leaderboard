@@ -1,6 +1,6 @@
 # Total Contributions - Ethiopia
 
-Generated: 2026-10-19T09:08:14.856Z
+Generated: 2026-10-19T14:30:39.038Z
 
 Users: 6679
 
@@ -11,10 +11,10 @@ Users: 6679
 | 3 | [Tesfamariam-Gebre](https://github.com/Tesfamariam-Gebre) | Tesfamariam Gebre |  |  | Ethiopia, Addis Ababa | 15677 |
 | 4 | [Yab1](https://github.com/Yab1) | Yeabsera  |  |  | Ethiopia | 14365 |
 | 5 | [iamTadaeltadi](https://github.com/iamTadaeltadi) | Tadaeel Shewarega  | A2SV  |  | Ethiopia | 12603 |
-| 6 | [tokukiyu](https://github.com/tokukiyu) | Tokuma Abdisa | Quantumkit |  | Addis Ababa | 11381 |
-| 7 | [shambel-amare](https://github.com/shambel-amare) | Shambel-Amare | Tworobots universe | shambelamare21 | Addis Ababa, Ethiopia | 10971 |
-| 8 | [Benomi](https://github.com/Benomi) | Binyam T. Fisseha |  |  | Addis Ababa, Ethiopia | 10687 |
-| 9 | [tolossamuel](https://github.com/tolossamuel) | Samuel Tolossa | ICog-Labs |  | Ethiopia | 10449 |
+| 6 | [tolossamuel](https://github.com/tolossamuel) | Samuel Tolossa | ICog-Labs |  | Ethiopia | 12206 |
+| 7 | [tokukiyu](https://github.com/tokukiyu) | Tokuma Abdisa | Quantumkit |  | Addis Ababa | 11381 |
+| 8 | [shambel-amare](https://github.com/shambel-amare) | Shambel-Amare | Tworobots universe | shambelamare21 | Addis Ababa, Ethiopia | 10971 |
+| 9 | [Benomi](https://github.com/Benomi) | Binyam T. Fisseha |  |  | Addis Ababa, Ethiopia | 10687 |
 | 10 | [haxurn](https://github.com/haxurn) | Samson Tesfaye | @solvixteams | haxurn | Ethiopia, Addis Ababa | 10289 |
 | 11 | [yaftes](https://github.com/yaftes) | Yafet Tesfaye |  |  | Ethiopia , Adama | 10268 |
 | 12 | [natnaeln4d](https://github.com/natnaeln4d) | Natnael Getachew |  | natnaeln4d | Addis Ababa, Ethiopia | 8533 |

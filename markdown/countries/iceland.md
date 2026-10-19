@@ -65,7 +65,7 @@ Indexed users: 1,579
 | 1 | [asgeirtj](https://github.com/asgeirtj) | Ásgeir Thor Johnson | Iceland | 2,280 |
 | 2 | [imbue-bit](https://github.com/imbue-bit) | 栀染 | Iceland | 850 |
 | 3 | [SuprDewd](https://github.com/SuprDewd) | Bjarki Ágúst Guðmundsson | Iceland | 740 |
-| 4 | [sveinbjornt](https://github.com/sveinbjornt) | Sveinbjorn Thordarson | Reykjavík, Iceland | 606 |
+| 4 | [sveinbjornt](https://github.com/sveinbjornt) | Sveinbjorn Thordarson | Reykjavík, Iceland | 605 |
 | 5 | [phunterlau](https://github.com/phunterlau) | Hongliang Liu | Iceland | 591 |
 | 6 | [starrylumi](https://github.com/starrylumi) | ࿔𝜗𝜚‧₊`Lumi‹𝟹༉‧₊˚. | mostly at gi area, sometimes at docks/island, usually FTS or a spec in fsr... \ sign strawpage & atabook pretty plz / whisp if u want to add me on any platforms<3 | 530 |
 | 7 | [koddsson](https://github.com/koddsson) | Kristján Oddsson | Iceland | 488 |
@@ -79,8 +79,8 @@ Indexed users: 1,579
 | 15 | [alexharri](https://github.com/alexharri) | Alex Harri Jónsson | Reykjavík, Iceland | 249 |
 | 16 | [zveinn](https://github.com/zveinn) | Sveinn ( keyb1nd ) | Iceland | 244 |
 | 17 | [MIK4GE-RE0](https://github.com/MIK4GE-RE0) | ReoReo | bllk/ Pjsk/ Hsr/ Bakery/ Island/ moots +tied up in sunnys bed | 226 |
-| 18 | [szhorvat](https://github.com/szhorvat) | Szabolcs Horvát | Iceland | 217 |
+| 18 | [szhorvat](https://github.com/szhorvat) | Szabolcs Horvát | Iceland | 218 |
 | 19 | [jokull](https://github.com/jokull) | Jökull Sólberg Auðunsson | Reykjavík, Iceland | 209 |
 | 20 | [kevien](https://github.com/kevien) | K3vin | iceland | 204 |
 
-Generated: 2026-10-19T09:16:23.013Z
+Generated: 2026-10-19T14:40:01.798Z
