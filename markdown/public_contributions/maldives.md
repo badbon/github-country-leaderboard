@@ -1,6 +1,6 @@
 # Public Contributions - Maldives
 
-Generated: 2026-10-19T05:31:16.182Z
+Generated: 2026-10-19T06:51:45.097Z
 
 Users: 354
 
@@ -18,11 +18,11 @@ Users: 354
 | 10 | [fallenbagel](https://github.com/fallenbagel) |  |  |  | Maldives | 627 |
 | 11 | [chipaau](https://github.com/chipaau) | ahmed shifau |  |  | Maldives | 575 |
 | 12 | [N4ZEN](https://github.com/N4ZEN) | Naza |  |  | Maldives | 498 |
-| 13 | [Ghoul4500](https://github.com/Ghoul4500) | Ahmed Yaseen | OXIQA |  | Maldives | 425 |
-| 14 | [xSil3nt](https://github.com/xSil3nt) | Shazin |  |  | Male', Maldives | 422 |
+| 13 | [xSil3nt](https://github.com/xSil3nt) | Shazin |  |  | Male', Maldives | 422 |
+| 14 | [Ghoul4500](https://github.com/Ghoul4500) | Ahmed Yaseen | OXIQA |  | Maldives | 409 |
 | 15 | [M-IYAAADH](https://github.com/M-IYAAADH) | Mohamed Iyaadh |  |  | Male' , Maldives | 366 |
 | 16 | [hailam](https://github.com/hailam) | Mohamed Hailam Ahmed |  |  | Male`, Maldives | 309 |
 | 17 | [aliaafee](https://github.com/aliaafee) | Ali Aafee |  |  | Maldives | 304 |
 | 18 | [athphane](https://github.com/athphane) | Athfan Khaleel | @Javaabu / @Baivaru |  | Maldives | 268 |
 | 19 | [WovenCoast](https://github.com/WovenCoast) | FlameXode | Allied | WovenCoast | Maldives | 233 |
-| 20 | [WhoIsFishie](https://github.com/WhoIsFishie) | fISHIE |  | WhoIsFishie | Maldives | 230 |
+| 20 | [WhoIsFishie](https://github.com/WhoIsFishie) | fISHIE |  | WhoIsFishie | Maldives | 227 |

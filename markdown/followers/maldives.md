@@ -1,6 +1,6 @@
 # Followers - Maldives
 
-Generated: 2026-10-19T05:31:16.182Z
+Generated: 2026-10-19T06:51:45.097Z
 
 Users: 354
 
@@ -13,7 +13,7 @@ Users: 354
 | 5 | [reallynattu](https://github.com/reallynattu) | Nattu Adnan | @LottieFiles  | reallynattu | Maldives | 117 |
 | 6 | [eyaadh](https://github.com/eyaadh) | eyaadh | @baivaru | eyaadh | Maldives | 101 |
 | 7 | [raftalks](https://github.com/raftalks) | Raf |  |  | Maldives | 89 |
-| 8 | [fauzaanu](https://github.com/fauzaanu) | Fauzaan Gasim |  | fauzaanu | Maldives | 84 |
+| 8 | [fauzaanu](https://github.com/fauzaanu) | Fauzaan Gasim |  | fauzaanu | Maldives | 83 |
 | 9 | [aharen](https://github.com/aharen) | Ahmed Khusaam |  | aharen | Malé, Maldives | 79 |
 | 10 | [Z3d0X](https://github.com/Z3d0X) | ZedoX |  | Z3d0X | Maldives | 79 |
 | 11 | [Glaisher](https://github.com/Glaisher) | Mohamed Yooshau |  |  | Maldives | 71 |

@@ -12,7 +12,7 @@ Indexed users: 1,925
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [sofe1204](https://github.com/sofe1204) | Nikola Sofeski | Skopje | 21,275 |
+| 1 | [sofe1204](https://github.com/sofe1204) | Nikola Sofeski | Skopje | 21,961 |
 | 2 | [ssbarbee](https://github.com/ssbarbee) |  | Skopje, Macedonia | 10,836 |
 | 3 | [Bogatinovski](https://github.com/Bogatinovski) | Dejan Bogatinovski | Macedonia [FYROM] | 9,351 |
 | 4 | [DarkoMK](https://github.com/DarkoMK) | Darko Cebov | Kochani, Macedonia | 9,136 |
@@ -83,4 +83,4 @@ Indexed users: 1,925
 | 19 | [bor0](https://github.com/bor0) | Boro Sitnikovski | Skopje, North Macedonia | 166 |
 | 20 | [gdamjan](https://github.com/gdamjan) | Дамјан Георгиевски | Skopje, Macedonia | 145 |
 
-Generated: 2026-10-19T05:42:33.602Z
+Generated: 2026-10-19T07:00:44.891Z

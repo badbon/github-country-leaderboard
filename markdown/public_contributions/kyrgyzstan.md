@@ -1,6 +1,6 @@
 # Public Contributions - Kyrgyzstan
 
-Generated: 2026-10-19T05:25:04.925Z
+Generated: 2026-10-19T06:48:11.500Z
 
 Users: 2441
 
@@ -9,8 +9,8 @@ Users: 2441
 | 1 | [bekishh](https://github.com/bekishh) | Zh Beknazar | Prodify |  | Kyrgystan, Bishkek | 8865 |
 | 2 | [metalagman](https://github.com/metalagman) | Alexey Samoylov | @baldaworks | metalagman | Bishkek, Kyrgyz Republic | 4843 |
 | 3 | [kymuco](https://github.com/kymuco) | Ikymuco |  |  | Bishkek, Kyrgyzstan | 3812 |
-| 4 | [Heartspell](https://github.com/Heartspell) | Amirhan Ordobaev | Kyrgyz State Technical University  |  | Kyrgyzstan | 3245 |
-| 5 | [ibrodevs](https://github.com/ibrodevs) | Ibrokhim | SU Solutions |  | Bishkek | 3050 |
+| 4 | [ibrodevs](https://github.com/ibrodevs) | Ibrokhim | SU Solutions |  | Bishkek | 3252 |
+| 5 | [Heartspell](https://github.com/Heartspell) | Amirhan Ordobaev | Kyrgyz State Technical University  |  | Kyrgyzstan | 3245 |
 | 6 | [P5ina](https://github.com/P5ina) | Timur Turatbekov |  |  | Kyrgyzstan, Bishkek | 2962 |
 | 7 | [alisher-zhuman](https://github.com/alisher-zhuman) | Alisher Zhuman | Tunduk |  | Bishkek, Kyrgyzstan  | 1852 |
 | 8 | [fi-res](https://github.com/fi-res) | fires |  |  | kyrgyzstan | 1630 |

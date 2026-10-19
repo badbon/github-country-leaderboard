@@ -1,13 +1,13 @@
 # Total Contributions - Saint Pierre and Miquelon
 
-Generated: 2026-10-19T05:50:22.891Z
+Generated: 2026-10-19T07:07:14.870Z
 
 Users: 20
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [visualAngus](https://github.com/visualAngus) | Gael Pupin |  |  | Franqueville Saint Pierre | 1364 |
-| 2 | [pjsebastien](https://github.com/pjsebastien) | sebastien PIERREJEAN |  |  | Saint Pierre 97410 (La Réunion) | 267 |
+| 2 | [pjsebastien](https://github.com/pjsebastien) | sebastien PIERREJEAN |  |  | Saint Pierre 97410 (La Réunion) | 269 |
 | 3 | [greggstyle](https://github.com/greggstyle) | greggstyle | Digidatale & Capston.AI |  | Saint-Pierre, La Réunion | 146 |
 | 4 | [matthieu-viel-fr](https://github.com/matthieu-viel-fr) |  |  |  | Saint-pierre La Réunion | 144 |
 | 5 | [AntoinePetit95](https://github.com/AntoinePetit95) | Antoine PETIT | @Energie-Fonciere  |  | Saint-Pierre, la Réunion | 73 |

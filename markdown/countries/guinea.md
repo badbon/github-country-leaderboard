@@ -23,7 +23,7 @@ Indexed users: 263
 | 9 | [Adbrim](https://github.com/Adbrim) | Alhassane Bah | CONAKRY | 2,156 |
 | 10 | [TheRealBerete](https://github.com/TheRealBerete) | BERETE 🇬🇳❤️ | Conakry  | 2,095 |
 | 11 | [Cellou404](https://github.com/Cellou404) | Cellou Cisse | Conakry, Guinée | 2,086 |
-| 12 | [sitatec](https://github.com/sitatec) | Sita Bérété | Conakry, Guinea | 1,830 |
+| 12 | [sitatec](https://github.com/sitatec) | Sita Bérété | Conakry, Guinea | 1,825 |
 | 13 | [Hayy-Balde](https://github.com/Hayy-Balde) | Mamadou Oury Baldé | Guinea | 1,270 |
 | 14 | [ISSIAGA-CONDE224](https://github.com/ISSIAGA-CONDE224) | ISSIAGA CONDE | GUINEA CONAKRY | 1,264 |
 | 15 | [konatem-mk9](https://github.com/konatem-mk9) | KONATE Moussa | CONAKRY | 1,224 |
@@ -83,4 +83,4 @@ Indexed users: 263
 | 19 | [fouzo09](https://github.com/fouzo09) | Mafouz DIALLO | Guinée, conakry | 13 |
 | 20 | [koulibalyamadou10](https://github.com/koulibalyamadou10) | Koulibaly | Conakry | 13 |
 
-Generated: 2026-10-19T05:16:12.243Z
+Generated: 2026-10-19T06:40:14.963Z

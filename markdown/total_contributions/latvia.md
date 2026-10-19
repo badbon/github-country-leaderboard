@@ -1,6 +1,6 @@
 # Total Contributions - Latvia
 
-Generated: 2026-10-19T05:27:26.987Z
+Generated: 2026-10-19T06:48:55.919Z
 
 Users: 3251
 
@@ -14,12 +14,12 @@ Users: 3251
 | 6 | [Naurislv](https://github.com/Naurislv) | Nauris Dorbe | Evergrowth, Blossom Reads | NaurisDorbe | Riga, Latvia | 16647 |
 | 7 | [ErneG](https://github.com/ErneG) | Ernests Dane | T MEDIA GROUP |  | Latvia | 14918 |
 | 8 | [raimonade](https://github.com/raimonade) | Raimonds Korzenevskis | raykay.dk | raimonade_ | Riga, Latvia | 14135 |
-| 9 | [yarlson](https://github.com/yarlson) | Yar Kravtsov |  | yarlson | Riga, Latvia | 12198 |
+| 9 | [yarlson](https://github.com/yarlson) | Yar Kravtsov |  | yarlson | Riga, Latvia | 13725 |
 | 10 | [ricardomichel](https://github.com/ricardomichel) | Ricardo Michel Reyes | @HostPal-mx  |  | Riga | 11609 |
 | 11 | [puikinsh](https://github.com/puikinsh) | Aigars Silkalns | Divilab | AigarsSilkalns | Riga, Latvia | 9189 |
 | 12 | [rabestro](https://github.com/rabestro) | Jegors Čemisovs | @evolution-gaming |  | Latvia | 9004 |
-| 13 | [a-sandris](https://github.com/a-sandris) |  |  |  | Latvia | 7855 |
-| 14 | [skakri](https://github.com/skakri) | Kristaps Karlsons |  |  | Latvia | 7758 |
+| 13 | [skakri](https://github.com/skakri) | Kristaps Karlsons |  |  | Latvia | 8665 |
+| 14 | [a-sandris](https://github.com/a-sandris) |  |  |  | Latvia | 7855 |
 | 15 | [jecis-repos](https://github.com/jecis-repos) | Jecis |  | jecis_ | Latvia | 7539 |
 | 16 | [danielsbethers](https://github.com/danielsbethers) | Daniels Bethers | @request-lv |  | Riga, Latvia | 7122 |
 | 17 | [aivars](https://github.com/aivars) | Aivars |  | aivars_meijers | Latvia | 6930 |
