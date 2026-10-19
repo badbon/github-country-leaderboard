@@ -29,7 +29,7 @@ Indexed users: 201
 | 15 | [Mbaigo](https://github.com/Mbaigo) | Evrard | N'Djamena | 121 |
 | 16 | [Debeing](https://github.com/Debeing) | MBAITEL-AM MBAINAISSEM ERIC | Tchad | 103 |
 | 17 | [BenjosMB235](https://github.com/BenjosMB235) | MBAIRAM BENJAMIN BEASSOUM | N'djaména-Tchad | 89 |
-| 18 | [OumarChabakaOusmane](https://github.com/OumarChabakaOusmane) | oumar chabaka ousmane | Tchad | 84 |
+| 18 | [OumarChabakaOusmane](https://github.com/OumarChabakaOusmane) | oumar chabaka ousmane | Tchad | 83 |
 | 19 | [Muffinlavania](https://github.com/Muffinlavania) | Cristian S | chad | 60 |
 | 20 | [jethro-dev235](https://github.com/jethro-dev235) | BAOLEDJI DINGAM JETHRO | N'djamena | 57 |
 
@@ -51,7 +51,7 @@ Indexed users: 201
 | 12 | [Abdelkerim516](https://github.com/Abdelkerim516) | ABDEL_ABBO | N'djamena | 111 |
 | 13 | [Debeing](https://github.com/Debeing) | MBAITEL-AM MBAINAISSEM ERIC | Tchad | 103 |
 | 14 | [BenjosMB235](https://github.com/BenjosMB235) | MBAIRAM BENJAMIN BEASSOUM | N'djaména-Tchad | 89 |
-| 15 | [OumarChabakaOusmane](https://github.com/OumarChabakaOusmane) | oumar chabaka ousmane | Tchad | 83 |
+| 15 | [OumarChabakaOusmane](https://github.com/OumarChabakaOusmane) | oumar chabaka ousmane | Tchad | 82 |
 | 16 | [Muffinlavania](https://github.com/Muffinlavania) | Cristian S | chad | 60 |
 | 17 | [jethro-dev235](https://github.com/jethro-dev235) | BAOLEDJI DINGAM JETHRO | N'djamena | 57 |
 | 18 | [Yassine235](https://github.com/Yassine235) | Yassine | Tchad | 55 |
@@ -75,12 +75,12 @@ Indexed users: 201
 | 11 | [Djerade](https://github.com/Djerade) | Djeradé Golbé Parfait | Chad | 10 |
 | 12 | [harundjibrin](https://github.com/harundjibrin) | Haroun Djibrine | N'Djaména, Chad | 10 |
 | 13 | [imontash](https://github.com/imontash) |  | Chad, N'Djamena | 10 |
-| 14 | [fmarazi](https://github.com/fmarazi) | Florian Ndjerie Marazi | Chad | 9 |
-| 15 | [Nassir235](https://github.com/Nassir235) | Nassir baharadine abdelkrim | N'djamena | 9 |
-| 16 | [zepekenhio](https://github.com/zepekenhio) | Moukhtar Ben Ali | N'Djamena Tchad | 9 |
-| 17 | [BenjosMB235](https://github.com/BenjosMB235) | MBAIRAM BENJAMIN BEASSOUM | N'djaména-Tchad | 8 |
-| 18 | [chupacker](https://github.com/chupacker) | chu pack | chad | 8 |
+| 14 | [Nassir235](https://github.com/Nassir235) | Nassir baharadine abdelkrim | N'djamena | 9 |
+| 15 | [zepekenhio](https://github.com/zepekenhio) | Moukhtar Ben Ali | N'Djamena Tchad | 9 |
+| 16 | [BenjosMB235](https://github.com/BenjosMB235) | MBAIRAM BENJAMIN BEASSOUM | N'djaména-Tchad | 8 |
+| 17 | [chupacker](https://github.com/chupacker) | chu pack | chad | 8 |
+| 18 | [fmarazi](https://github.com/fmarazi) | Florian Ndjerie Marazi | Chad | 8 |
 | 19 | [sulzokeboulin](https://github.com/sulzokeboulin) | Norma Brown | West Joshuaburgh, Chad | 8 |
 | 20 | [Floppinqq](https://github.com/Floppinqq) | Floppinqq | chad | 7 |
 
-Generated: 2026-10-19T08:58:09.202Z
+Generated: 2026-10-19T14:20:32.451Z

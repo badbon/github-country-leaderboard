@@ -1,6 +1,6 @@
 # Public Contributions - Slovenia
 
-Generated: 2026-10-19T08:31:00.939Z
+Generated: 2026-10-19T13:50:37.406Z
 
 Users: 3097
 
@@ -22,7 +22,7 @@ Users: 3097
 | 14 | [matejdro](https://github.com/matejdro) | Matej Drobnič |  |  | Slovenia | 2873 |
 | 15 | [OBattler](https://github.com/OBattler) | Miran Grča |  |  | Koper, Slovenia | 2657 |
 | 16 | [aljazmc](https://github.com/aljazmc) | Aljaž Mlinarič |  |  | Ptuj, Slovenia | 2397 |
-| 17 | [mzagozen](https://github.com/mzagozen) | Marko Zagožen | Flint SI |  | Slovenia | 2344 |
+| 17 | [mzagozen](https://github.com/mzagozen) | Marko Zagožen | Flint SI |  | Slovenia | 2276 |
 | 18 | [eriknovak](https://github.com/eriknovak) | Erik Novak | @Event-Registry @E3-JSI  |  | Slovenia | 2225 |
 | 19 | [unjica](https://github.com/unjica) | Sanja Malovic | Tacko |  | Slovenia | 2171 |
 | 20 | [baadc0de](https://github.com/baadc0de) | Bojan Šernek | @distopik | reactocode | Ljubljana, Slovenia | 2124 |

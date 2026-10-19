@@ -1,6 +1,6 @@
 # Tajikistan
 
-Indexed users: 709
+Indexed users: 708
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 709
 | 19 | [11bit](https://github.com/11bit) | Ivan Buryak | Dushanbe | 49 |
 | 20 | [Abdughafur](https://github.com/Abdughafur) | Abdughafur Khujzoda | Tajikistan | 48 |
 
-Generated: 2026-10-19T08:35:45.407Z
+Generated: 2026-10-19T13:55:26.401Z

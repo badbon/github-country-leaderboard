@@ -19,7 +19,7 @@ Indexed users: 236
 | 5 | [ryaustin](https://github.com/ryaustin) | Ryan | Bahamas | 2,623 |
 | 6 | [yannyhl](https://github.com/yannyhl) | yg | nassau | 2,039 |
 | 7 | [janajmccardy](https://github.com/janajmccardy) | Jana JM | Nassau, The Bahamas | 1,830 |
-| 8 | [TajhSeymour](https://github.com/TajhSeymour) | Tajh Seymour | New Providence, Bahamas | 1,451 |
+| 8 | [TajhSeymour](https://github.com/TajhSeymour) | Tajh Seymour | New Providence, Bahamas | 1,440 |
 | 9 | [justnardo](https://github.com/justnardo) | Just_Nardo | Bahamas | 1,400 |
 | 10 | [jsphpndr](https://github.com/jsphpndr) | Joseph Pinder | Bahamas | 1,216 |
 | 11 | [TRL242](https://github.com/TRL242) | Roy Lockhart | Victoria, BC and Freeport, Bahamas | 1,110 |
@@ -28,7 +28,7 @@ Indexed users: 236
 | 14 | [TerryJG](https://github.com/TerryJG) | Terrance | Nassau, Bahamas | 739 |
 | 15 | [Clearwood](https://github.com/Clearwood) |  | Bahamas | 736 |
 | 16 | [dorson755](https://github.com/dorson755) | Dorson Williams | Nassau Bahamas | 733 |
-| 17 | [mikepadiernos](https://github.com/mikepadiernos) | Mike Padiernos | Nassau County, NY | 572 |
+| 17 | [mikepadiernos](https://github.com/mikepadiernos) | Mike Padiernos | Nassau County, NY | 611 |
 | 18 | [nhayling](https://github.com/nhayling) | Noah Hayling | Nassau, The Bahamas | 557 |
 | 19 | [avolel](https://github.com/avolel) | Andre Volel | Nassau County, NY | 364 |
 | 20 | [gtsbahamas](https://github.com/gtsbahamas) | Ty Wells | Nassau, Bahamas | 343 |
@@ -67,7 +67,7 @@ Indexed users: 236
 | 3 | [Clearwood](https://github.com/Clearwood) |  | Bahamas | 88 |
 | 4 | [mikkqu](https://github.com/mikkqu) | Mikhail Kalashnikov | Nassau, Bahamas | 63 |
 | 5 | [btcwoot](https://github.com/btcwoot) | btcwoot | bahamas | 59 |
-| 6 | [mikepadiernos](https://github.com/mikepadiernos) | Mike Padiernos | Nassau County, NY | 39 |
+| 6 | [mikepadiernos](https://github.com/mikepadiernos) | Mike Padiernos | Nassau County, NY | 40 |
 | 7 | [Johndiddles](https://github.com/Johndiddles) | Johndiddles | Nassau, Bahamas | 37 |
 | 8 | [jsphpndr](https://github.com/jsphpndr) | Joseph Pinder | Bahamas | 37 |
 | 9 | [lucayepa](https://github.com/lucayepa) | Luca Venturini | Nassau, Bahamas | 28 |
@@ -83,4 +83,4 @@ Indexed users: 236
 | 19 | [paulcitarella](https://github.com/paulcitarella) | Paul Citarella | George Town, Bahamas | 15 |
 | 20 | [yemix](https://github.com/yemix) |  | Bahamas | 14 |
 
-Generated: 2026-10-19T08:48:41.571Z
+Generated: 2026-10-19T14:11:24.815Z

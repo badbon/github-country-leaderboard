@@ -1,6 +1,6 @@
 # Public Contributions - Bosnia and Herzegovina
 
-Generated: 2026-10-19T08:52:38.855Z
+Generated: 2026-10-19T14:15:29.645Z
 
 Users: 2126
 
@@ -10,7 +10,7 @@ Users: 2126
 | 2 | [MaidCorbic](https://github.com/MaidCorbic) | Maid Čorbić | Foto Žunić Tuzla |  | Tuzla, Bosnia and Herzegovina | 3728 |
 | 3 | [sake92](https://github.com/sake92) | Sakib Hadžiavdić | @sacode387  |  | Sarajevo, Bosnia | 3251 |
 | 4 | [ghostrider0470](https://github.com/ghostrider0470) | Abdagić Hamza | Horizon Tech d.o.o. Sarajevo  |  | Sarajevo | 2979 |
-| 5 | [Kerim-Sabic](https://github.com/Kerim-Sabic) | Kerim Sabic | Horalix |  | Sarajevo | 2863 |
+| 5 | [Kerim-Sabic](https://github.com/Kerim-Sabic) | Kerim Sabic | Horalix |  | Sarajevo | 2965 |
 | 6 | [goran1010](https://github.com/goran1010) | Goran Jović |  |  | Banja Luka, Bosnia and Herzegovina | 2666 |
 | 7 | [pr0h0](https://github.com/pr0h0) | Abdulah Proho | Circeus |  | Sarajevo / Bosnia and Herzegovina | 2559 |
 | 8 | [zalom](https://github.com/zalom) | Zlatko Alomerovic |  |  | Tuzla, Bosnia and Herzegovina | 1864 |

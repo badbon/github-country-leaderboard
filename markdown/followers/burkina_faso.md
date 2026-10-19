@@ -1,6 +1,6 @@
 # Followers - Burkina Faso
 
-Generated: 2026-10-19T08:54:40.355Z
+Generated: 2026-10-19T14:16:47.569Z
 
 Users: 486
 
@@ -18,9 +18,9 @@ Users: 486
 | 10 | [theobosomtwe](https://github.com/theobosomtwe) | Theophilus_Bosomtwe | Theojnana Tech Solution | theobosomtwe | Burkina Faso | 93 |
 | 11 | [spwoodcock](https://github.com/spwoodcock) | Sam | Tech Lead @hotosm |  | Ouagadougou, Burkina Faso | 65 |
 | 12 | [Kidchris](https://github.com/Kidchris) | Kidchris | Passionate Developer | KidChris7 | Ouagadougou, Burkina Faso | 64 |
-| 13 | [wendtoinissaka](https://github.com/wendtoinissaka) |  |  |  | Ouagadougou, BURKINA FASO 🇧🇫❤️ | 56 |
-| 14 | [leaston](https://github.com/leaston) | Nkuna Charles | Soft Consulting Services |  | Burkina Faso | 51 |
-| 15 | [Zangafigue](https://github.com/Zangafigue) | Zangafigué Mathias TRAORE |  | zangafigue | Koudougou, Burkina Faso | 48 |
+| 13 | [Zangafigue](https://github.com/Zangafigue) | Zangafigué Mathias TRAORE |  | zangafigue | Koudougou, Burkina Faso | 57 |
+| 14 | [wendtoinissaka](https://github.com/wendtoinissaka) |  |  |  | Ouagadougou, BURKINA FASO 🇧🇫❤️ | 56 |
+| 15 | [leaston](https://github.com/leaston) | Nkuna Charles | Soft Consulting Services |  | Burkina Faso | 51 |
 | 16 | [haagrah](https://github.com/haagrah) | IsmaGUIRE |  | FaissalGuire | Burkina Faso (Ouagadougou) | 46 |
 | 17 | [ArielShadrac](https://github.com/ArielShadrac) | Ouedraogo Fildouindé Ariel Shadrac | Xcept-Health |  | Burkina Faso | 40 |
 | 18 | [Masterchief-07](https://github.com/Masterchief-07) | KIENDREBEOGO JONATHAN |  |  | BURKINAFASO/OUAGADOUGOU | 40 |

@@ -1,6 +1,6 @@
 # Followers - Antarctica
 
-Generated: 2026-10-19T08:47:56.261Z
+Generated: 2026-10-19T14:09:26.179Z
 
 Users: 461
 
@@ -20,7 +20,7 @@ Users: 461
 | 12 | [TobitoFatitoRE](https://github.com/TobitoFatitoRE) | TobitoFatito |  |  | Davis Station, Antarctica | 119 |
 | 13 | [emre1393](https://github.com/emre1393) | Emre |  |  | Antarctica | 114 |
 | 14 | [ethicnology](https://github.com/ethicnology) | Azad | @SatoshiPortal  |  | Antarctica | 105 |
-| 15 | [piplup7575](https://github.com/piplup7575) | pipl | buape |  | antarctica | 92 |
+| 15 | [piplup7575](https://github.com/piplup7575) | pipl | buape |  | antarctica | 91 |
 | 16 | [crse](https://github.com/crse) |  |  |  | Antarctica | 89 |
 | 17 | [pkasila](https://github.com/pkasila) | Pavel Kasila | Somewhere | pavelkasila | Antarctica | 88 |
 | 18 | [r4sas](https://github.com/r4sas) | R4SAS | @purple-tech |  | Vostok Station, Antarctica | 88 |

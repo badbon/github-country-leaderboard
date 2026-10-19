@@ -1,6 +1,6 @@
 # Total Contributions - Antarctica
 
-Generated: 2026-10-19T08:47:56.261Z
+Generated: 2026-10-19T14:09:26.179Z
 
 Users: 461
 
@@ -9,7 +9,7 @@ Users: 461
 | 1 | [lukeanthony007](https://github.com/lukeanthony007) | Lucas |  |  | Antarctica | 6591 |
 | 2 | [shreeshiv](https://github.com/shreeshiv) | Shreeshiv Patel | FutureForte | shreeshivpatel | Antarctica | 6349 |
 | 3 | [adwait1290](https://github.com/adwait1290) | Adwait Athale |  |  | Antarctica | 6033 |
-| 4 | [morgaesis](https://github.com/morgaesis) | Mörgæsis |  |  | Antarctica | 5186 |
+| 4 | [morgaesis](https://github.com/morgaesis) | Mörgæsis |  |  | Antarctica | 5332 |
 | 5 | [jeongho](https://github.com/jeongho) | Jeongho Park |  |  | Deception Island, Antarctica | 5102 |
 | 6 | [ifarbod](https://github.com/ifarbod) | iFarbod | SYSTEM_SERVICE_EXCEPTION | ifarbod | Antarctica  | 4974 |
 | 7 | [JohnChristianD](https://github.com/JohnChristianD) | John Christian Domingo | https://www.goodnewsnetwork.org/dead-man-jolted-back-to-life-by-the-intolerable-bumps-of-indias-potholes/ |  | Antarctica | 4904 |
@@ -21,7 +21,7 @@ Users: 461
 | 13 | [enriquephl](https://github.com/enriquephl) |  | EtherFun Lab |  | Antarctica | 3544 |
 | 14 | [ethicnology](https://github.com/ethicnology) | Azad | @SatoshiPortal  |  | Antarctica | 3312 |
 | 15 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Lapr Inc. |  | Antarctica | 3263 |
-| 16 | [PicasoTheDeal](https://github.com/PicasoTheDeal) | Tetstack |  |  | Antarctica | 3030 |
+| 16 | [PicasoTheDeal](https://github.com/PicasoTheDeal) | Tetstack |  |  | Antarctica | 3127 |
 | 17 | [echo108471](https://github.com/echo108471) | Eugene Cho |  |  | Antarctica | 2672 |
 | 18 | [shangyian](https://github.com/shangyian) | Yian |  |  | Antarctica | 2596 |
 | 19 | [oagix](https://github.com/oagix) | AGENT |  |  | Antarctica | 2413 |

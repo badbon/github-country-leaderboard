@@ -1,6 +1,6 @@
 # Total Contributions - Dominican Republic
 
-Generated: 2026-10-19T09:02:34.621Z
+Generated: 2026-10-19T14:24:48.608Z
 
 Users: 3298
 
@@ -19,10 +19,10 @@ Users: 3298
 | 11 | [gmolinart](https://github.com/gmolinart) | Guillermo Molina | UMA |  | dominican republic | 8494 |
 | 12 | [everylisting](https://github.com/everylisting) | Philippe Roy | @everylisting-com  |  | Dominican-Republic | 8493 |
 | 13 | [elminson](https://github.com/elminson) | Elminson De Oleo Baez | Refersion |  | Santo Domingo, Dominican Republic | 7675 |
-| 14 | [Zyruks](https://github.com/Zyruks) | Samuel Llibre-Pillco | @uiguideline | zyruks | Dominican Republic | 7147 |
-| 15 | [wcontreras](https://github.com/wcontreras) | Williams Contreras | @glowicom  |  | Dominican Republic, Santo Domingo | 7121 |
-| 16 | [sanchezta](https://github.com/sanchezta) | Adrian Sanchez | Verus Capital & Batea Fintech SAS |  | Dominican Republic | 6885 |
-| 17 | [dkropachev](https://github.com/dkropachev) | Dmitry Kropachev | Scylla |  | Dominican Republic | 6784 |
-| 18 | [arielbritorivera](https://github.com/arielbritorivera) | Ariel A. Brito | Brito Solutions BS |  | Dominican Republic | 6641 |
-| 19 | [luismts](https://github.com/luismts) | Luis Matos | @lacomarcaDO @xamarinuniverse  | luismatosluna | Dominican Republic | 6633 |
-| 20 | [edgarleonardo](https://github.com/edgarleonardo) | Edgar Leonardo Perez | Maxim Group |  | Santo Domingo, Dominican Republic | 6451 |
+| 14 | [ERPalmer](https://github.com/ERPalmer) | ERPalmer |  | ERPalmer | Dominican Republic | 7168 |
+| 15 | [Zyruks](https://github.com/Zyruks) | Samuel Llibre-Pillco | @uiguideline | zyruks | Dominican Republic | 7147 |
+| 16 | [wcontreras](https://github.com/wcontreras) | Williams Contreras | @glowicom  |  | Dominican Republic, Santo Domingo | 7121 |
+| 17 | [sanchezta](https://github.com/sanchezta) | Adrian Sanchez | Verus Capital & Batea Fintech SAS |  | Dominican Republic | 6885 |
+| 18 | [dkropachev](https://github.com/dkropachev) | Dmitry Kropachev | Scylla |  | Dominican Republic | 6784 |
+| 19 | [arielbritorivera](https://github.com/arielbritorivera) | Ariel A. Brito | Brito Solutions BS |  | Dominican Republic | 6641 |
+| 20 | [luismts](https://github.com/luismts) | Luis Matos | @lacomarcaDO @xamarinuniverse  | luismatosluna | Dominican Republic | 6633 |

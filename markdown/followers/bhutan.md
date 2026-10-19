@@ -1,6 +1,6 @@
 # Followers - Bhutan
 
-Generated: 2026-10-19T08:51:55.655Z
+Generated: 2026-10-19T14:14:46.670Z
 
 Users: 266
 
@@ -14,8 +14,8 @@ Users: 266
 | 6 | [jigmetnamgyal](https://github.com/jigmetnamgyal) | Jigme Namgyal | Selise |  | Thimphu, Bhutan | 43 |
 | 7 | [bugloper](https://github.com/bugloper) | Nima Yonten | Selise |  | Thimphu Babesa | 41 |
 | 8 | [teknatha136](https://github.com/teknatha136) | Tek Nath | @SELISEdigitalplatforms  |  | Thimphu | 37 |
-| 9 | [sangayt1997](https://github.com/sangayt1997) | Sangay Thinley | SELISE Group | SangayT97 | Thimphu, Bhutan | 33 |
-| 10 | [tashi-iu](https://github.com/tashi-iu) | Tashi Tobgay Dakpa | @Jaggle-AI-HQ  |  | Thimphu, Bhutan | 33 |
+| 9 | [tashi-iu](https://github.com/tashi-iu) | Tashi Tobgay Dakpa | @Jaggle-AI-HQ  |  | Thimphu, Bhutan | 34 |
+| 10 | [sangayt1997](https://github.com/sangayt1997) | Sangay Thinley | SELISE Group | SangayT97 | Thimphu, Bhutan | 33 |
 | 11 | [Kzoeps](https://github.com/Kzoeps) | Karma Zoepa Yoezer |  | kzoeps | Thimphu, Bhutan | 31 |
 | 12 | [ugyentring](https://github.com/ugyentring) | Ugyen Tshering |  |  | Bhutan | 31 |
 | 13 | [lit-poks](https://github.com/lit-poks) | Lalit Pokhrel | SELISE Bhutan |  | Thimphu, Bhutan | 30 |

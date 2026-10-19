@@ -53,7 +53,7 @@ Indexed users: 132
 | 14 | [nhial-cham](https://github.com/nhial-cham) | Nhial Cham | Juba, South Sudan | 273 |
 | 15 | [Yel-Mangok](https://github.com/Yel-Mangok) |  | South Sudan | 271 |
 | 16 | [felixuxx](https://github.com/felixuxx) | ... | Juba, South Sudan | 268 |
-| 17 | [Wai-Mike](https://github.com/Wai-Mike) | Wai Michael Kat | South Sudan | 261 |
+| 17 | [Wai-Mike](https://github.com/Wai-Mike) | Wai Michael Kat | South Sudan | 250 |
 | 18 | [Konson22](https://github.com/Konson22) | Kon Akech | South Sudan | 243 |
 | 19 | [joseph-akaro](https://github.com/joseph-akaro) | Joseph Akaro | Juba | 210 |
 | 20 | [JackPhilpott](https://github.com/JackPhilpott) | Jack Philpott | Juba, South Sudan | 182 |
@@ -83,4 +83,4 @@ Indexed users: 132
 | 19 | [Amalsouthsudan23](https://github.com/Amalsouthsudan23) | AMAL South Sudan | South Sudan | 15 |
 | 20 | [Codetym](https://github.com/Codetym) | Nelson Mandela D.M.J | Juba, South Sudan  | 14 |
 
-Generated: 2026-10-19T08:31:54.231Z
+Generated: 2026-10-19T13:51:35.947Z

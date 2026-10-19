@@ -1,6 +1,6 @@
 # Public Contributions - Chad
 
-Generated: 2026-10-19T08:58:09.202Z
+Generated: 2026-10-19T14:20:32.451Z
 
 Users: 201
 
@@ -20,7 +20,7 @@ Users: 201
 | 12 | [Abdelkerim516](https://github.com/Abdelkerim516) | ABDEL_ABBO | AbboTech |  | N'djamena | 111 |
 | 13 | [Debeing](https://github.com/Debeing) | MBAITEL-AM MBAINAISSEM ERIC |  |  | Tchad | 103 |
 | 14 | [BenjosMB235](https://github.com/BenjosMB235) | MBAIRAM BENJAMIN BEASSOUM |  |  | N'djaména-Tchad | 89 |
-| 15 | [OumarChabakaOusmane](https://github.com/OumarChabakaOusmane) | oumar chabaka ousmane | INSTA |  | Tchad | 83 |
+| 15 | [OumarChabakaOusmane](https://github.com/OumarChabakaOusmane) | oumar chabaka ousmane | INSTA |  | Tchad | 82 |
 | 16 | [Muffinlavania](https://github.com/Muffinlavania) | Cristian S | treeofcontent.com |  | chad | 60 |
 | 17 | [jethro-dev235](https://github.com/jethro-dev235) | BAOLEDJI DINGAM JETHRO |  |  | N'djamena | 57 |
 | 18 | [Yassine235](https://github.com/Yassine235) | Yassine |  |  | Tchad | 55 |

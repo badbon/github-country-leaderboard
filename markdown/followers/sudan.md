@@ -1,6 +1,6 @@
 # Followers - Sudan
 
-Generated: 2026-10-19T08:32:04.322Z
+Generated: 2026-10-19T13:52:11.257Z
 
 Users: 727
 
@@ -19,8 +19,8 @@ Users: 727
 | 11 | [saeedo201](https://github.com/saeedo201) | Saeed Ahmeed | I work for myself ✋ |  | sudan | 73 |
 | 12 | [vzool](https://github.com/vzool) | Abdelaziz Elrashed |  |  | Sudan | 63 |
 | 13 | [attaryz](https://github.com/attaryz) | Abdullah Ali |  | attaryz94 | Khartoum, Sudan | 59 |
-| 14 | [Amar-Dev1](https://github.com/Amar-Dev1) | Amar Ibrahim |  |  | Sudan, Khartoum | 58 |
-| 15 | [HussamAdil](https://github.com/HussamAdil) | Hussam Adil | HussamAdil |  | Sudan | 58 |
+| 14 | [HussamAdil](https://github.com/HussamAdil) | Hussam Adil | HussamAdil |  | Sudan | 58 |
+| 15 | [Amar-Dev1](https://github.com/Amar-Dev1) | Amar Ibrahim |  |  | Sudan, Khartoum | 57 |
 | 16 | [sam-x86](https://github.com/sam-x86) | SAM X86 | @HackScaleTeam | sam_x86_ | Sudan | 55 |
 | 17 | [mhadiahmed](https://github.com/mhadiahmed) | Mhadi Ahmed |  |  | sudan | 54 |
 | 18 | [osayami](https://github.com/osayami) | OSAYAMI | @Prayas-Corporation  | osmanahmedhindi | Sudan | 52 |

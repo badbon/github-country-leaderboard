@@ -14,7 +14,7 @@ Indexed users: 1,273
 |---:|---|---|---|---:|
 | 1 | [apiad](https://github.com/apiad) | Alejandro Piad | Cuba | 18,982 |
 | 2 | [PerezO12](https://github.com/PerezO12) | Adrian Perez Osorio | Havana - Cuba - Spain - Mexico | 18,542 |
-| 3 | [EduardoProfe666](https://github.com/EduardoProfe666) | Eduardo Alejandro González Martell | La Habana, Cuba | 16,158 |
+| 3 | [EduardoProfe666](https://github.com/EduardoProfe666) | Eduardo Alejandro González Martell | La Habana, Cuba | 15,902 |
 | 4 | [Walkercito](https://github.com/Walkercito) | Walkercito | 🌍 Coding from Cienfuegos, Cuba | 12,343 |
 | 5 | [yasmramos](https://github.com/yasmramos) | Yasmany Ramos García  | Ciego de Ávila, Cuba | 9,311 |
 | 6 | [gustavoylc](https://github.com/gustavoylc) | Gustavo Leyte-Vidal | Cuba | 7,244 |
@@ -31,13 +31,13 @@ Indexed users: 1,273
 | 17 | [disnelrr](https://github.com/disnelrr) | Disnel Rodríguez Rodríguez | Cuba | 3,878 |
 | 18 | [Ztaz9906](https://github.com/Ztaz9906) | Enrique Ferriero | Cuba | 3,852 |
 | 19 | [MiguelAntonioRS](https://github.com/MiguelAntonioRS) | Miguel | Cuba, Holguin | 3,259 |
-| 20 | [wolfsouldev](https://github.com/wolfsouldev) | Alejandro Alberto Fajardo | Cuba/Matanzas  | 3,221 |
+| 20 | [theGitNoob](https://github.com/theGitNoob) | Rafael Acosta Márquez | Havana, Cuba | 3,147 |
 
 ## Public Contributions
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [EduardoProfe666](https://github.com/EduardoProfe666) | Eduardo Alejandro González Martell | La Habana, Cuba | 10,461 |
+| 1 | [EduardoProfe666](https://github.com/EduardoProfe666) | Eduardo Alejandro González Martell | La Habana, Cuba | 10,007 |
 | 2 | [yasmramos](https://github.com/yasmramos) | Yasmany Ramos García  | Ciego de Ávila, Cuba | 9,105 |
 | 3 | [apiad](https://github.com/apiad) | Alejandro Piad | Cuba | 7,904 |
 | 4 | [AgenciaSeniors](https://github.com/AgenciaSeniors) | Eduardo Daniel Pérez Ruiz | Cuba | 4,487 |
@@ -83,4 +83,4 @@ Indexed users: 1,273
 | 19 | [markospy](https://github.com/markospy) | Marcos Avila | Cuba | 72 |
 | 20 | [EduardoProfe666](https://github.com/EduardoProfe666) | Eduardo Alejandro González Martell | La Habana, Cuba | 69 |
 
-Generated: 2026-10-19T09:00:50.093Z
+Generated: 2026-10-19T14:22:26.829Z

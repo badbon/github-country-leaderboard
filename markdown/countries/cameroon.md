@@ -69,7 +69,7 @@ Indexed users: 1,796
 | 5 | [Arielpetit](https://github.com/Arielpetit) | arielpetit | cameroon | 511 |
 | 6 | [djonmaila](https://github.com/djonmaila) | DJONMAILA PYTHAGORE  | Cameroon | 494 |
 | 7 | [Nkwenti-Severian-Ndongtsop](https://github.com/Nkwenti-Severian-Ndongtsop) | @Nkwenti @Severian | Cameroon, Bangangte | 355 |
-| 8 | [sangafabrice](https://github.com/sangafabrice) | Fabrice Sanga | Yaoundé, CM | 331 |
+| 8 | [sangafabrice](https://github.com/sangafabrice) | Fabrice Sanga | Yaoundé, CM | 340 |
 | 9 | [donaldte](https://github.com/donaldte) | donald programmeur | Bamenda/Cameroon | 322 |
 | 10 | [kenrique100](https://github.com/kenrique100) | Kenrique _Ngwa | Cameroon | 288 |
 | 11 | [AssahBismarkabah](https://github.com/AssahBismarkabah) | Assah Bismark | Cameroon | 273 |
@@ -83,4 +83,4 @@ Indexed users: 1,796
 | 19 | [baimamboukar](https://github.com/baimamboukar) | BAIMAM BOUKAR JEAN JACQUES | Yaoundé | 170 |
 | 20 | [Suprememajor](https://github.com/Suprememajor) | Nobert Etta | Buea, Cameroon | 168 |
 
-Generated: 2026-10-19T08:56:21.586Z
+Generated: 2026-10-19T14:18:03.093Z

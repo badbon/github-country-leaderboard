@@ -31,7 +31,7 @@ Indexed users: 1,656
 | 17 | [xeroxzen](https://github.com/xeroxzen) | Andile Jaden Mbele | Zimbabwe | 5,420 |
 | 18 | [chiroro-jr](https://github.com/chiroro-jr) | Nyasha Chiroro | Harare, Zimbabwe | 5,413 |
 | 19 | [mosesmarimo](https://github.com/mosesmarimo) | Moses Marimo | Harare, Zimbabwe | 5,360 |
-| 20 | [emarss](https://github.com/emarss) | Rufaro Sithole | Harare, Zimbabwe | 5,105 |
+| 20 | [XJ76](https://github.com/XJ76) | Joshua J Smith | Harare | 5,086 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 1,656
 | 19 | [zim-bot](https://github.com/zim-bot) | DRIPS MEMES BLENNIE BLESSED TUNA | Zimbabwe | 110 |
 | 20 | [KudakwasheM](https://github.com/KudakwasheM) | Kudakwashe Masaya | Harare | 105 |
 
-Generated: 2026-10-19T08:43:46.720Z
+Generated: 2026-10-19T14:04:17.615Z

@@ -25,13 +25,13 @@ Indexed users: 3,298
 | 11 | [gmolinart](https://github.com/gmolinart) | Guillermo Molina | dominican republic | 8,494 |
 | 12 | [everylisting](https://github.com/everylisting) | Philippe Roy | Dominican-Republic | 8,493 |
 | 13 | [elminson](https://github.com/elminson) | Elminson De Oleo Baez | Santo Domingo, Dominican Republic | 7,675 |
-| 14 | [Zyruks](https://github.com/Zyruks) | Samuel Llibre-Pillco | Dominican Republic | 7,147 |
-| 15 | [wcontreras](https://github.com/wcontreras) | Williams Contreras | Dominican Republic, Santo Domingo | 7,121 |
-| 16 | [sanchezta](https://github.com/sanchezta) | Adrian Sanchez | Dominican Republic | 6,885 |
-| 17 | [dkropachev](https://github.com/dkropachev) | Dmitry Kropachev | Dominican Republic | 6,784 |
-| 18 | [arielbritorivera](https://github.com/arielbritorivera) | Ariel A. Brito | Dominican Republic | 6,641 |
-| 19 | [luismts](https://github.com/luismts) | Luis Matos | Dominican Republic | 6,633 |
-| 20 | [edgarleonardo](https://github.com/edgarleonardo) | Edgar Leonardo Perez | Santo Domingo, Dominican Republic | 6,451 |
+| 14 | [ERPalmer](https://github.com/ERPalmer) | ERPalmer | Dominican Republic | 7,168 |
+| 15 | [Zyruks](https://github.com/Zyruks) | Samuel Llibre-Pillco | Dominican Republic | 7,147 |
+| 16 | [wcontreras](https://github.com/wcontreras) | Williams Contreras | Dominican Republic, Santo Domingo | 7,121 |
+| 17 | [sanchezta](https://github.com/sanchezta) | Adrian Sanchez | Dominican Republic | 6,885 |
+| 18 | [dkropachev](https://github.com/dkropachev) | Dmitry Kropachev | Dominican Republic | 6,784 |
+| 19 | [arielbritorivera](https://github.com/arielbritorivera) | Ariel A. Brito | Dominican Republic | 6,641 |
+| 20 | [luismts](https://github.com/luismts) | Luis Matos | Dominican Republic | 6,633 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 3,298
 | 19 | [eatskolnikov](https://github.com/eatskolnikov) | Enmanuel Toribio | Dominican Republic | 149 |
 | 20 | [RaymondCoplin](https://github.com/RaymondCoplin) | Raymond Coplin | Dominican Republic, Santo Domingo | 120 |
 
-Generated: 2026-10-19T09:02:34.621Z
+Generated: 2026-10-19T14:24:48.608Z

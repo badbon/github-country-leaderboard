@@ -1,6 +1,6 @@
 # Public Contributions - Andorra
 
-Generated: 2026-10-19T08:46:37.428Z
+Generated: 2026-10-19T14:08:13.930Z
 
 Users: 215
 
@@ -21,8 +21,8 @@ Users: 215
 | 13 | [trebormc](https://github.com/trebormc) | Robert Menetray | Menetray | RobertMenetray | Andorra | 406 |
 | 14 | [markusand](https://github.com/markusand) | Marc Vilella |  |  | Andorra | 382 |
 | 15 | [georgeee](https://github.com/georgeee) | George Agapov | @MinaProtocol |  | Andorra | 354 |
-| 16 | [marciglesias17](https://github.com/marciglesias17) | Marc Iglesias | CubePath Inc. | marciglesias17 | Andorra | 320 |
-| 17 | [davidbalivo](https://github.com/davidbalivo) |  |  |  | Andorra | 312 |
+| 16 | [davidbalivo](https://github.com/davidbalivo) |  |  |  | Andorra | 329 |
+| 17 | [marciglesias17](https://github.com/marciglesias17) | Marc Iglesias | CubePath Inc. | marciglesias17 | Andorra | 320 |
 | 18 | [PaulMatencio](https://github.com/PaulMatencio) | Paul Matencio | Retired | paulMatencio | Andorra | 276 |
 | 19 | [loixlab](https://github.com/loixlab) | Sébastien LVL | @tradegist  |  | Andorra | 224 |
 | 20 | [kopenkinda](https://github.com/kopenkinda) | Kopenkin Dmitrii | @salut-mercado  |  | Andorra | 220 |

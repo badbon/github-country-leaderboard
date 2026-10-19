@@ -1,6 +1,6 @@
 # Followers - Cameroon
 
-Generated: 2026-10-19T08:56:21.586Z
+Generated: 2026-10-19T14:18:03.093Z
 
 Users: 1796
 
@@ -13,7 +13,7 @@ Users: 1796
 | 5 | [Arielpetit](https://github.com/Arielpetit) | arielpetit | @adorsys |  | cameroon | 511 |
 | 6 | [djonmaila](https://github.com/djonmaila) | DJONMAILA PYTHAGORE  | @Univ-Douala |  | Cameroon | 494 |
 | 7 | [Nkwenti-Severian-Ndongtsop](https://github.com/Nkwenti-Severian-Ndongtsop) | @Nkwenti @Severian | Adorsys | n_severian | Cameroon, Bangangte | 355 |
-| 8 | [sangafabrice](https://github.com/sangafabrice) | Fabrice Sanga |  |  | Yaoundé, CM | 331 |
+| 8 | [sangafabrice](https://github.com/sangafabrice) | Fabrice Sanga |  |  | Yaoundé, CM | 340 |
 | 9 | [donaldte](https://github.com/donaldte) | donald programmeur | @HooYia | DProgrammeur | Bamenda/Cameroon | 322 |
 | 10 | [kenrique100](https://github.com/kenrique100) | Kenrique _Ngwa |  | Kenrique_Ngwa | Cameroon | 288 |
 | 11 | [AssahBismarkabah](https://github.com/AssahBismarkabah) | Assah Bismark | @adorsys | Assah_Bismark | Cameroon | 273 |

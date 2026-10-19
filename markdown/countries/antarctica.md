@@ -15,7 +15,7 @@ Indexed users: 461
 | 1 | [lukeanthony007](https://github.com/lukeanthony007) | Lucas | Antarctica | 6,591 |
 | 2 | [shreeshiv](https://github.com/shreeshiv) | Shreeshiv Patel | Antarctica | 6,349 |
 | 3 | [adwait1290](https://github.com/adwait1290) | Adwait Athale | Antarctica | 6,033 |
-| 4 | [morgaesis](https://github.com/morgaesis) | Mörgæsis | Antarctica | 5,186 |
+| 4 | [morgaesis](https://github.com/morgaesis) | Mörgæsis | Antarctica | 5,332 |
 | 5 | [jeongho](https://github.com/jeongho) | Jeongho Park | Deception Island, Antarctica | 5,102 |
 | 6 | [ifarbod](https://github.com/ifarbod) | iFarbod | Antarctica  | 4,974 |
 | 7 | [JohnChristianD](https://github.com/JohnChristianD) | John Christian Domingo | Antarctica | 4,904 |
@@ -27,7 +27,7 @@ Indexed users: 461
 | 13 | [enriquephl](https://github.com/enriquephl) |  | Antarctica | 3,544 |
 | 14 | [ethicnology](https://github.com/ethicnology) | Azad | Antarctica | 3,312 |
 | 15 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Antarctica | 3,263 |
-| 16 | [PicasoTheDeal](https://github.com/PicasoTheDeal) | Tetstack | Antarctica | 3,030 |
+| 16 | [PicasoTheDeal](https://github.com/PicasoTheDeal) | Tetstack | Antarctica | 3,127 |
 | 17 | [echo108471](https://github.com/echo108471) | Eugene Cho | Antarctica | 2,672 |
 | 18 | [shangyian](https://github.com/shangyian) | Yian | Antarctica | 2,596 |
 | 19 | [oagix](https://github.com/oagix) | AGENT | Antarctica | 2,413 |
@@ -39,10 +39,10 @@ Indexed users: 461
 |---:|---|---|---|---:|
 | 1 | [JohnChristianD](https://github.com/JohnChristianD) | John Christian Domingo | Antarctica | 4,904 |
 | 2 | [Sup2point0](https://github.com/Sup2point0) | Sup#2.0 | Antarctica | 4,285 |
-| 3 | [morgaesis](https://github.com/morgaesis) | Mörgæsis | Antarctica | 3,520 |
-| 4 | [ethicnology](https://github.com/ethicnology) | Azad | Antarctica | 3,060 |
-| 5 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Antarctica | 3,043 |
-| 6 | [PicasoTheDeal](https://github.com/PicasoTheDeal) | Tetstack | Antarctica | 2,970 |
+| 3 | [morgaesis](https://github.com/morgaesis) | Mörgæsis | Antarctica | 3,539 |
+| 4 | [PicasoTheDeal](https://github.com/PicasoTheDeal) | Tetstack | Antarctica | 3,067 |
+| 5 | [ethicnology](https://github.com/ethicnology) | Azad | Antarctica | 3,060 |
+| 6 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Antarctica | 3,043 |
 | 7 | [shangyian](https://github.com/shangyian) | Yian | Antarctica | 2,165 |
 | 8 | [FreezingSnail](https://github.com/FreezingSnail) | Freezing Snail | Antarctica | 1,541 |
 | 9 | [krwg](https://github.com/krwg) | アイダ ミール | Antarctica | 1,465 |
@@ -76,11 +76,11 @@ Indexed users: 461
 | 12 | [TobitoFatitoRE](https://github.com/TobitoFatitoRE) | TobitoFatito | Davis Station, Antarctica | 119 |
 | 13 | [emre1393](https://github.com/emre1393) | Emre | Antarctica | 114 |
 | 14 | [ethicnology](https://github.com/ethicnology) | Azad | Antarctica | 105 |
-| 15 | [piplup7575](https://github.com/piplup7575) | pipl | antarctica | 92 |
+| 15 | [piplup7575](https://github.com/piplup7575) | pipl | antarctica | 91 |
 | 16 | [crse](https://github.com/crse) |  | Antarctica | 89 |
 | 17 | [pkasila](https://github.com/pkasila) | Pavel Kasila | Antarctica | 88 |
 | 18 | [r4sas](https://github.com/r4sas) | R4SAS | Vostok Station, Antarctica | 88 |
 | 19 | [alphaaurigae](https://github.com/alphaaurigae) | Marian Brockerhoff | Antarctica | 85 |
 | 20 | [fakeid30](https://github.com/fakeid30) | Fake ID | Antarctica | 78 |
 
-Generated: 2026-10-19T08:47:56.261Z
+Generated: 2026-10-19T14:09:26.179Z

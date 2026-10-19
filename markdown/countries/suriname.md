@@ -23,7 +23,7 @@ Indexed users: 123
 | 9 | [jairseedorf](https://github.com/jairseedorf) | Jaïr Seedorf  | Suriname | 1,125 |
 | 10 | [giannisanni](https://github.com/giannisanni) | Gianni Sanrochman | Paramaribo, Suriname | 866 |
 | 11 | [nerkarso](https://github.com/nerkarso) | Ner Karso | Paramaribo, Suriname | 809 |
-| 12 | [dmoed](https://github.com/dmoed) | <Don/> | Paramaribo, Suriname | 737 |
+| 12 | [dmoed](https://github.com/dmoed) | <Don/> | Paramaribo, Suriname | 727 |
 | 13 | [Sh1vZ](https://github.com/Sh1vZ) | Shivam | Suriname | 712 |
 | 14 | [SantoshDevX](https://github.com/SantoshDevX) | Vishant Ramratan | Suriname | 661 |
 | 15 | [devbravo](https://github.com/devbravo) | Diego Sabajo | Paramaribo, Suriname | 633 |
@@ -38,7 +38,7 @@ Indexed users: 123
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [rafageist](https://github.com/rafageist) | Rafa Rodríguez | Paramaribo, Suriname | 30,953 |
-| 2 | [ragnarok22](https://github.com/ragnarok22) | Reinier Hernández | Suriname | 2,826 |
+| 2 | [ragnarok22](https://github.com/ragnarok22) | Reinier Hernández | Suriname | 2,824 |
 | 3 | [giannisanni](https://github.com/giannisanni) | Gianni Sanrochman | Paramaribo, Suriname | 611 |
 | 4 | [JustinDouglas16](https://github.com/JustinDouglas16) | Justin Douglas | Paramaribo | 252 |
 | 5 | [pawiromitchel](https://github.com/pawiromitchel) | Mitchel | Suriname | 194 |
@@ -83,4 +83,4 @@ Indexed users: 123
 | 19 | [JovinF](https://github.com/JovinF) | Jovin Fransman | Suriname | 18 |
 | 20 | [Your1405](https://github.com/Your1405) | Youri Karijopawiro | Paramaribo, Suriname | 18 |
 
-Generated: 2026-10-19T08:32:49.045Z
+Generated: 2026-10-19T13:52:52.407Z

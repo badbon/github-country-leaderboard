@@ -25,7 +25,7 @@ Indexed users: 486
 | 11 | [danielschillem](https://github.com/danielschillem) | Daniel Schillem KARAMBIRI | Burkina Faso | 2,357 |
 | 12 | [ArielShadrac](https://github.com/ArielShadrac) | Ouedraogo Fildouindé Ariel Shadrac | Burkina Faso | 2,335 |
 | 13 | [PANK4SS](https://github.com/PANK4SS) | Pankassi Jean-Louis Rayane BICABA | Burkina Faso | 1,681 |
-| 14 | [mibienpanjoe](https://github.com/mibienpanjoe) | PARE Mibienpan Joseph | Burkina Faso | 1,663 |
+| 14 | [mibienpanjoe](https://github.com/mibienpanjoe) | PARE Mibienpan Joseph | Burkina Faso | 1,674 |
 | 15 | [NICE-DEV226](https://github.com/NICE-DEV226) | Azaël Wend-panga SAWADOGO  | Burkina Faso | 1,583 |
 | 16 | [Moussier24](https://github.com/Moussier24) | Moussier Cissé | Burkina Faso | 1,581 |
 | 17 | [BoukaryDiallo](https://github.com/BoukaryDiallo) | Boukary DIALLO | Ouagadougou, Burkina Faso | 1,574 |
@@ -43,7 +43,7 @@ Indexed users: 486
 | 4 | [sokevinjonas](https://github.com/sokevinjonas) | SO Kevin Jonas Gningnabe | BURKINA FASO | 1,424 |
 | 5 | [ArielShadrac](https://github.com/ArielShadrac) | Ouedraogo Fildouindé Ariel Shadrac | Burkina Faso | 1,361 |
 | 6 | [Zap-ai-make](https://github.com/Zap-ai-make) | Swabo Hamadou | Burkina-Faso | 1,011 |
-| 7 | [mibienpanjoe](https://github.com/mibienpanjoe) | PARE Mibienpan Joseph | Burkina Faso | 995 |
+| 7 | [mibienpanjoe](https://github.com/mibienpanjoe) | PARE Mibienpan Joseph | Burkina Faso | 1,006 |
 | 8 | [PANK4SS](https://github.com/PANK4SS) | Pankassi Jean-Louis Rayane BICABA | Burkina Faso | 775 |
 | 9 | [Gbangou](https://github.com/Gbangou) | Pascal GBANGOU | Ouagadougou, Burkina Faso | 754 |
 | 10 | [Solangeilinga](https://github.com/Solangeilinga) | ILINGA Solange | Casablanca - Ouagadougou | 634 |
@@ -74,13 +74,13 @@ Indexed users: 486
 | 10 | [theobosomtwe](https://github.com/theobosomtwe) | Theophilus_Bosomtwe | Burkina Faso | 93 |
 | 11 | [spwoodcock](https://github.com/spwoodcock) | Sam | Ouagadougou, Burkina Faso | 65 |
 | 12 | [Kidchris](https://github.com/Kidchris) | Kidchris | Ouagadougou, Burkina Faso | 64 |
-| 13 | [wendtoinissaka](https://github.com/wendtoinissaka) |  | Ouagadougou, BURKINA FASO 🇧🇫❤️ | 56 |
-| 14 | [leaston](https://github.com/leaston) | Nkuna Charles | Burkina Faso | 51 |
-| 15 | [Zangafigue](https://github.com/Zangafigue) | Zangafigué Mathias TRAORE | Koudougou, Burkina Faso | 48 |
+| 13 | [Zangafigue](https://github.com/Zangafigue) | Zangafigué Mathias TRAORE | Koudougou, Burkina Faso | 57 |
+| 14 | [wendtoinissaka](https://github.com/wendtoinissaka) |  | Ouagadougou, BURKINA FASO 🇧🇫❤️ | 56 |
+| 15 | [leaston](https://github.com/leaston) | Nkuna Charles | Burkina Faso | 51 |
 | 16 | [haagrah](https://github.com/haagrah) | IsmaGUIRE | Burkina Faso (Ouagadougou) | 46 |
 | 17 | [ArielShadrac](https://github.com/ArielShadrac) | Ouedraogo Fildouindé Ariel Shadrac | Burkina Faso | 40 |
 | 18 | [Masterchief-07](https://github.com/Masterchief-07) | KIENDREBEOGO JONATHAN | BURKINAFASO/OUAGADOUGOU | 40 |
 | 19 | [sokevinjonas](https://github.com/sokevinjonas) | SO Kevin Jonas Gningnabe | BURKINA FASO | 38 |
 | 20 | [kulturman](https://github.com/kulturman) | Arnaud Bakyono  | Ouagadougou | 36 |
 
-Generated: 2026-10-19T08:54:40.355Z
+Generated: 2026-10-19T14:16:47.569Z
