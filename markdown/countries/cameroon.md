@@ -1,6 +1,6 @@
 # Cameroon
 
-Indexed users: 1,796
+Indexed users: 1,795
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 1,796
 | 19 | [baimamboukar](https://github.com/baimamboukar) | BAIMAM BOUKAR JEAN JACQUES | Yaoundé | 170 |
 | 20 | [Suprememajor](https://github.com/Suprememajor) | Nobert Etta | Buea, Cameroon | 168 |
 
-Generated: 2026-10-19T15:41:52.865Z
+Generated: 2026-10-19T17:14:57.999Z

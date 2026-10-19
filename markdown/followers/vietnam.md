@@ -1,8 +1,8 @@
 # Followers - Vietnam
 
-Generated: 2026-10-19T15:27:54.635Z
+Generated: 2026-10-19T17:00:36.368Z
 
-Users: 25840
+Users: 25836
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

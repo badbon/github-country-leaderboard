@@ -1,6 +1,6 @@
 # Total Contributions - Tajikistan
 
-Generated: 2026-10-19T15:20:30.710Z
+Generated: 2026-10-19T16:51:34.523Z
 
 Users: 708
 
@@ -9,9 +9,9 @@ Users: 708
 | 1 | [OdinManiac](https://github.com/OdinManiac) | George |  |  | Tajikistan | 9330 |
 | 2 | [veyxov](https://github.com/veyxov) | Shekhov Ismoil | @LLC-Alif-Technology  |  | Tajikistan | 9177 |
 | 3 | [rahimov-yr](https://github.com/rahimov-yr) | Yusuf Rahimov |  |  | Tajikistan | 7908 |
-| 4 | [shyn1ck](https://github.com/shyn1ck) | Parvizjon Hasanov | DC-TechHQ |  | Taikistan, Dushanbe  | 6981 |
-| 5 | [UMARJO9](https://github.com/UMARJO9) | Умарджон Нурмадов |  |  | Tajikistan / Khujand / Dushanbe / Kulob | 6921 |
-| 6 | [umedsondoniyor](https://github.com/umedsondoniyor) | Umedzhon Izbasarov | OneWell | UmedzhonIzbasar | Tajikistan/Dushanbe | 6834 |
+| 4 | [UMARJO9](https://github.com/UMARJO9) | Умарджон Нурмадов |  |  | Tajikistan / Khujand / Dushanbe / Kulob | 6921 |
+| 5 | [umedsondoniyor](https://github.com/umedsondoniyor) | Umedzhon Izbasarov | OneWell | UmedzhonIzbasar | Tajikistan/Dushanbe | 6834 |
+| 6 | [shyn1ck](https://github.com/shyn1ck) | Parvizjon Hasanov | DC-TechHQ |  | Taikistan, Dushanbe  | 6654 |
 | 7 | [islom-sattorov](https://github.com/islom-sattorov) | islom-sattorov |  |  | Dushanbe, Tajikistan | 6642 |
 | 8 | [ifteakhor](https://github.com/ifteakhor) |  | @iftech-team | ISaidkhoja | Tajikistan | 6479 |
 | 9 | [sr-44](https://github.com/sr-44) | Shahrom | Alif Bank |  | Tajikistan, Dushanbe | 6396 |

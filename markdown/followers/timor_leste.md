@@ -1,6 +1,6 @@
 # Followers - Timor-Leste
 
-Generated: 2026-10-19T15:21:20.184Z
+Generated: 2026-10-19T16:52:55.586Z
 
 Users: 77
 
@@ -12,7 +12,7 @@ Users: 77
 | 4 | [TiagovskiCode](https://github.com/TiagovskiCode) | Tiago Teixeira  |  |  | East-Timor | 17 |
 | 5 | [RunPiBoss](https://github.com/RunPiBoss) | RunPi老板🤴📈🚀🌕 | 就差一个程序员了 |  | Dili, Timor-Leste | 15 |
 | 6 | [sergiojosevalente](https://github.com/sergiojosevalente) | Sergio Jose Valente Da Cruz | IT & Application Officer Telkomcel | sergiojose031 | Timor-Leste | 15 |
-| 7 | [ajitonelsonn](https://github.com/ajitonelsonn) | Ajito Nelson | Viettel Timor |  | Timor Leste | 13 |
+| 7 | [ajitonelsonn](https://github.com/ajitonelsonn) | Ajito Nelson | Viettel Timor |  | Timor Leste | 14 |
 | 8 | [zemalay](https://github.com/zemalay) | Geovannio Frederico de Jesus Vinhas | TIC TIMOR |  | Dili, Timor-Leste | 13 |
 | 9 | [abindacarmo](https://github.com/abindacarmo) | Brigida de Carvalho Carmo | UNTL |  | Timor-Leste | 12 |
 | 10 | [watakalea](https://github.com/watakalea) | Wateba Watakalea |  |  | Timor Leste  | 11 |

@@ -14,18 +14,18 @@ Indexed users: 10,929
 |---:|---|---|---|---:|
 | 1 | [kudima03](https://github.com/kudima03) | Dmitry Kurochkin | Minsk, Belarus | 19,427 |
 | 2 | [AndreiDrang](https://github.com/AndreiDrang) | Andrei | Minsk | 14,416 |
-| 3 | [masasibata](https://github.com/masasibata) | Artem | Belarus | 12,224 |
-| 4 | [jakwuh](https://github.com/jakwuh) | James | Belarus | 11,999 |
-| 5 | [fxpw](https://github.com/fxpw) | fxpw | Belarus | 11,718 |
-| 6 | [KonstantinSerebryakov](https://github.com/KonstantinSerebryakov) | Konstantin Serebryakov | Minsk, Belarus | 10,667 |
-| 7 | [dzmitrys-dev](https://github.com/dzmitrys-dev) | Dzmitry Sukhau | Belarus, Minsk | 10,259 |
-| 8 | [omuteqq](https://github.com/omuteqq) | Иван | Minsk, Belarus | 7,527 |
-| 9 | [iamsphere](https://github.com/iamsphere) | Vladislav | Belarus, Minsk | 6,414 |
-| 10 | [NikolayNN](https://github.com/NikolayNN) | Nikolay | Minsk | 6,267 |
-| 11 | [igormorozov](https://github.com/igormorozov) | Igor Morozov | Minsk | 5,759 |
-| 12 | [davassi](https://github.com/davassi) | Gianluigi Davassi | Dubai - Berlin - Milan - Minsk | 5,274 |
-| 13 | [reven86](https://github.com/reven86) | Andrew Karpushin | Minsk, Belarus | 5,216 |
-| 14 | [hawkxdev](https://github.com/hawkxdev) | Sergey Sokolkin | Minsk, Belarus | 5,176 |
+| 3 | [hawkxdev](https://github.com/hawkxdev) | Sergey Sokolkin | Minsk, Belarus | 14,278 |
+| 4 | [masasibata](https://github.com/masasibata) | Artem | Belarus | 12,224 |
+| 5 | [jakwuh](https://github.com/jakwuh) | James | Belarus | 11,999 |
+| 6 | [fxpw](https://github.com/fxpw) | fxpw | Belarus | 11,718 |
+| 7 | [KonstantinSerebryakov](https://github.com/KonstantinSerebryakov) | Konstantin Serebryakov | Minsk, Belarus | 10,667 |
+| 8 | [dzmitrys-dev](https://github.com/dzmitrys-dev) | Dzmitry Sukhau | Belarus, Minsk | 10,259 |
+| 9 | [omuteqq](https://github.com/omuteqq) | Иван | Minsk, Belarus | 7,527 |
+| 10 | [iamsphere](https://github.com/iamsphere) | Vladislav | Belarus, Minsk | 6,414 |
+| 11 | [NikolayNN](https://github.com/NikolayNN) | Nikolay | Minsk | 6,267 |
+| 12 | [igormorozov](https://github.com/igormorozov) | Igor Morozov | Minsk | 5,759 |
+| 13 | [davassi](https://github.com/davassi) | Gianluigi Davassi | Dubai - Berlin - Milan - Minsk | 5,274 |
+| 14 | [reven86](https://github.com/reven86) | Andrew Karpushin | Minsk, Belarus | 5,216 |
 | 15 | [pavelpikta](https://github.com/pavelpikta) | Pavel Pikta | Grodno, Belarus | 5,010 |
 | 16 | [burvelandrei](https://github.com/burvelandrei) | Burvel Andrei | Minsk | 5,006 |
 | 17 | [dementorsss](https://github.com/dementorsss) | Dmitry | Minsk | 4,928 |
@@ -83,4 +83,4 @@ Indexed users: 10,929
 | 19 | [dillidon](https://github.com/dillidon) | RV | Belarus | 183 |
 | 20 | [alexzhirkevich](https://github.com/alexzhirkevich) | Alexander Zhirkevich | Belarus, Minsk | 161 |
 
-Generated: 2026-10-19T15:35:43.759Z
+Generated: 2026-10-19T17:08:40.596Z

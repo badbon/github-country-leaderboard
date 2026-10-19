@@ -12,7 +12,7 @@ Indexed users: 77
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [joshbrooks](https://github.com/joshbrooks) | Joshua Brooks | Dili, Timor-Leste | 11,045 |
+| 1 | [joshbrooks](https://github.com/joshbrooks) | Joshua Brooks | Dili, Timor-Leste | 11,116 |
 | 2 | [Akokonunes](https://github.com/Akokonunes) | Roberto Nunes | Timor-Leste | 2,211 |
 | 3 | [Noro18](https://github.com/Noro18) | Ezequiel Vieira Gonzaga Macedo | Timor Leste  | 1,697 |
 | 4 | [marobo](https://github.com/marobo) | Onorio de Jesus Afonso | Dili, East Timor | 1,004 |
@@ -68,7 +68,7 @@ Indexed users: 77
 | 4 | [TiagovskiCode](https://github.com/TiagovskiCode) | Tiago Teixeira  | East-Timor | 17 |
 | 5 | [RunPiBoss](https://github.com/RunPiBoss) | RunPi老板🤴📈🚀🌕 | Dili, Timor-Leste | 15 |
 | 6 | [sergiojosevalente](https://github.com/sergiojosevalente) | Sergio Jose Valente Da Cruz | Timor-Leste | 15 |
-| 7 | [ajitonelsonn](https://github.com/ajitonelsonn) | Ajito Nelson | Timor Leste | 13 |
+| 7 | [ajitonelsonn](https://github.com/ajitonelsonn) | Ajito Nelson | Timor Leste | 14 |
 | 8 | [zemalay](https://github.com/zemalay) | Geovannio Frederico de Jesus Vinhas | Dili, Timor-Leste | 13 |
 | 9 | [abindacarmo](https://github.com/abindacarmo) | Brigida de Carvalho Carmo | Timor-Leste | 12 |
 | 10 | [watakalea](https://github.com/watakalea) | Wateba Watakalea | Timor Leste  | 11 |
@@ -83,4 +83,4 @@ Indexed users: 77
 | 19 | [joshbrooks](https://github.com/joshbrooks) | Joshua Brooks | Dili, Timor-Leste | 6 |
 | 20 | [KituDoutel](https://github.com/KituDoutel) | Francisco KiTu | Dili, Timor-Leste 🇹🇱 | 6 |
 
-Generated: 2026-10-19T15:21:20.184Z
+Generated: 2026-10-19T16:52:55.586Z

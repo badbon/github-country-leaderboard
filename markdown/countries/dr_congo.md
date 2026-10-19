@@ -19,7 +19,7 @@ Indexed users: 701
 | 5 | [JoeM1990](https://github.com/JoeM1990) | Jonathan Monkila  | kinshasa,RDC | 8,062 |
 | 6 | [esaiemuhasa](https://github.com/esaiemuhasa) | Esaie Muhasa | Butembo, Congo Kinshasa | 7,119 |
 | 7 | [Dr-Lab1](https://github.com/Dr-Lab1) | Jonathan Kukwabantu Bahati | Kinshasa | 7,016 |
-| 8 | [Theodorebinda](https://github.com/Theodorebinda) | Theodore SAMBA | kinshasa | 6,932 |
+| 8 | [Theodorebinda](https://github.com/Theodorebinda) | Theodore SAMBA | kinshasa | 6,945 |
 | 9 | [merdielongo](https://github.com/merdielongo) | merdielongo | Congo / Kinshasa | 6,594 |
 | 10 | [andydefer](https://github.com/andydefer) | Andy Kani | Democratic Republic of Congo | 6,391 |
 | 11 | [bindukabusara](https://github.com/bindukabusara) | Bindu Kabusara Josué | Kampala, Kinshasa | 5,960 |
@@ -39,11 +39,11 @@ Indexed users: 701
 |---:|---|---|---|---:|
 | 1 | [coolbeatz71](https://github.com/coolbeatz71) | Mutombo Jean-Vincent | Kinshasa, Kigali | 31,880 |
 | 2 | [andydefer](https://github.com/andydefer) | Andy Kani | Democratic Republic of Congo | 6,391 |
-| 3 | [Theodorebinda](https://github.com/Theodorebinda) | Theodore SAMBA | kinshasa | 3,176 |
+| 3 | [Theodorebinda](https://github.com/Theodorebinda) | Theodore SAMBA | kinshasa | 3,183 |
 | 4 | [ChrisJustice600](https://github.com/ChrisJustice600) | justice | Kinshasa | 2,606 |
 | 5 | [vickbk](https://github.com/vickbk) | Victoire Bake | Goma, DR Congo | 2,570 |
 | 6 | [ElieOko](https://github.com/ElieOko) | ElieOko | Kinshasa   | 1,570 |
-| 7 | [fordimalanda](https://github.com/fordimalanda) | Fordi Malanda | Kinshasa, DRC | 1,369 |
+| 7 | [fordimalanda](https://github.com/fordimalanda) | Fordi Malanda | Kinshasa, DRC | 1,403 |
 | 8 | [Jeffbuleli](https://github.com/Jeffbuleli) | Jeff Buleli | Kinshasa, DR Congo | 1,347 |
 | 9 | [Sumant3086](https://github.com/Sumant3086) | Sumant Yadav | Kinshasa | 1,285 |
 | 10 | [jeereq](https://github.com/jeereq) | minganda | rdc/kinshasa | 1,241 |
@@ -68,7 +68,7 @@ Indexed users: 701
 | 4 | [Kgermando](https://github.com/Kgermando) | Kgermain | Kinshasa | 198 |
 | 5 | [SKB-TECH](https://github.com/SKB-TECH) | SKB-TECH | DR CONGO | 185 |
 | 6 | [Gbelsalvador](https://github.com/Gbelsalvador) | BANYI BANTU GEDEON | kinshasa | 163 |
-| 7 | [fordimalanda](https://github.com/fordimalanda) | Fordi Malanda | Kinshasa, DRC | 139 |
+| 7 | [fordimalanda](https://github.com/fordimalanda) | Fordi Malanda | Kinshasa, DRC | 141 |
 | 8 | [AfricanboyKiima](https://github.com/AfricanboyKiima) | Africanboy Kiima | Kinshasa/DRC | 133 |
 | 9 | [eltazy](https://github.com/eltazy) | Michel B | Kinshasa, CD | 131 |
 | 10 | [oesukam](https://github.com/oesukam) | Olivier M. Esuka | Kinshasa, Nairobi, Kigali | 104 |
@@ -83,4 +83,4 @@ Indexed users: 701
 | 19 | [bolenge](https://github.com/bolenge) | Don de Dieu Bolenge | Congo - Kinshasa | 69 |
 | 20 | [ChrisMwanya](https://github.com/ChrisMwanya) | Chris Mwanya | kinshasa | 69 |
 
-Generated: 2026-10-19T15:49:50.376Z
+Generated: 2026-10-19T17:23:24.988Z

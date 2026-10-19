@@ -1,6 +1,6 @@
 # Total Contributions - Trinidad and Tobago
 
-Generated: 2026-10-19T15:22:35.307Z
+Generated: 2026-10-19T16:53:30.777Z
 
 Users: 256
 
@@ -10,9 +10,9 @@ Users: 256
 | 2 | [Spartanlasergun](https://github.com/Spartanlasergun) | Narendra Singh |  |  | Trinidad and Tobago | 6066 |
 | 3 | [jefroy](https://github.com/jefroy) | Ajay Sieunarine | PGS |  | Trinidad and Tobago | 4401 |
 | 4 | [kyledef](https://github.com/kyledef) | Kyle E DeFreitas | @squareup  | kyle_def | Canda / Trinidad and Tobago / St Vincent and the Grenadines | 3143 |
-| 5 | [Emille1723](https://github.com/Emille1723) | Emille Henry |  |  | Trinidad and Tobago | 3065 |
+| 5 | [Emille1723](https://github.com/Emille1723) | Emille Henry |  |  | Trinidad and Tobago | 3098 |
 | 6 | [AnthonyASBaptiste](https://github.com/AnthonyASBaptiste) | Anthony A.S Baptiste |  |  | Trinidad and Tobago | 2959 |
-| 7 | [Chiggs-I-Am](https://github.com/Chiggs-I-Am) | Stephan Wilson |  |  | Trinidad and Tobago | 2886 |
+| 7 | [Chiggs-I-Am](https://github.com/Chiggs-I-Am) | Stephan Wilson |  |  | Trinidad and Tobago | 2877 |
 | 8 | [creativenull](https://github.com/creativenull) | Arnold Chand |  | creativenu11 | Trinidad and Tobago | 2320 |
 | 9 | [devxlag](https://github.com/devxlag) | Devon Murray | UWI |  | Trinidad and Tobago | 2223 |
 | 10 | [marcstampfli](https://github.com/marcstampfli) | Marc Stämpfli |  |  | Trinidad and Tobago | 2095 |

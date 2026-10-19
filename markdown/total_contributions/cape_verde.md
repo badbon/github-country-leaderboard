@@ -1,6 +1,6 @@
 # Total Contributions - Cape Verde
 
-Generated: 2026-10-19T15:42:27.513Z
+Generated: 2026-10-19T17:15:32.420Z
 
 Users: 563
 
@@ -17,8 +17,8 @@ Users: 563
 | 9 | [Matheuszy](https://github.com/Matheuszy) | Matheus Carlos | DescPay |  | Praia Grande | 1396 |
 | 10 | [LCSSchmidt](https://github.com/LCSSchmidt) | Lucas Miguel Schmidt | Monkey Branch |  | Itajai - Praia Brava | 1378 |
 | 11 | [codewrldniclas](https://github.com/codewrldniclas) | Nicholas Alves |  |  | Praia, Cape Verde | 1372 |
-| 12 | [Steravy](https://github.com/Steravy) | Stefan Victoria  |  | Ste_ravy | Praia, Cape Verde | 1289 |
-| 13 | [peeta98](https://github.com/peeta98) | Pedro Moreira |  |  | Terceira, Praia da Vitória | 1239 |
+| 12 | [Steravy](https://github.com/Steravy) | Stefan Victoria  |  | Ste_ravy | Praia, Cape Verde | 1372 |
+| 13 | [peeta98](https://github.com/peeta98) | Pedro Moreira |  |  | Terceira, Praia da Vitória | 1237 |
 | 14 | [adrianoviana87](https://github.com/adrianoviana87) | Adriano Viana |  |  | Praia do Sonho - Palhoça, SC - Brasil | 1223 |
 | 15 | [Deustavo](https://github.com/Deustavo) | Gustavo Andrade | Tray |  | Praia Grande - SP | 1217 |
 | 16 | [Denio26](https://github.com/Denio26) | Dénio Melo | @DevMasters-Lda |  | Cape Verde | 1168 |

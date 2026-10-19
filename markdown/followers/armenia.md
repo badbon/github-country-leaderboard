@@ -1,8 +1,8 @@
 # Followers - Armenia
 
-Generated: 2026-10-19T15:32:02.531Z
+Generated: 2026-10-19T17:05:54.523Z
 
-Users: 4035
+Users: 4034
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -11,18 +11,18 @@ Users: 4035
 | 3 | [TaronVardanyan](https://github.com/TaronVardanyan) | Taron Vardanyan | Civitta |  | Yerevan | 1084 |
 | 4 | [Gor-Hoveyan](https://github.com/Gor-Hoveyan) | Gor Hoveyan |  |  | Armenia | 933 |
 | 5 | [AlekSi](https://github.com/AlekSi) | Alexey Palazhchenko |  | paaleksey | Armenia | 797 |
-| 6 | [MohammedRashad](https://github.com/MohammedRashad) | Rashad |  |  | Yerevan, Armenia | 624 |
+| 6 | [MohammedRashad](https://github.com/MohammedRashad) | Rashad |  |  | Yerevan, Armenia | 622 |
 | 7 | [meanmail](https://github.com/meanmail) | Alexander Petrov | meanmail.dev | meanmaildev | Armenia, Yerevan | 586 |
 | 8 | [hasmiksarg](https://github.com/hasmiksarg) | Has |  |  | Yerevan, Armenia | 578 |
 | 9 | [noptrix](https://github.com/noptrix) | noptrix | nullsecurity, nullsecurity labs, blackarch linux | noptrix | Armenia, Cyprus, Stack, Heap | 546 |
 | 10 | [AndreiMaz](https://github.com/AndreiMaz) | Andrei Mazulnitsyn | nopCommerce team |  | Armenia | 477 |
 | 11 | [vahan-sahakyan](https://github.com/vahan-sahakyan) | Vahan Sahakyan | Optimum Partners | _vahan_sahakyan | Yerevan, Armenia | 475 |
 | 12 | [Aramayis331](https://github.com/Aramayis331) | Aramayis Araqelyan |  |  | Armenia | 455 |
-| 13 | [armcha](https://github.com/armcha) | Arman |  |  | Armenia | 426 |
+| 13 | [armcha](https://github.com/armcha) | Arman |  |  | Armenia | 428 |
 | 14 | [gildor2](https://github.com/gildor2) | Konstantin Nosov |  | UGildor | Armenia | 414 |
 | 15 | [OV111](https://github.com/OV111) | Vahe Ohanyan |  |  | Yerevan/Armenia | 376 |
-| 16 | [suren-atoyan](https://github.com/suren-atoyan) | Suren Atoyan | @basetenlabs | suren_at | Yerevan, Armenia | 335 |
+| 16 | [suren-atoyan](https://github.com/suren-atoyan) | Suren Atoyan | @basetenlabs | suren_at | Yerevan, Armenia | 338 |
 | 17 | [ivbeg](https://github.com/ivbeg) | Ivan Begtin | APICrafter, NGO "Informational Culture" @infoculture ,  Open Data Armenia, OKFN Russia | ibegtin | Armenia | 332 |
 | 18 | [igrishaev](https://github.com/igrishaev) | Ivan Grishaev | Vast fintech |  | Armenia | 254 |
-| 19 | [khoren93](https://github.com/khoren93) | Khoren Markosyan |  |  | Yerevan, Armenia | 249 |
+| 19 | [khoren93](https://github.com/khoren93) | Khoren Markosyan |  |  | Yerevan, Armenia | 252 |
 | 20 | [nightwing](https://github.com/nightwing) | Harutyun Amirjanyan |  |  | Yerevan, Armenia | 236 |

@@ -1,6 +1,6 @@
 # Total Contributions - Cyprus
 
-Generated: 2026-10-19T15:46:07.661Z
+Generated: 2026-10-19T17:20:33.157Z
 
 Users: 2725
 
@@ -22,7 +22,7 @@ Users: 2725
 | 14 | [the-architect](https://github.com/the-architect) | Marcel Scherf | Next Level International Software Ltd | marcelscherf | Larnaca, Cyprus | 11418 |
 | 15 | [laikhtman](https://github.com/laikhtman) | [DL] | Filiatix |  | Cyprus | 11184 |
 | 16 | [pitops](https://github.com/pitops) | Petros Kyriakou |  |  | Cyprus | 10749 |
-| 17 | [aidinb](https://github.com/aidinb) | Aidin  | Aidin |  | Cyprus | 10217 |
-| 18 | [ByczukMartin](https://github.com/ByczukMartin) | Martin B. | MBYT LTD |  | Cyprus | 9995 |
-| 19 | [cploutarchou](https://github.com/cploutarchou) | Christos Ploutarchou |  | cploutarchou | Cyprus | 9926 |
-| 20 | [nyyhao](https://github.com/nyyhao) | nyhaoo_ | n1apps |  | Cyprus | 9666 |
+| 17 | [awrshift](https://github.com/awrshift) | Serhii Kravchenko |  | awrshift | Cyprus | 10362 |
+| 18 | [aidinb](https://github.com/aidinb) | Aidin  | Aidin |  | Cyprus | 10217 |
+| 19 | [ByczukMartin](https://github.com/ByczukMartin) | Martin B. | MBYT LTD |  | Cyprus | 9995 |
+| 20 | [cploutarchou](https://github.com/cploutarchou) | Christos Ploutarchou |  | cploutarchou | Cyprus | 9926 |

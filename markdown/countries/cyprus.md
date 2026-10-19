@@ -28,10 +28,10 @@ Indexed users: 2,725
 | 14 | [the-architect](https://github.com/the-architect) | Marcel Scherf | Larnaca, Cyprus | 11,418 |
 | 15 | [laikhtman](https://github.com/laikhtman) | [DL] | Cyprus | 11,184 |
 | 16 | [pitops](https://github.com/pitops) | Petros Kyriakou | Cyprus | 10,749 |
-| 17 | [aidinb](https://github.com/aidinb) | Aidin  | Cyprus | 10,217 |
-| 18 | [ByczukMartin](https://github.com/ByczukMartin) | Martin B. | Cyprus | 9,995 |
-| 19 | [cploutarchou](https://github.com/cploutarchou) | Christos Ploutarchou | Cyprus | 9,926 |
-| 20 | [nyyhao](https://github.com/nyyhao) | nyhaoo_ | Cyprus | 9,666 |
+| 17 | [awrshift](https://github.com/awrshift) | Serhii Kravchenko | Cyprus | 10,362 |
+| 18 | [aidinb](https://github.com/aidinb) | Aidin  | Cyprus | 10,217 |
+| 19 | [ByczukMartin](https://github.com/ByczukMartin) | Martin B. | Cyprus | 9,995 |
+| 20 | [cploutarchou](https://github.com/cploutarchou) | Christos Ploutarchou | Cyprus | 9,926 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 2,725
 | 19 | [sudoguy](https://github.com/sudoguy) | Evgeny Kemerov | Limassol, Cyprus | 251 |
 | 20 | [polterguy](https://github.com/polterguy) | Thomas Hansen | Cyprus | 245 |
 
-Generated: 2026-10-19T15:46:07.661Z
+Generated: 2026-10-19T17:20:33.157Z

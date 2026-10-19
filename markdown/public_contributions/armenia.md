@@ -1,8 +1,8 @@
 # Public Contributions - Armenia
 
-Generated: 2026-10-19T15:32:02.531Z
+Generated: 2026-10-19T17:05:54.523Z
 
-Users: 4035
+Users: 4034
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -18,11 +18,11 @@ Users: 4035
 | 10 | [esceptico](https://github.com/esceptico) | Tim Ganiev |  | postimortem | Yerevan, Armenia | 2586 |
 | 11 | [anatoly-scherbakov](https://github.com/anatoly-scherbakov) | Anatoly Scherbakov | @datafold  |  | Yerevan, Armenia | 2578 |
 | 12 | [diegnghtmr](https://github.com/diegnghtmr) | Diego Alejandro Flores Quintero | Universidad del Quindío |  | Armenia, Quindío, Colombia | 2130 |
-| 13 | [gagik894](https://github.com/gagik894) | Gagik Sargsyan |  |  | Armenia | 1982 |
-| 14 | [barivanlab](https://github.com/barivanlab) | BarivanLab | Barivan |  | Armenia | 1740 |
-| 15 | [HenrikGharagyozyan](https://github.com/HenrikGharagyozyan) | Henrik Gharagyozyan |  |  | Yerevan, Armenia | 1715 |
-| 16 | [nazelizurna](https://github.com/nazelizurna) |  |  |  | Yerevan, Armenia | 1605 |
-| 17 | [tauinbox](https://github.com/tauinbox) | Alexander Tupavov | Personal |  | Armenia | 1590 |
-| 18 | [svyatov](https://github.com/svyatov) | Leonid Svyatov |  |  | Yerevan, Armenia | 1545 |
-| 19 | [projkov](https://github.com/projkov) | Pavel Rozhkov | @beda-software |  | Yerevan, Armenia | 1486 |
-| 20 | [artialex](https://github.com/artialex) | Alexey Selivanov |  | alextheartisan | Yerevan, Armenia | 1449 |
+| 13 | [norayr](https://github.com/norayr) | Norayr Chilingarian | @vishapoberon |  | Yerevan, Armenia | 2015 |
+| 14 | [gagik894](https://github.com/gagik894) | Gagik Sargsyan |  |  | Armenia | 1982 |
+| 15 | [barivanlab](https://github.com/barivanlab) | BarivanLab | Barivan |  | Armenia | 1740 |
+| 16 | [HenrikGharagyozyan](https://github.com/HenrikGharagyozyan) | Henrik Gharagyozyan |  |  | Yerevan, Armenia | 1715 |
+| 17 | [nazelizurna](https://github.com/nazelizurna) |  |  |  | Yerevan, Armenia | 1605 |
+| 18 | [tauinbox](https://github.com/tauinbox) | Alexander Tupavov | Personal |  | Armenia | 1590 |
+| 19 | [svyatov](https://github.com/svyatov) | Leonid Svyatov |  |  | Yerevan, Armenia | 1545 |
+| 20 | [projkov](https://github.com/projkov) | Pavel Rozhkov | @beda-software |  | Yerevan, Armenia | 1486 |

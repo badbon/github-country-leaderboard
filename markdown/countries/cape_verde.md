@@ -23,8 +23,8 @@ Indexed users: 563
 | 9 | [Matheuszy](https://github.com/Matheuszy) | Matheus Carlos | Praia Grande | 1,396 |
 | 10 | [LCSSchmidt](https://github.com/LCSSchmidt) | Lucas Miguel Schmidt | Itajai - Praia Brava | 1,378 |
 | 11 | [codewrldniclas](https://github.com/codewrldniclas) | Nicholas Alves | Praia, Cape Verde | 1,372 |
-| 12 | [Steravy](https://github.com/Steravy) | Stefan Victoria  | Praia, Cape Verde | 1,289 |
-| 13 | [peeta98](https://github.com/peeta98) | Pedro Moreira | Terceira, Praia da Vitória | 1,239 |
+| 12 | [Steravy](https://github.com/Steravy) | Stefan Victoria  | Praia, Cape Verde | 1,372 |
+| 13 | [peeta98](https://github.com/peeta98) | Pedro Moreira | Terceira, Praia da Vitória | 1,237 |
 | 14 | [adrianoviana87](https://github.com/adrianoviana87) | Adriano Viana | Praia do Sonho - Palhoça, SC - Brasil | 1,223 |
 | 15 | [Deustavo](https://github.com/Deustavo) | Gustavo Andrade | Praia Grande - SP | 1,217 |
 | 16 | [Denio26](https://github.com/Denio26) | Dénio Melo | Cape Verde | 1,168 |
@@ -62,7 +62,7 @@ Indexed users: 563
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [Andreia797](https://github.com/Andreia797) | Andreia Semedo | Cape Verde | 450 |
+| 1 | [Andreia797](https://github.com/Andreia797) | Andreia Semedo | Cape Verde | 459 |
 | 2 | [natanvalimcardoso](https://github.com/natanvalimcardoso) | Natan Valim | Praia Grande - SC | 436 |
 | 3 | [Jorgegabrielsantos](https://github.com/Jorgegabrielsantos) | Jorge Gabriel | Cape Verde,Praia | 369 |
 | 4 | [Dnuns](https://github.com/Dnuns) | David Nunes | Cape Verde | 213 |
@@ -83,4 +83,4 @@ Indexed users: 563
 | 19 | [Murzchnvok](https://github.com/Murzchnvok) | Pedro Araujo | Praia de Jatobá, SE - Brasil | 58 |
 | 20 | [FredSoares](https://github.com/FredSoares) | Frederico Soares | Cape Verde | 54 |
 
-Generated: 2026-10-19T15:42:27.513Z
+Generated: 2026-10-19T17:15:32.420Z
