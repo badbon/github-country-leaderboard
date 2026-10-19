@@ -3368,7 +3368,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 483,
+    "publicContributions": 535,
     "createdAt": "2023-11-27T20:15:14Z"
   },
   {
@@ -3404,7 +3404,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 130,
-    "publicContributions": 108,
+    "publicContributions": 106,
     "createdAt": "2023-05-01T09:47:42Z"
   },
   {
@@ -3458,7 +3458,7 @@
   {
     "login": "GhostEsso",
     "name": "Essohanam TAMBANA",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/114746721?s=72&u=f37fb1e1cdf0b079e99f83a2d2fb0fb7ff533aab&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/114746721?s=72&u=1774cdc6de2c6b6dd1ebefbd2ce1163c7b6ee495&v=4",
     "location": "Lomé, Togo",
     "company": "Kaba Delivery",
     "twitterUsername": "TambanaEssohana",
@@ -3486,8 +3486,8 @@
     "location": "Lomé , Togo",
     "company": "",
     "twitterUsername": "",
-    "followers": 65,
-    "privateContributions": 510,
+    "followers": 66,
+    "privateContributions": 509,
     "publicContributions": 26,
     "createdAt": "2022-08-25T14:50:45Z"
   },
@@ -3499,7 +3499,7 @@
     "company": "@Dracarys-Tech",
     "twitterUsername": "Kronos_Codeur",
     "followers": 61,
-    "privateContributions": 2103,
+    "privateContributions": 2092,
     "publicContributions": 159,
     "createdAt": "2022-02-23T09:37:08Z"
   },
@@ -3511,7 +3511,7 @@
     "company": "SOCOMEC Group",
     "twitterUsername": "",
     "followers": 58,
-    "privateContributions": 125,
+    "privateContributions": 129,
     "publicContributions": 52,
     "createdAt": "2021-12-28T17:01:18Z"
   },
@@ -3559,7 +3559,7 @@
     "company": "Microsoft",
     "twitterUsername": "",
     "followers": 33,
-    "privateContributions": 146,
+    "privateContributions": 148,
     "publicContributions": 250,
     "createdAt": "2022-06-21T16:56:53Z"
   },
@@ -3570,22 +3570,10 @@
     "location": "Lomé, Togo",
     "company": "",
     "twitterUsername": "ICG_reborns",
-    "followers": 20,
-    "privateContributions": 3343,
-    "publicContributions": 271,
+    "followers": 19,
+    "privateContributions": 3333,
+    "publicContributions": 265,
     "createdAt": "2022-07-17T15:43:08Z"
-  },
-  {
-    "login": "UKit00",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/108006326?s=72&u=49e6687641242f83c7e348282c00d7bc775b061e&v=4",
-    "location": "Lome-TOGO",
-    "company": "",
-    "twitterUsername": "prog_KIT",
-    "followers": 20,
-    "privateContributions": 0,
-    "publicContributions": 3,
-    "createdAt": "2022-06-22T13:31:33Z"
   },
   {
     "login": "tiger-githubb",
@@ -3595,7 +3583,7 @@
     "company": "Tiger Digital Agency",
     "twitterUsername": "",
     "followers": 24,
-    "privateContributions": 1983,
+    "privateContributions": 2028,
     "publicContributions": 3,
     "createdAt": "2022-01-22T07:00:52Z"
   },

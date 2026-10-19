@@ -36116,7 +36116,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 37,
-    "publicContributions": 40,
+    "publicContributions": 38,
     "createdAt": "2021-10-03T11:35:22Z"
   },
   {
@@ -36138,9 +36138,9 @@
     "location": "Belgium",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 95,
+    "publicContributions": 105,
     "createdAt": "2021-01-04T14:28:48Z"
   },
   {
@@ -36151,7 +36151,7 @@
     "company": "",
     "twitterUsername": "VasiCoscotin",
     "followers": 2,
-    "privateContributions": 769,
+    "privateContributions": 853,
     "publicContributions": 0,
     "createdAt": "2021-08-15T20:10:49Z"
   },
@@ -36164,7 +36164,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 165,
+    "publicContributions": 143,
     "createdAt": "2021-09-02T08:45:26Z"
   },
   {
@@ -36188,7 +36188,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 139,
+    "publicContributions": 56,
     "createdAt": "2021-02-11T12:36:38Z"
   },
   {
@@ -36271,7 +36271,7 @@
     "company": "Vision 42",
     "twitterUsername": "voet",
     "followers": 2,
-    "privateContributions": 2144,
+    "privateContributions": 2055,
     "publicContributions": 0,
     "createdAt": "2021-10-03T16:27:28Z"
   },
@@ -36283,8 +36283,8 @@
     "company": "Odoo",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 792,
-    "publicContributions": 2,
+    "privateContributions": 945,
+    "publicContributions": 4,
     "createdAt": "2021-01-28T13:50:43Z"
   },
   {
@@ -36300,18 +36300,6 @@
     "createdAt": "2021-09-01T13:43:55Z"
   },
   {
-    "login": "thdr6200",
-    "name": "Père Marmotte",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/95861215?s=72&u=129a596208434130d255eea4d1d1b1eec0ce7168&v=4",
-    "location": "Belgium",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 20,
-    "publicContributions": 42,
-    "createdAt": "2021-12-09T12:42:58Z"
-  },
-  {
     "login": "megallanWang",
     "name": "Haotian.Wang",
     "avatarUrl": "https://avatars.githubusercontent.com/u/83396931?s=72&u=e52e097d74f82b7385171595d0653426832b5f08&v=4",
@@ -36320,7 +36308,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 9,
     "createdAt": "2021-04-29T08:38:24Z"
   },
   {

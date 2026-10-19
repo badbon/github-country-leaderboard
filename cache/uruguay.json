@@ -35972,7 +35972,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 6,
     "createdAt": "2019-11-06T22:44:48Z"
   },
   {
@@ -36020,7 +36020,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 11,
-    "publicContributions": 6,
+    "publicContributions": 10,
     "createdAt": "2019-01-12T05:41:35Z"
   },
   {
@@ -36044,7 +36044,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2019-10-13T20:06:15Z"
   },
   {
@@ -36072,18 +36072,6 @@
     "createdAt": "2019-03-06T20:59:45Z"
   },
   {
-    "login": "Emislas-bit",
-    "name": "Emiliano Islas",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/58751896?s=72&u=94516b6a8c16eb62075c48be3f96ec52c339a039&v=4",
-    "location": "Uruguay",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 10,
-    "createdAt": "2019-12-10T21:39:43Z"
-  },
-  {
     "login": "alvesfabi",
     "name": "Fabian Alves",
     "avatarUrl": "https://avatars.githubusercontent.com/u/50325768?s=72&v=4",
@@ -36092,7 +36080,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 132,
+    "publicContributions": 133,
     "createdAt": "2019-05-06T11:59:07Z"
   },
   {
@@ -36128,7 +36116,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 25,
     "createdAt": "2019-08-30T00:03:18Z"
   },
   {
@@ -36139,7 +36127,7 @@
     "company": "DLYA",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 61,
+    "privateContributions": 60,
     "publicContributions": 0,
     "createdAt": "2019-03-12T00:19:11Z"
   },
@@ -36166,18 +36154,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-12-18T00:52:33Z"
-  },
-  {
-    "login": "Juan-Castelli",
-    "name": "Juan Castelli",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/56043846?s=72&v=4",
-    "location": "Uruguay",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 15,
-    "createdAt": "2019-10-01T17:51:51Z"
   },
   {
     "login": "sabatellamartin",

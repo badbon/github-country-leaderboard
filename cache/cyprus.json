@@ -1448,7 +1448,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 5,
     "createdAt": "2024-10-06T14:21:51Z"
   },
   {
@@ -1458,9 +1458,9 @@
     "location": "Cyprus",
     "company": "",
     "twitterUsername": "stoik_knight",
-    "followers": 3,
-    "privateContributions": 489,
-    "publicContributions": 10,
+    "followers": 2,
+    "privateContributions": 525,
+    "publicContributions": 8,
     "createdAt": "2024-04-29T18:38:14Z"
   },
   {
@@ -1508,7 +1508,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 232,
+    "publicContributions": 230,
     "createdAt": "2024-09-04T18:59:16Z"
   },
   {
@@ -1520,7 +1520,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 236,
+    "publicContributions": 256,
     "createdAt": "2024-03-05T21:39:49Z"
   },
   {
@@ -1592,7 +1592,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2024-12-22T21:43:07Z"
   },
   {
@@ -1603,7 +1603,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 426,
+    "privateContributions": 525,
     "publicContributions": 134,
     "createdAt": "2024-04-12T13:46:32Z"
   },
@@ -1637,23 +1637,11 @@
     "avatarUrl": "https://avatars.githubusercontent.com/u/157153206?s=72&v=4",
     "location": "Nicosia, Cyprus",
     "company": "Valicom Net Ltd",
-    "twitterUsername": "",
+    "twitterUsername": "zizujr",
     "followers": 2,
-    "privateContributions": 50,
+    "privateContributions": 54,
     "publicContributions": 0,
     "createdAt": "2024-01-19T18:08:53Z"
-  },
-  {
-    "login": "Hossein-Mohebbi-dev",
-    "name": "Hossein Mohebbi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/188430699?s=72&u=2101b718fcf6a733e28cdf1a7b693dd223ebb570&v=4",
-    "location": "Cyprus",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2024-11-14T07:31:38Z"
   },
   {
     "login": "Farazfaiyazazar",
