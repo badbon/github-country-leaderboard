@@ -29,8 +29,8 @@ Indexed users: 2,037
 | 15 | [fmwasekaga](https://github.com/fmwasekaga) | Fredrick Lusako Mwasekaga | Tanzania | 8,875 |
 | 16 | [islandkid-20](https://github.com/islandkid-20) | James Mashaka | Dar Es Salaam,Tanzania | 8,739 |
 | 17 | [victorjudysen](https://github.com/victorjudysen) | Victor Kweka | Dodoma, Tanzania | 8,111 |
-| 18 | [alobit21](https://github.com/alobit21) | Aloyce Mtavangu | Dodoma-Tanzania | 7,802 |
-| 19 | [elishagerson](https://github.com/elishagerson) | Elisha Gerson | Mbeya, Tanzania | 7,797 |
+| 18 | [elishagerson](https://github.com/elishagerson) | Elisha Gerson | Mbeya, Tanzania | 7,979 |
+| 19 | [alobit21](https://github.com/alobit21) | Aloyce Mtavangu | Dodoma-Tanzania | 7,802 |
 | 20 | [Bulalu](https://github.com/Bulalu) |  | Dar-es-Salaam,Tanzania | 7,623 |
 
 ## Public Contributions
@@ -50,7 +50,7 @@ Indexed users: 2,037
 | 11 | [zuck30](https://github.com/zuck30) | Shadrackovsky | Tanzania | 2,351 |
 | 12 | [wizystudios](https://github.com/wizystudios) | khalifa Nadhir | tanzania | 1,975 |
 | 13 | [Heracraft](https://github.com/Heracraft) | Nehemia Kaaya | Tanzania | 1,826 |
-| 14 | [elishagerson](https://github.com/elishagerson) | Elisha Gerson | Mbeya, Tanzania | 1,711 |
+| 14 | [elishagerson](https://github.com/elishagerson) | Elisha Gerson | Mbeya, Tanzania | 1,727 |
 | 15 | [Gudi650](https://github.com/Gudi650) | Godluck Emmanuel Msangi | Tanzania | 1,551 |
 | 16 | [fmpiza](https://github.com/fmpiza) | fridolinmpiza, Msc. | Tanzania | 1,544 |
 | 17 | [JuliusNtale](https://github.com/JuliusNtale) | Julius Peter Ntale | Tanzania  | 1,505 |
@@ -83,4 +83,4 @@ Indexed users: 2,037
 | 19 | [3nock](https://github.com/3nock) | Enock | Dar es Salaam, Tanzania | 187 |
 | 20 | [Mrhanstz](https://github.com/Mrhanstz) | HANSTZ | Africa Dodoma | 179 |
 
-Generated: 2026-10-19T07:19:34.820Z
+Generated: 2026-10-19T08:35:51.404Z

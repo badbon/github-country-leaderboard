@@ -1,6 +1,6 @@
 # Total Contributions - Cambodia
 
-Generated: 2026-10-19T07:39:08.124Z
+Generated: 2026-10-19T08:55:44.276Z
 
 Users: 2863
 
@@ -18,8 +18,8 @@ Users: 2863
 | 10 | [phannaly](https://github.com/phannaly) | phanna |  |  | Cambodia | 5415 |
 | 11 | [bonaneak05](https://github.com/bonaneak05) | Bonaneak |  | bona_neak | Cambodia | 5359 |
 | 12 | [socheatsok78](https://github.com/socheatsok78) | Socheat | localhost | socheatsok78 | Cambodia | 5317 |
-| 13 | [Chinteyley](https://github.com/Chinteyley) | chintey |  | kimteyley | Cambodia | 5094 |
-| 14 | [khonchanphearaa](https://github.com/khonchanphearaa) | Phearaa |  |  | Phnom Penh, Cambodia | 5076 |
+| 13 | [khonchanphearaa](https://github.com/khonchanphearaa) | Phearaa |  |  | Phnom Penh, Cambodia | 5125 |
+| 14 | [Chinteyley](https://github.com/Chinteyley) | chintey |  | kimteyley | Cambodia | 5094 |
 | 15 | [kuth-chi](https://github.com/kuth-chi) | Kuth | EZ Startup |  | Cambodia | 5052 |
 | 16 | [sothea578](https://github.com/sothea578) | Nuon Sothea | Digital Government Committee, Cambodia |  | Phnom Penh, Cambodia | 5029 |
 | 17 | [tykealy](https://github.com/tykealy) | Tykea Ly | vtenh | tykeaboyloy | Phnom Penh, Cambodia | 4898 |

@@ -16,7 +16,7 @@ Indexed users: 501
 | 2 | [resuls](https://github.com/resuls) | Resul | Turkmenistan | 8,605 |
 | 3 | [bruno-keiko](https://github.com/bruno-keiko) | Bruno | Turkmenistan | 6,635 |
 | 4 | [arslanAta](https://github.com/arslanAta) | Arslan | Turkmenistan | 5,325 |
-| 5 | [realmeylisdev](https://github.com/realmeylisdev) | Meylis | Ashgabat, Turkmenistan | 4,570 |
+| 5 | [realmeylisdev](https://github.com/realmeylisdev) | Meylis | Ashgabat, Turkmenistan | 4,612 |
 | 6 | [richxcame](https://github.com/richxcame) | Baygeldi Cholukov | Turkmenistan | 4,382 |
 | 7 | [bayramBabagulyyev](https://github.com/bayramBabagulyyev) | Bayram Babagulyyev | Turkmenistan | 4,272 |
 | 8 | [lightRain0629](https://github.com/lightRain0629) | Umyt | Ashgabat, Turkmenistan | 4,039 |
@@ -38,7 +38,7 @@ Indexed users: 501
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [Kemalstudio](https://github.com/Kemalstudio) | Kemal Atayev | Turkmenistan / Ashgabat | 18,388 |
-| 2 | [realmeylisdev](https://github.com/realmeylisdev) | Meylis | Ashgabat, Turkmenistan | 4,570 |
+| 2 | [realmeylisdev](https://github.com/realmeylisdev) | Meylis | Ashgabat, Turkmenistan | 4,612 |
 | 3 | [TheSeydiCharyyev](https://github.com/TheSeydiCharyyev) | Seydi Charyyev | Mary city, Turkmenistan | 2,060 |
 | 4 | [Nurik9292](https://github.com/Nurik9292) | Timur | Turkmenistan | 1,721 |
 | 5 | [ez1z](https://github.com/ez1z) | Eziz Agamyradov | Turkmenabat, Turkmenistan | 1,018 |
@@ -55,7 +55,7 @@ Indexed users: 501
 | 16 | [Seyit47](https://github.com/Seyit47) | Seyitmyrat Geldiyew | Ashgabat, Turkmenistan | 360 |
 | 17 | [richxcame](https://github.com/richxcame) | Baygeldi Cholukov | Turkmenistan | 330 |
 | 18 | [leonid-belousov](https://github.com/leonid-belousov) | Leonid | Turkmenistan Ashgabat | 286 |
-| 19 | [wepashka](https://github.com/wepashka) | Vepa Sabyrow | Ashgabat | 286 |
+| 19 | [wepashka](https://github.com/wepashka) | Vepa Sabyrow | Ashgabat | 268 |
 | 20 | [mekanbaymyradov](https://github.com/mekanbaymyradov) | Mekan Baymyradov | Turkmenistan, Ashgabat | 267 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 501
 | 19 | [MerlinEmris](https://github.com/MerlinEmris) | Merdan Chariyarov | Ashgabat | 65 |
 | 20 | [atageldi194229](https://github.com/atageldi194229) | Atageldi | Ashgabat, Turkmenistan | 64 |
 
-Generated: 2026-10-19T07:24:11.601Z
+Generated: 2026-10-19T08:38:24.009Z

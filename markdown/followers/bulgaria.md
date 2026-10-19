@@ -1,6 +1,6 @@
 # Followers - Bulgaria
 
-Generated: 2026-10-19T07:38:58.248Z
+Generated: 2026-10-19T08:54:36.766Z
 
 Users: 14071
 

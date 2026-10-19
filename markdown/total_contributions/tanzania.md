@@ -1,6 +1,6 @@
 # Total Contributions - Tanzania
 
-Generated: 2026-10-19T07:19:34.820Z
+Generated: 2026-10-19T08:35:51.404Z
 
 Users: 2037
 
@@ -23,6 +23,6 @@ Users: 2037
 | 15 | [fmwasekaga](https://github.com/fmwasekaga) | Fredrick Lusako Mwasekaga | kagaconnect |  | Tanzania | 8875 |
 | 16 | [islandkid-20](https://github.com/islandkid-20) | James Mashaka | @appziro  |  | Dar Es Salaam,Tanzania | 8739 |
 | 17 | [victorjudysen](https://github.com/victorjudysen) | Victor Kweka | ThisUncle Technologies |  | Dodoma, Tanzania | 8111 |
-| 18 | [alobit21](https://github.com/alobit21) | Aloyce Mtavangu | Tarxemo Software Company  |  | Dodoma-Tanzania | 7802 |
-| 19 | [elishagerson](https://github.com/elishagerson) | Elisha Gerson |  |  | Mbeya, Tanzania | 7797 |
+| 18 | [elishagerson](https://github.com/elishagerson) | Elisha Gerson |  |  | Mbeya, Tanzania | 7979 |
+| 19 | [alobit21](https://github.com/alobit21) | Aloyce Mtavangu | Tarxemo Software Company  |  | Dodoma-Tanzania | 7802 |
 | 20 | [Bulalu](https://github.com/Bulalu) |  |  | elisha_bulalu | Dar-es-Salaam,Tanzania | 7623 |

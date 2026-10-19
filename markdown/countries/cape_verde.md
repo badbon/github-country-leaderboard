@@ -45,7 +45,7 @@ Indexed users: 563
 | 6 | [kccristinadev-dev](https://github.com/kccristinadev-dev) | Cristina  | Praia grande - sp | 557 |
 | 7 | [Coyas](https://github.com/Coyas) | Ailton Duarte | Praia, Cabo Verde | 499 |
 | 8 | [eduardosaraujo1](https://github.com/eduardosaraujo1) | Eduardo S Araujo | Praia Grande | 415 |
-| 9 | [IgorBern02](https://github.com/IgorBern02) | Igor Bernardes | Praia Grande - SP | 385 |
+| 9 | [IgorBern02](https://github.com/IgorBern02) | Igor Bernardes | Praia Grande - SP | 383 |
 | 10 | [Mateuus](https://github.com/Mateuus) | Mateuus | Praia Grande - SP | 382 |
 | 11 | [Deustavo](https://github.com/Deustavo) | Gustavo Andrade | Praia Grande - SP | 379 |
 | 12 | [rafarfelipe](https://github.com/rafarfelipe) | Rafael Felipe | Praia Grande - SP | 322 |
@@ -83,4 +83,4 @@ Indexed users: 563
 | 19 | [Murzchnvok](https://github.com/Murzchnvok) | Pedro Araujo | Praia de Jatobá, SE - Brasil | 58 |
 | 20 | [FredSoares](https://github.com/FredSoares) | Frederico Soares | Cape Verde | 54 |
 
-Generated: 2026-10-19T07:39:17.077Z
+Generated: 2026-10-19T08:56:26.737Z

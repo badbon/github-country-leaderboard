@@ -1,6 +1,6 @@
 # Followers - Slovenia
 
-Generated: 2026-10-19T07:15:30.898Z
+Generated: 2026-10-19T08:31:00.939Z
 
 Users: 3097
 
@@ -16,13 +16,13 @@ Users: 3097
 | 8 | [CANopenNode](https://github.com/CANopenNode) | Janez |  |  | Slovenia | 609 |
 | 9 | [matej](https://github.com/matej) | Matej Bukovinski | PSPDFKit | bukovinski | Ljubljana, Slovenia | 414 |
 | 10 | [maticzav](https://github.com/maticzav) | Matic Zavadlal |  | maticzav | Ljubljana, Slovenia | 390 |
-| 11 | [titpetric](https://github.com/titpetric) | Tit Petric |  |  | Ljubljana, Slovenia | 332 |
+| 11 | [dz0ny](https://github.com/dz0ny) | Janez Troha | @teamniteo | dz0ny | Slovenia | 289 |
 | 12 | [AndrewStetsenko](https://github.com/AndrewStetsenko) |  | Relocate.me |  | Slovenia | 288 |
-| 13 | [dz0ny](https://github.com/dz0ny) | Janez Troha | @teamniteo | dz0ny | Slovenia | 283 |
-| 14 | [tinrab](https://github.com/tinrab) | Tin Rabzelj |  | tinrab | Ljubljana, Slovenia | 283 |
-| 15 | [otobrglez](https://github.com/otobrglez) | Oto Brglez | OPALAB | otobrglez | Ljubljana, Slovenia | 269 |
+| 13 | [tinrab](https://github.com/tinrab) | Tin Rabzelj |  | tinrab | Ljubljana, Slovenia | 283 |
+| 14 | [otobrglez](https://github.com/otobrglez) | Oto Brglez | OPALAB | otobrglez | Ljubljana, Slovenia | 276 |
+| 15 | [titpetric](https://github.com/titpetric) | Tit Petric |  |  | Ljubljana, Slovenia | 261 |
 | 16 | [tomaz](https://github.com/tomaz) | tomaz | Gentle Bytes |  | Slovenia | 249 |
 | 17 | [dorkamotorka](https://github.com/dorkamotorka) | Teodor Janez Podobnik | Prewave |  | Ljubljana, Slovenia | 248 |
-| 18 | [jure](https://github.com/jure) | Jure Triglav |  | juretriglav | Ljubljana, Slovenia | 241 |
+| 18 | [jure](https://github.com/jure) | Jure Triglav |  | juretriglav | Ljubljana, Slovenia | 243 |
 | 19 | [garbas](https://github.com/garbas) | Rok Garbas | Nix - Elm - Rust - Python | garbas | Ljubljana, Slovenia | 240 |
 | 20 | [buresdv](https://github.com/buresdv) | David Bureš |  |  | Maribor, Slovenia | 238 |

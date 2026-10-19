@@ -1,13 +1,13 @@
 # Total Contributions - Åland Islands
 
-Generated: 2026-10-19T07:29:52.122Z
+Generated: 2026-10-19T08:44:55.935Z
 
 Users: 61
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [michael-andreuzza](https://github.com/michael-andreuzza) | Michael Andreuzza | Unwrapped | Mike_Andreuzza | Mariehman, Åland Islands, Finland | 11528 |
-| 2 | [npunzalan](https://github.com/npunzalan) | Nico Punzalan |  |  | Mariehamn | 3984 |
+| 1 | [michael-andreuzza](https://github.com/michael-andreuzza) | Michael Andreuzza | Unwrapped | Mike_Andreuzza | Mariehman, Åland Islands, Finland | 11531 |
+| 2 | [npunzalan](https://github.com/npunzalan) | Nico Punzalan |  |  | Mariehamn | 4003 |
 | 3 | [hkarlstrom](https://github.com/hkarlstrom) | Henrik Karlström |  |  | Åland Islands | 3755 |
 | 4 | [mathisen99](https://github.com/mathisen99) | Tommy Mathisen |  |  | Aland Islands | 3275 |
 | 5 | [olegamobile](https://github.com/olegamobile) | Oleg Balandin | Grit:lab |  | Mariehamn | 1743 |
@@ -24,5 +24,5 @@ Users: 61
 | 16 | [johanwestling](https://github.com/johanwestling) | Johan Westling | @Aventyret |  | Åland, Finland | 209 |
 | 17 | [GitHug](https://github.com/GitHug) | Fredrik Mäkilä | Takanoha |  | London / Mariehamn | 185 |
 | 18 | [ejmilli](https://github.com/ejmilli) | eliza john |  |  |  Åland Islands, Finland | 169 |
-| 19 | [BeornG](https://github.com/BeornG) | Björn Granholm |  |  | Mariehamn, Åland | 140 |
+| 19 | [BeornG](https://github.com/BeornG) | Björn Granholm |  |  | Mariehamn, Åland | 141 |
 | 20 | [fatemekh78](https://github.com/fatemekh78) | Fatemeh |  |  | Mariehamn, Åland islands | 130 |

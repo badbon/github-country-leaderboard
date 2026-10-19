@@ -12,8 +12,8 @@ Indexed users: 61
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [michael-andreuzza](https://github.com/michael-andreuzza) | Michael Andreuzza | Mariehman, Åland Islands, Finland | 11,528 |
-| 2 | [npunzalan](https://github.com/npunzalan) | Nico Punzalan | Mariehamn | 3,984 |
+| 1 | [michael-andreuzza](https://github.com/michael-andreuzza) | Michael Andreuzza | Mariehman, Åland Islands, Finland | 11,531 |
+| 2 | [npunzalan](https://github.com/npunzalan) | Nico Punzalan | Mariehamn | 4,003 |
 | 3 | [hkarlstrom](https://github.com/hkarlstrom) | Henrik Karlström | Åland Islands | 3,755 |
 | 4 | [mathisen99](https://github.com/mathisen99) | Tommy Mathisen | Aland Islands | 3,275 |
 | 5 | [olegamobile](https://github.com/olegamobile) | Oleg Balandin | Mariehamn | 1,743 |
@@ -30,7 +30,7 @@ Indexed users: 61
 | 16 | [johanwestling](https://github.com/johanwestling) | Johan Westling | Åland, Finland | 209 |
 | 17 | [GitHug](https://github.com/GitHug) | Fredrik Mäkilä | London / Mariehamn | 185 |
 | 18 | [ejmilli](https://github.com/ejmilli) | eliza john |  Åland Islands, Finland | 169 |
-| 19 | [BeornG](https://github.com/BeornG) | Björn Granholm | Mariehamn, Åland | 140 |
+| 19 | [BeornG](https://github.com/BeornG) | Björn Granholm | Mariehamn, Åland | 141 |
 | 20 | [fatemekh78](https://github.com/fatemekh78) | Fatemeh | Mariehamn, Åland islands | 130 |
 
 ## Public Contributions
@@ -83,4 +83,4 @@ Indexed users: 61
 | 19 | [GitHug](https://github.com/GitHug) | Fredrik Mäkilä | London / Mariehamn | 10 |
 | 20 | [fannielf](https://github.com/fannielf) | Fanni Vesanen | Mariehamn | 9 |
 
-Generated: 2026-10-19T07:29:52.122Z
+Generated: 2026-10-19T08:44:55.935Z

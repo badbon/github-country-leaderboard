@@ -1,6 +1,6 @@
 # Public Contributions - Slovenia
 
-Generated: 2026-10-19T07:15:30.898Z
+Generated: 2026-10-19T08:31:00.939Z
 
 Users: 3097
 
@@ -12,17 +12,17 @@ Users: 3097
 | 4 | [MatejGomboc](https://github.com/MatejGomboc) | Matej Gomboc | SkyLabs d.o.o. |  | Maribor, Slovenia | 5747 |
 | 5 | [crtahlin](https://github.com/crtahlin) | Crt Ahlin |  | crtahlin | Slovenia | 5466 |
 | 6 | [darkojelen](https://github.com/darkojelen) | darko |  |  | Ljubljana | 5412 |
-| 7 | [BigWhale](https://github.com/BigWhale) | David Klasinc |  |  | Slovenska Bistrica, Slovenia | 3944 |
-| 8 | [AKzar1el](https://github.com/AKzar1el) | Tommy | Solo | AKzar1el | Ljubljana, Slovenia | 3845 |
-| 9 | [stefanb](https://github.com/stefanb) | Stefan Baebler | @equaleyes | StefanBaebler | Ljubljana, Slovenia | 3790 |
-| 10 | [zigai](https://github.com/zigai) |  |  |  | Slovenia | 3513 |
-| 11 | [fentas](https://github.com/fentas) | Jan Guth | @lanisce | lanisce_si | Slovenia | 3035 |
+| 7 | [stefanb](https://github.com/stefanb) | Štefan Baebler |  | StefanBaebler | Ljubljana, Slovenia | 4264 |
+| 8 | [BigWhale](https://github.com/BigWhale) | David Klasinc |  |  | Slovenska Bistrica, Slovenia | 3944 |
+| 9 | [AKzar1el](https://github.com/AKzar1el) | Tommy | Solo | AKzar1el | Ljubljana, Slovenia | 3845 |
+| 10 | [fentas](https://github.com/fentas) | Jan Guth | @lanisce | lanisce_si | Slovenia | 3587 |
+| 11 | [zigai](https://github.com/zigai) |  |  |  | Slovenia | 3513 |
 | 12 | [majazaloznik](https://github.com/majazaloznik) | maja | ox.ac.uk |  | oxford--ljubljana | 3035 |
-| 13 | [matejdro](https://github.com/matejdro) | Matej Drobnič |  |  | Slovenia | 2825 |
-| 14 | [OBattler](https://github.com/OBattler) | Miran Grča |  |  | Koper, Slovenia | 2657 |
-| 15 | [aljazmc](https://github.com/aljazmc) | Aljaž Mlinarič |  |  | Ptuj, Slovenia | 2397 |
-| 16 | [mzagozen](https://github.com/mzagozen) | Marko Zagožen | Flint SI |  | Slovenia | 2344 |
-| 17 | [eriknovak](https://github.com/eriknovak) | Erik Novak | @Event-Registry @E3-JSI  |  | Slovenia | 2225 |
-| 18 | [unjica](https://github.com/unjica) | Sanja Malovic | Tacko |  | Slovenia | 2171 |
-| 19 | [baadc0de](https://github.com/baadc0de) | Bojan Šernek | @distopik | reactocode | Ljubljana, Slovenia | 2124 |
-| 20 | [MusicDin](https://github.com/MusicDin) | Din Mušić | @canonical @lxc  |  | Ljubljana | 2097 |
+| 13 | [titpetric](https://github.com/titpetric) | Tit Petric |  |  | Ljubljana, Slovenia | 3019 |
+| 14 | [matejdro](https://github.com/matejdro) | Matej Drobnič |  |  | Slovenia | 2873 |
+| 15 | [OBattler](https://github.com/OBattler) | Miran Grča |  |  | Koper, Slovenia | 2657 |
+| 16 | [aljazmc](https://github.com/aljazmc) | Aljaž Mlinarič |  |  | Ptuj, Slovenia | 2397 |
+| 17 | [mzagozen](https://github.com/mzagozen) | Marko Zagožen | Flint SI |  | Slovenia | 2344 |
+| 18 | [eriknovak](https://github.com/eriknovak) | Erik Novak | @Event-Registry @E3-JSI  |  | Slovenia | 2225 |
+| 19 | [unjica](https://github.com/unjica) | Sanja Malovic | Tacko |  | Slovenia | 2171 |
+| 20 | [baadc0de](https://github.com/baadc0de) | Bojan Šernek | @distopik | reactocode | Ljubljana, Slovenia | 2124 |

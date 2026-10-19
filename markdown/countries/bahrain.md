@@ -26,7 +26,7 @@ Indexed users: 727
 | 12 | [kelvindecosta](https://github.com/kelvindecosta) | Kelvin DeCosta | Bahrain | 4,678 |
 | 13 | [iMythms](https://github.com/iMythms) | Mytham Jasim | Bahrain | 4,455 |
 | 14 | [UnbreakableMJ](https://github.com/UnbreakableMJ) | Mohamed Hammad | Bahrain | 4,232 |
-| 15 | [Ali-Hassan-2000](https://github.com/Ali-Hassan-2000) | ALI SALMAN | Bahrain | 3,911 |
+| 15 | [Ali-Hassan-2000](https://github.com/Ali-Hassan-2000) | ALI SALMAN | Bahrain | 4,039 |
 | 16 | [mufarrah](https://github.com/mufarrah) | A.Rahman Mufarrah | Bahrain | 3,756 |
 | 17 | [TayyabaK](https://github.com/TayyabaK) | Tayyaba Khalil | Bahrain | 3,725 |
 | 18 | [ExTBH](https://github.com/ExTBH) | Natheer Radhi | Bahrain | 3,508 |
@@ -83,4 +83,4 @@ Indexed users: 727
 | 19 | [f-9t9it](https://github.com/f-9t9it) | 9T9 IT | Bahrain | 42 |
 | 20 | [masterde](https://github.com/masterde) | Baker | Bahrain, Muharraq | 41 |
 
-Generated: 2026-10-19T07:34:11.184Z
+Generated: 2026-10-19T08:49:21.696Z

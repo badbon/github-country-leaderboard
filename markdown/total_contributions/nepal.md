@@ -1,8 +1,8 @@
 # Total Contributions - Nepal
 
-Generated: 2026-10-19T08:14:29.386Z
+Generated: 2026-10-19T09:04:59.243Z
 
-Users: 14105
+Users: 14104
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

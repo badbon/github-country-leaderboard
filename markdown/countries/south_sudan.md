@@ -29,8 +29,8 @@ Indexed users: 132
 | 15 | [Dengtiel](https://github.com/Dengtiel) | Deng Mayen Deng Akol | Juba/Online | 329 |
 | 16 | [John-Tongun](https://github.com/John-Tongun) | John Tongun Wani | Juba South Sudan | 327 |
 | 17 | [deng-joe](https://github.com/deng-joe) | Joe | Juba, CE, South Sudan | 278 |
-| 18 | [nhial-cham](https://github.com/nhial-cham) | Nhial Cham | Juba, South Sudan | 273 |
-| 19 | [uojai](https://github.com/uojai) | UoJ Artificial Intelligence | Juba, South Sudan | 273 |
+| 18 | [uojai](https://github.com/uojai) | UoJ Artificial Intelligence | Juba, South Sudan | 274 |
+| 19 | [nhial-cham](https://github.com/nhial-cham) | Nhial Cham | Juba, South Sudan | 273 |
 | 20 | [Yel-Mangok](https://github.com/Yel-Mangok) |  | South Sudan | 271 |
 
 ## Public Contributions
@@ -49,8 +49,8 @@ Indexed users: 132
 | 10 | [SanMajur](https://github.com/SanMajur) | Santino Majur Malong  | Juba, South Sudan | 344 |
 | 11 | [John-Tongun](https://github.com/John-Tongun) | John Tongun Wani | Juba South Sudan | 327 |
 | 12 | [Dengtiel](https://github.com/Dengtiel) | Deng Mayen Deng Akol | Juba/Online | 324 |
-| 13 | [nhial-cham](https://github.com/nhial-cham) | Nhial Cham | Juba, South Sudan | 273 |
-| 14 | [uojai](https://github.com/uojai) | UoJ Artificial Intelligence | Juba, South Sudan | 273 |
+| 13 | [uojai](https://github.com/uojai) | UoJ Artificial Intelligence | Juba, South Sudan | 274 |
+| 14 | [nhial-cham](https://github.com/nhial-cham) | Nhial Cham | Juba, South Sudan | 273 |
 | 15 | [Yel-Mangok](https://github.com/Yel-Mangok) |  | South Sudan | 271 |
 | 16 | [felixuxx](https://github.com/felixuxx) | ... | Juba, South Sudan | 268 |
 | 17 | [Wai-Mike](https://github.com/Wai-Mike) | Wai Michael Kat | South Sudan | 261 |
@@ -83,4 +83,4 @@ Indexed users: 132
 | 19 | [Amalsouthsudan23](https://github.com/Amalsouthsudan23) | AMAL South Sudan | South Sudan | 15 |
 | 20 | [Codetym](https://github.com/Codetym) | Nelson Mandela D.M.J | Juba, South Sudan  | 14 |
 
-Generated: 2026-10-19T07:16:45.873Z
+Generated: 2026-10-19T08:31:54.231Z

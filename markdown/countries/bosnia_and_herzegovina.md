@@ -72,7 +72,7 @@ Indexed users: 2,126
 | 8 | [Admer456](https://github.com/Admer456) | Admer | Bosnia and Herzegovina | 188 |
 | 9 | [TheAdnan](https://github.com/TheAdnan) | Adnan Kičin | Sarajevo | 179 |
 | 10 | [vladimir-cicovic](https://github.com/vladimir-cicovic) | Vladimir Cicovic | @Bosnia and Herzegovina | 175 |
-| 11 | [chili-chips-ba](https://github.com/chili-chips-ba) | Chili.CHIPS | Bosnia-Herzegovina | 166 |
+| 11 | [chili-chips-ba](https://github.com/chili-chips-ba) | Chili.CHIPS | Bosnia-Herzegovina | 169 |
 | 12 | [vladotesanovic](https://github.com/vladotesanovic) | Vlado Tesanovic | Sarajevo, Earth | 149 |
 | 13 | [Aldin-SXR](https://github.com/Aldin-SXR) | Aldin Kovačević | Sarajevo | 147 |
 | 14 | [almirvuk](https://github.com/almirvuk) | Almir Vuk | Sarajevo, Bosna i Hercegovina | 141 |
@@ -83,4 +83,4 @@ Indexed users: 2,126
 | 19 | [Mickey0001](https://github.com/Mickey0001) | Mirza Sisic | Sarajevo, Bosnia and Herzegovina  | 122 |
 | 20 | [sake92](https://github.com/sake92) | Sakib Hadžiavdić | Sarajevo, Bosnia | 118 |
 
-Generated: 2026-10-19T07:36:18.482Z
+Generated: 2026-10-19T08:52:38.855Z

@@ -1,8 +1,8 @@
 # Total Contributions - Uganda
 
-Generated: 2026-10-19T07:24:21.063Z
+Generated: 2026-10-19T08:38:35.081Z
 
-Users: 3865
+Users: 3864
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -24,5 +24,5 @@ Users: 3865
 | 16 | [kashua14](https://github.com/kashua14) | Kasasira Joshua | @kode-qraft @chartrflex @Uganda-Christian-University  | joshkasasira | Kampala, Uganda | 8178 |
 | 17 | [Mugamba669](https://github.com/Mugamba669) | Mugamba669 | Kutunzamawazo | BrunoMugamba | Kampala, Uganda | 7995 |
 | 18 | [KansiimeKenie](https://github.com/KansiimeKenie) | Kansiime Keneth |  | kansiime_keneth | kampala, Ug | 7957 |
-| 19 | [GaspardKirira](https://github.com/GaspardKirira) | G-kirira | @vixcpp @softadastra | g_kirira | Africa / Uganda / Kampala | 7825 |
-| 20 | [judeotine](https://github.com/judeotine) | Judeotine |  | Judeotine | Uganda | 7440 |
+| 19 | [Maxondria](https://github.com/Maxondria) | Maxon Tayebwa | @KindHealth-Holdings | Maxondria | Kampala, Uganda | 7945 |
+| 20 | [GaspardKirira](https://github.com/GaspardKirira) | G-kirira | @vixcpp @softadastra | g_kirira | Africa / Uganda / Kampala | 7825 |

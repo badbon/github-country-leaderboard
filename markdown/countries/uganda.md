@@ -1,6 +1,6 @@
 # Uganda
 
-Indexed users: 3,865
+Indexed users: 3,864
 
 | Leaderboard | Link |
 |---|---|
@@ -30,8 +30,8 @@ Indexed users: 3,865
 | 16 | [kashua14](https://github.com/kashua14) | Kasasira Joshua | Kampala, Uganda | 8,178 |
 | 17 | [Mugamba669](https://github.com/Mugamba669) | Mugamba669 | Kampala, Uganda | 7,995 |
 | 18 | [KansiimeKenie](https://github.com/KansiimeKenie) | Kansiime Keneth | kampala, Ug | 7,957 |
-| 19 | [GaspardKirira](https://github.com/GaspardKirira) | G-kirira | Africa / Uganda / Kampala | 7,825 |
-| 20 | [judeotine](https://github.com/judeotine) | Judeotine | Uganda | 7,440 |
+| 19 | [Maxondria](https://github.com/Maxondria) | Maxon Tayebwa | Kampala, Uganda | 7,945 |
+| 20 | [GaspardKirira](https://github.com/GaspardKirira) | G-kirira | Africa / Uganda / Kampala | 7,825 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 3,865
 | 19 | [kallyas](https://github.com/kallyas) | Iden | Uganda | 190 |
 | 20 | [FahimWeblogicAndCyberTechnologies](https://github.com/FahimWeblogicAndCyberTechnologies) | FRANKLIN | Uganda | 186 |
 
-Generated: 2026-10-19T07:24:21.063Z
+Generated: 2026-10-19T08:38:35.081Z

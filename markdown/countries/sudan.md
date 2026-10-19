@@ -77,10 +77,10 @@ Indexed users: 727
 | 13 | [attaryz](https://github.com/attaryz) | Abdullah Ali | Khartoum, Sudan | 59 |
 | 14 | [Amar-Dev1](https://github.com/Amar-Dev1) | Amar Ibrahim | Sudan, Khartoum | 58 |
 | 15 | [HussamAdil](https://github.com/HussamAdil) | Hussam Adil | Sudan | 58 |
-| 16 | [sam-x86](https://github.com/sam-x86) | SAM X86 | Sudan | 56 |
+| 16 | [sam-x86](https://github.com/sam-x86) | SAM X86 | Sudan | 55 |
 | 17 | [mhadiahmed](https://github.com/mhadiahmed) | Mhadi Ahmed | sudan | 54 |
 | 18 | [osayami](https://github.com/osayami) | OSAYAMI | Sudan | 52 |
 | 19 | [kabaros](https://github.com/kabaros) | Mozafar | Khartoum / Glasgow | 51 |
 | 20 | [obaaa8](https://github.com/obaaa8) | محمود عبدالسميع التوم | sudan | 49 |
 
-Generated: 2026-10-19T07:17:23.842Z
+Generated: 2026-10-19T08:32:04.322Z

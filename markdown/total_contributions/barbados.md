@@ -1,6 +1,6 @@
 # Total Contributions - Barbados
 
-Generated: 2026-10-19T07:34:53.356Z
+Generated: 2026-10-19T08:50:18.901Z
 
 Users: 132
 
@@ -11,13 +11,13 @@ Users: 132
 | 3 | [bajedev](https://github.com/bajedev) | Theo Taylor | @TAYLORDTech  |  | Barbados | 4205 |
 | 4 | [d-alleyne](https://github.com/d-alleyne) | Damien Alleyne |  |  | Barbados | 3242 |
 | 5 | [paulmiu](https://github.com/paulmiu) | Paul Miu |  |  | Barbados | 2860 |
-| 6 | [shaquillehinds](https://github.com/shaquillehinds) | Shaquille Hinds |  |  | Barbados | 2764 |
+| 6 | [shaquillehinds](https://github.com/shaquillehinds) | Shaquille Hinds |  |  | Barbados | 2784 |
 | 7 | [alexlilburn](https://github.com/alexlilburn) | Alex Lilburn |  |  | Barbados | 2006 |
 | 8 | [Taggs](https://github.com/Taggs) | Neil Taggart | Adaptive Consulting | neiltaggart | (London \|\| Barbados) && Cloud | 1723 |
 | 9 | [FamineDT246](https://github.com/FamineDT246) | Ceejay C |  |  | Barbados | 1546 |
 | 10 | [ShamarKellman](https://github.com/ShamarKellman) | Shamar Kellman |  | CoderShamar | Barbados | 1384 |
 | 11 | [alexanderbahlk](https://github.com/alexanderbahlk) | Alexander Bahlk | Coast Solutions OÜ |  | Barbados | 1349 |
-| 12 | [dario-j-c](https://github.com/dario-j-c) | Dario J C |  |  | Barbados | 1229 |
+| 12 | [dario-j-c](https://github.com/dario-j-c) | Dario J C |  |  | Barbados | 1232 |
 | 13 | [lukehefson](https://github.com/lukehefson) | Luke Hefson | @workbrew | lukehefson | Barbados | 959 |
 | 14 | [ianhambleton](https://github.com/ianhambleton) | Ian Hambleton | The University of the West Indies |  | Barbados | 672 |
 | 15 | [Thomas-Heniart](https://github.com/Thomas-Heniart) | Thomas Heniart | Bitfinex |  | Barbados | 597 |

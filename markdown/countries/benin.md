@@ -16,7 +16,7 @@ Indexed users: 471
 | 2 | [Abdoul-wakilou](https://github.com/Abdoul-wakilou) | AbDev - Freelance | Cotonou, Benin | 9,497 |
 | 3 | [nahim-salami](https://github.com/nahim-salami) | Nahim SALAMI | Benin | 9,056 |
 | 4 | [blackdevfeldy](https://github.com/blackdevfeldy) | TOHOYESSOU Feldy | Cotonou, Benin | 7,916 |
-| 5 | [AxelSalim](https://github.com/AxelSalim) | ADJAKIDJE K. Axel S. H. | Benin | 7,318 |
+| 5 | [AxelSalim](https://github.com/AxelSalim) | ADJAKIDJE K. Axel S. H. | Benin | 7,286 |
 | 6 | [devalade](https://github.com/devalade) | Alade YESSOUFOU | Cotonou,Littoral, Benin | 6,566 |
 | 7 | [jprud67](https://github.com/jprud67) | Prudence  Dieudonné Assogba | Benin, cotonou | 5,256 |
 | 8 | [BOCOVO](https://github.com/BOCOVO) | bocovo | Cotonou, Benin | 4,410 |
@@ -25,13 +25,13 @@ Indexed users: 471
 | 11 | [Richard6141](https://github.com/Richard6141) | Richard SALANON | Cotonou, Bénin | 4,026 |
 | 12 | [iyosayi0x](https://github.com/iyosayi0x) | Iyosayi | Nigeria , Benin  | 3,985 |
 | 13 | [Reqima-dev](https://github.com/Reqima-dev) | Abdul A. KONDO | Benin, Cotonou | 3,906 |
-| 14 | [Yoannoza](https://github.com/Yoannoza) | Yoann OZA | Cotonou, Benin | 3,896 |
+| 14 | [Yoannoza](https://github.com/Yoannoza) | Yoann OZA | Cotonou, Benin | 3,893 |
 | 15 | [eliotfgn](https://github.com/eliotfgn) | Eliot FAGNON | Cotonou, Benin | 3,680 |
 | 16 | [koladev32](https://github.com/koladev32) | Mangabo  Kolawole | Benin, Cotonou | 3,635 |
 | 17 | [Van064886](https://github.com/Van064886) | Vanique ATADE  | Cotonou, Benin | 3,582 |
-| 18 | [20Frederic20](https://github.com/20Frederic20) |  | Benin, Cotonou | 3,352 |
+| 18 | [20Frederic20](https://github.com/20Frederic20) |  | Benin, Cotonou | 3,353 |
 | 19 | [Aulerien](https://github.com/Aulerien) | TCHANHOUIN Amede Angel Aulerien | Benin, Cotonou | 3,239 |
-| 20 | [Kinbor1994](https://github.com/Kinbor1994) | KINNOUME S. Borel | BENIN | 3,150 |
+| 20 | [Kinbor1994](https://github.com/Kinbor1994) | KINNOUME S. Borel | BENIN | 3,183 |
 
 ## Public Contributions
 
@@ -55,7 +55,7 @@ Indexed users: 471
 | 16 | [eldomagan](https://github.com/eldomagan) | Eldo Magan | Cotonou, Benin | 732 |
 | 17 | [koladev32](https://github.com/koladev32) | Mangabo  Kolawole | Benin, Cotonou | 593 |
 | 18 | [AxelSalim](https://github.com/AxelSalim) | ADJAKIDJE K. Axel S. H. | Benin | 592 |
-| 19 | [delsDin](https://github.com/delsDin) | Dels Dinla | Benin | 588 |
+| 19 | [delsDin](https://github.com/delsDin) | Dels Dinla | Benin | 591 |
 | 20 | [Ferdinaelectro1](https://github.com/Ferdinaelectro1) | Ferdinaelectro | Abomey-Calavi, Benin | 570 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 471
 | 19 | [awarris](https://github.com/awarris) | Warris AGBANNONDE | Benin, Cotonou Ganhi | 71 |
 | 20 | [baba-mandef](https://github.com/baba-mandef) | Abiodoun Paraïso | Adjarra, Benin | 71 |
 
-Generated: 2026-10-19T07:35:59.201Z
+Generated: 2026-10-19T08:51:48.373Z

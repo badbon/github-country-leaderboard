@@ -1,12 +1,12 @@
 # Followers - Christmas Island
 
-Generated: 2026-10-19T07:41:47.818Z
+Generated: 2026-10-19T08:58:40.215Z
 
 Users: 20
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [BiteTheDDDDt](https://github.com/BiteTheDDDDt) | Pxl |  |  | Christmas Island | 69 |
+| 1 | [BiteTheDDDDt](https://github.com/BiteTheDDDDt) | Pxl |  |  | Christmas Island | 68 |
 | 2 | [dee-dee-catorce](https://github.com/dee-dee-catorce) |  |  |  | Chicago, Christmas Island | 50 |
 | 3 | [j0nk0](https://github.com/j0nk0) |  |  |  | Christmas Island | 34 |
 | 4 | [Keron-Dev](https://github.com/Keron-Dev) | Keron Lewis | @KeronDev | keron_dev | Christmas Island | 25 |

@@ -1,8 +1,8 @@
 # Followers - Uganda
 
-Generated: 2026-10-19T07:24:21.063Z
+Generated: 2026-10-19T08:38:35.081Z
 
-Users: 3865
+Users: 3864
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
