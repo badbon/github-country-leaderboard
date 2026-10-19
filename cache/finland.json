@@ -34392,18 +34392,6 @@
     "createdAt": "2021-05-30T13:30:26Z"
   },
   {
-    "login": "Petercode12",
-    "name": "Phuoc Pham Tan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/82794061?s=72&u=8566a93da624a63fa45a69d81c08310d170a4ae7&v=4",
-    "location": "Oulu, Finland",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2021-04-19T04:24:15Z"
-  },
-  {
     "login": "oxk666",
     "name": "<StuBa>",
     "avatarUrl": "https://avatars.githubusercontent.com/u/78975134?s=72&u=6ec5a809cf4ce1e5c5138da81ee9d60bbc3f4fef&v=4",
@@ -34423,8 +34411,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 18,
-    "publicContributions": 94,
+    "privateContributions": 15,
+    "publicContributions": 91,
     "createdAt": "2021-02-21T15:49:27Z"
   },
   {
@@ -34434,9 +34422,9 @@
     "location": "Finland",
     "company": "University of Turku",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 64,
-    "publicContributions": 26,
+    "followers": 8,
+    "privateContributions": 67,
+    "publicContributions": 31,
     "createdAt": "2021-08-02T08:04:06Z"
   },
   {
@@ -34447,8 +34435,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 62,
-    "publicContributions": 33,
+    "privateContributions": 118,
+    "publicContributions": 34,
     "createdAt": "2021-09-18T12:35:36Z"
   },
   {
@@ -34459,7 +34447,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 782,
+    "privateContributions": 972,
     "publicContributions": 0,
     "createdAt": "2021-02-19T14:29:58Z"
   },
@@ -34471,8 +34459,8 @@
     "company": "Vegemi",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 843,
-    "publicContributions": 81,
+    "privateContributions": 829,
+    "publicContributions": 60,
     "createdAt": "2021-09-07T11:51:20Z"
   },
   {
@@ -34482,9 +34470,9 @@
     "location": "Helsinki, Finland",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 2253,
-    "publicContributions": 151,
+    "followers": 4,
+    "privateContributions": 1685,
+    "publicContributions": 85,
     "createdAt": "2021-02-14T09:23:51Z"
   },
   {
@@ -34496,7 +34484,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 1,
-    "publicContributions": 26,
+    "publicContributions": 21,
     "createdAt": "2021-01-16T01:11:12Z"
   },
   {
@@ -34507,7 +34495,7 @@
     "company": "Veikkaus",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 256,
+    "privateContributions": 196,
     "publicContributions": 3,
     "createdAt": "2021-03-15T08:22:29Z"
   },
@@ -34519,8 +34507,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 2570,
-    "publicContributions": 640,
+    "privateContributions": 2538,
+    "publicContributions": 629,
     "createdAt": "2021-12-16T22:29:53Z"
   },
   {
@@ -34554,7 +34542,7 @@
     "location": "Vaasa, Finland",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 4,
     "privateContributions": 703,
     "publicContributions": 13,
     "createdAt": "2021-11-05T20:54:18Z"
@@ -34591,8 +34579,8 @@
     "company": "@furbsh-tech ",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 156,
-    "publicContributions": 2,
+    "privateContributions": 818,
+    "publicContributions": 4,
     "createdAt": "2021-11-05T11:55:49Z"
   },
   {
@@ -34602,8 +34590,8 @@
     "location": "Jyväskylä, Finland",
     "company": "University of Jyväskylä",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 442,
+    "followers": 8,
+    "privateContributions": 236,
     "publicContributions": 0,
     "createdAt": "2021-07-13T14:27:00Z"
   },
@@ -34615,19 +34603,19 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 54,
-    "publicContributions": 43,
+    "privateContributions": 15,
+    "publicContributions": 8,
     "createdAt": "2021-12-04T14:50:11Z"
   },
   {
     "login": "sumairhw",
     "name": "Sumair Hassan",
     "avatarUrl": "https://avatars.githubusercontent.com/u/86984915?s=72&u=8fe356451f66fede97a8162ef7f893b831da6cf3&v=4",
-    "location": "Tampere, Finland",
+    "location": "Finland",
     "company": "",
     "twitterUsername": "sumairhw",
     "followers": 5,
-    "privateContributions": 705,
+    "privateContributions": 937,
     "publicContributions": 0,
     "createdAt": "2021-07-05T20:16:06Z"
   },

@@ -7710,9 +7710,9 @@
     "location": "Iraq",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 42,
+    "publicContributions": 41,
     "createdAt": "2022-08-12T10:12:45Z"
   },
   {
@@ -7748,7 +7748,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 93,
+    "publicContributions": 92,
     "createdAt": "2022-02-22T18:55:19Z"
   },
   {
@@ -7772,7 +7772,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 75,
-    "publicContributions": 224,
+    "publicContributions": 223,
     "createdAt": "2022-01-13T22:49:08Z"
   },
   {
@@ -7784,7 +7784,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 19,
-    "publicContributions": 8,
+    "publicContributions": 11,
     "createdAt": "2022-09-11T14:14:54Z"
   },
   {
@@ -7795,7 +7795,7 @@
     "company": "courseaty",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 190,
+    "privateContributions": 222,
     "publicContributions": 11,
     "createdAt": "2022-05-06T22:24:18Z"
   },
@@ -7806,8 +7806,8 @@
     "location": "Iraq, Babil, Hilla",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 1836,
+    "followers": 3,
+    "privateContributions": 1777,
     "publicContributions": 7,
     "createdAt": "2022-07-28T10:07:46Z"
   },
@@ -7866,8 +7866,8 @@
     "location": "Erbil, Iraq",
     "company": "TorNet",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 1069,
+    "followers": 4,
+    "privateContributions": 1071,
     "publicContributions": 1,
     "createdAt": "2022-08-09T12:07:12Z"
   },

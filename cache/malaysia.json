@@ -34544,7 +34544,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 59,
+    "publicContributions": 18,
     "createdAt": "2022-05-29T16:09:42Z"
   },
   {
@@ -34567,8 +34567,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 200,
-    "publicContributions": 219,
+    "privateContributions": 197,
+    "publicContributions": 197,
     "createdAt": "2022-09-12T02:38:37Z"
   },
   {
@@ -34590,7 +34590,7 @@
     "location": "Malaysia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-05-20T15:32:23Z"
@@ -34627,8 +34627,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 107,
-    "publicContributions": 4,
+    "privateContributions": 109,
+    "publicContributions": 0,
     "createdAt": "2022-10-11T16:58:53Z"
   },
   {
@@ -34700,7 +34700,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 38,
+    "publicContributions": 41,
     "createdAt": "2022-05-08T14:40:52Z"
   },
   {
@@ -34711,7 +34711,7 @@
     "company": "WIPDATA",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 670,
+    "privateContributions": 616,
     "publicContributions": 31,
     "createdAt": "2022-01-08T08:20:53Z"
   },
@@ -34759,8 +34759,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 780,
-    "publicContributions": 56,
+    "privateContributions": 616,
+    "publicContributions": 167,
     "createdAt": "2022-03-18T13:53:48Z"
   },
   {
@@ -141478,5 +141478,17 @@
     "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2026-07-04T19:27:16Z"
+  },
+  {
+    "login": "nasyitahrohizat",
+    "name": "nasyitah",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/300080585?s=72&v=4",
+    "location": "Malaysia",
+    "company": "UiTM",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2026-07-05T10:20:36Z"
   }
 ]
