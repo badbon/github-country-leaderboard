@@ -16,7 +16,7 @@ Indexed users: 325
 | 2 | [Shoneel](https://github.com/Shoneel) |  | Fiji, Suva  | 1,555 |
 | 3 | [Amdeo](https://github.com/Amdeo) | Cooper | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1,456 |
 | 4 | [felix-davui-679](https://github.com/felix-davui-679) | Filimone Davui | Fiji | 1,381 |
-| 5 | [krishneelkamalsingh](https://github.com/krishneelkamalsingh) | Krish | Fiji | 1,187 |
+| 5 | [krishneelkamalsingh](https://github.com/krishneelkamalsingh) | Krish | Fiji | 1,212 |
 | 6 | [crazybanboo](https://github.com/crazybanboo) | Ethan | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1,084 |
 | 7 | [jaclla](https://github.com/jaclla) | Logic | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1,031 |
 | 8 | [ApophisX](https://github.com/ApophisX) | GienWang | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1,012 |
@@ -68,7 +68,7 @@ Indexed users: 325
 | 4 | [anav5704](https://github.com/anav5704) | Anav Chand | Fiji | 66 |
 | 5 | [navneil-naicker](https://github.com/navneil-naicker) | Navneil Naicker | Suva City, Central, Fiji | 66 |
 | 6 | [GeekTR](https://github.com/GeekTR) | Rui Tang | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 65 |
-| 7 | [Iapa](https://github.com/Iapa) | Ava Niu | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 39 |
+| 7 | [Iapa](https://github.com/Iapa) | Ava Niu | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 40 |
 | 8 | [JonGates](https://github.com/JonGates) | Jon Gates | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 33 |
 | 9 | [Pranav-XP](https://github.com/Pranav-XP) | Pranav | Fiji | 33 |
 | 10 | [mucsbr](https://github.com/mucsbr) | beingS | 0558 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 28 |
@@ -83,4 +83,4 @@ Indexed users: 325
 | 19 | [SMani0547](https://github.com/SMani0547) | Shiva Mani Goundar | Nadi, Fiji | 21 |
 | 20 | [aryann-7](https://github.com/aryann-7) | Aryan Singh | Suva, Fiji | 19 |
 
-Generated: 2026-10-19T07:50:38.049Z
+Generated: 2026-10-19T09:09:31.578Z

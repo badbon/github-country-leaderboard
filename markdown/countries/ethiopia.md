@@ -40,14 +40,14 @@ Indexed users: 6,679
 | 1 | [Bereket-Ketema](https://github.com/Bereket-Ketema) | Bereket Ketema | Adama, Ethiopia | 4,854 |
 | 2 | [mohammedsbd](https://github.com/mohammedsbd) | Mohammed Salih | Addis Ababa | 4,213 |
 | 3 | [Rick1330](https://github.com/Rick1330) | Elshaday Mengesha | Addis Ababa | 3,689 |
-| 4 | [poricf](https://github.com/poricf) | Fahmi Dinsefa | Ethiopia | 3,646 |
-| 5 | [samuelabera21](https://github.com/samuelabera21) | Samuel Abera | Ethiopia  | 3,560 |
-| 6 | [Hailemeskel-Getaneh](https://github.com/Hailemeskel-Getaneh) | Hailemeskel Getaneh | Debre Birhan, Ethiopia | 3,491 |
-| 7 | [Thyon3](https://github.com/Thyon3) | Asnake Mengesha (Thyon) | Addis Ababa  | 3,469 |
-| 8 | [hiruy72](https://github.com/hiruy72) | Hiruy Legesse Adane | Addis Ababa, Ethiopia | 3,390 |
-| 9 | [Yoseph-M](https://github.com/Yoseph-M) | Yoseph_M | Addis Ababa, Ethiopia | 3,388 |
-| 10 | [j-ordanos](https://github.com/j-ordanos) | Yordanos Zewge | Addis Ababa, Ethiopia | 3,193 |
-| 11 | [yared2124](https://github.com/yared2124) | yared aregayehu | Addis Ababa | 2,980 |
+| 4 | [samuelabera21](https://github.com/samuelabera21) | Samuel Abera | Ethiopia  | 3,560 |
+| 5 | [Hailemeskel-Getaneh](https://github.com/Hailemeskel-Getaneh) | Hailemeskel Getaneh | Debre Birhan, Ethiopia | 3,491 |
+| 6 | [Thyon3](https://github.com/Thyon3) | Asnake Mengesha (Thyon) | Addis Ababa  | 3,469 |
+| 7 | [hiruy72](https://github.com/hiruy72) | Hiruy Legesse Adane | Addis Ababa, Ethiopia | 3,390 |
+| 8 | [Yoseph-M](https://github.com/Yoseph-M) | Yoseph_M | Addis Ababa, Ethiopia | 3,388 |
+| 9 | [j-ordanos](https://github.com/j-ordanos) | Yordanos Zewge | Addis Ababa, Ethiopia | 3,193 |
+| 10 | [yared2124](https://github.com/yared2124) | yared aregayehu | Addis Ababa | 2,980 |
+| 11 | [poricf](https://github.com/poricf) | Fahmi Dinsefa | Ethiopia | 2,863 |
 | 12 | [Temamamankabeto](https://github.com/Temamamankabeto) | Temam | ethiopia | 2,775 |
 | 13 | [soltsega](https://github.com/soltsega) | Solomon Tsega | Addis Ababa | 2,685 |
 | 14 | [kaleab-kali](https://github.com/kaleab-kali) | kaleab Girma | Addis Ababa, Ethiopia | 2,667 |
@@ -83,4 +83,4 @@ Indexed users: 6,679
 | 19 | [yonasleykun27](https://github.com/yonasleykun27) | Yonas Leykun | Addis Ababa, Ethiopia  | 511 |
 | 20 | [Olyadtemesgen](https://github.com/Olyadtemesgen) | Olyad Temesgen Amsalu | Addis Ababa, Ethiopia | 501 |
 
-Generated: 2026-10-19T07:50:29.699Z
+Generated: 2026-10-19T09:08:14.856Z

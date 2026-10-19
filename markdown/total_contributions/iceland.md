@@ -1,6 +1,6 @@
 # Total Contributions - Iceland
 
-Generated: 2026-10-19T07:59:28.423Z
+Generated: 2026-10-19T09:16:23.013Z
 
 Users: 1579
 
@@ -17,9 +17,9 @@ Users: 1579
 | 9 | [bgunnarsson](https://github.com/bgunnarsson) | B. Gunnarsson | @Vettvangur  | bgunnarssonis | Iceland | 11601 |
 | 10 | [DavidBachmann](https://github.com/DavidBachmann) | Davíð Bachmann | @aranja  |  | Iceland | 9699 |
 | 11 | [sandsower](https://github.com/sandsower) | Vic Valenzuela |  |  | Reykjavík, Iceland | 9507 |
-| 12 | [sarnason](https://github.com/sarnason) | Steingrímur Árnason |  |  | Reykjavik, Iceland | 8479 |
-| 13 | [rbjarnason](https://github.com/rbjarnason) | Róbert Viðar Bjarnason | Citizens Foundation |  | Iceland | 7954 |
-| 14 | [olioskar](https://github.com/olioskar) | Olafur O. Egilsson | Tero |  | Reykjavik | 7571 |
+| 12 | [olioskar](https://github.com/olioskar) | Olafur O. Egilsson | Tero |  | Reykjavik | 8482 |
+| 13 | [sarnason](https://github.com/sarnason) | Steingrímur Árnason |  |  | Reykjavik, Iceland | 8479 |
+| 14 | [rbjarnason](https://github.com/rbjarnason) | Róbert Viðar Bjarnason | Citizens Foundation |  | Iceland | 7954 |
 | 15 | [RationallyPrime](https://github.com/RationallyPrime) | Hákon Freyr Gunnarsson | Sókrates |  | Iceland | 7475 |
 | 16 | [bjornj12](https://github.com/bjornj12) | Björn Ólafur Jóhannsson | @avohq | bjornolafur | iceland | 7381 |
 | 17 | [arnavmehta7](https://github.com/arnavmehta7) | Arnav Mehta |  |  | Island | 6770 |

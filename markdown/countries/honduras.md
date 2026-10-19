@@ -30,8 +30,8 @@ Indexed users: 1,258
 | 16 | [Emiliano-Agurcia](https://github.com/Emiliano-Agurcia) | Emiliano Agurcia | Honduras | 4,989 |
 | 17 | [Gianmembreno](https://github.com/Gianmembreno) | Gian Membreno | Honduras | 4,471 |
 | 18 | [williamstevencole](https://github.com/williamstevencole) | William Steven Cole Paz | San Pedro Sula, Cortes, Honduras | 4,396 |
-| 19 | [MarionMBC](https://github.com/MarionMBC) | Marion Bustamante | Honduras | 4,171 |
-| 20 | [andresumanzor](https://github.com/andresumanzor) | Andrés Umanzor | San Pedro Sula, Honduras | 4,144 |
+| 19 | [danielbanariba](https://github.com/danielbanariba) | Daniel Banariba | Honduras | 4,206 |
+| 20 | [MarionMBC](https://github.com/MarionMBC) | Marion Bustamante | Honduras | 4,171 |
 
 ## Public Contributions
 
@@ -47,7 +47,7 @@ Indexed users: 1,258
 | 8 | [salp2403](https://github.com/salp2403) | Said Arturo Lopez | Honduras | 1,473 |
 | 9 | [kevinhndz](https://github.com/kevinhndz) | Kevin Hernandez | Comayagua, Honduras | 1,465 |
 | 10 | [desivar](https://github.com/desivar) | Desire Delmy Vargas Tinoco | La Paz, La Paz, Honduras | 1,187 |
-| 11 | [danielbanariba](https://github.com/danielbanariba) | Daniel Banariba | Honduras | 1,089 |
+| 11 | [danielbanariba](https://github.com/danielbanariba) | Daniel Banariba | Honduras | 1,090 |
 | 12 | [hnkatze](https://github.com/hnkatze) | Camilo Henriquez | Honduras | 1,085 |
 | 13 | [antoniolocandro](https://github.com/antoniolocandro) | Antonio Locandro | Honduras | 936 |
 | 14 | [ingricardotoro](https://github.com/ingricardotoro) | MARVIN RICARDO TORO CRUZ | Tegucigalpa | 904 |
@@ -83,4 +83,4 @@ Indexed users: 1,258
 | 19 | [christiansc96](https://github.com/christiansc96) | Christian Sánchez | San Pedro Sula, Honduras | 56 |
 | 20 | [Asterki](https://github.com/Asterki) | Fernando Rivera | Honduras | 55 |
 
-Generated: 2026-10-19T07:58:20.642Z
+Generated: 2026-10-19T09:15:06.511Z

@@ -16,7 +16,7 @@ Indexed users: 155
 | 2 | [auberryberry](https://github.com/auberryberry) | Aubrey Stearn | Isle of Man | 10,355 |
 | 3 | [bengris32](https://github.com/bengris32) | Ben | Isle of Man | 8,448 |
 | 4 | [darrenbarklie](https://github.com/darrenbarklie) | Darren Barklie | Isle of Man | 4,519 |
-| 5 | [tekminewe](https://github.com/tekminewe) | Ewe Tek Min | Isle of Man | 3,630 |
+| 5 | [tekminewe](https://github.com/tekminewe) | Ewe Tek Min | Isle of Man | 3,644 |
 | 6 | [dive](https://github.com/dive) | Artem Loenko | Isle of Man | 2,160 |
 | 7 | [oliciv](https://github.com/oliciv) | Oli Allen | Isle of Man | 2,010 |
 | 8 | [lukawarren](https://github.com/lukawarren) | Luka Warren | Isle of Man | 1,947 |
@@ -83,4 +83,4 @@ Indexed users: 155
 | 19 | [lwangenheim](https://github.com/lwangenheim) | Lee Wangenheim | Isle of Man | 19 |
 | 20 | [DanAnkers](https://github.com/DanAnkers) | Daniel Ankers | Isle of Man | 18 |
 
-Generated: 2026-10-19T08:01:01.772Z
+Generated: 2026-10-19T09:16:59.974Z

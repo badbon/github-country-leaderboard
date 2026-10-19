@@ -1,6 +1,6 @@
 # Followers - Fiji
 
-Generated: 2026-10-19T07:50:38.049Z
+Generated: 2026-10-19T09:09:31.578Z
 
 Users: 325
 
@@ -12,7 +12,7 @@ Users: 325
 | 4 | [anav5704](https://github.com/anav5704) | Anav Chand | Pacific Technologies |  | Fiji | 66 |
 | 5 | [navneil-naicker](https://github.com/navneil-naicker) | Navneil Naicker |  |  | Suva City, Central, Fiji | 66 |
 | 6 | [GeekTR](https://github.com/GeekTR) | Rui Tang | Zenaida Orn Company |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 65 |
-| 7 | [Iapa](https://github.com/Iapa) | Ava Niu |  |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 39 |
+| 7 | [Iapa](https://github.com/Iapa) | Ava Niu |  |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 40 |
 | 8 | [JonGates](https://github.com/JonGates) | Jon Gates | Zenaida Orn Company |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 33 |
 | 9 | [Pranav-XP](https://github.com/Pranav-XP) | Pranav |  |  | Fiji | 33 |
 | 10 | [mucsbr](https://github.com/mucsbr) | beingS | Zenaida |  | 0558 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 28 |

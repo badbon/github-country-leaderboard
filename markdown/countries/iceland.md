@@ -23,9 +23,9 @@ Indexed users: 1,579
 | 9 | [bgunnarsson](https://github.com/bgunnarsson) | B. Gunnarsson | Iceland | 11,601 |
 | 10 | [DavidBachmann](https://github.com/DavidBachmann) | Davíð Bachmann | Iceland | 9,699 |
 | 11 | [sandsower](https://github.com/sandsower) | Vic Valenzuela | Reykjavík, Iceland | 9,507 |
-| 12 | [sarnason](https://github.com/sarnason) | Steingrímur Árnason | Reykjavik, Iceland | 8,479 |
-| 13 | [rbjarnason](https://github.com/rbjarnason) | Róbert Viðar Bjarnason | Iceland | 7,954 |
-| 14 | [olioskar](https://github.com/olioskar) | Olafur O. Egilsson | Reykjavik | 7,571 |
+| 12 | [olioskar](https://github.com/olioskar) | Olafur O. Egilsson | Reykjavik | 8,482 |
+| 13 | [sarnason](https://github.com/sarnason) | Steingrímur Árnason | Reykjavik, Iceland | 8,479 |
+| 14 | [rbjarnason](https://github.com/rbjarnason) | Róbert Viðar Bjarnason | Iceland | 7,954 |
 | 15 | [RationallyPrime](https://github.com/RationallyPrime) | Hákon Freyr Gunnarsson | Iceland | 7,475 |
 | 16 | [bjornj12](https://github.com/bjornj12) | Björn Ólafur Jóhannsson | iceland | 7,381 |
 | 17 | [arnavmehta7](https://github.com/arnavmehta7) | Arnav Mehta | Island | 6,770 |
@@ -43,7 +43,7 @@ Indexed users: 1,579
 | 4 | [karirafn](https://github.com/karirafn) | Kári Rafn Karlsson | Akranes, Iceland | 3,577 |
 | 5 | [HermannBjorgvin](https://github.com/HermannBjorgvin) | Hermann Björgvin | Reykjavík, Iceland | 3,378 |
 | 6 | [philcockfield](https://github.com/philcockfield) | Phil Cockfield | island( waiheke( nz )) | 2,986 |
-| 7 | [Raudbjorn](https://github.com/Raudbjorn) | Sveinbjörn Geirsson | Reykjavik | 2,720 |
+| 7 | [Raudbjorn](https://github.com/Raudbjorn) | Sveinbjörn Geirsson | Reykjavik | 2,838 |
 | 8 | [bjorndarri](https://github.com/bjorndarri) | Björn Darri Sigurðsson | Reykjavík, Iceland | 2,471 |
 | 9 | [gardarthorsteins](https://github.com/gardarthorsteins) | Garðar Þorsteinsson | Reykjavík, Iceland | 2,436 |
 | 10 | [jokull](https://github.com/jokull) | Jökull Sólberg Auðunsson | Reykjavík, Iceland | 2,163 |
@@ -83,4 +83,4 @@ Indexed users: 1,579
 | 19 | [jokull](https://github.com/jokull) | Jökull Sólberg Auðunsson | Reykjavík, Iceland | 209 |
 | 20 | [kevien](https://github.com/kevien) | K3vin | iceland | 204 |
 
-Generated: 2026-10-19T07:59:28.423Z
+Generated: 2026-10-19T09:16:23.013Z

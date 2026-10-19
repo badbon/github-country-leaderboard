@@ -97,12 +97,12 @@ Published countries: 234
 | Heard Island and McDonald Islands | 3 | [View](./heard_island_and_mcdonald_islands.md) |
 | Honduras | 1,258 | [View](./honduras.md) |
 | Hong Kong | 10,264 | [View](./hong_kong.md) |
-| Hungary | 11,168 | [View](./hungary.md) |
+| Hungary | 11,167 | [View](./hungary.md) |
 | Iceland | 1,579 | [View](./iceland.md) |
-| Indonesia | 63,290 | [View](./indonesia.md) |
-| Iran | 26,863 | [View](./iran.md) |
+| Indonesia | 63,289 | [View](./indonesia.md) |
+| Iran | 26,862 | [View](./iran.md) |
 | Iraq | 2,233 | [View](./iraq.md) |
-| Ireland | 19,490 | [View](./ireland.md) |
+| Ireland | 19,488 | [View](./ireland.md) |
 | Isle of Man | 155 | [View](./isle_of_man.md) |
 | Israel | 12,421 | [View](./israel.md) |
 | Ivory Coast | 488 | [View](./ivory_coast.md) |
@@ -239,4 +239,4 @@ Published countries: 234
 | Zambia | 1,337 | [View](./zambia.md) |
 | Zimbabwe | 1,656 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-19T09:06:47.771Z
+Generated: 2026-10-19T09:18:10.825Z
