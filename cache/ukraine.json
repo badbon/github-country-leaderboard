@@ -35448,18 +35448,6 @@
     "createdAt": "2023-06-22T13:22:06Z"
   },
   {
-    "login": "quanttum1",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/133568732?s=72&u=c6105c5f040f01b5fdcecebbf07fa0cfc3f0fec0&v=4",
-    "location": "Ukraine",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 60,
-    "publicContributions": 368,
-    "createdAt": "2023-05-14T09:18:26Z"
-  },
-  {
     "login": "KsiRT",
     "name": "Andrii Makarishyn",
     "avatarUrl": "https://avatars.githubusercontent.com/u/130671776?s=72&u=4e8ff6b7771be5aa5a554a6736175dfacde6e360&v=4",
@@ -35468,7 +35456,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 0,
     "createdAt": "2023-04-13T13:20:57Z"
   },
   {
@@ -35478,9 +35466,9 @@
     "location": "Ukraine",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 37,
     "createdAt": "2023-05-08T09:26:41Z"
   },
   {
@@ -35490,7 +35478,7 @@
     "location": "Ukraine",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2023-04-04T20:45:18Z"
@@ -35503,8 +35491,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 666,
-    "publicContributions": 78,
+    "privateContributions": 934,
+    "publicContributions": 76,
     "createdAt": "2023-04-18T21:53:21Z"
   },
   {
@@ -35516,7 +35504,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 30,
-    "publicContributions": 51,
+    "publicContributions": 48,
     "createdAt": "2023-04-27T20:20:11Z"
   },
   {
@@ -35527,8 +35515,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 183,
-    "publicContributions": 13,
+    "privateContributions": 403,
+    "publicContributions": 26,
     "createdAt": "2023-06-13T11:15:49Z"
   },
   {
@@ -35538,21 +35526,21 @@
     "location": "Ukraine, Kharkiv",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 280,
-    "publicContributions": 745,
+    "followers": 7,
+    "privateContributions": 251,
+    "publicContributions": 565,
     "createdAt": "2023-06-19T19:37:55Z"
   },
   {
     "login": "SMYRNOVA42",
     "name": "Viktoriia Smyrnova",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/130072336?s=72&u=9fdac2db4fbd5c23d67955f425d25f125683193f&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/130072336?s=72&u=dd4d0459f635855e452d0e37a269987a53d749c7&v=4",
     "location": "Ukraine, Lviv",
     "company": "OX Company",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 5,
     "createdAt": "2023-04-06T14:19:55Z"
   },
   {
@@ -35562,9 +35550,9 @@
     "location": "Ukraine, Kyiv",
     "company": "Dnipro-M",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 7,
-    "publicContributions": 411,
+    "publicContributions": 704,
     "createdAt": "2023-06-02T09:45:04Z"
   },
   {
@@ -35588,7 +35576,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 494,
+    "publicContributions": 354,
     "createdAt": "2023-04-29T12:51:33Z"
   },
   {
@@ -35600,7 +35588,7 @@
     "twitterUsername": "VZezelin20444",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 334,
     "createdAt": "2023-05-29T16:24:01Z"
   },
   {
@@ -35612,20 +35600,8 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 42,
+    "publicContributions": 38,
     "createdAt": "2023-06-18T18:45:27Z"
-  },
-  {
-    "login": "slonce70",
-    "name": "slonce70",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/130596182?s=72&u=e4774c4f0d84a94d6bfbf84f1d8b9bbdb43e2971&v=4",
-    "location": "Ukraine",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 3381,
-    "createdAt": "2023-04-12T18:03:25Z"
   },
   {
     "login": "DeadMakar",

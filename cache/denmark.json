@@ -35995,8 +35995,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 10,
-    "publicContributions": 370,
+    "privateContributions": 14,
+    "publicContributions": 337,
     "createdAt": "2021-08-09T17:45:16Z"
   },
   {
@@ -36060,18 +36060,6 @@
     "createdAt": "2021-05-03T09:48:35Z"
   },
   {
-    "login": "RTNordkvist",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/83634398?s=72&u=35bcae06e051873e2fa366637975eb2cb2785725&v=4",
-    "location": "Roskilde, Denmark",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2021-05-04T07:09:57Z"
-  },
-  {
     "login": "NNcdn",
     "name": "Claus Dethlefsen",
     "avatarUrl": "https://avatars.githubusercontent.com/u/85886442?s=72&u=64a169fd434e3014943068eb18c0478da3f0e423&v=4",
@@ -36090,7 +36078,7 @@
     "location": "Denmark",
     "company": "@oliverapps",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 69,
     "createdAt": "2021-03-29T19:48:34Z"
@@ -36122,12 +36110,12 @@
   {
     "login": "etoshiy",
     "name": "eto",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/80982123?s=72&u=2499cd89d10fc972a79ec7aeb7c731de853ed6c6&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/80982123?s=72&u=e5c29eb800878dd75f06b60d4806063d0dbdc742&v=4",
     "location": "Copenhagen, Denmark",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 103,
+    "followers": 2,
+    "privateContributions": 115,
     "publicContributions": 4,
     "createdAt": "2021-03-19T18:52:12Z"
   },
@@ -36194,13 +36182,13 @@
   {
     "login": "jahrkob",
     "name": "jahrkob",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/95243077?s=72&u=15f13872135c133a24d19a4d3f3e5d460c07726b&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/95243077?s=72&u=b6ee1cbb942ccce4436a01a68e469988d5e01241&v=4",
     "location": "Denmark",
     "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 2,
-    "publicContributions": 172,
+    "twitterUsername": "jahrkob",
+    "followers": 3,
+    "privateContributions": 7,
+    "publicContributions": 119,
     "createdAt": "2021-11-29T17:42:06Z"
   },
   {
@@ -36208,10 +36196,10 @@
     "name": "Peter Hye Nielsen",
     "avatarUrl": "https://avatars.githubusercontent.com/u/80369626?s=72&v=4",
     "location": "Odense, Denmark",
-    "company": "InCite Robotics",
+    "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 288,
+    "privateContributions": 168,
     "publicContributions": 10,
     "createdAt": "2021-03-10T01:22:47Z"
   },

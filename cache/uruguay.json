@@ -35732,7 +35732,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 2,
     "createdAt": "2019-09-24T12:54:08Z"
   },
   {
@@ -35743,8 +35743,8 @@
     "company": "AVEN HOSPITALITY",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 3,
-    "publicContributions": 3,
+    "privateContributions": 273,
+    "publicContributions": 0,
     "createdAt": "2019-06-22T01:34:44Z"
   },
   {
@@ -35756,7 +35756,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 3,
     "createdAt": "2019-01-17T17:24:04Z"
   },
   {
@@ -35792,7 +35792,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 67,
-    "publicContributions": 152,
+    "publicContributions": 89,
     "createdAt": "2019-08-21T19:41:34Z"
   },
   {
@@ -35814,7 +35814,7 @@
     "location": "Uruguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2019-09-04T00:45:23Z"
@@ -35863,7 +35863,7 @@
     "company": "Universidad Católica del Uruguay",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 557,
+    "privateContributions": 628,
     "publicContributions": 0,
     "createdAt": "2019-07-12T21:32:55Z"
   },
@@ -35881,7 +35881,7 @@
   },
   {
     "login": "Facundo27",
-    "name": "Facundo",
+    "name": "Otter42",
     "avatarUrl": "https://avatars.githubusercontent.com/u/52639716?s=72&u=7671b3d999e71675108f6bcbc1a4e558d99703af&v=4",
     "location": "Montevideo, Uruguay",
     "company": "Acerca Tech",
@@ -35892,18 +35892,6 @@
     "createdAt": "2019-07-08T00:11:53Z"
   },
   {
-    "login": "GonzMS",
-    "name": "Gonzalo Montero",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/50244450?s=72&v=4",
-    "location": "Uruguay",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 203,
-    "publicContributions": 0,
-    "createdAt": "2019-05-03T16:50:01Z"
-  },
-  {
     "login": "BrianAcos",
     "name": "Brian Acosta",
     "avatarUrl": "https://avatars.githubusercontent.com/u/49461936?s=72&u=3542c683ae658819ff3809c79b2fc1882baa15e8&v=4",
@@ -35912,7 +35900,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 3,
     "createdAt": "2019-04-10T00:29:43Z"
   },
   {

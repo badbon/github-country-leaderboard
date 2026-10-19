@@ -1354831,7 +1354831,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 34,
-    "privateContributions": 22793,
+    "privateContributions": 22802,
     "publicContributions": 3,
     "createdAt": "2013-02-27T13:51:34Z"
   },
@@ -1354915,7 +1354915,7 @@
     "company": "TNG Consulting Inc.",
     "twitterUsername": "",
     "followers": 33,
-    "privateContributions": 1598,
+    "privateContributions": 1600,
     "publicContributions": 258,
     "createdAt": "2013-03-08T12:22:37Z"
   },
@@ -1371740,7 +1371740,7 @@
     "twitterUsername": "",
     "followers": 1656,
     "privateContributions": 1527,
-    "publicContributions": 316,
+    "publicContributions": 314,
     "createdAt": "2013-06-18T22:39:16Z"
   },
   {
@@ -1379983,7 +1379983,7 @@
     "company": "Arcnovus",
     "twitterUsername": "",
     "followers": 327,
-    "privateContributions": 8138,
+    "privateContributions": 8151,
     "publicContributions": 136,
     "createdAt": "2013-07-06T04:27:19Z"
   },
@@ -1380643,7 +1380643,7 @@
     "company": "NetBox Labs",
     "twitterUsername": "",
     "followers": 39,
-    "privateContributions": 3465,
+    "privateContributions": 3466,
     "publicContributions": 151,
     "createdAt": "2013-07-08T14:51:00Z"
   },
@@ -1387675,7 +1387675,7 @@
     "company": "@team-telnyx ",
     "twitterUsername": "",
     "followers": 50,
-    "privateContributions": 1891,
+    "privateContributions": 1892,
     "publicContributions": 176,
     "createdAt": "2013-09-24T22:13:18Z"
   },
@@ -1424791,7 +1424791,7 @@
     "company": "Shopify",
     "twitterUsername": "",
     "followers": 127,
-    "privateContributions": 3213,
+    "privateContributions": 3217,
     "publicContributions": 1,
     "createdAt": "2013-09-18T15:25:30Z"
   },
@@ -1425007,7 +1425007,7 @@
     "company": "CNN @ WBD",
     "twitterUsername": "",
     "followers": 35,
-    "privateContributions": 830,
+    "privateContributions": 831,
     "publicContributions": 0,
     "createdAt": "2013-01-31T19:33:00Z"
   },
@@ -1425031,7 +1425031,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 34,
-    "privateContributions": 809,
+    "privateContributions": 810,
     "publicContributions": 0,
     "createdAt": "2013-11-01T09:50:11Z"
   },
@@ -1425394,5 +1425394,17 @@
     "privateContributions": 0,
     "publicContributions": 51,
     "createdAt": "2023-09-12T23:05:30Z"
+  },
+  {
+    "login": "banlon-jones",
+    "name": "Banlon Jones",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/52419124?s=72&u=c435e7b38b59035bf0790416d6dcc3a97a9b96dd&v=4",
+    "location": "Ottawa, Canada",
+    "company": "Busibee.io",
+    "twitterUsername": "",
+    "followers": 31,
+    "privateContributions": 34,
+    "publicContributions": 0,
+    "createdAt": "2019-07-01T15:23:06Z"
   }
 ]
