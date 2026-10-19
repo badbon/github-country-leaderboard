@@ -1,12 +1,12 @@
 # Total Contributions - Ethiopia
 
-Generated: 2026-10-19T01:27:19.062Z
+Generated: 2026-10-19T02:37:01.063Z
 
-Users: 6682
+Users: 6679
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [Ananya-Addisu](https://github.com/Ananya-Addisu) | Ananya Addisu |  | aniwkn | Addis Ababa, Ethiopia | 40973 |
+| 1 | [Ananya-Addisu](https://github.com/Ananya-Addisu) | Ananya Addisu |  | aniwkn | Addis Ababa, Ethiopia | 41189 |
 | 2 | [Micky373](https://github.com/Micky373) | Michael Tamirie | Upwork |  | Ethiopia, Addis Ababa | 22330 |
 | 3 | [Tesfamariam-Gebre](https://github.com/Tesfamariam-Gebre) | Tesfamariam Gebre |  |  | Ethiopia, Addis Ababa | 15677 |
 | 4 | [Yab1](https://github.com/Yab1) | Yeabsera  |  |  | Ethiopia | 14365 |
@@ -21,8 +21,8 @@ Users: 6682
 | 13 | [abela12](https://github.com/abela12) | Abel Berhanu | @gashadigital @siltawi  |  | Ethiopia , Addis Abeba | 8394 |
 | 14 | [AmarAhmedDev](https://github.com/AmarAhmedDev) | Amar Ahmed |  |  | Ethiopia | 8340 |
 | 15 | [Olyadtemesgen](https://github.com/Olyadtemesgen) | Olyad Temesgen Amsalu | @xgnosis |  | Addis Ababa, Ethiopia | 8205 |
-| 16 | [onesamket](https://github.com/onesamket) | Tewodros Birhanu | @siket-apps  | onesamket | Addis Ababa, Ethiopia | 8100 |
-| 17 | [demamano](https://github.com/demamano) | Dema Amano | Addis Ababa University | amano_dema | Ethiopia , Addis Ababa | 7886 |
+| 16 | [demamano](https://github.com/demamano) | Dema Amano | Addis Ababa University | amano_dema | Ethiopia , Addis Ababa | 7886 |
+| 17 | [onesamket](https://github.com/onesamket) | Tewodros Birhanu | @siket-apps  | onesamket | Addis Ababa, Ethiopia | 7778 |
 | 18 | [melaku-z](https://github.com/melaku-z) | Melaku Zewdu |  |  | Ethiopia | 7017 |
 | 19 | [black12-ag](https://github.com/black12-ag) | Munir Kabir | @ethio-viral |  | Addis Ababa | 6761 |
 | 20 | [YeabHustles](https://github.com/YeabHustles) | Yeabkibir Tadesse | Solvix Labs  | yeabhustles | Addis Ababa , Ethiopia | 6757 |

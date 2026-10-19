@@ -1,6 +1,6 @@
 # Ethiopia
 
-Indexed users: 6,682
+Indexed users: 6,679
 
 | Leaderboard | Link |
 |---|---|
@@ -12,7 +12,7 @@ Indexed users: 6,682
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [Ananya-Addisu](https://github.com/Ananya-Addisu) | Ananya Addisu | Addis Ababa, Ethiopia | 40,973 |
+| 1 | [Ananya-Addisu](https://github.com/Ananya-Addisu) | Ananya Addisu | Addis Ababa, Ethiopia | 41,189 |
 | 2 | [Micky373](https://github.com/Micky373) | Michael Tamirie | Ethiopia, Addis Ababa | 22,330 |
 | 3 | [Tesfamariam-Gebre](https://github.com/Tesfamariam-Gebre) | Tesfamariam Gebre | Ethiopia, Addis Ababa | 15,677 |
 | 4 | [Yab1](https://github.com/Yab1) | Yeabsera  | Ethiopia | 14,365 |
@@ -27,8 +27,8 @@ Indexed users: 6,682
 | 13 | [abela12](https://github.com/abela12) | Abel Berhanu | Ethiopia , Addis Abeba | 8,394 |
 | 14 | [AmarAhmedDev](https://github.com/AmarAhmedDev) | Amar Ahmed | Ethiopia | 8,340 |
 | 15 | [Olyadtemesgen](https://github.com/Olyadtemesgen) | Olyad Temesgen Amsalu | Addis Ababa, Ethiopia | 8,205 |
-| 16 | [onesamket](https://github.com/onesamket) | Tewodros Birhanu | Addis Ababa, Ethiopia | 8,100 |
-| 17 | [demamano](https://github.com/demamano) | Dema Amano | Ethiopia , Addis Ababa | 7,886 |
+| 16 | [demamano](https://github.com/demamano) | Dema Amano | Ethiopia , Addis Ababa | 7,886 |
+| 17 | [onesamket](https://github.com/onesamket) | Tewodros Birhanu | Addis Ababa, Ethiopia | 7,778 |
 | 18 | [melaku-z](https://github.com/melaku-z) | Melaku Zewdu | Ethiopia | 7,017 |
 | 19 | [black12-ag](https://github.com/black12-ag) | Munir Kabir | Addis Ababa | 6,761 |
 | 20 | [YeabHustles](https://github.com/YeabHustles) | Yeabkibir Tadesse | Addis Ababa , Ethiopia | 6,757 |
@@ -83,4 +83,4 @@ Indexed users: 6,682
 | 19 | [yonasleykun27](https://github.com/yonasleykun27) | Yonas Leykun | Addis Ababa, Ethiopia  | 511 |
 | 20 | [Olyadtemesgen](https://github.com/Olyadtemesgen) | Olyad Temesgen Amsalu | Addis Ababa, Ethiopia | 501 |
 
-Generated: 2026-10-19T01:27:19.062Z
+Generated: 2026-10-19T02:37:01.063Z

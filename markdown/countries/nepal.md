@@ -13,14 +13,14 @@ Indexed users: 14,104
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [Azathothas](https://github.com/Azathothas) | Ajam | Nepal | 25,137 |
-| 2 | [comethrusws](https://github.com/comethrusws) | Basab Jha | Bhaktapur, Nepal | 21,433 |
+| 2 | [comethrusws](https://github.com/comethrusws) | Basab Jha | Bhaktapur, Nepal | 23,040 |
 | 3 | [Forgesaroj](https://github.com/Forgesaroj) | Saroj Rijal | Chitwan,Nepal | 19,372 |
 | 4 | [cmthakur](https://github.com/cmthakur) | Chandra M. Thakur | Nepal | 17,310 |
 | 5 | [stayrahul](https://github.com/stayrahul) | Rahul Kushwaha | Kathmandu | 15,184 |
-| 6 | [Prabesh01](https://github.com/Prabesh01) | Prabesh Sapkota | Nepal | 13,034 |
-| 7 | [anamolsapkota](https://github.com/anamolsapkota) | Anamol Sapkota | Nepal | 13,026 |
-| 8 | [birajrai](https://github.com/birajrai) | Biraj Rai | Nepal | 12,650 |
-| 9 | [codersantoshadhikari](https://github.com/codersantoshadhikari) | SANTOSH ADHIKARI | kathmandu,Nepal | 12,170 |
+| 6 | [codersantoshadhikari](https://github.com/codersantoshadhikari) | SANTOSH ADHIKARI | kathmandu,Nepal | 13,284 |
+| 7 | [Prabesh01](https://github.com/Prabesh01) | Prabesh Sapkota | Nepal | 13,034 |
+| 8 | [anamolsapkota](https://github.com/anamolsapkota) | Anamol Sapkota | Nepal | 13,026 |
+| 9 | [birajrai](https://github.com/birajrai) | Biraj Rai | Nepal | 12,650 |
 | 10 | [Avinash0x1](https://github.com/Avinash0x1) | Avinash Thakur | Nepal | 11,696 |
 | 11 | [madhav-acharya](https://github.com/madhav-acharya) | Madhav Acharya | Gothgaun, Nepal | 11,658 |
 | 12 | [manishsainju](https://github.com/manishsainju) | Ma Ni Sh | Nepal | 11,616 |
@@ -38,8 +38,8 @@ Indexed users: 14,104
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [Azathothas](https://github.com/Azathothas) | Ajam | Nepal | 23,887 |
-| 2 | [Prabesh01](https://github.com/Prabesh01) | Prabesh Sapkota | Nepal | 12,180 |
-| 3 | [codersantoshadhikari](https://github.com/codersantoshadhikari) | SANTOSH ADHIKARI | kathmandu,Nepal | 12,170 |
+| 2 | [codersantoshadhikari](https://github.com/codersantoshadhikari) | SANTOSH ADHIKARI | kathmandu,Nepal | 13,284 |
+| 3 | [Prabesh01](https://github.com/Prabesh01) | Prabesh Sapkota | Nepal | 12,180 |
 | 4 | [Avinash0x1](https://github.com/Avinash0x1) | Avinash Thakur | Nepal | 10,241 |
 | 5 | [Wahesh](https://github.com/Wahesh) | Mahesh Dahal | Nepal | 6,922 |
 | 6 | [Nischhalsubba](https://github.com/Nischhalsubba) | Nischhal Raj Subba | Kathmandu | 6,498 |
@@ -83,4 +83,4 @@ Indexed users: 14,104
 | 19 | [SajanGhimire1](https://github.com/SajanGhimire1) | Sajan Ghimire | Nepal | 752 |
 | 20 | [HeyIamMarasiniAmrit](https://github.com/HeyIamMarasiniAmrit) | Amrit Marasini | Kathmandu, Nepal | 747 |
 
-Generated: 2026-10-19T01:50:03.103Z
+Generated: 2026-10-19T02:57:02.166Z

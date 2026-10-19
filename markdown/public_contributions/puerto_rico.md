@@ -1,6 +1,6 @@
 # Public Contributions - Puerto Rico
 
-Generated: 2026-10-19T01:55:19.325Z
+Generated: 2026-10-19T03:02:52.971Z
 
 Users: 1532
 
@@ -25,4 +25,4 @@ Users: 1532
 | 17 | [MicaelVR04](https://github.com/MicaelVR04) | Micael Velez Rodriguez |  |  | Puerto Rico | 1055 |
 | 18 | [marcosstgo](https://github.com/marcosstgo) | Marcos Santiago |  | Marc0sSantiago | Puerto Rico | 988 |
 | 19 | [CristianAce05](https://github.com/CristianAce05) | Cristian Acevedo | Holberton Coding School |  | Puerto Rico | 984 |
-| 20 | [jSantiago318](https://github.com/jSantiago318) | Joshua SI | San Juan |  | Puerto Rico | 943 |
+| 20 | [justinhandley](https://github.com/justinhandley) | Justin Handley | Pirate & Fox LLC | justinbhandley | Puerto Rico | 983 |

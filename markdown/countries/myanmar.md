@@ -52,8 +52,8 @@ Indexed users: 2,056
 | 13 | [thaw98](https://github.com/thaw98) | Pyae Phyo Thaw | Myanmar | 1,071 |
 | 14 | [aungkoman](https://github.com/aungkoman) | Aung Ko Man | Mandalay,Myanmar | 1,048 |
 | 15 | [SaingHmineTun](https://github.com/SaingHmineTun) | Sai Saing Hmine Tun | Muse, Shan State, Myanmar | 1,037 |
-| 16 | [acehidan](https://github.com/acehidan) | Aung Aung Oo | Myanmar | 1,032 |
-| 17 | [mrmyothet](https://github.com/mrmyothet) | MyoThet | Yangon, Myanmar | 1,030 |
+| 16 | [mrmyothet](https://github.com/mrmyothet) | MyoThet | Yangon, Myanmar | 1,030 |
+| 17 | [acehidan](https://github.com/acehidan) | Aung Aung Oo | Myanmar | 1,019 |
 | 18 | [TaoMonLae](https://github.com/TaoMonLae) |  | Myanmar | 1,017 |
 | 19 | [agrogers](https://github.com/agrogers) | Andrew Rogers | Yangon, Myanmar | 1,010 |
 | 20 | [phothinmg](https://github.com/phothinmg) | Pho Thin Maung | Myanmar | 1,007 |
@@ -83,4 +83,4 @@ Indexed users: 2,056
 | 19 | [winsandymyint](https://github.com/winsandymyint) | Win Sandy Myint | Myanmar | 168 |
 | 20 | [LunaM00n](https://github.com/LunaM00n) | Thin Ba Shane (Luna) | Myanmar | 162 |
 
-Generated: 2026-10-19T01:49:56.507Z
+Generated: 2026-10-19T02:55:53.843Z

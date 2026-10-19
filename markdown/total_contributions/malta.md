@@ -1,6 +1,6 @@
 # Total Contributions - Malta
 
-Generated: 2026-10-19T01:45:08.323Z
+Generated: 2026-10-19T02:52:21.455Z
 
 Users: 1224
 
@@ -10,7 +10,7 @@ Users: 1224
 | 2 | [davidbalzan](https://github.com/davidbalzan) | David Balzan |  |  | Malta | 26792 |
 | 3 | [zcourts](https://github.com/zcourts) | Courtney Robinson | Hypi | zcourts | London (UK), Łodz (Poland), Valletta (Malta) | 14775 |
 | 4 | [tssge](https://github.com/tssge) | Teemu Grönqvist | Freelancer @net9-oy |  | Msida, Malta | 13396 |
-| 5 | [kjlibsol](https://github.com/kjlibsol) | Klaus Jensen | Liberatum Solutions Ltd |  | Malta | 12581 |
+| 5 | [kjlibsol](https://github.com/kjlibsol) | Klaus Jensen | Liberatum Solutions Ltd |  | Malta | 12520 |
 | 6 | [exori90](https://github.com/exori90) | exori |  |  | Malta | 11040 |
 | 7 | [mattbeedle](https://github.com/mattbeedle) | Matt Beedle |  |  | Malta | 11031 |
 | 8 | [GabrielGil](https://github.com/GabrielGil) | Gabriel | @redacreltd | GabrielSchlomo | Malta | 10681 |
@@ -23,6 +23,6 @@ Users: 1224
 | 15 | [m2ximus](https://github.com/m2ximus) | max—os |  |  | Malta | 7610 |
 | 16 | [iko2000](https://github.com/iko2000) | Iviko Shengelia | 88Bit Limited |  | Malta | 7210 |
 | 17 | [DarthTigerson](https://github.com/DarthTigerson) | Thomas Bonnici |  |  | Malta | 6775 |
-| 18 | [ksazid](https://github.com/ksazid) | Sazid |  |  | Malta | 6244 |
+| 18 | [ksazid](https://github.com/ksazid) | Sazid |  |  | Malta | 6252 |
 | 19 | [seanellul](https://github.com/seanellul) | Sean Ellul |  |  | Malta | 5955 |
 | 20 | [mzaharenkov](https://github.com/mzaharenkov) | Mikhail Zakharenkov | HMLabs |  | Malta | 5805 |

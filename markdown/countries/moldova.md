@@ -1,6 +1,6 @@
 # Moldova
 
-Indexed users: 1,747
+Indexed users: 1,746
 
 | Leaderboard | Link |
 |---|---|
@@ -22,8 +22,8 @@ Indexed users: 1,747
 | 8 | [dotteamdev](https://github.com/dotteamdev) | Dan Oistric | Moldova | 6,910 |
 | 9 | [deniscuciuc](https://github.com/deniscuciuc) | Denis Cuciuc | Moldova | 6,898 |
 | 10 | [pv-a-ilievici](https://github.com/pv-a-ilievici) | Andrei Ilievici | Chisinau, Moldova | 6,398 |
-| 11 | [stephen-golban](https://github.com/stephen-golban) | Stephen G | Moldova | 5,977 |
-| 12 | [mtkachenk0](https://github.com/mtkachenk0) | Maxim Tkachenko | Chisinau, Moldova | 5,841 |
+| 11 | [mtkachenk0](https://github.com/mtkachenk0) | Maxim Tkachenko | Chisinau, Moldova | 6,392 |
+| 12 | [stephen-golban](https://github.com/stephen-golban) | Stephen G | Moldova | 5,977 |
 | 13 | [sebsti5](https://github.com/sebsti5) | Sebastian | Moldova 🇲🇩 | 5,426 |
 | 14 | [artickc](https://github.com/artickc) | NOXX - Commiter | Moldova, Chisinau | 5,416 |
 | 15 | [batanus](https://github.com/batanus) | Dmitrii Medvedev | Chisinau, Moldova | 5,313 |
@@ -83,4 +83,4 @@ Indexed users: 1,747
 | 19 | [vgaidarji](https://github.com/vgaidarji) | Veaceslav Gaidarji | Moldova | 115 |
 | 20 | [Ernest96](https://github.com/Ernest96) | Ernest | Chisinau Moldova | 107 |
 
-Generated: 2026-10-19T01:47:06.890Z
+Generated: 2026-10-19T02:54:05.712Z

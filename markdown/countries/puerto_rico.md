@@ -19,8 +19,8 @@ Indexed users: 1,532
 | 5 | [gabynevada](https://github.com/gabynevada) | Elvis Nieves | Puerto Rico | 20,645 |
 | 6 | [0xPlayerOne](https://github.com/0xPlayerOne) | A. Mahoney-Fernandes | San Juan, PR 🇵🇷 | 19,434 |
 | 7 | [bpamiri](https://github.com/bpamiri) | Peter Amiri | San Juan Capistrano, CA | 17,915 |
-| 8 | [devmoreno](https://github.com/devmoreno) | Edwin Moreno | Aguadilla, Puerto Rico | 8,232 |
-| 9 | [jdreben](https://github.com/jdreben) | James Dreben | San Juan, Puerto Rico | 7,609 |
+| 8 | [devmoreno](https://github.com/devmoreno) | Edwin Moreno | Aguadilla, Puerto Rico | 9,005 |
+| 9 | [jdreben](https://github.com/jdreben) | James Dreben | San Juan, Puerto Rico | 8,227 |
 | 10 | [aegonzalez95](https://github.com/aegonzalez95) | Angel Gonzalez | Puerto Rico | 7,443 |
 | 11 | [bombillazo](https://github.com/bombillazo) | Hector Ayala | Puerto Rico | 7,098 |
 | 12 | [chrisrodz](https://github.com/chrisrodz) | Christian A. Rodriguez | San Juan, PR | 7,027 |
@@ -56,7 +56,7 @@ Indexed users: 1,532
 | 17 | [MicaelVR04](https://github.com/MicaelVR04) | Micael Velez Rodriguez | Puerto Rico | 1,055 |
 | 18 | [marcosstgo](https://github.com/marcosstgo) | Marcos Santiago | Puerto Rico | 988 |
 | 19 | [CristianAce05](https://github.com/CristianAce05) | Cristian Acevedo | Puerto Rico | 984 |
-| 20 | [jSantiago318](https://github.com/jSantiago318) | Joshua SI | Puerto Rico | 943 |
+| 20 | [justinhandley](https://github.com/justinhandley) | Justin Handley | Puerto Rico | 983 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,532
 | 19 | [rnegron](https://github.com/rnegron) | Raúl Negrón-Otero | Bayamón, Puerto Rico | 113 |
 | 20 | [hackingbutlegal](https://github.com/hackingbutlegal) | Jackie Singh | San Juan, PR | 107 |
 
-Generated: 2026-10-19T01:55:19.325Z
+Generated: 2026-10-19T03:02:52.971Z

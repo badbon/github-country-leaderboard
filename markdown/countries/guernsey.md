@@ -24,7 +24,7 @@ Indexed users: 45
 | 10 | [JamesK2754](https://github.com/JamesK2754) | James King | Guernsey | 231 |
 | 11 | [IanGSY](https://github.com/IanGSY) | IanGSY | Guernsey | 114 |
 | 12 | [theModrzew](https://github.com/theModrzew) | Patryk | Guernsey | 101 |
-| 13 | [adrianritchie](https://github.com/adrianritchie) |  | Guernsey | 71 |
+| 13 | [adrianritchie](https://github.com/adrianritchie) |  | Guernsey | 68 |
 | 14 | [tomupson](https://github.com/tomupson) | Tom Upson | Guernsey | 17 |
 | 15 | [gilbertbw](https://github.com/gilbertbw) | Gilbert Bishop-White | Guernsey | 10 |
 | 16 | [LIHITAB](https://github.com/LIHITAB) | Like and Code on GitHub | Guernsey, CI | 8 |
@@ -83,4 +83,4 @@ Indexed users: 45
 | 19 | [LIHITAB](https://github.com/LIHITAB) | Like and Code on GitHub | Guernsey, CI | 3 |
 | 20 | [mtp-tkostudax](https://github.com/mtp-tkostudax) | Shanty Irish | Guernsey | 3 |
 
-Generated: 2026-10-19T01:32:49.350Z
+Generated: 2026-10-19T02:42:16.282Z

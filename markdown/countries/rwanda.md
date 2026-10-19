@@ -1,6 +1,6 @@
 # Rwanda
 
-Indexed users: 3,505
+Indexed users: 3,503
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 3,505
 | 19 | [shemaikuzwe](https://github.com/shemaikuzwe) | Ikuzwe shema Elie | rwanda | 314 |
 | 20 | [Manzi-Elvis](https://github.com/Manzi-Elvis) | Elvis Manzi | Rwanda | 299 |
 
-Generated: 2026-10-19T01:57:31.465Z
+Generated: 2026-10-19T03:04:04.132Z

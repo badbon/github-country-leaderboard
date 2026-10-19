@@ -1,6 +1,6 @@
 # Public Contributions - Myanmar
 
-Generated: 2026-10-19T01:49:56.507Z
+Generated: 2026-10-19T02:55:53.843Z
 
 Users: 2056
 
@@ -21,8 +21,8 @@ Users: 2056
 | 13 | [thaw98](https://github.com/thaw98) | Pyae Phyo Thaw | ACE Data Systems |  | Myanmar | 1071 |
 | 14 | [aungkoman](https://github.com/aungkoman) | Aung Ko Man |  | aungkoman | Mandalay,Myanmar | 1048 |
 | 15 | [SaingHmineTun](https://github.com/SaingHmineTun) | Sai Saing Hmine Tun | TMK Group | SaingHmineTun2 | Muse, Shan State, Myanmar | 1037 |
-| 16 | [acehidan](https://github.com/acehidan) | Aung Aung Oo | OTAS Tech Solutions |  | Myanmar | 1032 |
-| 17 | [mrmyothet](https://github.com/mrmyothet) | MyoThet | @solidplm  |  | Yangon, Myanmar | 1030 |
+| 16 | [mrmyothet](https://github.com/mrmyothet) | MyoThet | @solidplm  |  | Yangon, Myanmar | 1030 |
+| 17 | [acehidan](https://github.com/acehidan) | Aung Aung Oo | OTAS Tech Solutions |  | Myanmar | 1019 |
 | 18 | [TaoMonLae](https://github.com/TaoMonLae) |  |  |  | Myanmar | 1017 |
 | 19 | [agrogers](https://github.com/agrogers) | Andrew Rogers |  |  | Yangon, Myanmar | 1010 |
 | 20 | [phothinmg](https://github.com/phothinmg) | Pho Thin Maung |  |  | Myanmar | 1007 |

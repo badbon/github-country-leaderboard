@@ -1,6 +1,6 @@
 # Public Contributions - North Korea
 
-Generated: 2026-10-19T01:52:38.218Z
+Generated: 2026-10-19T02:58:15.714Z
 
 Users: 185
 
@@ -13,7 +13,7 @@ Users: 185
 | 5 | [PookiePepelsss](https://github.com/PookiePepelsss) | Pookie | @Nebula-Softworks \| Nebula Softworks |  | North Korea | 350 |
 | 6 | [QinAnze](https://github.com/QinAnze) | 🌈沢 | Kim Il Sung University |  | North Korea | 227 |
 | 7 | [advanced-rising](https://github.com/advanced-rising) | risingcore |  |  | Democratic People's Republic of Korea | 221 |
-| 8 | [DillerOFire](https://github.com/DillerOFire) | VerpaSRP |  |  | North Korea | 205 |
+| 8 | [DillerOFire](https://github.com/DillerOFire) | VerpaSRP |  |  | North Korea | 207 |
 | 9 | [RefrigerationUnit](https://github.com/RefrigerationUnit) | Julio Viejo |  |  | Pyongyang | 196 |
 | 10 | [Pigatronee](https://github.com/Pigatronee) | PigObsessedGameDev | pigat.inc |  | North Korea | 195 |
 | 11 | [renxiaoyaoo](https://github.com/renxiaoyaoo) | renxiaoyao |  |  | North Korea	 | 189 |

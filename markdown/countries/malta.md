@@ -16,7 +16,7 @@ Indexed users: 1,224
 | 2 | [davidbalzan](https://github.com/davidbalzan) | David Balzan | Malta | 26,792 |
 | 3 | [zcourts](https://github.com/zcourts) | Courtney Robinson | London (UK), Łodz (Poland), Valletta (Malta) | 14,775 |
 | 4 | [tssge](https://github.com/tssge) | Teemu Grönqvist | Msida, Malta | 13,396 |
-| 5 | [kjlibsol](https://github.com/kjlibsol) | Klaus Jensen | Malta | 12,581 |
+| 5 | [kjlibsol](https://github.com/kjlibsol) | Klaus Jensen | Malta | 12,520 |
 | 6 | [exori90](https://github.com/exori90) | exori | Malta | 11,040 |
 | 7 | [mattbeedle](https://github.com/mattbeedle) | Matt Beedle | Malta | 11,031 |
 | 8 | [GabrielGil](https://github.com/GabrielGil) | Gabriel | Malta | 10,681 |
@@ -29,7 +29,7 @@ Indexed users: 1,224
 | 15 | [m2ximus](https://github.com/m2ximus) | max—os | Malta | 7,610 |
 | 16 | [iko2000](https://github.com/iko2000) | Iviko Shengelia | Malta | 7,210 |
 | 17 | [DarthTigerson](https://github.com/DarthTigerson) | Thomas Bonnici | Malta | 6,775 |
-| 18 | [ksazid](https://github.com/ksazid) | Sazid | Malta | 6,244 |
+| 18 | [ksazid](https://github.com/ksazid) | Sazid | Malta | 6,252 |
 | 19 | [seanellul](https://github.com/seanellul) | Sean Ellul | Malta | 5,955 |
 | 20 | [mzaharenkov](https://github.com/mzaharenkov) | Mikhail Zakharenkov | Malta | 5,805 |
 
@@ -37,7 +37,7 @@ Indexed users: 1,224
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [ksazid](https://github.com/ksazid) | Sazid | Malta | 6,244 |
+| 1 | [ksazid](https://github.com/ksazid) | Sazid | Malta | 6,252 |
 | 2 | [jonathan-vella](https://github.com/jonathan-vella) | Jonathan Vella | Malta | 4,038 |
 | 3 | [ripienaar](https://github.com/ripienaar) | R.I.Pienaar | Malta | 3,872 |
 | 4 | [OmegaGbenga](https://github.com/OmegaGbenga) | Olugbenga Olatunde Dareowolabi | Malta | 3,548 |
@@ -83,4 +83,4 @@ Indexed users: 1,224
 | 19 | [mattcg](https://github.com/mattcg) | Matthew Caruana Galizia | Malta | 126 |
 | 20 | [CM2Walki](https://github.com/CM2Walki) | Walki | Malta | 118 |
 
-Generated: 2026-10-19T01:45:08.323Z
+Generated: 2026-10-19T02:52:21.455Z

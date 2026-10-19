@@ -66,8 +66,8 @@ Indexed users: 2,197
 | 2 | [LaithGhnemat12302](https://github.com/LaithGhnemat12302) | Laith Ghnemat | Palestine-Ramallah-Kufor-Malik | 505 |
 | 3 | [msafadi](https://github.com/msafadi) | Mohammed Safadi | Gaza, Palestine | 491 |
 | 4 | [izadoesdev](https://github.com/izadoesdev) | iza | Palestine | 257 |
-| 5 | [hayasam](https://github.com/hayasam) | Haya Samaana | Palestine | 222 |
-| 6 | [MariamHasanat](https://github.com/MariamHasanat) | Mariam Hasanat | Dura, Palestine  | 218 |
+| 5 | [MariamHasanat](https://github.com/MariamHasanat) | Mariam Hasanat | Dura, Palestine  | 229 |
+| 6 | [hayasam](https://github.com/hayasam) | Haya Samaana | Palestine | 222 |
 | 7 | [ibrahim-sisar](https://github.com/ibrahim-sisar) | ibrahim abu al roos | Gaza,Palestine | 209 |
 | 8 | [SarahAbuirmeileh](https://github.com/SarahAbuirmeileh) | Sarah Abu Irmeileh | Palestine | 209 |
 | 9 | [mohammed-naji](https://github.com/mohammed-naji) | Mohammed Naji | Palestine / Gaza | 181 |
@@ -78,9 +78,9 @@ Indexed users: 2,197
 | 14 | [MrM8BRH](https://github.com/MrM8BRH) |  | Palestine | 162 |
 | 15 | [abasjr](https://github.com/abasjr) | Abas D. Baskoro | Al Quds, Palestine | 153 |
 | 16 | [Bamieh](https://github.com/Bamieh) | Ahmad Bamieh | Palestine | 152 |
-| 17 | [DiaeddinTahboub](https://github.com/DiaeddinTahboub) | Diaeddin Tahboub | Palestine - Ramallah | 148 |
-| 18 | [ShakerAlshurafa](https://github.com/ShakerAlshurafa) | Shaker Yousef | Palestine | 141 |
-| 19 | [dalia2323](https://github.com/dalia2323) |  | Qalqilya, Palestine | 127 |
+| 17 | [DiaeddinTahboub](https://github.com/DiaeddinTahboub) | Diaeddin Tahboub | Palestine - Ramallah | 151 |
+| 18 | [ShakerAlshurafa](https://github.com/ShakerAlshurafa) | Shaker Yousef | Palestine | 140 |
+| 19 | [dalia2323](https://github.com/dalia2323) |  | Qalqilya, Palestine | 129 |
 | 20 | [mhmdio](https://github.com/mhmdio) | Mohammed Almusaddar | Gaza, Palestine | 125 |
 
-Generated: 2026-10-19T01:54:31.287Z
+Generated: 2026-10-19T03:00:55.089Z

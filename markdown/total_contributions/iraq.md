@@ -1,6 +1,6 @@
 # Total Contributions - Iraq
 
-Generated: 2026-10-19T01:35:23.717Z
+Generated: 2026-10-19T02:45:08.114Z
 
 Users: 2233
 
@@ -24,5 +24,5 @@ Users: 2233
 | 16 | [Hamoi1](https://github.com/Hamoi1) | Muhammad Esmael |  |  | Iraq, Sulaymaniyah, Ranya  | 6573 |
 | 17 | [5h4k4r](https://github.com/5h4k4r) | Shakar Bakr | @ditkrg | shakar__ | Erbil, Iraq | 6285 |
 | 18 | [RezdarNajeeb](https://github.com/RezdarNajeeb) | Rezdar Najeeb | @oXero-krd  |  | Iraq | 6091 |
-| 19 | [3bbasDev](https://github.com/3bbasDev) | Abbas Radam |  |  | Baghdad | 5942 |
-| 20 | [DiyarFirasmusa](https://github.com/DiyarFirasmusa) | Diyar Firas | @simple-applicable-solutions  |  | iraq | 5873 |
+| 19 | [s1mpLyy](https://github.com/s1mpLyy) | Hamza Kareem | @Miswag |  | Baghdad, Iraq | 6013 |
+| 20 | [3bbasDev](https://github.com/3bbasDev) | Abbas Radam |  |  | Baghdad | 5942 |

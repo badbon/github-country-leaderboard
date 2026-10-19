@@ -21,7 +21,7 @@ Indexed users: 3,252
 | 7 | [ErneG](https://github.com/ErneG) | Ernests Dane | Latvia | 14,918 |
 | 8 | [raimonade](https://github.com/raimonade) | Raimonds Korzenevskis | Riga, Latvia | 14,135 |
 | 9 | [yarlson](https://github.com/yarlson) | Yar Kravtsov | Riga, Latvia | 12,198 |
-| 10 | [ricardomichel](https://github.com/ricardomichel) | Ricardo Michel Reyes | Riga | 10,409 |
+| 10 | [ricardomichel](https://github.com/ricardomichel) | Ricardo Michel Reyes | Riga | 11,609 |
 | 11 | [puikinsh](https://github.com/puikinsh) | Aigars Silkalns | Riga, Latvia | 9,189 |
 | 12 | [rabestro](https://github.com/rabestro) | Jegors Čemisovs | Latvia | 9,004 |
 | 13 | [a-sandris](https://github.com/a-sandris) |  | Latvia | 7,855 |
@@ -83,4 +83,4 @@ Indexed users: 3,252
 | 19 | [ruslanskorb](https://github.com/ruslanskorb) | Ruslan Skorb | Riga, Latvia | 226 |
 | 20 | [0ki](https://github.com/0ki) | Кirils Sоlovjоvs | Latvia | 224 |
 
-Generated: 2026-10-19T01:41:17.474Z
+Generated: 2026-10-19T02:47:49.663Z

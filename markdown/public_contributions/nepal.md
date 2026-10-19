@@ -1,14 +1,14 @@
 # Public Contributions - Nepal
 
-Generated: 2026-10-19T01:50:03.103Z
+Generated: 2026-10-19T02:57:02.166Z
 
 Users: 14104
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [Azathothas](https://github.com/Azathothas) | Ajam | @pkgforge |  | Nepal | 23887 |
-| 2 | [Prabesh01](https://github.com/Prabesh01) | Prabesh Sapkota | The Prabesh Sapkota |  | Nepal | 12180 |
-| 3 | [codersantoshadhikari](https://github.com/codersantoshadhikari) | SANTOSH ADHIKARI | SMAIT TECHNOLOGY |  | kathmandu,Nepal | 12170 |
+| 2 | [codersantoshadhikari](https://github.com/codersantoshadhikari) | SANTOSH ADHIKARI | SMAIT TECHNOLOGY |  | kathmandu,Nepal | 13284 |
+| 3 | [Prabesh01](https://github.com/Prabesh01) | Prabesh Sapkota | The Prabesh Sapkota |  | Nepal | 12180 |
 | 4 | [Avinash0x1](https://github.com/Avinash0x1) | Avinash Thakur |  | Avinash0x1 | Nepal | 10241 |
 | 5 | [Wahesh](https://github.com/Wahesh) | Mahesh Dahal |  |  | Nepal | 6922 |
 | 6 | [Nischhalsubba](https://github.com/Nischhalsubba) | Nischhal Raj Subba | Fiverr | imnischhal | Kathmandu | 6498 |

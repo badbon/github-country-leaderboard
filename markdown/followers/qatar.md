@@ -1,6 +1,6 @@
 # Followers - Qatar
 
-Generated: 2026-10-19T01:55:53.403Z
+Generated: 2026-10-19T03:02:58.649Z
 
 Users: 1071
 
@@ -15,7 +15,7 @@ Users: 1071
 | 7 | [noumanmhd](https://github.com/noumanmhd) | Nouman Mahmood |  |  | Qatar | 362 |
 | 8 | [yhunlu](https://github.com/yhunlu) | YAHYA UNLU | Tecnicas Reunidas |  | Qatar, Doha | 203 |
 | 9 | [myofficework000](https://github.com/myofficework000) | ABHISHEK PATHAK | UBS (Swiss Bank) |  | Doha, Qatar | 160 |
-| 10 | [zahidchoudhury](https://github.com/zahidchoudhury) | M Zahid Choudhury |  | zahid_choudhury | Qatar | 157 |
+| 10 | [zahidchoudhury](https://github.com/zahidchoudhury) | M Zahid Choudhury |  | zahid_choudhury | Qatar | 155 |
 | 11 | [nirzaf](https://github.com/nirzaf) | M.F.M Fazrin | Primary Health Care Corporation |  | Doha - Qatar | 128 |
 | 12 | [m2ncef](https://github.com/m2ncef) | Moncef Guezzi |  |  | Qatar | 127 |
 | 13 | [mbrksntrk](https://github.com/mbrksntrk) | M Burak Şentürk | Boğaziçi Üniversitesi | mbrksntrk | Doha, Qatar | 124 |
