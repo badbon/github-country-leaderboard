@@ -34256,7 +34256,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2012-02-28T11:18:19Z"
   },
   {
@@ -34288,10 +34288,10 @@
     "name": "Kaspars Milbergs",
     "avatarUrl": "https://avatars.githubusercontent.com/u/2249362?s=72&u=d58bd4bb19bf0cdacc9fb79ae210602766a7a5ba&v=4",
     "location": "Riga / Miami",
-    "company": "On The Map Marketing",
+    "company": "OTM",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 337,
+    "followers": 1,
+    "privateContributions": 425,
     "publicContributions": 0,
     "createdAt": "2012-08-30T15:31:11Z"
   },
@@ -34304,7 +34304,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 3,
     "createdAt": "2012-11-04T20:37:00Z"
   },
   {
@@ -34351,7 +34351,7 @@
     "company": "*",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 676,
+    "privateContributions": 1159,
     "publicContributions": 33,
     "createdAt": "2012-05-28T15:01:19Z"
   },
@@ -34422,9 +34422,9 @@
     "location": "Latvia",
     "company": "",
     "twitterUsername": "aivars_meijers",
-    "followers": 456,
-    "privateContributions": 5728,
-    "publicContributions": 76,
+    "followers": 468,
+    "privateContributions": 6818,
+    "publicContributions": 112,
     "createdAt": "2011-05-07T20:38:26Z"
   },
   {
@@ -34434,22 +34434,10 @@
     "location": "Valmiera, Latvia",
     "company": "@healthchecks ",
     "twitterUsername": "",
-    "followers": 233,
+    "followers": 245,
     "privateContributions": 0,
-    "publicContributions": 592,
+    "publicContributions": 558,
     "createdAt": "2011-03-10T12:14:40Z"
-  },
-  {
-    "login": "ruslanskorb",
-    "name": "Ruslan Skorb",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/1182823?s=72&u=109b27f9b1d933d8857bd23203e36b915379769d&v=4",
-    "location": "Riga, Latvia",
-    "company": "OktoSpace SIA",
-    "twitterUsername": "",
-    "followers": 226,
-    "privateContributions": 0,
-    "publicContributions": 26,
-    "createdAt": "2011-11-09T07:51:21Z"
   },
   {
     "login": "lauris",
@@ -34459,7 +34447,7 @@
     "company": "@Datazenit ",
     "twitterUsername": "lauriswat",
     "followers": 189,
-    "privateContributions": 477,
+    "privateContributions": 1157,
     "publicContributions": 0,
     "createdAt": "2011-02-18T13:35:49Z"
   },
@@ -34470,7 +34458,7 @@
     "location": "Latvia",
     "company": "",
     "twitterUsername": "",
-    "followers": 156,
+    "followers": 158,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2011-08-09T16:56:05Z"
@@ -34482,9 +34470,9 @@
     "location": "Latvia",
     "company": "Freelancing",
     "twitterUsername": "mrmaxm",
-    "followers": 153,
+    "followers": 152,
     "privateContributions": 0,
-    "publicContributions": 94,
+    "publicContributions": 68,
     "createdAt": "2011-02-24T16:00:57Z"
   },
   {

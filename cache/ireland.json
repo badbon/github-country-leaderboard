@@ -34183,7 +34183,7 @@
     "company": "@KitmanLabs ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
+    "privateContributions": 1002,
     "publicContributions": 0,
     "createdAt": "2022-01-04T10:31:11Z"
   },
@@ -34195,7 +34195,7 @@
     "company": "Dublin City University",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 27,
+    "privateContributions": 40,
     "publicContributions": 26,
     "createdAt": "2022-03-22T19:36:01Z"
   },
@@ -34244,7 +34244,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 26,
     "createdAt": "2022-05-13T15:42:24Z"
   },
   {
@@ -34254,7 +34254,7 @@
     "location": "Dublin",
     "company": "AWS EMEA Sarl",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2022-11-25T06:42:52Z"
@@ -34268,7 +34268,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 105,
+    "publicContributions": 103,
     "createdAt": "2022-08-22T11:59:00Z"
   },
   {
@@ -34314,21 +34314,21 @@
     "location": "Dublin",
     "company": "@bounceinsights ",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 976,
+    "followers": 3,
+    "privateContributions": 966,
     "publicContributions": 99,
     "createdAt": "2022-09-08T10:49:54Z"
   },
   {
     "login": "foreverinban",
     "name": "Foreverdog",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/104363549?s=72&u=ddeb408bf694e6ec9a534f0943f1d18454c4c012&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/104363549?s=72&u=3e60ced01693bf932337ed1cdcc92a93fcdcb243&v=4",
     "location": "Dublin",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 13,
-    "publicContributions": 68,
+    "followers": 2,
+    "privateContributions": 80,
+    "publicContributions": 70,
     "createdAt": "2022-04-25T12:14:55Z"
   },
   {
@@ -34388,7 +34388,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 8,
     "createdAt": "2022-08-24T17:05:26Z"
   },
   {

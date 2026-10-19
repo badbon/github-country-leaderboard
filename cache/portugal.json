@@ -34374,9 +34374,9 @@
     "location": "Portugal, Lisbon",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 29,
     "createdAt": "2023-05-29T10:08:27Z"
   },
   {
@@ -34411,8 +34411,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 65,
-    "publicContributions": 31,
+    "privateContributions": 71,
+    "publicContributions": 39,
     "createdAt": "2023-01-06T23:04:02Z"
   },
   {
@@ -34430,13 +34430,13 @@
   {
     "login": "Kuromyuto",
     "name": "Arthur Henrique",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/123035993?s=72&u=d6847bc1b3985f700a1def6483ea4aa5b33cc4a5&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/123035993?s=72&u=c31301a0253dc8b7d9aa249e63590a8ad9fce452&v=4",
     "location": "Portugal",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 3,
-    "publicContributions": 45,
+    "publicContributions": 42,
     "createdAt": "2023-01-19T00:21:54Z"
   },
   {
@@ -34519,8 +34519,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 15,
-    "publicContributions": 155,
+    "privateContributions": 17,
+    "publicContributions": 162,
     "createdAt": "2023-05-24T18:43:47Z"
   },
   {
@@ -34532,7 +34532,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2023-06-20T14:17:55Z"
   },
   {
@@ -34578,22 +34578,10 @@
     "location": "Portugal",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-04-21T14:58:45Z"
-  },
-  {
-    "login": "mrkalrag",
-    "name": "Tushar Kalra",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/132517922?s=72&u=b6ec5b20cae3e48abd01e4084710729c5a4c63fe&v=4",
-    "location": "porto, Portugal",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 56,
-    "createdAt": "2023-05-03T21:50:56Z"
   },
   {
     "login": "WhitespaceCoding",
