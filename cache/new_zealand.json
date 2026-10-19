@@ -33848,7 +33848,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 124,
     "createdAt": "2020-04-30T23:01:26Z"
   },
   {
@@ -33859,8 +33859,8 @@
     "company": "Vxter",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 160,
-    "publicContributions": 13,
+    "privateContributions": 212,
+    "publicContributions": 14,
     "createdAt": "2020-07-28T13:35:51Z"
   },
   {
@@ -33870,9 +33870,9 @@
     "location": "Auckland, New Zealand",
     "company": "Alphero",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 58,
     "createdAt": "2020-03-17T20:08:01Z"
   },
   {
@@ -33896,7 +33896,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 130,
+    "publicContributions": 129,
     "createdAt": "2020-06-26T06:06:08Z"
   },
   {
@@ -33968,31 +33968,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 40,
+    "publicContributions": 42,
     "createdAt": "2020-01-15T20:30:28Z"
-  },
-  {
-    "login": "Jonathan-Cen",
-    "name": "Jonathan Cen",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/62034836?s=72&v=4",
-    "location": "New Zealand",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2020-03-10T20:02:39Z"
   },
   {
     "login": "ItsMrRedboy19",
     "name": "Alex Hong",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/76412774?s=72&u=d39a55d7ed05ae2e7e9a35e6a645343018c49356&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/76412774?s=72&u=d79d631d14e054b182c12db2fc02fd3bd8416a21&v=4",
     "location": "New Zealand",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 24,
     "createdAt": "2020-12-21T00:24:35Z"
   },
   {

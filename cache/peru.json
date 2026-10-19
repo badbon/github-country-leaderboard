@@ -33656,7 +33656,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 0,
     "createdAt": "2022-08-12T23:27:15Z"
   },
   {
@@ -33703,8 +33703,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 10,
+    "privateContributions": 8,
+    "publicContributions": 3,
     "createdAt": "2022-11-27T23:44:17Z"
   },
   {
@@ -33716,7 +33716,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 8,
     "createdAt": "2022-10-07T00:53:41Z"
   },
   {
@@ -33728,7 +33728,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 3,
     "createdAt": "2022-09-12T18:53:12Z"
   },
   {
@@ -33739,8 +33739,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 241,
-    "publicContributions": 92,
+    "privateContributions": 262,
+    "publicContributions": 135,
     "createdAt": "2022-03-18T12:10:07Z"
   },
   {
@@ -33752,7 +33752,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 64,
+    "publicContributions": 26,
     "createdAt": "2022-02-06T23:38:15Z"
   },
   {
@@ -33762,22 +33762,10 @@
     "location": "Lima",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 169,
-    "publicContributions": 50,
+    "followers": 3,
+    "privateContributions": 206,
+    "publicContributions": 123,
     "createdAt": "2022-09-06T04:55:16Z"
-  },
-  {
-    "login": "DrPumpKing1",
-    "name": "Salvador Rodriguez",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/113253296?s=72&u=4eebf12d0d9a8719bdd9d049944bd106820cd81f&v=4",
-    "location": "Lima, Perú",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 170,
-    "createdAt": "2022-09-10T15:55:21Z"
   },
   {
     "login": "orlandoalcarraz",
@@ -33811,8 +33799,8 @@
     "company": "Universidad Autonoma del Perú",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 724,
-    "publicContributions": 177,
+    "privateContributions": 486,
+    "publicContributions": 141,
     "createdAt": "2022-04-26T22:41:28Z"
   },
   {
@@ -33822,7 +33810,7 @@
     "location": "Lima - Perú ",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2022-11-12T01:15:19Z"
@@ -33836,7 +33824,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 33,
+    "publicContributions": 35,
     "createdAt": "2022-08-03T21:45:59Z"
   },
   {
