@@ -1,6 +1,6 @@
 # Total Contributions - Burundi
 
-Generated: 2026-10-19T03:33:30.674Z
+Generated: 2026-10-19T06:24:19.993Z
 
 Users: 235
 
@@ -22,7 +22,7 @@ Users: 235
 | 14 | [b3rking](https://github.com/b3rking) | ISHIMWE Eschyle Bersy | Immadridista | b3rking | Burundi | 1028 |
 | 15 | [Janeirohurley](https://github.com/Janeirohurley) | Janeiro hurley | @RundiNova  | janeirohurley | Burundi | 1007 |
 | 16 | [arsou2015](https://github.com/arsou2015) | Arsene Nduwayo | EXEC |  | Burundi | 980 |
-| 17 | [Evran0](https://github.com/Evran0) | Eddy Poli | RIHA TELECOM |  | Bujumbura,  Burundi | 937 |
+| 17 | [Evran0](https://github.com/Evran0) | Eddy Poli | RIHA TELECOM |  | Bujumbura,  Burundi | 924 |
 | 18 | [kidasijunior10](https://github.com/kidasijunior10) | Joachim KIDASI | United Nations Population Fund |  | Bujumbura, Burundi | 921 |
 | 19 | [ArtcalO](https://github.com/ArtcalO) | The Lone Wolf | @ksquad | ArtcalO97 | Bujumbura, BURUNDI | 895 |
 | 20 | [EddyKubwimana](https://github.com/EddyKubwimana) | Eddy Kubwimana | PayVista |  | Burundi | 894 |

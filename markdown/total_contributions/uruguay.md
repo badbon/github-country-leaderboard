@@ -1,6 +1,6 @@
 # Total Contributions - Uruguay
 
-Generated: 2026-10-19T03:20:27.599Z
+Generated: 2026-10-19T06:08:10.288Z
 
 Users: 5612
 
@@ -20,9 +20,9 @@ Users: 5612
 | 12 | [frankdavidcorona](https://github.com/frankdavidcorona) | Frank Corona Prendes | SynerSib Consulting SAS & Strictly | chaplindev | Montevideo, Uruguay | 10097 |
 | 13 | [JuanFKurucz](https://github.com/JuanFKurucz) | Francisco Kurucz | @tryolabs  | juanfkurucz | Uruguay | 9097 |
 | 14 | [EugeniaGramajo](https://github.com/EugeniaGramajo) | Eugenia Gramajo |  |  | Uruguay | 8420 |
-| 15 | [emiliano-go](https://github.com/emiliano-go) | Emiliano G.O. | Eclipse Labs |  | Montevideo, Uruguay | 8276 |
-| 16 | [pedrosgmagalhaes](https://github.com/pedrosgmagalhaes) | Pedro Magalhaes | Iora Labs |  | Uruguay | 8205 |
-| 17 | [brunoocal](https://github.com/brunoocal) | Bruno Cal |  |  | Uruguay | 8152 |
-| 18 | [barbatdev](https://github.com/barbatdev) | Juan Barbat | Barbat.Dev |  | Uruguay | 7968 |
-| 19 | [LuisHdezE](https://github.com/LuisHdezE) | MSc Luis A. Hernández Elias | PuntoTecno |  | Montevideo, Uruguay | 7825 |
-| 20 | [Tombar](https://github.com/Tombar) | Martin Loy | Undermountain Coding Company | martinloy | Montevideo, Uruguay | 7600 |
+| 15 | [federicoimparatta](https://github.com/federicoimparatta) | Federico Imparatta | @ataraxy-digital |  | Montevideo, Uruguay | 8317 |
+| 16 | [emiliano-go](https://github.com/emiliano-go) | Emiliano G.O. | Eclipse Labs |  | Montevideo, Uruguay | 8276 |
+| 17 | [pedrosgmagalhaes](https://github.com/pedrosgmagalhaes) | Pedro Magalhaes | Iora Labs |  | Uruguay | 8205 |
+| 18 | [brunoocal](https://github.com/brunoocal) | Bruno Cal |  |  | Uruguay | 8152 |
+| 19 | [barbatdev](https://github.com/barbatdev) | Juan Barbat | Barbat.Dev |  | Uruguay | 7968 |
+| 20 | [LuisHdezE](https://github.com/LuisHdezE) | MSc Luis A. Hernández Elias | PuntoTecno |  | Montevideo, Uruguay | 7825 |

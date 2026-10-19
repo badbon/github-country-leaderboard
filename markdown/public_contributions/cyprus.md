@@ -1,6 +1,6 @@
 # Public Contributions - Cyprus
 
-Generated: 2026-10-19T03:37:48.131Z
+Generated: 2026-10-19T06:29:41.431Z
 
 Users: 2725
 
@@ -15,8 +15,8 @@ Users: 2725
 | 7 | [AxGord](https://github.com/AxGord) | Alexander Gordeyko |  | axgord | Limassol, Cyprus | 4455 |
 | 8 | [protesilaos](https://github.com/protesilaos) | Protesilaos |  |  | Cyprus | 4292 |
 | 9 | [NicosNicolaou16](https://github.com/NicosNicolaou16) | Nicos Nicolaou |  | nicolaou_nicos | Nicosia, Cyprus | 3881 |
-| 10 | [VizzleTF](https://github.com/VizzleTF) | Ivan K |  |  | Cyprus | 3486 |
-| 11 | [candasoz01-cmd](https://github.com/candasoz01-cmd) | Candaş Öz | Candaş Öz |  | Kıbrıs | 3467 |
+| 10 | [candasoz01-cmd](https://github.com/candasoz01-cmd) | Candaş Öz | Candaş Öz |  | Kıbrıs | 3534 |
+| 11 | [VizzleTF](https://github.com/VizzleTF) | Ivan K |  |  | Cyprus | 3486 |
 | 12 | [phalouvas](https://github.com/phalouvas) | Panayiotis Halouvas | KAINOTOMO PH LTD  |  | Cyprus  | 3353 |
 | 13 | [siyabendoezdemir](https://github.com/siyabendoezdemir) | Siya | CIYA | siyabuilt | Cyprus | 3289 |
 | 14 | [Disentinel](https://github.com/Disentinel) | Vadim Reshetnikov |  |  | Cyprus, Limassol | 3117 |

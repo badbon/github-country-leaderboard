@@ -1,13 +1,13 @@
 # Public Contributions - Yemen
 
-Generated: 2026-10-19T03:23:11.501Z
+Generated: 2026-10-19T06:12:01.612Z
 
 Users: 1205
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [thejulan](https://github.com/thejulan) | Julan | @green-goblins @DevITOps @looptron-team  |  | Yemen | 95318 |
-| 2 | [YounisDany](https://github.com/YounisDany) | Younis Dany \| يونس ضاعني |  | Yunesdhanei | Yemen | 43101 |
+| 1 | [thejulan](https://github.com/thejulan) | Julan | @green-goblins @DevITOps @looptron-team  |  | Yemen | 93569 |
+| 2 | [YounisDany](https://github.com/YounisDany) | Younis Dany \| يونس ضاعني |  | Yunesdhanei | Yemen | 43100 |
 | 3 | [MrIbrahem](https://github.com/MrIbrahem) | ibrahem Qasim |  | Ibrahem_Qasim | Sana'a  | 22778 |
 | 4 | [Jabri-web](https://github.com/Jabri-web) | Abdulla Al-Jabri | Yemen |  | Haziz- Sana'a | 6182 |
 | 5 | [tarasana-mufadhala](https://github.com/tarasana-mufadhala) | Mokhtar Hussein Abdulwahab Alsorori | University of Saba Region  |  | Yemen  | 4286 |
@@ -24,5 +24,5 @@ Users: 1205
 | 16 | [716W](https://github.com/716W) | Ali Bin-Samida | Hadramout |  | Yemen | 932 |
 | 17 | [Hazem-Alyaari](https://github.com/Hazem-Alyaari) | Hazem Alyaari | DataTrans - Obeikan Digital Solution |  | sana'a  | 887 |
 | 18 | [yswef](https://github.com/yswef) | yswef alhmzy | @alphacode-ye  |  | yemen | 839 |
-| 19 | [ENG-BXI](https://github.com/ENG-BXI) | Abdulrhman Muneer Khamees Al-Jaeeidi \| عبدالرحمن منير خميس الجعيدي | Self Employee |  | YEMEN | 694 |
-| 20 | [O2sa](https://github.com/O2sa) | Osama Mabkhot |  | o22sam | Yemen | 694 |
+| 19 | [hetari](https://github.com/hetari) | Ebraheem Alhetari | Temmam Light | hetaridev | Yemen | 707 |
+| 20 | [ENG-BXI](https://github.com/ENG-BXI) | Abdulrhman Muneer Khamees Al-Jaeeidi \| عبدالرحمن منير خميس الجعيدي | Self Employee |  | YEMEN | 694 |

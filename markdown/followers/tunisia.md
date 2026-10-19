@@ -1,6 +1,6 @@
 # Followers - Tunisia
 
-Generated: 2026-10-19T03:19:06.980Z
+Generated: 2026-10-19T06:04:49.267Z
 
 Users: 7165
 
@@ -25,4 +25,4 @@ Users: 7165
 | 17 | [jassercherif](https://github.com/jassercherif) | jasser cherif | ENSI |  | Kelibia, Nabeul, Tunisia | 529 |
 | 18 | [zied-snoussi](https://github.com/zied-snoussi) | Zied Snoussi | Bysur | ziedalsnoussi | Tunisia | 522 |
 | 19 | [machour](https://github.com/machour) | Mehdi Achour |  | mac_hour | Tunisia | 483 |
-| 20 | [01JAMIL](https://github.com/01JAMIL) | Jamil Ben Brahim |  |  | Tunisia | 477 |
+| 20 | [01JAMIL](https://github.com/01JAMIL) | Jamil Ben Brahim |  |  | Tunisia | 470 |

@@ -19,19 +19,19 @@ Indexed users: 7,165
 | 5 | [thevpc](https://github.com/thevpc) | thevpc | Tunisia | 21,742 |
 | 6 | [labidiaymen](https://github.com/labidiaymen) | Aymen | Tunis, Tunisia | 19,874 |
 | 7 | [Nour-yahyaoui](https://github.com/Nour-yahyaoui) | Nour-Yahyaoui | Tunisia | 14,984 |
-| 8 | [MohamedBechirMejri](https://github.com/MohamedBechirMejri) | Mohamed Bechir Mejri | Tunisia | 12,741 |
+| 8 | [MohamedBechirMejri](https://github.com/MohamedBechirMejri) | Mohamed Bechir Mejri | Tunisia | 14,323 |
 | 9 | [ifaouibadi](https://github.com/ifaouibadi) | Badi Ifaoui | Tunisia | 7,694 |
 | 10 | [amine-y](https://github.com/amine-y) | Amine Yaakoubi | Tunisia | 7,123 |
 | 11 | [omar-cherif](https://github.com/omar-cherif) | Omar CHERIF | Tunisia | 7,081 |
-| 12 | [njraladdin](https://github.com/njraladdin) | Aladdin Najjar | Tunisia | 6,017 |
-| 13 | [safwendammak](https://github.com/safwendammak) | Safwen | Tunisia | 5,984 |
-| 14 | [lord007tn](https://github.com/lord007tn) | Raed Bahri | Tunisia | 5,892 |
-| 15 | [taghoutikeyrus](https://github.com/taghoutikeyrus) | Tarek Taghouti | Tunisia | 5,564 |
-| 16 | [baderdean](https://github.com/baderdean) | Badreddine Lejmi | Tunisia | 5,480 |
-| 17 | [3omartn](https://github.com/3omartn) | omar jemli | Tunisia | 5,258 |
-| 18 | [Ylandolsi](https://github.com/Ylandolsi) | Mohamed Yassine Landolsi  | Tunisia ,  Sousse ,  Msaken | 5,161 |
-| 19 | [abbassi-ahmed](https://github.com/abbassi-ahmed) | Abbassiahmed | Tunisia | 5,135 |
-| 20 | [BouajilaHamza](https://github.com/BouajilaHamza) | Hamza Bouajila | Tunisia | 4,841 |
+| 12 | [BouajilaHamza](https://github.com/BouajilaHamza) | Hamza Bouajila | Tunisia | 6,449 |
+| 13 | [njraladdin](https://github.com/njraladdin) | Aladdin Najjar | Tunisia | 6,017 |
+| 14 | [safwendammak](https://github.com/safwendammak) | Safwen | Tunisia | 5,984 |
+| 15 | [lord007tn](https://github.com/lord007tn) | Raed Bahri | Tunisia | 5,892 |
+| 16 | [taghoutikeyrus](https://github.com/taghoutikeyrus) | Tarek Taghouti | Tunisia | 5,564 |
+| 17 | [baderdean](https://github.com/baderdean) | Badreddine Lejmi | Tunisia | 5,480 |
+| 18 | [3omartn](https://github.com/3omartn) | omar jemli | Tunisia | 5,258 |
+| 19 | [Ylandolsi](https://github.com/Ylandolsi) | Mohamed Yassine Landolsi  | Tunisia ,  Sousse ,  Msaken | 5,161 |
+| 20 | [abbassi-ahmed](https://github.com/abbassi-ahmed) | Abbassiahmed | Tunisia | 5,135 |
 
 ## Public Contributions
 
@@ -42,7 +42,7 @@ Indexed users: 7,165
 | 3 | [thevpc](https://github.com/thevpc) | thevpc | Tunisia | 15,723 |
 | 4 | [Nour-yahyaoui](https://github.com/Nour-yahyaoui) | Nour-Yahyaoui | Tunisia | 14,899 |
 | 5 | [labidiaymen](https://github.com/labidiaymen) | Aymen | Tunis, Tunisia | 10,439 |
-| 6 | [MohamedBechirMejri](https://github.com/MohamedBechirMejri) | Mohamed Bechir Mejri | Tunisia | 8,231 |
+| 6 | [MohamedBechirMejri](https://github.com/MohamedBechirMejri) | Mohamed Bechir Mejri | Tunisia | 7,039 |
 | 7 | [baderdean](https://github.com/baderdean) | Badreddine Lejmi | Tunisia | 4,552 |
 | 8 | [Ylandolsi](https://github.com/Ylandolsi) | Mohamed Yassine Landolsi  | Tunisia ,  Sousse ,  Msaken | 4,474 |
 | 9 | [azjezz](https://github.com/azjezz) | Seifeddine Gmati | Tunisia | 4,468 |
@@ -81,6 +81,6 @@ Indexed users: 7,165
 | 17 | [jassercherif](https://github.com/jassercherif) | jasser cherif | Kelibia, Nabeul, Tunisia | 529 |
 | 18 | [zied-snoussi](https://github.com/zied-snoussi) | Zied Snoussi | Tunisia | 522 |
 | 19 | [machour](https://github.com/machour) | Mehdi Achour | Tunisia | 483 |
-| 20 | [01JAMIL](https://github.com/01JAMIL) | Jamil Ben Brahim | Tunisia | 477 |
+| 20 | [01JAMIL](https://github.com/01JAMIL) | Jamil Ben Brahim | Tunisia | 470 |
 
-Generated: 2026-10-19T03:19:06.980Z
+Generated: 2026-10-19T06:04:49.267Z

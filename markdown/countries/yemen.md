@@ -12,8 +12,8 @@ Indexed users: 1,205
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [thejulan](https://github.com/thejulan) | Julan | Yemen | 95,318 |
-| 2 | [YounisDany](https://github.com/YounisDany) | Younis Dany \| يونس ضاعني | Yemen | 43,101 |
+| 1 | [thejulan](https://github.com/thejulan) | Julan | Yemen | 93,569 |
+| 2 | [YounisDany](https://github.com/YounisDany) | Younis Dany \| يونس ضاعني | Yemen | 43,100 |
 | 3 | [MrIbrahem](https://github.com/MrIbrahem) | ibrahem Qasim | Sana'a  | 28,717 |
 | 4 | [Anwar-alhitar](https://github.com/Anwar-alhitar) | Anwar_alhitar  | Yemen sana'a  | 27,998 |
 | 5 | [saqer23](https://github.com/saqer23) | Saqer Aljabri | Yemen | 11,418 |
@@ -21,9 +21,9 @@ Indexed users: 1,205
 | 7 | [omaralalwi](https://github.com/omaralalwi) | Omar Alalwi | sana'a Yemen | 9,316 |
 | 8 | [MokarmDev](https://github.com/MokarmDev) | Mokarm Mohammed | Yemen | 9,233 |
 | 9 | [OsamaAlmamri](https://github.com/OsamaAlmamri) | Osama Al-mamari  | Sana'a ,Yemen | 8,592 |
-| 10 | [moatasem-alhilali](https://github.com/moatasem-alhilali) | Moatasem Alhilali | Yemen | 8,179 |
-| 11 | [Nabeel-Zawia](https://github.com/Nabeel-Zawia) | Nabeel Khalid Zawia | Sana'a Yemen | 8,145 |
-| 12 | [Qaidsaher](https://github.com/Qaidsaher) | Saher Qaid | Yemen,Ibb city | 8,084 |
+| 10 | [Nabeel-Zawia](https://github.com/Nabeel-Zawia) | Nabeel Khalid Zawia | Sana'a Yemen | 8,145 |
+| 11 | [Qaidsaher](https://github.com/Qaidsaher) | Saher Qaid | Yemen,Ibb city | 8,061 |
+| 12 | [moatasem-alhilali](https://github.com/moatasem-alhilali) | Moatasem Alhilali | Yemen | 8,016 |
 | 13 | [aymanalhattami](https://github.com/aymanalhattami) | Ayman Alhattami | Yemen | 7,617 |
 | 14 | [muath-ye](https://github.com/muath-ye) | Muath Alsowadi | Yemen | 7,302 |
 | 15 | [AhmedSalehGhaithan](https://github.com/AhmedSalehGhaithan) | Ahmed ghaithan | Yemen ,sanaa | 6,919 |
@@ -37,8 +37,8 @@ Indexed users: 1,205
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [thejulan](https://github.com/thejulan) | Julan | Yemen | 95,318 |
-| 2 | [YounisDany](https://github.com/YounisDany) | Younis Dany \| يونس ضاعني | Yemen | 43,101 |
+| 1 | [thejulan](https://github.com/thejulan) | Julan | Yemen | 93,569 |
+| 2 | [YounisDany](https://github.com/YounisDany) | Younis Dany \| يونس ضاعني | Yemen | 43,100 |
 | 3 | [MrIbrahem](https://github.com/MrIbrahem) | ibrahem Qasim | Sana'a  | 22,778 |
 | 4 | [Jabri-web](https://github.com/Jabri-web) | Abdulla Al-Jabri | Haziz- Sana'a | 6,182 |
 | 5 | [tarasana-mufadhala](https://github.com/tarasana-mufadhala) | Mokhtar Hussein Abdulwahab Alsorori | Yemen  | 4,286 |
@@ -55,8 +55,8 @@ Indexed users: 1,205
 | 16 | [716W](https://github.com/716W) | Ali Bin-Samida | Yemen | 932 |
 | 17 | [Hazem-Alyaari](https://github.com/Hazem-Alyaari) | Hazem Alyaari | sana'a  | 887 |
 | 18 | [yswef](https://github.com/yswef) | yswef alhmzy | yemen | 839 |
-| 19 | [ENG-BXI](https://github.com/ENG-BXI) | Abdulrhman Muneer Khamees Al-Jaeeidi \| عبدالرحمن منير خميس الجعيدي | YEMEN | 694 |
-| 20 | [O2sa](https://github.com/O2sa) | Osama Mabkhot | Yemen | 694 |
+| 19 | [hetari](https://github.com/hetari) | Ebraheem Alhetari | Yemen | 707 |
+| 20 | [ENG-BXI](https://github.com/ENG-BXI) | Abdulrhman Muneer Khamees Al-Jaeeidi \| عبدالرحمن منير خميس الجعيدي | YEMEN | 694 |
 
 ## Followers
 
@@ -79,8 +79,8 @@ Indexed users: 1,205
 | 15 | [muath-ye](https://github.com/muath-ye) | Muath Alsowadi | Yemen | 181 |
 | 16 | [Emadalshamery](https://github.com/Emadalshamery) | Emad QEAD Alshamiri  | Yemen | 172 |
 | 17 | [aameralduais](https://github.com/aameralduais) | Aamer Alduais | Sana'a, Yemen | 161 |
-| 18 | [0-d3y](https://github.com/0-d3y) | S4Tech | Yemen | 160 |
-| 19 | [hetari](https://github.com/hetari) | Ebraheem Alhetari | Yemen | 160 |
+| 18 | [0-d3y](https://github.com/0-d3y) | S4Tech | Yemen | 159 |
+| 19 | [hetari](https://github.com/hetari) | Ebraheem Alhetari | Yemen | 158 |
 | 20 | [its4nas](https://github.com/its4nas) | Anas Al-Dharei | Yemen | 147 |
 
-Generated: 2026-10-19T03:23:11.501Z
+Generated: 2026-10-19T06:12:01.612Z

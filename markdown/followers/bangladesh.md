@@ -1,6 +1,6 @@
 # Followers - Bangladesh
 
-Generated: 2026-10-19T03:28:56.589Z
+Generated: 2026-10-19T06:19:20.673Z
 
 Users: 55320
 

@@ -1,6 +1,6 @@
 # Public Contributions - Dominican Republic
 
-Generated: 2026-10-19T03:39:23.570Z
+Generated: 2026-10-19T06:31:02.825Z
 
 Users: 3299
 
@@ -18,8 +18,8 @@ Users: 3299
 | 10 | [FredPeal](https://github.com/FredPeal) | Frederick Peñalo | McTekk SRL | frederickpeal | Dominican Republic | 1974 |
 | 11 | [jesusantguerrero](https://github.com/jesusantguerrero) | Jesus Guerrero Álvarez  | Insane Code | jesusntguerrero | Santo Domingo, Dominican Republic | 1908 |
 | 12 | [henfrydls](https://github.com/henfrydls) | Henfry De Los Santos | Soventix Caribbean SRL |  | Santo Domingo, República Dominicana | 1900 |
-| 13 | [dbremont](https://github.com/dbremont) | Daniel  de Victoriano y Bremont |  |  | America, Dominican Republic | 1827 |
-| 14 | [lrojas94](https://github.com/lrojas94) | Luis E. Rojas Cabrera |  |  | Santiago, Dominican Republic | 1786 |
+| 13 | [lrojas94](https://github.com/lrojas94) | Luis E. Rojas Cabrera |  |  | Santiago, Dominican Republic | 1889 |
+| 14 | [dbremont](https://github.com/dbremont) | Daniel  de Victoriano y Bremont |  |  | America, Dominican Republic | 1827 |
 | 15 | [bryanstevensacosta](https://github.com/bryanstevensacosta) | Bryan Acosta |  |  | Dominican Republic | 1758 |
 | 16 | [XavielT](https://github.com/XavielT) | Xaviel Terrero |  |  | Dominican Republic | 1718 |
 | 17 | [franklinmdev](https://github.com/franklinmdev) | Franklin Martinez | Nubeteck, SRL |  | Dominican Republic | 1622 |

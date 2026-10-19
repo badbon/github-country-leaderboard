@@ -1,6 +1,6 @@
 # Total Contributions - Bhutan
 
-Generated: 2026-10-19T03:29:45.320Z
+Generated: 2026-10-19T06:21:45.516Z
 
 Users: 266
 
@@ -14,7 +14,7 @@ Users: 266
 | 6 | [jimbatshetrim](https://github.com/jimbatshetrim) | Jimba Tshetrim | @selisebt  |  | Thimphu, Bhutan | 3268 |
 | 7 | [ThuktenSingye](https://github.com/ThuktenSingye) | ThuktenSingye |  |  | Bhutan | 2793 |
 | 8 | [PraMishra-s](https://github.com/PraMishra-s) | Pralad Mishra | College of Science and Technology |  | Bhutan | 2636 |
-| 9 | [sangayt1997](https://github.com/sangayt1997) | Sangay Thinley | SELISE Group | SangayT97 | Thimphu, Bhutan | 2297 |
+| 9 | [sangayt1997](https://github.com/sangayt1997) | Sangay Thinley | SELISE Group | SangayT97 | Thimphu, Bhutan | 2298 |
 | 10 | [Ugyenjigmerangdrel](https://github.com/Ugyenjigmerangdrel) | Ugyen Jigme Rangdrel | @jaggle.ai | URangdrel | Bhutan | 2053 |
 | 11 | [ugyentenzin1](https://github.com/ugyentenzin1) | Ugyen Tenzin  | @SELISEdigitalplatforms  |  | Thiimphu, Bhutan | 2022 |
 | 12 | [grey300](https://github.com/grey300) | Tshering Gyeltshen |  |  | Bhutan | 1968 |

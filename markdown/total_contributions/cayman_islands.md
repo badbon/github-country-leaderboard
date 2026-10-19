@@ -1,12 +1,12 @@
 # Total Contributions - Cayman Islands
 
-Generated: 2026-10-19T03:34:07.628Z
+Generated: 2026-10-19T06:26:31.766Z
 
 Users: 124
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [lhermoso](https://github.com/lhermoso) | Leo Hermoso | Liquid Byte Labs | leohermoso | Cayman Islands | 22272 |
+| 1 | [lhermoso](https://github.com/lhermoso) | Leo Hermoso | Liquid Byte Labs | leohermoso | Cayman Islands | 22284 |
 | 2 | [evandrosaturnino](https://github.com/evandrosaturnino) | Evandro Saturnino | @etherfi-protocol | evandro_saturn | Cayman Islands | 7810 |
 | 3 | [yannickrocks](https://github.com/yannickrocks) | Yannick Mermet | IoFinnet |  | Cayman Islands | 5099 |
 | 4 | [andreogle](https://github.com/andreogle) | André Ogle |  |  | 🇰🇾 Cayman Islands | 3736 |
@@ -22,7 +22,7 @@ Users: 124
 | 14 | [tmancey](https://github.com/tmancey) | Terry Mancey |  |  | Cayman Islands | 1059 |
 | 15 | [saviro-orin](https://github.com/saviro-orin) | Orin |  |  | Cayman Islands | 1058 |
 | 16 | [BaltasarAroso](https://github.com/BaltasarAroso) | Baltasar Aroso |  | ArosoBaltasar | George Town, Cayman Islands | 1047 |
-| 17 | [Gise345](https://github.com/Gise345) | Giselle Johnson | https://invovibetech.com/ |  | Cayman Islands | 955 |
+| 17 | [Gise345](https://github.com/Gise345) | Giselle Johnson | https://invovibetech.com/ |  | Cayman Islands | 953 |
 | 18 | [sharkzp](https://github.com/sharkzp) | Alex Topalov | @Slice |  | Cayman Islands | 752 |
 | 19 | [zkhan93](https://github.com/zkhan93) | Zeeshan Khan |  | zkhan1093 | Cayman Islands | 700 |
 | 20 | [alow](https://github.com/alow) | Amir |  |  | Cayman Islands | 673 |

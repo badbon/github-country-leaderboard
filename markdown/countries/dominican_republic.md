@@ -49,8 +49,8 @@ Indexed users: 3,299
 | 10 | [FredPeal](https://github.com/FredPeal) | Frederick Peñalo | Dominican Republic | 1,974 |
 | 11 | [jesusantguerrero](https://github.com/jesusantguerrero) | Jesus Guerrero Álvarez  | Santo Domingo, Dominican Republic | 1,908 |
 | 12 | [henfrydls](https://github.com/henfrydls) | Henfry De Los Santos | Santo Domingo, República Dominicana | 1,900 |
-| 13 | [dbremont](https://github.com/dbremont) | Daniel  de Victoriano y Bremont | America, Dominican Republic | 1,827 |
-| 14 | [lrojas94](https://github.com/lrojas94) | Luis E. Rojas Cabrera | Santiago, Dominican Republic | 1,786 |
+| 13 | [lrojas94](https://github.com/lrojas94) | Luis E. Rojas Cabrera | Santiago, Dominican Republic | 1,889 |
+| 14 | [dbremont](https://github.com/dbremont) | Daniel  de Victoriano y Bremont | America, Dominican Republic | 1,827 |
 | 15 | [bryanstevensacosta](https://github.com/bryanstevensacosta) | Bryan Acosta | Dominican Republic | 1,758 |
 | 16 | [XavielT](https://github.com/XavielT) | Xaviel Terrero | Dominican Republic | 1,718 |
 | 17 | [franklinmdev](https://github.com/franklinmdev) | Franklin Martinez | Dominican Republic | 1,622 |
@@ -83,4 +83,4 @@ Indexed users: 3,299
 | 19 | [eatskolnikov](https://github.com/eatskolnikov) | Enmanuel Toribio | Dominican Republic | 149 |
 | 20 | [RaymondCoplin](https://github.com/RaymondCoplin) | Raymond Coplin | Dominican Republic, Santo Domingo | 120 |
 
-Generated: 2026-10-19T03:39:23.570Z
+Generated: 2026-10-19T06:31:02.825Z

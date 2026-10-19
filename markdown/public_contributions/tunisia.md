@@ -1,6 +1,6 @@
 # Public Contributions - Tunisia
 
-Generated: 2026-10-19T03:19:06.980Z
+Generated: 2026-10-19T06:04:49.267Z
 
 Users: 7165
 
@@ -11,7 +11,7 @@ Users: 7165
 | 3 | [thevpc](https://github.com/thevpc) | thevpc | Core Techs Solutions |  | Tunisia | 15723 |
 | 4 | [Nour-yahyaoui](https://github.com/Nour-yahyaoui) | Nour-Yahyaoui | vex-kernel |  | Tunisia | 14899 |
 | 5 | [labidiaymen](https://github.com/labidiaymen) | Aymen | Nuraly | labidiaymen | Tunis, Tunisia | 10439 |
-| 6 | [MohamedBechirMejri](https://github.com/MohamedBechirMejri) | Mohamed Bechir Mejri |  | 0x4D424D | Tunisia | 8231 |
+| 6 | [MohamedBechirMejri](https://github.com/MohamedBechirMejri) | Mohamed Bechir Mejri |  | 0x4D424D | Tunisia | 7039 |
 | 7 | [baderdean](https://github.com/baderdean) | Badreddine Lejmi | ankaboot |  | Tunisia | 4552 |
 | 8 | [Ylandolsi](https://github.com/Ylandolsi) | Mohamed Yassine Landolsi  |  |  | Tunisia ,  Sousse ,  Msaken | 4474 |
 | 9 | [azjezz](https://github.com/azjezz) | Seifeddine Gmati | @Carthage-Software | azjezz | Tunisia | 4468 |

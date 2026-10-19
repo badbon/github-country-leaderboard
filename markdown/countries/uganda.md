@@ -1,6 +1,6 @@
 # Uganda
 
-Indexed users: 3,866
+Indexed users: 3,865
 
 | Leaderboard | Link |
 |---|---|
@@ -19,7 +19,7 @@ Indexed users: 3,866
 | 5 | [peterbamuhigire](https://github.com/peterbamuhigire) | Peter Bamuhigire | Kampala, Uganda | 10,913 |
 | 6 | [kallyas](https://github.com/kallyas) | Iden | Uganda | 10,474 |
 | 7 | [PerezChris99](https://github.com/PerezChris99) | Perez Chris | Kampala, Uganda | 10,239 |
-| 8 | [kashua14](https://github.com/kashua14) | Kasasira Joshua | Kampala, Uganda | 9,986 |
+| 8 | [baliksjosay](https://github.com/baliksjosay) | Joseph Balikuddembe | Kampala, uganda | 10,149 |
 | 9 | [ziyalogy](https://github.com/ziyalogy) | Ziyal Amanya | Uganda | 9,934 |
 | 10 | [MUKE-coder](https://github.com/MUKE-coder) | MUKE JOHNBAPTIST | KAMPALA -UGANDA | 9,513 |
 | 11 | [GenoJ83](https://github.com/GenoJ83) | Geno Joshua | Kampala | 9,133 |
@@ -27,10 +27,10 @@ Indexed users: 3,866
 | 13 | [raheebwa](https://github.com/raheebwa) | Ramadhan Aheebwa | Kampala, Uganda | 9,040 |
 | 14 | [baliddeki](https://github.com/baliddeki) | Aliddeki Mulindwa Bryan | Kampala, Uganda | 9,028 |
 | 15 | [kal-J](https://github.com/kal-J) | kalujja | Uganda | 8,301 |
-| 16 | [Mugamba669](https://github.com/Mugamba669) | Mugamba669 | Kampala, Uganda | 7,995 |
-| 17 | [KansiimeKenie](https://github.com/KansiimeKenie) | Kansiime Keneth | kampala, Ug | 7,957 |
-| 18 | [GaspardKirira](https://github.com/GaspardKirira) | G-kirira | Africa / Uganda / Kampala | 7,825 |
-| 19 | [baliksjosay](https://github.com/baliksjosay) | Joseph Balikuddembe | Kampala, uganda | 7,753 |
+| 16 | [kashua14](https://github.com/kashua14) | Kasasira Joshua | Kampala, Uganda | 8,178 |
+| 17 | [Mugamba669](https://github.com/Mugamba669) | Mugamba669 | Kampala, Uganda | 7,995 |
+| 18 | [KansiimeKenie](https://github.com/KansiimeKenie) | Kansiime Keneth | kampala, Ug | 7,957 |
+| 19 | [GaspardKirira](https://github.com/GaspardKirira) | G-kirira | Africa / Uganda / Kampala | 7,825 |
 | 20 | [judeotine](https://github.com/judeotine) | Judeotine | Uganda | 7,440 |
 
 ## Public Contributions
@@ -83,4 +83,4 @@ Indexed users: 3,866
 | 19 | [kallyas](https://github.com/kallyas) | Iden | Uganda | 190 |
 | 20 | [FahimWeblogicAndCyberTechnologies](https://github.com/FahimWeblogicAndCyberTechnologies) | FRANKLIN | Uganda | 186 |
 
-Generated: 2026-10-19T03:19:41.841Z
+Generated: 2026-10-19T06:06:35.173Z

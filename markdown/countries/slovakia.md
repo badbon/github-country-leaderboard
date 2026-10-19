@@ -29,9 +29,9 @@ Indexed users: 4,661
 | 15 | [Kenessy](https://github.com/Kenessy) | Daniel Kenessy | Slovakia | 9,652 |
 | 16 | [crnkjck](https://github.com/crnkjck) | Ján Kľuka | Bratislava, Slovakia | 9,637 |
 | 17 | [VladimirTomko](https://github.com/VladimirTomko) | Vladimír Tomko | Bratislava, Slovakia | 9,429 |
-| 18 | [digitalapplied](https://github.com/digitalapplied) | Richard Gibbons | Bratislava, Slovakia | 9,172 |
-| 19 | [valferon](https://github.com/valferon) | Feron Valentin | Slovakia | 8,723 |
-| 20 | [mrshu](https://github.com/mrshu) | Marek Šuppa | Slovakia | 8,545 |
+| 18 | [filippofilip95](https://github.com/filippofilip95) | Filip Papranec | Slovakia | 9,289 |
+| 19 | [digitalapplied](https://github.com/digitalapplied) | Richard Gibbons | Bratislava, Slovakia | 9,172 |
+| 20 | [valferon](https://github.com/valferon) | Feron Valentin | Slovakia | 8,723 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 4,661
 | 19 | [Stiivi](https://github.com/Stiivi) | Stefan Urbanek | Bratislava | 280 |
 | 20 | [haad](https://github.com/haad) | Adam Hamsik | Bratislava Slovakia | 259 |
 
-Generated: 2026-10-19T03:12:13.629Z
+Generated: 2026-10-19T05:57:22.864Z

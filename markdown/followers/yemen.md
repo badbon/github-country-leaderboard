@@ -1,6 +1,6 @@
 # Followers - Yemen
 
-Generated: 2026-10-19T03:23:11.501Z
+Generated: 2026-10-19T06:12:01.612Z
 
 Users: 1205
 
@@ -23,6 +23,6 @@ Users: 1205
 | 15 | [muath-ye](https://github.com/muath-ye) | Muath Alsowadi | Co-founder @YemenOpenSource, Member of @open-sale | muathye | Yemen | 181 |
 | 16 | [Emadalshamery](https://github.com/Emadalshamery) | Emad QEAD Alshamiri  | alemadtr.com |  | Yemen | 172 |
 | 17 | [aameralduais](https://github.com/aameralduais) | Aamer Alduais |  |  | Sana'a, Yemen | 161 |
-| 18 | [0-d3y](https://github.com/0-d3y) | S4Tech | Cyber Security | Linux_ye | Yemen | 160 |
-| 19 | [hetari](https://github.com/hetari) | Ebraheem Alhetari | Temmam Light | hetaridev | Yemen | 160 |
+| 18 | [0-d3y](https://github.com/0-d3y) | S4Tech | Cyber Security | Linux_ye | Yemen | 159 |
+| 19 | [hetari](https://github.com/hetari) | Ebraheem Alhetari | Temmam Light | hetaridev | Yemen | 158 |
 | 20 | [its4nas](https://github.com/its4nas) | Anas Al-Dharei | Yemen International Technology Company | its4nas | Yemen | 147 |

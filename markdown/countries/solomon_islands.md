@@ -12,8 +12,8 @@ Indexed users: 19
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [anikwai](https://github.com/anikwai) | Watson  Cyrus Anikwai | Solomon Islands | 8,140 |
-| 2 | [filimoni](https://github.com/filimoni) | filimoni | Honiara | 4,348 |
+| 1 | [anikwai](https://github.com/anikwai) | Watson  Cyrus Anikwai | Solomon Islands | 8,124 |
+| 2 | [filimoni](https://github.com/filimoni) | filimoni | Honiara | 4,350 |
 | 3 | [b-tupiti](https://github.com/b-tupiti) | Brandon Ryan Tupiti | Honiara, Solomon Islands | 1,894 |
 | 4 | [lininn](https://github.com/lininn) | Emerson Towne | 029 ,Bosco Views ,Aishaburgh ,South Carolina ,Solomon Islands | 210 |
 | 5 | [MilkMeat25](https://github.com/MilkMeat25) | Gary Grossmith | Lengakiki, Honiara, Solomon Islands | 46 |
@@ -60,7 +60,7 @@ Indexed users: 19
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [anikwai](https://github.com/anikwai) | Watson  Cyrus Anikwai | Solomon Islands | 32 |
+| 1 | [anikwai](https://github.com/anikwai) | Watson  Cyrus Anikwai | Solomon Islands | 33 |
 | 2 | [masachi](https://github.com/masachi) | YukinoshitaKyaru | Solomon Islands | 25 |
 | 3 | [b-tupiti](https://github.com/b-tupiti) | Brandon Ryan Tupiti | Honiara, Solomon Islands | 14 |
 | 4 | [bryanrscott](https://github.com/bryanrscott) | Bryan | Honiara | 14 |
@@ -80,4 +80,4 @@ Indexed users: 19
 | 18 | [mygodtnt](https://github.com/mygodtnt) |  | Solomon Islands | 1 |
 | 19 | [token-ek](https://github.com/token-ek) | ekausimae | Solomon Islands | 1 |
 
-Generated: 2026-10-19T03:12:43.831Z
+Generated: 2026-10-19T05:58:04.508Z

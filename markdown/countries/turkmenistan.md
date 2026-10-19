@@ -23,7 +23,7 @@ Indexed users: 501
 | 9 | [noxur05](https://github.com/noxur05) | Bagtyyar Rejepov | Ashgabat, Turkmenistan | 3,715 |
 | 10 | [kakajansh](https://github.com/kakajansh) | Kakajan SH | Ashgabat | 3,707 |
 | 11 | [Nirovitsky](https://github.com/Nirovitsky) | Ata | Turkmenistan | 3,369 |
-| 12 | [Begench2005](https://github.com/Begench2005) | Begench | Ashgabat, Turkmenistan | 3,258 |
+| 12 | [Begench2005](https://github.com/Begench2005) | Begench | Ashgabat, Turkmenistan | 3,253 |
 | 13 | [Dayanch437](https://github.com/Dayanch437) | Salarov Dayanch Kemalovich | Turkmenistan | 3,101 |
 | 14 | [bridgecoresystems-cmd](https://github.com/bridgecoresystems-cmd) | BridgeCore SYSTEMS | Turkmenistan | 3,083 |
 | 15 | [udemuradov](https://github.com/udemuradov) | Serdar Udemuradov | Turkmenistan, Turkmenbashi | 2,716 |
@@ -52,7 +52,7 @@ Indexed users: 501
 | 13 | [northernwolf00](https://github.com/northernwolf00) | Googa Dev | Turkmenistan | 417 |
 | 14 | [aynazar-sylyyew-dev](https://github.com/aynazar-sylyyew-dev) | TheAýnazarSylyýew | Turkmenistan | 403 |
 | 15 | [atageldi194229](https://github.com/atageldi194229) | Atageldi | Ashgabat, Turkmenistan | 366 |
-| 16 | [Seyit47](https://github.com/Seyit47) | Seyitmyrat Geldiyew | Ashgabat, Turkmenistan | 352 |
+| 16 | [Seyit47](https://github.com/Seyit47) | Seyitmyrat Geldiyew | Ashgabat, Turkmenistan | 360 |
 | 17 | [richxcame](https://github.com/richxcame) | Baygeldi Cholukov | Turkmenistan | 330 |
 | 18 | [leonid-belousov](https://github.com/leonid-belousov) | Leonid | Turkmenistan Ashgabat | 286 |
 | 19 | [wepashka](https://github.com/wepashka) | Vepa Sabyrow | Ashgabat | 286 |
@@ -83,4 +83,4 @@ Indexed users: 501
 | 19 | [MerlinEmris](https://github.com/MerlinEmris) | Merdan Chariyarov | Ashgabat | 65 |
 | 20 | [atageldi194229](https://github.com/atageldi194229) | Atageldi | Ashgabat, Turkmenistan | 64 |
 
-Generated: 2026-10-19T03:19:17.154Z
+Generated: 2026-10-19T06:05:30.622Z

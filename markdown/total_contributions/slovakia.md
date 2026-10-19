@@ -1,6 +1,6 @@
 # Total Contributions - Slovakia
 
-Generated: 2026-10-19T03:12:13.629Z
+Generated: 2026-10-19T05:57:22.864Z
 
 Users: 4661
 
@@ -23,6 +23,6 @@ Users: 4661
 | 15 | [Kenessy](https://github.com/Kenessy) | Daniel Kenessy | VRAXION |  | Slovakia | 9652 |
 | 16 | [crnkjck](https://github.com/crnkjck) | Ján Kľuka | Comenius University Bratislava |  | Bratislava, Slovakia | 9637 |
 | 17 | [VladimirTomko](https://github.com/VladimirTomko) | Vladimír Tomko | BeCode s.r.o.  |  | Bratislava, Slovakia | 9429 |
-| 18 | [digitalapplied](https://github.com/digitalapplied) | Richard Gibbons | Digital Applied |  | Bratislava, Slovakia | 9172 |
-| 19 | [valferon](https://github.com/valferon) | Feron Valentin | swipejobs |  | Slovakia | 8723 |
-| 20 | [mrshu](https://github.com/mrshu) | Marek Šuppa |  | mareksuppa | Slovakia | 8545 |
+| 18 | [filippofilip95](https://github.com/filippofilip95) | Filip Papranec | @kontentino @digitaliko | filippofilip95 | Slovakia | 9289 |
+| 19 | [digitalapplied](https://github.com/digitalapplied) | Richard Gibbons | Digital Applied |  | Bratislava, Slovakia | 9172 |
+| 20 | [valferon](https://github.com/valferon) | Feron Valentin | swipejobs |  | Slovakia | 8723 |

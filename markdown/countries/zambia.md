@@ -66,7 +66,7 @@ Indexed users: 1,337
 | 2 | [Billypeterlennards](https://github.com/Billypeterlennards) | Billy Peter Munyenyembe | Lusaka,Zambia | 392 |
 | 3 | [rly0nheart](https://github.com/rly0nheart) | Ritchie Mwewa | Zambia | 302 |
 | 4 | [KMKCODER](https://github.com/KMKCODER) | Kapembwa Kangali  | Ndola, Zambia | 233 |
-| 5 | [Joshk21758](https://github.com/Joshk21758) | Mwansa kunda  | Lusaka, Zambia  | 230 |
+| 5 | [Joshk21758](https://github.com/Joshk21758) | Mwansa kunda  | Lusaka, Zambia  | 232 |
 | 6 | [marksikaundi](https://github.com/marksikaundi) | Mark Sikaundi | Zambia | 223 |
 | 7 | [boniface](https://github.com/boniface) | Boniface Kabaso | Lusaka, Zambia | 191 |
 | 8 | [smaboshe](https://github.com/smaboshe) | Silumesii Maboshe | Zambia | 173 |
@@ -83,4 +83,4 @@ Indexed users: 1,337
 | 19 | [blessedjasonmwanza](https://github.com/blessedjasonmwanza) | Blessed Jason Mwanza |  Lusaka, Zambia | 104 |
 | 20 | [Eathorne2](https://github.com/Eathorne2) | Eathorne | Lusaka, Zambia | 103 |
 
-Generated: 2026-10-19T03:23:48.545Z
+Generated: 2026-10-19T06:12:41.439Z

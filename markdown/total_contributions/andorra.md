@@ -1,6 +1,6 @@
 # Total Contributions - Andorra
 
-Generated: 2026-10-19T03:25:10.028Z
+Generated: 2026-10-19T06:14:59.812Z
 
 Users: 215
 
@@ -19,10 +19,10 @@ Users: 215
 | 11 | [marcalj](https://github.com/marcalj) | Marçal | Lizcore |  | Andorra | 5070 |
 | 12 | [jorge07](https://github.com/jorge07) | Jorge Arco | 90P Lab | Jorge__SVQ | Escaldes, Andorra | 4952 |
 | 13 | [cmarfil](https://github.com/cmarfil) | Cristian Marfil |  |  | Andorra | 4769 |
-| 14 | [kopenkinda](https://github.com/kopenkinda) | Kopenkin Dmitrii | @salut-mercado  |  | Andorra | 4058 |
+| 14 | [kopenkinda](https://github.com/kopenkinda) | Kopenkin Dmitrii | @salut-mercado  |  | Andorra | 4185 |
 | 15 | [dvdjmnz](https://github.com/dvdjmnz) | David Jiménez |  |  | Andorra | 3704 |
 | 16 | [sgirones](https://github.com/sgirones) | Salvador Gironès Gil |  |  | Andorra | 3479 |
 | 17 | [ColColty](https://github.com/ColColty) | Tomàs Forné Cappeau | @surge-ai  |  | Andorra | 3469 |
-| 18 | [FaZeTitans](https://github.com/FaZeTitans) | Axel DA SILVA | Supscale | fazetitans | Andorra | 3123 |
+| 18 | [FaZeTitans](https://github.com/FaZeTitans) | Axel DA SILVA | Supscale | fazetitans | Andorra | 3124 |
 | 19 | [GRKdev](https://github.com/GRKdev) | G.R.K. | IAND |  | Andorra | 3120 |
-| 20 | [guillemfrancisco](https://github.com/guillemfrancisco) | Guillem Francisco | @Hulahoop-media |  | Andorra | 2887 |
+| 20 | [guillemfrancisco](https://github.com/guillemfrancisco) | Guillem Francisco | @Hulahoop-media |  | Andorra | 2894 |

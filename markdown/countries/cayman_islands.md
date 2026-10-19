@@ -12,7 +12,7 @@ Indexed users: 124
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [lhermoso](https://github.com/lhermoso) | Leo Hermoso | Cayman Islands | 22,272 |
+| 1 | [lhermoso](https://github.com/lhermoso) | Leo Hermoso | Cayman Islands | 22,284 |
 | 2 | [evandrosaturnino](https://github.com/evandrosaturnino) | Evandro Saturnino | Cayman Islands | 7,810 |
 | 3 | [yannickrocks](https://github.com/yannickrocks) | Yannick Mermet | Cayman Islands | 5,099 |
 | 4 | [andreogle](https://github.com/andreogle) | André Ogle | 🇰🇾 Cayman Islands | 3,736 |
@@ -28,7 +28,7 @@ Indexed users: 124
 | 14 | [tmancey](https://github.com/tmancey) | Terry Mancey | Cayman Islands | 1,059 |
 | 15 | [saviro-orin](https://github.com/saviro-orin) | Orin | Cayman Islands | 1,058 |
 | 16 | [BaltasarAroso](https://github.com/BaltasarAroso) | Baltasar Aroso | George Town, Cayman Islands | 1,047 |
-| 17 | [Gise345](https://github.com/Gise345) | Giselle Johnson | Cayman Islands | 955 |
+| 17 | [Gise345](https://github.com/Gise345) | Giselle Johnson | Cayman Islands | 953 |
 | 18 | [sharkzp](https://github.com/sharkzp) | Alex Topalov | Cayman Islands | 752 |
 | 19 | [zkhan93](https://github.com/zkhan93) | Zeeshan Khan | Cayman Islands | 700 |
 | 20 | [alow](https://github.com/alow) | Amir | Cayman Islands | 673 |
@@ -47,7 +47,7 @@ Indexed users: 124
 | 8 | [renannery](https://github.com/renannery) | Nery | Cayman Islands | 357 |
 | 9 | [andreogle](https://github.com/andreogle) | André Ogle | 🇰🇾 Cayman Islands | 329 |
 | 10 | [lhermoso](https://github.com/lhermoso) | Leo Hermoso | Cayman Islands | 260 |
-| 11 | [Gise345](https://github.com/Gise345) | Giselle Johnson | Cayman Islands | 257 |
+| 11 | [Gise345](https://github.com/Gise345) | Giselle Johnson | Cayman Islands | 255 |
 | 12 | [Blankinfinity](https://github.com/Blankinfinity) | Keith Pearce | Cayman Islands | 249 |
 | 13 | [Adedamola18](https://github.com/Adedamola18) | Damola Olutoke | Cayman Islands | 238 |
 | 14 | [zkhan93](https://github.com/zkhan93) | Zeeshan Khan | Cayman Islands | 177 |
@@ -83,4 +83,4 @@ Indexed users: 124
 | 19 | [dcimring](https://github.com/dcimring) | Daniel | Cayman Islands | 16 |
 | 20 | [RJDevGroup](https://github.com/RJDevGroup) | RJ Dev Group | George Town | 15 |
 
-Generated: 2026-10-19T03:34:07.628Z
+Generated: 2026-10-19T06:26:31.766Z

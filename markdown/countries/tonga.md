@@ -12,13 +12,13 @@ Indexed users: 9
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [JonLiki](https://github.com/JonLiki) | Sione Folaumoetu'i Likiliki | Tonga | 1,205 |
+| 1 | [JonLiki](https://github.com/JonLiki) | Sione Folaumoetu'i Likiliki | Tonga | 1,207 |
 | 2 | [tadongyro](https://github.com/tadongyro) | Melissa Gordon | Rachelmouth, Tonga | 135 |
 | 3 | [Cartus](https://github.com/Cartus) | Zhijiang | Tonga | 132 |
 | 4 | [staumoepeau](https://github.com/staumoepeau) | Sione Taumoepeau | Tonga | 58 |
 | 5 | [taufa](https://github.com/taufa) | Semisi | Tongatapu, Tonga | 39 |
 | 6 | [Pace417](https://github.com/Pace417) | AH | Tonga | 22 |
-| 7 | [james151br](https://github.com/james151br) | James | Tonga | 3 |
+| 7 | [james151br](https://github.com/james151br) | James | Tonga | 4 |
 | 8 | [lekamotu](https://github.com/lekamotu) | Sioto Fine | Tonga | 0 |
 | 9 | [styxl](https://github.com/styxl) | Joe M | Tonga | 0 |
 
@@ -31,7 +31,7 @@ Indexed users: 9
 | 3 | [JonLiki](https://github.com/JonLiki) | Sione Folaumoetu'i Likiliki | Tonga | 71 |
 | 4 | [staumoepeau](https://github.com/staumoepeau) | Sione Taumoepeau | Tonga | 58 |
 | 5 | [Pace417](https://github.com/Pace417) | AH | Tonga | 22 |
-| 6 | [james151br](https://github.com/james151br) | James | Tonga | 3 |
+| 6 | [james151br](https://github.com/james151br) | James | Tonga | 4 |
 | 7 | [lekamotu](https://github.com/lekamotu) | Sioto Fine | Tonga | 0 |
 | 8 | [styxl](https://github.com/styxl) | Joe M | Tonga | 0 |
 | 9 | [taufa](https://github.com/taufa) | Semisi | Tongatapu, Tonga | 0 |
@@ -50,4 +50,4 @@ Indexed users: 9
 | 8 | [lekamotu](https://github.com/lekamotu) | Sioto Fine | Tonga | 1 |
 | 9 | [Pace417](https://github.com/Pace417) | AH | Tonga | 1 |
 
-Generated: 2026-10-19T03:18:02.483Z
+Generated: 2026-10-19T06:04:40.292Z

@@ -20,7 +20,7 @@ Indexed users: 123
 | 6 | [CreativeYudai](https://github.com/CreativeYudai) | Yudai Heber | Paramaribo | 1,769 |
 | 7 | [Beefy-py](https://github.com/Beefy-py) | Kenny Hoft | Commwijne, Suriname | 1,652 |
 | 8 | [JhonatanJavierDev](https://github.com/JhonatanJavierDev) | Jhonatan Javier Corella Pérez | Paramaribo | 1,598 |
-| 9 | [jairseedorf](https://github.com/jairseedorf) | Jaïr Seedorf  | Suriname | 1,126 |
+| 9 | [jairseedorf](https://github.com/jairseedorf) | Jaïr Seedorf  | Suriname | 1,125 |
 | 10 | [giannisanni](https://github.com/giannisanni) | Gianni Sanrochman | Paramaribo, Suriname | 866 |
 | 11 | [nerkarso](https://github.com/nerkarso) | Ner Karso | Paramaribo, Suriname | 817 |
 | 12 | [dmoed](https://github.com/dmoed) | <Don/> | Paramaribo, Suriname | 737 |
@@ -83,4 +83,4 @@ Indexed users: 123
 | 19 | [JovinF](https://github.com/JovinF) | Jovin Fransman | Suriname | 18 |
 | 20 | [Your1405](https://github.com/Your1405) | Youri Karijopawiro | Paramaribo, Suriname | 18 |
 
-Generated: 2026-10-19T03:14:34.869Z
+Generated: 2026-10-19T06:01:31.514Z
