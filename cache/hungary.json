@@ -34002,9 +34002,9 @@
     "location": "Hungary",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 120,
-    "publicContributions": 14,
+    "publicContributions": 15,
     "createdAt": "2020-07-31T13:16:48Z"
   },
   {
@@ -34040,7 +34040,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2020-09-03T07:24:02Z"
   },
   {
@@ -34058,7 +34058,7 @@
   {
     "login": "roltshi",
     "name": "Roland Horváth",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/65174939?s=72&u=f80a748af7846f1fb6cc4914d8e606dd14d9906a&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/65174939?s=72&u=fdcdc3f1df84a9333de339aaf7cec3b658ed1290&v=4",
     "location": "Hungary",
     "company": "",
     "twitterUsername": "",
@@ -34075,7 +34075,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 122,
+    "privateContributions": 97,
     "publicContributions": 0,
     "createdAt": "2020-06-14T07:24:24Z"
   },
@@ -34099,7 +34099,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 17,
+    "privateContributions": 34,
     "publicContributions": 0,
     "createdAt": "2020-12-25T01:45:58Z"
   },
@@ -34111,8 +34111,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 79,
-    "publicContributions": 29,
+    "privateContributions": 53,
+    "publicContributions": 24,
     "createdAt": "2020-03-28T12:58:24Z"
   },
   {
@@ -34124,7 +34124,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 4,
     "createdAt": "2020-03-28T12:02:16Z"
   },
   {
@@ -34147,8 +34147,8 @@
     "company": "@BME-FRT ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 52,
-    "publicContributions": 327,
+    "privateContributions": 18,
+    "publicContributions": 347,
     "createdAt": "2020-11-26T08:50:57Z"
   },
   {
@@ -34159,21 +34159,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 23,
-    "publicContributions": 54,
+    "privateContributions": 58,
+    "publicContributions": 52,
     "createdAt": "2020-12-20T18:42:20Z"
-  },
-  {
-    "login": "KaZo75",
-    "name": "Zoltán Kanyár",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/76182005?s=72&v=4",
-    "location": "Hungary",
-    "company": "---",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2020-12-17T19:43:45Z"
   },
   {
     "login": "FM-Griston",

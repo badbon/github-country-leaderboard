@@ -34118,13 +34118,13 @@
   {
     "login": "albralemam",
     "name": "Albaraa Alemam",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/79738342?s=72&u=41e442d31b4486978a45eb8cdae48b9f659d04cc&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/79738342?s=72&u=7359a6ff6847f5636d99e9d5dcfd43789b568f55&v=4",
     "location": "Saudi Arabia",
     "company": "King Saud University",
     "twitterUsername": "BrAlemam",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2021-02-27T05:57:14Z"
   },
   {
@@ -34136,7 +34136,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 82,
+    "publicContributions": 78,
     "createdAt": "2021-06-08T17:06:18Z"
   },
   {
@@ -34174,30 +34174,6 @@
     "privateContributions": 0,
     "publicContributions": 46,
     "createdAt": "2021-08-29T15:27:25Z"
-  },
-  {
-    "login": "Sherif944",
-    "name": "Sherif Mohammed",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/88806449?s=72&u=30475b9896d1f751dc41382315cffd0d09255f2f&v=4",
-    "location": "Riyadh, Saudi Arabia",
-    "company": "Data Analytics @ Lemon Pharmacies",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 110,
-    "createdAt": "2021-08-11T23:33:09Z"
-  },
-  {
-    "login": "ZyadAlnaim",
-    "name": "Zyad Abdullatif",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/82473471?s=72&u=533a0c3137a68295d78e866c4086cf553f81c745&v=4",
-    "location": "Saudi Arabia",
-    "company": "Mave",
-    "twitterUsername": "Azy4d",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2021-04-13T19:48:56Z"
   },
   {
     "login": "shrouq-altalhi",
@@ -34242,7 +34218,7 @@
     "location": "Saudi Arabia",
     "company": "KAUST",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 32,
     "createdAt": "2021-10-21T11:01:51Z"
@@ -34266,7 +34242,7 @@
     "location": "Jeddah/ Saudi Arabia",
     "company": "Jeddah University",
     "twitterUsername": "Hisham__Ibrahim",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-07-08T15:58:54Z"
@@ -34302,7 +34278,7 @@
     "location": "Riyadh, Saudi Arabia",
     "company": "Elm Company",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2021-07-30T15:00:08Z"
@@ -34351,8 +34327,8 @@
     "company": "Tuwaiq Academy",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 2609,
-    "publicContributions": 34,
+    "privateContributions": 5615,
+    "publicContributions": 46,
     "createdAt": "2021-05-30T15:24:00Z"
   },
   {

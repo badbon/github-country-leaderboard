@@ -34074,8 +34074,8 @@
     "location": "Tripoli, Greece",
     "company": "",
     "twitterUsername": "",
-    "followers": 39,
-    "privateContributions": 40,
+    "followers": 38,
+    "privateContributions": 52,
     "publicContributions": 0,
     "createdAt": "2013-02-21T17:30:42Z"
   },
@@ -34099,8 +34099,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 45,
-    "publicContributions": 8,
+    "privateContributions": 56,
+    "publicContributions": 40,
     "createdAt": "2022-11-14T18:06:20Z"
   },
   {
@@ -34111,8 +34111,8 @@
     "company": "National Technical University of Athens",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 221,
-    "publicContributions": 96,
+    "privateContributions": 218,
+    "publicContributions": 69,
     "createdAt": "2022-05-10T13:23:00Z"
   },
   {
@@ -34123,8 +34123,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 61,
-    "publicContributions": 111,
+    "privateContributions": 56,
+    "publicContributions": 96,
     "createdAt": "2022-05-09T13:56:54Z"
   },
   {
@@ -34135,7 +34135,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 714,
+    "privateContributions": 799,
     "publicContributions": 57,
     "createdAt": "2022-02-22T19:13:44Z"
   },
@@ -34147,8 +34147,8 @@
     "company": "@Uplodio ",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 1044,
-    "publicContributions": 28,
+    "privateContributions": 1209,
+    "publicContributions": 29,
     "createdAt": "2021-12-30T18:16:50Z"
   },
   {
@@ -34172,13 +34172,13 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 17,
     "createdAt": "2022-10-09T09:19:26Z"
   },
   {
     "login": "ildim9",
     "name": "Ilias Dimos",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/104107510?s=72&u=7a2ace0e40ab428b77c516d93296bf1a28678173&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/104107510?s=72&u=a4c3a8550c69d1276ab9febbd0f10870082e053c&v=4",
     "location": "Athens",
     "company": "Data Analyst at Vodafone",
     "twitterUsername": "",
@@ -34212,18 +34212,6 @@
     "createdAt": "2022-01-21T14:48:55Z"
   },
   {
-    "login": "regmi-sijan",
-    "name": "Sijan Regmi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/103208106?s=72&u=e97d02ce959b03db12441a4b0c79cdc18112f56a&v=4",
-    "location": "1 Ohio University, Athens, OH, 45701",
-    "company": "@ohio_university",
-    "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 0,
-    "publicContributions": 11,
-    "createdAt": "2022-04-07T16:30:00Z"
-  },
-  {
     "login": "mccallsyd",
     "name": "Sydney McCall",
     "avatarUrl": "https://avatars.githubusercontent.com/u/108299599?s=72&u=8a42b0cba6e6e1bfd56d3e86ab62c9283b4816bf&v=4",
@@ -34243,8 +34231,8 @@
     "company": "Athens University of Economics and Business",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 45,
-    "publicContributions": 1,
+    "privateContributions": 46,
+    "publicContributions": 0,
     "createdAt": "2022-01-13T17:52:02Z"
   },
   {
@@ -34279,8 +34267,8 @@
     "company": "Teka Systems SA",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 284,
-    "publicContributions": 9,
+    "privateContributions": 327,
+    "publicContributions": 0,
     "createdAt": "2022-10-07T12:14:01Z"
   },
   {
