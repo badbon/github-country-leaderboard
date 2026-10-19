@@ -26,4 +26,4 @@ The collector searches GitHub users by self-reported profile location, keeps use
 
 Locations are not verified. The raw profile location is preserved, and country assignment uses deterministic country, alias, city, and exact phrase rules.
 
-Generated: 2026-10-19T05:53:59.674Z
+Generated: 2026-10-19T05:55:27.647Z
