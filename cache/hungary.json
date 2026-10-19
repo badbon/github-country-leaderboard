@@ -34914,9 +34914,9 @@
     "location": "Hungary",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 158,
-    "publicContributions": 9,
+    "publicContributions": 21,
     "createdAt": "2020-05-24T08:25:12Z"
   },
   {
@@ -34939,7 +34939,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1080,
+    "privateContributions": 929,
     "publicContributions": 0,
     "createdAt": "2020-01-27T18:39:42Z"
   },
@@ -34986,9 +34986,9 @@
     "location": "Hungary",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 26,
     "createdAt": "2020-05-22T16:14:28Z"
   },
   {
@@ -35058,9 +35058,9 @@
     "location": "Hungary",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 36,
+    "publicContributions": 26,
     "createdAt": "2020-12-01T13:02:01Z"
   },
   {
@@ -35071,21 +35071,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 65,
+    "privateContributions": 3,
+    "publicContributions": 64,
     "createdAt": "2020-12-06T15:00:40Z"
-  },
-  {
-    "login": "bsolyom",
-    "name": "nullentry",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/63775925?s=72&u=3492d2392474158502018b09e5f0485cc63ba82c&v=4",
-    "location": "Hungary",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 30,
-    "publicContributions": 0,
-    "createdAt": "2020-04-16T07:23:28Z"
   },
   {
     "login": "ha1adm",
@@ -35108,7 +35096,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 6,
     "createdAt": "2020-05-08T04:26:41Z"
   },
   {
