@@ -12,7 +12,7 @@ Indexed users: 486
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [faso-dev](https://github.com/faso-dev) | Clovis S.J Onadja | Burkina-Faso,Ouagadougou | 8,805 |
+| 1 | [faso-dev](https://github.com/faso-dev) | Clovis S.J Onadja | Burkina-Faso,Ouagadougou | 8,900 |
 | 2 | [tky0065](https://github.com/tky0065) | Enokdev | Burkina Faso | 6,616 |
 | 3 | [kulturman](https://github.com/kulturman) | Arnaud Bakyono  | Ouagadougou | 4,494 |
 | 4 | [Rafik226](https://github.com/Rafik226) | Oumar Abdoul Rafik Sawadogo | Burkina Faso, Kadiogo, Ouagadougou | 4,457 |
@@ -30,7 +30,7 @@ Indexed users: 486
 | 16 | [Moussier24](https://github.com/Moussier24) | Moussier Cissé | Burkina Faso | 1,581 |
 | 17 | [BoukaryDiallo](https://github.com/BoukaryDiallo) | Boukary DIALLO | Ouagadougou, Burkina Faso | 1,574 |
 | 18 | [donnikurosaki](https://github.com/donnikurosaki) | DARA Dieudonné Goumba | Burkina Faso, Ouagadougou | 1,434 |
-| 19 | [adamako](https://github.com/adamako) | Adama KO | Burkina Faso | 1,386 |
+| 19 | [adamako](https://github.com/adamako) | Adama KO | Burkina Faso | 1,390 |
 | 20 | [rikudosama](https://github.com/rikudosama) | Lengam jean bonaventure | Ouagadougou, Burkina Faso | 1,228 |
 
 ## Public Contributions
@@ -75,7 +75,7 @@ Indexed users: 486
 | 11 | [spwoodcock](https://github.com/spwoodcock) | Sam | Ouagadougou, Burkina Faso | 65 |
 | 12 | [Kidchris](https://github.com/Kidchris) | Kidchris | Ouagadougou, Burkina Faso | 64 |
 | 13 | [wendtoinissaka](https://github.com/wendtoinissaka) |  | Ouagadougou, BURKINA FASO 🇧🇫❤️ | 56 |
-| 14 | [leaston](https://github.com/leaston) | Nkuna Charles | Burkina Faso | 50 |
+| 14 | [leaston](https://github.com/leaston) | Nkuna Charles | Burkina Faso | 51 |
 | 15 | [Zangafigue](https://github.com/Zangafigue) | Zangafigué Mathias TRAORE | Koudougou, Burkina Faso | 48 |
 | 16 | [haagrah](https://github.com/haagrah) | IsmaGUIRE | Burkina Faso (Ouagadougou) | 46 |
 | 17 | [ArielShadrac](https://github.com/ArielShadrac) | Ouedraogo Fildouindé Ariel Shadrac | Burkina Faso | 40 |
@@ -83,4 +83,4 @@ Indexed users: 486
 | 19 | [sokevinjonas](https://github.com/sokevinjonas) | SO Kevin Jonas Gningnabe | BURKINA FASO | 38 |
 | 20 | [kulturman](https://github.com/kulturman) | Arnaud Bakyono  | Ouagadougou | 36 |
 
-Generated: 2026-10-19T01:16:50.535Z
+Generated: 2026-10-19T02:26:12.130Z

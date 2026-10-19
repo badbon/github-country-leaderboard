@@ -1,6 +1,6 @@
 # Total Contributions - Cyprus
 
-Generated: 2026-10-19T01:21:56.967Z
+Generated: 2026-10-19T02:31:03.099Z
 
 Users: 2725
 
@@ -19,10 +19,10 @@ Users: 2725
 | 11 | [iskifogl](https://github.com/iskifogl) | Abdullah İskifoğlu |  |  | Cyprus | 11983 |
 | 12 | [Bezarius](https://github.com/Bezarius) | Mstislav Pavlov | Nekki |  | Cyprus, Larnaca | 11829 |
 | 13 | [yhersh](https://github.com/yhersh) | Yaron Hersh |  |  | Cyprus | 11708 |
-| 14 | [laikhtman](https://github.com/laikhtman) | [DL] | Filiatix |  | Cyprus | 11184 |
-| 15 | [pitops](https://github.com/pitops) | Petros Kyriakou |  |  | Cyprus | 10749 |
-| 16 | [aidinb](https://github.com/aidinb) | Aidin  | Aidin |  | Cyprus | 10217 |
-| 17 | [ByczukMartin](https://github.com/ByczukMartin) | Martin B. | MBYT LTD |  | Cyprus | 9995 |
-| 18 | [cploutarchou](https://github.com/cploutarchou) | Christos Ploutarchou |  | cploutarchou | Cyprus | 9926 |
-| 19 | [nyyhao](https://github.com/nyyhao) | nyhaoo_ | n1apps |  | Cyprus | 9666 |
-| 20 | [vvsotnikov](https://github.com/vvsotnikov) | Vladimir Sotnikov | @JetBrains |  | Cyprus, Paphos | 9399 |
+| 14 | [the-architect](https://github.com/the-architect) | Marcel Scherf | Next Level International Software Ltd | marcelscherf | Larnaca, Cyprus | 11418 |
+| 15 | [laikhtman](https://github.com/laikhtman) | [DL] | Filiatix |  | Cyprus | 11184 |
+| 16 | [pitops](https://github.com/pitops) | Petros Kyriakou |  |  | Cyprus | 10749 |
+| 17 | [aidinb](https://github.com/aidinb) | Aidin  | Aidin |  | Cyprus | 10217 |
+| 18 | [ByczukMartin](https://github.com/ByczukMartin) | Martin B. | MBYT LTD |  | Cyprus | 9995 |
+| 19 | [cploutarchou](https://github.com/cploutarchou) | Christos Ploutarchou |  | cploutarchou | Cyprus | 9926 |
+| 20 | [nyyhao](https://github.com/nyyhao) | nyhaoo_ | n1apps |  | Cyprus | 9666 |

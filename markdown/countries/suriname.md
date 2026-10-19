@@ -15,7 +15,7 @@ Indexed users: 123
 | 1 | [rafageist](https://github.com/rafageist) | Rafa Rodríguez | Paramaribo, Suriname | 45,095 |
 | 2 | [ragnarok22](https://github.com/ragnarok22) | Reinier Hernández | Suriname | 13,696 |
 | 3 | [doctorneon](https://github.com/doctorneon) | Fabian Jacott | Suriname | 6,217 |
-| 4 | [Karel95](https://github.com/Karel95) | Karel Hernández | Paramaribo, Suriname | 2,772 |
+| 4 | [Karel95](https://github.com/Karel95) | Karel Hernández | Paramaribo, Suriname | 2,847 |
 | 5 | [eSaniello](https://github.com/eSaniello) | Shaniel  | Suriname | 1,789 |
 | 6 | [CreativeYudai](https://github.com/CreativeYudai) | Yudai Heber | Paramaribo | 1,769 |
 | 7 | [Beefy-py](https://github.com/Beefy-py) | Kenny Hoft | Commwijne, Suriname | 1,652 |
@@ -43,7 +43,7 @@ Indexed users: 123
 | 4 | [JustinDouglas16](https://github.com/JustinDouglas16) | Justin Douglas | Paramaribo | 252 |
 | 5 | [pawiromitchel](https://github.com/pawiromitchel) | Mitchel | Suriname | 194 |
 | 6 | [ShawnMeo](https://github.com/ShawnMeo) | Shawn | Suriname | 132 |
-| 7 | [Nikhcodes](https://github.com/Nikhcodes) | Nikhcodes | Paramaribo | 127 |
+| 7 | [Nikhcodes](https://github.com/Nikhcodes) | Nikhcodes | Paramaribo | 131 |
 | 8 | [Fuseteam](https://github.com/Fuseteam) | Rahammetoela Toekiman | Paramaribo, Suriname | 117 |
 | 9 | [nerkarso](https://github.com/nerkarso) | Ner Karso | Paramaribo, Suriname | 114 |
 | 10 | [Sh1vZ](https://github.com/Sh1vZ) | Shivam | Suriname | 113 |
@@ -56,7 +56,7 @@ Indexed users: 123
 | 17 | [DeviousSiddy](https://github.com/DeviousSiddy) |  | Suriname | 65 |
 | 18 | [muskaanm4](https://github.com/muskaanm4) | Muskaan Mahabier | Suriname, Paramaribo | 63 |
 | 19 | [nathaniel123x3rd](https://github.com/nathaniel123x3rd) | Nathanielx3rd | Paramaribo, Suriname | 60 |
-| 20 | [Karel95](https://github.com/Karel95) | Karel Hernández | Paramaribo, Suriname | 56 |
+| 20 | [TaufiqSultan](https://github.com/TaufiqSultan) | Taufiq Sultan | Suriname | 56 |
 
 ## Followers
 
@@ -70,9 +70,9 @@ Indexed users: 123
 | 6 | [Fuseteam](https://github.com/Fuseteam) | Rahammetoela Toekiman | Paramaribo, Suriname | 38 |
 | 7 | [Sh1vZ](https://github.com/Sh1vZ) | Shivam | Suriname | 37 |
 | 8 | [eSaniello](https://github.com/eSaniello) | Shaniel  | Suriname | 36 |
-| 9 | [Karel95](https://github.com/Karel95) | Karel Hernández | Paramaribo, Suriname | 36 |
-| 10 | [m23ck](https://github.com/m23ck) | Tafarél Mack | Paramaribo/Suriname | 36 |
-| 11 | [shayant98](https://github.com/shayant98) | Shayant | Suriname | 36 |
+| 9 | [m23ck](https://github.com/m23ck) | Tafarél Mack | Paramaribo/Suriname | 36 |
+| 10 | [shayant98](https://github.com/shayant98) | Shayant | Suriname | 36 |
+| 11 | [Karel95](https://github.com/Karel95) | Karel Hernández | Paramaribo, Suriname | 35 |
 | 12 | [kareldonk](https://github.com/kareldonk) | Karel Donk | Suriname | 28 |
 | 13 | [rafageist](https://github.com/rafageist) | Rafa Rodríguez | Paramaribo, Suriname | 28 |
 | 14 | [JhonatanJavierDev](https://github.com/JhonatanJavierDev) | Jhonatan Javier Corella Pérez | Paramaribo | 27 |
@@ -83,4 +83,4 @@ Indexed users: 123
 | 19 | [JovinF](https://github.com/JovinF) | Jovin Fransman | Suriname | 18 |
 | 20 | [Your1405](https://github.com/Your1405) | Youri Karijopawiro | Paramaribo, Suriname | 18 |
 
-Generated: 2026-10-19T00:59:30.440Z
+Generated: 2026-10-19T02:07:41.770Z

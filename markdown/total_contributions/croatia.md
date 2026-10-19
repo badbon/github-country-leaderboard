@@ -1,6 +1,6 @@
 # Total Contributions - Croatia
 
-Generated: 2026-10-19T01:20:37.498Z
+Generated: 2026-10-19T02:30:50.110Z
 
 Users: 5427
 
@@ -22,7 +22,7 @@ Users: 5427
 | 14 | [zvanjak](https://github.com/zvanjak) | Zvonimir Vanjak | Quantum Soft d.o.o. | zvanjak | Zagreb | 7219 |
 | 15 | [viborc](https://github.com/viborc) | Vibor Cipan | Daydream | viborc | Croatia | 7209 |
 | 16 | [verona-dev](https://github.com/verona-dev) | Zoran G. Verona | Good Code |  | Croatia | 6981 |
-| 17 | [Domogo](https://github.com/Domogo) | Domagoj Satrapa |  |  | Pula, Croatia | 6913 |
+| 17 | [Domogo](https://github.com/Domogo) | Domagoj Satrapa |  |  | Pula, Croatia | 6765 |
 | 18 | [SeloSlav](https://github.com/SeloSlav) | Martin Erlic |  | SeloSlav | Zagreb | 6760 |
 | 19 | [piqusy](https://github.com/piqusy) | Ivan Ramljak | @infinum  |  | Zagreb | 6748 |
 | 20 | [leonardogazdek](https://github.com/leonardogazdek) | Leonardo Gazdek |  |  | Croatia | 6743 |

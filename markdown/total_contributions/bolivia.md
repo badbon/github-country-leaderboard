@@ -1,6 +1,6 @@
 # Total Contributions - Bolivia
 
-Generated: 2026-10-19T01:14:24.713Z
+Generated: 2026-10-19T02:24:22.163Z
 
 Users: 1784
 
@@ -8,7 +8,7 @@ Users: 1784
 |---:|---|---|---|---|---|---:|
 | 1 | [AndyIbanez](https://github.com/AndyIbanez) | Andy Ibanez | Fairese | AndyIbanezK | Bolivia | 27878 |
 | 2 | [ynvYauneEnovore](https://github.com/ynvYauneEnovore) | Yovan R. Enovore | Encorp LLC | ramonenovore | Sucre Bolivia | 10356 |
-| 3 | [rp4ri](https://github.com/rp4ri) | Toborochi | @Cyborg7-com  |  | Bolivia | 8894 |
+| 3 | [rp4ri](https://github.com/rp4ri) | Toborochi | @Cyborg7-com  |  | Bolivia | 9343 |
 | 4 | [abelrgr](https://github.com/abelrgr) | Abel |  |  | Bolivia | 8486 |
 | 5 | [DaleneyRuben](https://github.com/DaleneyRuben) | Fernando Daleney | TurboTenant |  | La Paz, Bolivia | 7674 |
 | 6 | [arkgast](https://github.com/arkgast) | Arnold Gandarillas Castillo |  |  | Bolivia | 7025 |
@@ -18,8 +18,8 @@ Users: 1784
 | 10 | [nicolenumbergg](https://github.com/nicolenumbergg) | Nicole Numberg |  |  | Santa Cruz, Bolivia | 5842 |
 | 11 | [OscarGauss](https://github.com/OscarGauss) | Oscar Gauss Carvajal Yucra |  | oscar_gauss | La Paz, Bolivia | 5452 |
 | 12 | [gitchaell](https://github.com/gitchaell) | Michaell Alavedra | @instrategy | michaellalaved | Santa Cruz de la Sierra, Bolivia | 5017 |
-| 13 | [cesarszv](https://github.com/cesarszv) | Sebastian Zambrana |  |  | Santa Cruz, Bolivia | 4884 |
-| 14 | [nahimdhaney](https://github.com/nahimdhaney) | Nahim Terrazas Parada | @openzeppelin | nahimdhaney | Bolivia | 4524 |
+| 13 | [nahimdhaney](https://github.com/nahimdhaney) | Nahim Terrazas Parada | @openzeppelin | nahimdhaney | Bolivia | 4941 |
+| 14 | [cesarszv](https://github.com/cesarszv) | Sebastian Zambrana |  |  | Santa Cruz, Bolivia | 4884 |
 | 15 | [ChristianConchari](https://github.com/ChristianConchari) | Chris Conchari |  | ConchariChris | Bolivia | 4388 |
 | 16 | [villcabo](https://github.com/villcabo) | Bismarck Villca | @SintesisSA  | BismarckVillcaS | Bolivia | 4262 |
 | 17 | [GonzaloPinell](https://github.com/GonzaloPinell) | Gonzalo Pinell | Solunes Digital |  | La Paz, Bolivia | 4013 |

@@ -1,6 +1,6 @@
 # Total Contributions - Cayman Islands
 
-Generated: 2026-10-19T01:18:54.392Z
+Generated: 2026-10-19T02:27:33.429Z
 
 Users: 124
 
@@ -16,10 +16,10 @@ Users: 124
 | 8 | [GadzeMike](https://github.com/GadzeMike) | Mike Silagadze | Gadze Finance SEZC | MikeSilagadze | Cayman Islands | 2848 |
 | 9 | [pjdurden](https://github.com/pjdurden) | Prajjwal Chittori | @etherfi-protocol  |  | Cayman Islands | 2508 |
 | 10 | [0xpanicError](https://github.com/0xpanicError) | Yash Saraswat | Ether.Fi | 0xpanicError | Cayman Islands | 2361 |
-| 11 | [tamebadger](https://github.com/tamebadger) | Rupert Klopper |  |  | Grand Cayman, Cayman Islands | 1907 |
+| 11 | [tamebadger](https://github.com/tamebadger) | Rupert Klopper |  |  | Grand Cayman, Cayman Islands | 1903 |
 | 12 | [paulofierro](https://github.com/paulofierro) | Paulo Fierro | jadehopper ltd. |  | Cayman Islands | 1489 |
 | 13 | [RodneyAlison](https://github.com/RodneyAlison) | Rodney Alison |  |  | Cayman Islands | 1218 |
-| 14 | [tmancey](https://github.com/tmancey) | Terry Mancey |  |  | Cayman Islands | 1063 |
+| 14 | [tmancey](https://github.com/tmancey) | Terry Mancey |  |  | Cayman Islands | 1059 |
 | 15 | [saviro-orin](https://github.com/saviro-orin) | Orin |  |  | Cayman Islands | 1058 |
 | 16 | [BaltasarAroso](https://github.com/BaltasarAroso) | Baltasar Aroso |  | ArosoBaltasar | George Town, Cayman Islands | 1047 |
 | 17 | [Gise345](https://github.com/Gise345) | Giselle Johnson | https://invovibetech.com/ |  | Cayman Islands | 955 |

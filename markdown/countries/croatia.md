@@ -28,7 +28,7 @@ Indexed users: 5,427
 | 14 | [zvanjak](https://github.com/zvanjak) | Zvonimir Vanjak | Zagreb | 7,219 |
 | 15 | [viborc](https://github.com/viborc) | Vibor Cipan | Croatia | 7,209 |
 | 16 | [verona-dev](https://github.com/verona-dev) | Zoran G. Verona | Croatia | 6,981 |
-| 17 | [Domogo](https://github.com/Domogo) | Domagoj Satrapa | Pula, Croatia | 6,913 |
+| 17 | [Domogo](https://github.com/Domogo) | Domagoj Satrapa | Pula, Croatia | 6,765 |
 | 18 | [SeloSlav](https://github.com/SeloSlav) | Martin Erlic | Zagreb | 6,760 |
 | 19 | [piqusy](https://github.com/piqusy) | Ivan Ramljak | Zagreb | 6,748 |
 | 20 | [leonardogazdek](https://github.com/leonardogazdek) | Leonardo Gazdek | Croatia | 6,743 |
@@ -63,7 +63,7 @@ Indexed users: 5,427
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [adrianhajdin](https://github.com/adrianhajdin) | Adrian Hajdin - JS Mastery | Croatia | 37,543 |
-| 2 | [AntonioErdeljac](https://github.com/AntonioErdeljac) | Antonio Erdeljac | Zagreb, Croatia | 9,129 |
+| 2 | [AntonioErdeljac](https://github.com/AntonioErdeljac) | Antonio Erdeljac | Zagreb, Croatia | 9,118 |
 | 3 | [stamparm](https://github.com/stamparm) | Miroslav Stampar | Croatia | 2,923 |
 | 4 | [sasa1977](https://github.com/sasa1977) | Saša Jurić | Zagreb, Croatia | 1,862 |
 | 5 | [vladmandic](https://github.com/vladmandic) | Vladimir Mandic | Miami, Florida / Rijeka, Croatia | 1,185 |
@@ -78,9 +78,9 @@ Indexed users: 5,427
 | 14 | [kost](https://github.com/kost) | kost | Zagreb, Croatia | 580 |
 | 15 | [Martinsos](https://github.com/Martinsos) | Martin Šošić | Croatia | 480 |
 | 16 | [Raxone](https://github.com/Raxone) | RaleGale | Croatia | 438 |
-| 17 | [filbabic](https://github.com/filbabic) | Filip Babic | Osijek, Croatia | 417 |
+| 17 | [filbabic](https://github.com/filbabic) | Filip Babic | Osijek, Croatia | 416 |
 | 18 | [silvenon](https://github.com/silvenon) | Matija Marohnić | Zagreb, Croatia | 415 |
 | 19 | [loboris](https://github.com/loboris) | Boris Lovosevic | Zagreb, Croatia | 406 |
 | 20 | [nibzard](https://github.com/nibzard) | Nikola Balic | Split, Croatia | 364 |
 
-Generated: 2026-10-19T01:20:37.498Z
+Generated: 2026-10-19T02:30:50.110Z

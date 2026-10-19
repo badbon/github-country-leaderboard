@@ -44,7 +44,7 @@ Indexed users: 11
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [elielMengue](https://github.com/elielMengue) | Eliel MENGUE | BANGUI | 23 |
+| 1 | [elielMengue](https://github.com/elielMengue) | Eliel MENGUE | BANGUI | 22 |
 | 2 | [Nanobolide](https://github.com/Nanobolide) | Geoffroy Maidou | Remote ,Bangui , Centrafrique 🇨🇫 ; | 17 |
 | 3 | [nguereza-tony](https://github.com/nguereza-tony) | Tony NGUEREZA | Bangui | 9 |
 | 4 | [yadiOs-a-darel](https://github.com/yadiOs-a-darel) | Alphonso Darel | Bangui, Central African Republic | 7 |
@@ -56,4 +56,4 @@ Indexed users: 11
 | 10 | [josuehdasse](https://github.com/josuehdasse) | DASSE TE NGBOKOTA Josué Honoré | Bangui, République Centrafricaine | 1 |
 | 11 | [Zompire7](https://github.com/Zompire7) | Mahamat BENAMOU | Bangui | 1 |
 
-Generated: 2026-10-19T01:18:56.372Z
+Generated: 2026-10-19T02:27:38.240Z

@@ -1,13 +1,13 @@
 # Public Contributions - Barbados
 
-Generated: 2026-10-19T01:13:04.399Z
+Generated: 2026-10-19T02:21:32.630Z
 
 Users: 132
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [hammertoe](https://github.com/hammertoe) | Matt Hamilton | Dharach  | hammertoe | Barbados | 679 |
-| 2 | [ianhambleton](https://github.com/ianhambleton) | Ian Hambleton | The University of the West Indies |  | Barbados | 673 |
+| 2 | [ianhambleton](https://github.com/ianhambleton) | Ian Hambleton | The University of the West Indies |  | Barbados | 672 |
 | 3 | [caritechsolutions](https://github.com/caritechsolutions) |  |  |  | Barbados | 411 |
 | 4 | [shaquillehinds](https://github.com/shaquillehinds) | Shaquille Hinds |  |  | Barbados | 357 |
 | 5 | [jlayne246](https://github.com/jlayne246) | Joshua Layne |  |  | Bridgetown, Barbados | 307 |
@@ -16,7 +16,7 @@ Users: 132
 | 8 | [lukehefson](https://github.com/lukehefson) | Luke Hefson | @workbrew | lukehefson | Barbados | 220 |
 | 9 | [d-alleyne](https://github.com/d-alleyne) | Damien Alleyne |  |  | Barbados | 173 |
 | 10 | [jasonals](https://github.com/jasonals) | Jason Als | @mMoneyBB |  | Barbados | 150 |
-| 11 | [ShamarKellman](https://github.com/ShamarKellman) | Shamar Kellman |  | CoderShamar | Barbados | 140 |
+| 11 | [ShamarKellman](https://github.com/ShamarKellman) | Shamar Kellman |  | CoderShamar | Barbados | 141 |
 | 12 | [dario-j-c](https://github.com/dario-j-c) | Dario J C |  |  | Barbados | 127 |
 | 13 | [kernrocke](https://github.com/kernrocke) | Kern Rocke | The George Alleyne Chronic Disease Research Centre | kernrocke | Bridgetown, Barbados | 109 |
 | 14 | [AzielJust](https://github.com/AzielJust) | Aziel Hoyte |  |  | Barbados | 107 |

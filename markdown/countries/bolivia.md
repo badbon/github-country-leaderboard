@@ -14,7 +14,7 @@ Indexed users: 1,784
 |---:|---|---|---|---:|
 | 1 | [AndyIbanez](https://github.com/AndyIbanez) | Andy Ibanez | Bolivia | 27,878 |
 | 2 | [ynvYauneEnovore](https://github.com/ynvYauneEnovore) | Yovan R. Enovore | Sucre Bolivia | 10,356 |
-| 3 | [rp4ri](https://github.com/rp4ri) | Toborochi | Bolivia | 8,894 |
+| 3 | [rp4ri](https://github.com/rp4ri) | Toborochi | Bolivia | 9,343 |
 | 4 | [abelrgr](https://github.com/abelrgr) | Abel | Bolivia | 8,486 |
 | 5 | [DaleneyRuben](https://github.com/DaleneyRuben) | Fernando Daleney | La Paz, Bolivia | 7,674 |
 | 6 | [arkgast](https://github.com/arkgast) | Arnold Gandarillas Castillo | Bolivia | 7,025 |
@@ -24,8 +24,8 @@ Indexed users: 1,784
 | 10 | [nicolenumbergg](https://github.com/nicolenumbergg) | Nicole Numberg | Santa Cruz, Bolivia | 5,842 |
 | 11 | [OscarGauss](https://github.com/OscarGauss) | Oscar Gauss Carvajal Yucra | La Paz, Bolivia | 5,452 |
 | 12 | [gitchaell](https://github.com/gitchaell) | Michaell Alavedra | Santa Cruz de la Sierra, Bolivia | 5,017 |
-| 13 | [cesarszv](https://github.com/cesarszv) | Sebastian Zambrana | Santa Cruz, Bolivia | 4,884 |
-| 14 | [nahimdhaney](https://github.com/nahimdhaney) | Nahim Terrazas Parada | Bolivia | 4,524 |
+| 13 | [nahimdhaney](https://github.com/nahimdhaney) | Nahim Terrazas Parada | Bolivia | 4,941 |
+| 14 | [cesarszv](https://github.com/cesarszv) | Sebastian Zambrana | Santa Cruz, Bolivia | 4,884 |
 | 15 | [ChristianConchari](https://github.com/ChristianConchari) | Chris Conchari | Bolivia | 4,388 |
 | 16 | [villcabo](https://github.com/villcabo) | Bismarck Villca | Bolivia | 4,262 |
 | 17 | [GonzaloPinell](https://github.com/GonzaloPinell) | Gonzalo Pinell | La Paz, Bolivia | 4,013 |
@@ -83,4 +83,4 @@ Indexed users: 1,784
 | 19 | [alvarosiles11](https://github.com/alvarosiles11) | Alvaro Siles Estrada | Bolivia | 121 |
 | 20 | [mauforonda](https://github.com/mauforonda) | Mau Foronda | Bolivia | 120 |
 
-Generated: 2026-10-19T01:14:24.713Z
+Generated: 2026-10-19T02:24:22.163Z

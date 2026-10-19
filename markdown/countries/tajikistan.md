@@ -64,7 +64,7 @@ Indexed users: 709
 |---:|---|---|---|---:|
 | 1 | [abdullokhonz](https://github.com/abdullokhonz) | Abdullokhon Ghaibulloev | Khujand, Tajikistan | 427 |
 | 2 | [RahimovAbdurahmon](https://github.com/RahimovAbdurahmon) |  | Tajikistan, Dushanbe | 226 |
-| 3 | [jahongirholmatov](https://github.com/jahongirholmatov) | Jahongir | Khujand, Tajikistan | 176 |
+| 3 | [jahongirholmatov](https://github.com/jahongirholmatov) | Jahongir | Khujand, Tajikistan | 174 |
 | 4 | [AzamBayzaev](https://github.com/AzamBayzaev) | Azam | Khujand, Tajikistan | 173 |
 | 5 | [Thexasan](https://github.com/Thexasan) | Husenov Hasan  | Tajikistan, Dushanbe | 140 |
 | 6 | [Amsurur](https://github.com/Amsurur) | Muhammadsurur Abdulloev | Dushanbe | 133 |
@@ -83,4 +83,4 @@ Indexed users: 709
 | 19 | [11bit](https://github.com/11bit) | Ivan Buryak | Dushanbe | 49 |
 | 20 | [Abdughafur](https://github.com/Abdughafur) | Abdughafur Khujzoda | Tajikistan | 48 |
 
-Generated: 2026-10-19T01:01:06.048Z
+Generated: 2026-10-19T02:09:46.131Z

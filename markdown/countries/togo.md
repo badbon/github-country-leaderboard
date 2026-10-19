@@ -21,12 +21,12 @@ Indexed users: 679
 | 7 | [hermannleboss](https://github.com/hermannleboss) | Hermann EHO | Lomé TOGO | 8,078 |
 | 8 | [DATAGNIKAN](https://github.com/DATAGNIKAN) | DATAGNI K. Armand Noël | Togo, Lomé | 6,578 |
 | 9 | [jeanclaudesoft](https://github.com/jeanclaudesoft) | Claudy | Togo | 5,994 |
-| 10 | [JsOptimizer](https://github.com/JsOptimizer) | Michael Olalekan | Togo | 5,712 |
+| 10 | [JsOptimizer](https://github.com/JsOptimizer) | Michael Olalekan | Togo | 5,622 |
 | 11 | [charlesdzadu](https://github.com/charlesdzadu) | Charles DZADU | Lomé - Togo | 5,217 |
 | 12 | [sebandroidev](https://github.com/sebandroidev) | Sebastien NOGBEDJI | Lomé, TOGO | 5,049 |
 | 13 | [EmD-228](https://github.com/EmD-228) | Kokou DENYO | Lome-Togo | 4,502 |
 | 14 | [Dreykovic](https://github.com/Dreykovic) | Birewa Audrey AMONA | Togo | 4,464 |
-| 15 | [Rahim10020](https://github.com/Rahim10020) | Rahim ALI | Lome -TOGO | 4,223 |
+| 15 | [Rahim10020](https://github.com/Rahim10020) | Rahim ALI | Lome -TOGO | 4,166 |
 | 16 | [Einswilli](https://github.com/Einswilli) | #Einswilli | Lomé | 3,897 |
 | 17 | [Le-Sourcier](https://github.com/Le-Sourcier) | Yao David LOGAN | US, TOGO, UK | 3,815 |
 | 18 | [Giovidoh](https://github.com/Giovidoh) | ICGreborns | Lomé, Togo | 3,614 |
@@ -41,7 +41,7 @@ Indexed users: 679
 | 2 | [hermannleboss](https://github.com/hermannleboss) | Hermann EHO | Lomé TOGO | 4,661 |
 | 3 | [EmD-228](https://github.com/EmD-228) | Kokou DENYO | Lome-Togo | 4,052 |
 | 4 | [Georginio-prod](https://github.com/Georginio-prod) | Georginio  | lomé-TOGO | 3,324 |
-| 5 | [Rahim10020](https://github.com/Rahim10020) | Rahim ALI | Lome -TOGO | 3,264 |
+| 5 | [Rahim10020](https://github.com/Rahim10020) | Rahim ALI | Lome -TOGO | 3,207 |
 | 6 | [GYFX35](https://github.com/GYFX35) | GOUNTANTE yendoukoa | Togo | 1,962 |
 | 7 | [ALBAN3886](https://github.com/ALBAN3886) | AET Technology  | Togo | 1,917 |
 | 8 | [horacioskrp](https://github.com/horacioskrp) | Kudayah Sassou Horacio Herve | Togo-Lomé  | 1,840 |
@@ -83,4 +83,4 @@ Indexed users: 679
 | 19 | [ica1010](https://github.com/ica1010) | Ghislin | Lomé , Togo | 65 |
 | 20 | [Maximekgn](https://github.com/Maximekgn) | KOGON Mawunygan Maxime | Togo | 64 |
 
-Generated: 2026-10-19T01:02:21.364Z
+Generated: 2026-10-19T02:11:20.806Z

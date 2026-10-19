@@ -48,7 +48,7 @@ Indexed users: 461
 | 9 | [krwg](https://github.com/krwg) | アイダ ミール | Antarctica | 1,465 |
 | 10 | [enriquephl](https://github.com/enriquephl) |  | Antarctica | 1,439 |
 | 11 | [antedotee](https://github.com/antedotee) | ky505 | Antarctica | 1,119 |
-| 12 | [codes-by-utkarsh](https://github.com/codes-by-utkarsh) | Utkarsh Srivastava | Antarctica | 708 |
+| 12 | [codes-by-utkarsh](https://github.com/codes-by-utkarsh) | Utkarsh Srivastava | Antarctica | 706 |
 | 13 | [KrLite](https://github.com/KrLite) | KrLite | Antarctica | 684 |
 | 14 | [DenzelPenzel](https://github.com/DenzelPenzel) |  | Antarctica | 531 |
 | 15 | [PenguinDOOM](https://github.com/PenguinDOOM) | Penguin | Antarctica, Discord, VRChat | 524 |
@@ -83,4 +83,4 @@ Indexed users: 461
 | 19 | [alphaaurigae](https://github.com/alphaaurigae) | Marian Brockerhoff | Antarctica | 85 |
 | 20 | [fakeid30](https://github.com/fakeid30) | Fake ID | Antarctica | 78 |
 
-Generated: 2026-10-19T01:10:40.023Z
+Generated: 2026-10-19T02:19:30.884Z

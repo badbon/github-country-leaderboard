@@ -29,7 +29,7 @@ Indexed users: 1,480
 | 15 | [nachawati](https://github.com/nachawati) | Mohamad Omar Nachawati | Damascus, Syria | 2,088 |
 | 16 | [MahmoudSlameh](https://github.com/MahmoudSlameh) | Mahmoud Salameh | Damascus | 2,028 |
 | 17 | [muhammedelsami](https://github.com/muhammedelsami) | Muhammed Elşami | Sivas, Syria | 1,999 |
-| 18 | [kutaibah](https://github.com/kutaibah) | Kutaibah Halima | Damascus, Syria | 1,906 |
+| 18 | [kutaibah](https://github.com/kutaibah) | Kutaibah Halima | Damascus, Syria | 1,873 |
 | 19 | [Yazan-Alrefaai](https://github.com/Yazan-Alrefaai) | Yazan Alrefaai | Damascus, Syria | 1,866 |
 | 20 | [OmarElseyyid](https://github.com/OmarElseyyid) | Mahmud Elseyyidomer | Syria / Aleppo | 1,838 |
 
@@ -83,4 +83,4 @@ Indexed users: 1,480
 | 19 | [nebrassy](https://github.com/nebrassy) | Nebrassy | Latakia, Syria | 102 |
 | 20 | [evoiz](https://github.com/evoiz) | Elias Al-bittar | Homs, Syria | 95 |
 
-Generated: 2026-10-19T01:00:59.077Z
+Generated: 2026-10-19T02:09:18.390Z

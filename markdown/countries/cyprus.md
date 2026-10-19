@@ -25,13 +25,13 @@ Indexed users: 2,725
 | 11 | [iskifogl](https://github.com/iskifogl) | Abdullah İskifoğlu | Cyprus | 11,983 |
 | 12 | [Bezarius](https://github.com/Bezarius) | Mstislav Pavlov | Cyprus, Larnaca | 11,829 |
 | 13 | [yhersh](https://github.com/yhersh) | Yaron Hersh | Cyprus | 11,708 |
-| 14 | [laikhtman](https://github.com/laikhtman) | [DL] | Cyprus | 11,184 |
-| 15 | [pitops](https://github.com/pitops) | Petros Kyriakou | Cyprus | 10,749 |
-| 16 | [aidinb](https://github.com/aidinb) | Aidin  | Cyprus | 10,217 |
-| 17 | [ByczukMartin](https://github.com/ByczukMartin) | Martin B. | Cyprus | 9,995 |
-| 18 | [cploutarchou](https://github.com/cploutarchou) | Christos Ploutarchou | Cyprus | 9,926 |
-| 19 | [nyyhao](https://github.com/nyyhao) | nyhaoo_ | Cyprus | 9,666 |
-| 20 | [vvsotnikov](https://github.com/vvsotnikov) | Vladimir Sotnikov | Cyprus, Paphos | 9,399 |
+| 14 | [the-architect](https://github.com/the-architect) | Marcel Scherf | Larnaca, Cyprus | 11,418 |
+| 15 | [laikhtman](https://github.com/laikhtman) | [DL] | Cyprus | 11,184 |
+| 16 | [pitops](https://github.com/pitops) | Petros Kyriakou | Cyprus | 10,749 |
+| 17 | [aidinb](https://github.com/aidinb) | Aidin  | Cyprus | 10,217 |
+| 18 | [ByczukMartin](https://github.com/ByczukMartin) | Martin B. | Cyprus | 9,995 |
+| 19 | [cploutarchou](https://github.com/cploutarchou) | Christos Ploutarchou | Cyprus | 9,926 |
+| 20 | [nyyhao](https://github.com/nyyhao) | nyhaoo_ | Cyprus | 9,666 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 2,725
 | 19 | [sudoguy](https://github.com/sudoguy) | Evgeny Kemerov | Limassol, Cyprus | 251 |
 | 20 | [polterguy](https://github.com/polterguy) | Thomas Hansen | Cyprus | 245 |
 
-Generated: 2026-10-19T01:21:56.967Z
+Generated: 2026-10-19T02:31:03.099Z

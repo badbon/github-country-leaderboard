@@ -1,6 +1,6 @@
 # Somalia
 
-Indexed users: 866
+Indexed users: 865
 
 | Leaderboard | Link |
 |---|---|
@@ -62,7 +62,7 @@ Indexed users: 866
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [CanoGel](https://github.com/CanoGel) | Ahmad Isse Farah | Mogadishu  | 784 |
+| 1 | [CanoGel](https://github.com/CanoGel) | Ahmad Isse Farah | Mogadishu  | 783 |
 | 2 | [omartood](https://github.com/omartood) | Omar Tood | Somalia | 582 |
 | 3 | [Sharmasheeno](https://github.com/Sharmasheeno) | Sharmake Hassan | Somalia-Mogadishu  | 542 |
 | 4 | [ahmed-moha](https://github.com/ahmed-moha) | Ahmed Mohamed Abdulkadir | Mogadishu, Somalia | 345 |
@@ -83,4 +83,4 @@ Indexed users: 866
 | 19 | [Hasson23](https://github.com/Hasson23) | Hassan Abdullah   | Somalia - Mogadishu  | 100 |
 | 20 | [AbdifatahYasin1](https://github.com/AbdifatahYasin1) | Abdifatah Yasin Yusuf | Somalia, Hargeisa  | 96 |
 
-Generated: 2026-10-19T00:57:43.309Z
+Generated: 2026-10-19T02:06:27.678Z
