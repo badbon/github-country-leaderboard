@@ -5048,7 +5048,7 @@
     "twitterUsername": "",
     "followers": 17,
     "privateContributions": 0,
-    "publicContributions": 92,
+    "publicContributions": 93,
     "createdAt": "2023-07-13T09:52:08Z"
   },
   {
@@ -5059,7 +5059,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 682,
+    "privateContributions": 564,
     "publicContributions": 0,
     "createdAt": "2023-01-24T13:55:10Z"
   },
@@ -5070,9 +5070,9 @@
     "location": "Lebanon",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 107,
-    "publicContributions": 177,
+    "followers": 12,
+    "privateContributions": 97,
+    "publicContributions": 198,
     "createdAt": "2023-10-18T07:49:43Z"
   },
   {
@@ -5084,7 +5084,7 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 265,
+    "publicContributions": 260,
     "createdAt": "2023-06-17T15:17:33Z"
   },
   {
@@ -5107,8 +5107,8 @@
     "company": "",
     "twitterUsername": "MABDdev",
     "followers": 10,
-    "privateContributions": 2465,
-    "publicContributions": 1066,
+    "privateContributions": 2627,
+    "publicContributions": 1035,
     "createdAt": "2023-05-12T05:08:53Z"
   },
   {
@@ -5120,7 +5120,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 186,
-    "publicContributions": 81,
+    "publicContributions": 82,
     "createdAt": "2023-11-15T07:53:31Z"
   },
   {
@@ -5131,8 +5131,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 1160,
-    "publicContributions": 707,
+    "privateContributions": 1179,
+    "publicContributions": 696,
     "createdAt": "2023-09-13T18:20:52Z"
   },
   {
@@ -5156,7 +5156,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 46,
-    "publicContributions": 625,
+    "publicContributions": 642,
     "createdAt": "2023-07-31T21:24:24Z"
   },
   {
@@ -5180,7 +5180,7 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 35,
-    "publicContributions": 100,
+    "publicContributions": 94,
     "createdAt": "2023-06-21T20:25:20Z"
   },
   {
@@ -5191,7 +5191,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 6,
+    "privateContributions": 3,
     "publicContributions": 0,
     "createdAt": "2023-03-25T11:14:55Z"
   },
@@ -5227,7 +5227,7 @@
     "company": "Notre Dame University",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 472,
+    "privateContributions": 525,
     "publicContributions": 3,
     "createdAt": "2023-01-14T10:22:12Z"
   },
@@ -5238,8 +5238,8 @@
     "location": "Beirut,Lebanon",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 704,
+    "followers": 10,
+    "privateContributions": 852,
     "publicContributions": 106,
     "createdAt": "2023-09-04T12:38:46Z"
   },
@@ -5274,8 +5274,8 @@
     "location": "Lebanon",
     "company": "Joe Ward",
     "twitterUsername": "joewrdd",
-    "followers": 8,
-    "privateContributions": 613,
+    "followers": 9,
+    "privateContributions": 634,
     "publicContributions": 9,
     "createdAt": "2023-07-18T15:40:44Z"
   },
