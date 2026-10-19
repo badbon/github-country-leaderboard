@@ -28,7 +28,7 @@ Indexed users: 1,355
 | 14 | [crossben](https://github.com/crossben) |  | Dakar | 4,869 |
 | 15 | [ZooM982](https://github.com/ZooM982) | Revhieno Roll Haurly MBOUTA  | Dakar, Sénégal | 4,863 |
 | 16 | [Denver-sn](https://github.com/Denver-sn) | DℰℕVℰℛ | Senegal,Dakar | 4,711 |
-| 17 | [lamine-f](https://github.com/lamine-f) | Mouhamed Lamine Faye | Sénégal - Dakar | 4,525 |
+| 17 | [lamine-f](https://github.com/lamine-f) | Mouhamed Lamine Faye | Sénégal - Dakar | 4,467 |
 | 18 | [madicke12](https://github.com/madicke12) | Madicke Cisse | Dakar | 4,409 |
 | 19 | [Zoubeir23](https://github.com/Zoubeir23) | ZOUBEIR IBRAHIMA | Sénegale, Dakar | 4,393 |
 | 20 | [lonie12](https://github.com/lonie12) | Yxie | Dakar, Senegal | 4,378 |
@@ -74,13 +74,13 @@ Indexed users: 1,355
 | 10 | [MedouneSGB](https://github.com/MedouneSGB) | Médoune Siby Georges Baldé | Dakar | 193 |
 | 11 | [dofbi](https://github.com/dofbi) | dofbi.eth | Senegal | 186 |
 | 12 | [mamour-dx](https://github.com/mamour-dx) | Mamour Dieng | Dakar | 179 |
-| 13 | [dickoa](https://github.com/dickoa) | Ahmadou Dicko | Dakar, Senegal | 171 |
-| 14 | [andrewSarr](https://github.com/andrewSarr) | Andre Sarr | Dakar | 168 |
-| 15 | [yayediop2](https://github.com/yayediop2) | Yaye Fatou | Dakar, Sn | 165 |
+| 13 | [yayediop2](https://github.com/yayediop2) | Yaye Diop | Dakar, Sn | 175 |
+| 14 | [dickoa](https://github.com/dickoa) | Ahmadou Dicko | Dakar, Senegal | 171 |
+| 15 | [andrewSarr](https://github.com/andrewSarr) | Andre Sarr | Dakar | 168 |
 | 16 | [kasali](https://github.com/kasali) | kasali | Dakar Sénégal | 154 |
 | 17 | [paydunyadev](https://github.com/paydunyadev) | PayDunya | Sénégal - Dakar (Ouest Foire) | 150 |
 | 18 | [ridwanediallo](https://github.com/ridwanediallo) | Ridwan Diallo | Dakar - Senegal | 148 |
 | 19 | [ngorseck](https://github.com/ngorseck) | Ngor SECK | Dakar - Sénégal | 142 |
 | 20 | [patheGobel](https://github.com/patheGobel) | Pathé BA | Senegal  | 141 |
 
-Generated: 2026-10-19T15:09:00.096Z
+Generated: 2026-10-19T16:39:34.063Z

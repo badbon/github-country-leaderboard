@@ -38,7 +38,7 @@ Indexed users: 1,224
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [ksazid](https://github.com/ksazid) | Sazid | Malta | 6,252 |
-| 2 | [jonathan-vella](https://github.com/jonathan-vella) | Jonathan Vella | Malta | 4,038 |
+| 2 | [jonathan-vella](https://github.com/jonathan-vella) | Jonathan Vella | Malta | 4,045 |
 | 3 | [ripienaar](https://github.com/ripienaar) | R.I.Pienaar | Malta | 3,872 |
 | 4 | [OmegaGbenga](https://github.com/OmegaGbenga) | Olugbenga Olatunde Dareowolabi | Malta | 3,548 |
 | 5 | [rinrab](https://github.com/rinrab) | Timofei Zhakov | Malta | 3,198 |
@@ -75,12 +75,12 @@ Indexed users: 1,224
 | 11 | [TimidRobot](https://github.com/TimidRobot) | Timid Robot Zehta | San Ġwann, Malta 🇲🇹 | 229 |
 | 12 | [waynebonc](https://github.com/waynebonc) | Wayne Bonnici | Malta | 172 |
 | 13 | [melihberberolu](https://github.com/melihberberolu) | Melih | Malta | 154 |
-| 14 | [JuxhinDB](https://github.com/JuxhinDB) | Juxhin | Malta | 142 |
-| 15 | [jonathan-vella](https://github.com/jonathan-vella) | Jonathan Vella | Malta | 141 |
+| 14 | [jonathan-vella](https://github.com/jonathan-vella) | Jonathan Vella | Malta | 143 |
+| 15 | [JuxhinDB](https://github.com/JuxhinDB) | Juxhin | Malta | 142 |
 | 16 | [nathan-abela](https://github.com/nathan-abela) | Nathan Abela | Malta | 141 |
 | 17 | [dalerank](https://github.com/dalerank) | dalerank | Sliema, Malta | 138 |
 | 18 | [ianharrigan](https://github.com/ianharrigan) | Ian Harrigan | Malta | 126 |
 | 19 | [mattcg](https://github.com/mattcg) | Matthew Caruana Galizia | Malta | 126 |
 | 20 | [CM2Walki](https://github.com/CM2Walki) | Walki | Malta | 118 |
 
-Generated: 2026-10-19T14:51:31.385Z
+Generated: 2026-10-19T16:16:59.434Z

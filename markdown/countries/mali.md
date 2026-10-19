@@ -22,7 +22,7 @@ Indexed users: 347
 | 8 | [kdiawara96](https://github.com/kdiawara96) | Karim Diawara | JX4X+QX9, Bamako | 2,738 |
 | 9 | [Alhoussen](https://github.com/Alhoussen) | Alhoussen | Bamako, Mali | 2,711 |
 | 10 | [AmadouDiadie95](https://github.com/AmadouDiadie95) | Amadou Diadie Coulibaly | Bamako-Mali | 2,647 |
-| 11 | [yacouba01](https://github.com/yacouba01) | Yacouba Doumbia | Mali | 2,434 |
+| 11 | [yacouba01](https://github.com/yacouba01) | Yacouba Doumbia | Mali | 2,435 |
 | 12 | [alitimbo](https://github.com/alitimbo) | Ali Timbo | Bamako | 2,208 |
 | 13 | [AbduRahmanS](https://github.com/AbduRahmanS) | Abdrahamane Sarambounou | Bamako | 2,111 |
 | 14 | [Dioman-Keita](https://github.com/Dioman-Keita) | Dioman Keïta | Bamako/Mali | 2,005 |
@@ -53,7 +53,7 @@ Indexed users: 347
 | 14 | [SekouSallah](https://github.com/SekouSallah) | Sékou Sow | Bamako, Mali | 250 |
 | 15 | [kontere-tienou](https://github.com/kontere-tienou) | Kontere TIENOU | Mali | 229 |
 | 16 | [Aissatou007](https://github.com/Aissatou007) | Aïssatou Coulibaly | Mali  | 202 |
-| 17 | [mandjou-dama](https://github.com/mandjou-dama) | Mandjou Dama | Bamako, Mali | 176 |
+| 17 | [mandjou-dama](https://github.com/mandjou-dama) | Mandjou Dama | Bamako, Mali | 171 |
 | 18 | [dione24](https://github.com/dione24) | Niangaly Abdoulaye | BAMAKO MALI | 167 |
 | 19 | [mohdiop](https://github.com/mohdiop) | Mohamed Diop | Mali | 166 |
 | 20 | [Ibraci](https://github.com/Ibraci) | Ibrahim CISSE | Bamako | 158 |
@@ -62,7 +62,7 @@ Indexed users: 347
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [ibrahimkelly](https://github.com/ibrahimkelly) | I-K(***)Y | Mali | 203 |
+| 1 | [ibrahimkelly](https://github.com/ibrahimkelly) | I-K(***)Y | Mali | 202 |
 | 2 | [rgaudin](https://github.com/rgaudin) | rgaudin | Bamako, Mali | 132 |
 | 3 | [mkantem](https://github.com/mkantem) | Kante Mahamadou | Mali | 120 |
 | 4 | [IvinoDev](https://github.com/IvinoDev) | Mariam Kayantao | Mali, Bamako | 69 |
@@ -83,4 +83,4 @@ Indexed users: 347
 | 19 | [AlyKonte](https://github.com/AlyKonte) |  | Mali/Bamako | 27 |
 | 20 | [Dioman-Keita](https://github.com/Dioman-Keita) | Dioman Keïta | Bamako/Mali | 25 |
 
-Generated: 2026-10-19T14:49:53.942Z
+Generated: 2026-10-19T16:16:23.243Z

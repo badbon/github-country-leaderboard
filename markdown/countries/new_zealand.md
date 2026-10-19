@@ -21,17 +21,17 @@ Indexed users: 12,145
 | 7 | [thatskiff33](https://github.com/thatskiff33) | Jordan | Taranaki, New Zealand | 19,954 |
 | 8 | [joshuavial](https://github.com/joshuavial) | Joshua Vial | Wellington, New Zealand | 16,399 |
 | 9 | [JavaGT](https://github.com/JavaGT) | JavaGT | New Zealand | 16,172 |
-| 10 | [DangerDrome](https://github.com/DangerDrome) | Dirk Dangerous | New Zealand | 15,229 |
-| 11 | [abnegate](https://github.com/abnegate) | Jake Barnby | Tauranga, New Zealand | 13,796 |
-| 12 | [nz365guy](https://github.com/nz365guy) | Mark Smith | New Zealand | 12,968 |
-| 13 | [lee101](https://github.com/lee101) | Lee Penkman | New Zealand | 12,897 |
-| 14 | [b0nsun9](https://github.com/b0nsun9) | Bonsung Koo | Wellington, New Zealand | 12,777 |
-| 15 | [ChanMeng666](https://github.com/ChanMeng666) | Chan Meng | New Zealand | 12,502 |
-| 16 | [sethyates](https://github.com/sethyates) | Seth Yates | Auckland, New Zealand | 12,300 |
-| 17 | [masaclaw](https://github.com/masaclaw) | Tom Peck | Wellington, New Zealand | 12,094 |
-| 18 | [JonathanGiles](https://github.com/JonathanGiles) | Jonathan Giles | New Zealand | 11,641 |
-| 19 | [passcod](https://github.com/passcod) | Félix Saparelli | New Zealand | 11,579 |
-| 20 | [faceleg](https://github.com/faceleg) | Michael Robinson | Auckland, New Zealand | 11,194 |
+| 10 | [mynameistito](https://github.com/mynameistito) | Tito | New Zealand | 15,619 |
+| 11 | [DangerDrome](https://github.com/DangerDrome) | Dirk Dangerous | New Zealand | 15,229 |
+| 12 | [abnegate](https://github.com/abnegate) | Jake Barnby | Tauranga, New Zealand | 13,796 |
+| 13 | [nz365guy](https://github.com/nz365guy) | Mark Smith | New Zealand | 12,968 |
+| 14 | [lee101](https://github.com/lee101) | Lee Penkman | New Zealand | 12,897 |
+| 15 | [b0nsun9](https://github.com/b0nsun9) | Bonsung Koo | Wellington, New Zealand | 12,777 |
+| 16 | [ChanMeng666](https://github.com/ChanMeng666) | Chan Meng | New Zealand | 12,502 |
+| 17 | [sethyates](https://github.com/sethyates) | Seth Yates | Auckland, New Zealand | 12,300 |
+| 18 | [masaclaw](https://github.com/masaclaw) | Tom Peck | Wellington, New Zealand | 12,094 |
+| 19 | [JonathanGiles](https://github.com/JonathanGiles) | Jonathan Giles | New Zealand | 11,641 |
+| 20 | [passcod](https://github.com/passcod) | Félix Saparelli | New Zealand | 11,579 |
 
 ## Public Contributions
 
@@ -43,20 +43,20 @@ Indexed users: 12,145
 | 4 | [cgbarlow](https://github.com/cgbarlow) | Chris Barlow | Wellington, New Zealand | 10,902 |
 | 5 | [thatskiff33](https://github.com/thatskiff33) | Jordan | Taranaki, New Zealand | 10,779 |
 | 6 | [passcod](https://github.com/passcod) | Félix Saparelli | New Zealand | 9,592 |
-| 7 | [lee101](https://github.com/lee101) | Lee Penkman | New Zealand | 7,246 |
-| 8 | [rabble](https://github.com/rabble) | rabble | Pōneke, Aotearoa | 6,604 |
-| 9 | [jwulf](https://github.com/jwulf) | Josh Wulf | New Zealand | 6,149 |
-| 10 | [abnegate](https://github.com/abnegate) | Jake Barnby | Tauranga, New Zealand | 6,027 |
-| 11 | [tim-smart](https://github.com/tim-smart) | Tim | Tauranga, New Zealand | 5,803 |
-| 12 | [anarkiwi](https://github.com/anarkiwi) | Josh Bailey | Wellington, New Zealand | 5,676 |
-| 13 | [malinmalliyawadu](https://github.com/malinmalliyawadu) | Malin Malliya Wadu | Wellington, NZ | 5,649 |
-| 14 | [prismatic-koi](https://github.com/prismatic-koi) | Ben Sherman | Wellington, NZ | 5,623 |
-| 15 | [sparlane](https://github.com/sparlane) | Scott Parlane | New Zealand | 5,581 |
-| 16 | [corrin](https://github.com/corrin) | Corrin Lakeland | Auckland, New Zealand | 5,301 |
-| 17 | [jet-pang](https://github.com/jet-pang) | Jet Pang | New Zealand | 5,177 |
-| 18 | [jajera](https://github.com/jajera) | John Ajera | Wellington | 4,603 |
-| 19 | [gizmoguy](https://github.com/gizmoguy) | Brad Cowie | New Zealand | 4,601 |
-| 20 | [joshdoesthis](https://github.com/joshdoesthis) | Joshua Wilson | Cambridge, New Zealand | 4,546 |
+| 7 | [mynameistito](https://github.com/mynameistito) | Tito | New Zealand | 8,075 |
+| 8 | [lee101](https://github.com/lee101) | Lee Penkman | New Zealand | 7,246 |
+| 9 | [rabble](https://github.com/rabble) | rabble | Pōneke, Aotearoa | 6,604 |
+| 10 | [jwulf](https://github.com/jwulf) | Josh Wulf | New Zealand | 6,149 |
+| 11 | [abnegate](https://github.com/abnegate) | Jake Barnby | Tauranga, New Zealand | 6,027 |
+| 12 | [tim-smart](https://github.com/tim-smart) | Tim | Tauranga, New Zealand | 5,803 |
+| 13 | [anarkiwi](https://github.com/anarkiwi) | Josh Bailey | Wellington, New Zealand | 5,676 |
+| 14 | [malinmalliyawadu](https://github.com/malinmalliyawadu) | Malin Malliya Wadu | Wellington, NZ | 5,649 |
+| 15 | [prismatic-koi](https://github.com/prismatic-koi) | Ben Sherman | Wellington, NZ | 5,623 |
+| 16 | [sparlane](https://github.com/sparlane) | Scott Parlane | New Zealand | 5,581 |
+| 17 | [corrin](https://github.com/corrin) | Corrin Lakeland | Auckland, New Zealand | 5,301 |
+| 18 | [jet-pang](https://github.com/jet-pang) | Jet Pang | New Zealand | 5,177 |
+| 19 | [jajera](https://github.com/jajera) | John Ajera | Wellington | 4,603 |
+| 20 | [gizmoguy](https://github.com/gizmoguy) | Brad Cowie | New Zealand | 4,601 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 12,145
 | 19 | [cortesi](https://github.com/cortesi) | Aldo Cortesi | Dunedin, New Zealand | 1,019 |
 | 20 | [patevs](https://github.com/patevs) | Pat | New Zealand | 917 |
 
-Generated: 2026-10-19T14:56:37.421Z
+Generated: 2026-10-19T16:24:57.169Z

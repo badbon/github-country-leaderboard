@@ -1,8 +1,8 @@
 # Public Contributions - Kyrgyzstan
 
-Generated: 2026-10-19T14:44:35.003Z
+Generated: 2026-10-19T16:10:52.409Z
 
-Users: 2441
+Users: 2440
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -12,7 +12,7 @@ Users: 2441
 | 4 | [ibrodevs](https://github.com/ibrodevs) | Ibrokhim | SU Solutions |  | Bishkek | 3252 |
 | 5 | [Heartspell](https://github.com/Heartspell) | Amirhan Ordobaev | Kyrgyz State Technical University  |  | Kyrgyzstan | 3245 |
 | 6 | [P5ina](https://github.com/P5ina) | Timur Turatbekov |  |  | Kyrgyzstan, Bishkek | 2962 |
-| 7 | [alisher-zhuman](https://github.com/alisher-zhuman) | Alisher Zhuman | Tunduk |  | Bishkek, Kyrgyzstan  | 1852 |
+| 7 | [alisher-zhuman](https://github.com/alisher-zhuman) | Alisher Zhuman | Tunduk |  | Bishkek, Kyrgyzstan  | 1912 |
 | 8 | [fi-res](https://github.com/fi-res) | fires |  |  | kyrgyzstan | 1630 |
 | 9 | [raimbekovm](https://github.com/raimbekovm) | Murat Raimbekov | @ultralytics  |  | Bishkek, Kyrgyzstan | 1403 |
 | 10 | [bvasilenko](https://github.com/bvasilenko) | Boris Vasilenko |  |  | Bishkek, Kyrgyzstan (Relocated) | 1379 |

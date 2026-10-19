@@ -17,7 +17,7 @@ Top GitHub users by country, ranked from public GitHub profile and contribution 
 | [Togo](markdown/countries/togo.md) | 679 | [Public](markdown/public_contributions/togo.md) | [Total](markdown/total_contributions/togo.md) | [Followers](markdown/followers/togo.md) |
 | [Colombia](markdown/countries/colombia.md) | 29,153 | [Public](markdown/public_contributions/colombia.md) | [Total](markdown/total_contributions/colombia.md) | [Followers](markdown/followers/colombia.md) |
 | [Greece](markdown/countries/greece.md) | 15,543 | [Public](markdown/public_contributions/greece.md) | [Total](markdown/total_contributions/greece.md) | [Followers](markdown/followers/greece.md) |
-| [Austria](markdown/countries/austria.md) | 18,242 | [Public](markdown/public_contributions/austria.md) | [Total](markdown/total_contributions/austria.md) | [Followers](markdown/followers/austria.md) |
+| [Austria](markdown/countries/austria.md) | 18,247 | [Public](markdown/public_contributions/austria.md) | [Total](markdown/total_contributions/austria.md) | [Followers](markdown/followers/austria.md) |
 | [Bouvet Island](markdown/countries/bouvet_island.md) | 6 | [Public](markdown/public_contributions/bouvet_island.md) | [Total](markdown/total_contributions/bouvet_island.md) | [Followers](markdown/followers/bouvet_island.md) |
 
 ## How It Works
@@ -26,4 +26,4 @@ The collector searches GitHub users by self-reported profile location, keeps use
 
 Locations are not verified. The raw profile location is preserved, and country assignment uses deterministic country, alias, city, and exact phrase rules.
 
-Generated: 2026-10-19T16:07:29.257Z
+Generated: 2026-10-19T16:40:59.265Z

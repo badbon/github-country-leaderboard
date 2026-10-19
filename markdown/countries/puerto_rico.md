@@ -50,7 +50,7 @@ Indexed users: 1,532
 | 11 | [rebelinux](https://github.com/rebelinux) | Jonathan Colon | Puerto Rico | 2,118 |
 | 12 | [jgravois](https://github.com/jgravois) | john gravois | san juan capo, ca | 1,960 |
 | 13 | [ricardojuanmorales](https://github.com/ricardojuanmorales) | Ricardo Juan Morales De Jesús | San Juan, Puerto Rico | 1,359 |
-| 14 | [eresfavolosx](https://github.com/eresfavolosx) | Fabián Vélez Vicente | Guaynabo, Puerto Rico | 1,306 |
+| 14 | [eresfavolosx](https://github.com/eresfavolosx) | Fabián Vélez Vicente | Trujillo Alto, Puerto Rico | 1,307 |
 | 15 | [drosadocastro-bit](https://github.com/drosadocastro-bit) | Danny Rosado Castro (Drakus) | Puerto Rico | 1,149 |
 | 16 | [Jaxelr](https://github.com/Jaxelr) | Jaxel Rojas Lopez | San Juan, Puerto Rico | 1,103 |
 | 17 | [MicaelVR04](https://github.com/MicaelVR04) | Micael Velez Rodriguez | Puerto Rico | 1,055 |
@@ -83,4 +83,4 @@ Indexed users: 1,532
 | 19 | [rnegron](https://github.com/rnegron) | Raúl Negrón-Otero | Bayamón, Puerto Rico | 113 |
 | 20 | [hackingbutlegal](https://github.com/hackingbutlegal) | Jackie Singh | San Juan, PR | 107 |
 
-Generated: 2026-10-19T15:02:47.791Z
+Generated: 2026-10-19T16:33:05.108Z

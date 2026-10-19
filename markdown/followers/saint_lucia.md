@@ -1,6 +1,6 @@
 # Followers - Saint Lucia
 
-Generated: 2026-10-19T15:05:22.304Z
+Generated: 2026-10-19T16:36:11.644Z
 
 Users: 35
 
@@ -9,7 +9,7 @@ Users: 35
 | 1 | [johnsBeharry](https://github.com/johnsBeharry) | Johns Beharry | @peakshift  | johnsBeharry | Saint Lucia | 142 |
 | 2 | [UVLabs](https://github.com/UVLabs) | Uriahs Victor |  |  | Saint Lucia | 48 |
 | 3 | [CodeRed30](https://github.com/CodeRed30) | Katrina | Close.com |  | Saint Lucia, WI | 24 |
-| 4 | [remyfrancis](https://github.com/remyfrancis) | Remy Francis | Quantum Garden Software |  | Saint Lucia | 20 |
+| 4 | [remyfrancis](https://github.com/remyfrancis) | Remy Francis | Quantum Garden Software |  | Saint Lucia | 19 |
 | 5 | [amello69](https://github.com/amello69) | Alvinus Melius | PALs |  | Saint Lucia | 12 |
 | 6 | [destinydriven](https://github.com/destinydriven) | destinydriven |  |  | Saint Lucia | 11 |
 | 7 | [cmbengue-ec-intl](https://github.com/cmbengue-ec-intl) | Cheikh Mbengue | @ec-intl @CliMA @utatulc  | combengue | Castries, Saint Lucia | 10 |

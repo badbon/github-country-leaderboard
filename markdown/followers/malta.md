@@ -1,6 +1,6 @@
 # Followers - Malta
 
-Generated: 2026-10-19T14:51:31.385Z
+Generated: 2026-10-19T16:16:59.434Z
 
 Users: 1224
 
@@ -19,8 +19,8 @@ Users: 1224
 | 11 | [TimidRobot](https://github.com/TimidRobot) | Timid Robot Zehta | @CreativeCommons |  | San Ġwann, Malta 🇲🇹 | 229 |
 | 12 | [waynebonc](https://github.com/waynebonc) | Wayne Bonnici |  | Wayne_Bonnici | Malta | 172 |
 | 13 | [melihberberolu](https://github.com/melihberberolu) | Melih |  |  | Malta | 154 |
-| 14 | [JuxhinDB](https://github.com/JuxhinDB) | Juxhin | @haveibeensquatted | juxhindb | Malta | 142 |
-| 15 | [jonathan-vella](https://github.com/jonathan-vella) | Jonathan Vella | @Microsoft |  | Malta | 141 |
+| 14 | [jonathan-vella](https://github.com/jonathan-vella) | Jonathan Vella | @Microsoft |  | Malta | 143 |
+| 15 | [JuxhinDB](https://github.com/JuxhinDB) | Juxhin | @haveibeensquatted | juxhindb | Malta | 142 |
 | 16 | [nathan-abela](https://github.com/nathan-abela) | Nathan Abela | Betsson Group |  | Malta | 141 |
 | 17 | [dalerank](https://github.com/dalerank) | dalerank | 4A Games | dalerank1 | Sliema, Malta | 138 |
 | 18 | [ianharrigan](https://github.com/ianharrigan) | Ian Harrigan | Freelance |  | Malta | 126 |

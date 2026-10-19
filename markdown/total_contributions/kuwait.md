@@ -1,6 +1,6 @@
 # Total Contributions - Kuwait
 
-Generated: 2026-10-19T14:44:08.279Z
+Generated: 2026-10-19T16:10:08.151Z
 
 Users: 796
 
@@ -8,7 +8,7 @@ Users: 796
 |---:|---|---|---|---|---|---:|
 | 1 | [mshll](https://github.com/mshll) | meshal | Boubyan Bank |  | Kuwait | 7795 |
 | 2 | [buaziz](https://github.com/buaziz) | Buaziz |  |  | Kuwait | 7118 |
-| 3 | [ghaith99](https://github.com/ghaith99) |  |  |  | Kuwait | 6933 |
+| 3 | [ghaith99](https://github.com/ghaith99) |  |  |  | Kuwait | 6940 |
 | 4 | [BAWES](https://github.com/BAWES) | Khalid Al-Mutawa | BAWES |  | Kuwait | 6616 |
 | 5 | [uusa35](https://github.com/uusa35) | Usama.Ahmed | 965 65772444 |  | kuwait | 6384 |
 | 6 | [drhema](https://github.com/drhema) | Ibrahim Elsherbiny | Ibrahim |  | Kuwait | 6179 |

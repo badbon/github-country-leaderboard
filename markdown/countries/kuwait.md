@@ -14,7 +14,7 @@ Indexed users: 796
 |---:|---|---|---|---:|
 | 1 | [mshll](https://github.com/mshll) | meshal | Kuwait | 7,795 |
 | 2 | [buaziz](https://github.com/buaziz) | Buaziz | Kuwait | 7,118 |
-| 3 | [ghaith99](https://github.com/ghaith99) |  | Kuwait | 6,933 |
+| 3 | [ghaith99](https://github.com/ghaith99) |  | Kuwait | 6,940 |
 | 4 | [BAWES](https://github.com/BAWES) | Khalid Al-Mutawa | Kuwait | 6,616 |
 | 5 | [uusa35](https://github.com/uusa35) | Usama.Ahmed | kuwait | 6,384 |
 | 6 | [drhema](https://github.com/drhema) | Ibrahim Elsherbiny | Kuwait | 6,179 |
@@ -54,7 +54,7 @@ Indexed users: 796
 | 15 | [AwadhObaid](https://github.com/AwadhObaid) | Awadh Obaid | Kuwait | 556 |
 | 16 | [fibonacci61](https://github.com/fibonacci61) | Faisal Malallah | Kuwait | 545 |
 | 17 | [agatho-daemon](https://github.com/agatho-daemon) | Agathodaemon | Kuwait | 532 |
-| 18 | [lonlydwolf](https://github.com/lonlydwolf) | Ahmad Mollaei | Kuwait | 491 |
+| 18 | [lonlydwolf](https://github.com/lonlydwolf) | Ahmad Mollaei | Kuwait | 519 |
 | 19 | [AbdelrahmanBerchan](https://github.com/AbdelrahmanBerchan) | Abdelrahman B. | Kuwait | 477 |
 | 20 | [Ahmad-Ali-mohammad](https://github.com/Ahmad-Ali-mohammad) | ahmad al mohammad | kuwait | 448 |
 
@@ -83,4 +83,4 @@ Indexed users: 796
 | 19 | [MoathOthman](https://github.com/MoathOthman) | Moath othman | Kuwait | 85 |
 | 20 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Kuwait | 82 |
 
-Generated: 2026-10-19T14:44:08.279Z
+Generated: 2026-10-19T16:10:08.151Z

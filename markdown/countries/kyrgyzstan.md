@@ -1,6 +1,6 @@
 # Kyrgyzstan
 
-Indexed users: 2,441
+Indexed users: 2,440
 
 | Leaderboard | Link |
 |---|---|
@@ -15,7 +15,7 @@ Indexed users: 2,441
 | 1 | [alxnko](https://github.com/alxnko) | Alex Neko | Kyrgyzstan | 25,053 |
 | 2 | [bekturmamytov](https://github.com/bekturmamytov) | bekturmamytov | Bishkek | 12,787 |
 | 3 | [kymuco](https://github.com/kymuco) | Ikymuco | Bishkek, Kyrgyzstan | 11,568 |
-| 4 | [Elkhan2003](https://github.com/Elkhan2003) | Elkhan Sharshenbekov | Karakol, Kyrgyzstan | 10,024 |
+| 4 | [Elkhan2003](https://github.com/Elkhan2003) | Elkhan Sharshenbekov | Karakol, Kyrgyzstan | 10,213 |
 | 5 | [anton-plebanovich](https://github.com/anton-plebanovich) | Anton Plebanovich | Kyrgyzstan, Bishkek | 9,200 |
 | 6 | [bekishh](https://github.com/bekishh) | Zh Beknazar | Kyrgystan, Bishkek | 8,865 |
 | 7 | [whyfoks1s](https://github.com/whyfoks1s) | Kutman Melisov | Kyrgyzstan | 6,717 |
@@ -43,7 +43,7 @@ Indexed users: 2,441
 | 4 | [ibrodevs](https://github.com/ibrodevs) | Ibrokhim | Bishkek | 3,252 |
 | 5 | [Heartspell](https://github.com/Heartspell) | Amirhan Ordobaev | Kyrgyzstan | 3,245 |
 | 6 | [P5ina](https://github.com/P5ina) | Timur Turatbekov | Kyrgyzstan, Bishkek | 2,962 |
-| 7 | [alisher-zhuman](https://github.com/alisher-zhuman) | Alisher Zhuman | Bishkek, Kyrgyzstan  | 1,852 |
+| 7 | [alisher-zhuman](https://github.com/alisher-zhuman) | Alisher Zhuman | Bishkek, Kyrgyzstan  | 1,912 |
 | 8 | [fi-res](https://github.com/fi-res) | fires | kyrgyzstan | 1,630 |
 | 9 | [raimbekovm](https://github.com/raimbekovm) | Murat Raimbekov | Bishkek, Kyrgyzstan | 1,403 |
 | 10 | [bvasilenko](https://github.com/bvasilenko) | Boris Vasilenko | Bishkek, Kyrgyzstan (Relocated) | 1,379 |
@@ -74,13 +74,13 @@ Indexed users: 2,441
 | 10 | [YaiLung](https://github.com/YaiLung) | Олег Владимирович | Bishkek | 127 |
 | 11 | [CyberLight](https://github.com/CyberLight) | Aleksandr Vishniakov | Kyrgyzstan | 124 |
 | 12 | [zhanybekovich](https://github.com/zhanybekovich) | Mirlan Urzhanov | Karakol, Kyrgyzstan | 116 |
-| 13 | [NuraiymMamatova](https://github.com/NuraiymMamatova) | Nuraiym | Kyrgyzstan | 115 |
+| 13 | [NuraiymMamatova](https://github.com/NuraiymMamatova) | Nuraiym | Kyrgyzstan | 113 |
 | 14 | [Turatkg](https://github.com/Turatkg) | Turat Alybaev | Kyrgyzstan | 113 |
 | 15 | [bmamatkadyr](https://github.com/bmamatkadyr) | beks | Bishkek | 111 |
 | 16 | [AlexanderBagel](https://github.com/AlexanderBagel) | Alexander (Rouse_) Bagel | Bishkek | 110 |
 | 17 | [5ekastanx](https://github.com/5ekastanx) | bekastan | Osh \| Kyrgyzstan | 106 |
 | 18 | [bashu](https://github.com/bashu) | Basil Sh. | Bishkek, Kyrgyzstan | 105 |
-| 19 | [Elkhan2003](https://github.com/Elkhan2003) | Elkhan Sharshenbekov | Karakol, Kyrgyzstan | 103 |
-| 20 | [eszdman](https://github.com/eszdman) |  | Kyrgyzstan | 103 |
+| 19 | [eszdman](https://github.com/eszdman) |  | Kyrgyzstan | 103 |
+| 20 | [Elkhan2003](https://github.com/Elkhan2003) | Elkhan Sharshenbekov | Karakol, Kyrgyzstan | 102 |
 
-Generated: 2026-10-19T14:44:35.003Z
+Generated: 2026-10-19T16:10:52.409Z
