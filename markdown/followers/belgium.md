@@ -1,8 +1,8 @@
 # Followers - Belgium
 
-Generated: 2026-10-19T00:06:21.003Z
+Generated: 2026-10-19T01:13:43.519Z
 
-Users: 18386
+Users: 18385
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

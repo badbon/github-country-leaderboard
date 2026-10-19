@@ -1,6 +1,6 @@
 # Total Contributions - Bosnia and Herzegovina
 
-Generated: 2026-10-19T00:07:39.094Z
+Generated: 2026-10-19T01:14:30.738Z
 
 Users: 2126
 
@@ -15,7 +15,7 @@ Users: 2126
 | 7 | [aness55](https://github.com/aness55) | Anes |  |  | Sarajevo | 7028 |
 | 8 | [ribice](https://github.com/ribice) | Emir Ribić | @caseconnect-ai |  | Sarajevo | 6627 |
 | 9 | [NedimKuj](https://github.com/NedimKuj) | Nedim Kujrakovic | @Indevico | nedkuj | Sarajevo | 6466 |
-| 10 | [JovanJevtic](https://github.com/JovanJevtic) | Jovan Jevtic |  | OvoJovanovo | Banjaluka, Bosnia and Herzegovina | 6310 |
+| 10 | [JovanJevtic](https://github.com/JovanJevtic) | Jovan Jevtic |  | OvoJovanovo | Banjaluka, Bosnia and Herzegovina | 6464 |
 | 11 | [vascabarkapa](https://github.com/vascabarkapa) | Vasilije Čabarkapa |  |  | East Sarajevo, Bosnia and Herzegovina | 6172 |
 | 12 | [agobeljic1](https://github.com/agobeljic1) | Adnan Gobeljic |  |  | Sarajevo | 5816 |
 | 13 | [TarikVelic](https://github.com/TarikVelic) | Tarik Velic |  |  | Sarajevo | 5773 |

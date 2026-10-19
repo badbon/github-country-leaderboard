@@ -1,6 +1,6 @@
 # Total Contributions - Bahrain
 
-Generated: 2026-10-19T00:04:46.684Z
+Generated: 2026-10-19T01:11:59.297Z
 
 Users: 727
 
@@ -13,8 +13,8 @@ Users: 727
 | 5 | [emadprograms](https://github.com/emadprograms) | Hamza Arshad Alam | @aou |  | Bahrain | 6284 |
 | 6 | [AlqattanDev](https://github.com/AlqattanDev) | Ali AlQattan |  |  | Manama, Bahrain | 6194 |
 | 7 | [meshahid973](https://github.com/meshahid973) | meshahid.973 |  |  | bahrain | 6125 |
-| 8 | [fairbird](https://github.com/fairbird) | RAED | (Enigma2 Developer) |  | Bahrain | 5462 |
-| 9 | [zahidala](https://github.com/zahidala) | Zahid Allaulddin |  |  | Bahrain | 5212 |
+| 8 | [fairbird](https://github.com/fairbird) | RAED | (Enigma2 Developer) |  | Bahrain | 5467 |
+| 9 | [zahidala](https://github.com/zahidala) | Zahid Allaulddin |  |  | Bahrain | 5236 |
 | 10 | [xCuzSkillz](https://github.com/xCuzSkillz) | Ali M. | AvexInc | xCuzSkillz | Bahrain | 4913 |
 | 11 | [kelvindecosta](https://github.com/kelvindecosta) | Kelvin DeCosta | @dotlas | _kelvindecosta | Bahrain | 4678 |
 | 12 | [halalgami](https://github.com/halalgami) | Algam |  |  | Bahrain | 4628 |

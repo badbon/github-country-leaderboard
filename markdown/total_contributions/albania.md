@@ -1,6 +1,6 @@
 # Total Contributions - Albania
 
-Generated: 2026-10-19T00:01:22.533Z
+Generated: 2026-10-19T01:09:09.560Z
 
 Users: 1184
 
@@ -20,9 +20,9 @@ Users: 1184
 | 12 | [arkellahi82-tech](https://github.com/arkellahi82-tech) | Arkel Lahi | FiltonHayes |  | Tirana, Albania | 5766 |
 | 13 | [lacieri](https://github.com/lacieri) | Erand Laci | @kirschbaum-development |  | Tirana, Albania | 5661 |
 | 14 | [nertilpoci](https://github.com/nertilpoci) | Nertil Poci |  |  | Albania | 5482 |
-| 15 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | CyberSecurity Researcher, Red Team, Bug Hunter | OrgitoRTA | Albania | 4643 |
-| 16 | [blenardpazari](https://github.com/blenardpazari) | Blenard Pazari | @new-media-communications | blenardpazari | Tirana | 4583 |
-| 17 | [ezekaj](https://github.com/ezekaj) | Elvi Zekaj | @zedigitaltech |  | Tirana, Albania | 4540 |
-| 18 | [sly503](https://github.com/sly503) | Fatjon Rami |  |  | Tirana | 4508 |
-| 19 | [klevisndoka](https://github.com/klevisndoka) | Klevis Ndoka |  |  | Tirane, Albania | 4264 |
-| 20 | [jozefini](https://github.com/jozefini) | Jozefin B. | @codja  |  | Albania | 4198 |
+| 15 | [GentBajko](https://github.com/GentBajko) | Gent Bajko | @DiceMasterIO |  | Tirana, Albania | 4656 |
+| 16 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | CyberSecurity Researcher, Red Team, Bug Hunter | OrgitoRTA | Albania | 4643 |
+| 17 | [blenardpazari](https://github.com/blenardpazari) | Blenard Pazari | @new-media-communications | blenardpazari | Tirana | 4583 |
+| 18 | [ezekaj](https://github.com/ezekaj) | Elvi Zekaj | @zedigitaltech |  | Tirana, Albania | 4540 |
+| 19 | [sly503](https://github.com/sly503) | Fatjon Rami |  |  | Tirana | 4508 |
+| 20 | [klevisndoka](https://github.com/klevisndoka) | Klevis Ndoka |  |  | Tirane, Albania | 4264 |

@@ -70,9 +70,9 @@ Indexed users: 2,725
 | 6 | [bravit](https://github.com/bravit) | Vitaly Bragilevsky | Larnaca, Cyprus | 542 |
 | 7 | [FZambia](https://github.com/FZambia) | Alexander Emelin | Limassol, Cyprus | 470 |
 | 8 | [KaterinaPetrova](https://github.com/KaterinaPetrova) | Ekaterina Petrova | Nicosia, Cyprus | 438 |
-| 9 | [Sanaebadi97](https://github.com/Sanaebadi97) | Sana Ebadi | Cyprus, Nicosia | 401 |
-| 10 | [Dieterbe](https://github.com/Dieterbe) | Dieter Plaetinck | Cyprus | 396 |
-| 11 | [tony2001](https://github.com/tony2001) | Antony Dovgal | Limassol, Cyprus | 371 |
+| 9 | [Dieterbe](https://github.com/Dieterbe) | Dieter Plaetinck | Cyprus | 401 |
+| 10 | [Sanaebadi97](https://github.com/Sanaebadi97) | Sana Ebadi | Cyprus, Nicosia | 401 |
+| 11 | [tony2001](https://github.com/tony2001) | Antony Dovgal | Limassol, Cyprus | 373 |
 | 12 | [dgutov](https://github.com/dgutov) | Dmitry Gutov | Limassol, Cyprus | 355 |
 | 13 | [fedosejev](https://github.com/fedosejev) | Artemij Fedosejev | Paphos, Cyprus | 352 |
 | 14 | [GrigoriiTarasov](https://github.com/GrigoriiTarasov) |  | Cyprus, Limassol | 334 |
@@ -83,4 +83,4 @@ Indexed users: 2,725
 | 19 | [sudoguy](https://github.com/sudoguy) | Evgeny Kemerov | Limassol, Cyprus | 251 |
 | 20 | [polterguy](https://github.com/polterguy) | Thomas Hansen | Cyprus | 245 |
 
-Generated: 2026-10-19T00:14:03.101Z
+Generated: 2026-10-19T01:21:56.967Z

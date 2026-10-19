@@ -21,7 +21,7 @@ Indexed users: 2,126
 | 7 | [aness55](https://github.com/aness55) | Anes | Sarajevo | 7,028 |
 | 8 | [ribice](https://github.com/ribice) | Emir Ribić | Sarajevo | 6,627 |
 | 9 | [NedimKuj](https://github.com/NedimKuj) | Nedim Kujrakovic | Sarajevo | 6,466 |
-| 10 | [JovanJevtic](https://github.com/JovanJevtic) | Jovan Jevtic | Banjaluka, Bosnia and Herzegovina | 6,310 |
+| 10 | [JovanJevtic](https://github.com/JovanJevtic) | Jovan Jevtic | Banjaluka, Bosnia and Herzegovina | 6,464 |
 | 11 | [vascabarkapa](https://github.com/vascabarkapa) | Vasilije Čabarkapa | East Sarajevo, Bosnia and Herzegovina | 6,172 |
 | 12 | [agobeljic1](https://github.com/agobeljic1) | Adnan Gobeljic | Sarajevo | 5,816 |
 | 13 | [TarikVelic](https://github.com/TarikVelic) | Tarik Velic | Sarajevo | 5,773 |
@@ -83,4 +83,4 @@ Indexed users: 2,126
 | 19 | [Mickey0001](https://github.com/Mickey0001) | Mirza Sisic | Sarajevo, Bosnia and Herzegovina  | 122 |
 | 20 | [sake92](https://github.com/sake92) | Sakib Hadžiavdić | Sarajevo, Bosnia | 118 |
 
-Generated: 2026-10-19T00:07:39.094Z
+Generated: 2026-10-19T01:14:30.738Z

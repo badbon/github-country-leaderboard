@@ -1,6 +1,6 @@
 # Total Contributions - El Salvador
 
-Generated: 2026-10-19T00:16:58.395Z
+Generated: 2026-10-19T01:24:19.737Z
 
 Users: 2378
 
@@ -24,5 +24,5 @@ Users: 2378
 | 16 | [eduard-gonzalez](https://github.com/eduard-gonzalez) | Efrain Gonzalez | Savvy Post Marketing |  | El Salvador | 4888 |
 | 17 | [wmacall](https://github.com/wmacall) | Macall |  |  | El Salvador | 4863 |
 | 18 | [aedneth](https://github.com/aedneth) | Eduardo A. Borjas | Korvex | aedneth | San Salvador, El Salvador | 4698 |
-| 19 | [ThomasFarstrike](https://github.com/ThomasFarstrike) | Thomas Farstrike |  | ThomasFarstrike | El Zonte, El Salvador | 4590 |
-| 20 | [lucario028](https://github.com/lucario028) | Lucaritas | @BluefoxSV |  | El Salvador | 4586 |
+| 19 | [lucario028](https://github.com/lucario028) | Lucaritas | @BluefoxSV |  | El Salvador | 4586 |
+| 20 | [ThomasFarstrike](https://github.com/ThomasFarstrike) | Thomas Farstrike |  | ThomasFarstrike | El Zonte, El Salvador | 4489 |

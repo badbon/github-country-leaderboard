@@ -12,7 +12,7 @@ Indexed users: 53
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [mvdgun](https://github.com/mvdgun) | Mauro van der Gun | Curaçao | 6,287 |
+| 1 | [mvdgun](https://github.com/mvdgun) | Mauro van der Gun | Curaçao | 6,315 |
 | 2 | [kloostermanw](https://github.com/kloostermanw) | Wiebe | Willemstad, Curaçao | 3,835 |
 | 3 | [flangfeldt](https://github.com/flangfeldt) | FΞLIX | Willemstad, Curacao | 3,626 |
 | 4 | [BalusC](https://github.com/BalusC) | Bauke Scholtz | Willemstad, Curaçao | 3,420 |
@@ -29,8 +29,8 @@ Indexed users: 53
 | 15 | [iamjesco](https://github.com/iamjesco) | Jurgen Schoobaar | Willemstad | 49 |
 | 16 | [angelrgonzalezg](https://github.com/angelrgonzalezg) | Angel R Gonzalez G | Willemstad, Curacao | 45 |
 | 17 | [schroef](https://github.com/schroef) |  | Curaçao, Dutch Caribbean | 42 |
-| 18 | [agenteardilla47](https://github.com/agenteardilla47) |  | willemstad | 38 |
-| 19 | [bythealphabet](https://github.com/bythealphabet) | Isaac Lucas | Willemstad, Curacao | 38 |
+| 18 | [bythealphabet](https://github.com/bythealphabet) | Isaac Lucas | Willemstad, Curacao | 38 |
+| 19 | [agenteardilla47](https://github.com/agenteardilla47) |  | willemstad | 35 |
 | 20 | [LuukDAO](https://github.com/LuukDAO) | LuukDAO | Curaçao | 30 |
 
 ## Public Contributions
@@ -47,8 +47,8 @@ Indexed users: 53
 | 8 | [flangfeldt](https://github.com/flangfeldt) | FΞLIX | Willemstad, Curacao | 64 |
 | 9 | [angelrgonzalezg](https://github.com/angelrgonzalezg) | Angel R Gonzalez G | Willemstad, Curacao | 45 |
 | 10 | [schroef](https://github.com/schroef) |  | Curaçao, Dutch Caribbean | 42 |
-| 11 | [agenteardilla47](https://github.com/agenteardilla47) |  | willemstad | 38 |
-| 12 | [bythealphabet](https://github.com/bythealphabet) | Isaac Lucas | Willemstad, Curacao | 38 |
+| 11 | [bythealphabet](https://github.com/bythealphabet) | Isaac Lucas | Willemstad, Curacao | 38 |
+| 12 | [agenteardilla47](https://github.com/agenteardilla47) |  | willemstad | 35 |
 | 13 | [nelreina](https://github.com/nelreina) | Nelreina | Willemstad, Curacao | 31 |
 | 14 | [LuukDAO](https://github.com/LuukDAO) | LuukDAO | Curaçao | 30 |
 | 15 | [mvdgun](https://github.com/mvdgun) | Mauro van der Gun | Curaçao | 23 |
@@ -83,4 +83,4 @@ Indexed users: 53
 | 19 | [theowlsden](https://github.com/theowlsden) | Shaquil Maria | Curaçao | 6 |
 | 20 | [coinversus](https://github.com/coinversus) | CoinVersus | Curaçao | 5 |
 
-Generated: 2026-10-19T00:13:52.667Z
+Generated: 2026-10-19T01:21:52.385Z

@@ -19,8 +19,8 @@ Indexed users: 727
 | 5 | [emadprograms](https://github.com/emadprograms) | Hamza Arshad Alam | Bahrain | 6,284 |
 | 6 | [AlqattanDev](https://github.com/AlqattanDev) | Ali AlQattan | Manama, Bahrain | 6,194 |
 | 7 | [meshahid973](https://github.com/meshahid973) | meshahid.973 | bahrain | 6,125 |
-| 8 | [fairbird](https://github.com/fairbird) | RAED | Bahrain | 5,462 |
-| 9 | [zahidala](https://github.com/zahidala) | Zahid Allaulddin | Bahrain | 5,212 |
+| 8 | [fairbird](https://github.com/fairbird) | RAED | Bahrain | 5,467 |
+| 9 | [zahidala](https://github.com/zahidala) | Zahid Allaulddin | Bahrain | 5,236 |
 | 10 | [xCuzSkillz](https://github.com/xCuzSkillz) | Ali M. | Bahrain | 4,913 |
 | 11 | [kelvindecosta](https://github.com/kelvindecosta) | Kelvin DeCosta | Bahrain | 4,678 |
 | 12 | [halalgami](https://github.com/halalgami) | Algam | Bahrain | 4,628 |
@@ -38,7 +38,7 @@ Indexed users: 727
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [emadprograms](https://github.com/emadprograms) | Hamza Arshad Alam | Bahrain | 6,284 |
-| 2 | [fairbird](https://github.com/fairbird) | RAED | Bahrain | 5,462 |
+| 2 | [fairbird](https://github.com/fairbird) | RAED | Bahrain | 5,467 |
 | 3 | [SalehAbdulla](https://github.com/SalehAbdulla) | SalehAbdulla | BAHRAIN | 3,239 |
 | 4 | [UnbreakableMJ](https://github.com/UnbreakableMJ) | Mohamed Hammad | Bahrain | 2,730 |
 | 5 | [fatema-maitham](https://github.com/fatema-maitham) | Fatema Maitham | Bahrain | 2,695 |
@@ -83,4 +83,4 @@ Indexed users: 727
 | 19 | [f-9t9it](https://github.com/f-9t9it) | 9T9 IT | Bahrain | 42 |
 | 20 | [masterde](https://github.com/masterde) | Baker | Bahrain, Muharraq | 40 |
 
-Generated: 2026-10-19T00:04:46.684Z
+Generated: 2026-10-19T01:11:59.297Z

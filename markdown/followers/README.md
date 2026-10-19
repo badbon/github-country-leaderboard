@@ -18,13 +18,13 @@ Published countries: 234
 | Armenia | 4,035 | [View](./armenia.md) |
 | Aruba | 37 | [View](./aruba.md) |
 | Austria | 18,243 | [View](./austria.md) |
-| Azerbaijan | 5,059 | [View](./azerbaijan.md) |
+| Azerbaijan | 5,057 | [View](./azerbaijan.md) |
 | Bahamas | 236 | [View](./bahamas.md) |
 | Bahrain | 727 | [View](./bahrain.md) |
-| Bangladesh | 55,308 | [View](./bangladesh.md) |
+| Bangladesh | 55,321 | [View](./bangladesh.md) |
 | Barbados | 132 | [View](./barbados.md) |
 | Belarus | 10,931 | [View](./belarus.md) |
-| Belgium | 18,386 | [View](./belgium.md) |
+| Belgium | 18,385 | [View](./belgium.md) |
 | Belize | 94 | [View](./belize.md) |
 | Benin | 471 | [View](./benin.md) |
 | Bermuda | 898 | [View](./bermuda.md) |
@@ -208,7 +208,7 @@ Published countries: 234
 | Sweden | 39,032 | [View](./sweden.md) |
 | Switzerland | 24,078 | [View](./switzerland.md) |
 | Syria | 1,480 | [View](./syria.md) |
-| Taiwan | 21,994 | [View](./taiwan.md) |
+| Taiwan | 21,993 | [View](./taiwan.md) |
 | Tajikistan | 709 | [View](./tajikistan.md) |
 | Tanzania | 2,037 | [View](./tanzania.md) |
 | Thailand | 14,999 | [View](./thailand.md) |
@@ -227,7 +227,7 @@ Published countries: 234
 | United Arab Emirates | 4,225 | [View](./united_arab_emirates.md) |
 | United States Minor Outlying Islands | 0 | [View](./united_states_minor_outlying_islands.md) |
 | United States Virgin Islands | 4 | [View](./united_states_virgin_islands.md) |
-| Uruguay | 5,613 | [View](./uruguay.md) |
+| Uruguay | 5,612 | [View](./uruguay.md) |
 | Uzbekistan | 9,516 | [View](./uzbekistan.md) |
 | Vanuatu | 18 | [View](./vanuatu.md) |
 | Vatican City | 30 | [View](./vatican_city.md) |
@@ -239,4 +239,4 @@ Published countries: 234
 | Zambia | 1,337 | [View](./zambia.md) |
 | Zimbabwe | 1,656 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-19T00:55:26.970Z
+Generated: 2026-10-19T01:25:55.971Z
