@@ -34436,7 +34436,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 56,
+    "publicContributions": 32,
     "createdAt": "2023-03-22T09:09:29Z"
   },
   {
@@ -34447,7 +34447,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 4800,
+    "privateContributions": 5304,
     "publicContributions": 27,
     "createdAt": "2023-02-06T07:36:45Z"
   },
@@ -34459,20 +34459,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 66,
-    "publicContributions": 58,
+    "privateContributions": 110,
+    "publicContributions": 62,
     "createdAt": "2023-04-21T11:53:51Z"
   },
   {
     "login": "ByteMeHahaha",
-    "name": "Ethan Kletschke",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/133158473?s=72&u=63ffdcc152a5a499970eadd64e50e9f5fc187833&v=4",
+    "name": "Ethan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/133158473?s=72&u=5f47d527460783665b4696ebacd47cddb24f8f07&v=4",
     "location": "South Africa",
     "company": "N/A",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 147,
-    "publicContributions": 1029,
+    "followers": 2,
+    "privateContributions": 154,
+    "publicContributions": 1126,
     "createdAt": "2023-05-10T18:50:39Z"
   },
   {
@@ -34483,8 +34483,8 @@
     "company": "@EMKNDN",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 105,
-    "publicContributions": 111,
+    "privateContributions": 219,
+    "publicContributions": 177,
     "createdAt": "2023-03-17T08:26:47Z"
   },
   {
@@ -34495,7 +34495,7 @@
     "company": "@thapelocodes ",
     "twitterUsername": "thapelocodes",
     "followers": 1,
-    "privateContributions": 186,
+    "privateContributions": 88,
     "publicContributions": 1,
     "createdAt": "2023-01-21T11:27:58Z"
   },
@@ -34536,18 +34536,6 @@
     "createdAt": "2023-01-23T17:55:04Z"
   },
   {
-    "login": "NicWolf49",
-    "name": "Nicholas Liam Wolfaardt",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/129847542?s=72&u=404c32a539016b10ec58881f09c6de8129c3e633&v=4",
-    "location": "Cape Town, South Africa",
-    "company": "Varsity College",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 110,
-    "createdAt": "2023-04-04T09:51:11Z"
-  },
-  {
     "login": "PieterJDSw",
     "name": "Pieter Swanepoel",
     "avatarUrl": "https://avatars.githubusercontent.com/u/130872729?s=72&u=581fc78bc4c7b6cb1d078750718867c0f3357dd9&v=4",
@@ -34586,13 +34574,13 @@
   {
     "login": "00017-Ren",
     "name": "Hendrik Zwiegelaar",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/134644918?s=72&u=e6ad31cac77cef74b691e95d467a08962488063d&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/134644918?s=72&u=b7487a19d3e6e85560966245b6c2db660e74ed1e&v=4",
     "location": "South Africa",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1,
-    "publicContributions": 111,
+    "privateContributions": 5,
+    "publicContributions": 173,
     "createdAt": "2023-05-25T18:58:45Z"
   },
   {
@@ -34604,7 +34592,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 3,
     "createdAt": "2023-05-06T15:03:06Z"
   },
   {
@@ -34627,8 +34615,8 @@
     "company": "",
     "twitterUsername": "Morgan_Mashudu",
     "followers": 1,
-    "privateContributions": 32,
-    "publicContributions": 6,
+    "privateContributions": 49,
+    "publicContributions": 4,
     "createdAt": "2023-05-11T17:30:06Z"
   },
   {

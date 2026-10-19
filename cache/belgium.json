@@ -34675,8 +34675,8 @@
     "company": "Owmyflow Compagny",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 7,
-    "publicContributions": 14,
+    "privateContributions": 11,
+    "publicContributions": 16,
     "createdAt": "2021-06-30T09:59:26Z"
   },
   {
@@ -34687,7 +34687,7 @@
     "company": "Prioflux",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 427,
+    "privateContributions": 229,
     "publicContributions": 0,
     "createdAt": "2021-01-04T13:11:32Z"
   },
@@ -34736,7 +34736,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 51,
+    "publicContributions": 50,
     "createdAt": "2021-11-27T11:06:36Z"
   },
   {
@@ -34748,7 +34748,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 96,
+    "publicContributions": 81,
     "createdAt": "2021-02-13T16:03:54Z"
   },
   {
@@ -34771,8 +34771,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 2053,
-    "publicContributions": 37,
+    "privateContributions": 2214,
+    "publicContributions": 30,
     "createdAt": "2021-09-09T21:29:48Z"
   },
   {
@@ -34796,7 +34796,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 7,
     "createdAt": "2021-12-09T16:44:10Z"
   },
   {
@@ -34807,7 +34807,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 122,
+    "privateContributions": 127,
     "publicContributions": 15,
     "createdAt": "2021-06-13T19:23:10Z"
   },
@@ -34819,8 +34819,8 @@
     "company": "VIB-UGent (CMB)",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 109,
-    "publicContributions": 649,
+    "privateContributions": 125,
+    "publicContributions": 596,
     "createdAt": "2021-05-30T20:45:04Z"
   },
   {
@@ -34836,18 +34836,6 @@
     "createdAt": "2021-10-18T10:20:42Z"
   },
   {
-    "login": "IvanM-2157801",
-    "name": "Ivan Valery Isice Molenaers",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/91193802?s=72&v=4",
-    "location": "Belgium",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 5,
-    "createdAt": "2021-09-22T11:08:29Z"
-  },
-  {
     "login": "SiebeSterckx",
     "name": "Siebe Sterckx",
     "avatarUrl": "https://avatars.githubusercontent.com/u/90845766?s=72&u=40858269c8508698d12db3e6cfab5fc090bca19f&v=4",
@@ -34856,7 +34844,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2021-09-16T12:56:51Z"
   },
   {

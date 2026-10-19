@@ -34820,7 +34820,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 2,
     "createdAt": "2021-02-07T17:11:13Z"
   },
   {
@@ -34832,7 +34832,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 490,
+    "publicContributions": 452,
     "createdAt": "2021-07-19T09:30:22Z"
   },
   {
@@ -34842,9 +34842,9 @@
     "location": "Denmark",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 23,
-    "publicContributions": 7,
+    "followers": 3,
+    "privateContributions": 17,
+    "publicContributions": 2,
     "createdAt": "2021-08-24T15:15:49Z"
   },
   {
@@ -34868,7 +34868,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 60,
+    "publicContributions": 38,
     "createdAt": "2021-06-23T10:06:26Z"
   },
   {
@@ -34892,7 +34892,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 43,
+    "publicContributions": 36,
     "createdAt": "2021-05-20T09:02:48Z"
   },
   {
@@ -34918,18 +34918,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-03-01T12:59:26Z"
-  },
-  {
-    "login": "PFroekjaer",
-    "name": "Peter Frøkjær",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/80086565?s=72&u=c0e42f27552a0fff0e4a6e886d22ac7d76ee893d&v=4",
-    "location": "Denmark",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2021-03-05T05:05:43Z"
   },
   {
     "login": "Trismania",
@@ -35000,7 +34988,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 8,
     "createdAt": "2021-09-19T14:23:45Z"
   },
   {
@@ -35011,7 +34999,7 @@
     "company": "@tempur-intl ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 375,
+    "privateContributions": 574,
     "publicContributions": 5,
     "createdAt": "2021-04-02T15:46:31Z"
   },

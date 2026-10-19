@@ -34675,8 +34675,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 135,
-    "publicContributions": 67,
+    "privateContributions": 94,
+    "publicContributions": 6,
     "createdAt": "2021-04-30T12:49:10Z"
   },
   {
@@ -34687,8 +34687,8 @@
     "company": "TU Vienna",
     "twitterUsername": "codingmiracle",
     "followers": 9,
-    "privateContributions": 5,
-    "publicContributions": 78,
+    "privateContributions": 40,
+    "publicContributions": 75,
     "createdAt": "2021-06-08T09:04:50Z"
   },
   {
@@ -34700,7 +34700,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 18,
     "createdAt": "2021-02-27T17:26:57Z"
   },
   {
@@ -34722,7 +34722,7 @@
     "location": "Austria",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 10,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-09-20T06:46:28Z"
@@ -34735,8 +34735,8 @@
     "company": "@cloudflightio ",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 12,
-    "publicContributions": 20,
+    "privateContributions": 3,
+    "publicContributions": 19,
     "createdAt": "2021-02-08T19:41:25Z"
   },
   {
@@ -34746,9 +34746,9 @@
     "location": "Vienna, Austria",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 605,
-    "publicContributions": 93,
+    "followers": 11,
+    "privateContributions": 613,
+    "publicContributions": 55,
     "createdAt": "2021-10-20T05:46:30Z"
   },
   {
@@ -34758,9 +34758,9 @@
     "location": "Graz, Austria",
     "company": "TU Graz",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 231,
+    "publicContributions": 196,
     "createdAt": "2021-03-07T08:15:32Z"
   },
   {
@@ -34771,8 +34771,8 @@
     "company": "",
     "twitterUsername": "chifunt",
     "followers": 9,
-    "privateContributions": 1524,
-    "publicContributions": 379,
+    "privateContributions": 2163,
+    "publicContributions": 406,
     "createdAt": "2021-12-13T05:47:18Z"
   },
   {
@@ -34783,8 +34783,8 @@
     "company": "HTBLA Leonding",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 426,
-    "publicContributions": 165,
+    "privateContributions": 650,
+    "publicContributions": 240,
     "createdAt": "2021-12-25T10:51:51Z"
   },
   {
@@ -34795,8 +34795,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 80,
-    "publicContributions": 35,
+    "privateContributions": 144,
+    "publicContributions": 0,
     "createdAt": "2021-12-14T17:22:50Z"
   },
   {
@@ -34806,8 +34806,8 @@
     "location": "Austria, Leonding",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 82,
+    "followers": 8,
+    "privateContributions": 42,
     "publicContributions": 0,
     "createdAt": "2021-11-15T07:12:59Z"
   },
@@ -34819,7 +34819,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 93,
+    "privateContributions": 136,
     "publicContributions": 15,
     "createdAt": "2021-01-01T22:41:04Z"
   },
@@ -34844,19 +34844,19 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 131,
+    "publicContributions": 181,
     "createdAt": "2021-02-13T15:43:50Z"
   },
   {
     "login": "Ascyt",
-    "name": "Ascyt",
+    "name": "Filip Schauer",
     "avatarUrl": "https://avatars.githubusercontent.com/u/81428303?s=72&u=9ab46334e0346423b27fa2714772bd7b7bc75551&v=4",
     "location": "Linz, Austria",
     "company": "Adliance GmbH",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 33,
-    "publicContributions": 724,
+    "followers": 10,
+    "privateContributions": 29,
+    "publicContributions": 526,
     "createdAt": "2021-03-26T14:35:33Z"
   },
   {
@@ -34867,8 +34867,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 0,
-    "publicContributions": 0,
+    "privateContributions": 4,
+    "publicContributions": 1,
     "createdAt": "2021-04-29T19:32:19Z"
   },
   {
@@ -34878,7 +34878,7 @@
     "location": "Salzburg, Austria",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-08-11T06:39:33Z"
@@ -34890,9 +34890,9 @@
     "location": "Austria",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 127,
+    "publicContributions": 144,
     "createdAt": "2021-08-16T12:20:49Z"
   },
   {
