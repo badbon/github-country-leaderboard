@@ -70,7 +70,7 @@ Indexed users: 160
 | 6 | [Lemohang](https://github.com/Lemohang) | Lemohang57 | Maseru  | 45 |
 | 7 | [khauta](https://github.com/khauta) | Khauta Maliehe | Maseru, Lesotho | 44 |
 | 8 | [khobatha](https://github.com/khobatha) | Khobatha Setetemela | Maseru, Roma, Lesotho | 38 |
-| 9 | [AtomLaw](https://github.com/AtomLaw) | Hlompho | Lesotho | 32 |
+| 9 | [AtomLaw](https://github.com/AtomLaw) | Hlompho | Lesotho | 31 |
 | 10 | [ntholi](https://github.com/ntholi) | Ntholi Nkhatho | Maseru | 30 |
 | 11 | [Ntlele](https://github.com/Ntlele) | David | Lesotho | 25 |
 | 12 | [tshakalekholoane](https://github.com/tshakalekholoane) | Tshaka Lekholoane | Maseru, Lesotho | 19 |
@@ -83,4 +83,4 @@ Indexed users: 160
 | 19 | [lotesm](https://github.com/lotesm) | Lotes Molapo | Maseru, Lesotho | 13 |
 | 20 | [entsoereng](https://github.com/entsoereng) | Mokonyana Ntsoereng | Lesotho | 12 |
 
-Generated: 2026-10-19T00:33:51.982Z
+Generated: 2026-10-19T01:41:23.196Z

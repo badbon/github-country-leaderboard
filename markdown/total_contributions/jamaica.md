@@ -1,6 +1,6 @@
 # Total Contributions - Jamaica
 
-Generated: 2026-10-19T00:27:45.407Z
+Generated: 2026-10-19T01:37:49.053Z
 
 Users: 1273
 
@@ -11,8 +11,8 @@ Users: 1273
 | 3 | [alexarthurs](https://github.com/alexarthurs) | Alex Arthurs |  |  | Kingston, Ontario | 12442 |
 | 4 | [SirFitz](https://github.com/SirFitz) | Romario Fitzgerald | NCB Capital Markets |  | Jamaica | 11378 |
 | 5 | [eforth](https://github.com/eforth) | Ervin Forth | Healthcare EQ | ErvinForth | Jamaica | 9217 |
-| 6 | [olusiekwin](https://github.com/olusiekwin) | Gramm | Gramm's Foundation | _olusiekwin | kingston, JM | 8867 |
-| 7 | [kenoButler](https://github.com/kenoButler) | KenoB |  |  | Kingston, Jamaica | 8749 |
+| 6 | [kenoButler](https://github.com/kenoButler) | KenoB |  |  | Kingston, Jamaica | 8749 |
+| 7 | [olusiekwin](https://github.com/olusiekwin) | Gramm | Gramm's Foundation | _olusiekwin | kingston, JM | 8674 |
 | 8 | [QuigProQuo](https://github.com/QuigProQuo) | John Peter Quigley | Quigley Group | JohnPeterAt | Kingston, New York | 7955 |
 | 9 | [DinitoThompson](https://github.com/DinitoThompson) | Dinito Thompson | @Konnexx-Software-Developers  |  | Jamaica | 6874 |
 | 10 | [marcamillion](https://github.com/marcamillion) | Marc Gayle | Marc Gayle |  | Kingston, Jamaica | 6515 |

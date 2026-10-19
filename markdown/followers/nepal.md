@@ -1,6 +1,6 @@
 # Followers - Nepal
 
-Generated: 2026-10-19T00:41:31.279Z
+Generated: 2026-10-19T01:50:03.103Z
 
 Users: 14104
 
@@ -14,7 +14,7 @@ Users: 14104
 | 6 | [lohanidamodar](https://github.com/lohanidamodar) | Damodar Lohani | @appwrite PopupBits | lohanidamodar | Kathmandu, Nepal | 2168 |
 | 7 | [infopradip](https://github.com/infopradip) | Pradip | Sagar Group | infopardip | Nepal | 2055 |
 | 8 | [devsargam](https://github.com/devsargam) | Sargam |  | sargampoudel | Nepal | 2017 |
-| 9 | [gitechnologi](https://github.com/gitechnologi) | GI Technology Pvt. Ltd. | GI Technology Pvt. Ltd. |  | Nepal | 1721 |
+| 9 | [gitechnologi](https://github.com/gitechnologi) | GI Technology Pvt. Ltd. | GI Technology Pvt. Ltd. |  | Nepal | 1720 |
 | 10 | [pushitchaudhary](https://github.com/pushitchaudhary) | Pushit Chaudhary |  |  | Pokhara, Nepal | 1390 |
 | 11 | [prabinmagar](https://github.com/prabinmagar) | Prabin Magar |  |  | Kathmandu,, Nepal | 1216 |
 | 12 | [ThinamXx](https://github.com/ThinamXx) | Thinam Tamang | Speechify |  | Kathmandu, Nepal | 1209 |
@@ -24,5 +24,5 @@ Users: 14104
 | 16 | [iamtekson](https://github.com/iamtekson) | Tek Kshetri | The Solution Stack | iamtekson | Nepal | 935 |
 | 17 | [sanamhub](https://github.com/sanamhub) | Sanam | SEA | sanampakuwal | Nepal | 838 |
 | 18 | [maheshbasnet089](https://github.com/maheshbasnet089) | Manish Basnet  | @Digital-Pathshala |  | Itahari, Sunsari, Nepal | 815 |
-| 19 | [SajanGhimire1](https://github.com/SajanGhimire1) | Sajan Ghimire |  |  | Nepal | 755 |
+| 19 | [SajanGhimire1](https://github.com/SajanGhimire1) | Sajan Ghimire |  |  | Nepal | 752 |
 | 20 | [HeyIamMarasiniAmrit](https://github.com/HeyIamMarasiniAmrit) | Amrit Marasini |  | amrit_twts_ | Kathmandu, Nepal | 747 |

@@ -17,7 +17,7 @@ Indexed users: 108
 | 3 | [Co-ordinator](https://github.com/Co-ordinator) | Coordinator | Manzini, Eswatini | 1,040 |
 | 4 | [CBahtaria](https://github.com/CBahtaria) | Charles Bartaria | Manzini, Kingdom of Eswatini | 1,006 |
 | 5 | [mayo23-06-02](https://github.com/mayo23-06-02) | Mayo | Eswatini | 739 |
-| 6 | [Dwaynemaster007](https://github.com/Dwaynemaster007) | Thubelihle Dlamini | Eswatini | 451 |
+| 6 | [Dwaynemaster007](https://github.com/Dwaynemaster007) | Thubelihle Dlamini | Eswatini | 448 |
 | 7 | [SakhileMamba](https://github.com/SakhileMamba) | Sakhile Mamba | Eswatini | 368 |
 | 8 | [Dalubuhle-Dlamini](https://github.com/Dalubuhle-Dlamini) | Sihlelo Dalubuhle Dlamini | Swaziland | 325 |
 | 9 | [kingMasombuka](https://github.com/kingMasombuka) | Senzo Ncongwane | Swaziland | 284 |
@@ -28,8 +28,8 @@ Indexed users: 108
 | 14 | [Wandile-cyber](https://github.com/Wandile-cyber) | Wandile Ralph Dlamini | Mbabane, Swaziland | 161 |
 | 15 | [Theo-Banx](https://github.com/Theo-Banx) | Banx | Manzini, Swaziland | 102 |
 | 16 | [siko13-bot](https://github.com/siko13-bot) | 202101251 | Mbabane,Eswatini | 94 |
-| 17 | [Sandziso](https://github.com/Sandziso) | Sandziso Mamba |  Eswatini | 67 |
-| 18 | [BhutiiMlamuli](https://github.com/BhutiiMlamuli) | Mlamuli Sibandze | Swaziland | 65 |
+| 17 | [BhutiiMlamuli](https://github.com/BhutiiMlamuli) | Mlamuli Sibandze | Swaziland | 65 |
+| 18 | [Sandziso](https://github.com/Sandziso) | Sandziso Mamba |  Eswatini | 65 |
 | 19 | [sicelo](https://github.com/sicelo) | Sicelo | Mbabane, ESWATINI | 60 |
 | 20 | [sanele176](https://github.com/sanele176) | Mancoba Dlamini | Eswatini | 52 |
 
@@ -39,12 +39,12 @@ Indexed users: 108
 |---:|---|---|---|---:|
 | 1 | [mayo23-06-02](https://github.com/mayo23-06-02) | Mayo | Eswatini | 739 |
 | 2 | [CBahtaria](https://github.com/CBahtaria) | Charles Bartaria | Manzini, Kingdom of Eswatini | 672 |
-| 3 | [Dwaynemaster007](https://github.com/Dwaynemaster007) | Thubelihle Dlamini | Eswatini | 449 |
+| 3 | [Dwaynemaster007](https://github.com/Dwaynemaster007) | Thubelihle Dlamini | Eswatini | 446 |
 | 4 | [SakhileMamba](https://github.com/SakhileMamba) | Sakhile Mamba | Eswatini | 106 |
 | 5 | [siko13-bot](https://github.com/siko13-bot) | 202101251 | Mbabane,Eswatini | 94 |
 | 6 | [nigeljohnson73](https://github.com/nigeljohnson73) | Nigel Johnson | Malkerns, Swaziland | 81 |
-| 7 | [Sandziso](https://github.com/Sandziso) | Sandziso Mamba |  Eswatini | 67 |
-| 8 | [BhutiiMlamuli](https://github.com/BhutiiMlamuli) | Mlamuli Sibandze | Swaziland | 65 |
+| 7 | [BhutiiMlamuli](https://github.com/BhutiiMlamuli) | Mlamuli Sibandze | Swaziland | 65 |
+| 8 | [Sandziso](https://github.com/Sandziso) | Sandziso Mamba |  Eswatini | 65 |
 | 9 | [sicelo](https://github.com/sicelo) | Sicelo | Mbabane, ESWATINI | 60 |
 | 10 | [sanele176](https://github.com/sanele176) | Mancoba Dlamini | Eswatini | 52 |
 | 11 | [Co-ordinator](https://github.com/Co-ordinator) | Coordinator | Manzini, Eswatini | 47 |
@@ -73,9 +73,9 @@ Indexed users: 108
 | 9 | [BrianMsane](https://github.com/BrianMsane) | Brian Msane | Ezulwini, Eswatini | 17 |
 | 10 | [adekunleowolabi](https://github.com/adekunleowolabi) | Adekunle Owolabi | Mbabane, Eswatini | 14 |
 | 11 | [Milly801](https://github.com/Milly801) | Gcwalisile Matse | Mbabane, Eswatini | 13 |
-| 12 | [BhutiiMlamuli](https://github.com/BhutiiMlamuli) | Mlamuli Sibandze | Swaziland | 11 |
-| 13 | [Wandile-cyber](https://github.com/Wandile-cyber) | Wandile Ralph Dlamini | Mbabane, Swaziland | 11 |
-| 14 | [Annis-Monadjem](https://github.com/Annis-Monadjem) | Annis Monadjem | Swaziland | 10 |
+| 12 | [Wandile-cyber](https://github.com/Wandile-cyber) | Wandile Ralph Dlamini | Mbabane, Swaziland | 11 |
+| 13 | [Annis-Monadjem](https://github.com/Annis-Monadjem) | Annis Monadjem | Swaziland | 10 |
+| 14 | [BhutiiMlamuli](https://github.com/BhutiiMlamuli) | Mlamuli Sibandze | Swaziland | 10 |
 | 15 | [CodehubNerd](https://github.com/CodehubNerd) | Culture | Swaziland | 10 |
 | 16 | [Dwaynemaster007](https://github.com/Dwaynemaster007) | Thubelihle Dlamini | Eswatini | 10 |
 | 17 | [mitchkun](https://github.com/mitchkun) | Mitchell Dube | Mbabane, Swaziland | 10 |
@@ -83,4 +83,4 @@ Indexed users: 108
 | 19 | [SakhileMamba](https://github.com/SakhileMamba) | Sakhile Mamba | Eswatini | 9 |
 | 20 | [allGhostAnon](https://github.com/allGhostAnon) | Lwazi Dlamini | Mbabane, Swaziland  | 8 |
 
-Generated: 2026-10-19T00:18:22.346Z
+Generated: 2026-10-19T01:26:52.594Z

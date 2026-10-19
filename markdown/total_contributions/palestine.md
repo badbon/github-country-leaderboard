@@ -1,6 +1,6 @@
 # Total Contributions - Palestine
 
-Generated: 2026-10-19T00:44:56.705Z
+Generated: 2026-10-19T01:54:31.287Z
 
 Users: 2197
 
@@ -14,9 +14,9 @@ Users: 2197
 | 6 | [AbdulsalamMansour](https://github.com/AbdulsalamMansour) | Abdulsalam Mansour | LogesTechs |  | Palestine | 12329 |
 | 7 | [FALKONPS](https://github.com/FALKONPS) | FALKON.PS |  |  | Palestine | 11777 |
 | 8 | [RandaZraik](https://github.com/RandaZraik) | Randa | @FoothillSolutions |  | Nablus, Palestine | 8206 |
-| 9 | [Walaa-Volidis](https://github.com/Walaa-Volidis) |  |  |  | Palestine | 7546 |
-| 10 | [izadoesdev](https://github.com/izadoesdev) | iza | Databuddy | izadoesdev | Palestine | 7373 |
-| 11 | [1210395](https://github.com/1210395) | Jadallah  | BZU |  | Ramallah | 6823 |
+| 9 | [1210395](https://github.com/1210395) | Jadallah  | BZU |  | Ramallah | 7671 |
+| 10 | [Walaa-Volidis](https://github.com/Walaa-Volidis) |  |  |  | Palestine | 7546 |
+| 11 | [izadoesdev](https://github.com/izadoesdev) | iza | Databuddy | izadoesdev | Palestine | 7373 |
 | 12 | [salahy](https://github.com/salahy) | Salah Yahya |  |  | Palestine | 6501 |
 | 13 | [skmail](https://github.com/skmail) |  |  | SolaimanKmail | Palestine | 6410 |
 | 14 | [abusalameh](https://github.com/abusalameh) | Raja Abu Salameh |  |  | Jenin, Palestine | 6010 |

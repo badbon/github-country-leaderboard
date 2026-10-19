@@ -1,6 +1,6 @@
 # Latvia
 
-Indexed users: 3,253
+Indexed users: 3,252
 
 | Leaderboard | Link |
 |---|---|
@@ -56,7 +56,7 @@ Indexed users: 3,253
 | 17 | [sorokin-vladimir](https://github.com/sorokin-vladimir) | Vladimir Sorokin | Riga | 1,430 |
 | 18 | [eglitise](https://github.com/eglitise) | Edgars Eglītis | Riga, Latvia | 1,422 |
 | 19 | [LilithStd](https://github.com/LilithStd) | Dmitrii | Latvia, Riga | 1,390 |
-| 20 | [Qaevix](https://github.com/Qaevix) | Qaevix | Riga | 1,281 |
+| 20 | [Vilsol](https://github.com/Vilsol) |  | Riga, LV | 1,335 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 3,253
 | 19 | [ruslanskorb](https://github.com/ruslanskorb) | Ruslan Skorb | Riga, Latvia | 226 |
 | 20 | [0ki](https://github.com/0ki) | Кirils Sоlovjоvs | Latvia | 224 |
 
-Generated: 2026-10-19T00:33:29.744Z
+Generated: 2026-10-19T01:41:17.474Z

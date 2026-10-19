@@ -70,7 +70,7 @@ Indexed users: 14,104
 | 6 | [lohanidamodar](https://github.com/lohanidamodar) | Damodar Lohani | Kathmandu, Nepal | 2,168 |
 | 7 | [infopradip](https://github.com/infopradip) | Pradip | Nepal | 2,055 |
 | 8 | [devsargam](https://github.com/devsargam) | Sargam | Nepal | 2,017 |
-| 9 | [gitechnologi](https://github.com/gitechnologi) | GI Technology Pvt. Ltd. | Nepal | 1,721 |
+| 9 | [gitechnologi](https://github.com/gitechnologi) | GI Technology Pvt. Ltd. | Nepal | 1,720 |
 | 10 | [pushitchaudhary](https://github.com/pushitchaudhary) | Pushit Chaudhary | Pokhara, Nepal | 1,390 |
 | 11 | [prabinmagar](https://github.com/prabinmagar) | Prabin Magar | Kathmandu,, Nepal | 1,216 |
 | 12 | [ThinamXx](https://github.com/ThinamXx) | Thinam Tamang | Kathmandu, Nepal | 1,209 |
@@ -80,7 +80,7 @@ Indexed users: 14,104
 | 16 | [iamtekson](https://github.com/iamtekson) | Tek Kshetri | Nepal | 935 |
 | 17 | [sanamhub](https://github.com/sanamhub) | Sanam | Nepal | 838 |
 | 18 | [maheshbasnet089](https://github.com/maheshbasnet089) | Manish Basnet  | Itahari, Sunsari, Nepal | 815 |
-| 19 | [SajanGhimire1](https://github.com/SajanGhimire1) | Sajan Ghimire | Nepal | 755 |
+| 19 | [SajanGhimire1](https://github.com/SajanGhimire1) | Sajan Ghimire | Nepal | 752 |
 | 20 | [HeyIamMarasiniAmrit](https://github.com/HeyIamMarasiniAmrit) | Amrit Marasini | Kathmandu, Nepal | 747 |
 
-Generated: 2026-10-19T00:41:31.279Z
+Generated: 2026-10-19T01:50:03.103Z

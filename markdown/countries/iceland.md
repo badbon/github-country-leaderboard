@@ -55,8 +55,8 @@ Indexed users: 1,579
 | 16 | [bgunnarsson](https://github.com/bgunnarsson) | B. Gunnarsson | Iceland | 1,493 |
 | 17 | [gasvaktin](https://github.com/gasvaktin) | Gasvaktin | Iceland | 1,456 |
 | 18 | [gunnargestsson](https://github.com/gunnargestsson) | Gunnar Thor Gestsson | Iceland | 1,398 |
-| 19 | [zveinn](https://github.com/zveinn) | Sveinn ( keyb1nd ) | Iceland | 1,279 |
-| 20 | [Max77788](https://github.com/Max77788) | Max Mat | Iceland | 1,261 |
+| 19 | [tungufoss](https://github.com/tungufoss) | Helga Ingimundardóttir | Iceland | 1,327 |
+| 20 | [zveinn](https://github.com/zveinn) | Sveinn ( keyb1nd ) | Iceland | 1,279 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,579
 | 19 | [jokull](https://github.com/jokull) | Jökull Sólberg Auðunsson | Reykjavík, Iceland | 209 |
 | 20 | [kevien](https://github.com/kevien) | K3vin | iceland | 204 |
 
-Generated: 2026-10-19T00:26:05.051Z
+Generated: 2026-10-19T01:35:10.867Z

@@ -1,13 +1,13 @@
 # Public Contributions - Senegal
 
-Generated: 2026-10-19T00:52:13.607Z
+Generated: 2026-10-19T02:00:23.785Z
 
 Users: 1355
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [traorecheikh](https://github.com/traorecheikh) | Cheikh Tidiane TRAORÉ | @Teksi-inc @404-NotFound-Org @TyvaaServices  | HanoWhisper | dakar, senegal | 4264 |
-| 2 | [Zoubeir23](https://github.com/Zoubeir23) | ZOUBEIR IBRAHIMA | ISI |  | Sénegale, Dakar | 3264 |
+| 2 | [Zoubeir23](https://github.com/Zoubeir23) | ZOUBEIR IBRAHIMA | ISI |  | Sénegale, Dakar | 3270 |
 | 3 | [utachicodes](https://github.com/utachicodes) | Abdoullah Ndao | Azertica |  | Senegal | 3097 |
 | 4 | [nosleepman1](https://github.com/nosleepman1) | Abdallah Diouf |  |  | Dakar  | 2805 |
 | 5 | [Anna-007-tech](https://github.com/Anna-007-tech) | Anne Marie Seye | 21STUDIO |  | Dakar, Sénégal | 2478 |
@@ -17,12 +17,12 @@ Users: 1355
 | 9 | [FadelDia](https://github.com/FadelDia) | Fallou Dia | Freelancing |  | SENEGAL | 1671 |
 | 10 | [crybaby050](https://github.com/crybaby050) | Seydina |  |  | Senegal | 1651 |
 | 11 | [Libs9977](https://github.com/Libs9977) | Libasse Mbaye | Teyliom |  | Dakar,Senegal | 1599 |
-| 12 | [patheGobel](https://github.com/patheGobel) | Pathé BA |  | Pathegobelba | Senegal  | 1336 |
-| 13 | [Ramadiaw12](https://github.com/Ramadiaw12) | Rahma |  |  | Senegal | 1292 |
-| 14 | [soszaboss](https://github.com/soszaboss) | Moustoifa Ben Kamal Moussa |  |  | Dakar, Senegal | 1229 |
-| 15 | [SeydinaBANE](https://github.com/SeydinaBANE) | Seydina Mouhamet BANE | OptimaIA |  | Dakar,Senegal | 1159 |
-| 16 | [supermalang](https://github.com/supermalang) | Elhadji Malang | Digital Project Manager at Laiterie Du Berger | supermalang_ | Dakar | 1143 |
-| 17 | [sokhnaFaaty](https://github.com/sokhnaFaaty) | nexuusDev |  |  | Senegal | 1066 |
-| 18 | [RBen19](https://github.com/RBen19) | Rosinard Beni |  |  | Dakar, Senegal | 1054 |
-| 19 | [lucien-loua](https://github.com/lucien-loua) | lU | @ouestlabs | luu_loua | Dakar, Senegal | 1012 |
-| 20 | [elias-ba](https://github.com/elias-ba) | Elias Waly Ba | @OpenFn | eliaswalyba | Dakar, Senegal | 1006 |
+| 12 | [khadimmbaye0](https://github.com/khadimmbaye0) | Khadim MBAYE  | Student at Ecole Superieur Polytechnique de Dakar | khadimmb004 | Dakar, Sn  | 1418 |
+| 13 | [patheGobel](https://github.com/patheGobel) | Pathé BA |  | Pathegobelba | Senegal  | 1336 |
+| 14 | [Ramadiaw12](https://github.com/Ramadiaw12) | Rahma |  |  | Senegal | 1292 |
+| 15 | [soszaboss](https://github.com/soszaboss) | Moustoifa Ben Kamal Moussa |  |  | Dakar, Senegal | 1229 |
+| 16 | [SeydinaBANE](https://github.com/SeydinaBANE) | Seydina Mouhamet BANE | OptimaIA |  | Dakar,Senegal | 1159 |
+| 17 | [supermalang](https://github.com/supermalang) | Elhadji Malang | Digital Project Manager at Laiterie Du Berger | supermalang_ | Dakar | 1143 |
+| 18 | [sokhnaFaaty](https://github.com/sokhnaFaaty) | nexuusDev |  |  | Senegal | 1066 |
+| 19 | [RBen19](https://github.com/RBen19) | Rosinard Beni |  |  | Dakar, Senegal | 1054 |
+| 20 | [lucien-loua](https://github.com/lucien-loua) | lU | @ouestlabs | luu_loua | Dakar, Senegal | 1012 |

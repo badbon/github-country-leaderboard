@@ -1,6 +1,6 @@
 # Total Contributions - Libya
 
-Generated: 2026-10-19T00:34:00.361Z
+Generated: 2026-10-19T01:42:39.848Z
 
 Users: 741
 
@@ -18,7 +18,7 @@ Users: 741
 | 10 | [GaafarBBK](https://github.com/GaafarBBK) | Mohamed Gaafar |  |  | Libya | 7824 |
 | 11 | [Elsheshtawwy](https://github.com/Elsheshtawwy) | Badr Elsheshtawy |  | El_Sheshtawwy | Benghazi, Libya 🇱🇾 | 7445 |
 | 12 | [Salehahmedeus](https://github.com/Salehahmedeus) | Ahmed Saleh |  |  | Libya | 6769 |
-| 13 | [EngGharbia](https://github.com/EngGharbia) | Abdurraouf Ben Gharbia |  |  | Tripoli, Libya | 6197 |
+| 13 | [EngGharbia](https://github.com/EngGharbia) | Abdurraouf Ben Gharbia |  |  | Tripoli, Libya | 6192 |
 | 14 | [swe-sanad](https://github.com/swe-sanad) | Sanad AlArousi | Software Pioneers |  | Zawia, Libya | 6136 |
 | 15 | [almontasser](https://github.com/almontasser) | Mahmoud Almontasser | Lamah |  | Misurata, Libya | 6132 |
 | 16 | [x414i](https://github.com/x414i) | Mohamed S. Belaid |  |  | Libya/Misrata | 6042 |

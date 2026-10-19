@@ -1,6 +1,6 @@
 # Followers - Eswatini
 
-Generated: 2026-10-19T00:18:22.346Z
+Generated: 2026-10-19T01:26:52.594Z
 
 Users: 108
 
@@ -17,9 +17,9 @@ Users: 108
 | 9 | [BrianMsane](https://github.com/BrianMsane) | Brian Msane | EPH | msanebrianboss | Ezulwini, Eswatini | 17 |
 | 10 | [adekunleowolabi](https://github.com/adekunleowolabi) | Adekunle Owolabi |  | iamkstunt | Mbabane, Eswatini | 14 |
 | 11 | [Milly801](https://github.com/Milly801) | Gcwalisile Matse |  | Zuzu_Nkhosi | Mbabane, Eswatini | 13 |
-| 12 | [BhutiiMlamuli](https://github.com/BhutiiMlamuli) | Mlamuli Sibandze |  |  | Swaziland | 11 |
-| 13 | [Wandile-cyber](https://github.com/Wandile-cyber) | Wandile Ralph Dlamini | Onswaziline |  | Mbabane, Swaziland | 11 |
-| 14 | [Annis-Monadjem](https://github.com/Annis-Monadjem) | Annis Monadjem |  |  | Swaziland | 10 |
+| 12 | [Wandile-cyber](https://github.com/Wandile-cyber) | Wandile Ralph Dlamini | Onswaziline |  | Mbabane, Swaziland | 11 |
+| 13 | [Annis-Monadjem](https://github.com/Annis-Monadjem) | Annis Monadjem |  |  | Swaziland | 10 |
+| 14 | [BhutiiMlamuli](https://github.com/BhutiiMlamuli) | Mlamuli Sibandze |  |  | Swaziland | 10 |
 | 15 | [CodehubNerd](https://github.com/CodehubNerd) | Culture | Nu Africa | Culture_Dlamini | Swaziland | 10 |
 | 16 | [Dwaynemaster007](https://github.com/Dwaynemaster007) | Thubelihle Dlamini |  |  | Eswatini | 10 |
 | 17 | [mitchkun](https://github.com/mitchkun) | Mitchell Dube | Lurking  | o_Omitch_kun | Mbabane, Swaziland | 10 |

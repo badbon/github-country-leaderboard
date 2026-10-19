@@ -16,18 +16,18 @@ Indexed users: 991
 | 2 | [Kmahmoudi](https://github.com/Kmahmoudi) | Kamran Mahmoudi | Muscat, Oman | 31,094 |
 | 3 | [i4mjad](https://github.com/i4mjad) | Amjad Khalfan | Muscat, Oman | 16,417 |
 | 4 | [jaifar530](https://github.com/jaifar530) | Jaifar | Oman | 14,380 |
-| 5 | [7kylor](https://github.com/7kylor) | Taher Al Kiyumi | Muscat, OM. | 13,027 |
+| 5 | [7kylor](https://github.com/7kylor) | Taher Al Kiyumi | Muscat, OM. | 13,171 |
 | 6 | [NasserAlbusaidi](https://github.com/NasserAlbusaidi) | Nasser Albusaidi | Oman | 13,004 |
 | 7 | [bshbsh404](https://github.com/bshbsh404) | Bashir Hassan | Muscat, Oman | 10,687 |
 | 8 | [alanqoudif](https://github.com/alanqoudif) | faisal al anqoudi | Muscat, Oman 🇴🇲 | 9,459 |
 | 9 | [aldhaifani](https://github.com/aldhaifani) | Tareq Al-Dhaifani | Muscat, Oman | 9,045 |
 | 10 | [iamsj7](https://github.com/iamsj7) | Shaik Jaleel | Muscat | 9,036 |
-| 11 | [sanjeed5](https://github.com/sanjeed5) | Sanjeed | Bangalore / Oman  | 8,371 |
-| 12 | [shm379](https://github.com/shm379) | Hussein | Muscat | 8,259 |
+| 11 | [shm379](https://github.com/shm379) | Hussein | Muscat | 8,678 |
+| 12 | [sanjeed5](https://github.com/sanjeed5) | Sanjeed | Bangalore / Oman  | 8,371 |
 | 13 | [dmsherazi](https://github.com/dmsherazi) | Dost Muhammad Shah | Muscat, Oman | 7,532 |
 | 14 | [DevAseel](https://github.com/DevAseel) | Aseel Al Rawahi | Oman | 6,870 |
 | 15 | [lqji](https://github.com/lqji) | Ahmed Abdullah | Oman | 6,006 |
-| 16 | [MohAnghabo](https://github.com/MohAnghabo) | Mohammed Anghabo | Muscat | 5,328 |
+| 16 | [MohAnghabo](https://github.com/MohAnghabo) | Mohammed Anghabo | Muscat | 5,312 |
 | 17 | [mohdrasbi](https://github.com/mohdrasbi) | Mohamed Al-Rasbi | Oman | 4,754 |
 | 18 | [n3sser96](https://github.com/n3sser96) | Nasser Al Subhi | Oman | 4,719 |
 | 19 | [amk9889](https://github.com/amk9889) | Alfarouq | Oman | 4,346 |
@@ -77,10 +77,10 @@ Indexed users: 991
 | 13 | [sanjeed5](https://github.com/sanjeed5) | Sanjeed | Bangalore / Oman  | 132 |
 | 14 | [byteab](https://github.com/byteab) | Ehsan sarshar | Muscat Oman | 109 |
 | 15 | [HosseinShabani](https://github.com/HosseinShabani) | Hossein Shabani | Oman | 108 |
-| 16 | [xZAYEDx](https://github.com/xZAYEDx) | ZAYED AL-GAWI | Muscat,Oman | 105 |
-| 17 | [shm379](https://github.com/shm379) | Hussein | Muscat | 103 |
+| 16 | [shm379](https://github.com/shm379) | Hussein | Muscat | 105 |
+| 17 | [xZAYEDx](https://github.com/xZAYEDx) | ZAYED AL-GAWI | Muscat,Oman | 105 |
 | 18 | [foxoman](https://github.com/foxoman) | Sultan Al Isaiee | Oman | 98 |
 | 19 | [3mrdev](https://github.com/3mrdev) | Amr Abd-Alkrim | Khartoum, Sudan \| Muscat, Oman | 94 |
 | 20 | [AmirSa12](https://github.com/AmirSa12) | AmirHossein Sakhravi | Muscat, Oman | 91 |
 
-Generated: 2026-10-19T00:43:48.776Z
+Generated: 2026-10-19T01:53:28.837Z

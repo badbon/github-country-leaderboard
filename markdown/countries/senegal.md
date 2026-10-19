@@ -30,7 +30,7 @@ Indexed users: 1,355
 | 16 | [Denver-sn](https://github.com/Denver-sn) | DℰℕVℰℛ | Senegal,Dakar | 4,711 |
 | 17 | [lamine-f](https://github.com/lamine-f) | Mouhamed Lamine Faye | Sénégal - Dakar | 4,525 |
 | 18 | [madicke12](https://github.com/madicke12) | Madicke Cisse | Dakar | 4,409 |
-| 19 | [Zoubeir23](https://github.com/Zoubeir23) | ZOUBEIR IBRAHIMA | Sénegale, Dakar | 4,387 |
+| 19 | [Zoubeir23](https://github.com/Zoubeir23) | ZOUBEIR IBRAHIMA | Sénegale, Dakar | 4,393 |
 | 20 | [lonie12](https://github.com/lonie12) | Yxie | Dakar, Senegal | 4,378 |
 
 ## Public Contributions
@@ -38,7 +38,7 @@ Indexed users: 1,355
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [traorecheikh](https://github.com/traorecheikh) | Cheikh Tidiane TRAORÉ | dakar, senegal | 4,264 |
-| 2 | [Zoubeir23](https://github.com/Zoubeir23) | ZOUBEIR IBRAHIMA | Sénegale, Dakar | 3,264 |
+| 2 | [Zoubeir23](https://github.com/Zoubeir23) | ZOUBEIR IBRAHIMA | Sénegale, Dakar | 3,270 |
 | 3 | [utachicodes](https://github.com/utachicodes) | Abdoullah Ndao | Senegal | 3,097 |
 | 4 | [nosleepman1](https://github.com/nosleepman1) | Abdallah Diouf | Dakar  | 2,805 |
 | 5 | [Anna-007-tech](https://github.com/Anna-007-tech) | Anne Marie Seye | Dakar, Sénégal | 2,478 |
@@ -48,15 +48,15 @@ Indexed users: 1,355
 | 9 | [FadelDia](https://github.com/FadelDia) | Fallou Dia | SENEGAL | 1,671 |
 | 10 | [crybaby050](https://github.com/crybaby050) | Seydina | Senegal | 1,651 |
 | 11 | [Libs9977](https://github.com/Libs9977) | Libasse Mbaye | Dakar,Senegal | 1,599 |
-| 12 | [patheGobel](https://github.com/patheGobel) | Pathé BA | Senegal  | 1,336 |
-| 13 | [Ramadiaw12](https://github.com/Ramadiaw12) | Rahma | Senegal | 1,292 |
-| 14 | [soszaboss](https://github.com/soszaboss) | Moustoifa Ben Kamal Moussa | Dakar, Senegal | 1,229 |
-| 15 | [SeydinaBANE](https://github.com/SeydinaBANE) | Seydina Mouhamet BANE | Dakar,Senegal | 1,159 |
-| 16 | [supermalang](https://github.com/supermalang) | Elhadji Malang | Dakar | 1,143 |
-| 17 | [sokhnaFaaty](https://github.com/sokhnaFaaty) | nexuusDev | Senegal | 1,066 |
-| 18 | [RBen19](https://github.com/RBen19) | Rosinard Beni | Dakar, Senegal | 1,054 |
-| 19 | [lucien-loua](https://github.com/lucien-loua) | lU | Dakar, Senegal | 1,012 |
-| 20 | [elias-ba](https://github.com/elias-ba) | Elias Waly Ba | Dakar, Senegal | 1,006 |
+| 12 | [khadimmbaye0](https://github.com/khadimmbaye0) | Khadim MBAYE  | Dakar, Sn  | 1,418 |
+| 13 | [patheGobel](https://github.com/patheGobel) | Pathé BA | Senegal  | 1,336 |
+| 14 | [Ramadiaw12](https://github.com/Ramadiaw12) | Rahma | Senegal | 1,292 |
+| 15 | [soszaboss](https://github.com/soszaboss) | Moustoifa Ben Kamal Moussa | Dakar, Senegal | 1,229 |
+| 16 | [SeydinaBANE](https://github.com/SeydinaBANE) | Seydina Mouhamet BANE | Dakar,Senegal | 1,159 |
+| 17 | [supermalang](https://github.com/supermalang) | Elhadji Malang | Dakar | 1,143 |
+| 18 | [sokhnaFaaty](https://github.com/sokhnaFaaty) | nexuusDev | Senegal | 1,066 |
+| 19 | [RBen19](https://github.com/RBen19) | Rosinard Beni | Dakar, Senegal | 1,054 |
+| 20 | [lucien-loua](https://github.com/lucien-loua) | lU | Dakar, Senegal | 1,012 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,355
 | 19 | [ngorseck](https://github.com/ngorseck) | Ngor SECK | Dakar - Sénégal | 142 |
 | 20 | [patheGobel](https://github.com/patheGobel) | Pathé BA | Senegal  | 141 |
 
-Generated: 2026-10-19T00:52:13.607Z
+Generated: 2026-10-19T02:00:23.785Z

@@ -1,6 +1,6 @@
 # Followers - Nicaragua
 
-Generated: 2026-10-19T00:42:40.402Z
+Generated: 2026-10-19T01:50:50.365Z
 
 Users: 1395
 
@@ -13,9 +13,9 @@ Users: 1395
 | 5 | [fitoria](https://github.com/fitoria) | Adolfo Fitoria |  |  | Mangua, Nicaragua | 147 |
 | 6 | [Elmnik](https://github.com/Elmnik) | Elmer Aguilar | BDG S.A |  | Nicaragua | 144 |
 | 7 | [Victor-0rtiz](https://github.com/Victor-0rtiz) | Victor Oss |  |  | Nicaragua | 143 |
-| 8 | [narencastellon](https://github.com/narencastellon) | Naren Castellon | @Nixtla |  | Nicaragua | 121 |
-| 9 | [hosmelq](https://github.com/hosmelq) | Hosmel Quintana |  | hosmelq | Managua, Nic | 114 |
-| 10 | [linuxmel27](https://github.com/linuxmel27) | Melvin Pineda |  |  | Leon, Nicaragua | 114 |
+| 8 | [linuxmel27](https://github.com/linuxmel27) | Melvin Pineda |  |  | Leon, Nicaragua | 122 |
+| 9 | [narencastellon](https://github.com/narencastellon) | Naren Castellon | @Nixtla |  | Nicaragua | 121 |
+| 10 | [hosmelq](https://github.com/hosmelq) | Hosmel Quintana |  | hosmelq | Managua, Nic | 114 |
 | 11 | [Ualb](https://github.com/Ualb) | Ulises López |  | starts_off | Managua. Nic | 99 |
 | 12 | [soyjimmysaenz](https://github.com/soyjimmysaenz) | Jimmy Sáenz Rizo | Sosafe | soyjimmysaenz | Managua, Nicaragua | 92 |
 | 13 | [14BryanEspinoza](https://github.com/14BryanEspinoza) | Bryan Espinoza |  | 14BryanEspinoza | Nicaragua | 87 |

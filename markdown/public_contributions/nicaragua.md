@@ -1,6 +1,6 @@
 # Public Contributions - Nicaragua
 
-Generated: 2026-10-19T00:42:40.402Z
+Generated: 2026-10-19T01:50:50.365Z
 
 Users: 1395
 
@@ -16,10 +16,10 @@ Users: 1395
 | 8 | [carlosrenatohr](https://github.com/carlosrenatohr) | Carlos Hernandez |  |  | Managua, Nicaragua | 1249 |
 | 9 | [ErvingMiranda](https://github.com/ErvingMiranda) | Ezone |  |  | Nicaragua | 1234 |
 | 10 | [MaycollJaramillo01](https://github.com/MaycollJaramillo01) | Maycoll Jaramillo | Mao Agency |  | Nicaragua | 1173 |
-| 11 | [jp-zuniga](https://github.com/jp-zuniga) | Joaquín Zúñiga | Universidad Americana |  | Managua, Nicaragua | 1172 |
-| 12 | [victorstein](https://github.com/victorstein) | Alfonso Emilio Gomez Selva | CleverTech |  | Nicaragua | 1127 |
-| 13 | [fn-cafeina](https://github.com/fn-cafeina) | Jasmir Medina |  |  | Nicaragua | 1081 |
-| 14 | [staFF6773](https://github.com/staFF6773) | Not_staff |  |  | República de Nicaragua | 1070 |
+| 11 | [victorstein](https://github.com/victorstein) | Alfonso Emilio Gomez Selva | CleverTech |  | Nicaragua | 1127 |
+| 12 | [fn-cafeina](https://github.com/fn-cafeina) | Jasmir Medina |  |  | Nicaragua | 1081 |
+| 13 | [staFF6773](https://github.com/staFF6773) | Not_staff |  |  | República de Nicaragua | 1070 |
+| 14 | [jp-zuniga](https://github.com/jp-zuniga) | Joaquín Zúñiga | Universidad Americana |  | Managua, Nicaragua | 1065 |
 | 15 | [ernestoruiz89](https://github.com/ernestoruiz89) | Ernesto Ruiz |  | ernestoruiz89 | Nicaragua | 1016 |
 | 16 | [TheSteelNinjaCode](https://github.com/TheSteelNinjaCode) | Jefferson Abraham Omier | The Steel Ninja Code |  | Nicaragua | 955 |
 | 17 | [Gaboxqc](https://github.com/Gaboxqc) | Gabriel Mayorga | MortaCorp |  | Managua | 917 |

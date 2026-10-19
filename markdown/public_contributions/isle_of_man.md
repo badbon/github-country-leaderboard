@@ -1,6 +1,6 @@
 # Public Contributions - Isle of Man
 
-Generated: 2026-10-19T00:27:03.484Z
+Generated: 2026-10-19T01:36:27.339Z
 
 Users: 155
 
@@ -12,7 +12,7 @@ Users: 155
 | 4 | [craigiswayne](https://github.com/craigiswayne) | Craig Wayne | @uroc-studios | craigiswayne | Isle of Man | 706 |
 | 5 | [torquuato](https://github.com/torquuato) |  |  |  | Isle of Man | 557 |
 | 6 | [jonnyirwin](https://github.com/jonnyirwin) | Jonny Irwin |  |  | Isle of Man | 433 |
-| 7 | [dominichubble](https://github.com/dominichubble) | Dominic Hubble | MezzeData |  | Isle of Man | 360 |
+| 7 | [dominichubble](https://github.com/dominichubble) | Dominic Hubble | MezzeData |  | Isle of Man | 359 |
 | 8 | [jamesharrison2005](https://github.com/jamesharrison2005) | James Harrison |  |  | Isle of Man | 320 |
 | 9 | [dive](https://github.com/dive) | Artem Loenko |  | justsitandgrin | Isle of Man | 306 |
 | 10 | [mattwilson02](https://github.com/mattwilson02) | Matt Wilson |  |  | Isle of Man | 261 |

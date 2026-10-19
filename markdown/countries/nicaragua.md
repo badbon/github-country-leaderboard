@@ -47,10 +47,10 @@ Indexed users: 1,395
 | 8 | [carlosrenatohr](https://github.com/carlosrenatohr) | Carlos Hernandez | Managua, Nicaragua | 1,249 |
 | 9 | [ErvingMiranda](https://github.com/ErvingMiranda) | Ezone | Nicaragua | 1,234 |
 | 10 | [MaycollJaramillo01](https://github.com/MaycollJaramillo01) | Maycoll Jaramillo | Nicaragua | 1,173 |
-| 11 | [jp-zuniga](https://github.com/jp-zuniga) | Joaquín Zúñiga | Managua, Nicaragua | 1,172 |
-| 12 | [victorstein](https://github.com/victorstein) | Alfonso Emilio Gomez Selva | Nicaragua | 1,127 |
-| 13 | [fn-cafeina](https://github.com/fn-cafeina) | Jasmir Medina | Nicaragua | 1,081 |
-| 14 | [staFF6773](https://github.com/staFF6773) | Not_staff | República de Nicaragua | 1,070 |
+| 11 | [victorstein](https://github.com/victorstein) | Alfonso Emilio Gomez Selva | Nicaragua | 1,127 |
+| 12 | [fn-cafeina](https://github.com/fn-cafeina) | Jasmir Medina | Nicaragua | 1,081 |
+| 13 | [staFF6773](https://github.com/staFF6773) | Not_staff | República de Nicaragua | 1,070 |
+| 14 | [jp-zuniga](https://github.com/jp-zuniga) | Joaquín Zúñiga | Managua, Nicaragua | 1,065 |
 | 15 | [ernestoruiz89](https://github.com/ernestoruiz89) | Ernesto Ruiz | Nicaragua | 1,016 |
 | 16 | [TheSteelNinjaCode](https://github.com/TheSteelNinjaCode) | Jefferson Abraham Omier | Nicaragua | 955 |
 | 17 | [Gaboxqc](https://github.com/Gaboxqc) | Gabriel Mayorga | Managua | 917 |
@@ -69,9 +69,9 @@ Indexed users: 1,395
 | 5 | [fitoria](https://github.com/fitoria) | Adolfo Fitoria | Mangua, Nicaragua | 147 |
 | 6 | [Elmnik](https://github.com/Elmnik) | Elmer Aguilar | Nicaragua | 144 |
 | 7 | [Victor-0rtiz](https://github.com/Victor-0rtiz) | Victor Oss | Nicaragua | 143 |
-| 8 | [narencastellon](https://github.com/narencastellon) | Naren Castellon | Nicaragua | 121 |
-| 9 | [hosmelq](https://github.com/hosmelq) | Hosmel Quintana | Managua, Nic | 114 |
-| 10 | [linuxmel27](https://github.com/linuxmel27) | Melvin Pineda | Leon, Nicaragua | 114 |
+| 8 | [linuxmel27](https://github.com/linuxmel27) | Melvin Pineda | Leon, Nicaragua | 122 |
+| 9 | [narencastellon](https://github.com/narencastellon) | Naren Castellon | Nicaragua | 121 |
+| 10 | [hosmelq](https://github.com/hosmelq) | Hosmel Quintana | Managua, Nic | 114 |
 | 11 | [Ualb](https://github.com/Ualb) | Ulises López | Managua. Nic | 99 |
 | 12 | [soyjimmysaenz](https://github.com/soyjimmysaenz) | Jimmy Sáenz Rizo | Managua, Nicaragua | 92 |
 | 13 | [14BryanEspinoza](https://github.com/14BryanEspinoza) | Bryan Espinoza | Nicaragua | 87 |
@@ -83,4 +83,4 @@ Indexed users: 1,395
 | 19 | [luismejiadev](https://github.com/luismejiadev) | Luis Mejia | Managua, Nicaragua | 68 |
 | 20 | [dannygaray60](https://github.com/dannygaray60) | Danny Garay | Nicaragua | 61 |
 
-Generated: 2026-10-19T00:42:40.402Z
+Generated: 2026-10-19T01:50:50.365Z

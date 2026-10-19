@@ -49,7 +49,7 @@ Indexed users: 715
 | 10 | [eznix86](https://github.com/eznix86) | Bruno Bernard | Mauritius | 1,280 |
 | 11 | [Andriamahay11master](https://github.com/Andriamahay11master) | Andriamahay Henikaja IRIMANANA | Trianon, Mauritius | 1,010 |
 | 12 | [jochenkirstaetter](https://github.com/jochenkirstaetter) | Jochen Kirstätter | Mauritius | 982 |
-| 13 | [BarbUk](https://github.com/BarbUk) | Julien Virey | Mauritius | 869 |
+| 13 | [BarbUk](https://github.com/BarbUk) | Julien Virey | Mauritius | 871 |
 | 14 | [rragoomundun](https://github.com/rragoomundun) | Raphael Ragoomundun | Mauritius | 687 |
 | 15 | [cbillowes](https://github.com/cbillowes) | Clarice Bouwer | Mauritius | 632 |
 | 16 | [w1am](https://github.com/w1am) | William Chong | Mauritius | 623 |
@@ -83,4 +83,4 @@ Indexed users: 715
 | 19 | [MaskyS](https://github.com/MaskyS) | Kifah M | Mauritius | 75 |
 | 20 | [cbillowes](https://github.com/cbillowes) | Clarice Bouwer | Mauritius | 65 |
 
-Generated: 2026-10-19T00:38:37.468Z
+Generated: 2026-10-19T01:45:26.004Z

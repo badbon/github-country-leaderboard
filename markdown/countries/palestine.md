@@ -20,9 +20,9 @@ Indexed users: 2,197
 | 6 | [AbdulsalamMansour](https://github.com/AbdulsalamMansour) | Abdulsalam Mansour | Palestine | 12,329 |
 | 7 | [FALKONPS](https://github.com/FALKONPS) | FALKON.PS | Palestine | 11,777 |
 | 8 | [RandaZraik](https://github.com/RandaZraik) | Randa | Nablus, Palestine | 8,206 |
-| 9 | [Walaa-Volidis](https://github.com/Walaa-Volidis) |  | Palestine | 7,546 |
-| 10 | [izadoesdev](https://github.com/izadoesdev) | iza | Palestine | 7,373 |
-| 11 | [1210395](https://github.com/1210395) | Jadallah  | Ramallah | 6,823 |
+| 9 | [1210395](https://github.com/1210395) | Jadallah  | Ramallah | 7,671 |
+| 10 | [Walaa-Volidis](https://github.com/Walaa-Volidis) |  | Palestine | 7,546 |
+| 11 | [izadoesdev](https://github.com/izadoesdev) | iza | Palestine | 7,373 |
 | 12 | [salahy](https://github.com/salahy) | Salah Yahya | Palestine | 6,501 |
 | 13 | [skmail](https://github.com/skmail) |  | Palestine | 6,410 |
 | 14 | [abusalameh](https://github.com/abusalameh) | Raja Abu Salameh | Jenin, Palestine | 6,010 |
@@ -83,4 +83,4 @@ Indexed users: 2,197
 | 19 | [dalia2323](https://github.com/dalia2323) |  | Qalqilya, Palestine | 127 |
 | 20 | [mhmdio](https://github.com/mhmdio) | Mohammed Almusaddar | Gaza, Palestine | 125 |
 
-Generated: 2026-10-19T00:44:56.705Z
+Generated: 2026-10-19T01:54:31.287Z

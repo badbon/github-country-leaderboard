@@ -25,7 +25,7 @@ Indexed users: 113
 | 11 | [masteradhoc](https://github.com/masteradhoc) | Brian | Liechtenstein | 752 |
 | 12 | [d0dge-dev](https://github.com/d0dge-dev) | David | Liechtenstein | 471 |
 | 13 | [archham](https://github.com/archham) | Nicolas Eberle | Liechtenstein | 462 |
-| 14 | [FeeJai](https://github.com/FeeJai) | Felix Jankowski | Liechtenstein | 373 |
+| 14 | [FeeJai](https://github.com/FeeJai) | Felix Jankowski | Liechtenstein | 406 |
 | 15 | [wol-fi](https://github.com/wol-fi) | Wolfgang Schadner | Liechtenstein | 332 |
 | 16 | [xGreeny](https://github.com/xGreeny) | Flurin | Liechtenstein | 329 |
 | 17 | [anonymouslyanonymous1](https://github.com/anonymouslyanonymous1) | Anonymously Anonymous | Liechtenstein | 309 |
@@ -83,4 +83,4 @@ Indexed users: 113
 | 19 | [PhilippHGerber](https://github.com/PhilippHGerber) | Philipp H. Gerber | Liechtenstein | 14 |
 | 20 | [niklasfrick](https://github.com/niklasfrick) | Niklas Frick | Liechtenstein | 12 |
 
-Generated: 2026-10-19T00:34:03.348Z
+Generated: 2026-10-19T01:42:42.844Z
