@@ -34411,7 +34411,7 @@
     "company": "andela",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 21,
+    "privateContributions": 45,
     "publicContributions": 15,
     "createdAt": "2018-05-25T13:51:11Z"
   },
@@ -34424,7 +34424,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 0,
     "createdAt": "2018-08-24T16:29:30Z"
   },
   {
@@ -34470,22 +34470,10 @@
     "location": "Kampala",
     "company": "Feynman Technologies",
     "twitterUsername": "RichardMiyingo",
-    "followers": 1,
-    "privateContributions": 328,
+    "followers": 2,
+    "privateContributions": 623,
     "publicContributions": 0,
     "createdAt": "2018-12-26T00:02:31Z"
-  },
-  {
-    "login": "joelmaya",
-    "name": "ACAYE JOEL",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/44672513?s=72&u=d3d0313e855c1957dc3775de8c9872c9e6974dca&v=4",
-    "location": "Kampala",
-    "company": "@mayatech",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2018-11-01T12:50:18Z"
   },
   {
     "login": "nabsty55",
@@ -34580,7 +34568,7 @@
     "twitterUsername": "cream_rich",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 152,
+    "publicContributions": 117,
     "createdAt": "2018-04-22T07:52:45Z"
   },
   {

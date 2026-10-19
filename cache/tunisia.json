@@ -34100,7 +34100,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 0,
     "createdAt": "2022-10-26T17:51:58Z"
   },
   {
@@ -34110,9 +34110,9 @@
     "location": "Tunis",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 62,
     "createdAt": "2022-12-06T20:00:57Z"
   },
   {
@@ -34135,8 +34135,8 @@
     "company": "ESPRIT : Ecole Sup Privée d'Ingénierie et de Technologies",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 27,
-    "publicContributions": 137,
+    "privateContributions": 28,
+    "publicContributions": 91,
     "createdAt": "2022-06-09T23:26:48Z"
   },
   {
@@ -34183,7 +34183,7 @@
     "company": "École Nationale d'Ingénieurs de Carthage",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
+    "privateContributions": 213,
     "publicContributions": 52,
     "createdAt": "2022-08-11T09:10:48Z"
   },
@@ -34195,7 +34195,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 11,
+    "privateContributions": 2,
     "publicContributions": 1,
     "createdAt": "2022-07-27T09:57:15Z"
   },
@@ -34220,7 +34220,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2022-03-08T14:10:19Z"
   },
   {
@@ -34231,7 +34231,7 @@
     "company": "esprit",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 312,
+    "privateContributions": 383,
     "publicContributions": 0,
     "createdAt": "2022-06-09T12:19:50Z"
   },
@@ -34254,9 +34254,9 @@
     "location": "Ariana, Tunis",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 3,
     "createdAt": "2022-02-10T19:17:12Z"
   },
   {
@@ -34280,7 +34280,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 3,
     "createdAt": "2022-03-04T13:42:20Z"
   },
   {
@@ -34290,9 +34290,9 @@
     "location": "Tunisia",
     "company": "",
     "twitterUsername": "",
-    "followers": 3480,
-    "privateContributions": 1815,
-    "publicContributions": 363,
+    "followers": 3679,
+    "privateContributions": 2723,
+    "publicContributions": 513,
     "createdAt": "2021-09-19T21:04:24Z"
   },
   {
@@ -34302,22 +34302,10 @@
     "location": "Tunis,Tunisia",
     "company": "@ github",
     "twitterUsername": "",
-    "followers": 1242,
-    "privateContributions": 333,
+    "followers": 1219,
+    "privateContributions": 340,
     "publicContributions": 0,
     "createdAt": "2021-11-23T11:43:02Z"
-  },
-  {
-    "login": "jasonxtn",
-    "name": "JASON13",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/77933365?s=72&u=6074575a0ba4b90359ffa8065431a5aea593574b&v=4",
-    "location": "Tunis, Tunisia",
-    "company": "⠨⠵⠨⠁ ⠨⠺⠨⠁⠨⠗⠨⠥⠨⠙⠨⠕",
-    "twitterUsername": "xtnjason",
-    "followers": 566,
-    "privateContributions": 0,
-    "publicContributions": 7,
-    "createdAt": "2021-01-24T17:25:17Z"
   },
   {
     "login": "01JAMIL",

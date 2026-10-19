@@ -34555,8 +34555,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 44,
-    "publicContributions": 41,
+    "privateContributions": 20,
+    "publicContributions": 40,
     "createdAt": "2023-05-22T16:55:14Z"
   },
   {
@@ -34615,8 +34615,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 169,
-    "publicContributions": 4,
+    "privateContributions": 69,
+    "publicContributions": 2,
     "createdAt": "2023-06-14T18:09:52Z"
   },
   {
@@ -34640,7 +34640,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 316,
+    "publicContributions": 354,
     "createdAt": "2023-02-01T01:49:40Z"
   },
   {
@@ -34650,7 +34650,7 @@
     "location": "Santiago-Chile",
     "company": "Assertiva S.A.",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2023-01-18T19:31:58Z"
@@ -34676,7 +34676,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 103,
+    "publicContributions": 95,
     "createdAt": "2023-03-27T11:04:27Z"
   },
   {
@@ -34684,7 +34684,7 @@
     "name": "PaulVic",
     "avatarUrl": "https://avatars.githubusercontent.com/u/128636711?s=72&u=6a8b9949b2521def161d2f197f91a9f5a2c3e03b&v=4",
     "location": "Temuco, Chile.",
-    "company": "",
+    "company": "Accenture",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
@@ -34700,20 +34700,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 0,
     "createdAt": "2023-03-15T20:57:58Z"
-  },
-  {
-    "login": "LordAlfe",
-    "name": "Lord_Kamysama",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/129318584?s=72&u=fabdfffb0cd995a09a0724b806f37099ba17105e&v=4",
-    "location": "Chile",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 193,
-    "publicContributions": 1,
-    "createdAt": "2023-03-29T17:12:36Z"
   },
   {
     "login": "eduardoconcha",
@@ -34734,7 +34722,7 @@
     "location": "Chile",
     "company": "@duocuc",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-05-04T21:29:00Z"
@@ -34766,13 +34754,13 @@
   {
     "login": "Wasoner",
     "name": "Cristobal Rivas Paul",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/128078866?s=72&u=db34fb45cd81680ab39354be5b6ef5ec7a241d70&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/128078866?s=72&u=8f0cee89072c305e647521302bcb07cfa02593a2&v=4",
     "location": "Chile",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 113,
     "createdAt": "2023-03-16T17:28:26Z"
   },
   {
