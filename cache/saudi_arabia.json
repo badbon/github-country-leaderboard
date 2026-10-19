@@ -33907,8 +33907,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 3073,
-    "publicContributions": 1,
+    "privateContributions": 7253,
+    "publicContributions": 0,
     "createdAt": "2021-01-26T13:29:14Z"
   },
   {
@@ -33942,9 +33942,9 @@
     "location": "Jeddah, Saudi Arabia",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 18,
     "createdAt": "2021-12-15T15:29:24Z"
   },
   {
@@ -33956,7 +33956,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 146,
+    "publicContributions": 148,
     "createdAt": "2021-12-19T20:17:01Z"
   },
   {
@@ -33968,7 +33968,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 0,
     "createdAt": "2021-01-10T05:43:32Z"
   },
   {
@@ -33978,7 +33978,7 @@
     "location": "Saudi Arabia",
     "company": "University of Jeddah",
     "twitterUsername": "i3amberi",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-05-20T05:10:16Z"
@@ -33990,9 +33990,9 @@
     "location": "Saudi Arabia",
     "company": "BIM_OS",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 5,
     "createdAt": "2021-11-16T13:28:04Z"
   },
   {
@@ -34002,7 +34002,7 @@
     "location": "Saudi Arabia",
     "company": "KGVO Consulting",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2021-08-07T19:26:54Z"
@@ -34039,7 +34039,7 @@
     "company": "Obeikan Digital Solution",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 109,
+    "privateContributions": 76,
     "publicContributions": 0,
     "createdAt": "2021-09-29T17:56:00Z"
   },
@@ -34050,7 +34050,7 @@
     "location": "Saudi Arabia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-09-14T11:04:40Z"
@@ -34066,18 +34066,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-09-17T08:33:05Z"
-  },
-  {
-    "login": "raghadware",
-    "name": "Raghad Salem",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/95557612?s=72&v=4",
-    "location": "Saudi Arabia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2021-12-05T04:25:09Z"
   },
   {
     "login": "Mdabukala",
@@ -34098,22 +34086,10 @@
     "location": "Saudi Arabia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-08-25T13:39:10Z"
-  },
-  {
-    "login": "A-alharbi9",
-    "name": "A21alharbi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/82731458?s=72&u=00602416da6f9f75495e8b4698c0f35dc058a7eb&v=4",
-    "location": "Saudi Arabia",
-    "company": "hire me?",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2021-04-17T20:32:19Z"
   },
   {
     "login": "Hepa0",

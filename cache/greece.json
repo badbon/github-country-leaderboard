@@ -33848,7 +33848,7 @@
     "twitterUsername": "",
     "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 47,
+    "publicContributions": 29,
     "createdAt": "2022-01-23T19:59:27Z"
   },
   {
@@ -33860,7 +33860,7 @@
     "twitterUsername": "",
     "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2022-05-18T20:50:09Z"
   },
   {
@@ -33868,11 +33868,11 @@
     "name": "Theodoris Mallios",
     "avatarUrl": "https://avatars.githubusercontent.com/u/100803271?s=72&u=21725da56c324ab36b2d9c952510c00e581ec0c0&v=4",
     "location": "Athens",
-    "company": "Computer Science at University of Athens",
+    "company": "",
     "twitterUsername": "",
     "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 54,
     "createdAt": "2022-03-02T20:34:01Z"
   },
   {
@@ -33882,7 +33882,7 @@
     "location": "Athens",
     "company": "",
     "twitterUsername": "",
-    "followers": 13,
+    "followers": 14,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-02-28T10:04:15Z"
@@ -33918,8 +33918,8 @@
     "location": "Athens, GA",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 41,
+    "followers": 14,
+    "privateContributions": 9,
     "publicContributions": 0,
     "createdAt": "2022-09-28T16:56:18Z"
   },
@@ -33944,7 +33944,7 @@
     "twitterUsername": "",
     "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 1,
     "createdAt": "2022-03-16T19:40:43Z"
   },
   {
@@ -33954,9 +33954,9 @@
     "location": "Athens",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 31,
     "createdAt": "2022-07-12T15:38:58Z"
   },
   {
@@ -33966,7 +33966,7 @@
     "location": "Athens",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 9,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-12-08T16:32:28Z"
@@ -33978,7 +33978,7 @@
     "location": "Athens",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 9,
     "privateContributions": 0,
     "publicContributions": 11,
     "createdAt": "2022-06-01T17:33:23Z"
@@ -33990,9 +33990,9 @@
     "location": "Athens",
     "company": "National Technical University of Athens",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 73,
-    "publicContributions": 70,
+    "followers": 12,
+    "privateContributions": 85,
+    "publicContributions": 66,
     "createdAt": "2022-07-15T12:52:06Z"
   },
   {
@@ -34004,7 +34004,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 45,
+    "publicContributions": 41,
     "createdAt": "2022-02-12T13:36:17Z"
   },
   {
@@ -34014,7 +34014,7 @@
     "location": "Athens",
     "company": "National and Kapodistrian University of Athens",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 43,
     "createdAt": "2022-09-10T12:36:27Z"
@@ -34026,7 +34026,7 @@
     "location": "Athens",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 11,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-02-27T15:12:43Z"
@@ -34038,9 +34038,9 @@
     "location": "Athens, Texas",
     "company": "Fors Marsh",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 38,
+    "publicContributions": 37,
     "createdAt": "2022-07-18T21:16:29Z"
   },
   {
@@ -34050,22 +34050,10 @@
     "location": "ATHENS/PATRAS",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 118,
+    "publicContributions": 119,
     "createdAt": "2022-05-11T09:38:04Z"
-  },
-  {
-    "login": "jcchatzis",
-    "name": "John Chatzis",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/106564144?s=72&u=300f41b0116c34e4314982a5dec5076ac4710e66&v=4",
-    "location": "Athens",
-    "company": "AILS, ECE, NTUA",
-    "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 7,
-    "publicContributions": 4,
-    "createdAt": "2022-05-30T23:51:06Z"
   },
   {
     "login": "valentini-f",

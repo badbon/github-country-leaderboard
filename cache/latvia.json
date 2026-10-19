@@ -33786,9 +33786,9 @@
     "location": "Latvia",
     "company": "@Latvian-List ",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 1,
     "createdAt": "2012-04-17T12:25:47Z"
   },
   {
@@ -33822,7 +33822,7 @@
     "location": "Riga, Latvia",
     "company": "SlimSnap",
     "twitterUsername": "bickov",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 23,
     "createdAt": "2012-10-04T08:59:25Z"
@@ -33836,7 +33836,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 0,
     "createdAt": "2012-03-02T19:00:05Z"
   },
   {
@@ -33860,7 +33860,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2012-04-12T20:55:05Z"
   },
   {
@@ -33872,20 +33872,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 0,
     "createdAt": "2012-09-24T07:54:12Z"
-  },
-  {
-    "login": "crazyexpert",
-    "name": "Mikus Vanags",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/1577754?s=72&v=4",
-    "location": "Riga, Latvia, Europe",
-    "company": "Logics Research Centre",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 417,
-    "createdAt": "2012-03-26T21:01:03Z"
   },
   {
     "login": "denirun",
@@ -33943,7 +33931,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 560,
+    "privateContributions": 1863,
     "publicContributions": 0,
     "createdAt": "2012-11-20T07:35:45Z"
   },
@@ -33955,8 +33943,8 @@
     "company": "@vas-lvrtc",
     "twitterUsername": "",
     "followers": 94,
-    "privateContributions": 480,
-    "publicContributions": 1175,
+    "privateContributions": 4781,
+    "publicContributions": 1335,
     "createdAt": "2012-05-21T12:55:48Z"
   },
   {
@@ -33967,8 +33955,8 @@
     "company": "Extreme Automation",
     "twitterUsername": "codingandrey",
     "followers": 80,
-    "privateContributions": 426,
-    "publicContributions": 174,
+    "privateContributions": 702,
+    "publicContributions": 172,
     "createdAt": "2012-11-13T14:57:56Z"
   },
   {
@@ -33979,8 +33967,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 42,
-    "privateContributions": 269,
-    "publicContributions": 24,
+    "privateContributions": 17,
+    "publicContributions": 15,
     "createdAt": "2012-09-17T21:56:57Z"
   },
   {
@@ -33990,7 +33978,7 @@
     "location": "Riga",
     "company": "01.tech",
     "twitterUsername": "m0nstermind",
-    "followers": 36,
+    "followers": 37,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2012-05-17T14:10:43Z"
@@ -34002,8 +33990,8 @@
     "location": "Riga",
     "company": "AthleticNext",
     "twitterUsername": "andrejsabrickis",
-    "followers": 35,
-    "privateContributions": 68,
+    "followers": 36,
+    "privateContributions": 61,
     "publicContributions": 0,
     "createdAt": "2012-12-06T07:15:49Z"
   },
@@ -34015,8 +34003,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 30,
-    "privateContributions": 367,
-    "publicContributions": 17,
+    "privateContributions": 373,
+    "publicContributions": 6,
     "createdAt": "2012-11-02T16:56:31Z"
   },
   {

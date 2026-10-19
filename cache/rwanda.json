@@ -34027,8 +34027,8 @@
     "company": "",
     "twitterUsername": "iBiziCode",
     "followers": 1,
-    "privateContributions": 76,
-    "publicContributions": 43,
+    "privateContributions": 75,
+    "publicContributions": 10,
     "createdAt": "2019-07-05T15:05:15Z"
   },
   {
@@ -34051,8 +34051,8 @@
     "company": "https://github.com/AmaliTech-Training-Academy",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 3,
-    "publicContributions": 695,
+    "privateContributions": 7,
+    "publicContributions": 35,
     "createdAt": "2019-07-03T12:42:04Z"
   },
   {
@@ -34076,7 +34076,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2019-02-21T11:48:25Z"
   },
   {
@@ -34116,18 +34116,6 @@
     "createdAt": "2019-04-13T17:45:44Z"
   },
   {
-    "login": "BillMuco",
-    "name": "Bill Godris Muco",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/52700254?s=72&u=ae4280312d438233b5c5589a24d4a157575d45d6&v=4",
-    "location": "Kigali, Rwanda",
-    "company": "Godrisoft ",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2019-07-09T10:02:34Z"
-  },
-  {
     "login": "L-DIBA",
     "name": "Love Byiringiro",
     "avatarUrl": "https://avatars.githubusercontent.com/u/51797677?s=72&u=08c4fba98b8b63bf7e5a7123cd60701ee9bb6a35&v=4",
@@ -34160,7 +34148,7 @@
     "twitterUsername": "JoramFra",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 0,
     "createdAt": "2019-11-23T16:41:30Z"
   },
   {
@@ -34172,7 +34160,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 35,
+    "publicContributions": 34,
     "createdAt": "2019-08-02T16:57:14Z"
   },
   {
@@ -34184,7 +34172,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1222,
+    "publicContributions": 1154,
     "createdAt": "2019-09-01T05:57:42Z"
   },
   {
@@ -34196,7 +34184,7 @@
     "twitterUsername": "julien_ishimwe",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 572,
+    "publicContributions": 483,
     "createdAt": "2019-10-09T13:39:19Z"
   },
   {
@@ -34232,7 +34220,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 3,
     "createdAt": "2019-07-09T09:03:30Z"
   },
   {
@@ -34243,7 +34231,7 @@
     "company": "ByteWise",
     "twitterUsername": "IgihozoDidier",
     "followers": 1,
-    "privateContributions": 317,
+    "privateContributions": 305,
     "publicContributions": 0,
     "createdAt": "2019-03-05T09:53:17Z"
   },

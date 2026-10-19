@@ -33692,7 +33692,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 450,
+    "publicContributions": 388,
     "createdAt": "2020-04-21T09:24:29Z"
   },
   {
@@ -33716,7 +33716,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2020-06-06T14:07:57Z"
   },
   {
@@ -33751,7 +33751,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 772,
+    "privateContributions": 1625,
     "publicContributions": 2,
     "createdAt": "2020-11-23T17:27:26Z"
   },
@@ -33852,25 +33852,13 @@
     "createdAt": "2020-03-08T04:58:44Z"
   },
   {
-    "login": "xzx-xzxx",
-    "name": "Zakhar",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/66885562?s=72&u=23c411822f5981c71d0b23407f6b9b329d74fe9d&v=4",
-    "location": "Kazakhstan",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 404,
-    "publicContributions": 32,
-    "createdAt": "2020-06-13T19:47:39Z"
-  },
-  {
     "login": "toleubekov",
     "name": "Zhandos",
     "avatarUrl": "https://avatars.githubusercontent.com/u/63546315?s=72&u=fbb487ebe344cd5f8e4e531c305ccee6158faa9b&v=4",
     "location": "Almaty, Kazakhstan",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 12,
     "publicContributions": 0,
     "createdAt": "2020-04-12T13:11:09Z"

@@ -34088,7 +34088,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 8,
     "createdAt": "2020-10-21T20:21:47Z"
   },
   {
@@ -34124,7 +34124,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 168,
+    "publicContributions": 166,
     "createdAt": "2020-09-25T19:34:28Z"
   },
   {
@@ -34147,21 +34147,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 21,
-    "publicContributions": 27,
+    "privateContributions": 88,
+    "publicContributions": 29,
     "createdAt": "2020-09-13T21:29:08Z"
-  },
-  {
-    "login": "kafesprout",
-    "name": "Nicholas Ng",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/60332249?s=72&v=4",
-    "location": "Auckland, New Zealand",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 2,
-    "publicContributions": 0,
-    "createdAt": "2020-01-27T01:40:45Z"
   },
   {
     "login": "H-qitai",
@@ -34172,7 +34160,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 0,
     "createdAt": "2020-01-02T08:34:10Z"
   },
   {
@@ -34195,7 +34183,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 74,
+    "privateContributions": 90,
     "publicContributions": 0,
     "createdAt": "2020-02-06T02:57:28Z"
   },
@@ -34231,8 +34219,8 @@
     "company": "Energyline Ltd",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1237,
-    "publicContributions": 0,
+    "privateContributions": 1628,
+    "publicContributions": 1,
     "createdAt": "2020-09-23T00:06:38Z"
   },
   {
@@ -34244,7 +34232,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 40,
+    "publicContributions": 38,
     "createdAt": "2020-04-15T23:29:28Z"
   },
   {
@@ -34268,7 +34256,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2020-06-11T10:54:29Z"
   },
   {
