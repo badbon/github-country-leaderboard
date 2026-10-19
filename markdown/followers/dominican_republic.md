@@ -1,6 +1,6 @@
 # Followers - Dominican Republic
 
-Generated: 2026-10-19T02:32:33.516Z
+Generated: 2026-10-19T03:39:23.570Z
 
 Users: 3299
 
@@ -13,8 +13,8 @@ Users: 3299
 | 5 | [rmariuzzo](https://github.com/rmariuzzo) | Rubens Mariuzzo | @x-team  |  | Dominican Republic | 425 |
 | 6 | [juliourena](https://github.com/juliourena) | Julio Ureña |  | JulioUrena | Dominican Republic | 313 |
 | 7 | [Topdev1234](https://github.com/Topdev1234) | Topdev | Dev Protocol |  | Dominican Republic | 309 |
-| 8 | [Char0394](https://github.com/Char0394) | Charlin Agramonte | @CrossGeeks  | Chard003 | Dominican Republic  | 276 |
-| 9 | [DannyFeliz](https://github.com/DannyFeliz) | Danny Feliz |  | dannyfeliz08 | Santo Domingo, Dominican Republic | 254 |
+| 8 | [Char0394](https://github.com/Char0394) | Charlin Agramonte | @CrossGeeks  | Chard003 | Dominican Republic  | 275 |
+| 9 | [DannyFeliz](https://github.com/DannyFeliz) | Danny Feliz |  | dannyfeliz08 | Santo Domingo, Dominican Republic | 263 |
 | 10 | [KevRojo](https://github.com/KevRojo) | Kevin Rojo | Dulus AI | kevrojox | Dominican Republic | 227 |
 | 11 | [rdelrosario](https://github.com/rdelrosario) | Rendy Del Rosario | CrossGeeks |  | Dominican Republic | 225 |
 | 12 | [Jadhielv](https://github.com/Jadhielv) | Jadhiel Vélez |  | JadhielV | Dominican Republic | 218 |
@@ -25,4 +25,4 @@ Users: 3299
 | 17 | [oldani](https://github.com/oldani) | Ordanis Sanchez |  |  | Dominican Republic | 154 |
 | 18 | [francisbrito](https://github.com/francisbrito) | Francis Brito | @paymentstack |  | Santo Domingo, Dominican Republic | 153 |
 | 19 | [eatskolnikov](https://github.com/eatskolnikov) | Enmanuel Toribio | @streamelopers | eatskolnikov | Dominican Republic | 149 |
-| 20 | [adonismendozaperez](https://github.com/adonismendozaperez) | Adonis Mendoza  |  | adonismdza | Dominican Republic | 117 |
+| 20 | [RaymondCoplin](https://github.com/RaymondCoplin) | Raymond Coplin |  | raymondcoplin | Dominican Republic, Santo Domingo | 120 |

@@ -1,6 +1,6 @@
 # Followers - Uruguay
 
-Generated: 2026-10-19T02:14:26.543Z
+Generated: 2026-10-19T03:20:27.599Z
 
 Users: 5612
 

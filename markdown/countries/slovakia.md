@@ -69,7 +69,7 @@ Indexed users: 4,661
 | 5 | [filiphric](https://github.com/filiphric) | Filip Hric | Senec, Slovakia | 711 |
 | 6 | [janbodnar](https://github.com/janbodnar) | Jan Bodnar | Bratislava | 561 |
 | 7 | [misohu](https://github.com/misohu) | Michal Hucko | Bratislava | 520 |
-| 8 | [radovankavicky](https://github.com/radovankavicky) | Radovan Kavicky | Bratislava, Slovakia | 447 |
+| 8 | [radovankavicky](https://github.com/radovankavicky) | Radovan Kavicky | Bratislava, Slovakia | 450 |
 | 9 | [nem0](https://github.com/nem0) | Mikulas Florek | Slovakia, Bratislava | 406 |
 | 10 | [petersirka](https://github.com/petersirka) | Peter Širka | Slovakia | 402 |
 | 11 | [Kixunil](https://github.com/Kixunil) | Martin Habovštiak | Bratislava | 398 |
@@ -83,4 +83,4 @@ Indexed users: 4,661
 | 19 | [Stiivi](https://github.com/Stiivi) | Stefan Urbanek | Bratislava | 280 |
 | 20 | [haad](https://github.com/haad) | Adam Hamsik | Bratislava Slovakia | 259 |
 
-Generated: 2026-10-19T02:05:45.670Z
+Generated: 2026-10-19T03:12:13.629Z

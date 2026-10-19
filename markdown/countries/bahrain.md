@@ -22,8 +22,8 @@ Indexed users: 727
 | 8 | [fairbird](https://github.com/fairbird) | RAED | Bahrain | 5,467 |
 | 9 | [zahidala](https://github.com/zahidala) | Zahid Allaulddin | Bahrain | 5,236 |
 | 10 | [xCuzSkillz](https://github.com/xCuzSkillz) | Ali M. | Bahrain | 4,913 |
-| 11 | [kelvindecosta](https://github.com/kelvindecosta) | Kelvin DeCosta | Bahrain | 4,678 |
-| 12 | [halalgami](https://github.com/halalgami) | Algam | Bahrain | 4,628 |
+| 11 | [halalgami](https://github.com/halalgami) | Algam | Bahrain | 4,885 |
+| 12 | [kelvindecosta](https://github.com/kelvindecosta) | Kelvin DeCosta | Bahrain | 4,678 |
 | 13 | [iMythms](https://github.com/iMythms) | Mytham Jasim | Bahrain | 4,455 |
 | 14 | [UnbreakableMJ](https://github.com/UnbreakableMJ) | Mohamed Hammad | Bahrain | 4,232 |
 | 15 | [Ali-Hassan-2000](https://github.com/Ali-Hassan-2000) | ALI SALMAN | Bahrain | 3,911 |
@@ -43,7 +43,7 @@ Indexed users: 727
 | 4 | [UnbreakableMJ](https://github.com/UnbreakableMJ) | Mohamed Hammad | Bahrain | 2,730 |
 | 5 | [fatema-maitham](https://github.com/fatema-maitham) | Fatema Maitham | Bahrain | 2,695 |
 | 6 | [ov-tron](https://github.com/ov-tron) | ov - Tron | Amwaj, Bahrain | 2,107 |
-| 7 | [masterde](https://github.com/masterde) | Baker | Bahrain, Muharraq | 1,489 |
+| 7 | [masterde](https://github.com/masterde) | Baker | Bahrain, Muharraq | 1,537 |
 | 8 | [aldoyh](https://github.com/aldoyh) | Hasan AlDoy | Al Muharraq, Bahrain | 1,265 |
 | 9 | [sfoulad](https://github.com/sfoulad) | Sameh Foulad | Bahrain | 893 |
 | 10 | [read2see](https://github.com/read2see) | Husain Habib | Bahrain | 888 |
@@ -81,6 +81,6 @@ Indexed users: 727
 | 17 | [veno](https://github.com/veno) | Venomous Committer | Bahrain | 45 |
 | 18 | [akhaled01](https://github.com/akhaled01) | Abdulrahman Idrees | Manama, Bahrain | 43 |
 | 19 | [f-9t9it](https://github.com/f-9t9it) | 9T9 IT | Bahrain | 42 |
-| 20 | [masterde](https://github.com/masterde) | Baker | Bahrain, Muharraq | 40 |
+| 20 | [masterde](https://github.com/masterde) | Baker | Bahrain, Muharraq | 41 |
 
-Generated: 2026-10-19T02:21:23.801Z
+Generated: 2026-10-19T03:28:25.651Z

@@ -1,6 +1,6 @@
 # Followers - Taiwan
 
-Generated: 2026-10-19T02:09:41.434Z
+Generated: 2026-10-19T03:16:11.932Z
 
 Users: 21994
 

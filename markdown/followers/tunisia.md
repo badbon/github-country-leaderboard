@@ -1,17 +1,17 @@
 # Followers - Tunisia
 
-Generated: 2026-10-19T02:11:28.726Z
+Generated: 2026-10-19T03:19:06.980Z
 
-Users: 7166
+Users: 7165
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [chahe-dridi](https://github.com/chahe-dridi) | chaher dridi |  |  | Tunisia | 3480 |
+| 1 | [chahe-dridi](https://github.com/chahe-dridi) | chaher dridi |  |  | Tunisia | 3679 |
 | 2 | [JawherKl](https://github.com/JawherKl) | Jawher Kl | @Github |  | Tunis | 2995 |
 | 3 | [SelimHorri](https://github.com/SelimHorri) | Selim Horri | Oodrive |  | Tunisia | 2296 |
 | 4 | [www-root](https://github.com/www-root) | ⚞ Asyrm ⚟ |  | 0xasyrm | Tunisia | 1764 |
 | 5 | [ahmnouira](https://github.com/ahmnouira) | Ahmed Nouira | Looking for a Job | ahmnouira | Monastir, Tunisia | 1263 |
-| 6 | [nizar787](https://github.com/nizar787) | Nizar Harb | @ github |  | Tunis,Tunisia | 1242 |
+| 6 | [nizar787](https://github.com/nizar787) | Nizar Harb | @ github |  | Tunis,Tunisia | 1219 |
 | 7 | [jawherr](https://github.com/jawherr) | Jawher | Github | kallel_jawher | Tunisia | 1210 |
 | 8 | [Nour-yahyaoui](https://github.com/Nour-yahyaoui) | Nour-Yahyaoui | vex-kernel |  | Tunisia | 1064 |
 | 9 | [MohamedRejeb](https://github.com/MohamedRejeb) | Mohamed Rejeb |  | MohamadRejeb | Tunisia | 897 |
@@ -21,8 +21,8 @@ Users: 7166
 | 13 | [X-SLAYER](https://github.com/X-SLAYER) | Iheb Briki | MineBeat | iiheb_ | Tunisia | 645 |
 | 14 | [mn-youssef](https://github.com/mn-youssef) | mansouri youssef |  |  | tunisia | 613 |
 | 15 | [tekteku](https://github.com/tekteku) | Taher Chabaane | Sesame |  | Tunis | 603 |
-| 16 | [jasonxtn](https://github.com/jasonxtn) | JASON13 | ⠨⠵⠨⠁ ⠨⠺⠨⠁⠨⠗⠨⠥⠨⠙⠨⠕ | xtnjason | Tunis, Tunisia | 566 |
-| 17 | [AzizBenIsmail](https://github.com/AzizBenIsmail) | Mohamed Aziz Ben Ismail | @Dar-Blockchain |  | Tunisia, Djerba | 560 |
-| 18 | [jassercherif](https://github.com/jassercherif) | jasser cherif | ENSI |  | Kelibia, Nabeul, Tunisia | 529 |
-| 19 | [zied-snoussi](https://github.com/zied-snoussi) | Zied Snoussi | Bysur | ziedalsnoussi | Tunisia | 522 |
-| 20 | [machour](https://github.com/machour) | Mehdi Achour |  | mac_hour | Tunisia | 483 |
+| 16 | [AzizBenIsmail](https://github.com/AzizBenIsmail) | Mohamed Aziz Ben Ismail | @Dar-Blockchain |  | Tunisia, Djerba | 560 |
+| 17 | [jassercherif](https://github.com/jassercherif) | jasser cherif | ENSI |  | Kelibia, Nabeul, Tunisia | 529 |
+| 18 | [zied-snoussi](https://github.com/zied-snoussi) | Zied Snoussi | Bysur | ziedalsnoussi | Tunisia | 522 |
+| 19 | [machour](https://github.com/machour) | Mehdi Achour |  | mac_hour | Tunisia | 483 |
+| 20 | [01JAMIL](https://github.com/01JAMIL) | Jamil Ben Brahim |  |  | Tunisia | 477 |

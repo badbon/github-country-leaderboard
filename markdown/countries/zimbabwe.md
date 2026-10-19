@@ -13,11 +13,11 @@ Indexed users: 1,656
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [eisax](https://github.com/eisax) | Josphat Ndhlovu | Zimbabwe | 30,882 |
-| 2 | [Mutombe](https://github.com/Mutombe) | Mutombe | Borrowdale, Harare | 9,569 |
-| 3 | [codewithkin](https://github.com/codewithkin) | Kin Leon Zinzombe | Mutare, Zimbabwe | 9,433 |
-| 4 | [Lewy263](https://github.com/Lewy263) | Tinashe Lewis Karumazondo | Harare | 9,041 |
-| 5 | [farmhutsoftwareteam](https://github.com/farmhutsoftwareteam) | Munyaradzi Makosa | Harare | 8,021 |
-| 6 | [iamngoni](https://github.com/iamngoni) | Ngonidzashe Mangudya | Harare | 7,859 |
+| 2 | [Lewy263](https://github.com/Lewy263) | Tinashe Lewis Karumazondo | Harare | 9,569 |
+| 3 | [Mutombe](https://github.com/Mutombe) | Mutombe | Borrowdale, Harare | 9,569 |
+| 4 | [codewithkin](https://github.com/codewithkin) | Kin Leon Zinzombe | Mutare, Zimbabwe | 9,433 |
+| 5 | [iamngoni](https://github.com/iamngoni) | Ngonidzashe Mangudya | Harare | 8,370 |
+| 6 | [farmhutsoftwareteam](https://github.com/farmhutsoftwareteam) | Munyaradzi Makosa | Harare | 8,021 |
 | 7 | [Patizy-tel](https://github.com/Patizy-tel) | Magnificient Stallion Tello🔥 | Zimbabwe | 7,632 |
 | 8 | [phoscoder](https://github.com/phoscoder) | Victor Phos | Zimbabwe | 7,387 |
 | 9 | [tapiwamakandigona](https://github.com/tapiwamakandigona) | Tapiwa Makandigona | Zimbabwe | 7,324 |
@@ -45,9 +45,9 @@ Indexed users: 1,656
 | 6 | [PraiseTechzw](https://github.com/PraiseTechzw) | Praise Masunga | Chinhoyi, Zimbabwe | 2,924 |
 | 7 | [josemukorivo](https://github.com/josemukorivo) | Joseph Mukorivo | Harare, Zimbabwe | 2,182 |
 | 8 | [VincentMugondora](https://github.com/VincentMugondora) | Vincent Mugondora | Mufakose, Harare, Zimbabwe | 2,118 |
-| 9 | [tonderaikawere](https://github.com/tonderaikawere) | Tonderai Kawere | Bulawayo, Zimbabwe | 2,026 |
-| 10 | [chihwayi](https://github.com/chihwayi) | Ignatious Chihwayi | Harare | 1,980 |
-| 11 | [iamngoni](https://github.com/iamngoni) | Ngonidzashe Mangudya | Harare | 1,805 |
+| 9 | [iamngoni](https://github.com/iamngoni) | Ngonidzashe Mangudya | Harare | 2,050 |
+| 10 | [tonderaikawere](https://github.com/tonderaikawere) | Tonderai Kawere | Bulawayo, Zimbabwe | 2,026 |
+| 11 | [chihwayi](https://github.com/chihwayi) | Ignatious Chihwayi | Harare | 1,985 |
 | 12 | [zinyando](https://github.com/zinyando) | Lennex Zinyando | Harare, Zimbabwe | 1,800 |
 | 13 | [br3eze-code](https://github.com/br3eze-code) | Brighton Mzacana | Zimbabwe, BYO | 1,710 |
 | 14 | [TinevimboMusingadi](https://github.com/TinevimboMusingadi) | King Tine | Zimbabwe | 1,471 |
@@ -83,4 +83,4 @@ Indexed users: 1,656
 | 19 | [zim-bot](https://github.com/zim-bot) | DRIPS MEMES BLENNIE BLESSED TUNA | Zimbabwe | 110 |
 | 20 | [KudakwasheM](https://github.com/KudakwasheM) | Kudakwashe Masaya | Harare | 105 |
 
-Generated: 2026-10-19T02:16:42.886Z
+Generated: 2026-10-19T03:24:16.248Z

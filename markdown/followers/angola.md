@@ -1,6 +1,6 @@
 # Followers - Angola
 
-Generated: 2026-10-19T02:18:37.453Z
+Generated: 2026-10-19T03:25:56.070Z
 
 Users: 2497
 

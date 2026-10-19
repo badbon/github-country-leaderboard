@@ -1,6 +1,6 @@
 # Total Contributions - Somalia
 
-Generated: 2026-10-19T02:06:27.678Z
+Generated: 2026-10-19T03:13:17.734Z
 
 Users: 865
 
@@ -11,7 +11,7 @@ Users: 865
 | 3 | [hanadderia](https://github.com/hanadderia) | Abdulshakur Ahmed | SOMALI PAYMENT SWITCH (SPS) |  | Mogadishu, Somalia | 7637 |
 | 4 | [baaslaawe](https://github.com/baaslaawe) | Abdalla Hassan Awale | @Adwaar Technologies | baaslaawe | somalia | 7205 |
 | 5 | [khalidhussein957](https://github.com/khalidhussein957) | khalid Hussein | Impetik Ltd |  | Mogadishu Somalia | 6848 |
-| 6 | [hayle01](https://github.com/hayle01) |  Mohamed Abdirahim |  |  | Mogadishu, Somalia | 6510 |
+| 6 | [hayle01](https://github.com/hayle01) |  Mohamed Abdirahim |  |  | Mogadishu, Somalia | 6605 |
 | 7 | [yousumohamed](https://github.com/yousumohamed) | Yousuf Mohamed | @Sahan-Labs  |  | somalia | 6099 |
 | 8 | [mhbaando](https://github.com/mhbaando) | kamaal Abshir | NextOne | mhbaando | Mogadishu Somalia | 4936 |
 | 9 | [xamiir](https://github.com/xamiir) | Abdullahi Abdi Ahmed | Bixi |  | Somalia  | 4767 |
@@ -20,7 +20,7 @@ Users: 865
 | 12 | [hanad124](https://github.com/hanad124) | Hanad Mohamed Dahir | @bulsho-development-bank |  | Mogadishu \| Somalia | 4006 |
 | 13 | [najiibmohamed11](https://github.com/najiibmohamed11) | Abdinajib  | pathway solutions  | abdinajibmo | Mogadishu, Somalia  | 3843 |
 | 14 | [mrabukar](https://github.com/mrabukar) | Mr Abukar | @Loranet-Technologies  |  | Mogadisho, Somalia | 3829 |
-| 15 | [abzalan](https://github.com/abzalan) | Abdizalaan H Abdi | @dhadoLabs | iamabzalan | Mogadishu, Somalia | 3527 |
+| 15 | [abzalan](https://github.com/abzalan) | Abdizalaan H Abdi | @dhadoLabs | iamabzalan | Mogadishu, Somalia | 3504 |
 | 16 | [Dhaqane-00](https://github.com/Dhaqane-00) | Abdilaahi Mowliid Dhaqane | @jtechso |  | Mogadishu | 3282 |
 | 17 | [abdulsalamhassan](https://github.com/abdulsalamhassan) | Abdulsalam H. Shiikhow | SIMAD University |  | Somalia, Mogadishu | 3265 |
 | 18 | [mooha76](https://github.com/mooha76) | Mohammed Farah |  |  | Mogadishu, Somalia | 3228 |

@@ -1,6 +1,6 @@
 # Tunisia
 
-Indexed users: 7,166
+Indexed users: 7,165
 
 | Leaderboard | Link |
 |---|---|
@@ -62,12 +62,12 @@ Indexed users: 7,166
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [chahe-dridi](https://github.com/chahe-dridi) | chaher dridi | Tunisia | 3,480 |
+| 1 | [chahe-dridi](https://github.com/chahe-dridi) | chaher dridi | Tunisia | 3,679 |
 | 2 | [JawherKl](https://github.com/JawherKl) | Jawher Kl | Tunis | 2,995 |
 | 3 | [SelimHorri](https://github.com/SelimHorri) | Selim Horri | Tunisia | 2,296 |
 | 4 | [www-root](https://github.com/www-root) | ⚞ Asyrm ⚟ | Tunisia | 1,764 |
 | 5 | [ahmnouira](https://github.com/ahmnouira) | Ahmed Nouira | Monastir, Tunisia | 1,263 |
-| 6 | [nizar787](https://github.com/nizar787) | Nizar Harb | Tunis,Tunisia | 1,242 |
+| 6 | [nizar787](https://github.com/nizar787) | Nizar Harb | Tunis,Tunisia | 1,219 |
 | 7 | [jawherr](https://github.com/jawherr) | Jawher | Tunisia | 1,210 |
 | 8 | [Nour-yahyaoui](https://github.com/Nour-yahyaoui) | Nour-Yahyaoui | Tunisia | 1,064 |
 | 9 | [MohamedRejeb](https://github.com/MohamedRejeb) | Mohamed Rejeb | Tunisia | 897 |
@@ -77,10 +77,10 @@ Indexed users: 7,166
 | 13 | [X-SLAYER](https://github.com/X-SLAYER) | Iheb Briki | Tunisia | 645 |
 | 14 | [mn-youssef](https://github.com/mn-youssef) | mansouri youssef | tunisia | 613 |
 | 15 | [tekteku](https://github.com/tekteku) | Taher Chabaane | Tunis | 603 |
-| 16 | [jasonxtn](https://github.com/jasonxtn) | JASON13 | Tunis, Tunisia | 566 |
-| 17 | [AzizBenIsmail](https://github.com/AzizBenIsmail) | Mohamed Aziz Ben Ismail | Tunisia, Djerba | 560 |
-| 18 | [jassercherif](https://github.com/jassercherif) | jasser cherif | Kelibia, Nabeul, Tunisia | 529 |
-| 19 | [zied-snoussi](https://github.com/zied-snoussi) | Zied Snoussi | Tunisia | 522 |
-| 20 | [machour](https://github.com/machour) | Mehdi Achour | Tunisia | 483 |
+| 16 | [AzizBenIsmail](https://github.com/AzizBenIsmail) | Mohamed Aziz Ben Ismail | Tunisia, Djerba | 560 |
+| 17 | [jassercherif](https://github.com/jassercherif) | jasser cherif | Kelibia, Nabeul, Tunisia | 529 |
+| 18 | [zied-snoussi](https://github.com/zied-snoussi) | Zied Snoussi | Tunisia | 522 |
+| 19 | [machour](https://github.com/machour) | Mehdi Achour | Tunisia | 483 |
+| 20 | [01JAMIL](https://github.com/01JAMIL) | Jamil Ben Brahim | Tunisia | 477 |
 
-Generated: 2026-10-19T02:11:28.726Z
+Generated: 2026-10-19T03:19:06.980Z

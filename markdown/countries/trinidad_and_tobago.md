@@ -54,7 +54,7 @@ Indexed users: 256
 | 15 | [devxlag](https://github.com/devxlag) | Devon Murray | Trinidad and Tobago | 256 |
 | 16 | [Brandonbr1](https://github.com/Brandonbr1) | Java sauce | Trinidad and Tobago | 241 |
 | 17 | [IshikaGopie](https://github.com/IshikaGopie) | Ishika_Gopie | Trinidad and Tobago | 223 |
-| 18 | [J4m331](https://github.com/J4m331) | Jameel Ali | Trinidad and Tobago | 220 |
+| 18 | [J4m331](https://github.com/J4m331) | Jameel Ali | Trinidad and Tobago | 221 |
 | 19 | [0xNick404](https://github.com/0xNick404) | Nicholas Grimes | Trinidad and Tobago | 198 |
 | 20 | [Trasmonaut](https://github.com/Trasmonaut) | Trasmonaut | Trinidad and Tobago | 184 |
 
@@ -83,4 +83,4 @@ Indexed users: 256
 | 19 | [DionMS8](https://github.com/DionMS8) | Dion Singh | Trinidad and Tobago | 29 |
 | 20 | [wyntonfranklin](https://github.com/wyntonfranklin) | Wynton Franklin | Trinidad and Tobago | 29 |
 
-Generated: 2026-10-19T02:11:26.081Z
+Generated: 2026-10-19T03:18:35.904Z

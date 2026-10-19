@@ -14,7 +14,7 @@ Indexed users: 61
 |---:|---|---|---|---:|
 | 1 | [michael-andreuzza](https://github.com/michael-andreuzza) | Michael Andreuzza | Mariehman, Åland Islands, Finland | 11,528 |
 | 2 | [npunzalan](https://github.com/npunzalan) | Nico Punzalan | Mariehamn | 3,984 |
-| 3 | [hkarlstrom](https://github.com/hkarlstrom) | Henrik Karlström | Åland Islands | 3,758 |
+| 3 | [hkarlstrom](https://github.com/hkarlstrom) | Henrik Karlström | Åland Islands | 3,755 |
 | 4 | [mathisen99](https://github.com/mathisen99) | Tommy Mathisen | Aland Islands | 3,275 |
 | 5 | [olegamobile](https://github.com/olegamobile) | Oleg Balandin | Mariehamn | 1,743 |
 | 6 | [MarkusYPA](https://github.com/MarkusYPA) | Markus Amberla | Mariehamn and Helsinki | 1,502 |
@@ -23,7 +23,7 @@ Indexed users: 61
 | 9 | [SaddamHosyn](https://github.com/SaddamHosyn) | Hussain Saddam | Mariehamn, Åland | 1,021 |
 | 10 | [mareerray](https://github.com/mareerray) | Mayuree Reunsati | Mariehamn, Åland | 836 |
 | 11 | [fannielf](https://github.com/fannielf) | Fanni Vesanen | Mariehamn | 576 |
-| 12 | [rahulwagh](https://github.com/rahulwagh) | Rahul Wagh | Mariehamn, Åland | 543 |
+| 12 | [rahulwagh](https://github.com/rahulwagh) | Rahul Wagh | Mariehamn, Åland | 554 |
 | 13 | [kejpa](https://github.com/kejpa) | Kjell Hansen | Mariehamn, Åland Islands | 528 |
 | 14 | [karusmari](https://github.com/karusmari) | Maris Karu | Åland Islands | 461 |
 | 15 | [khalavak](https://github.com/khalavak) | Kim Halavakoski | Åland Islands | 383 |
@@ -46,7 +46,7 @@ Indexed users: 61
 | 7 | [karusmari](https://github.com/karusmari) | Maris Karu | Åland Islands | 461 |
 | 8 | [khalavak](https://github.com/khalavak) | Kim Halavakoski | Åland Islands | 383 |
 | 9 | [mathisen99](https://github.com/mathisen99) | Tommy Mathisen | Aland Islands | 211 |
-| 10 | [rahulwagh](https://github.com/rahulwagh) | Rahul Wagh | Mariehamn, Åland | 132 |
+| 10 | [rahulwagh](https://github.com/rahulwagh) | Rahul Wagh | Mariehamn, Åland | 136 |
 | 11 | [fatemekh78](https://github.com/fatemekh78) | Fatemeh | Mariehamn, Åland islands | 130 |
 | 12 | [olegamobile](https://github.com/olegamobile) | Oleg Balandin | Mariehamn | 126 |
 | 13 | [hmenorjr](https://github.com/hmenorjr) | Herman Menor, Jr. | Åland Islands, Finland | 92 |
@@ -83,4 +83,4 @@ Indexed users: 61
 | 19 | [GitHug](https://github.com/GitHug) | Fredrik Mäkilä | London / Mariehamn | 10 |
 | 20 | [fannielf](https://github.com/fannielf) | Fanni Vesanen | Mariehamn | 9 |
 
-Generated: 2026-10-19T02:16:55.379Z
+Generated: 2026-10-19T03:24:26.326Z

@@ -1,6 +1,6 @@
 # Followers - Bahrain
 
-Generated: 2026-10-19T02:21:23.801Z
+Generated: 2026-10-19T03:28:25.651Z
 
 Users: 727
 
@@ -25,4 +25,4 @@ Users: 727
 | 17 | [veno](https://github.com/veno) | Venomous Committer |  |  | Bahrain | 45 |
 | 18 | [akhaled01](https://github.com/akhaled01) | Abdulrahman Idrees |  |  | Manama, Bahrain | 43 |
 | 19 | [f-9t9it](https://github.com/f-9t9it) | 9T9 IT |  |  | Bahrain | 42 |
-| 20 | [masterde](https://github.com/masterde) | Baker | XYZ |  | Bahrain, Muharraq | 40 |
+| 20 | [masterde](https://github.com/masterde) | Baker | XYZ |  | Bahrain, Muharraq | 41 |

@@ -1,12 +1,12 @@
 # Total Contributions - Brunei
 
-Generated: 2026-10-19T02:25:39.900Z
+Generated: 2026-10-19T03:32:19.393Z
 
 Users: 254
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [aresople](https://github.com/aresople) | Aresa Naif | Developer |  | Brunei | 5635 |
+| 1 | [aresople](https://github.com/aresople) | Aresa Naif | Developer |  | Brunei | 5618 |
 | 2 | [danialothman](https://github.com/danialothman) | Danial Othman |  |  | Brunei Darussalam | 4066 |
 | 3 | [SatriaSuriaAriffin](https://github.com/SatriaSuriaAriffin) | Satria Suria | Deltice Technology |  | Brunei | 2897 |
 | 4 | [akasmirhan4](https://github.com/akasmirhan4) | Amirrul Kasmirhan |  |  | Brunei | 2276 |
