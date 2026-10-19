@@ -18,7 +18,7 @@
     "location": "Kabul, Afghanistan",
     "company": "",
     "twitterUsername": "Khalida_Ghani",
-    "followers": 24,
+    "followers": 22,
     "privateContributions": 0,
     "publicContributions": 58,
     "createdAt": "2026-01-12T17:31:27Z"
@@ -44,7 +44,7 @@
     "twitterUsername": "",
     "followers": 21,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 27,
     "createdAt": "2026-01-13T14:15:53Z"
   },
   {
@@ -78,7 +78,7 @@
     "location": "Kabul, Afghanistan",
     "company": "Student",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 8,
     "privateContributions": 0,
     "publicContributions": 14,
     "createdAt": "2026-03-20T08:19:14Z"
@@ -116,7 +116,7 @@
     "twitterUsername": "AhErfanDev",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 44,
+    "publicContributions": 45,
     "createdAt": "2026-02-09T14:27:07Z"
   },
   {
@@ -126,7 +126,7 @@
     "location": "Kabul Afghanistan",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 251,
     "createdAt": "2026-01-02T19:41:22Z"
@@ -150,9 +150,9 @@
     "location": "Afghanistan ",
     "company": "all in one",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 4,
     "createdAt": "2026-04-11T10:44:28Z"
   },
   {
@@ -17842,5 +17842,17 @@
     "privateContributions": 0,
     "publicContributions": 9,
     "createdAt": "2026-06-02T14:51:09Z"
+  },
+  {
+    "login": "ffoonline",
+    "name": "Ferdous Mujaddedi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298823620?s=72&u=3a34b2257337a445237eb2eae958c1f3c1188769&v=4",
+    "location": "Kabul Afghanistan ",
+    "company": "FINUTEX ",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2026-07-01T18:03:28Z"
   }
 ]

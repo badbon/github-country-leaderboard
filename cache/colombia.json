@@ -35396,7 +35396,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 13,
     "createdAt": "2024-03-18T14:10:21Z"
   },
   {
@@ -35407,7 +35407,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 161,
+    "privateContributions": 135,
     "publicContributions": 0,
     "createdAt": "2024-02-08T02:30:09Z"
   },
@@ -35432,7 +35432,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 4,
     "createdAt": "2024-07-05T14:57:18Z"
   },
   {
@@ -35456,7 +35456,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 104,
+    "publicContributions": 125,
     "createdAt": "2024-06-17T02:19:53Z"
   },
   {
@@ -35468,7 +35468,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 58,
+    "publicContributions": 0,
     "createdAt": "2024-08-15T19:32:39Z"
   },
   {
@@ -35496,18 +35496,6 @@
     "createdAt": "2024-10-25T00:07:09Z"
   },
   {
-    "login": "juansemondra",
-    "name": "Juan Sebastián Mondragón",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/176965000?s=72&u=618131f8e53171f1b2f63eb0e6f8d8fdf91d491f&v=4",
-    "location": "Bogotá",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 69,
-    "createdAt": "2024-07-29T22:08:33Z"
-  },
-  {
     "login": "NicoJSuarez2",
     "name": "Nicolas Suarez",
     "avatarUrl": "https://avatars.githubusercontent.com/u/174117595?s=72&u=2934c77c50046616659f3209cebba02c6096e5c3&v=4",
@@ -35528,7 +35516,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 9,
     "createdAt": "2024-07-17T11:37:33Z"
   },
   {
@@ -35548,11 +35536,11 @@
     "name": "Danilo",
     "avatarUrl": "https://avatars.githubusercontent.com/u/179063398?s=72&u=9aa519251579b8efbcb6c7c9fc97f39cb5e88215&v=4",
     "location": "Bogotá",
-    "company": "Emtelco",
+    "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 178,
-    "publicContributions": 204,
+    "followers": 1,
+    "privateContributions": 318,
+    "publicContributions": 492,
     "createdAt": "2024-08-22T00:52:43Z"
   },
   {
@@ -35588,7 +35576,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 121,
+    "publicContributions": 118,
     "createdAt": "2024-11-11T23:45:29Z"
   },
   {
@@ -35608,11 +35596,11 @@
     "name": "Cristian Vega ",
     "avatarUrl": "https://avatars.githubusercontent.com/u/169475381?s=72&v=4",
     "location": "Bogotá",
-    "company": "",
+    "company": "Lum Logistics",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 357,
+    "privateContributions": 267,
+    "publicContributions": 265,
     "createdAt": "2024-05-10T15:54:59Z"
   },
   {

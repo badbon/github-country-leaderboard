@@ -35275,8 +35275,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 36,
-    "publicContributions": 46,
+    "privateContributions": 33,
+    "publicContributions": 42,
     "createdAt": "2017-08-29T19:50:50Z"
   },
   {
@@ -35298,7 +35298,7 @@
     "location": "Abu Dhabi,UAE",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 11,
     "privateContributions": 0,
     "publicContributions": 19,
     "createdAt": "2017-09-04T11:49:06Z"
@@ -35312,7 +35312,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 18,
     "createdAt": "2017-07-31T01:31:14Z"
   },
   {
@@ -35322,9 +35322,9 @@
     "location": "Abu Dhabi UAE",
     "company": "Khalifa University",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 149,
-    "publicContributions": 79,
+    "followers": 8,
+    "privateContributions": 366,
+    "publicContributions": 114,
     "createdAt": "2017-05-15T12:20:27Z"
   },
   {
@@ -35370,22 +35370,10 @@
     "location": "Abu Dhabi",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 3,
     "createdAt": "2017-08-23T17:42:56Z"
-  },
-  {
-    "login": "humayuntanwar",
-    "name": "Humayun Tanwar",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/26435693?s=72&v=4",
-    "location": "Abu Dhabi",
-    "company": "FAB",
-    "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 0,
-    "publicContributions": 7,
-    "createdAt": "2017-03-15T13:12:10Z"
   },
   {
     "login": "LiuYuHan31",
@@ -35396,7 +35384,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 7,
-    "publicContributions": 11,
+    "publicContributions": 13,
     "createdAt": "2017-04-27T14:17:29Z"
   },
   {
@@ -35407,8 +35395,8 @@
     "company": "The Emirates Center for Strategic Studies and Research",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 7,
-    "publicContributions": 2,
+    "privateContributions": 8,
+    "publicContributions": 0,
     "createdAt": "2017-12-08T13:45:13Z"
   },
   {
@@ -35418,7 +35406,7 @@
     "location": "Abu Dhabi",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-11-27T21:06:27Z"
@@ -35430,7 +35418,7 @@
     "location": "Abu Dhabi",
     "company": "Data Scientist",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 7,
     "createdAt": "2017-08-08T13:19:21Z"
@@ -35444,7 +35432,7 @@
     "twitterUsername": "laitue94",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 8,
     "createdAt": "2017-02-08T23:00:09Z"
   },
   {
@@ -35468,7 +35456,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 22,
-    "publicContributions": 1,
+    "publicContributions": 3,
     "createdAt": "2017-01-13T20:10:10Z"
   },
   {
@@ -35478,9 +35466,9 @@
     "location": "Abu Dhabi",
     "company": "AOTS",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 11,
     "createdAt": "2017-03-02T04:05:38Z"
   },
   {
@@ -35494,18 +35482,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-05-30T20:28:38Z"
-  },
-  {
-    "login": "Hirzo0o",
-    "name": "Aysar A Hirz Allah ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/25107021?s=72&u=a62b2d92c5897533969a8f8a41511a0f86b28342&v=4",
-    "location": "Abu Dhabi, UAE",
-    "company": "Private",
-    "twitterUsername": "Hirzo0o",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 12,
-    "createdAt": "2017-01-13T17:34:10Z"
   },
   {
     "login": "Chintapallidharmendra",

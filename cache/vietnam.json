@@ -34760,7 +34760,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 268,
+    "publicContributions": 293,
     "createdAt": "2024-08-08T07:04:43Z"
   },
   {
@@ -34772,7 +34772,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 54,
+    "publicContributions": 102,
     "createdAt": "2024-08-24T14:41:16Z"
   },
   {
@@ -34796,7 +34796,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 6,
     "createdAt": "2024-09-07T14:35:39Z"
   },
   {
@@ -34808,7 +34808,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 500,
+    "publicContributions": 475,
     "createdAt": "2024-07-23T06:55:45Z"
   },
   {
@@ -34820,7 +34820,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 69,
+    "publicContributions": 40,
     "createdAt": "2024-09-23T15:02:51Z"
   },
   {
@@ -34832,7 +34832,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 35,
     "createdAt": "2024-07-09T06:28:58Z"
   },
   {
@@ -34844,7 +34844,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 102,
+    "publicContributions": 56,
     "createdAt": "2024-10-26T07:20:21Z"
   },
   {
@@ -34868,7 +34868,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 7,
     "createdAt": "2024-10-04T06:45:59Z"
   },
   {
@@ -34892,7 +34892,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 52,
+    "publicContributions": 105,
     "createdAt": "2024-09-05T13:15:53Z"
   },
   {
@@ -34903,8 +34903,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 25,
-    "publicContributions": 203,
+    "privateContributions": 31,
+    "publicContributions": 191,
     "createdAt": "2024-09-16T03:48:50Z"
   },
   {
@@ -34916,7 +34916,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 84,
+    "publicContributions": 93,
     "createdAt": "2024-09-30T10:27:48Z"
   },
   {
@@ -34924,11 +34924,11 @@
     "name": "Jesse Nguyen",
     "avatarUrl": "https://avatars.githubusercontent.com/u/182921368?s=72&v=4",
     "location": "Vietnam",
-    "company": "Rebly.io",
+    "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 364,
+    "privateContributions": 4770,
+    "publicContributions": 452,
     "createdAt": "2024-09-26T12:28:16Z"
   },
   {
@@ -34963,7 +34963,7 @@
     "company": "@ZCv-PTE ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 19,
+    "privateContributions": 1,
     "publicContributions": 17,
     "createdAt": "2024-11-24T04:37:41Z"
   },
@@ -310006,5 +310006,77 @@
     "privateContributions": 0,
     "publicContributions": 8,
     "createdAt": "2026-06-29T03:51:47Z"
+  },
+  {
+    "login": "benhiepcse",
+    "name": "Lê Võ Nghĩa Hiệp",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298153531?s=72&u=c298ad766001844971c9a482dc8c348897109026&v=4",
+    "location": "Ho Chi Minh City, Vietnam",
+    "company": "CSE - Ho Chi Minh City University of Technology (HCMUT)",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 81,
+    "createdAt": "2026-06-30T06:28:49Z"
+  },
+  {
+    "login": "PasaliSej23",
+    "name": "Sophie Burgos",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298467682?s=72&v=4",
+    "location": "Velké Pavlovice, Vietnam",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2026-06-30T22:39:34Z"
+  },
+  {
+    "login": "HejetoYoce85",
+    "name": "Mathias Gomes",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298464122?s=72&v=4",
+    "location": "Vietnam",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-30T22:25:59Z"
+  },
+  {
+    "login": "RumaroDo28",
+    "name": "Fernando Zapata",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298425599?s=72&v=4",
+    "location": "สงขลา, Vietnam",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2026-06-30T20:17:39Z"
+  },
+  {
+    "login": "BasuyiDem65",
+    "name": "Bernadette Perera",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298457072?s=72&v=4",
+    "location": "Rostock, Vietnam",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-30T22:00:10Z"
+  },
+  {
+    "login": "JemexeCahe25",
+    "name": "Liam Blin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298454185?s=72&v=4",
+    "location": "Vietnam",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2026-06-30T21:46:16Z"
   }
 ]

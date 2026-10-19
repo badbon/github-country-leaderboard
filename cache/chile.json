@@ -35707,21 +35707,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 45,
-    "publicContributions": 2,
+    "privateContributions": 75,
+    "publicContributions": 5,
     "createdAt": "2023-01-05T16:03:22Z"
-  },
-  {
-    "login": "chcinriverajoseg",
-    "name": "Jose Gregorio Chacin",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/136285535?s=72&u=51dc8164fabfb7201d7d7d1af400259c5b7d8a63&v=4",
-    "location": "Chile",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 92,
-    "createdAt": "2023-06-12T01:36:16Z"
   },
   {
     "login": "simplementebolk",
@@ -35732,7 +35720,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 64,
     "createdAt": "2023-06-20T19:23:29Z"
   },
   {
@@ -35744,7 +35732,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 3,
     "createdAt": "2023-03-08T20:17:07Z"
   },
   {
@@ -35762,12 +35750,12 @@
   {
     "login": "donwalassjgod",
     "name": "José Lama",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/134007395?s=72&u=a05ab8b2a1a4e8731c247316fb2a209cbb4f7780&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/134007395?s=72&u=a9461666e71b6202be75a055369cd2da7c3d11bd&v=4",
     "location": "Chile",
-    "company": "",
+    "company": "Empresas Valmar",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
+    "privateContributions": 165,
     "publicContributions": 0,
     "createdAt": "2023-05-18T19:15:30Z"
   },
@@ -35780,7 +35768,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 0,
     "createdAt": "2023-02-06T22:07:41Z"
   },
   {
@@ -35792,7 +35780,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 0,
     "createdAt": "2023-06-19T03:50:18Z"
   },
   {
@@ -35816,7 +35804,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 0,
     "createdAt": "2023-02-07T00:54:39Z"
   },
   {
@@ -35854,18 +35842,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-02-14T14:18:56Z"
-  },
-  {
-    "login": "Dementaltroll",
-    "name": "Samuel González",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/134567062?s=72&u=9514bf31f6a91743191de804212b574f2b7861c0&v=4",
-    "location": "Santiago, Chile",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2023-05-25T01:37:18Z"
   },
   {
     "login": "ChristianCaceres",
@@ -35922,9 +35898,9 @@
     "location": "Chile",
     "company": "",
     "twitterUsername": "lukaazxs",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 618,
+    "publicContributions": 545,
     "createdAt": "2023-03-17T17:53:57Z"
   },
   {

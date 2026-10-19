@@ -35300,7 +35300,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 228,
+    "publicContributions": 171,
     "createdAt": "2015-08-07T10:21:04Z"
   },
   {
@@ -35310,9 +35310,9 @@
     "location": "Slovakia",
     "company": "Attorneys C|H|Z",
     "twitterUsername": "originalmagneto",
-    "followers": 7,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 201,
+    "publicContributions": 520,
     "createdAt": "2015-10-10T18:26:51Z"
   },
   {
@@ -35322,8 +35322,8 @@
     "location": "Žilina, Slovakia",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 387,
+    "followers": 8,
+    "privateContributions": 333,
     "publicContributions": 44,
     "createdAt": "2015-06-07T15:58:41Z"
   },
@@ -35335,8 +35335,8 @@
     "company": "Neonvil",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 5668,
-    "publicContributions": 127,
+    "privateContributions": 5968,
+    "publicContributions": 131,
     "createdAt": "2015-08-04T05:48:55Z"
   },
   {
@@ -35348,20 +35348,8 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 236,
+    "publicContributions": 199,
     "createdAt": "2015-06-12T09:50:32Z"
-  },
-  {
-    "login": "mahnat",
-    "name": "Marek Hnat",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/10949040?s=72&u=c037dfc26fae447d55b65433de39e07a4d9fd879&v=4",
-    "location": "Bratislava, Slovakia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2015-02-10T22:19:38Z"
   },
   {
     "login": "jkbgntr94",
@@ -35370,8 +35358,8 @@
     "location": "Bratislava, Slovakia",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 135,
+    "followers": 7,
+    "privateContributions": 101,
     "publicContributions": 0,
     "createdAt": "2015-03-23T09:54:41Z"
   },
@@ -35383,20 +35371,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 339,
+    "privateContributions": 310,
     "publicContributions": 0,
     "createdAt": "2015-09-13T12:52:02Z"
   },
   {
     "login": "lacee677",
-    "name": "Ladislav Mišurák",
+    "name": "László Misurák",
     "avatarUrl": "https://avatars.githubusercontent.com/u/15804304?s=72&u=1049acfbf3b7e5fa4099979f37692116478b4605&v=4",
     "location": "Slovakia",
     "company": "@EDMdesigner ",
     "twitterUsername": "lacee677",
     "followers": 6,
-    "privateContributions": 2549,
-    "publicContributions": 85,
+    "privateContributions": 2255,
+    "publicContributions": 75,
     "createdAt": "2015-11-11T17:53:29Z"
   },
   {
@@ -35418,9 +35406,9 @@
     "location": "Slovakia",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 69,
-    "publicContributions": 204,
+    "publicContributions": 176,
     "createdAt": "2015-01-03T10:51:11Z"
   },
   {
@@ -35430,7 +35418,7 @@
     "location": "Slovakia",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-07-30T12:23:53Z"
@@ -35444,7 +35432,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 14,
     "createdAt": "2015-05-20T13:11:52Z"
   },
   {
@@ -35468,7 +35456,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 19,
     "createdAt": "2014-12-30T12:27:54Z"
   },
   {
@@ -35480,7 +35468,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 232,
+    "publicContributions": 257,
     "createdAt": "2015-07-14T10:34:17Z"
   },
   {
@@ -35491,8 +35479,8 @@
     "company": "PDFix",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 161,
-    "publicContributions": 103,
+    "privateContributions": 139,
+    "publicContributions": 94,
     "createdAt": "2015-01-22T22:53:05Z"
   },
   {
@@ -35504,7 +35492,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 111,
+    "publicContributions": 175,
     "createdAt": "2015-03-28T22:44:15Z"
   },
   {
@@ -35514,9 +35502,9 @@
     "location": "Bratislava, Slovakia",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 1,
     "createdAt": "2015-02-08T15:29:51Z"
   },
   {
@@ -35526,9 +35514,9 @@
     "location": "Slovakia",
     "company": "Aspecta",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 76,
     "createdAt": "2015-07-30T13:36:40Z"
   },
   {
