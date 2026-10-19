@@ -1,8 +1,8 @@
 # Followers - Tunisia
 
-Generated: 2026-10-19T06:04:49.267Z
+Generated: 2026-10-19T07:23:12.215Z
 
-Users: 7165
+Users: 7164
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

@@ -1,6 +1,6 @@
 # Total Contributions - Syria
 
-Generated: 2026-10-19T06:01:41.837Z
+Generated: 2026-10-19T07:18:45.440Z
 
 Users: 1480
 
@@ -11,9 +11,9 @@ Users: 1480
 | 3 | [moaaz-alsyoufi](https://github.com/moaaz-alsyoufi) | Moaaz Alsyoufi |  |  | Homs, Syria | 5233 |
 | 4 | [Abubakr-Alsheikh](https://github.com/Abubakr-Alsheikh) | Abubakr Alsheikh |  | AbubakrAlshei77 | Syria | 4654 |
 | 5 | [ibrahim4433](https://github.com/ibrahim4433) | Ibrahim Andraws | IA team - Digital Voluntary Team (DVT) |  | Syria | 4651 |
-| 6 | [ali-talal-ibrahem](https://github.com/ali-talal-ibrahem) | Ali Talal Ibrahem |  |  | syria | 3183 |
-| 7 | [AhmedHMWI](https://github.com/AhmedHMWI) | Ahmed hamwi |  |  | Damascus | 3125 |
-| 8 | [amurru](https://github.com/amurru) | Ammar Zerouk |  |  | Syria | 3117 |
+| 6 | [amurru](https://github.com/amurru) | Ammar Zerouk |  |  | Syria | 3244 |
+| 7 | [ali-talal-ibrahem](https://github.com/ali-talal-ibrahem) | Ali Talal Ibrahem |  |  | syria | 3183 |
+| 8 | [AhmedHMWI](https://github.com/AhmedHMWI) | Ahmed hamwi |  |  | Damascus | 3125 |
 | 9 | [sam-a1a](https://github.com/sam-a1a) | Sam |  |  | Damascus, Syrian Arab Republic | 2916 |
 | 10 | [gaaferHajji2](https://github.com/gaaferHajji2) | Jafar Loka |  |  | Damascus - SY | 2836 |
 | 11 | [alsa7err90](https://github.com/alsa7err90) | abdulnafea |  |  | syria | 2435 |

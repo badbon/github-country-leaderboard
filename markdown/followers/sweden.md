@@ -1,6 +1,6 @@
 # Followers - Sweden
 
-Generated: 2026-10-19T06:36:48.389Z
+Generated: 2026-10-19T07:18:28.306Z
 
 Users: 39034
 

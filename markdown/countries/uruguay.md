@@ -13,8 +13,8 @@ Indexed users: 5,612
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [lucasborges2001](https://github.com/lucasborges2001) | Lucas Borges | Montevideo, Uruguay | 25,520 |
-| 2 | [matiaszanolli](https://github.com/matiaszanolli) | Matias Zanolli | Uruguay | 23,365 |
-| 3 | [jQuinRivero](https://github.com/jQuinRivero) | Joaquín Rivero | Montevideo, Uruguay | 17,928 |
+| 2 | [jQuinRivero](https://github.com/jQuinRivero) | Joaquín Rivero | Montevideo, Uruguay | 25,236 |
+| 3 | [matiaszanolli](https://github.com/matiaszanolli) | Matias Zanolli | Uruguay | 23,365 |
 | 4 | [figlesias221](https://github.com/figlesias221) | Federico Iglesias | Montevideo, Uruguay | 16,114 |
 | 5 | [fausanchez](https://github.com/fausanchez) | Fausto Sanchez | Uruguay | 14,173 |
 | 6 | [dcadenas](https://github.com/dcadenas) | Daniel Cadenas | Montevideo, Uruguay | 13,568 |
@@ -83,4 +83,4 @@ Indexed users: 5,612
 | 19 | [mauricioszabo](https://github.com/mauricioszabo) | Maurício Szabo | Montevideo, Uruguay | 196 |
 | 20 | [ppazos](https://github.com/ppazos) | Pablo Pazos Gutiérrez | Montevideo, Uruguay | 196 |
 
-Generated: 2026-10-19T06:08:10.288Z
+Generated: 2026-10-19T07:25:16.736Z

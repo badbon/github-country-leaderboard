@@ -1,8 +1,8 @@
 # Public Contributions - Dominican Republic
 
-Generated: 2026-10-19T06:31:02.825Z
+Generated: 2026-10-19T07:46:28.000Z
 
-Users: 3299
+Users: 3298
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -16,13 +16,13 @@ Users: 3299
 | 8 | [adelrodriguez](https://github.com/adelrodriguez) | Adel Rodríguez |  | adeldotdo | Dominican Republic | 2125 |
 | 9 | [omarsuniaga](https://github.com/omarsuniaga) | Omar Suniaga |  |  | Dominican Republic | 2041 |
 | 10 | [FredPeal](https://github.com/FredPeal) | Frederick Peñalo | McTekk SRL | frederickpeal | Dominican Republic | 1974 |
-| 11 | [jesusantguerrero](https://github.com/jesusantguerrero) | Jesus Guerrero Álvarez  | Insane Code | jesusntguerrero | Santo Domingo, Dominican Republic | 1908 |
-| 12 | [henfrydls](https://github.com/henfrydls) | Henfry De Los Santos | Soventix Caribbean SRL |  | Santo Domingo, República Dominicana | 1900 |
-| 13 | [lrojas94](https://github.com/lrojas94) | Luis E. Rojas Cabrera |  |  | Santiago, Dominican Republic | 1889 |
-| 14 | [dbremont](https://github.com/dbremont) | Daniel  de Victoriano y Bremont |  |  | America, Dominican Republic | 1827 |
-| 15 | [bryanstevensacosta](https://github.com/bryanstevensacosta) | Bryan Acosta |  |  | Dominican Republic | 1758 |
-| 16 | [XavielT](https://github.com/XavielT) | Xaviel Terrero |  |  | Dominican Republic | 1718 |
-| 17 | [franklinmdev](https://github.com/franklinmdev) | Franklin Martinez | Nubeteck, SRL |  | Dominican Republic | 1622 |
-| 18 | [oliverdiaz873](https://github.com/oliverdiaz873) | Oliver Antonio Diaz |  |  | Santo Domingo | 1545 |
-| 19 | [ctorressoftware](https://github.com/ctorressoftware) | Carlos Torres |  |  | Dominican Republic | 1508 |
-| 20 | [eliaquin](https://github.com/eliaquin) | Eliaquín Encarnación |  |  | Santo Domingo, Dominican Republic | 1505 |
+| 11 | [Gperez88](https://github.com/Gperez88) | Gabriel Perez |  |  | Dominican Republic | 1961 |
+| 12 | [jesusantguerrero](https://github.com/jesusantguerrero) | Jesus Guerrero Álvarez  | Insane Code | jesusntguerrero | Santo Domingo, Dominican Republic | 1908 |
+| 13 | [henfrydls](https://github.com/henfrydls) | Henfry De Los Santos | Soventix Caribbean SRL |  | Santo Domingo, República Dominicana | 1900 |
+| 14 | [lrojas94](https://github.com/lrojas94) | Luis E. Rojas Cabrera |  |  | Santiago, Dominican Republic | 1889 |
+| 15 | [dbremont](https://github.com/dbremont) | Daniel  de Victoriano y Bremont |  |  | America, Dominican Republic | 1827 |
+| 16 | [bryanstevensacosta](https://github.com/bryanstevensacosta) | Bryan Acosta |  |  | Dominican Republic | 1758 |
+| 17 | [XavielT](https://github.com/XavielT) | Xaviel Terrero |  |  | Dominican Republic | 1718 |
+| 18 | [franklinmdev](https://github.com/franklinmdev) | Franklin Martinez | Nubeteck, SRL |  | Dominican Republic | 1622 |
+| 19 | [oliverdiaz873](https://github.com/oliverdiaz873) | Oliver Antonio Diaz |  |  | Santo Domingo | 1545 |
+| 20 | [ctorressoftware](https://github.com/ctorressoftware) | Carlos Torres |  |  | Dominican Republic | 1508 |

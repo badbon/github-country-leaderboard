@@ -1,14 +1,14 @@
 # Total Contributions - Uruguay
 
-Generated: 2026-10-19T06:08:10.288Z
+Generated: 2026-10-19T07:25:16.736Z
 
 Users: 5612
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [lucasborges2001](https://github.com/lucasborges2001) | Lucas Borges |  |  | Montevideo, Uruguay | 25520 |
-| 2 | [matiaszanolli](https://github.com/matiaszanolli) | Matias Zanolli |  | TechForMusicAI | Uruguay | 23365 |
-| 3 | [jQuinRivero](https://github.com/jQuinRivero) | Joaquín Rivero |  |  | Montevideo, Uruguay | 17928 |
+| 2 | [jQuinRivero](https://github.com/jQuinRivero) | Joaquín Rivero |  |  | Montevideo, Uruguay | 25236 |
+| 3 | [matiaszanolli](https://github.com/matiaszanolli) | Matias Zanolli |  | TechForMusicAI | Uruguay | 23365 |
 | 4 | [figlesias221](https://github.com/figlesias221) | Federico Iglesias |  |  | Montevideo, Uruguay | 16114 |
 | 5 | [fausanchez](https://github.com/fausanchez) | Fausto Sanchez |  | sfaustto | Uruguay | 14173 |
 | 6 | [dcadenas](https://github.com/dcadenas) | Daniel Cadenas |  | dcadenas | Montevideo, Uruguay | 13568 |

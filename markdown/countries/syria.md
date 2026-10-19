@@ -17,9 +17,9 @@ Indexed users: 1,480
 | 3 | [moaaz-alsyoufi](https://github.com/moaaz-alsyoufi) | Moaaz Alsyoufi | Homs, Syria | 5,233 |
 | 4 | [Abubakr-Alsheikh](https://github.com/Abubakr-Alsheikh) | Abubakr Alsheikh | Syria | 4,654 |
 | 5 | [ibrahim4433](https://github.com/ibrahim4433) | Ibrahim Andraws | Syria | 4,651 |
-| 6 | [ali-talal-ibrahem](https://github.com/ali-talal-ibrahem) | Ali Talal Ibrahem | syria | 3,183 |
-| 7 | [AhmedHMWI](https://github.com/AhmedHMWI) | Ahmed hamwi | Damascus | 3,125 |
-| 8 | [amurru](https://github.com/amurru) | Ammar Zerouk | Syria | 3,117 |
+| 6 | [amurru](https://github.com/amurru) | Ammar Zerouk | Syria | 3,244 |
+| 7 | [ali-talal-ibrahem](https://github.com/ali-talal-ibrahem) | Ali Talal Ibrahem | syria | 3,183 |
+| 8 | [AhmedHMWI](https://github.com/AhmedHMWI) | Ahmed hamwi | Damascus | 3,125 |
 | 9 | [sam-a1a](https://github.com/sam-a1a) | Sam | Damascus, Syrian Arab Republic | 2,916 |
 | 10 | [gaaferHajji2](https://github.com/gaaferHajji2) | Jafar Loka | Damascus - SY | 2,836 |
 | 11 | [alsa7err90](https://github.com/alsa7err90) | abdulnafea | syria | 2,435 |
@@ -51,11 +51,11 @@ Indexed users: 1,480
 | 12 | [DrAbdulmalek](https://github.com/DrAbdulmalek) | Dr Abdulmalek Al-Husseini | Syria | 1,158 |
 | 13 | [ali-talal-ibrahem](https://github.com/ali-talal-ibrahem) | Ali Talal Ibrahem | syria | 1,153 |
 | 14 | [YAZAN420](https://github.com/YAZAN420) | YazanMahfooz | Syria | 1,082 |
-| 15 | [AliMohammadDev](https://github.com/AliMohammadDev) | Ali Mohammad | Syria | 1,005 |
-| 16 | [amurru](https://github.com/amurru) | Ammar Zerouk | Syria | 960 |
+| 15 | [amurru](https://github.com/amurru) | Ammar Zerouk | Syria | 1,007 |
+| 16 | [AliMohammadDev](https://github.com/AliMohammadDev) | Ali Mohammad | Syria | 1,005 |
 | 17 | [AbdSattout](https://github.com/AbdSattout) | Abd Sattout | Syria | 918 |
-| 18 | [GH-ZX](https://github.com/GH-ZX) | Ahmed GH | Syria | 825 |
-| 19 | [zaher](https://github.com/zaher) | Zaher Dirkey | Damascus, Syria | 806 |
+| 18 | [zaher](https://github.com/zaher) | Zaher Dirkey | Damascus, Syria | 884 |
+| 19 | [GH-ZX](https://github.com/GH-ZX) | Ahmed GH | Syria | 825 |
 | 20 | [yazan-alsamman](https://github.com/yazan-alsamman) | Yazan-Alsamman | Syria | 753 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 1,480
 | 19 | [nebrassy](https://github.com/nebrassy) | Nebrassy | Latakia, Syria | 102 |
 | 20 | [evoiz](https://github.com/evoiz) | Elias Al-bittar | Homs, Syria | 95 |
 
-Generated: 2026-10-19T06:01:41.837Z
+Generated: 2026-10-19T07:18:45.440Z

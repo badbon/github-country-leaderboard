@@ -1,6 +1,6 @@
 # Venezuela
 
-Indexed users: 6,622
+Indexed users: 6,621
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 6,622
 | 19 | [NTBBloodbath](https://github.com/NTBBloodbath) | Alejandro | Caracas, Venezuela | 179 |
 | 20 | [KellbisJ](https://github.com/KellbisJ) | Kellbis Salazar | Venezuela / Remote | 175 |
 
-Generated: 2026-10-19T06:10:02.931Z
+Generated: 2026-10-19T07:26:23.024Z

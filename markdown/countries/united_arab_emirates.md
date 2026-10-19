@@ -1,6 +1,6 @@
 # United Arab Emirates
 
-Indexed users: 4,225
+Indexed users: 4,224
 
 | Leaderboard | Link |
 |---|---|
@@ -56,7 +56,7 @@ Indexed users: 4,225
 | 17 | [drakulavich](https://github.com/drakulavich) | Anton Yakutovich | Abu Dhabi, UAE | 2,378 |
 | 18 | [eunwoo-levi](https://github.com/eunwoo-levi) | Eunwoo | Dubai, United Arab Emirates | 2,344 |
 | 19 | [avinash-mall](https://github.com/avinash-mall) | Avinash Mall | Abu Dhabi | 2,146 |
-| 20 | [fidellim](https://github.com/fidellim) | Fidel Lim | Abu Dhabi, UAE | 2,094 |
+| 20 | [fidellim](https://github.com/fidellim) | Fidel Lim | Abu Dhabi, UAE | 2,095 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 4,225
 | 19 | [FrayxRulez](https://github.com/FrayxRulez) | Fela | Dubai, United Arab Emirates | 366 |
 | 20 | [yusufusta](https://github.com/yusufusta) | Yusuf Usta | Dubai, United Arab Emirates | 361 |
 
-Generated: 2026-10-19T06:08:03.011Z
+Generated: 2026-10-19T07:24:30.660Z
