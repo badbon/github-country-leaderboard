@@ -1,8 +1,8 @@
 # Public Contributions - North Macedonia
 
-Generated: 2026-10-19T16:27:22.074Z
+Generated: 2026-10-19T18:02:12.162Z
 
-Users: 1925
+Users: 1924
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|

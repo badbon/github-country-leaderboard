@@ -15,11 +15,11 @@ Indexed users: 298
 | 1 | [bruxx-6243](https://github.com/bruxx-6243) | Fariol Blondeau | Brazzaville - Congo | 11,559 |
 | 2 | [Athanaze](https://github.com/Athanaze) | Sacha Liechti | Congo | 7,827 |
 | 3 | [Saintrick-FM](https://github.com/Saintrick-FM) | Francy Saintrick Malonga | Congo Brazzaville | 4,081 |
-| 4 | [Codeur-Omniscient](https://github.com/Codeur-Omniscient) | Anthony Dorian | Brazzaville - Congo | 3,791 |
-| 5 | [chrismoussounda](https://github.com/chrismoussounda) | Christoffert Moussounda | Pointe-Noire, Congo | 3,784 |
-| 6 | [lepresk](https://github.com/lepresk) | Logan CodeMaker | Brazzaville, Congo | 3,737 |
-| 7 | [BlackAngel242](https://github.com/BlackAngel242) | DrSmoke | Congo | 3,714 |
-| 8 | [Flammeduciel](https://github.com/Flammeduciel) | Flamme Du Ciel WASS | Brazzaville CG | 3,034 |
+| 4 | [BlackAngel242](https://github.com/BlackAngel242) | DrSmoke | Congo | 3,963 |
+| 5 | [Codeur-Omniscient](https://github.com/Codeur-Omniscient) | Anthony Dorian | Brazzaville - Congo | 3,791 |
+| 6 | [chrismoussounda](https://github.com/chrismoussounda) | Christoffert Moussounda | Pointe-Noire, Congo | 3,784 |
+| 7 | [lepresk](https://github.com/lepresk) | Logan CodeMaker | Brazzaville, Congo | 3,737 |
+| 8 | [Flammeduciel](https://github.com/Flammeduciel) | Flamme Du Ciel WASS | Brazzaville CG | 3,068 |
 | 9 | [Justany](https://github.com/Justany) | Justany ITOUA | Brazzaville | 2,998 |
 | 10 | [OrionWambert](https://github.com/OrionWambert) | Orion WAMBERT | Brazzaville - Congo | 2,943 |
 | 11 | [Merite15](https://github.com/Merite15) | Merite | Brazzaville, Congo | 2,911 |
@@ -42,11 +42,11 @@ Indexed users: 298
 | 3 | [josuebrunel](https://github.com/josuebrunel) | Josue Kouka | Pointe-Noire (Congo) | 1,173 |
 | 4 | [Shadow8021](https://github.com/Shadow8021) | Red_Sh@dow | Congo, brazzaville | 1,070 |
 | 5 | [ksthecrowned](https://github.com/ksthecrowned) | Kaiser D. Styve | Brazzaville | 757 |
-| 6 | [Espoir-Loem](https://github.com/Espoir-Loem) | Espoir LOEMBA | R.Congo, Brazzaville | 614 |
-| 7 | [elongastarks](https://github.com/elongastarks) | Elonga Stark  | Congo/North-kivu/Butembo | 501 |
-| 8 | [SedeoLeos](https://github.com/SedeoLeos) | Slaega | Brazzaville congo | 451 |
-| 9 | [Flammeduciel](https://github.com/Flammeduciel) | Flamme Du Ciel WASS | Brazzaville CG | 385 |
-| 10 | [BlackAngel242](https://github.com/BlackAngel242) | DrSmoke | Congo | 370 |
+| 6 | [BlackAngel242](https://github.com/BlackAngel242) | DrSmoke | Congo | 617 |
+| 7 | [Espoir-Loem](https://github.com/Espoir-Loem) | Espoir LOEMBA | R.Congo, Brazzaville | 614 |
+| 8 | [elongastarks](https://github.com/elongastarks) | Elonga Stark  | Congo/North-kivu/Butembo | 501 |
+| 9 | [SedeoLeos](https://github.com/SedeoLeos) | Slaega | Brazzaville congo | 451 |
+| 10 | [Flammeduciel](https://github.com/Flammeduciel) | Flamme Du Ciel WASS | Brazzaville CG | 385 |
 | 11 | [lafondcodeur](https://github.com/lafondcodeur) | MACK LAFOND De Boumas | Brazzaville | 360 |
 | 12 | [denniskoech457](https://github.com/denniskoech457) | Extravaganza | Congo | 354 |
 | 13 | [leloeduk](https://github.com/leloeduk) | Lelo  | Congo | 316 |
@@ -83,4 +83,4 @@ Indexed users: 298
 | 19 | [Ssnnee](https://github.com/Ssnnee) | Samuel Nandi | Republic of the Congo | 26 |
 | 20 | [WinnersProx](https://github.com/WinnersProx) | Vainqueur Bihame | Kigali,Rwanda,Congo | 25 |
 
-Generated: 2026-10-19T16:34:47.173Z
+Generated: 2026-10-19T18:07:41.121Z

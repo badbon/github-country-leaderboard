@@ -47,7 +47,7 @@ Indexed users: 1,224
 | 8 | [camilamacedo86](https://github.com/camilamacedo86) | Camila Macedo | Malta | 2,984 |
 | 9 | [novatechflow](https://github.com/novatechflow) | Alexander Alten | Malta | 2,724 |
 | 10 | [zcourts](https://github.com/zcourts) | Courtney Robinson | London (UK), Łodz (Poland), Valletta (Malta) | 2,707 |
-| 11 | [arogan178](https://github.com/arogan178) | Andrea Bugeja | Malta | 2,562 |
+| 11 | [arogan178](https://github.com/arogan178) | Andrea Bugeja | Malta | 2,585 |
 | 12 | [stefanbuttigieg](https://github.com/stefanbuttigieg) | Stefan Buttigieg | Malta | 2,544 |
 | 13 | [ntulenev](https://github.com/ntulenev) | Nikita Tulenev | Malta | 2,499 |
 | 14 | [marian2js](https://github.com/marian2js) | Mariano Pardo | Malta | 2,336 |
@@ -83,4 +83,4 @@ Indexed users: 1,224
 | 19 | [mattcg](https://github.com/mattcg) | Matthew Caruana Galizia | Malta | 126 |
 | 20 | [CM2Walki](https://github.com/CM2Walki) | Walki | Malta | 118 |
 
-Generated: 2026-10-19T16:16:59.434Z
+Generated: 2026-10-19T17:50:51.151Z

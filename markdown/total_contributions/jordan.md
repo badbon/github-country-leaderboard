@@ -1,6 +1,6 @@
 # Total Contributions - Jordan
 
-Generated: 2026-10-19T16:08:19.238Z
+Generated: 2026-10-19T17:42:34.376Z
 
 Users: 4005
 
@@ -25,4 +25,4 @@ Users: 4005
 | 17 | [waleedyaseen](https://github.com/waleedyaseen) | Waleed Yaseen |  |  | Jordan, Amman | 5150 |
 | 18 | [OsamaShwman](https://github.com/OsamaShwman) | Osama Shoman | String Education |  | Jordan | 5122 |
 | 19 | [DefinetlyNotAI](https://github.com/DefinetlyNotAI) | Shahm Najeeb |  |  | Jordan, Amman | 5114 |
-| 20 | [shadiqaddoura](https://github.com/shadiqaddoura) | Shady Qaddoura | Software Engineer | QaddouraShady | Jordan | 4850 |
+| 20 | [Enadabuzaid](https://github.com/Enadabuzaid) | Enad Abuzaid | Enadstack | enad_15 | Amman, Jordan | 5104 |

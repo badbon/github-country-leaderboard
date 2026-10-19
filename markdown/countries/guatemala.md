@@ -20,10 +20,10 @@ Indexed users: 3,214
 | 6 | [oscarleonapp](https://github.com/oscarleonapp) | Oscar León | Guatemala | 9,523 |
 | 7 | [anndreloopez012](https://github.com/anndreloopez012) | Andre Lopez | Guatemala | 9,213 |
 | 8 | [kenny08gt](https://github.com/kenny08gt) | Alan Hurtarte | Guatemala city, Guatemala | 9,198 |
-| 9 | [DubAvenXP](https://github.com/DubAvenXP) | Alejandro Dubon | Guatemala | 8,675 |
-| 10 | [ehvidalp](https://github.com/ehvidalp) | Edward Vidal | Guatemala | 7,824 |
-| 11 | [alexmeji](https://github.com/alexmeji) | Alex Mejicanos | Guatemala | 7,422 |
-| 12 | [Charlisim](https://github.com/Charlisim) | Carlos Simon | Guatemala | 6,785 |
+| 9 | [Charlisim](https://github.com/Charlisim) | Carlos Simon | Guatemala | 8,843 |
+| 10 | [DubAvenXP](https://github.com/DubAvenXP) | Alejandro Dubon | Guatemala | 8,675 |
+| 11 | [ehvidalp](https://github.com/ehvidalp) | Edward Vidal | Guatemala | 7,824 |
+| 12 | [alexmeji](https://github.com/alexmeji) | Alex Mejicanos | Guatemala | 7,422 |
 | 13 | [GeorgeLBS1](https://github.com/GeorgeLBS1) | Jose Jorge Díaz | Guatemala | 6,725 |
 | 14 | [RudiksChess](https://github.com/RudiksChess) | Rudik Rompich | Guatemala City | 6,673 |
 | 15 | [edman-cota](https://github.com/edman-cota) | edmancota | Guatemala | 6,100 |
@@ -83,4 +83,4 @@ Indexed users: 3,214
 | 19 | [cms](https://github.com/cms) | Christian C. Salvadó | Guatemala | 117 |
 | 20 | [tian2992](https://github.com/tian2992) | Sebastian Oliva | Guatemala | 114 |
 
-Generated: 2026-10-19T16:00:27.538Z
+Generated: 2026-10-19T17:34:20.386Z

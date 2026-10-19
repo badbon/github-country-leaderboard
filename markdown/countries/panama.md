@@ -51,8 +51,8 @@ Indexed users: 1,070
 | 12 | [quantumquirkxyz](https://github.com/quantumquirkxyz) | Jhuomar Boskoll Quintero | Panama City, Panama | 1,341 |
 | 13 | [jaimelias](https://github.com/jaimelias) | Jaimelías | Panama City, Panama | 1,323 |
 | 14 | [kelvinhe04](https://github.com/kelvinhe04) | Kelvin He Wu | Panama | 1,181 |
-| 15 | [jquesada92](https://github.com/jquesada92) | Jose Quesada | Panama | 1,158 |
-| 16 | [neithanmo](https://github.com/neithanmo) | Natanael Mojica | Panama City, Panama | 1,158 |
+| 15 | [neithanmo](https://github.com/neithanmo) | Natanael Mojica | Panama City, Panama | 1,159 |
+| 16 | [jquesada92](https://github.com/jquesada92) | Jose Quesada | Panama | 1,158 |
 | 17 | [alexandermorales-dev](https://github.com/alexandermorales-dev) | Alexander Morales | Panama/Venezuela | 1,146 |
 | 18 | [ahmedrangel](https://github.com/ahmedrangel) | Ahmed Rangel | Panama | 1,138 |
 | 19 | [swlarot](https://github.com/swlarot) | José Luis González Montenegro | Panama | 1,008 |
@@ -83,4 +83,4 @@ Indexed users: 1,070
 | 19 | [Commandtechno](https://github.com/Commandtechno) | Techno | David, Panama | 49 |
 | 20 | [Iardo](https://github.com/Iardo) | Ivan Ramos | Panama | 47 |
 
-Generated: 2026-10-19T16:29:49.808Z
+Generated: 2026-10-19T18:05:15.450Z

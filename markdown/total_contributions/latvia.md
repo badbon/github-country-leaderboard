@@ -1,6 +1,6 @@
 # Total Contributions - Latvia
 
-Generated: 2026-10-19T16:11:39.041Z
+Generated: 2026-10-19T17:44:03.020Z
 
 Users: 3251
 
@@ -20,9 +20,9 @@ Users: 3251
 | 12 | [rabestro](https://github.com/rabestro) | Jegors Čemisovs | @evolution-gaming |  | Latvia | 9004 |
 | 13 | [skakri](https://github.com/skakri) | Kristaps Karlsons |  |  | Latvia | 8665 |
 | 14 | [a-sandris](https://github.com/a-sandris) |  |  |  | Latvia | 7855 |
-| 15 | [jecis-repos](https://github.com/jecis-repos) | Jecis |  | jecis_ | Latvia | 7539 |
-| 16 | [danielsbethers](https://github.com/danielsbethers) | Daniels Bethers | @request-lv |  | Riga, Latvia | 7122 |
-| 17 | [aivars](https://github.com/aivars) | Aivars |  | aivars_meijers | Latvia | 6930 |
-| 18 | [agubarev](https://github.com/agubarev) | Andrejs Gubarevs |  |  | Latvia, Riga | 6749 |
+| 15 | [agubarev](https://github.com/agubarev) | Andrey Gubarev |  |  | Latvia, Riga | 7855 |
+| 16 | [jecis-repos](https://github.com/jecis-repos) | Jecis |  | jecis_ | Latvia | 7539 |
+| 17 | [danielsbethers](https://github.com/danielsbethers) | Daniels Bethers | @request-lv |  | Riga, Latvia | 7122 |
+| 18 | [aivars](https://github.com/aivars) | Aivars |  | aivars_meijers | Latvia | 6930 |
 | 19 | [vitalijssilins](https://github.com/vitalijssilins) | Vitālijs Silins | Convershake |  | Latvia, Riga | 6694 |
 | 20 | [sansan](https://github.com/sansan) | Toms Veidemanis |  |  | Riga | 6604 |

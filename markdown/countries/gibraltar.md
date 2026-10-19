@@ -12,13 +12,13 @@ Indexed users: 93
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [Likeandfeel](https://github.com/Likeandfeel) |  | Gibraltar | 28,564 |
+| 1 | [Likeandfeel](https://github.com/Likeandfeel) |  | Gibraltar | 28,566 |
 | 2 | [miohtama](https://github.com/miohtama) | Mikko Ohtamaa | Gibraltar | 5,644 |
 | 3 | [Industrial](https://github.com/Industrial) | Tom Wieland | Gibraltar | 5,268 |
 | 4 | [marcoscholz](https://github.com/marcoscholz) | Marco Scholz | Gibraltar | 3,285 |
 | 5 | [dlicudi](https://github.com/dlicudi) | Duane Licudi | Gibraltar | 2,748 |
 | 6 | [Fenicio](https://github.com/Fenicio) | Guillermo G C | Gibraltar | 1,391 |
-| 7 | [ArmandasB](https://github.com/ArmandasB) | Armandas Bespalovas | Gibraltar, GI | 1,222 |
+| 7 | [ArmandasB](https://github.com/ArmandasB) | Armandas Bespalovas | Gibraltar, GI | 1,224 |
 | 8 | [llmora](https://github.com/llmora) | Lluis Mora | Gibraltar | 1,193 |
 | 9 | [ArtemSoldatkin](https://github.com/ArtemSoldatkin) | Artem Soldatkin | Gibraltar | 802 |
 | 10 | [sTevoFort](https://github.com/sTevoFort) | Stephen Fortunato | Gibraltar | 772 |
@@ -27,7 +27,7 @@ Indexed users: 93
 | 13 | [SGarcia96](https://github.com/SGarcia96) | SGarcia | Spain/Gibraltar | 596 |
 | 14 | [ajedrezpremium](https://github.com/ajedrezpremium) | Ajedrez Premium | GIBRALTAR | 553 |
 | 15 | [Vinnetou](https://github.com/Vinnetou) | Lukas Kloucek | Gibraltar | 520 |
-| 16 | [PeterKottas](https://github.com/PeterKottas) | Peter Kottas | Gibraltar | 467 |
+| 16 | [PeterKottas](https://github.com/PeterKottas) | Peter Kottas | Gibraltar | 476 |
 | 17 | [cdharris](https://github.com/cdharris) | Chris Harris | Berlin / Europe / Gibraltar | 412 |
 | 18 | [VladimirHumeniuk](https://github.com/VladimirHumeniuk) | vhmnk | Gibraltar | 406 |
 | 19 | [thebaubau](https://github.com/thebaubau) | Daniel Fintinariu | Gibraltar | 331 |
@@ -54,7 +54,7 @@ Indexed users: 93
 | 15 | [vizcosity](https://github.com/vizcosity) | Aaron Baw | Gibraltar | 46 |
 | 16 | [datsimon-design](https://github.com/datsimon-design) | Simon Gendrisch | Gibraltar | 45 |
 | 17 | [thebaubau](https://github.com/thebaubau) | Daniel Fintinariu | Gibraltar | 41 |
-| 18 | [nats12](https://github.com/nats12) | Natalie Mclaren | Gibraltar | 39 |
+| 18 | [nats12](https://github.com/nats12) | Natalie Mclaren | Gibraltar | 40 |
 | 19 | [jonathanpennell](https://github.com/jonathanpennell) | Jonathan Pennell | Gibraltar | 37 |
 | 20 | [RJHug00](https://github.com/RJHug00) | Randy H | Gibraltar, PA, USA | 37 |
 
@@ -83,4 +83,4 @@ Indexed users: 93
 | 19 | [vfiodor](https://github.com/vfiodor) | Fiodor Veresciaka | Gibraltar | 13 |
 | 20 | [VPSServerCom](https://github.com/VPSServerCom) | VPS Server | Gibraltar | 13 |
 
-Generated: 2026-10-19T15:57:23.498Z
+Generated: 2026-10-19T17:31:40.036Z

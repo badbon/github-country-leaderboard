@@ -1,6 +1,6 @@
 # Public Contributions - Panama
 
-Generated: 2026-10-19T16:29:49.808Z
+Generated: 2026-10-19T18:05:15.450Z
 
 Users: 1070
 
@@ -20,8 +20,8 @@ Users: 1070
 | 12 | [quantumquirkxyz](https://github.com/quantumquirkxyz) | Jhuomar Boskoll Quintero | @InitiumLab | quantumquirkxyz | Panama City, Panama | 1341 |
 | 13 | [jaimelias](https://github.com/jaimelias) | Jaimelías | Jaimelías | jaimepanama | Panama City, Panama | 1323 |
 | 14 | [kelvinhe04](https://github.com/kelvinhe04) | Kelvin He Wu |  |  | Panama | 1181 |
-| 15 | [jquesada92](https://github.com/jquesada92) | Jose Quesada | CGI |  | Panama | 1158 |
-| 16 | [neithanmo](https://github.com/neithanmo) | Natanael Mojica | Semiotic AI |  | Panama City, Panama | 1158 |
+| 15 | [neithanmo](https://github.com/neithanmo) | Natanael Mojica | Semiotic AI |  | Panama City, Panama | 1159 |
+| 16 | [jquesada92](https://github.com/jquesada92) | Jose Quesada | CGI |  | Panama | 1158 |
 | 17 | [alexandermorales-dev](https://github.com/alexandermorales-dev) | Alexander Morales | Full-Stack Software Developer |  | Panama/Venezuela | 1146 |
 | 18 | [ahmedrangel](https://github.com/ahmedrangel) | Ahmed Rangel | Toyota \| Ricardo Perez S.A. |  | Panama | 1138 |
 | 19 | [swlarot](https://github.com/swlarot) | José Luis González Montenegro | Vorluno |  | Panama | 1008 |

@@ -19,7 +19,7 @@ Indexed users: 1,579
 | 5 | [tylerelias](https://github.com/tylerelias) | Tyler | Iceland | 14,782 |
 | 6 | [valurhrafn](https://github.com/valurhrafn) | Valur Hrafn Einarsson | Reykjavík, Iceland | 13,646 |
 | 7 | [asgeirtj](https://github.com/asgeirtj) | Ásgeir Thor Johnson | Iceland | 12,951 |
-| 8 | [Chipcius](https://github.com/Chipcius) | Andri Thorlacius | Reykjavik, Iceland | 12,229 |
+| 8 | [Chipcius](https://github.com/Chipcius) | Andri Thorlacius | Reykjavik, Iceland | 12,623 |
 | 9 | [bgunnarsson](https://github.com/bgunnarsson) | B. Gunnarsson | Iceland | 11,601 |
 | 10 | [DavidBachmann](https://github.com/DavidBachmann) | Davíð Bachmann | Iceland | 9,699 |
 | 11 | [sandsower](https://github.com/sandsower) | Vic Valenzuela | Reykjavík, Iceland | 9,507 |
@@ -83,4 +83,4 @@ Indexed users: 1,579
 | 19 | [jokull](https://github.com/jokull) | Jökull Sólberg Auðunsson | Reykjavík, Iceland | 209 |
 | 20 | [kevien](https://github.com/kevien) | K3vin | iceland | 204 |
 
-Generated: 2026-10-19T16:03:25.059Z
+Generated: 2026-10-19T17:38:51.622Z

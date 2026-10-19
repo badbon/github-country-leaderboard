@@ -1,6 +1,6 @@
 # Public Contributions - North Korea
 
-Generated: 2026-10-19T16:27:16.488Z
+Generated: 2026-10-19T18:01:30.874Z
 
 Users: 185
 
@@ -22,7 +22,7 @@ Users: 185
 | 14 | [l1vstudios](https://github.com/l1vstudios) | L1V |  |  | North Korea | 184 |
 | 15 | [VisionVerse](https://github.com/VisionVerse) | Vision Verse |  |  | North Korea | 174 |
 | 16 | [vega-holdings](https://github.com/vega-holdings) | Vega | CGIC | vega_holdings | Pyongyang | 137 |
-| 17 | [lavrentious](https://github.com/lavrentious) | lavrent | ITMO University |  | Democratic People's Republic of Korea | 105 |
-| 18 | [lilac1337](https://github.com/lilac1337) | Vera Lovelace |  |  | Pyongyang, Democrat People's Republic of Korea | 95 |
-| 19 | [stevboiii](https://github.com/stevboiii) | callisto |  |  | pyongyang | 86 |
-| 20 | [1zumiSagiri](https://github.com/1zumiSagiri) | Vincent Chan |  |  | Pyongyang | 82 |
+| 17 | [l0ji](https://github.com/l0ji) | penny |  |  | Pyongyang | 133 |
+| 18 | [lavrentious](https://github.com/lavrentious) | lavrent | ITMO University |  | Democratic People's Republic of Korea | 105 |
+| 19 | [lilac1337](https://github.com/lilac1337) | Vera Lovelace |  |  | Pyongyang, Democrat People's Republic of Korea | 95 |
+| 20 | [stevboiii](https://github.com/stevboiii) | callisto |  |  | pyongyang | 86 |

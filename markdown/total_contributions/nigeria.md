@@ -1,8 +1,8 @@
 # Total Contributions - Nigeria
 
-Generated: 2026-10-19T16:26:04.465Z
+Generated: 2026-10-19T17:59:59.845Z
 
-Users: 33183
+Users: 33181
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

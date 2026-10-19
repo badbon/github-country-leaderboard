@@ -1,6 +1,6 @@
 # Total Contributions - Guatemala
 
-Generated: 2026-10-19T16:00:27.538Z
+Generated: 2026-10-19T17:34:20.386Z
 
 Users: 3214
 
@@ -14,10 +14,10 @@ Users: 3214
 | 6 | [oscarleonapp](https://github.com/oscarleonapp) | Oscar León | OSCARLEON |  | Guatemala | 9523 |
 | 7 | [anndreloopez012](https://github.com/anndreloopez012) | Andre Lopez | ALCORE |  | Guatemala | 9213 |
 | 8 | [kenny08gt](https://github.com/kenny08gt) | Alan Hurtarte |  | alanhurtarte | Guatemala city, Guatemala | 9198 |
-| 9 | [DubAvenXP](https://github.com/DubAvenXP) | Alejandro Dubon | Recorrido.cl | DubonAlejandro | Guatemala | 8675 |
-| 10 | [ehvidalp](https://github.com/ehvidalp) | Edward Vidal |  | ehvidalp | Guatemala | 7824 |
-| 11 | [alexmeji](https://github.com/alexmeji) | Alex Mejicanos |  | alex_mejicanos | Guatemala | 7422 |
-| 12 | [Charlisim](https://github.com/Charlisim) | Carlos Simon |  |  | Guatemala | 6785 |
+| 9 | [Charlisim](https://github.com/Charlisim) | Carlos Simon |  |  | Guatemala | 8843 |
+| 10 | [DubAvenXP](https://github.com/DubAvenXP) | Alejandro Dubon | Recorrido.cl | DubonAlejandro | Guatemala | 8675 |
+| 11 | [ehvidalp](https://github.com/ehvidalp) | Edward Vidal |  | ehvidalp | Guatemala | 7824 |
+| 12 | [alexmeji](https://github.com/alexmeji) | Alex Mejicanos |  | alex_mejicanos | Guatemala | 7422 |
 | 13 | [GeorgeLBS1](https://github.com/GeorgeLBS1) | Jose Jorge Díaz |  | JoseJorge_Diaz | Guatemala | 6725 |
 | 14 | [RudiksChess](https://github.com/RudiksChess) | Rudik Rompich | Cinco Innovative Solutions LLC | TheRudiks | Guatemala City | 6673 |
 | 15 | [edman-cota](https://github.com/edman-cota) | edmancota | Universidad del Valle de Guatemala |  | Guatemala | 6100 |

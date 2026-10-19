@@ -12,10 +12,10 @@ Indexed users: 185
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [Kim9wang](https://github.com/Kim9wang) | Kim Wang | Pyongyang | 5,956 |
+| 1 | [Kim9wang](https://github.com/Kim9wang) | Kim Wang | Pyongyang | 5,978 |
 | 2 | [advanced-rising](https://github.com/advanced-rising) | risingcore | Democratic People's Republic of Korea | 5,182 |
 | 3 | [boyesjo](https://github.com/boyesjo) | Boye Sjo | pyongyang | 4,401 |
-| 4 | [henxdl](https://github.com/henxdl) | henxdl | Pyongyang, North Korea | 2,546 |
+| 4 | [henxdl](https://github.com/henxdl) | henxdl | Pyongyang, North Korea | 3,014 |
 | 5 | [sakweli](https://github.com/sakweli) | Josh Sakweli | North Korea | 2,429 |
 | 6 | [andrewlee1807](https://github.com/andrewlee1807) | Andrew | North Korea | 1,545 |
 | 7 | [The-Red-Serpent](https://github.com/The-Red-Serpent) | The_Red_Serpent | Pyongyang, North Korea | 1,295 |
@@ -53,10 +53,10 @@ Indexed users: 185
 | 14 | [l1vstudios](https://github.com/l1vstudios) | L1V | North Korea | 184 |
 | 15 | [VisionVerse](https://github.com/VisionVerse) | Vision Verse | North Korea | 174 |
 | 16 | [vega-holdings](https://github.com/vega-holdings) | Vega | Pyongyang | 137 |
-| 17 | [lavrentious](https://github.com/lavrentious) | lavrent | Democratic People's Republic of Korea | 105 |
-| 18 | [lilac1337](https://github.com/lilac1337) | Vera Lovelace | Pyongyang, Democrat People's Republic of Korea | 95 |
-| 19 | [stevboiii](https://github.com/stevboiii) | callisto | pyongyang | 86 |
-| 20 | [1zumiSagiri](https://github.com/1zumiSagiri) | Vincent Chan | Pyongyang | 82 |
+| 17 | [l0ji](https://github.com/l0ji) | penny | Pyongyang | 133 |
+| 18 | [lavrentious](https://github.com/lavrentious) | lavrent | Democratic People's Republic of Korea | 105 |
+| 19 | [lilac1337](https://github.com/lilac1337) | Vera Lovelace | Pyongyang, Democrat People's Republic of Korea | 95 |
+| 20 | [stevboiii](https://github.com/stevboiii) | callisto | pyongyang | 86 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 185
 | 19 | [DillerOFire](https://github.com/DillerOFire) | VerpaSRP | North Korea | 14 |
 | 20 | [JeonJung-kook](https://github.com/JeonJung-kook) | Jeon Jung-kook Cantor | North Korea | 14 |
 
-Generated: 2026-10-19T16:27:16.488Z
+Generated: 2026-10-19T18:01:30.874Z

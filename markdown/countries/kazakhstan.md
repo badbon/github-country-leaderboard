@@ -50,7 +50,7 @@ Indexed users: 5,628
 | 11 | [Islombek-stack](https://github.com/Islombek-stack) | Islombek Abilbekov | Kazakhstan | 2,861 |
 | 12 | [yelmuratoff](https://github.com/yelmuratoff) | Yelaman Yelmurat | Kazakhstan | 2,839 |
 | 13 | [SapphoSys](https://github.com/SapphoSys) | Chloe | Almaty, Kazakhstan | 2,680 |
-| 14 | [MDI74](https://github.com/MDI74) | Dmitriy Myakotin | Kazakhstan, Astana | 2,672 |
+| 14 | [MDI74](https://github.com/MDI74) | Dmitriy Myakotin | Kazakhstan, Astana | 2,612 |
 | 15 | [Kaiyrkhan](https://github.com/Kaiyrkhan) | Kaiyrkhan Mukapil | Almaty, Qazaqstan | 2,232 |
 | 16 | [atlet99](https://github.com/atlet99) | Abdurakhman Rakhmankulov | Shymkent, Kazakhstan | 2,099 |
 | 17 | [maximgorbatyuk](https://github.com/maximgorbatyuk) | Maxim Gorbatyuk | Kazakhstan | 2,049 |
@@ -83,4 +83,4 @@ Indexed users: 5,628
 | 19 | [aidarnouman](https://github.com/aidarnouman) | Aidar Nouman | Almaty, Kazakhstan | 303 |
 | 20 | [azamxvit](https://github.com/azamxvit) | Azamat | Kazakhstan, Atyrau | 295 |
 
-Generated: 2026-10-19T16:08:56.195Z
+Generated: 2026-10-19T17:42:39.065Z

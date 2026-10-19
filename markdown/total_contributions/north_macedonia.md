@@ -1,8 +1,8 @@
 # Total Contributions - North Macedonia
 
-Generated: 2026-10-19T16:27:22.074Z
+Generated: 2026-10-19T18:02:12.162Z
 
-Users: 1925
+Users: 1924
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -24,5 +24,5 @@ Users: 1925
 | 16 | [nikola-n](https://github.com/nikola-n) | Nikola | @CircleLinkHealth | nikola_najdov | Veles, Macedonia | 4049 |
 | 17 | [vetonshabani0](https://github.com/vetonshabani0) | Veton Shabani |  |  | Skopje | 4037 |
 | 18 | [andreyagovski](https://github.com/andreyagovski) | Andrey |  |  | Macedonia | 3997 |
-| 19 | [M9Mike](https://github.com/M9Mike) | Mihail Veljanoski |  |  | Skopje, Macedonia | 3747 |
+| 19 | [M9Mike](https://github.com/M9Mike) | Mihail Veljanoski |  |  | Skopje, Macedonia | 3657 |
 | 20 | [deko96](https://github.com/deko96) | Dejan Bozhinoski | Intertec.io |  | Skopje, Macedonia | 3635 |

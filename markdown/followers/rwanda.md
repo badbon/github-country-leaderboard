@@ -1,6 +1,6 @@
 # Followers - Rwanda
 
-Generated: 2026-10-19T16:34:59.922Z
+Generated: 2026-10-19T18:08:32.722Z
 
 Users: 3503
 

@@ -16,13 +16,13 @@ Indexed users: 354
 | 2 | [hilarl](https://github.com/hilarl) | Hilal Agil | Male', Maldives | 10,802 |
 | 3 | [fauzaanu](https://github.com/fauzaanu) | Fauzaan Gasim | Maldives | 8,709 |
 | 4 | [mnazaal](https://github.com/mnazaal) | Nazaal | Maldives | 8,484 |
-| 5 | [mohamed-aiman](https://github.com/mohamed-aiman) | Mohamed Aiman | Maldives | 7,193 |
-| 6 | [nullptrz](https://github.com/nullptrz) | Ali Ahsan Saeed | Maldives | 7,046 |
+| 5 | [nullptrz](https://github.com/nullptrz) | Ali Ahsan Saeed | Maldives | 7,203 |
+| 6 | [mohamed-aiman](https://github.com/mohamed-aiman) | Mohamed Aiman | Maldives | 7,193 |
 | 7 | [lishaan](https://github.com/lishaan) | Lishan | Malé, Maldives | 6,824 |
 | 8 | [hailam](https://github.com/hailam) | Mohamed Hailam Ahmed | Male`, Maldives | 6,179 |
 | 9 | [ajaaibu](https://github.com/ajaaibu) | Ahmed Ali | Maldives | 5,756 |
 | 10 | [hashes02](https://github.com/hashes02) | HASHES | Maldives | 5,662 |
-| 11 | [maldivien](https://github.com/maldivien) | Ahmed Shareef | Maldives | 5,401 |
+| 11 | [maldivien](https://github.com/maldivien) | Ahmed Shareef | Maldives | 5,394 |
 | 12 | [agent306](https://github.com/agent306) | Ncodex | Male', Maldives | 5,276 |
 | 13 | [jaaahh](https://github.com/jaaahh) | Jaah | Maldives | 5,023 |
 | 14 | [ayarse](https://github.com/ayarse) | ayaz | Maldives | 4,966 |
@@ -67,7 +67,7 @@ Indexed users: 354
 | 3 | [Samooh-9820060](https://github.com/Samooh-9820060) | Samooh Moosa | Maldives | 130 |
 | 4 | [boring-dragon](https://github.com/boring-dragon) | Boring Dragon | Maldives | 124 |
 | 5 | [reallynattu](https://github.com/reallynattu) | Nattu Adnan | Maldives | 117 |
-| 6 | [eyaadh](https://github.com/eyaadh) | eyaadh | Maldives | 101 |
+| 6 | [eyaadh](https://github.com/eyaadh) | eyaadh | Maldives | 100 |
 | 7 | [raftalks](https://github.com/raftalks) | Raf | Maldives | 89 |
 | 8 | [fauzaanu](https://github.com/fauzaanu) | Fauzaan Gasim | Maldives | 83 |
 | 9 | [aharen](https://github.com/aharen) | Ahmed Khusaam | Malé, Maldives | 79 |
@@ -83,4 +83,4 @@ Indexed users: 354
 | 19 | [muhannad0](https://github.com/muhannad0) | Monde | Maldives | 42 |
 | 20 | [inash](https://github.com/inash) | Inash Zubair | Male', Maldives | 41 |
 
-Generated: 2026-10-19T16:15:41.834Z
+Generated: 2026-10-19T17:49:31.226Z

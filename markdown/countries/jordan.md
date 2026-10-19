@@ -31,7 +31,7 @@ Indexed users: 4,005
 | 17 | [waleedyaseen](https://github.com/waleedyaseen) | Waleed Yaseen | Jordan, Amman | 5,150 |
 | 18 | [OsamaShwman](https://github.com/OsamaShwman) | Osama Shoman | Jordan | 5,122 |
 | 19 | [DefinetlyNotAI](https://github.com/DefinetlyNotAI) | Shahm Najeeb | Jordan, Amman | 5,114 |
-| 20 | [shadiqaddoura](https://github.com/shadiqaddoura) | Shady Qaddoura | Jordan | 4,850 |
+| 20 | [Enadabuzaid](https://github.com/Enadabuzaid) | Enad Abuzaid | Amman, Jordan | 5,104 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 4,005
 | 19 | [Eng-Mohamed-Elsayed](https://github.com/Eng-Mohamed-Elsayed) | Eng-Mohamed Elsayed | Jordan | 197 |
 | 20 | [omar-dulaimi](https://github.com/omar-dulaimi) | Omar Dulaimi | Jordan | 192 |
 
-Generated: 2026-10-19T16:08:19.238Z
+Generated: 2026-10-19T17:42:34.376Z

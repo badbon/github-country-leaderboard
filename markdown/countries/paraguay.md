@@ -52,11 +52,11 @@ Indexed users: 2,014
 | 13 | [oscar0pavon](https://github.com/oscar0pavon) | Oscar Pavon | Paraguay | 1,269 |
 | 14 | [nikdim03](https://github.com/nikdim03) | Dmitrii Nikulin | Paraguay | 1,266 |
 | 15 | [m2f0](https://github.com/m2f0) | Mario Mayerle | Paraguay/USA | 1,086 |
-| 16 | [cardozoaldama](https://github.com/cardozoaldama) | Fernando Cardozo | Paraguay | 980 |
-| 17 | [Renetrox](https://github.com/Renetrox) | Dino René Caballero Marquez | Paraguay | 971 |
-| 18 | [janparkio](https://github.com/janparkio) | Jan Park | Paraguay | 966 |
-| 19 | [matiasinsaurralde](https://github.com/matiasinsaurralde) | Matías Insaurralde | Paraguay | 931 |
-| 20 | [agp-l](https://github.com/agp-l) | AGP[L] | Paraguay | 920 |
+| 16 | [Renetrox](https://github.com/Renetrox) | Dino René Caballero Marquez | Paraguay | 971 |
+| 17 | [janparkio](https://github.com/janparkio) | Jan Park | Paraguay | 966 |
+| 18 | [matiasinsaurralde](https://github.com/matiasinsaurralde) | Matías Insaurralde | Paraguay | 931 |
+| 19 | [agp-l](https://github.com/agp-l) | AGP[L] | Paraguay | 920 |
+| 20 | [da21nny](https://github.com/da21nny) | Edgar Vega | Paraguay | 906 |
 
 ## Followers
 
@@ -65,8 +65,8 @@ Indexed users: 2,014
 | 1 | [matiasinsaurralde](https://github.com/matiasinsaurralde) | Matías Insaurralde | Paraguay | 2,054 |
 | 2 | [biagiola](https://github.com/biagiola) | David Biagiola | Asunción | 592 |
 | 3 | [lexzer42](https://github.com/lexzer42) | Oscar Rojas | Asunción, Paraguay | 526 |
-| 4 | [melizeche](https://github.com/melizeche) | Marcelo Elizeche Landó | Paraguay | 389 |
-| 5 | [blaszorrilla](https://github.com/blaszorrilla) | Blas Zorrilla | Paraguay | 387 |
+| 4 | [blaszorrilla](https://github.com/blaszorrilla) | Blas Zorrilla | Paraguay | 402 |
+| 5 | [melizeche](https://github.com/melizeche) | Marcelo Elizeche Landó | Paraguay | 389 |
 | 6 | [tchx84](https://github.com/tchx84) | Martin Abente Lahaye | Paraguay | 264 |
 | 7 | [Tom5521](https://github.com/Tom5521) | Tom | Paraguay | 233 |
 | 8 | [nemesiscodex](https://github.com/nemesiscodex) | Julio Daniel Reyes | Paraguay | 209 |
@@ -77,10 +77,10 @@ Indexed users: 2,014
 | 13 | [pablo](https://github.com/pablo) | Pablo Santa Cruz | Asunción, Paraguay | 151 |
 | 14 | [WilliBobadilla](https://github.com/WilliBobadilla) | Williams Ismael Bobadilla Torres  | Paraguay | 136 |
 | 15 | [ramirezsebas](https://github.com/ramirezsebas) | Matias Sebastian Ramirez Brizuela | Fernando de la Mora, Central, Paraguay | 129 |
-| 16 | [cardozoaldama](https://github.com/cardozoaldama) | Fernando Cardozo | Paraguay | 125 |
+| 16 | [cardozoaldama](https://github.com/cardozoaldama) | Fernando Cardozo | Paraguay | 124 |
 | 17 | [ivankoop](https://github.com/ivankoop) | Ivan Koop  | Asunción, Paraguay | 116 |
 | 18 | [leodufer](https://github.com/leodufer) | Oscar Duarte | Ciudad del Este,  Paraguay | 116 |
 | 19 | [metakeule](https://github.com/metakeule) | metakeule | Asunción / Paraguay | 109 |
 | 20 | [replay](https://github.com/replay) | Mauro Stettler | Asuncion, Paraguay | 105 |
 
-Generated: 2026-10-19T16:30:36.778Z
+Generated: 2026-10-19T18:05:25.113Z

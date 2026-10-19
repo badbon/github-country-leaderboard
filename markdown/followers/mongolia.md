@@ -1,12 +1,12 @@
 # Followers - Mongolia
 
-Generated: 2026-10-19T16:20:25.916Z
+Generated: 2026-10-19T17:53:25.276Z
 
 Users: 805
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [tortuvshin](https://github.com/tortuvshin) | Turtuvshin Byambaa |  |  | Mongolia | 1663 |
+| 1 | [tortuvshin](https://github.com/tortuvshin) | Turtuvshin Byambaa |  |  | Mongolia | 1666 |
 | 2 | [doljko](https://github.com/doljko) | Enkhbayar Doljinsuren | @fleetbase |  | Ulaanbaatar, Mongolia | 509 |
 | 3 | [dulmandakh](https://github.com/dulmandakh) | Dulmandakh |  |  | Ulaanbaatar, Mongolia | 270 |
 | 4 | [bilguunint](https://github.com/bilguunint) | Bilguun Nyamlhagva | @homepage-listly  |  | Mongolia | 242 |

@@ -14,7 +14,7 @@ Indexed users: 805
 |---:|---|---|---|---:|
 | 1 | [themuuln](https://github.com/themuuln) | themuuln | Ulaanbaatar, Mongolia | 562,764 |
 | 2 | [ByamB4](https://github.com/ByamB4) | Byambadalai Sumiya | Ulaanbaatar, Mongolia | 93,977 |
-| 3 | [tortuvshin](https://github.com/tortuvshin) | Turtuvshin Byambaa | Mongolia | 18,202 |
+| 3 | [tortuvshin](https://github.com/tortuvshin) | Turtuvshin Byambaa | Mongolia | 18,318 |
 | 4 | [ganbold](https://github.com/ganbold) | Ganbold | Ulaanbaatar, Mongolia | 12,148 |
 | 5 | [baysaa006](https://github.com/baysaa006) |  | Mongolia. | 11,207 |
 | 6 | [Amartuvshins0404](https://github.com/Amartuvshins0404) | Amartuvshin Surenjav | Ulaanbaatar, Mongolia | 10,822 |
@@ -37,7 +37,7 @@ Indexed users: 805
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [tortuvshin](https://github.com/tortuvshin) | Turtuvshin Byambaa | Mongolia | 2,915 |
+| 1 | [tortuvshin](https://github.com/tortuvshin) | Turtuvshin Byambaa | Mongolia | 2,939 |
 | 2 | [BeBecpp](https://github.com/BeBecpp) | Nero | Mongolia, Darkhan | 1,230 |
 | 3 | [Temuujinhub](https://github.com/Temuujinhub) | Temuujin | Mongolia | 1,111 |
 | 4 | [Ericwasepic127](https://github.com/Ericwasepic127) | Erkhembayr Batjargal | Ulaanbaatar, Mongolia | 1,024 |
@@ -62,7 +62,7 @@ Indexed users: 805
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [tortuvshin](https://github.com/tortuvshin) | Turtuvshin Byambaa | Mongolia | 1,663 |
+| 1 | [tortuvshin](https://github.com/tortuvshin) | Turtuvshin Byambaa | Mongolia | 1,666 |
 | 2 | [doljko](https://github.com/doljko) | Enkhbayar Doljinsuren | Ulaanbaatar, Mongolia | 509 |
 | 3 | [dulmandakh](https://github.com/dulmandakh) | Dulmandakh | Ulaanbaatar, Mongolia | 270 |
 | 4 | [bilguunint](https://github.com/bilguunint) | Bilguun Nyamlhagva | Mongolia | 242 |
@@ -83,4 +83,4 @@ Indexed users: 805
 | 19 | [munkhjin0223](https://github.com/munkhjin0223) | Munkhjin | Ulaanbaatar, Mongolia | 64 |
 | 20 | [temuulennibno](https://github.com/temuulennibno) | Temuulen | Ulaanbaatar, Mongolia | 55 |
 
-Generated: 2026-10-19T16:20:25.916Z
+Generated: 2026-10-19T17:53:25.276Z

@@ -26,10 +26,10 @@ Indexed users: 3,251
 | 12 | [rabestro](https://github.com/rabestro) | Jegors Čemisovs | Latvia | 9,004 |
 | 13 | [skakri](https://github.com/skakri) | Kristaps Karlsons | Latvia | 8,665 |
 | 14 | [a-sandris](https://github.com/a-sandris) |  | Latvia | 7,855 |
-| 15 | [jecis-repos](https://github.com/jecis-repos) | Jecis | Latvia | 7,539 |
-| 16 | [danielsbethers](https://github.com/danielsbethers) | Daniels Bethers | Riga, Latvia | 7,122 |
-| 17 | [aivars](https://github.com/aivars) | Aivars | Latvia | 6,930 |
-| 18 | [agubarev](https://github.com/agubarev) | Andrejs Gubarevs | Latvia, Riga | 6,749 |
+| 15 | [agubarev](https://github.com/agubarev) | Andrey Gubarev | Latvia, Riga | 7,855 |
+| 16 | [jecis-repos](https://github.com/jecis-repos) | Jecis | Latvia | 7,539 |
+| 17 | [danielsbethers](https://github.com/danielsbethers) | Daniels Bethers | Riga, Latvia | 7,122 |
+| 18 | [aivars](https://github.com/aivars) | Aivars | Latvia | 6,930 |
 | 19 | [vitalijssilins](https://github.com/vitalijssilins) | Vitālijs Silins | Latvia, Riga | 6,694 |
 | 20 | [sansan](https://github.com/sansan) | Toms Veidemanis | Riga | 6,604 |
 
@@ -83,4 +83,4 @@ Indexed users: 3,251
 | 19 | [0ki](https://github.com/0ki) | Кirils Sоlovjоvs | Latvia | 224 |
 | 20 | [LatvianModder](https://github.com/LatvianModder) | Kristiāns Micītis | Latvia | 221 |
 
-Generated: 2026-10-19T16:11:39.041Z
+Generated: 2026-10-19T17:44:03.020Z

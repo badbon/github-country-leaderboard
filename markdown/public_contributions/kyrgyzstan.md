@@ -1,6 +1,6 @@
 # Public Contributions - Kyrgyzstan
 
-Generated: 2026-10-19T16:10:52.409Z
+Generated: 2026-10-19T17:43:28.485Z
 
 Users: 2440
 
@@ -22,7 +22,7 @@ Users: 2440
 | 14 | [teimurjan](https://github.com/teimurjan) | Teimur Gasanov | @SpeechifyInc | teimurjan | Bishkek, Kyrgyzstan | 1140 |
 | 15 | [isko18](https://github.com/isko18) | islam | Geeks  |  | Kyrgyzstan, Osh | 1064 |
 | 16 | [ArzubekDev](https://github.com/ArzubekDev) | Arzubek | Yldam market |  | Bishkek | 1025 |
-| 17 | [dioritdev](https://github.com/dioritdev) | DIOR | prolab |  | Kyrgyzstan/Osh | 978 |
-| 18 | [er-Bilim](https://github.com/er-Bilim) | notesoat | international university  |  | Bishkek, Kyrgyzstan | 971 |
+| 17 | [er-Bilim](https://github.com/er-Bilim) | notesoat | international university  |  | Bishkek, Kyrgyzstan | 971 |
+| 18 | [dioritdev](https://github.com/dioritdev) | DIOR | prolab |  | Kyrgyzstan/Osh | 967 |
 | 19 | [daniyarchambylov](https://github.com/daniyarchambylov) | Daniyar Chambylov |  |  | Bishkek, Kyrgyzstan | 947 |
 | 20 | [salievyt](https://github.com/salievyt) | sm1le | @DEO-CORE |  | Kyrgyzstan | 921 |

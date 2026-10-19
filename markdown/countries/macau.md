@@ -76,11 +76,11 @@ Indexed users: 439
 | 12 | [makzan](https://github.com/makzan) | Thomas Seng Hin Mak | Macao | 110 |
 | 13 | [mengguyi](https://github.com/mengguyi) | 孟古一 | Macau | 105 |
 | 14 | [wahengchang](https://github.com/wahengchang) | peterchang | macau | 100 |
-| 15 | [laochonlam](https://github.com/laochonlam) | Chon Lam Lao | Macau | 93 |
-| 16 | [zhiyzuo](https://github.com/zhiyzuo) | Zhiya Zuo | Macau | 93 |
+| 15 | [zhiyzuo](https://github.com/zhiyzuo) | Zhiya Zuo | Macau | 93 |
+| 16 | [laochonlam](https://github.com/laochonlam) | Chon Lam Lao | Macau | 92 |
 | 17 | [walkdoer](https://github.com/walkdoer) | Andrew Cheong | Macau | 83 |
 | 18 | [mugpeng](https://github.com/mugpeng) | Peng | macao | 69 |
 | 19 | [1595901624](https://github.com/1595901624) | Cloris | Macau | 68 |
 | 20 | [Boom5426](https://github.com/Boom5426) | Bo li (李波) | Macau | 68 |
 
-Generated: 2026-10-19T16:14:24.720Z
+Generated: 2026-10-19T17:47:54.008Z
