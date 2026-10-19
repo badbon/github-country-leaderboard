@@ -35058,7 +35058,7 @@
     "location": "Saudi Arabia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-12-14T12:05:39Z"
@@ -35083,8 +35083,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1018,
-    "publicContributions": 3,
+    "privateContributions": 1511,
+    "publicContributions": 0,
     "createdAt": "2021-08-02T07:48:15Z"
   },
   {
@@ -35102,7 +35102,7 @@
   {
     "login": "ZiyadMousa-99",
     "name": "Ziyad Mousa",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/78274302?s=72&u=8b53a409c5985c39c5b885864b5b9cbea13a830d&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/78274302?s=72&v=4",
     "location": "Saudi Arabia (Riyadh)",
     "company": "PSDSARC",
     "twitterUsername": "",
@@ -35118,7 +35118,7 @@
     "location": "Saudi Arabia, Jeddah",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-05-30T03:58:45Z"
@@ -35180,7 +35180,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 46,
+    "publicContributions": 54,
     "createdAt": "2021-11-22T23:05:23Z"
   },
   {
@@ -35196,27 +35196,15 @@
     "createdAt": "2021-03-31T20:50:47Z"
   },
   {
-    "login": "Anfal-M",
-    "name": "Anfal Muaz Muhammad",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/95350495?s=72&v=4",
-    "location": "Saudi Arabia",
-    "company": "Student",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2021-12-01T11:05:17Z"
-  },
-  {
     "login": "mshraky3",
-    "name": "mahmod al-sharaky",
+    "name": "Mahmoud Alshraky",
     "avatarUrl": "https://avatars.githubusercontent.com/u/93828510?s=72&u=4db62bd5f8111a7feccbe6b4714144140fe7c8aa&v=4",
-    "location": "Saudi Arabia ",
+    "location": "Qassim, Saudi Arabia",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1391,
+    "publicContributions": 1500,
     "createdAt": "2021-11-06T13:53:47Z"
   },
   {
@@ -35256,27 +35244,15 @@
     "createdAt": "2020-12-30T00:34:21Z"
   },
   {
-    "login": "x1337devil",
-    "name": "MUHANNAD ABDULLAH",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/91117869?s=72&u=99843e92c0411d1f150ca366c0869378ec458ca0&v=4",
-    "location": "Saudi Arabia",
-    "company": "",
-    "twitterUsername": "iir00t",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2021-09-21T07:44:55Z"
-  },
-  {
     "login": "devabady",
     "name": "Shooting starts",
     "avatarUrl": "https://avatars.githubusercontent.com/u/84203457?s=72&v=4",
     "location": "Saudi arabia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 12,
     "createdAt": "2021-05-14T19:21:02Z"
   },
   {
@@ -92718,9 +92694,9 @@
     "location": "Kingdom of Saudi Arabia ",
     "company": "DRS",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 80,
-    "publicContributions": 500,
+    "publicContributions": 514,
     "createdAt": "2026-06-30T23:21:17Z"
   },
   {

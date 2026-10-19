@@ -34880,7 +34880,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 31,
+    "publicContributions": 27,
     "createdAt": "2020-10-31T17:55:20Z"
   },
   {
@@ -34903,7 +34903,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 49,
+    "privateContributions": 41,
     "publicContributions": 5,
     "createdAt": "2020-06-02T15:51:23Z"
   },
@@ -34968,18 +34968,6 @@
     "createdAt": "2020-04-07T14:02:26Z"
   },
   {
-    "login": "NikBulygin",
-    "name": "BulyginNikita",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/63917819?s=72&u=0d0a05aa31598e24a2640255dcf31bf8cb2f2f69&v=4",
-    "location": "Kazakhstan",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 70,
-    "createdAt": "2020-04-18T15:21:48Z"
-  },
-  {
     "login": "0x3cd71900",
     "name": "",
     "avatarUrl": "https://avatars.githubusercontent.com/u/72169125?s=72&u=ea26c4c7ee9d1b9be71cdfa0ae7ff3d10c4bc85c&v=4",
@@ -34987,20 +34975,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 425,
+    "privateContributions": 411,
     "publicContributions": 3,
     "createdAt": "2020-09-30T21:31:03Z"
   },
   {
     "login": "simonether",
-    "name": "Simon",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/68971770?s=72&u=daede0af88d5db6f0e3325990c8d6c90197f0928&v=4",
+    "name": "Simon Sudarushkin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/68971770?s=72&u=ea53f32bfb53b70ad13ac1fb04ccea0fafe14566&v=4",
     "location": "Kazakhstan",
-    "company": "ExLabs",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 240,
+    "company": "Keelfast",
+    "twitterUsername": "simon_ether",
+    "followers": 9,
+    "privateContributions": 4422,
+    "publicContributions": 728,
     "createdAt": "2020-07-29T20:46:51Z"
   },
   {
@@ -35012,7 +35000,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 62,
     "createdAt": "2020-04-30T20:35:12Z"
   },
   {
@@ -35036,7 +35024,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 31,
+    "publicContributions": 0,
     "createdAt": "2020-08-05T03:58:22Z"
   },
   {
@@ -35060,7 +35048,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 40,
     "createdAt": "2020-12-01T13:44:50Z"
   },
   {
@@ -35083,7 +35071,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 111,
+    "privateContributions": 160,
     "publicContributions": 134,
     "createdAt": "2020-10-19T04:56:05Z"
   },

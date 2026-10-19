@@ -35288,7 +35288,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 3,
     "createdAt": "2020-10-10T08:38:05Z"
   },
   {
@@ -35299,7 +35299,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 25,
+    "privateContributions": 76,
     "publicContributions": 8,
     "createdAt": "2020-11-02T11:06:28Z"
   },
@@ -35312,7 +35312,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 6,
     "createdAt": "2020-11-18T18:44:24Z"
   },
   {
@@ -35322,7 +35322,7 @@
     "location": "Serbia",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2020-07-25T08:25:31Z"
@@ -35359,7 +35359,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 202,
+    "privateContributions": 298,
     "publicContributions": 0,
     "createdAt": "2020-07-18T11:26:35Z"
   },
@@ -35371,21 +35371,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 264,
+    "privateContributions": 268,
     "publicContributions": 5,
     "createdAt": "2020-07-19T19:15:55Z"
-  },
-  {
-    "login": "vladi-iit",
-    "name": "Vladimir Kostic",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/66625978?s=72&u=bc05b33d7b1050af97592b978c16839b8fe82722&v=4",
-    "location": "Novi Sad, Serbia",
-    "company": "Faculty of Science, University of Novi Sad",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 56,
-    "publicContributions": 9,
-    "createdAt": "2020-06-08T12:48:52Z"
   },
   {
     "login": "teofeel",
@@ -35394,8 +35382,8 @@
     "location": "Serbia",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 294,
+    "followers": 4,
+    "privateContributions": 295,
     "publicContributions": 1099,
     "createdAt": "2020-04-15T07:44:43Z"
   },
@@ -35407,7 +35395,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 25,
+    "privateContributions": 34,
     "publicContributions": 0,
     "createdAt": "2020-10-28T17:33:59Z"
   },
@@ -35418,9 +35406,9 @@
     "location": "Nis, Serbia",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 5,
     "createdAt": "2020-09-14T10:49:33Z"
   },
   {
@@ -35442,9 +35430,9 @@
     "location": "Belgrade, Serbia",
     "company": "Citrus Systems",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 25,
     "createdAt": "2020-12-23T10:12:51Z"
   },
   {
