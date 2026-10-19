@@ -34632,18 +34632,6 @@
     "createdAt": "2021-04-02T10:16:49Z"
   },
   {
-    "login": "abhishekpanthee",
-    "name": "Abhishek Panthee",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/80570587?s=72&u=69dcfd9983d013cc148866cd7e4461e565061543&v=4",
-    "location": "Ireland",
-    "company": "NexiNode  Enterprises",
-    "twitterUsername": "AbhishekPanthee",
-    "followers": 46,
-    "privateContributions": 1408,
-    "publicContributions": 451,
-    "createdAt": "2021-03-13T07:57:22Z"
-  },
-  {
     "login": "cinthiafontoura",
     "name": "Cinthia Fontoura",
     "avatarUrl": "https://avatars.githubusercontent.com/u/80278757?s=72&u=59cc27f7b3ec4e93218804626477ef30f3d340da&v=4",
@@ -34664,7 +34652,7 @@
     "twitterUsername": "SikderRohan",
     "followers": 44,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 18,
     "createdAt": "2021-03-19T13:07:57Z"
   },
   {
@@ -34674,7 +34662,7 @@
     "location": "Meath, Ireland",
     "company": "Department of Social Protection",
     "twitterUsername": "",
-    "followers": 41,
+    "followers": 40,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-01-28T03:46:10Z"
@@ -34684,11 +34672,11 @@
     "name": "Stevie Gillen",
     "avatarUrl": "https://avatars.githubusercontent.com/u/77494791?s=72&u=dc69895bdfa5027ea29c9fcdabaae09f357a134a&v=4",
     "location": "Belfast, Ireland",
-    "company": "MonoTech",
+    "company": "Foxhound Byte",
     "twitterUsername": "",
     "followers": 41,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 35,
     "createdAt": "2021-01-15T13:23:12Z"
   },
   {
@@ -34710,9 +34698,9 @@
     "location": "Ireland",
     "company": "LegitFit ",
     "twitterUsername": "",
-    "followers": 38,
-    "privateContributions": 865,
-    "publicContributions": 58,
+    "followers": 36,
+    "privateContributions": 1003,
+    "publicContributions": 45,
     "createdAt": "2021-05-27T14:35:35Z"
   },
   {
@@ -34735,8 +34723,8 @@
     "company": "UCD - University College Dublin",
     "twitterUsername": "BeatrizGietner",
     "followers": 36,
-    "privateContributions": 685,
-    "publicContributions": 208,
+    "privateContributions": 758,
+    "publicContributions": 137,
     "createdAt": "2021-01-22T11:58:24Z"
   },
   {
@@ -34746,9 +34734,9 @@
     "location": "Cork, Ireland",
     "company": "",
     "twitterUsername": "",
-    "followers": 35,
-    "privateContributions": 16,
-    "publicContributions": 2,
+    "followers": 36,
+    "privateContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2021-06-03T23:36:57Z"
   },
   {
@@ -34758,7 +34746,7 @@
     "location": "Dublin, Ireland",
     "company": "@aws",
     "twitterUsername": "",
-    "followers": 35,
+    "followers": 37,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-01-02T15:51:56Z"
@@ -34770,9 +34758,9 @@
     "location": "Dublin, Ireland",
     "company": "",
     "twitterUsername": "",
-    "followers": 33,
-    "privateContributions": 2147,
-    "publicContributions": 20,
+    "followers": 34,
+    "privateContributions": 2911,
+    "publicContributions": 9,
     "createdAt": "2021-05-25T16:37:58Z"
   },
   {
@@ -34782,9 +34770,9 @@
     "location": "Dublin, Ireland",
     "company": "esoteric inc.",
     "twitterUsername": "",
-    "followers": 32,
-    "privateContributions": 148,
-    "publicContributions": 137,
+    "followers": 31,
+    "privateContributions": 147,
+    "publicContributions": 172,
     "createdAt": "2021-01-26T03:10:16Z"
   },
   {
@@ -34806,9 +34794,9 @@
     "location": "Ireland",
     "company": "",
     "twitterUsername": "",
-    "followers": 30,
-    "privateContributions": 1181,
-    "publicContributions": 29,
+    "followers": 32,
+    "privateContributions": 1469,
+    "publicContributions": 23,
     "createdAt": "2021-04-24T20:48:22Z"
   },
   {
@@ -34818,7 +34806,7 @@
     "location": "Ireland",
     "company": "",
     "twitterUsername": "",
-    "followers": 29,
+    "followers": 27,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-06-28T12:23:19Z"
@@ -34832,19 +34820,19 @@
     "twitterUsername": "iamjameskeane",
     "followers": 28,
     "privateContributions": 0,
-    "publicContributions": 108,
+    "publicContributions": 109,
     "createdAt": "2021-03-20T11:23:12Z"
   },
   {
     "login": "GrzegorzManiak",
     "name": "Grzegorz Maniak",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/83783716?s=72&u=7e086726ea9e07094fc9f0fab7e33a321cb1e15d&v=4",
-    "location": "Dublin, Ireland",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/83783716?s=72&u=bc25dc207d2d663f7cb20fefb5bede537887bd4f&v=4",
+    "location": "Ireland",
     "company": "@lette-ai",
     "twitterUsername": "",
-    "followers": 27,
-    "privateContributions": 1941,
-    "publicContributions": 349,
+    "followers": 26,
+    "privateContributions": 2531,
+    "publicContributions": 347,
     "createdAt": "2021-05-06T18:28:44Z"
   },
   {
@@ -34854,9 +34842,9 @@
     "location": "Dublin  ireland",
     "company": "",
     "twitterUsername": "robert_carvalho",
-    "followers": 27,
-    "privateContributions": 1003,
-    "publicContributions": 2042,
+    "followers": 12,
+    "privateContributions": 2235,
+    "publicContributions": 4632,
     "createdAt": "2021-02-02T16:23:38Z"
   },
   {
@@ -34866,9 +34854,9 @@
     "location": "Ireland",
     "company": "",
     "twitterUsername": "",
-    "followers": 26,
+    "followers": 28,
     "privateContributions": 0,
-    "publicContributions": 41,
+    "publicContributions": 36,
     "createdAt": "2021-05-19T23:05:30Z"
   },
   {

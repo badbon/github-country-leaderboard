@@ -34650,7 +34650,7 @@
     "location": "Tengiz, Kazakhstan",
     "company": "Tengizchevroil, Chevron subsidiary",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-09-28T14:15:18Z"
@@ -34664,7 +34664,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2020-04-09T18:11:15Z"
   },
   {
@@ -34675,8 +34675,8 @@
     "company": "Alatau City Bank",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 154,
-    "publicContributions": 154,
+    "privateContributions": 190,
+    "publicContributions": 158,
     "createdAt": "2020-01-05T08:58:59Z"
   },
   {
@@ -34688,7 +34688,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 260,
+    "publicContributions": 269,
     "createdAt": "2020-08-28T07:13:18Z"
   },
   {
@@ -34699,7 +34699,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 3,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-10-28T12:38:26Z"
   },
@@ -34712,7 +34712,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 143,
+    "publicContributions": 130,
     "createdAt": "2020-10-28T13:37:14Z"
   },
   {
@@ -34795,7 +34795,7 @@
     "company": "Freelance",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 59,
+    "privateContributions": 80,
     "publicContributions": 20,
     "createdAt": "2020-04-11T21:52:30Z"
   },
@@ -34806,7 +34806,7 @@
     "location": "Kazakhstan, Qyzylorda",
     "company": "LLP \"Mambetali DevTech\"",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 145,
     "createdAt": "2020-07-06T11:17:34Z"
@@ -34814,13 +34814,13 @@
   {
     "login": "Kugukov",
     "name": "Dmitriy",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/71057646?s=72&u=e6e4393bb8170f406e3a2138fb4f8f6fd3b33806&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/71057646?s=72&v=4",
     "location": "Kazakhstan",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 67,
-    "publicContributions": 13,
+    "privateContributions": 64,
+    "publicContributions": 18,
     "createdAt": "2020-09-10T04:23:48Z"
   },
   {
@@ -34828,11 +34828,11 @@
     "name": "LastWizard",
     "avatarUrl": "https://avatars.githubusercontent.com/u/72459635?s=72&u=04d082d516430014ef6cb56a04697c4b5180e1e1&v=4",
     "location": "Kazakhstan",
-    "company": "",
+    "company": "@Halfbar",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
+    "privateContributions": 213,
+    "publicContributions": 14,
     "createdAt": "2020-10-06T15:47:11Z"
   },
   {

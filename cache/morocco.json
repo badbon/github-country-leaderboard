@@ -34712,7 +34712,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 103,
+    "publicContributions": 102,
     "createdAt": "2023-10-03T22:06:27Z"
   },
   {
@@ -34758,9 +34758,9 @@
     "location": "morocco",
     "company": "freelace",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 79,
-    "publicContributions": 37,
+    "followers": 2,
+    "privateContributions": 78,
+    "publicContributions": 35,
     "createdAt": "2023-07-23T11:55:51Z"
   },
   {
@@ -34771,8 +34771,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 511,
-    "publicContributions": 139,
+    "privateContributions": 607,
+    "publicContributions": 169,
     "createdAt": "2023-10-31T07:47:14Z"
   },
   {
@@ -34784,7 +34784,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 4,
     "createdAt": "2023-10-01T14:45:55Z"
   },
   {
@@ -34796,7 +34796,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 0,
     "createdAt": "2023-11-08T15:19:04Z"
   },
   {
@@ -34820,7 +34820,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2023-07-24T20:52:31Z"
   },
   {
@@ -34854,22 +34854,10 @@
     "location": "Morocco",
     "company": "Datastein",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 91,
+    "publicContributions": 58,
     "createdAt": "2023-09-13T11:11:49Z"
-  },
-  {
-    "login": "winx-T",
-    "name": "Ali Belyoum",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/150365428?s=72&u=e45ee89eff069c68ead51ff6c13b799c203723b8&v=4",
-    "location": "Morocco",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 38,
-    "publicContributions": 48,
-    "createdAt": "2023-11-09T15:15:28Z"
   },
   {
     "login": "anassbraim",
@@ -34891,20 +34879,20 @@
     "company": "DiS",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 24,
+    "privateContributions": 25,
     "publicContributions": 19,
     "createdAt": "2023-11-30T08:52:17Z"
   },
   {
     "login": "Sanae08Elbyari999",
     "name": "Sanae Elbyari",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/154820809?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/154820809?s=72&u=4b1f570927d0dc0bcf62fd8dff1a4773c38c4b83&v=4",
     "location": "Morocco",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 22,
     "createdAt": "2023-12-25T15:00:44Z"
   },
   {
@@ -34927,20 +34915,20 @@
     "company": "Université A. ESSAÂDI – Faculté Polydisciplinaire -LARACHE-",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 7,
-    "publicContributions": 71,
+    "privateContributions": 5,
+    "publicContributions": 76,
     "createdAt": "2023-12-09T11:50:26Z"
   },
   {
     "login": "yasserhll",
     "name": "HALLAJI YASSIR",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/151017030?s=72&u=abc6fdff4209fd8807658efaf65955de954db1db&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/151017030?s=72&u=794bdd9d64b7c1731c619fceb0a073452905ce56&v=4",
     "location": "Morocco",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 5115,
-    "publicContributions": 78,
+    "privateContributions": 4790,
+    "publicContributions": 141,
     "createdAt": "2023-11-16T09:11:44Z"
   },
   {

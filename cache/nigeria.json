@@ -34616,7 +34616,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 0,
     "createdAt": "2024-02-06T15:58:35Z"
   },
   {
@@ -34638,9 +34638,9 @@
     "location": "Nigeria",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 122,
+    "publicContributions": 123,
     "createdAt": "2024-03-18T12:43:53Z"
   },
   {
@@ -34648,11 +34648,11 @@
     "name": "Akinpelu Favour Israel",
     "avatarUrl": "https://avatars.githubusercontent.com/u/164755846?s=72&u=62cfdab2246c4650f1d195b2b28e4e7bb9885e07&v=4",
     "location": "Nigeria ",
-    "company": "ABM.gr-site.com",
+    "company": "https://djisrael.framer.website/",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 26,
     "createdAt": "2024-03-24T13:27:33Z"
   },
   {
@@ -34687,8 +34687,8 @@
     "company": "genconsolution",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 9,
-    "publicContributions": 156,
+    "privateContributions": 94,
+    "publicContributions": 74,
     "createdAt": "2024-02-18T06:46:54Z"
   },
   {
@@ -34712,7 +34712,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 308,
+    "publicContributions": 367,
     "createdAt": "2024-02-05T21:03:05Z"
   },
   {
@@ -34723,8 +34723,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 15,
-    "publicContributions": 31,
+    "privateContributions": 19,
+    "publicContributions": 1,
     "createdAt": "2024-01-11T16:06:50Z"
   },
   {
@@ -34758,9 +34758,9 @@
     "location": "Nigeria",
     "company": "Self Employed",
     "twitterUsername": "IfechukwuNwufo",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 175,
+    "publicContributions": 197,
     "createdAt": "2024-01-05T22:15:48Z"
   },
   {
@@ -34808,7 +34808,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 38,
+    "publicContributions": 40,
     "createdAt": "2024-01-01T18:32:05Z"
   },
   {
@@ -398146,5 +398146,65 @@
     "privateContributions": 0,
     "publicContributions": 72,
     "createdAt": "2026-06-29T20:30:33Z"
+  },
+  {
+    "login": "philip-ajik",
+    "name": "Philip Ajik",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298468692?s=72&u=b464dd4baa8b6545820e0769510ef5dad61095f7&v=4",
+    "location": "Plateau State, Nigeria",
+    "company": "",
+    "twitterUsername": "phil_builds",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 218,
+    "createdAt": "2026-06-30T22:43:25Z"
+  },
+  {
+    "login": "HohuroLega80",
+    "name": "Cécile Montenegro",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298473758?s=72&v=4",
+    "location": "ст. Мончегорск, Nigeria",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2026-06-30T23:03:44Z"
+  },
+  {
+    "login": "Okisolomon",
+    "name": "Solomon Oluwarotimi Oki",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298419572?s=72&u=5405ddaaf0f0462759a8bb2d9205388558a42cf6&v=4",
+    "location": "Nigeria",
+    "company": "University of Ibadan",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2026-06-30T20:02:28Z"
+  },
+  {
+    "login": "ZisonaQun72",
+    "name": "Susan Castillo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298468533?s=72&v=4",
+    "location": "Tanjungbalai, Nigeria",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2026-06-30T22:42:43Z"
+  },
+  {
+    "login": "Abdul-Damilola",
+    "name": "ABDUL DAMILOLA",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298229762?s=72&u=5ac3ef26a02f678882c64ef83ee52c16749fcc4e&v=4",
+    "location": "NIGERIA",
+    "company": "CAMBRIDGE",
+    "twitterUsername": "Masterttkm01",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 7,
+    "createdAt": "2026-06-30T10:14:16Z"
   }
 ]

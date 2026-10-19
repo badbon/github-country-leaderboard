@@ -35168,7 +35168,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 64,
+    "publicContributions": 43,
     "createdAt": "2021-06-11T19:23:51Z"
   },
   {
@@ -35179,8 +35179,8 @@
     "company": "Spirhed",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 452,
-    "publicContributions": 40,
+    "privateContributions": 576,
+    "publicContributions": 42,
     "createdAt": "2021-02-08T20:31:22Z"
   },
   {
@@ -35203,7 +35203,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 42,
+    "privateContributions": 58,
     "publicContributions": 32,
     "createdAt": "2021-02-04T00:13:27Z"
   },
@@ -35216,7 +35216,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 83,
+    "publicContributions": 80,
     "createdAt": "2021-12-10T19:38:30Z"
   },
   {
@@ -35238,8 +35238,8 @@
     "location": "Norway",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 2,
+    "followers": 5,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-12-06T10:13:41Z"
   },
@@ -35252,7 +35252,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2021-08-04T10:00:02Z"
   },
   {
@@ -35264,7 +35264,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 22,
-    "publicContributions": 224,
+    "publicContributions": 75,
     "createdAt": "2021-07-14T12:41:24Z"
   },
   {
@@ -35287,21 +35287,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 36,
-    "publicContributions": 63,
+    "privateContributions": 30,
+    "publicContributions": 59,
     "createdAt": "2021-11-10T19:47:29Z"
-  },
-  {
-    "login": "Amirhlotfi",
-    "name": "Amir",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/88343157?s=72&v=4",
-    "location": "Norway",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 84,
-    "publicContributions": 103,
-    "createdAt": "2021-08-02T18:04:50Z"
   },
   {
     "login": "JustcLumsY",
@@ -35323,7 +35311,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 74,
+    "privateContributions": 76,
     "publicContributions": 58,
     "createdAt": "2021-09-30T11:09:46Z"
   },
@@ -35332,11 +35320,11 @@
     "name": "Brage Ingebrigtsen",
     "avatarUrl": "https://avatars.githubusercontent.com/u/84551201?s=72&v=4",
     "location": "Trondheim, Norway",
-    "company": "Sentinel Software AS",
+    "company": "Hent AS",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 340,
-    "publicContributions": 1015,
+    "followers": 5,
+    "privateContributions": 218,
+    "publicContributions": 1183,
     "createdAt": "2021-05-21T01:32:14Z"
   },
   {
@@ -35358,9 +35346,9 @@
     "location": "Steinkjer, Norway",
     "company": "Signicat AS",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 488,
+    "publicContributions": 432,
     "createdAt": "2021-03-06T20:38:39Z"
   },
   {
@@ -35371,8 +35359,8 @@
     "company": "Statistics Norway",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 182,
-    "publicContributions": 452,
+    "privateContributions": 237,
+    "publicContributions": 495,
     "createdAt": "2021-03-25T08:37:07Z"
   },
   {
@@ -35384,7 +35372,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 6,
     "createdAt": "2021-04-06T18:46:49Z"
   },
   {

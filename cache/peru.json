@@ -34832,7 +34832,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 35,
+    "publicContributions": 62,
     "createdAt": "2022-10-27T00:17:02Z"
   },
   {
@@ -34856,7 +34856,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2022-06-26T19:22:00Z"
   },
   {
@@ -34940,7 +34940,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 31,
     "createdAt": "2022-11-09T03:33:36Z"
   },
   {
@@ -34952,7 +34952,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 10,
     "createdAt": "2022-12-07T04:42:12Z"
   },
   {
@@ -34963,8 +34963,8 @@
     "company": "Intelligent Robotics Group - GRI PUCP",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 66,
-    "publicContributions": 86,
+    "privateContributions": 147,
+    "publicContributions": 113,
     "createdAt": "2022-07-25T01:26:03Z"
   },
   {
@@ -34975,7 +34975,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 3112,
+    "privateContributions": 3182,
     "publicContributions": 76,
     "createdAt": "2022-08-19T21:03:15Z"
   },
@@ -34988,7 +34988,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 11,
     "createdAt": "2022-02-07T09:12:58Z"
   },
   {
@@ -34998,9 +34998,9 @@
     "location": "Lima",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 138,
+    "publicContributions": 148,
     "createdAt": "2022-04-15T16:06:10Z"
   },
   {
@@ -35012,7 +35012,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 48,
+    "publicContributions": 30,
     "createdAt": "2022-03-27T01:27:02Z"
   },
   {
@@ -35036,7 +35036,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 0,
     "createdAt": "2022-06-27T18:54:25Z"
   },
   {
@@ -117226,5 +117226,29 @@
     "privateContributions": 0,
     "publicContributions": 19,
     "createdAt": "2026-06-30T13:14:40Z"
+  },
+  {
+    "login": "JFCRISOSTOMO",
+    "name": "JUAN FELIPE CRISOSTOMO RAMOS",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298508095?s=72&v=4",
+    "location": "LIMA, PERU",
+    "company": "UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 35,
+    "createdAt": "2026-07-01T01:48:56Z"
+  },
+  {
+    "login": "Rose674",
+    "name": "Curro Rojas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298769024?s=72&v=4",
+    "location": "רגבה, Peru",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2026-07-01T15:18:08Z"
   }
 ]
