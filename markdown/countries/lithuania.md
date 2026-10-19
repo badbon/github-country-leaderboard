@@ -21,17 +21,17 @@ Indexed users: 5,368
 | 7 | [Midunas](https://github.com/Midunas) | Mykolas Vidunas | Vilnius | 13,013 |
 | 8 | [YOzaz](https://github.com/YOzaz) | Marijus Plančiūnas | Vilnius, Lithuania | 13,010 |
 | 9 | [justascesnauskas](https://github.com/justascesnauskas) | Justas Česnauskas | Lithuania | 12,973 |
-| 10 | [justrau](https://github.com/justrau) | Justas Raudonius | Lithuania | 12,318 |
-| 11 | [kasinskas](https://github.com/kasinskas) | Rokas Kašinskas | Lithuania | 11,042 |
-| 12 | [Paktas](https://github.com/Paktas) | Zilvinas Bartkus | Vilnius, Lithuania | 10,402 |
-| 13 | [kiprasmel](https://github.com/kiprasmel) | Kipras Melnikovas | Lithuania | 10,376 |
-| 14 | [Algiras](https://github.com/Algiras) | Algimantas K. | Vilnius, Lithuania | 10,351 |
-| 15 | [goleaf](https://github.com/goleaf) | Andrej Prus | Lithuania, Vilnius | 10,091 |
-| 16 | [SashaSkywalker](https://github.com/SashaSkywalker) | Alexander Demeshko | Lithuania, Vilnius | 9,135 |
-| 17 | [CADBIMDeveloper](https://github.com/CADBIMDeveloper) | Alexander Ignatovich | Vilnius | 9,129 |
-| 18 | [podo](https://github.com/podo) | Giedrius Jaloveckas | Vilnius, Lithuania | 9,010 |
-| 19 | [jutaz](https://github.com/jutaz) | Justas Brazauskas | Kaunas, Lithuania | 8,824 |
-| 20 | [martynas-rakickis](https://github.com/martynas-rakickis) | Martynas Rakickis | Vilnius | 8,781 |
+| 10 | [kstulgys](https://github.com/kstulgys) | Karolis Stulgys | Vilnius | 12,369 |
+| 11 | [justrau](https://github.com/justrau) | Justas Raudonius | Lithuania | 12,318 |
+| 12 | [kasinskas](https://github.com/kasinskas) | Rokas Kašinskas | Lithuania | 11,042 |
+| 13 | [Paktas](https://github.com/Paktas) | Zilvinas Bartkus | Vilnius, Lithuania | 10,402 |
+| 14 | [kiprasmel](https://github.com/kiprasmel) | Kipras Melnikovas | Lithuania | 10,376 |
+| 15 | [Algiras](https://github.com/Algiras) | Algimantas K. | Vilnius, Lithuania | 10,351 |
+| 16 | [goleaf](https://github.com/goleaf) | Andrej Prus | Lithuania, Vilnius | 10,091 |
+| 17 | [SashaSkywalker](https://github.com/SashaSkywalker) | Alexander Demeshko | Lithuania, Vilnius | 9,135 |
+| 18 | [CADBIMDeveloper](https://github.com/CADBIMDeveloper) | Alexander Ignatovich | Vilnius | 9,129 |
+| 19 | [podo](https://github.com/podo) | Giedrius Jaloveckas | Vilnius, Lithuania | 9,010 |
+| 20 | [jutaz](https://github.com/jutaz) | Justas Brazauskas | Kaunas, Lithuania | 8,824 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 5,368
 | 19 | [Miceuz](https://github.com/Miceuz) | Albertas Mickėnas | Vilnius, Lithuania | 190 |
 | 20 | [mmozuras](https://github.com/mmozuras) | Mindaugas Mozūras | Vilnius, Lithuania | 183 |
 
-Generated: 2026-10-18T23:26:10.838Z
+Generated: 2026-10-19T00:34:09.583Z

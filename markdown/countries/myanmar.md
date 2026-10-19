@@ -25,7 +25,7 @@ Indexed users: 2,056
 | 11 | [why-a-en](https://github.com/why-a-en) | Yan Min Thwin | Yangon, Myanmar (Burma) | 4,201 |
 | 12 | [kyawhtetyang](https://github.com/kyawhtetyang) | Kyaw Htet | Myanmar | 4,200 |
 | 13 | [thanthtooaung-coding](https://github.com/thanthtooaung-coding) | Thant Htoo Aung | Yangon, Myanmar | 3,888 |
-| 14 | [myatminag](https://github.com/myatminag) | Myat Min Aung | Yangon, Myanmar | 3,857 |
+| 14 | [myatminag](https://github.com/myatminag) | Myat Min Aung | Yangon, Myanmar | 3,881 |
 | 15 | [Hein-HtetSan](https://github.com/Hein-HtetSan) | dev@hnhts | Myanmar, Yangon | 3,744 |
 | 16 | [PyaeSoneAungRgn](https://github.com/PyaeSoneAungRgn) | Pyae Sone Aung | Yangon, Myanmar | 3,646 |
 | 17 | [htetaunglin-coder](https://github.com/htetaunglin-coder) | Htet Aung Lin (Kelvin) | Myanmar, Yangon | 3,565 |
@@ -83,4 +83,4 @@ Indexed users: 2,056
 | 19 | [winsandymyint](https://github.com/winsandymyint) | Win Sandy Myint | Myanmar | 168 |
 | 20 | [LunaM00n](https://github.com/LunaM00n) | Thin Ba Shane (Luna) | Myanmar | 162 |
 
-Generated: 2026-10-18T23:31:50.030Z
+Generated: 2026-10-19T00:40:29.049Z

@@ -31,7 +31,7 @@ Indexed users: 354
 | 17 | [roris](https://github.com/roris) | Thoail Ahmed | Maldives | 4,833 |
 | 18 | [muizzu](https://github.com/muizzu) | Muizzu Abbas | Maldives | 4,735 |
 | 19 | [samynmhd](https://github.com/samynmhd) | Mohamed Sameen Firaq | Maldives | 4,156 |
-| 20 | [whosaynow](https://github.com/whosaynow) | whosaynow | Maldives | 4,012 |
+| 20 | [wadday](https://github.com/wadday) | Wadday hassan | Maldives | 4,012 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 354
 | 19 | [muhannad0](https://github.com/muhannad0) | Monde | Maldives | 42 |
 | 20 | [inash](https://github.com/inash) | Inash Zubair | Male', Maldives | 41 |
 
-Generated: 2026-10-18T23:27:56.649Z
+Generated: 2026-10-19T00:36:25.446Z

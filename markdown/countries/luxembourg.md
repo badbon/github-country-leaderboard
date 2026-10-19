@@ -53,8 +53,8 @@ Indexed users: 2,190
 | 14 | [danielesomensi-cmd](https://github.com/danielesomensi-cmd) | Daniele Somensi | Luxembourg | 1,983 |
 | 15 | [righel](https://github.com/righel) | Luciano Righetti | Luxembourg | 1,955 |
 | 16 | [barnumbirr](https://github.com/barnumbirr) | Martin Simon | Luxembourg | 1,931 |
-| 17 | [fmind](https://github.com/fmind) | Médéric Hurier (Fmind) | Luxembourg | 1,861 |
-| 18 | [mike-ionut-mihai-sandu-tao](https://github.com/mike-ionut-mihai-sandu-tao) | Ionut Mihai Sandu | Luxembourg | 1,861 |
+| 17 | [mike-ionut-mihai-sandu-tao](https://github.com/mike-ionut-mihai-sandu-tao) | Ionut Mihai Sandu | Luxembourg | 1,862 |
+| 18 | [fmind](https://github.com/fmind) | Médéric Hurier (Fmind) | Luxembourg | 1,861 |
 | 19 | [EZotoff](https://github.com/EZotoff) | Evgeny Zotov | Luxembourg | 1,737 |
 | 20 | [rauschenberger](https://github.com/rauschenberger) | Armin Rauschenberger | Luxembourg | 1,655 |
 
@@ -83,4 +83,4 @@ Indexed users: 2,190
 | 19 | [l4rz](https://github.com/l4rz) | Mike K. | Luxembourg | 197 |
 | 20 | [urosolia](https://github.com/urosolia) | Ugo Rosolia | Luxembourg, Lux | 192 |
 
-Generated: 2026-10-18T23:26:14.714Z
+Generated: 2026-10-19T00:34:12.834Z

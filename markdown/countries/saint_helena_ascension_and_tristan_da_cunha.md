@@ -16,7 +16,7 @@ Indexed users: 25
 | 2 | [zerodoc](https://github.com/zerodoc) | Howard M Wheeler | Jamestown, New York | 184 |
 | 3 | [radshiny1992](https://github.com/radshiny1992) | Ashley Moreno | New Emilychester, Saint Helena | 135 |
 | 4 | [carehart](https://github.com/carehart) | Charlie Arehart | Jamestown, KY | 121 |
-| 5 | [johncoder](https://github.com/johncoder) | John Nelson | Jamestown, NY | 68 |
+| 5 | [johncoder](https://github.com/johncoder) | John Nelson | Jamestown, NY | 67 |
 | 6 | [brandan-schmitz](https://github.com/brandan-schmitz) | Brandan Schmitz | Jamestown, North Dakota | 62 |
 | 7 | [scottley](https://github.com/scottley) | Scott Simon | Jamestown, MO | 41 |
 | 8 | [Ashtray915](https://github.com/Ashtray915) | 3am Dead Coder | Jamestown | 23 |
@@ -44,7 +44,7 @@ Indexed users: 25
 | 5 | [Ashtray915](https://github.com/Ashtray915) | 3am Dead Coder | Jamestown | 12 |
 | 6 | [zerodoc](https://github.com/zerodoc) | Howard M Wheeler | Jamestown, New York | 12 |
 | 7 | [john-moore-levesque](https://github.com/john-moore-levesque) | John Moore-Levesque | Jamestown, RI | 10 |
-| 8 | [johncoder](https://github.com/johncoder) | John Nelson | Jamestown, NY | 4 |
+| 8 | [johncoder](https://github.com/johncoder) | John Nelson | Jamestown, NY | 3 |
 | 9 | [agentic-webb](https://github.com/agentic-webb) | Eric Webb | Jamestown, KY | 1 |
 | 10 | [selenegough](https://github.com/selenegough) | Selene Gough | Jamestown, St Helena | 1 |
 | 11 | [AdvanceWM](https://github.com/AdvanceWM) | Tony Lush | Jamestown, Rhode Island, US | 0 |
@@ -83,4 +83,4 @@ Indexed users: 25
 | 19 | [EgonX](https://github.com/EgonX) | J. Hall | Jamestown, TN | 1 |
 | 20 | [GTCCApplications](https://github.com/GTCCApplications) | GTCC Applications | Jamestown, NC | 1 |
 
-Generated: 2026-10-18T23:41:21.147Z
+Generated: 2026-10-19T00:49:53.429Z

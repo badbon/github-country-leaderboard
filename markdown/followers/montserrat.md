@@ -1,6 +1,6 @@
 # Followers - Montserrat
 
-Generated: 2026-10-18T23:31:38.528Z
+Generated: 2026-10-19T00:40:16.256Z
 
 Users: 291
 
@@ -17,10 +17,10 @@ Users: 291
 | 9 | [spottedmahn](https://github.com/spottedmahn) | Michael DePouw | CEI | spottedmahn | Plymouth Meeting, PA | 25 |
 | 10 | [EricJamesOsowski](https://github.com/EricJamesOsowski) | Eric Osowski |  |  | Plymouth, Minnesota | 24 |
 | 11 | [donghyunkang-digipen](https://github.com/donghyunkang-digipen) | donghyun.kang | Hyundai MOBIS Technical Center America via BTI Solutions |  | Plymouth, MI | 23 |
-| 12 | [jmcnevin](https://github.com/jmcnevin) | Jeremy McNevin |  |  | Plymouth, MN | 23 |
-| 13 | [mbruty](https://github.com/mbruty) | Michael Bruty |  |  | Plymouth | 23 |
-| 14 | [cmcneile](https://github.com/cmcneile) | Craig McNeile | University of Plymouth |  | Plymouth | 22 |
-| 15 | [emindeniz](https://github.com/emindeniz) | Emin Ozkan | Oracle |  | Plymouth Meeting, PA | 22 |
+| 12 | [emindeniz](https://github.com/emindeniz) | Emin Ozkan | Oracle |  | Plymouth Meeting, PA | 23 |
+| 13 | [jmcnevin](https://github.com/jmcnevin) | Jeremy McNevin |  |  | Plymouth, MN | 23 |
+| 14 | [mbruty](https://github.com/mbruty) | Michael Bruty |  |  | Plymouth | 23 |
+| 15 | [cmcneile](https://github.com/cmcneile) | Craig McNeile | University of Plymouth |  | Plymouth | 22 |
 | 16 | [ianckc](https://github.com/ianckc) | Ian Luckraft |  | ianckc | Plymouth UK | 22 |
 | 17 | [kelefouras](https://github.com/kelefouras) | Kelefouras Vasilis | Uni of Plymouth |  | Plymouth | 22 |
 | 18 | [Prestophobia](https://github.com/Prestophobia) | Xander Wardell | Stardock | prestophobia | Plymouth, Michigan | 22 |

@@ -1,6 +1,6 @@
 # Public Contributions - Saint Helena, Ascension and Tristan da Cunha
 
-Generated: 2026-10-18T23:41:21.147Z
+Generated: 2026-10-19T00:49:53.429Z
 
 Users: 25
 
@@ -13,7 +13,7 @@ Users: 25
 | 5 | [Ashtray915](https://github.com/Ashtray915) | 3am Dead Coder | 3am Dead Coder |  | Jamestown | 12 |
 | 6 | [zerodoc](https://github.com/zerodoc) | Howard M Wheeler |  |  | Jamestown, New York | 12 |
 | 7 | [john-moore-levesque](https://github.com/john-moore-levesque) | John Moore-Levesque | Capital One  |  | Jamestown, RI | 10 |
-| 8 | [johncoder](https://github.com/johncoder) | John Nelson |  | johncoder | Jamestown, NY | 4 |
+| 8 | [johncoder](https://github.com/johncoder) | John Nelson |  | johncoder | Jamestown, NY | 3 |
 | 9 | [agentic-webb](https://github.com/agentic-webb) | Eric Webb | Zyte | agentic_webb | Jamestown, KY | 1 |
 | 10 | [selenegough](https://github.com/selenegough) | Selene Gough |  |  | Jamestown, St Helena | 1 |
 | 11 | [AdvanceWM](https://github.com/AdvanceWM) | Tony Lush | Advance Web Marketing |  | Jamestown, Rhode Island, US | 0 |

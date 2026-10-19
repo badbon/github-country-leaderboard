@@ -29,7 +29,7 @@ Indexed users: 1,071
 | 15 | [Bewinxed](https://github.com/Bewinxed) | Omar Al Matar | Doha, Qatar | 5,512 |
 | 16 | [Aboidrees](https://github.com/Aboidrees) | Muhammad Yousif | Qatar, Doha | 5,124 |
 | 17 | [ilhamsyahids](https://github.com/ilhamsyahids) | Ilham Syahid S | Qatar | 4,995 |
-| 18 | [Engineersticity](https://github.com/Engineersticity) | Erastus Kirui | Doha, Qatar | 4,132 |
+| 18 | [Engineersticity](https://github.com/Engineersticity) | Erastus Kirui | Doha, Qatar | 4,229 |
 | 19 | [mbrksntrk](https://github.com/mbrksntrk) | M Burak Şentürk | Doha, Qatar | 4,039 |
 | 20 | [Gubbu77](https://github.com/Gubbu77) | Indrajith vs | Qatar | 4,002 |
 
@@ -83,4 +83,4 @@ Indexed users: 1,071
 | 19 | [brainconnect93](https://github.com/brainconnect93) | Afolabi Akorede | Al-Wakrah, Qatar | 99 |
 | 20 | [muratyaman](https://github.com/muratyaman) | Haci Murat Yaman | Doha, Qatar | 99 |
 
-Generated: 2026-10-18T23:39:46.946Z
+Generated: 2026-10-19T00:48:20.572Z

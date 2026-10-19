@@ -45,7 +45,7 @@ Indexed users: 291
 | 6 | [jaydreyer](https://github.com/jaydreyer) | Jay Dreyer | Plymouth, MN | 703 |
 | 7 | [binarytide](https://github.com/binarytide) | John McAndrews | Plymouth, Ma | 682 |
 | 8 | [cpuzzuol](https://github.com/cpuzzuol) | Chris Puzzuoli | Plymouth, MI | 523 |
-| 9 | [patrickmgarrity](https://github.com/patrickmgarrity) | Patrick Garrity | Plymouth, MI | 448 |
+| 9 | [patrickmgarrity](https://github.com/patrickmgarrity) | Patrick Garrity | Plymouth, MI | 449 |
 | 10 | [AnshLaw](https://github.com/AnshLaw) | Ansh R. Suryavanshi | Plymouth, MI | 394 |
 | 11 | [OCNGill](https://github.com/OCNGill) | Stephen Gill | Plymouth, MA 02360 | 386 |
 | 12 | [tjrandall](https://github.com/tjrandall) | T.j. Randall | Plymouth, MA | 348 |
@@ -56,7 +56,7 @@ Indexed users: 291
 | 17 | [leeper48](https://github.com/leeper48) | Kurt Jordan | Plymouth, MA | 260 |
 | 18 | [JacobMalin](https://github.com/JacobMalin) | Jacob Malin | Plymouth, MN | 225 |
 | 19 | [lunatech-3d](https://github.com/lunatech-3d) | LunaTech 3D | Plymouth, Wayne, MI | 207 |
-| 20 | [cjungmann](https://github.com/cjungmann) | Chuck Jungmann | Plymouth, MN USA | 188 |
+| 20 | [rshields2004](https://github.com/rshields2004) | Rowan Shields | Plymouth | 188 |
 
 ## Followers
 
@@ -73,14 +73,14 @@ Indexed users: 291
 | 9 | [spottedmahn](https://github.com/spottedmahn) | Michael DePouw | Plymouth Meeting, PA | 25 |
 | 10 | [EricJamesOsowski](https://github.com/EricJamesOsowski) | Eric Osowski | Plymouth, Minnesota | 24 |
 | 11 | [donghyunkang-digipen](https://github.com/donghyunkang-digipen) | donghyun.kang | Plymouth, MI | 23 |
-| 12 | [jmcnevin](https://github.com/jmcnevin) | Jeremy McNevin | Plymouth, MN | 23 |
-| 13 | [mbruty](https://github.com/mbruty) | Michael Bruty | Plymouth | 23 |
-| 14 | [cmcneile](https://github.com/cmcneile) | Craig McNeile | Plymouth | 22 |
-| 15 | [emindeniz](https://github.com/emindeniz) | Emin Ozkan | Plymouth Meeting, PA | 22 |
+| 12 | [emindeniz](https://github.com/emindeniz) | Emin Ozkan | Plymouth Meeting, PA | 23 |
+| 13 | [jmcnevin](https://github.com/jmcnevin) | Jeremy McNevin | Plymouth, MN | 23 |
+| 14 | [mbruty](https://github.com/mbruty) | Michael Bruty | Plymouth | 23 |
+| 15 | [cmcneile](https://github.com/cmcneile) | Craig McNeile | Plymouth | 22 |
 | 16 | [ianckc](https://github.com/ianckc) | Ian Luckraft | Plymouth UK | 22 |
 | 17 | [kelefouras](https://github.com/kelefouras) | Kelefouras Vasilis | Plymouth | 22 |
 | 18 | [Prestophobia](https://github.com/Prestophobia) | Xander Wardell | Plymouth, Michigan | 22 |
 | 19 | [binarytide](https://github.com/binarytide) | John McAndrews | Plymouth, Ma | 21 |
 | 20 | [BeresIvan](https://github.com/BeresIvan) |  | Plymouth, MN | 20 |
 
-Generated: 2026-10-18T23:31:38.528Z
+Generated: 2026-10-19T00:40:16.256Z

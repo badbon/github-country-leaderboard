@@ -54,7 +54,7 @@ Indexed users: 2,441
 | 15 | [isko18](https://github.com/isko18) | islam | Kyrgyzstan, Osh | 1,064 |
 | 16 | [ArzubekDev](https://github.com/ArzubekDev) | Arzubek | Bishkek | 1,025 |
 | 17 | [dioritdev](https://github.com/dioritdev) | DIOR | Kyrgyzstan/Osh | 978 |
-| 18 | [er-Bilim](https://github.com/er-Bilim) | notesoat | Bishkek, Kyrgyzstan | 964 |
+| 18 | [er-Bilim](https://github.com/er-Bilim) | notesoat | Bishkek, Kyrgyzstan | 971 |
 | 19 | [daniyarchambylov](https://github.com/daniyarchambylov) | Daniyar Chambylov | Bishkek, Kyrgyzstan | 947 |
 | 20 | [salievyt](https://github.com/salievyt) | sm1le | Kyrgyzstan | 921 |
 
@@ -83,4 +83,4 @@ Indexed users: 2,441
 | 19 | [Elkhan2003](https://github.com/Elkhan2003) | Elkhan Sharshenbekov | Karakol, Kyrgyzstan | 103 |
 | 20 | [eszdman](https://github.com/eszdman) |  | Kyrgyzstan | 103 |
 
-Generated: 2026-10-18T23:24:05.642Z
+Generated: 2026-10-19T00:32:49.719Z

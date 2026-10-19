@@ -12,11 +12,11 @@ Indexed users: 19
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [Green-Ranger11](https://github.com/Green-Ranger11) | Alesana Eteuati Jr | Samoa | 5,052 |
-| 2 | [genebarker](https://github.com/genebarker) | Eugene F. Barker | Apia, Samoa | 1,457 |
+| 1 | [Green-Ranger11](https://github.com/Green-Ranger11) | Alesana Eteuati Jr | Samoa | 5,066 |
+| 2 | [genebarker](https://github.com/genebarker) | Eugene F. Barker | Apia, Samoa | 1,459 |
 | 3 | [Hamobcdev](https://github.com/Hamobcdev) | Anthony George Williams | Samoa | 1,042 |
 | 4 | [iwtem](https://github.com/iwtem) | Iwtem | Samoa | 330 |
-| 5 | [ainsofs](https://github.com/ainsofs) | Ainsof So'o | Samoa | 108 |
+| 5 | [ainsofs](https://github.com/ainsofs) | Ainsof So'o | Samoa | 107 |
 | 6 | [RichardVBoi](https://github.com/RichardVBoi) | Richard  Panama Vaalotu | Apia Samoa | 93 |
 | 7 | [Radr443](https://github.com/Radr443) | Radr | Samoa  | 71 |
 | 8 | [tavitas](https://github.com/tavitas) | Tavita Su'a | Samoa | 44 |
@@ -37,8 +37,8 @@ Indexed users: 19
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [Hamobcdev](https://github.com/Hamobcdev) | Anthony George Williams | Samoa | 1,042 |
-| 2 | [genebarker](https://github.com/genebarker) | Eugene F. Barker | Apia, Samoa | 218 |
-| 3 | [ainsofs](https://github.com/ainsofs) | Ainsof So'o | Samoa | 108 |
+| 2 | [genebarker](https://github.com/genebarker) | Eugene F. Barker | Apia, Samoa | 220 |
+| 3 | [ainsofs](https://github.com/ainsofs) | Ainsof So'o | Samoa | 107 |
 | 4 | [RichardVBoi](https://github.com/RichardVBoi) | Richard  Panama Vaalotu | Apia Samoa | 93 |
 | 5 | [iwtem](https://github.com/iwtem) | Iwtem | Samoa | 75 |
 | 6 | [Radr443](https://github.com/Radr443) | Radr | Samoa  | 71 |
@@ -80,4 +80,4 @@ Indexed users: 19
 | 18 | [xfy777](https://github.com/xfy777) | xfy | Samoa | 2 |
 | 19 | [RichardVBoi](https://github.com/RichardVBoi) | Richard  Panama Vaalotu | Apia Samoa | 1 |
 
-Generated: 2026-10-18T23:42:11.773Z
+Generated: 2026-10-19T00:51:03.826Z

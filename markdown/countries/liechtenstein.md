@@ -15,14 +15,14 @@ Indexed users: 113
 | 1 | [oscardvs](https://github.com/oscardvs) | Oscar Devos | Liechtenstein | 5,832 |
 | 2 | [bernhardw](https://github.com/bernhardw) | Bernhard Wanger | Vaduz, Liechtenstein | 4,585 |
 | 3 | [tnaescher](https://github.com/tnaescher) | T. Näscher | Liechtenstein | 4,396 |
-| 4 | [msanft](https://github.com/msanft) | Moritz Sanft | Liechtenstein | 2,893 |
-| 5 | [PhilippHGerber](https://github.com/PhilippHGerber) | Philipp H. Gerber | Liechtenstein | 2,671 |
-| 6 | [ColinFrick](https://github.com/ColinFrick) | Colin Frick | Liechtenstein | 2,596 |
+| 4 | [PhilippHGerber](https://github.com/PhilippHGerber) | Philipp H. Gerber | Liechtenstein | 2,972 |
+| 5 | [msanft](https://github.com/msanft) | Moritz Sanft | Liechtenstein | 2,893 |
+| 6 | [ColinFrick](https://github.com/ColinFrick) | Colin Frick | Liechtenstein | 2,623 |
 | 7 | [AHaldner](https://github.com/AHaldner) | Andrin Haldner | Liechtenstein | 1,836 |
 | 8 | [marsop](https://github.com/marsop) | Alberto Gregorio | Ruggell, Liechtenstein | 1,690 |
 | 9 | [niklasfrick](https://github.com/niklasfrick) | Niklas Frick | Liechtenstein | 1,252 |
 | 10 | [iwhp](https://github.com/iwhp) | Harry Pfleger | Liechtenstein | 754 |
-| 11 | [masteradhoc](https://github.com/masteradhoc) | Brian | Liechtenstein | 750 |
+| 11 | [masteradhoc](https://github.com/masteradhoc) | Brian | Liechtenstein | 752 |
 | 12 | [d0dge-dev](https://github.com/d0dge-dev) | David | Liechtenstein | 471 |
 | 13 | [archham](https://github.com/archham) | Nicolas Eberle | Liechtenstein | 462 |
 | 14 | [FeeJai](https://github.com/FeeJai) | Felix Jankowski | Liechtenstein | 373 |
@@ -41,8 +41,8 @@ Indexed users: 113
 | 2 | [marsop](https://github.com/marsop) | Alberto Gregorio | Ruggell, Liechtenstein | 1,690 |
 | 3 | [niklasfrick](https://github.com/niklasfrick) | Niklas Frick | Liechtenstein | 1,252 |
 | 4 | [iwhp](https://github.com/iwhp) | Harry Pfleger | Liechtenstein | 754 |
-| 5 | [masteradhoc](https://github.com/masteradhoc) | Brian | Liechtenstein | 667 |
-| 6 | [PhilippHGerber](https://github.com/PhilippHGerber) | Philipp H. Gerber | Liechtenstein | 575 |
+| 5 | [masteradhoc](https://github.com/masteradhoc) | Brian | Liechtenstein | 669 |
+| 6 | [PhilippHGerber](https://github.com/PhilippHGerber) | Philipp H. Gerber | Liechtenstein | 583 |
 | 7 | [msanft](https://github.com/msanft) | Moritz Sanft | Liechtenstein | 522 |
 | 8 | [archham](https://github.com/archham) | Nicolas Eberle | Liechtenstein | 458 |
 | 9 | [anondotli](https://github.com/anondotli) | anon.li | Liechtenstein | 301 |
@@ -83,4 +83,4 @@ Indexed users: 113
 | 19 | [PhilippHGerber](https://github.com/PhilippHGerber) | Philipp H. Gerber | Liechtenstein | 14 |
 | 20 | [niklasfrick](https://github.com/niklasfrick) | Niklas Frick | Liechtenstein | 12 |
 
-Generated: 2026-10-18T23:26:07.339Z
+Generated: 2026-10-19T00:34:03.348Z

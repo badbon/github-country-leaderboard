@@ -1,8 +1,8 @@
 # Total Contributions - Kuwait
 
-Generated: 2026-10-18T23:23:44.162Z
+Generated: 2026-10-19T00:32:19.749Z
 
-Users: 797
+Users: 796
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -16,13 +16,13 @@ Users: 797
 | 8 | [saskw2010](https://github.com/saskw2010) | Mostafa Elnagar | wytSKY Clouding Solutions | wyt_sky | kuwait | 5239 |
 | 9 | [bigboss97lnt](https://github.com/bigboss97lnt) | Nasser Tahan | Yuehlia | bigboss97lnt | Kuwait | 5221 |
 | 10 | [Mubder](https://github.com/Mubder) | Mubder Alfaris | KazmaAI | b_alfaris | Kuwait | 4590 |
-| 11 | [azikar24](https://github.com/azikar24) | Abdulaziz Karam |  |  | Kuwait | 4407 |
-| 12 | [knro](https://github.com/knro) | Jasem Mutlaq |  |  | Kuwait | 4140 |
-| 13 | [mulaifi](https://github.com/mulaifi) | Salem Almulaifi | LEAN | SalemAlmulaifi | Kuwait | 3929 |
-| 14 | [careless10](https://github.com/careless10) | Menawer | Ruba |  | Kuwait | 3828 |
-| 15 | [Mazyod](https://github.com/Mazyod) | Maz | Boubyan Bank |  | Kuwait | 3812 |
-| 16 | [iZaL](https://github.com/iZaL) | Afzal Abbas |  |  | Kuwait | 3529 |
-| 17 | [DiNaSoR](https://github.com/DiNaSoR) | BuYousef |  |  | Kuwait | 3511 |
-| 18 | [quadrillion-q8](https://github.com/quadrillion-q8) | Kuwait Computer Repair on Call |  |  | Hawalli, Kuwait | 3499 |
-| 19 | [aalhendi](https://github.com/aalhendi) | Abdulrazzaq Alhendi |  |  | Kuwait | 3466 |
-| 20 | [tammerofficial](https://github.com/tammerofficial) | tammer | tammerofficial | tammerofficial | Kuwait City | 3394 |
+| 11 | [knro](https://github.com/knro) | Jasem Mutlaq |  |  | Kuwait | 4140 |
+| 12 | [mulaifi](https://github.com/mulaifi) | Salem Almulaifi | LEAN | SalemAlmulaifi | Kuwait | 3929 |
+| 13 | [careless10](https://github.com/careless10) | Menawer | Ruba |  | Kuwait | 3828 |
+| 14 | [Mazyod](https://github.com/Mazyod) | Maz | Boubyan Bank |  | Kuwait | 3812 |
+| 15 | [iZaL](https://github.com/iZaL) | Afzal Abbas |  |  | Kuwait | 3529 |
+| 16 | [DiNaSoR](https://github.com/DiNaSoR) | BuYousef |  |  | Kuwait | 3511 |
+| 17 | [quadrillion-q8](https://github.com/quadrillion-q8) | Kuwait Computer Repair on Call |  |  | Hawalli, Kuwait | 3499 |
+| 18 | [aalhendi](https://github.com/aalhendi) | Abdulrazzaq Alhendi |  |  | Kuwait | 3466 |
+| 19 | [tammerofficial](https://github.com/tammerofficial) | tammer | tammerofficial | tammerofficial | Kuwait City | 3394 |
+| 20 | [saudshaddad](https://github.com/saudshaddad) | Saud Shaddad | @rasameel  @Elite-MA-Academy  | saudshaddad | Kuwait | 3296 |
