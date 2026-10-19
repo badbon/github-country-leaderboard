@@ -34424,7 +34424,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 17,
-    "publicContributions": 1,
+    "publicContributions": 3,
     "createdAt": "2019-05-27T17:17:29Z"
   },
   {
@@ -34496,7 +34496,7 @@
     "twitterUsername": "cris18274",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 58,
+    "publicContributions": 35,
     "createdAt": "2019-09-24T21:52:00Z"
   },
   {
@@ -34508,7 +34508,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2019-01-22T20:01:42Z"
   },
   {
@@ -34522,18 +34522,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-06-13T00:43:34Z"
-  },
-  {
-    "login": "DanielNaupari",
-    "name": "Daniel Naupari",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/48832057?s=72&v=4",
-    "location": "Ecuador",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2019-03-22T13:56:40Z"
   },
   {
     "login": "elmufalo",
@@ -34590,7 +34578,7 @@
     "location": "Ecuador ",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-05-13T10:14:40Z"

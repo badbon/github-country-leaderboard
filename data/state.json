@@ -2232,20 +2232,20 @@
       "lastDiscoveryAt": "2026-10-19T00:40:23.127Z",
       "lastDiscoveryCompletedAt": "2026-08-13T01:21:54.834Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:08:40.393Z",
+      "lastCacheChangeAt": "2026-10-19T02:16:47.317Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": "2026-09-02T14:46:41.919Z",
       "lastError": null,
       "stats": {
         "searchRequests": 295,
-        "enrichmentRequests": 1300,
+        "enrichmentRequests": 1301,
         "usersDiscovered": 13015,
-        "usersEnriched": 22702,
-        "usersRefreshed": 9807,
+        "usersEnriched": 22722,
+        "usersRefreshed": 9827,
         "usersKept": 6880
       },
-      "refreshCursor": 2863
+      "refreshCursor": 2883
     },
     "afghanistan": {
       "slug": "afghanistan",
@@ -3234,20 +3234,20 @@
       "lastDiscoveryAt": "2026-10-19T00:42:41.123Z",
       "lastDiscoveryCompletedAt": "2026-08-17T15:07:50.014Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:09:02.575Z",
+      "lastCacheChangeAt": "2026-10-19T02:16:50.048Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": "2026-10-13T14:55:58.289Z",
       "lastError": null,
       "stats": {
         "searchRequests": 112,
-        "enrichmentRequests": 284,
+        "enrichmentRequests": 285,
         "usersDiscovered": 2333,
-        "usersEnriched": 5218,
-        "usersRefreshed": 2885,
+        "usersEnriched": 5238,
+        "usersRefreshed": 2905,
         "usersKept": 1487
       },
-      "refreshCursor": 1379
+      "refreshCursor": 1399
     },
     "aland_islands": {
       "slug": "aland_islands",
@@ -4466,20 +4466,20 @@
       "lastDiscoveryAt": "2026-10-19T00:44:27.612Z",
       "lastDiscoveryCompletedAt": "2026-08-17T16:08:44.122Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:09:06.326Z",
+      "lastCacheChangeAt": "2026-10-19T02:16:55.379Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": "2026-10-19T00:00:48.011Z",
       "lastError": null,
       "stats": {
         "searchRequests": 114,
-        "enrichmentRequests": 175,
+        "enrichmentRequests": 176,
         "usersDiscovered": 70,
-        "usersEnriched": 2286,
-        "usersRefreshed": 2216,
+        "usersEnriched": 2306,
+        "usersRefreshed": 2236,
         "usersKept": 61
       },
-      "refreshCursor": 20
+      "refreshCursor": 40
     },
     "albania": {
       "slug": "albania",
@@ -5961,20 +5961,20 @@
       "lastDiscoveryAt": "2026-10-19T00:46:07.259Z",
       "lastDiscoveryCompletedAt": "2026-08-18T06:37:19.792Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:09:09.560Z",
+      "lastCacheChangeAt": "2026-10-19T02:17:01.007Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": "2026-10-17T05:45:50.227Z",
       "lastError": null,
       "stats": {
         "searchRequests": 138,
-        "enrichmentRequests": 252,
+        "enrichmentRequests": 253,
         "usersDiscovered": 1680,
-        "usersEnriched": 4557,
-        "usersRefreshed": 2877,
+        "usersEnriched": 4577,
+        "usersRefreshed": 2897,
         "usersKept": 1184
       },
-      "refreshCursor": 500
+      "refreshCursor": 520
     },
     "algeria": {
       "slug": "algeria",
@@ -7216,20 +7216,20 @@
       "lastDiscoveryAt": "2026-10-19T00:47:41.687Z",
       "lastDiscoveryCompletedAt": "2026-08-19T04:21:36.714Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:09:11.601Z",
+      "lastCacheChangeAt": "2026-10-19T02:17:38.554Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
         "searchRequests": 170,
-        "enrichmentRequests": 528,
+        "enrichmentRequests": 529,
         "usersDiscovered": 7240,
-        "usersEnriched": 9946,
-        "usersRefreshed": 2861,
+        "usersEnriched": 9966,
+        "usersRefreshed": 2881,
         "usersKept": 5783
       },
-      "refreshCursor": 2813
+      "refreshCursor": 2833
     },
     "american_samoa": {
       "slug": "american_samoa",
@@ -8448,17 +8448,17 @@
       "lastDiscoveryAt": "2026-10-19T00:50:00.804Z",
       "lastDiscoveryCompletedAt": "2026-08-17T16:09:05.900Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:09:12.501Z",
+      "lastCacheChangeAt": "2026-10-19T02:17:59.718Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
-      "lastContributionRefreshAt": "2026-10-19T01:09:12.501Z",
+      "lastContributionRefreshAt": "2026-10-19T02:17:59.718Z",
       "lastError": null,
       "stats": {
         "searchRequests": 114,
-        "enrichmentRequests": 149,
+        "enrichmentRequests": 150,
         "usersDiscovered": 5,
-        "usersEnriched": 730,
-        "usersRefreshed": 725,
+        "usersEnriched": 735,
+        "usersRefreshed": 730,
         "usersKept": 5
       },
       "refreshCursor": 0
@@ -9431,20 +9431,20 @@
       "lastDiscoveryAt": "2026-10-19T00:52:14.150Z",
       "lastDiscoveryCompletedAt": "2026-08-17T06:13:24.053Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:09:15.591Z",
+      "lastCacheChangeAt": "2026-10-19T02:18:07.713Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": "2026-10-18T22:52:18.924Z",
       "lastError": null,
       "stats": {
         "searchRequests": 97,
-        "enrichmentRequests": 179,
+        "enrichmentRequests": 180,
         "usersDiscovered": 261,
-        "usersEnriched": 3074,
-        "usersRefreshed": 2834,
+        "usersEnriched": 3094,
+        "usersRefreshed": 2854,
         "usersKept": 215
       },
-      "refreshCursor": 40
+      "refreshCursor": 60
     },
     "angola": {
       "slug": "angola",
@@ -10686,20 +10686,20 @@
       "lastDiscoveryAt": "2026-10-19T00:57:15.174Z",
       "lastDiscoveryCompletedAt": "2026-08-18T14:32:00.963Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:09:51.002Z",
+      "lastCacheChangeAt": "2026-10-19T02:18:37.453Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": "2026-10-17T17:24:40.507Z",
       "lastError": null,
       "stats": {
         "searchRequests": 143,
-        "enrichmentRequests": 371,
+        "enrichmentRequests": 372,
         "usersDiscovered": 3996,
-        "usersEnriched": 6873,
-        "usersRefreshed": 2877,
+        "usersEnriched": 6893,
+        "usersRefreshed": 2897,
         "usersKept": 2497
       },
-      "refreshCursor": 357
+      "refreshCursor": 377
     },
     "anguilla": {
       "slug": "anguilla",
@@ -11171,17 +11171,17 @@
       "lastDiscoveryAt": "2026-10-19T00:58:46.306Z",
       "lastDiscoveryCompletedAt": "2026-08-15T02:14:53.848Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:10:36.944Z",
+      "lastCacheChangeAt": "2026-10-19T02:19:08.211Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
-      "lastContributionRefreshAt": "2026-10-19T01:10:36.945Z",
+      "lastContributionRefreshAt": "2026-10-19T02:19:08.211Z",
       "lastError": null,
       "stats": {
         "searchRequests": 57,
-        "enrichmentRequests": 161,
+        "enrichmentRequests": 162,
         "usersDiscovered": 38,
-        "usersEnriched": 2198,
-        "usersRefreshed": 2160,
+        "usersEnriched": 2213,
+        "usersRefreshed": 2175,
         "usersKept": 15
       },
       "refreshCursor": 0
@@ -11416,20 +11416,20 @@
       "lastDiscoveryAt": "2026-10-19T01:01:11.501Z",
       "lastDiscoveryCompletedAt": "2026-08-14T04:31:04.546Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:10:40.023Z",
+      "lastCacheChangeAt": "2026-10-19T02:19:30.884Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": "2026-10-18T20:36:00.690Z",
       "lastError": null,
       "stats": {
         "searchRequests": 40,
-        "enrichmentRequests": 185,
+        "enrichmentRequests": 186,
         "usersDiscovered": 579,
-        "usersEnriched": 3343,
-        "usersRefreshed": 2827,
+        "usersEnriched": 3363,
+        "usersRefreshed": 2847,
         "usersKept": 461
       },
-      "refreshCursor": 60
+      "refreshCursor": 80
     },
     "antigua_and_barbuda": {
       "slug": "antigua_and_barbuda",
@@ -11910,17 +11910,17 @@
       "lastDiscoveryAt": "2026-10-19T01:03:31.495Z",
       "lastDiscoveryCompletedAt": "2026-08-15T02:14:56.983Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:10:41.878Z",
+      "lastCacheChangeAt": "2026-10-19T02:19:36.146Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
-      "lastContributionRefreshAt": "2026-10-19T01:10:41.878Z",
+      "lastContributionRefreshAt": "2026-10-19T02:19:36.146Z",
       "lastError": null,
       "stats": {
         "searchRequests": 57,
-        "enrichmentRequests": 154,
+        "enrichmentRequests": 155,
         "usersDiscovered": 14,
-        "usersEnriched": 1754,
-        "usersRefreshed": 1740,
+        "usersEnriched": 1766,
+        "usersRefreshed": 1752,
         "usersKept": 12
       },
       "refreshCursor": 0
@@ -13258,20 +13258,20 @@
       "lastDiscoveryAt": "2026-10-19T01:05:32.759Z",
       "lastDiscoveryCompletedAt": "2026-09-16T09:31:44.784Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:10:44.314Z",
+      "lastCacheChangeAt": "2026-10-19T02:19:39.224Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
         "searchRequests": 1726,
-        "enrichmentRequests": 4693,
+        "enrichmentRequests": 4694,
         "usersDiscovered": 145458,
-        "usersEnriched": 92493,
-        "usersRefreshed": 2863,
-        "usersKept": 50729
+        "usersEnriched": 92513,
+        "usersRefreshed": 2883,
+        "usersKept": 50728
       },
-      "refreshCursor": 2830
+      "refreshCursor": 2849
     },
     "armenia": {
       "slug": "armenia",
@@ -14508,24 +14508,24 @@
       "lastDiscoveryAt": "2026-10-19T01:07:05.295Z",
       "lastDiscoveryCompletedAt": "2026-08-18T21:33:11.780Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:10:51.594Z",
+      "lastCacheChangeAt": "2026-10-19T02:20:12.562Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
         "searchRequests": 159,
-        "enrichmentRequests": 477,
+        "enrichmentRequests": 478,
         "usersDiscovered": 6145,
-        "usersEnriched": 9024,
-        "usersRefreshed": 2891,
+        "usersEnriched": 9044,
+        "usersRefreshed": 2911,
         "usersKept": 4035
       },
-      "refreshCursor": 2865
+      "refreshCursor": 2885
     },
     "aruba": {
       "slug": "aruba",
-      "status": "refreshing",
+      "status": "discovering",
       "queue": [
         {
           "country": "aruba",
@@ -14993,20 +14993,20 @@
       "lastDiscoveryAt": "2026-10-19T01:08:33.965Z",
       "lastDiscoveryCompletedAt": "2026-08-15T02:16:35.911Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:10:54.379Z",
+      "lastCacheChangeAt": "2026-10-19T02:20:45.797Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
-      "lastContributionRefreshAt": "2026-10-19T00:03:05.698Z",
+      "lastContributionRefreshAt": "2026-10-19T02:20:45.797Z",
       "lastError": null,
       "stats": {
         "searchRequests": 57,
-        "enrichmentRequests": 165,
+        "enrichmentRequests": 166,
         "usersDiscovered": 49,
-        "usersEnriched": 2782,
-        "usersRefreshed": 2733,
+        "usersEnriched": 2799,
+        "usersRefreshed": 2750,
         "usersKept": 37
       },
-      "refreshCursor": 20
+      "refreshCursor": 0
     },
     "australia": {
       "slug": "australia",
@@ -16220,7 +16220,7 @@
           "kept": 76
         }
       },
-      "lastDiscoveryAt": "2026-10-19T02:00:12.157Z",
+      "lastDiscoveryAt": "2026-10-19T02:31:39.821Z",
       "lastDiscoveryCompletedAt": null,
       "discoveryQueuedThrough": "2026-05-12",
       "lastCacheChangeAt": "2026-10-19T01:54:52.775Z",
@@ -16229,9 +16229,9 @@
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 2632,
+        "searchRequests": 2635,
         "enrichmentRequests": 4487,
-        "usersDiscovered": 243910,
+        "usersDiscovered": 244210,
         "usersEnriched": 88014,
         "usersRefreshed": 0,
         "usersKept": 60834
@@ -17527,24 +17527,24 @@
       "lastDiscoveryAt": "2026-10-19T01:10:45.931Z",
       "lastDiscoveryCompletedAt": "2026-08-22T16:35:48.987Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:11:46.543Z",
+      "lastCacheChangeAt": "2026-10-19T02:21:15.845Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
         "searchRequests": 341,
-        "enrichmentRequests": 1306,
+        "enrichmentRequests": 1307,
         "usersDiscovered": 22895,
-        "usersEnriched": 25478,
-        "usersRefreshed": 2883,
+        "usersEnriched": 25498,
+        "usersRefreshed": 2903,
         "usersKept": 18243
       },
-      "refreshCursor": 2849
+      "refreshCursor": 2869
     },
     "azerbaijan": {
       "slug": "azerbaijan",
-      "status": "discovering",
+      "status": "refreshing",
       "queue": [
         {
           "country": "azerbaijan",
@@ -18515,24 +18515,24 @@
       "lastDiscoveryAt": "2026-10-19T01:13:04.994Z",
       "lastDiscoveryCompletedAt": "2026-08-19T00:23:34.467Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:11:49.302Z",
+      "lastCacheChangeAt": "2026-10-19T02:21:19.061Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
         "searchRequests": 165,
-        "enrichmentRequests": 566,
+        "enrichmentRequests": 567,
         "usersDiscovered": 8109,
-        "usersEnriched": 10925,
-        "usersRefreshed": 2876,
+        "usersEnriched": 10945,
+        "usersRefreshed": 2896,
         "usersKept": 5057
       },
-      "refreshCursor": 2849
+      "refreshCursor": 2869
     },
     "bahamas": {
       "slug": "bahamas",
-      "status": "discovering",
+      "status": "refreshing",
       "queue": [
         {
           "country": "bahamas",
@@ -19249,24 +19249,24 @@
       "lastDiscoveryAt": "2026-10-19T01:15:08.601Z",
       "lastDiscoveryCompletedAt": "2026-08-16T03:22:47.436Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:11:55.657Z",
+      "lastCacheChangeAt": "2026-10-19T02:21:21.161Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": "2026-10-19T00:04:13.435Z",
       "lastError": null,
       "stats": {
         "searchRequests": 76,
-        "enrichmentRequests": 188,
+        "enrichmentRequests": 189,
         "usersDiscovered": 390,
-        "usersEnriched": 3246,
-        "usersRefreshed": 2856,
+        "usersEnriched": 3266,
+        "usersRefreshed": 2876,
         "usersKept": 236
       },
-      "refreshCursor": 20
+      "refreshCursor": 40
     },
     "bahrain": {
       "slug": "bahrain",
-      "status": "discovering",
+      "status": "refreshing",
       "queue": [
         {
           "country": "bahrain",
@@ -20250,24 +20250,24 @@
       "lastDiscoveryAt": "2026-10-19T01:16:45.346Z",
       "lastDiscoveryCompletedAt": "2026-08-17T05:00:13.469Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:11:59.297Z",
+      "lastCacheChangeAt": "2026-10-19T02:21:23.801Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": "2026-10-16T12:41:57.079Z",
       "lastError": null,
       "stats": {
         "searchRequests": 95,
-        "enrichmentRequests": 219,
+        "enrichmentRequests": 220,
         "usersDiscovered": 848,
-        "usersEnriched": 3717,
-        "usersRefreshed": 2869,
+        "usersEnriched": 3737,
+        "usersRefreshed": 2889,
         "usersKept": 727
       },
-      "refreshCursor": 680
+      "refreshCursor": 700
     },
     "bangladesh": {
       "slug": "bangladesh",
-      "status": "discovering",
+      "status": "refreshing",
       "queue": [
         {
           "country": "bangladesh",
@@ -21730,24 +21730,24 @@
       "lastDiscoveryAt": "2026-10-19T01:18:23.513Z",
       "lastDiscoveryCompletedAt": "2026-09-03T11:31:34.307Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:18:23.513Z",
+      "lastCacheChangeAt": "2026-10-19T02:21:27.648Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
         "searchRequests": 1047,
-        "enrichmentRequests": 4351,
+        "enrichmentRequests": 4352,
         "usersDiscovered": 83556,
-        "usersEnriched": 85517,
-        "usersRefreshed": 2861,
-        "usersKept": 55321
+        "usersEnriched": 85537,
+        "usersRefreshed": 2881,
+        "usersKept": 55320
       },
-      "refreshCursor": 2829
+      "refreshCursor": 2848
     },
     "barbados": {
       "slug": "barbados",
-      "status": "discovering",
+      "status": "refreshing",
       "queue": [
         {
           "country": "barbados",
@@ -22215,24 +22215,24 @@
       "lastDiscoveryAt": "2026-10-19T01:20:38.046Z",
       "lastDiscoveryCompletedAt": "2026-08-15T02:18:48.261Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:13:04.399Z",
+      "lastCacheChangeAt": "2026-10-19T02:21:32.630Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": "2026-10-18T17:45:36.729Z",
       "lastError": null,
       "stats": {
         "searchRequests": 57,
-        "enrichmentRequests": 170,
+        "enrichmentRequests": 171,
         "usersDiscovered": 143,
-        "usersEnriched": 2901,
-        "usersRefreshed": 2758,
+        "usersEnriched": 2921,
+        "usersRefreshed": 2778,
         "usersKept": 132
       },
-      "refreshCursor": 100
+      "refreshCursor": 120
     },
     "belarus": {
       "slug": "belarus",
-      "status": "discovering",
+      "status": "refreshing",
       "queue": [
         {
           "country": "belarus",
@@ -23452,24 +23452,24 @@
       "lastDiscoveryAt": "2026-10-19T01:23:12.609Z",
       "lastDiscoveryCompletedAt": "2026-08-20T15:18:15.123Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:13:09.759Z",
+      "lastCacheChangeAt": "2026-10-19T02:21:37.720Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
         "searchRequests": 249,
-        "enrichmentRequests": 939,
+        "enrichmentRequests": 940,
         "usersDiscovered": 15410,
-        "usersEnriched": 18194,
-        "usersRefreshed": 2884,
+        "usersEnriched": 18214,
+        "usersRefreshed": 2904,
         "usersKept": 10931
       },
-      "refreshCursor": 2867
+      "refreshCursor": 2887
     },
     "belgium": {
       "slug": "belgium",
-      "status": "discovering",
+      "status": "refreshing",
       "queue": [
         {
           "country": "belgium",
@@ -25740,24 +25740,24 @@
       "lastDiscoveryAt": "2026-10-19T01:27:50.586Z",
       "lastDiscoveryCompletedAt": "2026-08-23T07:07:30.832Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:13:43.519Z",
+      "lastCacheChangeAt": "2026-10-19T02:22:15.822Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
         "searchRequests": 388,
-        "enrichmentRequests": 1203,
+        "enrichmentRequests": 1204,
         "usersDiscovered": 20488,
-        "usersEnriched": 23119,
-        "usersRefreshed": 2883,
-        "usersKept": 18385
+        "usersEnriched": 23139,
+        "usersRefreshed": 2903,
+        "usersKept": 18384
       },
-      "refreshCursor": 2852
+      "refreshCursor": 2871
     },
     "belize": {
       "slug": "belize",
-      "status": "discovering",
+      "status": "refreshing",
       "queue": [
         {
           "country": "belize",
@@ -26225,24 +26225,24 @@
       "lastDiscoveryAt": "2026-10-19T01:29:21.990Z",
       "lastDiscoveryCompletedAt": "2026-08-15T02:20:21.681Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:13:47.079Z",
+      "lastCacheChangeAt": "2026-10-19T02:22:58.202Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": "2026-10-19T01:13:47.080Z",
       "lastError": null,
       "stats": {
         "searchRequests": 57,
-        "enrichmentRequests": 167,
+        "enrichmentRequests": 168,
         "usersDiscovered": 112,
-        "usersEnriched": 2862,
-        "usersRefreshed": 2750,
+        "usersEnriched": 2882,
+        "usersRefreshed": 2770,
         "usersKept": 94
       },
-      "refreshCursor": 0
+      "refreshCursor": 20
     },
     "benin": {
       "slug": "benin",
-      "status": "discovering",
+      "status": "refreshing",
       "queue": [
         {
           "country": "benin",
@@ -27217,24 +27217,24 @@
       "lastDiscoveryAt": "2026-10-19T01:30:38.565Z",
       "lastDiscoveryCompletedAt": "2026-08-17T06:17:24.519Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:14:12.377Z",
+      "lastCacheChangeAt": "2026-10-19T02:23:01.041Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": "2026-10-19T00:07:27.116Z",
       "lastError": null,
       "stats": {
         "searchRequests": 97,
-        "enrichmentRequests": 208,
+        "enrichmentRequests": 209,
         "usersDiscovered": 782,
-        "usersEnriched": 3633,
-        "usersRefreshed": 2851,
+        "usersEnriched": 3653,
+        "usersRefreshed": 2871,
         "usersKept": 471
       },
-      "refreshCursor": 20
+      "refreshCursor": 40
     },
     "bermuda": {
       "slug": "bermuda",
-      "status": "discovering",
+      "status": "refreshing",
       "queue": [
         {
           "country": "bermuda",
@@ -28449,24 +28449,24 @@
       "lastDiscoveryAt": "2026-10-19T01:33:26.547Z",
       "lastDiscoveryCompletedAt": "2026-08-17T18:05:07.168Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:14:15.957Z",
+      "lastCacheChangeAt": "2026-10-19T02:23:04.626Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": "2026-10-18T14:33:01.853Z",
       "lastError": null,
       "stats": {
         "searchRequests": 118,
-        "enrichmentRequests": 241,
+        "enrichmentRequests": 242,
         "usersDiscovered": 1445,
-        "usersEnriched": 4298,
-        "usersRefreshed": 2853,
+        "usersEnriched": 4318,
+        "usersRefreshed": 2873,
         "usersKept": 898
       },
-      "refreshCursor": 140
+      "refreshCursor": 160
     },
     "bhutan": {
       "slug": "bhutan",
-      "status": "discovering",
+      "status": "refreshing",
       "queue": [
         {
           "country": "bhutan",
@@ -29183,24 +29183,24 @@
       "lastDiscoveryAt": "2026-10-19T01:35:18.045Z",
       "lastDiscoveryCompletedAt": "2026-08-16T03:25:23.244Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:14:21.912Z",
+      "lastCacheChangeAt": "2026-10-19T02:23:11.660Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": "2026-10-18T17:46:18.923Z",
       "lastError": null,
       "stats": {
         "searchRequests": 76,
-        "enrichmentRequests": 186,
+        "enrichmentRequests": 187,
         "usersDiscovered": 388,
-        "usersEnriched": 3165,
-        "usersRefreshed": 2777,
+        "usersEnriched": 3185,
+        "usersRefreshed": 2797,
         "usersKept": 266
       },
-      "refreshCursor": 100
+      "refreshCursor": 120
     },
     "bolivia": {
       "slug": "bolivia",
-      "status": "discovering",
+      "status": "refreshing",
       "queue": [
         {
           "country": "bolivia",
@@ -31669,24 +31669,24 @@
       "lastDiscoveryAt": "2026-10-19T01:37:09.719Z",
       "lastDiscoveryCompletedAt": "2026-08-20T06:40:56.125Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:14:24.713Z",
+      "lastCacheChangeAt": "2026-10-19T02:24:22.163Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": "2026-10-14T21:21:33.858Z",
       "lastError": null,
       "stats": {
         "searchRequests": 225,
-        "enrichmentRequests": 287,
+        "enrichmentRequests": 288,
         "usersDiscovered": 2452,
-        "usersEnriched": 5307,
-        "usersRefreshed": 2874,
+        "usersEnriched": 5327,
+        "usersRefreshed": 2894,
         "usersKept": 1784
       },
-      "refreshCursor": 1080
+      "refreshCursor": 1100
     },
     "bosnia_and_herzegovina": {
       "slug": "bosnia_and_herzegovina",
-      "status": "discovering",
+      "status": "refreshing",
       "queue": [
         {
           "country": "bosnia_and_herzegovina",
@@ -32662,24 +32662,24 @@
       "lastDiscoveryAt": "2026-10-19T01:39:05.898Z",
       "lastDiscoveryCompletedAt": "2026-08-17T18:05:16.307Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:14:30.738Z",
+      "lastCacheChangeAt": "2026-10-19T02:24:25.643Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": "2026-10-16T06:48:21.813Z",
       "lastError": null,
       "stats": {
         "searchRequests": 118,
-        "enrichmentRequests": 366,
+        "enrichmentRequests": 367,
         "usersDiscovered": 3850,
-        "usersEnriched": 6643,
-        "usersRefreshed": 2877,
+        "usersEnriched": 6663,
+        "usersRefreshed": 2897,
         "usersKept": 2126
       },
-      "refreshCursor": 739
+      "refreshCursor": 759
     },
     "botswana": {
       "slug": "botswana",
-      "status": "discovering",
+      "status": "refreshing",
       "queue": [
         {
           "country": "botswana",
@@ -33650,20 +33650,20 @@
       "lastDiscoveryAt": "2026-10-19T01:40:26.957Z",
       "lastDiscoveryCompletedAt": "2026-08-17T06:17:40.477Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:14:33.752Z",
+      "lastCacheChangeAt": "2026-10-19T02:24:28.210Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": "2026-10-18T08:46:35.295Z",
       "lastError": null,
       "stats": {
         "searchRequests": 97,
-        "enrichmentRequests": 205,
+        "enrichmentRequests": 206,
         "usersDiscovered": 798,
-        "usersEnriched": 3666,
-        "usersRefreshed": 2868,
+        "usersEnriched": 3686,
+        "usersRefreshed": 2888,
         "usersKept": 533
       },
-      "refreshCursor": 200
+      "refreshCursor": 220
     },
     "bouvet_island": {
       "slug": "bouvet_island",
@@ -34135,17 +34135,17 @@
       "lastDiscoveryAt": "2026-10-19T01:43:22.710Z",
       "lastDiscoveryCompletedAt": "2026-08-15T02:21:13.051Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:15:07.974Z",
+      "lastCacheChangeAt": "2026-10-19T02:24:29.479Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
-      "lastContributionRefreshAt": "2026-10-19T01:15:07.974Z",
+      "lastContributionRefreshAt": "2026-10-19T02:24:29.479Z",
       "lastError": null,
       "stats": {
         "searchRequests": 57,
-        "enrichmentRequests": 150,
+        "enrichmentRequests": 151,
         "usersDiscovered": 6,
-        "usersEnriched": 876,
-        "usersRefreshed": 870,
+        "usersEnriched": 882,
+        "usersRefreshed": 876,
         "usersKept": 6
       },
       "refreshCursor": 0
@@ -36629,19 +36629,19 @@
           "kept": 80
         }
       },
-      "lastDiscoveryAt": "2026-10-19T02:01:02.495Z",
+      "lastDiscoveryAt": "2026-10-19T02:32:21.181Z",
       "lastDiscoveryCompletedAt": null,
       "discoveryQueuedThrough": "2026-05-12",
-      "lastCacheChangeAt": "2026-10-19T02:01:02.495Z",
+      "lastCacheChangeAt": "2026-10-19T02:32:21.181Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 2632,
-        "enrichmentRequests": 10752,
-        "usersDiscovered": 222219,
-        "usersEnriched": 212095,
+        "searchRequests": 2635,
+        "enrichmentRequests": 10761,
+        "usersDiscovered": 222519,
+        "usersEnriched": 212275,
         "usersRefreshed": 0,
         "usersKept": 164708
       }
@@ -37116,17 +37116,17 @@
       "lastDiscoveryAt": "2026-10-19T01:45:20.566Z",
       "lastDiscoveryCompletedAt": "2026-08-15T02:21:20.923Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:15:11.625Z",
+      "lastCacheChangeAt": "2026-10-19T02:24:33.501Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
-      "lastContributionRefreshAt": "2026-10-19T01:15:11.625Z",
+      "lastContributionRefreshAt": "2026-10-19T02:24:33.501Z",
       "lastError": null,
       "stats": {
         "searchRequests": 57,
-        "enrichmentRequests": 148,
+        "enrichmentRequests": 149,
         "usersDiscovered": 3,
-        "usersEnriched": 438,
-        "usersRefreshed": 435,
+        "usersEnriched": 441,
+        "usersRefreshed": 438,
         "usersKept": 3
       },
       "refreshCursor": 0
@@ -38099,24 +38099,24 @@
       "lastDiscoveryAt": "2026-10-19T01:47:00.873Z",
       "lastDiscoveryCompletedAt": "2026-08-17T05:02:43.653Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:15:36.836Z",
+      "lastCacheChangeAt": "2026-10-19T02:25:09.311Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
-      "lastContributionRefreshAt": "2026-10-19T00:09:06.378Z",
+      "lastContributionRefreshAt": "2026-10-19T02:25:09.311Z",
       "lastError": null,
       "stats": {
         "searchRequests": 95,
-        "enrichmentRequests": 206,
+        "enrichmentRequests": 207,
         "usersDiscovered": 324,
-        "usersEnriched": 3080,
-        "usersRefreshed": 2756,
+        "usersEnriched": 3098,
+        "usersRefreshed": 2774,
         "usersKept": 38
       },
-      "refreshCursor": 20
+      "refreshCursor": 0
     },
     "brunei": {
       "slug": "brunei",
-      "status": "discovering",
+      "status": "refreshing",
       "queue": [
         {
           "country": "brunei",
@@ -39585,24 +39585,24 @@
       "lastDiscoveryAt": "2026-10-19T01:48:36.072Z",
       "lastDiscoveryCompletedAt": "2026-08-18T05:21:53.279Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:16:12.956Z",
+      "lastCacheChangeAt": "2026-10-19T02:25:39.900Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": "2026-10-18T22:58:47.935Z",
       "lastError": null,
       "stats": {
         "searchRequests": 135,
-        "enrichmentRequests": 191,
+        "enrichmentRequests": 192,
         "usersDiscovered": 408,
-        "usersEnriched": 3243,
-        "usersRefreshed": 2835,
+        "usersEnriched": 3263,
+        "usersRefreshed": 2855,
         "usersKept": 254
       },
-      "refreshCursor": 40
+      "refreshCursor": 60
     },
     "bulgaria": {
       "slug": "bulgaria",
-      "status": "discovering",
+      "status": "refreshing",
       "queue": [
         {
           "country": "bulgaria",
@@ -41593,24 +41593,24 @@
       "lastDiscoveryAt": "2026-10-19T01:50:45.226Z",
       "lastDiscoveryCompletedAt": "2026-08-22T21:47:32.765Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:16:44.570Z",
+      "lastCacheChangeAt": "2026-10-19T02:26:07.558Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
         "searchRequests": 358,
-        "enrichmentRequests": 1286,
+        "enrichmentRequests": 1287,
         "usersDiscovered": 21693,
-        "usersEnriched": 24360,
-        "usersRefreshed": 2887,
+        "usersEnriched": 24380,
+        "usersRefreshed": 2907,
         "usersKept": 14071
       },
-      "refreshCursor": 2871
+      "refreshCursor": 2891
     },
     "burkina_faso": {
       "slug": "burkina_faso",
-      "status": "discovering",
+      "status": "refreshing",
       "queue": [
         {
           "country": "burkina_faso",
@@ -42096,24 +42096,24 @@
       "lastDiscoveryAt": "2026-10-19T01:53:29.437Z",
       "lastDiscoveryCompletedAt": "2026-08-15T02:21:48.435Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:16:50.535Z",
+      "lastCacheChangeAt": "2026-10-19T02:26:12.130Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": "2026-10-17T13:59:45.943Z",
       "lastError": null,
       "stats": {
         "searchRequests": 57,
-        "enrichmentRequests": 198,
+        "enrichmentRequests": 199,
         "usersDiscovered": 631,
-        "usersEnriched": 3463,
-        "usersRefreshed": 2832,
+        "usersEnriched": 3483,
+        "usersRefreshed": 2852,
         "usersKept": 486
       },
-      "refreshCursor": 400
+      "refreshCursor": 420
     },
     "burundi": {
       "slug": "burundi",
-      "status": "discovering",
+      "status": "refreshing",
       "queue": [
         {
           "country": "burundi",
@@ -43328,20 +43328,20 @@
       "lastDiscoveryAt": "2026-10-19T01:55:12.922Z",
       "lastDiscoveryCompletedAt": "2026-08-17T16:11:42.673Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:17:10.239Z",
+      "lastCacheChangeAt": "2026-10-19T02:26:17.066Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": "2026-10-19T01:17:10.239Z",
       "lastError": null,
       "stats": {
         "searchRequests": 114,
-        "enrichmentRequests": 177,
+        "enrichmentRequests": 178,
         "usersDiscovered": 302,
-        "usersEnriched": 3126,
-        "usersRefreshed": 2824,
+        "usersEnriched": 3146,
+        "usersRefreshed": 2844,
         "usersKept": 235
       },
-      "refreshCursor": 0
+      "refreshCursor": 20
     },
     "cambodia": {
       "slug": "cambodia",
@@ -44071,24 +44071,24 @@
       "lastDiscoveryAt": "2026-10-19T01:56:47.474Z",
       "lastDiscoveryCompletedAt": "2026-08-17T07:46:41.642Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:17:44.123Z",
+      "lastCacheChangeAt": "2026-10-19T02:26:25.607Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
-      "lastContributionRefreshAt": null,
+      "lastContributionRefreshAt": "2026-10-19T02:26:25.607Z",
       "lastError": null,
       "stats": {
         "searchRequests": 99,
-        "enrichmentRequests": 364,
+        "enrichmentRequests": 365,
         "usersDiscovered": 3904,
-        "usersEnriched": 6786,
-        "usersRefreshed": 2882,
+        "usersEnriched": 6787,
+        "usersRefreshed": 2883,
         "usersKept": 2863
       },
-      "refreshCursor": 2862
+      "refreshCursor": 0
     },
     "cameroon": {
       "slug": "cameroon",
-      "status": "discovering",
+      "status": "refreshing",
       "queue": [
         {
           "country": "cameroon",
@@ -45068,20 +45068,20 @@
       "lastDiscoveryAt": "2026-10-19T01:58:27.151Z",
       "lastDiscoveryCompletedAt": "2026-08-17T14:07:46.871Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:18:20.428Z",
+      "lastCacheChangeAt": "2026-10-19T02:26:29.006Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": "2026-10-14T21:24:37.247Z",
       "lastError": null,
       "stats": {
         "searchRequests": 110,
-        "enrichmentRequests": 278,
+        "enrichmentRequests": 279,
         "usersDiscovered": 2220,
-        "usersEnriched": 5053,
-        "usersRefreshed": 2893,
+        "usersEnriched": 5073,
+        "usersRefreshed": 2913,
         "usersKept": 1798
       },
-      "refreshCursor": 1079
+      "refreshCursor": 1099
     },
     "canada": {
       "slug": "canada",
@@ -46689,26 +46689,26 @@
           "kept": 19
         }
       },
-      "lastDiscoveryAt": "2026-10-19T02:03:36.562Z",
+      "lastDiscoveryAt": "2026-10-19T02:33:26.216Z",
       "lastDiscoveryCompletedAt": null,
       "discoveryQueuedThrough": "2026-05-12",
-      "lastCacheChangeAt": "2026-10-19T02:03:36.562Z",
+      "lastCacheChangeAt": "2026-10-19T02:33:26.216Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 2632,
-        "enrichmentRequests": 9472,
-        "usersDiscovered": 234925,
-        "usersEnriched": 187080,
+        "searchRequests": 2635,
+        "enrichmentRequests": 9481,
+        "usersDiscovered": 235225,
+        "usersEnriched": 187260,
         "usersRefreshed": 0,
         "usersKept": 118783
       }
     },
     "cape_verde": {
       "slug": "cape_verde",
-      "status": "discovering",
+      "status": "refreshing",
       "queue": [
         {
           "country": "cape_verde",
@@ -47683,32 +47683,25 @@
       "lastDiscoveryAt": "2026-10-19T02:00:18.551Z",
       "lastDiscoveryCompletedAt": "2026-08-17T05:44:52.638Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:18:26.512Z",
+      "lastCacheChangeAt": "2026-10-19T02:26:32.099Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": "2026-10-19T01:18:26.512Z",
       "lastError": null,
       "stats": {
         "searchRequests": 96,
-        "enrichmentRequests": 206,
+        "enrichmentRequests": 207,
         "usersDiscovered": 758,
-        "usersEnriched": 3576,
-        "usersRefreshed": 2818,
+        "usersEnriched": 3596,
+        "usersRefreshed": 2838,
         "usersKept": 563
       },
-      "refreshCursor": 0
+      "refreshCursor": 20
     },
     "caribbean_netherlands": {
       "slug": "caribbean_netherlands",
       "status": "discovering",
       "queue": [
-        {
-          "country": "caribbean_netherlands",
-          "term": "BES islands",
-          "kind": "country",
-          "createdStart": "2026-06-30",
-          "createdEnd": "2026-06-30"
-        },
         {
           "country": "caribbean_netherlands",
           "term": "Bonaire, Sint Eustatius and Saba",
@@ -49161,22 +49154,27 @@
           "completedAt": "2026-10-18T14:57:25.281Z",
           "total": 0,
           "kept": 0
+        },
+        "caribbean_netherlands|country|BES islands|2026-06-30|2026-06-30||": {
+          "completedAt": "2026-10-19T02:06:23.459Z",
+          "total": 0,
+          "kept": 0
         }
       },
-      "lastDiscoveryAt": "2026-10-18T14:57:25.281Z",
+      "lastDiscoveryAt": "2026-10-19T02:06:23.459Z",
       "lastDiscoveryCompletedAt": "2026-08-18T04:53:13.163Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:18:28.685Z",
+      "lastCacheChangeAt": "2026-10-19T02:27:06.007Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
-      "lastContributionRefreshAt": "2026-10-19T01:18:28.685Z",
+      "lastContributionRefreshAt": "2026-10-19T02:27:06.007Z",
       "lastError": null,
       "stats": {
-        "searchRequests": 133,
-        "enrichmentRequests": 166,
+        "searchRequests": 134,
+        "enrichmentRequests": 167,
         "usersDiscovered": 48,
-        "usersEnriched": 1938,
-        "usersRefreshed": 1891,
+        "usersEnriched": 1950,
+        "usersRefreshed": 1903,
         "usersKept": 12
       },
       "refreshCursor": 0
@@ -49185,13 +49183,6 @@
       "slug": "cayman_islands",
       "status": "refreshing",
       "queue": [
-        {
-          "country": "cayman_islands",
-          "term": "Cayman Islands",
-          "kind": "country",
-          "createdStart": "2026-07-06",
-          "createdEnd": "2026-07-06"
-        },
         {
           "country": "cayman_islands",
           "term": "George Town",
@@ -49648,37 +49639,35 @@
           "completedAt": "2026-10-18T14:59:51.843Z",
           "total": 0,
           "kept": 0
+        },
+        "cayman_islands|country|Cayman Islands|2026-07-06|2026-07-06||": {
+          "completedAt": "2026-10-19T02:08:05.940Z",
+          "total": 0,
+          "kept": 0
         }
       },
-      "lastDiscoveryAt": "2026-10-18T14:59:51.843Z",
+      "lastDiscoveryAt": "2026-10-19T02:08:05.940Z",
       "lastDiscoveryCompletedAt": "2026-08-15T02:24:03.679Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:18:54.392Z",
+      "lastCacheChangeAt": "2026-10-19T02:27:33.429Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": "2026-10-18T17:50:38.915Z",
       "lastError": null,
       "stats": {
-        "searchRequests": 56,
-        "enrichmentRequests": 174,
+        "searchRequests": 57,
+        "enrichmentRequests": 175,
         "usersDiscovered": 145,
-        "usersEnriched": 2722,
-        "usersRefreshed": 2577,
+        "usersEnriched": 2742,
+        "usersRefreshed": 2597,
         "usersKept": 124
       },
-      "refreshCursor": 100
+      "refreshCursor": 120
     },
     "central_african_republic": {
       "slug": "central_african_republic",
       "status": "discovering",
       "queue": [
-        {
-          "country": "central_african_republic",
-          "term": "Central African Republic",
-          "kind": "country",
-          "createdStart": "2026-07-03",
-          "createdEnd": "2026-07-03"
-        },
         {
           "country": "central_african_republic",
           "term": "République centrafricaine",
@@ -50384,22 +50373,27 @@
           "completedAt": "2026-10-18T15:06:26.513Z",
           "total": 0,
           "kept": 0
+        },
+        "central_african_republic|country|Central African Republic|2026-07-03|2026-07-03||": {
+          "completedAt": "2026-10-19T02:09:42.017Z",
+          "total": 0,
+          "kept": 0
         }
       },
-      "lastDiscoveryAt": "2026-10-18T15:06:26.513Z",
+      "lastDiscoveryAt": "2026-10-19T02:09:42.017Z",
       "lastDiscoveryCompletedAt": "2026-08-16T03:28:55.809Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:18:56.372Z",
+      "lastCacheChangeAt": "2026-10-19T02:27:38.240Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
-      "lastContributionRefreshAt": "2026-10-19T01:18:56.372Z",
+      "lastContributionRefreshAt": "2026-10-19T02:27:38.240Z",
       "lastError": null,
       "stats": {
-        "searchRequests": 75,
-        "enrichmentRequests": 154,
+        "searchRequests": 76,
+        "enrichmentRequests": 155,
         "usersDiscovered": 13,
-        "usersEnriched": 1608,
-        "usersRefreshed": 1595,
+        "usersEnriched": 1619,
+        "usersRefreshed": 1606,
         "usersKept": 11
       },
       "refreshCursor": 0
@@ -50408,13 +50402,6 @@
       "slug": "chad",
       "status": "refreshing",
       "queue": [
-        {
-          "country": "chad",
-          "term": "Republic of Chad",
-          "kind": "country",
-          "createdStart": "2026-06-30",
-          "createdEnd": "2026-06-30"
-        },
         {
           "country": "chad",
           "term": "République du Tchad",
@@ -51627,37 +51614,35 @@
           "completedAt": "2026-10-18T15:09:10.197Z",
           "total": 0,
           "kept": 0
+        },
+        "chad|country|Republic of Chad|2026-06-30|2026-06-30||": {
+          "completedAt": "2026-10-19T02:11:29.423Z",
+          "total": 0,
+          "kept": 0
         }
       },
-      "lastDiscoveryAt": "2026-10-18T15:09:10.197Z",
+      "lastDiscoveryAt": "2026-10-19T02:11:29.423Z",
       "lastDiscoveryCompletedAt": "2026-08-17T16:12:03.894Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:18:58.850Z",
+      "lastCacheChangeAt": "2026-10-19T02:28:13.210Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": "2026-10-18T16:07:04.999Z",
       "lastError": null,
       "stats": {
-        "searchRequests": 113,
-        "enrichmentRequests": 186,
+        "searchRequests": 114,
+        "enrichmentRequests": 187,
         "usersDiscovered": 246,
-        "usersEnriched": 2974,
-        "usersRefreshed": 2728,
+        "usersEnriched": 2994,
+        "usersRefreshed": 2748,
         "usersKept": 201
       },
-      "refreshCursor": 120
+      "refreshCursor": 140
     },
     "chile": {
       "slug": "chile",
       "status": "refreshing",
       "queue": [
-        {
-          "country": "chile",
-          "term": "República de Chile",
-          "kind": "country",
-          "createdStart": "2026-07-01",
-          "createdEnd": "2026-07-01"
-        },
         {
           "country": "chile",
           "term": "Santiago",
@@ -52672,25 +52657,30 @@
           "completedAt": "2026-10-18T15:12:46.761Z",
           "total": 0,
           "kept": 0
+        },
+        "chile|country|República de Chile|2026-07-01|2026-07-01||": {
+          "completedAt": "2026-10-19T02:14:30.149Z",
+          "total": 0,
+          "kept": 0
         }
       },
-      "lastDiscoveryAt": "2026-10-18T15:12:46.761Z",
+      "lastDiscoveryAt": "2026-10-19T02:14:30.149Z",
       "lastDiscoveryCompletedAt": "2026-08-23T03:39:33.250Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:19:01.706Z",
+      "lastCacheChangeAt": "2026-10-19T02:28:45.700Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 371,
-        "enrichmentRequests": 1541,
+        "searchRequests": 372,
+        "enrichmentRequests": 1542,
         "usersDiscovered": 27997,
-        "usersEnriched": 30283,
-        "usersRefreshed": 2886,
-        "usersKept": 19384
+        "usersEnriched": 30303,
+        "usersRefreshed": 2906,
+        "usersKept": 19383
       },
-      "refreshCursor": 2859
+      "refreshCursor": 2878
     },
     "china": {
       "slug": "china",
@@ -55033,18 +55023,18 @@
           "kept": 76
         }
       },
-      "lastDiscoveryAt": "2026-10-19T01:53:20.753Z",
+      "lastDiscoveryAt": "2026-10-19T02:34:17.250Z",
       "lastDiscoveryCompletedAt": null,
       "discoveryQueuedThrough": "2026-05-12",
-      "lastCacheChangeAt": "2026-10-19T01:18:47.820Z",
+      "lastCacheChangeAt": "2026-10-19T02:11:11.019Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 2631,
+        "searchRequests": 2635,
         "enrichmentRequests": 8245,
-        "usersDiscovered": 228705,
+        "usersDiscovered": 229105,
         "usersEnriched": 162395,
         "usersRefreshed": 0,
         "usersKept": 119025
@@ -55054,13 +55044,6 @@
       "slug": "christmas_island",
       "status": "discovering",
       "queue": [
-        {
-          "country": "christmas_island",
-          "term": "Christmas Island",
-          "kind": "country",
-          "createdStart": "2026-07-03",
-          "createdEnd": "2026-07-03"
-        },
         {
           "country": "christmas_island",
           "term": "Territory of Christmas Island",
@@ -55766,22 +55749,27 @@
           "completedAt": "2026-10-18T15:14:19.262Z",
           "total": 0,
           "kept": 0
+        },
+        "christmas_island|country|Christmas Island|2026-07-03|2026-07-03||": {
+          "completedAt": "2026-10-19T02:16:13.604Z",
+          "total": 0,
+          "kept": 0
         }
       },
-      "lastDiscoveryAt": "2026-10-18T15:14:19.262Z",
+      "lastDiscoveryAt": "2026-10-19T02:16:13.604Z",
       "lastDiscoveryCompletedAt": "2026-08-16T03:29:23.802Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:19:04.661Z",
+      "lastCacheChangeAt": "2026-10-19T02:29:08.414Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
-      "lastContributionRefreshAt": "2026-10-19T01:19:04.661Z",
+      "lastContributionRefreshAt": "2026-10-19T02:29:08.414Z",
       "lastError": null,
       "stats": {
-        "searchRequests": 75,
-        "enrichmentRequests": 160,
+        "searchRequests": 76,
+        "enrichmentRequests": 161,
         "usersDiscovered": 22,
-        "usersEnriched": 2922,
-        "usersRefreshed": 2900,
+        "usersEnriched": 2942,
+        "usersRefreshed": 2920,
         "usersKept": 20
       },
       "refreshCursor": 0
@@ -55790,13 +55778,6 @@
       "slug": "cocos_keeling_islands",
       "status": "discovering",
       "queue": [
-        {
-          "country": "cocos_keeling_islands",
-          "term": "Territory of the Cocos (Keeling) Islands",
-          "kind": "country",
-          "createdStart": "2026-06-30",
-          "createdEnd": "2026-06-30"
-        },
         {
           "country": "cocos_keeling_islands",
           "term": "West Island",
@@ -57000,22 +56981,27 @@
           "completedAt": "2026-10-18T15:17:09.274Z",
           "total": 0,
           "kept": 0
+        },
+        "cocos_keeling_islands|country|Territory of the Cocos (Keeling) Islands|2026-06-30|2026-06-30||": {
+          "completedAt": "2026-10-19T02:18:00.329Z",
+          "total": 0,
+          "kept": 0
         }
       },
-      "lastDiscoveryAt": "2026-10-18T15:17:09.274Z",
+      "lastDiscoveryAt": "2026-10-19T02:18:00.329Z",
       "lastDiscoveryCompletedAt": "2026-08-17T16:12:40.288Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:19:06.236Z",
+      "lastCacheChangeAt": "2026-10-19T02:29:12.817Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
-      "lastContributionRefreshAt": "2026-10-19T01:19:06.236Z",
+      "lastContributionRefreshAt": "2026-10-19T02:29:12.817Z",
       "lastError": null,
       "stats": {
-        "searchRequests": 113,
-        "enrichmentRequests": 157,
+        "searchRequests": 114,
+        "enrichmentRequests": 158,
         "usersDiscovered": 18,
-        "usersEnriched": 1323,
-        "usersRefreshed": 1305,
+        "usersEnriched": 1332,
+        "usersRefreshed": 1314,
         "usersKept": 9
       },
       "refreshCursor": 0
@@ -57024,13 +57010,6 @@
       "slug": "colombia",
       "status": "refreshing",
       "queue": [
-        {
-          "country": "colombia",
-          "term": "Colombia",
-          "kind": "country",
-          "createdStart": "2026-07-01",
-          "createdEnd": "2026-07-01"
-        },
         {
           "country": "colombia",
           "term": "Republic of Colombia",
@@ -58139,37 +58118,35 @@
           "completedAt": "2026-10-18T15:21:32.091Z",
           "total": 0,
           "kept": 0
+        },
+        "colombia|country|Colombia|2026-07-01|2026-07-01||": {
+          "completedAt": "2026-10-19T02:19:32.243Z",
+          "total": 5,
+          "kept": 5
         }
       },
-      "lastDiscoveryAt": "2026-10-18T15:21:32.091Z",
+      "lastDiscoveryAt": "2026-10-19T02:19:32.243Z",
       "lastDiscoveryCompletedAt": "2026-08-24T12:30:34.852Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:19:41.913Z",
+      "lastCacheChangeAt": "2026-10-19T02:29:43.220Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 488,
-        "enrichmentRequests": 2019,
-        "usersDiscovered": 36792,
-        "usersEnriched": 39469,
-        "usersRefreshed": 2857,
-        "usersKept": 29150
+        "searchRequests": 489,
+        "enrichmentRequests": 2021,
+        "usersDiscovered": 36797,
+        "usersEnriched": 39494,
+        "usersRefreshed": 2877,
+        "usersKept": 29155
       },
-      "refreshCursor": 2829
+      "refreshCursor": 2849
     },
     "comoros": {
       "slug": "comoros",
       "status": "discovering",
       "queue": [
-        {
-          "country": "comoros",
-          "term": "al-Ittiḥād al-Qumurī",
-          "kind": "country",
-          "createdStart": "2026-06-30",
-          "createdEnd": "2026-06-30"
-        },
         {
           "country": "comoros",
           "term": "Comoros",
@@ -59622,22 +59599,27 @@
           "completedAt": "2026-10-18T15:24:20.831Z",
           "total": 0,
           "kept": 0
+        },
+        "comoros|country|al-Ittiḥād al-Qumurī|2026-06-30|2026-06-30||": {
+          "completedAt": "2026-10-19T02:21:33.316Z",
+          "total": 0,
+          "kept": 0
         }
       },
-      "lastDiscoveryAt": "2026-10-18T15:24:20.831Z",
+      "lastDiscoveryAt": "2026-10-19T02:21:33.316Z",
       "lastDiscoveryCompletedAt": "2026-08-18T04:21:54.064Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:20:31.042Z",
+      "lastCacheChangeAt": "2026-10-19T02:30:21.461Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
-      "lastContributionRefreshAt": "2026-10-19T01:20:31.042Z",
+      "lastContributionRefreshAt": "2026-10-19T02:30:21.461Z",
       "lastError": null,
       "stats": {
-        "searchRequests": 132,
-        "enrichmentRequests": 159,
+        "searchRequests": 133,
+        "enrichmentRequests": 160,
         "usersDiscovered": 18,
-        "usersEnriched": 1613,
-        "usersRefreshed": 1595,
+        "usersEnriched": 1624,
+        "usersRefreshed": 1606,
         "usersKept": 11
       },
       "refreshCursor": 0
@@ -59646,13 +59628,6 @@
       "slug": "cook_islands",
       "status": "discovering",
       "queue": [
-        {
-          "country": "cook_islands",
-          "term": "Cook Islands",
-          "kind": "country",
-          "createdStart": "2026-07-03",
-          "createdEnd": "2026-07-03"
-        },
         {
           "country": "cook_islands",
           "term": "Kūki 'Āirani",
@@ -60358,22 +60333,27 @@
           "completedAt": "2026-10-18T15:27:08.102Z",
           "total": 0,
           "kept": 0
+        },
+        "cook_islands|country|Cook Islands|2026-07-03|2026-07-03||": {
+          "completedAt": "2026-10-19T02:24:29.992Z",
+          "total": 0,
+          "kept": 0
         }
       },
-      "lastDiscoveryAt": "2026-10-18T15:27:08.102Z",
+      "lastDiscoveryAt": "2026-10-19T02:24:29.992Z",
       "lastDiscoveryCompletedAt": "2026-08-16T03:29:49.966Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:20:32.209Z",
+      "lastCacheChangeAt": "2026-10-19T02:30:39.534Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
-      "lastContributionRefreshAt": "2026-10-19T01:20:32.209Z",
+      "lastContributionRefreshAt": "2026-10-19T02:30:39.534Z",
       "lastError": null,
       "stats": {
-        "searchRequests": 75,
-        "enrichmentRequests": 153,
+        "searchRequests": 76,
+        "enrichmentRequests": 154,
         "usersDiscovered": 9,
-        "usersEnriched": 1018,
-        "usersRefreshed": 1009,
+        "usersEnriched": 1025,
+        "usersRefreshed": 1016,
         "usersKept": 7
       },
       "refreshCursor": 0
@@ -60382,13 +60362,6 @@
       "slug": "costa_rica",
       "status": "refreshing",
       "queue": [
-        {
-          "country": "costa_rica",
-          "term": "República de Costa Rica",
-          "kind": "country",
-          "createdStart": "2026-07-01",
-          "createdEnd": "2026-07-01"
-        },
         {
           "country": "costa_rica",
           "term": "San José",
@@ -61343,37 +61316,35 @@
           "completedAt": "2026-10-18T15:28:44.101Z",
           "total": 0,
           "kept": 0
+        },
+        "costa_rica|country|República de Costa Rica|2026-07-01|2026-07-01||": {
+          "completedAt": "2026-10-19T02:26:12.672Z",
+          "total": 0,
+          "kept": 0
         }
       },
-      "lastDiscoveryAt": "2026-10-18T15:28:44.101Z",
+      "lastDiscoveryAt": "2026-10-19T02:26:12.672Z",
       "lastDiscoveryCompletedAt": "2026-08-18T14:58:26.033Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:20:34.308Z",
+      "lastCacheChangeAt": "2026-10-19T02:30:42.296Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 143,
-        "enrichmentRequests": 482,
+        "searchRequests": 144,
+        "enrichmentRequests": 483,
         "usersDiscovered": 6373,
-        "usersEnriched": 9200,
-        "usersRefreshed": 2887,
-        "usersKept": 5628
+        "usersEnriched": 9219,
+        "usersRefreshed": 2906,
+        "usersKept": 5627
       },
-      "refreshCursor": 2876
+      "refreshCursor": 2895
     },
     "croatia": {
       "slug": "croatia",
       "status": "refreshing",
       "queue": [
-        {
-          "country": "croatia",
-          "term": "Hrvatska",
-          "kind": "country",
-          "createdStart": "2026-06-30",
-          "createdEnd": "2026-06-30"
-        },
         {
           "country": "croatia",
           "term": "Republic of Croatia",
@@ -62586,37 +62557,35 @@
           "completedAt": "2026-10-18T15:30:28.854Z",
           "total": 0,
           "kept": 0
+        },
+        "croatia|country|Hrvatska|2026-06-30|2026-06-30||": {
+          "completedAt": "2026-10-19T02:27:33.973Z",
+          "total": 0,
+          "kept": 0
         }
       },
-      "lastDiscoveryAt": "2026-10-18T15:30:28.854Z",
+      "lastDiscoveryAt": "2026-10-19T02:27:33.973Z",
       "lastDiscoveryCompletedAt": "2026-08-19T03:26:21.631Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:20:37.498Z",
+      "lastCacheChangeAt": "2026-10-19T02:30:50.110Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 167,
-        "enrichmentRequests": 533,
+        "searchRequests": 168,
+        "enrichmentRequests": 534,
         "usersDiscovered": 7131,
-        "usersEnriched": 9961,
-        "usersRefreshed": 2887,
+        "usersEnriched": 9981,
+        "usersRefreshed": 2907,
         "usersKept": 5427
       },
-      "refreshCursor": 2872
+      "refreshCursor": 2892
     },
     "cuba": {
       "slug": "cuba",
       "status": "refreshing",
       "queue": [
-        {
-          "country": "cuba",
-          "term": "Cuba",
-          "kind": "country",
-          "createdStart": "2026-07-01",
-          "createdEnd": "2026-07-01"
-        },
         {
           "country": "cuba",
           "term": "Republic of Cuba",
@@ -63580,37 +63549,35 @@
           "completedAt": "2026-10-18T15:40:15.731Z",
           "total": 0,
           "kept": 0
+        },
+        "cuba|country|Cuba|2026-07-01|2026-07-01||": {
+          "completedAt": "2026-10-19T02:29:08.962Z",
+          "total": 0,
+          "kept": 0
         }
       },
-      "lastDiscoveryAt": "2026-10-18T15:40:15.731Z",
+      "lastDiscoveryAt": "2026-10-19T02:29:08.962Z",
       "lastDiscoveryCompletedAt": "2026-08-17T09:49:36.751Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:20:44.298Z",
+      "lastCacheChangeAt": "2026-10-19T02:30:53.065Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": "2026-10-17T22:48:22.301Z",
       "lastError": null,
       "stats": {
-        "searchRequests": 102,
-        "enrichmentRequests": 251,
+        "searchRequests": 103,
+        "enrichmentRequests": 252,
         "usersDiscovered": 1757,
-        "usersEnriched": 4510,
-        "usersRefreshed": 2873,
-        "usersKept": 1274
+        "usersEnriched": 4529,
+        "usersRefreshed": 2892,
+        "usersKept": 1273
       },
-      "refreshCursor": 299
+      "refreshCursor": 318
     },
     "curacao": {
       "slug": "curacao",
-      "status": "refreshing",
+      "status": "discovering",
       "queue": [
-        {
-          "country": "curacao",
-          "term": "Country of Curaçao",
-          "kind": "country",
-          "createdStart": "2026-06-30",
-          "createdEnd": "2026-06-30"
-        },
         {
           "country": "curacao",
           "term": "Curaçao",
@@ -65063,37 +65030,35 @@
           "completedAt": "2026-10-18T15:41:48.989Z",
           "total": 0,
           "kept": 0
+        },
+        "curacao|country|Country of Curaçao|2026-06-30|2026-06-30||": {
+          "completedAt": "2026-10-19T02:31:03.701Z",
+          "total": 0,
+          "kept": 0
         }
       },
-      "lastDiscoveryAt": "2026-10-18T15:41:48.989Z",
+      "lastDiscoveryAt": "2026-10-19T02:31:03.701Z",
       "lastDiscoveryCompletedAt": "2026-08-18T04:22:18.671Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:21:52.385Z",
+      "lastCacheChangeAt": "2026-10-19T02:30:55.560Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": "2026-10-19T00:13:52.667Z",
       "lastError": null,
       "stats": {
-        "searchRequests": 132,
-        "enrichmentRequests": 172,
+        "searchRequests": 133,
+        "enrichmentRequests": 173,
         "usersDiscovered": 59,
-        "usersEnriched": 2623,
-        "usersRefreshed": 2564,
+        "usersEnriched": 2643,
+        "usersRefreshed": 2584,
         "usersKept": 53
       },
-      "refreshCursor": 20
+      "refreshCursor": 40
     },
     "cyprus": {
       "slug": "cyprus",
-      "status": "refreshing",
+      "status": "discovering",
       "queue": [
-        {
-          "country": "cyprus",
-          "term": "Kıbrıs Cumhuriyeti",
-          "kind": "country",
-          "createdStart": "2026-06-29",
-          "createdEnd": "2026-06-29"
-        },
         {
           "country": "cyprus",
           "term": "Kýpros",
@@ -66809,25 +66774,30 @@
           "completedAt": "2026-10-18T15:44:21.488Z",
           "total": 0,
           "kept": 0
+        },
+        "cyprus|country|Kıbrıs Cumhuriyeti|2026-06-29|2026-06-29||": {
+          "completedAt": "2026-10-19T02:33:41.476Z",
+          "total": 0,
+          "kept": 0
         }
       },
-      "lastDiscoveryAt": "2026-10-18T15:44:21.488Z",
+      "lastDiscoveryAt": "2026-10-19T02:33:41.476Z",
       "lastDiscoveryCompletedAt": "2026-08-19T06:58:16.129Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:21:56.967Z",
+      "lastCacheChangeAt": "2026-10-19T02:31:03.099Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 175,
-        "enrichmentRequests": 334,
+        "searchRequests": 176,
+        "enrichmentRequests": 335,
         "usersDiscovered": 3318,
-        "usersEnriched": 5986,
-        "usersRefreshed": 2728,
+        "usersEnriched": 6006,
+        "usersRefreshed": 2748,
         "usersKept": 2725
       },
-      "refreshCursor": 2704
+      "refreshCursor": 2724
     },
     "czechia": {
       "slug": "czechia",
@@ -68058,20 +68028,20 @@
       "lastDiscoveryAt": "2026-10-18T15:48:26.766Z",
       "lastDiscoveryCompletedAt": "2026-08-21T04:44:41.564Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:27:19.062Z",
+      "lastCacheChangeAt": "2026-10-19T02:31:08.627Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
         "searchRequests": 285,
-        "enrichmentRequests": 1177,
+        "enrichmentRequests": 1178,
         "usersDiscovered": 19796,
-        "usersEnriched": 22476,
-        "usersRefreshed": 2869,
-        "usersKept": 16201
+        "usersEnriched": 22496,
+        "usersRefreshed": 2889,
+        "usersKept": 16202
       },
-      "refreshCursor": 2839
+      "refreshCursor": 2859
     },
     "denmark": {
       "slug": "denmark",
@@ -69332,20 +69302,20 @@
       "lastDiscoveryAt": "2026-10-18T15:52:44.305Z",
       "lastDiscoveryCompletedAt": "2026-08-22T15:13:12.835Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:22:04.377Z",
+      "lastCacheChangeAt": "2026-10-19T02:31:45.210Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
         "searchRequests": 334,
-        "enrichmentRequests": 1349,
+        "enrichmentRequests": 1350,
         "usersDiscovered": 23637,
-        "usersEnriched": 26245,
-        "usersRefreshed": 2882,
+        "usersEnriched": 26265,
+        "usersRefreshed": 2902,
         "usersKept": 19304
       },
-      "refreshCursor": 2860
+      "refreshCursor": 2880
     },
     "djibouti": {
       "slug": "djibouti",
@@ -71313,20 +71283,20 @@
       "lastDiscoveryAt": "2026-10-18T15:55:28.852Z",
       "lastDiscoveryCompletedAt": "2026-08-19T04:58:47.942Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:22:40.935Z",
+      "lastCacheChangeAt": "2026-10-19T02:32:28.106Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": "2026-10-19T00:15:29.837Z",
       "lastError": null,
       "stats": {
         "searchRequests": 170,
-        "enrichmentRequests": 173,
+        "enrichmentRequests": 174,
         "usersDiscovered": 110,
-        "usersEnriched": 2770,
-        "usersRefreshed": 2660,
+        "usersEnriched": 2790,
+        "usersRefreshed": 2680,
         "usersKept": 55
       },
-      "refreshCursor": 20
+      "refreshCursor": 40
     },
     "dominica": {
       "slug": "dominica",
@@ -72547,17 +72517,17 @@
       "lastDiscoveryAt": "2026-10-18T15:57:02.846Z",
       "lastDiscoveryCompletedAt": "2026-08-17T16:13:58.485Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:23:12.048Z",
+      "lastCacheChangeAt": "2026-10-19T02:32:30.925Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
-      "lastContributionRefreshAt": "2026-10-19T01:23:12.048Z",
+      "lastContributionRefreshAt": "2026-10-19T02:32:30.925Z",
       "lastError": null,
       "stats": {
         "searchRequests": 113,
-        "enrichmentRequests": 162,
+        "enrichmentRequests": 163,
         "usersDiscovered": 33,
-        "usersEnriched": 2643,
-        "usersRefreshed": 2610,
+        "usersEnriched": 2661,
+        "usersRefreshed": 2628,
         "usersKept": 18
       },
       "refreshCursor": 0
@@ -73043,20 +73013,20 @@
       "lastDiscoveryAt": "2026-10-18T15:59:47.145Z",
       "lastDiscoveryCompletedAt": "2026-08-16T13:16:35.596Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:23:18.421Z",
+      "lastCacheChangeAt": "2026-10-19T02:32:33.516Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
         "searchRequests": 79,
-        "enrichmentRequests": 362,
+        "enrichmentRequests": 363,
         "usersDiscovered": 3798,
-        "usersEnriched": 6684,
-        "usersRefreshed": 2886,
+        "usersEnriched": 6704,
+        "usersRefreshed": 2906,
         "usersKept": 3299
       },
-      "refreshCursor": 2872
+      "refreshCursor": 2892
     },
     "dr_congo": {
       "slug": "dr_congo",
@@ -74526,20 +74496,20 @@
       "lastDiscoveryAt": "2026-10-18T16:03:28.385Z",
       "lastDiscoveryCompletedAt": "2026-08-18T05:56:00.767Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:23:50.412Z",
+      "lastCacheChangeAt": "2026-10-19T02:32:36.473Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": "2026-10-18T19:21:46.447Z",
       "lastError": null,
       "stats": {
         "searchRequests": 135,
-        "enrichmentRequests": 259,
+        "enrichmentRequests": 260,
         "usersDiscovered": 1060,
-        "usersEnriched": 3846,
-        "usersRefreshed": 2881,
+        "usersEnriched": 3866,
+        "usersRefreshed": 2901,
         "usersKept": 700
       },
-      "refreshCursor": 80
+      "refreshCursor": 100
     },
     "ecuador": {
       "slug": "ecuador",
@@ -75520,20 +75490,20 @@
       "lastDiscoveryAt": "2026-10-18T16:05:14.741Z",
       "lastDiscoveryCompletedAt": "2026-08-18T14:59:56.060Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:23:53.263Z",
+      "lastCacheChangeAt": "2026-10-19T02:33:31.334Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
         "searchRequests": 143,
-        "enrichmentRequests": 497,
+        "enrichmentRequests": 498,
         "usersDiscovered": 6578,
-        "usersEnriched": 9468,
-        "usersRefreshed": 2890,
-        "usersKept": 4881
+        "usersEnriched": 9488,
+        "usersRefreshed": 2910,
+        "usersKept": 4880
       },
-      "refreshCursor": 2864
+      "refreshCursor": 2883
     },
     "egypt": {
       "slug": "egypt",
@@ -76483,20 +76453,20 @@
       "lastDiscoveryAt": "2026-10-18T16:06:59.222Z",
       "lastDiscoveryCompletedAt": "2026-08-25T21:05:48.663Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:24:15.869Z",
+      "lastCacheChangeAt": "2026-10-19T02:33:35.151Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
         "searchRequests": 597,
-        "enrichmentRequests": 2488,
+        "enrichmentRequests": 2489,
         "usersDiscovered": 46614,
-        "usersEnriched": 48690,
-        "usersRefreshed": 2876,
-        "usersKept": 34095
+        "usersEnriched": 48709,
+        "usersRefreshed": 2895,
+        "usersKept": 34094
       },
-      "refreshCursor": 2846
+      "refreshCursor": 2865
     },
     "el_salvador": {
       "slug": "el_salvador",
@@ -77477,24 +77447,24 @@
       "lastDiscoveryAt": "2026-10-18T16:08:37.397Z",
       "lastDiscoveryCompletedAt": "2026-08-17T15:17:24.397Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:24:19.737Z",
+      "lastCacheChangeAt": "2026-10-19T02:33:39.804Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": "2026-10-17T08:34:58.041Z",
       "lastError": null,
       "stats": {
         "searchRequests": 111,
-        "enrichmentRequests": 315,
+        "enrichmentRequests": 316,
         "usersDiscovered": 2954,
-        "usersEnriched": 5731,
-        "usersRefreshed": 2853,
+        "usersEnriched": 5751,
+        "usersRefreshed": 2873,
         "usersKept": 2378
       },
-      "refreshCursor": 460
+      "refreshCursor": 480
     },
     "equatorial_guinea": {
       "slug": "equatorial_guinea",
-      "status": "refreshing",
+      "status": "discovering",
       "queue": [
         {
           "country": "equatorial_guinea",
@@ -78960,20 +78930,20 @@
       "lastDiscoveryAt": "2026-10-18T16:10:26.614Z",
       "lastDiscoveryCompletedAt": "2026-08-18T04:24:54.296Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:24:22.713Z",
+      "lastCacheChangeAt": "2026-10-19T02:33:40.825Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
-      "lastContributionRefreshAt": "2026-10-19T00:16:59.057Z",
+      "lastContributionRefreshAt": "2026-10-19T02:33:40.825Z",
       "lastError": null,
       "stats": {
         "searchRequests": 132,
-        "enrichmentRequests": 160,
+        "enrichmentRequests": 161,
         "usersDiscovered": 28,
-        "usersEnriched": 1560,
-        "usersRefreshed": 1532,
+        "usersEnriched": 1561,
+        "usersRefreshed": 1533,
         "usersKept": 21
       },
-      "refreshCursor": 20
+      "refreshCursor": 0
     },
     "eritrea": {
       "slug": "eritrea",
@@ -80692,17 +80662,17 @@
       "lastDiscoveryAt": "2026-10-18T16:13:18.828Z",
       "lastDiscoveryCompletedAt": "2026-08-18T17:57:04.063Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:24:25.680Z",
+      "lastCacheChangeAt": "2026-10-19T02:33:46.130Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
-      "lastContributionRefreshAt": "2026-10-19T01:24:25.680Z",
+      "lastContributionRefreshAt": "2026-10-19T02:33:46.130Z",
       "lastError": null,
       "stats": {
         "searchRequests": 151,
-        "enrichmentRequests": 160,
+        "enrichmentRequests": 161,
         "usersDiscovered": 28,
-        "usersEnriched": 2493,
-        "usersRefreshed": 2465,
+        "usersEnriched": 2510,
+        "usersRefreshed": 2482,
         "usersKept": 17
       },
       "refreshCursor": 0
@@ -81933,7 +81903,7 @@
       "lastError": {
         "message": "GitHub API request failed: 504",
         "status": 504,
-        "at": "2026-10-19T01:25:04.230Z"
+        "at": "2026-10-19T02:34:58.112Z"
       },
       "stats": {
         "searchRequests": 162,
@@ -92154,7 +92124,7 @@
           "kept": 49
         }
       },
-      "lastDiscoveryAt": "2026-10-19T01:53:58.889Z",
+      "lastDiscoveryAt": "2026-10-19T02:25:35.019Z",
       "lastDiscoveryCompletedAt": null,
       "discoveryQueuedThrough": "2026-05-12",
       "lastCacheChangeAt": "2026-10-19T01:49:46.665Z",
@@ -92163,9 +92133,9 @@
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 2631,
+        "searchRequests": 2634,
         "enrichmentRequests": 6100,
-        "usersDiscovered": 239314,
+        "usersDiscovered": 239614,
         "usersEnriched": 120065,
         "usersRefreshed": 0,
         "usersKept": 87808
@@ -98699,19 +98669,19 @@
           "kept": 68
         }
       },
-      "lastDiscoveryAt": "2026-10-19T01:54:26.505Z",
+      "lastDiscoveryAt": "2026-10-19T02:26:02.506Z",
       "lastDiscoveryCompletedAt": null,
       "discoveryQueuedThrough": "2026-05-12",
-      "lastCacheChangeAt": "2026-10-19T01:54:26.505Z",
+      "lastCacheChangeAt": "2026-10-19T02:26:02.506Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 2631,
-        "enrichmentRequests": 5799,
-        "usersDiscovered": 244333,
-        "usersEnriched": 114306,
+        "searchRequests": 2634,
+        "enrichmentRequests": 5802,
+        "usersDiscovered": 244633,
+        "usersEnriched": 114366,
         "usersRefreshed": 0,
         "usersKept": 70609
       }
@@ -113335,14 +113305,6 @@
           "country": "india",
           "term": "India",
           "kind": "country",
-          "createdStart": "2021-01-20",
-          "createdEnd": "2021-01-31",
-          "page": 7
-        },
-        {
-          "country": "india",
-          "term": "India",
-          "kind": "country",
           "createdStart": "2021-02-01",
           "createdEnd": "2021-02-11"
         },
@@ -116484,23 +116446,28 @@
           "completedAt": "2026-10-19T00:43:29.380Z",
           "total": 796,
           "kept": 96
+        },
+        "india|country|India|2021-01-20|2021-01-31||": {
+          "completedAt": "2026-10-19T02:26:21.817Z",
+          "total": 835,
+          "kept": 35
         }
       },
-      "lastDiscoveryAt": "2026-10-19T01:54:52.775Z",
+      "lastDiscoveryAt": "2026-10-19T02:26:21.817Z",
       "lastDiscoveryCompletedAt": null,
       "discoveryQueuedThrough": "2026-05-12",
-      "lastCacheChangeAt": "2026-10-19T01:54:52.775Z",
+      "lastCacheChangeAt": "2026-10-19T02:26:21.817Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 2631,
-        "enrichmentRequests": 10922,
-        "usersDiscovered": 216538,
-        "usersEnriched": 215230,
+        "searchRequests": 2634,
+        "enrichmentRequests": 10934,
+        "usersDiscovered": 216773,
+        "usersEnriched": 215465,
         "usersRefreshed": 0,
-        "usersKept": 182063
+        "usersKept": 182288
       }
     },
     "indonesia": {
@@ -125308,7 +125275,7 @@
           "kept": 0
         }
       },
-      "lastDiscoveryAt": "2026-10-19T01:55:48.651Z",
+      "lastDiscoveryAt": "2026-10-19T02:27:02.629Z",
       "lastDiscoveryCompletedAt": null,
       "discoveryQueuedThrough": "2026-05-12",
       "lastCacheChangeAt": "2026-10-17T21:07:40.883Z",
@@ -125317,9 +125284,9 @@
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 2631,
+        "searchRequests": 2634,
         "enrichmentRequests": 3875,
-        "usersDiscovered": 238053,
+        "usersDiscovered": 238353,
         "usersEnriched": 74945,
         "usersRefreshed": 0,
         "usersKept": 48825
@@ -128298,7 +128265,7 @@
           "kept": 12
         }
       },
-      "lastDiscoveryAt": "2026-10-19T01:56:12.416Z",
+      "lastDiscoveryAt": "2026-10-19T02:27:24.902Z",
       "lastDiscoveryCompletedAt": null,
       "discoveryQueuedThrough": "2026-05-12",
       "lastCacheChangeAt": "2026-10-19T00:12:25.675Z",
@@ -128307,9 +128274,9 @@
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 2631,
+        "searchRequests": 2634,
         "enrichmentRequests": 2361,
-        "usersDiscovered": 131727,
+        "usersDiscovered": 131766,
         "usersEnriched": 46075,
         "usersRefreshed": 0,
         "usersKept": 33924
@@ -173183,21 +173150,21 @@
           "kept": 65
         }
       },
-      "lastDiscoveryAt": "2026-10-19T01:56:41.976Z",
+      "lastDiscoveryAt": "2026-10-19T02:28:08.857Z",
       "lastDiscoveryCompletedAt": null,
       "discoveryQueuedThrough": "2026-05-12",
-      "lastCacheChangeAt": "2026-10-19T00:48:08.526Z",
+      "lastCacheChangeAt": "2026-10-19T02:22:15.822Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 2631,
+        "searchRequests": 2634,
         "enrichmentRequests": 3481,
-        "usersDiscovered": 244948,
+        "usersDiscovered": 245248,
         "usersEnriched": 67610,
         "usersRefreshed": 0,
-        "usersKept": 46596
+        "usersKept": 46597
       }
     },
     "new_caledonia": {
@@ -198055,7 +198022,7 @@
           "kept": 64
         }
       },
-      "lastDiscoveryAt": "2026-10-19T01:57:27.173Z",
+      "lastDiscoveryAt": "2026-10-19T02:28:41.039Z",
       "lastDiscoveryCompletedAt": null,
       "discoveryQueuedThrough": "2026-05-12",
       "lastCacheChangeAt": "2026-10-19T00:59:16.585Z",
@@ -198064,9 +198031,9 @@
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 2631,
+        "searchRequests": 2634,
         "enrichmentRequests": 3698,
-        "usersDiscovered": 237591,
+        "usersDiscovered": 237891,
         "usersEnriched": 71546,
         "usersRefreshed": 0,
         "usersKept": 57667
@@ -205543,7 +205510,7 @@
           "kept": 5
         }
       },
-      "lastDiscoveryAt": "2026-10-19T01:57:48.645Z",
+      "lastDiscoveryAt": "2026-10-19T02:29:03.257Z",
       "lastDiscoveryCompletedAt": null,
       "discoveryQueuedThrough": "2026-05-12",
       "lastCacheChangeAt": "2026-10-18T14:49:52.099Z",
@@ -205552,9 +205519,9 @@
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 2631,
+        "searchRequests": 2634,
         "enrichmentRequests": 4175,
-        "usersDiscovered": 115374,
+        "usersDiscovered": 115389,
         "usersEnriched": 81731,
         "usersRefreshed": 0,
         "usersKept": 65018
@@ -224025,17 +223992,17 @@
       "lastDiscoveryAt": "2026-10-18T23:00:26.481Z",
       "lastDiscoveryCompletedAt": "2026-08-16T05:11:30.578Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T00:56:07.567Z",
+      "lastCacheChangeAt": "2026-10-19T02:05:13.699Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
-      "lastContributionRefreshAt": "2026-10-19T00:56:07.567Z",
+      "lastContributionRefreshAt": "2026-10-19T02:05:13.699Z",
       "lastError": null,
       "stats": {
         "searchRequests": 76,
-        "enrichmentRequests": 152,
+        "enrichmentRequests": 153,
         "usersDiscovered": 9,
-        "usersEnriched": 1016,
-        "usersRefreshed": 1008,
+        "usersEnriched": 1023,
+        "usersRefreshed": 1015,
         "usersKept": 7
       },
       "refreshCursor": 0
@@ -225015,20 +224982,20 @@
       "lastDiscoveryAt": "2026-10-18T23:02:08.324Z",
       "lastDiscoveryCompletedAt": "2026-08-18T13:39:39.759Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T00:56:39.488Z",
+      "lastCacheChangeAt": "2026-10-19T02:05:45.670Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
         "searchRequests": 139,
-        "enrichmentRequests": 475,
+        "enrichmentRequests": 476,
         "usersDiscovered": 5830,
-        "usersEnriched": 8652,
-        "usersRefreshed": 2859,
+        "usersEnriched": 8672,
+        "usersRefreshed": 2879,
         "usersKept": 4661
       },
-      "refreshCursor": 2823
+      "refreshCursor": 2843
     },
     "slovenia": {
       "slug": "slovenia",
@@ -226010,20 +225977,20 @@
       "lastDiscoveryAt": "2026-10-18T23:03:47.473Z",
       "lastDiscoveryCompletedAt": "2026-08-17T19:36:35.112Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T00:57:14.409Z",
+      "lastCacheChangeAt": "2026-10-19T02:06:18.248Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
         "searchRequests": 118,
-        "enrichmentRequests": 364,
+        "enrichmentRequests": 365,
         "usersDiscovered": 3911,
-        "usersEnriched": 6746,
-        "usersRefreshed": 2855,
+        "usersEnriched": 6766,
+        "usersRefreshed": 2875,
         "usersKept": 3097
       },
-      "refreshCursor": 2832
+      "refreshCursor": 2852
     },
     "solomon_islands": {
       "slug": "solomon_islands",
@@ -226497,17 +226464,17 @@
       "lastDiscoveryAt": "2026-10-18T23:05:19.670Z",
       "lastDiscoveryCompletedAt": "2026-08-15T03:09:33.034Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T00:57:21.381Z",
+      "lastCacheChangeAt": "2026-10-19T02:06:22.871Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
-      "lastContributionRefreshAt": "2026-10-19T00:57:21.381Z",
+      "lastContributionRefreshAt": "2026-10-19T02:06:22.872Z",
       "lastError": null,
       "stats": {
         "searchRequests": 56,
-        "enrichmentRequests": 161,
+        "enrichmentRequests": 162,
         "usersDiscovered": 25,
-        "usersEnriched": 2743,
-        "usersRefreshed": 2718,
+        "usersEnriched": 2762,
+        "usersRefreshed": 2737,
         "usersKept": 19
       },
       "refreshCursor": 0
@@ -227980,20 +227947,20 @@
       "lastDiscoveryAt": "2026-10-18T23:08:08.580Z",
       "lastDiscoveryCompletedAt": "2026-08-18T06:55:07.904Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T00:57:43.309Z",
+      "lastCacheChangeAt": "2026-10-19T02:06:27.678Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": "2026-10-18T03:08:21.314Z",
       "lastError": null,
       "stats": {
         "searchRequests": 137,
-        "enrichmentRequests": 226,
+        "enrichmentRequests": 227,
         "usersDiscovered": 1302,
-        "usersEnriched": 4136,
-        "usersRefreshed": 2836,
-        "usersKept": 866
+        "usersEnriched": 4156,
+        "usersRefreshed": 2856,
+        "usersKept": 865
       },
-      "refreshCursor": 239
+      "refreshCursor": 258
     },
     "south_africa": {
       "slug": "south_africa",
@@ -229498,20 +229465,20 @@
       "lastDiscoveryAt": "2026-10-18T23:09:59.948Z",
       "lastDiscoveryCompletedAt": "2026-08-22T17:00:26.507Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:49:46.665Z",
+      "lastCacheChangeAt": "2026-10-19T02:06:48.084Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
         "searchRequests": 341,
-        "enrichmentRequests": 1308,
+        "enrichmentRequests": 1309,
         "usersDiscovered": 22341,
-        "usersEnriched": 24946,
-        "usersRefreshed": 2865,
-        "usersKept": 17923
+        "usersEnriched": 24966,
+        "usersRefreshed": 2885,
+        "usersKept": 17922
       },
-      "refreshCursor": 2828
+      "refreshCursor": 2848
     },
     "south_georgia": {
       "slug": "south_georgia",
@@ -230234,17 +230201,17 @@
       "lastDiscoveryAt": "2026-10-18T23:11:39.163Z",
       "lastDiscoveryCompletedAt": "2026-08-16T04:11:05.131Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T00:58:45.782Z",
+      "lastCacheChangeAt": "2026-10-19T02:06:49.819Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
-      "lastContributionRefreshAt": "2026-10-19T00:58:45.782Z",
+      "lastContributionRefreshAt": "2026-10-19T02:06:49.819Z",
       "lastError": null,
       "stats": {
         "searchRequests": 75,
-        "enrichmentRequests": 150,
+        "enrichmentRequests": 151,
         "usersDiscovered": 11,
-        "usersEnriched": 875,
-        "usersRefreshed": 864,
+        "usersEnriched": 881,
+        "usersRefreshed": 870,
         "usersKept": 6
       },
       "refreshCursor": 0
@@ -231832,20 +231799,20 @@
       "lastDiscoveryAt": "2026-10-18T23:13:10.366Z",
       "lastDiscoveryCompletedAt": "2026-09-03T22:23:31.186Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T00:58:51.120Z",
+      "lastCacheChangeAt": "2026-10-19T02:06:53.041Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
         "searchRequests": 1063,
-        "enrichmentRequests": 4473,
+        "enrichmentRequests": 4474,
         "usersDiscovered": 87705,
-        "usersEnriched": 88004,
-        "usersRefreshed": 2835,
+        "usersEnriched": 88024,
+        "usersRefreshed": 2855,
         "usersKept": 56908
       },
-      "refreshCursor": 2792
+      "refreshCursor": 2812
     },
     "south_sudan": {
       "slug": "south_sudan",
@@ -232573,20 +232540,20 @@
       "lastDiscoveryAt": "2026-10-18T23:14:23.133Z",
       "lastDiscoveryCompletedAt": "2026-08-16T07:05:41.738Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T00:59:22.854Z",
+      "lastCacheChangeAt": "2026-10-19T02:06:55.760Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": "2026-10-18T18:46:10.038Z",
       "lastError": null,
       "stats": {
         "searchRequests": 78,
-        "enrichmentRequests": 173,
+        "enrichmentRequests": 174,
         "usersDiscovered": 227,
-        "usersEnriched": 2943,
-        "usersRefreshed": 2727,
+        "usersEnriched": 2963,
+        "usersRefreshed": 2747,
         "usersKept": 132
       },
-      "refreshCursor": 80
+      "refreshCursor": 100
     },
     "spain": {
       "slug": "spain",
@@ -234032,7 +233999,7 @@
           "kept": 73
         }
       },
-      "lastDiscoveryAt": "2026-10-19T01:58:21.033Z",
+      "lastDiscoveryAt": "2026-10-19T02:29:38.651Z",
       "lastDiscoveryCompletedAt": null,
       "discoveryQueuedThrough": "2026-05-12",
       "lastCacheChangeAt": "2026-10-18T19:04:49.271Z",
@@ -234041,9 +234008,9 @@
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 2631,
+        "searchRequests": 2634,
         "enrichmentRequests": 5105,
-        "usersDiscovered": 241484,
+        "usersDiscovered": 241784,
         "usersEnriched": 99953,
         "usersRefreshed": 0,
         "usersKept": 76460
@@ -235084,20 +235051,20 @@
       "lastDiscoveryAt": "2026-10-18T23:17:13.280Z",
       "lastDiscoveryCompletedAt": "2026-08-22T04:04:26.175Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T00:59:26.375Z",
+      "lastCacheChangeAt": "2026-10-19T02:07:00.757Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
         "searchRequests": 317,
-        "enrichmentRequests": 1280,
+        "enrichmentRequests": 1281,
         "usersDiscovered": 22328,
-        "usersEnriched": 25051,
-        "usersRefreshed": 2863,
+        "usersEnriched": 25071,
+        "usersRefreshed": 2883,
         "usersKept": 18317
       },
-      "refreshCursor": 2838
+      "refreshCursor": 2858
     },
     "sudan": {
       "slug": "sudan",
@@ -236074,24 +236041,24 @@
       "lastDiscoveryAt": "2026-10-18T23:19:07.051Z",
       "lastDiscoveryCompletedAt": "2026-08-17T08:07:36.736Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T00:59:29.350Z",
+      "lastCacheChangeAt": "2026-10-19T02:07:03.711Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": "2026-10-16T13:47:06.454Z",
       "lastError": null,
       "stats": {
         "searchRequests": 98,
-        "enrichmentRequests": 222,
+        "enrichmentRequests": 223,
         "usersDiscovered": 1147,
-        "usersEnriched": 4000,
-        "usersRefreshed": 2853,
+        "usersEnriched": 4020,
+        "usersRefreshed": 2873,
         "usersKept": 727
       },
-      "refreshCursor": 660
+      "refreshCursor": 680
     },
     "suriname": {
       "slug": "suriname",
-      "status": "discovering",
+      "status": "refreshing",
       "queue": [
         {
           "country": "suriname",
@@ -237557,20 +237524,20 @@
       "lastDiscoveryAt": "2026-10-18T23:23:03.402Z",
       "lastDiscoveryCompletedAt": "2026-08-18T04:43:44.747Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T00:59:30.440Z",
+      "lastCacheChangeAt": "2026-10-19T02:07:41.770Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": "2026-10-19T00:59:30.440Z",
       "lastError": null,
       "stats": {
         "searchRequests": 132,
-        "enrichmentRequests": 151,
+        "enrichmentRequests": 152,
         "usersDiscovered": 161,
-        "usersEnriched": 2253,
-        "usersRefreshed": 2092,
+        "usersEnriched": 2273,
+        "usersRefreshed": 2112,
         "usersKept": 123
       },
-      "refreshCursor": 0
+      "refreshCursor": 20
     },
     "svalbard_and_jan_mayen": {
       "slug": "svalbard_and_jan_mayen",
@@ -238542,17 +238509,17 @@
       "lastDiscoveryAt": "2026-10-18T23:24:40.498Z",
       "lastDiscoveryCompletedAt": "2026-08-17T05:31:41.542Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T00:59:32.416Z",
+      "lastCacheChangeAt": "2026-10-19T02:08:05.419Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
-      "lastContributionRefreshAt": "2026-10-19T00:59:32.416Z",
+      "lastContributionRefreshAt": "2026-10-19T02:08:05.419Z",
       "lastError": null,
       "stats": {
         "searchRequests": 94,
-        "enrichmentRequests": 152,
+        "enrichmentRequests": 153,
         "usersDiscovered": 10,
-        "usersEnriched": 1450,
-        "usersRefreshed": 1440,
+        "usersEnriched": 1460,
+        "usersRefreshed": 1450,
         "usersKept": 10
       },
       "refreshCursor": 0
@@ -239560,20 +239527,20 @@
       "lastDiscoveryAt": "2026-10-18T23:26:53.818Z",
       "lastDiscoveryCompletedAt": "2026-10-07T08:47:55.233Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T00:59:35.534Z",
+      "lastCacheChangeAt": "2026-10-19T02:08:11.406Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
         "searchRequests": 1770,
-        "enrichmentRequests": 2592,
+        "enrichmentRequests": 2593,
         "usersDiscovered": 160192,
-        "usersEnriched": 50829,
-        "usersRefreshed": 2800,
+        "usersEnriched": 50849,
+        "usersRefreshed": 2820,
         "usersKept": 39032
       },
-      "refreshCursor": 2775
+      "refreshCursor": 2795
     },
     "switzerland": {
       "slug": "switzerland",
@@ -241386,20 +241353,20 @@
       "lastDiscoveryAt": "2026-10-18T23:29:58.365Z",
       "lastDiscoveryCompletedAt": "2026-08-23T19:19:14.210Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:00:12.947Z",
+      "lastCacheChangeAt": "2026-10-19T02:08:45.600Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
         "searchRequests": 415,
-        "enrichmentRequests": 1507,
+        "enrichmentRequests": 1508,
         "usersDiscovered": 26078,
-        "usersEnriched": 28840,
-        "usersRefreshed": 2862,
+        "usersEnriched": 28860,
+        "usersRefreshed": 2882,
         "usersKept": 24078
       },
-      "refreshCursor": 2814
+      "refreshCursor": 2834
     },
     "syria": {
       "slug": "syria",
@@ -242371,20 +242338,20 @@
       "lastDiscoveryAt": "2026-10-18T23:31:45.280Z",
       "lastDiscoveryCompletedAt": "2026-08-17T10:41:58.871Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:00:59.077Z",
+      "lastCacheChangeAt": "2026-10-19T02:09:18.390Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": "2026-10-13T14:45:02.773Z",
       "lastError": null,
       "stats": {
         "searchRequests": 103,
-        "enrichmentRequests": 274,
+        "enrichmentRequests": 275,
         "usersDiscovered": 2143,
-        "usersEnriched": 4972,
-        "usersRefreshed": 2869,
+        "usersEnriched": 4992,
+        "usersRefreshed": 2889,
         "usersKept": 1480
       },
-      "refreshCursor": 1376
+      "refreshCursor": 1396
     },
     "taiwan": {
       "slug": "taiwan",
@@ -244163,24 +244130,24 @@
       "lastDiscoveryAt": "2026-10-18T23:33:32.705Z",
       "lastDiscoveryCompletedAt": "2026-08-23T23:21:22.823Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:36:00.190Z",
+      "lastCacheChangeAt": "2026-10-19T02:09:41.434Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
         "searchRequests": 431,
-        "enrichmentRequests": 1639,
+        "enrichmentRequests": 1640,
         "usersDiscovered": 28973,
-        "usersEnriched": 31579,
-        "usersRefreshed": 2863,
-        "usersKept": 21993
+        "usersEnriched": 31599,
+        "usersRefreshed": 2883,
+        "usersKept": 21994
       },
-      "refreshCursor": 2818
+      "refreshCursor": 2838
     },
     "tajikistan": {
       "slug": "tajikistan",
-      "status": "refreshing",
+      "status": "discovering",
       "queue": [
         {
           "country": "tajikistan",
@@ -245646,20 +245613,20 @@
       "lastDiscoveryAt": "2026-10-18T23:35:11.080Z",
       "lastDiscoveryCompletedAt": "2026-08-18T04:44:37.883Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:01:06.048Z",
+      "lastCacheChangeAt": "2026-10-19T02:09:46.131Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
-      "lastContributionRefreshAt": "2026-10-16T09:07:29.769Z",
+      "lastContributionRefreshAt": "2026-10-19T02:09:46.131Z",
       "lastError": null,
       "stats": {
         "searchRequests": 132,
-        "enrichmentRequests": 212,
+        "enrichmentRequests": 213,
         "usersDiscovered": 1022,
-        "usersEnriched": 3862,
-        "usersRefreshed": 2840,
+        "usersEnriched": 3871,
+        "usersRefreshed": 2849,
         "usersKept": 709
       },
-      "refreshCursor": 700
+      "refreshCursor": 0
     },
     "tanzania": {
       "slug": "tanzania",
@@ -246880,20 +246847,20 @@
       "lastDiscoveryAt": "2026-10-18T23:37:09.118Z",
       "lastDiscoveryCompletedAt": "2026-08-18T03:40:38.709Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:01:10.787Z",
+      "lastCacheChangeAt": "2026-10-19T02:10:21.812Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": "2026-10-15T23:04:58.040Z",
       "lastError": null,
       "stats": {
         "searchRequests": 130,
-        "enrichmentRequests": 299,
+        "enrichmentRequests": 300,
         "usersDiscovered": 2591,
-        "usersEnriched": 5364,
-        "usersRefreshed": 2873,
+        "usersEnriched": 5384,
+        "usersRefreshed": 2893,
         "usersKept": 2037
       },
-      "refreshCursor": 816
+      "refreshCursor": 836
     },
     "thailand": {
       "slug": "thailand",
@@ -248632,24 +248599,24 @@
       "lastDiscoveryAt": "2026-10-18T23:39:47.464Z",
       "lastDiscoveryCompletedAt": "2026-08-22T18:21:51.299Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:01:18.400Z",
+      "lastCacheChangeAt": "2026-10-19T02:10:51.977Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
         "searchRequests": 347,
-        "enrichmentRequests": 1216,
+        "enrichmentRequests": 1217,
         "usersDiscovered": 20902,
-        "usersEnriched": 23549,
-        "usersRefreshed": 2856,
-        "usersKept": 14999
+        "usersEnriched": 23569,
+        "usersRefreshed": 2876,
+        "usersKept": 14997
       },
-      "refreshCursor": 2823
+      "refreshCursor": 2842
     },
     "timor_leste": {
       "slug": "timor_leste",
-      "status": "discovering",
+      "status": "refreshing",
       "queue": [
         {
           "country": "timor_leste",
@@ -250862,20 +250829,20 @@
       "lastDiscoveryAt": "2026-10-18T23:41:31.258Z",
       "lastDiscoveryCompletedAt": "2026-08-19T19:39:14.088Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:02:17.301Z",
+      "lastCacheChangeAt": "2026-10-19T02:11:16.839Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": "2026-10-19T01:02:17.301Z",
       "lastError": null,
       "stats": {
         "searchRequests": 191,
-        "enrichmentRequests": 193,
+        "enrichmentRequests": 194,
         "usersDiscovered": 191,
-        "usersEnriched": 2950,
-        "usersRefreshed": 2772,
+        "usersEnriched": 2970,
+        "usersRefreshed": 2792,
         "usersKept": 77
       },
-      "refreshCursor": 0
+      "refreshCursor": 20
     },
     "togo": {
       "slug": "togo",
@@ -252096,20 +252063,20 @@
       "lastDiscoveryAt": "2026-10-18T23:43:11.802Z",
       "lastDiscoveryCompletedAt": "2026-08-17T16:30:51.464Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:02:21.364Z",
+      "lastCacheChangeAt": "2026-10-19T02:11:20.806Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": "2026-10-18T15:44:59.263Z",
       "lastError": null,
       "stats": {
         "searchRequests": 113,
-        "enrichmentRequests": 219,
+        "enrichmentRequests": 220,
         "usersDiscovered": 1050,
-        "usersEnriched": 3903,
-        "usersRefreshed": 2853,
+        "usersEnriched": 3923,
+        "usersRefreshed": 2873,
         "usersKept": 679
       },
-      "refreshCursor": 120
+      "refreshCursor": 140
     },
     "tokelau": {
       "slug": "tokelau",
@@ -252583,17 +252550,17 @@
       "lastDiscoveryAt": "2026-10-18T23:50:49.104Z",
       "lastDiscoveryCompletedAt": "2026-08-15T03:16:07.728Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:02:22.342Z",
+      "lastCacheChangeAt": "2026-10-19T02:11:21.822Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
-      "lastContributionRefreshAt": "2026-10-19T01:02:22.342Z",
+      "lastContributionRefreshAt": "2026-10-19T02:11:21.822Z",
       "lastError": null,
       "stats": {
         "searchRequests": 56,
-        "enrichmentRequests": 149,
+        "enrichmentRequests": 150,
         "usersDiscovered": 5,
-        "usersEnriched": 572,
-        "usersRefreshed": 567,
+        "usersEnriched": 576,
+        "usersRefreshed": 571,
         "usersKept": 4
       },
       "refreshCursor": 0
@@ -253319,17 +253286,17 @@
       "lastDiscoveryAt": "2026-10-18T23:52:41.002Z",
       "lastDiscoveryCompletedAt": "2026-08-16T04:16:36.295Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:02:23.816Z",
+      "lastCacheChangeAt": "2026-10-19T02:11:23.407Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
-      "lastContributionRefreshAt": "2026-10-19T01:02:23.816Z",
+      "lastContributionRefreshAt": "2026-10-19T02:11:23.407Z",
       "lastError": null,
       "stats": {
         "searchRequests": 75,
-        "enrichmentRequests": 151,
+        "enrichmentRequests": 152,
         "usersDiscovered": 11,
-        "usersEnriched": 1308,
-        "usersRefreshed": 1297,
+        "usersEnriched": 1317,
+        "usersRefreshed": 1306,
         "usersKept": 9
       },
       "refreshCursor": 0
@@ -254055,20 +254022,20 @@
       "lastDiscoveryAt": "2026-10-18T23:54:32.036Z",
       "lastDiscoveryCompletedAt": "2026-08-16T04:16:39.492Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:02:59.857Z",
+      "lastCacheChangeAt": "2026-10-19T02:11:26.081Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": "2026-10-18T23:55:13.006Z",
       "lastError": null,
       "stats": {
         "searchRequests": 75,
-        "enrichmentRequests": 174,
+        "enrichmentRequests": 175,
         "usersDiscovered": 259,
-        "usersEnriched": 3096,
-        "usersRefreshed": 2837,
+        "usersEnriched": 3116,
+        "usersRefreshed": 2857,
         "usersKept": 256
       },
-      "refreshCursor": 20
+      "refreshCursor": 40
     },
     "tunisia": {
       "slug": "tunisia",
@@ -255289,20 +255256,20 @@
       "lastDiscoveryAt": "2026-10-18T23:56:03.874Z",
       "lastDiscoveryCompletedAt": "2026-08-19T16:50:50.260Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:03:30.694Z",
+      "lastCacheChangeAt": "2026-10-19T02:11:28.726Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
         "searchRequests": 184,
-        "enrichmentRequests": 589,
+        "enrichmentRequests": 590,
         "usersDiscovered": 8602,
-        "usersEnriched": 11308,
-        "usersRefreshed": 2866,
+        "usersEnriched": 11328,
+        "usersRefreshed": 2886,
         "usersKept": 7166
       },
-      "refreshCursor": 2820
+      "refreshCursor": 2840
     },
     "turkey": {
       "slug": "turkey",
@@ -258198,20 +258165,20 @@
       "lastDiscoveryAt": "2026-10-18T23:57:53.653Z",
       "lastDiscoveryCompletedAt": "2026-09-09T01:18:36.518Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:03:35.958Z",
+      "lastCacheChangeAt": "2026-10-19T02:11:34.037Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
         "searchRequests": 1304,
-        "enrichmentRequests": 5330,
+        "enrichmentRequests": 5331,
         "usersDiscovered": 103378,
-        "usersEnriched": 104109,
-        "usersRefreshed": 2843,
+        "usersEnriched": 104129,
+        "usersRefreshed": 2863,
         "usersKept": 79174
       },
-      "refreshCursor": 2813
+      "refreshCursor": 2833
     },
     "turkmenistan": {
       "slug": "turkmenistan",
@@ -258694,20 +258661,20 @@
       "lastDiscoveryAt": "2026-10-19T00:00:45.517Z",
       "lastDiscoveryCompletedAt": "2026-08-15T03:17:50.676Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:04:08.182Z",
+      "lastCacheChangeAt": "2026-10-19T02:12:14.024Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": "2026-10-17T20:14:09.282Z",
       "lastError": null,
       "stats": {
         "searchRequests": 56,
-        "enrichmentRequests": 201,
+        "enrichmentRequests": 202,
         "usersDiscovered": 716,
-        "usersEnriched": 3537,
-        "usersRefreshed": 2821,
+        "usersEnriched": 3557,
+        "usersRefreshed": 2841,
         "usersKept": 501
       },
-      "refreshCursor": 320
+      "refreshCursor": 340
     },
     "turks_and_caicos_islands": {
       "slug": "turks_and_caicos_islands",
@@ -259181,17 +259148,17 @@
       "lastDiscoveryAt": "2026-10-19T00:02:24.922Z",
       "lastDiscoveryCompletedAt": "2026-08-15T03:17:53.890Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:04:09.496Z",
+      "lastCacheChangeAt": "2026-10-19T02:12:59.177Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
-      "lastContributionRefreshAt": "2026-10-19T01:04:09.496Z",
+      "lastContributionRefreshAt": "2026-10-19T02:12:59.177Z",
       "lastError": null,
       "stats": {
         "searchRequests": 56,
-        "enrichmentRequests": 150,
+        "enrichmentRequests": 151,
         "usersDiscovered": 7,
-        "usersEnriched": 1015,
-        "usersRefreshed": 1008,
+        "usersEnriched": 1022,
+        "usersRefreshed": 1015,
         "usersKept": 7
       },
       "refreshCursor": 0
@@ -259668,17 +259635,17 @@
       "lastDiscoveryAt": "2026-10-19T00:04:09.367Z",
       "lastDiscoveryCompletedAt": "2026-08-15T03:17:57.084Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:04:38.799Z",
+      "lastCacheChangeAt": "2026-10-19T02:13:00.532Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
-      "lastContributionRefreshAt": "2026-10-19T01:04:38.799Z",
+      "lastContributionRefreshAt": "2026-10-19T02:13:00.532Z",
       "lastError": null,
       "stats": {
         "searchRequests": 56,
-        "enrichmentRequests": 154,
+        "enrichmentRequests": 155,
         "usersDiscovered": 16,
-        "usersEnriched": 1601,
-        "usersRefreshed": 1585,
+        "usersEnriched": 1612,
+        "usersRefreshed": 1596,
         "usersKept": 11
       },
       "refreshCursor": 0
@@ -260658,20 +260625,20 @@
       "lastDiscoveryAt": "2026-10-19T00:05:41.493Z",
       "lastDiscoveryCompletedAt": "2026-08-18T14:28:13.352Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:04:43.277Z",
+      "lastCacheChangeAt": "2026-10-19T02:13:03.872Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
         "searchRequests": 141,
-        "enrichmentRequests": 465,
+        "enrichmentRequests": 466,
         "usersDiscovered": 6080,
-        "usersEnriched": 8888,
-        "usersRefreshed": 2861,
+        "usersEnriched": 8908,
+        "usersRefreshed": 2881,
         "usersKept": 3867
       },
-      "refreshCursor": 2847
+      "refreshCursor": 2867
     },
     "ukraine": {
       "slug": "ukraine",
@@ -263426,20 +263393,20 @@
       "lastDiscoveryAt": "2026-10-19T00:07:43.001Z",
       "lastDiscoveryCompletedAt": "2026-09-15T19:29:54.706Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:04:46.985Z",
+      "lastCacheChangeAt": "2026-10-19T02:13:07.313Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
         "searchRequests": 1692,
-        "enrichmentRequests": 3846,
+        "enrichmentRequests": 3847,
         "usersDiscovered": 145616,
-        "usersEnriched": 74453,
-        "usersRefreshed": 2855,
+        "usersEnriched": 74473,
+        "usersRefreshed": 2875,
         "usersKept": 47741
       },
-      "refreshCursor": 2812
+      "refreshCursor": 2832
     },
     "united_arab_emirates": {
       "slug": "united_arab_emirates",
@@ -264167,20 +264134,20 @@
       "lastDiscoveryAt": "2026-10-19T00:10:22.576Z",
       "lastDiscoveryCompletedAt": "2026-08-18T02:36:50.964Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:49:46.665Z",
+      "lastCacheChangeAt": "2026-10-19T02:14:20.082Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
         "searchRequests": 128,
-        "enrichmentRequests": 557,
+        "enrichmentRequests": 558,
         "usersDiscovered": 7685,
-        "usersEnriched": 10404,
-        "usersRefreshed": 2864,
+        "usersEnriched": 10424,
+        "usersRefreshed": 2884,
         "usersKept": 4225
       },
-      "refreshCursor": 2822
+      "refreshCursor": 2842
     },
     "united_kingdom": {
       "slug": "united_kingdom",
@@ -266382,7 +266349,7 @@
           "kept": 60
         }
       },
-      "lastDiscoveryAt": "2026-10-19T01:58:56.621Z",
+      "lastDiscoveryAt": "2026-10-19T02:30:11.054Z",
       "lastDiscoveryCompletedAt": null,
       "discoveryQueuedThrough": "2026-05-12",
       "lastCacheChangeAt": "2026-10-19T00:26:41.194Z",
@@ -266391,9 +266358,9 @@
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 2631,
+        "searchRequests": 2634,
         "enrichmentRequests": 4845,
-        "usersDiscovered": 211594,
+        "usersDiscovered": 211894,
         "usersEnriched": 94371,
         "usersRefreshed": 0,
         "usersKept": 83031
@@ -266403,14 +266370,6 @@
       "slug": "united_states",
       "status": "discovering",
       "queue": [
-        {
-          "country": "united_states",
-          "term": "new york",
-          "kind": "city",
-          "createdStart": "2018-06-30",
-          "createdEnd": "2018-08-14",
-          "page": 3
-        },
         {
           "country": "united_states",
           "term": "new york",
@@ -269129,23 +269088,28 @@
           "completedAt": "2026-10-19T01:18:47.820Z",
           "total": 600,
           "kept": 100
+        },
+        "united_states|city|new york|2018-06-30|2018-08-14||": {
+          "completedAt": "2026-10-19T02:30:35.339Z",
+          "total": 488,
+          "kept": 88
         }
       },
-      "lastDiscoveryAt": "2026-10-19T01:59:23.232Z",
+      "lastDiscoveryAt": "2026-10-19T02:30:35.339Z",
       "lastDiscoveryCompletedAt": null,
       "discoveryQueuedThrough": "2026-05-12",
-      "lastCacheChangeAt": "2026-10-19T01:59:23.232Z",
+      "lastCacheChangeAt": "2026-10-19T02:30:35.339Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 2631,
-        "enrichmentRequests": 7705,
-        "usersDiscovered": 232678,
-        "usersEnriched": 151313,
+        "searchRequests": 2634,
+        "enrichmentRequests": 7720,
+        "usersDiscovered": 232966,
+        "usersEnriched": 151601,
         "usersRefreshed": 0,
-        "usersKept": 138215
+        "usersKept": 138490
       }
     },
     "united_states_minor_outlying_islands": {
@@ -270355,17 +270319,17 @@
       "lastDiscoveryAt": "2026-10-19T00:13:53.267Z",
       "lastDiscoveryCompletedAt": "2026-08-17T05:37:39.100Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:04:51.427Z",
+      "lastCacheChangeAt": "2026-10-19T02:14:20.922Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
-      "lastContributionRefreshAt": "2026-10-19T01:04:51.428Z",
+      "lastContributionRefreshAt": "2026-10-19T02:14:20.923Z",
       "lastError": null,
       "stats": {
         "searchRequests": 94,
-        "enrichmentRequests": 158,
+        "enrichmentRequests": 159,
         "usersDiscovered": 17,
-        "usersEnriched": 593,
-        "usersRefreshed": 576,
+        "usersEnriched": 597,
+        "usersRefreshed": 580,
         "usersKept": 4
       },
       "refreshCursor": 0
@@ -271345,20 +271309,20 @@
       "lastDiscoveryAt": "2026-10-19T00:15:30.390Z",
       "lastDiscoveryCompletedAt": "2026-08-18T22:44:00.394Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:04:54.765Z",
+      "lastCacheChangeAt": "2026-10-19T02:14:26.543Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
         "searchRequests": 160,
-        "enrichmentRequests": 574,
+        "enrichmentRequests": 575,
         "usersDiscovered": 8361,
-        "usersEnriched": 11116,
-        "usersRefreshed": 2852,
+        "usersEnriched": 11136,
+        "usersRefreshed": 2872,
         "usersKept": 5612
       },
-      "refreshCursor": 2837
+      "refreshCursor": 2857
     },
     "uzbekistan": {
       "slug": "uzbekistan",
@@ -272629,20 +272593,20 @@
       "lastDiscoveryAt": "2026-10-19T00:16:53.793Z",
       "lastDiscoveryCompletedAt": "2026-08-20T17:12:27.901Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:05:32.105Z",
+      "lastCacheChangeAt": "2026-10-19T02:14:29.501Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
         "searchRequests": 254,
-        "enrichmentRequests": 875,
+        "enrichmentRequests": 876,
         "usersDiscovered": 14102,
-        "usersEnriched": 16765,
-        "usersRefreshed": 2857,
+        "usersEnriched": 16785,
+        "usersRefreshed": 2877,
         "usersKept": 9516
       },
-      "refreshCursor": 2834
+      "refreshCursor": 2854
     },
     "vanuatu": {
       "slug": "vanuatu",
@@ -273863,24 +273827,24 @@
       "lastDiscoveryAt": "2026-10-19T00:19:48.744Z",
       "lastDiscoveryCompletedAt": "2026-08-17T16:33:29.989Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:05:36.836Z",
+      "lastCacheChangeAt": "2026-10-19T02:14:33.962Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
-      "lastContributionRefreshAt": "2026-10-19T01:05:36.836Z",
+      "lastContributionRefreshAt": "2026-10-19T02:14:33.962Z",
       "lastError": null,
       "stats": {
         "searchRequests": 113,
-        "enrichmentRequests": 159,
+        "enrichmentRequests": 160,
         "usersDiscovered": 22,
-        "usersEnriched": 2614,
-        "usersRefreshed": 2592,
+        "usersEnriched": 2632,
+        "usersRefreshed": 2610,
         "usersKept": 18
       },
       "refreshCursor": 0
     },
     "vatican_city": {
       "slug": "vatican_city",
-      "status": "discovering",
+      "status": "refreshing",
       "queue": [
         {
           "country": "vatican_city",
@@ -275346,20 +275310,20 @@
       "lastDiscoveryAt": "2026-10-19T00:21:32.394Z",
       "lastDiscoveryCompletedAt": "2026-08-18T05:19:31.353Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:06:00.061Z",
+      "lastCacheChangeAt": "2026-10-19T02:15:10.290Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": "2026-10-19T01:06:00.061Z",
       "lastError": null,
       "stats": {
         "searchRequests": 133,
-        "enrichmentRequests": 185,
+        "enrichmentRequests": 186,
         "usersDiscovered": 88,
-        "usersEnriched": 2246,
-        "usersRefreshed": 2161,
+        "usersEnriched": 2266,
+        "usersRefreshed": 2181,
         "usersKept": 30
       },
-      "refreshCursor": 0
+      "refreshCursor": 20
     },
     "venezuela": {
       "slug": "venezuela",
@@ -276595,20 +276559,20 @@
       "lastDiscoveryAt": "2026-10-19T00:23:23.868Z",
       "lastDiscoveryCompletedAt": "2026-08-19T20:18:16.450Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:06:31.726Z",
+      "lastCacheChangeAt": "2026-10-19T02:15:40.541Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
         "searchRequests": 193,
-        "enrichmentRequests": 595,
+        "enrichmentRequests": 596,
         "usersDiscovered": 8877,
-        "usersEnriched": 11365,
-        "usersRefreshed": 2868,
+        "usersEnriched": 11385,
+        "usersRefreshed": 2888,
         "usersKept": 6622
       },
-      "refreshCursor": 2837
+      "refreshCursor": 2857
     },
     "vietnam": {
       "slug": "vietnam",
@@ -277889,20 +277853,20 @@
       "lastDiscoveryAt": "2026-10-19T00:24:50.168Z",
       "lastDiscoveryCompletedAt": "2026-08-23T19:06:24.932Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:07:03.799Z",
+      "lastCacheChangeAt": "2026-10-19T02:16:11.140Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
         "searchRequests": 414,
-        "enrichmentRequests": 1703,
+        "enrichmentRequests": 1704,
         "usersDiscovered": 30786,
-        "usersEnriched": 33204,
-        "usersRefreshed": 2820,
+        "usersEnriched": 33224,
+        "usersRefreshed": 2840,
         "usersKept": 25836
       },
-      "refreshCursor": 2778
+      "refreshCursor": 2798
     },
     "wallis_and_futuna": {
       "slug": "wallis_and_futuna",
@@ -279858,17 +279822,17 @@
       "lastDiscoveryAt": "2026-10-19T00:32:50.391Z",
       "lastDiscoveryCompletedAt": "2026-08-17T05:39:04.991Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:07:08.872Z",
+      "lastCacheChangeAt": "2026-10-19T02:16:12.949Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
-      "lastContributionRefreshAt": "2026-10-19T01:07:08.872Z",
+      "lastContributionRefreshAt": "2026-10-19T02:16:12.949Z",
       "lastError": null,
       "stats": {
         "searchRequests": 94,
-        "enrichmentRequests": 149,
+        "enrichmentRequests": 150,
         "usersDiscovered": 6,
-        "usersEnriched": 727,
-        "usersRefreshed": 721,
+        "usersEnriched": 732,
+        "usersRefreshed": 726,
         "usersKept": 5
       },
       "refreshCursor": 0
@@ -281092,20 +281056,20 @@
       "lastDiscoveryAt": "2026-10-19T00:34:50.089Z",
       "lastDiscoveryCompletedAt": "2026-08-17T20:43:10.539Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:07:29.218Z",
+      "lastCacheChangeAt": "2026-10-19T02:16:18.528Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": "2026-10-17T12:10:49.647Z",
       "lastError": null,
       "stats": {
         "searchRequests": 120,
-        "enrichmentRequests": 248,
+        "enrichmentRequests": 249,
         "usersDiscovered": 1675,
-        "usersEnriched": 4523,
-        "usersRefreshed": 2848,
+        "usersEnriched": 4543,
+        "usersRefreshed": 2868,
         "usersKept": 1205
       },
-      "refreshCursor": 419
+      "refreshCursor": 439
     },
     "zambia": {
       "slug": "zambia",
@@ -281828,20 +281792,20 @@
       "lastDiscoveryAt": "2026-10-19T00:36:26.033Z",
       "lastDiscoveryCompletedAt": "2026-08-16T20:01:55.665Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:08:01.725Z",
+      "lastCacheChangeAt": "2026-10-19T02:16:40.068Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": "2026-10-18T11:40:07.562Z",
       "lastError": null,
       "stats": {
         "searchRequests": 85,
-        "enrichmentRequests": 272,
+        "enrichmentRequests": 273,
         "usersDiscovered": 2210,
-        "usersEnriched": 4967,
-        "usersRefreshed": 2867,
+        "usersEnriched": 4987,
+        "usersRefreshed": 2887,
         "usersKept": 1337
       },
-      "refreshCursor": 180
+      "refreshCursor": 200
     },
     "zimbabwe": {
       "slug": "zimbabwe",
@@ -282574,34 +282538,34 @@
       "lastDiscoveryAt": "2026-10-19T00:37:57.068Z",
       "lastDiscoveryCompletedAt": "2026-08-16T22:40:49.100Z",
       "discoveryQueuedThrough": "2026-07-18",
-      "lastCacheChangeAt": "2026-10-19T01:08:33.225Z",
+      "lastCacheChangeAt": "2026-10-19T02:16:42.886Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": "2026-10-14T09:45:22.657Z",
       "lastError": null,
       "stats": {
         "searchRequests": 88,
-        "enrichmentRequests": 284,
+        "enrichmentRequests": 285,
         "usersDiscovered": 2332,
-        "usersEnriched": 5198,
-        "usersRefreshed": 2866,
+        "usersEnriched": 5218,
+        "usersRefreshed": 2886,
         "usersKept": 1656
       },
-      "refreshCursor": 1200
+      "refreshCursor": 1220
     }
   },
-  "nextCountryIndex": 40,
-  "nextDeltaCountryIndex": 42,
-  "nextRefreshCountryIndex": 200,
+  "nextCountryIndex": 47,
+  "nextDeltaCountryIndex": 58,
+  "nextRefreshCountryIndex": 70,
   "nextRediscoveryCountryIndex": 0,
-  "lastRunStartedAt": "2026-10-19T02:02:40.559Z",
-  "lastRunFinishedAt": "2026-10-19T02:04:13.699Z",
+  "lastRunStartedAt": "2026-10-19T02:04:30.864Z",
+  "lastRunFinishedAt": "2026-10-19T02:34:58.245Z",
   "stats": {
-    "searchRequests": 83010,
-    "enrichmentRequests": 221347,
-    "usersDiscovered": 5355454,
-    "usersEnriched": 4185286,
-    "usersRefreshed": 589705,
-    "usersKept": 2686937
+    "searchRequests": 83071,
+    "enrichmentRequests": 221505,
+    "usersDiscovered": 5359436,
+    "usersEnriched": 4188123,
+    "usersRefreshed": 591594,
+    "usersKept": 2687432
   }
 }

@@ -34352,7 +34352,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2023-02-28T13:15:23Z"
   },
   {
@@ -34376,7 +34376,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 8,
     "createdAt": "2023-01-16T21:30:42Z"
   },
   {
@@ -34387,8 +34387,8 @@
     "company": "University of Technology of Chile",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 143,
+    "privateContributions": 18,
+    "publicContributions": 120,
     "createdAt": "2023-05-23T15:52:29Z"
   },
   {
@@ -34412,7 +34412,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 114,
+    "publicContributions": 104,
     "createdAt": "2023-03-14T22:42:16Z"
   },
   {
@@ -34424,7 +34424,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 145,
+    "publicContributions": 102,
     "createdAt": "2023-02-13T00:24:51Z"
   },
   {
@@ -34458,7 +34458,7 @@
     "location": "Santiago, Chile",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-04-02T23:56:57Z"
@@ -34472,7 +34472,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 41,
+    "publicContributions": 28,
     "createdAt": "2023-03-30T18:09:29Z"
   },
   {
@@ -34534,18 +34534,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-05-25T15:29:42Z"
-  },
-  {
-    "login": "miaw-miaw-miaw-miaw",
-    "name": "MiaW",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/134899442?s=72&u=48c28556215911214b4954f6505cbb17d6bb99d5&v=4",
-    "location": "Chile",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 64,
-    "createdAt": "2023-05-29T02:07:22Z"
   },
   {
     "login": "teysonm",

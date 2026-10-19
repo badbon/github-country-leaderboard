@@ -33968,7 +33968,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 135,
+    "publicContributions": 5,
     "createdAt": "2024-09-03T16:45:38Z"
   },
   {
@@ -33992,7 +33992,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 41,
+    "publicContributions": 28,
     "createdAt": "2024-09-25T14:48:42Z"
   },
   {
@@ -34016,7 +34016,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 26,
     "createdAt": "2024-10-03T00:45:36Z"
   },
   {
@@ -34027,8 +34027,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 38,
-    "publicContributions": 180,
+    "privateContributions": 15,
+    "publicContributions": 139,
     "createdAt": "2024-10-25T19:12:03Z"
   },
   {
@@ -34064,7 +34064,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 20,
     "createdAt": "2024-10-05T04:02:23Z"
   },
   {
@@ -34076,7 +34076,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 187,
+    "publicContributions": 120,
     "createdAt": "2024-09-09T21:05:16Z"
   },
   {
@@ -34087,7 +34087,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 3,
+    "privateContributions": 2,
     "publicContributions": 0,
     "createdAt": "2024-12-24T07:06:52Z"
   },
@@ -34098,9 +34098,9 @@
     "location": "Colombia, Bogotá",
     "company": " pontificia universidad javeriana ",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 74,
+    "publicContributions": 70,
     "createdAt": "2024-09-06T12:41:47Z"
   },
   {
@@ -34112,7 +34112,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 3,
     "createdAt": "2024-09-09T19:55:38Z"
   },
   {
@@ -34134,9 +34134,9 @@
     "location": "Colombia",
     "company": "Unimayor",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 85,
+    "followers": 2,
+    "privateContributions": 374,
+    "publicContributions": 173,
     "createdAt": "2024-08-07T20:30:01Z"
   },
   {
@@ -34148,13 +34148,13 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 31,
     "createdAt": "2024-09-20T15:19:29Z"
   },
   {
     "login": "JotaPe0440",
     "name": "Juan Pablo Ramírez Pinilla",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/180321084?s=72&u=a01a2297d4fd062c6ce5d45b9bc3b120f77743a7&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/180321084?s=72&u=0030992d670d14fec4c0fe813e8ad8539926cbb3&v=4",
     "location": "Colombia",
     "company": "",
     "twitterUsername": "",
@@ -349798,5 +349798,65 @@
     "privateContributions": 0,
     "publicContributions": 23,
     "createdAt": "2023-09-24T07:45:21Z"
+  },
+  {
+    "login": "somchaisingh366",
+    "name": "Victor da Costa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298882088?s=72&v=4",
+    "location": "צפרירים, Colombia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-07-01T21:38:03Z"
+  },
+  {
+    "login": "AlessiaHendriks18485",
+    "name": "Florentino Valcárcel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298878638?s=72&v=4",
+    "location": "Colombia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-07-01T21:26:20Z"
+  },
+  {
+    "login": "kok8731",
+    "name": "Laura Cruz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298765476?s=72&v=4",
+    "location": "Colombia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2026-07-01T15:08:41Z"
+  },
+  {
+    "login": "szymonperry",
+    "name": "Febe Herrera",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298834835?s=72&v=4",
+    "location": "Colombia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2026-07-01T18:41:45Z"
+  },
+  {
+    "login": "fernandez9250",
+    "name": "Sofía Medina",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298862894?s=72&v=4",
+    "location": "แหลมฉบัง, Colombia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-07-01T20:24:36Z"
   }
 ]
