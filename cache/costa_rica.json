@@ -35707,8 +35707,8 @@
     "company": "Varicent",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 14,
-    "publicContributions": 150,
+    "privateContributions": 8,
+    "publicContributions": 135,
     "createdAt": "2018-09-27T00:34:36Z"
   },
   {
@@ -35718,7 +35718,7 @@
     "location": "Costa Rica",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 173,
     "publicContributions": 26,
     "createdAt": "2018-08-18T23:33:48Z"
@@ -35743,8 +35743,8 @@
     "company": "Safe Technologies Inc",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 22,
-    "publicContributions": 10,
+    "privateContributions": 14,
+    "publicContributions": 9,
     "createdAt": "2018-10-19T03:07:30Z"
   },
   {
@@ -35755,7 +35755,7 @@
     "company": "@ltvco ",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 1769,
+    "privateContributions": 1557,
     "publicContributions": 2,
     "createdAt": "2018-10-30T19:14:06Z"
   },
@@ -35766,9 +35766,9 @@
     "location": "Alajuela, Costa Rica",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 78,
-    "publicContributions": 439,
+    "followers": 6,
+    "privateContributions": 47,
+    "publicContributions": 300,
     "createdAt": "2018-10-10T15:35:40Z"
   },
   {
@@ -35785,14 +35785,14 @@
   },
   {
     "login": "EddieBeru",
-    "name": "Edie Bermúdez",
+    "name": "Edie B",
     "avatarUrl": "https://avatars.githubusercontent.com/u/40801254?s=72&u=5c576ea2378884036de636c5d060906012433cb5&v=4",
     "location": "Costa Rica",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 0,
-    "publicContributions": 322,
+    "followers": 10,
+    "privateContributions": 1539,
+    "publicContributions": 466,
     "createdAt": "2018-07-03T15:29:57Z"
   },
   {
@@ -35804,7 +35804,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 106,
+    "publicContributions": 108,
     "createdAt": "2018-01-10T07:58:17Z"
   },
   {
@@ -35826,22 +35826,10 @@
     "location": "Costa Rica",
     "company": "Universidad de Costa Rica",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 173,
+    "publicContributions": 213,
     "createdAt": "2018-12-25T18:27:39Z"
-  },
-  {
-    "login": "Frtmnml",
-    "name": "Joshua Herrera",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/42598687?s=72&u=26b51db6635fc68d768bcfdbc1f40b38f5159836&v=4",
-    "location": "Heredia, Costa Rica",
-    "company": "",
-    "twitterUsername": "JoshuaHerreraC3",
-    "followers": 7,
-    "privateContributions": 4,
-    "publicContributions": 13,
-    "createdAt": "2018-08-22T05:04:42Z"
   },
   {
     "login": "varivn",
@@ -35862,9 +35850,9 @@
     "location": "Costa Rica",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 45,
+    "publicContributions": 43,
     "createdAt": "2018-11-22T16:05:11Z"
   },
   {
@@ -35911,7 +35899,7 @@
     "company": "EPROM",
     "twitterUsername": "MarioQuirosL",
     "followers": 6,
-    "privateContributions": 361,
+    "privateContributions": 306,
     "publicContributions": 1,
     "createdAt": "2018-03-22T23:32:21Z"
   },
@@ -35923,7 +35911,7 @@
     "company": "@ltvco",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 1432,
+    "privateContributions": 1406,
     "publicContributions": 1,
     "createdAt": "2018-08-30T23:50:47Z"
   },
@@ -35934,9 +35922,9 @@
     "location": "Costa Rica",
     "company": "Parallax Solutions",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 601,
-    "publicContributions": 5,
+    "followers": 8,
+    "privateContributions": 929,
+    "publicContributions": 15,
     "createdAt": "2018-04-17T00:40:03Z"
   },
   {

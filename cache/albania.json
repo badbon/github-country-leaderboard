@@ -7255,7 +7255,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 105,
+    "privateContributions": 100,
     "publicContributions": 0,
     "createdAt": "2020-05-12T17:59:58Z"
   },
@@ -7320,25 +7320,13 @@
     "createdAt": "2020-06-24T18:09:55Z"
   },
   {
-    "login": "okturan",
-    "name": "Okan Erturan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/59735073?s=72&u=39fc92598a75cc4918861649a6711d892905bae0&v=4",
-    "location": "Tirana",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 37,
-    "privateContributions": 9193,
-    "publicContributions": 1406,
-    "createdAt": "2020-01-10T13:30:39Z"
-  },
-  {
     "login": "EndriSeferi",
     "name": "Endri",
     "avatarUrl": "https://avatars.githubusercontent.com/u/61937559?s=72&u=8b628b71f9d3b35bc077a2f6d574e0f7f3b3c544&v=4",
     "location": "Tirana",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-03-08T12:32:01Z"
@@ -7351,7 +7339,7 @@
     "company": "@new-media-communications",
     "twitterUsername": "blenardpazari",
     "followers": 5,
-    "privateContributions": 4576,
+    "privateContributions": 4523,
     "publicContributions": 7,
     "createdAt": "2020-05-11T14:55:31Z"
   },
@@ -7375,7 +7363,7 @@
     "company": "KTSoftware Solutions",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 36,
+    "privateContributions": 39,
     "publicContributions": 0,
     "createdAt": "2020-03-20T16:29:02Z"
   },
@@ -7399,7 +7387,7 @@
     "company": "CardoAI",
     "twitterUsername": "",
     "followers": 27,
-    "privateContributions": 4022,
+    "privateContributions": 4081,
     "publicContributions": 13,
     "createdAt": "2020-12-15T13:48:26Z"
   },
@@ -7423,7 +7411,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 4507,
+    "privateContributions": 4718,
     "publicContributions": 1,
     "createdAt": "2020-06-30T15:52:36Z"
   },
@@ -7435,7 +7423,7 @@
     "company": " Lufthansa Industry Solution",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 47,
+    "privateContributions": 52,
     "publicContributions": 0,
     "createdAt": "2020-11-19T19:20:38Z"
   },

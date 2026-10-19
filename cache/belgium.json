@@ -35395,7 +35395,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 2,
+    "privateContributions": 1,
     "publicContributions": 0,
     "createdAt": "2021-09-16T17:14:39Z"
   },
@@ -35420,7 +35420,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 6,
     "createdAt": "2021-04-22T13:13:34Z"
   },
   {
@@ -35431,8 +35431,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 444,
-    "publicContributions": 30,
+    "privateContributions": 378,
+    "publicContributions": 42,
     "createdAt": "2021-08-16T06:58:54Z"
   },
   {
@@ -35442,7 +35442,7 @@
     "location": "Belgium",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-11-11T13:19:19Z"
@@ -35455,20 +35455,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 58,
+    "privateContributions": 56,
     "publicContributions": 0,
     "createdAt": "2021-09-14T11:10:16Z"
   },
   {
     "login": "JarneDel",
     "name": "Delarue Jarne",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/91070860?s=72&u=06f49fc560a13fd9139dddbd14c88455bb06b515&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/91070860?s=72&u=3e4d0ab5cd8d0b8e657621493510666b1985d8f1&v=4",
     "location": "Gent, Belgium",
     "company": "Numble",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 1758,
-    "publicContributions": 70,
+    "privateContributions": 1671,
+    "publicContributions": 88,
     "createdAt": "2021-09-20T13:23:11Z"
   },
   {
@@ -35480,7 +35480,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 9,
     "createdAt": "2021-11-25T12:55:03Z"
   },
   {
@@ -35504,7 +35504,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 33,
+    "publicContributions": 21,
     "createdAt": "2021-09-21T09:27:54Z"
   },
   {
@@ -35515,7 +35515,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 53,
+    "privateContributions": 26,
     "publicContributions": 0,
     "createdAt": "2021-10-05T12:21:16Z"
   },
@@ -35550,9 +35550,9 @@
     "location": "Belgium",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 218,
-    "publicContributions": 98,
+    "followers": 5,
+    "privateContributions": 244,
+    "publicContributions": 99,
     "createdAt": "2021-06-05T10:38:43Z"
   },
   {
@@ -35575,7 +35575,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 292,
+    "privateContributions": 839,
     "publicContributions": 0,
     "createdAt": "2021-10-05T11:35:06Z"
   },
@@ -35586,9 +35586,9 @@
     "location": "Belgium",
     "company": "Digital Genics",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 836,
-    "publicContributions": 2,
+    "followers": 7,
+    "privateContributions": 1912,
+    "publicContributions": 4,
     "createdAt": "2021-07-22T09:19:44Z"
   },
   {
@@ -35599,8 +35599,8 @@
     "company": "RTC West-Vlaanderen",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 158,
-    "publicContributions": 99,
+    "privateContributions": 93,
+    "publicContributions": 20,
     "createdAt": "2021-09-26T21:50:55Z"
   },
   {
@@ -35612,7 +35612,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 214,
-    "publicContributions": 67,
+    "publicContributions": 46,
     "createdAt": "2021-03-22T16:33:36Z"
   },
   {

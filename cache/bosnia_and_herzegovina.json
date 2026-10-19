@@ -10112,7 +10112,7 @@
     "twitterUsername": "",
     "followers": 23,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 4,
     "createdAt": "2020-04-12T13:05:47Z"
   },
   {
@@ -10122,7 +10122,7 @@
     "location": "Sarajevo",
     "company": "",
     "twitterUsername": "",
-    "followers": 20,
+    "followers": 19,
     "privateContributions": 1,
     "publicContributions": 0,
     "createdAt": "2020-05-04T07:53:48Z"
@@ -10135,7 +10135,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 21,
-    "privateContributions": 606,
+    "privateContributions": 597,
     "publicContributions": 0,
     "createdAt": "2020-09-27T10:37:56Z"
   },
@@ -10171,7 +10171,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 13,
-    "privateContributions": 155,
+    "privateContributions": 172,
     "publicContributions": 1,
     "createdAt": "2020-09-18T21:54:35Z"
   },
@@ -10183,8 +10183,8 @@
     "company": "",
     "twitterUsername": "EdibDedic",
     "followers": 12,
-    "privateContributions": 133,
-    "publicContributions": 50,
+    "privateContributions": 199,
+    "publicContributions": 0,
     "createdAt": "2020-02-14T11:34:32Z"
   },
   {
@@ -10195,7 +10195,7 @@
     "company": "Tech387",
     "twitterUsername": "",
     "followers": 13,
-    "privateContributions": 2350,
+    "privateContributions": 2382,
     "publicContributions": 6,
     "createdAt": "2020-03-25T08:43:36Z"
   },
@@ -10231,8 +10231,8 @@
     "company": "Horalix",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 327,
-    "publicContributions": 2863,
+    "privateContributions": 344,
+    "publicContributions": 2965,
     "createdAt": "2020-05-13T00:07:41Z"
   },
   {
@@ -10255,7 +10255,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 418,
+    "privateContributions": 408,
     "publicContributions": 0,
     "createdAt": "2020-10-19T12:21:13Z"
   },
@@ -10267,8 +10267,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 1618,
-    "publicContributions": 5,
+    "privateContributions": 1779,
+    "publicContributions": 12,
     "createdAt": "2020-08-30T16:35:46Z"
   },
   {
@@ -10291,7 +10291,7 @@
     "company": "Faculty of Information Technologies",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 279,
+    "privateContributions": 308,
     "publicContributions": 55,
     "createdAt": "2020-08-29T21:00:55Z"
   },
