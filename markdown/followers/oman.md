@@ -1,12 +1,12 @@
 # Followers - Oman
 
-Generated: 2026-10-19T08:17:38.541Z
+Generated: 2026-10-19T09:38:33.900Z
 
 Users: 991
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [pylover](https://github.com/pylover) | Vahid |  |  | Muscat, Oman | 424 |
+| 1 | [pylover](https://github.com/pylover) | Vahid |  |  | Muscat, Oman | 425 |
 | 2 | [salim3dd](https://github.com/salim3dd) | Salim3dd | 3DDesignLLC |  | Sultanate Of Oman | 284 |
 | 3 | [uiamirali](https://github.com/uiamirali) | Amirali Jalalvand |  |  | Muscat, Oman | 257 |
 | 4 | [habibalmawali](https://github.com/habibalmawali) | Habib AlMawali | @thedevclass  | thedevclass | Oman | 227 |

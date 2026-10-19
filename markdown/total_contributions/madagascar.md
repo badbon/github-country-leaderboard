@@ -1,20 +1,20 @@
 # Total Contributions - Madagascar
 
-Generated: 2026-10-19T08:07:25.406Z
+Generated: 2026-10-19T09:26:17.175Z
 
 Users: 1903
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [marioshaya](https://github.com/marioshaya) | Mario SHAYA |  | marioshaya | Antananarivo, Madagascar | 15673 |
-| 2 | [mgcodeur](https://github.com/mgcodeur) | Jimmy Raphaël (Iharena) | Paneramg, Mgcodeur | mgcodeur | Madagascar | 15245 |
-| 3 | [rajostelly](https://github.com/rajostelly) | RANDRIATSEHENO Rajo Stelly  |  |  | Madagascar | 14957 |
+| 2 | [rajostelly](https://github.com/rajostelly) | RANDRIATSEHENO Rajo Stelly  |  |  | Madagascar | 14957 |
+| 3 | [mgcodeur](https://github.com/mgcodeur) | Jimmy Raphaël (Iharena) | Paneramg, Mgcodeur | mgcodeur | Madagascar | 14639 |
 | 4 | [tiavina-mika](https://github.com/tiavina-mika) | Tiavina Michael Ralainirina | Freelance |  | Antananarivo, Madagascar | 11993 |
 | 5 | [titamrtn](https://github.com/titamrtn) | RAJAONAH Nandrianina |  |  | Antananarivo, Madagascar | 11123 |
 | 6 | [elsycharles](https://github.com/elsycharles) | Elsy | IT University |  | Madagascar | 10326 |
 | 7 | [EdouardoRabe](https://github.com/EdouardoRabe) |  |  |  | Madagascar | 10158 |
 | 8 | [Xpirix](https://github.com/Xpirix) | Lova Andriarimalala |  | Xpirix3 | Madagascar | 9440 |
-| 9 | [josoavj](https://github.com/josoavj) | Josoa Vonjiniaina | @APEXNovaLabs  | j_Josoa | Antananarivo, Madagascar | 7594 |
+| 9 | [josoavj](https://github.com/josoavj) | Josoa Vonjiniaina | @APEXNovaLabs  | j_Josoa | Antananarivo, Madagascar | 7813 |
 | 10 | [radandevist](https://github.com/radandevist) | Andrianarisoa Daniel | i_am_radan | radandevist | Anatananarivo, Madagascar | 7273 |
 | 11 | [tsirysndr](https://github.com/tsirysndr) | Tsiry Sandratraina | @fluentci-io | tsiry_sndr | Antananarivo / Madagascar | 6996 |
 | 12 | [TantelyRandriamazaoro](https://github.com/TantelyRandriamazaoro) | Tantely Randriamazaoro | Mazaoro SARLU |  | Madagascar | 6696 |

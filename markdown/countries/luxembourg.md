@@ -42,7 +42,7 @@ Indexed users: 2,190
 | 3 | [leobenkel-db](https://github.com/leobenkel-db) | Leo Benkel (bot)  | Luxembourg | 6,787 |
 | 4 | [AbdallahCoptan](https://github.com/AbdallahCoptan) | Abdallah IBRAHIM | Luxembourg | 4,379 |
 | 5 | [EuphoriaLux](https://github.com/EuphoriaLux) | Twisto | Luxembourg | 4,033 |
-| 6 | [dbarzin](https://github.com/dbarzin) | Didier Barzin | Luxembourg | 3,817 |
+| 6 | [dbarzin](https://github.com/dbarzin) | Didier Barzin | Luxembourg | 3,885 |
 | 7 | [erkobridee](https://github.com/erkobridee) | Erko Bridee | Luxembourg | 3,634 |
 | 8 | [Sashimee](https://github.com/Sashimee) | Alex | Luxembourg | 3,490 |
 | 9 | [ArmenSl](https://github.com/ArmenSl) | ArmenSL | Luxembourg | 3,299 |
@@ -83,4 +83,4 @@ Indexed users: 2,190
 | 19 | [l4rz](https://github.com/l4rz) | Mike K. | Luxembourg | 197 |
 | 20 | [urosolia](https://github.com/urosolia) | Ugo Rosolia | Luxembourg, Lux | 192 |
 
-Generated: 2026-10-19T08:07:18.684Z
+Generated: 2026-10-19T09:26:08.159Z

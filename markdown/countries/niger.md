@@ -21,7 +21,7 @@ Indexed users: 176
 | 7 | [Yacoubou-seidou](https://github.com/Yacoubou-seidou) | Yacos | Niamey/Niger | 1,169 |
 | 8 | [kodjodevf](https://github.com/kodjodevf) | Moustapha Kodjo Amadou | Niamey,Niger | 1,159 |
 | 9 | [FadelMamar](https://github.com/FadelMamar) | Fadel | Niger | 1,056 |
-| 10 | [5mamane](https://github.com/5mamane) | Mamane I. | Niamey | 955 |
+| 10 | [5mamane](https://github.com/5mamane) | Mamane I. | Niamey | 993 |
 | 11 | [Transega](https://github.com/Transega) | Collins Asega Amadala  | Niamey Niger | 941 |
 | 12 | [Godisouleymane](https://github.com/Godisouleymane) | Souleymane Sabiou | Niger | 771 |
 | 13 | [oxy227](https://github.com/oxy227) | Ayouba Issoufou | Niamey/Niger | 741 |
@@ -83,4 +83,4 @@ Indexed users: 176
 | 19 | [ibkhall](https://github.com/ibkhall) | Ibrahim Boubacar | Niamey | 17 |
 | 20 | [Imrana-Moustapha](https://github.com/Imrana-Moustapha) | Imrana Moustapha | Niamey-Niger | 17 |
 
-Generated: 2026-10-19T08:15:42.555Z
+Generated: 2026-10-19T09:36:38.580Z

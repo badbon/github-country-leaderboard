@@ -28,7 +28,7 @@ Indexed users: 741
 | 14 | [EngGharbia](https://github.com/EngGharbia) | Abdurraouf Ben Gharbia | Tripoli, Libya | 6,192 |
 | 15 | [swe-sanad](https://github.com/swe-sanad) | Sanad AlArousi | Zawia, Libya | 6,136 |
 | 16 | [x414i](https://github.com/x414i) | Mohamed S. Belaid | Libya/Misrata | 6,042 |
-| 17 | [Flat-Duck](https://github.com/Flat-Duck) | A.Mahidwei | Libya | 5,968 |
+| 17 | [Flat-Duck](https://github.com/Flat-Duck) | A.Mahidwei | Libya | 5,922 |
 | 18 | [AliAgela-dev](https://github.com/AliAgela-dev) | Ali Agela | Libya | 5,525 |
 | 19 | [OthmanHaba](https://github.com/OthmanHaba) |  Othman Haba  (ง'̀-'́)ง     | Tripoli Libya | 5,485 |
 | 20 | [erabti](https://github.com/erabti) | Ahmed Erabti | Libya | 5,388 |
@@ -83,4 +83,4 @@ Indexed users: 741
 | 19 | [ZizouHuweidi](https://github.com/ZizouHuweidi) | El Zubeir Huweidi | Benghazi, Libya | 51 |
 | 20 | [Islam-alshiki](https://github.com/Islam-alshiki) | Islam alshiki | Benghazi, Libya | 49 |
 
-Generated: 2026-10-19T08:06:45.035Z
+Generated: 2026-10-19T09:24:56.523Z

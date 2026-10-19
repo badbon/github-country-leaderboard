@@ -1,6 +1,6 @@
 # Morocco
 
-Indexed users: 9,630
+Indexed users: 9,629
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 9,630
 | 19 | [walidbosso](https://github.com/walidbosso) | Walid BOUSSOU | Tetouan, Morocco. | 821 |
 | 20 | [yassnemo](https://github.com/yassnemo) | Yassine Erradouani | Casablanca, Morocco | 741 |
 
-Generated: 2026-10-19T08:12:45.769Z
+Generated: 2026-10-19T09:33:14.305Z

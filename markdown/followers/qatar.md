@@ -1,19 +1,19 @@
 # Followers - Qatar
 
-Generated: 2026-10-19T08:20:55.187Z
+Generated: 2026-10-19T09:42:05.823Z
 
 Users: 1071
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [altyebv](https://github.com/altyebv) | Altayeb Abdeljalil  |  |  | Doha, Qatar  Sudan  | 928 |
-| 2 | [Vetrivel-VP](https://github.com/Vetrivel-VP) | Vetrivel Ravi |  |  | Doha | 818 |
+| 2 | [Vetrivel-VP](https://github.com/Vetrivel-VP) | Vetrivel Ravi |  |  | Doha | 817 |
 | 3 | [maljefairi](https://github.com/maljefairi) | Mohammed Al-Jefairi | Qatar IT | maljefairi | Qatar | 579 |
 | 4 | [TarikKaanKoc](https://github.com/TarikKaanKoc) | Tarık Kaan Koç |  |  | Qatar | 565 |
 | 5 | [Offensive-Panda](https://github.com/Offensive-Panda) | Usman Sikander | Cytomate solutions and services | usmansikander13 | Qatar | 525 |
 | 6 | [vahid-nejad](https://github.com/vahid-nejad) | Vahid Nejad | freelancer | sakura_dev_web | Qatar | 479 |
 | 7 | [noumanmhd](https://github.com/noumanmhd) | Nouman Mahmood |  |  | Qatar | 362 |
-| 8 | [yhunlu](https://github.com/yhunlu) | YAHYA UNLU | Tecnicas Reunidas |  | Qatar, Doha | 203 |
+| 8 | [yhunlu](https://github.com/yhunlu) | YAHYA UNLU | Tecnicas Reunidas |  | Qatar, Doha | 204 |
 | 9 | [myofficework000](https://github.com/myofficework000) | ABHISHEK PATHAK | UBS (Swiss Bank) |  | Doha, Qatar | 160 |
 | 10 | [zahidchoudhury](https://github.com/zahidchoudhury) | M Zahid Choudhury |  | zahid_choudhury | Qatar | 155 |
 | 11 | [nirzaf](https://github.com/nirzaf) | M.F.M Fazrin | Primary Health Care Corporation |  | Doha - Qatar | 128 |

@@ -1,6 +1,6 @@
 # Mali
 
-Indexed users: 348
+Indexed users: 347
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 348
 | 19 | [AlyKonte](https://github.com/AlyKonte) |  | Mali/Bamako | 27 |
 | 20 | [Dioman-Keita](https://github.com/Dioman-Keita) | Dioman Keïta | Bamako/Mali | 25 |
 
-Generated: 2026-10-19T08:08:42.928Z
+Generated: 2026-10-19T09:28:18.544Z

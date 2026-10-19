@@ -1,6 +1,6 @@
 # Public Contributions - Nicaragua
 
-Generated: 2026-10-19T08:15:39.225Z
+Generated: 2026-10-19T09:36:01.990Z
 
 Users: 1395
 
@@ -8,11 +8,11 @@ Users: 1395
 |---:|---|---|---|---|---|---:|
 | 1 | [williamjmorenor](https://github.com/williamjmorenor) | William Moreno |  |  | Managua Nicaragua | 7035 |
 | 2 | [Xch4rt](https://github.com/Xch4rt) | Pablo Gutiérrez |  |  | Managua, Nicaragua | 2121 |
-| 3 | [Void-CA](https://github.com/Void-CA) | Ari Castillo |  |  | Nicaragua | 2052 |
+| 3 | [Void-CA](https://github.com/Void-CA) | Ari Castillo |  |  | Nicaragua | 2060 |
 | 4 | [CharFranR](https://github.com/CharFranR) | Oscar Francisco Reyes Guevara  |  |  | Nicaragua | 1635 |
 | 5 | [NathanDraco22](https://github.com/NathanDraco22) |  |  | NathanDraco22 | Nicaragua | 1508 |
 | 6 | [antonygiomarxdev](https://github.com/antonygiomarxdev) | Antony Giomar Hernández | @Atomchat-io | antonygiomarx | Nicaragua | 1315 |
-| 7 | [oscarMolina1523](https://github.com/oscarMolina1523) | Oscar Danilo Molina |  |  | Nicaragua | 1311 |
+| 7 | [oscarMolina1523](https://github.com/oscarMolina1523) | Oscar Danilo Molina |  |  | Nicaragua | 1254 |
 | 8 | [carlosrenatohr](https://github.com/carlosrenatohr) | Carlos Hernandez |  |  | Managua, Nicaragua | 1249 |
 | 9 | [ErvingMiranda](https://github.com/ErvingMiranda) | Ezone |  |  | Nicaragua | 1234 |
 | 10 | [MaycollJaramillo01](https://github.com/MaycollJaramillo01) | Maycoll Jaramillo | Mao Agency |  | Nicaragua | 1173 |

@@ -1,6 +1,6 @@
 # Public Contributions - Montenegro
 
-Generated: 2026-10-19T08:12:36.850Z
+Generated: 2026-10-19T09:32:07.140Z
 
 Users: 888
 
@@ -11,7 +11,7 @@ Users: 888
 | 3 | [sondreb](https://github.com/sondreb) | SondreB | @nostria-app @block-core @Liberstad | sondreb | Bar, Montenegro | 6930 |
 | 4 | [recursion128](https://github.com/recursion128) | DDDDOGE |  |  | Crna Gora | 4869 |
 | 5 | [Timev](https://github.com/Timev) | Evgenii Timofeev |  |  | Montenegro | 4251 |
-| 6 | [KonstZiv](https://github.com/KonstZiv) | Константин Зивенко | ExSol |  | Montenegro, Herzeg-Novi | 3474 |
+| 6 | [KonstZiv](https://github.com/KonstZiv) | Константин Зивенко | ExSol |  | Montenegro, Herzeg-Novi | 3473 |
 | 7 | [potapenko](https://github.com/potapenko) | Eugene Potapenko | Playphrase.me |  | Montenegro | 3168 |
 | 8 | [AndreyTalanin0x00](https://github.com/AndreyTalanin0x00) | Andrey Talanin |  |  | Podgorica, Montenegro | 2992 |
 | 9 | [lacodda](https://github.com/lacodda) | Kirill Lakhtachev | lacodda |  | Montenegro | 2678 |

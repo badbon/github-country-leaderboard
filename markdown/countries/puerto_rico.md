@@ -44,7 +44,7 @@ Indexed users: 1,532
 | 5 | [egmtm](https://github.com/egmtm) | EGM™ | Puerto Rico | 5,872 |
 | 6 | [Wolfkid200444](https://github.com/Wolfkid200444) | Wolfie | Puerto Rico | 4,851 |
 | 7 | [edwardlthompson](https://github.com/edwardlthompson) | Edward Thompson | Puerto Rico | 3,411 |
-| 8 | [rnegron](https://github.com/rnegron) | Raúl Negrón-Otero | Bayamón, Puerto Rico | 3,100 |
+| 8 | [rnegron](https://github.com/rnegron) | Raúl Negrón-Otero | Bayamón, Puerto Rico | 3,188 |
 | 9 | [shawntabrizi](https://github.com/shawntabrizi) | Shawn Tabrizi | Puerto Rico | 2,993 |
 | 10 | [cywf](https://github.com/cywf) | KP | San Juan, PR | 2,620 |
 | 11 | [rebelinux](https://github.com/rebelinux) | Jonathan Colon | Puerto Rico | 2,118 |
@@ -52,7 +52,7 @@ Indexed users: 1,532
 | 13 | [ricardojuanmorales](https://github.com/ricardojuanmorales) | Ricardo Juan Morales De Jesús | San Juan, Puerto Rico | 1,359 |
 | 14 | [eresfavolosx](https://github.com/eresfavolosx) | Fabián Vélez Vicente | Guaynabo, Puerto Rico | 1,306 |
 | 15 | [drosadocastro-bit](https://github.com/drosadocastro-bit) | Danny Rosado Castro (Drakus) | Puerto Rico | 1,149 |
-| 16 | [Jaxelr](https://github.com/Jaxelr) | Jaxel Rojas Lopez | San Juan, Puerto Rico | 1,096 |
+| 16 | [Jaxelr](https://github.com/Jaxelr) | Jaxel Rojas Lopez | San Juan, Puerto Rico | 1,103 |
 | 17 | [MicaelVR04](https://github.com/MicaelVR04) | Micael Velez Rodriguez | Puerto Rico | 1,055 |
 | 18 | [marcosstgo](https://github.com/marcosstgo) | Marcos Santiago | Puerto Rico | 988 |
 | 19 | [CristianAce05](https://github.com/CristianAce05) | Cristian Acevedo | Puerto Rico | 984 |
@@ -70,9 +70,9 @@ Indexed users: 1,532
 | 6 | [gcollazo](https://github.com/gcollazo) | Giovanni Collazo | Puerto Rico | 454 |
 | 7 | [jgravois](https://github.com/jgravois) | john gravois | san juan capo, ca | 267 |
 | 8 | [JamesMessinger](https://github.com/JamesMessinger) | James Messinger | San Juan, PR | 225 |
-| 9 | [joeykrug](https://github.com/joeykrug) | Joseph Krug | Puerto Rico | 204 |
+| 9 | [joeykrug](https://github.com/joeykrug) | Joseph Krug | Puerto Rico | 205 |
 | 10 | [FrenzyExists](https://github.com/FrenzyExists) | Detective Pikachu | Aguadilla, Puerto Rico | 199 |
-| 11 | [bvelez](https://github.com/bvelez) | Bienvenido Vélez | Mayagüez, Puerto Rico | 174 |
+| 11 | [bvelez](https://github.com/bvelez) | Bienvenido Vélez | Mayagüez, Puerto Rico | 173 |
 | 12 | [victoroalvarez](https://github.com/victoroalvarez) | Victor O. Alvarez | Puerto Rico | 171 |
 | 13 | [RhettCreighton](https://github.com/RhettCreighton) | Rhett Creighton | San Juan, Puerto Rico | 169 |
 | 14 | [aryxns](https://github.com/aryxns) | Aryan Sharma | puerto rico | 159 |
@@ -83,4 +83,4 @@ Indexed users: 1,532
 | 19 | [rnegron](https://github.com/rnegron) | Raúl Negrón-Otero | Bayamón, Puerto Rico | 113 |
 | 20 | [hackingbutlegal](https://github.com/hackingbutlegal) | Jackie Singh | San Juan, PR | 107 |
 
-Generated: 2026-10-19T08:20:32.218Z
+Generated: 2026-10-19T09:41:58.584Z

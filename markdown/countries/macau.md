@@ -17,7 +17,7 @@ Indexed users: 439
 | 3 | [vergilsoleyn](https://github.com/vergilsoleyn) |  | Macau | 8,135 |
 | 4 | [Chonwai](https://github.com/Chonwai) | Chonwai Un, Edison | Macau | 7,353 |
 | 5 | [kenischu](https://github.com/kenischu) | Kenis Chu | Macau | 6,099 |
-| 6 | [sou350121](https://github.com/sou350121) | KenSou | Macau | 5,527 |
+| 6 | [sou350121](https://github.com/sou350121) | KenSou | Macau | 5,581 |
 | 7 | [LunchBox](https://github.com/LunchBox) | Daniel | Macau | 3,513 |
 | 8 | [sfcheung](https://github.com/sfcheung) | Shu Fai Cheung | Macao | 3,351 |
 | 9 | [1595901624](https://github.com/1595901624) | Cloris | Macau | 3,347 |
@@ -37,7 +37,7 @@ Indexed users: 439
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [sou350121](https://github.com/sou350121) | KenSou | Macau | 5,527 |
+| 1 | [sou350121](https://github.com/sou350121) | KenSou | Macau | 5,581 |
 | 2 | [spiritLHLS](https://github.com/spiritLHLS) | spiritlhl | Macau | 5,329 |
 | 3 | [sfcheung](https://github.com/sfcheung) | Shu Fai Cheung | Macao | 2,809 |
 | 4 | [mugpeng](https://github.com/mugpeng) | Peng | macao | 2,284 |
@@ -46,7 +46,7 @@ Indexed users: 439
 | 7 | [wahengchang](https://github.com/wahengchang) | peterchang | macau | 1,336 |
 | 8 | [yyyyyyounger](https://github.com/yyyyyyounger) | Rookie, LIN | Macau | 1,284 |
 | 9 | [simoniong](https://github.com/simoniong) | Simon Iong | Macau | 1,277 |
-| 10 | [mrvictoru](https://github.com/mrvictoru) | Victor | Macau | 962 |
+| 10 | [mrvictoru](https://github.com/mrvictoru) | Victor | Macau | 959 |
 | 11 | [1595901624](https://github.com/1595901624) | Cloris | Macau | 842 |
 | 12 | [ygqygq2](https://github.com/ygqygq2) | Chinge Yang | macao | 800 |
 | 13 | [comsaint](https://github.com/comsaint) | comsaint | Macau | 758 |
@@ -83,4 +83,4 @@ Indexed users: 439
 | 19 | [1595901624](https://github.com/1595901624) | Cloris | Macau | 68 |
 | 20 | [Boom5426](https://github.com/Boom5426) | Bo li (李波) | Macau | 68 |
 
-Generated: 2026-10-19T08:07:22.520Z
+Generated: 2026-10-19T09:26:11.653Z
