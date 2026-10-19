@@ -1,6 +1,6 @@
 # Public Contributions - Jamaica
 
-Generated: 2026-10-19T14:41:22.083Z
+Generated: 2026-10-19T16:05:37.473Z
 
 Users: 1272
 
@@ -16,7 +16,7 @@ Users: 1272
 | 8 | [OddBloke](https://github.com/OddBloke) | Daniel Watkins |  |  | Kingston, ON | 1499 |
 | 9 | [yringler](https://github.com/yringler) | Yehuda Ringler | Chabad.Org |  | Kingston, PA | 1467 |
 | 10 | [elixer-prince](https://github.com/elixer-prince) | Daniel Leith |  |  | Jamaica | 1198 |
-| 11 | [shkeating](https://github.com/shkeating) | Shauna Keating | @Travelers |  | Kingston, NY | 1002 |
+| 11 | [shkeating](https://github.com/shkeating) | Shauna Keating | @Travelers |  | Kingston, NY | 998 |
 | 12 | [billlevine](https://github.com/billlevine) | Bill LeVine | Flox |  | Kingston, Ontario | 981 |
 | 13 | [wiegerthefarmer](https://github.com/wiegerthefarmer) | Aaron Visser |  |  | Kingston, Ontario | 875 |
 | 14 | [BernardUK](https://github.com/BernardUK) | Bernard Boase |  |  | Kingston upon Thames | 860 |

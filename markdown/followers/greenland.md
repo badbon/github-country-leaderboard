@@ -1,12 +1,12 @@
 # Followers - Greenland
 
-Generated: 2026-10-19T14:34:55.150Z
+Generated: 2026-10-19T15:58:22.870Z
 
 Users: 58
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [aantoooon](https://github.com/aantoooon) | anton |  |  | Greenland | 1520 |
+| 1 | [aantoooon](https://github.com/aantoooon) | anton |  |  | Greenland | 1519 |
 | 2 | [filzehoka](https://github.com/filzehoka) | Filze | Tusass  |  | Greenland | 1238 |
 | 3 | [panyster](https://github.com/panyster) | Pany | Tusass  |  | Greenland | 1026 |
 | 4 | [Jiiks](https://github.com/Jiiks) | Alexei Stukov | Garbagecode Inc | jiiksi | Greenland | 293 |

@@ -1,6 +1,6 @@
 # Total Contributions - Iceland
 
-Generated: 2026-10-19T14:40:01.798Z
+Generated: 2026-10-19T16:03:25.059Z
 
 Users: 1579
 
@@ -11,8 +11,8 @@ Users: 1579
 | 3 | [Magnussmari](https://github.com/Magnussmari) | Magnús Smári Smárason |  |  | Akureyri, Iceland | 16661 |
 | 4 | [padresmurfa](https://github.com/padresmurfa) | David Hermann Brandt |  |  | Reykjavík, Iceland | 15224 |
 | 5 | [tylerelias](https://github.com/tylerelias) | Tyler |  |  | Iceland | 14782 |
-| 6 | [asgeirtj](https://github.com/asgeirtj) | Ásgeir Thor Johnson |  |  | Iceland | 12951 |
-| 7 | [valurhrafn](https://github.com/valurhrafn) | Valur Hrafn Einarsson | Loaloa |  | Reykjavík, Iceland | 12769 |
+| 6 | [valurhrafn](https://github.com/valurhrafn) | Valur Hrafn Einarsson | Loaloa |  | Reykjavík, Iceland | 13646 |
+| 7 | [asgeirtj](https://github.com/asgeirtj) | Ásgeir Thor Johnson |  |  | Iceland | 12951 |
 | 8 | [Chipcius](https://github.com/Chipcius) | Andri Thorlacius | @Daveloehf  | Chipcius | Reykjavik, Iceland | 12229 |
 | 9 | [bgunnarsson](https://github.com/bgunnarsson) | B. Gunnarsson | @Vettvangur  | bgunnarssonis | Iceland | 11601 |
 | 10 | [DavidBachmann](https://github.com/DavidBachmann) | Davíð Bachmann | @aranja  |  | Iceland | 9699 |

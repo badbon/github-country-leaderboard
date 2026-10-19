@@ -10,7 +10,7 @@ Published countries: 234
 | Algeria | 5,782 | [View](./algeria.md) |
 | American Samoa | 5 | [View](./american_samoa.md) |
 | Andorra | 215 | [View](./andorra.md) |
-| Angola | 2,496 | [View](./angola.md) |
+| Angola | 2,497 | [View](./angola.md) |
 | Anguilla | 15 | [View](./anguilla.md) |
 | Antarctica | 461 | [View](./antarctica.md) |
 | Antigua and Barbuda | 12 | [View](./antigua_and_barbuda.md) |
@@ -96,10 +96,10 @@ Published countries: 234
 | Haiti | 339 | [View](./haiti.md) |
 | Heard Island and McDonald Islands | 3 | [View](./heard_island_and_mcdonald_islands.md) |
 | Honduras | 1,258 | [View](./honduras.md) |
-| Hong Kong | 10,263 | [View](./hong_kong.md) |
+| Hong Kong | 10,262 | [View](./hong_kong.md) |
 | Hungary | 11,167 | [View](./hungary.md) |
 | Iceland | 1,579 | [View](./iceland.md) |
-| Indonesia | 63,289 | [View](./indonesia.md) |
+| Indonesia | 63,288 | [View](./indonesia.md) |
 | Iran | 26,862 | [View](./iran.md) |
 | Iraq | 2,233 | [View](./iraq.md) |
 | Ireland | 19,488 | [View](./ireland.md) |
@@ -239,4 +239,4 @@ Published countries: 234
 | Zambia | 1,337 | [View](./zambia.md) |
 | Zimbabwe | 1,656 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-19T15:52:46.087Z
+Generated: 2026-10-19T16:07:29.257Z

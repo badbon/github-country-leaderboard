@@ -47,7 +47,7 @@ Indexed users: 1,272
 | 8 | [OddBloke](https://github.com/OddBloke) | Daniel Watkins | Kingston, ON | 1,499 |
 | 9 | [yringler](https://github.com/yringler) | Yehuda Ringler | Kingston, PA | 1,467 |
 | 10 | [elixer-prince](https://github.com/elixer-prince) | Daniel Leith | Jamaica | 1,198 |
-| 11 | [shkeating](https://github.com/shkeating) | Shauna Keating | Kingston, NY | 1,002 |
+| 11 | [shkeating](https://github.com/shkeating) | Shauna Keating | Kingston, NY | 998 |
 | 12 | [billlevine](https://github.com/billlevine) | Bill LeVine | Kingston, Ontario | 981 |
 | 13 | [wiegerthefarmer](https://github.com/wiegerthefarmer) | Aaron Visser | Kingston, Ontario | 875 |
 | 14 | [BernardUK](https://github.com/BernardUK) | Bernard Boase | Kingston upon Thames | 860 |
@@ -83,4 +83,4 @@ Indexed users: 1,272
 | 19 | [aliasad059](https://github.com/aliasad059) | Ali Asad | Kingston, Ontario | 100 |
 | 20 | [andrewmaier](https://github.com/andrewmaier) | Andrew Maier | Kingston, Ontario | 95 |
 
-Generated: 2026-10-19T14:41:22.083Z
+Generated: 2026-10-19T16:05:37.473Z

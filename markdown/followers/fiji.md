@@ -1,6 +1,6 @@
 # Followers - Fiji
 
-Generated: 2026-10-19T14:32:17.672Z
+Generated: 2026-10-19T15:55:06.864Z
 
 Users: 325
 
@@ -8,7 +8,7 @@ Users: 325
 |---:|---|---|---|---|---|---:|
 | 1 | [vikichand](https://github.com/vikichand) | Vikash Chand | @kpmg-au @simplex-lab | takeiteasyvik | Fiji | 522 |
 | 2 | [2-fly-4-ai](https://github.com/2-fly-4-ai) | Brian farley | serp.ai |  | Suva | 135 |
-| 3 | [eastwardnew](https://github.com/eastwardnew) | Eastward New | Forward company (FIJI) |  | Nadi ,Fiji | 70 |
+| 3 | [eastwardnew](https://github.com/eastwardnew) | Eastward New | Forward company (FIJI) |  | Nadi ,Fiji | 71 |
 | 4 | [anav5704](https://github.com/anav5704) | Anav Chand | Pacific Technologies |  | Fiji | 66 |
 | 5 | [navneil-naicker](https://github.com/navneil-naicker) | Navneil Naicker |  |  | Suva City, Central, Fiji | 66 |
 | 6 | [GeekTR](https://github.com/GeekTR) | Rui Tang | Zenaida Orn Company |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 65 |
