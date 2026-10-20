@@ -36559,8 +36559,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 27,
-    "privateContributions": 17,
-    "publicContributions": 80,
+    "privateContributions": 5,
+    "publicContributions": 72,
     "createdAt": "2023-02-10T14:47:56Z"
   },
   {
@@ -36582,9 +36582,9 @@
     "location": "Colombia",
     "company": "Universidad de los Andes",
     "twitterUsername": "",
-    "followers": 25,
+    "followers": 26,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 1,
     "createdAt": "2023-02-28T14:25:03Z"
   },
   {
@@ -36594,9 +36594,9 @@
     "location": "Bogotá, Colombia",
     "company": "",
     "twitterUsername": "",
-    "followers": 23,
+    "followers": 22,
     "privateContributions": 0,
-    "publicContributions": 224,
+    "publicContributions": 290,
     "createdAt": "2023-02-20T19:20:35Z"
   },
   {
@@ -36608,20 +36608,8 @@
     "twitterUsername": "",
     "followers": 22,
     "privateContributions": 0,
-    "publicContributions": 64,
+    "publicContributions": 61,
     "createdAt": "2023-02-05T00:56:41Z"
-  },
-  {
-    "login": "JaredMijailRE",
-    "name": "Jared Mijail",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/125757856?s=72&u=c8def0731db1a75b415cb04e53bfe246f84209cd&v=4",
-    "location": "Colombia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 22,
-    "privateContributions": 170,
-    "publicContributions": 291,
-    "createdAt": "2023-02-18T17:08:19Z"
   },
   {
     "login": "FazeElian",
@@ -36630,9 +36618,9 @@
     "location": "Bogotá, Colombia",
     "company": "",
     "twitterUsername": "",
-    "followers": 22,
-    "privateContributions": 142,
-    "publicContributions": 238,
+    "followers": 21,
+    "privateContributions": 47,
+    "publicContributions": 198,
     "createdAt": "2023-02-11T17:44:44Z"
   },
   {
@@ -36642,9 +36630,9 @@
     "location": "Barranquilla, Colombia",
     "company": "Universidad Simon Bolivar",
     "twitterUsername": "",
-    "followers": 22,
+    "followers": 19,
     "privateContributions": 0,
-    "publicContributions": 84,
+    "publicContributions": 68,
     "createdAt": "2023-01-31T22:15:29Z"
   },
   {
@@ -36654,9 +36642,9 @@
     "location": "Cali, Colombia ",
     "company": "",
     "twitterUsername": "",
-    "followers": 21,
-    "privateContributions": 71,
-    "publicContributions": 151,
+    "followers": 19,
+    "privateContributions": 70,
+    "publicContributions": 136,
     "createdAt": "2023-01-14T22:51:22Z"
   },
   {
@@ -36666,9 +36654,9 @@
     "location": "Bogotá D.C, Colombia",
     "company": "Synnectia",
     "twitterUsername": "",
-    "followers": 20,
-    "privateContributions": 1046,
-    "publicContributions": 328,
+    "followers": 19,
+    "privateContributions": 840,
+    "publicContributions": 231,
     "createdAt": "2023-02-03T12:27:06Z"
   },
   {
@@ -36690,9 +36678,9 @@
     "location": "Colombia",
     "company": "",
     "twitterUsername": "",
-    "followers": 20,
-    "privateContributions": 215,
-    "publicContributions": 49,
+    "followers": 19,
+    "privateContributions": 282,
+    "publicContributions": 45,
     "createdAt": "2023-03-27T14:14:43Z"
   },
   {
@@ -36704,7 +36692,7 @@
     "twitterUsername": "xvipj",
     "followers": 18,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2023-01-18T05:28:19Z"
   },
   {
@@ -36714,9 +36702,9 @@
     "location": "Colombia",
     "company": "",
     "twitterUsername": "",
-    "followers": 18,
+    "followers": 22,
     "privateContributions": 0,
-    "publicContributions": 99,
+    "publicContributions": 36,
     "createdAt": "2023-03-10T13:20:40Z"
   },
   {
@@ -36726,9 +36714,9 @@
     "location": "Colombia",
     "company": "",
     "twitterUsername": "",
-    "followers": 17,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 3,
     "createdAt": "2023-01-15T17:34:45Z"
   },
   {
@@ -36750,9 +36738,9 @@
     "location": "Colombia, Bogota",
     "company": "soymipropiojefe",
     "twitterUsername": "Nicoswished",
-    "followers": 16,
+    "followers": 15,
     "privateContributions": 0,
-    "publicContributions": 92,
+    "publicContributions": 101,
     "createdAt": "2023-01-13T23:42:26Z"
   },
   {
@@ -36774,7 +36762,7 @@
     "location": "Colombia",
     "company": "Campuslands",
     "twitterUsername": "",
-    "followers": 16,
+    "followers": 15,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-01-27T16:25:17Z"
@@ -36787,8 +36775,8 @@
     "company": "Universidad ICESI",
     "twitterUsername": "",
     "followers": 16,
-    "privateContributions": 424,
-    "publicContributions": 335,
+    "privateContributions": 908,
+    "publicContributions": 415,
     "createdAt": "2023-01-30T16:26:20Z"
   },
   {

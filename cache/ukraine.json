@@ -36343,8 +36343,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 9,
-    "publicContributions": 0,
+    "privateContributions": 5,
+    "publicContributions": 21,
     "createdAt": "2023-05-10T04:40:46Z"
   },
   {
@@ -36356,7 +36356,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 79,
+    "publicContributions": 89,
     "createdAt": "2023-05-25T20:06:01Z"
   },
   {
@@ -36368,7 +36368,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 5,
-    "publicContributions": 49,
+    "publicContributions": 46,
     "createdAt": "2023-04-25T07:43:04Z"
   },
   {
@@ -36379,8 +36379,8 @@
     "company": "Exleven",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 487,
-    "publicContributions": 6,
+    "privateContributions": 455,
+    "publicContributions": 3,
     "createdAt": "2023-05-27T15:08:28Z"
   },
   {
@@ -36451,7 +36451,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 62,
+    "privateContributions": 58,
     "publicContributions": 7,
     "createdAt": "2023-06-25T09:48:12Z"
   },
@@ -36463,20 +36463,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 35,
-    "publicContributions": 114,
+    "privateContributions": 14,
+    "publicContributions": 112,
     "createdAt": "2023-03-16T17:03:24Z"
   },
   {
     "login": "z1mplex",
-    "name": "Oleksiy",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/131040541?s=72&u=2b0bb9d7be9aa90a77f4186fbc0e82314aca7b34&v=4",
+    "name": "Oleksii",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/131040541?s=72&u=04f50f98ad650dcdc8df8e35953bbc278e779670&v=4",
     "location": "Ukraine",
-    "company": "InsAIder",
+    "company": "",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 370,
+    "publicContributions": 369,
     "createdAt": "2023-04-17T19:27:34Z"
   },
   {
@@ -36490,18 +36490,6 @@
     "privateContributions": 0,
     "publicContributions": 21,
     "createdAt": "2023-05-10T15:39:48Z"
-  },
-  {
-    "login": "Isaeveg",
-    "name": "Isaiev Yehor",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/135128834?s=72&u=ff7cf2dac211dfc3c07a7d9cd2dffd472fa0f9b8&v=4",
-    "location": "Ukraine",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 89,
-    "createdAt": "2023-05-31T12:16:50Z"
   },
   {
     "login": "romaniukbohdan0",
@@ -36524,7 +36512,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 6,
     "createdAt": "2023-04-14T13:17:04Z"
   },
   {
@@ -36548,7 +36536,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 101,
+    "publicContributions": 144,
     "createdAt": "2023-06-07T09:33:34Z"
   },
   {
@@ -36558,9 +36546,9 @@
     "location": "Kyiv, Ukraine",
     "company": "Ukrainian Catholic University",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 43,
+    "publicContributions": 40,
     "createdAt": "2023-04-13T12:44:18Z"
   },
   {
