@@ -40,13 +40,13 @@ Indexed users: 3,213
 | 1 | [Lewatoto](https://github.com/Lewatoto) | Gerson Alvarado | Guatemala | 15,012 |
 | 2 | [gaborage](https://github.com/gaborage) | Gabriel Rosales | Guatemala | 3,360 |
 | 3 | [Aisaac2205](https://github.com/Aisaac2205) | Isaac Sarceño | Jutiapa, Guatemala | 2,116 |
-| 4 | [PlataformasInformaticas](https://github.com/PlataformasInformaticas) | Plataformas Informáticas | Guatemala | 1,739 |
-| 5 | [Adriianh](https://github.com/Adriianh) | Adrián Fúnez | Guatemala | 1,700 |
-| 6 | [anndreloopez012](https://github.com/anndreloopez012) | Andre Lopez | Guatemala | 1,633 |
-| 7 | [eduardordev](https://github.com/eduardordev) | Eduardo Ramírez | Guatemala | 1,536 |
-| 8 | [gafnts](https://github.com/gafnts) | Gabriel Fuentes | Guatemala | 1,447 |
-| 9 | [YoverMarkt](https://github.com/YoverMarkt) | Yover Rosado Conforme | Guatemala | 1,407 |
-| 10 | [oschrenk](https://github.com/oschrenk) | Oliver Schrenk | Guatemala, Guatemala | 1,404 |
+| 4 | [oschrenk](https://github.com/oschrenk) | Oliver Schrenk | Guatemala, Guatemala | 1,994 |
+| 5 | [PlataformasInformaticas](https://github.com/PlataformasInformaticas) | Plataformas Informáticas | Guatemala | 1,739 |
+| 6 | [Adriianh](https://github.com/Adriianh) | Adrián Fúnez | Guatemala | 1,700 |
+| 7 | [anndreloopez012](https://github.com/anndreloopez012) | Andre Lopez | Guatemala | 1,633 |
+| 8 | [eduardordev](https://github.com/eduardordev) | Eduardo Ramírez | Guatemala | 1,536 |
+| 9 | [gafnts](https://github.com/gafnts) | Gabriel Fuentes | Guatemala | 1,447 |
+| 10 | [YoverMarkt](https://github.com/YoverMarkt) | Yover Rosado Conforme | Guatemala | 1,407 |
 | 11 | [ricardious](https://github.com/ricardious) | Alex Ricardo Castañeda Rodríguez | Guatemala | 1,394 |
 | 12 | [erwindank](https://github.com/erwindank) | Erwin Solorzano | Guatemala | 1,358 |
 | 13 | [MaxMald](https://github.com/MaxMald) | Max Maldonado | Guatemala | 1,305 |
@@ -83,4 +83,4 @@ Indexed users: 3,213
 | 19 | [cms](https://github.com/cms) | Christian C. Salvadó | Guatemala | 117 |
 | 20 | [tian2992](https://github.com/tian2992) | Sebastian Oliva | Guatemala | 113 |
 
-Generated: 2026-10-20T13:59:03.468Z
+Generated: 2026-10-20T15:30:28.595Z

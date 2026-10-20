@@ -24,7 +24,7 @@ Published countries: 234
 | Bangladesh | 55,309 | [View](./bangladesh.md) |
 | Barbados | 132 | [View](./barbados.md) |
 | Belarus | 10,927 | [View](./belarus.md) |
-| Belgium | 18,377 | [View](./belgium.md) |
+| Belgium | 18,378 | [View](./belgium.md) |
 | Belize | 94 | [View](./belize.md) |
 | Benin | 471 | [View](./benin.md) |
 | Bermuda | 898 | [View](./bermuda.md) |
@@ -83,7 +83,7 @@ Published countries: 234
 | Georgia | 6,874 | [View](./georgia.md) |
 | Ghana | 7,077 | [View](./ghana.md) |
 | Gibraltar | 93 | [View](./gibraltar.md) |
-| Greece | 15,536 | [View](./greece.md) |
+| Greece | 15,535 | [View](./greece.md) |
 | Greenland | 58 | [View](./greenland.md) |
 | Grenada | 37 | [View](./grenada.md) |
 | Guadeloupe | 86 | [View](./guadeloupe.md) |
@@ -99,8 +99,8 @@ Published countries: 234
 | Hong Kong | 10,260 | [View](./hong_kong.md) |
 | Hungary | 11,165 | [View](./hungary.md) |
 | Iceland | 1,579 | [View](./iceland.md) |
-| Indonesia | 63,280 | [View](./indonesia.md) |
-| Iran | 26,860 | [View](./iran.md) |
+| Indonesia | 63,279 | [View](./indonesia.md) |
+| Iran | 26,859 | [View](./iran.md) |
 | Iraq | 2,232 | [View](./iraq.md) |
 | Ireland | 19,486 | [View](./ireland.md) |
 | Isle of Man | 155 | [View](./isle_of_man.md) |
@@ -239,4 +239,4 @@ Published countries: 234
 | Zambia | 1,337 | [View](./zambia.md) |
 | Zimbabwe | 1,656 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-20T15:23:15.296Z
+Generated: 2026-10-20T15:38:00.787Z

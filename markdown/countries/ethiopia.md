@@ -23,15 +23,15 @@ Indexed users: 6,675
 | 9 | [Benomi](https://github.com/Benomi) | Binyam T. Fisseha | Addis Ababa, Ethiopia | 10,687 |
 | 10 | [haxurn](https://github.com/haxurn) | Samson Tesfaye | Ethiopia, Addis Ababa | 10,289 |
 | 11 | [yaftes](https://github.com/yaftes) | Yafet Tesfaye | Ethiopia , Adama | 10,268 |
-| 12 | [natnaeln4d](https://github.com/natnaeln4d) | Natnael Getachew | Addis Ababa, Ethiopia | 8,533 |
-| 13 | [abela12](https://github.com/abela12) | Abel Berhanu | Ethiopia , Addis Abeba | 8,394 |
-| 14 | [AmarAhmedDev](https://github.com/AmarAhmedDev) | Amar Ahmed | Ethiopia | 8,340 |
-| 15 | [Olyadtemesgen](https://github.com/Olyadtemesgen) | Olyad Temesgen Amsalu | Addis Ababa, Ethiopia | 8,205 |
-| 16 | [demamano](https://github.com/demamano) | Dema Amano | Ethiopia , Addis Ababa | 7,886 |
-| 17 | [onesamket](https://github.com/onesamket) | Tewodros Birhanu | Addis Ababa, Ethiopia | 7,778 |
-| 18 | [melaku-z](https://github.com/melaku-z) | Melaku Zewdu | Ethiopia | 7,017 |
-| 19 | [black12-ag](https://github.com/black12-ag) | Munir Kabir | Addis Ababa | 6,761 |
-| 20 | [YeabHustles](https://github.com/YeabHustles) | Yeabkibir Tadesse | Addis Ababa , Ethiopia | 6,757 |
+| 12 | [LeulTew](https://github.com/LeulTew) | Leul Tewodros Agonafer | Addis Ababa, Ethiopia | 8,541 |
+| 13 | [natnaeln4d](https://github.com/natnaeln4d) | Natnael Getachew | Addis Ababa, Ethiopia | 8,533 |
+| 14 | [abela12](https://github.com/abela12) | Abel Berhanu | Ethiopia , Addis Abeba | 8,394 |
+| 15 | [AmarAhmedDev](https://github.com/AmarAhmedDev) | Amar Ahmed | Ethiopia | 8,340 |
+| 16 | [Olyadtemesgen](https://github.com/Olyadtemesgen) | Olyad Temesgen Amsalu | Addis Ababa, Ethiopia | 8,205 |
+| 17 | [demamano](https://github.com/demamano) | Dema Amano | Ethiopia , Addis Ababa | 7,886 |
+| 18 | [onesamket](https://github.com/onesamket) | Tewodros Birhanu | Addis Ababa, Ethiopia | 7,778 |
+| 19 | [melaku-z](https://github.com/melaku-z) | Melaku Zewdu | Ethiopia | 7,017 |
+| 20 | [black12-ag](https://github.com/black12-ag) | Munir Kabir | Addis Ababa | 6,761 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 6,675
 | 19 | [yonasleykun27](https://github.com/yonasleykun27) | Yonas Leykun | Addis Ababa, Ethiopia  | 511 |
 | 20 | [Olyadtemesgen](https://github.com/Olyadtemesgen) | Olyad Temesgen Amsalu | Addis Ababa, Ethiopia | 501 |
 
-Generated: 2026-10-20T13:53:59.505Z
+Generated: 2026-10-20T15:24:56.697Z

@@ -1,6 +1,6 @@
 # Belgium
 
-Indexed users: 18,377
+Indexed users: 18,378
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 18,377
 | 19 | [erikdubois](https://github.com/erikdubois) | Erik Dubois | Belgium | 1,200 |
 | 20 | [hazexone](https://github.com/hazexone) | Haze | Brussels | 1,181 |
 
-Generated: 2026-10-20T15:06:31.707Z
+Generated: 2026-10-20T15:28:00.881Z

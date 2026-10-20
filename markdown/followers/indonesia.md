@@ -1,8 +1,8 @@
 # Followers - Indonesia
 
-Generated: 2026-10-20T14:04:31.552Z
+Generated: 2026-10-20T15:34:28.272Z
 
-Users: 63280
+Users: 63279
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
