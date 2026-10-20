@@ -38,11 +38,11 @@ Indexed users: 1,272
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [olusiekwin](https://github.com/olusiekwin) | Gramm | kingston, JM | 8,158 |
-| 2 | [kaplanz](https://github.com/kaplanz) | Zakhary Kaplan | Kingston, ON | 3,869 |
+| 2 | [kaplanz](https://github.com/kaplanz) | Zakhary Kaplan | Kingston, ON | 3,861 |
 | 3 | [dcblundell](https://github.com/dcblundell) | David Blundell | Kingston, ON | 2,891 |
 | 4 | [craole-cc](https://github.com/craole-cc) | Craig "Craole' Cole | Jamaica | 2,363 |
 | 5 | [shamar-morrison](https://github.com/shamar-morrison) | horizon | Jamaica | 2,260 |
-| 6 | [airpocket-soundman](https://github.com/airpocket-soundman) | airpocket | kingston jamaca | 1,562 |
+| 6 | [airpocket-soundman](https://github.com/airpocket-soundman) | airpocket | kingston jamaca | 2,032 |
 | 7 | [kazo0](https://github.com/kazo0) | Steve Bilogan | Kingston, ON | 1,560 |
 | 8 | [OddBloke](https://github.com/OddBloke) | Daniel Watkins | Kingston, ON | 1,499 |
 | 9 | [yringler](https://github.com/yringler) | Yehuda Ringler | Kingston, PA | 1,467 |
@@ -80,7 +80,7 @@ Indexed users: 1,272
 | 16 | [olusiekwin](https://github.com/olusiekwin) | Gramm | kingston, JM | 106 |
 | 17 | [RakibulRanak](https://github.com/RakibulRanak) | MD RAKIBUL HASAN | Kingston, Ontario | 102 |
 | 18 | [JonCooperWorks](https://github.com/JonCooperWorks) |  | Jamaica | 101 |
-| 19 | [aliasad059](https://github.com/aliasad059) | Ali Asad | Kingston, Ontario | 100 |
+| 19 | [aliasad059](https://github.com/aliasad059) | Ali Asad | Kingston, Ontario | 99 |
 | 20 | [andrewmaier](https://github.com/andrewmaier) | Andrew Maier | Kingston, Ontario | 95 |
 
-Generated: 2026-10-20T02:29:32.410Z
+Generated: 2026-10-20T05:36:05.434Z

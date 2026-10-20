@@ -1,6 +1,6 @@
 # Public Contributions - Martinique
 
-Generated: 2026-10-20T02:36:47.794Z
+Generated: 2026-10-20T05:45:47.225Z
 
 Users: 75
 
@@ -10,7 +10,7 @@ Users: 75
 | 2 | [pyleglise](https://github.com/pyleglise) | Pierre-Yves Léglise | axialdata |  | Schoelcher, Martinique | 5048 |
 | 3 | [diasjorge](https://github.com/diasjorge) | Jorge Dias | http://aerisnova.com | dias_jorge | Martinique | 1524 |
 | 4 | [p4cm4n972](https://github.com/p4cm4n972) | Manuel ADELE |  |  | Martinique | 716 |
-| 5 | [GuillaumeBld](https://github.com/GuillaumeBld) | Guillaume Bolivard |  |  | Chicago / Fort-de-France | 486 |
+| 5 | [GuillaumeBld](https://github.com/GuillaumeBld) | Guillaume Bolivard |  |  | Chicago / Fort-de-France | 485 |
 | 6 | [blazux](https://github.com/blazux) | Vincent B. |  |  | Martinique | 418 |
 | 7 | [esrid](https://github.com/esrid) | ADS | none | as_esrid | Martinique | 399 |
 | 8 | [steeven-js](https://github.com/steeven-js) | steeven_js | Madin.IA |  | Martinique | 372 |

@@ -25,13 +25,13 @@ Indexed users: 3,250
 | 11 | [puikinsh](https://github.com/puikinsh) | Aigars Silkalns | Riga, Latvia | 9,189 |
 | 12 | [rabestro](https://github.com/rabestro) | Jegors Čemisovs | Latvia | 9,004 |
 | 13 | [skakri](https://github.com/skakri) | Kristaps Karlsons | Latvia | 8,665 |
-| 14 | [a-sandris](https://github.com/a-sandris) |  | Latvia | 7,855 |
-| 15 | [agubarev](https://github.com/agubarev) | Andrey Gubarev | Latvia, Riga | 7,855 |
-| 16 | [jecis-repos](https://github.com/jecis-repos) | Jecis | Latvia | 7,539 |
-| 17 | [danielsbethers](https://github.com/danielsbethers) | Daniels Bethers | Riga, Latvia | 7,122 |
-| 18 | [aivars](https://github.com/aivars) | Aivars | Latvia | 6,930 |
-| 19 | [vitalijssilins](https://github.com/vitalijssilins) | Vitālijs Silins | Latvia, Riga | 6,694 |
-| 20 | [sansan](https://github.com/sansan) | Toms Veidemanis | Riga | 6,604 |
+| 14 | [ar2rsawseen](https://github.com/ar2rsawseen) | Arturs Sosins | Latvia | 8,442 |
+| 15 | [a-sandris](https://github.com/a-sandris) |  | Latvia | 7,855 |
+| 16 | [agubarev](https://github.com/agubarev) | Andrey Gubarev | Latvia, Riga | 7,855 |
+| 17 | [jecis-repos](https://github.com/jecis-repos) | Jecis | Latvia | 7,539 |
+| 18 | [danielsbethers](https://github.com/danielsbethers) | Daniels Bethers | Riga, Latvia | 7,122 |
+| 19 | [aivars](https://github.com/aivars) | Aivars | Latvia | 6,930 |
+| 20 | [vitalijssilins](https://github.com/vitalijssilins) | Vitālijs Silins | Latvia, Riga | 6,694 |
 
 ## Public Contributions
 
@@ -45,9 +45,9 @@ Indexed users: 3,250
 | 6 | [puikinsh](https://github.com/puikinsh) | Aigars Silkalns | Riga, Latvia | 3,151 |
 | 7 | [rinkevich](https://github.com/rinkevich) | Andrejs Rinkevičs | Riga, Latvia | 2,889 |
 | 8 | [mscbuild](https://github.com/mscbuild) | Yuri Dev | Latvia (Europe) | 2,419 |
-| 9 | [resoltico](https://github.com/resoltico) | Ervins Strauhmanis | Riga, Latvia | 2,366 |
-| 10 | [Prokuuudin](https://github.com/Prokuuudin) | Aleksandr Prokudin | Latvija, Riga | 2,098 |
-| 11 | [ar2rsawseen](https://github.com/ar2rsawseen) | Arturs Sosins | Latvia | 1,858 |
+| 9 | [ar2rsawseen](https://github.com/ar2rsawseen) | Arturs Sosins | Latvia | 2,407 |
+| 10 | [resoltico](https://github.com/resoltico) | Ervins Strauhmanis | Riga, Latvia | 2,366 |
+| 11 | [Prokuuudin](https://github.com/Prokuuudin) | Aleksandr Prokudin | Latvija, Riga | 2,098 |
 | 12 | [dmytropolizhai](https://github.com/dmytropolizhai) | Dmytro Polizhai | Latvia, Riga | 1,850 |
 | 13 | [aleksejs1](https://github.com/aleksejs1) |  | Latvia | 1,744 |
 | 14 | [yarlson](https://github.com/yarlson) | Yar Kravtsov | Riga, Latvia | 1,665 |
@@ -83,4 +83,4 @@ Indexed users: 3,250
 | 19 | [0ki](https://github.com/0ki) | Кirils Sоlovjоvs | Latvia | 224 |
 | 20 | [LatvianModder](https://github.com/LatvianModder) | Kristiāns Micītis | Latvia | 221 |
 
-Generated: 2026-10-20T02:33:43.437Z
+Generated: 2026-10-20T05:40:55.581Z

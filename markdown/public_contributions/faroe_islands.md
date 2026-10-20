@@ -1,6 +1,6 @@
 # Public Contributions - Faroe Islands
 
-Generated: 2026-10-20T02:18:33.345Z
+Generated: 2026-10-20T05:22:06.608Z
 
 Users: 68
 
@@ -22,7 +22,7 @@ Users: 68
 | 14 | [samal-rasmussen](https://github.com/samal-rasmussen) | Sámal Rasmussen | @bokin-fo  |  | Tórshavn, Faroe Islands | 102 |
 | 15 | [mashema](https://github.com/mashema) | John Eyðstein Johannesen  |  |  | Faroe Islands | 99 |
 | 16 | [Rogn](https://github.com/Rogn) | Hallur Holm Johannessen |  |  | Faroe Islands | 94 |
-| 17 | [BergurDavidsen](https://github.com/BergurDavidsen) |  | @flowcore-io |  | Faroe Islands | 90 |
+| 17 | [BergurDavidsen](https://github.com/BergurDavidsen) |  | @flowcore-io |  | Faroe Islands | 89 |
 | 18 | [michaelgyp](https://github.com/michaelgyp) | Michael Gusti Yanu Putra | BitImpact | the_mgyp | Faroe Islands | 88 |
 | 19 | [argilzar](https://github.com/argilzar) | Brian Bischoff | @globe-tracker @flowcore-io  | argilzar | Faroe Islands | 54 |
 | 20 | [djupvikdigital](https://github.com/djupvikdigital) | Reidar Djupvik |  |  | Tórshavn | 40 |

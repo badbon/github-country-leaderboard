@@ -68,7 +68,7 @@ Indexed users: 210
 | 4 | [Massaquoi716](https://github.com/Massaquoi716) | Massaquoi L Dehmie | Liberia | 152 |
 | 5 | [stenson](https://github.com/stenson) | Rob Stenson | Monrovia, CA | 129 |
 | 6 | [RA9](https://github.com/RA9) | Carlos S. Nah  | Liberia  | 101 |
-| 7 | [timtjoe](https://github.com/timtjoe) | Tim T. Joe | Liberia, West Africa | 65 |
+| 7 | [timtjoe](https://github.com/timtjoe) | Tim T. Joe | Liberia, West Africa | 63 |
 | 8 | [benjaminangafua](https://github.com/benjaminangafua) | Benjamin A. Ngafua | Liberia | 49 |
 | 9 | [Ravenstine](https://github.com/Ravenstine) | Ten Bitcomb | Monrovia, CA | 39 |
 | 10 | [xarrijorge](https://github.com/xarrijorge) | The African Nomad | Monrovia, Liberia | 34 |
@@ -83,4 +83,4 @@ Indexed users: 210
 | 19 | [boaslah](https://github.com/boaslah) | Blessing Boaslah | Montserrado County, Liberia  | 21 |
 | 20 | [ejaygbay](https://github.com/ejaygbay) | Emmanuel Jaygbay | Liberia | 21 |
 
-Generated: 2026-10-20T02:33:53.697Z
+Generated: 2026-10-20T05:41:56.484Z

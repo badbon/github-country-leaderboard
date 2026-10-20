@@ -1,12 +1,12 @@
 # Total Contributions - Laos
 
-Generated: 2026-10-20T02:32:37.680Z
+Generated: 2026-10-20T05:40:09.470Z
 
 Users: 360
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [huevangxp](https://github.com/huevangxp) | Hue Vang | Freelancer |  | laos | 29579 |
+| 1 | [huevangxp](https://github.com/huevangxp) | Hue Vang | Freelancer |  | laos | 29612 |
 | 2 | [Sengkue](https://github.com/Sengkue) | SengKueVang |  |  | Laos, Vientiane capital | 18252 |
 | 3 | [Bee777](https://github.com/Bee777) | Bee |  |  | Vientiane | 5243 |
 | 4 | [TKXDev](https://github.com/TKXDev) | TKXDev |  |  | Vientiane,Laos | 4912 |
@@ -18,8 +18,8 @@ Users: 360
 | 10 | [khatthaphone](https://github.com/khatthaphone) | Khatthaphone Sengvilai |  |  | Vientiane, Laos | 2452 |
 | 11 | [vilasone455](https://github.com/vilasone455) |  |  |  | Laos | 2177 |
 | 12 | [Thanakone123](https://github.com/Thanakone123) | Un |  |  | Laos | 2031 |
-| 13 | [Anousack789](https://github.com/Anousack789) | Anousack |  |  | Vientiane | 1790 |
-| 14 | [BounkhongDev](https://github.com/BounkhongDev) | BounkhongDev | AIF Group Laos |  | Vientiane, laos | 1707 |
+| 13 | [Anousack789](https://github.com/Anousack789) | Anousack |  |  | Vientiane | 1811 |
+| 14 | [BounkhongDev](https://github.com/BounkhongDev) | BounkhongDev | AIF Group Laos |  | Vientiane, laos | 1731 |
 | 15 | [Phounn](https://github.com/Phounn) |  |  |  | Laos | 1539 |
 | 16 | [iamlex01](https://github.com/iamlex01) | Alex Saelao |  |  | Vientiane, Laos | 1459 |
 | 17 | [TotoPhandolack](https://github.com/TotoPhandolack) | Toto Phandolack |  |  | Luangprabang, Laos | 1163 |

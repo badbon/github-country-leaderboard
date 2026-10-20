@@ -53,7 +53,7 @@ Indexed users: 68
 | 14 | [samal-rasmussen](https://github.com/samal-rasmussen) | Sámal Rasmussen | Tórshavn, Faroe Islands | 102 |
 | 15 | [mashema](https://github.com/mashema) | John Eyðstein Johannesen  | Faroe Islands | 99 |
 | 16 | [Rogn](https://github.com/Rogn) | Hallur Holm Johannessen | Faroe Islands | 94 |
-| 17 | [BergurDavidsen](https://github.com/BergurDavidsen) |  | Faroe Islands | 90 |
+| 17 | [BergurDavidsen](https://github.com/BergurDavidsen) |  | Faroe Islands | 89 |
 | 18 | [michaelgyp](https://github.com/michaelgyp) | Michael Gusti Yanu Putra | Faroe Islands | 88 |
 | 19 | [argilzar](https://github.com/argilzar) | Brian Bischoff | Faroe Islands | 54 |
 | 20 | [djupvikdigital](https://github.com/djupvikdigital) | Reidar Djupvik | Tórshavn | 40 |
@@ -83,4 +83,4 @@ Indexed users: 68
 | 19 | [olavurellefsen](https://github.com/olavurellefsen) | Olavur Ellefsen | Faroe Islands | 7 |
 | 20 | [RudiPersson](https://github.com/RudiPersson) | Rudi Persson | Tórshavn, Faroe Islands | 7 |
 
-Generated: 2026-10-20T02:18:33.345Z
+Generated: 2026-10-20T05:22:06.608Z

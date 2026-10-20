@@ -1,6 +1,6 @@
 # Public Contributions - Greece
 
-Generated: 2026-10-20T02:23:15.982Z
+Generated: 2026-10-20T05:26:08.446Z
 
 Users: 15539
 
@@ -18,7 +18,7 @@ Users: 15539
 | 10 | [turri21](https://github.com/turri21) | turri21 |  |  | Greece | 5319 |
 | 11 | [PetrouilFan](https://github.com/PetrouilFan) | Petros Fanioudakis |  |  | Greece | 5029 |
 | 12 | [Basilakis](https://github.com/Basilakis) | Basilis Kanonidis | creativeG | Basilakis | Thessaloniki, Greece | 4346 |
-| 13 | [waseigo](https://github.com/waseigo) | Isaak Tsalicoglou | OVERBRING Labs |  | Athens, Greece | 4247 |
+| 13 | [waseigo](https://github.com/waseigo) | Isaak Tsalicoglou | OVERBRING Labs |  | Athens, Greece | 4305 |
 | 14 | [stef-k](https://github.com/stef-k) | Stef Karyotidis |  |  | Greece | 4084 |
 | 15 | [ktsaou](https://github.com/ktsaou) | Costa Tsaousis | netdata, Inc. |  | Greece | 3896 |
 | 16 | [gakonst](https://github.com/gakonst) | Georgios Konstantopoulos | @paradigmxyz | gakonst | Thessaloniki, Greece | 3814 |

@@ -1,6 +1,6 @@
 # Total Contributions - Iraq
 
-Generated: 2026-10-20T02:27:14.695Z
+Generated: 2026-10-20T05:34:36.944Z
 
 Users: 2232
 
@@ -20,8 +20,8 @@ Users: 2232
 | 12 | [Abdalkaderdev](https://github.com/Abdalkaderdev) | Abdalkader Alhamoud |  |  | Iraq | 6997 |
 | 13 | [MohammaedAlani](https://github.com/MohammaedAlani) | Mohammed Younis | ZainCash |  | Baghdad, Iraq | 6990 |
 | 14 | [Aramsatar](https://github.com/Aramsatar) | Aram Satar |  |  | Erbil, Iraq | 6771 |
-| 15 | [codezardasht](https://github.com/codezardasht) | Zardasht Rwandzi | TechnoBase |  | Iraq/Erbil | 6641 |
-| 16 | [Hamoi1](https://github.com/Hamoi1) | Muhammad Esmael |  |  | Iraq, Sulaymaniyah, Ranya  | 6573 |
+| 15 | [Hamoi1](https://github.com/Hamoi1) | Muhammad Esmael |  |  | Iraq, Sulaymaniyah, Ranya  | 6697 |
+| 16 | [codezardasht](https://github.com/codezardasht) | Zardasht Rwandzi | TechnoBase |  | Iraq/Erbil | 6641 |
 | 17 | [5h4k4r](https://github.com/5h4k4r) | Shakar Bakr | @ditkrg | shakar__ | Erbil, Iraq | 6285 |
 | 18 | [RezdarNajeeb](https://github.com/RezdarNajeeb) | Rezdar Najeeb | @oXero-krd  |  | Iraq | 6091 |
 | 19 | [s1mpLyy](https://github.com/s1mpLyy) | Hamza Kareem | @Miswag |  | Baghdad, Iraq | 6013 |

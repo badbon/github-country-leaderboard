@@ -15,16 +15,16 @@ Indexed users: 796
 | 1 | [mshll](https://github.com/mshll) | meshal | Kuwait | 7,795 |
 | 2 | [buaziz](https://github.com/buaziz) | Buaziz | Kuwait | 7,118 |
 | 3 | [ghaith99](https://github.com/ghaith99) |  | Kuwait | 6,940 |
-| 4 | [BAWES](https://github.com/BAWES) | Khalid Al-Mutawa | Kuwait | 6,616 |
-| 5 | [uusa35](https://github.com/uusa35) | Usama.Ahmed | kuwait | 6,384 |
+| 4 | [BAWES](https://github.com/BAWES) | Khalid Al-Mutawa | Kuwait | 6,840 |
+| 5 | [uusa35](https://github.com/uusa35) | Usama.Ahmed | kuwait | 6,293 |
 | 6 | [drhema](https://github.com/drhema) | Ibrahim Elsherbiny | Kuwait | 6,182 |
 | 7 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Kuwait | 5,785 |
-| 8 | [saskw2010](https://github.com/saskw2010) | Mostafa Elnagar | kuwait | 5,239 |
+| 8 | [saskw2010](https://github.com/saskw2010) | Mostafa Elnagar | kuwait | 5,237 |
 | 9 | [bigboss97lnt](https://github.com/bigboss97lnt) | Nasser Tahan | Kuwait | 5,221 |
 | 10 | [Mubder](https://github.com/Mubder) | Mubder Alfaris | Kuwait | 4,590 |
 | 11 | [knro](https://github.com/knro) | Jasem Mutlaq | Kuwait | 4,149 |
-| 12 | [mulaifi](https://github.com/mulaifi) | Salem Almulaifi | Kuwait | 3,838 |
-| 13 | [careless10](https://github.com/careless10) | Menawer | Kuwait | 3,828 |
+| 12 | [careless10](https://github.com/careless10) | Menawer | Kuwait | 3,965 |
+| 13 | [mulaifi](https://github.com/mulaifi) | Salem Almulaifi | Kuwait | 3,838 |
 | 14 | [iZaL](https://github.com/iZaL) | Afzal Abbas | Kuwait | 3,821 |
 | 15 | [Mazyod](https://github.com/Mazyod) | Maz | Kuwait | 3,812 |
 | 16 | [DiNaSoR](https://github.com/DiNaSoR) | BuYousef | Kuwait | 3,515 |
@@ -37,7 +37,7 @@ Indexed users: 796
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [BAWES](https://github.com/BAWES) | Khalid Al-Mutawa | Kuwait | 6,575 |
+| 1 | [BAWES](https://github.com/BAWES) | Khalid Al-Mutawa | Kuwait | 6,799 |
 | 2 | [quadrillion-q8](https://github.com/quadrillion-q8) | Kuwait Computer Repair on Call | Hawalli, Kuwait | 3,499 |
 | 3 | [arabcoders](https://github.com/arabcoders) | Abdulmohsen | Kuwait | 2,335 |
 | 4 | [SiteQ8](https://github.com/SiteQ8) | Ali AlEnezi | Kuwait | 2,286 |
@@ -83,4 +83,4 @@ Indexed users: 796
 | 19 | [MoathOthman](https://github.com/MoathOthman) | Moath othman | Kuwait | 85 |
 | 20 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Kuwait | 82 |
 
-Generated: 2026-10-20T02:32:31.139Z
+Generated: 2026-10-20T05:39:19.085Z

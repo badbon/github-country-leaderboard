@@ -49,7 +49,7 @@ Indexed users: 15,539
 | 10 | [turri21](https://github.com/turri21) | turri21 | Greece | 5,319 |
 | 11 | [PetrouilFan](https://github.com/PetrouilFan) | Petros Fanioudakis | Greece | 5,029 |
 | 12 | [Basilakis](https://github.com/Basilakis) | Basilis Kanonidis | Thessaloniki, Greece | 4,346 |
-| 13 | [waseigo](https://github.com/waseigo) | Isaak Tsalicoglou | Athens, Greece | 4,247 |
+| 13 | [waseigo](https://github.com/waseigo) | Isaak Tsalicoglou | Athens, Greece | 4,305 |
 | 14 | [stef-k](https://github.com/stef-k) | Stef Karyotidis | Greece | 4,084 |
 | 15 | [ktsaou](https://github.com/ktsaou) | Costa Tsaousis | Greece | 3,896 |
 | 16 | [gakonst](https://github.com/gakonst) | Georgios Konstantopoulos | Thessaloniki, Greece | 3,814 |
@@ -83,4 +83,4 @@ Indexed users: 15,539
 | 19 | [EleftheriaBatsou](https://github.com/EleftheriaBatsou) | Eleftheria Batsou | Thessaloniki, Greece | 808 |
 | 20 | [chsakell](https://github.com/chsakell) | Christos Sakellarios | Athens, Greece | 762 |
 
-Generated: 2026-10-20T02:23:15.982Z
+Generated: 2026-10-20T05:26:08.446Z

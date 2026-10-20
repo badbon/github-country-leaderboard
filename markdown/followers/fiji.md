@@ -1,6 +1,6 @@
 # Followers - Fiji
 
-Generated: 2026-10-20T02:19:10.174Z
+Generated: 2026-10-20T05:22:12.636Z
 
 Users: 325
 
@@ -21,8 +21,8 @@ Users: 325
 | 13 | [evesgf](https://github.com/evesgf) | dingpeng yang | evesgf Company |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 26 |
 | 14 | [codeshareman](https://github.com/codeshareman) | Z° North | Zenaida Orn Company |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 24 |
 | 15 | [kunz398](https://github.com/kunz398) | Kunal Singh |  |  | Fiji | 24 |
-| 16 | [anuraag165](https://github.com/anuraag165) | Anuraag Raj | Mindpearl |  | Suva, Fiji | 22 |
-| 17 | [rudrprasad05](https://github.com/rudrprasad05) | Rudr Prasad | Procyon |  | Fiji | 22 |
+| 16 | [rudrprasad05](https://github.com/rudrprasad05) | Rudr Prasad | Procyon |  | Fiji | 23 |
+| 17 | [anuraag165](https://github.com/anuraag165) | Anuraag Raj | Mindpearl |  | Suva, Fiji | 22 |
 | 18 | [phpoh](https://github.com/phpoh) | phpoh | Zenaida Orn Company |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 21 |
 | 19 | [SMani0547](https://github.com/SMani0547) | Shiva Mani Goundar | Counterpoint Group |  | Nadi, Fiji | 21 |
 | 20 | [aryann-7](https://github.com/aryann-7) | Aryan Singh | The University of the South Pacific |  | Suva, Fiji | 19 |

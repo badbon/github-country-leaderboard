@@ -1,6 +1,6 @@
 # Public Contributions - Fiji
 
-Generated: 2026-10-20T02:19:10.174Z
+Generated: 2026-10-20T05:22:12.636Z
 
 Users: 325
 
@@ -8,7 +8,7 @@ Users: 325
 |---:|---|---|---|---|---|---:|
 | 1 | [Amdeo](https://github.com/Amdeo) | Cooper |  |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1456 |
 | 2 | [anav5704](https://github.com/anav5704) | Anav Chand | Pacific Technologies |  | Fiji | 564 |
-| 3 | [2-fly-4-ai](https://github.com/2-fly-4-ai) | Brian farley | serp.ai |  | Suva | 502 |
+| 3 | [2-fly-4-ai](https://github.com/2-fly-4-ai) | Brian farley | serp.ai |  | Suva | 501 |
 | 4 | [kishkumar96](https://github.com/kishkumar96) | Kishan Chimman Kumar | Pacific Community |  | Suva | 463 |
 | 5 | [SMani0547](https://github.com/SMani0547) | Shiva Mani Goundar | Counterpoint Group |  | Nadi, Fiji | 427 |
 | 6 | [alexwoo79](https://github.com/alexwoo79) | Alex_Woo | Zenaida Orn Company |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 310 |
@@ -17,8 +17,8 @@ Users: 325
 | 9 | [SRVSRR](https://github.com/SRVSRR) | Rohan Nandan | University of the South Pacific | SRVSRR | Fiji | 261 |
 | 10 | [codeshareman](https://github.com/codeshareman) | Z° North | Zenaida Orn Company |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 243 |
 | 11 | [grey0758](https://github.com/grey0758) | 徐业辉 | Zenaida Orn Company |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 212 |
-| 12 | [rudrprasad05](https://github.com/rudrprasad05) | Rudr Prasad | Procyon |  | Fiji | 203 |
-| 13 | [Geekmaxxer](https://github.com/Geekmaxxer) | Pew |  |  | Fiji | 198 |
+| 12 | [Geekmaxxer](https://github.com/Geekmaxxer) | Pew |  |  | Fiji | 198 |
+| 13 | [rudrprasad05](https://github.com/rudrprasad05) | Rudr Prasad | Procyon |  | Fiji | 198 |
 | 14 | [kunz398](https://github.com/kunz398) | Kunal Singh |  |  | Fiji | 166 |
 | 15 | [LangfordKuo](https://github.com/LangfordKuo) | Langford | Zenaida Orn Company |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 150 |
 | 16 | [Neikumata](https://github.com/Neikumata) | yangyeqin | Zenaida Orn Company |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 133 |

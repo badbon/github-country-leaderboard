@@ -15,7 +15,7 @@ Indexed users: 488
 | 1 | [eshe-huli](https://github.com/eshe-huli) | Ben G. Seydou Ouattara | Abidjan, Ivory Coast | 10,147 |
 | 2 | [agazinakou](https://github.com/agazinakou) | Lamine AZINAKOU | Abidjan, Côte d'ivoire | 8,885 |
 | 3 | [adrielzimbril](https://github.com/adrielzimbril) | Adriel Zimbril | Abidjan, Ivory Coast | 8,634 |
-| 4 | [davtechci2](https://github.com/davtechci2) | ADZASU KOFFI DAVID | Côte d'ivoire, Abidjan | 8,614 |
+| 4 | [davtechci2](https://github.com/davtechci2) | ADZASU KOFFI DAVID | Côte d'ivoire, Abidjan | 8,630 |
 | 5 | [baudoliver7](https://github.com/baudoliver7) | Olivier Baudouin OURA | Abidjan, Côte d'Ivoire | 7,575 |
 | 6 | [AlMoustapha01](https://github.com/AlMoustapha01) | Al Moustapha | Cocody, Abidjan, Côte d'Ivoire | 6,308 |
 | 7 | [houssenedao](https://github.com/houssenedao) | Houssene Dao | Côte d'ivoire, Abidjan | 6,186 |
@@ -51,8 +51,8 @@ Indexed users: 488
 | 12 | [kjlinux](https://github.com/kjlinux) | Ghost | Yamoussoukro, Côte d'Ivoire | 449 |
 | 13 | [pmkod](https://github.com/pmkod) | Kodossou | Abidjan, Côte d'Ivoire | 391 |
 | 14 | [houphouet](https://github.com/houphouet) | KOUADIO Houphouët | Abidjan, Côte d'Ivoire  | 380 |
-| 15 | [DanielShofela](https://github.com/DanielShofela) | Student | abidjan, Côte d'Ivoire | 366 |
-| 16 | [23cyy](https://github.com/23cyy) | Cyrille N'DAH | Côte d'Ivoire | 365 |
+| 15 | [23cyy](https://github.com/23cyy) | Cyrille N'DAH | Côte d'Ivoire | 366 |
+| 16 | [DanielShofela](https://github.com/DanielShofela) | Student | abidjan, Côte d'Ivoire | 366 |
 | 17 | [lambirou](https://github.com/lambirou) | Roland Edi | Abidjan, Côte d'ivoire | 361 |
 | 18 | [Yaya12085](https://github.com/Yaya12085) | Yaya Mohamed | Côte d'Ivoire, Abidjan | 318 |
 | 19 | [Diby-dev](https://github.com/Diby-dev) | Dan | Côte d'Ivoire, Abidjan | 302 |
@@ -83,4 +83,4 @@ Indexed users: 488
 | 19 | [DevAlves1993](https://github.com/DevAlves1993) | Christian Alves Cyrille Amani | Ivory Coast (Abidjan) | 42 |
 | 20 | [stephsalou](https://github.com/stephsalou) | stephane salou | Abidjan , Côte D'Ivoire | 42 |
 
-Generated: 2026-10-20T02:28:53.449Z
+Generated: 2026-10-20T05:36:00.289Z

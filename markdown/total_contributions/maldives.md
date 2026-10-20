@@ -1,6 +1,6 @@
 # Total Contributions - Maldives
 
-Generated: 2026-10-20T02:36:35.000Z
+Generated: 2026-10-20T05:45:26.357Z
 
 Users: 354
 
@@ -10,8 +10,8 @@ Users: 354
 | 2 | [hilarl](https://github.com/hilarl) | Hilal Agil |  | hilaarl | Male', Maldives | 10802 |
 | 3 | [fauzaanu](https://github.com/fauzaanu) | Fauzaan Gasim |  | fauzaanu | Maldives | 8709 |
 | 4 | [mnazaal](https://github.com/mnazaal) | Nazaal | Aalto University | mnazaaI | Maldives | 8592 |
-| 5 | [nullptrz](https://github.com/nullptrz) | Ali Ahsan Saeed | @seastackmv  | nullptrz | Maldives | 7203 |
-| 6 | [mohamed-aiman](https://github.com/mohamed-aiman) | Mohamed Aiman |  | mohamed_aiman | Maldives | 7193 |
+| 5 | [mohamed-aiman](https://github.com/mohamed-aiman) | Mohamed Aiman |  | mohamed_aiman | Maldives | 7280 |
+| 6 | [nullptrz](https://github.com/nullptrz) | Ali Ahsan Saeed | @seastackmv  | nullptrz | Maldives | 7203 |
 | 7 | [lishaan](https://github.com/lishaan) |  | @avas-app |  | Malé, Maldives | 6901 |
 | 8 | [hailam](https://github.com/hailam) | Mohamed Hailam Ahmed |  |  | Male`, Maldives | 6179 |
 | 9 | [ajaaibu](https://github.com/ajaaibu) | Ahmed Ali |  |  | Maldives | 5756 |
@@ -24,5 +24,5 @@ Users: 354
 | 16 | [NeXsHeLL](https://github.com/NeXsHeLL) | ismile ThuThts | DNS PIPES Inc. |  | Maldives | 4912 |
 | 17 | [roris](https://github.com/roris) | Thoail Ahmed |  |  | Maldives | 4833 |
 | 18 | [muizzu](https://github.com/muizzu) | Muizzu Abbas |  |  | Maldives | 4735 |
-| 19 | [samynmhd](https://github.com/samynmhd) | Mohamed Sameen Firaq |  |  | Maldives | 4156 |
+| 19 | [samynmhd](https://github.com/samynmhd) | Mohamed Sameen Firaq |  |  | Maldives | 4174 |
 | 20 | [wadday](https://github.com/wadday) | Wadday hassan | @wuemv |  | Maldives | 4012 |

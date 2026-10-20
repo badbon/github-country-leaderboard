@@ -1,6 +1,6 @@
 # Total Contributions - Latvia
 
-Generated: 2026-10-20T02:33:43.437Z
+Generated: 2026-10-20T05:40:55.581Z
 
 Users: 3250
 
@@ -19,10 +19,10 @@ Users: 3250
 | 11 | [puikinsh](https://github.com/puikinsh) | Aigars Silkalns | Divilab | AigarsSilkalns | Riga, Latvia | 9189 |
 | 12 | [rabestro](https://github.com/rabestro) | Jegors Čemisovs | @evolution-gaming |  | Latvia | 9004 |
 | 13 | [skakri](https://github.com/skakri) | Kristaps Karlsons |  |  | Latvia | 8665 |
-| 14 | [a-sandris](https://github.com/a-sandris) |  |  |  | Latvia | 7855 |
-| 15 | [agubarev](https://github.com/agubarev) | Andrey Gubarev |  |  | Latvia, Riga | 7855 |
-| 16 | [jecis-repos](https://github.com/jecis-repos) | Jecis |  | jecis_ | Latvia | 7539 |
-| 17 | [danielsbethers](https://github.com/danielsbethers) | Daniels Bethers | @request-lv |  | Riga, Latvia | 7122 |
-| 18 | [aivars](https://github.com/aivars) | Aivars |  | aivars_meijers | Latvia | 6930 |
-| 19 | [vitalijssilins](https://github.com/vitalijssilins) | Vitālijs Silins | Convershake |  | Latvia, Riga | 6694 |
-| 20 | [sansan](https://github.com/sansan) | Toms Veidemanis |  |  | Riga | 6604 |
+| 14 | [ar2rsawseen](https://github.com/ar2rsawseen) | Arturs Sosins | @Countly  | ar2rsawseen | Latvia | 8442 |
+| 15 | [a-sandris](https://github.com/a-sandris) |  |  |  | Latvia | 7855 |
+| 16 | [agubarev](https://github.com/agubarev) | Andrey Gubarev |  |  | Latvia, Riga | 7855 |
+| 17 | [jecis-repos](https://github.com/jecis-repos) | Jecis |  | jecis_ | Latvia | 7539 |
+| 18 | [danielsbethers](https://github.com/danielsbethers) | Daniels Bethers | @request-lv |  | Riga, Latvia | 7122 |
+| 19 | [aivars](https://github.com/aivars) | Aivars |  | aivars_meijers | Latvia | 6930 |
+| 20 | [vitalijssilins](https://github.com/vitalijssilins) | Vitālijs Silins | Convershake |  | Latvia, Riga | 6694 |

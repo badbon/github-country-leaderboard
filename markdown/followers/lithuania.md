@@ -1,6 +1,6 @@
 # Followers - Lithuania
 
-Generated: 2026-10-20T02:34:47.730Z
+Generated: 2026-10-20T05:43:23.090Z
 
 Users: 5369
 

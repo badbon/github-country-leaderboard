@@ -21,13 +21,13 @@ Indexed users: 325
 | 7 | [jaclla](https://github.com/jaclla) | Logic | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1,031 |
 | 8 | [ApophisX](https://github.com/ApophisX) | GienWang | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1,012 |
 | 9 | [navneil-naicker](https://github.com/navneil-naicker) | Navneil Naicker | Suva City, Central, Fiji | 1,006 |
-| 10 | [rudrprasad05](https://github.com/rudrprasad05) | Rudr Prasad | Fiji | 931 |
-| 11 | [Eddie115-x](https://github.com/Eddie115-x) | Adrian Obadiah | SUVA | 898 |
+| 10 | [rudrprasad05](https://github.com/rudrprasad05) | Rudr Prasad | Fiji | 936 |
+| 11 | [Eddie115-x](https://github.com/Eddie115-x) | Adrian Obadiah | SUVA | 932 |
 | 12 | [anav5704](https://github.com/anav5704) | Anav Chand | Fiji | 790 |
 | 13 | [rahulduttt](https://github.com/rahulduttt) | Rahul Dutt | Fiji | 626 |
 | 14 | [kishkumar96](https://github.com/kishkumar96) | Kishan Chimman Kumar | Suva | 553 |
 | 15 | [SRVSRR](https://github.com/SRVSRR) | Rohan Nandan | Fiji | 538 |
-| 16 | [2-fly-4-ai](https://github.com/2-fly-4-ai) | Brian farley | Suva | 502 |
+| 16 | [2-fly-4-ai](https://github.com/2-fly-4-ai) | Brian farley | Suva | 501 |
 | 17 | [kunz398](https://github.com/kunz398) | Kunal Singh | Fiji | 491 |
 | 18 | [aryann-7](https://github.com/aryann-7) | Aryan Singh | Suva, Fiji | 441 |
 | 19 | [vikichand](https://github.com/vikichand) | Vikash Chand | Fiji | 433 |
@@ -39,7 +39,7 @@ Indexed users: 325
 |---:|---|---|---|---:|
 | 1 | [Amdeo](https://github.com/Amdeo) | Cooper | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1,456 |
 | 2 | [anav5704](https://github.com/anav5704) | Anav Chand | Fiji | 564 |
-| 3 | [2-fly-4-ai](https://github.com/2-fly-4-ai) | Brian farley | Suva | 502 |
+| 3 | [2-fly-4-ai](https://github.com/2-fly-4-ai) | Brian farley | Suva | 501 |
 | 4 | [kishkumar96](https://github.com/kishkumar96) | Kishan Chimman Kumar | Suva | 463 |
 | 5 | [SMani0547](https://github.com/SMani0547) | Shiva Mani Goundar | Nadi, Fiji | 427 |
 | 6 | [alexwoo79](https://github.com/alexwoo79) | Alex_Woo | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 310 |
@@ -48,8 +48,8 @@ Indexed users: 325
 | 9 | [SRVSRR](https://github.com/SRVSRR) | Rohan Nandan | Fiji | 261 |
 | 10 | [codeshareman](https://github.com/codeshareman) | Z° North | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 243 |
 | 11 | [grey0758](https://github.com/grey0758) | 徐业辉 | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 212 |
-| 12 | [rudrprasad05](https://github.com/rudrprasad05) | Rudr Prasad | Fiji | 203 |
-| 13 | [Geekmaxxer](https://github.com/Geekmaxxer) | Pew | Fiji | 198 |
+| 12 | [Geekmaxxer](https://github.com/Geekmaxxer) | Pew | Fiji | 198 |
+| 13 | [rudrprasad05](https://github.com/rudrprasad05) | Rudr Prasad | Fiji | 198 |
 | 14 | [kunz398](https://github.com/kunz398) | Kunal Singh | Fiji | 166 |
 | 15 | [LangfordKuo](https://github.com/LangfordKuo) | Langford | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 150 |
 | 16 | [Neikumata](https://github.com/Neikumata) | yangyeqin | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 133 |
@@ -77,10 +77,10 @@ Indexed users: 325
 | 13 | [evesgf](https://github.com/evesgf) | dingpeng yang | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 26 |
 | 14 | [codeshareman](https://github.com/codeshareman) | Z° North | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 24 |
 | 15 | [kunz398](https://github.com/kunz398) | Kunal Singh | Fiji | 24 |
-| 16 | [anuraag165](https://github.com/anuraag165) | Anuraag Raj | Suva, Fiji | 22 |
-| 17 | [rudrprasad05](https://github.com/rudrprasad05) | Rudr Prasad | Fiji | 22 |
+| 16 | [rudrprasad05](https://github.com/rudrprasad05) | Rudr Prasad | Fiji | 23 |
+| 17 | [anuraag165](https://github.com/anuraag165) | Anuraag Raj | Suva, Fiji | 22 |
 | 18 | [phpoh](https://github.com/phpoh) | phpoh | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 21 |
 | 19 | [SMani0547](https://github.com/SMani0547) | Shiva Mani Goundar | Nadi, Fiji | 21 |
 | 20 | [aryann-7](https://github.com/aryann-7) | Aryan Singh | Suva, Fiji | 19 |
 
-Generated: 2026-10-20T02:19:10.174Z
+Generated: 2026-10-20T05:22:12.636Z

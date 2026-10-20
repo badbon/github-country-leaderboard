@@ -1,6 +1,6 @@
 # Followers - Isle of Man
 
-Generated: 2026-10-20T02:28:25.380Z
+Generated: 2026-10-20T05:34:50.725Z
 
 Users: 155
 
@@ -16,7 +16,7 @@ Users: 155
 | 8 | [mayconht](https://github.com/mayconht) | Maycon Douglas |  |  | Isle of Man | 47 |
 | 9 | [aquacash5](https://github.com/aquacash5) | Kyle Bloom | IFGL |  | Douglas, Isle of Man | 40 |
 | 10 | [lproven](https://github.com/lproven) | Liam Proven | The Register | lproven | Douglas, Isle of Man | 36 |
-| 11 | [drapermovies](https://github.com/drapermovies) | Joel E.P. Draper | Ensemble Media | jepdraper | Isle of Man | 33 |
+| 11 | [drapermovies](https://github.com/drapermovies) | Joel E.P. Draper | Ensemble Media | jepdraper | Isle of Man | 32 |
 | 12 | [drajmarsh](https://github.com/drajmarsh) | Dr Andrew Marsh | PerformativeDesign.com |  | Isle of Man | 26 |
 | 13 | [chris-jamieson](https://github.com/chris-jamieson) | Chris Jamieson | CCS Group, Melior Enterprises | cjamieson_uk | Isle of Man | 24 |
 | 14 | [samuelnub](https://github.com/samuelnub) | Sam Yap | @Yappers, @nubbers  |  | Douglas, Isle of Man | 22 |

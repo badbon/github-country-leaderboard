@@ -1,6 +1,6 @@
 # Public Contributions - Latvia
 
-Generated: 2026-10-20T02:33:43.437Z
+Generated: 2026-10-20T05:40:55.581Z
 
 Users: 3250
 
@@ -14,9 +14,9 @@ Users: 3250
 | 6 | [puikinsh](https://github.com/puikinsh) | Aigars Silkalns | Divilab | AigarsSilkalns | Riga, Latvia | 3151 |
 | 7 | [rinkevich](https://github.com/rinkevich) | Andrejs Rinkevičs |  |  | Riga, Latvia | 2889 |
 | 8 | [mscbuild](https://github.com/mscbuild) | Yuri Dev |  𝒥ℛ🇯🇷   |  | Latvia (Europe) | 2419 |
-| 9 | [resoltico](https://github.com/resoltico) | Ervins Strauhmanis |  |  | Riga, Latvia | 2366 |
-| 10 | [Prokuuudin](https://github.com/Prokuuudin) | Aleksandr Prokudin |  |  | Latvija, Riga | 2098 |
-| 11 | [ar2rsawseen](https://github.com/ar2rsawseen) | Arturs Sosins | @Countly  | ar2rsawseen | Latvia | 1858 |
+| 9 | [ar2rsawseen](https://github.com/ar2rsawseen) | Arturs Sosins | @Countly  | ar2rsawseen | Latvia | 2407 |
+| 10 | [resoltico](https://github.com/resoltico) | Ervins Strauhmanis |  |  | Riga, Latvia | 2366 |
+| 11 | [Prokuuudin](https://github.com/Prokuuudin) | Aleksandr Prokudin |  |  | Latvija, Riga | 2098 |
 | 12 | [dmytropolizhai](https://github.com/dmytropolizhai) | Dmytro Polizhai |  |  | Latvia, Riga | 1850 |
 | 13 | [aleksejs1](https://github.com/aleksejs1) |  |  |  | Latvia | 1744 |
 | 14 | [yarlson](https://github.com/yarlson) | Yar Kravtsov |  | yarlson | Riga, Latvia | 1665 |

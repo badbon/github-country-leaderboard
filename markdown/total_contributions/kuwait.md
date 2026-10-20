@@ -1,6 +1,6 @@
 # Total Contributions - Kuwait
 
-Generated: 2026-10-20T02:32:31.139Z
+Generated: 2026-10-20T05:39:19.085Z
 
 Users: 796
 
@@ -9,16 +9,16 @@ Users: 796
 | 1 | [mshll](https://github.com/mshll) | meshal | Boubyan Bank |  | Kuwait | 7795 |
 | 2 | [buaziz](https://github.com/buaziz) | Buaziz |  |  | Kuwait | 7118 |
 | 3 | [ghaith99](https://github.com/ghaith99) |  |  |  | Kuwait | 6940 |
-| 4 | [BAWES](https://github.com/BAWES) | Khalid Al-Mutawa | BAWES |  | Kuwait | 6616 |
-| 5 | [uusa35](https://github.com/uusa35) | Usama.Ahmed | 965 65772444 |  | kuwait | 6384 |
+| 4 | [BAWES](https://github.com/BAWES) | Khalid Al-Mutawa | BAWES |  | Kuwait | 6840 |
+| 5 | [uusa35](https://github.com/uusa35) | Usama.Ahmed | 965 65772444 |  | kuwait | 6293 |
 | 6 | [drhema](https://github.com/drhema) | Ibrahim Elsherbiny | Ibrahim |  | Kuwait | 6182 |
 | 7 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Dsrpt. | AbdulkaderSafi | Kuwait | 5785 |
-| 8 | [saskw2010](https://github.com/saskw2010) | Mostafa Elnagar | wytSKY Clouding Solutions | wyt_sky | kuwait | 5239 |
+| 8 | [saskw2010](https://github.com/saskw2010) | Mostafa Elnagar | wytSKY Clouding Solutions | wyt_sky | kuwait | 5237 |
 | 9 | [bigboss97lnt](https://github.com/bigboss97lnt) | Nasser Tahan | Yuehlia | bigboss97lnt | Kuwait | 5221 |
 | 10 | [Mubder](https://github.com/Mubder) | Mubder Alfaris | KazmaAI | b_alfaris | Kuwait | 4590 |
 | 11 | [knro](https://github.com/knro) | Jasem Mutlaq |  |  | Kuwait | 4149 |
-| 12 | [mulaifi](https://github.com/mulaifi) | Salem Almulaifi | LEAN | SalemAlmulaifi | Kuwait | 3838 |
-| 13 | [careless10](https://github.com/careless10) | Menawer | Ruba |  | Kuwait | 3828 |
+| 12 | [careless10](https://github.com/careless10) | Menawer | Ruba |  | Kuwait | 3965 |
+| 13 | [mulaifi](https://github.com/mulaifi) | Salem Almulaifi | LEAN | SalemAlmulaifi | Kuwait | 3838 |
 | 14 | [iZaL](https://github.com/iZaL) | Afzal Abbas |  |  | Kuwait | 3821 |
 | 15 | [Mazyod](https://github.com/Mazyod) | Maz | Boubyan Bank |  | Kuwait | 3812 |
 | 16 | [DiNaSoR](https://github.com/DiNaSoR) | BuYousef |  |  | Kuwait | 3515 |

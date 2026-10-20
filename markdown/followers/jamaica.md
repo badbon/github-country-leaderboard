@@ -1,6 +1,6 @@
 # Followers - Jamaica
 
-Generated: 2026-10-20T02:29:32.410Z
+Generated: 2026-10-20T05:36:05.434Z
 
 Users: 1272
 
@@ -24,5 +24,5 @@ Users: 1272
 | 16 | [olusiekwin](https://github.com/olusiekwin) | Gramm | Gramm's Foundation | _olusiekwin | kingston, JM | 106 |
 | 17 | [RakibulRanak](https://github.com/RakibulRanak) | MD RAKIBUL HASAN |  |  | Kingston, Ontario | 102 |
 | 18 | [JonCooperWorks](https://github.com/JonCooperWorks) |  |  | joncooperworks | Jamaica | 101 |
-| 19 | [aliasad059](https://github.com/aliasad059) | Ali Asad | Queen's University |  | Kingston, Ontario | 100 |
+| 19 | [aliasad059](https://github.com/aliasad059) | Ali Asad | Queen's University |  | Kingston, Ontario | 99 |
 | 20 | [andrewmaier](https://github.com/andrewmaier) | Andrew Maier | User Friendliest |  | Kingston, Ontario | 95 |

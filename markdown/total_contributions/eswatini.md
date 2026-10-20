@@ -1,6 +1,6 @@
 # Total Contributions - Eswatini
 
-Generated: 2026-10-20T02:17:28.978Z
+Generated: 2026-10-20T05:20:00.176Z
 
 Users: 108
 
@@ -9,9 +9,9 @@ Users: 108
 | 1 | [rapthar](https://github.com/rapthar) | Mncedisi Bhembe | Flash Coded |  | Swaziland | 21429 |
 | 2 | [Chasusa](https://github.com/Chasusa) | Paul Chasusa |  |  | Eswatini, Southern Africa | 1795 |
 | 3 | [Co-ordinator](https://github.com/Co-ordinator) | Coordinator | Bits & PCs | Coordinator | Manzini, Eswatini | 1044 |
-| 4 | [CBahtaria](https://github.com/CBahtaria) | Charles Bartaria | BRT Inc. |  | Manzini, Kingdom of Eswatini | 1006 |
+| 4 | [CBahtaria](https://github.com/CBahtaria) | Charles Bartaria | BRT Inc. |  | Manzini, Kingdom of Eswatini | 1008 |
 | 5 | [mayo23-06-02](https://github.com/mayo23-06-02) | Mayo | Razonetix Eswatini |  | Eswatini | 745 |
-| 6 | [Dwaynemaster007](https://github.com/Dwaynemaster007) | Thubelihle Dlamini |  |  | Eswatini | 448 |
+| 6 | [Dwaynemaster007](https://github.com/Dwaynemaster007) | Thubelihle Dlamini |  |  | Eswatini | 447 |
 | 7 | [SakhileMamba](https://github.com/SakhileMamba) | Sakhile Mamba |  |  | Eswatini | 368 |
 | 8 | [Dalubuhle-Dlamini](https://github.com/Dalubuhle-Dlamini) | Sihlelo Dalubuhle Dlamini |  |  | Swaziland | 326 |
 | 9 | [kingMasombuka](https://github.com/kingMasombuka) | Senzo Ncongwane |  |  | Swaziland | 285 |

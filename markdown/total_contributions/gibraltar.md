@@ -1,6 +1,6 @@
 # Total Contributions - Gibraltar
 
-Generated: 2026-10-20T02:22:10.800Z
+Generated: 2026-10-20T05:25:45.579Z
 
 Users: 93
 
@@ -14,7 +14,7 @@ Users: 93
 | 6 | [Fenicio](https://github.com/Fenicio) | Guillermo G C |  |  | Gibraltar | 1391 |
 | 7 | [ArmandasB](https://github.com/ArmandasB) | Armandas Bespalovas |  |  | Gibraltar, GI | 1224 |
 | 8 | [llmora](https://github.com/llmora) | Lluis Mora |  | lluismh | Gibraltar | 1193 |
-| 9 | [ArtemSoldatkin](https://github.com/ArtemSoldatkin) | Artem Soldatkin |  |  | Gibraltar | 802 |
+| 9 | [ArtemSoldatkin](https://github.com/ArtemSoldatkin) | Artem Soldatkin |  |  | Gibraltar | 800 |
 | 10 | [sTevoFort](https://github.com/sTevoFort) | Stephen Fortunato |  |  | Gibraltar | 772 |
 | 11 | [ronanmathew](https://github.com/ronanmathew) | Ronan Spoor |  |  | Gibraltar | 637 |
 | 12 | [mortyflex](https://github.com/mortyflex) | Mohamed A | Dether |  | Gibraltar | 621 |

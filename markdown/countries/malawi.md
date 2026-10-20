@@ -65,7 +65,7 @@ Indexed users: 900
 | 1 | [Iankulani](https://github.com/Iankulani) | Ian Carter Kulani | Mzimba, Malawi | 2,676 |
 | 2 | [StevenKamwaza](https://github.com/StevenKamwaza) | Steven Kamwaza |  Malawi | 1,444 |
 | 3 | [ACT91](https://github.com/ACT91) | Stanley Gersom | Blantyre , Malawi | 767 |
-| 4 | [Marhardal](https://github.com/Marhardal) | Martin Harawa | Lilongwe Malaŵi  | 564 |
+| 4 | [Marhardal](https://github.com/Marhardal) | Martin Harawa | Lilongwe Malaŵi  | 573 |
 | 5 | [zikani03](https://github.com/zikani03) | Zikani Nyirenda Mwase | Lilongwe, Malawi | 495 |
 | 6 | [Cardkess-SG](https://github.com/Cardkess-SG) | Blessings Chidambe | Blantyre, MALAWI | 378 |
 | 7 | [madzalo](https://github.com/madzalo) | Resten Madzalo | Malawi | 316 |
@@ -83,4 +83,4 @@ Indexed users: 900
 | 19 | [RodgerCodes](https://github.com/RodgerCodes) | Rodger Kumwanje | Malawi | 130 |
 | 20 | [g1ftmkyelu](https://github.com/g1ftmkyelu) | codemaestro🚀 | 🇲🇼 Malawi | 129 |
 
-Generated: 2026-10-20T02:36:00.473Z
+Generated: 2026-10-20T05:44:13.819Z

@@ -1,6 +1,6 @@
 # Ethiopia
 
-Indexed users: 6,677
+Indexed users: 6,676
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 6,677
 | 19 | [yonasleykun27](https://github.com/yonasleykun27) | Yonas Leykun | Addis Ababa, Ethiopia  | 511 |
 | 20 | [Olyadtemesgen](https://github.com/Olyadtemesgen) | Olyad Temesgen Amsalu | Addis Ababa, Ethiopia | 501 |
 
-Generated: 2026-10-20T02:18:07.258Z
+Generated: 2026-10-20T05:20:32.344Z
