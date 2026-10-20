@@ -1,8 +1,8 @@
 # Total Contributions - Serbia
 
-Generated: 2026-10-20T00:11:47.165Z
+Generated: 2026-10-20T01:37:00.684Z
 
-Users: 10656
+Users: 10655
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

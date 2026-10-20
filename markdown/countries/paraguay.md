@@ -27,7 +27,7 @@ Indexed users: 2,014
 | 13 | [vVladyslaVv](https://github.com/vVladyslaVv) | Vladyslav Yeroma | Asuncion | 7,150 |
 | 14 | [kiquetal](https://github.com/kiquetal) | Enrique\m/Talavera | Paraguay | 6,752 |
 | 15 | [MHHukiewitz](https://github.com/MHHukiewitz) | Mike Hukiewitz | Paraguay, Cordillera | 6,711 |
-| 16 | [davicyyo](https://github.com/davicyyo) | DaViCyYo | Paraguay | 5,811 |
+| 16 | [davicyyo](https://github.com/davicyyo) | DaViCyYo | Paraguay | 5,810 |
 | 17 | [everdaniel](https://github.com/everdaniel) | Ever Daniel Barreto | Asunción, Paraguay | 5,581 |
 | 18 | [yoryer](https://github.com/yoryer) | Jorge Noguera | Paraguay | 5,465 |
 | 19 | [aplgr](https://github.com/aplgr) | André Plöger | Paraguay | 5,210 |
@@ -83,4 +83,4 @@ Indexed users: 2,014
 | 19 | [metakeule](https://github.com/metakeule) | metakeule | Asunción / Paraguay | 109 |
 | 20 | [replay](https://github.com/replay) | Mauro Stettler | Asuncion, Paraguay | 105 |
 
-Generated: 2026-10-20T00:04:00.668Z
+Generated: 2026-10-20T01:29:16.227Z

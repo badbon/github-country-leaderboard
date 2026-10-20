@@ -22,7 +22,7 @@ Indexed users: 212
 | 8 | [Angra974](https://github.com/Angra974) | Thierry Parlier | Reunion Island, France | 2,414 |
 | 9 | [ralphi2811](https://github.com/ralphi2811) | Raphaël Auberlet | Réunion Island | 2,305 |
 | 10 | [Skiwa](https://github.com/Skiwa) | Julien Haegman | Saint-Denis, Réunion | 2,074 |
-| 11 | [Gabouin](https://github.com/Gabouin) | Gabouin | Reunion Island | 2,025 |
+| 11 | [Gabouin](https://github.com/Gabouin) | Gabouin | Reunion Island | 2,026 |
 | 12 | [lvothnrv](https://github.com/lvothnrv) | LvothNrv | Reunion Island | 2,005 |
 | 13 | [John361](https://github.com/John361) | John | Réunion | 1,987 |
 | 14 | [IamArayel](https://github.com/IamArayel) | Arayel | Reunion Island | 1,807 |
@@ -30,14 +30,14 @@ Indexed users: 212
 | 16 | [eldertek](https://github.com/eldertek) | André Théo LAURET | Reunion Island | 1,753 |
 | 17 | [Nasjoe](https://github.com/Nasjoe) | Jonas TURBEAUX | Réunion Island, Villeurbanne, Montpellier : France | 1,730 |
 | 18 | [gfo974](https://github.com/gfo974) | Geoffrey Fournier  | Réunion Island | 1,364 |
-| 19 | [arthur-girardin-calbe](https://github.com/arthur-girardin-calbe) | Arthur Girardin--Calbe | Réunion | 1,296 |
+| 19 | [arthur-girardin-calbe](https://github.com/arthur-girardin-calbe) | Arthur Girardin--Calbe | Réunion | 1,298 |
 | 20 | [Robin-Lune](https://github.com/Robin-Lune) |  | Réunion | 1,159 |
 
 ## Public Contributions
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [Gabouin](https://github.com/Gabouin) | Gabouin | Reunion Island | 1,958 |
+| 1 | [Gabouin](https://github.com/Gabouin) | Gabouin | Reunion Island | 1,959 |
 | 2 | [Nasjoe](https://github.com/Nasjoe) | Jonas TURBEAUX | Réunion Island, Villeurbanne, Montpellier : France | 1,730 |
 | 3 | [elmarco](https://github.com/elmarco) | Marc-André Lureau | Réunion | 1,141 |
 | 4 | [ChaffyLace](https://github.com/ChaffyLace) |  | Saint Denis | 970 |
@@ -83,4 +83,4 @@ Indexed users: 212
 | 19 | [julien-lav](https://github.com/julien-lav) | julien-lav | Saint-Denis | 20 |
 | 20 | [Nasjoe](https://github.com/Nasjoe) | Jonas TURBEAUX | Réunion Island, Villeurbanne, Montpellier : France | 20 |
 
-Generated: 2026-10-20T00:08:02.256Z
+Generated: 2026-10-20T01:30:37.541Z

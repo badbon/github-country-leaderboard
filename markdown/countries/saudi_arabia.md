@@ -1,6 +1,6 @@
 # Saudi Arabia
 
-Indexed users: 7,739
+Indexed users: 7,738
 
 | Leaderboard | Link |
 |---|---|
@@ -72,7 +72,7 @@ Indexed users: 7,739
 | 8 | [amoola1992](https://github.com/amoola1992) | Amal Mansour | Mecca, Saudi Arabia | 777 |
 | 9 | [SEAbdulbasit](https://github.com/SEAbdulbasit) | Abdul Basit | Riyadh | 749 |
 | 10 | [drmakerr](https://github.com/drmakerr) | Dr. Maker | Jeddah, Saudi Arabia | 740 |
-| 11 | [MohamedMohamoud](https://github.com/MohamedMohamoud) | Mohamed Mahmoud  | Riyadh | 740 |
+| 11 | [MohamedMohamoud](https://github.com/MohamedMohamoud) | Mohamed Mahmoud  | Riyadh | 721 |
 | 12 | [pr-Mais](https://github.com/pr-Mais) | Mais Alheraki | Dammam, Saudi Arabia | 659 |
 | 13 | [aniskoubaa](https://github.com/aniskoubaa) | Anis Koubaa | Saudi Arabia | 647 |
 | 14 | [Matrix07ksa](https://github.com/Matrix07ksa) | Matrix | Saudi arabia | 520 |
@@ -83,4 +83,4 @@ Indexed users: 7,739
 | 19 | [davidrpugh](https://github.com/davidrpugh) | David R. Pugh | Thuwal, Saudi Arabia | 458 |
 | 20 | [madahetooo](https://github.com/madahetooo) | Eslam Medhat | Riyadh, Saudi Arabia | 458 |
 
-Generated: 2026-10-20T00:11:35.058Z
+Generated: 2026-10-20T01:36:09.066Z

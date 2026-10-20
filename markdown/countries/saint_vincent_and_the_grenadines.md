@@ -15,11 +15,11 @@ Indexed users: 26
 | 1 | [colin-dbv](https://github.com/colin-dbv) | Colin Vincent | North Kingstown RI | 536 |
 | 2 | [blazetopher](https://github.com/blazetopher) | Christopher Mueller | North Kingstown, RI | 487 |
 | 3 | [2Remus](https://github.com/2Remus) | human#23416 | Kingstown, Saint George, Saint Vincent and the Grenadines | 370 |
-| 4 | [azeldaniel](https://github.com/azeldaniel) | Azel Daniel | Saint Vincent and the Grenadines | 328 |
+| 4 | [azeldaniel](https://github.com/azeldaniel) | Azel Daniel | Saint Vincent and the Grenadines | 327 |
 | 5 | [lukecampbell](https://github.com/lukecampbell) | Luke Campbell | South Kingstown, RI | 302 |
 | 6 | [kazar4](https://github.com/kazar4) | Kazen Gallman | North Kingstown, Rhode Island | 159 |
 | 7 | [Kascique](https://github.com/Kascique) | Kascique Lowmans | Saint Vincent and the Grenadines | 95 |
-| 8 | [dellon28](https://github.com/dellon28) | Dellonte Boucher | Saint Vincent and the Grenadines | 25 |
+| 8 | [dellon28](https://github.com/dellon28) | Dellonte Boucher | Saint Vincent and the Grenadines | 24 |
 | 9 | [Richardson-Rayshorn](https://github.com/Richardson-Rayshorn) | Rayshorn Richardson | Saint Vincent and the Grenadines | 4 |
 | 10 | [Tomrish](https://github.com/Tomrish) | Tom Rishworth | North Kingstown, RI | 3 |
 | 11 | [lihadaway](https://github.com/lihadaway) | Leslie | Saint Vincent and the Grenadines | 1 |
@@ -40,7 +40,7 @@ Indexed users: 26
 | 1 | [2Remus](https://github.com/2Remus) | human#23416 | Kingstown, Saint George, Saint Vincent and the Grenadines | 343 |
 | 2 | [lukecampbell](https://github.com/lukecampbell) | Luke Campbell | South Kingstown, RI | 100 |
 | 3 | [kazar4](https://github.com/kazar4) | Kazen Gallman | North Kingstown, Rhode Island | 37 |
-| 4 | [dellon28](https://github.com/dellon28) | Dellonte Boucher | Saint Vincent and the Grenadines | 25 |
+| 4 | [dellon28](https://github.com/dellon28) | Dellonte Boucher | Saint Vincent and the Grenadines | 24 |
 | 5 | [colin-dbv](https://github.com/colin-dbv) | Colin Vincent | North Kingstown RI | 9 |
 | 6 | [lihadaway](https://github.com/lihadaway) | Leslie | Saint Vincent and the Grenadines | 1 |
 | 7 | [pepperseed](https://github.com/pepperseed) | Hariet Caine | Kingstown VC | 1 |
@@ -83,4 +83,4 @@ Indexed users: 26
 | 19 | [95Tarek784](https://github.com/95Tarek784) | Tarek Ollivierre | Kingstown, Saint Vincent  & The Grenadines | 1 |
 | 20 | [dellon28](https://github.com/dellon28) | Dellonte Boucher | Saint Vincent and the Grenadines | 1 |
 
-Generated: 2026-10-20T00:10:19.873Z
+Generated: 2026-10-20T01:34:01.948Z

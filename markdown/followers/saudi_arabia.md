@@ -1,8 +1,8 @@
 # Followers - Saudi Arabia
 
-Generated: 2026-10-20T00:11:35.058Z
+Generated: 2026-10-20T01:36:09.066Z
 
-Users: 7739
+Users: 7738
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -16,7 +16,7 @@ Users: 7739
 | 8 | [amoola1992](https://github.com/amoola1992) | Amal Mansour | Confidential |  | Mecca, Saudi Arabia | 777 |
 | 9 | [SEAbdulbasit](https://github.com/SEAbdulbasit) | Abdul Basit |  | abdulbasitgd | Riyadh | 749 |
 | 10 | [drmakerr](https://github.com/drmakerr) | Dr. Maker |  |  | Jeddah, Saudi Arabia | 740 |
-| 11 | [MohamedMohamoud](https://github.com/MohamedMohamoud) | Mohamed Mahmoud  | Freelancer Front End Developer  |  | Riyadh | 740 |
+| 11 | [MohamedMohamoud](https://github.com/MohamedMohamoud) | Mohamed Mahmoud  | Freelancer Front End Developer  |  | Riyadh | 721 |
 | 12 | [pr-Mais](https://github.com/pr-Mais) | Mais Alheraki | @Thmanyah-LLC | pr_Mais | Dammam, Saudi Arabia | 659 |
 | 13 | [aniskoubaa](https://github.com/aniskoubaa) | Anis Koubaa | Alfaisal University (Saudi Arabia) | aniskoubaa1977 | Saudi Arabia | 647 |
 | 14 | [Matrix07ksa](https://github.com/Matrix07ksa) | Matrix | TVTC | Matrix0700 | Saudi arabia | 520 |

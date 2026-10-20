@@ -12,7 +12,7 @@ Indexed users: 1,532
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [RhettCreighton](https://github.com/RhettCreighton) | Rhett Creighton | San Juan, Puerto Rico | 38,775 |
+| 1 | [RhettCreighton](https://github.com/RhettCreighton) | Rhett Creighton | San Juan, Puerto Rico | 38,495 |
 | 2 | [mattvv](https://github.com/mattvv) | Matt Van | San Juan, Puerto Rico | 33,191 |
 | 3 | [angusdavis2](https://github.com/angusdavis2) |  | Dorado, Puerto Rico | 27,920 |
 | 4 | [robertjchristian](https://github.com/robertjchristian) | Robert Christian | Orlando FL \| Seattle WA \| San Juan PR | 22,250 |
@@ -25,7 +25,7 @@ Indexed users: 1,532
 | 11 | [bombillazo](https://github.com/bombillazo) | Hector Ayala | Puerto Rico | 7,098 |
 | 12 | [chrisrodz](https://github.com/chrisrodz) | Christian A. Rodriguez | San Juan, PR | 7,027 |
 | 13 | [brettheap](https://github.com/brettheap) | Brett Heap | Puerto Rico | 6,739 |
-| 14 | [shawntabrizi](https://github.com/shawntabrizi) | Shawn Tabrizi | Puerto Rico | 6,569 |
+| 14 | [shawntabrizi](https://github.com/shawntabrizi) | Shawn Tabrizi | Puerto Rico | 6,624 |
 | 15 | [Wolfkid200444](https://github.com/Wolfkid200444) | Wolfie | Puerto Rico | 6,312 |
 | 16 | [grpecunia](https://github.com/grpecunia) | Gustavo Rivera Pecunia | San Juan, PR | 6,140 |
 | 17 | [cfboy](https://github.com/cfboy) | Cristian F. Torres Collazo | San Juan, Puerto Rico | 6,086 |
@@ -38,7 +38,7 @@ Indexed users: 1,532
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [0xPlayerOne](https://github.com/0xPlayerOne) | A. Mahoney-Fernandes | San Juan, PR 🇵🇷 | 17,559 |
-| 2 | [RhettCreighton](https://github.com/RhettCreighton) | Rhett Creighton | San Juan, Puerto Rico | 12,316 |
+| 2 | [RhettCreighton](https://github.com/RhettCreighton) | Rhett Creighton | San Juan, Puerto Rico | 12,873 |
 | 3 | [bpamiri](https://github.com/bpamiri) | Peter Amiri | San Juan Capistrano, CA | 9,824 |
 | 4 | [brettheap](https://github.com/brettheap) | Brett Heap | Puerto Rico | 6,739 |
 | 5 | [egmtm](https://github.com/egmtm) | EGM™ | Puerto Rico | 5,872 |
@@ -83,4 +83,4 @@ Indexed users: 1,532
 | 19 | [rnegron](https://github.com/rnegron) | Raúl Negrón-Otero | Bayamón, Puerto Rico | 113 |
 | 20 | [hackingbutlegal](https://github.com/hackingbutlegal) | Jackie Singh | San Juan, PR | 107 |
 
-Generated: 2026-10-20T00:06:28.409Z
+Generated: 2026-10-20T01:30:26.541Z
