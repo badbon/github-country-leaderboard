@@ -25,13 +25,13 @@ Indexed users: 3,096
 | 11 | [matija2209](https://github.com/matija2209) | Matija Žiberna | Slovenia | 10,295 |
 | 12 | [tfourj](https://github.com/tfourj) | Taj Tkalec | Slovenia | 9,996 |
 | 13 | [rockoo](https://github.com/rockoo) | Rok Nemet | Ljubljana, Slovenia | 9,726 |
-| 14 | [tfius](https://github.com/tfius) | Tadej Fius | Slovenia | 8,723 |
-| 15 | [baadc0de](https://github.com/baadc0de) | Bojan Šernek | Ljubljana, Slovenia | 8,700 |
-| 16 | [pako999](https://github.com/pako999) | Patrik | Slovenia  | 8,682 |
-| 17 | [zprima](https://github.com/zprima) | Primož Žnidar | Slovenia | 8,672 |
-| 18 | [vucinatim](https://github.com/vucinatim) | Tim Vučina | Ljubljana, Slovenia | 8,637 |
-| 19 | [mitjapotocin](https://github.com/mitjapotocin) | Mitja Potočin | Ljubljana | 8,383 |
-| 20 | [dejanstrancar](https://github.com/dejanstrancar) | Dejan Strancar | Slovenia | 7,491 |
+| 14 | [ilijachrchev](https://github.com/ilijachrchev) | Ilija Chrchev | Koper, Slovenia | 8,844 |
+| 15 | [tfius](https://github.com/tfius) | Tadej Fius | Slovenia | 8,723 |
+| 16 | [baadc0de](https://github.com/baadc0de) | Bojan Šernek | Ljubljana, Slovenia | 8,700 |
+| 17 | [pako999](https://github.com/pako999) | Patrik | Slovenia  | 8,682 |
+| 18 | [zprima](https://github.com/zprima) | Primož Žnidar | Slovenia | 8,672 |
+| 19 | [vucinatim](https://github.com/vucinatim) | Tim Vučina | Ljubljana, Slovenia | 8,637 |
+| 20 | [mitjapotocin](https://github.com/mitjapotocin) | Mitja Potočin | Ljubljana | 8,383 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 3,096
 | 19 | [jure](https://github.com/jure) | Jure Triglav | Ljubljana, Slovenia | 243 |
 | 20 | [buresdv](https://github.com/buresdv) | David Bureš | Maribor, Slovenia | 238 |
 
-Generated: 2026-10-20T18:30:16.513Z
+Generated: 2026-10-20T20:04:39.511Z

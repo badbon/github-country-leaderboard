@@ -1,6 +1,6 @@
 # Public Contributions - Tanzania
 
-Generated: 2026-10-20T18:34:57.501Z
+Generated: 2026-10-20T20:10:07.137Z
 
 Users: 2037
 
@@ -21,8 +21,8 @@ Users: 2037
 | 13 | [wizystudios](https://github.com/wizystudios) | khalifa Nadhir | wizystudio |  | tanzania | 1975 |
 | 14 | [elishagerson](https://github.com/elishagerson) | Elisha Gerson |  |  | Mbeya, Tanzania | 1727 |
 | 15 | [Gudi650](https://github.com/Gudi650) | Godluck Emmanuel Msangi |  |  | Tanzania | 1551 |
-| 16 | [fmpiza](https://github.com/fmpiza) | fridolinmpiza, Msc. |  |  | Tanzania | 1544 |
-| 17 | [JuliusNtale](https://github.com/JuliusNtale) | Julius Peter Ntale | Neuraltlae Technologies |  | Tanzania  | 1505 |
-| 18 | [zayqu](https://github.com/zayqu) | Daraja | MzHoldings |  | Dar Es Salaam, Tanzania | 1466 |
+| 16 | [JuliusNtale](https://github.com/JuliusNtale) | Julius Peter Ntale | Neuraltlae Technologies |  | Tanzania  | 1505 |
+| 17 | [zayqu](https://github.com/zayqu) | Daraja | MzHoldings |  | Dar Es Salaam, Tanzania | 1466 |
+| 18 | [fmpiza](https://github.com/fmpiza) | fridolinmpiza, Msc. |  |  | Tanzania | 1438 |
 | 19 | [cephasgm](https://github.com/cephasgm) | CephasGM |  |  | Dar Es Salaam, Tanzania | 1385 |
 | 20 | [Gideonamani](https://github.com/Gideonamani) | Gideonamani A. Marress |  |  | Dar es Salaam, Tanzania | 1318 |

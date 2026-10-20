@@ -1,6 +1,6 @@
 # Followers - Switzerland
 
-Generated: 2026-10-20T18:33:00.114Z
+Generated: 2026-10-20T20:07:25.374Z
 
 Users: 24079
 
@@ -23,6 +23,6 @@ Users: 24079
 | 15 | [awaelchli](https://github.com/awaelchli) | Adrian Wälchli | Poolside |  | Switzerland | 2789 |
 | 16 | [Siguza](https://github.com/Siguza) | Siguza |  |  | Switzerland | 2099 |
 | 17 | [damienbod](https://github.com/damienbod) | damienbod |  |  | Switzerland | 2041 |
-| 18 | [FujiwaraChoki](https://github.com/FujiwaraChoki) |  |  |  | Zurich, Switzerland | 1936 |
+| 18 | [FujiwaraChoki](https://github.com/FujiwaraChoki) |  |  |  | Zurich, Switzerland | 1973 |
 | 19 | [nyancrimew](https://github.com/nyancrimew) | maia arson crimew | Unemployment LLC | awawawhoami | Switzerland | 1856 |
 | 20 | [jeremytammik](https://github.com/jeremytammik) | Jeremy Tammik | Autodesk |  | Switzerland | 1841 |

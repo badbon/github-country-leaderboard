@@ -79,8 +79,8 @@ Indexed users: 24,079
 | 15 | [awaelchli](https://github.com/awaelchli) | Adrian Wälchli | Switzerland | 2,789 |
 | 16 | [Siguza](https://github.com/Siguza) | Siguza | Switzerland | 2,099 |
 | 17 | [damienbod](https://github.com/damienbod) | damienbod | Switzerland | 2,041 |
-| 18 | [FujiwaraChoki](https://github.com/FujiwaraChoki) |  | Zurich, Switzerland | 1,936 |
+| 18 | [FujiwaraChoki](https://github.com/FujiwaraChoki) |  | Zurich, Switzerland | 1,973 |
 | 19 | [nyancrimew](https://github.com/nyancrimew) | maia arson crimew | Switzerland | 1,856 |
 | 20 | [jeremytammik](https://github.com/jeremytammik) | Jeremy Tammik | Switzerland | 1,841 |
 
-Generated: 2026-10-20T18:33:00.114Z
+Generated: 2026-10-20T20:07:25.374Z

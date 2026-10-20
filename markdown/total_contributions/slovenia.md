@@ -1,6 +1,6 @@
 # Total Contributions - Slovenia
 
-Generated: 2026-10-20T18:30:16.513Z
+Generated: 2026-10-20T20:04:39.511Z
 
 Users: 3096
 
@@ -19,10 +19,10 @@ Users: 3096
 | 11 | [matija2209](https://github.com/matija2209) | Matija Žiberna | We Hate Copy Pasting |  | Slovenia | 10295 |
 | 12 | [tfourj](https://github.com/tfourj) | Taj Tkalec |  |  | Slovenia | 9996 |
 | 13 | [rockoo](https://github.com/rockoo) | Rok Nemet | Fantasyrock |  | Ljubljana, Slovenia | 9726 |
-| 14 | [tfius](https://github.com/tfius) | Tadej Fius | MediaAtlas |  | Slovenia | 8723 |
-| 15 | [baadc0de](https://github.com/baadc0de) | Bojan Šernek | @distopik | reactocode | Ljubljana, Slovenia | 8700 |
-| 16 | [pako999](https://github.com/pako999) | Patrik |  | patrikslovenia | Slovenia  | 8682 |
-| 17 | [zprima](https://github.com/zprima) | Primož Žnidar | @poviolabs  |  | Slovenia | 8672 |
-| 18 | [vucinatim](https://github.com/vucinatim) | Tim Vučina | zerodays.dev |  | Ljubljana, Slovenia | 8637 |
-| 19 | [mitjapotocin](https://github.com/mitjapotocin) | Mitja Potočin | Mediately |  | Ljubljana | 8383 |
-| 20 | [dejanstrancar](https://github.com/dejanstrancar) | Dejan Strancar | Mediately |  | Slovenia | 7491 |
+| 14 | [ilijachrchev](https://github.com/ilijachrchev) | Ilija Chrchev |  |  | Koper, Slovenia | 8844 |
+| 15 | [tfius](https://github.com/tfius) | Tadej Fius | MediaAtlas |  | Slovenia | 8723 |
+| 16 | [baadc0de](https://github.com/baadc0de) | Bojan Šernek | @distopik | reactocode | Ljubljana, Slovenia | 8700 |
+| 17 | [pako999](https://github.com/pako999) | Patrik |  | patrikslovenia | Slovenia  | 8682 |
+| 18 | [zprima](https://github.com/zprima) | Primož Žnidar | @poviolabs  |  | Slovenia | 8672 |
+| 19 | [vucinatim](https://github.com/vucinatim) | Tim Vučina | zerodays.dev |  | Ljubljana, Slovenia | 8637 |
+| 20 | [mitjapotocin](https://github.com/mitjapotocin) | Mitja Potočin | Mediately |  | Ljubljana | 8383 |

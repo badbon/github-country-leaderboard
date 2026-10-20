@@ -65,7 +65,7 @@ Indexed users: 5,625
 | 1 | [Klerith](https://github.com/Klerith) | Fernando Herrera | Costa Rica | 15,410 |
 | 2 | [glittercowboy](https://github.com/glittercowboy) | TÂCHES | Costa Rica | 1,274 |
 | 3 | [miguelestradam3](https://github.com/miguelestradam3) | Miguel Estrada | Costa Rica | 1,057 |
-| 4 | [jorneycr](https://github.com/jorneycr) | Jorney Lopez | Costa Rica | 794 |
+| 4 | [jorneycr](https://github.com/jorneycr) | Jorney Lopez | Costa Rica | 773 |
 | 5 | [drawrowfly](https://github.com/drawrowfly) | Andrew Nord |  Costa Rica | 637 |
 | 6 | [robey](https://github.com/robey) | Robey Pointer | San José, CA | 566 |
 | 7 | [tito](https://github.com/tito) | Mathieu Virbel | Costa Rica | 530 |
@@ -83,4 +83,4 @@ Indexed users: 5,625
 | 19 | [stvansolano](https://github.com/stvansolano) | Esteban Solano Granados | Costa Rica | 189 |
 | 20 | [Jeffser](https://github.com/Jeffser) | Jeffry Samuel | Costa Rica | 174 |
 
-Generated: 2026-10-20T19:05:00.607Z
+Generated: 2026-10-20T20:38:20.536Z

@@ -1,6 +1,6 @@
 # Followers - Costa Rica
 
-Generated: 2026-10-20T19:05:00.607Z
+Generated: 2026-10-20T20:38:20.536Z
 
 Users: 5625
 
@@ -9,7 +9,7 @@ Users: 5625
 | 1 | [Klerith](https://github.com/Klerith) | Fernando Herrera | Profesor y Full Stack Developer | Fernando_Her85 | Costa Rica | 15410 |
 | 2 | [glittercowboy](https://github.com/glittercowboy) | TÂCHES |  | official_taches | Costa Rica | 1274 |
 | 3 | [miguelestradam3](https://github.com/miguelestradam3) | Miguel Estrada |  |  | Costa Rica | 1057 |
-| 4 | [jorneycr](https://github.com/jorneycr) | Jorney Lopez |  |  | Costa Rica | 794 |
+| 4 | [jorneycr](https://github.com/jorneycr) | Jorney Lopez |  |  | Costa Rica | 773 |
 | 5 | [drawrowfly](https://github.com/drawrowfly) | Andrew Nord |  | Nord0x |  Costa Rica | 637 |
 | 6 | [robey](https://github.com/robey) | Robey Pointer |  |  | San José, CA | 566 |
 | 7 | [tito](https://github.com/tito) | Mathieu Virbel | Monadical |  | Costa Rica | 530 |

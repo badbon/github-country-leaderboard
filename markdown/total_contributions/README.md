@@ -15,16 +15,16 @@ Published countries: 234
 | Antarctica | 460 | [View](./antarctica.md) |
 | Antigua and Barbuda | 12 | [View](./antigua_and_barbuda.md) |
 | Argentina | 50,724 | [View](./argentina.md) |
-| Armenia | 4,032 | [View](./armenia.md) |
+| Armenia | 4,031 | [View](./armenia.md) |
 | Aruba | 37 | [View](./aruba.md) |
-| Austria | 18,247 | [View](./austria.md) |
-| Azerbaijan | 5,050 | [View](./azerbaijan.md) |
+| Austria | 18,246 | [View](./austria.md) |
+| Azerbaijan | 5,049 | [View](./azerbaijan.md) |
 | Bahamas | 236 | [View](./bahamas.md) |
 | Bahrain | 727 | [View](./bahrain.md) |
-| Bangladesh | 55,306 | [View](./bangladesh.md) |
+| Bangladesh | 55,305 | [View](./bangladesh.md) |
 | Barbados | 132 | [View](./barbados.md) |
 | Belarus | 10,927 | [View](./belarus.md) |
-| Belgium | 18,376 | [View](./belgium.md) |
+| Belgium | 18,375 | [View](./belgium.md) |
 | Belize | 94 | [View](./belize.md) |
 | Benin | 471 | [View](./benin.md) |
 | Bermuda | 898 | [View](./bermuda.md) |
@@ -58,7 +58,7 @@ Published countries: 234
 | Curaçao | 53 | [View](./curacao.md) |
 | Cyprus | 2,723 | [View](./cyprus.md) |
 | Czechia | 16,199 | [View](./czechia.md) |
-| Denmark | 19,296 | [View](./denmark.md) |
+| Denmark | 19,295 | [View](./denmark.md) |
 | Djibouti | 55 | [View](./djibouti.md) |
 | Dominica | 18 | [View](./dominica.md) |
 | Dominican Republic | 3,298 | [View](./dominican_republic.md) |
@@ -205,7 +205,7 @@ Published countries: 234
 | Sudan | 727 | [View](./sudan.md) |
 | Suriname | 123 | [View](./suriname.md) |
 | Svalbard and Jan Mayen | 10 | [View](./svalbard_and_jan_mayen.md) |
-| Sweden | 39,027 | [View](./sweden.md) |
+| Sweden | 39,026 | [View](./sweden.md) |
 | Switzerland | 24,079 | [View](./switzerland.md) |
 | Syria | 1,478 | [View](./syria.md) |
 | Taiwan | 21,994 | [View](./taiwan.md) |
@@ -230,7 +230,7 @@ Published countries: 234
 | Uruguay | 5,605 | [View](./uruguay.md) |
 | Uzbekistan | 9,511 | [View](./uzbekistan.md) |
 | Vanuatu | 18 | [View](./vanuatu.md) |
-| Vatican City | 30 | [View](./vatican_city.md) |
+| Vatican City | 31 | [View](./vatican_city.md) |
 | Venezuela | 6,620 | [View](./venezuela.md) |
 | Vietnam | 25,834 | [View](./vietnam.md) |
 | Wallis and Futuna | 0 | [View](./wallis_and_futuna.md) |
@@ -239,4 +239,4 @@ Published countries: 234
 | Zambia | 1,337 | [View](./zambia.md) |
 | Zimbabwe | 1,656 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-20T20:02:59.335Z
+Generated: 2026-10-20T20:44:34.770Z

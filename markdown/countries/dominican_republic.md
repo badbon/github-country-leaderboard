@@ -62,11 +62,11 @@ Indexed users: 3,298
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [alanhamlett](https://github.com/alanhamlett) | Alan Hamlett | Dominican Republic | 5,137 |
+| 1 | [alanhamlett](https://github.com/alanhamlett) | Alan Hamlett | Dominican Republic | 5,135 |
 | 2 | [johansitoweb](https://github.com/johansitoweb) | Johan Antonio | Dominican republic | 940 |
 | 3 | [sgermosen](https://github.com/sgermosen) | Starling Germosen | Santo Domingo, Republica Dominicana | 729 |
 | 4 | [LeomarisReyes](https://github.com/LeomarisReyes) | Leomaris Reyes | Dominican Republic | 565 |
-| 5 | [rmariuzzo](https://github.com/rmariuzzo) | Rubens Mariuzzo | Dominican Republic | 425 |
+| 5 | [rmariuzzo](https://github.com/rmariuzzo) | Rubens Mariuzzo | Dominican Republic | 428 |
 | 6 | [juliourena](https://github.com/juliourena) | Julio Ureña | Dominican Republic | 313 |
 | 7 | [Topdev1234](https://github.com/Topdev1234) | Topdev | Dominican Republic | 309 |
 | 8 | [Char0394](https://github.com/Char0394) | Charlin Agramonte | Dominican Republic  | 275 |
@@ -83,4 +83,4 @@ Indexed users: 3,298
 | 19 | [eatskolnikov](https://github.com/eatskolnikov) | Enmanuel Toribio | Dominican Republic | 147 |
 | 20 | [RaymondCoplin](https://github.com/RaymondCoplin) | Raymond Coplin | Dominican Republic, Santo Domingo | 120 |
 
-Generated: 2026-10-20T19:07:16.596Z
+Generated: 2026-10-20T20:40:47.666Z

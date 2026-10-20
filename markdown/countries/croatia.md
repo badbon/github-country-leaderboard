@@ -24,14 +24,14 @@ Indexed users: 5,420
 | 10 | [bis3946](https://github.com/bis3946) | bis3946 | Croatia | 8,871 |
 | 11 | [lbagic](https://github.com/lbagic) | Luka Bagic | Croatia | 8,198 |
 | 12 | [lazar-tomislav](https://github.com/lazar-tomislav) | Tomislav Lazar | Croatia | 8,131 |
-| 13 | [ivanmeler](https://github.com/ivanmeler) | Ivan Meler | Croatia, Vukovar | 7,621 |
-| 14 | [mbrcic](https://github.com/mbrcic) | Mario Brcic | Zagreb, Croatia | 7,336 |
-| 15 | [zvanjak](https://github.com/zvanjak) | Zvonimir Vanjak | Zagreb | 7,219 |
-| 16 | [viborc](https://github.com/viborc) | Vibor Cipan | Croatia | 7,209 |
-| 17 | [verona-dev](https://github.com/verona-dev) | Zoran G. Verona | Croatia | 6,981 |
-| 18 | [Domogo](https://github.com/Domogo) | Domagoj Satrapa | Pula, Croatia | 6,765 |
-| 19 | [SeloSlav](https://github.com/SeloSlav) | Martin Erlic | Zagreb | 6,760 |
-| 20 | [piqusy](https://github.com/piqusy) | Ivan Ramljak | Zagreb | 6,748 |
+| 13 | [piqusy](https://github.com/piqusy) | Ivan Ramljak | Zagreb | 7,764 |
+| 14 | [ivanmeler](https://github.com/ivanmeler) | Ivan Meler | Croatia, Vukovar | 7,621 |
+| 15 | [mbrcic](https://github.com/mbrcic) | Mario Brcic | Zagreb, Croatia | 7,336 |
+| 16 | [zvanjak](https://github.com/zvanjak) | Zvonimir Vanjak | Zagreb | 7,219 |
+| 17 | [viborc](https://github.com/viborc) | Vibor Cipan | Croatia | 7,209 |
+| 18 | [verona-dev](https://github.com/verona-dev) | Zoran G. Verona | Croatia | 6,981 |
+| 19 | [Domogo](https://github.com/Domogo) | Domagoj Satrapa | Pula, Croatia | 6,765 |
+| 20 | [SeloSlav](https://github.com/SeloSlav) | Martin Erlic | Zagreb | 6,760 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 5,420
 | 19 | [loboris](https://github.com/loboris) | Boris Lovosevic | Zagreb, Croatia | 406 |
 | 20 | [nibzard](https://github.com/nibzard) | Nikola Balic | Split, Croatia | 364 |
 
-Generated: 2026-10-20T19:05:06.208Z
+Generated: 2026-10-20T20:38:25.693Z

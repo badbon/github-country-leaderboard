@@ -1,6 +1,6 @@
 # Total Contributions - Yemen
 
-Generated: 2026-10-20T18:42:45.473Z
+Generated: 2026-10-20T20:20:02.475Z
 
 Users: 1205
 

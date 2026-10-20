@@ -1,8 +1,8 @@
 # Total Contributions - Armenia
 
-Generated: 2026-10-20T18:50:34.720Z
+Generated: 2026-10-20T20:25:25.585Z
 
-Users: 4032
+Users: 4031
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

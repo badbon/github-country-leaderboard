@@ -1,6 +1,6 @@
 # Public Contributions - Vietnam
 
-Generated: 2026-10-20T18:42:15.854Z
+Generated: 2026-10-20T20:19:37.761Z
 
 Users: 25834
 
@@ -14,7 +14,7 @@ Users: 25834
 | 6 | [ngbaoan](https://github.com/ngbaoan) | An Bao NGUYEN |  |  | Viet Nam | 18277 |
 | 7 | [ngocnhan2003](https://github.com/ngocnhan2003) | Nhan N. TRAN |  |  | Vietnam | 17994 |
 | 8 | [thienmdp](https://github.com/thienmdp) | Thien Mai | Duy Tan University |  | Viet Nam | 17047 |
-| 9 | [n24q02m](https://github.com/n24q02m) | Nguyen Quang Minh |  |  | Ha Noi, Viet Nam | 13486 |
+| 9 | [n24q02m](https://github.com/n24q02m) | Nguyen Quang Minh |  |  | Ha Noi, Viet Nam | 15860 |
 | 10 | [Dangkhanh1121](https://github.com/Dangkhanh1121) | Dang Khanh | Ho Chi Minh City University of Education |  | Viet Nam | 12959 |
 | 11 | [kevintruong](https://github.com/kevintruong) | Kevin Truong | Wii Learn  | kevinvutr | Vietnam | 10145 |
 | 12 | [vhpx](https://github.com/vhpx) | Sokora | @tutur3u | sokora_x | Ho Chi Minh, Vietnam | 9897 |

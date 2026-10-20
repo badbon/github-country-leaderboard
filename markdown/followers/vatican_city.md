@@ -1,8 +1,8 @@
 # Followers - Vatican City
 
-Generated: 2026-10-20T18:41:26.952Z
+Generated: 2026-10-20T20:18:52.374Z
 
-Users: 30
+Users: 31
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

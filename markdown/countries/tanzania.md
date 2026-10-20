@@ -21,9 +21,9 @@ Indexed users: 2,037
 | 7 | [zuck30](https://github.com/zuck30) | Shadrackovsky | Tanzania | 17,873 |
 | 8 | [fredy-me](https://github.com/fredy-me) | Melkizedek Fredy | Dar Es Salaam, Tanzania | 14,251 |
 | 9 | [Lurgic-error](https://github.com/Lurgic-error) | Lurge | Tanzania, Dar es salaam | 13,070 |
-| 10 | [tarxemo](https://github.com/tarxemo) | TarXemo | Dodoma-Tanzania | 11,527 |
-| 11 | [TheCollinsByte](https://github.com/TheCollinsByte) | Collins | Arusha, Tanzania | 11,380 |
-| 12 | [pro-cms](https://github.com/pro-cms) | Novath Thomas | TANZANIA | 10,825 |
+| 10 | [pro-cms](https://github.com/pro-cms) | Novath Thomas | TANZANIA | 11,577 |
+| 11 | [tarxemo](https://github.com/tarxemo) | TarXemo | Dodoma-Tanzania | 11,527 |
+| 12 | [TheCollinsByte](https://github.com/TheCollinsByte) | Collins | Arusha, Tanzania | 11,380 |
 | 13 | [mwakatumbula](https://github.com/mwakatumbula) | Francis Mwakatumbula | Dar es salaam,Tanzania | 9,814 |
 | 14 | [fredygerman](https://github.com/fredygerman) | Fredy Mgimba | Tanzania | 9,059 |
 | 15 | [fmwasekaga](https://github.com/fmwasekaga) | Fredrick Lusako Mwasekaga | Tanzania | 8,875 |
@@ -52,9 +52,9 @@ Indexed users: 2,037
 | 13 | [wizystudios](https://github.com/wizystudios) | khalifa Nadhir | tanzania | 1,975 |
 | 14 | [elishagerson](https://github.com/elishagerson) | Elisha Gerson | Mbeya, Tanzania | 1,727 |
 | 15 | [Gudi650](https://github.com/Gudi650) | Godluck Emmanuel Msangi | Tanzania | 1,551 |
-| 16 | [fmpiza](https://github.com/fmpiza) | fridolinmpiza, Msc. | Tanzania | 1,544 |
-| 17 | [JuliusNtale](https://github.com/JuliusNtale) | Julius Peter Ntale | Tanzania  | 1,505 |
-| 18 | [zayqu](https://github.com/zayqu) | Daraja | Dar Es Salaam, Tanzania | 1,466 |
+| 16 | [JuliusNtale](https://github.com/JuliusNtale) | Julius Peter Ntale | Tanzania  | 1,505 |
+| 17 | [zayqu](https://github.com/zayqu) | Daraja | Dar Es Salaam, Tanzania | 1,466 |
+| 18 | [fmpiza](https://github.com/fmpiza) | fridolinmpiza, Msc. | Tanzania | 1,438 |
 | 19 | [cephasgm](https://github.com/cephasgm) | CephasGM | Dar Es Salaam, Tanzania | 1,385 |
 | 20 | [Gideonamani](https://github.com/Gideonamani) | Gideonamani A. Marress | Dar es Salaam, Tanzania | 1,318 |
 
@@ -83,4 +83,4 @@ Indexed users: 2,037
 | 19 | [3nock](https://github.com/3nock) | Enock | Dar es Salaam, Tanzania | 187 |
 | 20 | [Mrhanstz](https://github.com/Mrhanstz) | HANSTZ | Africa Dodoma | 179 |
 
-Generated: 2026-10-20T18:34:57.501Z
+Generated: 2026-10-20T20:10:07.137Z

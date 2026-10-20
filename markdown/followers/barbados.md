@@ -1,12 +1,12 @@
 # Followers - Barbados
 
-Generated: 2026-10-20T18:54:03.252Z
+Generated: 2026-10-20T20:28:03.939Z
 
 Users: 132
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [daley-mottley](https://github.com/daley-mottley) | Daley Mottley |  | DaleyMottley | Barbados | 548 |
+| 1 | [daley-mottley](https://github.com/daley-mottley) | Daley Mottley |  | DaleyMottley | Barbados | 547 |
 | 2 | [kaku2015](https://github.com/kaku2015) | FishingNet | ｴﾇﾃｨﾃｨ ﾃﾞｰﾀ |  | Barbados | 427 |
 | 3 | [iRoachie](https://github.com/iRoachie) | Kyle Roach |  | roach_iam | Barbados | 299 |
 | 4 | [lukehefson](https://github.com/lukehefson) | Luke Hefson | @workbrew | lukehefson | Barbados | 275 |

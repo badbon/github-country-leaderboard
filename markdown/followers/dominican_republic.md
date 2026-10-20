@@ -1,16 +1,16 @@
 # Followers - Dominican Republic
 
-Generated: 2026-10-20T19:07:16.596Z
+Generated: 2026-10-20T20:40:47.666Z
 
 Users: 3298
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [alanhamlett](https://github.com/alanhamlett) | Alan Hamlett | @wakatime | alanhamlett | Dominican Republic | 5137 |
+| 1 | [alanhamlett](https://github.com/alanhamlett) | Alan Hamlett | @wakatime | alanhamlett | Dominican Republic | 5135 |
 | 2 | [johansitoweb](https://github.com/johansitoweb) | Johan Antonio | Jsoftsolutiom |  | Dominican republic | 940 |
 | 3 | [sgermosen](https://github.com/sgermosen) | Starling Germosen | @sgsoluciones  | stgermosen | Santo Domingo, Republica Dominicana | 729 |
 | 4 | [LeomarisReyes](https://github.com/LeomarisReyes) | Leomaris Reyes | Stemelle | LeomarisReyes11 | Dominican Republic | 565 |
-| 5 | [rmariuzzo](https://github.com/rmariuzzo) | Rubens Mariuzzo | @x-team  |  | Dominican Republic | 425 |
+| 5 | [rmariuzzo](https://github.com/rmariuzzo) | Rubens Mariuzzo | @x-team  |  | Dominican Republic | 428 |
 | 6 | [juliourena](https://github.com/juliourena) | Julio Ureña |  | JulioUrena | Dominican Republic | 313 |
 | 7 | [Topdev1234](https://github.com/Topdev1234) | Topdev | Dev Protocol |  | Dominican Republic | 309 |
 | 8 | [Char0394](https://github.com/Char0394) | Charlin Agramonte | @CrossGeeks  | Chard003 | Dominican Republic  | 275 |
