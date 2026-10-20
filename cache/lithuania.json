@@ -38059,8 +38059,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 209,
-    "publicContributions": 1,
+    "privateContributions": 36,
+    "publicContributions": 0,
     "createdAt": "2016-11-18T20:54:23Z"
   },
   {
@@ -38142,9 +38142,9 @@
     "location": "Kaunas, Lithuania",
     "company": "Kaunas University of Technology",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 19,
-    "publicContributions": 0,
+    "followers": 2,
+    "privateContributions": 21,
+    "publicContributions": 2,
     "createdAt": "2016-08-22T13:33:42Z"
   },
   {
@@ -38192,7 +38192,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 12,
     "createdAt": "2016-02-26T07:37:02Z"
   },
   {
@@ -38202,7 +38202,7 @@
     "location": "Lithuania, Kaunas",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-02-29T10:19:23Z"
@@ -38216,7 +38216,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2016-11-28T19:46:33Z"
   },
   {
@@ -38238,8 +38238,8 @@
     "location": "Lithuania",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 276,
+    "followers": 2,
+    "privateContributions": 112,
     "publicContributions": 0,
     "createdAt": "2016-11-12T18:23:51Z"
   },
@@ -38256,18 +38256,6 @@
     "createdAt": "2016-06-01T10:24:52Z"
   },
   {
-    "login": "Felkin1",
-    "name": "Felkin Felkin",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/19386764?s=72&u=ca896fa49adce3649e9b2e203e863aa9c89d55ac&v=4",
-    "location": "Lithuania",
-    "company": "Kaunas University of Technology",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2016-05-16T10:17:19Z"
-  },
-  {
     "login": "GytisO",
     "name": "Gytis Ožiūnas",
     "avatarUrl": "https://avatars.githubusercontent.com/u/19435675?s=72&u=d9f1e1837411970d0c5e7d699443a246e932e60b&v=4",
@@ -38276,7 +38264,7 @@
     "twitterUsername": "GytisOziunas",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2016-05-18T18:20:40Z"
   },
   {
