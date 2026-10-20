@@ -1,8 +1,8 @@
 # Total Contributions - New Zealand
 
-Generated: 2026-10-20T02:44:47.426Z
+Generated: 2026-10-20T05:55:58.792Z
 
-Users: 12146
+Users: 12145
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -23,6 +23,6 @@ Users: 12146
 | 15 | [b0nsun9](https://github.com/b0nsun9) | Bonsung Koo |  |  | Wellington, New Zealand | 12777 |
 | 16 | [ChanMeng666](https://github.com/ChanMeng666) | Chan Meng | Lincoln University (NZ) | chanmeng666 | New Zealand | 12502 |
 | 17 | [sethyates](https://github.com/sethyates) | Seth Yates |  |  | Auckland, New Zealand | 12300 |
-| 18 | [masaclaw](https://github.com/masaclaw) | Tom Peck |  |  | Wellington, New Zealand | 12094 |
-| 19 | [JonathanGiles](https://github.com/JonathanGiles) | Jonathan Giles | @Microsoft | JonathanGiles | New Zealand | 11641 |
-| 20 | [passcod](https://github.com/passcod) | Félix Saparelli | @BeyondEssential |  | New Zealand | 11579 |
+| 18 | [JhonaCodes](https://github.com/JhonaCodes) | Jhonacode | Jhonacode |  | New Zealand | 12275 |
+| 19 | [masaclaw](https://github.com/masaclaw) | Tom Peck |  |  | Wellington, New Zealand | 12094 |
+| 20 | [JonathanGiles](https://github.com/JonathanGiles) | Jonathan Giles | @Microsoft | JonathanGiles | New Zealand | 11641 |

@@ -1,6 +1,6 @@
 # Total Contributions - North Macedonia
 
-Generated: 2026-10-20T02:46:39.796Z
+Generated: 2026-10-20T05:58:54.095Z
 
 Users: 1924
 
@@ -10,7 +10,7 @@ Users: 1924
 | 2 | [ssbarbee](https://github.com/ssbarbee) |  |  |  | Skopje, Macedonia | 10836 |
 | 3 | [Bogatinovski](https://github.com/Bogatinovski) | Dejan Bogatinovski |  |  | Macedonia [FYROM] | 9351 |
 | 4 | [DarkoMK](https://github.com/DarkoMK) | Darko Cebov |  |  | Kochani, Macedonia | 9136 |
-| 5 | [nushkovg](https://github.com/nushkovg) | Goran Nushkov |  |  | Skopje, North Macedonia | 7086 |
+| 5 | [nushkovg](https://github.com/nushkovg) | Goran Nushkov |  |  | Skopje, North Macedonia | 8006 |
 | 6 | [davorminchorov](https://github.com/davorminchorov) | Davor Minchorov |  | davorminchorov | Skopje, Macedonia | 6675 |
 | 7 | [andrejsshell](https://github.com/andrejsshell) | Andrej | @usekaneo | andrejsshell | Skopje | 6259 |
 | 8 | [sasojadrovski](https://github.com/sasojadrovski) | Sasho Jadrovski |  | sasojadrovski | Skopje, Macedonia | 5666 |

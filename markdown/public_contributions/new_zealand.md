@@ -1,8 +1,8 @@
 # Public Contributions - New Zealand
 
-Generated: 2026-10-20T02:44:47.426Z
+Generated: 2026-10-20T05:55:58.792Z
 
-Users: 12146
+Users: 12145
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|

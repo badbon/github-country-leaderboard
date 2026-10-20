@@ -1,6 +1,6 @@
 # Total Contributions - Montenegro
 
-Generated: 2026-10-20T02:41:02.670Z
+Generated: 2026-10-20T05:52:57.318Z
 
 Users: 888
 
@@ -21,7 +21,7 @@ Users: 888
 | 13 | [zee229](https://github.com/zee229) | Nikita Yastreb |  |  | Montenegro, Bar | 5549 |
 | 14 | [pokidov](https://github.com/pokidov) | Kirill Pokidov | AAA Consulting |  | Montenegro | 5536 |
 | 15 | [gezimarapaj](https://github.com/gezimarapaj) |  | @vadahq |  | Montenegro | 5441 |
-| 16 | [milunradonjic](https://github.com/milunradonjic) | Milun Radonjic |  |  | Podgorica | 4935 |
+| 16 | [milunradonjic](https://github.com/milunradonjic) | Milun Radonjic |  |  | Podgorica | 4996 |
 | 17 | [IvanPin](https://github.com/IvanPin) | Ivan Ponamarev |  | IvanPonamarev | Podgorica, Montenegro | 4834 |
 | 18 | [kayamuskas](https://github.com/kayamuskas) | Alexandr Logvinov | Kayama D.O.O. |  | Montenegro | 4714 |
 | 19 | [SashaRX](https://github.com/SashaRX) | SashaRX | none |  | Montenegro | 4506 |

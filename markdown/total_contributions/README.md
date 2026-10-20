@@ -109,7 +109,7 @@ Published countries: 234
 | Jamaica | 1,272 | [View](./jamaica.md) |
 | Jersey | 139 | [View](./jersey.md) |
 | Jordan | 4,004 | [View](./jordan.md) |
-| Kazakhstan | 5,628 | [View](./kazakhstan.md) |
+| Kazakhstan | 5,629 | [View](./kazakhstan.md) |
 | Kenya | 24,019 | [View](./kenya.md) |
 | Kiribati | 4 | [View](./kiribati.md) |
 | Kuwait | 796 | [View](./kuwait.md) |
@@ -139,17 +139,17 @@ Published countries: 234
 | Micronesia | 11 | [View](./micronesia.md) |
 | Moldova | 1,747 | [View](./moldova.md) |
 | Monaco | 142 | [View](./monaco.md) |
-| Mongolia | 805 | [View](./mongolia.md) |
+| Mongolia | 804 | [View](./mongolia.md) |
 | Montenegro | 888 | [View](./montenegro.md) |
 | Montserrat | 291 | [View](./montserrat.md) |
-| Morocco | 9,622 | [View](./morocco.md) |
+| Morocco | 9,621 | [View](./morocco.md) |
 | Mozambique | 1,175 | [View](./mozambique.md) |
 | Myanmar | 2,056 | [View](./myanmar.md) |
 | Namibia | 475 | [View](./namibia.md) |
 | Nauru | 3 | [View](./nauru.md) |
 | Nepal | 14,104 | [View](./nepal.md) |
 | New Caledonia | 111 | [View](./new_caledonia.md) |
-| New Zealand | 12,146 | [View](./new_zealand.md) |
+| New Zealand | 12,145 | [View](./new_zealand.md) |
 | Nicaragua | 1,395 | [View](./nicaragua.md) |
 | Niger | 175 | [View](./niger.md) |
 | Nigeria | 33,181 | [View](./nigeria.md) |
@@ -199,7 +199,7 @@ Published countries: 234
 | Somalia | 865 | [View](./somalia.md) |
 | South Africa | 17,925 | [View](./south_africa.md) |
 | South Georgia | 6 | [View](./south_georgia.md) |
-| South Korea | 56,905 | [View](./south_korea.md) |
+| South Korea | 56,907 | [View](./south_korea.md) |
 | South Sudan | 132 | [View](./south_sudan.md) |
 | Sri Lanka | 18,317 | [View](./sri_lanka.md) |
 | Sudan | 727 | [View](./sudan.md) |
@@ -239,4 +239,4 @@ Published countries: 234
 | Zambia | 1,337 | [View](./zambia.md) |
 | Zimbabwe | 1,656 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-20T05:50:41.457Z
+Generated: 2026-10-20T06:02:37.698Z

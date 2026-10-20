@@ -16,7 +16,7 @@ Indexed users: 1,924
 | 2 | [ssbarbee](https://github.com/ssbarbee) |  | Skopje, Macedonia | 10,836 |
 | 3 | [Bogatinovski](https://github.com/Bogatinovski) | Dejan Bogatinovski | Macedonia [FYROM] | 9,351 |
 | 4 | [DarkoMK](https://github.com/DarkoMK) | Darko Cebov | Kochani, Macedonia | 9,136 |
-| 5 | [nushkovg](https://github.com/nushkovg) | Goran Nushkov | Skopje, North Macedonia | 7,086 |
+| 5 | [nushkovg](https://github.com/nushkovg) | Goran Nushkov | Skopje, North Macedonia | 8,006 |
 | 6 | [davorminchorov](https://github.com/davorminchorov) | Davor Minchorov | Skopje, Macedonia | 6,675 |
 | 7 | [andrejsshell](https://github.com/andrejsshell) | Andrej | Skopje | 6,259 |
 | 8 | [sasojadrovski](https://github.com/sasojadrovski) | Sasho Jadrovski | Skopje, Macedonia | 5,666 |
@@ -47,9 +47,9 @@ Indexed users: 1,924
 | 8 | [ivasilov](https://github.com/ivasilov) | Ivan Vasilov | Skopje, Macedonia | 1,171 |
 | 9 | [VelikovPetar](https://github.com/VelikovPetar) | Petar Velikov | Skopje, Republic of Macedonia | 1,076 |
 | 10 | [EienMosu](https://github.com/EienMosu) | Ozkan Selcuk | North Macedonia/Skopje | 1,054 |
-| 11 | [LordDeatHunter](https://github.com/LordDeatHunter) | DH | Macedonia | 1,010 |
-| 12 | [martintrifunov](https://github.com/martintrifunov) | Martin Trifunov | Skopje, North Macedonia | 1,008 |
-| 13 | [isekovanic](https://github.com/isekovanic) | Ivan Sekovanikj | Skopje, Macedonia | 1,006 |
+| 11 | [isekovanic](https://github.com/isekovanic) | Ivan Sekovanikj | Skopje, Macedonia | 1,030 |
+| 12 | [LordDeatHunter](https://github.com/LordDeatHunter) | DH | Macedonia | 1,010 |
+| 13 | [martintrifunov](https://github.com/martintrifunov) | Martin Trifunov | Skopje, North Macedonia | 1,008 |
 | 14 | [ardijancuri](https://github.com/ardijancuri) | Ardijan Curi | Skopje | 982 |
 | 15 | [ssbarbee](https://github.com/ssbarbee) |  | Skopje, Macedonia | 890 |
 | 16 | [gocemitevski](https://github.com/gocemitevski) | Goce Mitevski | Skopje, North Macedonia | 887 |
@@ -83,4 +83,4 @@ Indexed users: 1,924
 | 19 | [bor0](https://github.com/bor0) | Boro Sitnikovski | Skopje, North Macedonia | 166 |
 | 20 | [gdamjan](https://github.com/gdamjan) | Дамјан Георгиевски | Skopje, Macedonia | 145 |
 
-Generated: 2026-10-20T02:46:39.796Z
+Generated: 2026-10-20T05:58:54.095Z

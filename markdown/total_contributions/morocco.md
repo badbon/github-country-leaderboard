@@ -1,8 +1,8 @@
 # Total Contributions - Morocco
 
-Generated: 2026-10-20T02:41:52.112Z
+Generated: 2026-10-20T05:53:08.651Z
 
-Users: 9622
+Users: 9621
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -24,5 +24,5 @@ Users: 9622
 | 16 | [tawachdev](https://github.com/tawachdev) | Mohamed Taaouach | Independent Product Engineer |  | Khenifra, Morocco | 7089 |
 | 17 | [Vitalcheffe](https://github.com/Vitalcheffe) | Amine Harch el korane | Harch Corp |  | Casablanca, Morocco | 6916 |
 | 18 | [KhalilSelyan](https://github.com/KhalilSelyan) | Khalil Selyan | Teneo Protocol | KhalilSelyan | Marrakesh, Morocco | 6851 |
-| 19 | [ansezz](https://github.com/ansezz) | Anass Ez-zouaine | @XCO-Agency  | ansezz | Meknes, Morocco | 6411 |
-| 20 | [aimranee](https://github.com/aimranee) | Aimrane Essakhi | Adria Business & Technology |  | Morocco | 6318 |
+| 19 | [yassnemo](https://github.com/yassnemo) | Yassine Erradouani | @Phaxel-edi |  | Casablanca, Morocco | 6551 |
+| 20 | [ansezz](https://github.com/ansezz) | Anass Ez-zouaine | @XCO-Agency  | ansezz | Meknes, Morocco | 6411 |

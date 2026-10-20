@@ -1,8 +1,8 @@
 # Followers - Morocco
 
-Generated: 2026-10-20T02:41:52.112Z
+Generated: 2026-10-20T05:53:08.651Z
 
-Users: 9622
+Users: 9621
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -25,4 +25,4 @@ Users: 9622
 | 17 | [MohammedHarmouche](https://github.com/MohammedHarmouche) | Mohammed Harmouche |  | Harmouche_Med | Morocco | 830 |
 | 18 | [DevOam](https://github.com/DevOam) | mohamed reda lakouas | ISGI |  | Morocco | 823 |
 | 19 | [walidbosso](https://github.com/walidbosso) | Walid BOUSSOU |  |  | Tetouan, Morocco. | 821 |
-| 20 | [yassnemo](https://github.com/yassnemo) | Yassine Erradouani | @Phaxel-edi |  | Casablanca, Morocco | 741 |
+| 20 | [yassnemo](https://github.com/yassnemo) | Yassine Erradouani | @Phaxel-edi |  | Casablanca, Morocco | 738 |

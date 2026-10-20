@@ -74,7 +74,7 @@ Indexed users: 475
 | 10 | [WilhelmK109](https://github.com/WilhelmK109) | Wilhelm Naayole Kamulunga | Windhoek, Namibia | 58 |
 | 11 | [aaron-muti-420](https://github.com/aaron-muti-420) | Aaron Markus | windhoek | 56 |
 | 12 | [douglasmasho](https://github.com/douglasmasho) | Douglas Mashonganyika | Windhoek | 51 |
-| 13 | [ShifidiMetumoN](https://github.com/ShifidiMetumoN) | ShifidiM | Windhoek | 49 |
+| 13 | [ShifidiMetumoN](https://github.com/ShifidiMetumoN) | ShifidiM | Windhoek | 47 |
 | 14 | [Amunwe-ENE](https://github.com/Amunwe-ENE) | Erastus Amunwe | Windhoek, Namibia | 45 |
 | 15 | [euricodande](https://github.com/euricodande) | Eurico Dande | Namibia-Windhoek | 43 |
 | 16 | [KuberKode](https://github.com/KuberKode) | Johan Strydom | Windhoek, Namibia | 40 |
@@ -83,4 +83,4 @@ Indexed users: 475
 | 19 | [Hilya02](https://github.com/Hilya02) | Hilya Ntinda Tuyakula | Windhoek, Namibia | 36 |
 | 20 | [erassynathingo](https://github.com/erassynathingo) | Erastus Nathingo | Windhoek | 33 |
 
-Generated: 2026-10-20T02:43:27.312Z
+Generated: 2026-10-20T05:54:45.572Z

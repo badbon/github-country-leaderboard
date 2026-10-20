@@ -1,6 +1,6 @@
 # Public Contributions - North Macedonia
 
-Generated: 2026-10-20T02:46:39.796Z
+Generated: 2026-10-20T05:58:54.095Z
 
 Users: 1924
 
@@ -16,9 +16,9 @@ Users: 1924
 | 8 | [ivasilov](https://github.com/ivasilov) | Ivan Vasilov | @supabase |  | Skopje, Macedonia | 1171 |
 | 9 | [VelikovPetar](https://github.com/VelikovPetar) | Petar Velikov | @GetStream |  | Skopje, Republic of Macedonia | 1076 |
 | 10 | [EienMosu](https://github.com/EienMosu) | Ozkan Selcuk |  |  | North Macedonia/Skopje | 1054 |
-| 11 | [LordDeatHunter](https://github.com/LordDeatHunter) | DH |  |  | Macedonia | 1010 |
-| 12 | [martintrifunov](https://github.com/martintrifunov) | Martin Trifunov | CodeChem |  | Skopje, North Macedonia | 1008 |
-| 13 | [isekovanic](https://github.com/isekovanic) | Ivan Sekovanikj | @GetStream |  | Skopje, Macedonia | 1006 |
+| 11 | [isekovanic](https://github.com/isekovanic) | Ivan Sekovanikj | @GetStream |  | Skopje, Macedonia | 1030 |
+| 12 | [LordDeatHunter](https://github.com/LordDeatHunter) | DH |  |  | Macedonia | 1010 |
+| 13 | [martintrifunov](https://github.com/martintrifunov) | Martin Trifunov | CodeChem |  | Skopje, North Macedonia | 1008 |
 | 14 | [ardijancuri](https://github.com/ardijancuri) | Ardijan Curi | ONINOVA |  | Skopje | 982 |
 | 15 | [ssbarbee](https://github.com/ssbarbee) |  |  |  | Skopje, Macedonia | 890 |
 | 16 | [gocemitevski](https://github.com/gocemitevski) | Goce Mitevski |  | GoceMitevski | Skopje, North Macedonia | 887 |

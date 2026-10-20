@@ -1,6 +1,6 @@
 # Morocco
 
-Indexed users: 9,622
+Indexed users: 9,621
 
 | Leaderboard | Link |
 |---|---|
@@ -30,8 +30,8 @@ Indexed users: 9,622
 | 16 | [tawachdev](https://github.com/tawachdev) | Mohamed Taaouach | Khenifra, Morocco | 7,089 |
 | 17 | [Vitalcheffe](https://github.com/Vitalcheffe) | Amine Harch el korane | Casablanca, Morocco | 6,916 |
 | 18 | [KhalilSelyan](https://github.com/KhalilSelyan) | Khalil Selyan | Marrakesh, Morocco | 6,851 |
-| 19 | [ansezz](https://github.com/ansezz) | Anass Ez-zouaine | Meknes, Morocco | 6,411 |
-| 20 | [aimranee](https://github.com/aimranee) | Aimrane Essakhi | Morocco | 6,318 |
+| 19 | [yassnemo](https://github.com/yassnemo) | Yassine Erradouani | Casablanca, Morocco | 6,551 |
+| 20 | [ansezz](https://github.com/ansezz) | Anass Ez-zouaine | Meknes, Morocco | 6,411 |
 
 ## Public Contributions
 
@@ -81,6 +81,6 @@ Indexed users: 9,622
 | 17 | [MohammedHarmouche](https://github.com/MohammedHarmouche) | Mohammed Harmouche | Morocco | 830 |
 | 18 | [DevOam](https://github.com/DevOam) | mohamed reda lakouas | Morocco | 823 |
 | 19 | [walidbosso](https://github.com/walidbosso) | Walid BOUSSOU | Tetouan, Morocco. | 821 |
-| 20 | [yassnemo](https://github.com/yassnemo) | Yassine Erradouani | Casablanca, Morocco | 741 |
+| 20 | [yassnemo](https://github.com/yassnemo) | Yassine Erradouani | Casablanca, Morocco | 738 |
 
-Generated: 2026-10-20T02:41:52.112Z
+Generated: 2026-10-20T05:53:08.651Z

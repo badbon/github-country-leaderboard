@@ -27,7 +27,7 @@ Indexed users: 888
 | 13 | [zee229](https://github.com/zee229) | Nikita Yastreb | Montenegro, Bar | 5,549 |
 | 14 | [pokidov](https://github.com/pokidov) | Kirill Pokidov | Montenegro | 5,536 |
 | 15 | [gezimarapaj](https://github.com/gezimarapaj) |  | Montenegro | 5,441 |
-| 16 | [milunradonjic](https://github.com/milunradonjic) | Milun Radonjic | Podgorica | 4,935 |
+| 16 | [milunradonjic](https://github.com/milunradonjic) | Milun Radonjic | Podgorica | 4,996 |
 | 17 | [IvanPin](https://github.com/IvanPin) | Ivan Ponamarev | Podgorica, Montenegro | 4,834 |
 | 18 | [kayamuskas](https://github.com/kayamuskas) | Alexandr Logvinov | Montenegro | 4,714 |
 | 19 | [SashaRX](https://github.com/SashaRX) | SashaRX | Montenegro | 4,506 |
@@ -83,4 +83,4 @@ Indexed users: 888
 | 19 | [vovkasm](https://github.com/vovkasm) | Vladimir Timofeev | Budva, Montenegro | 99 |
 | 20 | [marcoroganovic](https://github.com/marcoroganovic) | Marko Roganovic | Montenegro | 89 |
 
-Generated: 2026-10-20T02:41:02.670Z
+Generated: 2026-10-20T05:52:57.318Z

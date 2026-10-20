@@ -1,6 +1,6 @@
 # New Zealand
 
-Indexed users: 12,146
+Indexed users: 12,145
 
 | Leaderboard | Link |
 |---|---|
@@ -29,9 +29,9 @@ Indexed users: 12,146
 | 15 | [b0nsun9](https://github.com/b0nsun9) | Bonsung Koo | Wellington, New Zealand | 12,777 |
 | 16 | [ChanMeng666](https://github.com/ChanMeng666) | Chan Meng | New Zealand | 12,502 |
 | 17 | [sethyates](https://github.com/sethyates) | Seth Yates | Auckland, New Zealand | 12,300 |
-| 18 | [masaclaw](https://github.com/masaclaw) | Tom Peck | Wellington, New Zealand | 12,094 |
-| 19 | [JonathanGiles](https://github.com/JonathanGiles) | Jonathan Giles | New Zealand | 11,641 |
-| 20 | [passcod](https://github.com/passcod) | Félix Saparelli | New Zealand | 11,579 |
+| 18 | [JhonaCodes](https://github.com/JhonaCodes) | Jhonacode | New Zealand | 12,275 |
+| 19 | [masaclaw](https://github.com/masaclaw) | Tom Peck | Wellington, New Zealand | 12,094 |
+| 20 | [JonathanGiles](https://github.com/JonathanGiles) | Jonathan Giles | New Zealand | 11,641 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 12,146
 | 19 | [cortesi](https://github.com/cortesi) | Aldo Cortesi | Dunedin, New Zealand | 1,019 |
 | 20 | [patevs](https://github.com/patevs) | Pat | New Zealand | 917 |
 
-Generated: 2026-10-20T02:44:47.426Z
+Generated: 2026-10-20T05:55:58.792Z

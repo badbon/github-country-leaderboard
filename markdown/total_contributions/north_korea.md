@@ -1,6 +1,6 @@
 # Total Contributions - North Korea
 
-Generated: 2026-10-20T02:46:36.853Z
+Generated: 2026-10-20T05:57:49.679Z
 
 Users: 185
 
@@ -18,9 +18,9 @@ Users: 185
 | 10 | [1zumiSagiri](https://github.com/1zumiSagiri) | Vincent Chan |  |  | Pyongyang | 594 |
 | 11 | [Duzopy](https://github.com/Duzopy) | Dupozy | South Korea |  | North Korea | 574 |
 | 12 | [chihongze](https://github.com/chihongze) | chihongze |  |  |  P'yŏngyang, North Korea | 531 |
-| 13 | [dddqmmx](https://github.com/dddqmmx) | PaulPerkenstein | Workers' Party of Korea |  | Pyongyang | 506 |
+| 13 | [dddqmmx](https://github.com/dddqmmx) | PaulPerkenstein | Workers' Party of Korea |  | Pyongyang | 508 |
 | 14 | [DillerOFire](https://github.com/DillerOFire) | VerpaSRP |  |  | North Korea | 477 |
-| 15 | [renxiaoyaoo](https://github.com/renxiaoyaoo) | renxiaoyao |  |  | North Korea	 | 387 |
+| 15 | [renxiaoyaoo](https://github.com/renxiaoyaoo) | renxiaoyao |  |  | North Korea	 | 391 |
 | 16 | [Hexamouse](https://github.com/Hexamouse) | Muhamad Dzikri Maulana |  |  | Pyongyang, North Korea | 366 |
 | 17 | [PookiePepelsss](https://github.com/PookiePepelsss) | Pookie | @Nebula-Softworks \| Nebula Softworks |  | North Korea | 351 |
 | 18 | [l1vstudios](https://github.com/l1vstudios) | L1V |  |  | North Korea | 308 |
