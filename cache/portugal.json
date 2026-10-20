@@ -36932,7 +36932,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 0,
     "createdAt": "2022-10-18T15:50:15Z"
   },
   {
@@ -36942,9 +36942,9 @@
     "location": "Porto, Portugal",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 58,
-    "publicContributions": 4,
+    "followers": 3,
+    "privateContributions": 447,
+    "publicContributions": 7,
     "createdAt": "2023-01-17T12:48:20Z"
   },
   {
@@ -36968,7 +36968,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 57,
+    "publicContributions": 64,
     "createdAt": "2023-05-04T14:43:46Z"
   },
   {
@@ -36991,8 +36991,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 144,
-    "publicContributions": 110,
+    "privateContributions": 141,
+    "publicContributions": 96,
     "createdAt": "2021-03-30T16:42:04Z"
   },
   {
@@ -37002,9 +37002,9 @@
     "location": "Lisbon, Portugal",
     "company": "",
     "twitterUsername": "",
-    "followers": 163,
-    "privateContributions": 17224,
-    "publicContributions": 100,
+    "followers": 159,
+    "privateContributions": 13736,
+    "publicContributions": 96,
     "createdAt": "2023-09-09T12:52:28Z"
   },
   {
@@ -37014,9 +37014,9 @@
     "location": "Portugal",
     "company": "",
     "twitterUsername": "",
-    "followers": 124,
-    "privateContributions": 39,
-    "publicContributions": 194,
+    "followers": 126,
+    "privateContributions": 15,
+    "publicContributions": 99,
     "createdAt": "2023-08-02T17:28:29Z"
   },
   {
@@ -37026,9 +37026,9 @@
     "location": "Porto, Portugal",
     "company": "42Porto",
     "twitterUsername": "",
-    "followers": 102,
-    "privateContributions": 69,
-    "publicContributions": 103,
+    "followers": 104,
+    "privateContributions": 63,
+    "publicContributions": 105,
     "createdAt": "2023-07-25T09:11:38Z"
   },
   {
@@ -37038,7 +37038,7 @@
     "location": "Portugal",
     "company": "",
     "twitterUsername": "",
-    "followers": 86,
+    "followers": 83,
     "privateContributions": 0,
     "publicContributions": 51,
     "createdAt": "2023-09-25T13:12:50Z"
@@ -37050,9 +37050,9 @@
     "location": "Porto, Portugal",
     "company": "",
     "twitterUsername": "",
-    "followers": 72,
+    "followers": 70,
     "privateContributions": 0,
-    "publicContributions": 204,
+    "publicContributions": 188,
     "createdAt": "2023-10-07T13:23:14Z"
   },
   {
@@ -37062,21 +37062,21 @@
     "location": "Porto, Portugal",
     "company": "",
     "twitterUsername": "",
-    "followers": 71,
-    "privateContributions": 388,
-    "publicContributions": 543,
+    "followers": 72,
+    "privateContributions": 514,
+    "publicContributions": 462,
     "createdAt": "2023-11-06T20:12:58Z"
   },
   {
     "login": "larocquel",
     "name": "Leonardo La Rocque",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/144123533?s=72&u=91ebc475281eb38fbbeaf9588a1ecd74f6cb9165&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/144123533?s=72&u=41c446975660f25c365c0680bf093d81c2238111&v=4",
     "location": "Porto, Portugal",
     "company": "MagraThea",
     "twitterUsername": "",
-    "followers": 63,
-    "privateContributions": 48,
-    "publicContributions": 213,
+    "followers": 66,
+    "privateContributions": 14,
+    "publicContributions": 387,
     "createdAt": "2023-09-05T11:26:44Z"
   },
   {
@@ -37084,11 +37084,11 @@
     "name": "Vinicius Vaccari",
     "avatarUrl": "https://avatars.githubusercontent.com/u/145031278?s=72&u=3f9fb9eea234fc1e1e7b50d2ff811cb6bb655d96&v=4",
     "location": "Porto (Portugal)",
-    "company": "42 Porto",
+    "company": "",
     "twitterUsername": "",
-    "followers": 59,
+    "followers": 55,
     "privateContributions": 0,
-    "publicContributions": 549,
+    "publicContributions": 506,
     "createdAt": "2023-09-14T13:57:52Z"
   },
   {
@@ -37099,8 +37099,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 53,
-    "privateContributions": 6,
-    "publicContributions": 384,
+    "privateContributions": 67,
+    "publicContributions": 263,
     "createdAt": "2023-12-16T13:59:57Z"
   },
   {
@@ -37110,7 +37110,7 @@
     "location": "Portugal",
     "company": "298504375",
     "twitterUsername": "",
-    "followers": 53,
+    "followers": 52,
     "privateContributions": 14,
     "publicContributions": 90,
     "createdAt": "2023-11-09T16:00:09Z"
@@ -37122,9 +37122,9 @@
     "location": "Porto, Portugal",
     "company": "",
     "twitterUsername": "",
-    "followers": 48,
-    "privateContributions": 3,
-    "publicContributions": 58,
+    "followers": 47,
+    "privateContributions": 0,
+    "publicContributions": 45,
     "createdAt": "2023-08-17T22:04:01Z"
   },
   {
@@ -37134,9 +37134,9 @@
     "location": "Porto, Portugal",
     "company": "42 Porto",
     "twitterUsername": "",
-    "followers": 47,
+    "followers": 49,
     "privateContributions": 0,
-    "publicContributions": 404,
+    "publicContributions": 263,
     "createdAt": "2023-09-25T14:22:16Z"
   },
   {
@@ -37146,9 +37146,9 @@
     "location": "Portugal / Lisbon",
     "company": "",
     "twitterUsername": "",
-    "followers": 46,
+    "followers": 41,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 8,
     "createdAt": "2023-07-14T09:15:54Z"
   },
   {
@@ -37158,9 +37158,9 @@
     "location": "Lisbon, Portugal",
     "company": "",
     "twitterUsername": "",
-    "followers": 45,
-    "privateContributions": 13,
-    "publicContributions": 4,
+    "followers": 42,
+    "privateContributions": 7,
+    "publicContributions": 3,
     "createdAt": "2023-09-05T14:45:19Z"
   },
   {

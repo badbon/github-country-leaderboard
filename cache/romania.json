@@ -37268,7 +37268,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 13,
     "createdAt": "2021-03-08T16:38:37Z"
   },
   {
@@ -37279,7 +37279,7 @@
     "company": "Datarevolt",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 8,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-03-31T22:59:49Z"
   },
@@ -37344,18 +37344,6 @@
     "createdAt": "2021-05-27T07:26:12Z"
   },
   {
-    "login": "bogdan-ungureanu",
-    "name": "Bogdan Ungureanu",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/82972875?s=72&u=2a896c2bf1430c44f856d2ff2b8055191581cd79&v=4",
-    "location": "Romania",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 2,
-    "createdAt": "2021-04-21T19:06:58Z"
-  },
-  {
     "login": "andreip024",
     "name": "Andrei Parv",
     "avatarUrl": "https://avatars.githubusercontent.com/u/80414555?s=72&u=453469a52596946d8c8ab8b8048d7a99767908d7&v=4",
@@ -37363,7 +37351,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 0,
+    "privateContributions": 1596,
     "publicContributions": 9,
     "createdAt": "2021-03-10T16:43:07Z"
   },
@@ -37375,7 +37363,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 234,
+    "privateContributions": 240,
     "publicContributions": 4,
     "createdAt": "2021-03-08T17:47:19Z"
   },
@@ -37386,8 +37374,8 @@
     "location": "Bucharest, Romania",
     "company": "PwC Romania",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 186,
+    "followers": 3,
+    "privateContributions": 187,
     "publicContributions": 0,
     "createdAt": "2021-02-03T15:46:40Z"
   },
@@ -37398,7 +37386,7 @@
     "location": "Romania",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2021-01-05T13:40:58Z"
@@ -37406,13 +37394,13 @@
   {
     "login": "richardteaman",
     "name": "jeff",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/77451809?s=72&u=9c96f496a09be51c4b44bb1bb855601922abc754&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/77451809?s=72&u=c399b891eb0dd7c958d64fefb2aadc609df9069b&v=4",
     "location": "Romania ",
     "company": "",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 5,
     "createdAt": "2021-01-14T15:35:49Z"
   },
   {
@@ -37432,11 +37420,11 @@
     "name": "Burlakov Mikhail",
     "avatarUrl": "https://avatars.githubusercontent.com/u/85434476?s=72&u=f2f4dc5478b8c8213e2f176a0effef11031bf010&v=4",
     "location": "Romania",
-    "company": "1C",
+    "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 458,
-    "publicContributions": 13,
+    "followers": 3,
+    "privateContributions": 509,
+    "publicContributions": 122,
     "createdAt": "2021-06-06T09:04:27Z"
   },
   {
@@ -37458,7 +37446,7 @@
     "location": "Cluj-Napoca, Romania",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-03-12T14:06:54Z"
@@ -37472,7 +37460,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 106,
+    "publicContributions": 101,
     "createdAt": "2021-01-07T19:10:23Z"
   },
   {
