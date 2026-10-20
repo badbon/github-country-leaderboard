@@ -37747,8 +37747,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 561,
-    "publicContributions": 1580,
+    "privateContributions": 581,
+    "publicContributions": 1583,
     "createdAt": "2020-04-06T11:40:33Z"
   },
   {
@@ -37759,8 +37759,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 5,
-    "publicContributions": 0,
+    "privateContributions": 1,
+    "publicContributions": 20,
     "createdAt": "2020-10-08T09:48:03Z"
   },
   {
@@ -37771,7 +37771,7 @@
     "company": "Budapest University of Technology and Economics",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 434,
+    "privateContributions": 420,
     "publicContributions": 21,
     "createdAt": "2020-08-18T15:43:51Z"
   },
@@ -37792,11 +37792,11 @@
     "name": "Marcell Leleszi",
     "avatarUrl": "https://avatars.githubusercontent.com/u/59964679?s=72&u=3fd5bf762fec78f197a2d055989b8f77e73461bc&v=4",
     "location": "Budapest",
-    "company": "@google",
+    "company": "@rerun-io",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 60,
-    "publicContributions": 123,
+    "privateContributions": 71,
+    "publicContributions": 116,
     "createdAt": "2020-01-16T13:38:14Z"
   },
   {
@@ -37842,9 +37842,9 @@
     "location": "Budapest",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 1615,
+    "publicContributions": 1896,
     "createdAt": "2020-06-29T17:32:09Z"
   },
   {
@@ -37867,8 +37867,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 768,
-    "publicContributions": 443,
+    "privateContributions": 552,
+    "publicContributions": 410,
     "createdAt": "2020-05-05T12:46:24Z"
   },
   {
@@ -37885,14 +37885,14 @@
   },
   {
     "login": "kokimester",
-    "name": "Daniel Fejes",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/69363430?s=72&u=3d4932b5f22ebc8dcab48d67a63b1356edd1e084&v=4",
+    "name": "Fejes Daniel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/69363430?s=72&u=3cd81758d16eaf220647324d13781f685127a923&v=4",
     "location": "Budapest",
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 22,
-    "publicContributions": 32,
+    "privateContributions": 41,
+    "publicContributions": 33,
     "createdAt": "2020-08-07T18:11:59Z"
   },
   {
@@ -37938,7 +37938,7 @@
     "location": "Budapest",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-01-28T12:46:00Z"
@@ -37951,8 +37951,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 2,
-    "publicContributions": 23,
+    "privateContributions": 27,
+    "publicContributions": 21,
     "createdAt": "2020-11-30T20:15:53Z"
   },
   {
