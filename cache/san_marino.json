@@ -488,7 +488,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 78,
+    "publicContributions": 80,
     "createdAt": "2015-10-14T08:40:13Z"
   },
   {
@@ -548,7 +548,7 @@
     "twitterUsername": "",
     "followers": 16,
     "privateContributions": 244,
-    "publicContributions": 491,
+    "publicContributions": 492,
     "createdAt": "2013-08-16T11:54:27Z"
   },
   {
@@ -583,7 +583,7 @@
     "company": "@pop-sm",
     "twitterUsername": "nicorsm",
     "followers": 36,
-    "privateContributions": 168,
+    "privateContributions": 169,
     "publicContributions": 1,
     "createdAt": "2012-11-27T22:31:03Z"
   },
@@ -679,8 +679,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 33,
-    "privateContributions": 3164,
-    "publicContributions": 50,
+    "privateContributions": 3176,
+    "publicContributions": 60,
     "createdAt": "2011-07-06T12:09:34Z"
   },
   {
@@ -691,7 +691,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 9993,
+    "privateContributions": 10003,
     "publicContributions": 284,
     "createdAt": "2011-07-19T18:56:07Z"
   },

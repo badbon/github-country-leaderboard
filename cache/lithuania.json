@@ -38280,18 +38280,6 @@
     "createdAt": "2016-05-13T11:08:25Z"
   },
   {
-    "login": "PSasnauskas",
-    "name": "Pranas Sasnauskas",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/20790625?s=72&v=4",
-    "location": "Lithuania",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 4,
-    "createdAt": "2016-08-02T08:40:19Z"
-  },
-  {
     "login": "rokaspaulik",
     "name": "Rokas Paulikas",
     "avatarUrl": "https://avatars.githubusercontent.com/u/17546867?s=72&u=21af76ffbd345eaa15cfdc3eb6b7c652346ce25a&v=4",
@@ -38324,7 +38312,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 9,
     "createdAt": "2016-10-11T21:03:12Z"
   },
   {
@@ -38383,8 +38371,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 115,
-    "publicContributions": 1,
+    "privateContributions": 103,
+    "publicContributions": 2,
     "createdAt": "2016-11-14T08:11:31Z"
   },
   {
@@ -38431,7 +38419,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 463,
+    "privateContributions": 470,
     "publicContributions": 0,
     "createdAt": "2016-03-28T07:46:42Z"
   },
@@ -38462,12 +38450,12 @@
   {
     "login": "linkkaro",
     "name": "Karolis Linkevičius",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/19471570?s=72&u=2b55d5336ebe9a303f50222c2c96b4636bec267c&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/19471570?s=72&u=14493adc87122c6f4e5209663aa8192837701dd5&v=4",
     "location": "Vilnius, Lithuania",
     "company": "Adapt  LT",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
+    "privateContributions": 1381,
     "publicContributions": 0,
     "createdAt": "2016-05-19T12:45:44Z"
   },
@@ -38492,7 +38480,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 44,
+    "publicContributions": 46,
     "createdAt": "2016-02-17T22:32:59Z"
   },
   {
@@ -38504,7 +38492,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 930,
-    "publicContributions": 14,
+    "publicContributions": 15,
     "createdAt": "2016-03-22T16:48:34Z"
   },
   {
