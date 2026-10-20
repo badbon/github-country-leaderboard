@@ -1,6 +1,6 @@
 # Followers - Mauritius
 
-Generated: 2026-10-20T19:40:36.529Z
+Generated: 2026-10-20T21:11:21.002Z
 
 Users: 714
 
@@ -10,7 +10,7 @@ Users: 714
 | 2 | [marclamberti](https://github.com/marclamberti) | Marc Lamberti | Marc Lamberti |  | Mauritius | 630 |
 | 3 | [thatstraw](https://github.com/thatstraw) | Traw | GotechMu | thatstraw | Mauritius | 584 |
 | 4 | [Emmastro](https://github.com/Emmastro) | Emmanuel Bauma Murairi | ITverse |  | Mauritius | 302 |
-| 5 | [eznix86](https://github.com/eznix86) | Bruno Bernard |  |  | Mauritius | 155 |
+| 5 | [eznix86](https://github.com/eznix86) | Bruno Bernard |  |  | Mauritius | 156 |
 | 6 | [Nehal-Bhautoo](https://github.com/Nehal-Bhautoo) | Nehal Bhautoo | Uniicy | 454aac84aec945b | Mauritius | 121 |
 | 7 | [jochenkirstaetter](https://github.com/jochenkirstaetter) | Jochen Kirstätter | IOS Indian Ocean Software Ltd. | JKirstaetter | Mauritius | 120 |
 | 8 | [yuvraj108c](https://github.com/yuvraj108c) | Yuvraj Seegolam |  |  | Mauritius | 116 |
@@ -18,11 +18,11 @@ Users: 714
 | 10 | [wkhayrattee](https://github.com/wkhayrattee) | Wasseem Khayrattee |  | wkhayrattee | Mauritius | 111 |
 | 11 | [loganaden](https://github.com/loganaden) | Loganaden Velvindron | @cyberstormdotmu  |  | Mauritius | 103 |
 | 12 | [cedpoilly](https://github.com/cedpoilly) | Cedric |  |  | Mauritius | 97 |
-| 13 | [shaha-nah](https://github.com/shaha-nah) | Shahanah | Dayforce |  | Mauritius | 92 |
+| 13 | [shaha-nah](https://github.com/shaha-nah) | Shahanah | Dayforce |  | Mauritius | 94 |
 | 14 | [rahul-thakoor](https://github.com/rahul-thakoor) | Rahul Thakoor | @balena-io  |  | Mauritius | 86 |
 | 15 | [SharCodin](https://github.com/SharCodin) | Code Crafters Corner |  | gaming_shar | Mauritius | 84 |
 | 16 | [puchka](https://github.com/puchka) | A. Marius Rabenarivo | @funpro-mu @AlgoMada @BetaX-Community @SimplyFinServices | MariusRabenariv | Mauritius | 82 |
-| 17 | [EdgarEldy](https://github.com/EdgarEldy) | EDGAR MUHAMYANGABO | @Accenture | EdgarEldy | Mauritius | 81 |
+| 17 | [EdgarEldy](https://github.com/EdgarEldy) | EDGAR MUHAMYANGABO | @Accenture | EdgarEldy | Mauritius | 80 |
 | 18 | [arwinneil](https://github.com/arwinneil) | Arwin Neil Baichoo | @livestorm | arwinneil | Mauritius | 75 |
 | 19 | [MaskyS](https://github.com/MaskyS) | Kifah M |  | maskys_ | Mauritius | 75 |
 | 20 | [cbillowes](https://github.com/cbillowes) | Clarice Bouwer | Cloudsure Limited |  | Mauritius | 65 |

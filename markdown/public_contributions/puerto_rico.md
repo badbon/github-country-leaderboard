@@ -1,6 +1,6 @@
 # Public Contributions - Puerto Rico
 
-Generated: 2026-10-20T19:53:25.812Z
+Generated: 2026-10-20T21:23:57.429Z
 
 Users: 1532
 
@@ -10,7 +10,7 @@ Users: 1532
 | 2 | [RhettCreighton](https://github.com/RhettCreighton) | Rhett Creighton | @RhettCreighton |  | San Juan, Puerto Rico | 12873 |
 | 3 | [bpamiri](https://github.com/bpamiri) | Peter Amiri |  |  | San Juan Capistrano, CA | 10008 |
 | 4 | [brettheap](https://github.com/brettheap) | Brett Heap | Opensoft, Inc |  | Puerto Rico | 7801 |
-| 5 | [egmtm](https://github.com/egmtm) | EGM™ |  | EGMDownloader | Puerto Rico | 5872 |
+| 5 | [egmtm](https://github.com/egmtm) | EGM™ |  | EGMDownloader | Puerto Rico | 5945 |
 | 6 | [Wolfkid200444](https://github.com/Wolfkid200444) | Wolfie | @FutureDeveloperZ   | RealWolfkid | Puerto Rico | 4851 |
 | 7 | [edwardlthompson](https://github.com/edwardlthompson) | Edward Thompson |  |  | Puerto Rico | 3462 |
 | 8 | [rnegron](https://github.com/rnegron) | Raúl Negrón-Otero | @PostHog |  | Bayamón, Puerto Rico | 3188 |
@@ -20,9 +20,9 @@ Users: 1532
 | 12 | [rebelinux](https://github.com/rebelinux) | Jonathan Colon | IT Consultant |  | Puerto Rico | 1966 |
 | 13 | [ricardojuanmorales](https://github.com/ricardojuanmorales) | Ricardo Juan Morales De Jesús |  |  | San Juan, Puerto Rico | 1359 |
 | 14 | [eresfavolosx](https://github.com/eresfavolosx) | Fabián Vélez Vicente | @LinkPuertoRico |  | Trujillo Alto, Puerto Rico | 1307 |
-| 15 | [drosadocastro-bit](https://github.com/drosadocastro-bit) | Danny Rosado Castro (Drakus) | Nova Labs Research |  | Puerto Rico | 1149 |
+| 15 | [drosadocastro-bit](https://github.com/drosadocastro-bit) | Danny Rosado Castro (Drakus) | Nova Labs Research |  | Puerto Rico | 1169 |
 | 16 | [Jaxelr](https://github.com/Jaxelr) | Jaxel Rojas Lopez | @Microsoft | jaxelr | San Juan, Puerto Rico | 1103 |
-| 17 | [MicaelVR04](https://github.com/MicaelVR04) | Micael Velez Rodriguez |  |  | Puerto Rico | 1055 |
+| 17 | [MicaelVR04](https://github.com/MicaelVR04) | Micael Velez Rodriguez |  |  | Puerto Rico | 1003 |
 | 18 | [marcosstgo](https://github.com/marcosstgo) | Marcos Santiago |  | Marc0sSantiago | Puerto Rico | 988 |
-| 19 | [CristianAce05](https://github.com/CristianAce05) | Cristian Acevedo | Holberton Coding School |  | Puerto Rico | 984 |
-| 20 | [jgmdev](https://github.com/jgmdev) | Jefferson González | JegoYalu |  | Puerto Rico | 983 |
+| 19 | [jgmdev](https://github.com/jgmdev) | Jefferson González | JegoYalu |  | Puerto Rico | 983 |
+| 20 | [justinhandley](https://github.com/justinhandley) | Justin Handley | Pirate & Fox LLC | justinbhandley | Puerto Rico | 983 |

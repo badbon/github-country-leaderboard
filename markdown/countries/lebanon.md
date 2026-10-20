@@ -25,7 +25,7 @@ Indexed users: 2,559
 | 11 | [wwilson1017](https://github.com/wwilson1017) | Will Wilson | Lebanon, TN | 8,237 |
 | 12 | [osmankh](https://github.com/osmankh) | Osman Taha | Zgharta District, North Governorate, Lebanon | 8,102 |
 | 13 | [mustafahalabi](https://github.com/mustafahalabi) | Mustafa Halabi | Lebanon | 8,068 |
-| 14 | [mhdbouk](https://github.com/mhdbouk) | Mohamad Dbouk | Beirut, Lebanon | 7,264 |
+| 14 | [mhdbouk](https://github.com/mhdbouk) | Mohamad Dbouk | Beirut, Lebanon | 7,397 |
 | 15 | [bwmhamad](https://github.com/bwmhamad) | Moe Saad | Beirut - Lebanon | 6,851 |
 | 16 | [MohammadKanaan](https://github.com/MohammadKanaan) | Mohammad Kanaan | Lebanon | 6,600 |
 | 17 | [mincer-fundbot](https://github.com/mincer-fundbot) | Mincer Alaeddine | Beirut | 6,452 |
@@ -79,8 +79,8 @@ Indexed users: 2,559
 | 15 | [rafeasaayfan](https://github.com/rafeasaayfan) | Rafeh Saayfan | lebanon | 138 |
 | 16 | [SarahMelki](https://github.com/SarahMelki) | Sarah Melki | Beirut, Lebanon | 138 |
 | 17 | [Mahmoud7Osman](https://github.com/Mahmoud7Osman) | Mahmoud Osman | Lebanon | 129 |
-| 18 | [saeedhalabi](https://github.com/saeedhalabi) | Saeed Halabi | Lebanon 🇱🇧 | 109 |
+| 18 | [saeedhalabi](https://github.com/saeedhalabi) | Saeed Halabi | Lebanon 🇱🇧 | 106 |
 | 19 | [rhamzeh](https://github.com/rhamzeh) | Raghd Hamzeh | Beirut, Lebanon | 102 |
 | 20 | [hadiidbouk](https://github.com/hadiidbouk) | Hadi Dbouk | Lebanon | 101 |
 
-Generated: 2026-10-20T19:32:50.612Z
+Generated: 2026-10-20T21:03:42.400Z

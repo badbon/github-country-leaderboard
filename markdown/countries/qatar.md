@@ -44,7 +44,7 @@ Indexed users: 1,072
 | 5 | [Tamoura](https://github.com/Tamoura) | Tamer | Qatar | 1,769 |
 | 6 | [kashkoool](https://github.com/kashkoool) | louay kashkool | qatar | 1,758 |
 | 7 | [altyebv](https://github.com/altyebv) | Altayeb Abdeljalil  | Doha, Qatar  Sudan  | 1,681 |
-| 8 | [BZO95](https://github.com/BZO95) | DeFi Junkie | Qatar | 1,504 |
+| 8 | [BZO95](https://github.com/BZO95) | DeFi Junkie | Qatar | 1,503 |
 | 9 | [hussain4real](https://github.com/hussain4real) | Hussain Aminu | Doha, Qatar | 1,493 |
 | 10 | [atick-faisal](https://github.com/atick-faisal) | Atick Faisal | Doha, Qatar | 1,148 |
 | 11 | [itsarisid](https://github.com/itsarisid) | Sajid Khan | Qatar | 1,074 |
@@ -83,4 +83,4 @@ Indexed users: 1,072
 | 19 | [thm-msror](https://github.com/thm-msror) | Tehreem Masroor | Al-Rayyan, Qatar | 106 |
 | 20 | [brainconnect93](https://github.com/brainconnect93) | Afolabi Akorede | Al-Wakrah, Qatar | 99 |
 
-Generated: 2026-10-20T19:53:31.532Z
+Generated: 2026-10-20T21:24:29.638Z

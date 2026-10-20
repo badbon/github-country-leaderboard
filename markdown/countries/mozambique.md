@@ -55,8 +55,8 @@ Indexed users: 1,175
 | 16 | [antonio-macave](https://github.com/antonio-macave) | António Macave | Maputo, Mozambique | 553 |
 | 17 | [herquiloidehele](https://github.com/herquiloidehele) | Herquiloide Hele | Mocambique - Maputo | 548 |
 | 18 | [Eddy-Nhabinde](https://github.com/Eddy-Nhabinde) | Edmilson Nhabinde | Maputo, Mozambique | 540 |
-| 19 | [Muiria814](https://github.com/Muiria814) | Eleuterio Raul | Mozambique | 504 |
-| 20 | [iradoweck](https://github.com/iradoweck) | Edmilson Muacigarro | Mozambique | 486 |
+| 19 | [iradoweck](https://github.com/iradoweck) | Edmilson Muacigarro | Mozambique | 510 |
+| 20 | [Muiria814](https://github.com/Muiria814) | Eleuterio Raul | Mozambique | 504 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,175
 | 19 | [enoquetembe](https://github.com/enoquetembe) | Enoque Tembe | Maputo, Mozambique | 111 |
 | 20 | [mariomthree](https://github.com/mariomthree) | Mário M. Mabande | Maputo, Mozambique | 95 |
 
-Generated: 2026-10-20T19:43:25.281Z
+Generated: 2026-10-20T21:13:34.871Z

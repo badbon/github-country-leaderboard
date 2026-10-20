@@ -1,13 +1,13 @@
 # Total Contributions - Mali
 
-Generated: 2026-10-20T19:38:01.762Z
+Generated: 2026-10-20T21:09:00.865Z
 
 Users: 347
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [dione24](https://github.com/dione24) | Niangaly Abdoulaye | SahelPAY | diblo_n | BAMAKO MALI | 8948 |
-| 2 | [koneke55](https://github.com/koneke55) | कोनेके |  | koneke55 | Bamako, Mali | 7175 |
+| 2 | [koneke55](https://github.com/koneke55) | कोनेके |  | koneke55 | Bamako, Mali | 7173 |
 | 3 | [flyBoy667](https://github.com/flyBoy667) | Salifou Dembélé | Logic Fly |  | Bamako-Mali | 6162 |
 | 4 | [Abbv75](https://github.com/Abbv75) | Younouss Boré  | HorizonFuture |  | Bamako, telecel GBS | 6114 |
 | 5 | [sudoping01](https://github.com/sudoping01) | sed | .... |  | Bamako | 5426 |
@@ -21,8 +21,8 @@ Users: 347
 | 13 | [AbduRahmanS](https://github.com/AbduRahmanS) | Abdrahamane Sarambounou |  | AbduRahmanSb | Bamako | 2091 |
 | 14 | [Dioman-Keita](https://github.com/Dioman-Keita) | Dioman Keïta | @axiora-dev | DiomanKeita | Bamako/Mali | 2012 |
 | 15 | [djounnoureyni](https://github.com/djounnoureyni) | Ousmane Mahamane Maïga | @Kabakoo-app  | djounnoureyni | Bamako, Mali | 2002 |
-| 16 | [Ifiboys](https://github.com/Ifiboys) | Ephraim D Oladokun |  |  | Bamako, Mali | 1889 |
+| 16 | [Ifiboys](https://github.com/Ifiboys) | Ephraim D Oladokun |  |  | Bamako, Mali | 1925 |
 | 17 | [Pelpav](https://github.com/Pelpav) | Christian Pavlov Elom Nouboukpo |  | elpav2022 | Bamako | 1703 |
-| 18 | [bahamasangare](https://github.com/bahamasangare) | Bahama Sangaré |  |  | MALI  | 1620 |
-| 19 | [THIOYE97](https://github.com/THIOYE97) | THIOYE MARIKO | Danapay |  | Bamako , Mali 🇲🇱  | 1602 |
+| 18 | [bahamasangare](https://github.com/bahamasangare) | Bahama Sangaré |  |  | MALI  | 1626 |
+| 19 | [THIOYE97](https://github.com/THIOYE97) | THIOYE MARIKO | Danapay |  | Bamako , Mali 🇲🇱  | 1603 |
 | 20 | [Bah-traore](https://github.com/Bah-traore) | Mr.tanjiro_bah | Gestscolaire |  | Mali/Bamako | 1550 |

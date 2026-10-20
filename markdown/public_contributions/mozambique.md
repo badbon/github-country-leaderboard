@@ -1,6 +1,6 @@
 # Public Contributions - Mozambique
 
-Generated: 2026-10-20T19:43:25.281Z
+Generated: 2026-10-20T21:13:34.871Z
 
 Users: 1175
 
@@ -24,5 +24,5 @@ Users: 1175
 | 16 | [antonio-macave](https://github.com/antonio-macave) | António Macave |  | antonio_macave | Maputo, Mozambique | 553 |
 | 17 | [herquiloidehele](https://github.com/herquiloidehele) | Herquiloide Hele | Wit Software |  | Mocambique - Maputo | 548 |
 | 18 | [Eddy-Nhabinde](https://github.com/Eddy-Nhabinde) | Edmilson Nhabinde |  |  | Maputo, Mozambique | 540 |
-| 19 | [Muiria814](https://github.com/Muiria814) | Eleuterio Raul |  |  | Mozambique | 504 |
-| 20 | [iradoweck](https://github.com/iradoweck) | Edmilson Muacigarro | @zedecks  |  | Mozambique | 486 |
+| 19 | [iradoweck](https://github.com/iradoweck) | Edmilson Muacigarro | @zedecks  |  | Mozambique | 510 |
+| 20 | [Muiria814](https://github.com/Muiria814) | Eleuterio Raul |  |  | Mozambique | 504 |

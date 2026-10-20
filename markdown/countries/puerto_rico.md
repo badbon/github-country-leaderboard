@@ -29,8 +29,8 @@ Indexed users: 1,532
 | 15 | [Wolfkid200444](https://github.com/Wolfkid200444) | Wolfie | Puerto Rico | 6,312 |
 | 16 | [grpecunia](https://github.com/grpecunia) | Gustavo Rivera Pecunia | San Juan, PR | 6,140 |
 | 17 | [cfboy](https://github.com/cfboy) | Cristian F. Torres Collazo | San Juan, Puerto Rico | 6,086 |
-| 18 | [torlanco](https://github.com/torlanco) | Francisco Tirado | San juan, Puerto Rico | 5,932 |
-| 19 | [egmtm](https://github.com/egmtm) | EGM™ | Puerto Rico | 5,875 |
+| 18 | [egmtm](https://github.com/egmtm) | EGM™ | Puerto Rico | 5,948 |
+| 19 | [torlanco](https://github.com/torlanco) | Francisco Tirado | San juan, Puerto Rico | 5,932 |
 | 20 | [ChristianPerez34](https://github.com/ChristianPerez34) | Christian Perez Villanueva | Puerto Rico | 5,790 |
 
 ## Public Contributions
@@ -41,7 +41,7 @@ Indexed users: 1,532
 | 2 | [RhettCreighton](https://github.com/RhettCreighton) | Rhett Creighton | San Juan, Puerto Rico | 12,873 |
 | 3 | [bpamiri](https://github.com/bpamiri) | Peter Amiri | San Juan Capistrano, CA | 10,008 |
 | 4 | [brettheap](https://github.com/brettheap) | Brett Heap | Puerto Rico | 7,801 |
-| 5 | [egmtm](https://github.com/egmtm) | EGM™ | Puerto Rico | 5,872 |
+| 5 | [egmtm](https://github.com/egmtm) | EGM™ | Puerto Rico | 5,945 |
 | 6 | [Wolfkid200444](https://github.com/Wolfkid200444) | Wolfie | Puerto Rico | 4,851 |
 | 7 | [edwardlthompson](https://github.com/edwardlthompson) | Edward Thompson | Puerto Rico | 3,462 |
 | 8 | [rnegron](https://github.com/rnegron) | Raúl Negrón-Otero | Bayamón, Puerto Rico | 3,188 |
@@ -51,12 +51,12 @@ Indexed users: 1,532
 | 12 | [rebelinux](https://github.com/rebelinux) | Jonathan Colon | Puerto Rico | 1,966 |
 | 13 | [ricardojuanmorales](https://github.com/ricardojuanmorales) | Ricardo Juan Morales De Jesús | San Juan, Puerto Rico | 1,359 |
 | 14 | [eresfavolosx](https://github.com/eresfavolosx) | Fabián Vélez Vicente | Trujillo Alto, Puerto Rico | 1,307 |
-| 15 | [drosadocastro-bit](https://github.com/drosadocastro-bit) | Danny Rosado Castro (Drakus) | Puerto Rico | 1,149 |
+| 15 | [drosadocastro-bit](https://github.com/drosadocastro-bit) | Danny Rosado Castro (Drakus) | Puerto Rico | 1,169 |
 | 16 | [Jaxelr](https://github.com/Jaxelr) | Jaxel Rojas Lopez | San Juan, Puerto Rico | 1,103 |
-| 17 | [MicaelVR04](https://github.com/MicaelVR04) | Micael Velez Rodriguez | Puerto Rico | 1,055 |
+| 17 | [MicaelVR04](https://github.com/MicaelVR04) | Micael Velez Rodriguez | Puerto Rico | 1,003 |
 | 18 | [marcosstgo](https://github.com/marcosstgo) | Marcos Santiago | Puerto Rico | 988 |
-| 19 | [CristianAce05](https://github.com/CristianAce05) | Cristian Acevedo | Puerto Rico | 984 |
-| 20 | [jgmdev](https://github.com/jgmdev) | Jefferson González | Puerto Rico | 983 |
+| 19 | [jgmdev](https://github.com/jgmdev) | Jefferson González | Puerto Rico | 983 |
+| 20 | [justinhandley](https://github.com/justinhandley) | Justin Handley | Puerto Rico | 983 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,532
 | 19 | [rnegron](https://github.com/rnegron) | Raúl Negrón-Otero | Bayamón, Puerto Rico | 113 |
 | 20 | [hackingbutlegal](https://github.com/hackingbutlegal) | Jackie Singh | San Juan, PR | 107 |
 
-Generated: 2026-10-20T19:53:25.812Z
+Generated: 2026-10-20T21:23:57.429Z

@@ -1,13 +1,13 @@
 # Public Contributions - Latvia
 
-Generated: 2026-10-20T19:32:47.307Z
+Generated: 2026-10-20T21:03:36.665Z
 
 Users: 3251
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [k0d3r1s](https://github.com/k0d3r1s) | Dāvis Zālītis | @valksor |  | Rīga, Latvia | 14548 |
-| 2 | [mbrock](https://github.com/mbrock) | Mikael Brockman | @lessrest  | meekaale | Riga, Latvia | 4411 |
+| 2 | [mbrock](https://github.com/mbrock) | Mikael Brockman | @lessrest  | meekaale | Riga, Latvia | 5579 |
 | 3 | [rabestro](https://github.com/rabestro) | Jegors Čemisovs | @evolution-gaming |  | Latvia | 3934 |
 | 4 | [ringoldsdev](https://github.com/ringoldsdev) | Ringolds Lescinskis |  |  | Latvia, Europe | 3822 |
 | 5 | [skakri](https://github.com/skakri) | Kristaps Karlsons |  |  | Latvia | 3340 |

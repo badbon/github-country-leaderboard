@@ -1,6 +1,6 @@
 # Lithuania
 
-Indexed users: 5,367
+Indexed users: 5,366
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 5,367
 | 19 | [Miceuz](https://github.com/Miceuz) | Albertas Mickėnas | Vilnius, Lithuania | 190 |
 | 20 | [mmozuras](https://github.com/mmozuras) | Mindaugas Mozūras | Vilnius, Lithuania | 183 |
 
-Generated: 2026-10-20T19:34:13.802Z
+Generated: 2026-10-20T21:05:07.546Z

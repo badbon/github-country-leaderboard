@@ -1,8 +1,8 @@
 # Followers - Romania
 
-Generated: 2026-10-20T19:54:04.393Z
+Generated: 2026-10-20T21:25:01.296Z
 
-Users: 14975
+Users: 14974
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

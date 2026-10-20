@@ -38,7 +38,7 @@ Indexed users: 3,251
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [k0d3r1s](https://github.com/k0d3r1s) | Dāvis Zālītis | Rīga, Latvia | 14,548 |
-| 2 | [mbrock](https://github.com/mbrock) | Mikael Brockman | Riga, Latvia | 4,411 |
+| 2 | [mbrock](https://github.com/mbrock) | Mikael Brockman | Riga, Latvia | 5,579 |
 | 3 | [rabestro](https://github.com/rabestro) | Jegors Čemisovs | Latvia | 3,934 |
 | 4 | [ringoldsdev](https://github.com/ringoldsdev) | Ringolds Lescinskis | Latvia, Europe | 3,822 |
 | 5 | [skakri](https://github.com/skakri) | Kristaps Karlsons | Latvia | 3,340 |
@@ -83,4 +83,4 @@ Indexed users: 3,251
 | 19 | [0ki](https://github.com/0ki) | Кirils Sоlovjоvs | Latvia | 224 |
 | 20 | [LatvianModder](https://github.com/LatvianModder) | Kristiāns Micītis | Latvia | 221 |
 
-Generated: 2026-10-20T19:32:47.307Z
+Generated: 2026-10-20T21:03:36.665Z

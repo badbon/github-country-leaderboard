@@ -1,13 +1,13 @@
 # Followers - Monaco
 
-Generated: 2026-10-20T19:42:06.941Z
+Generated: 2026-10-20T21:12:13.240Z
 
 Users: 142
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [aplatoff](https://github.com/aplatoff) | Andrey Platov | Huly Labs | huly_architect | Monaco | 132 |
-| 2 | [jz222](https://github.com/jz222) | Timo Zimmermann | Mosaic S.A.R.L |  | Monte-Carlo, Monaco | 97 |
+| 2 | [jz222](https://github.com/jz222) | Timo Zimmermann | Mosaic S.A.R.L |  | Monte-Carlo, Monaco | 96 |
 | 3 | [laurentqro](https://github.com/laurentqro) | Laurent Curau |  |  | Monaco | 39 |
 | 4 | [Akira98000](https://github.com/Akira98000) | Santhakumaran Akira | Université Nice Côte D'Azur |  | Monaco  | 38 |
 | 5 | [DamienMonchaty](https://github.com/DamienMonchaty) | Damien Monchaty | @MRX-Systems  |  | Monaco | 36 |

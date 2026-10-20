@@ -1,6 +1,6 @@
 # Followers - Mali
 
-Generated: 2026-10-20T19:38:01.762Z
+Generated: 2026-10-20T21:09:00.865Z
 
 Users: 347
 
@@ -16,8 +16,8 @@ Users: 347
 | 8 | [Abdoul03](https://github.com/Abdoul03) | Abdoul Ibrahima Samaké | Tuwindi Foundation |  | Bamako | 44 |
 | 9 | [sudoping01](https://github.com/sudoping01) | sed | .... |  | Bamako | 42 |
 | 10 | [THIOYE97](https://github.com/THIOYE97) | THIOYE MARIKO | Danapay |  | Bamako , Mali 🇲🇱  | 37 |
-| 11 | [Dayifour](https://github.com/Dayifour) | Sékou Dayifourou KEITA | Orange ML | Dayifour | Bamako, Mali | 35 |
-| 12 | [diarisdiakite](https://github.com/diarisdiakite) | Diariatou Diakite | Full-Stack Developer / Microverse student | diarisdiakite | Bamako - Mali | 35 |
+| 11 | [diarisdiakite](https://github.com/diarisdiakite) | Diariatou Diakite | Full-Stack Developer / Microverse student | diarisdiakite | Bamako - Mali | 35 |
+| 12 | [Dayifour](https://github.com/Dayifour) | Sékou Dayifourou KEITA | Orange ML | Dayifour | Bamako, Mali | 34 |
 | 13 | [Abdoulayadiallo](https://github.com/Abdoulayadiallo) | Abdoulaye Diallo |  |  | BAMAKO | 33 |
 | 14 | [kdiawara96](https://github.com/kdiawara96) | Karim Diawara |  | karimdiawara96 | JX4X+QX9, Bamako | 32 |
 | 15 | [touredri](https://github.com/touredri) | Drissa | @microverseinc Microverse | touredri | Bamako, Mali | 31 |

@@ -1,6 +1,6 @@
 # Total Contributions - Lebanon
 
-Generated: 2026-10-20T19:32:50.612Z
+Generated: 2026-10-20T21:03:42.400Z
 
 Users: 2559
 
@@ -19,7 +19,7 @@ Users: 2559
 | 11 | [wwilson1017](https://github.com/wwilson1017) | Will Wilson | TN Cheesecake |  | Lebanon, TN | 8237 |
 | 12 | [osmankh](https://github.com/osmankh) | Osman Taha | @uscoalitiononsustainability  |  | Zgharta District, North Governorate, Lebanon | 8102 |
 | 13 | [mustafahalabi](https://github.com/mustafahalabi) | Mustafa Halabi | @Meritt-dev  |  | Lebanon | 8068 |
-| 14 | [mhdbouk](https://github.com/mhdbouk) | Mohamad Dbouk |  | mhdbouk | Beirut, Lebanon | 7264 |
+| 14 | [mhdbouk](https://github.com/mhdbouk) | Mohamad Dbouk |  | mhdbouk | Beirut, Lebanon | 7397 |
 | 15 | [bwmhamad](https://github.com/bwmhamad) | Moe Saad |  |  | Beirut - Lebanon | 6851 |
 | 16 | [MohammadKanaan](https://github.com/MohammadKanaan) | Mohammad Kanaan |  |  | Lebanon | 6600 |
 | 17 | [mincer-fundbot](https://github.com/mincer-fundbot) | Mincer Alaeddine | Fundbot |  | Beirut | 6452 |
