@@ -45,8 +45,8 @@ Indexed users: 2,014
 | 6 | [esteban-vm](https://github.com/esteban-vm) | Esteban V.M. | Asunción, Paraguay | 2,335 |
 | 7 | [hekatonkheirex](https://github.com/hekatonkheirex) | Rodrigo Y. Murayama | Asunción, Paraguay | 1,680 |
 | 8 | [zot24](https://github.com/zot24) |  | Asuncion, Paraguay | 1,670 |
-| 9 | [stevenayal](https://github.com/stevenayal) | Steven Ayala | Asunción, Paraguay | 1,653 |
-| 10 | [raczajko](https://github.com/raczajko) | Raúl Aguiar Czajkowski | Paraguay | 1,644 |
+| 9 | [raczajko](https://github.com/raczajko) | Raúl Aguiar Czajkowski | Paraguay | 1,644 |
+| 10 | [stevenayal](https://github.com/stevenayal) | Steven Ayala | Asunción, Paraguay | 1,581 |
 | 11 | [ciroiriarte](https://github.com/ciroiriarte) | Ciro Iriarte | Paraguay | 1,384 |
 | 12 | [isaias-alt](https://github.com/isaias-alt) | Lucas Isaias Casco | Paraguay | 1,325 |
 | 13 | [oscar0pavon](https://github.com/oscar0pavon) | Oscar Pavon | Paraguay | 1,269 |
@@ -83,4 +83,4 @@ Indexed users: 2,014
 | 19 | [metakeule](https://github.com/metakeule) | metakeule | Asunción / Paraguay | 109 |
 | 20 | [replay](https://github.com/replay) | Mauro Stettler | Asuncion, Paraguay | 105 |
 
-Generated: 2026-10-19T18:05:25.113Z
+Generated: 2026-10-20T00:04:00.668Z

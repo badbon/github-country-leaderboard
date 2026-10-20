@@ -1,6 +1,6 @@
 # Total Contributions - Qatar
 
-Generated: 2026-10-19T18:07:36.363Z
+Generated: 2026-10-20T00:06:37.063Z
 
 Users: 1072
 
@@ -16,10 +16,10 @@ Users: 1072
 | 8 | [yasircs4](https://github.com/yasircs4) | Yasir Najeeb |  | yasirnajeep | Doha, Qatar | 7109 |
 | 9 | [hussain4real](https://github.com/hussain4real) | Hussain Aminu | Gethouse | hussain4real | Doha, Qatar | 6917 |
 | 10 | [Snowy7](https://github.com/Snowy7) | Snowy |  |  | Qatar | 6801 |
-| 11 | [asifmkhan](https://github.com/asifmkhan) | M. Asif Khan | University of Doha for Science and Technology (UDST) |  | Doha, Qatar | 6441 |
-| 12 | [luca-bondi](https://github.com/luca-bondi) | Luca Bondi |  |  | Doha, Qatar | 5743 |
-| 13 | [samstickkz](https://github.com/samstickkz) | samuel joseph (samstickkz) | samstickkz |  | QATAR | 5741 |
-| 14 | [niyazpoyilan](https://github.com/niyazpoyilan) | Niyaz Poyilan |  |  | Qatar | 5594 |
+| 11 | [niyazpoyilan](https://github.com/niyazpoyilan) | Niyaz Poyilan |  |  | Qatar | 6659 |
+| 12 | [asifmkhan](https://github.com/asifmkhan) | M. Asif Khan | University of Doha for Science and Technology (UDST) |  | Doha, Qatar | 6441 |
+| 13 | [luca-bondi](https://github.com/luca-bondi) | Luca Bondi |  |  | Doha, Qatar | 5743 |
+| 14 | [samstickkz](https://github.com/samstickkz) | samuel joseph (samstickkz) | samstickkz |  | QATAR | 5741 |
 | 15 | [Bewinxed](https://github.com/Bewinxed) | Omar Al Matar | Hamad Medical Corporation | Bewinxed | Doha, Qatar | 5512 |
 | 16 | [Aboidrees](https://github.com/Aboidrees) | Muhammad Yousif | MOE | alshf3ee | Qatar, Doha | 5124 |
 | 17 | [ilhamsyahids](https://github.com/ilhamsyahids) | Ilham Syahid S |  |  | Qatar | 5079 |

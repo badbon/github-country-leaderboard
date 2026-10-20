@@ -1,12 +1,12 @@
 # Followers - Saint Lucia
 
-Generated: 2026-10-19T18:10:12.082Z
+Generated: 2026-10-20T00:09:36.591Z
 
 Users: 35
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [johnsBeharry](https://github.com/johnsBeharry) | Johns Beharry | @peakshift  | johnsBeharry | Saint Lucia | 142 |
+| 1 | [johnsBeharry](https://github.com/johnsBeharry) | Johns Beharry | @peakshift  | johnsBeharry | Saint Lucia | 143 |
 | 2 | [UVLabs](https://github.com/UVLabs) | Uriahs Victor |  |  | Saint Lucia | 48 |
 | 3 | [CodeRed30](https://github.com/CodeRed30) | Katrina | Close.com |  | Saint Lucia, WI | 24 |
 | 4 | [remyfrancis](https://github.com/remyfrancis) | Remy Francis | Quantum Garden Software |  | Saint Lucia | 19 |

@@ -1,6 +1,6 @@
 # Philippines
 
-Indexed users: 19,754
+Indexed users: 19,753
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 19,754
 | 19 | [Gerald200422](https://github.com/Gerald200422) | Gerald P. Balete | Metro Manila Philippines  | 613 |
 | 20 | [exezick](https://github.com/exezick) | Exequiel Vibar | Philippines | 604 |
 
-Generated: 2026-10-19T18:06:39.109Z
+Generated: 2026-10-20T00:04:30.064Z

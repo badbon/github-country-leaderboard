@@ -14,11 +14,11 @@ Indexed users: 61
 |---:|---|---|---|---:|
 | 1 | [calebnewtonusc](https://github.com/calebnewtonusc) | Caleb Newton | San Marino, CA | 14,481 |
 | 2 | [simooooone](https://github.com/simooooone) | Simos | San Marino | 10,279 |
-| 3 | [brunodotgg](https://github.com/brunodotgg) | Bruno | San Marino | 4,586 |
+| 3 | [brunodotgg](https://github.com/brunodotgg) | Bruno | San Marino | 4,781 |
 | 4 | [mcdado](https://github.com/mcdado) | David Gasperoni | San Marino (SMR) <✈️> Madrid, Spain | 3,206 |
 | 5 | [tomwhoooo](https://github.com/tomwhoooo) | Tom Hu | San Marino, California | 2,302 |
 | 6 | [CastFX](https://github.com/CastFX) | Chris | San Marino | 2,260 |
-| 7 | [damiandominella](https://github.com/damiandominella) | dodo | San Marino / Milan / Remotely | 2,160 |
+| 7 | [damiandominella](https://github.com/damiandominella) | dodo | San Marino / Milan / Remotely | 2,186 |
 | 8 | [deBrian07](https://github.com/deBrian07) | Brian C. | San Marino, CA | 2,020 |
 | 9 | [gerza-lab](https://github.com/gerza-lab) | adam gerza | San Marino, CA | 1,253 |
 | 10 | [alessandrorebosio](https://github.com/alessandrorebosio) | Rebo | San Marino | 1,022 |
@@ -52,7 +52,7 @@ Indexed users: 61
 | 13 | [mcdado](https://github.com/mcdado) | David Gasperoni | San Marino (SMR) <✈️> Madrid, Spain | 50 |
 | 14 | [salugea](https://github.com/salugea) | Salugea | San Marino | 45 |
 | 15 | [gerza-lab](https://github.com/gerza-lab) | adam gerza | San Marino, CA | 44 |
-| 16 | [damiandominella](https://github.com/damiandominella) | dodo | San Marino / Milan / Remotely | 37 |
+| 16 | [damiandominella](https://github.com/damiandominella) | dodo | San Marino / Milan / Remotely | 38 |
 | 17 | [samuele-mrapps](https://github.com/samuele-mrapps) | Samuele Mazza | San Marino | 35 |
 | 18 | [agustingianni](https://github.com/agustingianni) | Agustin Gianni | San Marino | 34 |
 | 19 | [gchen98](https://github.com/gchen98) | Gary K. Chen | San Marino, CA | 31 |
@@ -83,4 +83,4 @@ Indexed users: 61
 | 19 | [deBrian07](https://github.com/deBrian07) | Brian C. | San Marino, CA | 11 |
 | 20 | [Wentianlong](https://github.com/Wentianlong) | Erma O'Conner | 505 ,Gaynelle Locks ,Carleneland ,Texas ,San Marino | 11 |
 
-Generated: 2026-10-19T18:12:43.151Z
+Generated: 2026-10-20T00:11:26.930Z

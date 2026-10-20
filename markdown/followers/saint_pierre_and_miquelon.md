@@ -1,6 +1,6 @@
 # Followers - Saint Pierre and Miquelon
 
-Generated: 2026-10-19T18:10:41.869Z
+Generated: 2026-10-20T00:09:43.761Z
 
 Users: 20
 
@@ -13,9 +13,9 @@ Users: 20
 | 5 | [khanabeigi](https://github.com/khanabeigi) | Yasin-khanabeigi | Self-Employ | khanabeigi | Z.I. du, Le Vivier 22, 1690 Villaz-Saint-Pierre | 5 |
 | 6 | [greggstyle](https://github.com/greggstyle) | greggstyle | Digidatale & Capston.AI |  | Saint-Pierre, La Réunion | 4 |
 | 7 | [Antonin-crypto](https://github.com/Antonin-crypto) | Antonin | Holberton School |  | Saint pierre des landes | 3 |
-| 8 | [matthieu-viel-fr](https://github.com/matthieu-viel-fr) |  |  |  | Saint-pierre La Réunion | 3 |
-| 9 | [visualAngus](https://github.com/visualAngus) | Gael Pupin |  |  | Franqueville Saint Pierre | 3 |
-| 10 | [IronFly7](https://github.com/IronFly7) | RoroLeRigolo |  |  | Lycée Saint Pierre Calais | 2 |
+| 8 | [visualAngus](https://github.com/visualAngus) | Gael Pupin |  |  | Franqueville Saint Pierre | 3 |
+| 9 | [IronFly7](https://github.com/IronFly7) | RoroLeRigolo |  |  | Lycée Saint Pierre Calais | 2 |
+| 10 | [matthieu-viel-fr](https://github.com/matthieu-viel-fr) |  |  |  | Saint-pierre La Réunion | 2 |
 | 11 | [Mickael1987](https://github.com/Mickael1987) | Mickael |  |  | Saint Pierre en Faucigny | 2 |
 | 12 | [Wimimaro](https://github.com/Wimimaro) | Wayl Zender | Harmonie Mutuelle | Wimimaro | Saint Pierre des corps | 2 |
 | 13 | [adriencastan](https://github.com/adriencastan) | Adrien Castan |  |  | Saint Pierre de Lages | 1 |
