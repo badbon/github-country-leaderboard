@@ -38684,7 +38684,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 73,
+    "publicContributions": 72,
     "createdAt": "2021-04-20T13:01:07Z"
   },
   {
@@ -38706,9 +38706,9 @@
     "location": "Dublin, Ireland",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 67,
-    "publicContributions": 692,
+    "followers": 2,
+    "privateContributions": 63,
+    "publicContributions": 749,
     "createdAt": "2021-01-14T16:10:48Z"
   },
   {
@@ -38718,21 +38718,21 @@
     "location": "Ireland",
     "company": "University College Dublin",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 330,
+    "publicContributions": 436,
     "createdAt": "2021-02-05T06:44:03Z"
   },
   {
     "login": "AndreJorge01",
     "name": "André Jorge",
     "avatarUrl": "https://avatars.githubusercontent.com/u/86026272?s=72&u=70fcf9883f7be805847a10fbabf4103f00209bea&v=4",
-    "location": "Cork, Ireland ",
+    "location": "Dublin, Ireland ",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 26,
+    "privateContributions": 8,
+    "publicContributions": 2,
     "createdAt": "2021-06-16T21:56:22Z"
   },
   {
@@ -38772,18 +38772,6 @@
     "createdAt": "2021-06-13T21:08:14Z"
   },
   {
-    "login": "afloresRTR",
-    "name": "Alejandro Flores",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/85891547?s=72&u=b00c16e336289704f305b9c61ef55eaaf0da189d&v=4",
-    "location": "Ireland",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2021-06-14T15:29:05Z"
-  },
-  {
     "login": "raymonddrop",
     "name": "Raymond Dowe",
     "avatarUrl": "https://avatars.githubusercontent.com/u/85784623?s=72&u=86d2a5d28744498818173cb26c2bae3020fabd3a&v=4",
@@ -38792,7 +38780,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 34,
     "createdAt": "2021-06-12T08:41:31Z"
   },
   {
@@ -38804,7 +38792,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 17,
     "createdAt": "2021-01-20T08:08:05Z"
   },
   {
@@ -38826,9 +38814,9 @@
     "location": "Ireland",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 121,
+    "publicContributions": 133,
     "createdAt": "2021-04-06T23:32:04Z"
   },
   {
@@ -38839,8 +38827,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 286,
-    "publicContributions": 101,
+    "privateContributions": 277,
+    "publicContributions": 122,
     "createdAt": "2021-04-23T13:47:20Z"
   },
   {
@@ -38852,7 +38840,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 224,
+    "publicContributions": 223,
     "createdAt": "2021-01-26T17:25:55Z"
   },
   {
@@ -38862,9 +38850,9 @@
     "location": "Cork, Ireland ",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 33,
     "createdAt": "2021-03-23T11:24:21Z"
   },
   {

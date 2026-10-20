@@ -38923,8 +38923,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 90,
-    "publicContributions": 14,
+    "privateContributions": 65,
+    "publicContributions": 17,
     "createdAt": "2022-02-10T17:04:15Z"
   },
   {
@@ -38959,8 +38959,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 779,
-    "publicContributions": 192,
+    "privateContributions": 1019,
+    "publicContributions": 186,
     "createdAt": "2022-01-22T21:37:17Z"
   },
   {
@@ -38971,8 +38971,8 @@
     "company": "@Hamer-AI ",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 577,
-    "publicContributions": 346,
+    "privateContributions": 664,
+    "publicContributions": 323,
     "createdAt": "2022-08-18T17:23:06Z"
   },
   {
@@ -38983,8 +38983,8 @@
     "company": "@Besufqad-Mesfin @Incredible-T ",
     "twitterUsername": "Mesfin16062",
     "followers": 5,
-    "privateContributions": 191,
-    "publicContributions": 148,
+    "privateContributions": 147,
+    "publicContributions": 151,
     "createdAt": "2022-05-13T08:27:25Z"
   },
   {
@@ -38994,9 +38994,9 @@
     "location": "Ethiopia",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 92,
-    "publicContributions": 184,
+    "followers": 10,
+    "privateContributions": 96,
+    "publicContributions": 404,
     "createdAt": "2022-08-24T21:12:01Z"
   },
   {
@@ -39007,8 +39007,8 @@
     "company": "Hira Technologies",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 711,
-    "publicContributions": 27,
+    "privateContributions": 479,
+    "publicContributions": 29,
     "createdAt": "2022-12-04T03:39:50Z"
   },
   {
@@ -39019,8 +39019,8 @@
     "company": "Tilla Health Insurance",
     "twitterUsername": "Ephy_1654",
     "followers": 5,
-    "privateContributions": 1169,
-    "publicContributions": 79,
+    "privateContributions": 1500,
+    "publicContributions": 93,
     "createdAt": "2022-12-01T15:20:36Z"
   },
   {
@@ -39031,19 +39031,19 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 2926,
-    "publicContributions": 107,
+    "privateContributions": 3546,
+    "publicContributions": 35,
     "createdAt": "2022-09-25T05:31:51Z"
   },
   {
     "login": "SUBANUM63",
-    "name": "Zeinu Kedir Ahmed",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/99404030?s=72&u=c774494cd4e4e58c23617ba2d43fe85111bec7a5&v=4",
+    "name": "Zeinu Kedir",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/99404030?s=72&u=0dc63137568a661b8329ee05f7af99cc5e3b0916&v=4",
     "location": "Addis Ababa, Ethiopia",
     "company": "Independent Android & Software Developer",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 75,
+    "followers": 10,
+    "privateContributions": 153,
     "publicContributions": 41,
     "createdAt": "2022-02-10T12:11:22Z"
   },
@@ -39055,7 +39055,7 @@
     "company": "@2fcapital @oneco",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 470,
+    "privateContributions": 210,
     "publicContributions": 7,
     "createdAt": "2022-03-27T15:42:42Z"
   },
@@ -39068,7 +39068,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 0,
     "createdAt": "2022-11-07T07:36:30Z"
   },
   {
@@ -39080,7 +39080,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 46,
-    "publicContributions": 261,
+    "publicContributions": 342,
     "createdAt": "2022-03-13T06:26:54Z"
   },
   {
@@ -39102,8 +39102,8 @@
     "location": "Ethiopia Addis Ababa",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 181,
+    "followers": 4,
+    "privateContributions": 234,
     "publicContributions": 85,
     "createdAt": "2022-11-22T09:18:36Z"
   },
@@ -39115,7 +39115,7 @@
     "company": "Genesis AI Labs",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 99,
+    "privateContributions": 151,
     "publicContributions": 8,
     "createdAt": "2022-02-20T05:08:39Z"
   },
@@ -39127,21 +39127,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 18,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-04-08T19:43:42Z"
-  },
-  {
-    "login": "Mesafin",
-    "name": "Mesafint",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/111052730?s=72&u=a09e8550638169ef476165fd2ab5552d0b89ed6d&v=4",
-    "location": "Ethiopia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 1,
-    "publicContributions": 2,
-    "createdAt": "2022-08-11T09:55:45Z"
   },
   {
     "login": "HabibiGirum",
@@ -39152,7 +39140,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 15,
     "createdAt": "2022-07-16T19:31:10Z"
   },
   {

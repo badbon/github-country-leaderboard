@@ -407134,5 +407134,29 @@
     "privateContributions": 304,
     "publicContributions": 43,
     "createdAt": "2020-04-12T08:11:59Z"
+  },
+  {
+    "login": "Mesafin",
+    "name": "Mesafint",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/111052730?s=72&u=a09e8550638169ef476165fd2ab5552d0b89ed6d&v=4",
+    "location": "Japan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 1,
+    "publicContributions": 2,
+    "createdAt": "2022-08-11T09:55:45Z"
+  },
+  {
+    "login": "pseudoyu",
+    "name": "pseudoyu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/69753389?s=72&u=12dae69e33cb57fbc9adc27b0bdc9df4be9585fe&v=4",
+    "location": "Tokyo, Japan",
+    "company": "@web3insight-ai",
+    "twitterUsername": "pseudo_yu",
+    "followers": 1310,
+    "privateContributions": 13581,
+    "publicContributions": 674,
+    "createdAt": "2020-08-16T11:04:30Z"
   }
 ]

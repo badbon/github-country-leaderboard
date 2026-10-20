@@ -38588,7 +38588,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 97,
+    "publicContributions": 138,
     "createdAt": "2020-04-20T11:25:44Z"
   },
   {
@@ -38600,7 +38600,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 34,
+    "publicContributions": 41,
     "createdAt": "2020-05-23T15:45:02Z"
   },
   {
@@ -38612,7 +38612,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 133,
-    "publicContributions": 132,
+    "publicContributions": 107,
     "createdAt": "2020-03-22T05:42:57Z"
   },
   {
@@ -38660,7 +38660,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 1,
     "createdAt": "2020-04-09T07:35:55Z"
   },
   {
@@ -38671,8 +38671,8 @@
     "company": "CLS Ltd.",
     "twitterUsername": "u86cd",
     "followers": 1,
-    "privateContributions": 119,
-    "publicContributions": 29,
+    "privateContributions": 153,
+    "publicContributions": 34,
     "createdAt": "2020-02-04T13:34:14Z"
   },
   {
@@ -38684,20 +38684,8 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 23,
     "createdAt": "2018-08-27T10:03:57Z"
-  },
-  {
-    "login": "pseudoyu",
-    "name": "pseudoyu",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/69753389?s=72&u=12dae69e33cb57fbc9adc27b0bdc9df4be9585fe&v=4",
-    "location": "Hong Kong",
-    "company": "@web3insight-ai",
-    "twitterUsername": "pseudo_yu",
-    "followers": 1303,
-    "privateContributions": 8006,
-    "publicContributions": 612,
-    "createdAt": "2020-08-16T11:04:30Z"
   },
   {
     "login": "nelsonlaidev",
@@ -38706,9 +38694,9 @@
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "nelsonlaidev",
-    "followers": 345,
+    "followers": 346,
     "privateContributions": 0,
-    "publicContributions": 2411,
+    "publicContributions": 1869,
     "createdAt": "2020-12-04T18:16:21Z"
   },
   {
@@ -38720,7 +38708,7 @@
     "twitterUsername": "YaoMarkMu1",
     "followers": 260,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 0,
     "createdAt": "2020-12-18T13:18:57Z"
   },
   {
@@ -38730,9 +38718,9 @@
     "location": "Hong Kong, China",
     "company": "PolyU",
     "twitterUsername": "hemingkx",
-    "followers": 248,
-    "privateContributions": 36,
-    "publicContributions": 455,
+    "followers": 250,
+    "privateContributions": 736,
+    "publicContributions": 231,
     "createdAt": "2020-07-08T11:39:14Z"
   },
   {
@@ -38742,9 +38730,9 @@
     "location": "Hong Kong",
     "company": "The University of Hong Kong",
     "twitterUsername": "",
-    "followers": 199,
+    "followers": 202,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 17,
     "createdAt": "2020-11-11T07:44:17Z"
   },
   {
@@ -38754,9 +38742,9 @@
     "location": "Hong Kong",
     "company": "The Chinese University of HongKong",
     "twitterUsername": "",
-    "followers": 171,
+    "followers": 170,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2020-11-15T12:19:15Z"
   },
   {
@@ -38766,9 +38754,9 @@
     "location": "Hong Kong, China",
     "company": "PolyU",
     "twitterUsername": "junyao_hu",
-    "followers": 157,
+    "followers": 156,
     "privateContributions": 0,
-    "publicContributions": 67,
+    "publicContributions": 101,
     "createdAt": "2020-06-29T00:09:21Z"
   },
   {
@@ -38778,9 +38766,9 @@
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 146,
-    "privateContributions": 637,
-    "publicContributions": 3,
+    "followers": 149,
+    "privateContributions": 1460,
+    "publicContributions": 22,
     "createdAt": "2020-09-02T23:06:39Z"
   },
   {
@@ -38790,7 +38778,7 @@
     "location": "Hong Kong",
     "company": "Fudan University, The university of Hong Kong",
     "twitterUsername": "AnChancy46881",
-    "followers": 137,
+    "followers": 139,
     "privateContributions": 0,
     "publicContributions": 11,
     "createdAt": "2020-12-02T11:43:38Z"
@@ -38802,9 +38790,9 @@
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 135,
+    "followers": 146,
     "privateContributions": 0,
-    "publicContributions": 361,
+    "publicContributions": 316,
     "createdAt": "2020-10-25T04:15:07Z"
   },
   {
@@ -38814,9 +38802,9 @@
     "location": "Hong Kong",
     "company": "The Hong Kong Polytechnic University",
     "twitterUsername": "",
-    "followers": 131,
-    "privateContributions": 218,
-    "publicContributions": 85,
+    "followers": 133,
+    "privateContributions": 309,
+    "publicContributions": 110,
     "createdAt": "2020-07-19T06:57:31Z"
   },
   {

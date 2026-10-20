@@ -38695,8 +38695,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 25,
-    "publicContributions": 4,
+    "privateContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2020-07-17T21:13:07Z"
   },
   {
@@ -38707,7 +38707,7 @@
     "company": "@onlineminds",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1399,
+    "privateContributions": 1416,
     "publicContributions": 0,
     "createdAt": "2020-05-17T09:18:45Z"
   },
@@ -38768,7 +38768,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 128,
+    "publicContributions": 117,
     "createdAt": "2020-02-02T17:07:19Z"
   },
   {
@@ -38792,31 +38792,31 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 34,
     "createdAt": "2020-06-29T12:15:56Z"
   },
   {
     "login": "barnabaspiri",
     "name": "Barnabás Piri",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/65511350?s=72&u=241816926a066c151846bc9ba57cd70670a5a4d1&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/65511350?s=72&u=fa701d756aee07ce30d96daef06d9d93a2425fd2&v=4",
     "location": "Budapest",
     "company": "Budapest University of Technology and Economics",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 9,
     "createdAt": "2020-05-17T20:55:26Z"
   },
   {
     "login": "saorilin",
     "name": "Lin WenTao",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/63066184?s=72&u=1d201c2dd214207c59ad5c68473d594d05d30fdd&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/63066184?s=72&u=7acbc05f76301cefc4991501663b8648e4555a11&v=4",
     "location": "Budapest",
     "company": "",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 25,
     "createdAt": "2020-04-02T16:58:31Z"
   },
   {
@@ -38832,18 +38832,6 @@
     "createdAt": "2020-04-06T11:59:27Z"
   },
   {
-    "login": "Anyamborogass",
-    "name": "Bulyovcsity Kristóf",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/75327700?s=72&u=44ff5f1db4bfdffc95f3a3aba7b79965c07bfce8&v=4",
-    "location": "Budapest",
-    "company": "Zoomik",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 12,
-    "createdAt": "2020-12-01T16:43:23Z"
-  },
-  {
     "login": "Nollili",
     "name": "",
     "avatarUrl": "https://avatars.githubusercontent.com/u/66601688?s=72&u=ae531130ad77662322684e0bb6693f7834dcae49&v=4",
@@ -38852,7 +38840,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 3,
-    "publicContributions": 103,
+    "publicContributions": 152,
     "createdAt": "2020-06-08T08:17:11Z"
   },
   {
@@ -38863,8 +38851,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 866,
-    "publicContributions": 35,
+    "privateContributions": 936,
+    "publicContributions": 34,
     "createdAt": "2020-11-14T01:45:05Z"
   },
   {
@@ -38873,23 +38861,11 @@
     "avatarUrl": "https://avatars.githubusercontent.com/u/71990916?s=72&u=3d29a9f09413123d3121413e02b586a63a786c2a&v=4",
     "location": "Budapest",
     "company": "",
-    "twitterUsername": "kriscodes5",
-    "followers": 2,
-    "privateContributions": 73,
-    "publicContributions": 23,
-    "createdAt": "2020-09-27T22:20:06Z"
-  },
-  {
-    "login": "mahamudur786",
-    "name": "Bhairus",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/75782870?s=72&u=ae987a8df2a777f64e0a18c8268a698cce258ca7&v=4",
-    "location": "BUDAPEST",
-    "company": "TCS",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 37,
-    "createdAt": "2020-12-10T09:43:51Z"
+    "followers": 3,
+    "privateContributions": 135,
+    "publicContributions": 124,
+    "createdAt": "2020-09-27T22:20:06Z"
   },
   {
     "login": "turnyanszki",
@@ -38899,7 +38875,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 11,
+    "privateContributions": 57,
     "publicContributions": 0,
     "createdAt": "2020-03-09T16:45:46Z"
   },
@@ -38923,7 +38899,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 8,
+    "privateContributions": 111,
     "publicContributions": 0,
     "createdAt": "2020-07-15T08:45:50Z"
   },
