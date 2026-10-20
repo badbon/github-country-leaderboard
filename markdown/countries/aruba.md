@@ -13,7 +13,7 @@ Indexed users: 37
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [QVault](https://github.com/QVault) | Quincent | Aruba | 1,737 |
-| 2 | [azaandam](https://github.com/azaandam) | André Zaandam | Aruba | 833 |
+| 2 | [azaandam](https://github.com/azaandam) | André Zaandam | Aruba | 834 |
 | 3 | [flacle](https://github.com/flacle) | Francis Laclé | Aruba | 568 |
 | 4 | [rendell](https://github.com/rendell) | Rendell de Kort | Aruba | 562 |
 | 5 | [EstherPlomp](https://github.com/EstherPlomp) | Esther Plomp | Aruba | 496 |
@@ -83,4 +83,4 @@ Indexed users: 37
 | 19 | [DushiRox](https://github.com/DushiRox) | Roxana Rodriguez | Oranjestad, Aruba | 4 |
 | 20 | [JunyEngelhart](https://github.com/JunyEngelhart) | JunTech  (AWS Aruba) | Oranjestad, Aruba | 4 |
 
-Generated: 2026-10-20T01:59:28.387Z
+Generated: 2026-10-20T03:23:13.199Z

@@ -1,6 +1,6 @@
 # Public Contributions - Curaçao
 
-Generated: 2026-10-20T02:11:22.550Z
+Generated: 2026-10-20T03:35:53.440Z
 
 Users: 53
 
@@ -17,9 +17,9 @@ Users: 53
 | 9 | [angelrgonzalezg](https://github.com/angelrgonzalezg) | Angel R Gonzalez G | Artificial Intelligence Systems | angelrgonzalezg | Willemstad, Curacao | 45 |
 | 10 | [schroef](https://github.com/schroef) |  |  |  | Curaçao, Dutch Caribbean | 42 |
 | 11 | [bythealphabet](https://github.com/bythealphabet) | Isaac Lucas |  | bythealphabet1 | Willemstad, Curacao | 38 |
-| 12 | [agenteardilla47](https://github.com/agenteardilla47) |  | Antheus |  | willemstad | 35 |
-| 13 | [nelreina](https://github.com/nelreina) | Nelreina |  | nelreina | Willemstad, Curacao | 31 |
-| 14 | [LuukDAO](https://github.com/LuukDAO) | LuukDAO | EcoLabs | LuukDAO | Curaçao | 30 |
+| 12 | [nelreina](https://github.com/nelreina) | Nelreina |  | nelreina | Willemstad, Curacao | 31 |
+| 13 | [LuukDAO](https://github.com/LuukDAO) | LuukDAO | EcoLabs | LuukDAO | Curaçao | 30 |
+| 14 | [agenteardilla47](https://github.com/agenteardilla47) |  | Antheus |  | willemstad | 25 |
 | 15 | [mvdgun](https://github.com/mvdgun) | Mauro van der Gun | @business-one  |  | Curaçao | 23 |
 | 16 | [AngeloAAB](https://github.com/AngeloAAB) | Angelo Bartholomeus | None |  | Willemstad, Curaçao | 22 |
 | 17 | [emile2600](https://github.com/emile2600) | Emile |  |  | Willemstad, Curacao | 17 |

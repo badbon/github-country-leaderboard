@@ -1,6 +1,6 @@
 # Public Contributions - Chad
 
-Generated: 2026-10-20T02:08:20.676Z
+Generated: 2026-10-20T03:33:12.834Z
 
 Users: 201
 
@@ -13,7 +13,7 @@ Users: 201
 | 5 | [Helionux](https://github.com/Helionux) | Deoule-Allah Madjitoloum Heliodore |  |  | Tchad | 243 |
 | 6 | [black-hatn](https://github.com/black-hatn) | Nourr |  |  | Tchad | 189 |
 | 7 | [AliAttyallahAli](https://github.com/AliAttyallahAli) | Ali Attyallah Ali | Djamamariwo |  | Ndjaména/Tchad | 181 |
-| 8 | [Djerade](https://github.com/Djerade) | Djeradé Golbé Parfait |  |  | Chad | 162 |
+| 8 | [Djerade](https://github.com/Djerade) | Djeradé Golbé Parfait |  |  | Chad | 160 |
 | 9 | [Solid2017](https://github.com/Solid2017) | Betan Gildas Ongbaye | Igotech |  | Chad | 159 |
 | 10 | [sulzokeboulin](https://github.com/sulzokeboulin) | Norma Brown |  |  | West Joshuaburgh, Chad | 135 |
 | 11 | [Mbaigo](https://github.com/Mbaigo) | Evrard | THTC |  | N'Djamena | 121 |

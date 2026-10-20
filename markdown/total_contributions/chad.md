@@ -1,6 +1,6 @@
 # Total Contributions - Chad
 
-Generated: 2026-10-20T02:08:20.676Z
+Generated: 2026-10-20T03:33:12.834Z
 
 Users: 201
 
@@ -16,7 +16,7 @@ Users: 201
 | 8 | [mittb1g](https://github.com/mittb1g) |  |  |  | Chad | 251 |
 | 9 | [black-hatn](https://github.com/black-hatn) | Nourr |  |  | Tchad | 189 |
 | 10 | [AliAttyallahAli](https://github.com/AliAttyallahAli) | Ali Attyallah Ali | Djamamariwo |  | Ndjaména/Tchad | 181 |
-| 11 | [Djerade](https://github.com/Djerade) | Djeradé Golbé Parfait |  |  | Chad | 162 |
+| 11 | [Djerade](https://github.com/Djerade) | Djeradé Golbé Parfait |  |  | Chad | 160 |
 | 12 | [Solid2017](https://github.com/Solid2017) | Betan Gildas Ongbaye | Igotech |  | Chad | 159 |
 | 13 | [sulzokeboulin](https://github.com/sulzokeboulin) | Norma Brown |  |  | West Joshuaburgh, Chad | 135 |
 | 14 | [Abdelkerim516](https://github.com/Abdelkerim516) | ABDEL_ABBO | AbboTech |  | N'djamena | 122 |

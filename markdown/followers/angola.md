@@ -1,6 +1,6 @@
 # Followers - Angola
 
-Generated: 2026-10-20T02:51:24.379Z
+Generated: 2026-10-20T03:22:37.789Z
 
 Users: 2498
 
@@ -11,7 +11,7 @@ Users: 2498
 | 3 | [kurogai](https://github.com/kurogai) | Héber Júlio |  | kurogai_pwn | Luanda / Angola | 472 |
 | 4 | [EmenegildoMarques0](https://github.com/EmenegildoMarques0) | Emenegildo Marques | Eclipse Solutions |  | Angola, Luanda | 420 |
 | 5 | [JoseCage](https://github.com/JoseCage) | José Cage  |  | cagejose | Luanda, Angola | 406 |
-| 6 | [westjoao12](https://github.com/westjoao12) | West João |  |  | Angola, Luanda | 338 |
+| 6 | [westjoao12](https://github.com/westjoao12) | West João |  |  | Angola, Luanda | 349 |
 | 7 | [Adyllsxn](https://github.com/Adyllsxn) | Domingos Nascimento | innovaqui |  | Luanda, Angola | 294 |
 | 8 | [braulio94](https://github.com/braulio94) | Braulio Cassule | @selenium-digital | brauliocaassule | Luanda, Angola | 271 |
 | 9 | [gentildpinto](https://github.com/gentildpinto) | Gentil Pinto |  | gentildpinto | Luanda, Angola | 260 |
@@ -25,4 +25,4 @@ Users: 2498
 | 17 | [nazarepiedady](https://github.com/nazarepiedady) | Nazaré da Piedade | @vitejs, @vuejs-translations, @pythonpt, @javascript-tutorial | nazarepiedady | Angola | 171 |
 | 18 | [cirilocanganjo](https://github.com/cirilocanganjo) | Cirilo Cussaca Canganjo |  | cirilocussaca | Luanda, Amgola | 170 |
 | 19 | [manuelernesto](https://github.com/manuelernesto) | Manuel Ernesto | Software Engineer | manuelernest0 | Angola | 166 |
-| 20 | [Jovanysfive](https://github.com/Jovanysfive) | Job Bento |  | Jovany_sfive1 | Angola/Luanda | 152 |
+| 20 | [AfonsoAfony](https://github.com/AfonsoAfony) | Afonso Narciso Da Silva |  |  | Luanda/Angola | 157 |

@@ -55,7 +55,7 @@ Indexed users: 61
 | 16 | [hkarlstrom](https://github.com/hkarlstrom) | Henrik Karlström | Åland Islands | 67 |
 | 17 | [ejmilli](https://github.com/ejmilli) | eliza john |  Åland Islands, Finland | 46 |
 | 18 | [johanwestling](https://github.com/johanwestling) | Johan Westling | Åland, Finland | 46 |
-| 19 | [borsokman](https://github.com/borsokman) | Sagyn | Mariehamn & Stockholm  | 14 |
+| 19 | [borsokman](https://github.com/borsokman) | Sagyn | Mariehamn & Stockholm  | 36 |
 | 20 | [tommybarden](https://github.com/tommybarden) |  | Åland Islands | 12 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 61
 | 19 | [GitHug](https://github.com/GitHug) | Fredrik Mäkilä | London / Mariehamn | 10 |
 | 20 | [fannielf](https://github.com/fannielf) | Fanni Vesanen | Mariehamn | 9 |
 
-Generated: 2026-10-20T01:54:46.471Z
+Generated: 2026-10-20T03:20:48.720Z

@@ -30,8 +30,8 @@ Indexed users: 2,378
 | 16 | [aedneth](https://github.com/aedneth) | Eduardo A. Borjas | San Salvador, El Salvador | 4,934 |
 | 17 | [eduard-gonzalez](https://github.com/eduard-gonzalez) | Efrain Gonzalez | El Salvador | 4,888 |
 | 18 | [wmacall](https://github.com/wmacall) | Macall | El Salvador | 4,863 |
-| 19 | [lucario028](https://github.com/lucario028) | Lucaritas | El Salvador | 4,586 |
-| 20 | [ThomasFarstrike](https://github.com/ThomasFarstrike) | Thomas Farstrike | El Zonte, El Salvador | 4,489 |
+| 19 | [LemonMantis5571](https://github.com/LemonMantis5571) | Leonel Guerrero | El Salvador | 4,603 |
+| 20 | [lucario028](https://github.com/lucario028) | Lucaritas | El Salvador | 4,586 |
 
 ## Public Contributions
 
@@ -47,7 +47,7 @@ Indexed users: 2,378
 | 8 | [Haruki1707](https://github.com/Haruki1707) | Diego Gómez | El Salvador | 1,701 |
 | 9 | [Thrumanshow](https://github.com/Thrumanshow) | Cristhiam Leonardo Hernández Quiñonez  | El Salvador  | 1,655 |
 | 10 | [jcanizalez](https://github.com/jcanizalez) | Javier Canizalez | El Salvador | 1,616 |
-| 11 | [LemonMantis5571](https://github.com/LemonMantis5571) | Leonel Guerrero | El Salvador | 1,206 |
+| 11 | [LemonMantis5571](https://github.com/LemonMantis5571) | Leonel Guerrero | El Salvador | 1,262 |
 | 12 | [daiv05](https://github.com/daiv05) | David DV | San Salvador | 1,186 |
 | 13 | [replaceafill](https://github.com/replaceafill) | Douglas Cerna | San Salvador, El Salvador | 1,119 |
 | 14 | [KevLehman](https://github.com/KevLehman) | Kevin Aleman | El Salvador | 1,064 |
@@ -55,8 +55,8 @@ Indexed users: 2,378
 | 16 | [Alexisrx96](https://github.com/Alexisrx96) | Irvin Torres | El Salvador | 1,035 |
 | 17 | [Lenny004](https://github.com/Lenny004) | Lenny Sánchez | El Salvador | 972 |
 | 18 | [Francisco-Guillermo-Hernandez](https://github.com/Francisco-Guillermo-Hernandez) | Francisco Guillermo Hernandez | El Salvador, San Salvador | 922 |
-| 19 | [FredyRivera-dev](https://github.com/FredyRivera-dev) | Fredy Rivera | El Salvador, San Vicente | 908 |
-| 20 | [C3SC0-V4113](https://github.com/C3SC0-V4113) | Francisco José Valle Cornejo | El Salvador, San Salvador | 897 |
+| 19 | [beihaili](https://github.com/beihaili) | bhbtc1337 | El Salvador | 909 |
+| 20 | [FredyRivera-dev](https://github.com/FredyRivera-dev) | Fredy Rivera | El Salvador, San Vicente | 908 |
 
 ## Followers
 
@@ -72,8 +72,8 @@ Indexed users: 2,378
 | 8 | [ferjoaguilar](https://github.com/ferjoaguilar) | Fernando Jose Aguilar Rivas | El Salvador, San Salvador | 142 |
 | 9 | [Alejandroq12](https://github.com/Alejandroq12) | Julio Quezada | El Salvador | 135 |
 | 10 | [dgerardoflores](https://github.com/dgerardoflores) | Gerardo Flores | El Salvador | 125 |
-| 11 | [josueayala27](https://github.com/josueayala27) | Josué Ayala | San Salvador | 125 |
-| 12 | [exequiel-miranda](https://github.com/exequiel-miranda) | Exequiel Miranda | El Salvador | 124 |
+| 11 | [exequiel-miranda](https://github.com/exequiel-miranda) | Exequiel Miranda | El Salvador | 125 |
+| 12 | [josueayala27](https://github.com/josueayala27) | Josué Ayala | San Salvador | 125 |
 | 13 | [ricardoerl](https://github.com/ricardoerl) | Ricardo Ramírez | El Salvador | 123 |
 | 14 | [DanielRivera03](https://github.com/DanielRivera03) | Daniel Rivera | San Salvador, El Salvador | 120 |
 | 15 | [Nexxtor](https://github.com/Nexxtor) | Nestor Aldana | El Salvador | 117 |
@@ -83,4 +83,4 @@ Indexed users: 2,378
 | 19 | [MiPrimerBitcoin](https://github.com/MiPrimerBitcoin) | Mi Primer Bitcoin El Salvador | El Salvador | 97 |
 | 20 | [davequinta](https://github.com/davequinta) | David Quintanilla | El Salvador | 95 |
 
-Generated: 2026-10-20T02:14:09.685Z
+Generated: 2026-10-20T03:40:03.982Z

@@ -75,12 +75,12 @@ Indexed users: 2,723
 | 11 | [tony2001](https://github.com/tony2001) | Antony Dovgal | Limassol, Cyprus | 373 |
 | 12 | [dgutov](https://github.com/dgutov) | Dmitry Gutov | Limassol, Cyprus | 355 |
 | 13 | [fedosejev](https://github.com/fedosejev) | Artemij Fedosejev | Paphos, Cyprus | 352 |
-| 14 | [GrigoriiTarasov](https://github.com/GrigoriiTarasov) |  | Cyprus, Limassol | 334 |
-| 15 | [unsaldemircioglu](https://github.com/unsaldemircioglu) | Ünsal Demircioğlu | Cyprus | 332 |
+| 14 | [unsaldemircioglu](https://github.com/unsaldemircioglu) | Ünsal Demircioğlu | Cyprus | 340 |
+| 15 | [GrigoriiTarasov](https://github.com/GrigoriiTarasov) |  | Cyprus, Limassol | 334 |
 | 16 | [merikbest](https://github.com/merikbest) | Miroslav  Khotinskiy | Cyprus | 302 |
 | 17 | [paracycle](https://github.com/paracycle) | Ufuk Kayserilioglu | Nicosia, Cyprus | 302 |
 | 18 | [gosom](https://github.com/gosom) | Georgios Komninos | Cyprus | 253 |
 | 19 | [sudoguy](https://github.com/sudoguy) | Evgeny Kemerov | Limassol, Cyprus | 251 |
 | 20 | [polterguy](https://github.com/polterguy) | Thomas Hansen | Cyprus | 245 |
 
-Generated: 2026-10-20T02:12:01.332Z
+Generated: 2026-10-20T03:36:17.959Z

@@ -1,6 +1,6 @@
 # Followers - Albania
 
-Generated: 2026-10-20T01:55:19.781Z
+Generated: 2026-10-20T03:20:51.210Z
 
 Users: 1183
 
@@ -8,7 +8,7 @@ Users: 1183
 |---:|---|---|---|---|---|---:|
 | 1 | [vasilirigels](https://github.com/vasilirigels) | Vasili Rigels | @SisalSpA |  | Tirana, Albania | 3784 |
 | 2 | [jbaci](https://github.com/jbaci) | J.Baci | Vibrance.al |  | Tirana, Albania | 1887 |
-| 3 | [redianmarku](https://github.com/redianmarku) | Redian Marku |  |  | Albania | 773 |
+| 3 | [redianmarku](https://github.com/redianmarku) | Redian Marku |  |  | Albania | 772 |
 | 4 | [4lbH4cker](https://github.com/4lbH4cker) | 4lbH4cker |  |  | Albania | 722 |
 | 5 | [eneajaho](https://github.com/eneajaho) | Enea Jahollari | Push-Based.io | enea_jahollari | Albania | 461 |
 | 6 | [DenDev712](https://github.com/DenDev712) | Denis Papara |  |  | Tirana, Albania | 236 |
@@ -21,8 +21,8 @@ Users: 1183
 | 13 | [devklajd](https://github.com/devklajd) | Klajd Belishaku |  |  | Tirana, Albania | 90 |
 | 14 | [KristiSeraj](https://github.com/KristiSeraj) | Kristi |  | kristiseraj | Albania | 90 |
 | 15 | [nikolliervin](https://github.com/nikolliervin) | undefined |  |  | Tirana, Albania | 87 |
-| 16 | [AndiXplorer](https://github.com/AndiXplorer) | Young Moon |  |  | Albania | 86 |
-| 17 | [rinor](https://github.com/rinor) | Rinor Hoxha | BAITS sh.p.k | rinorhoxha | Albania, Tirane | 86 |
+| 16 | [rinor](https://github.com/rinor) | Rinor Hoxha | BAITS sh.p.k | rinorhoxha | Albania, Tirane | 86 |
+| 17 | [AndiXplorer](https://github.com/AndiXplorer) | Young Moon |  |  | Albania | 85 |
 | 18 | [joanjanku2000](https://github.com/joanjanku2000) | Joan Janku |  |  | Albania | 85 |
 | 19 | [SxtBox](https://github.com/SxtBox) | Albdroid.AL | PHP Framework |  | Albania | 81 |
 | 20 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | CyberSecurity Researcher, Red Team, Bug Hunter | OrgitoRTA | Albania | 77 |

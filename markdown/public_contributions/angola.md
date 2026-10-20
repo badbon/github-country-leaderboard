@@ -1,6 +1,6 @@
 # Public Contributions - Angola
 
-Generated: 2026-10-20T02:51:24.379Z
+Generated: 2026-10-20T03:22:37.789Z
 
 Users: 2498
 
@@ -14,15 +14,15 @@ Users: 2498
 | 6 | [alberto-rj](https://github.com/alberto-rj) | Alberto José |  | alberto_rj_dev |  Luanda, Angola | 2265 |
 | 7 | [skillmio](https://github.com/skillmio) | Skillmio |  |  | Angola | 2160 |
 | 8 | [Enock200558](https://github.com/Enock200558) | Enoque Bumba Cando  | GASOtec Corporation  |  | Angola 🇦🇴 | 2126 |
-| 9 | [emanuel-malungo](https://github.com/emanuel-malungo) | Emanuel Malungo | 42 Luanda |  |  Luanda, Angola | 1779 |
-| 10 | [adilson889](https://github.com/adilson889) | Adilson C. Rafael | @getnativelayout |  | Moçâmedes, Namibe, Angola | 1652 |
-| 11 | [LouAntonio](https://github.com/LouAntonio) | Lourenço António Dala | 42 Luanda |  | Luanda, Angola | 1569 |
-| 12 | [SW-Wanted](https://github.com/SW-Wanted) | Emanuel dos Santos | ISPTEC, 42 Luanda |  | Angola | 1421 |
-| 13 | [jormaedes](https://github.com/jormaedes) | Jormaedes Luís |  |  | Angola | 1374 |
-| 14 | [joaquimmulaza](https://github.com/joaquimmulaza) | Joaquim Mulaza | Yaala | JoaquimMulaza | Luanda Angola | 1332 |
-| 15 | [ercabsalias](https://github.com/ercabsalias) | Ernesto Cabingano Salias | @IS4S-Intelligence-Software-Solutions  |  | Angola - Luanda Viana Estalagem | 1169 |
-| 16 | [marcmav](https://github.com/marcmav) | Marciano Mavungo | 42 Luanda |  | Luanda, Angola | 1064 |
-| 17 | [kandadavid36](https://github.com/kandadavid36) | Kanda David | ngoladata.com.ao |  | Angola | 1060 |
-| 18 | [joao-tambue](https://github.com/joao-tambue) | João Tambue |  |  | Angola/Luanda | 1018 |
-| 19 | [Wolf-Quiteque](https://github.com/Wolf-Quiteque) | Marcio Ragy Daveiga Quiteque |  |  | Luanda, Angola | 945 |
-| 20 | [DumiJDev](https://github.com/DumiJDev) | Dumildes Paulo |  | PauloDumildes | Luanda, Angola | 879 |
+| 9 | [jedin01](https://github.com/jedin01) | Abner Lourenço |  | jdn_098 | Angola | 1826 |
+| 10 | [emanuel-malungo](https://github.com/emanuel-malungo) | Emanuel Malungo | 42 Luanda |  |  Luanda, Angola | 1779 |
+| 11 | [adilson889](https://github.com/adilson889) | Adilson C. Rafael | @getnativelayout |  | Moçâmedes, Namibe, Angola | 1652 |
+| 12 | [LouAntonio](https://github.com/LouAntonio) | Lourenço António Dala | 42 Luanda |  | Luanda, Angola | 1569 |
+| 13 | [SW-Wanted](https://github.com/SW-Wanted) | Emanuel dos Santos | ISPTEC, 42 Luanda |  | Angola | 1421 |
+| 14 | [jormaedes](https://github.com/jormaedes) | Jormaedes Luís |  |  | Angola | 1374 |
+| 15 | [joaquimmulaza](https://github.com/joaquimmulaza) | Joaquim Mulaza | Yaala | JoaquimMulaza | Luanda Angola | 1332 |
+| 16 | [ercabsalias](https://github.com/ercabsalias) | Ernesto Cabingano Salias | @IS4S-Intelligence-Software-Solutions  |  | Angola - Luanda Viana Estalagem | 1169 |
+| 17 | [marcmav](https://github.com/marcmav) | Marciano Mavungo | 42 Luanda |  | Luanda, Angola | 1064 |
+| 18 | [kandadavid36](https://github.com/kandadavid36) | Kanda David | ngoladata.com.ao |  | Angola | 1060 |
+| 19 | [joao-tambue](https://github.com/joao-tambue) | João Tambue |  |  | Angola/Luanda | 1018 |
+| 20 | [Wolf-Quiteque](https://github.com/Wolf-Quiteque) | Marcio Ragy Daveiga Quiteque |  |  | Luanda, Angola | 945 |

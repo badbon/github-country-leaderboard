@@ -1,6 +1,6 @@
 # Followers - El Salvador
 
-Generated: 2026-10-20T02:14:09.685Z
+Generated: 2026-10-20T03:40:03.982Z
 
 Users: 2378
 
@@ -16,8 +16,8 @@ Users: 2378
 | 8 | [ferjoaguilar](https://github.com/ferjoaguilar) | Fernando Jose Aguilar Rivas | snowball-devs |  | El Salvador, San Salvador | 142 |
 | 9 | [Alejandroq12](https://github.com/Alejandroq12) | Julio Quezada | Ravn |  | El Salvador | 135 |
 | 10 | [dgerardoflores](https://github.com/dgerardoflores) | Gerardo Flores | NotAwait | dgerardoflores | El Salvador | 125 |
-| 11 | [josueayala27](https://github.com/josueayala27) | Josué Ayala |  | josue_ayala27 | San Salvador | 125 |
-| 12 | [exequiel-miranda](https://github.com/exequiel-miranda) | Exequiel Miranda |  |  | El Salvador | 124 |
+| 11 | [exequiel-miranda](https://github.com/exequiel-miranda) | Exequiel Miranda |  |  | El Salvador | 125 |
+| 12 | [josueayala27](https://github.com/josueayala27) | Josué Ayala |  | josue_ayala27 | San Salvador | 125 |
 | 13 | [ricardoerl](https://github.com/ricardoerl) | Ricardo Ramírez | Applaudo | ricardoerl | El Salvador | 123 |
 | 14 | [DanielRivera03](https://github.com/DanielRivera03) | Daniel Rivera | COAMSS/OPAMSS |  | San Salvador, El Salvador | 120 |
 | 15 | [Nexxtor](https://github.com/Nexxtor) | Nestor Aldana |  |  | El Salvador | 117 |

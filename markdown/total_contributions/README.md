@@ -21,7 +21,7 @@ Published countries: 234
 | Azerbaijan | 5,051 | [View](./azerbaijan.md) |
 | Bahamas | 236 | [View](./bahamas.md) |
 | Bahrain | 727 | [View](./bahrain.md) |
-| Bangladesh | 55,315 | [View](./bangladesh.md) |
+| Bangladesh | 55,314 | [View](./bangladesh.md) |
 | Barbados | 132 | [View](./barbados.md) |
 | Belarus | 10,928 | [View](./belarus.md) |
 | Belgium | 18,378 | [View](./belgium.md) |
@@ -49,10 +49,10 @@ Published countries: 234
 | Chile | 19,377 | [View](./chile.md) |
 | Christmas Island | 20 | [View](./christmas_island.md) |
 | Cocos (Keeling) Islands | 9 | [View](./cocos_keeling_islands.md) |
-| Colombia | 29,152 | [View](./colombia.md) |
+| Colombia | 29,151 | [View](./colombia.md) |
 | Comoros | 11 | [View](./comoros.md) |
 | Cook Islands | 7 | [View](./cook_islands.md) |
-| Costa Rica | 5,625 | [View](./costa_rica.md) |
+| Costa Rica | 5,624 | [View](./costa_rica.md) |
 | Croatia | 5,424 | [View](./croatia.md) |
 | Cuba | 1,273 | [View](./cuba.md) |
 | Curaçao | 53 | [View](./curacao.md) |
@@ -205,7 +205,7 @@ Published countries: 234
 | Sudan | 727 | [View](./sudan.md) |
 | Suriname | 123 | [View](./suriname.md) |
 | Svalbard and Jan Mayen | 10 | [View](./svalbard_and_jan_mayen.md) |
-| Sweden | 39,033 | [View](./sweden.md) |
+| Sweden | 39,032 | [View](./sweden.md) |
 | Switzerland | 24,078 | [View](./switzerland.md) |
 | Syria | 1,480 | [View](./syria.md) |
 | Taiwan | 21,994 | [View](./taiwan.md) |
@@ -223,8 +223,8 @@ Published countries: 234
 | Turks and Caicos Islands | 7 | [View](./turks_and_caicos_islands.md) |
 | Tuvalu | 11 | [View](./tuvalu.md) |
 | Uganda | 3,864 | [View](./uganda.md) |
-| Ukraine | 47,737 | [View](./ukraine.md) |
-| United Arab Emirates | 4,222 | [View](./united_arab_emirates.md) |
+| Ukraine | 47,736 | [View](./ukraine.md) |
+| United Arab Emirates | 4,220 | [View](./united_arab_emirates.md) |
 | United States Minor Outlying Islands | 0 | [View](./united_states_minor_outlying_islands.md) |
 | United States Virgin Islands | 4 | [View](./united_states_virgin_islands.md) |
 | Uruguay | 5,608 | [View](./uruguay.md) |
@@ -239,4 +239,4 @@ Published countries: 234
 | Zambia | 1,337 | [View](./zambia.md) |
 | Zimbabwe | 1,656 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-20T03:08:42.242Z
+Generated: 2026-10-20T03:42:45.393Z

@@ -1,6 +1,6 @@
 # Total Contributions - Angola
 
-Generated: 2026-10-20T02:51:24.379Z
+Generated: 2026-10-20T03:22:37.789Z
 
 Users: 2498
 
@@ -19,8 +19,8 @@ Users: 2498
 | 11 | [bentocussei](https://github.com/bentocussei) | Bento Cussei |  | bentobenack | Luanda, Angola | 5633 |
 | 12 | [emanuel-malungo](https://github.com/emanuel-malungo) | Emanuel Malungo | 42 Luanda |  |  Luanda, Angola | 5486 |
 | 13 | [osvaldowafulua](https://github.com/osvaldowafulua) | Osvaldo Wafulua | Smart Cloud |  | Angola | 4952 |
-| 14 | [noejunior299](https://github.com/noejunior299) | Noé Idagi | ITEL - Institute of Telecomunications | noejunior299 | Angola/Luanda | 4947 |
-| 15 | [joel2011140](https://github.com/joel2011140) | Joel Marinho |  | joelmarinho2016 | Luanda | 4832 |
+| 14 | [joel2011140](https://github.com/joel2011140) | Joel Marinho |  | joelmarinho2016 | Luanda | 4832 |
+| 15 | [noejunior299](https://github.com/noejunior299) | Noé Idagi | ITEL - Institute of Telecomunications | noejunior299 | Angola/Luanda | 4741 |
 | 16 | [makeneto](https://github.com/makeneto) | Makene Neto | makenedev |  | Luanda, Angola | 4632 |
 | 17 | [Zebedeu](https://github.com/Zebedeu) | Marcio Zebedeu |  | marciozebedeu | Angola | 4177 |
 | 18 | [ithustle](https://github.com/ithustle) | Célio Garcia | @ToqueMedia | hackgarcia | Luanda, Angola | 4136 |

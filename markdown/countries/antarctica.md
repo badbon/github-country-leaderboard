@@ -64,7 +64,7 @@ Indexed users: 460
 |---:|---|---|---|---:|
 | 1 | [adam-maj](https://github.com/adam-maj) | Adam Majmudar | South Pole, Antarctica | 1,912 |
 | 2 | [Washi1337](https://github.com/Washi1337) | Washi | McMurdo Station, Antarctica | 617 |
-| 3 | [r-lyeh](https://github.com/r-lyeh) |  | Vostok, Antarctica | 464 |
+| 3 | [r-lyeh](https://github.com/r-lyeh) |  | Vostok, Antarctica | 463 |
 | 4 | [josephpoon](https://github.com/josephpoon) | Joseph Poon | Antarctica | 343 |
 | 5 | [walterwhite-69](https://github.com/walterwhite-69) | Walter | Antarctica | 222 |
 | 6 | [kura](https://github.com/kura) | Kura | Halley Research Station, Antarctica | 199 |
@@ -83,4 +83,4 @@ Indexed users: 460
 | 19 | [alphaaurigae](https://github.com/alphaaurigae) | Marian Brockerhoff | Antarctica | 85 |
 | 20 | [fakeid30](https://github.com/fakeid30) | Fake ID | Antarctica | 78 |
 
-Generated: 2026-10-20T01:57:54.151Z
+Generated: 2026-10-20T03:23:02.095Z

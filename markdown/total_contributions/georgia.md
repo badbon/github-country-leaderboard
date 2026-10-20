@@ -1,6 +1,6 @@
 # Total Contributions - Georgia
 
-Generated: 2026-10-20T01:54:10.943Z
+Generated: 2026-10-20T03:20:41.475Z
 
 Users: 6877
 
@@ -16,13 +16,13 @@ Users: 6877
 | 8 | [NSchatz](https://github.com/NSchatz) | Noah Schatz |  |  | Georgia | 14272 |
 | 9 | [thedavidmeister](https://github.com/thedavidmeister) | David Meister |  |  | Tbilisi | 13937 |
 | 10 | [l0rtk](https://github.com/l0rtk) | Luka Lortkipanidze |  |  | Ambrolauri,Georgia | 13618 |
-| 11 | [asyncfinkd](https://github.com/asyncfinkd) | Nika Shamiladze |  |  | Georgia | 12903 |
-| 12 | [Krut](https://github.com/Krut) | Michael Krautwald |  |  | Tbilisi, Georgia | 12892 |
-| 13 | [z12ob](https://github.com/z12ob) | Guram Melikidze | Perk |  | Tbilisi | 12688 |
-| 14 | [Chkhikvadzeg](https://github.com/Chkhikvadzeg) | Giorgi Chkhikvadze | @tetrobyte-studio |  | Tbilisi, Georgia | 12539 |
-| 15 | [badbon](https://github.com/badbon) | bolko |  |  | Georgia | 12412 |
-| 16 | [kevinthelago](https://github.com/kevinthelago) | Kevin Lago | Individual | kevinthelago | Georgia | 12412 |
-| 17 | [skulidropek](https://github.com/skulidropek) | Skuli Dropek |  |  | Tbilisi | 12249 |
+| 11 | [skulidropek](https://github.com/skulidropek) | Skuli Dropek |  |  | Tbilisi | 13102 |
+| 12 | [asyncfinkd](https://github.com/asyncfinkd) | Nika Shamiladze |  |  | Georgia | 12903 |
+| 13 | [Krut](https://github.com/Krut) | Michael Krautwald |  |  | Tbilisi, Georgia | 12892 |
+| 14 | [z12ob](https://github.com/z12ob) | Guram Melikidze | Perk |  | Tbilisi | 12688 |
+| 15 | [Chkhikvadzeg](https://github.com/Chkhikvadzeg) | Giorgi Chkhikvadze | @tetrobyte-studio |  | Tbilisi, Georgia | 12539 |
+| 16 | [badbon](https://github.com/badbon) | bolko |  |  | Georgia | 12412 |
+| 17 | [kevinthelago](https://github.com/kevinthelago) | Kevin Lago | Individual | kevinthelago | Georgia | 12412 |
 | 18 | [irakli-lekishvili](https://github.com/irakli-lekishvili) | Irakli Lekishvili |  |  | Tbilisi, Georgia | 11858 |
 | 19 | [JEuler](https://github.com/JEuler) | Ivan Terekhin | Trifoil Trailblazer |  | Tbilisi, Georgia | 11295 |
 | 20 | [lexfrei](https://github.com/lexfrei) | Aleksei Sviridkin | @aenix-io | lexfrei | Tbilisi | 11195 |
