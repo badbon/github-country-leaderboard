@@ -37856,7 +37856,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 84,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2016-04-11T07:00:05Z"
   },
   {
@@ -37866,22 +37866,10 @@
     "location": "Abu Dhabi, United Arab Emirates",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 12,
     "createdAt": "2016-04-02T16:57:33Z"
-  },
-  {
-    "login": "sanaabdullah",
-    "name": "Sana Abdullah",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/22071441?s=72&u=91b0fd5c3b0794f7ac0929327adcaea89fc6ef9b&v=4",
-    "location": "Dubai, United Arab Emirates",
-    "company": "Kitsune Technologies",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2016-09-08T08:01:09Z"
   },
   {
     "login": "aftab3866",
@@ -37892,7 +37880,7 @@
     "twitterUsername": "Aftab_jmi",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 79,
+    "publicContributions": 69,
     "createdAt": "2016-03-09T15:16:59Z"
   },
   {
@@ -37915,8 +37903,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 586,
-    "publicContributions": 16,
+    "privateContributions": 987,
+    "publicContributions": 23,
     "createdAt": "2016-06-25T18:31:27Z"
   },
   {
@@ -37927,7 +37915,7 @@
     "company": "Careem",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 64,
+    "privateContributions": 76,
     "publicContributions": 10,
     "createdAt": "2016-01-21T22:57:59Z"
   },
@@ -37939,7 +37927,7 @@
     "company": "1CURATED",
     "twitterUsername": "jaseel696",
     "followers": 1,
-    "privateContributions": 81,
+    "privateContributions": 134,
     "publicContributions": 5,
     "createdAt": "2016-09-25T15:32:10Z"
   },
@@ -37974,9 +37962,9 @@
     "location": "United Arab Emirates",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 14,
     "createdAt": "2016-04-24T17:19:08Z"
   },
   {
@@ -37986,7 +37974,7 @@
     "location": "United Arab Emirates",
     "company": "Xische & Co",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-05-14T20:33:16Z"
@@ -38060,7 +38048,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 78,
+    "publicContributions": 156,
     "createdAt": "2016-10-19T10:12:44Z"
   },
   {
@@ -38071,7 +38059,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 52,
+    "privateContributions": 47,
     "publicContributions": 0,
     "createdAt": "2016-01-20T10:06:50Z"
   },

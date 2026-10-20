@@ -38250,9 +38250,9 @@
     "location": "Graz, Austria",
     "company": "vusion.com",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2021-01-11T14:12:43Z"
   },
   {
@@ -38263,8 +38263,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 39,
-    "publicContributions": 49,
+    "privateContributions": 38,
+    "publicContributions": 17,
     "createdAt": "2021-03-13T10:07:19Z"
   },
   {
@@ -38275,8 +38275,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 19,
-    "publicContributions": 53,
+    "privateContributions": 3,
+    "publicContributions": 48,
     "createdAt": "2021-02-22T21:09:29Z"
   },
   {
@@ -38288,7 +38288,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 20,
     "createdAt": "2021-11-20T21:48:24Z"
   },
   {
@@ -38298,8 +38298,8 @@
     "location": "Innsbruck, Austria",
     "company": "Morgendigital GmbH",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 59,
+    "followers": 4,
+    "privateContributions": 249,
     "publicContributions": 2,
     "createdAt": "2021-12-06T12:53:56Z"
   },
@@ -38324,7 +38324,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 14,
     "createdAt": "2021-10-15T16:17:47Z"
   },
   {
@@ -38334,8 +38334,8 @@
     "location": "Austria",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 15,
+    "followers": 5,
+    "privateContributions": 30,
     "publicContributions": 2,
     "createdAt": "2021-12-09T16:43:41Z"
   },
@@ -38358,9 +38358,9 @@
     "location": "Salzburg, Austria",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 15,
     "createdAt": "2021-05-25T13:45:52Z"
   },
   {
@@ -38371,8 +38371,8 @@
     "company": "HTL Spengergasse",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 14,
-    "publicContributions": 3,
+    "privateContributions": 16,
+    "publicContributions": 4,
     "createdAt": "2021-06-15T16:36:20Z"
   },
   {
@@ -38383,7 +38383,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 1510,
+    "privateContributions": 2060,
     "publicContributions": 4,
     "createdAt": "2021-09-02T14:42:25Z"
   },
@@ -38395,8 +38395,8 @@
     "company": "nonext",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 423,
-    "publicContributions": 72,
+    "privateContributions": 610,
+    "publicContributions": 87,
     "createdAt": "2021-01-30T14:37:53Z"
   },
   {
@@ -38406,7 +38406,7 @@
     "location": "Vienna, Austria",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 5,
     "createdAt": "2021-04-10T09:49:19Z"
@@ -38438,7 +38438,7 @@
   {
     "login": "xXSoupNoobXx",
     "name": "SoupNoob",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/86380999?s=72&u=608aa4cc21632908e5c086e744154ce00ca5f937&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/86380999?s=72&u=cddd0c8b37d4ba2dbf0712501596175179a5db26&v=4",
     "location": "Austria",
     "company": "",
     "twitterUsername": "",
@@ -38454,9 +38454,9 @@
     "location": "Austria",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 691,
-    "publicContributions": 1127,
+    "followers": 2,
+    "privateContributions": 706,
+    "publicContributions": 1237,
     "createdAt": "2021-03-27T14:20:00Z"
   },
   {
@@ -38467,20 +38467,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 0,
+    "privateContributions": 1,
+    "publicContributions": 1,
     "createdAt": "2021-07-27T12:22:47Z"
   },
   {
     "login": "Persie0",
     "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/76871553?s=72&u=8f003f0dce55edcd639924b2e7cb83860221ba99&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/76871553?s=72&u=06322ecf4d4f44987463f783f055aae7446befcb&v=4",
     "location": "Austria",
-    "company": "Vienna University of Technology",
+    "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 12194,
-    "publicContributions": 166,
+    "privateContributions": 17941,
+    "publicContributions": 4422,
     "createdAt": "2021-01-02T12:51:03Z"
   },
   {

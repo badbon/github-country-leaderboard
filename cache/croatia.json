@@ -38491,7 +38491,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 258,
+    "privateContributions": 169,
     "publicContributions": 2,
     "createdAt": "2016-10-03T20:49:06Z"
   },
@@ -38503,8 +38503,8 @@
     "company": "Martian & Machine",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 399,
-    "publicContributions": 6,
+    "privateContributions": 596,
+    "publicContributions": 8,
     "createdAt": "2016-07-22T09:26:33Z"
   },
   {
@@ -38563,7 +38563,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 2227,
+    "privateContributions": 2958,
     "publicContributions": 5,
     "createdAt": "2016-04-15T22:32:07Z"
   },
@@ -38592,18 +38592,6 @@
     "createdAt": "2016-11-11T19:57:40Z"
   },
   {
-    "login": "ivanmixo",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/22431091?s=72&v=4",
-    "location": "Croatia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 36,
-    "createdAt": "2016-09-25T15:59:20Z"
-  },
-  {
     "login": "lbagic",
     "name": "Luka Bagic",
     "avatarUrl": "https://avatars.githubusercontent.com/u/23133741?s=72&v=4",
@@ -38611,8 +38599,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 2324,
-    "publicContributions": 39,
+    "privateContributions": 8063,
+    "publicContributions": 135,
     "createdAt": "2016-10-29T06:59:08Z"
   },
   {
@@ -38623,7 +38611,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 20,
+    "privateContributions": 25,
     "publicContributions": 0,
     "createdAt": "2016-11-28T08:15:46Z"
   },
@@ -38636,7 +38624,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 4,
     "createdAt": "2016-04-02T14:29:59Z"
   },
   {
@@ -38718,8 +38706,8 @@
     "location": "Croatia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 5,
+    "followers": 2,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-07-30T07:56:21Z"
   },
