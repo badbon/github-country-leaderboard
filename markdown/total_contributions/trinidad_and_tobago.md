@@ -1,13 +1,13 @@
 # Total Contributions - Trinidad and Tobago
 
-Generated: 2026-10-20T09:39:49.517Z
+Generated: 2026-10-20T13:17:48.149Z
 
 Users: 256
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [jeiang](https://github.com/jeiang) | Aidan Pinard | CIBC Caribbean | jeiang_ | Trinidad and Tobago | 6222 |
-| 2 | [Spartanlasergun](https://github.com/Spartanlasergun) | Narendra Singh |  |  | Trinidad and Tobago | 6066 |
+| 2 | [Spartanlasergun](https://github.com/Spartanlasergun) | Narendra Singh |  |  | Trinidad and Tobago | 6019 |
 | 3 | [jefroy](https://github.com/jefroy) | Ajay Sieunarine | PGS |  | Trinidad and Tobago | 4401 |
 | 4 | [kyledef](https://github.com/kyledef) | Kyle E DeFreitas | @squareup  | kyle_def | Canda / Trinidad and Tobago / St Vincent and the Grenadines | 3151 |
 | 5 | [Emille1723](https://github.com/Emille1723) | Emille Henry |  |  | Trinidad and Tobago | 3098 |
@@ -25,4 +25,4 @@ Users: 256
 | 17 | [aaronbesson](https://github.com/aaronbesson) | AaronB | @aaronbesson | aaronbesson | Trinidad and Tobago | 1031 |
 | 18 | [adrifranCode](https://github.com/adrifranCode) | Adrien Francois |  |  | Trinidad and Tobago | 1006 |
 | 19 | [kwamet](https://github.com/kwamet) | Kwame Trancoso | @Heft-IQ |  | Trinidad and Tobago | 998 |
-| 20 | [DanielYatali](https://github.com/DanielYatali) | Daniel Yatali | Wepala |  | Trinidad and Tobago | 983 |
+| 20 | [ZeroDayz77](https://github.com/ZeroDayz77) | Darnell Garcia |  |  | Trinidad and Tobago | 980 |

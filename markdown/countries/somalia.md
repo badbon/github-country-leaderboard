@@ -23,7 +23,7 @@ Indexed users: 865
 | 9 | [xamiir](https://github.com/xamiir) | Abdullahi Abdi Ahmed | Somalia  | 4,767 |
 | 10 | [Mustafaa4A](https://github.com/Mustafaa4A) | Mustaf Abubakar Abdullahi | Mogadishu, Somalia | 4,247 |
 | 11 | [3bdirahman](https://github.com/3bdirahman) | Abdirahman jimale | Mogadishu, Somalia | 4,031 |
-| 12 | [hanad124](https://github.com/hanad124) | Hanad Mohamed Dahir | Mogadishu \| Somalia | 4,006 |
+| 12 | [hanad124](https://github.com/hanad124) | Hanad Mohamed Dahir | Mogadishu \| Somalia | 3,922 |
 | 13 | [najiibmohamed11](https://github.com/najiibmohamed11) | Abdinajib  | Mogadishu, Somalia  | 3,878 |
 | 14 | [mrabukar](https://github.com/mrabukar) | Mr Abukar | Mogadisho, Somalia | 3,831 |
 | 15 | [abzalan](https://github.com/abzalan) | Abdizalaan H Abdi | Mogadishu, Somalia | 3,504 |
@@ -66,7 +66,7 @@ Indexed users: 865
 | 2 | [omartood](https://github.com/omartood) | Omar Tood | Somalia | 582 |
 | 3 | [Sharmasheeno](https://github.com/Sharmasheeno) | Sharmake Hassan | Somalia-Mogadishu  | 540 |
 | 4 | [ahmed-moha](https://github.com/ahmed-moha) | Ahmed Mohamed Abdulkadir | Mogadishu, Somalia | 345 |
-| 5 | [MohamedAbdiaziz](https://github.com/MohamedAbdiaziz) | Mohamed Abdiaziz | Somalia  | 329 |
+| 5 | [MohamedAbdiaziz](https://github.com/MohamedAbdiaziz) | Mohamed Abdiaziz | Somalia  | 331 |
 | 6 | [Cabdulahi](https://github.com/Cabdulahi) | Cabdulahi Sharif | Mogadishu | 282 |
 | 7 | [LibanMoo](https://github.com/LibanMoo) | Liban Hussein | Somalia | 257 |
 | 8 | [munniomer](https://github.com/munniomer) | Munira Omar | Mogadishu, Somalia | 244 |
@@ -77,10 +77,10 @@ Indexed users: 865
 | 13 | [abdinasir-Tman](https://github.com/abdinasir-Tman) | Abdinasir Mursal | Mogadishu, Somalia | 156 |
 | 14 | [engabdullah-2024](https://github.com/engabdullah-2024) | Abdullah Ali | Somalia | 138 |
 | 15 | [hanad124](https://github.com/hanad124) | Hanad Mohamed Dahir | Mogadishu \| Somalia | 118 |
-| 16 | [Manka-Mohamet](https://github.com/Manka-Mohamet) | عبد الرحمان محمد | Somalia | 113 |
-| 17 | [ENG-CJ](https://github.com/ENG-CJ) | Abdulrahman | Mogdisho,banadir,somalia | 111 |
-| 18 | [saiid20k](https://github.com/saiid20k) | سعيد عبدالله | somalia | 106 |
+| 16 | [saiid20k](https://github.com/saiid20k) | سعيد عبدالله | somalia | 115 |
+| 17 | [Manka-Mohamet](https://github.com/Manka-Mohamet) | عبد الرحمان محمد | Somalia | 113 |
+| 18 | [ENG-CJ](https://github.com/ENG-CJ) | Abdulrahman | Mogdisho,banadir,somalia | 111 |
 | 19 | [Hasson23](https://github.com/Hasson23) | Hassan Abdullah   | Somalia - Mogadishu  | 101 |
 | 20 | [AbdifatahYasin1](https://github.com/AbdifatahYasin1) | Abdifatah Yasin Yusuf | Somalia, Hargeisa  | 96 |
 
-Generated: 2026-10-20T09:33:44.142Z
+Generated: 2026-10-20T13:09:16.901Z

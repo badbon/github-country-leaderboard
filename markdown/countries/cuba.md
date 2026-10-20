@@ -45,7 +45,7 @@ Indexed users: 1,273
 | 6 | [rafaelrdgz](https://github.com/rafaelrdgz) | Rafael Rodríguez Pérez | Havana, Cuba | 2,401 |
 | 7 | [kaelthasmanu](https://github.com/kaelthasmanu) | Manuel Gorrin | Cuba | 1,996 |
 | 8 | [danielitoCode](https://github.com/danielitoCode) | Daniel Imbert | Cuba | 1,789 |
-| 9 | [rodnye](https://github.com/rodnye) | Rodny Estrada | La Habana, Cuba | 1,514 |
+| 9 | [rodnye](https://github.com/rodnye) | Rodny Estrada | La Habana, Cuba | 1,503 |
 | 10 | [GloriousTacoo](https://github.com/GloriousTacoo) | GloriousTaco | Havana, Cuba | 1,464 |
 | 11 | [ArtStyles](https://github.com/ArtStyles) | Frank Enrique James Hernández | Universidad de Ciencias Informáticas, La Habana, Cuba | 1,263 |
 | 12 | [NairAd02](https://github.com/NairAd02) | Adrian Suarez | Havana, Cuba | 1,228 |
@@ -67,7 +67,7 @@ Indexed users: 1,273
 | 3 | [GamerHack](https://github.com/GamerHack) |  | Cuba | 212 |
 | 4 | [herbertDev12](https://github.com/herbertDev12) | Herbert L. Navarro | La Habana, Cuba | 144 |
 | 5 | [PushoDev](https://github.com/PushoDev) | Luis A. Guisado | Ciudad de Manzanillo, Cuba | 134 |
-| 6 | [rodnye](https://github.com/rodnye) | Rodny Estrada | La Habana, Cuba | 133 |
+| 6 | [rodnye](https://github.com/rodnye) | Rodny Estrada | La Habana, Cuba | 132 |
 | 7 | [aurielfournier](https://github.com/aurielfournier) | Auriel M.V. Fournier | Havana, IL  | 127 |
 | 8 | [Eilen-Fonseca-Garrote](https://github.com/Eilen-Fonseca-Garrote) | Eilen Fonseca Garrote  | La Habana, Cuba | 127 |
 | 9 | [yudivian](https://github.com/yudivian) | Yudivián Almeida Cruz | La Habana, Cuba | 115 |
@@ -83,4 +83,4 @@ Indexed users: 1,273
 | 19 | [markospy](https://github.com/markospy) | Marcos Avila | Cuba | 72 |
 | 20 | [EduardoProfe666](https://github.com/EduardoProfe666) | Eduardo Alejandro González Martell | La Habana, Cuba | 69 |
 
-Generated: 2026-10-20T10:06:18.204Z
+Generated: 2026-10-20T13:44:48.135Z

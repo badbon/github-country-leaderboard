@@ -1,6 +1,6 @@
 # Total Contributions - Bhutan
 
-Generated: 2026-10-20T09:57:31.907Z
+Generated: 2026-10-20T13:34:07.670Z
 
 Users: 266
 
@@ -18,10 +18,10 @@ Users: 266
 | 10 | [grey300](https://github.com/grey300) | Tshering Gyeltshen |  |  | Bhutan | 2084 |
 | 11 | [Ugyenjigmerangdrel](https://github.com/Ugyenjigmerangdrel) | Ugyen Jigme Rangdrel | @jaggle.ai | URangdrel | Bhutan | 2068 |
 | 12 | [ugyentenzin1](https://github.com/ugyentenzin1) | Ugyen Tenzin  | @SELISEdigitalplatforms  |  | Thiimphu, Bhutan | 2040 |
-| 13 | [jigmeloday](https://github.com/jigmeloday) | Jigme Lodey | Freelancer |  | Thimphu Bhutan | 1976 |
-| 14 | [SonamWangchuk77jr](https://github.com/SonamWangchuk77jr) | Sonam Wangchuk | @ROMx-Tech  |  | Thimphu | 1973 |
-| 15 | [namgaytobden](https://github.com/namgaytobden) | Namgay Tobden | @selisebt |  | Thimphu | 1966 |
-| 16 | [bugloper](https://github.com/bugloper) | Nima Yonten | Selise |  | Thimphu Babesa | 1953 |
+| 13 | [bugloper](https://github.com/bugloper) | Nima Yonten | Selise |  | Thimphu Babesa | 2010 |
+| 14 | [jigmeloday](https://github.com/jigmeloday) | Jigme Lodey | Freelancer |  | Thimphu Bhutan | 1976 |
+| 15 | [SonamWangchuk77jr](https://github.com/SonamWangchuk77jr) | Sonam Wangchuk | @ROMx-Tech  |  | Thimphu | 1973 |
+| 16 | [namgaytobden](https://github.com/namgaytobden) | Namgay Tobden | @selisebt |  | Thimphu | 1966 |
 | 17 | [khandudo](https://github.com/khandudo) | Dorji Khandu | Coala Pay(San Francisco, CA) | Dojeee1 | Thimphu, Bhutan | 1845 |
 | 18 | [JigmePwangyel](https://github.com/JigmePwangyel) | Jigme Phuntsho Wangyel | Selise Bhutan |  | Bhutan | 1841 |
 | 19 | [sonamtaa](https://github.com/sonamtaa) | Sonam Tashi | SELISE Bhutan | tashist515 | Babesa, Thimphu | 1774 |

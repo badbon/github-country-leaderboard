@@ -1,6 +1,6 @@
 # Total Contributions - DR Congo
 
-Generated: 2026-10-20T12:32:44.484Z
+Generated: 2026-10-20T13:47:31.260Z
 
 Users: 701
 
@@ -11,8 +11,8 @@ Users: 701
 | 3 | [Abarchibody](https://github.com/Abarchibody) | Archimede Body | @nevolut  | abarchibody | Kinshasa, DRC | 14033 |
 | 4 | [Bope142](https://github.com/Bope142) | Norbert Le Geek | @nulevices |  | Kinshasa DRC | 9414 |
 | 5 | [JoeM1990](https://github.com/JoeM1990) | Jonathan Monkila  | MonkilaTECH | joemonkila | kinshasa,RDC | 8062 |
-| 6 | [esaiemuhasa](https://github.com/esaiemuhasa) | Esaie Muhasa | Forge Digitale | esaiemuhasa | Butembo, Congo Kinshasa | 7119 |
-| 7 | [Dr-Lab1](https://github.com/Dr-Lab1) | Jonathan Kukwabantu Bahati | Labyrinthe | JoBahati1 | Kinshasa | 7016 |
+| 6 | [Dr-Lab1](https://github.com/Dr-Lab1) | Jonathan Kukwabantu Bahati | Labyrinthe | JoBahati1 | Kinshasa | 7152 |
+| 7 | [esaiemuhasa](https://github.com/esaiemuhasa) | Esaie Muhasa | Forge Digitale | esaiemuhasa | Butembo, Congo Kinshasa | 7119 |
 | 8 | [merdielongo](https://github.com/merdielongo) | merdielongo | ELONGO CREA | MerdiElongo | Congo / Kinshasa | 7016 |
 | 9 | [Theodorebinda](https://github.com/Theodorebinda) | Theodore SAMBA |  |  | kinshasa | 6945 |
 | 10 | [andydefer](https://github.com/andydefer) | Andy Kani | AndyKani DevServices |  | Democratic Republic of Congo | 6391 |

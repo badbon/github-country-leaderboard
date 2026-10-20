@@ -1,8 +1,8 @@
 # Followers - Uzbekistan
 
-Generated: 2026-10-20T09:43:57.700Z
+Generated: 2026-10-20T13:20:51.149Z
 
-Users: 9512
+Users: 9511
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

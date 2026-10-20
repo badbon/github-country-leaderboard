@@ -1,6 +1,6 @@
 # Total Contributions - Togo
 
-Generated: 2026-10-20T09:39:44.770Z
+Generated: 2026-10-20T13:16:34.913Z
 
 Users: 678
 
@@ -10,8 +10,8 @@ Users: 678
 | 2 | [gausoft](https://github.com/gausoft) | Gauthier Eholoum | Remote | gausoft_ | Lomé, Togo | 13346 |
 | 3 | [omarfarouk228](https://github.com/omarfarouk228) | Omar farouk KOUGBADA | KOF CORPORATION | OKougbada | Togo | 11619 |
 | 4 | [MaximeKELI](https://github.com/MaximeKELI) | Maxime KELI | ALL-CODERS |  | Lome,TOGO | 9419 |
-| 5 | [GTW503](https://github.com/GTW503) | MEK |  |  | Togo | 8975 |
-| 6 | [kodesonik](https://github.com/kodesonik) | AMADOU AROUNA |  |  | Togo | 8717 |
+| 5 | [kodesonik](https://github.com/kodesonik) | AMADOU AROUNA |  |  | Togo | 8985 |
+| 6 | [GTW503](https://github.com/GTW503) | MEK |  |  | Togo | 8975 |
 | 7 | [hermannleboss](https://github.com/hermannleboss) | Hermann EHO | W3 Frame | hermanneho | Lomé TOGO | 8078 |
 | 8 | [DATAGNIKAN](https://github.com/DATAGNIKAN) | DATAGNI K. Armand Noël |  | DATAGNIKAN | Togo, Lomé | 6578 |
 | 9 | [jeanclaudesoft](https://github.com/jeanclaudesoft) | Claudy | Coders For Togo | JeanKonou | Togo | 5994 |

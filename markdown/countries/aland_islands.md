@@ -18,8 +18,8 @@ Indexed users: 61
 | 4 | [mathisen99](https://github.com/mathisen99) | Tommy Mathisen | Aland Islands | 3,297 |
 | 5 | [olegamobile](https://github.com/olegamobile) | Oleg Balandin | Mariehamn | 1,743 |
 | 6 | [MarkusYPA](https://github.com/MarkusYPA) | Markus Amberla | Mariehamn and Helsinki | 1,502 |
-| 7 | [linusaarnio](https://github.com/linusaarnio) | Linus Aarnio | Åland, Finland | 1,250 |
-| 8 | [taneli-paf](https://github.com/taneli-paf) | Taneli Mäkihannu | Mariehamn, Åland Islands | 1,242 |
+| 7 | [taneli-paf](https://github.com/taneli-paf) | Taneli Mäkihannu | Mariehamn, Åland Islands | 1,275 |
+| 8 | [linusaarnio](https://github.com/linusaarnio) | Linus Aarnio | Åland, Finland | 1,250 |
 | 9 | [SaddamHosyn](https://github.com/SaddamHosyn) | Hussain Saddam | Mariehamn, Åland | 1,021 |
 | 10 | [mareerray](https://github.com/mareerray) | Mayuree Reunsati | Mariehamn, Åland | 834 |
 | 11 | [fannielf](https://github.com/fannielf) | Fanni Vesanen | Mariehamn | 576 |
@@ -69,9 +69,9 @@ Indexed users: 61
 | 5 | [MarkusYPA](https://github.com/MarkusYPA) | Markus Amberla | Mariehamn and Helsinki | 25 |
 | 6 | [johanwestling](https://github.com/johanwestling) | Johan Westling | Åland, Finland | 23 |
 | 7 | [tvntvn13](https://github.com/tvntvn13) | Taneli Mäkihannu | Mariehamn, Åland Islands | 21 |
-| 8 | [fatemekh78](https://github.com/fatemekh78) | Fatemeh | Mariehamn, Åland islands | 18 |
-| 9 | [joakim-ha](https://github.com/joakim-ha) | Joakim Isaksson | Åland Islands | 18 |
-| 10 | [mareerray](https://github.com/mareerray) | Mayuree Reunsati | Mariehamn, Åland | 18 |
+| 8 | [joakim-ha](https://github.com/joakim-ha) | Joakim Isaksson | Åland Islands | 18 |
+| 9 | [mareerray](https://github.com/mareerray) | Mayuree Reunsati | Mariehamn, Åland | 18 |
+| 10 | [fatemekh78](https://github.com/fatemekh78) | Fatemeh | Mariehamn, Åland islands | 17 |
 | 11 | [cenk-idris](https://github.com/cenk-idris) | Cenk İdris İncirkuş | Åland Islands, Finland | 16 |
 | 12 | [SaddamHosyn](https://github.com/SaddamHosyn) | Hussain Saddam | Mariehamn, Åland | 15 |
 | 13 | [mathisen99](https://github.com/mathisen99) | Tommy Mathisen | Aland Islands | 14 |
@@ -83,4 +83,4 @@ Indexed users: 61
 | 19 | [GitHug](https://github.com/GitHug) | Fredrik Mäkilä | London / Mariehamn | 10 |
 | 20 | [fannielf](https://github.com/fannielf) | Fanni Vesanen | Mariehamn | 9 |
 
-Generated: 2026-10-20T09:48:37.816Z
+Generated: 2026-10-20T13:26:13.616Z

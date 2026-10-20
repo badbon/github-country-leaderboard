@@ -15,9 +15,9 @@ Indexed users: 1,795
 | 1 | [jp-sft](https://github.com/jp-sft) | Jessy Pango | Cameroon | 15,747 |
 | 2 | [Tomdieu](https://github.com/Tomdieu) | ivantom | Cameroon | 12,821 |
 | 3 | [momo-87](https://github.com/momo-87) | Christian Romuald MOMO TONFACK | Cameroon - Yaounde | 11,652 |
-| 4 | [cliffordten](https://github.com/cliffordten) | Teneng Clifford | Buea, Cameroon | 10,943 |
-| 5 | [bpsmartdesign](https://github.com/bpsmartdesign) | Biya Paul | Yaoundé - Douala, Cameroon | 10,190 |
-| 6 | [gwagsi](https://github.com/gwagsi) | Gwagsi | Yaounde, Cameroon | 10,008 |
+| 4 | [cliffordten](https://github.com/cliffordten) | Teneng Clifford | Buea, Cameroon | 11,505 |
+| 5 | [gwagsi](https://github.com/gwagsi) | Gwagsi | Yaounde, Cameroon | 10,449 |
+| 6 | [bpsmartdesign](https://github.com/bpsmartdesign) | Biya Paul | Yaoundé - Douala, Cameroon | 10,190 |
 | 7 | [iws3](https://github.com/iws3) | Fonyuy Gita | Bamenda, Cameroon | 9,993 |
 | 8 | [LudovicAndreBiyong](https://github.com/LudovicAndreBiyong) | Ludovic André Biyong | Cameroon | 9,905 |
 | 9 | [KingsleyLeshey](https://github.com/KingsleyLeshey) | Kingsley Leshey | Yaounde, Cameroon | 9,102 |
@@ -83,4 +83,4 @@ Indexed users: 1,795
 | 19 | [baimamboukar](https://github.com/baimamboukar) | BAIMAM BOUKAR JEAN JACQUES | Yaoundé | 170 |
 | 20 | [Suprememajor](https://github.com/Suprememajor) | Nobert Etta | Buea, Cameroon | 168 |
 
-Generated: 2026-10-20T10:01:51.552Z
+Generated: 2026-10-20T13:40:30.708Z

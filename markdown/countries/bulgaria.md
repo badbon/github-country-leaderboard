@@ -1,6 +1,6 @@
 # Bulgaria
 
-Indexed users: 14,070
+Indexed users: 14,069
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 14,070
 | 19 | [shanalikhan](https://github.com/shanalikhan) | Shan Khan | Bulgaria | 637 |
 | 20 | [RadoRado](https://github.com/RadoRado) | Radoslav Georgiev | Sofia | 631 |
 
-Generated: 2026-10-20T10:00:33.767Z
+Generated: 2026-10-20T13:37:58.254Z

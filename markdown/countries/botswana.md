@@ -21,8 +21,8 @@ Indexed users: 533
 | 7 | [Batoli19](https://github.com/Batoli19) | future | Gaborone | 2,359 |
 | 8 | [Koketso1999](https://github.com/Koketso1999) | Koketso Morapedi | Gaborone, Botswana | 2,359 |
 | 9 | [ChinyangaTL](https://github.com/ChinyangaTL) | Les Chinyanga | Gaborone, Botswana | 2,349 |
-| 10 | [Fuzzworth](https://github.com/Fuzzworth) | Nyangasi Mhozya | Botswana | 2,205 |
-| 11 | [mwmiller](https://github.com/mwmiller) | Matt Miller | Gaborone, Botswana | 2,141 |
+| 10 | [mwmiller](https://github.com/mwmiller) | Matt Miller | Gaborone, Botswana | 2,204 |
+| 11 | [Fuzzworth](https://github.com/Fuzzworth) | Nyangasi Mhozya | Botswana | 2,146 |
 | 12 | [Tebalo](https://github.com/Tebalo) | Bopaki | Botswana, Gaborone-Mokobaxane | 2,086 |
 | 13 | [mrdiin](https://github.com/mrdiin) | Botshelo Brandon Tidimalo | Gaborone | 2,061 |
 | 14 | [BakangMonei](https://github.com/BakangMonei) | Monei Bakang | Gaborone, Botswana | 2,049 |
@@ -39,7 +39,7 @@ Indexed users: 533
 |---:|---|---|---|---:|
 | 1 | [rasali535](https://github.com/rasali535) | Alpheaus Chiwaze | Botswana, Gaborone | 2,844 |
 | 2 | [BakangMonei](https://github.com/BakangMonei) | Monei Bakang | Gaborone, Botswana | 1,380 |
-| 3 | [mwmiller](https://github.com/mwmiller) | Matt Miller | Gaborone, Botswana | 1,230 |
+| 3 | [mwmiller](https://github.com/mwmiller) | Matt Miller | Gaborone, Botswana | 1,293 |
 | 4 | [darula-hpp](https://github.com/darula-hpp) | Olebogeng Mbedzi | Gaborone | 1,197 |
 | 5 | [Todd366](https://github.com/Todd366) | BSTM Ecosystem  | Botswana 🇧🇼  | 1,055 |
 | 6 | [NjabuloJf](https://github.com/NjabuloJf) | Njabulo Jb | Botswana  | 1,014 |
@@ -72,15 +72,15 @@ Indexed users: 533
 | 8 | [VioletShards](https://github.com/VioletShards) | Leon N. | Botswana | 67 |
 | 9 | [Timbar09](https://github.com/Timbar09) | Miles Mosweu | Palapye, Botswana | 65 |
 | 10 | [mulaxprime](https://github.com/mulaxprime) | Mulax Prime | Gaborone, Botswana | 63 |
-| 11 | [impurefunctions](https://github.com/impurefunctions) | Kesego Tumisang | Gaborone, Botswana | 58 |
+| 11 | [impurefunctions](https://github.com/impurefunctions) | Kesego Tumisang | Gaborone, Botswana | 59 |
 | 12 | [Mathhews777](https://github.com/Mathhews777) | Thato Mooketsi | Gaborone | 50 |
 | 13 | [Hope-Nts](https://github.com/Hope-Nts) | Hope Ntshonono | Gaborone,Botswana | 46 |
-| 14 | [mwmiller](https://github.com/mwmiller) | Matt Miller | Gaborone, Botswana | 45 |
-| 15 | [mitp0sh](https://github.com/mitp0sh) | mitp0sh | Botswana | 44 |
+| 14 | [mitp0sh](https://github.com/mitp0sh) | mitp0sh | Botswana | 45 |
+| 15 | [mwmiller](https://github.com/mwmiller) | Matt Miller | Gaborone, Botswana | 45 |
 | 16 | [samKenpachi011](https://github.com/samKenpachi011) | Samuel Kabelo | Gaborone Botswana | 41 |
 | 17 | [godwillmonthe](https://github.com/godwillmonthe) | Godwill Monthe | Gaborone, Botswana | 35 |
 | 18 | [WyvernPirate](https://github.com/WyvernPirate) | Phemelo Moloi | Maun, Botswana | 35 |
 | 19 | [BakangMonei](https://github.com/BakangMonei) | Monei Bakang | Gaborone, Botswana | 34 |
 | 20 | [kcee01](https://github.com/kcee01) | Cliff Keabetswe | Gaborone, Botswana | 33 |
 
-Generated: 2026-10-20T09:59:15.020Z
+Generated: 2026-10-20T13:35:29.244Z

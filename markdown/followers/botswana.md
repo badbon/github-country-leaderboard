@@ -1,6 +1,6 @@
 # Followers - Botswana
 
-Generated: 2026-10-20T09:59:15.020Z
+Generated: 2026-10-20T13:35:29.244Z
 
 Users: 533
 
@@ -16,11 +16,11 @@ Users: 533
 | 8 | [VioletShards](https://github.com/VioletShards) | Leon N. |  |  | Botswana | 67 |
 | 9 | [Timbar09](https://github.com/Timbar09) | Miles Mosweu | Microverse | Milez09 | Palapye, Botswana | 65 |
 | 10 | [mulaxprime](https://github.com/mulaxprime) | Mulax Prime |  | RomeobwIII | Gaborone, Botswana | 63 |
-| 11 | [impurefunctions](https://github.com/impurefunctions) | Kesego Tumisang | @Spectrum-Analytics @officialgdggaborone  | impurefunctions | Gaborone, Botswana | 58 |
+| 11 | [impurefunctions](https://github.com/impurefunctions) | Kesego Tumisang | @Spectrum-Analytics @officialgdggaborone  | impurefunctions | Gaborone, Botswana | 59 |
 | 12 | [Mathhews777](https://github.com/Mathhews777) | Thato Mooketsi |  |  | Gaborone | 50 |
 | 13 | [Hope-Nts](https://github.com/Hope-Nts) | Hope Ntshonono |  | Hope_Ntshonono | Gaborone,Botswana | 46 |
-| 14 | [mwmiller](https://github.com/mwmiller) | Matt Miller |  |  | Gaborone, Botswana | 45 |
-| 15 | [mitp0sh](https://github.com/mitp0sh) | mitp0sh | Botswana Ltd. | mitp0sh | Botswana | 44 |
+| 14 | [mitp0sh](https://github.com/mitp0sh) | mitp0sh | Botswana Ltd. | mitp0sh | Botswana | 45 |
+| 15 | [mwmiller](https://github.com/mwmiller) | Matt Miller |  |  | Gaborone, Botswana | 45 |
 | 16 | [samKenpachi011](https://github.com/samKenpachi011) | Samuel Kabelo |  | samuel_kabelo | Gaborone Botswana | 41 |
 | 17 | [godwillmonthe](https://github.com/godwillmonthe) | Godwill Monthe | Xavier Africa Technologies - @Xavier-Botswana  | godwil1monthe | Gaborone, Botswana | 35 |
 | 18 | [WyvernPirate](https://github.com/WyvernPirate) | Phemelo Moloi | Botswana International University of Science and Technology |  | Maun, Botswana | 35 |

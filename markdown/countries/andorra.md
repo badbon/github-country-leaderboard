@@ -26,7 +26,7 @@ Indexed users: 215
 | 12 | [jorge07](https://github.com/jorge07) | Jorge Arco | Escaldes, Andorra | 5,017 |
 | 13 | [cmarfil](https://github.com/cmarfil) | Cristian Marfil | Andorra | 4,788 |
 | 14 | [kopenkinda](https://github.com/kopenkinda) | Kopenkin Dmitrii | Andorra | 4,226 |
-| 15 | [dvdjmnz](https://github.com/dvdjmnz) | David Jiménez | Andorra | 3,715 |
+| 15 | [dvdjmnz](https://github.com/dvdjmnz) | David Jiménez | Andorra | 3,832 |
 | 16 | [sgirones](https://github.com/sgirones) | Salvador Gironès Gil | Andorra | 3,505 |
 | 17 | [ColColty](https://github.com/ColColty) | Tomàs Forné Cappeau | Andorra | 3,479 |
 | 18 | [FaZeTitans](https://github.com/FaZeTitans) | Axel DA SILVA | Andorra | 3,139 |
@@ -40,7 +40,7 @@ Indexed users: 215
 | 1 | [ericrisco](https://github.com/ericrisco) | Eric Risco de la Torre | Andorra | 40,980 |
 | 2 | [niwinz](https://github.com/niwinz) | Andrey Antukh | Andorra | 3,005 |
 | 3 | [acastellana](https://github.com/acastellana) | Albert Castellana | Andorra | 1,033 |
-| 4 | [Danziger](https://github.com/Danziger) | Dani Gámez Franco | Andorra | 784 |
+| 4 | [Danziger](https://github.com/Danziger) | Dani Gámez Franco | Andorra | 787 |
 | 5 | [Estemobs](https://github.com/Estemobs) | estemobs | Andorra | 769 |
 | 6 | [l3wi](https://github.com/l3wi) | Lewis Freiberg | Andorra | 700 |
 | 7 | [tombrewsviews](https://github.com/tombrewsviews) | Tom Parandyk | Andorra | 697 |
@@ -83,4 +83,4 @@ Indexed users: 215
 | 19 | [ysb33r](https://github.com/ysb33r) | Schalk W. Cronjé | Andorra | 63 |
 | 20 | [castrolem](https://github.com/castrolem) | Luis Castro | Andorra la Vella, Andorra | 60 |
 
-Generated: 2026-10-20T09:49:59.629Z
+Generated: 2026-10-20T13:28:49.760Z

@@ -1,6 +1,6 @@
 # Total Contributions - Botswana
 
-Generated: 2026-10-20T09:59:15.020Z
+Generated: 2026-10-20T13:35:29.244Z
 
 Users: 533
 
@@ -15,8 +15,8 @@ Users: 533
 | 7 | [Batoli19](https://github.com/Batoli19) | future |  |  | Gaborone | 2359 |
 | 8 | [Koketso1999](https://github.com/Koketso1999) | Koketso Morapedi | Botswana International University of Science and Technology  |  | Gaborone, Botswana | 2359 |
 | 9 | [ChinyangaTL](https://github.com/ChinyangaTL) | Les Chinyanga | @africacodeacademy @wholeapp  |  | Gaborone, Botswana | 2349 |
-| 10 | [Fuzzworth](https://github.com/Fuzzworth) | Nyangasi Mhozya | @MODISAR  | FuzzFoo | Botswana | 2205 |
-| 11 | [mwmiller](https://github.com/mwmiller) | Matt Miller |  |  | Gaborone, Botswana | 2141 |
+| 10 | [mwmiller](https://github.com/mwmiller) | Matt Miller |  |  | Gaborone, Botswana | 2204 |
+| 11 | [Fuzzworth](https://github.com/Fuzzworth) | Nyangasi Mhozya | @MODISAR  | FuzzFoo | Botswana | 2146 |
 | 12 | [Tebalo](https://github.com/Tebalo) | Bopaki | Digital FastForward |  | Botswana, Gaborone-Mokobaxane | 2086 |
 | 13 | [mrdiin](https://github.com/mrdiin) | Botshelo Brandon Tidimalo | Innovateium (Pty) Ltd | mrdiin_dev | Gaborone | 2061 |
 | 14 | [BakangMonei](https://github.com/BakangMonei) | Monei Bakang | @SwiftIQ  | MoneiBakang | Gaborone, Botswana | 2049 |

@@ -17,8 +17,8 @@ Indexed users: 701
 | 3 | [Abarchibody](https://github.com/Abarchibody) | Archimede Body | Kinshasa, DRC | 14,033 |
 | 4 | [Bope142](https://github.com/Bope142) | Norbert Le Geek | Kinshasa DRC | 9,414 |
 | 5 | [JoeM1990](https://github.com/JoeM1990) | Jonathan Monkila  | kinshasa,RDC | 8,062 |
-| 6 | [esaiemuhasa](https://github.com/esaiemuhasa) | Esaie Muhasa | Butembo, Congo Kinshasa | 7,119 |
-| 7 | [Dr-Lab1](https://github.com/Dr-Lab1) | Jonathan Kukwabantu Bahati | Kinshasa | 7,016 |
+| 6 | [Dr-Lab1](https://github.com/Dr-Lab1) | Jonathan Kukwabantu Bahati | Kinshasa | 7,152 |
+| 7 | [esaiemuhasa](https://github.com/esaiemuhasa) | Esaie Muhasa | Butembo, Congo Kinshasa | 7,119 |
 | 8 | [merdielongo](https://github.com/merdielongo) | merdielongo | Congo / Kinshasa | 7,016 |
 | 9 | [Theodorebinda](https://github.com/Theodorebinda) | Theodore SAMBA | kinshasa | 6,945 |
 | 10 | [andydefer](https://github.com/andydefer) | Andy Kani | Democratic Republic of Congo | 6,391 |
@@ -46,7 +46,7 @@ Indexed users: 701
 | 7 | [fordimalanda](https://github.com/fordimalanda) | Fordi Malanda | Kinshasa, DRC | 1,403 |
 | 8 | [Jeffbuleli](https://github.com/Jeffbuleli) | Jeff Buleli | Kinshasa, DR Congo | 1,347 |
 | 9 | [Sumant3086](https://github.com/Sumant3086) | Sumant Yadav | Kinshasa | 1,285 |
-| 10 | [jeereq](https://github.com/jeereq) | minganda | rdc/kinshasa | 1,241 |
+| 10 | [jeereq](https://github.com/jeereq) | minganda | rdc/kinshasa | 1,244 |
 | 11 | [Kakesa](https://github.com/Kakesa) | Espoir Kakesa | kinshasa DRC | 1,158 |
 | 12 | [KUROYUKIHIME333](https://github.com/KUROYUKIHIME333) | Daniel RAMAZANI | Kinshasa, Democratic Republic of the Congo | 1,076 |
 | 13 | [martinbitha5](https://github.com/martinbitha5) | Martin Bitha | Kinshasa | 1,057 |
@@ -83,4 +83,4 @@ Indexed users: 701
 | 19 | [bolenge](https://github.com/bolenge) | Don de Dieu Bolenge | Congo - Kinshasa | 69 |
 | 20 | [ChrisMwanya](https://github.com/ChrisMwanya) | Chris Mwanya | kinshasa | 69 |
 
-Generated: 2026-10-20T12:32:44.484Z
+Generated: 2026-10-20T13:47:31.260Z
