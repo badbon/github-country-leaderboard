@@ -15,12 +15,12 @@ Indexed users: 5,608
 | 1 | [lucasborges2001](https://github.com/lucasborges2001) | Lucas Borges | Montevideo, Uruguay | 25,520 |
 | 2 | [jQuinRivero](https://github.com/jQuinRivero) | Joaquín Rivero | Montevideo, Uruguay | 25,236 |
 | 3 | [matiaszanolli](https://github.com/matiaszanolli) | Matias Zanolli | Uruguay | 23,365 |
-| 4 | [figlesias221](https://github.com/figlesias221) | Federico Iglesias | Montevideo, Uruguay | 16,114 |
-| 5 | [fausanchez](https://github.com/fausanchez) | Fausto Sanchez | Uruguay | 14,173 |
-| 6 | [dcadenas](https://github.com/dcadenas) | Daniel Cadenas | Montevideo, Uruguay | 13,568 |
-| 7 | [turnyi](https://github.com/turnyi) | Martin Radovitzky | Montevideo, Uruguay | 12,732 |
-| 8 | [ignaciogarcia-dev](https://github.com/ignaciogarcia-dev) | Ignacio García | Uruguay | 11,961 |
-| 9 | [EmoPorEmilio](https://github.com/EmoPorEmilio) | Emilio "Emo" Franceschini | Montevideo, Uruguay | 11,515 |
+| 4 | [EmoPorEmilio](https://github.com/EmoPorEmilio) | Emilio "Emo" Franceschini | Montevideo, Uruguay | 21,233 |
+| 5 | [figlesias221](https://github.com/figlesias221) | Federico Iglesias | Montevideo, Uruguay | 16,114 |
+| 6 | [fausanchez](https://github.com/fausanchez) | Fausto Sanchez | Uruguay | 14,173 |
+| 7 | [dcadenas](https://github.com/dcadenas) | Daniel Cadenas | Montevideo, Uruguay | 13,568 |
+| 8 | [turnyi](https://github.com/turnyi) | Martin Radovitzky | Montevideo, Uruguay | 12,732 |
+| 9 | [ignaciogarcia-dev](https://github.com/ignaciogarcia-dev) | Ignacio García | Uruguay | 11,961 |
 | 10 | [MateoVidalS](https://github.com/MateoVidalS) | Mateo Vidal | Uruguay | 11,113 |
 | 11 | [agurod42](https://github.com/agurod42) | Agu Rodríguez | Montevideo, Uruguay, Earth | 10,131 |
 | 12 | [frankdavidcorona](https://github.com/frankdavidcorona) | Frank Corona Prendes | Montevideo, Uruguay | 10,097 |
@@ -48,15 +48,15 @@ Indexed users: 5,608
 | 9 | [eduair94](https://github.com/eduair94) | EduAir | Uruguay | 3,797 |
 | 10 | [matiasportugau-ui](https://github.com/matiasportugau-ui) | MatPrompt | Uruguay  | 3,036 |
 | 11 | [ferfalcon](https://github.com/ferfalcon) | Fernando Falcon | Montevideo | 2,943 |
-| 12 | [damiansire](https://github.com/damiansire) | Damian Sire | Uruguay | 2,721 |
-| 13 | [jm181987](https://github.com/jm181987) | Jorge Marquez | Uruguay | 2,672 |
-| 14 | [fzipi](https://github.com/fzipi) | Felipe Zipitría | Montevideo, Uruguay | 2,539 |
-| 15 | [rpiaggio](https://github.com/rpiaggio) | Raúl Piaggio | Uruguay | 2,520 |
-| 16 | [Joacohbc](https://github.com/Joacohbc) | Joacohbc | Uruguay | 2,485 |
-| 17 | [nicolas-maman](https://github.com/nicolas-maman) | Nicolas Maman | Montevideo,Uruguay | 2,373 |
-| 18 | [yanquisalexander](https://github.com/yanquisalexander) | Alexander Barrios | Uruguay | 2,037 |
-| 19 | [bradelev](https://github.com/bradelev) | Braulio De Leon | Montevideo, Uruguay | 2,033 |
-| 20 | [Pauisdev](https://github.com/Pauisdev) | Pau | Uruguay, Montevideo | 2,028 |
+| 12 | [EmoPorEmilio](https://github.com/EmoPorEmilio) | Emilio "Emo" Franceschini | Montevideo, Uruguay | 2,843 |
+| 13 | [damiansire](https://github.com/damiansire) | Damian Sire | Uruguay | 2,721 |
+| 14 | [jm181987](https://github.com/jm181987) | Jorge Marquez | Uruguay | 2,672 |
+| 15 | [fzipi](https://github.com/fzipi) | Felipe Zipitría | Montevideo, Uruguay | 2,539 |
+| 16 | [rpiaggio](https://github.com/rpiaggio) | Raúl Piaggio | Uruguay | 2,520 |
+| 17 | [Joacohbc](https://github.com/Joacohbc) | Joacohbc | Uruguay | 2,485 |
+| 18 | [nicolas-maman](https://github.com/nicolas-maman) | Nicolas Maman | Montevideo,Uruguay | 2,373 |
+| 19 | [yanquisalexander](https://github.com/yanquisalexander) | Alexander Barrios | Uruguay | 2,037 |
+| 20 | [bradelev](https://github.com/bradelev) | Braulio De Leon | Montevideo, Uruguay | 2,033 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 5,608
 | 19 | [mauricioszabo](https://github.com/mauricioszabo) | Maurício Szabo | Montevideo, Uruguay | 196 |
 | 20 | [ppazos](https://github.com/ppazos) | Pablo Pazos Gutiérrez | Montevideo, Uruguay | 196 |
 
-Generated: 2026-10-20T06:33:32.089Z
+Generated: 2026-10-20T08:08:34.828Z

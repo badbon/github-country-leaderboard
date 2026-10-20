@@ -1,6 +1,6 @@
 # Total Contributions - Denmark
 
-Generated: 2026-10-20T06:58:42.549Z
+Generated: 2026-10-20T08:33:23.202Z
 
 Users: 19300
 

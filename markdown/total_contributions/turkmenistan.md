@@ -1,6 +1,6 @@
 # Total Contributions - Turkmenistan
 
-Generated: 2026-10-20T06:29:45.541Z
+Generated: 2026-10-20T08:05:32.119Z
 
 Users: 501
 
@@ -19,10 +19,10 @@ Users: 501
 | 11 | [Nirovitsky](https://github.com/Nirovitsky) | Ata |  |  | Turkmenistan | 3369 |
 | 12 | [Begench2005](https://github.com/Begench2005) | Begench |  |  | Ashgabat, Turkmenistan | 3253 |
 | 13 | [bridgecoresystems-cmd](https://github.com/bridgecoresystems-cmd) | BridgeCore SYSTEMS | BridgeCore SYSTEMS |  | Turkmenistan | 3153 |
-| 14 | [Dayanch437](https://github.com/Dayanch437) | Salarov Dayanch Kemalovich | Oguz han technology center | Dayanch437 | Turkmenistan | 3101 |
+| 14 | [Dayanch437](https://github.com/Dayanch437) | Salarov Dayanch Kemalovich | Oguz han technology center | Dayanch437 | Turkmenistan | 3102 |
 | 15 | [udemuradov](https://github.com/udemuradov) | Serdar Udemuradov |  |  | Turkmenistan, Turkmenbashi | 2716 |
 | 16 | [mrxacker](https://github.com/mrxacker) | Orazow Oraz |  |  | Turkmenistan, Ashgabat | 2578 |
 | 17 | [babamurad](https://github.com/babamurad) | Babamurad |  |  | Turkmenistan, Ashgabat | 2534 |
 | 18 | [RovshenTagangylyjov](https://github.com/RovshenTagangylyjov) | Rovshen Tagangylyjov | Parsewave |  | Ashgabat, Turkmenistan | 2378 |
 | 19 | [Atash03](https://github.com/Atash03) | Ilgeldi |  |  | Ashgabat, Turkmenistan | 2162 |
-| 20 | [AnonimTM1](https://github.com/AnonimTM1) | Merdan Caryyew | Saher Wagty |  | Turkmenistan  | 2135 |
+| 20 | [TheSeydiCharyyev](https://github.com/TheSeydiCharyyev) | Seydi Charyyev | LFDT 2026 Mentee @hyperledger-identus |  | Mary city, Turkmenistan | 2144 |

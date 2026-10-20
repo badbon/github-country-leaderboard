@@ -1,8 +1,8 @@
 # Total Contributions - Syria
 
-Generated: 2026-10-20T06:24:53.851Z
+Generated: 2026-10-20T08:00:24.070Z
 
-Users: 1480
+Users: 1479
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

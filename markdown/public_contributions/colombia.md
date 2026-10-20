@@ -1,6 +1,6 @@
 # Public Contributions - Colombia
 
-Generated: 2026-10-20T06:55:04.126Z
+Generated: 2026-10-20T08:30:59.342Z
 
 Users: 29151
 
@@ -22,7 +22,7 @@ Users: 29151
 | 14 | [rmunate](https://github.com/rmunate) | Raúl Mauricio Uñate Castro | Orionis Framework | rmunate | Colombia | 4264 |
 | 15 | [hulkike](https://github.com/hulkike) | Hernando Enrique Moreno Moreno |  |  | Colombia, Bogotá | 4226 |
 | 16 | [oscampo](https://github.com/oscampo) | Oscar Campo |  |  | Colombia | 4111 |
-| 17 | [Carlosaac23](https://github.com/Carlosaac23) | Carlos Acosta |  |  | Colombia | 3953 |
-| 18 | [Juan17la](https://github.com/Juan17la) | Juan Diego |  |  | Colombia | 3916 |
-| 19 | [xergioalex](https://github.com/xergioalex) | Sergio Florez | @DailyBotHQ  | XergioAleX | Pereira, Colombia | 3912 |
-| 20 | [Mgldvd](https://github.com/Mgldvd) | Mgldvd | Mgldvd |  | Colombia | 3877 |
+| 17 | [Juan17la](https://github.com/Juan17la) | Juan Diego |  |  | Colombia | 3916 |
+| 18 | [xergioalex](https://github.com/xergioalex) | Sergio Florez | @DailyBotHQ  | XergioAleX | Pereira, Colombia | 3912 |
+| 19 | [Mgldvd](https://github.com/Mgldvd) | Mgldvd | Mgldvd |  | Colombia | 3877 |
+| 20 | [mjfelis](https://github.com/mjfelis) | Fabrice Rochette | Verana Foundation |  | Bogotá, Colombia | 3807 |

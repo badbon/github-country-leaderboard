@@ -23,7 +23,7 @@ Indexed users: 2,498
 | 9 | [Jndungue089](https://github.com/Jndungue089) | Josemar Ndungue | Angola | 6,520 |
 | 10 | [figassis](https://github.com/figassis) | Assis Ngolo | Luanda, Angola | 6,103 |
 | 11 | [bentocussei](https://github.com/bentocussei) | Bento Cussei | Luanda, Angola | 5,633 |
-| 12 | [emanuel-malungo](https://github.com/emanuel-malungo) | Emanuel Malungo |  Luanda, Angola | 5,486 |
+| 12 | [emanuel-malungo](https://github.com/emanuel-malungo) | Emanuel Malungo |  Luanda, Angola | 5,442 |
 | 13 | [osvaldowafulua](https://github.com/osvaldowafulua) | Osvaldo Wafulua | Angola | 4,952 |
 | 14 | [joel2011140](https://github.com/joel2011140) | Joel Marinho | Luanda | 4,832 |
 | 15 | [noejunior299](https://github.com/noejunior299) | Noé Idagi | Angola/Luanda | 4,741 |
@@ -46,7 +46,7 @@ Indexed users: 2,498
 | 7 | [skillmio](https://github.com/skillmio) | Skillmio | Angola | 2,160 |
 | 8 | [Enock200558](https://github.com/Enock200558) | Enoque Bumba Cando  | Angola 🇦🇴 | 2,126 |
 | 9 | [jedin01](https://github.com/jedin01) | Abner Lourenço | Angola | 1,826 |
-| 10 | [emanuel-malungo](https://github.com/emanuel-malungo) | Emanuel Malungo |  Luanda, Angola | 1,779 |
+| 10 | [emanuel-malungo](https://github.com/emanuel-malungo) | Emanuel Malungo |  Luanda, Angola | 1,741 |
 | 11 | [adilson889](https://github.com/adilson889) | Adilson C. Rafael | Moçâmedes, Namibe, Angola | 1,652 |
 | 12 | [LouAntonio](https://github.com/LouAntonio) | Lourenço António Dala | Luanda, Angola | 1,569 |
 | 13 | [SW-Wanted](https://github.com/SW-Wanted) | Emanuel dos Santos | Angola | 1,421 |
@@ -83,4 +83,4 @@ Indexed users: 2,498
 | 19 | [manuelernesto](https://github.com/manuelernesto) | Manuel Ernesto | Angola | 166 |
 | 20 | [AfonsoAfony](https://github.com/AfonsoAfony) | Afonso Narciso Da Silva | Luanda/Angola | 157 |
 
-Generated: 2026-10-20T06:39:57.208Z
+Generated: 2026-10-20T08:15:19.678Z

@@ -56,7 +56,7 @@ Indexed users: 50,724
 | 17 | [Railly](https://github.com/Railly) | Railly Hugo | Peru, Argentina | 6,610 |
 | 18 | [gvastethecreator](https://github.com/gvastethecreator) | GVASTE | Argentina | 6,588 |
 | 19 | [unbalancedparentheses](https://github.com/unbalancedparentheses) | Federico Carrone | Buenos Aires, Argentina | 6,537 |
-| 20 | [LuuOW](https://github.com/LuuOW) | Lucas Kempe | Argentina | 6,095 |
+| 20 | [snowarch](https://github.com/snowarch) | SnowF | Argentina | 6,136 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 50,724
 | 19 | [dacap](https://github.com/dacap) | David Capello | Argentina | 1,004 |
 | 20 | [andresriancho](https://github.com/andresriancho) | Andres Riancho | Buenos Aires, Argentina | 1,001 |
 
-Generated: 2026-10-20T06:41:42.515Z
+Generated: 2026-10-20T08:17:56.778Z

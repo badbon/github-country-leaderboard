@@ -23,9 +23,9 @@ Indexed users: 460
 | 9 | [Sup2point0](https://github.com/Sup2point0) | Sup#2.0 | Antarctica | 4,679 |
 | 10 | [bharxhav](https://github.com/bharxhav) | Bhargav Kantheti | antarctica | 4,258 |
 | 11 | [cutetux](https://github.com/cutetux) | CuteTux | Antarctica ;) | 4,085 |
-| 12 | [Rayrsn](https://github.com/Rayrsn) | Rayr | Antarctica | 3,997 |
+| 12 | [Rayrsn](https://github.com/Rayrsn) | Rayr | Antarctica | 3,996 |
 | 13 | [enriquephl](https://github.com/enriquephl) |  | Antarctica | 3,560 |
-| 14 | [ethicnology](https://github.com/ethicnology) | Azad | Antarctica | 3,312 |
+| 14 | [ethicnology](https://github.com/ethicnology) | Azad | Antarctica | 3,329 |
 | 15 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Antarctica | 3,266 |
 | 16 | [PicasoTheDeal](https://github.com/PicasoTheDeal) | Tetstack | Antarctica | 3,127 |
 | 17 | [echo108471](https://github.com/echo108471) | Eugene Cho | Antarctica | 2,683 |
@@ -40,8 +40,8 @@ Indexed users: 460
 | 1 | [JohnChristianD](https://github.com/JohnChristianD) | John Christian Domingo | Antarctica | 4,904 |
 | 2 | [Sup2point0](https://github.com/Sup2point0) | Sup#2.0 | Antarctica | 4,285 |
 | 3 | [morgaesis](https://github.com/morgaesis) | Mörgæsis | Antarctica | 3,539 |
-| 4 | [PicasoTheDeal](https://github.com/PicasoTheDeal) | Tetstack | Antarctica | 3,067 |
-| 5 | [ethicnology](https://github.com/ethicnology) | Azad | Antarctica | 3,060 |
+| 4 | [ethicnology](https://github.com/ethicnology) | Azad | Antarctica | 3,077 |
+| 5 | [PicasoTheDeal](https://github.com/PicasoTheDeal) | Tetstack | Antarctica | 3,067 |
 | 6 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Antarctica | 3,046 |
 | 7 | [shangyian](https://github.com/shangyian) | Yian | Antarctica | 2,165 |
 | 8 | [FreezingSnail](https://github.com/FreezingSnail) | Freezing Snail | Antarctica | 1,543 |
@@ -83,4 +83,4 @@ Indexed users: 460
 | 19 | [alphaaurigae](https://github.com/alphaaurigae) | Marian Brockerhoff | Antarctica | 85 |
 | 20 | [fakeid30](https://github.com/fakeid30) | Fake ID | Antarctica | 78 |
 
-Generated: 2026-10-20T06:41:37.941Z
+Generated: 2026-10-20T08:17:50.600Z

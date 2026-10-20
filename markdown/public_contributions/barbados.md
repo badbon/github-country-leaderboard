@@ -1,6 +1,6 @@
 # Public Contributions - Barbados
 
-Generated: 2026-10-20T06:44:31.533Z
+Generated: 2026-10-20T08:20:27.674Z
 
 Users: 132
 
@@ -8,7 +8,7 @@ Users: 132
 |---:|---|---|---|---|---|---:|
 | 1 | [hammertoe](https://github.com/hammertoe) | Matt Hamilton | Dharach  | hammertoe | Barbados | 679 |
 | 2 | [ianhambleton](https://github.com/ianhambleton) | Ian Hambleton | The University of the West Indies |  | Barbados | 673 |
-| 3 | [caritechsolutions](https://github.com/caritechsolutions) |  |  |  | Barbados | 411 |
+| 3 | [caritechsolutions](https://github.com/caritechsolutions) |  |  |  | Barbados | 412 |
 | 4 | [shaquillehinds](https://github.com/shaquillehinds) | Shaquille Hinds |  |  | Barbados | 357 |
 | 5 | [jlayne246](https://github.com/jlayne246) | Joshua Layne |  |  | Bridgetown, Barbados | 307 |
 | 6 | [daley-mottley](https://github.com/daley-mottley) | Daley Mottley |  | DaleyMottley | Barbados | 271 |

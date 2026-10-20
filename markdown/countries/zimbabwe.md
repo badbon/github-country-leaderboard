@@ -76,11 +76,11 @@ Indexed users: 1,656
 | 12 | [DonnC](https://github.com/DonnC) | Donald Chinhuru | Harare, Zimbabwe | 165 |
 | 13 | [kudak3](https://github.com/kudak3) | Kudakwashe Kuzvindiwana | Harare,Zimbabwe | 160 |
 | 14 | [Elisvobs](https://github.com/Elisvobs) | Elias Svoba | Harare, Zimbabwe | 151 |
-| 15 | [michaeldera](https://github.com/michaeldera) | Michael | Bulawayo, Zimbabwe  | 128 |
+| 15 | [michaeldera](https://github.com/michaeldera) | Michael | Bulawayo, Zimbabwe  | 129 |
 | 16 | [zinyando](https://github.com/zinyando) | Lennex Zinyando | Harare, Zimbabwe | 126 |
 | 17 | [musungare-tanaka](https://github.com/musungare-tanaka) | Tanaka Musungare Wonder  | Harare | 116 |
 | 18 | [Ju99ernaut](https://github.com/Ju99ernaut) | Brendon Ngirazi | Zimbabwe | 111 |
 | 19 | [zim-bot](https://github.com/zim-bot) | DRIPS MEMES BLENNIE BLESSED TUNA | Zimbabwe | 110 |
 | 20 | [KudakwasheM](https://github.com/KudakwasheM) | Kudakwashe Masaya | Harare | 105 |
 
-Generated: 2026-10-20T06:36:52.516Z
+Generated: 2026-10-20T08:11:24.960Z

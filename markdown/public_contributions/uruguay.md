@@ -1,6 +1,6 @@
 # Public Contributions - Uruguay
 
-Generated: 2026-10-20T06:33:32.089Z
+Generated: 2026-10-20T08:08:34.828Z
 
 Users: 5608
 
@@ -17,12 +17,12 @@ Users: 5608
 | 9 | [eduair94](https://github.com/eduair94) | EduAir | Shellix / CheckLeaked.cc |  | Uruguay | 3797 |
 | 10 | [matiasportugau-ui](https://github.com/matiasportugau-ui) | MatPrompt | @BMCdecode  |  | Uruguay  | 3036 |
 | 11 | [ferfalcon](https://github.com/ferfalcon) | Fernando Falcon |  |  | Montevideo | 2943 |
-| 12 | [damiansire](https://github.com/damiansire) | Damian Sire |  |  | Uruguay | 2721 |
-| 13 | [jm181987](https://github.com/jm181987) | Jorge Marquez |  |  | Uruguay | 2672 |
-| 14 | [fzipi](https://github.com/fzipi) | Felipe Zipitría | Facultad de Ingeniería, Universidad de la República |  | Montevideo, Uruguay | 2539 |
-| 15 | [rpiaggio](https://github.com/rpiaggio) | Raúl Piaggio |  |  | Uruguay | 2520 |
-| 16 | [Joacohbc](https://github.com/Joacohbc) | Joacohbc |  |  | Uruguay | 2485 |
-| 17 | [nicolas-maman](https://github.com/nicolas-maman) | Nicolas Maman |  |  | Montevideo,Uruguay | 2373 |
-| 18 | [yanquisalexander](https://github.com/yanquisalexander) | Alexander Barrios |  | alexitoo_uy | Uruguay | 2037 |
-| 19 | [bradelev](https://github.com/bradelev) | Braulio De Leon |  |  | Montevideo, Uruguay | 2033 |
-| 20 | [Pauisdev](https://github.com/Pauisdev) | Pau |  |  | Uruguay, Montevideo | 2028 |
+| 12 | [EmoPorEmilio](https://github.com/EmoPorEmilio) | Emilio "Emo" Franceschini |  |  | Montevideo, Uruguay | 2843 |
+| 13 | [damiansire](https://github.com/damiansire) | Damian Sire |  |  | Uruguay | 2721 |
+| 14 | [jm181987](https://github.com/jm181987) | Jorge Marquez |  |  | Uruguay | 2672 |
+| 15 | [fzipi](https://github.com/fzipi) | Felipe Zipitría | Facultad de Ingeniería, Universidad de la República |  | Montevideo, Uruguay | 2539 |
+| 16 | [rpiaggio](https://github.com/rpiaggio) | Raúl Piaggio |  |  | Uruguay | 2520 |
+| 17 | [Joacohbc](https://github.com/Joacohbc) | Joacohbc |  |  | Uruguay | 2485 |
+| 18 | [nicolas-maman](https://github.com/nicolas-maman) | Nicolas Maman |  |  | Montevideo,Uruguay | 2373 |
+| 19 | [yanquisalexander](https://github.com/yanquisalexander) | Alexander Barrios |  | alexitoo_uy | Uruguay | 2037 |
+| 20 | [bradelev](https://github.com/bradelev) | Braulio De Leon |  |  | Montevideo, Uruguay | 2033 |

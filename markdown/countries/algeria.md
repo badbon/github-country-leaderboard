@@ -1,6 +1,6 @@
 # Algeria
 
-Indexed users: 5,778
+Indexed users: 5,777
 
 | Leaderboard | Link |
 |---|---|
@@ -26,12 +26,12 @@ Indexed users: 5,778
 | 12 | [aimen08](https://github.com/aimen08) | Aymen Hamza | Algeria | 6,072 |
 | 13 | [s77rt](https://github.com/s77rt) | Abdelhafidh Belalia | Algeria | 5,978 |
 | 14 | [mohammedMsgm](https://github.com/mohammedMsgm) | MOHAMMED MESSEGUEM | Algiers, Algeria | 5,232 |
-| 15 | [Hamza-HM](https://github.com/Hamza-HM) | Hamza Hed Messaoud | Algeria | 5,049 |
-| 16 | [wallydz](https://github.com/wallydz) |  | Algeria | 4,889 |
-| 17 | [maamriaabderahmene](https://github.com/maamriaabderahmene) | Maamria Abderahmene | algiers | 4,818 |
-| 18 | [AMessaoudene](https://github.com/AMessaoudene) | Kweryzm | Algiers | 4,809 |
-| 19 | [mahmoud-alragabi](https://github.com/mahmoud-alragabi) | Mahmoud Y. Al-Ragabi | Algeria | 4,654 |
-| 20 | [useCallback](https://github.com/useCallback) | Mohamed El Mehdi Khalfoun | Algeria | 4,636 |
+| 15 | [useCallback](https://github.com/useCallback) | Mohamed El Mehdi Khalfoun | Algeria | 5,098 |
+| 16 | [Hamza-HM](https://github.com/Hamza-HM) | Hamza Hed Messaoud | Algeria | 5,049 |
+| 17 | [issam-seghir](https://github.com/issam-seghir) | Issam Seghir | Algeria | 4,989 |
+| 18 | [wallydz](https://github.com/wallydz) |  | Algeria | 4,889 |
+| 19 | [maamriaabderahmene](https://github.com/maamriaabderahmene) | Maamria Abderahmene | algiers | 4,818 |
+| 20 | [AMessaoudene](https://github.com/AMessaoudene) | Kweryzm | Algiers | 4,809 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 5,778
 | 19 | [sabri-zaki](https://github.com/sabri-zaki) | sabri zakaria | Algeria | 686 |
 | 20 | [Hamza5](https://github.com/Hamza5) | Hamza Abbad | Algeria | 669 |
 
-Generated: 2026-10-20T06:38:48.505Z
+Generated: 2026-10-20T08:13:51.536Z

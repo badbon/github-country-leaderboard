@@ -1,6 +1,6 @@
 # Total Contributions - Uruguay
 
-Generated: 2026-10-20T06:33:32.089Z
+Generated: 2026-10-20T08:08:34.828Z
 
 Users: 5608
 
@@ -9,12 +9,12 @@ Users: 5608
 | 1 | [lucasborges2001](https://github.com/lucasborges2001) | Lucas Borges |  |  | Montevideo, Uruguay | 25520 |
 | 2 | [jQuinRivero](https://github.com/jQuinRivero) | Joaquín Rivero |  |  | Montevideo, Uruguay | 25236 |
 | 3 | [matiaszanolli](https://github.com/matiaszanolli) | Matias Zanolli |  | TechForMusicAI | Uruguay | 23365 |
-| 4 | [figlesias221](https://github.com/figlesias221) | Federico Iglesias |  |  | Montevideo, Uruguay | 16114 |
-| 5 | [fausanchez](https://github.com/fausanchez) | Fausto Sanchez |  | sfaustto | Uruguay | 14173 |
-| 6 | [dcadenas](https://github.com/dcadenas) | Daniel Cadenas |  | dcadenas | Montevideo, Uruguay | 13568 |
-| 7 | [turnyi](https://github.com/turnyi) | Martin Radovitzky | @Opti-Task  |  | Montevideo, Uruguay | 12732 |
-| 8 | [ignaciogarcia-dev](https://github.com/ignaciogarcia-dev) | Ignacio García | Criptala |  | Uruguay | 11961 |
-| 9 | [EmoPorEmilio](https://github.com/EmoPorEmilio) | Emilio "Emo" Franceschini |  |  | Montevideo, Uruguay | 11515 |
+| 4 | [EmoPorEmilio](https://github.com/EmoPorEmilio) | Emilio "Emo" Franceschini |  |  | Montevideo, Uruguay | 21233 |
+| 5 | [figlesias221](https://github.com/figlesias221) | Federico Iglesias |  |  | Montevideo, Uruguay | 16114 |
+| 6 | [fausanchez](https://github.com/fausanchez) | Fausto Sanchez |  | sfaustto | Uruguay | 14173 |
+| 7 | [dcadenas](https://github.com/dcadenas) | Daniel Cadenas |  | dcadenas | Montevideo, Uruguay | 13568 |
+| 8 | [turnyi](https://github.com/turnyi) | Martin Radovitzky | @Opti-Task  |  | Montevideo, Uruguay | 12732 |
+| 9 | [ignaciogarcia-dev](https://github.com/ignaciogarcia-dev) | Ignacio García | Criptala |  | Uruguay | 11961 |
 | 10 | [MateoVidalS](https://github.com/MateoVidalS) | Mateo Vidal | @pentoai  |  | Uruguay | 11113 |
 | 11 | [agurod42](https://github.com/agurod42) | Agu Rodríguez |  | agurod42 | Montevideo, Uruguay, Earth | 10131 |
 | 12 | [frankdavidcorona](https://github.com/frankdavidcorona) | Frank Corona Prendes | SynerSib Consulting SAS & Strictly | chaplindev | Montevideo, Uruguay | 10097 |

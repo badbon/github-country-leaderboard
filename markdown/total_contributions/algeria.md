@@ -1,8 +1,8 @@
 # Total Contributions - Algeria
 
-Generated: 2026-10-20T06:38:48.505Z
+Generated: 2026-10-20T08:13:51.536Z
 
-Users: 5778
+Users: 5777
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -20,9 +20,9 @@ Users: 5778
 | 12 | [aimen08](https://github.com/aimen08) | Aymen Hamza | Tote&Carry | AimenMT2 | Algeria | 6072 |
 | 13 | [s77rt](https://github.com/s77rt) | Abdelhafidh Belalia |  |  | Algeria | 5978 |
 | 14 | [mohammedMsgm](https://github.com/mohammedMsgm) | MOHAMMED MESSEGUEM | Codefox.ai |  | Algiers, Algeria | 5232 |
-| 15 | [Hamza-HM](https://github.com/Hamza-HM) | Hamza Hed Messaoud | Graphicode |  | Algeria | 5049 |
-| 16 | [wallydz](https://github.com/wallydz) |  | UZ4 Network |  | Algeria | 4889 |
-| 17 | [maamriaabderahmene](https://github.com/maamriaabderahmene) | Maamria Abderahmene | National higher school of advanced technologies |  | algiers | 4818 |
-| 18 | [AMessaoudene](https://github.com/AMessaoudene) | Kweryzm | @GDGAlgiers |  | Algiers | 4809 |
-| 19 | [mahmoud-alragabi](https://github.com/mahmoud-alragabi) | Mahmoud Y. Al-Ragabi |  |  | Algeria | 4654 |
-| 20 | [useCallback](https://github.com/useCallback) | Mohamed El Mehdi Khalfoun |  |  | Algeria | 4636 |
+| 15 | [useCallback](https://github.com/useCallback) | Mohamed El Mehdi Khalfoun |  |  | Algeria | 5098 |
+| 16 | [Hamza-HM](https://github.com/Hamza-HM) | Hamza Hed Messaoud | Graphicode |  | Algeria | 5049 |
+| 17 | [issam-seghir](https://github.com/issam-seghir) | Issam Seghir |  |  | Algeria | 4989 |
+| 18 | [wallydz](https://github.com/wallydz) |  | UZ4 Network |  | Algeria | 4889 |
+| 19 | [maamriaabderahmene](https://github.com/maamriaabderahmene) | Maamria Abderahmene | National higher school of advanced technologies |  | algiers | 4818 |
+| 20 | [AMessaoudene](https://github.com/AMessaoudene) | Kweryzm | @GDGAlgiers |  | Algiers | 4809 |

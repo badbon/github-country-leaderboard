@@ -1,6 +1,6 @@
 # Public Contributions - Cape Verde
 
-Generated: 2026-10-20T06:51:54.664Z
+Generated: 2026-10-20T08:27:54.093Z
 
 Users: 563
 
@@ -19,7 +19,7 @@ Users: 563
 | 11 | [Deustavo](https://github.com/Deustavo) | Gustavo Andrade | Tray |  | Praia Grande - SP | 379 |
 | 12 | [rafarfelipe](https://github.com/rafarfelipe) | Rafael Felipe |  |  | Praia Grande - SP | 322 |
 | 13 | [GustavoLDO](https://github.com/GustavoLDO) | Gustavo Lemos  de Oliveira  | Fatec Praia Grande |  | Praia Grande -SP | 302 |
-| 14 | [blzrosa](https://github.com/blzrosa) | Bruno Luís Zerbinatto Rosa |  |  | Praia Grande, SP | 301 |
+| 14 | [blzrosa](https://github.com/blzrosa) | Bruno Luís Zerbinatto Rosa |  |  | Praia Grande, SP | 293 |
 | 15 | [maytearaujo](https://github.com/maytearaujo) | Maytê Araújo |  |  | Praia Grande - SP | 256 |
 | 16 | [Brocy](https://github.com/Brocy) | Brocy Centeio | Zing Developers |  | Praia, Cabo Verde | 234 |
 | 17 | [leviferre1ra](https://github.com/leviferre1ra) | Levi Ferreira Cunha |  |  | Praia Grande/SP | 220 |

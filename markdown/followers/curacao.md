@@ -1,6 +1,6 @@
 # Followers - Curaçao
 
-Generated: 2026-10-20T06:57:34.683Z
+Generated: 2026-10-20T08:32:57.839Z
 
 Users: 53
 

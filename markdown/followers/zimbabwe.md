@@ -1,6 +1,6 @@
 # Followers - Zimbabwe
 
-Generated: 2026-10-20T06:36:52.516Z
+Generated: 2026-10-20T08:11:24.960Z
 
 Users: 1656
 
@@ -20,7 +20,7 @@ Users: 1656
 | 12 | [DonnC](https://github.com/DonnC) | Donald Chinhuru | Squaredot Inc | donix_22 | Harare, Zimbabwe | 165 |
 | 13 | [kudak3](https://github.com/kudak3) | Kudakwashe Kuzvindiwana |  |  | Harare,Zimbabwe | 160 |
 | 14 | [Elisvobs](https://github.com/Elisvobs) | Elias Svoba | @Infixus | Elisvobs | Harare, Zimbabwe | 151 |
-| 15 | [michaeldera](https://github.com/michaeldera) | Michael |  |  | Bulawayo, Zimbabwe  | 128 |
+| 15 | [michaeldera](https://github.com/michaeldera) | Michael |  |  | Bulawayo, Zimbabwe  | 129 |
 | 16 | [zinyando](https://github.com/zinyando) | Lennex Zinyando | Izwi AI | zinyando | Harare, Zimbabwe | 126 |
 | 17 | [musungare-tanaka](https://github.com/musungare-tanaka) | Tanaka Musungare Wonder  |  |  | Harare | 116 |
 | 18 | [Ju99ernaut](https://github.com/Ju99ernaut) | Brendon Ngirazi |  | Ju99ern4ut | Zimbabwe | 111 |

@@ -1,6 +1,6 @@
 # Public Contributions - Antarctica
 
-Generated: 2026-10-20T06:41:37.941Z
+Generated: 2026-10-20T08:17:50.600Z
 
 Users: 460
 
@@ -9,8 +9,8 @@ Users: 460
 | 1 | [JohnChristianD](https://github.com/JohnChristianD) | John Christian Domingo | https://www.goodnewsnetwork.org/dead-man-jolted-back-to-life-by-the-intolerable-bumps-of-indias-potholes/ |  | Antarctica | 4904 |
 | 2 | [Sup2point0](https://github.com/Sup2point0) | Sup#2.0 |  |  | Antarctica | 4285 |
 | 3 | [morgaesis](https://github.com/morgaesis) | Mörgæsis |  |  | Antarctica | 3539 |
-| 4 | [PicasoTheDeal](https://github.com/PicasoTheDeal) | Tetstack |  |  | Antarctica | 3067 |
-| 5 | [ethicnology](https://github.com/ethicnology) | Azad | @SatoshiPortal  |  | Antarctica | 3060 |
+| 4 | [ethicnology](https://github.com/ethicnology) | Azad | @SatoshiPortal  |  | Antarctica | 3077 |
+| 5 | [PicasoTheDeal](https://github.com/PicasoTheDeal) | Tetstack |  |  | Antarctica | 3067 |
 | 6 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Lapr Inc. |  | Antarctica | 3046 |
 | 7 | [shangyian](https://github.com/shangyian) | Yian |  |  | Antarctica | 2165 |
 | 8 | [FreezingSnail](https://github.com/FreezingSnail) | Freezing Snail |  |  | Antarctica | 1543 |
