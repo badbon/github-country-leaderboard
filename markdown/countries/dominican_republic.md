@@ -1,6 +1,6 @@
 # Dominican Republic
 
-Indexed users: 3,297
+Indexed users: 3,298
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 3,297
 | 19 | [eatskolnikov](https://github.com/eatskolnikov) | Enmanuel Toribio | Dominican Republic | 147 |
 | 20 | [RaymondCoplin](https://github.com/RaymondCoplin) | Raymond Coplin | Dominican Republic, Santo Domingo | 120 |
 
-Generated: 2026-10-20T10:09:38.953Z
+Generated: 2026-10-20T12:28:56.934Z

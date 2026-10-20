@@ -61,7 +61,7 @@ Published countries: 234
 | Denmark | 19,300 | [View](./denmark.md) |
 | Djibouti | 55 | [View](./djibouti.md) |
 | Dominica | 18 | [View](./dominica.md) |
-| Dominican Republic | 3,297 | [View](./dominican_republic.md) |
+| Dominican Republic | 3,298 | [View](./dominican_republic.md) |
 | DR Congo | 701 | [View](./dr_congo.md) |
 | Ecuador | 4,879 | [View](./ecuador.md) |
 | Egypt | 34,091 | [View](./egypt.md) |
@@ -106,7 +106,7 @@ Published countries: 234
 | Isle of Man | 155 | [View](./isle_of_man.md) |
 | Israel | 12,420 | [View](./israel.md) |
 | Ivory Coast | 488 | [View](./ivory_coast.md) |
-| Jamaica | 1,272 | [View](./jamaica.md) |
+| Jamaica | 1,271 | [View](./jamaica.md) |
 | Jersey | 139 | [View](./jersey.md) |
 | Jordan | 4,004 | [View](./jordan.md) |
 | Kazakhstan | 5,628 | [View](./kazakhstan.md) |
@@ -239,4 +239,4 @@ Published countries: 234
 | Zambia | 1,337 | [View](./zambia.md) |
 | Zimbabwe | 1,656 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-20T12:26:29.680Z
+Generated: 2026-10-20T12:30:26.930Z

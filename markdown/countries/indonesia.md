@@ -12,7 +12,7 @@ Indexed users: 63,280
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [FN-Rerechan02](https://github.com/FN-Rerechan02) | Rerechan02 | Asia/Jakarta | 2,363,641 |
+| 1 | [FN-Rerechan02](https://github.com/FN-Rerechan02) | Rerechan02 | Asia/Jakarta | 1,683,963 |
 | 2 | [ruef](https://github.com/ruef) |  | Indonesia | 592,454 |
 | 3 | [Rosellines](https://github.com/Rosellines) | Roselline Mikasa | Indonesia | 480,548 |
 | 4 | [antono4](https://github.com/antono4) | Antono | West Java, Indonesia | 275,682 |
@@ -37,7 +37,7 @@ Indexed users: 63,280
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [FN-Rerechan02](https://github.com/FN-Rerechan02) | Rerechan02 | Asia/Jakarta | 2,363,626 |
+| 1 | [FN-Rerechan02](https://github.com/FN-Rerechan02) | Rerechan02 | Asia/Jakarta | 1,683,948 |
 | 2 | [ruef](https://github.com/ruef) |  | Indonesia | 592,453 |
 | 3 | [antono4](https://github.com/antono4) | Antono | West Java, Indonesia | 273,889 |
 | 4 | [adnanramadhani](https://github.com/adnanramadhani) | Adnan Choirul Ramadhani  | Indonesia  | 219,441 |
@@ -83,4 +83,4 @@ Indexed users: 63,280
 | 19 | [theodorusclarence](https://github.com/theodorusclarence) | Theodorus Clarence | Indonesia | 1,488 |
 | 20 | [imrenagi](https://github.com/imrenagi) | Imre Nagi | Jakarta | 1,307 |
 
-Generated: 2026-10-20T08:53:04.062Z
+Generated: 2026-10-20T12:27:30.384Z
