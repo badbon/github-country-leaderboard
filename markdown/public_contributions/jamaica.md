@@ -1,6 +1,6 @@
 # Public Contributions - Jamaica
 
-Generated: 2026-10-20T15:36:33.217Z
+Generated: 2026-10-20T17:52:09.356Z
 
 Users: 1271
 
@@ -8,7 +8,7 @@ Users: 1271
 |---:|---|---|---|---|---|---:|
 | 1 | [olusiekwin](https://github.com/olusiekwin) | Gramm | Gramm's Foundation | _olusiekwin | kingston, JM | 8158 |
 | 2 | [kaplanz](https://github.com/kaplanz) | Zakhary Kaplan | @tenstorrent |  | Kingston, ON | 3861 |
-| 3 | [dcblundell](https://github.com/dcblundell) | David Blundell |  |  | Kingston, ON | 2891 |
+| 3 | [dcblundell](https://github.com/dcblundell) | David Blundell |  |  | Kingston, ON | 2914 |
 | 4 | [craole-cc](https://github.com/craole-cc) | Craig "Craole' Cole |  |  | Jamaica | 2363 |
 | 5 | [shamar-morrison](https://github.com/shamar-morrison) | horizon |  | theavgcoder | Jamaica | 2260 |
 | 6 | [airpocket-soundman](https://github.com/airpocket-soundman) | airpocket |  | AirpocketRobot | kingston jamaca | 2032 |

@@ -15,8 +15,8 @@ Indexed users: 1,258
 | 1 | [Siumauricio](https://github.com/Siumauricio) | Mauricio Siu | Honduras, San Pedro Sula | 13,497 |
 | 2 | [vfiii](https://github.com/vfiii) | Valentín Flores | Honduras | 12,646 |
 | 3 | [ElyDeveloper](https://github.com/ElyDeveloper) | Eliezer Rivera | Tegucigalpa, Honduras | 12,642 |
-| 4 | [dansiegel](https://github.com/dansiegel) | Dan Siegel | Roatan, Honduras | 10,513 |
-| 5 | [MGeovany](https://github.com/MGeovany) | Marlon Geovany Castro | Honduras, Cortes | 10,438 |
+| 4 | [MGeovany](https://github.com/MGeovany) | Marlon Geovany Castro | Honduras, Cortes | 10,852 |
+| 5 | [dansiegel](https://github.com/dansiegel) | Dan Siegel | Roatan, Honduras | 10,513 |
 | 6 | [robertgarcia](https://github.com/robertgarcia) | Robert D. Garcia | Honduras | 10,175 |
 | 7 | [BitterSweetBoy](https://github.com/BitterSweetBoy) | Denis Dueñas | Honduras | 8,462 |
 | 8 | [ahvega](https://github.com/ahvega) | Adalberto Hernandez Vega | Honduras | 8,017 |
@@ -41,8 +41,8 @@ Indexed users: 1,258
 | 2 | [eliac-d](https://github.com/eliac-d) | Eliac | Honduras | 3,542 |
 | 3 | [Siumauricio](https://github.com/Siumauricio) | Mauricio Siu | Honduras, San Pedro Sula | 3,141 |
 | 4 | [naut21](https://github.com/naut21) | Naut | 🇭🇳 Honduras | 2,580 |
-| 5 | [andrepg-dev](https://github.com/andrepg-dev) | Andre Ponce | Honduras | 1,939 |
-| 6 | [MGeovany](https://github.com/MGeovany) | Marlon Geovany Castro | Honduras, Cortes | 1,845 |
+| 5 | [MGeovany](https://github.com/MGeovany) | Marlon Geovany Castro | Honduras, Cortes | 1,972 |
+| 6 | [andrepg-dev](https://github.com/andrepg-dev) | Andre Ponce | Honduras | 1,939 |
 | 7 | [kevinhndz](https://github.com/kevinhndz) | Kevin Hernandez | Comayagua, Honduras | 1,568 |
 | 8 | [MilanDroid](https://github.com/MilanDroid) | Antony Brenes | Honduras | 1,486 |
 | 9 | [salp2403](https://github.com/salp2403) | Said Arturo Lopez | Honduras | 1,473 |
@@ -64,7 +64,7 @@ Indexed users: 1,258
 |---:|---|---|---|---:|
 | 1 | [Siumauricio](https://github.com/Siumauricio) | Mauricio Siu | Honduras, San Pedro Sula | 610 |
 | 2 | [dansiegel](https://github.com/dansiegel) | Dan Siegel | Roatan, Honduras | 516 |
-| 3 | [BryanAnariba](https://github.com/BryanAnariba) | Bryan Anariba | Honduras | 388 |
+| 3 | [BryanAnariba](https://github.com/BryanAnariba) | Bryan Anariba | Honduras | 386 |
 | 4 | [Turupawn](https://github.com/Turupawn) | Ahmed Castro | San Pedro Sula, Honduras | 320 |
 | 5 | [BANARIBA](https://github.com/BANARIBA) | ARIEL ANARIBA | Honduras | 319 |
 | 6 | [obetancourthunicah](https://github.com/obetancourthunicah) | Orlando J Betancourth Alvarenga | Tegucigalpa Honduras | 234 |
@@ -81,6 +81,6 @@ Indexed users: 1,258
 | 17 | [ideras](https://github.com/ideras) | Ivan de Jesus Deras | Honduras | 72 |
 | 18 | [Pcgell](https://github.com/Pcgell) | Kenneth Vittetoe | Tegucigalpa, HN | 62 |
 | 19 | [christiansc96](https://github.com/christiansc96) | Christian Sánchez | San Pedro Sula, Honduras | 56 |
-| 20 | [Asterki](https://github.com/Asterki) | Fernando Rivera | Honduras | 55 |
+| 20 | [galexbh](https://github.com/galexbh) | Gabriel Barrientos | Honduras | 56 |
 
-Generated: 2026-10-20T15:32:29.893Z
+Generated: 2026-10-20T17:46:53.253Z

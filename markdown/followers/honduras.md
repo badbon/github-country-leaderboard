@@ -1,6 +1,6 @@
 # Followers - Honduras
 
-Generated: 2026-10-20T15:32:29.893Z
+Generated: 2026-10-20T17:46:53.253Z
 
 Users: 1258
 
@@ -8,7 +8,7 @@ Users: 1258
 |---:|---|---|---|---|---|---:|
 | 1 | [Siumauricio](https://github.com/Siumauricio) | Mauricio Siu |  |  | Honduras, San Pedro Sula | 610 |
 | 2 | [dansiegel](https://github.com/dansiegel) | Dan Siegel | @AvantiPoint | DanJSiegel | Roatan, Honduras | 516 |
-| 3 | [BryanAnariba](https://github.com/BryanAnariba) | Bryan Anariba | UNAH |  | Honduras | 388 |
+| 3 | [BryanAnariba](https://github.com/BryanAnariba) | Bryan Anariba | UNAH |  | Honduras | 386 |
 | 4 | [Turupawn](https://github.com/Turupawn) | Ahmed Castro |  | FilosofiaCodigo | San Pedro Sula, Honduras | 320 |
 | 5 | [BANARIBA](https://github.com/BANARIBA) | ARIEL ANARIBA | Seguros Crefisa |  | Honduras | 319 |
 | 6 | [obetancourthunicah](https://github.com/obetancourthunicah) | Orlando J Betancourth Alvarenga | UNICAH |  | Tegucigalpa Honduras | 234 |
@@ -25,4 +25,4 @@ Users: 1258
 | 17 | [ideras](https://github.com/ideras) | Ivan de Jesus Deras |  |  | Honduras | 72 |
 | 18 | [Pcgell](https://github.com/Pcgell) | Kenneth Vittetoe |  |  | Tegucigalpa, HN | 62 |
 | 19 | [christiansc96](https://github.com/christiansc96) | Christian Sánchez | DevTeam504 | christian_sc96 | San Pedro Sula, Honduras | 56 |
-| 20 | [Asterki](https://github.com/Asterki) | Fernando Rivera | UNAH Campus Comayagua |  | Honduras | 55 |
+| 20 | [galexbh](https://github.com/galexbh) | Gabriel Barrientos | Zineth | galexbh | Honduras | 56 |

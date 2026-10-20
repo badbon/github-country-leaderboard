@@ -1,6 +1,6 @@
 # Guatemala
 
-Indexed users: 3,213
+Indexed users: 3,212
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 3,213
 | 19 | [cms](https://github.com/cms) | Christian C. Salvadó | Guatemala | 117 |
 | 20 | [tian2992](https://github.com/tian2992) | Sebastian Oliva | Guatemala | 113 |
 
-Generated: 2026-10-20T15:30:28.595Z
+Generated: 2026-10-20T17:43:37.192Z
