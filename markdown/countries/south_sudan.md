@@ -63,7 +63,7 @@ Indexed users: 132
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [Maiz27](https://github.com/Maiz27) | Maged Faiz | Juba, South Sudan | 436 |
-| 2 | [dutkulang](https://github.com/dutkulang) | Dut Kulang | Juba, South Sudan | 135 |
+| 2 | [dutkulang](https://github.com/dutkulang) | Dut Kulang | Juba, South Sudan | 136 |
 | 3 | [OchudhoCham](https://github.com/OchudhoCham) | Ochudho Cham | Juba,South Sudan | 61 |
 | 4 | [longmaker2](https://github.com/longmaker2) | Long Maker Long Deng | Juba | 45 |
 | 5 | [kilataban](https://github.com/kilataban) | Kila Taban  | Juba, South Sudan | 41 |
@@ -83,4 +83,4 @@ Indexed users: 132
 | 19 | [Amalsouthsudan23](https://github.com/Amalsouthsudan23) | AMAL South Sudan | South Sudan | 15 |
 | 20 | [Codetym](https://github.com/Codetym) | Nelson Mandela D.M.J | Juba, South Sudan  | 14 |
 
-Generated: 2026-10-20T07:56:48.864Z
+Generated: 2026-10-20T09:35:22.127Z

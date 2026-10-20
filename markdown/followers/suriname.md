@@ -1,6 +1,6 @@
 # Followers - Suriname
 
-Generated: 2026-10-20T07:58:31.776Z
+Generated: 2026-10-20T09:37:18.181Z
 
 Users: 123
 
@@ -25,4 +25,4 @@ Users: 123
 | 17 | [giannisanni](https://github.com/giannisanni) | Gianni Sanrochman |  | Giannisanii | Paramaribo, Suriname | 22 |
 | 18 | [dcruz1990](https://github.com/dcruz1990) | Dennis Quesada Cruz | MyndGoals LLC | Dcruz19901 | Paramaribo, Surinam | 18 |
 | 19 | [JovinF](https://github.com/JovinF) | Jovin Fransman |  |  | Suriname | 18 |
-| 20 | [Your1405](https://github.com/Your1405) | Youri Karijopawiro |  |  | Paramaribo, Suriname | 18 |
+| 20 | [Your1405](https://github.com/Your1405) | Youri Karijopawiro |  |  | Paramaribo, Suriname | 17 |

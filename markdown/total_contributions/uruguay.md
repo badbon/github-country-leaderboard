@@ -1,8 +1,8 @@
 # Total Contributions - Uruguay
 
-Generated: 2026-10-20T08:08:34.828Z
+Generated: 2026-10-20T09:43:51.956Z
 
-Users: 5608
+Users: 5607
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -19,10 +19,10 @@ Users: 5608
 | 11 | [agurod42](https://github.com/agurod42) | Agu Rodríguez |  | agurod42 | Montevideo, Uruguay, Earth | 10131 |
 | 12 | [frankdavidcorona](https://github.com/frankdavidcorona) | Frank Corona Prendes | SynerSib Consulting SAS & Strictly | chaplindev | Montevideo, Uruguay | 10097 |
 | 13 | [JuanFKurucz](https://github.com/JuanFKurucz) | Francisco Kurucz | @tryolabs  | juanfkurucz | Uruguay | 9097 |
-| 14 | [EugeniaGramajo](https://github.com/EugeniaGramajo) | Eugenia Gramajo |  |  | Uruguay | 8420 |
-| 15 | [federicoimparatta](https://github.com/federicoimparatta) | Federico Imparatta | @ataraxy-digital |  | Montevideo, Uruguay | 8317 |
-| 16 | [emiliano-go](https://github.com/emiliano-go) | Emiliano G.O. | Eclipse Labs |  | Montevideo, Uruguay | 8276 |
-| 17 | [pedrosgmagalhaes](https://github.com/pedrosgmagalhaes) | Pedro Magalhaes | Iora Labs |  | Uruguay | 8205 |
-| 18 | [brunoocal](https://github.com/brunoocal) | Bruno Cal |  |  | Uruguay | 8152 |
-| 19 | [barbatdev](https://github.com/barbatdev) | Juan Barbat | Barbat.Dev |  | Uruguay | 7968 |
-| 20 | [LuisHdezE](https://github.com/LuisHdezE) | MSc Luis A. Hernández Elias | PuntoTecno |  | Montevideo, Uruguay | 7825 |
+| 14 | [cl8dep](https://github.com/cl8dep) | Arael Espinosa | @Heva-Co  |  | Montevideo, Uruguay | 8801 |
+| 15 | [EugeniaGramajo](https://github.com/EugeniaGramajo) | Eugenia Gramajo |  |  | Uruguay | 8420 |
+| 16 | [federicoimparatta](https://github.com/federicoimparatta) | Federico Imparatta | @ataraxy-digital |  | Montevideo, Uruguay | 8317 |
+| 17 | [emiliano-go](https://github.com/emiliano-go) | Emiliano G.O. | Eclipse Labs |  | Montevideo, Uruguay | 8276 |
+| 18 | [pedrosgmagalhaes](https://github.com/pedrosgmagalhaes) | Pedro Magalhaes | Iora Labs |  | Uruguay | 8205 |
+| 19 | [brunoocal](https://github.com/brunoocal) | Bruno Cal |  |  | Uruguay | 8152 |
+| 20 | [barbatdev](https://github.com/barbatdev) | Juan Barbat | Barbat.Dev |  | Uruguay | 7968 |

@@ -29,9 +29,9 @@ Indexed users: 10,927
 | 15 | [pavelpikta](https://github.com/pavelpikta) | Pavel Pikta | Grodno, Belarus | 5,010 |
 | 16 | [burvelandrei](https://github.com/burvelandrei) | Burvel Andrei | Minsk | 5,006 |
 | 17 | [dementorsss](https://github.com/dementorsss) | Dmitry | Minsk | 4,928 |
-| 18 | [Frederlk](https://github.com/Frederlk) | Petrinich Sergey | Belarus/Minsk | 4,821 |
-| 19 | [hotrush](https://github.com/hotrush) |  | Minsk, Belarus | 4,799 |
-| 20 | [LeonidShatilo](https://github.com/LeonidShatilo) | Leonid Shatilo | Gomel, Belarus | 4,563 |
+| 18 | [SergeyGalaxyOrsik](https://github.com/SergeyGalaxyOrsik) | Siarhei Orsik | Minsk | 4,822 |
+| 19 | [Frederlk](https://github.com/Frederlk) | Petrinich Sergey | Belarus/Minsk | 4,821 |
+| 20 | [hotrush](https://github.com/hotrush) |  | Minsk, Belarus | 4,799 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 10,927
 | 19 | [dillidon](https://github.com/dillidon) | RV | Belarus | 183 |
 | 20 | [alexzhirkevich](https://github.com/alexzhirkevich) | Alexander Zhirkevich | Belarus, Minsk | 161 |
 
-Generated: 2026-10-20T08:20:58.902Z
+Generated: 2026-10-20T09:54:51.551Z

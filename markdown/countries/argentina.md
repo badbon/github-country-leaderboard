@@ -48,15 +48,15 @@ Indexed users: 50,724
 | 9 | [ulises-jeremias](https://github.com/ulises-jeremias) | Ulises Jeremias | La Plata, Buenos Aires, Argentina | 9,169 |
 | 10 | [paobtorres](https://github.com/paobtorres) | Pao | Argentina | 9,090 |
 | 11 | [bozonx](https://github.com/bozonx) | Ivan | Argentina | 8,734 |
-| 12 | [joacominatel](https://github.com/joacominatel) | Joaquin minatel | Argentina | 7,744 |
-| 13 | [rolivencia](https://github.com/rolivencia) | Ramiro Olivencia | Santa Fe de la Vera Cruz, Argentina | 7,579 |
-| 14 | [lobinuxsoft](https://github.com/lobinuxsoft) | Matias Galarza | argentina | 7,236 |
-| 15 | [Juan-457](https://github.com/Juan-457) | Umanoai | Buenos Aires | 7,029 |
-| 16 | [matuteiglesias](https://github.com/matuteiglesias) | Matias Iglesias | Buenos Aires | 7,020 |
-| 17 | [Railly](https://github.com/Railly) | Railly Hugo | Peru, Argentina | 6,610 |
-| 18 | [gvastethecreator](https://github.com/gvastethecreator) | GVASTE | Argentina | 6,588 |
-| 19 | [unbalancedparentheses](https://github.com/unbalancedparentheses) | Federico Carrone | Buenos Aires, Argentina | 6,537 |
-| 20 | [snowarch](https://github.com/snowarch) | SnowF | Argentina | 6,136 |
+| 12 | [alowpoly](https://github.com/alowpoly) | Agustin Capeletto | Buenos Aires, Argentina | 7,792 |
+| 13 | [joacominatel](https://github.com/joacominatel) | Joaquin minatel | Argentina | 7,744 |
+| 14 | [rolivencia](https://github.com/rolivencia) | Ramiro Olivencia | Santa Fe de la Vera Cruz, Argentina | 7,579 |
+| 15 | [lobinuxsoft](https://github.com/lobinuxsoft) | Matias Galarza | argentina | 7,236 |
+| 16 | [Juan-457](https://github.com/Juan-457) | Umanoai | Buenos Aires | 7,029 |
+| 17 | [matuteiglesias](https://github.com/matuteiglesias) | Matias Iglesias | Buenos Aires | 7,020 |
+| 18 | [Railly](https://github.com/Railly) | Railly Hugo | Peru, Argentina | 6,610 |
+| 19 | [gvastethecreator](https://github.com/gvastethecreator) | GVASTE | Argentina | 6,588 |
+| 20 | [unbalancedparentheses](https://github.com/unbalancedparentheses) | Federico Carrone | Buenos Aires, Argentina | 6,537 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 50,724
 | 19 | [dacap](https://github.com/dacap) | David Capello | Argentina | 1,004 |
 | 20 | [andresriancho](https://github.com/andresriancho) | Andres Riancho | Buenos Aires, Argentina | 1,001 |
 
-Generated: 2026-10-20T08:17:56.778Z
+Generated: 2026-10-20T09:51:08.610Z

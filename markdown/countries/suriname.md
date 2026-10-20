@@ -13,7 +13,7 @@ Indexed users: 123
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [rafageist](https://github.com/rafageist) | Rafa Rodríguez | Paramaribo, Suriname | 45,118 |
-| 2 | [ragnarok22](https://github.com/ragnarok22) | Reinier Hernández | Suriname | 13,696 |
+| 2 | [ragnarok22](https://github.com/ragnarok22) | Reinier Hernández | Suriname | 13,744 |
 | 3 | [doctorneon](https://github.com/doctorneon) | Fabian Jacott | Suriname | 6,402 |
 | 4 | [Karel95](https://github.com/Karel95) | Karel Hernández | Paramaribo, Suriname | 2,847 |
 | 5 | [eSaniello](https://github.com/eSaniello) | Shaniel  | Suriname | 1,793 |
@@ -38,7 +38,7 @@ Indexed users: 123
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [rafageist](https://github.com/rafageist) | Rafa Rodríguez | Paramaribo, Suriname | 31,110 |
-| 2 | [ragnarok22](https://github.com/ragnarok22) | Reinier Hernández | Suriname | 2,824 |
+| 2 | [ragnarok22](https://github.com/ragnarok22) | Reinier Hernández | Suriname | 2,841 |
 | 3 | [giannisanni](https://github.com/giannisanni) | Gianni Sanrochman | Paramaribo, Suriname | 611 |
 | 4 | [JustinDouglas16](https://github.com/JustinDouglas16) | Justin Douglas | Paramaribo | 252 |
 | 5 | [pawiromitchel](https://github.com/pawiromitchel) | Mitchel | Suriname | 194 |
@@ -53,7 +53,7 @@ Indexed users: 123
 | 14 | [DustinVII](https://github.com/DustinVII) |  | Suriname | 73 |
 | 15 | [FrostiSR](https://github.com/FrostiSR) | Daniel dos Ramos | Paramaribo, Suriname | 72 |
 | 16 | [JoshKarta](https://github.com/JoshKarta) | Josh K | Paramaribo, Suriname | 72 |
-| 17 | [DeviousSiddy](https://github.com/DeviousSiddy) |  | Suriname | 65 |
+| 17 | [DeviousSiddy](https://github.com/DeviousSiddy) |  | Suriname | 66 |
 | 18 | [muskaanm4](https://github.com/muskaanm4) | Muskaan Mahabier | Suriname, Paramaribo | 63 |
 | 19 | [nathaniel123x3rd](https://github.com/nathaniel123x3rd) | Nathanielx3rd | Paramaribo, Suriname | 60 |
 | 20 | [TaufiqSultan](https://github.com/TaufiqSultan) | Taufiq Sultan | Suriname | 56 |
@@ -81,6 +81,6 @@ Indexed users: 123
 | 17 | [giannisanni](https://github.com/giannisanni) | Gianni Sanrochman | Paramaribo, Suriname | 22 |
 | 18 | [dcruz1990](https://github.com/dcruz1990) | Dennis Quesada Cruz | Paramaribo, Surinam | 18 |
 | 19 | [JovinF](https://github.com/JovinF) | Jovin Fransman | Suriname | 18 |
-| 20 | [Your1405](https://github.com/Your1405) | Youri Karijopawiro | Paramaribo, Suriname | 18 |
+| 20 | [Your1405](https://github.com/Your1405) | Youri Karijopawiro | Paramaribo, Suriname | 17 |
 
-Generated: 2026-10-20T07:58:31.776Z
+Generated: 2026-10-20T09:37:18.181Z

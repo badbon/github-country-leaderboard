@@ -1,17 +1,17 @@
 # Followers - Togo
 
-Generated: 2026-10-20T08:04:16.583Z
+Generated: 2026-10-20T09:39:44.770Z
 
 Users: 678
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [bekmarc](https://github.com/bekmarc) | K. Marco BEKOUTARE | LGG | leMpoussin | Togo | 386 |
-| 2 | [mayonorris](https://github.com/mayonorris) | Mayo Takémsi Norris KADANGA | CaSEG |  | Lomé, Togo | 210 |
+| 2 | [mayonorris](https://github.com/mayonorris) | Mayo Takémsi Norris KADANGA | CaSEG |  | Lomé, Togo | 219 |
 | 3 | [IrouKaizen](https://github.com/IrouKaizen) | irouKaizen |  | iroukaizen | Lomé | 197 |
 | 4 | [kpidiba](https://github.com/kpidiba) | KaizenCoder |  |  | Lomé-Togo | 150 |
 | 5 | [Agadafrancis](https://github.com/Agadafrancis) | Agada Francis Louis N. | Louis Technology (LT) | AgadaFrancisL | Togo | 140 |
-| 6 | [Docteur-Parfait](https://github.com/Docteur-Parfait) | Tech Pastor | RodiumAi | docteur_parfait | Lomé, Togo | 133 |
+| 6 | [Docteur-Parfait](https://github.com/Docteur-Parfait) | Tech Pastor | RodiumAi | docteur_parfait | Lomé, Togo | 134 |
 | 7 | [omarfarouk228](https://github.com/omarfarouk228) | Omar farouk KOUGBADA | KOF CORPORATION | OKougbada | Togo | 112 |
 | 8 | [ibraum](https://github.com/ibraum) | KONDO Ibrahim | Freelance |  | Lomé, TOGO | 108 |
 | 9 | [gsmadjaa05](https://github.com/gsmadjaa05) | GSM ADJAA | @GSM_ADJAA_COMPANY |  | Togo | 102 |
@@ -25,4 +25,4 @@ Users: 678
 | 17 | [Matthieu96Code](https://github.com/Matthieu96Code) | Kodjo Matthieu SENOU | Full-Stack Developer | MatthieuSenou | Togo, Lome | 69 |
 | 18 | [Koj-Kyo](https://github.com/Koj-Kyo) |  |  |  | Lomé , Togo | 68 |
 | 19 | [ica1010](https://github.com/ica1010) | Ghislin |  |  | Lomé , Togo | 66 |
-| 20 | [Maximekgn](https://github.com/Maximekgn) | KOGON Mawunygan Maxime |  |  | Togo | 64 |
+| 20 | [Maximekgn](https://github.com/Maximekgn) | KOGON Mawunygan Maxime |  |  | Togo | 63 |

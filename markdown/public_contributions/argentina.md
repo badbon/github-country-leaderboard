@@ -1,6 +1,6 @@
 # Public Contributions - Argentina
 
-Generated: 2026-10-20T08:17:56.778Z
+Generated: 2026-10-20T09:51:08.610Z
 
 Users: 50724
 
@@ -17,12 +17,12 @@ Users: 50724
 | 9 | [ulises-jeremias](https://github.com/ulises-jeremias) | Ulises Jeremias | @vlang @NaNLabs | ulisesjcf | La Plata, Buenos Aires, Argentina | 9169 |
 | 10 | [paobtorres](https://github.com/paobtorres) | Pao | Grupo Vinculado Bionanotecnología y sistemas complejos CONICET-UTN |  | Argentina | 9090 |
 | 11 | [bozonx](https://github.com/bozonx) | Ivan |  |  | Argentina | 8734 |
-| 12 | [joacominatel](https://github.com/joacominatel) | Joaquin minatel |  |  | Argentina | 7744 |
-| 13 | [rolivencia](https://github.com/rolivencia) | Ramiro Olivencia | Taller Technologies | rolivencia | Santa Fe de la Vera Cruz, Argentina | 7579 |
-| 14 | [lobinuxsoft](https://github.com/lobinuxsoft) | Matias Galarza | Crying Onion |  | argentina | 7236 |
-| 15 | [Juan-457](https://github.com/Juan-457) | Umanoai |  |  | Buenos Aires | 7029 |
-| 16 | [matuteiglesias](https://github.com/matuteiglesias) | Matias Iglesias |  | matuteiglesias | Buenos Aires | 7020 |
-| 17 | [Railly](https://github.com/Railly) | Railly Hugo | Vercel | raillyhugo | Peru, Argentina | 6610 |
-| 18 | [gvastethecreator](https://github.com/gvastethecreator) | GVASTE |  |  | Argentina | 6588 |
-| 19 | [unbalancedparentheses](https://github.com/unbalancedparentheses) | Federico Carrone | LambdaClass | federicocarrone | Buenos Aires, Argentina | 6537 |
-| 20 | [snowarch](https://github.com/snowarch) | SnowF |  |  | Argentina | 6136 |
+| 12 | [alowpoly](https://github.com/alowpoly) | Agustin Capeletto |  |  | Buenos Aires, Argentina | 7792 |
+| 13 | [joacominatel](https://github.com/joacominatel) | Joaquin minatel |  |  | Argentina | 7744 |
+| 14 | [rolivencia](https://github.com/rolivencia) | Ramiro Olivencia | Taller Technologies | rolivencia | Santa Fe de la Vera Cruz, Argentina | 7579 |
+| 15 | [lobinuxsoft](https://github.com/lobinuxsoft) | Matias Galarza | Crying Onion |  | argentina | 7236 |
+| 16 | [Juan-457](https://github.com/Juan-457) | Umanoai |  |  | Buenos Aires | 7029 |
+| 17 | [matuteiglesias](https://github.com/matuteiglesias) | Matias Iglesias |  | matuteiglesias | Buenos Aires | 7020 |
+| 18 | [Railly](https://github.com/Railly) | Railly Hugo | Vercel | raillyhugo | Peru, Argentina | 6610 |
+| 19 | [gvastethecreator](https://github.com/gvastethecreator) | GVASTE |  |  | Argentina | 6588 |
+| 20 | [unbalancedparentheses](https://github.com/unbalancedparentheses) | Federico Carrone | LambdaClass | federicocarrone | Buenos Aires, Argentina | 6537 |

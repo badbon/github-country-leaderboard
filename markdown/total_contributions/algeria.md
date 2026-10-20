@@ -1,6 +1,6 @@
 # Total Contributions - Algeria
 
-Generated: 2026-10-20T08:13:51.536Z
+Generated: 2026-10-20T09:49:18.700Z
 
 Users: 5777
 
@@ -9,20 +9,20 @@ Users: 5777
 | 1 | [RAHAMNIabdelkaderseifelislem](https://github.com/RAHAMNIabdelkaderseifelislem) | RAHMANI AbdElKader Seif El Islem |  |  | Saida,Algeria | 18565 |
 | 2 | [samir1498](https://github.com/samir1498) | Samir Bettahar | ObserveOne |  | Algeria | 13578 |
 | 3 | [mohaneddz](https://github.com/mohaneddz) | Mohaned-Dz | ENSIA | DzMohaned | Algeria, Constantine | 10706 |
-| 4 | [MoonFuji](https://github.com/MoonFuji) | Kadri Mohammed Mouncef | @Dusens-Research-Dev  |  | Algeria | 9280 |
-| 5 | [Achour](https://github.com/Achour) | Achour Meguenni |  |  | Algeria | 7789 |
-| 6 | [xCyberpunkx](https://github.com/xCyberpunkx) | Zed | Freelancer |  | Algeria | 7386 |
-| 7 | [oussamasf](https://github.com/oussamasf) |  | EP | OSeffai | Algiers  | 7372 |
-| 8 | [nezlicodes](https://github.com/nezlicodes) | Lylia Nezli |  | rand0m_walk3r | Algiers, Algeria | 7090 |
-| 9 | [sedaradji](https://github.com/sedaradji) | Sdj |  |  | Algeria | 6781 |
-| 10 | [ehocine](https://github.com/ehocine) | Elhadj Hocine | @YAtechnologies | hocineelhadj | Algeria  | 6425 |
-| 11 | [ubugnu](https://github.com/ubugnu) | Bouzid Badreddine | ubugnu |  | Algeria | 6389 |
-| 12 | [aimen08](https://github.com/aimen08) | Aymen Hamza | Tote&Carry | AimenMT2 | Algeria | 6072 |
-| 13 | [s77rt](https://github.com/s77rt) | Abdelhafidh Belalia |  |  | Algeria | 5978 |
-| 14 | [mohammedMsgm](https://github.com/mohammedMsgm) | MOHAMMED MESSEGUEM | Codefox.ai |  | Algiers, Algeria | 5232 |
-| 15 | [useCallback](https://github.com/useCallback) | Mohamed El Mehdi Khalfoun |  |  | Algeria | 5098 |
-| 16 | [Hamza-HM](https://github.com/Hamza-HM) | Hamza Hed Messaoud | Graphicode |  | Algeria | 5049 |
-| 17 | [issam-seghir](https://github.com/issam-seghir) | Issam Seghir |  |  | Algeria | 4989 |
-| 18 | [wallydz](https://github.com/wallydz) |  | UZ4 Network |  | Algeria | 4889 |
-| 19 | [maamriaabderahmene](https://github.com/maamriaabderahmene) | Maamria Abderahmene | National higher school of advanced technologies |  | algiers | 4818 |
-| 20 | [AMessaoudene](https://github.com/AMessaoudene) | Kweryzm | @GDGAlgiers |  | Algiers | 4809 |
+| 4 | [yuroyami](https://github.com/yuroyami) | Akram | More and more Kotlin |  | Algiers, Algeria 🇩🇿 | 10258 |
+| 5 | [MoonFuji](https://github.com/MoonFuji) | Kadri Mohammed Mouncef | @Dusens-Research-Dev  |  | Algeria | 9280 |
+| 6 | [Achour](https://github.com/Achour) | Achour Meguenni |  |  | Algeria | 7789 |
+| 7 | [xCyberpunkx](https://github.com/xCyberpunkx) | Zed | Freelancer |  | Algeria | 7386 |
+| 8 | [oussamasf](https://github.com/oussamasf) |  | EP | OSeffai | Algiers  | 7372 |
+| 9 | [nezlicodes](https://github.com/nezlicodes) | Lylia Nezli |  | rand0m_walk3r | Algiers, Algeria | 7090 |
+| 10 | [sedaradji](https://github.com/sedaradji) | Sdj |  |  | Algeria | 6781 |
+| 11 | [ehocine](https://github.com/ehocine) | Elhadj Hocine | @YAtechnologies | hocineelhadj | Algeria  | 6425 |
+| 12 | [ubugnu](https://github.com/ubugnu) | Bouzid Badreddine | ubugnu |  | Algeria | 6389 |
+| 13 | [aimen08](https://github.com/aimen08) | Aymen Hamza | Tote&Carry | AimenMT2 | Algeria | 6072 |
+| 14 | [s77rt](https://github.com/s77rt) | Abdelhafidh Belalia |  |  | Algeria | 5978 |
+| 15 | [mohammedMsgm](https://github.com/mohammedMsgm) | MOHAMMED MESSEGUEM | Codefox.ai |  | Algiers, Algeria | 5232 |
+| 16 | [useCallback](https://github.com/useCallback) | Mohamed El Mehdi Khalfoun |  |  | Algeria | 5098 |
+| 17 | [Hamza-HM](https://github.com/Hamza-HM) | Hamza Hed Messaoud | Graphicode |  | Algeria | 5049 |
+| 18 | [issam-seghir](https://github.com/issam-seghir) | Issam Seghir |  |  | Algeria | 4989 |
+| 19 | [wallydz](https://github.com/wallydz) |  | UZ4 Network |  | Algeria | 4889 |
+| 20 | [maamriaabderahmene](https://github.com/maamriaabderahmene) | Maamria Abderahmene | National higher school of advanced technologies |  | algiers | 4818 |

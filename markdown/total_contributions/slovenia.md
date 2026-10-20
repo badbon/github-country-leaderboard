@@ -1,6 +1,6 @@
 # Total Contributions - Slovenia
 
-Generated: 2026-10-20T01:42:15.137Z
+Generated: 2026-10-20T09:32:51.976Z
 
 Users: 3097
 
@@ -11,11 +11,11 @@ Users: 3097
 | 3 | [bobalazek](https://github.com/bobalazek) | Borut Balazek |  |  | Slovenia, Europe | 17006 |
 | 4 | [Meemaw](https://github.com/Meemaw) | Matej Šnuderl | OpenSea |  | Ljubljana, Slovenia | 16408 |
 | 5 | [fentas](https://github.com/fentas) | Jan Guth | @lanisce | lanisce_si | Slovenia | 15853 |
-| 6 | [bl4ko](https://github.com/bl4ko) | Gasper Oblak | Ljubljana |  | Slovenia | 13573 |
-| 7 | [domengabrovsek](https://github.com/domengabrovsek) | Domen Gabrovšek |  | domengabrovsek | Ljubljana, Slovenia | 11949 |
-| 8 | [Putr](https://github.com/Putr) | Rok Andrée | @Institut-IP21 |  | Ljubljana, Slovenia | 11478 |
-| 9 | [AMGrobelnik](https://github.com/AMGrobelnik) | Adrian Mladenic Grobelnik | IJS |  | Ljubljana, Slovenia | 11306 |
-| 10 | [garbas](https://github.com/garbas) | Rok Garbas | Nix - Elm - Rust - Python | garbas | Ljubljana, Slovenia | 10718 |
+| 6 | [garbas](https://github.com/garbas) | Rok Garbas | Nix - Elm - Rust - Python | garbas | Ljubljana, Slovenia | 13825 |
+| 7 | [bl4ko](https://github.com/bl4ko) | Gasper Oblak | Ljubljana |  | Slovenia | 13573 |
+| 8 | [domengabrovsek](https://github.com/domengabrovsek) | Domen Gabrovšek |  | domengabrovsek | Ljubljana, Slovenia | 11949 |
+| 9 | [Putr](https://github.com/Putr) | Rok Andrée | @Institut-IP21 |  | Ljubljana, Slovenia | 11478 |
+| 10 | [AMGrobelnik](https://github.com/AMGrobelnik) | Adrian Mladenic Grobelnik | IJS |  | Ljubljana, Slovenia | 11306 |
 | 11 | [matija2209](https://github.com/matija2209) | Matija Žiberna | We Hate Copy Pasting |  | Slovenia | 10295 |
 | 12 | [tfourj](https://github.com/tfourj) | Taj Tkalec |  |  | Slovenia | 9996 |
 | 13 | [rockoo](https://github.com/rockoo) | Rok Nemet | Fantasyrock |  | Ljubljana, Slovenia | 9726 |

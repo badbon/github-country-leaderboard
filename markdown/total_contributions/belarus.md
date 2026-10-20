@@ -1,6 +1,6 @@
 # Total Contributions - Belarus
 
-Generated: 2026-10-20T08:20:58.902Z
+Generated: 2026-10-20T09:54:51.551Z
 
 Users: 10927
 
@@ -23,6 +23,6 @@ Users: 10927
 | 15 | [pavelpikta](https://github.com/pavelpikta) | Pavel Pikta | @epam @lean-delivery @jacred-fdb @lampac-nextgen |  | Grodno, Belarus | 5010 |
 | 16 | [burvelandrei](https://github.com/burvelandrei) | Burvel Andrei |  |  | Minsk | 5006 |
 | 17 | [dementorsss](https://github.com/dementorsss) | Dmitry |  |  | Minsk | 4928 |
-| 18 | [Frederlk](https://github.com/Frederlk) | Petrinich Sergey | UX MIND |  | Belarus/Minsk | 4821 |
-| 19 | [hotrush](https://github.com/hotrush) |  |  |  | Minsk, Belarus | 4799 |
-| 20 | [LeonidShatilo](https://github.com/LeonidShatilo) | Leonid Shatilo | EPAM Systems |  | Gomel, Belarus | 4563 |
+| 18 | [SergeyGalaxyOrsik](https://github.com/SergeyGalaxyOrsik) | Siarhei Orsik |  |  | Minsk | 4822 |
+| 19 | [Frederlk](https://github.com/Frederlk) | Petrinich Sergey | UX MIND |  | Belarus/Minsk | 4821 |
+| 20 | [hotrush](https://github.com/hotrush) |  |  |  | Minsk, Belarus | 4799 |

@@ -17,11 +17,11 @@ Indexed users: 3,097
 | 3 | [bobalazek](https://github.com/bobalazek) | Borut Balazek | Slovenia, Europe | 17,006 |
 | 4 | [Meemaw](https://github.com/Meemaw) | Matej Šnuderl | Ljubljana, Slovenia | 16,408 |
 | 5 | [fentas](https://github.com/fentas) | Jan Guth | Slovenia | 15,853 |
-| 6 | [bl4ko](https://github.com/bl4ko) | Gasper Oblak | Slovenia | 13,573 |
-| 7 | [domengabrovsek](https://github.com/domengabrovsek) | Domen Gabrovšek | Ljubljana, Slovenia | 11,949 |
-| 8 | [Putr](https://github.com/Putr) | Rok Andrée | Ljubljana, Slovenia | 11,478 |
-| 9 | [AMGrobelnik](https://github.com/AMGrobelnik) | Adrian Mladenic Grobelnik | Ljubljana, Slovenia | 11,306 |
-| 10 | [garbas](https://github.com/garbas) | Rok Garbas | Ljubljana, Slovenia | 10,718 |
+| 6 | [garbas](https://github.com/garbas) | Rok Garbas | Ljubljana, Slovenia | 13,825 |
+| 7 | [bl4ko](https://github.com/bl4ko) | Gasper Oblak | Slovenia | 13,573 |
+| 8 | [domengabrovsek](https://github.com/domengabrovsek) | Domen Gabrovšek | Ljubljana, Slovenia | 11,949 |
+| 9 | [Putr](https://github.com/Putr) | Rok Andrée | Ljubljana, Slovenia | 11,478 |
+| 10 | [AMGrobelnik](https://github.com/AMGrobelnik) | Adrian Mladenic Grobelnik | Ljubljana, Slovenia | 11,306 |
 | 11 | [matija2209](https://github.com/matija2209) | Matija Žiberna | Slovenia | 10,295 |
 | 12 | [tfourj](https://github.com/tfourj) | Taj Tkalec | Slovenia | 9,996 |
 | 13 | [rockoo](https://github.com/rockoo) | Rok Nemet | Ljubljana, Slovenia | 9,726 |
@@ -37,7 +37,7 @@ Indexed users: 3,097
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [garbas](https://github.com/garbas) | Rok Garbas | Ljubljana, Slovenia | 9,114 |
+| 1 | [garbas](https://github.com/garbas) | Rok Garbas | Ljubljana, Slovenia | 11,838 |
 | 2 | [itechdom](https://github.com/itechdom) | Osama Alghanmi | Ljubljana, Slovenia | 8,386 |
 | 3 | [igorpecovnik](https://github.com/igorpecovnik) | Igor | Ljubljana | 6,012 |
 | 4 | [MatejGomboc](https://github.com/MatejGomboc) | Matej Gomboc | Maribor, Slovenia | 5,747 |
@@ -79,8 +79,8 @@ Indexed users: 3,097
 | 15 | [titpetric](https://github.com/titpetric) | Tit Petric | Ljubljana, Slovenia | 261 |
 | 16 | [tomaz](https://github.com/tomaz) | tomaz | Slovenia | 251 |
 | 17 | [dorkamotorka](https://github.com/dorkamotorka) | Teodor Janez Podobnik | Ljubljana, Slovenia | 248 |
-| 18 | [jure](https://github.com/jure) | Jure Triglav | Ljubljana, Slovenia | 243 |
-| 19 | [garbas](https://github.com/garbas) | Rok Garbas | Ljubljana, Slovenia | 240 |
+| 18 | [garbas](https://github.com/garbas) | Rok Garbas | Ljubljana, Slovenia | 243 |
+| 19 | [jure](https://github.com/jure) | Jure Triglav | Ljubljana, Slovenia | 243 |
 | 20 | [buresdv](https://github.com/buresdv) | David Bureš | Maribor, Slovenia | 238 |
 
-Generated: 2026-10-20T01:42:15.137Z
+Generated: 2026-10-20T09:32:51.976Z
