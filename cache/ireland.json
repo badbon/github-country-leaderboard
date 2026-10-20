@@ -38180,20 +38180,8 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 154,
+    "publicContributions": 151,
     "createdAt": "2021-02-11T09:22:19Z"
-  },
-  {
-    "login": "nikolaygorb",
-    "name": "Nikolay Gorb",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/81734301?s=72&u=af686b9db40cb4ee28fedb598cbfd12766718db5&v=4",
-    "location": "Ireland, Dublin",
-    "company": "Intel",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 293,
-    "publicContributions": 31,
-    "createdAt": "2021-04-01T05:20:23Z"
   },
   {
     "login": "danDiamo",
@@ -38226,9 +38214,9 @@
     "location": "Dublin, Ireland",
     "company": "Student",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 6,
     "createdAt": "2021-06-22T04:57:11Z"
   },
   {
@@ -38299,8 +38287,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 8,
-    "publicContributions": 0,
+    "privateContributions": 9,
+    "publicContributions": 4,
     "createdAt": "2021-02-18T09:59:32Z"
   },
   {
@@ -38310,7 +38298,7 @@
     "location": "Dublin, Ireland",
     "company": "Amazon AWS",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
     "publicContributions": 11,
     "createdAt": "2021-01-12T19:58:44Z"
@@ -38360,7 +38348,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 259,
+    "publicContributions": 260,
     "createdAt": "2021-05-05T20:32:11Z"
   },
   {
@@ -38370,9 +38358,9 @@
     "location": "Dublin, Ireland",
     "company": "Trinity College Dublin",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 36,
+    "publicContributions": 51,
     "createdAt": "2021-02-16T17:35:28Z"
   },
   {
@@ -38384,7 +38372,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 10,
     "createdAt": "2021-03-29T14:26:33Z"
   },
   {
@@ -38396,7 +38384,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 40,
+    "publicContributions": 29,
     "createdAt": "2021-01-28T11:13:02Z"
   },
   {
@@ -38406,7 +38394,7 @@
     "location": "Ireland",
     "company": "Globalization Partners",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-05-20T18:36:56Z"
