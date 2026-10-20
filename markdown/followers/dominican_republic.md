@@ -1,8 +1,8 @@
 # Followers - Dominican Republic
 
-Generated: 2026-10-20T00:52:16.386Z
+Generated: 2026-10-20T02:13:55.018Z
 
-Users: 3298
+Users: 3297
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -16,13 +16,13 @@ Users: 3298
 | 8 | [Char0394](https://github.com/Char0394) | Charlin Agramonte | @CrossGeeks  | Chard003 | Dominican Republic  | 275 |
 | 9 | [DannyFeliz](https://github.com/DannyFeliz) | Danny Feliz |  | dannyfeliz08 | Santo Domingo, Dominican Republic | 263 |
 | 10 | [KevRojo](https://github.com/KevRojo) | Kevin Rojo | Dulus AI | kevrojox | Dominican Republic | 227 |
-| 11 | [rdelrosario](https://github.com/rdelrosario) | Rendy Del Rosario | CrossGeeks |  | Dominican Republic | 225 |
+| 11 | [rdelrosario](https://github.com/rdelrosario) | Rendy Del Rosario | CrossGeeks |  | Dominican Republic | 227 |
 | 12 | [Jadhielv](https://github.com/Jadhielv) | Jadhiel Vélez |  | JadhielV | Dominican Republic | 218 |
 | 13 | [crystalduran](https://github.com/crystalduran) | Crystal D |  |  | Santo Domingo, Dominican Republic | 194 |
 | 14 | [robertlluberes](https://github.com/robertlluberes) | Robert Lluberes |  | robertlluberes | Dominican Republic | 164 |
 | 15 | [wilburhimself](https://github.com/wilburhimself) | Wilbur Suero |  | wilburhimself | Santo Domingo, Dominican Republic | 156 |
-| 16 | [itsalb3rt](https://github.com/itsalb3rt) | Albert E. Hidalgo Taveras |  | alhidalgodev | Santiago,Dominican Republic | 154 |
-| 17 | [oldani](https://github.com/oldani) | Ordanis Sanchez |  |  | Dominican Republic | 154 |
-| 18 | [francisbrito](https://github.com/francisbrito) | Francis Brito | @paymentstack |  | Santo Domingo, Dominican Republic | 153 |
-| 19 | [eatskolnikov](https://github.com/eatskolnikov) | Enmanuel Toribio | @streamelopers | eatskolnikov | Dominican Republic | 149 |
+| 16 | [francisbrito](https://github.com/francisbrito) | Francis Brito | @govox |  | Santo Domingo, Dominican Republic | 155 |
+| 17 | [itsalb3rt](https://github.com/itsalb3rt) | Albert E. Hidalgo Taveras |  | alhidalgodev | Santiago,Dominican Republic | 154 |
+| 18 | [oldani](https://github.com/oldani) | Ordanis Sanchez |  |  | Dominican Republic | 154 |
+| 19 | [eatskolnikov](https://github.com/eatskolnikov) | Enmanuel Toribio | @streamelopers | eatskolnikov | Dominican Republic | 147 |
 | 20 | [RaymondCoplin](https://github.com/RaymondCoplin) | Raymond Coplin |  | raymondcoplin | Dominican Republic, Santo Domingo | 120 |

@@ -1,8 +1,8 @@
 # Total Contributions - Algeria
 
-Generated: 2026-10-20T00:34:30.062Z
+Generated: 2026-10-20T01:55:42.821Z
 
-Users: 5782
+Users: 5780
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -20,9 +20,9 @@ Users: 5782
 | 12 | [aimen08](https://github.com/aimen08) | Aymen Hamza | Tote&Carry | AimenMT2 | Algeria | 6072 |
 | 13 | [s77rt](https://github.com/s77rt) | Abdelhafidh Belalia |  |  | Algeria | 5978 |
 | 14 | [mohammedMsgm](https://github.com/mohammedMsgm) | MOHAMMED MESSEGUEM | Codefox.ai |  | Algiers, Algeria | 5232 |
-| 15 | [AMessaoudene](https://github.com/AMessaoudene) | Kweryzm | @GDGAlgiers |  | Algiers | 5180 |
-| 16 | [Hamza-HM](https://github.com/Hamza-HM) | Hamza Hed Messaoud | Graphicode |  | Algeria | 5049 |
-| 17 | [wallydz](https://github.com/wallydz) |  | UZ4 Network |  | Algeria | 4889 |
-| 18 | [maamriaabderahmene](https://github.com/maamriaabderahmene) | Maamria Abderahmene | National higher school of advanced technologies |  | algiers | 4818 |
+| 15 | [Hamza-HM](https://github.com/Hamza-HM) | Hamza Hed Messaoud | Graphicode |  | Algeria | 5049 |
+| 16 | [wallydz](https://github.com/wallydz) |  | UZ4 Network |  | Algeria | 4889 |
+| 17 | [maamriaabderahmene](https://github.com/maamriaabderahmene) | Maamria Abderahmene | National higher school of advanced technologies |  | algiers | 4818 |
+| 18 | [AMessaoudene](https://github.com/AMessaoudene) | Kweryzm | @GDGAlgiers |  | Algiers | 4809 |
 | 19 | [mahmoud-alragabi](https://github.com/mahmoud-alragabi) | Mahmoud Y. Al-Ragabi |  |  | Algeria | 4654 |
 | 20 | [useCallback](https://github.com/useCallback) | Mohamed El Mehdi Khalfoun |  |  | Algeria | 4636 |

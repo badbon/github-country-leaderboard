@@ -15,7 +15,7 @@ Indexed users: 132
 | 1 | [Maiz27](https://github.com/Maiz27) | Maged Faiz | Juba, South Sudan | 10,648 |
 | 2 | [davelee001](https://github.com/davelee001) | David Leek | South Sudan | 5,997 |
 | 3 | [jameswol-ai](https://github.com/jameswol-ai) | James Wol | Juba, South Sudan | 5,206 |
-| 4 | [riek27](https://github.com/riek27) | Riek Gatluak Geka Reat | Juba, South sudan | 3,194 |
+| 4 | [riek27](https://github.com/riek27) | Riek Gatluak Geka Reat | Juba, South sudan | 3,179 |
 | 5 | [puoch1of1](https://github.com/puoch1of1) | Puoch Mabor Makuei  | South Sudan | 1,005 |
 | 6 | [felixuxx](https://github.com/felixuxx) | ... | Juba, South Sudan | 811 |
 | 7 | [Konson22](https://github.com/Konson22) | Kon Akech | South Sudan | 776 |
@@ -39,7 +39,7 @@ Indexed users: 132
 |---:|---|---|---|---:|
 | 1 | [davelee001](https://github.com/davelee001) | David Leek | South Sudan | 5,219 |
 | 2 | [jameswol-ai](https://github.com/jameswol-ai) | James Wol | Juba, South Sudan | 5,206 |
-| 3 | [riek27](https://github.com/riek27) | Riek Gatluak Geka Reat | Juba, South sudan | 3,194 |
+| 3 | [riek27](https://github.com/riek27) | Riek Gatluak Geka Reat | Juba, South sudan | 3,179 |
 | 4 | [Maiz27](https://github.com/Maiz27) | Maged Faiz | Juba, South Sudan | 1,098 |
 | 5 | [puoch1of1](https://github.com/puoch1of1) | Puoch Mabor Makuei  | South Sudan | 581 |
 | 6 | [JohnMarit](https://github.com/JohnMarit) | John Marit | Juba-South Sudan | 516 |
@@ -55,7 +55,7 @@ Indexed users: 132
 | 16 | [felixuxx](https://github.com/felixuxx) | ... | Juba, South Sudan | 268 |
 | 17 | [Wai-Mike](https://github.com/Wai-Mike) | Wai Michael Kat | South Sudan | 250 |
 | 18 | [Konson22](https://github.com/Konson22) | Kon Akech | South Sudan | 243 |
-| 19 | [joseph-akaro](https://github.com/joseph-akaro) | Joseph Akaro | Juba | 210 |
+| 19 | [joseph-akaro](https://github.com/joseph-akaro) | Joseph Akaro | Juba | 208 |
 | 20 | [JackPhilpott](https://github.com/JackPhilpott) | Jack Philpott | Juba, South Sudan | 182 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 132
 | 19 | [Amalsouthsudan23](https://github.com/Amalsouthsudan23) | AMAL South Sudan | South Sudan | 15 |
 | 20 | [Codetym](https://github.com/Codetym) | Nelson Mandela D.M.J | Juba, South Sudan  | 14 |
 
-Generated: 2026-10-20T00:19:41.513Z
+Generated: 2026-10-20T01:42:50.972Z

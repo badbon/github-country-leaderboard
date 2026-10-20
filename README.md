@@ -15,7 +15,7 @@ Top GitHub users by country, ranked from public GitHub profile and contribution 
 | Country | Indexed Users | Public | Total | Followers |
 |---|---:|---|---|---|
 | [North Korea](markdown/countries/north_korea.md) | 185 | [Public](markdown/public_contributions/north_korea.md) | [Total](markdown/total_contributions/north_korea.md) | [Followers](markdown/followers/north_korea.md) |
-| [Belarus](markdown/countries/belarus.md) | 10,929 | [Public](markdown/public_contributions/belarus.md) | [Total](markdown/total_contributions/belarus.md) | [Followers](markdown/followers/belarus.md) |
+| [Belarus](markdown/countries/belarus.md) | 10,928 | [Public](markdown/public_contributions/belarus.md) | [Total](markdown/total_contributions/belarus.md) | [Followers](markdown/followers/belarus.md) |
 | [Costa Rica](markdown/countries/costa_rica.md) | 5,625 | [Public](markdown/public_contributions/costa_rica.md) | [Total](markdown/total_contributions/costa_rica.md) | [Followers](markdown/followers/costa_rica.md) |
 | [Senegal](markdown/countries/senegal.md) | 1,355 | [Public](markdown/public_contributions/senegal.md) | [Total](markdown/total_contributions/senegal.md) | [Followers](markdown/followers/senegal.md) |
 | [Dominica](markdown/countries/dominica.md) | 18 | [Public](markdown/public_contributions/dominica.md) | [Total](markdown/total_contributions/dominica.md) | [Followers](markdown/followers/dominica.md) |
@@ -26,4 +26,4 @@ The collector searches GitHub users by self-reported profile location, keeps use
 
 Locations are not verified. The raw profile location is preserved, and country assignment uses deterministic country, alias, city, and exact phrase rules.
 
-Generated: 2026-10-20T01:40:15.350Z
+Generated: 2026-10-20T02:16:34.301Z

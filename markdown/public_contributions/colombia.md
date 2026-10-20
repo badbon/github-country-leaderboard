@@ -1,8 +1,8 @@
 # Public Contributions - Colombia
 
-Generated: 2026-10-20T00:46:54.759Z
+Generated: 2026-10-20T02:09:54.126Z
 
-Users: 29153
+Users: 29152
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|

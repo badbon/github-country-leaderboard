@@ -27,7 +27,7 @@ Indexed users: 2,037
 | 13 | [mwakatumbula](https://github.com/mwakatumbula) | Francis Mwakatumbula | Dar es salaam,Tanzania | 9,814 |
 | 14 | [fredygerman](https://github.com/fredygerman) | Fredy Mgimba | Tanzania | 9,059 |
 | 15 | [fmwasekaga](https://github.com/fmwasekaga) | Fredrick Lusako Mwasekaga | Tanzania | 8,875 |
-| 16 | [islandkid-20](https://github.com/islandkid-20) | James Mashaka | Dar Es Salaam,Tanzania | 8,739 |
+| 16 | [islandkid-20](https://github.com/islandkid-20) | James Mashaka | Dar Es Salaam,Tanzania | 8,848 |
 | 17 | [victorjudysen](https://github.com/victorjudysen) | Victor Kweka | Dodoma, Tanzania | 8,111 |
 | 18 | [elishagerson](https://github.com/elishagerson) | Elisha Gerson | Mbeya, Tanzania | 7,979 |
 | 19 | [Bulalu](https://github.com/Bulalu) |  | Dar-es-Salaam,Tanzania | 7,927 |
@@ -48,8 +48,8 @@ Indexed users: 2,037
 | 9 | [ALTUM-02](https://github.com/ALTUM-02) | Altum02 | Dodoma - Tanzania | 2,851 |
 | 10 | [klaus-gudy](https://github.com/klaus-gudy) | Goodluck Madadi | Tanzania | 2,416 |
 | 11 | [zuck30](https://github.com/zuck30) | Shadrackovsky | Tanzania | 2,351 |
-| 12 | [wizystudios](https://github.com/wizystudios) | khalifa Nadhir | tanzania | 1,975 |
-| 13 | [Heracraft](https://github.com/Heracraft) | Nehemia Kaaya | Tanzania | 1,826 |
+| 12 | [Heracraft](https://github.com/Heracraft) | Nehemia Kaaya | Tanzania | 2,180 |
+| 13 | [wizystudios](https://github.com/wizystudios) | khalifa Nadhir | tanzania | 1,975 |
 | 14 | [elishagerson](https://github.com/elishagerson) | Elisha Gerson | Mbeya, Tanzania | 1,727 |
 | 15 | [Gudi650](https://github.com/Gudi650) | Godluck Emmanuel Msangi | Tanzania | 1,551 |
 | 16 | [fmpiza](https://github.com/fmpiza) | fridolinmpiza, Msc. | Tanzania | 1,544 |
@@ -83,4 +83,4 @@ Indexed users: 2,037
 | 19 | [3nock](https://github.com/3nock) | Enock | Dar es Salaam, Tanzania | 187 |
 | 20 | [Mrhanstz](https://github.com/Mrhanstz) | HANSTZ | Africa Dodoma | 179 |
 
-Generated: 2026-10-20T00:22:52.316Z
+Generated: 2026-10-20T01:46:20.134Z

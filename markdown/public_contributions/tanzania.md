@@ -1,6 +1,6 @@
 # Public Contributions - Tanzania
 
-Generated: 2026-10-20T00:22:52.316Z
+Generated: 2026-10-20T01:46:20.134Z
 
 Users: 2037
 
@@ -17,8 +17,8 @@ Users: 2037
 | 9 | [ALTUM-02](https://github.com/ALTUM-02) | Altum02 |  |  | Dodoma - Tanzania | 2851 |
 | 10 | [klaus-gudy](https://github.com/klaus-gudy) | Goodluck Madadi | Quadrat Global Software House | mghalatia | Tanzania | 2416 |
 | 11 | [zuck30](https://github.com/zuck30) | Shadrackovsky | AGS |  | Tanzania | 2351 |
-| 12 | [wizystudios](https://github.com/wizystudios) | khalifa Nadhir | wizystudio |  | tanzania | 1975 |
-| 13 | [Heracraft](https://github.com/Heracraft) | Nehemia Kaaya |  |  | Tanzania | 1826 |
+| 12 | [Heracraft](https://github.com/Heracraft) | Nehemia Kaaya |  |  | Tanzania | 2180 |
+| 13 | [wizystudios](https://github.com/wizystudios) | khalifa Nadhir | wizystudio |  | tanzania | 1975 |
 | 14 | [elishagerson](https://github.com/elishagerson) | Elisha Gerson |  |  | Mbeya, Tanzania | 1727 |
 | 15 | [Gudi650](https://github.com/Gudi650) | Godluck Emmanuel Msangi |  |  | Tanzania | 1551 |
 | 16 | [fmpiza](https://github.com/fmpiza) | fridolinmpiza, Msc. |  |  | Tanzania | 1544 |

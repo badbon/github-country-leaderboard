@@ -1,6 +1,6 @@
 # Total Contributions - Andorra
 
-Generated: 2026-10-20T00:35:07.455Z
+Generated: 2026-10-20T01:56:27.400Z
 
 Users: 215
 
@@ -23,6 +23,6 @@ Users: 215
 | 15 | [dvdjmnz](https://github.com/dvdjmnz) | David Jiménez |  |  | Andorra | 3715 |
 | 16 | [sgirones](https://github.com/sgirones) | Salvador Gironès Gil |  |  | Andorra | 3505 |
 | 17 | [ColColty](https://github.com/ColColty) | Tomàs Forné Cappeau | @surge-ai  |  | Andorra | 3469 |
-| 18 | [FaZeTitans](https://github.com/FaZeTitans) | Axel DA SILVA | Supscale | fazetitans | Andorra | 3124 |
-| 19 | [GRKdev](https://github.com/GRKdev) | G.R.K. | IAND |  | Andorra | 3120 |
+| 18 | [GRKdev](https://github.com/GRKdev) | G.R.K. | IAND |  | Andorra | 3127 |
+| 19 | [FaZeTitans](https://github.com/FaZeTitans) | Axel DA SILVA | Supscale | fazetitans | Andorra | 3124 |
 | 20 | [guillemfrancisco](https://github.com/guillemfrancisco) | Guillem Francisco | @Hulahoop-media |  | Andorra | 2894 |

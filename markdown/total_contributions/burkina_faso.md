@@ -1,6 +1,6 @@
 # Total Contributions - Burkina Faso
 
-Generated: 2026-10-20T00:43:51.915Z
+Generated: 2026-10-20T02:05:08.627Z
 
 Users: 486
 
@@ -10,7 +10,7 @@ Users: 486
 | 2 | [tky0065](https://github.com/tky0065) | Enokdev | Enokdev |  | Burkina Faso | 6616 |
 | 3 | [kulturman](https://github.com/kulturman) | Arnaud Bakyono  |  |  | Ouagadougou | 4506 |
 | 4 | [Rafik226](https://github.com/Rafik226) | Oumar Abdoul Rafik Sawadogo |  | rafikcodeur | Burkina Faso, Kadiogo, Ouagadougou | 4457 |
-| 5 | [sokevinjonas](https://github.com/sokevinjonas) | SO Kevin Jonas Gningnabe | KGSLAB |  | BURKINA FASO | 4003 |
+| 5 | [sokevinjonas](https://github.com/sokevinjonas) | SO Kevin Jonas Gningnabe | KGSLAB |  | BURKINA FASO | 3999 |
 | 6 | [Y4NN777](https://github.com/Y4NN777) | Ragnang-Newende Yanis Axel DABO | @Y7-Labs  |  | Burkina Faso | 3992 |
 | 7 | [nanaelie](https://github.com/nanaelie) | Nana Elie  |  | pyfs_dev | Burkina Faso / Bobo Dioulasso | 3827 |
 | 8 | [spwoodcock](https://github.com/spwoodcock) | Sam | Tech Lead @hotosm |  | Ouagadougou, Burkina Faso | 3623 |
@@ -23,6 +23,6 @@ Users: 486
 | 15 | [NICE-DEV226](https://github.com/NICE-DEV226) | Azaël Wend-panga SAWADOGO  |  | NiceDEVbf | Burkina Faso | 1613 |
 | 16 | [Moussier24](https://github.com/Moussier24) | Moussier Cissé | Le Kimbi Créatif | leKimbiCreatif | Burkina Faso | 1581 |
 | 17 | [BoukaryDiallo](https://github.com/BoukaryDiallo) | Boukary DIALLO | TICANALYSE |  | Ouagadougou, Burkina Faso | 1564 |
-| 18 | [donnikurosaki](https://github.com/donnikurosaki) | DARA Dieudonné Goumba | @BIT-Solutions-Impact  |  | Burkina Faso, Ouagadougou | 1434 |
+| 18 | [donnikurosaki](https://github.com/donnikurosaki) | DARA Dieudonné Goumba | @BIT-Solutions-Impact  |  | Burkina Faso, Ouagadougou | 1505 |
 | 19 | [adamako](https://github.com/adamako) | Adama KO | Declic |  | Burkina Faso | 1390 |
 | 20 | [rikudosama](https://github.com/rikudosama) | Lengam jean bonaventure | Taariam technologie | rikudosama | Ouagadougou, Burkina Faso | 1241 |
