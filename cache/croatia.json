@@ -38724,18 +38724,6 @@
     "createdAt": "2016-11-22T14:36:16Z"
   },
   {
-    "login": "bcorkovic",
-    "name": "Boris Ćorković",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/17175010?s=72&v=4",
-    "location": "Zagreb, Croatia",
-    "company": "Aircash d.o.o.",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2016-02-11T09:15:25Z"
-  },
-  {
     "login": "iivic",
     "name": "Ivan Ivic",
     "avatarUrl": "https://avatars.githubusercontent.com/u/16685686?s=72&v=4",
@@ -38744,7 +38732,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2016-01-13T13:41:36Z"
   },
   {
@@ -38803,7 +38791,7 @@
     "company": "Faculty of Electrical Engineering and Computing, Zagreb",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 656,
+    "privateContributions": 660,
     "publicContributions": 0,
     "createdAt": "2016-11-27T14:56:06Z"
   },
@@ -38838,9 +38826,9 @@
     "location": "Hrvatska",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 2,
     "createdAt": "2016-10-24T05:50:49Z"
   },
   {
@@ -38862,9 +38850,9 @@
     "location": "Zagreb, CRO",
     "company": "@ChainSafe ",
     "twitterUsername": "",
-    "followers": 30,
-    "privateContributions": 986,
-    "publicContributions": 139,
+    "followers": 31,
+    "privateContributions": 953,
+    "publicContributions": 131,
     "createdAt": "2016-10-18T17:41:03Z"
   },
   {
@@ -38874,21 +38862,21 @@
     "location": "Zagreb",
     "company": "",
     "twitterUsername": "orginux",
-    "followers": 23,
-    "privateContributions": 75,
+    "followers": 25,
+    "privateContributions": 255,
     "publicContributions": 49,
     "createdAt": "2016-11-30T06:27:23Z"
   },
   {
     "login": "kop7",
     "name": "Matija Kop",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/18327186?s=72&u=9bda07321247d7290e771dfd1d232889d0d59e45&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/18327186?s=72&u=4b77eb63f7905a56d35e4adb19612f9ddbe9ff33&v=4",
     "location": "Zagreb",
     "company": "@SimpleCode",
     "twitterUsername": "",
     "followers": 17,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 35,
     "createdAt": "2016-04-07T10:40:44Z"
   },
   {
@@ -38899,7 +38887,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 14,
-    "privateContributions": 3414,
+    "privateContributions": 3695,
     "publicContributions": 35,
     "createdAt": "2016-09-19T16:13:55Z"
   },
@@ -38922,8 +38910,8 @@
     "location": "Zagreb",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 189,
+    "followers": 14,
+    "privateContributions": 258,
     "publicContributions": 0,
     "createdAt": "2016-09-21T08:36:41Z"
   },
@@ -38936,7 +38924,7 @@
     "twitterUsername": "",
     "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 3,
     "createdAt": "2016-07-09T22:41:55Z"
   },
   {

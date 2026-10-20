@@ -5077,14 +5077,14 @@
   },
   {
     "login": "TheJeff",
-    "name": "A Literal Koala",
+    "name": "Jeff",
     "avatarUrl": "https://avatars.githubusercontent.com/u/9341237?s=72&u=3a16ec300983047bd1e7eb95cc3f3cb27dd819a0&v=4",
     "location": "Antarctica",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 111,
-    "publicContributions": 7,
+    "privateContributions": 114,
+    "publicContributions": 9,
     "createdAt": "2014-10-21T19:07:28Z"
   },
   {
@@ -5094,9 +5094,9 @@
     "location": "McMurdo Station, Antarctica",
     "company": "",
     "twitterUsername": "washi_dev",
-    "followers": 617,
+    "followers": 619,
     "privateContributions": 0,
-    "publicContributions": 274,
+    "publicContributions": 267,
     "createdAt": "2013-02-16T20:38:25Z"
   },
   {
@@ -5107,7 +5107,7 @@
     "company": "SYSTEM_SERVICE_EXCEPTION",
     "twitterUsername": "ifarbod",
     "followers": 133,
-    "privateContributions": 4771,
+    "privateContributions": 4663,
     "publicContributions": 203,
     "createdAt": "2013-04-17T13:36:43Z"
   },
@@ -5143,7 +5143,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 29,
-    "privateContributions": 5101,
+    "privateContributions": 5109,
     "publicContributions": 1,
     "createdAt": "2013-01-21T16:06:45Z"
   },
@@ -5178,7 +5178,7 @@
     "location": "Antarctica",
     "company": "@sygmax ",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 6,
     "createdAt": "2013-02-11T00:22:55Z"
@@ -5228,7 +5228,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 49,
+    "publicContributions": 51,
     "createdAt": "2012-09-15T16:19:07Z"
   },
   {

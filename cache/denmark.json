@@ -38539,8 +38539,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 3,
-    "publicContributions": 1,
+    "privateContributions": 2,
+    "publicContributions": 7,
     "createdAt": "2021-03-10T16:06:51Z"
   },
   {
@@ -38551,7 +38551,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 173,
+    "privateContributions": 217,
     "publicContributions": 0,
     "createdAt": "2021-09-28T18:26:38Z"
   },
@@ -38562,9 +38562,9 @@
     "location": "Copenhagen",
     "company": "Danish Endurance",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 1514,
-    "publicContributions": 63,
+    "followers": 3,
+    "privateContributions": 2032,
+    "publicContributions": 57,
     "createdAt": "2021-06-02T23:17:07Z"
   },
   {
@@ -38576,7 +38576,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 4,
-    "publicContributions": 134,
+    "publicContributions": 126,
     "createdAt": "2021-05-19T13:27:09Z"
   },
   {
@@ -38623,7 +38623,7 @@
     "company": "Spirii ApS",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 173,
+    "privateContributions": 442,
     "publicContributions": 0,
     "createdAt": "2021-07-06T07:52:35Z"
   },
@@ -38648,20 +38648,8 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 36,
+    "publicContributions": 51,
     "createdAt": "2021-03-02T14:36:19Z"
-  },
-  {
-    "login": "HUIYULEO",
-    "name": "Huiyu",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/90387672?s=72&u=56e5f5e45a89ce51b14e2c9cd59f7d10b5fdcb6e&v=4",
-    "location": "Copenhagen\t",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 3,
-    "publicContributions": 22,
-    "createdAt": "2021-09-09T10:11:25Z"
   },
   {
     "login": "Alematiale",
@@ -38670,7 +38658,7 @@
     "location": "Copenhagen (DK)",
     "company": "Aalborg University",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-05-18T11:05:55Z"
@@ -38683,7 +38671,7 @@
     "company": "Septima",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 739,
+    "privateContributions": 858,
     "publicContributions": 0,
     "createdAt": "2021-01-18T11:22:55Z"
   },
@@ -38708,7 +38696,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 141,
+    "publicContributions": 109,
     "createdAt": "2021-09-27T09:55:12Z"
   },
   {
@@ -38718,8 +38706,8 @@
     "location": "Copenhagen, DK",
     "company": "",
     "twitterUsername": "zowdk",
-    "followers": 3,
-    "privateContributions": 0,
+    "followers": 5,
+    "privateContributions": 1,
     "publicContributions": 5,
     "createdAt": "2021-03-14T21:33:12Z"
   },
@@ -38755,7 +38743,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 1243,
+    "privateContributions": 1338,
     "publicContributions": 39,
     "createdAt": "2021-01-31T20:37:29Z"
   },
@@ -38767,7 +38755,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 2,
+    "privateContributions": 3,
     "publicContributions": 0,
     "createdAt": "2021-04-27T17:29:37Z"
   },

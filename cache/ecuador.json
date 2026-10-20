@@ -38659,21 +38659,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 79,
+    "privateContributions": 54,
     "publicContributions": 4,
     "createdAt": "2018-07-16T21:38:23Z"
-  },
-  {
-    "login": "dmzdev7",
-    "name": "David Martínez",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/44735774?s=72&v=4",
-    "location": "Quito, Ecuador",
-    "company": "Dmzdev by David Martínez",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 13,
-    "publicContributions": 2,
-    "createdAt": "2018-11-03T22:11:57Z"
   },
   {
     "login": "YakryR",
@@ -38682,7 +38670,7 @@
     "location": "Quito, Ecuador",
     "company": "Matemática en Salud",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-02-13T04:04:49Z"
@@ -38706,9 +38694,9 @@
     "location": "Quito, Ecuador",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 939,
+    "publicContributions": 965,
     "createdAt": "2018-04-19T18:24:10Z"
   },
   {
@@ -38719,7 +38707,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 235,
+    "privateContributions": 191,
     "publicContributions": 0,
     "createdAt": "2018-09-19T09:03:46Z"
   },
@@ -38730,7 +38718,7 @@
     "location": "Ecuador",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-04-23T11:03:25Z"
@@ -38804,7 +38792,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 7,
     "createdAt": "2018-06-29T23:04:16Z"
   },
   {
@@ -38860,11 +38848,11 @@
     "name": "Augusto Mendoza",
     "avatarUrl": "https://avatars.githubusercontent.com/u/44818209?s=72&u=9ae3ccd6af613d5651f659cff12e0b0599304451&v=4",
     "location": "Ecuador",
-    "company": "",
+    "company": "Sofka",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 2,
     "createdAt": "2018-11-06T20:01:21Z"
   },
   {
