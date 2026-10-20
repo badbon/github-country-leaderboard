@@ -38372,7 +38372,7 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 341,
-    "publicContributions": 42,
+    "publicContributions": 32,
     "createdAt": "2023-08-19T13:16:31Z"
   },
   {
@@ -38383,8 +38383,8 @@
     "company": "FCUP",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 280,
-    "publicContributions": 265,
+    "privateContributions": 295,
+    "publicContributions": 240,
     "createdAt": "2023-12-14T22:33:02Z"
   },
   {
@@ -38394,9 +38394,9 @@
     "location": "Portugal",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 201,
-    "publicContributions": 454,
+    "followers": 11,
+    "privateContributions": 186,
+    "publicContributions": 398,
     "createdAt": "2023-07-10T11:29:13Z"
   },
   {
@@ -38407,8 +38407,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 112,
-    "publicContributions": 1,
+    "privateContributions": 102,
+    "publicContributions": 0,
     "createdAt": "2023-09-13T08:18:28Z"
   },
   {
@@ -38420,7 +38420,7 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 7,
     "createdAt": "2023-07-08T16:31:00Z"
   },
   {
@@ -38432,7 +38432,7 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 179,
+    "publicContributions": 149,
     "createdAt": "2023-11-21T14:28:29Z"
   },
   {
@@ -38440,23 +38440,23 @@
     "name": "Dinis Azevedo",
     "avatarUrl": "https://avatars.githubusercontent.com/u/147397892?s=72&u=51618398b2b5dcb2632c60ba22d5138c59c0162a&v=4",
     "location": "Santo Tirso, Portugal",
-    "company": "Escola Profissional da OFICINA",
+    "company": " Universidade Politécnica do Cávado e do Ave (UPCA)",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 11,
     "privateContributions": 1,
-    "publicContributions": 295,
+    "publicContributions": 280,
     "createdAt": "2023-10-09T11:21:17Z"
   },
   {
     "login": "Miguyy",
     "name": "Miguel Machado",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/145289060?s=72&u=d4769d878500a82e60638c19dd1d7e334c60c73c&v=4",
-    "location": "Portugal",
-    "company": "ESMAD @ TSIW",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/145289060?s=72&u=296690ec76211daf5d0895a3bef582bae9125e80&v=4",
+    "location": "Vila Nova de Gaia, Portugal",
+    "company": "LTDW @ FMAD",
     "twitterUsername": "m1guyy",
-    "followers": 10,
+    "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 606,
+    "publicContributions": 546,
     "createdAt": "2023-09-17T18:32:14Z"
   },
   {
@@ -38466,45 +38466,21 @@
     "location": "Lisbon, Portugal",
     "company": "Instituto Superior Técnico - ULisbon",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 7,
     "privateContributions": 3,
-    "publicContributions": 202,
+    "publicContributions": 218,
     "createdAt": "2023-09-20T11:16:28Z"
   },
   {
-    "login": "FlowDosNit3s",
-    "name": "Diogo Costa",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/153846834?s=72&u=c362a9859444fa8c85b5e3bb8c79ccc30f3827db&v=4",
-    "location": "Portugal",
-    "company": "ESTG -IPP",
-    "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 310,
-    "publicContributions": 86,
-    "createdAt": "2023-12-14T16:03:27Z"
-  },
-  {
-    "login": "tfdmendes",
-    "name": "Tiago Mendes",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/149076601?s=72&u=e7005428a1834425a4914e755667039ef72e9a42&v=4",
-    "location": "Viseu, Portugal",
-    "company": "Universidade de Aveiro",
-    "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 214,
-    "publicContributions": 183,
-    "createdAt": "2023-10-26T12:54:32Z"
-  },
-  {
     "login": "GuilhermeDuarteB",
-    "name": "Guilherme Branco",
+    "name": "Guilherme Duarte de Alcantara Branco",
     "avatarUrl": "https://avatars.githubusercontent.com/u/144622117?s=72&u=2b12d20d0f26bbc85fe46bd6158ed583e6534c13&v=4",
     "location": "Portugal",
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 17,
-    "publicContributions": 96,
+    "privateContributions": 53,
+    "publicContributions": 126,
     "createdAt": "2023-09-10T18:29:30Z"
   },
   {
@@ -38514,9 +38490,9 @@
     "location": "Portugal",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 241,
+    "publicContributions": 243,
     "createdAt": "2023-09-07T12:46:41Z"
   },
   {
@@ -38526,9 +38502,9 @@
     "location": "Porto, Portugal",
     "company": "University of Porto",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 4,
     "createdAt": "2023-07-09T00:26:44Z"
   },
   {
@@ -38558,13 +38534,13 @@
   {
     "login": "Compl3x7",
     "name": "Alex",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/145441559?s=72&u=b60f83d5060d8dcbc54f170c5ad94701c7e48e48&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/145441559?s=72&u=82ee6967dd6a9c236baeb9bae5e4a64e7539126e&v=4",
     "location": "Portugal",
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 89,
-    "publicContributions": 4,
+    "privateContributions": 61,
+    "publicContributions": 10,
     "createdAt": "2023-09-19T09:02:21Z"
   },
   {
@@ -38586,7 +38562,7 @@
     "location": "Portugal",
     "company": "Ciellos",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 10,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-07-20T13:06:46Z"

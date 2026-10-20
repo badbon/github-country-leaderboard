@@ -38408,7 +38408,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 6,
     "createdAt": "2021-03-23T04:45:52Z"
   },
   {
@@ -38467,7 +38467,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 28,
+    "privateContributions": 41,
     "publicContributions": 0,
     "createdAt": "2021-06-06T20:29:16Z"
   },
@@ -38503,7 +38503,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 278,
+    "privateContributions": 248,
     "publicContributions": 39,
     "createdAt": "2021-07-13T04:02:17Z"
   },
@@ -38516,7 +38516,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 0,
     "createdAt": "2021-02-09T05:05:32Z"
   },
   {
@@ -38528,7 +38528,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 3,
     "createdAt": "2021-05-31T02:27:00Z"
   },
   {
@@ -38540,7 +38540,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 3,
     "createdAt": "2021-04-18T09:15:04Z"
   },
   {
@@ -38568,18 +38568,6 @@
     "createdAt": "2021-07-24T22:08:33Z"
   },
   {
-    "login": "Abstrategic",
-    "name": "Jose Luis Sanchez",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/93826744?s=72&u=d0ca060e2b6114f75a3ec121d6ff93de24b781ef&v=4",
-    "location": "Riyadh - Madrid - Stockholm",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2021-11-06T13:06:03Z"
-  },
-  {
     "login": "mohammedadelsheamy",
     "name": "Mohammed ElSheamy",
     "avatarUrl": "https://avatars.githubusercontent.com/u/92108233?s=72&u=8935bf2e979e47fa6c077a6a651136444f257c5f&v=4",
@@ -38588,7 +38576,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 9,
     "createdAt": "2021-10-07T15:17:39Z"
   },
   {

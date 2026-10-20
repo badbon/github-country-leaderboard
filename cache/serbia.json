@@ -38599,8 +38599,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 13,
-    "publicContributions": 466,
+    "privateContributions": 57,
+    "publicContributions": 0,
     "createdAt": "2020-10-11T18:28:18Z"
   },
   {
@@ -38612,7 +38612,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 1,
     "createdAt": "2020-12-25T07:55:32Z"
   },
   {
@@ -38647,7 +38647,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 186,
+    "privateContributions": 192,
     "publicContributions": 26,
     "createdAt": "2020-03-09T13:14:07Z"
   },
@@ -38670,22 +38670,10 @@
     "location": "Serbia, Belgrade",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-06-13T09:59:31Z"
-  },
-  {
-    "login": "DarkoJB",
-    "name": "Darko Božić",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/75065962?s=72&u=881317739fe57e408bd31e6d8d30c6c681b74d94&v=4",
-    "location": "Serbia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2020-11-26T08:11:30Z"
   },
   {
     "login": "srdjan1210",
@@ -38695,7 +38683,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 14,
+    "privateContributions": 10,
     "publicContributions": 0,
     "createdAt": "2020-01-20T00:46:24Z"
   },
@@ -38719,7 +38707,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 874,
+    "privateContributions": 888,
     "publicContributions": 34,
     "createdAt": "2020-04-13T00:55:09Z"
   },
@@ -38743,7 +38731,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 127,
+    "privateContributions": 107,
     "publicContributions": 52,
     "createdAt": "2020-06-02T03:04:36Z"
   },
@@ -38779,7 +38767,7 @@
     "company": "@AwaitQuality",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 13,
+    "privateContributions": 72,
     "publicContributions": 48,
     "createdAt": "2020-05-01T11:53:56Z"
   },
@@ -38792,7 +38780,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 5,
     "createdAt": "2020-02-28T16:26:59Z"
   },
   {

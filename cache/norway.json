@@ -38720,7 +38720,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2021-03-15T16:39:49Z"
   },
   {
@@ -38742,7 +38742,7 @@
     "location": "Aalesund, Norway",
     "company": "Zenmainc",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-03-10T09:57:58Z"
@@ -38779,8 +38779,8 @@
     "company": "Nordic USV",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 6870,
-    "publicContributions": 20,
+    "privateContributions": 7927,
+    "publicContributions": 6,
     "createdAt": "2021-09-21T13:22:35Z"
   },
   {
@@ -38833,12 +38833,12 @@
   },
   {
     "login": "ttpdoan",
-    "name": "Thanh P. Doan",
+    "name": "Thanh Doan",
     "avatarUrl": "https://avatars.githubusercontent.com/u/96129954?s=72&u=f60a5f6a59bfafd5f83ae9ccd3256541058d930a&v=4",
-    "location": "Trondheim, Norway",
+    "location": "Oslo, Norway",
     "company": "",
-    "twitterUsername": "ttpdoan",
-    "followers": 1,
+    "twitterUsername": "",
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-12-14T14:50:12Z"
@@ -38900,7 +38900,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 19,
     "createdAt": "2021-05-25T18:42:46Z"
   },
   {
@@ -38911,8 +38911,8 @@
     "company": "Android Developer @ DNB",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 433,
-    "publicContributions": 151,
+    "privateContributions": 588,
+    "publicContributions": 161,
     "createdAt": "2021-06-02T09:45:56Z"
   },
   {
@@ -38920,11 +38920,11 @@
     "name": "Loke Strøm",
     "avatarUrl": "https://avatars.githubusercontent.com/u/93091426?s=72&v=4",
     "location": "Norway",
-    "company": "",
+    "company": "Orbit NTNU",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 108,
+    "privateContributions": 2,
+    "publicContributions": 138,
     "createdAt": "2021-10-24T16:36:04Z"
   },
   {
