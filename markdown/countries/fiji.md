@@ -13,7 +13,7 @@ Indexed users: 325
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [SMani0547](https://github.com/SMani0547) | Shiva Mani Goundar | Nadi, Fiji | 3,020 |
-| 2 | [Shoneel](https://github.com/Shoneel) |  | Fiji, Suva  | 1,555 |
+| 2 | [Shoneel](https://github.com/Shoneel) |  | Fiji, Suva  | 1,588 |
 | 3 | [Amdeo](https://github.com/Amdeo) | Cooper | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1,456 |
 | 4 | [felix-davui-679](https://github.com/felix-davui-679) | Filimone Davui | Fiji | 1,384 |
 | 5 | [krishneelkamalsingh](https://github.com/krishneelkamalsingh) | Krish | Fiji | 1,212 |
@@ -29,8 +29,8 @@ Indexed users: 325
 | 15 | [SRVSRR](https://github.com/SRVSRR) | Rohan Nandan | Fiji | 538 |
 | 16 | [2-fly-4-ai](https://github.com/2-fly-4-ai) | Brian farley | Suva | 501 |
 | 17 | [kunz398](https://github.com/kunz398) | Kunal Singh | Fiji | 491 |
-| 18 | [aryann-7](https://github.com/aryann-7) | Aryan Singh | Suva, Fiji | 441 |
-| 19 | [vikichand](https://github.com/vikichand) | Vikash Chand | Fiji | 433 |
+| 18 | [vikichand](https://github.com/vikichand) | Vikash Chand | Fiji | 465 |
+| 19 | [aryann-7](https://github.com/aryann-7) | Aryan Singh | Suva, Fiji | 441 |
 | 20 | [Amanimal](https://github.com/Amanimal) | Abhishek Swamy | Fiji | 399 |
 
 ## Public Contributions
@@ -83,4 +83,4 @@ Indexed users: 325
 | 19 | [SMani0547](https://github.com/SMani0547) | Shiva Mani Goundar | Nadi, Fiji | 21 |
 | 20 | [aryann-7](https://github.com/aryann-7) | Aryan Singh | Suva, Fiji | 19 |
 
-Generated: 2026-10-20T08:42:32.381Z
+Generated: 2026-10-20T12:13:51.248Z

@@ -58,7 +58,7 @@ Published countries: 234
 | Curaçao | 53 | [View](./curacao.md) |
 | Cyprus | 2,723 | [View](./cyprus.md) |
 | Czechia | 16,199 | [View](./czechia.md) |
-| Denmark | 19,299 | [View](./denmark.md) |
+| Denmark | 19,300 | [View](./denmark.md) |
 | Djibouti | 55 | [View](./djibouti.md) |
 | Dominica | 18 | [View](./dominica.md) |
 | Dominican Republic | 3,297 | [View](./dominican_republic.md) |
@@ -83,7 +83,7 @@ Published countries: 234
 | Georgia | 6,876 | [View](./georgia.md) |
 | Ghana | 7,077 | [View](./ghana.md) |
 | Gibraltar | 93 | [View](./gibraltar.md) |
-| Greece | 15,539 | [View](./greece.md) |
+| Greece | 15,537 | [View](./greece.md) |
 | Greenland | 58 | [View](./greenland.md) |
 | Grenada | 37 | [View](./grenada.md) |
 | Guadeloupe | 86 | [View](./guadeloupe.md) |
@@ -96,8 +96,8 @@ Published countries: 234
 | Haiti | 339 | [View](./haiti.md) |
 | Heard Island and McDonald Islands | 3 | [View](./heard_island_and_mcdonald_islands.md) |
 | Honduras | 1,258 | [View](./honduras.md) |
-| Hong Kong | 10,261 | [View](./hong_kong.md) |
-| Hungary | 11,166 | [View](./hungary.md) |
+| Hong Kong | 10,260 | [View](./hong_kong.md) |
+| Hungary | 11,165 | [View](./hungary.md) |
 | Iceland | 1,579 | [View](./iceland.md) |
 | Indonesia | 63,280 | [View](./indonesia.md) |
 | Iran | 26,860 | [View](./iran.md) |
@@ -109,7 +109,7 @@ Published countries: 234
 | Jamaica | 1,272 | [View](./jamaica.md) |
 | Jersey | 139 | [View](./jersey.md) |
 | Jordan | 4,004 | [View](./jordan.md) |
-| Kazakhstan | 5,627 | [View](./kazakhstan.md) |
+| Kazakhstan | 5,628 | [View](./kazakhstan.md) |
 | Kenya | 24,016 | [View](./kenya.md) |
 | Kiribati | 4 | [View](./kiribati.md) |
 | Kuwait | 796 | [View](./kuwait.md) |
@@ -239,4 +239,4 @@ Published countries: 234
 | Zambia | 1,337 | [View](./zambia.md) |
 | Zimbabwe | 1,656 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-20T10:14:42.117Z
+Generated: 2026-10-20T12:26:29.680Z

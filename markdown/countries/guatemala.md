@@ -42,27 +42,27 @@ Indexed users: 3,213
 | 3 | [Aisaac2205](https://github.com/Aisaac2205) | Isaac Sarceño | Jutiapa, Guatemala | 2,116 |
 | 4 | [PlataformasInformaticas](https://github.com/PlataformasInformaticas) | Plataformas Informáticas | Guatemala | 1,739 |
 | 5 | [Adriianh](https://github.com/Adriianh) | Adrián Fúnez | Guatemala | 1,700 |
-| 6 | [acwilan](https://github.com/acwilan) | Andres Rovira | Guatemala | 1,666 |
-| 7 | [anndreloopez012](https://github.com/anndreloopez012) | Andre Lopez | Guatemala | 1,633 |
-| 8 | [eduardordev](https://github.com/eduardordev) | Eduardo Ramírez | Guatemala | 1,536 |
-| 9 | [gafnts](https://github.com/gafnts) | Gabriel Fuentes | Guatemala | 1,447 |
-| 10 | [YoverMarkt](https://github.com/YoverMarkt) | Yover Rosado Conforme | Guatemala | 1,407 |
-| 11 | [oschrenk](https://github.com/oschrenk) | Oliver Schrenk | Guatemala, Guatemala | 1,404 |
-| 12 | [ricardious](https://github.com/ricardious) | Alex Ricardo Castañeda Rodríguez | Guatemala | 1,394 |
-| 13 | [erwindank](https://github.com/erwindank) | Erwin Solorzano | Guatemala | 1,358 |
-| 14 | [MaxMald](https://github.com/MaxMald) | Max Maldonado | Guatemala | 1,305 |
+| 6 | [anndreloopez012](https://github.com/anndreloopez012) | Andre Lopez | Guatemala | 1,633 |
+| 7 | [eduardordev](https://github.com/eduardordev) | Eduardo Ramírez | Guatemala | 1,536 |
+| 8 | [gafnts](https://github.com/gafnts) | Gabriel Fuentes | Guatemala | 1,447 |
+| 9 | [YoverMarkt](https://github.com/YoverMarkt) | Yover Rosado Conforme | Guatemala | 1,407 |
+| 10 | [oschrenk](https://github.com/oschrenk) | Oliver Schrenk | Guatemala, Guatemala | 1,404 |
+| 11 | [ricardious](https://github.com/ricardious) | Alex Ricardo Castañeda Rodríguez | Guatemala | 1,394 |
+| 12 | [erwindank](https://github.com/erwindank) | Erwin Solorzano | Guatemala | 1,358 |
+| 13 | [MaxMald](https://github.com/MaxMald) | Max Maldonado | Guatemala | 1,305 |
+| 14 | [ykro](https://github.com/ykro) | Adrián Catalán | Guatemala | 1,203 |
 | 15 | [pablo-mald03](https://github.com/pablo-mald03) | Pablo_Maldonado | Guatemala | 1,112 |
 | 16 | [eylles](https://github.com/eylles) |  | Guatemala | 1,067 |
 | 17 | [robindanilo2218](https://github.com/robindanilo2218) | Robin Gregorio | Guatemala | 1,026 |
 | 18 | [AlfredoG87](https://github.com/AlfredoG87) | Alfredo Gutierrez | Guatemala | 1,019 |
 | 19 | [GlendyT](https://github.com/GlendyT) | Glendy Tuyuc | Guatemala | 995 |
-| 20 | [alemanuel18](https://github.com/alemanuel18) | Alejandro Jerez | Guatemala, Guatemala | 899 |
+| 20 | [acwilan](https://github.com/acwilan) | Andres Rovira | Guatemala | 959 |
 
 ## Followers
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [ykro](https://github.com/ykro) | Adrián Catalán | Guatemala | 434 |
+| 1 | [ykro](https://github.com/ykro) | Adrián Catalán | Guatemala | 436 |
 | 2 | [jorge-luis-perez-canto](https://github.com/jorge-luis-perez-canto) | Jorge Luis Pérez Canto | Guatemala | 332 |
 | 3 | [robertodevs](https://github.com/robertodevs) | Roberto Juarez | Guatemala | 305 |
 | 4 | [tuxtor](https://github.com/tuxtor) | Víctor Orozco | Guatemala | 298 |
@@ -81,6 +81,6 @@ Indexed users: 3,213
 | 17 | [Alvaro-SP](https://github.com/Alvaro-SP) | Alvaro Socop | Guatemala | 122 |
 | 18 | [elmergustavo](https://github.com/elmergustavo) | Gustavo (tavcode)  | Quetzaltenango, Guatemala | 119 |
 | 19 | [cms](https://github.com/cms) | Christian C. Salvadó | Guatemala | 117 |
-| 20 | [tian2992](https://github.com/tian2992) | Sebastian Oliva | Guatemala | 114 |
+| 20 | [tian2992](https://github.com/tian2992) | Sebastian Oliva | Guatemala | 113 |
 
-Generated: 2026-10-20T08:47:33.920Z
+Generated: 2026-10-20T12:20:30.074Z

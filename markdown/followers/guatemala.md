@@ -1,12 +1,12 @@
 # Followers - Guatemala
 
-Generated: 2026-10-20T08:47:33.920Z
+Generated: 2026-10-20T12:20:30.074Z
 
 Users: 3213
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [ykro](https://github.com/ykro) | Adrián Catalán | Elemental Geeks |  | Guatemala | 434 |
+| 1 | [ykro](https://github.com/ykro) | Adrián Catalán | Elemental Geeks |  | Guatemala | 436 |
 | 2 | [jorge-luis-perez-canto](https://github.com/jorge-luis-perez-canto) | Jorge Luis Pérez Canto | Cybersecurity \| Banking & Financial Services |  | Guatemala | 332 |
 | 3 | [robertodevs](https://github.com/robertodevs) | Roberto Juarez |  |  | Guatemala | 305 |
 | 4 | [tuxtor](https://github.com/tuxtor) | Víctor Orozco |  | tuxtor | Guatemala | 298 |
@@ -25,4 +25,4 @@ Users: 3213
 | 17 | [Alvaro-SP](https://github.com/Alvaro-SP) | Alvaro Socop |  | socop2412 | Guatemala | 122 |
 | 18 | [elmergustavo](https://github.com/elmergustavo) | Gustavo (tavcode)  |  | gustavo_dev_ | Quetzaltenango, Guatemala | 119 |
 | 19 | [cms](https://github.com/cms) | Christian C. Salvadó |  |  | Guatemala | 117 |
-| 20 | [tian2992](https://github.com/tian2992) | Sebastian Oliva |  |  | Guatemala | 114 |
+| 20 | [tian2992](https://github.com/tian2992) | Sebastian Oliva |  |  | Guatemala | 113 |
