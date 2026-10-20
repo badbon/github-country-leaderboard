@@ -1,13 +1,13 @@
 # Total Contributions - United Arab Emirates
 
-Generated: 2026-10-19T23:09:01.731Z
+Generated: 2026-10-20T00:28:17.675Z
 
 Users: 4222
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [HavenDV](https://github.com/HavenDV) | Konstantin S. |  |  | Dubai, United Arab Emirates | 36879 |
-| 2 | [YASSERRMD](https://github.com/YASSERRMD) | Mohamed Yasser | Sharjah City Municipality |  | Sharjah, United Arab Emirates | 22047 |
+| 2 | [YASSERRMD](https://github.com/YASSERRMD) | Mohamed Yasser | Sharjah City Municipality |  | Sharjah, United Arab Emirates | 23114 |
 | 3 | [tschm](https://github.com/tschm) | Thomas Schmelzer | Jebel Quant Research | Thomster78 | Abu Dhabi, United Arab Emirates | 21568 |
 | 4 | [sadiqaaico](https://github.com/sadiqaaico) | Sadiq | AppliedAI |  | Abu Dhabi, United Arab Emirates | 17828 |
 | 5 | [seyyedmuhamad](https://github.com/seyyedmuhamad) | Mohamad Mahdi Mohamadian | Elegant Hoopoe |  | Dubai, United Arab Emirates | 15453 |

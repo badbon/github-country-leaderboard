@@ -1,6 +1,6 @@
 # Total Contributions - British Virgin Islands
 
-Generated: 2026-10-19T23:14:33.248Z
+Generated: 2026-10-20T00:43:07.243Z
 
 Users: 38
 
@@ -8,7 +8,7 @@ Users: 38
 |---:|---|---|---|---|---|---:|
 | 1 | [BazaarsBZR](https://github.com/BazaarsBZR) | Bazaars | Bazaars Limited | BazaarsBzr | Bazaars Limited, Intershore Chambers, Road Town, Tortola, British Virgin Islands | 6442 |
 | 2 | [justmoon](https://github.com/justmoon) | Stefan Thomas | @coilhq | justmoon | British Virgin Islands | 3828 |
-| 3 | [AI-Isaiah](https://github.com/AI-Isaiah) |  | Metaworld Fund |  | British Virgin Islands | 3643 |
+| 3 | [AI-Isaiah](https://github.com/AI-Isaiah) |  | Metaworld Fund |  | British Virgin Islands | 3647 |
 | 4 | [Dener1111](https://github.com/Dener1111) | DK |  |  | Road Town, British Virgin Islands | 2142 |
 | 5 | [divyansh2681](https://github.com/divyansh2681) | Divyansh Agrawal |  |  | Virgin Islands | 449 |
 | 6 | [khaliidrahiim](https://github.com/khaliidrahiim) | N'Khoy K. R. Stoutt | Government of the Virgin Islands |  | British Virgin Islands | 64 |

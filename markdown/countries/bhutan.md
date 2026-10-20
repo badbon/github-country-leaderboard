@@ -21,9 +21,9 @@ Indexed users: 266
 | 7 | [ThuktenSingye](https://github.com/ThuktenSingye) | ThuktenSingye | Bhutan | 2,793 |
 | 8 | [PraMishra-s](https://github.com/PraMishra-s) | Pralad Mishra | Bhutan | 2,636 |
 | 9 | [sangayt1997](https://github.com/sangayt1997) | Sangay Thinley | Thimphu, Bhutan | 2,298 |
-| 10 | [Ugyenjigmerangdrel](https://github.com/Ugyenjigmerangdrel) | Ugyen Jigme Rangdrel | Bhutan | 2,068 |
-| 11 | [ugyentenzin1](https://github.com/ugyentenzin1) | Ugyen Tenzin  | Thiimphu, Bhutan | 2,022 |
-| 12 | [grey300](https://github.com/grey300) | Tshering Gyeltshen | Bhutan | 1,968 |
+| 10 | [grey300](https://github.com/grey300) | Tshering Gyeltshen | Bhutan | 2,084 |
+| 11 | [Ugyenjigmerangdrel](https://github.com/Ugyenjigmerangdrel) | Ugyen Jigme Rangdrel | Bhutan | 2,068 |
+| 12 | [ugyentenzin1](https://github.com/ugyentenzin1) | Ugyen Tenzin  | Thiimphu, Bhutan | 2,022 |
 | 13 | [namgaytobden](https://github.com/namgaytobden) | Namgay Tobden | Thimphu | 1,958 |
 | 14 | [bugloper](https://github.com/bugloper) | Nima Yonten | Thimphu Babesa | 1,953 |
 | 15 | [SonamWangchuk77jr](https://github.com/SonamWangchuk77jr) | Sonam Wangchuk | Thimphu | 1,930 |
@@ -38,25 +38,25 @@ Indexed users: 266
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [Kzoeps](https://github.com/Kzoeps) | Karma Zoepa Yoezer | Thimphu, Bhutan | 2,754 |
-| 2 | [Bomjan](https://github.com/Bomjan) | Sundra Builds | Thimphu | 1,042 |
+| 2 | [Bomjan](https://github.com/Bomjan) | Sundra Builds | Thimphu | 1,041 |
 | 3 | [guruwangchuk7](https://github.com/guruwangchuk7) | Guru Wangchuk | Bhutan | 1,009 |
 | 4 | [sangayt1997](https://github.com/sangayt1997) | Sangay Thinley | Thimphu, Bhutan | 1,008 |
 | 5 | [yesheytenzin](https://github.com/yesheytenzin) | Yeshey Tenzin | Thimphu, Bhutan | 936 |
 | 6 | [twangyel](https://github.com/twangyel) | Tandin Wangyel | Bhutan | 924 |
-| 7 | [grey300](https://github.com/grey300) | Tshering Gyeltshen | Bhutan | 903 |
-| 8 | [Choedra](https://github.com/Choedra) | Choedra Gyamtsho | Chubachu, Thimphu | 459 |
-| 9 | [SurajSunar](https://github.com/SurajSunar) | Suraj Sunar | Thimphu, Bhutan | 336 |
-| 10 | [lakikishorsubba](https://github.com/lakikishorsubba) | Laki Kishor Subba | Thimphu,Bhutan | 306 |
-| 11 | [jigmeloday](https://github.com/jigmeloday) | Jigme Lodey | Thimphu Bhutan | 237 |
-| 12 | [aspee12](https://github.com/aspee12) | Sonam Phuntsho | Thimphu, IT Park | 186 |
-| 13 | [devdgna](https://github.com/devdgna) | Dev | Kingdom of Bhutan | 181 |
-| 14 | [Tenzin-06](https://github.com/Tenzin-06) | Tenzin Tobgay | Bhutan | 163 |
-| 15 | [bugloper](https://github.com/bugloper) | Nima Yonten | Thimphu Babesa | 157 |
-| 16 | [jigmetnamgyal](https://github.com/jigmetnamgyal) | Jigme Namgyal | Thimphu, Bhutan | 154 |
-| 17 | [dorjizangpo-067](https://github.com/dorjizangpo-067) | Dorji Zangpo | Bhutan | 136 |
-| 18 | [teknatha136](https://github.com/teknatha136) | Tek Nath | Thimphu | 122 |
+| 7 | [Choedra](https://github.com/Choedra) | Choedra Gyamtsho | Chubachu, Thimphu | 459 |
+| 8 | [SurajSunar](https://github.com/SurajSunar) | Suraj Sunar | Thimphu, Bhutan | 336 |
+| 9 | [lakikishorsubba](https://github.com/lakikishorsubba) | Laki Kishor Subba | Thimphu,Bhutan | 302 |
+| 10 | [jigmeloday](https://github.com/jigmeloday) | Jigme Lodey | Thimphu Bhutan | 237 |
+| 11 | [aspee12](https://github.com/aspee12) | Sonam Phuntsho | Thimphu, IT Park | 186 |
+| 12 | [devdgna](https://github.com/devdgna) | Dev | Kingdom of Bhutan | 181 |
+| 13 | [Tenzin-06](https://github.com/Tenzin-06) | Tenzin Tobgay | Bhutan | 163 |
+| 14 | [bugloper](https://github.com/bugloper) | Nima Yonten | Thimphu Babesa | 157 |
+| 15 | [jigmetnamgyal](https://github.com/jigmetnamgyal) | Jigme Namgyal | Thimphu, Bhutan | 154 |
+| 16 | [dorjizangpo-067](https://github.com/dorjizangpo-067) | Dorji Zangpo | Bhutan | 136 |
+| 17 | [teknatha136](https://github.com/teknatha136) | Tek Nath | Thimphu | 122 |
+| 18 | [Art-sys-86](https://github.com/Art-sys-86) | Art | Bhutan | 120 |
 | 19 | [Ugyenjigmerangdrel](https://github.com/Ugyenjigmerangdrel) | Ugyen Jigme Rangdrel | Bhutan | 120 |
-| 20 | [Art-sys-86](https://github.com/Art-sys-86) | Art | Bhutan | 119 |
+| 20 | [Jigme96-BHU](https://github.com/Jigme96-BHU) | Jigme Tharchen | Thimphu | 108 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 266
 | 19 | [TandinDev](https://github.com/TandinDev) | Tandin Tshewang | Thimphu | 23 |
 | 20 | [chimiWangchukWangdi](https://github.com/chimiWangchukWangdi) | Chimi Wangchuk Wangdi | Thimphu, Bhutan | 22 |
 
-Generated: 2026-10-19T23:13:40.514Z
+Generated: 2026-10-20T00:41:08.253Z

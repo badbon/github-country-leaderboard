@@ -1,6 +1,6 @@
 # Followers - Burundi
 
-Generated: 2026-10-19T23:16:32.344Z
+Generated: 2026-10-20T00:44:24.985Z
 
 Users: 235
 
@@ -24,5 +24,5 @@ Users: 235
 | 16 | [ahishakiyeyv](https://github.com/ahishakiyeyv) | Yvan Igor AHISHAKIYE |  | YvanAhishakiye | Bujumbura, Burundi | 41 |
 | 17 | [kalculata](https://github.com/kalculata) | Huzaifa Nimushimirimana | @kubwacu-entreprise  | kalculata | Bujumbura, Burundi | 41 |
 | 18 | [mudjaycker](https://github.com/mudjaycker) | MARYIMANA BUTOYI | BIOS |  | Bujumbura/BURUNDI | 36 |
-| 19 | [arsou2015](https://github.com/arsou2015) | Arsene Nduwayo | EXEC |  | Burundi | 35 |
-| 20 | [tertcoder](https://github.com/tertcoder) | Bon Tertius Tuyishimire  | Mediabox | bon_tertius | Bujumbura, Burundi | 35 |
+| 19 | [tertcoder](https://github.com/tertcoder) | Bon Tertius Tuyishimire  | Mediabox | bon_tertius | Bujumbura, Burundi | 35 |
+| 20 | [arsou2015](https://github.com/arsou2015) | Arsene Nduwayo | EXEC |  | Burundi | 34 |

@@ -1,6 +1,6 @@
 # Followers - Bosnia and Herzegovina
 
-Generated: 2026-10-19T23:13:47.476Z
+Generated: 2026-10-20T00:41:59.619Z
 
 Users: 2126
 
@@ -13,7 +13,7 @@ Users: 2126
 | 5 | [adnanh](https://github.com/adnanh) | Adnan Hajdarević |  |  | Sarajevo, Bosnia & Herzegovina | 228 |
 | 6 | [ribice](https://github.com/ribice) | Emir Ribić | @caseconnect-ai |  | Sarajevo | 220 |
 | 7 | [komljen](https://github.com/komljen) | Alen Komljen | @Faire  | alenkomljen | Sarajevo | 206 |
-| 8 | [Admer456](https://github.com/Admer456) | Admer |  |  | Bosnia and Herzegovina | 188 |
+| 8 | [Admer456](https://github.com/Admer456) | Admer |  |  | Bosnia and Herzegovina | 190 |
 | 9 | [TheAdnan](https://github.com/TheAdnan) | Adnan Kičin | Viking Consulting |  | Sarajevo | 179 |
 | 10 | [vladimir-cicovic](https://github.com/vladimir-cicovic) | Vladimir Cicovic | @team-the-red |  | @Bosnia and Herzegovina | 175 |
 | 11 | [chili-chips-ba](https://github.com/chili-chips-ba) | Chili.CHIPS | Chili.CHIPS |  | Bosnia-Herzegovina | 169 |
@@ -21,7 +21,7 @@ Users: 2126
 | 13 | [Aldin-SXR](https://github.com/Aldin-SXR) | Aldin Kovačević | BiOptimizers |  | Sarajevo | 147 |
 | 14 | [almirvuk](https://github.com/almirvuk) | Almir Vuk | run.events GmbH | almirvuk | Sarajevo, Bosna i Hercegovina | 141 |
 | 15 | [nenadg](https://github.com/nenadg) | Nenad Golubovic |  |  | Banja Luka, Bosnia and Herzegovina | 134 |
-| 16 | [MS-WEB-BN](https://github.com/MS-WEB-BN) |  |  |  | Bijeljina, Bosnia and Herzegovina | 133 |
+| 16 | [MS-WEB-BN](https://github.com/MS-WEB-BN) |  |  |  | Bijeljina, Bosnia and Herzegovina | 132 |
 | 17 | [borisdj](https://github.com/borisdj) | Boris Djurdjevic | @codis-tech |  | Banja Luka, Bosnia and Herzegovina | 129 |
 | 18 | [xiprox](https://github.com/xiprox) | İhsan Işık |  |  | Sarajevo | 123 |
 | 19 | [Mickey0001](https://github.com/Mickey0001) | Mirza Sisic | TestOps | MickeySisic | Sarajevo, Bosnia and Herzegovina  | 122 |

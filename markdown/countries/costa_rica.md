@@ -12,9 +12,9 @@ Indexed users: 5,625
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [glittercowboy](https://github.com/glittercowboy) | TÂCHES | Costa Rica | 27,835 |
-| 2 | [skylartaylor](https://github.com/skylartaylor) | skylar taylor-barrick  | costa rica | 19,105 |
-| 3 | [lvillalobos-cr](https://github.com/lvillalobos-cr) | Lorenzo Villalobos | Costa Rica | 17,750 |
+| 1 | [lvillalobos-cr](https://github.com/lvillalobos-cr) | Lorenzo Villalobos | Costa Rica | 29,570 |
+| 2 | [glittercowboy](https://github.com/glittercowboy) | TÂCHES | Costa Rica | 27,835 |
+| 3 | [skylartaylor](https://github.com/skylartaylor) | skylar taylor-barrick  | costa rica | 19,105 |
 | 4 | [jourlez](https://github.com/jourlez) | Josué Rojas | Jacó, Costa Rica | 12,961 |
 | 5 | [thoughtpunch](https://github.com/thoughtpunch) | Dan Barrett | Costa Rica | 11,951 |
 | 6 | [byrafael](https://github.com/byrafael) | Rafael Soley | Costa Rica | 9,771 |
@@ -83,4 +83,4 @@ Indexed users: 5,625
 | 19 | [stvansolano](https://github.com/stvansolano) | Esteban Solano Granados | Costa Rica | 189 |
 | 20 | [Jeffser](https://github.com/Jeffser) | Jeffry Samuel | Costa Rica | 174 |
 
-Generated: 2026-10-19T23:22:47.820Z
+Generated: 2026-10-20T00:48:15.249Z

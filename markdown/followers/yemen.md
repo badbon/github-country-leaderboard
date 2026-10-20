@@ -1,6 +1,6 @@
 # Followers - Yemen
 
-Generated: 2026-10-19T23:01:48.071Z
+Generated: 2026-10-20T00:31:53.992Z
 
 Users: 1205
 
@@ -18,7 +18,7 @@ Users: 1205
 | 10 | [k-j-alarashi](https://github.com/k-j-alarashi) | Khaled Jalal Al-arashi |  | k_j_alarashi | Yemen , Sana'a | 283 |
 | 11 | [AymanAltairi73](https://github.com/AymanAltairi73) | Ayman Ahmed Altairi  | Freelancer |  | Yemen/Mukalla | 274 |
 | 12 | [doctor-he](https://github.com/doctor-he) | Dr. He |  |  | Yemen, Sanaa | 273 |
-| 13 | [suaad997](https://github.com/suaad997) | SuadAljuaid | UST Unversity |  | yemen ,sana'a | 228 |
+| 13 | [suaad997](https://github.com/suaad997) | SuadAljuaid | UST Unversity |  | yemen ,sana'a | 227 |
 | 14 | [mrpythonfpi](https://github.com/mrpythonfpi) | 𝐌r𝐏𝐘𝐓𝐇𝐎𝐍🎩༒ | 𝗦𝗘𝗖𝗥𝗘𝗧 𝗡𝗘𝗧 ⋆ 🏴‍☠️ |  | YEMEN | 188 |
 | 15 | [muath-ye](https://github.com/muath-ye) | Muath Alsowadi | Co-founder @YemenOpenSource, Member of @open-sale | muathye | Yemen | 181 |
 | 16 | [Emadalshamery](https://github.com/Emadalshamery) | Emad QEAD Alshamiri  | alemadtr.com |  | Yemen | 172 |

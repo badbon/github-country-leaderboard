@@ -13,10 +13,10 @@ Indexed users: 236
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [carlswann](https://github.com/carlswann) | Carl Swann | Freeport, Bahamas | 23,741 |
-| 2 | [zoejessica](https://github.com/zoejessica) | Zoë Smith | Bahamas / Canada | 3,530 |
+| 2 | [zoejessica](https://github.com/zoejessica) | Zoë Smith | Bahamas / Canada | 3,576 |
 | 3 | [dbraganca](https://github.com/dbraganca) | dbraganca | Bahamas | 3,324 |
 | 4 | [bondjacobbond](https://github.com/bondjacobbond) | Jacob Bond | Casino Royale, Nassau, Bahamas | 3,062 |
-| 5 | [ryaustin](https://github.com/ryaustin) | Ryan | Bahamas | 2,623 |
+| 5 | [ryaustin](https://github.com/ryaustin) | Ryan | Bahamas | 2,621 |
 | 6 | [yannyhl](https://github.com/yannyhl) | yg | nassau | 2,039 |
 | 7 | [janajmccardy](https://github.com/janajmccardy) | Jana JM | Nassau, The Bahamas | 1,830 |
 | 8 | [TajhSeymour](https://github.com/TajhSeymour) | Tajh Seymour | New Providence, Bahamas | 1,440 |
@@ -30,7 +30,7 @@ Indexed users: 236
 | 16 | [dorson755](https://github.com/dorson755) | Dorson Williams | Nassau Bahamas | 733 |
 | 17 | [mikepadiernos](https://github.com/mikepadiernos) | Mike Padiernos | Nassau County, NY | 611 |
 | 18 | [nhayling](https://github.com/nhayling) | Noah Hayling | Nassau, The Bahamas | 557 |
-| 19 | [avolel](https://github.com/avolel) | Andre Volel | Nassau County, NY | 364 |
+| 19 | [avolel](https://github.com/avolel) | Andre Volel | Nassau County, NY | 366 |
 | 20 | [gtsbahamas](https://github.com/gtsbahamas) | Ty Wells | Nassau, Bahamas | 343 |
 
 ## Public Contributions
@@ -47,7 +47,7 @@ Indexed users: 236
 | 8 | [Johndiddles](https://github.com/Johndiddles) | Johndiddles | Nassau, Bahamas | 111 |
 | 9 | [Ernestforbes12](https://github.com/Ernestforbes12) | Ernest Forbes Jr | Bahamas  | 94 |
 | 10 | [jsphpndr](https://github.com/jsphpndr) | Joseph Pinder | Bahamas | 93 |
-| 11 | [SamSepiol266](https://github.com/SamSepiol266) | Sam Sepiol | Nassau, Bahamas | 92 |
+| 11 | [SamSepiol266](https://github.com/SamSepiol266) | Sam Sepiol | Nassau, Bahamas | 91 |
 | 12 | [Jace-Mc](https://github.com/Jace-Mc) | Jacon11 | New Providence, Bahamas | 90 |
 | 13 | [bryanherger](https://github.com/bryanherger) | Bryan Herger | South Shore of Nassau County, NY | 62 |
 | 14 | [GustavoHRX](https://github.com/GustavoHRX) | Gustavo Rodrigues | Bahamas | 60 |
@@ -80,7 +80,7 @@ Indexed users: 236
 | 16 | [mroker242](https://github.com/mroker242) | Michael Roker | Nassau, Bahamas | 17 |
 | 17 | [aulbytj](https://github.com/aulbytj) | Aulbourn Knowles | Bahamas | 16 |
 | 18 | [emajeru](https://github.com/emajeru) | Edison Hanchell | Nassau, Bahamas | 16 |
-| 19 | [paulcitarella](https://github.com/paulcitarella) | Paul Citarella | George Town, Bahamas | 15 |
+| 19 | [paulcitarella](https://github.com/paulcitarella) | Paul Citarella | George Town, Bahamas | 16 |
 | 20 | [yemix](https://github.com/yemix) |  | Bahamas | 14 |
 
-Generated: 2026-10-19T23:11:03.394Z
+Generated: 2026-10-20T00:37:14.979Z

@@ -1,18 +1,18 @@
 # Total Contributions - Aruba
 
-Generated: 2026-10-19T23:09:04.288Z
+Generated: 2026-10-20T00:36:08.983Z
 
 Users: 37
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [QVault](https://github.com/QVault) | Quincent |  |  | Aruba | 1737 |
-| 2 | [azaandam](https://github.com/azaandam) | André Zaandam | CR38TE | azaandam | Aruba | 832 |
+| 2 | [azaandam](https://github.com/azaandam) | André Zaandam | CR38TE | azaandam | Aruba | 833 |
 | 3 | [flacle](https://github.com/flacle) | Francis Laclé |  | flacle | Aruba | 568 |
 | 4 | [rendell](https://github.com/rendell) | Rendell de Kort | Cornerstone Economics / Lovely Data |  | Aruba | 562 |
 | 5 | [EstherPlomp](https://github.com/EstherPlomp) | Esther Plomp |  |  | Aruba | 496 |
 | 6 | [blonkm](https://github.com/blonkm) | Michiel van der Blonk | BlueKoala |  | Oranjestad, Aruba | 203 |
-| 7 | [GeraldR12](https://github.com/GeraldR12) | Nathan R | Next Inn Games |  | Aruba | 178 |
+| 7 | [GeraldR12](https://github.com/GeraldR12) | Nathan R | Next Inn Games |  | Aruba | 177 |
 | 8 | [StephanZaat](https://github.com/StephanZaat) | Stephan Zaat | ZOS Consultancy |  | Aruba | 130 |
 | 9 | [Veknica](https://github.com/Veknica) | Pola Sendviča |  |  | Oranjestad | 72 |
 | 10 | [waterkip](https://github.com/waterkip) | Wesley Schwengle | wdms |  | Aruba | 51 |

@@ -1,6 +1,6 @@
 # Uzbekistan
 
-Indexed users: 9,514
+Indexed users: 9,513
 
 | Leaderboard | Link |
 |---|---|
@@ -29,9 +29,9 @@ Indexed users: 9,514
 | 15 | [itsakbarov](https://github.com/itsakbarov) | Sardor | Tashkent, Uzbekistan | 9,240 |
 | 16 | [ummataliyev](https://github.com/ummataliyev) | Umidjon Ummataliyev | Tashkent | 9,032 |
 | 17 | [Dave93](https://github.com/Dave93) | Davron Yuldashev | Tashkent, Uzbekistan | 8,867 |
-| 18 | [lexoice](https://github.com/lexoice) | Alexey | Uzbekistan Tashkent | 8,555 |
-| 19 | [azimRR](https://github.com/azimRR) | Abduazim Islomjonov | Tashkent | 8,475 |
-| 20 | [pohlebkin](https://github.com/pohlebkin) | Boris Borisov | Uzbekistan | 7,999 |
+| 18 | [Mukhsin0508](https://github.com/Mukhsin0508) | Mukhsin Mukhtorov | Tashkent | 8,831 |
+| 19 | [lexoice](https://github.com/lexoice) | Alexey | Uzbekistan Tashkent | 8,555 |
+| 20 | [azimRR](https://github.com/azimRR) | Abduazim Islomjonov | Tashkent | 8,475 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 9,514
 | 19 | [Andrey0189](https://github.com/Andrey0189) | Andrew | Tashkent | 310 |
 | 20 | [mukhtorov](https://github.com/mukhtorov) | Sardor | Tashkent, Uzbekistan | 299 |
 
-Generated: 2026-10-19T23:01:07.748Z
+Generated: 2026-10-20T00:29:47.021Z

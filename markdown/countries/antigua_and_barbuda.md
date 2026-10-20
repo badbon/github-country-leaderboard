@@ -17,7 +17,7 @@ Indexed users: 12
 | 3 | [MeshaMakes](https://github.com/MeshaMakes) | Mesha | Antigua and Barbuda | 22 |
 | 4 | [autumnToT](https://github.com/autumnToT) | Autumn M. Charles | Antigua and Barbuda | 17 |
 | 5 | [Dark-St-r](https://github.com/Dark-St-r) | Shemar Aundrey Abel | Antigua and Barbuda | 14 |
-| 6 | [KrutkoVitaliy](https://github.com/KrutkoVitaliy) | Vitalii Krutko | Antigua and Barbuda | 8 |
+| 6 | [KrutkoVitaliy](https://github.com/KrutkoVitaliy) | Vitalii Krutko | Antigua and Barbuda | 9 |
 | 7 | [dadlian](https://github.com/dadlian) | Sven James | Antigua and Barbuda | 1 |
 | 8 | [lerontonge](https://github.com/lerontonge) | Leron T | Antigua and Barbuda | 1 |
 | 9 | [badadmin](https://github.com/badadmin) |  | Saint John's, FL | 0 |
@@ -32,7 +32,7 @@ Indexed users: 12
 | 1 | [TZF-365](https://github.com/TZF-365) | Technologically Zealous Family | Antigua and Barbuda | 23 |
 | 2 | [autumnToT](https://github.com/autumnToT) | Autumn M. Charles | Antigua and Barbuda | 17 |
 | 3 | [Dark-St-r](https://github.com/Dark-St-r) | Shemar Aundrey Abel | Antigua and Barbuda | 14 |
-| 4 | [KrutkoVitaliy](https://github.com/KrutkoVitaliy) | Vitalii Krutko | Antigua and Barbuda | 8 |
+| 4 | [KrutkoVitaliy](https://github.com/KrutkoVitaliy) | Vitalii Krutko | Antigua and Barbuda | 9 |
 | 5 | [danausx](https://github.com/danausx) | Denis Sandalini | Antigua and Barbuda | 2 |
 | 6 | [dadlian](https://github.com/dadlian) | Sven James | Antigua and Barbuda | 1 |
 | 7 | [lerontonge](https://github.com/lerontonge) | Leron T | Antigua and Barbuda | 1 |
@@ -59,4 +59,4 @@ Indexed users: 12
 | 11 | [kitchenrep2](https://github.com/kitchenrep2) | SmartKitchenAid ApplianceRepair | 1045 Saint John's Pl, A6, Brooklyn, NY 11213 | 1 |
 | 12 | [nucleuskore](https://github.com/nucleuskore) |  | Antigua and Barbuda | 1 |
 
-Generated: 2026-10-19T23:08:00.504Z
+Generated: 2026-10-20T00:35:18.602Z

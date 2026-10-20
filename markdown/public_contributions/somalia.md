@@ -1,13 +1,13 @@
 # Public Contributions - Somalia
 
-Generated: 2026-10-19T22:49:45.803Z
+Generated: 2026-10-20T00:17:36.234Z
 
 Users: 865
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [yousumohamed](https://github.com/yousumohamed) | Yousuf Mohamed | @Sahan-Labs  |  | somalia | 5140 |
-| 2 | [mrabukar](https://github.com/mrabukar) | Mr Abukar | @Loranet-Technologies  |  | Mogadisho, Somalia | 3829 |
+| 2 | [mrabukar](https://github.com/mrabukar) | Mr Abukar | @Loranet-Technologies  |  | Mogadisho, Somalia | 3831 |
 | 3 | [abdulsalamhassan](https://github.com/abdulsalamhassan) | Abdulsalam H. Shiikhow | SIMAD University |  | Somalia, Mogadishu | 1557 |
 | 4 | [TheAnfac](https://github.com/TheAnfac) | Anfac Abdullahi |  |  | Somalia-Mogadishu | 1068 |
 | 5 | [sadaqhassan](https://github.com/sadaqhassan) | Sadak Hassan Ahmed |  |  | mogadishu-somalia | 974 |
@@ -23,6 +23,6 @@ Users: 865
 | 15 | [karimsaabir9](https://github.com/karimsaabir9) | Sabir Salad Hassan |  | karimsaabir9 | Mogadishu-Somalia | 625 |
 | 16 | [khaledyusuf44](https://github.com/khaledyusuf44) | Khalid Yusuf Dahir |  | khaledyusuf44 | Mogadishu | 615 |
 | 17 | [mohamedbashirnux](https://github.com/mohamedbashirnux) | Maxamett Bashir |  |  | Mogadishu-Somalia | 563 |
-| 18 | [marshaale](https://github.com/marshaale) |  |  |  | Somalia | 538 |
+| 18 | [marshaale](https://github.com/marshaale) |  |  |  | Somalia | 550 |
 | 19 | [hafsahassan23](https://github.com/hafsahassan23) | Hafsa Hassan Ahmed | Zamzam University of Science and Technology | HafsaHaajji | Mogadishu-Somalia | 537 |
 | 20 | [IshakAbdiazizHussen](https://github.com/IshakAbdiazizHussen) | Ishak Abdiaziz Hussein | Independent Software Engineer \| AI Engineer  |  | Mogadisho, Somalia | 511 |

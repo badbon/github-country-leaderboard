@@ -18,7 +18,7 @@ Indexed users: 1,480
 | 4 | [Abubakr-Alsheikh](https://github.com/Abubakr-Alsheikh) | Abubakr Alsheikh | Syria | 4,654 |
 | 5 | [ibrahim4433](https://github.com/ibrahim4433) | Ibrahim Andraws | Syria | 4,651 |
 | 6 | [amurru](https://github.com/amurru) | Ammar Zerouk | Syria | 3,244 |
-| 7 | [ali-talal-ibrahem](https://github.com/ali-talal-ibrahem) | Ali Talal Ibrahem | syria | 3,183 |
+| 7 | [ali-talal-ibrahem](https://github.com/ali-talal-ibrahem) | Ali Talal Ibrahem | syria | 3,223 |
 | 8 | [AhmedHMWI](https://github.com/AhmedHMWI) | Ahmed hamwi | Damascus | 3,125 |
 | 9 | [sam-a1a](https://github.com/sam-a1a) | Sam Ghazaleh | Damascus, Syrian Arab Republic | 3,087 |
 | 10 | [gaaferHajji2](https://github.com/gaaferHajji2) | Jafar Loka | Damascus - SY | 2,836 |
@@ -46,10 +46,10 @@ Indexed users: 1,480
 | 7 | [AhmadKharfan](https://github.com/AhmadKharfan) | Ahmad Kharfan | Syria, Damascus | 1,525 |
 | 8 | [ibrahimhamwi99](https://github.com/ibrahimhamwi99) | ibrahimhamwi  | syria | 1,498 |
 | 9 | [Abdomghrbi](https://github.com/Abdomghrbi) | Abdullrahman almaghrabi | Syria | 1,252 |
-| 10 | [Hakam-aldeen-Kh](https://github.com/Hakam-aldeen-Kh) | Hakam aldeen Alkhadraa | Syria | 1,193 |
-| 11 | [firasuke](https://github.com/firasuke) | Firas Khana | Aleppo, Syria | 1,168 |
-| 12 | [DrAbdulmalek](https://github.com/DrAbdulmalek) | Dr Abdulmalek Al-Husseini | Syria | 1,158 |
-| 13 | [ali-talal-ibrahem](https://github.com/ali-talal-ibrahem) | Ali Talal Ibrahem | syria | 1,153 |
+| 10 | [ali-talal-ibrahem](https://github.com/ali-talal-ibrahem) | Ali Talal Ibrahem | syria | 1,193 |
+| 11 | [Hakam-aldeen-Kh](https://github.com/Hakam-aldeen-Kh) | Hakam aldeen Alkhadraa | Syria | 1,193 |
+| 12 | [firasuke](https://github.com/firasuke) | Firas Khana | Aleppo, Syria | 1,168 |
+| 13 | [DrAbdulmalek](https://github.com/DrAbdulmalek) | Dr Abdulmalek Al-Husseini | Syria | 1,158 |
 | 14 | [YAZAN420](https://github.com/YAZAN420) | YazanMahfooz | Syria | 1,082 |
 | 15 | [amurru](https://github.com/amurru) | Ammar Zerouk | Syria | 1,007 |
 | 16 | [AliMohammadDev](https://github.com/AliMohammadDev) | Ali Mohammad | Syria | 1,005 |
@@ -83,4 +83,4 @@ Indexed users: 1,480
 | 19 | [nebrassy](https://github.com/nebrassy) | Nebrassy | Latakia, Syria | 102 |
 | 20 | [evoiz](https://github.com/evoiz) | Elias Al-bittar | Homs, Syria | 95 |
 
-Generated: 2026-10-19T22:53:05.490Z
+Generated: 2026-10-20T00:22:04.033Z

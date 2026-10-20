@@ -1,16 +1,16 @@
 # Total Contributions - Bahamas
 
-Generated: 2026-10-19T23:11:03.394Z
+Generated: 2026-10-20T00:37:14.979Z
 
 Users: 236
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [carlswann](https://github.com/carlswann) | Carl Swann | @lightspeed |  | Freeport, Bahamas | 23741 |
-| 2 | [zoejessica](https://github.com/zoejessica) | Zoë Smith | @Basecamp | zoejessica | Bahamas / Canada | 3530 |
+| 2 | [zoejessica](https://github.com/zoejessica) | Zoë Smith | @Basecamp | zoejessica | Bahamas / Canada | 3576 |
 | 3 | [dbraganca](https://github.com/dbraganca) | dbraganca |  |  | Bahamas | 3324 |
 | 4 | [bondjacobbond](https://github.com/bondjacobbond) | Jacob Bond | Bond Sports |  | Casino Royale, Nassau, Bahamas | 3062 |
-| 5 | [ryaustin](https://github.com/ryaustin) | Ryan |  | ry_austin | Bahamas | 2623 |
+| 5 | [ryaustin](https://github.com/ryaustin) | Ryan |  | ry_austin | Bahamas | 2621 |
 | 6 | [yannyhl](https://github.com/yannyhl) | yg | Melo Inc |  | nassau | 2039 |
 | 7 | [janajmccardy](https://github.com/janajmccardy) | Jana JM | Agio Digital Ltd. |  | Nassau, The Bahamas | 1830 |
 | 8 | [TajhSeymour](https://github.com/TajhSeymour) | Tajh Seymour |  |  | New Providence, Bahamas | 1440 |
@@ -24,5 +24,5 @@ Users: 236
 | 16 | [dorson755](https://github.com/dorson755) | Dorson Williams |  |  | Nassau Bahamas | 733 |
 | 17 | [mikepadiernos](https://github.com/mikepadiernos) | Mike Padiernos | TCS, GE Aerospace |  | Nassau County, NY | 611 |
 | 18 | [nhayling](https://github.com/nhayling) | Noah Hayling | @archipelagoapps | nhayling_ | Nassau, The Bahamas | 557 |
-| 19 | [avolel](https://github.com/avolel) | Andre Volel |  |  | Nassau County, NY | 364 |
+| 19 | [avolel](https://github.com/avolel) | Andre Volel |  |  | Nassau County, NY | 366 |
 | 20 | [gtsbahamas](https://github.com/gtsbahamas) | Ty Wells | FrankLabs |  | Nassau, Bahamas | 343 |

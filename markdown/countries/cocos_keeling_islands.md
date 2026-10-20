@@ -14,7 +14,7 @@ Indexed users: 9
 |---:|---|---|---|---:|
 | 1 | [rohwid](https://github.com/rohwid) | Rohman Widiyanto | Cocos (Keeling) Islands | 809 |
 | 2 | [chullybun](https://github.com/chullybun) | Eric Sibly [chullybun] | West Island of New Zealand (aka Australia) | 162 |
-| 3 | [ivla-bit](https://github.com/ivla-bit) | Казаніков Ілля | Cocos Islands | 90 |
+| 3 | [ivla-bit](https://github.com/ivla-bit) | Казаніков Ілля | Cocos Islands | 87 |
 | 4 | [Nepoymi](https://github.com/Nepoymi) | Abrakham Baderman | Cocos Islands | 10 |
 | 5 | [getsalmon](https://github.com/getsalmon) | nton | Cocos Islands | 3 |
 | 6 | [Dmzll](https://github.com/Dmzll) | Dmzll | Keeling Islands | 1 |
@@ -50,4 +50,4 @@ Indexed users: 9
 | 8 | [Nepoymi](https://github.com/Nepoymi) | Abrakham Baderman | Cocos Islands | 1 |
 | 9 | [NetworkWorm123](https://github.com/NetworkWorm123) | Timon | Cocos Islands | 1 |
 
-Generated: 2026-10-19T23:21:01.823Z
+Generated: 2026-10-20T00:46:29.578Z

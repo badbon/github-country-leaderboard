@@ -1,6 +1,6 @@
 # Moldova
 
-Indexed users: 1,746
+Indexed users: 1,747
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 1,746
 | 19 | [vgaidarji](https://github.com/vgaidarji) | Veaceslav Gaidarji | Moldova | 115 |
 | 20 | [Ernest96](https://github.com/Ernest96) | Ernest | Chisinau Moldova | 107 |
 
-Generated: 2026-10-19T23:53:01.314Z
+Generated: 2026-10-20T00:43:45.452Z

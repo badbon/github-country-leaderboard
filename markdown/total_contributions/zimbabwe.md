@@ -1,6 +1,6 @@
 # Total Contributions - Zimbabwe
 
-Generated: 2026-10-19T23:02:34.092Z
+Generated: 2026-10-20T00:32:35.455Z
 
 Users: 1656
 
@@ -16,13 +16,13 @@ Users: 1656
 | 8 | [phoscoder](https://github.com/phoscoder) | Victor Phos |  |  | Zimbabwe | 7387 |
 | 9 | [tapiwamakandigona](https://github.com/tapiwamakandigona) | Tapiwa Makandigona |  |  | Zimbabwe | 7324 |
 | 10 | [kudzaiprichard](https://github.com/kudzaiprichard) | Kudzai Prichard Matizirofa |  |  | Mashonaland West Province, Zimbabwe, Harare | 7186 |
-| 11 | [protendai](https://github.com/protendai) | Tendai Karuma | @code-stallion-zw | karumatendai | Harare Zimbabwe | 6369 |
-| 12 | [morebnyemba](https://github.com/morebnyemba) | Moreblessing Nyemba | Slyker Tech Web Services |  | Zimbabwe | 6315 |
-| 13 | [josemukorivo](https://github.com/josemukorivo) | Joseph Mukorivo | Complexus Technologies | josemukorivo | Harare, Zimbabwe | 6203 |
-| 14 | [tkmawarire](https://github.com/tkmawarire) | #SpecialForces |  |  | Harare, Zimbabwe | 5953 |
+| 11 | [tkmawarire](https://github.com/tkmawarire) | #SpecialForces |  |  | Harare, Zimbabwe | 6389 |
+| 12 | [protendai](https://github.com/protendai) | Tendai Karuma | @code-stallion-zw | karumatendai | Harare Zimbabwe | 6369 |
+| 13 | [morebnyemba](https://github.com/morebnyemba) | Moreblessing Nyemba | Slyker Tech Web Services |  | Zimbabwe | 6315 |
+| 14 | [josemukorivo](https://github.com/josemukorivo) | Joseph Mukorivo | Complexus Technologies | josemukorivo | Harare, Zimbabwe | 6203 |
 | 15 | [Tadiwr](https://github.com/Tadiwr) | Tadiwanashe Shangwa | @codaptdev | tadiwrr | Zimbabwe | 5768 |
 | 16 | [PraiseTechzw](https://github.com/PraiseTechzw) | Praise Masunga | Founder @ Campus Market | praisetech_zw | Chinhoyi, Zimbabwe | 5703 |
 | 17 | [xeroxzen](https://github.com/xeroxzen) | Andile Jaden Mbele | Vectra Dynamics, Optimeer Labs, Emzini weCode, ZimWorx | andilejaden | Zimbabwe | 5420 |
 | 18 | [chiroro-jr](https://github.com/chiroro-jr) | Nyasha Chiroro |  | chiroro_jr | Harare, Zimbabwe | 5413 |
 | 19 | [mosesmarimo](https://github.com/mosesmarimo) | Moses Marimo | @ihubcloud  | MosesMarimo | Harare, Zimbabwe | 5360 |
-| 20 | [XJ76](https://github.com/XJ76) | Joshua J Smith | @WYV-inc  |  | Harare | 5086 |
+| 20 | [johnmugabe](https://github.com/johnmugabe) | John Mugabe | @innfuture |  | Zimbabwe | 5225 |

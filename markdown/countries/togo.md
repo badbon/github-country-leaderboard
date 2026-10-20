@@ -16,8 +16,8 @@ Indexed users: 678
 | 2 | [gausoft](https://github.com/gausoft) | Gauthier Eholoum | Lomé, Togo | 13,346 |
 | 3 | [omarfarouk228](https://github.com/omarfarouk228) | Omar farouk KOUGBADA | Togo | 11,619 |
 | 4 | [MaximeKELI](https://github.com/MaximeKELI) | Maxime KELI | Lome,TOGO | 9,419 |
-| 5 | [kodesonik](https://github.com/kodesonik) | AMADOU AROUNA | Togo | 8,717 |
-| 6 | [GTW503](https://github.com/GTW503) | MEK | Togo | 8,610 |
+| 5 | [GTW503](https://github.com/GTW503) | MEK | Togo | 8,975 |
+| 6 | [kodesonik](https://github.com/kodesonik) | AMADOU AROUNA | Togo | 8,717 |
 | 7 | [hermannleboss](https://github.com/hermannleboss) | Hermann EHO | Lomé TOGO | 8,078 |
 | 8 | [DATAGNIKAN](https://github.com/DATAGNIKAN) | DATAGNI K. Armand Noël | Togo, Lomé | 6,578 |
 | 9 | [jeanclaudesoft](https://github.com/jeanclaudesoft) | Claudy | Togo | 5,994 |
@@ -83,4 +83,4 @@ Indexed users: 678
 | 19 | [ica1010](https://github.com/ica1010) | Ghislin | Lomé , Togo | 66 |
 | 20 | [Maximekgn](https://github.com/Maximekgn) | KOGON Mawunygan Maxime | Togo | 64 |
 
-Generated: 2026-10-19T22:55:54.221Z
+Generated: 2026-10-20T00:24:03.893Z

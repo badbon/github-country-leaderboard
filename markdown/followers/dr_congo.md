@@ -1,6 +1,6 @@
 # Followers - DR Congo
 
-Generated: 2026-10-19T23:25:27.798Z
+Generated: 2026-10-20T00:52:20.313Z
 
 Users: 701
 
@@ -18,7 +18,7 @@ Users: 701
 | 10 | [oesukam](https://github.com/oesukam) | Olivier M. Esuka |  | oesukam | Kinshasa, Nairobi, Kigali | 104 |
 | 11 | [IronOnet](https://github.com/IronOnet) | Arnaud Wanet | Symiar | Arnaud_Wanet | Kinshasa | 103 |
 | 12 | [hktom](https://github.com/hktom) | Tom Hikari | Akieni |  | Congo Kinshasa | 100 |
-| 13 | [valamandar](https://github.com/valamandar) | Vala Mandar | @mosala-group  | vala_mandar | RD Congo, Kinshasa | 90 |
+| 13 | [valamandar](https://github.com/valamandar) | Vala Mandar | @mosala-group  | vala_mandar | RD Congo, Kinshasa | 89 |
 | 14 | [fdis111](https://github.com/fdis111) | Francois Disubi |  |  | Kinshasa Drc | 87 |
 | 15 | [jlmbaka](https://github.com/jlmbaka) | Jean-Louis Mbaka | Kadea | jlmbaka | Kinshasa, DRC | 83 |
 | 16 | [RolandM99](https://github.com/RolandM99) | Roland MN | Reputable Tech Company | ManfulMwez | Kinshasa \| Kigali \| Nairobi | 83 |

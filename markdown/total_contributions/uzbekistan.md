@@ -1,8 +1,8 @@
 # Total Contributions - Uzbekistan
 
-Generated: 2026-10-19T23:01:07.748Z
+Generated: 2026-10-20T00:29:47.021Z
 
-Users: 9514
+Users: 9513
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -23,6 +23,6 @@ Users: 9514
 | 15 | [itsakbarov](https://github.com/itsakbarov) | Sardor | io.net | itsakbarov | Tashkent, Uzbekistan | 9240 |
 | 16 | [ummataliyev](https://github.com/ummataliyev) | Umidjon Ummataliyev | Safia |  | Tashkent | 9032 |
 | 17 | [Dave93](https://github.com/Dave93) | Davron Yuldashev |  | YulDavr | Tashkent, Uzbekistan | 8867 |
-| 18 | [lexoice](https://github.com/lexoice) | Alexey | Lex INC |  | Uzbekistan Tashkent | 8555 |
-| 19 | [azimRR](https://github.com/azimRR) | Abduazim Islomjonov | @azimapps |  | Tashkent | 8475 |
-| 20 | [pohlebkin](https://github.com/pohlebkin) | Boris Borisov | Everigin |  | Uzbekistan | 7999 |
+| 18 | [Mukhsin0508](https://github.com/Mukhsin0508) | Mukhsin Mukhtorov | Higgsfield AI |  | Tashkent | 8831 |
+| 19 | [lexoice](https://github.com/lexoice) | Alexey | Lex INC |  | Uzbekistan Tashkent | 8555 |
+| 20 | [azimRR](https://github.com/azimRR) | Abduazim Islomjonov | @azimapps |  | Tashkent | 8475 |

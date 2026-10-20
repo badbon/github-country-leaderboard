@@ -1,6 +1,6 @@
 # Public Contributions - Curaçao
 
-Generated: 2026-10-19T23:23:41.658Z
+Generated: 2026-10-20T00:49:16.912Z
 
 Users: 53
 

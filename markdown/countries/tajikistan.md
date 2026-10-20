@@ -15,7 +15,7 @@ Indexed users: 708
 | 1 | [OdinManiac](https://github.com/OdinManiac) | George | Tajikistan | 9,330 |
 | 2 | [veyxov](https://github.com/veyxov) | Shekhov Ismoil | Tajikistan | 9,177 |
 | 3 | [rahimov-yr](https://github.com/rahimov-yr) | Yusuf Rahimov | Tajikistan | 7,908 |
-| 4 | [UMARJO9](https://github.com/UMARJO9) | Умарджон Нурмадов | Tajikistan / Khujand / Dushanbe / Kulob | 6,921 |
+| 4 | [UMARJO9](https://github.com/UMARJO9) | Умарджон Нурмадов | Tajikistan / Khujand / Dushanbe / Kulob | 7,498 |
 | 5 | [umedsondoniyor](https://github.com/umedsondoniyor) | Umedzhon Izbasarov | Tajikistan/Dushanbe | 6,834 |
 | 6 | [shyn1ck](https://github.com/shyn1ck) | Parvizjon Hasanov | Taikistan, Dushanbe  | 6,654 |
 | 7 | [islom-sattorov](https://github.com/islom-sattorov) | islom-sattorov | Dushanbe, Tajikistan | 6,642 |
@@ -48,8 +48,8 @@ Indexed users: 708
 | 9 | [veyxov](https://github.com/veyxov) | Shekhov Ismoil | Tajikistan | 862 |
 | 10 | [Ilkhom-S](https://github.com/Ilkhom-S) | Ilkhom Safarov | Dushanbe, Tajikistan | 761 |
 | 11 | [Suhrob4ikk](https://github.com/Suhrob4ikk) | Suhrob Davlatov | Dushanbe, Tajikistan | 736 |
-| 12 | [Osaf-Abdulloev](https://github.com/Osaf-Abdulloev) | Abdulloev Osaf | Dushanbe | 658 |
-| 13 | [UMARJO9](https://github.com/UMARJO9) | Умарджон Нурмадов | Tajikistan / Khujand / Dushanbe / Kulob | 587 |
+| 12 | [UMARJO9](https://github.com/UMARJO9) | Умарджон Нурмадов | Tajikistan / Khujand / Dushanbe / Kulob | 669 |
+| 13 | [Osaf-Abdulloev](https://github.com/Osaf-Abdulloev) | Abdulloev Osaf | Dushanbe | 658 |
 | 14 | [GulomovCreative](https://github.com/GulomovCreative) | Bakhtovar Gulomov | Dushanbe, Tajikistan | 558 |
 | 15 | [Muhammadjon0204](https://github.com/Muhammadjon0204) | Muhammadjon Kosimov | Dushanbe | 507 |
 | 16 | [mehrvarshodiev](https://github.com/mehrvarshodiev) | Mehrvar Shodiev | Dushanbe | 502 |
@@ -83,4 +83,4 @@ Indexed users: 708
 | 19 | [11bit](https://github.com/11bit) | Ivan Buryak | Dushanbe | 49 |
 | 20 | [Abdughafur](https://github.com/Abdughafur) | Abdughafur Khujzoda | Tajikistan | 48 |
 
-Generated: 2026-10-19T22:53:38.077Z
+Generated: 2026-10-20T00:22:44.091Z

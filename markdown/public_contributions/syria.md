@@ -1,6 +1,6 @@
 # Public Contributions - Syria
 
-Generated: 2026-10-19T22:53:05.490Z
+Generated: 2026-10-20T00:22:04.033Z
 
 Users: 1480
 
@@ -15,10 +15,10 @@ Users: 1480
 | 7 | [AhmadKharfan](https://github.com/AhmadKharfan) | Ahmad Kharfan |  |  | Syria, Damascus | 1525 |
 | 8 | [ibrahimhamwi99](https://github.com/ibrahimhamwi99) | ibrahimhamwi  |  |  | syria | 1498 |
 | 9 | [Abdomghrbi](https://github.com/Abdomghrbi) | Abdullrahman almaghrabi | Freelancer | AbdoMaghrbi | Syria | 1252 |
-| 10 | [Hakam-aldeen-Kh](https://github.com/Hakam-aldeen-Kh) | Hakam aldeen Alkhadraa | Sham Logix |  | Syria | 1193 |
-| 11 | [firasuke](https://github.com/firasuke) | Firas Khana | @glaucuslinux  |  | Aleppo, Syria | 1168 |
-| 12 | [DrAbdulmalek](https://github.com/DrAbdulmalek) | Dr Abdulmalek Al-Husseini |  |  | Syria | 1158 |
-| 13 | [ali-talal-ibrahem](https://github.com/ali-talal-ibrahem) | Ali Talal Ibrahem |  |  | syria | 1153 |
+| 10 | [ali-talal-ibrahem](https://github.com/ali-talal-ibrahem) | Ali Talal Ibrahem |  |  | syria | 1193 |
+| 11 | [Hakam-aldeen-Kh](https://github.com/Hakam-aldeen-Kh) | Hakam aldeen Alkhadraa | Sham Logix |  | Syria | 1193 |
+| 12 | [firasuke](https://github.com/firasuke) | Firas Khana | @glaucuslinux  |  | Aleppo, Syria | 1168 |
+| 13 | [DrAbdulmalek](https://github.com/DrAbdulmalek) | Dr Abdulmalek Al-Husseini |  |  | Syria | 1158 |
 | 14 | [YAZAN420](https://github.com/YAZAN420) | YazanMahfooz |  |  | Syria | 1082 |
 | 15 | [amurru](https://github.com/amurru) | Ammar Zerouk |  |  | Syria | 1007 |
 | 16 | [AliMohammadDev](https://github.com/AliMohammadDev) | Ali Mohammad |  |  | Syria | 1005 |
