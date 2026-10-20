@@ -36475,7 +36475,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 23,
+    "privateContributions": 19,
     "publicContributions": 5,
     "createdAt": "2020-02-06T18:01:35Z"
   },
@@ -36487,8 +36487,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 674,
-    "publicContributions": 97,
+    "privateContributions": 309,
+    "publicContributions": 49,
     "createdAt": "2020-01-24T15:33:08Z"
   },
   {
@@ -36499,7 +36499,7 @@
     "company": "",
     "twitterUsername": "daniel_kariti",
     "followers": 7,
-    "privateContributions": 14,
+    "privateContributions": 12,
     "publicContributions": 0,
     "createdAt": "2020-01-31T10:12:58Z"
   },
@@ -36510,9 +36510,9 @@
     "location": "Israel",
     "company": "SceneMax3D",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 579,
+    "publicContributions": 711,
     "createdAt": "2020-06-23T09:42:56Z"
   },
   {
@@ -36548,7 +36548,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2020-04-07T13:33:13Z"
   },
   {
@@ -36559,7 +36559,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 136,
+    "privateContributions": 494,
     "publicContributions": 0,
     "createdAt": "2020-03-08T21:01:37Z"
   },
@@ -36583,8 +36583,8 @@
     "company": "Zscaler",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 104,
-    "publicContributions": 9,
+    "privateContributions": 131,
+    "publicContributions": 6,
     "createdAt": "2020-03-01T08:22:24Z"
   },
   {
@@ -36595,20 +36595,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 0,
+    "privateContributions": 3,
     "publicContributions": 1,
     "createdAt": "2020-01-31T18:28:40Z"
   },
   {
     "login": "lior-maman",
     "name": "Lior",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/60651977?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/60651977?s=72&u=33e6af5f0fafedd5d092931811f5db867780f975&v=4",
     "location": "Israel",
     "company": "",
-    "twitterUsername": "",
+    "twitterUsername": "liormman",
     "followers": 6,
-    "privateContributions": 197,
-    "publicContributions": 248,
+    "privateContributions": 290,
+    "publicContributions": 303,
     "createdAt": "2020-02-04T11:23:48Z"
   },
   {
@@ -36618,9 +36618,9 @@
     "location": "Israel",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 623,
+    "publicContributions": 680,
     "createdAt": "2020-02-09T14:24:38Z"
   },
   {
@@ -36632,7 +36632,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 42,
     "createdAt": "2020-05-20T12:07:42Z"
   },
   {
@@ -36655,8 +36655,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 3,
-    "publicContributions": 22,
+    "privateContributions": 4,
+    "publicContributions": 24,
     "createdAt": "2020-01-08T20:16:45Z"
   },
   {
@@ -36668,7 +36668,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 4,
     "createdAt": "2020-04-09T23:07:11Z"
   },
   {

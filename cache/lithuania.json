@@ -36620,7 +36620,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2016-02-23T17:10:41Z"
   },
   {
@@ -36643,7 +36643,7 @@
     "company": "Bentley Systems Inc.",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 3088,
+    "privateContributions": 3496,
     "publicContributions": 0,
     "createdAt": "2016-04-29T07:17:23Z"
   },
@@ -36680,7 +36680,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 111,
+    "publicContributions": 176,
     "createdAt": "2016-03-26T18:41:18Z"
   },
   {
@@ -36692,7 +36692,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 38,
+    "publicContributions": 16,
     "createdAt": "2016-10-15T15:31:55Z"
   },
   {
@@ -36711,11 +36711,11 @@
     "login": "ManfredasMi",
     "name": "Manfredas Minikas",
     "avatarUrl": "https://avatars.githubusercontent.com/u/22548711?s=72&u=5c8038736c5af89846c1295eb9c7dddbb9778951&v=4",
-    "location": "Vilnius, Lithuania",
+    "location": "Lithuania",
     "company": "Vodafone UK",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 376,
+    "privateContributions": 619,
     "publicContributions": 0,
     "createdAt": "2016-09-30T17:14:29Z"
   },
@@ -36740,7 +36740,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2016-05-14T13:45:51Z"
   },
   {
@@ -36762,9 +36762,9 @@
     "location": "Lithuania",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 3,
     "privateContributions": 8,
-    "publicContributions": 7,
+    "publicContributions": 1,
     "createdAt": "2016-10-19T19:08:39Z"
   },
   {
@@ -36775,7 +36775,7 @@
     "company": "@cybergizer-hq ",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 313,
+    "privateContributions": 361,
     "publicContributions": 3,
     "createdAt": "2016-03-18T15:07:49Z"
   },
@@ -36786,9 +36786,9 @@
     "location": "Kaunas, Lithuania. ",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2016-07-30T11:18:02Z"
   },
   {
@@ -36798,8 +36798,8 @@
     "location": "Lithuania",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 443,
+    "followers": 3,
+    "privateContributions": 236,
     "publicContributions": 0,
     "createdAt": "2016-04-04T14:24:15Z"
   },
@@ -36811,8 +36811,8 @@
     "company": "",
     "twitterUsername": "Jurgyte",
     "followers": 4,
-    "privateContributions": 1113,
-    "publicContributions": 25,
+    "privateContributions": 1583,
+    "publicContributions": 0,
     "createdAt": "2016-07-21T08:10:29Z"
   },
   {
@@ -36823,7 +36823,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 913,
+    "privateContributions": 656,
     "publicContributions": 0,
     "createdAt": "2016-01-25T18:22:15Z"
   },
@@ -36835,8 +36835,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 51,
-    "publicContributions": 21,
+    "privateContributions": 50,
+    "publicContributions": 14,
     "createdAt": "2016-01-09T14:42:36Z"
   },
   {
@@ -36846,8 +36846,8 @@
     "location": "Vilnius, Lithuania",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 1211,
+    "followers": 4,
+    "privateContributions": 1541,
     "publicContributions": 0,
     "createdAt": "2016-03-20T19:01:32Z"
   },
