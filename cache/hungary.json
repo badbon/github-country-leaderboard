@@ -37999,8 +37999,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 2,
-    "publicContributions": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
     "createdAt": "2020-12-01T17:44:41Z"
   },
   {
@@ -38011,8 +38011,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 5,
-    "publicContributions": 9,
+    "privateContributions": 7,
+    "publicContributions": 8,
     "createdAt": "2020-05-06T17:27:11Z"
   },
   {
@@ -38023,7 +38023,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 750,
+    "privateContributions": 707,
     "publicContributions": 0,
     "createdAt": "2020-08-01T19:15:50Z"
   },
@@ -38107,8 +38107,8 @@
     "company": "BME",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 76,
-    "publicContributions": 6,
+    "privateContributions": 84,
+    "publicContributions": 2,
     "createdAt": "2020-02-07T21:02:36Z"
   },
   {
@@ -38119,8 +38119,8 @@
     "company": "Budapest university of technology and economics",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 7,
-    "publicContributions": 17,
+    "privateContributions": 6,
+    "publicContributions": 10,
     "createdAt": "2020-03-15T19:43:20Z"
   },
   {
@@ -38131,8 +38131,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 543,
-    "publicContributions": 20,
+    "privateContributions": 443,
+    "publicContributions": 101,
     "createdAt": "2020-03-03T20:34:04Z"
   },
   {
@@ -38142,9 +38142,9 @@
     "location": "Budapest",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 393,
-    "publicContributions": 56,
+    "followers": 5,
+    "privateContributions": 341,
+    "publicContributions": 57,
     "createdAt": "2020-09-02T06:15:49Z"
   },
   {
@@ -38155,7 +38155,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 12,
+    "privateContributions": 11,
     "publicContributions": 0,
     "createdAt": "2020-05-29T11:12:15Z"
   },
@@ -38166,7 +38166,7 @@
     "location": "Budapest",
     "company": "Ericsson",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-06-28T12:05:38Z"
@@ -38191,8 +38191,8 @@
     "company": "Wise",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 745,
-    "publicContributions": 3,
+    "privateContributions": 778,
+    "publicContributions": 2,
     "createdAt": "2020-07-24T12:55:55Z"
   },
   {
