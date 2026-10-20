@@ -36206,13 +36206,13 @@
   {
     "login": "WafaBenyettou",
     "name": "k3rberO5",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/83190429?s=72&u=b4423432cdac602d9342502e33261dd749369372&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/83190429?s=72&v=4",
     "location": "Algiers",
-    "company": "@keystonedz",
+    "company": "",
     "twitterUsername": "",
     "followers": 86,
     "privateContributions": 8,
-    "publicContributions": 11,
+    "publicContributions": 2,
     "createdAt": "2021-04-25T23:15:53Z"
   },
   {
@@ -36222,9 +36222,9 @@
     "location": "Algiers",
     "company": "ESI ",
     "twitterUsername": "",
-    "followers": 62,
-    "privateContributions": 183,
-    "publicContributions": 45,
+    "followers": 59,
+    "privateContributions": 171,
+    "publicContributions": 46,
     "createdAt": "2021-06-09T11:48:46Z"
   },
   {
@@ -36234,9 +36234,9 @@
     "location": "Algieria,Algiers",
     "company": "Founder Of WorldWebSolutions",
     "twitterUsername": "",
-    "followers": 59,
-    "privateContributions": 24,
-    "publicContributions": 83,
+    "followers": 61,
+    "privateContributions": 103,
+    "publicContributions": 87,
     "createdAt": "2021-08-28T22:31:57Z"
   },
   {
@@ -36247,8 +36247,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 56,
-    "privateContributions": 165,
-    "publicContributions": 21,
+    "privateContributions": 286,
+    "publicContributions": 24,
     "createdAt": "2021-07-29T00:15:57Z"
   },
   {
@@ -36258,8 +36258,8 @@
     "location": "Algiers",
     "company": "Higher National School of CS algiers",
     "twitterUsername": "",
-    "followers": 51,
-    "privateContributions": 919,
+    "followers": 53,
+    "privateContributions": 893,
     "publicContributions": 10,
     "createdAt": "2021-01-08T15:36:10Z"
   },
@@ -36270,9 +36270,9 @@
     "location": "Algiers",
     "company": "@GDGAlgiers",
     "twitterUsername": "",
-    "followers": 48,
-    "privateContributions": 5090,
-    "publicContributions": 90,
+    "followers": 47,
+    "privateContributions": 4720,
+    "publicContributions": 89,
     "createdAt": "2021-09-01T00:22:59Z"
   },
   {
@@ -36282,8 +36282,8 @@
     "location": "Algiers",
     "company": "3S PAY",
     "twitterUsername": "",
-    "followers": 46,
-    "privateContributions": 849,
+    "followers": 36,
+    "privateContributions": 846,
     "publicContributions": 0,
     "createdAt": "2021-03-14T09:46:18Z"
   },
@@ -36300,40 +36300,16 @@
     "createdAt": "2021-07-01T13:18:53Z"
   },
   {
-    "login": "Wissemamr",
-    "name": "Wissem Amar",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/87913560?s=72&u=ebd9c365822cb24af6236f25ab337e734e8ba9e7&v=4",
-    "location": "Algiers",
-    "company": "ESTIN",
-    "twitterUsername": "",
-    "followers": 27,
-    "privateContributions": 247,
-    "publicContributions": 7,
-    "createdAt": "2021-07-24T19:39:43Z"
-  },
-  {
     "login": "GuechtouliAnis",
-    "name": "Anis Guechtouli",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/81176327?s=72&u=a0bc07e78d466ab9fe2c42bfc9b5d266e50c8cb3&v=4",
+    "name": "Guechtouli Anis",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/81176327?s=72&u=e95744c5d800acc99d2c3d974b4c6376d6286d64&v=4",
     "location": "Algiers",
-    "company": "",
+    "company": "Hydrapharm Group",
     "twitterUsername": "",
-    "followers": 19,
-    "privateContributions": 130,
-    "publicContributions": 114,
+    "followers": 18,
+    "privateContributions": 106,
+    "publicContributions": 87,
     "createdAt": "2021-03-22T15:24:07Z"
-  },
-  {
-    "login": "Mimadfaoussi",
-    "name": "Imad Faoussi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/93826012?s=72&u=59eb80a85441f3df9f2b29cda19c4c7b04221d9b&v=4",
-    "location": "algiers",
-    "company": "faoussi",
-    "twitterUsername": "",
-    "followers": 16,
-    "privateContributions": 158,
-    "publicContributions": 6,
-    "createdAt": "2021-11-06T12:45:11Z"
   },
   {
     "login": "RamiLGH8",
@@ -36344,19 +36320,19 @@
     "twitterUsername": "",
     "followers": 15,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 23,
     "createdAt": "2021-12-07T06:28:53Z"
   },
   {
     "login": "OUARAS-khelil-Rafik",
-    "name": "Khelil Rafik OUARAS",
+    "name": "OUARAS Khelil Rafik",
     "avatarUrl": "https://avatars.githubusercontent.com/u/79814954?s=72&u=8a6b1cf19e70d9244356c9da68469da332b0b97f&v=4",
     "location": "The Eucalyptus - Algiers",
     "company": "",
     "twitterUsername": "Khelil_OUARAS",
-    "followers": 15,
-    "privateContributions": 16,
-    "publicContributions": 184,
+    "followers": 16,
+    "privateContributions": 3,
+    "publicContributions": 186,
     "createdAt": "2021-02-28T23:44:44Z"
   },
   {
@@ -36368,7 +36344,7 @@
     "twitterUsername": "HamzaAbdelalii",
     "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2021-01-25T19:23:13Z"
   },
   {

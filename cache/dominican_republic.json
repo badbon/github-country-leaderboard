@@ -36858,7 +36858,7 @@
     "location": "Santo Domingo",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-06-19T18:16:44Z"
@@ -36932,7 +36932,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 3,
     "createdAt": "2013-01-20T08:56:34Z"
   },
   {
@@ -36954,7 +36954,7 @@
     "location": "Dominican Republic",
     "company": "CrossGeeks",
     "twitterUsername": "",
-    "followers": 225,
+    "followers": 227,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2012-10-12T21:32:34Z"
@@ -36964,11 +36964,11 @@
     "name": "Francis Brito",
     "avatarUrl": "https://avatars.githubusercontent.com/u/2180822?s=72&u=61fc16c63c1eb0fa38bd6c31049da57bf66d1d16&v=4",
     "location": "Santo Domingo, Dominican Republic",
-    "company": "@paymentstack",
+    "company": "@govox",
     "twitterUsername": "",
-    "followers": 153,
-    "privateContributions": 542,
-    "publicContributions": 0,
+    "followers": 155,
+    "privateContributions": 2615,
+    "publicContributions": 3,
     "createdAt": "2012-08-20T02:18:17Z"
   },
   {
@@ -36978,7 +36978,7 @@
     "location": "Dominican Republic",
     "company": "@streamelopers",
     "twitterUsername": "eatskolnikov",
-    "followers": 149,
+    "followers": 147,
     "privateContributions": 0,
     "publicContributions": 37,
     "createdAt": "2012-04-30T16:13:57Z"
@@ -36990,9 +36990,9 @@
     "location": "Dominican Republic",
     "company": "",
     "twitterUsername": "eudriscabrera",
-    "followers": 106,
+    "followers": 108,
     "privateContributions": 0,
-    "publicContributions": 231,
+    "publicContributions": 211,
     "createdAt": "2012-11-13T18:00:57Z"
   },
   {
@@ -37002,33 +37002,21 @@
     "location": "Dominican Republic",
     "company": "",
     "twitterUsername": "jzabalasanchez",
-    "followers": 71,
+    "followers": 72,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2012-01-09T12:07:57Z"
-  },
-  {
-    "login": "elminson",
-    "name": "Elminson De Oleo Baez",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/2476286?s=72&u=824eaa3eaff3a1c14e86ff0f1a54c059d7877d26&v=4",
-    "location": "Santo Domingo, Dominican Republic",
-    "company": "Refersion",
-    "twitterUsername": "",
-    "followers": 57,
-    "privateContributions": 7502,
-    "publicContributions": 173,
-    "createdAt": "2012-10-03T03:13:28Z"
   },
   {
     "login": "DiogenesPolanco",
     "name": "Diógenes Polanco",
     "avatarUrl": "https://avatars.githubusercontent.com/u/2844235?s=72&u=1719aa4d00908e42615ba398b969fc2c5369a75d&v=4",
     "location": "Dominican Republic",
-    "company": "APAP",
+    "company": "",
     "twitterUsername": "diogenespolanco",
     "followers": 56,
     "privateContributions": 0,
-    "publicContributions": 1219,
+    "publicContributions": 1301,
     "createdAt": "2012-11-20T12:59:07Z"
   },
   {
@@ -37038,9 +37026,9 @@
     "location": "Santo Domingo, DN, Dominican Republic",
     "company": "",
     "twitterUsername": "",
-    "followers": 53,
-    "privateContributions": 965,
-    "publicContributions": 1348,
+    "followers": 51,
+    "privateContributions": 1617,
+    "publicContributions": 2275,
     "createdAt": "2012-07-15T14:48:39Z"
   },
   {
@@ -37050,9 +37038,9 @@
     "location": "Santo Domingo, Dominican Republic",
     "company": "",
     "twitterUsername": "",
-    "followers": 50,
-    "privateContributions": 614,
-    "publicContributions": 974,
+    "followers": 51,
+    "privateContributions": 2367,
+    "publicContributions": 996,
     "createdAt": "2012-10-10T00:56:11Z"
   },
   {
@@ -37062,8 +37050,8 @@
     "location": "Dominican Republic",
     "company": "",
     "twitterUsername": "",
-    "followers": 47,
-    "privateContributions": 7,
+    "followers": 48,
+    "privateContributions": 40,
     "publicContributions": 5,
     "createdAt": "2012-07-17T15:45:28Z"
   },
@@ -37086,8 +37074,8 @@
     "location": "Dominican Republic",
     "company": "@x-team @maxwellhealth ",
     "twitterUsername": "",
-    "followers": 38,
-    "privateContributions": 1210,
+    "followers": 39,
+    "privateContributions": 1526,
     "publicContributions": 0,
     "createdAt": "2012-03-02T19:52:39Z"
   },

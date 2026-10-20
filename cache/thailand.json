@@ -36216,18 +36216,6 @@
     "createdAt": "2021-12-29T16:00:55Z"
   },
   {
-    "login": "PraeJi",
-    "name": "PraeJirapa",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/99627859?s=72&u=67f26daa1210fb1692f182ab1d27a1f04bc85011&v=4",
-    "location": "Bangkok,Thailand",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 64,
-    "createdAt": "2022-02-14T02:47:09Z"
-  },
-  {
     "login": "guywarintorn",
     "name": "guy_warin",
     "avatarUrl": "https://avatars.githubusercontent.com/u/100658512?s=72&u=820b2930e17af0a86b0f1849b31e98bc5ffc047f&v=4",
@@ -36294,9 +36282,9 @@
     "location": "Thailand",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 173,
     "createdAt": "2022-04-03T08:42:11Z"
   },
   {
@@ -36320,7 +36308,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 42,
     "createdAt": "2022-04-25T09:29:37Z"
   },
   {
@@ -36343,21 +36331,9 @@
     "company": "@RMUTL",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 124,
-    "publicContributions": 87,
+    "privateContributions": 398,
+    "publicContributions": 23,
     "createdAt": "2022-03-02T17:08:41Z"
-  },
-  {
-    "login": "cninet",
-    "name": "Chotiwat Tangsathaphorn (Pegasus till 24/7/2569)",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/102142240?s=72&u=c1a0a36828df4d0f7df0379ed5445ab09a356dfa&v=4",
-    "location": "Bangkok, Thailand ",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 260,
-    "createdAt": "2022-03-22T08:00:00Z"
   },
   {
     "login": "NamfonSaphu",
@@ -36380,7 +36356,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 20,
     "createdAt": "2022-02-19T03:56:40Z"
   },
   {
@@ -36392,7 +36368,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 15,
     "createdAt": "2022-05-03T08:05:41Z"
   },
   {
@@ -36403,8 +36379,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 14,
-    "publicContributions": 376,
+    "privateContributions": 13,
+    "publicContributions": 187,
     "createdAt": "2022-01-21T13:19:01Z"
   },
   {
@@ -36415,8 +36391,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1013,
-    "publicContributions": 20,
+    "privateContributions": 242,
+    "publicContributions": 19,
     "createdAt": "2022-01-28T06:34:46Z"
   },
   {
@@ -36427,8 +36403,8 @@
     "company": "NDR Solution (Thailand) Co., Ltd.",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1389,
-    "publicContributions": 0,
+    "privateContributions": 1660,
+    "publicContributions": 1,
     "createdAt": "2022-04-18T03:03:08Z"
   },
   {
@@ -36439,7 +36415,7 @@
     "company": "Ginkgo Soft Co.,Ltd.",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 680,
+    "privateContributions": 753,
     "publicContributions": 0,
     "createdAt": "2022-03-01T07:07:33Z"
   },
@@ -36450,8 +36426,8 @@
     "location": "Bangkok, Thailand",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
+    "followers": 2,
+    "privateContributions": 497,
     "publicContributions": 197,
     "createdAt": "2022-05-04T15:05:56Z"
   },

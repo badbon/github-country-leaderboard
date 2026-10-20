@@ -35688,18 +35688,6 @@
     "createdAt": "2023-10-18T18:04:12Z"
   },
   {
-    "login": "Xentiles",
-    "name": "Xentiles",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/150947355?s=72&u=58fefa7d42e467f37816cbc0592ac9d4743a765e&v=4",
-    "location": "Sweden",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2023-11-15T16:56:21Z"
-  },
-  {
     "login": "ESU82917",
     "name": "E.... S.........",
     "avatarUrl": "https://avatars.githubusercontent.com/u/142593621?s=72&u=a53baaafbdbb40ea0267ce5a8f53bb25545645ba&v=4",
@@ -35720,7 +35708,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 15,
     "createdAt": "2023-09-15T09:16:36Z"
   },
   {
@@ -35730,7 +35718,7 @@
     "location": "Stockholm, Sweden",
     "company": "SAS - Scandinavian Airlines",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-11-13T13:00:03Z"
@@ -35755,7 +35743,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 4,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-11-07T19:54:30Z"
   },
@@ -35845,14 +35833,14 @@
   },
   {
     "login": "SmOdDoX",
-    "name": "Maximilian Schöniken",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/142063112?s=72&u=5c31f276f2a28c2e340db0d56422a99dd3d670e6&v=4",
+    "name": "Dimitri Maxim Trazyn",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/142063112?s=72&u=fc38b5e545c871841082b9606569e73ebdebf110&v=4",
     "location": "sweden",
-    "company": "NovaHaul-Store.com",
+    "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 10,
+    "privateContributions": 3,
+    "publicContributions": 5,
     "createdAt": "2023-08-11T23:31:11Z"
   },
   {
@@ -35863,8 +35851,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 344,
-    "publicContributions": 90,
+    "privateContributions": 315,
+    "publicContributions": 191,
     "createdAt": "2023-08-26T09:00:32Z"
   },
   {
@@ -35923,7 +35911,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 52,
+    "privateContributions": 28,
     "publicContributions": 0,
     "createdAt": "2023-11-14T07:48:36Z"
   },

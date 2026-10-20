@@ -36128,7 +36128,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 0,
     "createdAt": "2025-10-16T12:10:48Z"
   },
   {
@@ -36164,7 +36164,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 30,
+    "publicContributions": 31,
     "createdAt": "2025-01-23T08:05:08Z"
   },
   {
@@ -36187,8 +36187,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 2,
-    "publicContributions": 34,
+    "privateContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2025-07-10T17:25:59Z"
   },
   {
@@ -36212,7 +36212,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 3,
     "createdAt": "2025-11-13T18:45:10Z"
   },
   {
@@ -36234,21 +36234,21 @@
     "location": "Istanbul",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 15,
     "createdAt": "2025-07-17T07:50:39Z"
   },
   {
     "login": "BoraYalcinn",
     "name": "Bora Yalçın",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/195580819?s=72&u=c65b7b4583ed9085f4d179f203de9bffd33dbd60&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/195580819?s=72&u=9261a4440f9fdb71f8e62387389f33dd3d0592fc&v=4",
     "location": "İstanbul",
-    "company": "atmosware",
+    "company": "UTBM",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 298,
+    "publicContributions": 711,
     "createdAt": "2025-01-18T17:33:56Z"
   },
   {
@@ -36258,9 +36258,9 @@
     "location": "İstanbul",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 30,
     "createdAt": "2025-10-30T16:18:47Z"
   },
   {
@@ -36270,22 +36270,10 @@
     "location": "Istanbul",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 23,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 26,
     "createdAt": "2025-10-08T20:03:46Z"
-  },
-  {
-    "login": "kerimcodes",
-    "name": "Kerim",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/215306079?s=72&u=50593475264fb8a588992423d060d50f6e6849be&v=4",
-    "location": "istanbul",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 79,
-    "createdAt": "2025-06-07T18:23:26Z"
   },
   {
     "login": "zuleyha-erdogan",
@@ -36308,7 +36296,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 30,
+    "publicContributions": 3,
     "createdAt": "2025-06-24T10:19:37Z"
   },
   {
@@ -36344,7 +36332,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 29,
     "createdAt": "2025-11-24T22:06:08Z"
   },
   {

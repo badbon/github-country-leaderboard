@@ -36344,7 +36344,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 43,
+    "publicContributions": 57,
     "createdAt": "2024-04-30T21:53:05Z"
   },
   {
@@ -36378,9 +36378,9 @@
     "location": "colombia",
     "company": "isometrical-game-company",
     "twitterUsername": "",
-    "followers": 171,
-    "privateContributions": 49,
-    "publicContributions": 406,
+    "followers": 104,
+    "privateContributions": 145,
+    "publicContributions": 459,
     "createdAt": "2023-01-31T00:53:41Z"
   },
   {
@@ -36390,21 +36390,21 @@
     "location": "Colombia",
     "company": "",
     "twitterUsername": "",
-    "followers": 119,
+    "followers": 136,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 11,
     "createdAt": "2023-01-17T12:50:52Z"
   },
   {
     "login": "darwinovalle",
     "name": "Darwin Ovalle",
     "avatarUrl": "https://avatars.githubusercontent.com/u/126737315?s=72&u=c3498f1404818927b57ddca9637ddc89ab316dbc&v=4",
-    "location": "Colombia",
+    "location": "Bogota, Colombia",
     "company": "",
     "twitterUsername": "",
-    "followers": 64,
-    "privateContributions": 618,
-    "publicContributions": 21,
+    "followers": 104,
+    "privateContributions": 280,
+    "publicContributions": 436,
     "createdAt": "2023-03-02T01:52:22Z"
   },
   {
@@ -36414,9 +36414,9 @@
     "location": "Colombia",
     "company": "",
     "twitterUsername": "",
-    "followers": 50,
-    "privateContributions": 868,
-    "publicContributions": 966,
+    "followers": 56,
+    "privateContributions": 299,
+    "publicContributions": 1333,
     "createdAt": "2023-03-24T01:53:34Z"
   },
   {
@@ -36426,7 +36426,7 @@
     "location": "Colombia",
     "company": "Freelancer",
     "twitterUsername": "VannesanDev",
-    "followers": 46,
+    "followers": 45,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-02-16T00:58:39Z"
@@ -36438,9 +36438,9 @@
     "location": "Bucaramanga, Colombia",
     "company": "UTS",
     "twitterUsername": "",
-    "followers": 40,
+    "followers": 41,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 15,
     "createdAt": "2023-01-31T19:37:42Z"
   },
   {
@@ -36450,9 +36450,9 @@
     "location": "Bucaramanga/Colombia",
     "company": "CampusLands",
     "twitterUsername": "",
-    "followers": 37,
+    "followers": 36,
     "privateContributions": 0,
-    "publicContributions": 58,
+    "publicContributions": 45,
     "createdAt": "2023-02-13T17:59:19Z"
   },
   {
@@ -36462,9 +36462,9 @@
     "location": "Colombia",
     "company": "Microverse",
     "twitterUsername": "VonUsma",
-    "followers": 36,
+    "followers": 37,
     "privateContributions": 0,
-    "publicContributions": 171,
+    "publicContributions": 201,
     "createdAt": "2023-03-02T16:32:56Z"
   },
   {
@@ -36476,7 +36476,7 @@
     "twitterUsername": "",
     "followers": 33,
     "privateContributions": 0,
-    "publicContributions": 44,
+    "publicContributions": 49,
     "createdAt": "2023-03-08T18:04:41Z"
   },
   {
@@ -36486,9 +36486,9 @@
     "location": "Colombia",
     "company": "Kondory",
     "twitterUsername": "hotpotastaroth",
-    "followers": 31,
-    "privateContributions": 113,
-    "publicContributions": 344,
+    "followers": 14,
+    "privateContributions": 63,
+    "publicContributions": 225,
     "createdAt": "2023-03-19T04:29:34Z"
   },
   {
@@ -36499,8 +36499,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 30,
-    "privateContributions": 3737,
-    "publicContributions": 463,
+    "privateContributions": 6116,
+    "publicContributions": 312,
     "createdAt": "2023-01-24T20:01:31Z"
   },
   {
@@ -36510,9 +36510,9 @@
     "location": "Colombia",
     "company": "",
     "twitterUsername": "",
-    "followers": 29,
+    "followers": 26,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 21,
     "createdAt": "2023-02-24T15:35:51Z"
   },
   {
@@ -36522,9 +36522,9 @@
     "location": "Colombia",
     "company": "Pontificia Univerisity Javeriana",
     "twitterUsername": "",
-    "followers": 29,
+    "followers": 43,
     "privateContributions": 0,
-    "publicContributions": 269,
+    "publicContributions": 290,
     "createdAt": "2023-02-23T00:10:28Z"
   },
   {
@@ -36546,22 +36546,10 @@
     "location": "Bogotá, Colombia",
     "company": "Pontificia Universidad Javeriana",
     "twitterUsername": "",
-    "followers": 28,
-    "privateContributions": 189,
-    "publicContributions": 267,
+    "followers": 29,
+    "privateContributions": 225,
+    "publicContributions": 232,
     "createdAt": "2023-02-04T20:08:38Z"
-  },
-  {
-    "login": "JuanDiegoQuinteroCampus",
-    "name": "Juan Diego Quintero",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/124152014?s=72&u=3cc5af14a78e6fd4bc4a40583620e9874d52ac2e&v=4",
-    "location": "Santander, Colombia",
-    "company": "Corporación Avance",
-    "twitterUsername": "",
-    "followers": 27,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2023-02-01T11:05:02Z"
   },
   {
     "login": "Dev-Mao",
