@@ -55,8 +55,8 @@ Indexed users: 1,795
 | 16 | [Hermann-Core](https://github.com/Hermann-Core) | Hermann Core | Cameroon | 1,421 |
 | 17 | [Koufan-De-King](https://github.com/Koufan-De-King) | King-Koufan | Cameroon | 1,419 |
 | 18 | [JOELNATHAN544](https://github.com/JOELNATHAN544) | Joel Nathan Wanko | Cameroon, Bangangté  | 1,388 |
-| 19 | [PromiseFru](https://github.com/PromiseFru) | Promise Fru | Cameroon | 1,354 |
-| 20 | [Mbiydzenyuy3](https://github.com/Mbiydzenyuy3) | Leila | Yaounde, Cameroon | 1,348 |
+| 19 | [Mbiydzenyuy3](https://github.com/Mbiydzenyuy3) | Leila | Yaounde, Cameroon | 1,348 |
+| 20 | [PromiseFru](https://github.com/PromiseFru) | Promise Fru | Cameroon | 1,339 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,795
 | 19 | [baimamboukar](https://github.com/baimamboukar) | BAIMAM BOUKAR JEAN JACQUES | Yaoundé | 170 |
 | 20 | [Suprememajor](https://github.com/Suprememajor) | Nobert Etta | Buea, Cameroon | 168 |
 
-Generated: 2026-10-20T20:33:05.126Z
+Generated: 2026-10-20T22:05:42.057Z

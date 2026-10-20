@@ -22,16 +22,16 @@ Indexed users: 5,625
 | 8 | [Josue19-08](https://github.com/Josue19-08) | Josué Araya Marín | Costa Rica | 7,763 |
 | 9 | [lapc506](https://github.com/lapc506) | Andrés Peña | Heredia, Costa Rica | 7,663 |
 | 10 | [alexgordon25](https://github.com/alexgordon25) | Daniel Gordon | Costa Rica | 7,434 |
-| 11 | [HenryM8](https://github.com/HenryM8) | 𝙷𝚎𝚗𝚛𝚢 𝙼𝚊𝚛𝚒́𝚗 | Costa Rica | 7,023 |
-| 12 | [xavier506](https://github.com/xavier506) | Xavier Fernandez | Costa Rica | 6,797 |
-| 13 | [Tgarcia7](https://github.com/Tgarcia7) |  Tey García | San José, Costa Rica | 6,736 |
-| 14 | [dbejarano820](https://github.com/dbejarano820) | Daniel Bejarano | Costa Rica | 6,549 |
-| 15 | [Eduardof0nt](https://github.com/Eduardof0nt) | Eduardo Font Cruz | Costa Rica | 6,187 |
-| 16 | [KentoNishi](https://github.com/KentoNishi) | Kento Nishi | Cambridge, MA / San Jose, CA | 6,091 |
-| 17 | [elianortega](https://github.com/elianortega) | Elian Ortega | San Jose, Costa Rica | 6,029 |
-| 18 | [nestormata](https://github.com/nestormata) | Nestor Mata Cuthbert | Costa Rica | 5,743 |
-| 19 | [saihdez](https://github.com/saihdez) | saihdez | Costa Rica, Heredia | 5,706 |
-| 20 | [alejandrochava](https://github.com/alejandrochava) | Alejandro | Costa Rica | 5,601 |
+| 11 | [ferdotgg](https://github.com/ferdotgg) | Fernando Briceño | Costa Rica | 7,319 |
+| 12 | [HenryM8](https://github.com/HenryM8) | 𝙷𝚎𝚗𝚛𝚢 𝙼𝚊𝚛𝚒́𝚗 | Costa Rica | 7,023 |
+| 13 | [xavier506](https://github.com/xavier506) | Xavier Fernandez | Costa Rica | 6,797 |
+| 14 | [Tgarcia7](https://github.com/Tgarcia7) |  Tey García | San José, Costa Rica | 6,736 |
+| 15 | [dbejarano820](https://github.com/dbejarano820) | Daniel Bejarano | Costa Rica | 6,549 |
+| 16 | [Eduardof0nt](https://github.com/Eduardof0nt) | Eduardo Font Cruz | Costa Rica | 6,187 |
+| 17 | [KentoNishi](https://github.com/KentoNishi) | Kento Nishi | Cambridge, MA / San Jose, CA | 6,091 |
+| 18 | [elianortega](https://github.com/elianortega) | Elian Ortega | San Jose, Costa Rica | 6,029 |
+| 19 | [nestormata](https://github.com/nestormata) | Nestor Mata Cuthbert | Costa Rica | 5,743 |
+| 20 | [saihdez](https://github.com/saihdez) | saihdez | Costa Rica, Heredia | 5,706 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 5,625
 | 19 | [stvansolano](https://github.com/stvansolano) | Esteban Solano Granados | Costa Rica | 189 |
 | 20 | [Jeffser](https://github.com/Jeffser) | Jeffry Samuel | Costa Rica | 174 |
 
-Generated: 2026-10-20T20:38:20.536Z
+Generated: 2026-10-20T22:10:15.848Z

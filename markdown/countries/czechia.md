@@ -25,13 +25,13 @@ Indexed users: 16,199
 | 11 | [mikevercoelen](https://github.com/mikevercoelen) | Mike Vercoelen | Prague | 16,700 |
 | 12 | [hejny](https://github.com/hejny) | Pavol Hejny | Prague | 15,062 |
 | 13 | [matej21](https://github.com/matej21) | David Matějka | Prague, Czech Republic | 14,637 |
-| 14 | [klapuch](https://github.com/klapuch) | Dominik Klapuch | Czech Republic | 13,602 |
-| 15 | [stanlymt](https://github.com/stanlymt) | Stanly Thomas | Prague | 13,483 |
-| 16 | [maksym-mishchenko](https://github.com/maksym-mishchenko) | Maksym | Czech Republic | 13,336 |
-| 17 | [tomasmach](https://github.com/tomasmach) | Tomáš Mach | Czech Republic | 13,317 |
-| 18 | [vachekcz](https://github.com/vachekcz) | Pavel Vachek | Prague, Czech Republic | 13,191 |
-| 19 | [maxkukla](https://github.com/maxkukla) | Max | Czechia | 12,882 |
-| 20 | [Halama](https://github.com/Halama) | Martin Halamíček | Prague, CZ | 12,816 |
+| 14 | [No898](https://github.com/No898) | Tomáš Dinh | Prague / Hanoi | 13,790 |
+| 15 | [klapuch](https://github.com/klapuch) | Dominik Klapuch | Czech Republic | 13,602 |
+| 16 | [stanlymt](https://github.com/stanlymt) | Stanly Thomas | Prague | 13,483 |
+| 17 | [maksym-mishchenko](https://github.com/maksym-mishchenko) | Maksym | Czech Republic | 13,336 |
+| 18 | [tomasmach](https://github.com/tomasmach) | Tomáš Mach | Czech Republic | 13,317 |
+| 19 | [vachekcz](https://github.com/vachekcz) | Pavel Vachek | Prague, Czech Republic | 13,191 |
+| 20 | [maxkukla](https://github.com/maxkukla) | Max | Czechia | 12,882 |
 
 ## Public Contributions
 
@@ -71,7 +71,7 @@ Indexed users: 16,199
 | 7 | [panva](https://github.com/panva) | Filip Skokan | Czech Republic | 1,697 |
 | 8 | [TomasVotruba](https://github.com/TomasVotruba) | Tomas Votruba | Prague, Czech Republic | 1,637 |
 | 9 | [a7v8x](https://github.com/a7v8x) | David Mraz | London / Prague | 1,396 |
-| 10 | [Kubenew](https://github.com/Kubenew) | Felix | Prague | 1,228 |
+| 10 | [Kubenew](https://github.com/Kubenew) | Felix | Prague | 1,203 |
 | 11 | [tpetricek](https://github.com/tpetricek) | Tomas Petricek | Prague | 1,120 |
 | 12 | [oerdnj](https://github.com/oerdnj) | Ondřej Surý | Czech Republic | 1,105 |
 | 13 | [Kobzol](https://github.com/Kobzol) | Jakub Beránek | Czech Republic | 1,104 |
@@ -83,4 +83,4 @@ Indexed users: 16,199
 | 19 | [wbenny](https://github.com/wbenny) | Petr Beneš | Brno, Czech Republic | 877 |
 | 20 | [ondras](https://github.com/ondras) | Ondřej Žára | Prague | 840 |
 
-Generated: 2026-10-20T20:39:54.653Z
+Generated: 2026-10-20T22:12:56.116Z

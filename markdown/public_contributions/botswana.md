@@ -1,6 +1,6 @@
 # Public Contributions - Botswana
 
-Generated: 2026-10-20T20:30:34.537Z
+Generated: 2026-10-20T22:02:11.941Z
 
 Users: 533
 
@@ -13,7 +13,7 @@ Users: 533
 | 5 | [Todd366](https://github.com/Todd366) | BSTM Ecosystem  | Bstm |  | Botswana 🇧🇼  | 1055 |
 | 6 | [NjabuloJf](https://github.com/NjabuloJf) | Njabulo Jb |  |  | Botswana  | 1014 |
 | 7 | [arnold1990-cell](https://github.com/arnold1990-cell) | Arnold Tyvern Madamombe | Self-Employed |  | Gaborone Botswana | 880 |
-| 8 | [tmosimanyana](https://github.com/tmosimanyana) | Tinny Mosimanyana |  |  | Gaborone, Botswana | 822 |
+| 8 | [tmosimanyana](https://github.com/tmosimanyana) | Tinny Mosimanyana |  |  | Gaborone, Botswana | 818 |
 | 9 | [Mopati123](https://github.com/Mopati123) | Mopati Ramaologa |  |  | Gaborone, Botswana | 735 |
 | 10 | [Scheke](https://github.com/Scheke) | Boipuso Rante | Scheke Innovationhub |  | Botswana | 572 |
 | 11 | [loag0](https://github.com/loag0) | Loago Moremi |  |  | Botswana | 562 |

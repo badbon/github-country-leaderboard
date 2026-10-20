@@ -63,7 +63,7 @@ Indexed users: 4,657
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [tibbi](https://github.com/tibbi) | Tibor Kaputa | Jasov, Slovakia | 1,380 |
-| 2 | [Jerga99](https://github.com/Jerga99) | Filip Jerga | Slovakia | 1,182 |
+| 2 | [Jerga99](https://github.com/Jerga99) | Filip Jerga | Slovakia | 1,187 |
 | 3 | [MartinHeinz](https://github.com/MartinHeinz) | Martin Heinz | Bratislava | 1,111 |
 | 4 | [ResoDev](https://github.com/ResoDev) | Matej Rešetár | Košice, Slovakia | 900 |
 | 5 | [filiphric](https://github.com/filiphric) | Filip Hric | Senec, Slovakia | 711 |
@@ -83,4 +83,4 @@ Indexed users: 4,657
 | 19 | [Stiivi](https://github.com/Stiivi) | Stefan Urbanek | Bratislava | 280 |
 | 20 | [haad](https://github.com/haad) | Adam Hamsik | Bratislava Slovakia | 259 |
 
-Generated: 2026-10-20T20:04:34.494Z
+Generated: 2026-10-20T21:35:54.205Z

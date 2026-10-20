@@ -12,8 +12,8 @@ Indexed users: 31
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [Czuowuek-SOS](https://github.com/Czuowuek-SOS) | amogus | Vatican | 263 |
-| 2 | [Ventexx](https://github.com/Ventexx) | Ventex | Vatican City | 229 |
+| 1 | [Ventexx](https://github.com/Ventexx) | Ventex | Vatican City | 274 |
+| 2 | [Czuowuek-SOS](https://github.com/Czuowuek-SOS) | amogus | Vatican | 263 |
 | 3 | [kubonnt](https://github.com/kubonnt) |  | Vatican City | 159 |
 | 4 | [Wiktor-Borski](https://github.com/Wiktor-Borski) | Wiktor Borski | Vatican | 147 |
 | 5 | [LBreda](https://github.com/LBreda) | Lorenzo Breda | Vatican City State | 77 |
@@ -37,7 +37,7 @@ Indexed users: 31
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [Ventexx](https://github.com/Ventexx) | Ventex | Vatican City | 229 |
+| 1 | [Ventexx](https://github.com/Ventexx) | Ventex | Vatican City | 274 |
 | 2 | [Czuowuek-SOS](https://github.com/Czuowuek-SOS) | amogus | Vatican | 175 |
 | 3 | [xFaiafokkusu](https://github.com/xFaiafokkusu) | Faiafokkusu | Vatican | 42 |
 | 4 | [LBreda](https://github.com/LBreda) | Lorenzo Breda | Vatican City State | 25 |
@@ -70,9 +70,9 @@ Indexed users: 31
 | 6 | [dru91ce](https://github.com/dru91ce) | dru91ce | Vatican City (Holy See) | 5 |
 | 7 | [gadhra](https://github.com/gadhra) | gadhra | Vatican City | 5 |
 | 8 | [JumperLiu](https://github.com/JumperLiu) | JumperLiu | Vatican | 5 |
-| 9 | [0xSums](https://github.com/0xSums) | ﷽ | Vatican City, Vatican | 4 |
-| 10 | [SavageAnonymous](https://github.com/SavageAnonymous) | Will Beattie | Vatican City? | 4 |
-| 11 | [Ventexx](https://github.com/Ventexx) | Ventex | Vatican City | 4 |
+| 9 | [Ventexx](https://github.com/Ventexx) | Ventex | Vatican City | 5 |
+| 10 | [0xSums](https://github.com/0xSums) | ﷽ | Vatican City, Vatican | 4 |
+| 11 | [SavageAnonymous](https://github.com/SavageAnonymous) | Will Beattie | Vatican City? | 4 |
 | 12 | [Bayu-Risanto](https://github.com/Bayu-Risanto) | Christoforus Bayu Risanto | Vatican City State  | 3 |
 | 13 | [Czuowuek-SOS](https://github.com/Czuowuek-SOS) | amogus | Vatican | 3 |
 | 14 | [stanlin21](https://github.com/stanlin21) | stanlin | Vatican City | 3 |
@@ -83,4 +83,4 @@ Indexed users: 31
 | 19 | [meereuk](https://github.com/meereuk) | KKUL | Vatican City | 2 |
 | 20 | [shapihelps-meta](https://github.com/shapihelps-meta) | Shapi | Vatican | 2 |
 
-Generated: 2026-10-20T20:18:52.374Z
+Generated: 2026-10-20T21:48:50.490Z

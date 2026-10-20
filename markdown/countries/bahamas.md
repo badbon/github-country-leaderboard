@@ -12,7 +12,7 @@ Indexed users: 236
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [carlswann](https://github.com/carlswann) | Carl Swann | Freeport, Bahamas | 23,741 |
+| 1 | [carlswann](https://github.com/carlswann) | Carl Swann | Freeport, Bahamas | 24,055 |
 | 2 | [zoejessica](https://github.com/zoejessica) | Zoë Smith | Bahamas / Canada | 3,576 |
 | 3 | [dbraganca](https://github.com/dbraganca) | dbraganca | Bahamas | 3,387 |
 | 4 | [bondjacobbond](https://github.com/bondjacobbond) | Jacob Bond | Casino Royale, Nassau, Bahamas | 3,062 |
@@ -25,7 +25,7 @@ Indexed users: 236
 | 11 | [TRL242](https://github.com/TRL242) | Roy Lockhart | Victoria, BC and Freeport, Bahamas | 1,110 |
 | 12 | [Johndiddles](https://github.com/Johndiddles) | Johndiddles | Nassau, Bahamas | 831 |
 | 13 | [Tec4Sho](https://github.com/Tec4Sho) | Ziona | Nassau, Bahamas  | 794 |
-| 14 | [Clearwood](https://github.com/Clearwood) |  | Bahamas | 735 |
+| 14 | [Clearwood](https://github.com/Clearwood) |  | Bahamas | 740 |
 | 15 | [dorson755](https://github.com/dorson755) | Dorson Williams | Nassau Bahamas | 733 |
 | 16 | [TerryJG](https://github.com/TerryJG) | Terrance | Nassau, Bahamas | 724 |
 | 17 | [mikepadiernos](https://github.com/mikepadiernos) | Mike Padiernos | Nassau County, NY | 611 |
@@ -83,4 +83,4 @@ Indexed users: 236
 | 19 | [paulcitarella](https://github.com/paulcitarella) | Paul Citarella | George Town, Bahamas | 16 |
 | 20 | [yemix](https://github.com/yemix) |  | Bahamas | 14 |
 
-Generated: 2026-10-20T20:26:51.025Z
+Generated: 2026-10-20T21:58:29.130Z

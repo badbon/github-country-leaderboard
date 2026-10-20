@@ -1,6 +1,6 @@
 # Public Contributions - Uruguay
 
-Generated: 2026-10-20T20:17:28.216Z
+Generated: 2026-10-20T21:48:11.611Z
 
 Users: 5605
 
@@ -20,9 +20,9 @@ Users: 5605
 | 12 | [EmoPorEmilio](https://github.com/EmoPorEmilio) | Emilio "Emo" Franceschini |  |  | Montevideo, Uruguay | 2843 |
 | 13 | [damiansire](https://github.com/damiansire) | Damian Sire |  |  | Uruguay | 2721 |
 | 14 | [jm181987](https://github.com/jm181987) | Jorge Marquez |  |  | Uruguay | 2672 |
-| 15 | [fzipi](https://github.com/fzipi) | Felipe Zipitría | Facultad de Ingeniería, Universidad de la República |  | Montevideo, Uruguay | 2539 |
-| 16 | [rpiaggio](https://github.com/rpiaggio) | Raúl Piaggio |  |  | Uruguay | 2520 |
-| 17 | [Joacohbc](https://github.com/Joacohbc) | Joacohbc |  |  | Uruguay | 2485 |
-| 18 | [nicolas-maman](https://github.com/nicolas-maman) | Nicolas Maman |  |  | Montevideo,Uruguay | 2373 |
-| 19 | [yanquisalexander](https://github.com/yanquisalexander) | Alexander Barrios |  | alexitoo_uy | Uruguay | 2037 |
-| 20 | [bradelev](https://github.com/bradelev) | Braulio De Leon |  |  | Montevideo, Uruguay | 2033 |
+| 15 | [ilandaniele](https://github.com/ilandaniele) | Ilan Daniele | Blueboot Business Software |  | Montevideo, Uruguay | 2622 |
+| 16 | [fzipi](https://github.com/fzipi) | Felipe Zipitría | Facultad de Ingeniería, Universidad de la República |  | Montevideo, Uruguay | 2539 |
+| 17 | [rpiaggio](https://github.com/rpiaggio) | Raúl Piaggio |  |  | Uruguay | 2520 |
+| 18 | [Joacohbc](https://github.com/Joacohbc) | Joacohbc |  |  | Uruguay | 2485 |
+| 19 | [nicolas-maman](https://github.com/nicolas-maman) | Nicolas Maman |  |  | Montevideo,Uruguay | 2373 |
+| 20 | [yanquisalexander](https://github.com/yanquisalexander) | Alexander Barrios |  | alexitoo_uy | Uruguay | 2037 |

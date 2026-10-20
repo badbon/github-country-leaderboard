@@ -1,6 +1,6 @@
 # Followers - Dominican Republic
 
-Generated: 2026-10-20T20:40:47.666Z
+Generated: 2026-10-20T22:13:13.570Z
 
 Users: 3298
 
@@ -20,7 +20,7 @@ Users: 3298
 | 12 | [Jadhielv](https://github.com/Jadhielv) | Jadhiel Vélez |  | JadhielV | Dominican Republic | 218 |
 | 13 | [crystalduran](https://github.com/crystalduran) | Crystal D |  |  | Santo Domingo, Dominican Republic | 194 |
 | 14 | [robertlluberes](https://github.com/robertlluberes) | Robert Lluberes |  | robertlluberes | Dominican Republic | 164 |
-| 15 | [wilburhimself](https://github.com/wilburhimself) | Wilbur Suero |  | wilburhimself | Santo Domingo, Dominican Republic | 156 |
+| 15 | [wilburhimself](https://github.com/wilburhimself) | Wilbur Suero |  | wilburhimself | Santo Domingo, Dominican Republic | 161 |
 | 16 | [francisbrito](https://github.com/francisbrito) | Francis Brito | @govox |  | Santo Domingo, Dominican Republic | 155 |
 | 17 | [itsalb3rt](https://github.com/itsalb3rt) | Albert E. Hidalgo Taveras |  | alhidalgodev | Santiago,Dominican Republic | 154 |
 | 18 | [oldani](https://github.com/oldani) | Ordanis Sanchez |  |  | Dominican Republic | 154 |

@@ -14,8 +14,8 @@ Indexed users: 3,298
 |---:|---|---|---|---:|
 | 1 | [ibernabel](https://github.com/ibernabel) | Idequel Bernabel | Dominican Republic | 16,414 |
 | 2 | [cervantesh](https://github.com/cervantesh) | Cervantes Hernandez | Dominican Republic | 13,089 |
-| 3 | [josuegrullon](https://github.com/josuegrullon) | Josue Grullon  | Dominican Republic | 12,774 |
-| 4 | [kaioken](https://github.com/kaioken) | Max Castro | Dominican Republic | 12,671 |
+| 3 | [kaioken](https://github.com/kaioken) | Max Castro | Dominican Republic | 12,903 |
+| 4 | [josuegrullon](https://github.com/josuegrullon) | Josue Grullon  | Dominican Republic | 12,774 |
 | 5 | [jflerime314](https://github.com/jflerime314) | Joseph Angelo Flerimé | Dominican Republic | 11,312 |
 | 6 | [deuriib](https://github.com/deuriib) | Deuri Vasquez | Santo Domingo, R. D. | 10,542 |
 | 7 | [0x-Crisbanks](https://github.com/0x-Crisbanks) | Crisbanks | Dominican Republic  | 9,538 |
@@ -37,7 +37,7 @@ Indexed users: 3,298
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [kaioken](https://github.com/kaioken) | Max Castro | Dominican Republic | 11,393 |
+| 1 | [kaioken](https://github.com/kaioken) | Max Castro | Dominican Republic | 11,341 |
 | 2 | [dkropachev](https://github.com/dkropachev) | Dmitry Kropachev | Dominican Republic | 6,784 |
 | 3 | [Bebell-Digital-Solutions](https://github.com/Bebell-Digital-Solutions) | Bebell Digital Solutions 🚀 | Dominican Republic | 5,554 |
 | 4 | [cervantesh](https://github.com/cervantesh) | Cervantes Hernandez | Dominican Republic | 4,007 |
@@ -76,11 +76,11 @@ Indexed users: 3,298
 | 12 | [Jadhielv](https://github.com/Jadhielv) | Jadhiel Vélez | Dominican Republic | 218 |
 | 13 | [crystalduran](https://github.com/crystalduran) | Crystal D | Santo Domingo, Dominican Republic | 194 |
 | 14 | [robertlluberes](https://github.com/robertlluberes) | Robert Lluberes | Dominican Republic | 164 |
-| 15 | [wilburhimself](https://github.com/wilburhimself) | Wilbur Suero | Santo Domingo, Dominican Republic | 156 |
+| 15 | [wilburhimself](https://github.com/wilburhimself) | Wilbur Suero | Santo Domingo, Dominican Republic | 161 |
 | 16 | [francisbrito](https://github.com/francisbrito) | Francis Brito | Santo Domingo, Dominican Republic | 155 |
 | 17 | [itsalb3rt](https://github.com/itsalb3rt) | Albert E. Hidalgo Taveras | Santiago,Dominican Republic | 154 |
 | 18 | [oldani](https://github.com/oldani) | Ordanis Sanchez | Dominican Republic | 154 |
 | 19 | [eatskolnikov](https://github.com/eatskolnikov) | Enmanuel Toribio | Dominican Republic | 147 |
 | 20 | [RaymondCoplin](https://github.com/RaymondCoplin) | Raymond Coplin | Dominican Republic, Santo Domingo | 120 |
 
-Generated: 2026-10-20T20:40:47.666Z
+Generated: 2026-10-20T22:13:13.570Z

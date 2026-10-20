@@ -1,6 +1,6 @@
 # Total Contributions - Dominican Republic
 
-Generated: 2026-10-20T20:40:47.666Z
+Generated: 2026-10-20T22:13:13.570Z
 
 Users: 3298
 
@@ -8,8 +8,8 @@ Users: 3298
 |---:|---|---|---|---|---|---:|
 | 1 | [ibernabel](https://github.com/ibernabel) | Idequel Bernabel | Integrolend | IdequelBernabel | Dominican Republic | 16414 |
 | 2 | [cervantesh](https://github.com/cervantesh) | Cervantes Hernandez |  |  | Dominican Republic | 13089 |
-| 3 | [josuegrullon](https://github.com/josuegrullon) | Josue Grullon  | Fidecoin.com |  | Dominican Republic | 12774 |
-| 4 | [kaioken](https://github.com/kaioken) | Max Castro | @mctekk |  | Dominican Republic | 12671 |
+| 3 | [kaioken](https://github.com/kaioken) | Max Castro | @mctekk |  | Dominican Republic | 12903 |
+| 4 | [josuegrullon](https://github.com/josuegrullon) | Josue Grullon  | Fidecoin.com |  | Dominican Republic | 12774 |
 | 5 | [jflerime314](https://github.com/jflerime314) | Joseph Angelo Flerimé | @jflerime | jflerime | Dominican Republic | 11312 |
 | 6 | [deuriib](https://github.com/deuriib) | Deuri Vasquez |  |  | Santo Domingo, R. D. | 10542 |
 | 7 | [0x-Crisbanks](https://github.com/0x-Crisbanks) | Crisbanks |  | Criisbanks | Dominican Republic  | 9538 |

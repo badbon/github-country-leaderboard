@@ -1,6 +1,6 @@
 # Public Contributions - Cyprus
 
-Generated: 2026-10-20T20:39:48.925Z
+Generated: 2026-10-20T22:12:30.377Z
 
 Users: 2723
 
@@ -11,7 +11,7 @@ Users: 2723
 | 3 | [servitola](https://github.com/servitola) | Adik Servitola |  |  | Cyprus | 7550 |
 | 4 | [richardsolomou](https://github.com/richardsolomou) | Richard Solomou | @PostHog | richardsolomou | Cyprus | 7201 |
 | 5 | [AlisherAmonulloev](https://github.com/AlisherAmonulloev) | Alisher Amonulloev |  |  | Cyprus | 5626 |
-| 6 | [IMKolganov](https://github.com/IMKolganov) | Ivan | Rackot production |  | Cyprus | 4627 |
+| 6 | [IMKolganov](https://github.com/IMKolganov) | Ivan | Rackot production |  | Cyprus | 4567 |
 | 7 | [AxGord](https://github.com/AxGord) | Alexander Gordeyko |  | axgord | Limassol, Cyprus | 4455 |
 | 8 | [protesilaos](https://github.com/protesilaos) | Protesilaos |  |  | Cyprus | 4292 |
 | 9 | [NicosNicolaou16](https://github.com/NicosNicolaou16) | Nicos Nicolaou |  | nicolaou_nicos | Nicosia, Cyprus | 3881 |

@@ -1,13 +1,13 @@
 # Followers - Slovakia
 
-Generated: 2026-10-20T20:04:34.494Z
+Generated: 2026-10-20T21:35:54.205Z
 
 Users: 4657
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [tibbi](https://github.com/tibbi) | Tibor Kaputa |  |  | Jasov, Slovakia | 1380 |
-| 2 | [Jerga99](https://github.com/Jerga99) | Filip Jerga | Eincode s.r.o. | filip0x1 | Slovakia | 1182 |
+| 2 | [Jerga99](https://github.com/Jerga99) | Filip Jerga | Eincode s.r.o. | filip0x1 | Slovakia | 1187 |
 | 3 | [MartinHeinz](https://github.com/MartinHeinz) | Martin Heinz |  | Martin_Heinz_ | Bratislava | 1111 |
 | 4 | [ResoDev](https://github.com/ResoDev) | Matej Rešetár | @ResoCoder  |  | Košice, Slovakia | 900 |
 | 5 | [filiphric](https://github.com/filiphric) | Filip Hric |  | filip_hric | Senec, Slovakia | 711 |

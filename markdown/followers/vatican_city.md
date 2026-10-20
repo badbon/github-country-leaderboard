@@ -1,6 +1,6 @@
 # Followers - Vatican City
 
-Generated: 2026-10-20T20:18:52.374Z
+Generated: 2026-10-20T21:48:50.490Z
 
 Users: 31
 
@@ -14,9 +14,9 @@ Users: 31
 | 6 | [dru91ce](https://github.com/dru91ce) | dru91ce |  |  | Vatican City (Holy See) | 5 |
 | 7 | [gadhra](https://github.com/gadhra) | gadhra |  |  | Vatican City | 5 |
 | 8 | [JumperLiu](https://github.com/JumperLiu) | JumperLiu | CPLA |  | Vatican | 5 |
-| 9 | [0xSums](https://github.com/0xSums) | ﷽ |  |  | Vatican City, Vatican | 4 |
-| 10 | [SavageAnonymous](https://github.com/SavageAnonymous) | Will Beattie |  |  | Vatican City? | 4 |
-| 11 | [Ventexx](https://github.com/Ventexx) | Ventex |  |  | Vatican City | 4 |
+| 9 | [Ventexx](https://github.com/Ventexx) | Ventex |  |  | Vatican City | 5 |
+| 10 | [0xSums](https://github.com/0xSums) | ﷽ |  |  | Vatican City, Vatican | 4 |
+| 11 | [SavageAnonymous](https://github.com/SavageAnonymous) | Will Beattie |  |  | Vatican City? | 4 |
 | 12 | [Bayu-Risanto](https://github.com/Bayu-Risanto) | Christoforus Bayu Risanto | @CastroRegionalClimateGroup  |  | Vatican City State  | 3 |
 | 13 | [Czuowuek-SOS](https://github.com/Czuowuek-SOS) | amogus | Parufex |  | Vatican | 3 |
 | 14 | [stanlin21](https://github.com/stanlin21) | stanlin | St Peter's Basilica INC |  | Vatican City | 3 |
