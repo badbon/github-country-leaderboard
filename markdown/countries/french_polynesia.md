@@ -15,9 +15,9 @@ Indexed users: 60
 | 1 | [jaffadog](https://github.com/jaffadog) | Jeremy Waters | Tahanea, Tuamotus, French Polynesia | 3,901 |
 | 2 | [jburckel](https://github.com/jburckel) |  | French Polynesia | 3,040 |
 | 3 | [marsender](https://github.com/marsender) | Didier Corbière | French Polynesia | 2,875 |
-| 4 | [smortex](https://github.com/smortex) | Romain Tartière | Faa'a, Tahiti, French Polynesia | 1,040 |
+| 4 | [smortex](https://github.com/smortex) | Romain Tartière | Faa'a, Tahiti, French Polynesia | 1,041 |
 | 5 | [jalik](https://github.com/jalik) | Karl Stein | French Polynesia | 734 |
-| 6 | [ch4mpy](https://github.com/ch4mpy) | Jérôme Wacongne | Papeete, French Polynesia | 501 |
+| 6 | [ch4mpy](https://github.com/ch4mpy) | Jérôme Wacongne | Papeete, French Polynesia | 502 |
 | 7 | [N1coc4colA](https://github.com/N1coc4colA) |  | French Polynesia | 467 |
 | 8 | [craff](https://github.com/craff) | Christophe Raffalli | Polynésie, Française | 428 |
 | 9 | [adriencanterot](https://github.com/adriencanterot) | Adrien Cantérot | Tahiti, French Polynesia | 300 |
@@ -37,8 +37,8 @@ Indexed users: 60
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [smortex](https://github.com/smortex) | Romain Tartière | Faa'a, Tahiti, French Polynesia | 1,040 |
-| 2 | [ch4mpy](https://github.com/ch4mpy) | Jérôme Wacongne | Papeete, French Polynesia | 501 |
+| 1 | [smortex](https://github.com/smortex) | Romain Tartière | Faa'a, Tahiti, French Polynesia | 1,041 |
+| 2 | [ch4mpy](https://github.com/ch4mpy) | Jérôme Wacongne | Papeete, French Polynesia | 502 |
 | 3 | [craff](https://github.com/craff) | Christophe Raffalli | Polynésie, Française | 428 |
 | 4 | [marsender](https://github.com/marsender) | Didier Corbière | French Polynesia | 390 |
 | 5 | [N1coc4colA](https://github.com/N1coc4colA) |  | French Polynesia | 359 |
@@ -64,8 +64,8 @@ Indexed users: 60
 |---:|---|---|---|---:|
 | 1 | [smortex](https://github.com/smortex) | Romain Tartière | Faa'a, Tahiti, French Polynesia | 167 |
 | 2 | [ch4mpy](https://github.com/ch4mpy) | Jérôme Wacongne | Papeete, French Polynesia | 114 |
-| 3 | [jalik](https://github.com/jalik) | Karl Stein | French Polynesia | 27 |
-| 4 | [adriencanterot](https://github.com/adriencanterot) | Adrien Cantérot | Tahiti, French Polynesia | 26 |
+| 3 | [adriencanterot](https://github.com/adriencanterot) | Adrien Cantérot | Tahiti, French Polynesia | 27 |
+| 4 | [jalik](https://github.com/jalik) | Karl Stein | French Polynesia | 27 |
 | 5 | [craff](https://github.com/craff) | Christophe Raffalli | Polynésie, Française | 25 |
 | 6 | [paraita](https://github.com/paraita) | Paraita Wohler | Tahiti, French Polynesia | 23 |
 | 7 | [N1coc4colA](https://github.com/N1coc4colA) |  | French Polynesia | 22 |
@@ -83,4 +83,4 @@ Indexed users: 60
 | 19 | [TToarii](https://github.com/TToarii) | TAU Toarii | French Polynesia | 5 |
 | 20 | [geoffguillain](https://github.com/geoffguillain) | Geoff | French Polynesia | 4 |
 
-Generated: 2026-10-20T19:15:47.336Z
+Generated: 2026-10-20T20:48:46.414Z

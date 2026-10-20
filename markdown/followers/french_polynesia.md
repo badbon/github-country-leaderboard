@@ -1,6 +1,6 @@
 # Followers - French Polynesia
 
-Generated: 2026-10-20T19:15:47.336Z
+Generated: 2026-10-20T20:48:46.414Z
 
 Users: 60
 
@@ -8,8 +8,8 @@ Users: 60
 |---:|---|---|---|---|---|---:|
 | 1 | [smortex](https://github.com/smortex) | Romain Tartière | @FreeBSD @opus-codium @voxpupuli |  | Faa'a, Tahiti, French Polynesia | 167 |
 | 2 | [ch4mpy](https://github.com/ch4mpy) | Jérôme Wacongne |  |  | Papeete, French Polynesia | 114 |
-| 3 | [jalik](https://github.com/jalik) | Karl Stein | SIGMA POLYNESIA | jalik26 | French Polynesia | 27 |
-| 4 | [adriencanterot](https://github.com/adriencanterot) | Adrien Cantérot |  | adriencanterot | Tahiti, French Polynesia | 26 |
+| 3 | [adriencanterot](https://github.com/adriencanterot) | Adrien Cantérot |  | adriencanterot | Tahiti, French Polynesia | 27 |
+| 4 | [jalik](https://github.com/jalik) | Karl Stein | SIGMA POLYNESIA | jalik26 | French Polynesia | 27 |
 | 5 | [craff](https://github.com/craff) | Christophe Raffalli | Gaati, UPF |  | Polynésie, Française | 25 |
 | 6 | [paraita](https://github.com/paraita) | Paraita Wohler | @e-reo | paraita | Tahiti, French Polynesia | 23 |
 | 7 | [N1coc4colA](https://github.com/N1coc4colA) |  | The Community | n1coc4cola | French Polynesia | 22 |

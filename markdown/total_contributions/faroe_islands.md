@@ -1,6 +1,6 @@
 # Total Contributions - Faroe Islands
 
-Generated: 2026-10-20T19:15:01.868Z
+Generated: 2026-10-20T20:46:38.710Z
 
 Users: 68
 
@@ -17,8 +17,8 @@ Users: 68
 | 9 | [ingipingi](https://github.com/ingipingi) | Ingi á Steinamørk | Ingi á Steinamørk |  | Faroe Islands | 2201 |
 | 10 | [samal-rasmussen](https://github.com/samal-rasmussen) | Sámal Rasmussen | @bokin-fo  |  | Tórshavn, Faroe Islands | 2027 |
 | 11 | [theodorjohannesen](https://github.com/theodorjohannesen) | Theodor E. Johannesen | Own |  | Faroe Islands | 1727 |
-| 12 | [SigmundurMorkore](https://github.com/SigmundurMorkore) | Sigmundur Mørkøre | @sansir  |  | Faroe Islands | 1518 |
-| 13 | [MaterBater](https://github.com/MaterBater) | Mater | @HypixelDev |  | Faroe Islands | 1499 |
+| 12 | [MaterBater](https://github.com/MaterBater) | Mater | @HypixelDev |  | Faroe Islands | 1519 |
+| 13 | [SigmundurMorkore](https://github.com/SigmundurMorkore) | Sigmundur Mørkøre | @sansir  |  | Faroe Islands | 1518 |
 | 14 | [Brian-ED](https://github.com/Brian-ED) | Brian E |  |  | Faroe Islands | 1047 |
 | 15 | [SheetHappiness](https://github.com/SheetHappiness) | SheetHappiness | Lethal |  | Faroe Islands | 1005 |
 | 16 | [Theoistic](https://github.com/Theoistic) | Theodor Solbjorg | Theoistic | Theoistic | Faroe Islands | 870 |
