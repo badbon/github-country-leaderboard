@@ -17,8 +17,8 @@ Indexed users: 2,014
 | 3 | [devsart95](https://github.com/devsart95) | S4R | Paraguay | 16,831 |
 | 4 | [diogocsoares](https://github.com/diogocsoares) | Diogo Soares | Paraguay | 11,498 |
 | 5 | [pyfection](https://github.com/pyfection) | Matthias Schreiber | Paraguay | 11,013 |
-| 6 | [vargascarlitos](https://github.com/vargascarlitos) | Carlitos Vargas | Paraguay | 10,883 |
-| 7 | [anthonybir](https://github.com/anthonybir) | Anthony Bir | Asuncion, Paraguay | 10,793 |
+| 6 | [anthonybir](https://github.com/anthonybir) | Anthony Bir | Asuncion, Paraguay | 10,793 |
+| 7 | [vargascarlitos](https://github.com/vargascarlitos) | Carlitos Vargas | Paraguay | 10,531 |
 | 8 | [cmelgarejo](https://github.com/cmelgarejo) | Christian Melgarejo | Paraguay | 9,877 |
 | 9 | [zot24](https://github.com/zot24) |  | Asuncion, Paraguay | 7,889 |
 | 10 | [juraj-m](https://github.com/juraj-m) | Juraj | Yaguarón, Paraguay | 7,879 |
@@ -37,7 +37,7 @@ Indexed users: 2,014
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [vargascarlitos](https://github.com/vargascarlitos) | Carlitos Vargas | Paraguay | 9,772 |
+| 1 | [vargascarlitos](https://github.com/vargascarlitos) | Carlitos Vargas | Paraguay | 9,398 |
 | 2 | [apojomovsky](https://github.com/apojomovsky) | Alexis Pojomovsky | Asunción - Paraguay | 3,469 |
 | 3 | [kiquetal](https://github.com/kiquetal) | Enrique\m/Talavera | Paraguay | 3,419 |
 | 4 | [eeeds](https://github.com/eeeds) | Esteban Encina | Paraguay | 2,921 |
@@ -83,4 +83,4 @@ Indexed users: 2,014
 | 19 | [metakeule](https://github.com/metakeule) | metakeule | Asunción / Paraguay | 109 |
 | 20 | [replay](https://github.com/replay) | Mauro Stettler | Asuncion, Paraguay | 105 |
 
-Generated: 2026-10-20T21:22:35.670Z
+Generated: 2026-10-20T23:32:30.071Z

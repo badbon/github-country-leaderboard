@@ -1,8 +1,8 @@
 # Public Contributions - Kazakhstan
 
-Generated: 2026-10-20T21:02:11.472Z
+Generated: 2026-10-20T23:09:24.302Z
 
-Users: 5628
+Users: 5627
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -23,6 +23,6 @@ Users: 5628
 | 15 | [MDI74](https://github.com/MDI74) | Dmitriy Myakotin | @TourmalineCore |  | Kazakhstan, Astana | 2612 |
 | 16 | [m62624](https://github.com/m62624) | Mansur |  |  | Kazakhstan, Almaty | 2250 |
 | 17 | [Kaiyrkhan](https://github.com/Kaiyrkhan) | Kaiyrkhan Mukapil | Almaty Technological University |  | Almaty, Qazaqstan | 2232 |
-| 18 | [maximgorbatyuk](https://github.com/maximgorbatyuk) | Maxim Gorbatyuk | @Techinterview-space  |  | Kazakhstan | 2049 |
-| 19 | [rdmbtc](https://github.com/rdmbtc) | Dr RDM | Student | rdmnad | Kazakhstan | 2041 |
-| 20 | [borisk85](https://github.com/borisk85) | Boris Komarov | Vibecraft | borisfounder | Kazakhstan | 2026 |
+| 18 | [boltholds](https://github.com/boltholds) | bolthold | PLC Web | bolthold | Kazakhstan | 2075 |
+| 19 | [maximgorbatyuk](https://github.com/maximgorbatyuk) | Maxim Gorbatyuk | @Techinterview-space  |  | Kazakhstan | 2049 |
+| 20 | [rdmbtc](https://github.com/rdmbtc) | Dr RDM | Student | rdmnad | Kazakhstan | 2041 |

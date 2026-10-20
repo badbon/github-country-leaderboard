@@ -1,6 +1,6 @@
 # Followers - Macau
 
-Generated: 2026-10-20T21:06:25.160Z
+Generated: 2026-10-20T23:13:03.057Z
 
 Users: 439
 
@@ -12,8 +12,8 @@ Users: 439
 | 4 | [RyanKung](https://github.com/RyanKung) | Elder Ryan |  | Elder24601 | Macau | 204 |
 | 5 | [andyhamgit](https://github.com/andyhamgit) | Di Han |  |  | Macau | 186 |
 | 6 | [DoongLi](https://github.com/DoongLi) | Frankie Dong Li |  | Doong__Li | Taipa, Macau | 186 |
-| 7 | [clinplayer](https://github.com/clinplayer) | Cheng Lin |  |  | Macau | 167 |
-| 8 | [IMRL](https://github.com/IMRL) |  |  |  | Taipa, Macau | 166 |
+| 7 | [IMRL](https://github.com/IMRL) |  |  |  | Taipa, Macau | 168 |
+| 8 | [clinplayer](https://github.com/clinplayer) | Cheng Lin |  |  | Macau | 167 |
 | 9 | [QingbiaoLi](https://github.com/QingbiaoLi) | Qingbiao Li | FST, University of Macau |  | Macau | 129 |
 | 10 | [iefuzzer](https://github.com/iefuzzer) | iefuzzer | Cargo Capital |  | Macau | 127 |
 | 11 | [manesec](https://github.com/manesec) | Mane |  |  | Macau | 127 |

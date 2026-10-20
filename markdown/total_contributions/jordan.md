@@ -1,6 +1,6 @@
 # Total Contributions - Jordan
 
-Generated: 2026-10-20T21:01:34.726Z
+Generated: 2026-10-20T23:09:20.769Z
 
 Users: 4004
 
@@ -10,14 +10,14 @@ Users: 4004
 | 2 | [jaberjaber23](https://github.com/jaberjaber23) | Jaber Jaber | RightNow AI | Akashi203 | Amman, Jordan | 28820 |
 | 3 | [MrGiveItAway-TPK](https://github.com/MrGiveItAway-TPK) | Munes Bani Fawaz | Syarah - TechWadi |  | Amman, Jordan | 10839 |
 | 4 | [ahmadjubran](https://github.com/ahmadjubran) | Ahmad Jubran | eduArabia |  | Amman-Jordan | 9274 |
-| 5 | [samertall](https://github.com/samertall) | Samer Tallauze | SamerTallauze |  | Amman, Jordan | 8545 |
-| 6 | [MusaMisto](https://github.com/MusaMisto) | Musa Misto | Simplify9 |  | Amman, Jordan | 8318 |
-| 7 | [abuaboud](https://github.com/abuaboud) | Mo AbuAboud | @activepieces  | mabuaboud | Amman, Jordan | 8035 |
-| 8 | [Jaber-Saed](https://github.com/Jaber-Saed) | Jaber-Said | Axionic | Jaber_Said_ | Amman Jordan | 7128 |
-| 9 | [OsamaAssaf](https://github.com/OsamaAssaf) | Osama Assaf | @Solutions-Now | OsamaAssaf2k | Jordan | 6492 |
-| 10 | [Hashem-Tabbaa](https://github.com/Hashem-Tabbaa) | Hashem Altabbaa |  |  | Jordan-Amman | 6204 |
-| 11 | [K3epEv3rythingYours](https://github.com/K3epEv3rythingYours) | K3YB1T |  |  | Jordan | 6128 |
-| 12 | [htirawi](https://github.com/htirawi) | Hussein Tirawi |  |  | Jordan | 5976 |
+| 5 | [htirawi](https://github.com/htirawi) | Hussein Tirawi |  |  | Jordan | 9076 |
+| 6 | [samertall](https://github.com/samertall) | Samer Tallauze | SamerTallauze |  | Amman, Jordan | 8545 |
+| 7 | [MusaMisto](https://github.com/MusaMisto) | Musa Misto | Simplify9 |  | Amman, Jordan | 8318 |
+| 8 | [abuaboud](https://github.com/abuaboud) | Mo AbuAboud | @activepieces  | mabuaboud | Amman, Jordan | 8035 |
+| 9 | [Jaber-Saed](https://github.com/Jaber-Saed) | Jaber-Said | Axionic | Jaber_Said_ | Amman Jordan | 7128 |
+| 10 | [OsamaAssaf](https://github.com/OsamaAssaf) | Osama Assaf | @Solutions-Now | OsamaAssaf2k | Jordan | 6492 |
+| 11 | [Hashem-Tabbaa](https://github.com/Hashem-Tabbaa) | Hashem Altabbaa |  |  | Jordan-Amman | 6204 |
+| 12 | [K3epEv3rythingYours](https://github.com/K3epEv3rythingYours) | K3YB1T |  |  | Jordan | 6128 |
 | 13 | [MahmoudEsawi](https://github.com/MahmoudEsawi) | Mahmoud Al-Esawi | MENADevs |  | Amman\Jordan | 5804 |
 | 14 | [Ti-03](https://github.com/Ti-03) | Qutibah Ananzeh |  |  | Amman, Jordan | 5777 |
 | 15 | [AliBakerSartawi](https://github.com/AliBakerSartawi) | Ali Baker Sartawi |  |  | Amman, Jordan | 5440 |

@@ -1,6 +1,6 @@
 # Malaysia
 
-Indexed users: 11,785
+Indexed users: 11,784
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 11,785
 | 19 | [Zeyad-Azima](https://github.com/Zeyad-Azima) | Zer0verflow | Malaysia | 439 |
 | 20 | [RamadhanAmizudin](https://github.com/RamadhanAmizudin) | Ramadhan Amizudin | Malaysia | 401 |
 
-Generated: 2026-10-20T21:07:41.553Z
+Generated: 2026-10-20T23:14:33.167Z

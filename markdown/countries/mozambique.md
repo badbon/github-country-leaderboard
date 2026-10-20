@@ -28,10 +28,10 @@ Indexed users: 1,175
 | 14 | [emuneme](https://github.com/emuneme) | Eusebio  Augusto Munene | Maputo | 2,872 |
 | 15 | [backstageel](https://github.com/backstageel) | Elísio Leonardo | Maputo | 2,777 |
 | 16 | [rafael-the-dev](https://github.com/rafael-the-dev) | Rafael Tivane | Mozambique | 2,695 |
-| 17 | [gmahota](https://github.com/gmahota) | Guimaraes Mahota Jr. | Maputo, Mozambique | 2,574 |
-| 18 | [domingoslequechane](https://github.com/domingoslequechane) | Domingos Francisco Lequechane | Mozambique | 2,530 |
-| 19 | [KelvenCassamo](https://github.com/KelvenCassamo) | Kelven Cassamo | Maputo, Mozambique | 2,518 |
-| 20 | [IvanBila](https://github.com/IvanBila) | Connoisseur | Maputo, Mozambique | 2,451 |
+| 17 | [singelodux](https://github.com/singelodux) | Singelo Dux | Maputo, Moçambique | 2,596 |
+| 18 | [gmahota](https://github.com/gmahota) | Guimaraes Mahota Jr. | Maputo, Mozambique | 2,574 |
+| 19 | [domingoslequechane](https://github.com/domingoslequechane) | Domingos Francisco Lequechane | Mozambique | 2,530 |
+| 20 | [KelvenCassamo](https://github.com/KelvenCassamo) | Kelven Cassamo | Maputo, Mozambique | 2,518 |
 
 ## Public Contributions
 
@@ -45,7 +45,7 @@ Indexed users: 1,175
 | 6 | [tomaszaba](https://github.com/tomaszaba) | Tomás Zaba | Maputo | 1,227 |
 | 7 | [KainNhantumbo](https://github.com/KainNhantumbo) | Ubelloch | Mozambique, Maputo | 1,075 |
 | 8 | [zerosatus](https://github.com/zerosatus) | zerosatus | Mozambique | 1,003 |
-| 9 | [filipeive](https://github.com/filipeive) | Filipe  Domingos dos Santos | Mozambique | 969 |
+| 9 | [filipeive](https://github.com/filipeive) | Filipe  Domingos dos Santos | Mozambique | 972 |
 | 10 | [rnrnshn](https://github.com/rnrnshn) | rurushu | Mozambique | 765 |
 | 11 | [Bernie-Dramos](https://github.com/Bernie-Dramos) | Bernardo E. Dramos Jr. | Mozambique | 721 |
 | 12 | [djafta](https://github.com/djafta) | Djafta | Mozambique | 681 |
@@ -83,4 +83,4 @@ Indexed users: 1,175
 | 19 | [enoquetembe](https://github.com/enoquetembe) | Enoque Tembe | Maputo, Mozambique | 111 |
 | 20 | [mariomthree](https://github.com/mariomthree) | Mário M. Mabande | Maputo, Mozambique | 95 |
 
-Generated: 2026-10-20T21:13:34.871Z
+Generated: 2026-10-20T23:21:14.515Z

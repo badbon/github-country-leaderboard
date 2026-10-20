@@ -1,6 +1,6 @@
 # Kazakhstan
 
-Indexed users: 5,628
+Indexed users: 5,627
 
 | Leaderboard | Link |
 |---|---|
@@ -54,9 +54,9 @@ Indexed users: 5,628
 | 15 | [MDI74](https://github.com/MDI74) | Dmitriy Myakotin | Kazakhstan, Astana | 2,612 |
 | 16 | [m62624](https://github.com/m62624) | Mansur | Kazakhstan, Almaty | 2,250 |
 | 17 | [Kaiyrkhan](https://github.com/Kaiyrkhan) | Kaiyrkhan Mukapil | Almaty, Qazaqstan | 2,232 |
-| 18 | [maximgorbatyuk](https://github.com/maximgorbatyuk) | Maxim Gorbatyuk | Kazakhstan | 2,049 |
-| 19 | [rdmbtc](https://github.com/rdmbtc) | Dr RDM | Kazakhstan | 2,041 |
-| 20 | [borisk85](https://github.com/borisk85) | Boris Komarov | Kazakhstan | 2,026 |
+| 18 | [boltholds](https://github.com/boltholds) | bolthold | Kazakhstan | 2,075 |
+| 19 | [maximgorbatyuk](https://github.com/maximgorbatyuk) | Maxim Gorbatyuk | Kazakhstan | 2,049 |
+| 20 | [rdmbtc](https://github.com/rdmbtc) | Dr RDM | Kazakhstan | 2,041 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 5,628
 | 19 | [aidarnouman](https://github.com/aidarnouman) | Aidar Nouman | Almaty, Kazakhstan | 303 |
 | 20 | [azamxvit](https://github.com/azamxvit) | Azamat | Kazakhstan, Atyrau | 295 |
 
-Generated: 2026-10-20T21:02:11.472Z
+Generated: 2026-10-20T23:09:24.302Z
