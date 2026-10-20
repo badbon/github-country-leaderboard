@@ -1,6 +1,6 @@
 # Indonesia
 
-Indexed users: 63,282
+Indexed users: 63,280
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 63,282
 | 19 | [theodorusclarence](https://github.com/theodorusclarence) | Theodorus Clarence | Indonesia | 1,488 |
 | 20 | [imrenagi](https://github.com/imrenagi) | Imre Nagi | Jakarta | 1,307 |
 
-Generated: 2026-10-20T05:33:59.199Z
+Generated: 2026-10-20T07:15:07.907Z

@@ -1,6 +1,6 @@
 # Total Contributions - Jordan
 
-Generated: 2026-10-20T05:37:26.778Z
+Generated: 2026-10-20T07:17:35.733Z
 
 Users: 4004
 
@@ -23,6 +23,6 @@ Users: 4004
 | 15 | [AliBakerSartawi](https://github.com/AliBakerSartawi) | Ali Baker Sartawi |  |  | Amman, Jordan | 5440 |
 | 16 | [shqear93](https://github.com/shqear93) | Khaled AbuShqear | Careem |  | Amman | 5377 |
 | 17 | [thisisabukarsh](https://github.com/thisisabukarsh) | AbdulRahman AbuKarsh |  |  | Jordan, Amman | 5292 |
-| 18 | [waleedyaseen](https://github.com/waleedyaseen) | Waleed Yaseen |  |  | Jordan, Amman | 5150 |
-| 19 | [OsamaShwman](https://github.com/OsamaShwman) | Osama Shoman | String Education |  | Jordan | 5122 |
-| 20 | [DefinetlyNotAI](https://github.com/DefinetlyNotAI) | Shahm Najeeb |  |  | Jordan, Amman | 5114 |
+| 18 | [AmroKSaleh](https://github.com/AmroKSaleh) | Amro Saleh | KeyLife Electronics | AmroKSaleh | Jordan | 5168 |
+| 19 | [waleedyaseen](https://github.com/waleedyaseen) | Waleed Yaseen |  |  | Jordan, Amman | 5150 |
+| 20 | [OsamaShwman](https://github.com/OsamaShwman) | Osama Shoman | String Education |  | Jordan | 5122 |

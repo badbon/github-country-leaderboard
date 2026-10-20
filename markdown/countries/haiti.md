@@ -18,13 +18,13 @@ Indexed users: 339
 | 4 | [jecode93](https://github.com/jecode93) | Jean Emmanuel Cadet | Haiti | 3,554 |
 | 5 | [joassanon](https://github.com/joassanon) | Joas Sanon | Port-au-prince, Haiti | 3,425 |
 | 6 | [platon777](https://github.com/platon777) | Wichley Valentin | Haiti | 2,443 |
-| 7 | [FalandyJEAN](https://github.com/FalandyJEAN) | Falandy Jean | Haiti | 2,419 |
+| 7 | [FalandyJEAN](https://github.com/FalandyJEAN) | Falandy Jean | Haiti | 2,426 |
 | 8 | [odilson-dev](https://github.com/odilson-dev) | Odilson W. Italis | Les Cayes, Haiti | 2,269 |
 | 9 | [bogosla](https://github.com/bogosla) | James Destiné | Haiti | 2,184 |
 | 10 | [Nicaisse](https://github.com/Nicaisse) | Nicaisse Bryan  | Port-au-Prince | 1,957 |
 | 11 | [bleuscyther](https://github.com/bleuscyther) | jeffrey n. carre | Haiti | 1,808 |
 | 12 | [youko509](https://github.com/youko509) |  Erico Saint-Charles | Haiti | 1,780 |
-| 13 | [kingsGuillaume99](https://github.com/kingsGuillaume99) | Guillaume Kingsley | Port-au-Prince , Haiti | 1,755 |
+| 13 | [kingsGuillaume99](https://github.com/kingsGuillaume99) | Guillaume Kingsley | Port-au-Prince , Haiti | 1,754 |
 | 14 | [didierganthier](https://github.com/didierganthier) | Didier Peran Ganthier | Port-au-prince, Haïti | 1,696 |
 | 15 | [thecassion](https://github.com/thecassion) | Pierre Robentz CASSION | Haiti | 1,616 |
 | 16 | [antifugazis](https://github.com/antifugazis) | Jyvor Slaadel Mortimer | Port-au-Prince | 1,484 |
@@ -49,9 +49,9 @@ Indexed users: 339
 | 10 | [haitibrand-co](https://github.com/haitibrand-co) | HaitiBrand  | Haiti | 241 |
 | 11 | [ventzDev509](https://github.com/ventzDev509) | Marceille Eventz | Haiti | 215 |
 | 12 | [Joffra](https://github.com/Joffra) | Jonel Francois | Haiti | 209 |
-| 13 | [antifugazis](https://github.com/antifugazis) | Jyvor Slaadel Mortimer | Port-au-Prince | 198 |
-| 14 | [CalvertWanguy](https://github.com/CalvertWanguy) | Wanguy Calvert | Port-Au-Prince | 198 |
-| 15 | [blessedwingtech](https://github.com/blessedwingtech) | Blessed Wing Technology | Haiti | 197 |
+| 13 | [blessedwingtech](https://github.com/blessedwingtech) | Blessed Wing Technology | Haiti | 200 |
+| 14 | [antifugazis](https://github.com/antifugazis) | Jyvor Slaadel Mortimer | Port-au-Prince | 198 |
+| 15 | [CalvertWanguy](https://github.com/CalvertWanguy) | Wanguy Calvert | Port-Au-Prince | 198 |
 | 16 | [didierganthier](https://github.com/didierganthier) | Didier Peran Ganthier | Port-au-prince, Haïti | 187 |
 | 17 | [jbob9](https://github.com/jbob9) | Jean Baptiste Berlensky O. | Haiti | 166 |
 | 18 | [jsbeaudry](https://github.com/jsbeaudry) | Beaudry Jean Sauvenel | Port-au-prince, Haiti | 166 |
@@ -83,4 +83,4 @@ Indexed users: 339
 | 19 | [KeitelDOG](https://github.com/KeitelDOG) | Keitel Jovin | Delmas 41, Ouest, Haiti | 32 |
 | 20 | [skydevht](https://github.com/skydevht) | Holy-Elie Scaïde | Port-au-prince, Haïti | 32 |
 
-Generated: 2026-10-20T05:31:03.618Z
+Generated: 2026-10-20T07:12:41.426Z

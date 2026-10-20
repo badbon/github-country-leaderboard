@@ -20,11 +20,11 @@ Indexed users: 86
 | 6 | [iamcryptoki](https://github.com/iamcryptoki) | Gael Gentil | Guadeloupe | 1,413 |
 | 7 | [Gaelle-charles](https://github.com/Gaelle-charles) | Gaëlle CHARLES-BELAMOUR | Guadeloupe (FWI) | 1,393 |
 | 8 | [liobrasil](https://github.com/liobrasil) | Lionel LIMOL | Guadeloupe | 959 |
-| 9 | [BLVCK971](https://github.com/BLVCK971) | Yoel Pépin | Le Moule, GUADELOUPE | 890 |
+| 9 | [BLVCK971](https://github.com/BLVCK971) | Yoel Pépin | Le Moule, GUADELOUPE | 906 |
 | 10 | [r1d](https://github.com/r1d) | Eric Degoul | Sainte-Anne, Guadeloupe | 742 |
 | 11 | [nath971](https://github.com/nath971) | N | Guadeloupe | 658 |
 | 12 | [sboli](https://github.com/sboli) | Bolivar Stephen | Guadeloupe | 654 |
-| 13 | [FWICSS](https://github.com/FWICSS) | FWICSS | Guadeloupe | 487 |
+| 13 | [FWICSS](https://github.com/FWICSS) | FWICSS | Guadeloupe | 493 |
 | 14 | [seyken971](https://github.com/seyken971) | Andy Zébus | Guadeloupe | 230 |
 | 15 | [khalil-tabbal](https://github.com/khalil-tabbal) | Khalil TABBAL | Guadeloupe | 202 |
 | 16 | [Virguiles](https://github.com/Virguiles) | Virgile | Guadeloupe | 144 |
@@ -39,7 +39,7 @@ Indexed users: 86
 |---:|---|---|---|---:|
 | 1 | [Gaelle-charles](https://github.com/Gaelle-charles) | Gaëlle CHARLES-BELAMOUR | Guadeloupe (FWI) | 1,393 |
 | 2 | [liobrasil](https://github.com/liobrasil) | Lionel LIMOL | Guadeloupe | 664 |
-| 3 | [FWICSS](https://github.com/FWICSS) | FWICSS | Guadeloupe | 487 |
+| 3 | [FWICSS](https://github.com/FWICSS) | FWICSS | Guadeloupe | 493 |
 | 4 | [macojaune](https://github.com/macojaune) | macojaune | Guadeloupe | 315 |
 | 5 | [seyken971](https://github.com/seyken971) | Andy Zébus | Guadeloupe | 230 |
 | 6 | [Virguiles](https://github.com/Virguiles) | Virgile | Guadeloupe | 144 |
@@ -50,7 +50,7 @@ Indexed users: 86
 | 11 | [sboli](https://github.com/sboli) | Bolivar Stephen | Guadeloupe | 51 |
 | 12 | [sype](https://github.com/sype) | Sebastien Pincemail | Paris / Guadeloupe | 47 |
 | 13 | [SioTyron](https://github.com/SioTyron) | Tyron | Guadeloupe | 46 |
-| 14 | [bpoujol](https://github.com/bpoujol) | Basile Poujol | Les Abymes, Guadeloupe | 43 |
+| 14 | [bpoujol](https://github.com/bpoujol) | Basile Poujol | Les Abymes, Guadeloupe | 41 |
 | 15 | [leho971](https://github.com/leho971) | ZOZO Léo | Guadeloupe | 36 |
 | 16 | [fixups](https://github.com/fixups) | Christophe Théron | Guadeloupe | 30 |
 | 17 | [Floraline](https://github.com/Floraline) | LAPITRE Anneflore | Guadeloupe | 28 |
@@ -83,4 +83,4 @@ Indexed users: 86
 | 19 | [fg8oj](https://github.com/fg8oj) | Bertrand Demarcq FG8OJ/AG8OJ | Guadeloupe | 6 |
 | 20 | [kvaillant](https://github.com/kvaillant) | Karl Vaillant | Guadeloupe, West-Indies | 6 |
 
-Generated: 2026-10-20T05:27:28.714Z
+Generated: 2026-10-20T07:09:54.274Z

@@ -1,6 +1,6 @@
 # Public Contributions - Guadeloupe
 
-Generated: 2026-10-20T05:27:28.714Z
+Generated: 2026-10-20T07:09:54.274Z
 
 Users: 86
 
@@ -8,7 +8,7 @@ Users: 86
 |---:|---|---|---|---|---|---:|
 | 1 | [Gaelle-charles](https://github.com/Gaelle-charles) | Gaëlle CHARLES-BELAMOUR |  |  | Guadeloupe (FWI) | 1393 |
 | 2 | [liobrasil](https://github.com/liobrasil) | Lionel LIMOL | Blockchain Xpert Solutions | lionel_limol | Guadeloupe | 664 |
-| 3 | [FWICSS](https://github.com/FWICSS) | FWICSS |  | FWICSS | Guadeloupe | 487 |
+| 3 | [FWICSS](https://github.com/FWICSS) | FWICSS |  | FWICSS | Guadeloupe | 493 |
 | 4 | [macojaune](https://github.com/macojaune) | macojaune | @MarvinL-com  | macojaune | Guadeloupe | 315 |
 | 5 | [seyken971](https://github.com/seyken971) | Andy Zébus | PXLC | seyken971 | Guadeloupe | 230 |
 | 6 | [Virguiles](https://github.com/Virguiles) | Virgile |  |  | Guadeloupe | 144 |
@@ -19,7 +19,7 @@ Users: 86
 | 11 | [sboli](https://github.com/sboli) | Bolivar Stephen |  | _sboli | Guadeloupe | 51 |
 | 12 | [sype](https://github.com/sype) | Sebastien Pincemail | @wefactorit | wefactorit | Paris / Guadeloupe | 47 |
 | 13 | [SioTyron](https://github.com/SioTyron) | Tyron |  |  | Guadeloupe | 46 |
-| 14 | [bpoujol](https://github.com/bpoujol) | Basile Poujol | Lycée Baimbridge |  | Les Abymes, Guadeloupe | 43 |
+| 14 | [bpoujol](https://github.com/bpoujol) | Basile Poujol | Lycée Baimbridge |  | Les Abymes, Guadeloupe | 41 |
 | 15 | [leho971](https://github.com/leho971) | ZOZO Léo |  |  | Guadeloupe | 36 |
 | 16 | [fixups](https://github.com/fixups) | Christophe Théron |  |  | Guadeloupe | 30 |
 | 17 | [Floraline](https://github.com/Floraline) | LAPITRE Anneflore | Université des Antilles |  | Guadeloupe | 28 |

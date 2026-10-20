@@ -1,6 +1,6 @@
 # Total Contributions - Moldova
 
-Generated: 2026-10-20T02:39:35.476Z
+Generated: 2026-10-20T07:29:07.653Z
 
 Users: 1747
 
@@ -11,7 +11,7 @@ Users: 1747
 | 3 | [ion-bostanica](https://github.com/ion-bostanica) | Bostanica Ion |  |  | Moldova, Chisinau | 11674 |
 | 4 | [icaliman](https://github.com/icaliman) | Ion Căliman | XLITE DEV |  | Moldova | 10453 |
 | 5 | [danlapteacru](https://github.com/danlapteacru) | Dan Lapteacru |  |  | Ungheni, Moldova / Iasi, Romania | 8074 |
-| 6 | [Nemo-Illusionist](https://github.com/Nemo-Illusionist) | Peter Radilov | @ApprovalMax |  | Moldova | 7286 |
+| 6 | [Nemo-Illusionist](https://github.com/Nemo-Illusionist) | Peter Radilov | @ApprovalMax |  | Moldova | 7910 |
 | 7 | [kneazy](https://github.com/kneazy) | Vitalie | CorLab |  | Moldova, Chisinau  | 6940 |
 | 8 | [dotteamdev](https://github.com/dotteamdev) | Dan Oistric |  |  | Moldova | 6910 |
 | 9 | [deniscuciuc](https://github.com/deniscuciuc) | Denis Cuciuc | Zelqon Works, Quality Game Core, Accent Electronic | deniscuciuc | Moldova | 6898 |
@@ -22,7 +22,7 @@ Users: 1747
 | 14 | [artickc](https://github.com/artickc) | NOXX - Commiter | iTSolution |  | Moldova, Chisinau | 5416 |
 | 15 | [batanus](https://github.com/batanus) | Dmitrii Medvedev |  |  | Chisinau, Moldova | 5313 |
 | 16 | [grigorii-horos](https://github.com/grigorii-horos) | Grigorii Horos |  |  | Republic of Moldova | 5250 |
-| 17 | [xyrolle](https://github.com/xyrolle) | Serghei |  |  | Moldova | 5240 |
-| 18 | [httpcatalin](https://github.com/httpcatalin) | Catalin | Eventino |  | Chișinău, Moldova | 5117 |
-| 19 | [fedotovdev](https://github.com/fedotovdev) | Ivan Fedotov |  |  | Chisinau, Moldova | 5019 |
-| 20 | [Andrei-Ciuperca](https://github.com/Andrei-Ciuperca) | Andrei Ciupercă | @Tafi-Solutions  |  | Moldova | 4908 |
+| 17 | [rvmoldova](https://github.com/rvmoldova) | Vadim Russu | @labs42io | rvmdl | Chișinău | 5250 |
+| 18 | [xyrolle](https://github.com/xyrolle) | Serghei |  |  | Moldova | 5240 |
+| 19 | [httpcatalin](https://github.com/httpcatalin) | Catalin | Eventino |  | Chișinău, Moldova | 5117 |
+| 20 | [fedotovdev](https://github.com/fedotovdev) | Ivan Fedotov |  |  | Chisinau, Moldova | 5019 |

@@ -99,8 +99,8 @@ Published countries: 234
 | Hong Kong | 10,262 | [View](./hong_kong.md) |
 | Hungary | 11,166 | [View](./hungary.md) |
 | Iceland | 1,579 | [View](./iceland.md) |
-| Indonesia | 63,282 | [View](./indonesia.md) |
-| Iran | 26,860 | [View](./iran.md) |
+| Indonesia | 63,280 | [View](./indonesia.md) |
+| Iran | 26,859 | [View](./iran.md) |
 | Iraq | 2,232 | [View](./iraq.md) |
 | Ireland | 19,486 | [View](./ireland.md) |
 | Isle of Man | 155 | [View](./isle_of_man.md) |
@@ -110,7 +110,7 @@ Published countries: 234
 | Jersey | 139 | [View](./jersey.md) |
 | Jordan | 4,004 | [View](./jordan.md) |
 | Kazakhstan | 5,629 | [View](./kazakhstan.md) |
-| Kenya | 24,019 | [View](./kenya.md) |
+| Kenya | 24,018 | [View](./kenya.md) |
 | Kiribati | 4 | [View](./kiribati.md) |
 | Kuwait | 796 | [View](./kuwait.md) |
 | Kyrgyzstan | 2,440 | [View](./kyrgyzstan.md) |
@@ -152,7 +152,7 @@ Published countries: 234
 | New Zealand | 12,145 | [View](./new_zealand.md) |
 | Nicaragua | 1,395 | [View](./nicaragua.md) |
 | Niger | 175 | [View](./niger.md) |
-| Nigeria | 33,181 | [View](./nigeria.md) |
+| Nigeria | 33,180 | [View](./nigeria.md) |
 | Niue | 4 | [View](./niue.md) |
 | Norfolk Island | 1 | [View](./norfolk_island.md) |
 | North Korea | 185 | [View](./north_korea.md) |
@@ -239,4 +239,4 @@ Published countries: 234
 | Zambia | 1,337 | [View](./zambia.md) |
 | Zimbabwe | 1,656 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-20T07:04:19.535Z
+Generated: 2026-10-20T07:39:54.869Z

@@ -1,6 +1,6 @@
 # Public Contributions - Nicaragua
 
-Generated: 2026-10-20T05:56:01.989Z
+Generated: 2026-10-20T07:33:57.581Z
 
 Users: 1395
 
@@ -20,9 +20,9 @@ Users: 1395
 | 12 | [victorstein](https://github.com/victorstein) | Alfonso Emilio Gomez Selva | CleverTech |  | Nicaragua | 1127 |
 | 13 | [fn-cafeina](https://github.com/fn-cafeina) | Jasmir Medina |  |  | Nicaragua | 1081 |
 | 14 | [jp-zuniga](https://github.com/jp-zuniga) | Joaquín Zúñiga | Universidad Americana |  | Managua, Nicaragua | 1065 |
-| 15 | [ernestoruiz89](https://github.com/ernestoruiz89) | Ernesto Ruiz |  | ernestoruiz89 | Nicaragua | 1016 |
-| 16 | [TheSteelNinjaCode](https://github.com/TheSteelNinjaCode) | Jefferson Abraham Omier | The Steel Ninja Code |  | Nicaragua | 955 |
-| 17 | [Gaboxqc](https://github.com/Gaboxqc) | Gabriel Mayorga | MortaCorp |  | Managua | 917 |
-| 18 | [fabmnt](https://github.com/fabmnt) | Fabián Montoya | Dentalrobot | fabmnt_ | Nicaragua | 896 |
-| 19 | [R0LM0](https://github.com/R0LM0) | r0lm0 | None | r0lm0 | Managua, Nicaragua | 895 |
-| 20 | [THEGABOALE](https://github.com/THEGABOALE) | Gabriel Alejandro García Angulo | Universidad Americana (UAM) |  | Managua, Nicaragua | 841 |
+| 15 | [Alvinferdeveloper](https://github.com/Alvinferdeveloper) | Albin Fernandez |  |  | Leon, Nicaragua | 1024 |
+| 16 | [ernestoruiz89](https://github.com/ernestoruiz89) | Ernesto Ruiz |  | ernestoruiz89 | Nicaragua | 1016 |
+| 17 | [TheSteelNinjaCode](https://github.com/TheSteelNinjaCode) | Jefferson Abraham Omier | The Steel Ninja Code |  | Nicaragua | 955 |
+| 18 | [Gaboxqc](https://github.com/Gaboxqc) | Gabriel Mayorga | MortaCorp |  | Managua | 917 |
+| 19 | [fabmnt](https://github.com/fabmnt) | Fabián Montoya | Dentalrobot | fabmnt_ | Nicaragua | 896 |
+| 20 | [R0LM0](https://github.com/R0LM0) | r0lm0 | None | r0lm0 | Managua, Nicaragua | 895 |

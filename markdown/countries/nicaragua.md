@@ -51,12 +51,12 @@ Indexed users: 1,395
 | 12 | [victorstein](https://github.com/victorstein) | Alfonso Emilio Gomez Selva | Nicaragua | 1,127 |
 | 13 | [fn-cafeina](https://github.com/fn-cafeina) | Jasmir Medina | Nicaragua | 1,081 |
 | 14 | [jp-zuniga](https://github.com/jp-zuniga) | Joaquín Zúñiga | Managua, Nicaragua | 1,065 |
-| 15 | [ernestoruiz89](https://github.com/ernestoruiz89) | Ernesto Ruiz | Nicaragua | 1,016 |
-| 16 | [TheSteelNinjaCode](https://github.com/TheSteelNinjaCode) | Jefferson Abraham Omier | Nicaragua | 955 |
-| 17 | [Gaboxqc](https://github.com/Gaboxqc) | Gabriel Mayorga | Managua | 917 |
-| 18 | [fabmnt](https://github.com/fabmnt) | Fabián Montoya | Nicaragua | 896 |
-| 19 | [R0LM0](https://github.com/R0LM0) | r0lm0 | Managua, Nicaragua | 895 |
-| 20 | [THEGABOALE](https://github.com/THEGABOALE) | Gabriel Alejandro García Angulo | Managua, Nicaragua | 841 |
+| 15 | [Alvinferdeveloper](https://github.com/Alvinferdeveloper) | Albin Fernandez | Leon, Nicaragua | 1,024 |
+| 16 | [ernestoruiz89](https://github.com/ernestoruiz89) | Ernesto Ruiz | Nicaragua | 1,016 |
+| 17 | [TheSteelNinjaCode](https://github.com/TheSteelNinjaCode) | Jefferson Abraham Omier | Nicaragua | 955 |
+| 18 | [Gaboxqc](https://github.com/Gaboxqc) | Gabriel Mayorga | Managua | 917 |
+| 19 | [fabmnt](https://github.com/fabmnt) | Fabián Montoya | Nicaragua | 896 |
+| 20 | [R0LM0](https://github.com/R0LM0) | r0lm0 | Managua, Nicaragua | 895 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,395
 | 19 | [luismejiadev](https://github.com/luismejiadev) | Luis Mejia | Managua, Nicaragua | 68 |
 | 20 | [dannygaray60](https://github.com/dannygaray60) | Danny Garay | Nicaragua | 61 |
 
-Generated: 2026-10-20T05:56:01.989Z
+Generated: 2026-10-20T07:33:57.581Z

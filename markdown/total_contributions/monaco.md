@@ -1,6 +1,6 @@
 # Total Contributions - Monaco
 
-Generated: 2026-10-20T05:51:41.731Z
+Generated: 2026-10-20T07:29:13.939Z
 
 Users: 142
 
@@ -14,7 +14,7 @@ Users: 142
 | 6 | [silvainfm](https://github.com/silvainfm) | François-Marie Brych |  |  | Nashville & Monaco | 1777 |
 | 7 | [digitalonyx](https://github.com/digitalonyx) | DigitalOnyx |  |  | Monaco | 1235 |
 | 8 | [matteodevenuto](https://github.com/matteodevenuto) | Matteo De Venuto | Forexizer | matteodevenuto | Monaco | 1138 |
-| 9 | [NicoBocq](https://github.com/NicoBocq) | Nicolas Bocquet | Inforca |  | Marseille / Monaco | 951 |
+| 9 | [NicoBocq](https://github.com/NicoBocq) | Nicolas Bocquet | Inforca |  | Marseille / Monaco | 949 |
 | 10 | [tatianamc](https://github.com/tatianamc) | Tatiana |  |  | Monaco | 783 |
 | 11 | [jz222](https://github.com/jz222) | Timo Zimmermann | Mosaic S.A.R.L |  | Monte-Carlo, Monaco | 782 |
 | 12 | [Orion98MC](https://github.com/Orion98MC) | Thierry Passeron | Monte-Carlo Computing |  | Monaco | 594 |
@@ -23,6 +23,6 @@ Users: 142
 | 15 | [auvents-brave](https://github.com/auvents-brave) | Stéphane |  |  | Monaco | 404 |
 | 16 | [giraudremi92](https://github.com/giraudremi92) | Rémi |  |  | Monaco | 375 |
 | 17 | [scribelia-anthony](https://github.com/scribelia-anthony) | Anthony | Scribelia |  | Monaco | 362 |
-| 18 | [ap705](https://github.com/ap705) | Arnaud Pradier |  |  | Monaco | 273 |
+| 18 | [ap705](https://github.com/ap705) | Arnaud Pradier |  |  | Monaco | 277 |
 | 19 | [Akira98000](https://github.com/Akira98000) | Santhakumaran Akira | Université Nice Côte D'Azur |  | Monaco  | 265 |
 | 20 | [co-stig](https://github.com/co-stig) | Constantine | Vilia |  | Monaco | 256 |

@@ -26,8 +26,8 @@ Indexed users: 354
 | 12 | [jaaahh](https://github.com/jaaahh) | Jaah | Maldives | 5,283 |
 | 13 | [agent306](https://github.com/agent306) | Ncodex | Male', Maldives | 5,276 |
 | 14 | [ayarse](https://github.com/ayarse) | ayaz | Maldives | 4,966 |
-| 15 | [N4ZEN](https://github.com/N4ZEN) | Naza | Maldives | 4,918 |
-| 16 | [NeXsHeLL](https://github.com/NeXsHeLL) | ismile ThuThts | Maldives | 4,912 |
+| 15 | [NeXsHeLL](https://github.com/NeXsHeLL) | ismile ThuThts | Maldives | 4,965 |
+| 16 | [N4ZEN](https://github.com/N4ZEN) | Naza | Maldives | 4,918 |
 | 17 | [roris](https://github.com/roris) | Thoail Ahmed | Maldives | 4,833 |
 | 18 | [muizzu](https://github.com/muizzu) | Muizzu Abbas | Maldives | 4,735 |
 | 19 | [samynmhd](https://github.com/samynmhd) | Mohamed Sameen Firaq | Maldives | 4,174 |
@@ -83,4 +83,4 @@ Indexed users: 354
 | 19 | [muhannad0](https://github.com/muhannad0) | Monde | Maldives | 42 |
 | 20 | [inash](https://github.com/inash) | Inash Zubair | Male', Maldives | 41 |
 
-Generated: 2026-10-20T05:45:26.357Z
+Generated: 2026-10-20T07:25:23.483Z

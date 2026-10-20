@@ -12,11 +12,11 @@ Indexed users: 186
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [FlyOverCoderKY](https://github.com/FlyOverCoderKY) | Fly Over Coder | Georgetown, KY | 8,089 |
+| 1 | [FlyOverCoderKY](https://github.com/FlyOverCoderKY) | Fly Over Coder | Georgetown, KY | 8,095 |
 | 2 | [sandogeorge](https://github.com/sandogeorge) | Sando George | Guyana, South America | 5,503 |
 | 3 | [bdenham](https://github.com/bdenham) | Bruce Denham | Georgetown, Texas | 5,111 |
-| 4 | [rayonhunte](https://github.com/rayonhunte) | Rayon Hunte | Georgetown Guyana | 4,523 |
-| 5 | [barnwell](https://github.com/barnwell) | Jason Barnwell | Guyana | 4,432 |
+| 4 | [rayonhunte](https://github.com/rayonhunte) | Rayon Hunte | Georgetown Guyana | 4,582 |
+| 5 | [barnwell](https://github.com/barnwell) | Jason Barnwell | Guyana | 4,439 |
 | 6 | [ktappdev](https://github.com/ktappdev) | Ken Andrew Taylor | Guyana | 4,127 |
 | 7 | [uberhacker](https://github.com/uberhacker) | Ed Reel | Georgetown, TX | 3,953 |
 | 8 | [pachev](https://github.com/pachev) | Pachev Joseph | Georgetown, TX | 3,914 |
@@ -52,7 +52,7 @@ Indexed users: 186
 | 13 | [aG00Dtime](https://github.com/aG00Dtime) | David Henry | Guyana | 329 |
 | 14 | [ryanrhanson](https://github.com/ryanrhanson) | Ryan Hanson | Georgetown, TX | 324 |
 | 15 | [schrum2](https://github.com/schrum2) | Jacob Schrum | Georgetown, TX | 318 |
-| 16 | [billydavis](https://github.com/billydavis) | Billy Davis | Georgetown, Texas | 296 |
+| 16 | [billydavis](https://github.com/billydavis) | Billy Davis | Georgetown, Texas | 301 |
 | 17 | [barnwell](https://github.com/barnwell) | Jason Barnwell | Guyana | 269 |
 | 18 | [adi-pr](https://github.com/adi-pr) | Aditya (Ruben) Prasad | Guyana | 267 |
 | 19 | [beckettharriman](https://github.com/beckettharriman) | Beckett Harriman | Georgetown, DC | 250 |
@@ -83,4 +83,4 @@ Indexed users: 186
 | 19 | [Alien-nick](https://github.com/Alien-nick) | Nicholas Seetaram | South America, Guyana, Georgetown | 22 |
 | 20 | [duncanfinney](https://github.com/duncanfinney) | Duncan Finney | Georgetown, CO | 22 |
 
-Generated: 2026-10-20T05:31:00.745Z
+Generated: 2026-10-20T07:12:03.129Z

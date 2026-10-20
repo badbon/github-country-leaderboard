@@ -29,9 +29,9 @@ Indexed users: 4,004
 | 15 | [AliBakerSartawi](https://github.com/AliBakerSartawi) | Ali Baker Sartawi | Amman, Jordan | 5,440 |
 | 16 | [shqear93](https://github.com/shqear93) | Khaled AbuShqear | Amman | 5,377 |
 | 17 | [thisisabukarsh](https://github.com/thisisabukarsh) | AbdulRahman AbuKarsh | Jordan, Amman | 5,292 |
-| 18 | [waleedyaseen](https://github.com/waleedyaseen) | Waleed Yaseen | Jordan, Amman | 5,150 |
-| 19 | [OsamaShwman](https://github.com/OsamaShwman) | Osama Shoman | Jordan | 5,122 |
-| 20 | [DefinetlyNotAI](https://github.com/DefinetlyNotAI) | Shahm Najeeb | Jordan, Amman | 5,114 |
+| 18 | [AmroKSaleh](https://github.com/AmroKSaleh) | Amro Saleh | Jordan | 5,168 |
+| 19 | [waleedyaseen](https://github.com/waleedyaseen) | Waleed Yaseen | Jordan, Amman | 5,150 |
+| 20 | [OsamaShwman](https://github.com/OsamaShwman) | Osama Shoman | Jordan | 5,122 |
 
 ## Public Contributions
 
@@ -43,9 +43,9 @@ Indexed users: 4,004
 | 4 | [DefinetlyNotAI](https://github.com/DefinetlyNotAI) | Shahm Najeeb | Jordan, Amman | 4,161 |
 | 5 | [abuaboud](https://github.com/abuaboud) | Mo AbuAboud | Amman, Jordan | 3,432 |
 | 6 | [omar-dulaimi](https://github.com/omar-dulaimi) | Omar Dulaimi | Jordan | 3,065 |
-| 7 | [iofahmawi](https://github.com/iofahmawi) | Mohammad Fahmawi | Jordan | 2,784 |
-| 8 | [Natshah](https://github.com/Natshah) | Rajab Natshah | Amman, Jordan | 2,587 |
-| 9 | [AmroKSaleh](https://github.com/AmroKSaleh) | Amro Saleh | Jordan | 2,052 |
+| 7 | [AmroKSaleh](https://github.com/AmroKSaleh) | Amro Saleh | Jordan | 2,957 |
+| 8 | [iofahmawi](https://github.com/iofahmawi) | Mohammad Fahmawi | Jordan | 2,784 |
+| 9 | [Natshah](https://github.com/Natshah) | Rajab Natshah | Amman, Jordan | 2,587 |
 | 10 | [OmarAlJarrah](https://github.com/OmarAlJarrah) | Omar Aljarrah | Jordan | 2,042 |
 | 11 | [MKAbuMattar](https://github.com/MKAbuMattar) | Mohammad Abu Mattar | Amman, Jordan | 1,938 |
 | 12 | [DRAGOX7](https://github.com/DRAGOX7) | Abdallah Talal Abdallah Alja'Fari | Jordan | 1,783 |
@@ -83,4 +83,4 @@ Indexed users: 4,004
 | 19 | [Eng-Mohamed-Elsayed](https://github.com/Eng-Mohamed-Elsayed) | Eng-Mohamed Elsayed | Jordan | 197 |
 | 20 | [omar-dulaimi](https://github.com/omar-dulaimi) | Omar Dulaimi | Jordan | 192 |
 
-Generated: 2026-10-20T05:37:26.778Z
+Generated: 2026-10-20T07:17:35.733Z

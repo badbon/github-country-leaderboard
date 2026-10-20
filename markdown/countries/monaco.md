@@ -20,7 +20,7 @@ Indexed users: 142
 | 6 | [silvainfm](https://github.com/silvainfm) | François-Marie Brych | Nashville & Monaco | 1,777 |
 | 7 | [digitalonyx](https://github.com/digitalonyx) | DigitalOnyx | Monaco | 1,235 |
 | 8 | [matteodevenuto](https://github.com/matteodevenuto) | Matteo De Venuto | Monaco | 1,138 |
-| 9 | [NicoBocq](https://github.com/NicoBocq) | Nicolas Bocquet | Marseille / Monaco | 951 |
+| 9 | [NicoBocq](https://github.com/NicoBocq) | Nicolas Bocquet | Marseille / Monaco | 949 |
 | 10 | [tatianamc](https://github.com/tatianamc) | Tatiana | Monaco | 783 |
 | 11 | [jz222](https://github.com/jz222) | Timo Zimmermann | Monte-Carlo, Monaco | 782 |
 | 12 | [Orion98MC](https://github.com/Orion98MC) | Thierry Passeron | Monaco | 594 |
@@ -29,7 +29,7 @@ Indexed users: 142
 | 15 | [auvents-brave](https://github.com/auvents-brave) | Stéphane | Monaco | 404 |
 | 16 | [giraudremi92](https://github.com/giraudremi92) | Rémi | Monaco | 375 |
 | 17 | [scribelia-anthony](https://github.com/scribelia-anthony) | Anthony | Monaco | 362 |
-| 18 | [ap705](https://github.com/ap705) | Arnaud Pradier | Monaco | 273 |
+| 18 | [ap705](https://github.com/ap705) | Arnaud Pradier | Monaco | 277 |
 | 19 | [Akira98000](https://github.com/Akira98000) | Santhakumaran Akira | Monaco  | 265 |
 | 20 | [co-stig](https://github.com/co-stig) | Constantine | Monaco | 256 |
 
@@ -44,7 +44,7 @@ Indexed users: 142
 | 5 | [auvents-brave](https://github.com/auvents-brave) | Stéphane | Monaco | 236 |
 | 6 | [AlexRLG98](https://github.com/AlexRLG98) | Alex_RLG | Monaco | 212 |
 | 7 | [co-stig](https://github.com/co-stig) | Constantine | Monaco | 172 |
-| 8 | [NicoBocq](https://github.com/NicoBocq) | Nicolas Bocquet | Marseille / Monaco | 148 |
+| 8 | [NicoBocq](https://github.com/NicoBocq) | Nicolas Bocquet | Marseille / Monaco | 146 |
 | 9 | [margauxhaering](https://github.com/margauxhaering) | Margaux Haering | Monaco | 123 |
 | 10 | [Steve-Deguilly](https://github.com/Steve-Deguilly) | Steve DEGUILLY | Nice / Monaco / Sophia Antipolis | 116 |
 | 11 | [fedecarz](https://github.com/fedecarz) | fedecarz | Monaco | 99 |
@@ -83,4 +83,4 @@ Indexed users: 142
 | 19 | [coachklng12](https://github.com/coachklng12) |  | Monaco | 14 |
 | 20 | [co-stig](https://github.com/co-stig) | Constantine | Monaco | 13 |
 
-Generated: 2026-10-20T05:51:41.731Z
+Generated: 2026-10-20T07:29:13.939Z

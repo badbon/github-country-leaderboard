@@ -1,6 +1,6 @@
 # Followers - Lesotho
 
-Generated: 2026-10-20T05:41:53.661Z
+Generated: 2026-10-20T07:20:33.632Z
 
 Users: 160
 
@@ -19,9 +19,9 @@ Users: 160
 | 11 | [Ntlele](https://github.com/Ntlele) | David |  |  | Lesotho | 25 |
 | 12 | [tshakalekholoane](https://github.com/tshakalekholoane) | Tshaka Lekholoane |  |  | Maseru, Lesotho | 19 |
 | 13 | [KaaraOpCode](https://github.com/KaaraOpCode) | Tlokotsi Potloane | @codeburst-ls CodeBurst Pty Ltd |  | Lesotho | 15 |
-| 14 | [Bothata-desig](https://github.com/Bothata-desig) | Bothata Sello |  |  | Maseru, Lesotho | 14 |
-| 15 | [KNkoe](https://github.com/KNkoe) | Katleho Nkoe | Ducens PTY LTD |  | Maseru | 14 |
-| 16 | [mokaty1818795](https://github.com/mokaty1818795) | Tlotliso Mokati | Eazy Tech Solutions |  | Maseru Qoaling | 14 |
+| 14 | [mokaty1818795](https://github.com/mokaty1818795) | Tlotliso Mokati | Eazy Tech Solutions |  | Maseru Qoaling | 15 |
+| 15 | [Bothata-desig](https://github.com/Bothata-desig) | Bothata Sello |  |  | Maseru, Lesotho | 14 |
+| 16 | [KNkoe](https://github.com/KNkoe) | Katleho Nkoe | Ducens PTY LTD |  | Maseru | 14 |
 | 17 | [Thomello](https://github.com/Thomello) | Thomello |  |  | Maseru, Lesotho | 14 |
 | 18 | [bonzysalesman](https://github.com/bonzysalesman) | Bonzy Salesman | Weblesotho Networks |  | Maseru | 13 |
 | 19 | [lotesm](https://github.com/lotesm) | Lotes Molapo | Bethord Solutions |  | Maseru, Lesotho | 13 |
