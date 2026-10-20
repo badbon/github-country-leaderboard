@@ -47,9 +47,9 @@ Indexed users: 1,395
 | 8 | [carlosrenatohr](https://github.com/carlosrenatohr) | Carlos Hernandez | Managua, Nicaragua | 1,249 |
 | 9 | [ErvingMiranda](https://github.com/ErvingMiranda) | Ezone | Nicaragua | 1,234 |
 | 10 | [MaycollJaramillo01](https://github.com/MaycollJaramillo01) | Maycoll Jaramillo | Nicaragua | 1,173 |
-| 11 | [victorstein](https://github.com/victorstein) | Alfonso Emilio Gomez Selva | Nicaragua | 1,127 |
-| 12 | [fn-cafeina](https://github.com/fn-cafeina) | Jasmir Medina | Nicaragua | 1,081 |
-| 13 | [staFF6773](https://github.com/staFF6773) | Not_staff | República de Nicaragua | 1,070 |
+| 11 | [staFF6773](https://github.com/staFF6773) | Not_staff | República de Nicaragua | 1,127 |
+| 12 | [victorstein](https://github.com/victorstein) | Alfonso Emilio Gomez Selva | Nicaragua | 1,127 |
+| 13 | [fn-cafeina](https://github.com/fn-cafeina) | Jasmir Medina | Nicaragua | 1,081 |
 | 14 | [jp-zuniga](https://github.com/jp-zuniga) | Joaquín Zúñiga | Managua, Nicaragua | 1,065 |
 | 15 | [ernestoruiz89](https://github.com/ernestoruiz89) | Ernesto Ruiz | Nicaragua | 1,016 |
 | 16 | [TheSteelNinjaCode](https://github.com/TheSteelNinjaCode) | Jefferson Abraham Omier | Nicaragua | 955 |
@@ -62,10 +62,10 @@ Indexed users: 1,395
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [CrisLottz](https://github.com/CrisLottz) | Cris Lottz | Nicaragua | 2,238 |
+| 1 | [CrisLottz](https://github.com/CrisLottz) | Cris Lottz | Nicaragua | 2,249 |
 | 2 | [paulomcnally](https://github.com/paulomcnally) | Paulo McNally | Mangua, Nicaragua | 214 |
-| 3 | [Aleejandro26](https://github.com/Aleejandro26) | Aleejandro Lagu. | [Rivas, Nicaragua] | 178 |
-| 4 | [QuesilloLover](https://github.com/QuesilloLover) | Adilia Moreno | Nicaragua | 158 |
+| 3 | [Aleejandro26](https://github.com/Aleejandro26) | Aleejandro Lagu. | [Rivas, Nicaragua] | 187 |
+| 4 | [QuesilloLover](https://github.com/QuesilloLover) | Adilia Moreno | Nicaragua | 157 |
 | 5 | [fitoria](https://github.com/fitoria) | Adolfo Fitoria | Mangua, Nicaragua | 147 |
 | 6 | [Elmnik](https://github.com/Elmnik) | Elmer Aguilar | Nicaragua | 144 |
 | 7 | [Victor-0rtiz](https://github.com/Victor-0rtiz) | Victor Oss | Nicaragua | 143 |
@@ -83,4 +83,4 @@ Indexed users: 1,395
 | 19 | [luismejiadev](https://github.com/luismejiadev) | Luis Mejia | Managua, Nicaragua | 68 |
 | 20 | [dannygaray60](https://github.com/dannygaray60) | Danny Garay | Nicaragua | 61 |
 
-Generated: 2026-10-19T23:57:33.578Z
+Generated: 2026-10-20T01:21:45.288Z

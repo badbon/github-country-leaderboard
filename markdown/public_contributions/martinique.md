@@ -1,17 +1,17 @@
 # Public Contributions - Martinique
 
-Generated: 2026-10-19T23:50:28.838Z
+Generated: 2026-10-20T01:16:25.028Z
 
 Users: 75
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [glefait](https://github.com/glefait) | Guillem Lefait | @Holimetrix @tvty-official  |  | Fort-de-France, Martinique | 5202 |
+| 1 | [glefait](https://github.com/glefait) | Guillem Lefait | @Holimetrix @tvty-official  |  | Fort-de-France, Martinique | 5194 |
 | 2 | [pyleglise](https://github.com/pyleglise) | Pierre-Yves Léglise | axialdata |  | Schoelcher, Martinique | 5048 |
 | 3 | [diasjorge](https://github.com/diasjorge) | Jorge Dias | http://aerisnova.com | dias_jorge | Martinique | 1524 |
 | 4 | [p4cm4n972](https://github.com/p4cm4n972) | Manuel ADELE |  |  | Martinique | 716 |
 | 5 | [GuillaumeBld](https://github.com/GuillaumeBld) | Guillaume Bolivard |  |  | Chicago / Fort-de-France | 486 |
-| 6 | [blazux](https://github.com/blazux) | Vincent B. |  |  | Martinique | 420 |
+| 6 | [blazux](https://github.com/blazux) | Vincent B. |  |  | Martinique | 418 |
 | 7 | [esrid](https://github.com/esrid) | ADS | none | as_esrid | Martinique | 399 |
 | 8 | [steeven-js](https://github.com/steeven-js) | steeven_js | Madin.IA |  | Martinique | 372 |
 | 9 | [ricard33](https://github.com/ricard33) | Cédric RICARD |  |  | Martinique | 330 |
@@ -23,6 +23,6 @@ Users: 75
 | 15 | [Ulrico972](https://github.com/Ulrico972) | Ulrich Giberné | Airship |  | Martinique | 141 |
 | 16 | [marieangeliquepied](https://github.com/marieangeliquepied) | Marie-Angélique PIED |  |  | Martinique  | 126 |
 | 17 | [kodzukye](https://github.com/kodzukye) | Jayyy ⋆˚✿˖° |  |  | Martinique | 90 |
-| 18 | [aldofwi](https://github.com/aldofwi) | Dominique ALMANDIN | ΛDHD | aldofwi | Martinique | 77 |
+| 18 | [aldofwi](https://github.com/aldofwi) | Dominique ALMANDIN | ΛDHD | aldofwi | Martinique | 76 |
 | 19 | [TCox972](https://github.com/TCox972) | Jean-Jérôme |  |  | Martinique | 33 |
 | 20 | [anthony-nosibor](https://github.com/anthony-nosibor) | Anthony nosibor |  |  | Martinique | 24 |

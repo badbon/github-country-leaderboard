@@ -71,8 +71,8 @@ Indexed users: 439
 | 7 | [clinplayer](https://github.com/clinplayer) | Cheng Lin | Macau | 167 |
 | 8 | [IMRL](https://github.com/IMRL) |  | Taipa, Macau | 166 |
 | 9 | [QingbiaoLi](https://github.com/QingbiaoLi) | Qingbiao Li | Macau | 129 |
-| 10 | [manesec](https://github.com/manesec) | Mane | Macau | 127 |
-| 11 | [iefuzzer](https://github.com/iefuzzer) | iefuzzer | Macau | 126 |
+| 10 | [iefuzzer](https://github.com/iefuzzer) | iefuzzer | Macau | 127 |
+| 11 | [manesec](https://github.com/manesec) | Mane | Macau | 127 |
 | 12 | [makzan](https://github.com/makzan) | Thomas Seng Hin Mak | Macao | 110 |
 | 13 | [mengguyi](https://github.com/mengguyi) | 孟古一 | Macau | 105 |
 | 14 | [wahengchang](https://github.com/wahengchang) | peterchang | macau | 100 |
@@ -83,4 +83,4 @@ Indexed users: 439
 | 19 | [1595901624](https://github.com/1595901624) | Cloris | Macau | 68 |
 | 20 | [Boom5426](https://github.com/Boom5426) | Bo li (李波) | Macau | 68 |
 
-Generated: 2026-10-19T23:48:39.600Z
+Generated: 2026-10-20T01:13:54.824Z

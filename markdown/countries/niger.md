@@ -31,7 +31,7 @@ Indexed users: 175
 | 17 | [Imrana-Moustapha](https://github.com/Imrana-Moustapha) | Imrana Moustapha | Niamey-Niger | 526 |
 | 18 | [netmophus](https://github.com/netmophus) | NETMORPHUS | Niamey | 495 |
 | 19 | [Kounou25](https://github.com/Kounou25) | Kounou Gilbert | Niamey,Niger | 457 |
-| 20 | [bkina1](https://github.com/bkina1) | Boubacar Kina | Niger | 413 |
+| 20 | [bkina1](https://github.com/bkina1) | Boubacar Kina | Niger | 411 |
 
 ## Public Contributions
 
@@ -51,12 +51,12 @@ Indexed users: 175
 | 12 | [feyroozecode](https://github.com/feyroozecode) | Ibrahim Ahmad (feyroozecode) | Niger | 160 |
 | 13 | [Carbouba](https://github.com/Carbouba) | BOUBACAR MAMANE SANI CHEFFOU | Niamey-Niger | 138 |
 | 14 | [abbuss11](https://github.com/abbuss11) | ABBA | Niamey, Niger | 114 |
-| 15 | [MahamadouG0](https://github.com/MahamadouG0) | Mahamadou GARBA | Niamey, Niger  | 103 |
-| 16 | [annmart-svg](https://github.com/annmart-svg) | Anna Martyn | Niger, Niamey | 100 |
-| 17 | [F3T1W](https://github.com/F3T1W) | Vlad Matiushin | Zinder, Niger | 100 |
-| 18 | [Imrana-Moustapha](https://github.com/Imrana-Moustapha) | Imrana Moustapha | Niamey-Niger | 96 |
-| 19 | [youss-uiux](https://github.com/youss-uiux) | Aboubacar Youssif | Niamey Niger | 95 |
-| 20 | [Chaibouu](https://github.com/Chaibouu) | Chaibouu | Niger | 94 |
+| 15 | [Chaibouu](https://github.com/Chaibouu) | Chaibouu | Niger | 107 |
+| 16 | [MahamadouG0](https://github.com/MahamadouG0) | Mahamadou GARBA | Niamey, Niger  | 103 |
+| 17 | [annmart-svg](https://github.com/annmart-svg) | Anna Martyn | Niger, Niamey | 100 |
+| 18 | [F3T1W](https://github.com/F3T1W) | Vlad Matiushin | Zinder, Niger | 100 |
+| 19 | [Imrana-Moustapha](https://github.com/Imrana-Moustapha) | Imrana Moustapha | Niamey-Niger | 96 |
+| 20 | [youss-uiux](https://github.com/youss-uiux) | Aboubacar Youssif | Niamey Niger | 95 |
 
 ## Followers
 
@@ -69,8 +69,8 @@ Indexed users: 175
 | 5 | [Yacoubou-seidou](https://github.com/Yacoubou-seidou) | Yacos | Niamey/Niger | 67 |
 | 6 | [abass-dev](https://github.com/abass-dev) | Mr. Abass | Niamey, Niger | 66 |
 | 7 | [HamaBarhamou](https://github.com/HamaBarhamou) | HAMA Barhamou | Niger | 48 |
-| 8 | [bkina1](https://github.com/bkina1) | Boubacar Kina | Niger | 31 |
-| 9 | [Chaibouu](https://github.com/Chaibouu) | Chaibouu | Niger | 31 |
+| 8 | [Chaibouu](https://github.com/Chaibouu) | Chaibouu | Niger | 31 |
+| 9 | [bkina1](https://github.com/bkina1) | Boubacar Kina | Niger | 29 |
 | 10 | [malnuxstarck](https://github.com/malnuxstarck) | Abdoul Malik | Niamey , Niger | 29 |
 | 11 | [ab3masta](https://github.com/ab3masta) | Abdou Abarchi Aboubacar | Niamey-Niger | 28 |
 | 12 | [TrakyRichard](https://github.com/TrakyRichard) | Traky Richard | Niger | 27 |
@@ -83,4 +83,4 @@ Indexed users: 175
 | 19 | [ibkhall](https://github.com/ibkhall) | Ibrahim Boubacar | Niamey | 17 |
 | 20 | [Imrana-Moustapha](https://github.com/Imrana-Moustapha) | Imrana Moustapha | Niamey-Niger | 17 |
 
-Generated: 2026-10-19T23:58:08.644Z
+Generated: 2026-10-20T01:22:24.891Z

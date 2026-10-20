@@ -56,7 +56,7 @@ Indexed users: 1,224
 | 17 | [mbj](https://github.com/mbj) | Markus Schirp | Malta | 1,980 |
 | 18 | [terranc](https://github.com/terranc) | Terran | Malta | 1,891 |
 | 19 | [max-lt](https://github.com/max-lt) |  | Malta | 1,700 |
-| 20 | [owenfar](https://github.com/owenfar) |  | Malta | 1,305 |
+| 20 | [owenfar](https://github.com/owenfar) |  | Malta | 1,331 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,224
 | 19 | [mattcg](https://github.com/mattcg) | Matthew Caruana Galizia | Malta | 126 |
 | 20 | [CM2Walki](https://github.com/CM2Walki) | Walki | Malta | 118 |
 
-Generated: 2026-10-19T23:49:20.528Z
+Generated: 2026-10-20T01:16:17.416Z

@@ -1,6 +1,6 @@
 # Followers - Malaysia
 
-Generated: 2026-10-19T23:49:08.588Z
+Generated: 2026-10-20T01:14:54.087Z
 
 Users: 11787
 
@@ -10,8 +10,8 @@ Users: 11787
 | 2 | [crynobone](https://github.com/crynobone) | Mior Muhammad Zaki | @laravel  | crynobone | Malaysia | 1782 |
 | 3 | [rc-chuah](https://github.com/rc-chuah) | RC Chuah | @RaynerSec @Design-Enginnering @Krypto-Hashers-Community @mmo-org-my @rayner-iot-solutions | rc_chuah | Shah Alam, Selangor, Malaysia | 1757 |
 | 4 | [bluwy](https://github.com/bluwy) | Bjorn Lu |  | bluwyoo | Kuching, Sarawak, Malaysia | 1648 |
-| 5 | [Shamim-Al-Mamun](https://github.com/Shamim-Al-Mamun) | Mamun | https://www.igsb.com.my |  | Kuala Lumpur, Malaysia | 1592 |
-| 6 | [katiehuangx](https://github.com/katiehuangx) | Katie Huang | DataLemur |  | Malaysia | 1520 |
+| 5 | [Shamim-Al-Mamun](https://github.com/Shamim-Al-Mamun) | Mamun | https://www.igsb.com.my |  | Kuala Lumpur, Malaysia | 1582 |
+| 6 | [katiehuangx](https://github.com/katiehuangx) | Katie Huang |  |  | Malaysia | 1554 |
 | 7 | [zernonia](https://github.com/zernonia) | zernonia | Troop Travel | zernonia | Malaysia | 949 |
 | 8 | [mahmudahsan](https://github.com/mahmudahsan) | Mahmud Ahsan | WhatsGood LLC | mahmudahsan | Cyberjaya, Malaysia | 878 |
 | 9 | [sanikkenway](https://github.com/sanikkenway) | Nik Saiful Anuar | @medkadsdnbhd...@saniklab | sanikkenway | Kuala Lumpur, Malaysia | 843 |

@@ -1,6 +1,6 @@
 # Public Contributions - Liberia
 
-Generated: 2026-10-19T23:46:31.508Z
+Generated: 2026-10-20T01:11:09.725Z
 
 Users: 210
 
@@ -8,7 +8,7 @@ Users: 210
 |---:|---|---|---|---|---|---:|
 | 1 | [priceflex](https://github.com/priceflex) | Steven Price | Tech Rockstars |  | Monrovia, CA | 1516 |
 | 2 | [Carlostala04](https://github.com/Carlostala04) | Carlos Talavera |  |  | Liberia | 1142 |
-| 3 | [jdaltonll02](https://github.com/jdaltonll02) | John Dalton Gibson | Vendorad |  | Liberia | 762 |
+| 3 | [jdaltonll02](https://github.com/jdaltonll02) | John Dalton Gibson | Vendorad |  | Liberia | 763 |
 | 4 | [efmomoh](https://github.com/efmomoh) | ENSSAH FAYIA MOMOH | FRONT-END DEVELOPER | efmomoh | Monrovia, Liberia | 718 |
 | 5 | [timtjoe](https://github.com/timtjoe) | Tim T. Joe |  |  | Liberia, West Africa | 584 |
 | 6 | [RA9](https://github.com/RA9) | Carlos S. Nah  |  | rademejs | Liberia  | 358 |
@@ -23,6 +23,6 @@ Users: 210
 | 15 | [Deviskalo](https://github.com/Deviskalo) | Dev Iskalo |  |  | Monrovia, Liberia | 187 |
 | 16 | [1989shack](https://github.com/1989shack) | Martin M Sheriff | 1989shack Inc. | shacktimemonco | Monrovia, Liberia | 171 |
 | 17 | [stenson](https://github.com/stenson) | Rob Stenson | @goodhertz  | robstenson | Monrovia, CA | 156 |
-| 18 | [brimaabrahamfuller-blip](https://github.com/brimaabrahamfuller-blip) | Brima Abraham Fuller | NextGents Tech Inc. |  | Rwanda, Liberia. | 144 |
+| 18 | [brimaabrahamfuller-blip](https://github.com/brimaabrahamfuller-blip) | Brima Abraham Fuller | NextGents Tech Inc. |  | Rwanda, Liberia. | 143 |
 | 19 | [armandosolisvillegas-max](https://github.com/armandosolisvillegas-max) | Armando José Solís Villegas |  |  | Liberia | 139 |
 | 20 | [boakaidorborkamara](https://github.com/boakaidorborkamara) | Boakai Dorbor Kamara | Sogital Lab | bdk_codes | West Africa, Liberia | 134 |

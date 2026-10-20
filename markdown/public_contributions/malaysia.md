@@ -1,6 +1,6 @@
 # Public Contributions - Malaysia
 
-Generated: 2026-10-19T23:49:08.588Z
+Generated: 2026-10-20T01:14:54.087Z
 
 Users: 11787
 
@@ -22,7 +22,7 @@ Users: 11787
 | 14 | [lifeofgurpreet](https://github.com/lifeofgurpreet) | Gurpreet | Biji-biji Initiative | lifeofgurpreet | Malaysia | 4956 |
 | 15 | [msmalley](https://github.com/msmalley) | msmalley | OpenSource Technology Evangelist and BlockChain Enthusiast |  | Kuala Lumpur, Malaysia | 4748 |
 | 16 | [season179](https://github.com/season179) | Season Saw |  | seasonsaw | Kuala Lumpur, Malaysia | 4711 |
-| 17 | [AqFad2811](https://github.com/AqFad2811) | AqFad |  | AqFad2811 | Malaysia | 4642 |
-| 18 | [mingng18](https://github.com/mingng18) | ConcurrentB | AILens Group |  | Kuala Lumpur, Malaysia | 4566 |
+| 17 | [mingng18](https://github.com/mingng18) | ConcurrentB | AILens Group |  | Kuala Lumpur, Malaysia | 4566 |
+| 18 | [AqFad2811](https://github.com/AqFad2811) | AqFad |  | AqFad2811 | Malaysia | 4142 |
 | 19 | [siakhooi](https://github.com/siakhooi) | Siak Hooi |  |  | Malaysia | 4072 |
 | 20 | [hollowaykeanho](https://github.com/hollowaykeanho) | (Holloway) Chew, Kean Ho | Independent |  | Malaysia, South East Asia | 3857 |

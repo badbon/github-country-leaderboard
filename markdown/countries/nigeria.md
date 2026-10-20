@@ -45,18 +45,18 @@ Indexed users: 33,181
 | 6 | [samkiell](https://github.com/samkiell) | Samuel Ezekiel  | Ile Ife, Osun State, Nigeria. | 8,039 |
 | 7 | [beresdowds-afk](https://github.com/beresdowds-afk) | Olusola Adebayo  | Nigeria  | 7,029 |
 | 8 | [eshanokpe](https://github.com/eshanokpe) | Dannicode | Lagos, Nigeria | 6,755 |
-| 9 | [ademosuoluwatobi-cloud](https://github.com/ademosuoluwatobi-cloud) | Oluwatobi Peter Ademosu | Ibadan, Nigeria | 6,320 |
-| 10 | [aabxtract](https://github.com/aabxtract) | Afolami Anuoluwapo | Akure, Nigeria | 6,194 |
-| 11 | [Xaxxoo](https://github.com/Xaxxoo) |  | Nigeria | 6,151 |
-| 12 | [Officialhomie](https://github.com/Officialhomie) | OneTrueHomie | Lagos, Nigeria | 5,789 |
-| 13 | [caxtonacollins](https://github.com/caxtonacollins) | caxton strange | Nigeria | 5,675 |
-| 14 | [DiceTech435](https://github.com/DiceTech435) | Amevye Matthew | Lagos, Nigeria | 5,604 |
-| 15 | [xt42io](https://github.com/xt42io) | Akinkunmi | Nigeria | 5,016 |
-| 16 | [O-BERNARDOFOEGBU](https://github.com/O-BERNARDOFOEGBU) | Bernard Ofoegbu | Nigeria | 4,979 |
-| 17 | [bamiebot-maker](https://github.com/bamiebot-maker) | Ibrahim Bamidele. S | Nigeria | 4,903 |
-| 18 | [KusuConsult-NG](https://github.com/KusuConsult-NG) | KusuConsult | Jos, Nigeria | 4,714 |
-| 19 | [BigBen-7](https://github.com/BigBen-7) | Benard Simon | Nigeria | 4,658 |
-| 20 | [Lovethrech](https://github.com/Lovethrech) | Rachael | Lagos, Nigeria | 4,596 |
+| 9 | [Emmy123222](https://github.com/Emmy123222) | Emmanuel ogheneovo | Nigeria | 6,701 |
+| 10 | [ademosuoluwatobi-cloud](https://github.com/ademosuoluwatobi-cloud) | Oluwatobi Peter Ademosu | Ibadan, Nigeria | 6,320 |
+| 11 | [aabxtract](https://github.com/aabxtract) | Afolami Anuoluwapo | Akure, Nigeria | 6,194 |
+| 12 | [Xaxxoo](https://github.com/Xaxxoo) |  | Nigeria | 6,151 |
+| 13 | [Officialhomie](https://github.com/Officialhomie) | OneTrueHomie | Lagos, Nigeria | 5,789 |
+| 14 | [caxtonacollins](https://github.com/caxtonacollins) | caxton strange | Nigeria | 5,675 |
+| 15 | [DiceTech435](https://github.com/DiceTech435) | Amevye Matthew | Lagos, Nigeria | 5,604 |
+| 16 | [xt42io](https://github.com/xt42io) | Akinkunmi | Nigeria | 5,016 |
+| 17 | [O-BERNARDOFOEGBU](https://github.com/O-BERNARDOFOEGBU) | Bernard Ofoegbu | Nigeria | 4,979 |
+| 18 | [bamiebot-maker](https://github.com/bamiebot-maker) | Ibrahim Bamidele. S | Nigeria | 4,903 |
+| 19 | [KusuConsult-NG](https://github.com/KusuConsult-NG) | KusuConsult | Jos, Nigeria | 4,714 |
+| 20 | [BigBen-7](https://github.com/BigBen-7) | Benard Simon | Nigeria | 4,658 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 33,181
 | 19 | [samglish](https://github.com/samglish) | BEIDI DINA SAMUEL | Nigeria, Yola | 759 |
 | 20 | [slick-codes](https://github.com/slick-codes) | Paul Ezekiel-Hart | Nigeria | 709 |
 
-Generated: 2026-10-19T23:58:46.372Z
+Generated: 2026-10-20T01:22:33.502Z

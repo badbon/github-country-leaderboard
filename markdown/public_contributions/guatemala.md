@@ -1,15 +1,15 @@
 # Public Contributions - Guatemala
 
-Generated: 2026-10-19T23:37:04.115Z
+Generated: 2026-10-20T01:01:20.464Z
 
-Users: 3214
+Users: 3213
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [Lewatoto](https://github.com/Lewatoto) | Gerson Alvarado | @SparkProjects  | Lewatoto | Guatemala | 15012 |
-| 2 | [Aisaac2205](https://github.com/Aisaac2205) | Isaac Sarceño |  |  | Jutiapa, Guatemala | 2116 |
-| 3 | [PlataformasInformaticas](https://github.com/PlataformasInformaticas) | Plataformas Informáticas | Plataformas Informáticas |  | Guatemala | 1739 |
-| 4 | [gaborage](https://github.com/gaborage) | Gabriel Rosales | @rewardsweb  |  | Guatemala | 1719 |
+| 2 | [gaborage](https://github.com/gaborage) | Gabriel Rosales | @rewardsweb  |  | Guatemala | 3360 |
+| 3 | [Aisaac2205](https://github.com/Aisaac2205) | Isaac Sarceño |  |  | Jutiapa, Guatemala | 2116 |
+| 4 | [PlataformasInformaticas](https://github.com/PlataformasInformaticas) | Plataformas Informáticas | Plataformas Informáticas |  | Guatemala | 1739 |
 | 5 | [Adriianh](https://github.com/Adriianh) | Adrián Fúnez | @devblook |  | Guatemala | 1700 |
 | 6 | [acwilan](https://github.com/acwilan) | Andres Rovira | @telus | acwilan | Guatemala | 1666 |
 | 7 | [anndreloopez012](https://github.com/anndreloopez012) | Andre Lopez | ALCORE |  | Guatemala | 1633 |

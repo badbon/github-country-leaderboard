@@ -53,7 +53,7 @@ Indexed users: 2,197
 | 14 | [Amer-Abuyaqob](https://github.com/Amer-Abuyaqob) | Amer Abuyaqob | Palestine \|  ✌︎︎ ︎فِلَـسَـٓــِٰٓطٓـيَنُ | 918 |
 | 15 | [fjcj0](https://github.com/fjcj0) | 𝓞𝓜𝓐𝓡 𝓒𝓞𝓓𝓘𝓝𝓖🐉 | Palestine,Ramallah | 915 |
 | 16 | [Adel-Shurrab](https://github.com/Adel-Shurrab) | Adel Shurrab | Palestine, Gaza, Khan yunis | 816 |
-| 17 | [SamehDheir](https://github.com/SamehDheir) | Sameh Dheir | Palestine/ Gaza | 802 |
+| 17 | [SamehDheir](https://github.com/SamehDheir) | Sameh Dheir | Palestine/ Gaza | 798 |
 | 18 | [AMD4x](https://github.com/AMD4x) | Ahmed Mustafa | Palestine | 774 |
 | 19 | [zaidmoen](https://github.com/zaidmoen) | Zaid Mayyalleh | Palestine | 766 |
 | 20 | [Baraa-Rj](https://github.com/Baraa-Rj) | Baraa RJ | Palestine | 761 |
@@ -83,4 +83,4 @@ Indexed users: 2,197
 | 19 | [dalia2323](https://github.com/dalia2323) |  | Qalqilya, Palestine | 129 |
 | 20 | [mhmdio](https://github.com/mhmdio) | Mohammed Almusaddar | Gaza, Palestine | 125 |
 
-Generated: 2026-10-20T00:00:38.595Z
+Generated: 2026-10-20T01:26:32.036Z

@@ -1,6 +1,6 @@
 # Total Contributions - Myanmar
 
-Generated: 2026-10-19T23:56:10.013Z
+Generated: 2026-10-20T01:19:00.225Z
 
 Users: 2056
 
@@ -10,8 +10,8 @@ Users: 2056
 | 2 | [peterlianpi](https://github.com/peterlianpi) | Peter |  | peterlianpi | Myanmar | 8676 |
 | 3 | [MoeThetKhine](https://github.com/MoeThetKhine) | Moe Thet Khine |  |  | Yangon,Myanmar | 7085 |
 | 4 | [nyeinkokoaung404](https://github.com/nyeinkokoaung404) | i AM 404 |  |  | Myanmar | 6481 |
-| 5 | [gon-khaung](https://github.com/gon-khaung) | GK |  |  | Yangon, Myanmar | 5531 |
-| 6 | [thitlwincoder](https://github.com/thitlwincoder) | Thit Lwin | Remote |  | Yangon, Myanmar(Burma) | 5527 |
+| 5 | [thitlwincoder](https://github.com/thitlwincoder) | Thit Lwin | Remote |  | Yangon, Myanmar(Burma) | 5527 |
+| 6 | [gon-khaung](https://github.com/gon-khaung) | GK |  |  | Yangon, Myanmar | 5525 |
 | 7 | [kokim2022](https://github.com/kokim2022) | hwaung | Klink Myanmar, Oakhouse Technology |  | Yangon, Myanmar | 5398 |
 | 8 | [aungaung99](https://github.com/aungaung99) | Aung Naing Oo | @Efficient-Soft |  | Yangon, Myanmar | 5157 |
 | 9 | [kwarnkham](https://github.com/kwarnkham) | SAI KWRN KHAM |  |  | Yangon, Myanmar | 4699 |

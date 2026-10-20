@@ -30,8 +30,8 @@ Indexed users: 1,579
 | 16 | [bjornj12](https://github.com/bjornj12) | Björn Ólafur Jóhannsson | iceland | 7,381 |
 | 17 | [arnavmehta7](https://github.com/arnavmehta7) | Arnav Mehta | Island | 6,770 |
 | 18 | [gthb](https://github.com/gthb) | Gunnlaugur Thor Briem | Reykjavík, Iceland | 6,628 |
-| 19 | [gardarthorsteins](https://github.com/gardarthorsteins) | Garðar Þorsteinsson | Reykjavík, Iceland | 6,447 |
-| 20 | [odinndagur](https://github.com/odinndagur) | Óðinn Dagur Bjarnason | Reykjavík, Iceland | 6,395 |
+| 19 | [gunniho](https://github.com/gunniho) | Gunnar Holmsteinn | Reykjavik | 6,518 |
+| 20 | [gardarthorsteins](https://github.com/gardarthorsteins) | Garðar Þorsteinsson | Reykjavík, Iceland | 6,447 |
 
 ## Public Contributions
 
@@ -64,16 +64,16 @@ Indexed users: 1,579
 |---:|---|---|---|---:|
 | 1 | [asgeirtj](https://github.com/asgeirtj) | Ásgeir Thor Johnson | Iceland | 2,280 |
 | 2 | [imbue-bit](https://github.com/imbue-bit) | 栀染 | Iceland | 850 |
-| 3 | [SuprDewd](https://github.com/SuprDewd) | Bjarki Ágúst Guðmundsson | Iceland | 740 |
+| 3 | [SuprDewd](https://github.com/SuprDewd) | Bjarki Ágúst Guðmundsson | Iceland | 739 |
 | 4 | [sveinbjornt](https://github.com/sveinbjornt) | Sveinbjorn Thordarson | Reykjavík, Iceland | 605 |
 | 5 | [phunterlau](https://github.com/phunterlau) | Hongliang Liu | Iceland | 591 |
 | 6 | [starrylumi](https://github.com/starrylumi) | ࿔𝜗𝜚‧₊`Lumi‹𝟹༉‧₊˚. | mostly at gi area, sometimes at docks/island, usually FTS or a spec in fsr... \ sign strawpage & atabook pretty plz / whisp if u want to add me on any platforms<3 | 530 |
 | 7 | [koddsson](https://github.com/koddsson) | Kristján Oddsson | Iceland | 488 |
-| 8 | [birkir](https://github.com/birkir) | Birkir Gudjonsson | Reykjavík, Iceland | 451 |
+| 8 | [birkir](https://github.com/birkir) | Birkir Gudjonsson | Reykjavík, Iceland | 453 |
 | 9 | [jeremybarbet](https://github.com/jeremybarbet) | Jérémy Barbet | Reykjavík, Iceland | 366 |
 | 10 | [jarmitage](https://github.com/jarmitage) | Jack Armitage | Reykjavík, Iceland | 353 |
 | 11 | [thormagnusson](https://github.com/thormagnusson) | thor magnusson | Reykjavik | 316 |
-| 12 | [pagekite](https://github.com/pagekite) | The Beanstalks Project | Reykjavik, Iceland | 283 |
+| 12 | [pagekite](https://github.com/pagekite) | The Beanstalks Project | Reykjavik, Iceland | 284 |
 | 13 | [egil](https://github.com/egil) | Egil Hansen | Iceland | 276 |
 | 14 | [wonderlandraja](https://github.com/wonderlandraja) | ashswag | : ̗̀➛ mcyt hill, island, dont cud when im w/ my gf unless we are close friends !  | 252 |
 | 15 | [alexharri](https://github.com/alexharri) | Alex Harri Jónsson | Reykjavík, Iceland | 249 |
@@ -83,4 +83,4 @@ Indexed users: 1,579
 | 19 | [jokull](https://github.com/jokull) | Jökull Sólberg Auðunsson | Reykjavík, Iceland | 209 |
 | 20 | [kevien](https://github.com/kevien) | K3vin | iceland | 204 |
 
-Generated: 2026-10-19T23:38:59.728Z
+Generated: 2026-10-20T01:05:34.756Z

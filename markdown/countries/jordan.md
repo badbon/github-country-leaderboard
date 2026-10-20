@@ -1,6 +1,6 @@
 # Jordan
 
-Indexed users: 4,005
+Indexed users: 4,004
 
 | Leaderboard | Link |
 |---|---|
@@ -15,23 +15,23 @@ Indexed users: 4,005
 | 1 | [Mutasem-mk4](https://github.com/Mutasem-mk4) | Mutasem Kharma | Jordan | 33,722 |
 | 2 | [jaberjaber23](https://github.com/jaberjaber23) | Jaber Jaber | Amman, Jordan | 28,820 |
 | 3 | [MrGiveItAway-TPK](https://github.com/MrGiveItAway-TPK) | Munes Bani Fawaz | Amman, Jordan | 10,839 |
-| 4 | [samertall](https://github.com/samertall) | Samer Tallauze | Amman, Jordan | 8,545 |
-| 5 | [MusaMisto](https://github.com/MusaMisto) | Musa Misto | Amman, Jordan | 8,318 |
-| 6 | [abuaboud](https://github.com/abuaboud) | Mo AbuAboud | Amman, Jordan | 8,035 |
-| 7 | [Jaber-Saed](https://github.com/Jaber-Saed) | Jaber-Said | Amman Jordan | 7,128 |
-| 8 | [OsamaAssaf](https://github.com/OsamaAssaf) | Osama Assaf | Jordan | 6,492 |
-| 9 | [Hashem-Tabbaa](https://github.com/Hashem-Tabbaa) | Hashem Altabbaa | Jordan-Amman | 6,204 |
-| 10 | [K3epEv3rythingYours](https://github.com/K3epEv3rythingYours) | K3YB1T | Jordan | 6,128 |
-| 11 | [htirawi](https://github.com/htirawi) | Hussein Tirawi | Jordan | 5,976 |
-| 12 | [MahmoudEsawi](https://github.com/MahmoudEsawi) | Mahmoud Al-Esawi | Amman\Jordan | 5,804 |
-| 13 | [AliBakerSartawi](https://github.com/AliBakerSartawi) | Ali Baker Sartawi | Amman, Jordan | 5,440 |
-| 14 | [shqear93](https://github.com/shqear93) | Khaled AbuShqear | Amman | 5,377 |
-| 15 | [thisisabukarsh](https://github.com/thisisabukarsh) | AbdulRahman AbuKarsh | Jordan, Amman | 5,292 |
-| 16 | [ahmadjubran](https://github.com/ahmadjubran) | Ahmad Jubran | Amman-Jordan | 5,215 |
-| 17 | [waleedyaseen](https://github.com/waleedyaseen) | Waleed Yaseen | Jordan, Amman | 5,150 |
-| 18 | [OsamaShwman](https://github.com/OsamaShwman) | Osama Shoman | Jordan | 5,122 |
-| 19 | [DefinetlyNotAI](https://github.com/DefinetlyNotAI) | Shahm Najeeb | Jordan, Amman | 5,114 |
-| 20 | [Enadabuzaid](https://github.com/Enadabuzaid) | Enad Abuzaid | Amman, Jordan | 5,104 |
+| 4 | [ahmadjubran](https://github.com/ahmadjubran) | Ahmad Jubran | Amman-Jordan | 9,274 |
+| 5 | [samertall](https://github.com/samertall) | Samer Tallauze | Amman, Jordan | 8,545 |
+| 6 | [MusaMisto](https://github.com/MusaMisto) | Musa Misto | Amman, Jordan | 8,318 |
+| 7 | [abuaboud](https://github.com/abuaboud) | Mo AbuAboud | Amman, Jordan | 8,035 |
+| 8 | [Jaber-Saed](https://github.com/Jaber-Saed) | Jaber-Said | Amman Jordan | 7,128 |
+| 9 | [OsamaAssaf](https://github.com/OsamaAssaf) | Osama Assaf | Jordan | 6,492 |
+| 10 | [Hashem-Tabbaa](https://github.com/Hashem-Tabbaa) | Hashem Altabbaa | Jordan-Amman | 6,204 |
+| 11 | [K3epEv3rythingYours](https://github.com/K3epEv3rythingYours) | K3YB1T | Jordan | 6,128 |
+| 12 | [htirawi](https://github.com/htirawi) | Hussein Tirawi | Jordan | 5,976 |
+| 13 | [MahmoudEsawi](https://github.com/MahmoudEsawi) | Mahmoud Al-Esawi | Amman\Jordan | 5,804 |
+| 14 | [Ti-03](https://github.com/Ti-03) | Qutibah Ananzeh | Amman, Jordan | 5,777 |
+| 15 | [AliBakerSartawi](https://github.com/AliBakerSartawi) | Ali Baker Sartawi | Amman, Jordan | 5,440 |
+| 16 | [shqear93](https://github.com/shqear93) | Khaled AbuShqear | Amman | 5,377 |
+| 17 | [thisisabukarsh](https://github.com/thisisabukarsh) | AbdulRahman AbuKarsh | Jordan, Amman | 5,292 |
+| 18 | [waleedyaseen](https://github.com/waleedyaseen) | Waleed Yaseen | Jordan, Amman | 5,150 |
+| 19 | [OsamaShwman](https://github.com/OsamaShwman) | Osama Shoman | Jordan | 5,122 |
+| 20 | [DefinetlyNotAI](https://github.com/DefinetlyNotAI) | Shahm Najeeb | Jordan, Amman | 5,114 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 4,005
 | 19 | [Eng-Mohamed-Elsayed](https://github.com/Eng-Mohamed-Elsayed) | Eng-Mohamed Elsayed | Jordan | 197 |
 | 20 | [omar-dulaimi](https://github.com/omar-dulaimi) | Omar Dulaimi | Jordan | 192 |
 
-Generated: 2026-10-19T23:43:32.030Z
+Generated: 2026-10-20T01:08:08.964Z

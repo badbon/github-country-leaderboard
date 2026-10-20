@@ -15,16 +15,16 @@ Indexed users: 354
 | 1 | [xahiru](https://github.com/xahiru) | Ahmed Zahir | Maldives | 11,484 |
 | 2 | [hilarl](https://github.com/hilarl) | Hilal Agil | Male', Maldives | 10,802 |
 | 3 | [fauzaanu](https://github.com/fauzaanu) | Fauzaan Gasim | Maldives | 8,709 |
-| 4 | [mnazaal](https://github.com/mnazaal) | Nazaal | Maldives | 8,484 |
+| 4 | [mnazaal](https://github.com/mnazaal) | Nazaal | Maldives | 8,592 |
 | 5 | [nullptrz](https://github.com/nullptrz) | Ali Ahsan Saeed | Maldives | 7,203 |
 | 6 | [mohamed-aiman](https://github.com/mohamed-aiman) | Mohamed Aiman | Maldives | 7,193 |
-| 7 | [lishaan](https://github.com/lishaan) | Lishan | Malé, Maldives | 6,824 |
+| 7 | [lishaan](https://github.com/lishaan) |  | Malé, Maldives | 6,901 |
 | 8 | [hailam](https://github.com/hailam) | Mohamed Hailam Ahmed | Male`, Maldives | 6,179 |
 | 9 | [ajaaibu](https://github.com/ajaaibu) | Ahmed Ali | Maldives | 5,756 |
 | 10 | [hashes02](https://github.com/hashes02) | HASHES | Maldives | 5,662 |
 | 11 | [maldivien](https://github.com/maldivien) | Ahmed Shareef | Maldives | 5,394 |
-| 12 | [agent306](https://github.com/agent306) | Ncodex | Male', Maldives | 5,276 |
-| 13 | [jaaahh](https://github.com/jaaahh) | Jaah | Maldives | 5,023 |
+| 12 | [jaaahh](https://github.com/jaaahh) | Jaah | Maldives | 5,283 |
+| 13 | [agent306](https://github.com/agent306) | Ncodex | Male', Maldives | 5,276 |
 | 14 | [ayarse](https://github.com/ayarse) | ayaz | Maldives | 4,966 |
 | 15 | [N4ZEN](https://github.com/N4ZEN) | Naza | Maldives | 4,918 |
 | 16 | [NeXsHeLL](https://github.com/NeXsHeLL) | ismile ThuThts | Maldives | 4,912 |
@@ -78,9 +78,9 @@ Indexed users: 354
 | 14 | [xahy](https://github.com/xahy) | Ismail Zahee | Maldives | 61 |
 | 15 | [ajaaibu](https://github.com/ajaaibu) | Ahmed Ali | Maldives | 59 |
 | 16 | [Adamwaheed](https://github.com/Adamwaheed) | Adam | Maldives | 46 |
-| 17 | [mohamed-azhar](https://github.com/mohamed-azhar) | Mohamed Azhar | Maldives | 46 |
+| 17 | [mohamed-azhar](https://github.com/mohamed-azhar) | Mohamed Azhar | Maldives | 45 |
 | 18 | [ameer1234567890](https://github.com/ameer1234567890) | Ameer Dawood | Thulhaadhoo, Maldives | 42 |
 | 19 | [muhannad0](https://github.com/muhannad0) | Monde | Maldives | 42 |
 | 20 | [inash](https://github.com/inash) | Inash Zubair | Male', Maldives | 41 |
 
-Generated: 2026-10-19T23:49:12.394Z
+Generated: 2026-10-20T01:14:59.512Z

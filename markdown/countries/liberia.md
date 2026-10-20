@@ -28,7 +28,7 @@ Indexed users: 210
 | 14 | [stenson](https://github.com/stenson) | Rob Stenson | Monrovia, CA | 867 |
 | 15 | [daddysboy21](https://github.com/daddysboy21) | daddysboy.21 | Monrovia, Liberia | 831 |
 | 16 | [abubakar3rd](https://github.com/abubakar3rd) | Abu-Bakar Abdullah Kanneh | Airfield, Sinkor, Monrovia, Liberia | 824 |
-| 17 | [jdaltonll02](https://github.com/jdaltonll02) | John Dalton Gibson | Liberia | 762 |
+| 17 | [jdaltonll02](https://github.com/jdaltonll02) | John Dalton Gibson | Liberia | 763 |
 | 18 | [efmomoh](https://github.com/efmomoh) | ENSSAH FAYIA MOMOH | Monrovia, Liberia | 719 |
 | 19 | [davewonnah](https://github.com/davewonnah) | Dave Wonnah | Monrovia, Liberia | 630 |
 | 20 | [xarrijorge](https://github.com/xarrijorge) | The African Nomad | Monrovia, Liberia | 629 |
@@ -39,7 +39,7 @@ Indexed users: 210
 |---:|---|---|---|---:|
 | 1 | [priceflex](https://github.com/priceflex) | Steven Price | Monrovia, CA | 1,516 |
 | 2 | [Carlostala04](https://github.com/Carlostala04) | Carlos Talavera | Liberia | 1,142 |
-| 3 | [jdaltonll02](https://github.com/jdaltonll02) | John Dalton Gibson | Liberia | 762 |
+| 3 | [jdaltonll02](https://github.com/jdaltonll02) | John Dalton Gibson | Liberia | 763 |
 | 4 | [efmomoh](https://github.com/efmomoh) | ENSSAH FAYIA MOMOH | Monrovia, Liberia | 718 |
 | 5 | [timtjoe](https://github.com/timtjoe) | Tim T. Joe | Liberia, West Africa | 584 |
 | 6 | [RA9](https://github.com/RA9) | Carlos S. Nah  | Liberia  | 358 |
@@ -54,7 +54,7 @@ Indexed users: 210
 | 15 | [Deviskalo](https://github.com/Deviskalo) | Dev Iskalo | Monrovia, Liberia | 187 |
 | 16 | [1989shack](https://github.com/1989shack) | Martin M Sheriff | Monrovia, Liberia | 171 |
 | 17 | [stenson](https://github.com/stenson) | Rob Stenson | Monrovia, CA | 156 |
-| 18 | [brimaabrahamfuller-blip](https://github.com/brimaabrahamfuller-blip) | Brima Abraham Fuller | Rwanda, Liberia. | 144 |
+| 18 | [brimaabrahamfuller-blip](https://github.com/brimaabrahamfuller-blip) | Brima Abraham Fuller | Rwanda, Liberia. | 143 |
 | 19 | [armandosolisvillegas-max](https://github.com/armandosolisvillegas-max) | Armando José Solís Villegas | Liberia | 139 |
 | 20 | [boakaidorborkamara](https://github.com/boakaidorborkamara) | Boakai Dorbor Kamara | West Africa, Liberia | 134 |
 
@@ -83,4 +83,4 @@ Indexed users: 210
 | 19 | [boaslah](https://github.com/boaslah) | Blessing Boaslah | Montserrado County, Liberia  | 21 |
 | 20 | [ejaygbay](https://github.com/ejaygbay) | Emmanuel Jaygbay | Liberia | 21 |
 
-Generated: 2026-10-19T23:46:31.508Z
+Generated: 2026-10-20T01:11:09.725Z

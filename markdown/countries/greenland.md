@@ -16,13 +16,13 @@ Indexed users: 58
 | 2 | [johan-ejstrud](https://github.com/johan-ejstrud) | Johan Ejstrud | Nuuk, Greenland | 1,791 |
 | 3 | [ProjectAtlantis-dev](https://github.com/ProjectAtlantis-dev) | hello kitty | Greenland | 1,395 |
 | 4 | [ASGDLO](https://github.com/ASGDLO) | ASGDLO | Greenland | 1,267 |
-| 5 | [filzehoka](https://github.com/filzehoka) | Filze | Greenland | 900 |
+| 5 | [filzehoka](https://github.com/filzehoka) | Filze | Greenland | 901 |
 | 6 | [WingWR](https://github.com/WingWR) |  | Greenland | 821 |
 | 7 | [ibdj](https://github.com/ibdj) | ibdj | Nuuk, Greenland | 700 |
 | 8 | [FandyHanz](https://github.com/FandyHanz) | General Tenzen Yamauchi | Fjord Dickson, Greenland | 262 |
 | 9 | [pressure679](https://github.com/pressure679) | Vittus Mikiassen | Greenland | 237 |
 | 10 | [Pocket-sys32](https://github.com/Pocket-sys32) | Manraj Thandi | Greenland | 230 |
-| 11 | [aredigg](https://github.com/aredigg) | Are Digranes | Grønland, Oslo, Norge | 177 |
+| 11 | [aredigg](https://github.com/aredigg) | Are Digranes | Grønland, Oslo, Norge | 175 |
 | 12 | [adarshdev2](https://github.com/adarshdev2) | ADARSH  | Greenland | 157 |
 | 13 | [hexia7230](https://github.com/hexia7230) | Terashita | Kaffeklubben Island, Greenland | 129 |
 | 14 | [PennyHow](https://github.com/PennyHow) | Penny How | Nuuk, Greenland | 127 |
@@ -39,13 +39,13 @@ Indexed users: 58
 |---:|---|---|---|---:|
 | 1 | [sgoggins](https://github.com/sgoggins) | Sean P. Goggins | Greenland | 1,964 |
 | 2 | [ProjectAtlantis-dev](https://github.com/ProjectAtlantis-dev) | hello kitty | Greenland | 1,395 |
-| 3 | [filzehoka](https://github.com/filzehoka) | Filze | Greenland | 900 |
+| 3 | [filzehoka](https://github.com/filzehoka) | Filze | Greenland | 901 |
 | 4 | [ibdj](https://github.com/ibdj) | ibdj | Nuuk, Greenland | 700 |
 | 5 | [WingWR](https://github.com/WingWR) |  | Greenland | 544 |
 | 6 | [johan-ejstrud](https://github.com/johan-ejstrud) | Johan Ejstrud | Nuuk, Greenland | 271 |
 | 7 | [pressure679](https://github.com/pressure679) | Vittus Mikiassen | Greenland | 237 |
 | 8 | [Pocket-sys32](https://github.com/Pocket-sys32) | Manraj Thandi | Greenland | 222 |
-| 9 | [aredigg](https://github.com/aredigg) | Are Digranes | Grønland, Oslo, Norge | 177 |
+| 9 | [aredigg](https://github.com/aredigg) | Are Digranes | Grønland, Oslo, Norge | 175 |
 | 10 | [adarshdev2](https://github.com/adarshdev2) | ADARSH  | Greenland | 157 |
 | 11 | [FandyHanz](https://github.com/FandyHanz) | General Tenzen Yamauchi | Fjord Dickson, Greenland | 148 |
 | 12 | [hexia7230](https://github.com/hexia7230) | Terashita | Kaffeklubben Island, Greenland | 129 |
@@ -62,9 +62,9 @@ Indexed users: 58
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [aantoooon](https://github.com/aantoooon) | anton | Greenland | 1,519 |
-| 2 | [filzehoka](https://github.com/filzehoka) | Filze | Greenland | 1,238 |
-| 3 | [panyster](https://github.com/panyster) | Pany | Greenland | 1,026 |
+| 1 | [aantoooon](https://github.com/aantoooon) | anton | Greenland | 1,520 |
+| 2 | [filzehoka](https://github.com/filzehoka) | Filze | Greenland | 1,240 |
+| 3 | [panyster](https://github.com/panyster) | Pany | Greenland | 1,027 |
 | 4 | [Jiiks](https://github.com/Jiiks) | Alexei Stukov | Greenland | 293 |
 | 5 | [sgoggins](https://github.com/sgoggins) | Sean P. Goggins | Greenland | 201 |
 | 6 | [ASGDLO](https://github.com/ASGDLO) | ASGDLO | Greenland | 151 |
@@ -83,4 +83,4 @@ Indexed users: 58
 | 19 | [DaniEstevezBarcia](https://github.com/DaniEstevezBarcia) | Daniel Estévez-Barcia | Greenland | 8 |
 | 20 | [polarstoat](https://github.com/polarstoat) | Polar stoat | Greenland | 6 |
 
-Generated: 2026-10-19T23:35:36.141Z
+Generated: 2026-10-20T01:00:12.155Z

@@ -1,28 +1,28 @@
 # Total Contributions - Malaysia
 
-Generated: 2026-10-19T23:49:08.588Z
+Generated: 2026-10-20T01:14:54.087Z
 
 Users: 11787
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [azaharizaman](https://github.com/azaharizaman) | Azahari Zaman | @nexusenvision | azaharizaman | Kuching, Sarawak, Malaysia | 42689 |
-| 2 | [leoloso](https://github.com/leoloso) | Leonardo Losoviz | Gato GraphQL | losoviz | Kuala Lumpur, Malaysia | 29690 |
-| 3 | [Kiyoraka](https://github.com/Kiyoraka) | Afif Maahi |  |  | Malaysia | 28107 |
-| 4 | [naimkatiman](https://github.com/naimkatiman) | Naim | RM Investment Bank Ltd |  | Malaysia | 22086 |
-| 5 | [booluckgmie](https://github.com/booluckgmie) | Najmi Ariffin | @dosm-malaysia | najmi_ariffin | Putrajaya, Malaysia | 18835 |
-| 6 | [habibtalib](https://github.com/habibtalib) | Habib Talib | Synctexs Solution | cyberx11 | Malaysia | 18227 |
-| 7 | [weixianggoh](https://github.com/weixianggoh) | GOH WEI XIANG |  |  | Malaysia | 18213 |
-| 8 | [lwlee2608](https://github.com/lwlee2608) | Jason Lee |  |  | Kuala Lumpur, Malaysia | 16660 |
-| 9 | [aaronmyatt](https://github.com/aaronmyatt) | Aaron Myatt |  |  | Malaysia | 16149 |
-| 10 | [SuperVentureStudio](https://github.com/SuperVentureStudio) | Faisal Hourani | WebMedic | faisalhouran1 | Malaysia | 15904 |
-| 11 | [hansheng0512](https://github.com/hansheng0512) | Han Sheng | @ArkMind-Sdn-Bhd  |  | Sri Petaling, Kuala Lumpur, Malaysia | 15477 |
-| 12 | [Anas660](https://github.com/Anas660) | Syed Anas | https://www.pixelpk.com/ |  | Malaysia | 14473 |
-| 13 | [ninjitsuytber](https://github.com/ninjitsuytber) | Stephen Sii | Latton Lab |  | Malaysia | 13802 |
-| 14 | [edwardtay](https://github.com/edwardtay) | Edward Tay |  | iamedwardtay | Malaysia  | 13397 |
-| 15 | [0xkaz](https://github.com/0xkaz) | kaz |  | WeaveKaz | Malaysia/UAE | 13375 |
-| 16 | [Marxz13](https://github.com/Marxz13) | Marz |  |  | Malaysia | 13140 |
-| 17 | [AqwamCreates](https://github.com/AqwamCreates) | Aqwam Harish Aiman | University Of Nottingham (Malaysia Campus) |  | Malaysia | 12827 |
-| 18 | [aabeds](https://github.com/aabeds) | Syed Safwan | Deine Tür Gmbh |  | Malaysia | 12115 |
-| 19 | [SohZHong](https://github.com/SohZHong) | Soh Zhe Hong | Teel |  | Malaysia | 11839 |
-| 20 | [syarief02](https://github.com/syarief02) | Syarief Azman | National Pharmaceutical Regulatory Agency | syariefazman | Malaysia | 11369 |
+| 1 | [shuvonsec](https://github.com/shuvonsec) | Md Shariar Shanaz Shuvon | AwareXone | shuvonsecc | Malaysia  | 307839 |
+| 2 | [azaharizaman](https://github.com/azaharizaman) | Azahari Zaman | @nexusenvision | azaharizaman | Kuching, Sarawak, Malaysia | 42689 |
+| 3 | [leoloso](https://github.com/leoloso) | Leonardo Losoviz | Gato GraphQL | losoviz | Kuala Lumpur, Malaysia | 29690 |
+| 4 | [Kiyoraka](https://github.com/Kiyoraka) | Afif Maahi |  |  | Malaysia | 28107 |
+| 5 | [naimkatiman](https://github.com/naimkatiman) | Naim | RM Investment Bank Ltd |  | Malaysia | 22086 |
+| 6 | [booluckgmie](https://github.com/booluckgmie) | Najmi Ariffin | @dosm-malaysia | najmi_ariffin | Putrajaya, Malaysia | 18835 |
+| 7 | [habibtalib](https://github.com/habibtalib) | Habib Talib | Synctexs Solution | cyberx11 | Malaysia | 18227 |
+| 8 | [weixianggoh](https://github.com/weixianggoh) | GOH WEI XIANG |  |  | Malaysia | 18213 |
+| 9 | [lwlee2608](https://github.com/lwlee2608) | Jason Lee |  |  | Kuala Lumpur, Malaysia | 16660 |
+| 10 | [aaronmyatt](https://github.com/aaronmyatt) | Aaron Myatt |  |  | Malaysia | 16149 |
+| 11 | [SuperVentureStudio](https://github.com/SuperVentureStudio) | Faisal Hourani | WebMedic | faisalhouran1 | Malaysia | 15904 |
+| 12 | [hansheng0512](https://github.com/hansheng0512) | Han Sheng | @ArkMind-Sdn-Bhd  |  | Sri Petaling, Kuala Lumpur, Malaysia | 15477 |
+| 13 | [Anas660](https://github.com/Anas660) | Syed Anas | https://www.pixelpk.com/ |  | Malaysia | 14473 |
+| 14 | [ninjitsuytber](https://github.com/ninjitsuytber) | Stephen Sii | Latton Lab |  | Malaysia | 13802 |
+| 15 | [edwardtay](https://github.com/edwardtay) | Edward Tay |  | iamedwardtay | Malaysia  | 13397 |
+| 16 | [0xkaz](https://github.com/0xkaz) | kaz |  | WeaveKaz | Malaysia/UAE | 13375 |
+| 17 | [Marxz13](https://github.com/Marxz13) | Marz |  |  | Malaysia | 13140 |
+| 18 | [AqwamCreates](https://github.com/AqwamCreates) | Aqwam Harish Aiman | University Of Nottingham (Malaysia Campus) |  | Malaysia | 12827 |
+| 19 | [aabeds](https://github.com/aabeds) | Syed Safwan | Deine Tür Gmbh |  | Malaysia | 12115 |
+| 20 | [SohZHong](https://github.com/SohZHong) | Soh Zhe Hong | Teel |  | Malaysia | 11839 |
