@@ -14,7 +14,7 @@ Indexed users: 298
 |---:|---|---|---|---:|
 | 1 | [bruxx-6243](https://github.com/bruxx-6243) | Fariol Blondeau | Brazzaville - Congo | 11,621 |
 | 2 | [Athanaze](https://github.com/Athanaze) | Sacha Liechti | Congo | 7,827 |
-| 3 | [Saintrick-FM](https://github.com/Saintrick-FM) | Francy Saintrick Malonga | Congo Brazzaville | 4,081 |
+| 3 | [Saintrick-FM](https://github.com/Saintrick-FM) | Francy Saintrick Malonga | Congo Brazzaville | 4,090 |
 | 4 | [BlackAngel242](https://github.com/BlackAngel242) | DrSmoke | Congo | 3,963 |
 | 5 | [chrismoussounda](https://github.com/chrismoussounda) | Christoffert Moussounda | Pointe-Noire, Congo | 3,809 |
 | 6 | [Codeur-Omniscient](https://github.com/Codeur-Omniscient) | Anthony Dorian | Brazzaville - Congo | 3,779 |
@@ -66,7 +66,7 @@ Indexed users: 298
 | 2 | [chronoss09](https://github.com/chronoss09) | Chronoss | Congo | 214 |
 | 3 | [Shadow8021](https://github.com/Shadow8021) | Red_Sh@dow | Congo, brazzaville | 208 |
 | 4 | [Josephbakulikira](https://github.com/Josephbakulikira) | Joseph  | Congo | 107 |
-| 5 | [AdalbertPungu](https://github.com/AdalbertPungu) | Adalbert Pungu | Congo (DRC) | 104 |
+| 5 | [AdalbertPungu](https://github.com/AdalbertPungu) | Adalbert Pungu | Congo (DRC) | 105 |
 | 6 | [hkfmz](https://github.com/hkfmz) | Hegel Motokoua | Brazzaville | 95 |
 | 7 | [Rajivhost](https://github.com/Rajivhost) | Rajiv Mounguengue | Brazzaville, Congo | 95 |
 | 8 | [btr-ss](https://github.com/btr-ss) | Marcky BITORI | Congo Brazzaville | 76 |
@@ -83,4 +83,4 @@ Indexed users: 298
 | 19 | [Ssnnee](https://github.com/Ssnnee) | Samuel Nandi | Republic of the Congo | 26 |
 | 20 | [WinnersProx](https://github.com/WinnersProx) | Vainqueur Bihame | Kigali,Rwanda,Congo | 25 |
 
-Generated: 2026-10-20T12:56:56.672Z
+Generated: 2026-10-20T14:34:04.621Z

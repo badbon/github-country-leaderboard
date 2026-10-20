@@ -12,7 +12,7 @@ Indexed users: 347
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [dione24](https://github.com/dione24) | Niangaly Abdoulaye | BAMAKO MALI | 8,708 |
+| 1 | [dione24](https://github.com/dione24) | Niangaly Abdoulaye | BAMAKO MALI | 8,948 |
 | 2 | [koneke55](https://github.com/koneke55) | कोनेके | Bamako, Mali | 7,175 |
 | 3 | [flyBoy667](https://github.com/flyBoy667) | Salifou Dembélé | Bamako-Mali | 6,219 |
 | 4 | [Abbv75](https://github.com/Abbv75) | Younouss Boré  | Bamako, telecel GBS | 6,114 |
@@ -45,7 +45,7 @@ Indexed users: 347
 | 6 | [Abbv75](https://github.com/Abbv75) | Younouss Boré  | Bamako, telecel GBS | 566 |
 | 7 | [skypper109](https://github.com/skypper109) | SKYPPER | Mali | 408 |
 | 8 | [tijjanismk](https://github.com/tijjanismk) |  | Mali | 396 |
-| 9 | [LeoAz](https://github.com/LeoAz) | Lionel AZ | Bamako | 383 |
+| 9 | [LeoAz](https://github.com/LeoAz) | Lionel AZ | Bamako | 385 |
 | 10 | [Abdoul03](https://github.com/Abdoul03) | Abdoul Ibrahima Samaké | Bamako | 345 |
 | 11 | [THIOYE97](https://github.com/THIOYE97) | THIOYE MARIKO | Bamako , Mali 🇲🇱  | 324 |
 | 12 | [Dayifour](https://github.com/Dayifour) | Sékou Dayifourou KEITA | Bamako, Mali | 301 |
@@ -53,10 +53,10 @@ Indexed users: 347
 | 14 | [SekouSallah](https://github.com/SekouSallah) | Sékou Sow | Bamako, Mali | 250 |
 | 15 | [kontere-tienou](https://github.com/kontere-tienou) | Kontere TIENOU | Mali | 229 |
 | 16 | [Aissatou007](https://github.com/Aissatou007) | Aïssatou Coulibaly | Mali  | 202 |
-| 17 | [mandjou-dama](https://github.com/mandjou-dama) | Mandjou Dama | Bamako, Mali | 171 |
-| 18 | [dione24](https://github.com/dione24) | Niangaly Abdoulaye | BAMAKO MALI | 167 |
-| 19 | [mohdiop](https://github.com/mohdiop) | Mohamed Diop | Mali | 166 |
-| 20 | [Ibraci](https://github.com/Ibraci) | Ibrahim CISSE | Bamako | 158 |
+| 17 | [dione24](https://github.com/dione24) | Niangaly Abdoulaye | BAMAKO MALI | 171 |
+| 18 | [mandjou-dama](https://github.com/mandjou-dama) | Mandjou Dama | Bamako, Mali | 171 |
+| 19 | [Ibraci](https://github.com/Ibraci) | Ibrahim CISSE | Bamako | 169 |
+| 20 | [mohdiop](https://github.com/mohdiop) | Mohamed Diop | Mali | 166 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 347
 | 19 | [AlyKonte](https://github.com/AlyKonte) |  | Mali/Bamako | 27 |
 | 20 | [Dioman-Keita](https://github.com/Dioman-Keita) | Dioman Keïta | Bamako/Mali | 25 |
 
-Generated: 2026-10-20T12:39:33.861Z
+Generated: 2026-10-20T14:16:57.945Z

@@ -20,8 +20,8 @@ Indexed users: 1,224
 | 6 | [exori90](https://github.com/exori90) | exori | Malta | 11,706 |
 | 7 | [mattbeedle](https://github.com/mattbeedle) | Matt Beedle | Malta | 11,031 |
 | 8 | [GabrielGil](https://github.com/GabrielGil) | Gabriel | Malta | 10,681 |
-| 9 | [silvandiepen](https://github.com/silvandiepen) | Sil van Diepen | Malta | 9,398 |
-| 10 | [Sml995](https://github.com/Sml995) | Samuel HASSID | Sliema, Malta | 9,224 |
+| 9 | [Sml995](https://github.com/Sml995) | Samuel HASSID | Sliema, Malta | 9,541 |
+| 10 | [silvandiepen](https://github.com/silvandiepen) | Sil van Diepen | Malta | 9,398 |
 | 11 | [polp6880](https://github.com/polp6880) | Paul Portelli | Malta | 9,022 |
 | 12 | [mauroziux](https://github.com/mauroziux) | Mauricio Suárez vega | malta | 8,669 |
 | 13 | [angusgee](https://github.com/angusgee) | Angus Girvan | Malta | 8,517 |
@@ -83,4 +83,4 @@ Indexed users: 1,224
 | 19 | [mattcg](https://github.com/mattcg) | Matthew Caruana Galizia | Malta | 126 |
 | 20 | [CM2Walki](https://github.com/CM2Walki) | Walki | Malta | 118 |
 
-Generated: 2026-10-20T12:40:10.017Z
+Generated: 2026-10-20T14:17:37.703Z

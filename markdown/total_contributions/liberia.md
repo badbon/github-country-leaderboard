@@ -1,17 +1,17 @@
 # Total Contributions - Liberia
 
-Generated: 2026-10-20T12:36:13.395Z
+Generated: 2026-10-20T14:13:01.343Z
 
 Users: 210
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [FranklinD10](https://github.com/FranklinD10) | FrApps | FrApps |  | Liberia | 7867 |
+| 1 | [FranklinD10](https://github.com/FranklinD10) | FrApps | FrApps |  | Liberia | 7882 |
 | 2 | [RA9](https://github.com/RA9) | Carlos S. Nah  |  | rademejs | Liberia  | 5330 |
 | 3 | [cruso003](https://github.com/cruso003) | Geitodyu Henrique Crusoe |  | CrusoeHenrique | Paynesville, Liberia | 4344 |
-| 4 | [Forratino21](https://github.com/Forratino21) | Courage J. F. T Chileegbo | CYGEC IT SOLUTIONS |  | Liberia | 3317 |
+| 4 | [Forratino21](https://github.com/Forratino21) | Courage J. F. T Chileegbo | CYGEC IT SOLUTIONS |  | Liberia | 3312 |
 | 5 | [Abayoh](https://github.com/Abayoh) | Alexander Bayoh | Cable Consortium of Liberia |  | Monrovia, Liberia | 2958 |
-| 6 | [deginmulbah](https://github.com/deginmulbah) | Jenkins D.Mulbah |  |  | Liberia,Monrovia | 2182 |
+| 6 | [deginmulbah](https://github.com/deginmulbah) | Jenkins D.Mulbah |  |  | Liberia,Monrovia | 2303 |
 | 7 | [priceflex](https://github.com/priceflex) | Steven Price | Tech Rockstars |  | Monrovia, CA | 1516 |
 | 8 | [timtjoe](https://github.com/timtjoe) | Tim T. Joe |  |  | Liberia, West Africa | 1429 |
 | 9 | [arunponnappan](https://github.com/arunponnappan) | Arun P |  |  | Monrovia | 1410 |

@@ -1,6 +1,6 @@
 # Followers - Niger
 
-Generated: 2026-10-20T12:49:29.574Z
+Generated: 2026-10-20T14:25:41.261Z
 
 Users: 175
 
@@ -8,7 +8,7 @@ Users: 175
 |---:|---|---|---|---|---|---:|
 | 1 | [petrozavodsky](https://github.com/petrozavodsky) | Vladimir Petrozavodsky |  |  | Niger | 1166 |
 | 2 | [kodjodevf](https://github.com/kodjodevf) | Moustapha Kodjo Amadou |  | kodjodevf | Niamey,Niger | 232 |
-| 3 | [feyroozecode](https://github.com/feyroozecode) | Ibrahim Ahmad (feyroozecode) |  | feyroozcode | Niger | 112 |
+| 3 | [feyroozecode](https://github.com/feyroozecode) | Ibrahim Ahmad (feyroozecode) |  | feyroozcode | Niger | 114 |
 | 4 | [Mahamadou-Nouridine](https://github.com/Mahamadou-Nouridine) | Mahamadou Nouridine | Microverse | Nouridine_Dino | Niger | 69 |
 | 5 | [Yacoubou-seidou](https://github.com/Yacoubou-seidou) | Yacos | Available for hire |  | Niamey/Niger | 67 |
 | 6 | [abass-dev](https://github.com/abass-dev) | Mr. Abass | Work for home | abass_dev | Niamey, Niger | 66 |
@@ -23,6 +23,6 @@ Users: 175
 | 15 | [haouaenikoye](https://github.com/haouaenikoye) | QueenTech | QueenTech |  | Niamey-Niger | 21 |
 | 16 | [yayeousmane](https://github.com/yayeousmane) | Ousmane Soumaila Yaye  | Globalelectronic  |  | Niger Niamey  | 19 |
 | 17 | [Abdoulaye-Ly](https://github.com/Abdoulaye-Ly) | Abdoulaye Ousmane Ly |  | doudou__ly | Niamey, Niger | 18 |
-| 18 | [oxy227](https://github.com/oxy227) | Ayouba Issoufou |  |  | Niamey/Niger | 18 |
-| 19 | [ibkhall](https://github.com/ibkhall) | Ibrahim Boubacar | Webb Fontaine |  | Niamey | 17 |
+| 18 | [ibkhall](https://github.com/ibkhall) | Ibrahim Boubacar | Webb Fontaine |  | Niamey | 18 |
+| 19 | [oxy227](https://github.com/oxy227) | Ayouba Issoufou |  |  | Niamey/Niger | 18 |
 | 20 | [Imrana-Moustapha](https://github.com/Imrana-Moustapha) | Imrana Moustapha |  |  | Niamey-Niger | 17 |

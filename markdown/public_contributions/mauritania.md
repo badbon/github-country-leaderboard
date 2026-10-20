@@ -1,6 +1,6 @@
 # Public Contributions - Mauritania
 
-Generated: 2026-10-20T12:42:08.434Z
+Generated: 2026-10-20T14:19:05.249Z
 
 Users: 289
 
@@ -9,7 +9,7 @@ Users: 289
 | 1 | [mohameden19961](https://github.com/mohameden19961) | abdy mohameden | SUPNUM - Institut Supérieur du Numérique |  | Nouakchott, Mauritania | 4092 |
 | 2 | [OussamaTeyib](https://github.com/OussamaTeyib) | Oussama Teyib |  |  | Nouakchott, Mauritania | 1219 |
 | 3 | [LhacenMed](https://github.com/LhacenMed) | Lhacen Med |  |  | Nouakchott, Mauritania | 868 |
-| 4 | [Th3-attacker](https://github.com/Th3-attacker) | Elhadj Malick Ndiaye | Next Technology | 3lh_j | Nouakchott-Mauritanie | 778 |
+| 4 | [Th3-attacker](https://github.com/Th3-attacker) | Elhadj Malick Ndiaye | Next Technology | 3lh_j | Nouakchott-Mauritanie | 799 |
 | 5 | [sidihmety](https://github.com/sidihmety) | SIDI HMETY | ACPEC SARL |  | Nouakchott | 673 |
 | 6 | [visola777](https://github.com/visola777) | visola777 |  |  | Mauritania | 654 |
 | 7 | [AbdellahiAhmed](https://github.com/AbdellahiAhmed) | Abdellahi Ahmed |  |  | Nouakchott | 527 |

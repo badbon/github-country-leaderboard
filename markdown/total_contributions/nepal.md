@@ -1,6 +1,6 @@
 # Total Contributions - Nepal
 
-Generated: 2026-10-20T12:48:25.366Z
+Generated: 2026-10-20T14:24:59.330Z
 
 Users: 14104
 
@@ -19,9 +19,9 @@ Users: 14104
 | 11 | [madhav-acharya](https://github.com/madhav-acharya) | Madhav Acharya | Chill |  | Gothgaun, Nepal | 11658 |
 | 12 | [manishsainju](https://github.com/manishsainju) | Ma Ni Sh |  |  | Nepal | 11616 |
 | 13 | [winnee0solta](https://github.com/winnee0solta) | Kishor Shrestha (WINNEE) |  |  | Jayabageshowri,Kathmandu,Nepal. | 11532 |
-| 14 | [bibek1414](https://github.com/bibek1414) | Bibek Bhattarai  | Baliyo Technologies |  |  New Baneshwor, Kathmandu, Nepal | 11452 |
-| 15 | [utsabpanday](https://github.com/utsabpanday) | Utsab Panday | @dizpair | Utsabpanday | Kathmandu | 11440 |
-| 16 | [kaanchan](https://github.com/kaanchan) | KA/SCA |  |  | Nepal | 10737 |
+| 14 | [utsabpanday](https://github.com/utsabpanday) | Utsab Panday | @dizpair | Utsabpanday | Kathmandu | 11440 |
+| 15 | [kaanchan](https://github.com/kaanchan) | KA/SCA |  |  | Nepal | 10737 |
+| 16 | [bibek1414](https://github.com/bibek1414) | Bibek Bhattarai  | Baliyo Technologies |  | Bhaktapur,Nepal | 10619 |
 | 17 | [pramodlaha08](https://github.com/pramodlaha08) | Pramod Laha |  |  | Nepal | 10247 |
 | 18 | [TheKAdhikari](https://github.com/TheKAdhikari) | Krishna Adhikari | Teispace | iamkrishnaa_ | Pokhara, Nepal | 10230 |
 | 19 | [lohanidamodar](https://github.com/lohanidamodar) | Damodar Lohani | @appwrite PopupBits | lohanidamodar | Kathmandu, Nepal | 9901 |

@@ -1,6 +1,6 @@
 # Total Contributions - Mauritius
 
-Generated: 2026-10-20T12:42:12.092Z
+Generated: 2026-10-20T14:19:52.413Z
 
 Users: 715
 
@@ -13,8 +13,8 @@ Users: 715
 | 5 | [wyxos](https://github.com/wyxos) | Wyxos |  |  | Mauritius | 6725 |
 | 6 | [cedpoilly](https://github.com/cedpoilly) | Cedric |  |  | Mauritius | 6582 |
 | 7 | [w1am](https://github.com/w1am) | William Chong | @kurrent-io |  | Mauritius | 6565 |
-| 8 | [masterdubs](https://github.com/masterdubs) | Dubs | @starkleytech | mast3rdubs | Mauritius | 5869 |
-| 9 | [Emmastro](https://github.com/Emmastro) | Emmanuel Bauma Murairi | ITverse |  | Mauritius | 5785 |
+| 8 | [Emmastro](https://github.com/Emmastro) | Emmanuel Bauma Murairi | ITverse |  | Mauritius | 6133 |
+| 9 | [masterdubs](https://github.com/masterdubs) | Dubs | @starkleytech | mast3rdubs | Mauritius | 5869 |
 | 10 | [MrSunshyne](https://github.com/MrSunshyne) | Sandeep Ramgolam | Livestorm | __sun__ | Mauritius | 5528 |
 | 11 | [oliverox](https://github.com/oliverox) | Oliver Oxenham |  | oliveroxenham | Mauritius | 5385 |
 | 12 | [nyashaChiza](https://github.com/nyashaChiza) | Nyasha Chizampeni | EndFrame |  | Port Louis, Mauritius | 4926 |

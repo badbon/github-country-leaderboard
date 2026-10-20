@@ -12,10 +12,10 @@ Indexed users: 111
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [MelanieGault](https://github.com/MelanieGault) | Mélanie | New Caledonia | 14,254 |
+| 1 | [MelanieGault](https://github.com/MelanieGault) | Mélanie | New Caledonia | 14,301 |
 | 2 | [kyuhank](https://github.com/kyuhank) | Kyuhan Kim | Noumea, New Caledonia | 6,881 |
-| 3 | [maitredede](https://github.com/maitredede) | Damien DALY | Nouméa, New Caledonia | 5,546 |
-| 4 | [adriens](https://github.com/adriens) | SALES | Nouméa, New-Caledonia | 4,175 |
+| 3 | [maitredede](https://github.com/maitredede) | Damien DALY | Nouméa, New Caledonia | 5,588 |
+| 4 | [adriens](https://github.com/adriens) | SALES | Nouméa, New-Caledonia | 4,177 |
 | 5 | [6pheR](https://github.com/6pheR) | CipheR_ | New Caledonia | 2,677 |
 | 6 | [120dev](https://github.com/120dev) | 120 | NEW CALEDONIA | 1,480 |
 | 7 | [tom333](https://github.com/tom333) |  | Nouméa, New Calédonia | 1,477 |
@@ -26,10 +26,10 @@ Indexed users: 111
 | 12 | [davidfevre-gouv-nc](https://github.com/davidfevre-gouv-nc) | David FEVRE | Nouméa, New Caledonia | 1,157 |
 | 13 | [bpouzet](https://github.com/bpouzet) | Benoît Pouzet | Nouméa, New Caledonia | 943 |
 | 14 | [lschaeffer313](https://github.com/lschaeffer313) | Laurent Schaeffer | New-Caledonia | 788 |
-| 15 | [gvdr](https://github.com/gvdr) | Giulio Valentino Dalla Riva | Noumea, New Caledonia | 739 |
+| 15 | [gvdr](https://github.com/gvdr) | Giulio Valentino Dalla Riva | Noumea, New Caledonia | 740 |
 | 16 | [aNaoy](https://github.com/aNaoy) | Yoan Agostini | Nouméa | 720 |
 | 17 | [FreddieJH](https://github.com/FreddieJH) | Freddie J. Heather | Noumea, New Caledonia | 662 |
-| 18 | [ellisp](https://github.com/ellisp) | Peter Ellis | Nouméa, Nouvelle-Calédonie | 624 |
+| 18 | [ellisp](https://github.com/ellisp) | Peter Ellis | Nouméa, Nouvelle-Calédonie | 625 |
 | 19 | [darwiin](https://github.com/darwiin) | Christophe ROGER | New Caledonia | 517 |
 | 20 | [BJ-Cochrane](https://github.com/BJ-Cochrane) | Ben Cochrane | Nouméa | 486 |
 
@@ -37,11 +37,11 @@ Indexed users: 111
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [MelanieGault](https://github.com/MelanieGault) | Mélanie | New Caledonia | 4,144 |
-| 2 | [adriens](https://github.com/adriens) | SALES | Nouméa, New-Caledonia | 3,204 |
+| 1 | [MelanieGault](https://github.com/MelanieGault) | Mélanie | New Caledonia | 4,174 |
+| 2 | [adriens](https://github.com/adriens) | SALES | Nouméa, New-Caledonia | 3,206 |
 | 3 | [kyuhank](https://github.com/kyuhank) | Kyuhan Kim | Noumea, New Caledonia | 3,013 |
 | 4 | [tom333](https://github.com/tom333) |  | Nouméa, New Calédonia | 1,477 |
-| 5 | [gvdr](https://github.com/gvdr) | Giulio Valentino Dalla Riva | Noumea, New Caledonia | 739 |
+| 5 | [gvdr](https://github.com/gvdr) | Giulio Valentino Dalla Riva | Noumea, New Caledonia | 740 |
 | 6 | [PLStenger](https://github.com/PLStenger) | Pierre-Louis Stenger | Nouméa, New-Caledonia | 435 |
 | 7 | [jchable](https://github.com/jchable) | Julien CHABLE | Nouméa | 382 |
 | 8 | [Nem0oo](https://github.com/Nem0oo) | Guillaume COURTOT | New-Caledonia | 371 |
@@ -54,7 +54,7 @@ Indexed users: 111
 | 15 | [trara538](https://github.com/trara538) | Rara Soro | Noumea, New Caledonia | 152 |
 | 16 | [Julien-Fruteau](https://github.com/Julien-Fruteau) | Julien | New Caledonia | 141 |
 | 17 | [FreddieJH](https://github.com/FreddieJH) | Freddie J. Heather | Noumea, New Caledonia | 124 |
-| 18 | [thhomas](https://github.com/thhomas) | Thomas Tilak | Nouméa | 120 |
+| 18 | [thhomas](https://github.com/thhomas) | Thomas Tilak | Nouméa | 121 |
 | 19 | [nevizsh](https://github.com/nevizsh) | Nevi | New Caledonia | 109 |
 | 20 | [Esncminas](https://github.com/Esncminas) | DUCTANE Adrien | NEW CALEDONIA | 108 |
 
@@ -83,4 +83,4 @@ Indexed users: 111
 | 19 | [gronono](https://github.com/gronono) | Arnaud | New Caledonia | 9 |
 | 20 | [6pheR](https://github.com/6pheR) | CipheR_ | New Caledonia | 8 |
 
-Generated: 2026-10-20T12:49:18.431Z
+Generated: 2026-10-20T14:25:29.554Z

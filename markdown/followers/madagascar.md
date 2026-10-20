@@ -1,6 +1,6 @@
 # Followers - Madagascar
 
-Generated: 2026-10-20T12:38:14.951Z
+Generated: 2026-10-20T14:14:34.460Z
 
 Users: 1903
 
@@ -8,7 +8,7 @@ Users: 1903
 |---:|---|---|---|---|---|---:|
 | 1 | [tsirysndr](https://github.com/tsirysndr) | Tsiry Sandratraina | @fluentci-io | tsiry_sndr | Antananarivo / Madagascar | 610 |
 | 2 | [mattnix4](https://github.com/mattnix4) | Nix Ra |  |  | Antananarivo, Madagascar | 421 |
-| 3 | [hatixntsoa](https://github.com/hatixntsoa) | Hatix Ntsoa | Ilaikoto |  | Madagascar | 361 |
+| 3 | [hatixntsoa](https://github.com/hatixntsoa) | Hatix Ntsoa | Ilaikoto |  | Madagascar | 374 |
 | 4 | [DavFilsDev](https://github.com/DavFilsDev) | F. Miharisoa David Fils RATIANDRAIBE |  | davfilsdev | Antananarivo Madagascar | 357 |
 | 5 | [lahatra3](https://github.com/lahatra3) | Lahatra Anjara RAVELONARIVO  | @iTeam-S  | lahatra31 | Madagascar-Antananarivo | 344 |
 | 6 | [ThierryRakotomanana](https://github.com/ThierryRakotomanana) | ThierryRakt |  | ThieryRkt | Antananarivo | 344 |

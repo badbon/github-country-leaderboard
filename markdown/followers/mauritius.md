@@ -1,6 +1,6 @@
 # Followers - Mauritius
 
-Generated: 2026-10-20T12:42:12.092Z
+Generated: 2026-10-20T14:19:52.413Z
 
 Users: 715
 
@@ -9,11 +9,11 @@ Users: 715
 | 1 | [Abdur-rahmaanJ](https://github.com/Abdur-rahmaanJ) | Abdur-Rahmaan Janhangeer | @compileralchemy  | osdotsystem | Mauritius | 715 |
 | 2 | [marclamberti](https://github.com/marclamberti) | Marc Lamberti | Marc Lamberti |  | Mauritius | 630 |
 | 3 | [thatstraw](https://github.com/thatstraw) | Traw | GotechMu | thatstraw | Mauritius | 584 |
-| 4 | [Emmastro](https://github.com/Emmastro) | Emmanuel Bauma Murairi | ITverse |  | Mauritius | 301 |
+| 4 | [Emmastro](https://github.com/Emmastro) | Emmanuel Bauma Murairi | ITverse |  | Mauritius | 302 |
 | 5 | [eznix86](https://github.com/eznix86) | Bruno Bernard |  |  | Mauritius | 155 |
 | 6 | [Nehal-Bhautoo](https://github.com/Nehal-Bhautoo) | Nehal Bhautoo | Uniicy | 454aac84aec945b | Mauritius | 121 |
 | 7 | [jochenkirstaetter](https://github.com/jochenkirstaetter) | Jochen Kirstätter | IOS Indian Ocean Software Ltd. | JKirstaetter | Mauritius | 120 |
-| 8 | [yuvraj108c](https://github.com/yuvraj108c) | Yuvraj Seegolam |  |  | Mauritius | 115 |
+| 8 | [yuvraj108c](https://github.com/yuvraj108c) | Yuvraj Seegolam |  |  | Mauritius | 116 |
 | 9 | [MrSunshyne](https://github.com/MrSunshyne) | Sandeep Ramgolam | Livestorm | __sun__ | Mauritius | 111 |
 | 10 | [wkhayrattee](https://github.com/wkhayrattee) | Wasseem Khayrattee |  | wkhayrattee | Mauritius | 111 |
 | 11 | [loganaden](https://github.com/loganaden) | Loganaden Velvindron | @cyberstormdotmu  |  | Mauritius | 103 |

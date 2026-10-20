@@ -1,13 +1,13 @@
 # Followers - Laos
 
-Generated: 2026-10-20T12:33:56.605Z
+Generated: 2026-10-20T14:12:25.857Z
 
 Users: 360
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [TheBrown](https://github.com/TheBrown) | Saleumsack Keoboualay | BCEL Bank |  | Vientiane,Laos | 47 |
-| 2 | [chanthavong](https://github.com/chanthavong) | Jan Jao | BitDigo.Ltd | janjao_space | Vientiane, Laos | 42 |
+| 2 | [chanthavong](https://github.com/chanthavong) | Jan Jao | BitDigo.Ltd | janjao_space | Vientiane, Laos | 43 |
 | 3 | [topser9](https://github.com/topser9) | Top |  |  | Lao People's Democratic Republic | 38 |
 | 4 | [Alamnzr123](https://github.com/Alamnzr123) | Rahmad Alamsyah Nazaruddin |  |  | Laos | 37 |
 | 5 | [SourceDev-Lab](https://github.com/SourceDev-Lab) | SourceDev-Lab |  | XianExsensai | Vientiane, Lao | 37 |

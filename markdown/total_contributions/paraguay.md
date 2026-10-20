@@ -1,6 +1,6 @@
 # Total Contributions - Paraguay
 
-Generated: 2026-10-20T12:53:41.933Z
+Generated: 2026-10-20T14:31:45.407Z
 
 Users: 2014
 
@@ -10,9 +10,9 @@ Users: 2014
 | 2 | [nikdim03](https://github.com/nikdim03) | Dmitrii Nikulin | TON Foundation |  | Paraguay | 17587 |
 | 3 | [devsart95](https://github.com/devsart95) | S4R |  |  | Paraguay | 16831 |
 | 4 | [diogocsoares](https://github.com/diogocsoares) | Diogo Soares |  |  | Paraguay | 11498 |
-| 5 | [vargascarlitos](https://github.com/vargascarlitos) | Carlitos Vargas | @Millicom-MFS |  | Paraguay | 10883 |
-| 6 | [anthonybir](https://github.com/anthonybir) | Anthony Bir |  |  | Asuncion, Paraguay | 10793 |
-| 7 | [pyfection](https://github.com/pyfection) | Matthias Schreiber | Pyfection |  | Paraguay | 10440 |
+| 5 | [pyfection](https://github.com/pyfection) | Matthias Schreiber | Pyfection |  | Paraguay | 11013 |
+| 6 | [vargascarlitos](https://github.com/vargascarlitos) | Carlitos Vargas | @Millicom-MFS |  | Paraguay | 10883 |
+| 7 | [anthonybir](https://github.com/anthonybir) | Anthony Bir |  |  | Asuncion, Paraguay | 10793 |
 | 8 | [cmelgarejo](https://github.com/cmelgarejo) | Christian Melgarejo | @LoopContext |  | Paraguay | 9877 |
 | 9 | [zot24](https://github.com/zot24) |  | Motty | zot24 | Asuncion, Paraguay | 7889 |
 | 10 | [juraj-m](https://github.com/juraj-m) | Juraj |  |  | Yaguarón, Paraguay | 7879 |

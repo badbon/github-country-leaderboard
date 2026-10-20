@@ -1,12 +1,12 @@
 # Total Contributions - San Marino
 
-Generated: 2026-10-20T13:02:22.322Z
+Generated: 2026-10-20T14:36:40.460Z
 
 Users: 61
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [calebnewtonusc](https://github.com/calebnewtonusc) | Caleb Newton | AINA Tech |  | San Marino, CA | 14519 |
+| 1 | [calebnewtonusc](https://github.com/calebnewtonusc) | Caleb Newton | AINA Tech |  | San Marino, CA | 14521 |
 | 2 | [simooooone](https://github.com/simooooone) | Simos |  |  | San Marino | 10277 |
 | 3 | [brunodotgg](https://github.com/brunodotgg) | Bruno |  |  | San Marino | 4783 |
 | 4 | [mcdado](https://github.com/mcdado) | David Gasperoni |  |  | San Marino (SMR) <✈️> Madrid, Spain | 3214 |
@@ -15,7 +15,7 @@ Users: 61
 | 7 | [damiandominella](https://github.com/damiandominella) | dodo | Golee |  | San Marino / Milan / Remotely | 2186 |
 | 8 | [deBrian07](https://github.com/deBrian07) | Brian C. | Carnegie Mellon University |  | San Marino, CA | 2027 |
 | 9 | [gerza-lab](https://github.com/gerza-lab) | adam gerza |  | adamgerza | San Marino, CA | 1256 |
-| 10 | [alessandrorebosio](https://github.com/alessandrorebosio) | Rebo | Università di Bologna |  | San Marino | 1022 |
+| 10 | [alessandrorebosio](https://github.com/alessandrorebosio) | Rebo | Università di Bologna |  | San Marino | 1029 |
 | 11 | [thu105](https://github.com/thu105) | Hein Moe Thu |  |  | San Marino, CA | 777 |
 | 12 | [gennaris](https://github.com/gennaris) | Simone Gennari | @prestalia |  | San Marino | 754 |
 | 13 | [gcardi](https://github.com/gcardi) | Giuliano Cardinali |  |  | Republic of San Marino | 735 |

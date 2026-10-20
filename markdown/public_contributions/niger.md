@@ -1,6 +1,6 @@
 # Public Contributions - Niger
 
-Generated: 2026-10-20T12:49:29.574Z
+Generated: 2026-10-20T14:25:41.261Z
 
 Users: 175
 
@@ -20,9 +20,9 @@ Users: 175
 | 12 | [feyroozecode](https://github.com/feyroozecode) | Ibrahim Ahmad (feyroozecode) |  | feyroozcode | Niger | 160 |
 | 13 | [Carbouba](https://github.com/Carbouba) | BOUBACAR MAMANE SANI CHEFFOU | @vision_visuel |  | Niamey-Niger | 138 |
 | 14 | [abbuss11](https://github.com/abbuss11) | ABBA | Mi+ | abbuss_227 | Niamey, Niger | 115 |
-| 15 | [Chaibouu](https://github.com/Chaibouu) | Chaibouu |  |  | Niger | 107 |
-| 16 | [MahamadouG0](https://github.com/MahamadouG0) | Mahamadou GARBA |  | GarbaM38909 | Niamey, Niger  | 103 |
-| 17 | [annmart-svg](https://github.com/annmart-svg) | Anna Martyn |  |  | Niger, Niamey | 100 |
-| 18 | [F3T1W](https://github.com/F3T1W) | Vlad Matiushin | Refactor Factory | elonmusk | Zinder, Niger | 100 |
+| 15 | [F3T1W](https://github.com/F3T1W) | Vlad Matiushin | Refactor Factory | elonmusk | Zinder, Niger | 114 |
+| 16 | [Chaibouu](https://github.com/Chaibouu) | Chaibouu |  |  | Niger | 107 |
+| 17 | [MahamadouG0](https://github.com/MahamadouG0) | Mahamadou GARBA |  | GarbaM38909 | Niamey, Niger  | 103 |
+| 18 | [annmart-svg](https://github.com/annmart-svg) | Anna Martyn |  |  | Niger, Niamey | 100 |
 | 19 | [Imrana-Moustapha](https://github.com/Imrana-Moustapha) | Imrana Moustapha |  |  | Niamey-Niger | 96 |
 | 20 | [youss-uiux](https://github.com/youss-uiux) | Aboubacar Youssif |  |  | Niamey Niger | 95 |

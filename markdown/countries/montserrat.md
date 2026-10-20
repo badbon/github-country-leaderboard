@@ -20,13 +20,13 @@ Indexed users: 291
 | 6 | [albemontors](https://github.com/albemontors) | Alberto Montorsi | Plymouth | 3,878 |
 | 7 | [binarytide](https://github.com/binarytide) | John McAndrews | Plymouth, Ma | 3,405 |
 | 8 | [thisisthechris](https://github.com/thisisthechris) | Chris Hunt | Plymouth | 3,129 |
-| 9 | [gathercole3](https://github.com/gathercole3) | jacob gathercole | plymouth | 2,629 |
+| 9 | [gathercole3](https://github.com/gathercole3) | jacob gathercole | plymouth | 2,769 |
 | 10 | [cpotey](https://github.com/cpotey) | Connor Pote | Plymouth | 2,339 |
 | 11 | [Faved](https://github.com/Faved) | Alan Bennett | Plymouth, Devon | 2,274 |
 | 12 | [jasonshillingford](https://github.com/jasonshillingford) | Jason Shillingford | Plymouth | 2,010 |
 | 13 | [AnshLaw](https://github.com/AnshLaw) | Ansh R. Suryavanshi | Plymouth, MI | 1,633 |
 | 14 | [pillingworth](https://github.com/pillingworth) | Paul Illingworth | Plymouth, Devon | 1,614 |
-| 15 | [bostonmyk](https://github.com/bostonmyk) | Mike Mykytyn | Plymouth | 1,419 |
+| 15 | [bostonmyk](https://github.com/bostonmyk) | Mike Mykytyn | Plymouth | 1,452 |
 | 16 | [418error](https://github.com/418error) | Andy 'Channie' Chan | Plymouth | 1,128 |
 | 17 | [samuel-duffield1](https://github.com/samuel-duffield1) | Sam Duffield | Plymouth | 1,063 |
 | 18 | [robertjwilson](https://github.com/robertjwilson) | Robert Wilson | Plymouth | 1,026 |
@@ -39,7 +39,7 @@ Indexed users: 291
 |---:|---|---|---|---:|
 | 1 | [dvmrry](https://github.com/dvmrry) | Dave Murray | Plymouth Meeting, Pennsylvania | 4,077 |
 | 2 | [albemontors](https://github.com/albemontors) | Alberto Montorsi | Plymouth | 3,878 |
-| 3 | [bostonmyk](https://github.com/bostonmyk) | Mike Mykytyn | Plymouth | 1,419 |
+| 3 | [bostonmyk](https://github.com/bostonmyk) | Mike Mykytyn | Plymouth | 1,452 |
 | 4 | [robertjwilson](https://github.com/robertjwilson) | Robert Wilson | Plymouth | 1,026 |
 | 5 | [jaydreyer](https://github.com/jaydreyer) | Jay Dreyer | Plymouth, MN | 703 |
 | 6 | [gjbauer](https://github.com/gjbauer) |  | Plymouth, NH | 699 |
@@ -83,4 +83,4 @@ Indexed users: 291
 | 19 | [binarytide](https://github.com/binarytide) | John McAndrews | Plymouth, Ma | 21 |
 | 20 | [BeresIvan](https://github.com/BeresIvan) |  | Plymouth, MN | 20 |
 
-Generated: 2026-10-20T12:45:32.972Z
+Generated: 2026-10-20T14:22:41.385Z

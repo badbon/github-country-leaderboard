@@ -12,12 +12,12 @@ Indexed users: 210
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [FranklinD10](https://github.com/FranklinD10) | FrApps | Liberia | 7,867 |
+| 1 | [FranklinD10](https://github.com/FranklinD10) | FrApps | Liberia | 7,882 |
 | 2 | [RA9](https://github.com/RA9) | Carlos S. Nah  | Liberia  | 5,330 |
 | 3 | [cruso003](https://github.com/cruso003) | Geitodyu Henrique Crusoe | Paynesville, Liberia | 4,344 |
-| 4 | [Forratino21](https://github.com/Forratino21) | Courage J. F. T Chileegbo | Liberia | 3,317 |
+| 4 | [Forratino21](https://github.com/Forratino21) | Courage J. F. T Chileegbo | Liberia | 3,312 |
 | 5 | [Abayoh](https://github.com/Abayoh) | Alexander Bayoh | Monrovia, Liberia | 2,958 |
-| 6 | [deginmulbah](https://github.com/deginmulbah) | Jenkins D.Mulbah | Liberia,Monrovia | 2,182 |
+| 6 | [deginmulbah](https://github.com/deginmulbah) | Jenkins D.Mulbah | Liberia,Monrovia | 2,303 |
 | 7 | [priceflex](https://github.com/priceflex) | Steven Price | Monrovia, CA | 1,516 |
 | 8 | [timtjoe](https://github.com/timtjoe) | Tim T. Joe | Liberia, West Africa | 1,429 |
 | 9 | [arunponnappan](https://github.com/arunponnappan) | Arun P | Monrovia | 1,410 |
@@ -74,7 +74,7 @@ Indexed users: 210
 | 10 | [xarrijorge](https://github.com/xarrijorge) | The African Nomad | Monrovia, Liberia | 34 |
 | 11 | [pastoreekahk96](https://github.com/pastoreekahk96) | Pastoreekahk S Arthur | Monrovia, Liberia | 33 |
 | 12 | [maxwelldorliea](https://github.com/maxwelldorliea) | Maxwell D.  Dorliea | Monrovia, Montserrado County, Liberia | 30 |
-| 13 | [weahotis](https://github.com/weahotis) | Otis Weah | Monrovia Liberia | 29 |
+| 13 | [weahotis](https://github.com/weahotis) | Otis Weah | Monrovia Liberia | 30 |
 | 14 | [tksiakor](https://github.com/tksiakor) | Kpetermeni Siakor | Monrovia, Liberia | 27 |
 | 15 | [tangaye](https://github.com/tangaye) | Nathan Tangaye Siafa | Paynesville, Liberia | 26 |
 | 16 | [KalevRK](https://github.com/KalevRK) | Kalev Roomann-Kurrik | Monrovia, CA | 25 |
@@ -83,4 +83,4 @@ Indexed users: 210
 | 19 | [boaslah](https://github.com/boaslah) | Blessing Boaslah | Montserrado County, Liberia  | 21 |
 | 20 | [ejaygbay](https://github.com/ejaygbay) | Emmanuel Jaygbay | Liberia | 21 |
 
-Generated: 2026-10-20T12:36:13.395Z
+Generated: 2026-10-20T14:13:01.343Z

@@ -1,6 +1,6 @@
 # Total Contributions - Niger
 
-Generated: 2026-10-20T12:49:29.574Z
+Generated: 2026-10-20T14:25:41.261Z
 
 Users: 175
 
@@ -8,8 +8,8 @@ Users: 175
 |---:|---|---|---|---|---|---:|
 | 1 | [Yacine-ai-tech](https://github.com/Yacine-ai-tech) | Seybou Siddo Yacine |  |  | Niamey, Niger | 13740 |
 | 2 | [jamilbachard](https://github.com/jamilbachard) | Bachard Jamil |  | jamilbachard | Niger | 3348 |
-| 3 | [feyroozecode](https://github.com/feyroozecode) | Ibrahim Ahmad (feyroozecode) |  | feyroozcode | Niger | 2975 |
-| 4 | [docteur-charles](https://github.com/docteur-charles) | MOUSSA DAN SAAADOU Abdourahamane | SAADAW SYSTEMS |  | Niamey, Niger | 2153 |
+| 3 | [feyroozecode](https://github.com/feyroozecode) | Ibrahim Ahmad (feyroozecode) |  | feyroozcode | Niger | 2961 |
+| 4 | [docteur-charles](https://github.com/docteur-charles) | MOUSSA DAN SAAADOU Abdourahamane | SAADAW SYSTEMS |  | Niamey, Niger | 2162 |
 | 5 | [akaletekoffilevis](https://github.com/akaletekoffilevis) | akaletekoffilevis | None |  | Niger/Niamey | 1832 |
 | 6 | [petrozavodsky](https://github.com/petrozavodsky) | Vladimir Petrozavodsky |  |  | Niger | 1393 |
 | 7 | [Yacoubou-seidou](https://github.com/Yacoubou-seidou) | Yacos | Available for hire |  | Niamey/Niger | 1171 |

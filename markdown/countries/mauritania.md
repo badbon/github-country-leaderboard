@@ -40,7 +40,7 @@ Indexed users: 289
 | 1 | [mohameden19961](https://github.com/mohameden19961) | abdy mohameden | Nouakchott, Mauritania | 4,092 |
 | 2 | [OussamaTeyib](https://github.com/OussamaTeyib) | Oussama Teyib | Nouakchott, Mauritania | 1,219 |
 | 3 | [LhacenMed](https://github.com/LhacenMed) | Lhacen Med | Nouakchott, Mauritania | 868 |
-| 4 | [Th3-attacker](https://github.com/Th3-attacker) | Elhadj Malick Ndiaye | Nouakchott-Mauritanie | 778 |
+| 4 | [Th3-attacker](https://github.com/Th3-attacker) | Elhadj Malick Ndiaye | Nouakchott-Mauritanie | 799 |
 | 5 | [sidihmety](https://github.com/sidihmety) | SIDI HMETY | Nouakchott | 673 |
 | 6 | [visola777](https://github.com/visola777) | visola777 | Mauritania | 654 |
 | 7 | [AbdellahiAhmed](https://github.com/AbdellahiAhmed) | Abdellahi Ahmed | Nouakchott | 527 |
@@ -83,4 +83,4 @@ Indexed users: 289
 | 19 | [mbareck7](https://github.com/mbareck7) | mbar3ck7 | Mauritania, Nouakchott | 25 |
 | 20 | [Mohamed-Beirouk](https://github.com/Mohamed-Beirouk) | Mohamed Mohamed Beirouk | Mauritania | 23 |
 
-Generated: 2026-10-20T12:42:08.434Z
+Generated: 2026-10-20T14:19:05.249Z

@@ -19,8 +19,8 @@ Indexed users: 715
 | 5 | [wyxos](https://github.com/wyxos) | Wyxos | Mauritius | 6,725 |
 | 6 | [cedpoilly](https://github.com/cedpoilly) | Cedric | Mauritius | 6,582 |
 | 7 | [w1am](https://github.com/w1am) | William Chong | Mauritius | 6,565 |
-| 8 | [masterdubs](https://github.com/masterdubs) | Dubs | Mauritius | 5,869 |
-| 9 | [Emmastro](https://github.com/Emmastro) | Emmanuel Bauma Murairi | Mauritius | 5,785 |
+| 8 | [Emmastro](https://github.com/Emmastro) | Emmanuel Bauma Murairi | Mauritius | 6,133 |
+| 9 | [masterdubs](https://github.com/masterdubs) | Dubs | Mauritius | 5,869 |
 | 10 | [MrSunshyne](https://github.com/MrSunshyne) | Sandeep Ramgolam | Mauritius | 5,528 |
 | 11 | [oliverox](https://github.com/oliverox) | Oliver Oxenham | Mauritius | 5,385 |
 | 12 | [nyashaChiza](https://github.com/nyashaChiza) | Nyasha Chizampeni | Port Louis, Mauritius | 4,926 |
@@ -65,11 +65,11 @@ Indexed users: 715
 | 1 | [Abdur-rahmaanJ](https://github.com/Abdur-rahmaanJ) | Abdur-Rahmaan Janhangeer | Mauritius | 715 |
 | 2 | [marclamberti](https://github.com/marclamberti) | Marc Lamberti | Mauritius | 630 |
 | 3 | [thatstraw](https://github.com/thatstraw) | Traw | Mauritius | 584 |
-| 4 | [Emmastro](https://github.com/Emmastro) | Emmanuel Bauma Murairi | Mauritius | 301 |
+| 4 | [Emmastro](https://github.com/Emmastro) | Emmanuel Bauma Murairi | Mauritius | 302 |
 | 5 | [eznix86](https://github.com/eznix86) | Bruno Bernard | Mauritius | 155 |
 | 6 | [Nehal-Bhautoo](https://github.com/Nehal-Bhautoo) | Nehal Bhautoo | Mauritius | 121 |
 | 7 | [jochenkirstaetter](https://github.com/jochenkirstaetter) | Jochen Kirstätter | Mauritius | 120 |
-| 8 | [yuvraj108c](https://github.com/yuvraj108c) | Yuvraj Seegolam | Mauritius | 115 |
+| 8 | [yuvraj108c](https://github.com/yuvraj108c) | Yuvraj Seegolam | Mauritius | 116 |
 | 9 | [MrSunshyne](https://github.com/MrSunshyne) | Sandeep Ramgolam | Mauritius | 111 |
 | 10 | [wkhayrattee](https://github.com/wkhayrattee) | Wasseem Khayrattee | Mauritius | 111 |
 | 11 | [loganaden](https://github.com/loganaden) | Loganaden Velvindron | Mauritius | 103 |
@@ -83,4 +83,4 @@ Indexed users: 715
 | 19 | [MaskyS](https://github.com/MaskyS) | Kifah M | Mauritius | 75 |
 | 20 | [cbillowes](https://github.com/cbillowes) | Clarice Bouwer | Mauritius | 65 |
 
-Generated: 2026-10-20T12:42:12.092Z
+Generated: 2026-10-20T14:19:52.413Z

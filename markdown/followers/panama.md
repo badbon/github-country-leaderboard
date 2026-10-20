@@ -1,6 +1,6 @@
 # Followers - Panama
 
-Generated: 2026-10-20T12:53:35.433Z
+Generated: 2026-10-20T14:30:12.865Z
 
 Users: 1070
 
@@ -13,7 +13,7 @@ Users: 1070
 | 5 | [apimercantil](https://github.com/apimercantil) | Mercantil Banco | Mercantil Banco CA | mercantilbanco | Venezuala, Panama, Suiza | 109 |
 | 6 | [lfamorim](https://github.com/lfamorim) | Lucas Fernando Amorim | Goodfellas & CreditHub | lfamorim | San Blas, Panama | 101 |
 | 7 | [calvinfroedge](https://github.com/calvinfroedge) | Calvin Froedge |  |  | Panama | 98 |
-| 8 | [issaiass](https://github.com/issaiass) | Rangel Isaías Alvarado Walles | DATA ACQUISITION SYSTEMS, S.A. | daqsyspty | Panama City, Panama | 96 |
+| 8 | [issaiass](https://github.com/issaiass) | Rangel Isaías Alvarado Walles | DATA ACQUISITION SYSTEMS, S.A. | daqsyspty | Panama City, Panama | 95 |
 | 9 | [Dandush03](https://github.com/Dandush03) | Daniel Laloush | Freelance |  | Panama | 67 |
 | 10 | [DottieDot](https://github.com/DottieDot) | Taran |  |  | Panama | 64 |
 | 11 | [Kenth06](https://github.com/Kenth06) | Kenneth Rios | ASSA |  | Panama | 62 |
@@ -25,4 +25,4 @@ Users: 1070
 | 17 | [dsfaccini](https://github.com/dsfaccini) | David SF | alecs | dasfacc | Panama City | 52 |
 | 18 | [hoolymama](https://github.com/hoolymama) | Julian Mann |  |  | Panama | 52 |
 | 19 | [Commandtechno](https://github.com/Commandtechno) | Techno |  |  | David, Panama | 49 |
-| 20 | [Iardo](https://github.com/Iardo) | Ivan Ramos |  |  | Panama | 47 |
+| 20 | [jebberjeb](https://github.com/jebberjeb) | Jeb Beich | Nubank |  | Panama City, FL | 48 |

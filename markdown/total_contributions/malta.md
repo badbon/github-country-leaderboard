@@ -1,6 +1,6 @@
 # Total Contributions - Malta
 
-Generated: 2026-10-20T12:40:10.017Z
+Generated: 2026-10-20T14:17:37.703Z
 
 Users: 1224
 
@@ -14,8 +14,8 @@ Users: 1224
 | 6 | [exori90](https://github.com/exori90) | exori |  |  | Malta | 11706 |
 | 7 | [mattbeedle](https://github.com/mattbeedle) | Matt Beedle |  |  | Malta | 11031 |
 | 8 | [GabrielGil](https://github.com/GabrielGil) | Gabriel | @redacreltd | GabrielSchlomo | Malta | 10681 |
-| 9 | [silvandiepen](https://github.com/silvandiepen) | Sil van Diepen | Sil van Diepen | silvandiepen | Malta | 9398 |
-| 10 | [Sml995](https://github.com/Sml995) | Samuel HASSID | @Supplement-Bacon  |  | Sliema, Malta | 9224 |
+| 9 | [Sml995](https://github.com/Sml995) | Samuel HASSID | @Supplement-Bacon  |  | Sliema, Malta | 9541 |
+| 10 | [silvandiepen](https://github.com/silvandiepen) | Sil van Diepen | Sil van Diepen | silvandiepen | Malta | 9398 |
 | 11 | [polp6880](https://github.com/polp6880) | Paul Portelli | Paul Portelli | polp6880 | Malta | 9022 |
 | 12 | [mauroziux](https://github.com/mauroziux) | Mauricio Suárez vega |  |  | malta | 8669 |
 | 13 | [angusgee](https://github.com/angusgee) | Angus Girvan |  |  | Malta | 8517 |
