@@ -37783,8 +37783,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 63,
-    "publicContributions": 124,
+    "privateContributions": 83,
+    "publicContributions": 144,
     "createdAt": "2021-03-06T10:33:45Z"
   },
   {
@@ -37818,9 +37818,9 @@
     "location": "Linz, Austria",
     "company": "@hgb-bin-proteomics",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 224,
-    "publicContributions": 20,
+    "followers": 4,
+    "privateContributions": 207,
+    "publicContributions": 21,
     "createdAt": "2021-01-22T14:54:39Z"
   },
   {
@@ -37831,8 +37831,8 @@
     "company": "@F-WuTS ",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 100,
+    "privateContributions": 43,
+    "publicContributions": 116,
     "createdAt": "2021-01-07T09:37:56Z"
   },
   {
@@ -37843,7 +37843,7 @@
     "company": "Planprofi24 GmbH",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 468,
+    "privateContributions": 799,
     "publicContributions": 0,
     "createdAt": "2021-07-18T15:29:30Z"
   },
@@ -37868,7 +37868,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 39,
     "createdAt": "2021-06-15T15:56:59Z"
   },
   {
@@ -37891,8 +37891,8 @@
     "company": "@kuglers-at ",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 441,
-    "publicContributions": 9,
+    "privateContributions": 360,
+    "publicContributions": 8,
     "createdAt": "2021-02-02T20:16:55Z"
   },
   {
@@ -37904,7 +37904,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 17,
     "createdAt": "2021-11-16T19:58:10Z"
   },
   {
@@ -37914,9 +37914,9 @@
     "location": "Austria, Vienna",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 663,
-    "publicContributions": 133,
+    "followers": 5,
+    "privateContributions": 1172,
+    "publicContributions": 92,
     "createdAt": "2021-03-05T15:34:26Z"
   },
   {
@@ -37940,7 +37940,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 22,
     "createdAt": "2021-03-23T13:53:50Z"
   },
   {
@@ -37951,8 +37951,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 11,
-    "publicContributions": 9,
+    "privateContributions": 69,
+    "publicContributions": 26,
     "createdAt": "2021-01-06T10:28:37Z"
   },
   {
@@ -37963,8 +37963,8 @@
     "company": "ISTA",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 484,
-    "publicContributions": 1,
+    "privateContributions": 322,
+    "publicContributions": 2,
     "createdAt": "2021-10-13T15:48:05Z"
   },
   {
@@ -38011,8 +38011,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 2841,
-    "publicContributions": 182,
+    "privateContributions": 3714,
+    "publicContributions": 7,
     "createdAt": "2021-11-02T10:58:35Z"
   },
   {
@@ -218962,5 +218962,17 @@
     "privateContributions": 0,
     "publicContributions": 6,
     "createdAt": "2026-06-30T20:09:12Z"
+  },
+  {
+    "login": "HaleOIC",
+    "name": "Yunsong Y",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/132993600?s=72&v=4",
+    "location": "Vienna",
+    "company": "Institute of Science and Technology Austria (ISTA)",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 131,
+    "publicContributions": 24,
+    "createdAt": "2023-05-09T08:32:48Z"
   }
 ]

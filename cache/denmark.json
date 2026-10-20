@@ -37855,8 +37855,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 963,
-    "publicContributions": 155,
+    "privateContributions": 866,
+    "publicContributions": 286,
     "createdAt": "2021-09-13T12:08:32Z"
   },
   {
@@ -37866,9 +37866,9 @@
     "location": "Copenhagen",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 1050,
-    "publicContributions": 78,
+    "followers": 14,
+    "privateContributions": 932,
+    "publicContributions": 61,
     "createdAt": "2021-06-05T15:20:03Z"
   },
   {
@@ -37878,8 +37878,8 @@
     "location": "Copenhagen",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 259,
+    "followers": 13,
+    "privateContributions": 314,
     "publicContributions": 0,
     "createdAt": "2021-08-16T10:34:59Z"
   },
@@ -37903,7 +37903,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 690,
+    "privateContributions": 573,
     "publicContributions": 0,
     "createdAt": "2021-01-26T11:10:32Z"
   },
@@ -37915,8 +37915,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 229,
-    "publicContributions": 13,
+    "privateContributions": 205,
+    "publicContributions": 0,
     "createdAt": "2021-10-04T14:28:36Z"
   },
   {
@@ -37926,8 +37926,8 @@
     "location": "Copenhagen",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 69,
+    "followers": 7,
+    "privateContributions": 101,
     "publicContributions": 14,
     "createdAt": "2021-09-20T07:24:59Z"
   },
@@ -37939,8 +37939,8 @@
     "company": "DineroRegnskab ",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 2046,
-    "publicContributions": 62,
+    "privateContributions": 2294,
+    "publicContributions": 74,
     "createdAt": "2021-07-09T12:16:17Z"
   },
   {
@@ -37951,7 +37951,7 @@
     "company": "Product designer & Frontend dev",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 294,
+    "privateContributions": 502,
     "publicContributions": 0,
     "createdAt": "2021-01-17T20:18:29Z"
   },
@@ -37962,8 +37962,8 @@
     "location": "Copenhagen",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 521,
+    "followers": 10,
+    "privateContributions": 425,
     "publicContributions": 34,
     "createdAt": "2021-12-23T19:45:58Z"
   },
@@ -37974,9 +37974,9 @@
     "location": "Copenhagen",
     "company": "",
     "twitterUsername": "simonorskov",
-    "followers": 9,
+    "followers": 10,
     "privateContributions": 35,
-    "publicContributions": 209,
+    "publicContributions": 34,
     "createdAt": "2021-09-07T13:56:20Z"
   },
   {
@@ -38000,7 +38000,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 17,
     "createdAt": "2021-03-12T14:54:21Z"
   },
   {
@@ -38022,8 +38022,8 @@
     "location": "Copenhagen",
     "company": "Toplu ApS",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 4417,
+    "followers": 9,
+    "privateContributions": 3737,
     "publicContributions": 3,
     "createdAt": "2021-09-20T13:17:40Z"
   },
@@ -38034,22 +38034,10 @@
     "location": "Copenhagen",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 1,
     "createdAt": "2021-11-17T17:05:11Z"
-  },
-  {
-    "login": "MangiameliFabio",
-    "name": "Fabio Mangiameli",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/92296151?s=72&u=adda59000ec37b7418c929922214ba0c70a844f5&v=4",
-    "location": "Copenhagen",
-    "company": "IT University of Copenhagen",
-    "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 181,
-    "publicContributions": 93,
-    "createdAt": "2021-10-11T07:41:41Z"
   },
   {
     "login": "ahegelund",
@@ -38058,33 +38046,21 @@
     "location": "Copenhagen",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 7,
     "createdAt": "2021-05-02T09:23:35Z"
-  },
-  {
-    "login": "FilipSoudakov",
-    "name": "Filip Soudakov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/78363337?s=72&u=2e4a3a3b596fa3c552ab3ff3deccf19ee500ee59&v=4",
-    "location": "Copenhagen, DK",
-    "company": "@KXCPH ",
-    "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2021-02-01T14:02:34Z"
   },
   {
     "login": "marcus-rk",
     "name": "Marcus R. Kjærsgaard",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/88247953?s=72&u=d8f4b96e4b3a8c2b0acd83838676d93eb6808200&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/88247953?s=72&u=27177e93fb1702563d4025450ab1401c6ef25c9e&v=4",
     "location": "Copenhagen ",
-    "company": "Danske Bank",
+    "company": "ZRM",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 303,
-    "publicContributions": 376,
+    "privateContributions": 328,
+    "publicContributions": 452,
     "createdAt": "2021-07-31T17:16:17Z"
   },
   {

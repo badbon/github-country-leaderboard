@@ -38035,7 +38035,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 22,
-    "privateContributions": 5,
+    "privateContributions": 43,
     "publicContributions": 0,
     "createdAt": "2022-05-24T12:38:24Z"
   },
@@ -38070,9 +38070,9 @@
     "location": "Varna",
     "company": "",
     "twitterUsername": "",
-    "followers": 17,
-    "privateContributions": 659,
-    "publicContributions": 126,
+    "followers": 15,
+    "privateContributions": 654,
+    "publicContributions": 67,
     "createdAt": "2022-03-16T15:19:15Z"
   },
   {
@@ -38084,7 +38084,7 @@
     "twitterUsername": "",
     "followers": 15,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 3,
     "createdAt": "2022-06-07T13:11:23Z"
   },
   {
@@ -38119,8 +38119,8 @@
     "company": "myPOS Limited, branch Bulgaria",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 231,
-    "publicContributions": 219,
+    "privateContributions": 355,
+    "publicContributions": 184,
     "createdAt": "2022-12-18T11:07:59Z"
   },
   {
@@ -38131,8 +38131,8 @@
     "company": "TU-Varna",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 1395,
-    "publicContributions": 321,
+    "privateContributions": 1599,
+    "publicContributions": 320,
     "createdAt": "2022-03-01T08:54:49Z"
   },
   {
@@ -38144,7 +38144,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2022-05-18T11:10:37Z"
   },
   {
@@ -38155,7 +38155,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 0,
+    "privateContributions": 3,
     "publicContributions": 26,
     "createdAt": "2022-03-04T17:16:48Z"
   },
@@ -38179,8 +38179,8 @@
     "company": "Varna Free University",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 20,
-    "publicContributions": 72,
+    "privateContributions": 45,
+    "publicContributions": 68,
     "createdAt": "2022-05-12T12:32:45Z"
   },
   {
@@ -38208,25 +38208,13 @@
     "createdAt": "2022-08-16T21:03:24Z"
   },
   {
-    "login": "KamenKarchev",
-    "name": "Kamen Karchev",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/102304265?s=72&u=8c10db1f46097b10fe0d153be29361f6e66bcce5&v=4",
-    "location": "Varna",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 79,
-    "createdAt": "2022-03-24T13:42:41Z"
-  },
-  {
     "login": "StefanYosifov",
     "name": "Stefan Yosifov",
     "avatarUrl": "https://avatars.githubusercontent.com/u/102070756?s=72&u=edf33011b01dfcb2bf3c48cdaef2baaeef20c8ff&v=4",
     "location": "Varna",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-03-21T18:19:40Z"

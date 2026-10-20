@@ -37902,7 +37902,7 @@
     "location": "Tbilisi",
     "company": "",
     "twitterUsername": "khurtsilava1997",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-04-05T08:26:11Z"
@@ -37915,8 +37915,8 @@
     "company": "Archfix",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1049,
-    "publicContributions": 1,
+    "privateContributions": 1278,
+    "publicContributions": 39,
     "createdAt": "2020-03-04T17:18:15Z"
   },
   {
@@ -37928,7 +37928,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 62,
     "createdAt": "2020-09-09T13:47:00Z"
   },
   {
@@ -37964,7 +37964,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 30,
+    "publicContributions": 28,
     "createdAt": "2020-07-08T08:27:32Z"
   },
   {
@@ -37975,7 +37975,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 494,
+    "privateContributions": 615,
     "publicContributions": 0,
     "createdAt": "2020-12-27T10:58:42Z"
   },
@@ -37988,7 +37988,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 63,
+    "publicContributions": 57,
     "createdAt": "2020-08-17T12:17:01Z"
   },
   {
@@ -37999,8 +37999,8 @@
     "company": "LTD Syllogia",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 151,
-    "publicContributions": 5,
+    "privateContributions": 197,
+    "publicContributions": 1,
     "createdAt": "2020-01-10T23:33:29Z"
   },
   {
@@ -38034,9 +38034,9 @@
     "location": "Tbilisi",
     "company": "Logrus IT",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 2,
-    "publicContributions": 8,
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 4,
     "createdAt": "2020-04-30T19:11:26Z"
   },
   {
@@ -38107,7 +38107,7 @@
     "company": "OneCLick Airways",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 555,
+    "privateContributions": 583,
     "publicContributions": 52,
     "createdAt": "2020-11-20T07:38:49Z"
   },
@@ -38119,21 +38119,9 @@
     "company": "IE Sergei Poljanski",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 47,
-    "publicContributions": 132,
+    "privateContributions": 32,
+    "publicContributions": 230,
     "createdAt": "2020-12-05T12:14:48Z"
-  },
-  {
-    "login": "kotikmatematik",
-    "name": "Aleksandra Sharonova",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/60324966?s=72&u=37b91baff476afdc51dee3f321e19d6320db91bc&v=4",
-    "location": "Tbilisi",
-    "company": "Open to work",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 376,
-    "publicContributions": 24,
-    "createdAt": "2020-01-26T18:28:56Z"
   },
   {
     "login": "levanpavlenishvili",
