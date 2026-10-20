@@ -36680,7 +36680,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 1,
     "createdAt": "2012-09-25T08:46:56Z"
   },
   {
@@ -36691,8 +36691,8 @@
     "company": "",
     "twitterUsername": "jebucaro",
     "followers": 5,
-    "privateContributions": 109,
-    "publicContributions": 449,
+    "privateContributions": 91,
+    "publicContributions": 546,
     "createdAt": "2012-05-30T01:08:46Z"
   },
   {
@@ -36714,9 +36714,9 @@
     "location": "Guatemala",
     "company": "@rewardsweb ",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 787,
-    "publicContributions": 1719,
+    "followers": 4,
+    "privateContributions": 812,
+    "publicContributions": 3360,
     "createdAt": "2012-08-22T20:13:19Z"
   },
   {
@@ -36727,7 +36727,7 @@
     "company": "Personal",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 89,
+    "privateContributions": 92,
     "publicContributions": 22,
     "createdAt": "2012-07-13T02:05:28Z"
   },
@@ -36738,22 +36738,10 @@
     "location": "Guatemala City",
     "company": "Cesartevisual",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 129,
+    "publicContributions": 138,
     "createdAt": "2012-12-05T13:59:47Z"
-  },
-  {
-    "login": "hkirste",
-    "name": "Heinz Kirste",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/1773362?s=72&v=4",
-    "location": "Guatemala",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 19,
-    "createdAt": "2012-05-24T09:00:21Z"
   },
   {
     "login": "daviduxotto",
@@ -36786,9 +36774,9 @@
     "location": "Guatemala",
     "company": "Freelance",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 95,
-    "publicContributions": 307,
+    "followers": 3,
+    "privateContributions": 520,
+    "publicContributions": 366,
     "createdAt": "2012-04-25T00:00:03Z"
   },
   {
@@ -36812,7 +36800,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 23,
     "createdAt": "2012-05-25T23:33:36Z"
   },
   {
@@ -36823,8 +36811,8 @@
     "company": "Universidad Galileo",
     "twitterUsername": "cuprumbot",
     "followers": 3,
-    "privateContributions": 285,
-    "publicContributions": 98,
+    "privateContributions": 613,
+    "publicContributions": 173,
     "createdAt": "2012-07-16T19:02:19Z"
   },
   {
@@ -36847,8 +36835,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 604,
-    "publicContributions": 279,
+    "privateContributions": 546,
+    "publicContributions": 282,
     "createdAt": "2012-11-18T05:29:51Z"
   },
   {
@@ -36872,7 +36860,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 20,
     "createdAt": "2012-12-19T12:35:19Z"
   },
   {
@@ -36896,7 +36884,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 0,
     "createdAt": "2012-08-23T05:01:35Z"
   },
   {

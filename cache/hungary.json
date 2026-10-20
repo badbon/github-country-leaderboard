@@ -36084,18 +36084,6 @@
     "createdAt": "2020-06-14T09:17:48Z"
   },
   {
-    "login": "anousonephyakeo",
-    "name": "AnousonePhyakeo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/64072149?s=72&u=7087113b18f34577150ba55d66e400c6e3af275a&v=4",
-    "location": "Budapest, Hungary",
-    "company": "www.taraxon.com",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 74,
-    "createdAt": "2020-04-21T09:25:54Z"
-  },
-  {
     "login": "nekem8",
     "name": "",
     "avatarUrl": "https://avatars.githubusercontent.com/u/69990311?s=72&u=3fc99e9d3e0164c6ccd96dd4fc01ddf5afedb268&v=4",
@@ -36114,7 +36102,7 @@
     "location": "Hungary, Budapest",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-12-19T22:35:10Z"
@@ -36127,7 +36115,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 42,
+    "privateContributions": 34,
     "publicContributions": 6,
     "createdAt": "2020-05-20T13:23:13Z"
   },
@@ -36140,7 +36128,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2020-05-22T13:11:52Z"
   },
   {
@@ -36224,7 +36212,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 5,
     "createdAt": "2020-10-03T20:17:11Z"
   },
   {
@@ -36234,9 +36222,9 @@
     "location": "Hungary",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 351,
-    "publicContributions": 3,
+    "followers": 2,
+    "privateContributions": 268,
+    "publicContributions": 6,
     "createdAt": "2020-10-21T21:35:14Z"
   },
   {
@@ -36295,7 +36283,7 @@
     "company": "EPAM Systems",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 21,
+    "privateContributions": 19,
     "publicContributions": 0,
     "createdAt": "2020-08-18T10:59:07Z"
   },
@@ -36319,8 +36307,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 35,
+    "privateContributions": 101,
+    "publicContributions": 17,
     "createdAt": "2020-09-15T19:54:25Z"
   },
   {

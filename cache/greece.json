@@ -36198,9 +36198,9 @@
     "location": "Athens, Greece",
     "company": "NOFire AI",
     "twitterUsername": "",
-    "followers": 197,
-    "privateContributions": 2572,
-    "publicContributions": 119,
+    "followers": 216,
+    "privateContributions": 3365,
+    "publicContributions": 123,
     "createdAt": "2021-01-26T17:14:28Z"
   },
   {
@@ -36210,9 +36210,9 @@
     "location": "Greece",
     "company": "digitalnest",
     "twitterUsername": "",
-    "followers": 147,
-    "privateContributions": 884,
-    "publicContributions": 701,
+    "followers": 159,
+    "privateContributions": 1058,
+    "publicContributions": 834,
     "createdAt": "2021-02-24T14:30:12Z"
   },
   {
@@ -36222,9 +36222,9 @@
     "location": "🇬🇷 Greece",
     "company": "",
     "twitterUsername": "",
-    "followers": 102,
+    "followers": 124,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 18,
     "createdAt": "2021-03-08T21:27:38Z"
   },
   {
@@ -36234,7 +36234,7 @@
     "location": "Bursa/Turkey  &  Xanthi/Greece",
     "company": "ULUDAG UNIVERSITY",
     "twitterUsername": "",
-    "followers": 81,
+    "followers": 82,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-01-20T20:58:21Z"
@@ -36246,9 +36246,9 @@
     "location": "Athens, Greece",
     "company": "Trebbble",
     "twitterUsername": "__ck24__",
-    "followers": 60,
-    "privateContributions": 152,
-    "publicContributions": 1322,
+    "followers": 62,
+    "privateContributions": 81,
+    "publicContributions": 1333,
     "createdAt": "2021-03-02T23:06:54Z"
   },
   {
@@ -36258,9 +36258,9 @@
     "location": "Greece",
     "company": "Vivid Visions",
     "twitterUsername": "",
-    "followers": 49,
-    "privateContributions": 5439,
-    "publicContributions": 1120,
+    "followers": 80,
+    "privateContributions": 5852,
+    "publicContributions": 1126,
     "createdAt": "2021-02-27T13:44:49Z"
   },
   {
@@ -36270,7 +36270,7 @@
     "location": "Athens, Greece",
     "company": "",
     "twitterUsername": "",
-    "followers": 48,
+    "followers": 47,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-03-09T20:02:19Z"
@@ -36282,8 +36282,8 @@
     "location": "Athens, Greece",
     "company": "",
     "twitterUsername": "",
-    "followers": 48,
-    "privateContributions": 445,
+    "followers": 47,
+    "privateContributions": 370,
     "publicContributions": 0,
     "createdAt": "2021-02-28T20:11:05Z"
   },
@@ -36294,22 +36294,10 @@
     "location": "Piraeus, Greece",
     "company": "",
     "twitterUsername": "",
-    "followers": 48,
-    "privateContributions": 6,
-    "publicContributions": 5,
+    "followers": 51,
+    "privateContributions": 1,
+    "publicContributions": 1,
     "createdAt": "2021-03-30T09:01:39Z"
-  },
-  {
-    "login": "Skorpinakos",
-    "name": "Ioannis Tsampras",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/82767099?s=72&u=2fb047bd240098c0c4ae8e4533863bb4c24b70a9&v=4",
-    "location": "Patras, Greece",
-    "company": "University of Patras",
-    "twitterUsername": "",
-    "followers": 40,
-    "privateContributions": 0,
-    "publicContributions": 26,
-    "createdAt": "2021-04-18T14:45:36Z"
   },
   {
     "login": "wpsgos",
@@ -36320,7 +36308,7 @@
     "twitterUsername": "",
     "followers": 39,
     "privateContributions": 0,
-    "publicContributions": 73,
+    "publicContributions": 78,
     "createdAt": "2021-04-12T04:40:36Z"
   },
   {
@@ -36328,11 +36316,11 @@
     "name": "Konstantinos Chousos",
     "avatarUrl": "https://avatars.githubusercontent.com/u/79325777?s=72&v=4",
     "location": "Athens, Greece",
-    "company": "Department of Informatics and Telecommunications, University of Athens",
+    "company": "@AI-team-UoA",
     "twitterUsername": "",
-    "followers": 38,
-    "privateContributions": 15,
-    "publicContributions": 342,
+    "followers": 39,
+    "privateContributions": 5,
+    "publicContributions": 368,
     "createdAt": "2021-02-19T16:02:31Z"
   },
   {
@@ -36343,18 +36331,18 @@
     "company": "@gunet ",
     "twitterUsername": "",
     "followers": 36,
-    "privateContributions": 273,
-    "publicContributions": 70,
+    "privateContributions": 540,
+    "publicContributions": 65,
     "createdAt": "2021-03-01T17:04:13Z"
   },
   {
     "login": "minaschar",
-    "name": "Minas-Theodoros Charakopoulos",
+    "name": "Minas Charakopoulos",
     "avatarUrl": "https://avatars.githubusercontent.com/u/79672507?s=72&u=fbb366506bf25f43cd390b24f9d1a953498cac0e&v=4",
     "location": "Greece",
     "company": "University of Macedonia | Netcompany",
     "twitterUsername": "",
-    "followers": 35,
+    "followers": 51,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2021-02-25T23:35:10Z"
@@ -36367,21 +36355,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 34,
-    "privateContributions": 2,
-    "publicContributions": 9,
+    "privateContributions": 126,
+    "publicContributions": 18,
     "createdAt": "2021-05-24T22:22:27Z"
-  },
-  {
-    "login": "deltaes",
-    "name": "Nick Dalkos",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/79659994?s=72&u=63143283fd2f6d73581261553610e5e7ba619115&v=4",
-    "location": "Athens, Greece",
-    "company": "Accenture",
-    "twitterUsername": "",
-    "followers": 28,
-    "privateContributions": 226,
-    "publicContributions": 0,
-    "createdAt": "2021-02-25T17:50:11Z"
   },
   {
     "login": "asimakiskydros",
@@ -36392,7 +36368,7 @@
     "twitterUsername": "",
     "followers": 27,
     "privateContributions": 5,
-    "publicContributions": 14,
+    "publicContributions": 15,
     "createdAt": "2021-04-10T16:32:01Z"
   },
   {
@@ -36403,8 +36379,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 27,
-    "privateContributions": 6,
-    "publicContributions": 16,
+    "privateContributions": 12,
+    "publicContributions": 14,
     "createdAt": "2021-03-18T10:04:38Z"
   },
   {
@@ -36414,8 +36390,8 @@
     "location": "Greece",
     "company": "Department of Informatics, University of Piraeus",
     "twitterUsername": "",
-    "followers": 27,
-    "privateContributions": 201,
+    "followers": 28,
+    "privateContributions": 91,
     "publicContributions": 1,
     "createdAt": "2021-03-01T23:37:09Z"
   },

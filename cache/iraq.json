@@ -9348,18 +9348,6 @@
     "createdAt": "2022-09-23T12:45:55Z"
   },
   {
-    "login": "mhlael12",
-    "name": "Mhlael Sultan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/98062456?s=72&u=2b5e202394f0a13ccbff7d916e60ec41476e6708&v=4",
-    "location": "IRAQ",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 13,
-    "createdAt": "2022-01-19T22:51:32Z"
-  },
-  {
     "login": "Kruuzz",
     "name": "Kruz",
     "avatarUrl": "https://avatars.githubusercontent.com/u/100035330?s=72&u=dc05798a5b835719fc17274ec2dca7466d1a3727&v=4",
@@ -9426,8 +9414,8 @@
     "location": "Baghdad",
     "company": "@ffc-iq",
     "twitterUsername": "",
-    "followers": 25,
-    "privateContributions": 1457,
+    "followers": 24,
+    "privateContributions": 1488,
     "publicContributions": 12,
     "createdAt": "2022-04-11T01:46:27Z"
   },
@@ -9438,9 +9426,9 @@
     "location": "Baghdad",
     "company": "@nu-coie",
     "twitterUsername": "",
-    "followers": 20,
+    "followers": 21,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 18,
     "createdAt": "2022-06-17T10:18:57Z"
   },
   {
@@ -9535,7 +9523,7 @@
     "company": "eSITE",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 151,
+    "privateContributions": 175,
     "publicContributions": 29,
     "createdAt": "2022-08-06T16:48:55Z"
   },
