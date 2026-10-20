@@ -38899,8 +38899,8 @@
     "company": "Lomonosov Moscow State University",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 24,
+    "privateContributions": 182,
+    "publicContributions": 27,
     "createdAt": "2015-06-12T14:36:29Z"
   },
   {
@@ -38923,7 +38923,7 @@
     "company": "Freelance Software developer.",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 182,
+    "privateContributions": 175,
     "publicContributions": 0,
     "createdAt": "2015-02-02T15:01:37Z"
   },
@@ -38935,7 +38935,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 631,
+    "privateContributions": 679,
     "publicContributions": 0,
     "createdAt": "2015-12-13T09:31:26Z"
   },
@@ -38947,8 +38947,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 753,
-    "publicContributions": 13,
+    "privateContributions": 0,
+    "publicContributions": 991,
     "createdAt": "2015-07-25T11:37:04Z"
   },
   {
@@ -39008,7 +39008,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 34,
     "createdAt": "2015-06-07T06:56:21Z"
   },
   {
@@ -39032,7 +39032,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 15,
     "createdAt": "2015-01-18T14:17:03Z"
   },
   {
@@ -39052,11 +39052,11 @@
     "name": "Marlen Gevorkian",
     "avatarUrl": "https://avatars.githubusercontent.com/u/11086249?s=72&u=40278821ebeec0474fae05fea67eb690c13abf2a&v=4",
     "location": "Yerevan",
-    "company": "B2Broker",
+    "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 78,
-    "publicContributions": 1,
+    "privateContributions": 712,
+    "publicContributions": 43,
     "createdAt": "2015-02-20T06:03:57Z"
   },
   {
@@ -39082,18 +39082,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-09-22T08:53:21Z"
-  },
-  {
-    "login": "devilast",
-    "name": "Igor Nazarov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/16021584?s=72&u=09af674fac0cc233034d2692071b0f858fdb8c5c&v=4",
-    "location": "Yerevan",
-    "company": "Sperasoft",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2015-11-25T18:25:29Z"
   },
   {
     "login": "tatevikb",
@@ -39127,7 +39115,7 @@
     "company": "Align Technology",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 19,
+    "privateContributions": 15,
     "publicContributions": 0,
     "createdAt": "2015-05-18T10:02:33Z"
   },

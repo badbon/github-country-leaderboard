@@ -38704,11 +38704,11 @@
     "name": "",
     "avatarUrl": "https://avatars.githubusercontent.com/u/81297174?s=72&v=4",
     "location": "Brussels, Belgium",
-    "company": "ONDRAF",
+    "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 9,
-    "publicContributions": 15,
+    "privateContributions": 17,
+    "publicContributions": 42,
     "createdAt": "2021-03-24T09:35:08Z"
   },
   {
@@ -38719,7 +38719,7 @@
     "company": "uc Leuven Limburg ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 27,
+    "privateContributions": 26,
     "publicContributions": 2,
     "createdAt": "2021-06-21T08:27:50Z"
   },
@@ -38780,20 +38780,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 139,
+    "publicContributions": 135,
     "createdAt": "2021-09-20T06:40:36Z"
-  },
-  {
-    "login": "SamyTouri",
-    "name": "Samy TOURI",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/90336203?s=72&u=5535c33748a644e76b43cc0b7ed50a6441d7e1b5&v=4",
-    "location": "Nivelles, Belgium",
-    "company": "Simplifiez.ai",
-    "twitterUsername": "samy_touri",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 26,
-    "createdAt": "2021-09-08T15:09:31Z"
   },
   {
     "login": "lowavye",
@@ -38816,7 +38804,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 215,
+    "publicContributions": 236,
     "createdAt": "2021-02-08T18:25:54Z"
   },
   {
@@ -38828,7 +38816,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 61,
+    "publicContributions": 65,
     "createdAt": "2020-12-30T19:21:10Z"
   },
   {

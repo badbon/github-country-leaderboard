@@ -812,7 +812,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2018-07-12T03:04:18Z"
   },
   {
@@ -870,9 +870,9 @@
     "location": "Barbados",
     "company": "",
     "twitterUsername": "DaleyMottley",
-    "followers": 548,
+    "followers": 547,
     "privateContributions": 0,
-    "publicContributions": 271,
+    "publicContributions": 288,
     "createdAt": "2017-07-18T00:16:14Z"
   },
   {
@@ -883,7 +883,7 @@
     "company": "@TAYLORDTech ",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 4175,
+    "privateContributions": 4177,
     "publicContributions": 28,
     "createdAt": "2017-10-12T11:17:53Z"
   },
@@ -931,7 +931,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 3070,
+    "privateContributions": 3074,
     "publicContributions": 175,
     "createdAt": "2017-08-19T17:00:24Z"
   },
