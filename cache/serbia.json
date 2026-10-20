@@ -36680,12 +36680,12 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 91,
+    "publicContributions": 62,
     "createdAt": "2020-07-22T02:21:16Z"
   },
   {
     "login": "KateGrr",
-    "name": "Katherine",
+    "name": "Katerina Grigoreva",
     "avatarUrl": "https://avatars.githubusercontent.com/u/68381150?s=72&u=6c0567e0da6ae561e9160baae2442fda7e47099b&v=4",
     "location": "Novi Sad, Serbia",
     "company": "",
@@ -36703,7 +36703,7 @@
     "company": "@tenderly",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1198,
+    "privateContributions": 1195,
     "publicContributions": 1,
     "createdAt": "2020-10-31T10:50:37Z"
   },
@@ -36716,7 +36716,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 68,
+    "publicContributions": 131,
     "createdAt": "2020-04-19T16:47:01Z"
   },
   {
@@ -36727,8 +36727,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 1,
+    "privateContributions": 7,
+    "publicContributions": 0,
     "createdAt": "2020-09-28T18:01:10Z"
   },
   {
@@ -36740,20 +36740,8 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 54,
+    "publicContributions": 77,
     "createdAt": "2020-01-16T22:57:54Z"
-  },
-  {
-    "login": "DzevoX",
-    "name": "Nenad Stanojević",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/74773306?s=72&u=69e2377c8a5f588b15a6e5054ab62ae894c16d43&v=4",
-    "location": "Serbia, Novi Sad",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2020-11-20T12:04:07Z"
   },
   {
     "login": "vujable",
@@ -36763,7 +36751,7 @@
     "company": "Nullion",
     "twitterUsername": "vujable",
     "followers": 2,
-    "privateContributions": 75,
+    "privateContributions": 49,
     "publicContributions": 0,
     "createdAt": "2020-05-08T13:00:11Z"
   },
@@ -36786,7 +36774,7 @@
     "location": "Novi Sad, Serbia",
     "company": "LT&T Solutions",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-09-19T14:33:34Z"
@@ -36848,7 +36836,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 2,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2020-04-22T09:46:34Z"
   },
   {
@@ -36890,13 +36878,13 @@
   {
     "login": "kirill-samylin",
     "name": "Кирилл Самылин",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/61203713?s=72&u=43cbc93fcb98690da22ffd9006f95c8a5ec34a04&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/61203713?s=72&u=8d0e8ab9e6bcaadc6f19a26cd55ee8f014542ff1&v=4",
     "location": "Serbia",
     "company": "goTRG",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 4,
     "createdAt": "2020-02-18T17:50:14Z"
   },
   {

@@ -36571,8 +36571,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 196,
-    "publicContributions": 133,
+    "privateContributions": 284,
+    "publicContributions": 145,
     "createdAt": "2023-03-26T21:17:49Z"
   },
   {
@@ -36595,21 +36595,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1946,
-    "publicContributions": 342,
+    "privateContributions": 1953,
+    "publicContributions": 452,
     "createdAt": "2023-02-22T12:54:47Z"
-  },
-  {
-    "login": "makeneto",
-    "name": "Makene Neto",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/130509472?s=72&u=8d3837f8c6d53c6137146868237e84ad4145ab5f&v=4",
-    "location": "Lisbon, Portugal",
-    "company": "makenedev",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 327,
-    "publicContributions": 1971,
-    "createdAt": "2023-04-11T21:10:49Z"
   },
   {
     "login": "AngelMestre",
@@ -36618,9 +36606,9 @@
     "location": "Lisbon, Portugal",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2023-01-08T18:24:09Z"
   },
   {
@@ -36632,7 +36620,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 101,
+    "publicContributions": 76,
     "createdAt": "2023-01-18T12:52:37Z"
   },
   {
