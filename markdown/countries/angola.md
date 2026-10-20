@@ -1,6 +1,6 @@
 # Angola
 
-Indexed users: 2,497
+Indexed users: 2,498
 
 | Leaderboard | Link |
 |---|---|
@@ -27,36 +27,36 @@ Indexed users: 2,497
 | 13 | [osvaldowafulua](https://github.com/osvaldowafulua) | Osvaldo Wafulua | Angola | 4,952 |
 | 14 | [noejunior299](https://github.com/noejunior299) | Noé Idagi | Angola/Luanda | 4,947 |
 | 15 | [joel2011140](https://github.com/joel2011140) | Joel Marinho | Luanda | 4,832 |
-| 16 | [Zebedeu](https://github.com/Zebedeu) | Marcio Zebedeu | Angola | 4,177 |
-| 17 | [ithustle](https://github.com/ithustle) | Célio Garcia | Luanda, Angola | 4,136 |
-| 18 | [Dalcio](https://github.com/Dalcio) | Dálcio Macuete Garcia | Angola | 3,992 |
-| 19 | [steviejames](https://github.com/steviejames) | Sílvio Dumba | Luanda, Angola | 3,691 |
-| 20 | [paulinofonsecas](https://github.com/paulinofonsecas) | Paulino Fonseca | Luanda | 3,660 |
+| 16 | [makeneto](https://github.com/makeneto) | Makene Neto | Luanda, Angola | 4,632 |
+| 17 | [Zebedeu](https://github.com/Zebedeu) | Marcio Zebedeu | Angola | 4,177 |
+| 18 | [ithustle](https://github.com/ithustle) | Célio Garcia | Luanda, Angola | 4,136 |
+| 19 | [Dalcio](https://github.com/Dalcio) | Dálcio Macuete Garcia | Angola | 3,992 |
+| 20 | [steviejames](https://github.com/steviejames) | Sílvio Dumba | Luanda, Angola | 3,691 |
 
 ## Public Contributions
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [runtechx](https://github.com/runtechx) | RunTech | Angola | 32,925 |
-| 2 | [Zebedeu](https://github.com/Zebedeu) | Marcio Zebedeu | Angola | 2,908 |
-| 3 | [NdondaDaniel2020](https://github.com/NdondaDaniel2020) | Ndonda Daniel | Luanda | 2,614 |
-| 4 | [FranciscoDala](https://github.com/FranciscoDala) | Francisco Dala | Angola, Luanda | 2,301 |
-| 5 | [alberto-rj](https://github.com/alberto-rj) | Alberto José |  Luanda, Angola | 2,265 |
-| 6 | [skillmio](https://github.com/skillmio) | Skillmio | Angola | 2,160 |
-| 7 | [Enock200558](https://github.com/Enock200558) | Enoque Bumba Cando  | Angola 🇦🇴 | 2,126 |
-| 8 | [emanuel-malungo](https://github.com/emanuel-malungo) | Emanuel Malungo |  Luanda, Angola | 1,779 |
-| 9 | [adilson889](https://github.com/adilson889) | Adilson C. Rafael | Moçâmedes, Namibe, Angola | 1,652 |
-| 10 | [LouAntonio](https://github.com/LouAntonio) | Lourenço António Dala | Luanda, Angola | 1,569 |
-| 11 | [SW-Wanted](https://github.com/SW-Wanted) | Emanuel dos Santos | Angola | 1,421 |
-| 12 | [jormaedes](https://github.com/jormaedes) | Jormaedes Luís | Angola | 1,374 |
-| 13 | [joaquimmulaza](https://github.com/joaquimmulaza) | Joaquim Mulaza | Luanda Angola | 1,332 |
-| 14 | [ercabsalias](https://github.com/ercabsalias) | Ernesto Cabingano Salias | Angola - Luanda Viana Estalagem | 1,169 |
-| 15 | [marcmav](https://github.com/marcmav) | Marciano Mavungo | Luanda, Angola | 1,064 |
-| 16 | [kandadavid36](https://github.com/kandadavid36) | Kanda David | Angola | 1,060 |
-| 17 | [joao-tambue](https://github.com/joao-tambue) | João Tambue | Angola/Luanda | 1,018 |
-| 18 | [Wolf-Quiteque](https://github.com/Wolf-Quiteque) | Marcio Ragy Daveiga Quiteque | Luanda, Angola | 945 |
-| 19 | [DumiJDev](https://github.com/DumiJDev) | Dumildes Paulo | Luanda, Angola | 879 |
-| 20 | [gasparfranciscogulungo](https://github.com/gasparfranciscogulungo) | Gaspar Francisco Gulungo | Angola, Luanda, Viana | 879 |
+| 2 | [makeneto](https://github.com/makeneto) | Makene Neto | Luanda, Angola | 3,881 |
+| 3 | [Zebedeu](https://github.com/Zebedeu) | Marcio Zebedeu | Angola | 2,908 |
+| 4 | [NdondaDaniel2020](https://github.com/NdondaDaniel2020) | Ndonda Daniel | Luanda | 2,614 |
+| 5 | [FranciscoDala](https://github.com/FranciscoDala) | Francisco Dala | Angola, Luanda | 2,301 |
+| 6 | [alberto-rj](https://github.com/alberto-rj) | Alberto José |  Luanda, Angola | 2,265 |
+| 7 | [skillmio](https://github.com/skillmio) | Skillmio | Angola | 2,160 |
+| 8 | [Enock200558](https://github.com/Enock200558) | Enoque Bumba Cando  | Angola 🇦🇴 | 2,126 |
+| 9 | [emanuel-malungo](https://github.com/emanuel-malungo) | Emanuel Malungo |  Luanda, Angola | 1,779 |
+| 10 | [adilson889](https://github.com/adilson889) | Adilson C. Rafael | Moçâmedes, Namibe, Angola | 1,652 |
+| 11 | [LouAntonio](https://github.com/LouAntonio) | Lourenço António Dala | Luanda, Angola | 1,569 |
+| 12 | [SW-Wanted](https://github.com/SW-Wanted) | Emanuel dos Santos | Angola | 1,421 |
+| 13 | [jormaedes](https://github.com/jormaedes) | Jormaedes Luís | Angola | 1,374 |
+| 14 | [joaquimmulaza](https://github.com/joaquimmulaza) | Joaquim Mulaza | Luanda Angola | 1,332 |
+| 15 | [ercabsalias](https://github.com/ercabsalias) | Ernesto Cabingano Salias | Angola - Luanda Viana Estalagem | 1,169 |
+| 16 | [marcmav](https://github.com/marcmav) | Marciano Mavungo | Luanda, Angola | 1,064 |
+| 17 | [kandadavid36](https://github.com/kandadavid36) | Kanda David | Angola | 1,060 |
+| 18 | [joao-tambue](https://github.com/joao-tambue) | João Tambue | Angola/Luanda | 1,018 |
+| 19 | [Wolf-Quiteque](https://github.com/Wolf-Quiteque) | Marcio Ragy Daveiga Quiteque | Luanda, Angola | 945 |
+| 20 | [DumiJDev](https://github.com/DumiJDev) | Dumildes Paulo | Luanda, Angola | 879 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 2,497
 | 19 | [manuelernesto](https://github.com/manuelernesto) | Manuel Ernesto | Angola | 166 |
 | 20 | [Jovanysfive](https://github.com/Jovanysfive) | Job Bento | Angola/Luanda | 152 |
 
-Generated: 2026-10-20T01:57:04.378Z
+Generated: 2026-10-20T02:51:24.379Z

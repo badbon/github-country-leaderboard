@@ -56,7 +56,7 @@ Indexed users: 1,532
 | 17 | [MicaelVR04](https://github.com/MicaelVR04) | Micael Velez Rodriguez | Puerto Rico | 1,055 |
 | 18 | [marcosstgo](https://github.com/marcosstgo) | Marcos Santiago | Puerto Rico | 988 |
 | 19 | [CristianAce05](https://github.com/CristianAce05) | Cristian Acevedo | Puerto Rico | 984 |
-| 20 | [justinhandley](https://github.com/justinhandley) | Justin Handley | Puerto Rico | 983 |
+| 20 | [jgmdev](https://github.com/jgmdev) | Jefferson González | Puerto Rico | 983 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,532
 | 19 | [rnegron](https://github.com/rnegron) | Raúl Negrón-Otero | Bayamón, Puerto Rico | 113 |
 | 20 | [hackingbutlegal](https://github.com/hackingbutlegal) | Jackie Singh | San Juan, PR | 107 |
 
-Generated: 2026-10-20T01:30:26.541Z
+Generated: 2026-10-20T02:52:00.060Z

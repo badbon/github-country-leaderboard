@@ -1,8 +1,8 @@
 # Total Contributions - Angola
 
-Generated: 2026-10-20T01:57:04.378Z
+Generated: 2026-10-20T02:51:24.379Z
 
-Users: 2497
+Users: 2498
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -21,8 +21,8 @@ Users: 2497
 | 13 | [osvaldowafulua](https://github.com/osvaldowafulua) | Osvaldo Wafulua | Smart Cloud |  | Angola | 4952 |
 | 14 | [noejunior299](https://github.com/noejunior299) | Noé Idagi | ITEL - Institute of Telecomunications | noejunior299 | Angola/Luanda | 4947 |
 | 15 | [joel2011140](https://github.com/joel2011140) | Joel Marinho |  | joelmarinho2016 | Luanda | 4832 |
-| 16 | [Zebedeu](https://github.com/Zebedeu) | Marcio Zebedeu |  | marciozebedeu | Angola | 4177 |
-| 17 | [ithustle](https://github.com/ithustle) | Célio Garcia | @ToqueMedia | hackgarcia | Luanda, Angola | 4136 |
-| 18 | [Dalcio](https://github.com/Dalcio) | Dálcio Macuete Garcia |  | dalcio_ | Angola | 3992 |
-| 19 | [steviejames](https://github.com/steviejames) | Sílvio Dumba |  |  | Luanda, Angola | 3691 |
-| 20 | [paulinofonsecas](https://github.com/paulinofonsecas) | Paulino Fonseca | BITKABIR | fonseca00c | Luanda | 3660 |
+| 16 | [makeneto](https://github.com/makeneto) | Makene Neto | makenedev |  | Luanda, Angola | 4632 |
+| 17 | [Zebedeu](https://github.com/Zebedeu) | Marcio Zebedeu |  | marciozebedeu | Angola | 4177 |
+| 18 | [ithustle](https://github.com/ithustle) | Célio Garcia | @ToqueMedia | hackgarcia | Luanda, Angola | 4136 |
+| 19 | [Dalcio](https://github.com/Dalcio) | Dálcio Macuete Garcia |  | dalcio_ | Angola | 3992 |
+| 20 | [steviejames](https://github.com/steviejames) | Sílvio Dumba |  |  | Luanda, Angola | 3691 |

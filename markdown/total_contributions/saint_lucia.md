@@ -1,14 +1,14 @@
 # Total Contributions - Saint Lucia
 
-Generated: 2026-10-20T01:32:57.896Z
+Generated: 2026-10-20T02:54:56.365Z
 
 Users: 35
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [jarnickae](https://github.com/jarnickae) |  |  |  | Castries, Saint Lucia | 7443 |
-| 2 | [wilsonwolf](https://github.com/wilsonwolf) |  |  |  | Castries, Saint Lucia | 3987 |
-| 3 | [jigzstar](https://github.com/jigzstar) | Joakim George | Saint Lucia NIC |  | Castries, Saint Lucia | 3977 |
+| 1 | [jarnickae](https://github.com/jarnickae) |  |  |  | Castries, Saint Lucia | 7450 |
+| 2 | [jigzstar](https://github.com/jigzstar) | Joakim George | Saint Lucia NIC |  | Castries, Saint Lucia | 3987 |
+| 3 | [wilsonwolf](https://github.com/wilsonwolf) |  |  |  | Castries, Saint Lucia | 3987 |
 | 4 | [UVLabs](https://github.com/UVLabs) | Uriahs Victor |  |  | Saint Lucia | 2022 |
 | 5 | [k-alphonse](https://github.com/k-alphonse) | Kaitlyn Alphonse | @ec-intl |  | Saint Lucia | 1040 |
 | 6 | [leadegroot](https://github.com/leadegroot) | Lea de Groot |  |  | Saint Lucia | 1010 |

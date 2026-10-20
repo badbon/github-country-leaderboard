@@ -51,8 +51,8 @@ Indexed users: 1,355
 | 12 | [khadimmbaye0](https://github.com/khadimmbaye0) | Khadim MBAYE  | Dakar, Sn  | 1,418 |
 | 13 | [patheGobel](https://github.com/patheGobel) | Pathé BA | Senegal  | 1,336 |
 | 14 | [Ramadiaw12](https://github.com/Ramadiaw12) | Rahma | Senegal | 1,292 |
-| 15 | [soszaboss](https://github.com/soszaboss) | Moustoifa Ben Kamal Moussa | Dakar, Senegal | 1,229 |
-| 16 | [SeydinaBANE](https://github.com/SeydinaBANE) | Seydina Mouhamet BANE | Dakar,Senegal | 1,159 |
+| 15 | [soszaboss](https://github.com/soszaboss) | Moustoifa Ben Kamal Moussa | Dakar, Senegal | 1,245 |
+| 16 | [SeydinaBANE](https://github.com/SeydinaBANE) | Seydina Mouhamet BANE | Dakar,Senegal | 1,158 |
 | 17 | [supermalang](https://github.com/supermalang) | Elhadji Malang | Dakar | 1,143 |
 | 18 | [sokhnaFaaty](https://github.com/sokhnaFaaty) | nexuusDev | Senegal | 1,066 |
 | 19 | [RBen19](https://github.com/RBen19) | Rosinard Beni | Dakar, Senegal | 1,054 |
@@ -83,4 +83,4 @@ Indexed users: 1,355
 | 19 | [ngorseck](https://github.com/ngorseck) | Ngor SECK | Dakar - Sénégal | 142 |
 | 20 | [patheGobel](https://github.com/patheGobel) | Pathé BA | Senegal  | 141 |
 
-Generated: 2026-10-20T01:36:57.840Z
+Generated: 2026-10-20T02:58:12.760Z

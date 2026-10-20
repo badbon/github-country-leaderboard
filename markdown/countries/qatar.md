@@ -19,7 +19,7 @@ Indexed users: 1,072
 | 5 | [Kin230k](https://github.com/Kin230k) | Kinan Kassab | Doha, Qatar | 8,912 |
 | 6 | [AnasMostefaoui](https://github.com/AnasMostefaoui) | M.Anes | Doha | 8,117 |
 | 7 | [rushdimohamed09](https://github.com/rushdimohamed09) | Rushdi Mohamed | Doha, Qatar | 7,256 |
-| 8 | [yasircs4](https://github.com/yasircs4) | Yasir Najeeb | Doha, Qatar | 7,109 |
+| 8 | [yasircs4](https://github.com/yasircs4) | Yasir Najeeb | Doha, Qatar | 7,139 |
 | 9 | [hussain4real](https://github.com/hussain4real) | Hussain Aminu | Doha, Qatar | 6,917 |
 | 10 | [Snowy7](https://github.com/Snowy7) | Snowy | Qatar | 6,801 |
 | 11 | [niyazpoyilan](https://github.com/niyazpoyilan) | Niyaz Poyilan | Qatar | 6,659 |
@@ -50,7 +50,7 @@ Indexed users: 1,072
 | 11 | [itsarisid](https://github.com/itsarisid) | Sajid Khan | Qatar | 1,074 |
 | 12 | [aarntn](https://github.com/aarntn) | Aaron Tan | Doha, Qatar | 1,052 |
 | 13 | [rm1dev](https://github.com/rm1dev) | Reza Moghaddam | Qatar | 971 |
-| 14 | [kevinpiac](https://github.com/kevinpiac) | Kevin Piacentini | Doha | 947 |
+| 14 | [kevinpiac](https://github.com/kevinpiac) | Kevin Piacentini | Doha | 957 |
 | 15 | [shafiiiq](https://github.com/shafiiiq) | Muhammed Shafeek | Qatar | 877 |
 | 16 | [syedahmedkhaderi](https://github.com/syedahmedkhaderi) | Syed Ahmed | Doha | 866 |
 | 17 | [Ozhana](https://github.com/Ozhana) | Ozhan Akdag | Doha / Qatar | 792 |
@@ -67,7 +67,7 @@ Indexed users: 1,072
 | 3 | [maljefairi](https://github.com/maljefairi) | Mohammed Al-Jefairi | Qatar | 579 |
 | 4 | [TarikKaanKoc](https://github.com/TarikKaanKoc) | Tarık Kaan Koç | Qatar | 565 |
 | 5 | [Offensive-Panda](https://github.com/Offensive-Panda) | Usman Sikander | Qatar | 525 |
-| 6 | [vahid-nejad](https://github.com/vahid-nejad) | Vahid Nejad | Qatar | 479 |
+| 6 | [vahid-nejad](https://github.com/vahid-nejad) | Vahid Nejad | Qatar | 478 |
 | 7 | [noumanmhd](https://github.com/noumanmhd) | Nouman Mahmood | Qatar | 362 |
 | 8 | [yhunlu](https://github.com/yhunlu) | YAHYA UNLU | Qatar, Doha | 204 |
 | 9 | [myofficework000](https://github.com/myofficework000) | ABHISHEK PATHAK | Doha, Qatar | 160 |
@@ -77,10 +77,10 @@ Indexed users: 1,072
 | 13 | [mbrksntrk](https://github.com/mbrksntrk) | M Burak Şentürk | Doha, Qatar | 124 |
 | 14 | [sahar-chatti](https://github.com/sahar-chatti) | Sahar Chatti | Qatar | 113 |
 | 15 | [akhalil-qa](https://github.com/akhalil-qa) | Ahmed Khalil | Qatar | 110 |
-| 16 | [thouseef-hamza](https://github.com/thouseef-hamza) | Thouseef Hamza T P | Doha, Qatar | 108 |
-| 17 | [kevinpiac](https://github.com/kevinpiac) | Kevin Piacentini | Doha | 107 |
+| 16 | [kevinpiac](https://github.com/kevinpiac) | Kevin Piacentini | Doha | 108 |
+| 17 | [thouseef-hamza](https://github.com/thouseef-hamza) | Thouseef Hamza T P | Doha, Qatar | 108 |
 | 18 | [thm-msror](https://github.com/thm-msror) | Tehreem Masroor | Al-Rayyan, Qatar | 106 |
 | 19 | [brainconnect93](https://github.com/brainconnect93) | Afolabi Akorede | Al-Wakrah, Qatar | 99 |
 | 20 | [muratyaman](https://github.com/muratyaman) | Haci Murat Yaman | Doha, Qatar | 99 |
 
-Generated: 2026-10-20T01:30:29.776Z
+Generated: 2026-10-20T02:52:06.277Z
