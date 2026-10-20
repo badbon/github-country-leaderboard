@@ -28,8 +28,8 @@ Indexed users: 263
 | 14 | [ISSIAGA-CONDE224](https://github.com/ISSIAGA-CONDE224) | ISSIAGA CONDE | GUINEA CONAKRY | 1,264 |
 | 15 | [konatem-mk9](https://github.com/konatem-mk9) | KONATE Moussa | CONAKRY | 1,224 |
 | 16 | [DiabySoryIb](https://github.com/DiabySoryIb) | Ib Sory | Guinea | 1,153 |
-| 17 | [mrrootc](https://github.com/mrrootc) | Abdoulaye Camara | Guinea, Conakry | 656 |
-| 18 | [Salif50](https://github.com/Salif50) | Salif SUMA | République de Guinée | 620 |
+| 17 | [Salif50](https://github.com/Salif50) | Salif SUMA | République de Guinée | 763 |
+| 18 | [mrrootc](https://github.com/mrrootc) | Abdoulaye Camara | Guinea, Conakry | 656 |
 | 19 | [Zakui](https://github.com/Zakui) | Jules Thea | Guinea, Conakry | 581 |
 | 20 | [ftd6435](https://github.com/ftd6435) | Pathé PK Diallo | Guinea | 550 |
 
@@ -72,8 +72,8 @@ Indexed users: 263
 | 8 | [hams94](https://github.com/hams94) | Hamidou Bah | Guinée, Conakry, GN | 30 |
 | 9 | [fiicode](https://github.com/fiicode) | fiicode | Guinea | 28 |
 | 10 | [moudjames23](https://github.com/moudjames23) | Mamoudou Diallo | Guinea | 28 |
-| 11 | [nlbkc2025-cell](https://github.com/nlbkc2025-cell) | Nabybk | Conakry  | 26 |
-| 12 | [Salif50](https://github.com/Salif50) | Salif SUMA | République de Guinée | 26 |
+| 11 | [Salif50](https://github.com/Salif50) | Salif SUMA | République de Guinée | 27 |
+| 12 | [nlbkc2025-cell](https://github.com/nlbkc2025-cell) | Nabybk | Conakry  | 26 |
 | 13 | [TheBlackDude](https://github.com/TheBlackDude) | Ousmane Seidy Diallo | Guinea, Conakry | 24 |
 | 14 | [mrrootc](https://github.com/mrrootc) | Abdoulaye Camara | Guinea, Conakry | 23 |
 | 15 | [thebestofAKB](https://github.com/thebestofAKB) | Abdoul Karim Baldé | Conakry, Guinea | 23 |
@@ -83,4 +83,4 @@ Indexed users: 263
 | 19 | [fouzo09](https://github.com/fouzo09) | Mafouz DIALLO | Guinée, conakry | 13 |
 | 20 | [koulibalyamadou10](https://github.com/koulibalyamadou10) | Koulibaly | Conakry | 13 |
 
-Generated: 2026-10-20T12:21:56.442Z
+Generated: 2026-10-20T13:59:11.407Z

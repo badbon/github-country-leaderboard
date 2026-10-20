@@ -1,6 +1,6 @@
 # Followers - Guatemala
 
-Generated: 2026-10-20T12:20:30.074Z
+Generated: 2026-10-20T13:59:03.468Z
 
 Users: 3213
 
@@ -9,7 +9,7 @@ Users: 3213
 | 1 | [ykro](https://github.com/ykro) | Adrián Catalán | Elemental Geeks |  | Guatemala | 436 |
 | 2 | [jorge-luis-perez-canto](https://github.com/jorge-luis-perez-canto) | Jorge Luis Pérez Canto | Cybersecurity \| Banking & Financial Services |  | Guatemala | 332 |
 | 3 | [robertodevs](https://github.com/robertodevs) | Roberto Juarez |  |  | Guatemala | 305 |
-| 4 | [tuxtor](https://github.com/tuxtor) | Víctor Orozco |  | tuxtor | Guatemala | 298 |
+| 4 | [tuxtor](https://github.com/tuxtor) | Víctor Orozco |  | tuxtor | Guatemala | 299 |
 | 5 | [bryan967132](https://github.com/bryan967132) | Bryan Tejaxún | Universidad De San Carlos De Guatemala |  | Guatemala | 280 |
 | 6 | [micromasterandroid](https://github.com/micromasterandroid) | amoraleschan | Galileo University |  | Guatemala | 217 |
 | 7 | [JPaulMora](https://github.com/JPaulMora) | John Mora | nimble. | jpaulmora | Guatemala | 214 |
