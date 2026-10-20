@@ -40,7 +40,7 @@ Indexed users: 708
 | 1 | [sultonzoda2011](https://github.com/sultonzoda2011) | Sultonzoda Abdulloh | Dushanbe | 2,370 |
 | 2 | [meetmeonlinefree](https://github.com/meetmeonlinefree) | Nekruz | Tajikistan | 2,061 |
 | 3 | [MUHAMMADAMIN100](https://github.com/MUHAMMADAMIN100) | Muhammadamin | Tajikistan,Dushanbe | 1,632 |
-| 4 | [beginwebdev2002](https://github.com/beginwebdev2002) | Jamoliddin | Dushanbe Tajikistan | 1,378 |
+| 4 | [beginwebdev2002](https://github.com/beginwebdev2002) | Jamoliddin | Dushanbe Tajikistan | 1,374 |
 | 5 | [Komil-Muminov](https://github.com/Komil-Muminov) | KOMIL MUMINOV | Dushanbe | 1,312 |
 | 6 | [awtb](https://github.com/awtb) | Ilyas Qalandarzoda | Dushanbe, Tajikistan | 978 |
 | 7 | [AnushervonKhidirov](https://github.com/AnushervonKhidirov) | Anushervon | Dushanbe, Tajikistan | 940 |
@@ -83,4 +83,4 @@ Indexed users: 708
 | 19 | [11bit](https://github.com/11bit) | Ivan Buryak | Dushanbe | 49 |
 | 20 | [Abdughafur](https://github.com/Abdughafur) | Abdughafur Khujzoda | Tajikistan | 48 |
 
-Generated: 2026-10-20T13:15:21.745Z
+Generated: 2026-10-20T14:49:36.851Z

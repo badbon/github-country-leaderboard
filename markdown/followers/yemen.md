@@ -1,6 +1,6 @@
 # Followers - Yemen
 
-Generated: 2026-10-20T13:22:48.560Z
+Generated: 2026-10-20T14:57:25.531Z
 
 Users: 1205
 
@@ -11,7 +11,7 @@ Users: 1205
 | 3 | [SaraAhmed1999](https://github.com/SaraAhmed1999) | Sara Ahmed |  |  | Yemen | 892 |
 | 4 | [Asbaharoon](https://github.com/Asbaharoon) | Abdullah Baharoon | @openjdk and @graalvm  |  | Yemen | 687 |
 | 5 | [WatheqAlshowaiter](https://github.com/WatheqAlshowaiter) | Watheq Alshowaiter | Co·founder @YemenOpenSource | watheq_show | Yemen | 404 |
-| 6 | [AhmadHRai](https://github.com/AhmadHRai) | Ahmad Alrai | @ByteRunners  |  | Yemen | 386 |
+| 6 | [AhmadHRai](https://github.com/AhmadHRai) | Ahmad Alrai | @ByteRunners  |  | Yemen | 393 |
 | 7 | [omaralalwi](https://github.com/omaralalwi) | Omar Alalwi | freelance | omaralalwi2013 | sana'a Yemen | 384 |
 | 8 | [CS2487](https://github.com/CS2487) | Farea AL-Dhela'a | Freelance |  | Yemen, Sana’a,a | 360 |
 | 9 | [hishamco](https://github.com/hishamco) | Hisham Bin Ateya |  | hishambinateya | Yemen | 331 |

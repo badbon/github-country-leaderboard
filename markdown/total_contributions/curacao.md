@@ -1,6 +1,6 @@
 # Total Contributions - Curaçao
 
-Generated: 2026-10-20T13:45:51.121Z
+Generated: 2026-10-20T15:18:18.212Z
 
 Users: 53
 
@@ -10,7 +10,7 @@ Users: 53
 | 2 | [kloostermanw](https://github.com/kloostermanw) | Wiebe |  | wiebe1971 | Willemstad, Curaçao | 3839 |
 | 3 | [flangfeldt](https://github.com/flangfeldt) | FΞLIX | @celery-payroll  |  | Willemstad, Curacao | 3640 |
 | 4 | [BalusC](https://github.com/BalusC) | Bauke Scholtz |  | OmniFaces | Willemstad, Curaçao | 3412 |
-| 5 | [dwarfland](https://github.com/dwarfland) | marc hoffman | RemObjects Software | dwarfland | Curaçao | 1460 |
+| 5 | [dwarfland](https://github.com/dwarfland) | marc hoffman | RemObjects Software | dwarfland | Curaçao | 1464 |
 | 6 | [GilbertoFraaij](https://github.com/GilbertoFraaij) |  |  |  | Curacao, Netherlands Antilles | 1295 |
 | 7 | [frankgeerlings](https://github.com/frankgeerlings) | Frank Geerlings |  |  | Curaçao | 911 |
 | 8 | [drosalia](https://github.com/drosalia) | Darrell Rosalia | Ten-O-5 B.V |  | Curaçao | 900 |

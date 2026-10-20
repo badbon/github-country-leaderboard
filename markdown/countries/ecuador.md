@@ -43,9 +43,9 @@ Indexed users: 4,878
 | 4 | [danny270793](https://github.com/danny270793) | Danny Vaca | Ecuador | 6,951 |
 | 5 | [somatechlat](https://github.com/somatechlat) | SomaTech - Bringin Artificiall Intelligence closer to Humans  | Quito | 5,138 |
 | 6 | [StevSant](https://github.com/StevSant) | Bryan Menoscal | Ecuador, Manabi, Manta | 4,329 |
-| 7 | [AlejandroTatum](https://github.com/AlejandroTatum) | Alejandro Padilla | Ecuador | 3,763 |
-| 8 | [rowanseymour](https://github.com/rowanseymour) | Rowan Seymour | Quito, Ecuador | 3,730 |
-| 9 | [victor7w7r](https://github.com/victor7w7r) | victor7w7r | Quito, Ecuador | 3,341 |
+| 7 | [victor7w7r](https://github.com/victor7w7r) | victor7w7r | Quito, Ecuador | 4,298 |
+| 8 | [AlejandroTatum](https://github.com/AlejandroTatum) | Alejandro Padilla | Ecuador | 3,763 |
+| 9 | [rowanseymour](https://github.com/rowanseymour) | Rowan Seymour | Quito, Ecuador | 3,730 |
 | 10 | [alcb1310](https://github.com/alcb1310) | Andres Court | Quito, Ecuador | 2,954 |
 | 11 | [anchundiatech](https://github.com/anchundiatech) | Alejandro Anchundia | Ecuador | 2,429 |
 | 12 | [Patogol35](https://github.com/Patogol35) | Jorge Patricio Santamaría Cherrez | Ambato, Ecuador  | 2,376 |
@@ -83,4 +83,4 @@ Indexed users: 4,878
 | 19 | [Bryan-Herrera-DEV](https://github.com/Bryan-Herrera-DEV) | Bryan Herrera ~ ርᚱ1ናተᛰ ᚻህᚥተპᚱ | Ecuador | 116 |
 | 20 | [Davichobits](https://github.com/Davichobits) | David Ruiz | Ecuador | 116 |
 
-Generated: 2026-10-20T13:48:07.093Z
+Generated: 2026-10-20T15:20:53.458Z

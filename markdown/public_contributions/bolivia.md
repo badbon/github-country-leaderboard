@@ -1,6 +1,6 @@
 # Public Contributions - Bolivia
 
-Generated: 2026-10-20T13:34:38.629Z
+Generated: 2026-10-20T15:06:59.861Z
 
 Users: 1783
 
@@ -9,7 +9,7 @@ Users: 1783
 | 1 | [AndyIbanez](https://github.com/AndyIbanez) | Andy Ibanez | Fairese | AndyIbanezK | Bolivia | 25237 |
 | 2 | [DaleneyRuben](https://github.com/DaleneyRuben) | Fernando Daleney | TurboTenant |  | La Paz, Bolivia | 3428 |
 | 3 | [DanielTorres1](https://github.com/DanielTorres1) | Daniel Torres Sandi |  |  | Bolivia | 3039 |
-| 4 | [OscarGauss](https://github.com/OscarGauss) | Oscar Gauss Carvajal Yucra |  | oscar_gauss | La Paz, Bolivia | 2907 |
+| 4 | [OscarGauss](https://github.com/OscarGauss) | Oscar Gauss Carvajal Yucra |  | oscar_gauss | La Paz, Bolivia | 2833 |
 | 5 | [LudCano](https://github.com/LudCano) | Ludving Cano Fernandez |  |  | La Paz, Bolivia | 2572 |
 | 6 | [ldgd2](https://github.com/ldgd2) | Lider |  |  | Bolivia | 2274 |
 | 7 | [SergioRibera](https://github.com/SergioRibera) | Sergio Alejandro Ribera Costa | @RustLangES | sergioribera_rs | Santa Cruz de la Sierra, Bolivia | 2252 |
@@ -25,4 +25,4 @@ Users: 1783
 | 17 | [Lotiel-Dev](https://github.com/Lotiel-Dev) | Carlos Antonio Gutierrez Copara | Higher University of San Simón | Gerceis81 | Bolivia | 1193 |
 | 18 | [igidio](https://github.com/igidio) | Salvador Cáceres C. |  |  | Bolivia | 1147 |
 | 19 | [samuelloza](https://github.com/samuelloza) | Samuel Loza Ramirez |  |  | Bolivia | 1097 |
-| 20 | [nicobytes](https://github.com/nicobytes) | Nicolas Molina Monroy |  | nicobytes | Cochabamba, Bolivia | 1085 |
+| 20 | [nicobytes](https://github.com/nicobytes) | Nicolas Molina Monroy |  | nicobytes | Cochabamba, Bolivia | 1096 |

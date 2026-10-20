@@ -1,6 +1,6 @@
 # Public Contributions - Andorra
 
-Generated: 2026-10-20T13:28:49.760Z
+Generated: 2026-10-20T14:59:54.957Z
 
 Users: 215
 
@@ -8,7 +8,7 @@ Users: 215
 |---:|---|---|---|---|---|---:|
 | 1 | [ericrisco](https://github.com/ericrisco) | Eric Risco de la Torre | Andorra Telecom | erisco_and | Andorra | 40980 |
 | 2 | [niwinz](https://github.com/niwinz) | Andrey Antukh | @kaleidos & @penpot |  | Andorra | 3005 |
-| 3 | [acastellana](https://github.com/acastellana) | Albert Castellana | @yeagerai | kstellana | Andorra | 1033 |
+| 3 | [acastellana](https://github.com/acastellana) | Albert Castellana | @yeagerai | kstellana | Andorra | 1462 |
 | 4 | [Danziger](https://github.com/Danziger) | Dani Gámez Franco | @cowprotocol, @wanderwallet | gmzcodes | Andorra | 787 |
 | 5 | [Estemobs](https://github.com/Estemobs) | estemobs | Domaine de Casinus |  | Andorra | 769 |
 | 6 | [l3wi](https://github.com/l3wi) | Lewis Freiberg |  | lewifree | Andorra | 700 |
@@ -21,8 +21,8 @@ Users: 215
 | 13 | [trebormc](https://github.com/trebormc) | Robert Menetray | Menetray | RobertMenetray | Andorra | 406 |
 | 14 | [markusand](https://github.com/markusand) | Marc Vilella |  |  | Andorra | 382 |
 | 15 | [georgeee](https://github.com/georgeee) | George Agapov | @MinaProtocol |  | Andorra | 354 |
-| 16 | [davidbalivo](https://github.com/davidbalivo) |  |  |  | Andorra | 329 |
-| 17 | [marciglesias17](https://github.com/marciglesias17) | Marc Iglesias | CubePath Inc. | marciglesias17 | Andorra | 320 |
-| 18 | [PaulMatencio](https://github.com/PaulMatencio) | Paul Matencio | Retired | paulMatencio | Andorra | 276 |
-| 19 | [loixlab](https://github.com/loixlab) | Sébastien LVL | @tradegist  |  | Andorra | 224 |
-| 20 | [kopenkinda](https://github.com/kopenkinda) | Kopenkin Dmitrii | @salut-mercado  |  | Andorra | 220 |
+| 16 | [marciglesias17](https://github.com/marciglesias17) | Marc Iglesias | CubePath Inc. | marciglesias17 | Andorra | 320 |
+| 17 | [PaulMatencio](https://github.com/PaulMatencio) | Paul Matencio | Retired | paulMatencio | Andorra | 276 |
+| 18 | [loixlab](https://github.com/loixlab) | Sébastien LVL | @tradegist  |  | Andorra | 224 |
+| 19 | [kopenkinda](https://github.com/kopenkinda) | Kopenkin Dmitrii | @salut-mercado  |  | Andorra | 220 |
+| 20 | [DiogoPires2003](https://github.com/DiogoPires2003) | Diogo Filipe Alves Pires |  |  | Andorra | 208 |

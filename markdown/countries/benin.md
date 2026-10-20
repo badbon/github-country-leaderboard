@@ -19,7 +19,7 @@ Indexed users: 471
 | 5 | [AxelSalim](https://github.com/AxelSalim) | ADJAKIDJE K. Axel S. H. | Benin | 7,286 |
 | 6 | [devalade](https://github.com/devalade) | Alade YESSOUFOU | Cotonou,Littoral, Benin | 6,567 |
 | 7 | [jprud67](https://github.com/jprud67) | Prudence  Dieudonné Assogba | Benin, cotonou | 5,256 |
-| 8 | [BOCOVO](https://github.com/BOCOVO) | bocovo | Cotonou, Benin | 4,410 |
+| 8 | [BOCOVO](https://github.com/BOCOVO) | bocovo | Cotonou, Benin | 4,424 |
 | 9 | [Block67](https://github.com/Block67) | Rahamane ₿ODA | Benin, Cotonou | 4,258 |
 | 10 | [ludndev](https://github.com/ludndev) | Judicaël AHYI | Cotonou, Benin | 4,063 |
 | 11 | [Richard6141](https://github.com/Richard6141) | Richard SALANON | Cotonou, Bénin | 4,031 |
@@ -83,4 +83,4 @@ Indexed users: 471
 | 19 | [awarris](https://github.com/awarris) | Warris AGBANNONDE | Benin, Cotonou Ganhi | 71 |
 | 20 | [baba-mandef](https://github.com/baba-mandef) | Abiodoun Paraïso | Adjarra, Benin | 71 |
 
-Generated: 2026-10-20T13:33:17.661Z
+Generated: 2026-10-20T15:06:42.956Z

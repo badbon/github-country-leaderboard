@@ -53,8 +53,8 @@ Indexed users: 2,378
 | 14 | [KevLehman](https://github.com/KevLehman) | Kevin Aleman | El Salvador | 1,064 |
 | 15 | [ronirgp](https://github.com/ronirgp) | RONALD PINEDA | El Salvador  | 1,049 |
 | 16 | [Alexisrx96](https://github.com/Alexisrx96) | Irvin Torres | El Salvador | 1,035 |
-| 17 | [Lenny004](https://github.com/Lenny004) | Lenny Sánchez | El Salvador | 972 |
-| 18 | [Francisco-Guillermo-Hernandez](https://github.com/Francisco-Guillermo-Hernandez) | Francisco Guillermo Hernandez | El Salvador, San Salvador | 922 |
+| 17 | [Francisco-Guillermo-Hernandez](https://github.com/Francisco-Guillermo-Hernandez) | Francisco Guillermo Hernandez | El Salvador, San Salvador | 922 |
+| 18 | [Lenny004](https://github.com/Lenny004) | Lenny Sánchez | El Salvador | 917 |
 | 19 | [beihaili](https://github.com/beihaili) | bhbtc1337 | El Salvador | 909 |
 | 20 | [FredyRivera-dev](https://github.com/FredyRivera-dev) | Fredy Rivera | El Salvador, San Vicente | 908 |
 
@@ -83,4 +83,4 @@ Indexed users: 2,378
 | 19 | [MiPrimerBitcoin](https://github.com/MiPrimerBitcoin) | Mi Primer Bitcoin El Salvador | El Salvador | 97 |
 | 20 | [davequinta](https://github.com/davequinta) | David Quintanilla | El Salvador | 95 |
 
-Generated: 2026-10-20T13:49:09.695Z
+Generated: 2026-10-20T15:21:01.668Z

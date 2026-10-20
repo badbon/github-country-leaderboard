@@ -1,13 +1,13 @@
 # Public Contributions - Burundi
 
-Generated: 2026-10-20T13:38:49.846Z
+Generated: 2026-10-20T15:10:52.198Z
 
 Users: 235
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [yvartpro](https://github.com/yvartpro) | Nshemezimana Yves | @vovota |  | Bujumbura,Burundi | 1659 |
-| 2 | [Advaxe](https://github.com/Advaxe) | Advaxe Ndayisenga | Free Tech Institute | AdvaxeIr | Gitega-Burundi | 1335 |
+| 2 | [Advaxe](https://github.com/Advaxe) | Advaxe Ndayisenga | Free Tech Institute | AdvaxeIr | Gitega-Burundi | 1441 |
 | 3 | [allyelvis](https://github.com/allyelvis) | Ally Elvis Nzeyimana | @AENZBi  | AllyElvis1 | Burundi | 657 |
 | 4 | [Ndikuma](https://github.com/Ndikuma) | Idris Ndikumana |  | AdnesNdiku10883 | Burundi | 480 |
 | 5 | [srugano](https://github.com/srugano) | Allan Stockman RUGANO  | @UbuhingaVizion  | iMitwe | Burundi | 471 |
@@ -15,7 +15,7 @@ Users: 235
 | 7 | [JubuNiyokoDev](https://github.com/JubuNiyokoDev) | Jubu Niyoko Dev |  |  | Burundi | 425 |
 | 8 | [Mutimanwa](https://github.com/Mutimanwa) | calvinDev | @uhuru-Market  |  | burundi | 365 |
 | 9 | [klauskira07](https://github.com/klauskira07) | Klaus KIRA | Vortex Ltd. | klauskira07 | Burundi | 312 |
-| 10 | [miguelandy875](https://github.com/miguelandy875) | Habyarimana Andy Miguel |  | AndyHabyarimana | Gitega, Burundi  | 286 |
+| 10 | [miguelandy875](https://github.com/miguelandy875) | Habyarimana Andy Miguel |  | AndyHabyarimana | Gitega, Burundi  | 283 |
 | 11 | [Janeirohurley](https://github.com/Janeirohurley) | Janeiro hurley | @RundiNova  | janeirohurley | Burundi | 277 |
 | 12 | [kozetchanny52-gif](https://github.com/kozetchanny52-gif) | KOZE TCHANY |  |  | Burundi/Bujumbura | 229 |
 | 13 | [IdrissMulenga](https://github.com/IdrissMulenga) | IdrissM | afritic-group |  | Burundi | 201 |

@@ -1,13 +1,13 @@
 # Public Contributions - Bulgaria
 
-Generated: 2026-10-20T13:37:58.254Z
+Generated: 2026-10-20T15:10:19.600Z
 
-Users: 14069
+Users: 14068
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [stoykovstoyk](https://github.com/stoykovstoyk) |  |  |  | Bulgaria, Sofia | 42532 |
-| 2 | [NikolaRHristov](https://github.com/NikolaRHristov) | Nikola Hristov | @PlayForm | NikolaRHristov | Sofia, Bulgaria | 11808 |
+| 2 | [NikolaRHristov](https://github.com/NikolaRHristov) | Nikola Hristov | @PlayForm | NikolaRHristov | Sofia, Bulgaria | 13527 |
 | 3 | [matsidor1975](https://github.com/matsidor1975) | Titomir Dinew | Sgradaulika | 3Pu0Pudh6FGoBlu | Bulgaria | 10320 |
 | 4 | [AgLogiV](https://github.com/AgLogiV) | Aleksandar Georgiev | @virtyxhost |  | Bulgaria, Sofia | 9920 |
 | 5 | [pavelsur07](https://github.com/pavelsur07) |  |  |  | Varna | 9313 |

@@ -1,8 +1,8 @@
 # Followers - Bulgaria
 
-Generated: 2026-10-20T13:37:58.254Z
+Generated: 2026-10-20T15:10:19.600Z
 
-Users: 14069
+Users: 14068
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -22,7 +22,7 @@ Users: 14069
 | 14 | [ivailopapazov](https://github.com/ivailopapazov) | Ivaylo Papazov |  |  | Sofia, Bulgaria | 1060 |
 | 15 | [DiyanKalaydzhiev23](https://github.com/DiyanKalaydzhiev23) | Diyan Kalaydzhiev | hedgehog lab \| Softuni \| NBU |  | Sofia | 816 |
 | 16 | [DesislavaTopuzakova](https://github.com/DesislavaTopuzakova) | Desislava Topuzakova | SAP | d_topuzakova | Sofia, Bulgaria | 686 |
-| 17 | [milaabl](https://github.com/milaabl) | Ludmila |  |  | Tsarevo, Bulgaria | 671 |
-| 18 | [skanev](https://github.com/skanev) | Stefan Kanev | Dext | skanev | Sofia, Bulgaria | 658 |
-| 19 | [shanalikhan](https://github.com/shanalikhan) | Shan Khan |  |  | Bulgaria | 637 |
-| 20 | [RadoRado](https://github.com/RadoRado) | Radoslav Georgiev | @HackSoftware  | Rado_g | Sofia | 631 |
+| 17 | [skanev](https://github.com/skanev) | Stefan Kanev | Dext | skanev | Sofia, Bulgaria | 658 |
+| 18 | [shanalikhan](https://github.com/shanalikhan) | Shan Khan |  |  | Bulgaria | 637 |
+| 19 | [RadoRado](https://github.com/RadoRado) | Radoslav Georgiev | @HackSoftware  | Rado_g | Sofia | 631 |
+| 20 | [narfbg](https://github.com/narfbg) | Andrey Andreev |  |  | Bulgaria | 601 |

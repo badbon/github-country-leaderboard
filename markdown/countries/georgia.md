@@ -1,6 +1,6 @@
 # Georgia
 
-Indexed users: 6,875
+Indexed users: 6,874
 
 | Leaderboard | Link |
 |---|---|
@@ -80,7 +80,7 @@ Indexed users: 6,875
 | 16 | [gokadzev](https://github.com/gokadzev) | Valeri Gokadze | Tbilisi, Georgia | 451 |
 | 17 | [bumbeishvili](https://github.com/bumbeishvili) | David  Bumbeishvili | Tbilisi, Georgia | 409 |
 | 18 | [smira](https://github.com/smira) | Andrey Smirnov | Georgia | 402 |
-| 19 | [h-mdm](https://github.com/h-mdm) | Headwind MDM | Iustine Abuladze st. N15, Tbilisi, Georgia | 396 |
+| 19 | [h-mdm](https://github.com/h-mdm) | Headwind MDM | Iustine Abuladze st. N15, Tbilisi, Georgia | 400 |
 | 20 | [jkomyno](https://github.com/jkomyno) | Alberto Schiabel | Tbilisi, Georgia | 392 |
 
-Generated: 2026-10-20T13:24:59.135Z
+Generated: 2026-10-20T14:58:44.753Z

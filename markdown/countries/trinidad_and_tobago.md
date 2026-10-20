@@ -22,7 +22,7 @@ Indexed users: 256
 | 8 | [creativenull](https://github.com/creativenull) | Arnold Chand | Trinidad and Tobago | 2,343 |
 | 9 | [devxlag](https://github.com/devxlag) | Devon Murray | Trinidad and Tobago | 2,228 |
 | 10 | [marcstampfli](https://github.com/marcstampfli) | Marc Stämpfli | Trinidad and Tobago | 2,094 |
-| 11 | [jaedanpersaud12](https://github.com/jaedanpersaud12) | Jaedan Persaud | Trinidad and Tobago | 2,058 |
+| 11 | [jaedanpersaud12](https://github.com/jaedanpersaud12) | Jaedan Persaud | Trinidad and Tobago | 2,062 |
 | 12 | [edgeboy47](https://github.com/edgeboy47) | Darrion Mills | Trinidad and Tobago | 1,549 |
 | 13 | [snorkpete](https://github.com/snorkpete) | Kion Stephen | Trinidad and Tobago | 1,485 |
 | 14 | [Yhonathon-Maharaj](https://github.com/Yhonathon-Maharaj) | Yhonathon Maharaj | Trinidad and Tobago | 1,427 |
@@ -83,4 +83,4 @@ Indexed users: 256
 | 19 | [DionMS8](https://github.com/DionMS8) | Dion Singh | Trinidad and Tobago | 29 |
 | 20 | [wyntonfranklin](https://github.com/wyntonfranklin) | Wynton Franklin | Trinidad and Tobago | 29 |
 
-Generated: 2026-10-20T13:17:48.149Z
+Generated: 2026-10-20T14:50:35.784Z

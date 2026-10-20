@@ -1,6 +1,6 @@
 # Total Contributions - Timor-Leste
 
-Generated: 2026-10-20T13:16:27.669Z
+Generated: 2026-10-20T14:49:48.311Z
 
 Users: 77
 
@@ -13,7 +13,7 @@ Users: 77
 | 5 | [abindacarmo](https://github.com/abindacarmo) | Brigida de Carvalho Carmo | UNTL |  | Timor-Leste | 840 |
 | 6 | [zemalay](https://github.com/zemalay) | Geovannio Frederico de Jesus Vinhas | TIC TIMOR |  | Dili, Timor-Leste | 602 |
 | 7 | [ajitonelsonn](https://github.com/ajitonelsonn) | Ajito Nelson | Viettel Timor |  | Timor Leste | 519 |
-| 8 | [JabesNelma](https://github.com/JabesNelma) | Jay |  |  | Dili, Timor-Leste | 348 |
+| 8 | [JabesNelma](https://github.com/JabesNelma) | Jay |  |  | Dili, Timor-Leste | 353 |
 | 9 | [raul-amaral](https://github.com/raul-amaral) | Raul Amaral |  |  | Timor-Leste | 339 |
 | 10 | [amandio-eto](https://github.com/amandio-eto) | Jose Amandio de Almeida | Esperanca Timor Oan |  | Rua china Rate Lahane Oreintal Dili Timor Leste | 213 |
 | 11 | [TiagovskiCode](https://github.com/TiagovskiCode) | Tiago Teixeira  |  |  | East-Timor | 189 |
@@ -21,8 +21,8 @@ Users: 77
 | 13 | [gabriel-de-jesus](https://github.com/gabriel-de-jesus) | Gabriel de Jesus | Timor News |  | Dili, Timor-Leste | 120 |
 | 14 | [Floren-pinto](https://github.com/Floren-pinto) | Florentino Pinto |  |  | Timor-Leste | 110 |
 | 15 | [KituDoutel](https://github.com/KituDoutel) | Francisco KiTu | Freelancer |  | Dili, Timor-Leste 🇹🇱 | 65 |
-| 16 | [timorleste](https://github.com/timorleste) | Degree Background: Information Management (Associate Degree), Information Systems (B.Comp.Sc), Information Technology (M.Eng). Certified Experience in Spatial intelligence, Interested in Photography, Audiovisual Archive and IT-Systems Architect |  | tonybehar | Dili, Timor-Leste | 41 |
-| 17 | [bmzashura](https://github.com/bmzashura) | Bemis Huntala |  |  | Dili, Timor Leste | 36 |
-| 18 | [axlescurial-lang](https://github.com/axlescurial-lang) | EVENSANTA |  |  | Timor-leste | 34 |
-| 19 | [XICANO88](https://github.com/XICANO88) | XICANO |  |  | Manatuto, Timor-Leste | 32 |
+| 16 | [XICANO88](https://github.com/XICANO88) | XICANO |  |  | Manatuto, Timor-Leste | 58 |
+| 17 | [timorleste](https://github.com/timorleste) | Degree Background: Information Management (Associate Degree), Information Systems (B.Comp.Sc), Information Technology (M.Eng). Certified Experience in Spatial intelligence, Interested in Photography, Audiovisual Archive and IT-Systems Architect |  | tonybehar | Dili, Timor-Leste | 41 |
+| 18 | [bmzashura](https://github.com/bmzashura) | Bemis Huntala |  |  | Dili, Timor Leste | 36 |
+| 19 | [axlescurial-lang](https://github.com/axlescurial-lang) | EVENSANTA |  |  | Timor-leste | 34 |
 | 20 | [pedrix-48](https://github.com/pedrix-48) | Jessua Rodrigues | UNTL |  | Dili | 26 |

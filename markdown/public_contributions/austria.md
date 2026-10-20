@@ -1,8 +1,8 @@
 # Public Contributions - Austria
 
-Generated: 2026-10-20T13:31:13.688Z
+Generated: 2026-10-20T15:03:00.557Z
 
-Users: 18248
+Users: 18247
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|

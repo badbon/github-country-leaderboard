@@ -1,6 +1,6 @@
 # Total Contributions - Bahamas
 
-Generated: 2026-10-20T13:32:24.096Z
+Generated: 2026-10-20T15:03:43.226Z
 
 Users: 236
 
@@ -8,7 +8,7 @@ Users: 236
 |---:|---|---|---|---|---|---:|
 | 1 | [carlswann](https://github.com/carlswann) | Carl Swann | @lightspeed |  | Freeport, Bahamas | 23741 |
 | 2 | [zoejessica](https://github.com/zoejessica) | Zoë Smith | @Basecamp | zoejessica | Bahamas / Canada | 3576 |
-| 3 | [dbraganca](https://github.com/dbraganca) | dbraganca |  |  | Bahamas | 3324 |
+| 3 | [dbraganca](https://github.com/dbraganca) | dbraganca |  |  | Bahamas | 3387 |
 | 4 | [bondjacobbond](https://github.com/bondjacobbond) | Jacob Bond | Bond Sports |  | Casino Royale, Nassau, Bahamas | 3062 |
 | 5 | [ryaustin](https://github.com/ryaustin) | Ryan |  | ry_austin | Bahamas | 2621 |
 | 6 | [yannyhl](https://github.com/yannyhl) | yg | Melo Inc |  | nassau | 2039 |
@@ -17,7 +17,7 @@ Users: 236
 | 9 | [justnardo](https://github.com/justnardo) | Just_Nardo | First Glance |  | Bahamas | 1405 |
 | 10 | [jsphpndr](https://github.com/jsphpndr) | Joseph Pinder | Clever | jsphpndr | Bahamas | 1215 |
 | 11 | [TRL242](https://github.com/TRL242) | Roy Lockhart |  |  | Victoria, BC and Freeport, Bahamas | 1110 |
-| 12 | [Johndiddles](https://github.com/Johndiddles) | Johndiddles | Evon Medics LLC | john_diddles | Nassau, Bahamas | 824 |
+| 12 | [Johndiddles](https://github.com/Johndiddles) | Johndiddles | Evon Medics LLC | john_diddles | Nassau, Bahamas | 831 |
 | 13 | [Tec4Sho](https://github.com/Tec4Sho) | Ziona |  |  | Nassau, Bahamas  | 794 |
 | 14 | [Clearwood](https://github.com/Clearwood) |  |  | 0xKeno | Bahamas | 735 |
 | 15 | [dorson755](https://github.com/dorson755) | Dorson Williams |  |  | Nassau Bahamas | 733 |

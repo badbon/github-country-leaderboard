@@ -1,8 +1,8 @@
 # Followers - Georgia
 
-Generated: 2026-10-20T13:24:59.135Z
+Generated: 2026-10-20T14:58:44.753Z
 
-Users: 6875
+Users: 6874
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -24,5 +24,5 @@ Users: 6875
 | 16 | [gokadzev](https://github.com/gokadzev) | Valeri Gokadze |  |  | Tbilisi, Georgia | 451 |
 | 17 | [bumbeishvili](https://github.com/bumbeishvili) | David  Bumbeishvili |  | dbumbeishvili | Tbilisi, Georgia | 409 |
 | 18 | [smira](https://github.com/smira) | Andrey Smirnov | @siderolabs  | smira | Georgia | 402 |
-| 19 | [h-mdm](https://github.com/h-mdm) | Headwind MDM | Headwind MDM |  | Iustine Abuladze st. N15, Tbilisi, Georgia | 396 |
+| 19 | [h-mdm](https://github.com/h-mdm) | Headwind MDM | Headwind MDM |  | Iustine Abuladze st. N15, Tbilisi, Georgia | 400 |
 | 20 | [jkomyno](https://github.com/jkomyno) | Alberto Schiabel | @composioHQ | jkomyno | Tbilisi, Georgia | 392 |

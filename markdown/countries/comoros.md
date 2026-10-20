@@ -45,8 +45,8 @@ Indexed users: 11
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [clarkdowding](https://github.com/clarkdowding) | Clark Dowding | Moroni, Utah | 12 |
-| 2 | [linkhousni](https://github.com/linkhousni) | Housni Issouffa | Moroni - Comoros | 8 |
-| 3 | [DiWess](https://github.com/DiWess) | Soilihi Mohamed Abdoulhalik | Moroni | 7 |
+| 2 | [DiWess](https://github.com/DiWess) | Soilihi Mohamed Abdoulhalik | Moroni | 8 |
+| 3 | [linkhousni](https://github.com/linkhousni) | Housni Issouffa | Moroni - Comoros | 8 |
 | 4 | [faustfizz](https://github.com/faustfizz) | Youssouf Mbaé AS | Comoros  | 6 |
 | 5 | [abdi-momo](https://github.com/abdi-momo) | Abdillah Mohamed | Moroni | 3 |
 | 6 | [maanrouf](https://github.com/maanrouf) | Maanrouf | Comoros | 3 |
@@ -56,4 +56,4 @@ Indexed users: 11
 | 10 | [SanyaKRY](https://github.com/SanyaKRY) | SanyaKRY | Comoros | 2 |
 | 11 | [yvssineyh269](https://github.com/yvssineyh269) | Yassine YH | Moroni, Comoros | 2 |
 
-Generated: 2026-10-20T13:43:43.980Z
+Generated: 2026-10-20T15:15:24.942Z

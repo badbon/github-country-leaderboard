@@ -15,13 +15,13 @@ Indexed users: 501
 | 1 | [Kemalstudio](https://github.com/Kemalstudio) | Kemal Atayev | Turkmenistan / Ashgabat | 25,850 |
 | 2 | [resuls](https://github.com/resuls) | Resul | Turkmenistan | 8,627 |
 | 3 | [bruno-keiko](https://github.com/bruno-keiko) | Bruno | Turkmenistan | 6,635 |
-| 4 | [arslanAta](https://github.com/arslanAta) | Arslan | Turkmenistan | 5,325 |
+| 4 | [arslanAta](https://github.com/arslanAta) | Arslan | Turkmenistan | 5,405 |
 | 5 | [realmeylisdev](https://github.com/realmeylisdev) | Meylis | Ashgabat, Turkmenistan | 4,612 |
 | 6 | [richxcame](https://github.com/richxcame) | Baygeldi Cholukov | Turkmenistan | 4,382 |
-| 7 | [bayramBabagulyyev](https://github.com/bayramBabagulyyev) | Bayram Babagulyyev | Turkmenistan | 4,272 |
-| 8 | [lightRain0629](https://github.com/lightRain0629) | Umyt | Ashgabat, Turkmenistan | 4,039 |
+| 7 | [bayramBabagulyyev](https://github.com/bayramBabagulyyev) | Bayram Babagulyyev | Turkmenistan | 4,313 |
+| 8 | [lightRain0629](https://github.com/lightRain0629) | Umyt | Ashgabat, Turkmenistan | 4,073 |
 | 9 | [kakajansh](https://github.com/kakajansh) | Kakajan SH | Ashgabat | 3,744 |
-| 10 | [noxur05](https://github.com/noxur05) | Bagtyyar Rejepov | Ashgabat, Turkmenistan | 3,715 |
+| 10 | [noxur05](https://github.com/noxur05) | Bagtyyar Rejepov | Ashgabat, Turkmenistan | 3,721 |
 | 11 | [Nirovitsky](https://github.com/Nirovitsky) | Ata | Turkmenistan | 3,369 |
 | 12 | [Begench2005](https://github.com/Begench2005) | Begench | Ashgabat, Turkmenistan | 3,253 |
 | 13 | [bridgecoresystems-cmd](https://github.com/bridgecoresystems-cmd) | BridgeCore SYSTEMS | Turkmenistan | 3,153 |
@@ -83,4 +83,4 @@ Indexed users: 501
 | 19 | [MerlinEmris](https://github.com/MerlinEmris) | Merdan Chariyarov | Ashgabat | 65 |
 | 20 | [atageldi194229](https://github.com/atageldi194229) | Atageldi | Ashgabat, Turkmenistan | 64 |
 
-Generated: 2026-10-20T13:18:43.756Z
+Generated: 2026-10-20T14:51:46.293Z

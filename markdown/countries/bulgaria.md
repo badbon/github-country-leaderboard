@@ -1,6 +1,6 @@
 # Bulgaria
 
-Indexed users: 14,069
+Indexed users: 14,068
 
 | Leaderboard | Link |
 |---|---|
@@ -15,9 +15,9 @@ Indexed users: 14,069
 | 1 | [Venelin-Bekyarov](https://github.com/Venelin-Bekyarov) | Venelin Bekyarov | Bulgaria | 126,193 |
 | 2 | [stoykovstoyk](https://github.com/stoykovstoyk) |  | Bulgaria, Sofia | 43,160 |
 | 3 | [zah](https://github.com/zah) |  | Sofia, Bulgaria | 30,597 |
-| 4 | [RMANOV](https://github.com/RMANOV) | Ruslan Manov | Sofia, Bulgaria | 19,858 |
-| 5 | [bdteo](https://github.com/bdteo) | Boris D. Teoharov | Sofia, Bulgaria | 18,336 |
-| 6 | [NikolaRHristov](https://github.com/NikolaRHristov) | Nikola Hristov | Sofia, Bulgaria | 18,266 |
+| 4 | [RMANOV](https://github.com/RMANOV) | Ruslan Manov | Sofia, Bulgaria | 20,502 |
+| 5 | [NikolaRHristov](https://github.com/NikolaRHristov) | Nikola Hristov | Sofia, Bulgaria | 20,149 |
+| 6 | [bdteo](https://github.com/bdteo) | Boris D. Teoharov | Sofia, Bulgaria | 18,336 |
 | 7 | [0ximu](https://github.com/0ximu) | imu | Bulgaria | 16,521 |
 | 8 | [miraclebg](https://github.com/miraclebg) | Martin Kovachev | Plovdiv, Bulgaria | 13,026 |
 | 9 | [bobikenobi12](https://github.com/bobikenobi12) | Borislav Borisov | Sofia, Bulgaria | 12,404 |
@@ -38,7 +38,7 @@ Indexed users: 14,069
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [stoykovstoyk](https://github.com/stoykovstoyk) |  | Bulgaria, Sofia | 42,532 |
-| 2 | [NikolaRHristov](https://github.com/NikolaRHristov) | Nikola Hristov | Sofia, Bulgaria | 11,808 |
+| 2 | [NikolaRHristov](https://github.com/NikolaRHristov) | Nikola Hristov | Sofia, Bulgaria | 13,527 |
 | 3 | [matsidor1975](https://github.com/matsidor1975) | Titomir Dinew | Bulgaria | 10,320 |
 | 4 | [AgLogiV](https://github.com/AgLogiV) | Aleksandar Georgiev | Bulgaria, Sofia | 9,920 |
 | 5 | [pavelsur07](https://github.com/pavelsur07) |  | Varna | 9,313 |
@@ -78,9 +78,9 @@ Indexed users: 14,069
 | 14 | [ivailopapazov](https://github.com/ivailopapazov) | Ivaylo Papazov | Sofia, Bulgaria | 1,060 |
 | 15 | [DiyanKalaydzhiev23](https://github.com/DiyanKalaydzhiev23) | Diyan Kalaydzhiev | Sofia | 816 |
 | 16 | [DesislavaTopuzakova](https://github.com/DesislavaTopuzakova) | Desislava Topuzakova | Sofia, Bulgaria | 686 |
-| 17 | [milaabl](https://github.com/milaabl) | Ludmila | Tsarevo, Bulgaria | 671 |
-| 18 | [skanev](https://github.com/skanev) | Stefan Kanev | Sofia, Bulgaria | 658 |
-| 19 | [shanalikhan](https://github.com/shanalikhan) | Shan Khan | Bulgaria | 637 |
-| 20 | [RadoRado](https://github.com/RadoRado) | Radoslav Georgiev | Sofia | 631 |
+| 17 | [skanev](https://github.com/skanev) | Stefan Kanev | Sofia, Bulgaria | 658 |
+| 18 | [shanalikhan](https://github.com/shanalikhan) | Shan Khan | Bulgaria | 637 |
+| 19 | [RadoRado](https://github.com/RadoRado) | Radoslav Georgiev | Sofia | 631 |
+| 20 | [narfbg](https://github.com/narfbg) | Andrey Andreev | Bulgaria | 601 |
 
-Generated: 2026-10-20T13:37:58.254Z
+Generated: 2026-10-20T15:10:19.600Z

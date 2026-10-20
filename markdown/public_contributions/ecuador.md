@@ -1,6 +1,6 @@
 # Public Contributions - Ecuador
 
-Generated: 2026-10-20T13:48:07.093Z
+Generated: 2026-10-20T15:20:53.458Z
 
 Users: 4878
 
@@ -12,9 +12,9 @@ Users: 4878
 | 4 | [danny270793](https://github.com/danny270793) | Danny Vaca | Technisys | danny270793 | Ecuador | 6951 |
 | 5 | [somatechlat](https://github.com/somatechlat) | SomaTech - Bringin Artificiall Intelligence closer to Humans  | Somatech  |  | Quito | 5138 |
 | 6 | [StevSant](https://github.com/StevSant) | Bryan Menoscal | ULEAM |  | Ecuador, Manabi, Manta | 4329 |
-| 7 | [AlejandroTatum](https://github.com/AlejandroTatum) | Alejandro Padilla |  |  | Ecuador | 3763 |
-| 8 | [rowanseymour](https://github.com/rowanseymour) | Rowan Seymour | @nyaruka |  | Quito, Ecuador | 3730 |
-| 9 | [victor7w7r](https://github.com/victor7w7r) | victor7w7r | Universidad de las Fuerzas Armadas "ESPE" |  | Quito, Ecuador | 3341 |
+| 7 | [victor7w7r](https://github.com/victor7w7r) | victor7w7r | Universidad de las Fuerzas Armadas "ESPE" |  | Quito, Ecuador | 4298 |
+| 8 | [AlejandroTatum](https://github.com/AlejandroTatum) | Alejandro Padilla |  |  | Ecuador | 3763 |
+| 9 | [rowanseymour](https://github.com/rowanseymour) | Rowan Seymour | @nyaruka |  | Quito, Ecuador | 3730 |
 | 10 | [alcb1310](https://github.com/alcb1310) | Andres Court | AlcbSystems | alcb1310 | Quito, Ecuador | 2954 |
 | 11 | [anchundiatech](https://github.com/anchundiatech) | Alejandro Anchundia |  |  | Ecuador | 2429 |
 | 12 | [Patogol35](https://github.com/Patogol35) | Jorge Patricio Santamaría Cherrez |  |  | Ambato, Ecuador  | 2376 |

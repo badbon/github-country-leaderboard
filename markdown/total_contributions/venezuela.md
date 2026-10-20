@@ -1,6 +1,6 @@
 # Total Contributions - Venezuela
 
-Generated: 2026-10-20T13:21:39.186Z
+Generated: 2026-10-20T14:56:39.103Z
 
 Users: 6621
 
@@ -14,15 +14,15 @@ Users: 6621
 | 6 | [bin-daldana](https://github.com/bin-daldana) | David Aldana | Binaural |  | Venezuela | 11960 |
 | 7 | [aiuoe](https://github.com/aiuoe) | rub3n | @Datapicker |  | Venezuela | 11493 |
 | 8 | [jefillysh](https://github.com/jefillysh) | Franklin Rodriguez | Tudashboard | franklinserif | Venezuela | 10295 |
-| 9 | [andresparilli](https://github.com/andresparilli) | Andres E. Parilli | Grupo Plus Tech, C.A. | andresparilli | Venezuela | 9434 |
-| 10 | [megalinker](https://github.com/megalinker) | Jesús Pérez | Ztudio |  | Caracas, Venezuela | 9330 |
-| 11 | [darthony](https://github.com/darthony) | Antonio Figueroa | Simgulary, LLC | darthony | Venezuela | 9260 |
-| 12 | [davidadc](https://github.com/davidadc) | David Delgado | @Crazy-Imagine  |  | Táchira, Venezuela. | 9119 |
-| 13 | [The-BoxHead-Guy](https://github.com/The-BoxHead-Guy) | Jhon Alessandro | Sistemas SCAEM - Dataemergencia |  | Venezuela | 8915 |
-| 14 | [orozCoding](https://github.com/orozCoding) | Angel Orozco | Simplero | orozCoding | Venezuela | 8522 |
-| 15 | [LuisAlejandro](https://github.com/LuisAlejandro) | Luis Alejandro |  | LuisAlejandro | Maracay, Venezuela | 8055 |
-| 16 | [wilmerjpg](https://github.com/wilmerjpg) | Wilmer Prieto |  |  | Caracas, Venezuela. | 7859 |
-| 17 | [AlexMGP7](https://github.com/AlexMGP7) | Alexander |  | apastena | Venezuela | 7356 |
-| 18 | [edinsonjohender](https://github.com/edinsonjohender) | Edinson Peña |  |  | Venezuela | 6957 |
-| 19 | [renebell0](https://github.com/renebell0) | Rene Bello | contacto@renebello.com |  | Caracas/Venezuela | 6890 |
-| 20 | [rich-97](https://github.com/rich-97) | Ricardo Moreno |  | ricardojmb_ | Maracaibo, Venezuela | 6804 |
+| 9 | [sosalejandro](https://github.com/sosalejandro) | Alejandro Sosa |  |  | Caracas | 10196 |
+| 10 | [andresparilli](https://github.com/andresparilli) | Andres E. Parilli | Grupo Plus Tech, C.A. | andresparilli | Venezuela | 9434 |
+| 11 | [megalinker](https://github.com/megalinker) | Jesús Pérez | Ztudio |  | Caracas, Venezuela | 9330 |
+| 12 | [darthony](https://github.com/darthony) | Antonio Figueroa | Simgulary, LLC | darthony | Venezuela | 9260 |
+| 13 | [davidadc](https://github.com/davidadc) | David Delgado | @Crazy-Imagine  |  | Táchira, Venezuela. | 9119 |
+| 14 | [The-BoxHead-Guy](https://github.com/The-BoxHead-Guy) | Jhon Alessandro | Sistemas SCAEM - Dataemergencia |  | Venezuela | 8915 |
+| 15 | [orozCoding](https://github.com/orozCoding) | Angel Orozco | Simplero | orozCoding | Venezuela | 8522 |
+| 16 | [LuisAlejandro](https://github.com/LuisAlejandro) | Luis Alejandro |  | LuisAlejandro | Maracay, Venezuela | 8055 |
+| 17 | [wilmerjpg](https://github.com/wilmerjpg) | Wilmer Prieto |  |  | Caracas, Venezuela. | 7859 |
+| 18 | [AlexMGP7](https://github.com/AlexMGP7) | Alexander |  | apastena | Venezuela | 7356 |
+| 19 | [edinsonjohender](https://github.com/edinsonjohender) | Edinson Peña |  |  | Venezuela | 6957 |
+| 20 | [renebell0](https://github.com/renebell0) | Rene Bello | contacto@renebello.com |  | Caracas/Venezuela | 6890 |

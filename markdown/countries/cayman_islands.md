@@ -12,7 +12,7 @@ Indexed users: 124
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [lhermoso](https://github.com/lhermoso) | Leo Hermoso | Cayman Islands | 22,333 |
+| 1 | [lhermoso](https://github.com/lhermoso) | Leo Hermoso | Cayman Islands | 22,411 |
 | 2 | [evandrosaturnino](https://github.com/evandrosaturnino) | Evandro Saturnino | Cayman Islands | 7,855 |
 | 3 | [yannickrocks](https://github.com/yannickrocks) | Yannick Mermet | Cayman Islands | 5,128 |
 | 4 | [andreogle](https://github.com/andreogle) | André Ogle | 🇰🇾 Cayman Islands | 3,751 |
@@ -24,7 +24,7 @@ Indexed users: 124
 | 10 | [0xpanicError](https://github.com/0xpanicError) | Yash Saraswat | Cayman Islands | 2,361 |
 | 11 | [tamebadger](https://github.com/tamebadger) | Rupert Klopper | Grand Cayman, Cayman Islands | 1,919 |
 | 12 | [paulofierro](https://github.com/paulofierro) | Paulo Fierro | Cayman Islands | 1,490 |
-| 13 | [RodneyAlison](https://github.com/RodneyAlison) | Rodney Alison | Cayman Islands | 1,219 |
+| 13 | [RodneyAlison](https://github.com/RodneyAlison) | Rodney Alison | Cayman Islands | 1,226 |
 | 14 | [tmancey](https://github.com/tmancey) | Terry Mancey | Cayman Islands | 1,059 |
 | 15 | [saviro-orin](https://github.com/saviro-orin) | Orin | Cayman Islands | 1,058 |
 | 16 | [BaltasarAroso](https://github.com/BaltasarAroso) | Baltasar Aroso | George Town, Cayman Islands | 1,044 |
@@ -46,10 +46,10 @@ Indexed users: 124
 | 7 | [krciga22](https://github.com/krciga22) | Andrew Forster | Cayman Islands | 462 |
 | 8 | [renannery](https://github.com/renannery) | Nery | Cayman Islands | 357 |
 | 9 | [andreogle](https://github.com/andreogle) | André Ogle | 🇰🇾 Cayman Islands | 329 |
-| 10 | [lhermoso](https://github.com/lhermoso) | Leo Hermoso | Cayman Islands | 260 |
+| 10 | [lhermoso](https://github.com/lhermoso) | Leo Hermoso | Cayman Islands | 262 |
 | 11 | [Gise345](https://github.com/Gise345) | Giselle Johnson | Cayman Islands | 253 |
 | 12 | [Blankinfinity](https://github.com/Blankinfinity) | Keith Pearce | Cayman Islands | 249 |
-| 13 | [Adedamola18](https://github.com/Adedamola18) | Damola Olutoke | Cayman Islands | 238 |
+| 13 | [Adedamola18](https://github.com/Adedamola18) | Damola Olutoke | Cayman Islands | 240 |
 | 14 | [zkhan93](https://github.com/zkhan93) | Zeeshan Khan | Cayman Islands | 177 |
 | 15 | [HamoonSoleimani](https://github.com/HamoonSoleimani) | Hamoon Soleimani | Cayman Islands | 160 |
 | 16 | [RaisinBread42](https://github.com/RaisinBread42) | Shannon Williams | Cayman Islands | 154 |
@@ -83,4 +83,4 @@ Indexed users: 124
 | 19 | [dcimring](https://github.com/dcimring) | Daniel | Cayman Islands | 16 |
 | 20 | [RJDevGroup](https://github.com/RJDevGroup) | RJ Dev Group | George Town | 15 |
 
-Generated: 2026-10-20T13:40:43.538Z
+Generated: 2026-10-20T15:11:15.051Z

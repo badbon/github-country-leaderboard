@@ -66,7 +66,7 @@ Indexed users: 3,864
 | 2 | [uthumany](https://github.com/uthumany) | Uthuman Moody | uthuman 7H6P+H8, Kampala | 1,091 |
 | 3 | [judeotine](https://github.com/judeotine) | Judeotine | Uganda | 929 |
 | 4 | [CryceTruly](https://github.com/CryceTruly) | cryce truly | Kampala | 760 |
-| 5 | [codebender828](https://github.com/codebender828) | Jonathan Bakebwa | Kampala, Uganda | 586 |
+| 5 | [codebender828](https://github.com/codebender828) | Jonathan Bakebwa | Kampala, Uganda | 592 |
 | 6 | [ConradPB](https://github.com/ConradPB) | Conrad P.B | Kampala | 540 |
 | 7 | [ABAASA-BYOONA](https://github.com/ABAASA-BYOONA) | ABAASA | kampala | 510 |
 | 8 | [jesar-enl](https://github.com/jesar-enl) | Jesse Kyambadde | Uganda | 381 |
@@ -83,4 +83,4 @@ Indexed users: 3,864
 | 19 | [kallyas](https://github.com/kallyas) | Iden | Uganda | 190 |
 | 20 | [FahimWeblogicAndCyberTechnologies](https://github.com/FahimWeblogicAndCyberTechnologies) | FRANKLIN | Uganda | 186 |
 
-Generated: 2026-10-20T13:20:00.428Z
+Generated: 2026-10-20T14:53:24.137Z

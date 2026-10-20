@@ -1,17 +1,17 @@
 # Total Contributions - Bulgaria
 
-Generated: 2026-10-20T13:37:58.254Z
+Generated: 2026-10-20T15:10:19.600Z
 
-Users: 14069
+Users: 14068
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [Venelin-Bekyarov](https://github.com/Venelin-Bekyarov) | Venelin Bekyarov |  |  | Bulgaria | 126193 |
 | 2 | [stoykovstoyk](https://github.com/stoykovstoyk) |  |  |  | Bulgaria, Sofia | 43160 |
 | 3 | [zah](https://github.com/zah) |  |  |  | Sofia, Bulgaria | 30597 |
-| 4 | [RMANOV](https://github.com/RMANOV) | Ruslan Manov |  |  | Sofia, Bulgaria | 19858 |
-| 5 | [bdteo](https://github.com/bdteo) | Boris D. Teoharov |  |  | Sofia, Bulgaria | 18336 |
-| 6 | [NikolaRHristov](https://github.com/NikolaRHristov) | Nikola Hristov | @PlayForm | NikolaRHristov | Sofia, Bulgaria | 18266 |
+| 4 | [RMANOV](https://github.com/RMANOV) | Ruslan Manov |  |  | Sofia, Bulgaria | 20502 |
+| 5 | [NikolaRHristov](https://github.com/NikolaRHristov) | Nikola Hristov | @PlayForm | NikolaRHristov | Sofia, Bulgaria | 20149 |
+| 6 | [bdteo](https://github.com/bdteo) | Boris D. Teoharov |  |  | Sofia, Bulgaria | 18336 |
 | 7 | [0ximu](https://github.com/0ximu) | imu | MOESIA VCC | kodesenpai | Bulgaria | 16521 |
 | 8 | [miraclebg](https://github.com/miraclebg) | Martin Kovachev | Nimasystems Ltd | miraclebg | Plovdiv, Bulgaria | 13026 |
 | 9 | [bobikenobi12](https://github.com/bobikenobi12) | Borislav Borisov | @alethialabs-io  @the-tovr |  | Sofia, Bulgaria | 12404 |

@@ -1,14 +1,14 @@
 # Followers - Comoros
 
-Generated: 2026-10-20T13:43:43.980Z
+Generated: 2026-10-20T15:15:24.942Z
 
 Users: 11
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [clarkdowding](https://github.com/clarkdowding) | Clark Dowding | Clark Dowding |  | Moroni, Utah | 12 |
-| 2 | [linkhousni](https://github.com/linkhousni) | Housni Issouffa |  |  | Moroni - Comoros | 8 |
-| 3 | [DiWess](https://github.com/DiWess) | Soilihi Mohamed Abdoulhalik | Issaabuu Management Inc. |  | Moroni | 7 |
+| 2 | [DiWess](https://github.com/DiWess) | Soilihi Mohamed Abdoulhalik | Issaabuu Management Inc. |  | Moroni | 8 |
+| 3 | [linkhousni](https://github.com/linkhousni) | Housni Issouffa |  |  | Moroni - Comoros | 8 |
 | 4 | [faustfizz](https://github.com/faustfizz) | Youssouf Mbaé AS | Slashz | johnnyFaustfizz | Comoros  | 6 |
 | 5 | [abdi-momo](https://github.com/abdi-momo) | Abdillah Mohamed | Université des Comores |  | Moroni | 3 |
 | 6 | [maanrouf](https://github.com/maanrouf) | Maanrouf |  |  | Comoros | 3 |

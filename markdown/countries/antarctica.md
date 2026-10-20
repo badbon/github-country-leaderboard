@@ -19,7 +19,7 @@ Indexed users: 460
 | 5 | [jeongho](https://github.com/jeongho) | Jeongho Park | Deception Island, Antarctica | 5,102 |
 | 6 | [ifarbod](https://github.com/ifarbod) | iFarbod | Antarctica  | 4,974 |
 | 7 | [JohnChristianD](https://github.com/JohnChristianD) | John Christian Domingo | Antarctica | 4,941 |
-| 8 | [AntoineSebert](https://github.com/AntoineSebert) | Antoine Sébert | Antarctica | 4,771 |
+| 8 | [AntoineSebert](https://github.com/AntoineSebert) | Antoine Sébert | Antarctica | 4,798 |
 | 9 | [Sup2point0](https://github.com/Sup2point0) | Sup#2.0 | Antarctica | 4,679 |
 | 10 | [bharxhav](https://github.com/bharxhav) | Bhargav Kantheti | antarctica | 4,258 |
 | 11 | [cutetux](https://github.com/cutetux) | CuteTux | Antarctica ;) | 4,085 |
@@ -50,7 +50,7 @@ Indexed users: 460
 | 11 | [antedotee](https://github.com/antedotee) | ky505 | Antarctica | 1,119 |
 | 12 | [codes-by-utkarsh](https://github.com/codes-by-utkarsh) | Utkarsh Srivastava | Antarctica | 706 |
 | 13 | [KrLite](https://github.com/KrLite) | KrLite | Antarctica | 648 |
-| 14 | [DenzelPenzel](https://github.com/DenzelPenzel) |  | Antarctica | 531 |
+| 14 | [DenzelPenzel](https://github.com/DenzelPenzel) |  | Antarctica | 538 |
 | 15 | [PenguinDOOM](https://github.com/PenguinDOOM) | Penguin | Antarctica, Discord, VRChat | 524 |
 | 16 | [oniaz](https://github.com/oniaz) | Omnia | antarctica | 517 |
 | 17 | [Daedalus-code](https://github.com/Daedalus-code) |  | Antarctica | 472 |
@@ -83,4 +83,4 @@ Indexed users: 460
 | 19 | [alphaaurigae](https://github.com/alphaaurigae) | Marian Brockerhoff | Antarctica | 85 |
 | 20 | [fakeid30](https://github.com/fakeid30) | Fake ID | Antarctica | 78 |
 
-Generated: 2026-10-20T13:29:02.239Z
+Generated: 2026-10-20T15:00:47.527Z

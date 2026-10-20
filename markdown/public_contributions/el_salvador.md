@@ -1,6 +1,6 @@
 # Public Contributions - El Salvador
 
-Generated: 2026-10-20T13:49:09.695Z
+Generated: 2026-10-20T15:21:01.668Z
 
 Users: 2378
 
@@ -22,7 +22,7 @@ Users: 2378
 | 14 | [KevLehman](https://github.com/KevLehman) | Kevin Aleman | @RocketChat  | kaleman15 | El Salvador | 1064 |
 | 15 | [ronirgp](https://github.com/ronirgp) | RONALD PINEDA | Freelancers |  | El Salvador  | 1049 |
 | 16 | [Alexisrx96](https://github.com/Alexisrx96) | Irvin Torres |  | alexisrx96 | El Salvador | 1035 |
-| 17 | [Lenny004](https://github.com/Lenny004) | Lenny Sánchez |  |  | El Salvador | 972 |
-| 18 | [Francisco-Guillermo-Hernandez](https://github.com/Francisco-Guillermo-Hernandez) | Francisco Guillermo Hernandez |  | FrnciscoHrnndez | El Salvador, San Salvador | 922 |
+| 17 | [Francisco-Guillermo-Hernandez](https://github.com/Francisco-Guillermo-Hernandez) | Francisco Guillermo Hernandez |  | FrnciscoHrnndez | El Salvador, San Salvador | 922 |
+| 18 | [Lenny004](https://github.com/Lenny004) | Lenny Sánchez |  |  | El Salvador | 917 |
 | 19 | [beihaili](https://github.com/beihaili) | bhbtc1337 |  | bhbtc1337 | El Salvador | 909 |
 | 20 | [FredyRivera-dev](https://github.com/FredyRivera-dev) | Fredy Rivera | @Aquiles-ai  | FredyRiveraai | El Salvador, San Vicente | 908 |

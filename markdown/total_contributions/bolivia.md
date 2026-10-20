@@ -1,6 +1,6 @@
 # Total Contributions - Bolivia
 
-Generated: 2026-10-20T13:34:38.629Z
+Generated: 2026-10-20T15:06:59.861Z
 
 Users: 1783
 
@@ -12,11 +12,11 @@ Users: 1783
 | 4 | [abelrgr](https://github.com/abelrgr) | Abel |  |  | Bolivia | 8486 |
 | 5 | [DaleneyRuben](https://github.com/DaleneyRuben) | Fernando Daleney | TurboTenant |  | La Paz, Bolivia | 7674 |
 | 6 | [arkgast](https://github.com/arkgast) | Arnold Gandarillas Castillo |  |  | Bolivia | 7025 |
-| 7 | [jpfernandezl](https://github.com/jpfernandezl) | Juan Pablo Fernandez |  |  | Bolivia | 6174 |
-| 8 | [stanlee321](https://github.com/stanlee321) | Stanley Salvatierra | deepmicrosystems.com | iamatachyon | Bolivia | 5978 |
-| 9 | [alxmcr](https://github.com/alxmcr) | Alejandro M. Coca |  |  | Bolivia | 5919 |
+| 7 | [stanlee321](https://github.com/stanlee321) | Stanley Salvatierra | deepmicrosystems.com | iamatachyon | Bolivia | 6197 |
+| 8 | [jpfernandezl](https://github.com/jpfernandezl) | Juan Pablo Fernandez |  |  | Bolivia | 6174 |
+| 9 | [alxmcr](https://github.com/alxmcr) | Alejandro M. Coca |  |  | Bolivia | 6053 |
 | 10 | [nicolenumbergg](https://github.com/nicolenumbergg) | Nicole Numberg |  |  | Santa Cruz, Bolivia | 5842 |
-| 11 | [OscarGauss](https://github.com/OscarGauss) | Oscar Gauss Carvajal Yucra |  | oscar_gauss | La Paz, Bolivia | 5452 |
+| 11 | [OscarGauss](https://github.com/OscarGauss) | Oscar Gauss Carvajal Yucra |  | oscar_gauss | La Paz, Bolivia | 5337 |
 | 12 | [gitchaell](https://github.com/gitchaell) | Michaell Alavedra | @instrategy | michaellalaved | Santa Cruz de la Sierra, Bolivia | 5017 |
 | 13 | [nahimdhaney](https://github.com/nahimdhaney) | Nahim Terrazas Parada | @openzeppelin | nahimdhaney | Bolivia | 4941 |
 | 14 | [cesarszv](https://github.com/cesarszv) | Sebastian Zambrana |  |  | Santa Cruz, Bolivia | 4884 |

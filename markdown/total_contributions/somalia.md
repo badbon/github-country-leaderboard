@@ -1,6 +1,6 @@
 # Total Contributions - Somalia
 
-Generated: 2026-10-20T13:09:16.901Z
+Generated: 2026-10-20T14:45:24.518Z
 
 Users: 865
 
@@ -13,8 +13,8 @@ Users: 865
 | 5 | [khalidhussein957](https://github.com/khalidhussein957) | khalid Hussein | Impetik Ltd |  | Mogadishu Somalia | 6848 |
 | 6 | [hayle01](https://github.com/hayle01) |  Mohamed Abdirahim |  |  | Mogadishu, Somalia | 6605 |
 | 7 | [yousumohamed](https://github.com/yousumohamed) | Yousuf Mohamed | @Sahan-Labs  |  | somalia | 6099 |
-| 8 | [mhbaando](https://github.com/mhbaando) | kamaal Abshir | NextOne | mhbaando | Mogadishu Somalia | 4936 |
-| 9 | [xamiir](https://github.com/xamiir) | Abdullahi Abdi Ahmed | Bixi |  | Somalia  | 4767 |
+| 8 | [mhbaando](https://github.com/mhbaando) | kamaal Abshir | NextOne | mhbaando | Mogadishu Somalia | 5308 |
+| 9 | [xamiir](https://github.com/xamiir) | Abdullahi Abdi Ahmed | Bixi |  | Somalia  | 4707 |
 | 10 | [Mustafaa4A](https://github.com/Mustafaa4A) | Mustaf Abubakar Abdullahi | @kaabeup, @waagefaal | Mustafaa4A | Mogadishu, Somalia | 4247 |
 | 11 | [3bdirahman](https://github.com/3bdirahman) | Abdirahman jimale | premierBank |  | Mogadishu, Somalia | 4031 |
 | 12 | [hanad124](https://github.com/hanad124) | Hanad Mohamed Dahir | @bulsho-development-bank |  | Mogadishu \| Somalia | 3922 |

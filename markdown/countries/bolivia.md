@@ -18,11 +18,11 @@ Indexed users: 1,783
 | 4 | [abelrgr](https://github.com/abelrgr) | Abel | Bolivia | 8,486 |
 | 5 | [DaleneyRuben](https://github.com/DaleneyRuben) | Fernando Daleney | La Paz, Bolivia | 7,674 |
 | 6 | [arkgast](https://github.com/arkgast) | Arnold Gandarillas Castillo | Bolivia | 7,025 |
-| 7 | [jpfernandezl](https://github.com/jpfernandezl) | Juan Pablo Fernandez | Bolivia | 6,174 |
-| 8 | [stanlee321](https://github.com/stanlee321) | Stanley Salvatierra | Bolivia | 5,978 |
-| 9 | [alxmcr](https://github.com/alxmcr) | Alejandro M. Coca | Bolivia | 5,919 |
+| 7 | [stanlee321](https://github.com/stanlee321) | Stanley Salvatierra | Bolivia | 6,197 |
+| 8 | [jpfernandezl](https://github.com/jpfernandezl) | Juan Pablo Fernandez | Bolivia | 6,174 |
+| 9 | [alxmcr](https://github.com/alxmcr) | Alejandro M. Coca | Bolivia | 6,053 |
 | 10 | [nicolenumbergg](https://github.com/nicolenumbergg) | Nicole Numberg | Santa Cruz, Bolivia | 5,842 |
-| 11 | [OscarGauss](https://github.com/OscarGauss) | Oscar Gauss Carvajal Yucra | La Paz, Bolivia | 5,452 |
+| 11 | [OscarGauss](https://github.com/OscarGauss) | Oscar Gauss Carvajal Yucra | La Paz, Bolivia | 5,337 |
 | 12 | [gitchaell](https://github.com/gitchaell) | Michaell Alavedra | Santa Cruz de la Sierra, Bolivia | 5,017 |
 | 13 | [nahimdhaney](https://github.com/nahimdhaney) | Nahim Terrazas Parada | Bolivia | 4,941 |
 | 14 | [cesarszv](https://github.com/cesarszv) | Sebastian Zambrana | Santa Cruz, Bolivia | 4,884 |
@@ -40,7 +40,7 @@ Indexed users: 1,783
 | 1 | [AndyIbanez](https://github.com/AndyIbanez) | Andy Ibanez | Bolivia | 25,237 |
 | 2 | [DaleneyRuben](https://github.com/DaleneyRuben) | Fernando Daleney | La Paz, Bolivia | 3,428 |
 | 3 | [DanielTorres1](https://github.com/DanielTorres1) | Daniel Torres Sandi | Bolivia | 3,039 |
-| 4 | [OscarGauss](https://github.com/OscarGauss) | Oscar Gauss Carvajal Yucra | La Paz, Bolivia | 2,907 |
+| 4 | [OscarGauss](https://github.com/OscarGauss) | Oscar Gauss Carvajal Yucra | La Paz, Bolivia | 2,833 |
 | 5 | [LudCano](https://github.com/LudCano) | Ludving Cano Fernandez | La Paz, Bolivia | 2,572 |
 | 6 | [ldgd2](https://github.com/ldgd2) | Lider | Bolivia | 2,274 |
 | 7 | [SergioRibera](https://github.com/SergioRibera) | Sergio Alejandro Ribera Costa | Santa Cruz de la Sierra, Bolivia | 2,252 |
@@ -56,7 +56,7 @@ Indexed users: 1,783
 | 17 | [Lotiel-Dev](https://github.com/Lotiel-Dev) | Carlos Antonio Gutierrez Copara | Bolivia | 1,193 |
 | 18 | [igidio](https://github.com/igidio) | Salvador Cáceres C. | Bolivia | 1,147 |
 | 19 | [samuelloza](https://github.com/samuelloza) | Samuel Loza Ramirez | Bolivia | 1,097 |
-| 20 | [nicobytes](https://github.com/nicobytes) | Nicolas Molina Monroy | Cochabamba, Bolivia | 1,085 |
+| 20 | [nicobytes](https://github.com/nicobytes) | Nicolas Molina Monroy | Cochabamba, Bolivia | 1,096 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,783
 | 19 | [alvarosiles11](https://github.com/alvarosiles11) | Alvaro Siles Estrada | Bolivia | 121 |
 | 20 | [mauforonda](https://github.com/mauforonda) | Mau Foronda | Bolivia | 120 |
 
-Generated: 2026-10-20T13:34:38.629Z
+Generated: 2026-10-20T15:06:59.861Z

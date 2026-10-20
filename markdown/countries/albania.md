@@ -55,8 +55,8 @@ Indexed users: 1,183
 | 16 | [IsliBasha](https://github.com/IsliBasha) | IsliBasha | Tirane, Albania | 643 |
 | 17 | [Damjanose](https://github.com/Damjanose) | Damjano | Albania, Tirana | 639 |
 | 18 | [genciiv](https://github.com/genciiv) | G-code | Albania | 633 |
-| 19 | [kostandinang](https://github.com/kostandinang) | Kostandin Angjellari | Tirana, Albania | 611 |
-| 20 | [kristiker](https://github.com/kristiker) | Kristi K | Albania | 611 |
+| 19 | [kristiker](https://github.com/kristiker) | Kristi K | Albania | 613 |
+| 20 | [kostandinang](https://github.com/kostandinang) | Kostandin Angjellari | Tirana, Albania | 611 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,183
 | 19 | [SxtBox](https://github.com/SxtBox) | Albdroid.AL | Albania | 81 |
 | 20 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | Albania | 77 |
 
-Generated: 2026-10-20T13:27:03.299Z
+Generated: 2026-10-20T14:59:26.282Z

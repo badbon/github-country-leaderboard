@@ -19,7 +19,7 @@ Indexed users: 77
 | 5 | [abindacarmo](https://github.com/abindacarmo) | Brigida de Carvalho Carmo | Timor-Leste | 840 |
 | 6 | [zemalay](https://github.com/zemalay) | Geovannio Frederico de Jesus Vinhas | Dili, Timor-Leste | 602 |
 | 7 | [ajitonelsonn](https://github.com/ajitonelsonn) | Ajito Nelson | Timor Leste | 519 |
-| 8 | [JabesNelma](https://github.com/JabesNelma) | Jay | Dili, Timor-Leste | 348 |
+| 8 | [JabesNelma](https://github.com/JabesNelma) | Jay | Dili, Timor-Leste | 353 |
 | 9 | [raul-amaral](https://github.com/raul-amaral) | Raul Amaral | Timor-Leste | 339 |
 | 10 | [amandio-eto](https://github.com/amandio-eto) | Jose Amandio de Almeida | Rua china Rate Lahane Oreintal Dili Timor Leste | 213 |
 | 11 | [TiagovskiCode](https://github.com/TiagovskiCode) | Tiago Teixeira  | East-Timor | 189 |
@@ -27,10 +27,10 @@ Indexed users: 77
 | 13 | [gabriel-de-jesus](https://github.com/gabriel-de-jesus) | Gabriel de Jesus | Dili, Timor-Leste | 120 |
 | 14 | [Floren-pinto](https://github.com/Floren-pinto) | Florentino Pinto | Timor-Leste | 110 |
 | 15 | [KituDoutel](https://github.com/KituDoutel) | Francisco KiTu | Dili, Timor-Leste 🇹🇱 | 65 |
-| 16 | [timorleste](https://github.com/timorleste) | Degree Background: Information Management (Associate Degree), Information Systems (B.Comp.Sc), Information Technology (M.Eng). Certified Experience in Spatial intelligence, Interested in Photography, Audiovisual Archive and IT-Systems Architect | Dili, Timor-Leste | 41 |
-| 17 | [bmzashura](https://github.com/bmzashura) | Bemis Huntala | Dili, Timor Leste | 36 |
-| 18 | [axlescurial-lang](https://github.com/axlescurial-lang) | EVENSANTA | Timor-leste | 34 |
-| 19 | [XICANO88](https://github.com/XICANO88) | XICANO | Manatuto, Timor-Leste | 32 |
+| 16 | [XICANO88](https://github.com/XICANO88) | XICANO | Manatuto, Timor-Leste | 58 |
+| 17 | [timorleste](https://github.com/timorleste) | Degree Background: Information Management (Associate Degree), Information Systems (B.Comp.Sc), Information Technology (M.Eng). Certified Experience in Spatial intelligence, Interested in Photography, Audiovisual Archive and IT-Systems Architect | Dili, Timor-Leste | 41 |
+| 18 | [bmzashura](https://github.com/bmzashura) | Bemis Huntala | Dili, Timor Leste | 36 |
+| 19 | [axlescurial-lang](https://github.com/axlescurial-lang) | EVENSANTA | Timor-leste | 34 |
 | 20 | [pedrix-48](https://github.com/pedrix-48) | Jessua Rodrigues | Dili | 26 |
 
 ## Public Contributions
@@ -50,10 +50,10 @@ Indexed users: 77
 | 11 | [gabriel-de-jesus](https://github.com/gabriel-de-jesus) | Gabriel de Jesus | Dili, Timor-Leste | 120 |
 | 12 | [Floren-pinto](https://github.com/Floren-pinto) | Florentino Pinto | Timor-Leste | 110 |
 | 13 | [KituDoutel](https://github.com/KituDoutel) | Francisco KiTu | Dili, Timor-Leste 🇹🇱 | 65 |
-| 14 | [timorleste](https://github.com/timorleste) | Degree Background: Information Management (Associate Degree), Information Systems (B.Comp.Sc), Information Technology (M.Eng). Certified Experience in Spatial intelligence, Interested in Photography, Audiovisual Archive and IT-Systems Architect | Dili, Timor-Leste | 41 |
-| 15 | [bmzashura](https://github.com/bmzashura) | Bemis Huntala | Dili, Timor Leste | 36 |
-| 16 | [axlescurial-lang](https://github.com/axlescurial-lang) | EVENSANTA | Timor-leste | 34 |
-| 17 | [XICANO88](https://github.com/XICANO88) | XICANO | Manatuto, Timor-Leste | 32 |
+| 14 | [XICANO88](https://github.com/XICANO88) | XICANO | Manatuto, Timor-Leste | 58 |
+| 15 | [timorleste](https://github.com/timorleste) | Degree Background: Information Management (Associate Degree), Information Systems (B.Comp.Sc), Information Technology (M.Eng). Certified Experience in Spatial intelligence, Interested in Photography, Audiovisual Archive and IT-Systems Architect | Dili, Timor-Leste | 41 |
+| 16 | [bmzashura](https://github.com/bmzashura) | Bemis Huntala | Dili, Timor Leste | 36 |
+| 17 | [axlescurial-lang](https://github.com/axlescurial-lang) | EVENSANTA | Timor-leste | 34 |
 | 18 | [pedrix-48](https://github.com/pedrix-48) | Jessua Rodrigues | Dili | 26 |
 | 19 | [revolta12](https://github.com/revolta12) | NizioDevT | Dili, Timor-Leste | 18 |
 | 20 | [zeviana-zedi](https://github.com/zeviana-zedi) | José Arlindo Rangel Mesquita (Zé) Viana | Dili, Timor-Lestre | 14 |
@@ -83,4 +83,4 @@ Indexed users: 77
 | 19 | [joshbrooks](https://github.com/joshbrooks) | Joshua Brooks | Dili, Timor-Leste | 6 |
 | 20 | [KituDoutel](https://github.com/KituDoutel) | Francisco KiTu | Dili, Timor-Leste 🇹🇱 | 6 |
 
-Generated: 2026-10-20T13:16:27.669Z
+Generated: 2026-10-20T14:49:48.311Z

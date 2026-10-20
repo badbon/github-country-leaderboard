@@ -1,6 +1,6 @@
 # Total Contributions - Burundi
 
-Generated: 2026-10-20T13:38:49.846Z
+Generated: 2026-10-20T15:10:52.198Z
 
 Users: 235
 
@@ -14,8 +14,8 @@ Users: 235
 | 6 | [yvartpro](https://github.com/yvartpro) | Nshemezimana Yves | @vovota |  | Bujumbura,Burundi | 1659 |
 | 7 | [gatarelib](https://github.com/gatarelib) | Gatare Libère | ACLIS | gatarelib | Burundi | 1552 |
 | 8 | [kalculata](https://github.com/kalculata) | Huzaifa Nimushimirimana | @kubwacu-entreprise  | kalculata | Bujumbura, Burundi | 1519 |
-| 9 | [Blaise28](https://github.com/Blaise28) | MANIRAKIZA Blaise | Magis BI |  | Burundi/Bujumbura | 1507 |
-| 10 | [Advaxe](https://github.com/Advaxe) | Advaxe Ndayisenga | Free Tech Institute | AdvaxeIr | Gitega-Burundi | 1335 |
+| 9 | [Blaise28](https://github.com/Blaise28) | MANIRAKIZA Blaise | Magis BI |  | Burundi/Bujumbura | 1505 |
+| 10 | [Advaxe](https://github.com/Advaxe) | Advaxe Ndayisenga | Free Tech Institute | AdvaxeIr | Gitega-Burundi | 1441 |
 | 11 | [tertcoder](https://github.com/tertcoder) | Bon Tertius Tuyishimire  | Mediabox | bon_tertius | Bujumbura, Burundi | 1326 |
 | 12 | [allyelvis](https://github.com/allyelvis) | Ally Elvis Nzeyimana | @AENZBi  | AllyElvis1 | Burundi | 1226 |
 | 13 | [XPTOOLS](https://github.com/XPTOOLS) | XP TOOLS | FREENETHUB™ |  | Burundi | 1112 |
