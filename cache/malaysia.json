@@ -38791,8 +38791,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 66,
-    "publicContributions": 123,
+    "privateContributions": 55,
+    "publicContributions": 32,
     "createdAt": "2021-04-26T06:04:36Z"
   },
   {
@@ -38814,8 +38814,8 @@
     "location": "Malaysia",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 17,
+    "followers": 5,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-02-26T04:09:14Z"
   },
@@ -38845,14 +38845,14 @@
   },
   {
     "login": "seth-woo",
-    "name": "Seth W.H. Woo ",
+    "name": "Seth W.H. Woo",
     "avatarUrl": "https://avatars.githubusercontent.com/u/83159228?s=72&u=83eab42bfe22687d91654825c2245b13b4f105d0&v=4",
     "location": "Malaysia",
-    "company": "",
+    "company": "Swinburne University of Technology",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 910,
-    "publicContributions": 647,
+    "followers": 2,
+    "privateContributions": 751,
+    "publicContributions": 752,
     "createdAt": "2021-04-25T08:12:24Z"
   },
   {
@@ -38863,8 +38863,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 16,
-    "publicContributions": 18,
+    "privateContributions": 38,
+    "publicContributions": 21,
     "createdAt": "2021-06-16T03:11:05Z"
   },
   {
@@ -38876,7 +38876,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 16,
     "createdAt": "2021-02-06T02:47:55Z"
   },
   {
@@ -38887,8 +38887,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 55,
+    "privateContributions": 141,
+    "publicContributions": 97,
     "createdAt": "2021-05-06T10:40:50Z"
   },
   {
@@ -38899,21 +38899,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 4,
-    "publicContributions": 12,
+    "privateContributions": 1,
+    "publicContributions": 1,
     "createdAt": "2021-02-16T18:16:19Z"
-  },
-  {
-    "login": "zilelai",
-    "name": "Zile Lai",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/85780409?s=72&u=cbc74ef52fa255ac39914b8ab5f5e256fdc35e62&v=4",
-    "location": "Malaysia",
-    "company": "-",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 125,
-    "createdAt": "2021-06-12T06:31:54Z"
   },
   {
     "login": "Khytron",
@@ -38922,7 +38910,7 @@
     "location": "UM, Kuala Lumpur, Malaysia",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 29,
     "publicContributions": 255,
     "createdAt": "2021-06-10T14:57:39Z"
@@ -38934,7 +38922,7 @@
     "location": "Malaysia",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-06-13T18:44:34Z"
@@ -38946,9 +38934,9 @@
     "location": "Penang, Malaysia",
     "company": "Universiti Sains Malaysia",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 10,
     "createdAt": "2021-01-27T05:33:22Z"
   },
   {
@@ -38970,9 +38958,9 @@
     "location": "Malaysia",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 394,
+    "publicContributions": 461,
     "createdAt": "2021-05-04T12:02:04Z"
   },
   {
@@ -38984,7 +38972,7 @@
     "twitterUsername": "Viishnu07",
     "followers": 3,
     "privateContributions": 10,
-    "publicContributions": 167,
+    "publicContributions": 130,
     "createdAt": "2021-04-08T13:56:51Z"
   },
   {

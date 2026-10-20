@@ -38660,7 +38660,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 5,
-    "publicContributions": 232,
+    "publicContributions": 179,
     "createdAt": "2019-11-23T09:05:37Z"
   },
   {
@@ -38671,7 +38671,7 @@
     "company": "bcc",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 0,
+    "privateContributions": 1,
     "publicContributions": 0,
     "createdAt": "2019-01-08T14:46:13Z"
   },
@@ -38682,8 +38682,8 @@
     "location": "Kazakhstan, Almaty",
     "company": "",
     "twitterUsername": "mredwardlik",
-    "followers": 9,
-    "privateContributions": 83,
+    "followers": 10,
+    "privateContributions": 14,
     "publicContributions": 1,
     "createdAt": "2019-04-02T18:05:30Z"
   },
@@ -38718,7 +38718,7 @@
     "location": "Astana/Kazakhstan",
     "company": "Kazakh-British Technical University",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 10,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-09-08T15:28:49Z"
@@ -38731,8 +38731,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 315,
-    "publicContributions": 174,
+    "privateContributions": 272,
+    "publicContributions": 172,
     "createdAt": "2019-11-14T14:54:17Z"
   },
   {
@@ -38755,21 +38755,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 22,
+    "privateContributions": 44,
     "publicContributions": 0,
     "createdAt": "2019-08-23T11:10:22Z"
-  },
-  {
-    "login": "timmythecreator",
-    "name": "Timur Androsov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/59202269?s=72&u=61ceccb4b3e24024e3cdd3235d3b0f6c08b3a67a&v=4",
-    "location": "Kazakhstan",
-    "company": "EyeQ.Photos",
-    "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 1,
-    "publicContributions": 26,
-    "createdAt": "2019-12-24T13:17:24Z"
   },
   {
     "login": "Goofeat",
@@ -38779,7 +38767,7 @@
     "company": "Qalan.kz",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 11,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-09-30T03:25:08Z"
   },
@@ -38814,9 +38802,9 @@
     "location": "Kazakhstan",
     "company": "drawbridge.kz",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 310,
-    "publicContributions": 633,
+    "followers": 7,
+    "privateContributions": 413,
+    "publicContributions": 549,
     "createdAt": "2019-12-09T18:15:33Z"
   },
   {
@@ -38827,8 +38815,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 300,
-    "publicContributions": 30,
+    "privateContributions": 384,
+    "publicContributions": 26,
     "createdAt": "2019-09-01T10:33:54Z"
   },
   {
@@ -38848,11 +38836,11 @@
     "name": "bolthold",
     "avatarUrl": "https://avatars.githubusercontent.com/u/49822014?s=72&u=6d19030804903e5b2998af1a9ca7e1f652418a33&v=4",
     "location": "Kazakhstan",
-    "company": "PRIMITIVE AI",
+    "company": "PLC Web",
     "twitterUsername": "bolthold",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 230,
+    "publicContributions": 2075,
     "createdAt": "2019-04-20T21:17:59Z"
   },
   {
@@ -38862,9 +38850,9 @@
     "location": "Astana, Kazakhstan",
     "company": "KazInSys LLP",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 90,
+    "publicContributions": 85,
     "createdAt": "2019-06-04T10:31:06Z"
   },
   {
@@ -38874,9 +38862,9 @@
     "location": "Astana, Kazakhstan",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 139,
-    "publicContributions": 48,
+    "followers": 9,
+    "privateContributions": 173,
+    "publicContributions": 75,
     "createdAt": "2019-07-24T14:45:04Z"
   },
   {
