@@ -49,7 +49,7 @@ Published countries: 234
 | Chile | 19,378 | [View](./chile.md) |
 | Christmas Island | 20 | [View](./christmas_island.md) |
 | Cocos (Keeling) Islands | 9 | [View](./cocos_keeling_islands.md) |
-| Colombia | 29,152 | [View](./colombia.md) |
+| Colombia | 29,153 | [View](./colombia.md) |
 | Comoros | 11 | [View](./comoros.md) |
 | Cook Islands | 7 | [View](./cook_islands.md) |
 | Costa Rica | 5,625 | [View](./costa_rica.md) |
@@ -70,7 +70,7 @@ Published countries: 234
 | Eritrea | 17 | [View](./eritrea.md) |
 | Estonia | 4,895 | [View](./estonia.md) |
 | Eswatini | 108 | [View](./eswatini.md) |
-| Ethiopia | 6,674 | [View](./ethiopia.md) |
+| Ethiopia | 6,673 | [View](./ethiopia.md) |
 | Falkland Islands | 13 | [View](./falkland_islands.md) |
 | Faroe Islands | 68 | [View](./faroe_islands.md) |
 | Fiji | 325 | [View](./fiji.md) |
@@ -96,13 +96,13 @@ Published countries: 234
 | Haiti | 339 | [View](./haiti.md) |
 | Heard Island and McDonald Islands | 3 | [View](./heard_island_and_mcdonald_islands.md) |
 | Honduras | 1,258 | [View](./honduras.md) |
-| Hong Kong | 10,260 | [View](./hong_kong.md) |
-| Hungary | 11,164 | [View](./hungary.md) |
+| Hong Kong | 10,259 | [View](./hong_kong.md) |
+| Hungary | 11,162 | [View](./hungary.md) |
 | Iceland | 1,579 | [View](./iceland.md) |
 | Indonesia | 63,278 | [View](./indonesia.md) |
 | Iran | 26,859 | [View](./iran.md) |
 | Iraq | 2,232 | [View](./iraq.md) |
-| Ireland | 19,485 | [View](./ireland.md) |
+| Ireland | 19,484 | [View](./ireland.md) |
 | Isle of Man | 155 | [View](./isle_of_man.md) |
 | Israel | 12,420 | [View](./israel.md) |
 | Ivory Coast | 488 | [View](./ivory_coast.md) |
@@ -239,4 +239,4 @@ Published countries: 234
 | Zambia | 1,337 | [View](./zambia.md) |
 | Zimbabwe | 1,656 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-20T22:18:16.267Z
+Generated: 2026-10-20T22:34:57.006Z

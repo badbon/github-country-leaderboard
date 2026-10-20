@@ -1,6 +1,6 @@
 # Followers - Gibraltar
 
-Generated: 2026-10-20T20:50:03.680Z
+Generated: 2026-10-20T22:23:53.484Z
 
 Users: 93
 
@@ -16,7 +16,7 @@ Users: 93
 | 8 | [carribus](https://github.com/carribus) | Peter Mares |  |  | Gibraltar | 28 |
 | 9 | [VladimirHumeniuk](https://github.com/VladimirHumeniuk) | vhmnk |  |  | Gibraltar | 28 |
 | 10 | [ileghlam](https://github.com/ileghlam) | Leghlam Ishak |  |  | Gibraltar | 26 |
-| 11 | [luciomafia](https://github.com/luciomafia) | ─ RUM / MAYHEM ! | 𓏲𝄢  OVERWATCH . . . |  | 𖠊  WATCHPOINT GIBRALTAR . . . | 25 |
+| 11 | [luciomafia](https://github.com/luciomafia) | ─ RUM / MAYHEM ! | 𓏲𝄢  OVERWATCH . . . |  | 𖠊  WATCHPOINT GIBRALTAR . . . | 26 |
 | 12 | [multicharts](https://github.com/multicharts) |  | MCT LTD. |  | Gibraltar | 24 |
 | 13 | [ElAndy94](https://github.com/ElAndy94) | Andrew | RockLogic |  | Gibraltar | 20 |
 | 14 | [nats12](https://github.com/nats12) | Natalie Mclaren | @Doist |  | Gibraltar | 17 |

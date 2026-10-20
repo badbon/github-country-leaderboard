@@ -1,6 +1,6 @@
 # Followers - Greenland
 
-Generated: 2026-10-20T20:51:14.071Z
+Generated: 2026-10-20T22:25:11.807Z
 
 Users: 58
 

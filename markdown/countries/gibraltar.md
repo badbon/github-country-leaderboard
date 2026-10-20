@@ -25,7 +25,7 @@ Indexed users: 93
 | 11 | [ronanmathew](https://github.com/ronanmathew) | Ronan Spoor | Gibraltar | 637 |
 | 12 | [mortyflex](https://github.com/mortyflex) | Mohamed A | Gibraltar | 621 |
 | 13 | [SGarcia96](https://github.com/SGarcia96) | SGarcia | Spain/Gibraltar | 596 |
-| 14 | [ajedrezpremium](https://github.com/ajedrezpremium) | Ajedrez Premium | GIBRALTAR | 557 |
+| 14 | [ajedrezpremium](https://github.com/ajedrezpremium) | Ajedrez Premium | GIBRALTAR | 559 |
 | 15 | [Vinnetou](https://github.com/Vinnetou) | Lukas Kloucek | Gibraltar | 520 |
 | 16 | [PeterKottas](https://github.com/PeterKottas) | Peter Kottas | Gibraltar | 478 |
 | 17 | [cdharris](https://github.com/cdharris) | Chris Harris | Berlin / Europe / Gibraltar | 412 |
@@ -39,7 +39,7 @@ Indexed users: 93
 |---:|---|---|---|---:|
 | 1 | [miohtama](https://github.com/miohtama) | Mikko Ohtamaa | Gibraltar | 5,645 |
 | 2 | [Industrial](https://github.com/Industrial) | Tom Wieland | Gibraltar | 1,915 |
-| 3 | [ajedrezpremium](https://github.com/ajedrezpremium) | Ajedrez Premium | GIBRALTAR | 557 |
+| 3 | [ajedrezpremium](https://github.com/ajedrezpremium) | Ajedrez Premium | GIBRALTAR | 559 |
 | 4 | [ArtemSoldatkin](https://github.com/ArtemSoldatkin) | Artem Soldatkin | Gibraltar | 550 |
 | 5 | [dlicudi](https://github.com/dlicudi) | Duane Licudi | Gibraltar | 467 |
 | 6 | [crpol](https://github.com/crpol) | Cesar Rosa Polanco | Gibraltar | 257 |
@@ -72,7 +72,7 @@ Indexed users: 93
 | 8 | [carribus](https://github.com/carribus) | Peter Mares | Gibraltar | 28 |
 | 9 | [VladimirHumeniuk](https://github.com/VladimirHumeniuk) | vhmnk | Gibraltar | 28 |
 | 10 | [ileghlam](https://github.com/ileghlam) | Leghlam Ishak | Gibraltar | 26 |
-| 11 | [luciomafia](https://github.com/luciomafia) | ─ RUM / MAYHEM ! | 𖠊  WATCHPOINT GIBRALTAR . . . | 25 |
+| 11 | [luciomafia](https://github.com/luciomafia) | ─ RUM / MAYHEM ! | 𖠊  WATCHPOINT GIBRALTAR . . . | 26 |
 | 12 | [multicharts](https://github.com/multicharts) |  | Gibraltar | 24 |
 | 13 | [ElAndy94](https://github.com/ElAndy94) | Andrew | Gibraltar | 20 |
 | 14 | [nats12](https://github.com/nats12) | Natalie Mclaren | Gibraltar | 17 |
@@ -83,4 +83,4 @@ Indexed users: 93
 | 19 | [vfiodor](https://github.com/vfiodor) | Fiodor Veresciaka | Gibraltar | 13 |
 | 20 | [VPSServerCom](https://github.com/VPSServerCom) | VPS Server | Gibraltar | 13 |
 
-Generated: 2026-10-20T20:50:03.680Z
+Generated: 2026-10-20T22:23:53.484Z

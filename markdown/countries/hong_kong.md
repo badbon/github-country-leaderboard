@@ -1,6 +1,6 @@
 # Hong Kong
 
-Indexed users: 10,260
+Indexed users: 10,259
 
 | Leaderboard | Link |
 |---|---|
@@ -74,13 +74,13 @@ Indexed users: 10,260
 | 10 | [TianxingChen](https://github.com/TianxingChen) | Tianxing Chen (陈天行) | Hong Kong | 1,757 |
 | 11 | [johnsoncodehk](https://github.com/johnsoncodehk) | Johnson Chu | Hong Kong | 1,718 |
 | 12 | [heqin-zhu](https://github.com/heqin-zhu) | Heqin Zhu | Hong Kong, China | 1,463 |
-| 13 | [pseudoyu](https://github.com/pseudoyu) | pseudoyu | Hong Kong | 1,303 |
-| 14 | [lindahua](https://github.com/lindahua) | Dahua Lin | Hong Kong | 1,282 |
-| 15 | [ArgoZhang](https://github.com/ArgoZhang) | Argo Zhang | Hong Kong | 1,061 |
-| 16 | [jamztang](https://github.com/jamztang) | James Tang | Hong Kong | 1,059 |
-| 17 | [zinping](https://github.com/zinping) | Top plus talented developer | Hong Kong | 1,024 |
-| 18 | [pik1989](https://github.com/pik1989) | Satyajit Pattnaik | Hong Kong | 1,018 |
-| 19 | [syhyz1990](https://github.com/syhyz1990) | iPc | Hong Kong | 975 |
-| 20 | [robbin](https://github.com/robbin) | Fan Kai | Hong Kong | 959 |
+| 13 | [lindahua](https://github.com/lindahua) | Dahua Lin | Hong Kong | 1,282 |
+| 14 | [ArgoZhang](https://github.com/ArgoZhang) | Argo Zhang | Hong Kong | 1,061 |
+| 15 | [jamztang](https://github.com/jamztang) | James Tang | Hong Kong | 1,059 |
+| 16 | [zinping](https://github.com/zinping) | Top plus talented developer | Hong Kong | 1,024 |
+| 17 | [pik1989](https://github.com/pik1989) | Satyajit Pattnaik | Hong Kong | 1,018 |
+| 18 | [syhyz1990](https://github.com/syhyz1990) | iPc | Hong Kong | 975 |
+| 19 | [robbin](https://github.com/robbin) | Fan Kai | Hong Kong | 959 |
+| 20 | [hszhao](https://github.com/hszhao) | Hengshuang Zhao | Hong Kong | 925 |
 
-Generated: 2026-10-20T20:55:24.922Z
+Generated: 2026-10-20T22:28:30.160Z

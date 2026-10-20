@@ -1,8 +1,8 @@
 # Followers - Hong Kong
 
-Generated: 2026-10-20T20:55:24.922Z
+Generated: 2026-10-20T22:28:30.160Z
 
-Users: 10260
+Users: 10259
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -18,11 +18,11 @@ Users: 10260
 | 10 | [TianxingChen](https://github.com/TianxingChen) | Tianxing Chen (陈天行) | The University of Hong Kong | MarioChan2002 | Hong Kong | 1757 |
 | 11 | [johnsoncodehk](https://github.com/johnsoncodehk) | Johnson Chu |  | johnsoncodehk | Hong Kong | 1718 |
 | 12 | [heqin-zhu](https://github.com/heqin-zhu) | Heqin Zhu |  |  | Hong Kong, China | 1463 |
-| 13 | [pseudoyu](https://github.com/pseudoyu) | pseudoyu | @web3insight-ai | pseudo_yu | Hong Kong | 1303 |
-| 14 | [lindahua](https://github.com/lindahua) | Dahua Lin | The Chinese University of Hong Kong |  | Hong Kong | 1282 |
-| 15 | [ArgoZhang](https://github.com/ArgoZhang) | Argo Zhang | .NET Foundation |  | Hong Kong | 1061 |
-| 16 | [jamztang](https://github.com/jamztang) | James Tang |  |  | Hong Kong | 1059 |
-| 17 | [zinping](https://github.com/zinping) | Top plus talented developer |  |  | Hong Kong | 1024 |
-| 18 | [pik1989](https://github.com/pik1989) | Satyajit Pattnaik | Xccelerate |  | Hong Kong | 1018 |
-| 19 | [syhyz1990](https://github.com/syhyz1990) | iPc | 公众号 - 油小猴 |  | Hong Kong | 975 |
-| 20 | [robbin](https://github.com/robbin) | Fan Kai |  | fankaishuoai | Hong Kong | 959 |
+| 13 | [lindahua](https://github.com/lindahua) | Dahua Lin | The Chinese University of Hong Kong |  | Hong Kong | 1282 |
+| 14 | [ArgoZhang](https://github.com/ArgoZhang) | Argo Zhang | .NET Foundation |  | Hong Kong | 1061 |
+| 15 | [jamztang](https://github.com/jamztang) | James Tang |  |  | Hong Kong | 1059 |
+| 16 | [zinping](https://github.com/zinping) | Top plus talented developer |  |  | Hong Kong | 1024 |
+| 17 | [pik1989](https://github.com/pik1989) | Satyajit Pattnaik | Xccelerate |  | Hong Kong | 1018 |
+| 18 | [syhyz1990](https://github.com/syhyz1990) | iPc | 公众号 - 油小猴 |  | Hong Kong | 975 |
+| 19 | [robbin](https://github.com/robbin) | Fan Kai |  | fankaishuoai | Hong Kong | 959 |
+| 20 | [hszhao](https://github.com/hszhao) | Hengshuang Zhao | The University of Hong Kong |  | Hong Kong | 925 |

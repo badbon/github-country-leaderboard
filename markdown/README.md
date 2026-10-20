@@ -49,7 +49,7 @@ Published countries: 234
 | [Chile](countries/chile.md) | 19,378 | [Public](public_contributions/chile.md) | [Total](total_contributions/chile.md) | [Followers](followers/chile.md) |
 | [Christmas Island](countries/christmas_island.md) | 20 | [Public](public_contributions/christmas_island.md) | [Total](total_contributions/christmas_island.md) | [Followers](followers/christmas_island.md) |
 | [Cocos (Keeling) Islands](countries/cocos_keeling_islands.md) | 9 | [Public](public_contributions/cocos_keeling_islands.md) | [Total](total_contributions/cocos_keeling_islands.md) | [Followers](followers/cocos_keeling_islands.md) |
-| [Colombia](countries/colombia.md) | 29,152 | [Public](public_contributions/colombia.md) | [Total](total_contributions/colombia.md) | [Followers](followers/colombia.md) |
+| [Colombia](countries/colombia.md) | 29,153 | [Public](public_contributions/colombia.md) | [Total](total_contributions/colombia.md) | [Followers](followers/colombia.md) |
 | [Comoros](countries/comoros.md) | 11 | [Public](public_contributions/comoros.md) | [Total](total_contributions/comoros.md) | [Followers](followers/comoros.md) |
 | [Cook Islands](countries/cook_islands.md) | 7 | [Public](public_contributions/cook_islands.md) | [Total](total_contributions/cook_islands.md) | [Followers](followers/cook_islands.md) |
 | [Costa Rica](countries/costa_rica.md) | 5,625 | [Public](public_contributions/costa_rica.md) | [Total](total_contributions/costa_rica.md) | [Followers](followers/costa_rica.md) |
@@ -70,7 +70,7 @@ Published countries: 234
 | [Eritrea](countries/eritrea.md) | 17 | [Public](public_contributions/eritrea.md) | [Total](total_contributions/eritrea.md) | [Followers](followers/eritrea.md) |
 | [Estonia](countries/estonia.md) | 4,895 | [Public](public_contributions/estonia.md) | [Total](total_contributions/estonia.md) | [Followers](followers/estonia.md) |
 | [Eswatini](countries/eswatini.md) | 108 | [Public](public_contributions/eswatini.md) | [Total](total_contributions/eswatini.md) | [Followers](followers/eswatini.md) |
-| [Ethiopia](countries/ethiopia.md) | 6,674 | [Public](public_contributions/ethiopia.md) | [Total](total_contributions/ethiopia.md) | [Followers](followers/ethiopia.md) |
+| [Ethiopia](countries/ethiopia.md) | 6,673 | [Public](public_contributions/ethiopia.md) | [Total](total_contributions/ethiopia.md) | [Followers](followers/ethiopia.md) |
 | [Falkland Islands](countries/falkland_islands.md) | 13 | [Public](public_contributions/falkland_islands.md) | [Total](total_contributions/falkland_islands.md) | [Followers](followers/falkland_islands.md) |
 | [Faroe Islands](countries/faroe_islands.md) | 68 | [Public](public_contributions/faroe_islands.md) | [Total](total_contributions/faroe_islands.md) | [Followers](followers/faroe_islands.md) |
 | [Fiji](countries/fiji.md) | 325 | [Public](public_contributions/fiji.md) | [Total](total_contributions/fiji.md) | [Followers](followers/fiji.md) |
@@ -96,13 +96,13 @@ Published countries: 234
 | [Haiti](countries/haiti.md) | 339 | [Public](public_contributions/haiti.md) | [Total](total_contributions/haiti.md) | [Followers](followers/haiti.md) |
 | [Heard Island and McDonald Islands](countries/heard_island_and_mcdonald_islands.md) | 3 | [Public](public_contributions/heard_island_and_mcdonald_islands.md) | [Total](total_contributions/heard_island_and_mcdonald_islands.md) | [Followers](followers/heard_island_and_mcdonald_islands.md) |
 | [Honduras](countries/honduras.md) | 1,258 | [Public](public_contributions/honduras.md) | [Total](total_contributions/honduras.md) | [Followers](followers/honduras.md) |
-| [Hong Kong](countries/hong_kong.md) | 10,260 | [Public](public_contributions/hong_kong.md) | [Total](total_contributions/hong_kong.md) | [Followers](followers/hong_kong.md) |
-| [Hungary](countries/hungary.md) | 11,164 | [Public](public_contributions/hungary.md) | [Total](total_contributions/hungary.md) | [Followers](followers/hungary.md) |
+| [Hong Kong](countries/hong_kong.md) | 10,259 | [Public](public_contributions/hong_kong.md) | [Total](total_contributions/hong_kong.md) | [Followers](followers/hong_kong.md) |
+| [Hungary](countries/hungary.md) | 11,162 | [Public](public_contributions/hungary.md) | [Total](total_contributions/hungary.md) | [Followers](followers/hungary.md) |
 | [Iceland](countries/iceland.md) | 1,579 | [Public](public_contributions/iceland.md) | [Total](total_contributions/iceland.md) | [Followers](followers/iceland.md) |
 | [Indonesia](countries/indonesia.md) | 63,278 | [Public](public_contributions/indonesia.md) | [Total](total_contributions/indonesia.md) | [Followers](followers/indonesia.md) |
 | [Iran](countries/iran.md) | 26,859 | [Public](public_contributions/iran.md) | [Total](total_contributions/iran.md) | [Followers](followers/iran.md) |
 | [Iraq](countries/iraq.md) | 2,232 | [Public](public_contributions/iraq.md) | [Total](total_contributions/iraq.md) | [Followers](followers/iraq.md) |
-| [Ireland](countries/ireland.md) | 19,485 | [Public](public_contributions/ireland.md) | [Total](total_contributions/ireland.md) | [Followers](followers/ireland.md) |
+| [Ireland](countries/ireland.md) | 19,484 | [Public](public_contributions/ireland.md) | [Total](total_contributions/ireland.md) | [Followers](followers/ireland.md) |
 | [Isle of Man](countries/isle_of_man.md) | 155 | [Public](public_contributions/isle_of_man.md) | [Total](total_contributions/isle_of_man.md) | [Followers](followers/isle_of_man.md) |
 | [Israel](countries/israel.md) | 12,420 | [Public](public_contributions/israel.md) | [Total](total_contributions/israel.md) | [Followers](followers/israel.md) |
 | [Ivory Coast](countries/ivory_coast.md) | 488 | [Public](public_contributions/ivory_coast.md) | [Total](total_contributions/ivory_coast.md) | [Followers](followers/ivory_coast.md) |
@@ -239,4 +239,4 @@ Published countries: 234
 | [Zambia](countries/zambia.md) | 1,337 | [Public](public_contributions/zambia.md) | [Total](total_contributions/zambia.md) | [Followers](followers/zambia.md) |
 | [Zimbabwe](countries/zimbabwe.md) | 1,656 | [Public](public_contributions/zimbabwe.md) | [Total](total_contributions/zimbabwe.md) | [Followers](followers/zimbabwe.md) |
 
-Generated: 2026-10-20T22:18:16.267Z
+Generated: 2026-10-20T22:34:57.006Z
