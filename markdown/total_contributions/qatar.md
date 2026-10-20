@@ -1,6 +1,6 @@
 # Total Contributions - Qatar
 
-Generated: 2026-10-20T02:52:06.277Z
+Generated: 2026-10-20T06:07:20.549Z
 
 Users: 1072
 
@@ -16,12 +16,12 @@ Users: 1072
 | 8 | [yasircs4](https://github.com/yasircs4) | Yasir Najeeb |  | yasirnajeep | Doha, Qatar | 7139 |
 | 9 | [hussain4real](https://github.com/hussain4real) | Hussain Aminu | Gethouse | hussain4real | Doha, Qatar | 6917 |
 | 10 | [Snowy7](https://github.com/Snowy7) | Snowy |  |  | Qatar | 6801 |
-| 11 | [niyazpoyilan](https://github.com/niyazpoyilan) | Niyaz Poyilan |  |  | Qatar | 6659 |
-| 12 | [asifmkhan](https://github.com/asifmkhan) | M. Asif Khan | University of Doha for Science and Technology (UDST) |  | Doha, Qatar | 6441 |
-| 13 | [luca-bondi](https://github.com/luca-bondi) | Luca Bondi |  |  | Doha, Qatar | 5743 |
-| 14 | [samstickkz](https://github.com/samstickkz) | samuel joseph (samstickkz) | samstickkz |  | QATAR | 5741 |
-| 15 | [Bewinxed](https://github.com/Bewinxed) | Omar Al Matar | Hamad Medical Corporation | Bewinxed | Doha, Qatar | 5512 |
-| 16 | [Aboidrees](https://github.com/Aboidrees) | Muhammad Yousif | MOE | alshf3ee | Qatar, Doha | 5124 |
+| 11 | [Bewinxed](https://github.com/Bewinxed) | Omar Al Matar | Hamad Medical Corporation | Bewinxed | Doha, Qatar | 6773 |
+| 12 | [niyazpoyilan](https://github.com/niyazpoyilan) | Niyaz Poyilan |  |  | Qatar | 6659 |
+| 13 | [asifmkhan](https://github.com/asifmkhan) | M. Asif Khan | University of Doha for Science and Technology (UDST) |  | Doha, Qatar | 6441 |
+| 14 | [luca-bondi](https://github.com/luca-bondi) | Luca Bondi |  |  | Doha, Qatar | 5743 |
+| 15 | [samstickkz](https://github.com/samstickkz) | samuel joseph (samstickkz) | samstickkz |  | QATAR | 5741 |
+| 16 | [Aboidrees](https://github.com/Aboidrees) | Muhammad Yousif | MOE | alshf3ee | Qatar, Doha | 5148 |
 | 17 | [ilhamsyahids](https://github.com/ilhamsyahids) | Ilham Syahid S |  |  | Qatar | 5079 |
 | 18 | [mbrksntrk](https://github.com/mbrksntrk) | M Burak Şentürk | Boğaziçi Üniversitesi | mbrksntrk | Doha, Qatar | 4249 |
 | 19 | [Engineersticity](https://github.com/Engineersticity) | Erastus Kirui |  | Engineersticity | Doha, Qatar | 4229 |

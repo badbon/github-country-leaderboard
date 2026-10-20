@@ -1,6 +1,6 @@
 # Total Contributions - Puerto Rico
 
-Generated: 2026-10-20T02:52:00.060Z
+Generated: 2026-10-20T06:07:13.801Z
 
 Users: 1532
 
@@ -15,10 +15,10 @@ Users: 1532
 | 7 | [bpamiri](https://github.com/bpamiri) | Peter Amiri |  |  | San Juan Capistrano, CA | 17915 |
 | 8 | [devmoreno](https://github.com/devmoreno) | Edwin Moreno | @ProRanked  | devmoreno | Aguadilla, Puerto Rico | 9005 |
 | 9 | [jdreben](https://github.com/jdreben) | James Dreben |  |  | San Juan, Puerto Rico | 8227 |
-| 10 | [aegonzalez95](https://github.com/aegonzalez95) | Angel Gonzalez | @QuantumCare-LLC  |  | Puerto Rico | 7443 |
-| 11 | [bombillazo](https://github.com/bombillazo) | Hector Ayala |  | bombillazo | Puerto Rico | 7098 |
-| 12 | [chrisrodz](https://github.com/chrisrodz) | Christian A. Rodriguez | @Parcha-ai  | chrisrodz35 | San Juan, PR | 7027 |
-| 13 | [brettheap](https://github.com/brettheap) | Brett Heap | Opensoft, Inc |  | Puerto Rico | 6739 |
+| 10 | [brettheap](https://github.com/brettheap) | Brett Heap | Opensoft, Inc |  | Puerto Rico | 7801 |
+| 11 | [aegonzalez95](https://github.com/aegonzalez95) | Angel Gonzalez | @QuantumCare-LLC  |  | Puerto Rico | 7443 |
+| 12 | [bombillazo](https://github.com/bombillazo) | Hector Ayala |  | bombillazo | Puerto Rico | 7098 |
+| 13 | [chrisrodz](https://github.com/chrisrodz) | Christian A. Rodriguez | @Parcha-ai  | chrisrodz35 | San Juan, PR | 7027 |
 | 14 | [shawntabrizi](https://github.com/shawntabrizi) | Shawn Tabrizi | @paritytech  | shawntabrizi | Puerto Rico | 6624 |
 | 15 | [Wolfkid200444](https://github.com/Wolfkid200444) | Wolfie | @FutureDeveloperZ   | RealWolfkid | Puerto Rico | 6312 |
 | 16 | [grpecunia](https://github.com/grpecunia) | Gustavo Rivera Pecunia | @grpecunia | grpecunia | San Juan, PR | 6140 |

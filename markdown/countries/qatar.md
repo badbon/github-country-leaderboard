@@ -22,12 +22,12 @@ Indexed users: 1,072
 | 8 | [yasircs4](https://github.com/yasircs4) | Yasir Najeeb | Doha, Qatar | 7,139 |
 | 9 | [hussain4real](https://github.com/hussain4real) | Hussain Aminu | Doha, Qatar | 6,917 |
 | 10 | [Snowy7](https://github.com/Snowy7) | Snowy | Qatar | 6,801 |
-| 11 | [niyazpoyilan](https://github.com/niyazpoyilan) | Niyaz Poyilan | Qatar | 6,659 |
-| 12 | [asifmkhan](https://github.com/asifmkhan) | M. Asif Khan | Doha, Qatar | 6,441 |
-| 13 | [luca-bondi](https://github.com/luca-bondi) | Luca Bondi | Doha, Qatar | 5,743 |
-| 14 | [samstickkz](https://github.com/samstickkz) | samuel joseph (samstickkz) | QATAR | 5,741 |
-| 15 | [Bewinxed](https://github.com/Bewinxed) | Omar Al Matar | Doha, Qatar | 5,512 |
-| 16 | [Aboidrees](https://github.com/Aboidrees) | Muhammad Yousif | Qatar, Doha | 5,124 |
+| 11 | [Bewinxed](https://github.com/Bewinxed) | Omar Al Matar | Doha, Qatar | 6,773 |
+| 12 | [niyazpoyilan](https://github.com/niyazpoyilan) | Niyaz Poyilan | Qatar | 6,659 |
+| 13 | [asifmkhan](https://github.com/asifmkhan) | M. Asif Khan | Doha, Qatar | 6,441 |
+| 14 | [luca-bondi](https://github.com/luca-bondi) | Luca Bondi | Doha, Qatar | 5,743 |
+| 15 | [samstickkz](https://github.com/samstickkz) | samuel joseph (samstickkz) | QATAR | 5,741 |
+| 16 | [Aboidrees](https://github.com/Aboidrees) | Muhammad Yousif | Qatar, Doha | 5,148 |
 | 17 | [ilhamsyahids](https://github.com/ilhamsyahids) | Ilham Syahid S | Qatar | 5,079 |
 | 18 | [mbrksntrk](https://github.com/mbrksntrk) | M Burak Şentürk | Doha, Qatar | 4,249 |
 | 19 | [Engineersticity](https://github.com/Engineersticity) | Erastus Kirui | Doha, Qatar | 4,229 |
@@ -38,8 +38,8 @@ Indexed users: 1,072
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [nirzaf](https://github.com/nirzaf) | M.F.M Fazrin | Doha - Qatar | 5,189 |
-| 2 | [aurangzaib048](https://github.com/aurangzaib048) | Rana Aurangzaib | Doha, Qatar | 3,864 |
-| 3 | [Bewinxed](https://github.com/Bewinxed) | Omar Al Matar | Doha, Qatar | 3,685 |
+| 2 | [Bewinxed](https://github.com/Bewinxed) | Omar Al Matar | Doha, Qatar | 4,913 |
+| 3 | [aurangzaib048](https://github.com/aurangzaib048) | Rana Aurangzaib | Doha, Qatar | 3,864 |
 | 4 | [Ajmalpshaik](https://github.com/Ajmalpshaik) | AjmalPS | Doha, Qatar | 2,391 |
 | 5 | [Tamoura](https://github.com/Tamoura) | Tamer | Qatar | 1,769 |
 | 6 | [kashkoool](https://github.com/kashkoool) | louay kashkool | qatar | 1,758 |
@@ -49,7 +49,7 @@ Indexed users: 1,072
 | 10 | [atick-faisal](https://github.com/atick-faisal) | Atick Faisal | Doha, Qatar | 1,148 |
 | 11 | [itsarisid](https://github.com/itsarisid) | Sajid Khan | Qatar | 1,074 |
 | 12 | [aarntn](https://github.com/aarntn) | Aaron Tan | Doha, Qatar | 1,052 |
-| 13 | [rm1dev](https://github.com/rm1dev) | Reza Moghaddam | Qatar | 971 |
+| 13 | [rm1dev](https://github.com/rm1dev) | Reza Moghaddam | Qatar | 972 |
 | 14 | [kevinpiac](https://github.com/kevinpiac) | Kevin Piacentini | Doha | 957 |
 | 15 | [shafiiiq](https://github.com/shafiiiq) | Muhammed Shafeek | Qatar | 877 |
 | 16 | [syedahmedkhaderi](https://github.com/syedahmedkhaderi) | Syed Ahmed | Doha | 866 |
@@ -83,4 +83,4 @@ Indexed users: 1,072
 | 19 | [brainconnect93](https://github.com/brainconnect93) | Afolabi Akorede | Al-Wakrah, Qatar | 99 |
 | 20 | [muratyaman](https://github.com/muratyaman) | Haci Murat Yaman | Doha, Qatar | 99 |
 
-Generated: 2026-10-20T02:52:06.277Z
+Generated: 2026-10-20T06:07:20.549Z

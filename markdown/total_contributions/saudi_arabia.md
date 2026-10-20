@@ -1,6 +1,6 @@
 # Total Contributions - Saudi Arabia
 
-Generated: 2026-10-20T03:40:06.426Z
+Generated: 2026-10-20T06:12:07.315Z
 
 Users: 7738
 
@@ -16,13 +16,13 @@ Users: 7738
 | 8 | [Ahmed-Sermani](https://github.com/Ahmed-Sermani) | Ahmed Sermani | @WhatsLab  |  | Saudi Arabia | 15250 |
 | 9 | [a-green-hand-jack](https://github.com/a-green-hand-jack) | Jack Wu | King Abdullah University of Science and Technology  |  | Saudi Arabia (SA)  | 14774 |
 | 10 | [talha7k](https://github.com/talha7k) | Talha Khan | Dijitize.com |  | Riyadh | 14251 |
-| 11 | [samykabu](https://github.com/samykabu) | Samy K. Abushanab |  |  | Saudi Arabia | 12900 |
-| 12 | [abdulrahman-gaith-beep](https://github.com/abdulrahman-gaith-beep) | Abdulrahman B Al-Sayari | @Golden-Investors  |  | Riyadh \| London \| Global Citizen  | 11951 |
-| 13 | [Ahmed-aleryani](https://github.com/Ahmed-aleryani) | Ahmed Aleryani | @Transferwise |  | Sana'a, Yemen / Tallinn, Estonia / Riyadh, Saudi Arabia | 11607 |
-| 14 | [a7mad3bdullah](https://github.com/a7mad3bdullah) | Ahmad |  |  | Saudi Arabia | 11447 |
-| 15 | [A1cy](https://github.com/A1cy) | A1 | A1xAI | A1hady | Riyadh | 10288 |
-| 16 | [xahmd](https://github.com/xahmd) | AHMAD JAMOS |  |  | Saudi Arabia | 10263 |
-| 17 | [imadaitelarabi](https://github.com/imadaitelarabi) | IMAD AIT EL ARABI | Xenith AI |  | Riyadh | 9583 |
+| 11 | [imadaitelarabi](https://github.com/imadaitelarabi) | IMAD AIT EL ARABI | Xenith AI |  | Riyadh | 13113 |
+| 12 | [samykabu](https://github.com/samykabu) | Samy K. Abushanab |  |  | Saudi Arabia | 12900 |
+| 13 | [abdulrahman-gaith-beep](https://github.com/abdulrahman-gaith-beep) | Abdulrahman B Al-Sayari | @Golden-Investors  |  | Riyadh \| London \| Global Citizen  | 11951 |
+| 14 | [Ahmed-aleryani](https://github.com/Ahmed-aleryani) | Ahmed Aleryani | @Transferwise |  | Sana'a, Yemen / Tallinn, Estonia / Riyadh, Saudi Arabia | 11607 |
+| 15 | [a7mad3bdullah](https://github.com/a7mad3bdullah) | Ahmad |  |  | Saudi Arabia | 11447 |
+| 16 | [A1cy](https://github.com/A1cy) | A1 | A1xAI | A1hady | Riyadh | 10288 |
+| 17 | [xahmd](https://github.com/xahmd) | AHMAD JAMOS |  |  | Saudi Arabia | 10263 |
 | 18 | [mohamedBalkhi](https://github.com/mohamedBalkhi) | Mohamed Ahmad ALbalki |  |  | Saudi Arabia | 9036 |
 | 19 | [mo-alhaddad](https://github.com/mo-alhaddad) | Mohammed Alhaddad | IPTech |  | Khobar, Saudi Arabia | 8946 |
 | 20 | [y0u-0](https://github.com/y0u-0) | Ali |  |  | Saudi Arabia | 8477 |

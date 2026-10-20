@@ -21,10 +21,10 @@ Indexed users: 1,532
 | 7 | [bpamiri](https://github.com/bpamiri) | Peter Amiri | San Juan Capistrano, CA | 17,915 |
 | 8 | [devmoreno](https://github.com/devmoreno) | Edwin Moreno | Aguadilla, Puerto Rico | 9,005 |
 | 9 | [jdreben](https://github.com/jdreben) | James Dreben | San Juan, Puerto Rico | 8,227 |
-| 10 | [aegonzalez95](https://github.com/aegonzalez95) | Angel Gonzalez | Puerto Rico | 7,443 |
-| 11 | [bombillazo](https://github.com/bombillazo) | Hector Ayala | Puerto Rico | 7,098 |
-| 12 | [chrisrodz](https://github.com/chrisrodz) | Christian A. Rodriguez | San Juan, PR | 7,027 |
-| 13 | [brettheap](https://github.com/brettheap) | Brett Heap | Puerto Rico | 6,739 |
+| 10 | [brettheap](https://github.com/brettheap) | Brett Heap | Puerto Rico | 7,801 |
+| 11 | [aegonzalez95](https://github.com/aegonzalez95) | Angel Gonzalez | Puerto Rico | 7,443 |
+| 12 | [bombillazo](https://github.com/bombillazo) | Hector Ayala | Puerto Rico | 7,098 |
+| 13 | [chrisrodz](https://github.com/chrisrodz) | Christian A. Rodriguez | San Juan, PR | 7,027 |
 | 14 | [shawntabrizi](https://github.com/shawntabrizi) | Shawn Tabrizi | Puerto Rico | 6,624 |
 | 15 | [Wolfkid200444](https://github.com/Wolfkid200444) | Wolfie | Puerto Rico | 6,312 |
 | 16 | [grpecunia](https://github.com/grpecunia) | Gustavo Rivera Pecunia | San Juan, PR | 6,140 |
@@ -40,10 +40,10 @@ Indexed users: 1,532
 | 1 | [0xPlayerOne](https://github.com/0xPlayerOne) | A. Mahoney-Fernandes | San Juan, PR 🇵🇷 | 17,559 |
 | 2 | [RhettCreighton](https://github.com/RhettCreighton) | Rhett Creighton | San Juan, Puerto Rico | 12,873 |
 | 3 | [bpamiri](https://github.com/bpamiri) | Peter Amiri | San Juan Capistrano, CA | 9,824 |
-| 4 | [brettheap](https://github.com/brettheap) | Brett Heap | Puerto Rico | 6,739 |
+| 4 | [brettheap](https://github.com/brettheap) | Brett Heap | Puerto Rico | 7,801 |
 | 5 | [egmtm](https://github.com/egmtm) | EGM™ | Puerto Rico | 5,872 |
 | 6 | [Wolfkid200444](https://github.com/Wolfkid200444) | Wolfie | Puerto Rico | 4,851 |
-| 7 | [edwardlthompson](https://github.com/edwardlthompson) | Edward Thompson | Puerto Rico | 3,411 |
+| 7 | [edwardlthompson](https://github.com/edwardlthompson) | Edward Thompson | Puerto Rico | 3,462 |
 | 8 | [rnegron](https://github.com/rnegron) | Raúl Negrón-Otero | Bayamón, Puerto Rico | 3,188 |
 | 9 | [shawntabrizi](https://github.com/shawntabrizi) | Shawn Tabrizi | Puerto Rico | 2,993 |
 | 10 | [cywf](https://github.com/cywf) | KP | San Juan, PR | 2,620 |
@@ -83,4 +83,4 @@ Indexed users: 1,532
 | 19 | [rnegron](https://github.com/rnegron) | Raúl Negrón-Otero | Bayamón, Puerto Rico | 113 |
 | 20 | [hackingbutlegal](https://github.com/hackingbutlegal) | Jackie Singh | San Juan, PR | 107 |
 
-Generated: 2026-10-20T02:52:00.060Z
+Generated: 2026-10-20T06:07:13.801Z

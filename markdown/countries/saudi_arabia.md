@@ -22,13 +22,13 @@ Indexed users: 7,738
 | 8 | [Ahmed-Sermani](https://github.com/Ahmed-Sermani) | Ahmed Sermani | Saudi Arabia | 15,250 |
 | 9 | [a-green-hand-jack](https://github.com/a-green-hand-jack) | Jack Wu | Saudi Arabia (SA)  | 14,774 |
 | 10 | [talha7k](https://github.com/talha7k) | Talha Khan | Riyadh | 14,251 |
-| 11 | [samykabu](https://github.com/samykabu) | Samy K. Abushanab | Saudi Arabia | 12,900 |
-| 12 | [abdulrahman-gaith-beep](https://github.com/abdulrahman-gaith-beep) | Abdulrahman B Al-Sayari | Riyadh \| London \| Global Citizen  | 11,951 |
-| 13 | [Ahmed-aleryani](https://github.com/Ahmed-aleryani) | Ahmed Aleryani | Sana'a, Yemen / Tallinn, Estonia / Riyadh, Saudi Arabia | 11,607 |
-| 14 | [a7mad3bdullah](https://github.com/a7mad3bdullah) | Ahmad | Saudi Arabia | 11,447 |
-| 15 | [A1cy](https://github.com/A1cy) | A1 | Riyadh | 10,288 |
-| 16 | [xahmd](https://github.com/xahmd) | AHMAD JAMOS | Saudi Arabia | 10,263 |
-| 17 | [imadaitelarabi](https://github.com/imadaitelarabi) | IMAD AIT EL ARABI | Riyadh | 9,583 |
+| 11 | [imadaitelarabi](https://github.com/imadaitelarabi) | IMAD AIT EL ARABI | Riyadh | 13,113 |
+| 12 | [samykabu](https://github.com/samykabu) | Samy K. Abushanab | Saudi Arabia | 12,900 |
+| 13 | [abdulrahman-gaith-beep](https://github.com/abdulrahman-gaith-beep) | Abdulrahman B Al-Sayari | Riyadh \| London \| Global Citizen  | 11,951 |
+| 14 | [Ahmed-aleryani](https://github.com/Ahmed-aleryani) | Ahmed Aleryani | Sana'a, Yemen / Tallinn, Estonia / Riyadh, Saudi Arabia | 11,607 |
+| 15 | [a7mad3bdullah](https://github.com/a7mad3bdullah) | Ahmad | Saudi Arabia | 11,447 |
+| 16 | [A1cy](https://github.com/A1cy) | A1 | Riyadh | 10,288 |
+| 17 | [xahmd](https://github.com/xahmd) | AHMAD JAMOS | Saudi Arabia | 10,263 |
 | 18 | [mohamedBalkhi](https://github.com/mohamedBalkhi) | Mohamed Ahmad ALbalki | Saudi Arabia | 9,036 |
 | 19 | [mo-alhaddad](https://github.com/mo-alhaddad) | Mohammed Alhaddad | Khobar, Saudi Arabia | 8,946 |
 | 20 | [y0u-0](https://github.com/y0u-0) | Ali | Saudi Arabia | 8,477 |
@@ -83,4 +83,4 @@ Indexed users: 7,738
 | 19 | [davidrpugh](https://github.com/davidrpugh) | David R. Pugh | Thuwal, Saudi Arabia | 458 |
 | 20 | [madahetooo](https://github.com/madahetooo) | Eslam Medhat | Riyadh, Saudi Arabia | 458 |
 
-Generated: 2026-10-20T03:40:06.426Z
+Generated: 2026-10-20T06:12:07.315Z

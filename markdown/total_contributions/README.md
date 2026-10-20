@@ -167,9 +167,9 @@ Published countries: 234
 | Papua New Guinea | 296 | [View](./papua_new_guinea.md) |
 | Paraguay | 2,014 | [View](./paraguay.md) |
 | Peru | 9,769 | [View](./peru.md) |
-| Philippines | 19,751 | [View](./philippines.md) |
+| Philippines | 19,749 | [View](./philippines.md) |
 | Pitcairn Islands | 5 | [View](./pitcairn_islands.md) |
-| Portugal | 28,432 | [View](./portugal.md) |
+| Portugal | 28,431 | [View](./portugal.md) |
 | Puerto Rico | 1,532 | [View](./puerto_rico.md) |
 | Qatar | 1,072 | [View](./qatar.md) |
 | Republic of the Congo | 298 | [View](./republic_of_the_congo.md) |
@@ -205,7 +205,7 @@ Published countries: 234
 | Sudan | 727 | [View](./sudan.md) |
 | Suriname | 123 | [View](./suriname.md) |
 | Svalbard and Jan Mayen | 10 | [View](./svalbard_and_jan_mayen.md) |
-| Sweden | 39,032 | [View](./sweden.md) |
+| Sweden | 39,033 | [View](./sweden.md) |
 | Switzerland | 24,078 | [View](./switzerland.md) |
 | Syria | 1,480 | [View](./syria.md) |
 | Taiwan | 21,994 | [View](./taiwan.md) |
@@ -239,4 +239,4 @@ Published countries: 234
 | Zambia | 1,337 | [View](./zambia.md) |
 | Zimbabwe | 1,656 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-20T06:02:37.698Z
+Generated: 2026-10-20T06:13:08.724Z

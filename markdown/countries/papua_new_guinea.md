@@ -67,7 +67,7 @@ Indexed users: 296
 | 3 | [kirioh](https://github.com/kirioh) | Cieran Kelly | Port Moresby | 29 |
 | 4 | [chrisaugu](https://github.com/chrisaugu) | Christian Augustyn | Madang, Papua New Guinea | 28 |
 | 5 | [JHEK675](https://github.com/JHEK675) | Hosea Wartabar Kolis | Lae, Papua New Guinea | 26 |
-| 6 | [nxnmsl0](https://github.com/nxnmsl0) | Nixon Misiel Agregum | PORT MORESBY | 22 |
+| 6 | [nxnmsl0](https://github.com/nxnmsl0) | Nixon Misiel Agregum | PORT MORESBY | 21 |
 | 7 | [n30dyn4m1c](https://github.com/n30dyn4m1c) | Neo Malesa | Port Moresby, Papua New Guinea | 20 |
 | 8 | [161710125](https://github.com/161710125) | Muuu | Papua New Guinea | 16 |
 | 9 | [cravenhoff](https://github.com/cravenhoff) | Crystal Kewe | Port Moresby, Papua New Guinea | 16 |
@@ -83,4 +83,4 @@ Indexed users: 296
 | 19 | [jm0535](https://github.com/jm0535) | Jimmy Moses | Papua New Guinea | 8 |
 | 20 | [loiwai](https://github.com/loiwai) | Loi Wai | Papua New Guinea | 8 |
 
-Generated: 2026-10-20T02:49:26.420Z
+Generated: 2026-10-20T06:03:21.996Z

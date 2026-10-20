@@ -1,14 +1,14 @@
 # Public Contributions - Qatar
 
-Generated: 2026-10-20T02:52:06.277Z
+Generated: 2026-10-20T06:07:20.549Z
 
 Users: 1072
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [nirzaf](https://github.com/nirzaf) | M.F.M Fazrin | Primary Health Care Corporation |  | Doha - Qatar | 5189 |
-| 2 | [aurangzaib048](https://github.com/aurangzaib048) | Rana Aurangzaib |  |  | Doha, Qatar | 3864 |
-| 3 | [Bewinxed](https://github.com/Bewinxed) | Omar Al Matar | Hamad Medical Corporation | Bewinxed | Doha, Qatar | 3685 |
+| 2 | [Bewinxed](https://github.com/Bewinxed) | Omar Al Matar | Hamad Medical Corporation | Bewinxed | Doha, Qatar | 4913 |
+| 3 | [aurangzaib048](https://github.com/aurangzaib048) | Rana Aurangzaib |  |  | Doha, Qatar | 3864 |
 | 4 | [Ajmalpshaik](https://github.com/Ajmalpshaik) | AjmalPS |  |  | Doha, Qatar | 2391 |
 | 5 | [Tamoura](https://github.com/Tamoura) | Tamer | QDB |  | Qatar | 1769 |
 | 6 | [kashkoool](https://github.com/kashkoool) | louay kashkool |  |  | qatar | 1758 |
@@ -18,7 +18,7 @@ Users: 1072
 | 10 | [atick-faisal](https://github.com/atick-faisal) | Atick Faisal | Researcher, Iberdrola |  | Doha, Qatar | 1148 |
 | 11 | [itsarisid](https://github.com/itsarisid) | Sajid Khan | Ministry of Interior Qatar | itsarisid | Qatar | 1074 |
 | 12 | [aarntn](https://github.com/aarntn) | Aaron Tan | University of Malaya |  | Doha, Qatar | 1052 |
-| 13 | [rm1dev](https://github.com/rm1dev) | Reza Moghaddam | Romak |  | Qatar | 971 |
+| 13 | [rm1dev](https://github.com/rm1dev) | Reza Moghaddam | Romak |  | Qatar | 972 |
 | 14 | [kevinpiac](https://github.com/kevinpiac) | Kevin Piacentini |  | kevinpiac | Doha | 957 |
 | 15 | [shafiiiq](https://github.com/shafiiiq) | Muhammed Shafeek | Al Ansari |  | Qatar | 877 |
 | 16 | [syedahmedkhaderi](https://github.com/syedahmedkhaderi) | Syed Ahmed |  |  | Doha | 866 |
