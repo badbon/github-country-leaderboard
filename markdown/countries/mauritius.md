@@ -28,7 +28,7 @@ Indexed users: 715
 | 14 | [yayann](https://github.com/yayann) | Yann Labour | Mauritius | 4,038 |
 | 15 | [zfir](https://github.com/zfir) | Zafir Sk Heerah | Mauritius | 3,989 |
 | 16 | [thhsie](https://github.com/thhsie) | hitesh | Mauritius | 3,890 |
-| 17 | [k3ii](https://github.com/k3ii) | Jain Ramchurn | Mauritius | 3,801 |
+| 17 | [k3ii](https://github.com/k3ii) | Jain Ramchurn | Mauritius | 3,826 |
 | 18 | [cbillowes](https://github.com/cbillowes) | Clarice Bouwer | Mauritius | 3,481 |
 | 19 | [johanleroch](https://github.com/johanleroch) | Johan le Roch | Mauritius | 3,155 |
 | 20 | [iwugod](https://github.com/iwugod) | Joshua Iwugod  | Republic of Mauritius  | 3,102 |
@@ -83,4 +83,4 @@ Indexed users: 715
 | 19 | [MaskyS](https://github.com/MaskyS) | Kifah M | Mauritius | 75 |
 | 20 | [cbillowes](https://github.com/cbillowes) | Clarice Bouwer | Mauritius | 65 |
 
-Generated: 2026-10-20T07:26:50.422Z
+Generated: 2026-10-20T09:05:50.284Z

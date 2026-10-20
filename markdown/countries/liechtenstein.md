@@ -18,12 +18,12 @@ Indexed users: 113
 | 4 | [PhilippHGerber](https://github.com/PhilippHGerber) | Philipp H. Gerber | Liechtenstein | 2,994 |
 | 5 | [msanft](https://github.com/msanft) | Moritz Sanft | Liechtenstein | 2,900 |
 | 6 | [ColinFrick](https://github.com/ColinFrick) | Colin Frick | Liechtenstein | 2,635 |
-| 7 | [AHaldner](https://github.com/AHaldner) | Andrin Haldner | Liechtenstein | 1,836 |
+| 7 | [AHaldner](https://github.com/AHaldner) | Andrin Haldner | Liechtenstein | 1,837 |
 | 8 | [marsop](https://github.com/marsop) | Alberto Gregorio | Ruggell, Liechtenstein | 1,693 |
 | 9 | [niklasfrick](https://github.com/niklasfrick) | Niklas Frick | Liechtenstein | 1,252 |
 | 10 | [iwhp](https://github.com/iwhp) | Harry Pfleger | Liechtenstein | 760 |
 | 11 | [masteradhoc](https://github.com/masteradhoc) | Brian | Liechtenstein | 753 |
-| 12 | [d0dge-dev](https://github.com/d0dge-dev) | David | Liechtenstein | 471 |
+| 12 | [d0dge-dev](https://github.com/d0dge-dev) | David | Liechtenstein | 473 |
 | 13 | [archham](https://github.com/archham) | Nicolas Eberle | Liechtenstein | 462 |
 | 14 | [FeeJai](https://github.com/FeeJai) | Felix Jankowski | Liechtenstein | 443 |
 | 15 | [wol-fi](https://github.com/wol-fi) | Wolfgang Schadner | Liechtenstein | 332 |
@@ -49,8 +49,8 @@ Indexed users: 113
 | 10 | [wol-fi](https://github.com/wol-fi) | Wolfgang Schadner | Liechtenstein | 288 |
 | 11 | [AHaldner](https://github.com/AHaldner) | Andrin Haldner | Liechtenstein | 215 |
 | 12 | [xGreeny](https://github.com/xGreeny) | Flurin | Liechtenstein | 179 |
-| 13 | [shakespear95](https://github.com/shakespear95) | Shakespear Samu | Liechtenstein | 148 |
-| 14 | [d0dge-dev](https://github.com/d0dge-dev) | David | Liechtenstein | 123 |
+| 13 | [shakespear95](https://github.com/shakespear95) | Shakespear Samu | Liechtenstein | 137 |
+| 14 | [d0dge-dev](https://github.com/d0dge-dev) | David | Liechtenstein | 124 |
 | 15 | [MahsaChoop](https://github.com/MahsaChoop) | Mahsa Choopannezhad Najafabadi | Liechtenstein | 116 |
 | 16 | [ColinFL](https://github.com/ColinFL) |  | Liechtenstein | 114 |
 | 17 | [ukhan717](https://github.com/ukhan717) | u.khan | Liechtenstein | 99 |
@@ -83,4 +83,4 @@ Indexed users: 113
 | 19 | [IncredibleAaron](https://github.com/IncredibleAaron) | Aaron | Vaduz | 13 |
 | 20 | [niklasfrick](https://github.com/niklasfrick) | Niklas Frick | Liechtenstein | 12 |
 
-Generated: 2026-10-20T07:22:25.305Z
+Generated: 2026-10-20T09:00:29.348Z

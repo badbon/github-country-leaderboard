@@ -52,7 +52,7 @@ Indexed users: 298
 | 13 | [leloeduk](https://github.com/leloeduk) | Lelo  | Congo | 316 |
 | 14 | [babacleven](https://github.com/babacleven) | BABA Aristote Cleven  | Congo-Brazzaville | 302 |
 | 15 | [lepresk](https://github.com/lepresk) | Logan CodeMaker | Brazzaville, Congo | 296 |
-| 16 | [Chadrac-WAKOMYA](https://github.com/Chadrac-WAKOMYA) | KIGHUNDILA WAKOMYA Chadrac | Congo | 253 |
+| 16 | [Chadrac-WAKOMYA](https://github.com/Chadrac-WAKOMYA) | KIGHUNDILA WAKOMYA Chadrac | Congo | 251 |
 | 17 | [chronoss09](https://github.com/chronoss09) | Chronoss | Congo | 217 |
 | 18 | [Ssnnee](https://github.com/Ssnnee) | Samuel Nandi | Republic of the Congo | 200 |
 | 19 | [arsene-akiana](https://github.com/arsene-akiana) | Arsène Gloire AKIANA  | Brazzaville, Congo | 195 |
@@ -83,4 +83,4 @@ Indexed users: 298
 | 19 | [Ssnnee](https://github.com/Ssnnee) | Samuel Nandi | Republic of the Congo | 26 |
 | 20 | [WinnersProx](https://github.com/WinnersProx) | Vainqueur Bihame | Kigali,Rwanda,Congo | 25 |
 
-Generated: 2026-10-20T07:42:44.557Z
+Generated: 2026-10-20T09:22:04.657Z

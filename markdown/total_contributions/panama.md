@@ -1,12 +1,12 @@
 # Total Contributions - Panama
 
-Generated: 2026-10-19T18:05:15.450Z
+Generated: 2026-10-20T09:17:09.235Z
 
 Users: 1070
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [MattRiddell](https://github.com/MattRiddell) | Matthew Riddell | Group Advisors, NeoGen.AI, COVID Schedule, VentureVoIP, CreateOffshoreCompany, SineApps, VentureIP, C O International Holdings, Bio Earth Farms, Light Stream Farms, Singularity Software | MattRiddell | Panama | 46353 |
+| 1 | [MattRiddell](https://github.com/MattRiddell) | Matthew Riddell | Group Advisors, NeoGen.AI, COVID Schedule, VentureVoIP, CreateOffshoreCompany, SineApps, VentureIP, C O International Holdings, Bio Earth Farms, Light Stream Farms, Singularity Software | MattRiddell | Panama | 47936 |
 | 2 | [rafaaro](https://github.com/rafaaro) | Rafael Arosemena | RARO |  | Panama | 24696 |
 | 3 | [ElenaRevicheva](https://github.com/ElenaRevicheva) | Elena | AIdeazz start-up | reviceva | Panama, Panama city | 24202 |
 | 4 | [jeremymcs](https://github.com/jeremymcs) | Jeremy McSpadden | Flux Labs | jeremymcs | Panama City, FL | 18220 |
@@ -15,7 +15,7 @@ Users: 1070
 | 7 | [hjupter](https://github.com/hjupter) | Hjupter Cerrud |  | hjupter | Panama | 16152 |
 | 8 | [Kenth06](https://github.com/Kenth06) | Kenneth Rios | ASSA |  | Panama | 16123 |
 | 9 | [ricardostmalo](https://github.com/ricardostmalo) | Ricardo de Saint Malo | Boton | ricardostmalo | Panama | 15949 |
-| 10 | [gonzalezulises](https://github.com/gonzalezulises) | Ulises Gonzalez | rizoma | gonzalezulises | Panama | 10073 |
+| 10 | [gonzalezulises](https://github.com/gonzalezulises) | Ulises Gonzalez | rizoma | gonzalezulises | Panama | 10582 |
 | 11 | [ramonfabrega](https://github.com/ramonfabrega) | Ramon |  |  | Panama | 9797 |
 | 12 | [lexjm](https://github.com/lexjm) | Alexander  | TKS TECHNOLOGY |  | Panama City, Panama | 9745 |
 | 13 | [bgawne](https://github.com/bgawne) | Brad Gawne |  |  | Panama | 9524 |

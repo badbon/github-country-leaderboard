@@ -1,6 +1,6 @@
 # Total Contributions - Serbia
 
-Generated: 2026-10-20T07:49:07.209Z
+Generated: 2026-10-20T09:26:33.661Z
 
 Users: 10655
 
@@ -19,10 +19,10 @@ Users: 10655
 | 11 | [Nek-12](https://github.com/Nek-12) | Nek.12 | @respawn-app  |  | Serbia | 11237 |
 | 12 | [momoshell](https://github.com/momoshell) | Momcilo Miladinovic | IXNAY |  | Belgrade | 11050 |
 | 13 | [valentinajemuovic](https://github.com/valentinajemuovic) | Valentina Jemuović  | Optivem | valentinajemuov | Belgrade, Serbia | 11013 |
-| 14 | [filiptrivan](https://github.com/filiptrivan) | Filip Trivan | Spiderly | filiptrivan | Belgrade, Serbia | 10193 |
-| 15 | [darktasevski](https://github.com/darktasevski) | Darkø Tasevski |  |  | Serbia | 10046 |
-| 16 | [olujicz](https://github.com/olujicz) | Zoran Olujić |  |  | Serbia | 10025 |
-| 17 | [igorhrcek](https://github.com/igorhrcek) | Igor Hrček | MailerLite | kutija | Serbia | 9548 |
-| 18 | [stefanpejcic](https://github.com/stefanpejcic) | Stefan Pejcic | OpenPanel, LLC. |  | Belgrade, Serbia | 9534 |
-| 19 | [igorskyflyer](https://github.com/igorskyflyer) | Igor Dimitrijević |  | igorskyflyer | Serbia | 9286 |
-| 20 | [zombie](https://github.com/zombie) | Tomislav Jovanovic | @Mozilla |  | Serbia | 8912 |
+| 14 | [boroworx](https://github.com/boroworx) | Marko Borojević |  |  | Belgrade, Serbia | 10459 |
+| 15 | [filiptrivan](https://github.com/filiptrivan) | Filip Trivan | Spiderly | filiptrivan | Belgrade, Serbia | 10193 |
+| 16 | [darktasevski](https://github.com/darktasevski) | Darkø Tasevski |  |  | Serbia | 10046 |
+| 17 | [olujicz](https://github.com/olujicz) | Zoran Olujić |  |  | Serbia | 10025 |
+| 18 | [igorhrcek](https://github.com/igorhrcek) | Igor Hrček | MailerLite | kutija | Serbia | 9548 |
+| 19 | [stefanpejcic](https://github.com/stefanpejcic) | Stefan Pejcic | OpenPanel, LLC. |  | Belgrade, Serbia | 9534 |
+| 20 | [igorskyflyer](https://github.com/igorskyflyer) | Igor Dimitrijević |  | igorskyflyer | Serbia | 9286 |

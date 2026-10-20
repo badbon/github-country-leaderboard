@@ -15,7 +15,7 @@ Indexed users: 155
 | 1 | [Not-Chur-Architect](https://github.com/Not-Chur-Architect) | Nicholas Campisano | Isle of Man | 11,271 |
 | 2 | [auberryberry](https://github.com/auberryberry) | Aubrey Stearn | Isle of Man | 10,372 |
 | 3 | [bengris32](https://github.com/bengris32) | Ben | Isle of Man | 8,460 |
-| 4 | [darrenbarklie](https://github.com/darrenbarklie) | Darren Barklie | Isle of Man | 4,519 |
+| 4 | [darrenbarklie](https://github.com/darrenbarklie) | Darren Barklie | Isle of Man | 4,517 |
 | 5 | [tekminewe](https://github.com/tekminewe) | Ewe Tek Min | Isle of Man | 3,647 |
 | 6 | [dive](https://github.com/dive) | Artem Loenko | Isle of Man | 2,160 |
 | 7 | [oliciv](https://github.com/oliciv) | Oli Allen | Isle of Man | 2,018 |
@@ -23,14 +23,14 @@ Indexed users: 155
 | 9 | [craigiswayne](https://github.com/craigiswayne) | Craig Wayne | Isle of Man | 1,858 |
 | 10 | [PerpetualBeta](https://github.com/PerpetualBeta) | Jonathan M. Hollin | Douglas, Isle of Man | 1,803 |
 | 11 | [thomas-coldwell](https://github.com/thomas-coldwell) | Thomas Coldwell | Isle of Man | 1,703 |
-| 12 | [ceottaki](https://github.com/ceottaki) | Felipe Ceotto | Isle of Man | 1,614 |
+| 12 | [ceottaki](https://github.com/ceottaki) | Felipe Ceotto | Isle of Man | 1,639 |
 | 13 | [mayconht](https://github.com/mayconht) | Maycon Douglas | Isle of Man | 1,511 |
 | 14 | [lwangenheim](https://github.com/lwangenheim) | Lee Wangenheim | Isle of Man | 1,498 |
-| 15 | [tonypartridge](https://github.com/tonypartridge) | Tony Partridge | Isle of Man | 1,249 |
-| 16 | [allantrabuco](https://github.com/allantrabuco) | Allan Trabuco | Isle of Man | 1,217 |
+| 15 | [tonypartridge](https://github.com/tonypartridge) | Tony Partridge | Isle of Man | 1,251 |
+| 16 | [allantrabuco](https://github.com/allantrabuco) | Allan Trabuco | Isle of Man | 1,218 |
 | 17 | [Gwiilo](https://github.com/Gwiilo) | Gwilo | Isle of Man | 1,211 |
 | 18 | [mattwilson02](https://github.com/mattwilson02) | Matt Wilson | Isle of Man | 1,126 |
-| 19 | [jonnyirwin](https://github.com/jonnyirwin) | Jonny Irwin | Isle of Man | 1,075 |
+| 19 | [jonnyirwin](https://github.com/jonnyirwin) | Jonny Irwin | Isle of Man | 1,077 |
 | 20 | [dannmat](https://github.com/dannmat) | Matt Ward | Isle of Man | 1,074 |
 
 ## Public Contributions
@@ -42,7 +42,7 @@ Indexed users: 155
 | 3 | [PerpetualBeta](https://github.com/PerpetualBeta) | Jonathan M. Hollin | Douglas, Isle of Man | 773 |
 | 4 | [craigiswayne](https://github.com/craigiswayne) | Craig Wayne | Isle of Man | 706 |
 | 5 | [torquuato](https://github.com/torquuato) |  | Isle of Man | 557 |
-| 6 | [jonnyirwin](https://github.com/jonnyirwin) | Jonny Irwin | Isle of Man | 432 |
+| 6 | [jonnyirwin](https://github.com/jonnyirwin) | Jonny Irwin | Isle of Man | 433 |
 | 7 | [dominichubble](https://github.com/dominichubble) | Dominic Hubble | Isle of Man | 359 |
 | 8 | [jamesharrison2005](https://github.com/jamesharrison2005) | James Harrison | Isle of Man | 320 |
 | 9 | [dive](https://github.com/dive) | Artem Loenko | Isle of Man | 306 |
@@ -83,4 +83,4 @@ Indexed users: 155
 | 19 | [lwangenheim](https://github.com/lwangenheim) | Lee Wangenheim | Isle of Man | 19 |
 | 20 | [DanAnkers](https://github.com/DanAnkers) | Daniel Ankers | Isle of Man | 18 |
 
-Generated: 2026-10-20T07:16:03.601Z
+Generated: 2026-10-20T08:55:27.556Z

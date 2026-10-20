@@ -1,6 +1,6 @@
 # Followers - Guinea-Bissau
 
-Generated: 2026-10-20T07:11:53.831Z
+Generated: 2026-10-20T08:48:17.467Z
 
 Users: 23
 

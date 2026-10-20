@@ -25,13 +25,13 @@ Indexed users: 10,655
 | 11 | [Nek-12](https://github.com/Nek-12) | Nek.12 | Serbia | 11,237 |
 | 12 | [momoshell](https://github.com/momoshell) | Momcilo Miladinovic | Belgrade | 11,050 |
 | 13 | [valentinajemuovic](https://github.com/valentinajemuovic) | Valentina Jemuović  | Belgrade, Serbia | 11,013 |
-| 14 | [filiptrivan](https://github.com/filiptrivan) | Filip Trivan | Belgrade, Serbia | 10,193 |
-| 15 | [darktasevski](https://github.com/darktasevski) | Darkø Tasevski | Serbia | 10,046 |
-| 16 | [olujicz](https://github.com/olujicz) | Zoran Olujić | Serbia | 10,025 |
-| 17 | [igorhrcek](https://github.com/igorhrcek) | Igor Hrček | Serbia | 9,548 |
-| 18 | [stefanpejcic](https://github.com/stefanpejcic) | Stefan Pejcic | Belgrade, Serbia | 9,534 |
-| 19 | [igorskyflyer](https://github.com/igorskyflyer) | Igor Dimitrijević | Serbia | 9,286 |
-| 20 | [zombie](https://github.com/zombie) | Tomislav Jovanovic | Serbia | 8,912 |
+| 14 | [boroworx](https://github.com/boroworx) | Marko Borojević | Belgrade, Serbia | 10,459 |
+| 15 | [filiptrivan](https://github.com/filiptrivan) | Filip Trivan | Belgrade, Serbia | 10,193 |
+| 16 | [darktasevski](https://github.com/darktasevski) | Darkø Tasevski | Serbia | 10,046 |
+| 17 | [olujicz](https://github.com/olujicz) | Zoran Olujić | Serbia | 10,025 |
+| 18 | [igorhrcek](https://github.com/igorhrcek) | Igor Hrček | Serbia | 9,548 |
+| 19 | [stefanpejcic](https://github.com/stefanpejcic) | Stefan Pejcic | Belgrade, Serbia | 9,534 |
+| 20 | [igorskyflyer](https://github.com/igorskyflyer) | Igor Dimitrijević | Serbia | 9,286 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 10,655
 | 19 | [umpirsky](https://github.com/umpirsky) | Saša Stamenković | Niš, Serbia | 458 |
 | 20 | [Stojanovic94](https://github.com/Stojanovic94) | Nikola Stojanović | Niš, Serbia | 435 |
 
-Generated: 2026-10-20T07:49:07.209Z
+Generated: 2026-10-20T09:26:33.661Z

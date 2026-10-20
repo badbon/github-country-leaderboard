@@ -1,6 +1,6 @@
 # Public Contributions - Guadeloupe
 
-Generated: 2026-10-20T07:09:54.274Z
+Generated: 2026-10-20T08:47:29.518Z
 
 Users: 86
 
@@ -14,9 +14,9 @@ Users: 86
 | 6 | [Virguiles](https://github.com/Virguiles) | Virgile |  |  | Guadeloupe | 144 |
 | 7 | [KaribbeanCreative](https://github.com/KaribbeanCreative) | Karibbean Creative |  |  | Guadeloupe | 74 |
 | 8 | [Tomc1x](https://github.com/Tomc1x) | Tomy DACALOR |  |  | Basse-Terre, Guadeloupe | 72 |
-| 9 | [ntxsay](https://github.com/ntxsay) | Loïc Bastaraud |  |  | Guadeloupe | 55 |
-| 10 | [RomainLAU](https://github.com/RomainLAU) | Romain LAURENT | Sofy | AdibLeRoi | Baie-Mahault, Guadeloupe | 55 |
-| 11 | [sboli](https://github.com/sboli) | Bolivar Stephen |  | _sboli | Guadeloupe | 51 |
+| 9 | [sboli](https://github.com/sboli) | Bolivar Stephen |  | _sboli | Guadeloupe | 57 |
+| 10 | [ntxsay](https://github.com/ntxsay) | Loïc Bastaraud |  |  | Guadeloupe | 55 |
+| 11 | [RomainLAU](https://github.com/RomainLAU) | Romain LAURENT | Sofy | AdibLeRoi | Baie-Mahault, Guadeloupe | 55 |
 | 12 | [sype](https://github.com/sype) | Sebastien Pincemail | @wefactorit | wefactorit | Paris / Guadeloupe | 47 |
 | 13 | [SioTyron](https://github.com/SioTyron) | Tyron |  |  | Guadeloupe | 46 |
 | 14 | [bpoujol](https://github.com/bpoujol) | Basile Poujol | Lycée Baimbridge |  | Les Abymes, Guadeloupe | 41 |

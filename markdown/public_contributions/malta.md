@@ -1,6 +1,6 @@
 # Public Contributions - Malta
 
-Generated: 2026-10-20T07:25:31.428Z
+Generated: 2026-10-20T09:03:42.680Z
 
 Users: 1224
 
@@ -21,8 +21,8 @@ Users: 1224
 | 13 | [ntulenev](https://github.com/ntulenev) | Nikita Tulenev |  |  | Malta | 2499 |
 | 14 | [marian2js](https://github.com/marian2js) | Mariano Pardo | BullAware | marian2js | Malta | 2336 |
 | 15 | [dfroberg](https://github.com/dfroberg) | Danny Froberg | @INFURA | dfroberg | Gozo, Malta | 1991 |
-| 16 | [SerZhyAle](https://github.com/SerZhyAle) | Serhii Zhyhunenko |  |  | Malta | 1991 |
-| 17 | [mbj](https://github.com/mbj) | Markus Schirp | Schirp DSO LTD | mbjschirp | Malta | 1980 |
+| 16 | [mbj](https://github.com/mbj) | Markus Schirp | Schirp DSO LTD | mbjschirp | Malta | 1980 |
+| 17 | [SerZhyAle](https://github.com/SerZhyAle) | Serhii Zhyhunenko |  |  | Malta | 1899 |
 | 18 | [terranc](https://github.com/terranc) | Terran |  | terranc | Malta | 1891 |
 | 19 | [max-lt](https://github.com/max-lt) |  | @OpenWorkers |  | Malta | 1700 |
 | 20 | [owenfar](https://github.com/owenfar) |  | @owenfar |  | Malta | 1331 |

@@ -52,8 +52,8 @@ Indexed users: 1,224
 | 13 | [ntulenev](https://github.com/ntulenev) | Nikita Tulenev | Malta | 2,499 |
 | 14 | [marian2js](https://github.com/marian2js) | Mariano Pardo | Malta | 2,336 |
 | 15 | [dfroberg](https://github.com/dfroberg) | Danny Froberg | Gozo, Malta | 1,991 |
-| 16 | [SerZhyAle](https://github.com/SerZhyAle) | Serhii Zhyhunenko | Malta | 1,991 |
-| 17 | [mbj](https://github.com/mbj) | Markus Schirp | Malta | 1,980 |
+| 16 | [mbj](https://github.com/mbj) | Markus Schirp | Malta | 1,980 |
+| 17 | [SerZhyAle](https://github.com/SerZhyAle) | Serhii Zhyhunenko | Malta | 1,899 |
 | 18 | [terranc](https://github.com/terranc) | Terran | Malta | 1,891 |
 | 19 | [max-lt](https://github.com/max-lt) |  | Malta | 1,700 |
 | 20 | [owenfar](https://github.com/owenfar) |  | Malta | 1,331 |
@@ -83,4 +83,4 @@ Indexed users: 1,224
 | 19 | [mattcg](https://github.com/mattcg) | Matthew Caruana Galizia | Malta | 126 |
 | 20 | [CM2Walki](https://github.com/CM2Walki) | Walki | Malta | 118 |
 
-Generated: 2026-10-20T07:25:31.428Z
+Generated: 2026-10-20T09:03:42.680Z

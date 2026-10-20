@@ -23,7 +23,7 @@ Indexed users: 325
 | 9 | [navneil-naicker](https://github.com/navneil-naicker) | Navneil Naicker | Suva City, Central, Fiji | 1,006 |
 | 10 | [rudrprasad05](https://github.com/rudrprasad05) | Rudr Prasad | Fiji | 936 |
 | 11 | [Eddie115-x](https://github.com/Eddie115-x) | Adrian Obadiah | SUVA | 932 |
-| 12 | [anav5704](https://github.com/anav5704) | Anav Chand | Fiji | 790 |
+| 12 | [anav5704](https://github.com/anav5704) | Anav Chand | Fiji | 792 |
 | 13 | [rahulduttt](https://github.com/rahulduttt) | Rahul Dutt | Fiji | 626 |
 | 14 | [kishkumar96](https://github.com/kishkumar96) | Kishan Chimman Kumar | Suva | 553 |
 | 15 | [SRVSRR](https://github.com/SRVSRR) | Rohan Nandan | Fiji | 538 |
@@ -56,7 +56,7 @@ Indexed users: 325
 | 17 | [Arishneel-Narayan](https://github.com/Arishneel-Narayan) | Arishneel Sagar Narayan | Fiji  | 114 |
 | 18 | [NotPranshu](https://github.com/NotPranshu) | Pranshu Ayush | Fiji | 108 |
 | 19 | [mucsbr](https://github.com/mucsbr) | beingS | 0558 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 98 |
-| 20 | [phpoh](https://github.com/phpoh) | phpoh | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 89 |
+| 20 | [phpoh](https://github.com/phpoh) | phpoh | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 90 |
 
 ## Followers
 
@@ -65,7 +65,7 @@ Indexed users: 325
 | 1 | [vikichand](https://github.com/vikichand) | Vikash Chand | Fiji | 522 |
 | 2 | [2-fly-4-ai](https://github.com/2-fly-4-ai) | Brian farley | Suva | 135 |
 | 3 | [eastwardnew](https://github.com/eastwardnew) | Eastward New | Nadi ,Fiji | 71 |
-| 4 | [anav5704](https://github.com/anav5704) | Anav Chand | Fiji | 66 |
+| 4 | [anav5704](https://github.com/anav5704) | Anav Chand | Fiji | 67 |
 | 5 | [navneil-naicker](https://github.com/navneil-naicker) | Navneil Naicker | Suva City, Central, Fiji | 66 |
 | 6 | [GeekTR](https://github.com/GeekTR) | Rui Tang | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 65 |
 | 7 | [Iapa](https://github.com/Iapa) | Ava Niu | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 40 |
@@ -83,4 +83,4 @@ Indexed users: 325
 | 19 | [SMani0547](https://github.com/SMani0547) | Shiva Mani Goundar | Nadi, Fiji | 21 |
 | 20 | [aryann-7](https://github.com/aryann-7) | Aryan Singh | Suva, Fiji | 19 |
 
-Generated: 2026-10-20T07:06:38.890Z
+Generated: 2026-10-20T08:42:32.381Z

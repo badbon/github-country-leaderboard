@@ -12,11 +12,11 @@ Indexed users: 60
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [jaffadog](https://github.com/jaffadog) | Jeremy Waters | Tahanea, Tuamotus, French Polynesia | 3,840 |
+| 1 | [jaffadog](https://github.com/jaffadog) | Jeremy Waters | Tahanea, Tuamotus, French Polynesia | 3,899 |
 | 2 | [jburckel](https://github.com/jburckel) |  | French Polynesia | 3,040 |
 | 3 | [marsender](https://github.com/marsender) | Didier Corbière | French Polynesia | 2,875 |
 | 4 | [smortex](https://github.com/smortex) | Romain Tartière | Faa'a, Tahiti, French Polynesia | 1,040 |
-| 5 | [jalik](https://github.com/jalik) | Karl Stein | French Polynesia | 722 |
+| 5 | [jalik](https://github.com/jalik) | Karl Stein | French Polynesia | 734 |
 | 6 | [ch4mpy](https://github.com/ch4mpy) | Jérôme Wacongne | Papeete, French Polynesia | 501 |
 | 7 | [N1coc4colA](https://github.com/N1coc4colA) |  | French Polynesia | 467 |
 | 8 | [craff](https://github.com/craff) | Christophe Raffalli | Polynésie, Française | 428 |
@@ -83,4 +83,4 @@ Indexed users: 60
 | 19 | [TToarii](https://github.com/TToarii) | TAU Toarii | French Polynesia | 5 |
 | 20 | [geoffguillain](https://github.com/geoffguillain) | Geoff | French Polynesia | 4 |
 
-Generated: 2026-10-20T07:07:05.304Z
+Generated: 2026-10-20T08:43:52.978Z

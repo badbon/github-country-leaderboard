@@ -51,7 +51,7 @@ Indexed users: 804
 | 12 | [batdorj-s](https://github.com/batdorj-s) | batdorj | mongolia | 543 |
 | 13 | [Amartuvshins0404](https://github.com/Amartuvshins0404) | Amartuvshin Surenjav | Ulaanbaatar, Mongolia | 530 |
 | 14 | [Ar-temis](https://github.com/Ar-temis) | Temuulen Enkhtamir | Ulaanbaatar, Mongolia | 520 |
-| 15 | [munkhsaikhan](https://github.com/munkhsaikhan) | munkhsaikhan | mongolia | 507 |
+| 15 | [munkhsaikhan](https://github.com/munkhsaikhan) | munkhsaikhan | mongolia | 508 |
 | 16 | [dolgoonnn](https://github.com/dolgoonnn) | Dolgoon | Ulaanbaatar, Mongolia | 493 |
 | 17 | [zolbooo](https://github.com/zolbooo) | Oleg | Ulaanbaatar, Mongolia | 489 |
 | 18 | [Namuun0521](https://github.com/Namuun0521) | Namuun | Ulaanbaatar, Mongolia | 484 |
@@ -83,4 +83,4 @@ Indexed users: 804
 | 19 | [munkhjin0223](https://github.com/munkhjin0223) | Munkhjin | Ulaanbaatar, Mongolia | 64 |
 | 20 | [temuulennibno](https://github.com/temuulennibno) | Temuulen | Ulaanbaatar, Mongolia | 55 |
 
-Generated: 2026-10-20T07:29:16.080Z
+Generated: 2026-10-20T09:08:33.947Z
