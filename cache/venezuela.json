@@ -38820,18 +38820,6 @@
     "createdAt": "2019-05-19T04:54:51Z"
   },
   {
-    "login": "kikeztw",
-    "name": "Carlos Puente",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/49035866?s=72&u=7917c6c809916736ef876aaf95caeeefd1f62316&v=4",
-    "location": "Venezuela",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 21,
-    "privateContributions": 525,
-    "publicContributions": 57,
-    "createdAt": "2019-03-28T15:46:06Z"
-  },
-  {
     "login": "gustavosantaella",
     "name": "Gustavo Alejandro",
     "avatarUrl": "https://avatars.githubusercontent.com/u/51528255?s=72&u=98384eafde8478478a714bea556ff7bc811492ca&v=4",
@@ -38839,8 +38827,8 @@
     "company": "@softlink",
     "twitterUsername": "llxsantaellaxll",
     "followers": 21,
-    "privateContributions": 557,
-    "publicContributions": 424,
+    "privateContributions": 518,
+    "publicContributions": 414,
     "createdAt": "2019-06-09T09:12:41Z"
   },
   {
@@ -38850,9 +38838,9 @@
     "location": "Nueva Esparta, Venezuela",
     "company": "Somos Sistemas",
     "twitterUsername": "",
-    "followers": 20,
-    "privateContributions": 294,
-    "publicContributions": 29,
+    "followers": 17,
+    "privateContributions": 334,
+    "publicContributions": 31,
     "createdAt": "2019-10-16T13:58:22Z"
   },
   {
@@ -38862,7 +38850,7 @@
     "location": "Caracas, Venezuela",
     "company": "Universidad Central de Venezuela",
     "twitterUsername": "",
-    "followers": 19,
+    "followers": 21,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-11-18T23:05:21Z"
@@ -38875,8 +38863,8 @@
     "company": "ElBetaso",
     "twitterUsername": "",
     "followers": 19,
-    "privateContributions": 1975,
-    "publicContributions": 66,
+    "privateContributions": 1759,
+    "publicContributions": 41,
     "createdAt": "2019-12-26T19:27:12Z"
   },
   {
@@ -38884,11 +38872,11 @@
     "name": "Daniel Luis",
     "avatarUrl": "https://avatars.githubusercontent.com/u/53272865?s=72&u=54d67f93512a1e8903b48a1f4744ca4b92543c9f&v=4",
     "location": "Caracas, Venezuela",
-    "company": "@Habilos-AI",
+    "company": "",
     "twitterUsername": "",
-    "followers": 19,
-    "privateContributions": 50,
-    "publicContributions": 24,
+    "followers": 20,
+    "privateContributions": 117,
+    "publicContributions": 34,
     "createdAt": "2019-07-24T17:16:34Z"
   },
   {
@@ -38899,21 +38887,9 @@
     "company": "Unexpo Puerto Ordaz",
     "twitterUsername": "unx_dev",
     "followers": 19,
-    "privateContributions": 1524,
-    "publicContributions": 35,
+    "privateContributions": 1773,
+    "publicContributions": 48,
     "createdAt": "2019-06-13T22:51:01Z"
-  },
-  {
-    "login": "isturiz",
-    "name": "Mauricio Istúriz",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/57846457?s=72&u=351a34ee2976c92372c36c3023e03bafe7a0d10a&v=4",
-    "location": "Venezuela",
-    "company": "@Clodofy",
-    "twitterUsername": "",
-    "followers": 19,
-    "privateContributions": 1635,
-    "publicContributions": 224,
-    "createdAt": "2019-11-16T21:25:18Z"
   },
   {
     "login": "bellooswaldo",
@@ -38922,7 +38898,7 @@
     "location": "Venezuela",
     "company": "STB Academy",
     "twitterUsername": "bellooswaldo",
-    "followers": 19,
+    "followers": 21,
     "privateContributions": 124,
     "publicContributions": 80,
     "createdAt": "2019-04-15T12:08:58Z"
@@ -38934,7 +38910,7 @@
     "location": "Venezuela",
     "company": "",
     "twitterUsername": "",
-    "followers": 18,
+    "followers": 16,
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2019-07-16T18:45:00Z"
@@ -38946,7 +38922,7 @@
     "location": "Valencia, Venezuela",
     "company": "",
     "twitterUsername": "",
-    "followers": 18,
+    "followers": 16,
     "privateContributions": 0,
     "publicContributions": 5,
     "createdAt": "2019-06-08T16:18:50Z"
@@ -38958,9 +38934,9 @@
     "location": "Venezuela",
     "company": "",
     "twitterUsername": "diego_hinagas",
-    "followers": 18,
+    "followers": 15,
     "privateContributions": 4,
-    "publicContributions": 45,
+    "publicContributions": 43,
     "createdAt": "2019-03-13T19:20:15Z"
   },
   {
@@ -38970,9 +38946,9 @@
     "location": "Caracas, Venezuela",
     "company": "",
     "twitterUsername": "shockiu",
-    "followers": 18,
+    "followers": 16,
     "privateContributions": 1,
-    "publicContributions": 317,
+    "publicContributions": 353,
     "createdAt": "2019-12-27T16:53:28Z"
   },
   {
@@ -38982,9 +38958,9 @@
     "location": "Caracas/Venezuela",
     "company": "",
     "twitterUsername": "",
-    "followers": 17,
-    "privateContributions": 177,
-    "publicContributions": 11,
+    "followers": 20,
+    "privateContributions": 169,
+    "publicContributions": 0,
     "createdAt": "2019-07-29T18:32:59Z"
   },
   {
@@ -38995,8 +38971,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 17,
-    "privateContributions": 21,
-    "publicContributions": 14,
+    "privateContributions": 45,
+    "publicContributions": 13,
     "createdAt": "2019-03-19T19:37:50Z"
   },
   {
@@ -39006,9 +38982,9 @@
     "location": "Venezuela",
     "company": "",
     "twitterUsername": "",
-    "followers": 17,
-    "privateContributions": 114,
-    "publicContributions": 1,
+    "followers": 16,
+    "privateContributions": 129,
+    "publicContributions": 6,
     "createdAt": "2019-08-24T10:30:50Z"
   },
   {
@@ -39018,8 +38994,8 @@
     "location": "Venezuela",
     "company": "",
     "twitterUsername": "",
-    "followers": 17,
-    "privateContributions": 1109,
+    "followers": 19,
+    "privateContributions": 2609,
     "publicContributions": 4,
     "createdAt": "2019-05-20T20:38:38Z"
   },
@@ -39030,9 +39006,9 @@
     "location": "Venezuela",
     "company": "",
     "twitterUsername": "i_am_campus",
-    "followers": 16,
-    "privateContributions": 5474,
-    "publicContributions": 31,
+    "followers": 18,
+    "privateContributions": 5912,
+    "publicContributions": 30,
     "createdAt": "2019-04-21T19:49:55Z"
   },
   {
@@ -39042,9 +39018,9 @@
     "location": "Venezuela",
     "company": "",
     "twitterUsername": "",
-    "followers": 16,
-    "privateContributions": 44,
-    "publicContributions": 8,
+    "followers": 14,
+    "privateContributions": 82,
+    "publicContributions": 10,
     "createdAt": "2019-09-27T01:23:48Z"
   },
   {
@@ -39055,7 +39031,7 @@
     "company": "Ciph3r",
     "twitterUsername": "",
     "followers": 16,
-    "privateContributions": 65,
+    "privateContributions": 96,
     "publicContributions": 26,
     "createdAt": "2019-08-15T04:01:04Z"
   },

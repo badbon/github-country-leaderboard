@@ -39127,7 +39127,7 @@
     "company": "Tabby",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 80,
+    "privateContributions": 73,
     "publicContributions": 60,
     "createdAt": "2015-07-09T14:45:40Z"
   },
@@ -39151,7 +39151,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
+    "privateContributions": 296,
     "publicContributions": 0,
     "createdAt": "2015-11-20T14:26:55Z"
   },
@@ -39211,7 +39211,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 57,
+    "privateContributions": 64,
     "publicContributions": 3,
     "createdAt": "2015-04-27T10:34:01Z"
   },
@@ -39224,7 +39224,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 17,
-    "publicContributions": 160,
+    "publicContributions": 3157,
     "createdAt": "2015-02-26T11:25:37Z"
   },
   {
@@ -39234,22 +39234,10 @@
     "location": "Armenia, Yerevan",
     "company": "meanmail.dev",
     "twitterUsername": "meanmaildev",
-    "followers": 586,
-    "privateContributions": 10253,
-    "publicContributions": 467,
+    "followers": 609,
+    "privateContributions": 12694,
+    "publicContributions": 455,
     "createdAt": "2014-12-26T05:46:01Z"
-  },
-  {
-    "login": "gildor2",
-    "name": "Konstantin Nosov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/7008904?s=72&u=0b81f5c5194cc3b86d38ff71a2d3e0c7a9011263&v=4",
-    "location": "Armenia",
-    "company": "",
-    "twitterUsername": "UGildor",
-    "followers": 414,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2014-03-20T08:52:36Z"
   },
   {
     "login": "vah13",
@@ -39258,8 +39246,8 @@
     "location": "Armenia, Yerevan",
     "company": "RedRays",
     "twitterUsername": "vah_13",
-    "followers": 199,
-    "privateContributions": 864,
+    "followers": 203,
+    "privateContributions": 763,
     "publicContributions": 26,
     "createdAt": "2014-06-24T14:30:32Z"
   },
@@ -39270,8 +39258,8 @@
     "location": "Armenia / Yerevan",
     "company": "@Darieh",
     "twitterUsername": "truemoein",
-    "followers": 178,
-    "privateContributions": 2805,
+    "followers": 181,
+    "privateContributions": 4961,
     "publicContributions": 66,
     "createdAt": "2014-03-24T06:45:54Z"
   },
@@ -39282,9 +39270,9 @@
     "location": "Yerevan, Armenia",
     "company": "Factually Health",
     "twitterUsername": "",
-    "followers": 166,
-    "privateContributions": 233,
-    "publicContributions": 139,
+    "followers": 169,
+    "privateContributions": 263,
+    "publicContributions": 184,
     "createdAt": "2014-05-16T17:47:41Z"
   },
   {
@@ -39294,9 +39282,9 @@
     "location": "Armenia",
     "company": "",
     "twitterUsername": "vardanator_pi",
-    "followers": 132,
-    "privateContributions": 174,
-    "publicContributions": 30,
+    "followers": 131,
+    "privateContributions": 137,
+    "publicContributions": 34,
     "createdAt": "2014-12-16T11:00:23Z"
   },
   {
@@ -39308,19 +39296,19 @@
     "twitterUsername": "",
     "followers": 103,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 32,
     "createdAt": "2014-08-03T04:59:48Z"
   },
   {
     "login": "jsgiraldoh",
-    "name": "Johan Giraldo",
+    "name": "Johan Sebastian Giraldo Hurtado",
     "avatarUrl": "https://avatars.githubusercontent.com/u/8978140?s=72&u=11fb59044504216d0eb3b61987ab4978b2f3d2c9&v=4",
     "location": "Armenia, Quindío, Colombia",
     "company": "",
     "twitterUsername": "jsgiraldoh",
-    "followers": 97,
+    "followers": 98,
     "privateContributions": 1,
-    "publicContributions": 24,
+    "publicContributions": 26,
     "createdAt": "2014-09-30T23:16:24Z"
   },
   {
@@ -39330,9 +39318,9 @@
     "location": "Yerevan, Armenia",
     "company": "@brightdata",
     "twitterUsername": "saionaro",
-    "followers": 94,
-    "privateContributions": 592,
-    "publicContributions": 110,
+    "followers": 91,
+    "privateContributions": 576,
+    "publicContributions": 22,
     "createdAt": "2014-06-05T17:58:16Z"
   },
   {
@@ -39342,9 +39330,9 @@
     "location": "Armenia",
     "company": "@thefrontside",
     "twitterUsername": "wkichdev",
-    "followers": 88,
-    "privateContributions": 748,
-    "publicContributions": 6995,
+    "followers": 87,
+    "privateContributions": 1968,
+    "publicContributions": 9338,
     "createdAt": "2014-01-14T08:51:27Z"
   },
   {
@@ -39354,9 +39342,9 @@
     "location": "Armenia 🇦🇲",
     "company": "",
     "twitterUsername": "",
-    "followers": 73,
-    "privateContributions": 118,
-    "publicContributions": 225,
+    "followers": 75,
+    "privateContributions": 149,
+    "publicContributions": 337,
     "createdAt": "2014-03-12T21:23:48Z"
   },
   {

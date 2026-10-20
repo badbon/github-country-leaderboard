@@ -728,7 +728,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 95,
+    "publicContributions": 94,
     "createdAt": "2024-07-09T15:29:23Z"
   },
   {
@@ -739,8 +739,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 333,
-    "publicContributions": 143,
+    "privateContributions": 328,
+    "publicContributions": 160,
     "createdAt": "2024-12-04T14:15:02Z"
   },
   {
@@ -751,8 +751,8 @@
     "company": "@NIB-SI ",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 53,
-    "publicContributions": 9,
+    "privateContributions": 54,
+    "publicContributions": 5,
     "createdAt": "2024-05-18T14:23:02Z"
   },
   {
@@ -762,9 +762,9 @@
     "location": "Slovenia",
     "company": "RTV Slovenija",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 21,
     "createdAt": "2024-04-30T11:01:23Z"
   },
   {
@@ -787,7 +787,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 193,
+    "privateContributions": 230,
     "publicContributions": 143,
     "createdAt": "2024-04-04T10:56:19Z"
   },
@@ -823,7 +823,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 1114,
+    "privateContributions": 1297,
     "publicContributions": 43,
     "createdAt": "2024-11-15T18:37:05Z"
   },
@@ -836,7 +836,7 @@
     "twitterUsername": "jesusyusdiez",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 198,
+    "publicContributions": 199,
     "createdAt": "2024-05-09T08:51:34Z"
   },
   {
@@ -859,21 +859,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 11,
-    "publicContributions": 8,
+    "privateContributions": 6,
+    "publicContributions": 6,
     "createdAt": "2024-03-14T11:55:21Z"
-  },
-  {
-    "login": "skullhunter124",
-    "name": "Kevin Markoja",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/169676942?s=72&v=4",
-    "location": "Slovenia, Europe",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 77,
-    "createdAt": "2024-05-13T13:40:00Z"
   },
   {
     "login": "TheAmenophis",
@@ -931,7 +919,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 318,
+    "privateContributions": 285,
     "publicContributions": 1,
     "createdAt": "2024-10-01T12:13:12Z"
   },
@@ -942,7 +930,7 @@
     "location": "Slovenia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 38,
     "createdAt": "2024-12-24T15:21:59Z"
@@ -955,8 +943,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 20,
-    "publicContributions": 29,
+    "privateContributions": 15,
+    "publicContributions": 32,
     "createdAt": "2024-09-30T14:14:15Z"
   },
   {
