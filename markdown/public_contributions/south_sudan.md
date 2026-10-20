@@ -1,6 +1,6 @@
 # Public Contributions - South Sudan
 
-Generated: 2026-10-20T03:07:46.527Z
+Generated: 2026-10-20T06:22:26.252Z
 
 Users: 132
 
@@ -22,7 +22,7 @@ Users: 132
 | 14 | [nhial-cham](https://github.com/nhial-cham) | Nhial Cham |  | NhialCham | Juba, South Sudan | 273 |
 | 15 | [Yel-Mangok](https://github.com/Yel-Mangok) |  | TechPro |  | South Sudan | 271 |
 | 16 | [felixuxx](https://github.com/felixuxx) | ... |  |  | Juba, South Sudan | 268 |
-| 17 | [Wai-Mike](https://github.com/Wai-Mike) | Wai Michael Kat | climaware |  | South Sudan | 250 |
-| 18 | [Konson22](https://github.com/Konson22) | Kon Akech | Miles global Link | konsonak | South Sudan | 243 |
+| 17 | [Konson22](https://github.com/Konson22) | Kon Akech | Miles global Link | konsonak | South Sudan | 243 |
+| 18 | [Wai-Mike](https://github.com/Wai-Mike) | Wai Michael Kat | climaware |  | South Sudan | 235 |
 | 19 | [joseph-akaro](https://github.com/joseph-akaro) | Joseph Akaro | Turning Point Innovation Limited |  | Juba | 208 |
 | 20 | [JackPhilpott](https://github.com/JackPhilpott) | Jack Philpott | Impact Initiatsive |  | Juba, South Sudan | 182 |
