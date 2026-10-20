@@ -1,19 +1,19 @@
 # Public Contributions - Niger
 
-Generated: 2026-10-19T17:59:22.952Z
+Generated: 2026-10-19T23:58:08.644Z
 
 Users: 175
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [Yacine-ai-tech](https://github.com/Yacine-ai-tech) | Seybou Siddo Yacine |  |  | Niamey, Niger | 6487 |
-| 2 | [akaletekoffilevis](https://github.com/akaletekoffilevis) | akaletekoffilevis | None |  | Niger/Niamey | 1831 |
+| 2 | [akaletekoffilevis](https://github.com/akaletekoffilevis) | akaletekoffilevis | None |  | Niger/Niamey | 1832 |
 | 3 | [kodjodevf](https://github.com/kodjodevf) | Moustapha Kodjo Amadou |  | kodjodevf | Niamey,Niger | 1159 |
 | 4 | [FadelMamar](https://github.com/FadelMamar) | Fadel |  |  | Niger | 1053 |
 | 5 | [Ismail0u](https://github.com/Ismail0u) | Ismael |  |  | Niamey & Lomé | 573 |
 | 6 | [netmophus](https://github.com/netmophus) | NETMORPHUS | www.techpart. | netmorphus | Niamey | 495 |
 | 7 | [Transega](https://github.com/Transega) | Collins Asega Amadala  | @omdena | asega_collins | Niamey Niger | 383 |
-| 8 | [debugAyo](https://github.com/debugAyo) | Ayomide Olajide | Federal University Of Technology, Minna |  | Niger | 265 |
+| 8 | [debugAyo](https://github.com/debugAyo) | Ayomide Olajide | Federal University Of Technology, Minna |  | Niger | 275 |
 | 9 | [hmandela](https://github.com/hmandela) | Mandela HOUNGNIBO | @AGRHYMET | hmandela | Niamey, NIGER | 229 |
 | 10 | [Kounou25](https://github.com/Kounou25) | Kounou Gilbert | @qwiper  @Osirion-IA  |  | Niamey,Niger | 205 |
 | 11 | [AbdelkaderYS](https://github.com/AbdelkaderYS) | Abdel Kader Younoussi Saley |  |  | Niamey | 194 |

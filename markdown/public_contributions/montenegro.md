@@ -1,6 +1,6 @@
 # Public Contributions - Montenegro
 
-Generated: 2026-10-19T17:53:29.074Z
+Generated: 2026-10-19T23:54:32.068Z
 
 Users: 888
 
@@ -12,10 +12,10 @@ Users: 888
 | 4 | [recursion128](https://github.com/recursion128) | DDDDOGE |  |  | Crna Gora | 4869 |
 | 5 | [Timev](https://github.com/Timev) | Evgenii Timofeev |  |  | Montenegro | 4251 |
 | 6 | [KonstZiv](https://github.com/KonstZiv) | Константин Зивенко | ExSol |  | Montenegro, Herzeg-Novi | 3473 |
-| 7 | [potapenko](https://github.com/potapenko) | Eugene Potapenko | Playphrase.me |  | Montenegro | 3168 |
-| 8 | [AndreyTalanin0x00](https://github.com/AndreyTalanin0x00) | Andrey Talanin |  |  | Podgorica, Montenegro | 2992 |
-| 9 | [lacodda](https://github.com/lacodda) | Kirill Lakhtachev | lacodda |  | Montenegro | 2678 |
-| 10 | [Fooftilly](https://github.com/Fooftilly) | Nikola Perović |  |  | Montenegro | 2378 |
+| 7 | [Fooftilly](https://github.com/Fooftilly) | Nikola Perović |  |  | Montenegro | 3251 |
+| 8 | [potapenko](https://github.com/potapenko) | Eugene Potapenko | Playphrase.me |  | Montenegro | 3168 |
+| 9 | [AndreyTalanin0x00](https://github.com/AndreyTalanin0x00) | Andrey Talanin |  |  | Podgorica, Montenegro | 2992 |
+| 10 | [lacodda](https://github.com/lacodda) | Kirill Lakhtachev | lacodda |  | Montenegro | 2678 |
 | 11 | [histrio](https://github.com/histrio) | Rinat Sabitov | CloudLinux |  | Montenegro | 2217 |
 | 12 | [Xaaalera](https://github.com/Xaaalera) | Roman Maslennikov | Nord Beaver |  | Montenegro | 1970 |
 | 13 | [stefashkaa](https://github.com/stefashkaa) | Stefan Popov | @DeSource-Labs |  | Montenegro, Budva | 1829 |

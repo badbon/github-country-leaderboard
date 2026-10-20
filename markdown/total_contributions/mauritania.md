@@ -1,6 +1,6 @@
 # Total Contributions - Mauritania
 
-Generated: 2026-10-19T17:51:02.882Z
+Generated: 2026-10-19T23:50:34.896Z
 
 Users: 289
 
@@ -22,7 +22,7 @@ Users: 289
 | 14 | [va0000ll](https://github.com/va0000ll) | mohamedvall ibrahim |  | medvall_mr | Nouakchott, Mauritania | 1788 |
 | 15 | [sons-of-titus](https://github.com/sons-of-titus) | Mourad Abdellahi | Cato Systems | compiler_a | Mauritania | 1713 |
 | 16 | [Mohamed-Beirouk](https://github.com/Mohamed-Beirouk) | Mohamed Mohamed Beirouk | Student at iscae |  | Mauritania | 1534 |
-| 17 | [cheikh-sadbouh](https://github.com/cheikh-sadbouh) | J-developer |  |  | Mauritania | 1349 |
-| 18 | [LhacenMed](https://github.com/LhacenMed) | Lhacen Med |  |  | Nouakchott, Mauritania | 1332 |
+| 17 | [LhacenMed](https://github.com/LhacenMed) | Lhacen Med |  |  | Nouakchott, Mauritania | 1370 |
+| 18 | [cheikh-sadbouh](https://github.com/cheikh-sadbouh) | J-developer |  |  | Mauritania | 1349 |
 | 19 | [MedAb94](https://github.com/MedAb94) | Medab Vall | Joujou Services  |  | Nouakchott | 1016 |
 | 20 | [aadeina](https://github.com/aadeina) | Amar |  |  | Mauritania | 856 |

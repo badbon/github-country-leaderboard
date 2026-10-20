@@ -17,9 +17,9 @@ Indexed users: 75
 | 3 | [diasjorge](https://github.com/diasjorge) | Jorge Dias | Martinique | 5,089 |
 | 4 | [GuillaumeBld](https://github.com/GuillaumeBld) | Guillaume Bolivard | Chicago / Fort-de-France | 4,551 |
 | 5 | [bolom](https://github.com/bolom) | Bolo Michelin | Martinique | 3,134 |
-| 6 | [docVoid](https://github.com/docVoid) | void216 | Martinique | 1,503 |
+| 6 | [docVoid](https://github.com/docVoid) | void216 | Martinique | 1,510 |
 | 7 | [p4cm4n972](https://github.com/p4cm4n972) | Manuel ADELE | Martinique | 1,105 |
-| 8 | [R3tr8](https://github.com/R3tr8) | Franck-Emmanuel | Martinique | 942 |
+| 8 | [R3tr8](https://github.com/R3tr8) | Franck-Emmanuel | Martinique | 1,003 |
 | 9 | [esrid](https://github.com/esrid) | ADS | Martinique | 940 |
 | 10 | [vevedh](https://github.com/vevedh) | Hervé de CHAVIGNY | Martinique | 805 |
 | 11 | [LePtitBiscuit](https://github.com/LePtitBiscuit) | LePtitBiscuit | Martinique | 800 |
@@ -83,4 +83,4 @@ Indexed users: 75
 | 19 | [LePtitBiscuit](https://github.com/LePtitBiscuit) | LePtitBiscuit | Martinique | 6 |
 | 20 | [phnxtrill](https://github.com/phnxtrill) | Quentin | Fort-de-France, Martinique | 6 |
 
-Generated: 2026-10-19T17:50:59.126Z
+Generated: 2026-10-19T23:50:28.838Z

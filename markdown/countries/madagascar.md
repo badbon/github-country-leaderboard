@@ -56,7 +56,7 @@ Indexed users: 1,903
 | 17 | [hrtsx](https://github.com/hrtsx) | Harena Hirintsoa | Antananarivo, Madagascar | 1,553 |
 | 18 | [MaminirinaEdwino](https://github.com/MaminirinaEdwino) | Edwino maminirina | Madagascar | 1,530 |
 | 19 | [MamitianaAntonio](https://github.com/MamitianaAntonio) | Antonio | Antananarivo, MADAGASCAR | 1,527 |
-| 20 | [tokimanana](https://github.com/tokimanana) | ANDRIAMBOLOLONA Tokimanana Samuel Sarobidy | Fianarantsoa, Madagascar | 1,413 |
+| 20 | [Noahmathieu](https://github.com/Noahmathieu) | Noah ANDRIANANTENAINA | Madagascar | 1,406 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,903
 | 19 | [tokyramarozaka](https://github.com/tokyramarozaka) | Tokimahery | Madagascar | 143 |
 | 20 | [luckasRanarison](https://github.com/luckasRanarison) | Luckas | Antananarivo, Madagascar | 141 |
 
-Generated: 2026-10-19T17:48:32.309Z
+Generated: 2026-10-19T23:49:01.974Z

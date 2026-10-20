@@ -28,8 +28,8 @@ Indexed users: 289
 | 14 | [va0000ll](https://github.com/va0000ll) | mohamedvall ibrahim | Nouakchott, Mauritania | 1,788 |
 | 15 | [sons-of-titus](https://github.com/sons-of-titus) | Mourad Abdellahi | Mauritania | 1,713 |
 | 16 | [Mohamed-Beirouk](https://github.com/Mohamed-Beirouk) | Mohamed Mohamed Beirouk | Mauritania | 1,534 |
-| 17 | [cheikh-sadbouh](https://github.com/cheikh-sadbouh) | J-developer | Mauritania | 1,349 |
-| 18 | [LhacenMed](https://github.com/LhacenMed) | Lhacen Med | Nouakchott, Mauritania | 1,332 |
+| 17 | [LhacenMed](https://github.com/LhacenMed) | Lhacen Med | Nouakchott, Mauritania | 1,370 |
+| 18 | [cheikh-sadbouh](https://github.com/cheikh-sadbouh) | J-developer | Mauritania | 1,349 |
 | 19 | [MedAb94](https://github.com/MedAb94) | Medab Vall | Nouakchott | 1,016 |
 | 20 | [aadeina](https://github.com/aadeina) | Amar | Mauritania | 856 |
 
@@ -83,4 +83,4 @@ Indexed users: 289
 | 19 | [mbareck7](https://github.com/mbareck7) | mbar3ck7 | Mauritania, Nouakchott | 25 |
 | 20 | [Mohamed-Beirouk](https://github.com/Mohamed-Beirouk) | Mohamed Mohamed Beirouk | Mauritania | 23 |
 
-Generated: 2026-10-19T17:51:02.882Z
+Generated: 2026-10-19T23:50:34.896Z

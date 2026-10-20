@@ -54,9 +54,9 @@ Indexed users: 1,272
 | 15 | [markoskatsi](https://github.com/markoskatsi) | Markos Katsi | Kingston Upon Thames | 748 |
 | 16 | [kfrancis](https://github.com/kfrancis) | Kori Francis | Kingston, Ontario | 668 |
 | 17 | [Patric-1613](https://github.com/Patric-1613) | Pratikraj Pavankumar Mugade | Kingston upon thames | 654 |
-| 18 | [HughScott2002](https://github.com/HughScott2002) | Hugh Scott | Kingston, Jamaica  | 639 |
-| 19 | [JonCooperWorks](https://github.com/JonCooperWorks) |  | Jamaica | 634 |
-| 20 | [lord-dubious](https://github.com/lord-dubious) | Lord_dubious | Kingston, ON | 624 |
+| 18 | [JonCooperWorks](https://github.com/JonCooperWorks) |  | Jamaica | 634 |
+| 19 | [lord-dubious](https://github.com/lord-dubious) | Lord_dubious | Kingston, ON | 624 |
+| 20 | [HughScott2002](https://github.com/HughScott2002) | Hugh Scott | Kingston, Jamaica  | 616 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,272
 | 19 | [aliasad059](https://github.com/aliasad059) | Ali Asad | Kingston, Ontario | 100 |
 | 20 | [andrewmaier](https://github.com/andrewmaier) | Andrew Maier | Kingston, Ontario | 95 |
 
-Generated: 2026-10-19T17:41:48.835Z
+Generated: 2026-10-19T23:42:40.631Z

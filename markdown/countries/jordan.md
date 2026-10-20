@@ -75,7 +75,7 @@ Indexed users: 4,005
 | 11 | [AliOsm](https://github.com/AliOsm) | Ali Hamdi Ali Fadel | Amman - Jordan | 427 |
 | 12 | [NSAntoine](https://github.com/NSAntoine) | NSAntoine | Amman, Jordan | 389 |
 | 13 | [OmarSalhab](https://github.com/OmarSalhab) | Omar Marouf | Jordan | 372 |
-| 14 | [nancyalaswad90](https://github.com/nancyalaswad90) | Ms. Nancy Al Aswad  | Jordan | 328 |
+| 14 | [nancyalaswad90](https://github.com/nancyalaswad90) | Ms. Nancy Al Aswad  | Jordan | 329 |
 | 15 | [Hamza-Abdulrahman](https://github.com/Hamza-Abdulrahman) | Hamza Abdulrahman | Jordan,Amman | 299 |
 | 16 | [muayyad-alsadi](https://github.com/muayyad-alsadi) | Muayyad Alsadi | Jordan | 258 |
 | 17 | [OmarAzizi](https://github.com/OmarAzizi) | Kryptonite | Amman, Jordan | 246 |
@@ -83,4 +83,4 @@ Indexed users: 4,005
 | 19 | [Eng-Mohamed-Elsayed](https://github.com/Eng-Mohamed-Elsayed) | Eng-Mohamed Elsayed | Jordan | 197 |
 | 20 | [omar-dulaimi](https://github.com/omar-dulaimi) | Omar Dulaimi | Jordan | 192 |
 
-Generated: 2026-10-19T17:42:34.376Z
+Generated: 2026-10-19T23:43:32.030Z

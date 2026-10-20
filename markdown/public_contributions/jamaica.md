@@ -1,6 +1,6 @@
 # Public Contributions - Jamaica
 
-Generated: 2026-10-19T17:41:48.835Z
+Generated: 2026-10-19T23:42:40.631Z
 
 Users: 1272
 
@@ -23,6 +23,6 @@ Users: 1272
 | 15 | [markoskatsi](https://github.com/markoskatsi) | Markos Katsi |  |  | Kingston Upon Thames | 748 |
 | 16 | [kfrancis](https://github.com/kfrancis) | Kori Francis | Clinical Support Systems | djbyter | Kingston, Ontario | 668 |
 | 17 | [Patric-1613](https://github.com/Patric-1613) | Pratikraj Pavankumar Mugade |  |  | Kingston upon thames | 654 |
-| 18 | [HughScott2002](https://github.com/HughScott2002) | Hugh Scott |  | hughscottjr | Kingston, Jamaica  | 639 |
-| 19 | [JonCooperWorks](https://github.com/JonCooperWorks) |  |  | joncooperworks | Jamaica | 634 |
-| 20 | [lord-dubious](https://github.com/lord-dubious) | Lord_dubious |  | lord_dubious | Kingston, ON | 624 |
+| 18 | [JonCooperWorks](https://github.com/JonCooperWorks) |  |  | joncooperworks | Jamaica | 634 |
+| 19 | [lord-dubious](https://github.com/lord-dubious) | Lord_dubious |  | lord_dubious | Kingston, ON | 624 |
+| 20 | [HughScott2002](https://github.com/HughScott2002) | Hugh Scott |  | hughscottjr | Kingston, Jamaica  | 616 |

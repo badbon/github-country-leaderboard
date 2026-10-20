@@ -1,6 +1,6 @@
 # Ghana
 
-Indexed users: 7,080
+Indexed users: 7,078
 
 | Leaderboard | Link |
 |---|---|
@@ -20,7 +20,7 @@ Indexed users: 7,080
 | 6 | [lutheralien](https://github.com/lutheralien) | Luther Essum | Ghana | 16,506 |
 | 7 | [mhiskall282](https://github.com/mhiskall282) | John Okyere | Accra Ghana | 15,891 |
 | 8 | [Gideon-Dadey](https://github.com/Gideon-Dadey) | Gideon Dadey | Accra, Ghana | 15,633 |
-| 9 | [felixyeboah](https://github.com/felixyeboah) | Felix Nana Yaw Yeboah | Accra, Ghana | 12,739 |
+| 9 | [felixyeboah](https://github.com/felixyeboah) | Felix Nana Yaw Yeboah | Accra, Ghana | 14,507 |
 | 10 | [Philinzag](https://github.com/Philinzag) | Philip A. | Ghana | 10,626 |
 | 11 | [DreKwasi](https://github.com/DreKwasi) | Andrews Boateng | Accra, Ghana | 10,142 |
 | 12 | [qbentil](https://github.com/qbentil) | Bentil Shadrack | Ghana | 9,624 |
@@ -83,4 +83,4 @@ Indexed users: 7,080
 | 19 | [Mmabiaa](https://github.com/Mmabiaa) | Boateng Prince Agyenim | Ghana | 326 |
 | 20 | [sedegah](https://github.com/sedegah) | Kimathi  Sedegah | Ghana | 310 |
 
-Generated: 2026-10-19T17:31:07.728Z
+Generated: 2026-10-19T23:34:16.244Z

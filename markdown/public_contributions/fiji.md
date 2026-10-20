@@ -1,6 +1,6 @@
 # Public Contributions - Fiji
 
-Generated: 2026-10-19T17:29:40.352Z
+Generated: 2026-10-19T23:31:07.751Z
 
 Users: 325
 
@@ -13,9 +13,9 @@ Users: 325
 | 5 | [SMani0547](https://github.com/SMani0547) | Shiva Mani Goundar | Counterpoint Group |  | Nadi, Fiji | 427 |
 | 6 | [alexwoo79](https://github.com/alexwoo79) | Alex_Woo | Zenaida Orn Company |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 310 |
 | 7 | [aryann-7](https://github.com/aryann-7) | Aryan Singh | The University of the South Pacific |  | Suva, Fiji | 283 |
-| 8 | [SRVSRR](https://github.com/SRVSRR) | Rohan Nandan | University of the South Pacific | SRVSRR | Fiji | 261 |
-| 9 | [codeshareman](https://github.com/codeshareman) | Z° North | Zenaida Orn Company |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 243 |
-| 10 | [Lagilava](https://github.com/Lagilava) | Lagilava Paulo |  |  | Fiji | 218 |
+| 8 | [Lagilava](https://github.com/Lagilava) | Lagilava Paulo |  |  | Fiji | 261 |
+| 9 | [SRVSRR](https://github.com/SRVSRR) | Rohan Nandan | University of the South Pacific | SRVSRR | Fiji | 261 |
+| 10 | [codeshareman](https://github.com/codeshareman) | Z° North | Zenaida Orn Company |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 243 |
 | 11 | [grey0758](https://github.com/grey0758) | 徐业辉 | Zenaida Orn Company |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 212 |
 | 12 | [rudrprasad05](https://github.com/rudrprasad05) | Rudr Prasad | Procyon |  | Fiji | 203 |
 | 13 | [Geekmaxxer](https://github.com/Geekmaxxer) | Pew |  |  | Fiji | 198 |

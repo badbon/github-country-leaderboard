@@ -1,6 +1,6 @@
 # Total Contributions - North Macedonia
 
-Generated: 2026-10-19T18:02:12.162Z
+Generated: 2026-10-19T23:59:46.335Z
 
 Users: 1924
 
@@ -12,7 +12,7 @@ Users: 1924
 | 4 | [DarkoMK](https://github.com/DarkoMK) | Darko Cebov |  |  | Kochani, Macedonia | 9136 |
 | 5 | [nushkovg](https://github.com/nushkovg) | Goran Nushkov |  |  | Skopje, North Macedonia | 7086 |
 | 6 | [davorminchorov](https://github.com/davorminchorov) | Davor Minchorov |  | davorminchorov | Skopje, Macedonia | 6675 |
-| 7 | [andrejsshell](https://github.com/andrejsshell) | Andrej | @usekaneo | andrejsshell | Skopje | 6054 |
+| 7 | [andrejsshell](https://github.com/andrejsshell) | Andrej | @usekaneo | andrejsshell | Skopje | 6259 |
 | 8 | [sasojadrovski](https://github.com/sasojadrovski) | Sasho Jadrovski |  | sasojadrovski | Skopje, Macedonia | 5666 |
 | 9 | [markopetrov1](https://github.com/markopetrov1) | Marko Petrov | @iCardioAI |  | Skopje, Macedonia | 5388 |
 | 10 | [simeonmarkoski](https://github.com/simeonmarkoski) | Simeon Markoski | @silyze |  | Skopje, Macedonia | 5204 |

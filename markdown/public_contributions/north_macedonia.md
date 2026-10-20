@@ -1,6 +1,6 @@
 # Public Contributions - North Macedonia
 
-Generated: 2026-10-19T18:02:12.162Z
+Generated: 2026-10-19T23:59:46.335Z
 
 Users: 1924
 
@@ -12,8 +12,8 @@ Users: 1924
 | 4 | [tino097](https://github.com/tino097) | Konstantin Sivakov | @MindsDB | tino097 | Bitola, North Macedonia | 1829 |
 | 5 | [oliverlaz](https://github.com/oliverlaz) | Oliver Lazoroski | @GetStream | _oliverlaz | Skopje, Macedonia | 1511 |
 | 6 | [ZoranPandovski](https://github.com/ZoranPandovski) | Zoran Pandovski | @mindsdb | ZoranPandovski | Bitola, North Macedonia | 1358 |
-| 7 | [ivasilov](https://github.com/ivasilov) | Ivan Vasilov | @supabase |  | Skopje, Macedonia | 1171 |
-| 8 | [andrejsshell](https://github.com/andrejsshell) | Andrej | @usekaneo | andrejsshell | Skopje | 1147 |
+| 7 | [andrejsshell](https://github.com/andrejsshell) | Andrej | @usekaneo | andrejsshell | Skopje | 1202 |
+| 8 | [ivasilov](https://github.com/ivasilov) | Ivan Vasilov | @supabase |  | Skopje, Macedonia | 1171 |
 | 9 | [VelikovPetar](https://github.com/VelikovPetar) | Petar Velikov | @GetStream |  | Skopje, Republic of Macedonia | 1076 |
 | 10 | [EienMosu](https://github.com/EienMosu) | Ozkan Selcuk |  |  | North Macedonia/Skopje | 1054 |
 | 11 | [martintrifunov](https://github.com/martintrifunov) | Martin Trifunov | CodeChem |  | Skopje, North Macedonia | 1008 |

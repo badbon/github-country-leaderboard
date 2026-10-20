@@ -1,6 +1,6 @@
 # Followers - Jordan
 
-Generated: 2026-10-19T17:42:34.376Z
+Generated: 2026-10-19T23:43:32.030Z
 
 Users: 4005
 
@@ -19,7 +19,7 @@ Users: 4005
 | 11 | [AliOsm](https://github.com/AliOsm) | Ali Hamdi Ali Fadel | MilkStraw AI | alihfadel | Amman - Jordan | 427 |
 | 12 | [NSAntoine](https://github.com/NSAntoine) | NSAntoine |  |  | Amman, Jordan | 389 |
 | 13 | [OmarSalhab](https://github.com/OmarSalhab) | Omar Marouf |  | MoonWebsDev | Jordan | 372 |
-| 14 | [nancyalaswad90](https://github.com/nancyalaswad90) | Ms. Nancy Al Aswad  | Independent Contractor  | AswadNancy | Jordan | 328 |
+| 14 | [nancyalaswad90](https://github.com/nancyalaswad90) | Ms. Nancy Al Aswad  | Independent Contractor  | AswadNancy | Jordan | 329 |
 | 15 | [Hamza-Abdulrahman](https://github.com/Hamza-Abdulrahman) | Hamza Abdulrahman |  | R1DDIF | Jordan,Amman | 299 |
 | 16 | [muayyad-alsadi](https://github.com/muayyad-alsadi) | Muayyad Alsadi | @OpenSooq  |  | Jordan | 258 |
 | 17 | [OmarAzizi](https://github.com/OmarAzizi) | Kryptonite | @jordanopensource |  | Amman, Jordan | 246 |

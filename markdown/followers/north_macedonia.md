@@ -1,6 +1,6 @@
 # Followers - North Macedonia
 
-Generated: 2026-10-19T18:02:12.162Z
+Generated: 2026-10-19T23:59:46.335Z
 
 Users: 1924
 
@@ -19,8 +19,8 @@ Users: 1924
 | 11 | [MTrajK](https://github.com/MTrajK) | Meto Trajkovski |  |  | Skopje | 215 |
 | 12 | [hf](https://github.com/hf) | Stojan Dimitrovski | @supabase |  | Skopje, Republic of North Macedonia | 201 |
 | 13 | [davorminchorov](https://github.com/davorminchorov) | Davor Minchorov |  | davorminchorov | Skopje, Macedonia | 186 |
-| 14 | [visar](https://github.com/visar) | Visar Zejnullahu |  |  | Skopje, Macedonia | 180 |
-| 15 | [andrejsshell](https://github.com/andrejsshell) | Andrej | @usekaneo | andrejsshell | Skopje | 179 |
+| 14 | [andrejsshell](https://github.com/andrejsshell) | Andrej | @usekaneo | andrejsshell | Skopje | 180 |
+| 15 | [visar](https://github.com/visar) | Visar Zejnullahu |  |  | Skopje, Macedonia | 180 |
 | 16 | [MatejMecka](https://github.com/MatejMecka) | Matej Plavevski | @CCExtractor |  | Skopje, Macedonia | 178 |
 | 17 | [eritislami](https://github.com/eritislami) | Erit Islami | @OrangeMelons |  | Struga, North Macedonia | 172 |
 | 18 | [sweko](https://github.com/sweko) | Wekoslav Stefanovski | @Sourcico  |  | Skopje | 171 |

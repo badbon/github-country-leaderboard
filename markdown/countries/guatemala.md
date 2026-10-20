@@ -31,7 +31,7 @@ Indexed users: 3,214
 | 17 | [FR98](https://github.com/FR98) | Francisco Rosal | Guatemala | 5,671 |
 | 18 | [capuche777](https://github.com/capuche777) | Jeremias Enriquez | Guatemala | 5,602 |
 | 19 | [damianpeaf](https://github.com/damianpeaf) | Damián Peña | Guatemala | 5,493 |
-| 20 | [arojasjg](https://github.com/arojasjg) | Jose Rojas | Guatemala | 5,373 |
+| 20 | [rodmarzavala](https://github.com/rodmarzavala) | Rodmar Zavala | Guatemala | 5,427 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 3,214
 | 19 | [cms](https://github.com/cms) | Christian C. Salvadó | Guatemala | 117 |
 | 20 | [tian2992](https://github.com/tian2992) | Sebastian Oliva | Guatemala | 114 |
 
-Generated: 2026-10-19T17:34:20.386Z
+Generated: 2026-10-19T23:37:04.115Z

@@ -21,7 +21,7 @@ Indexed users: 805
 | 7 | [heisenberg-kz](https://github.com/heisenberg-kz) | heisenbergjs | Ulan Bator | 9,543 |
 | 8 | [dolgoonnn](https://github.com/dolgoonnn) | Dolgoon | Ulaanbaatar, Mongolia | 9,356 |
 | 9 | [sadespresso](https://github.com/sadespresso) | Батмэнд Ганбаатар | Ulaanbaatar, Mongolia | 9,198 |
-| 10 | [ebattulga](https://github.com/ebattulga) | ebattulga | Mongolia, Ulaanbaatar | 6,626 |
+| 10 | [ebattulga](https://github.com/ebattulga) | ebattulga | Mongolia, Ulaanbaatar | 6,632 |
 | 11 | [blgn94](https://github.com/blgn94) | Bilguun | Erdenet, Mongolia | 6,534 |
 | 12 | [turbold24](https://github.com/turbold24) | Turbold | Ulaanbaatar, Mongolia | 6,464 |
 | 13 | [mtergel](https://github.com/mtergel) | Tergel Munkhdelger | Mongolia | 5,921 |
@@ -83,4 +83,4 @@ Indexed users: 805
 | 19 | [munkhjin0223](https://github.com/munkhjin0223) | Munkhjin | Ulaanbaatar, Mongolia | 64 |
 | 20 | [temuulennibno](https://github.com/temuulennibno) | Temuulen | Ulaanbaatar, Mongolia | 55 |
 
-Generated: 2026-10-19T17:53:25.276Z
+Generated: 2026-10-19T23:54:25.100Z

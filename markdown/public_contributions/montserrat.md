@@ -1,6 +1,6 @@
 # Public Contributions - Montserrat
 
-Generated: 2026-10-19T17:54:31.594Z
+Generated: 2026-10-19T23:55:15.076Z
 
 Users: 291
 
@@ -20,7 +20,7 @@ Users: 291
 | 12 | [tjrandall](https://github.com/tjrandall) | T.j. Randall | Randall Advisory Group |  | Plymouth, MA | 348 |
 | 13 | [lucafrancesc](https://github.com/lucafrancesc) | Luca Francesco Eto |  |  | Plymouth | 344 |
 | 14 | [vivekbiju](https://github.com/vivekbiju) | Vivek Biju | Fresher |  | Plymouth | 321 |
-| 15 | [scollinspt](https://github.com/scollinspt) | Sean Collins | Plymouth State University |  | Plymouth, NH | 290 |
+| 15 | [scollinspt](https://github.com/scollinspt) | Sean Collins | Plymouth State University |  | Plymouth, NH | 296 |
 | 16 | [gingeapple182](https://github.com/gingeapple182) | Oliver | University of Plymouth | gingeapple | Plymouth | 278 |
 | 17 | [leeper48](https://github.com/leeper48) | Kurt Jordan | Lumina Datamatics, Inc. |  | Plymouth, MA | 269 |
 | 18 | [JacobMalin](https://github.com/JacobMalin) | Jacob Malin |  |  | Plymouth, MN | 225 |

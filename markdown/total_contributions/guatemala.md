@@ -1,6 +1,6 @@
 # Total Contributions - Guatemala
 
-Generated: 2026-10-19T17:34:20.386Z
+Generated: 2026-10-19T23:37:04.115Z
 
 Users: 3214
 
@@ -25,4 +25,4 @@ Users: 3214
 | 17 | [FR98](https://github.com/FR98) | Francisco Rosal | Fantastech S.A. |  | Guatemala | 5671 |
 | 18 | [capuche777](https://github.com/capuche777) | Jeremias Enriquez | Eyefly Tech | capuche777 | Guatemala | 5602 |
 | 19 | [damianpeaf](https://github.com/damianpeaf) | Damián Peña | FIUSAC |  | Guatemala | 5493 |
-| 20 | [arojasjg](https://github.com/arojasjg) | Jose Rojas | GRUPO GDS |  | Guatemala | 5373 |
+| 20 | [rodmarzavala](https://github.com/rodmarzavala) | Rodmar Zavala | @FUNDES-Catalyst  |  | Guatemala | 5427 |

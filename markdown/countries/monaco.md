@@ -16,7 +16,7 @@ Indexed users: 142
 | 2 | [DamienMonchaty](https://github.com/DamienMonchaty) | Damien Monchaty | Monaco | 6,110 |
 | 3 | [laurentqro](https://github.com/laurentqro) | Laurent Curau | Monaco | 5,142 |
 | 4 | [LovelessCodes](https://github.com/LovelessCodes) |  | Monaco | 3,681 |
-| 5 | [KristofM854](https://github.com/KristofM854) | Kristof Moeller | Monaco | 1,874 |
+| 5 | [KristofM854](https://github.com/KristofM854) | Kristof Moeller | Monaco | 1,889 |
 | 6 | [silvainfm](https://github.com/silvainfm) | François-Marie Brych | Nashville & Monaco | 1,770 |
 | 7 | [digitalonyx](https://github.com/digitalonyx) | DigitalOnyx | Monaco | 1,221 |
 | 8 | [matteodevenuto](https://github.com/matteodevenuto) | Matteo De Venuto | Monaco | 1,140 |
@@ -39,7 +39,7 @@ Indexed users: 142
 |---:|---|---|---|---:|
 | 1 | [laurentqro](https://github.com/laurentqro) | Laurent Curau | Monaco | 3,781 |
 | 2 | [LovelessCodes](https://github.com/LovelessCodes) |  | Monaco | 2,397 |
-| 3 | [KristofM854](https://github.com/KristofM854) | Kristof Moeller | Monaco | 1,633 |
+| 3 | [KristofM854](https://github.com/KristofM854) | Kristof Moeller | Monaco | 1,648 |
 | 4 | [asingizwe1](https://github.com/asingizwe1) | Dev. Louis Asingizwe | Monaco , Kampala/Uganda | 580 |
 | 5 | [auvents-brave](https://github.com/auvents-brave) | Stéphane | Monaco | 236 |
 | 6 | [AlexRLG98](https://github.com/AlexRLG98) | Alex_RLG | Monaco | 212 |
@@ -83,4 +83,4 @@ Indexed users: 142
 | 19 | [coachklng12](https://github.com/coachklng12) |  | Monaco | 14 |
 | 20 | [co-stig](https://github.com/co-stig) | Constantine | Monaco | 13 |
 
-Generated: 2026-10-19T17:53:01.619Z
+Generated: 2026-10-19T23:53:38.360Z
