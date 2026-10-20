@@ -38400,25 +38400,13 @@
     "createdAt": "2022-09-02T20:36:53Z"
   },
   {
-    "login": "milaabl",
-    "name": "Ludmila",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/86361434?s=72&u=1b25b79cdc74915d6bb1c760a56cac074d34be42&v=4",
-    "location": "Tsarevo, Bulgaria",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 671,
-    "privateContributions": 0,
-    "publicContributions": 30,
-    "createdAt": "2021-06-23T13:20:09Z"
-  },
-  {
     "login": "danovska01",
     "name": "",
     "avatarUrl": "https://avatars.githubusercontent.com/u/89780260?s=72&u=071b6376f192639a94467f8d8a302346cb292176&v=4",
     "location": "Bulgaria",
     "company": "",
     "twitterUsername": "",
-    "followers": 247,
+    "followers": 230,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-08-30T11:04:03Z"
@@ -38430,9 +38418,9 @@
     "location": "Sofia, Bulgaria",
     "company": "@PlayForm",
     "twitterUsername": "NikolaRHristov",
-    "followers": 244,
-    "privateContributions": 6458,
-    "publicContributions": 11808,
+    "followers": 261,
+    "privateContributions": 6622,
+    "publicContributions": 13527,
     "createdAt": "2021-09-06T22:35:41Z"
   },
   {
@@ -38442,9 +38430,9 @@
     "location": "Sofia, Bulgaria",
     "company": "",
     "twitterUsername": "",
-    "followers": 173,
-    "privateContributions": 18802,
-    "publicContributions": 1056,
+    "followers": 156,
+    "privateContributions": 19181,
+    "publicContributions": 1321,
     "createdAt": "2021-12-15T09:20:32Z"
   },
   {
@@ -38455,8 +38443,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 127,
-    "privateContributions": 311,
-    "publicContributions": 2,
+    "privateContributions": 357,
+    "publicContributions": 0,
     "createdAt": "2021-10-30T08:09:55Z"
   },
   {
@@ -38466,9 +38454,9 @@
     "location": "Sofia City, Bulgaria",
     "company": "@LimeChain @hashgraph @hiero-ledger",
     "twitterUsername": "",
-    "followers": 101,
-    "privateContributions": 152,
-    "publicContributions": 374,
+    "followers": 103,
+    "privateContributions": 331,
+    "publicContributions": 395,
     "createdAt": "2021-11-12T19:11:17Z"
   },
   {
@@ -38478,9 +38466,9 @@
     "location": "Blagoevgrad, Bulgaria",
     "company": "",
     "twitterUsername": "",
-    "followers": 100,
-    "privateContributions": 0,
-    "publicContributions": 454,
+    "followers": 91,
+    "privateContributions": 10,
+    "publicContributions": 537,
     "createdAt": "2021-06-03T08:56:39Z"
   },
   {
@@ -38490,9 +38478,9 @@
     "location": "Bulgaria, Sofia",
     "company": "",
     "twitterUsername": "",
-    "followers": 100,
+    "followers": 98,
     "privateContributions": 4,
-    "publicContributions": 12,
+    "publicContributions": 94,
     "createdAt": "2021-10-09T16:51:22Z"
   },
   {

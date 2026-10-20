@@ -37651,7 +37651,7 @@
     "company": "substring AG",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 9,
+    "privateContributions": 5,
     "publicContributions": 0,
     "createdAt": "2022-09-05T07:38:59Z"
   },
@@ -37674,9 +37674,9 @@
     "location": "Bern",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 8,
     "createdAt": "2022-02-08T12:24:10Z"
   },
   {
@@ -37700,7 +37700,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2022-02-23T06:53:21Z"
   },
   {
@@ -37789,14 +37789,14 @@
   },
   {
     "login": "galliweb",
-    "name": "Michael Galli",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/104307441?s=72&u=2520461835a66c15127ce268324348c393720c29&v=4",
+    "name": "Michu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/104307441?s=72&u=33984c321c4b30fe14a8078cec0cd671630f5147&v=4",
     "location": "Münsingen, Bern",
     "company": "Galli Web",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 9,
     "createdAt": "2022-04-24T12:43:36Z"
   },
   {
@@ -37806,9 +37806,9 @@
     "location": "Schweiz",
     "company": "",
     "twitterUsername": "",
-    "followers": 22,
-    "privateContributions": 1092,
-    "publicContributions": 888,
+    "followers": 19,
+    "privateContributions": 1449,
+    "publicContributions": 921,
     "createdAt": "2021-10-26T06:28:16Z"
   },
   {
@@ -37820,7 +37820,7 @@
     "twitterUsername": "",
     "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 15,
     "createdAt": "2021-01-20T08:54:02Z"
   },
   {
@@ -37844,7 +37844,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 151,
+    "publicContributions": 104,
     "createdAt": "2021-09-09T08:51:12Z"
   },
   {
@@ -288934,5 +288934,17 @@
     "privateContributions": 76,
     "publicContributions": 172,
     "createdAt": "2022-06-11T16:35:27Z"
+  },
+  {
+    "login": "roland-kortvely",
+    "name": "Roland Körtvely",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13196314?s=72&u=b9cdeba7065d0fe2559f55acfd82e0c054b0b60f&v=4",
+    "location": "Switzerland, ZH",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 1538,
+    "publicContributions": 0,
+    "createdAt": "2015-07-06T07:51:15Z"
   }
 ]

@@ -37747,7 +37747,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
+    "privateContributions": 503,
     "publicContributions": 8,
     "createdAt": "2015-03-09T20:30:44Z"
   },
@@ -37771,8 +37771,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1335,
-    "publicContributions": 18,
+    "privateContributions": 1576,
+    "publicContributions": 2,
     "createdAt": "2015-10-25T12:02:53Z"
   },
   {
@@ -37834,18 +37834,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-10-21T09:07:09Z"
-  },
-  {
-    "login": "roland-kortvely",
-    "name": "Roland Körtvely",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/13196314?s=72&u=b9cdeba7065d0fe2559f55acfd82e0c054b0b60f&v=4",
-    "location": "Slovakia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 493,
-    "publicContributions": 0,
-    "createdAt": "2015-07-06T07:51:15Z"
   },
   {
     "login": "Iskandor",

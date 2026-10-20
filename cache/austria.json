@@ -38058,9 +38058,9 @@
     "location": "Vienna, Austria",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 5,
     "privateContributions": 10,
-    "publicContributions": 22,
+    "publicContributions": 0,
     "createdAt": "2021-10-30T13:16:34Z"
   },
   {
@@ -38070,9 +38070,9 @@
     "location": "linz, Austria",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 41,
+    "publicContributions": 57,
     "createdAt": "2021-10-25T04:33:09Z"
   },
   {
@@ -38083,21 +38083,9 @@
     "company": "@hokify",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 711,
-    "publicContributions": 10,
+    "privateContributions": 740,
+    "publicContributions": 17,
     "createdAt": "2021-11-09T14:57:48Z"
-  },
-  {
-    "login": "0felix000",
-    "name": "0felix000",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/96117754?s=72&u=ae55bb86fc1069f8a424454321db8f2d978c14ef&v=4",
-    "location": "Austria",
-    "company": "",
-    "twitterUsername": "0felix0004",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 2,
-    "createdAt": "2021-12-14T11:03:49Z"
   },
   {
     "login": "h3rak1it",
@@ -38144,7 +38132,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 2,
     "createdAt": "2021-08-21T14:14:54Z"
   },
   {
@@ -38156,7 +38144,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2021-07-20T13:20:58Z"
   },
   {
@@ -38215,8 +38203,8 @@
     "company": "HTL Kaindorf",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 341,
-    "publicContributions": 34,
+    "privateContributions": 558,
+    "publicContributions": 40,
     "createdAt": "2021-01-20T09:25:02Z"
   },
   {
@@ -38228,7 +38216,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 389,
+    "publicContributions": 386,
     "createdAt": "2021-12-02T11:54:17Z"
   },
   {
@@ -38239,7 +38227,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 278,
+    "privateContributions": 290,
     "publicContributions": 0,
     "createdAt": "2021-09-21T18:17:06Z"
   },
@@ -38252,7 +38240,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 8,
     "createdAt": "2021-12-21T14:12:44Z"
   },
   {

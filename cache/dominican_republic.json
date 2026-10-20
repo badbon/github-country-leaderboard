@@ -38286,7 +38286,7 @@
     "location": "Dominican Republic",
     "company": "",
     "twitterUsername": "edgaragr",
-    "followers": 59,
+    "followers": 60,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2011-03-11T14:53:26Z"
@@ -38298,9 +38298,9 @@
     "location": "Dominican Republic",
     "company": "octagono",
     "twitterUsername": "",
-    "followers": 49,
-    "privateContributions": 2,
-    "publicContributions": 99,
+    "followers": 53,
+    "privateContributions": 0,
+    "publicContributions": 100,
     "createdAt": "2011-03-04T19:19:01Z"
   },
   {
@@ -38312,7 +38312,7 @@
     "twitterUsername": "",
     "followers": 43,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 36,
     "createdAt": "2011-04-19T17:40:04Z"
   },
   {
@@ -38322,9 +38322,9 @@
     "location": "Dominican Republic",
     "company": "",
     "twitterUsername": "",
-    "followers": 24,
+    "followers": 23,
     "privateContributions": 4,
-    "publicContributions": 33,
+    "publicContributions": 23,
     "createdAt": "2011-05-26T04:44:16Z"
   },
   {
@@ -38346,7 +38346,7 @@
     "location": "Dominican Republic",
     "company": "@GitLab ",
     "twitterUsername": "enriquecastl",
-    "followers": 23,
+    "followers": 24,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2011-08-13T16:01:00Z"
@@ -38359,8 +38359,8 @@
     "company": "InfraTek, S.R.L",
     "twitterUsername": "",
     "followers": 23,
-    "privateContributions": 32,
-    "publicContributions": 2,
+    "privateContributions": 155,
+    "publicContributions": 18,
     "createdAt": "2011-07-15T05:09:19Z"
   },
   {
@@ -38371,8 +38371,8 @@
     "company": "@mctekk ",
     "twitterUsername": "",
     "followers": 22,
-    "privateContributions": 462,
-    "publicContributions": 3,
+    "privateContributions": 295,
+    "publicContributions": 1,
     "createdAt": "2011-04-25T16:13:59Z"
   },
   {
@@ -38382,9 +38382,9 @@
     "location": "Dominican Republic",
     "company": "",
     "twitterUsername": "",
-    "followers": 19,
-    "privateContributions": 708,
-    "publicContributions": 1,
+    "followers": 20,
+    "privateContributions": 823,
+    "publicContributions": 4,
     "createdAt": "2011-08-23T15:04:07Z"
   },
   {
@@ -38395,7 +38395,7 @@
     "company": "",
     "twitterUsername": "frederickclarkb",
     "followers": 19,
-    "privateContributions": 0,
+    "privateContributions": 80,
     "publicContributions": 24,
     "createdAt": "2011-03-31T14:38:53Z"
   },
@@ -38406,20 +38406,20 @@
     "location": "Dominican Republic",
     "company": "",
     "twitterUsername": "erikmejias",
-    "followers": 19,
-    "privateContributions": 4400,
-    "publicContributions": 3,
+    "followers": 20,
+    "privateContributions": 5091,
+    "publicContributions": 8,
     "createdAt": "2011-10-25T05:17:18Z"
   },
   {
     "login": "LordRNA",
     "name": "Lord RNA",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/1210799?s=72&u=0ef76025632b958cc85dac3e38a156698bf2da3e&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1210799?s=72&u=dacced784fa7cc6b5efa0dc1f8b40321583bda28&v=4",
     "location": "Dominican Republic",
     "company": "",
     "twitterUsername": "lordrna",
-    "followers": 19,
-    "privateContributions": 0,
+    "followers": 20,
+    "privateContributions": 15,
     "publicContributions": 0,
     "createdAt": "2011-11-21T16:48:46Z"
   },
@@ -38432,7 +38432,7 @@
     "twitterUsername": "aantigua",
     "followers": 18,
     "privateContributions": 258,
-    "publicContributions": 132,
+    "publicContributions": 116,
     "createdAt": "2011-07-26T15:26:58Z"
   },
   {
@@ -38454,8 +38454,8 @@
     "location": "Dominican Republic",
     "company": "Prinsoft",
     "twitterUsername": "reybisceballos",
-    "followers": 18,
-    "privateContributions": 227,
+    "followers": 22,
+    "privateContributions": 380,
     "publicContributions": 15,
     "createdAt": "2011-05-16T06:57:18Z"
   },
@@ -38466,7 +38466,7 @@
     "location": "Dominican Republic",
     "company": "",
     "twitterUsername": "",
-    "followers": 18,
+    "followers": 19,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2011-07-21T04:01:08Z"
@@ -38478,9 +38478,9 @@
     "location": "Dominican Republic",
     "company": "",
     "twitterUsername": "",
-    "followers": 17,
-    "privateContributions": 430,
-    "publicContributions": 3,
+    "followers": 18,
+    "privateContributions": 708,
+    "publicContributions": 0,
     "createdAt": "2011-05-11T13:56:00Z"
   },
   {
@@ -38490,9 +38490,9 @@
     "location": "Dominican Republic",
     "company": "",
     "twitterUsername": "JorgeDDW",
-    "followers": 17,
-    "privateContributions": 3466,
-    "publicContributions": 2,
+    "followers": 18,
+    "privateContributions": 6280,
+    "publicContributions": 3,
     "createdAt": "2011-05-26T03:59:48Z"
   },
   {
@@ -38502,7 +38502,7 @@
     "location": "Dominican Republic",
     "company": "",
     "twitterUsername": "",
-    "followers": 16,
+    "followers": 17,
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2011-10-26T14:33:31Z"

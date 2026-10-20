@@ -37975,8 +37975,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 116,
-    "publicContributions": 483,
+    "privateContributions": 163,
+    "publicContributions": 432,
     "createdAt": "2021-09-04T09:08:51Z"
   },
   {
@@ -37987,8 +37987,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 3430,
-    "publicContributions": 222,
+    "privateContributions": 3574,
+    "publicContributions": 3,
     "createdAt": "2021-07-27T12:55:54Z"
   },
   {
@@ -38024,7 +38024,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 51,
+    "publicContributions": 71,
     "createdAt": "2021-10-25T14:44:08Z"
   },
   {
@@ -38046,7 +38046,7 @@
     "location": "Belgium",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-11-07T22:08:11Z"
@@ -38060,7 +38060,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 8,
     "createdAt": "2021-11-12T04:56:33Z"
   },
   {
@@ -38108,7 +38108,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 39,
+    "publicContributions": 40,
     "createdAt": "2021-04-08T19:25:54Z"
   },
   {
@@ -38144,7 +38144,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 1,
     "createdAt": "2021-02-22T12:23:33Z"
   },
   {
@@ -38182,18 +38182,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-04-02T18:42:40Z"
-  },
-  {
-    "login": "ThomasDeStrooper",
-    "name": "Thomas",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/82268658?s=72&u=907251a68bb821319f48ceb55cda316c10427a13&v=4",
-    "location": "Belgium",
-    "company": "SnowCraft",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 43,
-    "createdAt": "2021-04-10T11:46:18Z"
   },
   {
     "login": "Jelte-Boumans",
