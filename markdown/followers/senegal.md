@@ -1,6 +1,6 @@
 # Followers - Senegal
 
-Generated: 2026-10-20T06:12:09.456Z
+Generated: 2026-10-20T07:48:17.404Z
 
 Users: 1355
 
@@ -20,7 +20,7 @@ Users: 1355
 | 12 | [mamour-dx](https://github.com/mamour-dx) | Mamour Dieng | École Supérieure Polytechnique |  | Dakar | 179 |
 | 13 | [yayediop2](https://github.com/yayediop2) | Yaye Diop | Agiltym by H&C |  | Dakar, Sn | 175 |
 | 14 | [dickoa](https://github.com/dickoa) | Ahmadou Dicko |  |  | Dakar, Senegal | 171 |
-| 15 | [andrewSarr](https://github.com/andrewSarr) | Andre Sarr | None |  | Dakar | 168 |
+| 15 | [andrewSarr](https://github.com/andrewSarr) | Andre Sarr | None |  | Dakar | 169 |
 | 16 | [kasali](https://github.com/kasali) | kasali | Freelancer | kadev4solutions | Dakar Sénégal | 154 |
 | 17 | [paydunyadev](https://github.com/paydunyadev) | PayDunya | PayDunya |  | Sénégal - Dakar (Ouest Foire) | 150 |
 | 18 | [ridwanediallo](https://github.com/ridwanediallo) | Ridwan Diallo |  | RidwaneD | Dakar - Senegal | 148 |

@@ -1,6 +1,6 @@
 # Total Contributions - Réunion
 
-Generated: 2026-10-20T06:07:29.292Z
+Generated: 2026-10-20T07:42:49.060Z
 
 Users: 212
 
@@ -12,16 +12,16 @@ Users: 212
 | 4 | [saiht](https://github.com/saiht) | Saiht |  |  | Reunion Island | 4024 |
 | 5 | [axelearning](https://github.com/axelearning) | Axel Rasse |  |  | Reunion island | 3566 |
 | 6 | [vittoriobusatta](https://github.com/vittoriobusatta) | vittorio | @mascarinreunion |  | Reunion Island | 2722 |
-| 7 | [Nicolas-Begue](https://github.com/Nicolas-Begue) | Nicolas BEGUE 🐱‍👤 | Skydo Digital Studio |  | Saint-Denis | 2660 |
+| 7 | [Nicolas-Begue](https://github.com/Nicolas-Begue) | Nicolas BEGUE 🐱‍👤 | Skydo Digital Studio |  | Saint-Denis | 2712 |
 | 8 | [Angra974](https://github.com/Angra974) | Thierry Parlier | 100Devs | mrnemesys | Reunion Island, France | 2414 |
 | 9 | [ralphi2811](https://github.com/ralphi2811) | Raphaël Auberlet | Nashi.cloud |  | Réunion Island | 2305 |
 | 10 | [Skiwa](https://github.com/Skiwa) | Julien Haegman |  |  | Saint-Denis, Réunion | 2074 |
 | 11 | [Gabouin](https://github.com/Gabouin) | Gabouin |  |  | Reunion Island | 2026 |
 | 12 | [lvothnrv](https://github.com/lvothnrv) | LvothNrv |  |  | Reunion Island | 2005 |
 | 13 | [John361](https://github.com/John361) | John |  |  | Réunion | 1987 |
-| 14 | [IamArayel](https://github.com/IamArayel) | Arayel |  |  | Reunion Island | 1807 |
-| 15 | [kevinturpin97](https://github.com/kevinturpin97) | RainMan | @EpitechWebAcademiePromo2023  |  | Reunion Island, France | 1762 |
-| 16 | [eldertek](https://github.com/eldertek) | André Théo LAURET |  |  | Reunion Island | 1753 |
+| 14 | [eldertek](https://github.com/eldertek) | André Théo LAURET |  |  | Reunion Island | 1827 |
+| 15 | [IamArayel](https://github.com/IamArayel) | Arayel |  |  | Reunion Island | 1807 |
+| 16 | [kevinturpin97](https://github.com/kevinturpin97) | RainMan | @EpitechWebAcademiePromo2023  |  | Reunion Island, France | 1762 |
 | 17 | [Nasjoe](https://github.com/Nasjoe) | Jonas TURBEAUX | Code Commun Coop |  | Réunion Island, Villeurbanne, Montpellier : France | 1730 |
 | 18 | [gfo974](https://github.com/gfo974) | Geoffrey Fournier  | @arribada  |  | Réunion Island | 1364 |
 | 19 | [arthur-girardin-calbe](https://github.com/arthur-girardin-calbe) | Arthur Girardin--Calbe |  |  | Réunion | 1298 |

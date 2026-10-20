@@ -76,11 +76,11 @@ Indexed users: 1,355
 | 12 | [mamour-dx](https://github.com/mamour-dx) | Mamour Dieng | Dakar | 179 |
 | 13 | [yayediop2](https://github.com/yayediop2) | Yaye Diop | Dakar, Sn | 175 |
 | 14 | [dickoa](https://github.com/dickoa) | Ahmadou Dicko | Dakar, Senegal | 171 |
-| 15 | [andrewSarr](https://github.com/andrewSarr) | Andre Sarr | Dakar | 168 |
+| 15 | [andrewSarr](https://github.com/andrewSarr) | Andre Sarr | Dakar | 169 |
 | 16 | [kasali](https://github.com/kasali) | kasali | Dakar Sénégal | 154 |
 | 17 | [paydunyadev](https://github.com/paydunyadev) | PayDunya | Sénégal - Dakar (Ouest Foire) | 150 |
 | 18 | [ridwanediallo](https://github.com/ridwanediallo) | Ridwan Diallo | Dakar - Senegal | 148 |
 | 19 | [ngorseck](https://github.com/ngorseck) | Ngor SECK | Dakar - Sénégal | 142 |
 | 20 | [patheGobel](https://github.com/patheGobel) | Pathé BA | Senegal  | 141 |
 
-Generated: 2026-10-20T06:12:09.456Z
+Generated: 2026-10-20T07:48:17.404Z

@@ -24,7 +24,7 @@ Indexed users: 1,532
 | 10 | [brettheap](https://github.com/brettheap) | Brett Heap | Puerto Rico | 7,801 |
 | 11 | [aegonzalez95](https://github.com/aegonzalez95) | Angel Gonzalez | Puerto Rico | 7,443 |
 | 12 | [bombillazo](https://github.com/bombillazo) | Hector Ayala | Puerto Rico | 7,098 |
-| 13 | [chrisrodz](https://github.com/chrisrodz) | Christian A. Rodriguez | San Juan, PR | 7,027 |
+| 13 | [chrisrodz](https://github.com/chrisrodz) | Christian A. Rodriguez | San Juan, PR | 7,060 |
 | 14 | [shawntabrizi](https://github.com/shawntabrizi) | Shawn Tabrizi | Puerto Rico | 6,624 |
 | 15 | [Wolfkid200444](https://github.com/Wolfkid200444) | Wolfie | Puerto Rico | 6,312 |
 | 16 | [grpecunia](https://github.com/grpecunia) | Gustavo Rivera Pecunia | San Juan, PR | 6,140 |
@@ -47,8 +47,8 @@ Indexed users: 1,532
 | 8 | [rnegron](https://github.com/rnegron) | Raúl Negrón-Otero | Bayamón, Puerto Rico | 3,188 |
 | 9 | [shawntabrizi](https://github.com/shawntabrizi) | Shawn Tabrizi | Puerto Rico | 2,993 |
 | 10 | [cywf](https://github.com/cywf) | KP | San Juan, PR | 2,620 |
-| 11 | [rebelinux](https://github.com/rebelinux) | Jonathan Colon | Puerto Rico | 2,118 |
-| 12 | [jgravois](https://github.com/jgravois) | john gravois | san juan capo, ca | 1,960 |
+| 11 | [jgravois](https://github.com/jgravois) | john gravois | san juan capo, ca | 1,984 |
+| 12 | [rebelinux](https://github.com/rebelinux) | Jonathan Colon | Puerto Rico | 1,966 |
 | 13 | [ricardojuanmorales](https://github.com/ricardojuanmorales) | Ricardo Juan Morales De Jesús | San Juan, Puerto Rico | 1,359 |
 | 14 | [eresfavolosx](https://github.com/eresfavolosx) | Fabián Vélez Vicente | Trujillo Alto, Puerto Rico | 1,307 |
 | 15 | [drosadocastro-bit](https://github.com/drosadocastro-bit) | Danny Rosado Castro (Drakus) | Puerto Rico | 1,149 |
@@ -83,4 +83,4 @@ Indexed users: 1,532
 | 19 | [rnegron](https://github.com/rnegron) | Raúl Negrón-Otero | Bayamón, Puerto Rico | 113 |
 | 20 | [hackingbutlegal](https://github.com/hackingbutlegal) | Jackie Singh | San Juan, PR | 107 |
 
-Generated: 2026-10-20T06:07:13.801Z
+Generated: 2026-10-20T07:42:37.743Z
