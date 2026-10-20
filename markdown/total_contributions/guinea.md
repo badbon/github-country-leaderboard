@@ -1,6 +1,6 @@
 # Total Contributions - Guinea
 
-Generated: 2026-10-20T17:45:02.159Z
+Generated: 2026-10-20T19:21:00.821Z
 
 Users: 263
 
@@ -15,8 +15,8 @@ Users: 263
 | 7 | [mohdiarra](https://github.com/mohdiarra) | Mohamed Diarra |  PayCard SA / The D-Corp. SARL |  | Conakry, Guinea | 2724 |
 | 8 | [Adbrim](https://github.com/Adbrim) | Alhassane Bah | DIGIFORMAX | adbrim | CONAKRY | 2243 |
 | 9 | [SouleymaneSy7](https://github.com/SouleymaneSy7) | Souleymane Sy |  | souleymanesy43 | Guinée, Conakry | 2235 |
-| 10 | [TheRealBerete](https://github.com/TheRealBerete) | BERETE 🇬🇳❤️ | NIMBADEV |  | Conakry  | 2123 |
-| 11 | [Cellou404](https://github.com/Cellou404) | Cellou Cisse | Nimba Solution | CisseCellou | Conakry, Guinée | 2119 |
+| 10 | [Cellou404](https://github.com/Cellou404) | Cellou Cisse | Nimba Solution | CisseCellou | Conakry, Guinée | 2140 |
+| 11 | [TheRealBerete](https://github.com/TheRealBerete) | BERETE 🇬🇳❤️ | NIMBADEV |  | Conakry  | 2123 |
 | 12 | [sitatec](https://github.com/sitatec) | Sita Bérété | Dwino AI |  | Conakry, Guinea | 1830 |
 | 13 | [ISSIAGA-CONDE224](https://github.com/ISSIAGA-CONDE224) | ISSIAGA CONDE | ALYSITES |  | GUINEA CONAKRY | 1325 |
 | 14 | [Hayy-Balde](https://github.com/Hayy-Balde) | Mamadou Oury Baldé |  |  | Guinea | 1268 |

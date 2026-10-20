@@ -1,22 +1,22 @@
 # Total Contributions - Guadeloupe
 
-Generated: 2026-10-20T17:43:02.554Z
+Generated: 2026-10-20T19:18:45.947Z
 
 Users: 86
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [sype](https://github.com/sype) | Sebastien Pincemail | @wefactorit | wefactorit | Paris / Guadeloupe | 6200 |
+| 1 | [sype](https://github.com/sype) | Sebastien Pincemail | @wefactorit | wefactorit | Paris / Guadeloupe | 6233 |
 | 2 | [JoDrm](https://github.com/JoDrm) | Jodrm | Freelance | DarmaJoachim | Guadeloupe | 3334 |
 | 3 | [macojaune](https://github.com/macojaune) | macojaune | @MarvinL-com  | macojaune | Guadeloupe | 2286 |
 | 4 | [kvaillant](https://github.com/kvaillant) | Karl Vaillant | Kulipa |  | Guadeloupe, West-Indies | 1724 |
-| 5 | [gbaccetta](https://github.com/gbaccetta) | Giovanni Accetta |  | GBAccetta | Guadeloupe | 1629 |
-| 6 | [iamcryptoki](https://github.com/iamcryptoki) | Gael Gentil | @ionis-education-group |  | Guadeloupe | 1413 |
+| 5 | [gbaccetta](https://github.com/gbaccetta) | Giovanni Accetta |  | GBAccetta | Guadeloupe | 1633 |
+| 6 | [iamcryptoki](https://github.com/iamcryptoki) | Gael Gentil | @ionis-education-group |  | Guadeloupe | 1431 |
 | 7 | [Gaelle-charles](https://github.com/Gaelle-charles) | Gaëlle CHARLES-BELAMOUR |  |  | Guadeloupe (FWI) | 1393 |
 | 8 | [liobrasil](https://github.com/liobrasil) | Lionel LIMOL | Blockchain Xpert Solutions | lionel_limol | Guadeloupe | 959 |
 | 9 | [BLVCK971](https://github.com/BLVCK971) | Yoel Pépin |  |  | Le Moule, GUADELOUPE | 906 |
 | 10 | [r1d](https://github.com/r1d) | Eric Degoul | EDSI Technologie |  | Sainte-Anne, Guadeloupe | 742 |
-| 11 | [sboli](https://github.com/sboli) | Bolivar Stephen |  | _sboli | Guadeloupe | 667 |
+| 11 | [sboli](https://github.com/sboli) | Bolivar Stephen |  | _sboli | Guadeloupe | 668 |
 | 12 | [nath971](https://github.com/nath971) | N |  |  | Guadeloupe | 658 |
 | 13 | [FWICSS](https://github.com/FWICSS) | FWICSS |  | FWICSS | Guadeloupe | 493 |
 | 14 | [seyken971](https://github.com/seyken971) | Andy Zébus | PXLC | seyken971 | Guadeloupe | 230 |

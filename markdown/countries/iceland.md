@@ -29,9 +29,9 @@ Indexed users: 1,579
 | 15 | [RationallyPrime](https://github.com/RationallyPrime) | Hákon Freyr Gunnarsson | Iceland | 7,475 |
 | 16 | [bjornj12](https://github.com/bjornj12) | Björn Ólafur Jóhannsson | iceland | 7,381 |
 | 17 | [gthb](https://github.com/gthb) | Gunnlaugur Thor Briem | Reykjavík, Iceland | 7,163 |
-| 18 | [arnavmehta7](https://github.com/arnavmehta7) | Arnav Mehta | Island | 6,770 |
-| 19 | [gunniho](https://github.com/gunniho) | Gunnar Holmsteinn | Reykjavik | 6,518 |
-| 20 | [gardarthorsteins](https://github.com/gardarthorsteins) | Garðar Þorsteinsson | Reykjavík, Iceland | 6,447 |
+| 18 | [kjartansverrisson](https://github.com/kjartansverrisson) | Kjartan Sverrisson | Iceland | 6,939 |
+| 19 | [arnavmehta7](https://github.com/arnavmehta7) | Arnav Mehta | Island | 6,770 |
+| 20 | [gunniho](https://github.com/gunniho) | Gunnar Holmsteinn | Reykjavik | 6,518 |
 
 ## Public Contributions
 
@@ -46,7 +46,7 @@ Indexed users: 1,579
 | 7 | [Raudbjorn](https://github.com/Raudbjorn) | Sveinbjörn Geirsson | Reykjavik | 2,838 |
 | 8 | [bjorndarri](https://github.com/bjorndarri) | Björn Darri Sigurðsson | Reykjavík, Iceland | 2,471 |
 | 9 | [gardarthorsteins](https://github.com/gardarthorsteins) | Garðar Þorsteinsson | Reykjavík, Iceland | 2,436 |
-| 10 | [jokull](https://github.com/jokull) | Jökull Sólberg Auðunsson | Reykjavík, Iceland | 2,163 |
+| 10 | [jokull](https://github.com/jokull) | Jökull Sólberg Auðunsson | Reykjavík, Iceland | 2,198 |
 | 11 | [vvzvlad](https://github.com/vvzvlad) | vvzvlad | Iceland | 2,155 |
 | 12 | [pzychozen](https://github.com/pzychozen) | Hilmir Frímann Halldórsson | Iceland | 2,028 |
 | 13 | [bgautijonsson](https://github.com/bgautijonsson) | Brynjolfur Gauti Jónsson | Reykjavík, Iceland | 2,002 |
@@ -83,4 +83,4 @@ Indexed users: 1,579
 | 19 | [jokull](https://github.com/jokull) | Jökull Sólberg Auðunsson | Reykjavík, Iceland | 209 |
 | 20 | [kevien](https://github.com/kevien) | K3vin | iceland | 204 |
 
-Generated: 2026-10-20T17:49:05.852Z
+Generated: 2026-10-20T19:25:03.997Z

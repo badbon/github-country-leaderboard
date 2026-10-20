@@ -1,16 +1,16 @@
 # Public Contributions - Gibraltar
 
-Generated: 2026-10-20T17:42:04.219Z
+Generated: 2026-10-20T19:18:30.368Z
 
 Users: 93
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [miohtama](https://github.com/miohtama) | Mikko Ohtamaa | Trading Strategy | moo9000 | Gibraltar | 5645 |
-| 2 | [dlicudi](https://github.com/dlicudi) | Duane Licudi |  |  | Gibraltar | 2688 |
-| 3 | [Industrial](https://github.com/Industrial) | Tom Wieland | Idclear |  | Gibraltar | 1914 |
-| 4 | [ajedrezpremium](https://github.com/ajedrezpremium) | Ajedrez Premium | AJEDREZ PREMIUM |  | GIBRALTAR | 557 |
-| 5 | [ArtemSoldatkin](https://github.com/ArtemSoldatkin) | Artem Soldatkin |  |  | Gibraltar | 550 |
+| 2 | [Industrial](https://github.com/Industrial) | Tom Wieland | Idclear |  | Gibraltar | 1914 |
+| 3 | [ajedrezpremium](https://github.com/ajedrezpremium) | Ajedrez Premium | AJEDREZ PREMIUM |  | GIBRALTAR | 557 |
+| 4 | [ArtemSoldatkin](https://github.com/ArtemSoldatkin) | Artem Soldatkin |  |  | Gibraltar | 550 |
+| 5 | [dlicudi](https://github.com/dlicudi) | Duane Licudi |  |  | Gibraltar | 467 |
 | 6 | [crpol](https://github.com/crpol) | Cesar Rosa Polanco |  | cesarrpol | Gibraltar | 257 |
 | 7 | [heaventree](https://github.com/heaventree) | Heaventree Digital | Heaventree |  | Gibraltar | 238 |
 | 8 | [mortyflex](https://github.com/mortyflex) | Mohamed A | Dether |  | Gibraltar | 196 |

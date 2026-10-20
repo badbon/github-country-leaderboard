@@ -1,6 +1,6 @@
 # Public Contributions - Isle of Man
 
-Generated: 2026-10-20T17:50:45.711Z
+Generated: 2026-10-20T19:28:05.793Z
 
 Users: 155
 
@@ -18,10 +18,10 @@ Users: 155
 | 10 | [mattwilson02](https://github.com/mattwilson02) | Matt Wilson |  |  | Isle of Man | 261 |
 | 11 | [gabriel-fortin](https://github.com/gabriel-fortin) | Gabriel Fortin | @Isle-of-Man-Government  |  | Isle of Man | 246 |
 | 12 | [AndrewIOM](https://github.com/AndrewIOM) | Andrew Martin | Scott Polar Research Institute, University of Cambridge |  | Isle of Man | 215 |
-| 13 | [AdamDIOM](https://github.com/AdamDIOM) | Adam Cameron Drummond | Isle of Man Code Club |  | Isle of Man | 160 |
-| 14 | [aquacash5](https://github.com/aquacash5) | Kyle Bloom | IFGL |  | Douglas, Isle of Man | 153 |
-| 15 | [oliciv](https://github.com/oliciv) | Oli Allen |  |  | Isle of Man | 108 |
-| 16 | [lukawarren](https://github.com/lukawarren) | Luka Warren |  |  | Isle of Man | 99 |
+| 13 | [lukawarren](https://github.com/lukawarren) | Luka Warren |  |  | Isle of Man | 162 |
+| 14 | [AdamDIOM](https://github.com/AdamDIOM) | Adam Cameron Drummond | Isle of Man Code Club |  | Isle of Man | 160 |
+| 15 | [aquacash5](https://github.com/aquacash5) | Kyle Bloom | IFGL |  | Douglas, Isle of Man | 153 |
+| 16 | [oliciv](https://github.com/oliciv) | Oli Allen |  |  | Isle of Man | 108 |
 | 17 | [RCornidez](https://github.com/RCornidez) | Rodrigo Cornidez |  |  | Douglas, Arizona | 90 |
 | 18 | [Jessicaward](https://github.com/Jessicaward) | Jessica Ward | Fusion.co.im |  | Isle of Man | 85 |
 | 19 | [wishypw](https://github.com/wishypw) | Paul Williamson |  | wishypw | Isle of Man | 82 |

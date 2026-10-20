@@ -14,12 +14,12 @@ Indexed users: 325
 |---:|---|---|---|---:|
 | 1 | [SMani0547](https://github.com/SMani0547) | Shiva Mani Goundar | Nadi, Fiji | 3,020 |
 | 2 | [Shoneel](https://github.com/Shoneel) |  | Fiji, Suva  | 1,588 |
-| 3 | [Amdeo](https://github.com/Amdeo) | Cooper | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1,456 |
+| 3 | [Amdeo](https://github.com/Amdeo) | Cooper | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1,461 |
 | 4 | [felix-davui-679](https://github.com/felix-davui-679) | Filimone Davui | Fiji | 1,384 |
 | 5 | [krishneelkamalsingh](https://github.com/krishneelkamalsingh) | Krish | Fiji | 1,212 |
 | 6 | [crazybanboo](https://github.com/crazybanboo) | Ethan | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1,084 |
 | 7 | [jaclla](https://github.com/jaclla) | Logic | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1,031 |
-| 8 | [ApophisX](https://github.com/ApophisX) | GienWang | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1,012 |
+| 8 | [ApophisX](https://github.com/ApophisX) | GienWang | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1,016 |
 | 9 | [navneil-naicker](https://github.com/navneil-naicker) | Navneil Naicker | Suva City, Central, Fiji | 1,006 |
 | 10 | [rudrprasad05](https://github.com/rudrprasad05) | Rudr Prasad | Fiji | 936 |
 | 11 | [Eddie115-x](https://github.com/Eddie115-x) | Adrian Obadiah | SUVA | 932 |
@@ -37,7 +37,7 @@ Indexed users: 325
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [Amdeo](https://github.com/Amdeo) | Cooper | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1,456 |
+| 1 | [Amdeo](https://github.com/Amdeo) | Cooper | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1,461 |
 | 2 | [anav5704](https://github.com/anav5704) | Anav Chand | Fiji | 564 |
 | 3 | [2-fly-4-ai](https://github.com/2-fly-4-ai) | Brian farley | Suva | 501 |
 | 4 | [kishkumar96](https://github.com/kishkumar96) | Kishan Chimman Kumar | Suva | 463 |
@@ -83,4 +83,4 @@ Indexed users: 325
 | 19 | [SMani0547](https://github.com/SMani0547) | Shiva Mani Goundar | Nadi, Fiji | 21 |
 | 20 | [aryann-7](https://github.com/aryann-7) | Aryan Singh | Suva, Fiji | 19 |
 
-Generated: 2026-10-20T17:40:06.421Z
+Generated: 2026-10-20T19:15:05.017Z

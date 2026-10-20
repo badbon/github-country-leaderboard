@@ -1,6 +1,6 @@
 # Public Contributions - Eswatini
 
-Generated: 2026-10-20T17:39:16.355Z
+Generated: 2026-10-20T19:13:15.950Z
 
 Users: 108
 
@@ -23,6 +23,6 @@ Users: 108
 | 15 | [BrianMsane](https://github.com/BrianMsane) | Brian Msane | EPH | msanebrianboss | Ezulwini, Eswatini | 42 |
 | 16 | [samkelogwebu1569-hub](https://github.com/samkelogwebu1569-hub) | Gemini Mbhele |  |  | Eswatini, Mbabane | 42 |
 | 17 | [CodehubNerd](https://github.com/CodehubNerd) | Culture | Nu Africa | Culture_Dlamini | Swaziland | 41 |
-| 18 | [Fanelemenzi](https://github.com/Fanelemenzi) | Fanelesiyibonge Mabuza |  | menzi_fanele | Manzini, Swaziland | 39 |
+| 18 | [Fanelemenzi](https://github.com/Fanelemenzi) | Fanelesiyibonge Mabuza |  | menzi_fanele | Manzini, Swaziland | 41 |
 | 19 | [Sibakhe-Nyembe](https://github.com/Sibakhe-Nyembe) | SIBAKHE N. |  |  | Eswatini, Mbabane, Sidvwashini | 29 |
 | 20 | [Celumusa91](https://github.com/Celumusa91) | Celumusa Fakudze  |  |  | Eswatini  | 27 |

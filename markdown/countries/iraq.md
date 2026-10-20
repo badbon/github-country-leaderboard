@@ -16,10 +16,10 @@ Indexed users: 2,232
 | 2 | [Alifaleh](https://github.com/Alifaleh) | Ali Faleh | Baghdad / Iraq | 19,083 |
 | 3 | [RekarBotany](https://github.com/RekarBotany) | Rekar Botany | Iraq, Erbil | 10,149 |
 | 4 | [Mo7amedSMahdi](https://github.com/Mo7amedSMahdi) | Mohammed Salah Mahdi | Iraq,Najaf | 10,000 |
-| 5 | [araaso-dev](https://github.com/araaso-dev) | Ara Aso | Iraq | 8,938 |
-| 6 | [MujtabaFR](https://github.com/MujtabaFR) | Mujtaba Fadhil | Iraq, Najaf | 8,822 |
-| 7 | [SamadZuhair](https://github.com/SamadZuhair) | Abdulsamad Zuhair | Erbil, Iraq | 8,799 |
-| 8 | [alialnaimi1](https://github.com/alialnaimi1) | Ali Mohammed | Iraq | 8,037 |
+| 5 | [alialnaimi1](https://github.com/alialnaimi1) | Ali Mohammed | Iraq | 9,278 |
+| 6 | [araaso-dev](https://github.com/araaso-dev) | Ara Aso | Iraq | 8,938 |
+| 7 | [MujtabaFR](https://github.com/MujtabaFR) | Mujtaba Fadhil | Iraq, Najaf | 8,822 |
+| 8 | [SamadZuhair](https://github.com/SamadZuhair) | Abdulsamad Zuhair | Erbil, Iraq | 8,799 |
 | 9 | [laith43d](https://github.com/laith43d) | Layth Zahid | Baghdad | 8,032 |
 | 10 | [sajadfd](https://github.com/sajadfd) | sajjad | Iraq | 7,950 |
 | 11 | [alimehasin](https://github.com/alimehasin) | Ali Mehasin | Baghdad | 7,063 |
@@ -83,4 +83,4 @@ Indexed users: 2,232
 | 19 | [Om4r-007](https://github.com/Om4r-007) | Omar Imad | Baghdad / Iraq | 211 |
 | 20 | [TARQkop](https://github.com/TARQkop) | TARIQ | IRAQ | 190 |
 
-Generated: 2026-10-20T17:50:37.032Z
+Generated: 2026-10-20T19:26:25.905Z
