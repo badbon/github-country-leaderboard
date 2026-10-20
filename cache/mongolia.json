@@ -7915,7 +7915,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 15,
-    "privateContributions": 348,
+    "privateContributions": 347,
     "publicContributions": 1,
     "createdAt": "2013-12-11T04:46:04Z"
   },
@@ -7927,7 +7927,7 @@
     "company": "Beelog Technologies",
     "twitterUsername": "",
     "followers": 14,
-    "privateContributions": 546,
+    "privateContributions": 547,
     "publicContributions": 12,
     "createdAt": "2013-03-24T19:27:22Z"
   },
@@ -7939,7 +7939,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 15,
-    "privateContributions": 360,
+    "privateContributions": 355,
     "publicContributions": 0,
     "createdAt": "2013-11-12T08:16:23Z"
   },
@@ -8011,7 +8011,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 393,
+    "privateContributions": 394,
     "publicContributions": 125,
     "createdAt": "2013-11-12T08:54:37Z"
   },
@@ -8035,7 +8035,7 @@
     "company": "Hashtag CTA LLC",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 3063,
+    "privateContributions": 3023,
     "publicContributions": 0,
     "createdAt": "2013-06-18T06:29:18Z"
   },
@@ -8047,7 +8047,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 3751,
+    "privateContributions": 3738,
     "publicContributions": 33,
     "createdAt": "2013-06-05T03:51:19Z"
   },
@@ -8076,18 +8076,6 @@
     "createdAt": "2013-02-06T03:59:32Z"
   },
   {
-    "login": "tulubyev",
-    "name": "Alexander Tulubyev",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/3598690?s=72&u=5ac10f5e22674dfacf61c2932847b2b82d52b733&v=4",
-    "location": "Ulan-Bator, Mongolia",
-    "company": "Innovative Intellectual Systems",
-    "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 2722,
-    "publicContributions": 440,
-    "createdAt": "2013-02-15T01:05:30Z"
-  },
-  {
     "login": "dulguun0225",
     "name": "Dulguun Otgon",
     "avatarUrl": "https://avatars.githubusercontent.com/u/4142584?s=72&v=4",
@@ -8096,7 +8084,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 417,
-    "publicContributions": 142,
+    "publicContributions": 150,
     "createdAt": "2013-04-13T03:12:26Z"
   },
   {
