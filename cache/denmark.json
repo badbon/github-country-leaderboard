@@ -37206,7 +37206,7 @@
     "location": "Denmark",
     "company": "",
     "twitterUsername": "mertinhansen",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-08-08T08:10:55Z"
@@ -37231,8 +37231,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1834,
-    "publicContributions": 194,
+    "privateContributions": 1851,
+    "publicContributions": 215,
     "createdAt": "2021-01-25T12:43:40Z"
   },
   {
@@ -37255,8 +37255,8 @@
     "company": "DiaSense ApS",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 305,
-    "publicContributions": 190,
+    "privateContributions": 518,
+    "publicContributions": 178,
     "createdAt": "2021-01-05T21:24:54Z"
   },
   {
@@ -37266,9 +37266,9 @@
     "location": "Denmark",
     "company": "VipssMobilePay",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 532,
-    "publicContributions": 12,
+    "followers": 3,
+    "privateContributions": 791,
+    "publicContributions": 17,
     "createdAt": "2021-04-03T17:10:42Z"
   },
   {
@@ -37292,7 +37292,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 3,
-    "publicContributions": 211,
+    "publicContributions": 300,
     "createdAt": "2021-10-01T08:26:08Z"
   },
   {
@@ -37340,7 +37340,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 54,
+    "publicContributions": 25,
     "createdAt": "2021-09-23T12:22:22Z"
   },
   {
@@ -37378,18 +37378,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-02-16T11:40:25Z"
-  },
-  {
-    "login": "Andrei-Lichi",
-    "name": "Andrei-George Lichi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/93666980?s=72&u=df8c039f1e4e3e21504121467d22b554a2f6072b&v=4",
-    "location": "Denmark, Horsens",
-    "company": "",
-    "twitterUsername": "lichiag21",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2021-11-03T15:20:04Z"
   },
   {
     "login": "jonRagnars",

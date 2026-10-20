@@ -37040,7 +37040,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 18,
     "createdAt": "2021-06-18T12:04:10Z"
   },
   {
@@ -37122,7 +37122,7 @@
     "location": "Liège, Belgium",
     "company": "Freelance",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 6,
     "createdAt": "2021-08-19T14:52:16Z"
@@ -37136,7 +37136,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2021-11-25T20:45:03Z"
   },
   {
@@ -37148,7 +37148,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 1,
     "createdAt": "2021-11-01T21:22:14Z"
   },
   {
@@ -37159,8 +37159,8 @@
     "company": "Bert Moreau",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 417,
-    "publicContributions": 27,
+    "privateContributions": 569,
+    "publicContributions": 28,
     "createdAt": "2021-03-13T20:49:02Z"
   },
   {
@@ -37171,7 +37171,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 273,
+    "privateContributions": 198,
     "publicContributions": 0,
     "createdAt": "2021-04-26T07:17:53Z"
   },
@@ -37246,18 +37246,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-11-18T17:32:19Z"
-  },
-  {
-    "login": "kevinvermassen",
-    "name": "Kevin Vermassen",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/76734170?s=72&v=4",
-    "location": "Belgium",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2020-12-29T12:01:32Z"
   },
   {
     "login": "Liothasu",
@@ -220534,5 +220522,17 @@
     "privateContributions": 0,
     "publicContributions": 362,
     "createdAt": "2022-06-12T13:42:13Z"
+  },
+  {
+    "login": "alibougarne",
+    "name": "Ali Bougarne",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/59331063?s=72&u=ad75178acd76bf7f8a82b274765e2020edba620d&v=4",
+    "location": "Belgium",
+    "company": "Yassir, @YAtechnologies ",
+    "twitterUsername": "",
+    "followers": 167,
+    "privateContributions": 265,
+    "publicContributions": 16,
+    "createdAt": "2019-12-29T09:13:00Z"
   }
 ]

@@ -36151,8 +36151,8 @@
     "company": "@Boardeaser ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 2752,
-    "publicContributions": 0,
+    "privateContributions": 3419,
+    "publicContributions": 2,
     "createdAt": "2023-08-21T08:16:25Z"
   },
   {
@@ -36192,18 +36192,6 @@
     "createdAt": "2023-08-29T21:36:50Z"
   },
   {
-    "login": "Glanshammar",
-    "name": "Andreas Johansson",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/139002154?s=72&u=8ed6c47e2c1d038297b85edd44d0f5883e831db4&v=4",
-    "location": "Örebro, Sweden",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 171,
-    "createdAt": "2023-07-08T16:47:58Z"
-  },
-  {
     "login": "FelixHultman",
     "name": "Felix Hultman",
     "avatarUrl": "https://avatars.githubusercontent.com/u/145000258?s=72&v=4",
@@ -36222,9 +36210,9 @@
     "location": "Sweden",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 190,
+    "publicContributions": 195,
     "createdAt": "2023-08-31T07:04:35Z"
   },
   {
@@ -36234,9 +36222,9 @@
     "location": "Lund, Sweden",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 285,
-    "publicContributions": 50,
+    "followers": 3,
+    "privateContributions": 414,
+    "publicContributions": 64,
     "createdAt": "2023-07-02T13:23:49Z"
   },
   {
@@ -36308,7 +36296,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 3,
     "createdAt": "2023-12-19T10:43:15Z"
   },
   {
@@ -36319,8 +36307,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 879,
-    "publicContributions": 1274,
+    "privateContributions": 916,
+    "publicContributions": 938,
     "createdAt": "2023-12-14T17:48:32Z"
   },
   {
@@ -36332,7 +36320,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 111,
+    "publicContributions": 50,
     "createdAt": "2023-11-21T09:14:37Z"
   },
   {
@@ -36344,7 +36332,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 530,
+    "publicContributions": 9,
     "createdAt": "2023-12-02T15:06:58Z"
   },
   {
@@ -36356,32 +36344,20 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 150,
+    "publicContributions": 329,
     "createdAt": "2023-11-10T14:50:03Z"
   },
   {
     "login": "JenniferViola",
     "name": "Jennifer",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/148761388?s=72&u=36e4e89f6768bdf3b3d88ba6c2a7343c7473ade5&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/148761388?s=72&u=00c251bec65d60b5dfcf15c71175db3089311e67&v=4",
     "location": "Sweden",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 181,
-    "publicContributions": 158,
+    "privateContributions": 266,
+    "publicContributions": 95,
     "createdAt": "2023-10-23T09:43:06Z"
-  },
-  {
-    "login": "SkylaLZ",
-    "name": "Sky",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/142008315?s=72&u=917b171bb1860bc7b415772a926dae34449ea2b3&v=4",
-    "location": "Sweden",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2023-08-11T09:49:50Z"
   },
   {
     "login": "darunbjork",

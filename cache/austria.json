@@ -37075,7 +37075,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 41,
+    "privateContributions": 42,
     "publicContributions": 2,
     "createdAt": "2021-02-28T11:04:30Z"
   },
@@ -37135,8 +37135,8 @@
     "company": "Accenture",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 42,
-    "publicContributions": 1,
+    "privateContributions": 35,
+    "publicContributions": 0,
     "createdAt": "2021-08-13T23:01:25Z"
   },
   {
@@ -37147,7 +37147,7 @@
     "company": "@trafficon",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 10,
+    "privateContributions": 9,
     "publicContributions": 1,
     "createdAt": "2021-08-19T16:41:24Z"
   },
@@ -37170,21 +37170,21 @@
     "location": "Austria",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 12,
-    "publicContributions": 55,
+    "publicContributions": 91,
     "createdAt": "2021-08-26T09:50:55Z"
   },
   {
     "login": "MendedBiscuit",
-    "name": "juvo",
+    "name": "julian",
     "avatarUrl": "https://avatars.githubusercontent.com/u/88886688?s=72&u=d9ca73c25db35f1f63e6ac7a90dd65d5824533da&v=4",
     "location": "Austria",
     "company": "Data Lab Hell GmbH",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 562,
-    "publicContributions": 39,
+    "privateContributions": 884,
+    "publicContributions": 5,
     "createdAt": "2021-08-13T11:25:54Z"
   },
   {
@@ -37196,7 +37196,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 6,
     "createdAt": "2021-10-19T19:43:53Z"
   },
   {
@@ -37207,8 +37207,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 2,
-    "publicContributions": 4,
+    "privateContributions": 4,
+    "publicContributions": 1,
     "createdAt": "2021-01-18T10:22:18Z"
   },
   {
@@ -37220,7 +37220,7 @@
     "twitterUsername": "sandramol_s",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 82,
+    "publicContributions": 83,
     "createdAt": "2021-01-15T18:08:02Z"
   },
   {
@@ -37244,7 +37244,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 0,
     "createdAt": "2021-12-13T12:43:24Z"
   },
   {
@@ -37278,9 +37278,9 @@
     "location": "Austria",
     "company": "HTL-Braunau",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 184,
-    "publicContributions": 180,
+    "followers": 8,
+    "privateContributions": 192,
+    "publicContributions": 270,
     "createdAt": "2021-10-19T18:44:17Z"
   },
   {
@@ -37291,7 +37291,7 @@
     "company": "DigestAID",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 323,
+    "privateContributions": 421,
     "publicContributions": 0,
     "createdAt": "2021-05-19T08:52:43Z"
   },

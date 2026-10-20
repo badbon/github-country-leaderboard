@@ -37207,8 +37207,8 @@
     "company": "@",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 28,
-    "publicContributions": 134,
+    "privateContributions": 48,
+    "publicContributions": 133,
     "createdAt": "2020-04-06T14:06:58Z"
   },
   {
@@ -37218,9 +37218,9 @@
     "location": "Tbilisi",
     "company": "Omedia",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 9,
     "createdAt": "2020-11-15T00:40:05Z"
   },
   {
@@ -37230,8 +37230,8 @@
     "location": "Tbilisi",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 275,
+    "followers": 10,
+    "privateContributions": 1301,
     "publicContributions": 1,
     "createdAt": "2020-02-06T14:03:27Z"
   },
@@ -37278,8 +37278,8 @@
     "location": "Tbilisi",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 536,
+    "followers": 7,
+    "privateContributions": 571,
     "publicContributions": 13,
     "createdAt": "2020-10-03T09:43:31Z"
   },
@@ -37290,9 +37290,9 @@
     "location": "Tbilisi",
     "company": "Nethermind",
     "twitterUsername": "Ankuinf",
-    "followers": 10,
-    "privateContributions": 255,
-    "publicContributions": 1526,
+    "followers": 11,
+    "privateContributions": 213,
+    "publicContributions": 2213,
     "createdAt": "2020-09-23T03:39:21Z"
   },
   {
@@ -37302,8 +37302,8 @@
     "location": "Tbilisi",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 750,
+    "followers": 9,
+    "privateContributions": 813,
     "publicContributions": 1,
     "createdAt": "2020-07-26T15:17:02Z"
   },
@@ -37328,7 +37328,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 205,
+    "publicContributions": 180,
     "createdAt": "2020-04-29T07:27:57Z"
   },
   {
@@ -37338,9 +37338,9 @@
     "location": "Tbilisi",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 226,
-    "publicContributions": 13,
+    "followers": 8,
+    "privateContributions": 133,
+    "publicContributions": 12,
     "createdAt": "2020-05-07T10:54:02Z"
   },
   {
@@ -37351,21 +37351,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 3433,
+    "privateContributions": 3417,
     "publicContributions": 3,
     "createdAt": "2020-09-05T20:26:38Z"
-  },
-  {
-    "login": "bashkirian",
-    "name": "Almaz Shagiev",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/68480736?s=72&u=658af885e59a31e14864af6e86b487c8112f427f&v=4",
-    "location": "Tbilisi",
-    "company": "@VK",
-    "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 0,
-    "publicContributions": 123,
-    "createdAt": "2020-07-18T19:38:45Z"
   },
   {
     "login": "Zubkov99",
@@ -37375,7 +37363,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 174,
+    "privateContributions": 190,
     "publicContributions": 0,
     "createdAt": "2020-02-27T16:12:24Z"
   },
@@ -37387,7 +37375,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 13,
+    "privateContributions": 4,
     "publicContributions": 0,
     "createdAt": "2020-10-12T14:07:28Z"
   },
@@ -37398,7 +37386,7 @@
     "location": "Tbilisi",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-03-22T19:20:10Z"
@@ -37411,7 +37399,7 @@
     "company": "@ArttteoSoftware",
     "twitterUsername": "NikoChopikashv4",
     "followers": 5,
-    "privateContributions": 251,
+    "privateContributions": 333,
     "publicContributions": 4,
     "createdAt": "2020-12-05T11:02:50Z"
   },

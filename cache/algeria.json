@@ -36618,7 +36618,7 @@
     "location": "Algiers ",
     "company": "Usthb ",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2021-11-06T12:15:44Z"
@@ -36655,7 +36655,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 316,
+    "privateContributions": 417,
     "publicContributions": 4,
     "createdAt": "2021-07-01T21:26:54Z"
   },
@@ -36679,21 +36679,9 @@
     "company": "ValleyCom",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 344,
-    "publicContributions": 12,
+    "privateContributions": 342,
+    "publicContributions": 5,
     "createdAt": "2021-01-10T17:02:49Z"
-  },
-  {
-    "login": "MiloudKara",
-    "name": "Clay Focus",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/96697494?s=72&u=c5df754ac7d41043c0a7b0f5afcccff402a1e6f6&v=4",
-    "location": "Algiers",
-    "company": "",
-    "twitterUsername": "clay_focus",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2021-12-26T17:52:48Z"
   },
   {
     "login": "omarentiauspe",
@@ -36704,7 +36692,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 24,
     "createdAt": "2021-06-10T14:27:31Z"
   },
   {
@@ -36728,7 +36716,7 @@
     "twitterUsername": "rayandpo",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2785,
+    "publicContributions": 2525,
     "createdAt": "2021-11-25T22:15:21Z"
   },
   {
@@ -36762,8 +36750,8 @@
     "location": "Algeria,mostaganem",
     "company": "TM71",
     "twitterUsername": "hmida71",
-    "followers": 752,
-    "privateContributions": 171,
+    "followers": 751,
+    "privateContributions": 124,
     "publicContributions": 60,
     "createdAt": "2020-08-16T13:35:05Z"
   },
@@ -36774,7 +36762,7 @@
     "location": "algeria",
     "company": "",
     "twitterUsername": "",
-    "followers": 507,
+    "followers": 506,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-08-10T18:18:46Z"
@@ -36787,8 +36775,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 242,
-    "privateContributions": 1775,
-    "publicContributions": 9,
+    "privateContributions": 1834,
+    "publicContributions": 0,
     "createdAt": "2020-10-30T18:45:26Z"
   },
   {
@@ -36798,34 +36786,22 @@
     "location": "Mila, Algeria",
     "company": "ESTIN",
     "twitterUsername": "",
-    "followers": 167,
-    "privateContributions": 1368,
-    "publicContributions": 15,
+    "followers": 171,
+    "privateContributions": 1434,
+    "publicContributions": 31,
     "createdAt": "2020-04-26T13:30:00Z"
   },
   {
     "login": "abdelillahbel",
     "name": "Abdel Illah",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/73066920?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/73066920?s=72&u=2108023d4dad267c2c1530074d9e58f921f7be16&v=4",
     "location": "Algeria",
     "company": "",
     "twitterUsername": "abdelillahbell",
-    "followers": 166,
-    "privateContributions": 351,
-    "publicContributions": 20,
+    "followers": 163,
+    "privateContributions": 301,
+    "publicContributions": 23,
     "createdAt": "2020-10-18T13:52:09Z"
-  },
-  {
-    "login": "alibougarne",
-    "name": "Ali Bougarne",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/59331063?s=72&u=ad75178acd76bf7f8a82b274765e2020edba620d&v=4",
-    "location": "Algeria",
-    "company": "Yassir, @YAtechnologies ",
-    "twitterUsername": "",
-    "followers": 166,
-    "privateContributions": 87,
-    "publicContributions": 0,
-    "createdAt": "2019-12-29T09:13:00Z"
   },
   {
     "login": "Meriem453",
@@ -36834,9 +36810,9 @@
     "location": "Algeria",
     "company": "Buydiz",
     "twitterUsername": "",
-    "followers": 159,
-    "privateContributions": 354,
-    "publicContributions": 55,
+    "followers": 160,
+    "privateContributions": 324,
+    "publicContributions": 14,
     "createdAt": "2020-12-01T17:20:01Z"
   },
   {

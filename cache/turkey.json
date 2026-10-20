@@ -36620,7 +36620,7 @@
     "twitterUsername": "ledlyy_yazilim",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-08-30T20:26:10Z"
   },
   {
@@ -36644,7 +36644,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 1,
     "createdAt": "2025-09-10T16:12:28Z"
   },
   {
@@ -36656,7 +36656,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 10,
     "createdAt": "2025-09-29T06:20:35Z"
   },
   {
@@ -36668,7 +36668,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 43,
+    "publicContributions": 42,
     "createdAt": "2025-10-09T10:24:24Z"
   },
   {
@@ -36680,7 +36680,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 20,
     "createdAt": "2025-10-09T17:51:40Z"
   },
   {
@@ -36704,7 +36704,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 7,
     "createdAt": "2025-02-16T09:24:19Z"
   },
   {
@@ -36764,7 +36764,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 161,
-    "publicContributions": 130,
+    "publicContributions": 129,
     "createdAt": "2025-05-02T05:13:24Z"
   },
   {
@@ -36776,7 +36776,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 17,
     "createdAt": "2025-01-09T10:13:28Z"
   },
   {
@@ -36800,7 +36800,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 10,
     "createdAt": "2025-01-30T05:41:02Z"
   },
   {
@@ -950062,5 +950062,17 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-06-28T19:01:57Z"
+  },
+  {
+    "login": "aygness35",
+    "name": "Esranur AYGÜN",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/297655208?s=72&u=e080e56de2a0ed9b43a53e8be48b0d59fe373f89&v=4",
+    "location": "İzmir",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 27,
+    "createdAt": "2026-06-28T14:35:09Z"
   }
 ]
