@@ -1,6 +1,6 @@
 # Public Contributions - Syria
 
-Generated: 2026-10-20T14:49:03.152Z
+Generated: 2026-10-20T16:24:28.885Z
 
 Users: 1478
 
@@ -12,8 +12,8 @@ Users: 1478
 | 4 | [assem2023-habib](https://github.com/assem2023-habib) | Assem |  |  | Latakia, Syria | 1654 |
 | 5 | [M7MMAD-OMAR](https://github.com/M7MMAD-OMAR) | Muhmad | Sbarah |  | Syria | 1601 |
 | 6 | [royaraqamia](https://github.com/royaraqamia) | رؤيَة رقَميَّة | رؤيَة رقَميَّة |  | Syria | 1588 |
-| 7 | [AhmadKharfan](https://github.com/AhmadKharfan) | Ahmad Kharfan |  |  | Syria, Damascus | 1525 |
-| 8 | [ibrahimhamwi99](https://github.com/ibrahimhamwi99) | ibrahimhamwi  |  |  | syria | 1498 |
+| 7 | [ibrahimhamwi99](https://github.com/ibrahimhamwi99) | ibrahimhamwi  |  |  | syria | 1498 |
+| 8 | [AhmadKharfan](https://github.com/AhmadKharfan) | Ahmad Kharfan |  |  | Syria, Damascus | 1438 |
 | 9 | [Abdomghrbi](https://github.com/Abdomghrbi) | Abdullrahman almaghrabi | Freelancer | AbdoMaghrbi | Syria | 1252 |
 | 10 | [ali-talal-ibrahem](https://github.com/ali-talal-ibrahem) | Ali Talal Ibrahem |  |  | syria | 1193 |
 | 11 | [Hakam-aldeen-Kh](https://github.com/Hakam-aldeen-Kh) | Hakam aldeen Alkhadraa | Sham Logix |  | Syria | 1193 |

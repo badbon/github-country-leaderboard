@@ -1,6 +1,6 @@
 # Followers - Azerbaijan
 
-Generated: 2026-10-20T15:03:36.945Z
+Generated: 2026-10-20T16:45:26.079Z
 
 Users: 5051
 
@@ -16,7 +16,7 @@ Users: 5051
 | 8 | [TuralSuleymani](https://github.com/TuralSuleymani) | Tural Suleymani | ITF Group |  | Baku | 471 |
 | 9 | [khanjanov](https://github.com/khanjanov) | Karim |  |  | Azerbaijan, Baku | 442 |
 | 10 | [hasanbakhtiar](https://github.com/hasanbakhtiar) | Hasan  | Webluna Software |  | Azerbaijan, Baku | 436 |
-| 11 | [kamranbekirovyz](https://github.com/kamranbekirovyz) | Kamran Bekirov |  | kamranbekirovyz | Baku, Azerbaijan | 413 |
+| 11 | [kamranbekirovyz](https://github.com/kamranbekirovyz) | Kamran Bekirov |  | kamranbekirovyz | Baku, Azerbaijan | 424 |
 | 12 | [sarkhanrasullu](https://github.com/sarkhanrasullu) | Sarkhan Rasullu | www.sarkhanrasullu.com |  | Azerbaijan | 408 |
 | 13 | [nurullaibadov](https://github.com/nurullaibadov) | Nurulla Ibadov | PeerStack |  | Azerbaijan,Baku | 365 |
 | 14 | [KhanbalaRashidov](https://github.com/KhanbalaRashidov) | Khanbala Rashidov | EManat  | Rashidov_Kh | Baku/Azerbaijan | 358 |
@@ -24,5 +24,5 @@ Users: 5051
 | 16 | [hmd37](https://github.com/hmd37) | Ahmad Allahverdiyev |  |  | Azerbaijan, Baku | 320 |
 | 17 | [samirkarimov](https://github.com/samirkarimov) | Samir Karimov |  |  | Azerbaijan | 308 |
 | 18 | [zeynallow](https://github.com/zeynallow) | Zeynal | @starexglobal  |  | Azerbaijan, Baku | 270 |
-| 19 | [Jeyhun1227](https://github.com/Jeyhun1227) | Jeyhun Malikli |  |  | Baku | 253 |
-| 20 | [husniababaeva](https://github.com/husniababaeva) | Husniyya Babayeva |  |  | Azerbaijan,Baku | 252 |
+| 19 | [husniababaeva](https://github.com/husniababaeva) | Husniyya Babayeva |  |  | Azerbaijan,Baku | 255 |
+| 20 | [Jeyhun1227](https://github.com/Jeyhun1227) | Jeyhun Malikli |  |  | Baku | 253 |

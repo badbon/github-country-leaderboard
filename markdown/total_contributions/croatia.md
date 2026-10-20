@@ -1,8 +1,8 @@
 # Total Contributions - Croatia
 
-Generated: 2026-10-20T15:16:46.808Z
+Generated: 2026-10-20T17:01:08.194Z
 
-Users: 5422
+Users: 5421
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -16,13 +16,13 @@ Users: 5422
 | 8 | [SirBepy](https://github.com/SirBepy) | Josip Muzic | Proxify |  | Zagreb, Croatia | 9634 |
 | 9 | [markoboras0712](https://github.com/markoboras0712) | mboras | @prototypdigital |  | Osijek, Croatia | 9003 |
 | 10 | [bis3946](https://github.com/bis3946) | bis3946 | NuN Nexus of Unity  | bis3946 | Croatia | 8871 |
-| 11 | [lazar-tomislav](https://github.com/lazar-tomislav) | Tomislav Lazar | Morgan Code |  | Croatia | 8131 |
-| 12 | [ivanmeler](https://github.com/ivanmeler) | Ivan Meler | Meler Media Group | ivan_meler | Croatia, Vukovar | 7621 |
-| 13 | [mbrcic](https://github.com/mbrcic) | Mario Brcic |  |  | Zagreb, Croatia | 7336 |
-| 14 | [zvanjak](https://github.com/zvanjak) | Zvonimir Vanjak | Quantum Soft d.o.o. | zvanjak | Zagreb | 7219 |
-| 15 | [viborc](https://github.com/viborc) | Vibor Cipan | Daydream | viborc | Croatia | 7209 |
-| 16 | [verona-dev](https://github.com/verona-dev) | Zoran G. Verona | Good Code |  | Croatia | 6981 |
-| 17 | [Domogo](https://github.com/Domogo) | Domagoj Satrapa |  |  | Pula, Croatia | 6765 |
-| 18 | [SeloSlav](https://github.com/SeloSlav) | Martin Erlic |  | SeloSlav | Zagreb | 6760 |
-| 19 | [piqusy](https://github.com/piqusy) | Ivan Ramljak | @infinum  |  | Zagreb | 6748 |
-| 20 | [leonardogazdek](https://github.com/leonardogazdek) | Leonardo Gazdek |  |  | Croatia | 6743 |
+| 11 | [lbagic](https://github.com/lbagic) | Luka Bagic |  |  | Croatia | 8198 |
+| 12 | [lazar-tomislav](https://github.com/lazar-tomislav) | Tomislav Lazar | Morgan Code |  | Croatia | 8131 |
+| 13 | [ivanmeler](https://github.com/ivanmeler) | Ivan Meler | Meler Media Group | ivan_meler | Croatia, Vukovar | 7621 |
+| 14 | [mbrcic](https://github.com/mbrcic) | Mario Brcic |  |  | Zagreb, Croatia | 7336 |
+| 15 | [zvanjak](https://github.com/zvanjak) | Zvonimir Vanjak | Quantum Soft d.o.o. | zvanjak | Zagreb | 7219 |
+| 16 | [viborc](https://github.com/viborc) | Vibor Cipan | Daydream | viborc | Croatia | 7209 |
+| 17 | [verona-dev](https://github.com/verona-dev) | Zoran G. Verona | Good Code |  | Croatia | 6981 |
+| 18 | [Domogo](https://github.com/Domogo) | Domagoj Satrapa |  |  | Pula, Croatia | 6765 |
+| 19 | [SeloSlav](https://github.com/SeloSlav) | Martin Erlic |  | SeloSlav | Zagreb | 6760 |
+| 20 | [piqusy](https://github.com/piqusy) | Ivan Ramljak | @infinum  |  | Zagreb | 6748 |

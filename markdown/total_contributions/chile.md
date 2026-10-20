@@ -1,12 +1,12 @@
 # Total Contributions - Chile
 
-Generated: 2026-10-20T15:12:31.237Z
+Generated: 2026-10-20T16:58:08.551Z
 
 Users: 19378
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [paulmunozpauta](https://github.com/paulmunozpauta) | Paul Muñoz | Universidad de Concepción |  | Chile | 56256 |
+| 1 | [paulmunozpauta](https://github.com/paulmunozpauta) | Paul Muñoz | Universidad de Concepción |  | Chile | 75711 |
 | 2 | [felipealfonsog](https://github.com/felipealfonsog) | Felipe Alfonso González | @openvelora @novalangley @community @redlinecyberintel | felipealfonsog | Santiago, Metropolitan Region, Chile | 53201 |
 | 3 | [Isabelnava100](https://github.com/Isabelnava100) | Isabel Nava |  |  | Concepcion, Chile | 27729 |
 | 4 | [fsantibanezleal](https://github.com/fsantibanezleal) | Felipe Santibáñez-Leal | FASL.Work | fsantiba | Chile | 26036 |

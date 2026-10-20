@@ -1,12 +1,12 @@
 # Public Contributions - Chile
 
-Generated: 2026-10-20T15:12:31.237Z
+Generated: 2026-10-20T16:58:08.551Z
 
 Users: 19378
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [paulmunozpauta](https://github.com/paulmunozpauta) | Paul Muñoz | Universidad de Concepción |  | Chile | 56256 |
+| 1 | [paulmunozpauta](https://github.com/paulmunozpauta) | Paul Muñoz | Universidad de Concepción |  | Chile | 75711 |
 | 2 | [Isabelnava100](https://github.com/Isabelnava100) | Isabel Nava |  |  | Concepcion, Chile | 27729 |
 | 3 | [sebavidal10](https://github.com/sebavidal10) | Sebastian Vidal Aedo |  |  | Chile | 18241 |
 | 4 | [appwebd](https://github.com/appwebd) | Patricio Rojas |  |  | Chile | 12657 |

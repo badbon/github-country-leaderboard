@@ -27,7 +27,7 @@ Indexed users: 701
 | 13 | [bilwifi](https://github.com/bilwifi) | Peniel DIALUNDAMA | Kinshasa, DRC | 5,652 |
 | 14 | [kalemadaniel](https://github.com/kalemadaniel) | Kalema Daniel Jonathan | Democratic Republic of the Congo, Goma | 5,585 |
 | 15 | [danielrubango](https://github.com/danielrubango) | Daniel RUBANGO | Kinshasa | 5,264 |
-| 16 | [hktom](https://github.com/hktom) | Tom Hikari | Congo Kinshasa | 5,113 |
+| 16 | [hktom](https://github.com/hktom) | Tom Hikari | Congo Kinshasa | 5,119 |
 | 17 | [AlbusDigi](https://github.com/AlbusDigi) | Albus | Kinshasa | 4,844 |
 | 18 | [pacomeissa](https://github.com/pacomeissa) | PACOME ISSA | Democratic Republic of Congo | 4,819 |
 | 19 | [MasirikaConstantin](https://github.com/MasirikaConstantin) | Masirika Constantin | Kinshasa | 4,577 |
@@ -56,7 +56,7 @@ Indexed users: 701
 | 17 | [Mgreat01](https://github.com/Mgreat01) | ephraim monga ( ambassadeur 🥷) | KINSHASA / RD CONGO | 861 |
 | 18 | [AngisheSALEM](https://github.com/AngisheSALEM) | Salem Angishe  | Kinshasa  | 739 |
 | 19 | [silasmas](https://github.com/silasmas) | silasmas | kinshasa | 699 |
-| 20 | [bernard-ng](https://github.com/bernard-ng) | Bernard Ngandu | DR Congo, Lubumbashi | 680 |
+| 20 | [bernard-ng](https://github.com/bernard-ng) | Bernard Ngandu | DR Congo, Lubumbashi | 669 |
 
 ## Followers
 
@@ -73,7 +73,7 @@ Indexed users: 701
 | 9 | [eltazy](https://github.com/eltazy) | Michel B | Kinshasa, CD | 131 |
 | 10 | [oesukam](https://github.com/oesukam) | Olivier M. Esuka | Kinshasa, Nairobi, Kigali | 104 |
 | 11 | [IronOnet](https://github.com/IronOnet) | Arnaud Wanet | Kinshasa | 103 |
-| 12 | [hktom](https://github.com/hktom) | Tom Hikari | Congo Kinshasa | 100 |
+| 12 | [hktom](https://github.com/hktom) | Tom Hikari | Congo Kinshasa | 98 |
 | 13 | [valamandar](https://github.com/valamandar) | Vala Mandar | RD Congo, Kinshasa | 89 |
 | 14 | [fdis111](https://github.com/fdis111) | Francois Disubi | Kinshasa Drc | 87 |
 | 15 | [jlmbaka](https://github.com/jlmbaka) | Jean-Louis Mbaka | Kinshasa, DRC | 83 |
@@ -83,4 +83,4 @@ Indexed users: 701
 | 19 | [bolenge](https://github.com/bolenge) | Don de Dieu Bolenge | Congo - Kinshasa | 69 |
 | 20 | [ChrisMwanya](https://github.com/ChrisMwanya) | Chris Mwanya | kinshasa | 69 |
 
-Generated: 2026-10-20T15:19:21.833Z
+Generated: 2026-10-20T17:05:28.170Z

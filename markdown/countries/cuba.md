@@ -30,8 +30,8 @@ Indexed users: 1,273
 | 16 | [ucicarlos](https://github.com/ucicarlos) | Carlos Miguel Pérez Reyes | Havana, Cuba | 4,054 |
 | 17 | [disnelrr](https://github.com/disnelrr) | Disnel Rodríguez Rodríguez | Cuba | 3,878 |
 | 18 | [Ztaz9906](https://github.com/Ztaz9906) | Enrique Ferriero | Cuba | 3,864 |
-| 19 | [MiguelAntonioRS](https://github.com/MiguelAntonioRS) | Miguel | Cuba, Holguin | 3,259 |
-| 20 | [A4GOD-AMHG](https://github.com/A4GOD-AMHG) | Alexis Manuel Hurtado García | Cuba | 3,252 |
+| 19 | [theGitNoob](https://github.com/theGitNoob) | Rafael Acosta Márquez | Havana, Cuba | 3,341 |
+| 20 | [MiguelAntonioRS](https://github.com/MiguelAntonioRS) | Miguel | Cuba, Holguin | 3,259 |
 
 ## Public Contributions
 
@@ -51,9 +51,9 @@ Indexed users: 1,273
 | 12 | [NairAd02](https://github.com/NairAd02) | Adrian Suarez | Havana, Cuba | 1,228 |
 | 13 | [PushoDev](https://github.com/PushoDev) | Luis A. Guisado | Ciudad de Manzanillo, Cuba | 1,182 |
 | 14 | [apokaliptolesamale](https://github.com/apokaliptolesamale) | Dailyn García Domínguez | La Habana, Cuba | 994 |
-| 15 | [noakmilo](https://github.com/noakmilo) | Camilo Noa | Cuba | 989 |
-| 16 | [Ruben0304](https://github.com/Ruben0304) | Ruben Hernandez | Cuba | 977 |
-| 17 | [MazMorrDev](https://github.com/MazMorrDev) | Marco Antonio Romero Albanez | Cárdenas, Matanzas, Cuba | 931 |
+| 15 | [Ruben0304](https://github.com/Ruben0304) | Ruben Hernandez | Cuba | 977 |
+| 16 | [MazMorrDev](https://github.com/MazMorrDev) | Marco Antonio Romero Albanez | Cárdenas, Matanzas, Cuba | 931 |
+| 17 | [noakmilo](https://github.com/noakmilo) | Camilo Noa | Cuba | 913 |
 | 18 | [yordenis91](https://github.com/yordenis91) | Yordenis Correoso L | La Habana, Cuba | 859 |
 | 19 | [maicel1978](https://github.com/maicel1978) | Maicel Monzón | Cuba | 774 |
 | 20 | [engelsrc](https://github.com/engelsrc) | Engels Rodriguez Capote | Santiago de Cuba, Cuba | 740 |
@@ -83,4 +83,4 @@ Indexed users: 1,273
 | 19 | [markospy](https://github.com/markospy) | Marcos Avila | Cuba | 72 |
 | 20 | [EduardoProfe666](https://github.com/EduardoProfe666) | Eduardo Alejandro González Martell | La Habana, Cuba | 69 |
 
-Generated: 2026-10-20T15:17:33.183Z
+Generated: 2026-10-20T17:01:15.817Z

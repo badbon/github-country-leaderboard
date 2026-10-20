@@ -31,7 +31,7 @@ Indexed users: 5,051
 | 17 | [OrkhanAbbasli](https://github.com/OrkhanAbbasli) | Orkhan Abbasli | Baku,Azerbaijan | 5,281 |
 | 18 | [mahammad-ibrahimli](https://github.com/mahammad-ibrahimli) | Admin | Baku, Azerbaijan | 5,267 |
 | 19 | [mahooo0](https://github.com/mahooo0) | Muhemed Ibrahimov | Azerbaijan | 5,262 |
-| 20 | [kamranbekirovyz](https://github.com/kamranbekirovyz) | Kamran Bekirov | Baku, Azerbaijan | 4,767 |
+| 20 | [frddl](https://github.com/frddl) | Farid M. | Baku, Azerbaijan | 4,667 |
 
 ## Public Contributions
 
@@ -72,7 +72,7 @@ Indexed users: 5,051
 | 8 | [TuralSuleymani](https://github.com/TuralSuleymani) | Tural Suleymani | Baku | 471 |
 | 9 | [khanjanov](https://github.com/khanjanov) | Karim | Azerbaijan, Baku | 442 |
 | 10 | [hasanbakhtiar](https://github.com/hasanbakhtiar) | Hasan  | Azerbaijan, Baku | 436 |
-| 11 | [kamranbekirovyz](https://github.com/kamranbekirovyz) | Kamran Bekirov | Baku, Azerbaijan | 413 |
+| 11 | [kamranbekirovyz](https://github.com/kamranbekirovyz) | Kamran Bekirov | Baku, Azerbaijan | 424 |
 | 12 | [sarkhanrasullu](https://github.com/sarkhanrasullu) | Sarkhan Rasullu | Azerbaijan | 408 |
 | 13 | [nurullaibadov](https://github.com/nurullaibadov) | Nurulla Ibadov | Azerbaijan,Baku | 365 |
 | 14 | [KhanbalaRashidov](https://github.com/KhanbalaRashidov) | Khanbala Rashidov | Baku/Azerbaijan | 358 |
@@ -80,7 +80,7 @@ Indexed users: 5,051
 | 16 | [hmd37](https://github.com/hmd37) | Ahmad Allahverdiyev | Azerbaijan, Baku | 320 |
 | 17 | [samirkarimov](https://github.com/samirkarimov) | Samir Karimov | Azerbaijan | 308 |
 | 18 | [zeynallow](https://github.com/zeynallow) | Zeynal | Azerbaijan, Baku | 270 |
-| 19 | [Jeyhun1227](https://github.com/Jeyhun1227) | Jeyhun Malikli | Baku | 253 |
-| 20 | [husniababaeva](https://github.com/husniababaeva) | Husniyya Babayeva | Azerbaijan,Baku | 252 |
+| 19 | [husniababaeva](https://github.com/husniababaeva) | Husniyya Babayeva | Azerbaijan,Baku | 255 |
+| 20 | [Jeyhun1227](https://github.com/Jeyhun1227) | Jeyhun Malikli | Baku | 253 |
 
-Generated: 2026-10-20T15:03:36.945Z
+Generated: 2026-10-20T16:45:26.079Z

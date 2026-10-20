@@ -18,8 +18,8 @@ Indexed users: 1,783
 | 4 | [abelrgr](https://github.com/abelrgr) | Abel | Bolivia | 8,486 |
 | 5 | [DaleneyRuben](https://github.com/DaleneyRuben) | Fernando Daleney | La Paz, Bolivia | 7,674 |
 | 6 | [arkgast](https://github.com/arkgast) | Arnold Gandarillas Castillo | Bolivia | 7,025 |
-| 7 | [stanlee321](https://github.com/stanlee321) | Stanley Salvatierra | Bolivia | 6,197 |
-| 8 | [jpfernandezl](https://github.com/jpfernandezl) | Juan Pablo Fernandez | Bolivia | 6,174 |
+| 7 | [jpfernandezl](https://github.com/jpfernandezl) | Juan Pablo Fernandez | Bolivia | 6,619 |
+| 8 | [stanlee321](https://github.com/stanlee321) | Stanley Salvatierra | Bolivia | 6,197 |
 | 9 | [alxmcr](https://github.com/alxmcr) | Alejandro M. Coca | Bolivia | 6,053 |
 | 10 | [nicolenumbergg](https://github.com/nicolenumbergg) | Nicole Numberg | Santa Cruz, Bolivia | 5,842 |
 | 11 | [OscarGauss](https://github.com/OscarGauss) | Oscar Gauss Carvajal Yucra | La Paz, Bolivia | 5,337 |
@@ -27,7 +27,7 @@ Indexed users: 1,783
 | 13 | [nahimdhaney](https://github.com/nahimdhaney) | Nahim Terrazas Parada | Bolivia | 4,941 |
 | 14 | [cesarszv](https://github.com/cesarszv) | Sebastian Zambrana | Santa Cruz, Bolivia | 4,884 |
 | 15 | [ChristianConchari](https://github.com/ChristianConchari) | Chris Conchari | Bolivia | 4,493 |
-| 16 | [villcabo](https://github.com/villcabo) | Bismarck Villca | Bolivia | 4,262 |
+| 16 | [villcabo](https://github.com/villcabo) | Bismarck Villca | Bolivia | 4,245 |
 | 17 | [GonzaloPinell](https://github.com/GonzaloPinell) | Gonzalo Pinell | La Paz, Bolivia | 4,018 |
 | 18 | [Mats2208](https://github.com/Mats2208) | Mateo Andres Soto Gareca | Santa Cruz, Bolivia  | 3,957 |
 | 19 | [ggonzalez94](https://github.com/ggonzalez94) | Gustavo Gonzalez | Santa Cruz de la SIerra, Bolivia | 3,813 |
@@ -83,4 +83,4 @@ Indexed users: 1,783
 | 19 | [alvarosiles11](https://github.com/alvarosiles11) | Alvaro Siles Estrada | Bolivia | 121 |
 | 20 | [mauforonda](https://github.com/mauforonda) | Mau Foronda | Bolivia | 120 |
 
-Generated: 2026-10-20T15:06:59.861Z
+Generated: 2026-10-20T16:49:01.105Z

@@ -1,6 +1,6 @@
 # Total Contributions - DR Congo
 
-Generated: 2026-10-20T15:19:21.833Z
+Generated: 2026-10-20T17:05:28.170Z
 
 Users: 701
 
@@ -21,7 +21,7 @@ Users: 701
 | 13 | [bilwifi](https://github.com/bilwifi) | Peniel DIALUNDAMA | @napp-inc  | peniel_dialu | Kinshasa, DRC | 5652 |
 | 14 | [kalemadaniel](https://github.com/kalemadaniel) | Kalema Daniel Jonathan | ULB COOPERATION | KalemaDaniel2 | Democratic Republic of the Congo, Goma | 5585 |
 | 15 | [danielrubango](https://github.com/danielrubango) | Daniel RUBANGO | Yetulab ltd |  | Kinshasa | 5264 |
-| 16 | [hktom](https://github.com/hktom) | Tom Hikari | Akieni |  | Congo Kinshasa | 5113 |
+| 16 | [hktom](https://github.com/hktom) | Tom Hikari | Akieni |  | Congo Kinshasa | 5119 |
 | 17 | [AlbusDigi](https://github.com/AlbusDigi) | Albus | Faharix |  | Kinshasa | 4844 |
 | 18 | [pacomeissa](https://github.com/pacomeissa) | PACOME ISSA | Freelancer |  | Democratic Republic of Congo | 4819 |
 | 19 | [MasirikaConstantin](https://github.com/MasirikaConstantin) | Masirika Constantin |  | negroconstantin | Kinshasa | 4577 |

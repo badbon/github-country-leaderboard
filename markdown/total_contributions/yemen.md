@@ -1,6 +1,6 @@
 # Total Contributions - Yemen
 
-Generated: 2026-10-20T14:57:25.531Z
+Generated: 2026-10-20T16:36:53.299Z
 
 Users: 1205
 
@@ -20,9 +20,9 @@ Users: 1205
 | 12 | [moatasem-alhilali](https://github.com/moatasem-alhilali) | Moatasem Alhilali |  |  | Yemen | 8016 |
 | 13 | [aymanalhattami](https://github.com/aymanalhattami) | Ayman Alhattami | Noot | aymanmalhattami | Yemen | 7617 |
 | 14 | [muath-ye](https://github.com/muath-ye) | Muath Alsowadi | Co-founder @YemenOpenSource, Member of @open-sale | muathye | Yemen | 7302 |
-| 15 | [AhmedSalehGhaithan](https://github.com/AhmedSalehGhaithan) | Ahmed ghaithan | DataTrans |  | Yemen ,sanaa | 6919 |
-| 16 | [EngAzzamZaid](https://github.com/EngAzzamZaid) | Eng Azzam Alsharie  | @KitSysCo  |  | Yemen | 6793 |
-| 17 | [mr3od](https://github.com/mr3od) | Abdulrahman | @nexumind-com  |  | Yemen | 6679 |
+| 15 | [mr3od](https://github.com/mr3od) | Abdulrahman | @nexumind-com  |  | Yemen | 6933 |
+| 16 | [AhmedSalehGhaithan](https://github.com/AhmedSalehGhaithan) | Ahmed ghaithan | DataTrans |  | Yemen ,sanaa | 6919 |
+| 17 | [EngAzzamZaid](https://github.com/EngAzzamZaid) | Eng Azzam Alsharie  | @KitSysCo  |  | Yemen | 6793 |
 | 18 | [yousef-aman](https://github.com/yousef-aman) | Yousef Aman |  | YousefAmanDev | Yemen | 6358 |
 | 19 | [mrwan-1](https://github.com/mrwan-1) | Marwan Abdullah | Step Forward YE |  | Yemen , Sanaa | 6193 |
 | 20 | [Jabri-web](https://github.com/Jabri-web) | Abdulla Al-Jabri | Yemen |  | Haziz- Sana'a | 6182 |

@@ -18,20 +18,20 @@ Indexed users: 18,247
 | 4 | [Kanevry](https://github.com/Kanevry) | Bernhard Götzendorfer | vienna | 31,693 |
 | 5 | [jack-ofalltraids](https://github.com/jack-ofalltraids) | Maxl | Austria | 30,011 |
 | 6 | [preciz](https://github.com/preciz) | Barna Kovacs | Austria | 23,804 |
-| 7 | [michavie](https://github.com/michavie) | Micha Vie | Austria | 21,730 |
-| 8 | [AVANT-ICONIC](https://github.com/AVANT-ICONIC) | Marc Ettl | Austria | 20,490 |
-| 9 | [Artaeon](https://github.com/Artaeon) | Raphael René Lugmayr | Austria | 18,985 |
-| 10 | [masterleopold](https://github.com/masterleopold) | Yoichiro Hara | Vienna | 17,986 |
-| 11 | [smartlabsAT](https://github.com/smartlabsAT) | Christopher Schwarz | Austria | 17,494 |
-| 12 | [seeekr](https://github.com/seeekr) | Denis Andrejew | Austria | 17,429 |
-| 13 | [goosefraba](https://github.com/goosefraba) | Bernhard Keprt | Vienna | 16,559 |
-| 14 | [mmgerald](https://github.com/mmgerald) | Gerald Lochner | Salzburg, Austria | 16,519 |
-| 15 | [JaySunSyn](https://github.com/JaySunSyn) | Jalal Fathi | Planet Earth \| Amsterdam \| Vienna \| Bali | 15,968 |
-| 16 | [rrust](https://github.com/rrust) | Roland Rust | Austria | 15,870 |
-| 17 | [ddedic](https://github.com/ddedic) | Danijel Dedic | Kufstein, Austria | 15,858 |
-| 18 | [michaelbromley](https://github.com/michaelbromley) | Michael Bromley | Vienna, Austria | 15,690 |
-| 19 | [DrBaher](https://github.com/DrBaher) | DrBaher | Austria | 15,529 |
-| 20 | [simeon-kepp](https://github.com/simeon-kepp) | rfi-irfos | Elisabetinergasse 25/Top 10/DG/ Graz, Austria, Skybase | 15,527 |
+| 7 | [Persie0](https://github.com/Persie0) |  | Austria | 22,363 |
+| 8 | [michavie](https://github.com/michavie) | Micha Vie | Austria | 21,730 |
+| 9 | [AVANT-ICONIC](https://github.com/AVANT-ICONIC) | Marc Ettl | Austria | 20,490 |
+| 10 | [Artaeon](https://github.com/Artaeon) | Raphael René Lugmayr | Austria | 18,985 |
+| 11 | [masterleopold](https://github.com/masterleopold) | Yoichiro Hara | Vienna | 17,986 |
+| 12 | [smartlabsAT](https://github.com/smartlabsAT) | Christopher Schwarz | Austria | 17,494 |
+| 13 | [seeekr](https://github.com/seeekr) | Denis Andrejew | Austria | 17,429 |
+| 14 | [goosefraba](https://github.com/goosefraba) | Bernhard Keprt | Vienna | 16,559 |
+| 15 | [mmgerald](https://github.com/mmgerald) | Gerald Lochner | Salzburg, Austria | 16,519 |
+| 16 | [JaySunSyn](https://github.com/JaySunSyn) | Jalal Fathi | Planet Earth \| Amsterdam \| Vienna \| Bali | 15,968 |
+| 17 | [rrust](https://github.com/rrust) | Roland Rust | Austria | 15,870 |
+| 18 | [ddedic](https://github.com/ddedic) | Danijel Dedic | Kufstein, Austria | 15,858 |
+| 19 | [michaelbromley](https://github.com/michaelbromley) | Michael Bromley | Vienna, Austria | 15,690 |
+| 20 | [DrBaher](https://github.com/DrBaher) | DrBaher | Austria | 15,529 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 18,247
 | 19 | [timolins](https://github.com/timolins) | Timo Lins | Vienna, Austria | 1,173 |
 | 20 | [cliffordwolf](https://github.com/cliffordwolf) | Claire Wolf | Vienna | 1,143 |
 
-Generated: 2026-10-20T15:03:00.557Z
+Generated: 2026-10-20T16:44:43.205Z

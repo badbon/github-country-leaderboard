@@ -1,13 +1,13 @@
 # Total Contributions - Uganda
 
-Generated: 2026-10-20T14:53:24.137Z
+Generated: 2026-10-20T16:31:58.240Z
 
 Users: 3864
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [obalaweb](https://github.com/obalaweb) | Obala Joseph Ivan | @codprez | obalaJivan | Gulu, Uganda | 15342 |
-| 2 | [alsong](https://github.com/alsong) | Oburusule Dunstan |  |  | Kampala, Uganda | 13712 |
+| 2 | [alsong](https://github.com/alsong) | Oburusule Dunstan |  |  | Kampala, Uganda | 14168 |
 | 3 | [BAGOMBEKA-JOB-DEV](https://github.com/BAGOMBEKA-JOB-DEV) | BAGOMBEKA JOB | @SMSONE  |  | KAMPALA, UGANDA | 11947 |
 | 4 | [pius22](https://github.com/pius22) | TECH-WORLDINFO | TECH-WORLDINFO |  | uganda | 11416 |
 | 5 | [peterbamuhigire](https://github.com/peterbamuhigire) | Peter Bamuhigire | Peter Bamuhigire | peterbamu | Kampala, Uganda | 10913 |

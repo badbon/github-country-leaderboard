@@ -1,8 +1,8 @@
 # Followers - Sweden
 
-Generated: 2026-10-20T14:47:53.237Z
+Generated: 2026-10-20T16:24:20.480Z
 
-Users: 39029
+Users: 39027
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

@@ -13,7 +13,7 @@ Indexed users: 3,864
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [obalaweb](https://github.com/obalaweb) | Obala Joseph Ivan | Gulu, Uganda | 15,342 |
-| 2 | [alsong](https://github.com/alsong) | Oburusule Dunstan | Kampala, Uganda | 13,712 |
+| 2 | [alsong](https://github.com/alsong) | Oburusule Dunstan | Kampala, Uganda | 14,168 |
 | 3 | [BAGOMBEKA-JOB-DEV](https://github.com/BAGOMBEKA-JOB-DEV) | BAGOMBEKA JOB | KAMPALA, UGANDA | 11,947 |
 | 4 | [pius22](https://github.com/pius22) | TECH-WORLDINFO | uganda | 11,416 |
 | 5 | [peterbamuhigire](https://github.com/peterbamuhigire) | Peter Bamuhigire | Kampala, Uganda | 10,913 |
@@ -83,4 +83,4 @@ Indexed users: 3,864
 | 19 | [kallyas](https://github.com/kallyas) | Iden | Uganda | 190 |
 | 20 | [FahimWeblogicAndCyberTechnologies](https://github.com/FahimWeblogicAndCyberTechnologies) | FRANKLIN | Uganda | 186 |
 
-Generated: 2026-10-20T14:53:24.137Z
+Generated: 2026-10-20T16:31:58.240Z

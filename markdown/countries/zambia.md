@@ -74,13 +74,13 @@ Indexed users: 1,337
 | 10 | [nmbazima](https://github.com/nmbazima) | Newton Mbazima | Zambia | 147 |
 | 11 | [akebu6](https://github.com/akebu6) | Akebu | Zambia | 133 |
 | 12 | [ElijahMwambazi](https://github.com/ElijahMwambazi) | Elijahhhh | Lusaka, Zambia | 124 |
-| 13 | [KayLemba](https://github.com/KayLemba) | Kalolo Chola Lemba | Lusaka, Zambia | 117 |
-| 14 | [geraldmaboshe](https://github.com/geraldmaboshe) | Gerald Maboshe | Lusaka, Zambia | 116 |
+| 13 | [geraldmaboshe](https://github.com/geraldmaboshe) | Gerald Maboshe | Lusaka, Zambia | 116 |
+| 14 | [KayLemba](https://github.com/KayLemba) | Kalolo Chola Lemba | Lusaka, Zambia | 116 |
 | 15 | [twmbx](https://github.com/twmbx) | Twaambo Haamucenje | Ndola, Zambia | 111 |
 | 16 | [Beardless-sheik](https://github.com/Beardless-sheik) | Alick Nyirenda  | Lusaka, Zambia | 108 |
-| 17 | [swengineermwi](https://github.com/swengineermwi) | Mwila B.K. | Zambia | 107 |
-| 18 | [YambwaImwaka](https://github.com/YambwaImwaka) | Yambwa Imwaka | Zambia | 107 |
+| 17 | [YambwaImwaka](https://github.com/YambwaImwaka) | Yambwa Imwaka | Zambia | 108 |
+| 18 | [swengineermwi](https://github.com/swengineermwi) | Mwila B.K. | Zambia | 107 |
 | 19 | [blessedjasonmwanza](https://github.com/blessedjasonmwanza) | Blessed Jason Mwanza |  Lusaka, Zambia | 104 |
 | 20 | [Eathorne2](https://github.com/Eathorne2) | Eathorne | Lusaka, Zambia | 103 |
 
-Generated: 2026-10-20T14:57:33.525Z
+Generated: 2026-10-20T16:37:33.886Z

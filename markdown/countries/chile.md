@@ -12,7 +12,7 @@ Indexed users: 19,378
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [paulmunozpauta](https://github.com/paulmunozpauta) | Paul Muñoz | Chile | 56,256 |
+| 1 | [paulmunozpauta](https://github.com/paulmunozpauta) | Paul Muñoz | Chile | 75,711 |
 | 2 | [felipealfonsog](https://github.com/felipealfonsog) | Felipe Alfonso González | Santiago, Metropolitan Region, Chile | 53,201 |
 | 3 | [Isabelnava100](https://github.com/Isabelnava100) | Isabel Nava | Concepcion, Chile | 27,729 |
 | 4 | [fsantibanezleal](https://github.com/fsantibanezleal) | Felipe Santibáñez-Leal | Chile | 26,036 |
@@ -37,7 +37,7 @@ Indexed users: 19,378
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [paulmunozpauta](https://github.com/paulmunozpauta) | Paul Muñoz | Chile | 56,256 |
+| 1 | [paulmunozpauta](https://github.com/paulmunozpauta) | Paul Muñoz | Chile | 75,711 |
 | 2 | [Isabelnava100](https://github.com/Isabelnava100) | Isabel Nava | Concepcion, Chile | 27,729 |
 | 3 | [sebavidal10](https://github.com/sebavidal10) | Sebastian Vidal Aedo | Chile | 18,241 |
 | 4 | [appwebd](https://github.com/appwebd) | Patricio Rojas | Chile | 12,657 |
@@ -83,4 +83,4 @@ Indexed users: 19,378
 | 19 | [clsource](https://github.com/clsource) | Camilo | BEAM, Chile | 421 |
 | 20 | [Dieg0Code](https://github.com/Dieg0Code) | Diego | Chile | 420 |
 
-Generated: 2026-10-20T15:12:31.237Z
+Generated: 2026-10-20T16:58:08.551Z
