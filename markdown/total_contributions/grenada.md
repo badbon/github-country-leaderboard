@@ -1,19 +1,19 @@
 # Total Contributions - Grenada
 
-Generated: 2026-10-20T01:00:34.701Z
+Generated: 2026-10-20T02:23:21.781Z
 
 Users: 37
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [kerrongordon](https://github.com/kerrongordon) | kerron gordon | @kerrongordon | kerrongordon | Grenada | 1439 |
+| 1 | [kerrongordon](https://github.com/kerrongordon) | kerron gordon | @kerrongordon | kerrongordon | Grenada | 1438 |
 | 2 | [Tosinish88](https://github.com/Tosinish88) | Oluwatosin Ishmeal |  |  | Grenada | 827 |
 | 3 | [AhndreWalters](https://github.com/AhndreWalters) | Ahndre Walters |  |  | Grenada, West Indies | 664 |
 | 4 | [smcqueen-95](https://github.com/smcqueen-95) | Samira Mc Queen |  |  | Grenada | 250 |
 | 5 | [davidwilson001](https://github.com/davidwilson001) | David Wilson |  |  | Grenada | 187 |
 | 6 | [lenuswalker](https://github.com/lenuswalker) | Lenus Walker |  |  | Grenada | 146 |
 | 7 | [AlexS473](https://github.com/AlexS473) | Shereece Victor | @Totally-Random-Productions  |  | Grenada | 116 |
-| 8 | [mmsacky](https://github.com/mmsacky) | Michael Msacky |  |  | Grenada, W.I | 48 |
+| 8 | [mmsacky](https://github.com/mmsacky) | Michael Msacky |  |  | Grenada, W.I | 49 |
 | 9 | [trudygill](https://github.com/trudygill) | Trudy Gill |  |  | Grenada | 31 |
 | 10 | [RockimSaintBernard](https://github.com/RockimSaintBernard) | Rockim St. Bernard |  |  | Grenada, West Indies | 28 |
 | 11 | [Edixlk](https://github.com/Edixlk) | jsh.dev |  | nixc67 | Grenada | 15 |

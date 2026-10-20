@@ -1,12 +1,12 @@
 # Followers - North Korea
 
-Generated: 2026-10-20T01:24:23.721Z
+Generated: 2026-10-20T02:46:36.853Z
 
 Users: 185
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [x1hy9](https://github.com/x1hy9) | MyeongGun Kim | Homelessness | X1HY999 | Pyongyang | 138 |
+| 1 | [x1hy9](https://github.com/x1hy9) | MyeongGun Kim | Homelessness | X1HY999 | Pyongyang | 139 |
 | 2 | [jdzmfg](https://github.com/jdzmfg) | ! ★ | fux apple | jdzmfg | pyongyang | 69 |
 | 3 | [0x4f53](https://github.com/0x4f53) | Owais Shaikh | @Step-Security | o_0x4f | 🇰🇵 Pyongyang, North Korea | 66 |
 | 4 | [advanced-rising](https://github.com/advanced-rising) | risingcore |  |  | Democratic People's Republic of Korea | 62 |

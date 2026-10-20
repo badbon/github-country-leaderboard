@@ -13,17 +13,17 @@ Indexed users: 139
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [marcusquinn](https://github.com/marcusquinn) | Marcus Quinn | London, UK, Los-angeles, California, England, Jersey | 55,074 |
-| 2 | [PhilETaylor](https://github.com/PhilETaylor) | Phil E. Taylor | Jersey, Channel Islands | 38,835 |
-| 3 | [jde](https://github.com/jde) | David Erwin | New [York, Jersey] | 11,947 |
+| 2 | [PhilETaylor](https://github.com/PhilETaylor) | Phil E. Taylor | Jersey, Channel Islands | 39,355 |
+| 3 | [jde](https://github.com/jde) | David Erwin | New [York, Jersey] | 11,950 |
 | 4 | [ndestates](https://github.com/ndestates) | Nick Dodsley | Jersey | 10,881 |
 | 5 | [guessty](https://github.com/guessty) | Christian | Jersey, Channel Islands | 8,138 |
-| 6 | [timkrins](https://github.com/timkrins) | Tim Krins | Jersey, Channel Islands | 4,888 |
+| 6 | [timkrins](https://github.com/timkrins) | Tim Krins | Jersey, Channel Islands | 4,891 |
 | 7 | [danielmullin](https://github.com/danielmullin) | Daniel Mullin | Jersey | 4,744 |
 | 8 | [gnathoi](https://github.com/gnathoi) | Nathaniel Hey | Jersey, Channel Islands | 4,358 |
 | 9 | [digitalbuddha](https://github.com/digitalbuddha) | Mike Nakhimovich | The dirty (jersey) | 4,080 |
 | 10 | [wildgeodude](https://github.com/wildgeodude) | Dominic Samphier | Jersey | 4,078 |
 | 11 | [oidz1234](https://github.com/oidz1234) | Mark McNally | Jersey | 3,459 |
-| 12 | [r-moore](https://github.com/r-moore) | Richard Moore | Jersey | 3,355 |
+| 12 | [r-moore](https://github.com/r-moore) | Richard Moore | Jersey | 3,391 |
 | 13 | [cjkmcc](https://github.com/cjkmcc) | Chris McCarthy | Jersey / London | 2,853 |
 | 14 | [TafadzwaD](https://github.com/TafadzwaD) | Tafadzwa Demba | Jersey | 2,369 |
 | 15 | [samjamead](https://github.com/samjamead) | Sam Mead | Grouville, Jersey | 1,767 |
@@ -78,9 +78,9 @@ Indexed users: 139
 | 14 | [timkrins](https://github.com/timkrins) | Tim Krins | Jersey, Channel Islands | 27 |
 | 15 | [adecler](https://github.com/adecler) | Arnaud Declercq | Jersey | 24 |
 | 16 | [cjkmcc](https://github.com/cjkmcc) | Chris McCarthy | Jersey / London | 22 |
-| 17 | [r-moore](https://github.com/r-moore) | Richard Moore | Jersey | 22 |
-| 18 | [shiaoligreen](https://github.com/shiaoligreen) | Shiao-li Green | Jersey, Channel Islands | 22 |
-| 19 | [garyedwards](https://github.com/garyedwards) | Gary Edwards | Jersey, Channel Islands | 21 |
+| 17 | [garyedwards](https://github.com/garyedwards) | Gary Edwards | Jersey, Channel Islands | 22 |
+| 18 | [r-moore](https://github.com/r-moore) | Richard Moore | Jersey | 22 |
+| 19 | [shiaoligreen](https://github.com/shiaoligreen) | Shiao-li Green | Jersey, Channel Islands | 22 |
 | 20 | [Chrisedmo](https://github.com/Chrisedmo) | Chris Mousdale | Jersey, Channel Islands | 20 |
 
-Generated: 2026-10-20T01:08:05.810Z
+Generated: 2026-10-20T02:30:10.680Z

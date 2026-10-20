@@ -13,13 +13,13 @@ Indexed users: 142
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [AlexRLG98](https://github.com/AlexRLG98) | Alex_RLG | Monaco | 7,467 |
-| 2 | [DamienMonchaty](https://github.com/DamienMonchaty) | Damien Monchaty | Monaco | 6,110 |
+| 2 | [DamienMonchaty](https://github.com/DamienMonchaty) | Damien Monchaty | Monaco | 6,141 |
 | 3 | [laurentqro](https://github.com/laurentqro) | Laurent Curau | Monaco | 5,142 |
 | 4 | [LovelessCodes](https://github.com/LovelessCodes) |  | Monaco | 3,681 |
 | 5 | [KristofM854](https://github.com/KristofM854) | Kristof Moeller | Monaco | 1,889 |
-| 6 | [silvainfm](https://github.com/silvainfm) | François-Marie Brych | Nashville & Monaco | 1,770 |
-| 7 | [digitalonyx](https://github.com/digitalonyx) | DigitalOnyx | Monaco | 1,221 |
-| 8 | [matteodevenuto](https://github.com/matteodevenuto) | Matteo De Venuto | Monaco | 1,140 |
+| 6 | [silvainfm](https://github.com/silvainfm) | François-Marie Brych | Nashville & Monaco | 1,777 |
+| 7 | [digitalonyx](https://github.com/digitalonyx) | DigitalOnyx | Monaco | 1,235 |
+| 8 | [matteodevenuto](https://github.com/matteodevenuto) | Matteo De Venuto | Monaco | 1,138 |
 | 9 | [NicoBocq](https://github.com/NicoBocq) | Nicolas Bocquet | Marseille / Monaco | 951 |
 | 10 | [tatianamc](https://github.com/tatianamc) | Tatiana | Monaco | 783 |
 | 11 | [jz222](https://github.com/jz222) | Timo Zimmermann | Monte-Carlo, Monaco | 781 |
@@ -27,7 +27,7 @@ Indexed users: 142
 | 13 | [asingizwe1](https://github.com/asingizwe1) | Dev. Louis Asingizwe | Monaco , Kampala/Uganda | 580 |
 | 14 | [vjandrea](https://github.com/vjandrea) | Andrea Bergamasco | Monaco | 558 |
 | 15 | [auvents-brave](https://github.com/auvents-brave) | Stéphane | Monaco | 404 |
-| 16 | [giraudremi92](https://github.com/giraudremi92) | Rémi | Monaco | 371 |
+| 16 | [giraudremi92](https://github.com/giraudremi92) | Rémi | Monaco | 375 |
 | 17 | [scribelia-anthony](https://github.com/scribelia-anthony) | Anthony | Monaco | 362 |
 | 18 | [ap705](https://github.com/ap705) | Arnaud Pradier | Monaco | 273 |
 | 19 | [Akira98000](https://github.com/Akira98000) | Santhakumaran Akira | Monaco  | 265 |
@@ -49,7 +49,7 @@ Indexed users: 142
 | 10 | [Steve-Deguilly](https://github.com/Steve-Deguilly) | Steve DEGUILLY | Nice / Monaco / Sophia Antipolis | 116 |
 | 11 | [fedecarz](https://github.com/fedecarz) | fedecarz | Monaco | 99 |
 | 12 | [vjandrea](https://github.com/vjandrea) | Andrea Bergamasco | Monaco | 91 |
-| 13 | [giraudremi92](https://github.com/giraudremi92) | Rémi | Monaco | 80 |
+| 13 | [giraudremi92](https://github.com/giraudremi92) | Rémi | Monaco | 83 |
 | 14 | [PhilCANDIDO](https://github.com/PhilCANDIDO) | Philippe CANDIDO | Monaco | 59 |
 | 15 | [sesjaphp](https://github.com/sesjaphp) |  | Monaco | 58 |
 | 16 | [silvainfm](https://github.com/silvainfm) | François-Marie Brych | Nashville & Monaco | 52 |
@@ -83,4 +83,4 @@ Indexed users: 142
 | 19 | [coachklng12](https://github.com/coachklng12) |  | Monaco | 14 |
 | 20 | [co-stig](https://github.com/co-stig) | Constantine | Monaco | 13 |
 
-Generated: 2026-10-20T01:18:37.253Z
+Generated: 2026-10-20T02:39:41.031Z

@@ -24,7 +24,7 @@ Indexed users: 160
 | 10 | [KenedyMoremi](https://github.com/KenedyMoremi) | Tumisang Moremi | Maseru | 687 |
 | 11 | [DevLereko](https://github.com/DevLereko) | Lereko Foloko | Maseru, Lesotho | 606 |
 | 12 | [LNkholise](https://github.com/LNkholise) | Leonard Nkholise | Maseru, Lesotho | 508 |
-| 13 | [MissPurrple](https://github.com/MissPurrple) | Miss Purple | Lesotho  | 430 |
+| 13 | [MissPurrple](https://github.com/MissPurrple) | Miss Purple | Lesotho  | 431 |
 | 14 | [Thato-Motseki](https://github.com/Thato-Motseki) | Thato Motseki | Lesotho, Maseru | 357 |
 | 15 | [khauta](https://github.com/khauta) | Khauta Maliehe | Maseru, Lesotho | 340 |
 | 16 | [Matela-cyber](https://github.com/Matela-cyber) | Vicent Matela | Lesotho | 321 |
@@ -83,4 +83,4 @@ Indexed users: 160
 | 19 | [lotesm](https://github.com/lotesm) | Lotes Molapo | Maseru, Lesotho | 13 |
 | 20 | [entsoereng](https://github.com/entsoereng) | Mokonyana Ntsoereng | Lesotho | 12 |
 
-Generated: 2026-10-20T01:10:46.272Z
+Generated: 2026-10-20T02:33:50.852Z

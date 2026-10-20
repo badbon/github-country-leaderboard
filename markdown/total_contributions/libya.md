@@ -1,6 +1,6 @@
 # Total Contributions - Libya
 
-Generated: 2026-10-20T01:11:47.735Z
+Generated: 2026-10-20T02:34:03.512Z
 
 Users: 740
 
@@ -9,13 +9,13 @@ Users: 740
 | 1 | [Abdlrrahman](https://github.com/Abdlrrahman) | Abdlrrahman Shibani | ReBootKamp |  | Tripoli, Libya | 165746 |
 | 2 | [mohn93](https://github.com/mohn93) | Mohaned Benmesken | Libyan Spider |  | Libya | 15133 |
 | 3 | [ZeroGDrive](https://github.com/ZeroGDrive) | Ayoub Alfurjani |  |  | Libya | 13907 |
-| 4 | [salemaljebaly](https://github.com/salemaljebaly) | Salem Aljebaly |  |  | Libya | 12679 |
-| 5 | [Arjeeah](https://github.com/Arjeeah) | Arjeeah | @Artisans-Digital-Agency , @ditsly |  | Libya  | 12663 |
+| 4 | [Arjeeah](https://github.com/Arjeeah) | Arjeeah | @Artisans-Digital-Agency , @ditsly |  | Libya  | 12818 |
+| 5 | [salemaljebaly](https://github.com/salemaljebaly) | Salem Aljebaly |  |  | Libya | 12679 |
 | 6 | [Sokanon](https://github.com/Sokanon) | So | @beyondtheinnovation  | Sokanon_ | Libya | 9889 |
 | 7 | [ayagaidi](https://github.com/ayagaidi) | Yaya |  |  |  Tripoli, Libya  | 9817 |
-| 8 | [Tellesy](https://github.com/Tellesy) | blueMu | @neptune-ly  |  | Tripoli, Libya | 9202 |
-| 9 | [radwan-77](https://github.com/radwan-77) | RADWAN |  |  | Libya | 8342 |
-| 10 | [GaafarBBK](https://github.com/GaafarBBK) | Mohamed Gaafar |  |  | Libya | 7824 |
+| 8 | [radwan-77](https://github.com/radwan-77) | RADWAN |  |  | Libya | 9304 |
+| 9 | [Tellesy](https://github.com/Tellesy) | blueMu | @neptune-ly  |  | Tripoli, Libya | 9202 |
+| 10 | [GaafarBBK](https://github.com/GaafarBBK) | Mohamed Gaafar |  |  | Libya | 7998 |
 | 11 | [Elsheshtawwy](https://github.com/Elsheshtawwy) | Badr Elsheshtawy |  | El_Sheshtawwy | Benghazi, Libya 🇱🇾 | 7445 |
 | 12 | [Salehahmedeus](https://github.com/Salehahmedeus) | Ahmed Saleh |  |  | Libya | 6769 |
 | 13 | [almontasser](https://github.com/almontasser) | Mahmoud Almontasser | Lamah |  | Misurata, Libya | 6240 |
@@ -23,6 +23,6 @@ Users: 740
 | 15 | [swe-sanad](https://github.com/swe-sanad) | Sanad AlArousi | Software Pioneers |  | Zawia, Libya | 6136 |
 | 16 | [x414i](https://github.com/x414i) | Mohamed S. Belaid |  |  | Libya/Misrata | 6042 |
 | 17 | [Flat-Duck](https://github.com/Flat-Duck) | A.Mahidwei | Bithive | AMahidwei | Libya | 5922 |
-| 18 | [AliAgela-dev](https://github.com/AliAgela-dev) | Ali Agela |  |  | Libya | 5525 |
+| 18 | [AliAgela-dev](https://github.com/AliAgela-dev) | Ali Agela |  |  | Libya | 5533 |
 | 19 | [OthmanHaba](https://github.com/OthmanHaba) |  Othman Haba  (ง'̀-'́)ง     |  |  | Tripoli Libya | 5485 |
 | 20 | [erabti](https://github.com/erabti) | Ahmed Erabti | @libyanspider |  | Libya | 5388 |

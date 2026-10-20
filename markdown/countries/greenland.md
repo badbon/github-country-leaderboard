@@ -14,8 +14,8 @@ Indexed users: 58
 |---:|---|---|---|---:|
 | 1 | [sgoggins](https://github.com/sgoggins) | Sean P. Goggins | Greenland | 3,911 |
 | 2 | [johan-ejstrud](https://github.com/johan-ejstrud) | Johan Ejstrud | Nuuk, Greenland | 1,791 |
-| 3 | [ProjectAtlantis-dev](https://github.com/ProjectAtlantis-dev) | hello kitty | Greenland | 1,395 |
-| 4 | [ASGDLO](https://github.com/ASGDLO) | ASGDLO | Greenland | 1,267 |
+| 3 | [ProjectAtlantis-dev](https://github.com/ProjectAtlantis-dev) | hello kitty | Greenland | 1,381 |
+| 4 | [ASGDLO](https://github.com/ASGDLO) | ASGDLO | Greenland | 1,266 |
 | 5 | [filzehoka](https://github.com/filzehoka) | Filze | Greenland | 901 |
 | 6 | [WingWR](https://github.com/WingWR) |  | Greenland | 821 |
 | 7 | [ibdj](https://github.com/ibdj) | ibdj | Nuuk, Greenland | 700 |
@@ -38,7 +38,7 @@ Indexed users: 58
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [sgoggins](https://github.com/sgoggins) | Sean P. Goggins | Greenland | 1,964 |
-| 2 | [ProjectAtlantis-dev](https://github.com/ProjectAtlantis-dev) | hello kitty | Greenland | 1,395 |
+| 2 | [ProjectAtlantis-dev](https://github.com/ProjectAtlantis-dev) | hello kitty | Greenland | 1,381 |
 | 3 | [filzehoka](https://github.com/filzehoka) | Filze | Greenland | 901 |
 | 4 | [ibdj](https://github.com/ibdj) | ibdj | Nuuk, Greenland | 700 |
 | 5 | [WingWR](https://github.com/WingWR) |  | Greenland | 544 |
@@ -75,7 +75,7 @@ Indexed users: 58
 | 11 | [johandavidsen](https://github.com/johandavidsen) | Jóhan Dam-Davidsen | Kalaallit Nunaat (Greenland) | 26 |
 | 12 | [pierreminik](https://github.com/pierreminik) | Pierre Minik Lynge | Kalaallit Nunaat (Greenland) | 23 |
 | 13 | [pressure679](https://github.com/pressure679) | Vittus Mikiassen | Greenland | 17 |
-| 14 | [zhaoxieluoke](https://github.com/zhaoxieluoke) | 朝些罗可 | Greenland,Earth | 15 |
+| 14 | [zhaoxieluoke](https://github.com/zhaoxieluoke) | 朝些罗可 | Greenland,Earth | 16 |
 | 15 | [larpSTATGL](https://github.com/larpSTATGL) | Lars Pedersen | Nuuk, Greenland | 12 |
 | 16 | [qovero](https://github.com/qovero) |  | Nuuk, Greenland | 11 |
 | 17 | [piaere](https://github.com/piaere) | piære | greenland | 10 |
@@ -83,4 +83,4 @@ Indexed users: 58
 | 19 | [DaniEstevezBarcia](https://github.com/DaniEstevezBarcia) | Daniel Estévez-Barcia | Greenland | 8 |
 | 20 | [polarstoat](https://github.com/polarstoat) | Polar stoat | Greenland | 6 |
 
-Generated: 2026-10-20T01:00:12.155Z
+Generated: 2026-10-20T02:23:19.637Z

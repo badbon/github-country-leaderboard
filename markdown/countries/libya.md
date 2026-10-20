@@ -15,13 +15,13 @@ Indexed users: 740
 | 1 | [Abdlrrahman](https://github.com/Abdlrrahman) | Abdlrrahman Shibani | Tripoli, Libya | 165,746 |
 | 2 | [mohn93](https://github.com/mohn93) | Mohaned Benmesken | Libya | 15,133 |
 | 3 | [ZeroGDrive](https://github.com/ZeroGDrive) | Ayoub Alfurjani | Libya | 13,907 |
-| 4 | [salemaljebaly](https://github.com/salemaljebaly) | Salem Aljebaly | Libya | 12,679 |
-| 5 | [Arjeeah](https://github.com/Arjeeah) | Arjeeah | Libya  | 12,663 |
+| 4 | [Arjeeah](https://github.com/Arjeeah) | Arjeeah | Libya  | 12,818 |
+| 5 | [salemaljebaly](https://github.com/salemaljebaly) | Salem Aljebaly | Libya | 12,679 |
 | 6 | [Sokanon](https://github.com/Sokanon) | So | Libya | 9,889 |
 | 7 | [ayagaidi](https://github.com/ayagaidi) | Yaya |  Tripoli, Libya  | 9,817 |
-| 8 | [Tellesy](https://github.com/Tellesy) | blueMu | Tripoli, Libya | 9,202 |
-| 9 | [radwan-77](https://github.com/radwan-77) | RADWAN | Libya | 8,342 |
-| 10 | [GaafarBBK](https://github.com/GaafarBBK) | Mohamed Gaafar | Libya | 7,824 |
+| 8 | [radwan-77](https://github.com/radwan-77) | RADWAN | Libya | 9,304 |
+| 9 | [Tellesy](https://github.com/Tellesy) | blueMu | Tripoli, Libya | 9,202 |
+| 10 | [GaafarBBK](https://github.com/GaafarBBK) | Mohamed Gaafar | Libya | 7,998 |
 | 11 | [Elsheshtawwy](https://github.com/Elsheshtawwy) | Badr Elsheshtawy | Benghazi, Libya 🇱🇾 | 7,445 |
 | 12 | [Salehahmedeus](https://github.com/Salehahmedeus) | Ahmed Saleh | Libya | 6,769 |
 | 13 | [almontasser](https://github.com/almontasser) | Mahmoud Almontasser | Misurata, Libya | 6,240 |
@@ -29,7 +29,7 @@ Indexed users: 740
 | 15 | [swe-sanad](https://github.com/swe-sanad) | Sanad AlArousi | Zawia, Libya | 6,136 |
 | 16 | [x414i](https://github.com/x414i) | Mohamed S. Belaid | Libya/Misrata | 6,042 |
 | 17 | [Flat-Duck](https://github.com/Flat-Duck) | A.Mahidwei | Libya | 5,922 |
-| 18 | [AliAgela-dev](https://github.com/AliAgela-dev) | Ali Agela | Libya | 5,525 |
+| 18 | [AliAgela-dev](https://github.com/AliAgela-dev) | Ali Agela | Libya | 5,533 |
 | 19 | [OthmanHaba](https://github.com/OthmanHaba) |  Othman Haba  (ง'̀-'́)ง     | Tripoli Libya | 5,485 |
 | 20 | [erabti](https://github.com/erabti) | Ahmed Erabti | Libya | 5,388 |
 
@@ -53,9 +53,9 @@ Indexed users: 740
 | 14 | [MElkmeshi](https://github.com/MElkmeshi) | Mohamed Elkmeshi | Tripoli, Libya | 412 |
 | 15 | [Wondermine](https://github.com/Wondermine) | Taha Ali | Libya, Tripoli | 368 |
 | 16 | [Tellesy](https://github.com/Tellesy) | blueMu | Tripoli, Libya | 360 |
-| 17 | [Monther-bug](https://github.com/Monther-bug) | Monther | Libya | 356 |
-| 18 | [Nojaid-Ad](https://github.com/Nojaid-Ad) |  | Tripoli | 352 |
-| 19 | [AbdelWahab-Farhat](https://github.com/AbdelWahab-Farhat) | Abdelwahab farhat | Libya-Tripoli-Gorji | 350 |
+| 17 | [AbdelWahab-Farhat](https://github.com/AbdelWahab-Farhat) | Abdelwahab farhat | Libya-Tripoli-Gorji | 355 |
+| 18 | [Monther-bug](https://github.com/Monther-bug) | Monther | Libya | 353 |
+| 19 | [Nojaid-Ad](https://github.com/Nojaid-Ad) |  | Tripoli | 352 |
 | 20 | [torgodly](https://github.com/torgodly) | Abdullah al-hajj | libya | 348 |
 
 ## Followers
@@ -63,7 +63,7 @@ Indexed users: 740
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [absholi7ly](https://github.com/absholi7ly) | Abdualhadi khalifa | Libya | 133 |
-| 2 | [MohamedFarag6](https://github.com/MohamedFarag6) | Mohamed Farag | Benghazi, Libya | 125 |
+| 2 | [MohamedFarag6](https://github.com/MohamedFarag6) | Mohamed Farag | Benghazi, Libya | 124 |
 | 3 | [zakariasassi](https://github.com/zakariasassi) | Zakaria Sassi | Libya | 90 |
 | 4 | [Nojaid-Ad](https://github.com/Nojaid-Ad) |  | Tripoli | 87 |
 | 5 | [mohamedjaouda](https://github.com/mohamedjaouda) | Mohamed Jaouda | Benghazi, Libya | 85 |
@@ -83,4 +83,4 @@ Indexed users: 740
 | 19 | [ZizouHuweidi](https://github.com/ZizouHuweidi) | El Zubeir Huweidi | Benghazi, Libya | 51 |
 | 20 | [Islam-alshiki](https://github.com/Islam-alshiki) | Islam alshiki | Benghazi, Libya | 49 |
 
-Generated: 2026-10-20T01:11:47.735Z
+Generated: 2026-10-20T02:34:03.512Z

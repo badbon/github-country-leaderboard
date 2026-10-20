@@ -47,16 +47,16 @@ Indexed users: 1,924
 | 8 | [ivasilov](https://github.com/ivasilov) | Ivan Vasilov | Skopje, Macedonia | 1,171 |
 | 9 | [VelikovPetar](https://github.com/VelikovPetar) | Petar Velikov | Skopje, Republic of Macedonia | 1,076 |
 | 10 | [EienMosu](https://github.com/EienMosu) | Ozkan Selcuk | North Macedonia/Skopje | 1,054 |
-| 11 | [martintrifunov](https://github.com/martintrifunov) | Martin Trifunov | Skopje, North Macedonia | 1,008 |
-| 12 | [isekovanic](https://github.com/isekovanic) | Ivan Sekovanikj | Skopje, Macedonia | 1,006 |
-| 13 | [ardijancuri](https://github.com/ardijancuri) | Ardijan Curi | Skopje | 982 |
-| 14 | [ssbarbee](https://github.com/ssbarbee) |  | Skopje, Macedonia | 890 |
-| 15 | [gocemitevski](https://github.com/gocemitevski) | Goce Mitevski | Skopje, North Macedonia | 887 |
-| 16 | [stojce](https://github.com/stojce) | Stojce Slavkovski | Skopje, Macedonia | 859 |
-| 17 | [bor0](https://github.com/bor0) | Boro Sitnikovski | Skopje, North Macedonia | 814 |
-| 18 | [NikoDola](https://github.com/NikoDola) | Nikola Dolovski (niko_dola) | Bitola/Macedonia | 802 |
-| 19 | [KralMarko123](https://github.com/KralMarko123) | Marko Markovikj | Skopje | 782 |
-| 20 | [antonio-ivanovski](https://github.com/antonio-ivanovski) | Antonio | North Macedonia | 712 |
+| 11 | [LordDeatHunter](https://github.com/LordDeatHunter) | DH | Macedonia | 1,010 |
+| 12 | [martintrifunov](https://github.com/martintrifunov) | Martin Trifunov | Skopje, North Macedonia | 1,008 |
+| 13 | [isekovanic](https://github.com/isekovanic) | Ivan Sekovanikj | Skopje, Macedonia | 1,006 |
+| 14 | [ardijancuri](https://github.com/ardijancuri) | Ardijan Curi | Skopje | 982 |
+| 15 | [ssbarbee](https://github.com/ssbarbee) |  | Skopje, Macedonia | 890 |
+| 16 | [gocemitevski](https://github.com/gocemitevski) | Goce Mitevski | Skopje, North Macedonia | 887 |
+| 17 | [stojce](https://github.com/stojce) | Stojce Slavkovski | Skopje, Macedonia | 859 |
+| 18 | [bor0](https://github.com/bor0) | Boro Sitnikovski | Skopje, North Macedonia | 814 |
+| 19 | [NikoDola](https://github.com/NikoDola) | Nikola Dolovski (niko_dola) | Bitola/Macedonia | 802 |
+| 20 | [KralMarko123](https://github.com/KralMarko123) | Marko Markovikj | Skopje | 782 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,924
 | 19 | [bor0](https://github.com/bor0) | Boro Sitnikovski | Skopje, North Macedonia | 166 |
 | 20 | [gdamjan](https://github.com/gdamjan) | Дамјан Георгиевски | Skopje, Macedonia | 145 |
 
-Generated: 2026-10-20T01:24:30.485Z
+Generated: 2026-10-20T02:46:39.796Z

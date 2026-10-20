@@ -1,6 +1,6 @@
 # Followers - Latvia
 
-Generated: 2026-10-20T01:10:06.439Z
+Generated: 2026-10-20T02:33:43.437Z
 
 Users: 3250
 
@@ -11,12 +11,12 @@ Users: 3250
 | 3 | [Mistrust12](https://github.com/Mistrust12) | Stay forever | Emergn  | RepriseLoans | Riga | 1124 |
 | 4 | [therceman](https://github.com/therceman) | Anton |  | therceman | Latvia | 605 |
 | 5 | [kj89](https://github.com/kj89) | kjnodes | kjnodes | kjnodes | Latvia | 603 |
-| 6 | [bodrovis](https://github.com/bodrovis) | Elijah S. Krukowski | @lokalise |  | Riga | 532 |
+| 6 | [bodrovis](https://github.com/bodrovis) | Elijah S. Krukowski | @lokalise |  | Riga | 534 |
 | 7 | [esneko](https://github.com/esneko) | Andrejs Agejevs |  |  | Latvia | 505 |
 | 8 | [darjaorlova](https://github.com/darjaorlova) | Darja Orlova | BBapps | dariadroid | Latvia, Riga | 491 |
 | 9 | [aivars](https://github.com/aivars) | Aivars |  | aivars_meijers | Latvia | 468 |
-| 10 | [tostercx](https://github.com/tostercx) |  |  |  | Riga, Latvia | 457 |
-| 11 | [wonderwhy-er](https://github.com/wonderwhy-er) | Eduard Ruzga |  |  | Riga | 415 |
+| 10 | [wonderwhy-er](https://github.com/wonderwhy-er) | Eduard Ruzga |  |  | Riga | 459 |
+| 11 | [tostercx](https://github.com/tostercx) |  |  |  | Riga, Latvia | 457 |
 | 12 | [sunny250984](https://github.com/sunny250984) | Sunny |  |  | Latvia | 319 |
 | 13 | [dxHubCoin](https://github.com/dxHubCoin) | dxHub | dxHub |  | Latvia | 314 |
 | 14 | [kasparsd](https://github.com/kasparsd) | Kaspars Dambis |  | konstruktors | Latvia | 299 |

@@ -1,8 +1,8 @@
 # Total Contributions - Malaysia
 
-Generated: 2026-10-20T01:14:54.087Z
+Generated: 2026-10-20T02:36:29.970Z
 
-Users: 11787
+Users: 11786
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -11,13 +11,13 @@ Users: 11787
 | 3 | [leoloso](https://github.com/leoloso) | Leonardo Losoviz | Gato GraphQL | losoviz | Kuala Lumpur, Malaysia | 29690 |
 | 4 | [Kiyoraka](https://github.com/Kiyoraka) | Afif Maahi |  |  | Malaysia | 28107 |
 | 5 | [naimkatiman](https://github.com/naimkatiman) | Naim | RM Investment Bank Ltd |  | Malaysia | 22086 |
-| 6 | [booluckgmie](https://github.com/booluckgmie) | Najmi Ariffin | @dosm-malaysia | najmi_ariffin | Putrajaya, Malaysia | 18835 |
-| 7 | [habibtalib](https://github.com/habibtalib) | Habib Talib | Synctexs Solution | cyberx11 | Malaysia | 18227 |
-| 8 | [weixianggoh](https://github.com/weixianggoh) | GOH WEI XIANG |  |  | Malaysia | 18213 |
-| 9 | [lwlee2608](https://github.com/lwlee2608) | Jason Lee |  |  | Kuala Lumpur, Malaysia | 16660 |
-| 10 | [aaronmyatt](https://github.com/aaronmyatt) | Aaron Myatt |  |  | Malaysia | 16149 |
-| 11 | [SuperVentureStudio](https://github.com/SuperVentureStudio) | Faisal Hourani | WebMedic | faisalhouran1 | Malaysia | 15904 |
-| 12 | [hansheng0512](https://github.com/hansheng0512) | Han Sheng | @ArkMind-Sdn-Bhd  |  | Sri Petaling, Kuala Lumpur, Malaysia | 15477 |
+| 6 | [hansheng0512](https://github.com/hansheng0512) | Han Sheng | @ArkMind-Sdn-Bhd  |  | Sri Petaling, Kuala Lumpur, Malaysia | 20248 |
+| 7 | [booluckgmie](https://github.com/booluckgmie) | Najmi Ariffin | @dosm-malaysia | najmi_ariffin | Putrajaya, Malaysia | 18835 |
+| 8 | [habibtalib](https://github.com/habibtalib) | Habib Talib | Synctexs Solution | cyberx11 | Malaysia | 18227 |
+| 9 | [weixianggoh](https://github.com/weixianggoh) | GOH WEI XIANG |  |  | Malaysia | 18213 |
+| 10 | [lwlee2608](https://github.com/lwlee2608) | Jason Lee |  |  | Kuala Lumpur, Malaysia | 16660 |
+| 11 | [aaronmyatt](https://github.com/aaronmyatt) | Aaron Myatt |  |  | Malaysia | 16149 |
+| 12 | [SuperVentureStudio](https://github.com/SuperVentureStudio) | Faisal Hourani | WebMedic | faisalhouran1 | Malaysia | 15904 |
 | 13 | [Anas660](https://github.com/Anas660) | Syed Anas | https://www.pixelpk.com/ |  | Malaysia | 14473 |
 | 14 | [ninjitsuytber](https://github.com/ninjitsuytber) | Stephen Sii | Latton Lab |  | Malaysia | 13802 |
 | 15 | [edwardtay](https://github.com/edwardtay) | Edward Tay |  | iamedwardtay | Malaysia  | 13397 |

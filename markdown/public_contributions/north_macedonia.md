@@ -1,6 +1,6 @@
 # Public Contributions - North Macedonia
 
-Generated: 2026-10-20T01:24:30.485Z
+Generated: 2026-10-20T02:46:39.796Z
 
 Users: 1924
 
@@ -16,13 +16,13 @@ Users: 1924
 | 8 | [ivasilov](https://github.com/ivasilov) | Ivan Vasilov | @supabase |  | Skopje, Macedonia | 1171 |
 | 9 | [VelikovPetar](https://github.com/VelikovPetar) | Petar Velikov | @GetStream |  | Skopje, Republic of Macedonia | 1076 |
 | 10 | [EienMosu](https://github.com/EienMosu) | Ozkan Selcuk |  |  | North Macedonia/Skopje | 1054 |
-| 11 | [martintrifunov](https://github.com/martintrifunov) | Martin Trifunov | CodeChem |  | Skopje, North Macedonia | 1008 |
-| 12 | [isekovanic](https://github.com/isekovanic) | Ivan Sekovanikj | @GetStream |  | Skopje, Macedonia | 1006 |
-| 13 | [ardijancuri](https://github.com/ardijancuri) | Ardijan Curi | ONINOVA |  | Skopje | 982 |
-| 14 | [ssbarbee](https://github.com/ssbarbee) |  |  |  | Skopje, Macedonia | 890 |
-| 15 | [gocemitevski](https://github.com/gocemitevski) | Goce Mitevski |  | GoceMitevski | Skopje, North Macedonia | 887 |
-| 16 | [stojce](https://github.com/stojce) | Stojce Slavkovski |  |  | Skopje, Macedonia | 859 |
-| 17 | [bor0](https://github.com/bor0) | Boro Sitnikovski | @Automattic | BSitnikovski | Skopje, North Macedonia | 814 |
-| 18 | [NikoDola](https://github.com/NikoDola) | Nikola Dolovski (niko_dola) |  |  | Bitola/Macedonia | 802 |
-| 19 | [KralMarko123](https://github.com/KralMarko123) | Marko Markovikj | Hornetsecurity |  | Skopje | 782 |
-| 20 | [antonio-ivanovski](https://github.com/antonio-ivanovski) | Antonio |  | antonioivski | North Macedonia | 712 |
+| 11 | [LordDeatHunter](https://github.com/LordDeatHunter) | DH |  |  | Macedonia | 1010 |
+| 12 | [martintrifunov](https://github.com/martintrifunov) | Martin Trifunov | CodeChem |  | Skopje, North Macedonia | 1008 |
+| 13 | [isekovanic](https://github.com/isekovanic) | Ivan Sekovanikj | @GetStream |  | Skopje, Macedonia | 1006 |
+| 14 | [ardijancuri](https://github.com/ardijancuri) | Ardijan Curi | ONINOVA |  | Skopje | 982 |
+| 15 | [ssbarbee](https://github.com/ssbarbee) |  |  |  | Skopje, Macedonia | 890 |
+| 16 | [gocemitevski](https://github.com/gocemitevski) | Goce Mitevski |  | GoceMitevski | Skopje, North Macedonia | 887 |
+| 17 | [stojce](https://github.com/stojce) | Stojce Slavkovski |  |  | Skopje, Macedonia | 859 |
+| 18 | [bor0](https://github.com/bor0) | Boro Sitnikovski | @Automattic | BSitnikovski | Skopje, North Macedonia | 814 |
+| 19 | [NikoDola](https://github.com/NikoDola) | Nikola Dolovski (niko_dola) |  |  | Bitola/Macedonia | 802 |
+| 20 | [KralMarko123](https://github.com/KralMarko123) | Marko Markovikj | Hornetsecurity |  | Skopje | 782 |

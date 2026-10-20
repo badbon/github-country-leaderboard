@@ -22,11 +22,11 @@ Indexed users: 439
 | 8 | [sfcheung](https://github.com/sfcheung) | Shu Fai Cheung | Macao | 3,388 |
 | 9 | [1595901624](https://github.com/1595901624) | Cloris | Macau | 3,347 |
 | 10 | [MUST-panxiao](https://github.com/MUST-panxiao) | Xiao Pan | Macau | 2,937 |
-| 11 | [7788ken](https://github.com/7788ken) | Mark.pan | Macau,Zhuhai | 2,298 |
-| 12 | [mugpeng](https://github.com/mugpeng) | Peng | macao | 2,284 |
-| 13 | [Alex-Leong](https://github.com/Alex-Leong) | Alex | Macau | 2,187 |
-| 14 | [Yh1sam](https://github.com/Yh1sam) |  | Macau | 2,142 |
-| 15 | [RyanKung](https://github.com/RyanKung) | Elder Ryan | Macau | 2,094 |
+| 11 | [RyanKung](https://github.com/RyanKung) | Elder Ryan | Macau | 2,474 |
+| 12 | [7788ken](https://github.com/7788ken) | Mark.pan | Macau,Zhuhai | 2,298 |
+| 13 | [mugpeng](https://github.com/mugpeng) | Peng | macao | 2,284 |
+| 14 | [Alex-Leong](https://github.com/Alex-Leong) | Alex | Macau | 2,187 |
+| 15 | [Yh1sam](https://github.com/Yh1sam) |  | Macau | 2,142 |
 | 16 | [aungminnkhant9400](https://github.com/aungminnkhant9400) | Rollo | Macau | 1,794 |
 | 17 | [HansiChan](https://github.com/HansiChan) | Colin | Macau | 1,764 |
 | 18 | [hheei](https://github.com/hheei) | Lo Chon Hei | Macau | 1,758 |
@@ -40,8 +40,8 @@ Indexed users: 439
 | 1 | [sou350121](https://github.com/sou350121) | KenSou | Macau | 5,581 |
 | 2 | [spiritLHLS](https://github.com/spiritLHLS) | spiritlhl | Macau | 5,329 |
 | 3 | [sfcheung](https://github.com/sfcheung) | Shu Fai Cheung | Macao | 2,845 |
-| 4 | [mugpeng](https://github.com/mugpeng) | Peng | macao | 2,284 |
-| 5 | [RyanKung](https://github.com/RyanKung) | Elder Ryan | Macau | 2,092 |
+| 4 | [RyanKung](https://github.com/RyanKung) | Elder Ryan | Macau | 2,471 |
+| 5 | [mugpeng](https://github.com/mugpeng) | Peng | macao | 2,284 |
 | 6 | [hheei](https://github.com/hheei) | Lo Chon Hei | Macau | 1,758 |
 | 7 | [wahengchang](https://github.com/wahengchang) | peterchang | macau | 1,336 |
 | 8 | [yyyyyyounger](https://github.com/yyyyyyounger) | Rookie, LIN | Macau | 1,284 |
@@ -83,4 +83,4 @@ Indexed users: 439
 | 19 | [1595901624](https://github.com/1595901624) | Cloris | Macau | 68 |
 | 20 | [Boom5426](https://github.com/Boom5426) | Bo li (李波) | Macau | 68 |
 
-Generated: 2026-10-20T01:13:54.824Z
+Generated: 2026-10-20T02:35:52.808Z

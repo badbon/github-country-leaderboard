@@ -1,6 +1,6 @@
 # Total Contributions - Namibia
 
-Generated: 2026-10-20T01:19:42.192Z
+Generated: 2026-10-20T02:43:27.312Z
 
 Users: 475
 
@@ -8,7 +8,7 @@ Users: 475
 |---:|---|---|---|---|---|---:|
 | 1 | [dikuwa](https://github.com/dikuwa) | Martin Mukoya | martinmukoya.com |  | swakopmund, Namibia | 8848 |
 | 2 | [lemuelvdm](https://github.com/lemuelvdm) | Lemuel | Vast Development Method @vdm-io |  | Namibia | 8600 |
-| 3 | [Jason-Mendes](https://github.com/Jason-Mendes) | Jason-Mendes | @Etomart @NZZ @Daaily @DezCorp |  | Namibia | 7250 |
+| 3 | [Jason-Mendes](https://github.com/Jason-Mendes) | Jason-Mendes | @Etomart @NZZ @Daaily @DezCorp |  | Namibia | 7509 |
 | 4 | [UnitBuilds](https://github.com/UnitBuilds) | UnitBuilds | UnitBuilds CC |  | Namibia | 6874 |
 | 5 | [DeclanRiedel](https://github.com/DeclanRiedel) | Declan |  |  | Walvis Bay, Namibia | 6597 |
 | 6 | [asenmwa](https://github.com/asenmwa) | Asen Mwandemele |  | asenmwa | Windhoek, Namibia | 6086 |

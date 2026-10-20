@@ -1,6 +1,6 @@
 # Malaysia
 
-Indexed users: 11,787
+Indexed users: 11,786
 
 | Leaderboard | Link |
 |---|---|
@@ -17,13 +17,13 @@ Indexed users: 11,787
 | 3 | [leoloso](https://github.com/leoloso) | Leonardo Losoviz | Kuala Lumpur, Malaysia | 29,690 |
 | 4 | [Kiyoraka](https://github.com/Kiyoraka) | Afif Maahi | Malaysia | 28,107 |
 | 5 | [naimkatiman](https://github.com/naimkatiman) | Naim | Malaysia | 22,086 |
-| 6 | [booluckgmie](https://github.com/booluckgmie) | Najmi Ariffin | Putrajaya, Malaysia | 18,835 |
-| 7 | [habibtalib](https://github.com/habibtalib) | Habib Talib | Malaysia | 18,227 |
-| 8 | [weixianggoh](https://github.com/weixianggoh) | GOH WEI XIANG | Malaysia | 18,213 |
-| 9 | [lwlee2608](https://github.com/lwlee2608) | Jason Lee | Kuala Lumpur, Malaysia | 16,660 |
-| 10 | [aaronmyatt](https://github.com/aaronmyatt) | Aaron Myatt | Malaysia | 16,149 |
-| 11 | [SuperVentureStudio](https://github.com/SuperVentureStudio) | Faisal Hourani | Malaysia | 15,904 |
-| 12 | [hansheng0512](https://github.com/hansheng0512) | Han Sheng | Sri Petaling, Kuala Lumpur, Malaysia | 15,477 |
+| 6 | [hansheng0512](https://github.com/hansheng0512) | Han Sheng | Sri Petaling, Kuala Lumpur, Malaysia | 20,248 |
+| 7 | [booluckgmie](https://github.com/booluckgmie) | Najmi Ariffin | Putrajaya, Malaysia | 18,835 |
+| 8 | [habibtalib](https://github.com/habibtalib) | Habib Talib | Malaysia | 18,227 |
+| 9 | [weixianggoh](https://github.com/weixianggoh) | GOH WEI XIANG | Malaysia | 18,213 |
+| 10 | [lwlee2608](https://github.com/lwlee2608) | Jason Lee | Kuala Lumpur, Malaysia | 16,660 |
+| 11 | [aaronmyatt](https://github.com/aaronmyatt) | Aaron Myatt | Malaysia | 16,149 |
+| 12 | [SuperVentureStudio](https://github.com/SuperVentureStudio) | Faisal Hourani | Malaysia | 15,904 |
 | 13 | [Anas660](https://github.com/Anas660) | Syed Anas | Malaysia | 14,473 |
 | 14 | [ninjitsuytber](https://github.com/ninjitsuytber) | Stephen Sii | Malaysia | 13,802 |
 | 15 | [edwardtay](https://github.com/edwardtay) | Edward Tay | Malaysia  | 13,397 |
@@ -83,4 +83,4 @@ Indexed users: 11,787
 | 19 | [Zeyad-Azima](https://github.com/Zeyad-Azima) | Zer0verflow | Malaysia | 439 |
 | 20 | [RamadhanAmizudin](https://github.com/RamadhanAmizudin) | Ramadhan Amizudin | Malaysia | 401 |
 
-Generated: 2026-10-20T01:14:54.087Z
+Generated: 2026-10-20T02:36:29.970Z

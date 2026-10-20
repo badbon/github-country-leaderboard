@@ -1,23 +1,23 @@
 # Total Contributions - French Polynesia
 
-Generated: 2026-10-20T00:57:42.159Z
+Generated: 2026-10-20T02:20:33.052Z
 
 Users: 60
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [jaffadog](https://github.com/jaffadog) | Jeremy Waters |  |  | Tahanea, Tuamotus, French Polynesia | 3791 |
-| 2 | [jburckel](https://github.com/jburckel) |  | natimai.solutions |  | French Polynesia | 3039 |
-| 3 | [marsender](https://github.com/marsender) | Didier Corbière |  |  | French Polynesia | 2871 |
+| 1 | [jaffadog](https://github.com/jaffadog) | Jeremy Waters |  |  | Tahanea, Tuamotus, French Polynesia | 3840 |
+| 2 | [jburckel](https://github.com/jburckel) |  | natimai.solutions |  | French Polynesia | 3040 |
+| 3 | [marsender](https://github.com/marsender) | Didier Corbière |  |  | French Polynesia | 2875 |
 | 4 | [smortex](https://github.com/smortex) | Romain Tartière | @FreeBSD @opus-codium @voxpupuli |  | Faa'a, Tahiti, French Polynesia | 1040 |
-| 5 | [jalik](https://github.com/jalik) | Karl Stein | SIGMA POLYNESIA | jalik26 | French Polynesia | 714 |
+| 5 | [jalik](https://github.com/jalik) | Karl Stein | SIGMA POLYNESIA | jalik26 | French Polynesia | 722 |
 | 6 | [ch4mpy](https://github.com/ch4mpy) | Jérôme Wacongne |  |  | Papeete, French Polynesia | 501 |
 | 7 | [N1coc4colA](https://github.com/N1coc4colA) |  | The Community | n1coc4cola | French Polynesia | 467 |
 | 8 | [craff](https://github.com/craff) | Christophe Raffalli | Gaati, UPF |  | Polynésie, Française | 428 |
 | 9 | [adriencanterot](https://github.com/adriencanterot) | Adrien Cantérot |  | adriencanterot | Tahiti, French Polynesia | 300 |
 | 10 | [paraita](https://github.com/paraita) | Paraita Wohler | @e-reo | paraita | Tahiti, French Polynesia | 257 |
 | 11 | [syllebra](https://github.com/syllebra) | BilboX |  |  | French Polynesia | 130 |
-| 12 | [geoffguillain](https://github.com/geoffguillain) | Geoff | Automattic |  | French Polynesia | 76 |
+| 12 | [geoffguillain](https://github.com/geoffguillain) | Geoff | Automattic |  | French Polynesia | 75 |
 | 13 | [Apollo987](https://github.com/Apollo987) | Jerome B |  |  | French Polynesia | 64 |
 | 14 | [laurentpellet](https://github.com/laurentpellet) | Laurent PELLET | ispf.pf |  | French Polynesia | 45 |
 | 15 | [kavehei-lang](https://github.com/kavehei-lang) | Anastasia - HIKUTINI |  |  | Polynésie Française | 34 |

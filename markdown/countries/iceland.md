@@ -22,7 +22,7 @@ Indexed users: 1,579
 | 8 | [Chipcius](https://github.com/Chipcius) | Andri Thorlacius | Reykjavik, Iceland | 12,623 |
 | 9 | [bgunnarsson](https://github.com/bgunnarsson) | B. Gunnarsson | Iceland | 11,601 |
 | 10 | [DavidBachmann](https://github.com/DavidBachmann) | Davíð Bachmann | Iceland | 9,699 |
-| 11 | [sandsower](https://github.com/sandsower) | Vic Valenzuela | Reykjavík, Iceland | 9,507 |
+| 11 | [sandsower](https://github.com/sandsower) | Vic Valenzuela | Reykjavík, Iceland | 9,529 |
 | 12 | [olioskar](https://github.com/olioskar) | Olafur O. Egilsson | Reykjavik | 8,482 |
 | 13 | [sarnason](https://github.com/sarnason) | Steingrímur Árnason | Reykjavik, Iceland | 8,479 |
 | 14 | [rbjarnason](https://github.com/rbjarnason) | Róbert Viðar Bjarnason | Iceland | 7,954 |
@@ -52,7 +52,7 @@ Indexed users: 1,579
 | 13 | [bgautijonsson](https://github.com/bgautijonsson) | Brynjolfur Gauti Jónsson | Reykjavík, Iceland | 2,002 |
 | 14 | [egil](https://github.com/egil) | Egil Hansen | Iceland | 1,580 |
 | 15 | [bgunnarsson](https://github.com/bgunnarsson) | B. Gunnarsson | Iceland | 1,514 |
-| 16 | [sandsower](https://github.com/sandsower) | Vic Valenzuela | Reykjavík, Iceland | 1,501 |
+| 16 | [sandsower](https://github.com/sandsower) | Vic Valenzuela | Reykjavík, Iceland | 1,499 |
 | 17 | [gasvaktin](https://github.com/gasvaktin) | Gasvaktin | Iceland | 1,456 |
 | 18 | [gunnargestsson](https://github.com/gunnargestsson) | Gunnar Thor Gestsson | Iceland | 1,398 |
 | 19 | [tungufoss](https://github.com/tungufoss) | Helga Ingimundardóttir | Iceland | 1,327 |
@@ -83,4 +83,4 @@ Indexed users: 1,579
 | 19 | [jokull](https://github.com/jokull) | Jökull Sólberg Auðunsson | Reykjavík, Iceland | 209 |
 | 20 | [kevien](https://github.com/kevien) | K3vin | iceland | 204 |
 
-Generated: 2026-10-20T01:05:34.756Z
+Generated: 2026-10-20T02:25:59.190Z

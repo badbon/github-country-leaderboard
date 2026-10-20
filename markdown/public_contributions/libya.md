@@ -1,6 +1,6 @@
 # Public Contributions - Libya
 
-Generated: 2026-10-20T01:11:47.735Z
+Generated: 2026-10-20T02:34:03.512Z
 
 Users: 740
 
@@ -22,7 +22,7 @@ Users: 740
 | 14 | [MElkmeshi](https://github.com/MElkmeshi) | Mohamed Elkmeshi | @PrestoLY  | melkmeshi | Tripoli, Libya | 412 |
 | 15 | [Wondermine](https://github.com/Wondermine) | Taha Ali |  |  | Libya, Tripoli | 368 |
 | 16 | [Tellesy](https://github.com/Tellesy) | blueMu | @neptune-ly  |  | Tripoli, Libya | 360 |
-| 17 | [Monther-bug](https://github.com/Monther-bug) | Monther |  @ditsly  |  | Libya | 356 |
-| 18 | [Nojaid-Ad](https://github.com/Nojaid-Ad) |  |  |  | Tripoli | 352 |
-| 19 | [AbdelWahab-Farhat](https://github.com/AbdelWahab-Farhat) | Abdelwahab farhat |  |  | Libya-Tripoli-Gorji | 350 |
+| 17 | [AbdelWahab-Farhat](https://github.com/AbdelWahab-Farhat) | Abdelwahab farhat |  |  | Libya-Tripoli-Gorji | 355 |
+| 18 | [Monther-bug](https://github.com/Monther-bug) | Monther |  @ditsly  |  | Libya | 353 |
+| 19 | [Nojaid-Ad](https://github.com/Nojaid-Ad) |  |  |  | Tripoli | 352 |
 | 20 | [torgodly](https://github.com/torgodly) | Abdullah al-hajj | @Sahably | torgodly | libya | 348 |

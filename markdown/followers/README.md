@@ -99,8 +99,8 @@ Published countries: 234
 | Hong Kong | 10,262 | [View](./hong_kong.md) |
 | Hungary | 11,166 | [View](./hungary.md) |
 | Iceland | 1,579 | [View](./iceland.md) |
-| Indonesia | 63,286 | [View](./indonesia.md) |
-| Iran | 26,861 | [View](./iran.md) |
+| Indonesia | 63,283 | [View](./indonesia.md) |
+| Iran | 26,860 | [View](./iran.md) |
 | Iraq | 2,232 | [View](./iraq.md) |
 | Ireland | 19,486 | [View](./ireland.md) |
 | Isle of Man | 155 | [View](./isle_of_man.md) |
@@ -126,7 +126,7 @@ Published countries: 234
 | Macau | 439 | [View](./macau.md) |
 | Madagascar | 1,903 | [View](./madagascar.md) |
 | Malawi | 900 | [View](./malawi.md) |
-| Malaysia | 11,787 | [View](./malaysia.md) |
+| Malaysia | 11,786 | [View](./malaysia.md) |
 | Maldives | 354 | [View](./maldives.md) |
 | Mali | 347 | [View](./mali.md) |
 | Malta | 1,224 | [View](./malta.md) |
@@ -239,4 +239,4 @@ Published countries: 234
 | Zambia | 1,337 | [View](./zambia.md) |
 | Zimbabwe | 1,656 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-20T02:16:34.301Z
+Generated: 2026-10-20T02:48:31.146Z

@@ -1,6 +1,6 @@
 # Followers - Mozambique
 
-Generated: 2026-10-20T01:18:52.649Z
+Generated: 2026-10-20T02:42:30.978Z
 
 Users: 1175
 
@@ -17,7 +17,7 @@ Users: 1175
 | 9 | [jose-bone](https://github.com/jose-bone) | José Boné |  | jose_bonejr | Quelimane, Mozambique | 187 |
 | 10 | [estevaosimao](https://github.com/estevaosimao) | Estevão Simão | ESBM |  | Mozambique | 166 |
 | 11 | [kelven939](https://github.com/kelven939) | Kelven Bruno Carlos Lopes Bulha (KB) | @centauralfa34 (Centaur (Design & Code)) | KBulha | Beira, Sofala, Mozambique | 165 |
-| 12 | [albrtinoaugusto](https://github.com/albrtinoaugusto) | Albertino Augusto | CEG Microsystems | albrtinoaugusto | Mozambique, Maputo | 162 |
+| 12 | [albrtinoaugusto](https://github.com/albrtinoaugusto) | Albertino Augusto | CEG Microsystems | albrtinoaugusto | Mozambique, Maputo | 161 |
 | 13 | [americo](https://github.com/americo) | Américo Júnior |  | americosmjr | Mozambique | 151 |
 | 14 | [ltsaiete](https://github.com/ltsaiete) | Luis Saiete |  | ltsaiete | Matola, Maputo, Mozambique | 142 |
 | 15 | [IvanBila](https://github.com/IvanBila) | Connoisseur | @bazara  |  | Maputo, Mozambique | 138 |

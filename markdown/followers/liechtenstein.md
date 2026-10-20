@@ -1,6 +1,6 @@
 # Followers - Liechtenstein
 
-Generated: 2026-10-20T01:11:53.248Z
+Generated: 2026-10-20T02:34:08.174Z
 
 Users: 113
 
@@ -23,6 +23,6 @@ Users: 113
 | 15 | [szero](https://github.com/szero) |  | @Volafile |  | Liechtenstein | 16 |
 | 16 | [fabiankeller](https://github.com/fabiankeller) | Fabian Keller | @Netcetera |  | Liechtenstein | 15 |
 | 17 | [michi-dev](https://github.com/michi-dev) | Michael Schädler |  | schaedler_michi | Liechtenstein | 15 |
-| 18 | [IncredibleAaron](https://github.com/IncredibleAaron) | Aaron |  |  | Vaduz | 14 |
-| 19 | [PhilippHGerber](https://github.com/PhilippHGerber) | Philipp H. Gerber |  | PhilippHGerber | Liechtenstein | 14 |
+| 18 | [PhilippHGerber](https://github.com/PhilippHGerber) | Philipp H. Gerber |  | PhilippHGerber | Liechtenstein | 14 |
+| 19 | [IncredibleAaron](https://github.com/IncredibleAaron) | Aaron |  |  | Vaduz | 13 |
 | 20 | [niklasfrick](https://github.com/niklasfrick) | Niklas Frick | @theplatformengineeringcompany | FrickNiklas | Liechtenstein | 12 |
