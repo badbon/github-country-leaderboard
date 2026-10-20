@@ -38767,7 +38767,7 @@
     "company": "MSD",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 2,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-10-19T11:52:04Z"
   },
@@ -38779,7 +38779,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 124,
+    "privateContributions": 114,
     "publicContributions": 0,
     "createdAt": "2016-11-06T16:59:02Z"
   },
@@ -38803,8 +38803,8 @@
     "company": "Sogiry.com",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1709,
-    "publicContributions": 15,
+    "privateContributions": 5843,
+    "publicContributions": 21,
     "createdAt": "2016-01-12T19:19:39Z"
   },
   {
@@ -38816,7 +38816,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 0,
     "createdAt": "2016-03-30T10:14:53Z"
   },
   {
@@ -38848,7 +38848,7 @@
     "name": "Egidijus",
     "avatarUrl": "https://avatars.githubusercontent.com/u/19839030?s=72&v=4",
     "location": "Vilnius, Lithuania",
-    "company": "Netvision",
+    "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
@@ -38864,7 +38864,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 6,
-    "publicContributions": 27,
+    "publicContributions": 41,
     "createdAt": "2016-12-04T15:23:44Z"
   },
   {
@@ -38875,8 +38875,8 @@
     "company": "II Procesu valdymas",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 776,
-    "publicContributions": 24,
+    "privateContributions": 733,
+    "publicContributions": 27,
     "createdAt": "2016-02-02T08:04:26Z"
   },
   {
@@ -38912,20 +38912,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 91,
+    "publicContributions": 150,
     "createdAt": "2016-09-09T15:29:52Z"
-  },
-  {
-    "login": "Kyrylopanov",
-    "name": "Kyrylo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/17234551?s=72&u=45caca5311911a1b6cef2d8162ab73f127bc173d&v=4",
-    "location": "Lithuania",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2016-02-14T14:39:34Z"
   },
   {
     "login": "neonplayer",

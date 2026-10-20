@@ -38707,7 +38707,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 1,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-01-31T12:01:46Z"
   },
@@ -38718,9 +38718,9 @@
     "location": "Kathmandu, Nepal",
     "company": "IOE, Pulchowk Campus, Lalitpur, Nepal",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 52,
-    "publicContributions": 116,
+    "followers": 6,
+    "privateContributions": 111,
+    "publicContributions": 113,
     "createdAt": "2023-01-25T16:54:02Z"
   },
   {
@@ -38732,7 +38732,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 3,
     "createdAt": "2023-02-22T16:12:48Z"
   },
   {
@@ -38755,8 +38755,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 178,
-    "publicContributions": 42,
+    "privateContributions": 176,
+    "publicContributions": 32,
     "createdAt": "2023-05-14T12:51:38Z"
   },
   {
@@ -38766,9 +38766,9 @@
     "location": "Jhapa, Nepal",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 491,
+    "followers": 5,
+    "privateContributions": 52,
+    "publicContributions": 795,
     "createdAt": "2023-06-12T04:34:00Z"
   },
   {
@@ -38779,8 +38779,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 728,
-    "publicContributions": 12,
+    "privateContributions": 1421,
+    "publicContributions": 62,
     "createdAt": "2022-12-29T12:08:04Z"
   },
   {
@@ -38792,7 +38792,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 174,
+    "publicContributions": 147,
     "createdAt": "2023-06-10T12:20:41Z"
   },
   {
@@ -38815,8 +38815,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 29,
-    "publicContributions": 75,
+    "privateContributions": 40,
+    "publicContributions": 84,
     "createdAt": "2023-06-02T04:59:54Z"
   },
   {
@@ -38826,7 +38826,7 @@
     "location": "Koteshwor, Nepal",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-05-23T09:22:07Z"
@@ -38840,7 +38840,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 1,
     "createdAt": "2023-02-24T12:26:20Z"
   },
   {
@@ -38848,11 +38848,11 @@
     "name": "Umang thapa",
     "avatarUrl": "https://avatars.githubusercontent.com/u/129733905?s=72&u=40339b32760a0a16fa7fd9971e73eb1955d77a1c&v=4",
     "location": "Nepal",
-    "company": "UG Packs",
+    "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 21,
-    "publicContributions": 103,
+    "privateContributions": 33,
+    "publicContributions": 154,
     "createdAt": "2023-04-03T08:25:53Z"
   },
   {
@@ -38862,9 +38862,9 @@
     "location": "Bhaktapir,Nepal",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 4,
-    "publicContributions": 62,
+    "followers": 5,
+    "privateContributions": 20,
+    "publicContributions": 85,
     "createdAt": "2023-02-10T14:28:32Z"
   },
   {
@@ -38886,9 +38886,9 @@
     "location": "Kathmandu,Nepal",
     "company": "IOE Thapathali Campus",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 44,
-    "publicContributions": 65,
+    "followers": 5,
+    "privateContributions": 38,
+    "publicContributions": 131,
     "createdAt": "2023-05-10T14:14:00Z"
   },
   {
@@ -38898,21 +38898,21 @@
     "location": "Kathmandu, Nepal",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 268,
-    "publicContributions": 44,
+    "followers": 5,
+    "privateContributions": 721,
+    "publicContributions": 20,
     "createdAt": "2023-02-19T15:09:44Z"
   },
   {
     "login": "ftbhabuk",
     "name": "bbook",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/132197539?s=72&u=8e78faaef659ecdca577f7249f3b3f06ef3fb844&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/132197539?s=72&u=a9e9958a52616a93ce57b3967267b153565b32f7&v=4",
     "location": "Nepal",
     "company": "",
-    "twitterUsername": "FellowTravell20",
-    "followers": 4,
-    "privateContributions": 142,
-    "publicContributions": 387,
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 493,
+    "publicContributions": 302,
     "createdAt": "2023-04-30T09:49:24Z"
   },
   {
