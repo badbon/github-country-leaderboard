@@ -30,8 +30,8 @@ Indexed users: 1,924
 | 16 | [nikola-n](https://github.com/nikola-n) | Nikola | Veles, Macedonia | 4,049 |
 | 17 | [vetonshabani0](https://github.com/vetonshabani0) | Veton Shabani | Skopje | 4,037 |
 | 18 | [andreyagovski](https://github.com/andreyagovski) | Andrey | Macedonia | 3,997 |
-| 19 | [M9Mike](https://github.com/M9Mike) | Mihail Veljanoski | Skopje, Macedonia | 3,657 |
-| 20 | [deko96](https://github.com/deko96) | Dejan Bozhinoski | Skopje, Macedonia | 3,635 |
+| 19 | [andjiev](https://github.com/andjiev) | Ivan Andjiev | North Macedonia | 3,946 |
+| 20 | [M9Mike](https://github.com/M9Mike) | Mihail Veljanoski | Skopje, Macedonia | 3,657 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 1,924
 | 19 | [bor0](https://github.com/bor0) | Boro Sitnikovski | Skopje, North Macedonia | 166 |
 | 20 | [gdamjan](https://github.com/gdamjan) | Дамјан Георгиевски | Skopje, Macedonia | 145 |
 
-Generated: 2026-10-20T16:00:42.030Z
+Generated: 2026-10-20T18:12:34.025Z

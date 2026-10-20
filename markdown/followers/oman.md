@@ -1,6 +1,6 @@
 # Followers - Oman
 
-Generated: 2026-10-20T16:02:04.305Z
+Generated: 2026-10-20T18:13:22.055Z
 
 Users: 991
 
@@ -15,8 +15,8 @@ Users: 991
 | 7 | [RanjbarAli](https://github.com/RanjbarAli) | Ali Ranjbar Jelodar |  |  | Oman, Muscat | 188 |
 | 8 | [Zerx0r](https://github.com/Zerx0r) | Zerx0r |  |  | Oman, Muscat | 175 |
 | 9 | [sajadevo](https://github.com/sajadevo) | Sajad |  | sajadevo_ | Muscat, Oman | 174 |
-| 10 | [AMEERKOTTA](https://github.com/AMEERKOTTA) | AMEER KOTTA | commonAI |  | Muscat, Oman | 152 |
-| 11 | [Fahad-Al-Maashani](https://github.com/Fahad-Al-Maashani) | Fahad Al Maashani |  |  | Salalah, Oman | 143 |
+| 10 | [Fahad-Al-Maashani](https://github.com/Fahad-Al-Maashani) | Fahad Al Maashani |  |  | Salalah, Oman | 153 |
+| 11 | [AMEERKOTTA](https://github.com/AMEERKOTTA) | AMEER KOTTA | commonAI |  | Muscat, Oman | 152 |
 | 12 | [Mahanmmi](https://github.com/Mahanmmi) | Mahan Zendedel DH | opencomply.io |  | Muscat, Oman | 143 |
 | 13 | [sanjeed5](https://github.com/sanjeed5) | Sanjeed |  | sanjeed_i | Bangalore / Oman  | 132 |
 | 14 | [byteab](https://github.com/byteab) | Ehsan sarshar | Send | byteab | Muscat Oman | 109 |

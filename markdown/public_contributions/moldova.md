@@ -1,6 +1,6 @@
 # Public Contributions - Moldova
 
-Generated: 2026-10-20T15:50:21.037Z
+Generated: 2026-10-20T18:05:58.430Z
 
 Users: 1747
 
@@ -9,7 +9,7 @@ Users: 1747
 | 1 | [amberpixels](https://github.com/amberpixels) | Eugene | amberpixels.io |  | Moldova, Chișinău | 28606 |
 | 2 | [texpert](https://github.com/texpert) | Aurel Branzeanu | PC-Link | tvorogoff | Chisinau, Moldova | 4394 |
 | 3 | [ivanm696](https://github.com/ivanm696) | ivanm696  |  |  | Moldova | 3289 |
-| 4 | [deoleg](https://github.com/deoleg) | deoleg | CRU Moldova |  | Moldova | 3165 |
+| 4 | [deoleg](https://github.com/deoleg) | deoleg | CRU Moldova |  | Moldova | 3184 |
 | 5 | [sighook](https://github.com/sighook) | Alex Savca |  |  | Moldova | 3076 |
 | 6 | [stephen-golban](https://github.com/stephen-golban) | Stephen G | Syncra Studio |  | Moldova | 2946 |
 | 7 | [nikpopesku](https://github.com/nikpopesku) | Nikolai Popesku |  |  | Chisinau, Moldova | 2534 |

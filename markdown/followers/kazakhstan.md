@@ -1,6 +1,6 @@
 # Followers - Kazakhstan
 
-Generated: 2026-10-20T15:39:33.137Z
+Generated: 2026-10-20T17:54:41.114Z
 
 Users: 5628
 

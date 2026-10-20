@@ -13,7 +13,7 @@ Indexed users: 1,070
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [MattRiddell](https://github.com/MattRiddell) | Matthew Riddell | Panama | 47,936 |
-| 2 | [rafaaro](https://github.com/rafaaro) | Rafael Arosemena | Panama | 24,696 |
+| 2 | [rafaaro](https://github.com/rafaaro) | Rafael Arosemena | Panama | 30,181 |
 | 3 | [ElenaRevicheva](https://github.com/ElenaRevicheva) | Elena | Panama, Panama city | 24,202 |
 | 4 | [jeremymcs](https://github.com/jeremymcs) | Jeremy McSpadden | Panama City, FL | 18,220 |
 | 5 | [quezadaesteban](https://github.com/quezadaesteban) | Esteban Quezada | Panama | 17,458 |
@@ -83,4 +83,4 @@ Indexed users: 1,070
 | 19 | [Commandtechno](https://github.com/Commandtechno) | Techno | David, Panama | 49 |
 | 20 | [jebberjeb](https://github.com/jebberjeb) | Jeb Beich | Panama City, FL | 48 |
 
-Generated: 2026-10-20T16:02:40.037Z
+Generated: 2026-10-20T18:14:57.242Z

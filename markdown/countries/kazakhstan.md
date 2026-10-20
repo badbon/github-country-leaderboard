@@ -16,22 +16,22 @@ Indexed users: 5,628
 | 2 | [rldyourmnd](https://github.com/rldyourmnd) | Danil Silantyev | Kazakhstan/World | 74,329 |
 | 3 | [nstwfdev](https://github.com/nstwfdev) | Timur | Kazakhstan | 40,407 |
 | 4 | [ZhymabekRoman](https://github.com/ZhymabekRoman) | Zhymabek Roman | Kazakhstan | 34,197 |
-| 5 | [yrn-dev](https://github.com/yrn-dev) | Yernur | Kazakhstan, Kyzylorda | 24,758 |
-| 6 | [yasball](https://github.com/yasball) | Yesbol Sariyev | Atyrau, Kazakhstan | 15,489 |
-| 7 | [alexey-abblix](https://github.com/alexey-abblix) | Alexey Poltorak | Astana, Kazakhstan | 14,638 |
-| 8 | [LeventySeven](https://github.com/LeventySeven) | Slava | Almaty, Kazakhstan | 13,558 |
-| 9 | [edelmir-muratkanov](https://github.com/edelmir-muratkanov) | Edelmir | Kazakhstan, Almaty | 12,857 |
-| 10 | [IManss-ai](https://github.com/IManss-ai) | Mansur Zhiger | Almaty, Kazakhstan | 12,675 |
-| 11 | [uzarsalan](https://github.com/uzarsalan) | Arsalan | Astana, Kazakhstan | 12,368 |
-| 12 | [enganese](https://github.com/enganese) | Ulan Aitbay | Aktau, Kazakhstan / Almaty, Kazakhstan | 11,740 |
-| 13 | [yelmuratoff](https://github.com/yelmuratoff) | Yelaman Yelmurat | Kazakhstan | 10,505 |
-| 14 | [Mukhambetov](https://github.com/Mukhambetov) | Sagyndyk Mukhambetov | Kazakhstan | 10,357 |
-| 15 | [neokofg](https://github.com/neokofg) | neoko | Almaty, Kazakhstan | 9,093 |
-| 16 | [MisterAlenExe](https://github.com/MisterAlenExe) | Alen Sultanov | Astana, Kazakhstan | 8,486 |
-| 17 | [shprotx](https://github.com/shprotx) | Arturka Arturka | Kazakhstan | 8,323 |
-| 18 | [Lyamon4](https://github.com/Lyamon4) | alim the coder | Astana | 8,307 |
-| 19 | [aa-blinov](https://github.com/aa-blinov) | aa-blinov | Astana, KZ | 8,145 |
-| 20 | [AssylanAkhanuly](https://github.com/AssylanAkhanuly) | Assylan Akhanuly | Kazakhstan, Astana | 8,088 |
+| 5 | [abdymazhit](https://github.com/abdymazhit) | Islam Abdymazhit | Almaty, Kazakhstan | 27,586 |
+| 6 | [yrn-dev](https://github.com/yrn-dev) | Yernur | Kazakhstan, Kyzylorda | 24,758 |
+| 7 | [yasball](https://github.com/yasball) | Yesbol Sariyev | Atyrau, Kazakhstan | 15,489 |
+| 8 | [alexey-abblix](https://github.com/alexey-abblix) | Alexey Poltorak | Astana, Kazakhstan | 14,638 |
+| 9 | [LeventySeven](https://github.com/LeventySeven) | Slava | Almaty, Kazakhstan | 13,558 |
+| 10 | [edelmir-muratkanov](https://github.com/edelmir-muratkanov) | Edelmir | Kazakhstan, Almaty | 12,857 |
+| 11 | [IManss-ai](https://github.com/IManss-ai) | Mansur Zhiger | Almaty, Kazakhstan | 12,675 |
+| 12 | [uzarsalan](https://github.com/uzarsalan) | Arsalan | Astana, Kazakhstan | 12,368 |
+| 13 | [enganese](https://github.com/enganese) | Ulan Aitbay | Aktau, Kazakhstan / Almaty, Kazakhstan | 11,740 |
+| 14 | [yelmuratoff](https://github.com/yelmuratoff) | Yelaman Yelmurat | Kazakhstan | 10,505 |
+| 15 | [Mukhambetov](https://github.com/Mukhambetov) | Sagyndyk Mukhambetov | Kazakhstan | 10,357 |
+| 16 | [neokofg](https://github.com/neokofg) | neoko | Almaty, Kazakhstan | 9,093 |
+| 17 | [MisterAlenExe](https://github.com/MisterAlenExe) | Alen Sultanov | Astana, Kazakhstan | 8,486 |
+| 18 | [shprotx](https://github.com/shprotx) | Arturka Arturka | Kazakhstan | 8,323 |
+| 19 | [Lyamon4](https://github.com/Lyamon4) | alim the coder | Astana | 8,307 |
+| 20 | [aa-blinov](https://github.com/aa-blinov) | aa-blinov | Astana, KZ | 8,145 |
 
 ## Public Contributions
 
@@ -51,12 +51,12 @@ Indexed users: 5,628
 | 12 | [yelmuratoff](https://github.com/yelmuratoff) | Yelaman Yelmurat | Kazakhstan | 2,839 |
 | 13 | [SapphoSys](https://github.com/SapphoSys) | Chloe | Almaty, Kazakhstan | 2,680 |
 | 14 | [MDI74](https://github.com/MDI74) | Dmitriy Myakotin | Kazakhstan, Astana | 2,612 |
-| 15 | [Kaiyrkhan](https://github.com/Kaiyrkhan) | Kaiyrkhan Mukapil | Almaty, Qazaqstan | 2,232 |
-| 16 | [atlet99](https://github.com/atlet99) | Abdurakhman Rakhmankulov | Shymkent, Kazakhstan | 2,099 |
-| 17 | [maximgorbatyuk](https://github.com/maximgorbatyuk) | Maxim Gorbatyuk | Kazakhstan | 2,049 |
-| 18 | [rdmbtc](https://github.com/rdmbtc) | Dr RDM | Kazakhstan | 2,041 |
-| 19 | [borisk85](https://github.com/borisk85) | Boris Komarov | Kazakhstan | 2,026 |
-| 20 | [shinovon](https://github.com/shinovon) | Arman Jussupgaliyev | Kazakhstan | 2,003 |
+| 15 | [m62624](https://github.com/m62624) | Mansur | Kazakhstan, Almaty | 2,250 |
+| 16 | [Kaiyrkhan](https://github.com/Kaiyrkhan) | Kaiyrkhan Mukapil | Almaty, Qazaqstan | 2,232 |
+| 17 | [atlet99](https://github.com/atlet99) | Abdurakhman Rakhmankulov | Shymkent, Kazakhstan | 2,099 |
+| 18 | [maximgorbatyuk](https://github.com/maximgorbatyuk) | Maxim Gorbatyuk | Kazakhstan | 2,049 |
+| 19 | [rdmbtc](https://github.com/rdmbtc) | Dr RDM | Kazakhstan | 2,041 |
+| 20 | [borisk85](https://github.com/borisk85) | Boris Komarov | Kazakhstan | 2,026 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 5,628
 | 19 | [aidarnouman](https://github.com/aidarnouman) | Aidar Nouman | Almaty, Kazakhstan | 303 |
 | 20 | [azamxvit](https://github.com/azamxvit) | Azamat | Kazakhstan, Atyrau | 295 |
 
-Generated: 2026-10-20T15:39:33.137Z
+Generated: 2026-10-20T17:54:41.114Z

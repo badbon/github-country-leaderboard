@@ -1,13 +1,13 @@
 # Total Contributions - Panama
 
-Generated: 2026-10-20T16:02:40.037Z
+Generated: 2026-10-20T18:14:57.242Z
 
 Users: 1070
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [MattRiddell](https://github.com/MattRiddell) | Matthew Riddell | Group Advisors, NeoGen.AI, COVID Schedule, VentureVoIP, CreateOffshoreCompany, SineApps, VentureIP, C O International Holdings, Bio Earth Farms, Light Stream Farms, Singularity Software | MattRiddell | Panama | 47936 |
-| 2 | [rafaaro](https://github.com/rafaaro) | Rafael Arosemena | RARO |  | Panama | 24696 |
+| 2 | [rafaaro](https://github.com/rafaaro) | Rafael Arosemena | RARO |  | Panama | 30181 |
 | 3 | [ElenaRevicheva](https://github.com/ElenaRevicheva) | Elena | AIdeazz start-up | reviceva | Panama, Panama city | 24202 |
 | 4 | [jeremymcs](https://github.com/jeremymcs) | Jeremy McSpadden | Flux Labs | jeremymcs | Panama City, FL | 18220 |
 | 5 | [quezadaesteban](https://github.com/quezadaesteban) | Esteban Quezada |  |  | Panama | 17458 |

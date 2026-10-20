@@ -15,8 +15,8 @@ Indexed users: 1,395
 | 1 | [antonygiomarxdev](https://github.com/antonygiomarxdev) | Antony Giomar Hernández | Nicaragua | 9,525 |
 | 2 | [pacisauctor](https://github.com/pacisauctor) | Axel Garcia | Managua, Nicaragua | 9,145 |
 | 3 | [herroldreal](https://github.com/herroldreal) | Herrold H. Real | Nicaragua | 8,427 |
-| 4 | [LuiisDev21](https://github.com/LuiisDev21) | Luis Ordoñez | Managua, Nicaragua | 7,440 |
-| 5 | [williamjmorenor](https://github.com/williamjmorenor) | William Moreno | Managua Nicaragua | 7,432 |
+| 4 | [williamjmorenor](https://github.com/williamjmorenor) | William Moreno | Managua Nicaragua | 7,432 |
+| 5 | [LuiisDev21](https://github.com/LuiisDev21) | Luis Ordoñez | Managua, Nicaragua | 7,407 |
 | 6 | [ahjavier](https://github.com/ahjavier) | Javier Alvarez | Nicaragua | 7,342 |
 | 7 | [slzno](https://github.com/slzno) | Luis Solorzano | León, Nicaragua | 6,050 |
 | 8 | [josetorres1](https://github.com/josetorres1) | José Torres | Managua, Nicaragua | 5,686 |
@@ -31,7 +31,7 @@ Indexed users: 1,395
 | 17 | [ernestoruiz89](https://github.com/ernestoruiz89) | Ernesto Ruiz | Nicaragua | 3,723 |
 | 18 | [edgewl2](https://github.com/edgewl2) | Gerardo Hernández | León, Nicaragua | 3,555 |
 | 19 | [paulomcnally](https://github.com/paulomcnally) | Paulo McNally | Mangua, Nicaragua | 3,476 |
-| 20 | [Steven-Mendez](https://github.com/Steven-Mendez) | Steven Mendez | Managua, Nicaragua | 3,423 |
+| 20 | [kenetpicado](https://github.com/kenetpicado) | Kenet | León, Nicaragua | 3,456 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 1,395
 | 19 | [luismejiadev](https://github.com/luismejiadev) | Luis Mejia | Managua, Nicaragua | 68 |
 | 20 | [dannygaray60](https://github.com/dannygaray60) | Danny Garay | Nicaragua | 61 |
 
-Generated: 2026-10-20T15:58:13.895Z
+Generated: 2026-10-20T18:09:25.899Z

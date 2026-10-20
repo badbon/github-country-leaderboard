@@ -1,6 +1,6 @@
 # Public Contributions - Lebanon
 
-Generated: 2026-10-20T15:43:58.842Z
+Generated: 2026-10-20T17:56:11.728Z
 
 Users: 2559
 
@@ -11,7 +11,7 @@ Users: 2559
 | 3 | [Mazennaji](https://github.com/Mazennaji) | Mazen Naji |  |  | Lebanon | 3196 |
 | 4 | [shahednasser](https://github.com/shahednasser) | Shahed Nasser | @medusajs | _shahednasser | Aaramoun, Lebanon | 2995 |
 | 5 | [aliscco](https://github.com/aliscco) | Ali mazloum | acme,inc |  | Beirut | 2919 |
-| 6 | [Omar7tech](https://github.com/Omar7tech) | Omar Abi Farraj | Omar7tech |  | Beirut | 2603 |
+| 6 | [Omar7tech](https://github.com/Omar7tech) | Omar Abi Farraj | Omar7tech |  | Beirut | 2295 |
 | 7 | [MahmoudAmouni](https://github.com/MahmoudAmouni) | Mahmoud Abou Amoun |  |  | Lebanon | 1843 |
 | 8 | [MohammadRstm](https://github.com/MohammadRstm) | Mohammad Rostom |  |  | Beirut - Lebanon | 1814 |
 | 9 | [samerc](https://github.com/samerc) | Samer Cheaib | Fancyshark |  | Beirut | 1779 |
@@ -24,5 +24,5 @@ Users: 2559
 | 16 | [ahomsi0](https://github.com/ahomsi0) | Ahmad Homsi |  |  | Lebanon | 1211 |
 | 17 | [wwilson1017](https://github.com/wwilson1017) | Will Wilson | TN Cheesecake |  | Lebanon, TN | 1158 |
 | 18 | [mahdi-alkak-1](https://github.com/mahdi-alkak-1) | Mahdi Kak |  |  | Lebanon,Beirut | 1135 |
-| 19 | [Kronbii](https://github.com/Kronbii) | Rami Kronbi | @Oreyeon |  | Beirut, LB | 1107 |
+| 19 | [Kronbii](https://github.com/Kronbii) | Rami Kronbi | @Oreyeon |  | Beirut, LB | 1102 |
 | 20 | [mabd-dev](https://github.com/mabd-dev) | Mahmoud Abdallah |  | MABDdev | Beirut, Lebanon | 1035 |

@@ -13,15 +13,15 @@ Indexed users: 210
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [FranklinD10](https://github.com/FranklinD10) | FrApps | Liberia | 7,882 |
-| 2 | [RA9](https://github.com/RA9) | Carlos S. Nah  | Liberia  | 5,330 |
+| 2 | [RA9](https://github.com/RA9) | Carlos S. Nah  | Liberia  | 5,345 |
 | 3 | [cruso003](https://github.com/cruso003) | Geitodyu Henrique Crusoe | Paynesville, Liberia | 4,344 |
 | 4 | [Forratino21](https://github.com/Forratino21) | Courage J. F. T Chileegbo | Liberia | 3,312 |
 | 5 | [Abayoh](https://github.com/Abayoh) | Alexander Bayoh | Monrovia, Liberia | 2,958 |
 | 6 | [deginmulbah](https://github.com/deginmulbah) | Jenkins D.Mulbah | Liberia,Monrovia | 2,303 |
-| 7 | [priceflex](https://github.com/priceflex) | Steven Price | Monrovia, CA | 1,516 |
-| 8 | [timtjoe](https://github.com/timtjoe) | Tim T. Joe | Liberia, West Africa | 1,429 |
-| 9 | [arunponnappan](https://github.com/arunponnappan) | Arun P | Monrovia | 1,410 |
-| 10 | [tangaye](https://github.com/tangaye) | Nathan Tangaye Siafa | Paynesville, Liberia | 1,239 |
+| 7 | [tangaye](https://github.com/tangaye) | Nathan Tangaye Siafa | Paynesville, Liberia | 1,547 |
+| 8 | [priceflex](https://github.com/priceflex) | Steven Price | Monrovia, CA | 1,516 |
+| 9 | [timtjoe](https://github.com/timtjoe) | Tim T. Joe | Liberia, West Africa | 1,429 |
+| 10 | [arunponnappan](https://github.com/arunponnappan) | Arun P | Monrovia | 1,410 |
 | 11 | [Carlostala04](https://github.com/Carlostala04) | Carlos Talavera | Liberia | 1,142 |
 | 12 | [mdsomah](https://github.com/mdsomah) | Mesheal D. Somah Sr. | Monrovia, Liberia | 1,110 |
 | 13 | [KalevRK](https://github.com/KalevRK) | Kalev Roomann-Kurrik | Monrovia, CA | 867 |
@@ -52,7 +52,7 @@ Indexed users: 210
 | 13 | [SimeonATarr231](https://github.com/SimeonATarr231) | Simeon Aseon Tarr | Buchanan City, Liberia | 210 |
 | 14 | [FitzgeraldChallar](https://github.com/FitzgeraldChallar) | Fitzgerald Challar | Ontario, Canada & Monrovia, Liberia | 207 |
 | 15 | [Deviskalo](https://github.com/Deviskalo) | Dev Iskalo | Monrovia, Liberia | 187 |
-| 16 | [1989shack](https://github.com/1989shack) | Martin M Sheriff | Monrovia, Liberia | 171 |
+| 16 | [1989shack](https://github.com/1989shack) | Martin M Sheriff | Monrovia, Liberia | 172 |
 | 17 | [stenson](https://github.com/stenson) | Rob Stenson | Monrovia, CA | 156 |
 | 18 | [brimaabrahamfuller-blip](https://github.com/brimaabrahamfuller-blip) | Brima Abraham Fuller | Rwanda, Liberia. | 143 |
 | 19 | [armandosolisvillegas-max](https://github.com/armandosolisvillegas-max) | Armando José Solís Villegas | Liberia | 139 |
@@ -64,7 +64,7 @@ Indexed users: 210
 |---:|---|---|---|---:|
 | 1 | [mdsomah](https://github.com/mdsomah) | Mesheal D. Somah Sr. | Monrovia, Liberia | 307 |
 | 2 | [BugHunter-SN](https://github.com/BugHunter-SN) | Samuel E. H. Nimely |  Monrovia Liberia. West Africa | 172 |
-| 3 | [1989shack](https://github.com/1989shack) | Martin M Sheriff | Monrovia, Liberia | 154 |
+| 3 | [1989shack](https://github.com/1989shack) | Martin M Sheriff | Monrovia, Liberia | 155 |
 | 4 | [Massaquoi716](https://github.com/Massaquoi716) | Massaquoi L Dehmie | Liberia | 152 |
 | 5 | [stenson](https://github.com/stenson) | Rob Stenson | Monrovia, CA | 129 |
 | 6 | [RA9](https://github.com/RA9) | Carlos S. Nah  | Liberia  | 101 |
@@ -83,4 +83,4 @@ Indexed users: 210
 | 19 | [boaslah](https://github.com/boaslah) | Blessing Boaslah | Montserrado County, Liberia  | 21 |
 | 20 | [ejaygbay](https://github.com/ejaygbay) | Emmanuel Jaygbay | Liberia | 21 |
 
-Generated: 2026-10-20T15:45:28.527Z
+Generated: 2026-10-20T17:56:45.478Z

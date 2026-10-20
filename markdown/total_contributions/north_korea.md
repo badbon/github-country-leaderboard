@@ -1,15 +1,15 @@
 # Total Contributions - North Korea
 
-Generated: 2026-10-20T16:00:34.397Z
+Generated: 2026-10-20T18:11:48.496Z
 
 Users: 185
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [Kim9wang](https://github.com/Kim9wang) | Kim Wang | @The-Korean-Fashion  |  | Pyongyang | 5978 |
+| 1 | [Kim9wang](https://github.com/Kim9wang) | Kim Wang | @The-Korean-Fashion  |  | Pyongyang | 6029 |
 | 2 | [advanced-rising](https://github.com/advanced-rising) | risingcore |  |  | Democratic People's Republic of Korea | 5217 |
 | 3 | [boyesjo](https://github.com/boyesjo) | Boye Sjo | yo mama | elonmusk | pyongyang | 4402 |
-| 4 | [henxdl](https://github.com/henxdl) | henxdl | Unemployed :) |  | Pyongyang, North Korea | 3014 |
+| 4 | [henxdl](https://github.com/henxdl) | henxdl | Unemployed :) |  | Pyongyang, North Korea | 3080 |
 | 5 | [sakweli](https://github.com/sakweli) | Josh Sakweli | Qbit Spark | JosureSimon | North Korea | 2429 |
 | 6 | [andrewlee1807](https://github.com/andrewlee1807) | Andrew |  |  | North Korea | 1547 |
 | 7 | [The-Red-Serpent](https://github.com/The-Red-Serpent) | The_Red_Serpent |  |  | Pyongyang, North Korea | 1305 |
@@ -21,7 +21,7 @@ Users: 185
 | 13 | [dddqmmx](https://github.com/dddqmmx) | PaulPerkenstein | Workers' Party of Korea |  | Pyongyang | 508 |
 | 14 | [DillerOFire](https://github.com/DillerOFire) | VerpaSRP |  |  | North Korea | 477 |
 | 15 | [renxiaoyaoo](https://github.com/renxiaoyaoo) | renxiaoyao |  |  | North Korea	 | 391 |
-| 16 | [Hexamouse](https://github.com/Hexamouse) | Muhamad Dzikri Maulana |  |  | Pyongyang, North Korea | 366 |
+| 16 | [Hexamouse](https://github.com/Hexamouse) | Muhamad Dzikri Maulana |  |  | Pyongyang, North Korea | 367 |
 | 17 | [PookiePepelsss](https://github.com/PookiePepelsss) | Pookie | @Nebula-Softworks \| Nebula Softworks |  | North Korea | 351 |
 | 18 | [l1vstudios](https://github.com/l1vstudios) | L1V |  |  | North Korea | 308 |
 | 19 | [Pigatronee](https://github.com/Pigatronee) | PigObsessedGameDev | pigat.inc |  | North Korea | 256 |

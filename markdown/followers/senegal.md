@@ -1,6 +1,6 @@
 # Followers - Senegal
 
-Generated: 2026-10-20T16:13:52.703Z
+Generated: 2026-10-20T18:24:11.541Z
 
 Users: 1355
 
@@ -14,7 +14,7 @@ Users: 1355
 | 6 | [EpsilonCoder](https://github.com/EpsilonCoder) | Epsilon | Gaindé 2000 |  | Dakar ,Senegal | 226 |
 | 7 | [eliaswalyba](https://github.com/eliaswalyba) | Elias W. BA | GalsenAI, Air Sénégal, Coursera, Neograph | eliaswalyba | Dakar, Sénégal | 214 |
 | 8 | [PapiHack](https://github.com/PapiHack) | Meissa (Papi) Mbaye |  | the_it_dev | Dakar, Senegal | 196 |
-| 9 | [takanome-dev](https://github.com/takanome-dev) | El Hadji Malick Seck | undefined | takanome_dev | Dakar, Senegal | 195 |
+| 9 | [takanome-dev](https://github.com/takanome-dev) | El Hadji Malick Seck | @TenseiGroup | takanome_dev | Dakar, Senegal | 196 |
 | 10 | [MedouneSGB](https://github.com/MedouneSGB) | Médoune Siby Georges Baldé | Eyone | Medoune_SGB | Dakar | 193 |
 | 11 | [dofbi](https://github.com/dofbi) | dofbi.eth | 01SERVICES | dofbi | Senegal | 186 |
 | 12 | [mamour-dx](https://github.com/mamour-dx) | Mamour Dieng | École Supérieure Polytechnique |  | Dakar | 179 |
@@ -24,5 +24,5 @@ Users: 1355
 | 16 | [kasali](https://github.com/kasali) | kasali | Freelancer | kadev4solutions | Dakar Sénégal | 154 |
 | 17 | [paydunyadev](https://github.com/paydunyadev) | PayDunya | PayDunya |  | Sénégal - Dakar (Ouest Foire) | 150 |
 | 18 | [ridwanediallo](https://github.com/ridwanediallo) | Ridwan Diallo |  | RidwaneD | Dakar - Senegal | 148 |
-| 19 | [ngorseck](https://github.com/ngorseck) | Ngor SECK | Samane Corporation | NgorSeck | Dakar - Sénégal | 142 |
-| 20 | [patheGobel](https://github.com/patheGobel) | Pathé BA |  | Pathegobelba | Senegal  | 141 |
+| 19 | [patheGobel](https://github.com/patheGobel) | Pathé BA |  | Pathegobelba | Senegal  | 146 |
+| 20 | [ngorseck](https://github.com/ngorseck) | Ngor SECK | Samane Corporation | NgorSeck | Dakar - Sénégal | 142 |

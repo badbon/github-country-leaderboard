@@ -13,12 +13,12 @@ Indexed users: 1,532
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [RhettCreighton](https://github.com/RhettCreighton) | Rhett Creighton | San Juan, Puerto Rico | 38,495 |
-| 2 | [mattvv](https://github.com/mattvv) | Matt Van | San Juan, Puerto Rico | 33,191 |
+| 2 | [mattvv](https://github.com/mattvv) | Matt Van | San Juan, Puerto Rico | 33,327 |
 | 3 | [angusdavis2](https://github.com/angusdavis2) |  | Dorado, Puerto Rico | 28,661 |
 | 4 | [robertjchristian](https://github.com/robertjchristian) | Robert Christian | Orlando FL \| Seattle WA \| San Juan PR | 22,473 |
 | 5 | [gabynevada](https://github.com/gabynevada) | Elvis Nieves | Puerto Rico | 20,645 |
 | 6 | [0xPlayerOne](https://github.com/0xPlayerOne) | A. Mahoney-Fernandes | San Juan, PR 🇵🇷 | 19,434 |
-| 7 | [bpamiri](https://github.com/bpamiri) | Peter Amiri | San Juan Capistrano, CA | 17,915 |
+| 7 | [bpamiri](https://github.com/bpamiri) | Peter Amiri | San Juan Capistrano, CA | 18,649 |
 | 8 | [devmoreno](https://github.com/devmoreno) | Edwin Moreno | Aguadilla, Puerto Rico | 9,005 |
 | 9 | [jdreben](https://github.com/jdreben) | James Dreben | San Juan, Puerto Rico | 8,227 |
 | 10 | [brettheap](https://github.com/brettheap) | Brett Heap | Puerto Rico | 7,801 |
@@ -39,7 +39,7 @@ Indexed users: 1,532
 |---:|---|---|---|---:|
 | 1 | [0xPlayerOne](https://github.com/0xPlayerOne) | A. Mahoney-Fernandes | San Juan, PR 🇵🇷 | 17,559 |
 | 2 | [RhettCreighton](https://github.com/RhettCreighton) | Rhett Creighton | San Juan, Puerto Rico | 12,873 |
-| 3 | [bpamiri](https://github.com/bpamiri) | Peter Amiri | San Juan Capistrano, CA | 9,824 |
+| 3 | [bpamiri](https://github.com/bpamiri) | Peter Amiri | San Juan Capistrano, CA | 10,008 |
 | 4 | [brettheap](https://github.com/brettheap) | Brett Heap | Puerto Rico | 7,801 |
 | 5 | [egmtm](https://github.com/egmtm) | EGM™ | Puerto Rico | 5,872 |
 | 6 | [Wolfkid200444](https://github.com/Wolfkid200444) | Wolfie | Puerto Rico | 4,851 |
@@ -83,4 +83,4 @@ Indexed users: 1,532
 | 19 | [rnegron](https://github.com/rnegron) | Raúl Negrón-Otero | Bayamón, Puerto Rico | 113 |
 | 20 | [hackingbutlegal](https://github.com/hackingbutlegal) | Jackie Singh | San Juan, PR | 107 |
 
-Generated: 2026-10-20T16:04:54.046Z
+Generated: 2026-10-20T18:17:23.768Z

@@ -1,6 +1,6 @@
 # Total Contributions - Mozambique
 
-Generated: 2026-10-20T15:54:22.268Z
+Generated: 2026-10-20T18:06:51.045Z
 
 Users: 1175
 
@@ -14,7 +14,7 @@ Users: 1175
 | 6 | [afonsoDomingos](https://github.com/afonsoDomingos) | Afonso Domingos (Vibe) | Dp Works \| Quinatec Lda \| OmniTrack \| Muv \| Consorcio Pilao \| Mozambique Support Services | KrgVibe | Mozambique-Maputo | 5670 |
 | 7 | [hc12r](https://github.com/hc12r) | Pitch dev | Vodacom Mozambique |  | Maputo, Mozambique | 5235 |
 | 8 | [caf-3](https://github.com/caf-3) | Tomas Caetano |  |  | Mozambique Maputo | 4648 |
-| 9 | [JoneBulande](https://github.com/JoneBulande) | Jone  |  | JoneBulande | Maputo, Mozambique | 4478 |
+| 9 | [JoneBulande](https://github.com/JoneBulande) | Jone  |  | JoneBulande | Maputo, Mozambique | 4599 |
 | 10 | [rnrnshn](https://github.com/rnrnshn) | rurushu | @Maputo-Frontenders | rnrnshn | Mozambique | 3857 |
 | 11 | [enoqueJonas](https://github.com/enoqueJonas) | Enoque Macanda | Microverse | enoque_jonas | Maputo, Mozambique | 3571 |
 | 12 | [Edsonjorgef1](https://github.com/Edsonjorgef1) | Edson Jorge Francisco | @equip-mozambique |  | Mozambique, Sofala, Beira | 3533 |

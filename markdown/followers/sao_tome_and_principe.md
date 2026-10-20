@@ -1,6 +1,6 @@
 # Followers - São Tomé and Príncipe
 
-Generated: 2026-10-20T16:12:44.333Z
+Generated: 2026-10-20T18:22:46.979Z
 
 Users: 20
 

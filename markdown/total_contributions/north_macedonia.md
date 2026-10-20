@@ -1,6 +1,6 @@
 # Total Contributions - North Macedonia
 
-Generated: 2026-10-20T16:00:42.030Z
+Generated: 2026-10-20T18:12:34.025Z
 
 Users: 1924
 
@@ -24,5 +24,5 @@ Users: 1924
 | 16 | [nikola-n](https://github.com/nikola-n) | Nikola | @CircleLinkHealth | nikola_najdov | Veles, Macedonia | 4049 |
 | 17 | [vetonshabani0](https://github.com/vetonshabani0) | Veton Shabani |  |  | Skopje | 4037 |
 | 18 | [andreyagovski](https://github.com/andreyagovski) | Andrey |  |  | Macedonia | 3997 |
-| 19 | [M9Mike](https://github.com/M9Mike) | Mihail Veljanoski |  |  | Skopje, Macedonia | 3657 |
-| 20 | [deko96](https://github.com/deko96) | Dejan Bozhinoski | Intertec.io |  | Skopje, Macedonia | 3635 |
+| 19 | [andjiev](https://github.com/andjiev) | Ivan Andjiev | MrQ |  | North Macedonia | 3946 |
+| 20 | [M9Mike](https://github.com/M9Mike) | Mihail Veljanoski |  |  | Skopje, Macedonia | 3657 |

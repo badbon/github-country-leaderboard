@@ -42,7 +42,7 @@ Indexed users: 2,559
 | 3 | [Mazennaji](https://github.com/Mazennaji) | Mazen Naji | Lebanon | 3,196 |
 | 4 | [shahednasser](https://github.com/shahednasser) | Shahed Nasser | Aaramoun, Lebanon | 2,995 |
 | 5 | [aliscco](https://github.com/aliscco) | Ali mazloum | Beirut | 2,919 |
-| 6 | [Omar7tech](https://github.com/Omar7tech) | Omar Abi Farraj | Beirut | 2,603 |
+| 6 | [Omar7tech](https://github.com/Omar7tech) | Omar Abi Farraj | Beirut | 2,295 |
 | 7 | [MahmoudAmouni](https://github.com/MahmoudAmouni) | Mahmoud Abou Amoun | Lebanon | 1,843 |
 | 8 | [MohammadRstm](https://github.com/MohammadRstm) | Mohammad Rostom | Beirut - Lebanon | 1,814 |
 | 9 | [samerc](https://github.com/samerc) | Samer Cheaib | Beirut | 1,779 |
@@ -55,7 +55,7 @@ Indexed users: 2,559
 | 16 | [ahomsi0](https://github.com/ahomsi0) | Ahmad Homsi | Lebanon | 1,211 |
 | 17 | [wwilson1017](https://github.com/wwilson1017) | Will Wilson | Lebanon, TN | 1,158 |
 | 18 | [mahdi-alkak-1](https://github.com/mahdi-alkak-1) | Mahdi Kak | Lebanon,Beirut | 1,135 |
-| 19 | [Kronbii](https://github.com/Kronbii) | Rami Kronbi | Beirut, LB | 1,107 |
+| 19 | [Kronbii](https://github.com/Kronbii) | Rami Kronbi | Beirut, LB | 1,102 |
 | 20 | [mabd-dev](https://github.com/mabd-dev) | Mahmoud Abdallah | Beirut, Lebanon | 1,035 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 2,559
 | 19 | [rhamzeh](https://github.com/rhamzeh) | Raghd Hamzeh | Beirut, Lebanon | 102 |
 | 20 | [hadiidbouk](https://github.com/hadiidbouk) | Hadi Dbouk | Lebanon | 101 |
 
-Generated: 2026-10-20T15:43:58.842Z
+Generated: 2026-10-20T17:56:11.728Z

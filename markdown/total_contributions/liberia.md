@@ -1,21 +1,21 @@
 # Total Contributions - Liberia
 
-Generated: 2026-10-20T15:45:28.527Z
+Generated: 2026-10-20T17:56:45.478Z
 
 Users: 210
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [FranklinD10](https://github.com/FranklinD10) | FrApps | FrApps |  | Liberia | 7882 |
-| 2 | [RA9](https://github.com/RA9) | Carlos S. Nah  |  | rademejs | Liberia  | 5330 |
+| 2 | [RA9](https://github.com/RA9) | Carlos S. Nah  |  | rademejs | Liberia  | 5345 |
 | 3 | [cruso003](https://github.com/cruso003) | Geitodyu Henrique Crusoe |  | CrusoeHenrique | Paynesville, Liberia | 4344 |
 | 4 | [Forratino21](https://github.com/Forratino21) | Courage J. F. T Chileegbo | CYGEC IT SOLUTIONS |  | Liberia | 3312 |
 | 5 | [Abayoh](https://github.com/Abayoh) | Alexander Bayoh | Cable Consortium of Liberia |  | Monrovia, Liberia | 2958 |
 | 6 | [deginmulbah](https://github.com/deginmulbah) | Jenkins D.Mulbah |  |  | Liberia,Monrovia | 2303 |
-| 7 | [priceflex](https://github.com/priceflex) | Steven Price | Tech Rockstars |  | Monrovia, CA | 1516 |
-| 8 | [timtjoe](https://github.com/timtjoe) | Tim T. Joe |  |  | Liberia, West Africa | 1429 |
-| 9 | [arunponnappan](https://github.com/arunponnappan) | Arun P |  |  | Monrovia | 1410 |
-| 10 | [tangaye](https://github.com/tangaye) | Nathan Tangaye Siafa | @Kwagei | tangaye_siafa | Paynesville, Liberia | 1239 |
+| 7 | [tangaye](https://github.com/tangaye) | Nathan Tangaye Siafa | @Kwagei | tangaye_siafa | Paynesville, Liberia | 1547 |
+| 8 | [priceflex](https://github.com/priceflex) | Steven Price | Tech Rockstars |  | Monrovia, CA | 1516 |
+| 9 | [timtjoe](https://github.com/timtjoe) | Tim T. Joe |  |  | Liberia, West Africa | 1429 |
+| 10 | [arunponnappan](https://github.com/arunponnappan) | Arun P |  |  | Monrovia | 1410 |
 | 11 | [Carlostala04](https://github.com/Carlostala04) | Carlos Talavera |  |  | Liberia | 1142 |
 | 12 | [mdsomah](https://github.com/mdsomah) | Mesheal D. Somah Sr. |  | mdsomah | Monrovia, Liberia | 1110 |
 | 13 | [KalevRK](https://github.com/KalevRK) | Kalev Roomann-Kurrik |  |  | Monrovia, CA | 867 |

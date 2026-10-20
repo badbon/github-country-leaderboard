@@ -20,7 +20,7 @@ Indexed users: 1,175
 | 6 | [afonsoDomingos](https://github.com/afonsoDomingos) | Afonso Domingos (Vibe) | Mozambique-Maputo | 5,670 |
 | 7 | [hc12r](https://github.com/hc12r) | Pitch dev | Maputo, Mozambique | 5,235 |
 | 8 | [caf-3](https://github.com/caf-3) | Tomas Caetano | Mozambique Maputo | 4,648 |
-| 9 | [JoneBulande](https://github.com/JoneBulande) | Jone  | Maputo, Mozambique | 4,478 |
+| 9 | [JoneBulande](https://github.com/JoneBulande) | Jone  | Maputo, Mozambique | 4,599 |
 | 10 | [rnrnshn](https://github.com/rnrnshn) | rurushu | Mozambique | 3,857 |
 | 11 | [enoqueJonas](https://github.com/enoqueJonas) | Enoque Macanda | Maputo, Mozambique | 3,571 |
 | 12 | [Edsonjorgef1](https://github.com/Edsonjorgef1) | Edson Jorge Francisco | Mozambique, Sofala, Beira | 3,533 |
@@ -83,4 +83,4 @@ Indexed users: 1,175
 | 19 | [enoquetembe](https://github.com/enoquetembe) | Enoque Tembe | Maputo, Mozambique | 111 |
 | 20 | [mariomthree](https://github.com/mariomthree) | Mário M. Mabande | Maputo, Mozambique | 95 |
 
-Generated: 2026-10-20T15:54:22.268Z
+Generated: 2026-10-20T18:06:51.045Z

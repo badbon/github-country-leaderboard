@@ -1,6 +1,6 @@
 # Mauritius
 
-Indexed users: 715
+Indexed users: 714
 
 | Leaderboard | Link |
 |---|---|
@@ -39,8 +39,8 @@ Indexed users: 715
 |---:|---|---|---|---:|
 | 1 | [EdgarEldy](https://github.com/EdgarEldy) | EDGAR MUHAMYANGABO | Mauritius | 7,486 |
 | 2 | [wyxos](https://github.com/wyxos) | Wyxos | Mauritius | 4,282 |
-| 3 | [Redstoneinvente](https://github.com/Redstoneinvente) | Doshagyasing Gowardun | Mauritius | 2,236 |
-| 4 | [AQUILA04](https://github.com/AQUILA04) | Francis AHONSOU | Port-Louis, Mauritius \| Lomé, Togo | 1,748 |
+| 3 | [Redstoneinvente](https://github.com/Redstoneinvente) | Doshagyasing Gowardun | Mauritius | 2,239 |
+| 4 | [AQUILA04](https://github.com/AQUILA04) | Francis AHONSOU | Port-Louis, Mauritius \| Lomé, Togo | 1,755 |
 | 5 | [asvinb](https://github.com/asvinb) | Asvin Balloo | Mauritius | 1,587 |
 | 6 | [xelab04](https://github.com/xelab04) | Alex Bissessur | Mauritius | 1,488 |
 | 7 | [Abdur-rahmaanJ](https://github.com/Abdur-rahmaanJ) | Abdur-Rahmaan Janhangeer | Mauritius | 1,406 |
@@ -83,4 +83,4 @@ Indexed users: 715
 | 19 | [MaskyS](https://github.com/MaskyS) | Kifah M | Mauritius | 75 |
 | 20 | [cbillowes](https://github.com/cbillowes) | Clarice Bouwer | Mauritius | 65 |
 
-Generated: 2026-10-20T15:50:06.383Z
+Generated: 2026-10-20T18:03:54.393Z

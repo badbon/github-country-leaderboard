@@ -1,18 +1,18 @@
 # Total Contributions - Puerto Rico
 
-Generated: 2026-10-20T16:04:54.046Z
+Generated: 2026-10-20T18:17:23.768Z
 
 Users: 1532
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [RhettCreighton](https://github.com/RhettCreighton) | Rhett Creighton | @RhettCreighton |  | San Juan, Puerto Rico | 38495 |
-| 2 | [mattvv](https://github.com/mattvv) | Matt Van |  |  | San Juan, Puerto Rico | 33191 |
+| 2 | [mattvv](https://github.com/mattvv) | Matt Van |  |  | San Juan, Puerto Rico | 33327 |
 | 3 | [angusdavis2](https://github.com/angusdavis2) |  | @alianzacap  | angusdav | Dorado, Puerto Rico | 28661 |
 | 4 | [robertjchristian](https://github.com/robertjchristian) | Robert Christian | @DRM3Labs  | 7SigmaCompanies | Orlando FL \| Seattle WA \| San Juan PR | 22473 |
 | 5 | [gabynevada](https://github.com/gabynevada) | Elvis Nieves |  | ElvisGNieves | Puerto Rico | 20645 |
 | 6 | [0xPlayerOne](https://github.com/0xPlayerOne) | A. Mahoney-Fernandes | @NiftyLeague  | 0xPlayerOne | San Juan, PR 🇵🇷 | 19434 |
-| 7 | [bpamiri](https://github.com/bpamiri) | Peter Amiri |  |  | San Juan Capistrano, CA | 17915 |
+| 7 | [bpamiri](https://github.com/bpamiri) | Peter Amiri |  |  | San Juan Capistrano, CA | 18649 |
 | 8 | [devmoreno](https://github.com/devmoreno) | Edwin Moreno | @ProRanked  | devmoreno | Aguadilla, Puerto Rico | 9005 |
 | 9 | [jdreben](https://github.com/jdreben) | James Dreben |  |  | San Juan, Puerto Rico | 8227 |
 | 10 | [brettheap](https://github.com/brettheap) | Brett Heap | Opensoft, Inc |  | Puerto Rico | 7801 |

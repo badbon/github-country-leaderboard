@@ -1,6 +1,6 @@
 # Total Contributions - Macau
 
-Generated: 2026-10-20T15:47:33.473Z
+Generated: 2026-10-20T17:59:18.163Z
 
 Users: 439
 
@@ -15,13 +15,13 @@ Users: 439
 | 7 | [LunchBox](https://github.com/LunchBox) | Daniel |  |  | Macau | 3620 |
 | 8 | [sfcheung](https://github.com/sfcheung) | Shu Fai Cheung | University of Macau | blogonresearch | Macao | 3388 |
 | 9 | [1595901624](https://github.com/1595901624) | Cloris |  | LhyLuhaoyu | Macau | 3347 |
-| 10 | [MUST-panxiao](https://github.com/MUST-panxiao) | Xiao Pan | Macau University of Science and Technology |  | Macau | 2937 |
+| 10 | [MUST-panxiao](https://github.com/MUST-panxiao) | Xiao Pan | Macau University of Science and Technology |  | Macau | 2996 |
 | 11 | [RyanKung](https://github.com/RyanKung) | Elder Ryan |  | Elder24601 | Macau | 2474 |
 | 12 | [7788ken](https://github.com/7788ken) | Mark.pan |  |  | Macau,Zhuhai | 2306 |
 | 13 | [mugpeng](https://github.com/mugpeng) | Peng |  |  | macao | 2284 |
 | 14 | [Alex-Leong](https://github.com/Alex-Leong) | Alex |  |  | Macau | 2187 |
 | 15 | [Yh1sam](https://github.com/Yh1sam) |  | Pui Ching Middle School |  | Macau | 2142 |
-| 16 | [aungminnkhant9400](https://github.com/aungminnkhant9400) | Rollo |  |  | Macau | 1794 |
+| 16 | [aungminnkhant9400](https://github.com/aungminnkhant9400) | Rollo |  |  | Macau | 1801 |
 | 17 | [HansiChan](https://github.com/HansiChan) | Colin | Sands  | hansiCrypto | Macau | 1764 |
 | 18 | [hheei](https://github.com/hheei) | Lo Chon Hei |  |  | Macau | 1758 |
 | 19 | [yyyyyyounger](https://github.com/yyyyyyounger) | Rookie, LIN | University of Macau |  | Macau | 1643 |

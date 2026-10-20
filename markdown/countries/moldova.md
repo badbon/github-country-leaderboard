@@ -40,7 +40,7 @@ Indexed users: 1,747
 | 1 | [amberpixels](https://github.com/amberpixels) | Eugene | Moldova, Chișinău | 28,606 |
 | 2 | [texpert](https://github.com/texpert) | Aurel Branzeanu | Chisinau, Moldova | 4,394 |
 | 3 | [ivanm696](https://github.com/ivanm696) | ivanm696  | Moldova | 3,289 |
-| 4 | [deoleg](https://github.com/deoleg) | deoleg | Moldova | 3,165 |
+| 4 | [deoleg](https://github.com/deoleg) | deoleg | Moldova | 3,184 |
 | 5 | [sighook](https://github.com/sighook) | Alex Savca | Moldova | 3,076 |
 | 6 | [stephen-golban](https://github.com/stephen-golban) | Stephen G | Moldova | 2,946 |
 | 7 | [nikpopesku](https://github.com/nikpopesku) | Nikolai Popesku | Chisinau, Moldova | 2,534 |
@@ -83,4 +83,4 @@ Indexed users: 1,747
 | 19 | [vgaidarji](https://github.com/vgaidarji) | Veaceslav Gaidarji | Moldova | 115 |
 | 20 | [Ernest96](https://github.com/Ernest96) | Ernest | Chisinau Moldova | 107 |
 
-Generated: 2026-10-20T15:50:21.037Z
+Generated: 2026-10-20T18:05:58.430Z

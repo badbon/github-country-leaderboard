@@ -1,6 +1,6 @@
 # Public Contributions - San Marino
 
-Generated: 2026-10-20T16:12:39.309Z
+Generated: 2026-10-20T18:22:03.673Z
 
 Users: 61
 
@@ -8,7 +8,7 @@ Users: 61
 |---:|---|---|---|---|---|---:|
 | 1 | [calebnewtonusc](https://github.com/calebnewtonusc) | Caleb Newton | AINA Tech |  | San Marino, CA | 4317 |
 | 2 | [alessandrorebosio](https://github.com/alessandrorebosio) | Rebo | Università di Bologna |  | San Marino | 1029 |
-| 3 | [gcardi](https://github.com/gcardi) | Giuliano Cardinali |  |  | Republic of San Marino | 491 |
+| 3 | [gcardi](https://github.com/gcardi) | Giuliano Cardinali |  |  | Republic of San Marino | 492 |
 | 4 | [deBrian07](https://github.com/deBrian07) | Brian C. | Carnegie Mellon University |  | San Marino, CA | 311 |
 | 5 | [simooooone](https://github.com/simooooone) | Simos |  |  | San Marino | 284 |
 | 6 | [simorina](https://github.com/simorina) | Simone Rinaldi |  |  | San Marino | 232 |
@@ -16,9 +16,9 @@ Users: 61
 | 8 | [CometaSensitiva](https://github.com/CometaSensitiva) | Michele Mazza | Alma Mater Studiorum - Università di Bologna |  | Bologna / Rimini / San Marino | 120 |
 | 9 | [Llandy3d](https://github.com/Llandy3d) | Llandy Riveron Del Risco | @grafana | llandy3d | San Marino | 101 |
 | 10 | [N1K0232](https://github.com/N1K0232) | Nico |  | N1K0232 | Repubblica di San Marino | 86 |
-| 11 | [pigorg](https://github.com/pigorg) | alessandro gnola |  |  | san marino | 78 |
+| 11 | [pigorg](https://github.com/pigorg) | alessandro gnola |  |  | san marino | 80 |
 | 12 | [lucabio](https://github.com/lucabio) | Luca |  |  | San Marino | 75 |
-| 13 | [mcdado](https://github.com/mcdado) | David Gasperoni |  |  | San Marino (SMR) <✈️> Madrid, Spain | 50 |
+| 13 | [mcdado](https://github.com/mcdado) | David Gasperoni |  |  | San Marino (SMR) <✈️> Madrid, Spain | 60 |
 | 14 | [salugea](https://github.com/salugea) | Salugea | Salugea |  | San Marino | 45 |
 | 15 | [gerza-lab](https://github.com/gerza-lab) | adam gerza |  | adamgerza | San Marino, CA | 44 |
 | 16 | [damiandominella](https://github.com/damiandominella) | dodo | Golee |  | San Marino / Milan / Remotely | 38 |

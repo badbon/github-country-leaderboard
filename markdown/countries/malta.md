@@ -12,7 +12,7 @@ Indexed users: 1,224
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [SijanC147](https://github.com/SijanC147) | Sean | Malta | 29,571 |
+| 1 | [SijanC147](https://github.com/SijanC147) | Sean | Malta | 32,591 |
 | 2 | [davidbalzan](https://github.com/davidbalzan) | David Balzan | Malta | 26,792 |
 | 3 | [zcourts](https://github.com/zcourts) | Courtney Robinson | London (UK), Łodz (Poland), Valletta (Malta) | 14,775 |
 | 4 | [tssge](https://github.com/tssge) | Teemu Grönqvist | Msida, Malta | 13,396 |
@@ -83,4 +83,4 @@ Indexed users: 1,224
 | 19 | [mattcg](https://github.com/mattcg) | Matthew Caruana Galizia | Malta | 126 |
 | 20 | [CM2Walki](https://github.com/CM2Walki) | Walki | Malta | 118 |
 
-Generated: 2026-10-20T15:49:31.789Z
+Generated: 2026-10-20T18:02:34.009Z

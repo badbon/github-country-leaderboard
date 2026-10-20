@@ -1,6 +1,6 @@
 # Followers - Latvia
 
-Generated: 2026-10-20T15:43:16.334Z
+Generated: 2026-10-20T17:55:28.777Z
 
 Users: 3251
 
@@ -12,14 +12,14 @@ Users: 3251
 | 4 | [therceman](https://github.com/therceman) | Anton |  | therceman | Latvia | 605 |
 | 5 | [kj89](https://github.com/kj89) | kjnodes | kjnodes | kjnodes | Latvia | 603 |
 | 6 | [bodrovis](https://github.com/bodrovis) | Elijah S. Krukowski | @lokalise |  | Riga | 534 |
-| 7 | [esneko](https://github.com/esneko) | Andrejs Agejevs |  |  | Latvia | 505 |
+| 7 | [esneko](https://github.com/esneko) | Andrejs Agejevs |  |  | Latvia | 517 |
 | 8 | [darjaorlova](https://github.com/darjaorlova) | Darja Orlova | BBapps | dariadroid | Latvia, Riga | 491 |
 | 9 | [aivars](https://github.com/aivars) | Aivars |  | aivars_meijers | Latvia | 468 |
 | 10 | [wonderwhy-er](https://github.com/wonderwhy-er) | Eduard Ruzga |  |  | Riga | 459 |
 | 11 | [tostercx](https://github.com/tostercx) |  |  |  | Riga, Latvia | 457 |
 | 12 | [sunny250984](https://github.com/sunny250984) | Sunny |  |  | Latvia | 319 |
 | 13 | [dxHubCoin](https://github.com/dxHubCoin) | dxHub | dxHub |  | Latvia | 314 |
-| 14 | [kasparsd](https://github.com/kasparsd) | Kaspars Dambis |  | konstruktors | Latvia | 299 |
+| 14 | [kasparsd](https://github.com/kasparsd) | Kaspars Dambis |  | konstruktors | Latvia | 302 |
 | 15 | [arturssmirnovs](https://github.com/arturssmirnovs) | Arturs Smirnovs |  | artuurssmirnovs | Latvia | 296 |
 | 16 | [arthepsy](https://github.com/arthepsy) | Andris Raugulis | @evolution-gaming |  | Latvia | 254 |
 | 17 | [cuu508](https://github.com/cuu508) | Pēteris Caune | @healthchecks  |  | Valmiera, Latvia | 245 |

@@ -1,6 +1,6 @@
 # Total Contributions - Republic of the Congo
 
-Generated: 2026-10-20T16:06:59.486Z
+Generated: 2026-10-20T18:17:29.889Z
 
 Users: 298
 
@@ -14,7 +14,7 @@ Users: 298
 | 6 | [Codeur-Omniscient](https://github.com/Codeur-Omniscient) | Anthony Dorian | @akieni-tech |  | Brazzaville - Congo | 3779 |
 | 7 | [lepresk](https://github.com/lepresk) | Logan CodeMaker | @Akieni | lepresk1 | Brazzaville, Congo | 3737 |
 | 8 | [Flammeduciel](https://github.com/Flammeduciel) | Flamme Du Ciel WASS |  |  | Brazzaville CG | 3068 |
-| 9 | [Justany](https://github.com/Justany) | Justany ITOUA | Confort 7 incubateur | justany_itoua | Brazzaville | 2998 |
+| 9 | [Justany](https://github.com/Justany) | Justany ITOUA | Confort 7 incubateur | justany_itoua | Brazzaville | 2997 |
 | 10 | [OrionWambert](https://github.com/OrionWambert) | Orion WAMBERT | Akieni |  | Brazzaville - Congo | 2948 |
 | 11 | [Merite15](https://github.com/Merite15) | Merite |  |  | Brazzaville, Congo | 2922 |
 | 12 | [Elisee01](https://github.com/Elisee01) | Kitoga Elisee | Globoris Technologies | KitogaElisee | Kigali, Rwanda \| Congo, Kinshasa | 2475 |

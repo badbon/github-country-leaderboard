@@ -1,6 +1,6 @@
 # Followers - Malawi
 
-Generated: 2026-10-20T15:47:43.059Z
+Generated: 2026-10-20T18:00:10.892Z
 
 Users: 900
 
@@ -24,5 +24,5 @@ Users: 900
 | 16 | [i-christian](https://github.com/i-christian) | Christian |  |  | Mzuzu, Malawi  | 182 |
 | 17 | [MalcolmorianVII](https://github.com/MalcolmorianVII) | Belson Malcolm Kutambe | Malawi Liverpool Wellcome Trust |  | Malawi | 152 |
 | 18 | [sam-zarila](https://github.com/sam-zarila) | sam zarila | TechNest | badboy_trox99 | Blantyre, Malawi | 145 |
-| 19 | [RodgerCodes](https://github.com/RodgerCodes) | Rodger Kumwanje | @Horizon-vertex |  | Malawi | 130 |
-| 20 | [g1ftmkyelu](https://github.com/g1ftmkyelu) | codemaestro🚀 | Hyphen Malawi | GMkyelu | 🇲🇼 Malawi | 129 |
+| 19 | [g1ftmkyelu](https://github.com/g1ftmkyelu) | codemaestro🚀 | Hyphen Malawi | GMkyelu | 🇲🇼 Malawi | 130 |
+| 20 | [RodgerCodes](https://github.com/RodgerCodes) | Rodger Kumwanje | @Horizon-vertex |  | Malawi | 130 |

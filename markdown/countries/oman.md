@@ -71,8 +71,8 @@ Indexed users: 991
 | 7 | [RanjbarAli](https://github.com/RanjbarAli) | Ali Ranjbar Jelodar | Oman, Muscat | 188 |
 | 8 | [Zerx0r](https://github.com/Zerx0r) | Zerx0r | Oman, Muscat | 175 |
 | 9 | [sajadevo](https://github.com/sajadevo) | Sajad | Muscat, Oman | 174 |
-| 10 | [AMEERKOTTA](https://github.com/AMEERKOTTA) | AMEER KOTTA | Muscat, Oman | 152 |
-| 11 | [Fahad-Al-Maashani](https://github.com/Fahad-Al-Maashani) | Fahad Al Maashani | Salalah, Oman | 143 |
+| 10 | [Fahad-Al-Maashani](https://github.com/Fahad-Al-Maashani) | Fahad Al Maashani | Salalah, Oman | 153 |
+| 11 | [AMEERKOTTA](https://github.com/AMEERKOTTA) | AMEER KOTTA | Muscat, Oman | 152 |
 | 12 | [Mahanmmi](https://github.com/Mahanmmi) | Mahan Zendedel DH | Muscat, Oman | 143 |
 | 13 | [sanjeed5](https://github.com/sanjeed5) | Sanjeed | Bangalore / Oman  | 132 |
 | 14 | [byteab](https://github.com/byteab) | Ehsan sarshar | Muscat Oman | 109 |
@@ -83,4 +83,4 @@ Indexed users: 991
 | 19 | [3mrdev](https://github.com/3mrdev) | Amr Abd-Alkrim | Khartoum, Sudan \| Muscat, Oman | 94 |
 | 20 | [AmirSa12](https://github.com/AmirSa12) | AmirHossein Sakhravi | Muscat, Oman | 91 |
 
-Generated: 2026-10-20T16:02:04.305Z
+Generated: 2026-10-20T18:13:22.055Z

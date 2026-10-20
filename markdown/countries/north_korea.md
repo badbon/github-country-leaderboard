@@ -12,10 +12,10 @@ Indexed users: 185
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [Kim9wang](https://github.com/Kim9wang) | Kim Wang | Pyongyang | 5,978 |
+| 1 | [Kim9wang](https://github.com/Kim9wang) | Kim Wang | Pyongyang | 6,029 |
 | 2 | [advanced-rising](https://github.com/advanced-rising) | risingcore | Democratic People's Republic of Korea | 5,217 |
 | 3 | [boyesjo](https://github.com/boyesjo) | Boye Sjo | pyongyang | 4,402 |
-| 4 | [henxdl](https://github.com/henxdl) | henxdl | Pyongyang, North Korea | 3,014 |
+| 4 | [henxdl](https://github.com/henxdl) | henxdl | Pyongyang, North Korea | 3,080 |
 | 5 | [sakweli](https://github.com/sakweli) | Josh Sakweli | North Korea | 2,429 |
 | 6 | [andrewlee1807](https://github.com/andrewlee1807) | Andrew | North Korea | 1,547 |
 | 7 | [The-Red-Serpent](https://github.com/The-Red-Serpent) | The_Red_Serpent | Pyongyang, North Korea | 1,305 |
@@ -27,7 +27,7 @@ Indexed users: 185
 | 13 | [dddqmmx](https://github.com/dddqmmx) | PaulPerkenstein | Pyongyang | 508 |
 | 14 | [DillerOFire](https://github.com/DillerOFire) | VerpaSRP | North Korea | 477 |
 | 15 | [renxiaoyaoo](https://github.com/renxiaoyaoo) | renxiaoyao | North Korea	 | 391 |
-| 16 | [Hexamouse](https://github.com/Hexamouse) | Muhamad Dzikri Maulana | Pyongyang, North Korea | 366 |
+| 16 | [Hexamouse](https://github.com/Hexamouse) | Muhamad Dzikri Maulana | Pyongyang, North Korea | 367 |
 | 17 | [PookiePepelsss](https://github.com/PookiePepelsss) | Pookie | North Korea | 351 |
 | 18 | [l1vstudios](https://github.com/l1vstudios) | L1V | North Korea | 308 |
 | 19 | [Pigatronee](https://github.com/Pigatronee) | PigObsessedGameDev | North Korea | 256 |
@@ -83,4 +83,4 @@ Indexed users: 185
 | 19 | [DillerOFire](https://github.com/DillerOFire) | VerpaSRP | North Korea | 14 |
 | 20 | [JeonJung-kook](https://github.com/JeonJung-kook) | Jeon Jung-kook Cantor | North Korea | 14 |
 
-Generated: 2026-10-20T16:00:34.397Z
+Generated: 2026-10-20T18:11:48.496Z
