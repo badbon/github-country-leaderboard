@@ -37603,8 +37603,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 240,
-    "publicContributions": 204,
+    "privateContributions": 89,
+    "publicContributions": 255,
     "createdAt": "2023-08-14T23:06:45Z"
   },
   {
@@ -37614,9 +37614,9 @@
     "location": "Santiago, Chile",
     "company": "Pontificia Universidad Católica de Chile",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 524,
-    "publicContributions": 2,
+    "followers": 8,
+    "privateContributions": 360,
+    "publicContributions": 31,
     "createdAt": "2023-08-09T02:34:54Z"
   },
   {
@@ -37628,7 +37628,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 42,
+    "publicContributions": 28,
     "createdAt": "2023-07-16T15:43:17Z"
   },
   {
@@ -37639,8 +37639,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 361,
-    "publicContributions": 27,
+    "privateContributions": 450,
+    "publicContributions": 50,
     "createdAt": "2023-10-10T02:58:48Z"
   },
   {
@@ -37650,7 +37650,7 @@
     "location": "Temuco, Chile",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 8,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-08-31T21:45:41Z"
@@ -37687,8 +37687,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 44,
-    "publicContributions": 124,
+    "privateContributions": 26,
+    "publicContributions": 83,
     "createdAt": "2023-07-18T19:21:39Z"
   },
   {
@@ -37698,9 +37698,9 @@
     "location": "Colina, Santiago, Chile",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 39,
+    "publicContributions": 31,
     "createdAt": "2023-09-08T18:55:56Z"
   },
   {
@@ -37722,9 +37722,9 @@
     "location": "Chile",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 200,
+    "publicContributions": 260,
     "createdAt": "2023-08-27T02:50:43Z"
   },
   {
@@ -37734,9 +37734,9 @@
     "location": "Santiago, Chile",
     "company": "inacap",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 73,
-    "publicContributions": 136,
+    "followers": 10,
+    "privateContributions": 165,
+    "publicContributions": 172,
     "createdAt": "2023-08-17T23:42:37Z"
   },
   {
@@ -37748,7 +37748,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2023-08-15T02:38:05Z"
   },
   {
@@ -37759,20 +37759,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 41,
-    "publicContributions": 192,
+    "privateContributions": 222,
+    "publicContributions": 177,
     "createdAt": "2023-12-09T23:57:00Z"
   },
   {
     "login": "onechavarria",
-    "name": "Alcindo Chavarria Vera",
+    "name": "Alcindo Onega Chavarria Vera",
     "avatarUrl": "https://avatars.githubusercontent.com/u/139635361?s=72&u=d0a2ba06b8044ad52451cdb6aa69df03fdfb128f&v=4",
     "location": "Santiago, Chile",
     "company": "Backend Developer",
     "twitterUsername": "onegachavarria",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 335,
+    "publicContributions": 459,
     "createdAt": "2023-07-15T14:07:29Z"
   },
   {
@@ -37794,9 +37794,9 @@
     "location": "Santiago, Chile",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 45,
-    "publicContributions": 171,
+    "followers": 7,
+    "privateContributions": 10,
+    "publicContributions": 108,
     "createdAt": "2023-08-12T16:44:14Z"
   },
   {
@@ -37807,8 +37807,8 @@
     "company": "Universidad de Santiago de Chile",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 308,
-    "publicContributions": 80,
+    "privateContributions": 268,
+    "publicContributions": 93,
     "createdAt": "2023-09-02T04:35:40Z"
   },
   {
@@ -37818,9 +37818,9 @@
     "location": "Chile",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 365,
-    "publicContributions": 222,
+    "followers": 7,
+    "privateContributions": 593,
+    "publicContributions": 146,
     "createdAt": "2023-12-17T05:04:13Z"
   },
   {
@@ -232522,5 +232522,17 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-07-01T21:23:13Z"
+  },
+  {
+    "login": "piavlz",
+    "name": "Pía Velasquez ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298947980?s=72&u=80c64b3ca95b69b574271f9022a5735eca0719d1&v=4",
+    "location": "Santiago, chile",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2026-07-02T03:19:13Z"
   }
 ]

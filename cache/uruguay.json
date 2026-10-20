@@ -37376,7 +37376,7 @@
     "twitterUsername": "",
     "followers": 26,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 4,
     "createdAt": "2018-11-30T18:54:51Z"
   },
   {
@@ -37386,8 +37386,8 @@
     "location": "Uruguay, Montevideo",
     "company": "",
     "twitterUsername": "",
-    "followers": 24,
-    "privateContributions": 1512,
+    "followers": 27,
+    "privateContributions": 1763,
     "publicContributions": 3,
     "createdAt": "2018-12-12T15:06:26Z"
   },
@@ -37399,7 +37399,7 @@
     "company": "@SereLabs",
     "twitterUsername": "",
     "followers": 24,
-    "privateContributions": 15,
+    "privateContributions": 23,
     "publicContributions": 2,
     "createdAt": "2018-06-02T13:54:47Z"
   },
@@ -37410,8 +37410,8 @@
     "location": "Uruguay",
     "company": "Qubika",
     "twitterUsername": "",
-    "followers": 24,
-    "privateContributions": 40,
+    "followers": 22,
+    "privateContributions": 35,
     "publicContributions": 1,
     "createdAt": "2018-06-22T18:26:17Z"
   },
@@ -37422,21 +37422,21 @@
     "location": "Montevideo, Uruguay ",
     "company": "Kernel Shift SAS",
     "twitterUsername": "ZahiriNatZuke",
-    "followers": 22,
-    "privateContributions": 624,
-    "publicContributions": 577,
+    "followers": 25,
+    "privateContributions": 1044,
+    "publicContributions": 898,
     "createdAt": "2018-07-14T04:30:52Z"
   },
   {
     "login": "cl8dep",
-    "name": "Arael D. Espinosa Pérez",
+    "name": "Arael Espinosa",
     "avatarUrl": "https://avatars.githubusercontent.com/u/40150522?s=72&v=4",
     "location": "Montevideo, Uruguay",
     "company": "@Heva-Co ",
     "twitterUsername": "",
-    "followers": 21,
-    "privateContributions": 1796,
-    "publicContributions": 1355,
+    "followers": 24,
+    "privateContributions": 7360,
+    "publicContributions": 1441,
     "createdAt": "2018-06-10T20:23:49Z"
   },
   {
@@ -37447,7 +37447,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 21,
-    "privateContributions": 719,
+    "privateContributions": 1004,
     "publicContributions": 0,
     "createdAt": "2018-08-19T17:08:31Z"
   },
@@ -37458,8 +37458,8 @@
     "location": "Montevideo, Uruguay",
     "company": "@ContrarioAI",
     "twitterUsername": "",
-    "followers": 20,
-    "privateContributions": 805,
+    "followers": 18,
+    "privateContributions": 1257,
     "publicContributions": 5,
     "createdAt": "2018-04-19T23:36:12Z"
   },
@@ -37470,7 +37470,7 @@
     "location": "Montevideo, Uruguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 20,
+    "followers": 18,
     "privateContributions": 373,
     "publicContributions": 0,
     "createdAt": "2018-08-22T19:13:28Z"
@@ -37482,9 +37482,9 @@
     "location": "Uruguay ",
     "company": "@Boxmine-World @Ctrlpanel-gg ",
     "twitterUsername": "",
-    "followers": 19,
-    "privateContributions": 1603,
-    "publicContributions": 182,
+    "followers": 22,
+    "privateContributions": 1853,
+    "publicContributions": 429,
     "createdAt": "2018-11-14T19:00:18Z"
   },
   {
@@ -37494,8 +37494,8 @@
     "location": "Uruguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 19,
-    "privateContributions": 41,
+    "followers": 18,
+    "privateContributions": 33,
     "publicContributions": 0,
     "createdAt": "2018-09-18T15:28:28Z"
   },
@@ -37518,9 +37518,9 @@
     "location": "Montevideo, Uruguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 19,
-    "privateContributions": 719,
-    "publicContributions": 15,
+    "followers": 23,
+    "privateContributions": 714,
+    "publicContributions": 8,
     "createdAt": "2018-08-05T18:34:30Z"
   },
   {
@@ -37531,8 +37531,8 @@
     "company": "Outliant",
     "twitterUsername": "",
     "followers": 18,
-    "privateContributions": 204,
-    "publicContributions": 2,
+    "privateContributions": 185,
+    "publicContributions": 20,
     "createdAt": "2018-08-02T01:17:35Z"
   },
   {
@@ -37542,9 +37542,9 @@
     "location": "Montevideo, Uruguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 17,
-    "privateContributions": 153,
-    "publicContributions": 26,
+    "followers": 19,
+    "privateContributions": 63,
+    "publicContributions": 27,
     "createdAt": "2018-05-16T18:03:53Z"
   },
   {
@@ -37554,9 +37554,9 @@
     "location": "Montevideo, Uruguay",
     "company": "@microsoft",
     "twitterUsername": "",
-    "followers": 15,
-    "privateContributions": 116,
-    "publicContributions": 62,
+    "followers": 16,
+    "privateContributions": 145,
+    "publicContributions": 94,
     "createdAt": "2018-03-25T18:59:35Z"
   },
   {
@@ -37566,9 +37566,9 @@
     "location": "Uruguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 15,
-    "privateContributions": 32,
-    "publicContributions": 29,
+    "followers": 14,
+    "privateContributions": 37,
+    "publicContributions": 32,
     "createdAt": "2018-08-23T12:21:44Z"
   },
   {
@@ -37578,22 +37578,10 @@
     "location": "Uruguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 15,
-    "privateContributions": 364,
+    "followers": 14,
+    "privateContributions": 338,
     "publicContributions": 0,
     "createdAt": "2018-05-24T13:52:36Z"
-  },
-  {
-    "login": "GuzmanPintos",
-    "name": "Guzman Pintos",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/37162183?s=72&u=d966f7de98b411d6d1b38ab1cbb30570785d9532&v=4",
-    "location": "Uruguay",
-    "company": "Luxor Technologies",
-    "twitterUsername": "guzmanpintos",
-    "followers": 15,
-    "privateContributions": 2423,
-    "publicContributions": 44,
-    "createdAt": "2018-03-07T23:47:30Z"
   },
   {
     "login": "Antonyacosta78",

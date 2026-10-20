@@ -37843,7 +37843,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 976,
+    "privateContributions": 1294,
     "publicContributions": 0,
     "createdAt": "2018-09-11T15:58:19Z"
   },
@@ -37890,7 +37890,7 @@
     "location": "Costa Rica",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-06-04T15:38:03Z"
@@ -37916,7 +37916,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 16,
     "createdAt": "2018-08-25T22:07:23Z"
   },
   {
@@ -37927,7 +37927,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 657,
+    "privateContributions": 702,
     "publicContributions": 0,
     "createdAt": "2018-08-01T04:23:15Z"
   },
@@ -37940,7 +37940,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 30,
+    "publicContributions": 19,
     "createdAt": "2018-06-04T17:57:43Z"
   },
   {
@@ -38000,7 +38000,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 25,
     "createdAt": "2018-01-26T15:46:51Z"
   },
   {
@@ -38012,7 +38012,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 52,
+    "publicContributions": 49,
     "createdAt": "2018-05-21T09:45:52Z"
   },
   {
@@ -38036,7 +38036,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 1,
     "createdAt": "2018-08-16T02:36:00Z"
   },
   {
@@ -67486,5 +67486,17 @@
     "privateContributions": 97,
     "publicContributions": 0,
     "createdAt": "2018-11-01T01:15:16Z"
+  },
+  {
+    "login": "sofiamonpe",
+    "name": "Sofía Monge Pérez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/299162668?s=72&u=1e731a9c5756d3f5270e145894ace2540a573825&v=4",
+    "location": "Costa Rica",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2026-07-02T14:25:55Z"
   }
 ]

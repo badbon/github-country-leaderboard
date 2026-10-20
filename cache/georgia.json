@@ -37675,8 +37675,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 890,
-    "publicContributions": 53,
+    "privateContributions": 1333,
+    "publicContributions": 44,
     "createdAt": "2020-10-06T10:09:52Z"
   },
   {
@@ -37687,7 +37687,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 283,
+    "privateContributions": 279,
     "publicContributions": 0,
     "createdAt": "2020-02-22T20:44:02Z"
   },
@@ -37699,7 +37699,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 2649,
+    "privateContributions": 3771,
     "publicContributions": 2,
     "createdAt": "2020-12-16T13:31:34Z"
   },
@@ -37748,7 +37748,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 179,
+    "publicContributions": 180,
     "createdAt": "2020-04-14T16:40:01Z"
   },
   {
@@ -37795,8 +37795,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 71,
-    "publicContributions": 6,
+    "privateContributions": 73,
+    "publicContributions": 5,
     "createdAt": "2020-05-14T19:26:57Z"
   },
   {
@@ -37807,8 +37807,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 25,
-    "publicContributions": 2,
+    "privateContributions": 0,
+    "publicContributions": 63,
     "createdAt": "2020-08-25T15:20:19Z"
   },
   {
@@ -37843,8 +37843,8 @@
     "company": "@narisolutions",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 2474,
-    "publicContributions": 105,
+    "privateContributions": 3797,
+    "publicContributions": 106,
     "createdAt": "2020-09-02T14:30:31Z"
   },
   {
@@ -37855,7 +37855,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 438,
+    "privateContributions": 437,
     "publicContributions": 0,
     "createdAt": "2020-07-10T19:24:44Z"
   },
@@ -37872,18 +37872,6 @@
     "createdAt": "2020-01-04T04:27:47Z"
   },
   {
-    "login": "KirVelikiyy",
-    "name": "Kirill Lisov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/74524495?s=72&u=8f07a3210e30326d03a857a8751ca5b77c1d61c2&v=4",
-    "location": "Tbilisi",
-    "company": "Софт Инжиниринг",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 33,
-    "publicContributions": 49,
-    "createdAt": "2020-11-16T04:55:43Z"
-  },
-  {
     "login": "EdgarkFS",
     "name": "Edgar Khachaturov",
     "avatarUrl": "https://avatars.githubusercontent.com/u/66492174?s=72&u=961f7a6c0edddf9c1d845216270d139d08d3b0d2&v=4",
@@ -37891,8 +37879,8 @@
     "company": "AZDS",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 2325,
-    "publicContributions": 100,
+    "privateContributions": 2082,
+    "publicContributions": 102,
     "createdAt": "2020-06-05T19:13:05Z"
   },
   {
@@ -37904,7 +37892,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2020-07-22T10:22:17Z"
   },
   {
