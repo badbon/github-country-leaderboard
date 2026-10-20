@@ -37122,7 +37122,7 @@
     "location": "Riga, Latvia",
     "company": "",
     "twitterUsername": "Leonardinius",
-    "followers": 31,
+    "followers": 30,
     "privateContributions": 0,
     "publicContributions": 25,
     "createdAt": "2010-08-21T17:13:17Z"
@@ -37135,7 +37135,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 29,
-    "privateContributions": 690,
+    "privateContributions": 737,
     "publicContributions": 38,
     "createdAt": "2010-07-09T07:26:30Z"
   },
@@ -37158,9 +37158,9 @@
     "location": "Latvia",
     "company": "",
     "twitterUsername": "",
-    "followers": 27,
+    "followers": 24,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 17,
     "createdAt": "2010-11-09T12:23:39Z"
   },
   {
@@ -37183,7 +37183,7 @@
     "company": "GoCardless",
     "twitterUsername": "",
     "followers": 26,
-    "privateContributions": 47,
+    "privateContributions": 57,
     "publicContributions": 0,
     "createdAt": "2010-10-05T18:48:04Z"
   },
@@ -37206,9 +37206,9 @@
     "location": "Riga, Latvia",
     "company": "If P&C Insurance",
     "twitterUsername": "",
-    "followers": 25,
-    "privateContributions": 337,
-    "publicContributions": 8,
+    "followers": 23,
+    "privateContributions": 491,
+    "publicContributions": 6,
     "createdAt": "2010-02-24T08:55:21Z"
   },
   {
@@ -37219,8 +37219,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 20,
-    "privateContributions": 2,
-    "publicContributions": 12,
+    "privateContributions": 7,
+    "publicContributions": 6,
     "createdAt": "2010-10-29T17:38:21Z"
   },
   {
@@ -37230,8 +37230,8 @@
     "location": "Riga, Latvia",
     "company": "Autentica",
     "twitterUsername": "",
-    "followers": 17,
-    "privateContributions": 1712,
+    "followers": 16,
+    "privateContributions": 2186,
     "publicContributions": 0,
     "createdAt": "2010-10-22T13:30:19Z"
   },
@@ -37244,7 +37244,7 @@
     "twitterUsername": "",
     "followers": 16,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 15,
     "createdAt": "2010-07-19T06:47:46Z"
   },
   {
@@ -37254,7 +37254,7 @@
     "location": "Riga, Latvia",
     "company": "",
     "twitterUsername": "",
-    "followers": 13,
+    "followers": 14,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2010-08-01T19:36:27Z"
@@ -37279,7 +37279,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 13,
-    "privateContributions": 2187,
+    "privateContributions": 2307,
     "publicContributions": 0,
     "createdAt": "2010-10-23T09:17:16Z"
   },
@@ -37291,8 +37291,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 427,
-    "publicContributions": 1,
+    "privateContributions": 688,
+    "publicContributions": 3,
     "createdAt": "2010-09-23T20:44:38Z"
   },
   {
@@ -37300,11 +37300,11 @@
     "name": "Sergey Telshevsky",
     "avatarUrl": "https://avatars.githubusercontent.com/u/386678?s=72&v=4",
     "location": "Riga, Latvia",
-    "company": "Dynatech",
+    "company": "Ecofinance https://eco-fin.eu",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 14,
-    "publicContributions": 2,
+    "followers": 13,
+    "privateContributions": 16,
+    "publicContributions": 4,
     "createdAt": "2010-09-03T16:16:53Z"
   },
   {
@@ -37316,7 +37316,7 @@
     "twitterUsername": "130db",
     "followers": 12,
     "privateContributions": 17,
-    "publicContributions": 19,
+    "publicContributions": 28,
     "createdAt": "2010-02-17T17:06:43Z"
   },
   {
@@ -37328,7 +37328,7 @@
     "twitterUsername": "",
     "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 756,
+    "publicContributions": 732,
     "createdAt": "2010-05-30T21:19:38Z"
   },
   {
@@ -38998,5 +38998,17 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-06-17T15:24:49Z"
+  },
+  {
+    "login": "senrymori",
+    "name": "React Native ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/66040647?s=72&u=6bb3d5b76dbebf4f88d1801a92bd967b62f2f416&v=4",
+    "location": "Riga, Latvia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 1650,
+    "publicContributions": 0,
+    "createdAt": "2020-05-27T22:32:32Z"
   }
 ]

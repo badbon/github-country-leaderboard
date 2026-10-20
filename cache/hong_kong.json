@@ -36943,8 +36943,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 132,
-    "publicContributions": 168,
+    "privateContributions": 136,
+    "publicContributions": 226,
     "createdAt": "2020-03-04T13:42:49Z"
   },
   {
@@ -36956,7 +36956,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2020-03-05T20:44:04Z"
   },
   {
@@ -37014,22 +37014,10 @@
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 1,
     "createdAt": "2020-03-12T15:08:58Z"
-  },
-  {
-    "login": "YanggWendy",
-    "name": "Yang Wenting",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/61447871?s=72&u=a5eb240c925ba94cd38b2d63613c0b5341da0b0e&v=4",
-    "location": "Hong Kong",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 32,
-    "createdAt": "2020-02-25T06:06:46Z"
   },
   {
     "login": "aydanyjlee",
@@ -37039,7 +37027,7 @@
     "company": "diocesan boys school",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 0,
+    "privateContributions": 218,
     "publicContributions": 132,
     "createdAt": "2020-06-23T09:10:53Z"
   },
@@ -37051,7 +37039,7 @@
     "company": "Hong Kong Baptist University",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 853,
+    "privateContributions": 1007,
     "publicContributions": 15,
     "createdAt": "2020-05-21T17:35:36Z"
   },
@@ -37074,7 +37062,7 @@
     "location": "Hong Kong",
     "company": "Sanderson-iKas",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-02-26T05:24:46Z"
@@ -37104,18 +37092,6 @@
     "createdAt": "2020-02-29T18:17:18Z"
   },
   {
-    "login": "SuperDan123",
-    "name": "Daisy Dan Song",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/59412169?s=72&u=3a3ca151bbdf3e10cc6f71e01252c7118febbdb7&v=4",
-    "location": "Hong Kong",
-    "company": "Hong Kong University of Science and Technology",
-    "twitterUsername": "PlBO5YGUqApcOW4",
-    "followers": 2,
-    "privateContributions": 354,
-    "publicContributions": 9,
-    "createdAt": "2020-01-01T12:25:54Z"
-  },
-  {
     "login": "danborutori",
     "name": "ANMC",
     "avatarUrl": "https://avatars.githubusercontent.com/u/67093989?s=72&u=d9aa6f9bf711de315c45c89ecc63c415bee8742d&v=4",
@@ -37124,7 +37100,7 @@
     "twitterUsername": "lamylanmc",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2020-06-18T07:27:59Z"
   },
   {
@@ -37134,9 +37110,9 @@
     "location": "Hong Kong",
     "company": "City University of Hong Kong",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 100,
-    "publicContributions": 122,
+    "followers": 3,
+    "privateContributions": 105,
+    "publicContributions": 377,
     "createdAt": "2020-04-14T04:44:38Z"
   },
   {

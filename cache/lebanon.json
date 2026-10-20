@@ -6727,8 +6727,8 @@
     "company": "Lebanese American University",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 189,
-    "publicContributions": 137,
+    "privateContributions": 278,
+    "publicContributions": 151,
     "createdAt": "2023-07-25T12:49:00Z"
   },
   {
@@ -6739,7 +6739,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 627,
+    "privateContributions": 647,
     "publicContributions": 6,
     "createdAt": "2022-08-30T08:39:43Z"
   },
@@ -6751,7 +6751,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 1362,
+    "privateContributions": 1614,
     "publicContributions": 37,
     "createdAt": "2022-10-18T14:38:03Z"
   },
@@ -6763,7 +6763,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 482,
+    "privateContributions": 446,
     "publicContributions": 23,
     "createdAt": "2022-01-25T15:52:38Z"
   },
@@ -6787,7 +6787,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 11,
+    "privateContributions": 12,
     "publicContributions": 15,
     "createdAt": "2022-05-17T12:11:06Z"
   },
@@ -6800,7 +6800,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 126,
     "createdAt": "2022-01-15T08:13:57Z"
   },
   {
@@ -6852,18 +6852,6 @@
     "createdAt": "2022-11-15T23:59:43Z"
   },
   {
-    "login": "Ahmad1Alzein",
-    "name": "Ahmad Alzein",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/140695408?s=72&u=3f36dec65ffb001ec9e9640d14dc1b0a8609f24c&v=4",
-    "location": "Lebanon",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 30,
-    "createdAt": "2023-07-27T07:38:47Z"
-  },
-  {
     "login": "hibamallat",
     "name": "Hiba Mallat",
     "avatarUrl": "https://avatars.githubusercontent.com/u/130879229?s=72&u=e0cf1242f1e06763cbd69f71729e5fabfe81691c&v=4",
@@ -6895,7 +6883,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 254,
+    "privateContributions": 251,
     "publicContributions": 5,
     "createdAt": "2023-03-24T13:03:33Z"
   },
