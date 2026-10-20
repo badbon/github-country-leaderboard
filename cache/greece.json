@@ -38520,18 +38520,6 @@
     "createdAt": "2021-01-14T16:40:08Z"
   },
   {
-    "login": "DHyperYT",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/79223072?s=72&v=4",
-    "location": "Greece",
-    "company": "",
-    "twitterUsername": "ALiteralSink",
-    "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 73,
-    "createdAt": "2021-02-17T19:03:11Z"
-  },
-  {
     "login": "XPPET",
     "name": "Christos Petridis",
     "avatarUrl": "https://avatars.githubusercontent.com/u/86627527?s=72&u=62999288208237fba40132b5259ef8faf53ce128&v=4",
@@ -38540,7 +38528,7 @@
     "twitterUsername": "XristosPet",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 128,
+    "publicContributions": 137,
     "createdAt": "2021-06-28T19:39:36Z"
   },
   {
@@ -38575,7 +38563,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 1,
+    "privateContributions": 80,
     "publicContributions": 0,
     "createdAt": "2021-04-18T17:24:40Z"
   },
@@ -38586,22 +38574,10 @@
     "location": "Athens, Greece",
     "company": "University Of West Attica",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 1131,
-    "publicContributions": 15,
+    "followers": 6,
+    "privateContributions": 1117,
+    "publicContributions": 136,
     "createdAt": "2021-01-22T06:57:45Z"
-  },
-  {
-    "login": "Giannos-G",
-    "name": "Yiannos Gavrielides",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/77551993?s=72&u=2a05bb78400d13fae300fbcbfa4353c9e9c5b68d&v=4",
-    "location": "Greece",
-    "company": "National Technical University of Athens",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 5,
-    "createdAt": "2021-01-16T20:30:13Z"
   },
   {
     "login": "petroshatt",
@@ -38612,7 +38588,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 16,
     "createdAt": "2021-04-20T10:23:21Z"
   },
   {
@@ -38635,7 +38611,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 0,
+    "privateContributions": 7,
     "publicContributions": 0,
     "createdAt": "2021-02-15T14:58:04Z"
   },
@@ -38658,8 +38634,8 @@
     "location": "Greece",
     "company": "Infinity Pulse",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 11,
+    "followers": 6,
+    "privateContributions": 10,
     "publicContributions": 0,
     "createdAt": "2021-01-31T08:01:05Z"
   },
@@ -38684,7 +38660,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2021-03-12T07:04:52Z"
   },
   {
@@ -38695,8 +38671,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 118,
-    "publicContributions": 76,
+    "privateContributions": 251,
+    "publicContributions": 0,
     "createdAt": "2021-05-27T20:24:43Z"
   },
   {
@@ -38719,7 +38695,7 @@
     "company": "@PlayerDex-App ",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 2328,
+    "privateContributions": 3897,
     "publicContributions": 0,
     "createdAt": "2021-06-09T09:19:27Z"
   },
@@ -38732,7 +38708,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 0,
     "createdAt": "2021-01-24T22:43:21Z"
   },
   {
@@ -38742,9 +38718,9 @@
     "location": " Athens,Greece",
     "company": "Department of Informatics, University of Piraeus",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 39,
+    "publicContributions": 54,
     "createdAt": "2021-03-01T22:00:55Z"
   },
   {
