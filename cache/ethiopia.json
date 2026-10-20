@@ -36798,9 +36798,9 @@
     "location": "Addis Ababa, Ethiopia",
     "company": "HABTech Solutions",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 3733,
-    "publicContributions": 379,
+    "followers": 10,
+    "privateContributions": 3553,
+    "publicContributions": 383,
     "createdAt": "2022-03-06T11:33:36Z"
   },
   {
@@ -36822,7 +36822,7 @@
     "location": "Ethiopia-Addis Ababa",
     "company": "",
     "twitterUsername": "MansidaoPedro",
-    "followers": 12,
+    "followers": 11,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-04-26T23:10:05Z"
@@ -36835,8 +36835,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 21,
-    "publicContributions": 120,
+    "privateContributions": 29,
+    "publicContributions": 113,
     "createdAt": "2022-02-16T06:56:13Z"
   },
   {
@@ -36846,7 +36846,7 @@
     "location": "Gondar, Ethiopia",
     "company": "University of Gondar",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 14,
     "privateContributions": 0,
     "publicContributions": 22,
     "createdAt": "2022-12-02T08:34:58Z"
@@ -36859,8 +36859,8 @@
     "company": "",
     "twitterUsername": "Biru_ka2",
     "followers": 12,
-    "privateContributions": 383,
-    "publicContributions": 198,
+    "privateContributions": 369,
+    "publicContributions": 19,
     "createdAt": "2022-12-10T18:25:30Z"
   },
   {
@@ -36870,9 +36870,9 @@
     "location": "Addis Ababa, Ethiopia",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 901,
-    "publicContributions": 118,
+    "followers": 13,
+    "privateContributions": 1270,
+    "publicContributions": 47,
     "createdAt": "2022-06-17T03:00:00Z"
   },
   {
@@ -36895,8 +36895,8 @@
     "company": "Freelancer",
     "twitterUsername": "aser_tesfaye",
     "followers": 12,
-    "privateContributions": 236,
-    "publicContributions": 285,
+    "privateContributions": 235,
+    "publicContributions": 252,
     "createdAt": "2022-03-06T16:39:02Z"
   },
   {
@@ -36907,7 +36907,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 92,
+    "privateContributions": 36,
     "publicContributions": 117,
     "createdAt": "2022-08-20T04:37:50Z"
   },
@@ -36918,9 +36918,9 @@
     "location": "Ethiopia, Addis Ababa",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 158,
-    "publicContributions": 21,
+    "followers": 13,
+    "privateContributions": 136,
+    "publicContributions": 10,
     "createdAt": "2022-02-25T00:57:17Z"
   },
   {
@@ -36931,7 +36931,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 295,
+    "privateContributions": 401,
     "publicContributions": 0,
     "createdAt": "2022-11-16T18:54:45Z"
   },
@@ -36950,13 +36950,13 @@
   {
     "login": "chalageta",
     "name": "Chala Geta",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/107325900?s=72&u=8c2f72c0ce75a7f6c8e2d8fd7731b4d54d145487&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/107325900?s=72&v=4",
     "location": "Ethiopia/ Addis Ababa",
     "company": "Ethiopian Customs Commission ",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 77,
+    "publicContributions": 69,
     "createdAt": "2022-06-11T21:28:00Z"
   },
   {
@@ -36967,8 +36967,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 57,
-    "publicContributions": 39,
+    "privateContributions": 55,
+    "publicContributions": 19,
     "createdAt": "2022-03-14T12:24:13Z"
   },
   {
@@ -36978,7 +36978,7 @@
     "location": "Addis Ababa, Ethiopia",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 11,
     "privateContributions": 92,
     "publicContributions": 0,
     "createdAt": "2022-03-11T14:38:30Z"
@@ -36991,7 +36991,7 @@
     "company": "Software Developer",
     "twitterUsername": "Betse_s",
     "followers": 12,
-    "privateContributions": 379,
+    "privateContributions": 327,
     "publicContributions": 3,
     "createdAt": "2022-05-26T19:42:59Z"
   },
@@ -37004,20 +37004,8 @@
     "twitterUsername": "abe16s",
     "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 176,
+    "publicContributions": 169,
     "createdAt": "2022-12-05T11:18:19Z"
-  },
-  {
-    "login": "bisratlike",
-    "name": "Bisrat Melak",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/106265948?s=72&u=285134c104ace1580c8df81733489482e04cdc33&v=4",
-    "location": "Ethiopia,Addis Ababa",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 78,
-    "publicContributions": 27,
-    "createdAt": "2022-05-25T16:19:41Z"
   },
   {
     "login": "DanielKasse",
