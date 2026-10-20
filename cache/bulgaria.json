@@ -36752,20 +36752,8 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2022-04-27T06:18:02Z"
-  },
-  {
-    "login": "nikeedw",
-    "name": "Nicolaev Eduard ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/118059335?s=72&u=9aeeb6ec119246c775d58a90d9bed868ea263a9b&v=4",
-    "location": "🇧🇬 Sofia",
-    "company": "Carasent Norge AS",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 140,
-    "createdAt": "2022-11-12T13:21:45Z"
   },
   {
     "login": "ui5-webcomponents-bot",
@@ -36776,7 +36764,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 483,
+    "publicContributions": 463,
     "createdAt": "2022-06-09T18:22:56Z"
   },
   {
@@ -36800,7 +36788,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 166,
+    "publicContributions": 175,
     "createdAt": "2022-09-04T11:29:18Z"
   },
   {
@@ -36822,8 +36810,8 @@
     "location": "Sofia",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 1116,
+    "followers": 3,
+    "privateContributions": 3340,
     "publicContributions": 0,
     "createdAt": "2022-10-27T18:33:59Z"
   },
@@ -168838,5 +168826,17 @@
     "privateContributions": 283,
     "publicContributions": 159,
     "createdAt": "2025-09-19T16:14:29Z"
+  },
+  {
+    "login": "trilis",
+    "name": "Alexey Trilis",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12613629?s=72&u=2d461badcbadbf1134efeed3d3bebec2ceb615b1&v=4",
+    "location": "Sofia, Bulgaria",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 13,
+    "privateContributions": 3,
+    "publicContributions": 3,
+    "createdAt": "2015-05-26T16:19:11Z"
   }
 ]

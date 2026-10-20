@@ -35948,7 +35948,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 15,
     "createdAt": "2025-10-06T09:25:13Z"
   },
   {
@@ -35960,31 +35960,31 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-08-24T12:23:50Z"
   },
   {
     "login": "berre6",
     "name": "Berre Yılmaz",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/233991213?s=72&u=58f1d6652a3849f0edea6d60a57920f914c8ea19&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/233991213?s=72&u=1ce02b257111e76aa7a8e38f04a5b1b0a6a73bdc&v=4",
     "location": "Istanbul",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 55,
+    "publicContributions": 64,
     "createdAt": "2025-09-23T13:27:15Z"
   },
   {
     "login": "saitaydin",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/247235968?s=72&v=4",
+    "name": "Sait",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/247235968?s=72&u=0ace075afc945f5990df020e13a523c5f455fe71&v=4",
     "location": "Istanbul",
     "company": "KaguSoftware",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 80,
+    "followers": 3,
+    "privateContributions": 9,
+    "publicContributions": 411,
     "createdAt": "2025-12-01T19:24:30Z"
   },
   {
@@ -35996,7 +35996,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 31,
+    "publicContributions": 29,
     "createdAt": "2025-04-24T14:40:57Z"
   },
   {
@@ -36006,7 +36006,7 @@
     "location": "İstanbul, Turkiye",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 13,
     "createdAt": "2025-01-28T12:12:23Z"
@@ -36020,7 +36020,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 0,
     "createdAt": "2025-05-20T23:34:38Z"
   },
   {
@@ -36032,7 +36032,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 528,
+    "publicContributions": 558,
     "createdAt": "2025-11-05T09:16:04Z"
   },
   {
@@ -36043,7 +36043,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 2037,
+    "privateContributions": 5468,
     "publicContributions": 3,
     "createdAt": "2025-06-27T14:02:48Z"
   },
@@ -36068,7 +36068,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 115,
+    "publicContributions": 37,
     "createdAt": "2025-03-07T20:58:33Z"
   },
   {
@@ -36078,9 +36078,9 @@
     "location": "Istanbul",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 16,
     "createdAt": "2025-01-22T20:21:17Z"
   },
   {
@@ -36109,7 +36109,7 @@
   },
   {
     "login": "umutakman",
-    "name": "umut akman",
+    "name": "UMUT AKMAN",
     "avatarUrl": "https://avatars.githubusercontent.com/u/205220493?s=72&u=87103b9002e890d0302ea7e98d95081efc09a87e&v=4",
     "location": "İstanbul",
     "company": "Yok",

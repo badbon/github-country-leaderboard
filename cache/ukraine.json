@@ -35884,9 +35884,9 @@
     "name": "",
     "avatarUrl": "https://avatars.githubusercontent.com/u/131636796?s=72&u=6be1c7bb507879e9868f719cff54ba79ff34e70c&v=4",
     "location": "Ukraine",
-    "company": "",
+    "company": "Remote",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 28,
     "publicContributions": 1,
     "createdAt": "2023-04-24T03:46:16Z"
@@ -35948,7 +35948,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 346,
+    "publicContributions": 344,
     "createdAt": "2023-05-11T09:27:42Z"
   },
   {
@@ -35960,7 +35960,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2023-04-04T10:06:21Z"
   },
   {
@@ -36008,7 +36008,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 36,
+    "publicContributions": 34,
     "createdAt": "2023-05-14T09:50:32Z"
   },
   {
@@ -36066,22 +36066,10 @@
     "location": "Ukraine",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 7,
+    "followers": 4,
+    "privateContributions": 3,
     "publicContributions": 1,
     "createdAt": "2023-05-14T08:17:08Z"
-  },
-  {
-    "login": "mosshaven",
-    "name": "Nikita Biriuk",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/134005418?s=72&u=050192b3836314faba3d37a7e7362f5ca47448f2&v=4",
-    "location": "Ukraine, Zaporizhia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 74,
-    "createdAt": "2023-05-18T18:44:46Z"
   },
   {
     "login": "Vadyanik",
@@ -36091,8 +36079,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 118,
-    "publicContributions": 359,
+    "privateContributions": 109,
+    "publicContributions": 436,
     "createdAt": "2023-05-14T09:33:36Z"
   },
   {

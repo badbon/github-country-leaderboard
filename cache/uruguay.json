@@ -36212,7 +36212,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 10,
     "createdAt": "2019-07-25T23:21:56Z"
   },
   {
@@ -36302,13 +36302,13 @@
   {
     "login": "bbazzano",
     "name": "Bruno Bazzano",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/52756793?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/52756793?s=72&u=5153032e3115ebef8f36b0ae06474341c61aee18&v=4",
     "location": "Montevideo, Uruguay",
     "company": "Universidad de la República",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 3,
     "createdAt": "2019-07-10T17:29:16Z"
   },
   {
@@ -36319,7 +36319,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 179,
+    "privateContributions": 175,
     "publicContributions": 2,
     "createdAt": "2019-09-14T05:16:51Z"
   },
@@ -36331,7 +36331,7 @@
     "company": "@pedidosya ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 2562,
+    "privateContributions": 2744,
     "publicContributions": 0,
     "createdAt": "2019-04-08T03:19:25Z"
   },
@@ -36385,14 +36385,14 @@
   },
   {
     "login": "stronxyo",
-    "name": "stronxyo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/58714125?s=72&u=771df2ace5b207b049e7a7c820398902208e04c7&v=4",
+    "name": "Pablo Cardoso",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/58714125?s=72&u=cc630d073a383ce7b71a63dd42b3a1665747168d&v=4",
     "location": "Montevideo, Uruguay",
-    "company": "",
+    "company": "Pacard Games",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 199,
     "createdAt": "2019-12-10T01:29:17Z"
   },
   {

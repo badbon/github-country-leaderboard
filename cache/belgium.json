@@ -36319,21 +36319,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 6,
-    "publicContributions": 0,
-    "createdAt": "2021-03-08T22:01:04Z"
-  },
-  {
-    "login": "NIKPAP558",
-    "name": "Nikolaos Papanikolaou",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/84045379?s=72&u=36fdc19eacf3272057218940c0f909ef5ccb61d3&v=4",
-    "location": "Belgium",
-    "company": "Brussels",
-    "twitterUsername": "",
-    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
-    "createdAt": "2021-05-11T20:45:44Z"
+    "createdAt": "2021-03-08T22:01:04Z"
   },
   {
     "login": "KoenCobra",
@@ -36343,20 +36331,20 @@
     "company": "Organimmo",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 379,
-    "publicContributions": 204,
+    "privateContributions": 544,
+    "publicContributions": 27,
     "createdAt": "2021-03-01T08:14:46Z"
   },
   {
     "login": "layesall",
     "name": "Layesall",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/80990454?s=72&u=b9e74e7a6b6d59389b8f658383e14bdb554e7d4a&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/80990454?s=72&u=ce4b97d5acfd73aa501ff2e644a462dbf40575e7&v=4",
     "location": "Brussels, Belgium",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 96,
-    "publicContributions": 49,
+    "followers": 3,
+    "privateContributions": 80,
+    "publicContributions": 83,
     "createdAt": "2021-03-19T23:04:36Z"
   },
   {
@@ -36368,7 +36356,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 26,
     "createdAt": "2021-10-20T14:00:41Z"
   },
   {
@@ -36403,8 +36391,8 @@
     "company": "@esign",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1706,
-    "publicContributions": 74,
+    "privateContributions": 2871,
+    "publicContributions": 188,
     "createdAt": "2021-04-07T03:06:53Z"
   },
   {
@@ -36428,7 +36416,7 @@
     "twitterUsername": "Kwolfski",
     "followers": 2,
     "privateContributions": 32,
-    "publicContributions": 7,
+    "publicContributions": 2,
     "createdAt": "2021-06-10T07:06:33Z"
   },
   {
@@ -36440,7 +36428,7 @@
     "twitterUsername": "camerbe",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 195,
+    "publicContributions": 241,
     "createdAt": "2021-02-24T09:13:07Z"
   },
   {
@@ -36462,9 +36450,9 @@
     "location": "Liège (Belgium)",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 6,
-    "publicContributions": 105,
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 88,
     "createdAt": "2021-04-12T08:53:11Z"
   },
   {
@@ -36476,7 +36464,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 81,
+    "publicContributions": 82,
     "createdAt": "2021-09-02T08:18:28Z"
   },
   {
@@ -36487,8 +36475,8 @@
     "company": "LBRP",
     "twitterUsername": "lbrp_software",
     "followers": 2,
-    "privateContributions": 1540,
-    "publicContributions": 41,
+    "privateContributions": 1585,
+    "publicContributions": 52,
     "createdAt": "2021-08-31T08:08:16Z"
   },
   {
@@ -36511,7 +36499,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 128,
+    "privateContributions": 229,
     "publicContributions": 17,
     "createdAt": "2021-09-22T22:50:07Z"
   },
@@ -36548,7 +36536,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 9,
     "createdAt": "2021-04-09T13:28:12Z"
   },
   {

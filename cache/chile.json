@@ -36404,7 +36404,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 55,
+    "publicContributions": 51,
     "createdAt": "2023-03-29T14:43:45Z"
   },
   {
@@ -36428,7 +36428,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 342,
+    "publicContributions": 638,
     "createdAt": "2023-04-10T18:42:24Z"
   },
   {
@@ -36474,21 +36474,21 @@
     "location": "Santiago, Chile",
     "company": "Seidor",
     "twitterUsername": "",
-    "followers": 72,
+    "followers": 65,
     "privateContributions": 3,
-    "publicContributions": 5,
+    "publicContributions": 7,
     "createdAt": "2023-09-07T16:53:29Z"
   },
   {
     "login": "felipeDev303",
     "name": "Felipe Morales",
     "avatarUrl": "https://avatars.githubusercontent.com/u/154853067?s=72&u=cf164a8851423278dcbdf4bf8477cb17ed461967&v=4",
-    "location": "Temuco, Chile",
+    "location": "Chile",
     "company": "",
     "twitterUsername": "fmoralesdev",
-    "followers": 55,
-    "privateContributions": 1002,
-    "publicContributions": 454,
+    "followers": 58,
+    "privateContributions": 1143,
+    "publicContributions": 391,
     "createdAt": "2023-12-26T02:06:11Z"
   },
   {
@@ -36498,9 +36498,9 @@
     "location": "Santiago de Chile",
     "company": "Sellside SpA",
     "twitterUsername": "",
-    "followers": 51,
-    "privateContributions": 541,
-    "publicContributions": 18,
+    "followers": 54,
+    "privateContributions": 975,
+    "publicContributions": 20,
     "createdAt": "2023-09-07T22:10:07Z"
   },
   {
@@ -36516,25 +36516,13 @@
     "createdAt": "2023-11-09T02:22:31Z"
   },
   {
-    "login": "AlejandraConB",
-    "name": "Alejandra Contreras",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/154462336?s=72&u=c61b1618b8de3cec2f0f7c357967dbe63a4f3c9d&v=4",
-    "location": "Santiago, Chile",
-    "company": "",
-    "twitterUsername": "alejandra_conb",
-    "followers": 40,
-    "privateContributions": 61,
-    "publicContributions": 153,
-    "createdAt": "2023-12-20T18:17:52Z"
-  },
-  {
     "login": "Addis-cx",
     "name": "Addis",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/150743709?s=72&u=51501394620c9f607f3f50d11014d8684be78509&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/150743709?s=72&u=88a37d31ab91ab6b1c02ff7796ce91dd4960e22c&v=4",
     "location": "Chile, Santiago",
     "company": "",
     "twitterUsername": "",
-    "followers": 35,
+    "followers": 36,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-11-13T21:31:33Z"
@@ -36546,9 +36534,9 @@
     "location": "Santiago, Chile.",
     "company": "",
     "twitterUsername": "",
-    "followers": 33,
+    "followers": 36,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 60,
     "createdAt": "2023-10-16T23:11:17Z"
   },
   {
@@ -36570,9 +36558,9 @@
     "location": "Santiago de Chile",
     "company": "",
     "twitterUsername": "TryH4rdGame",
-    "followers": 20,
-    "privateContributions": 468,
-    "publicContributions": 870,
+    "followers": 13,
+    "privateContributions": 404,
+    "publicContributions": 1174,
     "createdAt": "2023-11-28T15:13:44Z"
   },
   {
@@ -36584,7 +36572,7 @@
     "twitterUsername": "",
     "followers": 24,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 6,
     "createdAt": "2023-08-22T00:42:59Z"
   },
   {
@@ -36596,7 +36584,7 @@
     "twitterUsername": "",
     "followers": 23,
     "privateContributions": 0,
-    "publicContributions": 145,
+    "publicContributions": 147,
     "createdAt": "2023-10-23T21:08:13Z"
   },
   {
@@ -36618,7 +36606,7 @@
     "location": "Chile",
     "company": "",
     "twitterUsername": "",
-    "followers": 20,
+    "followers": 21,
     "privateContributions": 1,
     "publicContributions": 54,
     "createdAt": "2023-12-07T13:55:31Z"
@@ -36630,9 +36618,9 @@
     "location": "Santiago de Chile",
     "company": "VMHQ",
     "twitterUsername": "",
-    "followers": 18,
+    "followers": 17,
     "privateContributions": 0,
-    "publicContributions": 493,
+    "publicContributions": 516,
     "createdAt": "2023-10-13T05:28:49Z"
   },
   {
