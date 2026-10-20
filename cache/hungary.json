@@ -36799,8 +36799,8 @@
     "company": "DATelite",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 734,
-    "publicContributions": 1,
+    "privateContributions": 684,
+    "publicContributions": 0,
     "createdAt": "2020-11-29T17:32:47Z"
   },
   {
@@ -36812,7 +36812,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 38,
+    "publicContributions": 44,
     "createdAt": "2020-07-12T12:51:47Z"
   },
   {
@@ -36834,9 +36834,9 @@
     "location": "Hungary",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 22,
     "createdAt": "2020-12-26T18:11:44Z"
   },
   {
@@ -36847,7 +36847,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 316,
+    "privateContributions": 373,
     "publicContributions": 8,
     "createdAt": "2020-02-19T13:56:01Z"
   },
@@ -36858,9 +36858,9 @@
     "location": "Budapest",
     "company": "@firecrawl",
     "twitterUsername": "",
-    "followers": 302,
-    "privateContributions": 2951,
-    "publicContributions": 1069,
+    "followers": 346,
+    "privateContributions": 4068,
+    "publicContributions": 1093,
     "createdAt": "2020-05-29T10:35:38Z"
   },
   {
@@ -36870,21 +36870,21 @@
     "location": "Budapest",
     "company": "",
     "twitterUsername": "Nagraggini",
-    "followers": 193,
-    "privateContributions": 511,
-    "publicContributions": 1351,
+    "followers": 250,
+    "privateContributions": 492,
+    "publicContributions": 1631,
     "createdAt": "2020-03-26T18:41:04Z"
   },
   {
     "login": "milanvarady",
     "name": "Milán Várady",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/61704770?s=72&u=f850c52abc0637c0babb119cfcd5d88a0619c393&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/61704770?s=72&u=c84274bd98f677c948260f178756f34231ec07f9&v=4",
     "location": "Budapest",
     "company": "",
-    "twitterUsername": "MilanVarady",
-    "followers": 153,
+    "twitterUsername": "",
+    "followers": 157,
     "privateContributions": 0,
-    "publicContributions": 330,
+    "publicContributions": 367,
     "createdAt": "2020-03-02T16:56:54Z"
   },
   {
@@ -36894,9 +36894,9 @@
     "location": "Budapest",
     "company": "KLM Royal Dutch",
     "twitterUsername": "",
-    "followers": 61,
-    "privateContributions": 2560,
-    "publicContributions": 206,
+    "followers": 52,
+    "privateContributions": 3473,
+    "publicContributions": 156,
     "createdAt": "2020-02-06T13:58:14Z"
   },
   {
@@ -36908,7 +36908,7 @@
     "twitterUsername": "",
     "followers": 37,
     "privateContributions": 0,
-    "publicContributions": 343,
+    "publicContributions": 344,
     "createdAt": "2020-02-04T21:25:07Z"
   },
   {
@@ -36918,9 +36918,9 @@
     "location": "Budapest",
     "company": "A1X",
     "twitterUsername": "",
-    "followers": 35,
+    "followers": 36,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 18,
     "createdAt": "2020-04-12T12:07:55Z"
   },
   {
@@ -36931,8 +36931,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 31,
-    "privateContributions": 3622,
-    "publicContributions": 123,
+    "privateContributions": 7424,
+    "publicContributions": 160,
     "createdAt": "2020-02-23T16:21:55Z"
   },
   {
@@ -36942,8 +36942,8 @@
     "location": "Budapest",
     "company": "",
     "twitterUsername": "",
-    "followers": 24,
-    "privateContributions": 186,
+    "followers": 23,
+    "privateContributions": 195,
     "publicContributions": 1,
     "createdAt": "2020-09-17T00:06:35Z"
   },
@@ -36956,7 +36956,7 @@
     "twitterUsername": "",
     "followers": 24,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 334,
     "createdAt": "2020-01-13T18:29:54Z"
   },
   {
@@ -36968,7 +36968,7 @@
     "twitterUsername": "",
     "followers": 20,
     "privateContributions": 0,
-    "publicContributions": 258,
+    "publicContributions": 309,
     "createdAt": "2020-01-30T18:24:37Z"
   },
   {
@@ -36978,9 +36978,9 @@
     "location": "Budapest",
     "company": "Eotvos Lorand University",
     "twitterUsername": "",
-    "followers": 19,
-    "privateContributions": 324,
-    "publicContributions": 59,
+    "followers": 21,
+    "privateContributions": 326,
+    "publicContributions": 129,
     "createdAt": "2020-04-17T21:46:54Z"
   },
   {
@@ -36990,9 +36990,9 @@
     "location": "Budapest",
     "company": "",
     "twitterUsername": "",
-    "followers": 17,
-    "privateContributions": 323,
-    "publicContributions": 411,
+    "followers": 14,
+    "privateContributions": 674,
+    "publicContributions": 425,
     "createdAt": "2020-11-07T13:25:35Z"
   },
   {
@@ -37003,7 +37003,7 @@
     "company": "",
     "twitterUsername": "albincsergo",
     "followers": 17,
-    "privateContributions": 277,
+    "privateContributions": 312,
     "publicContributions": 13,
     "createdAt": "2020-04-29T16:53:58Z"
   },
@@ -37014,9 +37014,9 @@
     "location": "Budapest",
     "company": "Jon von Neumann University / MNB Institute",
     "twitterUsername": "GranatMarcell",
-    "followers": 16,
-    "privateContributions": 1241,
-    "publicContributions": 66,
+    "followers": 15,
+    "privateContributions": 1415,
+    "publicContributions": 32,
     "createdAt": "2020-04-27T23:32:20Z"
   },
   {
@@ -37028,7 +37028,7 @@
     "twitterUsername": "",
     "followers": 15,
     "privateContributions": 0,
-    "publicContributions": 45,
+    "publicContributions": 31,
     "createdAt": "2020-09-01T21:09:40Z"
   },
   {
