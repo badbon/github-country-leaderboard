@@ -16,9 +16,9 @@ Indexed users: 460
 | 2 | [shreeshiv](https://github.com/shreeshiv) | Shreeshiv Patel | Antarctica | 6,362 |
 | 3 | [adwait1290](https://github.com/adwait1290) | Adwait Athale | Antarctica | 6,033 |
 | 4 | [morgaesis](https://github.com/morgaesis) | Mörgæsis | Antarctica | 5,332 |
-| 5 | [jeongho](https://github.com/jeongho) | Jeongho Park | Deception Island, Antarctica | 5,102 |
-| 6 | [ifarbod](https://github.com/ifarbod) | iFarbod | Antarctica  | 4,974 |
-| 7 | [JohnChristianD](https://github.com/JohnChristianD) | John Christian Domingo | Antarctica | 4,941 |
+| 5 | [jeongho](https://github.com/jeongho) | Jeongho Park | Deception Island, Antarctica | 5,110 |
+| 6 | [JohnChristianD](https://github.com/JohnChristianD) | John Christian Domingo | Antarctica | 4,941 |
+| 7 | [ifarbod](https://github.com/ifarbod) | iFarbod | Antarctica  | 4,866 |
 | 8 | [AntoineSebert](https://github.com/AntoineSebert) | Antoine Sébert | Antarctica | 4,798 |
 | 9 | [Sup2point0](https://github.com/Sup2point0) | Sup#2.0 | Antarctica | 4,679 |
 | 10 | [bharxhav](https://github.com/bharxhav) | Bhargav Kantheti | antarctica | 4,258 |
@@ -63,7 +63,7 @@ Indexed users: 460
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [adam-maj](https://github.com/adam-maj) | Adam Majmudar | South Pole, Antarctica | 1,912 |
-| 2 | [Washi1337](https://github.com/Washi1337) | Washi | McMurdo Station, Antarctica | 617 |
+| 2 | [Washi1337](https://github.com/Washi1337) | Washi | McMurdo Station, Antarctica | 619 |
 | 3 | [r-lyeh](https://github.com/r-lyeh) |  | Vostok, Antarctica | 463 |
 | 4 | [josephpoon](https://github.com/josephpoon) | Joseph Poon | Antarctica | 343 |
 | 5 | [walterwhite-69](https://github.com/walterwhite-69) | Walter | Antarctica | 222 |
@@ -83,4 +83,4 @@ Indexed users: 460
 | 19 | [alphaaurigae](https://github.com/alphaaurigae) | Marian Brockerhoff | Antarctica | 85 |
 | 20 | [fakeid30](https://github.com/fakeid30) | Fake ID | Antarctica | 78 |
 
-Generated: 2026-10-20T16:41:53.581Z
+Generated: 2026-10-20T18:50:23.029Z

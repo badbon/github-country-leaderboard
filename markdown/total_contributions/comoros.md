@@ -1,6 +1,6 @@
 # Total Contributions - Comoros
 
-Generated: 2026-10-20T16:58:58.793Z
+Generated: 2026-10-20T19:04:35.667Z
 
 Users: 11
 
@@ -10,8 +10,8 @@ Users: 11
 | 2 | [clarkdowding](https://github.com/clarkdowding) | Clark Dowding | Clark Dowding |  | Moroni, Utah | 1531 |
 | 3 | [linkhousni](https://github.com/linkhousni) | Housni Issouffa |  |  | Moroni - Comoros | 126 |
 | 4 | [faustfizz](https://github.com/faustfizz) | Youssouf Mbaé AS | Slashz | johnnyFaustfizz | Comoros  | 105 |
-| 5 | [slashedk](https://github.com/slashedk) | katchan |  |  | Comoros | 41 |
-| 6 | [yvssineyh269](https://github.com/yvssineyh269) | Yassine YH |  |  | Moroni, Comoros | 41 |
+| 5 | [yvssineyh269](https://github.com/yvssineyh269) | Yassine YH |  |  | Moroni, Comoros | 42 |
+| 6 | [slashedk](https://github.com/slashedk) | katchan |  |  | Comoros | 41 |
 | 7 | [abdi-momo](https://github.com/abdi-momo) | Abdillah Mohamed | Université des Comores |  | Moroni | 8 |
 | 8 | [Yssoufa](https://github.com/Yssoufa) | THABITI YSSOUFA | UNECA/UNIVERSITY OF COMOROS |  | Comoros | 3 |
 | 9 | [beastcoder98](https://github.com/beastcoder98) | Charif Abdallah Yahaya Charif |  | cha_02_2022 | Moroni  | 0 |

@@ -1,13 +1,13 @@
 # Total Contributions - Tajikistan
 
-Generated: 2026-10-20T16:26:45.265Z
+Generated: 2026-10-20T18:34:13.516Z
 
 Users: 708
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [OdinManiac](https://github.com/OdinManiac) | George |  |  | Tajikistan | 9330 |
-| 2 | [veyxov](https://github.com/veyxov) | Shekhov Ismoil | @LLC-Alif-Technology  |  | Tajikistan | 9177 |
+| 2 | [veyxov](https://github.com/veyxov) | Shekhov Ismoil | @LLC-Alif-Technology  |  | Tajikistan | 9249 |
 | 3 | [rahimov-yr](https://github.com/rahimov-yr) | Yusuf Rahimov |  |  | Tajikistan | 8117 |
 | 4 | [UMARJO9](https://github.com/UMARJO9) | Умарджон Нурмадов |  |  | Tajikistan / Khujand / Dushanbe / Kulob | 7498 |
 | 5 | [umedsondoniyor](https://github.com/umedsondoniyor) | Umedzhon Izbasarov | OneWell | UmedzhonIzbasar | Tajikistan/Dushanbe | 6834 |
@@ -20,7 +20,7 @@ Users: 708
 | 12 | [dev-muhammad](https://github.com/dev-muhammad) | Muhammad Abdugafarov  | Lookona Labs |  | Tajikistan | 3521 |
 | 13 | [D1lsh0D](https://github.com/D1lsh0D) | Dilshod Hojiboev | @Silk-Road-Professionals |  | Khujand, Tajikistan | 3210 |
 | 14 | [Rahmonali](https://github.com/Rahmonali) | Rahmonali | Paydo-Team |  | Dushanbe, Tajikistan | 3192 |
-| 15 | [IllMind11](https://github.com/IllMind11) | Islom Khushnazarov | Ayan Capital |  | Dushanbe, Tajikistan | 3186 |
+| 15 | [IllMind11](https://github.com/IllMind11) | Islom Khushnazarov | Ayan Capital |  | Dushanbe, Tajikistan | 3189 |
 | 16 | [Aiyom](https://github.com/Aiyom) |  |  |  | Tajikistan | 3012 |
 | 17 | [Amsurur](https://github.com/Amsurur) | Muhammadsurur Abdulloev | Softclub , RowTech |  | Dushanbe | 2971 |
 | 18 | [Z4f4r](https://github.com/Z4f4r) | Zafarjon Makhsudov | @Silk-Road-Professionals |  | Tajikistan | 2830 |

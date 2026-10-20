@@ -20,7 +20,7 @@ Indexed users: 1,795
 | 6 | [bpsmartdesign](https://github.com/bpsmartdesign) | Biya Paul | Yaoundé - Douala, Cameroon | 10,190 |
 | 7 | [iws3](https://github.com/iws3) | Fonyuy Gita | Bamenda, Cameroon | 9,993 |
 | 8 | [LudovicAndreBiyong](https://github.com/LudovicAndreBiyong) | Ludovic André Biyong | Cameroon | 9,905 |
-| 9 | [KingsleyLeshey](https://github.com/KingsleyLeshey) | Kingsley Leshey | Yaounde, Cameroon | 9,102 |
+| 9 | [KingsleyLeshey](https://github.com/KingsleyLeshey) | Kingsley Leshey | Yaounde, Cameroon | 9,114 |
 | 10 | [ln-dev7](https://github.com/ln-dev7) | LN | Cameroon | 8,187 |
 | 11 | [zenderock](https://github.com/zenderock) | Emmanuel Zenderock | Cameroon | 7,985 |
 | 12 | [elroykanye](https://github.com/elroykanye) | Elroy Kimbi | Yaoundé, Cameroon | 7,877 |
@@ -83,4 +83,4 @@ Indexed users: 1,795
 | 19 | [baimamboukar](https://github.com/baimamboukar) | BAIMAM BOUKAR JEAN JACQUES | Yaoundé | 170 |
 | 20 | [Suprememajor](https://github.com/Suprememajor) | Nobert Etta | Buea, Cameroon | 168 |
 
-Generated: 2026-10-20T16:55:13.213Z
+Generated: 2026-10-20T19:01:18.194Z

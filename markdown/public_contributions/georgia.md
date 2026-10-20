@@ -1,6 +1,6 @@
 # Public Contributions - Georgia
 
-Generated: 2026-10-20T16:38:16.699Z
+Generated: 2026-10-20T18:45:19.135Z
 
 Users: 6874
 
@@ -18,11 +18,11 @@ Users: 6874
 | 10 | [lperto](https://github.com/lperto) | Lasha Pertakhia |  | lpertakhia | Tbilisi | 4195 |
 | 11 | [prolix-oc](https://github.com/prolix-oc) | Prolix OCs |  | prolix_gg | Georgia | 4064 |
 | 12 | [explosivebit](https://github.com/explosivebit) | Eli Rum | ForgePlan |  | Tbilisi | 3960 |
-| 13 | [jkomyno](https://github.com/jkomyno) | Alberto Schiabel | @composioHQ | jkomyno | Tbilisi, Georgia | 3522 |
-| 14 | [ivanopcode](https://github.com/ivanopcode) | Ivan | @wildberries-tech |  | Tbilisi | 3453 |
-| 15 | [pozitronik](https://github.com/pozitronik) | Pavel Dubrovsky | Freelancer |  | Tbilisi | 3442 |
-| 16 | [andrinoff](https://github.com/andrinoff) | Drew Smirnoff | @charmbracelet | andrin0ff | Tbilisi | 3344 |
-| 17 | [anatoly-m-maslennikov](https://github.com/anatoly-m-maslennikov) | Anatoly Maslennikov |  |  | Tbilisi, Georgia (originally from Nizhny Novgorod, Russia) | 3339 |
-| 18 | [NSchatz](https://github.com/NSchatz) | Noah Schatz |  |  | Georgia | 3307 |
-| 19 | [Khizanag](https://github.com/Khizanag) | Giga Khizanishvili | Space International | Khizanag | Tbilisi, Georgia | 3085 |
+| 13 | [Khizanag](https://github.com/Khizanag) | Giga Khizanishvili | Space International | Khizanag | Tbilisi, Georgia | 3687 |
+| 14 | [jkomyno](https://github.com/jkomyno) | Alberto Schiabel | @composioHQ | jkomyno | Tbilisi, Georgia | 3522 |
+| 15 | [ivanopcode](https://github.com/ivanopcode) | Ivan | @wildberries-tech |  | Tbilisi | 3453 |
+| 16 | [pozitronik](https://github.com/pozitronik) | Pavel Dubrovsky | Freelancer |  | Tbilisi | 3442 |
+| 17 | [andrinoff](https://github.com/andrinoff) | Drew Smirnoff | @charmbracelet | andrin0ff | Tbilisi | 3344 |
+| 18 | [anatoly-m-maslennikov](https://github.com/anatoly-m-maslennikov) | Anatoly Maslennikov |  |  | Tbilisi, Georgia (originally from Nizhny Novgorod, Russia) | 3339 |
+| 19 | [NSchatz](https://github.com/NSchatz) | Noah Schatz |  |  | Georgia | 3307 |
 | 20 | [Nikushhaa](https://github.com/Nikushhaa) | Nikushhaa Developer \| AI • Web • Software |  |  | 📍 Georgia | 3054 |

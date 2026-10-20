@@ -13,11 +13,11 @@ Indexed users: 215
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [ericrisco](https://github.com/ericrisco) | Eric Risco de la Torre | Andorra | 40,980 |
-| 2 | [heldermanueltv](https://github.com/heldermanueltv) | Helder Manuel Torres Vieira | Andorra la Vella | 13,079 |
+| 2 | [heldermanueltv](https://github.com/heldermanueltv) | Helder Manuel Torres Vieira | Andorra la Vella | 13,105 |
 | 3 | [AdrianMastronardi](https://github.com/AdrianMastronardi) | Adrian Mastronardi | Andorra | 10,442 |
 | 4 | [orimarti](https://github.com/orimarti) | Oriol Martí | Andorra | 9,170 |
-| 5 | [castrolem](https://github.com/castrolem) | Luis Castro | Andorra la Vella, Andorra | 8,595 |
-| 6 | [niwinz](https://github.com/niwinz) | Andrey Antukh | Andorra | 8,581 |
+| 5 | [niwinz](https://github.com/niwinz) | Andrey Antukh | Andorra | 8,607 |
+| 6 | [castrolem](https://github.com/castrolem) | Luis Castro | Andorra la Vella, Andorra | 8,595 |
 | 7 | [l3wi](https://github.com/l3wi) | Lewis Freiberg | Andorra | 6,340 |
 | 8 | [acastellana](https://github.com/acastellana) | Albert Castellana | Andorra | 6,223 |
 | 9 | [alexmf91](https://github.com/alexmf91) | Alex Muñoz | Barcelona (Spain) \| Encamp (Andorra) | 5,362 |
@@ -27,7 +27,7 @@ Indexed users: 215
 | 13 | [cmarfil](https://github.com/cmarfil) | Cristian Marfil | Andorra | 4,788 |
 | 14 | [kopenkinda](https://github.com/kopenkinda) | Kopenkin Dmitrii | Andorra | 4,226 |
 | 15 | [dvdjmnz](https://github.com/dvdjmnz) | David Jiménez | Andorra | 3,832 |
-| 16 | [sgirones](https://github.com/sgirones) | Salvador Gironès Gil | Andorra | 3,505 |
+| 16 | [sgirones](https://github.com/sgirones) | Salvador Gironès Gil | Andorra | 3,512 |
 | 17 | [ColColty](https://github.com/ColColty) | Tomàs Forné Cappeau | Andorra | 3,479 |
 | 18 | [FaZeTitans](https://github.com/FaZeTitans) | Axel DA SILVA | Andorra | 3,139 |
 | 19 | [GRKdev](https://github.com/GRKdev) | G.R.K. | Andorra | 3,127 |
@@ -38,7 +38,7 @@ Indexed users: 215
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [ericrisco](https://github.com/ericrisco) | Eric Risco de la Torre | Andorra | 40,980 |
-| 2 | [niwinz](https://github.com/niwinz) | Andrey Antukh | Andorra | 3,005 |
+| 2 | [niwinz](https://github.com/niwinz) | Andrey Antukh | Andorra | 3,031 |
 | 3 | [acastellana](https://github.com/acastellana) | Albert Castellana | Andorra | 1,462 |
 | 4 | [Danziger](https://github.com/Danziger) | Dani Gámez Franco | Andorra | 787 |
 | 5 | [Estemobs](https://github.com/Estemobs) | estemobs | Andorra | 769 |
@@ -54,7 +54,7 @@ Indexed users: 215
 | 15 | [georgeee](https://github.com/georgeee) | George Agapov | Andorra | 354 |
 | 16 | [marciglesias17](https://github.com/marciglesias17) | Marc Iglesias | Andorra | 320 |
 | 17 | [PaulMatencio](https://github.com/PaulMatencio) | Paul Matencio | Andorra | 276 |
-| 18 | [loixlab](https://github.com/loixlab) | Sébastien LVL | Andorra | 224 |
+| 18 | [loixlab](https://github.com/loixlab) | Sébastien LVL | Andorra | 230 |
 | 19 | [kopenkinda](https://github.com/kopenkinda) | Kopenkin Dmitrii | Andorra | 220 |
 | 20 | [DiogoPires2003](https://github.com/DiogoPires2003) | Diogo Filipe Alves Pires | Andorra | 208 |
 
@@ -63,7 +63,7 @@ Indexed users: 215
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [AlexAltea](https://github.com/AlexAltea) | Alexandro Sanchez Bach | Les Escaldes, Andorra | 952 |
-| 2 | [niwinz](https://github.com/niwinz) | Andrey Antukh | Andorra | 883 |
+| 2 | [niwinz](https://github.com/niwinz) | Andrey Antukh | Andorra | 884 |
 | 3 | [hussein-aitlahcen](https://github.com/hussein-aitlahcen) | hussein | Andorra | 582 |
 | 4 | [jorge07](https://github.com/jorge07) | Jorge Arco | Escaldes, Andorra | 253 |
 | 5 | [cuva](https://github.com/cuva) | Hugo Cuvillier | Andorra | 156 |
@@ -83,4 +83,4 @@ Indexed users: 215
 | 19 | [ysb33r](https://github.com/ysb33r) | Schalk W. Cronjé | Andorra | 63 |
 | 20 | [castrolem](https://github.com/castrolem) | Luis Castro | Andorra la Vella, Andorra | 60 |
 
-Generated: 2026-10-20T16:40:38.468Z
+Generated: 2026-10-20T18:48:18.920Z

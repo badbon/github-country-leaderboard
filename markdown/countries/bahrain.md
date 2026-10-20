@@ -24,13 +24,13 @@ Indexed users: 727
 | 10 | [xCuzSkillz](https://github.com/xCuzSkillz) | Ali M. | Bahrain | 4,913 |
 | 11 | [halalgami](https://github.com/halalgami) | Algam | Bahrain | 4,885 |
 | 12 | [kelvindecosta](https://github.com/kelvindecosta) | Kelvin DeCosta | Bahrain | 4,678 |
-| 13 | [iMythms](https://github.com/iMythms) | Mytham Jasim | Bahrain | 4,455 |
+| 13 | [iMythms](https://github.com/iMythms) | Mytham Jasim | Bahrain | 4,453 |
 | 14 | [UnbreakableMJ](https://github.com/UnbreakableMJ) | Mohamed Hammad | Bahrain | 4,232 |
 | 15 | [Ali-Hassan-2000](https://github.com/Ali-Hassan-2000) | ALI SALMAN | Bahrain | 4,039 |
 | 16 | [mufarrah](https://github.com/mufarrah) | A.Rahman Mufarrah | Bahrain | 3,756 |
 | 17 | [TayyabaK](https://github.com/TayyabaK) | Tayyaba Khalil | Bahrain | 3,725 |
-| 18 | [Kwaddo](https://github.com/Kwaddo) | Quad | Bahrain | 3,548 |
-| 19 | [ExTBH](https://github.com/ExTBH) | Natheer Radhi | Bahrain | 3,508 |
+| 18 | [ExTBH](https://github.com/ExTBH) | Natheer Radhi | Bahrain | 3,585 |
+| 19 | [Kwaddo](https://github.com/Kwaddo) | Quad | Bahrain | 3,548 |
 | 20 | [nasoooor29](https://github.com/nasoooor29) | Naser Hussain | bahrain | 3,200 |
 
 ## Public Contributions
@@ -50,7 +50,7 @@ Indexed users: 727
 | 11 | [meshahid973](https://github.com/meshahid973) | meshahid.973 | bahrain | 877 |
 | 12 | [nasoooor29](https://github.com/nasoooor29) | Naser Hussain | bahrain | 828 |
 | 13 | [FnrDev](https://github.com/FnrDev) | Ahmed | Bahrain | 776 |
-| 14 | [eslam-allam](https://github.com/eslam-allam) | Eslam Allam | Bahrain | 768 |
+| 14 | [eslam-allam](https://github.com/eslam-allam) | Eslam Allam | Bahrain | 765 |
 | 15 | [mahoozi97](https://github.com/mahoozi97) | Ali Almahoozi | Bahrain | 733 |
 | 16 | [FahadIqbal1122](https://github.com/FahadIqbal1122) | fahad | Bahrain | 683 |
 | 17 | [falansari](https://github.com/falansari) | Fatima Alansari | Bahrain | 678 |
@@ -67,7 +67,7 @@ Indexed users: 727
 | 3 | [fairbird](https://github.com/fairbird) | RAED | Bahrain | 121 |
 | 4 | [0xRar](https://github.com/0xRar) |  | Bahrain | 116 |
 | 5 | [burhan](https://github.com/burhan) | Burhan Khalid | Bahrain/Kuwait | 111 |
-| 6 | [ExTBH](https://github.com/ExTBH) | Natheer Radhi | Bahrain | 106 |
+| 6 | [ExTBH](https://github.com/ExTBH) | Natheer Radhi | Bahrain | 107 |
 | 7 | [mufarrah](https://github.com/mufarrah) | A.Rahman Mufarrah | Bahrain | 105 |
 | 8 | [kelvindecosta](https://github.com/kelvindecosta) | Kelvin DeCosta | Bahrain | 94 |
 | 9 | [FnrDev](https://github.com/FnrDev) | Ahmed | Bahrain | 93 |
@@ -83,4 +83,4 @@ Indexed users: 727
 | 19 | [f-9t9it](https://github.com/f-9t9it) | 9T9 IT | Bahrain | 42 |
 | 20 | [masterde](https://github.com/masterde) | Baker | Bahrain, Muharraq | 41 |
 
-Generated: 2026-10-20T16:46:33.631Z
+Generated: 2026-10-20T18:52:32.069Z

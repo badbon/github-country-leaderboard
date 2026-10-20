@@ -64,7 +64,7 @@ Indexed users: 727
 |---:|---|---|---|---:|
 | 1 | [semicode-ltd](https://github.com/semicode-ltd) | SemiCode Inc | Khartoum , Sudan | 270 |
 | 2 | [shoukreytom](https://github.com/shoukreytom) | Shoukrey Tom | Sudan | 191 |
-| 3 | [wadgamaraldeen](https://github.com/wadgamaraldeen) | Mustafa Adam Gamaraldin Abdalla | Sudan | 168 |
+| 3 | [wadgamaraldeen](https://github.com/wadgamaraldeen) | Mustafa Adam Gamaraldin Abdalla | Sudan | 167 |
 | 4 | [amolood](https://github.com/amolood) | ABDALRAHMAN MOLOOD | Khartoum,Sudan | 150 |
 | 5 | [oovaa](https://github.com/oovaa) | Omar  | Sudan | 115 |
 | 6 | [adonese](https://github.com/adonese) | Mohamed Yousif | Sudan, Khartoum | 112 |
@@ -83,4 +83,4 @@ Indexed users: 727
 | 19 | [kabaros](https://github.com/kabaros) | Mozafar | Khartoum / Glasgow | 51 |
 | 20 | [obaaa8](https://github.com/obaaa8) | محمود عبدالسميع التوم | sudan | 49 |
 
-Generated: 2026-10-20T16:23:13.915Z
+Generated: 2026-10-20T18:31:07.940Z

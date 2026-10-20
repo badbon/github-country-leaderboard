@@ -1,6 +1,6 @@
 # Total Contributions - Bahamas
 
-Generated: 2026-10-20T16:45:29.298Z
+Generated: 2026-10-20T18:52:26.388Z
 
 Users: 236
 
@@ -13,8 +13,8 @@ Users: 236
 | 5 | [ryaustin](https://github.com/ryaustin) | Ryan |  | ry_austin | Bahamas | 2621 |
 | 6 | [yannyhl](https://github.com/yannyhl) | yg | Melo Inc |  | nassau | 2039 |
 | 7 | [janajmccardy](https://github.com/janajmccardy) | Jana JM | Agio Digital Ltd. |  | Nassau, The Bahamas | 1830 |
-| 8 | [TajhSeymour](https://github.com/TajhSeymour) | Tajh Seymour |  |  | New Providence, Bahamas | 1434 |
-| 9 | [justnardo](https://github.com/justnardo) | Just_Nardo | First Glance |  | Bahamas | 1405 |
+| 8 | [justnardo](https://github.com/justnardo) | Just_Nardo | First Glance |  | Bahamas | 1444 |
+| 9 | [TajhSeymour](https://github.com/TajhSeymour) | Tajh Seymour |  |  | New Providence, Bahamas | 1434 |
 | 10 | [jsphpndr](https://github.com/jsphpndr) | Joseph Pinder | Clever | jsphpndr | Bahamas | 1215 |
 | 11 | [TRL242](https://github.com/TRL242) | Roy Lockhart |  |  | Victoria, BC and Freeport, Bahamas | 1110 |
 | 12 | [Johndiddles](https://github.com/Johndiddles) | Johndiddles | Evon Medics LLC | john_diddles | Nassau, Bahamas | 831 |

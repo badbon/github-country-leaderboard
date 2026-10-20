@@ -1,12 +1,12 @@
 # Public Contributions - Burkina Faso
 
-Generated: 2026-10-20T16:53:03.401Z
+Generated: 2026-10-20T18:59:50.410Z
 
 Users: 486
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [spwoodcock](https://github.com/spwoodcock) | Sam | Tech Lead @hotosm |  | Ouagadougou, Burkina Faso | 3623 |
+| 1 | [spwoodcock](https://github.com/spwoodcock) | Sam | Tech Lead @hotosm |  | Ouagadougou, Burkina Faso | 3651 |
 | 2 | [tky0065](https://github.com/tky0065) | Enokdev | Enokdev |  | Burkina Faso | 2666 |
 | 3 | [Y4NN777](https://github.com/Y4NN777) | Ragnang-Newende Yanis Axel DABO | @Y7-Labs  |  | Burkina Faso | 2213 |
 | 4 | [sokevinjonas](https://github.com/sokevinjonas) | SO Kevin Jonas Gningnabe | KGSLAB |  | BURKINA FASO | 1424 |

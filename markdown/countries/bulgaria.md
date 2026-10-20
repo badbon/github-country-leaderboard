@@ -24,14 +24,14 @@ Indexed users: 14,068
 | 10 | [dgeorgiev](https://github.com/dgeorgiev) | Daniel Georgiev | Bulgaria | 12,009 |
 | 11 | [escapeboy](https://github.com/escapeboy) | Nikola Katsarov | Karlovo, Bulgaria | 11,201 |
 | 12 | [bobicloudvision](https://github.com/bobicloudvision) | Bozhidar | Sofia | 11,033 |
-| 13 | [matsidor1975](https://github.com/matsidor1975) | Titomir Dinew | Bulgaria | 10,320 |
-| 14 | [AgLogiV](https://github.com/AgLogiV) | Aleksandar Georgiev | Bulgaria, Sofia | 9,920 |
-| 15 | [naiiiden](https://github.com/naiiiden) | Naiden Radnev | Sofia, Bulgaria | 9,899 |
-| 16 | [hkdobrev](https://github.com/hkdobrev) | Harry Dobrev | Sofia, Bulgaria | 9,650 |
-| 17 | [kKaskak](https://github.com/kKaskak) | Timothy Z. | Bulgaria | 9,558 |
-| 18 | [DonKoko](https://github.com/DonKoko) | Nikolay Bonev | Sofia, Bulgaria | 9,549 |
-| 19 | [gogata05](https://github.com/gogata05) | Georgi Markov | Petrich, Bulgaria | 9,549 |
-| 20 | [groupsky](https://github.com/groupsky) | Geno Roupsky | Plovdiv/Bulgaria | 9,533 |
+| 13 | [AgLogiV](https://github.com/AgLogiV) | Aleksandar Georgiev | Bulgaria, Sofia | 9,920 |
+| 14 | [naiiiden](https://github.com/naiiiden) | Naiden Radnev | Sofia, Bulgaria | 9,899 |
+| 15 | [hkdobrev](https://github.com/hkdobrev) | Harry Dobrev | Sofia, Bulgaria | 9,650 |
+| 16 | [kKaskak](https://github.com/kKaskak) | Timothy Z. | Bulgaria | 9,558 |
+| 17 | [DonKoko](https://github.com/DonKoko) | Nikolay Bonev | Sofia, Bulgaria | 9,549 |
+| 18 | [gogata05](https://github.com/gogata05) | Georgi Markov | Petrich, Bulgaria | 9,549 |
+| 19 | [groupsky](https://github.com/groupsky) | Geno Roupsky | Plovdiv/Bulgaria | 9,533 |
+| 20 | [akrsmv](https://github.com/akrsmv) | Krasimir Atanasov | Sofia, Bulgaria | 9,408 |
 
 ## Public Contributions
 
@@ -39,14 +39,14 @@ Indexed users: 14,068
 |---:|---|---|---|---:|
 | 1 | [stoykovstoyk](https://github.com/stoykovstoyk) |  | Bulgaria, Sofia | 42,532 |
 | 2 | [NikolaRHristov](https://github.com/NikolaRHristov) | Nikola Hristov | Sofia, Bulgaria | 13,527 |
-| 3 | [matsidor1975](https://github.com/matsidor1975) | Titomir Dinew | Bulgaria | 10,320 |
-| 4 | [AgLogiV](https://github.com/AgLogiV) | Aleksandar Georgiev | Bulgaria, Sofia | 9,920 |
-| 5 | [pavelsur07](https://github.com/pavelsur07) |  | Varna | 9,313 |
-| 6 | [zah](https://github.com/zah) |  | Sofia, Bulgaria | 8,588 |
-| 7 | [ceccec](https://github.com/ceccec) | Tsvetan Rouschev | Sofia, Bulgaria | 6,887 |
-| 8 | [bbatsov](https://github.com/bbatsov) | Bozhidar Batsov | Bulgaria | 6,453 |
-| 9 | [braboj](https://github.com/braboj) | Branimir Georgiev | Varna, Bulgaria | 6,213 |
-| 10 | [BoykoNeov](https://github.com/BoykoNeov) |  | Sofia, Bulgaria | 6,076 |
+| 3 | [AgLogiV](https://github.com/AgLogiV) | Aleksandar Georgiev | Bulgaria, Sofia | 9,920 |
+| 4 | [pavelsur07](https://github.com/pavelsur07) |  | Varna | 9,313 |
+| 5 | [zah](https://github.com/zah) |  | Sofia, Bulgaria | 8,588 |
+| 6 | [ceccec](https://github.com/ceccec) | Tsvetan Rouschev | Sofia, Bulgaria | 6,887 |
+| 7 | [bbatsov](https://github.com/bbatsov) | Bozhidar Batsov | Bulgaria | 6,453 |
+| 8 | [braboj](https://github.com/braboj) | Branimir Georgiev | Varna, Bulgaria | 6,213 |
+| 9 | [BoykoNeov](https://github.com/BoykoNeov) |  | Sofia, Bulgaria | 6,076 |
+| 10 | [matsidor1975](https://github.com/matsidor1975) | Titomir Dinew | Bulgaria | 5,842 |
 | 11 | [spantaleev](https://github.com/spantaleev) | Slavi Pantaleev | Sofia, Bulgaria | 5,214 |
 | 12 | [PeterNaydenov](https://github.com/PeterNaydenov) | Peter Naydenov | Bulgaria, Sofia | 4,676 |
 | 13 | [escapeboy](https://github.com/escapeboy) | Nikola Katsarov | Karlovo, Bulgaria | 4,590 |
@@ -83,4 +83,4 @@ Indexed users: 14,068
 | 19 | [RadoRado](https://github.com/RadoRado) | Radoslav Georgiev | Sofia | 631 |
 | 20 | [narfbg](https://github.com/narfbg) | Andrey Andreev | Bulgaria | 601 |
 
-Generated: 2026-10-20T16:52:58.394Z
+Generated: 2026-10-20T18:59:06.488Z

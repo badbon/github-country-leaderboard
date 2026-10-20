@@ -1,6 +1,6 @@
 # Total Contributions - Bahrain
 
-Generated: 2026-10-20T16:46:33.631Z
+Generated: 2026-10-20T18:52:32.069Z
 
 Users: 727
 
@@ -18,11 +18,11 @@ Users: 727
 | 10 | [xCuzSkillz](https://github.com/xCuzSkillz) | Ali M. | AvexInc | xCuzSkillz | Bahrain | 4913 |
 | 11 | [halalgami](https://github.com/halalgami) | Algam |  |  | Bahrain | 4885 |
 | 12 | [kelvindecosta](https://github.com/kelvindecosta) | Kelvin DeCosta | @dotlas | _kelvindecosta | Bahrain | 4678 |
-| 13 | [iMythms](https://github.com/iMythms) | Mytham Jasim | Al Salam Bank |  | Bahrain | 4455 |
+| 13 | [iMythms](https://github.com/iMythms) | Mytham Jasim | Al Salam Bank |  | Bahrain | 4453 |
 | 14 | [UnbreakableMJ](https://github.com/UnbreakableMJ) | Mohamed Hammad |  | S3CURE_ME | Bahrain | 4232 |
 | 15 | [Ali-Hassan-2000](https://github.com/Ali-Hassan-2000) | ALI SALMAN |  |  | Bahrain | 4039 |
 | 16 | [mufarrah](https://github.com/mufarrah) | A.Rahman Mufarrah | Delet |  | Bahrain | 3756 |
 | 17 | [TayyabaK](https://github.com/TayyabaK) | Tayyaba Khalil | BRDigitech | tayyabaat | Bahrain | 3725 |
-| 18 | [Kwaddo](https://github.com/Kwaddo) | Quad |  |  | Bahrain | 3548 |
-| 19 | [ExTBH](https://github.com/ExTBH) | Natheer Radhi | Bahrain Polytechnic |  | Bahrain | 3508 |
+| 18 | [ExTBH](https://github.com/ExTBH) | Natheer Radhi | Bahrain Polytechnic |  | Bahrain | 3585 |
+| 19 | [Kwaddo](https://github.com/Kwaddo) | Quad |  |  | Bahrain | 3548 |
 | 20 | [nasoooor29](https://github.com/nasoooor29) | Naser Hussain | @bahrain-bp  |  | bahrain | 3200 |

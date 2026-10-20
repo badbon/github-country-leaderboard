@@ -1,8 +1,8 @@
 # Followers - Venezuela
 
-Generated: 2026-10-20T16:35:56.107Z
+Generated: 2026-10-20T18:41:32.298Z
 
-Users: 6621
+Users: 6620
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -12,7 +12,7 @@ Users: 6621
 | 4 | [samuelmarina](https://github.com/samuelmarina) | Samuel Mariña | Qoins | samuellmiller | Venezuela | 343 |
 | 5 | [jestevez](https://github.com/jestevez) | Jose Luis Estevez | @AraguaneyBits |  | Caracas - Venezuela | 315 |
 | 6 | [joakor89](https://github.com/joakor89) | Joaco L. | Data Science |  | Caracas | 297 |
-| 7 | [alexanyernas](https://github.com/alexanyernas) | Alexanyer Naranjo |  | alexanyernas | Venezuela | 293 |
+| 7 | [alexanyernas](https://github.com/alexanyernas) | Alexanyer Naranjo |  | alexanyernas | Venezuela | 294 |
 | 8 | [danestves](https://github.com/danestves) | Daniel Esteves | @ClickITDev | danestves | Venezuela | 252 |
 | 9 | [AlexR1712](https://github.com/AlexR1712) | Alexander J. Rodriguez D. | @blockshiftnetwork  |  | Barquisimeto, Lara, Venezuela | 235 |
 | 10 | [eynort](https://github.com/eynort) | Bryant Caballero | Baleares Group |  | Venezuela | 234 |

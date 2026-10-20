@@ -1,6 +1,6 @@
 # Total Contributions - Barbados
 
-Generated: 2026-10-20T16:46:39.758Z
+Generated: 2026-10-20T18:54:03.252Z
 
 Users: 132
 
@@ -11,7 +11,7 @@ Users: 132
 | 3 | [bajedev](https://github.com/bajedev) | Theo Taylor | @TAYLORDTech  |  | Barbados | 4203 |
 | 4 | [d-alleyne](https://github.com/d-alleyne) | Damien Alleyne |  |  | Barbados | 3245 |
 | 5 | [paulmiu](https://github.com/paulmiu) | Paul Miu |  |  | Barbados | 3034 |
-| 6 | [shaquillehinds](https://github.com/shaquillehinds) | Shaquille Hinds |  |  | Barbados | 2822 |
+| 6 | [shaquillehinds](https://github.com/shaquillehinds) | Shaquille Hinds |  |  | Barbados | 2824 |
 | 7 | [alexlilburn](https://github.com/alexlilburn) | Alex Lilburn |  |  | Barbados | 2064 |
 | 8 | [Taggs](https://github.com/Taggs) | Neil Taggart | Adaptive Consulting | neiltaggart | (London \|\| Barbados) && Cloud | 1729 |
 | 9 | [FamineDT246](https://github.com/FamineDT246) | Ceejay C |  |  | Barbados | 1548 |
@@ -24,5 +24,5 @@ Users: 132
 | 16 | [starsden](https://github.com/starsden) | den | Airbus |  | Barbados | 593 |
 | 17 | [clemjfrancis](https://github.com/clemjfrancis) | Clem "CJ" Francis |  |  | Barbados | 565 |
 | 18 | [diondree](https://github.com/diondree) | Diondre Edwards |  | diondredev | Barbados | 441 |
-| 19 | [paulamelrz](https://github.com/paulamelrz) | Paula Melero | Viral Nation |  | Barbados | 432 |
+| 19 | [paulamelrz](https://github.com/paulamelrz) | Paula Melero | Viral Nation |  | Barbados | 434 |
 | 20 | [caritechsolutions](https://github.com/caritechsolutions) |  |  |  | Barbados | 412 |

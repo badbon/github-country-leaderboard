@@ -1,6 +1,6 @@
 # Followers - Bahrain
 
-Generated: 2026-10-20T16:46:33.631Z
+Generated: 2026-10-20T18:52:32.069Z
 
 Users: 727
 
@@ -11,7 +11,7 @@ Users: 727
 | 3 | [fairbird](https://github.com/fairbird) | RAED | (Enigma2 Developer) |  | Bahrain | 121 |
 | 4 | [0xRar](https://github.com/0xRar) |  |  | fcv9_q | Bahrain | 116 |
 | 5 | [burhan](https://github.com/burhan) | Burhan Khalid |  | burhan | Bahrain/Kuwait | 111 |
-| 6 | [ExTBH](https://github.com/ExTBH) | Natheer Radhi | Bahrain Polytechnic |  | Bahrain | 106 |
+| 6 | [ExTBH](https://github.com/ExTBH) | Natheer Radhi | Bahrain Polytechnic |  | Bahrain | 107 |
 | 7 | [mufarrah](https://github.com/mufarrah) | A.Rahman Mufarrah | Delet |  | Bahrain | 105 |
 | 8 | [kelvindecosta](https://github.com/kelvindecosta) | Kelvin DeCosta | @dotlas | _kelvindecosta | Bahrain | 94 |
 | 9 | [FnrDev](https://github.com/FnrDev) | Ahmed |  | FnrDev | Bahrain | 93 |

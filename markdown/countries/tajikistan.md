@@ -13,7 +13,7 @@ Indexed users: 708
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [OdinManiac](https://github.com/OdinManiac) | George | Tajikistan | 9,330 |
-| 2 | [veyxov](https://github.com/veyxov) | Shekhov Ismoil | Tajikistan | 9,177 |
+| 2 | [veyxov](https://github.com/veyxov) | Shekhov Ismoil | Tajikistan | 9,249 |
 | 3 | [rahimov-yr](https://github.com/rahimov-yr) | Yusuf Rahimov | Tajikistan | 8,117 |
 | 4 | [UMARJO9](https://github.com/UMARJO9) | Умарджон Нурмадов | Tajikistan / Khujand / Dushanbe / Kulob | 7,498 |
 | 5 | [umedsondoniyor](https://github.com/umedsondoniyor) | Umedzhon Izbasarov | Tajikistan/Dushanbe | 6,834 |
@@ -26,7 +26,7 @@ Indexed users: 708
 | 12 | [dev-muhammad](https://github.com/dev-muhammad) | Muhammad Abdugafarov  | Tajikistan | 3,521 |
 | 13 | [D1lsh0D](https://github.com/D1lsh0D) | Dilshod Hojiboev | Khujand, Tajikistan | 3,210 |
 | 14 | [Rahmonali](https://github.com/Rahmonali) | Rahmonali | Dushanbe, Tajikistan | 3,192 |
-| 15 | [IllMind11](https://github.com/IllMind11) | Islom Khushnazarov | Dushanbe, Tajikistan | 3,186 |
+| 15 | [IllMind11](https://github.com/IllMind11) | Islom Khushnazarov | Dushanbe, Tajikistan | 3,189 |
 | 16 | [Aiyom](https://github.com/Aiyom) |  | Tajikistan | 3,012 |
 | 17 | [Amsurur](https://github.com/Amsurur) | Muhammadsurur Abdulloev | Dushanbe | 2,971 |
 | 18 | [Z4f4r](https://github.com/Z4f4r) | Zafarjon Makhsudov | Tajikistan | 2,830 |
@@ -83,4 +83,4 @@ Indexed users: 708
 | 19 | [11bit](https://github.com/11bit) | Ivan Buryak | Dushanbe | 49 |
 | 20 | [Abdughafur](https://github.com/Abdughafur) | Abdughafur Khujzoda | Tajikistan | 48 |
 
-Generated: 2026-10-20T16:26:45.265Z
+Generated: 2026-10-20T18:34:13.516Z

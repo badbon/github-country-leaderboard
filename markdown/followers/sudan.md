@@ -1,6 +1,6 @@
 # Followers - Sudan
 
-Generated: 2026-10-20T16:23:13.915Z
+Generated: 2026-10-20T18:31:07.940Z
 
 Users: 727
 
@@ -8,7 +8,7 @@ Users: 727
 |---:|---|---|---|---|---|---:|
 | 1 | [semicode-ltd](https://github.com/semicode-ltd) | SemiCode Inc | SemiCode Inc |  | Khartoum , Sudan | 270 |
 | 2 | [shoukreytom](https://github.com/shoukreytom) | Shoukrey Tom |  | shoukreytom | Sudan | 191 |
-| 3 | [wadgamaraldeen](https://github.com/wadgamaraldeen) | Mustafa Adam Gamaraldin Abdalla | Bug Hunter | wadgamaraldeen | Sudan | 168 |
+| 3 | [wadgamaraldeen](https://github.com/wadgamaraldeen) | Mustafa Adam Gamaraldin Abdalla | Bug Hunter | wadgamaraldeen | Sudan | 167 |
 | 4 | [amolood](https://github.com/amolood) | ABDALRAHMAN MOLOOD | Digitalize lab for information technology |  | Khartoum,Sudan | 150 |
 | 5 | [oovaa](https://github.com/oovaa) | Omar  | SMAfrica | Omarvx211 | Sudan | 115 |
 | 6 | [adonese](https://github.com/adonese) | Mohamed Yousif | EEBAX | _adonese | Sudan, Khartoum | 112 |

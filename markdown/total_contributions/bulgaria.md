@@ -1,6 +1,6 @@
 # Total Contributions - Bulgaria
 
-Generated: 2026-10-20T16:52:58.394Z
+Generated: 2026-10-20T18:59:06.488Z
 
 Users: 14068
 
@@ -18,11 +18,11 @@ Users: 14068
 | 10 | [dgeorgiev](https://github.com/dgeorgiev) | Daniel Georgiev | @dabanny  |  | Bulgaria | 12009 |
 | 11 | [escapeboy](https://github.com/escapeboy) | Nikola Katsarov | @KarlovoTech  |  | Karlovo, Bulgaria | 11201 |
 | 12 | [bobicloudvision](https://github.com/bobicloudvision) | Bozhidar | Cloud Vision Ltd |  | Sofia | 11033 |
-| 13 | [matsidor1975](https://github.com/matsidor1975) | Titomir Dinew | Sgradaulika | 3Pu0Pudh6FGoBlu | Bulgaria | 10320 |
-| 14 | [AgLogiV](https://github.com/AgLogiV) | Aleksandar Georgiev | @virtyxhost |  | Bulgaria, Sofia | 9920 |
-| 15 | [naiiiden](https://github.com/naiiiden) | Naiden Radnev |  |  | Sofia, Bulgaria | 9899 |
-| 16 | [hkdobrev](https://github.com/hkdobrev) | Harry Dobrev |  | hkdobrev | Sofia, Bulgaria | 9650 |
-| 17 | [kKaskak](https://github.com/kKaskak) | Timothy Z. | @stremio | kKaskak | Bulgaria | 9558 |
-| 18 | [DonKoko](https://github.com/DonKoko) | Nikolay Bonev | shelf.nu |  | Sofia, Bulgaria | 9549 |
-| 19 | [gogata05](https://github.com/gogata05) | Georgi Markov |  |  | Petrich, Bulgaria | 9549 |
-| 20 | [groupsky](https://github.com/groupsky) | Geno Roupsky |  |  | Plovdiv/Bulgaria | 9533 |
+| 13 | [AgLogiV](https://github.com/AgLogiV) | Aleksandar Georgiev | @virtyxhost |  | Bulgaria, Sofia | 9920 |
+| 14 | [naiiiden](https://github.com/naiiiden) | Naiden Radnev |  |  | Sofia, Bulgaria | 9899 |
+| 15 | [hkdobrev](https://github.com/hkdobrev) | Harry Dobrev |  | hkdobrev | Sofia, Bulgaria | 9650 |
+| 16 | [kKaskak](https://github.com/kKaskak) | Timothy Z. | @stremio | kKaskak | Bulgaria | 9558 |
+| 17 | [DonKoko](https://github.com/DonKoko) | Nikolay Bonev | shelf.nu |  | Sofia, Bulgaria | 9549 |
+| 18 | [gogata05](https://github.com/gogata05) | Georgi Markov |  |  | Petrich, Bulgaria | 9549 |
+| 19 | [groupsky](https://github.com/groupsky) | Geno Roupsky |  |  | Plovdiv/Bulgaria | 9533 |
+| 20 | [akrsmv](https://github.com/akrsmv) | Krasimir Atanasov |  |  | Sofia, Bulgaria | 9408 |

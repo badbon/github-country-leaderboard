@@ -49,13 +49,13 @@ Indexed users: 6,874
 | 10 | [lperto](https://github.com/lperto) | Lasha Pertakhia | Tbilisi | 4,195 |
 | 11 | [prolix-oc](https://github.com/prolix-oc) | Prolix OCs | Georgia | 4,064 |
 | 12 | [explosivebit](https://github.com/explosivebit) | Eli Rum | Tbilisi | 3,960 |
-| 13 | [jkomyno](https://github.com/jkomyno) | Alberto Schiabel | Tbilisi, Georgia | 3,522 |
-| 14 | [ivanopcode](https://github.com/ivanopcode) | Ivan | Tbilisi | 3,453 |
-| 15 | [pozitronik](https://github.com/pozitronik) | Pavel Dubrovsky | Tbilisi | 3,442 |
-| 16 | [andrinoff](https://github.com/andrinoff) | Drew Smirnoff | Tbilisi | 3,344 |
-| 17 | [anatoly-m-maslennikov](https://github.com/anatoly-m-maslennikov) | Anatoly Maslennikov | Tbilisi, Georgia (originally from Nizhny Novgorod, Russia) | 3,339 |
-| 18 | [NSchatz](https://github.com/NSchatz) | Noah Schatz | Georgia | 3,307 |
-| 19 | [Khizanag](https://github.com/Khizanag) | Giga Khizanishvili | Tbilisi, Georgia | 3,085 |
+| 13 | [Khizanag](https://github.com/Khizanag) | Giga Khizanishvili | Tbilisi, Georgia | 3,687 |
+| 14 | [jkomyno](https://github.com/jkomyno) | Alberto Schiabel | Tbilisi, Georgia | 3,522 |
+| 15 | [ivanopcode](https://github.com/ivanopcode) | Ivan | Tbilisi | 3,453 |
+| 16 | [pozitronik](https://github.com/pozitronik) | Pavel Dubrovsky | Tbilisi | 3,442 |
+| 17 | [andrinoff](https://github.com/andrinoff) | Drew Smirnoff | Tbilisi | 3,344 |
+| 18 | [anatoly-m-maslennikov](https://github.com/anatoly-m-maslennikov) | Anatoly Maslennikov | Tbilisi, Georgia (originally from Nizhny Novgorod, Russia) | 3,339 |
+| 19 | [NSchatz](https://github.com/NSchatz) | Noah Schatz | Georgia | 3,307 |
 | 20 | [Nikushhaa](https://github.com/Nikushhaa) | Nikushhaa Developer \| AI • Web • Software | 📍 Georgia | 3,054 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 6,874
 | 19 | [h-mdm](https://github.com/h-mdm) | Headwind MDM | Iustine Abuladze st. N15, Tbilisi, Georgia | 400 |
 | 20 | [jkomyno](https://github.com/jkomyno) | Alberto Schiabel | Tbilisi, Georgia | 392 |
 
-Generated: 2026-10-20T16:38:16.699Z
+Generated: 2026-10-20T18:45:19.135Z

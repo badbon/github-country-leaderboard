@@ -1,6 +1,6 @@
 # Venezuela
 
-Indexed users: 6,621
+Indexed users: 6,620
 
 | Leaderboard | Link |
 |---|---|
@@ -68,7 +68,7 @@ Indexed users: 6,621
 | 4 | [samuelmarina](https://github.com/samuelmarina) | Samuel Mariña | Venezuela | 343 |
 | 5 | [jestevez](https://github.com/jestevez) | Jose Luis Estevez | Caracas - Venezuela | 315 |
 | 6 | [joakor89](https://github.com/joakor89) | Joaco L. | Caracas | 297 |
-| 7 | [alexanyernas](https://github.com/alexanyernas) | Alexanyer Naranjo | Venezuela | 293 |
+| 7 | [alexanyernas](https://github.com/alexanyernas) | Alexanyer Naranjo | Venezuela | 294 |
 | 8 | [danestves](https://github.com/danestves) | Daniel Esteves | Venezuela | 252 |
 | 9 | [AlexR1712](https://github.com/AlexR1712) | Alexander J. Rodriguez D. | Barquisimeto, Lara, Venezuela | 235 |
 | 10 | [eynort](https://github.com/eynort) | Bryant Caballero | Venezuela | 234 |
@@ -83,4 +83,4 @@ Indexed users: 6,621
 | 19 | [NTBBloodbath](https://github.com/NTBBloodbath) | Alejandro | Caracas, Venezuela | 179 |
 | 20 | [KellbisJ](https://github.com/KellbisJ) | Kellbis Salazar | Venezuela / Remote | 175 |
 
-Generated: 2026-10-20T16:35:56.107Z
+Generated: 2026-10-20T18:41:32.298Z

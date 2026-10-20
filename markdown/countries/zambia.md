@@ -19,8 +19,8 @@ Indexed users: 1,337
 | 5 | [thompsonmanda08](https://github.com/thompsonmanda08) | Thompson Manda | Zambia | 9,114 |
 | 6 | [Abdurrahmaan9](https://github.com/Abdurrahmaan9) |  | Lusaka, Zambia  | 7,277 |
 | 7 | [senorMk](https://github.com/senorMk) | Penjani M | Zambia | 6,710 |
-| 8 | [c00p75](https://github.com/c00p75) | George M'sapenda | Lusaka, Zambia | 5,444 |
-| 9 | [S4INT25](https://github.com/S4INT25) | luckson | lusaka zambia  | 5,309 |
+| 8 | [c00p75](https://github.com/c00p75) | George M'sapenda | Lusaka, Zambia | 5,646 |
+| 9 | [S4INT25](https://github.com/S4INT25) | luckson | lusaka zambia  | 5,444 |
 | 10 | [cacious7](https://github.com/cacious7) | Cacious Siamunyanga | Lusaka, Zambia | 4,457 |
 | 11 | [makayi](https://github.com/makayi) | Mbuyu  Makayi | Zambia | 4,289 |
 | 12 | [Acesulfame02](https://github.com/Acesulfame02) | Aaron Masembe | Lusaka, Lusaka, Zambia | 4,247 |
@@ -56,7 +56,7 @@ Indexed users: 1,337
 | 17 | [mataa019](https://github.com/mataa019) | John Mataa | Zambia, Lusaka Province | 624 |
 | 18 | [wmweemba](https://github.com/wmweemba) | William .S. Mweemba | Lusaka, Zambia | 612 |
 | 19 | [Mwapsam](https://github.com/Mwapsam) | Samuel Chimfwembe | Zambia | 611 |
-| 20 | [c00p75](https://github.com/c00p75) | George M'sapenda | Lusaka, Zambia | 586 |
+| 20 | [c00p75](https://github.com/c00p75) | George M'sapenda | Lusaka, Zambia | 590 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,337
 | 19 | [blessedjasonmwanza](https://github.com/blessedjasonmwanza) | Blessed Jason Mwanza |  Lusaka, Zambia | 104 |
 | 20 | [Eathorne2](https://github.com/Eathorne2) | Eathorne | Lusaka, Zambia | 103 |
 
-Generated: 2026-10-20T16:37:33.886Z
+Generated: 2026-10-20T18:43:21.183Z

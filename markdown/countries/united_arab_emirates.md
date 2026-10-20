@@ -72,9 +72,9 @@ Indexed users: 4,218
 | 8 | [Ahmed-Adel-Ismail](https://github.com/Ahmed-Adel-Ismail) | Ahmed Adel Ismail | United Arab Emirates | 587 |
 | 9 | [TadesseDev](https://github.com/TadesseDev) | Tadesse Dubale | Dubai, United Arab Emirates | 542 |
 | 10 | [Jackal08](https://github.com/Jackal08) | Jacques Francois Joubert | Abu Dhabi | 510 |
-| 11 | [christyjacob4](https://github.com/christyjacob4) | Christy Jacob | Abu Dhabi | 476 |
+| 11 | [christyjacob4](https://github.com/christyjacob4) | Christy Jacob | Abu Dhabi | 475 |
 | 12 | [Mubashir12392](https://github.com/Mubashir12392) | Muhammad Mubashir | Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates | 466 |
-| 13 | [divyanshub024](https://github.com/divyanshub024) | Divyanshu Bhargava | Abu Dhabi, UAE | 420 |
+| 13 | [divyanshub024](https://github.com/divyanshub024) | Divyanshu Bhargava | Abu Dhabi, UAE | 421 |
 | 14 | [khalby786](https://github.com/khalby786) | Khaleel Gibran | Dubai, United Arab Emirates | 420 |
 | 15 | [techking11](https://github.com/techking11) | Tech King | Abu Dhabi, United Arab Emirates | 408 |
 | 16 | [abxhr](https://github.com/abxhr) | Abshar Mohammed Aslam | Dubai, United Arab Emirates | 401 |
@@ -83,4 +83,4 @@ Indexed users: 4,218
 | 19 | [FrayxRulez](https://github.com/FrayxRulez) | Fela | Dubai, United Arab Emirates | 366 |
 | 20 | [yusufusta](https://github.com/yusufusta) | Yusuf Usta | Dubai, United Arab Emirates | 361 |
 
-Generated: 2026-10-20T16:32:47.655Z
+Generated: 2026-10-20T18:40:49.955Z
