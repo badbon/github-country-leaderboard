@@ -30,7 +30,7 @@ Indexed users: 701
 | 16 | [hktom](https://github.com/hktom) | Tom Hikari | Congo Kinshasa | 5,113 |
 | 17 | [AlbusDigi](https://github.com/AlbusDigi) | Albus | Kinshasa | 4,844 |
 | 18 | [pacomeissa](https://github.com/pacomeissa) | PACOME ISSA | Democratic Republic of Congo | 4,819 |
-| 19 | [MasirikaConstantin](https://github.com/MasirikaConstantin) | Masirika Constantin | Kinshasa | 4,586 |
+| 19 | [MasirikaConstantin](https://github.com/MasirikaConstantin) | Masirika Constantin | Kinshasa | 4,577 |
 | 20 | [hervinhio](https://github.com/hervinhio) | Hervé Kyle MUTOMBO MATANDA | Kinshasa, Democratic Republic of Congo | 4,404 |
 
 ## Public Contributions
@@ -83,4 +83,4 @@ Indexed users: 701
 | 19 | [bolenge](https://github.com/bolenge) | Don de Dieu Bolenge | Congo - Kinshasa | 69 |
 | 20 | [ChrisMwanya](https://github.com/ChrisMwanya) | Chris Mwanya | kinshasa | 69 |
 
-Generated: 2026-10-20T03:39:50.345Z
+Generated: 2026-10-20T07:00:49.811Z

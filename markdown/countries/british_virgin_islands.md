@@ -13,7 +13,7 @@ Indexed users: 38
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [BazaarsBZR](https://github.com/BazaarsBZR) | Bazaars | Bazaars Limited, Intershore Chambers, Road Town, Tortola, British Virgin Islands | 6,442 |
-| 2 | [justmoon](https://github.com/justmoon) | Stefan Thomas | British Virgin Islands | 3,838 |
+| 2 | [justmoon](https://github.com/justmoon) | Stefan Thomas | British Virgin Islands | 3,861 |
 | 3 | [AI-Isaiah](https://github.com/AI-Isaiah) |  | British Virgin Islands | 3,647 |
 | 4 | [Dener1111](https://github.com/Dener1111) | DK | Road Town, British Virgin Islands | 2,142 |
 | 5 | [divyansh2681](https://github.com/divyansh2681) | Divyansh Agrawal | Virgin Islands | 449 |
@@ -22,7 +22,7 @@ Indexed users: 38
 | 8 | [dlichota](https://github.com/dlichota) | Dietmar Lichota | British Virgin Islands  | 57 |
 | 9 | [Domi261](https://github.com/Domi261) | Dominick | British Virgin Islands | 32 |
 | 10 | [Fraodd](https://github.com/Fraodd) | Fraodd | Tortola, British Virgin Islands | 16 |
-| 11 | [Chezo25](https://github.com/Chezo25) | Chezley Stoddard | Virgin Islands | 9 |
+| 11 | [Chezo25](https://github.com/Chezo25) | Chezley Stoddard | Virgin Islands | 10 |
 | 12 | [Bleistein](https://github.com/Bleistein) | Michael Bleistein | Virgin Gorda, British Virgin Islands | 5 |
 | 13 | [itspicklintime](https://github.com/itspicklintime) | picl | Virgin Islands | 2 |
 | 14 | [Alcatrax](https://github.com/Alcatrax) | Alcatrax | British Virgin Islands | 0 |
@@ -46,7 +46,7 @@ Indexed users: 38
 | 7 | [Computerfile](https://github.com/Computerfile) | Stigma | Virgin Islands | 19 |
 | 8 | [Fraodd](https://github.com/Fraodd) | Fraodd | Tortola, British Virgin Islands | 16 |
 | 9 | [Dener1111](https://github.com/Dener1111) | DK | Road Town, British Virgin Islands | 15 |
-| 10 | [Chezo25](https://github.com/Chezo25) | Chezley Stoddard | Virgin Islands | 9 |
+| 10 | [Chezo25](https://github.com/Chezo25) | Chezley Stoddard | Virgin Islands | 10 |
 | 11 | [Bleistein](https://github.com/Bleistein) | Michael Bleistein | Virgin Gorda, British Virgin Islands | 5 |
 | 12 | [itspicklintime](https://github.com/itspicklintime) | picl | Virgin Islands | 2 |
 | 13 | [Alcatrax](https://github.com/Alcatrax) | Alcatrax | British Virgin Islands | 0 |
@@ -83,4 +83,4 @@ Indexed users: 38
 | 19 | [BigThiccy2](https://github.com/BigThiccy2) | bigthiccy2 | Little Saint James, Virgin Islands | 2 |
 | 20 | [ilyBen](https://github.com/ilyBen) | Ben | Virgin Islands | 2 |
 
-Generated: 2026-10-20T03:29:56.691Z
+Generated: 2026-10-20T06:48:44.345Z

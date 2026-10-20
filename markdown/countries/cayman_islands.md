@@ -27,7 +27,7 @@ Indexed users: 124
 | 13 | [RodneyAlison](https://github.com/RodneyAlison) | Rodney Alison | Cayman Islands | 1,219 |
 | 14 | [tmancey](https://github.com/tmancey) | Terry Mancey | Cayman Islands | 1,059 |
 | 15 | [saviro-orin](https://github.com/saviro-orin) | Orin | Cayman Islands | 1,058 |
-| 16 | [BaltasarAroso](https://github.com/BaltasarAroso) | Baltasar Aroso | George Town, Cayman Islands | 1,042 |
+| 16 | [BaltasarAroso](https://github.com/BaltasarAroso) | Baltasar Aroso | George Town, Cayman Islands | 1,044 |
 | 17 | [Gise345](https://github.com/Gise345) | Giselle Johnson | Cayman Islands | 960 |
 | 18 | [sharkzp](https://github.com/sharkzp) | Alex Topalov | Cayman Islands | 757 |
 | 19 | [zkhan93](https://github.com/zkhan93) | Zeeshan Khan | Cayman Islands | 700 |
@@ -53,7 +53,7 @@ Indexed users: 124
 | 14 | [zkhan93](https://github.com/zkhan93) | Zeeshan Khan | Cayman Islands | 177 |
 | 15 | [HamoonSoleimani](https://github.com/HamoonSoleimani) | Hamoon Soleimani | Cayman Islands | 160 |
 | 16 | [RaisinBread42](https://github.com/RaisinBread42) | Shannon Williams | Cayman Islands | 154 |
-| 17 | [NazgulT](https://github.com/NazgulT) | Nazgul Sagatova | Cayman Islands | 142 |
+| 17 | [NazgulT](https://github.com/NazgulT) | Nazgul Sagatova | Cayman Islands | 133 |
 | 18 | [paulofierro](https://github.com/paulofierro) | Paulo Fierro | Cayman Islands | 131 |
 | 19 | [SuperMohit](https://github.com/SuperMohit) | Mohit Talniya | Cayman Islands | 60 |
 | 20 | [keVIMena98](https://github.com/keVIMena98) | Kevin Ramirez | Cayman Islands | 53 |
@@ -83,4 +83,4 @@ Indexed users: 124
 | 19 | [dcimring](https://github.com/dcimring) | Daniel | Cayman Islands | 16 |
 | 20 | [RJDevGroup](https://github.com/RJDevGroup) | RJ Dev Group | George Town | 15 |
 
-Generated: 2026-10-20T03:32:50.424Z
+Generated: 2026-10-20T06:53:27.458Z

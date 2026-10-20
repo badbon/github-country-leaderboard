@@ -1,12 +1,12 @@
 # Followers - Turkmenistan
 
-Generated: 2026-10-20T03:13:39.140Z
+Generated: 2026-10-20T06:29:45.541Z
 
 Users: 501
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [Kemalstudio](https://github.com/Kemalstudio) | Kemal Atayev | . |  | Turkmenistan / Ashgabat | 260 |
+| 1 | [Kemalstudio](https://github.com/Kemalstudio) | Kemal Atayev | . |  | Turkmenistan / Ashgabat | 259 |
 | 2 | [evgeniy-dammer](https://github.com/evgeniy-dammer) | Evgeniy Dammer |  |  | Ashgabat, Turkmenistan | 165 |
 | 3 | [MaysaShad](https://github.com/MaysaShad) |  |  |  | Ashgabat | 148 |
 | 4 | [saggeldi](https://github.com/saggeldi) | Shageldi Alyyew |  |  | Turkmenistan | 140 |

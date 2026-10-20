@@ -1,6 +1,6 @@
 # Algeria
 
-Indexed users: 5,780
+Indexed users: 5,778
 
 | Leaderboard | Link |
 |---|---|
@@ -43,8 +43,8 @@ Indexed users: 5,780
 | 4 | [selmahacii](https://github.com/selmahacii) | selma haci | Algiers, Algeria | 3,747 |
 | 5 | [BELYAGOUBIABDELILAH](https://github.com/BELYAGOUBIABDELILAH) | abdelilah | Algeria | 3,682 |
 | 6 | [Alaa-Younsi](https://github.com/Alaa-Younsi) | Alaa Younsi | Algeria | 2,802 |
-| 7 | [rayandripo](https://github.com/rayandripo) | Rayan | Algiers | 2,785 |
-| 8 | [phantekzy](https://github.com/phantekzy) | Maini Lotfi  | Algiers,Algeria | 2,715 |
+| 7 | [phantekzy](https://github.com/phantekzy) | Maini Lotfi  | Algiers,Algeria | 2,715 |
+| 8 | [rayandripo](https://github.com/rayandripo) | Rayan | Algiers | 2,525 |
 | 9 | [AchrefBoub](https://github.com/AchrefBoub) | Achref | Algeria | 2,486 |
 | 10 | [ndpm13](https://github.com/ndpm13) | Naz | M'sila, Algeria | 2,158 |
 | 11 | [Vtheonly](https://github.com/Vtheonly) | Mersel Fares | Algeria | 2,122 |
@@ -79,8 +79,8 @@ Indexed users: 5,780
 | 15 | [h4x0r-dz](https://github.com/h4x0r-dz) | h4x0r_dz | Algeria | 832 |
 | 16 | [Midou-Mni](https://github.com/Midou-Mni) | Midou | Algeria | 798 |
 | 17 | [mssm199996](https://github.com/mssm199996) | MOULEY SLIMANE Sidi Mohamed | Algeria, Tlemcen | 772 |
-| 18 | [Hmida71](https://github.com/Hmida71) | Hmida71 | Algeria,mostaganem | 752 |
+| 18 | [Hmida71](https://github.com/Hmida71) | Hmida71 | Algeria,mostaganem | 751 |
 | 19 | [sabri-zaki](https://github.com/sabri-zaki) | sabri zakaria | Algeria | 686 |
 | 20 | [Hamza5](https://github.com/Hamza5) | Hamza Abbad | Algeria | 669 |
 
-Generated: 2026-10-20T03:21:24.986Z
+Generated: 2026-10-20T06:38:48.505Z

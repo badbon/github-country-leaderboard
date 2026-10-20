@@ -1,6 +1,6 @@
 # Total Contributions - Yemen
 
-Generated: 2026-10-20T03:19:16.884Z
+Generated: 2026-10-20T06:36:42.827Z
 
 Users: 1205
 
@@ -25,4 +25,4 @@ Users: 1205
 | 17 | [mr3od](https://github.com/mr3od) | Abdulrahman | @nexumind-com  |  | Yemen | 6679 |
 | 18 | [yousef-aman](https://github.com/yousef-aman) | Yousef Aman |  | YousefAmanDev | Yemen | 6358 |
 | 19 | [abdulsalam-alhammadi](https://github.com/abdulsalam-alhammadi) | Abdulsalam AL-Hammadi | @Azora POS,@Yemen Waseet inc. | hammadi_salamy | Yemen ,Sanaa - Hadda Street | 6225 |
-| 20 | [Jabri-web](https://github.com/Jabri-web) | Abdulla Al-Jabri | Yemen |  | Haziz- Sana'a | 6182 |
+| 20 | [mrwan-1](https://github.com/mrwan-1) | Marwan Abdullah | Step Forward YE |  | Yemen , Sanaa | 6193 |

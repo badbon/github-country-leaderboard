@@ -1,6 +1,6 @@
 # Public Contributions - Barbados
 
-Generated: 2026-10-20T03:25:39.114Z
+Generated: 2026-10-20T06:44:31.533Z
 
 Users: 132
 
@@ -11,10 +11,10 @@ Users: 132
 | 3 | [caritechsolutions](https://github.com/caritechsolutions) |  |  |  | Barbados | 411 |
 | 4 | [shaquillehinds](https://github.com/shaquillehinds) | Shaquille Hinds |  |  | Barbados | 357 |
 | 5 | [jlayne246](https://github.com/jlayne246) | Joshua Layne |  |  | Bridgetown, Barbados | 307 |
-| 6 | [daley-mottley](https://github.com/daley-mottley) | Daley Mottley |  | DaleyMottley | Barbados | 266 |
+| 6 | [daley-mottley](https://github.com/daley-mottley) | Daley Mottley |  | DaleyMottley | Barbados | 271 |
 | 7 | [BlueRoyy](https://github.com/BlueRoyy) | Kenroy Ronnie Roach | Electoral and Boundaries Commission |  | Barbados | 226 |
 | 8 | [lukehefson](https://github.com/lukehefson) | Luke Hefson | @workbrew | lukehefson | Barbados | 220 |
-| 9 | [d-alleyne](https://github.com/d-alleyne) | Damien Alleyne |  |  | Barbados | 173 |
+| 9 | [d-alleyne](https://github.com/d-alleyne) | Damien Alleyne |  |  | Barbados | 175 |
 | 10 | [jasonals](https://github.com/jasonals) | Jason Als | @mMoneyBB |  | Barbados | 150 |
 | 11 | [ShamarKellman](https://github.com/ShamarKellman) | Shamar Kellman |  | CoderShamar | Barbados | 141 |
 | 12 | [dario-j-c](https://github.com/dario-j-c) | Dario J C |  |  | Barbados | 133 |

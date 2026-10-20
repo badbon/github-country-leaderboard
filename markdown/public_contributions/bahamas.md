@@ -1,12 +1,12 @@
 # Public Contributions - Bahamas
 
-Generated: 2026-10-20T03:24:03.910Z
+Generated: 2026-10-20T06:42:45.796Z
 
 Users: 236
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [Tec4Sho](https://github.com/Tec4Sho) | Ziona |  |  | Nassau, Bahamas  | 828 |
+| 1 | [Tec4Sho](https://github.com/Tec4Sho) | Ziona |  |  | Nassau, Bahamas  | 794 |
 | 2 | [gtsbahamas](https://github.com/gtsbahamas) | Ty Wells | FrankLabs |  | Nassau, Bahamas | 343 |
 | 3 | [mikepadiernos](https://github.com/mikepadiernos) | Mike Padiernos | TCS, GE Aerospace |  | Nassau County, NY | 297 |
 | 4 | [avolel](https://github.com/avolel) | Andre Volel |  |  | Nassau County, NY | 262 |
@@ -24,5 +24,5 @@ Users: 236
 | 16 | [caynetic](https://github.com/caynetic) | Caynetic | Caynetic Ltd. |  | Nassau, Bahamas | 50 |
 | 17 | [EmmanuelAlcime](https://github.com/EmmanuelAlcime) | Emmanuel Alcime | M.I.N.D Bahamas |  | Nassau, The Bahamas | 50 |
 | 18 | [amcollie](https://github.com/amcollie) | Alexandros Collie | Department of Information Technology |  | Nassau, Bahamas | 47 |
-| 19 | [TerryJG](https://github.com/TerryJG) | Terrance |  |  | Nassau, Bahamas | 39 |
-| 20 | [Wraami](https://github.com/Wraami) | Wraami |  |  | Cat Island, Bahamas | 39 |
+| 19 | [Wraami](https://github.com/Wraami) | Wraami |  |  | Cat Island, Bahamas | 39 |
+| 20 | [TerryJG](https://github.com/TerryJG) | Terrance |  |  | Nassau, Bahamas | 38 |

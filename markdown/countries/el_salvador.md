@@ -30,8 +30,8 @@ Indexed users: 2,378
 | 16 | [aedneth](https://github.com/aedneth) | Eduardo A. Borjas | San Salvador, El Salvador | 4,934 |
 | 17 | [eduard-gonzalez](https://github.com/eduard-gonzalez) | Efrain Gonzalez | El Salvador | 4,888 |
 | 18 | [wmacall](https://github.com/wmacall) | Macall | El Salvador | 4,863 |
-| 19 | [LemonMantis5571](https://github.com/LemonMantis5571) | Leonel Guerrero | El Salvador | 4,603 |
-| 20 | [lucario028](https://github.com/lucario028) | Lucaritas | El Salvador | 4,586 |
+| 19 | [lucario028](https://github.com/lucario028) | Lucaritas | El Salvador | 4,824 |
+| 20 | [LemonMantis5571](https://github.com/LemonMantis5571) | Leonel Guerrero | El Salvador | 4,603 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 2,378
 | 19 | [MiPrimerBitcoin](https://github.com/MiPrimerBitcoin) | Mi Primer Bitcoin El Salvador | El Salvador | 97 |
 | 20 | [davequinta](https://github.com/davequinta) | David Quintanilla | El Salvador | 95 |
 
-Generated: 2026-10-20T03:40:03.982Z
+Generated: 2026-10-20T07:01:55.607Z

@@ -1,8 +1,8 @@
 # Public Contributions - Algeria
 
-Generated: 2026-10-20T03:21:24.986Z
+Generated: 2026-10-20T06:38:48.505Z
 
-Users: 5780
+Users: 5778
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -12,8 +12,8 @@ Users: 5780
 | 4 | [selmahacii](https://github.com/selmahacii) | selma haci |  |  | Algiers, Algeria | 3747 |
 | 5 | [BELYAGOUBIABDELILAH](https://github.com/BELYAGOUBIABDELILAH) | abdelilah |  |  | Algeria | 3682 |
 | 6 | [Alaa-Younsi](https://github.com/Alaa-Younsi) | Alaa Younsi |  | ashv3il | Algeria | 2802 |
-| 7 | [rayandripo](https://github.com/rayandripo) | Rayan |  | rayandpo | Algiers | 2785 |
-| 8 | [phantekzy](https://github.com/phantekzy) | Maini Lotfi  | @Imainigination |  | Algiers,Algeria | 2715 |
+| 7 | [phantekzy](https://github.com/phantekzy) | Maini Lotfi  | @Imainigination |  | Algiers,Algeria | 2715 |
+| 8 | [rayandripo](https://github.com/rayandripo) | Rayan |  | rayandpo | Algiers | 2525 |
 | 9 | [AchrefBoub](https://github.com/AchrefBoub) | Achref |  |  | Algeria | 2486 |
 | 10 | [ndpm13](https://github.com/ndpm13) | Naz | @noid-linux  |  | M'sila, Algeria | 2158 |
 | 11 | [Vtheonly](https://github.com/Vtheonly) | Mersel Fares | Make it Visual |  | Algeria | 2122 |

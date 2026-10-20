@@ -7,7 +7,7 @@ Published countries: 234
 | [Afghanistan](countries/afghanistan.md) | 1,488 | [Public](public_contributions/afghanistan.md) | [Total](total_contributions/afghanistan.md) | [Followers](followers/afghanistan.md) |
 | [Åland Islands](countries/aland_islands.md) | 61 | [Public](public_contributions/aland_islands.md) | [Total](total_contributions/aland_islands.md) | [Followers](followers/aland_islands.md) |
 | [Albania](countries/albania.md) | 1,183 | [Public](public_contributions/albania.md) | [Total](total_contributions/albania.md) | [Followers](followers/albania.md) |
-| [Algeria](countries/algeria.md) | 5,780 | [Public](public_contributions/algeria.md) | [Total](total_contributions/algeria.md) | [Followers](followers/algeria.md) |
+| [Algeria](countries/algeria.md) | 5,778 | [Public](public_contributions/algeria.md) | [Total](total_contributions/algeria.md) | [Followers](followers/algeria.md) |
 | [American Samoa](countries/american_samoa.md) | 5 | [Public](public_contributions/american_samoa.md) | [Total](total_contributions/american_samoa.md) | [Followers](followers/american_samoa.md) |
 | [Andorra](countries/andorra.md) | 215 | [Public](public_contributions/andorra.md) | [Total](total_contributions/andorra.md) | [Followers](followers/andorra.md) |
 | [Angola](countries/angola.md) | 2,498 | [Public](public_contributions/angola.md) | [Total](total_contributions/angola.md) | [Followers](followers/angola.md) |
@@ -23,7 +23,7 @@ Published countries: 234
 | [Bahrain](countries/bahrain.md) | 727 | [Public](public_contributions/bahrain.md) | [Total](total_contributions/bahrain.md) | [Followers](followers/bahrain.md) |
 | [Bangladesh](countries/bangladesh.md) | 55,314 | [Public](public_contributions/bangladesh.md) | [Total](total_contributions/bangladesh.md) | [Followers](followers/bangladesh.md) |
 | [Barbados](countries/barbados.md) | 132 | [Public](public_contributions/barbados.md) | [Total](total_contributions/barbados.md) | [Followers](followers/barbados.md) |
-| [Belarus](countries/belarus.md) | 10,928 | [Public](public_contributions/belarus.md) | [Total](total_contributions/belarus.md) | [Followers](followers/belarus.md) |
+| [Belarus](countries/belarus.md) | 10,927 | [Public](public_contributions/belarus.md) | [Total](total_contributions/belarus.md) | [Followers](followers/belarus.md) |
 | [Belgium](countries/belgium.md) | 18,378 | [Public](public_contributions/belgium.md) | [Total](total_contributions/belgium.md) | [Followers](followers/belgium.md) |
 | [Belize](countries/belize.md) | 94 | [Public](public_contributions/belize.md) | [Total](total_contributions/belize.md) | [Followers](followers/belize.md) |
 | [Benin](countries/benin.md) | 471 | [Public](public_contributions/benin.md) | [Total](total_contributions/benin.md) | [Followers](followers/benin.md) |
@@ -58,7 +58,7 @@ Published countries: 234
 | [Curaçao](countries/curacao.md) | 53 | [Public](public_contributions/curacao.md) | [Total](total_contributions/curacao.md) | [Followers](followers/curacao.md) |
 | [Cyprus](countries/cyprus.md) | 2,723 | [Public](public_contributions/cyprus.md) | [Total](total_contributions/cyprus.md) | [Followers](followers/cyprus.md) |
 | [Czechia](countries/czechia.md) | 16,200 | [Public](public_contributions/czechia.md) | [Total](total_contributions/czechia.md) | [Followers](followers/czechia.md) |
-| [Denmark](countries/denmark.md) | 19,301 | [Public](public_contributions/denmark.md) | [Total](total_contributions/denmark.md) | [Followers](followers/denmark.md) |
+| [Denmark](countries/denmark.md) | 19,300 | [Public](public_contributions/denmark.md) | [Total](total_contributions/denmark.md) | [Followers](followers/denmark.md) |
 | [Djibouti](countries/djibouti.md) | 55 | [Public](public_contributions/djibouti.md) | [Total](total_contributions/djibouti.md) | [Followers](followers/djibouti.md) |
 | [Dominica](countries/dominica.md) | 18 | [Public](public_contributions/dominica.md) | [Total](total_contributions/dominica.md) | [Followers](followers/dominica.md) |
 | [Dominican Republic](countries/dominican_republic.md) | 3,297 | [Public](public_contributions/dominican_republic.md) | [Total](total_contributions/dominican_republic.md) | [Followers](followers/dominican_republic.md) |
@@ -80,7 +80,7 @@ Published countries: 234
 | [French Southern and Antarctic Lands](countries/french_southern_and_antarctic_lands.md) | 4 | [Public](public_contributions/french_southern_and_antarctic_lands.md) | [Total](total_contributions/french_southern_and_antarctic_lands.md) | [Followers](followers/french_southern_and_antarctic_lands.md) |
 | [Gabon](countries/gabon.md) | 314 | [Public](public_contributions/gabon.md) | [Total](total_contributions/gabon.md) | [Followers](followers/gabon.md) |
 | [Gambia](countries/gambia.md) | 79 | [Public](public_contributions/gambia.md) | [Total](total_contributions/gambia.md) | [Followers](followers/gambia.md) |
-| [Georgia](countries/georgia.md) | 6,877 | [Public](public_contributions/georgia.md) | [Total](total_contributions/georgia.md) | [Followers](followers/georgia.md) |
+| [Georgia](countries/georgia.md) | 6,876 | [Public](public_contributions/georgia.md) | [Total](total_contributions/georgia.md) | [Followers](followers/georgia.md) |
 | [Ghana](countries/ghana.md) | 7,077 | [Public](public_contributions/ghana.md) | [Total](total_contributions/ghana.md) | [Followers](followers/ghana.md) |
 | [Gibraltar](countries/gibraltar.md) | 93 | [Public](public_contributions/gibraltar.md) | [Total](total_contributions/gibraltar.md) | [Followers](followers/gibraltar.md) |
 | [Greece](countries/greece.md) | 15,539 | [Public](public_contributions/greece.md) | [Total](total_contributions/greece.md) | [Followers](followers/greece.md) |
@@ -188,7 +188,7 @@ Published countries: 234
 | [São Tomé and Príncipe](countries/sao_tome_and_principe.md) | 20 | [Public](public_contributions/sao_tome_and_principe.md) | [Total](total_contributions/sao_tome_and_principe.md) | [Followers](followers/sao_tome_and_principe.md) |
 | [Saudi Arabia](countries/saudi_arabia.md) | 7,738 | [Public](public_contributions/saudi_arabia.md) | [Total](total_contributions/saudi_arabia.md) | [Followers](followers/saudi_arabia.md) |
 | [Senegal](countries/senegal.md) | 1,355 | [Public](public_contributions/senegal.md) | [Total](total_contributions/senegal.md) | [Followers](followers/senegal.md) |
-| [Serbia](countries/serbia.md) | 10,654 | [Public](public_contributions/serbia.md) | [Total](total_contributions/serbia.md) | [Followers](followers/serbia.md) |
+| [Serbia](countries/serbia.md) | 10,655 | [Public](public_contributions/serbia.md) | [Total](total_contributions/serbia.md) | [Followers](followers/serbia.md) |
 | [Seychelles](countries/seychelles.md) | 1,770 | [Public](public_contributions/seychelles.md) | [Total](total_contributions/seychelles.md) | [Followers](followers/seychelles.md) |
 | [Sierra Leone](countries/sierra_leone.md) | 442 | [Public](public_contributions/sierra_leone.md) | [Total](total_contributions/sierra_leone.md) | [Followers](followers/sierra_leone.md) |
 | [Singapore](countries/singapore.md) | 24,701 | [Public](public_contributions/singapore.md) | [Total](total_contributions/singapore.md) | [Followers](followers/singapore.md) |
@@ -205,20 +205,20 @@ Published countries: 234
 | [Sudan](countries/sudan.md) | 727 | [Public](public_contributions/sudan.md) | [Total](total_contributions/sudan.md) | [Followers](followers/sudan.md) |
 | [Suriname](countries/suriname.md) | 123 | [Public](public_contributions/suriname.md) | [Total](total_contributions/suriname.md) | [Followers](followers/suriname.md) |
 | [Svalbard and Jan Mayen](countries/svalbard_and_jan_mayen.md) | 10 | [Public](public_contributions/svalbard_and_jan_mayen.md) | [Total](total_contributions/svalbard_and_jan_mayen.md) | [Followers](followers/svalbard_and_jan_mayen.md) |
-| [Sweden](countries/sweden.md) | 39,033 | [Public](public_contributions/sweden.md) | [Total](total_contributions/sweden.md) | [Followers](followers/sweden.md) |
+| [Sweden](countries/sweden.md) | 39,031 | [Public](public_contributions/sweden.md) | [Total](total_contributions/sweden.md) | [Followers](followers/sweden.md) |
 | [Switzerland](countries/switzerland.md) | 24,078 | [Public](public_contributions/switzerland.md) | [Total](total_contributions/switzerland.md) | [Followers](followers/switzerland.md) |
 | [Syria](countries/syria.md) | 1,480 | [Public](public_contributions/syria.md) | [Total](total_contributions/syria.md) | [Followers](followers/syria.md) |
 | [Taiwan](countries/taiwan.md) | 21,994 | [Public](public_contributions/taiwan.md) | [Total](total_contributions/taiwan.md) | [Followers](followers/taiwan.md) |
 | [Tajikistan](countries/tajikistan.md) | 708 | [Public](public_contributions/tajikistan.md) | [Total](total_contributions/tajikistan.md) | [Followers](followers/tajikistan.md) |
 | [Tanzania](countries/tanzania.md) | 2,037 | [Public](public_contributions/tanzania.md) | [Total](total_contributions/tanzania.md) | [Followers](followers/tanzania.md) |
-| [Thailand](countries/thailand.md) | 14,994 | [Public](public_contributions/thailand.md) | [Total](total_contributions/thailand.md) | [Followers](followers/thailand.md) |
+| [Thailand](countries/thailand.md) | 14,993 | [Public](public_contributions/thailand.md) | [Total](total_contributions/thailand.md) | [Followers](followers/thailand.md) |
 | [Timor-Leste](countries/timor_leste.md) | 77 | [Public](public_contributions/timor_leste.md) | [Total](total_contributions/timor_leste.md) | [Followers](followers/timor_leste.md) |
 | [Togo](countries/togo.md) | 678 | [Public](public_contributions/togo.md) | [Total](total_contributions/togo.md) | [Followers](followers/togo.md) |
 | [Tokelau](countries/tokelau.md) | 4 | [Public](public_contributions/tokelau.md) | [Total](total_contributions/tokelau.md) | [Followers](followers/tokelau.md) |
 | [Tonga](countries/tonga.md) | 9 | [Public](public_contributions/tonga.md) | [Total](total_contributions/tonga.md) | [Followers](followers/tonga.md) |
 | [Trinidad and Tobago](countries/trinidad_and_tobago.md) | 256 | [Public](public_contributions/trinidad_and_tobago.md) | [Total](total_contributions/trinidad_and_tobago.md) | [Followers](followers/trinidad_and_tobago.md) |
 | [Tunisia](countries/tunisia.md) | 7,163 | [Public](public_contributions/tunisia.md) | [Total](total_contributions/tunisia.md) | [Followers](followers/tunisia.md) |
-| [Turkey](countries/turkey.md) | 79,172 | [Public](public_contributions/turkey.md) | [Total](total_contributions/turkey.md) | [Followers](followers/turkey.md) |
+| [Turkey](countries/turkey.md) | 79,173 | [Public](public_contributions/turkey.md) | [Total](total_contributions/turkey.md) | [Followers](followers/turkey.md) |
 | [Turkmenistan](countries/turkmenistan.md) | 501 | [Public](public_contributions/turkmenistan.md) | [Total](total_contributions/turkmenistan.md) | [Followers](followers/turkmenistan.md) |
 | [Turks and Caicos Islands](countries/turks_and_caicos_islands.md) | 7 | [Public](public_contributions/turks_and_caicos_islands.md) | [Total](total_contributions/turks_and_caicos_islands.md) | [Followers](followers/turks_and_caicos_islands.md) |
 | [Tuvalu](countries/tuvalu.md) | 11 | [Public](public_contributions/tuvalu.md) | [Total](total_contributions/tuvalu.md) | [Followers](followers/tuvalu.md) |
@@ -239,4 +239,4 @@ Published countries: 234
 | [Zambia](countries/zambia.md) | 1,337 | [Public](public_contributions/zambia.md) | [Total](total_contributions/zambia.md) | [Followers](followers/zambia.md) |
 | [Zimbabwe](countries/zimbabwe.md) | 1,656 | [Public](public_contributions/zimbabwe.md) | [Total](total_contributions/zimbabwe.md) | [Followers](followers/zimbabwe.md) |
 
-Generated: 2026-10-20T06:23:21.998Z
+Generated: 2026-10-20T07:04:19.535Z

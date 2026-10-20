@@ -23,11 +23,11 @@ Indexed users: 236
 | 9 | [justnardo](https://github.com/justnardo) | Just_Nardo | Bahamas | 1,405 |
 | 10 | [jsphpndr](https://github.com/jsphpndr) | Joseph Pinder | Bahamas | 1,215 |
 | 11 | [TRL242](https://github.com/TRL242) | Roy Lockhart | Victoria, BC and Freeport, Bahamas | 1,110 |
-| 12 | [Tec4Sho](https://github.com/Tec4Sho) | Ziona | Nassau, Bahamas  | 828 |
-| 13 | [Johndiddles](https://github.com/Johndiddles) | Johndiddles | Nassau, Bahamas | 824 |
-| 14 | [TerryJG](https://github.com/TerryJG) | Terrance | Nassau, Bahamas | 739 |
-| 15 | [Clearwood](https://github.com/Clearwood) |  | Bahamas | 735 |
-| 16 | [dorson755](https://github.com/dorson755) | Dorson Williams | Nassau Bahamas | 733 |
+| 12 | [Johndiddles](https://github.com/Johndiddles) | Johndiddles | Nassau, Bahamas | 824 |
+| 13 | [Tec4Sho](https://github.com/Tec4Sho) | Ziona | Nassau, Bahamas  | 794 |
+| 14 | [Clearwood](https://github.com/Clearwood) |  | Bahamas | 735 |
+| 15 | [dorson755](https://github.com/dorson755) | Dorson Williams | Nassau Bahamas | 733 |
+| 16 | [TerryJG](https://github.com/TerryJG) | Terrance | Nassau, Bahamas | 724 |
 | 17 | [mikepadiernos](https://github.com/mikepadiernos) | Mike Padiernos | Nassau County, NY | 611 |
 | 18 | [nhayling](https://github.com/nhayling) | Noah Hayling | Nassau, The Bahamas | 557 |
 | 19 | [avolel](https://github.com/avolel) | Andre Volel | Nassau County, NY | 366 |
@@ -37,7 +37,7 @@ Indexed users: 236
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [Tec4Sho](https://github.com/Tec4Sho) | Ziona | Nassau, Bahamas  | 828 |
+| 1 | [Tec4Sho](https://github.com/Tec4Sho) | Ziona | Nassau, Bahamas  | 794 |
 | 2 | [gtsbahamas](https://github.com/gtsbahamas) | Ty Wells | Nassau, Bahamas | 343 |
 | 3 | [mikepadiernos](https://github.com/mikepadiernos) | Mike Padiernos | Nassau County, NY | 297 |
 | 4 | [avolel](https://github.com/avolel) | Andre Volel | Nassau County, NY | 262 |
@@ -55,8 +55,8 @@ Indexed users: 236
 | 16 | [caynetic](https://github.com/caynetic) | Caynetic | Nassau, Bahamas | 50 |
 | 17 | [EmmanuelAlcime](https://github.com/EmmanuelAlcime) | Emmanuel Alcime | Nassau, The Bahamas | 50 |
 | 18 | [amcollie](https://github.com/amcollie) | Alexandros Collie | Nassau, Bahamas | 47 |
-| 19 | [TerryJG](https://github.com/TerryJG) | Terrance | Nassau, Bahamas | 39 |
-| 20 | [Wraami](https://github.com/Wraami) | Wraami | Cat Island, Bahamas | 39 |
+| 19 | [Wraami](https://github.com/Wraami) | Wraami | Cat Island, Bahamas | 39 |
+| 20 | [TerryJG](https://github.com/TerryJG) | Terrance | Nassau, Bahamas | 38 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 236
 | 19 | [paulcitarella](https://github.com/paulcitarella) | Paul Citarella | George Town, Bahamas | 16 |
 | 20 | [yemix](https://github.com/yemix) |  | Bahamas | 14 |
 
-Generated: 2026-10-20T03:24:03.910Z
+Generated: 2026-10-20T06:42:45.796Z

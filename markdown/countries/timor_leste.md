@@ -14,12 +14,12 @@ Indexed users: 77
 |---:|---|---|---|---:|
 | 1 | [joshbrooks](https://github.com/joshbrooks) | Joshua Brooks | Dili, Timor-Leste | 11,124 |
 | 2 | [Akokonunes](https://github.com/Akokonunes) | Roberto Nunes | Timor-Leste | 2,211 |
-| 3 | [Noro18](https://github.com/Noro18) | Ezequiel Vieira Gonzaga Macedo | Timor Leste  | 1,697 |
+| 3 | [Noro18](https://github.com/Noro18) | Ezequiel Vieira Gonzaga Macedo | Timor Leste  | 1,698 |
 | 4 | [marobo](https://github.com/marobo) | Onorio de Jesus Afonso | Dili, East Timor | 1,006 |
 | 5 | [abindacarmo](https://github.com/abindacarmo) | Brigida de Carvalho Carmo | Timor-Leste | 840 |
 | 6 | [zemalay](https://github.com/zemalay) | Geovannio Frederico de Jesus Vinhas | Dili, Timor-Leste | 602 |
 | 7 | [ajitonelsonn](https://github.com/ajitonelsonn) | Ajito Nelson | Timor Leste | 434 |
-| 8 | [JabesNelma](https://github.com/JabesNelma) | Jay | Dili, Timor-Leste | 344 |
+| 8 | [JabesNelma](https://github.com/JabesNelma) | Jay | Dili, Timor-Leste | 348 |
 | 9 | [raul-amaral](https://github.com/raul-amaral) | Raul Amaral | Timor-Leste | 339 |
 | 10 | [amandio-eto](https://github.com/amandio-eto) | Jose Amandio de Almeida | Rua china Rate Lahane Oreintal Dili Timor Leste | 213 |
 | 11 | [TiagovskiCode](https://github.com/TiagovskiCode) | Tiago Teixeira  | East-Timor | 189 |
@@ -30,7 +30,7 @@ Indexed users: 77
 | 16 | [timorleste](https://github.com/timorleste) | Degree Background: Information Management (Associate Degree), Information Systems (B.Comp.Sc), Information Technology (M.Eng). Certified Experience in Spatial intelligence, Interested in Photography, Audiovisual Archive and IT-Systems Architect | Dili, Timor-Leste | 41 |
 | 17 | [bmzashura](https://github.com/bmzashura) | Bemis Huntala | Dili, Timor Leste | 36 |
 | 18 | [axlescurial-lang](https://github.com/axlescurial-lang) | EVENSANTA | Timor-leste | 34 |
-| 19 | [XICANO88](https://github.com/XICANO88) | XICANO | Guarda-Iliheu, East Timor | 31 |
+| 19 | [XICANO88](https://github.com/XICANO88) | XICANO | Manatuto, Timor-Leste | 32 |
 | 20 | [pedrix-48](https://github.com/pedrix-48) | Jessua Rodrigues | Dili | 26 |
 
 ## Public Contributions
@@ -38,7 +38,7 @@ Indexed users: 77
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [Akokonunes](https://github.com/Akokonunes) | Roberto Nunes | Timor-Leste | 2,082 |
-| 2 | [Noro18](https://github.com/Noro18) | Ezequiel Vieira Gonzaga Macedo | Timor Leste  | 1,228 |
+| 2 | [Noro18](https://github.com/Noro18) | Ezequiel Vieira Gonzaga Macedo | Timor Leste  | 1,229 |
 | 3 | [joshbrooks](https://github.com/joshbrooks) | Joshua Brooks | Dili, Timor-Leste | 1,062 |
 | 4 | [abindacarmo](https://github.com/abindacarmo) | Brigida de Carvalho Carmo | Timor-Leste | 840 |
 | 5 | [ajitonelsonn](https://github.com/ajitonelsonn) | Ajito Nelson | Timor Leste | 434 |
@@ -53,7 +53,7 @@ Indexed users: 77
 | 14 | [timorleste](https://github.com/timorleste) | Degree Background: Information Management (Associate Degree), Information Systems (B.Comp.Sc), Information Technology (M.Eng). Certified Experience in Spatial intelligence, Interested in Photography, Audiovisual Archive and IT-Systems Architect | Dili, Timor-Leste | 41 |
 | 15 | [bmzashura](https://github.com/bmzashura) | Bemis Huntala | Dili, Timor Leste | 36 |
 | 16 | [axlescurial-lang](https://github.com/axlescurial-lang) | EVENSANTA | Timor-leste | 34 |
-| 17 | [XICANO88](https://github.com/XICANO88) | XICANO | Guarda-Iliheu, East Timor | 31 |
+| 17 | [XICANO88](https://github.com/XICANO88) | XICANO | Manatuto, Timor-Leste | 32 |
 | 18 | [pedrix-48](https://github.com/pedrix-48) | Jessua Rodrigues | Dili | 26 |
 | 19 | [revolta12](https://github.com/revolta12) | NizioDevT | Dili, Timor-Leste | 18 |
 | 20 | [zeviana-zedi](https://github.com/zeviana-zedi) | José Arlindo Rangel Mesquita (Zé) Viana | Dili, Timor-Lestre | 14 |
@@ -83,4 +83,4 @@ Indexed users: 77
 | 19 | [joshbrooks](https://github.com/joshbrooks) | Joshua Brooks | Dili, Timor-Leste | 6 |
 | 20 | [KituDoutel](https://github.com/KituDoutel) | Francisco KiTu | Dili, Timor-Leste 🇹🇱 | 6 |
 
-Generated: 2026-10-20T03:12:28.517Z
+Generated: 2026-10-20T06:27:38.597Z

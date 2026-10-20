@@ -1,8 +1,8 @@
 # Followers - Algeria
 
-Generated: 2026-10-20T03:21:24.986Z
+Generated: 2026-10-20T06:38:48.505Z
 
-Users: 5780
+Users: 5778
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -23,6 +23,6 @@ Users: 5780
 | 15 | [h4x0r-dz](https://github.com/h4x0r-dz) | h4x0r_dz | Barika | h4x0r_dz | Algeria | 832 |
 | 16 | [Midou-Mni](https://github.com/Midou-Mni) | Midou |  |  | Algeria | 798 |
 | 17 | [mssm199996](https://github.com/mssm199996) | MOULEY SLIMANE Sidi Mohamed | ESI SBA |  | Algeria, Tlemcen | 772 |
-| 18 | [Hmida71](https://github.com/Hmida71) | Hmida71 | TM71 | hmida71 | Algeria,mostaganem | 752 |
+| 18 | [Hmida71](https://github.com/Hmida71) | Hmida71 | TM71 | hmida71 | Algeria,mostaganem | 751 |
 | 19 | [sabri-zaki](https://github.com/sabri-zaki) | sabri zakaria |  |  | Algeria | 686 |
 | 20 | [Hamza5](https://github.com/Hamza5) | Hamza Abbad |  |  | Algeria | 669 |
