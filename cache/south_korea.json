@@ -36572,7 +36572,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 61,
+    "publicContributions": 64,
     "createdAt": "2024-03-11T01:27:24Z"
   },
   {
@@ -36644,7 +36644,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 203,
+    "publicContributions": 483,
     "createdAt": "2024-05-22T05:45:28Z"
   },
   {
@@ -36726,8 +36726,8 @@
     "location": "Seoul, Korea",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
+    "followers": 2,
+    "privateContributions": 10,
     "publicContributions": 110,
     "createdAt": "2024-05-01T14:20:56Z"
   },
@@ -36766,18 +36766,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-01-16T08:46:43Z"
-  },
-  {
-    "login": "E-BRL",
-    "name": "Ewha BioRobotics Lab",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/156818589?s=72&u=bc46a7532c5bfbeea24113c55ad68cdcb67e7611&v=4",
-    "location": "Seoul, Korea",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2024-01-16T14:37:51Z"
   },
   {
     "login": "eroun-ai",

@@ -36890,13 +36890,13 @@
   {
     "login": "jonashaeberli",
     "name": "Jonas Häberli",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/118261566?s=72&u=417d238622889ae632c008ef65c37e7eace7b261&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/118261566?s=72&u=a013d7c4741561d8d77cdd608f5c4f46a448ea8a&v=4",
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 5,
     "createdAt": "2022-11-15T09:39:58Z"
   },
   {
@@ -36919,7 +36919,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 27,
+    "privateContributions": 50,
     "publicContributions": 0,
     "createdAt": "2022-07-01T13:05:03Z"
   },
@@ -36930,9 +36930,9 @@
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 30,
+    "publicContributions": 23,
     "createdAt": "2022-08-15T08:06:02Z"
   },
   {
@@ -36942,8 +36942,8 @@
     "location": "Bern",
     "company": "University of Bern",
     "twitterUsername": "",
-    "followers": 25,
-    "privateContributions": 635,
+    "followers": 26,
+    "privateContributions": 575,
     "publicContributions": 71,
     "createdAt": "2022-04-07T10:04:17Z"
   },
@@ -36954,9 +36954,9 @@
     "location": "Bern",
     "company": "University of Bern",
     "twitterUsername": "",
-    "followers": 17,
+    "followers": 18,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 33,
     "createdAt": "2022-04-25T21:49:02Z"
   },
   {
@@ -36966,9 +36966,9 @@
     "location": "Bern",
     "company": "Data Science Lab",
     "twitterUsername": "",
-    "followers": 16,
+    "followers": 14,
     "privateContributions": 0,
-    "publicContributions": 85,
+    "publicContributions": 115,
     "createdAt": "2022-11-02T13:16:56Z"
   },
   {
@@ -36992,7 +36992,7 @@
     "twitterUsername": "",
     "followers": 14,
     "privateContributions": 25,
-    "publicContributions": 8,
+    "publicContributions": 5,
     "createdAt": "2022-08-09T08:01:32Z"
   },
   {
@@ -37014,9 +37014,9 @@
     "location": "New Bern NC",
     "company": "Island Ghost Stephanie Midnight tools for the XRPL",
     "twitterUsername": "Islandghostxrp",
-    "followers": 13,
+    "followers": 15,
     "privateContributions": 0,
-    "publicContributions": 96,
+    "publicContributions": 58,
     "createdAt": "2022-01-25T13:49:11Z"
   },
   {
@@ -37026,7 +37026,7 @@
     "location": "Bern",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 12,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-03-06T06:21:33Z"
@@ -37038,7 +37038,7 @@
     "location": "Bern",
     "company": "University of Bern",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 9,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-02-11T11:43:14Z"
@@ -37087,8 +37087,8 @@
     "company": "University of Bern",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 208,
-    "publicContributions": 11,
+    "privateContributions": 191,
+    "publicContributions": 23,
     "createdAt": "2022-10-31T08:47:33Z"
   },
   {
@@ -37098,7 +37098,7 @@
     "location": "Bern",
     "company": "Richifun",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-10-22T21:21:22Z"
@@ -37112,7 +37112,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 9,
     "createdAt": "2022-12-01T13:25:37Z"
   },
   {
@@ -37123,7 +37123,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 227,
+    "privateContributions": 1061,
     "publicContributions": 0,
     "createdAt": "2022-05-17T21:40:02Z"
   },

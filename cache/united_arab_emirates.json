@@ -36906,9 +36906,9 @@
     "location": "United Arab Emirates",
     "company": "@QuarkCyberSystems ",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 1998,
-    "publicContributions": 41,
+    "followers": 11,
+    "privateContributions": 1796,
+    "publicContributions": 33,
     "createdAt": "2016-02-22T10:23:17Z"
   },
   {
@@ -36920,7 +36920,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 118,
+    "publicContributions": 25,
     "createdAt": "2016-01-24T22:52:03Z"
   },
   {
@@ -36942,7 +36942,7 @@
     "location": "Dubai, United Arab Emirates",
     "company": "Excelian | Luxoft Financial Services",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 9,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-02-10T11:29:23Z"
@@ -36956,7 +36956,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2016-02-25T19:34:59Z"
   },
   {
@@ -36967,8 +36967,8 @@
     "company": "@confluentinc ",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 542,
-    "publicContributions": 18,
+    "privateContributions": 422,
+    "publicContributions": 22,
     "createdAt": "2016-03-26T09:34:42Z"
   },
   {
@@ -36979,7 +36979,7 @@
     "company": "Bayut & Dubizzle",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 633,
+    "privateContributions": 927,
     "publicContributions": 0,
     "createdAt": "2016-04-16T12:22:52Z"
   },
@@ -37002,21 +37002,21 @@
     "location": "United Arab Emirates",
     "company": "Devmarines",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 1820,
-    "publicContributions": 1,
+    "followers": 9,
+    "privateContributions": 2365,
+    "publicContributions": 2,
     "createdAt": "2016-10-27T10:12:15Z"
   },
   {
     "login": "monceeef",
     "name": "Moncif Loukili",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/21078545?s=72&u=ab1ec3d50956649d5c169491aa2c40a64c6d6a5a&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/21078545?s=72&v=4",
     "location": "United Arab Emirates",
-    "company": "Trust Wallet",
-    "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 0,
-    "publicContributions": 4,
+    "company": "",
+    "twitterUsername": "moncif",
+    "followers": 11,
+    "privateContributions": 2859,
+    "publicContributions": 0,
     "createdAt": "2016-08-17T09:41:42Z"
   },
   {
@@ -37040,7 +37040,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 31,
+    "publicContributions": 25,
     "createdAt": "2016-12-13T09:37:08Z"
   },
   {
@@ -37051,7 +37051,7 @@
     "company": "Bomdisoft",
     "twitterUsername": "bomdisoft",
     "followers": 7,
-    "privateContributions": 5971,
+    "privateContributions": 13434,
     "publicContributions": 9,
     "createdAt": "2016-08-04T01:39:43Z"
   },
@@ -37062,8 +37062,8 @@
     "location": "Dubai, United Arab Emirates",
     "company": "The Vaults International Payment LLC",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 43,
+    "followers": 9,
+    "privateContributions": 145,
     "publicContributions": 22,
     "createdAt": "2016-05-11T04:44:52Z"
   },
@@ -37099,8 +37099,8 @@
     "company": "@grafana ",
     "twitterUsername": "arturw8i",
     "followers": 7,
-    "privateContributions": 489,
-    "publicContributions": 131,
+    "privateContributions": 1154,
+    "publicContributions": 117,
     "createdAt": "2016-11-14T10:56:48Z"
   },
   {
@@ -37110,22 +37110,10 @@
     "location": "United Arab Emirates",
     "company": "Abu Dhabi Oil National Compnay",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2016-10-26T12:32:21Z"
-  },
-  {
-    "login": "tarnasi",
-    "name": "Shahriyar Tarnasi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/20287858?s=72&u=03c81befd2037392f93d7367c609c8ff9dc31b0c&v=4",
-    "location": "United Arab Emirates",
-    "company": "DevDiaries",
-    "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 20,
-    "publicContributions": 56,
-    "createdAt": "2016-07-04T19:20:18Z"
   },
   {
     "login": "wessama",
