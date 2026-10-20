@@ -1,6 +1,6 @@
 # Total Contributions - Kazakhstan
 
-Generated: 2026-10-20T12:23:48.211Z
+Generated: 2026-10-20T12:32:05.122Z
 
 Users: 5628
 
@@ -24,5 +24,5 @@ Users: 5628
 | 16 | [MisterAlenExe](https://github.com/MisterAlenExe) | Alen Sultanov | Higgsfield AI |  | Astana, Kazakhstan | 8486 |
 | 17 | [shprotx](https://github.com/shprotx) | Arturka Arturka | Ozon |  | Kazakhstan | 8323 |
 | 18 | [Lyamon4](https://github.com/Lyamon4) | alim the coder | @neuralese |  | Astana | 8307 |
-| 19 | [Dias1c](https://github.com/Dias1c) | Dias Kappassov | Higgsfield AI |  | Kazakhstan, Astana | 8236 |
-| 20 | [aa-blinov](https://github.com/aa-blinov) | aa-blinov |  |  | Astana, KZ | 8145 |
+| 19 | [aa-blinov](https://github.com/aa-blinov) | aa-blinov |  |  | Astana, KZ | 8145 |
+| 20 | [AssylanAkhanuly](https://github.com/AssylanAkhanuly) | Assylan Akhanuly | @job-escape  |  | Kazakhstan, Astana | 8088 |

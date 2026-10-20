@@ -77,10 +77,10 @@ Indexed users: 1,072
 | 13 | [mbrksntrk](https://github.com/mbrksntrk) | M Burak Şentürk | Doha, Qatar | 124 |
 | 14 | [sahar-chatti](https://github.com/sahar-chatti) | Sahar Chatti | Qatar | 113 |
 | 15 | [akhalil-qa](https://github.com/akhalil-qa) | Ahmed Khalil | Qatar | 110 |
-| 16 | [kevinpiac](https://github.com/kevinpiac) | Kevin Piacentini | Doha | 108 |
-| 17 | [thouseef-hamza](https://github.com/thouseef-hamza) | Thouseef Hamza T P | Doha, Qatar | 108 |
-| 18 | [thm-msror](https://github.com/thm-msror) | Tehreem Masroor | Al-Rayyan, Qatar | 106 |
-| 19 | [brainconnect93](https://github.com/brainconnect93) | Afolabi Akorede | Al-Wakrah, Qatar | 99 |
-| 20 | [muratyaman](https://github.com/muratyaman) | Haci Murat Yaman | Doha, Qatar | 99 |
+| 16 | [muratyaman](https://github.com/muratyaman) | Haci Murat Yaman | Doha, Qatar | 109 |
+| 17 | [kevinpiac](https://github.com/kevinpiac) | Kevin Piacentini | Doha | 108 |
+| 18 | [thouseef-hamza](https://github.com/thouseef-hamza) | Thouseef Hamza T P | Doha, Qatar | 108 |
+| 19 | [thm-msror](https://github.com/thm-msror) | Tehreem Masroor | Al-Rayyan, Qatar | 106 |
+| 20 | [brainconnect93](https://github.com/brainconnect93) | Afolabi Akorede | Al-Wakrah, Qatar | 99 |
 
-Generated: 2026-10-20T09:22:01.094Z
+Generated: 2026-10-20T12:56:21.996Z

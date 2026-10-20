@@ -48,7 +48,7 @@ Indexed users: 210
 | 9 | [pastoreekahk96](https://github.com/pastoreekahk96) | Pastoreekahk S Arthur | Monrovia, Liberia | 316 |
 | 10 | [AlexUG0104](https://github.com/AlexUG0104) | Alexander Umaña  | Liberia | 285 |
 | 11 | [cruso003](https://github.com/cruso003) | Geitodyu Henrique Crusoe | Paynesville, Liberia | 267 |
-| 12 | [prince14-D](https://github.com/prince14-D) | Dr. Prince W Dahn Jr | Liberia | 255 |
+| 12 | [prince14-D](https://github.com/prince14-D) | Dr. Prince W Dahn Jr | Liberia | 256 |
 | 13 | [SimeonATarr231](https://github.com/SimeonATarr231) | Simeon Aseon Tarr | Buchanan City, Liberia | 210 |
 | 14 | [FitzgeraldChallar](https://github.com/FitzgeraldChallar) | Fitzgerald Challar | Ontario, Canada & Monrovia, Liberia | 207 |
 | 15 | [Deviskalo](https://github.com/Deviskalo) | Dev Iskalo | Monrovia, Liberia | 187 |
@@ -83,4 +83,4 @@ Indexed users: 210
 | 19 | [boaslah](https://github.com/boaslah) | Blessing Boaslah | Montserrado County, Liberia  | 21 |
 | 20 | [ejaygbay](https://github.com/ejaygbay) | Emmanuel Jaygbay | Liberia | 21 |
 
-Generated: 2026-10-20T09:00:20.888Z
+Generated: 2026-10-20T12:36:13.395Z

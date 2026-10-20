@@ -1,6 +1,6 @@
 # Total Contributions - Mozambique
 
-Generated: 2026-10-20T09:08:51.370Z
+Generated: 2026-10-20T12:46:18.727Z
 
 Users: 1175
 
@@ -11,7 +11,7 @@ Users: 1175
 | 3 | [playboybillionaire-prod](https://github.com/playboybillionaire-prod) | Mário jambo | Flow Technologies su, lda |  | Mozambique | 6115 |
 | 4 | [reizen-desu](https://github.com/reizen-desu) | Reizen dos Santos |  | reizen_desu | Maputo, Mozambique | 5943 |
 | 5 | [emagombe](https://github.com/emagombe) | Edson Magombe | @stackmeteor |  | Mozambique | 5839 |
-| 6 | [afonsoDomingos](https://github.com/afonsoDomingos) | Afonso Domingos (Vibe) | Dp Works \| Quinatec Lda \| OmniTrack \| Muv \| Consorcio Pilao \| Mozambique Support Services | KrgVibe | Mozambique-Maputo | 5647 |
+| 6 | [afonsoDomingos](https://github.com/afonsoDomingos) | Afonso Domingos (Vibe) | Dp Works \| Quinatec Lda \| OmniTrack \| Muv \| Consorcio Pilao \| Mozambique Support Services | KrgVibe | Mozambique-Maputo | 5670 |
 | 7 | [hc12r](https://github.com/hc12r) | Pitch dev | Vodacom Mozambique |  | Maputo, Mozambique | 5235 |
 | 8 | [caf-3](https://github.com/caf-3) | Tomas Caetano |  |  | Mozambique Maputo | 4648 |
 | 9 | [JoneBulande](https://github.com/JoneBulande) | Jone  |  | JoneBulande | Maputo, Mozambique | 4478 |

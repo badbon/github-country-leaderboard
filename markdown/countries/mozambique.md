@@ -17,7 +17,7 @@ Indexed users: 1,175
 | 3 | [playboybillionaire-prod](https://github.com/playboybillionaire-prod) | Mário jambo | Mozambique | 6,115 |
 | 4 | [reizen-desu](https://github.com/reizen-desu) | Reizen dos Santos | Maputo, Mozambique | 5,943 |
 | 5 | [emagombe](https://github.com/emagombe) | Edson Magombe | Mozambique | 5,839 |
-| 6 | [afonsoDomingos](https://github.com/afonsoDomingos) | Afonso Domingos (Vibe) | Mozambique-Maputo | 5,647 |
+| 6 | [afonsoDomingos](https://github.com/afonsoDomingos) | Afonso Domingos (Vibe) | Mozambique-Maputo | 5,670 |
 | 7 | [hc12r](https://github.com/hc12r) | Pitch dev | Maputo, Mozambique | 5,235 |
 | 8 | [caf-3](https://github.com/caf-3) | Tomas Caetano | Mozambique Maputo | 4,648 |
 | 9 | [JoneBulande](https://github.com/JoneBulande) | Jone  | Maputo, Mozambique | 4,478 |
@@ -37,7 +37,7 @@ Indexed users: 1,175
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [afonsoDomingos](https://github.com/afonsoDomingos) | Afonso Domingos (Vibe) | Mozambique-Maputo | 5,647 |
+| 1 | [afonsoDomingos](https://github.com/afonsoDomingos) | Afonso Domingos (Vibe) | Mozambique-Maputo | 5,670 |
 | 2 | [Uanela](https://github.com/Uanela) | Uanela Como | Beira, Sofala, Mozambique | 3,807 |
 | 3 | [enoqueJonas](https://github.com/enoqueJonas) | Enoque Macanda | Maputo, Mozambique | 3,405 |
 | 4 | [hc12r](https://github.com/hc12r) | Pitch dev | Maputo, Mozambique | 2,338 |
@@ -83,4 +83,4 @@ Indexed users: 1,175
 | 19 | [enoquetembe](https://github.com/enoquetembe) | Enoque Tembe | Maputo, Mozambique | 111 |
 | 20 | [mariomthree](https://github.com/mariomthree) | Mário M. Mabande | Maputo, Mozambique | 95 |
 
-Generated: 2026-10-20T09:08:51.370Z
+Generated: 2026-10-20T12:46:18.727Z

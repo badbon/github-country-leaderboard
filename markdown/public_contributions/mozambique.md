@@ -1,12 +1,12 @@
 # Public Contributions - Mozambique
 
-Generated: 2026-10-20T09:08:51.370Z
+Generated: 2026-10-20T12:46:18.727Z
 
 Users: 1175
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [afonsoDomingos](https://github.com/afonsoDomingos) | Afonso Domingos (Vibe) | Dp Works \| Quinatec Lda \| OmniTrack \| Muv \| Consorcio Pilao \| Mozambique Support Services | KrgVibe | Mozambique-Maputo | 5647 |
+| 1 | [afonsoDomingos](https://github.com/afonsoDomingos) | Afonso Domingos (Vibe) | Dp Works \| Quinatec Lda \| OmniTrack \| Muv \| Consorcio Pilao \| Mozambique Support Services | KrgVibe | Mozambique-Maputo | 5670 |
 | 2 | [Uanela](https://github.com/Uanela) | Uanela Como | Arkosjs |  | Beira, Sofala, Mozambique | 3807 |
 | 3 | [enoqueJonas](https://github.com/enoqueJonas) | Enoque Macanda | Microverse | enoque_jonas | Maputo, Mozambique | 3405 |
 | 4 | [hc12r](https://github.com/hc12r) | Pitch dev | Vodacom Mozambique |  | Maputo, Mozambique | 2338 |

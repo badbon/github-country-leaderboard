@@ -12,9 +12,9 @@ Indexed users: 160
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [ntholi](https://github.com/ntholi) | Ntholi Nkhatho | Maseru | 7,539 |
+| 1 | [ntholi](https://github.com/ntholi) | Ntholi Nkhatho | Maseru | 7,550 |
 | 2 | [KNkoe](https://github.com/KNkoe) | Katleho Nkoe | Maseru | 2,440 |
-| 3 | [tshakalekholoane](https://github.com/tshakalekholoane) | Tshaka Lekholoane | Maseru, Lesotho | 2,381 |
+| 3 | [tshakalekholoane](https://github.com/tshakalekholoane) | Tshaka Lekholoane | Maseru, Lesotho | 2,388 |
 | 4 | [LomNtetha](https://github.com/LomNtetha) | Lumkile Ntetha | Maseru | 2,110 |
 | 5 | [KamoheloKoali](https://github.com/KamoheloKoali) | Kamohelo Koali | Lesotho | 2,000 |
 | 6 | [Montso-Matlaletsa](https://github.com/Montso-Matlaletsa) | Montso Matlaletsa | Maseru, Lesotho | 1,021 |
@@ -68,7 +68,7 @@ Indexed users: 160
 | 4 | [hitman1c](https://github.com/hitman1c) | SechabaLaptopTracker | Lesotho,Maseru | 61 |
 | 5 | [Tumisangkhabisi](https://github.com/Tumisangkhabisi) | Tumisang khabisi | Lesotho, maseru | 53 |
 | 6 | [Lemohang](https://github.com/Lemohang) | Lemohang57 | Maseru  | 45 |
-| 7 | [khauta](https://github.com/khauta) | Khauta Maliehe | Maseru, Lesotho | 43 |
+| 7 | [khauta](https://github.com/khauta) | Khauta Maliehe | Maseru, Lesotho | 44 |
 | 8 | [khobatha](https://github.com/khobatha) | Khobatha Setetemela | Maseru, Roma, Lesotho | 38 |
 | 9 | [AtomLaw](https://github.com/AtomLaw) | Hlompho | Lesotho | 30 |
 | 10 | [ntholi](https://github.com/ntholi) | Ntholi Nkhatho | Maseru | 30 |
@@ -83,4 +83,4 @@ Indexed users: 160
 | 19 | [lotesm](https://github.com/lotesm) | Lotes Molapo | Maseru, Lesotho | 13 |
 | 20 | [entsoereng](https://github.com/entsoereng) | Mokonyana Ntsoereng | Lesotho | 12 |
 
-Generated: 2026-10-20T08:59:17.777Z
+Generated: 2026-10-20T12:35:29.068Z

@@ -30,8 +30,8 @@ Indexed users: 5,628
 | 16 | [MisterAlenExe](https://github.com/MisterAlenExe) | Alen Sultanov | Astana, Kazakhstan | 8,486 |
 | 17 | [shprotx](https://github.com/shprotx) | Arturka Arturka | Kazakhstan | 8,323 |
 | 18 | [Lyamon4](https://github.com/Lyamon4) | alim the coder | Astana | 8,307 |
-| 19 | [Dias1c](https://github.com/Dias1c) | Dias Kappassov | Kazakhstan, Astana | 8,236 |
-| 20 | [aa-blinov](https://github.com/aa-blinov) | aa-blinov | Astana, KZ | 8,145 |
+| 19 | [aa-blinov](https://github.com/aa-blinov) | aa-blinov | Astana, KZ | 8,145 |
+| 20 | [AssylanAkhanuly](https://github.com/AssylanAkhanuly) | Assylan Akhanuly | Kazakhstan, Astana | 8,088 |
 
 ## Public Contributions
 
@@ -72,9 +72,9 @@ Indexed users: 5,628
 | 8 | [kekekeks](https://github.com/kekekeks) | Nikita Tsukanov | Kazakhstan, Astana | 527 |
 | 9 | [andreikhromushin](https://github.com/andreikhromushin) | Andrei Khromushin | Kazakhstan, Astana | 510 |
 | 10 | [adilkhash](https://github.com/adilkhash) | Adylzhan Khashtamov | Astana, Kazakhstan | 466 |
-| 11 | [ykmnkmi](https://github.com/ykmnkmi) | Olzhas Suleimen | Kazakhstan, Almaty | 437 |
-| 12 | [zerobias](https://github.com/zerobias) | Dmitry | Kazakhstan | 429 |
-| 13 | [D-Mass-RR](https://github.com/D-Mass-RR) | Alan Mit | Astana, Kazakhstan | 428 |
+| 11 | [zerobias](https://github.com/zerobias) | Dmitry | Kazakhstan | 429 |
+| 12 | [D-Mass-RR](https://github.com/D-Mass-RR) | Alan Mit | Astana, Kazakhstan | 428 |
+| 13 | [ykmnkmi](https://github.com/ykmnkmi) | Olzhas Suleimen | Kazakhstan, Almaty | 427 |
 | 14 | [ZhymabekRoman](https://github.com/ZhymabekRoman) | Zhymabek Roman | Kazakhstan | 407 |
 | 15 | [Fsoky](https://github.com/Fsoky) | DanIII ~ | Kazakhstan | 381 |
 | 16 | [SapphoSys](https://github.com/SapphoSys) | Chloe | Almaty, Kazakhstan | 379 |
@@ -83,4 +83,4 @@ Indexed users: 5,628
 | 19 | [aidarnouman](https://github.com/aidarnouman) | Aidar Nouman | Almaty, Kazakhstan | 303 |
 | 20 | [azamxvit](https://github.com/azamxvit) | Azamat | Kazakhstan, Atyrau | 295 |
 
-Generated: 2026-10-20T12:23:48.211Z
+Generated: 2026-10-20T12:32:05.122Z

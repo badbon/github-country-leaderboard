@@ -43,7 +43,7 @@ Indexed users: 111
 | 4 | [tom333](https://github.com/tom333) |  | Nouméa, New Calédonia | 1,477 |
 | 5 | [gvdr](https://github.com/gvdr) | Giulio Valentino Dalla Riva | Noumea, New Caledonia | 739 |
 | 6 | [PLStenger](https://github.com/PLStenger) | Pierre-Louis Stenger | Nouméa, New-Caledonia | 435 |
-| 7 | [jchable](https://github.com/jchable) | Julien CHABLE | Nouméa | 375 |
+| 7 | [jchable](https://github.com/jchable) | Julien CHABLE | Nouméa | 382 |
 | 8 | [Nem0oo](https://github.com/Nem0oo) | Guillaume COURTOT | New-Caledonia | 371 |
 | 9 | [aNaoy](https://github.com/aNaoy) | Yoan Agostini | Nouméa | 345 |
 | 10 | [loxK](https://github.com/loxK) | Laurent Dinclaux | New Caledonia | 342 |
@@ -83,4 +83,4 @@ Indexed users: 111
 | 19 | [gronono](https://github.com/gronono) | Arnaud | New Caledonia | 9 |
 | 20 | [6pheR](https://github.com/6pheR) | CipheR_ | New Caledonia | 8 |
 
-Generated: 2026-10-20T09:10:38.354Z
+Generated: 2026-10-20T12:49:18.431Z

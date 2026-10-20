@@ -64,7 +64,7 @@ Indexed users: 347
 |---:|---|---|---|---:|
 | 1 | [ibrahimkelly](https://github.com/ibrahimkelly) | I-K(***)Y | Mali | 202 |
 | 2 | [rgaudin](https://github.com/rgaudin) | rgaudin | Bamako, Mali | 132 |
-| 3 | [mkantem](https://github.com/mkantem) | Kante Mahamadou | Mali | 120 |
+| 3 | [mkantem](https://github.com/mkantem) | Kante Mahamadou | Mali | 119 |
 | 4 | [IvinoDev](https://github.com/IvinoDev) | Mariam Kayantao | Mali, Bamako | 69 |
 | 5 | [GUIND0](https://github.com/GUIND0) | Souleymane Guindo | Mali | 61 |
 | 6 | [Lex-corp-crypto](https://github.com/Lex-corp-crypto) | Amadou H TRAORE | Mali/Bamako | 57 |
@@ -83,4 +83,4 @@ Indexed users: 347
 | 19 | [AlyKonte](https://github.com/AlyKonte) |  | Mali/Bamako | 27 |
 | 20 | [Dioman-Keita](https://github.com/Dioman-Keita) | Dioman Keïta | Bamako/Mali | 25 |
 
-Generated: 2026-10-20T09:03:35.209Z
+Generated: 2026-10-20T12:39:33.861Z

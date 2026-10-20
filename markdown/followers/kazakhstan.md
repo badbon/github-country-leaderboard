@@ -1,6 +1,6 @@
 # Followers - Kazakhstan
 
-Generated: 2026-10-20T12:23:48.211Z
+Generated: 2026-10-20T12:32:05.122Z
 
 Users: 5628
 
@@ -16,9 +16,9 @@ Users: 5628
 | 8 | [kekekeks](https://github.com/kekekeks) | Nikita Tsukanov |  |  | Kazakhstan, Astana | 527 |
 | 9 | [andreikhromushin](https://github.com/andreikhromushin) | Andrei Khromushin |  |  | Kazakhstan, Astana | 510 |
 | 10 | [adilkhash](https://github.com/adilkhash) | Adylzhan Khashtamov | Founder @ AdsPilot | adilkhash | Astana, Kazakhstan | 466 |
-| 11 | [ykmnkmi](https://github.com/ykmnkmi) | Olzhas Suleimen |  |  | Kazakhstan, Almaty | 437 |
-| 12 | [zerobias](https://github.com/zerobias) | Dmitry |  | zero__bias | Kazakhstan | 429 |
-| 13 | [D-Mass-RR](https://github.com/D-Mass-RR) | Alan Mit | WONK |  | Astana, Kazakhstan | 428 |
+| 11 | [zerobias](https://github.com/zerobias) | Dmitry |  | zero__bias | Kazakhstan | 429 |
+| 12 | [D-Mass-RR](https://github.com/D-Mass-RR) | Alan Mit | WONK |  | Astana, Kazakhstan | 428 |
+| 13 | [ykmnkmi](https://github.com/ykmnkmi) | Olzhas Suleimen |  |  | Kazakhstan, Almaty | 427 |
 | 14 | [ZhymabekRoman](https://github.com/ZhymabekRoman) | Zhymabek Roman |  |  | Kazakhstan | 407 |
 | 15 | [Fsoky](https://github.com/Fsoky) | DanIII ~ | Fsoky Community |  | Kazakhstan | 381 |
 | 16 | [SapphoSys](https://github.com/SapphoSys) | Chloe |  |  | Almaty, Kazakhstan | 379 |

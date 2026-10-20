@@ -1,6 +1,6 @@
 # Public Contributions - Oman
 
-Generated: 2026-10-20T09:14:50.733Z
+Generated: 2026-10-20T12:52:59.245Z
 
 Users: 991
 
@@ -11,7 +11,7 @@ Users: 991
 | 3 | [daniyalmehmood](https://github.com/daniyalmehmood) | Muhammad Daniyal Mehmood | Rihal |  | Oman | 3445 |
 | 4 | [muneerasaifalnaabi-prog](https://github.com/muneerasaifalnaabi-prog) | Muneera Al Naabi | Codeline |  | Oman | 2977 |
 | 5 | [alanood94895-rgb](https://github.com/alanood94895-rgb) | Alanoud AlRuqaishi | Codeline |  | Oman | 2794 |
-| 6 | [M0hammedAlnajjar](https://github.com/M0hammedAlnajjar) | Mohammed Salim  | Codeline  |  | Oman | 2628 |
+| 6 | [M0hammedAlnajjar](https://github.com/M0hammedAlnajjar) | Mohammed Salim  | Codeline  |  | Oman | 2690 |
 | 7 | [Reemkhalifa2](https://github.com/Reemkhalifa2) | Reem AL Adawi | Codeline |  | Oman | 2460 |
 | 8 | [Shahd-geo](https://github.com/Shahd-geo) | Shahd AL Abdali | Codeline |  |  Oman  | 2454 |
 | 9 | [Mawadda9962](https://github.com/Mawadda9962) | Mawadda Alshukaili | Codeline |  | Oman | 2316 |

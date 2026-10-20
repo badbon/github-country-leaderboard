@@ -1,6 +1,6 @@
 # Total Contributions - Mauritania
 
-Generated: 2026-10-20T09:05:42.263Z
+Generated: 2026-10-20T12:42:08.434Z
 
 Users: 289
 
@@ -16,7 +16,7 @@ Users: 289
 | 8 | [beillahi](https://github.com/beillahi) | Sidi Mohamed Beillahi |  |  | Mauritania | 3469 |
 | 9 | [salembaira](https://github.com/salembaira) | Mohamed Salem BAIRA | @IBTIKAR-Technologies  |  | Nouakchott, Mauritania | 2779 |
 | 10 | [OussamaTeyib](https://github.com/OussamaTeyib) | Oussama Teyib |  |  | Nouakchott, Mauritania | 2749 |
-| 11 | [NejmiSidaty](https://github.com/NejmiSidaty) | Mohamed Jiyed |  |  | Nouakchott, Mauritania | 2528 |
+| 11 | [NejmiSidaty](https://github.com/NejmiSidaty) | Mohamed Jiyed |  |  | Nouakchott, Mauritania | 2544 |
 | 12 | [babasahi](https://github.com/babasahi) | Babe Saleh Dahi | HrFlow.ai | BabeSalehDahi | Nouakchott, Mauritania | 2387 |
 | 13 | [oumarhadrami](https://github.com/oumarhadrami) | Mohamed EL Hadramy Oumar |  | mohamed_hadramy | Nouakchott, Mauritania | 2382 |
 | 14 | [va0000ll](https://github.com/va0000ll) | mohamedvall ibrahim |  | medvall_mr | Nouakchott, Mauritania | 1788 |

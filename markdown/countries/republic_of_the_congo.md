@@ -41,7 +41,7 @@ Indexed users: 298
 | 2 | [Osiris-Balonga](https://github.com/Osiris-Balonga) | Emmanuel Osiris Balonga | Brazzaville, Congo | 1,871 |
 | 3 | [josuebrunel](https://github.com/josuebrunel) | Josue Kouka | Pointe-Noire (Congo) | 1,173 |
 | 4 | [Shadow8021](https://github.com/Shadow8021) | Red_Sh@dow | Congo, brazzaville | 1,088 |
-| 5 | [ksthecrowned](https://github.com/ksthecrowned) | Kaiser D. Styve | Brazzaville | 757 |
+| 5 | [ksthecrowned](https://github.com/ksthecrowned) | Kaiser D. Styve | Brazzaville | 764 |
 | 6 | [BlackAngel242](https://github.com/BlackAngel242) | DrSmoke | Congo | 617 |
 | 7 | [Espoir-Loem](https://github.com/Espoir-Loem) | Espoir LOEMBA | R.Congo, Brazzaville | 614 |
 | 8 | [elongastarks](https://github.com/elongastarks) | Elonga Stark  | Congo/North-kivu/Butembo | 501 |
@@ -83,4 +83,4 @@ Indexed users: 298
 | 19 | [Ssnnee](https://github.com/Ssnnee) | Samuel Nandi | Republic of the Congo | 26 |
 | 20 | [WinnersProx](https://github.com/WinnersProx) | Vainqueur Bihame | Kigali,Rwanda,Congo | 25 |
 
-Generated: 2026-10-20T09:22:04.657Z
+Generated: 2026-10-20T12:56:56.672Z

@@ -64,7 +64,7 @@ Published countries: 234
 | Dominican Republic | 3,298 | [View](./dominican_republic.md) |
 | DR Congo | 701 | [View](./dr_congo.md) |
 | Ecuador | 4,879 | [View](./ecuador.md) |
-| Egypt | 34,091 | [View](./egypt.md) |
+| Egypt | 34,092 | [View](./egypt.md) |
 | El Salvador | 2,378 | [View](./el_salvador.md) |
 | Equatorial Guinea | 21 | [View](./equatorial_guinea.md) |
 | Eritrea | 17 | [View](./eritrea.md) |
@@ -74,7 +74,7 @@ Published countries: 234
 | Falkland Islands | 13 | [View](./falkland_islands.md) |
 | Faroe Islands | 68 | [View](./faroe_islands.md) |
 | Fiji | 325 | [View](./fiji.md) |
-| Finland | 18,139 | [View](./finland.md) |
+| Finland | 18,140 | [View](./finland.md) |
 | French Guiana | 36 | [View](./french_guiana.md) |
 | French Polynesia | 60 | [View](./french_polynesia.md) |
 | French Southern and Antarctic Lands | 4 | [View](./french_southern_and_antarctic_lands.md) |
@@ -142,7 +142,7 @@ Published countries: 234
 | Mongolia | 804 | [View](./mongolia.md) |
 | Montenegro | 888 | [View](./montenegro.md) |
 | Montserrat | 291 | [View](./montserrat.md) |
-| Morocco | 9,620 | [View](./morocco.md) |
+| Morocco | 9,619 | [View](./morocco.md) |
 | Mozambique | 1,175 | [View](./mozambique.md) |
 | Myanmar | 2,056 | [View](./myanmar.md) |
 | Namibia | 475 | [View](./namibia.md) |
@@ -160,13 +160,13 @@ Published countries: 234
 | Northern Mariana Islands | 13 | [View](./northern_mariana_islands.md) |
 | Norway | 19,623 | [View](./norway.md) |
 | Oman | 991 | [View](./oman.md) |
-| Pakistan | 41,872 | [View](./pakistan.md) |
+| Pakistan | 41,870 | [View](./pakistan.md) |
 | Palau | 2 | [View](./palau.md) |
 | Palestine | 2,197 | [View](./palestine.md) |
 | Panama | 1,070 | [View](./panama.md) |
 | Papua New Guinea | 296 | [View](./papua_new_guinea.md) |
 | Paraguay | 2,014 | [View](./paraguay.md) |
-| Peru | 9,768 | [View](./peru.md) |
+| Peru | 9,767 | [View](./peru.md) |
 | Philippines | 19,748 | [View](./philippines.md) |
 | Pitcairn Islands | 5 | [View](./pitcairn_islands.md) |
 | Portugal | 28,431 | [View](./portugal.md) |
@@ -239,4 +239,4 @@ Published countries: 234
 | Zambia | 1,337 | [View](./zambia.md) |
 | Zimbabwe | 1,656 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-20T12:30:26.930Z
+Generated: 2026-10-20T13:05:51.146Z

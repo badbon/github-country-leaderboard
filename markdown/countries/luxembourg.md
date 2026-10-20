@@ -13,25 +13,25 @@ Indexed users: 2,190
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [libertjeremy](https://github.com/libertjeremy) | Jérémy | Luxembourg | 35,673 |
-| 2 | [kidiatoliny](https://github.com/kidiatoliny) | kidiatoliny | 23 Rue Théodore Gillen 1625 Howald Luxembourg | 25,967 |
-| 3 | [FlorentNodz](https://github.com/FlorentNodz) | Florent | Luxembourg | 16,702 |
-| 4 | [gillesheinesch](https://github.com/gillesheinesch) | Gilles Heinesch | Luxembourg | 16,492 |
-| 5 | [fxmartin](https://github.com/fxmartin) | François-Xavier Martin | Luxembourg | 16,359 |
-| 6 | [leobenkel](https://github.com/leobenkel) | Leo Benkel | Luxembourg | 14,135 |
-| 7 | [JonBasse](https://github.com/JonBasse) | Jonathan Basse | Luxembourg | 12,457 |
-| 8 | [assaad](https://github.com/assaad) | Assaad Moawad | Luxembourg | 12,187 |
-| 9 | [kboumedal](https://github.com/kboumedal) | Kevin | Luxembourg | 11,268 |
-| 10 | [KoStard](https://github.com/KoStard) | Ruben Kostandyan | Luxembourg | 11,009 |
-| 11 | [bolivian-peru](https://github.com/bolivian-peru) | peruvian | Luxembourg | 9,289 |
-| 12 | [SignedAdam](https://github.com/SignedAdam) | adam | Luxembourg | 9,137 |
-| 13 | [samtin0x](https://github.com/samtin0x) | samtin0x | Luxembourg | 8,230 |
-| 14 | [AndrejOrsula](https://github.com/AndrejOrsula) | Andrej Orsula | Luxembourg | 7,040 |
-| 15 | [b-rodrigues](https://github.com/b-rodrigues) | Bruno Rodrigues | Luxembourg-City, Luxembourg | 6,927 |
-| 16 | [leobenkel-db](https://github.com/leobenkel-db) | Leo Benkel (bot)  | Luxembourg | 6,787 |
-| 17 | [nicolasguelfi](https://github.com/nicolasguelfi) | Nicolas Guelfi | Esch-sur-Alzette, Luxembourg | 6,213 |
-| 18 | [francois352](https://github.com/francois352) | Francois Altwies | Luxembourg | 6,191 |
-| 19 | [jose99segura](https://github.com/jose99segura) | Jose Luis Segura | Luxembourg | 6,138 |
-| 20 | [remiminnebo](https://github.com/remiminnebo) | Remi J. Minnebo | Luxembourg | 5,465 |
+| 2 | [Agrawal-31](https://github.com/Agrawal-31) | Shishir Agrawal | Luxembourg | 26,346 |
+| 3 | [kidiatoliny](https://github.com/kidiatoliny) | kidiatoliny | 23 Rue Théodore Gillen 1625 Howald Luxembourg | 25,967 |
+| 4 | [gillesheinesch](https://github.com/gillesheinesch) | Gilles Heinesch | Luxembourg | 17,082 |
+| 5 | [FlorentNodz](https://github.com/FlorentNodz) | Florent | Luxembourg | 16,702 |
+| 6 | [fxmartin](https://github.com/fxmartin) | François-Xavier Martin | Luxembourg | 16,359 |
+| 7 | [leobenkel](https://github.com/leobenkel) | Leo Benkel | Luxembourg | 14,135 |
+| 8 | [JonBasse](https://github.com/JonBasse) | Jonathan Basse | Luxembourg | 12,457 |
+| 9 | [assaad](https://github.com/assaad) | Assaad Moawad | Luxembourg | 12,187 |
+| 10 | [KoStard](https://github.com/KoStard) | Ruben Kostandyan | Luxembourg | 11,546 |
+| 11 | [kboumedal](https://github.com/kboumedal) | Kevin | Luxembourg | 11,268 |
+| 12 | [bolivian-peru](https://github.com/bolivian-peru) | peruvian | Luxembourg | 9,289 |
+| 13 | [SignedAdam](https://github.com/SignedAdam) | adam | Luxembourg | 9,137 |
+| 14 | [samtin0x](https://github.com/samtin0x) | samtin0x | Luxembourg | 8,230 |
+| 15 | [AndrejOrsula](https://github.com/AndrejOrsula) | Andrej Orsula | Luxembourg | 7,040 |
+| 16 | [b-rodrigues](https://github.com/b-rodrigues) | Bruno Rodrigues | Luxembourg-City, Luxembourg | 6,927 |
+| 17 | [leobenkel-db](https://github.com/leobenkel-db) | Leo Benkel (bot)  | Luxembourg | 6,787 |
+| 18 | [nicolasguelfi](https://github.com/nicolasguelfi) | Nicolas Guelfi | Esch-sur-Alzette, Luxembourg | 6,213 |
+| 19 | [francois352](https://github.com/francois352) | Francois Altwies | Luxembourg | 6,191 |
+| 20 | [jose99segura](https://github.com/jose99segura) | Jose Luis Segura | Luxembourg | 6,138 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 2,190
 | 19 | [l4rz](https://github.com/l4rz) | Mike K. | Luxembourg | 197 |
 | 20 | [urosolia](https://github.com/urosolia) | Ugo Rosolia | Luxembourg, Lux | 192 |
 
-Generated: 2026-10-20T09:00:37.756Z
+Generated: 2026-10-20T12:38:08.308Z
