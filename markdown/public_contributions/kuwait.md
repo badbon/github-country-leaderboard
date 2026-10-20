@@ -1,13 +1,13 @@
 # Public Contributions - Kuwait
 
-Generated: 2026-10-20T17:55:14.220Z
+Generated: 2026-10-20T19:32:10.512Z
 
 Users: 796
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [BAWES](https://github.com/BAWES) | Khalid Al-Mutawa | BAWES |  | Kuwait | 6799 |
-| 2 | [quadrillion-q8](https://github.com/quadrillion-q8) | Kuwait Computer Repair on Call |  |  | Hawalli, Kuwait | 3499 |
+| 2 | [quadrillion-q8](https://github.com/quadrillion-q8) | Kuwait Computer Repair on Call |  |  | Hawalli, Kuwait | 3793 |
 | 3 | [arabcoders](https://github.com/arabcoders) | Abdulmohsen |  |  | Kuwait | 2323 |
 | 4 | [SiteQ8](https://github.com/SiteQ8) | Ali AlEnezi |  |  | Kuwait | 2221 |
 | 5 | [fahadTheTechIdea](https://github.com/fahadTheTechIdea) | Fahad Aldhubaib | The Tech Idea |  | Kuwait | 2186 |
@@ -25,4 +25,4 @@ Users: 796
 | 17 | [agatho-daemon](https://github.com/agatho-daemon) | Agathodaemon |  |  | Kuwait | 532 |
 | 18 | [lonlydwolf](https://github.com/lonlydwolf) | Ahmad Mollaei |  |  | Kuwait | 519 |
 | 19 | [AbdelrahmanBerchan](https://github.com/AbdelrahmanBerchan) | Abdelrahman B. |  | AB_berchan | Kuwait | 477 |
-| 20 | [Ahmad-Ali-mohammad](https://github.com/Ahmad-Ali-mohammad) | ahmad al mohammad | free lancer |  | kuwait | 448 |
+| 20 | [Ahmad-Ali-mohammad](https://github.com/Ahmad-Ali-mohammad) | ahmad al mohammad | free lancer |  | kuwait | 452 |

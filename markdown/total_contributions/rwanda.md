@@ -1,8 +1,8 @@
 # Total Contributions - Rwanda
 
-Generated: 2026-10-20T18:18:24.905Z
+Generated: 2026-10-20T19:54:07.136Z
 
-Users: 3502
+Users: 3501
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

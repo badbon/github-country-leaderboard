@@ -18,7 +18,7 @@ Indexed users: 298
 | 4 | [BlackAngel242](https://github.com/BlackAngel242) | DrSmoke | Congo | 3,963 |
 | 5 | [chrismoussounda](https://github.com/chrismoussounda) | Christoffert Moussounda | Pointe-Noire, Congo | 3,809 |
 | 6 | [Codeur-Omniscient](https://github.com/Codeur-Omniscient) | Anthony Dorian | Brazzaville - Congo | 3,779 |
-| 7 | [lepresk](https://github.com/lepresk) | Logan CodeMaker | Brazzaville, Congo | 3,737 |
+| 7 | [lepresk](https://github.com/lepresk) | Logan CodeMaker | Brazzaville, Congo | 3,773 |
 | 8 | [Flammeduciel](https://github.com/Flammeduciel) | Flamme Du Ciel WASS | Brazzaville CG | 3,068 |
 | 9 | [Justany](https://github.com/Justany) | Justany ITOUA | Brazzaville | 2,997 |
 | 10 | [OrionWambert](https://github.com/OrionWambert) | Orion WAMBERT | Brazzaville - Congo | 2,948 |
@@ -51,7 +51,7 @@ Indexed users: 298
 | 12 | [denniskoech457](https://github.com/denniskoech457) | Extravaganza | Congo | 354 |
 | 13 | [leloeduk](https://github.com/leloeduk) | Lelo  | Congo | 316 |
 | 14 | [babacleven](https://github.com/babacleven) | BABA Aristote Cleven  | Congo-Brazzaville | 302 |
-| 15 | [lepresk](https://github.com/lepresk) | Logan CodeMaker | Brazzaville, Congo | 296 |
+| 15 | [lepresk](https://github.com/lepresk) | Logan CodeMaker | Brazzaville, Congo | 300 |
 | 16 | [Chadrac-WAKOMYA](https://github.com/Chadrac-WAKOMYA) | KIGHUNDILA WAKOMYA Chadrac | Congo | 251 |
 | 17 | [chronoss09](https://github.com/chronoss09) | Chronoss | Congo | 217 |
 | 18 | [Ssnnee](https://github.com/Ssnnee) | Samuel Nandi | Republic of the Congo | 200 |
@@ -83,4 +83,4 @@ Indexed users: 298
 | 19 | [Ssnnee](https://github.com/Ssnnee) | Samuel Nandi | Republic of the Congo | 26 |
 | 20 | [WinnersProx](https://github.com/WinnersProx) | Vainqueur Bihame | Kigali,Rwanda,Congo | 25 |
 
-Generated: 2026-10-20T18:17:29.889Z
+Generated: 2026-10-20T19:53:54.249Z

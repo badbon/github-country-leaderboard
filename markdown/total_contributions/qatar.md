@@ -1,6 +1,6 @@
 # Total Contributions - Qatar
 
-Generated: 2026-10-20T18:17:26.559Z
+Generated: 2026-10-20T19:53:31.532Z
 
 Users: 1072
 
@@ -25,4 +25,4 @@ Users: 1072
 | 17 | [ilhamsyahids](https://github.com/ilhamsyahids) | Ilham Syahid S |  |  | Qatar | 5079 |
 | 18 | [mbrksntrk](https://github.com/mbrksntrk) | M Burak Şentürk | Boğaziçi Üniversitesi | mbrksntrk | Doha, Qatar | 4249 |
 | 19 | [Engineersticity](https://github.com/Engineersticity) | Erastus Kirui |  | Engineersticity | Doha, Qatar | 4229 |
-| 20 | [Gubbu77](https://github.com/Gubbu77) | Indrajith vs | Teciza Solutions |  | Qatar | 4002 |
+| 20 | [altyebv](https://github.com/altyebv) | Altayeb Abdeljalil  |  |  | Doha, Qatar  Sudan  | 4122 |

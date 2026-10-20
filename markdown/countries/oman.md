@@ -54,8 +54,8 @@ Indexed users: 991
 | 15 | [Hajar2000Alfarsi](https://github.com/Hajar2000Alfarsi) | Hajar Alfarsi | Oman | 1,577 |
 | 16 | [73ink](https://github.com/73ink) | Aaisha A. Al Rubaie | Oman | 1,333 |
 | 17 | [engSulaimanMohammed](https://github.com/engSulaimanMohammed) | Sulaiman Mohammed | Muscat, Oman | 1,322 |
-| 18 | [ilia144000](https://github.com/ilia144000) | Ilia GH | Sultanate of Oman | 1,098 |
-| 19 | [6qzr](https://github.com/6qzr) | Mohammed Al Abri | Oman | 1,087 |
+| 18 | [6qzr](https://github.com/6qzr) | Mohammed Al Abri | Oman | 1,098 |
+| 19 | [ilia144000](https://github.com/ilia144000) | Ilia GH | Sultanate of Oman | 1,098 |
 | 20 | [MrSn001](https://github.com/MrSn001) | Shaheen Hussain Al-Amri | Oman, Muscat, Galah | 1,067 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 991
 | 19 | [3mrdev](https://github.com/3mrdev) | Amr Abd-Alkrim | Khartoum, Sudan \| Muscat, Oman | 94 |
 | 20 | [AmirSa12](https://github.com/AmirSa12) | AmirHossein Sakhravi | Muscat, Oman | 91 |
 
-Generated: 2026-10-20T18:13:22.055Z
+Generated: 2026-10-20T19:49:18.422Z

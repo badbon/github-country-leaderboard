@@ -1,6 +1,6 @@
 # Total Contributions - Kuwait
 
-Generated: 2026-10-20T17:55:14.220Z
+Generated: 2026-10-20T19:32:10.512Z
 
 Users: 796
 
@@ -21,8 +21,8 @@ Users: 796
 | 13 | [mulaifi](https://github.com/mulaifi) | Salem Almulaifi | LEAN | SalemAlmulaifi | Kuwait | 3838 |
 | 14 | [iZaL](https://github.com/iZaL) | Afzal Abbas |  |  | Kuwait | 3821 |
 | 15 | [Mazyod](https://github.com/Mazyod) | Maz | Boubyan Bank |  | Kuwait | 3818 |
-| 16 | [DiNaSoR](https://github.com/DiNaSoR) | BuYousef |  |  | Kuwait | 3515 |
-| 17 | [quadrillion-q8](https://github.com/quadrillion-q8) | Kuwait Computer Repair on Call |  |  | Hawalli, Kuwait | 3499 |
+| 16 | [quadrillion-q8](https://github.com/quadrillion-q8) | Kuwait Computer Repair on Call |  |  | Hawalli, Kuwait | 3793 |
+| 17 | [DiNaSoR](https://github.com/DiNaSoR) | BuYousef |  |  | Kuwait | 3515 |
 | 18 | [aalhendi](https://github.com/aalhendi) | Abdulrazzaq Alhendi |  |  | Kuwait | 3466 |
 | 19 | [tammerofficial](https://github.com/tammerofficial) | tammer | tammerofficial | tammerofficial | Kuwait City | 3394 |
 | 20 | [saudshaddad](https://github.com/saudshaddad) | Saud Shaddad | @rasameel  @Elite-MA-Academy  | saudshaddad | Kuwait | 3296 |

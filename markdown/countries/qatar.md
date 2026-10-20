@@ -31,7 +31,7 @@ Indexed users: 1,072
 | 17 | [ilhamsyahids](https://github.com/ilhamsyahids) | Ilham Syahid S | Qatar | 5,079 |
 | 18 | [mbrksntrk](https://github.com/mbrksntrk) | M Burak Şentürk | Doha, Qatar | 4,249 |
 | 19 | [Engineersticity](https://github.com/Engineersticity) | Erastus Kirui | Doha, Qatar | 4,229 |
-| 20 | [Gubbu77](https://github.com/Gubbu77) | Indrajith vs | Qatar | 4,002 |
+| 20 | [altyebv](https://github.com/altyebv) | Altayeb Abdeljalil  | Doha, Qatar  Sudan  | 4,122 |
 
 ## Public Contributions
 
@@ -43,7 +43,7 @@ Indexed users: 1,072
 | 4 | [Ajmalpshaik](https://github.com/Ajmalpshaik) | AjmalPS | Doha, Qatar | 2,391 |
 | 5 | [Tamoura](https://github.com/Tamoura) | Tamer | Qatar | 1,769 |
 | 6 | [kashkoool](https://github.com/kashkoool) | louay kashkool | qatar | 1,758 |
-| 7 | [altyebv](https://github.com/altyebv) | Altayeb Abdeljalil  | Doha, Qatar  Sudan  | 1,563 |
+| 7 | [altyebv](https://github.com/altyebv) | Altayeb Abdeljalil  | Doha, Qatar  Sudan  | 1,681 |
 | 8 | [BZO95](https://github.com/BZO95) | DeFi Junkie | Qatar | 1,504 |
 | 9 | [hussain4real](https://github.com/hussain4real) | Hussain Aminu | Doha, Qatar | 1,493 |
 | 10 | [atick-faisal](https://github.com/atick-faisal) | Atick Faisal | Doha, Qatar | 1,148 |
@@ -62,7 +62,7 @@ Indexed users: 1,072
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [altyebv](https://github.com/altyebv) | Altayeb Abdeljalil  | Doha, Qatar  Sudan  | 928 |
+| 1 | [altyebv](https://github.com/altyebv) | Altayeb Abdeljalil  | Doha, Qatar  Sudan  | 1,051 |
 | 2 | [Vetrivel-VP](https://github.com/Vetrivel-VP) | Vetrivel Ravi | Doha | 817 |
 | 3 | [maljefairi](https://github.com/maljefairi) | Mohammed Al-Jefairi | Qatar | 579 |
 | 4 | [TarikKaanKoc](https://github.com/TarikKaanKoc) | Tarık Kaan Koç | Qatar | 565 |
@@ -83,4 +83,4 @@ Indexed users: 1,072
 | 19 | [thm-msror](https://github.com/thm-msror) | Tehreem Masroor | Al-Rayyan, Qatar | 106 |
 | 20 | [brainconnect93](https://github.com/brainconnect93) | Afolabi Akorede | Al-Wakrah, Qatar | 99 |
 
-Generated: 2026-10-20T18:17:26.559Z
+Generated: 2026-10-20T19:53:31.532Z

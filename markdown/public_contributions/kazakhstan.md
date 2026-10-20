@@ -1,6 +1,6 @@
 # Public Contributions - Kazakhstan
 
-Generated: 2026-10-20T17:54:41.114Z
+Generated: 2026-10-20T19:31:25.615Z
 
 Users: 5628
 
@@ -19,10 +19,10 @@ Users: 5628
 | 11 | [Islombek-stack](https://github.com/Islombek-stack) | Islombek Abilbekov |  |  | Kazakhstan | 2861 |
 | 12 | [yelmuratoff](https://github.com/yelmuratoff) | Yelaman Yelmurat | Astana Hub |  | Kazakhstan | 2839 |
 | 13 | [SapphoSys](https://github.com/SapphoSys) | Chloe |  |  | Almaty, Kazakhstan | 2680 |
-| 14 | [MDI74](https://github.com/MDI74) | Dmitriy Myakotin | @TourmalineCore |  | Kazakhstan, Astana | 2612 |
-| 15 | [m62624](https://github.com/m62624) | Mansur |  |  | Kazakhstan, Almaty | 2250 |
-| 16 | [Kaiyrkhan](https://github.com/Kaiyrkhan) | Kaiyrkhan Mukapil | Almaty Technological University |  | Almaty, Qazaqstan | 2232 |
-| 17 | [atlet99](https://github.com/atlet99) | Abdurakhman Rakhmankulov | Gosayram |  | Shymkent, Kazakhstan | 2099 |
+| 14 | [Meirbek-dev](https://github.com/Meirbek-dev) | Meirbek Beysenov |  |  | Kazakhstan, Pavlodar | 2642 |
+| 15 | [MDI74](https://github.com/MDI74) | Dmitriy Myakotin | @TourmalineCore |  | Kazakhstan, Astana | 2612 |
+| 16 | [m62624](https://github.com/m62624) | Mansur |  |  | Kazakhstan, Almaty | 2250 |
+| 17 | [Kaiyrkhan](https://github.com/Kaiyrkhan) | Kaiyrkhan Mukapil | Almaty Technological University |  | Almaty, Qazaqstan | 2232 |
 | 18 | [maximgorbatyuk](https://github.com/maximgorbatyuk) | Maxim Gorbatyuk | @Techinterview-space  |  | Kazakhstan | 2049 |
 | 19 | [rdmbtc](https://github.com/rdmbtc) | Dr RDM | Student | rdmnad | Kazakhstan | 2041 |
 | 20 | [borisk85](https://github.com/borisk85) | Boris Komarov | Vibecraft | borisfounder | Kazakhstan | 2026 |

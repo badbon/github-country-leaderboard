@@ -15,8 +15,8 @@ Indexed users: 1,747
 | 1 | [amberpixels](https://github.com/amberpixels) | Eugene | Moldova, Chișinău | 28,606 |
 | 2 | [evisoft](https://github.com/evisoft) | Vitalie Esanu | Moldova | 18,010 |
 | 3 | [ion-bostanica](https://github.com/ion-bostanica) | Bostanica Ion | Moldova, Chisinau | 11,674 |
-| 4 | [icaliman](https://github.com/icaliman) | Ion Căliman | Moldova | 10,453 |
-| 5 | [danlapteacru](https://github.com/danlapteacru) | Dan Lapteacru | Ungheni, Moldova / Iasi, Romania | 8,074 |
+| 4 | [icaliman](https://github.com/icaliman) | Ion Căliman | Moldova | 11,462 |
+| 5 | [danlapteacru](https://github.com/danlapteacru) | Dan Lapteacru | Ungheni, Moldova / Iasi, Romania | 8,485 |
 | 6 | [Nemo-Illusionist](https://github.com/Nemo-Illusionist) | Peter Radilov | Moldova | 7,910 |
 | 7 | [kneazy](https://github.com/kneazy) | Vitalie | Moldova, Chisinau  | 6,940 |
 | 8 | [dotteamdev](https://github.com/dotteamdev) | Dan Oistric | Moldova | 6,910 |
@@ -24,14 +24,14 @@ Indexed users: 1,747
 | 10 | [pv-a-ilievici](https://github.com/pv-a-ilievici) | Andrei Ilievici | Chisinau, Moldova | 6,398 |
 | 11 | [mtkachenk0](https://github.com/mtkachenk0) | Maxim Tkachenko | Chisinau, Moldova | 6,392 |
 | 12 | [stephen-golban](https://github.com/stephen-golban) | Stephen G | Moldova | 5,977 |
-| 13 | [sebsti5](https://github.com/sebsti5) | Sebastian | Moldova 🇲🇩 | 5,426 |
-| 14 | [artickc](https://github.com/artickc) | NOXX - Commiter | Moldova, Chisinau | 5,416 |
-| 15 | [batanus](https://github.com/batanus) | Dmitrii Medvedev | Chisinau, Moldova | 5,313 |
-| 16 | [grigorii-horos](https://github.com/grigorii-horos) | Grigorii Horos | Republic of Moldova | 5,250 |
+| 13 | [grigorii-horos](https://github.com/grigorii-horos) | Grigorii Horos | Republic of Moldova | 5,586 |
+| 14 | [sebsti5](https://github.com/sebsti5) | Sebastian | Moldova 🇲🇩 | 5,426 |
+| 15 | [artickc](https://github.com/artickc) | NOXX - Commiter | Moldova, Chisinau | 5,416 |
+| 16 | [batanus](https://github.com/batanus) | Dmitrii Medvedev | Chisinau, Moldova | 5,313 |
 | 17 | [rvmoldova](https://github.com/rvmoldova) | Vadim Russu | Chișinău | 5,250 |
 | 18 | [xyrolle](https://github.com/xyrolle) | Serghei | Moldova | 5,240 |
-| 19 | [httpcatalin](https://github.com/httpcatalin) | Catalin | Chișinău, Moldova | 5,117 |
-| 20 | [fedotovdev](https://github.com/fedotovdev) | Ivan Fedotov | Chisinau, Moldova | 5,019 |
+| 19 | [szagoret](https://github.com/szagoret) | Sergiu Zagoret | Chisinau, Moldova | 5,167 |
+| 20 | [httpcatalin](https://github.com/httpcatalin) | Catalin | Chișinău, Moldova | 5,117 |
 
 ## Public Contributions
 
@@ -44,7 +44,7 @@ Indexed users: 1,747
 | 5 | [sighook](https://github.com/sighook) | Alex Savca | Moldova | 3,076 |
 | 6 | [stephen-golban](https://github.com/stephen-golban) | Stephen G | Moldova | 2,946 |
 | 7 | [nikpopesku](https://github.com/nikpopesku) | Nikolai Popesku | Chisinau, Moldova | 2,534 |
-| 8 | [Aragas](https://github.com/Aragas) | Vitalii Mikhailov | Chisinau, Moldova | 2,263 |
+| 8 | [Aragas](https://github.com/Aragas) | Vitalii Mikhailov | Chisinau, Moldova | 2,337 |
 | 9 | [50rayn](https://github.com/50rayn) | Soryn | Moldova | 2,221 |
 | 10 | [himaster](https://github.com/himaster) | Vitaly Bicov | Chisinau, Moldova | 2,070 |
 | 11 | [vbarbarosh](https://github.com/vbarbarosh) | Vladimir Barbarosh | Moldova | 1,950 |
@@ -56,7 +56,7 @@ Indexed users: 1,747
 | 17 | [g0ddest](https://github.com/g0ddest) | veet | Bendery, Moldova | 1,648 |
 | 18 | [nalyk](https://github.com/nalyk) | Ion (Nalyk) Calmîș | Ungheni, Republic of Moldova | 1,397 |
 | 19 | [iatsiuk](https://github.com/iatsiuk) | Aleksei Iatsiuk | Chisinau, Moldova | 1,378 |
-| 20 | [maximmasiutin](https://github.com/maximmasiutin) | Maxim Masiutin | Chisinau, Republic of Moldova | 1,320 |
+| 20 | [icaliman](https://github.com/icaliman) | Ion Căliman | Moldova | 1,332 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,747
 | 19 | [vgaidarji](https://github.com/vgaidarji) | Veaceslav Gaidarji | Moldova | 115 |
 | 20 | [Ernest96](https://github.com/Ernest96) | Ernest | Chisinau Moldova | 107 |
 
-Generated: 2026-10-20T18:05:58.430Z
+Generated: 2026-10-20T19:41:28.072Z

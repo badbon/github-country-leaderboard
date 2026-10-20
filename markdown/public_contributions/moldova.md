@@ -1,6 +1,6 @@
 # Public Contributions - Moldova
 
-Generated: 2026-10-20T18:05:58.430Z
+Generated: 2026-10-20T19:41:28.072Z
 
 Users: 1747
 
@@ -13,7 +13,7 @@ Users: 1747
 | 5 | [sighook](https://github.com/sighook) | Alex Savca |  |  | Moldova | 3076 |
 | 6 | [stephen-golban](https://github.com/stephen-golban) | Stephen G | Syncra Studio |  | Moldova | 2946 |
 | 7 | [nikpopesku](https://github.com/nikpopesku) | Nikolai Popesku |  |  | Chisinau, Moldova | 2534 |
-| 8 | [Aragas](https://github.com/Aragas) | Vitalii Mikhailov | @Nexus-Mods |  | Chisinau, Moldova | 2263 |
+| 8 | [Aragas](https://github.com/Aragas) | Vitalii Mikhailov | @Nexus-Mods |  | Chisinau, Moldova | 2337 |
 | 9 | [50rayn](https://github.com/50rayn) | Soryn |  | 50rayn | Moldova | 2221 |
 | 10 | [himaster](https://github.com/himaster) | Vitaly Bicov |  |  | Chisinau, Moldova | 2070 |
 | 11 | [vbarbarosh](https://github.com/vbarbarosh) | Vladimir Barbarosh |  |  | Moldova | 1950 |
@@ -25,4 +25,4 @@ Users: 1747
 | 17 | [g0ddest](https://github.com/g0ddest) | veet |  |  | Bendery, Moldova | 1648 |
 | 18 | [nalyk](https://github.com/nalyk) | Ion (Nalyk) Calmîș | Yoda.Digital | nalyk | Ungheni, Republic of Moldova | 1397 |
 | 19 | [iatsiuk](https://github.com/iatsiuk) | Aleksei Iatsiuk | Overgear |  | Chisinau, Moldova | 1378 |
-| 20 | [maximmasiutin](https://github.com/maximmasiutin) | Maxim Masiutin | Advanced Data Security Solutions | MaximMasiutin | Chisinau, Republic of Moldova | 1320 |
+| 20 | [icaliman](https://github.com/icaliman) | Ion Căliman | XLITE DEV |  | Moldova | 1332 |

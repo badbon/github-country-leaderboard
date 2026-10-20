@@ -1,6 +1,6 @@
 # Public Contributions - Namibia
 
-Generated: 2026-10-20T18:07:35.410Z
+Generated: 2026-10-20T19:43:35.725Z
 
 Users: 475
 
@@ -19,8 +19,8 @@ Users: 475
 | 11 | [Tusneld](https://github.com/Tusneld) | Tusnelde Endjala | IU International University of Applied Sciences | TusneldeE | Namibia | 421 |
 | 12 | [Sphellep04](https://github.com/Sphellep04) | Phellep.Dev | iNstar inc |  | Windhoek, Namibia | 408 |
 | 13 | [mou-rush](https://github.com/mou-rush) | Moureen |  | resilient_mo_ | Swakopmund, Namibia | 321 |
-| 14 | [Math0202](https://github.com/Math0202) | Tangeni Matheus | Technology  |  | Namibia, Windhoek | 275 |
-| 15 | [rtonata88](https://github.com/rtonata88) | Richard Chambula | University of Namibia | rtonata | Windhoek, Namibia | 275 |
+| 14 | [rtonata88](https://github.com/rtonata88) | Richard Chambula | University of Namibia | rtonata | Windhoek, Namibia | 279 |
+| 15 | [Math0202](https://github.com/Math0202) | Tangeni Matheus | Technology  |  | Namibia, Windhoek | 275 |
 | 16 | [PascalMTK](https://github.com/PascalMTK) |  |  |  | Windhoek - Namibia | 254 |
 | 17 | [RohanBez2801](https://github.com/RohanBez2801) | Rohan Bezuidenhout |  |  | Windhoek, Namibia | 250 |
 | 18 | [yaasoniii](https://github.com/yaasoniii) | Jason |  |  | Windhoek, Namibia | 246 |

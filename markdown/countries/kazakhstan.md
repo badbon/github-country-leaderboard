@@ -50,10 +50,10 @@ Indexed users: 5,628
 | 11 | [Islombek-stack](https://github.com/Islombek-stack) | Islombek Abilbekov | Kazakhstan | 2,861 |
 | 12 | [yelmuratoff](https://github.com/yelmuratoff) | Yelaman Yelmurat | Kazakhstan | 2,839 |
 | 13 | [SapphoSys](https://github.com/SapphoSys) | Chloe | Almaty, Kazakhstan | 2,680 |
-| 14 | [MDI74](https://github.com/MDI74) | Dmitriy Myakotin | Kazakhstan, Astana | 2,612 |
-| 15 | [m62624](https://github.com/m62624) | Mansur | Kazakhstan, Almaty | 2,250 |
-| 16 | [Kaiyrkhan](https://github.com/Kaiyrkhan) | Kaiyrkhan Mukapil | Almaty, Qazaqstan | 2,232 |
-| 17 | [atlet99](https://github.com/atlet99) | Abdurakhman Rakhmankulov | Shymkent, Kazakhstan | 2,099 |
+| 14 | [Meirbek-dev](https://github.com/Meirbek-dev) | Meirbek Beysenov | Kazakhstan, Pavlodar | 2,642 |
+| 15 | [MDI74](https://github.com/MDI74) | Dmitriy Myakotin | Kazakhstan, Astana | 2,612 |
+| 16 | [m62624](https://github.com/m62624) | Mansur | Kazakhstan, Almaty | 2,250 |
+| 17 | [Kaiyrkhan](https://github.com/Kaiyrkhan) | Kaiyrkhan Mukapil | Almaty, Qazaqstan | 2,232 |
 | 18 | [maximgorbatyuk](https://github.com/maximgorbatyuk) | Maxim Gorbatyuk | Kazakhstan | 2,049 |
 | 19 | [rdmbtc](https://github.com/rdmbtc) | Dr RDM | Kazakhstan | 2,041 |
 | 20 | [borisk85](https://github.com/borisk85) | Boris Komarov | Kazakhstan | 2,026 |
@@ -83,4 +83,4 @@ Indexed users: 5,628
 | 19 | [aidarnouman](https://github.com/aidarnouman) | Aidar Nouman | Almaty, Kazakhstan | 303 |
 | 20 | [azamxvit](https://github.com/azamxvit) | Azamat | Kazakhstan, Atyrau | 295 |
 
-Generated: 2026-10-20T17:54:41.114Z
+Generated: 2026-10-20T19:31:25.615Z
