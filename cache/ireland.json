@@ -35802,9 +35802,9 @@
     "location": "Waterford, Ireland",
     "company": "Red Hat",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 147,
-    "publicContributions": 429,
+    "followers": 11,
+    "privateContributions": 56,
+    "publicContributions": 567,
     "createdAt": "2021-05-29T07:09:43Z"
   },
   {
@@ -35814,21 +35814,21 @@
     "location": "Dublin, Ireland",
     "company": "DevAlly",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 3464,
-    "publicContributions": 53,
+    "followers": 8,
+    "privateContributions": 4130,
+    "publicContributions": 166,
     "createdAt": "2021-01-27T15:58:35Z"
   },
   {
     "login": "vinni-richburgh",
     "name": "Vinni Richburgh",
     "avatarUrl": "https://avatars.githubusercontent.com/u/78911496?s=72&u=3490cf18a2eb362a099d6451a8a76884e4c16200&v=4",
-    "location": "Maynooth, Co. Kildare, Ireland",
+    "location": "Leixlip, Co. Kildare, Ireland",
     "company": "",
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 23,
     "createdAt": "2021-02-11T12:32:05Z"
   },
   {
@@ -35838,8 +35838,8 @@
     "location": "Ireland",
     "company": "",
     "twitterUsername": "killian_ogorman",
-    "followers": 8,
-    "privateContributions": 31,
+    "followers": 9,
+    "privateContributions": 19,
     "publicContributions": 0,
     "createdAt": "2021-05-03T08:26:11Z"
   },
@@ -35851,8 +35851,8 @@
     "company": "Maynooth University",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 13,
-    "publicContributions": 42,
+    "privateContributions": 56,
+    "publicContributions": 17,
     "createdAt": "2021-03-02T23:08:06Z"
   },
   {
@@ -35863,7 +35863,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 0,
+    "privateContributions": 3,
     "publicContributions": 0,
     "createdAt": "2021-03-02T17:05:44Z"
   },
@@ -35886,9 +35886,9 @@
     "location": "Dublin, Ireland",
     "company": "IBM",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 42,
-    "publicContributions": 5,
+    "followers": 7,
+    "privateContributions": 41,
+    "publicContributions": 9,
     "createdAt": "2021-04-21T12:06:03Z"
   },
   {
@@ -35899,7 +35899,7 @@
     "company": "Mews",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 385,
+    "privateContributions": 455,
     "publicContributions": 1,
     "createdAt": "2021-05-07T18:45:45Z"
   },
@@ -35912,20 +35912,8 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 7,
-    "publicContributions": 216,
+    "publicContributions": 186,
     "createdAt": "2021-04-28T07:03:17Z"
-  },
-  {
-    "login": "sahebsinghh",
-    "name": "Saheb Singh Sandhu",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/81738793?s=72&v=4",
-    "location": "Dublin, Ireland",
-    "company": "Dublin City University",
-    "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2021-04-01T06:49:35Z"
   },
   {
     "login": "lekseiuwka",
@@ -35947,8 +35935,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 36,
-    "publicContributions": 5,
+    "privateContributions": 29,
+    "publicContributions": 3,
     "createdAt": "2021-02-17T21:38:09Z"
   },
   {
@@ -35970,7 +35958,7 @@
     "location": "Dublin, Ireland",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-05-03T12:07:33Z"
@@ -35994,9 +35982,9 @@
     "location": "Dublin, Ireland",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 99,
+    "publicContributions": 695,
     "createdAt": "2021-04-11T04:54:45Z"
   },
   {
@@ -36008,7 +35996,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 0,
     "createdAt": "2021-04-22T17:00:21Z"
   },
   {

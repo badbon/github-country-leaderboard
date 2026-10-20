@@ -35972,7 +35972,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 3,
     "createdAt": "2011-03-14T09:46:27Z"
   },
   {
@@ -35982,9 +35982,9 @@
     "location": "Latvia",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 209,
-    "publicContributions": 16,
+    "followers": 4,
+    "privateContributions": 178,
+    "publicContributions": 11,
     "createdAt": "2011-04-06T11:51:30Z"
   },
   {
@@ -36008,7 +36008,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 35,
+    "publicContributions": 41,
     "createdAt": "2011-11-17T05:10:29Z"
   },
   {
@@ -36020,20 +36020,8 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 1,
-    "publicContributions": 7,
-    "createdAt": "2011-02-21T12:17:29Z"
-  },
-  {
-    "login": "BorisKM",
-    "name": "Boris K.",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/721288?s=72&v=4",
-    "location": "Jurmala, Latvia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 112,
     "publicContributions": 0,
-    "createdAt": "2011-04-10T23:50:59Z"
+    "createdAt": "2011-02-21T12:17:29Z"
   },
   {
     "login": "albina",
@@ -36091,8 +36079,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 38,
+    "privateContributions": 5,
+    "publicContributions": 22,
     "createdAt": "2011-11-08T10:45:56Z"
   },
   {
@@ -36115,8 +36103,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 2101,
-    "publicContributions": 0,
+    "privateContributions": 2565,
+    "publicContributions": 18,
     "createdAt": "2011-04-21T10:13:54Z"
   },
   {

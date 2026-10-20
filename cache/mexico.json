@@ -35960,7 +35960,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 23,
     "createdAt": "2023-08-15T04:01:36Z"
   },
   {
@@ -36006,9 +36006,9 @@
     "location": "mexico",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 2,
     "createdAt": "2023-09-26T14:47:01Z"
   },
   {
@@ -36048,18 +36048,6 @@
     "createdAt": "2023-09-22T05:09:36Z"
   },
   {
-    "login": "MrGecio",
-    "name": "German Briseño ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/142937811?s=72&u=e6bbafd5712e874a7c05efc2214e9f699471707a&v=4",
-    "location": "Mexico",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 104,
-    "createdAt": "2023-08-22T19:33:19Z"
-  },
-  {
     "login": "T4n14J1m3n3z",
     "name": "Tania Jimenez",
     "avatarUrl": "https://avatars.githubusercontent.com/u/153782553?s=72&u=ef80a2a3bd8e0ff7614812f26f546fcd61deed2f&v=4",
@@ -36079,8 +36067,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 20,
-    "publicContributions": 1,
+    "privateContributions": 49,
+    "publicContributions": 0,
     "createdAt": "2023-11-15T01:14:46Z"
   },
   {
@@ -36104,7 +36092,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 91,
+    "publicContributions": 142,
     "createdAt": "2023-12-19T14:00:57Z"
   },
   {
@@ -36116,31 +36104,31 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 11,
     "createdAt": "2023-10-03T23:24:06Z"
   },
   {
     "login": "GiovaniRaymundo",
     "name": "Giovani ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/149817126?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/149817126?s=72&u=12386038b8c3ac923c02de6c3208d7f357e20e80&v=4",
     "location": "Monterrey, Mexico",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 5,
     "createdAt": "2023-11-03T16:39:54Z"
   },
   {
     "login": "Joseluiscruz-hub",
     "name": "Cruz Prieto Jose Luis",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/141293124?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/141293124?s=72&u=9dc899f4934b8ce0e275a50ca6bde9deb4a52a0c&v=4",
     "location": "Mexico",
-    "company": "Orsted Corp",
+    "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 1345,
-    "publicContributions": 1256,
+    "followers": 7,
+    "privateContributions": 3095,
+    "publicContributions": 199,
     "createdAt": "2023-08-03T02:40:41Z"
   },
   {
@@ -36152,7 +36140,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 41,
+    "publicContributions": 36,
     "createdAt": "2023-10-27T02:00:41Z"
   },
   {
