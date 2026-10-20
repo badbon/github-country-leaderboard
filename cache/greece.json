@@ -37578,22 +37578,10 @@
     "location": "Greece",
     "company": "",
     "twitterUsername": "tsolakidis94",
-    "followers": 8,
-    "privateContributions": 1210,
-    "publicContributions": 12,
+    "followers": 11,
+    "privateContributions": 2076,
+    "publicContributions": 10,
     "createdAt": "2021-03-27T14:25:25Z"
-  },
-  {
-    "login": "SlienCode",
-    "name": "Nick Christodoulou",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/80926890?s=72&u=9c1c29bcd214a393f508f57803a17270a8761189&v=4",
-    "location": "Athens, Greece",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 130,
-    "publicContributions": 1,
-    "createdAt": "2021-03-18T22:18:58Z"
   },
   {
     "login": "GeorgiosAnastasiou",
@@ -37604,7 +37592,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 17,
     "createdAt": "2021-06-07T14:19:15Z"
   },
   {
@@ -37615,7 +37603,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 31,
+    "privateContributions": 73,
     "publicContributions": 0,
     "createdAt": "2021-01-29T10:58:47Z"
   },
@@ -37626,8 +37614,8 @@
     "location": "Athens, Greece",
     "company": "Vodafone",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 2,
+    "followers": 10,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-02-11T12:24:22Z"
   },
@@ -37638,7 +37626,7 @@
     "location": "Thessaloniki, Greece",
     "company": "",
     "twitterUsername": "StylianaKonsta1",
-    "followers": 8,
+    "followers": 7,
     "privateContributions": 6,
     "publicContributions": 0,
     "createdAt": "2021-03-06T21:25:33Z"
@@ -37662,7 +37650,7 @@
     "location": "Greece",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-01-05T00:19:06Z"
@@ -37675,8 +37663,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 4304,
-    "publicContributions": 9,
+    "privateContributions": 4433,
+    "publicContributions": 13,
     "createdAt": "2021-01-18T13:55:25Z"
   },
   {
@@ -37684,7 +37672,7 @@
     "name": "Ioannis Anastasopoulos",
     "avatarUrl": "https://avatars.githubusercontent.com/u/79516027?s=72&u=484d4316d6e30c202e675a180045d32ead35e94e&v=4",
     "location": "Athens, Greece",
-    "company": "Oracle",
+    "company": "Accenture",
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
@@ -37694,12 +37682,12 @@
   {
     "login": "spyrostsat",
     "name": "Spyros Tsattalios",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/85879294?s=72&u=716bf837478029786ea086ca5c04bf9eac687989&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/85879294?s=72&u=07f006e9d5be67784111f84379a611f63948d521&v=4",
     "location": "Athens, Greece",
     "company": "Researcher at NTUA",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 1443,
+    "privateContributions": 1952,
     "publicContributions": 0,
     "createdAt": "2021-06-14T11:54:21Z"
   },
@@ -37722,9 +37710,9 @@
     "location": "Athens, Greece",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 66,
-    "publicContributions": 28,
+    "followers": 9,
+    "privateContributions": 106,
+    "publicContributions": 33,
     "createdAt": "2021-01-05T17:05:49Z"
   },
   {
@@ -37736,7 +37724,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 2,
     "createdAt": "2021-03-06T13:04:40Z"
   },
   {
@@ -37746,9 +37734,9 @@
     "location": "Athens, Greece",
     "company": "",
     "twitterUsername": "aggelospapp",
-    "followers": 8,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 9,
     "createdAt": "2021-06-28T19:27:30Z"
   },
   {
@@ -37760,19 +37748,19 @@
     "twitterUsername": "kostas_panagias",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 180,
+    "publicContributions": 120,
     "createdAt": "2021-06-19T12:46:50Z"
   },
   {
     "login": "NickLitharis",
     "name": "Nikos Litharis",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/77148351?s=72&u=88b870f3c915f5824c3f30085aaecea4bf7ee1ad&v=4",
-    "location": "Serres, Greece",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/77148351?s=72&u=52a944fb78d887f967d6b8672edb31cb92b3919e&v=4",
+    "location": "Thessaloniki, Greece",
     "company": "Netcompany",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 40,
-    "publicContributions": 24,
+    "privateContributions": 49,
+    "publicContributions": 105,
     "createdAt": "2021-01-08T09:42:43Z"
   },
   {
@@ -37784,7 +37772,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2021-02-05T15:45:04Z"
   },
   {
