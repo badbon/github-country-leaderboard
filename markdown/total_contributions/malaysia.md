@@ -1,8 +1,8 @@
 # Total Contributions - Malaysia
 
-Generated: 2026-10-20T15:21:42.736Z
+Generated: 2026-10-20T15:48:18.323Z
 
-Users: 11787
+Users: 11785
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

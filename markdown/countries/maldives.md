@@ -31,7 +31,7 @@ Indexed users: 354
 | 17 | [roris](https://github.com/roris) | Thoail Ahmed | Maldives | 4,881 |
 | 18 | [muizzu](https://github.com/muizzu) | Muizzu Abbas | Maldives | 4,740 |
 | 19 | [samynmhd](https://github.com/samynmhd) | Mohamed Sameen Firaq | Maldives | 4,174 |
-| 20 | [wadday](https://github.com/wadday) | Wadday hassan | Maldives | 4,012 |
+| 20 | [wadday](https://github.com/wadday) | Wadday hassan | Maldives | 4,072 |
 
 ## Public Contributions
 
@@ -79,8 +79,8 @@ Indexed users: 354
 | 15 | [ajaaibu](https://github.com/ajaaibu) | Ahmed Ali | Maldives | 59 |
 | 16 | [Adamwaheed](https://github.com/Adamwaheed) | Adam | Maldives | 46 |
 | 17 | [mohamed-azhar](https://github.com/mohamed-azhar) | Mohamed Azhar | Maldives | 45 |
-| 18 | [ameer1234567890](https://github.com/ameer1234567890) | Ameer Dawood | Thulhaadhoo, Maldives | 42 |
+| 18 | [ameer1234567890](https://github.com/ameer1234567890) | Ameer Dawood | Thulhaadhoo, Maldives | 43 |
 | 19 | [muhannad0](https://github.com/muhannad0) | Monde | Maldives | 42 |
 | 20 | [inash](https://github.com/inash) | Inash Zubair | Male', Maldives | 41 |
 
-Generated: 2026-10-20T14:16:30.283Z
+Generated: 2026-10-20T15:48:24.329Z

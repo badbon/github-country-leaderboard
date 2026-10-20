@@ -46,11 +46,11 @@ Indexed users: 33,179
 | 7 | [beresdowds-afk](https://github.com/beresdowds-afk) | Olusola Adebayo  | Nigeria  | 7,029 |
 | 8 | [eshanokpe](https://github.com/eshanokpe) | Dannicode | Lagos, Nigeria | 6,755 |
 | 9 | [Emmy123222](https://github.com/Emmy123222) | Emmanuel ogheneovo | Nigeria | 6,701 |
-| 10 | [ademosuoluwatobi-cloud](https://github.com/ademosuoluwatobi-cloud) | Oluwatobi Peter Ademosu | Ibadan, Nigeria | 6,320 |
-| 11 | [aabxtract](https://github.com/aabxtract) | Afolami Anuoluwapo | Akure, Nigeria | 6,194 |
-| 12 | [Xaxxoo](https://github.com/Xaxxoo) |  | Nigeria | 6,151 |
-| 13 | [Officialhomie](https://github.com/Officialhomie) | OneTrueHomie | Lagos, Nigeria | 5,789 |
-| 14 | [caxtonacollins](https://github.com/caxtonacollins) | caxton strange | Nigeria | 5,675 |
+| 10 | [caxtonacollins](https://github.com/caxtonacollins) | caxton strange | Nigeria | 6,490 |
+| 11 | [ademosuoluwatobi-cloud](https://github.com/ademosuoluwatobi-cloud) | Oluwatobi Peter Ademosu | Ibadan, Nigeria | 6,320 |
+| 12 | [aabxtract](https://github.com/aabxtract) | Afolami Anuoluwapo | Akure, Nigeria | 6,194 |
+| 13 | [Xaxxoo](https://github.com/Xaxxoo) |  | Nigeria | 6,151 |
+| 14 | [Officialhomie](https://github.com/Officialhomie) | OneTrueHomie | Lagos, Nigeria | 5,789 |
 | 15 | [DiceTech435](https://github.com/DiceTech435) | Amevye Matthew | Lagos, Nigeria | 5,604 |
 | 16 | [xt42io](https://github.com/xt42io) | Akinkunmi | Nigeria | 5,016 |
 | 17 | [O-BERNARDOFOEGBU](https://github.com/O-BERNARDOFOEGBU) | Bernard Ofoegbu | Nigeria | 4,979 |
@@ -83,4 +83,4 @@ Indexed users: 33,179
 | 19 | [samglish](https://github.com/samglish) | BEIDI DINA SAMUEL | Nigeria, Yola | 759 |
 | 20 | [slick-codes](https://github.com/slick-codes) | Paul Ezekiel-Hart | Nigeria | 709 |
 
-Generated: 2026-10-20T14:25:44.712Z
+Generated: 2026-10-20T15:59:49.693Z

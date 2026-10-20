@@ -30,7 +30,7 @@ Indexed users: 900
 | 16 | [KhoTheProgrammer](https://github.com/KhoTheProgrammer) | Kondwani Padyera | Malawi | 3,240 |
 | 17 | [2KAY-kat](https://github.com/2KAY-kat) | Kelvin KAY Katoya | Blantyre, Malawi | 3,172 |
 | 18 | [markulaya2](https://github.com/markulaya2) | Mark Ulaya | Blantyre, Malawi | 3,152 |
-| 19 | [IsaacKalambo22](https://github.com/IsaacKalambo22) | Isaac Kalambo | Lilongwe | 3,147 |
+| 19 | [IsaacKalambo22](https://github.com/IsaacKalambo22) | Isaac Kalambo | Lilongwe | 3,097 |
 | 20 | [Valent-p](https://github.com/Valent-p) | Valentino Phiri - Programmer | Lilongwe, Malawi | 3,080 |
 
 ## Public Contributions
@@ -50,7 +50,7 @@ Indexed users: 900
 | 11 | [V014](https://github.com/V014) | Wanga Kanjala | Blantyre, Malawi | 671 |
 | 12 | [hopekali04](https://github.com/hopekali04) | Hope Kalitera | Blantyre, Malawi | 649 |
 | 13 | [Isaac1-gic](https://github.com/Isaac1-gic) | Isaac Chitsakamire | Malawi | 635 |
-| 14 | [Chrispine-1210](https://github.com/Chrispine-1210) | Chrispine Mndala | Lilongwe  | 565 |
+| 14 | [Chrispine-1210](https://github.com/Chrispine-1210) | Chrispine Mndala | Lilongwe  | 568 |
 | 15 | [TgkCapture](https://github.com/TgkCapture) | tgkcapture | Blantyre, Malawi. | 485 |
 | 16 | [hopgausi](https://github.com/hopgausi) | Hopson Gausi | Malawi | 483 |
 | 17 | [codaMW](https://github.com/codaMW) | codaMW | Lilongwe, Malawi | 476 |
@@ -71,8 +71,8 @@ Indexed users: 900
 | 7 | [madzalo](https://github.com/madzalo) | Resten Madzalo | Malawi | 316 |
 | 8 | [Cardkess](https://github.com/Cardkess) | Blessings Chidambe | Blantyre, MALAWI | 291 |
 | 9 | [Fraganya](https://github.com/Fraganya) | Francis Ganya | Blantyre, Malawi | 261 |
-| 10 | [JosephGMkonda](https://github.com/JosephGMkonda) | Joseph Mkonda | malawi | 235 |
-| 11 | [IsaacKalambo22](https://github.com/IsaacKalambo22) | Isaac Kalambo | Lilongwe | 230 |
+| 10 | [IsaacKalambo22](https://github.com/IsaacKalambo22) | Isaac Kalambo | Lilongwe | 239 |
+| 11 | [JosephGMkonda](https://github.com/JosephGMkonda) | Joseph Mkonda | malawi | 235 |
 | 12 | [nbolok-code](https://github.com/nbolok-code) | Nathan Bolokonya | Malawi  | 222 |
 | 13 | [macneil265](https://github.com/macneil265) | Mac Neil | Lilongwe | 206 |
 | 14 | [PreciousNyasulu](https://github.com/PreciousNyasulu) | Precious Nyasulu | Blantyre, Malawi | 202 |
@@ -83,4 +83,4 @@ Indexed users: 900
 | 19 | [RodgerCodes](https://github.com/RodgerCodes) | Rodger Kumwanje | Malawi | 130 |
 | 20 | [g1ftmkyelu](https://github.com/g1ftmkyelu) | codemaestro🚀 | 🇲🇼 Malawi | 129 |
 
-Generated: 2026-10-20T14:15:10.024Z
+Generated: 2026-10-20T15:47:43.059Z

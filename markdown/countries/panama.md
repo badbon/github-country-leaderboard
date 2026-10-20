@@ -21,9 +21,9 @@ Indexed users: 1,070
 | 7 | [hjupter](https://github.com/hjupter) | Hjupter Cerrud | Panama | 16,152 |
 | 8 | [Kenth06](https://github.com/Kenth06) | Kenneth Rios | Panama | 16,123 |
 | 9 | [ricardostmalo](https://github.com/ricardostmalo) | Ricardo de Saint Malo | Panama | 15,949 |
-| 10 | [gonzalezulises](https://github.com/gonzalezulises) | Ulises Gonzalez | Panama | 10,582 |
-| 11 | [ramonfabrega](https://github.com/ramonfabrega) | Ramon | Panama | 9,797 |
-| 12 | [lexjm](https://github.com/lexjm) | Alexander  | Panama City, Panama | 9,745 |
+| 10 | [ramonfabrega](https://github.com/ramonfabrega) | Ramon | Panama | 11,540 |
+| 11 | [gonzalezulises](https://github.com/gonzalezulises) | Ulises Gonzalez | Panama | 10,582 |
+| 12 | [lexjm](https://github.com/lexjm) | Alexander  | Panama City, Panama | 9,759 |
 | 13 | [bgawne](https://github.com/bgawne) | Brad Gawne | Panama | 9,524 |
 | 14 | [captainsparrow10](https://github.com/captainsparrow10) | Javier Acosta Tullock | Panama | 8,854 |
 | 15 | [atomikigai](https://github.com/atomikigai) | Jostick Quiel | Panama | 8,158 |
@@ -38,7 +38,7 @@ Indexed users: 1,070
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [jeremymcs](https://github.com/jeremymcs) | Jeremy McSpadden | Panama City, FL | 18,220 |
-| 2 | [ramonfabrega](https://github.com/ramonfabrega) | Ramon | Panama | 5,946 |
+| 2 | [ramonfabrega](https://github.com/ramonfabrega) | Ramon | Panama | 7,656 |
 | 3 | [ElenaRevicheva](https://github.com/ElenaRevicheva) | Elena | Panama, Panama city | 5,746 |
 | 4 | [nandocdev](https://github.com/nandocdev) | Fernando Castillo Valdés | Panama, Panama City | 2,690 |
 | 5 | [dsfaccini](https://github.com/dsfaccini) | David SF | Panama City | 2,608 |
@@ -83,4 +83,4 @@ Indexed users: 1,070
 | 19 | [Commandtechno](https://github.com/Commandtechno) | Techno | David, Panama | 49 |
 | 20 | [jebberjeb](https://github.com/jebberjeb) | Jeb Beich | Panama City, FL | 48 |
 
-Generated: 2026-10-20T14:30:12.865Z
+Generated: 2026-10-20T16:02:40.037Z

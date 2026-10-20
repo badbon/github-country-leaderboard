@@ -1,6 +1,6 @@
 # Followers - Senegal
 
-Generated: 2026-10-20T14:37:53.075Z
+Generated: 2026-10-20T16:13:52.703Z
 
 Users: 1355
 
@@ -10,7 +10,7 @@ Users: 1355
 | 2 | [ibrahima92](https://github.com/ibrahima92) | Ibrahima Ndaw |  | Ibrahima92_ | Senegal | 318 |
 | 3 | [daoodaba975](https://github.com/daoodaba975) | Daouda BA |  | daoodaba975 | Dakar, SN | 282 |
 | 4 | [orbitturner](https://github.com/orbitturner) | Orbit Turner | FUTURIZE WORLD | orbitturner | Dakar, Senegal | 272 |
-| 5 | [elias-ba](https://github.com/elias-ba) | Elias Waly Ba | @OpenFn | eliaswalyba | Dakar, Senegal | 232 |
+| 5 | [elias-ba](https://github.com/elias-ba) | Elias Waly Ba | @OpenFn | eliaswalyba | Dakar, Senegal | 233 |
 | 6 | [EpsilonCoder](https://github.com/EpsilonCoder) | Epsilon | Gaindé 2000 |  | Dakar ,Senegal | 226 |
 | 7 | [eliaswalyba](https://github.com/eliaswalyba) | Elias W. BA | GalsenAI, Air Sénégal, Coursera, Neograph | eliaswalyba | Dakar, Sénégal | 214 |
 | 8 | [PapiHack](https://github.com/PapiHack) | Meissa (Papi) Mbaye |  | the_it_dev | Dakar, Senegal | 196 |

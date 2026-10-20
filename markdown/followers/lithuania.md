@@ -1,8 +1,8 @@
 # Followers - Lithuania
 
-Generated: 2026-10-20T14:13:13.713Z
+Generated: 2026-10-20T15:46:27.104Z
 
-Users: 5369
+Users: 5368
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

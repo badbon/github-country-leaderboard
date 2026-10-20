@@ -1,15 +1,15 @@
 # Total Contributions - Montserrat
 
-Generated: 2026-10-20T14:22:41.385Z
+Generated: 2026-10-20T15:53:12.552Z
 
 Users: 291
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [dotslashderek](https://github.com/dotslashderek) | Derek Thompson |  |  | Plymouth, MI | 14559 |
+| 1 | [dotslashderek](https://github.com/dotslashderek) | Derek Thompson |  |  | Plymouth, MI | 14630 |
 | 2 | [BuckinghamIO](https://github.com/BuckinghamIO) | Sam Buckingham |  |  | Plymouth, Devon | 9219 |
 | 3 | [flaviocfneto](https://github.com/flaviocfneto) | Flávio Neto | Ferreira-Michell |  | Plymouth | 7054 |
-| 4 | [dvmrry](https://github.com/dvmrry) | Dave Murray |  | dvmrry | Plymouth Meeting, Pennsylvania | 4077 |
+| 4 | [dvmrry](https://github.com/dvmrry) | Dave Murray |  | dvmrry | Plymouth Meeting, Pennsylvania | 4080 |
 | 5 | [Aloogy](https://github.com/Aloogy) | Alex Cottenham | @Rouic  | rouic | Plymouth, GB. | 4029 |
 | 6 | [albemontors](https://github.com/albemontors) | Alberto Montorsi |  |  | Plymouth | 3878 |
 | 7 | [binarytide](https://github.com/binarytide) | John McAndrews | Infinite-scope.com |  | Plymouth, Ma | 3405 |

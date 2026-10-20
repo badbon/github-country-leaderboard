@@ -1,6 +1,6 @@
 # Followers - Malawi
 
-Generated: 2026-10-20T14:15:10.024Z
+Generated: 2026-10-20T15:47:43.059Z
 
 Users: 900
 
@@ -15,8 +15,8 @@ Users: 900
 | 7 | [madzalo](https://github.com/madzalo) | Resten Madzalo |  |  | Malawi | 316 |
 | 8 | [Cardkess](https://github.com/Cardkess) | Blessings Chidambe |  | Cardkess | Blantyre, MALAWI | 291 |
 | 9 | [Fraganya](https://github.com/Fraganya) | Francis Ganya | @lync-systems-mw  | _fraganya | Blantyre, Malawi | 261 |
-| 10 | [JosephGMkonda](https://github.com/JosephGMkonda) | Joseph Mkonda | codebuddy |  | malawi | 235 |
-| 11 | [IsaacKalambo22](https://github.com/IsaacKalambo22) | Isaac Kalambo | @InfinityCodeMw  | IsaacKalam44251 | Lilongwe | 230 |
+| 10 | [IsaacKalambo22](https://github.com/IsaacKalambo22) | Isaac Kalambo | @InfinityCodeMw  | IsaacKalam44251 | Lilongwe | 239 |
+| 11 | [JosephGMkonda](https://github.com/JosephGMkonda) | Joseph Mkonda | codebuddy |  | malawi | 235 |
 | 12 | [nbolok-code](https://github.com/nbolok-code) | Nathan Bolokonya |  |  | Malawi  | 222 |
 | 13 | [macneil265](https://github.com/macneil265) | Mac Neil | Mac Neil | macneil265 | Lilongwe | 206 |
 | 14 | [PreciousNyasulu](https://github.com/PreciousNyasulu) | Precious Nyasulu | @Angledimension @Almost-thr  ex @creditdatamw @golang-malawi | theebyter | Blantyre, Malawi | 202 |

@@ -1,6 +1,6 @@
 # Total Contributions - Mongolia
 
-Generated: 2026-10-20T14:22:29.519Z
+Generated: 2026-10-20T15:51:29.420Z
 
 Users: 804
 
@@ -15,11 +15,11 @@ Users: 804
 | 7 | [Amartuvshins0404](https://github.com/Amartuvshins0404) | Amartuvshin Surenjav | erxes | Amaraa2404 | Ulaanbaatar, Mongolia | 10822 |
 | 8 | [dolgoonnn](https://github.com/dolgoonnn) | Dolgoon | Numad Labs | Dolgoonnn1 | Ulaanbaatar, Mongolia | 9356 |
 | 9 | [sadespresso](https://github.com/sadespresso) | Батмэнд Ганбаатар | @gege-mn |  | Ulaanbaatar, Mongolia | 9198 |
-| 10 | [ebattulga](https://github.com/ebattulga) | ebattulga | Andromeda |  | Mongolia, Ulaanbaatar | 6632 |
-| 11 | [blgn94](https://github.com/blgn94) | Bilguun | Onlime LLC, Callpro Labs LLC, Callpro LLC |  | Erdenet, Mongolia | 6534 |
-| 12 | [turbold24](https://github.com/turbold24) | Turbold | @shoppyMN @cody-mn  | turu_mn | Ulaanbaatar, Mongolia | 6464 |
-| 13 | [mtergel](https://github.com/mtergel) | Tergel Munkhdelger |  |  | Mongolia | 5921 |
-| 14 | [ssxenon01](https://github.com/ssxenon01) | Gundsambuu | CODY | g_nd | Mongolia | 5822 |
+| 10 | [ssxenon01](https://github.com/ssxenon01) | Gundsambuu | CODY | g_nd | Mongolia | 6655 |
+| 11 | [ebattulga](https://github.com/ebattulga) | ebattulga | Andromeda |  | Mongolia, Ulaanbaatar | 6632 |
+| 12 | [blgn94](https://github.com/blgn94) | Bilguun | Onlime LLC, Callpro Labs LLC, Callpro LLC |  | Erdenet, Mongolia | 6534 |
+| 13 | [turbold24](https://github.com/turbold24) | Turbold | @shoppyMN @cody-mn  | turu_mn | Ulaanbaatar, Mongolia | 6464 |
+| 14 | [mtergel](https://github.com/mtergel) | Tergel Munkhdelger |  |  | Mongolia | 5921 |
 | 15 | [2khan](https://github.com/2khan) | Jargalsaikhan Erdenetsetseg |  |  | Ulaanbaatar, Mongolia | 5258 |
 | 16 | [anhbaysgalan1](https://github.com/anhbaysgalan1) | Ankhbayasgalan Davaadorj |  |  | Mongolia, Ulaanbaatar | 5254 |
 | 17 | [kyuna0312](https://github.com/kyuna0312) | kyuna0312 | Amari Hana Inc |  | Mongolia | 4786 |

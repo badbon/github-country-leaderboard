@@ -42,11 +42,11 @@ Indexed users: 740
 | 3 | [OthmanHaba](https://github.com/OthmanHaba) |  Othman Haba  (ง'̀-'́)ง     | Tripoli Libya | 1,291 |
 | 4 | [Uldy-USDBOT](https://github.com/Uldy-USDBOT) | ULDY | Libya | 1,088 |
 | 5 | [almontasser](https://github.com/almontasser) | Mahmoud Almontasser | Misurata, Libya | 721 |
-| 6 | [AbdulrahmanAbusnena](https://github.com/AbdulrahmanAbusnena) | Abdulrahman Abusnena | Tripoli, Libya | 706 |
-| 7 | [azzubairx](https://github.com/azzubairx) | Azzubair | Libya | 683 |
-| 8 | [hazembook](https://github.com/hazembook) | Hazem Shaban | Libya | 664 |
-| 9 | [Nick-800](https://github.com/Nick-800) | Sohaib Kamash | Libya | 664 |
-| 10 | [mhmdnab](https://github.com/mhmdnab) | Mohamad Naboulsi | Tripoli - Lebanon | 640 |
+| 6 | [Nick-800](https://github.com/Nick-800) | Sohaib Kamash | Libya | 708 |
+| 7 | [AbdulrahmanAbusnena](https://github.com/AbdulrahmanAbusnena) | Abdulrahman Abusnena | Tripoli, Libya | 706 |
+| 8 | [azzubairx](https://github.com/azzubairx) | Azzubair | Libya | 683 |
+| 9 | [hazembook](https://github.com/hazembook) | Hazem Shaban | Libya | 664 |
+| 10 | [mhmdnab](https://github.com/mhmdnab) | Mohamad Naboulsi | Tripoli - Lebanon | 652 |
 | 11 | [habberrih](https://github.com/habberrih) | Abdullah Habberrih | Libya | 502 |
 | 12 | [Asma-Nasr](https://github.com/Asma-Nasr) | Asmaa Nasr | Libya | 432 |
 | 13 | [salemaljebaly](https://github.com/salemaljebaly) | Salem Aljebaly | Libya | 423 |
@@ -83,4 +83,4 @@ Indexed users: 740
 | 19 | [ZizouHuweidi](https://github.com/ZizouHuweidi) | El Zubeir Huweidi | Benghazi, Libya | 51 |
 | 20 | [Islam-alshiki](https://github.com/Islam-alshiki) | Islam alshiki | Benghazi, Libya | 49 |
 
-Generated: 2026-10-20T14:13:04.516Z
+Generated: 2026-10-20T15:45:36.017Z

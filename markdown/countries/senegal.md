@@ -24,7 +24,7 @@ Indexed users: 1,355
 | 10 | [touskar](https://github.com/touskar) | Moussa Ndour DSI at INTech Group | Dakar | 5,806 |
 | 11 | [njaga](https://github.com/njaga) | Ndiaga Ndiaye | Dakar | 5,792 |
 | 12 | [i2sac](https://github.com/i2sac) | Louis Issac Jean Samba DIOUF | Dakar, Senegal | 5,737 |
-| 13 | [elias-ba](https://github.com/elias-ba) | Elias Waly Ba | Dakar, Senegal | 5,184 |
+| 13 | [elias-ba](https://github.com/elias-ba) | Elias Waly Ba | Dakar, Senegal | 5,243 |
 | 14 | [ZooM982](https://github.com/ZooM982) | Revhieno Roll Haurly MBOUTA  | Dakar, Sénégal | 5,078 |
 | 15 | [crossben](https://github.com/crossben) |  | Dakar | 4,869 |
 | 16 | [Denver-sn](https://github.com/Denver-sn) | DℰℕVℰℛ | Senegal,Dakar | 4,711 |
@@ -66,7 +66,7 @@ Indexed users: 1,355
 | 2 | [ibrahima92](https://github.com/ibrahima92) | Ibrahima Ndaw | Senegal | 318 |
 | 3 | [daoodaba975](https://github.com/daoodaba975) | Daouda BA | Dakar, SN | 282 |
 | 4 | [orbitturner](https://github.com/orbitturner) | Orbit Turner | Dakar, Senegal | 272 |
-| 5 | [elias-ba](https://github.com/elias-ba) | Elias Waly Ba | Dakar, Senegal | 232 |
+| 5 | [elias-ba](https://github.com/elias-ba) | Elias Waly Ba | Dakar, Senegal | 233 |
 | 6 | [EpsilonCoder](https://github.com/EpsilonCoder) | Epsilon | Dakar ,Senegal | 226 |
 | 7 | [eliaswalyba](https://github.com/eliaswalyba) | Elias W. BA | Dakar, Sénégal | 214 |
 | 8 | [PapiHack](https://github.com/PapiHack) | Meissa (Papi) Mbaye | Dakar, Senegal | 196 |
@@ -83,4 +83,4 @@ Indexed users: 1,355
 | 19 | [ngorseck](https://github.com/ngorseck) | Ngor SECK | Dakar - Sénégal | 142 |
 | 20 | [patheGobel](https://github.com/patheGobel) | Pathé BA | Senegal  | 141 |
 
-Generated: 2026-10-20T14:37:53.075Z
+Generated: 2026-10-20T16:13:52.703Z

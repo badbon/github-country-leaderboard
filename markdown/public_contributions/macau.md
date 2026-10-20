@@ -1,13 +1,13 @@
 # Public Contributions - Macau
 
-Generated: 2026-10-20T14:14:03.694Z
+Generated: 2026-10-20T15:47:33.473Z
 
 Users: 439
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [sou350121](https://github.com/sou350121) | KenSou |  |  | Macau | 5581 |
-| 2 | [spiritLHLS](https://github.com/spiritLHLS) | spiritlhl | CAICT |  | Macau | 5329 |
+| 2 | [spiritLHLS](https://github.com/spiritLHLS) | spiritlhl | CAICT |  | Macau | 5372 |
 | 3 | [sfcheung](https://github.com/sfcheung) | Shu Fai Cheung | University of Macau | blogonresearch | Macao | 2845 |
 | 4 | [RyanKung](https://github.com/RyanKung) | Elder Ryan |  | Elder24601 | Macau | 2471 |
 | 5 | [mugpeng](https://github.com/mugpeng) | Peng |  |  | macao | 2284 |

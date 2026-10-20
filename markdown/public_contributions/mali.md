@@ -1,6 +1,6 @@
 # Public Contributions - Mali
 
-Generated: 2026-10-20T14:16:57.945Z
+Generated: 2026-10-20T15:48:56.847Z
 
 Users: 347
 
@@ -12,8 +12,8 @@ Users: 347
 | 4 | [rgaudin](https://github.com/rgaudin) | rgaudin | yɛlɛman |  | Bamako, Mali | 1122 |
 | 5 | [sudoping01](https://github.com/sudoping01) | sed | .... |  | Bamako | 1112 |
 | 6 | [Abbv75](https://github.com/Abbv75) | Younouss Boré  | HorizonFuture |  | Bamako, telecel GBS | 566 |
-| 7 | [skypper109](https://github.com/skypper109) | SKYPPER | AMD tech |  | Mali | 408 |
-| 8 | [tijjanismk](https://github.com/tijjanismk) |  |  |  | Mali | 396 |
+| 7 | [tijjanismk](https://github.com/tijjanismk) |  |  |  | Mali | 409 |
+| 8 | [skypper109](https://github.com/skypper109) | SKYPPER | AMD tech |  | Mali | 408 |
 | 9 | [LeoAz](https://github.com/LeoAz) | Lionel AZ |  |  | Bamako | 385 |
 | 10 | [Abdoul03](https://github.com/Abdoul03) | Abdoul Ibrahima Samaké | Tuwindi Foundation |  | Bamako | 345 |
 | 11 | [THIOYE97](https://github.com/THIOYE97) | THIOYE MARIKO | Danapay |  | Bamako , Mali 🇲🇱  | 324 |

@@ -71,8 +71,8 @@ Indexed users: 360
 | 7 | [tinbotu](https://github.com/tinbotu) | Akira KUMAGAI | ວຽງຈັນ, Laos | 27 |
 | 8 | [Dan16ssd](https://github.com/Dan16ssd) | Sinthanavanh Sinsamphanh | Vientiane, Laos | 24 |
 | 9 | [khatthaphone](https://github.com/khatthaphone) | Khatthaphone Sengvilai | Vientiane, Laos | 24 |
-| 10 | [Tedev555](https://github.com/Tedev555) | Thanongsine Chanthakham | Vientiane, Laos | 24 |
-| 11 | [huevangxp](https://github.com/huevangxp) | Hue Vang | laos | 23 |
+| 10 | [huevangxp](https://github.com/huevangxp) | Hue Vang | laos | 23 |
+| 11 | [Tedev555](https://github.com/Tedev555) | Thanongsine Chanthakham | Vientiane, Laos | 23 |
 | 12 | [bobby-sills](https://github.com/bobby-sills) | Bobby Sills | Vientiane, Laos | 22 |
 | 13 | [dhecaptain](https://github.com/dhecaptain) | David Wambua | Laos | 22 |
 | 14 | [os555](https://github.com/os555) | Outhai SAIOUDOM | Laos | 22 |
@@ -83,4 +83,4 @@ Indexed users: 360
 | 19 | [Sengkue](https://github.com/Sengkue) | SengKueVang | Laos, Vientiane capital | 16 |
 | 20 | [JarnKet](https://github.com/JarnKet) | Ketsadaphone BOUTPANYDA | Savannakhet, Laos | 14 |
 
-Generated: 2026-10-20T14:12:25.857Z
+Generated: 2026-10-20T15:43:09.257Z

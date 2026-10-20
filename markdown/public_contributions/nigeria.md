@@ -1,6 +1,6 @@
 # Public Contributions - Nigeria
 
-Generated: 2026-10-20T14:25:44.712Z
+Generated: 2026-10-20T15:59:49.693Z
 
 Users: 33179
 
@@ -15,11 +15,11 @@ Users: 33179
 | 7 | [beresdowds-afk](https://github.com/beresdowds-afk) | Olusola Adebayo  | East-forte-fabrications-and-equipments  |  | Nigeria  | 7029 |
 | 8 | [eshanokpe](https://github.com/eshanokpe) | Dannicode | Infoscert |  | Lagos, Nigeria | 6755 |
 | 9 | [Emmy123222](https://github.com/Emmy123222) | Emmanuel ogheneovo | Guild Audit | EmmanuelOg75160 | Nigeria | 6701 |
-| 10 | [ademosuoluwatobi-cloud](https://github.com/ademosuoluwatobi-cloud) | Oluwatobi Peter Ademosu | Electrical & Electronics Engineer | Oluwatobiui | Ibadan, Nigeria | 6320 |
-| 11 | [aabxtract](https://github.com/aabxtract) | Afolami Anuoluwapo |  | anuafolami_ | Akure, Nigeria | 6194 |
-| 12 | [Xaxxoo](https://github.com/Xaxxoo) |  |  | xaxxoo | Nigeria | 6151 |
-| 13 | [Officialhomie](https://github.com/Officialhomie) | OneTrueHomie |  | officialhomie_ | Lagos, Nigeria | 5789 |
-| 14 | [caxtonacollins](https://github.com/caxtonacollins) | caxton strange |  | CollinsCaxton4 | Nigeria | 5675 |
+| 10 | [caxtonacollins](https://github.com/caxtonacollins) | caxton strange |  | CollinsCaxton4 | Nigeria | 6490 |
+| 11 | [ademosuoluwatobi-cloud](https://github.com/ademosuoluwatobi-cloud) | Oluwatobi Peter Ademosu | Electrical & Electronics Engineer | Oluwatobiui | Ibadan, Nigeria | 6320 |
+| 12 | [aabxtract](https://github.com/aabxtract) | Afolami Anuoluwapo |  | anuafolami_ | Akure, Nigeria | 6194 |
+| 13 | [Xaxxoo](https://github.com/Xaxxoo) |  |  | xaxxoo | Nigeria | 6151 |
+| 14 | [Officialhomie](https://github.com/Officialhomie) | OneTrueHomie |  | officialhomie_ | Lagos, Nigeria | 5789 |
 | 15 | [DiceTech435](https://github.com/DiceTech435) | Amevye Matthew | 🎯 DICES |  | Lagos, Nigeria | 5604 |
 | 16 | [xt42io](https://github.com/xt42io) | Akinkunmi |  |  | Nigeria | 5016 |
 | 17 | [O-BERNARDOFOEGBU](https://github.com/O-BERNARDOFOEGBU) | Bernard Ofoegbu |  |  | Nigeria | 4979 |

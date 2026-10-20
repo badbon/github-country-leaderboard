@@ -1,6 +1,6 @@
 # Followers - Maldives
 
-Generated: 2026-10-20T14:16:30.283Z
+Generated: 2026-10-20T15:48:24.329Z
 
 Users: 354
 
@@ -23,6 +23,6 @@ Users: 354
 | 15 | [ajaaibu](https://github.com/ajaaibu) | Ahmed Ali |  |  | Maldives | 59 |
 | 16 | [Adamwaheed](https://github.com/Adamwaheed) | Adam | @HelloWoldMV @pension  |  | Maldives | 46 |
 | 17 | [mohamed-azhar](https://github.com/mohamed-azhar) | Mohamed Azhar | State Trading Organization Plc | _moaz__ | Maldives | 45 |
-| 18 | [ameer1234567890](https://github.com/ameer1234567890) | Ameer Dawood |  |  | Thulhaadhoo, Maldives | 42 |
+| 18 | [ameer1234567890](https://github.com/ameer1234567890) | Ameer Dawood |  |  | Thulhaadhoo, Maldives | 43 |
 | 19 | [muhannad0](https://github.com/muhannad0) | Monde | @LottieFiles | monde_ | Maldives | 42 |
 | 20 | [inash](https://github.com/inash) | Inash Zubair | cover.tech | inashz | Male', Maldives | 41 |

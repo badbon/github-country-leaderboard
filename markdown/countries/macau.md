@@ -13,7 +13,7 @@ Indexed users: 439
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [K4Lok](https://github.com/K4Lok) | KaLok Sam | Macau | 11,854 |
-| 2 | [spiritLHLS](https://github.com/spiritLHLS) | spiritlhl | Macau | 9,838 |
+| 2 | [spiritLHLS](https://github.com/spiritLHLS) | spiritlhl | Macau | 9,898 |
 | 3 | [vergilsoleyn](https://github.com/vergilsoleyn) |  | Macau | 8,126 |
 | 4 | [Chonwai](https://github.com/Chonwai) | Chonwai Un, Edison | Macau | 7,493 |
 | 5 | [kenischu](https://github.com/kenischu) | Kenis Chu | Macau | 6,201 |
@@ -38,7 +38,7 @@ Indexed users: 439
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [sou350121](https://github.com/sou350121) | KenSou | Macau | 5,581 |
-| 2 | [spiritLHLS](https://github.com/spiritLHLS) | spiritlhl | Macau | 5,329 |
+| 2 | [spiritLHLS](https://github.com/spiritLHLS) | spiritlhl | Macau | 5,372 |
 | 3 | [sfcheung](https://github.com/sfcheung) | Shu Fai Cheung | Macao | 2,845 |
 | 4 | [RyanKung](https://github.com/RyanKung) | Elder Ryan | Macau | 2,471 |
 | 5 | [mugpeng](https://github.com/mugpeng) | Peng | macao | 2,284 |
@@ -83,4 +83,4 @@ Indexed users: 439
 | 19 | [1595901624](https://github.com/1595901624) | Cloris | Macau | 68 |
 | 20 | [Boom5426](https://github.com/Boom5426) | Bo li (李波) | Macau | 68 |
 
-Generated: 2026-10-20T14:14:03.694Z
+Generated: 2026-10-20T15:47:33.473Z

@@ -29,8 +29,8 @@ Indexed users: 1,532
 | 15 | [Wolfkid200444](https://github.com/Wolfkid200444) | Wolfie | Puerto Rico | 6,312 |
 | 16 | [grpecunia](https://github.com/grpecunia) | Gustavo Rivera Pecunia | San Juan, PR | 6,140 |
 | 17 | [cfboy](https://github.com/cfboy) | Cristian F. Torres Collazo | San Juan, Puerto Rico | 6,086 |
-| 18 | [egmtm](https://github.com/egmtm) | EGM™ | Puerto Rico | 5,875 |
-| 19 | [torlanco](https://github.com/torlanco) | Francisco Tirado | San juan, Puerto Rico | 5,843 |
+| 18 | [torlanco](https://github.com/torlanco) | Francisco Tirado | San juan, Puerto Rico | 5,932 |
+| 19 | [egmtm](https://github.com/egmtm) | EGM™ | Puerto Rico | 5,875 |
 | 20 | [ChristianPerez34](https://github.com/ChristianPerez34) | Christian Perez Villanueva | Puerto Rico | 5,790 |
 
 ## Public Contributions
@@ -62,7 +62,7 @@ Indexed users: 1,532
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [darkoperator](https://github.com/darkoperator) | Carlos Perez | Puerto Rico | 2,193 |
+| 1 | [darkoperator](https://github.com/darkoperator) | Carlos Perez | Puerto Rico | 2,195 |
 | 2 | [josean-dev](https://github.com/josean-dev) | Josean Martinez | Puerto Rico | 1,386 |
 | 3 | [shawntabrizi](https://github.com/shawntabrizi) | Shawn Tabrizi | Puerto Rico | 1,114 |
 | 4 | [Sparragus](https://github.com/Sparragus) | Richard B. Kaufman-López | Puerto Rico | 689 |
@@ -83,4 +83,4 @@ Indexed users: 1,532
 | 19 | [rnegron](https://github.com/rnegron) | Raúl Negrón-Otero | Bayamón, Puerto Rico | 113 |
 | 20 | [hackingbutlegal](https://github.com/hackingbutlegal) | Jackie Singh | San Juan, PR | 107 |
 
-Generated: 2026-10-20T14:32:58.055Z
+Generated: 2026-10-20T16:04:54.046Z

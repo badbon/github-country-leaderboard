@@ -1,12 +1,12 @@
 # Followers - Puerto Rico
 
-Generated: 2026-10-20T14:32:58.055Z
+Generated: 2026-10-20T16:04:54.046Z
 
 Users: 1532
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [darkoperator](https://github.com/darkoperator) | Carlos Perez |  | carlos_perez | Puerto Rico | 2193 |
+| 1 | [darkoperator](https://github.com/darkoperator) | Carlos Perez |  | carlos_perez | Puerto Rico | 2195 |
 | 2 | [josean-dev](https://github.com/josean-dev) | Josean Martinez |  |  | Puerto Rico | 1386 |
 | 3 | [shawntabrizi](https://github.com/shawntabrizi) | Shawn Tabrizi | @paritytech  | shawntabrizi | Puerto Rico | 1114 |
 | 4 | [Sparragus](https://github.com/Sparragus) | Richard B. Kaufman-López |  | sparragus | Puerto Rico | 689 |

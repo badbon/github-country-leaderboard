@@ -69,8 +69,8 @@ Indexed users: 1,924
 | 5 | [trajchevska](https://github.com/trajchevska) | Katerina Trajchevska | Skopje Macedonia | 462 |
 | 6 | [xStephx](https://github.com/xStephx) | Stefan Bojkovski | Macedonia | 306 |
 | 7 | [BojanaVasilevska](https://github.com/BojanaVasilevska) | Bojana  | Macedonia | 292 |
-| 8 | [Shekswess](https://github.com/Shekswess) | Bojan Jakimovski | Skopje, Macedonia | 242 |
-| 9 | [callibra](https://github.com/callibra) | Ivan Gjorcev  | Sveti Nikole, Macedonia  🌎 🗺️ | 225 |
+| 8 | [callibra](https://github.com/callibra) | Ivan Gjorcev  | Sveti Nikole, Macedonia  🌎 🗺️ | 243 |
+| 9 | [Shekswess](https://github.com/Shekswess) | Bojan Jakimovski | Skopje, Macedonia | 242 |
 | 10 | [stefanandonov](https://github.com/stefanandonov) | Stefan Andonov | Skopje, Macedonia | 223 |
 | 11 | [MTrajK](https://github.com/MTrajK) | Meto Trajkovski | Skopje | 215 |
 | 12 | [hf](https://github.com/hf) | Stojan Dimitrovski | Skopje, Republic of North Macedonia | 201 |
@@ -78,9 +78,9 @@ Indexed users: 1,924
 | 14 | [andrejsshell](https://github.com/andrejsshell) | Andrej | Skopje | 180 |
 | 15 | [visar](https://github.com/visar) | Visar Zejnullahu | Skopje, Macedonia | 180 |
 | 16 | [MatejMecka](https://github.com/MatejMecka) | Matej Plavevski | Skopje, Macedonia | 178 |
-| 17 | [eritislami](https://github.com/eritislami) | Erit Islami | Struga, North Macedonia | 172 |
+| 17 | [eritislami](https://github.com/eritislami) | Erit Islami | Struga, North Macedonia | 174 |
 | 18 | [sweko](https://github.com/sweko) | Wekoslav Stefanovski | Skopje | 171 |
 | 19 | [bor0](https://github.com/bor0) | Boro Sitnikovski | Skopje, North Macedonia | 166 |
 | 20 | [gdamjan](https://github.com/gdamjan) | Дамјан Георгиевски | Skopje, Macedonia | 145 |
 
-Generated: 2026-10-20T14:27:00.403Z
+Generated: 2026-10-20T16:00:42.030Z
