@@ -39007,7 +39007,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 1410,
+    "privateContributions": 1378,
     "publicContributions": 0,
     "createdAt": "2018-04-24T13:21:12Z"
   },
@@ -39030,7 +39030,7 @@
     "location": "Uruguay",
     "company": "UruIT",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-02-12T19:56:44Z"
@@ -39041,10 +39041,10 @@
     "avatarUrl": "https://avatars.githubusercontent.com/u/43073940?s=72&u=e51da2d10b6916a060e41b53c9bcb94bd698ed46&v=4",
     "location": "Montevideo, Uruguay",
     "company": "Universidad ORT Uruguay",
-    "twitterUsername": "f_danza",
+    "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 3,
     "createdAt": "2018-09-07T16:43:50Z"
   },
   {
@@ -39102,9 +39102,9 @@
     "location": "Lomas De Solymar, Canelones, Uruguay",
     "company": "Memito Software",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 152,
-    "publicContributions": 3,
+    "followers": 4,
+    "privateContributions": 52,
+    "publicContributions": 2,
     "createdAt": "2018-06-04T15:38:01Z"
   },
   {
@@ -39114,7 +39114,7 @@
     "location": "Montevideo, Uruguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-03-15T11:40:11Z"
@@ -39151,8 +39151,8 @@
     "company": "Me",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 5,
-    "publicContributions": 33,
+    "privateContributions": 10,
+    "publicContributions": 34,
     "createdAt": "2018-06-11T07:21:48Z"
   },
   {
@@ -39175,8 +39175,8 @@
     "company": "UniónCapital AFAP (Itaú)",
     "twitterUsername": "federicodeleonm",
     "followers": 3,
-    "privateContributions": 3472,
-    "publicContributions": 123,
+    "privateContributions": 6317,
+    "publicContributions": 134,
     "createdAt": "2018-08-10T00:09:58Z"
   },
   {
@@ -39187,8 +39187,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 72,
-    "publicContributions": 50,
+    "privateContributions": 41,
+    "publicContributions": 62,
     "createdAt": "2018-02-11T22:24:06Z"
   },
   {
@@ -39205,14 +39205,14 @@
   },
   {
     "login": "SeveralTool",
-    "name": "Nahuel Galeano",
+    "name": "Nahuel",
     "avatarUrl": "https://avatars.githubusercontent.com/u/40505451?s=72&u=d43aeb36873d7e274593fa87b3ef5ea9b4e37f8b&v=4",
     "location": "Montevideo, Uruguay",
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 37,
-    "publicContributions": 2,
+    "privateContributions": 21,
+    "publicContributions": 13,
     "createdAt": "2018-06-22T22:39:19Z"
   },
   {
@@ -39234,7 +39234,7 @@
     "location": "Uruguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 5,
     "publicContributions": 11,
     "createdAt": "2018-03-08T23:08:04Z"

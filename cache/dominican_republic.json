@@ -39480,18 +39480,6 @@
     "createdAt": "2026-05-25T13:41:35Z"
   },
   {
-    "login": "geoabrec",
-    "name": "geomar",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/293632675?s=72&u=e508f9e4d572a5a1f9265281f268063c46c046e0&v=4",
-    "location": "Dominican Republic",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 14,
-    "createdAt": "2026-06-14T16:39:19Z"
-  },
-  {
     "login": "leudymanuel001",
     "name": "Leudy Peña",
     "avatarUrl": "https://avatars.githubusercontent.com/u/291379927?s=72&v=4",
@@ -39528,18 +39516,6 @@
     "createdAt": "2026-05-25T05:23:47Z"
   },
   {
-    "login": "seba-rami",
-    "name": "Sebastián Ramírez",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/290223346?s=72&v=4",
-    "location": "Santo Domingo, Rep. Dom.",
-    "company": "Instiuto Tecnológico de Santo Domingo (INTEC)",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 25,
-    "createdAt": "2026-06-03T02:50:14Z"
-  },
-  {
     "login": "lorenzoecastillodev",
     "name": "Lorenzo Castillo",
     "avatarUrl": "https://avatars.githubusercontent.com/u/298809039?s=72&u=27dcb189bd5c8e532682514516e75e316c8f3eeb&v=4",
@@ -39547,7 +39523,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 28,
+    "privateContributions": 34,
     "publicContributions": 46,
     "createdAt": "2026-07-01T17:16:02Z"
   },

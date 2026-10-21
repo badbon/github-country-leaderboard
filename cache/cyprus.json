@@ -4560,18 +4560,6 @@
     "createdAt": "2022-04-24T18:28:18Z"
   },
   {
-    "login": "gumidnight",
-    "name": "Alexandros Georgiou",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/106652543?s=72&u=a3c93fb279ccfe31dbfd23bc15702cd8b89d42e6&v=4",
-    "location": "Cyprus",
-    "company": "",
-    "twitterUsername": "gumidnight",
-    "followers": 3,
-    "privateContributions": 481,
-    "publicContributions": 119,
-    "createdAt": "2022-06-01T06:59:22Z"
-  },
-  {
     "login": "Olerinskaia",
     "name": "Nadia",
     "avatarUrl": "https://avatars.githubusercontent.com/u/98804225?s=72&u=4345ae73cc40ca6cc8242d917b891fa50514352c&v=4",
@@ -4579,8 +4567,8 @@
     "company": "@bitquery",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 1614,
-    "publicContributions": 29,
+    "privateContributions": 1639,
+    "publicContributions": 32,
     "createdAt": "2022-02-01T07:59:24Z"
   },
   {
@@ -4615,8 +4603,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 567,
-    "publicContributions": 153,
+    "privateContributions": 600,
+    "publicContributions": 117,
     "createdAt": "2022-01-07T12:43:20Z"
   },
   {
@@ -4638,9 +4626,9 @@
     "location": "Famagusta, Cyprus",
     "company": "Eastern Mediterranean University",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 67,
     "createdAt": "2022-06-06T20:18:44Z"
   },
   {
@@ -4735,7 +4723,7 @@
     "company": "Coursiv",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1475,
+    "privateContributions": 1495,
     "publicContributions": 43,
     "createdAt": "2022-08-15T02:50:53Z"
   },
@@ -4752,18 +4740,6 @@
     "createdAt": "2022-04-20T08:42:59Z"
   },
   {
-    "login": "SCOnyema",
-    "name": "Samuel",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/116545915?s=72&u=f3c076f1691e63d647559b57494fe78cc82831ed&v=4",
-    "location": "Cyprus",
-    "company": "",
-    "twitterUsername": "letsgobaba",
-    "followers": 4,
-    "privateContributions": 627,
-    "publicContributions": 45,
-    "createdAt": "2022-10-24T07:18:27Z"
-  },
-  {
     "login": "maksimfrelikh",
     "name": "Maksim Frelikh",
     "avatarUrl": "https://avatars.githubusercontent.com/u/112934628?s=72&u=cccf95e0f89ce9a599392e7b02a7bbcad81c4ae5&v=4",
@@ -4771,8 +4747,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 128,
-    "publicContributions": 572,
+    "privateContributions": 135,
+    "publicContributions": 605,
     "createdAt": "2022-09-06T08:13:09Z"
   },
   {

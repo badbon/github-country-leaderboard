@@ -39182,13 +39182,13 @@
   {
     "login": "AliBakay",
     "name": "Ali Bakay",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/93271754?s=72&u=f38f598282e4c5000c4a7945253ee37717d515a1&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/93271754?s=72&v=4",
     "location": "Belgium",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 0,
     "createdAt": "2021-10-27T14:49:53Z"
   },
   {
@@ -39199,7 +39199,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
+    "privateContributions": 21,
     "publicContributions": 21,
     "createdAt": "2021-03-26T21:17:46Z"
   },
@@ -39222,7 +39222,7 @@
     "location": "Hasselt, Belgium",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-07-06T01:15:42Z"
@@ -39247,8 +39247,8 @@
     "company": "o2xp",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 69,
-    "publicContributions": 50,
+    "privateContributions": 27,
+    "publicContributions": 90,
     "createdAt": "2021-03-03T08:13:55Z"
   },
   {
@@ -39260,7 +39260,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 30,
+    "publicContributions": 43,
     "createdAt": "2021-11-21T10:38:20Z"
   },
   {
@@ -39319,8 +39319,8 @@
     "company": "EternityCorp",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 99,
-    "publicContributions": 24,
+    "privateContributions": 108,
+    "publicContributions": 22,
     "createdAt": "2021-08-16T18:42:28Z"
   },
   {
@@ -39331,7 +39331,7 @@
     "company": "@craftzing ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 245,
+    "privateContributions": 138,
     "publicContributions": 0,
     "createdAt": "2021-09-30T11:59:19Z"
   },
@@ -39355,7 +39355,7 @@
     "company": "@Vintecc ",
     "twitterUsername": "MathijsCarlu",
     "followers": 1,
-    "privateContributions": 1865,
+    "privateContributions": 2271,
     "publicContributions": 7,
     "createdAt": "2021-10-07T07:33:52Z"
   },

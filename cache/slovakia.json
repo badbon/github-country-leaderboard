@@ -38875,7 +38875,7 @@
     "company": "@elastic ",
     "twitterUsername": "",
     "followers": 34,
-    "privateContributions": 1803,
+    "privateContributions": 3394,
     "publicContributions": 3,
     "createdAt": "2014-07-31T12:57:24Z"
   },
@@ -38886,7 +38886,7 @@
     "location": "Slovakia",
     "company": "",
     "twitterUsername": "",
-    "followers": 34,
+    "followers": 35,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2014-08-23T19:20:06Z"
@@ -38898,22 +38898,10 @@
     "location": "Slovakia, Bratislava",
     "company": "",
     "twitterUsername": "",
-    "followers": 32,
-    "privateContributions": 148,
+    "followers": 30,
+    "privateContributions": 302,
     "publicContributions": 0,
     "createdAt": "2014-03-11T17:52:54Z"
-  },
-  {
-    "login": "lukas-pastva",
-    "name": "Lukáš Pastva",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/6751435?s=72&u=fffcd24c0db5713217136b0d33af1dc2b67e55da&v=4",
-    "location": "Slovakia, Bratislava",
-    "company": "lukaspastva.com",
-    "twitterUsername": "",
-    "followers": 32,
-    "privateContributions": 240,
-    "publicContributions": 528,
-    "createdAt": "2014-02-21T20:14:03Z"
   },
   {
     "login": "xezrunner",
@@ -38923,8 +38911,8 @@
     "company": "",
     "twitterUsername": "xezrunner",
     "followers": 31,
-    "privateContributions": 1404,
-    "publicContributions": 60,
+    "privateContributions": 2917,
+    "publicContributions": 5,
     "createdAt": "2014-07-03T17:56:10Z"
   },
   {
@@ -38935,7 +38923,7 @@
     "company": "",
     "twitterUsername": "fannasm",
     "followers": 31,
-    "privateContributions": 482,
+    "privateContributions": 530,
     "publicContributions": 1,
     "createdAt": "2014-10-02T15:20:49Z"
   },
@@ -38946,9 +38934,9 @@
     "location": "Slovakia",
     "company": "",
     "twitterUsername": "g43riko",
-    "followers": 31,
-    "privateContributions": 1626,
-    "publicContributions": 93,
+    "followers": 30,
+    "privateContributions": 1685,
+    "publicContributions": 70,
     "createdAt": "2014-04-04T14:23:22Z"
   },
   {
@@ -38958,8 +38946,8 @@
     "location": "Trencin, Slovakia",
     "company": "@Creativerse-sk @Kontentino",
     "twitterUsername": "",
-    "followers": 31,
-    "privateContributions": 1861,
+    "followers": 30,
+    "privateContributions": 2299,
     "publicContributions": 6,
     "createdAt": "2014-07-18T09:50:09Z"
   },
@@ -38970,9 +38958,9 @@
     "location": "Bratislava, Slovakia",
     "company": "@mynteo ",
     "twitterUsername": "",
-    "followers": 28,
+    "followers": 29,
     "privateContributions": 5,
-    "publicContributions": 168,
+    "publicContributions": 146,
     "createdAt": "2014-03-13T16:07:01Z"
   },
   {
@@ -38982,9 +38970,9 @@
     "location": "Slovakia",
     "company": "FastAddons",
     "twitterUsername": "",
-    "followers": 27,
+    "followers": 28,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 16,
     "createdAt": "2014-01-09T12:03:12Z"
   },
   {
@@ -38994,9 +38982,9 @@
     "location": "Slovakia",
     "company": "",
     "twitterUsername": "",
-    "followers": 26,
+    "followers": 28,
     "privateContributions": 0,
-    "publicContributions": 67,
+    "publicContributions": 88,
     "createdAt": "2014-02-13T08:43:56Z"
   },
   {
@@ -39006,9 +38994,9 @@
     "location": "Bratislava, Slovakia",
     "company": "@strangeloops-studio @qualitravel ",
     "twitterUsername": "andrejnano",
-    "followers": 25,
-    "privateContributions": 4368,
-    "publicContributions": 14,
+    "followers": 26,
+    "privateContributions": 6790,
+    "publicContributions": 15,
     "createdAt": "2014-12-07T15:49:43Z"
   },
   {
@@ -39018,9 +39006,9 @@
     "location": "Slovakia",
     "company": "",
     "twitterUsername": "",
-    "followers": 25,
+    "followers": 26,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 9,
     "createdAt": "2014-03-09T14:51:00Z"
   },
   {
@@ -39032,7 +39020,7 @@
     "twitterUsername": "",
     "followers": 24,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 3,
     "createdAt": "2014-08-13T19:22:08Z"
   },
   {
@@ -39054,9 +39042,9 @@
     "location": "Slovakia",
     "company": "",
     "twitterUsername": "PeterAchberger",
-    "followers": 24,
-    "privateContributions": 549,
-    "publicContributions": 659,
+    "followers": 25,
+    "privateContributions": 740,
+    "publicContributions": 536,
     "createdAt": "2014-01-07T16:23:30Z"
   },
   {
@@ -39066,9 +39054,9 @@
     "location": "Slovakia",
     "company": "ActivIT",
     "twitterUsername": "",
-    "followers": 24,
-    "privateContributions": 1115,
-    "publicContributions": 484,
+    "followers": 26,
+    "privateContributions": 1005,
+    "publicContributions": 2339,
     "createdAt": "2014-04-25T14:39:10Z"
   },
   {
@@ -39102,8 +39090,8 @@
     "location": "Slovakia",
     "company": "@Pocketbook-US ",
     "twitterUsername": "",
-    "followers": 22,
-    "privateContributions": 2949,
+    "followers": 21,
+    "privateContributions": 3216,
     "publicContributions": 0,
     "createdAt": "2014-07-29T14:02:00Z"
   },
