@@ -29,7 +29,7 @@ Indexed users: 132
 | 15 | [SanMajur](https://github.com/SanMajur) | Santino Majur Malong  | Juba, South Sudan | 347 |
 | 16 | [Dengtiel](https://github.com/Dengtiel) | Deng Mayen Deng Akol | Juba/Online | 329 |
 | 17 | [John-Tongun](https://github.com/John-Tongun) | John Tongun Wani | Juba South Sudan | 327 |
-| 18 | [uojai](https://github.com/uojai) | UoJ Artificial Intelligence | Juba, South Sudan | 279 |
+| 18 | [uojai](https://github.com/uojai) | UoJ Artificial Intelligence | Juba, South Sudan | 280 |
 | 19 | [deng-joe](https://github.com/deng-joe) | Joe | Juba, CE, South Sudan | 278 |
 | 20 | [nhial-cham](https://github.com/nhial-cham) | Nhial Cham | Juba, South Sudan | 273 |
 
@@ -50,7 +50,7 @@ Indexed users: 132
 | 11 | [SanMajur](https://github.com/SanMajur) | Santino Majur Malong  | Juba, South Sudan | 347 |
 | 12 | [John-Tongun](https://github.com/John-Tongun) | John Tongun Wani | Juba South Sudan | 327 |
 | 13 | [Dengtiel](https://github.com/Dengtiel) | Deng Mayen Deng Akol | Juba/Online | 324 |
-| 14 | [uojai](https://github.com/uojai) | UoJ Artificial Intelligence | Juba, South Sudan | 279 |
+| 14 | [uojai](https://github.com/uojai) | UoJ Artificial Intelligence | Juba, South Sudan | 280 |
 | 15 | [nhial-cham](https://github.com/nhial-cham) | Nhial Cham | Juba, South Sudan | 273 |
 | 16 | [Yel-Mangok](https://github.com/Yel-Mangok) |  | South Sudan | 271 |
 | 17 | [felixuxx](https://github.com/felixuxx) | ... | Juba, South Sudan | 268 |
@@ -83,4 +83,4 @@ Indexed users: 132
 | 19 | [Amalsouthsudan23](https://github.com/Amalsouthsudan23) | AMAL South Sudan | South Sudan | 15 |
 | 20 | [Codetym](https://github.com/Codetym) | Nelson Mandela D.M.J | Juba, South Sudan  | 14 |
 
-Generated: 2026-10-21T19:50:33.884Z
+Generated: 2026-10-21T21:25:35.797Z
