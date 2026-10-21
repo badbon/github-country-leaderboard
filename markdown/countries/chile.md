@@ -1,6 +1,6 @@
 # Chile
 
-Indexed users: 19,377
+Indexed users: 19,376
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 19,377
 | 19 | [clsource](https://github.com/clsource) | Camilo | BEAM, Chile | 421 |
 | 20 | [Dieg0Code](https://github.com/Dieg0Code) | Diego | Chile | 420 |
 
-Generated: 2026-10-21T15:13:39.865Z
+Generated: 2026-10-21T16:51:49.189Z

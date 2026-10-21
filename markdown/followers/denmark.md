@@ -1,8 +1,8 @@
 # Followers - Denmark
 
-Generated: 2026-10-21T15:19:18.171Z
+Generated: 2026-10-21T16:57:09.294Z
 
-Users: 19296
+Users: 19295
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

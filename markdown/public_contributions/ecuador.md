@@ -1,6 +1,6 @@
 # Public Contributions - Ecuador
 
-Generated: 2026-10-21T15:21:31.847Z
+Generated: 2026-10-21T16:58:30.977Z
 
 Users: 4876
 
@@ -18,11 +18,11 @@ Users: 4876
 | 10 | [alcb1310](https://github.com/alcb1310) | Andres Court | AlcbSystems | alcb1310 | Quito, Ecuador | 2954 |
 | 11 | [anchundiatech](https://github.com/anchundiatech) | Alejandro Anchundia |  |  | Ecuador | 2429 |
 | 12 | [Patogol35](https://github.com/Patogol35) | Jorge Patricio Santamaría Cherrez |  |  | Ambato, Ecuador  | 2376 |
-| 13 | [jxlarrea](https://github.com/jxlarrea) | Xavier Larrea |  | jxlarrea | Ecuador | 2032 |
-| 14 | [AndSanG](https://github.com/AndSanG) | Andrés Sánchez |  |  | Quito - Ecuador | 1927 |
-| 15 | [devsebastian44](https://github.com/devsebastian44) | Sebastian Zhunaula |  | devsebastian44 | Ecuador | 1878 |
-| 16 | [AndrezRecalde](https://github.com/AndrezRecalde) | Andres Recalde |  |  | Ecuador | 1812 |
-| 17 | [DavidAucancela](https://github.com/DavidAucancela) |  | Here and there |  | Quito, Ecuador | 1742 |
-| 18 | [Alanjavier22](https://github.com/Alanjavier22) | Alan Mejia |  |  | Ecuador | 1738 |
-| 19 | [itusebastian](https://github.com/itusebastian) | Sebastián Iturralde | BUOY |  | Cumbayá, Ecuador | 1665 |
-| 20 | [pedrodcsjostrom](https://github.com/pedrodcsjostrom) | Peter | @ez-donate @ioet @gdg-quito  | peterDev_ | Quito, Ecuador | 1627 |
+| 13 | [MigelAngelEC](https://github.com/MigelAngelEC) | Miguel Angel Esparza |  | MigelAngel_ec | Ecuador | 2083 |
+| 14 | [jxlarrea](https://github.com/jxlarrea) | Xavier Larrea |  | jxlarrea | Ecuador | 2032 |
+| 15 | [AndSanG](https://github.com/AndSanG) | Andrés Sánchez |  |  | Quito - Ecuador | 1927 |
+| 16 | [devsebastian44](https://github.com/devsebastian44) | Sebastian Zhunaula |  | devsebastian44 | Ecuador | 1878 |
+| 17 | [AndrezRecalde](https://github.com/AndrezRecalde) | Andres Recalde |  |  | Ecuador | 1812 |
+| 18 | [DavidAucancela](https://github.com/DavidAucancela) |  | Here and there |  | Quito, Ecuador | 1742 |
+| 19 | [Alanjavier22](https://github.com/Alanjavier22) | Alan Mejia |  |  | Ecuador | 1738 |
+| 20 | [itusebastian](https://github.com/itusebastian) | Sebastián Iturralde | BUOY |  | Cumbayá, Ecuador | 1665 |

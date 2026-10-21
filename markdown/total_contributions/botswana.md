@@ -1,6 +1,6 @@
 # Total Contributions - Botswana
 
-Generated: 2026-10-21T15:09:19.052Z
+Generated: 2026-10-21T16:46:40.239Z
 
 Users: 533
 
@@ -9,8 +9,8 @@ Users: 533
 | 1 | [kalungia](https://github.com/kalungia) | Abraham Kalungi | imbra |  | Botswana, Gaborone | 8501 |
 | 2 | [Chalebgwa](https://github.com/Chalebgwa) | Pako Chalebgwa | Alba Connect | soundninja0401 | Botswana,Gaborone | 8253 |
 | 3 | [rasali535](https://github.com/rasali535) | Alpheaus Chiwaze | Ras Ali Labs  |  | Botswana, Gaborone | 2915 |
-| 4 | [darula-hpp](https://github.com/darula-hpp) | Olebogeng Mbedzi | Gitwork |  | Gaborone | 2675 |
-| 5 | [kmaphane](https://github.com/kmaphane) | Kenna Maphane | @I-kenye  |  | Maun, Botswana | 2634 |
+| 4 | [kmaphane](https://github.com/kmaphane) | Kenna Maphane | @I-kenye  |  | Maun, Botswana | 2690 |
+| 5 | [darula-hpp](https://github.com/darula-hpp) | Olebogeng Mbedzi | Gitwork |  | Gaborone | 2675 |
 | 6 | [tiromodibedi](https://github.com/tiromodibedi) | Tiro Modibedi |  |  | Gaborone, Botswana | 2626 |
 | 7 | [Batoli19](https://github.com/Batoli19) | future |  |  | Gaborone | 2504 |
 | 8 | [ChinyangaTL](https://github.com/ChinyangaTL) | Les Chinyanga | @africacodeacademy @wholeapp  |  | Gaborone, Botswana | 2474 |

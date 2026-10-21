@@ -49,14 +49,14 @@ Indexed users: 4,876
 | 10 | [alcb1310](https://github.com/alcb1310) | Andres Court | Quito, Ecuador | 2,954 |
 | 11 | [anchundiatech](https://github.com/anchundiatech) | Alejandro Anchundia | Ecuador | 2,429 |
 | 12 | [Patogol35](https://github.com/Patogol35) | Jorge Patricio Santamaría Cherrez | Ambato, Ecuador  | 2,376 |
-| 13 | [jxlarrea](https://github.com/jxlarrea) | Xavier Larrea | Ecuador | 2,032 |
-| 14 | [AndSanG](https://github.com/AndSanG) | Andrés Sánchez | Quito - Ecuador | 1,927 |
-| 15 | [devsebastian44](https://github.com/devsebastian44) | Sebastian Zhunaula | Ecuador | 1,878 |
-| 16 | [AndrezRecalde](https://github.com/AndrezRecalde) | Andres Recalde | Ecuador | 1,812 |
-| 17 | [DavidAucancela](https://github.com/DavidAucancela) |  | Quito, Ecuador | 1,742 |
-| 18 | [Alanjavier22](https://github.com/Alanjavier22) | Alan Mejia | Ecuador | 1,738 |
-| 19 | [itusebastian](https://github.com/itusebastian) | Sebastián Iturralde | Cumbayá, Ecuador | 1,665 |
-| 20 | [pedrodcsjostrom](https://github.com/pedrodcsjostrom) | Peter | Quito, Ecuador | 1,627 |
+| 13 | [MigelAngelEC](https://github.com/MigelAngelEC) | Miguel Angel Esparza | Ecuador | 2,083 |
+| 14 | [jxlarrea](https://github.com/jxlarrea) | Xavier Larrea | Ecuador | 2,032 |
+| 15 | [AndSanG](https://github.com/AndSanG) | Andrés Sánchez | Quito - Ecuador | 1,927 |
+| 16 | [devsebastian44](https://github.com/devsebastian44) | Sebastian Zhunaula | Ecuador | 1,878 |
+| 17 | [AndrezRecalde](https://github.com/AndrezRecalde) | Andres Recalde | Ecuador | 1,812 |
+| 18 | [DavidAucancela](https://github.com/DavidAucancela) |  | Quito, Ecuador | 1,742 |
+| 19 | [Alanjavier22](https://github.com/Alanjavier22) | Alan Mejia | Ecuador | 1,738 |
+| 20 | [itusebastian](https://github.com/itusebastian) | Sebastián Iturralde | Cumbayá, Ecuador | 1,665 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 4,876
 | 19 | [Bryan-Herrera-DEV](https://github.com/Bryan-Herrera-DEV) | Bryan Herrera ~ ርᚱ1ናተᛰ ᚻህᚥተპᚱ | Ecuador | 116 |
 | 20 | [Davichobits](https://github.com/Davichobits) | David Ruiz | Ecuador | 116 |
 
-Generated: 2026-10-21T15:21:31.847Z
+Generated: 2026-10-21T16:58:30.977Z

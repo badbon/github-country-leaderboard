@@ -1,12 +1,12 @@
 # Public Contributions - Bolivia
 
-Generated: 2026-10-21T15:08:32.371Z
+Generated: 2026-10-21T16:46:31.584Z
 
 Users: 1783
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [AndyIbanez](https://github.com/AndyIbanez) | Andy Ibanez | Fairese | AndyIbanezK | Bolivia | 25237 |
+| 1 | [AndyIbanez](https://github.com/AndyIbanez) | Andy Ibanez | Fairese | AndyIbanezK | Bolivia | 25210 |
 | 2 | [DaleneyRuben](https://github.com/DaleneyRuben) | Fernando Daleney | TurboTenant |  | La Paz, Bolivia | 3428 |
 | 3 | [DanielTorres1](https://github.com/DanielTorres1) | Daniel Torres Sandi |  |  | Bolivia | 3039 |
 | 4 | [OscarGauss](https://github.com/OscarGauss) | Oscar Gauss Carvajal Yucra |  | oscar_gauss | La Paz, Bolivia | 2833 |
@@ -21,8 +21,8 @@ Users: 1783
 | 13 | [samuelloza](https://github.com/samuelloza) | Samuel Loza Ramirez |  |  | Bolivia | 1245 |
 | 14 | [pachonjcl](https://github.com/pachonjcl) | Jose Carlos Laura Ramirez |  |  | La Paz, Bolivia | 1242 |
 | 15 | [asosab](https://github.com/asosab) | Alejandro Sosa Briceño |  | asosab | Bolivia | 1225 |
-| 16 | [jhersON1](https://github.com/jhersON1) | Jherson Rodriguez |  |  | Bolivia | 1212 |
-| 17 | [alphaonex86](https://github.com/alphaonex86) | BRULE Herman Jacques Roger | Confiared S.R.L. |  | Santa cruz de la sierra, Bolivia | 1199 |
+| 16 | [alphaonex86](https://github.com/alphaonex86) | BRULE Herman Jacques Roger | Confiared S.R.L. |  | Santa cruz de la sierra, Bolivia | 1214 |
+| 17 | [jhersON1](https://github.com/jhersON1) | Jherson Rodriguez |  |  | Bolivia | 1212 |
 | 18 | [Lotiel-Dev](https://github.com/Lotiel-Dev) | Carlos Antonio Gutierrez Copara | Higher University of San Simón | Gerceis81 | Bolivia | 1193 |
 | 19 | [igidio](https://github.com/igidio) | Salvador Cáceres C. |  |  | Bolivia | 1147 |
 | 20 | [nicobytes](https://github.com/nicobytes) | Nicolas Molina Monroy |  | nicobytes | Cochabamba, Bolivia | 1096 |

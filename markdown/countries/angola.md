@@ -50,7 +50,7 @@ Indexed users: 2,498
 | 11 | [adilson889](https://github.com/adilson889) | Adilson C. Rafael | Moçâmedes, Namibe, Angola | 1,652 |
 | 12 | [LouAntonio](https://github.com/LouAntonio) | Lourenço António Dala | Luanda, Angola | 1,569 |
 | 13 | [SW-Wanted](https://github.com/SW-Wanted) | Emanuel dos Santos | Angola | 1,421 |
-| 14 | [jormaedes](https://github.com/jormaedes) | Jormaedes Luís | Angola | 1,374 |
+| 14 | [jormaedes](https://github.com/jormaedes) | Jormaedes Luís | Angola | 1,388 |
 | 15 | [joaquimmulaza](https://github.com/joaquimmulaza) | Joaquim Mulaza | Luanda Angola | 1,332 |
 | 16 | [ercabsalias](https://github.com/ercabsalias) | Ernesto Cabingano Salias | Angola - Luanda Viana Estalagem | 1,169 |
 | 17 | [kandadavid36](https://github.com/kandadavid36) | Kanda David | Angola | 1,067 |
@@ -83,4 +83,4 @@ Indexed users: 2,498
 | 19 | [manuelernesto](https://github.com/manuelernesto) | Manuel Ernesto | Angola | 166 |
 | 20 | [AfonsoAfony](https://github.com/AfonsoAfony) | Afonso Narciso Da Silva | Luanda/Angola | 157 |
 
-Generated: 2026-10-21T15:00:20.794Z
+Generated: 2026-10-21T16:38:17.838Z

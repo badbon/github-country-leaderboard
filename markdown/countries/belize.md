@@ -19,7 +19,7 @@ Indexed users: 94
 | 5 | [happyherp](https://github.com/happyherp) | Carlos Freund | Belize | 1,514 |
 | 6 | [jimidle](https://github.com/jimidle) | Jim Idle | Hopkins, Belize | 1,470 |
 | 7 | [Jaymar](https://github.com/Jaymar) | Jaymar Zane Noralez | Belize | 1,326 |
-| 8 | [blackmambo](https://github.com/blackmambo) | Winston Hope, Jr. | Belize | 1,294 |
+| 8 | [blackmambo](https://github.com/blackmambo) | Winston Hope, Jr. | Belize | 1,295 |
 | 9 | [DrianeDiojanPerez](https://github.com/DrianeDiojanPerez) | Driane Diojan Perez | Avenida Primitivo Aragon, Sarteneja, Corozal, Belize | 989 |
 | 10 | [TadeoBennett](https://github.com/TadeoBennett) | TheTechieINTJ | Belize | 972 |
 | 11 | [amirihoare](https://github.com/amirihoare) | Amiri Hoare | Belize | 670 |
@@ -83,4 +83,4 @@ Indexed users: 94
 | 19 | [mmedinajr](https://github.com/mmedinajr) | Manuel Medina Jr | Belmopan City | 7 |
 | 20 | [raycadle](https://github.com/raycadle) | Ray Cadle | Belize, C.A. | 7 |
 
-Generated: 2026-10-21T15:07:09.972Z
+Generated: 2026-10-21T16:44:24.481Z

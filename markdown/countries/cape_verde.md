@@ -64,7 +64,7 @@ Indexed users: 563
 |---:|---|---|---|---:|
 | 1 | [Andreia797](https://github.com/Andreia797) | Andreia Semedo | Cape Verde | 459 |
 | 2 | [natanvalimcardoso](https://github.com/natanvalimcardoso) | Natan Valim | Praia Grande - SC | 436 |
-| 3 | [Jorgegabrielsantos](https://github.com/Jorgegabrielsantos) | Jorge Gabriel | Cape Verde,Praia | 369 |
+| 3 | [Jorgegabrielsantos](https://github.com/Jorgegabrielsantos) | Jorge Gabriel | Cape Verde,Praia | 368 |
 | 4 | [Dnuns](https://github.com/Dnuns) | David Nunes | Cape Verde | 213 |
 | 5 | [MiAfroki](https://github.com/MiAfroki) | Milena Camargo Reis | Praia Grande - SP | 142 |
 | 6 | [lukas8219](https://github.com/lukas8219) | Lucas Weis Polesello | Praia do Rosa/SC - Brasil | 138 |
@@ -79,8 +79,8 @@ Indexed users: 563
 | 15 | [emimuniz](https://github.com/emimuniz) | Emillyn Muniz  | Praia Grande - SP  | 75 |
 | 16 | [JulianeMonteiro](https://github.com/JulianeMonteiro) | Juliane Aparecida Monteiro dos Santos | Praia Grande - SP | 72 |
 | 17 | [Matheuszy](https://github.com/Matheuszy) | Matheus Carlos | Praia Grande | 61 |
-| 18 | [fabio-cv](https://github.com/fabio-cv) | Fábio Barros | Praia, Cabo Verde | 58 |
-| 19 | [Murzchnvok](https://github.com/Murzchnvok) | Pedro Araujo | Praia de Jatobá, SE - Brasil | 58 |
+| 18 | [Murzchnvok](https://github.com/Murzchnvok) | Pedro Araujo | Praia de Jatobá, SE - Brasil | 58 |
+| 19 | [fabio-cv](https://github.com/fabio-cv) | Fábio Barros | Praia, Cabo Verde | 57 |
 | 20 | [FredSoares](https://github.com/FredSoares) | Frederico Soares | Cape Verde | 54 |
 
-Generated: 2026-10-21T15:11:13.924Z
+Generated: 2026-10-21T16:50:26.520Z

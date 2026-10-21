@@ -1,6 +1,6 @@
 # Public Contributions - Dominican Republic
 
-Generated: 2026-10-21T15:20:49.074Z
+Generated: 2026-10-21T16:58:20.083Z
 
 Users: 3298
 
@@ -10,8 +10,8 @@ Users: 3298
 | 2 | [dkropachev](https://github.com/dkropachev) | Dmitry Kropachev | Scylla |  | Dominican Republic | 6784 |
 | 3 | [Bebell-Digital-Solutions](https://github.com/Bebell-Digital-Solutions) | Bebell Digital Solutions 🚀 | Bebell Digital Solutions |  | Dominican Republic | 5554 |
 | 4 | [cervantesh](https://github.com/cervantesh) | Cervantes Hernandez |  |  | Dominican Republic | 4007 |
-| 5 | [Portegaperalta](https://github.com/Portegaperalta) | pablortega |  |  | Santo Domingo, Dominican Republic | 3159 |
-| 6 | [ubercylon8](https://github.com/ubercylon8) | James Pichardo |  |  | Dominican Republic | 3034 |
+| 5 | [ubercylon8](https://github.com/ubercylon8) | James Pichardo |  |  | Dominican Republic | 3364 |
+| 6 | [Portegaperalta](https://github.com/Portegaperalta) | pablortega |  |  | Santo Domingo, Dominican Republic | 3159 |
 | 7 | [xNeuNoRo](https://github.com/xNeuNoRo) | Ángel González Muñoz |  |  | Dominican Republic | 2552 |
 | 8 | [eburgos](https://github.com/eburgos) | Eduardo Burgos |  |  | Santo Domingo, DN, Dominican Republic | 2275 |
 | 9 | [adelrodriguez](https://github.com/adelrodriguez) | Adel Rodríguez |  | adeldotdo | Dominican Republic | 2125 |

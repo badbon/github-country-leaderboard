@@ -1,6 +1,6 @@
 # Tunisia
 
-Indexed users: 7,158
+Indexed users: 7,157
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 7,158
 | 19 | [machour](https://github.com/machour) | Mehdi Achour | Tunisia | 483 |
 | 20 | [01JAMIL](https://github.com/01JAMIL) | Jamil Ben Brahim | Tunisia | 470 |
 
-Generated: 2026-10-21T14:49:53.241Z
+Generated: 2026-10-21T16:28:02.638Z

@@ -15,7 +15,7 @@ Indexed users: 5,624
 | 1 | [lvillalobos-cr](https://github.com/lvillalobos-cr) | Lorenzo Villalobos | Costa Rica | 29,570 |
 | 2 | [glittercowboy](https://github.com/glittercowboy) | TÂCHES | Costa Rica | 27,835 |
 | 3 | [skylartaylor](https://github.com/skylartaylor) | skylar taylor-barrick  | costa rica | 21,362 |
-| 4 | [jourlez](https://github.com/jourlez) | Josué Rojas | Jacó, Costa Rica | 12,961 |
+| 4 | [jourlez](https://github.com/jourlez) | Josué Rojas | Jacó, Costa Rica | 17,245 |
 | 5 | [thoughtpunch](https://github.com/thoughtpunch) | Dan Barrett | Costa Rica | 11,951 |
 | 6 | [byrafael](https://github.com/byrafael) | Rafael Soley | Costa Rica | 9,771 |
 | 7 | [mrcMesen](https://github.com/mrcMesen) | Marco Mesén | San José, Costa Rica | 9,096 |
@@ -37,7 +37,7 @@ Indexed users: 5,624
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [jourlez](https://github.com/jourlez) | Josué Rojas | Jacó, Costa Rica | 9,483 |
+| 1 | [jourlez](https://github.com/jourlez) | Josué Rojas | Jacó, Costa Rica | 9,996 |
 | 2 | [skylartaylor](https://github.com/skylartaylor) | skylar taylor-barrick  | costa rica | 8,985 |
 | 3 | [Josue19-08](https://github.com/Josue19-08) | Josué Araya Marín | Costa Rica | 5,825 |
 | 4 | [glittercowboy](https://github.com/glittercowboy) | TÂCHES | Costa Rica | 5,358 |
@@ -83,4 +83,4 @@ Indexed users: 5,624
 | 19 | [stvansolano](https://github.com/stvansolano) | Esteban Solano Granados | Costa Rica | 189 |
 | 20 | [Jeffser](https://github.com/Jeffser) | Jeffry Samuel | Costa Rica | 174 |
 
-Generated: 2026-10-21T15:16:16.785Z
+Generated: 2026-10-21T16:54:48.825Z

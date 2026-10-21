@@ -12,7 +12,7 @@ Indexed users: 1,783
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [AndyIbanez](https://github.com/AndyIbanez) | Andy Ibanez | Bolivia | 27,878 |
+| 1 | [AndyIbanez](https://github.com/AndyIbanez) | Andy Ibanez | Bolivia | 27,708 |
 | 2 | [ynvYauneEnovore](https://github.com/ynvYauneEnovore) | Yovan R. Enovore | Sucre Bolivia | 10,356 |
 | 3 | [rp4ri](https://github.com/rp4ri) | Toborochi | Bolivia | 9,343 |
 | 4 | [abelrgr](https://github.com/abelrgr) | Abel | Bolivia | 8,486 |
@@ -37,7 +37,7 @@ Indexed users: 1,783
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [AndyIbanez](https://github.com/AndyIbanez) | Andy Ibanez | Bolivia | 25,237 |
+| 1 | [AndyIbanez](https://github.com/AndyIbanez) | Andy Ibanez | Bolivia | 25,210 |
 | 2 | [DaleneyRuben](https://github.com/DaleneyRuben) | Fernando Daleney | La Paz, Bolivia | 3,428 |
 | 3 | [DanielTorres1](https://github.com/DanielTorres1) | Daniel Torres Sandi | Bolivia | 3,039 |
 | 4 | [OscarGauss](https://github.com/OscarGauss) | Oscar Gauss Carvajal Yucra | La Paz, Bolivia | 2,833 |
@@ -52,8 +52,8 @@ Indexed users: 1,783
 | 13 | [samuelloza](https://github.com/samuelloza) | Samuel Loza Ramirez | Bolivia | 1,245 |
 | 14 | [pachonjcl](https://github.com/pachonjcl) | Jose Carlos Laura Ramirez | La Paz, Bolivia | 1,242 |
 | 15 | [asosab](https://github.com/asosab) | Alejandro Sosa Briceño | Bolivia | 1,225 |
-| 16 | [jhersON1](https://github.com/jhersON1) | Jherson Rodriguez | Bolivia | 1,212 |
-| 17 | [alphaonex86](https://github.com/alphaonex86) | BRULE Herman Jacques Roger | Santa cruz de la sierra, Bolivia | 1,199 |
+| 16 | [alphaonex86](https://github.com/alphaonex86) | BRULE Herman Jacques Roger | Santa cruz de la sierra, Bolivia | 1,214 |
+| 17 | [jhersON1](https://github.com/jhersON1) | Jherson Rodriguez | Bolivia | 1,212 |
 | 18 | [Lotiel-Dev](https://github.com/Lotiel-Dev) | Carlos Antonio Gutierrez Copara | Bolivia | 1,193 |
 | 19 | [igidio](https://github.com/igidio) | Salvador Cáceres C. | Bolivia | 1,147 |
 | 20 | [nicobytes](https://github.com/nicobytes) | Nicolas Molina Monroy | Cochabamba, Bolivia | 1,096 |
@@ -83,4 +83,4 @@ Indexed users: 1,783
 | 19 | [alvarosiles11](https://github.com/alvarosiles11) | Alvaro Siles Estrada | Bolivia | 121 |
 | 20 | [mauforonda](https://github.com/mauforonda) | Mau Foronda | Bolivia | 119 |
 
-Generated: 2026-10-21T15:08:32.371Z
+Generated: 2026-10-21T16:46:31.584Z
