@@ -1,6 +1,6 @@
 # Followers - North Macedonia
 
-Generated: 2026-10-21T16:00:19.397Z
+Generated: 2026-10-21T18:03:58.890Z
 
 Users: 1924
 
@@ -8,7 +8,7 @@ Users: 1924
 |---:|---|---|---|---|---|---:|
 | 1 | [yutomiwana](https://github.com/yutomiwana) | Yuto | Axeltra |  | Skopje | 1249 |
 | 2 | [henryruhs](https://github.com/henryruhs) | Henry Ruhs |  | henryruhs | North Macedonia | 639 |
-| 3 | [ZoranPandovski](https://github.com/ZoranPandovski) | Zoran Pandovski | @mindsdb | ZoranPandovski | Bitola, North Macedonia | 602 |
+| 3 | [ZoranPandovski](https://github.com/ZoranPandovski) | Zoran Pandovski | @mindsdb | ZoranPandovski | Bitola, North Macedonia | 603 |
 | 4 | [jaggedsoft](https://github.com/jaggedsoft) | jagged | Darkpool Liquidity | jaggedsoft | North Macedonia | 468 |
 | 5 | [trajchevska](https://github.com/trajchevska) | Katerina Trajchevska | @adevait  |  | Skopje Macedonia | 462 |
 | 6 | [xStephx](https://github.com/xStephx) | Stefan Bojkovski | localhost |  | Macedonia | 306 |
@@ -18,7 +18,7 @@ Users: 1924
 | 10 | [stefanandonov](https://github.com/stefanandonov) | Stefan Andonov | Faculty of computer science and engineering - Skopje |  | Skopje, Macedonia | 223 |
 | 11 | [MTrajK](https://github.com/MTrajK) | Meto Trajkovski |  |  | Skopje | 215 |
 | 12 | [hf](https://github.com/hf) | Stojan Dimitrovski | @supabase |  | Skopje, Republic of North Macedonia | 201 |
-| 13 | [davorminchorov](https://github.com/davorminchorov) | Davor Minchorov |  | davorminchorov | Skopje, Macedonia | 186 |
+| 13 | [davorminchorov](https://github.com/davorminchorov) | Davor Minchorov | @codysseydev  | davorminchorov | Skopje, Macedonia | 186 |
 | 14 | [andrejsshell](https://github.com/andrejsshell) | Andrej | @usekaneo | andrejsshell | Skopje | 180 |
 | 15 | [visar](https://github.com/visar) | Visar Zejnullahu |  |  | Skopje, Macedonia | 180 |
 | 16 | [MatejMecka](https://github.com/MatejMecka) | Matej Plavevski | @CCExtractor |  | Skopje, Macedonia | 178 |

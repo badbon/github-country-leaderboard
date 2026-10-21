@@ -1,6 +1,6 @@
 # Public Contributions - Monaco
 
-Generated: 2026-10-21T15:54:56.272Z
+Generated: 2026-10-21T17:56:03.284Z
 
 Users: 142
 
@@ -17,7 +17,7 @@ Users: 142
 | 9 | [margauxhaering](https://github.com/margauxhaering) | Margaux Haering |  |  | Monaco | 123 |
 | 10 | [Steve-Deguilly](https://github.com/Steve-Deguilly) | Steve DEGUILLY | CREASTORY CONSEIL |  | Nice / Monaco / Sophia Antipolis | 116 |
 | 11 | [fedecarz](https://github.com/fedecarz) | fedecarz | International University of Monaco - IUM |  | Monaco | 99 |
-| 12 | [vjandrea](https://github.com/vjandrea) | Andrea Bergamasco | KeeSystem | vjandrea | Monaco | 92 |
+| 12 | [vjandrea](https://github.com/vjandrea) | Andrea Bergamasco | KeeSystem | vjandrea | Monaco | 93 |
 | 13 | [giraudremi92](https://github.com/giraudremi92) | Rémi |  |  | Monaco | 83 |
 | 14 | [PhilCANDIDO](https://github.com/PhilCANDIDO) | Philippe CANDIDO |  |  | Monaco | 59 |
 | 15 | [sesjaphp](https://github.com/sesjaphp) |  |  |  | Monaco | 58 |

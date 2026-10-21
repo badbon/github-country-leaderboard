@@ -12,12 +12,12 @@ Indexed users: 740
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [Abdlrrahman](https://github.com/Abdlrrahman) | Abdlrrahman Shibani | Tripoli, Libya | 165,746 |
-| 2 | [mohn93](https://github.com/mohn93) | Mohaned Benmesken | Libya | 15,133 |
-| 3 | [ZeroGDrive](https://github.com/ZeroGDrive) | Ayoub Alfurjani | Libya | 13,907 |
-| 4 | [Arjeeah](https://github.com/Arjeeah) | Arjeeah | Libya  | 12,818 |
-| 5 | [salemaljebaly](https://github.com/salemaljebaly) | Salem Aljebaly | Libya | 12,679 |
-| 6 | [Sokanon](https://github.com/Sokanon) | So | Libya | 9,889 |
+| 1 | [Abdlrrahman](https://github.com/Abdlrrahman) | Abdlrrahman Shibani | Tripoli, Libya | 165,673 |
+| 2 | [ZeroGDrive](https://github.com/ZeroGDrive) | Ayoub Alfurjani | Libya | 15,493 |
+| 3 | [mohn93](https://github.com/mohn93) | Mohaned Benmesken | Libya | 15,133 |
+| 4 | [salemaljebaly](https://github.com/salemaljebaly) | Salem Aljebaly | Libya | 13,061 |
+| 5 | [Arjeeah](https://github.com/Arjeeah) | Arjeeah | Libya  | 12,818 |
+| 6 | [Sokanon](https://github.com/Sokanon) | So | Libya | 12,234 |
 | 7 | [ayagaidi](https://github.com/ayagaidi) | Yaya |  Tripoli, Libya  | 9,817 |
 | 8 | [radwan-77](https://github.com/radwan-77) | RADWAN | Libya | 9,304 |
 | 9 | [Tellesy](https://github.com/Tellesy) | blueMu | Tripoli, Libya | 9,202 |
@@ -37,7 +37,7 @@ Indexed users: 740
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [Abdlrrahman](https://github.com/Abdlrrahman) | Abdlrrahman Shibani | Tripoli, Libya | 164,930 |
+| 1 | [Abdlrrahman](https://github.com/Abdlrrahman) | Abdlrrahman Shibani | Tripoli, Libya | 164,885 |
 | 2 | [mohn93](https://github.com/mohn93) | Mohaned Benmesken | Libya | 3,475 |
 | 3 | [OthmanHaba](https://github.com/OthmanHaba) |  Othman Haba  (ง'̀-'́)ง     | Tripoli Libya | 1,291 |
 | 4 | [Uldy-USDBOT](https://github.com/Uldy-USDBOT) | ULDY | Libya | 1,088 |
@@ -83,4 +83,4 @@ Indexed users: 740
 | 19 | [ZizouHuweidi](https://github.com/ZizouHuweidi) | El Zubeir Huweidi | Benghazi, Libya | 51 |
 | 20 | [Islam-alshiki](https://github.com/Islam-alshiki) | Islam alshiki | Benghazi, Libya | 49 |
 
-Generated: 2026-10-21T15:45:54.793Z
+Generated: 2026-10-21T17:50:00.330Z

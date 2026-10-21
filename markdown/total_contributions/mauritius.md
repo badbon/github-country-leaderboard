@@ -1,6 +1,6 @@
 # Total Contributions - Mauritius
 
-Generated: 2026-10-21T15:51:48.427Z
+Generated: 2026-10-21T17:53:40.680Z
 
 Users: 714
 
@@ -8,7 +8,7 @@ Users: 714
 |---:|---|---|---|---|---|---:|
 | 1 | [EdgarEldy](https://github.com/EdgarEldy) | EDGAR MUHAMYANGABO | @Accenture | EdgarEldy | Mauritius | 14169 |
 | 2 | [512banque](https://github.com/512banque) | Kevin Richard | SEObserver | 512banque | Mauritius | 7845 |
-| 3 | [borissedov](https://github.com/borissedov) | Boris Sedov |  |  | Tamarin, Mauritius | 7470 |
+| 3 | [borissedov](https://github.com/borissedov) | Boris Sedov |  |  | Tamarin, Mauritius | 7543 |
 | 4 | [andrashejj](https://github.com/andrashejj) | Andras Hejj |  | andrashejj | Mauritius | 6886 |
 | 5 | [wyxos](https://github.com/wyxos) | Wyxos |  |  | Mauritius | 6850 |
 | 6 | [cedpoilly](https://github.com/cedpoilly) | Cedric |  |  | Mauritius | 6573 |
@@ -25,4 +25,4 @@ Users: 714
 | 17 | [k3ii](https://github.com/k3ii) | Jain Ramchurn | @RingierIMU  |  | Mauritius | 3826 |
 | 18 | [cbillowes](https://github.com/cbillowes) | Clarice Bouwer | Cloudsure Limited |  | Mauritius | 3481 |
 | 19 | [johanleroch](https://github.com/johanleroch) | Johan le Roch | JohanCode LLP | JohnLrDev | Mauritius | 3155 |
-| 20 | [iwugod](https://github.com/iwugod) | Joshua Iwugod  |  | iwugodjoshua | Republic of Mauritius  | 3102 |
+| 20 | [iwugod](https://github.com/iwugod) | Joshua Iwugod  |  | iwugodjoshua | Republic of Mauritius  | 3095 |

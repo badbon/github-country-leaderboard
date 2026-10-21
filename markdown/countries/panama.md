@@ -30,8 +30,8 @@ Indexed users: 1,070
 | 16 | [dashboardtech](https://github.com/dashboardtech) | Frederick Roberts | Panama | 8,124 |
 | 17 | [cabe56](https://github.com/cabe56) | Jose Varela | Panama City, Panama | 7,488 |
 | 18 | [xtealer](https://github.com/xtealer) | Enrique Shunnar | Panama City, Panama | 7,349 |
-| 19 | [bryanjtc](https://github.com/bryanjtc) | Bryan Thomas | Panama | 6,866 |
-| 20 | [atebites-hub](https://github.com/atebites-hub) | atebites | Panama | 6,865 |
+| 19 | [atebites-hub](https://github.com/atebites-hub) | atebites | Panama | 7,025 |
+| 20 | [bryanjtc](https://github.com/bryanjtc) | Bryan Thomas | Panama | 6,866 |
 
 ## Public Contributions
 
@@ -46,7 +46,7 @@ Indexed users: 1,070
 | 7 | [Yizack](https://github.com/Yizack) | Yizack Rangel | Panama | 1,979 |
 | 8 | [kingg22](https://github.com/kingg22) | Rey | Panama | 1,947 |
 | 9 | [gonzalezulises](https://github.com/gonzalezulises) | Ulises Gonzalez | Panama | 1,839 |
-| 10 | [angelnereira](https://github.com/angelnereira) | Angel Nereira | Panama | 1,505 |
+| 10 | [angelnereira](https://github.com/angelnereira) | Angel Nereira | Panama | 1,724 |
 | 11 | [ArkoSammy12](https://github.com/ArkoSammy12) | James Villarreal | Panama City, Panama | 1,456 |
 | 12 | [quantumquirkxyz](https://github.com/quantumquirkxyz) | Jhuomar Boskoll Quintero | Panama City, Panama | 1,341 |
 | 13 | [jaimelias](https://github.com/jaimelias) | Jaimelías | Panama City, Panama | 1,327 |
@@ -83,4 +83,4 @@ Indexed users: 1,070
 | 19 | [Commandtechno](https://github.com/Commandtechno) | Techno | David, Panama | 49 |
 | 20 | [jebberjeb](https://github.com/jebberjeb) | Jeb Beich | Panama City, FL | 48 |
 
-Generated: 2026-10-21T16:04:02.962Z
+Generated: 2026-10-21T18:05:22.236Z

@@ -1,12 +1,12 @@
 # Public Contributions - Libya
 
-Generated: 2026-10-21T15:45:54.793Z
+Generated: 2026-10-21T17:50:00.330Z
 
 Users: 740
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [Abdlrrahman](https://github.com/Abdlrrahman) | Abdlrrahman Shibani | ReBootKamp |  | Tripoli, Libya | 164930 |
+| 1 | [Abdlrrahman](https://github.com/Abdlrrahman) | Abdlrrahman Shibani | ReBootKamp |  | Tripoli, Libya | 164885 |
 | 2 | [mohn93](https://github.com/mohn93) | Mohaned Benmesken | Libyan Spider |  | Libya | 3475 |
 | 3 | [OthmanHaba](https://github.com/OthmanHaba) |  Othman Haba  (ง'̀-'́)ง     |  |  | Tripoli Libya | 1291 |
 | 4 | [Uldy-USDBOT](https://github.com/Uldy-USDBOT) | ULDY |  |  | Libya | 1088 |

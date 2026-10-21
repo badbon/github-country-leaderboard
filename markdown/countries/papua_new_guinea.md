@@ -20,7 +20,7 @@ Indexed users: 296
 | 6 | [n30dyn4m1c](https://github.com/n30dyn4m1c) | Neo Malesa | Port Moresby, Papua New Guinea | 3,069 |
 | 7 | [glenhayoge](https://github.com/glenhayoge) | Glen G Hayoge | Papua New Guinea | 1,600 |
 | 8 | [jm0535](https://github.com/jm0535) | Jimmy Moses | Papua New Guinea | 1,526 |
-| 9 | [Amesi](https://github.com/Amesi) | Victor Temokang | Papua New Guinea | 1,403 |
+| 9 | [Amesi](https://github.com/Amesi) | Victor Temokang | Papua New Guinea | 1,425 |
 | 10 | [alefsolutions](https://github.com/alefsolutions) | Louis Ronald | Port Moresby | 1,268 |
 | 11 | [eugene-pande](https://github.com/eugene-pande) | Eugene Pande | Port Moresby, Papua New Guinea | 1,153 |
 | 12 | [nessktn](https://github.com/nessktn) | Johannes Kutan | Papua New Guinea | 1,059 |
@@ -83,4 +83,4 @@ Indexed users: 296
 | 19 | [jm0535](https://github.com/jm0535) | Jimmy Moses | Papua New Guinea | 8 |
 | 20 | [loiwai](https://github.com/loiwai) | Loi Wai | Papua New Guinea | 8 |
 
-Generated: 2026-10-21T16:04:07.471Z
+Generated: 2026-10-21T18:05:54.473Z

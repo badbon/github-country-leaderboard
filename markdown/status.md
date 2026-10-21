@@ -1,13 +1,13 @@
 # Index Status
 
-Generated: 2026-10-21T17:15:32.463Z
+Generated: 2026-10-21T18:15:34.874Z
 
 | Metric | Value |
 |---|---:|
 | Countries configured | 249 |
 | Countries published | 234 |
-| Users indexed | 2,708,790 |
-| Discovery shards queued | 20,332 |
+| Users indexed | 2,708,995 |
+| Discovery shards queued | 20,319 |
 
 ## Country Status
 
@@ -20,7 +20,7 @@ Generated: 2026-10-21T17:15:32.463Z
 
 | Country | Status | Queued Shards |
 |---|---|---:|
-| India | discovering | 195 |
+| India | discovering | 196 |
 | United States | discovering | 174 |
 | Germany | discovering | 132 |
 | United Kingdom | discovering | 131 |

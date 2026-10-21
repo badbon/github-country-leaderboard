@@ -20,8 +20,8 @@ Indexed users: 2,014
 | 6 | [anthonybir](https://github.com/anthonybir) | Anthony Bir | Asuncion, Paraguay | 10,793 |
 | 7 | [vargascarlitos](https://github.com/vargascarlitos) | Carlitos Vargas | Paraguay | 10,531 |
 | 8 | [cmelgarejo](https://github.com/cmelgarejo) | Christian Melgarejo | Paraguay | 9,877 |
-| 9 | [zot24](https://github.com/zot24) |  | Asuncion, Paraguay | 7,889 |
-| 10 | [juraj-m](https://github.com/juraj-m) | Juraj | Yaguarón, Paraguay | 7,879 |
+| 9 | [juraj-m](https://github.com/juraj-m) | Juraj | Yaguarón, Paraguay | 8,027 |
+| 10 | [zot24](https://github.com/zot24) |  | Asuncion, Paraguay | 7,889 |
 | 11 | [dev-cardenas](https://github.com/dev-cardenas) | Fernando Salinas Cardenas | Paraguay | 7,868 |
 | 12 | [mathiasgrimm](https://github.com/mathiasgrimm) | Mathias Grimm | Asunción, Paraguay | 7,299 |
 | 13 | [vVladyslaVv](https://github.com/vVladyslaVv) | Vladyslav Yeroma | Asuncion | 7,150 |
@@ -83,4 +83,4 @@ Indexed users: 2,014
 | 19 | [metakeule](https://github.com/metakeule) | metakeule | Asunción / Paraguay | 109 |
 | 20 | [replay](https://github.com/replay) | Mauro Stettler | Asuncion, Paraguay | 105 |
 
-Generated: 2026-10-21T16:04:43.445Z
+Generated: 2026-10-21T18:06:35.965Z

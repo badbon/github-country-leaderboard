@@ -1,6 +1,6 @@
 # Public Contributions - San Marino
 
-Generated: 2026-10-21T16:10:27.523Z
+Generated: 2026-10-21T18:14:03.299Z
 
 Users: 61
 
@@ -16,7 +16,7 @@ Users: 61
 | 8 | [CometaSensitiva](https://github.com/CometaSensitiva) | Michele Mazza | Alma Mater Studiorum - Università di Bologna |  | Bologna / Rimini / San Marino | 120 |
 | 9 | [Llandy3d](https://github.com/Llandy3d) | Llandy Riveron Del Risco | @grafana | llandy3d | San Marino | 101 |
 | 10 | [N1K0232](https://github.com/N1K0232) | Nico |  | N1K0232 | Repubblica di San Marino | 85 |
-| 11 | [pigorg](https://github.com/pigorg) | alessandro gnola |  |  | san marino | 80 |
+| 11 | [pigorg](https://github.com/pigorg) | alessandro gnola |  |  | san marino | 83 |
 | 12 | [lucabio](https://github.com/lucabio) | Luca |  |  | San Marino | 75 |
 | 13 | [mcdado](https://github.com/mcdado) | David Gasperoni |  |  | San Marino (SMR) <✈️> Madrid, Spain | 60 |
 | 14 | [salugea](https://github.com/salugea) | Salugea | Salugea |  | San Marino | 45 |

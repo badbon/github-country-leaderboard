@@ -31,7 +31,7 @@ Indexed users: 1,224
 | 17 | [DarthTigerson](https://github.com/DarthTigerson) | Thomas Bonnici | Malta | 6,775 |
 | 18 | [ksazid](https://github.com/ksazid) | Sazid | Malta | 6,252 |
 | 19 | [seanellul](https://github.com/seanellul) | Sean Ellul | Malta | 5,955 |
-| 20 | [mzaharenkov](https://github.com/mzaharenkov) | Mikhail Zakharenkov | Malta | 5,805 |
+| 20 | [mzaharenkov](https://github.com/mzaharenkov) | Mikhail Zakharenkov | Malta | 5,827 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 1,224
 | 19 | [mattcg](https://github.com/mattcg) | Matthew Caruana Galizia | Malta | 126 |
 | 20 | [CM2Walki](https://github.com/CM2Walki) | Walki | Malta | 118 |
 
-Generated: 2026-10-21T16:06:06.994Z
+Generated: 2026-10-21T17:52:19.767Z

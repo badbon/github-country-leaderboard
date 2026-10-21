@@ -62,7 +62,7 @@ Indexed users: 3,250
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [GrayMamoru](https://github.com/GrayMamoru) |  | Riga | 5,201 |
+| 1 | [GrayMamoru](https://github.com/GrayMamoru) |  | Riga | 5,200 |
 | 2 | [puikinsh](https://github.com/puikinsh) | Aigars Silkalns | Riga, Latvia | 2,411 |
 | 3 | [Mistrust12](https://github.com/Mistrust12) | Stay forever | Riga | 1,147 |
 | 4 | [therceman](https://github.com/therceman) | Anton | Latvia | 605 |
@@ -83,4 +83,4 @@ Indexed users: 3,250
 | 19 | [0ki](https://github.com/0ki) | Кirils Sоlovjоvs | Latvia | 224 |
 | 20 | [LatvianModder](https://github.com/LatvianModder) | Kristiāns Micītis | Latvia | 221 |
 
-Generated: 2026-10-21T15:44:06.776Z
+Generated: 2026-10-21T17:47:33.853Z

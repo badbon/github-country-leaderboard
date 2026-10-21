@@ -14,7 +14,7 @@ Indexed users: 714
 |---:|---|---|---|---:|
 | 1 | [EdgarEldy](https://github.com/EdgarEldy) | EDGAR MUHAMYANGABO | Mauritius | 14,169 |
 | 2 | [512banque](https://github.com/512banque) | Kevin Richard | Mauritius | 7,845 |
-| 3 | [borissedov](https://github.com/borissedov) | Boris Sedov | Tamarin, Mauritius | 7,470 |
+| 3 | [borissedov](https://github.com/borissedov) | Boris Sedov | Tamarin, Mauritius | 7,543 |
 | 4 | [andrashejj](https://github.com/andrashejj) | Andras Hejj | Mauritius | 6,886 |
 | 5 | [wyxos](https://github.com/wyxos) | Wyxos | Mauritius | 6,850 |
 | 6 | [cedpoilly](https://github.com/cedpoilly) | Cedric | Mauritius | 6,573 |
@@ -31,7 +31,7 @@ Indexed users: 714
 | 17 | [k3ii](https://github.com/k3ii) | Jain Ramchurn | Mauritius | 3,826 |
 | 18 | [cbillowes](https://github.com/cbillowes) | Clarice Bouwer | Mauritius | 3,481 |
 | 19 | [johanleroch](https://github.com/johanleroch) | Johan le Roch | Mauritius | 3,155 |
-| 20 | [iwugod](https://github.com/iwugod) | Joshua Iwugod  | Republic of Mauritius  | 3,102 |
+| 20 | [iwugod](https://github.com/iwugod) | Joshua Iwugod  | Republic of Mauritius  | 3,095 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 714
 | 19 | [MaskyS](https://github.com/MaskyS) | Kifah M | Mauritius | 76 |
 | 20 | [cbillowes](https://github.com/cbillowes) | Clarice Bouwer | Mauritius | 65 |
 
-Generated: 2026-10-21T15:51:48.427Z
+Generated: 2026-10-21T17:53:40.680Z

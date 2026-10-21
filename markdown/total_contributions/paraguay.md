@@ -1,6 +1,6 @@
 # Total Contributions - Paraguay
 
-Generated: 2026-10-21T16:04:43.445Z
+Generated: 2026-10-21T18:06:35.965Z
 
 Users: 2014
 
@@ -14,8 +14,8 @@ Users: 2014
 | 6 | [anthonybir](https://github.com/anthonybir) | Anthony Bir |  |  | Asuncion, Paraguay | 10793 |
 | 7 | [vargascarlitos](https://github.com/vargascarlitos) | Carlitos Vargas | @Millicom-MFS |  | Paraguay | 10531 |
 | 8 | [cmelgarejo](https://github.com/cmelgarejo) | Christian Melgarejo | @LoopContext |  | Paraguay | 9877 |
-| 9 | [zot24](https://github.com/zot24) |  | Motty | zot24 | Asuncion, Paraguay | 7889 |
-| 10 | [juraj-m](https://github.com/juraj-m) | Juraj |  |  | Yaguarón, Paraguay | 7879 |
+| 9 | [juraj-m](https://github.com/juraj-m) | Juraj |  |  | Yaguarón, Paraguay | 8027 |
+| 10 | [zot24](https://github.com/zot24) |  | Motty | zot24 | Asuncion, Paraguay | 7889 |
 | 11 | [dev-cardenas](https://github.com/dev-cardenas) | Fernando Salinas Cardenas |  |  | Paraguay | 7868 |
 | 12 | [mathiasgrimm](https://github.com/mathiasgrimm) | Mathias Grimm | @laravel | matgrimm | Asunción, Paraguay | 7299 |
 | 13 | [vVladyslaVv](https://github.com/vVladyslaVv) | Vladyslav Yeroma | Newly Booked |  | Asuncion | 7150 |

@@ -1,8 +1,8 @@
 # Total Contributions - Oman
 
-Generated: 2026-10-21T16:02:08.369Z
+Generated: 2026-10-21T18:04:09.443Z
 
-Users: 991
+Users: 990
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -22,7 +22,7 @@ Users: 991
 | 14 | [DevAseel](https://github.com/DevAseel) | Aseel Al Rawahi | instaSpace |  | Oman | 6892 |
 | 15 | [lqji](https://github.com/lqji) | Ahmed Abdullah | Codeline |  | Oman | 6006 |
 | 16 | [MohAnghabo](https://github.com/MohAnghabo) | Mohammed Anghabo | DhamenIT | MohAnghabo | Muscat | 5312 |
-| 17 | [mohdrasbi](https://github.com/mohdrasbi) | Mohamed Al-Rasbi | Rihal |  | Oman | 4754 |
-| 18 | [n3sser96](https://github.com/n3sser96) | Nasser Al Subhi | @rihal-om  | 96n3s | Oman | 4719 |
+| 17 | [n3sser96](https://github.com/n3sser96) | Nasser Al Subhi | @rihal-om  | 96n3s | Oman | 5096 |
+| 18 | [mohdrasbi](https://github.com/mohdrasbi) | Mohamed Al-Rasbi | Rihal |  | Oman | 4754 |
 | 19 | [amk9889](https://github.com/amk9889) | Alfarouq |  |  | Oman | 4346 |
 | 20 | [manqur](https://github.com/manqur) | Mansoor Qurishi | Remote |  | Oman | 4254 |
