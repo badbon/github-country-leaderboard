@@ -30,7 +30,7 @@ Indexed users: 865
 | 16 | [mooha76](https://github.com/mooha76) | Mohammed Farah | Mogadishu, Somalia | 3,347 |
 | 17 | [Dhaqane-00](https://github.com/Dhaqane-00) | Abdilaahi Mowliid Dhaqane | Mogadishu | 3,322 |
 | 18 | [abdulsalamhassan](https://github.com/abdulsalamhassan) | Abdulsalam H. Shiikhow | Somalia, Mogadishu | 3,265 |
-| 19 | [bashkahee](https://github.com/bashkahee) | Bashir Abdinur Ahmed | Mogadishu | 3,167 |
+| 19 | [bashkahee](https://github.com/bashkahee) | Bashir Abdinur Ahmed | Mogadishu | 3,151 |
 | 20 | [mesutmahad](https://github.com/mesutmahad) | ENG MESUT | Somalia | 2,979 |
 
 ## Public Contributions
@@ -83,4 +83,4 @@ Indexed users: 865
 | 19 | [Hasson23](https://github.com/Hasson23) | Hassan Abdullah   | Somalia - Mogadishu  | 101 |
 | 20 | [AbdifatahYasin1](https://github.com/AbdifatahYasin1) | Abdifatah Yasin Yusuf | Somalia, Hargeisa  | 96 |
 
-Generated: 2026-10-21T13:01:52.461Z
+Generated: 2026-10-21T14:40:46.928Z

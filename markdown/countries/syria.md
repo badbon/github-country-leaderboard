@@ -24,14 +24,14 @@ Indexed users: 1,478
 | 10 | [gaaferHajji2](https://github.com/gaaferHajji2) | Jafar Loka | Damascus - SY | 2,836 |
 | 11 | [alsa7err90](https://github.com/alsa7err90) | abdulnafea | syria | 2,435 |
 | 12 | [eymeen](https://github.com/eymeen) | Ayman Eid | Syria, Turkey | 2,217 |
-| 13 | [rasheed-k-mozaffar](https://github.com/rasheed-k-mozaffar) | Rasheed K Mozaffar | Damascus, Syria | 2,129 |
-| 14 | [CodeFather-xe](https://github.com/CodeFather-xe) | CodeFather-xe | Syria | 2,127 |
+| 13 | [CodeFather-xe](https://github.com/CodeFather-xe) | CodeFather-xe | Syria | 2,136 |
+| 14 | [rasheed-k-mozaffar](https://github.com/rasheed-k-mozaffar) | Rasheed K Mozaffar | Damascus, Syria | 2,129 |
 | 15 | [nachawati](https://github.com/nachawati) | Mohamad Omar Nachawati | Damascus, Syria | 2,088 |
 | 16 | [MahmoudSlameh](https://github.com/MahmoudSlameh) | Mahmoud Salameh | Damascus | 2,028 |
 | 17 | [muhammedelsami](https://github.com/muhammedelsami) | Muhammed Elşami | Sivas, Syria | 1,999 |
-| 18 | [kutaibah](https://github.com/kutaibah) | Kutaibah Halima | Damascus, Syria | 1,873 |
-| 19 | [Yazan-Alrefaai](https://github.com/Yazan-Alrefaai) | Yazan Alrefaai | Damascus, Syria | 1,866 |
-| 20 | [OmarElseyyid](https://github.com/OmarElseyyid) | Mahmud Elseyyidomer | Syria / Aleppo | 1,838 |
+| 18 | [Hakam-aldeen-Kh](https://github.com/Hakam-aldeen-Kh) | Hakam aldeen Alkhadraa | Syria | 1,882 |
+| 19 | [kutaibah](https://github.com/kutaibah) | Kutaibah Halima | Damascus, Syria | 1,873 |
+| 20 | [Yazan-Alrefaai](https://github.com/Yazan-Alrefaai) | Yazan Alrefaai | Damascus, Syria | 1,866 |
 
 ## Public Contributions
 
@@ -46,8 +46,8 @@ Indexed users: 1,478
 | 7 | [ibrahimhamwi99](https://github.com/ibrahimhamwi99) | ibrahimhamwi  | syria | 1,498 |
 | 8 | [AhmadKharfan](https://github.com/AhmadKharfan) | Ahmad Kharfan | Syria, Damascus | 1,438 |
 | 9 | [Abdomghrbi](https://github.com/Abdomghrbi) | Abdullrahman almaghrabi | Syria | 1,252 |
-| 10 | [ali-talal-ibrahem](https://github.com/ali-talal-ibrahem) | Ali Talal Ibrahem | syria | 1,193 |
-| 11 | [Hakam-aldeen-Kh](https://github.com/Hakam-aldeen-Kh) | Hakam aldeen Alkhadraa | Syria | 1,193 |
+| 10 | [Hakam-aldeen-Kh](https://github.com/Hakam-aldeen-Kh) | Hakam aldeen Alkhadraa | Syria | 1,205 |
+| 11 | [ali-talal-ibrahem](https://github.com/ali-talal-ibrahem) | Ali Talal Ibrahem | syria | 1,193 |
 | 12 | [firasuke](https://github.com/firasuke) | Firas Khana | Aleppo, Syria | 1,168 |
 | 13 | [DrAbdulmalek](https://github.com/DrAbdulmalek) | Dr Abdulmalek Al-Husseini | Syria | 1,158 |
 | 14 | [YAZAN420](https://github.com/YAZAN420) | YazanMahfooz | Syria | 1,082 |
@@ -83,4 +83,4 @@ Indexed users: 1,478
 | 19 | [nebrassy](https://github.com/nebrassy) | Nebrassy | Latakia, Syria | 102 |
 | 20 | [evoiz](https://github.com/evoiz) | Elias Al-bittar | Homs, Syria | 95 |
 
-Generated: 2026-10-21T13:07:20.493Z
+Generated: 2026-10-21T14:46:33.758Z
