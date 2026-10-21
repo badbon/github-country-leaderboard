@@ -40304,7 +40304,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 26,
     "createdAt": "2019-11-05T05:59:54Z"
   },
   {
@@ -40315,8 +40315,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 446,
-    "publicContributions": 30,
+    "privateContributions": 1073,
+    "publicContributions": 2,
     "createdAt": "2019-09-20T16:55:16Z"
   },
   {
@@ -40351,8 +40351,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 766,
-    "publicContributions": 7,
+    "privateContributions": 980,
+    "publicContributions": 16,
     "createdAt": "2019-08-20T15:41:49Z"
   },
   {
@@ -40362,7 +40362,7 @@
     "location": "Kazakhstan",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-02-25T12:54:50Z"
@@ -40375,8 +40375,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 915,
-    "publicContributions": 0,
+    "privateContributions": 1145,
+    "publicContributions": 23,
     "createdAt": "2019-12-09T17:35:38Z"
   },
   {
@@ -40387,7 +40387,7 @@
     "company": "Maxinum Consulting",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 1692,
+    "privateContributions": 1247,
     "publicContributions": 20,
     "createdAt": "2019-07-01T11:50:51Z"
   },
@@ -40435,21 +40435,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 196,
-    "publicContributions": 104,
+    "privateContributions": 184,
+    "publicContributions": 107,
     "createdAt": "2019-09-19T19:00:36Z"
-  },
-  {
-    "login": "Kashirin-Yegor",
-    "name": "Kashirin Yegor ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/56268099?s=72&u=860b59c35e3b90aa75e840ab8148173d34db6ef6&v=4",
-    "location": " Kazakhstan",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 40,
-    "createdAt": "2019-10-07T15:59:40Z"
   },
   {
     "login": "Frisle",
@@ -40459,8 +40447,8 @@
     "company": "@teccod ",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 298,
-    "publicContributions": 63,
+    "privateContributions": 318,
+    "publicContributions": 53,
     "createdAt": "2019-02-08T04:59:08Z"
   },
   {
@@ -40472,7 +40460,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 38,
+    "publicContributions": 41,
     "createdAt": "2019-05-01T13:58:34Z"
   },
   {
@@ -40484,20 +40472,8 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 30,
+    "publicContributions": 35,
     "createdAt": "2019-07-13T12:06:21Z"
-  },
-  {
-    "login": "kitrofimov",
-    "name": "Kirill Trofimov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/50793160?s=72&v=4",
-    "location": "Astana, Kazakhstan",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 266,
-    "createdAt": "2019-05-19T08:24:06Z"
   },
   {
     "login": "abduv",
@@ -40507,7 +40483,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 1878,
+    "privateContributions": 2283,
     "publicContributions": 37,
     "createdAt": "2019-12-14T21:16:46Z"
   },
@@ -40530,9 +40506,9 @@
     "location": "Astana, Kazakhstan",
     "company": "",
     "twitterUsername": "maksssat",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 4,
     "createdAt": "2019-08-22T06:01:29Z"
   },
   {

@@ -40710,7 +40710,7 @@
     "location": "New Zealand",
     "company": "The University of Auckland",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-10-02T15:38:05Z"
@@ -40723,8 +40723,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 448,
-    "publicContributions": 5,
+    "privateContributions": 2602,
+    "publicContributions": 0,
     "createdAt": "2019-03-21T01:35:56Z"
   },
   {
@@ -40795,8 +40795,8 @@
     "company": "Fisher and Paykel Appliances Ltd",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 535,
-    "publicContributions": 1,
+    "privateContributions": 550,
+    "publicContributions": 43,
     "createdAt": "2019-08-01T05:58:19Z"
   },
   {
@@ -40807,7 +40807,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 595,
+    "privateContributions": 601,
     "publicContributions": 0,
     "createdAt": "2019-01-21T12:55:06Z"
   },
@@ -40818,9 +40818,9 @@
     "location": "Wellington, New Zealand",
     "company": "Somar Digital",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 46,
+    "publicContributions": 48,
     "createdAt": "2019-08-18T21:47:10Z"
   },
   {
@@ -40832,7 +40832,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 6,
     "createdAt": "2019-07-10T02:29:25Z"
   },
   {
@@ -40844,7 +40844,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 80,
+    "publicContributions": 82,
     "createdAt": "2019-08-19T20:53:17Z"
   },
   {
@@ -40855,7 +40855,7 @@
     "company": "AGL",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 9,
+    "privateContributions": 13,
     "publicContributions": 66,
     "createdAt": "2019-03-28T22:57:47Z"
   },
@@ -40891,7 +40891,7 @@
     "company": "@timeclock-kiwi ",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 898,
+    "privateContributions": 1314,
     "publicContributions": 0,
     "createdAt": "2019-09-19T22:44:07Z"
   },
@@ -40903,7 +40903,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 76,
+    "privateContributions": 107,
     "publicContributions": 0,
     "createdAt": "2019-12-20T21:39:04Z"
   },
@@ -40926,7 +40926,7 @@
     "location": "New Zealand",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-01-23T08:23:42Z"
@@ -145714,5 +145714,17 @@
     "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2026-07-03T07:44:43Z"
+  },
+  {
+    "login": "hotveyn",
+    "name": "Ivan Shestopalov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/61887221?s=72&u=b769cc0114fb32f09bcfb6fd7a81c893d84bdd86&v=4",
+    "location": "New Zealand",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 30,
+    "createdAt": "2020-03-06T19:39:46Z"
   }
 ]

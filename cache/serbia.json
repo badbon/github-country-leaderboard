@@ -40711,8 +40711,8 @@
     "company": "FONIS",
     "twitterUsername": "",
     "followers": 13,
-    "privateContributions": 760,
-    "publicContributions": 917,
+    "privateContributions": 842,
+    "publicContributions": 1233,
     "createdAt": "2020-01-04T16:43:59Z"
   },
   {
@@ -40734,7 +40734,7 @@
     "location": "Belgrade",
     "company": "Rivian",
     "twitterUsername": "",
-    "followers": 13,
+    "followers": 15,
     "privateContributions": 20,
     "publicContributions": 13,
     "createdAt": "2020-03-17T14:22:02Z"
@@ -40746,7 +40746,7 @@
     "location": "Subotica-Belgrade",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 13,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-02-07T15:17:34Z"
@@ -40772,7 +40772,7 @@
     "twitterUsername": "",
     "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 3,
     "createdAt": "2020-05-30T18:18:40Z"
   },
   {
@@ -40784,7 +40784,7 @@
     "twitterUsername": "",
     "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 0,
     "createdAt": "2020-06-05T18:55:46Z"
   },
   {
@@ -40795,7 +40795,7 @@
     "company": "30Hills",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 736,
+    "privateContributions": 949,
     "publicContributions": 0,
     "createdAt": "2020-01-03T06:01:27Z"
   },
@@ -40806,7 +40806,7 @@
     "location": "Sierbia, Belgrade",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 10,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-03-19T20:51:31Z"
@@ -40814,13 +40814,13 @@
   {
     "login": "corscheg",
     "name": "Aleksandr Kazak-Kazakevich",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/69486415?s=72&u=d914935c87be4668068fcabf16fee913509cd530&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/69486415?s=72&u=72309103d75d649aa9109119c4cf35edf14192e3&v=4",
     "location": "Belgrade",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 175,
-    "publicContributions": 19,
+    "followers": 10,
+    "privateContributions": 165,
+    "publicContributions": 23,
     "createdAt": "2020-08-10T22:09:36Z"
   },
   {
@@ -40831,8 +40831,8 @@
     "company": "Faculty of Organizational Sciences",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 4,
-    "publicContributions": 19,
+    "privateContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2020-11-25T23:02:49Z"
   },
   {
@@ -40842,9 +40842,9 @@
     "location": "Belgrade",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 32,
+    "publicContributions": 59,
     "createdAt": "2020-02-27T14:57:42Z"
   },
   {
@@ -40854,7 +40854,7 @@
     "location": "Belgrade",
     "company": "Microsoft",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 9,
     "privateContributions": 95,
     "publicContributions": 0,
     "createdAt": "2020-07-01T11:25:20Z"
@@ -40866,9 +40866,9 @@
     "location": "Belgrade",
     "company": "SEO Mission Control Center",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 15,
     "createdAt": "2020-01-22T23:01:26Z"
   },
   {
@@ -40879,8 +40879,8 @@
     "company": "Software Engineer",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 213,
-    "publicContributions": 56,
+    "privateContributions": 268,
+    "publicContributions": 49,
     "createdAt": "2020-01-15T14:48:26Z"
   },
   {
@@ -40890,22 +40890,10 @@
     "location": "Belgrade",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 238,
-    "publicContributions": 7,
-    "createdAt": "2020-03-22T15:50:42Z"
-  },
-  {
-    "login": "hotveyn",
-    "name": "Ivan Shestopalov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/61887221?s=72&u=cd9582c60d76961590efa7dfe58ca98d258c71c7&v=4",
-    "location": "Belgrade",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 2,
+    "followers": 9,
+    "privateContributions": 197,
     "publicContributions": 0,
-    "createdAt": "2020-03-06T19:39:46Z"
+    "createdAt": "2020-03-22T15:50:42Z"
   },
   {
     "login": "pozitiva",
