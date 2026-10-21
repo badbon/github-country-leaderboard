@@ -12,12 +12,12 @@ Indexed users: 1,355
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [traorecheikh](https://github.com/traorecheikh) | Cheikh Tidiane TRAORÉ | dakar, senegal | 13,400 |
+| 1 | [traorecheikh](https://github.com/traorecheikh) | Cheikh Tidiane TRAORÉ | dakar, senegal | 13,265 |
 | 2 | [niangamadou888](https://github.com/niangamadou888) | Amadou Boubacar Niang | Saint-Louis, Senegal | 12,555 |
 | 3 | [OusManDiouf](https://github.com/OusManDiouf) | OUSMANE  DIOUF | Dakar, Sénégal | 10,735 |
 | 4 | [ModesteNAHUM](https://github.com/ModesteNAHUM) | Modeste NAHUM | Dakar, Sénégal | 10,293 |
 | 5 | [Titovich2203](https://github.com/Titovich2203) | Tito GBEDJEHA | Dakar, Senegal | 9,124 |
-| 6 | [jmndao](https://github.com/jmndao) | Jonathan Musa NDAO | Senegal | 8,074 |
+| 6 | [jmndao](https://github.com/jmndao) | Jonathan Musa NDAO | Senegal | 8,106 |
 | 7 | [gaelahouanvoedo](https://github.com/gaelahouanvoedo) | Gael AHOUANVOEDO | Dakar, Sénégal | 7,682 |
 | 8 | [MJoshua25](https://github.com/MJoshua25) | Yao Josué | Dakar | 7,580 |
 | 9 | [utachicodes](https://github.com/utachicodes) | Abdoullah Ndao | Senegal | 6,419 |
@@ -37,7 +37,7 @@ Indexed users: 1,355
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [traorecheikh](https://github.com/traorecheikh) | Cheikh Tidiane TRAORÉ | dakar, senegal | 4,264 |
+| 1 | [traorecheikh](https://github.com/traorecheikh) | Cheikh Tidiane TRAORÉ | dakar, senegal | 4,267 |
 | 2 | [Zoubeir23](https://github.com/Zoubeir23) | ZOUBEIR IBRAHIMA | Sénegale, Dakar | 3,270 |
 | 3 | [utachicodes](https://github.com/utachicodes) | Abdoullah Ndao | Senegal | 3,136 |
 | 4 | [nosleepman1](https://github.com/nosleepman1) | Abdallah Diouf | Dakar  | 2,805 |
@@ -83,4 +83,4 @@ Indexed users: 1,355
 | 19 | [patheGobel](https://github.com/patheGobel) | Pathé BA | Senegal  | 146 |
 | 20 | [ngorseck](https://github.com/ngorseck) | Ngor SECK | Dakar - Sénégal | 142 |
 
-Generated: 2026-10-21T12:55:29.433Z
+Generated: 2026-10-21T14:33:59.798Z

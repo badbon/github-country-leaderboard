@@ -17,7 +17,7 @@ Indexed users: 714
 | 3 | [borissedov](https://github.com/borissedov) | Boris Sedov | Tamarin, Mauritius | 7,470 |
 | 4 | [andrashejj](https://github.com/andrashejj) | Andras Hejj | Mauritius | 6,886 |
 | 5 | [wyxos](https://github.com/wyxos) | Wyxos | Mauritius | 6,850 |
-| 6 | [cedpoilly](https://github.com/cedpoilly) | Cedric | Mauritius | 6,582 |
+| 6 | [cedpoilly](https://github.com/cedpoilly) | Cedric | Mauritius | 6,573 |
 | 7 | [w1am](https://github.com/w1am) | William Chong | Mauritius | 6,568 |
 | 8 | [Emmastro](https://github.com/Emmastro) | Emmanuel Bauma Murairi | Mauritius | 6,133 |
 | 9 | [masterdubs](https://github.com/masterdubs) | Dubs | Mauritius | 5,869 |
@@ -73,7 +73,7 @@ Indexed users: 714
 | 9 | [MrSunshyne](https://github.com/MrSunshyne) | Sandeep Ramgolam | Mauritius | 111 |
 | 10 | [wkhayrattee](https://github.com/wkhayrattee) | Wasseem Khayrattee | Mauritius | 111 |
 | 11 | [loganaden](https://github.com/loganaden) | Loganaden Velvindron | Mauritius | 103 |
-| 12 | [cedpoilly](https://github.com/cedpoilly) | Cedric | Mauritius | 97 |
+| 12 | [cedpoilly](https://github.com/cedpoilly) | Cedric | Mauritius | 100 |
 | 13 | [shaha-nah](https://github.com/shaha-nah) | Shahanah | Mauritius | 94 |
 | 14 | [rahul-thakoor](https://github.com/rahul-thakoor) | Rahul Thakoor | Mauritius | 86 |
 | 15 | [SharCodin](https://github.com/SharCodin) | Code Crafters Corner | Mauritius | 84 |
@@ -83,4 +83,4 @@ Indexed users: 714
 | 19 | [MaskyS](https://github.com/MaskyS) | Kifah M | Mauritius | 76 |
 | 20 | [cbillowes](https://github.com/cbillowes) | Clarice Bouwer | Mauritius | 65 |
 
-Generated: 2026-10-21T12:32:19.038Z
+Generated: 2026-10-21T14:12:53.350Z

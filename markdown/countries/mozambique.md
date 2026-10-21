@@ -13,10 +13,10 @@ Indexed users: 1,175
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [arnaldo-tomo](https://github.com/arnaldo-tomo) | Arnaldo tomo | Mozambique | 10,017 |
-| 2 | [Uanela](https://github.com/Uanela) | Uanela Como | Beira, Sofala, Mozambique | 6,581 |
-| 3 | [playboybillionaire-prod](https://github.com/playboybillionaire-prod) | Mário jambo | Mozambique | 6,115 |
-| 4 | [emagombe](https://github.com/emagombe) | Edson Magombe | Mozambique | 6,081 |
-| 5 | [reizen-desu](https://github.com/reizen-desu) | Reizen dos Santos | Maputo, Mozambique | 5,943 |
+| 2 | [reizen-desu](https://github.com/reizen-desu) | Reizen dos Santos | Maputo, Mozambique | 6,838 |
+| 3 | [Uanela](https://github.com/Uanela) | Uanela Como | Beira, Sofala, Mozambique | 6,581 |
+| 4 | [playboybillionaire-prod](https://github.com/playboybillionaire-prod) | Mário jambo | Mozambique | 6,115 |
+| 5 | [emagombe](https://github.com/emagombe) | Edson Magombe | Mozambique | 6,081 |
 | 6 | [afonsoDomingos](https://github.com/afonsoDomingos) | Afonso Domingos (Vibe) | Mozambique-Maputo | 5,670 |
 | 7 | [hc12r](https://github.com/hc12r) | Pitch dev | Maputo, Mozambique | 5,235 |
 | 8 | [caf-3](https://github.com/caf-3) | Tomas Caetano | Mozambique Maputo | 4,648 |
@@ -26,12 +26,12 @@ Indexed users: 1,175
 | 12 | [enoqueJonas](https://github.com/enoqueJonas) | Enoque Macanda | Maputo, Mozambique | 3,571 |
 | 13 | [americo](https://github.com/americo) | Américo Júnior | Mozambique | 3,281 |
 | 14 | [emuneme](https://github.com/emuneme) | Eusebio  Augusto Munene | Maputo | 2,872 |
-| 15 | [backstageel](https://github.com/backstageel) | Elísio Leonardo | Maputo | 2,777 |
-| 16 | [rafael-the-dev](https://github.com/rafael-the-dev) | Rafael Tivane | Mozambique | 2,695 |
-| 17 | [singelodux](https://github.com/singelodux) | Singelo Dux | Maputo, Moçambique | 2,596 |
-| 18 | [gmahota](https://github.com/gmahota) | Guimaraes Mahota Jr. | Maputo, Mozambique | 2,574 |
-| 19 | [domingoslequechane](https://github.com/domingoslequechane) | Domingos Francisco Lequechane | Mozambique | 2,530 |
-| 20 | [KelvenCassamo](https://github.com/KelvenCassamo) | Kelven Cassamo | Maputo, Mozambique | 2,518 |
+| 15 | [IvanBila](https://github.com/IvanBila) | Connoisseur | Maputo, Mozambique | 2,833 |
+| 16 | [backstageel](https://github.com/backstageel) | Elísio Leonardo | Maputo | 2,777 |
+| 17 | [rafael-the-dev](https://github.com/rafael-the-dev) | Rafael Tivane | Mozambique | 2,695 |
+| 18 | [singelodux](https://github.com/singelodux) | Singelo Dux | Maputo, Moçambique | 2,596 |
+| 19 | [gmahota](https://github.com/gmahota) | Guimaraes Mahota Jr. | Maputo, Mozambique | 2,574 |
+| 20 | [domingoslequechane](https://github.com/domingoslequechane) | Domingos Francisco Lequechane | Mozambique | 2,530 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 1,175
 | 19 | [enoquetembe](https://github.com/enoquetembe) | Enoque Tembe | Maputo, Mozambique | 111 |
 | 20 | [mariomthree](https://github.com/mariomthree) | Mário M. Mabande | Maputo, Mozambique | 95 |
 
-Generated: 2026-10-21T12:37:01.884Z
+Generated: 2026-10-21T14:16:30.917Z

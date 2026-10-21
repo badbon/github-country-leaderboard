@@ -12,11 +12,11 @@ Indexed users: 185
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [Kim9wang](https://github.com/Kim9wang) | Kim Wang | Pyongyang | 6,029 |
+| 1 | [Kim9wang](https://github.com/Kim9wang) | Kim Wang | Pyongyang | 6,039 |
 | 2 | [advanced-rising](https://github.com/advanced-rising) | risingcore | Democratic People's Republic of Korea | 5,220 |
 | 3 | [boyesjo](https://github.com/boyesjo) | Boye Sjo | pyongyang | 4,404 |
-| 4 | [henxdl](https://github.com/henxdl) | henxdl | Pyongyang, North Korea | 3,080 |
-| 5 | [sakweli](https://github.com/sakweli) | Josh Sakweli | North Korea | 2,429 |
+| 4 | [sakweli](https://github.com/sakweli) | Josh Sakweli | North Korea | 2,429 |
+| 5 | [henxdl](https://github.com/henxdl) | henxdl | Pyongyang, North Korea | 2,005 |
 | 6 | [andrewlee1807](https://github.com/andrewlee1807) | Andrew | North Korea | 1,578 |
 | 7 | [The-Red-Serpent](https://github.com/The-Red-Serpent) | The_Red_Serpent | Pyongyang, North Korea | 1,310 |
 | 8 | [iam-orsu](https://github.com/iam-orsu) | Vamsi Krishna | North Korea | 870 |
@@ -30,8 +30,8 @@ Indexed users: 185
 | 16 | [Hexamouse](https://github.com/Hexamouse) | Muhamad Dzikri Maulana | Pyongyang, North Korea | 367 |
 | 17 | [PookiePepelsss](https://github.com/PookiePepelsss) | Pookie | North Korea | 351 |
 | 18 | [l1vstudios](https://github.com/l1vstudios) | L1V | North Korea | 308 |
-| 19 | [Pigatronee](https://github.com/Pigatronee) | PigObsessedGameDev | North Korea | 255 |
-| 20 | [QinAnze](https://github.com/QinAnze) | 🌈沢 | North Korea | 229 |
+| 19 | [l0ji](https://github.com/l0ji) | penny | Pyongyang | 292 |
+| 20 | [Pigatronee](https://github.com/Pigatronee) | PigObsessedGameDev | North Korea | 255 |
 
 ## Public Contributions
 
@@ -53,7 +53,7 @@ Indexed users: 185
 | 14 | [l1vstudios](https://github.com/l1vstudios) | L1V | North Korea | 184 |
 | 15 | [VisionVerse](https://github.com/VisionVerse) | Vision Verse | North Korea | 174 |
 | 16 | [vega-holdings](https://github.com/vega-holdings) | Vega | Pyongyang | 137 |
-| 17 | [l0ji](https://github.com/l0ji) | penny | Pyongyang | 133 |
+| 17 | [l0ji](https://github.com/l0ji) | penny | Pyongyang | 135 |
 | 18 | [lavrentious](https://github.com/lavrentious) | lavrent | Democratic People's Republic of Korea | 105 |
 | 19 | [lilac1337](https://github.com/lilac1337) | Vera Lovelace | Pyongyang, Democrat People's Republic of Korea | 95 |
 | 20 | [stevboiii](https://github.com/stevboiii) | callisto | pyongyang | 86 |
@@ -83,4 +83,4 @@ Indexed users: 185
 | 19 | [DillerOFire](https://github.com/DillerOFire) | VerpaSRP | North Korea | 14 |
 | 20 | [JeonJung-kook](https://github.com/JeonJung-kook) | Jeon Jung-kook Cantor | North Korea | 14 |
 
-Generated: 2026-10-21T12:41:28.801Z
+Generated: 2026-10-21T14:21:08.959Z

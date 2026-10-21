@@ -1,6 +1,6 @@
 # Austria
 
-Indexed users: 18,244
+Indexed users: 18,245
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 18,244
 | 19 | [timolins](https://github.com/timolins) | Timo Lins | Vienna, Austria | 1,173 |
 | 20 | [cliffordwolf](https://github.com/cliffordwolf) | Claire Wolf | Vienna | 1,143 |
 
-Generated: 2026-10-21T13:25:09.620Z
+Generated: 2026-10-21T14:02:59.802Z

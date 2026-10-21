@@ -1,17 +1,17 @@
 # Total Contributions - Senegal
 
-Generated: 2026-10-21T12:55:29.433Z
+Generated: 2026-10-21T14:33:59.798Z
 
 Users: 1355
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [traorecheikh](https://github.com/traorecheikh) | Cheikh Tidiane TRAORÉ | @Teksi-inc @404-NotFound-Org @TyvaaServices  | HanoWhisper | dakar, senegal | 13400 |
+| 1 | [traorecheikh](https://github.com/traorecheikh) | Cheikh Tidiane TRAORÉ | @Teksi-inc @404-NotFound-Org @TyvaaServices  | HanoWhisper | dakar, senegal | 13265 |
 | 2 | [niangamadou888](https://github.com/niangamadou888) | Amadou Boubacar Niang |  |  | Saint-Louis, Senegal | 12555 |
 | 3 | [OusManDiouf](https://github.com/OusManDiouf) | OUSMANE  DIOUF | Fellwiin |  | Dakar, Sénégal | 10735 |
 | 4 | [ModesteNAHUM](https://github.com/ModesteNAHUM) | Modeste NAHUM | @SimplifyStack  |  | Dakar, Sénégal | 10293 |
 | 5 | [Titovich2203](https://github.com/Titovich2203) | Tito GBEDJEHA | WIICODE |  | Dakar, Senegal | 9124 |
-| 6 | [jmndao](https://github.com/jmndao) | Jonathan Musa NDAO | Tecafrik |  | Senegal | 8074 |
+| 6 | [jmndao](https://github.com/jmndao) | Jonathan Musa NDAO | Tecafrik |  | Senegal | 8106 |
 | 7 | [gaelahouanvoedo](https://github.com/gaelahouanvoedo) | Gael AHOUANVOEDO |  |  | Dakar, Sénégal | 7682 |
 | 8 | [MJoshua25](https://github.com/MJoshua25) | Yao Josué |  |  | Dakar | 7580 |
 | 9 | [utachicodes](https://github.com/utachicodes) | Abdoullah Ndao | Azertica |  | Senegal | 6419 |

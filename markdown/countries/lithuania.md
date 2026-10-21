@@ -56,7 +56,7 @@ Indexed users: 5,364
 | 17 | [MekDrop](https://github.com/MekDrop) | Raimondas Rimkevičius | Vilnius, Lithuania | 2,332 |
 | 18 | [savonarola](https://github.com/savonarola) | Ilia Averianov | Vilnius | 2,228 |
 | 19 | [VytCepas](https://github.com/VytCepas) | Vytautas Cepas | Vilnius, Lithuania | 2,216 |
-| 20 | [salisk](https://github.com/salisk) | Sarunas | Lithuania | 2,117 |
+| 20 | [navidshad](https://github.com/navidshad) | Navid | Lithuania | 2,199 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 5,364
 | 19 | [Miceuz](https://github.com/Miceuz) | Albertas Mickėnas | Vilnius, Lithuania | 190 |
 | 20 | [mmozuras](https://github.com/mmozuras) | Mindaugas Mozūras | Vilnius, Lithuania | 183 |
 
-Generated: 2026-10-21T12:27:18.570Z
+Generated: 2026-10-21T14:08:44.399Z

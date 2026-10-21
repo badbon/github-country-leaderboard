@@ -48,10 +48,10 @@ Indexed users: 1,746
 | 9 | [50rayn](https://github.com/50rayn) | Soryn | Moldova | 2,221 |
 | 10 | [himaster](https://github.com/himaster) | Vitaly Bicov | Chisinau, Moldova | 2,070 |
 | 11 | [vbarbarosh](https://github.com/vbarbarosh) | Vladimir Barbarosh | Moldova | 1,950 |
-| 12 | [teratron](https://github.com/teratron) | Oleg Alexandrov | Moldova | 1,800 |
-| 13 | [THET1ME-1](https://github.com/THET1ME-1) | Matrosov Alexandr | Moldova | 1,783 |
-| 14 | [Nemo-Illusionist](https://github.com/Nemo-Illusionist) | Peter Radilov | Moldova | 1,751 |
-| 15 | [Magistrus](https://github.com/Magistrus) | Vitaliy Unguryan | Moldova | 1,716 |
+| 12 | [Magistrus](https://github.com/Magistrus) | Vitaliy Unguryan | Moldova | 1,901 |
+| 13 | [teratron](https://github.com/teratron) | Oleg Alexandrov | Moldova | 1,800 |
+| 14 | [THET1ME-1](https://github.com/THET1ME-1) | Matrosov Alexandr | Moldova | 1,783 |
+| 15 | [Nemo-Illusionist](https://github.com/Nemo-Illusionist) | Peter Radilov | Moldova | 1,751 |
 | 16 | [GabsEdits](https://github.com/GabsEdits) | Gabriel Cozma | Chisinau, Moldova | 1,651 |
 | 17 | [g0ddest](https://github.com/g0ddest) | veet | Bendery, Moldova | 1,648 |
 | 18 | [nalyk](https://github.com/nalyk) | Ion (Nalyk) Calmîș | Ungheni, Republic of Moldova | 1,481 |
@@ -83,4 +83,4 @@ Indexed users: 1,746
 | 19 | [vgaidarji](https://github.com/vgaidarji) | Veaceslav Gaidarji | Moldova | 114 |
 | 20 | [Ernest96](https://github.com/Ernest96) | Ernest | Chisinau Moldova | 107 |
 
-Generated: 2026-10-21T12:34:33.226Z
+Generated: 2026-10-21T14:13:08.837Z

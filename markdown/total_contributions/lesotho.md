@@ -1,6 +1,6 @@
 # Total Contributions - Lesotho
 
-Generated: 2026-10-21T12:25:12.355Z
+Generated: 2026-10-21T14:07:05.276Z
 
 Users: 160
 
@@ -11,7 +11,7 @@ Users: 160
 | 3 | [tshakalekholoane](https://github.com/tshakalekholoane) | Tshaka Lekholoane |  |  | Maseru, Lesotho | 2389 |
 | 4 | [LomNtetha](https://github.com/LomNtetha) | Lumkile Ntetha |  | ntethalumkile | Maseru | 2129 |
 | 5 | [KamoheloKoali](https://github.com/KamoheloKoali) | Kamohelo Koali |  |  | Lesotho | 1990 |
-| 6 | [Montso-Matlaletsa](https://github.com/Montso-Matlaletsa) | Montso Matlaletsa | @africacodeacademy @wholeapp |  | Maseru, Lesotho | 1022 |
+| 6 | [Montso-Matlaletsa](https://github.com/Montso-Matlaletsa) | Montso Matlaletsa | @africacodeacademy @wholeapp |  | Maseru, Lesotho | 1013 |
 | 7 | [hitman1c](https://github.com/hitman1c) | SechabaLaptopTracker | SechabaLaptopTracker |  | Lesotho,Maseru | 954 |
 | 8 | [kaneloramokhele](https://github.com/kaneloramokhele) | Ramokhele | AliansImperium PTY LTD | MRamokhele | Maseru | 808 |
 | 9 | [mokaty1818795](https://github.com/mokaty1818795) | Tlotliso Mokati | Eazy Tech Solutions |  | Maseru Qoaling | 697 |
@@ -25,4 +25,4 @@ Users: 160
 | 17 | [tefol-hub](https://github.com/tefol-hub) | Tefo Leche |  | tefoLec | Lesotho | 295 |
 | 18 | [lebusa](https://github.com/lebusa) | Motebang |  | sirfongfong | Maseru, Lesotho | 284 |
 | 19 | [setsoto](https://github.com/setsoto) | Setsoto |  |  | Lesotho | 262 |
-| 20 | [kananelotseisa](https://github.com/kananelotseisa) | Kananelo Ts'eisa |  |  | Lesotho | 232 |
+| 20 | [kananelotseisa](https://github.com/kananelotseisa) | Kananelo Ts'eisa |  |  | Lesotho | 225 |

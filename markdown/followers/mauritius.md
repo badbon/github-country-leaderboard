@@ -1,6 +1,6 @@
 # Followers - Mauritius
 
-Generated: 2026-10-21T12:32:19.038Z
+Generated: 2026-10-21T14:12:53.350Z
 
 Users: 714
 
@@ -17,7 +17,7 @@ Users: 714
 | 9 | [MrSunshyne](https://github.com/MrSunshyne) | Sandeep Ramgolam | Livestorm | __sun__ | Mauritius | 111 |
 | 10 | [wkhayrattee](https://github.com/wkhayrattee) | Wasseem Khayrattee |  | wkhayrattee | Mauritius | 111 |
 | 11 | [loganaden](https://github.com/loganaden) | Loganaden Velvindron | @cyberstormdotmu  |  | Mauritius | 103 |
-| 12 | [cedpoilly](https://github.com/cedpoilly) | Cedric |  |  | Mauritius | 97 |
+| 12 | [cedpoilly](https://github.com/cedpoilly) | Cedric |  |  | Mauritius | 100 |
 | 13 | [shaha-nah](https://github.com/shaha-nah) | Shahanah | Dayforce |  | Mauritius | 94 |
 | 14 | [rahul-thakoor](https://github.com/rahul-thakoor) | Rahul Thakoor | @balena-io  |  | Mauritius | 86 |
 | 15 | [SharCodin](https://github.com/SharCodin) | Code Crafters Corner |  | gaming_shar | Mauritius | 84 |

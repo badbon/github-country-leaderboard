@@ -1,6 +1,6 @@
 # Followers - Malta
 
-Generated: 2026-10-21T12:30:22.583Z
+Generated: 2026-10-21T14:12:14.753Z
 
 Users: 1223
 
@@ -15,10 +15,10 @@ Users: 1223
 | 7 | [mandyfarrugia](https://github.com/mandyfarrugia) | Mandy Farrugia | MCAST IICT, Paola |  | Malta | 378 |
 | 8 | [mbj](https://github.com/mbj) | Markus Schirp | Schirp DSO LTD | mbjschirp | Malta | 293 |
 | 9 | [zeelog](https://github.com/zeelog) |  |  |  | Malta | 259 |
-| 10 | [jirevwe](https://github.com/jirevwe) | Raymond Tukpe | @frain-dev  | rtukpe | Luqa, Malta | 243 |
+| 10 | [jirevwe](https://github.com/jirevwe) | Raymond Tukpe | @frain-dev  | rtukpe | Luqa, Malta | 245 |
 | 11 | [TimidRobot](https://github.com/TimidRobot) | Timid Robot Zehta | @CreativeCommons |  | San Ġwann, Malta 🇲🇹 | 229 |
 | 12 | [waynebonc](https://github.com/waynebonc) | Wayne Bonnici |  | Wayne_Bonnici | Malta | 172 |
-| 13 | [melihberberolu](https://github.com/melihberberolu) | Melih |  |  | Malta | 154 |
+| 13 | [melihberberolu](https://github.com/melihberberolu) | Melih |  |  | Malta | 155 |
 | 14 | [jonathan-vella](https://github.com/jonathan-vella) | Jonathan Vella | @Microsoft |  | Malta | 143 |
 | 15 | [JuxhinDB](https://github.com/JuxhinDB) | Juxhin | @haveibeensquatted | juxhindb | Malta | 142 |
 | 16 | [nathan-abela](https://github.com/nathan-abela) | Nathan Abela | Betsson Group |  | Malta | 141 |
