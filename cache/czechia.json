@@ -194374,5 +194374,65 @@
     "privateContributions": 3734,
     "publicContributions": 11,
     "createdAt": "2021-01-05T21:28:31Z"
+  },
+  {
+    "login": "zimmermann5439",
+    "name": "Angelino Caceres",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298836724?s=72&v=4",
+    "location": "Czech Republic",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2026-07-01T18:48:16Z"
+  },
+  {
+    "login": "vo2394",
+    "name": "María Gomez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298605826?s=72&v=4",
+    "location": "Czech Republic",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2026-07-01T07:31:16Z"
+  },
+  {
+    "login": "Tucker65145",
+    "name": "Grégoire Jesus",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298775666?s=72&v=4",
+    "location": "Bacau, Czech Republic",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2026-07-01T15:34:26Z"
+  },
+  {
+    "login": "RajeshGray",
+    "name": "Concha Gutiérrez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298767997?s=72&v=4",
+    "location": "Rajpur Sonarpur, Czech Republic",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2026-07-01T15:15:27Z"
+  },
+  {
+    "login": "max-sudolabs",
+    "name": "Maksim Obukhov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298631823?s=72&u=b2608e551457b52e2849f75fb27cced5d7223655&v=4",
+    "location": "Prague, Czech Republic",
+    "company": "Sudolabs",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 129,
+    "createdAt": "2026-07-01T08:41:15Z"
   }
 ]
