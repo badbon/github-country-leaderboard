@@ -21,7 +21,7 @@ Indexed users: 160
 | 7 | [hitman1c](https://github.com/hitman1c) | SechabaLaptopTracker | Lesotho,Maseru | 954 |
 | 8 | [kaneloramokhele](https://github.com/kaneloramokhele) | Ramokhele | Maseru | 808 |
 | 9 | [mokaty1818795](https://github.com/mokaty1818795) | Tlotliso Mokati | Maseru Qoaling | 697 |
-| 10 | [KenedyMoremi](https://github.com/KenedyMoremi) | Tumisang Moremi | Maseru | 688 |
+| 10 | [KenedyMoremi](https://github.com/KenedyMoremi) | Tumisang Moremi | Maseru | 689 |
 | 11 | [DevLereko](https://github.com/DevLereko) | Lereko Foloko | Maseru, Lesotho | 611 |
 | 12 | [LNkholise](https://github.com/LNkholise) | Leonard Nkholise | Maseru, Lesotho | 508 |
 | 13 | [MissPurrple](https://github.com/MissPurrple) | Miss Purple | Lesotho  | 431 |
@@ -29,7 +29,7 @@ Indexed users: 160
 | 15 | [khauta](https://github.com/khauta) | Khauta Maliehe | Maseru, Lesotho | 340 |
 | 16 | [Matela-cyber](https://github.com/Matela-cyber) | Vicent Matela | Lesotho | 321 |
 | 17 | [tefol-hub](https://github.com/tefol-hub) | Tefo Leche | Lesotho | 295 |
-| 18 | [lebusa](https://github.com/lebusa) | Motebang | Maseru, Lesotho | 290 |
+| 18 | [lebusa](https://github.com/lebusa) | Motebang | Maseru, Lesotho | 284 |
 | 19 | [setsoto](https://github.com/setsoto) | Setsoto | Lesotho | 265 |
 | 20 | [kananelotseisa](https://github.com/kananelotseisa) | Kananelo Ts'eisa | Lesotho | 232 |
 
@@ -64,7 +64,7 @@ Indexed users: 160
 |---:|---|---|---|---:|
 | 1 | [KamoheloKoali](https://github.com/KamoheloKoali) | Kamohelo Koali | Lesotho | 252 |
 | 2 | [LomNtetha](https://github.com/LomNtetha) | Lumkile Ntetha | Maseru | 215 |
-| 3 | [ocaes](https://github.com/ocaes) | Tsitso Mafantiri | Lesotho | 114 |
+| 3 | [ocaes](https://github.com/ocaes) | Tsitso Mafantiri | Lesotho | 113 |
 | 4 | [hitman1c](https://github.com/hitman1c) | SechabaLaptopTracker | Lesotho,Maseru | 61 |
 | 5 | [Tumisangkhabisi](https://github.com/Tumisangkhabisi) | Tumisang khabisi | Lesotho, maseru | 53 |
 | 6 | [Lemohang](https://github.com/Lemohang) | Lemohang57 | Maseru  | 45 |
@@ -83,4 +83,4 @@ Indexed users: 160
 | 19 | [lotesm](https://github.com/lotesm) | Lotes Molapo | Maseru, Lesotho | 13 |
 | 20 | [entsoereng](https://github.com/entsoereng) | Mokonyana Ntsoereng | Lesotho | 12 |
 
-Generated: 2026-10-20T23:12:00.469Z
+Generated: 2026-10-21T00:54:35.334Z

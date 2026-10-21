@@ -20,7 +20,7 @@ Indexed users: 113
 | 6 | [ColinFrick](https://github.com/ColinFrick) | Colin Frick | Liechtenstein | 2,666 |
 | 7 | [AHaldner](https://github.com/AHaldner) | Andrin Haldner | Liechtenstein | 1,849 |
 | 8 | [marsop](https://github.com/marsop) | Alberto Gregorio | Ruggell, Liechtenstein | 1,700 |
-| 9 | [niklasfrick](https://github.com/niklasfrick) | Niklas Frick | Liechtenstein | 1,252 |
+| 9 | [niklasfrick](https://github.com/niklasfrick) | Niklas Frick | Liechtenstein | 1,250 |
 | 10 | [iwhp](https://github.com/iwhp) | Harry Pfleger | Liechtenstein | 760 |
 | 11 | [masteradhoc](https://github.com/masteradhoc) | Brian | Liechtenstein | 754 |
 | 12 | [d0dge-dev](https://github.com/d0dge-dev) | David | Liechtenstein | 473 |
@@ -39,7 +39,7 @@ Indexed users: 113
 |---:|---|---|---|---:|
 | 1 | [oscardvs](https://github.com/oscardvs) | Oscar Devos | Liechtenstein | 2,077 |
 | 2 | [marsop](https://github.com/marsop) | Alberto Gregorio | Ruggell, Liechtenstein | 1,700 |
-| 3 | [niklasfrick](https://github.com/niklasfrick) | Niklas Frick | Liechtenstein | 1,252 |
+| 3 | [niklasfrick](https://github.com/niklasfrick) | Niklas Frick | Liechtenstein | 1,250 |
 | 4 | [iwhp](https://github.com/iwhp) | Harry Pfleger | Liechtenstein | 760 |
 | 5 | [masteradhoc](https://github.com/masteradhoc) | Brian | Liechtenstein | 669 |
 | 6 | [PhilippHGerber](https://github.com/PhilippHGerber) | Philipp H. Gerber | Liechtenstein | 584 |
@@ -83,4 +83,4 @@ Indexed users: 113
 | 19 | [IncredibleAaron](https://github.com/IncredibleAaron) | Aaron | Vaduz | 13 |
 | 20 | [niklasfrick](https://github.com/niklasfrick) | Niklas Frick | Liechtenstein | 12 |
 
-Generated: 2026-10-20T23:12:14.559Z
+Generated: 2026-10-21T00:55:49.499Z

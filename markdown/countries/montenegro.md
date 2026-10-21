@@ -81,6 +81,6 @@ Indexed users: 888
 | 17 | [perisicnikola37](https://github.com/perisicnikola37) | Nikola Perisic | Podgorica, Montenegro | 101 |
 | 18 | [StevanCakic](https://github.com/StevanCakic) | Stevan Čakić | Montenegro | 101 |
 | 19 | [vovkasm](https://github.com/vovkasm) | Vladimir Timofeev | Budva, Montenegro | 99 |
-| 20 | [marcoroganovic](https://github.com/marcoroganovic) | Marko Roganovic | Montenegro | 89 |
+| 20 | [marcoroganovic](https://github.com/marcoroganovic) | Marko Roganovic | Montenegro | 90 |
 
-Generated: 2026-10-20T23:19:59.370Z
+Generated: 2026-10-21T01:06:56.050Z

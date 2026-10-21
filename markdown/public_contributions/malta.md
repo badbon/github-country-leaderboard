@@ -1,8 +1,8 @@
 # Public Contributions - Malta
 
-Generated: 2026-10-20T23:15:39.783Z
+Generated: 2026-10-21T01:02:48.937Z
 
-Users: 1224
+Users: 1223
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -12,8 +12,8 @@ Users: 1224
 | 4 | [OmegaGbenga](https://github.com/OmegaGbenga) | Olugbenga Olatunde Dareowolabi |  |  | Malta | 3548 |
 | 5 | [rinrab](https://github.com/rinrab) | Timofei Zhakov |  |  | Malta | 3198 |
 | 6 | [KevinBusuttil](https://github.com/KevinBusuttil) | Kevin Busuttil | Busuttil Technologies Limited |  | Malta | 3132 |
-| 7 | [silvandiepen](https://github.com/silvandiepen) | Sil van Diepen | Sil van Diepen | silvandiepen | Malta | 3044 |
-| 8 | [camilamacedo86](https://github.com/camilamacedo86) | Camila Macedo |  |  | Malta | 2984 |
+| 7 | [camilamacedo86](https://github.com/camilamacedo86) | Camila Macedo |  |  | Malta | 3104 |
+| 8 | [silvandiepen](https://github.com/silvandiepen) | Sil van Diepen | Sil van Diepen | silvandiepen | Malta | 3044 |
 | 9 | [novatechflow](https://github.com/novatechflow) | Alexander Alten | @scalytics | mapredit | Malta | 2724 |
 | 10 | [zcourts](https://github.com/zcourts) | Courtney Robinson | Hypi | zcourts | London (UK), Łodz (Poland), Valletta (Malta) | 2707 |
 | 11 | [arogan178](https://github.com/arogan178) | Andrea Bugeja | GiG |  | Malta | 2585 |
@@ -24,5 +24,5 @@ Users: 1224
 | 16 | [mbj](https://github.com/mbj) | Markus Schirp | Schirp DSO LTD | mbjschirp | Malta | 1980 |
 | 17 | [SerZhyAle](https://github.com/SerZhyAle) | Serhii Zhyhunenko |  |  | Malta | 1899 |
 | 18 | [terranc](https://github.com/terranc) | Terran |  | terranc | Malta | 1891 |
-| 19 | [max-lt](https://github.com/max-lt) |  | @OpenWorkers |  | Malta | 1700 |
-| 20 | [owenfar](https://github.com/owenfar) |  | @owenfar |  | Malta | 1331 |
+| 19 | [owenfar](https://github.com/owenfar) |  | @owenfar |  | Malta | 1331 |
+| 20 | [GefMar](https://github.com/GefMar) | Sergei Romanchuk |  |  | Malta | 1293 |

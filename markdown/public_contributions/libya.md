@@ -1,6 +1,6 @@
 # Public Contributions - Libya
 
-Generated: 2026-10-20T23:12:07.928Z
+Generated: 2026-10-21T00:55:44.407Z
 
 Users: 740
 
@@ -17,7 +17,7 @@ Users: 740
 | 9 | [hazembook](https://github.com/hazembook) | Hazem Shaban | College of Engineering Technology - Janzour | hazembook | Libya | 664 |
 | 10 | [mhmdnab](https://github.com/mhmdnab) | Mohamad Naboulsi |  | mhmdnab004 | Tripoli - Lebanon | 652 |
 | 11 | [habberrih](https://github.com/habberrih) | Abdullah Habberrih |  |  | Libya | 502 |
-| 12 | [Asma-Nasr](https://github.com/Asma-Nasr) | Asmaa Nasr |  |  | Libya | 432 |
+| 12 | [Asma-Nasr](https://github.com/Asma-Nasr) | Asmaa Nasr |  |  | Libya | 427 |
 | 13 | [salemaljebaly](https://github.com/salemaljebaly) | Salem Aljebaly |  |  | Libya | 423 |
 | 14 | [MElkmeshi](https://github.com/MElkmeshi) | Mohamed Elkmeshi | @PrestoLY  | melkmeshi | Tripoli, Libya | 411 |
 | 15 | [Wondermine](https://github.com/Wondermine) | Taha Ali |  |  | Libya, Tripoli | 368 |

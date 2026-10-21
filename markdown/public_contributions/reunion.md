@@ -1,6 +1,6 @@
 # Public Contributions - Réunion
 
-Generated: 2026-10-20T23:36:42.275Z
+Generated: 2026-10-21T01:19:06.842Z
 
 Users: 212
 
@@ -9,7 +9,7 @@ Users: 212
 | 1 | [Gabouin](https://github.com/Gabouin) | Gabouin |  |  | Reunion Island | 1963 |
 | 2 | [Nasjoe](https://github.com/Nasjoe) | Jonas TURBEAUX | Code Commun Coop |  | Réunion Island, Villeurbanne, Montpellier : France | 1740 |
 | 3 | [elmarco](https://github.com/elmarco) | Marc-André Lureau | Red Hat, Inc. | elmarco | Réunion | 1146 |
-| 4 | [ChaffyLace](https://github.com/ChaffyLace) |  |  |  | Saint Denis | 970 |
+| 4 | [ChaffyLace](https://github.com/ChaffyLace) |  |  |  | Saint Denis | 938 |
 | 5 | [PhilDL](https://github.com/PhilDL) | Philippe L'ATTENTION | @Basaltbytes @Coding-Dodo | _philDL | Réunion | 869 |
 | 6 | [IamArayel](https://github.com/IamArayel) | Arayel |  |  | Reunion Island | 742 |
 | 7 | [gfo974](https://github.com/gfo974) | Geoffrey Fournier  | @arribada  |  | Réunion Island | 697 |
@@ -23,6 +23,6 @@ Users: 212
 | 15 | [DeiTsukiii](https://github.com/DeiTsukiii) | DeiTsuki | DeiTsuki corp |  | Reunion Island | 259 |
 | 16 | [RandomZeleff](https://github.com/RandomZeleff) | Zeleff_ | Nartya | zeleff_ii | Reunion Island | 247 |
 | 17 | [thibautfontaine](https://github.com/thibautfontaine) | Ti_punch |  |  | Reunion Island | 227 |
-| 18 | [aurelien-loyer](https://github.com/aurelien-loyer) | LOYER Aurélien | EPITECH |  | Reunion Island | 216 |
+| 18 | [aurelien-loyer](https://github.com/aurelien-loyer) | LOYER Aurélien | EPITECH |  | Reunion Island | 217 |
 | 19 | [alexreu](https://github.com/alexreu) | Alexandre ADOLPHE |  |  | Reunion island | 174 |
 | 20 | [Robin-Lune](https://github.com/Robin-Lune) |  | La Forge Numérique | Robin_Lune | Réunion | 162 |

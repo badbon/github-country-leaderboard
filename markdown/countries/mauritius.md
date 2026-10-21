@@ -45,8 +45,8 @@ Indexed users: 714
 | 6 | [xelab04](https://github.com/xelab04) | Alex Bissessur | Mauritius | 1,488 |
 | 7 | [Abdur-rahmaanJ](https://github.com/Abdur-rahmaanJ) | Abdur-Rahmaan Janhangeer | Mauritius | 1,406 |
 | 8 | [MrSunshyne](https://github.com/MrSunshyne) | Sandeep Ramgolam | Mauritius | 1,391 |
-| 9 | [eznix86](https://github.com/eznix86) | Bruno Bernard | Mauritius | 1,291 |
-| 10 | [danielgithiomi](https://github.com/danielgithiomi) | Daniel Githiomi | Grand Baie, Mauritius | 1,280 |
+| 9 | [danielgithiomi](https://github.com/danielgithiomi) | Daniel Githiomi | Grand Baie, Mauritius | 1,333 |
+| 10 | [eznix86](https://github.com/eznix86) | Bruno Bernard | Mauritius | 1,291 |
 | 11 | [Andriamahay11master](https://github.com/Andriamahay11master) | Andriamahay Henikaja IRIMANANA | Trianon, Mauritius | 1,019 |
 | 12 | [jochenkirstaetter](https://github.com/jochenkirstaetter) | Jochen Kirstätter | Mauritius | 982 |
 | 13 | [BarbUk](https://github.com/BarbUk) | Julien Virey | Mauritius | 871 |
@@ -83,4 +83,4 @@ Indexed users: 714
 | 19 | [MaskyS](https://github.com/MaskyS) | Kifah M | Mauritius | 75 |
 | 20 | [cbillowes](https://github.com/cbillowes) | Clarice Bouwer | Mauritius | 65 |
 
-Generated: 2026-10-20T23:17:47.785Z
+Generated: 2026-10-21T01:04:50.914Z

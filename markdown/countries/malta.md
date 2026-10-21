@@ -1,6 +1,6 @@
 # Malta
 
-Indexed users: 1,224
+Indexed users: 1,223
 
 | Leaderboard | Link |
 |---|---|
@@ -43,8 +43,8 @@ Indexed users: 1,224
 | 4 | [OmegaGbenga](https://github.com/OmegaGbenga) | Olugbenga Olatunde Dareowolabi | Malta | 3,548 |
 | 5 | [rinrab](https://github.com/rinrab) | Timofei Zhakov | Malta | 3,198 |
 | 6 | [KevinBusuttil](https://github.com/KevinBusuttil) | Kevin Busuttil | Malta | 3,132 |
-| 7 | [silvandiepen](https://github.com/silvandiepen) | Sil van Diepen | Malta | 3,044 |
-| 8 | [camilamacedo86](https://github.com/camilamacedo86) | Camila Macedo | Malta | 2,984 |
+| 7 | [camilamacedo86](https://github.com/camilamacedo86) | Camila Macedo | Malta | 3,104 |
+| 8 | [silvandiepen](https://github.com/silvandiepen) | Sil van Diepen | Malta | 3,044 |
 | 9 | [novatechflow](https://github.com/novatechflow) | Alexander Alten | Malta | 2,724 |
 | 10 | [zcourts](https://github.com/zcourts) | Courtney Robinson | London (UK), Łodz (Poland), Valletta (Malta) | 2,707 |
 | 11 | [arogan178](https://github.com/arogan178) | Andrea Bugeja | Malta | 2,585 |
@@ -55,8 +55,8 @@ Indexed users: 1,224
 | 16 | [mbj](https://github.com/mbj) | Markus Schirp | Malta | 1,980 |
 | 17 | [SerZhyAle](https://github.com/SerZhyAle) | Serhii Zhyhunenko | Malta | 1,899 |
 | 18 | [terranc](https://github.com/terranc) | Terran | Malta | 1,891 |
-| 19 | [max-lt](https://github.com/max-lt) |  | Malta | 1,700 |
-| 20 | [owenfar](https://github.com/owenfar) |  | Malta | 1,331 |
+| 19 | [owenfar](https://github.com/owenfar) |  | Malta | 1,331 |
+| 20 | [GefMar](https://github.com/GefMar) | Sergei Romanchuk | Malta | 1,293 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,224
 | 19 | [mattcg](https://github.com/mattcg) | Matthew Caruana Galizia | Malta | 126 |
 | 20 | [CM2Walki](https://github.com/CM2Walki) | Walki | Malta | 118 |
 
-Generated: 2026-10-20T23:15:39.783Z
+Generated: 2026-10-21T01:02:48.937Z

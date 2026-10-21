@@ -26,10 +26,10 @@ Indexed users: 1,355
 | 12 | [i2sac](https://github.com/i2sac) | Louis Issac Jean Samba DIOUF | Dakar, Senegal | 5,737 |
 | 13 | [elias-ba](https://github.com/elias-ba) | Elias Waly Ba | Dakar, Senegal | 5,243 |
 | 14 | [ZooM982](https://github.com/ZooM982) | Revhieno Roll Haurly MBOUTA  | Dakar, Sénégal | 5,078 |
-| 15 | [crossben](https://github.com/crossben) |  | Dakar | 4,869 |
+| 15 | [crossben](https://github.com/crossben) |  | Dakar | 4,937 |
 | 16 | [Denver-sn](https://github.com/Denver-sn) | DℰℕVℰℛ | Senegal,Dakar | 4,711 |
 | 17 | [lamine-f](https://github.com/lamine-f) | Mouhamed Lamine Faye | Sénégal - Dakar | 4,467 |
-| 18 | [madicke12](https://github.com/madicke12) | Madicke Cisse | Dakar | 4,409 |
+| 18 | [madicke12](https://github.com/madicke12) | Madicke Cisse | Dakar | 4,452 |
 | 19 | [Zoubeir23](https://github.com/Zoubeir23) | ZOUBEIR IBRAHIMA | Sénegale, Dakar | 4,393 |
 | 20 | [lonie12](https://github.com/lonie12) | Yxie | Dakar, Senegal | 4,378 |
 
@@ -83,4 +83,4 @@ Indexed users: 1,355
 | 19 | [patheGobel](https://github.com/patheGobel) | Pathé BA | Senegal  | 146 |
 | 20 | [ngorseck](https://github.com/ngorseck) | Ngor SECK | Dakar - Sénégal | 142 |
 
-Generated: 2026-10-20T23:41:12.325Z
+Generated: 2026-10-21T01:23:19.088Z

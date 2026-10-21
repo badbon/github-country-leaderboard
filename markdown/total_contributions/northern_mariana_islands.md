@@ -1,12 +1,12 @@
 # Total Contributions - Northern Mariana Islands
 
-Generated: 2026-10-20T23:26:35.857Z
+Generated: 2026-10-21T01:12:58.672Z
 
 Users: 13
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [chris-yng](https://github.com/chris-yng) | Christopher Young |  |  | Sotobury, Northern Mariana Islands | 297 |
+| 1 | [chris-yng](https://github.com/chris-yng) | Christopher Young |  |  | Sotobury, Northern Mariana Islands | 296 |
 | 2 | [stephenalonzo](https://github.com/stephenalonzo) | Stephen Alonzo |  |  | Saipan, MP | 276 |
 | 3 | [nihaolifei999](https://github.com/nihaolifei999) | nihaolifei999 |  |  | Saipan | 6 |
 | 4 | [donnaada](https://github.com/donnaada) | Donna Ada |  |  | Saipan, MP | 1 |

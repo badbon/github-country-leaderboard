@@ -12,7 +12,7 @@ Indexed users: 289
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [Hashimi01](https://github.com/Hashimi01) | Hashimi El Hashimi | Nouakchott, Mauritania | 13,190 |
+| 1 | [Hashimi01](https://github.com/Hashimi01) | Hashimi El Hashimi | Nouakchott, Mauritania | 13,158 |
 | 2 | [medsabbar](https://github.com/medsabbar) | Mohamed Sabbar | Nouakchott, Mauritania | 12,747 |
 | 3 | [ahmed-abdat](https://github.com/ahmed-abdat) | Ahmed Abdellahi Abdat | mauritania nouakchott | 11,447 |
 | 4 | [LeminEly](https://github.com/LeminEly) | Lemin | Mauritania | 8,433 |
@@ -76,11 +76,11 @@ Indexed users: 289
 | 12 | [Layito96](https://github.com/Layito96) |  | Nouakchott, Mauritania | 31 |
 | 13 | [LeminEly](https://github.com/LeminEly) | Lemin | Mauritania | 31 |
 | 14 | [MdMahmoudSaid](https://github.com/MdMahmoudSaid) | Mohamed Mahmoud Said | Nouakchott,Mauriania | 31 |
-| 15 | [moustaphatalebjiddou](https://github.com/moustaphatalebjiddou) | Moustapha Taleb Jiddou | Nouakchott, Mauritania | 30 |
-| 16 | [etfaghaoubeid](https://github.com/etfaghaoubeid) | Etfagha oubeid Elatigh | nouakchott | 29 |
+| 15 | [etfaghaoubeid](https://github.com/etfaghaoubeid) | Etfagha oubeid Elatigh | nouakchott | 29 |
+| 16 | [moustaphatalebjiddou](https://github.com/moustaphatalebjiddou) | Moustapha Taleb Jiddou | Nouakchott, Mauritania | 29 |
 | 17 | [BechirAhmed](https://github.com/BechirAhmed) | Bechir Ahmed | Nouakchott, Mauritania | 27 |
 | 18 | [mohamdi](https://github.com/mohamdi) | Mohamdi Khlil | Mauritania | 26 |
 | 19 | [mbareck7](https://github.com/mbareck7) | mbar3ck7 | Mauritania, Nouakchott | 25 |
 | 20 | [Mohamed-Beirouk](https://github.com/Mohamed-Beirouk) | Mohamed Mohamed Beirouk | Mauritania | 23 |
 
-Generated: 2026-10-20T23:17:06.552Z
+Generated: 2026-10-21T01:04:15.437Z

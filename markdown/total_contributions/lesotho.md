@@ -1,6 +1,6 @@
 # Total Contributions - Lesotho
 
-Generated: 2026-10-20T23:12:00.469Z
+Generated: 2026-10-21T00:54:35.334Z
 
 Users: 160
 
@@ -15,7 +15,7 @@ Users: 160
 | 7 | [hitman1c](https://github.com/hitman1c) | SechabaLaptopTracker | SechabaLaptopTracker |  | Lesotho,Maseru | 954 |
 | 8 | [kaneloramokhele](https://github.com/kaneloramokhele) | Ramokhele | AliansImperium PTY LTD | MRamokhele | Maseru | 808 |
 | 9 | [mokaty1818795](https://github.com/mokaty1818795) | Tlotliso Mokati | Eazy Tech Solutions |  | Maseru Qoaling | 697 |
-| 10 | [KenedyMoremi](https://github.com/KenedyMoremi) | Tumisang Moremi |  | _Moremi_ | Maseru | 688 |
+| 10 | [KenedyMoremi](https://github.com/KenedyMoremi) | Tumisang Moremi |  | _Moremi_ | Maseru | 689 |
 | 11 | [DevLereko](https://github.com/DevLereko) | Lereko Foloko | Eazy Tech Solutions |  | Maseru, Lesotho | 611 |
 | 12 | [LNkholise](https://github.com/LNkholise) | Leonard Nkholise | Phytely Pty Ltd |  | Maseru, Lesotho | 508 |
 | 13 | [MissPurrple](https://github.com/MissPurrple) | Miss Purple |  | misspurple | Lesotho  | 431 |
@@ -23,6 +23,6 @@ Users: 160
 | 15 | [khauta](https://github.com/khauta) | Khauta Maliehe | @Liparola  | kjamaliehe | Maseru, Lesotho | 340 |
 | 16 | [Matela-cyber](https://github.com/Matela-cyber) | Vicent Matela |  |  | Lesotho | 321 |
 | 17 | [tefol-hub](https://github.com/tefol-hub) | Tefo Leche |  | tefoLec | Lesotho | 295 |
-| 18 | [lebusa](https://github.com/lebusa) | Motebang |  | sirfongfong | Maseru, Lesotho | 290 |
+| 18 | [lebusa](https://github.com/lebusa) | Motebang |  | sirfongfong | Maseru, Lesotho | 284 |
 | 19 | [setsoto](https://github.com/setsoto) | Setsoto |  |  | Lesotho | 265 |
 | 20 | [kananelotseisa](https://github.com/kananelotseisa) | Kananelo Ts'eisa |  |  | Lesotho | 232 |

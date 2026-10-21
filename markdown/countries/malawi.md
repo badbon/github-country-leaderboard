@@ -55,7 +55,7 @@ Indexed users: 900
 | 16 | [hopgausi](https://github.com/hopgausi) | Hopson Gausi | Malawi | 483 |
 | 17 | [codaMW](https://github.com/codaMW) | codaMW | Lilongwe, Malawi | 476 |
 | 18 | [wotcheni21](https://github.com/wotcheni21) | Joseph Witman Wotcheni | Malawi | 476 |
-| 19 | [Tmkandawire](https://github.com/Tmkandawire) | Tawanda Mkandawire | Malawi | 433 |
+| 19 | [Tmkandawire](https://github.com/Tmkandawire) | Tawanda Mkandawire | Malawi | 445 |
 | 20 | [ipi19](https://github.com/ipi19) | Ipyana Mwakikunga | Malawi  | 399 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 900
 | 19 | [g1ftmkyelu](https://github.com/g1ftmkyelu) | codemaestro🚀 | 🇲🇼 Malawi | 130 |
 | 20 | [RodgerCodes](https://github.com/RodgerCodes) | Rodger Kumwanje | Malawi | 130 |
 
-Generated: 2026-10-20T23:14:02.076Z
+Generated: 2026-10-21T00:59:05.693Z

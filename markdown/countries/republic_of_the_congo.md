@@ -44,7 +44,7 @@ Indexed users: 298
 | 5 | [ksthecrowned](https://github.com/ksthecrowned) | Kaiser D. Styve | Brazzaville | 764 |
 | 6 | [BlackAngel242](https://github.com/BlackAngel242) | DrSmoke | Congo | 617 |
 | 7 | [Espoir-Loem](https://github.com/Espoir-Loem) | Espoir LOEMBA | R.Congo, Brazzaville | 614 |
-| 8 | [elongastarks](https://github.com/elongastarks) | Elonga Stark  | Congo/North-kivu/Butembo | 501 |
+| 8 | [elongastarks](https://github.com/elongastarks) | Elonga Stark  | Congo/North-kivu/Butembo | 486 |
 | 9 | [SedeoLeos](https://github.com/SedeoLeos) | Slaega | Brazzaville congo | 451 |
 | 10 | [Flammeduciel](https://github.com/Flammeduciel) | Flamme Du Ciel WASS | Brazzaville CG | 385 |
 | 11 | [lafondcodeur](https://github.com/lafondcodeur) | MACK LAFOND De Boumas | Brazzaville | 360 |
@@ -83,4 +83,4 @@ Indexed users: 298
 | 19 | [Ssnnee](https://github.com/Ssnnee) | Samuel Nandi | Republic of the Congo | 26 |
 | 20 | [WinnersProx](https://github.com/WinnersProx) | Vainqueur Bihame | Kigali,Rwanda,Congo | 25 |
 
-Generated: 2026-10-20T23:36:06.780Z
+Generated: 2026-10-21T01:19:02.926Z

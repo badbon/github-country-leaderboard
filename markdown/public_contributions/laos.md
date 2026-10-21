@@ -1,6 +1,6 @@
 # Public Contributions - Laos
 
-Generated: 2026-10-20T23:11:24.690Z
+Generated: 2026-10-21T00:53:27.229Z
 
 Users: 360
 
@@ -11,10 +11,10 @@ Users: 360
 | 3 | [bobby-sills](https://github.com/bobby-sills) | Bobby Sills |  |  | Vientiane, Laos | 1032 |
 | 4 | [tyecode](https://github.com/tyecode) | Sengphachanh CHANTHAVONG |  |  | Vientiane Capital, Laos | 624 |
 | 5 | [iamlex01](https://github.com/iamlex01) | Alex Saelao |  |  | Vientiane, Laos | 442 |
-| 6 | [dhecaptain](https://github.com/dhecaptain) | David Wambua | PUFFADDERS |  | Laos | 397 |
+| 6 | [dhecaptain](https://github.com/dhecaptain) | David Wambua | PUFFADDERS |  | Laos | 406 |
 | 7 | [douangtavanh](https://github.com/douangtavanh) | Douangtavanh Kongphaly |  |  | Vientiane, Laos | 385 |
 | 8 | [maxontorres](https://github.com/maxontorres) | Maxon Torres | Freelance | MaxonTorres | Vientiane, Laos | 383 |
-| 9 | [barluscuda](https://github.com/barluscuda) | BarlusCuda |  |  | Laos | 294 |
+| 9 | [barluscuda](https://github.com/barluscuda) | BarlusCuda |  |  | Laos | 302 |
 | 10 | [KT246](https://github.com/KT246) | khamtay kongmanh |  |  | Vientiane, Laos | 259 |
 | 11 | [nirankoon](https://github.com/nirankoon) |  | GOKU Animation Studios |  | Vientiane | 174 |
 | 12 | [hiramoto](https://github.com/hiramoto) | 永田彰 (Akira NAGATA) | TOKYO | kazaimu_ | Vientiane, Lao P.D.R. | 157 |

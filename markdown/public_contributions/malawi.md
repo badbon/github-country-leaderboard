@@ -1,6 +1,6 @@
 # Public Contributions - Malawi
 
-Generated: 2026-10-20T23:14:02.076Z
+Generated: 2026-10-21T00:59:05.693Z
 
 Users: 900
 
@@ -24,5 +24,5 @@ Users: 900
 | 16 | [hopgausi](https://github.com/hopgausi) | Hopson Gausi |  | hopgausi | Malawi | 483 |
 | 17 | [codaMW](https://github.com/codaMW) | codaMW | BitDevs Malawi | codaMW | Lilongwe, Malawi | 476 |
 | 18 | [wotcheni21](https://github.com/wotcheni21) | Joseph Witman Wotcheni |  |  | Malawi | 476 |
-| 19 | [Tmkandawire](https://github.com/Tmkandawire) | Tawanda Mkandawire |  |  | Malawi | 433 |
+| 19 | [Tmkandawire](https://github.com/Tmkandawire) | Tawanda Mkandawire |  |  | Malawi | 445 |
 | 20 | [ipi19](https://github.com/ipi19) | Ipyana Mwakikunga | Ipi |  | Malawi  | 399 |

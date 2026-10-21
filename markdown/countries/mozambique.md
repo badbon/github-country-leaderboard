@@ -15,13 +15,13 @@ Indexed users: 1,175
 | 1 | [arnaldo-tomo](https://github.com/arnaldo-tomo) | Arnaldo tomo | Mozambique | 10,017 |
 | 2 | [Uanela](https://github.com/Uanela) | Uanela Como | Beira, Sofala, Mozambique | 6,581 |
 | 3 | [playboybillionaire-prod](https://github.com/playboybillionaire-prod) | Mário jambo | Mozambique | 6,115 |
-| 4 | [reizen-desu](https://github.com/reizen-desu) | Reizen dos Santos | Maputo, Mozambique | 5,943 |
-| 5 | [emagombe](https://github.com/emagombe) | Edson Magombe | Mozambique | 5,839 |
+| 4 | [emagombe](https://github.com/emagombe) | Edson Magombe | Mozambique | 6,081 |
+| 5 | [reizen-desu](https://github.com/reizen-desu) | Reizen dos Santos | Maputo, Mozambique | 5,943 |
 | 6 | [afonsoDomingos](https://github.com/afonsoDomingos) | Afonso Domingos (Vibe) | Mozambique-Maputo | 5,670 |
 | 7 | [hc12r](https://github.com/hc12r) | Pitch dev | Maputo, Mozambique | 5,235 |
 | 8 | [caf-3](https://github.com/caf-3) | Tomas Caetano | Mozambique Maputo | 4,648 |
 | 9 | [JoneBulande](https://github.com/JoneBulande) | Jone  | Maputo, Mozambique | 4,599 |
-| 10 | [rnrnshn](https://github.com/rnrnshn) | rurushu | Mozambique | 3,857 |
+| 10 | [rnrnshn](https://github.com/rnrnshn) | rurushu | Mozambique | 3,757 |
 | 11 | [enoqueJonas](https://github.com/enoqueJonas) | Enoque Macanda | Maputo, Mozambique | 3,571 |
 | 12 | [Edsonjorgef1](https://github.com/Edsonjorgef1) | Edson Jorge Francisco | Mozambique, Sofala, Beira | 3,533 |
 | 13 | [americo](https://github.com/americo) | Américo Júnior | Mozambique | 3,281 |
@@ -46,7 +46,7 @@ Indexed users: 1,175
 | 7 | [KainNhantumbo](https://github.com/KainNhantumbo) | Ubelloch | Mozambique, Maputo | 1,075 |
 | 8 | [zerosatus](https://github.com/zerosatus) | zerosatus | Mozambique | 1,003 |
 | 9 | [filipeive](https://github.com/filipeive) | Filipe  Domingos dos Santos | Mozambique | 972 |
-| 10 | [rnrnshn](https://github.com/rnrnshn) | rurushu | Mozambique | 765 |
+| 10 | [rnrnshn](https://github.com/rnrnshn) | rurushu | Mozambique | 769 |
 | 11 | [Bernie-Dramos](https://github.com/Bernie-Dramos) | Bernardo E. Dramos Jr. | Mozambique | 721 |
 | 12 | [djafta](https://github.com/djafta) | Djafta | Mozambique | 681 |
 | 13 | [renzi-fidele-frontend](https://github.com/renzi-fidele-frontend) | Renzi Fidele | maputo, Mozambique | 648 |
@@ -83,4 +83,4 @@ Indexed users: 1,175
 | 19 | [enoquetembe](https://github.com/enoquetembe) | Enoque Tembe | Maputo, Mozambique | 111 |
 | 20 | [mariomthree](https://github.com/mariomthree) | Mário M. Mabande | Maputo, Mozambique | 95 |
 
-Generated: 2026-10-20T23:21:14.515Z
+Generated: 2026-10-21T01:08:08.360Z

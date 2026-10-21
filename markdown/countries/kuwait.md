@@ -79,8 +79,8 @@ Indexed users: 796
 | 15 | [kuwaitbinary](https://github.com/kuwaitbinary) | Abdullah Al Mashmoum | Kuwait | 92 |
 | 16 | [mohammedgmgn](https://github.com/mohammedgmgn) | Mohammed Abdullah  | Kuwait | 92 |
 | 17 | [DiNaSoR](https://github.com/DiNaSoR) | BuYousef | Kuwait | 91 |
-| 18 | [AlanBennyOfficial](https://github.com/AlanBennyOfficial) | Alan Benny | Kuwait | 89 |
+| 18 | [AlanBennyOfficial](https://github.com/AlanBennyOfficial) | Alan Benny | Kuwait | 90 |
 | 19 | [MoathOthman](https://github.com/MoathOthman) | Moath othman | Kuwait | 85 |
 | 20 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Kuwait | 82 |
 
-Generated: 2026-10-20T23:10:46.001Z
+Generated: 2026-10-21T00:51:48.484Z

@@ -1,6 +1,6 @@
 # Total Contributions - Mozambique
 
-Generated: 2026-10-20T23:21:14.515Z
+Generated: 2026-10-21T01:08:08.360Z
 
 Users: 1175
 
@@ -9,13 +9,13 @@ Users: 1175
 | 1 | [arnaldo-tomo](https://github.com/arnaldo-tomo) | Arnaldo tomo | Dintell | Arnaldo_j_tomo | Mozambique | 10017 |
 | 2 | [Uanela](https://github.com/Uanela) | Uanela Como | Arkosjs |  | Beira, Sofala, Mozambique | 6581 |
 | 3 | [playboybillionaire-prod](https://github.com/playboybillionaire-prod) | Mário jambo | Flow Technologies su, lda |  | Mozambique | 6115 |
-| 4 | [reizen-desu](https://github.com/reizen-desu) | Reizen dos Santos |  | reizen_desu | Maputo, Mozambique | 5943 |
-| 5 | [emagombe](https://github.com/emagombe) | Edson Magombe | @stackmeteor |  | Mozambique | 5839 |
+| 4 | [emagombe](https://github.com/emagombe) | Edson Magombe | @stackmeteor |  | Mozambique | 6081 |
+| 5 | [reizen-desu](https://github.com/reizen-desu) | Reizen dos Santos |  | reizen_desu | Maputo, Mozambique | 5943 |
 | 6 | [afonsoDomingos](https://github.com/afonsoDomingos) | Afonso Domingos (Vibe) | Dp Works \| Quinatec Lda \| OmniTrack \| Muv \| Consorcio Pilao \| Mozambique Support Services | KrgVibe | Mozambique-Maputo | 5670 |
 | 7 | [hc12r](https://github.com/hc12r) | Pitch dev | Vodacom Mozambique |  | Maputo, Mozambique | 5235 |
 | 8 | [caf-3](https://github.com/caf-3) | Tomas Caetano |  |  | Mozambique Maputo | 4648 |
 | 9 | [JoneBulande](https://github.com/JoneBulande) | Jone  |  | JoneBulande | Maputo, Mozambique | 4599 |
-| 10 | [rnrnshn](https://github.com/rnrnshn) | rurushu | @Maputo-Frontenders | rnrnshn | Mozambique | 3857 |
+| 10 | [rnrnshn](https://github.com/rnrnshn) | rurushu | @Maputo-Frontenders | rnrnshn | Mozambique | 3757 |
 | 11 | [enoqueJonas](https://github.com/enoqueJonas) | Enoque Macanda | Microverse | enoque_jonas | Maputo, Mozambique | 3571 |
 | 12 | [Edsonjorgef1](https://github.com/Edsonjorgef1) | Edson Jorge Francisco | @equip-mozambique |  | Mozambique, Sofala, Beira | 3533 |
 | 13 | [americo](https://github.com/americo) | Américo Júnior |  | americosmjr | Mozambique | 3281 |

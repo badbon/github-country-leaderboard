@@ -12,8 +12,8 @@ Indexed users: 20
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [visualAngus](https://github.com/visualAngus) | Gael Pupin | Franqueville Saint Pierre | 1,364 |
-| 2 | [pjsebastien](https://github.com/pjsebastien) | sebastien PIERREJEAN | Saint Pierre 97410 (La Réunion) | 278 |
+| 1 | [visualAngus](https://github.com/visualAngus) | Gael Pupin | Franqueville Saint Pierre | 1,361 |
+| 2 | [pjsebastien](https://github.com/pjsebastien) | sebastien PIERREJEAN | Saint Pierre 97410 (La Réunion) | 281 |
 | 3 | [greggstyle](https://github.com/greggstyle) | greggstyle | Saint-Pierre, La Réunion | 146 |
 | 4 | [matthieu-viel-fr](https://github.com/matthieu-viel-fr) |  | Saint-pierre La Réunion | 144 |
 | 5 | [AntoinePetit95](https://github.com/AntoinePetit95) | Antoine PETIT | Saint-Pierre, la Réunion | 73 |
@@ -37,7 +37,7 @@ Indexed users: 20
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [pjsebastien](https://github.com/pjsebastien) | sebastien PIERREJEAN | Saint Pierre 97410 (La Réunion) | 278 |
+| 1 | [pjsebastien](https://github.com/pjsebastien) | sebastien PIERREJEAN | Saint Pierre 97410 (La Réunion) | 281 |
 | 2 | [visualAngus](https://github.com/visualAngus) | Gael Pupin | Franqueville Saint Pierre | 163 |
 | 3 | [greggstyle](https://github.com/greggstyle) | greggstyle | Saint-Pierre, La Réunion | 146 |
 | 4 | [matthieu-viel-fr](https://github.com/matthieu-viel-fr) |  | Saint-pierre La Réunion | 144 |
@@ -83,4 +83,4 @@ Indexed users: 20
 | 19 | [pjsebastien](https://github.com/pjsebastien) | sebastien PIERREJEAN | Saint Pierre 97410 (La Réunion) | 1 |
 | 20 | [saudic](https://github.com/saudic) |  | Saint-Pierre-Quiberon | 1 |
 
-Generated: 2026-10-20T23:37:54.663Z
+Generated: 2026-10-21T01:21:03.793Z
