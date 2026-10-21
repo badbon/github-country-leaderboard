@@ -1,8 +1,8 @@
 # Public Contributions - Moldova
 
-Generated: 2026-10-21T06:59:04.754Z
+Generated: 2026-10-21T08:37:32.481Z
 
-Users: 1747
+Users: 1746
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -23,6 +23,6 @@ Users: 1747
 | 15 | [Magistrus](https://github.com/Magistrus) | Vitaliy Unguryan | TTG.club |  | Moldova | 1716 |
 | 16 | [GabsEdits](https://github.com/GabsEdits) | Gabriel Cozma | @fabricatorsltd | gxbsdev | Chisinau, Moldova | 1651 |
 | 17 | [g0ddest](https://github.com/g0ddest) | veet |  |  | Bendery, Moldova | 1648 |
-| 18 | [nalyk](https://github.com/nalyk) | Ion (Nalyk) Calmîș | Yoda.Digital | nalyk | Ungheni, Republic of Moldova | 1397 |
+| 18 | [nalyk](https://github.com/nalyk) | Ion (Nalyk) Calmîș | Yoda.Digital | nalyk | Ungheni, Republic of Moldova | 1481 |
 | 19 | [iatsiuk](https://github.com/iatsiuk) | Aleksei Iatsiuk | Overgear |  | Chisinau, Moldova | 1378 |
 | 20 | [icaliman](https://github.com/icaliman) | Ion Căliman | XLITE DEV |  | Moldova | 1332 |

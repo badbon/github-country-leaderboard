@@ -1,6 +1,6 @@
 # Moldova
 
-Indexed users: 1,747
+Indexed users: 1,746
 
 | Leaderboard | Link |
 |---|---|
@@ -54,7 +54,7 @@ Indexed users: 1,747
 | 15 | [Magistrus](https://github.com/Magistrus) | Vitaliy Unguryan | Moldova | 1,716 |
 | 16 | [GabsEdits](https://github.com/GabsEdits) | Gabriel Cozma | Chisinau, Moldova | 1,651 |
 | 17 | [g0ddest](https://github.com/g0ddest) | veet | Bendery, Moldova | 1,648 |
-| 18 | [nalyk](https://github.com/nalyk) | Ion (Nalyk) Calmîș | Ungheni, Republic of Moldova | 1,397 |
+| 18 | [nalyk](https://github.com/nalyk) | Ion (Nalyk) Calmîș | Ungheni, Republic of Moldova | 1,481 |
 | 19 | [iatsiuk](https://github.com/iatsiuk) | Aleksei Iatsiuk | Chisinau, Moldova | 1,378 |
 | 20 | [icaliman](https://github.com/icaliman) | Ion Căliman | Moldova | 1,332 |
 
@@ -83,4 +83,4 @@ Indexed users: 1,747
 | 19 | [vgaidarji](https://github.com/vgaidarji) | Veaceslav Gaidarji | Moldova | 114 |
 | 20 | [Ernest96](https://github.com/Ernest96) | Ernest | Chisinau Moldova | 107 |
 
-Generated: 2026-10-21T06:59:04.754Z
+Generated: 2026-10-21T08:37:32.481Z

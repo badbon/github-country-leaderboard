@@ -1,6 +1,6 @@
 # Followers - North Korea
 
-Generated: 2026-10-21T07:04:24.511Z
+Generated: 2026-10-21T08:43:46.315Z
 
 Users: 185
 
@@ -18,9 +18,9 @@ Users: 185
 | 10 | [chihongze](https://github.com/chihongze) | chihongze |  |  |  P'yŏngyang, North Korea | 27 |
 | 11 | [T1med0ut](https://github.com/T1med0ut) | Timedout | Unemployed | Hashf0und | North Korea | 27 |
 | 12 | [danilima8](https://github.com/danilima8) | Daniele Lima |  |  | North Korea | 18 |
-| 13 | [lilac1337](https://github.com/lilac1337) | Vera Lovelace |  |  | Pyongyang, Democrat People's Republic of Korea | 17 |
-| 14 | [The-Red-Serpent](https://github.com/The-Red-Serpent) | The_Red_Serpent |  |  | Pyongyang, North Korea | 17 |
-| 15 | [copilotuser713](https://github.com/copilotuser713) | Simon K. Penny | @billnye |  | Pyongyang | 16 |
+| 13 | [copilotuser713](https://github.com/copilotuser713) | Simon K. Penny | @billnye |  | Pyongyang | 17 |
+| 14 | [lilac1337](https://github.com/lilac1337) | Vera Lovelace |  |  | Pyongyang, Democrat People's Republic of Korea | 17 |
+| 15 | [The-Red-Serpent](https://github.com/The-Red-Serpent) | The_Red_Serpent |  |  | Pyongyang, North Korea | 17 |
 | 16 | [retributions](https://github.com/retributions) |  |  |  | North Korea | 16 |
 | 17 | [VisionVerse](https://github.com/VisionVerse) | Vision Verse |  |  | North Korea | 16 |
 | 18 | [Lou1sEx](https://github.com/Lou1sEx) | Lou1s | Samsung |  | North korea | 15 |

@@ -17,12 +17,12 @@ Indexed users: 354
 | 3 | [fauzaanu](https://github.com/fauzaanu) | Fauzaan Gasim | Maldives | 8,712 |
 | 4 | [mnazaal](https://github.com/mnazaal) | Nazaal | Maldives | 8,592 |
 | 5 | [mohamed-aiman](https://github.com/mohamed-aiman) | Mohamed Aiman | Maldives | 7,280 |
-| 6 | [nullptrz](https://github.com/nullptrz) | Ali Ahsan Saeed | Maldives | 7,203 |
+| 6 | [nullptrz](https://github.com/nullptrz) | Ali Ahsan Saeed | Maldives | 7,202 |
 | 7 | [lishaan](https://github.com/lishaan) |  | Malé, Maldives | 6,901 |
 | 8 | [hailam](https://github.com/hailam) | Mohamed Hailam Ahmed | Male`, Maldives | 6,130 |
 | 9 | [ajaaibu](https://github.com/ajaaibu) | Ahmed Ali | Maldives | 5,819 |
 | 10 | [hashes02](https://github.com/hashes02) | HASHES | Maldives | 5,729 |
-| 11 | [maldivien](https://github.com/maldivien) | Ahmed Shareef | Maldives | 5,394 |
+| 11 | [maldivien](https://github.com/maldivien) | Ahmed Shareef | Maldives | 5,587 |
 | 12 | [agent306](https://github.com/agent306) | Ncodex | Male', Maldives | 5,323 |
 | 13 | [jaaahh](https://github.com/jaaahh) | Jaah | Maldives | 5,283 |
 | 14 | [ayarse](https://github.com/ayarse) | ayaz | Maldives | 5,150 |
@@ -55,8 +55,8 @@ Indexed users: 354
 | 16 | [hailam](https://github.com/hailam) | Mohamed Hailam Ahmed | Male`, Maldives | 309 |
 | 17 | [aliaafee](https://github.com/aliaafee) | Ali Aafee | Maldives | 303 |
 | 18 | [athphane](https://github.com/athphane) | Athfan Khaleel | Maldives | 268 |
-| 19 | [WovenCoast](https://github.com/WovenCoast) | FlameXode | Maldives | 233 |
-| 20 | [WhoIsFishie](https://github.com/WhoIsFishie) | fISHIE | Maldives | 227 |
+| 19 | [WhoIsFishie](https://github.com/WhoIsFishie) | fISHIE | Maldives | 227 |
+| 20 | [dash8x](https://github.com/dash8x) | Arushad Ahmed | Maldives | 222 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 354
 | 19 | [muhannad0](https://github.com/muhannad0) | Monde | Maldives | 42 |
 | 20 | [inash](https://github.com/inash) | Inash Zubair | Male', Maldives | 41 |
 
-Generated: 2026-10-21T06:54:29.779Z
+Generated: 2026-10-21T08:32:58.944Z

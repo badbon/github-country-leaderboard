@@ -62,7 +62,7 @@ Indexed users: 142
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [aplatoff](https://github.com/aplatoff) | Andrey Platov | Monaco | 132 |
+| 1 | [aplatoff](https://github.com/aplatoff) | Andrey Platov | Monaco | 131 |
 | 2 | [jz222](https://github.com/jz222) | Timo Zimmermann | Monte-Carlo, Monaco | 96 |
 | 3 | [laurentqro](https://github.com/laurentqro) | Laurent Curau | Monaco | 39 |
 | 4 | [Akira98000](https://github.com/Akira98000) | Santhakumaran Akira | Monaco  | 38 |
@@ -83,4 +83,4 @@ Indexed users: 142
 | 19 | [coachklng12](https://github.com/coachklng12) |  | Monaco | 14 |
 | 20 | [co-stig](https://github.com/co-stig) | Constantine | Monaco | 13 |
 
-Generated: 2026-10-21T06:59:48.223Z
+Generated: 2026-10-21T08:38:04.760Z

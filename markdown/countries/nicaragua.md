@@ -26,7 +26,7 @@ Indexed users: 1,395
 | 12 | [edycarreyes99](https://github.com/edycarreyes99) | Edycar Reyes | Nicaragua | 4,437 |
 | 13 | [degomon](https://github.com/degomon) | Denis González | Nicaragua | 4,207 |
 | 14 | [victorstein](https://github.com/victorstein) | Alfonso Emilio Gomez Selva | Nicaragua | 4,142 |
-| 15 | [ElVatoEste](https://github.com/ElVatoEste) | VatoDev | Nicaragua | 3,996 |
+| 15 | [ElVatoEste](https://github.com/ElVatoEste) | VatoDev | Nicaragua | 4,034 |
 | 16 | [fabmnt](https://github.com/fabmnt) | Fabián Montoya | Nicaragua | 3,759 |
 | 17 | [ernestoruiz89](https://github.com/ernestoruiz89) | Ernesto Ruiz | Nicaragua | 3,723 |
 | 18 | [edgewl2](https://github.com/edgewl2) | Gerardo Hernández | León, Nicaragua | 3,555 |
@@ -78,9 +78,9 @@ Indexed users: 1,395
 | 14 | [rcrodriguez89](https://github.com/rcrodriguez89) | Roberto Rodríguez | Managua, Nicaragua | 81 |
 | 15 | [felixicaza](https://github.com/felixicaza) | Felix Icaza | Estelí, Nicaragua | 79 |
 | 16 | [alexxandraSalazar](https://github.com/alexxandraSalazar) | Alexandra Salazar | Nicaragua | 78 |
-| 17 | [JezerM](https://github.com/JezerM) | Jezer Mejía | Nicaragua | 78 |
+| 17 | [JezerM](https://github.com/JezerM) | Jezer Mejía | Nicaragua | 76 |
 | 18 | [neydroid](https://github.com/neydroid) | José Ney Guerrero | Managua, Nicaragua | 70 |
 | 19 | [luismejiadev](https://github.com/luismejiadev) | Luis Mejia | Managua, Nicaragua | 68 |
 | 20 | [dannygaray60](https://github.com/dannygaray60) | Danny Garay | Nicaragua | 61 |
 
-Generated: 2026-10-21T07:03:30.532Z
+Generated: 2026-10-21T08:42:47.933Z

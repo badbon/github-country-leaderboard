@@ -1,14 +1,14 @@
 # Followers - Samoa
 
-Generated: 2026-10-21T07:15:57.525Z
+Generated: 2026-10-21T08:54:31.609Z
 
 Users: 19
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [Green-Ranger11](https://github.com/Green-Ranger11) | Alesana Eteuati Jr | Vodafone Samoa |  | Samoa | 33 |
-| 2 | [ainsofs](https://github.com/ainsofs) | Ainsof So'o | SPREP |  | Samoa | 13 |
-| 3 | [iwtem](https://github.com/iwtem) | Iwtem | American |  | Samoa | 13 |
+| 2 | [iwtem](https://github.com/iwtem) | Iwtem | American |  | Samoa | 14 |
+| 3 | [ainsofs](https://github.com/ainsofs) | Ainsof So'o | SPREP |  | Samoa | 13 |
 | 4 | [genebarker](https://github.com/genebarker) | Eugene F. Barker | madman.com | arctips | Apia, Samoa | 9 |
 | 5 | [5thAttemptCode](https://github.com/5thAttemptCode) | Henry  |  |  | Apia, Samoa | 6 |
 | 6 | [Ken2523](https://github.com/Ken2523) | Kendrick Lui | Secretariat of the Pacific Regional Environment Programme (SPREP) |  | Apia, Samoa | 6 |

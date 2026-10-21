@@ -1,6 +1,6 @@
 # Philippines
 
-Indexed users: 19,744
+Indexed users: 19,743
 
 | Leaderboard | Link |
 |---|---|
@@ -31,7 +31,7 @@ Indexed users: 19,744
 | 17 | [aldrichalvarez](https://github.com/aldrichalvarez) | Aldrich | Metro Manila, Philippines | 17,231 |
 | 18 | [gelojavonitalla](https://github.com/gelojavonitalla) | Angelo Javonitalla | Manila, Philippines | 17,147 |
 | 19 | [jiliangarette](https://github.com/jiliangarette) | Jilian Garette | Cebu, Philippines | 16,577 |
-| 20 | [smmariquit](https://github.com/smmariquit) | Stimmie | Philippines | 16,416 |
+| 20 | [smmariquit](https://github.com/smmariquit) | Stimmie | Philippines | 15,989 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 19,744
 | 19 | [Gerald200422](https://github.com/Gerald200422) | Gerald P. Balete | Metro Manila Philippines  | 613 |
 | 20 | [exezick](https://github.com/exezick) | Exequiel Vibar | Philippines | 604 |
 
-Generated: 2026-10-21T07:09:59.838Z
+Generated: 2026-10-21T08:48:33.016Z

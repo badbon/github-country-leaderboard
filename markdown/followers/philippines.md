@@ -1,8 +1,8 @@
 # Followers - Philippines
 
-Generated: 2026-10-21T07:09:59.838Z
+Generated: 2026-10-21T08:48:33.016Z
 
-Users: 19744
+Users: 19743
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

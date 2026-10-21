@@ -1,6 +1,6 @@
 # Followers - Latvia
 
-Generated: 2026-10-21T06:50:46.540Z
+Generated: 2026-10-21T08:29:14.818Z
 
 Users: 3251
 
@@ -8,7 +8,7 @@ Users: 3251
 |---:|---|---|---|---|---|---:|
 | 1 | [GrayMamoru](https://github.com/GrayMamoru) |  |  |  | Riga | 5201 |
 | 2 | [puikinsh](https://github.com/puikinsh) | Aigars Silkalns | Divilab | AigarsSilkalns | Riga, Latvia | 2411 |
-| 3 | [Mistrust12](https://github.com/Mistrust12) | Stay forever | Emergn  | RepriseLoans | Riga | 1124 |
+| 3 | [Mistrust12](https://github.com/Mistrust12) | Stay forever | Emergn  | RepriseLoans | Riga | 1147 |
 | 4 | [therceman](https://github.com/therceman) | Anton |  | therceman | Latvia | 605 |
 | 5 | [kj89](https://github.com/kj89) | kjnodes | kjnodes | kjnodes | Latvia | 603 |
 | 6 | [bodrovis](https://github.com/bodrovis) | Elijah S. Krukowski | @lokalise |  | Riga | 534 |

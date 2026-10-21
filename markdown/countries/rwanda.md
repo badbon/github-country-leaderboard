@@ -26,12 +26,12 @@ Indexed users: 3,499
 | 12 | [EucTech](https://github.com/EucTech) | Ezeibe Uchechukwu | Kigali, Rwanda | 9,071 |
 | 13 | [princechrix](https://github.com/princechrix) | Prince Christian ISHIMWE | Kigali, Rwanda | 8,563 |
 | 14 | [ProgrammerDATCH](https://github.com/ProgrammerDATCH) | Mr. David | Kigali Rwanda | 8,432 |
-| 15 | [rubailly](https://github.com/rubailly) | Bailly Rurangirwa  | Rwanda | 8,233 |
-| 16 | [Krasivaya](https://github.com/Krasivaya) | Carine SEMWAGA | Rwanda | 7,953 |
-| 17 | [Ndevu12](https://github.com/Ndevu12) | Jean Paul Elisa NIYOKWIZERWA | Kigali Rwanda | 7,642 |
-| 18 | [brunorwanda4](https://github.com/brunorwanda4) | Bruno Rwanda | Rwanda/ Kigali | 7,609 |
-| 19 | [Kevin-The-Cyber-Coder](https://github.com/Kevin-The-Cyber-Coder) | MUKESHIMANA KEVIN | Kigali Rwanda | 7,511 |
-| 20 | [nrep](https://github.com/nrep) | Elvis Peace NDAHAYO RUGERO | Rwanda | 7,389 |
+| 15 | [nrep](https://github.com/nrep) | Elvis Peace NDAHAYO RUGERO | Rwanda | 8,301 |
+| 16 | [rubailly](https://github.com/rubailly) | Bailly Rurangirwa  | Rwanda | 8,233 |
+| 17 | [Krasivaya](https://github.com/Krasivaya) | Carine SEMWAGA | Rwanda | 7,953 |
+| 18 | [Ndevu12](https://github.com/Ndevu12) | Jean Paul Elisa NIYOKWIZERWA | Kigali Rwanda | 7,642 |
+| 19 | [brunorwanda4](https://github.com/brunorwanda4) | Bruno Rwanda | Rwanda/ Kigali | 7,609 |
+| 20 | [Kevin-The-Cyber-Coder](https://github.com/Kevin-The-Cyber-Coder) | MUKESHIMANA KEVIN | Kigali Rwanda | 7,511 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 3,499
 | 19 | [shemaikuzwe](https://github.com/shemaikuzwe) | Ikuzwe shema Elie | rwanda | 314 |
 | 20 | [Manzi-Elvis](https://github.com/Manzi-Elvis) | Elvis Manzi | Rwanda | 299 |
 
-Generated: 2026-10-21T07:13:05.917Z
+Generated: 2026-10-21T08:52:22.337Z

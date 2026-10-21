@@ -1,6 +1,6 @@
 # Public Contributions - Mozambique
 
-Generated: 2026-10-21T07:01:12.172Z
+Generated: 2026-10-21T08:40:17.679Z
 
 Users: 1175
 
@@ -21,8 +21,8 @@ Users: 1175
 | 13 | [renzi-fidele-frontend](https://github.com/renzi-fidele-frontend) | Renzi Fidele | ANOVAFASE |  | maputo, Mozambique | 648 |
 | 14 | [ArcidesFerrao](https://github.com/ArcidesFerrao) | Arcides Ferrao |  | Arcides_ | Mozambique | 585 |
 | 15 | [carsaimz](https://github.com/carsaimz) | CarsaiMz | CarsaiMz |  | Mozambique | 563 |
-| 16 | [antonio-macave](https://github.com/antonio-macave) | António Macave |  | antonio_macave | Maputo, Mozambique | 553 |
-| 17 | [herquiloidehele](https://github.com/herquiloidehele) | Herquiloide Hele | Wit Software |  | Mocambique - Maputo | 548 |
-| 18 | [Eddy-Nhabinde](https://github.com/Eddy-Nhabinde) | Edmilson Nhabinde |  |  | Maputo, Mozambique | 540 |
+| 16 | [herquiloidehele](https://github.com/herquiloidehele) | Herquiloide Hele | Wit Software |  | Mocambique - Maputo | 548 |
+| 17 | [Eddy-Nhabinde](https://github.com/Eddy-Nhabinde) | Edmilson Nhabinde |  |  | Maputo, Mozambique | 540 |
+| 18 | [antonio-macave](https://github.com/antonio-macave) | António Macave |  | antonio_macave | Maputo, Mozambique | 537 |
 | 19 | [iradoweck](https://github.com/iradoweck) | Edmilson Muacigarro | @zedecks  |  | Mozambique | 510 |
 | 20 | [Muiria814](https://github.com/Muiria814) | Eleuterio Raul |  |  | Mozambique | 504 |

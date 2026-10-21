@@ -1,8 +1,8 @@
 # Total Contributions - Moldova
 
-Generated: 2026-10-21T06:59:04.754Z
+Generated: 2026-10-21T08:37:32.481Z
 
-Users: 1747
+Users: 1746
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

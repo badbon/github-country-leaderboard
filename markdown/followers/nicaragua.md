@@ -1,6 +1,6 @@
 # Followers - Nicaragua
 
-Generated: 2026-10-21T07:03:30.532Z
+Generated: 2026-10-21T08:42:47.933Z
 
 Users: 1395
 
@@ -22,7 +22,7 @@ Users: 1395
 | 14 | [rcrodriguez89](https://github.com/rcrodriguez89) | Roberto Rodríguez |  |  | Managua, Nicaragua | 81 |
 | 15 | [felixicaza](https://github.com/felixicaza) | Felix Icaza | Freelance |  | Estelí, Nicaragua | 79 |
 | 16 | [alexxandraSalazar](https://github.com/alexxandraSalazar) | Alexandra Salazar |  |  | Nicaragua | 78 |
-| 17 | [JezerM](https://github.com/JezerM) | Jezer Mejía |  |  | Nicaragua | 78 |
+| 17 | [JezerM](https://github.com/JezerM) | Jezer Mejía |  |  | Nicaragua | 76 |
 | 18 | [neydroid](https://github.com/neydroid) | José Ney Guerrero |  |  | Managua, Nicaragua | 70 |
 | 19 | [luismejiadev](https://github.com/luismejiadev) | Luis Mejia |  | luismejiadev | Managua, Nicaragua | 68 |
 | 20 | [dannygaray60](https://github.com/dannygaray60) | Danny Garay |  | dannygaray60 | Nicaragua | 61 |

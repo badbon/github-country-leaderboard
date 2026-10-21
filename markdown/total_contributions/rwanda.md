@@ -1,6 +1,6 @@
 # Total Contributions - Rwanda
 
-Generated: 2026-10-21T07:13:05.917Z
+Generated: 2026-10-21T08:52:22.337Z
 
 Users: 3499
 
@@ -20,9 +20,9 @@ Users: 3499
 | 12 | [EucTech](https://github.com/EucTech) | Ezeibe Uchechukwu |  | Euc_Tech | Kigali, Rwanda | 9071 |
 | 13 | [princechrix](https://github.com/princechrix) | Prince Christian ISHIMWE |  |  | Kigali, Rwanda | 8563 |
 | 14 | [ProgrammerDATCH](https://github.com/ProgrammerDATCH) | Mr. David | @gokabisa | ProgrammerDATCH | Kigali Rwanda | 8432 |
-| 15 | [rubailly](https://github.com/rubailly) | Bailly Rurangirwa  |  |  | Rwanda | 8233 |
-| 16 | [Krasivaya](https://github.com/Krasivaya) | Carine SEMWAGA |  |  | Rwanda | 7953 |
-| 17 | [Ndevu12](https://github.com/Ndevu12) | Jean Paul Elisa NIYOKWIZERWA | @Django-Rwanda @rwanda-computing-olympiad  @atlp-rwanda ATLP Andela | elion55698906 | Kigali Rwanda | 7642 |
-| 18 | [brunorwanda4](https://github.com/brunorwanda4) | Bruno Rwanda | @space-together-org  | rwanda_bruno | Rwanda/ Kigali | 7609 |
-| 19 | [Kevin-The-Cyber-Coder](https://github.com/Kevin-The-Cyber-Coder) | MUKESHIMANA KEVIN | Cyber Coding Arena |  | Kigali Rwanda | 7511 |
-| 20 | [nrep](https://github.com/nrep) | Elvis Peace NDAHAYO RUGERO | Digital Umuganda | ElvisPeaceNR | Rwanda | 7389 |
+| 15 | [nrep](https://github.com/nrep) | Elvis Peace NDAHAYO RUGERO | Digital Umuganda | ElvisPeaceNR | Rwanda | 8301 |
+| 16 | [rubailly](https://github.com/rubailly) | Bailly Rurangirwa  |  |  | Rwanda | 8233 |
+| 17 | [Krasivaya](https://github.com/Krasivaya) | Carine SEMWAGA |  |  | Rwanda | 7953 |
+| 18 | [Ndevu12](https://github.com/Ndevu12) | Jean Paul Elisa NIYOKWIZERWA | @Django-Rwanda @rwanda-computing-olympiad  @atlp-rwanda ATLP Andela | elion55698906 | Kigali Rwanda | 7642 |
+| 19 | [brunorwanda4](https://github.com/brunorwanda4) | Bruno Rwanda | @space-together-org  | rwanda_bruno | Rwanda/ Kigali | 7609 |
+| 20 | [Kevin-The-Cyber-Coder](https://github.com/Kevin-The-Cyber-Coder) | MUKESHIMANA KEVIN | Cyber Coding Arena |  | Kigali Rwanda | 7511 |

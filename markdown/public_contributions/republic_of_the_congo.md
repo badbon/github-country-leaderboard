@@ -1,6 +1,6 @@
 # Public Contributions - Republic of the Congo
 
-Generated: 2026-10-21T07:12:10.047Z
+Generated: 2026-10-21T08:51:10.975Z
 
 Users: 298
 
@@ -18,11 +18,11 @@ Users: 298
 | 10 | [Flammeduciel](https://github.com/Flammeduciel) | Flamme Du Ciel WASS |  |  | Brazzaville CG | 388 |
 | 11 | [lafondcodeur](https://github.com/lafondcodeur) | MACK LAFOND De Boumas | PossaCode |  | Brazzaville | 360 |
 | 12 | [denniskoech457](https://github.com/denniskoech457) | Extravaganza | Extravaganza |  | Congo | 354 |
-| 13 | [leloeduk](https://github.com/leloeduk) | Lelo  | Lelo eduk |  | Congo | 315 |
-| 14 | [babacleven](https://github.com/babacleven) | BABA Aristote Cleven  | AKIENI ACADEMY |  | Congo-Brazzaville | 305 |
-| 15 | [lepresk](https://github.com/lepresk) | Logan CodeMaker | @Akieni | lepresk1 | Brazzaville, Congo | 300 |
-| 16 | [Chadrac-WAKOMYA](https://github.com/Chadrac-WAKOMYA) | KIGHUNDILA WAKOMYA Chadrac |  |  | Congo | 251 |
-| 17 | [chronoss09](https://github.com/chronoss09) | Chronoss | CHRONOSS GAMES | chronoss09 | Congo | 217 |
-| 18 | [Ssnnee](https://github.com/Ssnnee) | Samuel Nandi |  | NandiSne | Republic of the Congo | 200 |
-| 19 | [arsene-akiana](https://github.com/arsene-akiana) | Arsène Gloire AKIANA  |  | AkianaArsene | Brazzaville, Congo | 195 |
-| 20 | [DMiyalu](https://github.com/DMiyalu) | Dieudonné Miyalu |  |  | congo | 193 |
+| 13 | [Kingcedloga](https://github.com/Kingcedloga) | Meced Loga | Royal Software |  | Kinshasa, Congo | 317 |
+| 14 | [leloeduk](https://github.com/leloeduk) | Lelo  | Lelo eduk |  | Congo | 315 |
+| 15 | [babacleven](https://github.com/babacleven) | BABA Aristote Cleven  | AKIENI ACADEMY |  | Congo-Brazzaville | 305 |
+| 16 | [lepresk](https://github.com/lepresk) | Logan CodeMaker | @Akieni | lepresk1 | Brazzaville, Congo | 300 |
+| 17 | [Chadrac-WAKOMYA](https://github.com/Chadrac-WAKOMYA) | KIGHUNDILA WAKOMYA Chadrac |  |  | Congo | 251 |
+| 18 | [chronoss09](https://github.com/chronoss09) | Chronoss | CHRONOSS GAMES | chronoss09 | Congo | 217 |
+| 19 | [Ssnnee](https://github.com/Ssnnee) | Samuel Nandi |  | NandiSne | Republic of the Congo | 200 |
+| 20 | [arsene-akiana](https://github.com/arsene-akiana) | Arsène Gloire AKIANA  |  | AkianaArsene | Brazzaville, Congo | 195 |
