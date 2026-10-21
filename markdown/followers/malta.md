@@ -1,8 +1,8 @@
 # Followers - Malta
 
-Generated: 2026-10-21T14:12:14.753Z
+Generated: 2026-10-21T16:06:06.994Z
 
-Users: 1223
+Users: 1224
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

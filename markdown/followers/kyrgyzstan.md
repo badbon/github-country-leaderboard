@@ -1,14 +1,14 @@
 # Followers - Kyrgyzstan
 
-Generated: 2026-10-21T14:04:52.572Z
+Generated: 2026-10-21T15:43:22.823Z
 
 Users: 2440
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [temirovazat](https://github.com/temirovazat) | Temirov Azat |  |  | Bishkek, Kyrgyzstan | 2217 |
+| 1 | [temirovazat](https://github.com/temirovazat) | Temirov Azat |  |  | Bishkek, Kyrgyzstan | 2218 |
 | 2 | [Maksbicoin](https://github.com/Maksbicoin) | Cryptopunk13(soon1) |  |  | Kyrgyzstan | 380 |
-| 3 | [Toktorov](https://github.com/Toktorov) | Toktorov Kurmanbek | Founder & CEO @CodexKG | binniev01 | Kyrgyzstan, Bishkek | 363 |
+| 3 | [Toktorov](https://github.com/Toktorov) | Toktorov Kurmanbek | Founder & CEO @CodexKG | binniev01 | Kyrgyzstan, Bishkek | 376 |
 | 4 | [anatoly-bobrovsky](https://github.com/anatoly-bobrovsky) | Anatoly Bobrovsky |  |  | Bishkek | 255 |
 | 5 | [gen1us2k](https://github.com/gen1us2k) | Andrew Zhuravlev |  | gen1us2k | Kyrgyzstan, Bishkek | 209 |
 | 6 | [toksaitov](https://github.com/toksaitov) | Toksaitov Dmitrii Alexandrovich | @auca |  | Bishkek | 184 |

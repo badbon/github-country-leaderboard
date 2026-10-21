@@ -1,6 +1,6 @@
 # Public Contributions - Kyrgyzstan
 
-Generated: 2026-10-21T14:04:52.572Z
+Generated: 2026-10-21T15:43:22.823Z
 
 Users: 2440
 
@@ -17,8 +17,8 @@ Users: 2440
 | 9 | [raimbekovm](https://github.com/raimbekovm) | Murat Raimbekov | @ultralytics  |  | Bishkek, Kyrgyzstan | 1403 |
 | 10 | [bvasilenko](https://github.com/bvasilenko) | Boris Vasilenko |  |  | Bishkek, Kyrgyzstan (Relocated) | 1379 |
 | 11 | [Eldar2021](https://github.com/Eldar2021) | Eldiiar Almazbek | ElTeh | EldiiarAlmazbek | Bishkek | 1350 |
-| 12 | [asannov](https://github.com/asannov) | Damir |  |  | Bishkek, Kyrgyz Republic | 1238 |
-| 13 | [alxnko](https://github.com/alxnko) | Alex Neko | AIT Solutions |  | Kyrgyzstan | 1217 |
+| 12 | [alxnko](https://github.com/alxnko) | Alex Neko | AIT Solutions |  | Kyrgyzstan | 1250 |
+| 13 | [asannov](https://github.com/asannov) | Damir |  |  | Bishkek, Kyrgyz Republic | 1238 |
 | 14 | [teimurjan](https://github.com/teimurjan) | Teimur Gasanov | @SpeechifyInc | teimurjan | Bishkek, Kyrgyzstan | 1140 |
 | 15 | [isko18](https://github.com/isko18) | islam | Geeks  |  | Kyrgyzstan, Osh | 1064 |
 | 16 | [ArzubekDev](https://github.com/ArzubekDev) | Arzubek | Yldam market |  | Bishkek | 1025 |

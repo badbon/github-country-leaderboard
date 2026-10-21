@@ -1,13 +1,13 @@
 # Total Contributions - Moldova
 
-Generated: 2026-10-21T14:13:08.837Z
+Generated: 2026-10-21T15:54:06.119Z
 
 Users: 1746
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [amberpixels](https://github.com/amberpixels) | Eugene | amberpixels.io |  | Moldova, Chișinău | 28606 |
-| 2 | [evisoft](https://github.com/evisoft) | Vitalie Esanu | Evisoft | evisoft | Moldova | 18010 |
+| 2 | [evisoft](https://github.com/evisoft) | Vitalie Esanu | Evisoft | evisoft | Moldova | 18569 |
 | 3 | [ion-bostanica](https://github.com/ion-bostanica) | Bostanica Ion |  |  | Moldova, Chisinau | 12938 |
 | 4 | [icaliman](https://github.com/icaliman) | Ion Căliman | XLITE DEV |  | Moldova | 11462 |
 | 5 | [danlapteacru](https://github.com/danlapteacru) | Dan Lapteacru |  |  | Ungheni, Moldova / Iasi, Romania | 8485 |

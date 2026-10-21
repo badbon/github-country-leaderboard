@@ -13,7 +13,7 @@ Indexed users: 1,746
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [amberpixels](https://github.com/amberpixels) | Eugene | Moldova, Chișinău | 28,606 |
-| 2 | [evisoft](https://github.com/evisoft) | Vitalie Esanu | Moldova | 18,010 |
+| 2 | [evisoft](https://github.com/evisoft) | Vitalie Esanu | Moldova | 18,569 |
 | 3 | [ion-bostanica](https://github.com/ion-bostanica) | Bostanica Ion | Moldova, Chisinau | 12,938 |
 | 4 | [icaliman](https://github.com/icaliman) | Ion Căliman | Moldova | 11,462 |
 | 5 | [danlapteacru](https://github.com/danlapteacru) | Dan Lapteacru | Ungheni, Moldova / Iasi, Romania | 8,485 |
@@ -52,8 +52,8 @@ Indexed users: 1,746
 | 13 | [teratron](https://github.com/teratron) | Oleg Alexandrov | Moldova | 1,800 |
 | 14 | [THET1ME-1](https://github.com/THET1ME-1) | Matrosov Alexandr | Moldova | 1,783 |
 | 15 | [Nemo-Illusionist](https://github.com/Nemo-Illusionist) | Peter Radilov | Moldova | 1,751 |
-| 16 | [GabsEdits](https://github.com/GabsEdits) | Gabriel Cozma | Chisinau, Moldova | 1,651 |
-| 17 | [g0ddest](https://github.com/g0ddest) | veet | Bendery, Moldova | 1,648 |
+| 16 | [g0ddest](https://github.com/g0ddest) | veet | Bendery, Moldova | 1,729 |
+| 17 | [GabsEdits](https://github.com/GabsEdits) | Gabriel Cozma | Chisinau, Moldova | 1,651 |
 | 18 | [nalyk](https://github.com/nalyk) | Ion (Nalyk) Calmîș | Ungheni, Republic of Moldova | 1,481 |
 | 19 | [iatsiuk](https://github.com/iatsiuk) | Aleksei Iatsiuk | Chisinau, Moldova | 1,378 |
 | 20 | [icaliman](https://github.com/icaliman) | Ion Căliman | Moldova | 1,332 |
@@ -83,4 +83,4 @@ Indexed users: 1,746
 | 19 | [vgaidarji](https://github.com/vgaidarji) | Veaceslav Gaidarji | Moldova | 114 |
 | 20 | [Ernest96](https://github.com/Ernest96) | Ernest | Chisinau Moldova | 107 |
 
-Generated: 2026-10-21T14:13:08.837Z
+Generated: 2026-10-21T15:54:06.119Z

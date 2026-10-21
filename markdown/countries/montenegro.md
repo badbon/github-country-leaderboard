@@ -12,13 +12,13 @@ Indexed users: 888
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [zenalex](https://github.com/zenalex) | Aleksei | Budva, Montenegro | 16,123 |
+| 1 | [zenalex](https://github.com/zenalex) | Aleksei | Budva, Montenegro | 16,666 |
 | 2 | [Hatshepsuth](https://github.com/Hatshepsuth) | Katja | Montenegro | 15,891 |
 | 3 | [mashkovd](https://github.com/mashkovd) | mashkovd | Podgorica | 15,498 |
 | 4 | [alekspetrov](https://github.com/alekspetrov) | Aleks Petrov | Montenegro, Podgorica | 13,635 |
 | 5 | [sondreb](https://github.com/sondreb) | SondreB | Bar, Montenegro | 7,172 |
 | 6 | [McSim85](https://github.com/McSim85) | Max Kramarenko | Montenegro | 6,849 |
-| 7 | [jare25](https://github.com/jare25) | Miloš Jaredić | Podgorica, Montenegro | 6,512 |
+| 7 | [jare25](https://github.com/jare25) | Miloš Jaredić | Podgorica, Montenegro | 6,712 |
 | 8 | [recursion128](https://github.com/recursion128) | DDDDOGE | Crna Gora | 6,326 |
 | 9 | [Timev](https://github.com/Timev) | Evgenii Timofeev | Montenegro | 6,218 |
 | 10 | [stefashkaa](https://github.com/stefashkaa) | Stefan Popov | Montenegro, Budva | 6,057 |
@@ -46,7 +46,7 @@ Indexed users: 888
 | 7 | [Fooftilly](https://github.com/Fooftilly) | Nikola Perović | Montenegro | 3,251 |
 | 8 | [potapenko](https://github.com/potapenko) | Eugene Potapenko | Montenegro | 3,168 |
 | 9 | [AndreyTalanin0x00](https://github.com/AndreyTalanin0x00) | Andrey Talanin | Podgorica, Montenegro | 2,992 |
-| 10 | [lacodda](https://github.com/lacodda) | Kirill Lakhtachev | Montenegro | 2,678 |
+| 10 | [lacodda](https://github.com/lacodda) | Kirill Lakhtachev | Montenegro | 2,791 |
 | 11 | [histrio](https://github.com/histrio) | Rinat Sabitov | Montenegro | 2,217 |
 | 12 | [Xaaalera](https://github.com/Xaaalera) | Roman Maslennikov | Montenegro | 2,057 |
 | 13 | [stevyhacker](https://github.com/stevyhacker) | Stevan Bogosavljević | Montenegro | 1,981 |
@@ -83,4 +83,4 @@ Indexed users: 888
 | 19 | [vovkasm](https://github.com/vovkasm) | Vladimir Timofeev | Budva, Montenegro | 99 |
 | 20 | [marcoroganovic](https://github.com/marcoroganovic) | Marko Roganovic | Montenegro | 90 |
 
-Generated: 2026-10-21T14:15:14.024Z
+Generated: 2026-10-21T15:57:01.068Z

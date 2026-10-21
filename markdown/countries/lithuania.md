@@ -14,16 +14,16 @@ Indexed users: 5,364
 |---:|---|---|---|---:|
 | 1 | [kiznis](https://github.com/kiznis) | Mindaugas Kiznis | Lithuania | 99,902 |
 | 2 | [vytautas-bunevicius](https://github.com/vytautas-bunevicius) | Vytautas | Vilnius | 29,125 |
-| 3 | [bring-shrubbery](https://github.com/bring-shrubbery) | Antoni Silvestrovič | Vilnius, Lithuania | 17,060 |
-| 4 | [kasinskas](https://github.com/kasinskas) | Rokas Kašinskas | Lithuania | 15,172 |
-| 5 | [Dambre](https://github.com/Dambre) | Lukas | Lithuania | 14,784 |
-| 6 | [renaldasbuilds](https://github.com/renaldasbuilds) | Renaldas | Lithuania | 14,763 |
-| 7 | [KonnikPahoni](https://github.com/KonnikPahoni) | Piotr Markielau | Vilnius, Lithuania | 13,412 |
-| 8 | [Midunas](https://github.com/Midunas) | Mykolas Vidunas | Vilnius | 13,013 |
-| 9 | [YOzaz](https://github.com/YOzaz) | Marijus Plančiūnas | Vilnius, Lithuania | 13,010 |
-| 10 | [justascesnauskas](https://github.com/justascesnauskas) | Justas Česnauskas | Lithuania | 12,973 |
-| 11 | [kstulgys](https://github.com/kstulgys) | Karolis Stulgys | Vilnius | 12,369 |
-| 12 | [justrau](https://github.com/justrau) | Justas Raudonius | Lithuania | 12,318 |
+| 3 | [justrau](https://github.com/justrau) | Justas Raudonius | Lithuania | 18,945 |
+| 4 | [bring-shrubbery](https://github.com/bring-shrubbery) | Antoni Silvestrovič | Vilnius, Lithuania | 17,060 |
+| 5 | [kasinskas](https://github.com/kasinskas) | Rokas Kašinskas | Lithuania | 15,172 |
+| 6 | [Dambre](https://github.com/Dambre) | Lukas | Lithuania | 14,784 |
+| 7 | [renaldasbuilds](https://github.com/renaldasbuilds) | Renaldas | Lithuania | 14,763 |
+| 8 | [KonnikPahoni](https://github.com/KonnikPahoni) | Piotr Markielau | Vilnius, Lithuania | 13,412 |
+| 9 | [Midunas](https://github.com/Midunas) | Mykolas Vidunas | Vilnius | 13,013 |
+| 10 | [YOzaz](https://github.com/YOzaz) | Marijus Plančiūnas | Vilnius, Lithuania | 13,010 |
+| 11 | [justascesnauskas](https://github.com/justascesnauskas) | Justas Česnauskas | Lithuania | 12,973 |
+| 12 | [kstulgys](https://github.com/kstulgys) | Karolis Stulgys | Vilnius | 12,369 |
 | 13 | [Paktas](https://github.com/Paktas) | Zilvinas Bartkus | Vilnius, Lithuania | 10,402 |
 | 14 | [kiprasmel](https://github.com/kiprasmel) | Kipras Melnikovas | Lithuania | 10,376 |
 | 15 | [Algiras](https://github.com/Algiras) | Algimantas K. | Vilnius, Lithuania | 10,351 |
@@ -83,4 +83,4 @@ Indexed users: 5,364
 | 19 | [Miceuz](https://github.com/Miceuz) | Albertas Mickėnas | Vilnius, Lithuania | 190 |
 | 20 | [mmozuras](https://github.com/mmozuras) | Mindaugas Mozūras | Vilnius, Lithuania | 183 |
 
-Generated: 2026-10-21T14:08:44.399Z
+Generated: 2026-10-21T15:46:06.966Z

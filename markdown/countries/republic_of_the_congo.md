@@ -53,7 +53,7 @@ Indexed users: 298
 | 14 | [leloeduk](https://github.com/leloeduk) | Lelo  | Congo | 315 |
 | 15 | [babacleven](https://github.com/babacleven) | BABA Aristote Cleven  | Congo-Brazzaville | 305 |
 | 16 | [lepresk](https://github.com/lepresk) | Logan CodeMaker | Brazzaville, Congo | 300 |
-| 17 | [Chadrac-WAKOMYA](https://github.com/Chadrac-WAKOMYA) | KIGHUNDILA WAKOMYA Chadrac | Congo | 251 |
+| 17 | [Chadrac-WAKOMYA](https://github.com/Chadrac-WAKOMYA) | KIGHUNDILA WAKOMYA Chadrac | Congo | 250 |
 | 18 | [chronoss09](https://github.com/chronoss09) | Chronoss | Congo | 217 |
 | 19 | [Ssnnee](https://github.com/Ssnnee) | Samuel Nandi | Republic of the Congo | 200 |
 | 20 | [arsene-akiana](https://github.com/arsene-akiana) | Arsène Gloire AKIANA  | Brazzaville, Congo | 195 |
@@ -77,10 +77,10 @@ Indexed users: 298
 | 13 | [Johannos135](https://github.com/Johannos135) | Johanne ESSIERE | Brazzaville (CONGO) | 45 |
 | 14 | [lingabo](https://github.com/lingabo) | Lingabo Junior | Congo | 41 |
 | 15 | [bim-g](https://github.com/bim-g) | Boss | Congo, Democratic Republic of, Goma | 38 |
-| 16 | [Esdras-Nsounda](https://github.com/Esdras-Nsounda) | esdras nsounda | brazzaville \ Congo | 37 |
+| 16 | [Esdras-Nsounda](https://github.com/Esdras-Nsounda) | esdras nsounda | brazzaville \ Congo | 38 |
 | 17 | [seleshabani](https://github.com/seleshabani) |  | Congo | 33 |
 | 18 | [Cooger17](https://github.com/Cooger17) |  | Congo Brazzaville  | 31 |
 | 19 | [Ssnnee](https://github.com/Ssnnee) | Samuel Nandi | Republic of the Congo | 26 |
 | 20 | [WinnersProx](https://github.com/WinnersProx) | Vainqueur Bihame | Kigali,Rwanda,Congo | 25 |
 
-Generated: 2026-10-21T14:27:46.345Z
+Generated: 2026-10-21T16:07:54.488Z
