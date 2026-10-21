@@ -41095,8 +41095,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 413,
-    "publicContributions": 0,
+    "privateContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2021-03-16T13:43:22Z"
   },
   {
@@ -41120,7 +41120,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 188,
+    "publicContributions": 250,
     "createdAt": "2021-09-26T18:36:02Z"
   },
   {
@@ -41131,7 +41131,7 @@
     "company": "Ikomm AS",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 416,
+    "privateContributions": 515,
     "publicContributions": 0,
     "createdAt": "2021-10-26T07:14:58Z"
   },
@@ -41154,9 +41154,9 @@
     "location": "Oslo Norway ",
     "company": "",
     "twitterUsername": "Karizma_choppa",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 8,
     "createdAt": "2021-10-22T08:00:32Z"
   },
   {
@@ -41186,13 +41186,13 @@
   {
     "login": "finchcc",
     "name": "finch",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/85927314?s=72&u=c851218d8d78b6f749aa4142b37ea3d112266a17&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/85927314?s=72&v=4",
     "location": "Norway",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 45,
-    "publicContributions": 59,
+    "privateContributions": 22,
+    "publicContributions": 43,
     "createdAt": "2021-06-15T07:32:55Z"
   },
   {
@@ -41216,7 +41216,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 42,
+    "publicContributions": 48,
     "createdAt": "2021-01-16T18:23:22Z"
   },
   {
@@ -41287,14 +41287,14 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 14,
+    "privateContributions": 12,
     "publicContributions": 6,
     "createdAt": "2021-11-10T09:49:20Z"
   },
   {
     "login": "dbEmLogic",
     "name": "Daniel Blomkvist",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/91672455?s=72&u=114b3cfe4cf126a6133b37c13468a9f09490dee6&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/91672455?s=72&u=0cc56e8b4ef5b8c5a1835b417894f6cde03e6290&v=4",
     "location": "Trondheim, Norway",
     "company": "EmLogic",
     "twitterUsername": "",

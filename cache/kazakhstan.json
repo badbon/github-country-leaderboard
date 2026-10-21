@@ -40531,7 +40531,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 47,
+    "privateContributions": 41,
     "publicContributions": 10,
     "createdAt": "2019-11-17T11:16:16Z"
   },
@@ -40544,7 +40544,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 2,
     "createdAt": "2019-04-04T12:55:56Z"
   },
   {
@@ -40566,22 +40566,10 @@
     "location": "Astana, Kazakhstan ",
     "company": "OBI ",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 25,
-    "publicContributions": 478,
+    "publicContributions": 40,
     "createdAt": "2019-05-11T05:17:33Z"
-  },
-  {
-    "login": "LirikIonov",
-    "name": "Kirill",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/48033224?s=72&u=116b125163db44baafdb921a2fe467b1a04041d6&v=4",
-    "location": "Oral, Kazakhstan",
-    "company": "lirikionov@gmail.com",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2019-02-26T21:09:23Z"
   },
   {
     "login": "EvgeniiGolubev",
@@ -40592,7 +40580,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 43,
+    "publicContributions": 31,
     "createdAt": "2019-02-18T17:49:27Z"
   },
   {
@@ -40602,7 +40590,7 @@
     "location": "Almaty, Kazakhstan",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-03-25T18:40:29Z"
@@ -40638,9 +40626,9 @@
     "location": "Kazakhstan",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 66,
-    "publicContributions": 31,
+    "followers": 5,
+    "privateContributions": 39,
+    "publicContributions": 81,
     "createdAt": "2019-10-25T11:09:05Z"
   },
   {
@@ -40668,18 +40656,6 @@
     "createdAt": "2019-12-10T10:07:10Z"
   },
   {
-    "login": "liqrizz",
-    "name": "Yermek Zhunussov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/53953404?s=72&u=afa0958ad9f8a9b909ddbe87cedf6ec064258415&v=4",
-    "location": "Kazakhstan, Almaty",
-    "company": "Tinkoff Bank",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2019-08-09T20:01:48Z"
-  },
-  {
     "login": "asnbkk",
     "name": "Assan Bekkaliyev",
     "avatarUrl": "https://avatars.githubusercontent.com/u/47390497?s=72&u=217783abc7512daf8018f7ed7aeaa8f3e39d6490&v=4",
@@ -40687,7 +40663,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 21,
+    "privateContributions": 87,
     "publicContributions": 19,
     "createdAt": "2019-02-06T14:31:34Z"
   },
@@ -40712,7 +40688,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 66,
+    "publicContributions": 97,
     "createdAt": "2019-07-14T13:24:22Z"
   },
   {
@@ -40722,7 +40698,7 @@
     "location": "Kazakhstan",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 9,
     "publicContributions": 1,
     "createdAt": "2019-06-12T10:28:17Z"
@@ -40734,7 +40710,7 @@
     "location": "Kazakhstan, Nur-Sultan (Astana)",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 9,
     "createdAt": "2019-08-08T19:28:42Z"
@@ -40747,8 +40723,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1757,
-    "publicContributions": 34,
+    "privateContributions": 3100,
+    "publicContributions": 13,
     "createdAt": "2019-06-05T20:03:39Z"
   },
   {

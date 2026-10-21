@@ -40940,7 +40940,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 92,
+    "publicContributions": 3,
     "createdAt": "2023-06-12T07:09:56Z"
   },
   {
@@ -40972,11 +40972,11 @@
     "name": "aayushmi adhikari",
     "avatarUrl": "https://avatars.githubusercontent.com/u/132826306?s=72&u=8fcbfd4064646e0eb5a22bb660238a4ec0e85224&v=4",
     "location": "katmandu,nepal",
-    "company": "",
+    "company": "CAS Total Solutions",
     "twitterUsername": "LenthusiastM",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 6,
-    "publicContributions": 14,
+    "publicContributions": 78,
     "createdAt": "2023-05-07T12:59:33Z"
   },
   {
@@ -41000,7 +41000,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 13,
     "createdAt": "2023-04-09T13:06:34Z"
   },
   {
@@ -41012,7 +41012,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 17,
-    "publicContributions": 48,
+    "publicContributions": 51,
     "createdAt": "2023-02-06T05:38:57Z"
   },
   {
@@ -41024,20 +41024,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 2,
     "createdAt": "2023-02-16T13:15:40Z"
-  },
-  {
-    "login": "peeyoush",
-    "name": "Peeyoush shah ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/121665710?s=72&v=4",
-    "location": "Kathmandu, Nepal",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 54,
-    "createdAt": "2022-12-30T09:05:38Z"
   },
   {
     "login": "saudtechzone",

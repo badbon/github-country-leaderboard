@@ -40699,8 +40699,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 108,
-    "publicContributions": 94,
+    "privateContributions": 0,
+    "publicContributions": 92,
     "createdAt": "2020-11-20T18:31:03Z"
   },
   {
@@ -40722,9 +40722,9 @@
     "location": "Saudi Arabia",
     "company": "",
     "twitterUsername": "AbdullahHouso",
-    "followers": 12,
-    "privateContributions": 493,
-    "publicContributions": 1,
+    "followers": 14,
+    "privateContributions": 455,
+    "publicContributions": 117,
     "createdAt": "2020-07-24T09:46:43Z"
   },
   {
@@ -40734,9 +40734,9 @@
     "location": "Saudi Arabia",
     "company": "Prince Sultan University (Saudi Arabia)",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 183,
+    "publicContributions": 239,
     "createdAt": "2020-05-14T23:10:29Z"
   },
   {
@@ -40758,21 +40758,21 @@
     "location": "Riyadh, Saudi Arabia",
     "company": "",
     "twitterUsername": "Wasi_MahmooD",
-    "followers": 12,
-    "privateContributions": 393,
+    "followers": 14,
+    "privateContributions": 381,
     "publicContributions": 0,
     "createdAt": "2020-02-27T21:12:11Z"
   },
   {
     "login": "thameraltoimi",
     "name": "Thamer Altoimi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/68731244?s=72&u=5004be23133e661c90aa037baa5a8467a4f91fae&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/68731244?s=72&u=ad58470b60515fc72227c55cc264cb18c053f0e5&v=4",
     "location": "Riyadh, Saudi Arabia",
     "company": "",
     "twitterUsername": "thameraltoimi",
     "followers": 11,
-    "privateContributions": 3182,
-    "publicContributions": 6,
+    "privateContributions": 6384,
+    "publicContributions": 5,
     "createdAt": "2020-07-24T08:28:45Z"
   },
   {
@@ -40783,20 +40783,20 @@
     "company": "",
     "twitterUsername": "W3lliMakki",
     "followers": 11,
-    "privateContributions": 67,
+    "privateContributions": 50,
     "publicContributions": 5,
     "createdAt": "2020-09-30T12:47:24Z"
   },
   {
     "login": "abdulrhmanG-alahmadi",
     "name": "Abdulrhman  Alahmadi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/63341052?s=72&u=b70b43a804621c4e73510f00835a7edfb98e6239&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/63341052?s=72&u=bfd2237478ed80d7f1fb50be0ebd71911ebfb40a&v=4",
     "location": "Jeddah, Saudi Arabia",
     "company": "",
     "twitterUsername": "abdulrhman_ai",
-    "followers": 11,
-    "privateContributions": 1671,
-    "publicContributions": 4,
+    "followers": 18,
+    "privateContributions": 5310,
+    "publicContributions": 76,
     "createdAt": "2020-04-08T08:26:21Z"
   },
   {
@@ -40819,8 +40819,8 @@
     "company": "King Abdullah University of Science and Technology (KAUST)",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 34,
-    "publicContributions": 5,
+    "privateContributions": 20,
+    "publicContributions": 8,
     "createdAt": "2020-03-09T10:13:30Z"
   },
   {
@@ -40831,8 +40831,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 330,
-    "publicContributions": 9,
+    "privateContributions": 344,
+    "publicContributions": 50,
     "createdAt": "2020-07-20T20:41:24Z"
   },
   {
@@ -40842,33 +40842,33 @@
     "location": "Riyadh, Saudi arabia",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 12,
     "privateContributions": 223,
-    "publicContributions": 147,
+    "publicContributions": 46,
     "createdAt": "2020-09-23T11:05:41Z"
   },
   {
     "login": "lenaAlenazi",
     "name": "Lena",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/73249883?s=72&u=938eb16bfdc204823f30217a897b8112a39a79f5&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/73249883?s=72&u=cb7cd0e76aefd5b99a89af5511a8b45a805a90f2&v=4",
     "location": "Riyadh, Saudi Arabia",
     "company": "",
     "twitterUsername": "",
     "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 33,
+    "publicContributions": 43,
     "createdAt": "2020-10-21T17:46:11Z"
   },
   {
     "login": "Srking501",
     "name": "Abdullah Alshadadi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/67493725?s=72&u=367798bc4739d37f4ce7b2f39ef09790c62173e8&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/67493725?s=72&u=57448553b6ff8a9975f5f46e59a958362c1ef171&v=4",
     "location": "Saudi Arabia",
     "company": "MOMAH",
     "twitterUsername": "aabdullah853",
-    "followers": 11,
-    "privateContributions": 71,
-    "publicContributions": 1,
+    "followers": 12,
+    "privateContributions": 66,
+    "publicContributions": 5,
     "createdAt": "2020-06-27T03:45:36Z"
   },
   {
@@ -40890,9 +40890,9 @@
     "location": "Saudi Arabia, Riyadh",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 20,
     "createdAt": "2020-05-20T05:43:14Z"
   },
   {
@@ -40902,9 +40902,9 @@
     "location": "Saudi Arabia",
     "company": "CAI",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 667,
-    "publicContributions": 475,
+    "followers": 12,
+    "privateContributions": 760,
+    "publicContributions": 496,
     "createdAt": "2020-03-31T16:17:20Z"
   },
   {
@@ -40914,7 +40914,7 @@
     "location": "Riyadh, Riyadh Province, Saudi Arabia",
     "company": "Viexle",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 11,
     "privateContributions": 0,
     "publicContributions": 52,
     "createdAt": "2020-11-06T10:03:27Z"

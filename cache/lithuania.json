@@ -40879,7 +40879,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 16,
-    "privateContributions": 3,
+    "privateContributions": 0,
     "publicContributions": 7,
     "createdAt": "2015-12-20T22:56:29Z"
   },
@@ -40891,20 +40891,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 16,
-    "privateContributions": 73,
+    "privateContributions": 44,
     "publicContributions": 4,
     "createdAt": "2015-02-08T19:11:59Z"
   },
   {
     "login": "Nostromo-618",
-    "name": "Povilas R.",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/13884524?s=72&u=53d6802e02de08adbeaa777ba838d862953a23d1&v=4",
+    "name": "Povilas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13884524?s=72&u=ca1d283befcc75e11163e7d4155ea6822971ab0f&v=4",
     "location": "Lithuania",
     "company": "@vanduo-oss",
     "twitterUsername": "",
-    "followers": 16,
+    "followers": 14,
     "privateContributions": 0,
-    "publicContributions": 1403,
+    "publicContributions": 767,
     "createdAt": "2015-08-20T09:18:57Z"
   },
   {
@@ -40915,8 +40915,8 @@
     "company": "Ignitis Renewables",
     "twitterUsername": "",
     "followers": 15,
-    "privateContributions": 4,
-    "publicContributions": 6,
+    "privateContributions": 0,
+    "publicContributions": 4,
     "createdAt": "2015-01-13T15:59:03Z"
   },
   {
@@ -40926,9 +40926,9 @@
     "location": "Vilnius, Lithuania",
     "company": "Salesforge",
     "twitterUsername": "",
-    "followers": 15,
-    "privateContributions": 1549,
-    "publicContributions": 7,
+    "followers": 19,
+    "privateContributions": 1288,
+    "publicContributions": 8,
     "createdAt": "2015-10-22T15:17:26Z"
   },
   {
@@ -40950,8 +40950,8 @@
     "location": "Vilnius, Lithuania",
     "company": "10 Speed",
     "twitterUsername": "",
-    "followers": 15,
-    "privateContributions": 937,
+    "followers": 16,
+    "privateContributions": 1194,
     "publicContributions": 0,
     "createdAt": "2015-04-07T18:42:40Z"
   },
@@ -40962,9 +40962,9 @@
     "location": "Klaipeda, Lithuania",
     "company": "satalia.com",
     "twitterUsername": "",
-    "followers": 14,
-    "privateContributions": 186,
-    "publicContributions": 14,
+    "followers": 16,
+    "privateContributions": 160,
+    "publicContributions": 16,
     "createdAt": "2015-08-30T10:52:11Z"
   },
   {
@@ -40998,9 +40998,9 @@
     "location": "Lithuania",
     "company": "@Microsoft ",
     "twitterUsername": "",
-    "followers": 14,
+    "followers": 15,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 11,
     "createdAt": "2015-10-13T13:31:52Z"
   },
   {
@@ -41012,7 +41012,7 @@
     "twitterUsername": "",
     "followers": 14,
     "privateContributions": 0,
-    "publicContributions": 83,
+    "publicContributions": 96,
     "createdAt": "2015-09-16T14:29:20Z"
   },
   {
@@ -41023,8 +41023,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 14,
-    "privateContributions": 12275,
-    "publicContributions": 43,
+    "privateContributions": 18900,
+    "publicContributions": 45,
     "createdAt": "2015-02-06T13:18:51Z"
   },
   {
@@ -41034,9 +41034,9 @@
     "location": "Lithuania",
     "company": "Wix.com",
     "twitterUsername": "",
-    "followers": 14,
-    "privateContributions": 317,
-    "publicContributions": 8,
+    "followers": 15,
+    "privateContributions": 761,
+    "publicContributions": 3,
     "createdAt": "2015-06-30T10:12:25Z"
   },
   {
@@ -41046,7 +41046,7 @@
     "location": "Lithuania",
     "company": "",
     "twitterUsername": "",
-    "followers": 13,
+    "followers": 14,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-12-07T14:09:12Z"
@@ -41054,11 +41054,11 @@
   {
     "login": "paulks-software",
     "name": "Paul Ks",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/13711276?s=72&u=e61ff41f9628941e3939d966eed5cd0fb40fce66&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13711276?s=72&u=98c2b7633d9a1463b113851c2064a22b49ed023d&v=4",
     "location": "Lithuania, Vilnius",
     "company": "",
     "twitterUsername": "",
-    "followers": 13,
+    "followers": 14,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2015-08-08T20:22:44Z"
@@ -41071,8 +41071,8 @@
     "company": "BacklogLab",
     "twitterUsername": "",
     "followers": 13,
-    "privateContributions": 162,
-    "publicContributions": 477,
+    "privateContributions": 143,
+    "publicContributions": 486,
     "createdAt": "2015-01-15T22:36:48Z"
   },
   {
@@ -41084,7 +41084,7 @@
     "twitterUsername": "",
     "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 1,
     "createdAt": "2015-03-02T10:59:24Z"
   },
   {
@@ -41094,9 +41094,9 @@
     "location": "Kaunas, Lithuania",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 629,
     "createdAt": "2015-08-17T05:45:14Z"
   },
   {
