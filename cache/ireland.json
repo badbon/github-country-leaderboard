@@ -40112,7 +40112,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 4,
     "createdAt": "2021-06-21T09:32:21Z"
   },
   {
@@ -40122,9 +40122,9 @@
     "location": "Dublin, Ireland",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 83,
     "createdAt": "2021-05-03T07:08:31Z"
   },
   {
@@ -40135,8 +40135,8 @@
     "company": "Trinity College Dublin",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 3,
-    "publicContributions": 17,
+    "privateContributions": 0,
+    "publicContributions": 15,
     "createdAt": "2021-06-17T01:31:07Z"
   },
   {
@@ -40184,19 +40184,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 5,
     "createdAt": "2021-03-08T12:45:19Z"
   },
   {
     "login": "OlegZinch",
     "name": "Oleh Zinchenko",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/76735129?s=72&u=9978b0d039363244912dcee26c9ce39d71da95c1&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/76735129?s=72&u=87bc06e3389fcd9be1ac471bbb02ae7d6fdb9d96&v=4",
     "location": "Ireland",
     "company": "Fiserv.",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 385,
+    "publicContributions": 339,
     "createdAt": "2020-12-29T12:29:22Z"
   },
   {
@@ -40290,9 +40290,9 @@
     "location": "Dublin, Ireland",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 661,
-    "publicContributions": 2,
+    "followers": 2,
+    "privateContributions": 730,
+    "publicContributions": 0,
     "createdAt": "2021-02-16T13:05:07Z"
   },
   {
