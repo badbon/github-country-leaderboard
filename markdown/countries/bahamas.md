@@ -14,7 +14,7 @@ Indexed users: 236
 |---:|---|---|---|---:|
 | 1 | [carlswann](https://github.com/carlswann) | Carl Swann | Freeport, Bahamas | 24,055 |
 | 2 | [zoejessica](https://github.com/zoejessica) | Zoë Smith | Bahamas / Canada | 3,630 |
-| 3 | [dbraganca](https://github.com/dbraganca) | dbraganca | Bahamas | 3,387 |
+| 3 | [dbraganca](https://github.com/dbraganca) | dbraganca | Bahamas | 3,409 |
 | 4 | [bondjacobbond](https://github.com/bondjacobbond) | Jacob Bond | Casino Royale, Nassau, Bahamas | 3,061 |
 | 5 | [ryaustin](https://github.com/ryaustin) | Ryan | Bahamas | 2,633 |
 | 6 | [yannyhl](https://github.com/yannyhl) | yg | nassau | 2,055 |
@@ -23,7 +23,7 @@ Indexed users: 236
 | 9 | [TajhSeymour](https://github.com/TajhSeymour) | Tajh Seymour | New Providence, Bahamas | 1,434 |
 | 10 | [jsphpndr](https://github.com/jsphpndr) | Joseph Pinder | Bahamas | 1,215 |
 | 11 | [TRL242](https://github.com/TRL242) | Roy Lockhart | Victoria, BC and Freeport, Bahamas | 1,110 |
-| 12 | [Johndiddles](https://github.com/Johndiddles) | Johndiddles | Nassau, Bahamas | 831 |
+| 12 | [Johndiddles](https://github.com/Johndiddles) | Johndiddles | Nassau, Bahamas | 826 |
 | 13 | [Tec4Sho](https://github.com/Tec4Sho) | Ziona | Nassau, Bahamas  | 773 |
 | 14 | [Clearwood](https://github.com/Clearwood) |  | Bahamas | 740 |
 | 15 | [dorson755](https://github.com/dorson755) | Dorson Williams | Nassau Bahamas | 738 |
@@ -44,7 +44,7 @@ Indexed users: 236
 | 5 | [FLIPPING-PROFITS](https://github.com/FLIPPING-PROFITS) | FLIPPING PROFITS | Bahamas | 193 |
 | 6 | [zotz](https://github.com/zotz) | drew Roberts | Nassau, Bahamas | 148 |
 | 7 | [dorson755](https://github.com/dorson755) | Dorson Williams | Nassau Bahamas | 146 |
-| 8 | [Johndiddles](https://github.com/Johndiddles) | Johndiddles | Nassau, Bahamas | 110 |
+| 8 | [Johndiddles](https://github.com/Johndiddles) | Johndiddles | Nassau, Bahamas | 108 |
 | 9 | [Ernestforbes12](https://github.com/Ernestforbes12) | Ernest Forbes Jr | Bahamas  | 94 |
 | 10 | [jsphpndr](https://github.com/jsphpndr) | Joseph Pinder | Bahamas | 93 |
 | 11 | [SamSepiol266](https://github.com/SamSepiol266) | Sam Sepiol | Nassau, Bahamas | 91 |
@@ -83,4 +83,4 @@ Indexed users: 236
 | 19 | [paulcitarella](https://github.com/paulcitarella) | Paul Citarella | George Town, Bahamas | 15 |
 | 20 | [yemix](https://github.com/yemix) |  | Bahamas | 14 |
 
-Generated: 2026-10-21T13:26:15.790Z
+Generated: 2026-10-21T15:04:18.446Z

@@ -1,6 +1,6 @@
 # Public Contributions - Yemen
 
-Generated: 2026-10-21T13:18:22.708Z
+Generated: 2026-10-21T14:57:08.761Z
 
 Users: 1205
 
@@ -18,11 +18,11 @@ Users: 1205
 | 10 | [HusseinBaraja](https://github.com/HusseinBaraja) | Hussein Ba Ragaa |  |  | Yemen | 2020 |
 | 11 | [Hamza-ye](https://github.com/Hamza-ye) | Hamza | NMCP |  | Yemen | 1819 |
 | 12 | [islamux](https://github.com/islamux) | Fathi Mohammed Saeed AlQadasi |  |  | Yemen | 1481 |
-| 13 | [ahmedalsanadi](https://github.com/ahmedalsanadi) | Ahmed Alsanadi | Open to New Opportunities |  | Yemen | 1291 |
-| 14 | [hishamco](https://github.com/hishamco) | Hisham Bin Ateya |  | hishambinateya | Yemen | 1277 |
-| 15 | [Alfrahi](https://github.com/Alfrahi) | Abdullah |  |  | Yemen | 1124 |
-| 16 | [716W](https://github.com/716W) | Ali Bin-Samida | Hadramout |  | Yemen | 916 |
-| 17 | [Hazem-Alyaari](https://github.com/Hazem-Alyaari) | Hazem Alyaari | DataTrans - Obeikan Digital Solution |  | sana'a  | 887 |
-| 18 | [yswef](https://github.com/yswef) | yswef alhmzy | @alphacode-ye  |  | yemen | 839 |
-| 19 | [hetari](https://github.com/hetari) | Ebraheem Alhetari | Temmam Light | hetaridev | Yemen | 707 |
-| 20 | [ENG-BXI](https://github.com/ENG-BXI) | Abdulrhman Muneer Khamees Al-Jaeeidi \| عبدالرحمن منير خميس الجعيدي | Self Employee |  | YEMEN | 694 |
+| 13 | [ahmedalbanna](https://github.com/ahmedalbanna) | Ahmed Al-Banna | Albanaa |  | Yemen | 1444 |
+| 14 | [ahmedalsanadi](https://github.com/ahmedalsanadi) | Ahmed Alsanadi | Open to New Opportunities |  | Yemen | 1291 |
+| 15 | [hishamco](https://github.com/hishamco) | Hisham Bin Ateya |  | hishambinateya | Yemen | 1277 |
+| 16 | [Alfrahi](https://github.com/Alfrahi) | Abdullah |  |  | Yemen | 1124 |
+| 17 | [716W](https://github.com/716W) | Ali Bin-Samida | Hadramout |  | Yemen | 916 |
+| 18 | [Hazem-Alyaari](https://github.com/Hazem-Alyaari) | Hazem Alyaari | DataTrans - Obeikan Digital Solution |  | sana'a  | 887 |
+| 19 | [yswef](https://github.com/yswef) | yswef alhmzy | @alphacode-ye  |  | yemen | 839 |
+| 20 | [hetari](https://github.com/hetari) | Ebraheem Alhetari | Temmam Light | hetaridev | Yemen | 707 |

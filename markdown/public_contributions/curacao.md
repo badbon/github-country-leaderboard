@@ -1,19 +1,19 @@
 # Public Contributions - Curaçao
 
-Generated: 2026-10-21T13:38:22.241Z
+Generated: 2026-10-21T15:17:50.810Z
 
 Users: 53
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [BalusC](https://github.com/BalusC) | Bauke Scholtz |  | OmniFaces | Willemstad, Curaçao | 3411 |
+| 1 | [BalusC](https://github.com/BalusC) | Bauke Scholtz |  | OmniFaces | Willemstad, Curaçao | 3416 |
 | 2 | [dwarfland](https://github.com/dwarfland) | marc hoffman | RemObjects Software | dwarfland | Curaçao | 502 |
 | 3 | [kloostermanw](https://github.com/kloostermanw) | Wiebe |  | wiebe1971 | Willemstad, Curaçao | 489 |
 | 4 | [JObersi10](https://github.com/JObersi10) |  | @Hack-Club-Curacao  |  | Willemstad, Curaçao | 487 |
 | 5 | [acesuares](https://github.com/acesuares) | Ace Suares | Suares & Co |  | Willemstad, Netherlands Antilles | 253 |
 | 6 | [weyert](https://github.com/weyert) | Weyert de Boer |  |  | London, Curaçao | 130 |
 | 7 | [theowlsden](https://github.com/theowlsden) | Shaquil Maria |  |  | Curaçao | 84 |
-| 8 | [flangfeldt](https://github.com/flangfeldt) | FΞLIX | @celery-payroll  |  | Willemstad, Curacao | 64 |
+| 8 | [flangfeldt](https://github.com/flangfeldt) | FΞLIX | @celery-payroll  |  | Willemstad, Curacao | 65 |
 | 9 | [angelrgonzalezg](https://github.com/angelrgonzalezg) | Angel R Gonzalez G | Artificial Intelligence Systems | angelrgonzalezg | Willemstad, Curacao | 45 |
 | 10 | [schroef](https://github.com/schroef) |  |  |  | Curaçao, Dutch Caribbean | 42 |
 | 11 | [bythealphabet](https://github.com/bythealphabet) | Isaac Lucas |  | bythealphabet1 | Willemstad, Curacao | 38 |

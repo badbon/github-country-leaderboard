@@ -1,12 +1,12 @@
 # Followers - Trinidad and Tobago
 
-Generated: 2026-10-21T13:12:53.352Z
+Generated: 2026-10-21T14:49:48.399Z
 
 Users: 256
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [Spartanlasergun](https://github.com/Spartanlasergun) | Narendra Singh |  |  | Trinidad and Tobago | 1598 |
+| 1 | [Spartanlasergun](https://github.com/Spartanlasergun) | Narendra Singh |  |  | Trinidad and Tobago | 1599 |
 | 2 | [rajeevratan84](https://github.com/rajeevratan84) | Rajeev Ratan | Darvis Inc, TTLab, Udemy, Packt,  Manning Publications |  | UK, Trinidad and Tobago | 194 |
 | 3 | [InzamamRahaman](https://github.com/InzamamRahaman) | Inzamam Rahaman | The University of the West Indies / Trinidad and Tobago Network Information Centre |  | Trinidad and Tobago | 118 |
 | 4 | [msanatan](https://github.com/msanatan) | Marcus Sanatan | @CoplayDev  | marcussanatan | Trinidad and Tobago | 100 |

@@ -68,7 +68,7 @@ Indexed users: 3,298
 | 4 | [LeomarisReyes](https://github.com/LeomarisReyes) | Leomaris Reyes | Dominican Republic | 565 |
 | 5 | [rmariuzzo](https://github.com/rmariuzzo) | Rubens Mariuzzo | Dominican Republic | 428 |
 | 6 | [juliourena](https://github.com/juliourena) | Julio Ureña | Dominican Republic | 313 |
-| 7 | [Topdev1234](https://github.com/Topdev1234) | Topdev | Dominican Republic | 309 |
+| 7 | [Topdev1234](https://github.com/Topdev1234) | Topdev | Dominican Republic | 308 |
 | 8 | [Char0394](https://github.com/Char0394) | Charlin Agramonte | Dominican Republic  | 275 |
 | 9 | [DannyFeliz](https://github.com/DannyFeliz) | Danny Feliz | Santo Domingo, Dominican Republic | 263 |
 | 10 | [KevRojo](https://github.com/KevRojo) | Kevin Rojo | Dominican Republic | 227 |
@@ -83,4 +83,4 @@ Indexed users: 3,298
 | 19 | [eatskolnikov](https://github.com/eatskolnikov) | Enmanuel Toribio | Dominican Republic | 147 |
 | 20 | [RaymondCoplin](https://github.com/RaymondCoplin) | Raymond Coplin | Dominican Republic, Santo Domingo | 120 |
 
-Generated: 2026-10-21T13:41:03.051Z
+Generated: 2026-10-21T15:20:49.074Z

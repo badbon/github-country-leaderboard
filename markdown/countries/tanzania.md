@@ -67,7 +67,7 @@ Indexed users: 2,038
 | 3 | [lykmapipo](https://github.com/lykmapipo) | lally elias | Dar es salaam, Tanzania | 1,118 |
 | 4 | [karimshaban01](https://github.com/karimshaban01) | Karim S. Haruna | ARUSHA, TANZANIA | 1,065 |
 | 5 | [avict18](https://github.com/avict18) | Aaron Vic | Tanzania | 1,030 |
-| 6 | [Kalebu](https://github.com/Kalebu) | Jordan Kalebu | Dar es Salaam , Tanzania | 955 |
+| 6 | [Kalebu](https://github.com/Kalebu) | Jordan Kalebu | Dar es Salaam , Tanzania | 958 |
 | 7 | [isaka-james](https://github.com/isaka-james) | masterplan | Dodoma, Tanzania | 554 |
 | 8 | [gernest](https://github.com/gernest) | Geofrey Ernest | Arusha, Tanzania | 409 |
 | 9 | [tarxemo](https://github.com/tarxemo) | TarXemo | Dodoma-Tanzania | 406 |
@@ -83,4 +83,4 @@ Indexed users: 2,038
 | 19 | [3nock](https://github.com/3nock) | Enock | Dar es Salaam, Tanzania | 187 |
 | 20 | [Mrhanstz](https://github.com/Mrhanstz) | HANSTZ | Africa Dodoma | 179 |
 
-Generated: 2026-10-21T13:10:39.183Z
+Generated: 2026-10-21T14:48:25.363Z

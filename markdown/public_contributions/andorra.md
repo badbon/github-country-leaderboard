@@ -1,6 +1,6 @@
 # Public Contributions - Andorra
 
-Generated: 2026-10-21T13:22:32.707Z
+Generated: 2026-10-21T15:00:17.236Z
 
 Users: 215
 
@@ -11,7 +11,7 @@ Users: 215
 | 3 | [acastellana](https://github.com/acastellana) | Albert Castellana | @yeagerai | kstellana | Andorra | 1469 |
 | 4 | [Danziger](https://github.com/Danziger) | Dani Gámez Franco | @cowprotocol, @wanderwallet | gmzcodes | Andorra | 794 |
 | 5 | [Estemobs](https://github.com/Estemobs) | estemobs | Domaine de Casinus |  | Andorra | 769 |
-| 6 | [l3wi](https://github.com/l3wi) | Lewis Freiberg |  | lewifree | Andorra | 700 |
+| 6 | [l3wi](https://github.com/l3wi) | Lewis Freiberg |  | lewifree | Andorra | 701 |
 | 7 | [tombrewsviews](https://github.com/tombrewsviews) | Tom Parandyk | Altramanera |  | Andorra | 700 |
 | 8 | [iuriaranda](https://github.com/iuriaranda) | iuri | @giantswarm |  | Andorra | 677 |
 | 9 | [imnotquasar](https://github.com/imnotquasar) | ImNotQuasar | Quasar Store |  | Andorra, Principality of Andorra | 614 |

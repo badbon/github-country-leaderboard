@@ -23,15 +23,15 @@ Indexed users: 19,296
 | 9 | [lassestilvang](https://github.com/lassestilvang) | Lasse Stilvang | Copenhagen, Denmark | 18,851 |
 | 10 | [mbrummerstedt](https://github.com/mbrummerstedt) | Martin Brummerstedt | Copenhagen, Denmark | 17,203 |
 | 11 | [TanvirAlam](https://github.com/TanvirAlam) | Tanvir Alam | Denmark | 16,334 |
-| 12 | [trenskow](https://github.com/trenskow) | Kristian Trenskow | Aarhus, Denmark | 15,978 |
-| 13 | [LayZeeDK](https://github.com/LayZeeDK) | Lars Gyrup Brink Nielsen | Holstebro, Denmark | 15,540 |
-| 14 | [devantler](https://github.com/devantler) | Nikolai Emil Damm | Denmark | 15,097 |
-| 15 | [EpochBoy](https://github.com/EpochBoy) | EpochBoy | Copenhagen | 14,885 |
-| 16 | [sylvesterdamgaard](https://github.com/sylvesterdamgaard) | Sylvester Damgaard | Denmark | 14,434 |
-| 17 | [kimdv](https://github.com/kimdv) | Kim de Vos | Aarhus, Denmark  | 13,968 |
-| 18 | [atiti](https://github.com/atiti) | Attila Sukosd | Copenhagen, Denmark | 13,262 |
-| 19 | [luxass](https://github.com/luxass) | Lucas Nørgård | Aarhus, Denmark | 12,712 |
-| 20 | [holgarsson](https://github.com/holgarsson) | Rói Holgarsson | Copenhagen, Denmark | 12,638 |
+| 12 | [miccidk](https://github.com/miccidk) | Michael Andersen | Vejle, Danmark | 16,012 |
+| 13 | [trenskow](https://github.com/trenskow) | Kristian Trenskow | Aarhus, Denmark | 15,978 |
+| 14 | [LayZeeDK](https://github.com/LayZeeDK) | Lars Gyrup Brink Nielsen | Holstebro, Denmark | 15,540 |
+| 15 | [devantler](https://github.com/devantler) | Nikolai Emil Damm | Denmark | 15,097 |
+| 16 | [EpochBoy](https://github.com/EpochBoy) | EpochBoy | Copenhagen | 14,885 |
+| 17 | [sylvesterdamgaard](https://github.com/sylvesterdamgaard) | Sylvester Damgaard | Denmark | 14,434 |
+| 18 | [kimdv](https://github.com/kimdv) | Kim de Vos | Aarhus, Denmark  | 13,968 |
+| 19 | [atiti](https://github.com/atiti) | Attila Sukosd | Copenhagen, Denmark | 13,262 |
+| 20 | [luxass](https://github.com/luxass) | Lucas Nørgård | Aarhus, Denmark | 12,712 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 19,296
 | 19 | [ThomasVitale](https://github.com/ThomasVitale) | Thomas Vitale | Denmark | 1,273 |
 | 20 | [mit-mit](https://github.com/mit-mit) | Michael Thomsen | Aarhus, Denmark | 1,198 |
 
-Generated: 2026-10-21T13:39:36.023Z
+Generated: 2026-10-21T15:19:18.171Z

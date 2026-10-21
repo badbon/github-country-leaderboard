@@ -24,7 +24,7 @@ Indexed users: 1,795
 | 10 | [ln-dev7](https://github.com/ln-dev7) | LN | Cameroon | 8,187 |
 | 11 | [zenderock](https://github.com/zenderock) | Emmanuel Zenderock | Cameroon | 7,985 |
 | 12 | [elroykanye](https://github.com/elroykanye) | Elroy Kimbi | Yaoundé, Cameroon | 7,877 |
-| 13 | [leonelngande](https://github.com/leonelngande) | Leonel Elimpe | Buea, Cameroon | 7,257 |
+| 13 | [leonelngande](https://github.com/leonelngande) | Leonel Elimpe | Buea, Cameroon | 7,534 |
 | 14 | [Martin-Luther](https://github.com/Martin-Luther) | Martin Luther ETOUMAN NDAMBWE | Douala / Cameroon | 6,398 |
 | 15 | [OkonoWil](https://github.com/OkonoWil) | Okono Wilfried | Douala,Cameroon | 6,342 |
 | 16 | [psycho237-prog](https://github.com/psycho237-prog) | ONANA GREGOIRE LEGRAND  | Cameroon | 6,340 |
@@ -83,4 +83,4 @@ Indexed users: 1,795
 | 19 | [baimamboukar](https://github.com/baimamboukar) | BAIMAM BOUKAR JEAN JACQUES | Yaoundé | 170 |
 | 20 | [Suprememajor](https://github.com/Suprememajor) | Nobert Etta | Buea, Cameroon | 168 |
 
-Generated: 2026-10-21T13:34:26.243Z
+Generated: 2026-10-21T15:11:12.839Z

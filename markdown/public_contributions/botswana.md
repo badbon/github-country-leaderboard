@@ -1,13 +1,13 @@
 # Public Contributions - Botswana
 
-Generated: 2026-10-21T13:31:17.765Z
+Generated: 2026-10-21T15:09:19.052Z
 
 Users: 533
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [rasali535](https://github.com/rasali535) | Alpheaus Chiwaze | Ras Ali Labs  |  | Botswana, Gaborone | 2915 |
-| 2 | [BakangMonei](https://github.com/BakangMonei) | Monei Bakang | @SwiftIQ  | MoneiBakang | Gaborone, Botswana | 1380 |
+| 2 | [BakangMonei](https://github.com/BakangMonei) | Monei Bakang | @SwiftIQ  | MoneiBakang | Gaborone, Botswana | 1376 |
 | 3 | [mwmiller](https://github.com/mwmiller) | Matt Miller |  |  | Gaborone, Botswana | 1293 |
 | 4 | [darula-hpp](https://github.com/darula-hpp) | Olebogeng Mbedzi | Gitwork |  | Gaborone | 1197 |
 | 5 | [Todd366](https://github.com/Todd366) | BSTM Ecosystem  | Bstm |  | Botswana 🇧🇼  | 1055 |
@@ -18,7 +18,7 @@ Users: 533
 | 10 | [Scheke](https://github.com/Scheke) | Boipuso Rante | Scheke Innovationhub |  | Botswana | 564 |
 | 11 | [loag0](https://github.com/loag0) | Loago Moremi |  |  | Botswana | 562 |
 | 12 | [Sesame-alpha](https://github.com/Sesame-alpha) | SESAME DITHUPA |  |  | Botswana 🇧🇼  | 545 |
-| 13 | [Cse21-034](https://github.com/Cse21-034) | leatile mosimanyana | Fountspark pty ltd |  | Gaborone | 521 |
+| 13 | [Cse21-034](https://github.com/Cse21-034) | leatile mosimanyana | Fountspark pty ltd |  | Gaborone | 519 |
 | 14 | [bChandrax](https://github.com/bChandrax) | Karabo Machanja | Botswana International University of Science and Technology |  | Botswana | 442 |
 | 15 | [justindotdevv](https://github.com/justindotdevv) | justin | University of Botswana | justindotdev | Gaborone, Botswana | 429 |
 | 16 | [mulaxprime](https://github.com/mulaxprime) | Mulax Prime |  | RomeobwIII | Gaborone, Botswana | 345 |

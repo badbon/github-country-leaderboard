@@ -20,7 +20,7 @@ Indexed users: 1,489
 | 6 | [amiriqbalkhan123](https://github.com/amiriqbalkhan123) | Iqbal Nabizada | Afghanistan | 16,893 |
 | 7 | [M-Anwar-Hussaini](https://github.com/M-Anwar-Hussaini) | Anwar Hussaini | Kabul, Afghanistan | 14,712 |
 | 8 | [zamirsed](https://github.com/zamirsed) | zamir sediqi  | Afghanistan | 10,288 |
-| 9 | [danishyarkhwork](https://github.com/danishyarkhwork) | Khalid Danishyar | Kabul, Afghanistan | 9,591 |
+| 9 | [danishyarkhwork](https://github.com/danishyarkhwork) | Khalid Danishyar | Kabul, Afghanistan | 9,433 |
 | 10 | [Ali-Aref](https://github.com/Ali-Aref) | Ali Aref | Kabul Afghanistan | 7,605 |
 | 11 | [Nasratullah-Shafiq](https://github.com/Nasratullah-Shafiq) | Nasratullah Shafiq | Afghanistan | 7,449 |
 | 12 | [Mustafa-Zahedi](https://github.com/Mustafa-Zahedi) | Mustafa Zahedi | Herat, Afghanistan | 6,684 |
@@ -69,18 +69,18 @@ Indexed users: 1,489
 | 5 | [YaserZarifi](https://github.com/YaserZarifi) | Yaser Zarifi | Kabul | 299 |
 | 6 | [jaweid123](https://github.com/jaweid123) | Jaweid Moraadi | Kabul province  | 286 |
 | 7 | [MasihMuhammadi](https://github.com/MasihMuhammadi) | MasihullahMuhammadi | Kabul, Afghanistan | 243 |
-| 8 | [AmanAyoub](https://github.com/AmanAyoub) | Aman Ayoub | Afghanistan | 222 |
+| 8 | [AmanAyoub](https://github.com/AmanAyoub) | Aman Ayoub | Afghanistan | 220 |
 | 9 | [MastooraTurkmen](https://github.com/MastooraTurkmen) | Mastoora Turkmen | Kabul, Afghanistan | 217 |
 | 10 | [SarwarEbrahimi01](https://github.com/SarwarEbrahimi01) | Sarwar Ebrahimi  | Kabul , Afghanistan  | 187 |
 | 11 | [khalidafghanmal](https://github.com/khalidafghanmal) | khalid afghanmal | Afghanistan | 166 |
 | 12 | [WajihaNiazi](https://github.com/WajihaNiazi) | Wajiha Niazi | Herat,Afghanistan | 156 |
 | 13 | [starkbaknet](https://github.com/starkbaknet) | StarkBak | Kabul, Afghanistan | 147 |
 | 14 | [ab-noori](https://github.com/ab-noori) | Abdulali Noori | Afghanistan | 145 |
-| 15 | [MashalSarwari](https://github.com/MashalSarwari) | Mohammad Mashal Sarwari | Afghanistan | 145 |
+| 15 | [MashalSarwari](https://github.com/MashalSarwari) | Mohammad Mashal Sarwari | Afghanistan | 143 |
 | 16 | [SaeqaSultani](https://github.com/SaeqaSultani) | Saeqa Sultani | Afghanistan | 130 |
 | 17 | [shayanheidari01](https://github.com/shayanheidari01) | Shayan Heidari | Afghanistan/Kabul | 129 |
 | 18 | [yasinnoori](https://github.com/yasinnoori) | Mohammad Yasin Noori | Kabul, Afghanistan | 129 |
 | 19 | [zainabturkmen](https://github.com/zainabturkmen) | Zainab Turkmen | Kabul  | 124 |
 | 20 | [NaveedAhmadHematmal](https://github.com/NaveedAhmadHematmal) | Naveed Ahmad Hematmal | Afghanistan | 117 |
 
-Generated: 2026-10-21T13:20:41.114Z
+Generated: 2026-10-21T14:59:25.318Z

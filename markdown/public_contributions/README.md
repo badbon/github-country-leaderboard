@@ -24,7 +24,7 @@ Published countries: 234
 | Bangladesh | 55,312 | [View](./bangladesh.md) |
 | Barbados | 132 | [View](./barbados.md) |
 | Belarus | 10,925 | [View](./belarus.md) |
-| Belgium | 18,375 | [View](./belgium.md) |
+| Belgium | 18,374 | [View](./belgium.md) |
 | Belize | 94 | [View](./belize.md) |
 | Benin | 471 | [View](./benin.md) |
 | Bermuda | 898 | [View](./bermuda.md) |
@@ -53,7 +53,7 @@ Published countries: 234
 | Comoros | 11 | [View](./comoros.md) |
 | Cook Islands | 7 | [View](./cook_islands.md) |
 | Costa Rica | 5,624 | [View](./costa_rica.md) |
-| Croatia | 5,420 | [View](./croatia.md) |
+| Croatia | 5,418 | [View](./croatia.md) |
 | Cuba | 1,273 | [View](./cuba.md) |
 | Curaçao | 53 | [View](./curacao.md) |
 | Cyprus | 2,721 | [View](./cyprus.md) |
@@ -64,7 +64,7 @@ Published countries: 234
 | Dominican Republic | 3,298 | [View](./dominican_republic.md) |
 | DR Congo | 701 | [View](./dr_congo.md) |
 | Ecuador | 4,876 | [View](./ecuador.md) |
-| Egypt | 34,086 | [View](./egypt.md) |
+| Egypt | 34,084 | [View](./egypt.md) |
 | El Salvador | 2,378 | [View](./el_salvador.md) |
 | Equatorial Guinea | 21 | [View](./equatorial_guinea.md) |
 | Eritrea | 17 | [View](./eritrea.md) |
@@ -99,7 +99,7 @@ Published countries: 234
 | Hong Kong | 10,252 | [View](./hong_kong.md) |
 | Hungary | 11,162 | [View](./hungary.md) |
 | Iceland | 1,579 | [View](./iceland.md) |
-| Indonesia | 63,274 | [View](./indonesia.md) |
+| Indonesia | 63,279 | [View](./indonesia.md) |
 | Iran | 26,857 | [View](./iran.md) |
 | Iraq | 2,231 | [View](./iraq.md) |
 | Ireland | 19,488 | [View](./ireland.md) |
@@ -239,4 +239,4 @@ Published countries: 234
 | Zambia | 1,336 | [View](./zambia.md) |
 | Zimbabwe | 1,656 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-21T14:47:27.169Z
+Generated: 2026-10-21T15:23:26.330Z

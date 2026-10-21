@@ -1,6 +1,6 @@
 # Total Contributions - Denmark
 
-Generated: 2026-10-21T13:39:36.023Z
+Generated: 2026-10-21T15:19:18.171Z
 
 Users: 19296
 
@@ -17,12 +17,12 @@ Users: 19296
 | 9 | [lassestilvang](https://github.com/lassestilvang) | Lasse Stilvang |  | lassestilvang | Copenhagen, Denmark | 18851 |
 | 10 | [mbrummerstedt](https://github.com/mbrummerstedt) | Martin Brummerstedt | @miinto  |  | Copenhagen, Denmark | 17203 |
 | 11 | [TanvirAlam](https://github.com/TanvirAlam) | Tanvir Alam | Xiia |  | Denmark | 16334 |
-| 12 | [trenskow](https://github.com/trenskow) | Kristian Trenskow | Freelance | trenskow | Aarhus, Denmark | 15978 |
-| 13 | [LayZeeDK](https://github.com/LayZeeDK) | Lars Gyrup Brink Nielsen | @this-is-learning |  | Holstebro, Denmark | 15540 |
-| 14 | [devantler](https://github.com/devantler) | Nikolai Emil Damm | TV2 |  | Denmark | 15097 |
-| 15 | [EpochBoy](https://github.com/EpochBoy) | EpochBoy | Epoch Engineering |  | Copenhagen | 14885 |
-| 16 | [sylvesterdamgaard](https://github.com/sylvesterdamgaard) | Sylvester Damgaard | @Geocodio @cboxdk  | cboxdk | Denmark | 14434 |
-| 17 | [kimdv](https://github.com/kimdv) | Kim de Vos | @vippsas  | kimdv | Aarhus, Denmark  | 13968 |
-| 18 | [atiti](https://github.com/atiti) | Attila Sukosd | AIRTAME ApS |  | Copenhagen, Denmark | 13262 |
-| 19 | [luxass](https://github.com/luxass) | Lucas Nørgård | @KvalitetsIT | ssaxul | Aarhus, Denmark | 12712 |
-| 20 | [holgarsson](https://github.com/holgarsson) | Rói Holgarsson | Holgarsson Consulting |  | Copenhagen, Denmark | 12638 |
+| 12 | [miccidk](https://github.com/miccidk) | Michael Andersen | MICCI |  | Vejle, Danmark | 16012 |
+| 13 | [trenskow](https://github.com/trenskow) | Kristian Trenskow | Freelance | trenskow | Aarhus, Denmark | 15978 |
+| 14 | [LayZeeDK](https://github.com/LayZeeDK) | Lars Gyrup Brink Nielsen | @this-is-learning |  | Holstebro, Denmark | 15540 |
+| 15 | [devantler](https://github.com/devantler) | Nikolai Emil Damm | TV2 |  | Denmark | 15097 |
+| 16 | [EpochBoy](https://github.com/EpochBoy) | EpochBoy | Epoch Engineering |  | Copenhagen | 14885 |
+| 17 | [sylvesterdamgaard](https://github.com/sylvesterdamgaard) | Sylvester Damgaard | @Geocodio @cboxdk  | cboxdk | Denmark | 14434 |
+| 18 | [kimdv](https://github.com/kimdv) | Kim de Vos | @vippsas  | kimdv | Aarhus, Denmark  | 13968 |
+| 19 | [atiti](https://github.com/atiti) | Attila Sukosd | AIRTAME ApS |  | Copenhagen, Denmark | 13262 |
+| 20 | [luxass](https://github.com/luxass) | Lucas Nørgård | @KvalitetsIT | ssaxul | Aarhus, Denmark | 12712 |

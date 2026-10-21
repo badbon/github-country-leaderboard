@@ -1,6 +1,6 @@
 # Followers - Afghanistan
 
-Generated: 2026-10-21T13:20:41.114Z
+Generated: 2026-10-21T14:59:25.318Z
 
 Users: 1489
 
@@ -13,14 +13,14 @@ Users: 1489
 | 5 | [YaserZarifi](https://github.com/YaserZarifi) | Yaser Zarifi | SharifiNeya Travel Services |  | Kabul | 299 |
 | 6 | [jaweid123](https://github.com/jaweid123) | Jaweid Moraadi |  |  | Kabul province  | 286 |
 | 7 | [MasihMuhammadi](https://github.com/MasihMuhammadi) | MasihullahMuhammadi | AseelApp, Industry Umbrella | Masih_202 | Kabul, Afghanistan | 243 |
-| 8 | [AmanAyoub](https://github.com/AmanAyoub) | Aman Ayoub |  |  | Afghanistan | 222 |
+| 8 | [AmanAyoub](https://github.com/AmanAyoub) | Aman Ayoub |  |  | Afghanistan | 220 |
 | 9 | [MastooraTurkmen](https://github.com/MastooraTurkmen) | Mastoora Turkmen | Clearoute Inc | MastooraJ22 | Kabul, Afghanistan | 217 |
 | 10 | [SarwarEbrahimi01](https://github.com/SarwarEbrahimi01) | Sarwar Ebrahimi  | Kabul University  | sarwar_ebrahimi | Kabul , Afghanistan  | 187 |
 | 11 | [khalidafghanmal](https://github.com/khalidafghanmal) | khalid afghanmal | Smart City Solution ICT |  | Afghanistan | 166 |
 | 12 | [WajihaNiazi](https://github.com/WajihaNiazi) | Wajiha Niazi | CodeToInspire | Wajiha_Niazi | Herat,Afghanistan | 156 |
 | 13 | [starkbaknet](https://github.com/starkbaknet) | StarkBak |  |  | Kabul, Afghanistan | 147 |
 | 14 | [ab-noori](https://github.com/ab-noori) | Abdulali Noori | AAK Tele Science |  | Afghanistan | 145 |
-| 15 | [MashalSarwari](https://github.com/MashalSarwari) | Mohammad Mashal Sarwari |  |  | Afghanistan | 145 |
+| 15 | [MashalSarwari](https://github.com/MashalSarwari) | Mohammad Mashal Sarwari |  |  | Afghanistan | 143 |
 | 16 | [SaeqaSultani](https://github.com/SaeqaSultani) | Saeqa Sultani | WASSA |  | Afghanistan | 130 |
 | 17 | [shayanheidari01](https://github.com/shayanheidari01) | Shayan Heidari | Progrology |  | Afghanistan/Kabul | 129 |
 | 18 | [yasinnoori](https://github.com/yasinnoori) | Mohammad Yasin Noori | Senior Full Stack Software Engineer | yasinnoori_dev | Kabul, Afghanistan | 129 |

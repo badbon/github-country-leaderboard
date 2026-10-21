@@ -48,7 +48,7 @@ Indexed users: 486
 | 9 | [Gbangou](https://github.com/Gbangou) | Pascal GBANGOU | Ouagadougou, Burkina Faso | 754 |
 | 10 | [Solangeilinga](https://github.com/Solangeilinga) | ILINGA Solange | Casablanca - Ouagadougou | 634 |
 | 11 | [YaogoGerard](https://github.com/YaogoGerard) | Gérard Windpagnangdé YAOGO | Burkina Faso | 629 |
-| 12 | [kiswend](https://github.com/kiswend) | Nathan K. DELMA | Burkina Faso | 622 |
+| 12 | [kiswend](https://github.com/kiswend) | Nathan K. DELMA | Burkina Faso | 624 |
 | 13 | [gangosimeon](https://github.com/gangosimeon) | GANGO Siméon | Ouagadougou | 584 |
 | 14 | [serge-eric-kalaga](https://github.com/serge-eric-kalaga) | KALAGA Serge Eric | Ouagadougou, Burkina Faso 🇧🇫 | 565 |
 | 15 | [danielschillem](https://github.com/danielschillem) | Daniel Schillem KARAMBIRI | Burkina Faso | 539 |
@@ -83,4 +83,4 @@ Indexed users: 486
 | 19 | [sokevinjonas](https://github.com/sokevinjonas) | SO Kevin Jonas Gningnabe | BURKINA FASO | 38 |
 | 20 | [kulturman](https://github.com/kulturman) | Arnaud Bakyono  | Ouagadougou | 36 |
 
-Generated: 2026-10-21T13:33:44.783Z
+Generated: 2026-10-21T15:10:57.344Z

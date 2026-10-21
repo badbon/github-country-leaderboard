@@ -1,6 +1,6 @@
 # Followers - Dominican Republic
 
-Generated: 2026-10-21T13:41:03.051Z
+Generated: 2026-10-21T15:20:49.074Z
 
 Users: 3298
 
@@ -12,7 +12,7 @@ Users: 3298
 | 4 | [LeomarisReyes](https://github.com/LeomarisReyes) | Leomaris Reyes | Stemelle | LeomarisReyes11 | Dominican Republic | 565 |
 | 5 | [rmariuzzo](https://github.com/rmariuzzo) | Rubens Mariuzzo | @x-team  |  | Dominican Republic | 428 |
 | 6 | [juliourena](https://github.com/juliourena) | Julio Ureña |  | JulioUrena | Dominican Republic | 313 |
-| 7 | [Topdev1234](https://github.com/Topdev1234) | Topdev | Dev Protocol |  | Dominican Republic | 309 |
+| 7 | [Topdev1234](https://github.com/Topdev1234) | Topdev | Dev Protocol |  | Dominican Republic | 308 |
 | 8 | [Char0394](https://github.com/Char0394) | Charlin Agramonte | @CrossGeeks  | Chard003 | Dominican Republic  | 275 |
 | 9 | [DannyFeliz](https://github.com/DannyFeliz) | Danny Feliz |  | dannyfeliz08 | Santo Domingo, Dominican Republic | 263 |
 | 10 | [KevRojo](https://github.com/KevRojo) | Kevin Rojo | Dulus AI | kevrojox | Dominican Republic | 227 |
