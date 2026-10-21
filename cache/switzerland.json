@@ -39738,9 +39738,9 @@
     "location": "Baden, Switzerland",
     "company": "ETH Zürich",
     "twitterUsername": "Fynnyx_official",
-    "followers": 11,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 31,
     "createdAt": "2021-04-10T20:53:02Z"
   },
   {
@@ -39750,8 +39750,8 @@
     "location": "Switzerland",
     "company": "ETH Zurich",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 65,
+    "followers": 10,
+    "privateContributions": 66,
     "publicContributions": 19,
     "createdAt": "2021-03-07T12:01:24Z"
   },
@@ -39763,8 +39763,8 @@
     "company": "PSI, EPFL",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 789,
-    "publicContributions": 29,
+    "privateContributions": 525,
+    "publicContributions": 55,
     "createdAt": "2021-04-20T19:23:08Z"
   },
   {
@@ -39774,9 +39774,9 @@
     "location": "Lausanne, Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 102,
+    "publicContributions": 85,
     "createdAt": "2021-03-30T14:52:50Z"
   },
   {
@@ -39787,8 +39787,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 350,
-    "publicContributions": 1507,
+    "privateContributions": 312,
+    "publicContributions": 1716,
     "createdAt": "2021-06-13T15:04:15Z"
   },
   {
@@ -39800,7 +39800,7 @@
     "twitterUsername": "",
     "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 6,
     "createdAt": "2021-05-20T21:00:20Z"
   },
   {
@@ -39810,9 +39810,9 @@
     "location": "Switzerland",
     "company": "@NeverRestDev",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 93,
-    "publicContributions": 9,
+    "followers": 15,
+    "privateContributions": 99,
+    "publicContributions": 10,
     "createdAt": "2021-03-08T19:12:26Z"
   },
   {
@@ -39834,7 +39834,7 @@
     "location": "Zürich, Switzerland",
     "company": "Twio.tech",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 11,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-04-12T13:27:21Z"
@@ -39846,9 +39846,9 @@
     "location": "Lausanne, Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 65,
-    "publicContributions": 261,
+    "followers": 12,
+    "privateContributions": 64,
+    "publicContributions": 197,
     "createdAt": "2021-04-22T17:21:10Z"
   },
   {
@@ -39858,9 +39858,9 @@
     "location": "Geneva, Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 1,
     "createdAt": "2021-03-23T09:34:55Z"
   },
   {
@@ -39872,7 +39872,7 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 601,
+    "publicContributions": 617,
     "createdAt": "2021-05-16T16:50:04Z"
   },
   {
@@ -39884,7 +39884,7 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 62,
+    "publicContributions": 73,
     "createdAt": "2021-05-12T09:24:40Z"
   },
   {
@@ -39894,8 +39894,8 @@
     "location": "Lausanne, Switzerland",
     "company": "EPFL",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 2,
+    "followers": 12,
+    "privateContributions": 11,
     "publicContributions": 2,
     "createdAt": "2021-01-25T17:51:40Z"
   },
@@ -39906,22 +39906,10 @@
     "location": "Switzerland",
     "company": "ETML - ES, Lausanne",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 494,
-    "publicContributions": 491,
+    "followers": 11,
+    "privateContributions": 805,
+    "publicContributions": 546,
     "createdAt": "2021-06-27T20:25:29Z"
-  },
-  {
-    "login": "A1eeee",
-    "name": "Ale",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/79795100?s=72&u=d002d629b3befa7897ae77fd921d74101b5bb687&v=4",
-    "location": "Zürich, Switzerland",
-    "company": "PHZH",
-    "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 39,
-    "publicContributions": 2,
-    "createdAt": "2021-02-28T13:30:39Z"
   },
   {
     "login": "adambarla",
@@ -39931,8 +39919,8 @@
     "company": "@nexthink @epfl-dlab",
     "twitterUsername": "adambarla",
     "followers": 10,
-    "privateContributions": 970,
-    "publicContributions": 311,
+    "privateContributions": 1230,
+    "publicContributions": 318,
     "createdAt": "2021-02-16T11:22:25Z"
   },
   {
@@ -39954,9 +39942,9 @@
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 8,
-    "publicContributions": 5,
+    "followers": 11,
+    "privateContributions": 24,
+    "publicContributions": 35,
     "createdAt": "2021-01-24T10:42:15Z"
   },
   {
@@ -39967,8 +39955,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 184,
-    "publicContributions": 266,
+    "privateContributions": 153,
+    "publicContributions": 183,
     "createdAt": "2021-01-15T10:51:09Z"
   },
   {
