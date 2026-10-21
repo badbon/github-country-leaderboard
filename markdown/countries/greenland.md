@@ -12,8 +12,8 @@ Indexed users: 58
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [sgoggins](https://github.com/sgoggins) | Sean P. Goggins | Greenland | 3,937 |
-| 2 | [johan-ejstrud](https://github.com/johan-ejstrud) | Johan Ejstrud | Nuuk, Greenland | 1,797 |
+| 1 | [sgoggins](https://github.com/sgoggins) | Sean P. Goggins | Greenland | 3,940 |
+| 2 | [johan-ejstrud](https://github.com/johan-ejstrud) | Johan Ejstrud | Nuuk, Greenland | 1,804 |
 | 3 | [ProjectAtlantis-dev](https://github.com/ProjectAtlantis-dev) | hello kitty | Greenland | 1,377 |
 | 4 | [ASGDLO](https://github.com/ASGDLO) | ASGDLO | Greenland | 1,267 |
 | 5 | [filzehoka](https://github.com/filzehoka) | Filze | Greenland | 901 |
@@ -29,7 +29,7 @@ Indexed users: 58
 | 15 | [panyster](https://github.com/panyster) | Pany | Greenland | 121 |
 | 16 | [Mango-pomelo-sago](https://github.com/Mango-pomelo-sago) | Mango-pomelo-sago | Greenland | 79 |
 | 17 | [Naxela](https://github.com/Naxela) | Alexander Kleemann | Greenland | 67 |
-| 18 | [rokarolla](https://github.com/rokarolla) | Andrey E. | Station Nord, Greenland | 55 |
+| 18 | [rokarolla](https://github.com/rokarolla) | Andrey E. | Station Nord, Greenland | 65 |
 | 19 | [larpSTATGL](https://github.com/larpSTATGL) | Lars Pedersen | Nuuk, Greenland | 41 |
 | 20 | [johandavidsen](https://github.com/johandavidsen) | Jóhan Dam-Davidsen | Kalaallit Nunaat (Greenland) | 39 |
 
@@ -37,7 +37,7 @@ Indexed users: 58
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [sgoggins](https://github.com/sgoggins) | Sean P. Goggins | Greenland | 1,985 |
+| 1 | [sgoggins](https://github.com/sgoggins) | Sean P. Goggins | Greenland | 1,986 |
 | 2 | [ProjectAtlantis-dev](https://github.com/ProjectAtlantis-dev) | hello kitty | Greenland | 1,377 |
 | 3 | [filzehoka](https://github.com/filzehoka) | Filze | Greenland | 901 |
 | 4 | [ibdj](https://github.com/ibdj) | ibdj | Nuuk, Greenland | 700 |
@@ -83,4 +83,4 @@ Indexed users: 58
 | 19 | [DaniEstevezBarcia](https://github.com/DaniEstevezBarcia) | Daniel Estévez-Barcia | Greenland | 8 |
 | 20 | [polarstoat](https://github.com/polarstoat) | Polar stoat | Greenland | 6 |
 
-Generated: 2026-10-21T15:31:10.617Z
+Generated: 2026-10-21T17:06:59.833Z

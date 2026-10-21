@@ -28,10 +28,10 @@ Indexed users: 263
 | 14 | [Hayy-Balde](https://github.com/Hayy-Balde) | Mamadou Oury Baldé | Guinea | 1,270 |
 | 15 | [konatem-mk9](https://github.com/konatem-mk9) | KONATE Moussa | CONAKRY | 1,224 |
 | 16 | [DiabySoryIb](https://github.com/DiabySoryIb) | Ib Sory | Guinea | 1,153 |
-| 17 | [Salif50](https://github.com/Salif50) | Salif SUMA | République de Guinée | 763 |
+| 17 | [Salif50](https://github.com/Salif50) | Salif SUMA | République de Guinée | 846 |
 | 18 | [mrrootc](https://github.com/mrrootc) | Abdoulaye Camara | Guinea, Conakry | 654 |
 | 19 | [Zakui](https://github.com/Zakui) | Jules Thea | Guinea, Conakry | 581 |
-| 20 | [ftd6435](https://github.com/ftd6435) | Pathé PK Diallo | Guinea | 550 |
+| 20 | [hams94](https://github.com/hams94) | Hamidou Bah | Guinée, Conakry, GN | 532 |
 
 ## Public Contributions
 
@@ -39,7 +39,7 @@ Indexed users: 263
 |---:|---|---|---|---:|
 | 1 | [SouleymaneSy7](https://github.com/SouleymaneSy7) | Souleymane Sy | Guinée, Conakry | 2,237 |
 | 2 | [GYOM15](https://github.com/GYOM15) | Guy Olivier Millimouno | Guinea/Conakry | 933 |
-| 3 | [ftd6435](https://github.com/ftd6435) | Pathé PK Diallo | Guinea | 550 |
+| 3 | [ftd6435](https://github.com/ftd6435) | Pathé PK Diallo | Guinea | 513 |
 | 4 | [sitatec](https://github.com/sitatec) | Sita Bérété | Conakry, Guinea | 468 |
 | 5 | [DialloYoussef](https://github.com/DialloYoussef) | Youssouf | Guinée, Conakry, GN | 282 |
 | 6 | [Hayy-Balde](https://github.com/Hayy-Balde) | Mamadou Oury Baldé | Guinea | 252 |
@@ -83,4 +83,4 @@ Indexed users: 263
 | 19 | [fouzo09](https://github.com/fouzo09) | Mafouz DIALLO | Guinée, conakry | 13 |
 | 20 | [koulibalyamadou10](https://github.com/koulibalyamadou10) | Koulibaly | Conakry | 13 |
 
-Generated: 2026-10-21T15:32:38.341Z
+Generated: 2026-10-21T17:10:11.167Z

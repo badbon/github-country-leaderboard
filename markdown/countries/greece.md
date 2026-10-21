@@ -31,7 +31,7 @@ Indexed users: 15,534
 | 17 | [mariosknl](https://github.com/mariosknl) | Marios Kanellopoulos | Patras, Greece | 10,834 |
 | 18 | [GMetaxakis](https://github.com/GMetaxakis) | Georgios Metaxakis | Greece | 10,248 |
 | 19 | [kostis-codefresh](https://github.com/kostis-codefresh) | Kostis (Octopus Deploy) | Athens Greece | 9,257 |
-| 20 | [giannisp](https://github.com/giannisp) | Ioannis Poulakas | Greece | 9,094 |
+| 20 | [achilleas11](https://github.com/achilleas11) | Achilleas Karydis | Greece | 9,220 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 15,534
 | 19 | [EleftheriaBatsou](https://github.com/EleftheriaBatsou) | Eleftheria Batsou | Thessaloniki, Greece | 808 |
 | 20 | [chsakell](https://github.com/chsakell) | Christos Sakellarios | Athens, Greece | 762 |
 
-Generated: 2026-10-21T15:29:56.213Z
+Generated: 2026-10-21T17:06:24.465Z

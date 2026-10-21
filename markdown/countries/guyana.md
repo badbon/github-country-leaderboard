@@ -20,7 +20,7 @@ Indexed users: 187
 | 6 | [ktappdev](https://github.com/ktappdev) | Ken Andrew Taylor | Guyana | 4,098 |
 | 7 | [uberhacker](https://github.com/uberhacker) | Ed Reel | Georgetown, TX | 3,946 |
 | 8 | [pachev](https://github.com/pachev) | Pachev Joseph | Georgetown, TX | 3,924 |
-| 9 | [beckettharriman](https://github.com/beckettharriman) | Beckett Harriman | Georgetown, DC | 3,524 |
+| 9 | [beckettharriman](https://github.com/beckettharriman) | Beckett Harriman | Georgetown, DC | 3,538 |
 | 10 | [jonathansharman](https://github.com/jonathansharman) | Jonathan Sharman | Georgetown, DE | 3,306 |
 | 11 | [negz](https://github.com/negz) | Nic Cope | Georgetown, Seattle | 2,991 |
 | 12 | [JohnnyMcGee](https://github.com/JohnnyMcGee) | Johnny McGee | Georgetown, TX | 2,319 |
@@ -55,7 +55,7 @@ Indexed users: 187
 | 16 | [billydavis](https://github.com/billydavis) | Billy Davis | Georgetown, Texas | 301 |
 | 17 | [barnwell](https://github.com/barnwell) | Jason Barnwell | Guyana | 270 |
 | 18 | [adi-pr](https://github.com/adi-pr) | Aditya (Ruben) Prasad | Guyana | 267 |
-| 19 | [beckettharriman](https://github.com/beckettharriman) | Beckett Harriman | Georgetown, DC | 250 |
+| 19 | [beckettharriman](https://github.com/beckettharriman) | Beckett Harriman | Georgetown, DC | 260 |
 | 20 | [codedbychavez](https://github.com/codedbychavez) | Chavez Harris | Guyana | 249 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 187
 | 19 | [Alien-nick](https://github.com/Alien-nick) | Nicholas Seetaram | South America, Guyana, Georgetown | 22 |
 | 20 | [duncanfinney](https://github.com/duncanfinney) | Duncan Finney | Georgetown, CO | 22 |
 
-Generated: 2026-10-21T15:33:10.616Z
+Generated: 2026-10-21T17:10:17.630Z

@@ -1,6 +1,6 @@
 # Total Contributions - Greece
 
-Generated: 2026-10-21T15:29:56.213Z
+Generated: 2026-10-21T17:06:24.465Z
 
 Users: 15534
 
@@ -25,4 +25,4 @@ Users: 15534
 | 17 | [mariosknl](https://github.com/mariosknl) | Marios Kanellopoulos | Front End Developer | mariosknl | Patras, Greece | 10834 |
 | 18 | [GMetaxakis](https://github.com/GMetaxakis) | Georgios Metaxakis |  |  | Greece | 10248 |
 | 19 | [kostis-codefresh](https://github.com/kostis-codefresh) | Kostis (Octopus Deploy) | Octopus Deploy (ex. Codefresh) | codepipes | Athens Greece | 9257 |
-| 20 | [giannisp](https://github.com/giannisp) | Ioannis Poulakas |  |  | Greece | 9094 |
+| 20 | [achilleas11](https://github.com/achilleas11) | Achilleas Karydis | @rapidbounce  |  | Greece | 9220 |
