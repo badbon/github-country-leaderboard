@@ -41815,8 +41815,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 16,
-    "privateContributions": 84,
-    "publicContributions": 18,
+    "privateContributions": 91,
+    "publicContributions": 17,
     "createdAt": "2020-07-08T11:02:21Z"
   },
   {
@@ -41826,7 +41826,7 @@
     "location": "Denmark",
     "company": "",
     "twitterUsername": "",
-    "followers": 16,
+    "followers": 17,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2020-08-12T14:50:32Z"
@@ -41850,9 +41850,9 @@
     "location": "Denmark",
     "company": "CRT",
     "twitterUsername": "",
-    "followers": 16,
+    "followers": 15,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 2,
     "createdAt": "2020-05-21T18:19:04Z"
   },
   {
@@ -41863,8 +41863,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 16,
-    "privateContributions": 252,
-    "publicContributions": 58,
+    "privateContributions": 245,
+    "publicContributions": 46,
     "createdAt": "2020-02-01T11:35:41Z"
   },
   {
@@ -41874,9 +41874,9 @@
     "location": "Aarhus, Denmark",
     "company": "",
     "twitterUsername": "",
-    "followers": 16,
-    "privateContributions": 2281,
-    "publicContributions": 65,
+    "followers": 18,
+    "privateContributions": 2530,
+    "publicContributions": 200,
     "createdAt": "2020-05-07T14:39:12Z"
   },
   {
@@ -41886,9 +41886,9 @@
     "location": "Denmark",
     "company": "Aarhus University - Center for Quantitative Genetics and Genomics",
     "twitterUsername": "",
-    "followers": 15,
+    "followers": 17,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 3,
     "createdAt": "2020-04-10T16:37:06Z"
   },
   {
@@ -41898,9 +41898,9 @@
     "location": "Aarhus, Denmark",
     "company": "",
     "twitterUsername": "",
-    "followers": 15,
-    "privateContributions": 387,
-    "publicContributions": 808,
+    "followers": 16,
+    "privateContributions": 321,
+    "publicContributions": 650,
     "createdAt": "2020-11-01T21:29:09Z"
   },
   {
@@ -41948,7 +41948,7 @@
     "twitterUsername": "",
     "followers": 14,
     "privateContributions": 1,
-    "publicContributions": 26,
+    "publicContributions": 18,
     "createdAt": "2020-01-27T07:39:03Z"
   },
   {
@@ -41971,8 +41971,8 @@
     "company": "Groovy Gecko",
     "twitterUsername": "",
     "followers": 14,
-    "privateContributions": 293,
-    "publicContributions": 277,
+    "privateContributions": 313,
+    "publicContributions": 264,
     "createdAt": "2020-09-23T07:13:49Z"
   },
   {
@@ -41994,9 +41994,9 @@
     "location": "Copenhagen, Denmark",
     "company": "",
     "twitterUsername": "",
-    "followers": 14,
-    "privateContributions": 3150,
-    "publicContributions": 64,
+    "followers": 13,
+    "privateContributions": 3299,
+    "publicContributions": 59,
     "createdAt": "2020-10-25T17:25:22Z"
   },
   {
@@ -42006,7 +42006,7 @@
     "location": "Denmark",
     "company": "",
     "twitterUsername": "",
-    "followers": 14,
+    "followers": 12,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2020-06-17T10:15:31Z"
@@ -42016,10 +42016,10 @@
     "name": "Viktor Platz",
     "avatarUrl": "https://avatars.githubusercontent.com/u/62332353?s=72&u=6189bbf20d5d428f5684fd4a5a97132158287e0f&v=4",
     "location": "Denmark",
-    "company": "",
+    "company": "Context&",
     "twitterUsername": "",
-    "followers": 14,
-    "privateContributions": 501,
+    "followers": 16,
+    "privateContributions": 552,
     "publicContributions": 0,
     "createdAt": "2020-03-18T09:57:44Z"
   },
@@ -42030,21 +42030,21 @@
     "location": "Copenhagen, Denmark",
     "company": "Nationalmuseet",
     "twitterUsername": "",
-    "followers": 14,
-    "privateContributions": 257,
+    "followers": 15,
+    "privateContributions": 241,
     "publicContributions": 0,
     "createdAt": "2020-03-15T12:34:27Z"
   },
   {
     "login": "MinaAlmasi",
     "name": "Mina Almasi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/71491570?s=72&u=a759c0259a6d883c994a75ef3b545260fdb0288a&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/71491570?s=72&u=8f86166bb57f1a08faf8c10138358e0723570fb3&v=4",
     "location": "Denmark",
     "company": "@interact-llm & @TEXT-AU",
     "twitterUsername": "",
-    "followers": 14,
+    "followers": 17,
     "privateContributions": 0,
-    "publicContributions": 713,
+    "publicContributions": 645,
     "createdAt": "2020-09-18T08:35:52Z"
   },
   {

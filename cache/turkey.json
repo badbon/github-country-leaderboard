@@ -41251,8 +41251,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 17,
-    "publicContributions": 17,
+    "privateContributions": 10,
+    "publicContributions": 15,
     "createdAt": "2024-02-22T16:16:05Z"
   },
   {
@@ -41262,9 +41262,9 @@
     "location": "Eskişehir/Turkey",
     "company": "Eskisehir Osmangazi University",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 51,
+    "publicContributions": 96,
     "createdAt": "2024-03-28T14:01:43Z"
   },
   {
@@ -41274,9 +41274,9 @@
     "location": "Denizli/Turkey",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 102,
-    "publicContributions": 23,
+    "followers": 10,
+    "privateContributions": 126,
+    "publicContributions": 5,
     "createdAt": "2024-04-15T08:55:44Z"
   },
   {
@@ -41288,7 +41288,7 @@
     "twitterUsername": "",
     "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 36,
+    "publicContributions": 34,
     "createdAt": "2024-02-06T11:52:10Z"
   },
   {
@@ -41298,22 +41298,10 @@
     "location": "Istanbul, Turkey",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 1021,
-    "publicContributions": 334,
+    "followers": 10,
+    "privateContributions": 1584,
+    "publicContributions": 126,
     "createdAt": "2024-02-14T11:41:41Z"
-  },
-  {
-    "login": "egbilgin",
-    "name": "Esma Gülsüm BİLGİN",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/168185397?s=72&u=99edfb4e773d756cc08fd184bb1087be20fff2bd&v=4",
-    "location": "Sakarya, Turkey.",
-    "company": "Sakarya University",
-    "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 0,
-    "publicContributions": 66,
-    "createdAt": "2024-04-26T10:31:00Z"
   },
   {
     "login": "CumaKaradash",
@@ -41323,8 +41311,8 @@
     "company": "Nonefiles Studio",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 137,
-    "publicContributions": 91,
+    "privateContributions": 209,
+    "publicContributions": 75,
     "createdAt": "2024-04-07T08:51:54Z"
   },
   {
@@ -41334,9 +41322,9 @@
     "location": "Turkey / İzmir",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 14,
     "privateContributions": 10,
-    "publicContributions": 171,
+    "publicContributions": 214,
     "createdAt": "2024-06-03T10:31:56Z"
   },
   {
@@ -41346,9 +41334,9 @@
     "location": "Turkey",
     "company": "eBrandValue",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 261,
-    "publicContributions": 1208,
+    "followers": 13,
+    "privateContributions": 753,
+    "publicContributions": 877,
     "createdAt": "2024-01-15T18:56:58Z"
   },
   {
@@ -41360,7 +41348,7 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 65,
     "createdAt": "2024-02-27T11:08:34Z"
   },
   {
@@ -41370,9 +41358,9 @@
     "location": "Turkey",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 33,
-    "publicContributions": 59,
+    "followers": 9,
+    "privateContributions": 256,
+    "publicContributions": 53,
     "createdAt": "2024-03-18T15:13:33Z"
   },
   {
@@ -41382,9 +41370,9 @@
     "location": "Ankara, Turkey",
     "company": "OZY Grup",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 2,
     "createdAt": "2024-01-02T14:08:46Z"
   },
   {
@@ -41394,9 +41382,9 @@
     "location": "Istanbul, Turkey",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 11,
     "privateContributions": 148,
-    "publicContributions": 293,
+    "publicContributions": 317,
     "createdAt": "2024-04-27T07:35:08Z"
   },
   {
@@ -41406,9 +41394,9 @@
     "location": "Turkey",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 0,
-    "publicContributions": 216,
+    "followers": 11,
+    "privateContributions": 5,
+    "publicContributions": 229,
     "createdAt": "2024-04-07T15:41:47Z"
   },
   {
@@ -41418,9 +41406,9 @@
     "location": "İzmir, Turkey",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 14,
     "privateContributions": 0,
-    "publicContributions": 99,
+    "publicContributions": 119,
     "createdAt": "2024-02-25T09:25:25Z"
   },
   {
@@ -41430,7 +41418,7 @@
     "location": "Istanbul/Turkey",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 9,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-03-11T06:07:23Z"
@@ -41461,14 +41449,14 @@
   },
   {
     "login": "ahmetcanisik",
-    "name": "Ahmet Can IŞIK",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/167754410?s=72&u=348a017b9d2d21180b36c92320ba34209033a03b&v=4",
+    "name": "Ahmet Can Işık",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/167754410?s=72&u=6ea623e48237f2c9da79d45f65b89572e58f2de3&v=4",
     "location": "Turkey",
     "company": "",
-    "twitterUsername": "acanisik0",
+    "twitterUsername": "acanisik",
     "followers": 10,
-    "privateContributions": 88,
-    "publicContributions": 30,
+    "privateContributions": 117,
+    "publicContributions": 77,
     "createdAt": "2024-04-22T08:45:55Z"
   },
   {
@@ -41479,8 +41467,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 86,
-    "publicContributions": 8,
+    "privateContributions": 95,
+    "publicContributions": 9,
     "createdAt": "2024-02-25T20:35:10Z"
   },
   {

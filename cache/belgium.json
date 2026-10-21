@@ -41766,9 +41766,9 @@
     "location": "Brussels",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2021-11-30T21:20:24Z"
   },
   {
@@ -41790,9 +41790,9 @@
     "location": "Brussels",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 73,
-    "publicContributions": 0,
+    "followers": 4,
+    "privateContributions": 74,
+    "publicContributions": 38,
     "createdAt": "2021-11-14T09:15:51Z"
   },
   {
@@ -41804,7 +41804,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 4,
     "createdAt": "2021-05-07T10:13:01Z"
   },
   {
@@ -41815,8 +41815,8 @@
     "company": "Université de Liège; Université Paris-Saclay",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 343,
-    "publicContributions": 2,
+    "privateContributions": 160,
+    "publicContributions": 0,
     "createdAt": "2021-11-11T11:59:56Z"
   },
   {
@@ -41828,7 +41828,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 0,
     "createdAt": "2021-01-19T10:15:44Z"
   },
   {
@@ -41900,7 +41900,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 9,
-    "publicContributions": 81,
+    "publicContributions": 69,
     "createdAt": "2021-05-06T18:03:38Z"
   },
   {
@@ -41910,7 +41910,7 @@
     "location": "Brussels",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-07-12T20:36:55Z"
@@ -41922,9 +41922,9 @@
     "location": "Brussels",
     "company": "CRESYM",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 29,
     "createdAt": "2021-04-20T07:36:18Z"
   },
   {
@@ -41935,7 +41935,7 @@
     "company": "@Hr-rail",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 18,
+    "privateContributions": 11,
     "publicContributions": 0,
     "createdAt": "2021-11-09T11:17:13Z"
   },
@@ -41966,7 +41966,7 @@
   {
     "login": "cem-berk-senel",
     "name": "Cem Berk Senel",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/85344907?s=72&u=02675eeb22c7ac5cce47c74ce9c4b93191cd678f&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/85344907?s=72&u=b1d34ff278ed17f6afee6659242f2a20411b61d5&v=4",
     "location": "Brussels",
     "company": "Royal Observatory of Belgium & AMGC Vrije Universiteit Brussel",
     "twitterUsername": "cemberksenel",
