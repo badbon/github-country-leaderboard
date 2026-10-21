@@ -51,12 +51,12 @@ Indexed users: 900
 | 12 | [hopekali04](https://github.com/hopekali04) | Hope Kalitera | Blantyre, Malawi | 644 |
 | 13 | [Isaac1-gic](https://github.com/Isaac1-gic) | Isaac Chitsakamire | Malawi | 635 |
 | 14 | [Chrispine-1210](https://github.com/Chrispine-1210) | Chrispine Mndala | Lilongwe  | 568 |
-| 15 | [hopgausi](https://github.com/hopgausi) | Hopson Gausi | Malawi | 485 |
-| 16 | [TgkCapture](https://github.com/TgkCapture) | tgkcapture | Blantyre, Malawi. | 485 |
-| 17 | [codaMW](https://github.com/codaMW) | codaMW | Lilongwe, Malawi | 476 |
-| 18 | [wotcheni21](https://github.com/wotcheni21) | Joseph Witman Wotcheni | Malawi | 476 |
-| 19 | [Tmkandawire](https://github.com/Tmkandawire) | Tawanda Mkandawire | Malawi | 445 |
-| 20 | [mcleanka](https://github.com/mcleanka) | Mclean Kasambala | Malawi, Lilongwe | 401 |
+| 15 | [chiefhaven](https://github.com/chiefhaven) | Chief Haven | Lilongwe | 523 |
+| 16 | [hopgausi](https://github.com/hopgausi) | Hopson Gausi | Malawi | 485 |
+| 17 | [TgkCapture](https://github.com/TgkCapture) | tgkcapture | Blantyre, Malawi. | 485 |
+| 18 | [codaMW](https://github.com/codaMW) | codaMW | Lilongwe, Malawi | 476 |
+| 19 | [wotcheni21](https://github.com/wotcheni21) | Joseph Witman Wotcheni | Malawi | 476 |
+| 20 | [Tmkandawire](https://github.com/Tmkandawire) | Tawanda Mkandawire | Malawi | 445 |
 
 ## Followers
 
@@ -74,7 +74,7 @@ Indexed users: 900
 | 10 | [IsaacKalambo22](https://github.com/IsaacKalambo22) | Isaac Kalambo | Lilongwe | 239 |
 | 11 | [JosephGMkonda](https://github.com/JosephGMkonda) | Joseph Mkonda | malawi | 235 |
 | 12 | [nbolok-code](https://github.com/nbolok-code) | Nathan Bolokonya | Malawi  | 222 |
-| 13 | [macneil265](https://github.com/macneil265) | Mac Neil | Lilongwe | 206 |
+| 13 | [macneil265](https://github.com/macneil265) | Mac Neil | Lilongwe | 207 |
 | 14 | [PreciousNyasulu](https://github.com/PreciousNyasulu) | Precious Nyasulu | Blantyre, Malawi | 202 |
 | 15 | [TgkCapture](https://github.com/TgkCapture) | tgkcapture | Blantyre, Malawi. | 197 |
 | 16 | [i-christian](https://github.com/i-christian) | Christian | Mzuzu, Malawi  | 182 |
@@ -83,4 +83,4 @@ Indexed users: 900
 | 19 | [RodgerCodes](https://github.com/RodgerCodes) | Rodger Kumwanje | Malawi | 132 |
 | 20 | [g1ftmkyelu](https://github.com/g1ftmkyelu) | codemaestro🚀 | 🇲🇼 Malawi | 130 |
 
-Generated: 2026-10-21T19:23:40.923Z
+Generated: 2026-10-21T20:53:43.975Z

@@ -22,7 +22,7 @@ Indexed users: 111
 | 8 | [TooFuW](https://github.com/TooFuW) | Eyrian Muet | New- Caledonia | 1,461 |
 | 9 | [melvind94](https://github.com/melvind94) | Melvin Deplanque | Nouméa, New Caledonia | 1,241 |
 | 10 | [Julien-Fruteau](https://github.com/Julien-Fruteau) | Julien | New Caledonia | 1,220 |
-| 11 | [Dougniel](https://github.com/Dougniel) | Daniel Santos | New Caledonia | 1,206 |
+| 11 | [Dougniel](https://github.com/Dougniel) | Daniel Santos | New Caledonia | 1,207 |
 | 12 | [davidfevre-gouv-nc](https://github.com/davidfevre-gouv-nc) | David FEVRE | Nouméa, New Caledonia | 1,169 |
 | 13 | [bpouzet](https://github.com/bpouzet) | Benoît Pouzet | Nouméa, New Caledonia | 943 |
 | 14 | [lschaeffer313](https://github.com/lschaeffer313) | Laurent Schaeffer | New-Caledonia | 795 |
@@ -83,4 +83,4 @@ Indexed users: 111
 | 19 | [gronono](https://github.com/gronono) | Arnaud | New Caledonia | 9 |
 | 20 | [6pheR](https://github.com/6pheR) | CipheR_ | New Caledonia | 8 |
 
-Generated: 2026-10-21T19:30:38.968Z
+Generated: 2026-10-21T21:01:31.990Z

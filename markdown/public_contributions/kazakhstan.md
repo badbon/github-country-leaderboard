@@ -1,6 +1,6 @@
 # Public Contributions - Kazakhstan
 
-Generated: 2026-10-21T19:17:12.091Z
+Generated: 2026-10-21T20:48:58.786Z
 
 Users: 5622
 
@@ -24,5 +24,5 @@ Users: 5622
 | 16 | [m62624](https://github.com/m62624) | Mansur |  |  | Kazakhstan, Almaty | 2250 |
 | 17 | [Kaiyrkhan](https://github.com/Kaiyrkhan) | Kaiyrkhan Mukapil | Almaty Technological University |  | Almaty, Qazaqstan | 2232 |
 | 18 | [boltholds](https://github.com/boltholds) | bolthold | PLC Web | bolthold | Kazakhstan | 2075 |
-| 19 | [maximgorbatyuk](https://github.com/maximgorbatyuk) | Maxim Gorbatyuk | @Techinterview-space  |  | Kazakhstan | 2049 |
-| 20 | [rdmbtc](https://github.com/rdmbtc) | Dr RDM | Student | rdmnad | Kazakhstan | 2041 |
+| 19 | [borisk85](https://github.com/borisk85) | Boris Komarov | Vibecraft | borisfounder | Kazakhstan | 2057 |
+| 20 | [maximgorbatyuk](https://github.com/maximgorbatyuk) | Maxim Gorbatyuk | @Techinterview-space  |  | Kazakhstan | 2049 |

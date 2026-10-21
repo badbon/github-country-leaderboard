@@ -1,6 +1,6 @@
 # Total Contributions - North Macedonia
 
-Generated: 2026-10-21T19:33:04.723Z
+Generated: 2026-10-21T21:05:26.013Z
 
 Users: 1924
 
@@ -19,10 +19,10 @@ Users: 1924
 | 11 | [DBozhinovski](https://github.com/DBozhinovski) | Darko Bozhinovski | @axiomatic-dev | d_bozhinovski | Skopje, Macedonia | 5146 |
 | 12 | [danielilievskii](https://github.com/danielilievskii) | Daniel Ilievski | Intertec.io |  | Skopje, North Macedonia | 4747 |
 | 13 | [Delemangi](https://github.com/Delemangi) | Stefan Milev | @codechem |  | Skopje, North Macedonia | 4673 |
-| 14 | [Shekswess](https://github.com/Shekswess) | Bojan Jakimovski | Loka | Shekswess | Skopje, Macedonia | 4185 |
-| 15 | [visar](https://github.com/visar) | Visar Zejnullahu |  |  | Skopje, Macedonia | 4148 |
-| 16 | [nikola-n](https://github.com/nikola-n) | Nikola | @CircleLinkHealth | nikola_najdov | Veles, Macedonia | 4049 |
-| 17 | [vetonshabani0](https://github.com/vetonshabani0) | Veton Shabani |  |  | Skopje | 4037 |
-| 18 | [andreyagovski](https://github.com/andreyagovski) | Andrey |  |  | Macedonia | 3997 |
+| 14 | [andreyagovski](https://github.com/andreyagovski) | Andrey |  |  | Macedonia | 4347 |
+| 15 | [Shekswess](https://github.com/Shekswess) | Bojan Jakimovski | Loka | Shekswess | Skopje, Macedonia | 4185 |
+| 16 | [visar](https://github.com/visar) | Visar Zejnullahu |  |  | Skopje, Macedonia | 4148 |
+| 17 | [nikola-n](https://github.com/nikola-n) | Nikola | @CircleLinkHealth | nikola_najdov | Veles, Macedonia | 4049 |
+| 18 | [vetonshabani0](https://github.com/vetonshabani0) | Veton Shabani |  |  | Skopje | 4037 |
 | 19 | [andjiev](https://github.com/andjiev) | Ivan Andjiev | MrQ |  | North Macedonia | 3946 |
 | 20 | [M9Mike](https://github.com/M9Mike) | Mihail Veljanoski |  |  | Skopje, Macedonia | 3657 |

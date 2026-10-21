@@ -1,6 +1,6 @@
 # Public Contributions - Moldova
 
-Generated: 2026-10-21T19:26:12.816Z
+Generated: 2026-10-21T20:58:11.162Z
 
 Users: 1746
 
@@ -15,8 +15,8 @@ Users: 1746
 | 7 | [nikpopesku](https://github.com/nikpopesku) | Nikolai Popesku |  |  | Chisinau, Moldova | 2539 |
 | 8 | [Aragas](https://github.com/Aragas) | Vitalii Mikhailov | @Nexus-Mods |  | Chisinau, Moldova | 2337 |
 | 9 | [50rayn](https://github.com/50rayn) | Soryn |  | 50rayn | Moldova | 2221 |
-| 10 | [himaster](https://github.com/himaster) | Vitaly Bicov |  |  | Chisinau, Moldova | 2070 |
-| 11 | [vbarbarosh](https://github.com/vbarbarosh) | Vladimir Barbarosh |  |  | Moldova | 1950 |
+| 10 | [vbarbarosh](https://github.com/vbarbarosh) | Vladimir Barbarosh |  |  | Moldova | 2161 |
+| 11 | [himaster](https://github.com/himaster) | Vitaly Bicov |  |  | Chisinau, Moldova | 2070 |
 | 12 | [Magistrus](https://github.com/Magistrus) | Vitaliy Unguryan | TTG.club |  | Moldova | 1901 |
 | 13 | [teratron](https://github.com/teratron) | Oleg Alexandrov |  |  | Moldova | 1800 |
 | 14 | [THET1ME-1](https://github.com/THET1ME-1) | Matrosov Alexandr |  |  | Moldova | 1783 |

@@ -55,8 +55,8 @@ Indexed users: 5,622
 | 16 | [m62624](https://github.com/m62624) | Mansur | Kazakhstan, Almaty | 2,250 |
 | 17 | [Kaiyrkhan](https://github.com/Kaiyrkhan) | Kaiyrkhan Mukapil | Almaty, Qazaqstan | 2,232 |
 | 18 | [boltholds](https://github.com/boltholds) | bolthold | Kazakhstan | 2,075 |
-| 19 | [maximgorbatyuk](https://github.com/maximgorbatyuk) | Maxim Gorbatyuk | Kazakhstan | 2,049 |
-| 20 | [rdmbtc](https://github.com/rdmbtc) | Dr RDM | Kazakhstan | 2,041 |
+| 19 | [borisk85](https://github.com/borisk85) | Boris Komarov | Kazakhstan | 2,057 |
+| 20 | [maximgorbatyuk](https://github.com/maximgorbatyuk) | Maxim Gorbatyuk | Kazakhstan | 2,049 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 5,622
 | 19 | [aidarnouman](https://github.com/aidarnouman) | Aidar Nouman | Almaty, Kazakhstan | 303 |
 | 20 | [azamxvit](https://github.com/azamxvit) | Azamat | Kazakhstan, Atyrau | 295 |
 
-Generated: 2026-10-21T19:17:12.091Z
+Generated: 2026-10-21T20:48:58.786Z

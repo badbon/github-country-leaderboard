@@ -1,6 +1,6 @@
 # Public Contributions - Mexico
 
-Generated: 2026-10-21T19:26:05.136Z
+Generated: 2026-10-21T20:57:29.732Z
 
 Users: 23484
 
@@ -18,11 +18,11 @@ Users: 23484
 | 10 | [enriquegomeztagle](https://github.com/enriquegomeztagle) | Enrique Ulises Báez Gómez Tagle |  |  | Mexico City | 5947 |
 | 11 | [pakinja](https://github.com/pakinja) | Francisco Jaramillo Aguilar | Pakin |  | Mexico | 5885 |
 | 12 | [dr-schlange](https://github.com/dr-schlange) |  |  |  | Mexico | 5445 |
-| 13 | [pazbryant7](https://github.com/pazbryant7) | Bryant Paz |  | plbryantt | Mexico | 4660 |
-| 14 | [zntznt](https://github.com/zntznt) | Zeo |  | zntznt | Puebla, Mexico | 4556 |
-| 15 | [dontloseyourheadsu](https://github.com/dontloseyourheadsu) | Jesus Alvarez Sombrerero |  |  | Mexico, Puebla | 4254 |
-| 16 | [KyleKing](https://github.com/KyleKing) | Kyle King | Coverbase |  | Mexico CIty | 4025 |
-| 17 | [Juanksyek](https://github.com/Juanksyek) | Juan Flores | GCE Global Solutions | Juank_Syek | Guadalajara Jalisco, México | 4021 |
-| 18 | [RCushmaniii](https://github.com/RCushmaniii) | Robert F Cushman III | CushLabs.ai |  | Guadalajara, Mexico | 3924 |
-| 19 | [Ealanisln](https://github.com/Ealanisln) | Emmanuel Alanis |  | Ealanisln | Miguel Hidalgo, Mexico City | 3828 |
-| 20 | [oliverservin](https://github.com/oliverservin) | Oliver Servín |  | oliverservinX | Mexico City | 3810 |
+| 13 | [heri-espino](https://github.com/heri-espino) | Heriberto Espino Montelongo | Universidad de las Américas Puebla |  | Puebla, México | 4715 |
+| 14 | [pazbryant7](https://github.com/pazbryant7) | Bryant Paz |  | plbryantt | Mexico | 4660 |
+| 15 | [zntznt](https://github.com/zntznt) | Zeo |  | zntznt | Puebla, Mexico | 4556 |
+| 16 | [dontloseyourheadsu](https://github.com/dontloseyourheadsu) | Jesus Alvarez Sombrerero |  |  | Mexico, Puebla | 4254 |
+| 17 | [KyleKing](https://github.com/KyleKing) | Kyle King | Coverbase |  | Mexico CIty | 4025 |
+| 18 | [Juanksyek](https://github.com/Juanksyek) | Juan Flores | GCE Global Solutions | Juank_Syek | Guadalajara Jalisco, México | 4021 |
+| 19 | [RCushmaniii](https://github.com/RCushmaniii) | Robert F Cushman III | CushLabs.ai |  | Guadalajara, Mexico | 3924 |
+| 20 | [Ealanisln](https://github.com/Ealanisln) | Emmanuel Alanis |  | Ealanisln | Miguel Hidalgo, Mexico City | 3828 |

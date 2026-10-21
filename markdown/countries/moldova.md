@@ -46,8 +46,8 @@ Indexed users: 1,746
 | 7 | [nikpopesku](https://github.com/nikpopesku) | Nikolai Popesku | Chisinau, Moldova | 2,539 |
 | 8 | [Aragas](https://github.com/Aragas) | Vitalii Mikhailov | Chisinau, Moldova | 2,337 |
 | 9 | [50rayn](https://github.com/50rayn) | Soryn | Moldova | 2,221 |
-| 10 | [himaster](https://github.com/himaster) | Vitaly Bicov | Chisinau, Moldova | 2,070 |
-| 11 | [vbarbarosh](https://github.com/vbarbarosh) | Vladimir Barbarosh | Moldova | 1,950 |
+| 10 | [vbarbarosh](https://github.com/vbarbarosh) | Vladimir Barbarosh | Moldova | 2,161 |
+| 11 | [himaster](https://github.com/himaster) | Vitaly Bicov | Chisinau, Moldova | 2,070 |
 | 12 | [Magistrus](https://github.com/Magistrus) | Vitaliy Unguryan | Moldova | 1,901 |
 | 13 | [teratron](https://github.com/teratron) | Oleg Alexandrov | Moldova | 1,800 |
 | 14 | [THET1ME-1](https://github.com/THET1ME-1) | Matrosov Alexandr | Moldova | 1,783 |
@@ -63,7 +63,7 @@ Indexed users: 1,746
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [face-hh](https://github.com/face-hh) | Face | Moldova | 2,279 |
-| 2 | [vmihailenco](https://github.com/vmihailenco) | Vladimir Mihailenco | Moldova | 1,380 |
+| 2 | [vmihailenco](https://github.com/vmihailenco) | Vladimir Mihailenco | Moldova | 1,383 |
 | 3 | [CyberShadow](https://github.com/CyberShadow) | Vladimir Panteleev | Moldova, Eastern Europe | 517 |
 | 4 | [messsimo](https://github.com/messsimo) | Daniel Mihai | Republic of Moldova | 356 |
 | 5 | [nickmessing](https://github.com/nickmessing) | Nick Messing | Chisinau, Moldova | 349 |
@@ -79,8 +79,8 @@ Indexed users: 1,746
 | 15 | [AddictedCS](https://github.com/AddictedCS) | Sergiu Ciumac | Chisinau, Moldova | 141 |
 | 16 | [ygorigor](https://github.com/ygorigor) | Igor | Chisinau, Moldova | 130 |
 | 17 | [andrei-zgirvaci](https://github.com/andrei-zgirvaci) | Andrei Zgîrvaci | Chișinău, Moldova | 123 |
-| 18 | [keriat](https://github.com/keriat) | Sergey Beresnev | Moldova, Chisinau | 121 |
+| 18 | [keriat](https://github.com/keriat) | Sergey Beresnev | Moldova, Chisinau | 122 |
 | 19 | [vgaidarji](https://github.com/vgaidarji) | Veaceslav Gaidarji | Moldova | 114 |
 | 20 | [Ernest96](https://github.com/Ernest96) | Ernest | Chisinau Moldova | 107 |
 
-Generated: 2026-10-21T19:26:12.816Z
+Generated: 2026-10-21T20:58:11.162Z

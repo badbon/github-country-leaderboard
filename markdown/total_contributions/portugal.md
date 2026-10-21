@@ -1,8 +1,8 @@
 # Total Contributions - Portugal
 
-Generated: 2026-10-21T19:37:18.274Z
+Generated: 2026-10-21T21:09:55.284Z
 
-Users: 28432
+Users: 28430
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

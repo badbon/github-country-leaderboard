@@ -1,6 +1,6 @@
 # Public Contributions - Philippines
 
-Generated: 2026-10-21T19:35:25.409Z
+Generated: 2026-10-21T21:09:45.040Z
 
 Users: 19745
 
@@ -15,13 +15,13 @@ Users: 19745
 | 7 | [Gyakusetsu](https://github.com/Gyakusetsu) | Reymar Clemente |  |  | Philippines | 17199 |
 | 8 | [AldrianLoberiano](https://github.com/AldrianLoberiano) | Aldrian Loberiano |  |  | Laguna, Philippines | 16492 |
 | 9 | [mcdofrenchfreis](https://github.com/mcdofrenchfreis) | Evan | @androidistdotnet |  | Philippines | 15314 |
-| 10 | [JDev000](https://github.com/JDev000) | Jerome Edica |  |  | Philippines | 14606 |
-| 11 | [joaquintamayo](https://github.com/joaquintamayo) | Joaquin Elijah Tamayo |  |  | Quezon City, Philippines | 13713 |
-| 12 | [mxaddict](https://github.com/mxaddict) | mxaddict | None |  | Cebu, Philippines | 12706 |
-| 13 | [STICKnoLOGIC](https://github.com/STICKnoLOGIC) | John Aerial J. Azcune |  | STICKnoLOGIC | philippines/ | 12601 |
-| 14 | [glennmichael123](https://github.com/glennmichael123) | Glenn Michael Torregosa | @stacksjs |  | Cebu City, Philippines | 12534 |
-| 15 | [herndev](https://github.com/herndev) | Никифор |  |  | Philippines, Cagayan de Oro | 12252 |
-| 16 | [CyberSphinxxx](https://github.com/CyberSphinxxx) | John Lemar Gonzales |  | Cyber_Sphinx_x | Philippines | 12111 |
+| 10 | [joaquintamayo](https://github.com/joaquintamayo) | Joaquin Elijah Tamayo |  |  | Quezon City, Philippines | 13713 |
+| 11 | [mxaddict](https://github.com/mxaddict) | mxaddict | None |  | Cebu, Philippines | 12706 |
+| 12 | [STICKnoLOGIC](https://github.com/STICKnoLOGIC) | John Aerial J. Azcune |  | STICKnoLOGIC | philippines/ | 12601 |
+| 13 | [glennmichael123](https://github.com/glennmichael123) | Glenn Michael Torregosa | @stacksjs |  | Cebu City, Philippines | 12534 |
+| 14 | [herndev](https://github.com/herndev) | Никифор |  |  | Philippines, Cagayan de Oro | 12252 |
+| 15 | [CyberSphinxxx](https://github.com/CyberSphinxxx) | John Lemar Gonzales |  | Cyber_Sphinx_x | Philippines | 12111 |
+| 16 | [JDev000](https://github.com/JDev000) | Jerome Edica |  |  | Philippines | 10533 |
 | 17 | [RommJames](https://github.com/RommJames) | Romm James Cuya |  |  | Pasig City, Philippines | 10424 |
 | 18 | [diazMelgarejo](https://github.com/diazMelgarejo) | cyre |  | Melgarejo_yDiaz | Manila | 9935 |
 | 19 | [bradpotts](https://github.com/bradpotts) | Bradley J Potts | CoastDigitalGroup |  | Lapu-Lapu, Central Visayas, Philippines | 9918 |

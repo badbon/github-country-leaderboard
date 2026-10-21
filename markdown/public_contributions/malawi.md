@@ -1,6 +1,6 @@
 # Public Contributions - Malawi
 
-Generated: 2026-10-21T19:23:40.923Z
+Generated: 2026-10-21T20:53:43.975Z
 
 Users: 900
 
@@ -20,9 +20,9 @@ Users: 900
 | 12 | [hopekali04](https://github.com/hopekali04) | Hope Kalitera |  |  | Blantyre, Malawi | 644 |
 | 13 | [Isaac1-gic](https://github.com/Isaac1-gic) | Isaac Chitsakamire |  |  | Malawi | 635 |
 | 14 | [Chrispine-1210](https://github.com/Chrispine-1210) | Chrispine Mndala | Crosfade Technologies LLC  |  | Lilongwe  | 568 |
-| 15 | [hopgausi](https://github.com/hopgausi) | Hopson Gausi |  | hopgausi | Malawi | 485 |
-| 16 | [TgkCapture](https://github.com/TgkCapture) | tgkcapture | ex @creditdatamw  | tgkcapture | Blantyre, Malawi. | 485 |
-| 17 | [codaMW](https://github.com/codaMW) | codaMW | BitDevs Malawi | codaMW | Lilongwe, Malawi | 476 |
-| 18 | [wotcheni21](https://github.com/wotcheni21) | Joseph Witman Wotcheni |  |  | Malawi | 476 |
-| 19 | [Tmkandawire](https://github.com/Tmkandawire) | Tawanda Mkandawire |  |  | Malawi | 445 |
-| 20 | [mcleanka](https://github.com/mcleanka) | Mclean Kasambala | Zonse247 |  | Malawi, Lilongwe | 401 |
+| 15 | [chiefhaven](https://github.com/chiefhaven) | Chief Haven | HavenPlus Technologies |  | Lilongwe | 523 |
+| 16 | [hopgausi](https://github.com/hopgausi) | Hopson Gausi |  | hopgausi | Malawi | 485 |
+| 17 | [TgkCapture](https://github.com/TgkCapture) | tgkcapture | ex @creditdatamw  | tgkcapture | Blantyre, Malawi. | 485 |
+| 18 | [codaMW](https://github.com/codaMW) | codaMW | BitDevs Malawi | codaMW | Lilongwe, Malawi | 476 |
+| 19 | [wotcheni21](https://github.com/wotcheni21) | Joseph Witman Wotcheni |  |  | Malawi | 476 |
+| 20 | [Tmkandawire](https://github.com/Tmkandawire) | Tawanda Mkandawire |  |  | Malawi | 445 |

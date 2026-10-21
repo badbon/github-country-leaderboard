@@ -1,13 +1,13 @@
 # Total Contributions - Samoa
 
-Generated: 2026-10-21T19:43:57.564Z
+Generated: 2026-10-21T21:16:32.470Z
 
 Users: 19
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [Green-Ranger11](https://github.com/Green-Ranger11) | Alesana Eteuati Jr | Vodafone Samoa |  | Samoa | 5217 |
-| 2 | [genebarker](https://github.com/genebarker) | Eugene F. Barker | madman.com | arctips | Apia, Samoa | 1491 |
+| 1 | [Green-Ranger11](https://github.com/Green-Ranger11) | Alesana Eteuati Jr | Vodafone Samoa |  | Samoa | 5220 |
+| 2 | [genebarker](https://github.com/genebarker) | Eugene F. Barker | madman.com | arctips | Apia, Samoa | 1492 |
 | 3 | [Hamobcdev](https://github.com/Hamobcdev) | Anthony George Williams | Synergy Blockchain Pacific Limited | Hamobcdev | Samoa | 1062 |
 | 4 | [iwtem](https://github.com/iwtem) | Iwtem | American |  | Samoa | 330 |
 | 5 | [ainsofs](https://github.com/ainsofs) | Ainsof So'o | SPREP |  | Samoa | 101 |

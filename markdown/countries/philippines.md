@@ -46,13 +46,13 @@ Indexed users: 19,745
 | 7 | [Gyakusetsu](https://github.com/Gyakusetsu) | Reymar Clemente | Philippines | 17,199 |
 | 8 | [AldrianLoberiano](https://github.com/AldrianLoberiano) | Aldrian Loberiano | Laguna, Philippines | 16,492 |
 | 9 | [mcdofrenchfreis](https://github.com/mcdofrenchfreis) | Evan | Philippines | 15,314 |
-| 10 | [JDev000](https://github.com/JDev000) | Jerome Edica | Philippines | 14,606 |
-| 11 | [joaquintamayo](https://github.com/joaquintamayo) | Joaquin Elijah Tamayo | Quezon City, Philippines | 13,713 |
-| 12 | [mxaddict](https://github.com/mxaddict) | mxaddict | Cebu, Philippines | 12,706 |
-| 13 | [STICKnoLOGIC](https://github.com/STICKnoLOGIC) | John Aerial J. Azcune | philippines/ | 12,601 |
-| 14 | [glennmichael123](https://github.com/glennmichael123) | Glenn Michael Torregosa | Cebu City, Philippines | 12,534 |
-| 15 | [herndev](https://github.com/herndev) | Никифор | Philippines, Cagayan de Oro | 12,252 |
-| 16 | [CyberSphinxxx](https://github.com/CyberSphinxxx) | John Lemar Gonzales | Philippines | 12,111 |
+| 10 | [joaquintamayo](https://github.com/joaquintamayo) | Joaquin Elijah Tamayo | Quezon City, Philippines | 13,713 |
+| 11 | [mxaddict](https://github.com/mxaddict) | mxaddict | Cebu, Philippines | 12,706 |
+| 12 | [STICKnoLOGIC](https://github.com/STICKnoLOGIC) | John Aerial J. Azcune | philippines/ | 12,601 |
+| 13 | [glennmichael123](https://github.com/glennmichael123) | Glenn Michael Torregosa | Cebu City, Philippines | 12,534 |
+| 14 | [herndev](https://github.com/herndev) | Никифор | Philippines, Cagayan de Oro | 12,252 |
+| 15 | [CyberSphinxxx](https://github.com/CyberSphinxxx) | John Lemar Gonzales | Philippines | 12,111 |
+| 16 | [JDev000](https://github.com/JDev000) | Jerome Edica | Philippines | 10,533 |
 | 17 | [RommJames](https://github.com/RommJames) | Romm James Cuya | Pasig City, Philippines | 10,424 |
 | 18 | [diazMelgarejo](https://github.com/diazMelgarejo) | cyre | Manila | 9,935 |
 | 19 | [bradpotts](https://github.com/bradpotts) | Bradley J Potts | Lapu-Lapu, Central Visayas, Philippines | 9,918 |
@@ -83,4 +83,4 @@ Indexed users: 19,745
 | 19 | [Gerald200422](https://github.com/Gerald200422) | Gerald P. Balete | Metro Manila Philippines  | 613 |
 | 20 | [exezick](https://github.com/exezick) | Exequiel Vibar | Philippines | 604 |
 
-Generated: 2026-10-21T19:35:25.409Z
+Generated: 2026-10-21T21:09:45.040Z

@@ -20,8 +20,8 @@ Indexed users: 1,072
 | 6 | [AnasMostefaoui](https://github.com/AnasMostefaoui) | M.Anes | Doha | 8,205 |
 | 7 | [rushdimohamed09](https://github.com/rushdimohamed09) | Rushdi Mohamed | Doha, Qatar | 7,256 |
 | 8 | [yasircs4](https://github.com/yasircs4) | Yasir Najeeb | Doha, Qatar | 7,139 |
-| 9 | [hussain4real](https://github.com/hussain4real) | Hussain Aminu | Doha, Qatar | 6,917 |
-| 10 | [Snowy7](https://github.com/Snowy7) | Snowy | Qatar | 6,801 |
+| 9 | [Snowy7](https://github.com/Snowy7) | Snowy | Qatar | 6,932 |
+| 10 | [hussain4real](https://github.com/hussain4real) | Hussain Aminu | Doha, Qatar | 6,917 |
 | 11 | [Bewinxed](https://github.com/Bewinxed) | Omar Al Matar | Doha, Qatar | 6,773 |
 | 12 | [niyazpoyilan](https://github.com/niyazpoyilan) | Niyaz Poyilan | Qatar | 6,659 |
 | 13 | [asifmkhan](https://github.com/asifmkhan) | M. Asif Khan | Doha, Qatar | 6,441 |
@@ -79,8 +79,8 @@ Indexed users: 1,072
 | 15 | [akhalil-qa](https://github.com/akhalil-qa) | Ahmed Khalil | Qatar | 110 |
 | 16 | [muratyaman](https://github.com/muratyaman) | Haci Murat Yaman | Doha, Qatar | 109 |
 | 17 | [kevinpiac](https://github.com/kevinpiac) | Kevin Piacentini | Doha | 108 |
-| 18 | [thouseef-hamza](https://github.com/thouseef-hamza) | Thouseef Hamza T P | Doha, Qatar | 108 |
+| 18 | [thouseef-hamza](https://github.com/thouseef-hamza) | Thouseef Hamza T P | Doha, Qatar | 107 |
 | 19 | [thm-msror](https://github.com/thm-msror) | Tehreem Masroor | Al-Rayyan, Qatar | 106 |
 | 20 | [brainconnect93](https://github.com/brainconnect93) | Afolabi Akorede | Al-Wakrah, Qatar | 99 |
 
-Generated: 2026-10-21T19:38:02.601Z
+Generated: 2026-10-21T21:11:07.239Z

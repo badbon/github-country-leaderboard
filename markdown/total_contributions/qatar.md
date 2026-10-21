@@ -1,6 +1,6 @@
 # Total Contributions - Qatar
 
-Generated: 2026-10-21T19:38:02.601Z
+Generated: 2026-10-21T21:11:07.239Z
 
 Users: 1072
 
@@ -14,8 +14,8 @@ Users: 1072
 | 6 | [AnasMostefaoui](https://github.com/AnasMostefaoui) | M.Anes |  |  | Doha | 8205 |
 | 7 | [rushdimohamed09](https://github.com/rushdimohamed09) | Rushdi Mohamed |  |  | Doha, Qatar | 7256 |
 | 8 | [yasircs4](https://github.com/yasircs4) | Yasir Najeeb |  | yasirnajeep | Doha, Qatar | 7139 |
-| 9 | [hussain4real](https://github.com/hussain4real) | Hussain Aminu | Gethouse | hussain4real | Doha, Qatar | 6917 |
-| 10 | [Snowy7](https://github.com/Snowy7) | Snowy |  |  | Qatar | 6801 |
+| 9 | [Snowy7](https://github.com/Snowy7) | Snowy |  |  | Qatar | 6932 |
+| 10 | [hussain4real](https://github.com/hussain4real) | Hussain Aminu | Gethouse | hussain4real | Doha, Qatar | 6917 |
 | 11 | [Bewinxed](https://github.com/Bewinxed) | Omar Al Matar | Hamad Medical Corporation | Bewinxed | Doha, Qatar | 6773 |
 | 12 | [niyazpoyilan](https://github.com/niyazpoyilan) | Niyaz Poyilan |  |  | Qatar | 6659 |
 | 13 | [asifmkhan](https://github.com/asifmkhan) | M. Asif Khan | University of Doha for Science and Technology (UDST) |  | Doha, Qatar | 6441 |

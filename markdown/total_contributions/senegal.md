@@ -1,6 +1,6 @@
 # Total Contributions - Senegal
 
-Generated: 2026-10-21T19:44:41.381Z
+Generated: 2026-10-21T21:18:21.810Z
 
 Users: 1355
 
@@ -15,9 +15,9 @@ Users: 1355
 | 7 | [gaelahouanvoedo](https://github.com/gaelahouanvoedo) | Gael AHOUANVOEDO |  |  | Dakar, Sénégal | 7682 |
 | 8 | [MJoshua25](https://github.com/MJoshua25) | Yao Josué |  |  | Dakar | 7580 |
 | 9 | [utachicodes](https://github.com/utachicodes) | Abdoullah Ndao | Azertica |  | Senegal | 6419 |
-| 10 | [touskar](https://github.com/touskar) | Moussa Ndour DSI at INTech Group | Moussa Ndour |  | Dakar | 5806 |
-| 11 | [i2sac](https://github.com/i2sac) | Louis Issac Jean Samba DIOUF | Zone01 Dakar | okinobal | Dakar, Senegal | 5797 |
-| 12 | [njaga](https://github.com/njaga) | Ndiaga Ndiaye | kamit digital | ndiaga_dev | Dakar | 5792 |
+| 10 | [njaga](https://github.com/njaga) | Ndiaga Ndiaye | kamit digital | ndiaga_dev | Dakar | 5895 |
+| 11 | [touskar](https://github.com/touskar) | Moussa Ndour DSI at INTech Group | Moussa Ndour |  | Dakar | 5806 |
+| 12 | [i2sac](https://github.com/i2sac) | Louis Issac Jean Samba DIOUF | Zone01 Dakar | okinobal | Dakar, Senegal | 5797 |
 | 13 | [elias-ba](https://github.com/elias-ba) | Elias Waly Ba | @OpenFn | eliaswalyba | Dakar, Senegal | 5243 |
 | 14 | [ZooM982](https://github.com/ZooM982) | Revhieno Roll Haurly MBOUTA  |  |  | Dakar, Sénégal | 5078 |
 | 15 | [crossben](https://github.com/crossben) |  |  |  | Dakar | 4937 |

@@ -20,7 +20,7 @@ Indexed users: 474
 | 6 | [asenmwa](https://github.com/asenmwa) | Asen Mwandemele | Windhoek, Namibia | 6,095 |
 | 7 | [rvs1257](https://github.com/rvs1257) | Rudi Steinbach | Namibia | 6,062 |
 | 8 | [axelmukwena](https://github.com/axelmukwena) | Axel Mukwena | Namibia | 5,554 |
-| 9 | [frans-nekongo](https://github.com/frans-nekongo) | frans nekongo | namibia,Africa | 4,537 |
+| 9 | [frans-nekongo](https://github.com/frans-nekongo) | frans nekongo | namibia,Africa | 4,550 |
 | 10 | [holgarkotze-commits](https://github.com/holgarkotze-commits) | STITCH WORX INC. | NAMIBIA | 3,670 |
 | 11 | [codezilla91](https://github.com/codezilla91) | Leon CodeZilla Matota | Namibia, Windhoek | 3,187 |
 | 12 | [rtonata88](https://github.com/rtonata88) | Richard Chambula | Windhoek, Namibia | 2,939 |
@@ -48,7 +48,7 @@ Indexed users: 474
 | 9 | [Driftedbucket](https://github.com/Driftedbucket) | Awike Gulu | Windhoek, Namibia | 561 |
 | 10 | [Leon2332](https://github.com/Leon2332) | Leon | Namibia | 505 |
 | 11 | [Tusneld](https://github.com/Tusneld) | Tusnelde Endjala | Namibia | 431 |
-| 12 | [Sphellep04](https://github.com/Sphellep04) | Phellep.Dev | Windhoek, Namibia | 408 |
+| 12 | [Sphellep04](https://github.com/Sphellep04) | Phellep.Dev | Windhoek, Namibia | 394 |
 | 13 | [mou-rush](https://github.com/mou-rush) | Moureen | Swakopmund, Namibia | 321 |
 | 14 | [rtonata88](https://github.com/rtonata88) | Richard Chambula | Windhoek, Namibia | 279 |
 | 15 | [Math0202](https://github.com/Math0202) | Tangeni Matheus | Namibia, Windhoek | 275 |
@@ -83,4 +83,4 @@ Indexed users: 474
 | 19 | [erassynathingo](https://github.com/erassynathingo) | Erastus Nathingo | Windhoek | 33 |
 | 20 | [Fox520](https://github.com/Fox520) | Thomas David | Namibia | 33 |
 
-Generated: 2026-10-21T19:29:18.191Z
+Generated: 2026-10-21T20:59:52.227Z
