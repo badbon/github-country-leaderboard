@@ -41839,7 +41839,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 437,
+    "privateContributions": 374,
     "publicContributions": 0,
     "createdAt": "2014-03-19T22:49:12Z"
   },
@@ -41851,8 +41851,8 @@
     "company": "@PowereX-jsa ",
     "twitterUsername": "petolauri",
     "followers": 129,
-    "privateContributions": 1239,
-    "publicContributions": 0,
+    "privateContributions": 1285,
+    "publicContributions": 8,
     "createdAt": "2014-09-10T18:25:15Z"
   },
   {
@@ -41862,9 +41862,9 @@
     "location": "Bratislava",
     "company": "",
     "twitterUsername": "juffalow",
-    "followers": 98,
-    "privateContributions": 287,
-    "publicContributions": 279,
+    "followers": 100,
+    "privateContributions": 334,
+    "publicContributions": 262,
     "createdAt": "2014-07-12T11:40:12Z"
   },
   {
@@ -41874,8 +41874,8 @@
     "location": "Bratislava",
     "company": "SATORI, s.r.o.",
     "twitterUsername": "Zd3N",
-    "followers": 61,
-    "privateContributions": 26,
+    "followers": 65,
+    "privateContributions": 12,
     "publicContributions": 0,
     "createdAt": "2014-02-07T09:44:57Z"
   },
@@ -41886,20 +41886,20 @@
     "location": "Bratislava, SK",
     "company": "yourweekly.dev",
     "twitterUsername": "",
-    "followers": 58,
-    "privateContributions": 1995,
-    "publicContributions": 269,
+    "followers": 57,
+    "privateContributions": 2323,
+    "publicContributions": 267,
     "createdAt": "2014-01-12T13:27:31Z"
   },
   {
     "login": "marcelmokos",
     "name": "Marcel Mokoš",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/6388074?s=72&u=b4f04bf9228cf3c3a6c3f3cb0ca26012b2282fbd&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6388074?s=72&u=3383ee44cd399f7d343716c7c6735f4a24d73f0d&v=4",
     "location": "Bratislava",
     "company": "reactera s.r.o",
     "twitterUsername": "",
     "followers": 29,
-    "privateContributions": 165,
+    "privateContributions": 468,
     "publicContributions": 2,
     "createdAt": "2014-01-13T09:23:57Z"
   },
@@ -41908,11 +41908,11 @@
     "name": "Michele Brissoni",
     "avatarUrl": "https://avatars.githubusercontent.com/u/10141182?s=72&u=e038eed4ac767377e07c6347add56739a13d222b&v=4",
     "location": "Bratislava",
-    "company": "BriX Consulting",
+    "company": "",
     "twitterUsername": "michelebrissoni",
-    "followers": 28,
-    "privateContributions": 1679,
-    "publicContributions": 482,
+    "followers": 29,
+    "privateContributions": 3086,
+    "publicContributions": 470,
     "createdAt": "2014-12-10T10:53:27Z"
   },
   {
@@ -41922,9 +41922,9 @@
     "location": "Bratislava",
     "company": "",
     "twitterUsername": "",
-    "followers": 27,
+    "followers": 26,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 8,
     "createdAt": "2014-07-07T17:15:43Z"
   },
   {
@@ -41948,7 +41948,7 @@
     "twitterUsername": "",
     "followers": 20,
     "privateContributions": 0,
-    "publicContributions": 35,
+    "publicContributions": 30,
     "createdAt": "2014-06-20T11:02:00Z"
   },
   {
@@ -41959,8 +41959,8 @@
     "company": "Quality Unit",
     "twitterUsername": "",
     "followers": 18,
-    "privateContributions": 8132,
-    "publicContributions": 3667,
+    "privateContributions": 9665,
+    "publicContributions": 3154,
     "createdAt": "2014-01-22T10:04:19Z"
   },
   {
@@ -41971,8 +41971,8 @@
     "company": "Saidot",
     "twitterUsername": "",
     "followers": 18,
-    "privateContributions": 2086,
-    "publicContributions": 303,
+    "privateContributions": 2509,
+    "publicContributions": 309,
     "createdAt": "2014-08-26T12:40:46Z"
   },
   {

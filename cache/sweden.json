@@ -41072,20 +41072,8 @@
     "twitterUsername": "art_egorov",
     "followers": 18,
     "privateContributions": 0,
-    "publicContributions": 33,
+    "publicContributions": 24,
     "createdAt": "2022-05-16T21:12:01Z"
-  },
-  {
-    "login": "Emilianalila",
-    "name": "Emiliana Escobar Zambrana",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/101435749?s=72&u=6289eeccab70dce2c8997f3bfc7c332914825d9b&v=4",
-    "location": "Sweden",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 18,
-    "privateContributions": 35,
-    "publicContributions": 1,
-    "createdAt": "2022-03-11T23:52:56Z"
   },
   {
     "login": "Stenstromen",
@@ -41095,8 +41083,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 18,
-    "privateContributions": 273,
-    "publicContributions": 616,
+    "privateContributions": 281,
+    "publicContributions": 529,
     "createdAt": "2022-04-20T11:47:19Z"
   },
   {
@@ -41118,9 +41106,9 @@
     "location": "Sweden",
     "company": "",
     "twitterUsername": "",
-    "followers": 17,
-    "privateContributions": 67,
-    "publicContributions": 1296,
+    "followers": 19,
+    "privateContributions": 58,
+    "publicContributions": 1129,
     "createdAt": "2022-03-06T17:40:00Z"
   },
   {
@@ -41131,8 +41119,8 @@
     "company": "SciLifeLab, Stockholm University",
     "twitterUsername": "inesmcunha",
     "followers": 17,
-    "privateContributions": 290,
-    "publicContributions": 188,
+    "privateContributions": 271,
+    "publicContributions": 34,
     "createdAt": "2022-06-27T13:44:48Z"
   },
   {
@@ -41142,21 +41130,21 @@
     "location": "Sweden",
     "company": "Data scientist",
     "twitterUsername": "",
-    "followers": 17,
+    "followers": 20,
     "privateContributions": 8,
-    "publicContributions": 65,
+    "publicContributions": 49,
     "createdAt": "2022-01-24T15:32:30Z"
   },
   {
     "login": "KarmaSora",
     "name": "Karam Matar",
     "avatarUrl": "https://avatars.githubusercontent.com/u/98886123?s=72&u=3c81511d800251641c8ff9446ede46922fbc1055&v=4",
-    "location": "Karlskrona, Sweden",
+    "location": "Örkelljunga, Sweden",
     "company": "",
     "twitterUsername": "",
     "followers": 17,
-    "privateContributions": 341,
-    "publicContributions": 106,
+    "privateContributions": 997,
+    "publicContributions": 105,
     "createdAt": "2022-02-02T11:53:06Z"
   },
   {
@@ -41166,9 +41154,9 @@
     "location": "Sweden",
     "company": "",
     "twitterUsername": "",
-    "followers": 16,
+    "followers": 18,
     "privateContributions": 0,
-    "publicContributions": 1234,
+    "publicContributions": 1074,
     "createdAt": "2022-04-04T19:49:17Z"
   },
   {
@@ -41178,9 +41166,9 @@
     "location": "Gothenburg, Sweden",
     "company": "",
     "twitterUsername": "",
-    "followers": 16,
-    "privateContributions": 29,
-    "publicContributions": 44,
+    "followers": 14,
+    "privateContributions": 175,
+    "publicContributions": 9,
     "createdAt": "2022-06-08T17:53:18Z"
   },
   {
@@ -41191,7 +41179,7 @@
     "company": "",
     "twitterUsername": "saerargh",
     "followers": 16,
-    "privateContributions": 3,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-02-11T12:53:56Z"
   },
@@ -41228,7 +41216,7 @@
     "twitterUsername": "",
     "followers": 15,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 1,
     "createdAt": "2022-04-26T12:27:46Z"
   },
   {
@@ -41240,7 +41228,7 @@
     "twitterUsername": "",
     "followers": 15,
     "privateContributions": 0,
-    "publicContributions": 416,
+    "publicContributions": 208,
     "createdAt": "2022-01-17T18:06:46Z"
   },
   {
@@ -41250,9 +41238,9 @@
     "location": "sweden",
     "company": "chainsom",
     "twitterUsername": "",
-    "followers": 15,
+    "followers": 16,
     "privateContributions": 0,
-    "publicContributions": 399,
+    "publicContributions": 381,
     "createdAt": "2022-01-02T09:37:32Z"
   },
   {
@@ -41263,8 +41251,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 14,
-    "privateContributions": 398,
-    "publicContributions": 368,
+    "privateContributions": 200,
+    "publicContributions": 578,
     "createdAt": "2022-02-12T12:55:31Z"
   },
   {
@@ -41274,7 +41262,7 @@
     "location": "Sweden",
     "company": "",
     "twitterUsername": "",
-    "followers": 14,
+    "followers": 13,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-05-19T09:30:13Z"
@@ -41286,9 +41274,9 @@
     "location": "Malmö, Sweden",
     "company": "@vertiseit ",
     "twitterUsername": "",
-    "followers": 14,
-    "privateContributions": 5334,
-    "publicContributions": 806,
+    "followers": 17,
+    "privateContributions": 6202,
+    "publicContributions": 1227,
     "createdAt": "2022-04-05T19:24:27Z"
   },
   {
@@ -41298,9 +41286,9 @@
     "location": "Sweden",
     "company": "",
     "twitterUsername": "_MrBang_",
-    "followers": 14,
+    "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 725,
+    "publicContributions": 687,
     "createdAt": "2022-06-10T18:14:42Z"
   },
   {
