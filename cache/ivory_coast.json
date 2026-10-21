@@ -5564,7 +5564,7 @@
     "twitterUsername": "",
     "followers": 24,
     "privateContributions": 0,
-    "publicContributions": 30,
+    "publicContributions": 32,
     "createdAt": "2013-10-16T08:31:00Z"
   },
   {
@@ -5599,7 +5599,7 @@
     "company": "",
     "twitterUsername": "iskodeur",
     "followers": 7,
-    "privateContributions": 153,
+    "privateContributions": 151,
     "publicContributions": 20,
     "createdAt": "2013-03-30T14:32:12Z"
   },
@@ -5618,12 +5618,12 @@
   {
     "login": "messheno",
     "name": "Stéphane KOUAKOU",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/5787795?s=72&u=6d8c98aac302aa800c140108f540e2f1d1bcc660&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5787795?s=72&u=b8d6138b49de067611d0b284efde1369072b2b33&v=4",
     "location": "Abidjan, Côte D'Ivoire",
-    "company": "Mooya Inc.",
+    "company": "MOOYA SARL",
     "twitterUsername": "messheno",
     "followers": 3,
-    "privateContributions": 736,
+    "privateContributions": 740,
     "publicContributions": 0,
     "createdAt": "2013-10-27T16:45:17Z"
   },
@@ -5706,8 +5706,8 @@
     "location": "Abidjan, Côte d'ivoire",
     "company": "Codivoire SARL.",
     "twitterUsername": "lambirou225",
-    "followers": 10,
-    "privateContributions": 4897,
+    "followers": 11,
+    "privateContributions": 4901,
     "publicContributions": 361,
     "createdAt": "2012-02-11T08:57:58Z"
   },
@@ -5720,7 +5720,7 @@
     "twitterUsername": "m_djaman",
     "followers": 31,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 3,
     "createdAt": "2011-05-22T10:40:41Z"
   },
   {
@@ -5755,7 +5755,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 533,
+    "privateContributions": 532,
     "publicContributions": 74,
     "createdAt": "2011-02-19T13:29:17Z"
   },

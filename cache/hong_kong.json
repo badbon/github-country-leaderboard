@@ -40652,7 +40652,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 53,
+    "publicContributions": 31,
     "createdAt": "2020-09-22T10:46:08Z"
   },
   {
@@ -40664,7 +40664,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 21,
     "createdAt": "2020-12-10T06:44:09Z"
   },
   {
@@ -40676,7 +40676,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 31,
+    "publicContributions": 36,
     "createdAt": "2020-08-24T08:57:17Z"
   },
   {
@@ -40687,8 +40687,8 @@
     "company": "@reality-connect ",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 10340,
-    "publicContributions": 3,
+    "privateContributions": 18238,
+    "publicContributions": 4,
     "createdAt": "2020-11-27T20:15:34Z"
   },
   {
@@ -40698,9 +40698,9 @@
     "location": "Hong Kong",
     "company": "City University of Hong Kong",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 54,
+    "publicContributions": 50,
     "createdAt": "2020-12-18T09:38:57Z"
   },
   {
@@ -40712,7 +40712,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 2,
-    "publicContributions": 8,
+    "publicContributions": 6,
     "createdAt": "2020-10-17T02:38:58Z"
   },
   {
@@ -40722,9 +40722,9 @@
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 185,
-    "publicContributions": 22,
+    "followers": 8,
+    "privateContributions": 218,
+    "publicContributions": 34,
     "createdAt": "2020-12-07T02:42:26Z"
   },
   {
@@ -40734,9 +40734,9 @@
     "location": "HONG KONG",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 138,
     "createdAt": "2020-11-21T12:55:53Z"
   },
   {
@@ -40746,9 +40746,9 @@
     "location": "Hong Kong/ Australia",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 40,
+    "publicContributions": 0,
     "createdAt": "2020-09-08T10:18:44Z"
   },
   {
@@ -40760,7 +40760,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 22,
     "createdAt": "2020-12-02T07:34:29Z"
   },
   {
@@ -40770,9 +40770,9 @@
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "blackwolfhk",
-    "followers": 7,
-    "privateContributions": 1024,
-    "publicContributions": 1,
+    "followers": 8,
+    "privateContributions": 981,
+    "publicContributions": 2,
     "createdAt": "2020-12-16T18:05:38Z"
   },
   {
@@ -40783,7 +40783,7 @@
     "company": "Discovery College",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 179,
+    "privateContributions": 220,
     "publicContributions": 0,
     "createdAt": "2020-11-18T12:57:26Z"
   },
@@ -40794,8 +40794,8 @@
     "location": "Hong Kong, Kyrgyzstan",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 4,
+    "followers": 5,
+    "privateContributions": 2,
     "publicContributions": 5,
     "createdAt": "2019-03-08T21:40:51Z"
   },
@@ -40818,9 +40818,9 @@
     "location": "Hong Kong",
     "company": "@cvrve ",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 1457,
-    "publicContributions": 11,
+    "followers": 8,
+    "privateContributions": 1120,
+    "publicContributions": 26,
     "createdAt": "2020-12-01T05:50:32Z"
   },
   {
@@ -40832,7 +40832,7 @@
     "twitterUsername": "valikhanovich",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 31,
+    "publicContributions": 30,
     "createdAt": "2020-07-01T09:55:17Z"
   },
   {
@@ -40843,7 +40843,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 307,
+    "privateContributions": 309,
     "publicContributions": 8,
     "createdAt": "2020-07-24T10:27:02Z"
   },
@@ -40870,18 +40870,6 @@
     "privateContributions": 0,
     "publicContributions": 6,
     "createdAt": "2020-09-28T12:30:20Z"
-  },
-  {
-    "login": "R2-Y",
-    "name": "Ruirui Yang | Rein",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/73573651?s=72&u=32ffe924124dd49508782133e89e1d37112b2f34&v=4",
-    "location": "Hong Kong",
-    "company": "vLLM-omni",
-    "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 0,
-    "publicContributions": 134,
-    "createdAt": "2020-10-28T04:58:39Z"
   },
   {
     "login": "owidjaja",

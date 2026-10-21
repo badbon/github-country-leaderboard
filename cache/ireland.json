@@ -40777,14 +40777,14 @@
   },
   {
     "login": "kwa0x2",
-    "name": "kwa0x2",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/94715885?s=72&u=ab84a5a49b10753b0843b59780bd1eb18eb8c9c4&v=4",
+    "name": "Alper Karakoyun",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/94715885?s=72&u=3f33f5605267a87512038a95d912eb1c709361db&v=4",
     "location": "Dublin, Ireland",
     "company": "",
     "twitterUsername": "",
-    "followers": 17,
-    "privateContributions": 0,
-    "publicContributions": 235,
+    "followers": 18,
+    "privateContributions": 128,
+    "publicContributions": 122,
     "createdAt": "2021-11-19T19:44:33Z"
   },
   {
@@ -40794,9 +40794,9 @@
     "location": "Dublin, Ireland.",
     "company": "Microsoft",
     "twitterUsername": "",
-    "followers": 17,
+    "followers": 19,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 5,
     "createdAt": "2021-09-28T15:50:35Z"
   },
   {
@@ -40807,8 +40807,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 17,
-    "privateContributions": 334,
-    "publicContributions": 461,
+    "privateContributions": 396,
+    "publicContributions": 436,
     "createdAt": "2021-09-27T08:14:50Z"
   },
   {
@@ -40817,7 +40817,7 @@
     "avatarUrl": "https://avatars.githubusercontent.com/u/94962434?s=72&u=77191976e51aa2f5b2ef11ddd6971046e2317478&v=4",
     "location": "Ireland",
     "company": "",
-    "twitterUsername": "m_odalaigh",
+    "twitterUsername": "",
     "followers": 17,
     "privateContributions": 0,
     "publicContributions": 0,
@@ -40830,7 +40830,7 @@
     "location": "Limerick, Ireland",
     "company": "ATU",
     "twitterUsername": "",
-    "followers": 17,
+    "followers": 16,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-11-18T13:06:50Z"
@@ -40853,23 +40853,11 @@
     "avatarUrl": "https://avatars.githubusercontent.com/u/95914973?s=72&u=6a1858b6b61c070dc9e04e9b8da612733b876d9a&v=4",
     "location": "Dublin, Ireland",
     "company": "Salesforce.com",
-    "twitterUsername": "TheTechWorldPod",
+    "twitterUsername": "AngrySysOpsHQ",
     "followers": 16,
     "privateContributions": 0,
-    "publicContributions": 152,
+    "publicContributions": 156,
     "createdAt": "2021-12-10T11:05:45Z"
-  },
-  {
-    "login": "HarshitP147",
-    "name": "Harshit Pandit",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/95279636?s=72&v=4",
-    "location": "Ireland",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 16,
-    "privateContributions": 14,
-    "publicContributions": 278,
-    "createdAt": "2021-11-30T09:10:01Z"
   },
   {
     "login": "FionaWright",
@@ -40879,8 +40867,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 16,
-    "privateContributions": 183,
-    "publicContributions": 532,
+    "privateContributions": 6,
+    "publicContributions": 844,
     "createdAt": "2021-11-20T13:39:37Z"
   },
   {
@@ -40891,20 +40879,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 15,
-    "privateContributions": 23,
+    "privateContributions": 7,
     "publicContributions": 0,
     "createdAt": "2021-11-10T21:26:50Z"
   },
   {
     "login": "italotrt",
-    "name": "Italo da Silva",
+    "name": "Italo",
     "avatarUrl": "https://avatars.githubusercontent.com/u/92447706?s=72&u=6cd98bad18827324cc4522fbbb686acb16323cdc&v=4",
     "location": "Ireland",
-    "company": "University of Limerick",
+    "company": "",
     "twitterUsername": "",
-    "followers": 15,
-    "privateContributions": 38,
-    "publicContributions": 71,
+    "followers": 19,
+    "privateContributions": 41,
+    "publicContributions": 67,
     "createdAt": "2021-10-13T13:40:56Z"
   },
   {
@@ -40915,8 +40903,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 14,
-    "privateContributions": 32,
-    "publicContributions": 575,
+    "privateContributions": 35,
+    "publicContributions": 620,
     "createdAt": "2021-11-04T09:02:14Z"
   },
   {
@@ -40926,9 +40914,9 @@
     "location": "Dublin, Ireland",
     "company": "",
     "twitterUsername": "",
-    "followers": 14,
+    "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 82,
+    "publicContributions": 81,
     "createdAt": "2021-09-16T12:52:08Z"
   },
   {
@@ -40952,7 +40940,7 @@
     "twitterUsername": "",
     "followers": 14,
     "privateContributions": 12,
-    "publicContributions": 222,
+    "publicContributions": 227,
     "createdAt": "2021-10-14T13:53:09Z"
   },
   {
@@ -40962,9 +40950,9 @@
     "location": "Ireland",
     "company": "University of Galway",
     "twitterUsername": "",
-    "followers": 14,
-    "privateContributions": 33,
-    "publicContributions": 72,
+    "followers": 15,
+    "privateContributions": 64,
+    "publicContributions": 93,
     "createdAt": "2021-08-11T17:23:29Z"
   },
   {
@@ -40987,8 +40975,8 @@
     "company": "University College Dublin",
     "twitterUsername": "",
     "followers": 13,
-    "privateContributions": 0,
-    "publicContributions": 12,
+    "privateContributions": 36,
+    "publicContributions": 17,
     "createdAt": "2021-07-24T06:26:22Z"
   },
   {
@@ -40998,9 +40986,9 @@
     "location": "Ireland",
     "company": "Jio Platforms Limited",
     "twitterUsername": "",
-    "followers": 13,
-    "privateContributions": 84,
-    "publicContributions": 9,
+    "followers": 10,
+    "privateContributions": 167,
+    "publicContributions": 7,
     "createdAt": "2021-08-01T11:02:00Z"
   },
   {
@@ -41010,8 +40998,8 @@
     "location": "Dublin, Ireland",
     "company": "MongoDB",
     "twitterUsername": "",
-    "followers": 13,
-    "privateContributions": 37,
+    "followers": 10,
+    "privateContributions": 71,
     "publicContributions": 0,
     "createdAt": "2021-09-01T14:00:50Z"
   },
