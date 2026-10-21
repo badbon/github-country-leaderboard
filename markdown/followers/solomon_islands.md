@@ -1,12 +1,12 @@
 # Followers - Solomon Islands
 
-Generated: 2026-10-21T18:19:39.181Z
+Generated: 2026-10-21T19:49:12.147Z
 
 Users: 19
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [anikwai](https://github.com/anikwai) | Watson  Cyrus Anikwai | Our Telekom | wanikwai | Solomon Islands | 34 |
+| 1 | [anikwai](https://github.com/anikwai) | Watson  Cyrus Anikwai | Our Telekom | wanikwai | Solomon Islands | 33 |
 | 2 | [masachi](https://github.com/masachi) | YukinoshitaKyaru |  |  | Solomon Islands | 25 |
 | 3 | [b-tupiti](https://github.com/b-tupiti) | Brandon Ryan Tupiti | SINPF |  | Honiara, Solomon Islands | 14 |
 | 4 | [bryanrscott](https://github.com/bryanrscott) | Bryan | FFA |  | Honiara | 14 |

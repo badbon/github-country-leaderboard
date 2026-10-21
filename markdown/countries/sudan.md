@@ -14,12 +14,12 @@ Indexed users: 727
 |---:|---|---|---|---:|
 | 1 | [mustafa-online](https://github.com/mustafa-online) | Mustafa Online | Khartoum, Sudan | 10,343 |
 | 2 | [TheYass1n](https://github.com/TheYass1n) | Yassin Hussein | Sudan | 7,752 |
-| 3 | [EMAD77](https://github.com/EMAD77) | Emad777 | Sudan | 5,816 |
+| 3 | [EMAD77](https://github.com/EMAD77) | Emad777 | Sudan | 6,336 |
 | 4 | [Mohammed-Moniem](https://github.com/Mohammed-Moniem) | Mohammed-Moniem | Farog Diyab St, Mamora, Khartoum, Sudan | 5,369 |
 | 5 | [obaaa8](https://github.com/obaaa8) | محمود عبدالسميع التوم | sudan | 5,199 |
 | 6 | [hacktolove](https://github.com/hacktolove) | Ashraf Alhaj | Sudan | 4,850 |
 | 7 | [alsir](https://github.com/alsir) | Alsir Hamory | Khartoum , sudan | 3,686 |
-| 8 | [harranali](https://github.com/harranali) |  | Sudan | 3,295 |
+| 8 | [harranali](https://github.com/harranali) |  | Sudan | 3,290 |
 | 9 | [hamoda-dev](https://github.com/hamoda-dev) | Mohammed Hamid Hamoda | Sudan | 3,186 |
 | 10 | [m-elhabib-dev](https://github.com/m-elhabib-dev) | Mohamed Elhabib | Sudan, Khartoum | 2,906 |
 | 11 | [MohdMuslim92](https://github.com/MohdMuslim92) | Mohammed Saeed | Sudan - Khartoum | 2,854 |
@@ -30,8 +30,8 @@ Indexed users: 727
 | 16 | [Bakrialtaif](https://github.com/Bakrialtaif) | Abobaker Altaif | Sudan | 2,483 |
 | 17 | [AminOmer](https://github.com/AminOmer) | Amin Omer | Khartoum, Sudan | 2,473 |
 | 18 | [asimsharf](https://github.com/asimsharf) | Asim Abdelgadir | Sudan | 2,298 |
-| 19 | [OxSama](https://github.com/OxSama) | OxSama | Khartoum - Sudan | 2,134 |
-| 20 | [wali-eldin-hassan](https://github.com/wali-eldin-hassan) | Wali Eldin  | Sudan | 2,065 |
+| 19 | [blacksud0](https://github.com/blacksud0) | OMER SAEED | Khartoum,Sudan | 2,190 |
+| 20 | [OxSama](https://github.com/OxSama) | OxSama | Khartoum - Sudan | 2,134 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 727
 | 19 | [kabaros](https://github.com/kabaros) | Mozafar | Khartoum / Glasgow | 51 |
 | 20 | [obaaa8](https://github.com/obaaa8) | محمود عبدالسميع التوم | sudan | 49 |
 
-Generated: 2026-10-21T18:23:15.803Z
+Generated: 2026-10-21T19:51:47.662Z
