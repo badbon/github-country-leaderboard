@@ -41420,7 +41420,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 0,
     "createdAt": "2020-09-09T20:37:48Z"
   },
   {
@@ -41442,7 +41442,7 @@
     "location": "Belgrade",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-04-08T11:53:02Z"
@@ -41467,8 +41467,8 @@
     "company": "International Consulting & Development",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 210,
-    "publicContributions": 102,
+    "privateContributions": 99,
+    "publicContributions": 65,
     "createdAt": "2020-05-13T06:36:59Z"
   },
   {
@@ -41479,8 +41479,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 16,
-    "publicContributions": 1,
+    "privateContributions": 11,
+    "publicContributions": 0,
     "createdAt": "2020-05-23T12:18:20Z"
   },
   {
@@ -41527,7 +41527,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 638,
+    "privateContributions": 639,
     "publicContributions": 7,
     "createdAt": "2020-01-17T12:26:04Z"
   },
@@ -41540,7 +41540,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 200,
+    "publicContributions": 197,
     "createdAt": "2020-03-25T15:29:36Z"
   },
   {
@@ -41576,7 +41576,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 8,
     "createdAt": "2020-09-15T17:28:59Z"
   },
   {
@@ -41599,7 +41599,7 @@
     "company": "Clavius Health",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 25,
+    "privateContributions": 29,
     "publicContributions": 24,
     "createdAt": "2020-11-29T17:32:56Z"
   },
@@ -41610,9 +41610,9 @@
     "location": "Oxford / Belgrade",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 2,
     "createdAt": "2020-04-05T12:09:50Z"
   },
   {

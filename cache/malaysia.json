@@ -41108,7 +41108,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2021-04-15T11:30:11Z"
   },
   {
@@ -41155,8 +41155,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 24,
-    "publicContributions": 30,
+    "privateContributions": 7,
+    "publicContributions": 35,
     "createdAt": "2021-01-25T13:49:57Z"
   },
   {
@@ -41168,7 +41168,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 49,
+    "publicContributions": 45,
     "createdAt": "2021-05-10T18:40:17Z"
   },
   {
@@ -41178,9 +41178,9 @@
     "location": "Malaysia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 114,
+    "publicContributions": 585,
     "createdAt": "2021-06-12T11:02:52Z"
   },
   {
@@ -41335,7 +41335,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 152,
+    "privateContributions": 156,
     "publicContributions": 126,
     "createdAt": "2021-01-16T04:00:22Z"
   },

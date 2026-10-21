@@ -288886,5 +288886,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-02-14T14:39:34Z"
+  },
+  {
+    "login": "getmatinee",
+    "name": "Matinee Media Server",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/297988287?s=72&u=a2a536493f02e174f1f8e25adf14712d48966f9c&v=4",
+    "location": "Bern",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 30,
+    "createdAt": "2026-06-29T17:17:29Z"
+  },
+  {
+    "login": "swissassistent-hub",
+    "name": "Marat Hubanov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/297981402?s=72&u=e2bd96fee0d1125bd3ecd2221baff25209998eab&v=4",
+    "location": "Bern",
+    "company": "Der Verein “Swissаssistent”",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-29T16:48:52Z"
   }
 ]

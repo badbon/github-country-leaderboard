@@ -41371,7 +41371,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 25,
+    "privateContributions": 23,
     "publicContributions": 0,
     "createdAt": "2013-04-10T09:27:32Z"
   },
@@ -41419,8 +41419,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 17,
-    "privateContributions": 1734,
-    "publicContributions": 3,
+    "privateContributions": 1665,
+    "publicContributions": 4,
     "createdAt": "2012-01-19T17:12:08Z"
   },
   {
@@ -41431,7 +41431,7 @@
     "company": "",
     "twitterUsername": "Kwizera_Fabrice",
     "followers": 11,
-    "privateContributions": 0,
+    "privateContributions": 2,
     "publicContributions": 2,
     "createdAt": "2012-11-24T17:55:54Z"
   },
@@ -41454,7 +41454,7 @@
     "location": "Kigali Rwanda",
     "company": "Pivot Access LTD",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2012-03-12T08:28:42Z"
@@ -41504,7 +41504,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 93,
+    "publicContributions": 79,
     "createdAt": "2012-10-02T12:38:57Z"
   },
   {
@@ -41526,9 +41526,9 @@
     "location": "Kigali",
     "company": "HISP RWANDA",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 104,
+    "publicContributions": 90,
     "createdAt": "2012-06-28T16:07:10Z"
   },
   {
@@ -41563,7 +41563,7 @@
     "company": "PIVOT ACCESS LTD",
     "twitterUsername": "",
     "followers": 18,
-    "privateContributions": 13,
+    "privateContributions": 5,
     "publicContributions": 2,
     "createdAt": "2011-08-11T07:18:10Z"
   },
@@ -41575,8 +41575,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 17,
-    "privateContributions": 8141,
-    "publicContributions": 92,
+    "privateContributions": 13441,
+    "publicContributions": 191,
     "createdAt": "2011-06-09T14:05:19Z"
   },
   {
@@ -41586,7 +41586,7 @@
     "location": "Kigali - RWANDA",
     "company": "Clinton Health Access Initiative CHAI",
     "twitterUsername": "",
-    "followers": 14,
+    "followers": 15,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2011-12-23T15:31:43Z"
@@ -41986,5 +41986,17 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-05-28T07:53:41Z"
+  },
+  {
+    "login": "alexissengangabo07",
+    "name": "Dr. Code",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/55744981?s=72&u=23b7c8bcb6ba366e60acd18d1bb0da2c87e97542&v=4",
+    "location": "Kigali, Rwanda",
+    "company": "SnapTech DRC",
+    "twitterUsername": "alexis_ngab",
+    "followers": 317,
+    "privateContributions": 1,
+    "publicContributions": 5,
+    "createdAt": "2019-09-24T11:35:24Z"
   }
 ]

@@ -41324,7 +41324,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 2,
     "createdAt": "2023-01-23T05:49:34Z"
   },
   {
@@ -41359,8 +41359,8 @@
     "company": "Janaki Tech",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 6,
-    "publicContributions": 2,
+    "privateContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2023-06-09T04:28:08Z"
   },
   {
@@ -41395,21 +41395,9 @@
     "company": "@fractl-io @fractl-dev ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1876,
-    "publicContributions": 664,
+    "privateContributions": 2030,
+    "publicContributions": 515,
     "createdAt": "2023-05-18T04:16:25Z"
-  },
-  {
-    "login": "teamdaddy1",
-    "name": "TeamDaddy",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/128716521?s=72&u=60ef7200591db66f0ee2ee37382e09600a6908dc&v=4",
-    "location": "Nepal",
-    "company": "ACS Infotech Pvt Ltd.",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 50,
-    "createdAt": "2023-03-23T14:15:08Z"
   },
   {
     "login": "PrinceBhusal",
@@ -41486,7 +41474,7 @@
   {
     "login": "krishtina059",
     "name": "Krishtina Shrestha",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/126657078?s=72&u=021d05e7c7b7b50446a713026ae412707c7098de&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/126657078?s=72&u=563e5a8f91c86a30b3957fcff465b5dc36712599&v=4",
     "location": "Makawanpur, Nepal",
     "company": "",
     "twitterUsername": "",
@@ -41504,7 +41492,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 13,
     "createdAt": "2023-01-08T02:32:36Z"
   },
   {
@@ -41526,9 +41514,9 @@
     "location": "Kathmandu, Nepal",
     "company": "",
     "twitterUsername": "Abishek16119742",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 2,
     "createdAt": "2023-04-07T05:53:24Z"
   },
   {
