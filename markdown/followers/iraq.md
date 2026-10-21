@@ -1,8 +1,8 @@
 # Followers - Iraq
 
-Generated: 2026-10-20T22:30:32.241Z
+Generated: 2026-10-21T00:44:26.151Z
 
-Users: 2232
+Users: 2231
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

@@ -1,6 +1,6 @@
 # Public Contributions - French Polynesia
 
-Generated: 2026-10-20T22:22:28.824Z
+Generated: 2026-10-21T00:34:24.643Z
 
 Users: 60
 
@@ -15,7 +15,7 @@ Users: 60
 | 7 | [jburckel](https://github.com/jburckel) |  | natimai.solutions |  | French Polynesia | 246 |
 | 8 | [jalik](https://github.com/jalik) | Karl Stein | SIGMA POLYNESIA | jalik26 | French Polynesia | 231 |
 | 9 | [syllebra](https://github.com/syllebra) | BilboX |  |  | French Polynesia | 130 |
-| 10 | [laurentpellet](https://github.com/laurentpellet) | Laurent PELLET | ispf.pf |  | French Polynesia | 45 |
+| 10 | [laurentpellet](https://github.com/laurentpellet) | Laurent PELLET | ispf.pf |  | French Polynesia | 42 |
 | 11 | [paraita](https://github.com/paraita) | Paraita Wohler | @e-reo | paraita | Tahiti, French Polynesia | 40 |
 | 12 | [kavehei-lang](https://github.com/kavehei-lang) | Anastasia - HIKUTINI |  |  | Polynésie Française | 34 |
 | 13 | [AJamelot](https://github.com/AJamelot) | ajamelot | Laboratoire de Géophysique de Tahiti |  | Polynésie Française | 12 |

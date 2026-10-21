@@ -13,7 +13,7 @@ Indexed users: 48
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [xiaden](https://github.com/xiaden) | Lucian Hardy | Guam | 1,675 |
-| 2 | [ChairGTables](https://github.com/ChairGTables) | Jurichii | Guam | 1,563 |
+| 2 | [ChairGTables](https://github.com/ChairGTables) | Jurichii | Guam | 1,562 |
 | 3 | [dannikate](https://github.com/dannikate) | Dannika | Guam | 1,185 |
 | 4 | [ThaumX](https://github.com/ThaumX) | ThaumX | Guam | 482 |
 | 5 | [Chovin](https://github.com/Chovin) |  | Guam | 292 |
@@ -27,9 +27,9 @@ Indexed users: 48
 | 13 | [ReyBan82](https://github.com/ReyBan82) | Renante B Baniaga | Guam, United, States | 11 |
 | 14 | [alliahdavid](https://github.com/alliahdavid) | Alliah Czarielle | Guam | 10 |
 | 15 | [Ritan671](https://github.com/Ritan671) | Ritan M Borja | Guam  | 9 |
-| 16 | [Disav0wed](https://github.com/Disav0wed) | Ibrahim R Serpici | Guam | 5 |
-| 17 | [justjohnnyj](https://github.com/justjohnnyj) | Johnny T | Guam | 4 |
-| 18 | [Oddbrother](https://github.com/Oddbrother) |  | Guam | 4 |
+| 16 | [justjohnnyj](https://github.com/justjohnnyj) | Johnny T | Guam | 4 |
+| 17 | [Oddbrother](https://github.com/Oddbrother) |  | Guam | 4 |
+| 18 | [Disav0wed](https://github.com/Disav0wed) | Ibrahim R Serpici | Guam | 2 |
 | 19 | [Duplexx52](https://github.com/Duplexx52) | Notfooledbyallyou | Guam | 2 |
 | 20 | [jasperdanan](https://github.com/jasperdanan) | Jasper Danan | Guam | 2 |
 
@@ -49,10 +49,10 @@ Indexed users: 48
 | 10 | [alliahdavid](https://github.com/alliahdavid) | Alliah Czarielle | Guam | 10 |
 | 11 | [nanodavinci](https://github.com/nanodavinci) | leo | Hagåtña, Guam | 10 |
 | 12 | [Ritan671](https://github.com/Ritan671) | Ritan M Borja | Guam  | 9 |
-| 13 | [Disav0wed](https://github.com/Disav0wed) | Ibrahim R Serpici | Guam | 5 |
-| 14 | [justjohnnyj](https://github.com/justjohnnyj) | Johnny T | Guam | 4 |
-| 15 | [Oddbrother](https://github.com/Oddbrother) |  | Guam | 4 |
-| 16 | [ChairGTables](https://github.com/ChairGTables) | Jurichii | Guam | 3 |
+| 13 | [justjohnnyj](https://github.com/justjohnnyj) | Johnny T | Guam | 4 |
+| 14 | [Oddbrother](https://github.com/Oddbrother) |  | Guam | 4 |
+| 15 | [ChairGTables](https://github.com/ChairGTables) | Jurichii | Guam | 3 |
+| 16 | [Disav0wed](https://github.com/Disav0wed) | Ibrahim R Serpici | Guam | 2 |
 | 17 | [Duplexx52](https://github.com/Duplexx52) | Notfooledbyallyou | Guam | 2 |
 | 18 | [guamencja](https://github.com/guamencja) | guam | Guam | 2 |
 | 19 | [jasperdanan](https://github.com/jasperdanan) | Jasper Danan | Guam | 1 |
@@ -83,4 +83,4 @@ Indexed users: 48
 | 19 | [guamencja](https://github.com/guamencja) | guam | Guam | 4 |
 | 20 | [Rcarganilla](https://github.com/Rcarganilla) | Rizalyn T. Carganilla | Guam | 4 |
 
-Generated: 2026-10-20T22:25:53.601Z
+Generated: 2026-10-21T00:38:41.563Z

@@ -54,8 +54,8 @@ Indexed users: 314
 | 15 | [jennigs241](https://github.com/jennigs241) |  | Gabon | 165 |
 | 16 | [waly2020](https://github.com/waly2020) | waly le dev | Gabon (Libreville) | 154 |
 | 17 | [Dylan245-droid](https://github.com/Dylan245-droid) | Dylan ONDO | Libreville, Gabon | 150 |
-| 18 | [lmlouis](https://github.com/lmlouis) | WORA SOUAMY Louis Martin  | Libreville, Gabon | 141 |
-| 19 | [flucasx2](https://github.com/flucasx2) | Francis Sop Sop | Libreville | 139 |
+| 18 | [flucasx2](https://github.com/flucasx2) | Francis Sop Sop | Libreville | 139 |
+| 19 | [lmlouis](https://github.com/lmlouis) | WORA SOUAMY Louis Martin  | Libreville, Gabon | 134 |
 | 20 | [NGOUBADJAMBO-Richard](https://github.com/NGOUBADJAMBO-Richard) | NGOUBADJAMBO Richard | Gabon - Libreville | 130 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 314
 | 19 | [Dylan245-droid](https://github.com/Dylan245-droid) | Dylan ONDO | Libreville, Gabon | 22 |
 | 20 | [Marseven](https://github.com/Marseven) | Aristide Mebodo | Libreville | 19 |
 
-Generated: 2026-10-20T22:23:40.159Z
+Generated: 2026-10-21T00:35:43.050Z

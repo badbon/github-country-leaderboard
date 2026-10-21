@@ -1,8 +1,8 @@
 # Public Contributions - Guatemala
 
-Generated: 2026-10-20T22:25:57.263Z
+Generated: 2026-10-21T00:40:16.873Z
 
-Users: 3212
+Users: 3210
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -20,9 +20,9 @@ Users: 3212
 | 12 | [erwindank](https://github.com/erwindank) | Erwin Solorzano |  |  | Guatemala | 1358 |
 | 13 | [MaxMald](https://github.com/MaxMald) | Max Maldonado | HummingFlight |  | Guatemala | 1305 |
 | 14 | [ykro](https://github.com/ykro) | Adrián Catalán | Elemental Geeks |  | Guatemala | 1203 |
-| 15 | [pablo-mald03](https://github.com/pablo-mald03) | Pablo_Maldonado |  |  | Guatemala | 1112 |
-| 16 | [eylles](https://github.com/eylles) |  |  |  | Guatemala | 1067 |
-| 17 | [robindanilo2218](https://github.com/robindanilo2218) | Robin Gregorio | RdGregorio CWS |  | Guatemala | 1026 |
-| 18 | [AlfredoG87](https://github.com/AlfredoG87) | Alfredo Gutierrez | @hashgraph @hiero-ledger @swirldslabs  |  | Guatemala | 1019 |
-| 19 | [GlendyT](https://github.com/GlendyT) | Glendy Tuyuc |  |  | Guatemala | 995 |
-| 20 | [acwilan](https://github.com/acwilan) | Andres Rovira | @telus | acwilan | Guatemala | 959 |
+| 15 | [eylles](https://github.com/eylles) |  |  |  | Guatemala | 1067 |
+| 16 | [robindanilo2218](https://github.com/robindanilo2218) | Robin Gregorio | RdGregorio CWS |  | Guatemala | 1026 |
+| 17 | [AlfredoG87](https://github.com/AlfredoG87) | Alfredo Gutierrez | @hashgraph @hiero-ledger @swirldslabs  |  | Guatemala | 1019 |
+| 18 | [GlendyT](https://github.com/GlendyT) | Glendy Tuyuc |  |  | Guatemala | 995 |
+| 19 | [acwilan](https://github.com/acwilan) | Andres Rovira | @telus | acwilan | Guatemala | 959 |
+| 20 | [alemanuel18](https://github.com/alemanuel18) | Alejandro Jerez | Universidad del Valle de Guatemala |  | Guatemala, Guatemala | 899 |

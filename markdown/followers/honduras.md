@@ -1,6 +1,6 @@
 # Followers - Honduras
 
-Generated: 2026-10-20T22:28:19.619Z
+Generated: 2026-10-21T00:41:59.529Z
 
 Users: 1258
 
@@ -14,7 +14,7 @@ Users: 1258
 | 6 | [obetancourthunicah](https://github.com/obetancourthunicah) | Orlando J Betancourth Alvarenga | UNICAH |  | Tegucigalpa Honduras | 234 |
 | 7 | [salvatoretrimarchi](https://github.com/salvatoretrimarchi) | Salvatore Josue Trimarchi Pinto | Salvatore Trimarchi |  | Honduras | 183 |
 | 8 | [DavidBrionesFF](https://github.com/DavidBrionesFF) | Jose David Briones Rosa | NaT Technologies S. A | aprendefacil101 | Tegucigalpa, Honduras, C,A | 178 |
-| 9 | [andriksantos](https://github.com/andriksantos) | Andrik Santos | IOminds |  | Honduras | 150 |
+| 9 | [andriksantos](https://github.com/andriksantos) | Andrik Santos | IOminds |  | Honduras | 149 |
 | 10 | [FranciscoJGuz](https://github.com/FranciscoJGuz) | Francisco Javier Guzmán Lagos | Plasencia Tabacos S.A. |  | Tegucigalpa, Honduras | 146 |
 | 11 | [carlosdarioio](https://github.com/carlosdarioio) | Carlos Dario Flores  | Technology Innovation Officer | carlosdarioio | San Pedro Sula, Honduras | 143 |
 | 12 | [hsabillon7](https://github.com/hsabillon7) | Héctor Sabillón | BairesDev | hector_helliel | Honduras | 136 |

@@ -1,6 +1,6 @@
 # Public Contributions - Guam
 
-Generated: 2026-10-20T22:25:53.601Z
+Generated: 2026-10-21T00:38:41.563Z
 
 Users: 48
 
@@ -18,10 +18,10 @@ Users: 48
 | 10 | [alliahdavid](https://github.com/alliahdavid) | Alliah Czarielle | Guam Community College — Majoring in Information Technology  |  | Guam | 10 |
 | 11 | [nanodavinci](https://github.com/nanodavinci) | leo | Muy Dibujo LTD. |  | Hagåtña, Guam | 10 |
 | 12 | [Ritan671](https://github.com/Ritan671) | Ritan M Borja | KurasonGuahan Wallet  |  | Guam  | 9 |
-| 13 | [Disav0wed](https://github.com/Disav0wed) | Ibrahim R Serpici |  |  | Guam | 5 |
-| 14 | [justjohnnyj](https://github.com/justjohnnyj) | Johnny T |  |  | Guam | 4 |
-| 15 | [Oddbrother](https://github.com/Oddbrother) |  |  | Oddbrother | Guam | 4 |
-| 16 | [ChairGTables](https://github.com/ChairGTables) | Jurichii | Lame Dimension | chairgtables | Guam | 3 |
+| 13 | [justjohnnyj](https://github.com/justjohnnyj) | Johnny T |  |  | Guam | 4 |
+| 14 | [Oddbrother](https://github.com/Oddbrother) |  |  | Oddbrother | Guam | 4 |
+| 15 | [ChairGTables](https://github.com/ChairGTables) | Jurichii | Lame Dimension | chairgtables | Guam | 3 |
+| 16 | [Disav0wed](https://github.com/Disav0wed) | Ibrahim R Serpici |  |  | Guam | 2 |
 | 17 | [Duplexx52](https://github.com/Duplexx52) | Notfooledbyallyou |  |  | Guam | 2 |
 | 18 | [guamencja](https://github.com/guamencja) | guam |  |  | Guam | 2 |
 | 19 | [jasperdanan](https://github.com/jasperdanan) | Jasper Danan |  |  | Guam | 1 |

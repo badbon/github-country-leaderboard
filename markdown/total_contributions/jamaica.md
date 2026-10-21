@@ -1,6 +1,6 @@
 # Total Contributions - Jamaica
 
-Generated: 2026-10-20T22:33:22.343Z
+Generated: 2026-10-21T00:47:54.987Z
 
 Users: 1271
 
@@ -24,5 +24,5 @@ Users: 1271
 | 16 | [emperorjm](https://github.com/emperorjm) | Adrian Thompson |  |  | Jamaica | 4532 |
 | 17 | [javaniecampbell](https://github.com/javaniecampbell) | Javanie Campbell | @DevDaysAtWork  |  | Jamaica | 4426 |
 | 18 | [JCarran0](https://github.com/JCarran0) | Jared Carrano | 2U Inc. |  | Kingston, NY | 4413 |
-| 19 | [shanoysinc](https://github.com/shanoysinc) | Shanoy Sinclair |  | shanoysinc | Jamaica | 4160 |
-| 20 | [kazo0](https://github.com/kazo0) | Steve Bilogan | @unoplatform | BiloganSteve | Kingston, ON | 4142 |
+| 19 | [CryptoCanuck](https://github.com/CryptoCanuck) | Chris Robinson | RIMDC |  | Kingston, ON | 4245 |
+| 20 | [shanoysinc](https://github.com/shanoysinc) | Shanoy Sinclair |  | shanoysinc | Jamaica | 4160 |

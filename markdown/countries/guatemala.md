@@ -1,6 +1,6 @@
 # Guatemala
 
-Indexed users: 3,212
+Indexed users: 3,210
 
 | Leaderboard | Link |
 |---|---|
@@ -51,12 +51,12 @@ Indexed users: 3,212
 | 12 | [erwindank](https://github.com/erwindank) | Erwin Solorzano | Guatemala | 1,358 |
 | 13 | [MaxMald](https://github.com/MaxMald) | Max Maldonado | Guatemala | 1,305 |
 | 14 | [ykro](https://github.com/ykro) | Adrián Catalán | Guatemala | 1,203 |
-| 15 | [pablo-mald03](https://github.com/pablo-mald03) | Pablo_Maldonado | Guatemala | 1,112 |
-| 16 | [eylles](https://github.com/eylles) |  | Guatemala | 1,067 |
-| 17 | [robindanilo2218](https://github.com/robindanilo2218) | Robin Gregorio | Guatemala | 1,026 |
-| 18 | [AlfredoG87](https://github.com/AlfredoG87) | Alfredo Gutierrez | Guatemala | 1,019 |
-| 19 | [GlendyT](https://github.com/GlendyT) | Glendy Tuyuc | Guatemala | 995 |
-| 20 | [acwilan](https://github.com/acwilan) | Andres Rovira | Guatemala | 959 |
+| 15 | [eylles](https://github.com/eylles) |  | Guatemala | 1,067 |
+| 16 | [robindanilo2218](https://github.com/robindanilo2218) | Robin Gregorio | Guatemala | 1,026 |
+| 17 | [AlfredoG87](https://github.com/AlfredoG87) | Alfredo Gutierrez | Guatemala | 1,019 |
+| 18 | [GlendyT](https://github.com/GlendyT) | Glendy Tuyuc | Guatemala | 995 |
+| 19 | [acwilan](https://github.com/acwilan) | Andres Rovira | Guatemala | 959 |
+| 20 | [alemanuel18](https://github.com/alemanuel18) | Alejandro Jerez | Guatemala, Guatemala | 899 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 3,212
 | 19 | [cms](https://github.com/cms) | Christian C. Salvadó | Guatemala | 117 |
 | 20 | [tian2992](https://github.com/tian2992) | Sebastian Oliva | Guatemala | 113 |
 
-Generated: 2026-10-20T22:25:57.263Z
+Generated: 2026-10-21T00:40:16.873Z
