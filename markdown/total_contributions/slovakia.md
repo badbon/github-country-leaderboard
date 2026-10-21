@@ -1,6 +1,6 @@
 # Total Contributions - Slovakia
 
-Generated: 2026-10-21T21:23:14.535Z
+Generated: 2026-10-21T23:23:13.718Z
 
 Users: 4656
 
@@ -10,8 +10,8 @@ Users: 4656
 | 2 | [NagyVikt](https://github.com/NagyVikt) | Viktor Nagy | Kromberg & Schubert | NagyViktordp | Slovakia  | 16177 |
 | 3 | [mario-chamuty](https://github.com/mario-chamuty) | Mario Chamuty | @version-two  | chamuty | Bratislava, Slovakia | 15885 |
 | 4 | [kyemets](https://github.com/kyemets) | Kostiantyn Yemets | @EHOSS-IT |  | Slovak Republic | 13908 |
-| 5 | [Mausino](https://github.com/Mausino) | Miky Mikolaj | Ubytovanie FOR YOU, sro |  | Košice, Slovakia | 11966 |
-| 6 | [vzeman](https://github.com/vzeman) | Viktor Zeman | Quality Unit |  | Bratislava | 11799 |
+| 5 | [vzeman](https://github.com/vzeman) | Viktor Zeman | Quality Unit |  | Bratislava | 12819 |
+| 6 | [Mausino](https://github.com/Mausino) | Miky Mikolaj | Ubytovanie FOR YOU, sro |  | Košice, Slovakia | 11966 |
 | 7 | [davidian-sk](https://github.com/davidian-sk) |  |  |  | Bratislava | 11724 |
 | 8 | [oliver-kriska](https://github.com/oliver-kriska) | Oliver Kriska |  | quatermain32 | Slovakia | 10417 |
 | 9 | [potyl](https://github.com/potyl) | Emmanuel Rodriguez | Cloudbeds |  | Bratislava, Slovakia | 10414 |

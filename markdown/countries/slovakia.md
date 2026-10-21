@@ -16,8 +16,8 @@ Indexed users: 4,656
 | 2 | [NagyVikt](https://github.com/NagyVikt) | Viktor Nagy | Slovakia  | 16,177 |
 | 3 | [mario-chamuty](https://github.com/mario-chamuty) | Mario Chamuty | Bratislava, Slovakia | 15,885 |
 | 4 | [kyemets](https://github.com/kyemets) | Kostiantyn Yemets | Slovak Republic | 13,908 |
-| 5 | [Mausino](https://github.com/Mausino) | Miky Mikolaj | Košice, Slovakia | 11,966 |
-| 6 | [vzeman](https://github.com/vzeman) | Viktor Zeman | Bratislava | 11,799 |
+| 5 | [vzeman](https://github.com/vzeman) | Viktor Zeman | Bratislava | 12,819 |
+| 6 | [Mausino](https://github.com/Mausino) | Miky Mikolaj | Košice, Slovakia | 11,966 |
 | 7 | [davidian-sk](https://github.com/davidian-sk) |  | Bratislava | 11,724 |
 | 8 | [oliver-kriska](https://github.com/oliver-kriska) | Oliver Kriska | Slovakia | 10,417 |
 | 9 | [potyl](https://github.com/potyl) | Emmanuel Rodriguez | Bratislava, Slovakia | 10,414 |
@@ -47,9 +47,9 @@ Indexed users: 4,656
 | 8 | [Kenessy](https://github.com/Kenessy) | Daniel Kenessy | Slovakia | 3,788 |
 | 9 | [imincik](https://github.com/imincik) | Ivan Mincik | Slovakia | 3,740 |
 | 10 | [MatusMockor](https://github.com/MatusMockor) | Matúš Močkor | Slovakia | 3,668 |
-| 11 | [vzeman](https://github.com/vzeman) | Viktor Zeman | Bratislava | 3,667 |
-| 12 | [marianmeres](https://github.com/marianmeres) | Marian Meres | Bratislava, Slovakia | 3,264 |
-| 13 | [peter-fusek](https://github.com/peter-fusek) | Peter Fusek \| instarea | Bratislava, Slovakia, EU | 3,256 |
+| 11 | [marianmeres](https://github.com/marianmeres) | Marian Meres | Bratislava, Slovakia | 3,264 |
+| 12 | [peter-fusek](https://github.com/peter-fusek) | Peter Fusek \| instarea | Bratislava, Slovakia, EU | 3,256 |
+| 13 | [vzeman](https://github.com/vzeman) | Viktor Zeman | Bratislava | 3,154 |
 | 14 | [NightMean](https://github.com/NightMean) |  | Slovakia | 3,023 |
 | 15 | [WizzardSK](https://github.com/WizzardSK) |  | Bratislava, Slovakia | 2,853 |
 | 16 | [alvianzf](https://github.com/alvianzf) | Alvian Zachry Faturrahman | Tanjungpinang, Batam, Karimun, Bratislava | 2,610 |
@@ -83,4 +83,4 @@ Indexed users: 4,656
 | 19 | [Stiivi](https://github.com/Stiivi) | Stefan Urbanek | Bratislava | 280 |
 | 20 | [haad](https://github.com/haad) | Adam Hamsik | Bratislava Slovakia | 259 |
 
-Generated: 2026-10-21T21:23:14.535Z
+Generated: 2026-10-21T23:23:13.718Z
