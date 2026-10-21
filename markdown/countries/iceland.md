@@ -48,7 +48,7 @@ Indexed users: 1,579
 | 9 | [gardarthorsteins](https://github.com/gardarthorsteins) | Garðar Þorsteinsson | Reykjavík, Iceland | 2,436 |
 | 10 | [jokull](https://github.com/jokull) | Jökull Sólberg Auðunsson | Reykjavík, Iceland | 2,198 |
 | 11 | [vvzvlad](https://github.com/vvzvlad) | vvzvlad | Iceland | 2,155 |
-| 12 | [pzychozen](https://github.com/pzychozen) | Hilmir Frímann Halldórsson | Iceland | 2,028 |
+| 12 | [pzychozen](https://github.com/pzychozen) | Hilmir Frímann Halldórsson | Iceland | 2,039 |
 | 13 | [bgautijonsson](https://github.com/bgautijonsson) | Brynjolfur Gauti Jónsson | Reykjavík, Iceland | 2,002 |
 | 14 | [egil](https://github.com/egil) | Egil Hansen | Iceland | 1,649 |
 | 15 | [bgunnarsson](https://github.com/bgunnarsson) | B. Gunnarsson | Iceland | 1,514 |
@@ -83,4 +83,4 @@ Indexed users: 1,579
 | 19 | [jokull](https://github.com/jokull) | Jökull Sólberg Auðunsson | Reykjavík, Iceland | 209 |
 | 20 | [kevien](https://github.com/kevien) | K3vin | iceland | 204 |
 
-Generated: 2026-10-21T02:26:11.691Z
+Generated: 2026-10-21T04:03:42.864Z

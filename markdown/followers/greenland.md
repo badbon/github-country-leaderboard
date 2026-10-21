@@ -1,6 +1,6 @@
 # Followers - Greenland
 
-Generated: 2026-10-21T02:21:54.811Z
+Generated: 2026-10-21T03:59:07.981Z
 
 Users: 58
 
@@ -10,7 +10,7 @@ Users: 58
 | 2 | [filzehoka](https://github.com/filzehoka) | Filze | Tusass  |  | Greenland | 1240 |
 | 3 | [panyster](https://github.com/panyster) | Pany | Tusass  |  | Greenland | 1027 |
 | 4 | [Jiiks](https://github.com/Jiiks) | Alexei Stukov | Garbagecode Inc | jiiksi | Greenland | 293 |
-| 5 | [sgoggins](https://github.com/sgoggins) | Sean P. Goggins | University of Missouri, Aveloxis Foundation | sociallycompute | Greenland | 201 |
+| 5 | [sgoggins](https://github.com/sgoggins) | Sean P. Goggins | University of Missouri, Aveloxis Foundation | sociallycompute | Greenland | 202 |
 | 6 | [ASGDLO](https://github.com/ASGDLO) | ASGDLO | AG |  | Greenland | 151 |
 | 7 | [Nelson-Cheung](https://github.com/Nelson-Cheung) | Nelson Cheung | Sun Yat-sen University |  | Greenland | 91 |
 | 8 | [FandyHanz](https://github.com/FandyHanz) | General Tenzen Yamauchi | Early Warning System Glacier Greenland Search And Rescue |  | Fjord Dickson, Greenland | 63 |

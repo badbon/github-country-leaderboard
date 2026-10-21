@@ -1,15 +1,15 @@
 # Total Contributions - Guernsey
 
-Generated: 2026-10-21T02:23:21.704Z
+Generated: 2026-10-21T04:00:37.553Z
 
 Users: 45
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [nick-vermeulen](https://github.com/nick-vermeulen) | Nick |  |  | Guernsey | 2714 |
-| 2 | [gsydev191](https://github.com/gsydev191) | Dan |  |  | Guernsey | 2253 |
-| 3 | [RicLeP](https://github.com/RicLeP) | Ric Le Poidevin | U&US | riclep | Guernsey | 1462 |
-| 4 | [tris203](https://github.com/tris203) | Tristan Knight |  |  | Guernsey | 1416 |
+| 1 | [nick-vermeulen](https://github.com/nick-vermeulen) | Nick |  |  | Guernsey | 2724 |
+| 2 | [gsydev191](https://github.com/gsydev191) | Dan |  |  | Guernsey | 2252 |
+| 3 | [RicLeP](https://github.com/RicLeP) | Ric Le Poidevin | U&US | riclep | Guernsey | 1460 |
+| 4 | [tris203](https://github.com/tris203) | Tristan Knight |  |  | Guernsey | 1407 |
 | 5 | [technosight](https://github.com/technosight) | Ivan Petrov | Technosight |  | St Peter Port, Guernsey | 999 |
 | 6 | [mh0lt](https://github.com/mh0lt) | Mark Holt |  |  | Guernsey | 668 |
 | 7 | [bkp7](https://github.com/bkp7) | Barry Pitfield |  |  | Guernsey | 475 |
@@ -17,7 +17,7 @@ Users: 45
 | 9 | [JamesK2754](https://github.com/JamesK2754) | James King |  |  | Guernsey | 277 |
 | 10 | [GlennToms](https://github.com/GlennToms) | Glenn Toms |  |  | Guernsey | 258 |
 | 11 | [IanGSY](https://github.com/IanGSY) | IanGSY |  |  | Guernsey | 114 |
-| 12 | [theModrzew](https://github.com/theModrzew) | Patryk |  |  | Guernsey | 101 |
+| 12 | [theModrzew](https://github.com/theModrzew) | Patryk |  |  | Guernsey | 100 |
 | 13 | [adrianritchie](https://github.com/adrianritchie) |  |  |  | Guernsey | 73 |
 | 14 | [tomupson](https://github.com/tomupson) | Tom Upson |  |  | Guernsey | 17 |
 | 15 | [gilbertbw](https://github.com/gilbertbw) | Gilbert Bishop-White | @x-ware-ltd  |  | Guernsey | 10 |

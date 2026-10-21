@@ -12,7 +12,7 @@ Indexed users: 79
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [FrancisMario](https://github.com/FrancisMario) | Marxlo | Gambia | 3,764 |
+| 1 | [FrancisMario](https://github.com/FrancisMario) | Marxlo | Gambia | 3,763 |
 | 2 | [khanmomodou101](https://github.com/khanmomodou101) | Momodou khan | Gambia | 3,220 |
 | 3 | [ZaynSaul](https://github.com/ZaynSaul) | Saul Zayn | Gambia/Banjul | 1,597 |
 | 4 | [cyberdavinci](https://github.com/cyberdavinci) | CyberDavinci | Gambia | 1,347 |
@@ -20,7 +20,7 @@ Indexed users: 79
 | 6 | [ndimzKM](https://github.com/ndimzKM) | Alieu Ndimbalane | Gambia | 1,301 |
 | 7 | [harunaabaldeh](https://github.com/harunaabaldeh) | Haruna A Baldeh | Banjul | 841 |
 | 8 | [Juniorbarry26](https://github.com/Juniorbarry26) | Alsainey Barry | Gambia | 721 |
-| 9 | [almamarie](https://github.com/almamarie) | Louis Marie Atoluko Ayariga | Banjul, The Gambia | 660 |
+| 9 | [almamarie](https://github.com/almamarie) | Louis Marie Atoluko Ayariga | Banjul, The Gambia | 651 |
 | 10 | [geniuskidkanyi](https://github.com/geniuskidkanyi) | muhammed kanyi | Gambia | 642 |
 | 11 | [deedevs](https://github.com/deedevs) | David Ladipo | Banjul, The Gambia | 585 |
 | 12 | [gidavehub](https://github.com/gidavehub) | Godswill Iyke Dave | Banjul, The Gambia | 500 |
@@ -28,7 +28,7 @@ Indexed users: 79
 | 14 | [bahsulayman689-hash](https://github.com/bahsulayman689-hash) | sulayman bah | Banjul | 420 |
 | 15 | [kebba-philip](https://github.com/kebba-philip) | KEBBA NJIE | Gambia | 392 |
 | 16 | [JonMonday](https://github.com/JonMonday) | JohnMonday | Banjul, The Gambia | 263 |
-| 17 | [Baboucar](https://github.com/Baboucar) | Baboucarr | Gambia | 224 |
+| 17 | [Baboucar](https://github.com/Baboucar) | Baboucarr | Gambia | 222 |
 | 18 | [fiture99](https://github.com/fiture99) | Lamin Jawneh | Banjul, Gambia | 190 |
 | 19 | [Degoot-AM](https://github.com/Degoot-AM) | Abdoelnaser M Degoot | Banjul, Gambia | 169 |
 | 20 | [Karim-Mane](https://github.com/Karim-Mane) | Karim MANE | Gambia | 152 |
@@ -83,4 +83,4 @@ Indexed users: 79
 | 19 | [nyassian](https://github.com/nyassian) | EBRIMA NYASSI | Banjul,THE GAMBIA | 8 |
 | 20 | [cyberdavinci](https://github.com/cyberdavinci) | CyberDavinci | Gambia | 7 |
 
-Generated: 2026-10-21T02:21:07.406Z
+Generated: 2026-10-21T03:57:32.405Z
