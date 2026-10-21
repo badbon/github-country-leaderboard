@@ -41156,7 +41156,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 39,
     "createdAt": "2015-07-25T06:55:58Z"
   },
   {
@@ -41168,7 +41168,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 237,
+    "publicContributions": 608,
     "createdAt": "2015-12-24T17:51:16Z"
   },
   {
@@ -41203,7 +41203,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 4149,
+    "privateContributions": 5254,
     "publicContributions": 1,
     "createdAt": "2015-01-02T08:14:55Z"
   },
@@ -41234,26 +41234,14 @@
   {
     "login": "krunal-maisuriya",
     "name": "Krunal Maisuriya",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/16055373?s=72&u=bde0cf919b33e3b8498e758462930ad3368e4393&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16055373?s=72&u=dd23d10d6d0c49ee17fd204433b64424288f1c69&v=4",
     "location": "United Arab Emirates",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 52,
+    "publicContributions": 60,
     "createdAt": "2015-11-28T05:56:45Z"
-  },
-  {
-    "login": "polatdk",
-    "name": "Gokhan Polat",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/10785066?s=72&u=d97f08de75b84f8b79991fe8f7a64a63234de4d8&v=4",
-    "location": "Dubai, United Arab Emirates",
-    "company": "Flox",
-    "twitterUsername": "gokhanpolat_eth",
-    "followers": 1,
-    "privateContributions": 5749,
-    "publicContributions": 0,
-    "createdAt": "2015-01-31T11:35:54Z"
   },
   {
     "login": "Sargonius",
@@ -41263,8 +41251,8 @@
     "company": "Software Engineer",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 134,
-    "publicContributions": 0,
+    "privateContributions": 179,
+    "publicContributions": 1,
     "createdAt": "2015-05-24T20:29:37Z"
   },
   {
@@ -41299,8 +41287,8 @@
     "company": "@scinops ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1188,
-    "publicContributions": 9,
+    "privateContributions": 2399,
+    "publicContributions": 14,
     "createdAt": "2015-10-07T07:40:09Z"
   },
   {
@@ -41347,7 +41335,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 17,
+    "privateContributions": 7,
     "publicContributions": 0,
     "createdAt": "2015-07-20T22:26:35Z"
   },
