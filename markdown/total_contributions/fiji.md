@@ -1,13 +1,13 @@
 # Total Contributions - Fiji
 
-Generated: 2026-10-21T19:03:49.573Z
+Generated: 2026-10-21T20:33:17.873Z
 
 Users: 325
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [SMani0547](https://github.com/SMani0547) | Shiva Mani Goundar | Counterpoint Group |  | Nadi, Fiji | 3015 |
-| 2 | [Shoneel](https://github.com/Shoneel) |  |  |  | Fiji, Suva  | 1588 |
+| 2 | [Shoneel](https://github.com/Shoneel) |  |  |  | Fiji, Suva  | 1589 |
 | 3 | [Amdeo](https://github.com/Amdeo) | Cooper |  |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1461 |
 | 4 | [felix-davui-679](https://github.com/felix-davui-679) | Filimone Davui | Fiji National University  |  | Fiji | 1411 |
 | 5 | [krishneelkamalsingh](https://github.com/krishneelkamalsingh) | Krish |  |  | Fiji | 1247 |
@@ -24,5 +24,5 @@ Users: 325
 | 16 | [2-fly-4-ai](https://github.com/2-fly-4-ai) | Brian farley | serp.ai |  | Suva | 501 |
 | 17 | [kunz398](https://github.com/kunz398) | Kunal Singh |  |  | Fiji | 491 |
 | 18 | [aryann-7](https://github.com/aryann-7) | Aryan Singh | The University of the South Pacific |  | Suva, Fiji | 467 |
-| 19 | [vikichand](https://github.com/vikichand) | Vikash Chand | @kpmg-au @simplex-lab | takeiteasyvik | Fiji | 465 |
+| 19 | [vikichand](https://github.com/vikichand) | Vikash Chand | @kpmg-au @simplex-lab | takeiteasyvik | Fiji | 463 |
 | 20 | [Amanimal](https://github.com/Amanimal) | Abhishek Swamy |  |  | Fiji | 399 |

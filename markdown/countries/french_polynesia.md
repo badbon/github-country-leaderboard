@@ -12,9 +12,9 @@ Indexed users: 60
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [jaffadog](https://github.com/jaffadog) | Jeremy Waters | Tahanea, Tuamotus, French Polynesia | 4,080 |
+| 1 | [jaffadog](https://github.com/jaffadog) | Jeremy Waters | Tahanea, Tuamotus, French Polynesia | 4,090 |
 | 2 | [jburckel](https://github.com/jburckel) |  | French Polynesia | 3,056 |
-| 3 | [marsender](https://github.com/marsender) | Didier Corbière | French Polynesia | 2,871 |
+| 3 | [marsender](https://github.com/marsender) | Didier Corbière | French Polynesia | 2,874 |
 | 4 | [smortex](https://github.com/smortex) | Romain Tartière | Faa'a, Tahiti, French Polynesia | 1,042 |
 | 5 | [jalik](https://github.com/jalik) | Karl Stein | French Polynesia | 740 |
 | 6 | [ch4mpy](https://github.com/ch4mpy) | Jérôme Wacongne | Papeete, French Polynesia | 502 |
@@ -83,4 +83,4 @@ Indexed users: 60
 | 19 | [TToarii](https://github.com/TToarii) | TAU Toarii | French Polynesia | 5 |
 | 20 | [geoffguillain](https://github.com/geoffguillain) | Geoff | French Polynesia | 4 |
 
-Generated: 2026-10-21T19:03:59.555Z
+Generated: 2026-10-21T20:34:03.862Z

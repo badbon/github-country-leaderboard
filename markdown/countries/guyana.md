@@ -19,14 +19,14 @@ Indexed users: 187
 | 5 | [barnwell](https://github.com/barnwell) | Jason Barnwell | Guyana | 4,464 |
 | 6 | [ktappdev](https://github.com/ktappdev) | Ken Andrew Taylor | Guyana | 4,098 |
 | 7 | [uberhacker](https://github.com/uberhacker) | Ed Reel | Georgetown, TX | 3,946 |
-| 8 | [pachev](https://github.com/pachev) | Pachev Joseph | Georgetown, TX | 3,924 |
+| 8 | [pachev](https://github.com/pachev) | Pachev Joseph | Georgetown, TX | 3,935 |
 | 9 | [beckettharriman](https://github.com/beckettharriman) | Beckett Harriman | Georgetown, DC | 3,538 |
-| 10 | [jonathansharman](https://github.com/jonathansharman) | Jonathan Sharman | Georgetown, DE | 3,306 |
+| 10 | [jonathansharman](https://github.com/jonathansharman) | Jonathan Sharman | Georgetown, DE | 3,321 |
 | 11 | [negz](https://github.com/negz) | Nic Cope | Georgetown, Seattle | 2,991 |
 | 12 | [JohnnyMcGee](https://github.com/JohnnyMcGee) | Johnny McGee | Georgetown, TX | 2,319 |
 | 13 | [jzills](https://github.com/jzills) | Joshua Zillwood | Georgetown, TX | 1,954 |
 | 14 | [codedbychavez](https://github.com/codedbychavez) | Chavez Harris | Guyana | 1,591 |
-| 15 | [schrum2](https://github.com/schrum2) | Jacob Schrum | Georgetown, TX | 1,507 |
+| 15 | [schrum2](https://github.com/schrum2) | Jacob Schrum | Georgetown, TX | 1,512 |
 | 16 | [kev-mb](https://github.com/kev-mb) | Kevin Martinez Bautista | Georgetown, Texas | 1,476 |
 | 17 | [owengrant](https://github.com/owengrant) | Owen Grant | Guyana | 1,461 |
 | 18 | [rjvaleo](https://github.com/rjvaleo) | transelectronic | Georgetown, Colorado | 1,453 |
@@ -51,7 +51,7 @@ Indexed users: 187
 | 12 | [xbze3](https://github.com/xbze3) | Ezra Minty | Guyana | 472 |
 | 13 | [aG00Dtime](https://github.com/aG00Dtime) | David Henry | Guyana | 329 |
 | 14 | [ryanrhanson](https://github.com/ryanrhanson) | Ryan Hanson | Georgetown, TX | 324 |
-| 15 | [schrum2](https://github.com/schrum2) | Jacob Schrum | Georgetown, TX | 318 |
+| 15 | [schrum2](https://github.com/schrum2) | Jacob Schrum | Georgetown, TX | 319 |
 | 16 | [billydavis](https://github.com/billydavis) | Billy Davis | Georgetown, Texas | 301 |
 | 17 | [barnwell](https://github.com/barnwell) | Jason Barnwell | Guyana | 270 |
 | 18 | [adi-pr](https://github.com/adi-pr) | Aditya (Ruben) Prasad | Guyana | 267 |
@@ -80,7 +80,7 @@ Indexed users: 187
 | 16 | [bdenham](https://github.com/bdenham) | Bruce Denham | Georgetown, Texas | 29 |
 | 17 | [ryanrotman](https://github.com/ryanrotman) | Ryan Rotman | Georgetown, TX | 29 |
 | 18 | [MichaelATang](https://github.com/MichaelATang) | Michael Tang | Guyana | 25 |
-| 19 | [Alien-nick](https://github.com/Alien-nick) | Nicholas Seetaram | South America, Guyana, Georgetown | 22 |
-| 20 | [duncanfinney](https://github.com/duncanfinney) | Duncan Finney | Georgetown, CO | 22 |
+| 19 | [duncanfinney](https://github.com/duncanfinney) | Duncan Finney | Georgetown, CO | 22 |
+| 20 | [Alien-nick](https://github.com/Alien-nick) | Nicholas Seetaram | South America, Guyana, Georgetown | 21 |
 
-Generated: 2026-10-21T19:10:53.633Z
+Generated: 2026-10-21T20:39:24.983Z
