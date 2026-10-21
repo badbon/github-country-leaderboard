@@ -27,11 +27,11 @@ Indexed users: 17,924
 | 13 | [dbfx](https://github.com/dbfx) | Dave | Johannesburg, South Africa | 16,427 |
 | 14 | [presidentGift](https://github.com/presidentGift) | Gift Zikalala | South Africa | 16,380 |
 | 15 | [AGM1968](https://github.com/AGM1968) |  | South Africa | 15,687 |
-| 16 | [TheRealJamesRussell](https://github.com/TheRealJamesRussell) | James Russell | South Africa | 15,525 |
-| 17 | [BitnationAI](https://github.com/BitnationAI) | Chad | South Africa | 15,302 |
-| 18 | [edwynmoss](https://github.com/edwynmoss) | Edwyn Moss | Cape Town | 14,732 |
-| 19 | [Schramm2](https://github.com/Schramm2) | Matthew Schramm | Cape Town, South Africa | 14,715 |
-| 20 | [DG-za](https://github.com/DG-za) | Stefan Els | Pretoria, South Africa | 13,794 |
+| 16 | [BitnationAI](https://github.com/BitnationAI) | Chad | South Africa | 15,302 |
+| 17 | [edwynmoss](https://github.com/edwynmoss) | Edwyn Moss | Cape Town | 14,732 |
+| 18 | [Schramm2](https://github.com/Schramm2) | Matthew Schramm | Cape Town, South Africa | 14,715 |
+| 19 | [DG-za](https://github.com/DG-za) | Stefan Els | Pretoria, South Africa | 13,794 |
+| 20 | [TheRealJamesRussell](https://github.com/TheRealJamesRussell) | James Russell | South Africa | 13,565 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 17,924
 | 19 | [peterp](https://github.com/peterp) | Peter Pistorius | South Africa | 639 |
 | 20 | [mortolian](https://github.com/mortolian) | Gideon Schoonbee | Western Cape, South Africa | 632 |
 
-Generated: 2026-10-20T21:37:27.426Z
+Generated: 2026-10-20T23:48:31.826Z

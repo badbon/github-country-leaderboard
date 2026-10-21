@@ -1,6 +1,6 @@
 # Slovakia
 
-Indexed users: 4,657
+Indexed users: 4,656
 
 | Leaderboard | Link |
 |---|---|
@@ -55,8 +55,8 @@ Indexed users: 4,657
 | 16 | [alvianzf](https://github.com/alvianzf) | Alvian Zachry Faturrahman | Tanjungpinang, Batam, Karimun, Bratislava | 2,610 |
 | 17 | [mont127](https://github.com/mont127) | mont127 | Slovakia | 2,492 |
 | 18 | [matuscongrady](https://github.com/matuscongrady) | Matúš Čongrády | Bratislava, Slovakia | 2,369 |
-| 19 | [Vanderhell](https://github.com/Vanderhell) | Vanderhell | Slovakia | 2,328 |
-| 20 | [PavolUlicny](https://github.com/PavolUlicny) | Pavol Ulicny | Bratislava  | 2,289 |
+| 19 | [martinambrus](https://github.com/martinambrus) | Martin Ambrus | Slovakia | 2,339 |
+| 20 | [Vanderhell](https://github.com/Vanderhell) | Vanderhell | Slovakia | 2,328 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 4,657
 | 19 | [Stiivi](https://github.com/Stiivi) | Stefan Urbanek | Bratislava | 280 |
 | 20 | [haad](https://github.com/haad) | Adam Hamsik | Bratislava Slovakia | 259 |
 
-Generated: 2026-10-20T21:35:54.205Z
+Generated: 2026-10-20T23:46:37.947Z

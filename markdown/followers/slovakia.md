@@ -1,8 +1,8 @@
 # Followers - Slovakia
 
-Generated: 2026-10-20T21:35:54.205Z
+Generated: 2026-10-20T23:46:37.947Z
 
-Users: 4657
+Users: 4656
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

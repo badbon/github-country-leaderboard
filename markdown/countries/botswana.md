@@ -18,7 +18,7 @@ Indexed users: 533
 | 4 | [darula-hpp](https://github.com/darula-hpp) | Olebogeng Mbedzi | Gaborone | 2,675 |
 | 5 | [kmaphane](https://github.com/kmaphane) | Kenna Maphane | Maun, Botswana | 2,634 |
 | 6 | [tiromodibedi](https://github.com/tiromodibedi) | Tiro Modibedi | Gaborone, Botswana | 2,626 |
-| 7 | [Batoli19](https://github.com/Batoli19) | future | Gaborone | 2,359 |
+| 7 | [Batoli19](https://github.com/Batoli19) | future | Gaborone | 2,504 |
 | 8 | [Koketso1999](https://github.com/Koketso1999) | Koketso Morapedi | Gaborone, Botswana | 2,359 |
 | 9 | [ChinyangaTL](https://github.com/ChinyangaTL) | Les Chinyanga | Gaborone, Botswana | 2,349 |
 | 10 | [mwmiller](https://github.com/mwmiller) | Matt Miller | Gaborone, Botswana | 2,204 |
@@ -46,7 +46,7 @@ Indexed users: 533
 | 7 | [arnold1990-cell](https://github.com/arnold1990-cell) | Arnold Tyvern Madamombe | Gaborone Botswana | 880 |
 | 8 | [tmosimanyana](https://github.com/tmosimanyana) | Tinny Mosimanyana | Gaborone, Botswana | 818 |
 | 9 | [Mopati123](https://github.com/Mopati123) | Mopati Ramaologa | Gaborone, Botswana | 735 |
-| 10 | [Scheke](https://github.com/Scheke) | Boipuso Rante | Botswana | 572 |
+| 10 | [Scheke](https://github.com/Scheke) | Boipuso Rante | Botswana | 564 |
 | 11 | [loag0](https://github.com/loag0) | Loago Moremi | Botswana | 562 |
 | 12 | [Sesame-alpha](https://github.com/Sesame-alpha) | SESAME DITHUPA | Botswana 🇧🇼  | 545 |
 | 13 | [Cse21-034](https://github.com/Cse21-034) | leatile mosimanyana | Gaborone | 521 |
@@ -83,4 +83,4 @@ Indexed users: 533
 | 19 | [BakangMonei](https://github.com/BakangMonei) | Monei Bakang | Gaborone, Botswana | 34 |
 | 20 | [kcee01](https://github.com/kcee01) | Cliff Keabetswe | Gaborone, Botswana | 33 |
 
-Generated: 2026-10-20T22:02:11.941Z
+Generated: 2026-10-21T00:15:38.608Z

@@ -1,6 +1,6 @@
 # Followers - Ecuador
 
-Generated: 2026-10-20T22:14:56.559Z
+Generated: 2026-10-21T00:27:48.086Z
 
 Users: 4876
 
@@ -14,7 +14,7 @@ Users: 4876
 | 6 | [asantibanez](https://github.com/asantibanez) | Andrés Santibáñez | Andrés Santibáñez | asantibanez | Guayaquil, Ecuador | 514 |
 | 7 | [danielaltamirano1993](https://github.com/danielaltamirano1993) | danielaltamiranoborja | Back-end and Front-end Developer  |  | Ecuador-Pichincha-Quito | 503 |
 | 8 | [eythaann](https://github.com/eythaann) | Eythan David | @Seelen-Corp |  | Ecuador | 396 |
-| 9 | [GabySol](https://github.com/GabySol) | Gabriela Solano |  |  | Ecuador | 335 |
+| 9 | [GabySol](https://github.com/GabySol) | Gabriela Solano |  |  | Ecuador | 336 |
 | 10 | [darwin-morocho](https://github.com/darwin-morocho) | Darwin Morocho |  |  | Ecuador | 310 |
 | 11 | [DevCoreXOfficial](https://github.com/DevCoreXOfficial) | DevCoreX | DevCoreX | DevCoreX | Ecuador | 277 |
 | 12 | [cromewar](https://github.com/cromewar) | Vasiliy Kirochka | Cromewar |  | Ecuador | 243 |

@@ -1,6 +1,6 @@
 # Public Contributions - Switzerland
 
-Generated: 2026-10-20T21:39:46.767Z
+Generated: 2026-10-20T23:51:58.854Z
 
 Users: 24080
 
@@ -20,9 +20,9 @@ Users: 24080
 | 12 | [ChrisGVE](https://github.com/ChrisGVE) | Christian C. Berclaz |  |  | Switzerland | 10770 |
 | 13 | [EricBoittier](https://github.com/EricBoittier) | Eric Boittier | University of Basel | EricBoittier | Basel, Switzerland | 10443 |
 | 14 | [kzahel](https://github.com/kzahel) | Kyle Graehl | Graehl Arts |  | Zürich, Switzerland | 9468 |
-| 15 | [spMohanty](https://github.com/spMohanty) | SP Mohanty | AIcrowd |  | Geneva, Switzerland | 8411 |
-| 16 | [evolvedlight](https://github.com/evolvedlight) | Stephen Brown |  |  | Zurich, Switzerland | 8394 |
-| 17 | [leeroybrun](https://github.com/leeroybrun) | Leeroy Brun | @Batiplus  |  | Lausanne (Switzerland) | 8356 |
-| 18 | [barbalex](https://github.com/barbalex) | Alexander Gabriel | Gabriel Software |  | Switzerland | 8298 |
-| 19 | [thodel](https://github.com/thodel) | Tobias Hodel | Universität Bern |  | Bern | 8196 |
-| 20 | [jorgsowa](https://github.com/jorgsowa) | Jorg Adam Sowa |  |  | Zurich, Switzerland | 8079 |
+| 15 | [raffaelschneider](https://github.com/raffaelschneider) | Raffael Schneider |  | raskelll | Basel, Switzerland | 8681 |
+| 16 | [spMohanty](https://github.com/spMohanty) | SP Mohanty | AIcrowd |  | Geneva, Switzerland | 8411 |
+| 17 | [evolvedlight](https://github.com/evolvedlight) | Stephen Brown |  |  | Zurich, Switzerland | 8394 |
+| 18 | [leeroybrun](https://github.com/leeroybrun) | Leeroy Brun | @Batiplus  |  | Lausanne (Switzerland) | 8356 |
+| 19 | [barbalex](https://github.com/barbalex) | Alexander Gabriel | Gabriel Software |  | Switzerland | 8298 |
+| 20 | [thodel](https://github.com/thodel) | Tobias Hodel | Universität Bern |  | Bern | 8196 |

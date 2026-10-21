@@ -51,10 +51,10 @@ Indexed users: 6,618
 | 12 | [jlcarrascof](https://github.com/jlcarrascof) | Javier Jesus Martínez Fariñas | Venezuela. | 2,853 |
 | 13 | [LuisAlejandro](https://github.com/LuisAlejandro) | Luis Alejandro | Maracay, Venezuela | 2,787 |
 | 14 | [TheElegantCoding](https://github.com/TheElegantCoding) | Luis Monsalve | Venezuela | 2,508 |
-| 15 | [CiszukoAntony](https://github.com/CiszukoAntony) | Ciszuko | Venezuela | 2,165 |
-| 16 | [elfotito](https://github.com/elfotito) | elfotito | Venezuela | 2,158 |
-| 17 | [Danielk10](https://github.com/Danielk10) | Daniel Elias Diamon Vazquez | Venezuela | 1,916 |
-| 18 | [gabrielbaute](https://github.com/gabrielbaute) | Gabriel Baute | Venezuela | 1,848 |
+| 15 | [gabrielbaute](https://github.com/gabrielbaute) | Gabriel Baute | Venezuela | 2,241 |
+| 16 | [CiszukoAntony](https://github.com/CiszukoAntony) | Ciszuko | Venezuela | 2,165 |
+| 17 | [elfotito](https://github.com/elfotito) | elfotito | Venezuela | 2,158 |
+| 18 | [Danielk10](https://github.com/Danielk10) | Daniel Elias Diamon Vazquez | Venezuela | 1,916 |
 | 19 | [hrodrig](https://github.com/hrodrig) | Hermes Rodríguez | Caracas, Venezuela | 1,848 |
 | 20 | [claucondor](https://github.com/claucondor) | Claudio Condor | Merida, Venezuela | 1,757 |
 
@@ -83,4 +83,4 @@ Indexed users: 6,618
 | 19 | [NTBBloodbath](https://github.com/NTBBloodbath) | Alejandro | Caracas, Venezuela | 179 |
 | 20 | [KellbisJ](https://github.com/KellbisJ) | Kellbis Salazar | Venezuela / Remote | 175 |
 
-Generated: 2026-10-20T21:49:15.599Z
+Generated: 2026-10-21T00:00:47.436Z

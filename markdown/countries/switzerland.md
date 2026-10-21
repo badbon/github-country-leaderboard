@@ -17,14 +17,14 @@ Indexed users: 24,080
 | 3 | [antoineschaller](https://github.com/antoineschaller) | Antoine Schaller | Switzerland | 37,821 |
 | 4 | [AndreaCensi](https://github.com/AndreaCensi) | Andrea Censi | Zürich, Switzerland | 32,543 |
 | 5 | [arkswiss](https://github.com/arkswiss) | ark.swiss Sàrl | Switzerland | 31,538 |
-| 6 | [anulum](https://github.com/anulum) | Miroslav Šotek | Switzerland | 28,182 |
-| 7 | [JonnyBurger](https://github.com/JonnyBurger) | Jonny Burger | Zurich, Switzerland | 28,154 |
-| 8 | [marfeyx](https://github.com/marfeyx) | Marfeyx | Rotkreuz, Switzerland | 21,479 |
-| 9 | [auge2u](https://github.com/auge2u) | Agustin M. | Zurich, Switzerland | 18,988 |
-| 10 | [fabaff](https://github.com/fabaff) | Fabian Affolter | Switzerland | 18,727 |
-| 11 | [denysvitali](https://github.com/denysvitali) | Denys Vitali | Zürich, Switzerland | 18,135 |
-| 12 | [spMohanty](https://github.com/spMohanty) | SP Mohanty | Geneva, Switzerland | 18,125 |
-| 13 | [peaktwilight](https://github.com/peaktwilight) | Peak Twilight | Zurich, Switzerland | 17,800 |
+| 6 | [peaktwilight](https://github.com/peaktwilight) | Peak Twilight | Zurich, Switzerland | 30,466 |
+| 7 | [anulum](https://github.com/anulum) | Miroslav Šotek | Switzerland | 28,182 |
+| 8 | [JonnyBurger](https://github.com/JonnyBurger) | Jonny Burger | Zurich, Switzerland | 28,154 |
+| 9 | [marfeyx](https://github.com/marfeyx) | Marfeyx | Rotkreuz, Switzerland | 21,479 |
+| 10 | [auge2u](https://github.com/auge2u) | Agustin M. | Zurich, Switzerland | 18,988 |
+| 11 | [fabaff](https://github.com/fabaff) | Fabian Affolter | Switzerland | 18,727 |
+| 12 | [denysvitali](https://github.com/denysvitali) | Denys Vitali | Zürich, Switzerland | 18,135 |
+| 13 | [spMohanty](https://github.com/spMohanty) | SP Mohanty | Geneva, Switzerland | 18,125 |
 | 14 | [berolinux](https://github.com/berolinux) | Bernhard Rosenkraenzer | Switzerland | 17,374 |
 | 15 | [romerjon](https://github.com/romerjon) | Jonas Romer | Switzerland | 17,193 |
 | 16 | [viatsko](https://github.com/viatsko) | Valerii Iatsko | Zurich, Switzerland | 17,138 |
@@ -51,12 +51,12 @@ Indexed users: 24,080
 | 12 | [ChrisGVE](https://github.com/ChrisGVE) | Christian C. Berclaz | Switzerland | 10,770 |
 | 13 | [EricBoittier](https://github.com/EricBoittier) | Eric Boittier | Basel, Switzerland | 10,443 |
 | 14 | [kzahel](https://github.com/kzahel) | Kyle Graehl | Zürich, Switzerland | 9,468 |
-| 15 | [spMohanty](https://github.com/spMohanty) | SP Mohanty | Geneva, Switzerland | 8,411 |
-| 16 | [evolvedlight](https://github.com/evolvedlight) | Stephen Brown | Zurich, Switzerland | 8,394 |
-| 17 | [leeroybrun](https://github.com/leeroybrun) | Leeroy Brun | Lausanne (Switzerland) | 8,356 |
-| 18 | [barbalex](https://github.com/barbalex) | Alexander Gabriel | Switzerland | 8,298 |
-| 19 | [thodel](https://github.com/thodel) | Tobias Hodel | Bern | 8,196 |
-| 20 | [jorgsowa](https://github.com/jorgsowa) | Jorg Adam Sowa | Zurich, Switzerland | 8,079 |
+| 15 | [raffaelschneider](https://github.com/raffaelschneider) | Raffael Schneider | Basel, Switzerland | 8,681 |
+| 16 | [spMohanty](https://github.com/spMohanty) | SP Mohanty | Geneva, Switzerland | 8,411 |
+| 17 | [evolvedlight](https://github.com/evolvedlight) | Stephen Brown | Zurich, Switzerland | 8,394 |
+| 18 | [leeroybrun](https://github.com/leeroybrun) | Leeroy Brun | Lausanne (Switzerland) | 8,356 |
+| 19 | [barbalex](https://github.com/barbalex) | Alexander Gabriel | Switzerland | 8,298 |
+| 20 | [thodel](https://github.com/thodel) | Tobias Hodel | Bern | 8,196 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 24,080
 | 19 | [nyancrimew](https://github.com/nyancrimew) | maia arson crimew | Switzerland | 1,856 |
 | 20 | [jeremytammik](https://github.com/jeremytammik) | Jeremy Tammik | Switzerland | 1,841 |
 
-Generated: 2026-10-20T21:39:46.767Z
+Generated: 2026-10-20T23:51:58.854Z

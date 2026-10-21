@@ -23,7 +23,7 @@ Indexed users: 61
 | 9 | [SaddamHosyn](https://github.com/SaddamHosyn) | Hussain Saddam | Mariehamn, Åland | 1,022 |
 | 10 | [mareerray](https://github.com/mareerray) | Mayuree Reunsati | Mariehamn, Åland | 839 |
 | 11 | [fannielf](https://github.com/fannielf) | Fanni Vesanen | Mariehamn | 576 |
-| 12 | [rahulwagh](https://github.com/rahulwagh) | Rahul Wagh | Mariehamn, Åland | 560 |
+| 12 | [rahulwagh](https://github.com/rahulwagh) | Rahul Wagh | Mariehamn, Åland | 567 |
 | 13 | [kejpa](https://github.com/kejpa) | Kjell Hansen | Mariehamn, Åland Islands | 528 |
 | 14 | [karusmari](https://github.com/karusmari) | Maris Karu | Åland Islands | 461 |
 | 15 | [khalavak](https://github.com/khalavak) | Kim Halavakoski | Åland Islands | 383 |
@@ -46,7 +46,7 @@ Indexed users: 61
 | 7 | [karusmari](https://github.com/karusmari) | Maris Karu | Åland Islands | 461 |
 | 8 | [khalavak](https://github.com/khalavak) | Kim Halavakoski | Åland Islands | 383 |
 | 9 | [mathisen99](https://github.com/mathisen99) | Tommy Mathisen | Aland Islands | 211 |
-| 10 | [rahulwagh](https://github.com/rahulwagh) | Rahul Wagh | Mariehamn, Åland | 135 |
+| 10 | [rahulwagh](https://github.com/rahulwagh) | Rahul Wagh | Mariehamn, Åland | 139 |
 | 11 | [fatemekh78](https://github.com/fatemekh78) | Fatemeh | Mariehamn, Åland islands | 130 |
 | 12 | [olegamobile](https://github.com/olegamobile) | Oleg Balandin | Mariehamn | 126 |
 | 13 | [hmenorjr](https://github.com/hmenorjr) | Herman Menor, Jr. | Åland Islands, Finland | 92 |
@@ -83,4 +83,4 @@ Indexed users: 61
 | 19 | [GitHug](https://github.com/GitHug) | Fredrik Mäkilä | London / Mariehamn | 10 |
 | 20 | [fannielf](https://github.com/fannielf) | Fanni Vesanen | Mariehamn | 9 |
 
-Generated: 2026-10-20T21:51:52.484Z
+Generated: 2026-10-21T00:06:14.048Z

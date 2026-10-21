@@ -14,11 +14,11 @@ Top GitHub users by country, ranked from public GitHub profile and contribution 
 
 | Country | Indexed Users | Public | Total | Followers |
 |---|---:|---|---|---|
-| [North Korea](markdown/countries/north_korea.md) | 185 | [Public](markdown/public_contributions/north_korea.md) | [Total](markdown/total_contributions/north_korea.md) | [Followers](markdown/followers/north_korea.md) |
-| [Belarus](markdown/countries/belarus.md) | 10,927 | [Public](markdown/public_contributions/belarus.md) | [Total](markdown/total_contributions/belarus.md) | [Followers](markdown/followers/belarus.md) |
-| [Costa Rica](markdown/countries/costa_rica.md) | 5,625 | [Public](markdown/public_contributions/costa_rica.md) | [Total](markdown/total_contributions/costa_rica.md) | [Followers](markdown/followers/costa_rica.md) |
-| [Senegal](markdown/countries/senegal.md) | 1,355 | [Public](markdown/public_contributions/senegal.md) | [Total](markdown/total_contributions/senegal.md) | [Followers](markdown/followers/senegal.md) |
-| [Dominica](markdown/countries/dominica.md) | 18 | [Public](markdown/public_contributions/dominica.md) | [Total](markdown/total_contributions/dominica.md) | [Followers](markdown/followers/dominica.md) |
+| [Chad](markdown/countries/chad.md) | 201 | [Public](markdown/public_contributions/chad.md) | [Total](markdown/total_contributions/chad.md) | [Followers](markdown/followers/chad.md) |
+| [Israel](markdown/countries/israel.md) | 12,420 | [Public](markdown/public_contributions/israel.md) | [Total](markdown/total_contributions/israel.md) | [Followers](markdown/followers/israel.md) |
+| [Comoros](markdown/countries/comoros.md) | 11 | [Public](markdown/public_contributions/comoros.md) | [Total](markdown/total_contributions/comoros.md) | [Followers](markdown/followers/comoros.md) |
+| [United States Virgin Islands](markdown/countries/united_states_virgin_islands.md) | 4 | [Public](markdown/public_contributions/united_states_virgin_islands.md) | [Total](markdown/total_contributions/united_states_virgin_islands.md) | [Followers](markdown/followers/united_states_virgin_islands.md) |
+| [Tanzania](markdown/countries/tanzania.md) | 2,037 | [Public](markdown/public_contributions/tanzania.md) | [Total](markdown/total_contributions/tanzania.md) | [Followers](markdown/followers/tanzania.md) |
 
 ## How It Works
 
@@ -26,4 +26,4 @@ The collector searches GitHub users by self-reported profile location, keeps use
 
 Locations are not verified. The raw profile location is preserved, and country assignment uses deterministic country, alias, city, and exact phrase rules.
 
-Generated: 2026-10-20T23:44:52.543Z
+Generated: 2026-10-21T00:30:40.997Z

@@ -1,6 +1,6 @@
 # Total Contributions - Burundi
 
-Generated: 2026-10-20T22:04:40.360Z
+Generated: 2026-10-21T00:16:47.770Z
 
 Users: 235
 
@@ -8,8 +8,8 @@ Users: 235
 |---:|---|---|---|---|---|---:|
 | 1 | [257lad](https://github.com/257lad) | Isaac NDAYIZEYE | HOGI |  | Bujumbura, Burundi | 6237 |
 | 2 | [mugar](https://github.com/mugar) | mugabo armand |  |  | Burundi | 4843 |
-| 3 | [muco-rolle](https://github.com/muco-rolle) | Trésor Muco | Leapa | mucotreso | Bujumbura, Burundi | 2745 |
-| 4 | [INGANZAMARUMPU](https://github.com/INGANZAMARUMPU) | NKURUNZIZA | hogitugende | inganzamarumpu | Bujumbura, Burundi | 2467 |
+| 3 | [muco-rolle](https://github.com/muco-rolle) | Trésor Muco | Leapa | mucotreso | Bujumbura, Burundi | 2892 |
+| 4 | [INGANZAMARUMPU](https://github.com/INGANZAMARUMPU) | NKURUNZIZA | hogitugende | inganzamarumpu | Bujumbura, Burundi | 2477 |
 | 5 | [klauskira07](https://github.com/klauskira07) | Klaus KIRA | Vortex Ltd. | klauskira07 | Burundi | 2134 |
 | 6 | [yvartpro](https://github.com/yvartpro) | Nshemezimana Yves | @vovota |  | Bujumbura,Burundi | 1659 |
 | 7 | [gatarelib](https://github.com/gatarelib) | Gatare Libère | ACLIS | gatarelib | Burundi | 1552 |

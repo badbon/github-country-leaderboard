@@ -1,6 +1,6 @@
 # Syria
 
-Indexed users: 1,478
+Indexed users: 1,477
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 1,478
 | 19 | [nebrassy](https://github.com/nebrassy) | Nebrassy | Latakia, Syria | 102 |
 | 20 | [evoiz](https://github.com/evoiz) | Elias Al-bittar | Homs, Syria | 95 |
 
-Generated: 2026-10-20T21:39:51.981Z
+Generated: 2026-10-20T23:52:01.874Z

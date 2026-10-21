@@ -1,6 +1,6 @@
 # Followers - Bahamas
 
-Generated: 2026-10-20T21:58:29.130Z
+Generated: 2026-10-21T00:10:39.320Z
 
 Users: 236
 
@@ -24,5 +24,5 @@ Users: 236
 | 16 | [mroker242](https://github.com/mroker242) | Michael Roker | Cable Bahamas Ltd. |  | Nassau, Bahamas | 17 |
 | 17 | [aulbytj](https://github.com/aulbytj) | Aulbourn Knowles | Developer |  | Bahamas | 16 |
 | 18 | [emajeru](https://github.com/emajeru) | Edison Hanchell | Doctors Hospital | emajeru | Nassau, Bahamas | 16 |
-| 19 | [paulcitarella](https://github.com/paulcitarella) | Paul Citarella |  |  | George Town, Bahamas | 16 |
+| 19 | [paulcitarella](https://github.com/paulcitarella) | Paul Citarella |  |  | George Town, Bahamas | 15 |
 | 20 | [yemix](https://github.com/yemix) |  | @yemixzy |  | Bahamas | 14 |

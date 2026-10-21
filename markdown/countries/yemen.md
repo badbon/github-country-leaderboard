@@ -29,9 +29,9 @@ Indexed users: 1,205
 | 15 | [mr3od](https://github.com/mr3od) | Abdulrahman | Yemen | 6,933 |
 | 16 | [AhmedSalehGhaithan](https://github.com/AhmedSalehGhaithan) | Ahmed ghaithan | Yemen ,sanaa | 6,919 |
 | 17 | [EngAzzamZaid](https://github.com/EngAzzamZaid) | Eng Azzam Alsharie  | Yemen | 6,793 |
-| 18 | [yousef-aman](https://github.com/yousef-aman) | Yousef Aman | Yemen | 6,358 |
-| 19 | [mrwan-1](https://github.com/mrwan-1) | Marwan Abdullah | Yemen , Sanaa | 6,193 |
-| 20 | [Jabri-web](https://github.com/Jabri-web) | Abdulla Al-Jabri | Haziz- Sana'a | 6,182 |
+| 18 | [Jabri-web](https://github.com/Jabri-web) | Abdulla Al-Jabri | Haziz- Sana'a | 6,363 |
+| 19 | [yousef-aman](https://github.com/yousef-aman) | Yousef Aman | Yemen | 6,358 |
+| 20 | [mrwan-1](https://github.com/mrwan-1) | Marwan Abdullah | Yemen , Sanaa | 6,193 |
 
 ## Public Contributions
 
@@ -40,7 +40,7 @@ Indexed users: 1,205
 | 1 | [thejulan](https://github.com/thejulan) | Julan | Yemen | 93,569 |
 | 2 | [YounisDany](https://github.com/YounisDany) | Younis Dany \| يونس ضاعني | Yemen | 43,100 |
 | 3 | [MrIbrahem](https://github.com/MrIbrahem) | ibrahem Qasim | Sana'a  | 22,778 |
-| 4 | [Jabri-web](https://github.com/Jabri-web) | Abdulla Al-Jabri | Haziz- Sana'a | 6,182 |
+| 4 | [Jabri-web](https://github.com/Jabri-web) | Abdulla Al-Jabri | Haziz- Sana'a | 6,363 |
 | 5 | [tarasana-mufadhala](https://github.com/tarasana-mufadhala) | Mokhtar Hussein Abdulwahab Alsorori | Yemen  | 4,286 |
 | 6 | [ken00H](https://github.com/ken00H) |  | Yemen | 3,477 |
 | 7 | [HakimAlqubati](https://github.com/HakimAlqubati) | Hakim Ahmed Alqubati | Yemen | 3,476 |
@@ -83,4 +83,4 @@ Indexed users: 1,205
 | 19 | [hetari](https://github.com/hetari) | Ebraheem Alhetari | Yemen | 158 |
 | 20 | [its4nas](https://github.com/its4nas) | Anas Al-Dharei | Yemen | 147 |
 
-Generated: 2026-10-20T21:50:27.420Z
+Generated: 2026-10-21T00:02:57.112Z

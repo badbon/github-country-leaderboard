@@ -1,6 +1,6 @@
 # Total Contributions - Yemen
 
-Generated: 2026-10-20T21:50:27.420Z
+Generated: 2026-10-21T00:02:57.112Z
 
 Users: 1205
 
@@ -23,6 +23,6 @@ Users: 1205
 | 15 | [mr3od](https://github.com/mr3od) | Abdulrahman | @nexumind-com  |  | Yemen | 6933 |
 | 16 | [AhmedSalehGhaithan](https://github.com/AhmedSalehGhaithan) | Ahmed ghaithan | DataTrans |  | Yemen ,sanaa | 6919 |
 | 17 | [EngAzzamZaid](https://github.com/EngAzzamZaid) | Eng Azzam Alsharie  | @KitSysCo  |  | Yemen | 6793 |
-| 18 | [yousef-aman](https://github.com/yousef-aman) | Yousef Aman |  | YousefAmanDev | Yemen | 6358 |
-| 19 | [mrwan-1](https://github.com/mrwan-1) | Marwan Abdullah | Step Forward YE |  | Yemen , Sanaa | 6193 |
-| 20 | [Jabri-web](https://github.com/Jabri-web) | Abdulla Al-Jabri | Yemen |  | Haziz- Sana'a | 6182 |
+| 18 | [Jabri-web](https://github.com/Jabri-web) | Abdulla Al-Jabri | Yemen |  | Haziz- Sana'a | 6363 |
+| 19 | [yousef-aman](https://github.com/yousef-aman) | Yousef Aman |  | YousefAmanDev | Yemen | 6358 |
+| 20 | [mrwan-1](https://github.com/mrwan-1) | Marwan Abdullah | Step Forward YE |  | Yemen , Sanaa | 6193 |

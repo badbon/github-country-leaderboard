@@ -1,6 +1,6 @@
 # Total Contributions - South Africa
 
-Generated: 2026-10-20T21:37:27.426Z
+Generated: 2026-10-20T23:48:31.826Z
 
 Users: 17924
 
@@ -21,8 +21,8 @@ Users: 17924
 | 13 | [dbfx](https://github.com/dbfx) | Dave | @Join-Panda  |  | Johannesburg, South Africa | 16427 |
 | 14 | [presidentGift](https://github.com/presidentGift) | Gift Zikalala |  | giftzikalala | South Africa | 16380 |
 | 15 | [AGM1968](https://github.com/AGM1968) |  |  |  | South Africa | 15687 |
-| 16 | [TheRealJamesRussell](https://github.com/TheRealJamesRussell) | James Russell |  |  | South Africa | 15525 |
-| 17 | [BitnationAI](https://github.com/BitnationAI) | Chad | QuantumBerry AI |  | South Africa | 15302 |
-| 18 | [edwynmoss](https://github.com/edwynmoss) | Edwyn Moss | Millennial Projects |  | Cape Town | 14732 |
-| 19 | [Schramm2](https://github.com/Schramm2) | Matthew Schramm | Ubundi |  | Cape Town, South Africa | 14715 |
-| 20 | [DG-za](https://github.com/DG-za) | Stefan Els | Elenjical Solutions |  | Pretoria, South Africa | 13794 |
+| 16 | [BitnationAI](https://github.com/BitnationAI) | Chad | QuantumBerry AI |  | South Africa | 15302 |
+| 17 | [edwynmoss](https://github.com/edwynmoss) | Edwyn Moss | Millennial Projects |  | Cape Town | 14732 |
+| 18 | [Schramm2](https://github.com/Schramm2) | Matthew Schramm | Ubundi |  | Cape Town, South Africa | 14715 |
+| 19 | [DG-za](https://github.com/DG-za) | Stefan Els | Elenjical Solutions |  | Pretoria, South Africa | 13794 |
+| 20 | [TheRealJamesRussell](https://github.com/TheRealJamesRussell) | James Russell |  |  | South Africa | 13565 |

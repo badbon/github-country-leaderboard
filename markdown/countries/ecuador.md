@@ -23,11 +23,11 @@ Indexed users: 4,876
 | 9 | [JorgeDoicela](https://github.com/JorgeDoicela) | Jorge Doicela | Quito | 7,903 |
 | 10 | [StevSant](https://github.com/StevSant) | Bryan Menoscal | Ecuador, Manabi, Manta | 7,246 |
 | 11 | [sanieni6](https://github.com/sanieni6) | Luis Sanchez | Ecuador | 7,174 |
-| 12 | [br-programmer](https://github.com/br-programmer) | Brayan Cantos | Ecuador | 6,794 |
-| 13 | [alvarezmario](https://github.com/alvarezmario) | Mario A. Alvarez Garcia | Quito, Ecuador | 6,554 |
-| 14 | [jorgesolerrr](https://github.com/jorgesolerrr) | Jorge Soler | Guayaquil, Ecuador | 6,539 |
-| 15 | [devrchancay](https://github.com/devrchancay) | Ramón Chancay Ortega  | Ecuador, Guayaquil | 6,275 |
-| 16 | [franmc01](https://github.com/franmc01) | Francisco | Ecuador | 6,104 |
+| 12 | [alvarezmario](https://github.com/alvarezmario) | Mario A. Alvarez Garcia | Quito, Ecuador | 6,554 |
+| 13 | [jorgesolerrr](https://github.com/jorgesolerrr) | Jorge Soler | Guayaquil, Ecuador | 6,539 |
+| 14 | [devrchancay](https://github.com/devrchancay) | Ramón Chancay Ortega  | Ecuador, Guayaquil | 6,275 |
+| 15 | [franmc01](https://github.com/franmc01) | Francisco | Ecuador | 6,104 |
+| 16 | [br-programmer](https://github.com/br-programmer) | Brayan Cantos | Ecuador | 6,095 |
 | 17 | [raulidavid](https://github.com/raulidavid) | Raúl Flores | Ecuador | 6,081 |
 | 18 | [Johrespi](https://github.com/Johrespi) | Johann Alejandro Ramírez Espinoza | Guayaquil, Ecuador | 6,048 |
 | 19 | [shaskola](https://github.com/shaskola) | Fernando Ruiz | Ecuador | 5,843 |
@@ -70,7 +70,7 @@ Indexed users: 4,876
 | 6 | [asantibanez](https://github.com/asantibanez) | Andrés Santibáñez | Guayaquil, Ecuador | 514 |
 | 7 | [danielaltamirano1993](https://github.com/danielaltamirano1993) | danielaltamiranoborja | Ecuador-Pichincha-Quito | 503 |
 | 8 | [eythaann](https://github.com/eythaann) | Eythan David | Ecuador | 396 |
-| 9 | [GabySol](https://github.com/GabySol) | Gabriela Solano | Ecuador | 335 |
+| 9 | [GabySol](https://github.com/GabySol) | Gabriela Solano | Ecuador | 336 |
 | 10 | [darwin-morocho](https://github.com/darwin-morocho) | Darwin Morocho | Ecuador | 310 |
 | 11 | [DevCoreXOfficial](https://github.com/DevCoreXOfficial) | DevCoreX | Ecuador | 277 |
 | 12 | [cromewar](https://github.com/cromewar) | Vasiliy Kirochka | Ecuador | 243 |
@@ -83,4 +83,4 @@ Indexed users: 4,876
 | 19 | [Bryan-Herrera-DEV](https://github.com/Bryan-Herrera-DEV) | Bryan Herrera ~ ርᚱ1ናተᛰ ᚻህᚥተპᚱ | Ecuador | 116 |
 | 20 | [Davichobits](https://github.com/Davichobits) | David Ruiz | Ecuador | 116 |
 
-Generated: 2026-10-20T22:14:56.559Z
+Generated: 2026-10-21T00:27:48.086Z

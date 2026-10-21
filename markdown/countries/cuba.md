@@ -50,11 +50,11 @@ Indexed users: 1,273
 | 11 | [ArtStyles](https://github.com/ArtStyles) | Frank Enrique James Hernández | Universidad de Ciencias Informáticas, La Habana, Cuba | 1,263 |
 | 12 | [NairAd02](https://github.com/NairAd02) | Adrian Suarez | Havana, Cuba | 1,228 |
 | 13 | [PushoDev](https://github.com/PushoDev) | Luis A. Guisado | Ciudad de Manzanillo, Cuba | 1,182 |
-| 14 | [apokaliptolesamale](https://github.com/apokaliptolesamale) | Dailyn García Domínguez | La Habana, Cuba | 994 |
-| 15 | [Ruben0304](https://github.com/Ruben0304) | Ruben Hernandez | Cuba | 977 |
-| 16 | [MazMorrDev](https://github.com/MazMorrDev) | Marco Antonio Romero Albanez | Cárdenas, Matanzas, Cuba | 931 |
-| 17 | [noakmilo](https://github.com/noakmilo) | Camilo Noa | Cuba | 913 |
-| 18 | [yordenis91](https://github.com/yordenis91) | Yordenis Correoso L | La Habana, Cuba | 859 |
+| 14 | [yordenis91](https://github.com/yordenis91) | Yordenis Correoso L | La Habana, Cuba | 1,051 |
+| 15 | [apokaliptolesamale](https://github.com/apokaliptolesamale) | Dailyn García Domínguez | La Habana, Cuba | 994 |
+| 16 | [Ruben0304](https://github.com/Ruben0304) | Ruben Hernandez | Cuba | 977 |
+| 17 | [MazMorrDev](https://github.com/MazMorrDev) | Marco Antonio Romero Albanez | Cárdenas, Matanzas, Cuba | 931 |
+| 18 | [noakmilo](https://github.com/noakmilo) | Camilo Noa | Cuba | 913 |
 | 19 | [maicel1978](https://github.com/maicel1978) | Maicel Monzón | Cuba | 774 |
 | 20 | [engelsrc](https://github.com/engelsrc) | Engels Rodriguez Capote | Santiago de Cuba, Cuba | 740 |
 
@@ -83,4 +83,4 @@ Indexed users: 1,273
 | 19 | [markospy](https://github.com/markospy) | Marcos Avila | Cuba | 72 |
 | 20 | [EduardoProfe666](https://github.com/EduardoProfe666) | Eduardo Alejandro González Martell | La Habana, Cuba | 69 |
 
-Generated: 2026-10-20T22:10:54.970Z
+Generated: 2026-10-21T00:23:18.641Z

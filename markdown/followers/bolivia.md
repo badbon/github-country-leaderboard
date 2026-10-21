@@ -1,6 +1,6 @@
 # Followers - Bolivia
 
-Generated: 2026-10-20T22:02:05.579Z
+Generated: 2026-10-21T00:14:53.295Z
 
 Users: 1783
 
@@ -25,4 +25,4 @@ Users: 1783
 | 17 | [pazteddy](https://github.com/pazteddy) | Teddy Paz Muñoz | DevTalles |  | Bolivia | 133 |
 | 18 | [CarlaMamaniChavez](https://github.com/CarlaMamaniChavez) | Carla Vanesa Mamani Chavez | University "Mayor de San Andres" | CarlaMamaniCha1 | La Paz, Bolivia | 128 |
 | 19 | [alvarosiles11](https://github.com/alvarosiles11) | Alvaro Siles Estrada | SERVISOFTS SRL | alvarosiles11 | Bolivia | 121 |
-| 20 | [mauforonda](https://github.com/mauforonda) | Mau Foronda |  | mauforonda | Bolivia | 120 |
+| 20 | [mauforonda](https://github.com/mauforonda) | Mau Foronda |  | mauforonda | Bolivia | 119 |
