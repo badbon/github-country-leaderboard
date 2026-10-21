@@ -39212,7 +39212,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 8,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2021-02-26T14:41:38Z"
   },
   {
@@ -39224,19 +39224,19 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 64,
+    "publicContributions": 10,
     "createdAt": "2021-02-26T21:40:34Z"
   },
   {
     "login": "vmarkop",
     "name": "Vasileios Markopoulos",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/83133031?s=72&u=6bf822882d0498e7db744b2a55da74f3d5e1fd33&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/83133031?s=72&u=55e8dce5137ea765ac647d9fa417942877a0109a&v=4",
     "location": "Athens, Greece",
     "company": "@gunet ",
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 611,
+    "publicContributions": 841,
     "createdAt": "2021-04-24T16:46:31Z"
   },
   {
@@ -39246,8 +39246,8 @@
     "location": "Greece",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 58,
+    "followers": 6,
+    "privateContributions": 49,
     "publicContributions": 0,
     "createdAt": "2021-03-23T17:26:00Z"
   },
@@ -39270,9 +39270,9 @@
     "location": "Greece",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 609,
+    "publicContributions": 524,
     "createdAt": "2021-04-15T12:15:40Z"
   },
   {
@@ -39284,7 +39284,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 47,
     "createdAt": "2021-05-25T08:55:02Z"
   },
   {
@@ -39308,7 +39308,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 124,
+    "publicContributions": 148,
     "createdAt": "2021-03-11T16:38:59Z"
   },
   {
@@ -39319,21 +39319,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 210,
-    "publicContributions": 79,
+    "privateContributions": 224,
+    "publicContributions": 44,
     "createdAt": "2021-06-12T18:05:38Z"
-  },
-  {
-    "login": "Tachma",
-    "name": "Ioannis Tachmazidis",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/80994005?s=72&u=4c21320207e0fb0264820864460090afb121b6b7&v=4",
-    "location": "Athens, Greece",
-    "company": "UniStudents",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 262,
-    "publicContributions": 30,
-    "createdAt": "2021-03-20T01:14:12Z"
   },
   {
     "login": "konpoul",
@@ -39343,7 +39331,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 551,
+    "privateContributions": 601,
     "publicContributions": 1,
     "createdAt": "2021-03-01T19:34:36Z"
   },
@@ -39355,7 +39343,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 0,
+    "privateContributions": 16,
     "publicContributions": 42,
     "createdAt": "2021-03-03T12:33:33Z"
   },
@@ -39416,7 +39404,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 0,
     "createdAt": "2021-01-26T23:43:55Z"
   },
   {
@@ -39439,7 +39427,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 345,
+    "privateContributions": 627,
     "publicContributions": 7,
     "createdAt": "2021-04-27T09:46:10Z"
   },

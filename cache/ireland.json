@@ -39116,7 +39116,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 5,
     "createdAt": "2021-04-10T13:29:25Z"
   },
   {
@@ -39152,7 +39152,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2021-01-20T17:37:23Z"
   },
   {
@@ -39307,8 +39307,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 31,
-    "publicContributions": 0,
+    "privateContributions": 38,
+    "publicContributions": 6,
     "createdAt": "2021-05-24T13:34:25Z"
   },
   {
@@ -39325,13 +39325,13 @@
   },
   {
     "login": "shallihan",
-    "name": "Shauna Hallihan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/80907738?s=72&u=727c6a28529abe95f1603647bdfb9c660567f6e5&v=4",
+    "name": "S Hallihan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/80907738?s=72&v=4",
     "location": "Ireland",
     "company": "",
     "twitterUsername": "shaunahallihan",
     "followers": 1,
-    "privateContributions": 719,
+    "privateContributions": 613,
     "publicContributions": 2,
     "createdAt": "2021-03-18T15:01:00Z"
   },
