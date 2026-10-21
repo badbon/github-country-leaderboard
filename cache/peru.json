@@ -41732,7 +41732,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2021-02-04T02:23:32Z"
   },
   {
@@ -41744,7 +41744,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 8,
     "createdAt": "2021-02-13T04:22:32Z"
   },
   {
@@ -41785,14 +41785,14 @@
   },
   {
     "login": "ImNotMarcelo",
-    "name": "Marcelo",
+    "name": "",
     "avatarUrl": "https://avatars.githubusercontent.com/u/82829576?s=72&u=46f38da5a728917c8fb0f0fc42115c5fe2b84f2f&v=4",
     "location": "Peru",
     "company": "",
-    "twitterUsername": "marcelohab",
-    "followers": 1,
+    "twitterUsername": "",
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 41,
     "createdAt": "2021-04-19T15:50:03Z"
   },
   {
@@ -41820,18 +41820,6 @@
     "createdAt": "2021-08-24T16:18:57Z"
   },
   {
-    "login": "Carlou134",
-    "name": "Carlos Vásquez Rodriguez",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/81259501?s=72&u=43ea2453874b28ce23286c2a5c5b10588e26615d&v=4",
-    "location": "Lima, Peru",
-    "company": "Zoluxiones LATAM",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 486,
-    "createdAt": "2021-03-23T18:39:23Z"
-  },
-  {
     "login": "larskvn",
     "name": "Kvn",
     "avatarUrl": "https://avatars.githubusercontent.com/u/83087654?s=72&v=4",
@@ -41850,9 +41838,9 @@
     "location": "Peru",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 84,
-    "publicContributions": 65,
+    "followers": 2,
+    "privateContributions": 475,
+    "publicContributions": 44,
     "createdAt": "2021-06-25T16:39:15Z"
   },
   {
@@ -41876,7 +41864,7 @@
     "twitterUsername": "Edwin81156402",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 33,
+    "publicContributions": 76,
     "createdAt": "2021-12-02T07:03:25Z"
   },
   {
@@ -41887,8 +41875,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 18,
-    "publicContributions": 15,
+    "privateContributions": 30,
+    "publicContributions": 3,
     "createdAt": "2021-02-23T07:59:48Z"
   },
   {
@@ -41919,12 +41907,12 @@
     "login": "markotalledo",
     "name": "Marko Talledo",
     "avatarUrl": "https://avatars.githubusercontent.com/u/79496490?s=72&u=d12faa6ad66dc7e6c7c13a45f503c3cb8de3efd0&v=4",
-    "location": "Peru",
+    "location": "Lima, Peru",
     "company": "Cometa",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 2047,
-    "publicContributions": 11,
+    "privateContributions": 2714,
+    "publicContributions": 23,
     "createdAt": "2021-02-23T04:13:52Z"
   },
   {

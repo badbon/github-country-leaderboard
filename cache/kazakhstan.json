@@ -41491,8 +41491,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1358,
-    "publicContributions": 6,
+    "privateContributions": 1499,
+    "publicContributions": 5,
     "createdAt": "2019-10-11T16:15:25Z"
   },
   {
@@ -41514,7 +41514,7 @@
     "location": "Kazakhstan",
     "company": "",
     "twitterUsername": "ali_assanovich",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-11-08T03:30:00Z"
@@ -41526,9 +41526,9 @@
     "location": "Kazakhstan",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 23,
     "createdAt": "2019-07-29T10:15:41Z"
   },
   {
@@ -41575,7 +41575,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 3192,
+    "privateContributions": 3773,
     "publicContributions": 0,
     "createdAt": "2019-11-07T18:03:45Z"
   },
@@ -41588,7 +41588,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 1,
     "createdAt": "2019-03-30T13:18:05Z"
   },
   {
@@ -41611,7 +41611,7 @@
     "company": "Axel/Synteco",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 215,
+    "privateContributions": 211,
     "publicContributions": 0,
     "createdAt": "2019-02-04T09:28:16Z"
   },
@@ -41624,7 +41624,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 10,
     "createdAt": "2019-12-27T03:55:04Z"
   },
   {
@@ -41636,7 +41636,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 309,
+    "publicContributions": 85,
     "createdAt": "2019-08-18T11:46:05Z"
   },
   {
@@ -41660,7 +41660,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 172,
+    "publicContributions": 184,
     "createdAt": "2019-08-20T18:14:48Z"
   },
   {
@@ -41674,18 +41674,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-05-29T02:57:41Z"
-  },
-  {
-    "login": "howardat",
-    "name": "Olzhas Kakimzhanov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/47422086?s=72&u=b705296020bd5e5c6508e150eba861aef8dd8622&v=4",
-    "location": "Kazakhstan, Astana",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 157,
-    "publicContributions": 190,
-    "createdAt": "2019-02-07T14:04:24Z"
   },
   {
     "login": "Ex4amp1e",
