@@ -1,6 +1,6 @@
 # Total Contributions - Bulgaria
 
-Generated: 2026-10-21T02:00:33.502Z
+Generated: 2026-10-21T03:38:49.063Z
 
 Users: 14067
 
@@ -18,8 +18,8 @@ Users: 14067
 | 10 | [dgeorgiev](https://github.com/dgeorgiev) | Daniel Georgiev | @dabanny  |  | Bulgaria | 12009 |
 | 11 | [escapeboy](https://github.com/escapeboy) | Nikola Katsarov | @KarlovoTech  |  | Karlovo, Bulgaria | 11201 |
 | 12 | [bobicloudvision](https://github.com/bobicloudvision) | Bozhidar | Cloud Vision Ltd |  | Sofia | 11033 |
-| 13 | [AgLogiV](https://github.com/AgLogiV) | Aleksandar Georgiev | @virtyxhost |  | Bulgaria, Sofia | 9920 |
-| 14 | [naiiiden](https://github.com/naiiiden) | Naiden Radnev |  |  | Sofia, Bulgaria | 9899 |
+| 13 | [naiiiden](https://github.com/naiiiden) | Naiden Radnev |  |  | Sofia, Bulgaria | 10975 |
+| 14 | [AgLogiV](https://github.com/AgLogiV) | Aleksandar Georgiev | @virtyxhost |  | Bulgaria, Sofia | 9920 |
 | 15 | [hkdobrev](https://github.com/hkdobrev) | Harry Dobrev |  | hkdobrev | Sofia, Bulgaria | 9650 |
 | 16 | [kKaskak](https://github.com/kKaskak) | Timothy Z. | @stremio | kKaskak | Bulgaria | 9558 |
 | 17 | [DonKoko](https://github.com/DonKoko) | Nikolay Bonev | shelf.nu |  | Sofia, Bulgaria | 9549 |

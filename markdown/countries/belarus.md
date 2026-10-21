@@ -28,35 +28,35 @@ Indexed users: 10,926
 | 14 | [reven86](https://github.com/reven86) | Andrew Karpushin | Minsk, Belarus | 5,216 |
 | 15 | [pavelpikta](https://github.com/pavelpikta) | Pavel Pikta | Grodno, Belarus | 5,010 |
 | 16 | [burvelandrei](https://github.com/burvelandrei) | Burvel Andrei | Minsk | 5,006 |
-| 17 | [dementorsss](https://github.com/dementorsss) | Dmitry | Minsk | 4,928 |
-| 18 | [SergeyGalaxyOrsik](https://github.com/SergeyGalaxyOrsik) | Siarhei Orsik | Minsk | 4,822 |
-| 19 | [Frederlk](https://github.com/Frederlk) | Petrinich Sergey | Belarus/Minsk | 4,821 |
-| 20 | [hotrush](https://github.com/hotrush) |  | Minsk, Belarus | 4,799 |
+| 17 | [SergeyGalaxyOrsik](https://github.com/SergeyGalaxyOrsik) | Siarhei Orsik | Minsk | 4,822 |
+| 18 | [Frederlk](https://github.com/Frederlk) | Petrinich Sergey | Belarus/Minsk | 4,821 |
+| 19 | [hotrush](https://github.com/hotrush) |  | Minsk, Belarus | 4,799 |
+| 20 | [LeonidShatilo](https://github.com/LeonidShatilo) | Leonid Shatilo | Gomel, Belarus | 4,563 |
 
 ## Public Contributions
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [kudima03](https://github.com/kudima03) | Dmitry Kurochkin | Minsk, Belarus | 17,878 |
-| 2 | [dementorsss](https://github.com/dementorsss) | Dmitry | Minsk | 4,909 |
-| 3 | [Bayselonarrend](https://github.com/Bayselonarrend) | Anton Titovets | Minsk, Belarus | 4,103 |
-| 4 | [kirich1409](https://github.com/kirich1409) | Kirill Rozov | Grodno, Belarus | 3,364 |
-| 5 | [zarazaex69](https://github.com/zarazaex69) | zarazaex | Minsk | 2,879 |
-| 6 | [DmitriyKuladmed](https://github.com/DmitriyKuladmed) | Dmitriy Kulaga | Brest, Belarus | 2,733 |
-| 7 | [ermig1979](https://github.com/ermig1979) | Ihar Yermalayeu | Minsk, Belarus | 2,244 |
-| 8 | [TarhunchiKKK](https://github.com/TarhunchiKKK) | Konstantin Barilo | Minsk, Belarus | 2,208 |
-| 9 | [Mukller](https://github.com/Mukller) | Anton Petnitsky | Belarus, Minsk | 2,150 |
-| 10 | [pese-git](https://github.com/pese-git) | Sergey Penkovsky | Belarus | 2,113 |
-| 11 | [timseriakov](https://github.com/timseriakov) | Tim Seriakov | Minsk, Belarus | 2,082 |
-| 12 | [Nice3point](https://github.com/Nice3point) | Roman | Minsk | 2,066 |
-| 13 | [naxBody](https://github.com/naxBody) | Артем | Belarus, Luninets  | 1,957 |
-| 14 | [Alexeykoh](https://github.com/Alexeykoh) | Алексей | Belarus | 1,928 |
-| 15 | [MikalaiKryvusha](https://github.com/MikalaiKryvusha) | Mikalai Kryvusha | Belarus, Minsk | 1,922 |
-| 16 | [e-gleba](https://github.com/e-gleba) | Evgeniy Gleba | Minsk | 1,838 |
-| 17 | [HardNorth](https://github.com/HardNorth) | Vadzim Hushchanskou | Minsk, Belarus | 1,826 |
-| 18 | [AndreiDrang](https://github.com/AndreiDrang) | Andrei | Minsk | 1,681 |
-| 19 | [fedorkobak](https://github.com/fedorkobak) | Fedor Kobak | Minsk Belarus | 1,600 |
-| 20 | [vegacepticon](https://github.com/vegacepticon) |  | Belarus | 1,569 |
+| 2 | [Bayselonarrend](https://github.com/Bayselonarrend) | Anton Titovets | Minsk, Belarus | 4,103 |
+| 3 | [kirich1409](https://github.com/kirich1409) | Kirill Rozov | Grodno, Belarus | 3,364 |
+| 4 | [zarazaex69](https://github.com/zarazaex69) | zarazaex | Minsk | 2,879 |
+| 5 | [DmitriyKuladmed](https://github.com/DmitriyKuladmed) | Dmitriy Kulaga | Brest, Belarus | 2,733 |
+| 6 | [ermig1979](https://github.com/ermig1979) | Ihar Yermalayeu | Minsk, Belarus | 2,244 |
+| 7 | [TarhunchiKKK](https://github.com/TarhunchiKKK) | Konstantin Barilo | Minsk, Belarus | 2,208 |
+| 8 | [Mukller](https://github.com/Mukller) | Anton Petnitsky | Belarus, Minsk | 2,150 |
+| 9 | [pese-git](https://github.com/pese-git) | Sergey Penkovsky | Belarus | 2,113 |
+| 10 | [timseriakov](https://github.com/timseriakov) | Tim Seriakov | Minsk, Belarus | 2,082 |
+| 11 | [Nice3point](https://github.com/Nice3point) | Roman | Minsk | 2,066 |
+| 12 | [naxBody](https://github.com/naxBody) | Артем | Belarus, Luninets  | 1,957 |
+| 13 | [Alexeykoh](https://github.com/Alexeykoh) | Алексей | Belarus | 1,928 |
+| 14 | [MikalaiKryvusha](https://github.com/MikalaiKryvusha) | Mikalai Kryvusha | Belarus, Minsk | 1,922 |
+| 15 | [e-gleba](https://github.com/e-gleba) | Evgeniy Gleba | Minsk | 1,838 |
+| 16 | [HardNorth](https://github.com/HardNorth) | Vadzim Hushchanskou | Minsk, Belarus | 1,826 |
+| 17 | [AndreiDrang](https://github.com/AndreiDrang) | Andrei | Minsk | 1,681 |
+| 18 | [fedorkobak](https://github.com/fedorkobak) | Fedor Kobak | Minsk Belarus | 1,600 |
+| 19 | [vegacepticon](https://github.com/vegacepticon) |  | Belarus | 1,569 |
+| 20 | [shmelidzee](https://github.com/shmelidzee) | Pavel Moiseenko | Minsk, Belarus | 1,523 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 10,926
 | 19 | [dillidon](https://github.com/dillidon) | RV | Belarus | 183 |
 | 20 | [alexzhirkevich](https://github.com/alexzhirkevich) | Alexander Zhirkevich | Belarus, Minsk | 161 |
 
-Generated: 2026-10-21T01:57:13.187Z
+Generated: 2026-10-21T03:36:13.679Z

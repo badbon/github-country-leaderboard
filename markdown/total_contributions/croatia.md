@@ -1,6 +1,6 @@
 # Total Contributions - Croatia
 
-Generated: 2026-10-21T02:08:26.530Z
+Generated: 2026-10-21T03:46:25.168Z
 
 Users: 5420
 
@@ -18,11 +18,11 @@ Users: 5420
 | 10 | [bis3946](https://github.com/bis3946) | bis3946 | NuN Nexus of Unity  | bis3946 | Croatia | 8871 |
 | 11 | [lbagic](https://github.com/lbagic) | Luka Bagic |  |  | Croatia | 8198 |
 | 12 | [lazar-tomislav](https://github.com/lazar-tomislav) | Tomislav Lazar | Morgan Code |  | Croatia | 8131 |
-| 13 | [piqusy](https://github.com/piqusy) | Ivan Ramljak | @infinum  |  | Zagreb | 7764 |
-| 14 | [ivanmeler](https://github.com/ivanmeler) | Ivan Meler | Meler Media Group | ivan_meler | Croatia, Vukovar | 7621 |
-| 15 | [mbrcic](https://github.com/mbrcic) | Mario Brcic |  |  | Zagreb, Croatia | 7336 |
-| 16 | [zvanjak](https://github.com/zvanjak) | Zvonimir Vanjak | Quantum Soft d.o.o. | zvanjak | Zagreb | 7219 |
-| 17 | [viborc](https://github.com/viborc) | Vibor Cipan | Daydream | viborc | Croatia | 7209 |
-| 18 | [verona-dev](https://github.com/verona-dev) | Zoran G. Verona | Good Code |  | Croatia | 6981 |
-| 19 | [Domogo](https://github.com/Domogo) | Domagoj Satrapa |  |  | Pula, Croatia | 6765 |
-| 20 | [SeloSlav](https://github.com/SeloSlav) | Martin Erlic |  | SeloSlav | Zagreb | 6760 |
+| 13 | [edisinovcic](https://github.com/edisinovcic) | Edi Sinovcic | SpaceShard | edisinovcic | Croatia | 8044 |
+| 14 | [piqusy](https://github.com/piqusy) | Ivan Ramljak | @infinum  |  | Zagreb | 7764 |
+| 15 | [ivanmeler](https://github.com/ivanmeler) | Ivan Meler | Meler Media Group | ivan_meler | Croatia, Vukovar | 7621 |
+| 16 | [mbrcic](https://github.com/mbrcic) | Mario Brcic |  |  | Zagreb, Croatia | 7336 |
+| 17 | [zvanjak](https://github.com/zvanjak) | Zvonimir Vanjak | Quantum Soft d.o.o. | zvanjak | Zagreb | 7219 |
+| 18 | [viborc](https://github.com/viborc) | Vibor Cipan | Daydream | viborc | Croatia | 7209 |
+| 19 | [verona-dev](https://github.com/verona-dev) | Zoran G. Verona | Good Code |  | Croatia | 6981 |
+| 20 | [Domogo](https://github.com/Domogo) | Domagoj Satrapa |  |  | Pula, Croatia | 6765 |

@@ -1,6 +1,6 @@
 # Public Contributions - Taiwan
 
-Generated: 2026-10-21T01:36:01.592Z
+Generated: 2026-10-21T03:17:15.575Z
 
 Users: 21993
 
@@ -20,9 +20,9 @@ Users: 21993
 | 12 | [frank890417](https://github.com/frank890417) | Wu Che Yu | Monoame Design | cheyuwu345 | Taipei | 9771 |
 | 13 | [julianshen](https://github.com/julianshen) | Julian Shen |  |  | Taipei | 9565 |
 | 14 | [neilkuan](https://github.com/neilkuan) | Neil Kuan |  | neil_kuan | Taipei | 8627 |
-| 15 | [barracuda156](https://github.com/barracuda156) | Sergey Fedorov | Soochow University |  | Taiwan | 8508 |
-| 16 | [suzuke](https://github.com/suzuke) | suzuke |  |  | Taiwan | 8460 |
-| 17 | [thc1006](https://github.com/thc1006) | 秀吉 | Taipei City Hospital, Yangming Branch |  | No. 155, Sec. 2, Linong St. Beitou Dist., Taipei City 112304, Taiwan | 8304 |
-| 18 | [elct9620](https://github.com/elct9620) | 蒼時弦也 | @Gogolook-Inc @StarPortal @BasalticStudio  | elct9620 | Taipei City,Taiwan | 8084 |
-| 19 | [yazelin](https://github.com/yazelin) | YAZE LIN | ChingTech 擎添工業 |  | Taipei, Taiwan | 8063 |
+| 15 | [suzuke](https://github.com/suzuke) | suzuke |  |  | Taiwan | 8460 |
+| 16 | [thc1006](https://github.com/thc1006) | 秀吉 | Taipei City Hospital, Yangming Branch |  | No. 155, Sec. 2, Linong St. Beitou Dist., Taipei City 112304, Taiwan | 8304 |
+| 17 | [elct9620](https://github.com/elct9620) | 蒼時弦也 | @Gogolook-Inc @StarPortal @BasalticStudio  | elct9620 | Taipei City,Taiwan | 8084 |
+| 18 | [yazelin](https://github.com/yazelin) | YAZE LIN | ChingTech 擎添工業 |  | Taipei, Taiwan | 8063 |
+| 19 | [barracuda156](https://github.com/barracuda156) | Sergey Fedorov | Soochow University |  | Taiwan | 7900 |
 | 20 | [kiki830621](https://github.com/kiki830621) | Che Cheng |  |  | Taipei, Taiwan | 7790 |

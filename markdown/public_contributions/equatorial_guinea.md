@@ -1,6 +1,6 @@
 # Public Contributions - Equatorial Guinea
 
-Generated: 2026-10-21T02:12:57.510Z
+Generated: 2026-10-21T03:49:12.001Z
 
 Users: 21
 
@@ -17,9 +17,9 @@ Users: 21
 | 9 | [seamuddin](https://github.com/seamuddin) | Seam uddin | Rosa Money SL |  | Malabo, Equatorial guinea | 8 |
 | 10 | [melitonio](https://github.com/melitonio) | Meliton Pablo Mangue Mañana | MAIT |  | Malabo, Guinea Ecuatorial | 5 |
 | 11 | [clinton341](https://github.com/clinton341) | Clinton Ezeronye |  |  | Malabo, Equatorial Guinea | 1 |
-| 12 | [coolmechel](https://github.com/coolmechel) | Ugwu Chukwuemeka Emmanuel |  |  | Equatorial Guinea | 1 |
-| 13 | [AkenatonBot](https://github.com/AkenatonBot) | AnjeseperuraAkenaton |  |  | Malabo, Guinea Ecuatorial | 0 |
-| 14 | [CaitlynBeryl](https://github.com/CaitlynBeryl) | Caitlyn Beryl  |  |  | Malabo, Equatorial Guinea | 0 |
+| 12 | [AkenatonBot](https://github.com/AkenatonBot) | AnjeseperuraAkenaton |  |  | Malabo, Guinea Ecuatorial | 0 |
+| 13 | [CaitlynBeryl](https://github.com/CaitlynBeryl) | Caitlyn Beryl  |  |  | Malabo, Equatorial Guinea | 0 |
+| 14 | [coolmechel](https://github.com/coolmechel) | Ugwu Chukwuemeka Emmanuel |  |  | Equatorial Guinea | 0 |
 | 15 | [cornensue](https://github.com/cornensue) | Cornelio Nsue |  | cornensue | Malabo | 0 |
 | 16 | [DanielNdong](https://github.com/DanielNdong) | Daniel Aquilino Ndong |  | devtotech | Malabo, Guinea Ecuatorial | 0 |
 | 17 | [gracycode](https://github.com/gracycode) | Chidimma Grace |  | Gonwudo | Malabo, Equatorial Guinea | 0 |

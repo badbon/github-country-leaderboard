@@ -24,9 +24,9 @@ Indexed users: 21
 | 10 | [melitonio](https://github.com/melitonio) | Meliton Pablo Mangue Mañana | Malabo, Guinea Ecuatorial | 5 |
 | 11 | [DanielNdong](https://github.com/DanielNdong) | Daniel Aquilino Ndong | Malabo, Guinea Ecuatorial | 4 |
 | 12 | [clinton341](https://github.com/clinton341) | Clinton Ezeronye | Malabo, Equatorial Guinea | 1 |
-| 13 | [coolmechel](https://github.com/coolmechel) | Ugwu Chukwuemeka Emmanuel | Equatorial Guinea | 1 |
-| 14 | [AkenatonBot](https://github.com/AkenatonBot) | AnjeseperuraAkenaton | Malabo, Guinea Ecuatorial | 0 |
-| 15 | [CaitlynBeryl](https://github.com/CaitlynBeryl) | Caitlyn Beryl  | Malabo, Equatorial Guinea | 0 |
+| 13 | [AkenatonBot](https://github.com/AkenatonBot) | AnjeseperuraAkenaton | Malabo, Guinea Ecuatorial | 0 |
+| 14 | [CaitlynBeryl](https://github.com/CaitlynBeryl) | Caitlyn Beryl  | Malabo, Equatorial Guinea | 0 |
+| 15 | [coolmechel](https://github.com/coolmechel) | Ugwu Chukwuemeka Emmanuel | Equatorial Guinea | 0 |
 | 16 | [cornensue](https://github.com/cornensue) | Cornelio Nsue | Malabo | 0 |
 | 17 | [gracycode](https://github.com/gracycode) | Chidimma Grace | Malabo, Equatorial Guinea | 0 |
 | 18 | [I-Have-Nuclear-Bunker](https://github.com/I-Have-Nuclear-Bunker) | RandomLetters | Equatorial Guinea | 0 |
@@ -48,9 +48,9 @@ Indexed users: 21
 | 9 | [seamuddin](https://github.com/seamuddin) | Seam uddin | Malabo, Equatorial guinea | 8 |
 | 10 | [melitonio](https://github.com/melitonio) | Meliton Pablo Mangue Mañana | Malabo, Guinea Ecuatorial | 5 |
 | 11 | [clinton341](https://github.com/clinton341) | Clinton Ezeronye | Malabo, Equatorial Guinea | 1 |
-| 12 | [coolmechel](https://github.com/coolmechel) | Ugwu Chukwuemeka Emmanuel | Equatorial Guinea | 1 |
-| 13 | [AkenatonBot](https://github.com/AkenatonBot) | AnjeseperuraAkenaton | Malabo, Guinea Ecuatorial | 0 |
-| 14 | [CaitlynBeryl](https://github.com/CaitlynBeryl) | Caitlyn Beryl  | Malabo, Equatorial Guinea | 0 |
+| 12 | [AkenatonBot](https://github.com/AkenatonBot) | AnjeseperuraAkenaton | Malabo, Guinea Ecuatorial | 0 |
+| 13 | [CaitlynBeryl](https://github.com/CaitlynBeryl) | Caitlyn Beryl  | Malabo, Equatorial Guinea | 0 |
+| 14 | [coolmechel](https://github.com/coolmechel) | Ugwu Chukwuemeka Emmanuel | Equatorial Guinea | 0 |
 | 15 | [cornensue](https://github.com/cornensue) | Cornelio Nsue | Malabo | 0 |
 | 16 | [DanielNdong](https://github.com/DanielNdong) | Daniel Aquilino Ndong | Malabo, Guinea Ecuatorial | 0 |
 | 17 | [gracycode](https://github.com/gracycode) | Chidimma Grace | Malabo, Equatorial Guinea | 0 |
@@ -83,4 +83,4 @@ Indexed users: 21
 | 19 | [petr2rzu](https://github.com/petr2rzu) | Javier |  Equatorial Guinea | 1 |
 | 20 | [sersobrenatural](https://github.com/sersobrenatural) | Santiago Gabriel Micha Ndong Obiang | Equatorial Guinea  | 1 |
 
-Generated: 2026-10-21T02:12:57.510Z
+Generated: 2026-10-21T03:49:12.001Z

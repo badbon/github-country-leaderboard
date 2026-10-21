@@ -63,8 +63,8 @@ Indexed users: 1,273
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [apiad](https://github.com/apiad) | Alejandro Piad | Cuba | 456 |
-| 2 | [jr20xx](https://github.com/jr20xx) | José Ricardo | Cuba | 381 |
-| 3 | [GamerHack](https://github.com/GamerHack) |  | Cuba | 212 |
+| 2 | [jr20xx](https://github.com/jr20xx) | José Ricardo | Cuba | 391 |
+| 3 | [GamerHack](https://github.com/GamerHack) |  | Cuba | 217 |
 | 4 | [herbertDev12](https://github.com/herbertDev12) | Herbert L. Navarro | La Habana, Cuba | 144 |
 | 5 | [PushoDev](https://github.com/PushoDev) | Luis A. Guisado | Ciudad de Manzanillo, Cuba | 134 |
 | 6 | [rodnye](https://github.com/rodnye) | Rodny Estrada | La Habana, Cuba | 132 |
@@ -83,4 +83,4 @@ Indexed users: 1,273
 | 19 | [markospy](https://github.com/markospy) | Marcos Avila | Cuba | 72 |
 | 20 | [EduardoProfe666](https://github.com/EduardoProfe666) | Eduardo Alejandro González Martell | La Habana, Cuba | 69 |
 
-Generated: 2026-10-21T02:09:03.269Z
+Generated: 2026-10-21T03:46:30.270Z

@@ -1,6 +1,6 @@
 # Total Contributions - Ecuador
 
-Generated: 2026-10-21T02:12:06.112Z
+Generated: 2026-10-21T03:49:00.040Z
 
 Users: 4876
 
@@ -18,11 +18,11 @@ Users: 4876
 | 10 | [JorgeDoicela](https://github.com/JorgeDoicela) | Jorge Doicela |  |  | Quito | 7903 |
 | 11 | [luilliarcec](https://github.com/luilliarcec) | Luis Arce | @teamq-ec  |  | Ecuador | 7247 |
 | 12 | [StevSant](https://github.com/StevSant) | Bryan Menoscal | ULEAM |  | Ecuador, Manabi, Manta | 7246 |
-| 13 | [sanieni6](https://github.com/sanieni6) | Luis Sanchez |  |  | Ecuador | 7174 |
-| 14 | [alvarezmario](https://github.com/alvarezmario) | Mario A. Alvarez Garcia |  |  | Quito, Ecuador | 6554 |
-| 15 | [jorgesolerrr](https://github.com/jorgesolerrr) | Jorge Soler |  |  | Guayaquil, Ecuador | 6539 |
-| 16 | [devrchancay](https://github.com/devrchancay) | Ramón Chancay Ortega  | @desarol | devrchancay | Ecuador, Guayaquil | 6275 |
-| 17 | [rapharen](https://github.com/rapharen) | Christian Raphael | @EfexPay |  | Ecuador | 6110 |
-| 18 | [franmc01](https://github.com/franmc01) | Francisco | Katarion |  | Ecuador | 6104 |
-| 19 | [br-programmer](https://github.com/br-programmer) | Brayan Cantos |  | br_programmer | Ecuador | 6095 |
-| 20 | [raulidavid](https://github.com/raulidavid) | Raúl Flores | Jiban Advanced Systems |  | Ecuador | 6081 |
+| 13 | [chey3002](https://github.com/chey3002) | Carlos Valladarez |  | Sr_Chey | Ecuador | 7227 |
+| 14 | [sanieni6](https://github.com/sanieni6) | Luis Sanchez |  |  | Ecuador | 7174 |
+| 15 | [alvarezmario](https://github.com/alvarezmario) | Mario A. Alvarez Garcia |  |  | Quito, Ecuador | 6554 |
+| 16 | [jorgesolerrr](https://github.com/jorgesolerrr) | Jorge Soler |  |  | Guayaquil, Ecuador | 6539 |
+| 17 | [devrchancay](https://github.com/devrchancay) | Ramón Chancay Ortega  | @desarol | devrchancay | Ecuador, Guayaquil | 6275 |
+| 18 | [rapharen](https://github.com/rapharen) | Christian Raphael | @EfexPay |  | Ecuador | 6110 |
+| 19 | [franmc01](https://github.com/franmc01) | Francisco | Katarion |  | Ecuador | 6104 |
+| 20 | [br-programmer](https://github.com/br-programmer) | Brayan Cantos |  | br_programmer | Ecuador | 6095 |

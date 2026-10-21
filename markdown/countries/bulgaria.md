@@ -24,8 +24,8 @@ Indexed users: 14,067
 | 10 | [dgeorgiev](https://github.com/dgeorgiev) | Daniel Georgiev | Bulgaria | 12,009 |
 | 11 | [escapeboy](https://github.com/escapeboy) | Nikola Katsarov | Karlovo, Bulgaria | 11,201 |
 | 12 | [bobicloudvision](https://github.com/bobicloudvision) | Bozhidar | Sofia | 11,033 |
-| 13 | [AgLogiV](https://github.com/AgLogiV) | Aleksandar Georgiev | Bulgaria, Sofia | 9,920 |
-| 14 | [naiiiden](https://github.com/naiiiden) | Naiden Radnev | Sofia, Bulgaria | 9,899 |
+| 13 | [naiiiden](https://github.com/naiiiden) | Naiden Radnev | Sofia, Bulgaria | 10,975 |
+| 14 | [AgLogiV](https://github.com/AgLogiV) | Aleksandar Georgiev | Bulgaria, Sofia | 9,920 |
 | 15 | [hkdobrev](https://github.com/hkdobrev) | Harry Dobrev | Sofia, Bulgaria | 9,650 |
 | 16 | [kKaskak](https://github.com/kKaskak) | Timothy Z. | Bulgaria | 9,558 |
 | 17 | [DonKoko](https://github.com/DonKoko) | Nikolay Bonev | Sofia, Bulgaria | 9,549 |
@@ -83,4 +83,4 @@ Indexed users: 14,067
 | 19 | [RadoRado](https://github.com/RadoRado) | Radoslav Georgiev | Sofia | 631 |
 | 20 | [narfbg](https://github.com/narfbg) | Andrey Andreev | Bulgaria | 601 |
 
-Generated: 2026-10-21T02:00:33.502Z
+Generated: 2026-10-21T03:38:49.063Z

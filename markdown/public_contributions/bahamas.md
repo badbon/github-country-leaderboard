@@ -1,6 +1,6 @@
 # Public Contributions - Bahamas
 
-Generated: 2026-10-21T01:55:46.721Z
+Generated: 2026-10-21T03:34:30.486Z
 
 Users: 236
 
@@ -10,7 +10,7 @@ Users: 236
 | 2 | [gtsbahamas](https://github.com/gtsbahamas) | Ty Wells | FrankLabs |  | Nassau, Bahamas | 343 |
 | 3 | [mikepadiernos](https://github.com/mikepadiernos) | Mike Padiernos | TCS, GE Aerospace |  | Nassau County, NY | 297 |
 | 4 | [avolel](https://github.com/avolel) | Andre Volel |  |  | Nassau County, NY | 262 |
-| 5 | [FLIPPING-PROFITS](https://github.com/FLIPPING-PROFITS) | FLIPPING PROFITS |  |  | Bahamas | 200 |
+| 5 | [FLIPPING-PROFITS](https://github.com/FLIPPING-PROFITS) | FLIPPING PROFITS |  |  | Bahamas | 193 |
 | 6 | [zotz](https://github.com/zotz) | drew Roberts |  |  | Nassau, Bahamas | 148 |
 | 7 | [dorson755](https://github.com/dorson755) | Dorson Williams |  |  | Nassau Bahamas | 146 |
 | 8 | [Johndiddles](https://github.com/Johndiddles) | Johndiddles | Evon Medics LLC | john_diddles | Nassau, Bahamas | 110 |
@@ -21,8 +21,8 @@ Users: 236
 | 13 | [bryanherger](https://github.com/bryanherger) | Bryan Herger |  |  | South Shore of Nassau County, NY | 62 |
 | 14 | [GustavoHRX](https://github.com/GustavoHRX) | Gustavo Rodrigues | Unemployed |  | Bahamas | 60 |
 | 15 | [justnardo](https://github.com/justnardo) | Just_Nardo | First Glance |  | Bahamas | 54 |
-| 16 | [caynetic](https://github.com/caynetic) | Caynetic | Caynetic Ltd. |  | Nassau, Bahamas | 50 |
-| 17 | [EmmanuelAlcime](https://github.com/EmmanuelAlcime) | Emmanuel Alcime | M.I.N.D Bahamas |  | Nassau, The Bahamas | 50 |
-| 18 | [amcollie](https://github.com/amcollie) | Alexandros Collie | Ministry of Innovation and National Development |  | Nassau, Bahamas | 48 |
-| 19 | [Wraami](https://github.com/Wraami) | Wraami |  |  | Cat Island, Bahamas | 39 |
+| 16 | [EmmanuelAlcime](https://github.com/EmmanuelAlcime) | Emmanuel Alcime | M.I.N.D Bahamas |  | Nassau, The Bahamas | 50 |
+| 17 | [amcollie](https://github.com/amcollie) | Alexandros Collie | Ministry of Innovation and National Development |  | Nassau, Bahamas | 48 |
+| 18 | [Wraami](https://github.com/Wraami) | Wraami |  |  | Cat Island, Bahamas | 39 |
+| 19 | [caynetic](https://github.com/caynetic) | Caynetic | Caynetic Ltd. |  | Nassau, Bahamas | 38 |
 | 20 | [TerryJG](https://github.com/TerryJG) | Terrance |  |  | Nassau, Bahamas | 38 |

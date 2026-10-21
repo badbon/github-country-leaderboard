@@ -51,11 +51,11 @@ Indexed users: 21,993
 | 12 | [frank890417](https://github.com/frank890417) | Wu Che Yu | Taipei | 9,771 |
 | 13 | [julianshen](https://github.com/julianshen) | Julian Shen | Taipei | 9,565 |
 | 14 | [neilkuan](https://github.com/neilkuan) | Neil Kuan | Taipei | 8,627 |
-| 15 | [barracuda156](https://github.com/barracuda156) | Sergey Fedorov | Taiwan | 8,508 |
-| 16 | [suzuke](https://github.com/suzuke) | suzuke | Taiwan | 8,460 |
-| 17 | [thc1006](https://github.com/thc1006) | 秀吉 | No. 155, Sec. 2, Linong St. Beitou Dist., Taipei City 112304, Taiwan | 8,304 |
-| 18 | [elct9620](https://github.com/elct9620) | 蒼時弦也 | Taipei City,Taiwan | 8,084 |
-| 19 | [yazelin](https://github.com/yazelin) | YAZE LIN | Taipei, Taiwan | 8,063 |
+| 15 | [suzuke](https://github.com/suzuke) | suzuke | Taiwan | 8,460 |
+| 16 | [thc1006](https://github.com/thc1006) | 秀吉 | No. 155, Sec. 2, Linong St. Beitou Dist., Taipei City 112304, Taiwan | 8,304 |
+| 17 | [elct9620](https://github.com/elct9620) | 蒼時弦也 | Taipei City,Taiwan | 8,084 |
+| 18 | [yazelin](https://github.com/yazelin) | YAZE LIN | Taipei, Taiwan | 8,063 |
+| 19 | [barracuda156](https://github.com/barracuda156) | Sergey Fedorov | Taiwan | 7,900 |
 | 20 | [kiki830621](https://github.com/kiki830621) | Che Cheng | Taipei, Taiwan | 7,790 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 21,993
 | 19 | [kaochenlong](https://github.com/kaochenlong) | Eddie Kao 高見龍 | Taiwan, Taipei | 1,655 |
 | 20 | [aaaddress1](https://github.com/aaaddress1) | Sheng-Hao Ma | Taiwan | 1,518 |
 
-Generated: 2026-10-21T01:36:01.592Z
+Generated: 2026-10-21T03:17:15.575Z
