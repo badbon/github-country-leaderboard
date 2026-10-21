@@ -1,6 +1,6 @@
 # Public Contributions - Sierra Leone
 
-Generated: 2026-10-21T08:56:56.643Z
+Generated: 2026-10-21T12:58:48.066Z
 
 Users: 442
 
@@ -9,7 +9,7 @@ Users: 442
 | 1 | [HawaKallon](https://github.com/HawaKallon) | Hawa Kallon |  |  | Sierra Leone | 2084 |
 | 2 | [walonCode](https://github.com/walonCode) | Mohamed Lamin Walon Jalloh | Walon-Foundation |  | Sierra Leone | 1895 |
 | 3 | [saidubundukamara](https://github.com/saidubundukamara) | Saidu | Christex Foundation @christex-foundation  | kotor_saedu | Sierra Leone | 1282 |
-| 4 | [bnjox](https://github.com/bnjox) | Ben |  | bnjoxx | Sierra Leone | 1015 |
+| 4 | [bnjox](https://github.com/bnjox) | Ben |  | bnjoxx | Sierra Leone | 1013 |
 | 5 | [ElktrumElk](https://github.com/ElktrumElk) | Elktrum Elk |  |  | Regent, Freetown, Sierra Leone. | 1000 |
 | 6 | [AlphaDumbuya](https://github.com/AlphaDumbuya) | Alpha Dumbuya |  | AlphaDumbuya7 | Freetown, sierra Leone  | 972 |
 | 7 | [stElmitchay](https://github.com/stElmitchay) | Mitch | Christex Foundation | el_saintt | Sierra Leone | 899 |
@@ -19,9 +19,9 @@ Users: 442
 | 11 | [Malaikamadi](https://github.com/Malaikamadi) | Malaika~madi | Safetysphere |  | Freetown, Sierra Leone | 533 |
 | 12 | [EmmanuelKeifala](https://github.com/EmmanuelKeifala) | Emmanuel Keifala |  |  | Freetown, Sierra Leone	 | 492 |
 | 13 | [joemrnice](https://github.com/joemrnice) | Joseph Lahai Kanu | CodeZerra | JosephLahaiKan3 | Freetown, Sierra Leone. | 417 |
-| 14 | [Barrie20](https://github.com/Barrie20) | Alpha Yerroh Barrie |  | Yerrohbarrie06 | Sierra Leone , West Africa | 386 |
-| 15 | [SUBiango](https://github.com/SUBiango) | UMARU SAHR BIANGO | Dot Portal | SUBiango | Sierra Leone | 380 |
-| 16 | [IshmaelKargbo](https://github.com/IshmaelKargbo) | Ishmael Kargbo | Moriba SL | ishodev | Sierra Leone | 376 |
+| 14 | [Barrie20](https://github.com/Barrie20) | Alpha Yerroh Barrie |  | Yerrohbarrie06 | Sierra Leone , West Africa | 392 |
+| 15 | [IshmaelKargbo](https://github.com/IshmaelKargbo) | Ishmael Kargbo | Moriba SL | ishodev | Sierra Leone | 385 |
+| 16 | [SUBiango](https://github.com/SUBiango) | UMARU SAHR BIANGO | Dot Portal | SUBiango | Sierra Leone | 380 |
 | 17 | [konneh-hub](https://github.com/konneh-hub) | Mohamed Kortu Konneh |  |  | Sierra Leone | 359 |
 | 18 | [devlinksl](https://github.com/devlinksl) | Dev-Link Sl  | Dev-Link  |  | Sierra Leone  | 316 |
 | 19 | [davidddeveloper](https://github.com/davidddeveloper) | David Conteh |  | _david_conteh | Freetown, SierraLeone | 252 |
