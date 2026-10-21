@@ -40794,8 +40794,8 @@
     "location": "Brussels",
     "company": "",
     "twitterUsername": "",
-    "followers": 32,
-    "privateContributions": 233,
+    "followers": 33,
+    "privateContributions": 242,
     "publicContributions": 0,
     "createdAt": "2021-11-08T21:12:50Z"
   },
@@ -40807,8 +40807,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 31,
-    "privateContributions": 4,
-    "publicContributions": 44,
+    "privateContributions": 6,
+    "publicContributions": 43,
     "createdAt": "2021-06-11T15:03:29Z"
   },
   {
@@ -40819,8 +40819,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 30,
-    "privateContributions": 328,
-    "publicContributions": 44,
+    "privateContributions": 386,
+    "publicContributions": 47,
     "createdAt": "2021-09-10T10:58:20Z"
   },
   {
@@ -40830,8 +40830,8 @@
     "location": "Brussels",
     "company": "",
     "twitterUsername": "wild_semicolon",
-    "followers": 27,
-    "privateContributions": 1435,
+    "followers": 28,
+    "privateContributions": 1358,
     "publicContributions": 26,
     "createdAt": "2021-10-17T09:58:51Z"
   },
@@ -40844,7 +40844,7 @@
     "twitterUsername": "",
     "followers": 26,
     "privateContributions": 0,
-    "publicContributions": 91,
+    "publicContributions": 127,
     "createdAt": "2021-11-09T15:46:17Z"
   },
   {
@@ -40854,7 +40854,7 @@
     "location": "Brussels",
     "company": "Aware",
     "twitterUsername": "",
-    "followers": 26,
+    "followers": 27,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-09-15T08:10:40Z"
@@ -40867,8 +40867,8 @@
     "company": "IDEA Consult",
     "twitterUsername": "",
     "followers": 25,
-    "privateContributions": 758,
-    "publicContributions": 0,
+    "privateContributions": 710,
+    "publicContributions": 2,
     "createdAt": "2021-08-14T22:08:10Z"
   },
   {
@@ -40890,7 +40890,7 @@
     "location": "Brussels ",
     "company": "BeCode",
     "twitterUsername": "",
-    "followers": 19,
+    "followers": 20,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-09-22T19:13:01Z"
@@ -40916,7 +40916,7 @@
     "twitterUsername": "",
     "followers": 19,
     "privateContributions": 0,
-    "publicContributions": 63,
+    "publicContributions": 44,
     "createdAt": "2021-10-05T11:36:10Z"
   },
   {
@@ -40938,9 +40938,9 @@
     "location": "Ottawa/Brussels/Rabat",
     "company": "University of Ottawa",
     "twitterUsername": "",
-    "followers": 18,
+    "followers": 15,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 17,
     "createdAt": "2021-01-25T05:35:51Z"
   },
   {
@@ -40975,7 +40975,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 16,
-    "privateContributions": 96,
+    "privateContributions": 88,
     "publicContributions": 349,
     "createdAt": "2021-10-19T08:43:30Z"
   },
@@ -41000,20 +41000,8 @@
     "twitterUsername": "",
     "followers": 15,
     "privateContributions": 0,
-    "publicContributions": 119,
+    "publicContributions": 126,
     "createdAt": "2021-12-24T09:28:59Z"
-  },
-  {
-    "login": "Tfloow",
-    "name": "Thomas Debelle",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/88899420?s=72&u=bcd68e533e7b9fbadcd93f95a2108d2ef15f7668&v=4",
-    "location": "Brussels ",
-    "company": "KU Leuven",
-    "twitterUsername": "",
-    "followers": 15,
-    "privateContributions": 150,
-    "publicContributions": 208,
-    "createdAt": "2021-08-13T16:22:26Z"
   },
   {
     "login": "NicolasValiacas",

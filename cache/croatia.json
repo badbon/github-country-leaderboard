@@ -41107,7 +41107,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 2236,
+    "privateContributions": 2613,
     "publicContributions": 0,
     "createdAt": "2015-12-10T23:22:00Z"
   },
@@ -41119,8 +41119,8 @@
     "company": "Infobip",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 22,
-    "publicContributions": 61,
+    "privateContributions": 31,
+    "publicContributions": 60,
     "createdAt": "2015-12-02T22:47:17Z"
   },
   {
@@ -41132,7 +41132,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 16,
     "createdAt": "2015-02-06T19:38:34Z"
   },
   {
@@ -41167,8 +41167,8 @@
     "company": "",
     "twitterUsername": "JuricevMarin",
     "followers": 7,
-    "privateContributions": 1914,
-    "publicContributions": 7,
+    "privateContributions": 1715,
+    "publicContributions": 3,
     "createdAt": "2015-03-16T10:19:23Z"
   },
   {
@@ -41196,18 +41196,6 @@
     "createdAt": "2015-10-21T10:27:24Z"
   },
   {
-    "login": "gorangatuzo",
-    "name": "Goran Martinjak Radalj",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/16210109?s=72&u=2690cef63105adc118269fa9a9a4c3250da79e3d&v=4",
-    "location": "Zagreb, Croatia",
-    "company": "@appsignal",
-    "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 897,
-    "publicContributions": 6,
-    "createdAt": "2015-12-08T15:32:26Z"
-  },
-  {
     "login": "korac",
     "name": "Kristijan Korać",
     "avatarUrl": "https://avatars.githubusercontent.com/u/10884942?s=72&u=9bf29d083fec368a09490565016151931cabc801&v=4",
@@ -41215,8 +41203,8 @@
     "company": "Ars Futura | PontaHR",
     "twitterUsername": "korac_kristijan",
     "followers": 7,
-    "privateContributions": 1257,
-    "publicContributions": 396,
+    "privateContributions": 1354,
+    "publicContributions": 404,
     "createdAt": "2015-02-06T16:02:02Z"
   },
   {
@@ -41227,7 +41215,7 @@
     "company": "@infinum ",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 307,
+    "privateContributions": 300,
     "publicContributions": 0,
     "createdAt": "2015-01-20T10:03:00Z"
   },
@@ -41239,8 +41227,8 @@
     "company": "@SofaScore ",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 1871,
-    "publicContributions": 3,
+    "privateContributions": 1999,
+    "publicContributions": 1,
     "createdAt": "2015-06-18T16:17:15Z"
   },
   {
@@ -41250,9 +41238,9 @@
     "location": "Dubrovnik, Croatia",
     "company": "malloc.hr",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 119,
-    "publicContributions": 25,
+    "followers": 6,
+    "privateContributions": 50,
+    "publicContributions": 8,
     "createdAt": "2015-04-19T10:31:40Z"
   },
   {
@@ -41300,20 +41288,8 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 23,
     "createdAt": "2015-04-16T19:58:35Z"
-  },
-  {
-    "login": "mgoonde",
-    "name": "miha gunde",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/16133576?s=72&v=4",
-    "location": "Zagreb, Croatia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 84,
-    "publicContributions": 217,
-    "createdAt": "2015-12-03T11:08:46Z"
   },
   {
     "login": "generalic",
@@ -41334,9 +41310,9 @@
     "location": "Croatia",
     "company": "Moberg",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 2936,
-    "publicContributions": 835,
+    "followers": 5,
+    "privateContributions": 3502,
+    "publicContributions": 1480,
     "createdAt": "2015-04-28T17:07:54Z"
   },
   {
