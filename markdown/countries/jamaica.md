@@ -15,9 +15,9 @@ Indexed users: 1,271
 | 1 | [gordonswaby](https://github.com/gordonswaby) | EduFocal | Kingston, Jamaica  | 43,963 |
 | 2 | [slocker3](https://github.com/slocker3) | Stephen Locker | Kingston, WA | 15,661 |
 | 3 | [alexarthurs](https://github.com/alexarthurs) | Alex Arthurs | Kingston, Ontario | 12,442 |
-| 4 | [SirFitz](https://github.com/SirFitz) | Romario Fitzgerald | Jamaica | 11,378 |
+| 4 | [SirFitz](https://github.com/SirFitz) | Romario Fitzgerald | Jamaica | 11,499 |
 | 5 | [eforth](https://github.com/eforth) | Ervin Forth | Jamaica | 9,217 |
-| 6 | [kenoButler](https://github.com/kenoButler) | KenoB | Kingston, Jamaica | 8,749 |
+| 6 | [kenoButler](https://github.com/kenoButler) | KenoB | Kingston, Jamaica | 8,803 |
 | 7 | [olusiekwin](https://github.com/olusiekwin) | Gramm | kingston, JM | 8,674 |
 | 8 | [QuigProQuo](https://github.com/QuigProQuo) | John Peter Quigley | Kingston, New York | 7,955 |
 | 9 | [DinitoThompson](https://github.com/DinitoThompson) | Dinito Thompson | Jamaica | 7,419 |
@@ -25,13 +25,13 @@ Indexed users: 1,271
 | 11 | [SammarieoBrown](https://github.com/SammarieoBrown) | Sammarieo Brown | Kingston, Jamaica | 6,392 |
 | 12 | [billlevine](https://github.com/billlevine) | Bill LeVine | Kingston, Ontario | 6,265 |
 | 13 | [tunecrew](https://github.com/tunecrew) | Christopher Edmonds | Kingston, Jamaica | 5,976 |
-| 14 | [dimitriharding](https://github.com/dimitriharding) | Dimitri Harding | Kingston, Jamaica | 5,291 |
+| 14 | [dimitriharding](https://github.com/dimitriharding) | Dimitri Harding | Kingston, Jamaica | 5,470 |
 | 15 | [cogell](https://github.com/cogell) | B. Cedric Cogell | Kingston, NY | 4,636 |
 | 16 | [emperorjm](https://github.com/emperorjm) | Adrian Thompson | Jamaica | 4,532 |
 | 17 | [javaniecampbell](https://github.com/javaniecampbell) | Javanie Campbell | Jamaica | 4,426 |
 | 18 | [JCarran0](https://github.com/JCarran0) | Jared Carrano | Kingston, NY | 4,413 |
 | 19 | [CryptoCanuck](https://github.com/CryptoCanuck) | Chris Robinson | Kingston, ON | 4,245 |
-| 20 | [shanoysinc](https://github.com/shanoysinc) | Shanoy Sinclair | Jamaica | 4,160 |
+| 20 | [shanoysinc](https://github.com/shanoysinc) | Shanoy Sinclair | Jamaica | 4,241 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 1,271
 | 19 | [aliasad059](https://github.com/aliasad059) | Ali Asad | Kingston, Ontario | 99 |
 | 20 | [andrewmaier](https://github.com/andrewmaier) | Andrew Maier | Kingston, Ontario | 95 |
 
-Generated: 2026-10-21T14:00:08.519Z
+Generated: 2026-10-21T15:39:21.814Z

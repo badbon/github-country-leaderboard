@@ -24,12 +24,12 @@ Indexed users: 187
 | 10 | [jonathansharman](https://github.com/jonathansharman) | Jonathan Sharman | Georgetown, DE | 3,306 |
 | 11 | [negz](https://github.com/negz) | Nic Cope | Georgetown, Seattle | 2,991 |
 | 12 | [JohnnyMcGee](https://github.com/JohnnyMcGee) | Johnny McGee | Georgetown, TX | 2,319 |
-| 13 | [jzills](https://github.com/jzills) | Joshua Zillwood | Georgetown, TX | 1,933 |
+| 13 | [jzills](https://github.com/jzills) | Joshua Zillwood | Georgetown, TX | 1,954 |
 | 14 | [codedbychavez](https://github.com/codedbychavez) | Chavez Harris | Guyana | 1,591 |
 | 15 | [schrum2](https://github.com/schrum2) | Jacob Schrum | Georgetown, TX | 1,507 |
 | 16 | [kev-mb](https://github.com/kev-mb) | Kevin Martinez Bautista | Georgetown, Texas | 1,476 |
-| 17 | [rjvaleo](https://github.com/rjvaleo) | transelectronic | Georgetown, Colorado | 1,453 |
-| 18 | [owengrant](https://github.com/owengrant) | Owen Grant | Guyana | 1,452 |
+| 17 | [owengrant](https://github.com/owengrant) | Owen Grant | Guyana | 1,461 |
+| 18 | [rjvaleo](https://github.com/rjvaleo) | transelectronic | Georgetown, Colorado | 1,453 |
 | 19 | [xbze3](https://github.com/xbze3) | Ezra Minty | Guyana | 1,395 |
 | 20 | [kathigg](https://github.com/kathigg) | Kathleen Higgins | Georgetown University | 1,283 |
 
@@ -41,7 +41,7 @@ Indexed users: 187
 | 2 | [uberhacker](https://github.com/uberhacker) | Ed Reel | Georgetown, TX | 3,945 |
 | 3 | [bdenham](https://github.com/bdenham) | Bruce Denham | Georgetown, Texas | 3,374 |
 | 4 | [negz](https://github.com/negz) | Nic Cope | Georgetown, Seattle | 1,854 |
-| 5 | [jzills](https://github.com/jzills) | Joshua Zillwood | Georgetown, TX | 1,768 |
+| 5 | [jzills](https://github.com/jzills) | Joshua Zillwood | Georgetown, TX | 1,789 |
 | 6 | [ktappdev](https://github.com/ktappdev) | Ken Andrew Taylor | Guyana | 1,534 |
 | 7 | [rjvaleo](https://github.com/rjvaleo) | transelectronic | Georgetown, Colorado | 1,453 |
 | 8 | [sandogeorge](https://github.com/sandogeorge) | Sando George | Guyana, South America | 1,332 |
@@ -83,4 +83,4 @@ Indexed users: 187
 | 19 | [Alien-nick](https://github.com/Alien-nick) | Nicholas Seetaram | South America, Guyana, Georgetown | 22 |
 | 20 | [duncanfinney](https://github.com/duncanfinney) | Duncan Finney | Georgetown, CO | 22 |
 
-Generated: 2026-10-21T14:27:40.505Z
+Generated: 2026-10-21T15:33:10.616Z

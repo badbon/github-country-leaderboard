@@ -1,6 +1,6 @@
 # Total Contributions - Isle of Man
 
-Generated: 2026-10-21T13:59:35.872Z
+Generated: 2026-10-21T15:37:37.993Z
 
 Users: 155
 
@@ -10,7 +10,7 @@ Users: 155
 | 2 | [auberryberry](https://github.com/auberryberry) | Aubrey Stearn | @AuBerryBerry | auberryberry | Isle of Man | 10394 |
 | 3 | [bengris32](https://github.com/bengris32) | Ben |  |  | Isle of Man | 8459 |
 | 4 | [darrenbarklie](https://github.com/darrenbarklie) | Darren Barklie | @craftapplied | dazdotdev | Isle of Man | 4499 |
-| 5 | [tekminewe](https://github.com/tekminewe) | Ewe Tek Min |  |  | Isle of Man | 3647 |
+| 5 | [tekminewe](https://github.com/tekminewe) | Ewe Tek Min |  |  | Isle of Man | 3702 |
 | 6 | [oliciv](https://github.com/oliciv) | Oli Allen |  |  | Isle of Man | 2198 |
 | 7 | [dive](https://github.com/dive) | Artem Loenko |  | justsitandgrin | Isle of Man | 2160 |
 | 8 | [lukawarren](https://github.com/lukawarren) | Luka Warren |  |  | Isle of Man | 1964 |
@@ -24,5 +24,5 @@ Users: 155
 | 16 | [allantrabuco](https://github.com/allantrabuco) | Allan Trabuco |  |  | Isle of Man | 1218 |
 | 17 | [Gwiilo](https://github.com/Gwiilo) | Gwilo |  |  | Isle of Man | 1211 |
 | 18 | [mattwilson02](https://github.com/mattwilson02) | Matt Wilson |  |  | Isle of Man | 1126 |
-| 19 | [dannmat](https://github.com/dannmat) | Matt Ward |  |  | Isle of Man | 1083 |
+| 19 | [dannmat](https://github.com/dannmat) | Matt Ward |  |  | Isle of Man | 1080 |
 | 20 | [jonnyirwin](https://github.com/jonnyirwin) | Jonny Irwin |  |  | Isle of Man | 1077 |

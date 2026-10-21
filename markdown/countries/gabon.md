@@ -26,7 +26,7 @@ Indexed users: 314
 | 12 | [nguie2](https://github.com/nguie2) | jean roch | Libreville, Gabon | 649 |
 | 13 | [dynamo63](https://github.com/dynamo63) | Mouckeytou Moulongui | Gabon | 639 |
 | 14 | [EbenEzer-MOMBO](https://github.com/EbenEzer-MOMBO) | MOMBO Eben | Gabon | 587 |
-| 15 | [mawuva](https://github.com/mawuva) | Ephraïm SEDDOR | Libreville, Lomé | 543 |
+| 15 | [mawuva](https://github.com/mawuva) | Ephraïm SEDDOR | Libreville, Lomé | 540 |
 | 16 | [mendoc](https://github.com/mendoc) | Dimitri ONGOUA | Libreville, Gabon | 473 |
 | 17 | [jealife](https://github.com/jealife) | JEaLiFe | Gabon | 463 |
 | 18 | [FeldymZ](https://github.com/FeldymZ) | Feldy MZ | Libreville | 370 |
@@ -83,4 +83,4 @@ Indexed users: 314
 | 19 | [Dylan245-droid](https://github.com/Dylan245-droid) | Dylan ONDO | Libreville, Gabon | 22 |
 | 20 | [Marseven](https://github.com/Marseven) | Aristide Mebodo | Libreville | 19 |
 
-Generated: 2026-10-21T13:48:56.445Z
+Generated: 2026-10-21T15:28:33.507Z

@@ -99,12 +99,12 @@ Published countries: 234
 | Hong Kong | 10,252 | [View](./hong_kong.md) |
 | Hungary | 11,162 | [View](./hungary.md) |
 | Iceland | 1,579 | [View](./iceland.md) |
-| Indonesia | 63,279 | [View](./indonesia.md) |
+| Indonesia | 63,277 | [View](./indonesia.md) |
 | Iran | 26,857 | [View](./iran.md) |
-| Iraq | 2,231 | [View](./iraq.md) |
-| Ireland | 19,488 | [View](./ireland.md) |
+| Iraq | 2,230 | [View](./iraq.md) |
+| Ireland | 19,487 | [View](./ireland.md) |
 | Isle of Man | 155 | [View](./isle_of_man.md) |
-| Israel | 12,419 | [View](./israel.md) |
+| Israel | 12,418 | [View](./israel.md) |
 | Ivory Coast | 488 | [View](./ivory_coast.md) |
 | Jamaica | 1,271 | [View](./jamaica.md) |
 | Jersey | 139 | [View](./jersey.md) |
@@ -239,4 +239,4 @@ Published countries: 234
 | Zambia | 1,336 | [View](./zambia.md) |
 | Zimbabwe | 1,656 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-21T15:23:26.330Z
+Generated: 2026-10-21T15:41:02.918Z

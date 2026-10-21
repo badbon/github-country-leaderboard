@@ -76,11 +76,11 @@ Indexed users: 11,162
 | 12 | [icebob](https://github.com/icebob) | Icebob | Hungary | 832 |
 | 13 | [szepeviktor](https://github.com/szepeviktor) | Viktor Szépe | G2RM+5M Budapest | 767 |
 | 14 | [kisvegabor](https://github.com/kisvegabor) | Gabor Kiss-Vamosi | Hungary, Budapest | 727 |
-| 15 | [Csaba79-coder](https://github.com/Csaba79-coder) | Csaba Vadász MSc | Budakalasz, Hungary | 713 |
-| 16 | [uigitdev](https://github.com/uigitdev) | David Toth | Hungary | 711 |
+| 15 | [uigitdev](https://github.com/uigitdev) | David Toth | Hungary | 716 |
+| 16 | [Csaba79-coder](https://github.com/Csaba79-coder) | Csaba Vadász MSc | Budakalasz, Hungary | 713 |
 | 17 | [johntakesnote](https://github.com/johntakesnote) | John Astern | Budapest, Hungary | 670 |
 | 18 | [Kapitany777](https://github.com/Kapitany777) | Viktor Török | Hungary | 601 |
 | 19 | [tib](https://github.com/tib) | Tibor Bödecs | Hungary | 600 |
 | 20 | [Aylur](https://github.com/Aylur) | Kristóf Demeter | Hungary | 572 |
 
-Generated: 2026-10-21T13:57:35.398Z
+Generated: 2026-10-21T15:34:19.685Z
