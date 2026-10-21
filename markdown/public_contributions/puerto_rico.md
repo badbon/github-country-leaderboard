@@ -1,6 +1,6 @@
 # Public Contributions - Puerto Rico
 
-Generated: 2026-10-21T03:02:53.201Z
+Generated: 2026-10-21T05:37:03.085Z
 
 Users: 1531
 
@@ -18,7 +18,7 @@ Users: 1531
 | 10 | [cywf](https://github.com/cywf) | KP | @pr-cybr  |  | San Juan, PR | 2620 |
 | 11 | [jgravois](https://github.com/jgravois) | john gravois | @compilerla |  | san juan capo, ca | 1984 |
 | 12 | [rebelinux](https://github.com/rebelinux) | Jonathan Colon | IT Consultant |  | Puerto Rico | 1966 |
-| 13 | [ricardojuanmorales](https://github.com/ricardojuanmorales) | Ricardo Juan Morales De Jesús |  |  | San Juan, Puerto Rico | 1359 |
+| 13 | [ricardojuanmorales](https://github.com/ricardojuanmorales) | Ricardo Juan Morales De Jesús |  |  | San Juan, Puerto Rico | 1531 |
 | 14 | [eresfavolosx](https://github.com/eresfavolosx) | Fabián Vélez Vicente | @LinkPuertoRico |  | Trujillo Alto, Puerto Rico | 1307 |
 | 15 | [drosadocastro-bit](https://github.com/drosadocastro-bit) | Danny Rosado Castro (Drakus) | Nova Labs Research |  | Puerto Rico | 1169 |
 | 16 | [Jaxelr](https://github.com/Jaxelr) | Jaxel Rojas Lopez | @Microsoft | jaxelr | San Juan, Puerto Rico | 1103 |

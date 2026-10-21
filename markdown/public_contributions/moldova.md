@@ -1,16 +1,16 @@
 # Public Contributions - Moldova
 
-Generated: 2026-10-21T01:06:04.551Z
+Generated: 2026-10-21T05:23:24.991Z
 
 Users: 1747
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [amberpixels](https://github.com/amberpixels) | Eugene | amberpixels.io |  | Moldova, Chișinău | 28606 |
-| 2 | [texpert](https://github.com/texpert) | Aurel Branzeanu | PC-Link | tvorogoff | Chisinau, Moldova | 4394 |
-| 3 | [ivanm696](https://github.com/ivanm696) | ivanm696  |  |  | Moldova | 3289 |
-| 4 | [deoleg](https://github.com/deoleg) | deoleg | CRU Moldova |  | Moldova | 3184 |
-| 5 | [sighook](https://github.com/sighook) | Alex Savca |  |  | Moldova | 3076 |
+| 2 | [texpert](https://github.com/texpert) | Aurel Branzeanu | PC-Link | tvorogoff | Chisinau, Moldova | 4372 |
+| 3 | [sighook](https://github.com/sighook) | Alex Savca |  |  | Moldova | 3911 |
+| 4 | [ivanm696](https://github.com/ivanm696) | ivanm696  |  |  | Moldova | 3289 |
+| 5 | [deoleg](https://github.com/deoleg) | deoleg | CRU Moldova |  | Moldova | 3184 |
 | 6 | [stephen-golban](https://github.com/stephen-golban) | Stephen G | Syncra Studio |  | Moldova | 2946 |
 | 7 | [nikpopesku](https://github.com/nikpopesku) | Nikolai Popesku |  |  | Chisinau, Moldova | 2534 |
 | 8 | [Aragas](https://github.com/Aragas) | Vitalii Mikhailov | @Nexus-Mods |  | Chisinau, Moldova | 2337 |

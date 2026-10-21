@@ -1,6 +1,6 @@
 # Followers - Moldova
 
-Generated: 2026-10-21T01:06:04.551Z
+Generated: 2026-10-21T05:23:24.991Z
 
 Users: 1747
 
@@ -21,8 +21,8 @@ Users: 1747
 | 13 | [vova07](https://github.com/vova07) | Vasile C. |  |  | Chișinău, Moldova | 172 |
 | 14 | [bearanatolie](https://github.com/bearanatolie) | Anatolie Ursu | zugzwang lab |  | ulmu, laloveni, Moldova | 155 |
 | 15 | [AddictedCS](https://github.com/AddictedCS) | Sergiu Ciumac | emysound.com | addictedcs | Chisinau, Moldova | 141 |
-| 16 | [ygorigor](https://github.com/ygorigor) | Igor |  |  | Chisinau, Moldova | 129 |
+| 16 | [ygorigor](https://github.com/ygorigor) | Igor |  |  | Chisinau, Moldova | 130 |
 | 17 | [andrei-zgirvaci](https://github.com/andrei-zgirvaci) | Andrei Zgîrvaci | @callstack | andrei_zgirvaci | Chișinău, Moldova | 123 |
 | 18 | [keriat](https://github.com/keriat) | Sergey Beresnev | @superform-xyz | keriat | Moldova, Chisinau | 121 |
-| 19 | [vgaidarji](https://github.com/vgaidarji) | Veaceslav Gaidarji |  | v_gaidarji | Moldova | 115 |
+| 19 | [vgaidarji](https://github.com/vgaidarji) | Veaceslav Gaidarji |  | v_gaidarji | Moldova | 114 |
 | 20 | [Ernest96](https://github.com/Ernest96) | Ernest |  |  | Chisinau Moldova | 107 |

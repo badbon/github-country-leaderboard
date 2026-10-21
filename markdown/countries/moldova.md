@@ -38,10 +38,10 @@ Indexed users: 1,747
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [amberpixels](https://github.com/amberpixels) | Eugene | Moldova, Chișinău | 28,606 |
-| 2 | [texpert](https://github.com/texpert) | Aurel Branzeanu | Chisinau, Moldova | 4,394 |
-| 3 | [ivanm696](https://github.com/ivanm696) | ivanm696  | Moldova | 3,289 |
-| 4 | [deoleg](https://github.com/deoleg) | deoleg | Moldova | 3,184 |
-| 5 | [sighook](https://github.com/sighook) | Alex Savca | Moldova | 3,076 |
+| 2 | [texpert](https://github.com/texpert) | Aurel Branzeanu | Chisinau, Moldova | 4,372 |
+| 3 | [sighook](https://github.com/sighook) | Alex Savca | Moldova | 3,911 |
+| 4 | [ivanm696](https://github.com/ivanm696) | ivanm696  | Moldova | 3,289 |
+| 5 | [deoleg](https://github.com/deoleg) | deoleg | Moldova | 3,184 |
 | 6 | [stephen-golban](https://github.com/stephen-golban) | Stephen G | Moldova | 2,946 |
 | 7 | [nikpopesku](https://github.com/nikpopesku) | Nikolai Popesku | Chisinau, Moldova | 2,534 |
 | 8 | [Aragas](https://github.com/Aragas) | Vitalii Mikhailov | Chisinau, Moldova | 2,337 |
@@ -77,10 +77,10 @@ Indexed users: 1,747
 | 13 | [vova07](https://github.com/vova07) | Vasile C. | Chișinău, Moldova | 172 |
 | 14 | [bearanatolie](https://github.com/bearanatolie) | Anatolie Ursu | ulmu, laloveni, Moldova | 155 |
 | 15 | [AddictedCS](https://github.com/AddictedCS) | Sergiu Ciumac | Chisinau, Moldova | 141 |
-| 16 | [ygorigor](https://github.com/ygorigor) | Igor | Chisinau, Moldova | 129 |
+| 16 | [ygorigor](https://github.com/ygorigor) | Igor | Chisinau, Moldova | 130 |
 | 17 | [andrei-zgirvaci](https://github.com/andrei-zgirvaci) | Andrei Zgîrvaci | Chișinău, Moldova | 123 |
 | 18 | [keriat](https://github.com/keriat) | Sergey Beresnev | Moldova, Chisinau | 121 |
-| 19 | [vgaidarji](https://github.com/vgaidarji) | Veaceslav Gaidarji | Moldova | 115 |
+| 19 | [vgaidarji](https://github.com/vgaidarji) | Veaceslav Gaidarji | Moldova | 114 |
 | 20 | [Ernest96](https://github.com/Ernest96) | Ernest | Chisinau Moldova | 107 |
 
-Generated: 2026-10-21T01:06:04.551Z
+Generated: 2026-10-21T05:23:24.991Z

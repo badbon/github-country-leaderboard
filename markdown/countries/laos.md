@@ -28,7 +28,7 @@ Indexed users: 360
 | 14 | [BounkhongDev](https://github.com/BounkhongDev) | BounkhongDev | Vientiane, laos | 1,731 |
 | 15 | [Phounn](https://github.com/Phounn) |  | Laos | 1,539 |
 | 16 | [iamlex01](https://github.com/iamlex01) | Alex Saelao | Vientiane, Laos | 1,466 |
-| 17 | [TotoPhandolack](https://github.com/TotoPhandolack) | Toto Phandolack | Luangprabang, Laos | 1,163 |
+| 17 | [TotoPhandolack](https://github.com/TotoPhandolack) | Toto Phandolack | Luangprabang, Laos | 1,157 |
 | 18 | [bobby-sills](https://github.com/bobby-sills) | Bobby Sills | Vientiane, Laos | 1,117 |
 | 19 | [philaphonh](https://github.com/philaphonh) | Philaphonh Inthavongsa | Laos | 1,096 |
 | 20 | [tinbotu](https://github.com/tinbotu) | Akira KUMAGAI | ວຽງຈັນ, Laos | 797 |
@@ -51,7 +51,7 @@ Indexed users: 360
 | 12 | [hiramoto](https://github.com/hiramoto) | 永田彰 (Akira NAGATA) | Vientiane, Lao P.D.R. | 157 |
 | 13 | [Dan16ssd](https://github.com/Dan16ssd) | Sinthanavanh Sinsamphanh | Vientiane, Laos | 136 |
 | 14 | [med1213](https://github.com/med1213) | Med | Laos, Vientaince | 132 |
-| 15 | [aoypsk8](https://github.com/aoypsk8) | AOY PHONGSAKOUN MR | Vientiane, Laos | 128 |
+| 15 | [aoypsk8](https://github.com/aoypsk8) | AOY PHONGSAKOUN MR | Vientiane, Laos | 126 |
 | 16 | [bytoum](https://github.com/bytoum) | Toum Nanthavath | Laos | 121 |
 | 17 | [Tedev555](https://github.com/Tedev555) | Thanongsine Chanthakham | Vientiane, Laos | 120 |
 | 18 | [Bird9249](https://github.com/Bird9249) | BirdKeonavong | Laos, Vientiane | 116 |
@@ -83,4 +83,4 @@ Indexed users: 360
 | 19 | [Sengkue](https://github.com/Sengkue) | SengKueVang | Laos, Vientiane capital | 16 |
 | 20 | [JarnKet](https://github.com/JarnKet) | Ketsadaphone BOUTPANYDA | Savannakhet, Laos | 14 |
 
-Generated: 2026-10-21T02:33:50.744Z
+Generated: 2026-10-21T05:14:25.922Z

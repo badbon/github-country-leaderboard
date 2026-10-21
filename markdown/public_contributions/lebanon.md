@@ -1,6 +1,6 @@
 # Public Contributions - Lebanon
 
-Generated: 2026-10-21T02:34:31.883Z
+Generated: 2026-10-21T05:15:07.320Z
 
 Users: 2559
 
@@ -19,9 +19,9 @@ Users: 2559
 | 11 | [JanoTheDev](https://github.com/JanoTheDev) | Jean Haddad |  |  | Lebanon | 1701 |
 | 12 | [AbedAmouneh](https://github.com/AbedAmouneh) | Abed El-Fattah Amouneh | @voxire |  | Lebanon | 1671 |
 | 13 | [Ali-Al-Ahmad](https://github.com/Ali-Al-Ahmad) | Ali Al Ahmad |  |  | Beirut, Lebanon | 1545 |
-| 14 | [imtithalhalalo](https://github.com/imtithalhalalo) | Imtithal Halalo |  |  | Beirut, Lebanon | 1233 |
-| 15 | [jat10](https://github.com/jat10) | Jad Tarabay | ZAQ |  | Lebanon | 1222 |
-| 16 | [ahomsi0](https://github.com/ahomsi0) | Ahmad Homsi |  |  | Lebanon | 1211 |
+| 14 | [jat10](https://github.com/jat10) | Jad Tarabay | ZAQ |  | Lebanon | 1222 |
+| 15 | [ahomsi0](https://github.com/ahomsi0) | Ahmad Homsi |  |  | Lebanon | 1211 |
+| 16 | [imtithalhalalo](https://github.com/imtithalhalalo) | Imtithal Halalo |  |  | Beirut, Lebanon | 1170 |
 | 17 | [wwilson1017](https://github.com/wwilson1017) | Will Wilson | TN Cheesecake |  | Lebanon, TN | 1158 |
 | 18 | [mahdi-alkak-1](https://github.com/mahdi-alkak-1) | Mahdi Kak |  |  | Lebanon,Beirut | 1135 |
 | 19 | [Kronbii](https://github.com/Kronbii) | Rami Kronbi | @Oreyeon |  | Beirut, LB | 1102 |

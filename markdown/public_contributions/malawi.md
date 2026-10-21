@@ -1,6 +1,6 @@
 # Public Contributions - Malawi
 
-Generated: 2026-10-21T02:36:52.957Z
+Generated: 2026-10-21T05:18:09.131Z
 
 Users: 900
 
@@ -12,7 +12,7 @@ Users: 900
 | 4 | [edisontaimu9-ui](https://github.com/edisontaimu9-ui) | Edison Taimu  | Bata All Nutrition  |  | Malawi  | 1386 |
 | 5 | [jelome265](https://github.com/jelome265) | Jelome Ngamuti |  |  | malawi | 1286 |
 | 6 | [finalSay9](https://github.com/finalSay9) | Evan Chimwaza | techvac |  | Lilongwe, Malawi | 981 |
-| 7 | [petroskayange](https://github.com/petroskayange) | Petros Kayange | @Kuunika @LUKEINTERNATIONAL @EGPAFMalawiHIS @HISMalawi @DoxDevOps  |  | Malawi | 932 |
+| 7 | [petroskayange](https://github.com/petroskayange) | Petros Kayange | @Kuunika @LUKEINTERNATIONAL @EGPAFMalawiHIS @HISMalawi @DoxDevOps  |  | Malawi | 875 |
 | 8 | [BenjaminMwambakulu](https://github.com/BenjaminMwambakulu) | BenjaminVamp2o5 |  |  | Malawi | 766 |
 | 9 | [lcfranklin](https://github.com/lcfranklin) | Franklin | f-algoverse |  | Rumphi, Malawi | 738 |
 | 10 | [Forgata](https://github.com/Forgata) | Forgata |  |  | Malawi | 686 |
@@ -25,4 +25,4 @@ Users: 900
 | 17 | [codaMW](https://github.com/codaMW) | codaMW | BitDevs Malawi | codaMW | Lilongwe, Malawi | 476 |
 | 18 | [wotcheni21](https://github.com/wotcheni21) | Joseph Witman Wotcheni |  |  | Malawi | 476 |
 | 19 | [Tmkandawire](https://github.com/Tmkandawire) | Tawanda Mkandawire |  |  | Malawi | 445 |
-| 20 | [ipi19](https://github.com/ipi19) | Ipyana Mwakikunga | Ipi |  | Malawi  | 399 |
+| 20 | [mcleanka](https://github.com/mcleanka) | Mclean Kasambala | Zonse247 |  | Malawi, Lilongwe | 401 |

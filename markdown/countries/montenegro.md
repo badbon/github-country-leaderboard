@@ -48,7 +48,7 @@ Indexed users: 888
 | 9 | [AndreyTalanin0x00](https://github.com/AndreyTalanin0x00) | Andrey Talanin | Podgorica, Montenegro | 2,992 |
 | 10 | [lacodda](https://github.com/lacodda) | Kirill Lakhtachev | Montenegro | 2,678 |
 | 11 | [histrio](https://github.com/histrio) | Rinat Sabitov | Montenegro | 2,217 |
-| 12 | [Xaaalera](https://github.com/Xaaalera) | Roman Maslennikov | Montenegro | 1,970 |
+| 12 | [Xaaalera](https://github.com/Xaaalera) | Roman Maslennikov | Montenegro | 2,057 |
 | 13 | [stefashkaa](https://github.com/stefashkaa) | Stefan Popov | Montenegro, Budva | 1,838 |
 | 14 | [atimofeev](https://github.com/atimofeev) | Artem Timofeev | Budva, Montenegro | 1,653 |
 | 15 | [stevyhacker](https://github.com/stevyhacker) | Stevan Bogosavljević | Montenegro | 1,522 |
@@ -83,4 +83,4 @@ Indexed users: 888
 | 19 | [vovkasm](https://github.com/vovkasm) | Vladimir Timofeev | Budva, Montenegro | 99 |
 | 20 | [marcoroganovic](https://github.com/marcoroganovic) | Marko Roganovic | Montenegro | 90 |
 
-Generated: 2026-10-21T02:46:53.639Z
+Generated: 2026-10-21T05:25:29.198Z
