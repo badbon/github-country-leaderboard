@@ -14,7 +14,7 @@ Indexed users: 1,747
 |---:|---|---|---|---:|
 | 1 | [amberpixels](https://github.com/amberpixels) | Eugene | Moldova, Chișinău | 28,606 |
 | 2 | [evisoft](https://github.com/evisoft) | Vitalie Esanu | Moldova | 18,010 |
-| 3 | [ion-bostanica](https://github.com/ion-bostanica) | Bostanica Ion | Moldova, Chisinau | 11,674 |
+| 3 | [ion-bostanica](https://github.com/ion-bostanica) | Bostanica Ion | Moldova, Chisinau | 12,938 |
 | 4 | [icaliman](https://github.com/icaliman) | Ion Căliman | Moldova | 11,462 |
 | 5 | [danlapteacru](https://github.com/danlapteacru) | Dan Lapteacru | Ungheni, Moldova / Iasi, Romania | 8,485 |
 | 6 | [Nemo-Illusionist](https://github.com/Nemo-Illusionist) | Peter Radilov | Moldova | 7,910 |
@@ -83,4 +83,4 @@ Indexed users: 1,747
 | 19 | [vgaidarji](https://github.com/vgaidarji) | Veaceslav Gaidarji | Moldova | 114 |
 | 20 | [Ernest96](https://github.com/Ernest96) | Ernest | Chisinau Moldova | 107 |
 
-Generated: 2026-10-21T05:23:24.991Z
+Generated: 2026-10-21T06:59:04.754Z

@@ -13,7 +13,7 @@ Indexed users: 1,223
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [SijanC147](https://github.com/SijanC147) | Sean | Malta | 32,591 |
-| 2 | [davidbalzan](https://github.com/davidbalzan) | David Balzan | Malta | 26,792 |
+| 2 | [davidbalzan](https://github.com/davidbalzan) | David Balzan | Malta | 27,386 |
 | 3 | [zcourts](https://github.com/zcourts) | Courtney Robinson | London (UK), Łodz (Poland), Valletta (Malta) | 14,775 |
 | 4 | [tssge](https://github.com/tssge) | Teemu Grönqvist | Msida, Malta | 13,396 |
 | 5 | [kjlibsol](https://github.com/kjlibsol) | Klaus Jensen | Malta | 12,520 |
@@ -22,8 +22,8 @@ Indexed users: 1,223
 | 8 | [GabrielGil](https://github.com/GabrielGil) | Gabriel | Malta | 10,681 |
 | 9 | [Sml995](https://github.com/Sml995) | Samuel HASSID | Sliema, Malta | 9,541 |
 | 10 | [silvandiepen](https://github.com/silvandiepen) | Sil van Diepen | Malta | 9,398 |
-| 11 | [polp6880](https://github.com/polp6880) | Paul Portelli | Malta | 9,022 |
-| 12 | [mauroziux](https://github.com/mauroziux) | Mauricio Suárez vega | malta | 8,669 |
+| 11 | [mauroziux](https://github.com/mauroziux) | Mauricio Suárez vega | malta | 9,119 |
+| 12 | [polp6880](https://github.com/polp6880) | Paul Portelli | Malta | 9,022 |
 | 13 | [angusgee](https://github.com/angusgee) | Angus Girvan | Malta | 8,517 |
 | 14 | [m2ximus](https://github.com/m2ximus) | max—os | Malta | 7,643 |
 | 15 | [KimSpecht](https://github.com/KimSpecht) | Kim Pedersen | Malta | 7,618 |
@@ -83,4 +83,4 @@ Indexed users: 1,223
 | 19 | [mattcg](https://github.com/mattcg) | Matthew Caruana Galizia | Malta | 126 |
 | 20 | [CM2Walki](https://github.com/CM2Walki) | Walki | Malta | 118 |
 
-Generated: 2026-10-21T05:19:13.508Z
+Generated: 2026-10-21T06:55:21.176Z

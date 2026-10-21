@@ -1,6 +1,6 @@
 # Public Contributions - Montenegro
 
-Generated: 2026-10-21T05:25:29.198Z
+Generated: 2026-10-21T07:00:59.544Z
 
 Users: 888
 
@@ -18,11 +18,11 @@ Users: 888
 | 10 | [lacodda](https://github.com/lacodda) | Kirill Lakhtachev | lacodda |  | Montenegro | 2678 |
 | 11 | [histrio](https://github.com/histrio) | Rinat Sabitov | CloudLinux |  | Montenegro | 2217 |
 | 12 | [Xaaalera](https://github.com/Xaaalera) | Roman Maslennikov | Nord Beaver |  | Montenegro | 2057 |
-| 13 | [stefashkaa](https://github.com/stefashkaa) | Stefan Popov | @DeSource-Labs |  | Montenegro, Budva | 1838 |
-| 14 | [atimofeev](https://github.com/atimofeev) | Artem Timofeev |  |  | Budva, Montenegro | 1653 |
-| 15 | [stevyhacker](https://github.com/stevyhacker) | Stevan Bogosavljević |  | stevyhacker | Montenegro | 1522 |
+| 13 | [stevyhacker](https://github.com/stevyhacker) | Stevan Bogosavljević |  | stevyhacker | Montenegro | 1981 |
+| 14 | [stefashkaa](https://github.com/stefashkaa) | Stefan Popov | @DeSource-Labs |  | Montenegro, Budva | 1838 |
+| 15 | [atimofeev](https://github.com/atimofeev) | Artem Timofeev |  |  | Budva, Montenegro | 1653 |
 | 16 | [YuriiMotov](https://github.com/YuriiMotov) | Yurii Motov |  |  | Bar, Montenegro | 1470 |
-| 17 | [yurabakhtin](https://github.com/yurabakhtin) | Yuriy Bakhtin |  |  | Montenegro | 1389 |
+| 17 | [yurabakhtin](https://github.com/yurabakhtin) | Yuriy Bakhtin |  |  | Montenegro | 1409 |
 | 18 | [artempartos](https://github.com/artempartos) | Artem Petrov | Dualbootpartners |  | Montenegro | 1281 |
 | 19 | [itrcz](https://github.com/itrcz) | Ilya Trikoz | Script Heads |  | Montenegro | 1190 |
 | 20 | [lunochkin](https://github.com/lunochkin) | Maksim Lunochkin | @Tech-Fabric  |  | Montenegro | 960 |

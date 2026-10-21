@@ -1,6 +1,6 @@
 # Total Contributions - Rwanda
 
-Generated: 2026-10-21T05:39:25.781Z
+Generated: 2026-10-21T07:13:05.917Z
 
 Users: 3499
 
@@ -9,9 +9,9 @@ Users: 3499
 | 1 | [iamyoramu](https://github.com/iamyoramu) | IRUTABYOSE Yoramu | @yoratune | iamyoramu | Kigali, Rwanda | 3312996 |
 | 2 | [kajugadaniels](https://github.com/kajugadaniels) | KAJUGA Daniels | NEXCODE Africa |  | Kigali Rwanda | 64318 |
 | 3 | [AlineHub-tech](https://github.com/AlineHub-tech) | Umugwaneza Aline | ByteFlow Ltd |  | Kigali, Rwanda | 29162 |
-| 4 | [jazzybruno](https://github.com/jazzybruno) | Jazzy Bruno | @Rwanda_Coding_Academy |  | Kigali , Rwanda | 21268 |
-| 5 | [Chaste-Djaziri](https://github.com/Chaste-Djaziri) | Chaste Djaziri | Micorp |  | Rwanda | 18364 |
-| 6 | [Timtech4u](https://github.com/Timtech4u) | Timothy Olaleke |  |  | Kigali, Rwanda | 17863 |
+| 4 | [Timtech4u](https://github.com/Timtech4u) | Timothy Olaleke |  |  | Kigali, Rwanda | 28183 |
+| 5 | [jazzybruno](https://github.com/jazzybruno) | Jazzy Bruno | @Rwanda_Coding_Academy |  | Kigali , Rwanda | 21268 |
+| 6 | [Chaste-Djaziri](https://github.com/Chaste-Djaziri) | Chaste Djaziri | Micorp |  | Rwanda | 18364 |
 | 7 | [Alain-NIYONEMA](https://github.com/Alain-NIYONEMA) | Alain NIYONEMA | AIONEM.ɴᴇᴛ | AlainNiyonema | Kigali, Rwanda | 9631 |
 | 8 | [iAmNsengi](https://github.com/iAmNsengi) | Eliezer Nsengi | KB21 |  | Kigali, Rwanda | 9545 |
 | 9 | [MugemaneBertin2001](https://github.com/MugemaneBertin2001) | Mugemane Bertin | GeminTech | MugemaneB | Kigali/Rwanda | 9373 |

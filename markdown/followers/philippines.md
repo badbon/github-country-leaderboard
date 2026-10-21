@@ -1,8 +1,8 @@
 # Followers - Philippines
 
-Generated: 2026-10-21T05:35:32.290Z
+Generated: 2026-10-21T07:09:59.838Z
 
-Users: 19745
+Users: 19744
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -12,7 +12,7 @@ Users: 19745
 | 4 | [JaKooLit](https://github.com/JaKooLit) | Ja.KooLit |  |  | Philippines / South Korea - Worldwide | 2215 |
 | 5 | [audreyfeldroy](https://github.com/audreyfeldroy) | Audrey M. Roy Greenfeld | @feldroy | audreyfeldroy | Manila | 2172 |
 | 6 | [xchanmolx](https://github.com/xchanmolx) | Chiantine P. Manigos | Manigos Information Technology Solutions | xchanmolx | Philippines | 1995 |
-| 7 | [ianpurif](https://github.com/ianpurif) | IAN PURIFICACION |  | ianpurif | Sariaya, Quezon, Philippines | 1681 |
+| 7 | [ianpurif](https://github.com/ianpurif) | IAN PURIFICACION |  | ianpurif | Sariaya, Quezon, Philippines | 1674 |
 | 8 | [warengonzaga](https://github.com/warengonzaga) | Waren Gonzaga | @wgtechlabs @amihantech @relayprotocol | warengonzaga | Philippines | 1329 |
 | 9 | [yajra](https://github.com/yajra) | Arjay Angeles | ObjectBright, Inc. | aqangeles | Philippines | 1255 |
 | 10 | [bryllim](https://github.com/bryllim) | Bryl Lim |  |  | Manila, Philippines | 1240 |
@@ -22,7 +22,7 @@ Users: 19745
 | 14 | [macalinao](https://github.com/macalinao) | Ian Macalinao | solana open source | simplyianm | Metro Manila, Philippines | 791 |
 | 15 | [codedrian](https://github.com/codedrian) | Adrian Gaile Singh | CGI |  | Philippines | 787 |
 | 16 | [six519](https://github.com/six519) | Ferdinand E. Silva |  |  | Lipa City, Batangas, Philippines | 772 |
-| 17 | [marksantiago290](https://github.com/marksantiago290) | MARK |  | marksantiago290 | Angeles, Philippines | 682 |
+| 17 | [marksantiago290](https://github.com/marksantiago290) | MARK |  | marksantiago290 | Angeles, Philippines | 681 |
 | 18 | [JophilGulane](https://github.com/JophilGulane) | DevJophil | Freelancer | JophilGulane | Philippines | 664 |
 | 19 | [Gerald200422](https://github.com/Gerald200422) | Gerald P. Balete |  |  | Metro Manila Philippines  | 613 |
 | 20 | [exezick](https://github.com/exezick) | Exequiel Vibar |  |  | Philippines | 604 |

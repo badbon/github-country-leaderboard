@@ -1,6 +1,6 @@
 # Followers - Montenegro
 
-Generated: 2026-10-21T05:25:29.198Z
+Generated: 2026-10-21T07:00:59.544Z
 
 Users: 888
 
@@ -21,7 +21,7 @@ Users: 888
 | 13 | [mifth](https://github.com/mifth) | mifth |  |  | Montenegro | 129 |
 | 14 | [gh110919](https://github.com/gh110919) | ilia sergeev | Webonizer |  | Podgorica | 127 |
 | 15 | [ESA1979](https://github.com/ESA1979) | Emrah Süleyman Atalay |  | emrahatalay79 | Montenegro | 126 |
-| 16 | [hedza06](https://github.com/hedza06) | Heril Muratovic |  | herilmuratovic | Montenegro, Podgorica | 107 |
+| 16 | [hedza06](https://github.com/hedza06) | Heril Muratovic |  | herilmuratovic | Montenegro, Podgorica | 106 |
 | 17 | [perisicnikola37](https://github.com/perisicnikola37) | Nikola Perisic | Software Engineer |  | Podgorica, Montenegro | 101 |
 | 18 | [StevanCakic](https://github.com/StevanCakic) | Stevan Čakić |  |  | Montenegro | 101 |
 | 19 | [vovkasm](https://github.com/vovkasm) | Vladimir Timofeev | Employed |  | Budva, Montenegro | 99 |

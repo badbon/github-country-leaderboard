@@ -15,7 +15,7 @@ Indexed users: 714
 | 1 | [EdgarEldy](https://github.com/EdgarEldy) | EDGAR MUHAMYANGABO | Mauritius | 14,169 |
 | 2 | [512banque](https://github.com/512banque) | Kevin Richard | Mauritius | 7,845 |
 | 3 | [borissedov](https://github.com/borissedov) | Boris Sedov | Tamarin, Mauritius | 7,470 |
-| 4 | [andrashejj](https://github.com/andrashejj) | Andras Hejj | Mauritius | 6,860 |
+| 4 | [andrashejj](https://github.com/andrashejj) | Andras Hejj | Mauritius | 6,886 |
 | 5 | [wyxos](https://github.com/wyxos) | Wyxos | Mauritius | 6,725 |
 | 6 | [cedpoilly](https://github.com/cedpoilly) | Cedric | Mauritius | 6,582 |
 | 7 | [w1am](https://github.com/w1am) | William Chong | Mauritius | 6,568 |
@@ -26,7 +26,7 @@ Indexed users: 714
 | 12 | [nyashaChiza](https://github.com/nyashaChiza) | Nyasha Chizampeni | Port Louis, Mauritius | 4,817 |
 | 13 | [MGabala](https://github.com/MGabala) | Mateusz | Mauritius | 4,192 |
 | 14 | [yayann](https://github.com/yayann) | Yann Labour | Mauritius | 4,038 |
-| 15 | [zfir](https://github.com/zfir) | Zafir Sk Heerah | Mauritius | 3,989 |
+| 15 | [zfir](https://github.com/zfir) | Zafir Sk Heerah | Mauritius | 3,972 |
 | 16 | [thhsie](https://github.com/thhsie) | hitesh | Mauritius | 3,890 |
 | 17 | [k3ii](https://github.com/k3ii) | Jain Ramchurn | Mauritius | 3,826 |
 | 18 | [cbillowes](https://github.com/cbillowes) | Clarice Bouwer | Mauritius | 3,481 |
@@ -50,13 +50,13 @@ Indexed users: 714
 | 11 | [Andriamahay11master](https://github.com/Andriamahay11master) | Andriamahay Henikaja IRIMANANA | Trianon, Mauritius | 1,019 |
 | 12 | [jochenkirstaetter](https://github.com/jochenkirstaetter) | Jochen Kirstätter | Mauritius | 982 |
 | 13 | [BarbUk](https://github.com/BarbUk) | Julien Virey | Mauritius | 871 |
-| 14 | [rragoomundun](https://github.com/rragoomundun) | Raphael Ragoomundun | Mauritius | 687 |
-| 15 | [cbillowes](https://github.com/cbillowes) | Clarice Bouwer | Mauritius | 632 |
-| 16 | [w1am](https://github.com/w1am) | William Chong | Mauritius | 626 |
-| 17 | [lakubuDavid](https://github.com/lakubuDavid) | Lakubu Mayanda David | Mauritius | 614 |
-| 18 | [MaskyS](https://github.com/MaskyS) | Kifah M | Mauritius | 594 |
-| 19 | [ZiadJ](https://github.com/ZiadJ) | Ziad Jeeroburkhan | Mauritius | 573 |
-| 20 | [VishSeen](https://github.com/VishSeen) | Vishroy Seenarain | Port Louis, Mauritius | 537 |
+| 14 | [RishiRajGujadhur](https://github.com/RishiRajGujadhur) | Rishi Raj Gujadhur | Mauritius | 797 |
+| 15 | [rragoomundun](https://github.com/rragoomundun) | Raphael Ragoomundun | Mauritius | 687 |
+| 16 | [cbillowes](https://github.com/cbillowes) | Clarice Bouwer | Mauritius | 632 |
+| 17 | [w1am](https://github.com/w1am) | William Chong | Mauritius | 626 |
+| 18 | [lakubuDavid](https://github.com/lakubuDavid) | Lakubu Mayanda David | Mauritius | 614 |
+| 19 | [MaskyS](https://github.com/MaskyS) | Kifah M | Mauritius | 594 |
+| 20 | [ZiadJ](https://github.com/ZiadJ) | Ziad Jeeroburkhan | Mauritius | 573 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 714
 | 19 | [MaskyS](https://github.com/MaskyS) | Kifah M | Mauritius | 76 |
 | 20 | [cbillowes](https://github.com/cbillowes) | Clarice Bouwer | Mauritius | 65 |
 
-Generated: 2026-10-21T05:20:59.166Z
+Generated: 2026-10-21T06:57:15.672Z
