@@ -14,7 +14,7 @@ Indexed users: 155
 |---:|---|---|---|---:|
 | 1 | [Not-Chur-Architect](https://github.com/Not-Chur-Architect) | Nicholas Campisano | Isle of Man | 11,555 |
 | 2 | [auberryberry](https://github.com/auberryberry) | Aubrey Stearn | Isle of Man | 10,394 |
-| 3 | [bengris32](https://github.com/bengris32) | Ben | Isle of Man | 8,466 |
+| 3 | [bengris32](https://github.com/bengris32) | Ben | Isle of Man | 8,459 |
 | 4 | [darrenbarklie](https://github.com/darrenbarklie) | Darren Barklie | Isle of Man | 4,499 |
 | 5 | [tekminewe](https://github.com/tekminewe) | Ewe Tek Min | Isle of Man | 3,647 |
 | 6 | [oliciv](https://github.com/oliciv) | Oli Allen | Isle of Man | 2,198 |
@@ -37,7 +37,7 @@ Indexed users: 155
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [bengris32](https://github.com/bengris32) | Ben | Isle of Man | 5,698 |
+| 1 | [bengris32](https://github.com/bengris32) | Ben | Isle of Man | 5,693 |
 | 2 | [bllbtnd](https://github.com/bllbtnd) | Balla Botond | Isle of Man | 821 |
 | 3 | [PerpetualBeta](https://github.com/PerpetualBeta) | Jonathan M. Hollin | Douglas, Isle of Man | 777 |
 | 4 | [craigiswayne](https://github.com/craigiswayne) | Craig Wayne | Isle of Man | 706 |
@@ -63,7 +63,7 @@ Indexed users: 155
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [braydie](https://github.com/braydie) | Braydie Grove | Isle of Man | 368 |
-| 2 | [bengris32](https://github.com/bengris32) | Ben | Isle of Man | 232 |
+| 2 | [bengris32](https://github.com/bengris32) | Ben | Isle of Man | 233 |
 | 3 | [thomas-coldwell](https://github.com/thomas-coldwell) | Thomas Coldwell | Isle of Man | 148 |
 | 4 | [cydolo](https://github.com/cydolo) | Dolo | Isle of Man | 147 |
 | 5 | [CubLinux](https://github.com/CubLinux) | Cub Linux | Isle of Man | 86 |
@@ -83,4 +83,4 @@ Indexed users: 155
 | 19 | [lwangenheim](https://github.com/lwangenheim) | Lee Wangenheim | Isle of Man | 19 |
 | 20 | [DanAnkers](https://github.com/DanAnkers) | Daniel Ankers | Isle of Man | 18 |
 
-Generated: 2026-10-21T04:05:30.420Z
+Generated: 2026-10-21T06:43:35.424Z

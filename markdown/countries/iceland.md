@@ -67,7 +67,7 @@ Indexed users: 1,579
 | 3 | [SuprDewd](https://github.com/SuprDewd) | Bjarki Ágúst Guðmundsson | Iceland | 739 |
 | 4 | [sveinbjornt](https://github.com/sveinbjornt) | Sveinbjorn Thordarson | Reykjavík, Iceland | 605 |
 | 5 | [phunterlau](https://github.com/phunterlau) | Hongliang Liu | Iceland | 591 |
-| 6 | [starrylumi](https://github.com/starrylumi) | ࿔𝜗𝜚‧₊`Lumi‹𝟹༉‧₊˚. | mostly at gi area, sometimes at docks/island, usually FTS or a spec in fsr... \ sign strawpage & atabook pretty plz / whisp if u want to add me on any platforms<3 | 530 |
+| 6 | [starrylumi](https://github.com/starrylumi) | ࿔𝜗𝜚‧₊`Lumi‹𝟹༉‧₊˚. | mostly at gi area, sometimes at docks/island, usually FTS or a spec in fsr... \ sign strawpage & atabook pretty plz / whisp if u want to add me on any platforms<3 . . . i plan to make a rentry/sp/carrd for more info abt me </3 | 529 |
 | 7 | [koddsson](https://github.com/koddsson) | Kristján Oddsson | Iceland | 488 |
 | 8 | [birkir](https://github.com/birkir) | Birkir Gudjonsson | Reykjavík, Iceland | 453 |
 | 9 | [jeremybarbet](https://github.com/jeremybarbet) | Jérémy Barbet | Reykjavík, Iceland | 366 |
@@ -83,4 +83,4 @@ Indexed users: 1,579
 | 19 | [jokull](https://github.com/jokull) | Jökull Sólberg Auðunsson | Reykjavík, Iceland | 209 |
 | 20 | [kevien](https://github.com/kevien) | K3vin | iceland | 204 |
 
-Generated: 2026-10-21T04:03:42.864Z
+Generated: 2026-10-21T06:41:57.976Z

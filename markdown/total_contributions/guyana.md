@@ -1,6 +1,6 @@
 # Total Contributions - Guyana
 
-Generated: 2026-10-21T04:02:41.221Z
+Generated: 2026-10-21T06:40:02.212Z
 
 Users: 186
 
@@ -22,7 +22,7 @@ Users: 186
 | 14 | [codedbychavez](https://github.com/codedbychavez) | Chavez Harris | @configcat |  | Guyana | 1591 |
 | 15 | [schrum2](https://github.com/schrum2) | Jacob Schrum | Southwestern University |  | Georgetown, TX | 1507 |
 | 16 | [kev-mb](https://github.com/kev-mb) | Kevin Martinez Bautista | SenSimTek |  | Georgetown, Texas | 1476 |
-| 17 | [owengrant](https://github.com/owengrant) | Owen Grant | Arawak Software Consultancy |  | Guyana | 1452 |
-| 18 | [rjvaleo](https://github.com/rjvaleo) | transelectronic |  |  | Georgetown, Colorado | 1451 |
+| 17 | [rjvaleo](https://github.com/rjvaleo) | transelectronic |  |  | Georgetown, Colorado | 1453 |
+| 18 | [owengrant](https://github.com/owengrant) | Owen Grant | Arawak Software Consultancy |  | Guyana | 1452 |
 | 19 | [xbze3](https://github.com/xbze3) | Ezra Minty | @MintLeaf-Tech  |  | Guyana | 1394 |
 | 20 | [kathigg](https://github.com/kathigg) | Kathleen Higgins | Johns Hopkins Applied Physics Lab |  | Georgetown University | 1283 |

@@ -1,6 +1,6 @@
 # Total Contributions - Isle of Man
 
-Generated: 2026-10-21T04:05:30.420Z
+Generated: 2026-10-21T06:43:35.424Z
 
 Users: 155
 
@@ -8,7 +8,7 @@ Users: 155
 |---:|---|---|---|---|---|---:|
 | 1 | [Not-Chur-Architect](https://github.com/Not-Chur-Architect) | Nicholas Campisano | Vannin Studio |  | Isle of Man | 11555 |
 | 2 | [auberryberry](https://github.com/auberryberry) | Aubrey Stearn | @AuBerryBerry | auberryberry | Isle of Man | 10394 |
-| 3 | [bengris32](https://github.com/bengris32) | Ben |  |  | Isle of Man | 8466 |
+| 3 | [bengris32](https://github.com/bengris32) | Ben |  |  | Isle of Man | 8459 |
 | 4 | [darrenbarklie](https://github.com/darrenbarklie) | Darren Barklie | @craftapplied | dazdotdev | Isle of Man | 4499 |
 | 5 | [tekminewe](https://github.com/tekminewe) | Ewe Tek Min |  |  | Isle of Man | 3647 |
 | 6 | [oliciv](https://github.com/oliciv) | Oli Allen |  |  | Isle of Man | 2198 |
