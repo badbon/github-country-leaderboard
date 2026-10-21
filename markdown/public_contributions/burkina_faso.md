@@ -1,6 +1,6 @@
 # Public Contributions - Burkina Faso
 
-Generated: 2026-10-21T16:48:49.963Z
+Generated: 2026-10-21T18:48:42.983Z
 
 Users: 486
 
@@ -11,8 +11,8 @@ Users: 486
 | 3 | [Y4NN777](https://github.com/Y4NN777) | Ragnang-Newende Yanis Axel DABO | @Y7-Labs  |  | Burkina Faso | 2213 |
 | 4 | [sokevinjonas](https://github.com/sokevinjonas) | SO Kevin Jonas Gningnabe | KGSLAB |  | BURKINA FASO | 1424 |
 | 5 | [ArielShadrac](https://github.com/ArielShadrac) | Ouedraogo Fildouindé Ariel Shadrac | Xcept-Health |  | Burkina Faso | 1361 |
-| 6 | [Zap-ai-make](https://github.com/Zap-ai-make) | Swabo Hamadou |  |  | Burkina-Faso | 1147 |
-| 7 | [mibienpanjoe](https://github.com/mibienpanjoe) | PARE Mibienpan Joseph |  |  | Burkina Faso | 1006 |
+| 6 | [mibienpanjoe](https://github.com/mibienpanjoe) | PARE Mibienpan Joseph |  |  | Burkina Faso | 1170 |
+| 7 | [Zap-ai-make](https://github.com/Zap-ai-make) | Swabo Hamadou |  |  | Burkina-Faso | 1147 |
 | 8 | [PANK4SS](https://github.com/PANK4SS) | Pankassi Jean-Louis Rayane BICABA | Independent Software Engineer |  | Burkina Faso | 773 |
 | 9 | [Gbangou](https://github.com/Gbangou) | Pascal GBANGOU |  |  | Ouagadougou, Burkina Faso | 754 |
 | 10 | [Solangeilinga](https://github.com/Solangeilinga) | ILINGA Solange | Ecole Centrale Casablanca - Institut Internationale de l'Eau et de l'Environnement |  | Casablanca - Ouagadougou | 634 |

@@ -1,6 +1,6 @@
 # Total Contributions - El Salvador
 
-Generated: 2026-10-21T16:59:44.385Z
+Generated: 2026-10-21T18:59:47.854Z
 
 Users: 2378
 
@@ -20,9 +20,9 @@ Users: 2378
 | 12 | [DesKevinMendez](https://github.com/DesKevinMendez) | Kevin Mendez | teip | deskmendez | El Salvador | 6290 |
 | 13 | [josealvarado3a](https://github.com/josealvarado3a) | José Alvarado |  |  | El Salvador | 6032 |
 | 14 | [cativo23](https://github.com/cativo23) | Carlos Cativo |  |  | San Salvador, El Salvador | 5913 |
-| 15 | [loviver](https://github.com/loviver) | Oliver Calderón |  |  | El Salvador, San Salvador | 5044 |
-| 16 | [aedneth](https://github.com/aedneth) | Eduardo A. Borjas | Korvex | aedneth | San Salvador, El Salvador | 4934 |
-| 17 | [eduard-gonzalez](https://github.com/eduard-gonzalez) | Efrain Gonzalez | Savvy Post Marketing |  | El Salvador | 4888 |
+| 15 | [eduard-gonzalez](https://github.com/eduard-gonzalez) | Efrain Gonzalez | Savvy Post Marketing |  | El Salvador | 5193 |
+| 16 | [loviver](https://github.com/loviver) | Oliver Calderón |  |  | El Salvador, San Salvador | 5044 |
+| 17 | [aedneth](https://github.com/aedneth) | Eduardo A. Borjas | Korvex | aedneth | San Salvador, El Salvador | 4934 |
 | 18 | [wmacall](https://github.com/wmacall) | Macall |  |  | El Salvador | 4863 |
 | 19 | [lucario028](https://github.com/lucario028) | Lucaritas | @BluefoxSV |  | El Salvador | 4824 |
 | 20 | [LemonMantis5571](https://github.com/LemonMantis5571) | Leonel Guerrero | Pokémon Company |  | El Salvador | 4603 |

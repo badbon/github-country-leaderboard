@@ -1,6 +1,6 @@
 # Public Contributions - Uruguay
 
-Generated: 2026-10-21T16:32:57.675Z
+Generated: 2026-10-21T18:33:33.236Z
 
 Users: 5603
 
@@ -17,8 +17,8 @@ Users: 5603
 | 9 | [eduair94](https://github.com/eduair94) | EduAir | Shellix / CheckLeaked.cc |  | Uruguay | 3797 |
 | 10 | [matiasportugau-ui](https://github.com/matiasportugau-ui) | MatPrompt | @BMCdecode  |  | Uruguay  | 3036 |
 | 11 | [ferfalcon](https://github.com/ferfalcon) | Fernando Falcon |  |  | Montevideo | 2943 |
-| 12 | [EmoPorEmilio](https://github.com/EmoPorEmilio) | Emilio "Emo" Franceschini |  |  | Montevideo, Uruguay | 2843 |
-| 13 | [damiansire](https://github.com/damiansire) | Damian Sire |  |  | Uruguay | 2721 |
+| 12 | [damiansire](https://github.com/damiansire) | Damian Sire |  |  | Uruguay | 2896 |
+| 13 | [EmoPorEmilio](https://github.com/EmoPorEmilio) | Emilio "Emo" Franceschini |  |  | Montevideo, Uruguay | 2843 |
 | 14 | [jm181987](https://github.com/jm181987) | Jorge Marquez |  |  | Uruguay | 2672 |
 | 15 | [ilandaniele](https://github.com/ilandaniele) | Ilan Daniele | Blueboot Business Software |  | Montevideo, Uruguay | 2622 |
 | 16 | [fzipi](https://github.com/fzipi) | Felipe Zipitría | Facultad de Ingeniería, Universidad de la República |  | Montevideo, Uruguay | 2539 |

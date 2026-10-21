@@ -54,9 +54,9 @@ Indexed users: 4,028
 | 15 | [norayr](https://github.com/norayr) | Norayr Chilingarian | Yerevan, Armenia | 2,015 |
 | 16 | [gagik894](https://github.com/gagik894) | Gagik Sargsyan | Armenia | 1,982 |
 | 17 | [barivanlab](https://github.com/barivanlab) | BarivanLab | Armenia | 1,740 |
-| 18 | [HenrikGharagyozyan](https://github.com/HenrikGharagyozyan) | Henrik Gharagyozyan | Yerevan, Armenia | 1,715 |
-| 19 | [nazelizurna](https://github.com/nazelizurna) |  | Yerevan, Armenia | 1,605 |
-| 20 | [svyatov](https://github.com/svyatov) | Leonid Svyatov | Yerevan, Armenia | 1,545 |
+| 18 | [andrewgark](https://github.com/andrewgark) | Andrei Garkavyi | Yerevan | 1,737 |
+| 19 | [HenrikGharagyozyan](https://github.com/HenrikGharagyozyan) | Henrik Gharagyozyan | Yerevan, Armenia | 1,715 |
+| 20 | [nazelizurna](https://github.com/nazelizurna) |  | Yerevan, Armenia | 1,605 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 4,028
 | 19 | [nightwing](https://github.com/nightwing) | Harutyun Amirjanyan | Yerevan, Armenia | 236 |
 | 20 | [norayr](https://github.com/norayr) | Norayr Chilingarian | Yerevan, Armenia | 233 |
 
-Generated: 2026-10-21T16:39:45.978Z
+Generated: 2026-10-21T18:40:14.599Z

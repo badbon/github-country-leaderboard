@@ -1,6 +1,6 @@
 # Saudi Arabia
 
-Indexed users: 7,731
+Indexed users: 7,734
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 7,731
 | 19 | [davidrpugh](https://github.com/davidrpugh) | David R. Pugh | Thuwal, Saudi Arabia | 458 |
 | 20 | [madahetooo](https://github.com/madahetooo) | Eslam Medhat | Riyadh, Saudi Arabia | 458 |
 
-Generated: 2026-10-21T18:14:11.099Z
+Generated: 2026-10-21T18:57:11.057Z

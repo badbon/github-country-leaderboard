@@ -26,7 +26,7 @@ Indexed users: 235
 | 12 | [allyelvis](https://github.com/allyelvis) | Ally Elvis Nzeyimana | Burundi | 1,215 |
 | 13 | [XPTOOLS](https://github.com/XPTOOLS) | XP TOOLS | Burundi | 1,112 |
 | 14 | [b3rking](https://github.com/b3rking) | ISHIMWE Eschyle Bersy | Burundi | 1,043 |
-| 15 | [Janeirohurley](https://github.com/Janeirohurley) | Janeiro hurley | Burundi | 1,007 |
+| 15 | [Janeirohurley](https://github.com/Janeirohurley) | Janeiro hurley | Burundi | 1,028 |
 | 16 | [arsou2015](https://github.com/arsou2015) | Arsene Nduwayo | Burundi | 978 |
 | 17 | [kidasijunior10](https://github.com/kidasijunior10) | Joachim KIDASI | Bujumbura, Burundi | 923 |
 | 18 | [VanGoethe](https://github.com/VanGoethe) | 7r322 | Burundi, Bujumbura | 917 |
@@ -75,12 +75,12 @@ Indexed users: 235
 | 11 | [ArtcalO](https://github.com/ArtcalO) | The Lone Wolf | Bujumbura, BURUNDI | 64 |
 | 12 | [WCanirinka](https://github.com/WCanirinka) | Wilfried Canirinka | Bujumbura, Burundi | 61 |
 | 13 | [hakichris](https://github.com/hakichris) | Christian Hakizimana | Burundi  | 45 |
-| 14 | [klauskira07](https://github.com/klauskira07) | Klaus KIRA | Burundi | 44 |
-| 15 | [ntzwilly](https://github.com/ntzwilly) | Willy NTAZAMA | Burundi | 44 |
+| 14 | [ntzwilly](https://github.com/ntzwilly) | Willy NTAZAMA | Burundi | 44 |
+| 15 | [klauskira07](https://github.com/klauskira07) | Klaus KIRA | Burundi | 43 |
 | 16 | [ahishakiyeyv](https://github.com/ahishakiyeyv) | Yvan Igor AHISHAKIYE | Bujumbura, Burundi | 41 |
 | 17 | [kalculata](https://github.com/kalculata) | Huzaifa Nimushimirimana | Bujumbura, Burundi | 41 |
 | 18 | [mudjaycker](https://github.com/mudjaycker) | MARYIMANA BUTOYI | Bujumbura/BURUNDI | 36 |
 | 19 | [tertcoder](https://github.com/tertcoder) | Bon Tertius Tuyishimire  | Bujumbura, Burundi | 35 |
 | 20 | [arsou2015](https://github.com/arsou2015) | Arsene Nduwayo | Burundi | 34 |
 
-Generated: 2026-10-21T16:49:14.505Z
+Generated: 2026-10-21T18:49:12.779Z

@@ -1,6 +1,6 @@
 # Total Contributions - Dominica
 
-Generated: 2026-10-21T16:58:15.990Z
+Generated: 2026-10-21T18:58:00.792Z
 
 Users: 18
 
@@ -15,7 +15,7 @@ Users: 18
 | 7 | [lazarusvc](https://github.com/lazarusvc) | Austin Lazarus | Lazarus Ventures Co. | _ra_lazarus | Dominica | 26 |
 | 8 | [Nexxus-LMT](https://github.com/Nexxus-LMT) | WaitukuNexx | Waituku Technology Solutions |  | Dominica | 20 |
 | 9 | [robinsonassc](https://github.com/robinsonassc) | Edmund Robinson | Robinson & Associates |  | Dominica | 11 |
-| 10 | [bowetech](https://github.com/bowetech) | Clive Stewart | BoweTech |  |  Dominica | 7 |
+| 10 | [bowetech](https://github.com/bowetech) | Clive Stewart | BoweTech |  |  Dominica | 8 |
 | 11 | [EsaiasBurnette](https://github.com/EsaiasBurnette) | Esaias_B | Burnette Tech Solutions |  | Dominica | 4 |
 | 12 | [pembertonc](https://github.com/pembertonc) | Cedric Pemberton |  |  | Commonwealth of Dominica Roseau Comm. of Dominica West Indies | 1 |
 | 13 | [daedwards767](https://github.com/daedwards767) | Davidson Edwards | Tropicode Software Solutions |  | Commonwealth of Dominica | 0 |

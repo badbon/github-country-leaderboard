@@ -1,6 +1,6 @@
 # Followers - Uruguay
 
-Generated: 2026-10-21T16:32:57.675Z
+Generated: 2026-10-21T18:33:33.236Z
 
 Users: 5603
 
@@ -9,7 +9,7 @@ Users: 5603
 | 1 | [diegomura](https://github.com/diegomura) | Diego Muracciole |  | diegomura | Montevideo, Uruguay | 1772 |
 | 2 | [spastorino](https://github.com/spastorino) | Santiago Pastorino | @wyeworks | spastorino | Montevideo, Uruguay | 1142 |
 | 3 | [fedegonc](https://github.com/fedegonc) | federico goncalvez |  |  | Rivera / Uruguay | 507 |
-| 4 | [damiansire](https://github.com/damiansire) | Damian Sire |  |  | Uruguay | 469 |
+| 4 | [damiansire](https://github.com/damiansire) | Damian Sire |  |  | Uruguay | 471 |
 | 5 | [Maypoo](https://github.com/Maypoo) | Mauro |  |  | Uruguay | 449 |
 | 6 | [omab](https://github.com/omab) | Matías Aguirre |  | linuxaddict | Montevideo, Uruguay | 420 |
 | 7 | [daedalus](https://github.com/daedalus) | Darío Clavijo |  | 0x446172696f0a | Montevideo, Uruguay | 387 |
@@ -22,7 +22,7 @@ Users: 5603
 | 14 | [francocorreasosa](https://github.com/francocorreasosa) | Franco Correa | @RevenueCat | francorreasosa | Punta del Este, Uruguay | 214 |
 | 15 | [filipealva](https://github.com/filipealva) | Filipe Alvarenga | Pinned.Social | filipealva | Montevideo | 207 |
 | 16 | [mtnbarreto](https://github.com/mtnbarreto) | Martin Barreto |  | mtnBarreto | Uruguay | 205 |
-| 17 | [yoandypv](https://github.com/yoandypv) | Yoandy Pérez Villazón | DLocal Payments 360 |  | Uruguay | 204 |
+| 17 | [yoandypv](https://github.com/yoandypv) | Yoandy Pérez Villazón | DLocal Payments 360 |  | Uruguay | 205 |
 | 18 | [luciofm](https://github.com/luciofm) | Lucio Maciel | SiriusXM |  | Colonia del Sacramento, Colonia, Uruguay | 198 |
 | 19 | [mauricioszabo](https://github.com/mauricioszabo) | Maurício Szabo |  |  | Montevideo, Uruguay | 196 |
 | 20 | [ppazos](https://github.com/ppazos) | Pablo Pazos Gutiérrez | CaboLabs | ppazos | Montevideo, Uruguay | 196 |

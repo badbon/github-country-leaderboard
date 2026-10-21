@@ -20,12 +20,12 @@ Indexed users: 5,603
 | 6 | [fausanchez](https://github.com/fausanchez) | Fausto Sanchez | Uruguay | 14,173 |
 | 7 | [dcadenas](https://github.com/dcadenas) | Daniel Cadenas | Montevideo, Uruguay | 13,568 |
 | 8 | [hernandezsanti](https://github.com/hernandezsanti) | Santiago Hernández | Montevideo, Uruguay | 13,352 |
-| 9 | [turnyi](https://github.com/turnyi) | Martin Radovitzky | Montevideo, Uruguay | 12,732 |
-| 10 | [ignaciogarcia-dev](https://github.com/ignaciogarcia-dev) | Ignacio García | Uruguay | 11,961 |
-| 11 | [MateoVidalS](https://github.com/MateoVidalS) | Mateo Vidal | Uruguay | 11,113 |
-| 12 | [agurod42](https://github.com/agurod42) | Agu Rodríguez | Montevideo, Uruguay, Earth | 10,131 |
-| 13 | [frankdavidcorona](https://github.com/frankdavidcorona) | Frank Corona Prendes | Montevideo, Uruguay | 10,097 |
-| 14 | [JuanFKurucz](https://github.com/JuanFKurucz) | Francisco Kurucz | Uruguay | 9,097 |
+| 9 | [JuanFKurucz](https://github.com/JuanFKurucz) | Francisco Kurucz | Uruguay | 12,866 |
+| 10 | [turnyi](https://github.com/turnyi) | Martin Radovitzky | Montevideo, Uruguay | 12,732 |
+| 11 | [ignaciogarcia-dev](https://github.com/ignaciogarcia-dev) | Ignacio García | Uruguay | 11,961 |
+| 12 | [MateoVidalS](https://github.com/MateoVidalS) | Mateo Vidal | Uruguay | 11,113 |
+| 13 | [agurod42](https://github.com/agurod42) | Agu Rodríguez | Montevideo, Uruguay, Earth | 10,131 |
+| 14 | [frankdavidcorona](https://github.com/frankdavidcorona) | Frank Corona Prendes | Montevideo, Uruguay | 10,097 |
 | 15 | [cl8dep](https://github.com/cl8dep) | Arael Espinosa | Montevideo, Uruguay | 8,801 |
 | 16 | [EugeniaGramajo](https://github.com/EugeniaGramajo) | Eugenia Gramajo | Uruguay | 8,420 |
 | 17 | [federicoimparatta](https://github.com/federicoimparatta) | Federico Imparatta | Montevideo, Uruguay | 8,317 |
@@ -48,8 +48,8 @@ Indexed users: 5,603
 | 9 | [eduair94](https://github.com/eduair94) | EduAir | Uruguay | 3,797 |
 | 10 | [matiasportugau-ui](https://github.com/matiasportugau-ui) | MatPrompt | Uruguay  | 3,036 |
 | 11 | [ferfalcon](https://github.com/ferfalcon) | Fernando Falcon | Montevideo | 2,943 |
-| 12 | [EmoPorEmilio](https://github.com/EmoPorEmilio) | Emilio "Emo" Franceschini | Montevideo, Uruguay | 2,843 |
-| 13 | [damiansire](https://github.com/damiansire) | Damian Sire | Uruguay | 2,721 |
+| 12 | [damiansire](https://github.com/damiansire) | Damian Sire | Uruguay | 2,896 |
+| 13 | [EmoPorEmilio](https://github.com/EmoPorEmilio) | Emilio "Emo" Franceschini | Montevideo, Uruguay | 2,843 |
 | 14 | [jm181987](https://github.com/jm181987) | Jorge Marquez | Uruguay | 2,672 |
 | 15 | [ilandaniele](https://github.com/ilandaniele) | Ilan Daniele | Montevideo, Uruguay | 2,622 |
 | 16 | [fzipi](https://github.com/fzipi) | Felipe Zipitría | Montevideo, Uruguay | 2,539 |
@@ -65,7 +65,7 @@ Indexed users: 5,603
 | 1 | [diegomura](https://github.com/diegomura) | Diego Muracciole | Montevideo, Uruguay | 1,772 |
 | 2 | [spastorino](https://github.com/spastorino) | Santiago Pastorino | Montevideo, Uruguay | 1,142 |
 | 3 | [fedegonc](https://github.com/fedegonc) | federico goncalvez | Rivera / Uruguay | 507 |
-| 4 | [damiansire](https://github.com/damiansire) | Damian Sire | Uruguay | 469 |
+| 4 | [damiansire](https://github.com/damiansire) | Damian Sire | Uruguay | 471 |
 | 5 | [Maypoo](https://github.com/Maypoo) | Mauro | Uruguay | 449 |
 | 6 | [omab](https://github.com/omab) | Matías Aguirre | Montevideo, Uruguay | 420 |
 | 7 | [daedalus](https://github.com/daedalus) | Darío Clavijo | Montevideo, Uruguay | 387 |
@@ -78,9 +78,9 @@ Indexed users: 5,603
 | 14 | [francocorreasosa](https://github.com/francocorreasosa) | Franco Correa | Punta del Este, Uruguay | 214 |
 | 15 | [filipealva](https://github.com/filipealva) | Filipe Alvarenga | Montevideo | 207 |
 | 16 | [mtnbarreto](https://github.com/mtnbarreto) | Martin Barreto | Uruguay | 205 |
-| 17 | [yoandypv](https://github.com/yoandypv) | Yoandy Pérez Villazón | Uruguay | 204 |
+| 17 | [yoandypv](https://github.com/yoandypv) | Yoandy Pérez Villazón | Uruguay | 205 |
 | 18 | [luciofm](https://github.com/luciofm) | Lucio Maciel | Colonia del Sacramento, Colonia, Uruguay | 198 |
 | 19 | [mauricioszabo](https://github.com/mauricioszabo) | Maurício Szabo | Montevideo, Uruguay | 196 |
 | 20 | [ppazos](https://github.com/ppazos) | Pablo Pazos Gutiérrez | Montevideo, Uruguay | 196 |
 
-Generated: 2026-10-21T16:32:57.675Z
+Generated: 2026-10-21T18:33:33.236Z

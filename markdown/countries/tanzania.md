@@ -19,8 +19,8 @@ Indexed users: 2,038
 | 5 | [raydanielg](https://github.com/raydanielg) | Ezra Daniel Gyunda | Tanzania | 18,171 |
 | 6 | [cleven12](https://github.com/cleven12) | cleven | Tanzania | 18,101 |
 | 7 | [zuck30](https://github.com/zuck30) | Shadrackovsky | Tanzania | 17,873 |
-| 8 | [fredy-me](https://github.com/fredy-me) | Melkizedek Fredy | Dar Es Salaam, Tanzania | 14,251 |
-| 9 | [Lurgic-error](https://github.com/Lurgic-error) | Lurge | Tanzania, Dar es salaam | 13,070 |
+| 8 | [Lurgic-error](https://github.com/Lurgic-error) | Lurge | Tanzania, Dar es salaam | 14,510 |
+| 9 | [fredy-me](https://github.com/fredy-me) | Melkizedek Fredy | Dar Es Salaam, Tanzania | 14,251 |
 | 10 | [pro-cms](https://github.com/pro-cms) | Novath Thomas | TANZANIA | 11,577 |
 | 11 | [tarxemo](https://github.com/tarxemo) | TarXemo | Dodoma-Tanzania | 11,527 |
 | 12 | [TheCollinsByte](https://github.com/TheCollinsByte) | Collins | Arusha, Tanzania | 11,380 |
@@ -83,4 +83,4 @@ Indexed users: 2,038
 | 19 | [3nock](https://github.com/3nock) | Enock | Dar es Salaam, Tanzania | 187 |
 | 20 | [Mrhanstz](https://github.com/Mrhanstz) | HANSTZ | Africa Dodoma | 179 |
 
-Generated: 2026-10-21T16:26:28.205Z
+Generated: 2026-10-21T18:27:52.814Z

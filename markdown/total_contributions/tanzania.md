@@ -1,6 +1,6 @@
 # Total Contributions - Tanzania
 
-Generated: 2026-10-21T16:26:28.205Z
+Generated: 2026-10-21T18:27:52.814Z
 
 Users: 2038
 
@@ -13,8 +13,8 @@ Users: 2038
 | 5 | [raydanielg](https://github.com/raydanielg) | Ezra Daniel Gyunda |  |  | Tanzania | 18171 |
 | 6 | [cleven12](https://github.com/cleven12) | cleven |  | cleven02 | Tanzania | 18101 |
 | 7 | [zuck30](https://github.com/zuck30) | Shadrackovsky | AGS |  | Tanzania | 17873 |
-| 8 | [fredy-me](https://github.com/fredy-me) | Melkizedek Fredy | Busara Digital  |  | Dar Es Salaam, Tanzania | 14251 |
-| 9 | [Lurgic-error](https://github.com/Lurgic-error) | Lurge | Fair Competition Commission | lurgic_me | Tanzania, Dar es salaam | 13070 |
+| 8 | [Lurgic-error](https://github.com/Lurgic-error) | Lurge | Fair Competition Commission | lurgic_me | Tanzania, Dar es salaam | 14510 |
+| 9 | [fredy-me](https://github.com/fredy-me) | Melkizedek Fredy | Busara Digital  |  | Dar Es Salaam, Tanzania | 14251 |
 | 10 | [pro-cms](https://github.com/pro-cms) | Novath Thomas | Zepson Technologies |  | TANZANIA | 11577 |
 | 11 | [tarxemo](https://github.com/tarxemo) | TarXemo | TarXemo |  | Dodoma-Tanzania | 11527 |
 | 12 | [TheCollinsByte](https://github.com/TheCollinsByte) | Collins | @KwaWingu | TheCollinsByte | Arusha, Tanzania | 11380 |

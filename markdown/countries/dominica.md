@@ -21,7 +21,7 @@ Indexed users: 18
 | 7 | [lazarusvc](https://github.com/lazarusvc) | Austin Lazarus | Dominica | 26 |
 | 8 | [Nexxus-LMT](https://github.com/Nexxus-LMT) | WaitukuNexx | Dominica | 20 |
 | 9 | [robinsonassc](https://github.com/robinsonassc) | Edmund Robinson | Dominica | 11 |
-| 10 | [bowetech](https://github.com/bowetech) | Clive Stewart |  Dominica | 7 |
+| 10 | [bowetech](https://github.com/bowetech) | Clive Stewart |  Dominica | 8 |
 | 11 | [EsaiasBurnette](https://github.com/EsaiasBurnette) | Esaias_B | Dominica | 4 |
 | 12 | [pembertonc](https://github.com/pembertonc) | Cedric Pemberton | Commonwealth of Dominica Roseau Comm. of Dominica West Indies | 1 |
 | 13 | [daedwards767](https://github.com/daedwards767) | Davidson Edwards | Commonwealth of Dominica | 0 |
@@ -42,7 +42,7 @@ Indexed users: 18
 | 5 | [Nexxus-LMT](https://github.com/Nexxus-LMT) | WaitukuNexx | Dominica | 20 |
 | 6 | [lazarusvc](https://github.com/lazarusvc) | Austin Lazarus | Dominica | 14 |
 | 7 | [robinsonassc](https://github.com/robinsonassc) | Edmund Robinson | Dominica | 11 |
-| 8 | [bowetech](https://github.com/bowetech) | Clive Stewart |  Dominica | 7 |
+| 8 | [bowetech](https://github.com/bowetech) | Clive Stewart |  Dominica | 8 |
 | 9 | [EsaiasBurnette](https://github.com/EsaiasBurnette) | Esaias_B | Dominica | 4 |
 | 10 | [jaheemprevost](https://github.com/jaheemprevost) | Jaheem Prevost | Dominica | 2 |
 | 11 | [pembertonc](https://github.com/pembertonc) | Cedric Pemberton | Commonwealth of Dominica Roseau Comm. of Dominica West Indies | 1 |
@@ -77,4 +77,4 @@ Indexed users: 18
 | 17 | [robinsonassc](https://github.com/robinsonassc) | Edmund Robinson | Dominica | 1 |
 | 18 | [theode](https://github.com/theode) | Derrick Theophille | Dominica | 1 |
 
-Generated: 2026-10-21T16:58:15.990Z
+Generated: 2026-10-21T18:58:00.792Z
