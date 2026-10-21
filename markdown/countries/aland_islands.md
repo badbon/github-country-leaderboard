@@ -67,7 +67,7 @@ Indexed users: 61
 | 3 | [Ramona-Ekanayake](https://github.com/Ramona-Ekanayake) | Ramona Ekanayake | Åland Islands | 55 |
 | 4 | [jesjos](https://github.com/jesjos) | Jesper Josefsson | Mariehamn, Åland | 30 |
 | 5 | [MarkusYPA](https://github.com/MarkusYPA) | Markus Amberla | Mariehamn and Helsinki | 25 |
-| 6 | [johanwestling](https://github.com/johanwestling) | Johan Westling | Åland, Finland | 23 |
+| 6 | [johanwestling](https://github.com/johanwestling) | Johan Westling | Åland, Finland | 24 |
 | 7 | [tvntvn13](https://github.com/tvntvn13) | Taneli Mäkihannu | Mariehamn, Åland Islands | 21 |
 | 8 | [joakim-ha](https://github.com/joakim-ha) | Joakim Isaksson | Åland Islands | 18 |
 | 9 | [mareerray](https://github.com/mareerray) | Mayuree Reunsati | Mariehamn, Åland | 18 |
@@ -83,4 +83,4 @@ Indexed users: 61
 | 19 | [GitHug](https://github.com/GitHug) | Fredrik Mäkilä | London / Mariehamn | 10 |
 | 20 | [fannielf](https://github.com/fannielf) | Fanni Vesanen | Mariehamn | 9 |
 
-Generated: 2026-10-21T00:06:14.048Z
+Generated: 2026-10-21T01:49:08.233Z

@@ -1,6 +1,6 @@
 # Public Contributions - Bolivia
 
-Generated: 2026-10-21T00:14:53.295Z
+Generated: 2026-10-21T01:59:40.592Z
 
 Users: 1783
 
@@ -13,16 +13,16 @@ Users: 1783
 | 5 | [LudCano](https://github.com/LudCano) | Ludving Cano Fernandez |  |  | La Paz, Bolivia | 2572 |
 | 6 | [ldgd2](https://github.com/ldgd2) | Lider |  |  | Bolivia | 2274 |
 | 7 | [SergioRibera](https://github.com/SergioRibera) | Sergio Alejandro Ribera Costa | @RustLangES | sergioribera_rs | Santa Cruz de la Sierra, Bolivia | 2252 |
-| 8 | [arkgast](https://github.com/arkgast) | Arnold Gandarillas Castillo |  |  | Bolivia | 1859 |
+| 8 | [arkgast](https://github.com/arkgast) | Arnold Gandarillas Castillo |  |  | Bolivia | 1861 |
 | 9 | [rafael1199v](https://github.com/rafael1199v) | Rafael Vargas |  |  | Bolivia | 1577 |
 | 10 | [ovidiocbba](https://github.com/ovidiocbba) | Simon Ovidio Miranda Chiri |  |  | Bolivia | 1504 |
 | 11 | [olivio-git](https://github.com/olivio-git) | olivio-git |  |  | Tarija/Bolivia | 1415 |
 | 12 | [ggonzalez94](https://github.com/ggonzalez94) | Gustavo Gonzalez | @Taikoxyz | gusgonzalezs | Santa Cruz de la SIerra, Bolivia | 1387 |
-| 13 | [pachonjcl](https://github.com/pachonjcl) | Jose Carlos Laura Ramirez |  |  | La Paz, Bolivia | 1242 |
-| 14 | [asosab](https://github.com/asosab) | Alejandro Sosa Briceño |  | asosab | Bolivia | 1225 |
-| 15 | [jhersON1](https://github.com/jhersON1) | Jherson Rodriguez |  |  | Bolivia | 1212 |
-| 16 | [alphaonex86](https://github.com/alphaonex86) | BRULE Herman Jacques Roger | Confiared S.R.L. |  | Santa cruz de la sierra, Bolivia | 1199 |
-| 17 | [Lotiel-Dev](https://github.com/Lotiel-Dev) | Carlos Antonio Gutierrez Copara | Higher University of San Simón | Gerceis81 | Bolivia | 1193 |
-| 18 | [igidio](https://github.com/igidio) | Salvador Cáceres C. |  |  | Bolivia | 1147 |
-| 19 | [samuelloza](https://github.com/samuelloza) | Samuel Loza Ramirez |  |  | Bolivia | 1097 |
+| 13 | [samuelloza](https://github.com/samuelloza) | Samuel Loza Ramirez |  |  | Bolivia | 1245 |
+| 14 | [pachonjcl](https://github.com/pachonjcl) | Jose Carlos Laura Ramirez |  |  | La Paz, Bolivia | 1242 |
+| 15 | [asosab](https://github.com/asosab) | Alejandro Sosa Briceño |  | asosab | Bolivia | 1225 |
+| 16 | [jhersON1](https://github.com/jhersON1) | Jherson Rodriguez |  |  | Bolivia | 1212 |
+| 17 | [alphaonex86](https://github.com/alphaonex86) | BRULE Herman Jacques Roger | Confiared S.R.L. |  | Santa cruz de la sierra, Bolivia | 1199 |
+| 18 | [Lotiel-Dev](https://github.com/Lotiel-Dev) | Carlos Antonio Gutierrez Copara | Higher University of San Simón | Gerceis81 | Bolivia | 1193 |
+| 19 | [igidio](https://github.com/igidio) | Salvador Cáceres C. |  |  | Bolivia | 1147 |
 | 20 | [nicobytes](https://github.com/nicobytes) | Nicolas Molina Monroy |  | nicobytes | Cochabamba, Bolivia | 1096 |

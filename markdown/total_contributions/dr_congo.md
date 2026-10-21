@@ -1,6 +1,6 @@
 # Total Contributions - DR Congo
 
-Generated: 2026-10-21T00:27:15.654Z
+Generated: 2026-10-21T02:10:56.688Z
 
 Users: 701
 
@@ -17,8 +17,8 @@ Users: 701
 | 9 | [Theodorebinda](https://github.com/Theodorebinda) | Theodore SAMBA |  |  | kinshasa | 6945 |
 | 10 | [andydefer](https://github.com/andydefer) | Andy Kani | AndyKani DevServices |  | Democratic Republic of Congo | 6391 |
 | 11 | [bindukabusara](https://github.com/bindukabusara) | Bindu Kabusara Josué | Uganda Christian Unversity |  | Kampala, Kinshasa | 6090 |
-| 12 | [stany-bns](https://github.com/stany-bns) | Stany Bibwangu | @altiustechnology |  | Kinshasa, DRC | 5756 |
-| 13 | [bilwifi](https://github.com/bilwifi) | Peniel DIALUNDAMA | @napp-inc  | peniel_dialu | Kinshasa, DRC | 5652 |
+| 12 | [bilwifi](https://github.com/bilwifi) | Peniel DIALUNDAMA | @napp-inc  | peniel_dialu | Kinshasa, DRC | 5867 |
+| 13 | [stany-bns](https://github.com/stany-bns) | Stany Bibwangu | @altiustechnology |  | Kinshasa, DRC | 5756 |
 | 14 | [kalemadaniel](https://github.com/kalemadaniel) | Kalema Daniel Jonathan | ULB COOPERATION | KalemaDaniel2 | Democratic Republic of the Congo, Goma | 5585 |
 | 15 | [danielrubango](https://github.com/danielrubango) | Daniel RUBANGO | Yetulab ltd |  | Kinshasa | 5264 |
 | 16 | [hktom](https://github.com/hktom) | Tom Hikari | Akieni |  | Congo Kinshasa | 5119 |

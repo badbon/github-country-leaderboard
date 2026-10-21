@@ -13,7 +13,7 @@ Indexed users: 201
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [adoumouangnamouemmanuel](https://github.com/adoumouangnamouemmanuel) | Emmanuel Adoum | Chad | 3,273 |
-| 2 | [Sanusihassan](https://github.com/Sanusihassan) | Sanusi Hassan | Chad | 2,402 |
+| 2 | [Sanusihassan](https://github.com/Sanusihassan) | Sanusi Hassan | Chad | 2,397 |
 | 3 | [Newton92](https://github.com/Newton92) | PELBA JEREMIE NGOURMISSALA | TCHAD | 680 |
 | 4 | [Helionux](https://github.com/Helionux) | Deoule-Allah Madjitoloum Heliodore | Tchad | 624 |
 | 5 | [cherifissa](https://github.com/cherifissa) | Mahamt cherif issa | TCHAD | 551 |
@@ -39,7 +39,7 @@ Indexed users: 201
 |---:|---|---|---|---:|
 | 1 | [adoumouangnamouemmanuel](https://github.com/adoumouangnamouemmanuel) | Emmanuel Adoum | Chad | 1,232 |
 | 2 | [Newton92](https://github.com/Newton92) | PELBA JEREMIE NGOURMISSALA | TCHAD | 680 |
-| 3 | [Sanusihassan](https://github.com/Sanusihassan) | Sanusi Hassan | Chad | 439 |
+| 3 | [Sanusihassan](https://github.com/Sanusihassan) | Sanusi Hassan | Chad | 438 |
 | 4 | [TomkerDev](https://github.com/TomkerDev) | TOMTE Hassane | Ndjamena, Tchad | 268 |
 | 5 | [Helionux](https://github.com/Helionux) | Deoule-Allah Madjitoloum Heliodore | Tchad | 243 |
 | 6 | [black-hatn](https://github.com/black-hatn) | Nourr | Tchad | 189 |
@@ -83,4 +83,4 @@ Indexed users: 201
 | 19 | [sulzokeboulin](https://github.com/sulzokeboulin) | Norma Brown | West Joshuaburgh, Chad | 8 |
 | 20 | [Floppinqq](https://github.com/Floppinqq) | Floppinqq | chad | 7 |
 
-Generated: 2026-10-21T00:19:22.632Z
+Generated: 2026-10-21T02:05:31.145Z

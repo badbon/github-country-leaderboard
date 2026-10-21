@@ -29,7 +29,7 @@ Indexed users: 563
 | 15 | [Deustavo](https://github.com/Deustavo) | Gustavo Andrade | Praia Grande - SP | 1,218 |
 | 16 | [Denio26](https://github.com/Denio26) | Dénio Melo | Cape Verde | 1,183 |
 | 17 | [machadoah](https://github.com/machadoah) | Antonio Henrique Machado | Praia Grande/SP | 1,150 |
-| 18 | [mrbonini](https://github.com/mrbonini) | Kaique Sousa Bonini | Praia Grande, SP - Brazil | 1,140 |
+| 18 | [mrbonini](https://github.com/mrbonini) | Kaique Sousa Bonini | Praia Grande, SP - Brazil | 1,144 |
 | 19 | [ewerton336](https://github.com/ewerton336) | Ewerton  Guimarães | Praia Grande - SP | 1,112 |
 | 20 | [klcombr](https://github.com/klcombr) | KL Com | Praia Grande, SP | 1,076 |
 
@@ -83,4 +83,4 @@ Indexed users: 563
 | 19 | [Murzchnvok](https://github.com/Murzchnvok) | Pedro Araujo | Praia de Jatobá, SE - Brasil | 58 |
 | 20 | [FredSoares](https://github.com/FredSoares) | Frederico Soares | Cape Verde | 54 |
 
-Generated: 2026-10-21T00:17:35.026Z
+Generated: 2026-10-21T02:03:32.074Z

@@ -1,15 +1,15 @@
 # Total Contributions - Comoros
 
-Generated: 2026-10-21T00:21:52.976Z
+Generated: 2026-10-21T02:08:17.505Z
 
 Users: 11
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [DiWess](https://github.com/DiWess) | Soilihi Mohamed Abdoulhalik | Issaabuu Management Inc. |  | Moroni | 22094 |
+| 1 | [DiWess](https://github.com/DiWess) | Soilihi Mohamed Abdoulhalik | Issaabuu Management Inc. |  | Moroni | 22095 |
 | 2 | [clarkdowding](https://github.com/clarkdowding) | Clark Dowding | Clark Dowding |  | Moroni, Utah | 1531 |
 | 3 | [linkhousni](https://github.com/linkhousni) | Housni Issouffa |  |  | Moroni - Comoros | 126 |
-| 4 | [faustfizz](https://github.com/faustfizz) | Youssouf Mbaé AS | Slashz | johnnyFaustfizz | Comoros  | 105 |
+| 4 | [faustfizz](https://github.com/faustfizz) | Youssouf Mbaé AS | Slashz | johnnyFaustfizz | Comoros  | 104 |
 | 5 | [yvssineyh269](https://github.com/yvssineyh269) | Yassine YH |  |  | Moroni, Comoros | 42 |
 | 6 | [slashedk](https://github.com/slashedk) | katchan |  |  | Comoros | 41 |
 | 7 | [abdi-momo](https://github.com/abdi-momo) | Abdillah Mohamed | Université des Comores |  | Moroni | 8 |

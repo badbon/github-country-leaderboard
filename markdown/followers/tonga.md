@@ -1,13 +1,13 @@
 # Followers - Tonga
 
-Generated: 2026-10-20T23:53:57.077Z
+Generated: 2026-10-21T01:40:22.286Z
 
 Users: 9
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [Cartus](https://github.com/Cartus) | Zhijiang | University of Cambridge | ZhijiangG | Tonga | 128 |
-| 2 | [JonLiki](https://github.com/JonLiki) | Sione Folaumoetu'i Likiliki |  |  | Tonga | 12 |
+| 2 | [JonLiki](https://github.com/JonLiki) | Sione Folaumoetu'i Likiliki |  |  | Tonga | 13 |
 | 3 | [staumoepeau](https://github.com/staumoepeau) | Sione Taumoepeau |  |  | Tonga | 7 |
 | 4 | [taufa](https://github.com/taufa) | Semisi |  |  | Tongatapu, Tonga | 6 |
 | 5 | [tadongyro](https://github.com/tadongyro) | Melissa Gordon |  |  | Rachelmouth, Tonga | 5 |

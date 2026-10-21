@@ -1,13 +1,13 @@
 # Public Contributions - British Virgin Islands
 
-Generated: 2026-10-21T00:16:32.195Z
+Generated: 2026-10-21T01:59:51.724Z
 
 Users: 38
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [AI-Isaiah](https://github.com/AI-Isaiah) |  | Metaworld Fund |  | British Virgin Islands | 3677 |
-| 2 | [justmoon](https://github.com/justmoon) | Stefan Thomas | @coilhq | justmoon | British Virgin Islands | 441 |
+| 2 | [justmoon](https://github.com/justmoon) | Stefan Thomas | @coilhq | justmoon | British Virgin Islands | 481 |
 | 3 | [BazaarsBZR](https://github.com/BazaarsBZR) | Bazaars | Bazaars Limited | BazaarsBzr | Bazaars Limited, Intershore Chambers, Road Town, Tortola, British Virgin Islands | 114 |
 | 4 | [dlichota](https://github.com/dlichota) | Dietmar Lichota |  |  | British Virgin Islands  | 57 |
 | 5 | [khaliidrahiim](https://github.com/khaliidrahiim) | N'Khoy K. R. Stoutt | Government of the Virgin Islands |  | British Virgin Islands | 50 |

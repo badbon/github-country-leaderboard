@@ -43,8 +43,8 @@ Indexed users: 2,378
 | 4 | [ThomasFarstrike](https://github.com/ThomasFarstrike) | Thomas Farstrike | El Zonte, El Salvador | 4,488 |
 | 5 | [martirale](https://github.com/martirale) | Alejandro Mártir | El Salvador | 2,052 |
 | 6 | [AugustoPedraza](https://github.com/AugustoPedraza) | Augusto | San Salvador de Jujuy | 1,768 |
-| 7 | [Forte11Cuba](https://github.com/Forte11Cuba) | Forte11 | El Salvador | 1,709 |
-| 8 | [Haruki1707](https://github.com/Haruki1707) | Diego Gómez | El Salvador | 1,701 |
+| 7 | [Haruki1707](https://github.com/Haruki1707) | Diego Gómez | El Salvador | 1,724 |
+| 8 | [Forte11Cuba](https://github.com/Forte11Cuba) | Forte11 | El Salvador | 1,709 |
 | 9 | [Thrumanshow](https://github.com/Thrumanshow) | Cristhiam Leonardo Hernández Quiñonez  | El Salvador  | 1,655 |
 | 10 | [jcanizalez](https://github.com/jcanizalez) | Javier Canizalez | El Salvador | 1,616 |
 | 11 | [LemonMantis5571](https://github.com/LemonMantis5571) | Leonel Guerrero | El Salvador | 1,262 |
@@ -83,4 +83,4 @@ Indexed users: 2,378
 | 19 | [MiPrimerBitcoin](https://github.com/MiPrimerBitcoin) | Mi Primer Bitcoin El Salvador | El Salvador | 97 |
 | 20 | [davequinta](https://github.com/davequinta) | David Quintanilla | El Salvador | 95 |
 
-Generated: 2026-10-21T00:29:13.543Z
+Generated: 2026-10-21T02:12:53.733Z

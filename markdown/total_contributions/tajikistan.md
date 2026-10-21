@@ -1,6 +1,6 @@
 # Total Contributions - Tajikistan
 
-Generated: 2026-10-20T23:52:07.272Z
+Generated: 2026-10-21T01:36:24.369Z
 
 Users: 708
 
@@ -23,6 +23,6 @@ Users: 708
 | 15 | [IllMind11](https://github.com/IllMind11) | Islom Khushnazarov | Ayan Capital |  | Dushanbe, Tajikistan | 3189 |
 | 16 | [Aiyom](https://github.com/Aiyom) |  |  |  | Tajikistan | 3012 |
 | 17 | [Amsurur](https://github.com/Amsurur) | Muhammadsurur Abdulloev | Softclub , RowTech |  | Dushanbe | 2971 |
-| 18 | [yusupkhemraev](https://github.com/yusupkhemraev) | Yusup Khemraev | @Paydo-Team |  | Tajikistan, Dushanbe | 2852 |
-| 19 | [Z4f4r](https://github.com/Z4f4r) | Zafarjon Makhsudov | @Silk-Road-Professionals |  | Tajikistan | 2830 |
-| 20 | [Jamoliddin2001](https://github.com/Jamoliddin2001) | Jamoliddin  | MTM, FARDO |  | Dushanbe | 2815 |
+| 18 | [Jamoliddin2001](https://github.com/Jamoliddin2001) | Jamoliddin  | MTM, FARDO |  | Dushanbe | 2907 |
+| 19 | [yusupkhemraev](https://github.com/yusupkhemraev) | Yusup Khemraev | @Paydo-Team |  | Tajikistan, Dushanbe | 2852 |
+| 20 | [Z4f4r](https://github.com/Z4f4r) | Zafarjon Makhsudov | @Silk-Road-Professionals |  | Tajikistan | 2830 |

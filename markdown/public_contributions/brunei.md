@@ -1,6 +1,6 @@
 # Public Contributions - Brunei
 
-Generated: 2026-10-21T00:16:36.066Z
+Generated: 2026-10-21T02:00:27.664Z
 
 Users: 254
 
@@ -14,9 +14,9 @@ Users: 254
 | 6 | [naqiuddinihsan](https://github.com/naqiuddinihsan) | Ihsan |  |  | Brunei | 148 |
 | 7 | [thewheat](https://github.com/thewheat) | Timothy Lim | @supabase |  | Brunei | 115 |
 | 8 | [syahnur197](https://github.com/syahnur197) | Syahnur Nizam |  | syahnur197 | Brunei | 110 |
-| 9 | [lmwnshn](https://github.com/lmwnshn) | Wan Shen Lim |  |  | San Francisco, CA \| Brunei | 108 |
-| 10 | [Zylioth](https://github.com/Zylioth) | Muhammad Amir Sabrin bin Mohamad Ali | Brunei University of Technology |  | Brunei | 108 |
-| 11 | [PenguinMiaou](https://github.com/PenguinMiaou) | PenguinMiaou |  |  | Brunei Darussalam | 107 |
+| 9 | [Zylioth](https://github.com/Zylioth) | Muhammad Amir Sabrin bin Mohamad Ali | Brunei University of Technology |  | Brunei | 108 |
+| 10 | [PenguinMiaou](https://github.com/PenguinMiaou) | PenguinMiaou |  |  | Brunei Darussalam | 107 |
+| 11 | [lmwnshn](https://github.com/lmwnshn) | Wan Shen Lim |  |  | San Francisco, CA \| Brunei | 106 |
 | 12 | [amirulmenjeni](https://github.com/amirulmenjeni) | Amirul Menjeni | Brunei Shell Petroleum |  | Brunei Darussalam | 104 |
 | 13 | [wafeeyhm](https://github.com/wafeeyhm) | Wafeey HM |  |  | Brunei Darussalam | 101 |
 | 14 | [jailanihar](https://github.com/jailanihar) | Jailani Abdul Rahman |  |  | Brunei Darussalam | 73 |

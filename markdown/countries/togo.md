@@ -14,13 +14,13 @@ Indexed users: 678
 |---:|---|---|---|---:|
 | 1 | [woueziou](https://github.com/woueziou) | Taas S. Ekpaye | Lomé | 13,731 |
 | 2 | [gausoft](https://github.com/gausoft) | Gauthier Eholoum | Lomé, Togo | 13,346 |
-| 3 | [omarfarouk228](https://github.com/omarfarouk228) | Omar farouk KOUGBADA | Togo | 11,619 |
+| 3 | [omarfarouk228](https://github.com/omarfarouk228) | Omar farouk KOUGBADA | Togo | 11,963 |
 | 4 | [MaximeKELI](https://github.com/MaximeKELI) | Maxime KELI | Lome,TOGO | 9,419 |
 | 5 | [kodesonik](https://github.com/kodesonik) | AMADOU AROUNA | Togo | 8,985 |
 | 6 | [GTW503](https://github.com/GTW503) | MEK | Togo | 8,975 |
 | 7 | [hermannleboss](https://github.com/hermannleboss) | Hermann EHO | Lomé TOGO | 8,078 |
-| 8 | [DATAGNIKAN](https://github.com/DATAGNIKAN) | DATAGNI K. Armand Noël | Togo, Lomé | 6,578 |
-| 9 | [jeanclaudesoft](https://github.com/jeanclaudesoft) | Claudy | Togo | 5,994 |
+| 8 | [DATAGNIKAN](https://github.com/DATAGNIKAN) | DATAGNI K. Armand Noël | Togo, Lomé | 6,823 |
+| 9 | [jeanclaudesoft](https://github.com/jeanclaudesoft) | Claudy | Togo | 6,119 |
 | 10 | [JsOptimizer](https://github.com/JsOptimizer) | Michael Olalekan | Togo | 5,622 |
 | 11 | [charlesdzadu](https://github.com/charlesdzadu) | Charles DZADU | Lomé - Togo | 5,213 |
 | 12 | [sebandroidev](https://github.com/sebandroidev) | Sebastien NOGBEDJI | Lomé, TOGO | 5,063 |
@@ -44,7 +44,7 @@ Indexed users: 678
 | 5 | [Rahim10020](https://github.com/Rahim10020) | Rahim ALI | Lome -TOGO | 3,207 |
 | 6 | [GYFX35](https://github.com/GYFX35) | GOUNTANTE yendoukoa | Togo | 1,952 |
 | 7 | [ALBAN3886](https://github.com/ALBAN3886) | AET Technology  | Togo | 1,917 |
-| 8 | [horacioskrp](https://github.com/horacioskrp) | Kudayah Sassou Horacio Herve | Togo-Lomé  | 1,840 |
+| 8 | [horacioskrp](https://github.com/horacioskrp) | Kudayah Sassou Horacio Herve | Togo-Lomé  | 1,866 |
 | 9 | [Dreykovic](https://github.com/Dreykovic) | Birewa Audrey AMONA | Togo | 1,735 |
 | 10 | [Juniorleriche27](https://github.com/Juniorleriche27) |  | Lome, Togo | 1,638 |
 | 11 | [Nova2026-graphik](https://github.com/Nova2026-graphik) | Samuel Nova | Lomé / Togo | 1,284 |
@@ -56,7 +56,7 @@ Indexed users: 678
 | 17 | [georgesnoe](https://github.com/georgesnoe) | Kossi Georges-Noé AHOMBO | Lomé, Togo | 760 |
 | 18 | [icichainz](https://github.com/icichainz) | Abel Koudaya | Lomé, TOGO | 719 |
 | 19 | [lessan-cyber](https://github.com/lessan-cyber) | Lessan  Abdel Aziz | Togo | 708 |
-| 20 | [johnOfGod33](https://github.com/johnOfGod33) | jean de dieu | Togo | 666 |
+| 20 | [mawena](https://github.com/mawena) | Charles | Lomé | 668 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 678
 | 19 | [ica1010](https://github.com/ica1010) | Ghislin | Lomé , Togo | 66 |
 | 20 | [Maximekgn](https://github.com/Maximekgn) | KOGON Mawunygan Maxime | Togo | 63 |
 
-Generated: 2026-10-20T23:53:02.590Z
+Generated: 2026-10-21T01:39:07.329Z

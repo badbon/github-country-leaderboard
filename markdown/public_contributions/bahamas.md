@@ -1,6 +1,6 @@
 # Public Contributions - Bahamas
 
-Generated: 2026-10-21T00:10:39.320Z
+Generated: 2026-10-21T01:55:46.721Z
 
 Users: 236
 
@@ -23,6 +23,6 @@ Users: 236
 | 15 | [justnardo](https://github.com/justnardo) | Just_Nardo | First Glance |  | Bahamas | 54 |
 | 16 | [caynetic](https://github.com/caynetic) | Caynetic | Caynetic Ltd. |  | Nassau, Bahamas | 50 |
 | 17 | [EmmanuelAlcime](https://github.com/EmmanuelAlcime) | Emmanuel Alcime | M.I.N.D Bahamas |  | Nassau, The Bahamas | 50 |
-| 18 | [amcollie](https://github.com/amcollie) | Alexandros Collie | Department of Information Technology |  | Nassau, Bahamas | 47 |
+| 18 | [amcollie](https://github.com/amcollie) | Alexandros Collie | Ministry of Innovation and National Development |  | Nassau, Bahamas | 48 |
 | 19 | [Wraami](https://github.com/Wraami) | Wraami |  |  | Cat Island, Bahamas | 39 |
 | 20 | [TerryJG](https://github.com/TerryJG) | Terrance |  |  | Nassau, Bahamas | 38 |

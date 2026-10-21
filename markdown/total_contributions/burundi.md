@@ -1,6 +1,6 @@
 # Total Contributions - Burundi
 
-Generated: 2026-10-21T00:16:47.770Z
+Generated: 2026-10-21T02:02:31.210Z
 
 Users: 235
 
@@ -12,17 +12,17 @@ Users: 235
 | 4 | [INGANZAMARUMPU](https://github.com/INGANZAMARUMPU) | NKURUNZIZA | hogitugende | inganzamarumpu | Bujumbura, Burundi | 2477 |
 | 5 | [klauskira07](https://github.com/klauskira07) | Klaus KIRA | Vortex Ltd. | klauskira07 | Burundi | 2134 |
 | 6 | [yvartpro](https://github.com/yvartpro) | Nshemezimana Yves | @vovota |  | Bujumbura,Burundi | 1659 |
-| 7 | [gatarelib](https://github.com/gatarelib) | Gatare Libère | ACLIS | gatarelib | Burundi | 1552 |
+| 7 | [gatarelib](https://github.com/gatarelib) | Gatare Libère | ACLIS | gatarelib | Burundi | 1556 |
 | 8 | [kalculata](https://github.com/kalculata) | Huzaifa Nimushimirimana | @kubwacu-entreprise  | kalculata | Bujumbura, Burundi | 1512 |
 | 9 | [Blaise28](https://github.com/Blaise28) | MANIRAKIZA Blaise | Magis BI |  | Burundi/Bujumbura | 1505 |
 | 10 | [Advaxe](https://github.com/Advaxe) | Advaxe Ndayisenga | Free Tech Institute | AdvaxeIr | Gitega-Burundi | 1441 |
 | 11 | [tertcoder](https://github.com/tertcoder) | Bon Tertius Tuyishimire  | Mediabox | bon_tertius | Bujumbura, Burundi | 1326 |
 | 12 | [allyelvis](https://github.com/allyelvis) | Ally Elvis Nzeyimana | @AENZBi  | AllyElvis1 | Burundi | 1226 |
 | 13 | [XPTOOLS](https://github.com/XPTOOLS) | XP TOOLS | FREENETHUB™ |  | Burundi | 1112 |
-| 14 | [b3rking](https://github.com/b3rking) | ISHIMWE Eschyle Bersy | Immadridista | b3rking | Burundi | 1042 |
+| 14 | [b3rking](https://github.com/b3rking) | ISHIMWE Eschyle Bersy | Immadridista | b3rking | Burundi | 1043 |
 | 15 | [Janeirohurley](https://github.com/Janeirohurley) | Janeiro hurley | @RundiNova  | janeirohurley | Burundi | 1007 |
 | 16 | [arsou2015](https://github.com/arsou2015) | Arsene Nduwayo | EXEC |  | Burundi | 978 |
 | 17 | [kidasijunior10](https://github.com/kidasijunior10) | Joachim KIDASI | United Nations Population Fund |  | Bujumbura, Burundi | 923 |
-| 18 | [Evran0](https://github.com/Evran0) | Eddy Poli | RIHA TELECOM |  | Bujumbura,  Burundi | 914 |
-| 19 | [VanGoethe](https://github.com/VanGoethe) | 7r322 | @meezeedevelopers  | vangoethe_iy | Burundi, Bujumbura | 896 |
+| 18 | [VanGoethe](https://github.com/VanGoethe) | 7r322 | @meezeedevelopers  | vangoethe_iy | Burundi, Bujumbura | 917 |
+| 19 | [Evran0](https://github.com/Evran0) | Eddy Poli | RIHA TELECOM |  | Bujumbura,  Burundi | 914 |
 | 20 | [ArtcalO](https://github.com/ArtcalO) | The Lone Wolf | @ksquad | ArtcalO97 | Bujumbura, BURUNDI | 895 |

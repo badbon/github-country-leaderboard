@@ -83,4 +83,4 @@ Indexed users: 56,904
 | 19 | [rickiepark](https://github.com/rickiepark) | Haesun Park | Seoul, Korea | 1,884 |
 | 20 | [joshua1988](https://github.com/joshua1988) | Captain Pangyo | South Korea | 1,726 |
 
-Generated: 2026-10-20T23:48:36.104Z
+Generated: 2026-10-21T01:33:33.422Z

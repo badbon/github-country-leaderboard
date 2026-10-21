@@ -54,7 +54,7 @@ Indexed users: 236
 | 15 | [justnardo](https://github.com/justnardo) | Just_Nardo | Bahamas | 54 |
 | 16 | [caynetic](https://github.com/caynetic) | Caynetic | Nassau, Bahamas | 50 |
 | 17 | [EmmanuelAlcime](https://github.com/EmmanuelAlcime) | Emmanuel Alcime | Nassau, The Bahamas | 50 |
-| 18 | [amcollie](https://github.com/amcollie) | Alexandros Collie | Nassau, Bahamas | 47 |
+| 18 | [amcollie](https://github.com/amcollie) | Alexandros Collie | Nassau, Bahamas | 48 |
 | 19 | [Wraami](https://github.com/Wraami) | Wraami | Cat Island, Bahamas | 39 |
 | 20 | [TerryJG](https://github.com/TerryJG) | Terrance | Nassau, Bahamas | 38 |
 
@@ -83,4 +83,4 @@ Indexed users: 236
 | 19 | [paulcitarella](https://github.com/paulcitarella) | Paul Citarella | George Town, Bahamas | 15 |
 | 20 | [yemix](https://github.com/yemix) |  | Bahamas | 14 |
 
-Generated: 2026-10-21T00:10:39.320Z
+Generated: 2026-10-21T01:55:46.721Z
