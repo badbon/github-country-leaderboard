@@ -15,7 +15,7 @@ Indexed users: 1,783
 | 1 | [AndyIbanez](https://github.com/AndyIbanez) | Andy Ibanez | Bolivia | 27,708 |
 | 2 | [ynvYauneEnovore](https://github.com/ynvYauneEnovore) | Yovan R. Enovore | Sucre Bolivia | 10,356 |
 | 3 | [rp4ri](https://github.com/rp4ri) | Toborochi | Bolivia | 9,343 |
-| 4 | [abelrgr](https://github.com/abelrgr) | Abel | Bolivia | 8,486 |
+| 4 | [abelrgr](https://github.com/abelrgr) | Abel | Bolivia | 8,308 |
 | 5 | [DaleneyRuben](https://github.com/DaleneyRuben) | Fernando Daleney | La Paz, Bolivia | 7,674 |
 | 6 | [arkgast](https://github.com/arkgast) | Arnold Gandarillas Castillo | Bolivia | 7,134 |
 | 7 | [jpfernandezl](https://github.com/jpfernandezl) | Juan Pablo Fernandez | Bolivia | 6,619 |
@@ -83,4 +83,4 @@ Indexed users: 1,783
 | 19 | [alvarosiles11](https://github.com/alvarosiles11) | Alvaro Siles Estrada | Bolivia | 121 |
 | 20 | [mauforonda](https://github.com/mauforonda) | Mau Foronda | Bolivia | 119 |
 
-Generated: 2026-10-21T18:46:07.363Z
+Generated: 2026-10-21T20:15:30.036Z

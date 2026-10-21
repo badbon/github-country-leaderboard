@@ -1,6 +1,6 @@
 # Tonga
 
-Indexed users: 9
+Indexed users: 10
 
 | Leaderboard | Link |
 |---|---|
@@ -18,9 +18,10 @@ Indexed users: 9
 | 4 | [staumoepeau](https://github.com/staumoepeau) | Sione Taumoepeau | Tonga | 58 |
 | 5 | [taufa](https://github.com/taufa) | Semisi | Tongatapu, Tonga | 39 |
 | 6 | [Pace417](https://github.com/Pace417) | AH | Tonga | 22 |
-| 7 | [james151br](https://github.com/james151br) | James | Tonga | 4 |
-| 8 | [lekamotu](https://github.com/lekamotu) | Sioto Fine | Tonga | 0 |
-| 9 | [styxl](https://github.com/styxl) | Joe M | Tonga | 0 |
+| 7 | [abyss-furina](https://github.com/abyss-furina) |  | Tonga | 18 |
+| 8 | [james151br](https://github.com/james151br) | James | Tonga | 4 |
+| 9 | [lekamotu](https://github.com/lekamotu) | Sioto Fine | Tonga | 0 |
+| 10 | [styxl](https://github.com/styxl) | Joe M | Tonga | 0 |
 
 ## Public Contributions
 
@@ -31,10 +32,11 @@ Indexed users: 9
 | 3 | [JonLiki](https://github.com/JonLiki) | Sione Folaumoetu'i Likiliki | Tonga | 71 |
 | 4 | [staumoepeau](https://github.com/staumoepeau) | Sione Taumoepeau | Tonga | 58 |
 | 5 | [Pace417](https://github.com/Pace417) | AH | Tonga | 22 |
-| 6 | [james151br](https://github.com/james151br) | James | Tonga | 4 |
-| 7 | [lekamotu](https://github.com/lekamotu) | Sioto Fine | Tonga | 0 |
-| 8 | [styxl](https://github.com/styxl) | Joe M | Tonga | 0 |
-| 9 | [taufa](https://github.com/taufa) | Semisi | Tongatapu, Tonga | 0 |
+| 6 | [abyss-furina](https://github.com/abyss-furina) |  | Tonga | 13 |
+| 7 | [james151br](https://github.com/james151br) | James | Tonga | 4 |
+| 8 | [lekamotu](https://github.com/lekamotu) | Sioto Fine | Tonga | 0 |
+| 9 | [styxl](https://github.com/styxl) | Joe M | Tonga | 0 |
+| 10 | [taufa](https://github.com/taufa) | Semisi | Tongatapu, Tonga | 0 |
 
 ## Followers
 
@@ -46,8 +48,9 @@ Indexed users: 9
 | 4 | [taufa](https://github.com/taufa) | Semisi | Tongatapu, Tonga | 6 |
 | 5 | [tadongyro](https://github.com/tadongyro) | Melissa Gordon | Rachelmouth, Tonga | 5 |
 | 6 | [styxl](https://github.com/styxl) | Joe M | Tonga | 2 |
-| 7 | [james151br](https://github.com/james151br) | James | Tonga | 1 |
-| 8 | [lekamotu](https://github.com/lekamotu) | Sioto Fine | Tonga | 1 |
-| 9 | [Pace417](https://github.com/Pace417) | AH | Tonga | 1 |
+| 7 | [abyss-furina](https://github.com/abyss-furina) |  | Tonga | 1 |
+| 8 | [james151br](https://github.com/james151br) | James | Tonga | 1 |
+| 9 | [lekamotu](https://github.com/lekamotu) | Sioto Fine | Tonga | 1 |
+| 10 | [Pace417](https://github.com/Pace417) | AH | Tonga | 1 |
 
-Generated: 2026-10-21T19:58:34.529Z
+Generated: 2026-10-21T20:10:35.993Z

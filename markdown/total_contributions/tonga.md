@@ -1,8 +1,8 @@
 # Total Contributions - Tonga
 
-Generated: 2026-10-21T19:58:34.529Z
+Generated: 2026-10-21T20:10:35.993Z
 
-Users: 9
+Users: 10
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -12,6 +12,7 @@ Users: 9
 | 4 | [staumoepeau](https://github.com/staumoepeau) | Sione Taumoepeau |  |  | Tonga | 58 |
 | 5 | [taufa](https://github.com/taufa) | Semisi |  |  | Tongatapu, Tonga | 39 |
 | 6 | [Pace417](https://github.com/Pace417) | AH | Lehman Brothers |  | Tonga | 22 |
-| 7 | [james151br](https://github.com/james151br) | James |  |  | Tonga | 4 |
-| 8 | [lekamotu](https://github.com/lekamotu) | Sioto Fine | 29157 |  | Tonga | 0 |
-| 9 | [styxl](https://github.com/styxl) | Joe M |  |  | Tonga | 0 |
+| 7 | [abyss-furina](https://github.com/abyss-furina) |  | @crimsonhaven-to |  | Tonga | 18 |
+| 8 | [james151br](https://github.com/james151br) | James |  |  | Tonga | 4 |
+| 9 | [lekamotu](https://github.com/lekamotu) | Sioto Fine | 29157 |  | Tonga | 0 |
+| 10 | [styxl](https://github.com/styxl) | Joe M |  |  | Tonga | 0 |

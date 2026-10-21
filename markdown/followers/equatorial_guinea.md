@@ -1,8 +1,8 @@
 # Followers - Equatorial Guinea
 
-Generated: 2026-10-21T19:00:23.301Z
+Generated: 2026-10-21T20:29:18.348Z
 
-Users: 21
+Users: 20
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -10,19 +10,19 @@ Users: 21
 | 2 | [seamuddin](https://github.com/seamuddin) | Seam uddin | Rosa Money SL |  | Malabo, Equatorial guinea | 14 |
 | 3 | [cornensue](https://github.com/cornensue) | Cornelio Nsue |  | cornensue | Malabo | 9 |
 | 4 | [coolmechel](https://github.com/coolmechel) | Ugwu Chukwuemeka Emmanuel |  |  | Equatorial Guinea | 6 |
-| 5 | [Xenon0001](https://github.com/Xenon0001) | Luis Rafael Eyoma | Xenon.py |  | Bata, Equatorial Guinea | 6 |
-| 6 | [DanielNdong](https://github.com/DanielNdong) | Daniel Aquilino Ndong |  | devtotech | Malabo, Guinea Ecuatorial | 5 |
-| 7 | [vicentehmba](https://github.com/vicentehmba) | VIcente Hugo Mba | Deftreach |  | Equatorial Guinea | 4 |
-| 8 | [alexis-ngoyi](https://github.com/alexis-ngoyi) | Alexis Ngoyi M. | Qirah | alexisNgoyi | Guinee Equatoriale, Malabo | 3 |
-| 9 | [Nazario95](https://github.com/Nazario95) | Nazario Muanbama |  | NazzaReg | Malabo-EQ | 2 |
-| 10 | [nazarioconten](https://github.com/nazarioconten) | Nehemias |  |  | Malabo | 2 |
-| 11 | [AkenatonBot](https://github.com/AkenatonBot) | AnjeseperuraAkenaton |  |  | Malabo, Guinea Ecuatorial | 1 |
-| 12 | [arongesono12](https://github.com/arongesono12) | Aron Esono Ondo Eyang | @SEGESA | aronesono | Malabo | 1 |
-| 13 | [barsie](https://github.com/barsie) | Sirineo Barila  |  |  | Equatorial Guinea  | 1 |
-| 14 | [CaitlynBeryl](https://github.com/CaitlynBeryl) | Caitlyn Beryl  |  |  | Malabo, Equatorial Guinea | 1 |
-| 15 | [clinton341](https://github.com/clinton341) | Clinton Ezeronye |  |  | Malabo, Equatorial Guinea | 1 |
-| 16 | [I-Have-Nuclear-Bunker](https://github.com/I-Have-Nuclear-Bunker) | RandomLetters |  |  | Equatorial Guinea | 1 |
-| 17 | [luisichaicoto](https://github.com/luisichaicoto) | LUIS ICHAICOTO | SETRAGAM |  | Malabo, Equatorial Guinea | 1 |
-| 18 | [melitonio](https://github.com/melitonio) | Meliton Pablo Mangue Mañana | MAIT |  | Malabo, Guinea Ecuatorial | 1 |
-| 19 | [petr2rzu](https://github.com/petr2rzu) | Javier |  Ramsey-Williams |  |  Equatorial Guinea | 1 |
-| 20 | [sersobrenatural](https://github.com/sersobrenatural) | Santiago Gabriel Micha Ndong Obiang | ConocoPhillips |  | Equatorial Guinea  | 1 |
+| 5 | [DanielNdong](https://github.com/DanielNdong) | Daniel Aquilino Ndong |  | devtotech | Malabo, Guinea Ecuatorial | 5 |
+| 6 | [vicentehmba](https://github.com/vicentehmba) | VIcente Hugo Mba | Deftreach |  | Equatorial Guinea | 4 |
+| 7 | [alexis-ngoyi](https://github.com/alexis-ngoyi) | Alexis Ngoyi M. | Qirah | alexisNgoyi | Guinee Equatoriale, Malabo | 3 |
+| 8 | [Nazario95](https://github.com/Nazario95) | Nazario Muanbama |  | NazzaReg | Malabo-EQ | 2 |
+| 9 | [nazarioconten](https://github.com/nazarioconten) | Nehemias |  |  | Malabo | 2 |
+| 10 | [AkenatonBot](https://github.com/AkenatonBot) | AnjeseperuraAkenaton |  |  | Malabo, Guinea Ecuatorial | 1 |
+| 11 | [arongesono12](https://github.com/arongesono12) | Aron Esono Ondo Eyang | @SEGESA | aronesono | Malabo | 1 |
+| 12 | [barsie](https://github.com/barsie) | Sirineo Barila  |  |  | Equatorial Guinea  | 1 |
+| 13 | [CaitlynBeryl](https://github.com/CaitlynBeryl) | Caitlyn Beryl  |  |  | Malabo, Equatorial Guinea | 1 |
+| 14 | [clinton341](https://github.com/clinton341) | Clinton Ezeronye |  |  | Malabo, Equatorial Guinea | 1 |
+| 15 | [I-Have-Nuclear-Bunker](https://github.com/I-Have-Nuclear-Bunker) | RandomLetters |  |  | Equatorial Guinea | 1 |
+| 16 | [luisichaicoto](https://github.com/luisichaicoto) | LUIS ICHAICOTO | SETRAGAM |  | Malabo, Equatorial Guinea | 1 |
+| 17 | [melitonio](https://github.com/melitonio) | Meliton Pablo Mangue Mañana | MAIT |  | Malabo, Guinea Ecuatorial | 1 |
+| 18 | [petr2rzu](https://github.com/petr2rzu) | Javier |  Ramsey-Williams |  |  Equatorial Guinea | 1 |
+| 19 | [sersobrenatural](https://github.com/sersobrenatural) | Santiago Gabriel Micha Ndong Obiang | ConocoPhillips |  | Equatorial Guinea  | 1 |
+| 20 | [Soniangomo](https://github.com/Soniangomo) | Sonia NGOMO | CFAO MOBILITY |  | MALABO- EQUATORIAL GUINEA | 1 |

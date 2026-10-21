@@ -1,8 +1,8 @@
 # Followers - Tonga
 
-Generated: 2026-10-21T19:58:34.529Z
+Generated: 2026-10-21T20:10:35.993Z
 
-Users: 9
+Users: 10
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -12,6 +12,7 @@ Users: 9
 | 4 | [taufa](https://github.com/taufa) | Semisi |  |  | Tongatapu, Tonga | 6 |
 | 5 | [tadongyro](https://github.com/tadongyro) | Melissa Gordon |  |  | Rachelmouth, Tonga | 5 |
 | 6 | [styxl](https://github.com/styxl) | Joe M |  |  | Tonga | 2 |
-| 7 | [james151br](https://github.com/james151br) | James |  |  | Tonga | 1 |
-| 8 | [lekamotu](https://github.com/lekamotu) | Sioto Fine | 29157 |  | Tonga | 1 |
-| 9 | [Pace417](https://github.com/Pace417) | AH | Lehman Brothers |  | Tonga | 1 |
+| 7 | [abyss-furina](https://github.com/abyss-furina) |  | @crimsonhaven-to |  | Tonga | 1 |
+| 8 | [james151br](https://github.com/james151br) | James |  |  | Tonga | 1 |
+| 9 | [lekamotu](https://github.com/lekamotu) | Sioto Fine | 29157 |  | Tonga | 1 |
+| 10 | [Pace417](https://github.com/Pace417) | AH | Lehman Brothers |  | Tonga | 1 |

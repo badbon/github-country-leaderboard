@@ -49,8 +49,8 @@ Indexed users: 1,336
 | 10 | [MS0C54073](https://github.com/MS0C54073) | Musonda Salimu | Zambia | 829 |
 | 11 | [214Toto](https://github.com/214Toto) | ToToZ Collection | Ndola, Copperbelt, Zambia | 769 |
 | 12 | [SilasChalwe](https://github.com/SilasChalwe) | Silas Chalwe  | Zambia  | 742 |
-| 13 | [Mukela12](https://github.com/Mukela12) | Mukela Katungu | Lusaka | 685 |
-| 14 | [cephaschapa](https://github.com/cephaschapa) | Cephas Chapa | Zambia | 684 |
+| 13 | [cephaschapa](https://github.com/cephaschapa) | Cephas Chapa | Zambia | 684 |
+| 14 | [Mukela12](https://github.com/Mukela12) | Mukela Katungu | Lusaka | 683 |
 | 15 | [simwawatim](https://github.com/simwawatim) | Timothy Simwawa | Lusaka, Zambia | 637 |
 | 16 | [mataa019](https://github.com/mataa019) | John Mataa | Zambia, Lusaka Province | 624 |
 | 17 | [wmweemba](https://github.com/wmweemba) | William .S. Mweemba | Lusaka, Zambia | 612 |
@@ -83,4 +83,4 @@ Indexed users: 1,336
 | 19 | [Eathorne2](https://github.com/Eathorne2) | Eathorne | Lusaka, Zambia | 103 |
 | 20 | [kshula](https://github.com/kshula) | Kampamba Shula | Lusaka | 101 |
 
-Generated: 2026-10-21T18:37:25.451Z
+Generated: 2026-10-21T20:05:39.399Z

@@ -1,6 +1,6 @@
 # Followers - Armenia
 
-Generated: 2026-10-21T18:40:14.599Z
+Generated: 2026-10-21T20:12:12.502Z
 
 Users: 4028
 
@@ -15,7 +15,7 @@ Users: 4028
 | 7 | [meanmail](https://github.com/meanmail) | Alexander Petrov | meanmail.dev | meanmaildev | Armenia, Yerevan | 609 |
 | 8 | [hasmiksarg](https://github.com/hasmiksarg) | Has |  |  | Yerevan, Armenia | 578 |
 | 9 | [noptrix](https://github.com/noptrix) | noptrix | nullsecurity, nullsecurity labs, blackarch linux | noptrix | Armenia, Cyprus, Stack, Heap | 546 |
-| 10 | [AndreiMaz](https://github.com/AndreiMaz) | Andrei Mazulnitsyn | nopCommerce team |  | Armenia | 477 |
+| 10 | [AndreiMaz](https://github.com/AndreiMaz) | Andrei Mazulnitsyn | nopCommerce team |  | Armenia | 479 |
 | 11 | [vahan-sahakyan](https://github.com/vahan-sahakyan) | Vahan Sahakyan | Optimum Partners | _vahan_sahakyan | Yerevan, Armenia | 475 |
 | 12 | [Aramayis331](https://github.com/Aramayis331) | Aramayis Araqelyan |  |  | Armenia | 455 |
 | 13 | [armcha](https://github.com/armcha) | Arman |  |  | Armenia | 428 |

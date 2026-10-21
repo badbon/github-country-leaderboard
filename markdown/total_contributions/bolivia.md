@@ -1,6 +1,6 @@
 # Total Contributions - Bolivia
 
-Generated: 2026-10-21T18:46:07.363Z
+Generated: 2026-10-21T20:15:30.036Z
 
 Users: 1783
 
@@ -9,7 +9,7 @@ Users: 1783
 | 1 | [AndyIbanez](https://github.com/AndyIbanez) | Andy Ibanez | Fairese | AndyIbanezK | Bolivia | 27708 |
 | 2 | [ynvYauneEnovore](https://github.com/ynvYauneEnovore) | Yovan R. Enovore | Encorp LLC | ramonenovore | Sucre Bolivia | 10356 |
 | 3 | [rp4ri](https://github.com/rp4ri) | Toborochi | @Cyborg7-com  |  | Bolivia | 9343 |
-| 4 | [abelrgr](https://github.com/abelrgr) | Abel |  |  | Bolivia | 8486 |
+| 4 | [abelrgr](https://github.com/abelrgr) | Abel |  |  | Bolivia | 8308 |
 | 5 | [DaleneyRuben](https://github.com/DaleneyRuben) | Fernando Daleney | TurboTenant |  | La Paz, Bolivia | 7674 |
 | 6 | [arkgast](https://github.com/arkgast) | Arnold Gandarillas Castillo |  |  | Bolivia | 7134 |
 | 7 | [jpfernandezl](https://github.com/jpfernandezl) | Juan Pablo Fernandez |  |  | Bolivia | 6619 |

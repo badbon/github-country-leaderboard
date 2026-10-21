@@ -1,12 +1,12 @@
 # Followers - Antarctica
 
-Generated: 2026-10-21T18:40:02.713Z
+Generated: 2026-10-21T20:10:42.793Z
 
 Users: 460
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [adam-maj](https://github.com/adam-maj) | Adam Majmudar | thirdweb | MajmudarAdam | South Pole, Antarctica | 1912 |
+| 1 | [adam-maj](https://github.com/adam-maj) | Adam Majmudar | thirdweb | MajmudarAdam | South Pole, Antarctica | 1914 |
 | 2 | [Washi1337](https://github.com/Washi1337) | Washi |  | washi_dev | McMurdo Station, Antarctica | 619 |
 | 3 | [r-lyeh](https://github.com/r-lyeh) |  | C |  | Vostok, Antarctica | 463 |
 | 4 | [josephpoon](https://github.com/josephpoon) | Joseph Poon |  |  | Antarctica | 343 |
@@ -16,7 +16,7 @@ Users: 460
 | 8 | [ifarbod](https://github.com/ifarbod) | iFarbod | SYSTEM_SERVICE_EXCEPTION | ifarbod | Antarctica  | 133 |
 | 9 | [bestruirui](https://github.com/bestruirui) | BESTRUI |  |  | Antarctica | 124 |
 | 10 | [examachine](https://github.com/examachine) | Eray Özkural | @celestial-intellect  | examachine | Dead City, Antarctica | 123 |
-| 11 | [KrLite](https://github.com/KrLite) | KrLite |  | KrLite | Antarctica | 119 |
+| 11 | [KrLite](https://github.com/KrLite) | KrLite |  | KrLite | Antarctica | 120 |
 | 12 | [TobitoFatitoRE](https://github.com/TobitoFatitoRE) | TobitoFatito |  |  | Davis Station, Antarctica | 119 |
 | 13 | [emre1393](https://github.com/emre1393) | Emre |  |  | Antarctica | 114 |
 | 14 | [ethicnology](https://github.com/ethicnology) | Azad | @SatoshiPortal  |  | Antarctica | 105 |
