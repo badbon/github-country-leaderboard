@@ -41216,7 +41216,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 0,
     "createdAt": "2021-07-20T13:38:42Z"
   },
   {
@@ -41238,7 +41238,7 @@
     "location": "Prague",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2021-01-19T10:11:26Z"
@@ -41258,13 +41258,13 @@
   {
     "login": "goffamartin",
     "name": "Martin Goffa",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/78726024?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/78726024?s=72&u=536fa3fbee0fc9c0dfa0bbdae2fbfb2f357e2291&v=4",
     "location": "Prague",
-    "company": "",
+    "company": "@havit ",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 119,
     "createdAt": "2021-02-08T08:54:23Z"
   },
   {
@@ -41299,7 +41299,7 @@
     "company": "@veevoy",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1585,
+    "privateContributions": 2810,
     "publicContributions": 9,
     "createdAt": "2021-09-23T07:32:30Z"
   },
@@ -41311,7 +41311,7 @@
     "company": "@MirandaMedia-Group",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 255,
+    "privateContributions": 247,
     "publicContributions": 51,
     "createdAt": "2021-11-22T22:41:08Z"
   },
@@ -41322,9 +41322,9 @@
     "location": "Prague",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 310,
+    "publicContributions": 285,
     "createdAt": "2021-04-14T12:44:45Z"
   },
   {
@@ -41336,7 +41336,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 3,
     "createdAt": "2021-11-18T15:33:05Z"
   },
   {
@@ -41347,8 +41347,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 48,
-    "publicContributions": 45,
+    "privateContributions": 123,
+    "publicContributions": 0,
     "createdAt": "2021-03-30T20:19:21Z"
   },
   {
@@ -41360,7 +41360,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 1,
     "createdAt": "2021-04-20T14:13:18Z"
   },
   {
@@ -41371,7 +41371,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 801,
+    "privateContributions": 489,
     "publicContributions": 0,
     "createdAt": "2021-04-13T10:34:19Z"
   },
@@ -41395,7 +41395,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 5,
+    "privateContributions": 6,
     "publicContributions": 0,
     "createdAt": "2020-12-28T16:39:20Z"
   },
@@ -41408,19 +41408,19 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 1,
     "createdAt": "2021-10-08T14:18:44Z"
   },
   {
     "login": "ohladun",
     "name": "Oleksii Hladun",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/83374873?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/83374873?s=72&u=07d5ef9a225bd3325cc67bb98733d7cc187c43cb&v=4",
     "location": "Prague",
     "company": "",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 10,
     "createdAt": "2021-04-28T21:24:14Z"
   },
   {
@@ -41443,7 +41443,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 472,
+    "privateContributions": 103,
     "publicContributions": 0,
     "createdAt": "2021-11-27T01:44:16Z"
   },

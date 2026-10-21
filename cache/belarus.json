@@ -41599,8 +41599,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 3,
-    "publicContributions": 12,
+    "privateContributions": 2,
+    "publicContributions": 1,
     "createdAt": "2021-04-24T16:19:01Z"
   },
   {
@@ -41612,19 +41612,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 3,
     "createdAt": "2021-12-06T19:38:08Z"
   },
   {
     "login": "VitalikKarpuk",
     "name": "Vitali Karpuk",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/89463965?s=72&u=b434a847cde1bc267d27f22c6c462a98e71ef744&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/89463965?s=72&u=2294a4b4248eb386d5fc2f18b0e62b595651711d&v=4",
     "location": "Minsk",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 159,
+    "publicContributions": 145,
     "createdAt": "2021-08-24T13:24:17Z"
   },
   {
@@ -41635,7 +41635,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 973,
+    "privateContributions": 1442,
     "publicContributions": 18,
     "createdAt": "2021-10-26T10:46:08Z"
   },
@@ -41659,7 +41659,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 81,
+    "privateContributions": 139,
     "publicContributions": 28,
     "createdAt": "2021-06-27T13:49:09Z"
   },
@@ -41683,7 +41683,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1011,
+    "privateContributions": 1029,
     "publicContributions": 0,
     "createdAt": "2021-01-27T16:38:52Z"
   },
@@ -41708,7 +41708,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 11,
     "createdAt": "2021-10-06T17:09:18Z"
   },
   {
@@ -41718,7 +41718,7 @@
     "location": "Minsk",
     "company": "Belarussian State Technological University",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 7,
     "createdAt": "2021-02-10T08:31:20Z"
@@ -41731,7 +41731,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 218,
+    "privateContributions": 226,
     "publicContributions": 8,
     "createdAt": "2021-03-31T13:37:22Z"
   },
