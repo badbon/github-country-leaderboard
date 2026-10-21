@@ -39978,7 +39978,7 @@
     "location": "switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 9,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-06-26T11:18:00Z"
@@ -39991,8 +39991,8 @@
     "company": "LeeGroup GmbH",
     "twitterUsername": "josepabepu",
     "followers": 10,
-    "privateContributions": 259,
-    "publicContributions": 2,
+    "privateContributions": 253,
+    "publicContributions": 1,
     "createdAt": "2021-03-22T13:58:44Z"
   },
   {
@@ -40002,7 +40002,7 @@
     "location": "Friburg, Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 8,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-01-21T18:03:19Z"
@@ -40014,9 +40014,9 @@
     "location": "Switzerland",
     "company": "@Microsoft",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 51,
+    "publicContributions": 26,
     "createdAt": "2021-03-25T12:42:12Z"
   },
   {
@@ -40034,13 +40034,13 @@
   {
     "login": "radimurban",
     "name": "Radim Urban",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/78273894?s=72&u=41a59b92af38d545fca6c7ed881b2b579df56592&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/78273894?s=72&u=be2313e8a303d11a32b03501e7e5b34b325d1353&v=4",
     "location": "Zurich, Switzerland",
-    "company": "ETH Zurich / Intern at Apple ",
+    "company": "ETH Zurich",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 40,
-    "publicContributions": 47,
+    "followers": 7,
+    "privateContributions": 172,
+    "publicContributions": 36,
     "createdAt": "2021-01-30T17:58:09Z"
   },
   {
@@ -40050,9 +40050,9 @@
     "location": "Zurich,Switzerland",
     "company": "askEarth",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 449,
-    "publicContributions": 53,
+    "followers": 7,
+    "privateContributions": 2026,
+    "publicContributions": 75,
     "createdAt": "2021-04-07T06:26:48Z"
   },
   {
@@ -40062,8 +40062,8 @@
     "location": "Lausanne, Switzerland",
     "company": "@taurusgroup ",
     "twitterUsername": "rootmout",
-    "followers": 9,
-    "privateContributions": 1097,
+    "followers": 10,
+    "privateContributions": 1111,
     "publicContributions": 108,
     "createdAt": "2021-03-03T00:17:32Z"
   },
@@ -40074,9 +40074,9 @@
     "location": "Switzerland ",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 201,
-    "publicContributions": 30,
+    "followers": 8,
+    "privateContributions": 239,
+    "publicContributions": 37,
     "createdAt": "2021-03-28T17:32:52Z"
   },
   {
@@ -40088,7 +40088,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 558,
+    "publicContributions": 949,
     "createdAt": "2021-04-05T16:17:53Z"
   },
   {
@@ -40098,9 +40098,9 @@
     "location": "Switzerland, lucerne",
     "company": "Suva",
     "twitterUsername": "utigernils",
-    "followers": 9,
-    "privateContributions": 194,
-    "publicContributions": 529,
+    "followers": 11,
+    "privateContributions": 185,
+    "publicContributions": 489,
     "createdAt": "2021-04-04T20:35:45Z"
   },
   {
@@ -40111,8 +40111,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 8,
-    "publicContributions": 526,
+    "privateContributions": 0,
+    "publicContributions": 435,
     "createdAt": "2021-03-21T14:06:03Z"
   },
   {
@@ -40123,21 +40123,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 232,
-    "publicContributions": 43,
+    "privateContributions": 224,
+    "publicContributions": 31,
     "createdAt": "2021-01-31T15:55:25Z"
-  },
-  {
-    "login": "darkyy92",
-    "name": "Joël",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/85100340?s=72&u=bb26882c21024124f42afd1046bd72a654eae259&v=4",
-    "location": "Switzerland",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 0,
-    "publicContributions": 250,
-    "createdAt": "2021-05-31T07:43:12Z"
   },
   {
     "login": "SchumarovVitali",
@@ -40148,7 +40136,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 33,
+    "publicContributions": 23,
     "createdAt": "2021-05-09T10:25:14Z"
   },
   {
@@ -40159,8 +40147,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 18,
-    "publicContributions": 11,
+    "privateContributions": 10,
+    "publicContributions": 7,
     "createdAt": "2021-04-22T12:47:32Z"
   },
   {
@@ -40172,7 +40160,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 0,
     "createdAt": "2021-03-15T10:19:50Z"
   },
   {
@@ -40182,9 +40170,9 @@
     "location": "Zurich, Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 48,
+    "publicContributions": 49,
     "createdAt": "2021-04-17T14:59:55Z"
   },
   {
@@ -40194,9 +40182,9 @@
     "location": "Lausanne, Switzerland",
     "company": "EPFL",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 120,
+    "publicContributions": 215,
     "createdAt": "2021-01-29T19:05:10Z"
   },
   {

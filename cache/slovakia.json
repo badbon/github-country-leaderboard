@@ -40064,7 +40064,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 33,
     "createdAt": "2014-06-23T14:53:44Z"
   },
   {
@@ -40076,7 +40076,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 11,
     "createdAt": "2014-08-13T10:57:25Z"
   },
   {
@@ -40087,7 +40087,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 173,
+    "privateContributions": 656,
     "publicContributions": 0,
     "createdAt": "2014-12-02T12:09:59Z"
   },
@@ -40098,7 +40098,7 @@
     "location": "Slovakia",
     "company": "Chilli Systems",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-06-23T14:30:53Z"
@@ -40110,7 +40110,7 @@
     "location": "Slovakia, Bratislava",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-09-24T12:45:03Z"
@@ -40123,8 +40123,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 514,
-    "publicContributions": 27,
+    "privateContributions": 476,
+    "publicContributions": 29,
     "createdAt": "2014-12-02T14:26:46Z"
   },
   {
@@ -40144,7 +40144,7 @@
     "name": "Timothy Vanco",
     "avatarUrl": "https://avatars.githubusercontent.com/u/9129477?s=72&u=723faf2da0ce712e5a0513fb9ed2c1ee0f85337d&v=4",
     "location": "Slovakia",
-    "company": "Born Digital",
+    "company": "",
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
@@ -40160,7 +40160,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 31,
+    "publicContributions": 29,
     "createdAt": "2014-06-15T11:40:44Z"
   },
   {
@@ -40171,8 +40171,8 @@
     "company": "@ams-sk ",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 3,
+    "privateContributions": 13,
+    "publicContributions": 55,
     "createdAt": "2014-01-02T19:32:05Z"
   },
   {
@@ -40244,7 +40244,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 1,
     "createdAt": "2014-06-09T14:19:53Z"
   },
   {
@@ -40268,7 +40268,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 8,
     "createdAt": "2014-02-28T20:37:42Z"
   },
   {
@@ -40278,9 +40278,9 @@
     "location": "Slovakia",
     "company": "@FutileStudio",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 426,
-    "publicContributions": 154,
+    "followers": 2,
+    "privateContributions": 360,
+    "publicContributions": 7,
     "createdAt": "2014-06-12T10:38:20Z"
   },
   {
@@ -40291,7 +40291,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 85,
+    "privateContributions": 145,
     "publicContributions": 0,
     "createdAt": "2014-01-15T10:18:28Z"
   },
