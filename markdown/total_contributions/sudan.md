@@ -1,6 +1,6 @@
 # Total Contributions - Sudan
 
-Generated: 2026-10-21T09:03:12.876Z
+Generated: 2026-10-21T13:04:02.147Z
 
 Users: 727
 
@@ -12,9 +12,9 @@ Users: 727
 | 4 | [Mohammed-Moniem](https://github.com/Mohammed-Moniem) | Mohammed-Moniem | Banan IT |  | Farog Diyab St, Mamora, Khartoum, Sudan | 5369 |
 | 5 | [obaaa8](https://github.com/obaaa8) | محمود عبدالسميع التوم | @obaaa  | obaaa8 | sudan | 5199 |
 | 6 | [hacktolove](https://github.com/hacktolove) | Ashraf Alhaj | Sudan News Agency - Suna |  | Sudan | 4850 |
-| 7 | [alsir](https://github.com/alsir) | Alsir Hamory |  |  | Khartoum , sudan | 3704 |
+| 7 | [alsir](https://github.com/alsir) | Alsir Hamory |  |  | Khartoum , sudan | 3686 |
 | 8 | [harranali](https://github.com/harranali) |  |  | harran_ali | Sudan | 3295 |
-| 9 | [hamoda-dev](https://github.com/hamoda-dev) | Mohammed Hamid Hamoda | @morph-sa | hamoda_dev | Sudan | 3165 |
+| 9 | [hamoda-dev](https://github.com/hamoda-dev) | Mohammed Hamid Hamoda | @morph-sa | hamoda_dev | Sudan | 3186 |
 | 10 | [m-elhabib-dev](https://github.com/m-elhabib-dev) | Mohamed Elhabib | PashaDP | m_elhabib_dev | Sudan, Khartoum | 2906 |
 | 11 | [MohdMuslim92](https://github.com/MohdMuslim92) | Mohammed Saeed |  | MohdMuslim92 | Sudan - Khartoum | 2854 |
 | 12 | [hazembabiker-2004](https://github.com/hazembabiker-2004) | Hazem Babiker |  |  | Khartoum | 2752 |
@@ -25,4 +25,4 @@ Users: 727
 | 17 | [AminOmer](https://github.com/AminOmer) | Amin Omer | Sudan University of Science and Technology  | AminOmerM | Khartoum, Sudan | 2473 |
 | 18 | [asimsharf](https://github.com/asimsharf) | Asim Abdelgadir | Sudagoarth Co.Ltd - سوداغورث المحدودة  | asimsharf | Sudan | 2298 |
 | 19 | [OxSama](https://github.com/OxSama) | OxSama |  | OX_SAMA | Khartoum - Sudan | 2134 |
-| 20 | [wali-eldin-hassan](https://github.com/wali-eldin-hassan) | Wali Eldin  | Tamkeen Technology | cre_al | Sudan | 2077 |
+| 20 | [wali-eldin-hassan](https://github.com/wali-eldin-hassan) | Wali Eldin  | Tamkeen Technology | cre_al | Sudan | 2065 |

@@ -1,12 +1,12 @@
 # Total Contributions - Syria
 
-Generated: 2026-10-21T09:04:28.021Z
+Generated: 2026-10-21T13:07:20.493Z
 
 Users: 1478
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [sakeraldakak](https://github.com/sakeraldakak) | Saker Al Dakak | SEZARD |  | Syria, Damascus | 8751 |
+| 1 | [sakeraldakak](https://github.com/sakeraldakak) | Saker Al Dakak | SEZARD |  | Syria, Damascus | 9606 |
 | 2 | [MustafaFares445](https://github.com/MustafaFares445) | Mustafa Fares |  |  | Aleppo/Syria | 5722 |
 | 3 | [moaaz-alsyoufi](https://github.com/moaaz-alsyoufi) | Moaaz Alsyoufi |  |  | Homs, Syria | 5233 |
 | 4 | [Abubakr-Alsheikh](https://github.com/Abubakr-Alsheikh) | Abubakr Alsheikh |  | AbubakrAlshei77 | Syria | 4654 |

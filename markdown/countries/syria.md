@@ -12,7 +12,7 @@ Indexed users: 1,478
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [sakeraldakak](https://github.com/sakeraldakak) | Saker Al Dakak | Syria, Damascus | 8,751 |
+| 1 | [sakeraldakak](https://github.com/sakeraldakak) | Saker Al Dakak | Syria, Damascus | 9,606 |
 | 2 | [MustafaFares445](https://github.com/MustafaFares445) | Mustafa Fares | Aleppo/Syria | 5,722 |
 | 3 | [moaaz-alsyoufi](https://github.com/moaaz-alsyoufi) | Moaaz Alsyoufi | Homs, Syria | 5,233 |
 | 4 | [Abubakr-Alsheikh](https://github.com/Abubakr-Alsheikh) | Abubakr Alsheikh | Syria | 4,654 |
@@ -63,8 +63,8 @@ Indexed users: 1,478
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [meory101](https://github.com/meory101) | Nour Othman | Damascus Syria | 723 |
-| 2 | [WaelTarabishi](https://github.com/WaelTarabishi) | Wael Tarabishi | Syria | 311 |
-| 3 | [SedrAlex](https://github.com/SedrAlex) | Sedra Mhanna | Damascus, Syria | 306 |
+| 2 | [SedrAlex](https://github.com/SedrAlex) | Sedra Mhanna | Damascus, Syria | 318 |
+| 3 | [WaelTarabishi](https://github.com/WaelTarabishi) | Wael Tarabishi | Syria | 311 |
 | 4 | [Rakwan007](https://github.com/Rakwan007) | Rakwan | syria | 303 |
 | 5 | [firasuke](https://github.com/firasuke) | Firas Khana | Aleppo, Syria | 224 |
 | 6 | [nawrzqal](https://github.com/nawrzqal) | nawrz qal | syria  | 203 |
@@ -83,4 +83,4 @@ Indexed users: 1,478
 | 19 | [nebrassy](https://github.com/nebrassy) | Nebrassy | Latakia, Syria | 102 |
 | 20 | [evoiz](https://github.com/evoiz) | Elias Al-bittar | Homs, Syria | 95 |
 
-Generated: 2026-10-21T09:04:28.021Z
+Generated: 2026-10-21T13:07:20.493Z
