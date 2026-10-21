@@ -39931,8 +39931,8 @@
     "company": "Full time student",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 26,
-    "publicContributions": 30,
+    "privateContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2016-11-21T14:15:49Z"
   },
   {
@@ -39966,8 +39966,8 @@
     "location": "Rwanda",
     "company": "Enlightenment labs",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 134,
+    "followers": 2,
+    "privateContributions": 107,
     "publicContributions": 11,
     "createdAt": "2016-03-03T15:04:58Z"
   },
@@ -40004,7 +40004,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 167,
+    "publicContributions": 153,
     "createdAt": "2016-05-27T19:26:43Z"
   },
   {
@@ -40038,8 +40038,8 @@
     "location": "Kigali, RW",
     "company": "@fixaltd  ",
     "twitterUsername": "captain_zim",
-    "followers": 10,
-    "privateContributions": 32,
+    "followers": 12,
+    "privateContributions": 113,
     "publicContributions": 0,
     "createdAt": "2016-10-19T20:54:25Z"
   },
@@ -40062,9 +40062,9 @@
     "location": "Kigali",
     "company": "Nusonic Technologies",
     "twitterUsername": "Viktahugo91",
-    "followers": 7,
-    "privateContributions": 539,
-    "publicContributions": 5,
+    "followers": 6,
+    "privateContributions": 832,
+    "publicContributions": 6,
     "createdAt": "2016-09-22T07:41:26Z"
   },
   {
@@ -40088,7 +40088,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 2,
-    "publicContributions": 27,
+    "publicContributions": 29,
     "createdAt": "2016-10-20T09:23:10Z"
   },
   {
@@ -40099,8 +40099,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 1492,
-    "publicContributions": 900,
+    "privateContributions": 4078,
+    "publicContributions": 1919,
     "createdAt": "2016-11-17T12:50:14Z"
   },
   {
@@ -40154,13 +40154,13 @@
   {
     "login": "Timtech4u",
     "name": "Timothy Olaleke",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/11256481?s=72&u=9714476a649237dd07e7d5874e49a5e3aec971e2&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11256481?s=72&u=0b69592f58d827c9d08f43463d3725640af63ebc&v=4",
     "location": "Kigali, Rwanda",
     "company": "",
     "twitterUsername": "",
     "followers": 251,
-    "privateContributions": 17771,
-    "publicContributions": 92,
+    "privateContributions": 28114,
+    "publicContributions": 69,
     "createdAt": "2015-03-01T13:14:22Z"
   },
   {

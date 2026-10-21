@@ -1242,7 +1242,7 @@
     "location": "Puerto Rico",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2024-09-28T22:57:42Z"
@@ -1280,7 +1280,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 23,
     "createdAt": "2024-02-26T06:59:41Z"
   },
   {
@@ -1292,7 +1292,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2024-01-21T21:10:27Z"
   },
   {
@@ -1315,7 +1315,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-10-10T17:46:31Z"
   },
@@ -1327,7 +1327,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 37,
+    "privateContributions": 52,
     "publicContributions": 42,
     "createdAt": "2024-01-22T22:59:18Z"
   },
@@ -1382,13 +1382,13 @@
   {
     "login": "LewisADiaz",
     "name": "Lewis A. Diaz Acevedo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/166762123?s=72&u=975bb2cab6f2ac7c68ecd2b747af5730bd35229a&v=4",
-    "location": "Bayamón, Puerto Rico🇵🇷",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/166762123?s=72&u=f542b0082f44f4ce35473d298852c5f96b70c363&v=4",
+    "location": "Bayamón, Puerto Rico",
     "company": "Interamerican University of Bayamón",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2024-04-11T21:17:52Z"
   },
   {
@@ -1422,8 +1422,8 @@
     "location": "San Juan City",
     "company": "",
     "twitterUsername": "",
-    "followers": 24,
-    "privateContributions": 1227,
+    "followers": 27,
+    "privateContributions": 1243,
     "publicContributions": 25,
     "createdAt": "2024-01-13T14:26:52Z"
   },

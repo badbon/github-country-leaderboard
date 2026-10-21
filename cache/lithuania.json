@@ -39942,9 +39942,9 @@
     "location": "Vilnius",
     "company": "Accenture",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 170,
+    "publicContributions": 212,
     "createdAt": "2016-09-14T10:02:52Z"
   },
   {
@@ -39979,7 +39979,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1309,
+    "privateContributions": 1460,
     "publicContributions": 3,
     "createdAt": "2016-07-09T20:54:37Z"
   },
@@ -39991,7 +39991,7 @@
     "company": "UAB Rankbase",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 611,
+    "privateContributions": 473,
     "publicContributions": 14,
     "createdAt": "2016-11-17T10:34:55Z"
   },
@@ -40044,18 +40044,6 @@
     "createdAt": "2016-04-21T15:44:05Z"
   },
   {
-    "login": "zilvinas-siaulys",
-    "name": "Žilvinas Šiaulys",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/22389703?s=72&u=cc0661586db5d1cd5379c9f5265c20bf24748351&v=4",
-    "location": "Vilnius",
-    "company": "wix",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2016-09-23T07:54:33Z"
-  },
-  {
     "login": "Jelena-Nu",
     "name": "Jelena",
     "avatarUrl": "https://avatars.githubusercontent.com/u/16961826?s=72&u=04bfc089e5440878c12028d1705a51ef192ac7f1&v=4",
@@ -40064,7 +40052,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 12,
     "createdAt": "2016-01-29T17:37:31Z"
   },
   {
