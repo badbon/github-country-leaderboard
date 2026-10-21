@@ -118066,7 +118066,7 @@
           "kind": "country",
           "createdStart": "2021-11-13",
           "createdEnd": "2021-11-24",
-          "page": 8
+          "page": 9
         },
         {
           "country": "india",
@@ -121341,21 +121341,21 @@
           "kept": 59
         }
       },
-      "lastDiscoveryAt": "2026-10-21T23:07:49.071Z",
+      "lastDiscoveryAt": "2026-10-21T23:20:58.930Z",
       "lastDiscoveryCompletedAt": null,
       "discoveryQueuedThrough": "2026-05-12",
-      "lastCacheChangeAt": "2026-10-21T23:07:49.071Z",
+      "lastCacheChangeAt": "2026-10-21T23:20:58.930Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 2883,
-        "enrichmentRequests": 11989,
-        "usersDiscovered": 237680,
-        "usersEnriched": 236372,
+        "searchRequests": 2884,
+        "enrichmentRequests": 11994,
+        "usersDiscovered": 237780,
+        "usersEnriched": 236472,
         "usersRefreshed": 0,
-        "usersKept": 202801
+        "usersKept": 202901
       }
     },
     "indonesia": {
@@ -230996,20 +230996,20 @@
       "lastDiscoveryAt": "2026-10-21T19:08:38.731Z",
       "lastDiscoveryCompletedAt": "2026-08-16T04:08:53.322Z",
       "discoveryQueuedThrough": "2026-07-20",
-      "lastCacheChangeAt": "2026-10-21T21:21:08.222Z",
+      "lastCacheChangeAt": "2026-10-21T23:21:06.205Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": "2026-10-20T14:40:59.619Z",
       "lastError": null,
       "stats": {
         "searchRequests": 80,
-        "enrichmentRequests": 226,
+        "enrichmentRequests": 227,
         "usersDiscovered": 629,
-        "usersEnriched": 4048,
-        "usersRefreshed": 3419,
+        "usersEnriched": 4068,
+        "usersRefreshed": 3439,
         "usersKept": 442
       },
-      "refreshCursor": 320
+      "refreshCursor": 340
     },
     "singapore": {
       "slug": "singapore",
@@ -232765,7 +232765,7 @@
       "lastError": {
         "message": "Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.",
         "status": null,
-        "at": "2026-10-21T21:22:11.722Z"
+        "at": "2026-10-21T23:21:35.068Z"
       },
       "stats": {
         "searchRequests": 686,
@@ -294528,18 +294528,18 @@
       "refreshCursor": 200
     }
   },
-  "nextCountryIndex": 82,
+  "nextCountryIndex": 101,
   "nextDeltaCountryIndex": 47,
-  "nextRefreshCountryIndex": 198,
+  "nextRefreshCountryIndex": 200,
   "nextRediscoveryCountryIndex": 0,
-  "lastRunStartedAt": "2026-10-21T22:46:13.661Z",
-  "lastRunFinishedAt": "2026-10-21T23:19:49.263Z",
+  "lastRunStartedAt": "2026-10-21T23:20:33.340Z",
+  "lastRunFinishedAt": "2026-10-21T23:21:35.141Z",
   "stats": {
-    "searchRequests": 87968,
-    "enrichmentRequests": 231661,
-    "usersDiscovered": 5683390,
-    "usersEnriched": 4370505,
-    "usersRefreshed": 720864,
-    "usersKept": 2710927
+    "searchRequests": 87969,
+    "enrichmentRequests": 231667,
+    "usersDiscovered": 5683490,
+    "usersEnriched": 4370625,
+    "usersRefreshed": 720884,
+    "usersKept": 2711027
   }
 }
