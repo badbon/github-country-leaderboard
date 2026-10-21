@@ -40123,8 +40123,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 40,
-    "publicContributions": 61,
+    "privateContributions": 50,
+    "publicContributions": 104,
     "createdAt": "2023-03-22T15:18:01Z"
   },
   {
@@ -40146,9 +40146,9 @@
     "location": "stockholm",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 11,
     "createdAt": "2023-05-08T09:35:09Z"
   },
   {
@@ -40160,7 +40160,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 41,
     "createdAt": "2023-07-05T16:44:54Z"
   },
   {
@@ -40184,7 +40184,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 32,
     "createdAt": "2023-11-29T02:16:29Z"
   },
   {
@@ -40194,9 +40194,9 @@
     "location": "Stockholm",
     "company": "Perific",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 45,
+    "publicContributions": 55,
     "createdAt": "2023-11-13T14:50:31Z"
   },
   {
@@ -40224,20 +40224,8 @@
     "createdAt": "2023-04-13T06:40:51Z"
   },
   {
-    "login": "sokigo-ekelund",
-    "name": "Fredrik Ekelund",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/124348487?s=72&u=ad755b89cf5b766c5839b23dee733809192ddd99&v=4",
-    "location": "Stockholm",
-    "company": "Sokigo AB",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 6,
-    "createdAt": "2023-02-03T09:00:03Z"
-  },
-  {
     "login": "NonVerbSU",
-    "name": "",
+    "name": "Thomas Jack Samuels",
     "avatarUrl": "https://avatars.githubusercontent.com/u/129898626?s=72&v=4",
     "location": "Stockholm",
     "company": "Stockholm University",
@@ -40290,9 +40278,9 @@
     "location": "Stockholm",
     "company": "@Continental-Dev ",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 610,
+    "publicContributions": 1336,
     "createdAt": "2023-11-30T18:59:40Z"
   },
   {
@@ -40309,14 +40297,14 @@
   },
   {
     "login": "Inn-Keeper",
-    "name": "",
+    "name": "Dalton Castro",
     "avatarUrl": "https://avatars.githubusercontent.com/u/126582166?s=72&u=6b0a408b69b164262849ab2b0355d15d2e3274d2&v=4",
     "location": "Stockholm",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 294,
-    "publicContributions": 447,
+    "privateContributions": 445,
+    "publicContributions": 506,
     "createdAt": "2023-02-28T13:31:31Z"
   },
   {
@@ -40326,7 +40314,7 @@
     "location": "Sweden",
     "company": "",
     "twitterUsername": "",
-    "followers": 448,
+    "followers": 429,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-04-20T01:13:24Z"
@@ -40338,9 +40326,9 @@
     "location": "Stockholm, Sweden",
     "company": "",
     "twitterUsername": "",
-    "followers": 369,
-    "privateContributions": 59,
-    "publicContributions": 53,
+    "followers": 368,
+    "privateContributions": 592,
+    "publicContributions": 59,
     "createdAt": "2022-01-30T11:12:15Z"
   },
   {
@@ -40350,9 +40338,9 @@
     "location": "Sweden",
     "company": "",
     "twitterUsername": "",
-    "followers": 342,
+    "followers": 318,
     "privateContributions": 0,
-    "publicContributions": 209,
+    "publicContributions": 215,
     "createdAt": "2022-01-25T20:42:26Z"
   },
   {
