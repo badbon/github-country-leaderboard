@@ -41359,8 +41359,8 @@
     "company": "OKX",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 0,
+    "privateContributions": 1,
+    "publicContributions": 3,
     "createdAt": "2020-08-12T05:24:46Z"
   },
   {
@@ -41382,7 +41382,7 @@
     "location": "Hong Kong",
     "company": "@tencent",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2020-07-30T03:35:11Z"
@@ -41408,7 +41408,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 1,
     "createdAt": "2020-12-19T04:16:27Z"
   },
   {
@@ -41419,7 +41419,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 45,
+    "privateContributions": 17,
     "publicContributions": 0,
     "createdAt": "2020-09-22T01:00:06Z"
   },
@@ -41432,7 +41432,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 31,
+    "publicContributions": 36,
     "createdAt": "2020-08-14T16:47:15Z"
   },
   {
@@ -41440,11 +41440,11 @@
     "name": "Hazel",
     "avatarUrl": "https://avatars.githubusercontent.com/u/68174969?s=72&u=e112542a76252a2647488ce932a0b2607311d10c&v=4",
     "location": "Hong Kong",
-    "company": "",
+    "company": "UCLA",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 381,
-    "publicContributions": 30,
+    "privateContributions": 382,
+    "publicContributions": 31,
     "createdAt": "2020-07-12T03:34:23Z"
   },
   {
@@ -41455,8 +41455,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 0,
+    "privateContributions": 9,
+    "publicContributions": 13,
     "createdAt": "2020-08-29T15:00:15Z"
   },
   {
@@ -41466,9 +41466,9 @@
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 11,
     "createdAt": "2020-07-08T06:13:28Z"
   },
   {
@@ -41520,25 +41520,13 @@
     "createdAt": "2020-08-31T14:44:11Z"
   },
   {
-    "login": "ChengyanOo",
-    "name": "ChengyanOo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/69735000?s=72&u=0196b7944465f79a172de65ff1ad092ded8bf934&v=4",
-    "location": "Hong Kong",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 256,
-    "publicContributions": 10,
-    "createdAt": "2020-08-15T21:18:03Z"
-  },
-  {
     "login": "alexnmk",
     "name": "Alex Ng",
     "avatarUrl": "https://avatars.githubusercontent.com/u/73376820?s=72&u=070127989c653d40b0eae58bd3e09ad58eed5c57&v=4",
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-10-24T04:57:42Z"
@@ -41564,7 +41552,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 5,
     "createdAt": "2020-08-13T18:51:53Z"
   },
   {
@@ -41576,7 +41564,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 63,
+    "publicContributions": 70,
     "createdAt": "2020-11-19T00:37:47Z"
   },
   {
@@ -41588,7 +41576,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 9,
     "createdAt": "2020-10-05T10:50:50Z"
   },
   {
