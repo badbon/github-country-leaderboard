@@ -1,6 +1,6 @@
 # Followers - Luxembourg
 
-Generated: 2026-10-21T00:57:08.834Z
+Generated: 2026-10-21T02:36:36.709Z
 
 Users: 2190
 
@@ -22,7 +22,7 @@ Users: 2190
 | 14 | [phcollignon](https://github.com/phcollignon) | Philippe Collignon | StarObject |  | Luxembourg | 261 |
 | 15 | [Sn0wAlice](https://github.com/Sn0wAlice) | Alice Snow |  | Sn0wAlice | Luxembourg | 256 |
 | 16 | [iglocska](https://github.com/iglocska) | Andras Iklody | CIRCL | iglocska | Luxembourg | 229 |
-| 17 | [AndrejOrsula](https://github.com/AndrejOrsula) | Andrej Orsula | @snt-spacer |  | Luxembourg | 223 |
+| 17 | [AndrejOrsula](https://github.com/AndrejOrsula) | Andrej Orsula |  |  | Luxembourg | 223 |
 | 18 | [erkobridee](https://github.com/erkobridee) | Erko Bridee |  | erkobridee | Luxembourg | 212 |
 | 19 | [l4rz](https://github.com/l4rz) | Mike K. |  |  | Luxembourg | 197 |
 | 20 | [urosolia](https://github.com/urosolia) | Ugo Rosolia | Amazon | ugorosolia | Luxembourg, Lux | 192 |

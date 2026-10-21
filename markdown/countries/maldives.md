@@ -27,7 +27,7 @@ Indexed users: 354
 | 13 | [jaaahh](https://github.com/jaaahh) | Jaah | Maldives | 5,283 |
 | 14 | [ayarse](https://github.com/ayarse) | ayaz | Maldives | 5,150 |
 | 15 | [NeXsHeLL](https://github.com/NeXsHeLL) | ismile ThuThts | Maldives | 4,965 |
-| 16 | [N4ZEN](https://github.com/N4ZEN) | Naza | Maldives | 4,918 |
+| 16 | [N4ZEN](https://github.com/N4ZEN) | Naza | Maldives | 4,904 |
 | 17 | [roris](https://github.com/roris) | Thoail Ahmed | Maldives | 4,881 |
 | 18 | [muizzu](https://github.com/muizzu) | Muizzu Abbas | Maldives | 4,740 |
 | 19 | [samynmhd](https://github.com/samynmhd) | Mohamed Sameen Firaq | Maldives | 4,174 |
@@ -43,7 +43,7 @@ Indexed users: 354
 | 4 | [hilarl](https://github.com/hilarl) | Hilal Agil | Male', Maldives | 1,307 |
 | 5 | [mnazaal](https://github.com/mnazaal) | Nazaal | Maldives | 1,223 |
 | 6 | [MohammedAliSharafuddin](https://github.com/MohammedAliSharafuddin) | Mohammed Ali Sharafuddin | Malé, Maldives | 983 |
-| 7 | [Usagi5677](https://github.com/Usagi5677) | Naish | Maldives | 952 |
+| 7 | [Usagi5677](https://github.com/Usagi5677) | Naish | Maldives | 954 |
 | 8 | [ayarse](https://github.com/ayarse) | ayaz | Maldives | 722 |
 | 9 | [crockalet](https://github.com/crockalet) |  | Maldives | 680 |
 | 10 | [chipaau](https://github.com/chipaau) | ahmed shifau | Maldives | 637 |
@@ -83,4 +83,4 @@ Indexed users: 354
 | 19 | [muhannad0](https://github.com/muhannad0) | Monde | Maldives | 42 |
 | 20 | [inash](https://github.com/inash) | Inash Zubair | Male', Maldives | 41 |
 
-Generated: 2026-10-21T01:01:04.152Z
+Generated: 2026-10-21T02:38:41.072Z

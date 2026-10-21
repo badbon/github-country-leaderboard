@@ -27,7 +27,7 @@ Indexed users: 1,902
 | 13 | [amel-sc](https://github.com/amel-sc) | Amel CHARLES | Madagascar | 6,519 |
 | 14 | [Andryrasolofomanana](https://github.com/Andryrasolofomanana) | Andry Rasolofomanana | Madagascar | 5,795 |
 | 15 | [Dokja620](https://github.com/Dokja620) | Axel RAKOTOARIVAO | Madagascar, Antananarivo | 5,625 |
-| 16 | [andostronaut](https://github.com/andostronaut) | Ando | Antananarivo, MG | 5,129 |
+| 16 | [andostronaut](https://github.com/andostronaut) | Ando | Antananarivo, MG | 5,503 |
 | 17 | [Emii-lia](https://github.com/Emii-lia) | Fiaro Miangaly | Madagascar | 5,075 |
 | 18 | [fatratra-png](https://github.com/fatratra-png) | RAFANOMEZANTSOA Ny Fatratra | Antananarivo, Madagascar | 5,064 |
 | 19 | [jckylalaina](https://github.com/jckylalaina) | Jacky Randrianarivony | Antananarivo, Madagascar | 5,037 |
@@ -83,4 +83,4 @@ Indexed users: 1,902
 | 19 | [tokyramarozaka](https://github.com/tokyramarozaka) | Tokimahery | Madagascar | 143 |
 | 20 | [luckasRanarison](https://github.com/luckasRanarison) | Luckas | Antananarivo, Madagascar | 141 |
 
-Generated: 2026-10-21T00:58:34.897Z
+Generated: 2026-10-21T02:36:45.563Z

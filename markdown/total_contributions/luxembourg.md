@@ -1,6 +1,6 @@
 # Total Contributions - Luxembourg
 
-Generated: 2026-10-21T00:57:08.834Z
+Generated: 2026-10-21T02:36:36.709Z
 
 Users: 2190
 
@@ -19,8 +19,8 @@ Users: 2190
 | 11 | [kboumedal](https://github.com/kboumedal) | Kevin | @LuxApps  |  | Luxembourg | 11268 |
 | 12 | [bolivian-peru](https://github.com/bolivian-peru) | peruvian |  |  | Luxembourg | 9289 |
 | 13 | [SignedAdam](https://github.com/SignedAdam) | adam | Narkis.ai | signed_adam | Luxembourg | 9137 |
-| 14 | [samtin0x](https://github.com/samtin0x) | samtin0x |  |  | Luxembourg | 8230 |
-| 15 | [AndrejOrsula](https://github.com/AndrejOrsula) | Andrej Orsula | @snt-spacer |  | Luxembourg | 7040 |
+| 14 | [AndrejOrsula](https://github.com/AndrejOrsula) | Andrej Orsula |  |  | Luxembourg | 8733 |
+| 15 | [samtin0x](https://github.com/samtin0x) | samtin0x |  |  | Luxembourg | 8230 |
 | 16 | [b-rodrigues](https://github.com/b-rodrigues) | Bruno Rodrigues | MESR, Luxembourg | brodriguesco | Luxembourg-City, Luxembourg | 6927 |
 | 17 | [leobenkel-db](https://github.com/leobenkel-db) | Leo Benkel (bot)  | PURE LAMBDA | LeoBenkel | Luxembourg | 6787 |
 | 18 | [nicolasguelfi](https://github.com/nicolasguelfi) | Nicolas Guelfi | Right-On-Skill |  | Esch-sur-Alzette, Luxembourg | 6213 |
