@@ -10159,7 +10159,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1414,
+    "privateContributions": 1356,
     "publicContributions": 1,
     "createdAt": "2015-07-06T10:04:58Z"
   },
@@ -10196,7 +10196,7 @@
     "twitterUsername": "",
     "followers": 441,
     "privateContributions": 0,
-    "publicContributions": 2984,
+    "publicContributions": 3104,
     "createdAt": "2014-05-27T01:42:44Z"
   },
   {
@@ -10207,8 +10207,8 @@
     "company": "@haveibeensquatted",
     "twitterUsername": "juxhindb",
     "followers": 142,
-    "privateContributions": 2517,
-    "publicContributions": 93,
+    "privateContributions": 2889,
+    "publicContributions": 95,
     "createdAt": "2014-06-27T11:38:33Z"
   },
   {
@@ -10230,7 +10230,7 @@
     "location": "Malta",
     "company": "AP Tech",
     "twitterUsername": "",
-    "followers": 56,
+    "followers": 55,
     "privateContributions": 0,
     "publicContributions": 5,
     "createdAt": "2014-09-16T18:32:14Z"
@@ -10243,8 +10243,8 @@
     "company": "",
     "twitterUsername": "ivanmolto",
     "followers": 47,
-    "privateContributions": 735,
-    "publicContributions": 1015,
+    "privateContributions": 769,
+    "publicContributions": 1039,
     "createdAt": "2014-04-27T16:17:50Z"
   },
   {
@@ -10254,22 +10254,10 @@
     "location": "Malta",
     "company": "Phoenix 7",
     "twitterUsername": "",
-    "followers": 43,
-    "privateContributions": 1318,
+    "followers": 45,
+    "privateContributions": 1354,
     "publicContributions": 41,
     "createdAt": "2014-11-19T14:26:32Z"
-  },
-  {
-    "login": "max-lt",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/9805205?s=72&u=54f28b08ecec310500c04dceb6424b8debf1e883&v=4",
-    "location": "Malta",
-    "company": "@OpenWorkers",
-    "twitterUsername": "",
-    "followers": 45,
-    "privateContributions": 1582,
-    "publicContributions": 1700,
-    "createdAt": "2014-11-17T17:20:47Z"
   },
   {
     "login": "simonamdev",
@@ -10292,7 +10280,7 @@
     "twitterUsername": "",
     "followers": 40,
     "privateContributions": 5421,
-    "publicContributions": 123,
+    "publicContributions": 122,
     "createdAt": "2014-07-05T14:20:50Z"
   },
   {
@@ -10304,7 +10292,7 @@
     "twitterUsername": "",
     "followers": 36,
     "privateContributions": 0,
-    "publicContributions": 114,
+    "publicContributions": 115,
     "createdAt": "2014-11-28T20:49:06Z"
   },
   {
