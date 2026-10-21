@@ -39415,7 +39415,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 12,
+    "privateContributions": 20,
     "publicContributions": 0,
     "createdAt": "2021-11-30T14:27:41Z"
   },
@@ -39427,7 +39427,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 112,
+    "privateContributions": 122,
     "publicContributions": 8,
     "createdAt": "2021-11-07T12:48:57Z"
   },
@@ -39439,8 +39439,8 @@
     "company": "VTT Finland",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 173,
-    "publicContributions": 94,
+    "privateContributions": 545,
+    "publicContributions": 552,
     "createdAt": "2021-03-19T14:08:41Z"
   },
   {
@@ -39450,7 +39450,7 @@
     "location": "Finland",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 84,
     "createdAt": "2021-03-12T15:12:17Z"
@@ -39512,7 +39512,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 320,
+    "publicContributions": 244,
     "createdAt": "2021-02-01T10:01:04Z"
   },
   {
@@ -39542,13 +39542,13 @@
   {
     "login": "nikoleinonen",
     "name": "Leiksa",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/81411438?s=72&u=709beed4d30b76f3c6e40f0df991fb2342812b6f&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/81411438?s=72&u=e94f6128f4faa0316a2737eab2c9f44ed399e325&v=4",
     "location": "Finland",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 892,
-    "publicContributions": 11,
+    "privateContributions": 1382,
+    "publicContributions": 76,
     "createdAt": "2021-03-26T08:39:32Z"
   },
   {
@@ -39596,7 +39596,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 32,
     "createdAt": "2021-08-30T08:30:17Z"
   },
   {
@@ -39607,7 +39607,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
+    "privateContributions": 105,
     "publicContributions": 3,
     "createdAt": "2021-10-24T21:23:34Z"
   },
