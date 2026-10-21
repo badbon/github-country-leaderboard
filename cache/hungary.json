@@ -41071,33 +41071,21 @@
     "company": "",
     "twitterUsername": "AhmedBhouri",
     "followers": 28,
-    "privateContributions": 64,
-    "publicContributions": 76,
+    "privateContributions": 79,
+    "publicContributions": 77,
     "createdAt": "2019-04-23T19:10:44Z"
   },
   {
     "login": "bks1b",
-    "name": "",
+    "name": "Békési Bence",
     "avatarUrl": "https://avatars.githubusercontent.com/u/56838314?s=72&u=c74e7e439bd3b46a3cfd799d1cfe30cfb2d5feac&v=4",
     "location": "Hungary",
-    "company": "ELTE FI",
+    "company": "ELTE IK",
     "twitterUsername": "",
     "followers": 28,
     "privateContributions": 0,
-    "publicContributions": 126,
+    "publicContributions": 103,
     "createdAt": "2019-10-21T15:49:53Z"
-  },
-  {
-    "login": "Rufasgardian",
-    "name": "Rufat Huseynov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/48159215?s=72&u=7afc54477d2c19e23c5e00af0ca4166d42c5838f&v=4",
-    "location": "Budapest, Hungary",
-    "company": "Itron, Inc.",
-    "twitterUsername": "",
-    "followers": 27,
-    "privateContributions": 72,
-    "publicContributions": 1,
-    "createdAt": "2019-03-02T16:28:25Z"
   },
   {
     "login": "stitam",
@@ -41106,9 +41094,9 @@
     "location": "Szeged, Hungary",
     "company": "Biological Research Centre",
     "twitterUsername": "",
-    "followers": 27,
-    "privateContributions": 2094,
-    "publicContributions": 498,
+    "followers": 29,
+    "privateContributions": 1879,
+    "publicContributions": 501,
     "createdAt": "2019-04-01T08:54:11Z"
   },
   {
@@ -41118,9 +41106,9 @@
     "location": "Hungary",
     "company": "",
     "twitterUsername": "",
-    "followers": 27,
-    "privateContributions": 110,
-    "publicContributions": 186,
+    "followers": 29,
+    "privateContributions": 61,
+    "publicContributions": 77,
     "createdAt": "2019-09-22T09:17:51Z"
   },
   {
@@ -41131,8 +41119,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 27,
-    "privateContributions": 12,
-    "publicContributions": 11,
+    "privateContributions": 14,
+    "publicContributions": 19,
     "createdAt": "2019-05-04T13:43:23Z"
   },
   {
@@ -41142,9 +41130,9 @@
     "location": "Hungary",
     "company": "",
     "twitterUsername": "",
-    "followers": 25,
+    "followers": 26,
     "privateContributions": 0,
-    "publicContributions": 107,
+    "publicContributions": 148,
     "createdAt": "2019-09-21T15:14:41Z"
   },
   {
@@ -41167,7 +41155,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 25,
-    "privateContributions": 280,
+    "privateContributions": 269,
     "publicContributions": 1,
     "createdAt": "2019-01-18T18:06:57Z"
   },
@@ -41178,9 +41166,9 @@
     "location": "Hungary",
     "company": "@Bloom-host",
     "twitterUsername": "",
-    "followers": 23,
-    "privateContributions": 983,
-    "publicContributions": 61,
+    "followers": 25,
+    "privateContributions": 1242,
+    "publicContributions": 63,
     "createdAt": "2019-01-01T11:34:37Z"
   },
   {
@@ -41190,7 +41178,7 @@
     "location": "Miskolc, Hungary",
     "company": "",
     "twitterUsername": "iklevente",
-    "followers": 22,
+    "followers": 23,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-04-20T17:31:09Z"
@@ -41202,7 +41190,7 @@
     "location": "Hungary",
     "company": "Investing.com",
     "twitterUsername": "",
-    "followers": 22,
+    "followers": 23,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-06-12T00:12:16Z"
@@ -41214,8 +41202,8 @@
     "location": "Budapest, Hungary",
     "company": "",
     "twitterUsername": "HeyImSophie00",
-    "followers": 21,
-    "privateContributions": 10,
+    "followers": 20,
+    "privateContributions": 16,
     "publicContributions": 15,
     "createdAt": "2019-10-08T06:07:01Z"
   },
@@ -41226,8 +41214,8 @@
     "location": "Budapest, Hungary",
     "company": "Corexas Consulting Group",
     "twitterUsername": "",
-    "followers": 20,
-    "privateContributions": 459,
+    "followers": 21,
+    "privateContributions": 635,
     "publicContributions": 64,
     "createdAt": "2019-12-01T09:32:31Z"
   },
@@ -41238,9 +41226,9 @@
     "location": "Orosháza, Hungary",
     "company": "dtech(.hu)",
     "twitterUsername": "",
-    "followers": 20,
+    "followers": 21,
     "privateContributions": 6,
-    "publicContributions": 194,
+    "publicContributions": 237,
     "createdAt": "2019-04-03T09:21:31Z"
   },
   {
@@ -41258,13 +41246,13 @@
   {
     "login": "baxy5",
     "name": "Janos Bakos",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/58151931?s=72&u=f65b2c81fae1a22fcff6054f26c96114446f33ab&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/58151931?s=72&u=72d8857f205cb61a534c150878eaa84eecea7c87&v=4",
     "location": "Hungary",
     "company": "Hiflylabs",
     "twitterUsername": "",
-    "followers": 19,
-    "privateContributions": 1268,
-    "publicContributions": 93,
+    "followers": 21,
+    "privateContributions": 1109,
+    "publicContributions": 48,
     "createdAt": "2019-11-24T22:30:47Z"
   },
   {
@@ -41274,9 +41262,9 @@
     "location": "Hungary",
     "company": "",
     "twitterUsername": "",
-    "followers": 19,
-    "privateContributions": 625,
-    "publicContributions": 45,
+    "followers": 21,
+    "privateContributions": 726,
+    "publicContributions": 22,
     "createdAt": "2019-10-23T13:10:08Z"
   },
   {
@@ -41287,8 +41275,8 @@
     "company": "ELTE Faculty of Informatics, Department of Programming Languages and Compilers",
     "twitterUsername": "",
     "followers": 19,
-    "privateContributions": 51,
-    "publicContributions": 121,
+    "privateContributions": 48,
+    "publicContributions": 98,
     "createdAt": "2019-03-11T12:12:00Z"
   },
   {
@@ -41298,9 +41286,9 @@
     "location": "Hungary",
     "company": "",
     "twitterUsername": "BataZotya",
-    "followers": 18,
-    "privateContributions": 64,
-    "publicContributions": 36,
+    "followers": 20,
+    "privateContributions": 63,
+    "publicContributions": 32,
     "createdAt": "2019-02-22T16:14:35Z"
   },
   {

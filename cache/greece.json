@@ -41108,7 +41108,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 0,
     "createdAt": "2021-03-28T15:35:44Z"
   },
   {
@@ -41120,7 +41120,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 93,
+    "publicContributions": 81,
     "createdAt": "2021-01-07T23:59:31Z"
   },
   {
@@ -41179,8 +41179,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 24,
-    "publicContributions": 69,
+    "privateContributions": 6,
+    "publicContributions": 0,
     "createdAt": "2021-01-16T17:34:36Z"
   },
   {
@@ -41192,7 +41192,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 414,
+    "publicContributions": 366,
     "createdAt": "2021-04-28T16:52:07Z"
   },
   {
@@ -41210,13 +41210,13 @@
   {
     "login": "rgndxzzk",
     "name": "regen",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/81023378?s=72&u=e0780164663a9ce5b9430c7398789658d97ab651&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/81023378?s=72&u=78d018fb5d048972e6607ef8aecd7a5ea752b41f&v=4",
     "location": "greece",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 4,
     "createdAt": "2021-03-20T12:59:18Z"
   },
   {
@@ -41238,9 +41238,9 @@
     "location": "Greece",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 117,
-    "publicContributions": 116,
+    "followers": 3,
+    "privateContributions": 110,
+    "publicContributions": 54,
     "createdAt": "2021-01-02T13:57:23Z"
   },
   {
@@ -41262,22 +41262,10 @@
     "location": "Kozani - Karditsa, Greece",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-03-22T07:01:50Z"
-  },
-  {
-    "login": "kyriakos02",
-    "name": "Kyriakos Kichis",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/79278739?s=72&v=4",
-    "location": "Piraeus, Greece",
-    "company": "Department of Informatics, University of Piraeus",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 3,
-    "createdAt": "2021-02-18T18:33:12Z"
   },
   {
     "login": "Paleroukos",
@@ -41292,27 +41280,15 @@
     "createdAt": "2021-02-17T07:01:52Z"
   },
   {
-    "login": "nalvanidis",
-    "name": "Nikos Alvanidis",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/82321435?s=72&v=4",
-    "location": "Athens, Greece",
-    "company": "Dept. of Electrical and Electronics Engineering, UniWA",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 44,
-    "createdAt": "2021-04-11T13:06:44Z"
-  },
-  {
     "login": "teo3670",
     "name": "Theodoros Drachtidis",
     "avatarUrl": "https://avatars.githubusercontent.com/u/85419547?s=72&u=24ae9b9df44a77b07a2526a418ac7e842edfb977&v=4",
     "location": "Greece",
     "company": "Athens University of Economics & Business",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 21,
+    "followers": 6,
+    "privateContributions": 352,
+    "publicContributions": 37,
     "createdAt": "2021-06-05T23:34:39Z"
   },
   {
@@ -41324,7 +41300,7 @@
     "twitterUsername": "Unipuff_",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 37,
+    "publicContributions": 62,
     "createdAt": "2021-04-30T10:45:46Z"
   },
   {
