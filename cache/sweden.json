@@ -38936,7 +38936,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 0,
     "createdAt": "2023-09-08T12:37:43Z"
   },
   {
@@ -38948,7 +38948,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 42,
+    "publicContributions": 3,
     "createdAt": "2023-11-20T20:10:19Z"
   },
   {
@@ -38959,7 +38959,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 76,
+    "privateContributions": 53,
     "publicContributions": 0,
     "createdAt": "2023-09-06T11:19:53Z"
   },
@@ -38996,7 +38996,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 39,
+    "publicContributions": 130,
     "createdAt": "2023-08-30T11:19:10Z"
   },
   {
@@ -39008,7 +39008,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 190,
+    "publicContributions": 248,
     "createdAt": "2023-12-19T21:18:56Z"
   },
   {
@@ -39030,9 +39030,9 @@
     "location": "Stockholm ",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 109,
-    "publicContributions": 6,
+    "followers": 3,
+    "privateContributions": 110,
+    "publicContributions": 5,
     "createdAt": "2023-02-27T13:51:39Z"
   },
   {
@@ -39060,18 +39060,6 @@
     "createdAt": "2023-08-17T08:12:06Z"
   },
   {
-    "login": "MickeR94",
-    "name": "Mikael",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/137923338?s=72&v=4",
-    "location": "Stockholm",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 39,
-    "createdAt": "2023-06-27T17:14:43Z"
-  },
-  {
     "login": "Blacknapoleon99",
     "name": "Kevin Lübeck",
     "avatarUrl": "https://avatars.githubusercontent.com/u/127541113?s=72&v=4",
@@ -39080,7 +39068,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 50,
+    "publicContributions": 96,
     "createdAt": "2023-03-10T17:42:49Z"
   },
   {
@@ -39090,9 +39078,9 @@
     "location": "Stockholm",
     "company": "@OwnTube-tv",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 1479,
-    "publicContributions": 117,
+    "followers": 3,
+    "privateContributions": 1492,
+    "publicContributions": 86,
     "createdAt": "2023-01-23T14:43:29Z"
   },
   {
@@ -39102,9 +39090,9 @@
     "location": "Stockholm",
     "company": "@KTH",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 274,
-    "publicContributions": 46,
+    "followers": 2,
+    "privateContributions": 238,
+    "publicContributions": 68,
     "createdAt": "2023-05-16T06:22:08Z"
   },
   {
@@ -39128,7 +39116,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 94,
+    "publicContributions": 81,
     "createdAt": "2023-06-06T04:36:29Z"
   },
   {
