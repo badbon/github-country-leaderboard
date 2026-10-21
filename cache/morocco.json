@@ -39104,7 +39104,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 33,
+    "publicContributions": 31,
     "createdAt": "2022-02-07T23:16:59Z"
   },
   {
@@ -39126,8 +39126,8 @@
     "location": "Morocco",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 0,
+    "followers": 7,
+    "privateContributions": 31,
     "publicContributions": 0,
     "createdAt": "2022-05-16T14:58:18Z"
   },
@@ -39140,20 +39140,8 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 7,
     "createdAt": "2022-03-29T01:41:42Z"
-  },
-  {
-    "login": "heynzar",
-    "name": "nzar",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/98880087?s=72&u=ed30675f3a283507e67aa1a63964dc3c87afb2d6&v=4",
-    "location": "Morocco",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 0,
-    "publicContributions": 176,
-    "createdAt": "2022-02-02T09:56:43Z"
   },
   {
     "login": "Abdellah-Idrissi",
@@ -39174,9 +39162,9 @@
     "location": "morocco",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 60,
+    "publicContributions": 12,
     "createdAt": "2022-04-06T19:34:29Z"
   },
   {
@@ -39198,7 +39186,7 @@
     "location": "Rabat, Morocco",
     "company": "School of Information Sciences",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-06-12T20:22:25Z"
@@ -39224,7 +39212,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 70,
+    "publicContributions": 71,
     "createdAt": "2022-06-15T18:17:29Z"
   },
   {
@@ -39243,12 +39231,12 @@
     "login": "scorpionTaj",
     "name": "Tajeddine Bourhim",
     "avatarUrl": "https://avatars.githubusercontent.com/u/96800858?s=72&u=d90ce2e88a60958d518a6bebf26c18d38f255f31&v=4",
-    "location": "Meknes , Morocco",
+    "location": "Beni Mellal , Morocco",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 267,
+    "publicContributions": 508,
     "createdAt": "2021-12-28T23:35:59Z"
   },
   {
@@ -39260,7 +39248,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 157,
     "createdAt": "2022-05-11T10:17:44Z"
   },
   {
@@ -39283,8 +39271,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 125,
-    "publicContributions": 22,
+    "privateContributions": 115,
+    "publicContributions": 56,
     "createdAt": "2022-01-31T20:07:03Z"
   },
   {
@@ -39294,9 +39282,9 @@
     "location": "morocco",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 8,
     "createdAt": "2022-05-31T19:43:33Z"
   },
   {
@@ -39319,7 +39307,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 559,
+    "privateContributions": 539,
     "publicContributions": 0,
     "createdAt": "2022-06-27T01:18:13Z"
   },
