@@ -13,9 +13,9 @@ Indexed users: 865
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [abdirahman-sharmarke](https://github.com/abdirahman-sharmarke) | ᵃᵇᵈⁱ | Somalia/ Mogdisho | 9,175 |
-| 2 | [mohaaosman](https://github.com/mohaaosman) | Mohamed Osman | Mogadishu, Banaadir, Somalia | 8,511 |
+| 2 | [mohaaosman](https://github.com/mohaaosman) | Mohamed Osman | Mogadishu, Banaadir, Somalia | 8,651 |
 | 3 | [hanadderia](https://github.com/hanadderia) | Abdulshakur Ahmed | Mogadishu, Somalia | 7,746 |
-| 4 | [baaslaawe](https://github.com/baaslaawe) | Abdalla Hassan Awale | somalia | 7,205 |
+| 4 | [baaslaawe](https://github.com/baaslaawe) | Abdalla Hassan Awale | somalia | 7,283 |
 | 5 | [khalidhussein957](https://github.com/khalidhussein957) | khalid Hussein | Mogadishu Somalia | 6,974 |
 | 6 | [hayle01](https://github.com/hayle01) |  Mohamed Abdirahim | Mogadishu, Somalia | 6,605 |
 | 7 | [yousumohamed](https://github.com/yousumohamed) | Yousuf Mohamed | somalia | 6,099 |
@@ -83,4 +83,4 @@ Indexed users: 865
 | 19 | [Hasson23](https://github.com/Hasson23) | Hassan Abdullah   | Somalia - Mogadishu  | 101 |
 | 20 | [AbdifatahYasin1](https://github.com/AbdifatahYasin1) | Abdifatah Yasin Yusuf | Somalia, Hargeisa  | 96 |
 
-Generated: 2026-10-21T14:40:46.928Z
+Generated: 2026-10-21T16:19:23.971Z

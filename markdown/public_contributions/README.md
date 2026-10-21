@@ -197,15 +197,15 @@ Published countries: 234
 | Slovenia | 3,095 | [View](./slovenia.md) |
 | Solomon Islands | 19 | [View](./solomon_islands.md) |
 | Somalia | 865 | [View](./somalia.md) |
-| South Africa | 17,922 | [View](./south_africa.md) |
+| South Africa | 17,921 | [View](./south_africa.md) |
 | South Georgia | 6 | [View](./south_georgia.md) |
-| South Korea | 56,906 | [View](./south_korea.md) |
+| South Korea | 56,905 | [View](./south_korea.md) |
 | South Sudan | 132 | [View](./south_sudan.md) |
 | Sri Lanka | 18,306 | [View](./sri_lanka.md) |
 | Sudan | 727 | [View](./sudan.md) |
 | Suriname | 123 | [View](./suriname.md) |
 | Svalbard and Jan Mayen | 10 | [View](./svalbard_and_jan_mayen.md) |
-| Sweden | 39,025 | [View](./sweden.md) |
+| Sweden | 39,024 | [View](./sweden.md) |
 | Switzerland | 24,074 | [View](./switzerland.md) |
 | Syria | 1,478 | [View](./syria.md) |
 | Taiwan | 21,993 | [View](./taiwan.md) |
@@ -239,4 +239,4 @@ Published countries: 234
 | Zambia | 1,336 | [View](./zambia.md) |
 | Zimbabwe | 1,656 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-21T16:16:04.043Z
+Generated: 2026-10-21T16:25:32.973Z

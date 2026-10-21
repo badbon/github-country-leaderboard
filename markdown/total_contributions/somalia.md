@@ -1,15 +1,15 @@
 # Total Contributions - Somalia
 
-Generated: 2026-10-21T14:40:46.928Z
+Generated: 2026-10-21T16:19:23.971Z
 
 Users: 865
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [abdirahman-sharmarke](https://github.com/abdirahman-sharmarke) | ᵃᵇᵈⁱ | Astaan  |  | Somalia/ Mogdisho | 9175 |
-| 2 | [mohaaosman](https://github.com/mohaaosman) | Mohamed Osman |  | moha_a_osman | Mogadishu, Banaadir, Somalia | 8511 |
+| 2 | [mohaaosman](https://github.com/mohaaosman) | Mohamed Osman |  | moha_a_osman | Mogadishu, Banaadir, Somalia | 8651 |
 | 3 | [hanadderia](https://github.com/hanadderia) | Abdulshakur Ahmed | SOMALI PAYMENT SWITCH (SPS) |  | Mogadishu, Somalia | 7746 |
-| 4 | [baaslaawe](https://github.com/baaslaawe) | Abdalla Hassan Awale | @Adwaar Technologies | baaslaawe | somalia | 7205 |
+| 4 | [baaslaawe](https://github.com/baaslaawe) | Abdalla Hassan Awale | @Adwaar Technologies | baaslaawe | somalia | 7283 |
 | 5 | [khalidhussein957](https://github.com/khalidhussein957) | khalid Hussein | Impetik Ltd |  | Mogadishu Somalia | 6974 |
 | 6 | [hayle01](https://github.com/hayle01) |  Mohamed Abdirahim |  |  | Mogadishu, Somalia | 6605 |
 | 7 | [yousumohamed](https://github.com/yousumohamed) | Yousuf Mohamed | @Sahan-Labs  |  | somalia | 6099 |
