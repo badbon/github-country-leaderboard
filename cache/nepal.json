@@ -40160,7 +40160,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 0,
     "createdAt": "2023-04-28T06:16:40Z"
   },
   {
@@ -40171,7 +40171,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 21,
+    "privateContributions": 1,
     "publicContributions": 2,
     "createdAt": "2023-06-05T15:51:21Z"
   },
@@ -40195,8 +40195,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 94,
-    "publicContributions": 190,
+    "privateContributions": 334,
+    "publicContributions": 10,
     "createdAt": "2023-04-02T11:40:20Z"
   },
   {
@@ -40208,7 +40208,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 116,
+    "publicContributions": 5,
     "createdAt": "2023-03-16T11:20:58Z"
   },
   {
@@ -40220,7 +40220,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 68,
+    "publicContributions": 99,
     "createdAt": "2023-05-26T05:29:54Z"
   },
   {
@@ -40230,7 +40230,7 @@
     "location": "Kathmandu Nepal",
     "company": "",
     "twitterUsername": "Aalok5hah",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-01-22T12:58:18Z"
@@ -40255,8 +40255,8 @@
     "company": "Kalodhunga Creation",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1,
-    "publicContributions": 165,
+    "privateContributions": 0,
+    "publicContributions": 15,
     "createdAt": "2023-04-01T07:51:21Z"
   },
   {
@@ -40267,8 +40267,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 447,
-    "publicContributions": 121,
+    "privateContributions": 506,
+    "publicContributions": 123,
     "createdAt": "2023-06-13T16:40:22Z"
   },
   {
@@ -40280,7 +40280,7 @@
     "twitterUsername": "Shrestha_101",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 192,
+    "publicContributions": 166,
     "createdAt": "2023-05-26T18:58:04Z"
   },
   {
@@ -40302,22 +40302,10 @@
     "location": "Dhangadhi-13, Kailali, Nepal",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 18,
     "createdAt": "2023-01-28T10:11:29Z"
-  },
-  {
-    "login": "Delip-88",
-    "name": "Delip Shrestha",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/124771314?s=72&u=ada4b0f0486ca58e9bc7e65e334e0e08c650f7ee&v=4",
-    "location": "Nepal",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 9,
-    "createdAt": "2023-02-08T08:19:32Z"
   },
   {
     "login": "AyushKazi",
@@ -40345,14 +40333,14 @@
   },
   {
     "login": "francispandey",
-    "name": "Jimmy",
+    "name": "Francis",
     "avatarUrl": "https://avatars.githubusercontent.com/u/130632228?s=72&u=16ffaa64c3512d5812783d29c0e5405c1b64618b&v=4",
     "location": "Nepal",
     "company": "None",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 24,
     "createdAt": "2023-04-13T04:54:47Z"
   },
   {
@@ -40362,9 +40350,9 @@
     "location": "Nepal",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 126,
-    "publicContributions": 233,
+    "followers": 4,
+    "privateContributions": 257,
+    "publicContributions": 252,
     "createdAt": "2023-01-17T09:06:43Z"
   },
   {
@@ -40374,9 +40362,9 @@
     "location": "Kathmandu, Nepal",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 9,
-    "publicContributions": 58,
+    "publicContributions": 59,
     "createdAt": "2023-05-15T13:03:22Z"
   },
   {

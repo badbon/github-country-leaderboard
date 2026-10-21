@@ -40399,8 +40399,8 @@
     "company": "@Proventus-AS ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 341,
-    "publicContributions": 17,
+    "privateContributions": 64,
+    "publicContributions": 0,
     "createdAt": "2021-01-09T11:39:45Z"
   },
   {
@@ -40436,7 +40436,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2021-02-03T20:13:56Z"
   },
   {
@@ -40507,8 +40507,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 366,
-    "publicContributions": 63,
+    "privateContributions": 1054,
+    "publicContributions": 4,
     "createdAt": "2021-08-24T09:35:05Z"
   },
   {
@@ -40520,19 +40520,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2021-02-26T15:24:31Z"
   },
   {
     "login": "MariuszADS",
     "name": "Kacper",
     "avatarUrl": "https://avatars.githubusercontent.com/u/90192899?s=72&u=d9597441f0d01ca6ca8689f25cc1c69d18bd59ed&v=4",
-    "location": "Norway,Bærum Jar",
+    "location": "Norway,Bærum",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 176,
+    "publicContributions": 95,
     "createdAt": "2021-09-06T11:44:34Z"
   },
   {
@@ -40560,18 +40560,6 @@
     "createdAt": "2021-03-04T12:53:14Z"
   },
   {
-    "login": "g4rez",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/90007902?s=72&u=e368e1bd73b0624f47cd3ef9921218e34aefc163&v=4",
-    "location": "Oslo, Oslo, Norway",
-    "company": "Schweis INC.",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 11,
-    "createdAt": "2021-09-02T21:15:36Z"
-  },
-  {
     "login": "hrsut",
     "name": "Handita Sutoyo",
     "avatarUrl": "https://avatars.githubusercontent.com/u/89432756?s=72&v=4",
@@ -40579,8 +40567,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 3,
-    "publicContributions": 43,
+    "privateContributions": 6,
+    "publicContributions": 33,
     "createdAt": "2021-08-24T01:46:54Z"
   },
   {

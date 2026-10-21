@@ -968,7 +968,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-10-13T15:57:48Z"
   },
   {
@@ -980,7 +980,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 218,
+    "publicContributions": 215,
     "createdAt": "2025-03-02T05:08:11Z"
   },
   {
@@ -991,8 +991,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 228,
-    "publicContributions": 13,
+    "privateContributions": 254,
+    "publicContributions": 10,
     "createdAt": "2025-09-06T19:15:06Z"
   },
   {
@@ -1014,9 +1014,9 @@
     "location": "Riga",
     "company": "Emergn ",
     "twitterUsername": "RepriseLoans",
-    "followers": 1124,
+    "followers": 1147,
     "privateContributions": 2,
-    "publicContributions": 771,
+    "publicContributions": 770,
     "createdAt": "2025-08-12T00:49:01Z"
   },
   {
@@ -1026,7 +1026,7 @@
     "location": "Riga",
     "company": "FeverLabs",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 55,
     "createdAt": "2025-06-19T04:36:45Z"
@@ -1046,13 +1046,13 @@
   {
     "login": "ap2912",
     "name": "Aditya",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/232320591?s=72&u=1d812d800099b1536c1329a0270b80a775ed4624&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/232320591?s=72&u=1671477527a915c469d065528cfa1913a6a2732d&v=4",
     "location": "Riga",
     "company": "",
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 35,
+    "publicContributions": 38,
     "createdAt": "2025-09-15T07:49:12Z"
   },
   {
@@ -1076,7 +1076,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 299,
+    "publicContributions": 301,
     "createdAt": "2025-08-22T10:59:56Z"
   },
   {
@@ -1100,7 +1100,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 143,
+    "publicContributions": 140,
     "createdAt": "2025-05-21T11:58:25Z"
   },
   {
@@ -1182,9 +1182,9 @@
     "location": "latvia, valmiera",
     "company": "student",
     "twitterUsername": "markdemidovs",
-    "followers": 39,
-    "privateContributions": 407,
-    "publicContributions": 699,
+    "followers": 41,
+    "privateContributions": 437,
+    "publicContributions": 661,
     "createdAt": "2024-06-03T10:33:59Z"
   },
   {
@@ -1194,7 +1194,7 @@
     "location": "latvia",
     "company": "Ventspils University of Applied Science",
     "twitterUsername": "khezajoel",
-    "followers": 33,
+    "followers": 32,
     "privateContributions": 3,
     "publicContributions": 42,
     "createdAt": "2024-01-21T09:44:53Z"
