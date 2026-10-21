@@ -41204,7 +41204,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 350,
-    "publicContributions": 115,
+    "publicContributions": 272,
     "createdAt": "2019-09-02T15:48:35Z"
   },
   {
@@ -41240,7 +41240,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2019-01-21T17:56:24Z"
   },
   {
@@ -41250,8 +41250,8 @@
     "location": "Tbilisi, Georgia",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 103,
+    "followers": 2,
+    "privateContributions": 64,
     "publicContributions": 9,
     "createdAt": "2019-10-28T18:50:44Z"
   },
@@ -41276,7 +41276,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 3,
     "createdAt": "2019-07-09T04:02:57Z"
   },
   {
@@ -41286,21 +41286,21 @@
     "location": "Georgia, Tbilisi",
     "company": "PSP",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 444,
+    "followers": 5,
+    "privateContributions": 406,
     "publicContributions": 1,
     "createdAt": "2019-04-08T22:19:49Z"
   },
   {
     "login": "noopntr",
     "name": "Nodo Kobakhidze",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/48395108?s=72&u=9a3136a9aa49e24324ee4fc68eef280b81a2f728&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/48395108?s=72&u=a290287cd946ccd4f86c50a80e84d9a9c6a4d26f&v=4",
     "location": "Tbilisi, Georgia",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 2533,
-    "publicContributions": 40,
+    "followers": 4,
+    "privateContributions": 2791,
+    "publicContributions": 7,
     "createdAt": "2019-03-09T22:43:24Z"
   },
   {
@@ -41334,7 +41334,7 @@
     "location": "Georgia",
     "company": "Premium Tech Solutions, LLC",
     "twitterUsername": "Charlie15081989",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 11,
     "createdAt": "2019-08-09T14:29:07Z"
@@ -41347,7 +41347,7 @@
     "company": "VSporte",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 54,
+    "privateContributions": 69,
     "publicContributions": 11,
     "createdAt": "2019-08-09T15:46:45Z"
   },
@@ -41388,18 +41388,6 @@
     "createdAt": "2019-11-29T11:30:29Z"
   },
   {
-    "login": "Anu3ev",
-    "name": "Alexander Anufriev",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/46539713?s=72&u=b94d3c58c6a8cb73d83db1a949af04158c11ed98&v=4",
-    "location": "Georgia, Batumi",
-    "company": "inSales",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 1013,
-    "publicContributions": 733,
-    "createdAt": "2019-01-09T19:37:44Z"
-  },
-  {
     "login": "bdrummo6",
     "name": "Bradley Drummonds",
     "avatarUrl": "https://avatars.githubusercontent.com/u/47236494?s=72&v=4",
@@ -41431,8 +41419,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 20,
-    "publicContributions": 111,
+    "privateContributions": 13,
+    "publicContributions": 92,
     "createdAt": "2019-09-20T14:49:32Z"
   },
   {

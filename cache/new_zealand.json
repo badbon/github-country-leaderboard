@@ -145714,5 +145714,29 @@
     "privateContributions": 0,
     "publicContributions": 30,
     "createdAt": "2020-03-06T19:39:46Z"
+  },
+  {
+    "login": "Lewis-ljb",
+    "name": "Lewis",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/299694993?s=72&u=047e1401fa021abb7108840f2227e14fee4ec8ea&v=4",
+    "location": "New Zealand",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 12,
+    "createdAt": "2026-07-04T00:13:22Z"
+  },
+  {
+    "login": "bex-donaldson",
+    "name": "Rebecca (Bex) Donaldson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/299779420?s=72&u=653bb58255e8765d15a54dd4eca0cd5eeab2292e&v=4",
+    "location": "Christchurch, New Zealand",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 15,
+    "createdAt": "2026-07-04T08:15:37Z"
   }
 ]

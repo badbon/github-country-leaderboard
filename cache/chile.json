@@ -41192,7 +41192,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2023-10-06T13:28:05Z"
   },
   {
@@ -41216,7 +41216,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 47,
+    "publicContributions": 35,
     "createdAt": "2023-08-17T02:26:10Z"
   },
   {
@@ -41239,8 +41239,8 @@
     "company": "@Neozet-Ingenieria-y-Servicios-Limitada ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 282,
-    "publicContributions": 0,
+    "privateContributions": 228,
+    "publicContributions": 1,
     "createdAt": "2023-10-24T00:32:14Z"
   },
   {
@@ -41252,7 +41252,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 534,
+    "publicContributions": 555,
     "createdAt": "2023-11-22T14:48:04Z"
   },
   {
@@ -41263,8 +41263,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 20,
-    "publicContributions": 22,
+    "privateContributions": 23,
+    "publicContributions": 32,
     "createdAt": "2023-09-02T19:30:58Z"
   },
   {
@@ -41272,11 +41272,11 @@
     "name": "Seba Leal",
     "avatarUrl": "https://avatars.githubusercontent.com/u/144752373?s=72&u=ef95791296ab7d39c318b6afce4846b73f752063&v=4",
     "location": "Chile",
-    "company": "",
+    "company": "Hites",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 124,
-    "publicContributions": 22,
+    "followers": 3,
+    "privateContributions": 286,
+    "publicContributions": 24,
     "createdAt": "2023-09-12T01:45:31Z"
   },
   {
@@ -41328,18 +41328,6 @@
     "createdAt": "2023-12-15T08:27:04Z"
   },
   {
-    "login": "afariaslobo",
-    "name": "Agustín Farías Lobo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/152397842?s=72&u=ee6d773fd0d94e863254fd55a8f42e6e66538eef&v=4",
-    "location": "Santiago, Chile",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 30,
-    "createdAt": "2023-11-29T12:09:41Z"
-  },
-  {
     "login": "Alx93Dev",
     "name": "Alejandro Castillo López",
     "avatarUrl": "https://avatars.githubusercontent.com/u/140549167?s=72&u=8273057bde0c262fd4d30c89eb2de6d327655605&v=4",
@@ -41372,7 +41360,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 27,
     "createdAt": "2023-08-01T19:01:57Z"
   },
   {
@@ -41384,7 +41372,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 21,
     "createdAt": "2023-10-05T12:56:03Z"
   },
   {
@@ -41408,7 +41396,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 370,
+    "publicContributions": 377,
     "createdAt": "2023-08-30T04:23:13Z"
   },
   {

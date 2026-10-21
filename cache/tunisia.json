@@ -40711,7 +40711,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 241,
+    "privateContributions": 181,
     "publicContributions": 7,
     "createdAt": "2021-02-13T15:54:40Z"
   },
@@ -40734,9 +40734,9 @@
     "location": "Sousse, Tunisia",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 50,
-    "publicContributions": 48,
+    "followers": 3,
+    "privateContributions": 136,
+    "publicContributions": 70,
     "createdAt": "2021-12-11T19:46:23Z"
   },
   {
@@ -40748,7 +40748,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 9,
-    "publicContributions": 65,
+    "publicContributions": 94,
     "createdAt": "2021-06-02T11:34:34Z"
   },
   {
@@ -40760,7 +40760,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 34,
     "createdAt": "2021-07-29T03:50:07Z"
   },
   {
@@ -40770,9 +40770,9 @@
     "location": "Tunis, Tunisia",
     "company": "ubiai",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 0,
     "createdAt": "2021-05-01T20:15:21Z"
   },
   {
@@ -40784,7 +40784,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 0,
     "createdAt": "2021-08-22T12:06:05Z"
   },
   {
@@ -40795,8 +40795,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 82,
-    "publicContributions": 41,
+    "privateContributions": 104,
+    "publicContributions": 68,
     "createdAt": "2021-09-02T23:17:49Z"
   },
   {
@@ -40807,8 +40807,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 802,
-    "publicContributions": 11,
+    "privateContributions": 1127,
+    "publicContributions": 7,
     "createdAt": "2021-11-12T17:53:46Z"
   },
   {
@@ -40843,8 +40843,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 43,
-    "publicContributions": 57,
+    "privateContributions": 78,
+    "publicContributions": 22,
     "createdAt": "2021-02-13T10:36:39Z"
   },
   {
@@ -40855,7 +40855,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 12,
+    "privateContributions": 11,
     "publicContributions": 0,
     "createdAt": "2021-08-24T16:35:25Z"
   },
@@ -40866,9 +40866,9 @@
     "location": "Tunisia, Sousse",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 4,
     "createdAt": "2021-10-31T20:12:04Z"
   },
   {
@@ -40908,27 +40908,15 @@
     "createdAt": "2021-05-18T18:39:42Z"
   },
   {
-    "login": "hajri94",
-    "name": "alaeddine Hajri ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/82321097?s=72&u=e333055e1e227461ee882becfcd2fdfd3c38e22f&v=4",
-    "location": "Tunisia",
-    "company": "Student ",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 6,
-    "createdAt": "2021-04-11T12:59:08Z"
-  },
-  {
     "login": "fsghiri",
     "name": "Firas Sghiri",
     "avatarUrl": "https://avatars.githubusercontent.com/u/87244980?s=72&u=eadb4ffacac59e66fd8d4391ce1f832e270533cf&v=4",
     "location": "Tunisia",
     "company": "National Higher School of Engineering",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 23,
     "createdAt": "2021-07-10T19:37:59Z"
   },
   {
