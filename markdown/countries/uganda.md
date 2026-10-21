@@ -31,7 +31,7 @@ Indexed users: 3,863
 | 17 | [kashua14](https://github.com/kashua14) | Kasasira Joshua | Kampala, Uganda | 8,178 |
 | 18 | [Mugamba669](https://github.com/Mugamba669) | Mugamba669 | Kampala, Uganda | 7,995 |
 | 19 | [KansiimeKenie](https://github.com/KansiimeKenie) | Kansiime Keneth | kampala, Ug | 7,957 |
-| 20 | [Maxondria](https://github.com/Maxondria) | Maxon Tayebwa | Kampala, Uganda | 7,945 |
+| 20 | [kusaasira](https://github.com/kusaasira) | Joshua Kusaasira | Kampala, Uganda | 7,948 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 3,863
 | 19 | [kallyas](https://github.com/kallyas) | Iden | Uganda | 190 |
 | 20 | [FahimWeblogicAndCyberTechnologies](https://github.com/FahimWeblogicAndCyberTechnologies) | FRANKLIN | Uganda | 186 |
 
-Generated: 2026-10-21T09:09:53.230Z
+Generated: 2026-10-21T13:13:41.481Z

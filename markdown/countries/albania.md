@@ -1,6 +1,6 @@
 # Albania
 
-Indexed users: 1,183
+Indexed users: 1,182
 
 | Leaderboard | Link |
 |---|---|
@@ -14,17 +14,17 @@ Indexed users: 1,183
 |---:|---|---|---|---:|
 | 1 | [flakerimi](https://github.com/flakerimi) | Flakerim Ismani | Tirane, Albania | 22,613 |
 | 2 | [ErionTp](https://github.com/ErionTp) | Erjon Këllëçi | Tirane, Albania | 9,961 |
-| 3 | [alban-hh](https://github.com/alban-hh) | Alban Shermadhi | Albania | 8,621 |
-| 4 | [Jorgo55](https://github.com/Jorgo55) | Jorgo Bardho | Albania, Tirana | 8,136 |
-| 5 | [kevingabeci](https://github.com/kevingabeci) | Kevin Gabeci | Tirana | 7,892 |
+| 3 | [kevingabeci](https://github.com/kevingabeci) | Kevin Gabeci | Tirana | 8,968 |
+| 4 | [alban-hh](https://github.com/alban-hh) | Alban Shermadhi | Albania | 8,621 |
+| 5 | [Jorgo55](https://github.com/Jorgo55) | Jorgo Bardho | Albania, Tirana | 8,136 |
 | 6 | [somethim](https://github.com/somethim) | Arbi Kullakshi | Tirana, Albania | 7,331 |
 | 7 | [orges](https://github.com/orges) | orges | Albania | 6,768 |
 | 8 | [emilushi](https://github.com/emilushi) | Eduard Milushi | Albania | 6,666 |
 | 9 | [geridev12](https://github.com/geridev12) | Gerald Nuraj | Tirana, Albania | 6,583 |
 | 10 | [bledar](https://github.com/bledar) | Bledar Haxhia | Albania | 6,049 |
-| 11 | [arkellahi82-tech](https://github.com/arkellahi82-tech) | Arkel Lahi | Tirana, Albania | 5,766 |
-| 12 | [lacieri](https://github.com/lacieri) | Erand Laci | Tirana, Albania | 5,609 |
-| 13 | [nertilpoci](https://github.com/nertilpoci) | Nertil Poci | Albania | 5,482 |
+| 11 | [nertilpoci](https://github.com/nertilpoci) | Nertil Poci | Albania | 5,884 |
+| 12 | [arkellahi82-tech](https://github.com/arkellahi82-tech) | Arkel Lahi | Tirana, Albania | 5,766 |
+| 13 | [lacieri](https://github.com/lacieri) | Erand Laci | Tirana, Albania | 5,609 |
 | 14 | [sly503](https://github.com/sly503) | Fatjon Rami | Tirana | 4,719 |
 | 15 | [GentBajko](https://github.com/GentBajko) | Gent Bajko | Tirana, Albania | 4,656 |
 | 16 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | Albania | 4,643 |
@@ -83,4 +83,4 @@ Indexed users: 1,183
 | 19 | [SxtBox](https://github.com/SxtBox) | Albdroid.AL | Albania | 81 |
 | 20 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | Albania | 77 |
 
-Generated: 2026-10-21T09:16:55.004Z
+Generated: 2026-10-21T13:20:53.387Z

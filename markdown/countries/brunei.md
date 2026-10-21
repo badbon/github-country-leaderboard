@@ -12,7 +12,7 @@ Indexed users: 254
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [aresople](https://github.com/aresople) | Aresa Naif | Brunei | 5,602 |
+| 1 | [aresople](https://github.com/aresople) | Aresa Naif | Brunei | 5,586 |
 | 2 | [danialothman](https://github.com/danialothman) | Danial Othman | Brunei Darussalam | 4,137 |
 | 3 | [SatriaSuriaAriffin](https://github.com/SatriaSuriaAriffin) | Satria Suria | Brunei | 2,879 |
 | 4 | [akasmirhan4](https://github.com/akasmirhan4) | Amirrul Kasmirhan | Brunei | 2,249 |
@@ -37,7 +37,7 @@ Indexed users: 254
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [aresople](https://github.com/aresople) | Aresa Naif | Brunei | 5,602 |
+| 1 | [aresople](https://github.com/aresople) | Aresa Naif | Brunei | 5,586 |
 | 2 | [SatriaSuriaAriffin](https://github.com/SatriaSuriaAriffin) | Satria Suria | Brunei | 532 |
 | 3 | [Qoyyuum](https://github.com/Qoyyuum) | Abdul Qoyyuum | Brunei Darussalam | 339 |
 | 4 | [bumplzz69](https://github.com/bumplzz69) | Eddie | Brunei | 337 |
@@ -52,8 +52,8 @@ Indexed users: 254
 | 13 | [wafeeyhm](https://github.com/wafeeyhm) | Wafeey HM | Brunei Darussalam | 101 |
 | 14 | [jailanihar](https://github.com/jailanihar) | Jailani Abdul Rahman | Brunei Darussalam | 73 |
 | 15 | [nathanielcwm](https://github.com/nathanielcwm) | Nathaniel | Brunei | 71 |
-| 16 | [hfzizz](https://github.com/hfzizz) | Hafiz Izzuddin | Brunei | 65 |
-| 17 | [Nekrozu](https://github.com/Nekrozu) | Luq | Brunei Darussalam | 62 |
+| 16 | [Nekrozu](https://github.com/Nekrozu) | Luq | Brunei Darussalam | 66 |
+| 17 | [hfzizz](https://github.com/hfzizz) | Hafiz Izzuddin | Brunei | 65 |
 | 18 | [notanonymouse](https://github.com/notanonymouse) | notanonymouse | Brunei | 61 |
 | 19 | [ZeeyKhm](https://github.com/ZeeyKhm) | Azizi Keffli | Brunei Darussalam | 57 |
 | 20 | [Hifdzullah](https://github.com/Hifdzullah) | Zul | Brunei | 52 |
@@ -83,4 +83,4 @@ Indexed users: 254
 | 19 | [nathanielcwm](https://github.com/nathanielcwm) | Nathaniel | Brunei | 14 |
 | 20 | [affenrahim88](https://github.com/affenrahim88) | Affandy Abdul Rahim | Brunei Darussalam | 13 |
 
-Generated: 2026-10-21T09:28:14.261Z
+Generated: 2026-10-21T13:32:43.721Z

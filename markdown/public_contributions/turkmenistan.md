@@ -1,6 +1,6 @@
 # Public Contributions - Turkmenistan
 
-Generated: 2026-10-21T09:08:42.862Z
+Generated: 2026-10-21T13:13:30.576Z
 
 Users: 501
 
@@ -20,9 +20,9 @@ Users: 501
 | 12 | [suleymanmyradov](https://github.com/suleymanmyradov) | Suleyman Myradov | JAN Technology | M_Suleyman02 | Ashgabat, Turkmenistan | 480 |
 | 13 | [aynazar-sylyyew-dev](https://github.com/aynazar-sylyyew-dev) | TheAýnazarSylyýew | @Shapak-Apps |  | Turkmenistan | 403 |
 | 14 | [northernwolf00](https://github.com/northernwolf00) | Googa Dev |  | northernerwolf7 | Turkmenistan | 403 |
-| 15 | [atageldi194229](https://github.com/atageldi194229) | Atageldi |  |  | Ashgabat, Turkmenistan | 366 |
-| 16 | [Seyit47](https://github.com/Seyit47) | Seyitmyrat Geldiyew | Ynamly Belentlik |  | Ashgabat, Turkmenistan | 360 |
-| 17 | [richxcame](https://github.com/richxcame) | Baygeldi Cholukov |  | richxcame | Turkmenistan | 330 |
-| 18 | [leonid-belousov](https://github.com/leonid-belousov) | Leonid |  |  | Turkmenistan Ashgabat | 286 |
-| 19 | [wepashka](https://github.com/wepashka) | Vepa Sabyrow |  |  | Ashgabat | 268 |
-| 20 | [mekanbaymyradov](https://github.com/mekanbaymyradov) | Mekan Baymyradov |  |  | Turkmenistan, Ashgabat | 267 |
+| 15 | [azamatos](https://github.com/azamatos) | Azamat Jorayev |  |  | Ashgabat, Turkmenistan | 379 |
+| 16 | [atageldi194229](https://github.com/atageldi194229) | Atageldi |  |  | Ashgabat, Turkmenistan | 366 |
+| 17 | [Seyit47](https://github.com/Seyit47) | Seyitmyrat Geldiyew | Ynamly Belentlik |  | Ashgabat, Turkmenistan | 360 |
+| 18 | [richxcame](https://github.com/richxcame) | Baygeldi Cholukov |  | richxcame | Turkmenistan | 330 |
+| 19 | [leonid-belousov](https://github.com/leonid-belousov) | Leonid |  |  | Turkmenistan Ashgabat | 286 |
+| 20 | [wepashka](https://github.com/wepashka) | Vepa Sabyrow |  |  | Ashgabat | 268 |

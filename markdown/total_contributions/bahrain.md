@@ -1,12 +1,12 @@
 # Total Contributions - Bahrain
 
-Generated: 2026-10-21T09:21:46.294Z
+Generated: 2026-10-21T13:26:20.212Z
 
 Users: 727
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [EAlbasri](https://github.com/EAlbasri) | Ebrahim Albasri |  |  | Bahrain | 119311 |
+| 1 | [EAlbasri](https://github.com/EAlbasri) | Ebrahim Albasri |  |  | Bahrain | 119533 |
 | 2 | [a7md](https://github.com/a7md) | {ahmed} |  |  | Bahrain | 13261 |
 | 3 | [aldoyh](https://github.com/aldoyh) | Hasan AlDoy | @doy.tech @Bahrain-TV @RadioBahrain  |  | Al Muharraq, Bahrain | 10303 |
 | 4 | [AlqattanDev](https://github.com/AlqattanDev) | Ali AlQattan |  |  | Manama, Bahrain | 6830 |
