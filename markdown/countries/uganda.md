@@ -55,8 +55,8 @@ Indexed users: 3,863
 | 16 | [birleopold](https://github.com/birleopold) | leopold birungi | kampala | 2,359 |
 | 17 | [Chemistry2i](https://github.com/Chemistry2i) | WAMBOGO  HASSAN SADAT | Kampala Uganda | 2,001 |
 | 18 | [gwaiffemark001](https://github.com/gwaiffemark001) | Gwaiffe Mark | Kampala,Uganda | 1,986 |
-| 19 | [herberthk](https://github.com/herberthk) | Kavuma Herbert | Kampala | 1,958 |
-| 20 | [danielmarv](https://github.com/danielmarv) | Daniel Ntege | Kampala | 1,947 |
+| 19 | [danielmarv](https://github.com/danielmarv) | Daniel Ntege | Kampala | 1,947 |
+| 20 | [Joshkovu](https://github.com/Joshkovu) | Kuteesa Joash | uganda  | 1,933 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 3,863
 | 19 | [kallyas](https://github.com/kallyas) | Iden | Uganda | 190 |
 | 20 | [FahimWeblogicAndCyberTechnologies](https://github.com/FahimWeblogicAndCyberTechnologies) | FRANKLIN | Uganda | 186 |
 
-Generated: 2026-10-21T18:31:50.003Z
+Generated: 2026-10-21T20:00:58.481Z

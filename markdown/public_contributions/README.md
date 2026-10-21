@@ -58,7 +58,7 @@ Published countries: 234
 | Curaçao | 53 | [View](./curacao.md) |
 | Cyprus | 2,722 | [View](./cyprus.md) |
 | Czechia | 16,203 | [View](./czechia.md) |
-| Denmark | 19,295 | [View](./denmark.md) |
+| Denmark | 19,296 | [View](./denmark.md) |
 | Djibouti | 55 | [View](./djibouti.md) |
 | Dominica | 18 | [View](./dominica.md) |
 | Dominican Republic | 3,298 | [View](./dominican_republic.md) |
@@ -213,7 +213,7 @@ Published countries: 234
 | Tanzania | 2,038 | [View](./tanzania.md) |
 | Thailand | 14,985 | [View](./thailand.md) |
 | Timor-Leste | 77 | [View](./timor_leste.md) |
-| Togo | 678 | [View](./togo.md) |
+| Togo | 677 | [View](./togo.md) |
 | Tokelau | 4 | [View](./tokelau.md) |
 | Tonga | 9 | [View](./tonga.md) |
 | Trinidad and Tobago | 256 | [View](./trinidad_and_tobago.md) |
@@ -224,7 +224,7 @@ Published countries: 234
 | Tuvalu | 11 | [View](./tuvalu.md) |
 | Uganda | 3,863 | [View](./uganda.md) |
 | Ukraine | 47,728 | [View](./ukraine.md) |
-| United Arab Emirates | 4,213 | [View](./united_arab_emirates.md) |
+| United Arab Emirates | 4,212 | [View](./united_arab_emirates.md) |
 | United States Minor Outlying Islands | 0 | [View](./united_states_minor_outlying_islands.md) |
 | United States Virgin Islands | 4 | [View](./united_states_virgin_islands.md) |
 | Uruguay | 5,603 | [View](./uruguay.md) |
@@ -239,4 +239,4 @@ Published countries: 234
 | Zambia | 1,336 | [View](./zambia.md) |
 | Zimbabwe | 1,656 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-21T19:55:30.000Z
+Generated: 2026-10-21T20:02:10.282Z

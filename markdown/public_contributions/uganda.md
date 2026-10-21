@@ -1,6 +1,6 @@
 # Public Contributions - Uganda
 
-Generated: 2026-10-21T18:31:50.003Z
+Generated: 2026-10-21T20:00:58.481Z
 
 Users: 3863
 
@@ -24,5 +24,5 @@ Users: 3863
 | 16 | [birleopold](https://github.com/birleopold) | leopold birungi |  |  | kampala | 2359 |
 | 17 | [Chemistry2i](https://github.com/Chemistry2i) | WAMBOGO  HASSAN SADAT | Peculiar Technologies Ltd @Peculiar256 | wambogohassan | Kampala Uganda | 2001 |
 | 18 | [gwaiffemark001](https://github.com/gwaiffemark001) | Gwaiffe Mark |  |  | Kampala,Uganda | 1986 |
-| 19 | [herberthk](https://github.com/herberthk) | Kavuma Herbert | Netbritz |  | Kampala | 1958 |
-| 20 | [danielmarv](https://github.com/danielmarv) | Daniel Ntege | @OpenElements | danielmarvin785 | Kampala | 1947 |
+| 19 | [danielmarv](https://github.com/danielmarv) | Daniel Ntege | @OpenElements | danielmarvin785 | Kampala | 1947 |
+| 20 | [Joshkovu](https://github.com/Joshkovu) | Kuteesa Joash | Wota creators Technologies  | JoashKutee80790 | uganda  | 1933 |
