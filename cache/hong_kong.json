@@ -38812,11 +38812,11 @@
     "name": "Wei Huang",
     "avatarUrl": "https://avatars.githubusercontent.com/u/71201052?s=72&u=b753f98c15b7694efc951ef5f4ba65f610806117&v=4",
     "location": "Hong Kong",
-    "company": "HKU -  CVMI Lab (cvmi.hku.hk) & WISE Lab",
+    "company": "NVIDIA Research & HKU -  CVMI Lab (cvmi.hku.hk) ",
     "twitterUsername": "AaronWeiHuang",
-    "followers": 104,
+    "followers": 109,
     "privateContributions": 0,
-    "publicContributions": 30,
+    "publicContributions": 32,
     "createdAt": "2020-09-13T02:29:00Z"
   },
   {
@@ -38826,9 +38826,9 @@
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 101,
+    "followers": 100,
     "privateContributions": 0,
-    "publicContributions": 110,
+    "publicContributions": 85,
     "createdAt": "2020-10-16T10:35:39Z"
   },
   {
@@ -38838,9 +38838,9 @@
     "location": "Hong Kong",
     "company": "The Hong Kong Polytechnic University",
     "twitterUsername": "",
-    "followers": 93,
-    "privateContributions": 120,
-    "publicContributions": 28,
+    "followers": 92,
+    "privateContributions": 121,
+    "publicContributions": 26,
     "createdAt": "2020-09-18T01:08:02Z"
   },
   {
@@ -38850,9 +38850,9 @@
     "location": "Kowloon, Hong Kong",
     "company": "The Hong Kong Polytechnic University",
     "twitterUsername": "qmohsu",
-    "followers": 86,
+    "followers": 89,
     "privateContributions": 0,
-    "publicContributions": 740,
+    "publicContributions": 1099,
     "createdAt": "2020-07-17T02:08:58Z"
   },
   {
@@ -38862,7 +38862,7 @@
     "location": "Hong Kong | Shanghai | Beijing",
     "company": "HKU-MMLab | ByteDance Seed-Robotics",
     "twitterUsername": "",
-    "followers": 86,
+    "followers": 87,
     "privateContributions": 4,
     "publicContributions": 13,
     "createdAt": "2020-11-17T08:59:57Z"
@@ -38874,9 +38874,9 @@
     "location": "Hong Kong",
     "company": "HKUST",
     "twitterUsername": "yuzhenh17",
-    "followers": 78,
-    "privateContributions": 297,
-    "publicContributions": 33,
+    "followers": 81,
+    "privateContributions": 213,
+    "publicContributions": 29,
     "createdAt": "2020-10-19T02:19:55Z"
   },
   {
@@ -38886,9 +38886,9 @@
     "location": "Hong Kong, China",
     "company": "The University of Hong Kong",
     "twitterUsername": "",
-    "followers": 73,
+    "followers": 74,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 36,
     "createdAt": "2020-09-14T13:43:52Z"
   },
   {
@@ -38898,9 +38898,9 @@
     "location": "Hong Kong",
     "company": "The Hong Kong Polytechnic University",
     "twitterUsername": "",
-    "followers": 73,
+    "followers": 76,
     "privateContributions": 0,
-    "publicContributions": 66,
+    "publicContributions": 38,
     "createdAt": "2020-11-22T10:50:47Z"
   },
   {
@@ -38910,9 +38910,9 @@
     "location": "Hong Kong",
     "company": "The University of Hong Kong",
     "twitterUsername": "",
-    "followers": 72,
+    "followers": 74,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 27,
     "createdAt": "2020-10-06T05:21:18Z"
   },
   {
@@ -38922,22 +38922,10 @@
     "location": "Hong Kong, China",
     "company": "Hong Kong University of Science and Technology",
     "twitterUsername": "jingwYu",
-    "followers": 71,
+    "followers": 72,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 19,
     "createdAt": "2020-11-26T08:19:38Z"
-  },
-  {
-    "login": "eric15342335",
-    "name": "Cheng Ho Ming, Eric",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/70310617?s=72&u=01e3f3c43c99c7a3f0674d312a3dd7d7677a13a7&v=4",
-    "location": "Hong Kong",
-    "company": "FWD Group Management Holdings Limited",
-    "twitterUsername": "",
-    "followers": 70,
-    "privateContributions": 12,
-    "publicContributions": 438,
-    "createdAt": "2020-08-27T05:51:36Z"
   },
   {
     "login": "claucambra",
@@ -38946,9 +38934,9 @@
     "location": "Hong Kong",
     "company": "@nextcloud / @VideoLAN / @KDE",
     "twitterUsername": "",
-    "followers": 70,
-    "privateContributions": 545,
-    "publicContributions": 705,
+    "followers": 72,
+    "privateContributions": 434,
+    "publicContributions": 1420,
     "createdAt": "2020-08-24T15:33:56Z"
   },
   {
@@ -38958,9 +38946,9 @@
     "location": "Hong Kong",
     "company": "The Hong Kong University of Science and Technology",
     "twitterUsername": "",
-    "followers": 67,
-    "privateContributions": 266,
-    "publicContributions": 529,
+    "followers": 69,
+    "privateContributions": 3435,
+    "publicContributions": 518,
     "createdAt": "2020-10-14T12:19:11Z"
   },
   {
@@ -38971,8 +38959,8 @@
     "company": "同济大学 -> HKUST",
     "twitterUsername": "",
     "followers": 63,
-    "privateContributions": 4,
-    "publicContributions": 10,
+    "privateContributions": 1,
+    "publicContributions": 9,
     "createdAt": "2020-07-11T03:24:06Z"
   },
   {
@@ -38982,9 +38970,9 @@
     "location": "Hong Kong",
     "company": "@Xeocnet-Studio ",
     "twitterUsername": "ravellohh",
-    "followers": 63,
-    "privateContributions": 1054,
-    "publicContributions": 2759,
+    "followers": 70,
+    "privateContributions": 706,
+    "publicContributions": 3122,
     "createdAt": "2020-07-17T02:24:11Z"
   },
   {
@@ -38994,9 +38982,9 @@
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "milindS_",
-    "followers": 61,
-    "privateContributions": 2570,
-    "publicContributions": 714,
+    "followers": 59,
+    "privateContributions": 2827,
+    "publicContributions": 723,
     "createdAt": "2020-07-27T09:08:28Z"
   },
   {
@@ -39008,7 +38996,7 @@
     "twitterUsername": "",
     "followers": 58,
     "privateContributions": 0,
-    "publicContributions": 91,
+    "publicContributions": 83,
     "createdAt": "2020-11-02T01:46:18Z"
   },
   {
@@ -39018,7 +39006,7 @@
     "location": "Hong Kong",
     "company": "The Chinese University of Hong Kong",
     "twitterUsername": "",
-    "followers": 57,
+    "followers": 58,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-09-14T16:45:15Z"
@@ -39030,9 +39018,9 @@
     "location": "Hong Kong",
     "company": "The Chinese University of Hong Kong",
     "twitterUsername": "",
-    "followers": 56,
-    "privateContributions": 59,
-    "publicContributions": 13,
+    "followers": 59,
+    "privateContributions": 40,
+    "publicContributions": 23,
     "createdAt": "2020-10-26T16:02:58Z"
   },
   {
