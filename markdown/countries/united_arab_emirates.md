@@ -1,6 +1,6 @@
 # United Arab Emirates
 
-Indexed users: 4,217
+Indexed users: 4,215
 
 | Leaderboard | Link |
 |---|---|
@@ -13,25 +13,25 @@ Indexed users: 4,217
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [HavenDV](https://github.com/HavenDV) | Konstantin S. | Dubai, United Arab Emirates | 36,879 |
-| 2 | [YASSERRMD](https://github.com/YASSERRMD) | Mohamed Yasser | Sharjah, United Arab Emirates | 23,114 |
-| 3 | [tschm](https://github.com/tschm) | Thomas Schmelzer | Abu Dhabi, United Arab Emirates | 21,568 |
-| 4 | [sadiqaaico](https://github.com/sadiqaaico) | Sadiq | Abu Dhabi, United Arab Emirates | 17,828 |
-| 5 | [seyyedmuhamad](https://github.com/seyyedmuhamad) | Mohamad Mahdi Mohamadian | Dubai, United Arab Emirates | 15,453 |
-| 6 | [an-ivannikov](https://github.com/an-ivannikov) | Aleksandr Ivannikov | Abu Dhabi, UAE | 14,836 |
-| 7 | [piwi3910](https://github.com/piwi3910) | Pascal Watteel | United Arab Emirates | 13,573 |
-| 8 | [dev-juju](https://github.com/dev-juju) | Bomdi | Dubai, United Arab Emirates | 13,443 |
-| 9 | [Desouki27](https://github.com/Desouki27) | Mohamed Desouki | Dubai, United Arab Emirates | 12,906 |
-| 10 | [syymza](https://github.com/syymza) | Dani | Abu Dhabi, UAE | 11,227 |
-| 11 | [ankitmaheshwari-com](https://github.com/ankitmaheshwari-com) | Ankit Maheshwari | United Arab Emirates | 11,188 |
-| 12 | [AliRaZa1121](https://github.com/AliRaZa1121) | Ali RaZa | Dubai, United Arab Emirates | 10,914 |
-| 13 | [ahmadpx](https://github.com/ahmadpx) | Ahmed Abdallah | United Arab Emirates | 10,867 |
-| 14 | [Massad](https://github.com/Massad) | Omar Masad | United Arab Emirates, Dubai | 10,605 |
-| 15 | [sdn0303](https://github.com/sdn0303) | sdn0303 | Silicon Oasis, Dubai, United Arab Emirates | 10,595 |
-| 16 | [ilyesm](https://github.com/ilyesm) | Ilyas Esmail | Dubai, United Arab Emirates | 10,574 |
-| 17 | [nikolai-vysotskyi](https://github.com/nikolai-vysotskyi) | Nikolai Vysotskyi | Abu Dhabi, UAE | 10,422 |
-| 18 | [moeidsaleem](https://github.com/moeidsaleem) | Moeid Saleem khan | Dubai, United Arab Emirates | 10,295 |
-| 19 | [tech-sumit](https://github.com/tech-sumit) | Sumit S. Agrawal | Dubai, United Arab Emirates | 10,163 |
-| 20 | [iliakrupin](https://github.com/iliakrupin) | Ilia Krupin | Dubai, United Arab Emirates | 10,039 |
+| 2 | [piwi3910](https://github.com/piwi3910) | Pascal Watteel | United Arab Emirates | 24,704 |
+| 3 | [YASSERRMD](https://github.com/YASSERRMD) | Mohamed Yasser | Sharjah, United Arab Emirates | 23,114 |
+| 4 | [tschm](https://github.com/tschm) | Thomas Schmelzer | Abu Dhabi, United Arab Emirates | 21,568 |
+| 5 | [sadiqaaico](https://github.com/sadiqaaico) | Sadiq | Abu Dhabi, United Arab Emirates | 17,828 |
+| 6 | [seyyedmuhamad](https://github.com/seyyedmuhamad) | Mohamad Mahdi Mohamadian | Dubai, United Arab Emirates | 15,453 |
+| 7 | [an-ivannikov](https://github.com/an-ivannikov) | Aleksandr Ivannikov | Abu Dhabi, UAE | 14,836 |
+| 8 | [rohingosling](https://github.com/rohingosling) | Rohin Gosling | United Arab Emirates | 14,288 |
+| 9 | [dev-juju](https://github.com/dev-juju) | Bomdi | Dubai, United Arab Emirates | 13,443 |
+| 10 | [Desouki27](https://github.com/Desouki27) | Mohamed Desouki | Dubai, United Arab Emirates | 12,906 |
+| 11 | [syymza](https://github.com/syymza) | Dani | Abu Dhabi, UAE | 11,227 |
+| 12 | [ankitmaheshwari-com](https://github.com/ankitmaheshwari-com) | Ankit Maheshwari | United Arab Emirates | 11,188 |
+| 13 | [AliRaZa1121](https://github.com/AliRaZa1121) | Ali RaZa | Dubai, United Arab Emirates | 10,914 |
+| 14 | [ahmadpx](https://github.com/ahmadpx) | Ahmed Abdallah | United Arab Emirates | 10,867 |
+| 15 | [Massad](https://github.com/Massad) | Omar Masad | United Arab Emirates, Dubai | 10,605 |
+| 16 | [sdn0303](https://github.com/sdn0303) | sdn0303 | Silicon Oasis, Dubai, United Arab Emirates | 10,595 |
+| 17 | [ilyesm](https://github.com/ilyesm) | Ilyas Esmail | Dubai, United Arab Emirates | 10,574 |
+| 18 | [nikolai-vysotskyi](https://github.com/nikolai-vysotskyi) | Nikolai Vysotskyi | Abu Dhabi, UAE | 10,422 |
+| 19 | [moeidsaleem](https://github.com/moeidsaleem) | Moeid Saleem khan | Dubai, United Arab Emirates | 10,295 |
+| 20 | [tech-sumit](https://github.com/tech-sumit) | Sumit S. Agrawal | Dubai, United Arab Emirates | 10,163 |
 
 ## Public Contributions
 
@@ -40,23 +40,23 @@ Indexed users: 4,217
 | 1 | [HavenDV](https://github.com/HavenDV) | Konstantin S. | Dubai, United Arab Emirates | 26,894 |
 | 2 | [YASSERRMD](https://github.com/YASSERRMD) | Mohamed Yasser | Sharjah, United Arab Emirates | 22,831 |
 | 3 | [tschm](https://github.com/tschm) | Thomas Schmelzer | Abu Dhabi, United Arab Emirates | 18,999 |
-| 4 | [piwi3910](https://github.com/piwi3910) | Pascal Watteel | United Arab Emirates | 10,004 |
-| 5 | [Gaurav-Gosain](https://github.com/Gaurav-Gosain) | Gaurav Gosain | Abu Dhabi, United Arab Emirates | 6,147 |
-| 6 | [hhenson](https://github.com/hhenson) | Howard Henson | Abu Dhabi | 4,227 |
-| 7 | [joshuajbouw](https://github.com/joshuajbouw) | Joshua J. Bouw | Dubai, United Arab Emirates | 3,982 |
-| 8 | [nikolai-vysotskyi](https://github.com/nikolai-vysotskyi) | Nikolai Vysotskyi | Abu Dhabi, UAE | 3,657 |
-| 9 | [dave-hudson](https://github.com/dave-hudson) | Dave Hudson | Abu Dhabi, UAE | 3,411 |
-| 10 | [maddada](https://github.com/maddada) | Mohamad Yahia | Dubai, United Arab Emirates. | 3,334 |
-| 11 | [codemug](https://github.com/codemug) | Usman Shahid | Dubai, United Arab Emirates | 3,200 |
-| 12 | [DeadPackets](https://github.com/DeadPackets) | DeadPackets | Dubai, United Arab Emirates | 3,145 |
-| 13 | [tech-sumit](https://github.com/tech-sumit) | Sumit S. Agrawal | Dubai, United Arab Emirates | 3,114 |
-| 14 | [haseeb-heaven](https://github.com/haseeb-heaven) | Haseeb Heaven | Dubai,United Arab Emirates | 2,969 |
-| 15 | [klkvr](https://github.com/klkvr) | Arsenii Kulikov | Dubai, United Arab Emirates | 2,900 |
-| 16 | [aroff](https://github.com/aroff) | Alex Oliveira | United Arab Emirates | 2,753 |
-| 17 | [delta6626](https://github.com/delta6626) | Delta | United Arab Emirates | 2,745 |
-| 18 | [drakulavich](https://github.com/drakulavich) | Anton Yakutovich | Abu Dhabi, UAE | 2,378 |
-| 19 | [eunwoo-levi](https://github.com/eunwoo-levi) | Eunwoo | Dubai, United Arab Emirates | 2,344 |
-| 20 | [avinash-mall](https://github.com/avinash-mall) | Avinash Mall | Abu Dhabi | 2,146 |
+| 4 | [piwi3910](https://github.com/piwi3910) | Pascal Watteel | United Arab Emirates | 15,626 |
+| 5 | [rohingosling](https://github.com/rohingosling) | Rohin Gosling | United Arab Emirates | 14,234 |
+| 6 | [Gaurav-Gosain](https://github.com/Gaurav-Gosain) | Gaurav Gosain | Abu Dhabi, United Arab Emirates | 6,147 |
+| 7 | [hhenson](https://github.com/hhenson) | Howard Henson | Abu Dhabi | 4,227 |
+| 8 | [joshuajbouw](https://github.com/joshuajbouw) | Joshua J. Bouw | Dubai, United Arab Emirates | 3,982 |
+| 9 | [nikolai-vysotskyi](https://github.com/nikolai-vysotskyi) | Nikolai Vysotskyi | Abu Dhabi, UAE | 3,657 |
+| 10 | [dave-hudson](https://github.com/dave-hudson) | Dave Hudson | Abu Dhabi, UAE | 3,411 |
+| 11 | [maddada](https://github.com/maddada) | Mohamad Yahia | Dubai, United Arab Emirates. | 3,334 |
+| 12 | [codemug](https://github.com/codemug) | Usman Shahid | Dubai, United Arab Emirates | 3,200 |
+| 13 | [DeadPackets](https://github.com/DeadPackets) | DeadPackets | Dubai, United Arab Emirates | 3,145 |
+| 14 | [tech-sumit](https://github.com/tech-sumit) | Sumit S. Agrawal | Dubai, United Arab Emirates | 3,114 |
+| 15 | [haseeb-heaven](https://github.com/haseeb-heaven) | Haseeb Heaven | Dubai,United Arab Emirates | 2,969 |
+| 16 | [klkvr](https://github.com/klkvr) | Arsenii Kulikov | Dubai, United Arab Emirates | 2,900 |
+| 17 | [aroff](https://github.com/aroff) | Alex Oliveira | United Arab Emirates | 2,753 |
+| 18 | [delta6626](https://github.com/delta6626) | Delta | United Arab Emirates | 2,745 |
+| 19 | [drakulavich](https://github.com/drakulavich) | Anton Yakutovich | Abu Dhabi, UAE | 2,378 |
+| 20 | [eunwoo-levi](https://github.com/eunwoo-levi) | Eunwoo | Dubai, United Arab Emirates | 2,344 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 4,217
 | 19 | [FrayxRulez](https://github.com/FrayxRulez) | Fela | Dubai, United Arab Emirates | 366 |
 | 20 | [yusufusta](https://github.com/yusufusta) | Yusuf Usta | Dubai, United Arab Emirates | 361 |
 
-Generated: 2026-10-21T07:33:35.978Z
+Generated: 2026-10-21T09:11:03.136Z

@@ -1,6 +1,6 @@
 # Total Contributions - Uzbekistan
 
-Generated: 2026-10-21T07:34:50.073Z
+Generated: 2026-10-21T09:11:59.658Z
 
 Users: 9511
 
@@ -20,9 +20,9 @@ Users: 9511
 | 12 | [golibnarzullayev](https://github.com/golibnarzullayev) | G'olib Narzullayev |  |  | Uzbekistan | 10053 |
 | 13 | [gamerhackuz](https://github.com/gamerhackuz) | Mosa | IT-PARK |  | Xonqa, Xorazm, Uzbekistan | 10001 |
 | 14 | [RahimovShaxriyor](https://github.com/RahimovShaxriyor) | Shaxriyor  |  |  | Uzbekistan | 9624 |
-| 15 | [itsakbarov](https://github.com/itsakbarov) | Sardor | io.net | itsakbarov | Tashkent, Uzbekistan | 9240 |
-| 16 | [ummataliyev](https://github.com/ummataliyev) | Umidjon Ummataliyev | Safia |  | Tashkent | 9032 |
-| 17 | [Dave93](https://github.com/Dave93) | Davron Yuldashev |  | YulDavr | Tashkent, Uzbekistan | 8867 |
-| 18 | [Mukhsin0508](https://github.com/Mukhsin0508) | Mukhsin Mukhtorov | Higgsfield AI |  | Tashkent | 8831 |
-| 19 | [lexoice](https://github.com/lexoice) | Alexey | Lex INC |  | Uzbekistan Tashkent | 8555 |
-| 20 | [azimRR](https://github.com/azimRR) | Abduazim Islomjonov | @azimapps |  | Tashkent | 8475 |
+| 15 | [azizdevfull](https://github.com/azizdevfull) | Azizbek Isroilov | Azizdev Corparation |  | Uzbekistan | 9489 |
+| 16 | [itsakbarov](https://github.com/itsakbarov) | Sardor | io.net | itsakbarov | Tashkent, Uzbekistan | 9240 |
+| 17 | [ummataliyev](https://github.com/ummataliyev) | Umidjon Ummataliyev | Safia |  | Tashkent | 9032 |
+| 18 | [Dave93](https://github.com/Dave93) | Davron Yuldashev |  | YulDavr | Tashkent, Uzbekistan | 8867 |
+| 19 | [Mukhsin0508](https://github.com/Mukhsin0508) | Mukhsin Mukhtorov | Higgsfield AI |  | Tashkent | 8831 |
+| 20 | [lexoice](https://github.com/lexoice) | Alexey | Lex INC |  | Uzbekistan Tashkent | 8555 |

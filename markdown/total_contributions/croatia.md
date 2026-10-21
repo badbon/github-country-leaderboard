@@ -1,6 +1,6 @@
 # Total Contributions - Croatia
 
-Generated: 2026-10-21T07:58:35.608Z
+Generated: 2026-10-21T09:34:25.551Z
 
 Users: 5420
 
@@ -16,13 +16,13 @@ Users: 5420
 | 8 | [SirBepy](https://github.com/SirBepy) | Josip Muzic | Proxify |  | Zagreb, Croatia | 9634 |
 | 9 | [markoboras0712](https://github.com/markoboras0712) | mboras | @prototypdigital |  | Osijek, Croatia | 9003 |
 | 10 | [bis3946](https://github.com/bis3946) | bis3946 | NuN Nexus of Unity  | bis3946 | Croatia | 8871 |
-| 11 | [Norgul](https://github.com/Norgul) | Marko Dupor | PlusMusic |  | Rijeka, Croatia | 8372 |
-| 12 | [lbagic](https://github.com/lbagic) | Luka Bagic |  |  | Croatia | 8198 |
-| 13 | [lazar-tomislav](https://github.com/lazar-tomislav) | Tomislav Lazar | Morgan Code |  | Croatia | 8131 |
-| 14 | [edisinovcic](https://github.com/edisinovcic) | Edi Sinovcic | SpaceShard | edisinovcic | Croatia | 8044 |
-| 15 | [piqusy](https://github.com/piqusy) | Ivan Ramljak | @infinum  |  | Zagreb | 7764 |
-| 16 | [ivanmeler](https://github.com/ivanmeler) | Ivan Meler | Meler Media Group | ivan_meler | Croatia, Vukovar | 7621 |
-| 17 | [mbrcic](https://github.com/mbrcic) | Mario Brcic |  |  | Zagreb, Croatia | 7336 |
-| 18 | [zvanjak](https://github.com/zvanjak) | Zvonimir Vanjak | Quantum Soft d.o.o. | zvanjak | Zagreb | 7219 |
-| 19 | [viborc](https://github.com/viborc) | Vibor Cipan | Daydream | viborc | Croatia | 7209 |
-| 20 | [verona-dev](https://github.com/verona-dev) | Zoran G. Verona | Good Code |  | Croatia | 6981 |
+| 11 | [SempaiEcchi](https://github.com/SempaiEcchi) | Leo Radočaj | Digital Nomad Agency |  | Pula, Croatia | 8428 |
+| 12 | [Norgul](https://github.com/Norgul) | Marko Dupor | PlusMusic |  | Rijeka, Croatia | 8372 |
+| 13 | [lbagic](https://github.com/lbagic) | Luka Bagic |  |  | Croatia | 8198 |
+| 14 | [lazar-tomislav](https://github.com/lazar-tomislav) | Tomislav Lazar | Morgan Code |  | Croatia | 8131 |
+| 15 | [edisinovcic](https://github.com/edisinovcic) | Edi Sinovcic | SpaceShard | edisinovcic | Croatia | 8044 |
+| 16 | [piqusy](https://github.com/piqusy) | Ivan Ramljak | @infinum  |  | Zagreb | 7764 |
+| 17 | [ivanmeler](https://github.com/ivanmeler) | Ivan Meler | Meler Media Group | ivan_meler | Croatia, Vukovar | 7621 |
+| 18 | [mbrcic](https://github.com/mbrcic) | Mario Brcic |  |  | Zagreb, Croatia | 7336 |
+| 19 | [zvanjak](https://github.com/zvanjak) | Zvonimir Vanjak | Quantum Soft d.o.o. | zvanjak | Zagreb | 7219 |
+| 20 | [viborc](https://github.com/viborc) | Vibor Cipan | Daydream | viborc | Croatia | 7209 |

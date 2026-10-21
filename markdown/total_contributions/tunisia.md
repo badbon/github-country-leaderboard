@@ -1,6 +1,6 @@
 # Total Contributions - Tunisia
 
-Generated: 2026-10-21T07:30:34.381Z
+Generated: 2026-10-21T09:07:51.171Z
 
 Users: 7158
 
@@ -20,9 +20,9 @@ Users: 7158
 | 12 | [BouajilaHamza](https://github.com/BouajilaHamza) | Hamza Bouajila |  |  | Tunisia | 6449 |
 | 13 | [njraladdin](https://github.com/njraladdin) | Aladdin Najjar |  | njraladdin | Tunisia | 6017 |
 | 14 | [safwendammak](https://github.com/safwendammak) | Safwen | Freelancer |  | Tunisia | 5984 |
-| 15 | [lord007tn](https://github.com/lord007tn) | Raed Bahri | @joodlab | El_Raed_Bahri | Tunisia | 5892 |
-| 16 | [taghoutikeyrus](https://github.com/taghoutikeyrus) | Tarek Taghouti | Keyrus |  | Tunisia | 5564 |
-| 17 | [baderdean](https://github.com/baderdean) | Badreddine Lejmi | ankaboot |  | Tunisia | 5480 |
-| 18 | [3omartn](https://github.com/3omartn) | omar jemli | Youth Geekers |  | Tunisia | 5258 |
+| 15 | [3omartn](https://github.com/3omartn) | omar jemli | Youth Geekers |  | Tunisia | 5901 |
+| 16 | [lord007tn](https://github.com/lord007tn) | Raed Bahri | @joodlab | El_Raed_Bahri | Tunisia | 5892 |
+| 17 | [taghoutikeyrus](https://github.com/taghoutikeyrus) | Tarek Taghouti | Keyrus |  | Tunisia | 5564 |
+| 18 | [baderdean](https://github.com/baderdean) | Badreddine Lejmi | ankaboot |  | Tunisia | 5480 |
 | 19 | [Ylandolsi](https://github.com/Ylandolsi) | Mohamed Yassine Landolsi  |  |  | Tunisia ,  Sousse ,  Msaken | 5161 |
 | 20 | [abbassi-ahmed](https://github.com/abbassi-ahmed) | Abbassiahmed |  |  | Tunisia | 5135 |

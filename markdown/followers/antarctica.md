@@ -1,6 +1,6 @@
 # Followers - Antarctica
 
-Generated: 2026-10-21T07:40:58.542Z
+Generated: 2026-10-21T09:19:39.584Z
 
 Users: 460
 
@@ -10,7 +10,7 @@ Users: 460
 | 2 | [Washi1337](https://github.com/Washi1337) | Washi |  | washi_dev | McMurdo Station, Antarctica | 619 |
 | 3 | [r-lyeh](https://github.com/r-lyeh) |  | C |  | Vostok, Antarctica | 463 |
 | 4 | [josephpoon](https://github.com/josephpoon) | Joseph Poon |  |  | Antarctica | 343 |
-| 5 | [walterwhite-69](https://github.com/walterwhite-69) | Walter |  |  | Antarctica | 222 |
+| 5 | [walterwhite-69](https://github.com/walterwhite-69) | Walter |  |  | Antarctica | 225 |
 | 6 | [kura](https://github.com/kura) | Kura | @bbc  |  | Halley Research Station, Antarctica | 200 |
 | 7 | [DenzelPenzel](https://github.com/DenzelPenzel) |  | @FAQGURU  |  | Antarctica | 185 |
 | 8 | [ifarbod](https://github.com/ifarbod) | iFarbod | SYSTEM_SERVICE_EXCEPTION | ifarbod | Antarctica  | 133 |

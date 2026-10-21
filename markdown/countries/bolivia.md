@@ -64,9 +64,9 @@ Indexed users: 1,783
 |---:|---|---|---|---:|
 | 1 | [Frosmin](https://github.com/Frosmin) | Simon Abasto Martinis | Bolivia | 2,323 |
 | 2 | [nicobytes](https://github.com/nicobytes) | Nicolas Molina Monroy | Cochabamba, Bolivia | 1,401 |
-| 3 | [ospfranco](https://github.com/ospfranco) | Oscar Franco | Bolivia | 576 |
+| 3 | [ospfranco](https://github.com/ospfranco) | Oscar Franco | Bolivia | 577 |
 | 4 | [lizarragadev](https://github.com/lizarragadev) | Gustavo Lizárraga | La Paz, Bolivia | 429 |
-| 5 | [Snifer](https://github.com/Snifer) | Snifer | Bolivia | 295 |
+| 5 | [Snifer](https://github.com/Snifer) | Snifer | Bolivia | 294 |
 | 6 | [kapit4n](https://github.com/kapit4n) | Luis Arce | Bolivia | 287 |
 | 7 | [SergioRibera](https://github.com/SergioRibera) | Sergio Alejandro Ribera Costa | Santa Cruz de la Sierra, Bolivia | 262 |
 | 8 | [CrisBelDev](https://github.com/CrisBelDev) | Cristian Abel | La Paz, Bolivia | 244 |
@@ -78,9 +78,9 @@ Indexed users: 1,783
 | 14 | [vitiko98](https://github.com/vitiko98) | Vitiko | Bolivia | 149 |
 | 15 | [luucamay](https://github.com/luucamay) | luucamay | La Paz, Bolivia | 146 |
 | 16 | [AndyIbanez](https://github.com/AndyIbanez) | Andy Ibanez | Bolivia | 138 |
-| 17 | [pazteddy](https://github.com/pazteddy) | Teddy Paz Muñoz | Bolivia | 133 |
+| 17 | [pazteddy](https://github.com/pazteddy) | Teddy Paz Muñoz | Bolivia | 134 |
 | 18 | [CarlaMamaniChavez](https://github.com/CarlaMamaniChavez) | Carla Vanesa Mamani Chavez | La Paz, Bolivia | 128 |
 | 19 | [alvarosiles11](https://github.com/alvarosiles11) | Alvaro Siles Estrada | Bolivia | 121 |
 | 20 | [mauforonda](https://github.com/mauforonda) | Mau Foronda | Bolivia | 119 |
 
-Generated: 2026-10-21T07:47:49.430Z
+Generated: 2026-10-21T09:26:25.382Z

@@ -77,10 +77,10 @@ Indexed users: 2,498
 | 13 | [trupakufi](https://github.com/trupakufi) | Mário Varela | Luanda, Angola | 205 |
 | 14 | [tchiinhemba](https://github.com/tchiinhemba) | Eládio Tchiinhemba | Luanda - Angola | 181 |
 | 15 | [EufranioDiogo](https://github.com/EufranioDiogo) | Eufránio Diogo | Angola | 180 |
-| 16 | [jofranqueira](https://github.com/jofranqueira) | José Frangueira | Angola | 171 |
-| 17 | [nazarepiedady](https://github.com/nazarepiedady) | Nazaré da Piedade | Angola | 171 |
-| 18 | [cirilocanganjo](https://github.com/cirilocanganjo) | Cirilo Cussaca Canganjo | Luanda, Amgola | 170 |
+| 16 | [cirilocanganjo](https://github.com/cirilocanganjo) | Cirilo Cussaca Canganjo | Luanda, Amgola | 172 |
+| 17 | [jofranqueira](https://github.com/jofranqueira) | José Frangueira | Angola | 171 |
+| 18 | [nazarepiedady](https://github.com/nazarepiedady) | Nazaré da Piedade | Angola | 171 |
 | 19 | [manuelernesto](https://github.com/manuelernesto) | Manuel Ernesto | Angola | 166 |
 | 20 | [AfonsoAfony](https://github.com/AfonsoAfony) | Afonso Narciso Da Silva | Luanda/Angola | 157 |
 
-Generated: 2026-10-21T07:40:52.243Z
+Generated: 2026-10-21T09:18:31.944Z

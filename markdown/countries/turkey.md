@@ -55,8 +55,8 @@ Indexed users: 79,162
 | 16 | [Siradankullanici](https://github.com/Siradankullanici) | Emirhan Uçan | Istanbul, Ümraniye | 6,735 |
 | 17 | [alerque](https://github.com/alerque) | Caleb Maclennan | İzmir, Türkiye | 6,527 |
 | 18 | [dmitrii-fediuk](https://github.com/dmitrii-fediuk) | Dmitrii Fediuk | Istanbul, Turkey | 6,516 |
-| 19 | [anilcancakir](https://github.com/anilcancakir) | Anılcan Çakır | Izmir, Turkey | 5,586 |
-| 20 | [esokullu](https://github.com/esokullu) | Emre Sokullu | Istanbul Turkey | 5,404 |
+| 19 | [Yigtwxx](https://github.com/Yigtwxx) | Yiğit ERDOĞAN | Turkey | 5,710 |
+| 20 | [anilcancakir](https://github.com/anilcancakir) | Anılcan Çakır | Izmir, Turkey | 5,586 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 79,162
 | 19 | [buger](https://github.com/buger) | Leonid Bugaev | Istanbul | 3,587 |
 | 20 | [ardaltunel](https://github.com/ardaltunel) | Arda Altunel | İstanbul/Turkey | 3,517 |
 
-Generated: 2026-10-21T08:54:41.786Z
+Generated: 2026-10-21T09:07:58.523Z

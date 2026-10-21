@@ -1,6 +1,6 @@
 # Public Contributions - Turkey
 
-Generated: 2026-10-21T08:54:41.786Z
+Generated: 2026-10-21T09:07:58.523Z
 
 Users: 79162
 
@@ -24,5 +24,5 @@ Users: 79162
 | 16 | [Siradankullanici](https://github.com/Siradankullanici) | Emirhan Uçan |  |  | Istanbul, Ümraniye | 6735 |
 | 17 | [alerque](https://github.com/alerque) | Caleb Maclennan |  | CalebMaclennan | İzmir, Türkiye | 6527 |
 | 18 | [dmitrii-fediuk](https://github.com/dmitrii-fediuk) | Dmitrii Fediuk |  |  | Istanbul, Turkey | 6516 |
-| 19 | [anilcancakir](https://github.com/anilcancakir) | Anılcan Çakır |  |  | Izmir, Turkey | 5586 |
-| 20 | [esokullu](https://github.com/esokullu) | Emre Sokullu |  | EmreSokullu | Istanbul Turkey | 5404 |
+| 19 | [Yigtwxx](https://github.com/Yigtwxx) | Yiğit ERDOĞAN |  | Yigtwx | Turkey | 5710 |
+| 20 | [anilcancakir](https://github.com/anilcancakir) | Anılcan Çakır |  |  | Izmir, Turkey | 5586 |
