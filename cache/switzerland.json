@@ -39054,22 +39054,10 @@
     "location": "Zürich, Switzerland",
     "company": "ETH Zürich",
     "twitterUsername": "",
-    "followers": 23,
-    "privateContributions": 211,
-    "publicContributions": 166,
+    "followers": 22,
+    "privateContributions": 216,
+    "publicContributions": 191,
     "createdAt": "2021-04-15T22:57:33Z"
-  },
-  {
-    "login": "Sageder",
-    "name": "Clemens H. Sageder",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/77528379?s=72&u=67ca99fdbdfff45fb5e0123e16115004940ea4bf&v=4",
-    "location": "Zurich, Switzerland",
-    "company": "",
-    "twitterUsername": "Clemens1",
-    "followers": 23,
-    "privateContributions": 198,
-    "publicContributions": 104,
-    "createdAt": "2021-01-16T08:28:03Z"
   },
   {
     "login": "Nevah5",
@@ -39079,8 +39067,8 @@
     "company": "",
     "twitterUsername": "Neevaah5",
     "followers": 22,
-    "privateContributions": 125,
-    "publicContributions": 460,
+    "privateContributions": 188,
+    "publicContributions": 436,
     "createdAt": "2021-01-10T15:18:23Z"
   },
   {
@@ -39092,7 +39080,7 @@
     "twitterUsername": "",
     "followers": 22,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 2,
     "createdAt": "2021-06-09T22:02:33Z"
   },
   {
@@ -39103,8 +39091,8 @@
     "company": "EPFL",
     "twitterUsername": "",
     "followers": 22,
-    "privateContributions": 358,
-    "publicContributions": 1,
+    "privateContributions": 118,
+    "publicContributions": 104,
     "createdAt": "2021-01-28T05:43:09Z"
   },
   {
@@ -39116,7 +39104,7 @@
     "twitterUsername": "",
     "followers": 22,
     "privateContributions": 0,
-    "publicContributions": 61,
+    "publicContributions": 37,
     "createdAt": "2021-04-16T07:45:19Z"
   },
   {
@@ -39126,9 +39114,9 @@
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 21,
-    "privateContributions": 5415,
-    "publicContributions": 956,
+    "followers": 7,
+    "privateContributions": 3591,
+    "publicContributions": 791,
     "createdAt": "2021-02-08T08:43:15Z"
   },
   {
@@ -39138,9 +39126,9 @@
     "location": "Switzerland",
     "company": "@threema-ch",
     "twitterUsername": "",
-    "followers": 21,
+    "followers": 22,
     "privateContributions": 0,
-    "publicContributions": 234,
+    "publicContributions": 250,
     "createdAt": "2021-02-08T17:00:59Z"
   },
   {
@@ -39150,9 +39138,9 @@
     "location": "Lausanne, Switzerland",
     "company": "@PentestSociety-PSociety ",
     "twitterUsername": "",
-    "followers": 20,
+    "followers": 21,
     "privateContributions": 0,
-    "publicContributions": 33,
+    "publicContributions": 34,
     "createdAt": "2021-04-24T21:00:01Z"
   },
   {
@@ -39164,7 +39152,7 @@
     "twitterUsername": "",
     "followers": 20,
     "privateContributions": 0,
-    "publicContributions": 59,
+    "publicContributions": 44,
     "createdAt": "2021-05-11T08:32:06Z"
   },
   {
@@ -39176,7 +39164,7 @@
     "twitterUsername": "",
     "followers": 20,
     "privateContributions": 10,
-    "publicContributions": 26,
+    "publicContributions": 7,
     "createdAt": "2021-01-18T09:00:34Z"
   },
   {
@@ -39186,22 +39174,10 @@
     "location": "Zürich, Switzerland",
     "company": "Migros-Genossenschafts-Bund",
     "twitterUsername": "",
-    "followers": 18,
+    "followers": 20,
     "privateContributions": 0,
-    "publicContributions": 86,
+    "publicContributions": 71,
     "createdAt": "2021-06-17T17:38:56Z"
-  },
-  {
-    "login": "CynthiaGichuki",
-    "name": "Cynthia Gichuki",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/77770516?s=72&v=4",
-    "location": "Luzern, Switzerland ",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 18,
-    "privateContributions": 0,
-    "publicContributions": 83,
-    "createdAt": "2021-01-21T05:53:49Z"
   },
   {
     "login": "miwytt",
@@ -39210,9 +39186,9 @@
     "location": "Zurich, Switzerland",
     "company": "University of Zurich",
     "twitterUsername": "",
-    "followers": 17,
-    "privateContributions": 841,
-    "publicContributions": 144,
+    "followers": 19,
+    "privateContributions": 923,
+    "publicContributions": 113,
     "createdAt": "2021-02-19T23:14:35Z"
   },
   {
@@ -39222,9 +39198,9 @@
     "location": "Switzerland",
     "company": "SUVA",
     "twitterUsername": "",
-    "followers": 17,
-    "privateContributions": 158,
-    "publicContributions": 68,
+    "followers": 16,
+    "privateContributions": 172,
+    "publicContributions": 75,
     "createdAt": "2021-04-05T12:19:34Z"
   },
   {
@@ -39234,34 +39210,22 @@
     "location": "Zurich,Switzerland",
     "company": "ETHz",
     "twitterUsername": "",
-    "followers": 17,
-    "privateContributions": 148,
-    "publicContributions": 10,
+    "followers": 18,
+    "privateContributions": 108,
+    "publicContributions": 11,
     "createdAt": "2021-01-15T15:02:32Z"
   },
   {
     "login": "leoevic",
-    "name": "Leonardo Ević",
+    "name": "Leonardo Evic",
     "avatarUrl": "https://avatars.githubusercontent.com/u/80201106?s=72&u=45bc50c67eaa7394b33c28fbff135267e86316d8&v=4",
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 17,
-    "privateContributions": 97,
-    "publicContributions": 130,
+    "followers": 11,
+    "privateContributions": 151,
+    "publicContributions": 137,
     "createdAt": "2021-03-07T11:35:32Z"
-  },
-  {
-    "login": "autquis",
-    "name": "Hossein Moghaddas",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/81055247?s=72&u=4a2d52f0c606a469082d0dae529efe15e7e42002&v=4",
-    "location": "Lausanne, Switzerland",
-    "company": "EPFL",
-    "twitterUsername": "",
-    "followers": 17,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2021-03-20T23:57:02Z"
   },
   {
     "login": "Sprudeel",
@@ -39270,9 +39234,9 @@
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 17,
-    "privateContributions": 515,
-    "publicContributions": 277,
+    "followers": 15,
+    "privateContributions": 920,
+    "publicContributions": 18,
     "createdAt": "2021-02-25T19:19:19Z"
   },
   {
@@ -39282,7 +39246,7 @@
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 17,
+    "followers": 18,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-05-17T00:51:56Z"

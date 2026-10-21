@@ -39164,7 +39164,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 0,
     "createdAt": "2024-07-09T03:25:09Z"
   },
   {
@@ -39176,7 +39176,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 85,
+    "publicContributions": 87,
     "createdAt": "2024-11-28T01:55:57Z"
   },
   {
@@ -39188,7 +39188,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 0,
     "createdAt": "2024-11-12T22:25:53Z"
   },
   {
@@ -39200,7 +39200,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 99,
+    "publicContributions": 116,
     "createdAt": "2024-08-30T22:51:29Z"
   },
   {
@@ -39222,9 +39222,9 @@
     "location": "Córdoba, Argentina",
     "company": "Freelance",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 282,
-    "publicContributions": 148,
+    "followers": 8,
+    "privateContributions": 936,
+    "publicContributions": 75,
     "createdAt": "2024-09-19T20:05:58Z"
   },
   {
@@ -39234,9 +39234,9 @@
     "location": "La Rioja, Argentina",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 270,
+    "publicContributions": 262,
     "createdAt": "2024-07-01T12:35:22Z"
   },
   {
@@ -39260,7 +39260,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 137,
+    "publicContributions": 246,
     "createdAt": "2024-12-04T21:29:10Z"
   },
   {
@@ -39270,22 +39270,10 @@
     "location": "Argentina",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 7,
-    "publicContributions": 83,
+    "publicContributions": 35,
     "createdAt": "2024-10-18T22:01:23Z"
-  },
-  {
-    "login": "Nilchs",
-    "name": "Nicolas Valentin Alvarez",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/181163524?s=72&v=4",
-    "location": "Buenos Aires, Argentina",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 2,
-    "createdAt": "2024-09-10T22:49:24Z"
   },
   {
     "login": "SolAndriani",
@@ -39296,7 +39284,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 144,
+    "publicContributions": 123,
     "createdAt": "2024-11-26T14:08:44Z"
   },
   {
@@ -39306,7 +39294,7 @@
     "location": "Argentina",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 35,
     "createdAt": "2024-10-27T13:10:08Z"
@@ -39314,13 +39302,13 @@
   {
     "login": "santimaestri",
     "name": "Santi Maestri",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/186585547?s=72&u=6f4e5bda1ad282e38454de66d1bf3fb428439635&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/186585547?s=72&u=c2b963d4ceac361e3d26e9d8e0c658ee8f28a79b&v=4",
     "location": "Buenos Aires, Argentina",
-    "company": "",
+    "company": "RESUELTO",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 37,
     "createdAt": "2024-10-28T13:01:36Z"
   },
   {
@@ -39330,9 +39318,9 @@
     "location": "Argentina",
     "company": "",
     "twitterUsername": "ltarooZ",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 384,
+    "publicContributions": 1407,
     "createdAt": "2024-10-02T17:43:39Z"
   },
   {
@@ -39342,9 +39330,9 @@
     "location": "Argentina",
     "company": "valtira.net",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 1191,
+    "followers": 5,
+    "privateContributions": 190,
+    "publicContributions": 1377,
     "createdAt": "2024-07-25T12:09:01Z"
   },
   {
@@ -39354,9 +39342,9 @@
     "location": "Mendoza, Argentina",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 105,
-    "publicContributions": 133,
+    "followers": 5,
+    "privateContributions": 494,
+    "publicContributions": 401,
     "createdAt": "2024-08-15T17:27:43Z"
   },
   {

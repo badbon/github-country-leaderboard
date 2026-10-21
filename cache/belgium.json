@@ -39416,7 +39416,7 @@
     "twitterUsername": "eBottura29",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 153,
+    "publicContributions": 117,
     "createdAt": "2021-06-01T19:04:39Z"
   },
   {
@@ -39438,9 +39438,9 @@
     "location": "Kortrijk, Belgium",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 55,
-    "publicContributions": 19,
+    "followers": 2,
+    "privateContributions": 51,
+    "publicContributions": 39,
     "createdAt": "2021-05-13T11:27:28Z"
   },
   {
@@ -39452,7 +39452,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 3,
     "createdAt": "2021-03-18T10:06:36Z"
   },
   {
@@ -39463,8 +39463,8 @@
     "company": "Protobit",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 232,
-    "publicContributions": 63,
+    "privateContributions": 226,
+    "publicContributions": 73,
     "createdAt": "2021-03-25T15:23:51Z"
   },
   {
@@ -39475,7 +39475,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 6,
+    "privateContributions": 4,
     "publicContributions": 1,
     "createdAt": "2021-12-04T20:10:28Z"
   },
@@ -39510,9 +39510,9 @@
     "location": "Belgium",
     "company": "",
     "twitterUsername": "lambopoewert",
-    "followers": 1,
-    "privateContributions": 1456,
-    "publicContributions": 543,
+    "followers": 2,
+    "privateContributions": 5550,
+    "publicContributions": 960,
     "createdAt": "2021-09-19T11:05:51Z"
   },
   {
@@ -39547,8 +39547,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 32,
-    "publicContributions": 10,
+    "privateContributions": 54,
+    "publicContributions": 2,
     "createdAt": "2021-11-03T10:47:57Z"
   },
   {
@@ -39559,8 +39559,8 @@
     "company": "Devoteam",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 19,
+    "privateContributions": 2,
+    "publicContributions": 1,
     "createdAt": "2021-01-18T17:08:51Z"
   },
   {
@@ -220498,5 +220498,17 @@
     "privateContributions": 0,
     "publicContributions": 154,
     "createdAt": "2021-04-16T07:54:23Z"
+  },
+  {
+    "login": "autquis",
+    "name": "Hossein Moghaddas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/81055247?s=72&u=4a2d52f0c606a469082d0dae529efe15e7e42002&v=4",
+    "location": "Leuven, Belgium",
+    "company": "COSIC, KU Leuven",
+    "twitterUsername": "",
+    "followers": 17,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2021-03-20T23:57:02Z"
   }
 ]

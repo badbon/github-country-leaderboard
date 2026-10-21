@@ -39307,8 +39307,8 @@
     "company": "Veevoy",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 139,
-    "publicContributions": 0,
+    "privateContributions": 78,
+    "publicContributions": 13,
     "createdAt": "2021-04-14T08:13:03Z"
   },
   {
@@ -39320,7 +39320,7 @@
     "twitterUsername": "Rektoooooo",
     "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 686,
+    "publicContributions": 627,
     "createdAt": "2021-11-29T10:34:55Z"
   },
   {
@@ -39330,9 +39330,9 @@
     "location": "Prague",
     "company": "FEL ČVUT",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 73,
-    "publicContributions": 444,
+    "followers": 12,
+    "privateContributions": 109,
+    "publicContributions": 364,
     "createdAt": "2021-12-18T11:30:03Z"
   },
   {
@@ -39342,9 +39342,9 @@
     "location": "Prague",
     "company": "@topk-io",
     "twitterUsername": "matospiso",
-    "followers": 9,
+    "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 25,
     "createdAt": "2021-08-14T12:57:57Z"
   },
   {
@@ -39354,8 +39354,8 @@
     "location": "Prague",
     "company": "Raiffeisenbank a.s",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 132,
+    "followers": 11,
+    "privateContributions": 445,
     "publicContributions": 78,
     "createdAt": "2021-05-16T16:37:01Z"
   },
@@ -39367,8 +39367,8 @@
     "company": "IOCB Prague",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 364,
-    "publicContributions": 291,
+    "privateContributions": 1203,
+    "publicContributions": 313,
     "createdAt": "2021-03-12T14:15:01Z"
   },
   {
@@ -39379,8 +39379,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 16,
-    "publicContributions": 353,
+    "privateContributions": 17,
+    "publicContributions": 320,
     "createdAt": "2021-07-19T15:36:44Z"
   },
   {
@@ -39404,7 +39404,7 @@
     "twitterUsername": "ygttnn",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 27,
     "createdAt": "2021-12-18T10:19:46Z"
   },
   {
@@ -39415,7 +39415,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 1119,
+    "privateContributions": 1033,
     "publicContributions": 0,
     "createdAt": "2021-01-28T18:26:00Z"
   },
@@ -39439,8 +39439,8 @@
     "company": "Czech Hydrometeorological Institute",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 18,
-    "publicContributions": 72,
+    "privateContributions": 13,
+    "publicContributions": 119,
     "createdAt": "2021-03-19T18:45:15Z"
   },
   {
@@ -39451,7 +39451,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 679,
+    "privateContributions": 1132,
     "publicContributions": 0,
     "createdAt": "2021-03-08T20:21:39Z"
   },
@@ -39462,7 +39462,7 @@
     "location": "Prague",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 10,
     "privateContributions": 7,
     "publicContributions": 87,
     "createdAt": "2021-04-14T17:00:56Z"
@@ -39475,8 +39475,8 @@
     "company": "Apify",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 635,
-    "publicContributions": 648,
+    "privateContributions": 1087,
+    "publicContributions": 632,
     "createdAt": "2021-03-03T14:23:18Z"
   },
   {
@@ -39488,7 +39488,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2021-09-20T10:22:15Z"
   },
   {
@@ -39498,9 +39498,9 @@
     "location": "Prague",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 48,
+    "publicContributions": 32,
     "createdAt": "2021-11-12T15:58:16Z"
   },
   {
@@ -39511,7 +39511,7 @@
     "company": "@CTU-Space-Research ",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 11,
+    "privateContributions": 16,
     "publicContributions": 7,
     "createdAt": "2021-02-08T15:47:32Z"
   },
@@ -39523,21 +39523,9 @@
     "company": "TV Nova",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 33,
+    "privateContributions": 36,
     "publicContributions": 1,
     "createdAt": "2021-01-26T15:47:41Z"
-  },
-  {
-    "login": "welmarstone",
-    "name": "Elmar",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/86524935?s=72&u=4a98f332c20357f51d469af7b90f6505013b9f5e&v=4",
-    "location": "Prague",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 47,
-    "publicContributions": 43,
-    "createdAt": "2021-06-26T14:22:52Z"
   },
   {
     "login": "capekpetr",
