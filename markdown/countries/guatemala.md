@@ -46,17 +46,17 @@ Indexed users: 3,210
 | 7 | [anndreloopez012](https://github.com/anndreloopez012) | Andre Lopez | Guatemala | 1,633 |
 | 8 | [eduardordev](https://github.com/eduardordev) | Eduardo Ramírez | Guatemala | 1,536 |
 | 9 | [gafnts](https://github.com/gafnts) | Gabriel Fuentes | Guatemala | 1,447 |
-| 10 | [YoverMarkt](https://github.com/YoverMarkt) | Yover Rosado Conforme | Guatemala | 1,407 |
-| 11 | [ricardious](https://github.com/ricardious) | Alex Ricardo Castañeda Rodríguez | Guatemala | 1,394 |
+| 10 | [ricardious](https://github.com/ricardious) | Alex Ricardo Castañeda Rodríguez | Guatemala | 1,439 |
+| 11 | [YoverMarkt](https://github.com/YoverMarkt) | Yover Rosado Conforme | Guatemala | 1,407 |
 | 12 | [erwindank](https://github.com/erwindank) | Erwin Solorzano | Guatemala | 1,358 |
 | 13 | [MaxMald](https://github.com/MaxMald) | Max Maldonado | Guatemala | 1,305 |
 | 14 | [ykro](https://github.com/ykro) | Adrián Catalán | Guatemala | 1,203 |
 | 15 | [eylles](https://github.com/eylles) |  | Guatemala | 1,067 |
 | 16 | [robindanilo2218](https://github.com/robindanilo2218) | Robin Gregorio | Guatemala | 1,026 |
 | 17 | [AlfredoG87](https://github.com/AlfredoG87) | Alfredo Gutierrez | Guatemala | 1,019 |
-| 18 | [GlendyT](https://github.com/GlendyT) | Glendy Tuyuc | Guatemala | 995 |
-| 19 | [acwilan](https://github.com/acwilan) | Andres Rovira | Guatemala | 959 |
-| 20 | [alemanuel18](https://github.com/alemanuel18) | Alejandro Jerez | Guatemala, Guatemala | 899 |
+| 18 | [alemanuel18](https://github.com/alemanuel18) | Alejandro Jerez | Guatemala, Guatemala | 998 |
+| 19 | [GlendyT](https://github.com/GlendyT) | Glendy Tuyuc | Guatemala | 995 |
+| 20 | [acwilan](https://github.com/acwilan) | Andres Rovira | Guatemala | 959 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 3,210
 | 19 | [cms](https://github.com/cms) | Christian C. Salvadó | Guatemala | 117 |
 | 20 | [tian2992](https://github.com/tian2992) | Sebastian Oliva | Guatemala | 113 |
 
-Generated: 2026-10-21T00:40:16.873Z
+Generated: 2026-10-21T02:23:02.589Z

@@ -31,7 +31,7 @@ Indexed users: 68
 | 17 | [eydunn](https://github.com/eydunn) | Eyðun Nielsen | Tórshavn, Faroe islands | 690 |
 | 18 | [hansjd](https://github.com/hansjd) | Hans Jákup Danielsen | Faroe Islands | 649 |
 | 19 | [TimonPeng](https://github.com/TimonPeng) | Timon Peng | Føroyar | 620 |
-| 20 | [bardurdam](https://github.com/bardurdam) | Bárður Viberg Dam | Faroe Islands | 500 |
+| 20 | [bardurdam](https://github.com/bardurdam) | Bárður Viberg Dam | Faroe Islands | 498 |
 
 ## Public Contributions
 
@@ -56,7 +56,7 @@ Indexed users: 68
 | 17 | [BergurDavidsen](https://github.com/BergurDavidsen) |  | Faroe Islands | 89 |
 | 18 | [michaelgyp](https://github.com/michaelgyp) | Michael Gusti Yanu Putra | Faroe Islands | 88 |
 | 19 | [argilzar](https://github.com/argilzar) | Brian Bischoff | Faroe Islands | 54 |
-| 20 | [djupvikdigital](https://github.com/djupvikdigital) | Reidar Djupvik | Tórshavn | 40 |
+| 20 | [djupvikdigital](https://github.com/djupvikdigital) | Reidar Djupvik | Tórshavn | 48 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 68
 | 19 | [olavurellefsen](https://github.com/olavurellefsen) | Olavur Ellefsen | Faroe Islands | 7 |
 | 20 | [RudiPersson](https://github.com/RudiPersson) | Rudi Persson | Tórshavn, Faroe Islands | 7 |
 
-Generated: 2026-10-21T00:32:48.797Z
+Generated: 2026-10-21T02:17:12.190Z

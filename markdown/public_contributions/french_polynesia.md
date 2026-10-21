@@ -1,6 +1,6 @@
 # Public Contributions - French Polynesia
 
-Generated: 2026-10-21T00:34:24.643Z
+Generated: 2026-10-21T02:19:16.743Z
 
 Users: 60
 
@@ -9,7 +9,7 @@ Users: 60
 | 1 | [smortex](https://github.com/smortex) | Romain Tartière | @FreeBSD @opus-codium @voxpupuli |  | Faa'a, Tahiti, French Polynesia | 1041 |
 | 2 | [ch4mpy](https://github.com/ch4mpy) | Jérôme Wacongne |  |  | Papeete, French Polynesia | 502 |
 | 3 | [craff](https://github.com/craff) | Christophe Raffalli | Gaati, UPF |  | Polynésie, Française | 428 |
-| 4 | [marsender](https://github.com/marsender) | Didier Corbière |  |  | French Polynesia | 390 |
+| 4 | [marsender](https://github.com/marsender) | Didier Corbière |  |  | French Polynesia | 385 |
 | 5 | [N1coc4colA](https://github.com/N1coc4colA) |  | The Community | n1coc4cola | French Polynesia | 359 |
 | 6 | [jaffadog](https://github.com/jaffadog) | Jeremy Waters |  |  | Tahanea, Tuamotus, French Polynesia | 325 |
 | 7 | [jburckel](https://github.com/jburckel) |  | natimai.solutions |  | French Polynesia | 246 |
@@ -24,5 +24,5 @@ Users: 60
 | 16 | [MartinBINARD](https://github.com/MartinBINARD) | Martin Binard |  |  | Tahiti, French Polynesia | 7 |
 | 17 | [Heinux](https://github.com/Heinux) | Heinux |  |  | French Polynesia | 5 |
 | 18 | [JDaviso1](https://github.com/JDaviso1) | John Davison |  |  | French Polynesia | 4 |
-| 19 | [rputoa](https://github.com/rputoa) | Rowan PUTOA |  |  | Papeete, French Polynesia | 4 |
-| 20 | [HURIMOZ](https://github.com/HURIMOZ) | Huri Translations | Huri Translations |  | Mo'orea, French Polynesia | 3 |
+| 19 | [HURIMOZ](https://github.com/HURIMOZ) | Huri Translations | Huri Translations |  | Mo'orea, French Polynesia | 3 |
+| 20 | [rputoa](https://github.com/rputoa) | Rowan PUTOA |  |  | Papeete, French Polynesia | 3 |

@@ -25,13 +25,13 @@ Indexed users: 339
 | 11 | [youko509](https://github.com/youko509) |  Erico Saint-Charles | Haiti | 1,809 |
 | 12 | [bleuscyther](https://github.com/bleuscyther) | jeffrey n. carre | Haiti | 1,808 |
 | 13 | [kingsGuillaume99](https://github.com/kingsGuillaume99) | Guillaume Kingsley | Port-au-Prince , Haiti | 1,754 |
-| 14 | [didierganthier](https://github.com/didierganthier) | Didier Peran Ganthier | Port-au-prince, Haïti | 1,696 |
+| 14 | [didierganthier](https://github.com/didierganthier) | Didier Peran Ganthier | Port-au-prince, Haïti | 1,692 |
 | 15 | [thecassion](https://github.com/thecassion) | Pierre Robentz CASSION | Haiti | 1,616 |
 | 16 | [antifugazis](https://github.com/antifugazis) | Jyvor Slaadel Mortimer | Port-au-Prince | 1,483 |
-| 17 | [fater04](https://github.com/fater04) | fater_04 | Haiti | 1,197 |
+| 17 | [fater04](https://github.com/fater04) | fater_04 | Haiti | 1,217 |
 | 18 | [jsbeaudry](https://github.com/jsbeaudry) | Beaudry Jean Sauvenel | Port-au-prince, Haiti | 981 |
-| 19 | [EdManDev](https://github.com/EdManDev) | EdManDev | Haiti | 942 |
-| 20 | [dukenst2006](https://github.com/dukenst2006) | Thelemaque | Port-au-Prince | 938 |
+| 19 | [dukenst2006](https://github.com/dukenst2006) | Thelemaque | Port-au-Prince | 938 |
+| 20 | [EdManDev](https://github.com/EdManDev) | EdManDev | Haiti | 938 |
 
 ## Public Contributions
 
@@ -62,7 +62,7 @@ Indexed users: 339
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [didierganthier](https://github.com/didierganthier) | Didier Peran Ganthier | Port-au-prince, Haïti | 264 |
+| 1 | [didierganthier](https://github.com/didierganthier) | Didier Peran Ganthier | Port-au-prince, Haïti | 265 |
 | 2 | [jkenley](https://github.com/jkenley) | Kenley Jean | Haiti | 89 |
 | 3 | [davidsonluma](https://github.com/davidsonluma) | Davidson | Haiti | 72 |
 | 4 | [cbaja](https://github.com/cbaja) | Carly BAJA | HAITI | 71 |
@@ -83,4 +83,4 @@ Indexed users: 339
 | 19 | [KeitelDOG](https://github.com/KeitelDOG) | Keitel Jovin | Delmas 41, Ouest, Haiti | 32 |
 | 20 | [skydevht](https://github.com/skydevht) | Holy-Elie Scaïde | Port-au-prince, Haïti | 32 |
 
-Generated: 2026-10-21T00:41:54.577Z
+Generated: 2026-10-21T02:23:33.488Z

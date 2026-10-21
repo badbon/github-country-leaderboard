@@ -1,16 +1,16 @@
 # Total Contributions - French Polynesia
 
-Generated: 2026-10-21T00:34:24.643Z
+Generated: 2026-10-21T02:19:16.743Z
 
 Users: 60
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [jaffadog](https://github.com/jaffadog) | Jeremy Waters |  |  | Tahanea, Tuamotus, French Polynesia | 3901 |
-| 2 | [jburckel](https://github.com/jburckel) |  | natimai.solutions |  | French Polynesia | 3040 |
-| 3 | [marsender](https://github.com/marsender) | Didier Corbière |  |  | French Polynesia | 2875 |
+| 1 | [jaffadog](https://github.com/jaffadog) | Jeremy Waters |  |  | Tahanea, Tuamotus, French Polynesia | 3995 |
+| 2 | [jburckel](https://github.com/jburckel) |  | natimai.solutions |  | French Polynesia | 3048 |
+| 3 | [marsender](https://github.com/marsender) | Didier Corbière |  |  | French Polynesia | 2870 |
 | 4 | [smortex](https://github.com/smortex) | Romain Tartière | @FreeBSD @opus-codium @voxpupuli |  | Faa'a, Tahiti, French Polynesia | 1041 |
-| 5 | [jalik](https://github.com/jalik) | Karl Stein | SIGMA POLYNESIA | jalik26 | French Polynesia | 734 |
+| 5 | [jalik](https://github.com/jalik) | Karl Stein | SIGMA POLYNESIA | jalik26 | French Polynesia | 732 |
 | 6 | [ch4mpy](https://github.com/ch4mpy) | Jérôme Wacongne |  |  | Papeete, French Polynesia | 502 |
 | 7 | [N1coc4colA](https://github.com/N1coc4colA) |  | The Community | n1coc4cola | French Polynesia | 467 |
 | 8 | [craff](https://github.com/craff) | Christophe Raffalli | Gaati, UPF |  | Polynésie, Française | 428 |
@@ -21,7 +21,7 @@ Users: 60
 | 13 | [Apollo987](https://github.com/Apollo987) | Jerome B |  |  | French Polynesia | 64 |
 | 14 | [laurentpellet](https://github.com/laurentpellet) | Laurent PELLET | ispf.pf |  | French Polynesia | 42 |
 | 15 | [kavehei-lang](https://github.com/kavehei-lang) | Anastasia - HIKUTINI |  |  | Polynésie Française | 34 |
-| 16 | [teuna](https://github.com/teuna) | Teuna Ferrand |  |  | Tahiti, French Polynesia | 18 |
+| 16 | [teuna](https://github.com/teuna) | Teuna Ferrand |  |  | Tahiti, French Polynesia | 17 |
 | 17 | [AJamelot](https://github.com/AJamelot) | ajamelot | Laboratoire de Géophysique de Tahiti |  | Polynésie Française | 12 |
 | 18 | [DLTBryan](https://github.com/DLTBryan) |  |  |  | French Polynesia | 12 |
 | 19 | [jbtheou](https://github.com/jbtheou) | Jean-Baptiste Théou |  |  | French Polynesia | 7 |

@@ -12,7 +12,7 @@ Indexed users: 11,162
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [bajzikgyuri](https://github.com/bajzikgyuri) | gyajzikburi | Budapest | 33,538 |
+| 1 | [bajzikgyuri](https://github.com/bajzikgyuri) | gyajzikburi | Budapest | 42,901 |
 | 2 | [realhidden](https://github.com/realhidden) | Zsombor Paróczi | Hungary | 26,116 |
 | 3 | [steven-pribilinskiy](https://github.com/steven-pribilinskiy) | Steven Pribilinskiy | Hungary, Budapest | 23,151 |
 | 4 | [andrasbacsai](https://github.com/andrasbacsai) | Andras Bacsai | Székesfehérvár, Hungary | 23,143 |
@@ -83,4 +83,4 @@ Indexed users: 11,162
 | 19 | [tib](https://github.com/tib) | Tibor Bödecs | Hungary | 600 |
 | 20 | [Aylur](https://github.com/Aylur) | Kristóf Demeter | Hungary | 572 |
 
-Generated: 2026-10-21T00:42:45.145Z
+Generated: 2026-10-21T02:24:47.447Z

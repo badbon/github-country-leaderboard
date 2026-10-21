@@ -70,7 +70,7 @@ Published countries: 234
 | Eritrea | 17 | [View](./eritrea.md) |
 | Estonia | 4,895 | [View](./estonia.md) |
 | Eswatini | 108 | [View](./eswatini.md) |
-| Ethiopia | 6,673 | [View](./ethiopia.md) |
+| Ethiopia | 6,672 | [View](./ethiopia.md) |
 | Falkland Islands | 13 | [View](./falkland_islands.md) |
 | Faroe Islands | 68 | [View](./faroe_islands.md) |
 | Fiji | 325 | [View](./fiji.md) |
@@ -83,7 +83,7 @@ Published countries: 234
 | Georgia | 6,873 | [View](./georgia.md) |
 | Ghana | 7,077 | [View](./ghana.md) |
 | Gibraltar | 93 | [View](./gibraltar.md) |
-| Greece | 15,536 | [View](./greece.md) |
+| Greece | 15,535 | [View](./greece.md) |
 | Greenland | 58 | [View](./greenland.md) |
 | Grenada | 37 | [View](./grenada.md) |
 | Guadeloupe | 86 | [View](./guadeloupe.md) |
@@ -99,7 +99,7 @@ Published countries: 234
 | Hong Kong | 10,258 | [View](./hong_kong.md) |
 | Hungary | 11,162 | [View](./hungary.md) |
 | Iceland | 1,579 | [View](./iceland.md) |
-| Indonesia | 63,279 | [View](./indonesia.md) |
+| Indonesia | 63,278 | [View](./indonesia.md) |
 | Iran | 26,859 | [View](./iran.md) |
 | Iraq | 2,231 | [View](./iraq.md) |
 | Ireland | 19,487 | [View](./ireland.md) |
@@ -239,4 +239,4 @@ Published countries: 234
 | Zambia | 1,337 | [View](./zambia.md) |
 | Zimbabwe | 1,656 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-21T02:15:17.794Z
+Generated: 2026-10-21T02:31:05.593Z
