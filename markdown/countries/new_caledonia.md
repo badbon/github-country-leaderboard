@@ -27,10 +27,10 @@ Indexed users: 111
 | 13 | [bpouzet](https://github.com/bpouzet) | Benoît Pouzet | Nouméa, New Caledonia | 943 |
 | 14 | [lschaeffer313](https://github.com/lschaeffer313) | Laurent Schaeffer | New-Caledonia | 790 |
 | 15 | [gvdr](https://github.com/gvdr) | Giulio Valentino Dalla Riva | Noumea, New Caledonia | 742 |
-| 16 | [aNaoy](https://github.com/aNaoy) | Yoan Agostini | Nouméa | 720 |
+| 16 | [aNaoy](https://github.com/aNaoy) | Yoan Agostini | Nouméa | 721 |
 | 17 | [FreddieJH](https://github.com/FreddieJH) | Freddie J. Heather | Noumea, New Caledonia | 662 |
 | 18 | [ellisp](https://github.com/ellisp) | Peter Ellis | Nouméa, Nouvelle-Calédonie | 632 |
-| 19 | [darwiin](https://github.com/darwiin) | Christophe ROGER | New Caledonia | 520 |
+| 19 | [darwiin](https://github.com/darwiin) | Christophe ROGER | New Caledonia | 519 |
 | 20 | [BJ-Cochrane](https://github.com/BJ-Cochrane) | Ben Cochrane | Nouméa | 486 |
 
 ## Public Contributions
@@ -44,9 +44,9 @@ Indexed users: 111
 | 5 | [gvdr](https://github.com/gvdr) | Giulio Valentino Dalla Riva | Noumea, New Caledonia | 742 |
 | 6 | [PLStenger](https://github.com/PLStenger) | Pierre-Louis Stenger | Nouméa, New-Caledonia | 435 |
 | 7 | [jchable](https://github.com/jchable) | Julien CHABLE | Nouméa | 382 |
-| 8 | [Nem0oo](https://github.com/Nem0oo) | Guillaume COURTOT | New-Caledonia | 371 |
-| 9 | [loxK](https://github.com/loxK) | Laurent Dinclaux | New Caledonia | 369 |
-| 10 | [aNaoy](https://github.com/aNaoy) | Yoan Agostini | Nouméa | 345 |
+| 8 | [loxK](https://github.com/loxK) | Laurent Dinclaux | New Caledonia | 372 |
+| 9 | [Nem0oo](https://github.com/Nem0oo) | Guillaume COURTOT | New-Caledonia | 371 |
+| 10 | [aNaoy](https://github.com/aNaoy) | Yoan Agostini | Nouméa | 346 |
 | 11 | [ahyolia](https://github.com/ahyolia) | Camélia AMIN HANDOYO | New Caledonia | 264 |
 | 12 | [ellisp](https://github.com/ellisp) | Peter Ellis | Nouméa, Nouvelle-Calédonie | 223 |
 | 13 | [TooFuW](https://github.com/TooFuW) | Eyrian Muet | New- Caledonia | 216 |
@@ -83,4 +83,4 @@ Indexed users: 111
 | 19 | [gronono](https://github.com/gronono) | Arnaud | New Caledonia | 9 |
 | 20 | [6pheR](https://github.com/6pheR) | CipheR_ | New Caledonia | 8 |
 
-Generated: 2026-10-21T01:09:56.902Z
+Generated: 2026-10-21T02:50:40.848Z

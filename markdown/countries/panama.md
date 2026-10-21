@@ -17,8 +17,8 @@ Indexed users: 1,070
 | 3 | [ElenaRevicheva](https://github.com/ElenaRevicheva) | Elena | Panama, Panama city | 24,202 |
 | 4 | [jeremymcs](https://github.com/jeremymcs) | Jeremy McSpadden | Panama City, FL | 18,220 |
 | 5 | [quezadaesteban](https://github.com/quezadaesteban) | Esteban Quezada | Panama | 17,458 |
-| 6 | [SirRodney](https://github.com/SirRodney) | Rodney | Panama | 16,265 |
-| 7 | [hjupter](https://github.com/hjupter) | Hjupter Cerrud | Panama | 16,152 |
+| 6 | [hjupter](https://github.com/hjupter) | Hjupter Cerrud | Panama | 17,392 |
+| 7 | [SirRodney](https://github.com/SirRodney) | Rodney | Panama | 16,265 |
 | 8 | [Kenth06](https://github.com/Kenth06) | Kenneth Rios | Panama | 16,123 |
 | 9 | [ricardostmalo](https://github.com/ricardostmalo) | Ricardo de Saint Malo | Panama | 15,949 |
 | 10 | [ramonfabrega](https://github.com/ramonfabrega) | Ramon | Panama | 11,540 |
@@ -49,7 +49,7 @@ Indexed users: 1,070
 | 10 | [angelnereira](https://github.com/angelnereira) | Angel Nereira | Panama | 1,505 |
 | 11 | [ArkoSammy12](https://github.com/ArkoSammy12) | James Villarreal | Panama City, Panama | 1,456 |
 | 12 | [quantumquirkxyz](https://github.com/quantumquirkxyz) | Jhuomar Boskoll Quintero | Panama City, Panama | 1,341 |
-| 13 | [jaimelias](https://github.com/jaimelias) | Jaimelías | Panama City, Panama | 1,323 |
+| 13 | [jaimelias](https://github.com/jaimelias) | Jaimelías | Panama City, Panama | 1,327 |
 | 14 | [kelvinhe04](https://github.com/kelvinhe04) | Kelvin He Wu | Panama | 1,181 |
 | 15 | [neithanmo](https://github.com/neithanmo) | Natanael Mojica | Panama City, Panama | 1,159 |
 | 16 | [jquesada92](https://github.com/jquesada92) | Jose Quesada | Panama | 1,158 |
@@ -83,4 +83,4 @@ Indexed users: 1,070
 | 19 | [Commandtechno](https://github.com/Commandtechno) | Techno | David, Panama | 49 |
 | 20 | [jebberjeb](https://github.com/jebberjeb) | Jeb Beich | Panama City, FL | 48 |
 
-Generated: 2026-10-21T01:16:36.807Z
+Generated: 2026-10-21T02:56:39.674Z

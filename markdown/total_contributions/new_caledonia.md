@@ -1,6 +1,6 @@
 # Total Contributions - New Caledonia
 
-Generated: 2026-10-21T01:09:56.902Z
+Generated: 2026-10-21T02:50:40.848Z
 
 Users: 111
 
@@ -21,8 +21,8 @@ Users: 111
 | 13 | [bpouzet](https://github.com/bpouzet) | Benoît Pouzet |  |  | Nouméa, New Caledonia | 943 |
 | 14 | [lschaeffer313](https://github.com/lschaeffer313) | Laurent Schaeffer | Gouvernement de la Nouvelle-Calédonie |  | New-Caledonia | 790 |
 | 15 | [gvdr](https://github.com/gvdr) | Giulio Valentino Dalla Riva | Pacific Community \| Communauté du Pacifique |  | Noumea, New Caledonia | 742 |
-| 16 | [aNaoy](https://github.com/aNaoy) | Yoan Agostini |  |  | Nouméa | 720 |
+| 16 | [aNaoy](https://github.com/aNaoy) | Yoan Agostini |  |  | Nouméa | 721 |
 | 17 | [FreddieJH](https://github.com/FreddieJH) | Freddie J. Heather |  |  | Noumea, New Caledonia | 662 |
 | 18 | [ellisp](https://github.com/ellisp) | Peter Ellis | Pacific Community \| Communauté de Pacifique |  | Nouméa, Nouvelle-Calédonie | 632 |
-| 19 | [darwiin](https://github.com/darwiin) | Christophe ROGER |  |  | New Caledonia | 520 |
+| 19 | [darwiin](https://github.com/darwiin) | Christophe ROGER |  |  | New Caledonia | 519 |
 | 20 | [BJ-Cochrane](https://github.com/BJ-Cochrane) | Ben Cochrane | Pacific Community \| Communauté de Pacifique | BenCochraneR | Nouméa | 486 |

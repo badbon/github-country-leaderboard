@@ -56,7 +56,7 @@ Indexed users: 1,072
 | 17 | [Ozhana](https://github.com/Ozhana) | Ozhan Akdag | Doha / Qatar | 792 |
 | 18 | [Melikash98](https://github.com/Melikash98) | Melika Shooryabi | Qatar | 766 |
 | 19 | [Thilsan-Abuissa](https://github.com/Thilsan-Abuissa) | Ahamed Thilsan Ismalebbe | Doha, Qatar | 745 |
-| 20 | [prajwal918](https://github.com/prajwal918) | prajwaljogi_ | qatar doha | 734 |
+| 20 | [prajwal918](https://github.com/prajwal918) | prajwaljogi_ | qatar doha | 728 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,072
 | 19 | [thm-msror](https://github.com/thm-msror) | Tehreem Masroor | Al-Rayyan, Qatar | 106 |
 | 20 | [brainconnect93](https://github.com/brainconnect93) | Afolabi Akorede | Al-Wakrah, Qatar | 99 |
 
-Generated: 2026-10-21T01:18:59.823Z
+Generated: 2026-10-21T03:02:56.448Z

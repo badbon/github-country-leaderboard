@@ -1,6 +1,6 @@
 # Total Contributions - Panama
 
-Generated: 2026-10-21T01:16:36.807Z
+Generated: 2026-10-21T02:56:39.674Z
 
 Users: 1070
 
@@ -11,8 +11,8 @@ Users: 1070
 | 3 | [ElenaRevicheva](https://github.com/ElenaRevicheva) | Elena | AIdeazz start-up | reviceva | Panama, Panama city | 24202 |
 | 4 | [jeremymcs](https://github.com/jeremymcs) | Jeremy McSpadden | Flux Labs | jeremymcs | Panama City, FL | 18220 |
 | 5 | [quezadaesteban](https://github.com/quezadaesteban) | Esteban Quezada |  |  | Panama | 17458 |
-| 6 | [SirRodney](https://github.com/SirRodney) | Rodney |  |  | Panama | 16265 |
-| 7 | [hjupter](https://github.com/hjupter) | Hjupter Cerrud |  | hjupter | Panama | 16152 |
+| 6 | [hjupter](https://github.com/hjupter) | Hjupter Cerrud |  | hjupter | Panama | 17392 |
+| 7 | [SirRodney](https://github.com/SirRodney) | Rodney |  |  | Panama | 16265 |
 | 8 | [Kenth06](https://github.com/Kenth06) | Kenneth Rios | ASSA |  | Panama | 16123 |
 | 9 | [ricardostmalo](https://github.com/ricardostmalo) | Ricardo de Saint Malo | Boton | ricardostmalo | Panama | 15949 |
 | 10 | [ramonfabrega](https://github.com/ramonfabrega) | Ramon |  |  | Panama | 11540 |

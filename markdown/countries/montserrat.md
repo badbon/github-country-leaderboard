@@ -24,8 +24,8 @@ Indexed users: 291
 | 10 | [cpotey](https://github.com/cpotey) | Connor Pote | Plymouth | 2,339 |
 | 11 | [Faved](https://github.com/Faved) | Alan Bennett | Plymouth, Devon | 2,275 |
 | 12 | [jasonshillingford](https://github.com/jasonshillingford) | Jason Shillingford | Plymouth | 2,010 |
-| 13 | [pillingworth](https://github.com/pillingworth) | Paul Illingworth | Plymouth, Devon | 1,643 |
-| 14 | [AnshLaw](https://github.com/AnshLaw) | Ansh R. Suryavanshi | Plymouth, MI | 1,633 |
+| 13 | [AnshLaw](https://github.com/AnshLaw) | Ansh R. Suryavanshi | Plymouth, MI | 1,729 |
+| 14 | [pillingworth](https://github.com/pillingworth) | Paul Illingworth | Plymouth, Devon | 1,643 |
 | 15 | [bostonmyk](https://github.com/bostonmyk) | Mike Mykytyn | Plymouth | 1,452 |
 | 16 | [418error](https://github.com/418error) | Andy 'Channie' Chan | Plymouth | 1,128 |
 | 17 | [samuel-duffield1](https://github.com/samuel-duffield1) | Sam Duffield | Plymouth | 1,068 |
@@ -56,7 +56,7 @@ Indexed users: 291
 | 17 | [gingeapple182](https://github.com/gingeapple182) | Oliver | Plymouth | 274 |
 | 18 | [JacobMalin](https://github.com/JacobMalin) | Jacob Malin | Plymouth, MN | 225 |
 | 19 | [lunatech-3d](https://github.com/lunatech-3d) | LunaTech 3D | Plymouth, Wayne, MI | 207 |
-| 20 | [rshields2004](https://github.com/rshields2004) | Rowan Shields | Plymouth | 186 |
+| 20 | [cjungmann](https://github.com/cjungmann) | Chuck Jungmann | Plymouth, MN USA | 185 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 291
 | 19 | [binarytide](https://github.com/binarytide) | John McAndrews | Plymouth, Ma | 21 |
 | 20 | [BeresIvan](https://github.com/BeresIvan) |  | Plymouth, MN | 20 |
 
-Generated: 2026-10-21T01:07:32.662Z
+Generated: 2026-10-21T02:46:56.293Z

@@ -1,12 +1,12 @@
 # Followers - Namibia
 
-Generated: 2026-10-21T01:08:19.061Z
+Generated: 2026-10-21T02:48:42.071Z
 
 Users: 475
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [gijzelaerr](https://github.com/gijzelaerr) | Gijs Molenaar | Spotify |  | Amsterdam - Windhoek | 226 |
+| 1 | [gijzelaerr](https://github.com/gijzelaerr) | Gijs Molenaar | Spotify |  | Amsterdam - Windhoek | 227 |
 | 2 | [Justin-sketch](https://github.com/Justin-sketch) | Gabriel Kambinda Justinu |  |  | windhoek,namibia | 179 |
 | 3 | [Lucas-Erkana](https://github.com/Lucas-Erkana) | Lucas David Erkana | @microverseinc  | Lucas_David_22 | Walvis Bay, Namibia | 129 |
 | 4 | [LogicHarvest](https://github.com/LogicHarvest) | Logic Harvest | @LogicHarvestOrg |  | Windhoek Namibia | 113 |

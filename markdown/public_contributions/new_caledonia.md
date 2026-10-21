@@ -1,6 +1,6 @@
 # Public Contributions - New Caledonia
 
-Generated: 2026-10-21T01:09:56.902Z
+Generated: 2026-10-21T02:50:40.848Z
 
 Users: 111
 
@@ -13,9 +13,9 @@ Users: 111
 | 5 | [gvdr](https://github.com/gvdr) | Giulio Valentino Dalla Riva | Pacific Community \| Communauté du Pacifique |  | Noumea, New Caledonia | 742 |
 | 6 | [PLStenger](https://github.com/PLStenger) | Pierre-Louis Stenger | New-Caledonian Agronomic Institute - IAC |  | Nouméa, New-Caledonia | 435 |
 | 7 | [jchable](https://github.com/jchable) | Julien CHABLE | NC IT |  | Nouméa | 382 |
-| 8 | [Nem0oo](https://github.com/Nem0oo) | Guillaume COURTOT | none |  | New-Caledonia | 371 |
-| 9 | [loxK](https://github.com/loxK) | Laurent Dinclaux | Gecka |  | New Caledonia | 369 |
-| 10 | [aNaoy](https://github.com/aNaoy) | Yoan Agostini |  |  | Nouméa | 345 |
+| 8 | [loxK](https://github.com/loxK) | Laurent Dinclaux | Gecka |  | New Caledonia | 372 |
+| 9 | [Nem0oo](https://github.com/Nem0oo) | Guillaume COURTOT | none |  | New-Caledonia | 371 |
+| 10 | [aNaoy](https://github.com/aNaoy) | Yoan Agostini |  |  | Nouméa | 346 |
 | 11 | [ahyolia](https://github.com/ahyolia) | Camélia AMIN HANDOYO |  |  | New Caledonia | 264 |
 | 12 | [ellisp](https://github.com/ellisp) | Peter Ellis | Pacific Community \| Communauté de Pacifique |  | Nouméa, Nouvelle-Calédonie | 223 |
 | 13 | [TooFuW](https://github.com/TooFuW) | Eyrian Muet |  |  | New- Caledonia | 216 |
