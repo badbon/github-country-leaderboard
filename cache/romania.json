@@ -39852,18 +39852,6 @@
     "createdAt": "2021-03-30T16:45:48Z"
   },
   {
-    "login": "Pavaluc",
-    "name": "Păvăluc Adrian-Filuț",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/80405892?s=72&u=110b2ac0ddf062a019ca665772de3431bb14096e&v=4",
-    "location": "Romania ",
-    "company": "",
-    "twitterUsername": "APavaluc",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2021-03-10T14:12:57Z"
-  },
-  {
     "login": "tabriku",
     "name": "",
     "avatarUrl": "https://avatars.githubusercontent.com/u/81410647?s=72&u=26ff35752f16f1c57dc941332606b0a251eaa384&v=4",
@@ -39895,7 +39883,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 35,
+    "privateContributions": 63,
     "publicContributions": 0,
     "createdAt": "2021-06-09T18:30:32Z"
   },
@@ -39908,7 +39896,7 @@
     "twitterUsername": "RaduLihat",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 23,
     "createdAt": "2021-03-30T19:10:36Z"
   },
   {
@@ -39931,8 +39919,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1361,
-    "publicContributions": 101,
+    "privateContributions": 1093,
+    "publicContributions": 97,
     "createdAt": "2021-01-26T18:06:56Z"
   },
   {
@@ -39942,9 +39930,9 @@
     "location": "Bucharest, Romania",
     "company": "University Politehnica of Bucharest",
     "twitterUsername": "",
-    "followers": 427,
-    "privateContributions": 159,
-    "publicContributions": 1876,
+    "followers": 516,
+    "privateContributions": 7,
+    "publicContributions": 1774,
     "createdAt": "2021-08-12T12:37:24Z"
   },
   {
@@ -39955,8 +39943,8 @@
     "company": "University POLITEHNICA of Bucharest",
     "twitterUsername": "",
     "followers": 117,
-    "privateContributions": 232,
-    "publicContributions": 38,
+    "privateContributions": 280,
+    "publicContributions": 39,
     "createdAt": "2021-11-16T16:46:48Z"
   },
   {
@@ -39966,9 +39954,9 @@
     "location": "Romania",
     "company": "Nethermind",
     "twitterUsername": "0xandreitoma",
-    "followers": 78,
-    "privateContributions": 81,
-    "publicContributions": 104,
+    "followers": 79,
+    "privateContributions": 99,
+    "publicContributions": 105,
     "createdAt": "2021-12-16T10:30:27Z"
   },
   {
@@ -39978,9 +39966,9 @@
     "location": "🇷🇴 Romania",
     "company": "",
     "twitterUsername": "",
-    "followers": 65,
-    "privateContributions": 130,
-    "publicContributions": 427,
+    "followers": 64,
+    "privateContributions": 135,
+    "publicContributions": 416,
     "createdAt": "2021-07-30T13:32:19Z"
   },
   {
@@ -40014,9 +40002,9 @@
     "location": "Romania",
     "company": "",
     "twitterUsername": "",
-    "followers": 32,
+    "followers": 33,
     "privateContributions": 0,
-    "publicContributions": 157,
+    "publicContributions": 87,
     "createdAt": "2021-07-18T10:57:52Z"
   },
   {
@@ -40026,9 +40014,9 @@
     "location": "Romania",
     "company": "Aiperion LLC",
     "twitterUsername": "inth3l00p",
-    "followers": 31,
-    "privateContributions": 1159,
-    "publicContributions": 2260,
+    "followers": 29,
+    "privateContributions": 1671,
+    "publicContributions": 2161,
     "createdAt": "2021-11-23T21:04:11Z"
   },
   {
@@ -40050,9 +40038,9 @@
     "location": "Bucharest, Romania",
     "company": "",
     "twitterUsername": "",
-    "followers": 30,
+    "followers": 31,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 30,
     "createdAt": "2021-07-14T14:13:32Z"
   },
   {
@@ -40062,8 +40050,8 @@
     "location": "Cluj, Romania",
     "company": "",
     "twitterUsername": "",
-    "followers": 28,
-    "privateContributions": 49,
+    "followers": 27,
+    "privateContributions": 59,
     "publicContributions": 3,
     "createdAt": "2021-10-04T07:12:30Z"
   },
@@ -40074,9 +40062,9 @@
     "location": "București, Romania",
     "company": "University POLITEHNICA of Bucharest, Faculty of Automation Computer Science",
     "twitterUsername": "",
-    "followers": 28,
-    "privateContributions": 809,
-    "publicContributions": 513,
+    "followers": 29,
+    "privateContributions": 1365,
+    "publicContributions": 612,
     "createdAt": "2021-10-03T10:37:12Z"
   },
   {

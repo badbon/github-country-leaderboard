@@ -39566,13 +39566,13 @@
   {
     "login": "DiegoDelgadoD",
     "name": "Diego Delgado",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/89599917?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/89599917?s=72&u=5244de4ad4772026f75515521de6d21cc601b5d0&v=4",
     "location": "Peru",
     "company": "@PovertyAction",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 234,
-    "publicContributions": 7,
+    "privateContributions": 320,
+    "publicContributions": 12,
     "createdAt": "2021-08-26T16:38:04Z"
   },
   {
@@ -39632,7 +39632,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 130,
+    "publicContributions": 131,
     "createdAt": "2021-04-02T03:59:23Z"
   },
   {
@@ -39640,24 +39640,12 @@
     "name": "Juan Diego S.",
     "avatarUrl": "https://avatars.githubusercontent.com/u/88201583?s=72&u=ae83b245ee760324e8e69b167d8b132ff6efb308&v=4",
     "location": "Lima, Peru",
-    "company": "JDigital",
+    "company": "jdsaire",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 813,
+    "publicContributions": 1641,
     "createdAt": "2021-07-30T15:15:14Z"
-  },
-  {
-    "login": "meriastudiescs",
-    "name": "Maria Fernanda",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/92385448?s=72&v=4",
-    "location": "Peru",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2021-10-12T14:59:01Z"
   },
   {
     "login": "wesvm",
@@ -39668,7 +39656,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 39,
+    "publicContributions": 92,
     "createdAt": "2020-12-28T20:35:01Z"
   },
   {
@@ -39691,7 +39679,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 178,
+    "privateContributions": 158,
     "publicContributions": 7,
     "createdAt": "2021-11-16T14:43:00Z"
   },
@@ -39716,7 +39704,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 198,
+    "publicContributions": 181,
     "createdAt": "2021-08-17T14:54:37Z"
   },
   {
@@ -39728,7 +39716,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 358,
+    "publicContributions": 435,
     "createdAt": "2021-10-06T16:37:14Z"
   },
   {
@@ -39750,7 +39738,7 @@
     "location": "Lima-Peru",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-06-29T02:43:35Z"
@@ -39787,8 +39775,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1244,
-    "publicContributions": 15,
+    "privateContributions": 1465,
+    "publicContributions": 4,
     "createdAt": "2021-08-12T04:50:25Z"
   },
   {
@@ -117190,5 +117178,17 @@
     "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2026-07-01T15:18:08Z"
+  },
+  {
+    "login": "FrankCipriUri",
+    "name": "Frank Isaias Cipriano Uribe",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298511424?s=72&v=4",
+    "location": "Lima - Perú",
+    "company": "Universidad Peruana de Ciencias Aplicadas",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 46,
+    "createdAt": "2026-07-01T02:02:29Z"
   }
 ]

@@ -39704,7 +39704,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 33,
+    "publicContributions": 19,
     "createdAt": "2016-09-11T03:28:54Z"
   },
   {
@@ -39715,7 +39715,7 @@
     "company": "Vinted",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 2879,
+    "privateContributions": 2859,
     "publicContributions": 0,
     "createdAt": "2016-02-22T20:59:32Z"
   },
@@ -39751,7 +39751,7 @@
     "company": "Vinted",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1479,
+    "privateContributions": 1333,
     "publicContributions": 1,
     "createdAt": "2016-03-16T08:15:08Z"
   },
@@ -39775,7 +39775,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 63,
+    "privateContributions": 94,
     "publicContributions": 0,
     "createdAt": "2016-03-05T12:51:12Z"
   },
@@ -39824,18 +39824,18 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 20,
     "createdAt": "2016-04-30T19:47:07Z"
   },
   {
     "login": "zsalkus",
-    "name": "Žygimantas Šalkus",
+    "name": "Žygimantas",
     "avatarUrl": "https://avatars.githubusercontent.com/u/17690238?s=72&v=4",
     "location": "Vilnius",
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 365,
+    "privateContributions": 598,
     "publicContributions": 0,
     "createdAt": "2016-03-06T18:44:45Z"
   },
@@ -39847,21 +39847,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 139,
+    "privateContributions": 237,
     "publicContributions": 0,
     "createdAt": "2016-11-29T17:53:24Z"
-  },
-  {
-    "login": "solusvulgaris",
-    "name": "Alexandra",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/19416551?s=72&u=637ab0d0fe66d9e391fd2a83f5a57eefe5af8bb7&v=4",
-    "location": "Vilnius",
-    "company": "EPAM",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 6,
-    "createdAt": "2016-05-17T20:14:08Z"
   },
   {
     "login": "aurimasengagecraft",
@@ -39884,7 +39872,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 2,
     "createdAt": "2016-06-07T07:55:55Z"
   },
   {
@@ -39918,7 +39906,7 @@
     "location": "Vilnius",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-10-27T12:39:47Z"
@@ -39931,7 +39919,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 3,
+    "privateContributions": 14,
     "publicContributions": 10,
     "createdAt": "2016-02-23T23:37:42Z"
   },
