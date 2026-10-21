@@ -41683,8 +41683,8 @@
     "company": "Sparefish",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 700,
-    "publicContributions": 127,
+    "privateContributions": 620,
+    "publicContributions": 88,
     "createdAt": "2019-02-01T04:48:03Z"
   },
   {
@@ -41696,7 +41696,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 42,
+    "publicContributions": 9,
     "createdAt": "2019-11-10T03:55:27Z"
   },
   {
@@ -41707,21 +41707,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 753,
+    "privateContributions": 808,
     "publicContributions": 0,
     "createdAt": "2019-09-09T01:36:59Z"
-  },
-  {
-    "login": "mitch-john",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/49330467?s=72&u=a9d81c19dc1a37f3e08e1b70b215e5f94f319d84&v=4",
-    "location": "New Zealand",
-    "company": "",
-    "twitterUsername": "MitchJohnNZ",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 28645,
-    "createdAt": "2019-04-06T03:30:14Z"
   },
   {
     "login": "alexey-turapin",
@@ -41731,7 +41719,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 85,
+    "privateContributions": 87,
     "publicContributions": 11,
     "createdAt": "2019-02-07T04:10:16Z"
   },
@@ -41792,7 +41780,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 8,
     "createdAt": "2019-05-27T03:41:12Z"
   },
   {
@@ -41815,8 +41803,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1199,
-    "publicContributions": 358,
+    "privateContributions": 598,
+    "publicContributions": 76,
     "createdAt": "2019-07-28T06:41:08Z"
   },
   {
@@ -41864,7 +41852,7 @@
     "twitterUsername": "DvJonathan",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 0,
     "createdAt": "2019-08-27T00:27:11Z"
   },
   {
@@ -41876,7 +41864,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 223,
+    "publicContributions": 190,
     "createdAt": "2019-04-18T23:08:18Z"
   },
   {

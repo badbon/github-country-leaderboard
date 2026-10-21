@@ -41448,18 +41448,6 @@
     "createdAt": "2023-10-05T15:49:32Z"
   },
   {
-    "login": "dkfivemrp",
-    "name": "DK RP",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/152309711?s=72&u=65799a1616764ada99a93f957f052073b38412e1&v=4",
-    "location": "Porto - Paranhos 4200-206 | Portugal",
-    "company": "Freelancer",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 26,
-    "createdAt": "2023-11-28T16:02:15Z"
-  },
-  {
     "login": "nunoss24",
     "name": "Nuno Santos",
     "avatarUrl": "https://avatars.githubusercontent.com/u/142089162?s=72&u=ac4ddec662a705363e1b6b012754156ef363f42e&v=4",
@@ -41468,7 +41456,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 0,
     "createdAt": "2023-08-12T10:03:24Z"
   },
   {
@@ -41479,8 +41467,8 @@
     "company": "",
     "twitterUsername": "nexusecurus",
     "followers": 3,
-    "privateContributions": 10,
-    "publicContributions": 1,
+    "privateContributions": 9,
+    "publicContributions": 0,
     "createdAt": "2023-10-19T10:47:49Z"
   },
   {
@@ -41514,9 +41502,9 @@
     "location": "Portugal",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 46,
+    "publicContributions": 15,
     "createdAt": "2023-12-18T09:27:50Z"
   },
   {
@@ -41526,22 +41514,10 @@
     "location": "Maia, Porto, Portugal",
     "company": "Instituto Superior de Engenharia do Porto [ISEP]",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 0,
     "createdAt": "2023-09-28T09:12:22Z"
-  },
-  {
-    "login": "carlosimlau",
-    "name": "Carlos Imlau",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/145987722?s=72&u=24ceebb43cf2cb42492be52739c566e48016876d&v=4",
-    "location": "Porto, Portugal",
-    "company": "Sourmize - UTMs Automáticos com IA + Analytics Inteligentes",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 4909,
-    "publicContributions": 7,
-    "createdAt": "2023-09-25T11:35:53Z"
   },
   {
     "login": "claudiaspseabra",
@@ -41564,7 +41540,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 8,
     "createdAt": "2023-11-19T19:23:55Z"
   },
   {
@@ -41599,8 +41575,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 3,
-    "publicContributions": 1,
+    "privateContributions": 16,
+    "publicContributions": 0,
     "createdAt": "2023-07-20T18:04:31Z"
   },
   {
@@ -41622,9 +41598,9 @@
     "location": "Porto,Portugal",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 6,
     "createdAt": "2023-12-11T20:59:44Z"
   },
   {
@@ -41636,7 +41612,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 8,
     "createdAt": "2023-09-12T15:20:01Z"
   },
   {
@@ -41647,8 +41623,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 76,
-    "publicContributions": 105,
+    "privateContributions": 82,
+    "publicContributions": 29,
     "createdAt": "2023-09-20T22:43:48Z"
   },
   {
@@ -41682,9 +41658,9 @@
     "location": "Portugal",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 37,
     "createdAt": "2023-09-29T13:01:16Z"
   },
   {

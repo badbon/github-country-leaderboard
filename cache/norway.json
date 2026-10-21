@@ -41816,7 +41816,7 @@
     "twitterUsername": "",
     "followers": 23,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2021-08-20T11:18:39Z"
   },
   {
@@ -41827,8 +41827,8 @@
     "company": "@DanielOgSimen ",
     "twitterUsername": "daniel_sorby",
     "followers": 22,
-    "privateContributions": 440,
-    "publicContributions": 13,
+    "privateContributions": 417,
+    "publicContributions": 12,
     "createdAt": "2021-04-02T14:54:07Z"
   },
   {
@@ -41839,7 +41839,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 22,
-    "privateContributions": 31,
+    "privateContributions": 39,
     "publicContributions": 0,
     "createdAt": "2021-09-23T09:42:59Z"
   },
@@ -41850,8 +41850,8 @@
     "location": "Oslo",
     "company": "",
     "twitterUsername": "",
-    "followers": 22,
-    "privateContributions": 1106,
+    "followers": 20,
+    "privateContributions": 1352,
     "publicContributions": 6,
     "createdAt": "2021-02-24T16:26:12Z"
   },
@@ -41862,9 +41862,9 @@
     "location": "Oslo",
     "company": "",
     "twitterUsername": "",
-    "followers": 21,
-    "privateContributions": 86,
-    "publicContributions": 9,
+    "followers": 23,
+    "privateContributions": 58,
+    "publicContributions": 4,
     "createdAt": "2021-08-26T06:34:53Z"
   },
   {
@@ -41882,13 +41882,13 @@
   {
     "login": "magnusouren",
     "name": "Magnus T. Ouren",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/91123056?s=72&u=8f324bbbe0ba67cd555614ed1636565d652d233d&v=4",
-    "location": "Oslo/Trondheim",
-    "company": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/91123056?s=72&u=e6b5c789092489d9f15a2123611fe09c120ae374&v=4",
+    "location": "Oslo",
+    "company": "Bekk",
     "twitterUsername": "",
     "followers": 21,
-    "privateContributions": 16,
-    "publicContributions": 298,
+    "privateContributions": 47,
+    "publicContributions": 516,
     "createdAt": "2021-09-21T09:23:04Z"
   },
   {
@@ -41898,7 +41898,7 @@
     "location": "Oslo",
     "company": "@TheAtlasRepository ",
     "twitterUsername": "",
-    "followers": 19,
+    "followers": 20,
     "privateContributions": 5,
     "publicContributions": 1,
     "createdAt": "2021-08-19T13:15:19Z"
@@ -41910,8 +41910,8 @@
     "location": "Oslo",
     "company": "Bekk",
     "twitterUsername": "",
-    "followers": 18,
-    "privateContributions": 24,
+    "followers": 16,
+    "privateContributions": 255,
     "publicContributions": 3,
     "createdAt": "2021-11-17T15:41:57Z"
   },
@@ -41922,9 +41922,9 @@
     "location": "Oslo",
     "company": "UiO",
     "twitterUsername": "",
-    "followers": 18,
+    "followers": 17,
     "privateContributions": 0,
-    "publicContributions": 34,
+    "publicContributions": 36,
     "createdAt": "2021-05-20T21:14:58Z"
   },
   {
@@ -41942,13 +41942,13 @@
   {
     "login": "userHonest",
     "name": "user_honest",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/92337570?s=72&u=c32a38935b1d9cf2e680733248ed5d40b1f31848&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/92337570?s=72&u=234c2da576bd08efb04effe06279ba24cf59dd3c&v=4",
     "location": "Oslo",
     "company": "",
-    "twitterUsername": "",
-    "followers": 17,
-    "privateContributions": 57,
-    "publicContributions": 98,
+    "twitterUsername": "GabrielB3rrios",
+    "followers": 15,
+    "privateContributions": 182,
+    "publicContributions": 14,
     "createdAt": "2021-10-11T20:42:57Z"
   },
   {
@@ -41958,8 +41958,8 @@
     "location": "Oslo",
     "company": "Mysoft AS",
     "twitterUsername": "",
-    "followers": 15,
-    "privateContributions": 16,
+    "followers": 18,
+    "privateContributions": 17,
     "publicContributions": 0,
     "createdAt": "2021-07-30T20:33:21Z"
   },
@@ -41971,8 +41971,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 15,
-    "privateContributions": 53,
-    "publicContributions": 53,
+    "privateContributions": 38,
+    "publicContributions": 27,
     "createdAt": "2021-12-03T12:00:38Z"
   },
   {
@@ -41983,8 +41983,8 @@
     "company": "@unacast",
     "twitterUsername": "",
     "followers": 14,
-    "privateContributions": 458,
-    "publicContributions": 0,
+    "privateContributions": 434,
+    "publicContributions": 1,
     "createdAt": "2021-09-17T17:41:00Z"
   },
   {
@@ -41994,9 +41994,9 @@
     "location": "Oslo",
     "company": "SK",
     "twitterUsername": "",
-    "followers": 14,
+    "followers": 17,
     "privateContributions": 0,
-    "publicContributions": 111,
+    "publicContributions": 94,
     "createdAt": "2021-08-26T06:51:26Z"
   },
   {
@@ -42007,8 +42007,8 @@
     "company": "Loop Academy",
     "twitterUsername": "",
     "followers": 14,
-    "privateContributions": 1645,
-    "publicContributions": 2,
+    "privateContributions": 1614,
+    "publicContributions": 1,
     "createdAt": "2021-01-19T11:10:15Z"
   },
   {
@@ -42038,12 +42038,12 @@
   {
     "login": "marieevensen",
     "name": "Marie Evensen",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/89392099?s=72&u=1e402e5cbe4d492e4c6cae829003184932cf82a1&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/89392099?s=72&v=4",
     "location": "Oslo",
-    "company": "",
+    "company": "@logiskbrist ✌🏽",
     "twitterUsername": "",
     "followers": 14,
-    "privateContributions": 234,
+    "privateContributions": 410,
     "publicContributions": 1,
     "createdAt": "2021-08-23T11:35:45Z"
   },
