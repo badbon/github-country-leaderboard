@@ -15,7 +15,7 @@ Indexed users: 68
 | 1 | [olavurellefsen](https://github.com/olavurellefsen) | Olavur Ellefsen | Faroe Islands | 15,931 |
 | 2 | [kruseio](https://github.com/kruseio) | Ragnar Kruse | Faroe Islands | 6,568 |
 | 3 | [jbiskur](https://github.com/jbiskur) | Julius á Rógvi Biskopstø | Faroe Islands | 5,326 |
-| 4 | [argilzar](https://github.com/argilzar) | Brian Bischoff | Faroe Islands | 3,416 |
+| 4 | [argilzar](https://github.com/argilzar) | Brian Bischoff | Faroe Islands | 3,427 |
 | 5 | [RudiPersson](https://github.com/RudiPersson) | Rudi Persson | Tórshavn, Faroe Islands | 2,779 |
 | 6 | [mashema](https://github.com/mashema) | John Eyðstein Johannesen  | Faroe Islands | 2,421 |
 | 7 | [hoegnason](https://github.com/hoegnason) | Rani Högnason Hansen | Tórshavn | 2,374 |
@@ -83,4 +83,4 @@ Indexed users: 68
 | 19 | [olavurellefsen](https://github.com/olavurellefsen) | Olavur Ellefsen | Faroe Islands | 7 |
 | 20 | [RudiPersson](https://github.com/RudiPersson) | Rudi Persson | Tórshavn, Faroe Islands | 7 |
 
-Generated: 2026-10-21T08:07:23.669Z
+Generated: 2026-10-21T09:42:15.047Z

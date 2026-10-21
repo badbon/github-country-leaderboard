@@ -24,9 +24,9 @@ Indexed users: 93
 | 10 | [sTevoFort](https://github.com/sTevoFort) | Stephen Fortunato | Gibraltar | 772 |
 | 11 | [ronanmathew](https://github.com/ronanmathew) | Ronan Spoor | Gibraltar | 637 |
 | 12 | [mortyflex](https://github.com/mortyflex) | Mohamed A | Gibraltar | 621 |
-| 13 | [SGarcia96](https://github.com/SGarcia96) | SGarcia | Spain/Gibraltar | 594 |
+| 13 | [SGarcia96](https://github.com/SGarcia96) | SGarcia | Spain/Gibraltar | 595 |
 | 14 | [ajedrezpremium](https://github.com/ajedrezpremium) | Ajedrez Premium | GIBRALTAR | 580 |
-| 15 | [Vinnetou](https://github.com/Vinnetou) | Lukas Kloucek | Gibraltar | 517 |
+| 15 | [Vinnetou](https://github.com/Vinnetou) | Lukas Kloucek | Gibraltar | 518 |
 | 16 | [PeterKottas](https://github.com/PeterKottas) | Peter Kottas | Gibraltar | 478 |
 | 17 | [cdharris](https://github.com/cdharris) | Chris Harris | Berlin / Europe / Gibraltar | 412 |
 | 18 | [VladimirHumeniuk](https://github.com/VladimirHumeniuk) | vhmnk | Gibraltar | 404 |
@@ -83,4 +83,4 @@ Indexed users: 93
 | 19 | [vfiodor](https://github.com/vfiodor) | Fiodor Veresciaka | Gibraltar | 13 |
 | 20 | [VPSServerCom](https://github.com/VPSServerCom) | VPS Server | Gibraltar | 13 |
 
-Generated: 2026-10-21T08:12:54.436Z
+Generated: 2026-10-21T09:45:09.373Z

@@ -1,6 +1,6 @@
 # Followers - Guernsey
 
-Generated: 2026-10-21T08:15:03.777Z
+Generated: 2026-10-21T09:48:42.137Z
 
 Users: 45
 

@@ -1,6 +1,6 @@
 # Total Contributions - Haiti
 
-Generated: 2026-10-21T08:17:42.342Z
+Generated: 2026-10-21T09:50:10.839Z
 
 Users: 339
 
@@ -16,13 +16,13 @@ Users: 339
 | 8 | [odilson-dev](https://github.com/odilson-dev) | Odilson W. Italis |  | odilsondev | Les Cayes, Haiti | 2268 |
 | 9 | [bogosla](https://github.com/bogosla) | James Destiné |  |  | Haiti | 2177 |
 | 10 | [Nicaisse](https://github.com/Nicaisse) | Nicaisse Bryan  | D-EAT |  | Port-au-Prince | 1941 |
-| 11 | [youko509](https://github.com/youko509) |  Erico Saint-Charles |  |  | Haiti | 1809 |
-| 12 | [bleuscyther](https://github.com/bleuscyther) | jeffrey n. carre | fruitsbytes | jeffrey_n_carre | Haiti | 1808 |
+| 11 | [bleuscyther](https://github.com/bleuscyther) | jeffrey n. carre | fruitsbytes | jeffrey_n_carre | Haiti | 1901 |
+| 12 | [youko509](https://github.com/youko509) |  Erico Saint-Charles |  |  | Haiti | 1809 |
 | 13 | [kingsGuillaume99](https://github.com/kingsGuillaume99) | Guillaume Kingsley | @juksgraphic , @codingClubHaiti , @atraxcompany |  | Port-au-Prince , Haiti | 1754 |
 | 14 | [didierganthier](https://github.com/didierganthier) | Didier Peran Ganthier | @reactjs @microverseinc  | didierganthier_ | Port-au-prince, Haïti | 1692 |
 | 15 | [thecassion](https://github.com/thecassion) | Pierre Robentz CASSION | @CarisFoundation @YoopleCorp @MLHaiti @FDS | thecassion | Haiti | 1661 |
 | 16 | [antifugazis](https://github.com/antifugazis) | Jyvor Slaadel Mortimer |  | antifugazis | Port-au-Prince | 1483 |
 | 17 | [fater04](https://github.com/fater04) | fater_04 | freelance | fater_04 | Haiti | 1217 |
 | 18 | [jsbeaudry](https://github.com/jsbeaudry) | Beaudry Jean Sauvenel | Parkour studio |  | Port-au-prince, Haiti | 981 |
-| 19 | [dukenst2006](https://github.com/dukenst2006) | Thelemaque | Jetlitransfer | dukenst | Port-au-Prince | 938 |
+| 19 | [dukenst2006](https://github.com/dukenst2006) | Thelemaque | Jetlitransfer | dukenst | Port-au-Prince | 966 |
 | 20 | [EdManDev](https://github.com/EdManDev) | EdManDev | EdManDev | EdmanManigat | Haiti | 938 |

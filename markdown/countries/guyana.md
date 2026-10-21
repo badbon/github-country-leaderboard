@@ -17,7 +17,7 @@ Indexed users: 186
 | 3 | [bdenham](https://github.com/bdenham) | Bruce Denham | Georgetown, Texas | 5,078 |
 | 4 | [rayonhunte](https://github.com/rayonhunte) | Rayon Hunte | Georgetown Guyana | 4,651 |
 | 5 | [barnwell](https://github.com/barnwell) | Jason Barnwell | Guyana | 4,464 |
-| 6 | [ktappdev](https://github.com/ktappdev) | Ken Andrew Taylor | Guyana | 4,116 |
+| 6 | [ktappdev](https://github.com/ktappdev) | Ken Andrew Taylor | Guyana | 4,098 |
 | 7 | [uberhacker](https://github.com/uberhacker) | Ed Reel | Georgetown, TX | 3,946 |
 | 8 | [pachev](https://github.com/pachev) | Pachev Joseph | Georgetown, TX | 3,924 |
 | 9 | [beckettharriman](https://github.com/beckettharriman) | Beckett Harriman | Georgetown, DC | 3,524 |
@@ -83,4 +83,4 @@ Indexed users: 186
 | 19 | [Alien-nick](https://github.com/Alien-nick) | Nicholas Seetaram | South America, Guyana, Georgetown | 22 |
 | 20 | [duncanfinney](https://github.com/duncanfinney) | Duncan Finney | Georgetown, CO | 22 |
 
-Generated: 2026-10-21T08:17:14.077Z
+Generated: 2026-10-21T09:50:05.280Z

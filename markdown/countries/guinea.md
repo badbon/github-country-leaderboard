@@ -12,8 +12,8 @@ Indexed users: 263
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [DialloYoussef](https://github.com/DialloYoussef) | Youssouf | Guinée, Conakry, GN | 7,877 |
-| 2 | [Morymirco](https://github.com/Morymirco) | Mory Mirco Koulibaly | Conakry,Guinéé | 7,230 |
+| 1 | [DialloYoussef](https://github.com/DialloYoussef) | Youssouf | Guinée, Conakry, GN | 7,899 |
+| 2 | [Morymirco](https://github.com/Morymirco) | Mory Mirco Koulibaly | Conakry,Guinéé | 7,249 |
 | 3 | [koulibalyamadou10](https://github.com/koulibalyamadou10) | Koulibaly | Conakry | 6,514 |
 | 4 | [korbonya](https://github.com/korbonya) | Mamadou Alpha Baldé | Conakry | 6,506 |
 | 5 | [GYOM15](https://github.com/GYOM15) | Guy Olivier Millimouno | Guinea/Conakry | 4,194 |
@@ -55,7 +55,7 @@ Indexed users: 263
 | 16 | [Abel-sangare](https://github.com/Abel-sangare) |  | Conakry | 129 |
 | 17 | [Skjnior](https://github.com/Skjnior) | Rj_45 | Guinea | 118 |
 | 18 | [Keira224](https://github.com/Keira224) | Ousmane Keira  | Guinée, Conakry | 115 |
-| 19 | [Kourahoye](https://github.com/Kourahoye) | Amadou Kourahoye | Conakry | 107 |
+| 19 | [Kourahoye](https://github.com/Kourahoye) | Amadou Kourahoye | Conakry | 103 |
 | 20 | [ouberete](https://github.com/ouberete) | Oumar BERETE | Conakry | 101 |
 
 ## Followers
@@ -79,8 +79,8 @@ Indexed users: 263
 | 15 | [thebestofAKB](https://github.com/thebestofAKB) | Abdoul Karim Baldé | Conakry, Guinea | 23 |
 | 16 | [mamadou6c](https://github.com/mamadou6c) | Mamadou | Guinea | 20 |
 | 17 | [massazoum](https://github.com/massazoum) | Massa Zoumanigui | Guinea | 20 |
-| 18 | [Ibrahima2487](https://github.com/Ibrahima2487) | Ibrahima Sory Diallo | Guinée, Conakry | 14 |
+| 18 | [Ibrahima2487](https://github.com/Ibrahima2487) | Ibrahima Sory Diallo | Guinée, Conakry | 15 |
 | 19 | [fouzo09](https://github.com/fouzo09) | Mafouz DIALLO | Guinée, conakry | 13 |
 | 20 | [koulibalyamadou10](https://github.com/koulibalyamadou10) | Koulibaly | Conakry | 13 |
 
-Generated: 2026-10-21T08:15:40.224Z
+Generated: 2026-10-21T09:50:00.647Z
