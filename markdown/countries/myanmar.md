@@ -49,7 +49,7 @@ Indexed users: 2,056
 | 10 | [yoonpyae](https://github.com/yoonpyae) | Yoon Pyae Eain  | Yangon, Myanmar | 1,240 |
 | 11 | [thanthtooaung-coding](https://github.com/thanthtooaung-coding) | Thant Htoo Aung | Yangon, Myanmar | 1,224 |
 | 12 | [wintkhantlin](https://github.com/wintkhantlin) | Wint Khant Lin | Myanmar, Yangon, Shwe Pyi Thar | 1,170 |
-| 13 | [thaw98](https://github.com/thaw98) | Pyae Phyo Thaw | Myanmar | 1,071 |
+| 13 | [thaw98](https://github.com/thaw98) | Pyae Phyo Thaw | Myanmar | 1,065 |
 | 14 | [aungkoman](https://github.com/aungkoman) | Aung Ko Man | Mandalay,Myanmar | 1,048 |
 | 15 | [SaingHmineTun](https://github.com/SaingHmineTun) | Sai Saing Hmine Tun | Muse, Shan State, Myanmar | 1,037 |
 | 16 | [mrmyothet](https://github.com/mrmyothet) | MyoThet | Yangon, Myanmar | 1,030 |
@@ -83,4 +83,4 @@ Indexed users: 2,056
 | 19 | [winsandymyint](https://github.com/winsandymyint) | Win Sandy Myint | Myanmar | 168 |
 | 20 | [LunaM00n](https://github.com/LunaM00n) | Thin Ba Shane (Luna) | Myanmar | 162 |
 
-Generated: 2026-10-21T08:41:22.772Z
+Generated: 2026-10-21T12:37:41.201Z

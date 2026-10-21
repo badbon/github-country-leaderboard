@@ -1,6 +1,6 @@
 # Public Contributions - Paraguay
 
-Generated: 2026-10-21T08:47:44.273Z
+Generated: 2026-10-21T12:46:54.776Z
 
 Users: 2014
 
@@ -18,8 +18,8 @@ Users: 2014
 | 10 | [stevenayal](https://github.com/stevenayal) | Steven Ayala | Banco Continental SAECA |  | Asunción, Paraguay | 1581 |
 | 11 | [ciroiriarte](https://github.com/ciroiriarte) | Ciro Iriarte |  | ciroiriarte | Paraguay | 1384 |
 | 12 | [isaias-alt](https://github.com/isaias-alt) | Lucas Isaias Casco |  | lucascodev | Paraguay | 1325 |
-| 13 | [oscar0pavon](https://github.com/oscar0pavon) | Oscar Pavon | pavon.com.py |  | Paraguay | 1269 |
-| 14 | [nikdim03](https://github.com/nikdim03) | Dmitrii Nikulin | TON Foundation |  | Paraguay | 1266 |
+| 13 | [nikdim03](https://github.com/nikdim03) | Dmitrii Nikulin | TON Foundation |  | Paraguay | 1266 |
+| 14 | [oscar0pavon](https://github.com/oscar0pavon) | Oscar Pavon | pavon.com.py |  | Paraguay | 1150 |
 | 15 | [m2f0](https://github.com/m2f0) | Mario Mayerle | @INOSX  |  | Paraguay/USA | 1086 |
 | 16 | [Renetrox](https://github.com/Renetrox) | Dino René Caballero Marquez |  |  | Paraguay | 1060 |
 | 17 | [janparkio](https://github.com/janparkio) | Jan Park | LeadWise (PL EAS) @leadwisepro  | janparkio | Paraguay | 966 |

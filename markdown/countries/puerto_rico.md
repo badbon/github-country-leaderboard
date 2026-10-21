@@ -76,11 +76,11 @@ Indexed users: 1,531
 | 12 | [victoroalvarez](https://github.com/victoroalvarez) | Victor O. Alvarez | Puerto Rico | 171 |
 | 13 | [RhettCreighton](https://github.com/RhettCreighton) | Rhett Creighton | San Juan, Puerto Rico | 169 |
 | 14 | [aryxns](https://github.com/aryxns) | Aryan Sharma | puerto rico | 159 |
-| 15 | [perazaharmonics](https://github.com/perazaharmonics) | J. Enrique Peraza, BScEE MEngEE | Hatillo, Puerto Rico | 150 |
+| 15 | [perazaharmonics](https://github.com/perazaharmonics) | J. Enrique Peraza, BScEE MEngEE | Hatillo, Puerto Rico | 159 |
 | 16 | [danysantiago](https://github.com/danysantiago) | Daniel Santiago | Puerto Rico | 149 |
 | 17 | [Xiomara7](https://github.com/Xiomara7) | Xiomara Figueroa  | San Juan, PR | 138 |
 | 18 | [jonahoffline](https://github.com/jonahoffline) | Jonah Ruiz | Puerto Rico | 121 |
 | 19 | [rnegron](https://github.com/rnegron) | Raúl Negrón-Otero | Bayamón, Puerto Rico | 113 |
 | 20 | [hackingbutlegal](https://github.com/hackingbutlegal) | Jackie Singh | San Juan, PR | 107 |
 
-Generated: 2026-10-21T08:50:32.001Z
+Generated: 2026-10-21T12:48:16.989Z

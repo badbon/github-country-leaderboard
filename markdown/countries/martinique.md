@@ -23,8 +23,8 @@ Indexed users: 75
 | 9 | [esrid](https://github.com/esrid) | ADS | Martinique | 938 |
 | 10 | [LePtitBiscuit](https://github.com/LePtitBiscuit) | LePtitBiscuit | Martinique | 803 |
 | 11 | [vevedh](https://github.com/vevedh) | Hervé de CHAVIGNY | Martinique | 796 |
-| 12 | [blazux](https://github.com/blazux) | Vincent B. | Martinique | 469 |
-| 13 | [ricard33](https://github.com/ricard33) | Cédric RICARD | Martinique | 461 |
+| 12 | [ricard33](https://github.com/ricard33) | Cédric RICARD | Martinique | 471 |
+| 13 | [blazux](https://github.com/blazux) | Vincent B. | Martinique | 469 |
 | 14 | [steeven-js](https://github.com/steeven-js) | steeven_js | Martinique | 372 |
 | 15 | [b1nj](https://github.com/b1nj) | B1nj | Martinique | 199 |
 | 16 | [kodzukye](https://github.com/kodzukye) | Jayyy ⋆˚✿˖° | Martinique | 173 |
@@ -45,7 +45,7 @@ Indexed users: 75
 | 6 | [blazux](https://github.com/blazux) | Vincent B. | Martinique | 419 |
 | 7 | [esrid](https://github.com/esrid) | ADS | Martinique | 397 |
 | 8 | [steeven-js](https://github.com/steeven-js) | steeven_js | Martinique | 372 |
-| 9 | [ricard33](https://github.com/ricard33) | Cédric RICARD | Martinique | 343 |
+| 9 | [ricard33](https://github.com/ricard33) | Cédric RICARD | Martinique | 345 |
 | 10 | [docVoid](https://github.com/docVoid) | void216 | Martinique | 317 |
 | 11 | [vevedh](https://github.com/vevedh) | Hervé de CHAVIGNY | Martinique | 224 |
 | 12 | [b1nj](https://github.com/b1nj) | B1nj | Martinique | 199 |
@@ -83,4 +83,4 @@ Indexed users: 75
 | 19 | [LePtitBiscuit](https://github.com/LePtitBiscuit) | LePtitBiscuit | Martinique | 6 |
 | 20 | [phnxtrill](https://github.com/phnxtrill) | Quentin | Fort-de-France, Martinique | 6 |
 
-Generated: 2026-10-21T08:34:10.169Z
+Generated: 2026-10-21T12:30:52.804Z

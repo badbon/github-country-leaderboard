@@ -1,8 +1,8 @@
 # Public Contributions - Romania
 
-Generated: 2026-10-21T08:52:15.802Z
+Generated: 2026-10-21T12:49:08.773Z
 
-Users: 14972
+Users: 14971
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|

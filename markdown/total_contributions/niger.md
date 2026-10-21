@@ -1,6 +1,6 @@
 # Total Contributions - Niger
 
-Generated: 2026-10-21T08:43:18.684Z
+Generated: 2026-10-21T12:39:46.139Z
 
 Users: 175
 
@@ -10,7 +10,7 @@ Users: 175
 | 2 | [jamilbachard](https://github.com/jamilbachard) | Bachard Jamil |  | jamilbachard | Niger | 3368 |
 | 3 | [feyroozecode](https://github.com/feyroozecode) | Ibrahim Ahmad (feyroozecode) |  | feyroozcode | Niger | 2961 |
 | 4 | [docteur-charles](https://github.com/docteur-charles) | MOUSSA DAN SAAADOU Abdourahamane | SAADAW SYSTEMS |  | Niamey, Niger | 2161 |
-| 5 | [akaletekoffilevis](https://github.com/akaletekoffilevis) | akaletekoffilevis | None |  | Niger/Niamey | 1832 |
+| 5 | [akaletekoffilevis](https://github.com/akaletekoffilevis) | akaletekoffilevis | None |  | Niger / Niamey | 1843 |
 | 6 | [petrozavodsky](https://github.com/petrozavodsky) | Vladimir Petrozavodsky |  |  | Niger | 1392 |
 | 7 | [kodjodevf](https://github.com/kodjodevf) | Moustapha Kodjo Amadou |  | kodjodevf | Niamey,Niger | 1197 |
 | 8 | [Yacoubou-seidou](https://github.com/Yacoubou-seidou) | Yacos | Available for hire |  | Niamey/Niger | 1171 |
@@ -22,7 +22,7 @@ Users: 175
 | 14 | [mocy111](https://github.com/mocy111) | Moctar Yonli | @Kamamini  | moctar_yonli | Niamey | 753 |
 | 15 | [oxy227](https://github.com/oxy227) | Ayouba Issoufou |  |  | Niamey/Niger | 741 |
 | 16 | [Ismail0u](https://github.com/Ismail0u) | Ismael |  |  | Niamey & Lomé | 575 |
-| 17 | [Imrana-Moustapha](https://github.com/Imrana-Moustapha) | Imrana Moustapha |  |  | Niamey-Niger | 526 |
+| 17 | [Imrana-Moustapha](https://github.com/Imrana-Moustapha) | Imrana Moustapha |  |  | Niamey-Niger | 525 |
 | 18 | [netmophus](https://github.com/netmophus) | NETMORPHUS | www.techpart. | netmorphus | Niamey | 495 |
 | 19 | [Kounou25](https://github.com/Kounou25) | Kounou Gilbert | @qwiper  @Osirion-IA  |  | Niamey,Niger | 457 |
-| 20 | [bkina1](https://github.com/bkina1) | Boubacar Kina |  | KinaBoubacar | Niger | 411 |
+| 20 | [codelive227](https://github.com/codelive227) |  |  |  | Niamey Niger | 437 |

@@ -1,12 +1,12 @@
 # Followers - Lithuania
 
-Generated: 2026-10-21T08:31:11.907Z
+Generated: 2026-10-21T12:27:18.570Z
 
 Users: 5364
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [LaravelDaily](https://github.com/LaravelDaily) | Laravel Daily | Laravel Daily |  | Vilnius, Lithuania / London, UK | 7943 |
+| 1 | [LaravelDaily](https://github.com/LaravelDaily) | Laravel Daily | Laravel Daily |  | Vilnius, Lithuania / London, UK | 7942 |
 | 2 | [PovilasKorop](https://github.com/PovilasKorop) |  | Laravel Course Creator | PovilasKorop | Vilnius, Lithuania | 2744 |
 | 3 | [aras-p](https://github.com/aras-p) | Aras Pranckevičius |  | aras_p | Kaunas, Lithuania | 2531 |
 | 4 | [irenemmassy](https://github.com/irenemmassy) | Irene Arvydas Ranonis | Codemarketi |  | Lithuania  | 677 |

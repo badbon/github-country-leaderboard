@@ -1,6 +1,6 @@
 # Total Contributions - Oman
 
-Generated: 2026-10-21T08:45:05.511Z
+Generated: 2026-10-21T12:43:36.476Z
 
 Users: 991
 
@@ -25,4 +25,4 @@ Users: 991
 | 17 | [mohdrasbi](https://github.com/mohdrasbi) | Mohamed Al-Rasbi | Rihal |  | Oman | 4754 |
 | 18 | [n3sser96](https://github.com/n3sser96) | Nasser Al Subhi | @rihal-om  | 96n3s | Oman | 4719 |
 | 19 | [amk9889](https://github.com/amk9889) | Alfarouq |  |  | Oman | 4346 |
-| 20 | [manqur](https://github.com/manqur) | Mansoor Qurishi | Remote |  | Oman | 4256 |
+| 20 | [manqur](https://github.com/manqur) | Mansoor Qurishi | Remote |  | Oman | 4254 |

@@ -1,6 +1,6 @@
 # Total Contributions - Monaco
 
-Generated: 2026-10-21T08:38:04.760Z
+Generated: 2026-10-21T12:34:36.686Z
 
 Users: 142
 
@@ -11,9 +11,9 @@ Users: 142
 | 3 | [laurentqro](https://github.com/laurentqro) | Laurent Curau |  |  | Monaco | 5119 |
 | 4 | [LovelessCodes](https://github.com/LovelessCodes) |  |  |  | Monaco | 3703 |
 | 5 | [KristofM854](https://github.com/KristofM854) | Kristof Moeller | International Atomic Energy Agency |  | Monaco | 1909 |
-| 6 | [silvainfm](https://github.com/silvainfm) | François-Marie Brych |  |  | Nashville & Monaco | 1786 |
-| 7 | [digitalonyx](https://github.com/digitalonyx) | DigitalOnyx |  |  | Monaco | 1242 |
-| 8 | [matteodevenuto](https://github.com/matteodevenuto) | Matteo De Venuto | Forexizer | matteodevenuto | Monaco | 1138 |
+| 6 | [silvainfm](https://github.com/silvainfm) | François-Marie Brych |  |  | Nashville & Monaco | 1753 |
+| 7 | [digitalonyx](https://github.com/digitalonyx) | DigitalOnyx |  |  | Monaco | 1246 |
+| 8 | [matteodevenuto](https://github.com/matteodevenuto) | Matteo De Venuto | Forexizer | matteodevenuto | Monaco | 1136 |
 | 9 | [NicoBocq](https://github.com/NicoBocq) | Nicolas Bocquet | Inforca |  | Marseille / Monaco | 949 |
 | 10 | [jz222](https://github.com/jz222) | Timo Zimmermann | Mosaic S.A.R.L |  | Monte-Carlo, Monaco | 783 |
 | 11 | [tatianamc](https://github.com/tatianamc) | Tatiana |  |  | Monaco | 783 |
@@ -21,7 +21,7 @@ Users: 142
 | 13 | [asingizwe1](https://github.com/asingizwe1) | Dev. Louis Asingizwe | 7C | _Louis_A_ | Monaco , Kampala/Uganda | 578 |
 | 14 | [vjandrea](https://github.com/vjandrea) | Andrea Bergamasco | KeeSystem | vjandrea | Monaco | 560 |
 | 15 | [auvents-brave](https://github.com/auvents-brave) | Stéphane |  |  | Monaco | 419 |
-| 16 | [giraudremi92](https://github.com/giraudremi92) | Rémi |  |  | Monaco | 375 |
+| 16 | [giraudremi92](https://github.com/giraudremi92) | Rémi |  |  | Monaco | 362 |
 | 17 | [scribelia-anthony](https://github.com/scribelia-anthony) | Anthony | Scribelia |  | Monaco | 362 |
 | 18 | [ap705](https://github.com/ap705) | Arnaud Pradier |  |  | Monaco | 277 |
 | 19 | [Akira98000](https://github.com/Akira98000) | Santhakumaran Akira | Université Nice Côte D'Azur |  | Monaco  | 265 |

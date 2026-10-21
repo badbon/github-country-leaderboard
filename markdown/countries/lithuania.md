@@ -62,7 +62,7 @@ Indexed users: 5,364
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [LaravelDaily](https://github.com/LaravelDaily) | Laravel Daily | Vilnius, Lithuania / London, UK | 7,943 |
+| 1 | [LaravelDaily](https://github.com/LaravelDaily) | Laravel Daily | Vilnius, Lithuania / London, UK | 7,942 |
 | 2 | [PovilasKorop](https://github.com/PovilasKorop) |  | Vilnius, Lithuania | 2,744 |
 | 3 | [aras-p](https://github.com/aras-p) | Aras Pranckevičius | Kaunas, Lithuania | 2,531 |
 | 4 | [irenemmassy](https://github.com/irenemmassy) | Irene Arvydas Ranonis | Lithuania  | 677 |
@@ -83,4 +83,4 @@ Indexed users: 5,364
 | 19 | [Miceuz](https://github.com/Miceuz) | Albertas Mickėnas | Vilnius, Lithuania | 190 |
 | 20 | [mmozuras](https://github.com/mmozuras) | Mindaugas Mozūras | Vilnius, Lithuania | 183 |
 
-Generated: 2026-10-21T08:31:11.907Z
+Generated: 2026-10-21T12:27:18.570Z

@@ -1,6 +1,6 @@
 # Followers - Puerto Rico
 
-Generated: 2026-10-21T08:50:32.001Z
+Generated: 2026-10-21T12:48:16.989Z
 
 Users: 1531
 
@@ -20,7 +20,7 @@ Users: 1531
 | 12 | [victoroalvarez](https://github.com/victoroalvarez) | Victor O. Alvarez |  |  | Puerto Rico | 171 |
 | 13 | [RhettCreighton](https://github.com/RhettCreighton) | Rhett Creighton | @RhettCreighton |  | San Juan, Puerto Rico | 169 |
 | 14 | [aryxns](https://github.com/aryxns) | Aryan Sharma |  | aryxnsharma | puerto rico | 159 |
-| 15 | [perazaharmonics](https://github.com/perazaharmonics) | J. Enrique Peraza, BScEE MEngEE |  |  | Hatillo, Puerto Rico | 150 |
+| 15 | [perazaharmonics](https://github.com/perazaharmonics) | J. Enrique Peraza, BScEE MEngEE |  |  | Hatillo, Puerto Rico | 159 |
 | 16 | [danysantiago](https://github.com/danysantiago) | Daniel Santiago | @google |  | Puerto Rico | 149 |
 | 17 | [Xiomara7](https://github.com/Xiomara7) | Xiomara Figueroa  |  |  | San Juan, PR | 138 |
 | 18 | [jonahoffline](https://github.com/jonahoffline) | Jonah Ruiz |  |  | Puerto Rico | 121 |

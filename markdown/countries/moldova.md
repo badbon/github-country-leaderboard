@@ -43,7 +43,7 @@ Indexed users: 1,746
 | 4 | [ivanm696](https://github.com/ivanm696) | ivanm696  | Moldova | 3,289 |
 | 5 | [deoleg](https://github.com/deoleg) | deoleg | Moldova | 3,184 |
 | 6 | [stephen-golban](https://github.com/stephen-golban) | Stephen G | Moldova | 2,946 |
-| 7 | [nikpopesku](https://github.com/nikpopesku) | Nikolai Popesku | Chisinau, Moldova | 2,534 |
+| 7 | [nikpopesku](https://github.com/nikpopesku) | Nikolai Popesku | Chisinau, Moldova | 2,539 |
 | 8 | [Aragas](https://github.com/Aragas) | Vitalii Mikhailov | Chisinau, Moldova | 2,337 |
 | 9 | [50rayn](https://github.com/50rayn) | Soryn | Moldova | 2,221 |
 | 10 | [himaster](https://github.com/himaster) | Vitaly Bicov | Chisinau, Moldova | 2,070 |
@@ -83,4 +83,4 @@ Indexed users: 1,746
 | 19 | [vgaidarji](https://github.com/vgaidarji) | Veaceslav Gaidarji | Moldova | 114 |
 | 20 | [Ernest96](https://github.com/Ernest96) | Ernest | Chisinau Moldova | 107 |
 
-Generated: 2026-10-21T08:37:32.481Z
+Generated: 2026-10-21T12:34:33.226Z

@@ -1,6 +1,6 @@
 # Public Contributions - Jordan
 
-Generated: 2026-10-21T08:26:03.276Z
+Generated: 2026-10-21T12:20:35.532Z
 
 Users: 4002
 
@@ -23,6 +23,6 @@ Users: 4002
 | 15 | [LinuxDevil](https://github.com/LinuxDevil) | Ali Mohammad | @tajawal |  | Amman, Jordan | 1500 |
 | 16 | [AliOsm](https://github.com/AliOsm) | Ali Hamdi Ali Fadel | MilkStraw AI | alihfadel | Amman - Jordan | 1409 |
 | 17 | [mohammadtmohsen](https://github.com/mohammadtmohsen) | Mohammad Taleb |  |  | Jordan | 1349 |
-| 18 | [Qaddoumi](https://github.com/Qaddoumi) | Qaddoumi |  | MohQaddoumi | Jordan | 1256 |
-| 19 | [mosaba7i](https://github.com/mosaba7i) | Mohammed Al-Sabahi | 42 School |  | Amman, Jordan | 1130 |
-| 20 | [zaidejjo](https://github.com/zaidejjo) | Zaid Ajo |  | zaid_ejjo | Jordan | 1129 |
+| 18 | [omar7altawil](https://github.com/omar7altawil) | Omar Tawil | @Null-Square  |  | Amman | 1264 |
+| 19 | [Qaddoumi](https://github.com/Qaddoumi) | Qaddoumi |  | MohQaddoumi | Jordan | 1256 |
+| 20 | [mosaba7i](https://github.com/mosaba7i) | Mohammed Al-Sabahi | 42 School |  | Amman, Jordan | 1130 |

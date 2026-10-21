@@ -12,7 +12,7 @@ Indexed users: 298
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [bruxx-6243](https://github.com/bruxx-6243) | Fariol Blondeau | Brazzaville - Congo | 11,621 |
+| 1 | [bruxx-6243](https://github.com/bruxx-6243) | Fariol Blondeau | Brazzaville - Congo | 11,752 |
 | 2 | [Athanaze](https://github.com/Athanaze) | Sacha Liechti | Congo | 7,827 |
 | 3 | [Saintrick-FM](https://github.com/Saintrick-FM) | Francy Saintrick Malonga | Congo Brazzaville | 4,090 |
 | 4 | [BlackAngel242](https://github.com/BlackAngel242) | DrSmoke | Congo | 3,988 |
@@ -45,7 +45,7 @@ Indexed users: 298
 | 6 | [BlackAngel242](https://github.com/BlackAngel242) | DrSmoke | Congo | 640 |
 | 7 | [Espoir-Loem](https://github.com/Espoir-Loem) | Espoir LOEMBA | R.Congo, Brazzaville | 614 |
 | 8 | [elongastarks](https://github.com/elongastarks) | Elonga Stark  | Congo/North-kivu/Butembo | 486 |
-| 9 | [SedeoLeos](https://github.com/SedeoLeos) | Slaega | Brazzaville congo | 451 |
+| 9 | [SedeoLeos](https://github.com/SedeoLeos) | Slaega | Brazzaville congo | 455 |
 | 10 | [Flammeduciel](https://github.com/Flammeduciel) | Flamme Du Ciel WASS | Brazzaville CG | 388 |
 | 11 | [lafondcodeur](https://github.com/lafondcodeur) | MACK LAFOND De Boumas | Brazzaville | 360 |
 | 12 | [denniskoech457](https://github.com/denniskoech457) | Extravaganza | Congo | 354 |
@@ -72,7 +72,7 @@ Indexed users: 298
 | 8 | [btr-ss](https://github.com/btr-ss) | Marcky BITORI | Congo Brazzaville | 76 |
 | 9 | [josuebrunel](https://github.com/josuebrunel) | Josue Kouka | Pointe-Noire (Congo) | 73 |
 | 10 | [sumaili-shabani](https://github.com/sumaili-shabani) | sumaili shabani roger(patrona) | Congo | 68 |
-| 11 | [declaudefrancois](https://github.com/declaudefrancois) | NKOUKA Guy François de Claude | Brazzaville, Republic Of CONGO | 62 |
+| 11 | [declaudefrancois](https://github.com/declaudefrancois) | NKOUKA Guy François de Claude | Brazzaville, Republic Of CONGO | 63 |
 | 12 | [herilion](https://github.com/herilion) | Heritier Lionge | Goma, Congo | 48 |
 | 13 | [Johannos135](https://github.com/Johannos135) | Johanne ESSIERE | Brazzaville (CONGO) | 45 |
 | 14 | [lingabo](https://github.com/lingabo) | Lingabo Junior | Congo | 41 |
@@ -83,4 +83,4 @@ Indexed users: 298
 | 19 | [Ssnnee](https://github.com/Ssnnee) | Samuel Nandi | Republic of the Congo | 26 |
 | 20 | [WinnersProx](https://github.com/WinnersProx) | Vainqueur Bihame | Kigali,Rwanda,Congo | 25 |
 
-Generated: 2026-10-21T08:51:10.975Z
+Generated: 2026-10-21T12:48:56.457Z

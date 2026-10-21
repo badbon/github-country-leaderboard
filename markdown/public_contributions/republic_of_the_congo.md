@@ -1,6 +1,6 @@
 # Public Contributions - Republic of the Congo
 
-Generated: 2026-10-21T08:51:10.975Z
+Generated: 2026-10-21T12:48:56.457Z
 
 Users: 298
 
@@ -14,7 +14,7 @@ Users: 298
 | 6 | [BlackAngel242](https://github.com/BlackAngel242) | DrSmoke |  |  | Congo | 640 |
 | 7 | [Espoir-Loem](https://github.com/Espoir-Loem) | Espoir LOEMBA | 125878454587877D |  | R.Congo, Brazzaville | 614 |
 | 8 | [elongastarks](https://github.com/elongastarks) | Elonga Stark  | Es.Dev |  | Congo/North-kivu/Butembo | 486 |
-| 9 | [SedeoLeos](https://github.com/SedeoLeos) | Slaega | @NovenveraTech  |  | Brazzaville congo | 451 |
+| 9 | [SedeoLeos](https://github.com/SedeoLeos) | Slaega | @NovenveraTech  |  | Brazzaville congo | 455 |
 | 10 | [Flammeduciel](https://github.com/Flammeduciel) | Flamme Du Ciel WASS |  |  | Brazzaville CG | 388 |
 | 11 | [lafondcodeur](https://github.com/lafondcodeur) | MACK LAFOND De Boumas | PossaCode |  | Brazzaville | 360 |
 | 12 | [denniskoech457](https://github.com/denniskoech457) | Extravaganza | Extravaganza |  | Congo | 354 |

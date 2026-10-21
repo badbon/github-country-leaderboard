@@ -49,8 +49,8 @@ Indexed users: 2,014
 | 10 | [stevenayal](https://github.com/stevenayal) | Steven Ayala | Asunción, Paraguay | 1,581 |
 | 11 | [ciroiriarte](https://github.com/ciroiriarte) | Ciro Iriarte | Paraguay | 1,384 |
 | 12 | [isaias-alt](https://github.com/isaias-alt) | Lucas Isaias Casco | Paraguay | 1,325 |
-| 13 | [oscar0pavon](https://github.com/oscar0pavon) | Oscar Pavon | Paraguay | 1,269 |
-| 14 | [nikdim03](https://github.com/nikdim03) | Dmitrii Nikulin | Paraguay | 1,266 |
+| 13 | [nikdim03](https://github.com/nikdim03) | Dmitrii Nikulin | Paraguay | 1,266 |
+| 14 | [oscar0pavon](https://github.com/oscar0pavon) | Oscar Pavon | Paraguay | 1,150 |
 | 15 | [m2f0](https://github.com/m2f0) | Mario Mayerle | Paraguay/USA | 1,086 |
 | 16 | [Renetrox](https://github.com/Renetrox) | Dino René Caballero Marquez | Paraguay | 1,060 |
 | 17 | [janparkio](https://github.com/janparkio) | Jan Park | Paraguay | 966 |
@@ -83,4 +83,4 @@ Indexed users: 2,014
 | 19 | [metakeule](https://github.com/metakeule) | metakeule | Asunción / Paraguay | 109 |
 | 20 | [replay](https://github.com/replay) | Mauro Stettler | Asuncion, Paraguay | 105 |
 
-Generated: 2026-10-21T08:47:44.273Z
+Generated: 2026-10-21T12:46:54.776Z

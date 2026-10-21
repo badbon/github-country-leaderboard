@@ -1,8 +1,8 @@
 # Followers - Colombia
 
-Generated: 2026-10-21T09:32:42.896Z
+Generated: 2026-10-21T12:41:24.451Z
 
-Users: 29151
+Users: 29152
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
