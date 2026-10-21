@@ -83,7 +83,7 @@ Published countries: 234
 | Georgia | 6,873 | [View](./georgia.md) |
 | Ghana | 7,077 | [View](./ghana.md) |
 | Gibraltar | 93 | [View](./gibraltar.md) |
-| Greece | 15,535 | [View](./greece.md) |
+| Greece | 15,534 | [View](./greece.md) |
 | Greenland | 58 | [View](./greenland.md) |
 | Grenada | 37 | [View](./grenada.md) |
 | Guadeloupe | 86 | [View](./guadeloupe.md) |
@@ -96,7 +96,7 @@ Published countries: 234
 | Haiti | 339 | [View](./haiti.md) |
 | Heard Island and McDonald Islands | 3 | [View](./heard_island_and_mcdonald_islands.md) |
 | Honduras | 1,258 | [View](./honduras.md) |
-| Hong Kong | 10,254 | [View](./hong_kong.md) |
+| Hong Kong | 10,253 | [View](./hong_kong.md) |
 | Hungary | 11,162 | [View](./hungary.md) |
 | Iceland | 1,579 | [View](./iceland.md) |
 | Indonesia | 63,276 | [View](./indonesia.md) |
@@ -104,7 +104,7 @@ Published countries: 234
 | Iraq | 2,231 | [View](./iraq.md) |
 | Ireland | 19,488 | [View](./ireland.md) |
 | Isle of Man | 155 | [View](./isle_of_man.md) |
-| Israel | 12,419 | [View](./israel.md) |
+| Israel | 12,418 | [View](./israel.md) |
 | Ivory Coast | 488 | [View](./ivory_coast.md) |
 | Jamaica | 1,271 | [View](./jamaica.md) |
 | Jersey | 139 | [View](./jersey.md) |
@@ -239,4 +239,4 @@ Published countries: 234
 | Zambia | 1,336 | [View](./zambia.md) |
 | Zimbabwe | 1,656 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-21T08:05:22.068Z
+Generated: 2026-10-21T08:25:11.853Z

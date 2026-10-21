@@ -1,12 +1,12 @@
 # Total Contributions - Haiti
 
-Generated: 2026-10-21T06:40:04.909Z
+Generated: 2026-10-21T08:17:42.342Z
 
 Users: 339
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [jkenley](https://github.com/jkenley) | Kenley Jean | @syntaxstudio-io  | jn_kenley | Haiti | 5683 |
+| 1 | [jkenley](https://github.com/jkenley) | Kenley Jean | @syntaxstudio-io  | jn_kenley | Haiti | 5713 |
 | 2 | [jbob9](https://github.com/jbob9) | Jean Baptiste Berlensky O. |  | BerlenskyO | Haiti | 4807 |
 | 3 | [ninjaroot-509](https://github.com/ninjaroot-509) | Castin Stanley | Loyalto Services | ninjaroot509 | Haiti | 4594 |
 | 4 | [jecode93](https://github.com/jecode93) | Jean Emmanuel Cadet | @jecode93 | jecode93 | Haiti | 3516 |
@@ -20,7 +20,7 @@ Users: 339
 | 12 | [bleuscyther](https://github.com/bleuscyther) | jeffrey n. carre | fruitsbytes | jeffrey_n_carre | Haiti | 1808 |
 | 13 | [kingsGuillaume99](https://github.com/kingsGuillaume99) | Guillaume Kingsley | @juksgraphic , @codingClubHaiti , @atraxcompany |  | Port-au-Prince , Haiti | 1754 |
 | 14 | [didierganthier](https://github.com/didierganthier) | Didier Peran Ganthier | @reactjs @microverseinc  | didierganthier_ | Port-au-prince, Haïti | 1692 |
-| 15 | [thecassion](https://github.com/thecassion) | Pierre Robentz CASSION | @CarisFoundation @YoopleCorp @MLHaiti @FDS | thecassion | Haiti | 1616 |
+| 15 | [thecassion](https://github.com/thecassion) | Pierre Robentz CASSION | @CarisFoundation @YoopleCorp @MLHaiti @FDS | thecassion | Haiti | 1661 |
 | 16 | [antifugazis](https://github.com/antifugazis) | Jyvor Slaadel Mortimer |  | antifugazis | Port-au-Prince | 1483 |
 | 17 | [fater04](https://github.com/fater04) | fater_04 | freelance | fater_04 | Haiti | 1217 |
 | 18 | [jsbeaudry](https://github.com/jsbeaudry) | Beaudry Jean Sauvenel | Parkour studio |  | Port-au-prince, Haiti | 981 |

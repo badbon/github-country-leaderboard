@@ -12,10 +12,10 @@ Indexed users: 325
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [SMani0547](https://github.com/SMani0547) | Shiva Mani Goundar | Nadi, Fiji | 3,020 |
+| 1 | [SMani0547](https://github.com/SMani0547) | Shiva Mani Goundar | Nadi, Fiji | 3,015 |
 | 2 | [Shoneel](https://github.com/Shoneel) |  | Fiji, Suva  | 1,588 |
 | 3 | [Amdeo](https://github.com/Amdeo) | Cooper | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1,461 |
-| 4 | [felix-davui-679](https://github.com/felix-davui-679) | Filimone Davui | Fiji | 1,384 |
+| 4 | [felix-davui-679](https://github.com/felix-davui-679) | Filimone Davui | Fiji | 1,411 |
 | 5 | [krishneelkamalsingh](https://github.com/krishneelkamalsingh) | Krish | Fiji | 1,247 |
 | 6 | [crazybanboo](https://github.com/crazybanboo) | Ethan | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1,084 |
 | 7 | [jaclla](https://github.com/jaclla) | Logic | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1,031 |
@@ -29,8 +29,8 @@ Indexed users: 325
 | 15 | [SRVSRR](https://github.com/SRVSRR) | Rohan Nandan | Fiji | 538 |
 | 16 | [2-fly-4-ai](https://github.com/2-fly-4-ai) | Brian farley | Suva | 501 |
 | 17 | [kunz398](https://github.com/kunz398) | Kunal Singh | Fiji | 491 |
-| 18 | [vikichand](https://github.com/vikichand) | Vikash Chand | Fiji | 465 |
-| 19 | [aryann-7](https://github.com/aryann-7) | Aryan Singh | Suva, Fiji | 441 |
+| 18 | [aryann-7](https://github.com/aryann-7) | Aryan Singh | Suva, Fiji | 467 |
+| 19 | [vikichand](https://github.com/vikichand) | Vikash Chand | Fiji | 465 |
 | 20 | [Amanimal](https://github.com/Amanimal) | Abhishek Swamy | Fiji | 399 |
 
 ## Public Contributions
@@ -44,7 +44,7 @@ Indexed users: 325
 | 5 | [SMani0547](https://github.com/SMani0547) | Shiva Mani Goundar | Nadi, Fiji | 427 |
 | 6 | [alexwoo79](https://github.com/alexwoo79) | Alex_Woo | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 310 |
 | 7 | [aryann-7](https://github.com/aryann-7) | Aryan Singh | Suva, Fiji | 283 |
-| 8 | [Lagilava](https://github.com/Lagilava) | Lagilava Paulo | Fiji | 261 |
+| 8 | [Lagilava](https://github.com/Lagilava) | Lagilava Paulo | Fiji | 262 |
 | 9 | [SRVSRR](https://github.com/SRVSRR) | Rohan Nandan | Fiji | 261 |
 | 10 | [codeshareman](https://github.com/codeshareman) | Z° North | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 243 |
 | 11 | [grey0758](https://github.com/grey0758) | 徐业辉 | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 212 |
@@ -83,4 +83,4 @@ Indexed users: 325
 | 19 | [SMani0547](https://github.com/SMani0547) | Shiva Mani Goundar | Nadi, Fiji | 21 |
 | 20 | [aryann-7](https://github.com/aryann-7) | Aryan Singh | Suva, Fiji | 19 |
 
-Generated: 2026-10-21T06:32:39.354Z
+Generated: 2026-10-21T08:07:58.175Z

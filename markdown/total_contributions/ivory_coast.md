@@ -1,13 +1,13 @@
 # Total Contributions - Ivory Coast
 
-Generated: 2026-10-21T06:44:03.714Z
+Generated: 2026-10-21T08:23:30.248Z
 
 Users: 488
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [eshe-huli](https://github.com/eshe-huli) | Ben G. Seydou Ouattara | Djamo CI |  | Abidjan, Ivory Coast | 10147 |
-| 2 | [agazinakou](https://github.com/agazinakou) | Lamine AZINAKOU | WAZMINE | azinakou | Abidjan, Côte d'ivoire | 8885 |
+| 2 | [agazinakou](https://github.com/agazinakou) | Lamine AZINAKOU | WAZMINE | azinakou | Abidjan, Côte d'ivoire | 9255 |
 | 3 | [davtechci2](https://github.com/davtechci2) | ADZASU KOFFI DAVID | @Vague-Digitale |  | Côte d'ivoire, Abidjan | 8630 |
 | 4 | [adrielzimbril](https://github.com/adrielzimbril) | Adriel Zimbril | Space UI | adrielzimbril | Abidjan, Ivory Coast | 8601 |
 | 5 | [baudoliver7](https://github.com/baudoliver7) | Olivier Baudouin OURA | @endeavourmining @artipie @cqfn | baudoliver7 | Abidjan, Côte d'Ivoire | 7575 |

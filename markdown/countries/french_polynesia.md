@@ -12,16 +12,16 @@ Indexed users: 60
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [jaffadog](https://github.com/jaffadog) | Jeremy Waters | Tahanea, Tuamotus, French Polynesia | 3,995 |
-| 2 | [jburckel](https://github.com/jburckel) |  | French Polynesia | 3,048 |
-| 3 | [marsender](https://github.com/marsender) | Didier Corbière | French Polynesia | 2,870 |
+| 1 | [jaffadog](https://github.com/jaffadog) | Jeremy Waters | Tahanea, Tuamotus, French Polynesia | 4,074 |
+| 2 | [jburckel](https://github.com/jburckel) |  | French Polynesia | 3,056 |
+| 3 | [marsender](https://github.com/marsender) | Didier Corbière | French Polynesia | 2,871 |
 | 4 | [smortex](https://github.com/smortex) | Romain Tartière | Faa'a, Tahiti, French Polynesia | 1,041 |
-| 5 | [jalik](https://github.com/jalik) | Karl Stein | French Polynesia | 732 |
+| 5 | [jalik](https://github.com/jalik) | Karl Stein | French Polynesia | 740 |
 | 6 | [ch4mpy](https://github.com/ch4mpy) | Jérôme Wacongne | Papeete, French Polynesia | 502 |
 | 7 | [N1coc4colA](https://github.com/N1coc4colA) |  | French Polynesia | 467 |
 | 8 | [craff](https://github.com/craff) | Christophe Raffalli | Polynésie, Française | 428 |
 | 9 | [adriencanterot](https://github.com/adriencanterot) | Adrien Cantérot | Tahiti, French Polynesia | 300 |
-| 10 | [paraita](https://github.com/paraita) | Paraita Wohler | Tahiti, French Polynesia | 257 |
+| 10 | [paraita](https://github.com/paraita) | Paraita Wohler | Tahiti, French Polynesia | 259 |
 | 11 | [syllebra](https://github.com/syllebra) | BilboX | French Polynesia | 133 |
 | 12 | [geoffguillain](https://github.com/geoffguillain) | Geoff | French Polynesia | 79 |
 | 13 | [Apollo987](https://github.com/Apollo987) | Jerome B | French Polynesia | 64 |
@@ -83,4 +83,4 @@ Indexed users: 60
 | 19 | [TToarii](https://github.com/TToarii) | TAU Toarii | French Polynesia | 5 |
 | 20 | [geoffguillain](https://github.com/geoffguillain) | Geoff | French Polynesia | 4 |
 
-Generated: 2026-10-21T06:33:54.638Z
+Generated: 2026-10-21T08:10:05.783Z
