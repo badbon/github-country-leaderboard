@@ -22,7 +22,7 @@ Indexed users: 132
 | 8 | [wellawet](https://github.com/wellawet) | Wella Awet | South Sudan | 625 |
 | 9 | [AchukCodeMaster](https://github.com/AchukCodeMaster) | Johnson Achuk | Juba, South Sudan | 611 |
 | 10 | [kembe699](https://github.com/kembe699) | Levi Mark Kembe | Juba, South Sudan | 607 |
-| 11 | [WANI12](https://github.com/WANI12) | wani geoffrey | Juba, South Sudan | 536 |
+| 11 | [WANI12](https://github.com/WANI12) | wani geoffrey | Juba, South Sudan | 537 |
 | 12 | [JohnMarit](https://github.com/JohnMarit) | John Marit | Juba-South Sudan | 516 |
 | 13 | [Agaba-derrick](https://github.com/Agaba-derrick) | Agaba Derrick  | Juba  | 510 |
 | 14 | [stephen-morlex](https://github.com/stephen-morlex) | Stephen Victor | Juba, South Sudan | 502 |
@@ -83,4 +83,4 @@ Indexed users: 132
 | 19 | [Amalsouthsudan23](https://github.com/Amalsouthsudan23) | AMAL South Sudan | South Sudan | 15 |
 | 20 | [Codetym](https://github.com/Codetym) | Nelson Mandela D.M.J | Juba, South Sudan  | 14 |
 
-Generated: 2026-10-21T16:20:58.354Z
+Generated: 2026-10-21T18:22:35.485Z
