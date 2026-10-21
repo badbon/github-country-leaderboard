@@ -39768,18 +39768,6 @@
     "createdAt": "2021-04-23T21:31:07Z"
   },
   {
-    "login": "mahmoudBH",
-    "name": "Mahmoud Bousbih",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/89213052?s=72&u=2c5f189732d56ddb30051d7bb47313b177e3dd97&v=4",
-    "location": "Tunisia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 78,
-    "createdAt": "2021-08-19T16:23:48Z"
-  },
-  {
     "login": "Achtrick",
     "name": "Achref MTIR",
     "avatarUrl": "https://avatars.githubusercontent.com/u/83027203?s=72&u=6dc89814a46e2767cc024bafd1f50ab85fd71887&v=4",
@@ -39787,8 +39775,8 @@
     "company": "Barthauer Software Gmbh",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 7,
-    "publicContributions": 1,
+    "privateContributions": 16,
+    "publicContributions": 6,
     "createdAt": "2021-04-22T16:05:18Z"
   },
   {
@@ -39798,9 +39786,9 @@
     "location": "tunisia",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 17,
     "createdAt": "2021-04-16T21:13:48Z"
   },
   {
@@ -39852,18 +39840,6 @@
     "createdAt": "2021-09-29T17:27:55Z"
   },
   {
-    "login": "mspci",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/88748419?s=72&u=2bba164491d5a6f27dc893f55e5ea080ff7063c2&v=4",
-    "location": "Tunisia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 240,
-    "publicContributions": 0,
-    "createdAt": "2021-08-10T21:49:51Z"
-  },
-  {
     "login": "Dienbi",
     "name": "Dhia Borji",
     "avatarUrl": "https://avatars.githubusercontent.com/u/87154973?s=72&u=64bbcd4d491989735e6abc8b2a609763da549dca&v=4",
@@ -39872,7 +39848,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 368,
+    "publicContributions": 371,
     "createdAt": "2021-07-08T23:09:14Z"
   },
   {
@@ -39908,7 +39884,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 583,
+    "publicContributions": 401,
     "createdAt": "2021-01-19T21:50:31Z"
   },
   {
@@ -39930,9 +39906,9 @@
     "location": "Tunis, Tunisia",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 436,
-    "publicContributions": 38,
+    "followers": 4,
+    "privateContributions": 353,
+    "publicContributions": 25,
     "createdAt": "2021-03-07T15:29:23Z"
   },
   {
@@ -39955,8 +39931,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 1,
+    "privateContributions": 8,
+    "publicContributions": 3,
     "createdAt": "2021-06-02T22:52:52Z"
   },
   {
@@ -39966,9 +39942,9 @@
     "location": "Tunisia",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 68,
+    "publicContributions": 216,
     "createdAt": "2021-06-24T15:02:38Z"
   },
   {
@@ -39979,7 +39955,7 @@
     "company": "Outscal",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 72,
+    "privateContributions": 49,
     "publicContributions": 1,
     "createdAt": "2021-08-18T15:48:39Z"
   },

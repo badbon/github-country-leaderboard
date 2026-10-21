@@ -40092,18 +40092,6 @@
     "createdAt": "2021-02-01T13:14:46Z"
   },
   {
-    "login": "HenrINC",
-    "name": "Henri",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/83248808?s=72&v=4",
-    "location": "Belgium",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 15,
-    "createdAt": "2021-04-26T20:58:58Z"
-  },
-  {
     "login": "mennocoppensd",
     "name": "Menno Coppens d'Eeckenbrugge",
     "avatarUrl": "https://avatars.githubusercontent.com/u/91671688?s=72&u=02e6226477893f8b553656a47800d924f30cdfd8&v=4",
@@ -40112,7 +40100,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 33,
+    "publicContributions": 26,
     "createdAt": "2021-09-30T11:48:02Z"
   },
   {
@@ -40159,7 +40147,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 53,
+    "privateContributions": 8,
     "publicContributions": 0,
     "createdAt": "2021-11-29T15:11:31Z"
   },
@@ -40207,7 +40195,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 15,
+    "privateContributions": 30,
     "publicContributions": 15,
     "createdAt": "2021-04-07T13:22:25Z"
   },
@@ -40242,9 +40230,9 @@
     "location": "Brussels, Belgium",
     "company": "Ovizio Imaging System",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 6,
     "createdAt": "2021-07-12T15:21:14Z"
   },
   {
@@ -40256,7 +40244,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 114,
+    "publicContributions": 62,
     "createdAt": "2021-09-20T12:03:22Z"
   },
   {
@@ -40278,7 +40266,7 @@
     "location": "Belgium",
     "company": "e-peas",
     "twitterUsername": "Vediati",
-    "followers": 1,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-02-07T03:28:43Z"
@@ -40292,7 +40280,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 0,
     "createdAt": "2021-09-02T11:49:24Z"
   },
   {
@@ -40304,7 +40292,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 442,
+    "publicContributions": 485,
     "createdAt": "2021-12-08T15:28:37Z"
   },
   {

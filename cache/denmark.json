@@ -40182,9 +40182,9 @@
     "location": "Copenhagen",
     "company": "Whitebrook Holding ApS",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 5125,
-    "publicContributions": 16,
+    "followers": 2,
+    "privateContributions": 9845,
+    "publicContributions": 21,
     "createdAt": "2021-11-06T23:34:27Z"
   },
   {
@@ -40194,8 +40194,8 @@
     "location": "Copenhagen ",
     "company": "VML MAP",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 3629,
+    "followers": 2,
+    "privateContributions": 3882,
     "publicContributions": 0,
     "createdAt": "2021-12-02T09:11:22Z"
   },
@@ -40218,8 +40218,8 @@
     "location": "Copenhagen",
     "company": "@pleo-io ",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 1191,
+    "followers": 2,
+    "privateContributions": 1155,
     "publicContributions": 0,
     "createdAt": "2021-04-12T07:36:11Z"
   },
@@ -40272,18 +40272,6 @@
     "createdAt": "2021-09-22T08:34:08Z"
   },
   {
-    "login": "GrandjeanMerkle",
-    "name": "Anders Grandjean-Thomsen",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/93918076?s=72&u=a8ae64d5fa6dbf8bbe88df48c1044377435235e1&v=4",
-    "location": "Copenhagen",
-    "company": "Merkle NE",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2021-11-08T11:33:40Z"
-  },
-  {
     "login": "jeppe-t",
     "name": "Jeppe",
     "avatarUrl": "https://avatars.githubusercontent.com/u/82437282?s=72&u=d6a07687751029247b109e6d0b41d815109cd174&v=4",
@@ -40303,21 +40291,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 48,
+    "privateContributions": 44,
     "publicContributions": 0,
     "createdAt": "2021-08-11T10:32:50Z"
-  },
-  {
-    "login": "Alpine206",
-    "name": "Alpine",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/80145020?s=72&v=4",
-    "location": "Copenhagen",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2021-03-06T06:17:47Z"
   },
   {
     "login": "RonnieGregersen",
@@ -40340,7 +40316,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 225,
+    "publicContributions": 183,
     "createdAt": "2021-09-07T12:31:13Z"
   },
   {
@@ -40351,7 +40327,7 @@
     "company": "Nordflint Capital Partners",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 3950,
+    "privateContributions": 4810,
     "publicContributions": 26,
     "createdAt": "2021-09-21T07:47:47Z"
   },
@@ -40388,7 +40364,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 29,
-    "publicContributions": 43,
+    "publicContributions": 29,
     "createdAt": "2021-02-25T20:31:32Z"
   },
   {
