@@ -39848,7 +39848,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2020-05-25T08:57:43Z"
   },
   {
@@ -39884,7 +39884,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 3,
-    "publicContributions": 8,
+    "publicContributions": 7,
     "createdAt": "2020-02-16T15:31:19Z"
   },
   {
@@ -39896,7 +39896,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 3,
-    "publicContributions": 437,
+    "publicContributions": 458,
     "createdAt": "2020-02-25T09:27:40Z"
   },
   {
@@ -39906,9 +39906,9 @@
     "location": "Israel",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 2,
-    "publicContributions": 4,
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
     "createdAt": "2020-01-30T22:28:11Z"
   },
   {
@@ -39931,7 +39931,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 594,
+    "privateContributions": 775,
     "publicContributions": 0,
     "createdAt": "2020-05-22T19:24:38Z"
   },
@@ -39972,18 +39972,6 @@
     "createdAt": "2020-06-15T19:50:38Z"
   },
   {
-    "login": "jk21-HH",
-    "name": "Yevgeni Karpilovsky",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/65335246?s=72&u=47d57fe97b22081fb7bea7bc45dfa0f6cdc71c4d&v=4",
-    "location": "Holon, Israel",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 2,
-    "publicContributions": 109,
-    "createdAt": "2020-05-14T07:56:02Z"
-  },
-  {
     "login": "omerhac",
     "name": "Omer Hacohen",
     "avatarUrl": "https://avatars.githubusercontent.com/u/61577657?s=72&u=edc2eb976543431eef106a281eface3409e1cbb1&v=4",
@@ -39992,7 +39980,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 50,
+    "publicContributions": 44,
     "createdAt": "2020-02-28T07:36:35Z"
   },
   {
@@ -40027,7 +40015,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 13,
+    "privateContributions": 18,
     "publicContributions": 0,
     "createdAt": "2020-05-17T10:32:17Z"
   },
@@ -40038,9 +40026,9 @@
     "location": "Israel",
     "company": "Salute: Nutrition & Fitness",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 39,
+    "publicContributions": 50,
     "createdAt": "2020-05-15T08:23:39Z"
   },
   {
@@ -40052,7 +40040,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 10,
     "createdAt": "2020-05-27T09:46:59Z"
   },
   {
@@ -40064,7 +40052,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 9,
     "createdAt": "2020-04-24T22:01:22Z"
   },
   {

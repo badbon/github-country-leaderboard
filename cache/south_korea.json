@@ -682846,5 +682846,41 @@
     "privateContributions": 0,
     "publicContributions": 102,
     "createdAt": "2023-12-14T10:33:23Z"
+  },
+  {
+    "login": "plug-support",
+    "name": "PLUG",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298188747?s=72&u=7d586dbecd62971f0d9ffab320f9f30666533f53&v=4",
+    "location": "Seoul",
+    "company": "NH INVESTMENT & SECURITIES CO.",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-30T08:14:16Z"
+  },
+  {
+    "login": "sake303",
+    "name": "Seokhee Lee",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298224317?s=72&v=4",
+    "location": "Seoul/Boston",
+    "company": "",
+    "twitterUsername": "Sakee_33",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 202,
+    "createdAt": "2026-06-30T09:54:43Z"
+  },
+  {
+    "login": "aplus-sim",
+    "name": "APLUS Simulation ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298170060?s=72&u=5c32dcff5490543d6241da23ffccc1a4f31d9b1f&v=4",
+    "location": "Seoul",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 29,
+    "createdAt": "2026-06-30T07:16:41Z"
   }
 ]
