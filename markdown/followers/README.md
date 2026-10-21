@@ -56,7 +56,7 @@ Published countries: 234
 | Croatia | 5,418 | [View](./croatia.md) |
 | Cuba | 1,273 | [View](./cuba.md) |
 | Curaçao | 53 | [View](./curacao.md) |
-| Cyprus | 2,721 | [View](./cyprus.md) |
+| Cyprus | 2,722 | [View](./cyprus.md) |
 | Czechia | 16,203 | [View](./czechia.md) |
 | Denmark | 19,295 | [View](./denmark.md) |
 | Djibouti | 55 | [View](./djibouti.md) |
@@ -74,16 +74,16 @@ Published countries: 234
 | Falkland Islands | 13 | [View](./falkland_islands.md) |
 | Faroe Islands | 68 | [View](./faroe_islands.md) |
 | Fiji | 325 | [View](./fiji.md) |
-| Finland | 18,139 | [View](./finland.md) |
+| Finland | 18,138 | [View](./finland.md) |
 | French Guiana | 36 | [View](./french_guiana.md) |
 | French Polynesia | 60 | [View](./french_polynesia.md) |
 | French Southern and Antarctic Lands | 4 | [View](./french_southern_and_antarctic_lands.md) |
 | Gabon | 314 | [View](./gabon.md) |
 | Gambia | 79 | [View](./gambia.md) |
 | Georgia | 6,871 | [View](./georgia.md) |
-| Ghana | 7,076 | [View](./ghana.md) |
+| Ghana | 7,075 | [View](./ghana.md) |
 | Gibraltar | 93 | [View](./gibraltar.md) |
-| Greece | 15,534 | [View](./greece.md) |
+| Greece | 15,532 | [View](./greece.md) |
 | Greenland | 58 | [View](./greenland.md) |
 | Grenada | 37 | [View](./grenada.md) |
 | Guadeloupe | 86 | [View](./guadeloupe.md) |
@@ -97,9 +97,9 @@ Published countries: 234
 | Heard Island and McDonald Islands | 3 | [View](./heard_island_and_mcdonald_islands.md) |
 | Honduras | 1,258 | [View](./honduras.md) |
 | Hong Kong | 10,251 | [View](./hong_kong.md) |
-| Hungary | 11,162 | [View](./hungary.md) |
+| Hungary | 11,161 | [View](./hungary.md) |
 | Iceland | 1,579 | [View](./iceland.md) |
-| Indonesia | 63,277 | [View](./indonesia.md) |
+| Indonesia | 63,276 | [View](./indonesia.md) |
 | Iran | 26,857 | [View](./iran.md) |
 | Iraq | 2,230 | [View](./iraq.md) |
 | Ireland | 19,486 | [View](./ireland.md) |
@@ -239,4 +239,4 @@ Published countries: 234
 | Zambia | 1,336 | [View](./zambia.md) |
 | Zimbabwe | 1,656 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-21T19:02:23.173Z
+Generated: 2026-10-21T19:15:49.277Z

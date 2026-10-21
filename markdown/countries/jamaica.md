@@ -30,8 +30,8 @@ Indexed users: 1,271
 | 16 | [emperorjm](https://github.com/emperorjm) | Adrian Thompson | Jamaica | 4,532 |
 | 17 | [javaniecampbell](https://github.com/javaniecampbell) | Javanie Campbell | Jamaica | 4,426 |
 | 18 | [JCarran0](https://github.com/JCarran0) | Jared Carrano | Kingston, NY | 4,413 |
-| 19 | [CryptoCanuck](https://github.com/CryptoCanuck) | Chris Robinson | Kingston, ON | 4,245 |
-| 20 | [shanoysinc](https://github.com/shanoysinc) | Shanoy Sinclair | Jamaica | 4,241 |
+| 19 | [capndave](https://github.com/capndave) | David Thompson | Kingston, NY | 4,249 |
+| 20 | [CryptoCanuck](https://github.com/CryptoCanuck) | Chris Robinson | Kingston, ON | 4,245 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 1,271
 | 19 | [aliasad059](https://github.com/aliasad059) | Ali Asad | Kingston, Ontario | 99 |
 | 20 | [andrewmaier](https://github.com/andrewmaier) | Andrew Maier | Kingston, Ontario | 95 |
 
-Generated: 2026-10-21T17:14:24.208Z
+Generated: 2026-10-21T19:14:47.185Z

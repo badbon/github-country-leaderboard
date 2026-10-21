@@ -12,8 +12,8 @@ Indexed users: 2,230
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [hoshmandent](https://github.com/hoshmandent) | Hoshmand M. Qadir | Erbil, Iraq | 24,547 |
-| 2 | [Alifaleh](https://github.com/Alifaleh) | Ali Faleh | Baghdad / Iraq | 19,083 |
+| 1 | [hoshmandent](https://github.com/hoshmandent) | Hoshmand M. Qadir | Erbil, Iraq | 24,722 |
+| 2 | [Alifaleh](https://github.com/Alifaleh) | Ali Faleh | Baghdad / Iraq | 20,125 |
 | 3 | [RekarBotany](https://github.com/RekarBotany) | Rekar Botany | Iraq, Erbil | 10,149 |
 | 4 | [Mo7amedSMahdi](https://github.com/Mo7amedSMahdi) | Mohammed Salah Mahdi | Iraq,Najaf | 10,000 |
 | 5 | [alialnaimi1](https://github.com/alialnaimi1) | Ali Mohammed | Iraq | 9,278 |
@@ -83,4 +83,4 @@ Indexed users: 2,230
 | 19 | [Om4r-007](https://github.com/Om4r-007) | Omar Imad | Baghdad / Iraq | 211 |
 | 20 | [TARQkop](https://github.com/TARQkop) | TARIQ | IRAQ | 190 |
 
-Generated: 2026-10-21T17:12:51.669Z
+Generated: 2026-10-21T19:14:07.779Z

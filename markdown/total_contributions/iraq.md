@@ -1,13 +1,13 @@
 # Total Contributions - Iraq
 
-Generated: 2026-10-21T17:12:51.669Z
+Generated: 2026-10-21T19:14:07.779Z
 
 Users: 2230
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [hoshmandent](https://github.com/hoshmandent) | Hoshmand M. Qadir | @Ronex-Krd | hoshmandent | Erbil, Iraq | 24547 |
-| 2 | [Alifaleh](https://github.com/Alifaleh) | Ali Faleh | Freelancer |  | Baghdad / Iraq | 19083 |
+| 1 | [hoshmandent](https://github.com/hoshmandent) | Hoshmand M. Qadir | @Ronex-Krd | hoshmandent | Erbil, Iraq | 24722 |
+| 2 | [Alifaleh](https://github.com/Alifaleh) | Ali Faleh | Freelancer |  | Baghdad / Iraq | 20125 |
 | 3 | [RekarBotany](https://github.com/RekarBotany) | Rekar Botany | Lezzoo Inc. | Rekar_Botany | Iraq, Erbil | 10149 |
 | 4 | [Mo7amedSMahdi](https://github.com/Mo7amedSMahdi) | Mohammed Salah Mahdi | Full-Stack Developer | devMo7amed | Iraq,Najaf | 10000 |
 | 5 | [alialnaimi1](https://github.com/alialnaimi1) | Ali Mohammed |  |  | Iraq | 9278 |

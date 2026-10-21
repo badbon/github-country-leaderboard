@@ -1,6 +1,6 @@
 # Public Contributions - Greenland
 
-Generated: 2026-10-21T17:06:59.833Z
+Generated: 2026-10-21T19:07:13.729Z
 
 Users: 58
 
@@ -20,7 +20,7 @@ Users: 58
 | 12 | [hexia7230](https://github.com/hexia7230) | Terashita |  |  | Kaffeklubben Island, Greenland | 129 |
 | 13 | [panyster](https://github.com/panyster) | Pany | Tusass  |  | Greenland | 121 |
 | 14 | [PennyHow](https://github.com/PennyHow) | Penny How | GEUS |  | Nuuk, Greenland | 101 |
-| 15 | [Mango-pomelo-sago](https://github.com/Mango-pomelo-sago) | Mango-pomelo-sago |  |  | Greenland | 79 |
+| 15 | [Mango-pomelo-sago](https://github.com/Mango-pomelo-sago) | Mango-pomelo-sago |  |  | Greenland | 80 |
 | 16 | [Naxela](https://github.com/Naxela) | Alexander Kleemann | Naxela.info |  | Greenland | 67 |
 | 17 | [larpSTATGL](https://github.com/larpSTATGL) | Lars Pedersen | Statistics Greenland |  | Nuuk, Greenland | 41 |
 | 18 | [Lamtipul](https://github.com/Lamtipul) | Lâm | Lockheed Martin |  | Greenland | 38 |

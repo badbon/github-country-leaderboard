@@ -27,7 +27,7 @@ Indexed users: 58
 | 13 | [hexia7230](https://github.com/hexia7230) | Terashita | Kaffeklubben Island, Greenland | 129 |
 | 14 | [PennyHow](https://github.com/PennyHow) | Penny How | Nuuk, Greenland | 127 |
 | 15 | [panyster](https://github.com/panyster) | Pany | Greenland | 121 |
-| 16 | [Mango-pomelo-sago](https://github.com/Mango-pomelo-sago) | Mango-pomelo-sago | Greenland | 79 |
+| 16 | [Mango-pomelo-sago](https://github.com/Mango-pomelo-sago) | Mango-pomelo-sago | Greenland | 80 |
 | 17 | [Naxela](https://github.com/Naxela) | Alexander Kleemann | Greenland | 67 |
 | 18 | [rokarolla](https://github.com/rokarolla) | Andrey E. | Station Nord, Greenland | 65 |
 | 19 | [larpSTATGL](https://github.com/larpSTATGL) | Lars Pedersen | Nuuk, Greenland | 41 |
@@ -51,7 +51,7 @@ Indexed users: 58
 | 12 | [hexia7230](https://github.com/hexia7230) | Terashita | Kaffeklubben Island, Greenland | 129 |
 | 13 | [panyster](https://github.com/panyster) | Pany | Greenland | 121 |
 | 14 | [PennyHow](https://github.com/PennyHow) | Penny How | Nuuk, Greenland | 101 |
-| 15 | [Mango-pomelo-sago](https://github.com/Mango-pomelo-sago) | Mango-pomelo-sago | Greenland | 79 |
+| 15 | [Mango-pomelo-sago](https://github.com/Mango-pomelo-sago) | Mango-pomelo-sago | Greenland | 80 |
 | 16 | [Naxela](https://github.com/Naxela) | Alexander Kleemann | Greenland | 67 |
 | 17 | [larpSTATGL](https://github.com/larpSTATGL) | Lars Pedersen | Nuuk, Greenland | 41 |
 | 18 | [Lamtipul](https://github.com/Lamtipul) | Lâm | Greenland | 38 |
@@ -83,4 +83,4 @@ Indexed users: 58
 | 19 | [DaniEstevezBarcia](https://github.com/DaniEstevezBarcia) | Daniel Estévez-Barcia | Greenland | 8 |
 | 20 | [polarstoat](https://github.com/polarstoat) | Polar stoat | Greenland | 6 |
 
-Generated: 2026-10-21T17:06:59.833Z
+Generated: 2026-10-21T19:07:13.729Z
