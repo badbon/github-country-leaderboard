@@ -1,6 +1,6 @@
 # Total Contributions - Ivory Coast
 
-Generated: 2026-10-21T20:45:41.457Z
+Generated: 2026-10-21T22:22:10.435Z
 
 Users: 488
 
@@ -24,5 +24,5 @@ Users: 488
 | 16 | [azizsoule](https://github.com/azizsoule) | Aziz Soulé |  | _aziz_soule_ | Abidjan, Côte d'Ivoire | 4151 |
 | 17 | [elinguiuriel](https://github.com/elinguiuriel) | ELINGUI Pascal Uriel | Uriellabs |  | Côte d'Ivoire | 4020 |
 | 18 | [Anse-dev](https://github.com/Anse-dev) | N'guettia Atta Jean Anselme |  |  | Ivory Coast | 4005 |
-| 19 | [iDevo-ll](https://github.com/iDevo-ll) | iDevo |  |  | Yamoussoukro, côte d'ivoire  | 3817 |
-| 20 | [2ok-k](https://github.com/2ok-k) | Oumar Kouassi | Everest Consulting | oumar_koo | Abidjan, Côte d'Ivoire | 3814 |
+| 19 | [2ok-k](https://github.com/2ok-k) | Oumar Kouassi | Everest Consulting | oumar_koo | Abidjan, Côte d'Ivoire | 3814 |
+| 20 | [iDevo-ll](https://github.com/iDevo-ll) | iDevo |  |  | Yamoussoukro, côte d'ivoire  | 3758 |

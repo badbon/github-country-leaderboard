@@ -1,6 +1,6 @@
 # Public Contributions - Ivory Coast
 
-Generated: 2026-10-21T20:45:41.457Z
+Generated: 2026-10-21T22:22:10.435Z
 
 Users: 488
 
@@ -9,7 +9,7 @@ Users: 488
 | 1 | [adrielzimbril](https://github.com/adrielzimbril) | Adriel Zimbril | Space UI | adrielzimbril | Abidjan, Ivory Coast | 3092 |
 | 2 | [codescooper](https://github.com/codescooper) | Code Scooper |  |  | Abidjan, Côte d'ivoire | 1001 |
 | 3 | [moasko](https://github.com/moasko) | moasko.dev |  | mouhage5 | Côte d'Ivoire | 940 |
-| 4 | [iDevo-ll](https://github.com/iDevo-ll) | iDevo |  |  | Yamoussoukro, côte d'ivoire  | 814 |
+| 4 | [iDevo-ll](https://github.com/iDevo-ll) | iDevo |  |  | Yamoussoukro, côte d'ivoire  | 800 |
 | 5 | [eshe-huli](https://github.com/eshe-huli) | Ben G. Seydou Ouattara | Djamo CI |  | Abidjan, Ivory Coast | 741 |
 | 6 | [MALICK-GITH](https://github.com/MALICK-GITH) | SOLITAIRE HACK |  |  | Ivory coast 🇨🇮 | 632 |
 | 7 | [Germinator97](https://github.com/Germinator97) | AGBETOGOR Germain | @cinetpay @CinetPaySas @DonypayLab @betflow @i-fidelios |  | Abidjan, Côte-d'Ivoire | 566 |

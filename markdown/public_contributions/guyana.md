@@ -1,6 +1,6 @@
 # Public Contributions - Guyana
 
-Generated: 2026-10-21T20:39:24.983Z
+Generated: 2026-10-21T22:19:34.147Z
 
 Users: 187
 
@@ -8,7 +8,7 @@ Users: 187
 |---:|---|---|---|---|---|---:|
 | 1 | [FlyOverCoderKY](https://github.com/FlyOverCoderKY) | Fly Over Coder |  |  | Georgetown, KY | 4111 |
 | 2 | [uberhacker](https://github.com/uberhacker) | Ed Reel | Mobile Strategies LLC |  | Georgetown, TX | 3945 |
-| 3 | [bdenham](https://github.com/bdenham) | Bruce Denham | @adobe |  | Georgetown, Texas | 3374 |
+| 3 | [bdenham](https://github.com/bdenham) | Bruce Denham | @adobe |  | Georgetown, Texas | 3380 |
 | 4 | [negz](https://github.com/negz) | Nic Cope | @upbound  | internegz | Georgetown, Seattle | 1854 |
 | 5 | [jzills](https://github.com/jzills) | Joshua Zillwood |  |  | Georgetown, TX | 1789 |
 | 6 | [ktappdev](https://github.com/ktappdev) | Ken Andrew Taylor | LugeTech, Brutal Tracks Recording Studio, Maad 97.5 FM | ktappdev | Guyana | 1534 |
@@ -22,7 +22,7 @@ Users: 187
 | 14 | [ryanrhanson](https://github.com/ryanrhanson) | Ryan Hanson | Doppler |  | Georgetown, TX | 324 |
 | 15 | [schrum2](https://github.com/schrum2) | Jacob Schrum | Southwestern University |  | Georgetown, TX | 319 |
 | 16 | [billydavis](https://github.com/billydavis) | Billy Davis |  |  | Georgetown, Texas | 301 |
-| 17 | [barnwell](https://github.com/barnwell) | Jason Barnwell |  |  | Guyana | 270 |
+| 17 | [barnwell](https://github.com/barnwell) | Jason Barnwell |  |  | Guyana | 272 |
 | 18 | [adi-pr](https://github.com/adi-pr) | Aditya (Ruben) Prasad |  |  | Guyana | 267 |
 | 19 | [beckettharriman](https://github.com/beckettharriman) | Beckett Harriman | Georgetown University |  | Georgetown, DC | 260 |
 | 20 | [codedbychavez](https://github.com/codedbychavez) | Chavez Harris | @configcat |  | Guyana | 249 |

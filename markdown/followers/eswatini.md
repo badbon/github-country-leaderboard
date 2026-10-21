@@ -1,6 +1,6 @@
 # Followers - Eswatini
 
-Generated: 2026-10-21T20:32:13.873Z
+Generated: 2026-10-21T22:10:54.621Z
 
 Users: 108
 
@@ -24,5 +24,5 @@ Users: 108
 | 16 | [Dwaynemaster007](https://github.com/Dwaynemaster007) | Thubelihle Dlamini |  |  | Eswatini | 10 |
 | 17 | [mitchkun](https://github.com/mitchkun) | Mitchell Dube | Lurking  | o_Omitch_kun | Mbabane, Swaziland | 10 |
 | 18 | [Oscah3](https://github.com/Oscah3) | Siphesihle Malinga | Cubic Systems Investments (Pty) Ltd. t/a The ScopeHost Operating Company |  | Manzini, Eswatini | 10 |
-| 19 | [SakhileMamba](https://github.com/SakhileMamba) | Sakhile Mamba |  |  | Eswatini | 9 |
-| 20 | [allGhostAnon](https://github.com/allGhostAnon) | Lwazi Dlamini | Westars Corp |  | Mbabane, Swaziland  | 8 |
+| 19 | [allGhostAnon](https://github.com/allGhostAnon) | Lwazi Dlamini | Westars Corp |  | Mbabane, Swaziland  | 9 |
+| 20 | [SakhileMamba](https://github.com/SakhileMamba) | Sakhile Mamba |  |  | Eswatini | 9 |
