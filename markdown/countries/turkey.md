@@ -1,6 +1,6 @@
 # Turkey
 
-Indexed users: 79,162
+Indexed users: 79,161
 
 | Leaderboard | Link |
 |---|---|
@@ -73,7 +73,7 @@ Indexed users: 79,162
 | 9 | [arch-yunus](https://github.com/arch-yunus) | Bahattin Yunus ÇETİN | Türkiye | 7,606 |
 | 10 | [sadikturan](https://github.com/sadikturan) | Sadık TURAN | Türkiye | 7,085 |
 | 11 | [mustafamuratcoskun](https://github.com/mustafamuratcoskun) | Mustafa Murat Coşkun | Ankara | 7,031 |
-| 12 | [emirkaanozdemr](https://github.com/emirkaanozdemr) | Emir Kaan Özdemir | Istanbul, Turkey | 5,674 |
+| 12 | [emirkaanozdemr](https://github.com/emirkaanozdemr) | Emir Kaan Özdemir | Istanbul, Turkey | 5,637 |
 | 13 | [buraksocial](https://github.com/buraksocial) | Burak Doğan | Izmir, Turkey | 5,021 |
 | 14 | [hakanyalcinkaya](https://github.com/hakanyalcinkaya) | Hakan Yalcinkaya | Istanbul | 4,852 |
 | 15 | [hexarch](https://github.com/hexarch) | hexarch | İstanbul | 4,403 |
@@ -83,4 +83,4 @@ Indexed users: 79,162
 | 19 | [buger](https://github.com/buger) | Leonid Bugaev | Istanbul | 3,587 |
 | 20 | [ardaltunel](https://github.com/ardaltunel) | Arda Altunel | İstanbul/Turkey | 3,517 |
 
-Generated: 2026-10-21T05:58:16.341Z
+Generated: 2026-10-21T07:30:40.153Z

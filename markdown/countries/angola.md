@@ -53,8 +53,8 @@ Indexed users: 2,498
 | 14 | [jormaedes](https://github.com/jormaedes) | Jormaedes Luís | Angola | 1,374 |
 | 15 | [joaquimmulaza](https://github.com/joaquimmulaza) | Joaquim Mulaza | Luanda Angola | 1,332 |
 | 16 | [ercabsalias](https://github.com/ercabsalias) | Ernesto Cabingano Salias | Angola - Luanda Viana Estalagem | 1,169 |
-| 17 | [marcmav](https://github.com/marcmav) | Marciano Mavungo | Luanda, Angola | 1,064 |
-| 18 | [kandadavid36](https://github.com/kandadavid36) | Kanda David | Angola | 1,060 |
+| 17 | [kandadavid36](https://github.com/kandadavid36) | Kanda David | Angola | 1,067 |
+| 18 | [marcmav](https://github.com/marcmav) | Marciano Mavungo | Luanda, Angola | 1,064 |
 | 19 | [joao-tambue](https://github.com/joao-tambue) | João Tambue | Angola/Luanda | 1,018 |
 | 20 | [Wolf-Quiteque](https://github.com/Wolf-Quiteque) | Marcio Ragy Daveiga Quiteque | Luanda, Angola | 945 |
 
@@ -83,4 +83,4 @@ Indexed users: 2,498
 | 19 | [manuelernesto](https://github.com/manuelernesto) | Manuel Ernesto | Angola | 166 |
 | 20 | [AfonsoAfony](https://github.com/AfonsoAfony) | Afonso Narciso Da Silva | Luanda/Angola | 157 |
 
-Generated: 2026-10-21T06:08:05.635Z
+Generated: 2026-10-21T07:40:52.243Z

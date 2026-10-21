@@ -1,8 +1,8 @@
 # Followers - Turkey
 
-Generated: 2026-10-21T05:58:16.341Z
+Generated: 2026-10-21T07:30:40.153Z
 
-Users: 79162
+Users: 79161
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -17,7 +17,7 @@ Users: 79162
 | 9 | [arch-yunus](https://github.com/arch-yunus) | Bahattin Yunus ÇETİN | Arat Labs |  | Türkiye | 7606 |
 | 10 | [sadikturan](https://github.com/sadikturan) | Sadık TURAN |  |  | Türkiye | 7085 |
 | 11 | [mustafamuratcoskun](https://github.com/mustafamuratcoskun) | Mustafa Murat Coşkun | Yazılım Bilimi - Founder |  | Ankara | 7031 |
-| 12 | [emirkaanozdemr](https://github.com/emirkaanozdemr) | Emir Kaan Özdemir |  | emirkaanozdemr | Istanbul, Turkey | 5674 |
+| 12 | [emirkaanozdemr](https://github.com/emirkaanozdemr) | Emir Kaan Özdemir |  | emirkaanozdemr | Istanbul, Turkey | 5637 |
 | 13 | [buraksocial](https://github.com/buraksocial) | Burak Doğan |  |  | Izmir, Turkey | 5021 |
 | 14 | [hakanyalcinkaya](https://github.com/hakanyalcinkaya) | Hakan Yalcinkaya |  |  | Istanbul | 4852 |
 | 15 | [hexarch](https://github.com/hexarch) | hexarch | École 42 |  | İstanbul | 4403 |

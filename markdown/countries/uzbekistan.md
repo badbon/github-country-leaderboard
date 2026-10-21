@@ -78,9 +78,9 @@ Indexed users: 9,511
 | 14 | [orzklv](https://github.com/orzklv) | Orzklv | Tashkent, Uzbekistan | 366 |
 | 15 | [Muhammadjewel](https://github.com/Muhammadjewel) | Muhammadjavohir | Tashkent | 352 |
 | 16 | [goldendevuz](https://github.com/goldendevuz) | Abdulmajid Yunusov | Chilonzor, Tashkent, Uzbekistan | 333 |
-| 17 | [shahnozahaydarova](https://github.com/shahnozahaydarova) | Shakhnoza  | Navoi,Uzbekistan | 330 |
+| 17 | [shahnozahaydarova](https://github.com/shahnozahaydarova) | Shakhnoza  | Navoi,Uzbekistan | 331 |
 | 18 | [javohirdev](https://github.com/javohirdev) | Javohir Hakimov | Uzbekistan, Kibray | 320 |
 | 19 | [Andrey0189](https://github.com/Andrey0189) | Andrew | Tashkent | 310 |
 | 20 | [mukhtorov](https://github.com/mukhtorov) | Sardor | Tashkent, Uzbekistan | 299 |
 
-Generated: 2026-10-21T06:02:46.173Z
+Generated: 2026-10-21T07:34:50.073Z

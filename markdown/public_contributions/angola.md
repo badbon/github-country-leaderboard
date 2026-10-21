@@ -1,6 +1,6 @@
 # Public Contributions - Angola
 
-Generated: 2026-10-21T06:08:05.635Z
+Generated: 2026-10-21T07:40:52.243Z
 
 Users: 2498
 
@@ -22,7 +22,7 @@ Users: 2498
 | 14 | [jormaedes](https://github.com/jormaedes) | Jormaedes Luís |  |  | Angola | 1374 |
 | 15 | [joaquimmulaza](https://github.com/joaquimmulaza) | Joaquim Mulaza | Yaala | JoaquimMulaza | Luanda Angola | 1332 |
 | 16 | [ercabsalias](https://github.com/ercabsalias) | Ernesto Cabingano Salias | @IS4S-Intelligence-Software-Solutions  |  | Angola - Luanda Viana Estalagem | 1169 |
-| 17 | [marcmav](https://github.com/marcmav) | Marciano Mavungo | 42 Luanda |  | Luanda, Angola | 1064 |
-| 18 | [kandadavid36](https://github.com/kandadavid36) | Kanda David | ngoladata.com.ao |  | Angola | 1060 |
+| 17 | [kandadavid36](https://github.com/kandadavid36) | Kanda David | ngoladata.com.ao |  | Angola | 1067 |
+| 18 | [marcmav](https://github.com/marcmav) | Marciano Mavungo | 42 Luanda |  | Luanda, Angola | 1064 |
 | 19 | [joao-tambue](https://github.com/joao-tambue) | João Tambue |  |  | Angola/Luanda | 1018 |
 | 20 | [Wolf-Quiteque](https://github.com/Wolf-Quiteque) | Marcio Ragy Daveiga Quiteque |  |  | Luanda, Angola | 945 |

@@ -17,7 +17,7 @@ Indexed users: 132
 | 3 | [bajedev](https://github.com/bajedev) | Theo Taylor | Barbados | 4,205 |
 | 4 | [d-alleyne](https://github.com/d-alleyne) | Damien Alleyne | Barbados | 3,249 |
 | 5 | [paulmiu](https://github.com/paulmiu) | Paul Miu | Barbados | 3,034 |
-| 6 | [shaquillehinds](https://github.com/shaquillehinds) | Shaquille Hinds | Barbados | 2,824 |
+| 6 | [shaquillehinds](https://github.com/shaquillehinds) | Shaquille Hinds | Barbados | 2,823 |
 | 7 | [alexlilburn](https://github.com/alexlilburn) | Alex Lilburn | Barbados | 2,097 |
 | 8 | [Taggs](https://github.com/Taggs) | Neil Taggart | (London \|\| Barbados) && Cloud | 1,733 |
 | 9 | [FamineDT246](https://github.com/FamineDT246) | Ceejay C | Barbados | 1,548 |
@@ -27,10 +27,10 @@ Indexed users: 132
 | 13 | [lukehefson](https://github.com/lukehefson) | Luke Hefson | Barbados | 964 |
 | 14 | [ianhambleton](https://github.com/ianhambleton) | Ian Hambleton | Barbados | 673 |
 | 15 | [Thomas-Heniart](https://github.com/Thomas-Heniart) | Thomas Heniart | Barbados | 600 |
-| 16 | [starsden](https://github.com/starsden) | den | Barbados | 593 |
-| 17 | [clemjfrancis](https://github.com/clemjfrancis) | Clem "CJ" Francis | Barbados | 565 |
+| 16 | [clemjfrancis](https://github.com/clemjfrancis) | Clem "CJ" Francis | Barbados | 599 |
+| 17 | [starsden](https://github.com/starsden) | den | Barbados | 593 |
 | 18 | [diondree](https://github.com/diondree) | Diondre Edwards | Barbados | 442 |
-| 19 | [paulamelrz](https://github.com/paulamelrz) | Paula Melero | Barbados | 434 |
+| 19 | [paulamelrz](https://github.com/paulamelrz) | Paula Melero | Barbados | 436 |
 | 20 | [caritechsolutions](https://github.com/caritechsolutions) |  | Barbados | 412 |
 
 ## Public Contributions
@@ -83,4 +83,4 @@ Indexed users: 132
 | 19 | [sramharack](https://github.com/sramharack) | Shankar Ramharack | St. Phillips, Barbados, W.I. | 12 |
 | 20 | [paulamelrz](https://github.com/paulamelrz) | Paula Melero | Barbados | 11 |
 
-Generated: 2026-10-21T06:13:03.680Z
+Generated: 2026-10-21T07:44:45.447Z

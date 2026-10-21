@@ -1,6 +1,6 @@
 # Total Contributions - Bosnia and Herzegovina
 
-Generated: 2026-10-21T06:16:17.648Z
+Generated: 2026-10-21T07:49:05.672Z
 
 Users: 2126
 
@@ -11,8 +11,8 @@ Users: 2126
 | 3 | [mirzap](https://github.com/mirzap) | Mirza Pasic | @bosnadev  |  | Sarajevo | 8596 |
 | 4 | [benjaminpeljto](https://github.com/benjaminpeljto) | Benjamin Peljto | ShownMedia |  | Sarajevo | 7384 |
 | 5 | [leoyigit](https://github.com/leoyigit) | LeoYigit | Flyrank AI |  | Sarajevo | 7348 |
-| 6 | [ghostrider0470](https://github.com/ghostrider0470) | Abdagić Hamza | Horizon Tech d.o.o. Sarajevo  |  | Sarajevo | 7042 |
-| 7 | [aness55](https://github.com/aness55) | Anes |  |  | Sarajevo | 7028 |
+| 6 | [aness55](https://github.com/aness55) | Anes |  |  | Sarajevo | 7223 |
+| 7 | [ghostrider0470](https://github.com/ghostrider0470) | Abdagić Hamza | Horizon Tech d.o.o. Sarajevo  |  | Sarajevo | 7042 |
 | 8 | [ribice](https://github.com/ribice) | Emir Ribić | @caseconnect-ai |  | Sarajevo | 6627 |
 | 9 | [NedimKuj](https://github.com/NedimKuj) | Nedim Kujrakovic | @Indevico | nedkuj | Sarajevo | 6466 |
 | 10 | [JovanJevtic](https://github.com/JovanJevtic) | Jovan Jevtic |  | OvoJovanovo | Banjaluka, Bosnia and Herzegovina | 6464 |
