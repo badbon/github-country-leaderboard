@@ -12,8 +12,8 @@ Indexed users: 17
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [Bereket-Desbele](https://github.com/Bereket-Desbele) | Bereket Desbele Ghebregiorgis | Asmara, Eritrea | 4,845 |
-| 2 | [fgaim](https://github.com/fgaim) | Fitsum Gaim | Stockholm \|\| Daejeon \|\| Asmara | 2,475 |
+| 1 | [Bereket-Desbele](https://github.com/Bereket-Desbele) | Bereket Desbele Ghebregiorgis | Asmara, Eritrea | 4,846 |
+| 2 | [fgaim](https://github.com/fgaim) | Fitsum Gaim | Stockholm \|\| Daejeon \|\| Asmara | 2,477 |
 | 3 | [afatinong](https://github.com/afatinong) | Afewerki Fkadu | Eritrea | 30 |
 | 4 | [shaminzo](https://github.com/shaminzo) | Sham Mesfn | Asmara | 11 |
 | 5 | [aigemito](https://github.com/aigemito) | Amanuel Isack Gebreendrias | Asmara,Eritrea | 0 |
@@ -74,4 +74,4 @@ Indexed users: 17
 | 16 | [yonte73](https://github.com/yonte73) |  | Eritrea | 1 |
 | 17 | [ZaerIT](https://github.com/ZaerIT) | Zaer IT  | Asmara, Eritrea | 1 |
 
-Generated: 2026-10-21T20:30:01.258Z
+Generated: 2026-10-21T22:08:30.750Z

@@ -1,6 +1,6 @@
 # Total Contributions - Ecuador
 
-Generated: 2026-10-21T20:27:50.533Z
+Generated: 2026-10-21T22:07:09.001Z
 
 Users: 4876
 
@@ -22,7 +22,7 @@ Users: 4876
 | 14 | [sanieni6](https://github.com/sanieni6) | Luis Sanchez |  |  | Ecuador | 7174 |
 | 15 | [alvarezmario](https://github.com/alvarezmario) | Mario A. Alvarez Garcia |  |  | Quito, Ecuador | 6554 |
 | 16 | [jorgesolerrr](https://github.com/jorgesolerrr) | Jorge Soler |  |  | Guayaquil, Ecuador | 6539 |
-| 17 | [devrchancay](https://github.com/devrchancay) | Ramón Chancay Ortega  | @desarol | devrchancay | Ecuador, Guayaquil | 6275 |
-| 18 | [rapharen](https://github.com/rapharen) | Christian Raphael | @EfexPay |  | Ecuador | 6110 |
-| 19 | [franmc01](https://github.com/franmc01) | Francisco | Katarion |  | Ecuador | 6104 |
-| 20 | [br-programmer](https://github.com/br-programmer) | Brayan Cantos |  | br_programmer | Ecuador | 6095 |
+| 17 | [JoaquinZc](https://github.com/JoaquinZc) | José Joaquín Zambrano Centeno |  |  | Ecuador | 6277 |
+| 18 | [devrchancay](https://github.com/devrchancay) | Ramón Chancay Ortega  | @desarol | devrchancay | Ecuador, Guayaquil | 6275 |
+| 19 | [rapharen](https://github.com/rapharen) | Christian Raphael | @EfexPay |  | Ecuador | 6110 |
+| 20 | [franmc01](https://github.com/franmc01) | Francisco | Katarion |  | Ecuador | 6104 |

@@ -1,13 +1,13 @@
 # Total Contributions - Curaçao
 
-Generated: 2026-10-21T20:23:01.013Z
+Generated: 2026-10-21T22:03:11.695Z
 
 Users: 53
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [mvdgun](https://github.com/mvdgun) | Mauro van der Gun | @business-one  |  | Curaçao | 6471 |
-| 2 | [kloostermanw](https://github.com/kloostermanw) | Wiebe |  | wiebe1971 | Willemstad, Curaçao | 3848 |
+| 1 | [mvdgun](https://github.com/mvdgun) | Mauro van der Gun | @business-one  |  | Curaçao | 6505 |
+| 2 | [kloostermanw](https://github.com/kloostermanw) | Wiebe |  | wiebe1971 | Willemstad, Curaçao | 3859 |
 | 3 | [flangfeldt](https://github.com/flangfeldt) | FΞLIX | @celery-payroll  |  | Willemstad, Curacao | 3648 |
 | 4 | [BalusC](https://github.com/BalusC) | Bauke Scholtz |  | OmniFaces | Willemstad, Curaçao | 3441 |
 | 5 | [dwarfland](https://github.com/dwarfland) | marc hoffman | RemObjects Software | dwarfland | Curaçao | 1471 |
@@ -19,7 +19,7 @@ Users: 53
 | 11 | [acesuares](https://github.com/acesuares) | Ace Suares | Suares & Co |  | Willemstad, Netherlands Antilles | 253 |
 | 12 | [weyert](https://github.com/weyert) | Weyert de Boer |  |  | London, Curaçao | 130 |
 | 13 | [nelreina](https://github.com/nelreina) | Nelreina |  | nelreina | Willemstad, Curacao | 91 |
-| 14 | [theowlsden](https://github.com/theowlsden) | Shaquil Maria |  |  | Curaçao | 85 |
+| 14 | [theowlsden](https://github.com/theowlsden) | Shaquil Maria |  |  | Curaçao | 88 |
 | 15 | [iamjesco](https://github.com/iamjesco) | Jurgen Schoobaar |  | iamjesco | Willemstad | 49 |
 | 16 | [angelrgonzalezg](https://github.com/angelrgonzalezg) | Angel R Gonzalez G | Artificial Intelligence Systems | angelrgonzalezg | Willemstad, Curacao | 45 |
 | 17 | [schroef](https://github.com/schroef) |  |  |  | Curaçao, Dutch Caribbean | 42 |

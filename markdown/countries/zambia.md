@@ -30,7 +30,7 @@ Indexed users: 1,336
 | 16 | [genthegreat](https://github.com/genthegreat) | Prince Kwesi | Zambia | 3,436 |
 | 17 | [boniface](https://github.com/boniface) | Boniface Kabaso | Lusaka, Zambia | 3,391 |
 | 18 | [Geoffrey-Zulu](https://github.com/Geoffrey-Zulu) | Geoffrey Zulu | Lusaka, Zambia | 3,333 |
-| 19 | [ericknamukolo](https://github.com/ericknamukolo) | Erick Namukolo | Lusaka, Zambia | 3,281 |
+| 19 | [ericknamukolo](https://github.com/ericknamukolo) | Erick Namukolo | Lusaka, Zambia | 3,288 |
 | 20 | [engineervix](https://github.com/engineervix) | Victor Miti | Lusaka, Zambia | 3,155 |
 
 ## Public Contributions
@@ -56,7 +56,7 @@ Indexed users: 1,336
 | 17 | [wmweemba](https://github.com/wmweemba) | William .S. Mweemba | Lusaka, Zambia | 612 |
 | 18 | [Mwapsam](https://github.com/Mwapsam) | Samuel Chimfwembe | Zambia | 611 |
 | 19 | [c00p75](https://github.com/c00p75) | George M'sapenda | Lusaka, Zambia | 590 |
-| 20 | [marksikaundi](https://github.com/marksikaundi) | Mark Sikaundi | Zambia | 582 |
+| 20 | [marksikaundi](https://github.com/marksikaundi) | Mark Sikaundi | Zambia | 583 |
 
 ## Followers
 
@@ -66,7 +66,7 @@ Indexed users: 1,336
 | 2 | [Billypeterlennards](https://github.com/Billypeterlennards) | Billy Peter Munyenyembe | Lusaka,Zambia | 392 |
 | 3 | [KMKCODER](https://github.com/KMKCODER) | Kapembwa Kangali  | Ndola, Zambia | 242 |
 | 4 | [Joshk21758](https://github.com/Joshk21758) | Mwansa kunda  | Lusaka, Zambia  | 232 |
-| 5 | [marksikaundi](https://github.com/marksikaundi) | Mark Sikaundi | Zambia | 223 |
+| 5 | [marksikaundi](https://github.com/marksikaundi) | Mark Sikaundi | Zambia | 226 |
 | 6 | [boniface](https://github.com/boniface) | Boniface Kabaso | Lusaka, Zambia | 191 |
 | 7 | [smaboshe](https://github.com/smaboshe) | Silumesii Maboshe | Zambia | 173 |
 | 8 | [kalumwe](https://github.com/kalumwe) | Kalumba Mweshi | Lusaka, Zambia | 160 |
@@ -83,4 +83,4 @@ Indexed users: 1,336
 | 19 | [Eathorne2](https://github.com/Eathorne2) | Eathorne | Lusaka, Zambia | 103 |
 | 20 | [kshula](https://github.com/kshula) | Kampamba Shula | Lusaka | 101 |
 
-Generated: 2026-10-21T20:05:39.399Z
+Generated: 2026-10-21T21:43:17.368Z

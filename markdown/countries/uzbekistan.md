@@ -20,7 +20,7 @@ Indexed users: 9,512
 | 6 | [WIKKIwk](https://github.com/WIKKIwk) | Abdulfattox | in Tashkent | 12,827 |
 | 7 | [IxtiyorXaitov](https://github.com/IxtiyorXaitov) | Ixtiyor Xaitov | Tashkent, Uzbekistan | 12,331 |
 | 8 | [Rustam-Fozilov](https://github.com/Rustam-Fozilov) | Rustam Fozilov | Uzbekistan, Tashkent | 12,001 |
-| 9 | [ulugbek0217](https://github.com/ulugbek0217) | Ulug'bek Raxmankulov | Samarkand, Uzbekistan | 10,731 |
+| 9 | [ulugbek0217](https://github.com/ulugbek0217) | Ulug'bek Raxmankulov | Samarkand, Uzbekistan | 10,724 |
 | 10 | [pdlpad](https://github.com/pdlpad) | Alitus Black | Uzbekistan, Tashkent | 10,244 |
 | 11 | [phanthom335](https://github.com/phanthom335) | phanthom | Uzbekistan | 10,118 |
 | 12 | [golibnarzullayev](https://github.com/golibnarzullayev) | G'olib Narzullayev | Uzbekistan | 10,053 |
@@ -42,7 +42,7 @@ Indexed users: 9,512
 | 3 | [CodesByUmar](https://github.com/CodesByUmar) | Muhammad Umar Asatillayev | Uzbekistan | 74,895 |
 | 4 | [xcrpty7](https://github.com/xcrpty7) |  | Tashkent, Uzbekistan | 29,075 |
 | 5 | [WIKKIwk](https://github.com/WIKKIwk) | Abdulfattox | in Tashkent | 12,535 |
-| 6 | [ulugbek0217](https://github.com/ulugbek0217) | Ulug'bek Raxmankulov | Samarkand, Uzbekistan | 10,731 |
+| 6 | [ulugbek0217](https://github.com/ulugbek0217) | Ulug'bek Raxmankulov | Samarkand, Uzbekistan | 10,724 |
 | 7 | [gamerhackuz](https://github.com/gamerhackuz) | Mosa | Xonqa, Xorazm, Uzbekistan | 10,001 |
 | 8 | [RahimovShaxriyor](https://github.com/RahimovShaxriyor) | Shaxriyor  | Uzbekistan | 9,535 |
 | 9 | [Maxliyo0404](https://github.com/Maxliyo0404) | Maxliyo | Tashkent | 7,727 |
@@ -83,4 +83,4 @@ Indexed users: 9,512
 | 19 | [Andrey0189](https://github.com/Andrey0189) | Andrew | Tashkent | 310 |
 | 20 | [mukhtorov](https://github.com/mukhtorov) | Sardor | Tashkent, Uzbekistan | 299 |
 
-Generated: 2026-10-21T20:40:32.930Z
+Generated: 2026-10-21T21:39:20.225Z

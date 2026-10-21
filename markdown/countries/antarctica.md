@@ -21,7 +21,7 @@ Indexed users: 460
 | 7 | [ifarbod](https://github.com/ifarbod) | iFarbod | Antarctica  | 4,866 |
 | 8 | [AntoineSebert](https://github.com/AntoineSebert) | Antoine Sébert | Antarctica | 4,798 |
 | 9 | [Sup2point0](https://github.com/Sup2point0) | Sup#2.0 | Antarctica | 4,687 |
-| 10 | [bharxhav](https://github.com/bharxhav) | Bhargav Kantheti | antarctica | 4,258 |
+| 10 | [bharxhav](https://github.com/bharxhav) | Bhargav Kantheti | antarctica | 4,260 |
 | 11 | [cutetux](https://github.com/cutetux) | CuteTux | Antarctica ;) | 4,091 |
 | 12 | [Rayrsn](https://github.com/Rayrsn) | Rayr | Antarctica | 3,996 |
 | 13 | [enriquephl](https://github.com/enriquephl) |  | Antarctica | 3,567 |
@@ -55,7 +55,7 @@ Indexed users: 460
 | 16 | [oniaz](https://github.com/oniaz) | Omnia | antarctica | 517 |
 | 17 | [Daedalus-code](https://github.com/Daedalus-code) |  | Antarctica | 472 |
 | 18 | [VilnisGrinbergs2000](https://github.com/VilnisGrinbergs2000) |  | Antarctica | 471 |
-| 19 | [AuroraLantean](https://github.com/AuroraLantean) | AuroraLantean  | Antarctica | 457 |
+| 19 | [AuroraLantean](https://github.com/AuroraLantean) | AuroraLantean  | Antarctica | 460 |
 | 20 | [bestruirui](https://github.com/bestruirui) | BESTRUI | Antarctica | 441 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 460
 | 19 | [alphaaurigae](https://github.com/alphaaurigae) | Marian Brockerhoff | Antarctica | 85 |
 | 20 | [fakeid30](https://github.com/fakeid30) | Fake ID | Antarctica | 78 |
 
-Generated: 2026-10-21T20:10:42.793Z
+Generated: 2026-10-21T21:46:06.171Z

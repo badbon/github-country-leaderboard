@@ -1,8 +1,8 @@
 # Public Contributions - Armenia
 
-Generated: 2026-10-21T20:12:12.502Z
+Generated: 2026-10-21T21:46:16.990Z
 
-Users: 4028
+Users: 4027
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -16,13 +16,13 @@ Users: 4028
 | 8 | [MikhailShostak](https://github.com/MikhailShostak) | Mikhail Shostak |  |  | Yerevan | 3157 |
 | 9 | [tauinbox](https://github.com/tauinbox) | Alexander Tupavov | Personal |  | Armenia | 2835 |
 | 10 | [vvmspace](https://github.com/vvmspace) | Vladimir V. M. | DST - Dubai eSTate |  | Armenia | 2800 |
-| 11 | [m0n0x41d](https://github.com/m0n0x41d) | ivan zakutni | Fusioncat |  | Armenia | 2610 |
-| 12 | [esceptico](https://github.com/esceptico) | Tim Ganiev |  | postimortem | Yerevan, Armenia | 2586 |
-| 13 | [anatoly-scherbakov](https://github.com/anatoly-scherbakov) | Anatoly Scherbakov | @datafold  |  | Yerevan, Armenia | 2578 |
-| 14 | [diegnghtmr](https://github.com/diegnghtmr) | Diego Alejandro Flores Quintero | Universidad del Quindío |  | Armenia, Quindío, Colombia | 2130 |
-| 15 | [norayr](https://github.com/norayr) | Norayr Chilingarian | @vishapoberon |  | Yerevan, Armenia | 2015 |
-| 16 | [gagik894](https://github.com/gagik894) | Gagik Sargsyan |  |  | Armenia | 1982 |
-| 17 | [barivanlab](https://github.com/barivanlab) | BarivanLab | Barivan |  | Armenia | 1740 |
-| 18 | [andrewgark](https://github.com/andrewgark) | Andrei Garkavyi | Manychat |  | Yerevan | 1737 |
-| 19 | [HenrikGharagyozyan](https://github.com/HenrikGharagyozyan) | Henrik Gharagyozyan |  |  | Yerevan, Armenia | 1715 |
-| 20 | [nazelizurna](https://github.com/nazelizurna) |  |  |  | Yerevan, Armenia | 1605 |
+| 11 | [dvordrova](https://github.com/dvordrova) | Dmitry |  |  | Armenia, Yerevan | 2705 |
+| 12 | [m0n0x41d](https://github.com/m0n0x41d) | ivan zakutni | Fusioncat |  | Armenia | 2610 |
+| 13 | [esceptico](https://github.com/esceptico) | Tim Ganiev |  | postimortem | Yerevan, Armenia | 2586 |
+| 14 | [anatoly-scherbakov](https://github.com/anatoly-scherbakov) | Anatoly Scherbakov | @datafold  |  | Yerevan, Armenia | 2578 |
+| 15 | [diegnghtmr](https://github.com/diegnghtmr) | Diego Alejandro Flores Quintero | Universidad del Quindío |  | Armenia, Quindío, Colombia | 2130 |
+| 16 | [norayr](https://github.com/norayr) | Norayr Chilingarian | @vishapoberon |  | Yerevan, Armenia | 2015 |
+| 17 | [gagik894](https://github.com/gagik894) | Gagik Sargsyan |  |  | Armenia | 1982 |
+| 18 | [barivanlab](https://github.com/barivanlab) | BarivanLab | Barivan |  | Armenia | 1740 |
+| 19 | [andrewgark](https://github.com/andrewgark) | Andrei Garkavyi | Manychat |  | Yerevan | 1737 |
+| 20 | [HenrikGharagyozyan](https://github.com/HenrikGharagyozyan) | Henrik Gharagyozyan |  |  | Yerevan, Armenia | 1715 |

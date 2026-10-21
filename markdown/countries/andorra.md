@@ -31,7 +31,7 @@ Indexed users: 215
 | 17 | [sgirones](https://github.com/sgirones) | Salvador Gironès Gil | Andorra | 3,513 |
 | 18 | [ColColty](https://github.com/ColColty) | Tomàs Forné Cappeau | Andorra | 3,476 |
 | 19 | [FaZeTitans](https://github.com/FaZeTitans) | Axel DA SILVA | Andorra | 3,155 |
-| 20 | [GRKdev](https://github.com/GRKdev) | G.R.K. | Andorra | 3,127 |
+| 20 | [GRKdev](https://github.com/GRKdev) | G.R.K. | Andorra | 3,123 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 215
 | 19 | [ysb33r](https://github.com/ysb33r) | Schalk W. Cronjé | Andorra | 63 |
 | 20 | [castrolem](https://github.com/castrolem) | Luis Castro | Andorra la Vella, Andorra | 60 |
 
-Generated: 2026-10-21T20:09:44.702Z
+Generated: 2026-10-21T21:45:28.044Z

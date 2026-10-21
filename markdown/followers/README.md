@@ -14,8 +14,8 @@ Published countries: 234
 | Anguilla | 15 | [View](./anguilla.md) |
 | Antarctica | 460 | [View](./antarctica.md) |
 | Antigua and Barbuda | 12 | [View](./antigua_and_barbuda.md) |
-| Argentina | 50,718 | [View](./argentina.md) |
-| Armenia | 4,028 | [View](./armenia.md) |
+| Argentina | 50,717 | [View](./argentina.md) |
+| Armenia | 4,027 | [View](./armenia.md) |
 | Aruba | 37 | [View](./aruba.md) |
 | Austria | 18,244 | [View](./austria.md) |
 | Azerbaijan | 5,047 | [View](./azerbaijan.md) |
@@ -217,14 +217,14 @@ Published countries: 234
 | Tokelau | 4 | [View](./tokelau.md) |
 | Tonga | 10 | [View](./tonga.md) |
 | Trinidad and Tobago | 256 | [View](./trinidad_and_tobago.md) |
-| Tunisia | 7,159 | [View](./tunisia.md) |
-| Turkey | 79,163 | [View](./turkey.md) |
+| Tunisia | 7,158 | [View](./tunisia.md) |
+| Turkey | 79,162 | [View](./turkey.md) |
 | Turkmenistan | 501 | [View](./turkmenistan.md) |
 | Turks and Caicos Islands | 7 | [View](./turks_and_caicos_islands.md) |
 | Tuvalu | 11 | [View](./tuvalu.md) |
 | Uganda | 3,864 | [View](./uganda.md) |
 | Ukraine | 47,728 | [View](./ukraine.md) |
-| United Arab Emirates | 4,212 | [View](./united_arab_emirates.md) |
+| United Arab Emirates | 4,211 | [View](./united_arab_emirates.md) |
 | United States Minor Outlying Islands | 0 | [View](./united_states_minor_outlying_islands.md) |
 | United States Virgin Islands | 4 | [View](./united_states_virgin_islands.md) |
 | Uruguay | 5,603 | [View](./uruguay.md) |
@@ -232,11 +232,11 @@ Published countries: 234
 | Vanuatu | 18 | [View](./vanuatu.md) |
 | Vatican City | 31 | [View](./vatican_city.md) |
 | Venezuela | 6,618 | [View](./venezuela.md) |
-| Vietnam | 25,832 | [View](./vietnam.md) |
+| Vietnam | 25,831 | [View](./vietnam.md) |
 | Wallis and Futuna | 0 | [View](./wallis_and_futuna.md) |
 | Western Sahara | 5 | [View](./western_sahara.md) |
 | Yemen | 1,205 | [View](./yemen.md) |
 | Zambia | 1,336 | [View](./zambia.md) |
 | Zimbabwe | 1,656 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-21T21:31:16.483Z
+Generated: 2026-10-21T22:10:15.407Z
