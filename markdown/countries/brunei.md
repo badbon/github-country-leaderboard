@@ -17,7 +17,7 @@ Indexed users: 254
 | 3 | [SatriaSuriaAriffin](https://github.com/SatriaSuriaAriffin) | Satria Suria | Brunei | 2,879 |
 | 4 | [akasmirhan4](https://github.com/akasmirhan4) | Amirrul Kasmirhan | Brunei | 2,249 |
 | 5 | [fatinjulaihi](https://github.com/fatinjulaihi) | Fatin Julaihi | Brunei | 1,179 |
-| 6 | [OmarDST](https://github.com/OmarDST) | Omar Ibrahim | Brunei | 1,016 |
+| 6 | [OmarDST](https://github.com/OmarDST) | Omar Ibrahim | Brunei | 1,006 |
 | 7 | [abizarleman](https://github.com/abizarleman) | Abizar Leman | Brunei Darussalam | 934 |
 | 8 | [hilmishah](https://github.com/hilmishah) | Hilmi Shah | Brunei | 928 |
 | 9 | [KaramelBytes](https://github.com/KaramelBytes) | Jeremiah Henning | Brunei Darussalam | 858 |
@@ -45,8 +45,8 @@ Indexed users: 254
 | 6 | [naqiuddinihsan](https://github.com/naqiuddinihsan) | Ihsan | Brunei | 148 |
 | 7 | [thewheat](https://github.com/thewheat) | Timothy Lim | Brunei | 114 |
 | 8 | [syahnur197](https://github.com/syahnur197) | Syahnur Nizam | Brunei | 110 |
-| 9 | [Zylioth](https://github.com/Zylioth) | Muhammad Amir Sabrin bin Mohamad Ali | Brunei | 108 |
-| 10 | [PenguinMiaou](https://github.com/PenguinMiaou) | PenguinMiaou | Brunei Darussalam | 107 |
+| 9 | [PenguinMiaou](https://github.com/PenguinMiaou) | PenguinMiaou | Brunei Darussalam | 108 |
+| 10 | [Zylioth](https://github.com/Zylioth) | Muhammad Amir Sabrin bin Mohamad Ali | Brunei | 108 |
 | 11 | [lmwnshn](https://github.com/lmwnshn) | Wan Shen Lim | San Francisco, CA \| Brunei | 106 |
 | 12 | [amirulmenjeni](https://github.com/amirulmenjeni) | Amirul Menjeni | Brunei Darussalam | 104 |
 | 13 | [wafeeyhm](https://github.com/wafeeyhm) | Wafeey HM | Brunei Darussalam | 101 |
@@ -83,4 +83,4 @@ Indexed users: 254
 | 19 | [nathanielcwm](https://github.com/nathanielcwm) | Nathaniel | Brunei | 14 |
 | 20 | [affenrahim88](https://github.com/affenrahim88) | Affandy Abdul Rahim | Brunei Darussalam | 13 |
 
-Generated: 2026-10-21T03:38:45.165Z
+Generated: 2026-10-21T06:16:54.031Z

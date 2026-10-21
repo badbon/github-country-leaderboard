@@ -1,6 +1,6 @@
 # Public Contributions - Azerbaijan
 
-Generated: 2026-10-21T03:33:48.104Z
+Generated: 2026-10-21T06:11:37.479Z
 
 Users: 5049
 
@@ -23,6 +23,6 @@ Users: 5049
 | 15 | [Firdovsirz](https://github.com/Firdovsirz) | Firdovsi Rzaev |  |  | Baku | 2405 |
 | 16 | [Semedw](https://github.com/Semedw) | Samad Musazade |  |  | Azerbaijan | 2053 |
 | 17 | [aliyevaladddin](https://github.com/aliyevaladddin) | Aladdin Aliyev |  | Aladddinaliyev | Azerbaijan,Baku | 2050 |
-| 18 | [TheSarKhan](https://github.com/TheSarKhan) | SarKhann |  |  | Azerbaijan | 1989 |
-| 19 | [omar07ibrahim](https://github.com/omar07ibrahim) | Omar Ibrahim  | MBZUAI  |  | Baku  | 1983 |
-| 20 | [subhangadirli](https://github.com/subhangadirli) | Subhan Gadirli | JK Holding |  | Sumgayit, Azerbaijan | 1803 |
+| 18 | [omar07ibrahim](https://github.com/omar07ibrahim) | Omar Ibrahim  | MBZUAI  |  | Baku  | 1983 |
+| 19 | [subhangadirli](https://github.com/subhangadirli) | Subhan Gadirli | JK Holding |  | Sumgayit, Azerbaijan | 1803 |
+| 20 | [yusifaliyevpro](https://github.com/yusifaliyevpro) | Yusif Aliyev |  |  | Baku, Azerbaijan | 1711 |

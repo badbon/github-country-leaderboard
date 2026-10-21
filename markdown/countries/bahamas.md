@@ -24,10 +24,10 @@ Indexed users: 236
 | 10 | [jsphpndr](https://github.com/jsphpndr) | Joseph Pinder | Bahamas | 1,215 |
 | 11 | [TRL242](https://github.com/TRL242) | Roy Lockhart | Victoria, BC and Freeport, Bahamas | 1,110 |
 | 12 | [Johndiddles](https://github.com/Johndiddles) | Johndiddles | Nassau, Bahamas | 831 |
-| 13 | [Tec4Sho](https://github.com/Tec4Sho) | Ziona | Nassau, Bahamas  | 794 |
+| 13 | [Tec4Sho](https://github.com/Tec4Sho) | Ziona | Nassau, Bahamas  | 773 |
 | 14 | [Clearwood](https://github.com/Clearwood) |  | Bahamas | 740 |
 | 15 | [dorson755](https://github.com/dorson755) | Dorson Williams | Nassau Bahamas | 733 |
-| 16 | [TerryJG](https://github.com/TerryJG) | Terrance | Nassau, Bahamas | 724 |
+| 16 | [TerryJG](https://github.com/TerryJG) | Terrance | Nassau, Bahamas | 717 |
 | 17 | [mikepadiernos](https://github.com/mikepadiernos) | Mike Padiernos | Nassau County, NY | 611 |
 | 18 | [nhayling](https://github.com/nhayling) | Noah Hayling | Nassau, The Bahamas | 558 |
 | 19 | [avolel](https://github.com/avolel) | Andre Volel | Nassau County, NY | 371 |
@@ -37,7 +37,7 @@ Indexed users: 236
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [Tec4Sho](https://github.com/Tec4Sho) | Ziona | Nassau, Bahamas  | 794 |
+| 1 | [Tec4Sho](https://github.com/Tec4Sho) | Ziona | Nassau, Bahamas  | 773 |
 | 2 | [gtsbahamas](https://github.com/gtsbahamas) | Ty Wells | Nassau, Bahamas | 343 |
 | 3 | [mikepadiernos](https://github.com/mikepadiernos) | Mike Padiernos | Nassau County, NY | 297 |
 | 4 | [avolel](https://github.com/avolel) | Andre Volel | Nassau County, NY | 262 |
@@ -83,4 +83,4 @@ Indexed users: 236
 | 19 | [paulcitarella](https://github.com/paulcitarella) | Paul Citarella | George Town, Bahamas | 15 |
 | 20 | [yemix](https://github.com/yemix) |  | Bahamas | 14 |
 
-Generated: 2026-10-21T03:34:30.486Z
+Generated: 2026-10-21T06:12:17.712Z

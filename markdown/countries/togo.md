@@ -12,13 +12,13 @@ Indexed users: 678
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [woueziou](https://github.com/woueziou) | Taas S. Ekpaye | Lomé | 13,731 |
-| 2 | [gausoft](https://github.com/gausoft) | Gauthier Eholoum | Lomé, Togo | 13,346 |
+| 1 | [woueziou](https://github.com/woueziou) | Taas S. Ekpaye | Lomé | 14,156 |
+| 2 | [gausoft](https://github.com/gausoft) | Gauthier Eholoum | Lomé, Togo | 13,415 |
 | 3 | [omarfarouk228](https://github.com/omarfarouk228) | Omar farouk KOUGBADA | Togo | 11,963 |
 | 4 | [MaximeKELI](https://github.com/MaximeKELI) | Maxime KELI | Lome,TOGO | 9,419 |
 | 5 | [kodesonik](https://github.com/kodesonik) | AMADOU AROUNA | Togo | 8,985 |
 | 6 | [GTW503](https://github.com/GTW503) | MEK | Togo | 8,975 |
-| 7 | [hermannleboss](https://github.com/hermannleboss) | Hermann EHO | Lomé TOGO | 8,078 |
+| 7 | [hermannleboss](https://github.com/hermannleboss) | Hermann EHO | Lomé TOGO | 8,068 |
 | 8 | [DATAGNIKAN](https://github.com/DATAGNIKAN) | DATAGNI K. Armand Noël | Togo, Lomé | 6,823 |
 | 9 | [jeanclaudesoft](https://github.com/jeanclaudesoft) | Claudy | Togo | 6,119 |
 | 10 | [JsOptimizer](https://github.com/JsOptimizer) | Michael Olalekan | Togo | 5,622 |
@@ -38,7 +38,7 @@ Indexed users: 678
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [MaximeKELI](https://github.com/MaximeKELI) | Maxime KELI | Lome,TOGO | 7,353 |
-| 2 | [hermannleboss](https://github.com/hermannleboss) | Hermann EHO | Lomé TOGO | 4,661 |
+| 2 | [hermannleboss](https://github.com/hermannleboss) | Hermann EHO | Lomé TOGO | 4,645 |
 | 3 | [EmD-228](https://github.com/EmD-228) | Kokou DENYO | Lome-Togo | 4,060 |
 | 4 | [Georginio-prod](https://github.com/Georginio-prod) | Georginio  | lomé-TOGO | 3,320 |
 | 5 | [Rahim10020](https://github.com/Rahim10020) | Rahim ALI | Lome -TOGO | 3,207 |
@@ -83,4 +83,4 @@ Indexed users: 678
 | 19 | [ica1010](https://github.com/ica1010) | Ghislin | Lomé , Togo | 66 |
 | 20 | [Maximekgn](https://github.com/Maximekgn) | KOGON Mawunygan Maxime | Togo | 63 |
 
-Generated: 2026-10-21T03:18:38.874Z
+Generated: 2026-10-21T05:57:01.423Z

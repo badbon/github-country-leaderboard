@@ -1,6 +1,6 @@
 # Followers - Burkina Faso
 
-Generated: 2026-10-21T03:38:52.387Z
+Generated: 2026-10-21T06:17:00.135Z
 
 Users: 486
 
@@ -23,6 +23,6 @@ Users: 486
 | 15 | [leaston](https://github.com/leaston) | Nkuna Charles | Soft Consulting Services |  | Burkina Faso | 51 |
 | 16 | [haagrah](https://github.com/haagrah) | IsmaGUIRE |  | FaissalGuire | Burkina Faso (Ouagadougou) | 46 |
 | 17 | [ArielShadrac](https://github.com/ArielShadrac) | Ouedraogo Fildouindé Ariel Shadrac | Xcept-Health |  | Burkina Faso | 40 |
-| 18 | [Masterchief-07](https://github.com/Masterchief-07) | KIENDREBEOGO JONATHAN |  |  | BURKINAFASO/OUAGADOUGOU | 40 |
+| 18 | [Masterchief-07](https://github.com/Masterchief-07) | KIENDREBEOGO JONATHAN |  |  | BURKINAFASO/OUAGADOUGOU | 38 |
 | 19 | [sokevinjonas](https://github.com/sokevinjonas) | SO Kevin Jonas Gningnabe | KGSLAB |  | BURKINA FASO | 38 |
 | 20 | [kulturman](https://github.com/kulturman) | Arnaud Bakyono  |  |  | Ouagadougou | 36 |

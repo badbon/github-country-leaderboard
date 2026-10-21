@@ -1,6 +1,6 @@
 # Total Contributions - Denmark
 
-Generated: 2026-10-21T03:47:47.429Z
+Generated: 2026-10-21T06:25:55.421Z
 
 Users: 19298
 
@@ -8,7 +8,7 @@ Users: 19298
 |---:|---|---|---|---|---|---:|
 | 1 | [fpihl](https://github.com/fpihl) | Felix | Brillient |  | Denmark | 1368442 |
 | 2 | [kjuulh](https://github.com/kjuulh) | Kasper Juul Hermansen | @understory |  | Aarhus, Denmark | 112805 |
-| 3 | [binarybusiness](https://github.com/binarybusiness) | Mikael M |  |  | Copenhagen | 28636 |
+| 3 | [binarybusiness](https://github.com/binarybusiness) | Mikael M |  |  | Copenhagen | 49598 |
 | 4 | [kristianmandrup](https://github.com/kristianmandrup) | Kristian Mandrup | Freelancer |  | Copenhagen | 28037 |
 | 5 | [zahlio](https://github.com/zahlio) | Christoffer Mikkelsen | @flowbasedk  |  | Denmark | 24636 |
 | 6 | [mahope](https://github.com/mahope) | Mads Holst Jensen | Mahope.dk |  | Fyn, Denmark | 23572 |

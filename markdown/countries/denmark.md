@@ -14,7 +14,7 @@ Indexed users: 19,298
 |---:|---|---|---|---:|
 | 1 | [fpihl](https://github.com/fpihl) | Felix | Denmark | 1,368,442 |
 | 2 | [kjuulh](https://github.com/kjuulh) | Kasper Juul Hermansen | Aarhus, Denmark | 112,805 |
-| 3 | [binarybusiness](https://github.com/binarybusiness) | Mikael M | Copenhagen | 28,636 |
+| 3 | [binarybusiness](https://github.com/binarybusiness) | Mikael M | Copenhagen | 49,598 |
 | 4 | [kristianmandrup](https://github.com/kristianmandrup) | Kristian Mandrup | Copenhagen | 28,037 |
 | 5 | [zahlio](https://github.com/zahlio) | Christoffer Mikkelsen | Denmark | 24,636 |
 | 6 | [mahope](https://github.com/mahope) | Mads Holst Jensen | Fyn, Denmark | 23,572 |
@@ -83,4 +83,4 @@ Indexed users: 19,298
 | 19 | [ThomasVitale](https://github.com/ThomasVitale) | Thomas Vitale | Denmark | 1,273 |
 | 20 | [mit-mit](https://github.com/mit-mit) | Michael Thomsen | Aarhus, Denmark | 1,198 |
 
-Generated: 2026-10-21T03:47:47.429Z
+Generated: 2026-10-21T06:25:55.421Z

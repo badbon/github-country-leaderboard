@@ -25,13 +25,13 @@ Indexed users: 215
 | 11 | [jorge07](https://github.com/jorge07) | Jorge Arco | Escaldes, Andorra | 5,065 |
 | 12 | [marcalj](https://github.com/marcalj) | Marçal | Andorra | 5,029 |
 | 13 | [cmarfil](https://github.com/cmarfil) | Cristian Marfil | Andorra | 4,788 |
-| 14 | [kopenkinda](https://github.com/kopenkinda) | Kopenkin Dmitrii | Andorra | 4,226 |
-| 15 | [dvdjmnz](https://github.com/dvdjmnz) | David Jiménez | Andorra | 3,832 |
-| 16 | [sgirones](https://github.com/sgirones) | Salvador Gironès Gil | Andorra | 3,512 |
-| 17 | [ColColty](https://github.com/ColColty) | Tomàs Forné Cappeau | Andorra | 3,476 |
-| 18 | [FaZeTitans](https://github.com/FaZeTitans) | Axel DA SILVA | Andorra | 3,139 |
-| 19 | [GRKdev](https://github.com/GRKdev) | G.R.K. | Andorra | 3,127 |
-| 20 | [guillemfrancisco](https://github.com/guillemfrancisco) | Guillem Francisco | Andorra | 2,917 |
+| 14 | [kopenkinda](https://github.com/kopenkinda) | Kopenkin Dmitrii | Andorra | 4,235 |
+| 15 | [guillemfrancisco](https://github.com/guillemfrancisco) | Guillem Francisco | Andorra | 4,148 |
+| 16 | [dvdjmnz](https://github.com/dvdjmnz) | David Jiménez | Andorra | 3,832 |
+| 17 | [sgirones](https://github.com/sgirones) | Salvador Gironès Gil | Andorra | 3,512 |
+| 18 | [ColColty](https://github.com/ColColty) | Tomàs Forné Cappeau | Andorra | 3,476 |
+| 19 | [FaZeTitans](https://github.com/FaZeTitans) | Axel DA SILVA | Andorra | 3,155 |
+| 20 | [GRKdev](https://github.com/GRKdev) | G.R.K. | Andorra | 3,127 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 215
 | 19 | [ysb33r](https://github.com/ysb33r) | Schalk W. Cronjé | Andorra | 63 |
 | 20 | [castrolem](https://github.com/castrolem) | Luis Castro | Andorra la Vella, Andorra | 60 |
 
-Generated: 2026-10-21T03:28:53.661Z
+Generated: 2026-10-21T06:07:39.192Z

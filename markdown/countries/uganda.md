@@ -1,6 +1,6 @@
 # Uganda
 
-Indexed users: 3,864
+Indexed users: 3,863
 
 | Leaderboard | Link |
 |---|---|
@@ -51,12 +51,12 @@ Indexed users: 3,864
 | 12 | [PerezChris99](https://github.com/PerezChris99) | Perez Chris | Kampala, Uganda | 2,598 |
 | 13 | [afuchat1](https://github.com/afuchat1) | afuchat | Uganda | 2,539 |
 | 14 | [peterbamuhigire](https://github.com/peterbamuhigire) | Peter Bamuhigire | Kampala, Uganda | 2,422 |
-| 15 | [Chemistry2i](https://github.com/Chemistry2i) | WAMBOGO  HASSAN SADAT | Kampala Uganda | 2,001 |
-| 16 | [gwaiffemark001](https://github.com/gwaiffemark001) | Gwaiffe Mark | Kampala,Uganda | 1,986 |
-| 17 | [herberthk](https://github.com/herberthk) | Kavuma Herbert | Kampala | 1,958 |
-| 18 | [danielmarv](https://github.com/danielmarv) | Daniel Ntege | Kampala | 1,947 |
-| 19 | [Joshkovu](https://github.com/Joshkovu) | Kuteesa Joash | uganda  | 1,933 |
-| 20 | [Vaniahchristian](https://github.com/Vaniahchristian) | Vaniah Christian | Kampala Uganda  | 1,864 |
+| 15 | [birleopold](https://github.com/birleopold) | leopold birungi | kampala | 2,359 |
+| 16 | [Chemistry2i](https://github.com/Chemistry2i) | WAMBOGO  HASSAN SADAT | Kampala Uganda | 2,001 |
+| 17 | [gwaiffemark001](https://github.com/gwaiffemark001) | Gwaiffe Mark | Kampala,Uganda | 1,986 |
+| 18 | [herberthk](https://github.com/herberthk) | Kavuma Herbert | Kampala | 1,958 |
+| 19 | [danielmarv](https://github.com/danielmarv) | Daniel Ntege | Kampala | 1,947 |
+| 20 | [Joshkovu](https://github.com/Joshkovu) | Kuteesa Joash | uganda  | 1,933 |
 
 ## Followers
 
@@ -65,7 +65,7 @@ Indexed users: 3,864
 | 1 | [Arison99](https://github.com/Arison99) | Byonanebye Arison | Kampala | 1,763 |
 | 2 | [uthumany](https://github.com/uthumany) | Uthuman Moody | uthuman 7H6P+H8, Kampala | 1,091 |
 | 3 | [judeotine](https://github.com/judeotine) | Judeotine | Uganda | 929 |
-| 4 | [CryceTruly](https://github.com/CryceTruly) | cryce truly | Kampala | 760 |
+| 4 | [CryceTruly](https://github.com/CryceTruly) | cryce truly | Kampala | 757 |
 | 5 | [codebender828](https://github.com/codebender828) | Jonathan Bakebwa | Kampala, Uganda | 592 |
 | 6 | [ConradPB](https://github.com/ConradPB) | Conrad P.B | Kampala | 540 |
 | 7 | [ABAASA-BYOONA](https://github.com/ABAASA-BYOONA) | ABAASA | kampala | 510 |
@@ -83,4 +83,4 @@ Indexed users: 3,864
 | 19 | [kallyas](https://github.com/kallyas) | Iden | Uganda | 190 |
 | 20 | [FahimWeblogicAndCyberTechnologies](https://github.com/FahimWeblogicAndCyberTechnologies) | FRANKLIN | Uganda | 186 |
 
-Generated: 2026-10-21T03:22:47.292Z
+Generated: 2026-10-21T05:59:56.856Z

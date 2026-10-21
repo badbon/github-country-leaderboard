@@ -1,6 +1,6 @@
 # Total Contributions - DR Congo
 
-Generated: 2026-10-21T03:48:53.661Z
+Generated: 2026-10-21T06:28:12.926Z
 
 Users: 701
 
@@ -11,14 +11,14 @@ Users: 701
 | 3 | [Abarchibody](https://github.com/Abarchibody) | Archimede Body | @nevolut  | abarchibody | Kinshasa, DRC | 14033 |
 | 4 | [Bope142](https://github.com/Bope142) | Norbert Le Geek | @nulevices |  | Kinshasa DRC | 9284 |
 | 5 | [JoeM1990](https://github.com/JoeM1990) | Jonathan Monkila  | MonkilaTECH | joemonkila | kinshasa,RDC | 8031 |
-| 6 | [Dr-Lab1](https://github.com/Dr-Lab1) | Jonathan Kukwabantu Bahati | Labyrinthe | JoBahati1 | Kinshasa | 7152 |
-| 7 | [esaiemuhasa](https://github.com/esaiemuhasa) | Esaie Muhasa | Forge Digitale | esaiemuhasa | Butembo, Congo Kinshasa | 7119 |
-| 8 | [merdielongo](https://github.com/merdielongo) | merdielongo | ELONGO CREA | MerdiElongo | Congo / Kinshasa | 7016 |
-| 9 | [Theodorebinda](https://github.com/Theodorebinda) | Theodore SAMBA |  |  | kinshasa | 6945 |
-| 10 | [andydefer](https://github.com/andydefer) | Andy Kani | AndyKani DevServices |  | Democratic Republic of Congo | 6391 |
-| 11 | [bindukabusara](https://github.com/bindukabusara) | Bindu Kabusara Josué | Uganda Christian Unversity |  | Kampala, Kinshasa | 6090 |
-| 12 | [bilwifi](https://github.com/bilwifi) | Peniel DIALUNDAMA | @napp-inc  | peniel_dialu | Kinshasa, DRC | 5867 |
-| 13 | [stany-bns](https://github.com/stany-bns) | Stany Bibwangu | @altiustechnology |  | Kinshasa, DRC | 5756 |
+| 6 | [stany-bns](https://github.com/stany-bns) | Stany Bibwangu | @altiustechnology |  | Kinshasa, DRC | 7598 |
+| 7 | [Dr-Lab1](https://github.com/Dr-Lab1) | Jonathan Kukwabantu Bahati | Labyrinthe | JoBahati1 | Kinshasa | 7152 |
+| 8 | [esaiemuhasa](https://github.com/esaiemuhasa) | Esaie Muhasa | Forge Digitale | esaiemuhasa | Butembo, Congo Kinshasa | 7119 |
+| 9 | [merdielongo](https://github.com/merdielongo) | merdielongo | ELONGO CREA | MerdiElongo | Congo / Kinshasa | 7016 |
+| 10 | [Theodorebinda](https://github.com/Theodorebinda) | Theodore SAMBA |  |  | kinshasa | 6945 |
+| 11 | [andydefer](https://github.com/andydefer) | Andy Kani | AndyKani DevServices |  | Democratic Republic of Congo | 6391 |
+| 12 | [bindukabusara](https://github.com/bindukabusara) | Bindu Kabusara Josué | Uganda Christian Unversity |  | Kampala, Kinshasa | 6090 |
+| 13 | [bilwifi](https://github.com/bilwifi) | Peniel DIALUNDAMA | @napp-inc  | peniel_dialu | Kinshasa, DRC | 5867 |
 | 14 | [kalemadaniel](https://github.com/kalemadaniel) | Kalema Daniel Jonathan | ULB COOPERATION | KalemaDaniel2 | Democratic Republic of the Congo, Goma | 5585 |
 | 15 | [danielrubango](https://github.com/danielrubango) | Daniel RUBANGO | Yetulab ltd |  | Kinshasa | 5264 |
 | 16 | [hktom](https://github.com/hktom) | Tom Hikari | Akieni |  | Congo Kinshasa | 5119 |

@@ -14,7 +14,7 @@ Indexed users: 77
 |---:|---|---|---|---:|
 | 1 | [joshbrooks](https://github.com/joshbrooks) | Joshua Brooks | Dili, Timor-Leste | 11,136 |
 | 2 | [Akokonunes](https://github.com/Akokonunes) | Roberto Nunes | Timor-Leste | 2,202 |
-| 3 | [Noro18](https://github.com/Noro18) | Ezequiel Vieira Gonzaga Macedo | Timor Leste  | 1,698 |
+| 3 | [Noro18](https://github.com/Noro18) | Ezequiel Vieira Gonzaga Macedo | Timor Leste  | 1,693 |
 | 4 | [marobo](https://github.com/marobo) | Onorio de Jesus Afonso | Dili, East Timor | 1,005 |
 | 5 | [abindacarmo](https://github.com/abindacarmo) | Brigida de Carvalho Carmo | Timor-Leste | 840 |
 | 6 | [zemalay](https://github.com/zemalay) | Geovannio Frederico de Jesus Vinhas | Dili, Timor-Leste | 602 |
@@ -24,8 +24,8 @@ Indexed users: 77
 | 10 | [amandio-eto](https://github.com/amandio-eto) | Jose Amandio de Almeida | Rua china Rate Lahane Oreintal Dili Timor Leste | 213 |
 | 11 | [TiagovskiCode](https://github.com/TiagovskiCode) | Tiago Teixeira  | East-Timor | 189 |
 | 12 | [adearanda](https://github.com/adearanda) | Aderito Aranda | R. de Resistencia, Kuluhun, Dili Timor Leste | 146 |
-| 13 | [gabriel-de-jesus](https://github.com/gabriel-de-jesus) | Gabriel de Jesus | Dili, Timor-Leste | 120 |
-| 14 | [Floren-pinto](https://github.com/Floren-pinto) | Florentino Pinto | Timor-Leste | 110 |
+| 13 | [Floren-pinto](https://github.com/Floren-pinto) | Florentino Pinto | Timor-Leste | 134 |
+| 14 | [gabriel-de-jesus](https://github.com/gabriel-de-jesus) | Gabriel de Jesus | Dili, Timor-Leste | 120 |
 | 15 | [KituDoutel](https://github.com/KituDoutel) | Francisco KiTu | Dili, Timor-Leste 🇹🇱 | 65 |
 | 16 | [XICANO88](https://github.com/XICANO88) | XICANO | Manatuto, Timor-Leste | 58 |
 | 17 | [timorleste](https://github.com/timorleste) | Degree Background: Information Management (Associate Degree), Information Systems (B.Comp.Sc), Information Technology (M.Eng). Certified Experience in Spatial intelligence, Interested in Photography, Audiovisual Archive and IT-Systems Architect | Dili, Timor-Leste | 41 |
@@ -38,7 +38,7 @@ Indexed users: 77
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [Akokonunes](https://github.com/Akokonunes) | Roberto Nunes | Timor-Leste | 2,073 |
-| 2 | [Noro18](https://github.com/Noro18) | Ezequiel Vieira Gonzaga Macedo | Timor Leste  | 1,229 |
+| 2 | [Noro18](https://github.com/Noro18) | Ezequiel Vieira Gonzaga Macedo | Timor Leste  | 1,224 |
 | 3 | [joshbrooks](https://github.com/joshbrooks) | Joshua Brooks | Dili, Timor-Leste | 1,064 |
 | 4 | [abindacarmo](https://github.com/abindacarmo) | Brigida de Carvalho Carmo | Timor-Leste | 840 |
 | 5 | [ajitonelsonn](https://github.com/ajitonelsonn) | Ajito Nelson | Timor Leste | 499 |
@@ -46,9 +46,9 @@ Indexed users: 77
 | 7 | [amandio-eto](https://github.com/amandio-eto) | Jose Amandio de Almeida | Rua china Rate Lahane Oreintal Dili Timor Leste | 213 |
 | 8 | [zemalay](https://github.com/zemalay) | Geovannio Frederico de Jesus Vinhas | Dili, Timor-Leste | 207 |
 | 9 | [JabesNelma](https://github.com/JabesNelma) | Jay | Dili, Timor-Leste | 184 |
-| 10 | [TiagovskiCode](https://github.com/TiagovskiCode) | Tiago Teixeira  | East-Timor | 134 |
-| 11 | [gabriel-de-jesus](https://github.com/gabriel-de-jesus) | Gabriel de Jesus | Dili, Timor-Leste | 120 |
-| 12 | [Floren-pinto](https://github.com/Floren-pinto) | Florentino Pinto | Timor-Leste | 110 |
+| 10 | [Floren-pinto](https://github.com/Floren-pinto) | Florentino Pinto | Timor-Leste | 134 |
+| 11 | [TiagovskiCode](https://github.com/TiagovskiCode) | Tiago Teixeira  | East-Timor | 134 |
+| 12 | [gabriel-de-jesus](https://github.com/gabriel-de-jesus) | Gabriel de Jesus | Dili, Timor-Leste | 120 |
 | 13 | [KituDoutel](https://github.com/KituDoutel) | Francisco KiTu | Dili, Timor-Leste 🇹🇱 | 65 |
 | 14 | [XICANO88](https://github.com/XICANO88) | XICANO | Manatuto, Timor-Leste | 58 |
 | 15 | [timorleste](https://github.com/timorleste) | Degree Background: Information Management (Associate Degree), Information Systems (B.Comp.Sc), Information Technology (M.Eng). Certified Experience in Spatial intelligence, Interested in Photography, Audiovisual Archive and IT-Systems Architect | Dili, Timor-Leste | 41 |
@@ -83,4 +83,4 @@ Indexed users: 77
 | 19 | [joshbrooks](https://github.com/joshbrooks) | Joshua Brooks | Dili, Timor-Leste | 6 |
 | 20 | [KituDoutel](https://github.com/KituDoutel) | Francisco KiTu | Dili, Timor-Leste 🇹🇱 | 6 |
 
-Generated: 2026-10-21T03:18:31.459Z
+Generated: 2026-10-21T05:55:52.930Z

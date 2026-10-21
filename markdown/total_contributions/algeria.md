@@ -1,6 +1,6 @@
 # Total Contributions - Algeria
 
-Generated: 2026-10-21T03:27:42.043Z
+Generated: 2026-10-21T06:06:54.314Z
 
 Users: 5777
 
@@ -20,9 +20,9 @@ Users: 5777
 | 12 | [ubugnu](https://github.com/ubugnu) | Bouzid Badreddine | ubugnu |  | Algeria | 6389 |
 | 13 | [aimen08](https://github.com/aimen08) | Aymen Hamza | Tote&Carry | AimenMT2 | Algeria | 6072 |
 | 14 | [s77rt](https://github.com/s77rt) | Abdelhafidh Belalia |  |  | Algeria | 5978 |
-| 15 | [mohammedMsgm](https://github.com/mohammedMsgm) | MOHAMMED MESSEGUEM | Codefox.ai |  | Algiers, Algeria | 5232 |
-| 16 | [useCallback](https://github.com/useCallback) | Mohamed El Mehdi Khalfoun |  |  | Algeria | 5098 |
-| 17 | [Hamza-HM](https://github.com/Hamza-HM) | Hamza Hed Messaoud | Graphicode |  | Algeria | 5049 |
-| 18 | [issam-seghir](https://github.com/issam-seghir) | Issam Seghir |  |  | Algeria | 4989 |
-| 19 | [wallydz](https://github.com/wallydz) |  | UZ4 Network |  | Algeria | 4889 |
-| 20 | [maamriaabderahmene](https://github.com/maamriaabderahmene) | Maamria Abderahmene | National higher school of advanced technologies |  | algiers | 4818 |
+| 15 | [rofkk](https://github.com/rofkk) | Rafik Bentabet |  |  | Algeria | 5284 |
+| 16 | [mohammedMsgm](https://github.com/mohammedMsgm) | MOHAMMED MESSEGUEM | Codefox.ai |  | Algiers, Algeria | 5232 |
+| 17 | [useCallback](https://github.com/useCallback) | Mohamed El Mehdi Khalfoun |  |  | Algeria | 5098 |
+| 18 | [Hamza-HM](https://github.com/Hamza-HM) | Hamza Hed Messaoud | Graphicode |  | Algeria | 5049 |
+| 19 | [issam-seghir](https://github.com/issam-seghir) | Issam Seghir |  |  | Algeria | 4989 |
+| 20 | [wallydz](https://github.com/wallydz) |  | UZ4 Network |  | Algeria | 4889 |

@@ -1,6 +1,6 @@
 # Public Contributions - Bosnia and Herzegovina
 
-Generated: 2026-10-21T03:38:05.688Z
+Generated: 2026-10-21T06:16:17.648Z
 
 Users: 2126
 
@@ -16,12 +16,12 @@ Users: 2126
 | 8 | [zalom](https://github.com/zalom) | Zlatko Alomerovic |  |  | Tuzla, Bosnia and Herzegovina | 1864 |
 | 9 | [AleksaMCode](https://github.com/AleksaMCode) | Aleksa Majkić |  | aleksamcode | Banja Luka, Bosnia and Herzegovina | 1827 |
 | 10 | [Mirza404](https://github.com/Mirza404) | Mirza Abdulahovic |  |  | Sarajevo | 1697 |
-| 11 | [DEntis-T](https://github.com/DEntis-T) | Tractus Corticospinalis | bracetm |  | Sarajevo, FBiH | 1354 |
-| 12 | [beganovich](https://github.com/beganovich) | Benjamin Beganović |  | beganovichhh | Bosnia and Herzegovina | 1345 |
-| 13 | [IntuitionAmiga](https://github.com/IntuitionAmiga) | Zayn |  | IntuitionAmigaX | Sarajevo, BiH | 1289 |
-| 14 | [kimamovic21](https://github.com/kimamovic21) | Kerim Imamović |  | k_imamovic | Bosnia and Herzegovina | 1109 |
-| 15 | [pixerize](https://github.com/pixerize) | Djordje Sajlovic | Pixerize |  | Sarajevo, Bosnia and Herzegovina | 1095 |
-| 16 | [omznc](https://github.com/omznc) | Omar Zunic | Profico |  | Bosnia & Herzegovina | 1011 |
+| 11 | [omznc](https://github.com/omznc) | Omar Zunic | Profico |  | Bosnia & Herzegovina | 1418 |
+| 12 | [DEntis-T](https://github.com/DEntis-T) | Tractus Corticospinalis | bracetm |  | Sarajevo, FBiH | 1354 |
+| 13 | [beganovich](https://github.com/beganovich) | Benjamin Beganović |  | beganovichhh | Bosnia and Herzegovina | 1345 |
+| 14 | [IntuitionAmiga](https://github.com/IntuitionAmiga) | Zayn |  | IntuitionAmigaX | Sarajevo, BiH | 1289 |
+| 15 | [kimamovic21](https://github.com/kimamovic21) | Kerim Imamović |  | k_imamovic | Bosnia and Herzegovina | 1109 |
+| 16 | [pixerize](https://github.com/pixerize) | Djordje Sajlovic | Pixerize |  | Sarajevo, Bosnia and Herzegovina | 1095 |
 | 17 | [enisdenjo](https://github.com/enisdenjo) | Denis Badurina | @denelop  | enisdenjo | Sarajevo | 970 |
 | 18 | [MilanVlaski](https://github.com/MilanVlaski) | Milan Vlaški | Nelkinda Software Craft Pvt Ltd |  | Istočno Sarajevo | 923 |
 | 19 | [hernad](https://github.com/hernad) | Ernad Husremović |  |  | Bosnia and Herzegovina, Sarajevo | 902 |

@@ -26,12 +26,12 @@ Indexed users: 5,777
 | 12 | [ubugnu](https://github.com/ubugnu) | Bouzid Badreddine | Algeria | 6,389 |
 | 13 | [aimen08](https://github.com/aimen08) | Aymen Hamza | Algeria | 6,072 |
 | 14 | [s77rt](https://github.com/s77rt) | Abdelhafidh Belalia | Algeria | 5,978 |
-| 15 | [mohammedMsgm](https://github.com/mohammedMsgm) | MOHAMMED MESSEGUEM | Algiers, Algeria | 5,232 |
-| 16 | [useCallback](https://github.com/useCallback) | Mohamed El Mehdi Khalfoun | Algeria | 5,098 |
-| 17 | [Hamza-HM](https://github.com/Hamza-HM) | Hamza Hed Messaoud | Algeria | 5,049 |
-| 18 | [issam-seghir](https://github.com/issam-seghir) | Issam Seghir | Algeria | 4,989 |
-| 19 | [wallydz](https://github.com/wallydz) |  | Algeria | 4,889 |
-| 20 | [maamriaabderahmene](https://github.com/maamriaabderahmene) | Maamria Abderahmene | algiers | 4,818 |
+| 15 | [rofkk](https://github.com/rofkk) | Rafik Bentabet | Algeria | 5,284 |
+| 16 | [mohammedMsgm](https://github.com/mohammedMsgm) | MOHAMMED MESSEGUEM | Algiers, Algeria | 5,232 |
+| 17 | [useCallback](https://github.com/useCallback) | Mohamed El Mehdi Khalfoun | Algeria | 5,098 |
+| 18 | [Hamza-HM](https://github.com/Hamza-HM) | Hamza Hed Messaoud | Algeria | 5,049 |
+| 19 | [issam-seghir](https://github.com/issam-seghir) | Issam Seghir | Algeria | 4,989 |
+| 20 | [wallydz](https://github.com/wallydz) |  | Algeria | 4,889 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 5,777
 | 19 | [sabri-zaki](https://github.com/sabri-zaki) | sabri zakaria | Algeria | 686 |
 | 20 | [Hamza5](https://github.com/Hamza5) | Hamza Abbad | Algeria | 669 |
 
-Generated: 2026-10-21T03:27:42.043Z
+Generated: 2026-10-21T06:06:54.314Z

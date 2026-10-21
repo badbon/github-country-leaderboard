@@ -1,13 +1,13 @@
 # Followers - Zimbabwe
 
-Generated: 2026-10-21T03:27:16.399Z
+Generated: 2026-10-21T06:05:23.768Z
 
 Users: 1656
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [sehmaluva](https://github.com/sehmaluva) | Malvin T. Machingura |  |  | Harare, Zimbabwe | 1306 |
-| 2 | [mrfr8nk](https://github.com/mrfr8nk) | 𝐃𝐀𝐑𝐑𝐄𝐋𝐋 𝐌𝐔𝐂𝐇𝐄𝐑𝐈 ⚡ | Synapex | mrfr4nkofc | Zimbabwe, Harare | 621 |
+| 2 | [mrfr8nk](https://github.com/mrfr8nk) | 𝐃𝐀𝐑𝐑𝐄𝐋𝐋 𝐌𝐔𝐂𝐇𝐄𝐑𝐈 ⚡ | Synapex | mrfr4nkofc | Zimbabwe, Harare | 622 |
 | 3 | [nelsonnzou-crypt](https://github.com/nelsonnzou-crypt) | Tapiwanashe Nelson Nzou | Mutapa Continuity Systems | nelson_nzou | Zimbabwe | 611 |
 | 4 | [KnowledgeSeeker101-bit](https://github.com/KnowledgeSeeker101-bit) | Nyashadzaishe Masvongo | @seViVI-Tese |  | harare  Zimbabwe | 462 |
 | 5 | [iamngoni](https://github.com/iamngoni) | Ngonidzashe Mangudya | Codecraft Solutions | iamngoni | Harare | 231 |

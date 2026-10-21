@@ -1,6 +1,6 @@
 # Total Contributions - Bosnia and Herzegovina
 
-Generated: 2026-10-21T03:38:05.688Z
+Generated: 2026-10-21T06:16:17.648Z
 
 Users: 2126
 
@@ -22,7 +22,7 @@ Users: 2126
 | 14 | [JokerHin](https://github.com/JokerHin) | Cho Kar Hin | student |  | Bosnia and Herzegovina | 5738 |
 | 15 | [sanilmusic](https://github.com/sanilmusic) | Sanil Musić |  |  | Sarajevo | 5737 |
 | 16 | [robo58](https://github.com/robo58) | Robert Sliskovic |  |  | Siroki Brijeg,Bosnia and Herzegovina | 5720 |
-| 17 | [aprohic](https://github.com/aprohic) |  |  |  | Sarajevo | 5284 |
-| 18 | [jasminsuljic](https://github.com/jasminsuljic) | Jasmin Suljic | @MonriPayments  |  | Sarajevo, Bosnia and Herzegovina | 5056 |
-| 19 | [sake92](https://github.com/sake92) | Sakib Hadžiavdić | @sacode387  |  | Sarajevo, Bosnia | 4641 |
-| 20 | [KenanHrnjic](https://github.com/KenanHrnjic) | Kenan Hrnjic | @ministryofprogramming  |  | Sarajevo | 4294 |
+| 17 | [omznc](https://github.com/omznc) | Omar Zunic | Profico |  | Bosnia & Herzegovina | 5332 |
+| 18 | [aprohic](https://github.com/aprohic) |  |  |  | Sarajevo | 5284 |
+| 19 | [jasminsuljic](https://github.com/jasminsuljic) | Jasmin Suljic | @MonriPayments  |  | Sarajevo, Bosnia and Herzegovina | 5056 |
+| 20 | [sake92](https://github.com/sake92) | Sakib Hadžiavdić | @sacode387  |  | Sarajevo, Bosnia | 4641 |

@@ -14,7 +14,7 @@ Indexed users: 501
 |---:|---|---|---|---:|
 | 1 | [Kemalstudio](https://github.com/Kemalstudio) | Kemal Atayev | Turkmenistan / Ashgabat | 25,850 |
 | 2 | [resuls](https://github.com/resuls) | Resul | Turkmenistan | 8,627 |
-| 3 | [bruno-keiko](https://github.com/bruno-keiko) | Bruno | Turkmenistan | 6,635 |
+| 3 | [bruno-keiko](https://github.com/bruno-keiko) | Bruno | Turkmenistan | 6,644 |
 | 4 | [arslanAta](https://github.com/arslanAta) | Arslan | Turkmenistan | 5,405 |
 | 5 | [realmeylisdev](https://github.com/realmeylisdev) | Meylis | Ashgabat, Turkmenistan | 4,612 |
 | 6 | [richxcame](https://github.com/richxcame) | Baygeldi Cholukov | Turkmenistan | 4,380 |
@@ -83,4 +83,4 @@ Indexed users: 501
 | 19 | [MerlinEmris](https://github.com/MerlinEmris) | Merdan Chariyarov | Ashgabat | 65 |
 | 20 | [atageldi194229](https://github.com/atageldi194229) | Atageldi | Ashgabat, Turkmenistan | 64 |
 
-Generated: 2026-10-21T03:21:23.237Z
+Generated: 2026-10-21T05:58:54.343Z

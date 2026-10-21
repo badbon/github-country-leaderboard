@@ -1,6 +1,6 @@
 # Total Contributions - Andorra
 
-Generated: 2026-10-21T03:28:53.661Z
+Generated: 2026-10-21T06:07:39.192Z
 
 Users: 215
 
@@ -19,10 +19,10 @@ Users: 215
 | 11 | [jorge07](https://github.com/jorge07) | Jorge Arco | 90P Lab | Jorge__SVQ | Escaldes, Andorra | 5065 |
 | 12 | [marcalj](https://github.com/marcalj) | Marçal | Lizcore |  | Andorra | 5029 |
 | 13 | [cmarfil](https://github.com/cmarfil) | Cristian Marfil |  |  | Andorra | 4788 |
-| 14 | [kopenkinda](https://github.com/kopenkinda) | Kopenkin Dmitrii | @salut-mercado  |  | Andorra | 4226 |
-| 15 | [dvdjmnz](https://github.com/dvdjmnz) | David Jiménez |  |  | Andorra | 3832 |
-| 16 | [sgirones](https://github.com/sgirones) | Salvador Gironès Gil |  |  | Andorra | 3512 |
-| 17 | [ColColty](https://github.com/ColColty) | Tomàs Forné Cappeau | @surge-ai  |  | Andorra | 3476 |
-| 18 | [FaZeTitans](https://github.com/FaZeTitans) | Axel DA SILVA | Supscale | fazetitans | Andorra | 3139 |
-| 19 | [GRKdev](https://github.com/GRKdev) | G.R.K. | IAND |  | Andorra | 3127 |
-| 20 | [guillemfrancisco](https://github.com/guillemfrancisco) | Guillem Francisco | @Hulahoop-media |  | Andorra | 2917 |
+| 14 | [kopenkinda](https://github.com/kopenkinda) | Kopenkin Dmitrii | @salut-mercado  |  | Andorra | 4235 |
+| 15 | [guillemfrancisco](https://github.com/guillemfrancisco) | Guillem Francisco | @Hulahoop-media |  | Andorra | 4148 |
+| 16 | [dvdjmnz](https://github.com/dvdjmnz) | David Jiménez |  |  | Andorra | 3832 |
+| 17 | [sgirones](https://github.com/sgirones) | Salvador Gironès Gil |  |  | Andorra | 3512 |
+| 18 | [ColColty](https://github.com/ColColty) | Tomàs Forné Cappeau | @surge-ai  |  | Andorra | 3476 |
+| 19 | [FaZeTitans](https://github.com/FaZeTitans) | Axel DA SILVA | Supscale | fazetitans | Andorra | 3155 |
+| 20 | [GRKdev](https://github.com/GRKdev) | G.R.K. | IAND |  | Andorra | 3127 |

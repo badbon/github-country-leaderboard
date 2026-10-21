@@ -1,15 +1,15 @@
 # Followers - Uganda
 
-Generated: 2026-10-21T03:22:47.292Z
+Generated: 2026-10-21T05:59:56.856Z
 
-Users: 3864
+Users: 3863
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [Arison99](https://github.com/Arison99) | Byonanebye Arison | WispHive |  | Kampala | 1763 |
 | 2 | [uthumany](https://github.com/uthumany) | Uthuman Moody | Uthuman & Co | uthumanco | uthuman 7H6P+H8, Kampala | 1091 |
 | 3 | [judeotine](https://github.com/judeotine) | Judeotine |  | Judeotine | Uganda | 929 |
-| 4 | [CryceTruly](https://github.com/CryceTruly) | cryce truly | Reputable Tech Company | crycetruly | Kampala | 760 |
+| 4 | [CryceTruly](https://github.com/CryceTruly) | cryce truly | Reputable Tech Company | crycetruly | Kampala | 757 |
 | 5 | [codebender828](https://github.com/codebender828) | Jonathan Bakebwa | @mirrorworld-universe | codebender828 | Kampala, Uganda | 592 |
 | 6 | [ConradPB](https://github.com/ConradPB) | Conrad P.B | M2 Digital Technologies Afrique |  | Kampala | 540 |
 | 7 | [ABAASA-BYOONA](https://github.com/ABAASA-BYOONA) | ABAASA | ABAASA TECH |  | kampala | 510 |

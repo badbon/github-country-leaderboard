@@ -1,6 +1,6 @@
 # Public Contributions - Bhutan
 
-Generated: 2026-10-21T03:37:34.662Z
+Generated: 2026-10-21T06:15:35.214Z
 
 Users: 266
 
@@ -10,7 +10,7 @@ Users: 266
 | 2 | [Bomjan](https://github.com/Bomjan) | Sundra Builds | NOri Botanical |  | Thimphu | 1040 |
 | 3 | [sangayt1997](https://github.com/sangayt1997) | Sangay Thinley | SELISE Group | SangayT97 | Thimphu, Bhutan | 1012 |
 | 4 | [guruwangchuk7](https://github.com/guruwangchuk7) | Guru Wangchuk | Kodadev | guru_wangchuk | Bhutan | 1008 |
-| 5 | [yesheytenzin](https://github.com/yesheytenzin) | Yeshey Tenzin | @SELISEdigitalplatforms | tenzyeshey | Thimphu, Bhutan | 935 |
+| 5 | [yesheytenzin](https://github.com/yesheytenzin) | Yeshey Tenzin | @SELISEdigitalplatforms | tenzyeshey | Thimphu, Bhutan | 949 |
 | 6 | [twangyel](https://github.com/twangyel) | Tandin Wangyel |  |  | Bhutan | 924 |
 | 7 | [Choedra](https://github.com/Choedra) | Choedra Gyamtsho | Light Webx |  | Chubachu, Thimphu | 459 |
 | 8 | [SurajSunar](https://github.com/SurajSunar) | Suraj Sunar |  |  | Thimphu, Bhutan | 333 |

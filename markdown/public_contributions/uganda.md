@@ -1,8 +1,8 @@
 # Public Contributions - Uganda
 
-Generated: 2026-10-21T03:22:47.292Z
+Generated: 2026-10-21T05:59:56.856Z
 
-Users: 3864
+Users: 3863
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -20,9 +20,9 @@ Users: 3864
 | 12 | [PerezChris99](https://github.com/PerezChris99) | Perez Chris | </KC>Saas | perezdotpy | Kampala, Uganda | 2598 |
 | 13 | [afuchat1](https://github.com/afuchat1) | afuchat | AfuChat |  | Uganda | 2539 |
 | 14 | [peterbamuhigire](https://github.com/peterbamuhigire) | Peter Bamuhigire | Peter Bamuhigire | peterbamu | Kampala, Uganda | 2422 |
-| 15 | [Chemistry2i](https://github.com/Chemistry2i) | WAMBOGO  HASSAN SADAT | Peculiar Technologies Ltd @Peculiar256 | wambogohassan | Kampala Uganda | 2001 |
-| 16 | [gwaiffemark001](https://github.com/gwaiffemark001) | Gwaiffe Mark |  |  | Kampala,Uganda | 1986 |
-| 17 | [herberthk](https://github.com/herberthk) | Kavuma Herbert | Netbritz |  | Kampala | 1958 |
-| 18 | [danielmarv](https://github.com/danielmarv) | Daniel Ntege | @OpenElements | danielmarvin785 | Kampala | 1947 |
-| 19 | [Joshkovu](https://github.com/Joshkovu) | Kuteesa Joash | Wota creators Technologies  | JoashKutee80790 | uganda  | 1933 |
-| 20 | [Vaniahchristian](https://github.com/Vaniahchristian) | Vaniah Christian | DINDU TECH |  | Kampala Uganda  | 1864 |
+| 15 | [birleopold](https://github.com/birleopold) | leopold birungi |  |  | kampala | 2359 |
+| 16 | [Chemistry2i](https://github.com/Chemistry2i) | WAMBOGO  HASSAN SADAT | Peculiar Technologies Ltd @Peculiar256 | wambogohassan | Kampala Uganda | 2001 |
+| 17 | [gwaiffemark001](https://github.com/gwaiffemark001) | Gwaiffe Mark |  |  | Kampala,Uganda | 1986 |
+| 18 | [herberthk](https://github.com/herberthk) | Kavuma Herbert | Netbritz |  | Kampala | 1958 |
+| 19 | [danielmarv](https://github.com/danielmarv) | Daniel Ntege | @OpenElements | danielmarvin785 | Kampala | 1947 |
+| 20 | [Joshkovu](https://github.com/Joshkovu) | Kuteesa Joash | Wota creators Technologies  | JoashKutee80790 | uganda  | 1933 |

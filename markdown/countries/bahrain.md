@@ -21,7 +21,7 @@ Indexed users: 727
 | 7 | [meshahid973](https://github.com/meshahid973) | meshahid.973 | bahrain | 6,274 |
 | 8 | [fairbird](https://github.com/fairbird) | RAED | Bahrain | 5,467 |
 | 9 | [zahidala](https://github.com/zahidala) | Zahid Allaulddin | Bahrain | 5,236 |
-| 10 | [xCuzSkillz](https://github.com/xCuzSkillz) | Ali M. | Bahrain | 4,913 |
+| 10 | [xCuzSkillz](https://github.com/xCuzSkillz) | Ali M. | Bahrain | 5,032 |
 | 11 | [halalgami](https://github.com/halalgami) | Algam | Bahrain | 4,885 |
 | 12 | [kelvindecosta](https://github.com/kelvindecosta) | Kelvin DeCosta | Bahrain | 4,678 |
 | 13 | [iMythms](https://github.com/iMythms) | Mytham Jasim | Bahrain | 4,453 |
@@ -42,14 +42,14 @@ Indexed users: 727
 | 3 | [SalehAbdulla](https://github.com/SalehAbdulla) | SalehAbdulla | BAHRAIN | 3,259 |
 | 4 | [UnbreakableMJ](https://github.com/UnbreakableMJ) | Mohamed Hammad | Bahrain | 2,730 |
 | 5 | [fatema-maitham](https://github.com/fatema-maitham) | Fatema Maitham | Bahrain | 2,693 |
-| 6 | [ov-tron](https://github.com/ov-tron) | ov - Tron | Amwaj, Bahrain | 2,107 |
+| 6 | [ov-tron](https://github.com/ov-tron) | ov - Tron | Amwaj, Bahrain | 2,115 |
 | 7 | [masterde](https://github.com/masterde) | Baker | Bahrain, Muharraq | 1,537 |
 | 8 | [aldoyh](https://github.com/aldoyh) | Hasan AlDoy | Al Muharraq, Bahrain | 1,265 |
 | 9 | [sfoulad](https://github.com/sfoulad) | Sameh Foulad | Bahrain | 893 |
 | 10 | [read2see](https://github.com/read2see) | Husain Habib | Bahrain | 888 |
 | 11 | [meshahid973](https://github.com/meshahid973) | meshahid.973 | bahrain | 877 |
 | 12 | [nasoooor29](https://github.com/nasoooor29) | Naser Hussain | bahrain | 828 |
-| 13 | [FnrDev](https://github.com/FnrDev) | Ahmed | Bahrain | 776 |
+| 13 | [FnrDev](https://github.com/FnrDev) | Ahmed | Bahrain | 788 |
 | 14 | [eslam-allam](https://github.com/eslam-allam) | Eslam Allam | Bahrain | 765 |
 | 15 | [mahoozi97](https://github.com/mahoozi97) | Ali Almahoozi | Bahrain | 733 |
 | 16 | [FahadIqbal1122](https://github.com/FahadIqbal1122) | fahad | Bahrain | 703 |
@@ -83,4 +83,4 @@ Indexed users: 727
 | 19 | [f-9t9it](https://github.com/f-9t9it) | 9T9 IT | Bahrain | 42 |
 | 20 | [masterde](https://github.com/masterde) | Baker | Bahrain, Muharraq | 41 |
 
-Generated: 2026-10-21T03:35:05.248Z
+Generated: 2026-10-21T06:12:55.538Z

@@ -40,7 +40,7 @@ Indexed users: 1,656
 | 1 | [codewithkin](https://github.com/codewithkin) | Kin Leon Zinzombe | Mutare, Zimbabwe | 9,433 |
 | 2 | [morebnyemba](https://github.com/morebnyemba) | Moreblessing Nyemba | Zimbabwe | 6,315 |
 | 3 | [Mutombe](https://github.com/Mutombe) | Mutombe | Borrowdale, Harare | 4,856 |
-| 4 | [mrfr8nk](https://github.com/mrfr8nk) | 𝐃𝐀𝐑𝐑𝐄𝐋𝐋 𝐌𝐔𝐂𝐇𝐄𝐑𝐈 ⚡ | Zimbabwe, Harare | 3,960 |
+| 4 | [mrfr8nk](https://github.com/mrfr8nk) | 𝐃𝐀𝐑𝐑𝐄𝐋𝐋 𝐌𝐔𝐂𝐇𝐄𝐑𝐈 ⚡ | Zimbabwe, Harare | 3,934 |
 | 5 | [tapiwamakandigona](https://github.com/tapiwamakandigona) | Tapiwa Makandigona | Zimbabwe | 3,598 |
 | 6 | [PraiseTechzw](https://github.com/PraiseTechzw) | Praise Masunga | Chinhoyi, Zimbabwe | 2,924 |
 | 7 | [VincentMugondora](https://github.com/VincentMugondora) | Vincent Mugondora | Mufakose, Harare, Zimbabwe | 2,118 |
@@ -63,7 +63,7 @@ Indexed users: 1,656
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [sehmaluva](https://github.com/sehmaluva) | Malvin T. Machingura | Harare, Zimbabwe | 1,306 |
-| 2 | [mrfr8nk](https://github.com/mrfr8nk) | 𝐃𝐀𝐑𝐑𝐄𝐋𝐋 𝐌𝐔𝐂𝐇𝐄𝐑𝐈 ⚡ | Zimbabwe, Harare | 621 |
+| 2 | [mrfr8nk](https://github.com/mrfr8nk) | 𝐃𝐀𝐑𝐑𝐄𝐋𝐋 𝐌𝐔𝐂𝐇𝐄𝐑𝐈 ⚡ | Zimbabwe, Harare | 622 |
 | 3 | [nelsonnzou-crypt](https://github.com/nelsonnzou-crypt) | Tapiwanashe Nelson Nzou | Zimbabwe | 611 |
 | 4 | [KnowledgeSeeker101-bit](https://github.com/KnowledgeSeeker101-bit) | Nyashadzaishe Masvongo | harare  Zimbabwe | 462 |
 | 5 | [iamngoni](https://github.com/iamngoni) | Ngonidzashe Mangudya | Harare | 231 |
@@ -83,4 +83,4 @@ Indexed users: 1,656
 | 19 | [zim-bot](https://github.com/zim-bot) | DRIPS MEMES BLENNIE BLESSED TUNA | Zimbabwe | 110 |
 | 20 | [KudakwasheM](https://github.com/KudakwasheM) | Kudakwashe Masaya | Harare | 105 |
 
-Generated: 2026-10-21T03:27:16.399Z
+Generated: 2026-10-21T06:05:23.768Z

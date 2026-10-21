@@ -28,10 +28,10 @@ Indexed users: 2,126
 | 14 | [JokerHin](https://github.com/JokerHin) | Cho Kar Hin | Bosnia and Herzegovina | 5,738 |
 | 15 | [sanilmusic](https://github.com/sanilmusic) | Sanil Musić | Sarajevo | 5,737 |
 | 16 | [robo58](https://github.com/robo58) | Robert Sliskovic | Siroki Brijeg,Bosnia and Herzegovina | 5,720 |
-| 17 | [aprohic](https://github.com/aprohic) |  | Sarajevo | 5,284 |
-| 18 | [jasminsuljic](https://github.com/jasminsuljic) | Jasmin Suljic | Sarajevo, Bosnia and Herzegovina | 5,056 |
-| 19 | [sake92](https://github.com/sake92) | Sakib Hadžiavdić | Sarajevo, Bosnia | 4,641 |
-| 20 | [KenanHrnjic](https://github.com/KenanHrnjic) | Kenan Hrnjic | Sarajevo | 4,294 |
+| 17 | [omznc](https://github.com/omznc) | Omar Zunic | Bosnia & Herzegovina | 5,332 |
+| 18 | [aprohic](https://github.com/aprohic) |  | Sarajevo | 5,284 |
+| 19 | [jasminsuljic](https://github.com/jasminsuljic) | Jasmin Suljic | Sarajevo, Bosnia and Herzegovina | 5,056 |
+| 20 | [sake92](https://github.com/sake92) | Sakib Hadžiavdić | Sarajevo, Bosnia | 4,641 |
 
 ## Public Contributions
 
@@ -47,12 +47,12 @@ Indexed users: 2,126
 | 8 | [zalom](https://github.com/zalom) | Zlatko Alomerovic | Tuzla, Bosnia and Herzegovina | 1,864 |
 | 9 | [AleksaMCode](https://github.com/AleksaMCode) | Aleksa Majkić | Banja Luka, Bosnia and Herzegovina | 1,827 |
 | 10 | [Mirza404](https://github.com/Mirza404) | Mirza Abdulahovic | Sarajevo | 1,697 |
-| 11 | [DEntis-T](https://github.com/DEntis-T) | Tractus Corticospinalis | Sarajevo, FBiH | 1,354 |
-| 12 | [beganovich](https://github.com/beganovich) | Benjamin Beganović | Bosnia and Herzegovina | 1,345 |
-| 13 | [IntuitionAmiga](https://github.com/IntuitionAmiga) | Zayn | Sarajevo, BiH | 1,289 |
-| 14 | [kimamovic21](https://github.com/kimamovic21) | Kerim Imamović | Bosnia and Herzegovina | 1,109 |
-| 15 | [pixerize](https://github.com/pixerize) | Djordje Sajlovic | Sarajevo, Bosnia and Herzegovina | 1,095 |
-| 16 | [omznc](https://github.com/omznc) | Omar Zunic | Bosnia & Herzegovina | 1,011 |
+| 11 | [omznc](https://github.com/omznc) | Omar Zunic | Bosnia & Herzegovina | 1,418 |
+| 12 | [DEntis-T](https://github.com/DEntis-T) | Tractus Corticospinalis | Sarajevo, FBiH | 1,354 |
+| 13 | [beganovich](https://github.com/beganovich) | Benjamin Beganović | Bosnia and Herzegovina | 1,345 |
+| 14 | [IntuitionAmiga](https://github.com/IntuitionAmiga) | Zayn | Sarajevo, BiH | 1,289 |
+| 15 | [kimamovic21](https://github.com/kimamovic21) | Kerim Imamović | Bosnia and Herzegovina | 1,109 |
+| 16 | [pixerize](https://github.com/pixerize) | Djordje Sajlovic | Sarajevo, Bosnia and Herzegovina | 1,095 |
 | 17 | [enisdenjo](https://github.com/enisdenjo) | Denis Badurina | Sarajevo | 970 |
 | 18 | [MilanVlaski](https://github.com/MilanVlaski) | Milan Vlaški | Istočno Sarajevo | 923 |
 | 19 | [hernad](https://github.com/hernad) | Ernad Husremović | Bosnia and Herzegovina, Sarajevo | 902 |
@@ -83,4 +83,4 @@ Indexed users: 2,126
 | 19 | [Mickey0001](https://github.com/Mickey0001) | Mirza Sisic | Sarajevo, Bosnia and Herzegovina  | 122 |
 | 20 | [sake92](https://github.com/sake92) | Sakib Hadžiavdić | Sarajevo, Bosnia | 118 |
 
-Generated: 2026-10-21T03:38:05.688Z
+Generated: 2026-10-21T06:16:17.648Z
