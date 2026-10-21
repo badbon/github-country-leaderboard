@@ -727,7 +727,7 @@
     "company": "",
     "twitterUsername": "big_thingMoWHK",
     "followers": 1,
-    "privateContributions": 253,
+    "privateContributions": 247,
     "publicContributions": 48,
     "createdAt": "2024-04-15T11:35:01Z"
   },
@@ -740,7 +740,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 33,
+    "publicContributions": 34,
     "createdAt": "2024-05-31T11:28:30Z"
   },
   {
@@ -750,7 +750,7 @@
     "location": "Windhoek, Namibia",
     "company": "@Ezitect Technologies",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 47,
     "createdAt": "2024-08-28T10:34:57Z"
@@ -764,7 +764,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 13,
     "createdAt": "2024-10-14T20:38:50Z"
   },
   {
@@ -836,7 +836,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 241,
-    "publicContributions": 95,
+    "publicContributions": 135,
     "createdAt": "2024-08-19T07:17:24Z"
   },
   {
@@ -920,7 +920,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 24,
     "createdAt": "2024-07-31T04:06:37Z"
   },
   {
@@ -934,18 +934,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-09-03T06:06:21Z"
-  },
-  {
-    "login": "LogicHarvest",
-    "name": "Logic Harvest",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/152002178?s=72&u=8cbe68b5ee626268e9eaddbf67eb7158640d3864&v=4",
-    "location": "Windhoek Namibia",
-    "company": "@LogicHarvestOrg",
-    "twitterUsername": "",
-    "followers": 113,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2023-11-25T10:35:18Z"
   },
   {
     "login": "SamuelNduw",
