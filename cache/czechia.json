@@ -41455,8 +41455,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 860,
-    "publicContributions": 336,
+    "privateContributions": 768,
+    "publicContributions": 455,
     "createdAt": "2021-05-04T17:11:46Z"
   },
   {
@@ -41480,7 +41480,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2021-03-25T05:06:21Z"
   },
   {
@@ -41516,7 +41516,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2021-02-18T07:41:17Z"
   },
   {
@@ -41540,7 +41540,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 117,
+    "publicContributions": 113,
     "createdAt": "2021-10-05T16:28:15Z"
   },
   {
@@ -41564,7 +41564,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 46,
+    "publicContributions": 49,
     "createdAt": "2021-12-27T17:56:31Z"
   },
   {
@@ -41576,7 +41576,7 @@
     "twitterUsername": "EmiT87",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 2,
     "createdAt": "2021-06-24T17:36:18Z"
   },
   {
@@ -41634,9 +41634,9 @@
     "location": "Prague",
     "company": "Etnetera Core",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 62,
     "createdAt": "2021-03-24T09:55:03Z"
   },
   {
@@ -41646,22 +41646,10 @@
     "location": "Prague",
     "company": "Dempsey & Clark",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 22,
     "createdAt": "2021-05-05T12:12:40Z"
-  },
-  {
-    "login": "phdattien",
-    "name": "Pham Tien Dat",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/82518228?s=72&v=4",
-    "location": "Prague",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2021-04-14T13:01:06Z"
   },
   {
     "login": "evanflynn12",
@@ -41670,7 +41658,7 @@
     "location": "Prague",
     "company": "EUROWAG",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-07-23T07:49:36Z"

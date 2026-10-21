@@ -85882,5 +85882,29 @@
     "privateContributions": 0,
     "publicContributions": 27,
     "createdAt": "2026-05-17T21:04:08Z"
+  },
+  {
+    "login": "GHAYTH-LAB",
+    "name": "GHAYTH ABIDLI",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298498494?s=72&u=be91fc272a5b8760dc9f234749ce9ec73ce2b856&v=4",
+    "location": "Tunis,Tunisia",
+    "company": "INSAT",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 53,
+    "publicContributions": 405,
+    "createdAt": "2026-07-01T01:08:22Z"
+  },
+  {
+    "login": "MEHOUACHIAHMED",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298498456?s=72&u=ce847fd2041eeb4e2b179a194281761650071dc3&v=4",
+    "location": "Tunisia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 1006,
+    "publicContributions": 28,
+    "createdAt": "2026-07-01T01:08:14Z"
   }
 ]
