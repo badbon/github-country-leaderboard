@@ -39428,7 +39428,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 30,
+    "publicContributions": 10,
     "createdAt": "2023-05-11T09:43:20Z"
   },
   {
@@ -39451,8 +39451,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
+    "privateContributions": 50,
+    "publicContributions": 3,
     "createdAt": "2023-06-02T19:53:43Z"
   },
   {
@@ -39480,18 +39480,6 @@
     "createdAt": "2023-05-11T15:19:52Z"
   },
   {
-    "login": "DolVladzio",
-    "name": "Vladzio",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/130439029?s=72&u=84003d3d5db490fc5eb959e0e1ad1328438115f1&v=4",
-    "location": "Ukraine",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 25,
-    "createdAt": "2023-04-11T06:53:12Z"
-  },
-  {
     "login": "souljoyer",
     "name": "Богдан",
     "avatarUrl": "https://avatars.githubusercontent.com/u/130283009?s=72&u=3afca61f409919c3a88a47e8d15822a9f0bc263b&v=4",
@@ -39500,7 +39488,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 34,
+    "publicContributions": 35,
     "createdAt": "2023-04-09T09:43:20Z"
   },
   {
@@ -39548,7 +39536,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 5,
     "createdAt": "2023-04-10T12:59:10Z"
   },
   {

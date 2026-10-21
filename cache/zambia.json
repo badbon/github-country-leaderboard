@@ -7939,8 +7939,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 19,
-    "privateContributions": 1554,
-    "publicContributions": 53,
+    "privateContributions": 1542,
+    "publicContributions": 52,
     "createdAt": "2021-05-14T08:52:00Z"
   },
   {
@@ -7987,8 +7987,8 @@
     "company": "ProBase Limited",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 3607,
-    "publicContributions": 260,
+    "privateContributions": 3665,
+    "publicContributions": 254,
     "createdAt": "2021-01-22T11:33:58Z"
   },
   {
@@ -8023,7 +8023,7 @@
     "company": "National Institute of Public Administration",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 1066,
+    "privateContributions": 1061,
     "publicContributions": 0,
     "createdAt": "2021-10-26T23:49:57Z"
   },
@@ -8072,7 +8072,7 @@
     "twitterUsername": "Chrishent",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 557,
+    "publicContributions": 562,
     "createdAt": "2021-02-02T07:40:55Z"
   },
   {
@@ -8112,26 +8112,14 @@
     "createdAt": "2021-02-02T10:17:59Z"
   },
   {
-    "login": "rly0nheart",
-    "name": "Ritchie Mwewa",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/74001397?s=72&u=2e8d08399d32965e11718cd276807cc0e6199193&v=4",
-    "location": "Zambia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 302,
-    "privateContributions": 53,
-    "publicContributions": 986,
-    "createdAt": "2020-11-05T12:59:51Z"
-  },
-  {
     "login": "KMKCODER",
     "name": "Kapembwa Kangali ",
     "avatarUrl": "https://avatars.githubusercontent.com/u/66021442?s=72&u=86d10310265bd5d342f5d6bd1590c3cf6f714514&v=4",
     "location": "Ndola, Zambia",
     "company": "KmkCoder",
     "twitterUsername": "",
-    "followers": 233,
-    "privateContributions": 203,
+    "followers": 242,
+    "privateContributions": 204,
     "publicContributions": 28,
     "createdAt": "2020-05-27T14:29:27Z"
   },
@@ -8143,7 +8131,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 124,
-    "privateContributions": 181,
+    "privateContributions": 198,
     "publicContributions": 532,
     "createdAt": "2020-03-25T07:23:25Z"
   },

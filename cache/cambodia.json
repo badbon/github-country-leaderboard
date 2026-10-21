@@ -5528,7 +5528,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 6,
     "createdAt": "2024-08-13T06:19:58Z"
   },
   {
@@ -5540,7 +5540,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 50,
+    "publicContributions": 52,
     "createdAt": "2024-06-08T02:22:25Z"
   },
   {
@@ -5552,7 +5552,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 329,
+    "publicContributions": 353,
     "createdAt": "2024-09-24T08:43:36Z"
   },
   {
@@ -5611,8 +5611,8 @@
     "company": "PointHub POS",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 674,
-    "publicContributions": 80,
+    "privateContributions": 673,
+    "publicContributions": 74,
     "createdAt": "2024-11-27T02:36:36Z"
   },
   {
@@ -5626,18 +5626,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-01-22T14:51:02Z"
-  },
-  {
-    "login": "JakesShell",
-    "name": "Jaco van Rooyen",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/170783717?s=72&u=be7e49113981281493e6e395bdd5fd3909d01d81&v=4",
-    "location": "Phnom Penh, Cambodia | Remote",
-    "company": "Independent Cloud Governance & Operations Intelligence Builder",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2024-05-25T03:49:02Z"
   },
   {
     "login": "vannthandev",
@@ -5672,7 +5660,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 80,
+    "publicContributions": 78,
     "createdAt": "2024-07-12T08:22:24Z"
   },
   {

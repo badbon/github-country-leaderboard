@@ -39884,7 +39884,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2021-09-17T06:20:58Z"
   },
   {
@@ -39895,7 +39895,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 49,
+    "privateContributions": 68,
     "publicContributions": 0,
     "createdAt": "2021-05-05T16:51:10Z"
   },
@@ -39907,8 +39907,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 6,
-    "publicContributions": 14,
+    "privateContributions": 11,
+    "publicContributions": 13,
     "createdAt": "2021-01-11T13:24:23Z"
   },
   {
@@ -39920,7 +39920,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 1714,
-    "publicContributions": 313,
+    "publicContributions": 315,
     "createdAt": "2021-06-01T06:24:01Z"
   },
   {
@@ -39931,7 +39931,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
+    "privateContributions": 41,
     "publicContributions": 0,
     "createdAt": "2021-07-03T10:34:28Z"
   },
@@ -39956,7 +39956,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2021-07-16T12:41:09Z"
   },
   {
@@ -39980,7 +39980,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 599,
+    "publicContributions": 630,
     "createdAt": "2021-08-19T10:04:13Z"
   },
   {
@@ -39990,7 +39990,7 @@
     "location": "Belgium",
     "company": "Meise Botanic Garden",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2021-09-22T06:34:56Z"
@@ -40004,7 +40004,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 25,
     "createdAt": "2021-10-13T07:02:28Z"
   },
   {
@@ -40016,7 +40016,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 47,
+    "publicContributions": 61,
     "createdAt": "2021-09-23T14:56:46Z"
   },
   {
@@ -40059,12 +40059,12 @@
     "login": "yurii-sodell",
     "name": "Sodel Yurii",
     "avatarUrl": "https://avatars.githubusercontent.com/u/77705770?s=72&u=4e2951cd04ce632dfb942e0de5b2f0411a0a958d&v=4",
-    "location": "Belgium",
+    "location": "Antwerpen, Belgium",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 54,
+    "publicContributions": 85,
     "createdAt": "2021-01-20T00:42:50Z"
   },
   {
@@ -40076,7 +40076,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 22,
     "createdAt": "2021-08-19T17:35:53Z"
   },
   {
