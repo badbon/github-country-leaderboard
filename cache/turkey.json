@@ -39164,7 +39164,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 2,
     "createdAt": "2025-02-03T11:54:49Z"
   },
   {
@@ -39174,7 +39174,7 @@
     "location": "İzmir ",
     "company": "Dokuz Eylül University",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2025-11-27T11:35:22Z"
@@ -39224,7 +39224,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 364,
+    "publicContributions": 405,
     "createdAt": "2025-08-16T05:51:57Z"
   },
   {
@@ -39235,8 +39235,8 @@
     "company": "Torbalı Belediyesi",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 39,
-    "publicContributions": 1,
+    "privateContributions": 25,
+    "publicContributions": 0,
     "createdAt": "2025-08-21T06:29:33Z"
   },
   {
@@ -39248,7 +39248,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 68,
+    "publicContributions": 156,
     "createdAt": "2025-02-13T23:00:13Z"
   },
   {
@@ -39260,20 +39260,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 3,
     "createdAt": "2025-09-05T22:05:21Z"
-  },
-  {
-    "login": "oguz-demir-insider",
-    "name": "Oguz Demir",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/206677819?s=72&u=baf250f53197e80c9104f85fe8879a702c462ae9&v=4",
-    "location": "Izmir",
-    "company": "@useinsider ",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 22,
-    "createdAt": "2025-04-08T08:26:02Z"
   },
   {
     "login": "iremnaz-d",
@@ -39282,9 +39270,9 @@
     "location": "Buca/İzmir",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 16,
-    "publicContributions": 234,
+    "followers": 8,
+    "privateContributions": 22,
+    "publicContributions": 329,
     "createdAt": "2025-02-04T18:30:03Z"
   },
   {
@@ -39298,18 +39286,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-01-18T18:14:00Z"
-  },
-  {
-    "login": "Glhkks",
-    "name": "Gülşah Akkuş",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/249284588?s=72&u=2870ce07c9ea019e4b65d4f6595dd34912f1fe7e&v=4",
-    "location": "İzmir",
-    "company": "İzmir Kâtip Çelebi University",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2025-12-12T12:34:28Z"
   },
   {
     "login": "emre-ocak",
@@ -39332,7 +39308,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 1,
     "createdAt": "2025-09-26T12:03:11Z"
   },
   {
@@ -39368,7 +39344,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 410,
+    "publicContributions": 451,
     "createdAt": "2025-04-30T17:24:48Z"
   },
   {
