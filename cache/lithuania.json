@@ -41119,8 +41119,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 10,
-    "publicContributions": 2,
+    "privateContributions": 47,
+    "publicContributions": 1,
     "createdAt": "2015-10-22T18:32:34Z"
   },
   {
@@ -41130,9 +41130,9 @@
     "location": "Kaunas/Lithuania",
     "company": "Frontend Engineer @ Mediatech",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 50,
-    "publicContributions": 0,
+    "followers": 11,
+    "privateContributions": 52,
+    "publicContributions": 3,
     "createdAt": "2015-06-12T16:14:32Z"
   },
   {
@@ -41142,9 +41142,9 @@
     "location": "Vilnius, Lithuania",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 1214,
-    "publicContributions": 31,
+    "followers": 11,
+    "privateContributions": 1680,
+    "publicContributions": 76,
     "createdAt": "2015-10-30T12:48:13Z"
   },
   {
@@ -41155,7 +41155,7 @@
     "company": "",
     "twitterUsername": "ATadas",
     "followers": 11,
-    "privateContributions": 1449,
+    "privateContributions": 2397,
     "publicContributions": 0,
     "createdAt": "2015-06-25T05:04:58Z"
   },
@@ -41167,8 +41167,8 @@
     "company": "Vinted",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 770,
-    "publicContributions": 40,
+    "privateContributions": 1064,
+    "publicContributions": 18,
     "createdAt": "2015-01-27T12:09:12Z"
   },
   {
@@ -41190,7 +41190,7 @@
     "location": "Lithuania",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 12,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2015-01-03T15:03:34Z"
@@ -41202,9 +41202,9 @@
     "location": "Vilnius, Lithuania",
     "company": "Data Scientist",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 17,
-    "publicContributions": 1,
+    "followers": 9,
+    "privateContributions": 11,
+    "publicContributions": 0,
     "createdAt": "2015-09-14T04:25:44Z"
   },
   {
@@ -41214,8 +41214,8 @@
     "location": "Vilnius, Lithuania, Europe",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 274,
+    "followers": 11,
+    "privateContributions": 359,
     "publicContributions": 174,
     "createdAt": "2015-07-07T13:40:37Z"
   },
@@ -41239,7 +41239,7 @@
     "company": "Bentley Systems",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 0,
+    "privateContributions": 2,
     "publicContributions": 0,
     "createdAt": "2015-10-25T02:03:58Z"
   },
@@ -41251,8 +41251,8 @@
     "company": "Gradient Insight",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 209,
-    "publicContributions": 3,
+    "privateContributions": 48,
+    "publicContributions": 0,
     "createdAt": "2015-07-15T21:28:07Z"
   },
   {
@@ -41264,7 +41264,7 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 11,
     "createdAt": "2015-01-02T18:14:06Z"
   },
   {
@@ -41278,18 +41278,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-07-22T13:31:59Z"
-  },
-  {
-    "login": "eima1995",
-    "name": "Eimantas Bendorius",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/12302150?s=72&u=e6a77eeb297a11a831df3bfe59226cb17b9c4e9f&v=4",
-    "location": "Vilnius, Lithuania",
-    "company": "RoyaltyRange",
-    "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 1518,
-    "publicContributions": 3,
-    "createdAt": "2015-05-07T18:36:16Z"
   },
   {
     "login": "GediminasZukas",
@@ -41310,7 +41298,7 @@
     "location": "Vilnius, Lithuania",
     "company": "Brolis Defence Group/Brolis Semiconductors",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 10,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-02-15T19:24:01Z"

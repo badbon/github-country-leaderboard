@@ -41083,8 +41083,8 @@
     "company": "@sil-org",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 159,
-    "publicContributions": 34,
+    "privateContributions": 184,
+    "publicContributions": 32,
     "createdAt": "2021-04-08T13:51:57Z"
   },
   {
@@ -41178,7 +41178,7 @@
     "location": "Peru",
     "company": "Tata Consultancy Services",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-08-12T20:08:31Z"
@@ -117190,5 +117190,17 @@
     "privateContributions": 0,
     "publicContributions": 46,
     "createdAt": "2026-07-01T02:02:29Z"
+  },
+  {
+    "login": "enriquerosales10101-arch",
+    "name": "Enrique Rosales Silupu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/299184095?s=72&u=852fdb7d54a0db60c3a2229bf79850e5bc5d41e5&v=4",
+    "location": "Lima-Peru",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 15,
+    "createdAt": "2026-07-02T15:21:14Z"
   }
 ]

@@ -40903,8 +40903,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 21,
+    "privateContributions": 361,
+    "publicContributions": 19,
     "createdAt": "2021-02-27T02:52:00Z"
   },
   {
@@ -40915,7 +40915,7 @@
     "company": "",
     "twitterUsername": "fookjundev",
     "followers": 1,
-    "privateContributions": 158,
+    "privateContributions": 154,
     "publicContributions": 0,
     "createdAt": "2021-01-06T17:55:44Z"
   },
@@ -40926,9 +40926,9 @@
     "location": "Malaysia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 476,
+    "publicContributions": 481,
     "createdAt": "2021-06-14T02:58:25Z"
   },
   {
@@ -40964,7 +40964,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 37,
+    "publicContributions": 35,
     "createdAt": "2021-03-05T07:56:47Z"
   },
   {
@@ -41024,20 +41024,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 20,
     "createdAt": "2021-05-19T12:54:20Z"
-  },
-  {
-    "login": "ozcode95",
-    "name": "David Øzc",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/86448491?s=72&u=dc989e489c81a43d898738d5b169698a58804d48&v=4",
-    "location": "Malaysia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 56,
-    "publicContributions": 15,
-    "createdAt": "2021-06-25T00:27:25Z"
   },
   {
     "login": "rajamuqri98",
@@ -41072,7 +41060,7 @@
     "twitterUsername": "aqilrryn_",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2021-02-01T10:13:23Z"
   },
   {
@@ -41083,7 +41071,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 23,
+    "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2021-05-11T05:05:14Z"
   },
@@ -41108,7 +41096,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 1,
     "createdAt": "2021-04-15T08:32:09Z"
   },
   {

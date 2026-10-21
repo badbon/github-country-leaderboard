@@ -10604,7 +10604,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 118,
+    "publicContributions": 92,
     "createdAt": "2022-11-19T23:51:58Z"
   },
   {
@@ -10615,7 +10615,7 @@
     "company": "",
     "twitterUsername": "AslaneAbK",
     "followers": 5,
-    "privateContributions": 433,
+    "privateContributions": 438,
     "publicContributions": 2,
     "createdAt": "2022-06-10T19:15:09Z"
   },
@@ -10627,7 +10627,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 377,
+    "privateContributions": 479,
     "publicContributions": 0,
     "createdAt": "2022-12-11T20:06:35Z"
   },
@@ -10660,7 +10660,7 @@
     "name": "Karim Abboud",
     "avatarUrl": "https://avatars.githubusercontent.com/u/120320134?s=72&u=652eaa33cd5eed175cdab20ec50d3e57329fe1cb&v=4",
     "location": "Lebanon, Beirut",
-    "company": "Anghami/OSN+",
+    "company": "Murex",
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
@@ -10692,18 +10692,6 @@
     "createdAt": "2022-03-24T11:29:06Z"
   },
   {
-    "login": "JadAlaouie",
-    "name": "Jad Alaouie",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/100491120?s=72&u=35c34ef807e6b28ecb861d77f4ff556ed9b03056&v=4",
-    "location": "Beirut, Lebanon",
-    "company": "",
-    "twitterUsername": "JadAlaouie",
-    "followers": 2,
-    "privateContributions": 610,
-    "publicContributions": 120,
-    "createdAt": "2022-02-26T20:06:26Z"
-  },
-  {
     "login": "Ali-Daher1",
     "name": "Ali Daher",
     "avatarUrl": "https://avatars.githubusercontent.com/u/118970729?s=72&v=4",
@@ -10712,7 +10700,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 30,
+    "publicContributions": 31,
     "createdAt": "2022-11-24T09:21:34Z"
   },
   {
@@ -10724,7 +10712,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 351,
+    "publicContributions": 346,
     "createdAt": "2022-02-03T12:27:30Z"
   },
   {
@@ -10736,7 +10724,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 63,
+    "publicContributions": 66,
     "createdAt": "2022-09-10T16:40:11Z"
   },
   {
@@ -10771,8 +10759,8 @@
     "company": "@DriveTerra ",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 2862,
-    "publicContributions": 231,
+    "privateContributions": 2858,
+    "publicContributions": 220,
     "createdAt": "2022-09-08T15:36:39Z"
   },
   {
