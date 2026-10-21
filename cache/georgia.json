@@ -40508,7 +40508,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 2,
     "createdAt": "2019-09-27T17:45:29Z"
   },
   {
@@ -40520,7 +40520,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 43,
+    "publicContributions": 44,
     "createdAt": "2019-11-09T20:21:26Z"
   },
   {
@@ -40531,7 +40531,7 @@
     "company": "EPAM",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 338,
+    "privateContributions": 277,
     "publicContributions": 6,
     "createdAt": "2019-05-06T18:13:41Z"
   },
@@ -40556,7 +40556,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 2,
     "createdAt": "2019-05-27T02:22:19Z"
   },
   {
@@ -40579,8 +40579,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 82,
-    "publicContributions": 1,
+    "privateContributions": 133,
+    "publicContributions": 387,
     "createdAt": "2019-02-01T23:08:46Z"
   },
   {
@@ -40608,27 +40608,15 @@
     "createdAt": "2019-09-12T18:10:14Z"
   },
   {
-    "login": "z1kman",
-    "name": "Anton Shashkov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/49719595?s=72&u=c4fa8e22aaff769c9227aca566a501f9ea20e70c&v=4",
-    "location": "Georgia, Tbilisi",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 531,
-    "publicContributions": 26,
-    "createdAt": "2019-04-17T12:11:50Z"
-  },
-  {
     "login": "alexmozaidze",
     "name": "Alexei Mozaidze",
     "avatarUrl": "https://avatars.githubusercontent.com/u/51371527?s=72&u=f82a81c5ed83217936070c24aa09b27342812540&v=4",
     "location": "Georgia, Tbilisi",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 128,
+    "publicContributions": 114,
     "createdAt": "2019-06-04T13:26:08Z"
   },
   {
@@ -40663,7 +40651,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 1239,
+    "privateContributions": 1479,
     "publicContributions": 0,
     "createdAt": "2019-03-10T15:11:50Z"
   },
@@ -40698,9 +40686,9 @@
     "location": "Georgia, Kobuleti",
     "company": "RMS Digital Services",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 3230,
-    "publicContributions": 263,
+    "followers": 3,
+    "privateContributions": 3631,
+    "publicContributions": 296,
     "createdAt": "2019-06-02T18:36:10Z"
   },
   {
@@ -40712,7 +40700,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 50,
+    "publicContributions": 42,
     "createdAt": "2019-02-07T16:29:52Z"
   },
   {
@@ -40736,7 +40724,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 2391,
+    "publicContributions": 2313,
     "createdAt": "2019-10-10T16:32:59Z"
   },
   {
@@ -82474,5 +82462,17 @@
     "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2026-06-28T10:35:05Z"
+  },
+  {
+    "login": "semx",
+    "name": "Sergey Sannikov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7532921?s=72&u=66713f6fbb6a377102de0d7a4817451858b587bd&v=4",
+    "location": "Georgia",
+    "company": "sannikov.dev",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 374,
+    "createdAt": "2014-05-09T10:28:58Z"
   }
 ]

@@ -40404,18 +40404,6 @@
     "createdAt": "2021-09-17T18:45:38Z"
   },
   {
-    "login": "foxedzero",
-    "name": "foxedzero",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/78982179?s=72&u=c55189f8c58edd4cdce90bb9971277ac05af4060&v=4",
-    "location": "Vienna, Austria",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2021-02-12T19:56:52Z"
-  },
-  {
     "login": "wulius0711",
     "name": "wulius",
     "avatarUrl": "https://avatars.githubusercontent.com/u/79188623?s=72&u=99c35df38894570aa581edaec7ade117abf2908a&v=4",
@@ -40424,7 +40412,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1688,
+    "publicContributions": 0,
     "createdAt": "2021-02-17T06:44:53Z"
   },
   {
@@ -40434,9 +40422,9 @@
     "location": "Austria",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 18,
     "createdAt": "2021-01-28T13:36:14Z"
   },
   {
@@ -40483,7 +40471,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 45,
+    "privateContributions": 70,
     "publicContributions": 28,
     "createdAt": "2021-01-04T12:45:18Z"
   },
@@ -40516,7 +40504,7 @@
     "name": "Albjona",
     "avatarUrl": "https://avatars.githubusercontent.com/u/79920681?s=72&u=081ab4f4acce299dcc1cae9bc9e79e784a5a0fbb&v=4",
     "location": "Austria",
-    "company": "",
+    "company": "Scout24",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
@@ -40532,7 +40520,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 67,
+    "publicContributions": 43,
     "createdAt": "2021-04-16T16:52:45Z"
   },
   {
@@ -40555,8 +40543,8 @@
     "company": "HTBLuVA Salzburg",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 60,
-    "publicContributions": 222,
+    "privateContributions": 59,
+    "publicContributions": 206,
     "createdAt": "2021-10-17T16:59:49Z"
   },
   {
@@ -40564,11 +40552,11 @@
     "name": "Mathias Schablinger",
     "avatarUrl": "https://avatars.githubusercontent.com/u/90772995?s=72&u=909c2883e099c11fd60479c5de3c8dee9d565cf3&v=4",
     "location": "Austria",
-    "company": "HTBLA Leonding",
+    "company": "JKU Linz",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 2,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2021-09-15T12:47:00Z"
   },
   {
@@ -40586,13 +40574,13 @@
   {
     "login": "micaah42",
     "name": "Michael Wipplinger",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/80104310?s=72&u=11e7252805442f2ac1fd4aa5229601a2045f6cb9&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/80104310?s=72&u=838adfc95d84c00226df1764fdc2b6df2982c143&v=4",
     "location": "Austria",
-    "company": "sequality software engineering",
+    "company": "",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 60,
+    "publicContributions": 95,
     "createdAt": "2021-03-05T11:49:25Z"
   },
   {
@@ -40628,7 +40616,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 2,
     "createdAt": "2021-01-13T14:51:08Z"
   },
   {

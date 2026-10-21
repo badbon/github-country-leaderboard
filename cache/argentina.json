@@ -40111,8 +40111,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 613,
-    "publicContributions": 451,
+    "privateContributions": 1354,
+    "publicContributions": 818,
     "createdAt": "2024-08-08T18:50:04Z"
   },
   {
@@ -40123,8 +40123,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 349,
-    "publicContributions": 322,
+    "privateContributions": 330,
+    "publicContributions": 263,
     "createdAt": "2024-08-20T21:47:59Z"
   },
   {
@@ -40136,7 +40136,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 48,
+    "publicContributions": 38,
     "createdAt": "2024-06-28T00:57:54Z"
   },
   {
@@ -40148,7 +40148,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 72,
-    "publicContributions": 61,
+    "publicContributions": 44,
     "createdAt": "2024-10-10T01:15:07Z"
   },
   {
@@ -40160,7 +40160,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 6,
     "createdAt": "2024-10-14T14:05:53Z"
   },
   {
@@ -40170,8 +40170,8 @@
     "location": "Argentina, Formosa",
     "company": "ChronoApps",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 230,
+    "followers": 2,
+    "privateContributions": 164,
     "publicContributions": 18,
     "createdAt": "2024-07-08T22:33:59Z"
   },
@@ -40184,20 +40184,8 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 202,
+    "publicContributions": 210,
     "createdAt": "2024-09-16T14:29:07Z"
-  },
-  {
-    "login": "Alvr0o",
-    "name": "Alvaro Castro",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/179903314?s=72&v=4",
-    "location": "Argentina",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 39,
-    "createdAt": "2024-08-30T04:34:01Z"
   },
   {
     "login": "LucasLopez13",
@@ -40208,7 +40196,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 79,
+    "publicContributions": 77,
     "createdAt": "2024-09-29T02:32:05Z"
   },
   {
@@ -40232,7 +40220,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 4,
     "createdAt": "2024-10-01T23:59:01Z"
   },
   {
@@ -40243,8 +40231,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 79,
-    "publicContributions": 10,
+    "privateContributions": 82,
+    "publicContributions": 19,
     "createdAt": "2024-08-09T22:37:57Z"
   },
   {
@@ -40278,9 +40266,9 @@
     "location": "Buenos Aires, Argentina",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 532,
+    "publicContributions": 1065,
     "createdAt": "2024-06-29T16:28:21Z"
   },
   {
@@ -40304,7 +40292,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 69,
+    "publicContributions": 41,
     "createdAt": "2024-10-26T23:32:32Z"
   },
   {
@@ -40314,9 +40302,9 @@
     "location": "Argentina",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 28,
     "createdAt": "2024-10-09T01:26:27Z"
   },
   {
@@ -40336,11 +40324,11 @@
     "name": "Pablo Hernán Gómez",
     "avatarUrl": "https://avatars.githubusercontent.com/u/175459414?s=72&u=cd38006559296b4ea515f7002cb065ac963e98d3&v=4",
     "location": "Santa Fe, Argentina",
-    "company": "Crombie",
+    "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 15,
-    "publicContributions": 6,
+    "privateContributions": 14,
+    "publicContributions": 3,
     "createdAt": "2024-07-13T01:11:07Z"
   },
   {

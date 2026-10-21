@@ -40567,7 +40567,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 579,
+    "privateContributions": 769,
     "publicContributions": 0,
     "createdAt": "2014-11-01T20:16:08Z"
   },
@@ -40590,7 +40590,7 @@
     "location": "Armenia, Yerevan",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-05-01T20:33:12Z"
@@ -40604,7 +40604,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2014-01-29T09:57:45Z"
   },
   {
@@ -40638,9 +40638,9 @@
     "location": "Armenia",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 50,
+    "publicContributions": 43,
     "createdAt": "2014-09-09T10:36:09Z"
   },
   {
@@ -40654,18 +40654,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-11-13T13:55:04Z"
-  },
-  {
-    "login": "semx",
-    "name": "Sergey Sannikov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/7532921?s=72&u=66713f6fbb6a377102de0d7a4817451858b587bd&v=4",
-    "location": "Armenia",
-    "company": "sannikov.dev",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 192,
-    "createdAt": "2014-05-09T10:28:58Z"
   },
   {
     "login": "haykhov",
@@ -40699,7 +40687,7 @@
     "company": "@ginosi ",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1576,
+    "privateContributions": 2703,
     "publicContributions": 0,
     "createdAt": "2014-05-28T19:06:56Z"
   },
@@ -40723,8 +40711,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 41,
-    "publicContributions": 100,
+    "privateContributions": 15,
+    "publicContributions": 19,
     "createdAt": "2014-06-18T08:11:24Z"
   },
   {
@@ -40748,7 +40736,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 449,
+    "publicContributions": 536,
     "createdAt": "2014-01-25T20:13:52Z"
   },
   {
@@ -40759,8 +40747,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 27,
-    "publicContributions": 55,
+    "privateContributions": 54,
+    "publicContributions": 35,
     "createdAt": "2014-11-19T06:17:38Z"
   },
   {
@@ -40774,18 +40762,6 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2014-08-27T11:20:10Z"
-  },
-  {
-    "login": "Gegam",
-    "name": "Gegam",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/6823952?s=72&v=4",
-    "location": "Armenia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 4,
-    "createdAt": "2014-03-01T11:25:44Z"
   },
   {
     "login": "gevorgvoskanyan",

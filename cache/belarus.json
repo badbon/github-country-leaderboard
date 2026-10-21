@@ -40712,7 +40712,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1093,
+    "publicContributions": 1064,
     "createdAt": "2021-07-19T20:05:41Z"
   },
   {
@@ -40735,21 +40735,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 481,
+    "privateContributions": 379,
     "publicContributions": 0,
     "createdAt": "2021-09-14T19:25:23Z"
-  },
-  {
-    "login": "firstConsole",
-    "name": "Артамонов Алексей Викторович",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/94192633?s=72&u=ff01c5a6c4301a61e59a0b30435acc45355aff8b&v=4",
-    "location": "Minsk",
-    "company": "firstConsole",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 55,
-    "createdAt": "2021-11-12T17:46:01Z"
   },
   {
     "login": "SergBily",
@@ -40795,7 +40783,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 82,
+    "privateContributions": 68,
     "publicContributions": 0,
     "createdAt": "2021-09-14T16:13:24Z"
   },
