@@ -1,8 +1,8 @@
 # Total Contributions - Hong Kong
 
-Generated: 2026-10-21T09:52:00.042Z
+Generated: 2026-10-21T13:57:31.206Z
 
-Users: 10253
+Users: 10252
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -21,8 +21,8 @@ Users: 10253
 | 13 | [SpatLyu](https://github.com/SpatLyu) | Wenbo Lyu | PolyU; HKUST(GZ); |  | Hong Kong | 13265 |
 | 14 | [antopiahk](https://github.com/antopiahk) | Jorge Lewis | @startino |  | Hong Kong | 12379 |
 | 15 | [araa47](https://github.com/araa47) | Akshay  |  |  | Hong Kong  | 11917 |
-| 16 | [CeHouGIS](https://github.com/CeHouGIS) | Ce Hou | the Hong Kong University of Science and Technology (HKUST) |  | Hong Kong | 11487 |
-| 17 | [clchinkc](https://github.com/clchinkc) | Kevin Chin | @narrativeproject |  | Hong Kong | 11369 |
-| 18 | [veryverypro](https://github.com/veryverypro) | Xu, Hao | Optima AI Limited |  | Hong Kong | 11308 |
-| 19 | [shuakami](https://github.com/shuakami) | 速冻饺子 | Luoxiaohei |  | Hong Kong | 11006 |
-| 20 | [jasongong111](https://github.com/jasongong111) | Jason Gong | Hong Kong Baptist University  |  | KLT, KW, Hong Kong | 10906 |
+| 16 | [yuenshingyan](https://github.com/yuenshingyan) | Hindy | CTR Asia Pte Ltd |  | Hong Kong \| Singapore | 11554 |
+| 17 | [CeHouGIS](https://github.com/CeHouGIS) | Ce Hou | the Hong Kong University of Science and Technology (HKUST) |  | Hong Kong | 11487 |
+| 18 | [clchinkc](https://github.com/clchinkc) | Kevin Chin | @narrativeproject |  | Hong Kong | 11369 |
+| 19 | [veryverypro](https://github.com/veryverypro) | Xu, Hao | Optima AI Limited |  | Hong Kong | 11308 |
+| 20 | [shuakami](https://github.com/shuakami) | 速冻饺子 | Luoxiaohei |  | Hong Kong | 11006 |

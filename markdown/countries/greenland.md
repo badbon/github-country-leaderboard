@@ -69,7 +69,7 @@ Indexed users: 58
 | 5 | [sgoggins](https://github.com/sgoggins) | Sean P. Goggins | Greenland | 202 |
 | 6 | [ASGDLO](https://github.com/ASGDLO) | ASGDLO | Greenland | 151 |
 | 7 | [Nelson-Cheung](https://github.com/Nelson-Cheung) | Nelson Cheung | Greenland | 91 |
-| 8 | [FandyHanz](https://github.com/FandyHanz) | General Tenzen Yamauchi | Fjord Dickson, Greenland | 63 |
+| 8 | [FandyHanz](https://github.com/FandyHanz) | General Tenzen Yamauchi | Fjord Dickson, Greenland | 64 |
 | 9 | [Naxela](https://github.com/Naxela) | Alexander Kleemann | Greenland | 58 |
 | 10 | [PennyHow](https://github.com/PennyHow) | Penny How | Nuuk, Greenland | 56 |
 | 11 | [johandavidsen](https://github.com/johandavidsen) | Jóhan Dam-Davidsen | Kalaallit Nunaat (Greenland) | 26 |
@@ -83,4 +83,4 @@ Indexed users: 58
 | 19 | [DaniEstevezBarcia](https://github.com/DaniEstevezBarcia) | Daniel Estévez-Barcia | Greenland | 8 |
 | 20 | [polarstoat](https://github.com/polarstoat) | Polar stoat | Greenland | 6 |
 
-Generated: 2026-10-21T09:46:22.308Z
+Generated: 2026-10-21T13:51:07.097Z

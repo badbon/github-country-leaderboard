@@ -1,6 +1,6 @@
 # Public Contributions - Fiji
 
-Generated: 2026-10-21T09:42:19.000Z
+Generated: 2026-10-21T13:48:16.819Z
 
 Users: 325
 
@@ -22,7 +22,7 @@ Users: 325
 | 14 | [kunz398](https://github.com/kunz398) | Kunal Singh |  |  | Fiji | 166 |
 | 15 | [LangfordKuo](https://github.com/LangfordKuo) | Langford | Zenaida Orn Company |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 153 |
 | 16 | [Neikumata](https://github.com/Neikumata) | yangyeqin | Zenaida Orn Company |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 121 |
-| 17 | [Arishneel-Narayan](https://github.com/Arishneel-Narayan) | Arishneel Sagar Narayan | FMF Foods Ltd |  | Fiji  | 114 |
-| 18 | [NotPranshu](https://github.com/NotPranshu) | Pranshu Ayush | The University of Fiji |  | Fiji | 108 |
+| 17 | [NotPranshu](https://github.com/NotPranshu) | Pranshu Ayush | The University of Fiji |  | Fiji | 108 |
+| 18 | [Arishneel-Narayan](https://github.com/Arishneel-Narayan) | Arishneel Sagar Narayan | FMF Foods Ltd |  | Fiji  | 104 |
 | 19 | [mucsbr](https://github.com/mucsbr) | beingS | Zenaida |  | 0558 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 98 |
 | 20 | [phpoh](https://github.com/phpoh) | phpoh | Zenaida Orn Company |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 90 |

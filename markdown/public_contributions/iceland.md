@@ -1,6 +1,6 @@
 # Public Contributions - Iceland
 
-Generated: 2026-10-21T09:52:09.514Z
+Generated: 2026-10-21T13:57:38.932Z
 
 Users: 1579
 
@@ -24,5 +24,5 @@ Users: 1579
 | 16 | [sandsower](https://github.com/sandsower) | Vic Valenzuela |  |  | Reykjavík, Iceland | 1499 |
 | 17 | [gasvaktin](https://github.com/gasvaktin) | Gasvaktin |  |  | Iceland | 1456 |
 | 18 | [gunnargestsson](https://github.com/gunnargestsson) | Gunnar Thor Gestsson | Kappi ehf. |  | Iceland | 1398 |
-| 19 | [tungufoss](https://github.com/tungufoss) | Helga Ingimundardóttir | University of Iceland | tungufoss | Iceland | 1327 |
-| 20 | [zveinn](https://github.com/zveinn) | Sveinn ( keyb1nd ) | tunnels.is | keyb1nd | Iceland | 1279 |
+| 19 | [Max77788](https://github.com/Max77788) | Max Mat | MOM AI Technologies |  | Iceland | 1358 |
+| 20 | [tungufoss](https://github.com/tungufoss) | Helga Ingimundardóttir | University of Iceland | tungufoss | Iceland | 1327 |

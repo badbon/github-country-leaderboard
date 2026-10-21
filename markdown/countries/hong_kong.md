@@ -1,6 +1,6 @@
 # Hong Kong
 
-Indexed users: 10,253
+Indexed users: 10,252
 
 | Leaderboard | Link |
 |---|---|
@@ -27,11 +27,11 @@ Indexed users: 10,253
 | 13 | [SpatLyu](https://github.com/SpatLyu) | Wenbo Lyu | Hong Kong | 13,265 |
 | 14 | [antopiahk](https://github.com/antopiahk) | Jorge Lewis | Hong Kong | 12,379 |
 | 15 | [araa47](https://github.com/araa47) | Akshay  | Hong Kong  | 11,917 |
-| 16 | [CeHouGIS](https://github.com/CeHouGIS) | Ce Hou | Hong Kong | 11,487 |
-| 17 | [clchinkc](https://github.com/clchinkc) | Kevin Chin | Hong Kong | 11,369 |
-| 18 | [veryverypro](https://github.com/veryverypro) | Xu, Hao | Hong Kong | 11,308 |
-| 19 | [shuakami](https://github.com/shuakami) | 速冻饺子 | Hong Kong | 11,006 |
-| 20 | [jasongong111](https://github.com/jasongong111) | Jason Gong | KLT, KW, Hong Kong | 10,906 |
+| 16 | [yuenshingyan](https://github.com/yuenshingyan) | Hindy | Hong Kong \| Singapore | 11,554 |
+| 17 | [CeHouGIS](https://github.com/CeHouGIS) | Ce Hou | Hong Kong | 11,487 |
+| 18 | [clchinkc](https://github.com/clchinkc) | Kevin Chin | Hong Kong | 11,369 |
+| 19 | [veryverypro](https://github.com/veryverypro) | Xu, Hao | Hong Kong | 11,308 |
+| 20 | [shuakami](https://github.com/shuakami) | 速冻饺子 | Hong Kong | 11,006 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 10,253
 | 19 | [robbin](https://github.com/robbin) | Fan Kai | Hong Kong | 959 |
 | 20 | [hszhao](https://github.com/hszhao) | Hengshuang Zhao | Hong Kong | 925 |
 
-Generated: 2026-10-21T09:52:00.042Z
+Generated: 2026-10-21T13:57:31.206Z

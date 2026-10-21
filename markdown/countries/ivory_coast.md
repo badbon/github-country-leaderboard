@@ -12,7 +12,7 @@ Indexed users: 488
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [eshe-huli](https://github.com/eshe-huli) | Ben G. Seydou Ouattara | Abidjan, Ivory Coast | 10,147 |
+| 1 | [eshe-huli](https://github.com/eshe-huli) | Ben G. Seydou Ouattara | Abidjan, Ivory Coast | 10,374 |
 | 2 | [agazinakou](https://github.com/agazinakou) | Lamine AZINAKOU | Abidjan, Côte d'ivoire | 9,255 |
 | 3 | [davtechci2](https://github.com/davtechci2) | ADZASU KOFFI DAVID | Côte d'ivoire, Abidjan | 8,630 |
 | 4 | [adrielzimbril](https://github.com/adrielzimbril) | Adriel Zimbril | Abidjan, Ivory Coast | 8,601 |
@@ -41,7 +41,7 @@ Indexed users: 488
 | 2 | [codescooper](https://github.com/codescooper) | Code Scooper | Abidjan, Côte d'ivoire | 1,001 |
 | 3 | [moasko](https://github.com/moasko) | moasko.dev | Côte d'Ivoire | 940 |
 | 4 | [iDevo-ll](https://github.com/iDevo-ll) | iDevo | Yamoussoukro, côte d'ivoire  | 814 |
-| 5 | [eshe-huli](https://github.com/eshe-huli) | Ben G. Seydou Ouattara | Abidjan, Ivory Coast | 739 |
+| 5 | [eshe-huli](https://github.com/eshe-huli) | Ben G. Seydou Ouattara | Abidjan, Ivory Coast | 741 |
 | 6 | [MALICK-GITH](https://github.com/MALICK-GITH) | SOLITAIRE HACK | Ivory coast 🇨🇮 | 632 |
 | 7 | [Germinator97](https://github.com/Germinator97) | AGBETOGOR Germain | Abidjan, Côte-d'Ivoire | 566 |
 | 8 | [zampou-code](https://github.com/zampou-code) | Zi Code | Abidjan, Ivory Coast | 562 |
@@ -83,4 +83,4 @@ Indexed users: 488
 | 19 | [DevAlves1993](https://github.com/DevAlves1993) | Christian Alves Cyrille Amani | Ivory Coast (Abidjan) | 42 |
 | 20 | [stephsalou](https://github.com/stephsalou) | stephane salou | Abidjan , Côte D'Ivoire | 42 |
 
-Generated: 2026-10-21T09:54:29.277Z
+Generated: 2026-10-21T14:00:05.939Z

@@ -81,7 +81,7 @@ Published countries: 234
 | Gabon | 314 | [View](./gabon.md) |
 | Gambia | 79 | [View](./gambia.md) |
 | Georgia | 6,872 | [View](./georgia.md) |
-| Ghana | 7,077 | [View](./ghana.md) |
+| Ghana | 7,076 | [View](./ghana.md) |
 | Gibraltar | 93 | [View](./gibraltar.md) |
 | Greece | 15,534 | [View](./greece.md) |
 | Greenland | 58 | [View](./greenland.md) |
@@ -96,10 +96,10 @@ Published countries: 234
 | Haiti | 339 | [View](./haiti.md) |
 | Heard Island and McDonald Islands | 3 | [View](./heard_island_and_mcdonald_islands.md) |
 | Honduras | 1,258 | [View](./honduras.md) |
-| Hong Kong | 10,253 | [View](./hong_kong.md) |
+| Hong Kong | 10,252 | [View](./hong_kong.md) |
 | Hungary | 11,162 | [View](./hungary.md) |
 | Iceland | 1,579 | [View](./iceland.md) |
-| Indonesia | 63,275 | [View](./indonesia.md) |
+| Indonesia | 63,274 | [View](./indonesia.md) |
 | Iran | 26,857 | [View](./iran.md) |
 | Iraq | 2,231 | [View](./iraq.md) |
 | Ireland | 19,488 | [View](./ireland.md) |
@@ -239,4 +239,4 @@ Published countries: 234
 | Zambia | 1,336 | [View](./zambia.md) |
 | Zimbabwe | 1,656 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-21T13:45:52.981Z
+Generated: 2026-10-21T14:01:22.340Z
