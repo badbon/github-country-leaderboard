@@ -1,6 +1,6 @@
 # Total Contributions - Macau
 
-Generated: 2026-10-21T20:52:57.168Z
+Generated: 2026-10-21T22:54:24.407Z
 
 Users: 438
 
@@ -17,7 +17,7 @@ Users: 438
 | 9 | [1595901624](https://github.com/1595901624) | Cloris |  | LhyLuhaoyu | Macau | 3350 |
 | 10 | [hheei](https://github.com/hheei) | Lo Chon Hei |  |  | Macau | 3049 |
 | 11 | [MUST-panxiao](https://github.com/MUST-panxiao) | Xiao Pan | Macau University of Science and Technology |  | Macau | 2996 |
-| 12 | [RyanKung](https://github.com/RyanKung) | Elder Ryan |  | Elder24601 | Macau | 2474 |
+| 12 | [RyanKung](https://github.com/RyanKung) | Elder Ryan |  | Elder24601 | Macau | 2950 |
 | 13 | [7788ken](https://github.com/7788ken) | Mark.pan |  |  | Macau,Zhuhai | 2306 |
 | 14 | [mugpeng](https://github.com/mugpeng) | Peng |  |  | macao | 2283 |
 | 15 | [Alex-Leong](https://github.com/Alex-Leong) | Alex |  |  | Macau | 2174 |
@@ -25,4 +25,4 @@ Users: 438
 | 17 | [aungminnkhant9400](https://github.com/aungminnkhant9400) | Rollo |  |  | Macau | 1801 |
 | 18 | [HansiChan](https://github.com/HansiChan) | Colin | Sands  | hansiCrypto | Macau | 1760 |
 | 19 | [yyyyyyounger](https://github.com/yyyyyyounger) | Rookie, LIN | University of Macau |  | Macau | 1759 |
-| 20 | [ygqygq2](https://github.com/ygqygq2) | Chinge Yang |  |  | macao | 1627 |
+| 20 | [walkdoer](https://github.com/walkdoer) | Andrew Cheong |  |  | Macau | 1727 |

@@ -1,6 +1,6 @@
 # Total Contributions - Laos
 
-Generated: 2026-10-21T20:49:31.829Z
+Generated: 2026-10-21T22:50:50.407Z
 
 Users: 360
 
@@ -22,7 +22,7 @@ Users: 360
 | 14 | [BounkhongDev](https://github.com/BounkhongDev) | BounkhongDev | AIF Group Laos |  | Vientiane, laos | 1737 |
 | 15 | [Phounn](https://github.com/Phounn) |  |  |  | Laos | 1536 |
 | 16 | [iamlex01](https://github.com/iamlex01) | Alex Saelao |  |  | Vientiane, Laos | 1466 |
-| 17 | [TotoPhandolack](https://github.com/TotoPhandolack) | Toto Phandolack |  |  | Luangprabang, Laos | 1157 |
-| 18 | [bobby-sills](https://github.com/bobby-sills) | Bobby Sills |  |  | Vientiane, Laos | 1103 |
-| 19 | [philaphonh](https://github.com/philaphonh) | Philaphonh Inthavongsa |  |  | Laos | 1096 |
+| 17 | [philaphonh](https://github.com/philaphonh) | Philaphonh Inthavongsa |  |  | Laos | 1159 |
+| 18 | [TotoPhandolack](https://github.com/TotoPhandolack) | Toto Phandolack |  |  | Luangprabang, Laos | 1157 |
+| 19 | [bobby-sills](https://github.com/bobby-sills) | Bobby Sills |  |  | Vientiane, Laos | 1103 |
 | 20 | [tinbotu](https://github.com/tinbotu) | Akira KUMAGAI |  |  | ວຽງຈັນ, Laos | 797 |

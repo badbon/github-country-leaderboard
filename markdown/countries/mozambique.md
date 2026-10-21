@@ -27,7 +27,7 @@ Indexed users: 1,175
 | 13 | [americo](https://github.com/americo) | Américo Júnior | Mozambique | 3,281 |
 | 14 | [emuneme](https://github.com/emuneme) | Eusebio  Augusto Munene | Maputo | 2,872 |
 | 15 | [IvanBila](https://github.com/IvanBila) | Connoisseur | Maputo, Mozambique | 2,833 |
-| 16 | [backstageel](https://github.com/backstageel) | Elísio Leonardo | Maputo | 2,777 |
+| 16 | [backstageel](https://github.com/backstageel) | Elísio Leonardo | Maputo | 2,822 |
 | 17 | [rafael-the-dev](https://github.com/rafael-the-dev) | Rafael Tivane | Mozambique | 2,695 |
 | 18 | [singelodux](https://github.com/singelodux) | Singelo Dux | Maputo, Moçambique | 2,596 |
 | 19 | [gmahota](https://github.com/gmahota) | Guimaraes Mahota Jr. | Maputo, Mozambique | 2,575 |
@@ -83,4 +83,4 @@ Indexed users: 1,175
 | 19 | [enoquetembe](https://github.com/enoquetembe) | Enoque Tembe | Maputo, Mozambique | 111 |
 | 20 | [mariomthree](https://github.com/mariomthree) | Mário M. Mabande | Maputo, Mozambique | 95 |
 
-Generated: 2026-10-21T20:59:42.797Z
+Generated: 2026-10-21T23:01:42.087Z

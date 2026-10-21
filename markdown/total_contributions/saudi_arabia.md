@@ -1,6 +1,6 @@
 # Total Contributions - Saudi Arabia
 
-Generated: 2026-10-21T21:18:18.568Z
+Generated: 2026-10-21T23:19:02.768Z
 
 Users: 7734
 
@@ -11,7 +11,7 @@ Users: 7734
 | 3 | [Haitham8888](https://github.com/Haitham8888) | Haitham | Maysour | HattanHaitham | Riyadh, Saudi Arabia | 38872 |
 | 4 | [mo9a7i](https://github.com/mo9a7i) | Mohannad Faihan Otaibi | @6degrees | BuFai7an | Saudi Arabia | 28838 |
 | 5 | [hungerstation-bot](https://github.com/hungerstation-bot) | Hungerstation Bot | Hungerstation |  | Saudi Arabi - Riyadh | 17741 |
-| 6 | [xcode-it](https://github.com/xcode-it) | !null | @logi-x  | null | Jeddah, Saudi Arabia | 17039 |
+| 6 | [xcode-it](https://github.com/xcode-it) | !null | @logi-x  | null | Jeddah, Saudi Arabia | 17628 |
 | 7 | [asim-altayb](https://github.com/asim-altayb) | Asim Altayb | Freelancer |  | Riyadh, Saudi Arabia | 16937 |
 | 8 | [Ahmed-Sermani](https://github.com/Ahmed-Sermani) | Ahmed Sermani | @WhatsLab  |  | Saudi Arabia | 15250 |
 | 9 | [a-green-hand-jack](https://github.com/a-green-hand-jack) | Jack Wu | King Abdullah University of Science and Technology  |  | Saudi Arabia (SA)  | 14774 |

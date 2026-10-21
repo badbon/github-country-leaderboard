@@ -47,8 +47,8 @@ Indexed users: 1,070
 | 8 | [kingg22](https://github.com/kingg22) | Rey | Panama | 1,947 |
 | 9 | [gonzalezulises](https://github.com/gonzalezulises) | Ulises Gonzalez | Panama | 1,839 |
 | 10 | [angelnereira](https://github.com/angelnereira) | Angel Nereira | Panama | 1,724 |
-| 11 | [ArkoSammy12](https://github.com/ArkoSammy12) | James Villarreal | Panama City, Panama | 1,456 |
-| 12 | [quantumquirkxyz](https://github.com/quantumquirkxyz) | Jhuomar Boskoll Quintero | Panama City, Panama | 1,341 |
+| 11 | [quantumquirkxyz](https://github.com/quantumquirkxyz) | Jhuomar Boskoll Quintero | Panama City, Panama | 1,538 |
+| 12 | [ArkoSammy12](https://github.com/ArkoSammy12) | James Villarreal | Panama City, Panama | 1,485 |
 | 13 | [jaimelias](https://github.com/jaimelias) | Jaimelías | Panama City, Panama | 1,327 |
 | 14 | [kelvinhe04](https://github.com/kelvinhe04) | Kelvin He Wu | Panama | 1,181 |
 | 15 | [neithanmo](https://github.com/neithanmo) | Natanael Mojica | Panama City, Panama | 1,159 |
@@ -83,4 +83,4 @@ Indexed users: 1,070
 | 19 | [Commandtechno](https://github.com/Commandtechno) | Techno | David, Panama | 49 |
 | 20 | [jebberjeb](https://github.com/jebberjeb) | Jeb Beich | Panama City, FL | 48 |
 
-Generated: 2026-10-21T21:08:22.457Z
+Generated: 2026-10-21T23:08:07.067Z

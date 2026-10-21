@@ -1,12 +1,12 @@
 # Followers - Luxembourg
 
-Generated: 2026-10-21T20:52:32.354Z
+Generated: 2026-10-21T22:54:18.364Z
 
 Users: 2190
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [qdm12](https://github.com/qdm12) | Quentin McGaw |  |  | Luxembourg | 858 |
+| 1 | [qdm12](https://github.com/qdm12) | Quentin McGaw |  |  | Luxembourg | 859 |
 | 2 | [kissalexandra](https://github.com/kissalexandra) | Alexandra Kiss |  | xkissalexandra | Ville de Luxembourg | 613 |
 | 3 | [b-rodrigues](https://github.com/b-rodrigues) | Bruno Rodrigues | MESR, Luxembourg | brodriguesco | Luxembourg-City, Luxembourg | 470 |
 | 4 | [255kb](https://github.com/255kb) | Guillaume | @mockoon |  | Luxembourg | 396 |
@@ -25,4 +25,4 @@ Users: 2190
 | 17 | [AndrejOrsula](https://github.com/AndrejOrsula) | Andrej Orsula |  |  | Luxembourg | 223 |
 | 18 | [erkobridee](https://github.com/erkobridee) | Erko Bridee |  | erkobridee | Luxembourg | 212 |
 | 19 | [l4rz](https://github.com/l4rz) | Mike K. |  |  | Luxembourg | 197 |
-| 20 | [urosolia](https://github.com/urosolia) | Ugo Rosolia | Amazon | ugorosolia | Luxembourg, Lux | 192 |
+| 20 | [urosolia](https://github.com/urosolia) | Ugo Rosolia | Amazon | ugorosolia | Luxembourg, Lux | 191 |

@@ -17,9 +17,9 @@ Indexed users: 75
 | 3 | [diasjorge](https://github.com/diasjorge) | Jorge Dias | Martinique | 5,128 |
 | 4 | [GuillaumeBld](https://github.com/GuillaumeBld) | Guillaume Bolivard | Chicago / Fort-de-France | 4,590 |
 | 5 | [bolom](https://github.com/bolom) | Bolo Michelin | Martinique | 3,132 |
-| 6 | [docVoid](https://github.com/docVoid) | void216 | Martinique | 1,490 |
+| 6 | [docVoid](https://github.com/docVoid) | void216 | Martinique | 1,497 |
 | 7 | [p4cm4n972](https://github.com/p4cm4n972) | Manuel ADELE | Martinique | 1,105 |
-| 8 | [R3tr8](https://github.com/R3tr8) | Franck-Emmanuel | Martinique | 1,007 |
+| 8 | [R3tr8](https://github.com/R3tr8) | Franck-Emmanuel | Martinique | 1,010 |
 | 9 | [esrid](https://github.com/esrid) | ADS | Martinique | 938 |
 | 10 | [LePtitBiscuit](https://github.com/LePtitBiscuit) | LePtitBiscuit | Martinique | 803 |
 | 11 | [vevedh](https://github.com/vevedh) | Hervé de CHAVIGNY | Martinique | 796 |
@@ -46,7 +46,7 @@ Indexed users: 75
 | 7 | [esrid](https://github.com/esrid) | ADS | Martinique | 397 |
 | 8 | [steeven-js](https://github.com/steeven-js) | steeven_js | Martinique | 372 |
 | 9 | [ricard33](https://github.com/ricard33) | Cédric RICARD | Martinique | 345 |
-| 10 | [docVoid](https://github.com/docVoid) | void216 | Martinique | 317 |
+| 10 | [docVoid](https://github.com/docVoid) | void216 | Martinique | 320 |
 | 11 | [vevedh](https://github.com/vevedh) | Hervé de CHAVIGNY | Martinique | 224 |
 | 12 | [b1nj](https://github.com/b1nj) | B1nj | Martinique | 201 |
 | 13 | [bolom](https://github.com/bolom) | Bolo Michelin | Martinique | 167 |
@@ -83,4 +83,4 @@ Indexed users: 75
 | 19 | [LePtitBiscuit](https://github.com/LePtitBiscuit) | LePtitBiscuit | Martinique | 6 |
 | 20 | [phnxtrill](https://github.com/phnxtrill) | Quentin | Fort-de-France, Martinique | 6 |
 
-Generated: 2026-10-21T20:56:24.969Z
+Generated: 2026-10-21T22:57:09.116Z

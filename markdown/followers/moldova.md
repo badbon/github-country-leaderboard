@@ -1,6 +1,6 @@
 # Followers - Moldova
 
-Generated: 2026-10-21T20:58:11.162Z
+Generated: 2026-10-21T22:58:33.403Z
 
 Users: 1746
 
@@ -8,7 +8,7 @@ Users: 1746
 |---:|---|---|---|---|---|---:|
 | 1 | [face-hh](https://github.com/face-hh) | Face |  | facedevstuff | Moldova | 2279 |
 | 2 | [vmihailenco](https://github.com/vmihailenco) | Vladimir Mihailenco | @uptrace  | uptracedev | Moldova | 1383 |
-| 3 | [CyberShadow](https://github.com/CyberShadow) | Vladimir Panteleev |  |  | Moldova, Eastern Europe | 517 |
+| 3 | [CyberShadow](https://github.com/CyberShadow) | Vladimir Panteleev |  |  | Moldova, Eastern Europe | 520 |
 | 4 | [messsimo](https://github.com/messsimo) | Daniel Mihai |  |  | Republic of Moldova | 356 |
 | 5 | [nickmessing](https://github.com/nickmessing) | Nick Messing | itcare.net |  | Chisinau, Moldova | 349 |
 | 6 | [sergiuchilat](https://github.com/sergiuchilat) | Sergiu Chilat | Adtelligent Inc. |  | Moldova | 294 |

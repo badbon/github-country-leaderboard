@@ -18,7 +18,7 @@ Indexed users: 740
 | 4 | [salemaljebaly](https://github.com/salemaljebaly) | Salem Aljebaly | Libya | 13,061 |
 | 5 | [Arjeeah](https://github.com/Arjeeah) | Arjeeah | Libya  | 12,818 |
 | 6 | [Sokanon](https://github.com/Sokanon) | So | Libya | 12,234 |
-| 7 | [ayagaidi](https://github.com/ayagaidi) | Yaya |  Tripoli, Libya  | 9,817 |
+| 7 | [ayagaidi](https://github.com/ayagaidi) | Yaya |  Tripoli, Libya  | 10,039 |
 | 8 | [radwan-77](https://github.com/radwan-77) | RADWAN | Libya | 9,304 |
 | 9 | [Tellesy](https://github.com/Tellesy) | blueMu | Tripoli, Libya | 9,202 |
 | 10 | [GaafarBBK](https://github.com/GaafarBBK) | Mohamed Gaafar | Libya | 7,998 |
@@ -67,7 +67,7 @@ Indexed users: 740
 | 3 | [zakariasassi](https://github.com/zakariasassi) | Zakaria Sassi | Libya | 90 |
 | 4 | [Nojaid-Ad](https://github.com/Nojaid-Ad) |  | Tripoli | 87 |
 | 5 | [mohamedjaouda](https://github.com/mohamedjaouda) | Mohamed Jaouda | Benghazi, Libya | 85 |
-| 6 | [Altaeb](https://github.com/Altaeb) | Abdelfattah Altaeb | Libya | 81 |
+| 6 | [Altaeb](https://github.com/Altaeb) | Abdelfattah Altaeb | Libya | 82 |
 | 7 | [boomeradhd](https://github.com/boomeradhd) | Boomer | Tripoli, Libya | 77 |
 | 8 | [qw46478](https://github.com/qw46478) | WZ_asaeh | Libya | 77 |
 | 9 | [mohimenly1](https://github.com/mohimenly1) | Mohimen Tantoush | Tripoli | 75 |
@@ -83,4 +83,4 @@ Indexed users: 740
 | 19 | [ZizouHuweidi](https://github.com/ZizouHuweidi) | El Zubeir Huweidi | Benghazi, Libya | 51 |
 | 20 | [Islam-alshiki](https://github.com/Islam-alshiki) | Islam alshiki | Benghazi, Libya | 49 |
 
-Generated: 2026-10-21T20:50:56.788Z
+Generated: 2026-10-21T22:54:01.921Z

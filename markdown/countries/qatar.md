@@ -13,7 +13,7 @@ Indexed users: 1,072
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [itsarisid](https://github.com/itsarisid) | Sajid Khan | Qatar | 18,953 |
-| 2 | [MohammedTarigg](https://github.com/MohammedTarigg) | Mohamed Nour | Qatar | 14,259 |
+| 2 | [MohammedTarigg](https://github.com/MohammedTarigg) | Mohamed Nour | Qatar | 14,514 |
 | 3 | [nirzaf](https://github.com/nirzaf) | M.F.M Fazrin | Doha - Qatar | 12,629 |
 | 4 | [Alaaeldin-Said](https://github.com/Alaaeldin-Said) | Alaaeldin Said | Qatar | 9,913 |
 | 5 | [Kin230k](https://github.com/Kin230k) | Kinan Kassab | Doha, Qatar | 9,014 |
@@ -48,7 +48,7 @@ Indexed users: 1,072
 | 9 | [kashkoool](https://github.com/kashkoool) | louay kashkool | qatar | 1,235 |
 | 10 | [atick-faisal](https://github.com/atick-faisal) | Atick Faisal | Doha, Qatar | 1,148 |
 | 11 | [itsarisid](https://github.com/itsarisid) | Sajid Khan | Qatar | 1,074 |
-| 12 | [aarntn](https://github.com/aarntn) | Aaron Tan | Doha, Qatar | 1,052 |
+| 12 | [aarntn](https://github.com/aarntn) | Aaron Tan | Doha, Qatar | 1,059 |
 | 13 | [rm1dev](https://github.com/rm1dev) | Reza Moghaddam | Qatar | 972 |
 | 14 | [kevinpiac](https://github.com/kevinpiac) | Kevin Piacentini | Doha | 957 |
 | 15 | [syedahmedkhaderi](https://github.com/syedahmedkhaderi) | Syed Ahmed | Doha | 839 |
@@ -83,4 +83,4 @@ Indexed users: 1,072
 | 19 | [thm-msror](https://github.com/thm-msror) | Tehreem Masroor | Al-Rayyan, Qatar | 106 |
 | 20 | [brainconnect93](https://github.com/brainconnect93) | Afolabi Akorede | Al-Wakrah, Qatar | 99 |
 
-Generated: 2026-10-21T21:11:07.239Z
+Generated: 2026-10-21T23:11:04.715Z

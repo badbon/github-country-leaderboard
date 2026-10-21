@@ -1,12 +1,12 @@
 # Total Contributions - Mongolia
 
-Generated: 2026-10-21T20:59:09.890Z
+Generated: 2026-10-21T22:59:51.679Z
 
 Users: 804
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [themuuln](https://github.com/themuuln) | themuuln |  |  | Ulaanbaatar, Mongolia | 562764 |
+| 1 | [themuuln](https://github.com/themuuln) | themuuln |  |  | Ulaanbaatar, Mongolia | 560205 |
 | 2 | [ByamB4](https://github.com/ByamB4) | Byambadalai Sumiya |  | ByamB4 | Ulaanbaatar, Mongolia | 93977 |
 | 3 | [tortuvshin](https://github.com/tortuvshin) | Turtuvshin Byambaa |  |  | Mongolia | 18318 |
 | 4 | [ganbold](https://github.com/ganbold) | Ganbold | Zochil Technology |  | Ulaanbaatar, Mongolia | 12172 |
@@ -17,12 +17,12 @@ Users: 804
 | 9 | [sadespresso](https://github.com/sadespresso) | Батмэнд Ганбаатар | @gege-mn |  | Ulaanbaatar, Mongolia | 9198 |
 | 10 | [ssxenon01](https://github.com/ssxenon01) | Gundsambuu | CODY | g_nd | Mongolia | 6655 |
 | 11 | [ebattulga](https://github.com/ebattulga) | ebattulga | Andromeda |  | Mongolia, Ulaanbaatar | 6632 |
-| 12 | [blgn94](https://github.com/blgn94) | Bilguun | Onlime LLC, Callpro Labs LLC, Callpro LLC |  | Erdenet, Mongolia | 6534 |
+| 12 | [blgn94](https://github.com/blgn94) | Bilguun | Onlime LLC, Callpro Labs LLC, Callpro LLC |  | Erdenet, Mongolia | 6630 |
 | 13 | [turbold24](https://github.com/turbold24) | Turbold | @shoppyMN @cody-mn  | turu_mn | Ulaanbaatar, Mongolia | 6464 |
 | 14 | [mtergel](https://github.com/mtergel) | Tergel Munkhdelger |  |  | Mongolia | 5921 |
 | 15 | [2khan](https://github.com/2khan) | Jargalsaikhan Erdenetsetseg |  |  | Ulaanbaatar, Mongolia | 5258 |
 | 16 | [anhbaysgalan1](https://github.com/anhbaysgalan1) | Ankhbayasgalan Davaadorj |  |  | Mongolia, Ulaanbaatar | 5254 |
-| 17 | [kyuna0312](https://github.com/kyuna0312) | kyuna0312 | Amari Hana Inc |  | Mongolia | 4786 |
-| 18 | [dokind](https://github.com/dokind) | dokind | Solo Spark Ventures LLC |  | Mongolia | 4567 |
+| 17 | [dokind](https://github.com/dokind) | dokind | Solo Spark Ventures LLC |  | Mongolia | 4966 |
+| 18 | [kyuna0312](https://github.com/kyuna0312) | kyuna0312 | Amari Hana Inc |  | Mongolia | 4786 |
 | 19 | [zolbooo](https://github.com/zolbooo) | Oleg | @coretech-asia |  | Ulaanbaatar, Mongolia | 4496 |
 | 20 | [enkhtuvsh1n](https://github.com/enkhtuvsh1n) | 9x | @shoppyMN @Uwins-Shoppy  |  | Ulaanbaatar, Mongolia | 4164 |

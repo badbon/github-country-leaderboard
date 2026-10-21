@@ -12,7 +12,7 @@ Indexed users: 804
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [themuuln](https://github.com/themuuln) | themuuln | Ulaanbaatar, Mongolia | 562,764 |
+| 1 | [themuuln](https://github.com/themuuln) | themuuln | Ulaanbaatar, Mongolia | 560,205 |
 | 2 | [ByamB4](https://github.com/ByamB4) | Byambadalai Sumiya | Ulaanbaatar, Mongolia | 93,977 |
 | 3 | [tortuvshin](https://github.com/tortuvshin) | Turtuvshin Byambaa | Mongolia | 18,318 |
 | 4 | [ganbold](https://github.com/ganbold) | Ganbold | Ulaanbaatar, Mongolia | 12,172 |
@@ -23,13 +23,13 @@ Indexed users: 804
 | 9 | [sadespresso](https://github.com/sadespresso) | Батмэнд Ганбаатар | Ulaanbaatar, Mongolia | 9,198 |
 | 10 | [ssxenon01](https://github.com/ssxenon01) | Gundsambuu | Mongolia | 6,655 |
 | 11 | [ebattulga](https://github.com/ebattulga) | ebattulga | Mongolia, Ulaanbaatar | 6,632 |
-| 12 | [blgn94](https://github.com/blgn94) | Bilguun | Erdenet, Mongolia | 6,534 |
+| 12 | [blgn94](https://github.com/blgn94) | Bilguun | Erdenet, Mongolia | 6,630 |
 | 13 | [turbold24](https://github.com/turbold24) | Turbold | Ulaanbaatar, Mongolia | 6,464 |
 | 14 | [mtergel](https://github.com/mtergel) | Tergel Munkhdelger | Mongolia | 5,921 |
 | 15 | [2khan](https://github.com/2khan) | Jargalsaikhan Erdenetsetseg | Ulaanbaatar, Mongolia | 5,258 |
 | 16 | [anhbaysgalan1](https://github.com/anhbaysgalan1) | Ankhbayasgalan Davaadorj | Mongolia, Ulaanbaatar | 5,254 |
-| 17 | [kyuna0312](https://github.com/kyuna0312) | kyuna0312 | Mongolia | 4,786 |
-| 18 | [dokind](https://github.com/dokind) | dokind | Mongolia | 4,567 |
+| 17 | [dokind](https://github.com/dokind) | dokind | Mongolia | 4,966 |
+| 18 | [kyuna0312](https://github.com/kyuna0312) | kyuna0312 | Mongolia | 4,786 |
 | 19 | [zolbooo](https://github.com/zolbooo) | Oleg | Ulaanbaatar, Mongolia | 4,496 |
 | 20 | [enkhtuvsh1n](https://github.com/enkhtuvsh1n) | 9x | Ulaanbaatar, Mongolia | 4,164 |
 
@@ -83,4 +83,4 @@ Indexed users: 804
 | 19 | [munkhjin0223](https://github.com/munkhjin0223) | Munkhjin | Ulaanbaatar, Mongolia | 64 |
 | 20 | [temuulennibno](https://github.com/temuulennibno) | Temuulen | Ulaanbaatar, Mongolia | 55 |
 
-Generated: 2026-10-21T20:59:09.890Z
+Generated: 2026-10-21T22:59:51.679Z

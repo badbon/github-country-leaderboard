@@ -1,6 +1,6 @@
 # Public Contributions - Macau
 
-Generated: 2026-10-21T20:52:57.168Z
+Generated: 2026-10-21T22:54:24.407Z
 
 Users: 438
 
@@ -9,8 +9,8 @@ Users: 438
 | 1 | [sou350121](https://github.com/sou350121) | KenSou |  |  | Macau | 5640 |
 | 2 | [spiritLHLS](https://github.com/spiritLHLS) | spiritlhl | CAICT |  | Macau | 5372 |
 | 3 | [hheei](https://github.com/hheei) | Lo Chon Hei |  |  | Macau | 3049 |
-| 4 | [sfcheung](https://github.com/sfcheung) | Shu Fai Cheung | University of Macau | blogonresearch | Macao | 2853 |
-| 5 | [RyanKung](https://github.com/RyanKung) | Elder Ryan |  | Elder24601 | Macau | 2471 |
+| 4 | [RyanKung](https://github.com/RyanKung) | Elder Ryan |  | Elder24601 | Macau | 2947 |
+| 5 | [sfcheung](https://github.com/sfcheung) | Shu Fai Cheung | University of Macau | blogonresearch | Macao | 2853 |
 | 6 | [mugpeng](https://github.com/mugpeng) | Peng |  |  | macao | 2283 |
 | 7 | [wahengchang](https://github.com/wahengchang) | peterchang | @Yahoo |  | macau | 1336 |
 | 8 | [yyyyyyounger](https://github.com/yyyyyyounger) | Rookie, LIN | University of Macau |  | Macau | 1284 |
@@ -24,5 +24,5 @@ Users: 438
 | 16 | [gorgeousfish](https://github.com/gorgeousfish) | xuanyucai | City University of Macau |  | Macau | 596 |
 | 17 | [Chonwai](https://github.com/Chonwai) | Chonwai Un, Edison |  |  | Macau | 584 |
 | 18 | [Boom5426](https://github.com/Boom5426) | Bo li (李波) | University of Macau |  | Macau | 575 |
-| 19 | [alemonmk](https://github.com/alemonmk) | Lemon Lam | Lemon Network Solutions |  | Macau | 509 |
+| 19 | [alemonmk](https://github.com/alemonmk) | Lemon Lam | Lemon Network Solutions |  | Macau | 507 |
 | 20 | [LunchBox](https://github.com/LunchBox) | Daniel |  |  | Macau | 467 |

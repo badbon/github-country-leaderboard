@@ -1,6 +1,6 @@
 # Followers - Malta
 
-Generated: 2026-10-21T20:55:48.926Z
+Generated: 2026-10-21T22:57:01.810Z
 
 Users: 1224
 
@@ -14,7 +14,7 @@ Users: 1224
 | 6 | [camilamacedo86](https://github.com/camilamacedo86) | Camila Macedo |  |  | Malta | 441 |
 | 7 | [mandyfarrugia](https://github.com/mandyfarrugia) | Mandy Farrugia | MCAST IICT, Paola |  | Malta | 378 |
 | 8 | [mbj](https://github.com/mbj) | Markus Schirp | Schirp DSO LTD | mbjschirp | Malta | 293 |
-| 9 | [zeelog](https://github.com/zeelog) |  |  |  | Malta | 259 |
+| 9 | [zeelog](https://github.com/zeelog) |  |  |  | Malta | 258 |
 | 10 | [jirevwe](https://github.com/jirevwe) | Raymond Tukpe | @frain-dev  | rtukpe | Luqa, Malta | 245 |
 | 11 | [TimidRobot](https://github.com/TimidRobot) | Timid Robot Zehta | @CreativeCommons |  | San Ġwann, Malta 🇲🇹 | 229 |
 | 12 | [waynebonc](https://github.com/waynebonc) | Wayne Bonnici |  | Wayne_Bonnici | Malta | 172 |

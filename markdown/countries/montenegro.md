@@ -44,10 +44,10 @@ Indexed users: 888
 | 5 | [Timev](https://github.com/Timev) | Evgenii Timofeev | Montenegro | 4,251 |
 | 6 | [KonstZiv](https://github.com/KonstZiv) | Константин Зивенко | Montenegro, Herzeg-Novi | 3,473 |
 | 7 | [Fooftilly](https://github.com/Fooftilly) | Nikola Perović | Montenegro | 3,251 |
-| 8 | [potapenko](https://github.com/potapenko) | Eugene Potapenko | Montenegro | 3,168 |
+| 8 | [potapenko](https://github.com/potapenko) | Eugene Potapenko | Montenegro | 3,169 |
 | 9 | [AndreyTalanin0x00](https://github.com/AndreyTalanin0x00) | Andrey Talanin | Podgorica, Montenegro | 2,992 |
 | 10 | [lacodda](https://github.com/lacodda) | Kirill Lakhtachev | Montenegro | 2,791 |
-| 11 | [histrio](https://github.com/histrio) | Rinat Sabitov | Montenegro | 2,217 |
+| 11 | [histrio](https://github.com/histrio) | Rinat Sabitov | Montenegro | 2,210 |
 | 12 | [Xaaalera](https://github.com/Xaaalera) | Roman Maslennikov | Montenegro | 2,057 |
 | 13 | [stevyhacker](https://github.com/stevyhacker) | Stevan Bogosavljević | Montenegro | 1,981 |
 | 14 | [stefashkaa](https://github.com/stefashkaa) | Stefan Popov | Montenegro, Budva | 1,838 |
@@ -83,4 +83,4 @@ Indexed users: 888
 | 19 | [vovkasm](https://github.com/vovkasm) | Vladimir Timofeev | Budva, Montenegro | 99 |
 | 20 | [marcoroganovic](https://github.com/marcoroganovic) | Marko Roganovic | Montenegro | 90 |
 
-Generated: 2026-10-21T20:59:15.698Z
+Generated: 2026-10-21T23:00:15.458Z

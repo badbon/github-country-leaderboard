@@ -45,7 +45,7 @@ Indexed users: 1,224
 | 6 | [silvandiepen](https://github.com/silvandiepen) | Sil van Diepen | Malta | 3,134 |
 | 7 | [KevinBusuttil](https://github.com/KevinBusuttil) | Kevin Busuttil | Malta | 3,132 |
 | 8 | [camilamacedo86](https://github.com/camilamacedo86) | Camila Macedo | Malta | 3,104 |
-| 9 | [novatechflow](https://github.com/novatechflow) | Alexander Alten | Malta | 2,724 |
+| 9 | [novatechflow](https://github.com/novatechflow) | Alexander Alten | Malta | 2,870 |
 | 10 | [zcourts](https://github.com/zcourts) | Courtney Robinson | London (UK), Łodz (Poland), Valletta (Malta) | 2,707 |
 | 11 | [stefanbuttigieg](https://github.com/stefanbuttigieg) | Stefan Buttigieg | Malta | 2,631 |
 | 12 | [arogan178](https://github.com/arogan178) | Andrea Bugeja | Malta | 2,585 |
@@ -70,7 +70,7 @@ Indexed users: 1,224
 | 6 | [camilamacedo86](https://github.com/camilamacedo86) | Camila Macedo | Malta | 441 |
 | 7 | [mandyfarrugia](https://github.com/mandyfarrugia) | Mandy Farrugia | Malta | 378 |
 | 8 | [mbj](https://github.com/mbj) | Markus Schirp | Malta | 293 |
-| 9 | [zeelog](https://github.com/zeelog) |  | Malta | 259 |
+| 9 | [zeelog](https://github.com/zeelog) |  | Malta | 258 |
 | 10 | [jirevwe](https://github.com/jirevwe) | Raymond Tukpe | Luqa, Malta | 245 |
 | 11 | [TimidRobot](https://github.com/TimidRobot) | Timid Robot Zehta | San Ġwann, Malta 🇲🇹 | 229 |
 | 12 | [waynebonc](https://github.com/waynebonc) | Wayne Bonnici | Malta | 172 |
@@ -83,4 +83,4 @@ Indexed users: 1,224
 | 19 | [mattcg](https://github.com/mattcg) | Matthew Caruana Galizia | Malta | 126 |
 | 20 | [CM2Walki](https://github.com/CM2Walki) | Walki | Malta | 118 |
 
-Generated: 2026-10-21T20:55:48.926Z
+Generated: 2026-10-21T22:57:01.810Z

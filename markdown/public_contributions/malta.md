@@ -1,6 +1,6 @@
 # Public Contributions - Malta
 
-Generated: 2026-10-21T20:55:48.926Z
+Generated: 2026-10-21T22:57:01.810Z
 
 Users: 1224
 
@@ -14,7 +14,7 @@ Users: 1224
 | 6 | [silvandiepen](https://github.com/silvandiepen) | Sil van Diepen | Sil van Diepen | silvandiepen | Malta | 3134 |
 | 7 | [KevinBusuttil](https://github.com/KevinBusuttil) | Kevin Busuttil | Busuttil Technologies Limited |  | Malta | 3132 |
 | 8 | [camilamacedo86](https://github.com/camilamacedo86) | Camila Macedo |  |  | Malta | 3104 |
-| 9 | [novatechflow](https://github.com/novatechflow) | Alexander Alten | @scalytics | mapredit | Malta | 2724 |
+| 9 | [novatechflow](https://github.com/novatechflow) | Alexander Alten | @scalytics | mapredit | Malta | 2870 |
 | 10 | [zcourts](https://github.com/zcourts) | Courtney Robinson | Hypi | zcourts | London (UK), Łodz (Poland), Valletta (Malta) | 2707 |
 | 11 | [stefanbuttigieg](https://github.com/stefanbuttigieg) | Stefan Buttigieg | Stefan Buttigieg | stefanbuttigieg | Malta | 2631 |
 | 12 | [arogan178](https://github.com/arogan178) | Andrea Bugeja | GiG |  | Malta | 2585 |
