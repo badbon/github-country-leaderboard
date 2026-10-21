@@ -40735,7 +40735,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 1129,
+    "privateContributions": 1223,
     "publicContributions": 19,
     "createdAt": "2019-08-03T11:23:09Z"
   },
@@ -40759,7 +40759,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 88,
+    "privateContributions": 80,
     "publicContributions": 8,
     "createdAt": "2019-10-04T09:07:08Z"
   },
@@ -40772,7 +40772,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 35,
     "createdAt": "2019-08-06T18:03:37Z"
   },
   {
@@ -40818,7 +40818,7 @@
     "location": "Batumi, Georgia",
     "company": "Mr",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-01-28T21:15:12Z"
@@ -40830,7 +40830,7 @@
     "location": "Georgia, Adjara, Batumi",
     "company": "@GodelTech",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-08-02T07:56:57Z"
@@ -40843,8 +40843,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 544,
-    "publicContributions": 14,
+    "privateContributions": 573,
+    "publicContributions": 12,
     "createdAt": "2019-07-20T23:15:31Z"
   },
   {
@@ -40854,9 +40854,9 @@
     "location": "Georgia",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 9570,
-    "publicContributions": 535,
+    "followers": 6,
+    "privateContributions": 10523,
+    "publicContributions": 565,
     "createdAt": "2019-09-29T20:33:14Z"
   },
   {
@@ -40867,8 +40867,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 288,
-    "publicContributions": 662,
+    "privateContributions": 527,
+    "publicContributions": 649,
     "createdAt": "2019-06-23T20:49:29Z"
   },
   {
@@ -40879,7 +40879,7 @@
     "company": "@bankofgeorgia",
     "twitterUsername": "shotanozadze",
     "followers": 4,
-    "privateContributions": 1008,
+    "privateContributions": 1006,
     "publicContributions": 0,
     "createdAt": "2019-03-12T14:46:27Z"
   },
@@ -40890,22 +40890,10 @@
     "location": "Georgia,Tbilisi",
     "company": "",
     "twitterUsername": "NickRobaqidze",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2019-08-09T17:18:49Z"
-  },
-  {
-    "login": "lobzhana",
-    "name": "Giorgi Lobjanidze",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/53515296?s=72&u=362acdb8b2542678a3152749889480df3a65b386&v=4",
-    "location": "Georgia, Tbilisi",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2019-07-31T09:32:42Z"
   },
   {
     "login": "Dmitrys91",
@@ -40928,19 +40916,19 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 30,
+    "publicContributions": 24,
     "createdAt": "2019-12-05T18:35:34Z"
   },
   {
     "login": "hoffman1938",
     "name": "Giorgi Tsulaia",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/57569227?s=72&u=3d9317e510576b4f5f74cd0aafd4d3063c72fa95&v=4",
-    "location": "Georgia",
-    "company": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/57569227?s=72&u=6210871422dcad7fe4ee2068c231b0fce100030e&v=4",
+    "location": "Tbilisi, Georgia",
+    "company": "Open to work",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 529,
+    "publicContributions": 604,
     "createdAt": "2019-11-09T16:49:52Z"
   },
   {

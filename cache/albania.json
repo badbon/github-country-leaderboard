@@ -12488,7 +12488,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 32,
+    "publicContributions": 36,
     "createdAt": "2015-11-13T19:33:30Z"
   },
   {
@@ -12498,9 +12498,9 @@
     "location": "Tirana",
     "company": "Shko Online",
     "twitterUsername": "betimbeja",
-    "followers": 51,
+    "followers": 52,
     "privateContributions": 0,
-    "publicContributions": 200,
+    "publicContributions": 198,
     "createdAt": "2015-02-23T13:55:48Z"
   },
   {
@@ -12547,7 +12547,7 @@
     "company": "Apatero",
     "twitterUsername": "gabeciii",
     "followers": 4,
-    "privateContributions": 7831,
+    "privateContributions": 8907,
     "publicContributions": 61,
     "createdAt": "2015-08-05T22:47:15Z"
   },
@@ -12574,18 +12574,6 @@
     "privateContributions": 154,
     "publicContributions": 12,
     "createdAt": "2015-03-13T10:06:34Z"
-  },
-  {
-    "login": "ibena",
-    "name": "Ibena Zeqja",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/15749586?s=72&v=4",
-    "location": "Tirana",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2015-11-09T22:16:29Z"
   },
   {
     "login": "jonatoni",
@@ -12619,7 +12607,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 64,
-    "privateContributions": 5482,
+    "privateContributions": 5884,
     "publicContributions": 0,
     "createdAt": "2014-01-17T14:37:19Z"
   },
@@ -12631,7 +12619,7 @@
     "company": "@albsector ",
     "twitterUsername": "",
     "followers": 53,
-    "privateContributions": 3123,
+    "privateContributions": 3124,
     "publicContributions": 45,
     "createdAt": "2014-04-09T13:23:37Z"
   },
@@ -12655,7 +12643,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 31,
-    "privateContributions": 392,
+    "privateContributions": 422,
     "publicContributions": 2,
     "createdAt": "2014-07-07T02:32:06Z"
   },
@@ -12667,7 +12655,7 @@
     "company": "",
     "twitterUsername": "klintmane",
     "followers": 17,
-    "privateContributions": 1112,
+    "privateContributions": 1113,
     "publicContributions": 0,
     "createdAt": "2014-10-21T15:37:16Z"
   },
@@ -12679,7 +12667,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 17,
-    "privateContributions": 85,
+    "privateContributions": 84,
     "publicContributions": 3,
     "createdAt": "2014-04-14T19:03:34Z"
   },
@@ -12691,7 +12679,7 @@
     "company": "@sajdoko @Laravel @WordPress ",
     "twitterUsername": "",
     "followers": 14,
-    "privateContributions": 1918,
+    "privateContributions": 1974,
     "publicContributions": 60,
     "createdAt": "2014-09-22T10:56:58Z"
   },

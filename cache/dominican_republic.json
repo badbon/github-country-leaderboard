@@ -1206,9 +1206,9 @@
     "location": "Santo Domingo",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 545,
+    "publicContributions": 549,
     "createdAt": "2025-09-24T16:34:44Z"
   },
   {
@@ -1230,7 +1230,7 @@
     "location": "Santo Domingo, Republica Dominicana",
     "company": "U & C Comercial",
     "twitterUsername": "geudismartinez",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 14,
     "createdAt": "2025-07-20T20:52:57Z"
@@ -1278,7 +1278,7 @@
     "location": "Santo Domingo, Republica Dominicana",
     "company": "Direccion General De Impuestos Internos (DGII)",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 16,
     "createdAt": "2025-01-25T04:01:55Z"
@@ -1364,7 +1364,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 6,
     "createdAt": "2025-07-08T01:06:19Z"
   },
   {
@@ -1388,7 +1388,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 30,
     "createdAt": "2025-12-03T13:30:25Z"
   },
   {
@@ -1412,7 +1412,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 52,
     "createdAt": "2025-09-20T16:59:05Z"
   },
   {
@@ -1424,7 +1424,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 44,
+    "publicContributions": 45,
     "createdAt": "2025-06-07T01:18:53Z"
   },
   {
@@ -39550,5 +39550,29 @@
     "privateContributions": 0,
     "publicContributions": 53,
     "createdAt": "2026-07-06T21:42:39Z"
+  },
+  {
+    "login": "gregorysmill",
+    "name": "Gregory Smill Reyes Peña",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/300690514?s=72&u=ffa01b2a676af405b9a24a4d32895f0dfc09b54a&v=4",
+    "location": "Santo Domingo, Dominican Republic",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 22,
+    "createdAt": "2026-07-07T01:38:29Z"
+  },
+  {
+    "login": "aljapshermes",
+    "name": "Hermes Agent for Alan Alarcon",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/300719173?s=72&u=67e566dedf314c134012391bc1cf8331c206694c&v=4",
+    "location": "Santo Domingo, Dominican Republic",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2026-07-07T03:39:42Z"
   }
 ]

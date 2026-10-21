@@ -40340,7 +40340,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 444,
+    "publicContributions": 204,
     "createdAt": "2024-07-30T20:35:26Z"
   },
   {
@@ -40362,9 +40362,9 @@
     "location": "Argentina",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 7,
-    "publicContributions": 6,
+    "followers": 4,
+    "privateContributions": 8,
+    "publicContributions": 23,
     "createdAt": "2024-08-16T05:32:50Z"
   },
   {
@@ -40394,13 +40394,13 @@
   {
     "login": "hans-die",
     "name": "Hans Dietrich",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/174193322?s=72&u=944744b9a368e7907b04fbdd5b795733391e003f&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/174193322?s=72&u=8b9182ff338022ebfd04ede0d66e278569bef493&v=4",
     "location": "Buenos Aires, Argentina",
     "company": "",
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 30,
     "createdAt": "2024-06-29T13:53:47Z"
   },
   {
@@ -40424,7 +40424,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 58,
+    "publicContributions": 67,
     "createdAt": "2024-08-20T11:52:17Z"
   },
   {
@@ -40436,7 +40436,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 252,
+    "publicContributions": 209,
     "createdAt": "2024-12-04T17:03:16Z"
   },
   {
@@ -40459,8 +40459,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 97,
-    "publicContributions": 23,
+    "privateContributions": 75,
+    "publicContributions": 24,
     "createdAt": "2024-07-03T19:57:25Z"
   },
   {
@@ -40474,18 +40474,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-07-10T22:22:23Z"
-  },
-  {
-    "login": "BenitezDaniel",
-    "name": "Silvio Daniel Benitez",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/179415689?s=72&v=4",
-    "location": "España 350, Avellaneda, Buenos Aires Argentina",
-    "company": "Universidad Nacional de Avellaneda",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2024-08-25T22:58:55Z"
   },
   {
     "login": "MaitenaChomicz",
@@ -40507,7 +40495,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 278,
+    "privateContributions": 270,
     "publicContributions": 16,
     "createdAt": "2024-09-27T13:21:04Z"
   },
@@ -40532,7 +40520,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 19,
     "createdAt": "2024-10-23T22:50:01Z"
   },
   {
@@ -40544,7 +40532,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2021-11-23T01:28:14Z"
   },
   {
@@ -40555,8 +40543,8 @@
     "company": "Habi",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 146,
-    "publicContributions": 3,
+    "privateContributions": 143,
+    "publicContributions": 2,
     "createdAt": "2021-06-01T22:24:01Z"
   },
   {
@@ -40568,7 +40556,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 47,
     "createdAt": "2024-12-08T21:28:02Z"
   },
   {

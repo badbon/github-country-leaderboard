@@ -40644,18 +40644,6 @@
     "createdAt": "2021-03-24T19:43:13Z"
   },
   {
-    "login": "xxxMilan",
-    "name": "Milan Kollmann ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/78236261?s=72&u=681b95756e136e3df82ca82fa89d5c29a3a446bd&v=4",
-    "location": "Vienna, Austria",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2021-01-29T21:35:34Z"
-  },
-  {
     "login": "Gluraki",
     "name": "",
     "avatarUrl": "https://avatars.githubusercontent.com/u/91054661?s=72&u=7c23a729b6ac0027387761c63b23d45a3edde0ee&v=4",
@@ -40663,8 +40651,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 156,
-    "publicContributions": 440,
+    "privateContributions": 228,
+    "publicContributions": 503,
     "createdAt": "2021-09-20T08:28:47Z"
   },
   {
@@ -40674,9 +40662,9 @@
     "location": "Vienna, Austria",
     "company": "Universität Wien",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 71,
-    "publicContributions": 145,
+    "followers": 1,
+    "privateContributions": 52,
+    "publicContributions": 148,
     "createdAt": "2021-09-13T18:39:13Z"
   },
   {
@@ -40688,7 +40676,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 295,
+    "publicContributions": 282,
     "createdAt": "2021-01-20T20:15:57Z"
   },
   {
@@ -40712,7 +40700,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2021-08-28T06:26:27Z"
   },
   {
@@ -40723,8 +40711,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 11,
-    "publicContributions": 5,
+    "privateContributions": 0,
+    "publicContributions": 4,
     "createdAt": "2021-01-08T09:05:25Z"
   },
   {
@@ -40754,13 +40742,13 @@
   {
     "login": "maxofn",
     "name": "Maximilian Ofner",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/79789403?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/79789403?s=72&u=fc9177a43f907d5c3fe174d7e38dfd6b04b825ba&v=4",
     "location": "Graz, Austria",
     "company": "Graz University of Technology",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 17,
     "createdAt": "2021-02-28T10:44:29Z"
   },
   {
@@ -40783,8 +40771,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 723,
-    "publicContributions": 103,
+    "privateContributions": 823,
+    "publicContributions": 117,
     "createdAt": "2021-07-08T21:35:01Z"
   },
   {
@@ -40807,7 +40795,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 78,
+    "privateContributions": 94,
     "publicContributions": 4,
     "createdAt": "2021-10-07T13:07:08Z"
   },
@@ -40831,8 +40819,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 3437,
-    "publicContributions": 200,
+    "privateContributions": 6750,
+    "publicContributions": 201,
     "createdAt": "2021-05-30T08:49:07Z"
   },
   {
@@ -40853,10 +40841,10 @@
     "avatarUrl": "https://avatars.githubusercontent.com/u/92392128?s=72&u=8166b2c06e433be3905d50c095944ed7291c1b04&v=4",
     "location": "Vienna, Austria",
     "company": "atwork",
-    "twitterUsername": "atwork",
+    "twitterUsername": "magrom",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 6,
     "createdAt": "2021-10-12T16:58:02Z"
   },
   {
