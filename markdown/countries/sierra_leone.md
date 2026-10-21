@@ -21,7 +21,7 @@ Indexed users: 442
 | 7 | [bnjox](https://github.com/bnjox) | Ben | Sierra Leone | 3,676 |
 | 8 | [eponkratova](https://github.com/eponkratova) | Eka Ponkratova | Sierra Leone | 3,630 |
 | 9 | [EmmanuelKeifala](https://github.com/EmmanuelKeifala) | Emmanuel Keifala | Freetown, Sierra Leone	 | 3,448 |
-| 10 | [HawaKallon](https://github.com/HawaKallon) | Hawa Kallon | Sierra Leone | 2,792 |
+| 10 | [HawaKallon](https://github.com/HawaKallon) | Hawa Kallon | Sierra Leone | 2,868 |
 | 11 | [TheLoneWulf-WA](https://github.com/TheLoneWulf-WA) | Theodore Rogers | Freetown, Sierra Leone | 2,612 |
 | 12 | [dominicOT](https://github.com/dominicOT) | Dominic Oladapo-Tonade | Sierra Leone | 2,510 |
 | 13 | [Mmah-Zombo](https://github.com/Mmah-Zombo) | M'mah Zombo | Wilberforce, Freetown. | 2,214 |
@@ -37,7 +37,7 @@ Indexed users: 442
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [HawaKallon](https://github.com/HawaKallon) | Hawa Kallon | Sierra Leone | 2,098 |
+| 1 | [HawaKallon](https://github.com/HawaKallon) | Hawa Kallon | Sierra Leone | 2,084 |
 | 2 | [walonCode](https://github.com/walonCode) | Mohamed Lamin Walon Jalloh | Sierra Leone | 1,895 |
 | 3 | [saidubundukamara](https://github.com/saidubundukamara) | Saidu | Sierra Leone | 1,282 |
 | 4 | [bnjox](https://github.com/bnjox) | Ben | Sierra Leone | 1,015 |
@@ -83,4 +83,4 @@ Indexed users: 442
 | 19 | [IshmaelKargbo](https://github.com/IshmaelKargbo) | Ishmael Kargbo | Sierra Leone | 29 |
 | 20 | [Ifuhad622](https://github.com/Ifuhad622) | Ibraihim Fuhad Suma | Freetown, Sierra Leone, West Africa | 26 |
 
-Generated: 2026-10-21T01:27:32.230Z
+Generated: 2026-10-21T03:10:31.919Z
