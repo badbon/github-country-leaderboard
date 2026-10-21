@@ -1,8 +1,8 @@
 # Total Contributions - Rwanda
 
-Generated: 2026-10-21T18:10:47.077Z
+Generated: 2026-10-21T19:39:43.348Z
 
-Users: 3499
+Users: 3500
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -12,16 +12,16 @@ Users: 3499
 | 4 | [Timtech4u](https://github.com/Timtech4u) | Timothy Olaleke |  |  | Kigali, Rwanda | 28183 |
 | 5 | [jazzybruno](https://github.com/jazzybruno) | Jazzy Bruno | @Rwanda_Coding_Academy |  | Kigali , Rwanda | 21268 |
 | 6 | [Chaste-Djaziri](https://github.com/Chaste-Djaziri) | Chaste Djaziri | Micorp |  | Rwanda | 18364 |
-| 7 | [Alain-NIYONEMA](https://github.com/Alain-NIYONEMA) | Alain NIYONEMA | AIONEM.ɴᴇᴛ | AlainNiyonema | Kigali, Rwanda | 9631 |
-| 8 | [iAmNsengi](https://github.com/iAmNsengi) | Eliezer Nsengi | KB21 |  | Kigali, Rwanda | 9545 |
-| 9 | [MugemaneBertin2001](https://github.com/MugemaneBertin2001) | Mugemane Bertin | GeminTech | MugemaneB | Kigali/Rwanda | 9373 |
-| 10 | [Icyubahiro-Jay-P](https://github.com/Icyubahiro-Jay-P) | JAY P | Diolichat |  | Kigali, Rwanda | 9232 |
-| 11 | [codeWithEdison](https://github.com/codeWithEdison) | Edison UWIHANGANYE | UR Binary Hub |  | Rwanda | 9203 |
-| 12 | [EucTech](https://github.com/EucTech) | Ezeibe Uchechukwu |  | Euc_Tech | Kigali, Rwanda | 9071 |
-| 13 | [princechrix](https://github.com/princechrix) | Prince Christian ISHIMWE |  |  | Kigali, Rwanda | 8563 |
-| 14 | [ProgrammerDATCH](https://github.com/ProgrammerDATCH) | Mr. David | @gokabisa | ProgrammerDATCH | Kigali Rwanda | 8432 |
-| 15 | [nrep](https://github.com/nrep) | Elvis Peace NDAHAYO RUGERO | Digital Umuganda | ElvisPeaceNR | Rwanda | 8301 |
-| 16 | [rubailly](https://github.com/rubailly) | Bailly Rurangirwa  |  |  | Rwanda | 8233 |
+| 7 | [rubailly](https://github.com/rubailly) | Bailly Rurangirwa  |  |  | Rwanda | 13632 |
+| 8 | [Alain-NIYONEMA](https://github.com/Alain-NIYONEMA) | Alain NIYONEMA | AIONEM.ɴᴇᴛ | AlainNiyonema | Kigali, Rwanda | 9631 |
+| 9 | [iAmNsengi](https://github.com/iAmNsengi) | Eliezer Nsengi | KB21 |  | Kigali, Rwanda | 9545 |
+| 10 | [MugemaneBertin2001](https://github.com/MugemaneBertin2001) | Mugemane Bertin | GeminTech | MugemaneB | Kigali/Rwanda | 9373 |
+| 11 | [Icyubahiro-Jay-P](https://github.com/Icyubahiro-Jay-P) | JAY P | Diolichat |  | Kigali, Rwanda | 9232 |
+| 12 | [codeWithEdison](https://github.com/codeWithEdison) | Edison UWIHANGANYE | UR Binary Hub |  | Rwanda | 9203 |
+| 13 | [EucTech](https://github.com/EucTech) | Ezeibe Uchechukwu |  | Euc_Tech | Kigali, Rwanda | 9071 |
+| 14 | [princechrix](https://github.com/princechrix) | Prince Christian ISHIMWE |  |  | Kigali, Rwanda | 8563 |
+| 15 | [ProgrammerDATCH](https://github.com/ProgrammerDATCH) | Mr. David | @gokabisa | ProgrammerDATCH | Kigali Rwanda | 8432 |
+| 16 | [nrep](https://github.com/nrep) | Elvis Peace NDAHAYO RUGERO | Digital Umuganda | ElvisPeaceNR | Rwanda | 8301 |
 | 17 | [Krasivaya](https://github.com/Krasivaya) | Carine SEMWAGA |  |  | Rwanda | 7953 |
 | 18 | [Ndevu12](https://github.com/Ndevu12) | Jean Paul Elisa NIYOKWIZERWA | @Django-Rwanda @rwanda-computing-olympiad  @atlp-rwanda ATLP Andela | elion55698906 | Kigali Rwanda | 7642 |
 | 19 | [brunorwanda4](https://github.com/brunorwanda4) | Bruno Rwanda | @space-together-org  | rwanda_bruno | Rwanda/ Kigali | 7609 |

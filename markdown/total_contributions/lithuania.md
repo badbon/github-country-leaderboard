@@ -1,6 +1,6 @@
 # Total Contributions - Lithuania
 
-Generated: 2026-10-21T17:50:07.901Z
+Generated: 2026-10-21T19:22:31.679Z
 
 Users: 5363
 
@@ -8,12 +8,12 @@ Users: 5363
 |---:|---|---|---|---|---|---:|
 | 1 | [kiznis](https://github.com/kiznis) | Mindaugas Kiznis | Kiznis.com |  | Lithuania | 99902 |
 | 2 | [vytautas-bunevicius](https://github.com/vytautas-bunevicius) | Vytautas | Nord Security |  | Vilnius | 29125 |
-| 3 | [justrau](https://github.com/justrau) | Justas Raudonius |  |  | Lithuania | 18945 |
-| 4 | [bring-shrubbery](https://github.com/bring-shrubbery) | Antoni Silvestrovič | @quassum  | bringshrubberyy | Vilnius, Lithuania | 17060 |
-| 5 | [kasinskas](https://github.com/kasinskas) | Rokas Kašinskas |  |  | Lithuania | 15172 |
-| 6 | [Dambre](https://github.com/Dambre) | Lukas |  |  | Lithuania | 14784 |
-| 7 | [renaldasbuilds](https://github.com/renaldasbuilds) | Renaldas |  |  | Lithuania | 14763 |
-| 8 | [KonnikPahoni](https://github.com/KonnikPahoni) | Piotr Markielau |  |  | Vilnius, Lithuania | 13412 |
+| 3 | [KonnikPahoni](https://github.com/KonnikPahoni) | Piotr Markielau |  |  | Vilnius, Lithuania | 19164 |
+| 4 | [justrau](https://github.com/justrau) | Justas Raudonius |  |  | Lithuania | 18945 |
+| 5 | [bring-shrubbery](https://github.com/bring-shrubbery) | Antoni Silvestrovič | @quassum  | bringshrubberyy | Vilnius, Lithuania | 17060 |
+| 6 | [kasinskas](https://github.com/kasinskas) | Rokas Kašinskas |  |  | Lithuania | 15172 |
+| 7 | [Dambre](https://github.com/Dambre) | Lukas |  |  | Lithuania | 14784 |
+| 8 | [renaldasbuilds](https://github.com/renaldasbuilds) | Renaldas |  |  | Lithuania | 14763 |
 | 9 | [Midunas](https://github.com/Midunas) | Mykolas Vidunas |  |  | Vilnius | 13013 |
 | 10 | [YOzaz](https://github.com/YOzaz) | Marijus Plančiūnas | Paysera | YOzaz | Vilnius, Lithuania | 13010 |
 | 11 | [justascesnauskas](https://github.com/justascesnauskas) | Justas Česnauskas | Mygom.tech |  | Lithuania | 12973 |

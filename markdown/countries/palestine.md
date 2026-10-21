@@ -22,7 +22,7 @@ Indexed users: 2,197
 | 8 | [RandaZraik](https://github.com/RandaZraik) | Randa | Nablus, Palestine | 8,206 |
 | 9 | [1210395](https://github.com/1210395) | Jadallah  | Ramallah | 7,671 |
 | 10 | [Walaa-Volidis](https://github.com/Walaa-Volidis) |  | Palestine | 7,553 |
-| 11 | [izadoesdev](https://github.com/izadoesdev) | iza | Palestine | 7,373 |
+| 11 | [izadoesdev](https://github.com/izadoesdev) | iza | Palestine | 7,515 |
 | 12 | [salahy](https://github.com/salahy) | Salah Yahya | Palestine | 6,501 |
 | 13 | [skmail](https://github.com/skmail) |  | Palestine | 6,410 |
 | 14 | [abusalameh](https://github.com/abusalameh) | Raja Abu Salameh | Jenin, Palestine | 6,010 |
@@ -37,7 +37,7 @@ Indexed users: 2,197
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [izadoesdev](https://github.com/izadoesdev) | iza | Palestine | 6,937 |
+| 1 | [izadoesdev](https://github.com/izadoesdev) | iza | Palestine | 7,056 |
 | 2 | [AhmedMElhalaby](https://github.com/AhmedMElhalaby) | Ahmed M. Elhalaby | Palestine, Gaza, Remal, khdeer Tower , 5th floor | 4,746 |
 | 3 | [ibrahimhajjaj](https://github.com/ibrahimhajjaj) | Ibrahim Hajjaj | Palestine | 2,477 |
 | 4 | [Ayaalmadhon2004](https://github.com/Ayaalmadhon2004) | Aya almadhon | Palestine | 2,151 |
@@ -65,7 +65,7 @@ Indexed users: 2,197
 | 1 | [shadeed](https://github.com/shadeed) | Ahmad Shadeed | Tulkarm, Palestine | 1,849 |
 | 2 | [LaithGhnemat12302](https://github.com/LaithGhnemat12302) | Laith Ghnemat | Palestine-Ramallah-Kufor-Malik | 505 |
 | 3 | [msafadi](https://github.com/msafadi) | Mohammed Safadi | Gaza, Palestine | 491 |
-| 4 | [izadoesdev](https://github.com/izadoesdev) | iza | Palestine | 257 |
+| 4 | [izadoesdev](https://github.com/izadoesdev) | iza | Palestine | 261 |
 | 5 | [MariamHasanat](https://github.com/MariamHasanat) | Mariam Hasanat | Dura, Palestine  | 229 |
 | 6 | [hayasam](https://github.com/hayasam) | Haya Samaana | Palestine | 222 |
 | 7 | [ibrahim-sisar](https://github.com/ibrahim-sisar) | ibrahim abu al roos | Gaza,Palestine | 209 |
@@ -83,4 +83,4 @@ Indexed users: 2,197
 | 19 | [dalia2323](https://github.com/dalia2323) |  | Qalqilya, Palestine | 129 |
 | 20 | [mhmdio](https://github.com/mhmdio) | Mohammed Almusaddar | Gaza, Palestine | 125 |
 
-Generated: 2026-10-21T18:05:13.156Z
+Generated: 2026-10-21T19:34:52.685Z

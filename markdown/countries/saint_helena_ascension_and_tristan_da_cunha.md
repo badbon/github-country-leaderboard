@@ -62,7 +62,7 @@ Indexed users: 25
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [carehart](https://github.com/carehart) | Charlie Arehart | Jamestown, KY | 42 |
+| 1 | [carehart](https://github.com/carehart) | Charlie Arehart | Jamestown, KY | 43 |
 | 2 | [johncoder](https://github.com/johncoder) | John Nelson | Jamestown, NY | 23 |
 | 3 | [rustler47](https://github.com/rustler47) | James Rustler | Jamestown, Rustlvania  | 20 |
 | 4 | [Dylandoesprogramming](https://github.com/Dylandoesprogramming) | Dylan Brown | Jamestown, CA | 12 |
@@ -83,4 +83,4 @@ Indexed users: 25
 | 19 | [EgonX](https://github.com/EgonX) | J. Hall | Jamestown, TN | 1 |
 | 20 | [GTCCApplications](https://github.com/GTCCApplications) | GTCC Applications | Jamestown, NC | 1 |
 
-Generated: 2026-10-21T18:11:31.853Z
+Generated: 2026-10-21T19:41:00.565Z

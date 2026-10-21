@@ -14,12 +14,12 @@ Indexed users: 5,363
 |---:|---|---|---|---:|
 | 1 | [kiznis](https://github.com/kiznis) | Mindaugas Kiznis | Lithuania | 99,902 |
 | 2 | [vytautas-bunevicius](https://github.com/vytautas-bunevicius) | Vytautas | Vilnius | 29,125 |
-| 3 | [justrau](https://github.com/justrau) | Justas Raudonius | Lithuania | 18,945 |
-| 4 | [bring-shrubbery](https://github.com/bring-shrubbery) | Antoni Silvestrovič | Vilnius, Lithuania | 17,060 |
-| 5 | [kasinskas](https://github.com/kasinskas) | Rokas Kašinskas | Lithuania | 15,172 |
-| 6 | [Dambre](https://github.com/Dambre) | Lukas | Lithuania | 14,784 |
-| 7 | [renaldasbuilds](https://github.com/renaldasbuilds) | Renaldas | Lithuania | 14,763 |
-| 8 | [KonnikPahoni](https://github.com/KonnikPahoni) | Piotr Markielau | Vilnius, Lithuania | 13,412 |
+| 3 | [KonnikPahoni](https://github.com/KonnikPahoni) | Piotr Markielau | Vilnius, Lithuania | 19,164 |
+| 4 | [justrau](https://github.com/justrau) | Justas Raudonius | Lithuania | 18,945 |
+| 5 | [bring-shrubbery](https://github.com/bring-shrubbery) | Antoni Silvestrovič | Vilnius, Lithuania | 17,060 |
+| 6 | [kasinskas](https://github.com/kasinskas) | Rokas Kašinskas | Lithuania | 15,172 |
+| 7 | [Dambre](https://github.com/Dambre) | Lukas | Lithuania | 14,784 |
+| 8 | [renaldasbuilds](https://github.com/renaldasbuilds) | Renaldas | Lithuania | 14,763 |
 | 9 | [Midunas](https://github.com/Midunas) | Mykolas Vidunas | Vilnius | 13,013 |
 | 10 | [YOzaz](https://github.com/YOzaz) | Marijus Plančiūnas | Vilnius, Lithuania | 13,010 |
 | 11 | [justascesnauskas](https://github.com/justascesnauskas) | Justas Česnauskas | Lithuania | 12,973 |
@@ -83,4 +83,4 @@ Indexed users: 5,363
 | 19 | [Miceuz](https://github.com/Miceuz) | Albertas Mickėnas | Vilnius, Lithuania | 190 |
 | 20 | [mmozuras](https://github.com/mmozuras) | Mindaugas Mozūras | Vilnius, Lithuania | 183 |
 
-Generated: 2026-10-21T17:50:07.901Z
+Generated: 2026-10-21T19:22:31.679Z

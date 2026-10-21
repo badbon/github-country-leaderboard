@@ -1,12 +1,12 @@
 # Followers - Saint Helena, Ascension and Tristan da Cunha
 
-Generated: 2026-10-21T18:11:31.853Z
+Generated: 2026-10-21T19:41:00.565Z
 
 Users: 25
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [carehart](https://github.com/carehart) | Charlie Arehart | CArehart.org | carehart | Jamestown, KY | 42 |
+| 1 | [carehart](https://github.com/carehart) | Charlie Arehart | CArehart.org | carehart | Jamestown, KY | 43 |
 | 2 | [johncoder](https://github.com/johncoder) | John Nelson |  | johncoder | Jamestown, NY | 23 |
 | 3 | [rustler47](https://github.com/rustler47) | James Rustler | Endurance | unrustled | Jamestown, Rustlvania  | 20 |
 | 4 | [Dylandoesprogramming](https://github.com/Dylandoesprogramming) | Dylan Brown | EBTH |  | Jamestown, CA | 12 |

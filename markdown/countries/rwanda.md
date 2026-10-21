@@ -1,6 +1,6 @@
 # Rwanda
 
-Indexed users: 3,499
+Indexed users: 3,500
 
 | Leaderboard | Link |
 |---|---|
@@ -18,16 +18,16 @@ Indexed users: 3,499
 | 4 | [Timtech4u](https://github.com/Timtech4u) | Timothy Olaleke | Kigali, Rwanda | 28,183 |
 | 5 | [jazzybruno](https://github.com/jazzybruno) | Jazzy Bruno | Kigali , Rwanda | 21,268 |
 | 6 | [Chaste-Djaziri](https://github.com/Chaste-Djaziri) | Chaste Djaziri | Rwanda | 18,364 |
-| 7 | [Alain-NIYONEMA](https://github.com/Alain-NIYONEMA) | Alain NIYONEMA | Kigali, Rwanda | 9,631 |
-| 8 | [iAmNsengi](https://github.com/iAmNsengi) | Eliezer Nsengi | Kigali, Rwanda | 9,545 |
-| 9 | [MugemaneBertin2001](https://github.com/MugemaneBertin2001) | Mugemane Bertin | Kigali/Rwanda | 9,373 |
-| 10 | [Icyubahiro-Jay-P](https://github.com/Icyubahiro-Jay-P) | JAY P | Kigali, Rwanda | 9,232 |
-| 11 | [codeWithEdison](https://github.com/codeWithEdison) | Edison UWIHANGANYE | Rwanda | 9,203 |
-| 12 | [EucTech](https://github.com/EucTech) | Ezeibe Uchechukwu | Kigali, Rwanda | 9,071 |
-| 13 | [princechrix](https://github.com/princechrix) | Prince Christian ISHIMWE | Kigali, Rwanda | 8,563 |
-| 14 | [ProgrammerDATCH](https://github.com/ProgrammerDATCH) | Mr. David | Kigali Rwanda | 8,432 |
-| 15 | [nrep](https://github.com/nrep) | Elvis Peace NDAHAYO RUGERO | Rwanda | 8,301 |
-| 16 | [rubailly](https://github.com/rubailly) | Bailly Rurangirwa  | Rwanda | 8,233 |
+| 7 | [rubailly](https://github.com/rubailly) | Bailly Rurangirwa  | Rwanda | 13,632 |
+| 8 | [Alain-NIYONEMA](https://github.com/Alain-NIYONEMA) | Alain NIYONEMA | Kigali, Rwanda | 9,631 |
+| 9 | [iAmNsengi](https://github.com/iAmNsengi) | Eliezer Nsengi | Kigali, Rwanda | 9,545 |
+| 10 | [MugemaneBertin2001](https://github.com/MugemaneBertin2001) | Mugemane Bertin | Kigali/Rwanda | 9,373 |
+| 11 | [Icyubahiro-Jay-P](https://github.com/Icyubahiro-Jay-P) | JAY P | Kigali, Rwanda | 9,232 |
+| 12 | [codeWithEdison](https://github.com/codeWithEdison) | Edison UWIHANGANYE | Rwanda | 9,203 |
+| 13 | [EucTech](https://github.com/EucTech) | Ezeibe Uchechukwu | Kigali, Rwanda | 9,071 |
+| 14 | [princechrix](https://github.com/princechrix) | Prince Christian ISHIMWE | Kigali, Rwanda | 8,563 |
+| 15 | [ProgrammerDATCH](https://github.com/ProgrammerDATCH) | Mr. David | Kigali Rwanda | 8,432 |
+| 16 | [nrep](https://github.com/nrep) | Elvis Peace NDAHAYO RUGERO | Rwanda | 8,301 |
 | 17 | [Krasivaya](https://github.com/Krasivaya) | Carine SEMWAGA | Rwanda | 7,953 |
 | 18 | [Ndevu12](https://github.com/Ndevu12) | Jean Paul Elisa NIYOKWIZERWA | Kigali Rwanda | 7,642 |
 | 19 | [brunorwanda4](https://github.com/brunorwanda4) | Bruno Rwanda | Rwanda/ Kigali | 7,609 |
@@ -79,8 +79,8 @@ Indexed users: 3,499
 | 15 | [Goal651](https://github.com/Goal651) |  Wilson Goal BUGIRI | Rwanda-Kigali | 357 |
 | 16 | [regis-mucyo](https://github.com/regis-mucyo) | Regis Mucyo | Kigali, Rwanda | 351 |
 | 17 | [descholar-ceo](https://github.com/descholar-ceo) | Mugirase Emmanuel | Kigali, Rwanda | 332 |
-| 18 | [ghislainb-cracker](https://github.com/ghislainb-cracker) | Ghislain Byimbo | Rwanda | 316 |
-| 19 | [shemaikuzwe](https://github.com/shemaikuzwe) | Ikuzwe shema Elie | rwanda | 314 |
-| 20 | [Manzi-Elvis](https://github.com/Manzi-Elvis) | Elvis Manzi | Rwanda | 299 |
+| 18 | [alexissengangabo07](https://github.com/alexissengangabo07) | Dr. Code | Kigali, Rwanda | 317 |
+| 19 | [ghislainb-cracker](https://github.com/ghislainb-cracker) | Ghislain Byimbo | Rwanda | 316 |
+| 20 | [shemaikuzwe](https://github.com/shemaikuzwe) | Ikuzwe shema Elie | rwanda | 314 |
 
-Generated: 2026-10-21T18:10:47.077Z
+Generated: 2026-10-21T19:39:43.348Z

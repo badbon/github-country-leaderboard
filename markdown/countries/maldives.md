@@ -26,7 +26,7 @@ Indexed users: 354
 | 12 | [agent306](https://github.com/agent306) | Ncodex | Male', Maldives | 5,323 |
 | 13 | [jaaahh](https://github.com/jaaahh) | Jaah | Maldives | 5,283 |
 | 14 | [ayarse](https://github.com/ayarse) | ayaz | Maldives | 5,150 |
-| 15 | [NeXsHeLL](https://github.com/NeXsHeLL) | ismile ThuThts | Maldives | 4,965 |
+| 15 | [NeXsHeLL](https://github.com/NeXsHeLL) | ismile ThuThts | Maldives | 4,978 |
 | 16 | [N4ZEN](https://github.com/N4ZEN) | Naza | Maldives | 4,904 |
 | 17 | [roris](https://github.com/roris) | Thoail Ahmed | Maldives | 4,881 |
 | 18 | [muizzu](https://github.com/muizzu) | Muizzu Abbas | Maldives | 4,740 |
@@ -56,7 +56,7 @@ Indexed users: 354
 | 17 | [aliaafee](https://github.com/aliaafee) | Ali Aafee | Maldives | 302 |
 | 18 | [athphane](https://github.com/athphane) | Athfan Khaleel | Maldives | 273 |
 | 19 | [WhoIsFishie](https://github.com/WhoIsFishie) | fISHIE | Maldives | 227 |
-| 20 | [dash8x](https://github.com/dash8x) | Arushad Ahmed | Maldives | 222 |
+| 20 | [dash8x](https://github.com/dash8x) | Arushad Ahmed | Maldives | 223 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 354
 | 19 | [muhannad0](https://github.com/muhannad0) | Monde | Maldives | 42 |
 | 20 | [inash](https://github.com/inash) | Inash Zubair | Male', Maldives | 41 |
 
-Generated: 2026-10-21T17:52:06.524Z
+Generated: 2026-10-21T19:24:23.323Z

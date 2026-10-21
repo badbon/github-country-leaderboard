@@ -53,10 +53,10 @@ Indexed users: 41,869
 | 14 | [musharafali-dev](https://github.com/musharafali-dev) | Musharraf Ali | Pakistan | 12,310 |
 | 15 | [hammad837](https://github.com/hammad837) | Hammad Idrees | Lahore ,Punjab ,Pakistan | 11,725 |
 | 16 | [AfnanSharif](https://github.com/AfnanSharif) | Afnan Sharif | Pakistan | 10,820 |
-| 17 | [shahidali54](https://github.com/shahidali54) | Shahid Ali | Karachi Sindh, Pakistan | 8,749 |
-| 18 | [sabihkahn](https://github.com/sabihkahn) | Sabih khan | pakistan | 7,867 |
-| 19 | [SENODROOM](https://github.com/SENODROOM) | Muhammad Saad Amin | Lahore, Pakistan  | 7,857 |
-| 20 | [tjxahmad](https://github.com/tjxahmad) | Ahmad Rasheed | Islamabad, Pakistan | 7,854 |
+| 17 | [mafzalkalwardev](https://github.com/mafzalkalwardev) | Muhammad Afzal | Islamabad, Pakistan | 8,992 |
+| 18 | [shahidali54](https://github.com/shahidali54) | Shahid Ali | Karachi Sindh, Pakistan | 8,749 |
+| 19 | [sabihkahn](https://github.com/sabihkahn) | Sabih khan | pakistan | 7,867 |
+| 20 | [SENODROOM](https://github.com/SENODROOM) | Muhammad Saad Amin | Lahore, Pakistan  | 7,857 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 41,869
 | 19 | [mInzamamMalik](https://github.com/mInzamamMalik) | Inzamam Malik | karachi, pakistan | 1,250 |
 | 20 | [r0oth3x49](https://github.com/r0oth3x49) | Nasir Khan | Pakistan | 1,232 |
 
-Generated: 2026-10-21T18:04:12.404Z
+Generated: 2026-10-21T19:34:20.287Z

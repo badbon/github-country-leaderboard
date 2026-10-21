@@ -1,6 +1,6 @@
 # Followers - Mauritius
 
-Generated: 2026-10-21T17:53:40.680Z
+Generated: 2026-10-21T19:26:00.034Z
 
 Users: 714
 
@@ -25,4 +25,4 @@ Users: 714
 | 17 | [EdgarEldy](https://github.com/EdgarEldy) | EDGAR MUHAMYANGABO | @Accenture | EdgarEldy | Mauritius | 80 |
 | 18 | [arwinneil](https://github.com/arwinneil) | Arwin Neil Baichoo | @livestorm | arwinneil | Mauritius | 76 |
 | 19 | [MaskyS](https://github.com/MaskyS) | Kifah M |  | maskys_ | Mauritius | 76 |
-| 20 | [cbillowes](https://github.com/cbillowes) | Clarice Bouwer | Cloudsure Limited |  | Mauritius | 65 |
+| 20 | [cbillowes](https://github.com/cbillowes) | Clarice Bouwer | Cloudsure Limited |  | Mauritius | 66 |

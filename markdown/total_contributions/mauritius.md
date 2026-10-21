@@ -1,20 +1,20 @@
 # Total Contributions - Mauritius
 
-Generated: 2026-10-21T17:53:40.680Z
+Generated: 2026-10-21T19:26:00.034Z
 
 Users: 714
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [EdgarEldy](https://github.com/EdgarEldy) | EDGAR MUHAMYANGABO | @Accenture | EdgarEldy | Mauritius | 14169 |
-| 2 | [512banque](https://github.com/512banque) | Kevin Richard | SEObserver | 512banque | Mauritius | 7845 |
+| 2 | [512banque](https://github.com/512banque) | Kevin Richard | SEObserver | 512banque | Mauritius | 7867 |
 | 3 | [borissedov](https://github.com/borissedov) | Boris Sedov |  |  | Tamarin, Mauritius | 7543 |
 | 4 | [andrashejj](https://github.com/andrashejj) | Andras Hejj |  | andrashejj | Mauritius | 6886 |
 | 5 | [wyxos](https://github.com/wyxos) | Wyxos |  |  | Mauritius | 6850 |
 | 6 | [cedpoilly](https://github.com/cedpoilly) | Cedric |  |  | Mauritius | 6573 |
 | 7 | [w1am](https://github.com/w1am) | William Chong | @kurrent-io |  | Mauritius | 6568 |
-| 8 | [Emmastro](https://github.com/Emmastro) | Emmanuel Bauma Murairi | ITverse |  | Mauritius | 6133 |
-| 9 | [masterdubs](https://github.com/masterdubs) | Dubs | @starkleytech | mast3rdubs | Mauritius | 5869 |
+| 8 | [masterdubs](https://github.com/masterdubs) | Dubs | @starkleytech | mast3rdubs | Mauritius | 6243 |
+| 9 | [Emmastro](https://github.com/Emmastro) | Emmanuel Bauma Murairi | ITverse |  | Mauritius | 6133 |
 | 10 | [MrSunshyne](https://github.com/MrSunshyne) | Sandeep Ramgolam | Livestorm | __sun__ | Mauritius | 5528 |
 | 11 | [oliverox](https://github.com/oliverox) | Oliver Oxenham |  | oliveroxenham | Mauritius | 5385 |
 | 12 | [nyashaChiza](https://github.com/nyashaChiza) | Nyasha Chizampeni | EndFrame |  | Port Louis, Mauritius | 4817 |

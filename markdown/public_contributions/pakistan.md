@@ -1,6 +1,6 @@
 # Public Contributions - Pakistan
 
-Generated: 2026-10-21T18:04:12.404Z
+Generated: 2026-10-21T19:34:20.287Z
 
 Users: 41869
 
@@ -22,7 +22,7 @@ Users: 41869
 | 14 | [musharafali-dev](https://github.com/musharafali-dev) | Musharraf Ali |  |  | Pakistan | 12310 |
 | 15 | [hammad837](https://github.com/hammad837) | Hammad Idrees | @hsmdevlabs |  | Lahore ,Punjab ,Pakistan | 11725 |
 | 16 | [AfnanSharif](https://github.com/AfnanSharif) | Afnan Sharif |  |  | Pakistan | 10820 |
-| 17 | [shahidali54](https://github.com/shahidali54) | Shahid Ali |  | shahid_ali_0 | Karachi Sindh, Pakistan | 8749 |
-| 18 | [sabihkahn](https://github.com/sabihkahn) | Sabih khan | Twominsite |  | pakistan | 7867 |
-| 19 | [SENODROOM](https://github.com/SENODROOM) | Muhammad Saad Amin | QuantumLogics |  | Lahore, Pakistan  | 7857 |
-| 20 | [tjxahmad](https://github.com/tjxahmad) | Ahmad Rasheed |  |  | Islamabad, Pakistan | 7854 |
+| 17 | [mafzalkalwardev](https://github.com/mafzalkalwardev) | Muhammad Afzal | INDUS WEB AGENCY |  | Islamabad, Pakistan | 8992 |
+| 18 | [shahidali54](https://github.com/shahidali54) | Shahid Ali |  | shahid_ali_0 | Karachi Sindh, Pakistan | 8749 |
+| 19 | [sabihkahn](https://github.com/sabihkahn) | Sabih khan | Twominsite |  | pakistan | 7867 |
+| 20 | [SENODROOM](https://github.com/SENODROOM) | Muhammad Saad Amin | QuantumLogics |  | Lahore, Pakistan  | 7857 |
