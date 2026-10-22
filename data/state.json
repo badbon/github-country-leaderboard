@@ -120669,7 +120669,8 @@
           "term": "bangalore",
           "kind": "city",
           "createdStart": "2021-06-29",
-          "createdEnd": "2021-08-13"
+          "createdEnd": "2021-08-13",
+          "page": 2
         },
         {
           "country": "india",
@@ -123968,21 +123969,21 @@
           "kept": 17
         }
       },
-      "lastDiscoveryAt": "2026-10-22T14:40:37.215Z",
+      "lastDiscoveryAt": "2026-10-22T15:06:56.057Z",
       "lastDiscoveryCompletedAt": null,
       "discoveryQueuedThrough": "2026-05-12",
-      "lastCacheChangeAt": "2026-10-22T14:40:37.215Z",
+      "lastCacheChangeAt": "2026-10-22T15:06:56.057Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 2941,
-        "enrichmentRequests": 12226,
-        "usersDiscovered": 242335,
-        "usersEnriched": 241027,
+        "searchRequests": 2942,
+        "enrichmentRequests": 12231,
+        "usersDiscovered": 242435,
+        "usersEnriched": 241127,
         "usersRefreshed": 0,
-        "usersKept": 206891
+        "usersKept": 206954
       }
     },
     "indonesia": {
@@ -235395,7 +235396,7 @@
     },
     "sierra_leone": {
       "slug": "sierra_leone",
-      "status": "discovering",
+      "status": "refreshing",
       "queue": [
         {
           "country": "sierra_leone",
@@ -236174,20 +236175,20 @@
       "lastDiscoveryAt": "2026-10-22T07:20:04.909Z",
       "lastDiscoveryCompletedAt": "2026-08-16T04:08:53.322Z",
       "discoveryQueuedThrough": "2026-07-21",
-      "lastCacheChangeAt": "2026-10-22T13:30:05.104Z",
+      "lastCacheChangeAt": "2026-10-22T15:07:02.246Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": "2026-10-22T13:30:05.104Z",
       "lastError": null,
       "stats": {
         "searchRequests": 81,
-        "enrichmentRequests": 233,
+        "enrichmentRequests": 234,
         "usersDiscovered": 629,
-        "usersEnriched": 4170,
-        "usersRefreshed": 3541,
+        "usersEnriched": 4190,
+        "usersRefreshed": 3561,
         "usersKept": 442
       },
-      "refreshCursor": 0
+      "refreshCursor": 20
     },
     "singapore": {
       "slug": "singapore",
@@ -237983,7 +237984,7 @@
       "lastError": {
         "message": "Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.",
         "status": null,
-        "at": "2026-10-22T13:30:39.978Z"
+        "at": "2026-10-22T15:07:32.371Z"
       },
       "stats": {
         "searchRequests": 687,
@@ -301115,18 +301116,18 @@
       "refreshCursor": 340
     }
   },
-  "nextCountryIndex": 82,
+  "nextCountryIndex": 101,
   "nextDeltaCountryIndex": 89,
-  "nextRefreshCountryIndex": 198,
+  "nextRefreshCountryIndex": 200,
   "nextRediscoveryCountryIndex": 0,
-  "lastRunStartedAt": "2026-10-22T14:31:11.107Z",
-  "lastRunFinishedAt": "2026-10-22T15:05:33.348Z",
+  "lastRunStartedAt": "2026-10-22T15:06:29.318Z",
+  "lastRunFinishedAt": "2026-10-22T15:07:32.433Z",
   "stats": {
-    "searchRequests": 89111,
-    "enrichmentRequests": 233761,
-    "usersDiscovered": 5757744,
-    "usersEnriched": 4408011,
-    "usersRefreshed": 748620,
-    "usersKept": 2714945
+    "searchRequests": 89112,
+    "enrichmentRequests": 233767,
+    "usersDiscovered": 5757844,
+    "usersEnriched": 4408131,
+    "usersRefreshed": 748640,
+    "usersKept": 2715008
   }
 }
