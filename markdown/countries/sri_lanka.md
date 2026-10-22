@@ -1,6 +1,6 @@
 # Sri Lanka
 
-Indexed users: 18,302
+Indexed users: 18,301
 
 | Leaderboard | Link |
 |---|---|
@@ -80,7 +80,7 @@ Indexed users: 18,302
 | 16 | [chamodshehanka](https://github.com/chamodshehanka) | Chamod Shehanka Perera | Horana, Sri Lanka | 732 |
 | 17 | [ksenginew](https://github.com/ksenginew) | Kavindu Santhusa | Sri Lanka | 716 |
 | 18 | [rohithadassanayake](https://github.com/rohithadassanayake) | ROHITHA DASSANAYAKE | SRI LANKA | 650 |
-| 19 | [shenald-dev](https://github.com/shenald-dev) | Shenal D | Sri Lanka | 648 |
-| 20 | [Ihsas01](https://github.com/Ihsas01) | Mohamed Ihsas | Colombo , Srilanka | 639 |
+| 19 | [Ihsas01](https://github.com/Ihsas01) | Mohamed Ihsas | Colombo , Srilanka | 649 |
+| 20 | [shenald-dev](https://github.com/shenald-dev) | Shenal D | Sri Lanka | 648 |
 
-Generated: 2026-10-22T22:12:34.355Z
+Generated: 2026-10-22T23:17:13.068Z
