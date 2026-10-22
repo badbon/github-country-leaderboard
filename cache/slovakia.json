@@ -44396,7 +44396,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 3,
     "createdAt": "2013-02-03T20:11:42Z"
   },
   {
@@ -44418,9 +44418,9 @@
     "location": "Bratislava, Slovakia",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 11,
-    "publicContributions": 44,
+    "followers": 9,
+    "privateContributions": 102,
+    "publicContributions": 43,
     "createdAt": "2013-11-06T12:48:21Z"
   },
   {
@@ -44431,19 +44431,19 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 0,
-    "publicContributions": 2049,
+    "privateContributions": 2,
+    "publicContributions": 1961,
     "createdAt": "2013-03-01T08:35:17Z"
   },
   {
     "login": "moebis",
     "name": "Carl Moebis",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/3595244?s=72&u=dc09eb6337facf869e12a1e17d32ca1d7c579ec9&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3595244?s=72&u=63394da189a967fada1058705e620a8ecb348657&v=4",
     "location": "Slovakia",
     "company": "moebis",
     "twitterUsername": "moebis",
-    "followers": 6,
-    "privateContributions": 492,
+    "followers": 7,
+    "privateContributions": 994,
     "publicContributions": 29,
     "createdAt": "2013-02-14T16:18:10Z"
   },
@@ -44468,7 +44468,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 8,
     "createdAt": "2013-08-26T21:09:06Z"
   },
   {
@@ -44476,7 +44476,7 @@
     "name": "Martin Majernicek",
     "avatarUrl": "https://avatars.githubusercontent.com/u/3630306?s=72&u=c1dfc9c43cb324209a6d39ee70c4222a4f92749f&v=4",
     "location": "Slovakia",
-    "company": "@nordics-io",
+    "company": "@definic ",
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
@@ -44491,7 +44491,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 928,
+    "privateContributions": 1043,
     "publicContributions": 0,
     "createdAt": "2013-06-10T09:51:21Z"
   },
@@ -44512,10 +44512,10 @@
     "name": "Marek Závacký",
     "avatarUrl": "https://avatars.githubusercontent.com/u/5151119?s=72&u=de9a5b64e52b20156e6767b9a156518d8add7567&v=4",
     "location": "Bratislava, Slovakia",
-    "company": "@experian-marketing-services ",
+    "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 350,
+    "privateContributions": 368,
     "publicContributions": 3,
     "createdAt": "2013-08-02T22:53:59Z"
   },
@@ -44533,7 +44533,7 @@
   },
   {
     "login": "peterjs",
-    "name": "",
+    "name": "Peter Somlo",
     "avatarUrl": "https://avatars.githubusercontent.com/u/3597479?s=72&v=4",
     "location": "Slovakia, EU",
     "company": "",
@@ -44576,7 +44576,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 53,
+    "publicContributions": 65,
     "createdAt": "2013-11-12T23:20:48Z"
   },
   {
@@ -44611,7 +44611,7 @@
     "company": "WeCreateWeb",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 39,
+    "privateContributions": 88,
     "publicContributions": 10,
     "createdAt": "2013-02-02T09:33:00Z"
   },
