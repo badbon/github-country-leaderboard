@@ -14,7 +14,7 @@ Indexed users: 533
 |---:|---|---|---|---:|
 | 1 | [kalungia](https://github.com/kalungia) | Abraham Kalungi | Botswana, Gaborone | 8,501 |
 | 2 | [Chalebgwa](https://github.com/Chalebgwa) | Pako Chalebgwa | Botswana,Gaborone | 8,242 |
-| 3 | [rasali535](https://github.com/rasali535) | Alpheaus Chiwaze | Botswana, Gaborone | 2,915 |
+| 3 | [rasali535](https://github.com/rasali535) | Alpheaus Chiwaze | Botswana, Gaborone | 2,961 |
 | 4 | [kmaphane](https://github.com/kmaphane) | Kenna Maphane | Maun, Botswana | 2,690 |
 | 5 | [darula-hpp](https://github.com/darula-hpp) | Olebogeng Mbedzi | Gaborone | 2,682 |
 | 6 | [tiromodibedi](https://github.com/tiromodibedi) | Tiro Modibedi | Gaborone, Botswana | 2,679 |
@@ -37,11 +37,11 @@ Indexed users: 533
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [rasali535](https://github.com/rasali535) | Alpheaus Chiwaze | Botswana, Gaborone | 2,915 |
+| 1 | [rasali535](https://github.com/rasali535) | Alpheaus Chiwaze | Botswana, Gaborone | 2,961 |
 | 2 | [BakangMonei](https://github.com/BakangMonei) | Monei Bakang | Gaborone, Botswana | 1,376 |
 | 3 | [mwmiller](https://github.com/mwmiller) | Matt Miller | Gaborone, Botswana | 1,335 |
 | 4 | [darula-hpp](https://github.com/darula-hpp) | Olebogeng Mbedzi | Gaborone | 1,197 |
-| 5 | [Todd366](https://github.com/Todd366) | BSTM Ecosystem  | Botswana 🇧🇼  | 1,055 |
+| 5 | [Todd366](https://github.com/Todd366) | BSTM Ecosystem  | Botswana 🇧🇼  | 1,058 |
 | 6 | [NjabuloJf](https://github.com/NjabuloJf) | Njabulo Jb | Botswana  | 1,014 |
 | 7 | [arnold1990-cell](https://github.com/arnold1990-cell) | Arnold Tyvern Madamombe | Gaborone Botswana | 880 |
 | 8 | [tmosimanyana](https://github.com/tmosimanyana) | Tinny Mosimanyana | Gaborone, Botswana | 818 |
@@ -83,4 +83,4 @@ Indexed users: 533
 | 19 | [BakangMonei](https://github.com/BakangMonei) | Monei Bakang | Gaborone, Botswana | 34 |
 | 20 | [kcee01](https://github.com/kcee01) | Cliff Keabetswe | Gaborone, Botswana | 33 |
 
-Generated: 2026-10-22T20:11:26.508Z
+Generated: 2026-10-22T22:30:35.920Z

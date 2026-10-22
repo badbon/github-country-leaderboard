@@ -1,6 +1,6 @@
 # Public Contributions - Andorra
 
-Generated: 2026-10-22T20:05:26.725Z
+Generated: 2026-10-22T22:26:13.987Z
 
 Users: 215
 
@@ -9,8 +9,8 @@ Users: 215
 | 1 | [ericrisco](https://github.com/ericrisco) | Eric Risco de la Torre | Andorra Telecom | erisco_and | Andorra | 48053 |
 | 2 | [niwinz](https://github.com/niwinz) | Andrey Antukh | @kaleidos & @penpot |  | Andorra | 3031 |
 | 3 | [acastellana](https://github.com/acastellana) | Albert Castellana | @yeagerai | kstellana | Andorra | 1472 |
-| 4 | [Danziger](https://github.com/Danziger) | Dani Gámez Franco | @cowprotocol, @wanderwallet | gmzcodes | Andorra | 798 |
-| 5 | [Estemobs](https://github.com/Estemobs) | estemobs | Domaine de Casinus |  | Andorra | 776 |
+| 4 | [Estemobs](https://github.com/Estemobs) | estemobs | Domaine de Casinus |  | Andorra | 809 |
+| 5 | [Danziger](https://github.com/Danziger) | Dani Gámez Franco | @cowprotocol, @wanderwallet | gmzcodes | Andorra | 798 |
 | 6 | [l3wi](https://github.com/l3wi) | Lewis Freiberg |  | lewifree | Andorra | 705 |
 | 7 | [tombrewsviews](https://github.com/tombrewsviews) | Tom Parandyk | Altramanera |  | Andorra | 700 |
 | 8 | [iuriaranda](https://github.com/iuriaranda) | iuri | @giantswarm |  | Andorra | 679 |

@@ -72,7 +72,7 @@ Indexed users: 6,869
 | 8 | [SleepTheGod](https://github.com/SleepTheGod) | Taylor Christian Newsome | Georgia | 721 |
 | 9 | [istarkov](https://github.com/istarkov) | Ivan Starkov | Turkey, UAE, Egypt, Russia, Georgia | 712 |
 | 10 | [secrary](https://github.com/secrary) | khasaia | Georgia | 700 |
-| 11 | [cwinland](https://github.com/cwinland) | Christopher Winland | Georgia | 590 |
+| 11 | [cwinland](https://github.com/cwinland) | Christopher Winland | Georgia | 588 |
 | 12 | [kristina-makalatia](https://github.com/kristina-makalatia) | Kristina | Tbilisi | 478 |
 | 13 | [enthusiastdev121](https://github.com/enthusiastdev121) | Paco✨ | Tbilisi, Georgia | 477 |
 | 14 | [rlidwka](https://github.com/rlidwka) | Alex Kocharin | Tbilisi, Georgia | 475 |
@@ -83,4 +83,4 @@ Indexed users: 6,869
 | 19 | [h-mdm](https://github.com/h-mdm) | Headwind MDM | Iustine Abuladze st. N15, Tbilisi, Georgia | 400 |
 | 20 | [jkomyno](https://github.com/jkomyno) | Alberto Schiabel | Tbilisi, Georgia | 392 |
 
-Generated: 2026-10-22T20:03:39.459Z
+Generated: 2026-10-22T22:24:08.928Z

@@ -1,6 +1,6 @@
 # Public Contributions - Cameroon
 
-Generated: 2026-10-22T20:13:35.746Z
+Generated: 2026-10-22T22:32:10.602Z
 
 Users: 1795
 
@@ -18,7 +18,7 @@ Users: 1795
 | 10 | [Chu29](https://github.com/Chu29) | Malik Chu | REBASE CODE CAMP | unku_chu | Yaounde, Cameroon | 1845 |
 | 11 | [Kynmmarshall](https://github.com/Kynmmarshall) | Kamdeu Yamdjeuson Neil Marshall |  | kynmmarshall | Cameroon | 1832 |
 | 12 | [Kanjo-Elkamira-Ndi](https://github.com/Kanjo-Elkamira-Ndi) | Alchemy Codes | DigiMark Consulting & Revive | kanjo_elkamira | Yaoundé Cameroon | 1736 |
-| 13 | [Josiasange37](https://github.com/Josiasange37) | AKANA SIGNING JOSIAS AARON | Xyber CLan | AlmightJosias | Cameroon | 1635 |
+| 13 | [Josiasange37](https://github.com/Josiasange37) | AKANA SIGNING JOSIAS AARON | XyberClan | AlmightJosias | Cameroon | 1529 |
 | 14 | [Allmight2002](https://github.com/Allmight2002) | Raymond Mbassi |  |  | Cameroon | 1487 |
 | 15 | [pythonbrad](https://github.com/pythonbrad) | Brady Fomegne | @fodydev | pythonbrad | Douala, Cameroon | 1446 |
 | 16 | [Hermann-Core](https://github.com/Hermann-Core) | Hermann Core | SkyEngPro/Adorsys | Dr_Itachii | Cameroon | 1421 |

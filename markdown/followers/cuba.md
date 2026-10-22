@@ -1,6 +1,6 @@
 # Followers - Cuba
 
-Generated: 2026-10-22T20:15:58.622Z
+Generated: 2026-10-22T22:36:09.321Z
 
 Users: 1273
 
@@ -14,7 +14,7 @@ Users: 1273
 | 6 | [rodnye](https://github.com/rodnye) | Rodny Estrada | @cujaeredsocial | rodnyecode | La Habana, Cuba | 132 |
 | 7 | [aurielfournier](https://github.com/aurielfournier) | Auriel M.V. Fournier | Illinois Natural History Survey |  | Havana, IL  | 127 |
 | 8 | [Eilen-Fonseca-Garrote](https://github.com/Eilen-Fonseca-Garrote) | Eilen Fonseca Garrote  | CUJAE  |  | La Habana, Cuba | 127 |
-| 9 | [yudivian](https://github.com/yudivian) | Yudivián Almeida Cruz | Universidad de La Habana |  | La Habana, Cuba | 115 |
+| 9 | [yudivian](https://github.com/yudivian) | Yudivián Almeida Cruz | Universidad de La Habana |  | La Habana, Cuba | 116 |
 | 10 | [vircoding](https://github.com/vircoding) | Luis Miguel Navarro |  | vircoding | La Habana, Cuba | 112 |
 | 11 | [CJPD00](https://github.com/CJPD00) | CJPD00 |  |  | Cuba | 111 |
 | 12 | [Innavoj](https://github.com/Innavoj) | Innavoj | Freelance |  | Cuba | 110 |

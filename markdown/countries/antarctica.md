@@ -53,8 +53,8 @@ Indexed users: 460
 | 14 | [DenzelPenzel](https://github.com/DenzelPenzel) |  | Antarctica | 537 |
 | 15 | [PenguinDOOM](https://github.com/PenguinDOOM) | Penguin | Antarctica, Discord, VRChat | 524 |
 | 16 | [oniaz](https://github.com/oniaz) | Omnia | antarctica | 517 |
-| 17 | [Daedalus-code](https://github.com/Daedalus-code) |  | Antarctica | 472 |
-| 18 | [VilnisGrinbergs2000](https://github.com/VilnisGrinbergs2000) |  | Antarctica | 471 |
+| 17 | [VilnisGrinbergs2000](https://github.com/VilnisGrinbergs2000) |  | Antarctica | 475 |
+| 18 | [Daedalus-code](https://github.com/Daedalus-code) |  | Antarctica | 472 |
 | 19 | [AuroraLantean](https://github.com/AuroraLantean) | AuroraLantean  | Antarctica | 460 |
 | 20 | [bestruirui](https://github.com/bestruirui) | BESTRUI | Antarctica | 441 |
 
@@ -83,4 +83,4 @@ Indexed users: 460
 | 19 | [alphaaurigae](https://github.com/alphaaurigae) | Marian Brockerhoff | Antarctica | 85 |
 | 20 | [fakeid30](https://github.com/fakeid30) | Fake ID | Antarctica | 78 |
 
-Generated: 2026-10-22T20:06:42.658Z
+Generated: 2026-10-22T22:26:41.876Z

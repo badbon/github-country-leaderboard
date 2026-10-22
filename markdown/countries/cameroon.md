@@ -49,7 +49,7 @@ Indexed users: 1,795
 | 10 | [Chu29](https://github.com/Chu29) | Malik Chu | Yaounde, Cameroon | 1,845 |
 | 11 | [Kynmmarshall](https://github.com/Kynmmarshall) | Kamdeu Yamdjeuson Neil Marshall | Cameroon | 1,832 |
 | 12 | [Kanjo-Elkamira-Ndi](https://github.com/Kanjo-Elkamira-Ndi) | Alchemy Codes | Yaoundé Cameroon | 1,736 |
-| 13 | [Josiasange37](https://github.com/Josiasange37) | AKANA SIGNING JOSIAS AARON | Cameroon | 1,635 |
+| 13 | [Josiasange37](https://github.com/Josiasange37) | AKANA SIGNING JOSIAS AARON | Cameroon | 1,529 |
 | 14 | [Allmight2002](https://github.com/Allmight2002) | Raymond Mbassi | Cameroon | 1,487 |
 | 15 | [pythonbrad](https://github.com/pythonbrad) | Brady Fomegne | Douala, Cameroon | 1,446 |
 | 16 | [Hermann-Core](https://github.com/Hermann-Core) | Hermann Core | Cameroon | 1,421 |
@@ -83,4 +83,4 @@ Indexed users: 1,795
 | 19 | [baimamboukar](https://github.com/baimamboukar) | BAIMAM BOUKAR JEAN JACQUES | Yaoundé | 170 |
 | 20 | [Suprememajor](https://github.com/Suprememajor) | Nobert Etta | Buea, Cameroon | 168 |
 
-Generated: 2026-10-22T20:13:35.746Z
+Generated: 2026-10-22T22:32:10.602Z

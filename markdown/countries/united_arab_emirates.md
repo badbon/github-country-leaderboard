@@ -46,8 +46,8 @@ Indexed users: 4,208
 | 7 | [Gaurav-Gosain](https://github.com/Gaurav-Gosain) | Gaurav Gosain | Abu Dhabi, United Arab Emirates | 6,147 |
 | 8 | [joshuajbouw](https://github.com/joshuajbouw) | Joshua J. Bouw | Dubai, United Arab Emirates | 5,062 |
 | 9 | [hhenson](https://github.com/hhenson) | Howard Henson | Abu Dhabi | 4,227 |
-| 10 | [nikolai-vysotskyi](https://github.com/nikolai-vysotskyi) | Nikolai Vysotskyi | Abu Dhabi, UAE | 3,657 |
-| 11 | [dave-hudson](https://github.com/dave-hudson) | Dave Hudson | Abu Dhabi, UAE | 3,411 |
+| 10 | [dave-hudson](https://github.com/dave-hudson) | Dave Hudson | Abu Dhabi, UAE | 3,821 |
+| 11 | [nikolai-vysotskyi](https://github.com/nikolai-vysotskyi) | Nikolai Vysotskyi | Abu Dhabi, UAE | 3,657 |
 | 12 | [maddada](https://github.com/maddada) | Mohamad Yahia | Dubai, United Arab Emirates. | 3,334 |
 | 13 | [DeadPackets](https://github.com/DeadPackets) | DeadPackets | Dubai, United Arab Emirates | 3,145 |
 | 14 | [tech-sumit](https://github.com/tech-sumit) | Sumit S. Agrawal | Dubai, United Arab Emirates | 3,114 |
@@ -83,4 +83,4 @@ Indexed users: 4,208
 | 19 | [yusufusta](https://github.com/yusufusta) | Yusuf Usta | Dubai, United Arab Emirates | 361 |
 | 20 | [garylab](https://github.com/garylab) | Gary Meng | Abu Dhabi, UAE | 360 |
 
-Generated: 2026-10-22T20:02:42.463Z
+Generated: 2026-10-22T22:20:59.034Z

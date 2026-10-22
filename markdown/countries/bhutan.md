@@ -30,7 +30,7 @@ Indexed users: 266
 | 16 | [namgaytobden](https://github.com/namgaytobden) | Namgay Tobden | Thimphu | 1,984 |
 | 17 | [khandudo](https://github.com/khandudo) | Dorji Khandu | Thimphu, Bhutan | 1,861 |
 | 18 | [JigmePwangyel](https://github.com/JigmePwangyel) | Jigme Phuntsho Wangyel | Bhutan | 1,837 |
-| 19 | [sonamtaa](https://github.com/sonamtaa) | Sonam Tashi | Babesa, Thimphu | 1,782 |
+| 19 | [sonamtaa](https://github.com/sonamtaa) | Sonam Tashi | Babesa, Thimphu | 1,775 |
 | 20 | [KinWang-2013](https://github.com/KinWang-2013) | Kinley Wangchuk | Thimphu, Bhutan | 1,764 |
 
 ## Public Contributions
@@ -83,4 +83,4 @@ Indexed users: 266
 | 19 | [TandinDev](https://github.com/TandinDev) | Tandin Tshewang | Thimphu | 23 |
 | 20 | [chimiWangchukWangdi](https://github.com/chimiWangchukWangdi) | Chimi Wangchuk Wangdi | Thimphu, Bhutan | 22 |
 
-Generated: 2026-10-22T20:11:14.166Z
+Generated: 2026-10-22T22:29:21.491Z

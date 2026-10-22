@@ -1,6 +1,6 @@
 # Public Contributions - Vietnam
 
-Generated: 2026-10-22T20:03:09.546Z
+Generated: 2026-10-22T22:22:33.807Z
 
 Users: 25830
 
@@ -21,8 +21,8 @@ Users: 25830
 | 13 | [dinosore0](https://github.com/dinosore0) | Dino |  |  | Vietnam | 9879 |
 | 14 | [mewisme](https://github.com/mewisme) | Nguyễn Mậu Minh | MeewMeew | mewthedev | BacNinh, VietNam | 8706 |
 | 15 | [KhoaDayy](https://github.com/KhoaDayy) | Hasu |  |  | Viet Nam | 7897 |
-| 16 | [TanTien18103](https://github.com/TanTien18103) | Nguyễn Hồ Tân Tiến | Avenue JSC |  | No. 3, Garden Plaza 1 Internal Street , Garden Plaza 1 Complex, Tan Hung Ward, HCMC, Viet Nam | 7096 |
-| 17 | [vantt](https://github.com/vantt) | Van Tran | Anphabe JSC |  | Ho Chi Minh city, Vietnam | 6872 |
-| 18 | [lamtran8566](https://github.com/lamtran8566) | hangvinh | Freelancer | predatorphantom | viet nam | 6592 |
-| 19 | [datlechin](https://github.com/datlechin) | Ngô Quốc Đạt |  | datlechin | Ho Chi Minh, Vietnam | 6129 |
-| 20 | [thangnm93](https://github.com/thangnm93) | Thang Nguyen |  |  | Viet Nam | 5911 |
+| 16 | [vantt](https://github.com/vantt) | Van Tran | Anphabe JSC |  | Ho Chi Minh city, Vietnam | 6872 |
+| 17 | [lamtran8566](https://github.com/lamtran8566) | hangvinh | Freelancer | predatorphantom | viet nam | 6592 |
+| 18 | [datlechin](https://github.com/datlechin) | Ngô Quốc Đạt |  | datlechin | Ho Chi Minh, Vietnam | 6129 |
+| 19 | [thangnm93](https://github.com/thangnm93) | Thang Nguyen |  |  | Viet Nam | 5911 |
+| 20 | [RyanLurn](https://github.com/RyanLurn) | Ryan Luong |  | theryanlurn | Ho Chi Minh City, Vietnam | 5407 |

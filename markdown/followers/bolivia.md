@@ -1,6 +1,6 @@
 # Followers - Bolivia
 
-Generated: 2026-10-22T20:11:18.148Z
+Generated: 2026-10-22T22:29:26.646Z
 
 Users: 1783
 
@@ -13,7 +13,7 @@ Users: 1783
 | 5 | [Snifer](https://github.com/Snifer) | Snifer | Snifer@L4b's | sniferl4bs | Bolivia | 294 |
 | 6 | [kapit4n](https://github.com/kapit4n) | Luis Arce | Freelance |  | Bolivia | 287 |
 | 7 | [SergioRibera](https://github.com/SergioRibera) | Sergio Alejandro Ribera Costa | @RustLangES | sergioribera_rs | Santa Cruz de la Sierra, Bolivia | 262 |
-| 8 | [CrisBelDev](https://github.com/CrisBelDev) | Cristian Abel |  |  | La Paz, Bolivia | 244 |
+| 8 | [CrisBelDev](https://github.com/CrisBelDev) | Cristian Abel |  |  | La Paz, Bolivia | 243 |
 | 9 | [cwpachecol](https://github.com/cwpachecol) | Carlos Walter Pacheco Lora | Universidad Mayor Real y Pontificia de San Francisco Xavier de Chuquisaca |  | Sucre - Bolivia | 220 |
 | 10 | [Pericena](https://github.com/Pericena) | Luishiño | UAGRM student | LPericena | Bolivia, Santa Cruz | 198 |
 | 11 | [rivera-ernesto](https://github.com/rivera-ernesto) | Ernesto Rivera | @PTEz  |  | La Paz, Bolivia | 188 |

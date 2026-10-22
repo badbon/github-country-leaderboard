@@ -52,11 +52,11 @@ Indexed users: 25,830
 | 13 | [dinosore0](https://github.com/dinosore0) | Dino | Vietnam | 9,879 |
 | 14 | [mewisme](https://github.com/mewisme) | Nguyễn Mậu Minh | BacNinh, VietNam | 8,706 |
 | 15 | [KhoaDayy](https://github.com/KhoaDayy) | Hasu | Viet Nam | 7,897 |
-| 16 | [TanTien18103](https://github.com/TanTien18103) | Nguyễn Hồ Tân Tiến | No. 3, Garden Plaza 1 Internal Street , Garden Plaza 1 Complex, Tan Hung Ward, HCMC, Viet Nam | 7,096 |
-| 17 | [vantt](https://github.com/vantt) | Van Tran | Ho Chi Minh city, Vietnam | 6,872 |
-| 18 | [lamtran8566](https://github.com/lamtran8566) | hangvinh | viet nam | 6,592 |
-| 19 | [datlechin](https://github.com/datlechin) | Ngô Quốc Đạt | Ho Chi Minh, Vietnam | 6,129 |
-| 20 | [thangnm93](https://github.com/thangnm93) | Thang Nguyen | Viet Nam | 5,911 |
+| 16 | [vantt](https://github.com/vantt) | Van Tran | Ho Chi Minh city, Vietnam | 6,872 |
+| 17 | [lamtran8566](https://github.com/lamtran8566) | hangvinh | viet nam | 6,592 |
+| 18 | [datlechin](https://github.com/datlechin) | Ngô Quốc Đạt | Ho Chi Minh, Vietnam | 6,129 |
+| 19 | [thangnm93](https://github.com/thangnm93) | Thang Nguyen | Viet Nam | 5,911 |
+| 20 | [RyanLurn](https://github.com/RyanLurn) | Ryan Luong | Ho Chi Minh City, Vietnam | 5,407 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 25,830
 | 19 | [paulnguyen-mn](https://github.com/paulnguyen-mn) | Paul Nguyen | HCMC, Vietnam | 1,087 |
 | 20 | [qnblackcat](https://github.com/qnblackcat) | Nguyễn Đạt | Vietnam | 1,033 |
 
-Generated: 2026-10-22T20:03:09.546Z
+Generated: 2026-10-22T22:22:33.807Z

@@ -1,6 +1,6 @@
 # Total Contributions - Cyprus
 
-Generated: 2026-10-22T20:16:49.928Z
+Generated: 2026-10-22T22:36:16.863Z
 
 Users: 2721
 
@@ -25,4 +25,4 @@ Users: 2721
 | 17 | [awrshift](https://github.com/awrshift) | Serhii Kravchenko |  | awrshift | Cyprus | 10362 |
 | 18 | [aidinb](https://github.com/aidinb) | Aidin  | Aidin |  | Cyprus | 10217 |
 | 19 | [ByczukMartin](https://github.com/ByczukMartin) | Martin B. | MBYT LTD |  | Cyprus | 9995 |
-| 20 | [cploutarchou](https://github.com/cploutarchou) | Christos Ploutarchou |  | cploutarchou | Cyprus | 9926 |
+| 20 | [siyabendoezdemir](https://github.com/siyabendoezdemir) | Siya | CIYA | siyabuilt | Cyprus | 9855 |

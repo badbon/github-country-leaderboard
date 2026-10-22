@@ -1,8 +1,8 @@
 # Public Contributions - Croatia
 
-Generated: 2026-10-22T20:15:55.286Z
+Generated: 2026-10-22T22:36:06.122Z
 
-Users: 5418
+Users: 5417
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -19,9 +19,9 @@ Users: 5418
 | 11 | [chefsale](https://github.com/chefsale) | Sandi Fatic |  |  | Croatia | 3819 |
 | 12 | [KarloSiric](https://github.com/KarloSiric) | Karlo Siric | Xylon d.o.o |  | Zagreb/Trogir | 3806 |
 | 13 | [tandarajure-crypto](https://github.com/tandarajure-crypto) | JURE TANDARA |  |  | Zagreb | 3700 |
-| 14 | [moljac](https://github.com/moljac) | moljac | Microsoft / Xamarin Inc., HolisticWare | moljacsharp | Zagreb, Croatia | 3410 |
-| 15 | [borisbabic](https://github.com/borisbabic) | Boris |  |  | Zagreb, Croatia | 3205 |
-| 16 | [davidabram](https://github.com/davidabram) | David Abram | crocoder.dev | devabram | Croatia | 2954 |
+| 14 | [davidabram](https://github.com/davidabram) | David Abram | crocoder.dev | devabram | Croatia | 3513 |
+| 15 | [moljac](https://github.com/moljac) | moljac | Microsoft / Xamarin Inc., HolisticWare | moljacsharp | Zagreb, Croatia | 3410 |
+| 16 | [borisbabic](https://github.com/borisbabic) | Boris |  |  | Zagreb, Croatia | 3205 |
 | 17 | [verona-dev](https://github.com/verona-dev) | Zoran G. Verona | Good Code |  | Croatia | 2864 |
 | 18 | [SeloSlav](https://github.com/SeloSlav) | Martin Erlic |  | SeloSlav | Zagreb | 2786 |
 | 19 | [ipaleka](https://github.com/ipaleka) | Ivica Paleka | hopemeet.me |  | Zadar, Croatia | 2627 |

@@ -1,6 +1,6 @@
 # Public Contributions - United Arab Emirates
 
-Generated: 2026-10-22T20:02:42.463Z
+Generated: 2026-10-22T22:20:59.034Z
 
 Users: 4208
 
@@ -15,8 +15,8 @@ Users: 4208
 | 7 | [Gaurav-Gosain](https://github.com/Gaurav-Gosain) | Gaurav Gosain | DMT |  | Abu Dhabi, United Arab Emirates | 6147 |
 | 8 | [joshuajbouw](https://github.com/joshuajbouw) | Joshua J. Bouw | @unicitynetwork  | joshuajbouw | Dubai, United Arab Emirates | 5062 |
 | 9 | [hhenson](https://github.com/hhenson) | Howard Henson |  |  | Abu Dhabi | 4227 |
-| 10 | [nikolai-vysotskyi](https://github.com/nikolai-vysotskyi) | Nikolai Vysotskyi | Asset Feed |  | Abu Dhabi, UAE | 3657 |
-| 11 | [dave-hudson](https://github.com/dave-hudson) | Dave Hudson |  | davehudsonio | Abu Dhabi, UAE | 3411 |
+| 10 | [dave-hudson](https://github.com/dave-hudson) | Dave Hudson |  | davehudsonio | Abu Dhabi, UAE | 3821 |
+| 11 | [nikolai-vysotskyi](https://github.com/nikolai-vysotskyi) | Nikolai Vysotskyi | Asset Feed |  | Abu Dhabi, UAE | 3657 |
 | 12 | [maddada](https://github.com/maddada) | Mohamad Yahia | @ShortPoint  |  | Dubai, United Arab Emirates. | 3334 |
 | 13 | [DeadPackets](https://github.com/DeadPackets) | DeadPackets | @CTFae  | DeadPackets | Dubai, United Arab Emirates | 3145 |
 | 14 | [tech-sumit](https://github.com/tech-sumit) | Sumit S. Agrawal |  |  | Dubai, United Arab Emirates | 3114 |

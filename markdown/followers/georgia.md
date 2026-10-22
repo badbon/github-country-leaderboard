@@ -1,6 +1,6 @@
 # Followers - Georgia
 
-Generated: 2026-10-22T20:03:39.459Z
+Generated: 2026-10-22T22:24:08.928Z
 
 Users: 6869
 
@@ -16,7 +16,7 @@ Users: 6869
 | 8 | [SleepTheGod](https://github.com/SleepTheGod) | Taylor Christian Newsome | GitBrew |  | Georgia | 721 |
 | 9 | [istarkov](https://github.com/istarkov) | Ivan Starkov |  |  | Turkey, UAE, Egypt, Russia, Georgia | 712 |
 | 10 | [secrary](https://github.com/secrary) | khasaia |  | CrossedBytes | Georgia | 700 |
-| 11 | [cwinland](https://github.com/cwinland) | Christopher Winland | @microsoft |  | Georgia | 590 |
+| 11 | [cwinland](https://github.com/cwinland) | Christopher Winland | @microsoft |  | Georgia | 588 |
 | 12 | [kristina-makalatia](https://github.com/kristina-makalatia) | Kristina |  |  | Tbilisi | 478 |
 | 13 | [enthusiastdev121](https://github.com/enthusiastdev121) | Paco✨ |  |  | Tbilisi, Georgia | 477 |
 | 14 | [rlidwka](https://github.com/rlidwka) | Alex Kocharin |  |  | Tbilisi, Georgia | 475 |

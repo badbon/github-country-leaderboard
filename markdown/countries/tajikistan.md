@@ -15,7 +15,7 @@ Indexed users: 708
 | 1 | [OdinManiac](https://github.com/OdinManiac) | George | Tajikistan | 9,350 |
 | 2 | [veyxov](https://github.com/veyxov) | Shekhov Ismoil | Tajikistan | 9,249 |
 | 3 | [rahimov-yr](https://github.com/rahimov-yr) | Yusuf Rahimov | Tajikistan | 8,117 |
-| 4 | [UMARJO9](https://github.com/UMARJO9) | Умарджон Нурмадов | Tajikistan / Khujand / Dushanbe / Kulob | 7,498 |
+| 4 | [UMARJO9](https://github.com/UMARJO9) | Умарджон Нурмадов | Tajikistan / Khujand / Dushanbe / Kulob | 7,778 |
 | 5 | [umedsondoniyor](https://github.com/umedsondoniyor) | Umedzhon Izbasarov | Tajikistan/Dushanbe | 7,021 |
 | 6 | [islom-sattorov](https://github.com/islom-sattorov) | islom-sattorov | Dushanbe, Tajikistan | 6,755 |
 | 7 | [sr-44](https://github.com/sr-44) | Shahrom | Tajikistan, Dushanbe | 6,665 |
@@ -54,9 +54,9 @@ Indexed users: 708
 | 15 | [GulomovCreative](https://github.com/GulomovCreative) | Bakhtovar Gulomov | Dushanbe, Tajikistan | 560 |
 | 16 | [Muhammadjon0204](https://github.com/Muhammadjon0204) | Muhammadjon Kosimov | Dushanbe | 523 |
 | 17 | [Roma-723](https://github.com/Roma-723) | Yusufjon | Dushanbe | 476 |
-| 18 | [llcsanjar](https://github.com/llcsanjar) | Sanjar | Tajikistan | 443 |
-| 19 | [rustamovy9](https://github.com/rustamovy9) |  | Dushanbe,Tajikistan | 429 |
-| 20 | [podshoevbunyod16-sketch](https://github.com/podshoevbunyod16-sketch) | Bunyod | Tajikistan  | 426 |
+| 18 | [komilovsg](https://github.com/komilovsg) | Shakhron Komilov | Tajikistan, Dushanbe. | 448 |
+| 19 | [llcsanjar](https://github.com/llcsanjar) | Sanjar | Tajikistan | 443 |
+| 20 | [rustamovy9](https://github.com/rustamovy9) |  | Dushanbe,Tajikistan | 429 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 708
 | 19 | [11bit](https://github.com/11bit) | Ivan Buryak | Dushanbe | 49 |
 | 20 | [Abdughafur](https://github.com/Abdughafur) | Abdughafur Khujzoda | Tajikistan | 48 |
 
-Generated: 2026-10-22T19:59:44.526Z
+Generated: 2026-10-22T22:16:02.789Z

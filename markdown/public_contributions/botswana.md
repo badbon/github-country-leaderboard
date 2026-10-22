@@ -1,16 +1,16 @@
 # Public Contributions - Botswana
 
-Generated: 2026-10-22T20:11:26.508Z
+Generated: 2026-10-22T22:30:35.920Z
 
 Users: 533
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [rasali535](https://github.com/rasali535) | Alpheaus Chiwaze | Ras Ali Labs  |  | Botswana, Gaborone | 2915 |
+| 1 | [rasali535](https://github.com/rasali535) | Alpheaus Chiwaze | Ras Ali Labs  |  | Botswana, Gaborone | 2961 |
 | 2 | [BakangMonei](https://github.com/BakangMonei) | Monei Bakang | @SwiftIQ  | MoneiBakang | Gaborone, Botswana | 1376 |
 | 3 | [mwmiller](https://github.com/mwmiller) | Matt Miller |  |  | Gaborone, Botswana | 1335 |
 | 4 | [darula-hpp](https://github.com/darula-hpp) | Olebogeng Mbedzi | Gitwork |  | Gaborone | 1197 |
-| 5 | [Todd366](https://github.com/Todd366) | BSTM Ecosystem  | Bstm |  | Botswana 🇧🇼  | 1055 |
+| 5 | [Todd366](https://github.com/Todd366) | BSTM Ecosystem  | Bstm |  | Botswana 🇧🇼  | 1058 |
 | 6 | [NjabuloJf](https://github.com/NjabuloJf) | Njabulo Jb |  |  | Botswana  | 1014 |
 | 7 | [arnold1990-cell](https://github.com/arnold1990-cell) | Arnold Tyvern Madamombe | Self-Employed |  | Gaborone Botswana | 880 |
 | 8 | [tmosimanyana](https://github.com/tmosimanyana) | Tinny Mosimanyana |  |  | Gaborone, Botswana | 818 |

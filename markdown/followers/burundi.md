@@ -1,12 +1,12 @@
 # Followers - Burundi
 
-Generated: 2026-10-22T20:12:43.805Z
+Generated: 2026-10-22T22:32:00.683Z
 
 Users: 235
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [JovinMtl](https://github.com/JovinMtl) | Nsanzumukiza Thierry | Self-Employed | Mtl_Thierry_Jov | Bujumbura, Burundi | 379 |
+| 1 | [JovinMtl](https://github.com/JovinMtl) | Nsanzumukiza Thierry | Self-Employed | Mtl_Thierry_Jov | Bujumbura, Burundi | 380 |
 | 2 | [gatarelib](https://github.com/gatarelib) | Gatare Libère | ACLIS | gatarelib | Burundi | 148 |
 | 3 | [EddyKubwimana](https://github.com/EddyKubwimana) | Eddy Kubwimana | PayVista |  | Burundi | 136 |
 | 4 | [muco-rolle](https://github.com/muco-rolle) | Trésor Muco | Leapa | mucotreso | Bujumbura, Burundi | 103 |

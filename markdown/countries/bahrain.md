@@ -15,7 +15,7 @@ Indexed users: 726
 | 1 | [EAlbasri](https://github.com/EAlbasri) | Ebrahim Albasri | Bahrain | 119,533 |
 | 2 | [a7md](https://github.com/a7md) | {ahmed} | Bahrain | 13,261 |
 | 3 | [aldoyh](https://github.com/aldoyh) | Hasan AlDoy | Al Muharraq, Bahrain | 10,273 |
-| 4 | [AlqattanDev](https://github.com/AlqattanDev) | Ali AlQattan | Manama, Bahrain | 6,830 |
+| 4 | [AlqattanDev](https://github.com/AlqattanDev) | Ali AlQattan | Manama, Bahrain | 7,764 |
 | 5 | [SalehAbdulla](https://github.com/SalehAbdulla) | SalehAbdulla | BAHRAIN | 6,394 |
 | 6 | [emadprograms](https://github.com/emadprograms) | Hamza Arshad Alam | Bahrain | 6,284 |
 | 7 | [meshahid973](https://github.com/meshahid973) | meshahid.973 | bahrain | 6,274 |
@@ -83,4 +83,4 @@ Indexed users: 726
 | 19 | [f-9t9it](https://github.com/f-9t9it) | 9T9 IT | Bahrain | 42 |
 | 20 | [masterde](https://github.com/masterde) | Baker | Bahrain, Muharraq | 41 |
 
-Generated: 2026-10-22T20:08:01.359Z
+Generated: 2026-10-22T22:27:32.858Z

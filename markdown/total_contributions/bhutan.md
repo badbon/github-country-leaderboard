@@ -1,6 +1,6 @@
 # Total Contributions - Bhutan
 
-Generated: 2026-10-22T20:11:14.166Z
+Generated: 2026-10-22T22:29:21.491Z
 
 Users: 266
 
@@ -24,5 +24,5 @@ Users: 266
 | 16 | [namgaytobden](https://github.com/namgaytobden) | Namgay Tobden | @selisebt |  | Thimphu | 1984 |
 | 17 | [khandudo](https://github.com/khandudo) | Dorji Khandu | Coala Pay(San Francisco, CA) | Dojeee1 | Thimphu, Bhutan | 1861 |
 | 18 | [JigmePwangyel](https://github.com/JigmePwangyel) | Jigme Phuntsho Wangyel | Selise Bhutan |  | Bhutan | 1837 |
-| 19 | [sonamtaa](https://github.com/sonamtaa) | Sonam Tashi | SELISE Bhutan | tashist515 | Babesa, Thimphu | 1782 |
+| 19 | [sonamtaa](https://github.com/sonamtaa) | Sonam Tashi | SELISE Bhutan | tashist515 | Babesa, Thimphu | 1775 |
 | 20 | [KinWang-2013](https://github.com/KinWang-2013) | Kinley Wangchuk |  |  | Thimphu, Bhutan | 1764 |

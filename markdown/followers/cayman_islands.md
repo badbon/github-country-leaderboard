@@ -1,12 +1,12 @@
 # Followers - Cayman Islands
 
-Generated: 2026-10-22T20:14:07.522Z
+Generated: 2026-10-22T22:33:45.840Z
 
 Users: 124
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [nodersteam](https://github.com/nodersteam) | [NODERS]TEAM | [NODERS]TEAM | NODERS_TEAM | Cayman islands | 154 |
+| 1 | [nodersteam](https://github.com/nodersteam) | [NODERS]TEAM | [NODERS]TEAM | NODERS_TEAM | Cayman islands | 153 |
 | 2 | [pjdurden](https://github.com/pjdurden) | Prajjwal Chittori | @etherfi-protocol  |  | Cayman Islands | 145 |
 | 3 | [DelaneyM](https://github.com/DelaneyM) | Delaney Manders |  |  | George Town, Cayman Islands | 98 |
 | 4 | [0xpanicError](https://github.com/0xpanicError) | Yash Saraswat | Ether.Fi | 0xpanicError | Cayman Islands | 82 |

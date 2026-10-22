@@ -14,8 +14,8 @@ Indexed users: 235
 |---:|---|---|---|---:|
 | 1 | [257lad](https://github.com/257lad) | Isaac NDAYIZEYE | Bujumbura, Burundi | 6,235 |
 | 2 | [mugar](https://github.com/mugar) | mugabo armand | Burundi | 5,074 |
-| 3 | [muco-rolle](https://github.com/muco-rolle) | Trésor Muco | Bujumbura, Burundi | 2,979 |
-| 4 | [INGANZAMARUMPU](https://github.com/INGANZAMARUMPU) | NKURUNZIZA | Bujumbura, Burundi | 2,484 |
+| 3 | [muco-rolle](https://github.com/muco-rolle) | Trésor Muco | Bujumbura, Burundi | 2,972 |
+| 4 | [INGANZAMARUMPU](https://github.com/INGANZAMARUMPU) | NKURUNZIZA | Bujumbura, Burundi | 2,492 |
 | 5 | [klauskira07](https://github.com/klauskira07) | Klaus KIRA | Burundi | 2,134 |
 | 6 | [Advaxe](https://github.com/Advaxe) | Advaxe Ndayisenga | Gitega-Burundi | 1,719 |
 | 7 | [yvartpro](https://github.com/yvartpro) | Nshemezimana Yves | Bujumbura,Burundi | 1,662 |
@@ -27,7 +27,7 @@ Indexed users: 235
 | 13 | [XPTOOLS](https://github.com/XPTOOLS) | XP TOOLS | Burundi | 1,112 |
 | 14 | [b3rking](https://github.com/b3rking) | ISHIMWE Eschyle Bersy | Burundi | 1,043 |
 | 15 | [Janeirohurley](https://github.com/Janeirohurley) | Janeiro hurley | Burundi | 1,017 |
-| 16 | [arsou2015](https://github.com/arsou2015) | Arsene Nduwayo | Burundi | 973 |
+| 16 | [arsou2015](https://github.com/arsou2015) | Arsene Nduwayo | Burundi | 972 |
 | 17 | [kidasijunior10](https://github.com/kidasijunior10) | Joachim KIDASI | Bujumbura, Burundi | 923 |
 | 18 | [VanGoethe](https://github.com/VanGoethe) | 7r322 | Burundi, Bujumbura | 918 |
 | 19 | [ArtcalO](https://github.com/ArtcalO) | The Lone Wolf | Bujumbura, BURUNDI | 909 |
@@ -62,7 +62,7 @@ Indexed users: 235
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [JovinMtl](https://github.com/JovinMtl) | Nsanzumukiza Thierry | Bujumbura, Burundi | 379 |
+| 1 | [JovinMtl](https://github.com/JovinMtl) | Nsanzumukiza Thierry | Bujumbura, Burundi | 380 |
 | 2 | [gatarelib](https://github.com/gatarelib) | Gatare Libère | Burundi | 148 |
 | 3 | [EddyKubwimana](https://github.com/EddyKubwimana) | Eddy Kubwimana | Burundi | 136 |
 | 4 | [muco-rolle](https://github.com/muco-rolle) | Trésor Muco | Bujumbura, Burundi | 103 |
@@ -83,4 +83,4 @@ Indexed users: 235
 | 19 | [tertcoder](https://github.com/tertcoder) | Bon Tertius Tuyishimire  | Bujumbura, Burundi | 35 |
 | 20 | [arsou2015](https://github.com/arsou2015) | Arsene Nduwayo | Burundi | 34 |
 
-Generated: 2026-10-22T20:12:43.805Z
+Generated: 2026-10-22T22:32:00.683Z
