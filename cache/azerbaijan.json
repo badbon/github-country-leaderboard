@@ -42234,9 +42234,9 @@
     "location": "Baku, Azerbaijan",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 66,
-    "publicContributions": 18,
+    "followers": 4,
+    "privateContributions": 67,
+    "publicContributions": 23,
     "createdAt": "2020-03-14T19:12:56Z"
   },
   {
@@ -42247,7 +42247,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 99,
+    "privateContributions": 102,
     "publicContributions": 122,
     "createdAt": "2020-07-11T11:20:24Z"
   },
@@ -42271,7 +42271,7 @@
     "company": "IDDA",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 44,
+    "privateContributions": 34,
     "publicContributions": 0,
     "createdAt": "2020-03-12T21:24:38Z"
   },
@@ -42344,7 +42344,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 108,
+    "publicContributions": 112,
     "createdAt": "2020-07-04T15:21:47Z"
   },
   {
@@ -42432,18 +42432,6 @@
     "createdAt": "2020-05-07T05:40:23Z"
   },
   {
-    "login": "aganbayev",
-    "name": "deu5ex",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/65252133?s=72&u=f5f49fe0b2d83043650170bb4e6528033a7b27d9&v=4",
-    "location": "Baku, Azerbaijan",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2020-05-12T19:20:14Z"
-  },
-  {
     "login": "Nazaralieff",
     "name": "Nazaralieff",
     "avatarUrl": "https://avatars.githubusercontent.com/u/67953949?s=72&u=de0dddfa56a757db5e534c1e69b58ac3f9780fad&v=4",
@@ -42458,13 +42446,13 @@
   {
     "login": "TheFlee",
     "name": "Firidun Hasanli",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/65340490?s=72&u=b21e3a15ec3240922377e6c4f9dd465b10b41f7a&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/65340490?s=72&u=e27ade2130a7c3f683b8c31034a5d4f89b6913e5&v=4",
     "location": "Azerbaijan, Baku",
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 196,
-    "publicContributions": 301,
+    "privateContributions": 462,
+    "publicContributions": 294,
     "createdAt": "2020-05-14T09:48:37Z"
   },
   {

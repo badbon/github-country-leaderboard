@@ -41984,7 +41984,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 2,
     "createdAt": "2024-12-19T12:39:09Z"
   },
   {
@@ -42008,7 +42008,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 3,
-    "publicContributions": 3,
+    "publicContributions": 8,
     "createdAt": "2024-10-02T00:15:20Z"
   },
   {
@@ -42020,7 +42020,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 26,
     "createdAt": "2024-08-03T03:17:54Z"
   },
   {
@@ -42032,7 +42032,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 8,
     "createdAt": "2024-08-21T22:36:32Z"
   },
   {
@@ -42044,7 +42044,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 49,
     "createdAt": "2024-10-30T23:27:02Z"
   },
   {
@@ -42054,8 +42054,8 @@
     "location": "Argentina",
     "company": "@marvik-ai",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 983,
+    "followers": 3,
+    "privateContributions": 2444,
     "publicContributions": 1,
     "createdAt": "2024-09-01T01:40:33Z"
   },
@@ -42068,7 +42068,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 6,
     "createdAt": "2024-07-26T03:46:11Z"
   },
   {
@@ -42092,7 +42092,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 48,
+    "publicContributions": 15,
     "createdAt": "2024-10-15T23:24:25Z"
   },
   {
@@ -42104,7 +42104,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 39,
+    "publicContributions": 14,
     "createdAt": "2024-10-14T15:32:51Z"
   },
   {
@@ -42114,9 +42114,9 @@
     "location": "Chaco, Argentina",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 9,
     "createdAt": "2024-08-07T01:01:50Z"
   },
   {
@@ -42126,22 +42126,10 @@
     "location": "Ciudad de Buenos Aires, Argentina",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 38,
     "createdAt": "2024-09-30T00:46:18Z"
-  },
-  {
-    "login": "OyhamburoDev",
-    "name": "Ramiro",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/178832599?s=72&u=aaa24ab9332e2dc81eeedf2c43c74812ff58deb0&v=4",
-    "location": "Buenos Aires, Argentina",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 778,
-    "publicContributions": 226,
-    "createdAt": "2024-08-19T18:51:57Z"
   },
   {
     "login": "martinMitchell05",
@@ -42152,7 +42140,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 72,
+    "publicContributions": 93,
     "createdAt": "2024-10-23T22:53:57Z"
   },
   {
@@ -42162,9 +42150,9 @@
     "location": "Argentina",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 26,
+    "followers": 5,
+    "privateContributions": 21,
+    "publicContributions": 261,
     "createdAt": "2024-10-28T02:23:27Z"
   },
   {
@@ -42175,20 +42163,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 39,
-    "publicContributions": 12,
+    "privateContributions": 37,
+    "publicContributions": 10,
     "createdAt": "2024-08-29T19:24:15Z"
   },
   {
     "login": "NachoGrudine",
     "name": "Ignacio-Grudine",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/189278295?s=72&u=d474e7eb84e745f9206df43aae75c1f5fdfd78f4&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/189278295?s=72&u=a3243f5ccc484e26045c3849d46e850a1410a2b5&v=4",
     "location": "Córdoba, Argentina",
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 3,
-    "publicContributions": 371,
+    "privateContributions": 151,
+    "publicContributions": 257,
     "createdAt": "2024-11-21T18:21:01Z"
   },
   {
@@ -42210,9 +42198,9 @@
     "location": "Buenos Aires, Argentina.",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 35,
+    "publicContributions": 40,
     "createdAt": "2024-07-06T23:07:48Z"
   },
   {

@@ -42156,18 +42156,6 @@
     "createdAt": "2021-10-27T12:14:02Z"
   },
   {
-    "login": "Wenzlik",
-    "name": "Vašek Zmrhal",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/91187268?s=72&v=4",
-    "location": "Prague",
-    "company": "",
-    "twitterUsername": "Wenzlik",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 306,
-    "createdAt": "2021-09-22T08:56:35Z"
-  },
-  {
     "login": "IvanaAMews",
     "name": "Ivana Apostolova",
     "avatarUrl": "https://avatars.githubusercontent.com/u/90836790?s=72&u=22449b5d8932134ef308340ed8f54c3e2a3b13e9&v=4",
@@ -42187,8 +42175,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 59,
-    "publicContributions": 25,
+    "privateContributions": 47,
+    "publicContributions": 0,
     "createdAt": "2021-10-09T08:52:44Z"
   },
   {
@@ -42200,7 +42188,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 38,
+    "publicContributions": 46,
     "createdAt": "2021-11-02T17:11:34Z"
   },
   {
@@ -42235,8 +42223,8 @@
     "company": "Trezor s.r.o.",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 8,
+    "privateContributions": 331,
+    "publicContributions": 11,
     "createdAt": "2021-11-26T07:03:10Z"
   },
   {
@@ -42259,8 +42247,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 593,
-    "publicContributions": 245,
+    "privateContributions": 742,
+    "publicContributions": 412,
     "createdAt": "2021-03-30T10:15:10Z"
   },
   {
@@ -42270,9 +42258,9 @@
     "location": "Prague, Cz",
     "company": "Eagle.one",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 213,
+    "publicContributions": 175,
     "createdAt": "2021-01-15T21:06:00Z"
   },
   {
@@ -42366,9 +42354,9 @@
     "location": "Prague",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 121,
+    "publicContributions": 131,
     "createdAt": "2021-04-11T20:55:05Z"
   },
   {

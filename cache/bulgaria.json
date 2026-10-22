@@ -42572,7 +42572,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 84,
+    "publicContributions": 72,
     "createdAt": "2021-06-13T13:15:17Z"
   },
   {
@@ -42582,9 +42582,9 @@
     "location": "Sofia, Bulgaria",
     "company": "SAP",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 14,
     "createdAt": "2021-09-29T07:36:09Z"
   },
   {
@@ -42594,7 +42594,7 @@
     "location": "Varna, Bulgaria",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 9,
     "createdAt": "2021-07-26T07:04:29Z"
@@ -42607,8 +42607,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 2,
+    "privateContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2021-01-11T14:28:16Z"
   },
   {
@@ -42644,7 +42644,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 5,
     "createdAt": "2021-10-10T12:16:58Z"
   },
   {
@@ -42656,7 +42656,7 @@
     "twitterUsername": "StefaniKocheva",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 2,
     "createdAt": "2021-01-12T17:06:28Z"
   },
   {
@@ -42673,14 +42673,14 @@
   },
   {
     "login": "nikbgn",
-    "name": "Nikolai",
+    "name": "Nikolay",
     "avatarUrl": "https://avatars.githubusercontent.com/u/91220582?s=72&u=9235349ccbc9782ee0caa74d739c97358f662c6b&v=4",
     "location": "Bulgaria",
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 0,
+    "privateContributions": 47,
+    "publicContributions": 20,
     "createdAt": "2021-09-22T19:07:11Z"
   },
   {
@@ -42714,9 +42714,9 @@
     "location": "Eindhoven, Netherlands / Sofia, Bulgaria",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 806,
-    "publicContributions": 1,
+    "followers": 6,
+    "privateContributions": 1086,
+    "publicContributions": 2,
     "createdAt": "2021-11-16T11:07:20Z"
   },
   {
@@ -42738,9 +42738,9 @@
     "location": "Plovdiv, Bulgaria",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 80,
+    "publicContributions": 76,
     "createdAt": "2021-11-07T17:03:15Z"
   },
   {
@@ -42751,7 +42751,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 17,
+    "privateContributions": 15,
     "publicContributions": 0,
     "createdAt": "2021-09-25T22:38:12Z"
   },
@@ -42781,14 +42781,14 @@
   },
   {
     "login": "MihailTs",
-    "name": "MihailTs",
+    "name": "Mihail Tsvetkov",
     "avatarUrl": "https://avatars.githubusercontent.com/u/83388837?s=72&u=f3d1069499a2e82704a4269d4563208db45dfe90&v=4",
     "location": "Sofia / St. Zagora, Bulgaria",
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 64,
-    "publicContributions": 120,
+    "privateContributions": 59,
+    "publicContributions": 116,
     "createdAt": "2021-04-29T05:22:01Z"
   },
   {

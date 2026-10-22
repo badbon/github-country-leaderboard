@@ -42536,7 +42536,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2015-11-09T10:49:02Z"
   },
   {
@@ -42548,7 +42548,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 1,
     "createdAt": "2015-02-02T16:59:33Z"
   },
   {
@@ -42642,9 +42642,9 @@
     "location": "Croatia, Rijeka",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 77,
     "createdAt": "2015-04-16T19:55:47Z"
   },
   {
@@ -42656,7 +42656,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 1,
     "createdAt": "2015-10-20T22:01:36Z"
   },
   {
@@ -42688,11 +42688,11 @@
     "name": "Ivan Stepanić",
     "avatarUrl": "https://avatars.githubusercontent.com/u/11096292?s=72&u=4eed4e4dd688a880a940b7c6134758328a336b42&v=4",
     "location": "@Zagreb, Croatia",
-    "company": "",
+    "company": "LION base",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 1443,
-    "publicContributions": 2,
+    "followers": 3,
+    "privateContributions": 1568,
+    "publicContributions": 0,
     "createdAt": "2015-02-20T20:27:35Z"
   },
   {
@@ -42714,9 +42714,9 @@
     "location": "Croatia",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 14,
     "createdAt": "2015-09-05T13:37:52Z"
   },
   {

@@ -41862,7 +41862,7 @@
     "location": "Uruguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 13,
+    "followers": 14,
     "privateContributions": 0,
     "publicContributions": 13,
     "createdAt": "2017-08-09T01:49:44Z"
@@ -41875,8 +41875,8 @@
     "company": "tryolabs",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 4303,
-    "publicContributions": 221,
+    "privateContributions": 9454,
+    "publicContributions": 248,
     "createdAt": "2017-10-28T15:47:48Z"
   },
   {
@@ -41887,7 +41887,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 370,
+    "privateContributions": 426,
     "publicContributions": 0,
     "createdAt": "2017-04-17T14:52:06Z"
   },
@@ -41898,9 +41898,9 @@
     "location": "Uruguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 4,
-    "publicContributions": 33,
+    "followers": 10,
+    "privateContributions": 110,
+    "publicContributions": 51,
     "createdAt": "2017-07-24T13:35:44Z"
   },
   {
@@ -41923,8 +41923,8 @@
     "company": "",
     "twitterUsername": "kgelpes",
     "followers": 11,
-    "privateContributions": 2829,
-    "publicContributions": 244,
+    "privateContributions": 4068,
+    "publicContributions": 877,
     "createdAt": "2017-08-29T02:16:49Z"
   },
   {
@@ -41934,9 +41934,9 @@
     "location": "Uruguay 🇺🇾",
     "company": "UdelaR · MIDES · ANEP · komorebibonsai.uy",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 363,
-    "publicContributions": 313,
+    "followers": 14,
+    "privateContributions": 769,
+    "publicContributions": 1281,
     "createdAt": "2017-03-07T01:36:16Z"
   },
   {
@@ -41947,8 +41947,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 26,
-    "publicContributions": 10,
+    "privateContributions": 40,
+    "publicContributions": 35,
     "createdAt": "2017-09-28T18:25:08Z"
   },
   {
@@ -41968,11 +41968,11 @@
     "name": "Francisco Bongiovanni",
     "avatarUrl": "https://avatars.githubusercontent.com/u/26557483?s=72&v=4",
     "location": "Montevideo, Uruguay",
-    "company": "",
-    "twitterUsername": "",
+    "company": "Guildara",
+    "twitterUsername": "frantssb",
     "followers": 11,
-    "privateContributions": 1681,
-    "publicContributions": 102,
+    "privateContributions": 2543,
+    "publicContributions": 469,
     "createdAt": "2017-03-20T22:49:53Z"
   },
   {
@@ -41982,9 +41982,9 @@
     "location": "Uruguay",
     "company": "",
     "twitterUsername": "yoet92",
-    "followers": 11,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 4,
     "createdAt": "2017-06-10T13:20:20Z"
   },
   {
@@ -41995,7 +41995,7 @@
     "company": "DevOps Engineer",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 38,
+    "privateContributions": 37,
     "publicContributions": 3,
     "createdAt": "2017-06-30T15:02:30Z"
   },
@@ -42008,7 +42008,7 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 41,
     "createdAt": "2017-03-21T13:31:57Z"
   },
   {
@@ -42018,9 +42018,9 @@
     "location": "Uruguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 35,
-    "publicContributions": 31,
+    "followers": 12,
+    "privateContributions": 39,
+    "publicContributions": 40,
     "createdAt": "2017-01-31T06:07:44Z"
   },
   {
@@ -42043,8 +42043,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 1036,
-    "publicContributions": 313,
+    "privateContributions": 948,
+    "publicContributions": 309,
     "createdAt": "2017-05-19T04:08:35Z"
   },
   {
@@ -42055,7 +42055,7 @@
     "company": "@eagerworks",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 1096,
+    "privateContributions": 1049,
     "publicContributions": 0,
     "createdAt": "2017-03-26T16:27:25Z"
   },
@@ -42068,19 +42068,19 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 9,
-    "publicContributions": 99,
+    "publicContributions": 485,
     "createdAt": "2017-06-08T16:59:58Z"
   },
   {
     "login": "renerpdev",
     "name": "René Ricardo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/32307287?s=72&u=c97443caa569d3c89ec7b682bb3a71201183dc22&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/32307287?s=72&u=b876b16c33f72466afb47bd92ecbc5e8be7aad46&v=4",
     "location": "Uruguay",
-    "company": "",
+    "company": "RENERPDEV",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 5989,
-    "publicContributions": 251,
+    "privateContributions": 6735,
+    "publicContributions": 353,
     "createdAt": "2017-09-26T17:04:33Z"
   },
   {
@@ -42091,8 +42091,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 5455,
-    "publicContributions": 1415,
+    "privateContributions": 6739,
+    "publicContributions": 1599,
     "createdAt": "2017-02-21T13:16:39Z"
   },
   {

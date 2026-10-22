@@ -7663,7 +7663,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1688,
+    "privateContributions": 1772,
     "publicContributions": 0,
     "createdAt": "2021-04-27T06:30:33Z"
   },
@@ -7675,8 +7675,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 314,
-    "publicContributions": 16,
+    "privateContributions": 288,
+    "publicContributions": 15,
     "createdAt": "2021-05-04T09:31:35Z"
   },
   {
@@ -7687,7 +7687,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 515,
+    "privateContributions": 534,
     "publicContributions": 4,
     "createdAt": "2021-11-20T09:55:20Z"
   },
@@ -7735,7 +7735,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 7,
+    "privateContributions": 5,
     "publicContributions": 0,
     "createdAt": "2021-07-29T22:28:22Z"
   },
@@ -7750,18 +7750,6 @@
     "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2021-06-19T17:37:30Z"
-  },
-  {
-    "login": "pepershukov",
-    "name": "Petr Pershukov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/80306288?s=72&u=dc1bd724c4245e40c6fc3abb562280f197188e96&v=4",
-    "location": "Cyprus",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 5,
-    "createdAt": "2021-03-09T05:12:43Z"
   },
   {
     "login": "KirillSchmidt",
