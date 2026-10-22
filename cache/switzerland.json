@@ -43760,7 +43760,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 3,
     "createdAt": "2021-01-19T15:52:58Z"
   },
   {
@@ -43796,7 +43796,7 @@
     "twitterUsername": "sanclro",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2021-06-23T08:49:16Z"
   },
   {
@@ -43832,7 +43832,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 3,
     "createdAt": "2021-06-14T07:33:16Z"
   },
   {
@@ -43844,7 +43844,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2021-05-06T11:50:52Z"
   },
   {
@@ -43902,9 +43902,9 @@
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 622,
-    "publicContributions": 26,
+    "followers": 3,
+    "privateContributions": 604,
+    "publicContributions": 12,
     "createdAt": "2021-02-23T18:45:05Z"
   },
   {
@@ -43970,11 +43970,11 @@
   {
     "login": "Abravius",
     "name": "Quentin Rion",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/78375544?s=72&u=31f459e3d3d5963ed1e92ca22e49e187a90d9b57&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/78375544?s=72&v=4",
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-02-01T17:42:49Z"
@@ -43986,9 +43986,9 @@
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 1056,
+    "publicContributions": 1001,
     "createdAt": "2021-01-16T17:26:03Z"
   },
   {
