@@ -41718,19 +41718,19 @@
     "location": "Ireland",
     "company": "@elastic",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 457,
-    "publicContributions": 329,
+    "followers": 10,
+    "privateContributions": 468,
+    "publicContributions": 502,
     "createdAt": "2021-10-11T08:09:48Z"
   },
   {
     "login": "seanlodhammar",
     "name": "Sean Lodhammar",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/88111973?s=72&u=2b2eaaa9bb991b12dac3073cd4c0ad02cea9e06c&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/88111973?s=72&u=83ecfcef6734274e63a1bc43d0bd1f99c774b975&v=4",
     "location": "Ireland",
     "company": "",
     "twitterUsername": "seanlodhammar",
-    "followers": 8,
+    "followers": 7,
     "privateContributions": 23,
     "publicContributions": 0,
     "createdAt": "2021-07-28T19:47:49Z"
@@ -41744,7 +41744,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2021-11-27T01:05:33Z"
   },
   {
@@ -41768,7 +41768,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 103,
+    "publicContributions": 105,
     "createdAt": "2021-11-27T10:59:56Z"
   },
   {
@@ -41792,7 +41792,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 56,
+    "publicContributions": 66,
     "createdAt": "2021-07-28T09:30:38Z"
   },
   {
@@ -41815,8 +41815,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 0,
-    "publicContributions": 0,
+    "privateContributions": 2,
+    "publicContributions": 23,
     "createdAt": "2021-07-13T16:49:41Z"
   },
   {
@@ -41852,7 +41852,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 8,
     "createdAt": "2021-10-05T10:41:20Z"
   },
   {
@@ -41876,7 +41876,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 0,
     "createdAt": "2021-09-23T08:32:42Z"
   },
   {
@@ -41887,7 +41887,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 221,
+    "privateContributions": 223,
     "publicContributions": 99,
     "createdAt": "2021-09-29T08:03:03Z"
   },
@@ -41898,9 +41898,9 @@
     "location": "Dublin, Ireland",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 30,
+    "publicContributions": 35,
     "createdAt": "2021-10-19T02:05:38Z"
   },
   {
@@ -41912,7 +41912,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 1,
     "createdAt": "2021-09-28T22:01:04Z"
   },
   {
@@ -41935,8 +41935,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 91,
-    "publicContributions": 232,
+    "privateContributions": 73,
+    "publicContributions": 196,
     "createdAt": "2021-09-24T18:06:59Z"
   },
   {
@@ -41947,8 +41947,8 @@
     "company": "MongoDB",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 141,
-    "publicContributions": 173,
+    "privateContributions": 170,
+    "publicContributions": 506,
     "createdAt": "2021-12-24T17:36:27Z"
   },
   {
