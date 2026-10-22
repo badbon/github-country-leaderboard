@@ -45210,7 +45210,7 @@
     "location": "Jordan",
     "company": "@hoopoecommerce",
     "twitterUsername": "talalus",
-    "followers": 68,
+    "followers": 70,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-02-25T02:48:34Z"
@@ -45222,7 +45222,7 @@
     "location": "Amman - Jordan",
     "company": "",
     "twitterUsername": "",
-    "followers": 67,
+    "followers": 68,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-06-19T10:23:57Z"
@@ -45234,9 +45234,9 @@
     "location": "Amman, Jordan",
     "company": "Expedia Group (ex-Amazon)",
     "twitterUsername": "mohnoor94",
-    "followers": 61,
-    "privateContributions": 228,
-    "publicContributions": 514,
+    "followers": 63,
+    "privateContributions": 334,
+    "publicContributions": 914,
     "createdAt": "2013-10-08T00:28:23Z"
   },
   {
@@ -45246,9 +45246,9 @@
     "location": "Amman-Jordan",
     "company": "@DominoKit ",
     "twitterUsername": "AhmadBawaneh1",
-    "followers": 57,
-    "privateContributions": 606,
-    "publicContributions": 314,
+    "followers": 58,
+    "privateContributions": 1857,
+    "publicContributions": 375,
     "createdAt": "2013-09-04T06:54:18Z"
   },
   {
@@ -45258,9 +45258,9 @@
     "location": "Amman, Jordan",
     "company": "",
     "twitterUsername": "",
-    "followers": 51,
-    "privateContributions": 1837,
-    "publicContributions": 260,
+    "followers": 56,
+    "privateContributions": 3284,
+    "publicContributions": 247,
     "createdAt": "2013-01-03T09:44:22Z"
   },
   {
@@ -45282,9 +45282,9 @@
     "location": "Jordan",
     "company": "Full stack Engineer",
     "twitterUsername": "AlkhryshaM",
-    "followers": 32,
-    "privateContributions": 1452,
-    "publicContributions": 128,
+    "followers": 33,
+    "privateContributions": 1486,
+    "publicContributions": 3,
     "createdAt": "2013-08-21T07:21:54Z"
   },
   {
@@ -45294,9 +45294,9 @@
     "location": "Amman, Jordan",
     "company": "",
     "twitterUsername": "",
-    "followers": 32,
-    "privateContributions": 746,
-    "publicContributions": 0,
+    "followers": 30,
+    "privateContributions": 1048,
+    "publicContributions": 1,
     "createdAt": "2013-07-23T08:27:39Z"
   },
   {
@@ -45318,9 +45318,9 @@
     "location": "Amman, Jordan",
     "company": "",
     "twitterUsername": "",
-    "followers": 24,
+    "followers": 25,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 0,
     "createdAt": "2013-09-30T12:55:11Z"
   },
   {
@@ -45330,7 +45330,7 @@
     "location": "Amman, Jordan",
     "company": "",
     "twitterUsername": "",
-    "followers": 16,
+    "followers": 17,
     "privateContributions": 0,
     "publicContributions": 13,
     "createdAt": "2013-11-12T08:37:57Z"
@@ -45344,20 +45344,8 @@
     "twitterUsername": "",
     "followers": 15,
     "privateContributions": 0,
-    "publicContributions": 374,
+    "publicContributions": 910,
     "createdAt": "2013-05-23T07:51:41Z"
-  },
-  {
-    "login": "hashem78",
-    "name": "Hashem Alayan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/4525797?s=72&u=ea6ffe91aa5ea2e92f62f8d7a58d811ff4f1b7c0&v=4",
-    "location": "Jordan",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 15,
-    "privateContributions": 0,
-    "publicContributions": 199,
-    "createdAt": "2013-05-25T08:57:02Z"
   },
   {
     "login": "hatemsweileh",
@@ -45367,8 +45355,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 15,
-    "privateContributions": 144,
-    "publicContributions": 2,
+    "privateContributions": 51,
+    "publicContributions": 64,
     "createdAt": "2013-12-23T18:51:43Z"
   },
   {
@@ -45390,9 +45378,9 @@
     "location": "Amman-Jordan",
     "company": "",
     "twitterUsername": "",
-    "followers": 14,
-    "privateContributions": 1,
-    "publicContributions": 3,
+    "followers": 15,
+    "privateContributions": 392,
+    "publicContributions": 200,
     "createdAt": "2013-12-17T10:03:09Z"
   },
   {
@@ -45402,9 +45390,9 @@
     "location": "Jordan",
     "company": "Microsoft",
     "twitterUsername": "",
-    "followers": 14,
+    "followers": 18,
     "privateContributions": 73,
-    "publicContributions": 272,
+    "publicContributions": 243,
     "createdAt": "2013-11-09T22:45:21Z"
   },
   {
@@ -45427,7 +45415,7 @@
     "company": "SpaceX",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 0,
+    "privateContributions": 118,
     "publicContributions": 0,
     "createdAt": "2013-05-09T14:19:51Z"
   },

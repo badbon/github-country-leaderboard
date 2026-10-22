@@ -44360,7 +44360,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 30,
+    "publicContributions": 28,
     "createdAt": "2021-08-05T21:52:50Z"
   },
   {
@@ -44372,7 +44372,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 34,
     "createdAt": "2021-07-06T21:31:15Z"
   },
   {
@@ -44420,7 +44420,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 44,
+    "publicContributions": 37,
     "createdAt": "2021-08-19T08:42:09Z"
   },
   {
@@ -44431,8 +44431,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 50,
-    "publicContributions": 167,
+    "privateContributions": 32,
+    "publicContributions": 441,
     "createdAt": "2021-12-25T13:39:42Z"
   },
   {
@@ -44480,7 +44480,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 0,
     "createdAt": "2021-10-30T19:36:21Z"
   },
   {
@@ -44496,25 +44496,13 @@
     "createdAt": "2021-12-20T03:08:08Z"
   },
   {
-    "login": "mykbit",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/96201443?s=72&v=4",
-    "location": "Dublin, Ireland",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 38,
-    "publicContributions": 4,
-    "createdAt": "2021-12-15T18:14:32Z"
-  },
-  {
     "login": "martinmcconnell",
     "name": "Martin McConnell",
     "avatarUrl": "https://avatars.githubusercontent.com/u/93916311?s=72&u=6d971e5abf46688bf85256ad283233cdb19fde3c&v=4",
     "location": "Ireland",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-11-08T10:59:49Z"
@@ -44551,8 +44539,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 22,
-    "publicContributions": 3,
+    "privateContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2021-09-16T19:37:32Z"
   },
   {
@@ -44563,7 +44551,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 122,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-09-19T04:47:37Z"
   },
