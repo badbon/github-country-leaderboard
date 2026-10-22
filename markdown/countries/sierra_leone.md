@@ -12,14 +12,14 @@ Indexed users: 442
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [alphashaw](https://github.com/alphashaw) | Alpha Shaw | Sierra Leone | 8,757 |
+| 1 | [alphashaw](https://github.com/alphashaw) | Alpha Shaw | Sierra Leone | 8,819 |
 | 2 | [butagreeza](https://github.com/butagreeza) | Francis Bangura | Freetown. Sierra Leone | 6,155 |
 | 3 | [ibrahimgeorgefoday](https://github.com/ibrahimgeorgefoday) | Ibrahim George Foday | Sierra Leone, West Africa | 5,618 |
 | 4 | [saidubundukamara](https://github.com/saidubundukamara) | Saidu | Sierra Leone | 5,475 |
 | 5 | [walonCode](https://github.com/walonCode) | Mohamed Lamin Walon Jalloh | Sierra Leone | 5,444 |
 | 6 | [BarrieLAJ](https://github.com/BarrieLAJ) | Alhaji Abubakarr Barrie | Freetown, Sierra Leone | 4,041 |
 | 7 | [bnjox](https://github.com/bnjox) | Ben | Sierra Leone | 3,673 |
-| 8 | [eponkratova](https://github.com/eponkratova) | Eka Ponkratova | Sierra Leone | 3,630 |
+| 8 | [eponkratova](https://github.com/eponkratova) | Eka Ponkratova | Sierra Leone | 3,670 |
 | 9 | [EmmanuelKeifala](https://github.com/EmmanuelKeifala) | Emmanuel Keifala | Freetown, Sierra Leone	 | 3,539 |
 | 10 | [HawaKallon](https://github.com/HawaKallon) | Hawa Kallon | Sierra Leone | 2,868 |
 | 11 | [TheLoneWulf-WA](https://github.com/TheLoneWulf-WA) | Theodore Rogers | Freetown, Sierra Leone | 2,612 |
@@ -77,10 +77,10 @@ Indexed users: 442
 | 13 | [Johnblesson](https://github.com/Johnblesson) | John Blesson-Rowe | Sierra Leone | 41 |
 | 14 | [rolandeke](https://github.com/rolandeke) | Chinedum Roland Eke | Freetown, Sierra Leone | 39 |
 | 15 | [click2tman](https://github.com/click2tman) | Tamba Lamin | Freetown | 38 |
-| 16 | [francisguchie](https://github.com/francisguchie) | Guchie | Freetown | 33 |
+| 16 | [francisguchie](https://github.com/francisguchie) | Guchie | Freetown | 32 |
 | 17 | [pythonnelson](https://github.com/pythonnelson) | Isaac NSB Kargbo | Freetown | 32 |
 | 18 | [alphashaw](https://github.com/alphashaw) | Alpha Shaw | Sierra Leone | 29 |
 | 19 | [IshmaelKargbo](https://github.com/IshmaelKargbo) | Ishmael Kargbo | Sierra Leone | 29 |
 | 20 | [Ifuhad622](https://github.com/Ifuhad622) | Ibraihim Fuhad Suma | Freetown, Sierra Leone, West Africa | 26 |
 
-Generated: 2026-10-22T06:07:28.142Z
+Generated: 2026-10-22T07:48:18.214Z

@@ -1,6 +1,6 @@
 # Followers - Sierra Leone
 
-Generated: 2026-10-22T06:07:28.142Z
+Generated: 2026-10-22T07:48:18.214Z
 
 Users: 442
 
@@ -21,7 +21,7 @@ Users: 442
 | 13 | [Johnblesson](https://github.com/Johnblesson) | John Blesson-Rowe | CEO @ Kharis pro-tech | BlessonRowe | Sierra Leone | 41 |
 | 14 | [rolandeke](https://github.com/rolandeke) | Chinedum Roland Eke | IMO TECH SOLUTIONS | EkeRoland | Freetown, Sierra Leone | 39 |
 | 15 | [click2tman](https://github.com/click2tman) | Tamba Lamin | TpISENT |  | Freetown | 38 |
-| 16 | [francisguchie](https://github.com/francisguchie) | Guchie | https://guchietech.com | FrancisGuchie | Freetown | 33 |
+| 16 | [francisguchie](https://github.com/francisguchie) | Guchie | https://guchietech.com | FrancisGuchie | Freetown | 32 |
 | 17 | [pythonnelson](https://github.com/pythonnelson) | Isaac NSB Kargbo | CIO and Founder of Oversight Innovative Technologies | pythonnelson | Freetown | 32 |
 | 18 | [alphashaw](https://github.com/alphashaw) | Alpha Shaw | @monimesl @monime-lab @fixsl |  | Sierra Leone | 29 |
 | 19 | [IshmaelKargbo](https://github.com/IshmaelKargbo) | Ishmael Kargbo | Moriba SL | ishodev | Sierra Leone | 29 |
