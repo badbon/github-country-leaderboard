@@ -43088,19 +43088,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2024-12-08T09:33:19Z"
   },
   {
     "login": "amir2m",
     "name": "Amir Mohammad Moradi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/191044792?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/191044792?s=72&u=d3785fda1fb3843b8a2202fab794ddfbedfc7cf4&v=4",
     "location": "Iran , Esfahan",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 44,
-    "publicContributions": 5,
+    "followers": 3,
+    "privateContributions": 68,
+    "publicContributions": 6,
     "createdAt": "2024-12-08T18:48:35Z"
   },
   {
@@ -43146,9 +43146,9 @@
     "location": "iran , guilan ",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 6,
     "createdAt": "2024-10-13T11:00:37Z"
   },
   {
@@ -43158,7 +43158,7 @@
     "location": "Iran",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-07-19T19:42:46Z"
@@ -43170,22 +43170,10 @@
     "location": "Iran, Isfahan",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 123,
+    "followers": 2,
+    "privateContributions": 137,
+    "publicContributions": 96,
     "createdAt": "2024-08-21T04:54:33Z"
-  },
-  {
-    "login": "mr-arbab",
-    "name": "Mehrad Arbab",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/189953818?s=72&u=6d10cad8b8727cceb156a78f77496ed7b17ca28c&v=4",
-    "location": "Iran",
-    "company": "LocalDesk",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 3,
-    "createdAt": "2024-11-28T06:03:24Z"
   },
   {
     "login": "Pooyro",
@@ -43208,7 +43196,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 21,
     "createdAt": "2021-04-04T18:52:12Z"
   },
   {
@@ -43220,7 +43208,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 0,
     "createdAt": "2021-07-04T13:05:32Z"
   },
   {
@@ -43230,9 +43218,9 @@
     "location": "Iran, Hormozgan,Qeshm island",
     "company": "",
     "twitterUsername": "edris__ranjbar",
-    "followers": 104,
-    "privateContributions": 900,
-    "publicContributions": 268,
+    "followers": 112,
+    "privateContributions": 685,
+    "publicContributions": 872,
     "createdAt": "2017-12-10T13:03:52Z"
   },
   {
@@ -43242,9 +43230,9 @@
     "location": "Tehran",
     "company": "",
     "twitterUsername": "",
-    "followers": 768,
+    "followers": 764,
     "privateContributions": 0,
-    "publicContributions": 124,
+    "publicContributions": 48,
     "createdAt": "2024-12-23T10:36:55Z"
   },
   {
@@ -43254,8 +43242,8 @@
     "location": "Tehran",
     "company": "",
     "twitterUsername": "",
-    "followers": 444,
-    "privateContributions": 9,
+    "followers": 429,
+    "privateContributions": 8,
     "publicContributions": 0,
     "createdAt": "2024-04-28T15:10:36Z"
   },
@@ -43266,7 +43254,7 @@
     "location": "tehran",
     "company": "",
     "twitterUsername": "",
-    "followers": 363,
+    "followers": 359,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-07-22T08:56:56Z"
@@ -43278,7 +43266,7 @@
     "location": "Persian,Tehran",
     "company": "",
     "twitterUsername": "MohsenTajiik",
-    "followers": 317,
+    "followers": 309,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-05-25T04:14:37Z"
@@ -43292,7 +43280,7 @@
     "twitterUsername": "",
     "followers": 282,
     "privateContributions": 0,
-    "publicContributions": 828,
+    "publicContributions": 626,
     "createdAt": "2024-01-15T10:47:13Z"
   },
   {
@@ -43302,9 +43290,9 @@
     "location": "Tehran",
     "company": "AlborzSamaneh",
     "twitterUsername": "",
-    "followers": 269,
-    "privateContributions": 561,
-    "publicContributions": 22,
+    "followers": 256,
+    "privateContributions": 932,
+    "publicContributions": 56,
     "createdAt": "2024-05-24T11:52:29Z"
   },
   {

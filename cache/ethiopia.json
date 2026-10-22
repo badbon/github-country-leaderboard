@@ -43627,8 +43627,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 42,
-    "publicContributions": 64,
+    "privateContributions": 21,
+    "publicContributions": 53,
     "createdAt": "2022-05-09T12:01:09Z"
   },
   {
@@ -43639,8 +43639,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 343,
-    "publicContributions": 106,
+    "privateContributions": 409,
+    "publicContributions": 126,
     "createdAt": "2022-02-03T19:06:12Z"
   },
   {
@@ -43663,7 +43663,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 233,
+    "privateContributions": 192,
     "publicContributions": 3,
     "createdAt": "2022-03-14T04:34:14Z"
   },
@@ -43675,7 +43675,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 3,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-06-03T06:57:24Z"
   },
@@ -43688,7 +43688,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 50,
+    "publicContributions": 41,
     "createdAt": "2022-05-08T10:35:24Z"
   },
   {
@@ -43699,7 +43699,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 436,
+    "privateContributions": 430,
     "publicContributions": 0,
     "createdAt": "2022-03-24T05:26:29Z"
   },
@@ -43724,7 +43724,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 40,
+    "publicContributions": 41,
     "createdAt": "2022-02-15T07:46:09Z"
   },
   {
@@ -43760,7 +43760,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 44,
+    "publicContributions": 9,
     "createdAt": "2022-02-24T14:01:13Z"
   },
   {
@@ -43770,7 +43770,7 @@
     "location": "Ethiopia ",
     "company": "Bushuman ICT Interprese",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2022-08-20T19:05:29Z"
@@ -43782,7 +43782,7 @@
     "location": "Ethiopia ",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-08-12T01:15:07Z"
@@ -43796,7 +43796,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 14,
     "createdAt": "2022-08-13T12:33:15Z"
   },
   {
@@ -43820,7 +43820,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 12,
-    "publicContributions": 8,
+    "publicContributions": 9,
     "createdAt": "2022-11-14T12:54:04Z"
   },
   {
@@ -43834,18 +43834,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-12-13T17:59:18Z"
-  },
-  {
-    "login": "yonasNigussu",
-    "name": "yonas",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/101415773?s=72&u=795045f8dd413ade887f71b13be1f754a061f6d3&v=4",
-    "location": "Addis Ababa, Ethiopia ",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2022-03-11T15:45:18Z"
   },
   {
     "login": "woldese",
