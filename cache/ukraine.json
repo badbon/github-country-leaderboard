@@ -41995,8 +41995,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 1225,
-    "publicContributions": 398,
+    "privateContributions": 1360,
+    "publicContributions": 229,
     "createdAt": "2023-11-21T08:06:53Z"
   },
   {
@@ -42020,7 +42020,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 17,
     "createdAt": "2023-11-09T10:36:02Z"
   },
   {
@@ -42032,7 +42032,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 14,
     "createdAt": "2023-07-15T20:00:12Z"
   },
   {
@@ -42042,9 +42042,9 @@
     "location": "Kyiv, Ukraine",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 0,
+    "followers": 4,
+    "privateContributions": 61,
+    "publicContributions": 1,
     "createdAt": "2023-11-30T10:16:55Z"
   },
   {
@@ -42092,7 +42092,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 0,
     "createdAt": "2023-08-10T09:12:14Z"
   },
   {
@@ -42104,7 +42104,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 80,
+    "publicContributions": 71,
     "createdAt": "2023-09-23T17:49:53Z"
   },
   {
@@ -42115,7 +42115,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 3557,
+    "privateContributions": 4502,
     "publicContributions": 2,
     "createdAt": "2023-08-24T11:15:58Z"
   },
@@ -42134,13 +42134,13 @@
   {
     "login": "creonluv",
     "name": "Ivan Shlikhutka",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/144326045?s=72&u=545471ccf228316f748830adef2fa2fd9da9d176&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/144326045?s=72&u=0adb78977010eb63ca3cd6badd12a50034c09d87&v=4",
     "location": "Kyiv, Ukraine",
     "company": "Growly",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 1106,
-    "publicContributions": 5,
+    "followers": 6,
+    "privateContributions": 1085,
+    "publicContributions": 6,
     "createdAt": "2023-09-07T08:25:32Z"
   },
   {
@@ -42164,7 +42164,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 184,
+    "publicContributions": 155,
     "createdAt": "2023-11-01T16:03:31Z"
   },
   {
@@ -42175,8 +42175,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 451,
-    "publicContributions": 189,
+    "privateContributions": 357,
+    "publicContributions": 175,
     "createdAt": "2023-07-01T04:07:42Z"
   },
   {
@@ -42186,9 +42186,9 @@
     "location": "Ukraine",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 8,
     "createdAt": "2023-07-18T13:36:35Z"
   },
   {
@@ -42210,22 +42210,10 @@
     "location": "Ukraine",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 82,
+    "publicContributions": 68,
     "createdAt": "2023-09-10T15:50:18Z"
-  },
-  {
-    "login": "SachaBorodkin",
-    "name": "Borodkin Oleksandr Stepanovych",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/150446572?s=72&u=aa17ce52d4ae28f2ac5cf5b854dcdfd41c2494b5&v=4",
-    "location": "Kyiv City Psychoneurological Hospital No. 3, 8 Vokzalna Street, Hlevakha, Kyiv Oblast, Ukraine",
-    "company": "+",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 343,
-    "publicContributions": 342,
-    "createdAt": "2023-11-10T12:51:51Z"
   },
   {
     "login": "NiukaloTetiana",

@@ -42091,7 +42091,7 @@
     "company": "A Brand New Company",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 162,
+    "privateContributions": 155,
     "publicContributions": 16,
     "createdAt": "2022-11-25T15:34:09Z"
   },
@@ -42102,9 +42102,9 @@
     "location": "Bangkok, Thailand",
     "company": "Srinakharinwirot University",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 272,
-    "publicContributions": 205,
+    "followers": 1,
+    "privateContributions": 515,
+    "publicContributions": 195,
     "createdAt": "2022-12-12T14:47:08Z"
   },
   {
@@ -42128,7 +42128,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 6,
     "createdAt": "2022-07-11T07:35:24Z"
   },
   {
@@ -42164,7 +42164,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 16,
     "createdAt": "2022-08-18T05:11:11Z"
   },
   {
@@ -42176,7 +42176,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 88,
     "createdAt": "2022-08-06T05:10:00Z"
   },
   {
@@ -42188,7 +42188,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 1,
     "createdAt": "2022-07-13T00:18:03Z"
   },
   {
@@ -42224,7 +42224,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 52,
+    "publicContributions": 56,
     "createdAt": "2022-09-21T10:16:13Z"
   },
   {
@@ -42236,7 +42236,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 8,
     "createdAt": "2022-10-11T18:55:04Z"
   },
   {
@@ -42248,7 +42248,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 22,
     "createdAt": "2022-10-22T02:26:11Z"
   },
   {
@@ -42260,32 +42260,20 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 0,
     "createdAt": "2022-11-14T10:57:12Z"
   },
   {
     "login": "SupawitSaelim",
-    "name": "",
+    "name": "Khaooat",
     "avatarUrl": "https://avatars.githubusercontent.com/u/109452955?s=72&u=bbb0fbbedb9efed35640d07a17706a99559ba62a&v=4",
     "location": "Thailand / Bangkok",
-    "company": "KMUTNB",
+    "company": "SCB",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 119,
+    "publicContributions": 128,
     "createdAt": "2022-07-17T06:09:34Z"
-  },
-  {
-    "login": "minyjae",
-    "name": "Jiradate Oratai",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/120163272?s=72&u=8eb187b06142da611f0b171e2aa3421f0a487ac8&v=4",
-    "location": "Chiang Mai, Thailand",
-    "company": "Chiang Mai University",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 333,
-    "createdAt": "2022-12-09T06:38:01Z"
   },
   {
     "login": "zskyxxx",
@@ -42307,7 +42295,7 @@
     "company": "WeAreVolt",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 3048,
+    "privateContributions": 6270,
     "publicContributions": 0,
     "createdAt": "2022-07-08T17:02:18Z"
   },
@@ -42320,7 +42308,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2022-11-19T21:30:32Z"
   },
   {

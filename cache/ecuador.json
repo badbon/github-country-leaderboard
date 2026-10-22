@@ -42710,13 +42710,13 @@
   {
     "login": "dan0788",
     "name": "Daniel Ayala",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/26464513?s=72&u=247a751ebb5b5218e178c47abc91ec8b9073ae13&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/26464513?s=72&u=c6c1b3f5a9ca9cfb2475a17a98fdd73aae27a328&v=4",
     "location": "Ecuador",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 32,
+    "publicContributions": 23,
     "createdAt": "2017-03-16T15:37:11Z"
   },
   {
@@ -42726,9 +42726,9 @@
     "location": "Quito",
     "company": "EPN",
     "twitterUsername": "",
-    "followers": 38,
+    "followers": 40,
     "privateContributions": 0,
-    "publicContributions": 30,
+    "publicContributions": 26,
     "createdAt": "2017-04-04T19:31:41Z"
   },
   {
@@ -42739,8 +42739,8 @@
     "company": "Maestro",
     "twitterUsername": "",
     "followers": 26,
-    "privateContributions": 79,
-    "publicContributions": 40,
+    "privateContributions": 52,
+    "publicContributions": 0,
     "createdAt": "2017-03-28T02:39:40Z"
   },
   {
@@ -42762,9 +42762,9 @@
     "location": "Quito",
     "company": "",
     "twitterUsername": "jhonguacho97",
-    "followers": 7,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 128,
+    "publicContributions": 25,
     "createdAt": "2017-08-09T20:08:05Z"
   },
   {
@@ -42776,7 +42776,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 9,
     "createdAt": "2017-11-17T23:48:57Z"
   },
   {
@@ -42786,22 +42786,10 @@
     "location": "Quito",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 277,
-    "publicContributions": 86,
+    "followers": 7,
+    "privateContributions": 471,
+    "publicContributions": 130,
     "createdAt": "2017-02-27T22:01:53Z"
-  },
-  {
-    "login": "kaugm",
-    "name": "Karl Martin",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/24843335?s=72&u=df2c96eae819f0ad2a2d5cb0af552cb1427edb3a&v=4",
-    "location": "Quito, EC",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 191,
-    "createdAt": "2016-12-30T15:03:34Z"
   },
   {
     "login": "GiovannyMoncayo",
@@ -42812,7 +42800,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 2,
     "createdAt": "2017-05-09T13:28:04Z"
   },
   {
@@ -42824,7 +42812,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 7,
     "createdAt": "2017-04-19T17:36:21Z"
   },
   {
@@ -42836,7 +42824,7 @@
     "twitterUsername": "jgnavas95",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2017-03-20T16:39:31Z"
   },
   {
@@ -42847,8 +42835,8 @@
     "company": "Option2health",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 149,
-    "publicContributions": 108,
+    "privateContributions": 144,
+    "publicContributions": 132,
     "createdAt": "2017-04-25T17:31:25Z"
   },
   {
@@ -42871,7 +42859,7 @@
     "company": "Evaluar",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1054,
+    "privateContributions": 959,
     "publicContributions": 0,
     "createdAt": "2017-09-20T08:16:40Z"
   },
@@ -42908,7 +42896,7 @@
     "twitterUsername": "kbsgFelipaho",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2017-03-25T17:43:46Z"
   },
   {
@@ -42932,7 +42920,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 5,
     "createdAt": "2017-09-07T00:40:14Z"
   },
   {
@@ -42943,7 +42931,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 136,
+    "privateContributions": 153,
     "publicContributions": 1,
     "createdAt": "2017-10-05T18:24:11Z"
   },
