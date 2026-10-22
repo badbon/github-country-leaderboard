@@ -1,6 +1,6 @@
 # Total Contributions - Syria
 
-Generated: 2026-10-22T16:15:18.554Z
+Generated: 2026-10-22T18:12:05.327Z
 
 Users: 1478
 
@@ -22,7 +22,7 @@ Users: 1478
 | 14 | [CodeFather-xe](https://github.com/CodeFather-xe) | CodeFather-xe | Co-Founder of Kernel Crew |  | Syria | 2136 |
 | 15 | [nachawati](https://github.com/nachawati) | Mohamad Omar Nachawati |  |  | Damascus, Syria | 2088 |
 | 16 | [MahmoudSlameh](https://github.com/MahmoudSlameh) | Mahmoud Salameh | Nashra |  | Damascus | 2028 |
-| 17 | [muhammedelsami](https://github.com/muhammedelsami) | Muhammed Elşami | DetaySoft |  | Sivas, Syria | 1999 |
-| 18 | [Hakam-aldeen-Kh](https://github.com/Hakam-aldeen-Kh) | Hakam aldeen Alkhadraa | Sham Logix |  | Syria | 1882 |
-| 19 | [kutaibah](https://github.com/kutaibah) | Kutaibah Halima |  |  | Damascus, Syria | 1873 |
-| 20 | [Yazan-Alrefaai](https://github.com/Yazan-Alrefaai) | Yazan Alrefaai | SoftRemit |  | Damascus, Syria | 1866 |
+| 17 | [Yazan-Alrefaai](https://github.com/Yazan-Alrefaai) | Yazan Alrefaai | SoftRemit |  | Damascus, Syria | 2002 |
+| 18 | [muhammedelsami](https://github.com/muhammedelsami) | Muhammed Elşami | DetaySoft |  | Sivas, Syria | 1999 |
+| 19 | [Hakam-aldeen-Kh](https://github.com/Hakam-aldeen-Kh) | Hakam aldeen Alkhadraa | Sham Logix |  | Syria | 1882 |
+| 20 | [kutaibah](https://github.com/kutaibah) | Kutaibah Halima |  |  | Damascus, Syria | 1873 |
