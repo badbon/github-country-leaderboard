@@ -42848,20 +42848,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2019-02-27T02:16:39Z"
-  },
-  {
-    "login": "williamjohanson",
-    "name": "William Johanson",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/55722876?s=72&u=698b39c06295ce8c83400b4f3325b8424036f8ed&v=4",
-    "location": "New Zealand",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
     "publicContributions": 1,
-    "createdAt": "2019-09-24T00:54:40Z"
+    "createdAt": "2019-02-27T02:16:39Z"
   },
   {
     "login": "skycalamity",
@@ -42943,7 +42931,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 5,
+    "privateContributions": 1,
     "publicContributions": 0,
     "createdAt": "2019-09-26T15:29:22Z"
   },
@@ -42956,7 +42944,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 8,
-    "publicContributions": 430,
+    "publicContributions": 399,
     "createdAt": "2019-09-11T23:05:18Z"
   },
   {
@@ -43016,7 +43004,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 6,
     "createdAt": "2019-05-21T05:33:30Z"
   },
   {
@@ -43027,8 +43015,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1374,
-    "publicContributions": 173,
+    "privateContributions": 1506,
+    "publicContributions": 95,
     "createdAt": "2019-06-25T07:21:27Z"
   },
   {
@@ -43051,7 +43039,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 2,
+    "privateContributions": 16,
     "publicContributions": 0,
     "createdAt": "2019-08-21T07:51:46Z"
   },

@@ -42470,13 +42470,13 @@
   {
     "login": "bit-of-a-git",
     "name": "David O'Connor",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/92552641?s=72&u=0fd64a9afaab2cb117c5ecf90a4d0983590b7bd2&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/92552641?s=72&v=4",
     "location": "Ireland",
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 183,
-    "publicContributions": 105,
+    "privateContributions": 377,
+    "publicContributions": 94,
     "createdAt": "2021-10-14T22:01:58Z"
   },
   {
@@ -42487,8 +42487,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 9,
+    "privateContributions": 4,
+    "publicContributions": 74,
     "createdAt": "2021-12-07T21:02:00Z"
   },
   {
@@ -42498,9 +42498,9 @@
     "location": "Waterford, Ireland",
     "company": "@red-hat-data-services ",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 43,
-    "publicContributions": 193,
+    "followers": 7,
+    "privateContributions": 4,
+    "publicContributions": 190,
     "createdAt": "2021-09-30T10:21:23Z"
   },
   {
@@ -42546,9 +42546,9 @@
     "location": "Cork, Ireland",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 47,
+    "publicContributions": 84,
     "createdAt": "2021-09-26T22:03:00Z"
   },
   {
@@ -42558,7 +42558,7 @@
     "location": "Dublin, Ireland",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 9,
     "createdAt": "2021-08-30T14:53:03Z"
@@ -42571,7 +42571,7 @@
     "company": "CeADAR, Ireland's Centre for AI",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 1,
+    "privateContributions": 2,
     "publicContributions": 0,
     "createdAt": "2021-09-17T13:37:58Z"
   },
@@ -42596,19 +42596,19 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 5,
     "createdAt": "2021-08-12T09:46:31Z"
   },
   {
     "login": "gitshiven",
-    "name": "Shiven Singh ",
+    "name": "Shiven Singh",
     "avatarUrl": "https://avatars.githubusercontent.com/u/91045496?s=72&u=25461aab5d63856f3fc16f3f89bd24a0d98857f6&v=4",
     "location": "Dublin, Ireland",
     "company": "UCD",
     "twitterUsername": "amshiven",
     "followers": 4,
-    "privateContributions": 130,
-    "publicContributions": 465,
+    "privateContributions": 253,
+    "publicContributions": 590,
     "createdAt": "2021-09-20T05:13:37Z"
   },
   {
@@ -42618,9 +42618,9 @@
     "location": "Dublin, Ireland",
     "company": "AJEE IT SOLUTIONS",
     "twitterUsername": "IamAdeventure",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 34,
+    "publicContributions": 12,
     "createdAt": "2021-06-30T23:56:06Z"
   },
   {
@@ -42668,7 +42668,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 43,
+    "publicContributions": 56,
     "createdAt": "2021-07-22T19:23:16Z"
   },
   {
