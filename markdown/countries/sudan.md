@@ -12,7 +12,7 @@ Indexed users: 727
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [mustafa-online](https://github.com/mustafa-online) | Mustafa Online | Khartoum, Sudan | 10,343 |
+| 1 | [mustafa-online](https://github.com/mustafa-online) | Mustafa Online | Khartoum, Sudan | 10,266 |
 | 2 | [TheYass1n](https://github.com/TheYass1n) | Yassin Hussein | Sudan | 7,863 |
 | 3 | [EMAD77](https://github.com/EMAD77) | Emad777 | Sudan | 6,336 |
 | 4 | [Mohammed-Moniem](https://github.com/Mohammed-Moniem) | Mohammed-Moniem | Farog Diyab St, Mamora, Khartoum, Sudan | 5,369 |
@@ -73,7 +73,7 @@ Indexed users: 727
 | 9 | [phr3nzy](https://github.com/phr3nzy) | Osama Adil | Sudan | 90 |
 | 10 | [the94air](https://github.com/the94air) | Abdalla Arbab | Khartoum, Sudan | 76 |
 | 11 | [saeedo201](https://github.com/saeedo201) | Saeed Ahmeed | sudan | 74 |
-| 12 | [vzool](https://github.com/vzool) | Abdelaziz Elrashed | Sudan | 63 |
+| 12 | [vzool](https://github.com/vzool) | Abdelaziz Elrashed | Sudan | 66 |
 | 13 | [attaryz](https://github.com/attaryz) | Abdullah Ali | Khartoum, Sudan | 59 |
 | 14 | [HussamAdil](https://github.com/HussamAdil) | Hussam Adil | Sudan | 58 |
 | 15 | [Amar-Dev1](https://github.com/Amar-Dev1) | Amar Ibrahim | Sudan, Khartoum | 57 |
@@ -83,4 +83,4 @@ Indexed users: 727
 | 19 | [kabaros](https://github.com/kabaros) | Mozafar | Khartoum / Glasgow | 51 |
 | 20 | [obaaa8](https://github.com/obaaa8) | محمود عبدالسميع التوم | sudan | 49 |
 
-Generated: 2026-10-22T07:51:47.881Z
+Generated: 2026-10-22T09:29:46.946Z

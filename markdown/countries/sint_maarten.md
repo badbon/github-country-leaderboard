@@ -36,7 +36,7 @@ Indexed users: 7
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [jamiesonbates](https://github.com/jamiesonbates) | Jamieson Bates | Philipsburg, MT | 15 |
+| 1 | [jamiesonbates](https://github.com/jamiesonbates) | Jamieson Bates | Philipsburg, MT | 14 |
 | 2 | [SxMAbel](https://github.com/SxMAbel) | SXM_ABEL | Philipsburg, Sint Maarten | 9 |
 | 3 | [docboy52](https://github.com/docboy52) | John Hubler | Philipsburg, PA 16866 | 3 |
 | 4 | [repro-code](https://github.com/repro-code) | Maarten Plonk | Sint Maarten | 3 |
@@ -44,4 +44,4 @@ Indexed users: 7
 | 6 | [FranLopezPando](https://github.com/FranLopezPando) | Francisco José Löpez Pando | Philipsburg | 1 |
 | 7 | [statgovsx](https://github.com/statgovsx) | STAT | Sint Maarten | 1 |
 
-Generated: 2026-10-22T07:50:10.344Z
+Generated: 2026-10-22T09:27:38.056Z
