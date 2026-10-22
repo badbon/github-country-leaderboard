@@ -44190,7 +44190,7 @@
     "location": "Athens, Greece",
     "company": "Athens University of Economics and Business (AUEB)",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 10,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-11-22T18:14:36Z"
@@ -44227,21 +44227,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 246,
+    "privateContributions": 255,
     "publicContributions": 32,
     "createdAt": "2021-11-20T21:10:41Z"
-  },
-  {
-    "login": "manosmiras",
-    "name": "Manos Miras",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/91184113?s=72&u=8da23b1e3f83471ba60916075f3187d3e11fafdf&v=4",
-    "location": "Athens, Greece",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 420,
-    "publicContributions": 147,
-    "createdAt": "2021-09-22T07:57:06Z"
   },
   {
     "login": "alexkoulakos",
@@ -44263,7 +44251,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 230,
+    "privateContributions": 233,
     "publicContributions": 6,
     "createdAt": "2021-09-18T18:25:07Z"
   },
@@ -44274,7 +44262,7 @@
     "location": "Athens, Greece",
     "company": "Euronet Worldwide - ECS",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 9,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2021-08-27T19:42:46Z"
@@ -44286,9 +44274,9 @@
     "location": "Athens, Greece",
     "company": "National Technical University of Athens",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 47,
-    "publicContributions": 17,
+    "followers": 10,
+    "privateContributions": 37,
+    "publicContributions": 18,
     "createdAt": "2021-11-09T22:54:44Z"
   },
   {
@@ -44312,7 +44300,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 0,
     "createdAt": "2021-07-19T18:58:38Z"
   },
   {
@@ -44360,7 +44348,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 352,
+    "publicContributions": 355,
     "createdAt": "2021-11-26T00:12:32Z"
   },
   {
@@ -44371,7 +44359,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 39,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-10-15T07:49:13Z"
   },
@@ -44382,9 +44370,9 @@
     "location": "Athens, Greece",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 2,
     "createdAt": "2021-07-01T13:43:55Z"
   },
   {
@@ -44395,7 +44383,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 42,
+    "privateContributions": 54,
     "publicContributions": 5,
     "createdAt": "2021-09-02T19:58:33Z"
   },
@@ -44407,8 +44395,8 @@
     "company": "IKnowHealth S.A.",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 335,
-    "publicContributions": 62,
+    "privateContributions": 608,
+    "publicContributions": 64,
     "createdAt": "2021-08-31T22:11:04Z"
   },
   {
