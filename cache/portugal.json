@@ -41900,7 +41900,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 1,
     "createdAt": "2023-07-24T08:29:17Z"
   },
   {
@@ -41912,7 +41912,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 20,
     "createdAt": "2023-06-30T15:55:01Z"
   },
   {
@@ -41924,19 +41924,19 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 45,
+    "publicContributions": 43,
     "createdAt": "2023-07-16T19:07:07Z"
   },
   {
     "login": "bpcosta1",
     "name": "Bruno Costa",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/147192633?s=72&u=096967f5f2c65546ebbb2bb800275ad4553ea92d&v=4",
-    "location": "Portugal",
-    "company": "ISEP",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/147192633?s=72&u=e63d5adb95c3e90672e38f28ae65c86128992310&v=4",
+    "location": "Porto, Portugal",
+    "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 135,
-    "publicContributions": 85,
+    "followers": 4,
+    "privateContributions": 159,
+    "publicContributions": 93,
     "createdAt": "2023-10-06T17:53:58Z"
   },
   {
@@ -41947,7 +41947,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 286,
+    "privateContributions": 272,
     "publicContributions": 12,
     "createdAt": "2023-07-15T15:17:51Z"
   },
@@ -41958,9 +41958,9 @@
     "location": "Portugal, Coimbra, Lousã.",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 12,
     "createdAt": "2023-07-10T17:42:25Z"
   },
   {
@@ -41970,9 +41970,9 @@
     "location": "Portugal",
     "company": "PDMFC",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 0,
     "createdAt": "2023-12-03T16:44:13Z"
   },
   {
@@ -41995,8 +41995,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 24,
-    "publicContributions": 175,
+    "privateContributions": 12,
+    "publicContributions": 347,
     "createdAt": "2023-07-24T13:59:58Z"
   },
   {
@@ -42006,8 +42006,8 @@
     "location": "Lisbon, Portugal",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 197,
+    "followers": 3,
+    "privateContributions": 257,
     "publicContributions": 0,
     "createdAt": "2023-11-21T23:58:12Z"
   },
@@ -42030,9 +42030,9 @@
     "location": "Portugal",
     "company": "Student",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 38,
+    "publicContributions": 44,
     "createdAt": "2023-10-31T12:00:17Z"
   },
   {
@@ -42043,8 +42043,8 @@
     "company": "42 Porto",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 65,
-    "publicContributions": 228,
+    "privateContributions": 70,
+    "publicContributions": 197,
     "createdAt": "2023-12-14T10:32:43Z"
   },
   {
@@ -42055,7 +42055,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1256,
+    "privateContributions": 1379,
     "publicContributions": 0,
     "createdAt": "2023-10-30T17:18:02Z"
   },
@@ -42068,7 +42068,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 33,
     "createdAt": "2023-11-02T16:14:13Z"
   },
   {
@@ -42115,7 +42115,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 2567,
+    "privateContributions": 2268,
     "publicContributions": 1,
     "createdAt": "2023-10-24T12:40:27Z"
   },
