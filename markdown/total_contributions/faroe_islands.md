@@ -1,13 +1,13 @@
 # Total Contributions - Faroe Islands
 
-Generated: 2026-10-22T12:42:45.090Z
+Generated: 2026-10-22T14:19:24.304Z
 
 Users: 68
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [olavurellefsen](https://github.com/olavurellefsen) | Olavur Ellefsen | @Flowcore-io |  | Faroe Islands | 16035 |
-| 2 | [kruseio](https://github.com/kruseio) | Ragnar Kruse |  | kruseio | Faroe Islands | 6568 |
+| 2 | [kruseio](https://github.com/kruseio) | Ragnar Kruse |  | kruseio | Faroe Islands | 6611 |
 | 3 | [jbiskur](https://github.com/jbiskur) | Julius á Rógvi Biskopstø |  |  | Faroe Islands | 5320 |
 | 4 | [argilzar](https://github.com/argilzar) | Brian Bischoff | @globe-tracker @flowcore-io  | argilzar | Faroe Islands | 3431 |
 | 5 | [RudiPersson](https://github.com/RudiPersson) | Rudi Persson | Poul Michelsen |  | Tórshavn, Faroe Islands | 2804 |

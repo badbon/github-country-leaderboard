@@ -1,6 +1,6 @@
 # Public Contributions - Greenland
 
-Generated: 2026-10-22T12:45:21.107Z
+Generated: 2026-10-22T14:25:20.936Z
 
 Users: 58
 
@@ -13,10 +13,10 @@ Users: 58
 | 5 | [WingWR](https://github.com/WingWR) |  | Tongji University |  | Greenland | 536 |
 | 6 | [johan-ejstrud](https://github.com/johan-ejstrud) | Johan Ejstrud | Ejstrud Consulting |  | Nuuk, Greenland | 275 |
 | 7 | [pressure679](https://github.com/pressure679) | Vittus Mikiassen | Greenland Business School |  | Greenland | 237 |
-| 8 | [Pocket-sys32](https://github.com/Pocket-sys32) | Manraj Thandi |  |  | Greenland | 223 |
+| 8 | [Pocket-sys32](https://github.com/Pocket-sys32) | Manraj Thandi |  |  | Greenland | 224 |
 | 9 | [aredigg](https://github.com/aredigg) | Are Digranes |  |  | Grønland, Oslo, Norge | 173 |
 | 10 | [adarshdev2](https://github.com/adarshdev2) | ADARSH  |  |  | Greenland | 157 |
-| 11 | [FandyHanz](https://github.com/FandyHanz) | General Tenzen Yamauchi | Early Warning System Glacier Greenland Search And Rescue |  | Fjord Dickson, Greenland | 148 |
+| 11 | [FandyHanz](https://github.com/FandyHanz) | General Tenzen Yamauchi | Early Warning System Glacier Greenland Search And Rescue |  | Fjord Dickson, Greenland | 149 |
 | 12 | [hexia7230](https://github.com/hexia7230) | Terashita |  |  | Kaffeklubben Island, Greenland | 129 |
 | 13 | [panyster](https://github.com/panyster) | Pany | Tusass  |  | Greenland | 121 |
 | 14 | [PennyHow](https://github.com/PennyHow) | Penny How | GEUS |  | Nuuk, Greenland | 99 |

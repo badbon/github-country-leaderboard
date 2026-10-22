@@ -16,7 +16,7 @@ Indexed users: 79
 | 2 | [khanmomodou101](https://github.com/khanmomodou101) | Momodou khan | Gambia | 3,226 |
 | 3 | [ZaynSaul](https://github.com/ZaynSaul) | Saul Zayn | Gambia/Banjul | 1,618 |
 | 4 | [cyberdavinci](https://github.com/cyberdavinci) | CyberDavinci | Gambia | 1,342 |
-| 5 | [laminbarrow](https://github.com/laminbarrow) | Lamin Barrow | Bakoteh, Gambia | 1,317 |
+| 5 | [laminbarrow](https://github.com/laminbarrow) | Lamin Barrow | Bakoteh, Gambia | 1,329 |
 | 6 | [ndimzKM](https://github.com/ndimzKM) | Alieu Ndimbalane | Gambia | 1,302 |
 | 7 | [harunaabaldeh](https://github.com/harunaabaldeh) | Haruna A Baldeh | Banjul | 840 |
 | 8 | [Juniorbarry26](https://github.com/Juniorbarry26) | Alsainey Barry | Gambia | 720 |
@@ -83,4 +83,4 @@ Indexed users: 79
 | 19 | [nyassian](https://github.com/nyassian) | EBRIMA NYASSI | Banjul,THE GAMBIA | 8 |
 | 20 | [cyberdavinci](https://github.com/cyberdavinci) | CyberDavinci | Gambia | 7 |
 
-Generated: 2026-10-22T12:44:00.612Z
+Generated: 2026-10-22T14:23:30.161Z

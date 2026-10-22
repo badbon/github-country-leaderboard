@@ -1,6 +1,6 @@
 # Followers - Faroe Islands
 
-Generated: 2026-10-22T12:42:45.090Z
+Generated: 2026-10-22T14:19:24.304Z
 
 Users: 68
 

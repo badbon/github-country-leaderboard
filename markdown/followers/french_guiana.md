@@ -1,6 +1,6 @@
 # Followers - French Guiana
 
-Generated: 2026-10-22T12:43:49.105Z
+Generated: 2026-10-22T14:21:16.538Z
 
 Users: 36
 
@@ -15,12 +15,12 @@ Users: 36
 | 7 | [jjcabon](https://github.com/jjcabon) | JJCABON | EDUCATION NATIONALE |  | CAYENNE | 7 |
 | 8 | [LunettoRandall](https://github.com/LunettoRandall) | Randall Lunetto |  | randyLunetto | French Amazonia (Guyane) | 7 |
 | 9 | [qlspanda17](https://github.com/qlspanda17) | SONY PAME | université de Guyane |  |  French Guiana | 6 |
-| 10 | [baffy-req](https://github.com/baffy-req) | Thomas Boyd DDS |  |  | Amandafurt, French Guiana | 5 |
-| 11 | [finnpiatscheck](https://github.com/finnpiatscheck) | Finn Piatscheck | UMR EcoFoG |  | Kourou, French Guiana | 5 |
-| 12 | [highotutorn](https://github.com/highotutorn) | Dawn Alexander |  |  | Elizabethberg, French Guiana | 5 |
-| 13 | [yuhuhb](https://github.com/yuhuhb) | Nidiquim Nukidu |  |  | Guiana | 5 |
-| 14 | [Zakanawaner](https://github.com/Zakanawaner) | MarioCarballo |  | NnzaksnN | Kourou, French Guiana | 5 |
-| 15 | [ArianeMirabel](https://github.com/ArianeMirabel) | Ariane Mirabel | Cirad |  | French Guiana | 4 |
+| 10 | [finnpiatscheck](https://github.com/finnpiatscheck) | Finn Piatscheck | UMR EcoFoG |  | Kourou, French Guiana | 5 |
+| 11 | [highotutorn](https://github.com/highotutorn) | Dawn Alexander |  |  | Elizabethberg, French Guiana | 5 |
+| 12 | [yuhuhb](https://github.com/yuhuhb) | Nidiquim Nukidu |  |  | Guiana | 5 |
+| 13 | [Zakanawaner](https://github.com/Zakanawaner) | MarioCarballo |  | NnzaksnN | Kourou, French Guiana | 5 |
+| 14 | [ArianeMirabel](https://github.com/ArianeMirabel) | Ariane Mirabel | Cirad |  | French Guiana | 4 |
+| 15 | [baffy-req](https://github.com/baffy-req) | Thomas Boyd DDS |  |  | Amandafurt, French Guiana | 4 |
 | 16 | [Dunvii](https://github.com/Dunvii) | Dunvii |  | arzurloik973 | French Guiana | 4 |
 | 17 | [PaulZer](https://github.com/PaulZer) | Paul Bouchillou | CartoTech |  | French Guiana | 4 |
 | 18 | [adrienandrem](https://github.com/adrienandrem) | Adrien |  |  | Cayenne | 3 |

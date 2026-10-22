@@ -14,7 +14,7 @@ Indexed users: 23
 |---:|---|---|---|---:|
 | 1 | [laurentino-dev](https://github.com/laurentino-dev) | Laurentino | Bissau | 2,784 |
 | 2 | [atchutchi](https://github.com/atchutchi) | Atchutchi B Ferreira | Bissau, Guinea-Bissau | 700 |
-| 3 | [HobaiGuigui](https://github.com/HobaiGuigui) | Mr.Hobai | Bissau | 271 |
+| 3 | [HobaiGuigui](https://github.com/HobaiGuigui) | Mr.Hobai | Bissau | 272 |
 | 4 | [Samsilva64](https://github.com/Samsilva64) | Daltonsilva | Guiné-bissau/pluba | 64 |
 | 5 | [baribucirio-cmyk](https://github.com/baribucirio-cmyk) | Bucirio Bari | Guiné-Bissau | 57 |
 | 6 | [Eduildo](https://github.com/Eduildo) | eduildo | Bissau, Guiné-Bissau | 19 |
@@ -83,4 +83,4 @@ Indexed users: 23
 | 19 | [Marcio966-boop](https://github.com/Marcio966-boop) | Marcio  | Guinea-Bissau  | 1 |
 | 20 | [NB-17-lab](https://github.com/NB-17-lab) | NB | Bissau/Guiné-Bissau | 1 |
 
-Generated: 2026-10-22T12:48:58.526Z
+Generated: 2026-10-22T14:27:26.540Z
