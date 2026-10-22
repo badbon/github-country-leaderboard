@@ -1,8 +1,8 @@
 # Public Contributions - Malaysia
 
-Generated: 2026-10-22T15:53:09.463Z
+Generated: 2026-10-22T17:47:49.751Z
 
-Users: 11780
+Users: 11779
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -19,10 +19,10 @@ Users: 11780
 | 11 | [ariffazil](https://github.com/ariffazil) | ariffazil |  | ArifFazil90 | Malaysia | 6700 |
 | 12 | [afandiazmi](https://github.com/afandiazmi) | Afandi Azmi |  |  | Malaysia | 6304 |
 | 13 | [AngJianming](https://github.com/AngJianming) | Ang Jianming (Jim) | Asia Pacific University | AngJianming | Jalan Teknologi 5, Taman Teknologi Malaysia, 57000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur | 6054 |
-| 14 | [lifeofgurpreet](https://github.com/lifeofgurpreet) | Gurpreet | Biji-biji Initiative | lifeofgurpreet | Malaysia | 4956 |
-| 15 | [msmalley](https://github.com/msmalley) | msmalley | OpenSource Technology Evangelist and BlockChain Enthusiast |  | Kuala Lumpur, Malaysia | 4748 |
-| 16 | [season179](https://github.com/season179) | Season Saw |  | seasonsaw | Kuala Lumpur, Malaysia | 4711 |
-| 17 | [mingng18](https://github.com/mingng18) | ConcurrentB | AILens Group |  | Kuala Lumpur, Malaysia | 4566 |
+| 14 | [mingng18](https://github.com/mingng18) | ConcurrentB | AILens Group |  | Kuala Lumpur, Malaysia | 5071 |
+| 15 | [lifeofgurpreet](https://github.com/lifeofgurpreet) | Gurpreet | Biji-biji Initiative | lifeofgurpreet | Malaysia | 4956 |
+| 16 | [msmalley](https://github.com/msmalley) | msmalley | OpenSource Technology Evangelist and BlockChain Enthusiast |  | Kuala Lumpur, Malaysia | 4748 |
+| 17 | [season179](https://github.com/season179) | Season Saw |  | seasonsaw | Kuala Lumpur, Malaysia | 4711 |
 | 18 | [AqFad2811](https://github.com/AqFad2811) | AqFad |  | AqFad2811 | Malaysia | 4142 |
 | 19 | [siakhooi](https://github.com/siakhooi) | Siak Hooi |  |  | Malaysia | 4072 |
 | 20 | [hollowaykeanho](https://github.com/hollowaykeanho) | (Holloway) Chew, Kean Ho | Independent |  | Malaysia, South East Asia | 3857 |

@@ -17,7 +17,7 @@ Indexed users: 1,531
 | 3 | [angusdavis2](https://github.com/angusdavis2) |  | Dorado, Puerto Rico | 28,661 |
 | 4 | [robertjchristian](https://github.com/robertjchristian) | Robert Christian | Orlando FL \| Seattle WA \| San Juan PR | 22,473 |
 | 5 | [gabynevada](https://github.com/gabynevada) | Elvis Nieves | Puerto Rico | 20,645 |
-| 6 | [0xPlayerOne](https://github.com/0xPlayerOne) | A. Mahoney-Fernandes | San Juan, PR 🇵🇷 | 19,434 |
+| 6 | [0xPlayerOne](https://github.com/0xPlayerOne) | A. Mahoney-Fernandes | San Juan, PR 🇵🇷 | 20,631 |
 | 7 | [bpamiri](https://github.com/bpamiri) | Peter Amiri | San Juan Capistrano, CA | 18,649 |
 | 8 | [devmoreno](https://github.com/devmoreno) | Edwin Moreno | Aguadilla, Puerto Rico | 9,005 |
 | 9 | [jdreben](https://github.com/jdreben) | James Dreben | San Juan, Puerto Rico | 8,227 |
@@ -37,7 +37,7 @@ Indexed users: 1,531
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [0xPlayerOne](https://github.com/0xPlayerOne) | A. Mahoney-Fernandes | San Juan, PR 🇵🇷 | 17,559 |
+| 1 | [0xPlayerOne](https://github.com/0xPlayerOne) | A. Mahoney-Fernandes | San Juan, PR 🇵🇷 | 18,646 |
 | 2 | [RhettCreighton](https://github.com/RhettCreighton) | Rhett Creighton | San Juan, Puerto Rico | 12,873 |
 | 3 | [bpamiri](https://github.com/bpamiri) | Peter Amiri | San Juan Capistrano, CA | 10,008 |
 | 4 | [brettheap](https://github.com/brettheap) | Brett Heap | Puerto Rico | 7,801 |
@@ -83,4 +83,4 @@ Indexed users: 1,531
 | 19 | [rnegron](https://github.com/rnegron) | Raúl Negrón-Otero | Bayamón, Puerto Rico | 113 |
 | 20 | [hackingbutlegal](https://github.com/hackingbutlegal) | Jackie Singh | San Juan, PR | 107 |
 
-Generated: 2026-10-22T16:03:03.608Z
+Generated: 2026-10-22T17:56:54.447Z

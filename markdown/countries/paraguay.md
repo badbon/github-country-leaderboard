@@ -26,7 +26,7 @@ Indexed users: 2,013
 | 12 | [luifer-villalba](https://github.com/luifer-villalba) | Luifer Villalba | Asunción, Paraguay | 7,351 |
 | 13 | [mathiasgrimm](https://github.com/mathiasgrimm) | Mathias Grimm | Asunción, Paraguay | 7,299 |
 | 14 | [vVladyslaVv](https://github.com/vVladyslaVv) | Vladyslav Yeroma | Asuncion | 7,150 |
-| 15 | [kiquetal](https://github.com/kiquetal) | Enrique\m/Talavera | Paraguay | 6,752 |
+| 15 | [kiquetal](https://github.com/kiquetal) | Enrique\m/Talavera | Paraguay | 6,971 |
 | 16 | [MHHukiewitz](https://github.com/MHHukiewitz) | Mike Hukiewitz | Paraguay, Cordillera | 6,711 |
 | 17 | [davicyyo](https://github.com/davicyyo) | DaViCyYo | Paraguay | 5,810 |
 | 18 | [everdaniel](https://github.com/everdaniel) | Ever Daniel Barreto | Asunción, Paraguay | 5,581 |
@@ -39,7 +39,7 @@ Indexed users: 2,013
 |---:|---|---|---|---:|
 | 1 | [vargascarlitos](https://github.com/vargascarlitos) | Carlitos Vargas | Paraguay | 9,398 |
 | 2 | [apojomovsky](https://github.com/apojomovsky) | Alexis Pojomovsky | Asunción - Paraguay | 3,469 |
-| 3 | [kiquetal](https://github.com/kiquetal) | Enrique\m/Talavera | Paraguay | 3,419 |
+| 3 | [kiquetal](https://github.com/kiquetal) | Enrique\m/Talavera | Paraguay | 3,421 |
 | 4 | [eeeds](https://github.com/eeeds) | Esteban Encina | Paraguay | 2,921 |
 | 5 | [skyvanguard](https://github.com/skyvanguard) |  | Paraguay | 2,364 |
 | 6 | [esteban-vm](https://github.com/esteban-vm) | Esteban V.M. | Asunción, Paraguay | 2,335 |
@@ -83,4 +83,4 @@ Indexed users: 2,013
 | 19 | [metakeule](https://github.com/metakeule) | metakeule | Asunción / Paraguay | 109 |
 | 20 | [replay](https://github.com/replay) | Mauro Stettler | Asuncion, Paraguay | 105 |
 
-Generated: 2026-10-22T16:01:03.481Z
+Generated: 2026-10-22T17:56:33.416Z

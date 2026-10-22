@@ -13,7 +13,7 @@ Indexed users: 1,271
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [gordonswaby](https://github.com/gordonswaby) | EduFocal | Kingston, Jamaica  | 43,963 |
-| 2 | [slocker3](https://github.com/slocker3) | Stephen Locker | Kingston, WA | 15,661 |
+| 2 | [slocker3](https://github.com/slocker3) | Stephen Locker | Kingston, WA | 15,880 |
 | 3 | [alexarthurs](https://github.com/alexarthurs) | Alex Arthurs | Kingston, Ontario | 12,442 |
 | 4 | [SirFitz](https://github.com/SirFitz) | Romario Fitzgerald | Jamaica | 11,499 |
 | 5 | [eforth](https://github.com/eforth) | Ervin Forth | Jamaica | 9,217 |
@@ -23,13 +23,13 @@ Indexed users: 1,271
 | 9 | [DinitoThompson](https://github.com/DinitoThompson) | Dinito Thompson | Jamaica | 7,419 |
 | 10 | [marcamillion](https://github.com/marcamillion) | Marc Gayle | Kingston, Jamaica | 6,515 |
 | 11 | [SammarieoBrown](https://github.com/SammarieoBrown) | Sammarieo Brown | Kingston, Jamaica | 6,392 |
-| 12 | [billlevine](https://github.com/billlevine) | Bill LeVine | Kingston, Ontario | 6,265 |
+| 12 | [billlevine](https://github.com/billlevine) | Bill LeVine | Kingston, Ontario | 6,287 |
 | 13 | [tunecrew](https://github.com/tunecrew) | Christopher Edmonds | Kingston, Jamaica | 6,247 |
 | 14 | [dimitriharding](https://github.com/dimitriharding) | Dimitri Harding | Kingston, Jamaica | 5,470 |
 | 15 | [cogell](https://github.com/cogell) | B. Cedric Cogell | Kingston, NY | 4,636 |
-| 16 | [emperorjm](https://github.com/emperorjm) | Adrian Thompson | Jamaica | 4,532 |
-| 17 | [javaniecampbell](https://github.com/javaniecampbell) | Javanie Campbell | Jamaica | 4,426 |
-| 18 | [JCarran0](https://github.com/JCarran0) | Jared Carrano | Kingston, NY | 4,413 |
+| 16 | [JCarran0](https://github.com/JCarran0) | Jared Carrano | Kingston, NY | 4,533 |
+| 17 | [emperorjm](https://github.com/emperorjm) | Adrian Thompson | Jamaica | 4,532 |
+| 18 | [javaniecampbell](https://github.com/javaniecampbell) | Javanie Campbell | Jamaica | 4,426 |
 | 19 | [kazo0](https://github.com/kazo0) | Steve Bilogan | Kingston, ON | 4,271 |
 | 20 | [capndave](https://github.com/capndave) | David Thompson | Kingston, NY | 4,249 |
 
@@ -48,9 +48,9 @@ Indexed users: 1,271
 | 9 | [yringler](https://github.com/yringler) | Yehuda Ringler | Kingston, PA | 1,498 |
 | 10 | [elixer-prince](https://github.com/elixer-prince) | Daniel Leith | Jamaica | 1,198 |
 | 11 | [shkeating](https://github.com/shkeating) | Shauna Keating | Kingston, NY | 998 |
-| 12 | [billlevine](https://github.com/billlevine) | Bill LeVine | Kingston, Ontario | 981 |
+| 12 | [billlevine](https://github.com/billlevine) | Bill LeVine | Kingston, Ontario | 982 |
 | 13 | [wiegerthefarmer](https://github.com/wiegerthefarmer) | Aaron Visser | Kingston, Ontario | 875 |
-| 14 | [BernardUK](https://github.com/BernardUK) | Bernard Boase | Kingston upon Thames | 860 |
+| 14 | [BernardUK](https://github.com/BernardUK) | Bernard Boase | Kingston upon Thames | 838 |
 | 15 | [markoskatsi](https://github.com/markoskatsi) | Markos Katsi | Kingston Upon Thames | 748 |
 | 16 | [kfrancis](https://github.com/kfrancis) | Kori Francis | Kingston, Ontario | 668 |
 | 17 | [Patric-1613](https://github.com/Patric-1613) | Pratikraj Pavankumar Mugade | Kingston upon thames | 654 |
@@ -83,4 +83,4 @@ Indexed users: 1,271
 | 19 | [aliasad059](https://github.com/aliasad059) | Ali Asad | Kingston, Ontario | 99 |
 | 20 | [andrewmaier](https://github.com/andrewmaier) | Andrew Maier | Kingston, Ontario | 95 |
 
-Generated: 2026-10-22T14:33:24.097Z
+Generated: 2026-10-22T17:43:36.676Z

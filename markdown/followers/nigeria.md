@@ -1,8 +1,8 @@
 # Followers - Nigeria
 
-Generated: 2026-10-22T15:59:26.918Z
+Generated: 2026-10-22T17:54:07.045Z
 
-Users: 33179
+Users: 33178
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

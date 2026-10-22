@@ -27,10 +27,10 @@ Indexed users: 804
 | 13 | [turbold24](https://github.com/turbold24) | Turbold | Ulaanbaatar, Mongolia | 6,464 |
 | 14 | [mtergel](https://github.com/mtergel) | Tergel Munkhdelger | Mongolia | 6,164 |
 | 15 | [2khan](https://github.com/2khan) | Jargalsaikhan Erdenetsetseg | Ulaanbaatar, Mongolia | 5,258 |
-| 16 | [anhbaysgalan1](https://github.com/anhbaysgalan1) | Ankhbayasgalan Davaadorj | Mongolia, Ulaanbaatar | 5,254 |
+| 16 | [anhbaysgalan1](https://github.com/anhbaysgalan1) | Ankhbayasgalan Davaadorj | Mongolia, Ulaanbaatar | 5,243 |
 | 17 | [dokind](https://github.com/dokind) | dokind | Mongolia | 4,966 |
 | 18 | [kyuna0312](https://github.com/kyuna0312) | kyuna0312 | Mongolia | 4,786 |
-| 19 | [zolbooo](https://github.com/zolbooo) | Oleg | Ulaanbaatar, Mongolia | 4,496 |
+| 19 | [zolbooo](https://github.com/zolbooo) | Oleg | Ulaanbaatar, Mongolia | 4,739 |
 | 20 | [enkhtuvsh1n](https://github.com/enkhtuvsh1n) | 9x | Ulaanbaatar, Mongolia | 4,164 |
 
 ## Public Contributions
@@ -70,7 +70,7 @@ Indexed users: 804
 | 6 | [sharavsambuu](https://github.com/sharavsambuu) | sharavsambuu | Khuvsgul, Mongolia | 219 |
 | 7 | [mnkhod](https://github.com/mnkhod) | Munkh-Od | Mongolia | 202 |
 | 8 | [gmunkhbaatarmn](https://github.com/gmunkhbaatarmn) | Munkhbaatar | Mongolia | 176 |
-| 9 | [zolbooo](https://github.com/zolbooo) | Oleg | Ulaanbaatar, Mongolia | 111 |
+| 9 | [zolbooo](https://github.com/zolbooo) | Oleg | Ulaanbaatar, Mongolia | 112 |
 | 10 | [khaschuluu](https://github.com/khaschuluu) | KHASCHULUU Munkhbayar | Ulaanbaatar, Mongolia | 106 |
 | 11 | [Zorig](https://github.com/Zorig) | Zorig | Ulaanbaatar, Mongolia | 103 |
 | 12 | [je3f0o](https://github.com/je3f0o) | Батхишиг | Mongolia | 101 |
@@ -83,4 +83,4 @@ Indexed users: 804
 | 19 | [munkhjin0223](https://github.com/munkhjin0223) | Munkhjin | Ulaanbaatar, Mongolia | 64 |
 | 20 | [temuulennibno](https://github.com/temuulennibno) | Temuulen | Ulaanbaatar, Mongolia | 55 |
 
-Generated: 2026-10-22T15:56:21.660Z
+Generated: 2026-10-22T17:52:04.461Z

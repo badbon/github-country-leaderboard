@@ -31,13 +31,13 @@ Indexed users: 1,579
 | 17 | [gthb](https://github.com/gthb) | Gunnlaugur Thor Briem | Reykjavík, Iceland | 7,163 |
 | 18 | [arnavmehta7](https://github.com/arnavmehta7) | Arnav Mehta | Island | 7,129 |
 | 19 | [kjartansverrisson](https://github.com/kjartansverrisson) | Kjartan Sverrisson | Iceland | 6,939 |
-| 20 | [gunniho](https://github.com/gunniho) | Gunnar Holmsteinn | Reykjavik | 6,518 |
+| 20 | [odinndagur](https://github.com/odinndagur) | Óðinn Dagur Bjarnason | Reykjavík, Iceland | 6,540 |
 
 ## Public Contributions
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [odinndagur](https://github.com/odinndagur) | Óðinn Dagur Bjarnason | Reykjavík, Iceland | 6,395 |
+| 1 | [odinndagur](https://github.com/odinndagur) | Óðinn Dagur Bjarnason | Reykjavík, Iceland | 6,540 |
 | 2 | [hugithordarson](https://github.com/hugithordarson) | Hugi Thordarson | Rekjavik, Iceland | 5,735 |
 | 3 | [smnasiruz016-blip](https://github.com/smnasiruz016-blip) | Sheikh Muhammad Nasir Uz Zaman | iceland | 4,480 |
 | 4 | [karirafn](https://github.com/karirafn) | Kári Rafn Karlsson | Akranes, Iceland | 3,577 |
@@ -83,4 +83,4 @@ Indexed users: 1,579
 | 19 | [jokull](https://github.com/jokull) | Jökull Sólberg Auðunsson | Reykjavík, Iceland | 209 |
 | 20 | [kevien](https://github.com/kevien) | K3vin | iceland | 204 |
 
-Generated: 2026-10-22T15:44:47.728Z
+Generated: 2026-10-22T17:41:26.052Z

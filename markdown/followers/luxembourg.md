@@ -1,6 +1,6 @@
 # Followers - Luxembourg
 
-Generated: 2026-10-22T15:52:22.751Z
+Generated: 2026-10-22T17:47:32.838Z
 
 Users: 2190
 
@@ -9,7 +9,7 @@ Users: 2190
 | 1 | [qdm12](https://github.com/qdm12) | Quentin McGaw |  |  | Luxembourg | 859 |
 | 2 | [kissalexandra](https://github.com/kissalexandra) | Alexandra Kiss |  | xkissalexandra | Ville de Luxembourg | 613 |
 | 3 | [b-rodrigues](https://github.com/b-rodrigues) | Bruno Rodrigues | MESR, Luxembourg | brodriguesco | Luxembourg-City, Luxembourg | 470 |
-| 4 | [255kb](https://github.com/255kb) | Guillaume | @mockoon |  | Luxembourg | 396 |
+| 4 | [255kb](https://github.com/255kb) | Guillaume | @mockoon |  | Luxembourg | 397 |
 | 5 | [themarcba](https://github.com/themarcba) | Marc Backes | @directus | marcba | Luxembourg | 393 |
 | 6 | [Vedenin](https://github.com/Vedenin) | Slava Vedenin |  |  | Luxembourg | 379 |
 | 7 | [zit0cod3z](https://github.com/zit0cod3z) | Kizito Daka |  | zitocod3z | Luxembourg | 370 |

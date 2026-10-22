@@ -23,15 +23,15 @@ Indexed users: 19,485
 | 9 | [trakhimenok](https://github.com/trakhimenok) | Alexander Trakhimenok | Limerick, Ireland | 18,844 |
 | 10 | [rjrodger](https://github.com/rjrodger) | Richard Rodger | Ireland | 18,498 |
 | 11 | [crivetimihai](https://github.com/crivetimihai) | Mihai Criveti | Dublin | 18,217 |
-| 12 | [looeee](https://github.com/looeee) | Lewy Blue | Ireland | 15,660 |
-| 13 | [marvin-bitterlich](https://github.com/marvin-bitterlich) | Marvin Bitterlich | Ireland | 15,375 |
-| 14 | [wsdo](https://github.com/wsdo) | Xishu | Ireland | 14,157 |
-| 15 | [ryan-winkler](https://github.com/ryan-winkler) | Ryan Winkler | Dublin Ireland | 13,842 |
-| 16 | [guibranco](https://github.com/guibranco) | Guilherme Branco Stracini | Dublin, Ireland | 13,809 |
-| 17 | [Borealiscodes](https://github.com/Borealiscodes) | Borealis S Hedling | Dublin Ireland  | 13,567 |
-| 18 | [goenning](https://github.com/goenning) | Guilherme Oenning | Dublin, Ireland | 12,855 |
-| 19 | [brendan-carroll](https://github.com/brendan-carroll) | Brendan Carroll | Ireland | 12,835 |
-| 20 | [Aramantos](https://github.com/Aramantos) | John Doyle | Dublin, Ireland | 12,172 |
+| 12 | [seanconroy2021](https://github.com/seanconroy2021) | sean conroy  | Ireland | 16,945 |
+| 13 | [looeee](https://github.com/looeee) | Lewy Blue | Ireland | 15,660 |
+| 14 | [marvin-bitterlich](https://github.com/marvin-bitterlich) | Marvin Bitterlich | Ireland | 15,375 |
+| 15 | [wsdo](https://github.com/wsdo) | Xishu | Ireland | 14,157 |
+| 16 | [ryan-winkler](https://github.com/ryan-winkler) | Ryan Winkler | Dublin Ireland | 13,842 |
+| 17 | [guibranco](https://github.com/guibranco) | Guilherme Branco Stracini | Dublin, Ireland | 13,809 |
+| 18 | [Borealiscodes](https://github.com/Borealiscodes) | Borealis S Hedling | Dublin Ireland  | 13,567 |
+| 19 | [goenning](https://github.com/goenning) | Guilherme Oenning | Dublin, Ireland | 12,855 |
+| 20 | [brendan-carroll](https://github.com/brendan-carroll) | Brendan Carroll | Ireland | 12,835 |
 
 ## Public Contributions
 
@@ -42,21 +42,21 @@ Indexed users: 19,485
 | 3 | [levindixon](https://github.com/levindixon) | Levin Dixon | Dublin, Ireland | 45,006 |
 | 4 | [fourk0](https://github.com/fourk0) | fourk0 | Ireland | 23,244 |
 | 5 | [rjrodger](https://github.com/rjrodger) | Richard Rodger | Ireland | 18,498 |
-| 6 | [MRiabov](https://github.com/MRiabov) | Maksym Riabov | Dublin, Ireland | 13,624 |
-| 7 | [Borealiscodes](https://github.com/Borealiscodes) | Borealis S Hedling | Dublin Ireland  | 13,567 |
-| 8 | [guibranco](https://github.com/guibranco) | Guilherme Branco Stracini | Dublin, Ireland | 11,122 |
-| 9 | [notheotherben](https://github.com/notheotherben) | Benjamin Pannell | Dublin, Ireland | 10,701 |
-| 10 | [morganmcg1](https://github.com/morganmcg1) | Morgan McGuire | Dublin, Ireland | 10,243 |
-| 11 | [trakhimenok](https://github.com/trakhimenok) | Alexander Trakhimenok | Limerick, Ireland | 9,051 |
-| 12 | [Nelson-Lamounier](https://github.com/Nelson-Lamounier) | Nelson Lamounier | Dublin | 7,970 |
-| 13 | [bact](https://github.com/bact) | Arthit Suriyawongkul | Dublin and Bangkok | 7,039 |
-| 14 | [pjfanning](https://github.com/pjfanning) | PJ Fanning | Kilkenny, Ireland | 6,421 |
-| 15 | [pshirshov](https://github.com/pshirshov) | Paul S. | Dublin | 6,310 |
-| 16 | [FintanH](https://github.com/FintanH) | Fintan Halpenny | Dublin | 6,281 |
-| 17 | [matheuscscp](https://github.com/matheuscscp) | Matheus Pimenta | Dublin, Ireland | 6,177 |
-| 18 | [shivtcdfinance](https://github.com/shivtcdfinance) | Shiv Rao | Dublin, Ireland | 5,605 |
-| 19 | [stack72](https://github.com/stack72) | Paul Stack | Derry, Ireland | 5,378 |
-| 20 | [dmzoneill](https://github.com/dmzoneill) | Dave | Ireland | 5,328 |
+| 6 | [seanconroy2021](https://github.com/seanconroy2021) | sean conroy  | Ireland | 16,935 |
+| 7 | [MRiabov](https://github.com/MRiabov) | Maksym Riabov | Dublin, Ireland | 13,624 |
+| 8 | [Borealiscodes](https://github.com/Borealiscodes) | Borealis S Hedling | Dublin Ireland  | 13,567 |
+| 9 | [guibranco](https://github.com/guibranco) | Guilherme Branco Stracini | Dublin, Ireland | 11,122 |
+| 10 | [notheotherben](https://github.com/notheotherben) | Benjamin Pannell | Dublin, Ireland | 10,701 |
+| 11 | [morganmcg1](https://github.com/morganmcg1) | Morgan McGuire | Dublin, Ireland | 10,243 |
+| 12 | [trakhimenok](https://github.com/trakhimenok) | Alexander Trakhimenok | Limerick, Ireland | 9,051 |
+| 13 | [Nelson-Lamounier](https://github.com/Nelson-Lamounier) | Nelson Lamounier | Dublin | 7,970 |
+| 14 | [bact](https://github.com/bact) | Arthit Suriyawongkul | Dublin and Bangkok | 7,039 |
+| 15 | [pjfanning](https://github.com/pjfanning) | PJ Fanning | Kilkenny, Ireland | 6,421 |
+| 16 | [pshirshov](https://github.com/pshirshov) | Paul S. | Dublin | 6,310 |
+| 17 | [FintanH](https://github.com/FintanH) | Fintan Halpenny | Dublin | 6,281 |
+| 18 | [matheuscscp](https://github.com/matheuscscp) | Matheus Pimenta | Dublin, Ireland | 6,177 |
+| 19 | [shivtcdfinance](https://github.com/shivtcdfinance) | Shiv Rao | Dublin, Ireland | 5,605 |
+| 20 | [stack72](https://github.com/stack72) | Paul Stack | Derry, Ireland | 5,378 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 19,485
 | 19 | [damienmaguire](https://github.com/damienmaguire) | Damien Maguire | Ireland | 1,045 |
 | 20 | [afshinm](https://github.com/afshinm) | Afshin Mehrabani | Dublin, Ireland | 1,037 |
 
-Generated: 2026-10-22T12:54:11.564Z
+Generated: 2026-10-22T17:42:28.902Z

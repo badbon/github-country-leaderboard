@@ -1,6 +1,6 @@
 # Total Contributions - Ireland
 
-Generated: 2026-10-22T12:54:11.564Z
+Generated: 2026-10-22T17:42:28.902Z
 
 Users: 19485
 
@@ -17,12 +17,12 @@ Users: 19485
 | 9 | [trakhimenok](https://github.com/trakhimenok) | Alexander Trakhimenok |  |  | Limerick, Ireland | 18844 |
 | 10 | [rjrodger](https://github.com/rjrodger) | Richard Rodger |  |  | Ireland | 18498 |
 | 11 | [crivetimihai](https://github.com/crivetimihai) | Mihai Criveti | IBM | CrivetiMihai | Dublin | 18217 |
-| 12 | [looeee](https://github.com/looeee) | Lewy Blue | Discover three.js | lewy_blue | Ireland | 15660 |
-| 13 | [marvin-bitterlich](https://github.com/marvin-bitterlich) | Marvin Bitterlich | @intercom |  | Ireland | 15375 |
-| 14 | [wsdo](https://github.com/wsdo) | Xishu |  | xishu_ai | Ireland | 14157 |
-| 15 | [ryan-winkler](https://github.com/ryan-winkler) | Ryan Winkler | Currently Looking | ryanw_product | Dublin Ireland | 13842 |
-| 16 | [guibranco](https://github.com/guibranco) | Guilherme Branco Stracini | @OUTsurance @outsurance-ireland |  | Dublin, Ireland | 13809 |
-| 17 | [Borealiscodes](https://github.com/Borealiscodes) | Borealis S Hedling |  |  | Dublin Ireland  | 13567 |
-| 18 | [goenning](https://github.com/goenning) | Guilherme Oenning |  | goenning | Dublin, Ireland | 12855 |
-| 19 | [brendan-carroll](https://github.com/brendan-carroll) | Brendan Carroll | @episensor  |  | Ireland | 12835 |
-| 20 | [Aramantos](https://github.com/Aramantos) | John Doyle |  | jd_aramantos | Dublin, Ireland | 12172 |
+| 12 | [seanconroy2021](https://github.com/seanconroy2021) | sean conroy  | Red Hat |  | Ireland | 16945 |
+| 13 | [looeee](https://github.com/looeee) | Lewy Blue | Discover three.js | lewy_blue | Ireland | 15660 |
+| 14 | [marvin-bitterlich](https://github.com/marvin-bitterlich) | Marvin Bitterlich | @intercom |  | Ireland | 15375 |
+| 15 | [wsdo](https://github.com/wsdo) | Xishu |  | xishu_ai | Ireland | 14157 |
+| 16 | [ryan-winkler](https://github.com/ryan-winkler) | Ryan Winkler | Currently Looking | ryanw_product | Dublin Ireland | 13842 |
+| 17 | [guibranco](https://github.com/guibranco) | Guilherme Branco Stracini | @OUTsurance @outsurance-ireland |  | Dublin, Ireland | 13809 |
+| 18 | [Borealiscodes](https://github.com/Borealiscodes) | Borealis S Hedling |  |  | Dublin Ireland  | 13567 |
+| 19 | [goenning](https://github.com/goenning) | Guilherme Oenning |  | goenning | Dublin, Ireland | 12855 |
+| 20 | [brendan-carroll](https://github.com/brendan-carroll) | Brendan Carroll | @episensor  |  | Ireland | 12835 |

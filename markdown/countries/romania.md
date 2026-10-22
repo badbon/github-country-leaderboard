@@ -1,6 +1,6 @@
 # Romania
 
-Indexed users: 14,971
+Indexed users: 14,969
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 14,971
 | 19 | [alexandru-paduraru](https://github.com/alexandru-paduraru) | Alex Paduraru | Bucharest | 600 |
 | 20 | [ovidiuch](https://github.com/ovidiuch) | Ovidiu Cherecheș | Cluj-Napoca, Romania | 582 |
 
-Generated: 2026-10-22T16:03:36.358Z
+Generated: 2026-10-22T17:58:40.097Z

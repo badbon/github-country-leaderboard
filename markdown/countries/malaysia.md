@@ -1,6 +1,6 @@
 # Malaysia
 
-Indexed users: 11,780
+Indexed users: 11,779
 
 | Leaderboard | Link |
 |---|---|
@@ -50,10 +50,10 @@ Indexed users: 11,780
 | 11 | [ariffazil](https://github.com/ariffazil) | ariffazil | Malaysia | 6,700 |
 | 12 | [afandiazmi](https://github.com/afandiazmi) | Afandi Azmi | Malaysia | 6,304 |
 | 13 | [AngJianming](https://github.com/AngJianming) | Ang Jianming (Jim) | Jalan Teknologi 5, Taman Teknologi Malaysia, 57000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur | 6,054 |
-| 14 | [lifeofgurpreet](https://github.com/lifeofgurpreet) | Gurpreet | Malaysia | 4,956 |
-| 15 | [msmalley](https://github.com/msmalley) | msmalley | Kuala Lumpur, Malaysia | 4,748 |
-| 16 | [season179](https://github.com/season179) | Season Saw | Kuala Lumpur, Malaysia | 4,711 |
-| 17 | [mingng18](https://github.com/mingng18) | ConcurrentB | Kuala Lumpur, Malaysia | 4,566 |
+| 14 | [mingng18](https://github.com/mingng18) | ConcurrentB | Kuala Lumpur, Malaysia | 5,071 |
+| 15 | [lifeofgurpreet](https://github.com/lifeofgurpreet) | Gurpreet | Malaysia | 4,956 |
+| 16 | [msmalley](https://github.com/msmalley) | msmalley | Kuala Lumpur, Malaysia | 4,748 |
+| 17 | [season179](https://github.com/season179) | Season Saw | Kuala Lumpur, Malaysia | 4,711 |
 | 18 | [AqFad2811](https://github.com/AqFad2811) | AqFad | Malaysia | 4,142 |
 | 19 | [siakhooi](https://github.com/siakhooi) | Siak Hooi | Malaysia | 4,072 |
 | 20 | [hollowaykeanho](https://github.com/hollowaykeanho) | (Holloway) Chew, Kean Ho | Malaysia, South East Asia | 3,857 |
@@ -83,4 +83,4 @@ Indexed users: 11,780
 | 19 | [Zeyad-Azima](https://github.com/Zeyad-Azima) | Zer0verflow | Malaysia | 439 |
 | 20 | [RamadhanAmizudin](https://github.com/RamadhanAmizudin) | Ramadhan Amizudin | Malaysia | 401 |
 
-Generated: 2026-10-22T15:53:09.463Z
+Generated: 2026-10-22T17:47:49.751Z

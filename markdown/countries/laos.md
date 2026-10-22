@@ -29,7 +29,7 @@ Indexed users: 360
 | 15 | [Phounn](https://github.com/Phounn) |  | Laos | 1,536 |
 | 16 | [iamlex01](https://github.com/iamlex01) | Alex Saelao | Vientiane, Laos | 1,465 |
 | 17 | [philaphonh](https://github.com/philaphonh) | Philaphonh Inthavongsa | Laos | 1,159 |
-| 18 | [TotoPhandolack](https://github.com/TotoPhandolack) | Toto Phandolack | Luangprabang, Laos | 1,157 |
+| 18 | [TotoPhandolack](https://github.com/TotoPhandolack) | Toto Phandolack | Luangprabang, Laos | 1,156 |
 | 19 | [bobby-sills](https://github.com/bobby-sills) | Bobby Sills | Vientiane, Laos | 1,103 |
 | 20 | [tinbotu](https://github.com/tinbotu) | Akira KUMAGAI | ວຽງຈັນ, Laos | 801 |
 
@@ -83,4 +83,4 @@ Indexed users: 360
 | 19 | [Sengkue](https://github.com/Sengkue) | SengKueVang | Laos, Vientiane capital | 16 |
 | 20 | [JarnKet](https://github.com/JarnKet) | Ketsadaphone BOUTPANYDA | Savannakhet, Laos | 14 |
 
-Generated: 2026-10-22T15:50:36.671Z
+Generated: 2026-10-22T17:45:29.415Z

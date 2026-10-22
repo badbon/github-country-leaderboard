@@ -1,6 +1,6 @@
 # Public Contributions - Niger
 
-Generated: 2026-10-22T15:58:07.906Z
+Generated: 2026-10-22T17:54:03.023Z
 
 Users: 175
 
@@ -9,7 +9,7 @@ Users: 175
 | 1 | [Yacine-ai-tech](https://github.com/Yacine-ai-tech) | Seybou Siddo Yacine |  |  | Niamey, Niger | 6493 |
 | 2 | [akaletekoffilevis](https://github.com/akaletekoffilevis) | akaletekoffilevis | None |  | Niger / Niamey | 1841 |
 | 3 | [kodjodevf](https://github.com/kodjodevf) | Moustapha Kodjo Amadou |  | kodjodevf | Niamey,Niger | 1223 |
-| 4 | [FadelMamar](https://github.com/FadelMamar) | Fadel |  |  | Niger | 1047 |
+| 4 | [FadelMamar](https://github.com/FadelMamar) | Fadel |  |  | Niger | 1049 |
 | 5 | [Ismail0u](https://github.com/Ismail0u) | Ismael |  |  | Niamey & Lomé | 590 |
 | 6 | [netmophus](https://github.com/netmophus) | NETMORPHUS | www.techpart. | netmorphus | Niamey | 495 |
 | 7 | [Transega](https://github.com/Transega) | Collins Asega Amadala  | @omdena | asega_collins | Niamey Niger | 383 |

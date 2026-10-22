@@ -52,11 +52,11 @@ Indexed users: 888
 | 13 | [stevyhacker](https://github.com/stevyhacker) | Stevan Bogosavljević | Montenegro | 1,981 |
 | 14 | [stefashkaa](https://github.com/stefashkaa) | Stefan Popov | Montenegro, Budva | 1,838 |
 | 15 | [atimofeev](https://github.com/atimofeev) | Artem Timofeev | Budva, Montenegro | 1,653 |
-| 16 | [YuriiMotov](https://github.com/YuriiMotov) | Yurii Motov | Bar, Montenegro | 1,470 |
+| 16 | [YuriiMotov](https://github.com/YuriiMotov) | Yurii Motov | Bar, Montenegro | 1,462 |
 | 17 | [yurabakhtin](https://github.com/yurabakhtin) | Yuriy Bakhtin | Montenegro | 1,409 |
-| 18 | [artempartos](https://github.com/artempartos) | Artem Petrov | Montenegro | 1,314 |
-| 19 | [itrcz](https://github.com/itrcz) | Ilya Trikoz | Montenegro | 1,190 |
-| 20 | [lunochkin](https://github.com/lunochkin) | Maksim Lunochkin | Montenegro | 960 |
+| 18 | [LiGoldragon](https://github.com/LiGoldragon) | Li Goldragon | Tivat, Montenegro | 1,326 |
+| 19 | [artempartos](https://github.com/artempartos) | Artem Petrov | Montenegro | 1,314 |
+| 20 | [itrcz](https://github.com/itrcz) | Ilya Trikoz | Montenegro | 1,190 |
 
 ## Followers
 
@@ -69,7 +69,7 @@ Indexed users: 888
 | 5 | [oranmehmetsirin](https://github.com/oranmehmetsirin) | Mehmet Şirin ORAN | Montenegro | 348 |
 | 6 | [dockimbel](https://github.com/dockimbel) | Nenad Rakocevic | Montenegro | 335 |
 | 7 | [LukaDut7](https://github.com/LukaDut7) | Luka Dutina | Podgorica, Montenegro | 230 |
-| 8 | [YuriiMotov](https://github.com/YuriiMotov) | Yurii Motov | Bar, Montenegro | 197 |
+| 8 | [YuriiMotov](https://github.com/YuriiMotov) | Yurii Motov | Bar, Montenegro | 199 |
 | 9 | [sondreb](https://github.com/sondreb) | SondreB | Bar, Montenegro | 145 |
 | 10 | [cblp](https://github.com/cblp) | Yury Syrovetsky | Montenegro | 142 |
 | 11 | [lockie](https://github.com/lockie) | Andrew Kravchuk | Montenegro, Podgorica | 136 |
@@ -83,4 +83,4 @@ Indexed users: 888
 | 19 | [vovkasm](https://github.com/vovkasm) | Vladimir Timofeev | Budva, Montenegro | 99 |
 | 20 | [marcoroganovic](https://github.com/marcoroganovic) | Marko Roganovic | Montenegro | 90 |
 
-Generated: 2026-10-22T15:56:27.367Z
+Generated: 2026-10-22T17:52:09.446Z

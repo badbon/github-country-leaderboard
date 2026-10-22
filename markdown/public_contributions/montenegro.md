@@ -1,6 +1,6 @@
 # Public Contributions - Montenegro
 
-Generated: 2026-10-22T15:56:27.367Z
+Generated: 2026-10-22T17:52:09.446Z
 
 Users: 888
 
@@ -21,8 +21,8 @@ Users: 888
 | 13 | [stevyhacker](https://github.com/stevyhacker) | Stevan Bogosavljević |  | stevyhacker | Montenegro | 1981 |
 | 14 | [stefashkaa](https://github.com/stefashkaa) | Stefan Popov | @DeSource-Labs |  | Montenegro, Budva | 1838 |
 | 15 | [atimofeev](https://github.com/atimofeev) | Artem Timofeev |  |  | Budva, Montenegro | 1653 |
-| 16 | [YuriiMotov](https://github.com/YuriiMotov) | Yurii Motov |  |  | Bar, Montenegro | 1470 |
+| 16 | [YuriiMotov](https://github.com/YuriiMotov) | Yurii Motov |  |  | Bar, Montenegro | 1462 |
 | 17 | [yurabakhtin](https://github.com/yurabakhtin) | Yuriy Bakhtin |  |  | Montenegro | 1409 |
-| 18 | [artempartos](https://github.com/artempartos) | Artem Petrov | Dualbootpartners |  | Montenegro | 1314 |
-| 19 | [itrcz](https://github.com/itrcz) | Ilya Trikoz | Script Heads |  | Montenegro | 1190 |
-| 20 | [lunochkin](https://github.com/lunochkin) | Maksim Lunochkin | @Tech-Fabric  |  | Montenegro | 960 |
+| 18 | [LiGoldragon](https://github.com/LiGoldragon) | Li Goldragon | @criome | LiGoldragon | Tivat, Montenegro | 1326 |
+| 19 | [artempartos](https://github.com/artempartos) | Artem Petrov | Dualbootpartners |  | Montenegro | 1314 |
+| 20 | [itrcz](https://github.com/itrcz) | Ilya Trikoz | Script Heads |  | Montenegro | 1190 |
