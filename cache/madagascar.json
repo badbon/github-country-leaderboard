@@ -21572,7 +21572,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2015-07-06T13:33:32Z"
   },
   {
@@ -21632,7 +21632,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 864,
+    "publicContributions": 907,
     "createdAt": "2015-07-01T09:15:14Z"
   },
   {
@@ -21655,7 +21655,7 @@
     "company": "@iWebRoot",
     "twitterUsername": "iwebroot",
     "followers": 1,
-    "privateContributions": 190,
+    "privateContributions": 200,
     "publicContributions": 9,
     "createdAt": "2015-08-24T11:22:25Z"
   },
@@ -21667,8 +21667,8 @@
     "company": "WAU I/O",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 1923,
-    "publicContributions": 224,
+    "privateContributions": 2185,
+    "publicContributions": 226,
     "createdAt": "2015-12-07T08:14:19Z"
   },
   {
@@ -21691,8 +21691,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 1367,
-    "publicContributions": 33,
+    "privateContributions": 1355,
+    "publicContributions": 24,
     "createdAt": "2015-06-20T10:08:12Z"
   },
   {
@@ -21739,7 +21739,7 @@
     "company": "Vagabond.work",
     "twitterUsername": "",
     "followers": 43,
-    "privateContributions": 451,
+    "privateContributions": 469,
     "publicContributions": 119,
     "createdAt": "2014-08-21T03:32:27Z"
   },
@@ -21751,7 +21751,7 @@
     "company": "CEO & CTO and Co-Founder at @litchi-261",
     "twitterUsername": "hantsaniala",
     "followers": 43,
-    "privateContributions": 4359,
+    "privateContributions": 4507,
     "publicContributions": 231,
     "createdAt": "2014-07-14T11:39:33Z"
   },
@@ -21762,8 +21762,8 @@
     "location": "Antananarivo, Madagascar",
     "company": "",
     "twitterUsername": "",
-    "followers": 36,
-    "privateContributions": 99,
+    "followers": 35,
+    "privateContributions": 108,
     "publicContributions": 0,
     "createdAt": "2014-10-15T16:18:13Z"
   },

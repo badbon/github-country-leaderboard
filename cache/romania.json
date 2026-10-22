@@ -44124,18 +44124,6 @@
     "createdAt": "2021-10-19T18:55:08Z"
   },
   {
-    "login": "rndmtk",
-    "name": "randompawz",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/88664210?s=72&u=3ee2d31a2aab91360cc32d2bbe0561df5b877ad0&v=4",
-    "location": "Romania",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2021-08-09T12:22:03Z"
-  },
-  {
     "login": "dragan-monalisa",
     "name": "Drăgan Monalisa Mihaela",
     "avatarUrl": "https://avatars.githubusercontent.com/u/95368671?s=72&u=fff0c2fd75293c645bf365118a4bdacd7ea44a7e&v=4",
@@ -44156,7 +44144,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 326,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2021-08-08T23:27:25Z"
   },
   {
@@ -44168,7 +44156,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 81,
     "createdAt": "2021-10-25T08:29:43Z"
   },
   {
@@ -44180,7 +44168,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 1,
     "createdAt": "2021-08-17T11:23:48Z"
   },
   {
@@ -44191,7 +44179,7 @@
     "company": "Hera",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 142,
+    "privateContributions": 186,
     "publicContributions": 0,
     "createdAt": "2021-09-19T15:45:54Z"
   },
@@ -44215,8 +44203,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 8,
-    "publicContributions": 36,
+    "privateContributions": 0,
+    "publicContributions": 27,
     "createdAt": "2021-07-14T11:24:04Z"
   },
   {
@@ -44244,18 +44232,6 @@
     "createdAt": "2021-09-13T13:35:43Z"
   },
   {
-    "login": "alexandradanca",
-    "name": "Alexandra Danca",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/92735546?s=72&u=d7d4d88118a32dcfe67b7348b69d10ec23b7e040&v=4",
-    "location": "Romania",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 2,
-    "createdAt": "2021-10-18T13:50:48Z"
-  },
-  {
     "login": "Dagosu",
     "name": "Dragos-Paul Oltean",
     "avatarUrl": "https://avatars.githubusercontent.com/u/94800807?s=72&u=32328444b307ec1229b14a702cb319819bd2e963&v=4",
@@ -44274,7 +44250,7 @@
     "location": "Romania",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-12-17T09:14:22Z"
@@ -44288,7 +44264,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2021-09-27T15:10:16Z"
   },
   {
@@ -44299,7 +44275,7 @@
     "company": "@kappapay",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1944,
+    "privateContributions": 2184,
     "publicContributions": 0,
     "createdAt": "2021-09-15T18:10:53Z"
   },

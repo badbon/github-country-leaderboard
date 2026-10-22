@@ -8768,7 +8768,7 @@
     "twitterUsername": "sajadevo_",
     "followers": 174,
     "privateContributions": 723,
-    "publicContributions": 150,
+    "publicContributions": 149,
     "createdAt": "2018-01-08T19:02:49Z"
   },
   {
@@ -8791,7 +8791,7 @@
     "company": "",
     "twitterUsername": "sanjeed_i",
     "followers": 132,
-    "privateContributions": 7842,
+    "privateContributions": 7863,
     "publicContributions": 529,
     "createdAt": "2018-06-29T13:13:11Z"
   },
@@ -8814,8 +8814,8 @@
     "location": "Muscat Oman",
     "company": "Send",
     "twitterUsername": "byteab",
-    "followers": 109,
-    "privateContributions": 784,
+    "followers": 108,
+    "privateContributions": 794,
     "publicContributions": 149,
     "createdAt": "2018-12-27T09:00:33Z"
   },
@@ -8827,8 +8827,8 @@
     "company": "Code Academy",
     "twitterUsername": "",
     "followers": 88,
-    "privateContributions": 1780,
-    "publicContributions": 18,
+    "privateContributions": 1940,
+    "publicContributions": 19,
     "createdAt": "2018-03-21T00:15:36Z"
   },
   {
@@ -8839,7 +8839,7 @@
     "company": "Software Developer (React / Vue / Flutter)",
     "twitterUsername": "kosidev",
     "followers": 53,
-    "privateContributions": 3,
+    "privateContributions": 2,
     "publicContributions": 0,
     "createdAt": "2018-05-07T18:57:32Z"
   },
@@ -11878,5 +11878,17 @@
     "privateContributions": 854,
     "publicContributions": 95,
     "createdAt": "2014-09-01T12:47:44Z"
+  },
+  {
+    "login": "ryvll",
+    "name": "Zahra",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/299508045?s=72&u=c0077df8a52ee017647c6dc72299ab492e1aaa68&v=4",
+    "location": "Oman",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2026-07-03T11:52:34Z"
   }
 ]

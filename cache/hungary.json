@@ -43879,8 +43879,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 119,
-    "publicContributions": 16,
+    "privateContributions": 129,
+    "publicContributions": 21,
     "createdAt": "2019-03-25T15:37:01Z"
   },
   {
@@ -43892,19 +43892,19 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 46,
+    "publicContributions": 22,
     "createdAt": "2019-03-16T15:02:02Z"
   },
   {
     "login": "aelek73",
     "name": "Akos Elek",
     "avatarUrl": "https://avatars.githubusercontent.com/u/47024989?s=72&u=020bd0d4755ea5389289b608761804be54599587&v=4",
-    "location": "Szeged, Hungary",
-    "company": "",
+    "location": "Hungary",
+    "company": "T-Systems International GmbH",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 4,
     "createdAt": "2019-01-25T08:31:14Z"
   },
   {
@@ -43964,7 +43964,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 47,
     "createdAt": "2019-08-22T10:05:26Z"
   },
   {
@@ -43987,7 +43987,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 6,
+    "privateContributions": 0,
     "publicContributions": 29,
     "createdAt": "2019-03-16T19:21:50Z"
   },
@@ -44012,7 +44012,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 33,
+    "publicContributions": 45,
     "createdAt": "2019-01-24T09:27:39Z"
   },
   {
@@ -44022,9 +44022,9 @@
     "location": "Gyor, Hungary",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 114,
-    "publicContributions": 506,
+    "followers": 4,
+    "privateContributions": 131,
+    "publicContributions": 487,
     "createdAt": "2019-10-25T12:49:23Z"
   },
   {
@@ -44035,7 +44035,7 @@
     "company": "EFRYDO KFT",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 1065,
+    "privateContributions": 555,
     "publicContributions": 1,
     "createdAt": "2019-05-28T19:28:59Z"
   },
@@ -44084,7 +44084,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 15,
     "createdAt": "2019-05-28T13:57:52Z"
   },
   {
@@ -44107,7 +44107,7 @@
     "company": "Formlabs",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 1019,
+    "privateContributions": 1164,
     "publicContributions": 0,
     "createdAt": "2019-01-24T16:19:28Z"
   },
