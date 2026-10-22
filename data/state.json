@@ -217458,14 +217458,6 @@
           "country": "russia",
           "term": "Moscow",
           "kind": "city",
-          "createdStart": "2014-10-29",
-          "createdEnd": "2014-11-03",
-          "page": 1
-        },
-        {
-          "country": "russia",
-          "term": "Moscow",
-          "kind": "city",
           "createdStart": "2014-11-04",
           "createdEnd": "2014-11-14",
           "page": 1
@@ -218860,23 +218852,28 @@
           "completedAt": "2026-10-22T17:50:20.258Z",
           "total": 12,
           "kept": 12
+        },
+        "russia|city|Moscow|2014-10-29|2014-11-03||": {
+          "completedAt": "2026-10-22T18:06:13.957Z",
+          "total": 16,
+          "kept": 16
         }
       },
-      "lastDiscoveryAt": "2026-10-22T17:50:20.258Z",
+      "lastDiscoveryAt": "2026-10-22T18:06:13.957Z",
       "lastDiscoveryCompletedAt": null,
       "discoveryQueuedThrough": "2026-05-12",
-      "lastCacheChangeAt": "2026-10-22T17:50:20.258Z",
+      "lastCacheChangeAt": "2026-10-22T18:06:13.956Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 2954,
-        "enrichmentRequests": 4177,
-        "usersDiscovered": 116985,
-        "usersEnriched": 81747,
+        "searchRequests": 2955,
+        "enrichmentRequests": 4178,
+        "usersDiscovered": 117001,
+        "usersEnriched": 81763,
         "usersRefreshed": 0,
-        "usersKept": 65030
+        "usersKept": 65037
       }
     },
     "rwanda": {
@@ -236089,20 +236086,20 @@
       "lastDiscoveryAt": "2026-10-22T07:20:04.909Z",
       "lastDiscoveryCompletedAt": "2026-08-16T04:08:53.322Z",
       "discoveryQueuedThrough": "2026-07-21",
-      "lastCacheChangeAt": "2026-10-22T16:07:57.056Z",
+      "lastCacheChangeAt": "2026-10-22T18:06:19.382Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": "2026-10-22T13:30:05.104Z",
       "lastError": null,
       "stats": {
         "searchRequests": 81,
-        "enrichmentRequests": 235,
+        "enrichmentRequests": 236,
         "usersDiscovered": 629,
-        "usersEnriched": 4210,
-        "usersRefreshed": 3581,
+        "usersEnriched": 4230,
+        "usersRefreshed": 3601,
         "usersKept": 442
       },
-      "refreshCursor": 40
+      "refreshCursor": 60
     },
     "singapore": {
       "slug": "singapore",
@@ -237898,7 +237895,7 @@
       "lastError": {
         "message": "Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.",
         "status": null,
-        "at": "2026-10-22T16:08:54.090Z"
+        "at": "2026-10-22T18:06:51.637Z"
       },
       "stats": {
         "searchRequests": 687,
@@ -301054,18 +301051,18 @@
       "refreshCursor": 380
     }
   },
-  "nextCountryIndex": 175,
+  "nextCountryIndex": 182,
   "nextDeltaCountryIndex": 153,
-  "nextRefreshCountryIndex": 198,
+  "nextRefreshCountryIndex": 200,
   "nextRediscoveryCountryIndex": 0,
-  "lastRunStartedAt": "2026-10-22T17:35:36.982Z",
-  "lastRunFinishedAt": "2026-10-22T18:04:23.128Z",
+  "lastRunStartedAt": "2026-10-22T18:06:02.549Z",
+  "lastRunFinishedAt": "2026-10-22T18:06:51.734Z",
   "stats": {
-    "searchRequests": 89372,
-    "enrichmentRequests": 234434,
-    "usersDiscovered": 5767001,
-    "usersEnriched": 4420091,
-    "usersRefreshed": 756557,
-    "usersKept": 2718361
+    "searchRequests": 89373,
+    "enrichmentRequests": 234436,
+    "usersDiscovered": 5767017,
+    "usersEnriched": 4420127,
+    "usersRefreshed": 756577,
+    "usersKept": 2718368
   }
 }

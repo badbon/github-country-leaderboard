@@ -761972,7 +761972,7 @@
     "twitterUsername": "noraltavir",
     "followers": 118,
     "privateContributions": 0,
-    "publicContributions": 283,
+    "publicContributions": 272,
     "createdAt": "2014-11-02T15:20:39Z"
   },
   {
@@ -762282,9 +762282,9 @@
     "location": "Russia, Moscow",
     "company": "",
     "twitterUsername": "",
-    "followers": 26,
+    "followers": 27,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 7,
     "createdAt": "2014-11-03T21:17:35Z"
   },
   {
@@ -764190,9 +764190,9 @@
     "location": "Russia, Moscow",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 9,
     "createdAt": "2014-10-31T16:32:37Z"
   },
   {
@@ -764767,8 +764767,8 @@
     "company": "SberBank of Russia, Moscow, Russia; National Research University Higher School of Economics",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 863,
-    "publicContributions": 36,
+    "privateContributions": 864,
+    "publicContributions": 33,
     "createdAt": "2014-10-29T07:41:16Z"
   },
   {
@@ -780358,5 +780358,89 @@
     "privateContributions": 12,
     "publicContributions": 1,
     "createdAt": "2014-10-28T07:58:34Z"
+  },
+  {
+    "login": "apselon",
+    "name": "Adam Ildarov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9497062?s=72&u=aaa5540d24b423cc57fc86b4b36c2e7f63f55e12&v=4",
+    "location": "Moscow",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 23,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-11-01T10:32:52Z"
+  },
+  {
+    "login": "pgalonza",
+    "name": "Peter Galonza",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9444877?s=72&u=ae68a739f06fdbeb13d16d97822fd6ed5c07355f&v=4",
+    "location": "Moscow",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 15,
+    "privateContributions": 0,
+    "publicContributions": 452,
+    "createdAt": "2014-10-29T09:34:48Z"
+  },
+  {
+    "login": "ilev4ik",
+    "name": "Oganesyan Levon",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9521352?s=72&u=4da187e8bcdc6f839a1c6ea4eaad1b7f2288825f&v=4",
+    "location": "Moscow",
+    "company": "@SomeGoodOrg",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 19,
+    "publicContributions": 7,
+    "createdAt": "2014-11-02T23:46:09Z"
+  },
+  {
+    "login": "dnmos",
+    "name": "Dmitry",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9527951?s=72&v=4",
+    "location": "Moscow",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2014-11-03T09:02:04Z"
+  },
+  {
+    "login": "zedalert",
+    "name": "Aleksandr",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9460878?s=72&u=abb1294a69a09db84dff6236059118cafd6d0754&v=4",
+    "location": "Moscow, Russia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-10-30T09:55:28Z"
+  },
+  {
+    "login": "bandikoot",
+    "name": "Bandikoot",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9447149?s=72&u=573eab3acbe633291303d37c83e1829017ae7336&v=4",
+    "location": "Moscow",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-10-29T12:56:26Z"
+  },
+  {
+    "login": "ephmann",
+    "name": "Eugen Merk",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9446317?s=72&u=8e9b9e06e0af9102dd5438996b9a72f62ee59441&v=4",
+    "location": "Moscow",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2014-10-29T11:43:09Z"
   }
 ]
