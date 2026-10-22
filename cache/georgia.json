@@ -42151,8 +42151,8 @@
     "company": "",
     "twitterUsername": "zonterone",
     "followers": 2,
-    "privateContributions": 5,
-    "publicContributions": 23,
+    "privateContributions": 11,
+    "publicContributions": 24,
     "createdAt": "2019-03-24T13:05:07Z"
   },
   {
@@ -42164,7 +42164,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 53,
+    "publicContributions": 40,
     "createdAt": "2019-11-09T11:49:52Z"
   },
   {
@@ -42200,7 +42200,7 @@
     "twitterUsername": "vlad_kf",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 108,
+    "publicContributions": 125,
     "createdAt": "2019-05-31T06:57:53Z"
   },
   {
@@ -42236,7 +42236,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 1,
-    "publicContributions": 35,
+    "publicContributions": 37,
     "createdAt": "2019-09-23T10:48:23Z"
   },
   {
@@ -42248,7 +42248,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 7,
     "createdAt": "2019-01-05T18:00:49Z"
   },
   {
@@ -42258,9 +42258,9 @@
     "location": "Tbilisi, Georgia",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 1,
     "createdAt": "2019-10-18T21:03:46Z"
   },
   {
@@ -42306,22 +42306,10 @@
     "location": "Tbilisi, Georgia ",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2019-06-12T13:04:48Z"
-  },
-  {
-    "login": "leesska",
-    "name": "Elizaveta Risunova",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/53754561?s=72&u=191fe82421b6506a8168ab131c88a6eb36f80b25&v=4",
-    "location": "Tbilisi, Georgia",
-    "company": "CloudGeometry",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2019-08-05T10:04:25Z"
   },
   {
     "login": "yauheni-shcharbakou",
@@ -42331,8 +42319,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 8,
-    "publicContributions": 250,
+    "privateContributions": 79,
+    "publicContributions": 513,
     "createdAt": "2019-09-03T16:57:36Z"
   },
   {
@@ -42368,7 +42356,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 1,
     "createdAt": "2019-11-09T20:59:42Z"
   },
   {
@@ -42379,8 +42367,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 84,
-    "publicContributions": 30,
+    "privateContributions": 70,
+    "publicContributions": 29,
     "createdAt": "2019-07-03T08:58:21Z"
   },
   {

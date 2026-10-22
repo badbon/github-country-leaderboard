@@ -42415,8 +42415,8 @@
     "company": "",
     "twitterUsername": "cperazal",
     "followers": 1,
-    "privateContributions": 1669,
-    "publicContributions": 43,
+    "privateContributions": 1785,
+    "publicContributions": 40,
     "createdAt": "2017-05-26T22:52:19Z"
   },
   {
@@ -42476,7 +42476,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2017-02-07T15:38:30Z"
   },
   {
@@ -42488,7 +42488,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 37,
+    "publicContributions": 75,
     "createdAt": "2017-04-14T03:12:57Z"
   },
   {
@@ -42534,7 +42534,7 @@
     "location": "Costa Rica",
     "company": "Retired, Animal Rescue Volunteer",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2017-09-05T22:37:26Z"
@@ -42560,7 +42560,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2017-09-09T17:01:44Z"
   },
   {
@@ -42595,7 +42595,7 @@
     "company": "",
     "twitterUsername": "julio_viquez26",
     "followers": 1,
-    "privateContributions": 568,
+    "privateContributions": 490,
     "publicContributions": 1,
     "createdAt": "2017-11-01T22:44:08Z"
   },
@@ -42607,8 +42607,8 @@
     "company": "Intel",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 545,
-    "publicContributions": 5,
+    "privateContributions": 694,
+    "publicContributions": 3,
     "createdAt": "2017-08-17T16:17:37Z"
   },
   {
@@ -42620,7 +42620,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 279,
+    "publicContributions": 415,
     "createdAt": "2017-09-05T18:00:00Z"
   },
   {
@@ -67486,5 +67486,17 @@
     "privateContributions": 0,
     "publicContributions": 5,
     "createdAt": "2026-07-02T14:25:55Z"
+  },
+  {
+    "login": "juan-montilla",
+    "name": "vzlahagen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/57241197?s=72&u=f5f4a6ce8c3e894a9c233157612827015d0b750e&v=4",
+    "location": "Costa Rica",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 49,
+    "publicContributions": 9,
+    "createdAt": "2019-11-01T01:10:48Z"
   }
 ]
