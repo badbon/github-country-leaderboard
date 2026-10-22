@@ -16,7 +16,7 @@ Indexed users: 20
 | 2 | [joaopontifice](https://github.com/joaopontifice) | John | Água Grande, São Tomé e Príncipe | 183 |
 | 3 | [henilcioterras](https://github.com/henilcioterras) | Henilcio Terras | São Tomé e Príncipe | 127 |
 | 4 | [denisquintasluiz](https://github.com/denisquintasluiz) | Denis Luiz | São Gabriel, São Tomé e Príncipe | 109 |
-| 5 | [Andre-Dalva](https://github.com/Andre-Dalva) |  | São Tomé e Principe  | 74 |
+| 5 | [Andre-Dalva](https://github.com/Andre-Dalva) |  | São Tomé e Principe  | 76 |
 | 6 | [josias-gsd](https://github.com/josias-gsd) | Josias Gentil | São Tomé e Príncipe | 58 |
 | 7 | [StephannyBorges](https://github.com/StephannyBorges) | Stephanny Borges | São Tomé RN | 36 |
 | 8 | [nevesade](https://github.com/nevesade) |  NEVES ADENASIO | São Tomé e Príncipe | 15 |
@@ -38,7 +38,7 @@ Indexed users: 20
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [manoxum](https://github.com/manoxum) | Daniel Costa | São Tomé e Pricipe | 218 |
-| 2 | [Andre-Dalva](https://github.com/Andre-Dalva) |  | São Tomé e Principe  | 74 |
+| 2 | [Andre-Dalva](https://github.com/Andre-Dalva) |  | São Tomé e Principe  | 76 |
 | 3 | [StephannyBorges](https://github.com/StephannyBorges) | Stephanny Borges | São Tomé RN | 36 |
 | 4 | [josias-gsd](https://github.com/josias-gsd) | Josias Gentil | São Tomé e Príncipe | 12 |
 | 5 | [benildebonfim](https://github.com/benildebonfim) | Benilde | São Tomé e Príncipe | 3 |
@@ -83,4 +83,4 @@ Indexed users: 20
 | 19 | [manoxum](https://github.com/manoxum) | Daniel Costa | São Tomé e Pricipe | 1 |
 | 20 | [USTP](https://github.com/USTP) | USTP - Universidade de São Tomé e Principe | São Tomé e Principe, São Tomé | 1 |
 
-Generated: 2026-10-22T15:03:26.681Z
+Generated: 2026-10-22T16:05:20.504Z

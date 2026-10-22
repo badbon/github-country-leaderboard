@@ -1,13 +1,13 @@
 # Public Contributions - Madagascar
 
-Generated: 2026-10-22T14:40:54.373Z
+Generated: 2026-10-22T15:53:01.053Z
 
 Users: 1901
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [josoavj](https://github.com/josoavj) | Josoa Vonjiniaina | @APEXNovaLabs  | j_Josoa | Antananarivo, Madagascar | 7505 |
-| 2 | [tsirysndr](https://github.com/tsirysndr) | Tsiry Sandratraina | @fluentci-io | tsiry_sndr | Antananarivo / Madagascar | 6977 |
+| 2 | [tsirysndr](https://github.com/tsirysndr) | Tsiry Sandratraina | @fluentci-io | tsiry_sndr | Antananarivo / Madagascar | 7160 |
 | 3 | [Rakotoarilala51](https://github.com/Rakotoarilala51) | Aina Rakotoarilala |  |  | Madagascar | 4918 |
 | 4 | [Xpirix](https://github.com/Xpirix) | Lova Andriarimalala |  | Xpirix3 | Madagascar | 4044 |
 | 5 | [radandevist](https://github.com/radandevist) | Andrianarisoa Daniel | i_am_radan | radandevist | Anatananarivo, Madagascar | 3943 |

@@ -18,8 +18,8 @@ Indexed users: 1,746
 | 4 | [icaliman](https://github.com/icaliman) | Ion Căliman | Moldova | 11,462 |
 | 5 | [danlapteacru](https://github.com/danlapteacru) | Dan Lapteacru | Ungheni, Moldova / Iasi, Romania | 8,485 |
 | 6 | [Nemo-Illusionist](https://github.com/Nemo-Illusionist) | Peter Radilov | Moldova | 7,910 |
-| 7 | [kneazy](https://github.com/kneazy) | Vitalie | Moldova, Chisinau  | 6,940 |
-| 8 | [dotteamdev](https://github.com/dotteamdev) | Dan Oistric | Moldova | 6,910 |
+| 7 | [dotteamdev](https://github.com/dotteamdev) | Dan Oistric | Moldova | 7,420 |
+| 8 | [kneazy](https://github.com/kneazy) | Vitalie | Moldova, Chisinau  | 6,940 |
 | 9 | [deniscuciuc](https://github.com/deniscuciuc) | Denis Cuciuc | Moldova | 6,898 |
 | 10 | [pv-a-ilievici](https://github.com/pv-a-ilievici) | Andrei Ilievici | Chisinau, Moldova | 6,398 |
 | 11 | [mtkachenk0](https://github.com/mtkachenk0) | Maxim Tkachenko | Chisinau, Moldova | 6,392 |
@@ -54,9 +54,9 @@ Indexed users: 1,746
 | 15 | [Nemo-Illusionist](https://github.com/Nemo-Illusionist) | Peter Radilov | Moldova | 1,751 |
 | 16 | [g0ddest](https://github.com/g0ddest) | veet | Bendery, Moldova | 1,729 |
 | 17 | [GabsEdits](https://github.com/GabsEdits) | Gabriel Cozma | Chisinau, Moldova | 1,651 |
-| 18 | [nalyk](https://github.com/nalyk) | Ion (Nalyk) Calmîș | Ungheni, Republic of Moldova | 1,481 |
-| 19 | [iatsiuk](https://github.com/iatsiuk) | Aleksei Iatsiuk | Chisinau, Moldova | 1,378 |
-| 20 | [icaliman](https://github.com/icaliman) | Ion Căliman | Moldova | 1,332 |
+| 18 | [TimurCravtov](https://github.com/TimurCravtov) | Timur Сravtov | Chisinau, Moldova | 1,490 |
+| 19 | [nalyk](https://github.com/nalyk) | Ion (Nalyk) Calmîș | Ungheni, Republic of Moldova | 1,481 |
+| 20 | [iatsiuk](https://github.com/iatsiuk) | Aleksei Iatsiuk | Chisinau, Moldova | 1,378 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,746
 | 19 | [vgaidarji](https://github.com/vgaidarji) | Veaceslav Gaidarji | Moldova | 114 |
 | 20 | [Ernest96](https://github.com/Ernest96) | Ernest | Chisinau Moldova | 107 |
 
-Generated: 2026-10-22T14:47:54.594Z
+Generated: 2026-10-22T15:56:13.807Z

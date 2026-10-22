@@ -22,7 +22,7 @@ Indexed users: 1,901
 | 8 | [Xpirix](https://github.com/Xpirix) | Lova Andriarimalala | Madagascar | 9,801 |
 | 9 | [josoavj](https://github.com/josoavj) | Josoa Vonjiniaina | Antananarivo, Madagascar | 7,813 |
 | 10 | [radandevist](https://github.com/radandevist) | Andrianarisoa Daniel | Anatananarivo, Madagascar | 7,648 |
-| 11 | [tsirysndr](https://github.com/tsirysndr) | Tsiry Sandratraina | Antananarivo / Madagascar | 6,996 |
+| 11 | [tsirysndr](https://github.com/tsirysndr) | Tsiry Sandratraina | Antananarivo / Madagascar | 7,178 |
 | 12 | [TantelyRandriamazaoro](https://github.com/TantelyRandriamazaoro) | Tantely Randriamazaoro | Madagascar | 6,696 |
 | 13 | [amel-sc](https://github.com/amel-sc) | Amel CHARLES | Madagascar | 6,519 |
 | 14 | [Andryrasolofomanana](https://github.com/Andryrasolofomanana) | Andry Rasolofomanana | Madagascar | 5,857 |
@@ -38,7 +38,7 @@ Indexed users: 1,901
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [josoavj](https://github.com/josoavj) | Josoa Vonjiniaina | Antananarivo, Madagascar | 7,505 |
-| 2 | [tsirysndr](https://github.com/tsirysndr) | Tsiry Sandratraina | Antananarivo / Madagascar | 6,977 |
+| 2 | [tsirysndr](https://github.com/tsirysndr) | Tsiry Sandratraina | Antananarivo / Madagascar | 7,160 |
 | 3 | [Rakotoarilala51](https://github.com/Rakotoarilala51) | Aina Rakotoarilala | Madagascar | 4,918 |
 | 4 | [Xpirix](https://github.com/Xpirix) | Lova Andriarimalala | Madagascar | 4,044 |
 | 5 | [radandevist](https://github.com/radandevist) | Andrianarisoa Daniel | Anatananarivo, Madagascar | 3,943 |
@@ -62,7 +62,7 @@ Indexed users: 1,901
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [tsirysndr](https://github.com/tsirysndr) | Tsiry Sandratraina | Antananarivo / Madagascar | 610 |
+| 1 | [tsirysndr](https://github.com/tsirysndr) | Tsiry Sandratraina | Antananarivo / Madagascar | 613 |
 | 2 | [mattnix4](https://github.com/mattnix4) | Nix Ra | Antananarivo, Madagascar | 421 |
 | 3 | [hatixntsoa](https://github.com/hatixntsoa) | Hatix Ntsoa | Madagascar | 374 |
 | 4 | [DavFilsDev](https://github.com/DavFilsDev) | F. Miharisoa David Fils RATIANDRAIBE | Antananarivo Madagascar | 357 |
@@ -83,4 +83,4 @@ Indexed users: 1,901
 | 19 | [tokyramarozaka](https://github.com/tokyramarozaka) | Tokimahery | Madagascar | 143 |
 | 20 | [luckasRanarison](https://github.com/luckasRanarison) | Luckas | Antananarivo, Madagascar | 141 |
 
-Generated: 2026-10-22T14:40:54.373Z
+Generated: 2026-10-22T15:53:01.053Z

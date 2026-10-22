@@ -23,8 +23,8 @@ Indexed users: 297
 | 9 | [Justany](https://github.com/Justany) | Justany ITOUA | Brazzaville | 2,996 |
 | 10 | [OrionWambert](https://github.com/OrionWambert) | Orion WAMBERT | Brazzaville - Congo | 2,962 |
 | 11 | [Merite15](https://github.com/Merite15) | Merite | Brazzaville, Congo | 2,922 |
-| 12 | [Elisee01](https://github.com/Elisee01) | Kitoga Elisee | Kigali, Rwanda \| Congo, Kinshasa | 2,480 |
-| 13 | [sancty007](https://github.com/sancty007) | sanctifier Yaw-Mensah | Congo Brazzaville  | 2,351 |
+| 12 | [Elisee01](https://github.com/Elisee01) | Kitoga Elisee | Kigali, Rwanda \| Congo, Kinshasa | 2,487 |
+| 13 | [sancty007](https://github.com/sancty007) | sanctifier Yaw-Mensah | Congo Brazzaville  | 2,356 |
 | 14 | [Cesar008](https://github.com/Cesar008) | Cesar Grace Louzala | Congo | 2,311 |
 | 15 | [josuebrunel](https://github.com/josuebrunel) | Josue Kouka | Pointe-Noire (Congo) | 2,294 |
 | 16 | [gedeon2306](https://github.com/gedeon2306) | JihrelDev | Brazzaville | 1,944 |
@@ -43,7 +43,7 @@ Indexed users: 297
 | 4 | [Shadow8021](https://github.com/Shadow8021) | Red_Sh@dow | Congo, brazzaville | 1,088 |
 | 5 | [ksthecrowned](https://github.com/ksthecrowned) | Kaiser D. Styve | Brazzaville | 764 |
 | 6 | [BlackAngel242](https://github.com/BlackAngel242) | DrSmoke | Congo | 649 |
-| 7 | [Espoir-Loem](https://github.com/Espoir-Loem) | Espoir LOEMBA | R.Congo, Brazzaville | 614 |
+| 7 | [Espoir-Loem](https://github.com/Espoir-Loem) | Espoir LOEMBA | R.Congo, Brazzaville | 615 |
 | 8 | [elongastarks](https://github.com/elongastarks) | Elonga Stark  | Congo/North-kivu/Butembo | 479 |
 | 9 | [SedeoLeos](https://github.com/SedeoLeos) | Slaega | Brazzaville congo | 455 |
 | 10 | [Flammeduciel](https://github.com/Flammeduciel) | Flamme Du Ciel WASS | Brazzaville CG | 389 |
@@ -63,7 +63,7 @@ Indexed users: 297
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [chronoss09](https://github.com/chronoss09) | Chronoss | Congo | 214 |
-| 2 | [Shadow8021](https://github.com/Shadow8021) | Red_Sh@dow | Congo, brazzaville | 207 |
+| 2 | [Shadow8021](https://github.com/Shadow8021) | Red_Sh@dow | Congo, brazzaville | 206 |
 | 3 | [Josephbakulikira](https://github.com/Josephbakulikira) | Joseph  | Congo | 107 |
 | 4 | [AdalbertPungu](https://github.com/AdalbertPungu) | Adalbert Pungu | Congo (DRC) | 105 |
 | 5 | [hkfmz](https://github.com/hkfmz) | Hegel Motokoua | Brazzaville | 95 |
@@ -83,4 +83,4 @@ Indexed users: 297
 | 19 | [WinnersProx](https://github.com/WinnersProx) | Vainqueur Bihame | Kigali,Rwanda,Congo | 25 |
 | 20 | [jenCkw](https://github.com/jenCkw) | Jenny Chikwanine | Congo | 23 |
 
-Generated: 2026-10-22T14:59:27.241Z
+Generated: 2026-10-22T16:03:17.766Z

@@ -1,6 +1,6 @@
 # Followers - Myanmar
 
-Generated: 2026-10-22T14:50:28.512Z
+Generated: 2026-10-22T15:57:25.895Z
 
 Users: 2055
 
@@ -16,13 +16,13 @@ Users: 2055
 | 8 | [waiferkolar](https://github.com/waiferkolar) | waiferkolar | 72CODER Software Development Co.,Ltd |  | Brighter Myanmar Computer Class, Second Top of San Yeik Nyein, Helden, Yangoon, Myanmar | 350 |
 | 9 | [sanlinhtik3](https://github.com/sanlinhtik3) | San Lin Htike | ZOE Crypto |  | Myanmar | 299 |
 | 10 | [trhura](https://github.com/trhura) | Thura Hlaing |  |  | Yangon, Myanmar | 265 |
-| 11 | [Hsuzarnimaung](https://github.com/Hsuzarnimaung) | Hsu Zarni Maung | None |  | Tamu, Myanmar | 254 |
+| 11 | [Hsuzarnimaung](https://github.com/Hsuzarnimaung) | Hsu Zarni Maung | None |  | Tamu, Myanmar | 260 |
 | 12 | [theaungmyatmoe](https://github.com/theaungmyatmoe) | Aung Myat Moe | @myanmarcyberyouths  | aungmyatmoe_ | Yangon, Myanmar | 237 |
 | 13 | [sawmon71293](https://github.com/sawmon71293) | Saw Mon Han | Vithey |  | Myanmar | 235 |
 | 14 | [tharhtetsan](https://github.com/tharhtetsan) | Thar Htet San | University of Computer Studies, Mandalay |  | Yangon, Myanmar | 234 |
 | 15 | [MinSiThu](https://github.com/MinSiThu) | Min Si Thu |  |  | Myanmar | 214 |
 | 16 | [Hein-HtetSan](https://github.com/Hein-HtetSan) | dev@hnhts | Freelance |  | Myanmar, Yangon | 207 |
 | 17 | [thenayjourney](https://github.com/thenayjourney) | Nay Yaung Lin Lakk | Pet Sentry |  | Yangon, Myanmar | 199 |
-| 18 | [ko-htut](https://github.com/ko-htut) | Ko Htut | A Bank | ko_htutz | Myanmar | 170 |
+| 18 | [ko-htut](https://github.com/ko-htut) | Ko Htut | A Bank | ko_htutz | Myanmar | 171 |
 | 19 | [winsandymyint](https://github.com/winsandymyint) | Win Sandy Myint |  | winsandymyint | Myanmar | 168 |
 | 20 | [LunaM00n](https://github.com/LunaM00n) | Thin Ba Shane (Luna) | Creatigon |  | Myanmar | 162 |

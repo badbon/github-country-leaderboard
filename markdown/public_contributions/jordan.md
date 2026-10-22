@@ -1,6 +1,6 @@
 # Public Contributions - Jordan
 
-Generated: 2026-10-22T14:35:09.812Z
+Generated: 2026-10-22T15:49:55.141Z
 
 Users: 4000
 
@@ -17,11 +17,11 @@ Users: 4000
 | 9 | [Natshah](https://github.com/Natshah) | Rajab Natshah | @Vardot  |  | Amman, Jordan | 2587 |
 | 10 | [omar-dulaimi](https://github.com/omar-dulaimi) | Omar Dulaimi |  | omardulaimidev | Jordan | 2095 |
 | 11 | [OmarAlJarrah](https://github.com/OmarAlJarrah) | Omar Aljarrah | @ExpediaGroup @dexpace |  | Jordan | 2042 |
-| 12 | [DRAGOX7](https://github.com/DRAGOX7) | Abdallah Talal Abdallah Alja'Fari |  |  | Jordan | 1783 |
-| 13 | [motasemodeh](https://github.com/motasemodeh) | Mo'tasem Odeh |  |  | Amman/Jordan | 1777 |
-| 14 | [AbdulTheActivePiecer](https://github.com/AbdulTheActivePiecer) | Abdul | Activepieces |  | Jordan | 1620 |
-| 15 | [LinuxDevil](https://github.com/LinuxDevil) | Ali Mohammad | @tajawal |  | Amman, Jordan | 1500 |
-| 16 | [AliOsm](https://github.com/AliOsm) | Ali Hamdi Ali Fadel | MilkStraw AI | alihfadel | Amman - Jordan | 1409 |
+| 12 | [AliOsm](https://github.com/AliOsm) | Ali Hamdi Ali Fadel | MilkStraw AI | alihfadel | Amman - Jordan | 1973 |
+| 13 | [DRAGOX7](https://github.com/DRAGOX7) | Abdallah Talal Abdallah Alja'Fari |  |  | Jordan | 1783 |
+| 14 | [motasemodeh](https://github.com/motasemodeh) | Mo'tasem Odeh |  |  | Amman/Jordan | 1777 |
+| 15 | [AbdulTheActivePiecer](https://github.com/AbdulTheActivePiecer) | Abdul | Activepieces |  | Jordan | 1620 |
+| 16 | [LinuxDevil](https://github.com/LinuxDevil) | Ali Mohammad | @tajawal |  | Amman, Jordan | 1500 |
 | 17 | [almothafar](https://github.com/almothafar) | Al-Mothafar Al-Hasan |  | AlMothafar | Amman, Jordan | 1369 |
 | 18 | [mohammadtmohsen](https://github.com/mohammadtmohsen) | Mohammad Taleb |  |  | Jordan | 1349 |
 | 19 | [omar7altawil](https://github.com/omar7altawil) | Omar Tawil | @Null-Square  |  | Amman | 1264 |

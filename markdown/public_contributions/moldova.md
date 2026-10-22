@@ -1,6 +1,6 @@
 # Public Contributions - Moldova
 
-Generated: 2026-10-22T14:47:54.594Z
+Generated: 2026-10-22T15:56:13.807Z
 
 Users: 1746
 
@@ -23,6 +23,6 @@ Users: 1746
 | 15 | [Nemo-Illusionist](https://github.com/Nemo-Illusionist) | Peter Radilov | @ApprovalMax |  | Moldova | 1751 |
 | 16 | [g0ddest](https://github.com/g0ddest) | veet |  |  | Bendery, Moldova | 1729 |
 | 17 | [GabsEdits](https://github.com/GabsEdits) | Gabriel Cozma | @fabricatorsltd | gxbsdev | Chisinau, Moldova | 1651 |
-| 18 | [nalyk](https://github.com/nalyk) | Ion (Nalyk) Calmîș | Yoda.Digital | nalyk | Ungheni, Republic of Moldova | 1481 |
-| 19 | [iatsiuk](https://github.com/iatsiuk) | Aleksei Iatsiuk | Overgear |  | Chisinau, Moldova | 1378 |
-| 20 | [icaliman](https://github.com/icaliman) | Ion Căliman | XLITE DEV |  | Moldova | 1332 |
+| 18 | [TimurCravtov](https://github.com/TimurCravtov) | Timur Сravtov |  |  | Chisinau, Moldova | 1490 |
+| 19 | [nalyk](https://github.com/nalyk) | Ion (Nalyk) Calmîș | Yoda.Digital | nalyk | Ungheni, Republic of Moldova | 1481 |
+| 20 | [iatsiuk](https://github.com/iatsiuk) | Aleksei Iatsiuk | Overgear |  | Chisinau, Moldova | 1378 |

@@ -1,6 +1,6 @@
 # Public Contributions - Macau
 
-Generated: 2026-10-22T14:40:48.230Z
+Generated: 2026-10-22T15:52:56.942Z
 
 Users: 438
 
@@ -23,6 +23,6 @@ Users: 438
 | 15 | [DoongLi](https://github.com/DoongLi) | Frankie Dong Li |  | Doong__Li | Taipa, Macau | 660 |
 | 16 | [gorgeousfish](https://github.com/gorgeousfish) | xuanyucai | City University of Macau |  | Macau | 596 |
 | 17 | [Chonwai](https://github.com/Chonwai) | Chonwai Un, Edison |  |  | Macau | 584 |
-| 18 | [Boom5426](https://github.com/Boom5426) | Bo li (李波) | University of Macau |  | Macau | 575 |
+| 18 | [Boom5426](https://github.com/Boom5426) | Bo li (李波) | University of Macau |  | Macau | 574 |
 | 19 | [alemonmk](https://github.com/alemonmk) | Lemon Lam | Lemon Network Solutions |  | Macau | 507 |
 | 20 | [LunchBox](https://github.com/LunchBox) | Daniel |  |  | Macau | 467 |

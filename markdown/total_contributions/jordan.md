@@ -1,6 +1,6 @@
 # Total Contributions - Jordan
 
-Generated: 2026-10-22T14:35:09.812Z
+Generated: 2026-10-22T15:49:55.141Z
 
 Users: 4000
 
@@ -21,8 +21,8 @@ Users: 4000
 | 13 | [waleedyaseen](https://github.com/waleedyaseen) | Waleed Yaseen |  |  | Jordan, Amman | 6922 |
 | 14 | [MKAbuMattar](https://github.com/MKAbuMattar) | Mohammad Abu Mattar | @quenchworks, @withrawi,@IbdaaiCloud, @qawnapp, @cirrusgo |  | Amman, Jordan | 6753 |
 | 15 | [OsamaAssaf](https://github.com/OsamaAssaf) | Osama Assaf | @Solutions-Now | OsamaAssaf2k | Jordan | 6492 |
-| 16 | [shqear93](https://github.com/shqear93) | Khaled AbuShqear | Careem |  | Amman | 6238 |
-| 17 | [Hashem-Tabbaa](https://github.com/Hashem-Tabbaa) | Hashem Altabbaa |  |  | Jordan-Amman | 6204 |
-| 18 | [K3epEv3rythingYours](https://github.com/K3epEv3rythingYours) | K3YB1T |  |  | Jordan | 6128 |
-| 19 | [MahmoudEsawi](https://github.com/MahmoudEsawi) | Mahmoud Al-Esawi | MENADevs |  | Amman\Jordan | 5804 |
-| 20 | [Ti-03](https://github.com/Ti-03) | Qutibah Ananzeh |  |  | Amman, Jordan | 5777 |
+| 16 | [AliOsm](https://github.com/AliOsm) | Ali Hamdi Ali Fadel | MilkStraw AI | alihfadel | Amman - Jordan | 6341 |
+| 17 | [shqear93](https://github.com/shqear93) | Khaled AbuShqear | Careem |  | Amman | 6238 |
+| 18 | [Hashem-Tabbaa](https://github.com/Hashem-Tabbaa) | Hashem Altabbaa |  |  | Jordan-Amman | 6204 |
+| 19 | [K3epEv3rythingYours](https://github.com/K3epEv3rythingYours) | K3YB1T |  |  | Jordan | 6128 |
+| 20 | [MahmoudEsawi](https://github.com/MahmoudEsawi) | Mahmoud Al-Esawi | MENADevs |  | Amman\Jordan | 5804 |

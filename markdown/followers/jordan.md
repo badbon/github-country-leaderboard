@@ -1,6 +1,6 @@
 # Followers - Jordan
 
-Generated: 2026-10-22T14:35:09.812Z
+Generated: 2026-10-22T15:49:55.141Z
 
 Users: 4000
 
@@ -16,7 +16,7 @@ Users: 4000
 | 8 | [abuaboud](https://github.com/abuaboud) | Mo AbuAboud | @activepieces  | mabuaboud | Amman, Jordan | 501 |
 | 9 | [Natshah](https://github.com/Natshah) | Rajab Natshah | @Vardot  |  | Amman, Jordan | 469 |
 | 10 | [jaberjaber23](https://github.com/jaberjaber23) | Jaber Jaber | RightNow AI | Akashi203 | Amman, Jordan | 456 |
-| 11 | [AliOsm](https://github.com/AliOsm) | Ali Hamdi Ali Fadel | MilkStraw AI | alihfadel | Amman - Jordan | 427 |
+| 11 | [AliOsm](https://github.com/AliOsm) | Ali Hamdi Ali Fadel | MilkStraw AI | alihfadel | Amman - Jordan | 436 |
 | 12 | [NSAntoine](https://github.com/NSAntoine) | NSAntoine |  |  | Amman, Jordan | 389 |
 | 13 | [OmarSalhab](https://github.com/OmarSalhab) | Omar Marouf |  | MoonWebsDev | Jordan | 372 |
 | 14 | [nancyalaswad90](https://github.com/nancyalaswad90) | Ms. Nancy Al Aswad  | Independent Contractor  | AswadNancy | Jordan | 329 |

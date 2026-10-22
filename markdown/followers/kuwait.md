@@ -1,12 +1,12 @@
 # Followers - Kuwait
 
-Generated: 2026-10-22T14:36:44.061Z
+Generated: 2026-10-22T15:50:30.067Z
 
 Users: 796
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [NYAN-x-CAT](https://github.com/NYAN-x-CAT) | NYAN CAT |  |  | Kuwait | 3189 |
+| 1 | [NYAN-x-CAT](https://github.com/NYAN-x-CAT) | NYAN CAT |  |  | Kuwait | 3190 |
 | 2 | [Voulnet](https://github.com/Voulnet) | Mohammed ALDOUB |  |  | Kuwait, Kuwait City | 446 |
 | 3 | [abdallahelsokary](https://github.com/abdallahelsokary) | Abdallah Elsokary |  |  | kuwait | 390 |
 | 4 | [Mazyod](https://github.com/Mazyod) | Maz | Boubyan Bank |  | Kuwait | 211 |

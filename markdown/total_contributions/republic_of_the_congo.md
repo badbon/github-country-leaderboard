@@ -1,6 +1,6 @@
 # Total Contributions - Republic of the Congo
 
-Generated: 2026-10-22T14:59:27.241Z
+Generated: 2026-10-22T16:03:17.766Z
 
 Users: 297
 
@@ -17,8 +17,8 @@ Users: 297
 | 9 | [Justany](https://github.com/Justany) | Justany ITOUA | Confort 7 incubateur | justany_itoua | Brazzaville | 2996 |
 | 10 | [OrionWambert](https://github.com/OrionWambert) | Orion WAMBERT | Akieni |  | Brazzaville - Congo | 2962 |
 | 11 | [Merite15](https://github.com/Merite15) | Merite |  |  | Brazzaville, Congo | 2922 |
-| 12 | [Elisee01](https://github.com/Elisee01) | Kitoga Elisee | Globoris Technologies | KitogaElisee | Kigali, Rwanda \| Congo, Kinshasa | 2480 |
-| 13 | [sancty007](https://github.com/sancty007) | sanctifier Yaw-Mensah |  |  | Congo Brazzaville  | 2351 |
+| 12 | [Elisee01](https://github.com/Elisee01) | Kitoga Elisee | Globoris Technologies | KitogaElisee | Kigali, Rwanda \| Congo, Kinshasa | 2487 |
+| 13 | [sancty007](https://github.com/sancty007) | sanctifier Yaw-Mensah |  |  | Congo Brazzaville  | 2356 |
 | 14 | [Cesar008](https://github.com/Cesar008) | Cesar Grace Louzala | cesoentreprise | CesarLouzala | Congo | 2311 |
 | 15 | [josuebrunel](https://github.com/josuebrunel) | Josue Kouka |  | josuebrunel | Pointe-Noire (Congo) | 2294 |
 | 16 | [gedeon2306](https://github.com/gedeon2306) | JihrelDev |  |  | Brazzaville | 1944 |

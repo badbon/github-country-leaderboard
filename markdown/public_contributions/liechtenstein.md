@@ -1,6 +1,6 @@
 # Public Contributions - Liechtenstein
 
-Generated: 2026-10-22T14:40:28.933Z
+Generated: 2026-10-22T15:51:51.020Z
 
 Users: 113
 
@@ -10,8 +10,8 @@ Users: 113
 | 2 | [marsop](https://github.com/marsop) | Alberto Gregorio | phios ag | marsop_ | Ruggell, Liechtenstein | 1702 |
 | 3 | [niklasfrick](https://github.com/niklasfrick) | Niklas Frick | @theplatformengineeringcompany | FrickNiklas | Liechtenstein | 1246 |
 | 4 | [iwhp](https://github.com/iwhp) | Harry Pfleger |  |  | Liechtenstein | 760 |
-| 5 | [masteradhoc](https://github.com/masteradhoc) | Brian |  | mrbrianhaas | Liechtenstein | 675 |
-| 6 | [PhilippHGerber](https://github.com/PhilippHGerber) | Philipp H. Gerber |  | PhilippHGerber | Liechtenstein | 582 |
+| 5 | [masteradhoc](https://github.com/masteradhoc) | Brian |  | mrbrianhaas | Liechtenstein | 676 |
+| 6 | [PhilippHGerber](https://github.com/PhilippHGerber) | Philipp H. Gerber |  | PhilippHGerber | Liechtenstein | 589 |
 | 7 | [msanft](https://github.com/msanft) | Moritz Sanft | Edgeless Systems | stdoutput | Liechtenstein | 517 |
 | 8 | [archham](https://github.com/archham) | Nicolas Eberle |  |  | Liechtenstein | 457 |
 | 9 | [anondotli](https://github.com/anondotli) | anon.li |  |  | Liechtenstein | 302 |

@@ -1,6 +1,6 @@
 # Total Contributions - North Korea
 
-Generated: 2026-10-22T14:54:45.180Z
+Generated: 2026-10-22T15:59:31.789Z
 
 Users: 185
 
@@ -11,7 +11,7 @@ Users: 185
 | 3 | [boyesjo](https://github.com/boyesjo) | Boye Sjo | yo mama | elonmusk | pyongyang | 4458 |
 | 4 | [sakweli](https://github.com/sakweli) | Josh Sakweli | Qbit Spark | JosureSimon | North Korea | 2472 |
 | 5 | [henxdl](https://github.com/henxdl) | henxdl | Unemployed :) |  | Pyongyang, North Korea | 2005 |
-| 6 | [andrewlee1807](https://github.com/andrewlee1807) | Andrew |  |  | North Korea | 1607 |
+| 6 | [andrewlee1807](https://github.com/andrewlee1807) | Andrew |  |  | North Korea | 1610 |
 | 7 | [The-Red-Serpent](https://github.com/The-Red-Serpent) | The_Red_Serpent |  |  | Pyongyang, North Korea | 1310 |
 | 8 | [iam-orsu](https://github.com/iam-orsu) | Vamsi Krishna |  |  | North Korea | 880 |
 | 9 | [Aashaby](https://github.com/Aashaby) |  |  |  | North Korea | 838 |

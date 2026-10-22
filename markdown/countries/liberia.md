@@ -24,14 +24,14 @@ Indexed users: 210
 | 10 | [arunponnappan](https://github.com/arunponnappan) | Arun P | Monrovia | 1,410 |
 | 11 | [Carlostala04](https://github.com/Carlostala04) | Carlos Talavera | Liberia | 1,142 |
 | 12 | [mdsomah](https://github.com/mdsomah) | Mesheal D. Somah Sr. | Monrovia, Liberia | 1,106 |
-| 13 | [KalevRK](https://github.com/KalevRK) | Kalev Roomann-Kurrik | Monrovia, CA | 879 |
+| 13 | [KalevRK](https://github.com/KalevRK) | Kalev Roomann-Kurrik | Monrovia, CA | 881 |
 | 14 | [stenson](https://github.com/stenson) | Rob Stenson | Monrovia, CA | 868 |
 | 15 | [daddysboy21](https://github.com/daddysboy21) | daddysboy.21 | Monrovia, Liberia | 841 |
 | 16 | [abubakar3rd](https://github.com/abubakar3rd) | Abu-Bakar Abdullah Kanneh | Airfield, Sinkor, Monrovia, Liberia | 830 |
 | 17 | [jdaltonll02](https://github.com/jdaltonll02) | John Dalton Gibson | Liberia | 763 |
 | 18 | [efmomoh](https://github.com/efmomoh) | ENSSAH FAYIA MOMOH | Monrovia, Liberia | 719 |
-| 19 | [davewonnah](https://github.com/davewonnah) | Dave Wonnah | Monrovia, Liberia | 635 |
-| 20 | [xarrijorge](https://github.com/xarrijorge) | The African Nomad | Monrovia, Liberia | 626 |
+| 19 | [ryanafdahl](https://github.com/ryanafdahl) | Ryan Afdahl | Monrovia, CA | 689 |
+| 20 | [davewonnah](https://github.com/davewonnah) | Dave Wonnah | Monrovia, Liberia | 635 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 210
 | 19 | [boaslah](https://github.com/boaslah) | Blessing Boaslah | Montserrado County, Liberia  | 21 |
 | 20 | [ejaygbay](https://github.com/ejaygbay) | Emmanuel Jaygbay | Liberia | 21 |
 
-Generated: 2026-10-22T14:39:10.648Z
+Generated: 2026-10-22T15:50:59.504Z

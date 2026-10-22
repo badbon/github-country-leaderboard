@@ -17,7 +17,7 @@ Indexed users: 185
 | 3 | [boyesjo](https://github.com/boyesjo) | Boye Sjo | pyongyang | 4,458 |
 | 4 | [sakweli](https://github.com/sakweli) | Josh Sakweli | North Korea | 2,472 |
 | 5 | [henxdl](https://github.com/henxdl) | henxdl | Pyongyang, North Korea | 2,005 |
-| 6 | [andrewlee1807](https://github.com/andrewlee1807) | Andrew | North Korea | 1,607 |
+| 6 | [andrewlee1807](https://github.com/andrewlee1807) | Andrew | North Korea | 1,610 |
 | 7 | [The-Red-Serpent](https://github.com/The-Red-Serpent) | The_Red_Serpent | Pyongyang, North Korea | 1,310 |
 | 8 | [iam-orsu](https://github.com/iam-orsu) | Vamsi Krishna | North Korea | 880 |
 | 9 | [Aashaby](https://github.com/Aashaby) |  | North Korea | 838 |
@@ -64,7 +64,7 @@ Indexed users: 185
 |---:|---|---|---|---:|
 | 1 | [x1hy9](https://github.com/x1hy9) | MyeongGun Kim | Pyongyang | 139 |
 | 2 | [jdzmfg](https://github.com/jdzmfg) | ! ★ | pyongyang | 69 |
-| 3 | [0x4f53](https://github.com/0x4f53) | Owais Shaikh | 🇰🇵 Pyongyang, North Korea | 66 |
+| 3 | [0x4f53](https://github.com/0x4f53) | Owais Shaikh | 🇰🇵 Pyongyang, North Korea | 67 |
 | 4 | [advanced-rising](https://github.com/advanced-rising) | risingcore | Democratic People's Republic of Korea | 62 |
 | 5 | [norksec](https://github.com/norksec) | NORKSEC | Pyongyang, North Korea | 32 |
 | 6 | [strangerting](https://github.com/strangerting) | Big Kim | Bunker, DPRK | 32 |
@@ -83,4 +83,4 @@ Indexed users: 185
 | 19 | [DillerOFire](https://github.com/DillerOFire) | VerpaSRP | North Korea | 14 |
 | 20 | [JeonJung-kook](https://github.com/JeonJung-kook) | Jeon Jung-kook Cantor | North Korea | 14 |
 
-Generated: 2026-10-22T14:54:45.180Z
+Generated: 2026-10-22T15:59:31.789Z

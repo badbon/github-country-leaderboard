@@ -1,16 +1,16 @@
 # Followers - Lesotho
 
-Generated: 2026-10-22T14:39:03.399Z
+Generated: 2026-10-22T15:50:52.461Z
 
 Users: 160
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [KamoheloKoali](https://github.com/KamoheloKoali) | Kamohelo Koali |  |  | Lesotho | 252 |
+| 1 | [KamoheloKoali](https://github.com/KamoheloKoali) | Kamohelo Koali |  |  | Lesotho | 253 |
 | 2 | [LomNtetha](https://github.com/LomNtetha) | Lumkile Ntetha |  | ntethalumkile | Maseru | 215 |
 | 3 | [ocaes](https://github.com/ocaes) | Tsitso Mafantiri | OCAES  | ocaes_lso | Lesotho | 114 |
-| 4 | [hitman1c](https://github.com/hitman1c) | SechabaLaptopTracker | SechabaLaptopTracker |  | Lesotho,Maseru | 62 |
-| 5 | [Tumisangkhabisi](https://github.com/Tumisangkhabisi) | Tumisang khabisi |  | khabisixivk | Lesotho, maseru | 53 |
+| 4 | [hitman1c](https://github.com/hitman1c) | SechabaLaptopTracker | SechabaLaptopTracker |  | Lesotho,Maseru | 64 |
+| 5 | [Tumisangkhabisi](https://github.com/Tumisangkhabisi) | Tumisang khabisi |  | khabisixivk | Lesotho, maseru | 54 |
 | 6 | [Lemohang](https://github.com/Lemohang) | Lemohang57 |  |  | Maseru  | 45 |
 | 7 | [khauta](https://github.com/khauta) | Khauta Maliehe | @Liparola  | kjamaliehe | Maseru, Lesotho | 44 |
 | 8 | [khobatha](https://github.com/khobatha) | Khobatha Setetemela | NUL |  | Maseru, Roma, Lesotho | 38 |

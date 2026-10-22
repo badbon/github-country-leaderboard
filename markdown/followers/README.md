@@ -149,7 +149,7 @@ Published countries: 234
 | Nauru | 3 | [View](./nauru.md) |
 | Nepal | 14,097 | [View](./nepal.md) |
 | New Caledonia | 111 | [View](./new_caledonia.md) |
-| New Zealand | 12,141 | [View](./new_zealand.md) |
+| New Zealand | 12,140 | [View](./new_zealand.md) |
 | Nicaragua | 1,395 | [View](./nicaragua.md) |
 | Niger | 175 | [View](./niger.md) |
 | Nigeria | 33,179 | [View](./nigeria.md) |
@@ -158,18 +158,18 @@ Published countries: 234
 | North Korea | 185 | [View](./north_korea.md) |
 | North Macedonia | 1,923 | [View](./north_macedonia.md) |
 | Northern Mariana Islands | 13 | [View](./northern_mariana_islands.md) |
-| Norway | 19,621 | [View](./norway.md) |
+| Norway | 19,620 | [View](./norway.md) |
 | Oman | 990 | [View](./oman.md) |
-| Pakistan | 41,867 | [View](./pakistan.md) |
+| Pakistan | 41,866 | [View](./pakistan.md) |
 | Palau | 2 | [View](./palau.md) |
-| Palestine | 2,196 | [View](./palestine.md) |
+| Palestine | 2,195 | [View](./palestine.md) |
 | Panama | 1,070 | [View](./panama.md) |
 | Papua New Guinea | 296 | [View](./papua_new_guinea.md) |
 | Paraguay | 2,013 | [View](./paraguay.md) |
 | Peru | 9,765 | [View](./peru.md) |
 | Philippines | 19,744 | [View](./philippines.md) |
 | Pitcairn Islands | 5 | [View](./pitcairn_islands.md) |
-| Portugal | 28,427 | [View](./portugal.md) |
+| Portugal | 28,426 | [View](./portugal.md) |
 | Puerto Rico | 1,531 | [View](./puerto_rico.md) |
 | Qatar | 1,073 | [View](./qatar.md) |
 | Republic of the Congo | 297 | [View](./republic_of_the_congo.md) |
@@ -201,7 +201,7 @@ Published countries: 234
 | South Georgia | 6 | [View](./south_georgia.md) |
 | South Korea | 56,901 | [View](./south_korea.md) |
 | South Sudan | 132 | [View](./south_sudan.md) |
-| Sri Lanka | 18,303 | [View](./sri_lanka.md) |
+| Sri Lanka | 18,302 | [View](./sri_lanka.md) |
 | Sudan | 727 | [View](./sudan.md) |
 | Suriname | 123 | [View](./suriname.md) |
 | Svalbard and Jan Mayen | 10 | [View](./svalbard_and_jan_mayen.md) |
@@ -239,4 +239,4 @@ Published countries: 234
 | Zambia | 1,336 | [View](./zambia.md) |
 | Zimbabwe | 1,656 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-22T15:49:23.630Z
+Generated: 2026-10-22T16:06:58.260Z

@@ -14,7 +14,7 @@ Indexed users: 289
 |---:|---|---|---|---:|
 | 1 | [Hashimi01](https://github.com/Hashimi01) | Hashimi El Hashimi | Nouakchott, Mauritania | 13,056 |
 | 2 | [medsabbar](https://github.com/medsabbar) | Mohamed Sabbar | Nouakchott, Mauritania | 12,755 |
-| 3 | [ahmed-abdat](https://github.com/ahmed-abdat) | Ahmed Abdellahi Abdat | mauritania nouakchott | 11,562 |
+| 3 | [ahmed-abdat](https://github.com/ahmed-abdat) | Ahmed Abdellahi Abdat | mauritania nouakchott | 11,587 |
 | 4 | [LeminEly](https://github.com/LeminEly) | Lemin | Mauritania | 8,439 |
 | 5 | [BechirAhmed](https://github.com/BechirAhmed) | Bechir Ahmed | Nouakchott, Mauritania | 5,273 |
 | 6 | [mohameden19961](https://github.com/mohameden19961) | abdy mohameden | Nouakchott, Mauritania | 4,092 |
@@ -46,9 +46,9 @@ Indexed users: 289
 | 7 | [AbdellahiAhmed](https://github.com/AbdellahiAhmed) | Abdellahi Ahmed | Nouakchott | 558 |
 | 8 | [12ahm-c](https://github.com/12ahm-c) | ahmed ismail | Mauritania  | 403 |
 | 9 | [sidi-maadh](https://github.com/sidi-maadh) |  Sidi Maadh | Nouakchott | 378 |
-| 10 | [sons-of-titus](https://github.com/sons-of-titus) | Mourad Abdellahi | Mauritania | 291 |
-| 11 | [lbarsidati22](https://github.com/lbarsidati22) | Lbar Sidati | Nouakchott | 283 |
-| 12 | [ahmed-abdat](https://github.com/ahmed-abdat) | Ahmed Abdellahi Abdat | mauritania nouakchott | 277 |
+| 10 | [ahmed-abdat](https://github.com/ahmed-abdat) | Ahmed Abdellahi Abdat | mauritania nouakchott | 301 |
+| 11 | [sons-of-titus](https://github.com/sons-of-titus) | Mourad Abdellahi | Mauritania | 291 |
+| 12 | [lbarsidati22](https://github.com/lbarsidati22) | Lbar Sidati | Nouakchott | 283 |
 | 13 | [alibyh](https://github.com/alibyh) | Alibyh | Nouakchott-Mauritania | 264 |
 | 14 | [abdallahisouvi](https://github.com/abdallahisouvi) | Abdallahisouvi  | Nouakchott mauritanie  | 246 |
 | 15 | [khalef-khalil](https://github.com/khalef-khalil) | Khalil Khalef | Mauritania | 215 |
@@ -70,8 +70,8 @@ Indexed users: 289
 | 6 | [ErgeibiMed](https://github.com/ErgeibiMed) |  | Nouakchott - Mauritanie  | 46 |
 | 7 | [iyehah](https://github.com/iyehah) | Iyehah Hacen |  Nouakchott | 38 |
 | 8 | [lavantora](https://github.com/lavantora) | Aysha | Mauritania | 36 |
-| 9 | [ahmed-abdat](https://github.com/ahmed-abdat) | Ahmed Abdellahi Abdat | mauritania nouakchott | 33 |
-| 10 | [babasahi](https://github.com/babasahi) | Babe Saleh Dahi | Nouakchott, Mauritania | 33 |
+| 9 | [babasahi](https://github.com/babasahi) | Babe Saleh Dahi | Nouakchott, Mauritania | 33 |
+| 10 | [ahmed-abdat](https://github.com/ahmed-abdat) | Ahmed Abdellahi Abdat | mauritania nouakchott | 32 |
 | 11 | [Kader198](https://github.com/Kader198) | Abdel Kader Maguiraga | MAURITANIA  | 32 |
 | 12 | [Layito96](https://github.com/Layito96) |  | Nouakchott, Mauritania | 31 |
 | 13 | [LeminEly](https://github.com/LeminEly) | Lemin | Mauritania | 31 |
@@ -83,4 +83,4 @@ Indexed users: 289
 | 19 | [mbareck7](https://github.com/mbareck7) | mbar3ck7 | Mauritania, Nouakchott | 24 |
 | 20 | [Mohamed-Beirouk](https://github.com/Mohamed-Beirouk) | Mohamed Mohamed Beirouk | Mauritania | 23 |
 
-Generated: 2026-10-22T14:45:00.486Z
+Generated: 2026-10-22T15:55:30.256Z

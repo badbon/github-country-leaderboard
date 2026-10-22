@@ -1,6 +1,6 @@
 # Total Contributions - Lebanon
 
-Generated: 2026-10-22T14:38:20.321Z
+Generated: 2026-10-22T15:50:49.309Z
 
 Users: 2557
 
@@ -11,7 +11,7 @@ Users: 2557
 | 3 | [Mhmdhammoud](https://github.com/Mhmdhammoud) | Mohammad Hammoud | @Meritt-dev  |  | Lebanon | 16320 |
 | 4 | [Kaakati](https://github.com/Kaakati) | Mohamad Kaakati | @manifest @barqfleet @thaat | kaakati | Beirut, Lebanon | 13134 |
 | 5 | [KhaledSaeed18](https://github.com/KhaledSaeed18) | Khaled Saeed |  | KhaleddSaeed18 | Lebanon | 12654 |
-| 6 | [hussein-turfah](https://github.com/hussein-turfah) | Hussein Turfah | Beachbeds | husseinturfah | Lebanon | 12520 |
+| 6 | [hussein-turfah](https://github.com/hussein-turfah) | Hussein Turfah | Beachbeds | husseinturfah | Lebanon | 12370 |
 | 7 | [AbedAmouneh](https://github.com/AbedAmouneh) | Abed El-Fattah Amouneh | @voxire |  | Lebanon | 9741 |
 | 8 | [SilverLucFox](https://github.com/SilverLucFox) | Jawad Choucair | @detay-devs  @lblabs-dev @CGode-Dev  |  | lebanon | 9676 |
 | 9 | [abedshaaban](https://github.com/abedshaaban) | Abed Al Ghani Shaaban | @Poyesis | abedshaaban600 | Lebanon | 9233 |

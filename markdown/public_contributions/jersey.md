@@ -1,15 +1,15 @@
 # Public Contributions - Jersey
 
-Generated: 2026-10-22T14:34:23.094Z
+Generated: 2026-10-22T15:49:49.582Z
 
 Users: 139
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [marcusquinn](https://github.com/marcusquinn) | Marcus Quinn | @wpallstars @evergreenjersey @awardsapp | marcuswquinn | London, UK, Los-angeles, California, England, Jersey | 38881 |
-| 2 | [simonbrowndotje](https://github.com/simonbrowndotje) | Simon Brown | @structurizr  | simonbrown | Jersey, Channel Islands | 733 |
-| 3 | [PhilETaylor](https://github.com/PhilETaylor) | Phil E. Taylor | Blue Flame Digital Solutions Limited | myPhilTaylor | Jersey, Channel Islands | 711 |
-| 4 | [j4ckxyz](https://github.com/j4ckxyz) | jack |  |  | Jersey, UK | 699 |
+| 2 | [j4ckxyz](https://github.com/j4ckxyz) | jack |  |  | Jersey, UK | 733 |
+| 3 | [simonbrowndotje](https://github.com/simonbrowndotje) | Simon Brown | @structurizr  | simonbrown | Jersey, Channel Islands | 733 |
+| 4 | [PhilETaylor](https://github.com/PhilETaylor) | Phil E. Taylor | Blue Flame Digital Solutions Limited | myPhilTaylor | Jersey, Channel Islands | 711 |
 | 5 | [adecler](https://github.com/adecler) | Arnaud Declercq | BuroHappold Engineering |  | Jersey | 564 |
 | 6 | [CJ-Jackson](https://github.com/CJ-Jackson) | Christopher John Jackson | Sephora UK | MrCJJackson | St. Clement, Jersey | 564 |
 | 7 | [vraic](https://github.com/vraic) | André Tanguy |  |  | Jersey | 500 |

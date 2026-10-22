@@ -1,6 +1,6 @@
 # Total Contributions - Myanmar
 
-Generated: 2026-10-22T14:50:28.512Z
+Generated: 2026-10-22T15:57:25.895Z
 
 Users: 2055
 
@@ -18,11 +18,11 @@ Users: 2055
 | 10 | [kyawkoko232](https://github.com/kyawkoko232) | Kyaw Ko Ko | - | kyawkoko232 | Yangon, Myanmar(Burma) | 4613 |
 | 11 | [why-a-en](https://github.com/why-a-en) | Yan Min Thwin | Message Spring | yanminthwin | Yangon, Myanmar (Burma) | 4201 |
 | 12 | [kyawhtetyang](https://github.com/kyawhtetyang) | Kyaw Htet |  |  | Myanmar | 4200 |
-| 13 | [thanthtooaung-coding](https://github.com/thanthtooaung-coding) | Thant Htoo Aung | Laconic | VinnnDev | Yangon, Myanmar | 3888 |
-| 14 | [myatminag](https://github.com/myatminag) | Myat Min Aung | AYA Bank (Innovation Labs) |  | Yangon, Myanmar | 3881 |
-| 15 | [Hein-HtetSan](https://github.com/Hein-HtetSan) | dev@hnhts | Freelance |  | Myanmar, Yangon | 3744 |
-| 16 | [PyaeSoneAungRgn](https://github.com/PyaeSoneAungRgn) | Pyae Sone Aung |  |  | Yangon, Myanmar | 3612 |
-| 17 | [htetaunglin-coder](https://github.com/htetaunglin-coder) | Htet Aung Lin (Kelvin) |  | htetaunglin_cdr | Myanmar, Yangon | 3565 |
-| 18 | [HanZawNyein](https://github.com/HanZawNyein) | Agga | IdeaCode Academy |  | Myanmar | 3422 |
-| 19 | [YeMyoAung](https://github.com/YeMyoAung) | Ye Myo Aung | Klink.cloud | YeMyoAung994 | Myanmar/Mandalay | 3399 |
+| 13 | [YeMyoAung](https://github.com/YeMyoAung) | Ye Myo Aung | Klink.cloud | YeMyoAung994 | Myanmar/Mandalay | 3988 |
+| 14 | [thanthtooaung-coding](https://github.com/thanthtooaung-coding) | Thant Htoo Aung | Laconic | VinnnDev | Yangon, Myanmar | 3888 |
+| 15 | [myatminag](https://github.com/myatminag) | Myat Min Aung | AYA Bank (Innovation Labs) |  | Yangon, Myanmar | 3881 |
+| 16 | [Hein-HtetSan](https://github.com/Hein-HtetSan) | dev@hnhts | Freelance |  | Myanmar, Yangon | 3744 |
+| 17 | [PyaeSoneAungRgn](https://github.com/PyaeSoneAungRgn) | Pyae Sone Aung |  |  | Yangon, Myanmar | 3612 |
+| 18 | [htetaunglin-coder](https://github.com/htetaunglin-coder) | Htet Aung Lin (Kelvin) |  | htetaunglin_cdr | Myanmar, Yangon | 3565 |
+| 19 | [HanZawNyein](https://github.com/HanZawNyein) | Agga | IdeaCode Academy |  | Myanmar | 3422 |
 | 20 | [KHUN-NOON](https://github.com/KHUN-NOON) |  |  |  | Taunggyi, Myanmar | 3367 |

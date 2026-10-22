@@ -1,6 +1,6 @@
 # Total Contributions - San Marino
 
-Generated: 2026-10-22T15:02:46.381Z
+Generated: 2026-10-22T16:05:15.012Z
 
 Users: 61
 
@@ -8,11 +8,11 @@ Users: 61
 |---:|---|---|---|---|---|---:|
 | 1 | [calebnewtonusc](https://github.com/calebnewtonusc) | Caleb Newton | AINA Tech |  | San Marino, CA | 14591 |
 | 2 | [simooooone](https://github.com/simooooone) | Simos |  |  | San Marino | 10292 |
-| 3 | [brunodotgg](https://github.com/brunodotgg) | Bruno |  |  | San Marino | 4797 |
+| 3 | [brunodotgg](https://github.com/brunodotgg) | Bruno |  |  | San Marino | 4804 |
 | 4 | [mcdado](https://github.com/mcdado) | David Gasperoni |  |  | San Marino (SMR) <✈️> Madrid, Spain | 3282 |
 | 5 | [tomwhoooo](https://github.com/tomwhoooo) | Tom Hu | UC Berkeley |  | San Marino, California | 2298 |
-| 6 | [CastFX](https://github.com/CastFX) | Chris |  |  | San Marino | 2251 |
-| 7 | [damiandominella](https://github.com/damiandominella) | dodo | Golee |  | San Marino / Milan / Remotely | 2180 |
+| 6 | [CastFX](https://github.com/CastFX) | Chris |  |  | San Marino | 2266 |
+| 7 | [damiandominella](https://github.com/damiandominella) | dodo | Golee |  | San Marino / Milan / Remotely | 2190 |
 | 8 | [deBrian07](https://github.com/deBrian07) | Brian C. | Carnegie Mellon University |  | San Marino, CA | 2080 |
 | 9 | [gerza-lab](https://github.com/gerza-lab) | adam gerza |  | adamgerza | San Marino, CA | 1279 |
 | 10 | [alessandrorebosio](https://github.com/alessandrorebosio) | Rebo | Università di Bologna |  | San Marino | 817 |
