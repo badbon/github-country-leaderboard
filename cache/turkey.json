@@ -43616,7 +43616,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 1,
     "createdAt": "2024-01-15T21:31:59Z"
   },
   {
@@ -43662,7 +43662,7 @@
     "location": "Turkey",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-03-11T19:43:45Z"
@@ -43676,7 +43676,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 196,
+    "publicContributions": 189,
     "createdAt": "2024-04-03T16:09:17Z"
   },
   {
@@ -43688,7 +43688,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 4,
     "createdAt": "2024-02-14T03:27:10Z"
   },
   {
@@ -43700,7 +43700,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2024-01-16T21:52:43Z"
   },
   {
@@ -43712,7 +43712,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 34,
-    "publicContributions": 23,
+    "publicContributions": 1,
     "createdAt": "2024-03-02T13:35:24Z"
   },
   {
@@ -43735,21 +43735,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 19,
-    "publicContributions": 696,
+    "privateContributions": 158,
+    "publicContributions": 509,
     "createdAt": "2024-01-23T09:34:06Z"
-  },
-  {
-    "login": "0-renn",
-    "name": "Renn",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/172111255?s=72&u=cb4d9c17220871f0541245d5074490bf0bad1163&v=4",
-    "location": "Turkey",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 40,
-    "createdAt": "2024-06-08T09:35:17Z"
   },
   {
     "login": "denizozerr",
@@ -43806,9 +43794,9 @@
     "location": "Turkey",
     "company": "Genesis Hukuk",
     "twitterUsername": "avsercankoc",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 80,
+    "publicContributions": 64,
     "createdAt": "2024-05-12T18:41:56Z"
   },
   {
@@ -43819,8 +43807,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 179,
+    "privateContributions": 539,
+    "publicContributions": 125,
     "createdAt": "2024-06-10T23:27:12Z"
   },
   {

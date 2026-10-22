@@ -585991,7 +585991,7 @@
     "company": "@dnsimple ",
     "twitterUsername": "weppos",
     "followers": 640,
-    "privateContributions": 7379,
+    "privateContributions": 7393,
     "publicContributions": 2016,
     "createdAt": "2008-04-06T10:44:35Z"
   },
@@ -586100,7 +586100,7 @@
     "twitterUsername": "vjt",
     "followers": 160,
     "privateContributions": 11834,
-    "publicContributions": 13425,
+    "publicContributions": 13443,
     "createdAt": "2008-06-17T18:47:08Z"
   },
   {
@@ -588118,5 +588118,101 @@
     "privateContributions": 0,
     "publicContributions": 14,
     "createdAt": "2008-12-12T00:03:26Z"
+  },
+  {
+    "login": "dottorblaster",
+    "name": "Alessio Biancalana",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/20770?s=72&u=dade4b7ddf6d98e4613fd41dbb9863256f650c31&v=4",
+    "location": "Rome",
+    "company": "@SUSE",
+    "twitterUsername": "",
+    "followers": 462,
+    "privateContributions": 1381,
+    "publicContributions": 3047,
+    "createdAt": "2008-08-15T09:47:27Z"
+  },
+  {
+    "login": "semanticart",
+    "name": "Jeffrey Chupp",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8633?s=72&u=5c6cda21786f59ddfdb80d7e15473edfeb0f1302&v=4",
+    "location": "Rome, GA",
+    "company": "",
+    "twitterUsername": "semanticart",
+    "followers": 117,
+    "privateContributions": 0,
+    "publicContributions": 165,
+    "createdAt": "2008-04-27T14:32:31Z"
+  },
+  {
+    "login": "fabiocicerchia",
+    "name": "Fabio Cicerchia",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11521?s=72&u=1d01bf5f7195c705cb998d3ef614ba292db20cf2&v=4",
+    "location": "Rome",
+    "company": "Treatwell",
+    "twitterUsername": "",
+    "followers": 93,
+    "privateContributions": 8704,
+    "publicContributions": 7085,
+    "createdAt": "2008-05-26T13:01:11Z"
+  },
+  {
+    "login": "freegenie",
+    "name": "Fabrizio Regini",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/19538?s=72&v=4",
+    "location": "Rome",
+    "company": "Exelab S.r.l.",
+    "twitterUsername": "",
+    "followers": 46,
+    "privateContributions": 6272,
+    "publicContributions": 122,
+    "createdAt": "2008-08-04T19:54:47Z"
+  },
+  {
+    "login": "alipanick",
+    "name": "Ali Panick",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13521?s=72&v=4",
+    "location": "Rome",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2008-06-12T19:49:41Z"
+  },
+  {
+    "login": "alturalabs",
+    "name": "Benedetto Colicci",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/35055?s=72&v=4",
+    "location": "Rome",
+    "company": "Altura Labs Srl",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2008-11-17T20:48:56Z"
+  },
+  {
+    "login": "zakima",
+    "name": "MDC",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/37573?s=72&u=050ad5264ddd7fe67b4c309d5d72a6b383c80f75&v=4",
+    "location": "Rome",
+    "company": "OTTIM.IT",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2008-12-01T16:57:23Z"
+  },
+  {
+    "login": "xrmx",
+    "name": "Riccardo Magliocchetti",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12932?s=72&v=4",
+    "location": "Torino",
+    "company": "Elastic",
+    "twitterUsername": "",
+    "followers": 195,
+    "privateContributions": 0,
+    "publicContributions": 1879,
+    "createdAt": "2008-06-07T16:00:45Z"
   }
 ]

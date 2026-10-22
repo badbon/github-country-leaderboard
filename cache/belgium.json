@@ -44154,22 +44154,10 @@
     "location": "Belgium/Brussels",
     "company": "",
     "twitterUsername": "",
-    "followers": 17,
+    "followers": 15,
     "privateContributions": 0,
-    "publicContributions": 31,
+    "publicContributions": 25,
     "createdAt": "2020-03-17T20:36:01Z"
-  },
-  {
-    "login": "korneelf1",
-    "name": "Korneel Van den Berghe",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/65716068?s=72&u=974ecb3614d2d5d03a193e0b994f51fc1a419ebb&v=4",
-    "location": "Brussels, Belgium",
-    "company": "TU Delft, Harvard University",
-    "twitterUsername": "",
-    "followers": 17,
-    "privateContributions": 185,
-    "publicContributions": 7,
-    "createdAt": "2020-05-21T12:22:17Z"
   },
   {
     "login": "matteoscaringi",
@@ -44179,7 +44167,7 @@
     "company": "Computer Science @ Howest",
     "twitterUsername": "",
     "followers": 17,
-    "privateContributions": 73,
+    "privateContributions": 74,
     "publicContributions": 0,
     "createdAt": "2020-04-15T20:54:23Z"
   },
@@ -44214,9 +44202,9 @@
     "location": "Belgium",
     "company": "",
     "twitterUsername": "",
-    "followers": 17,
-    "privateContributions": 145,
-    "publicContributions": 818,
+    "followers": 18,
+    "privateContributions": 628,
+    "publicContributions": 462,
     "createdAt": "2020-04-06T09:11:05Z"
   },
   {
@@ -44226,9 +44214,9 @@
     "location": "Louvain-la-neuve, Belgium",
     "company": "UCLouvain",
     "twitterUsername": "",
-    "followers": 16,
+    "followers": 17,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 17,
     "createdAt": "2020-05-16T19:44:55Z"
   },
   {
@@ -44238,9 +44226,9 @@
     "location": "Belgium",
     "company": "Raven Belgium",
     "twitterUsername": "imadonsocial",
-    "followers": 16,
+    "followers": 18,
     "privateContributions": 0,
-    "publicContributions": 268,
+    "publicContributions": 290,
     "createdAt": "2019-12-29T10:17:45Z"
   },
   {
@@ -44286,9 +44274,9 @@
     "location": "Belgium",
     "company": "",
     "twitterUsername": "",
-    "followers": 16,
-    "privateContributions": 41,
-    "publicContributions": 138,
+    "followers": 17,
+    "privateContributions": 42,
+    "publicContributions": 125,
     "createdAt": "2020-04-01T12:30:24Z"
   },
   {
@@ -44312,7 +44300,7 @@
     "twitterUsername": "",
     "followers": 15,
     "privateContributions": 1,
-    "publicContributions": 182,
+    "publicContributions": 183,
     "createdAt": "2020-05-15T17:02:20Z"
   },
   {
@@ -44322,9 +44310,9 @@
     "location": "Belgium",
     "company": "VITO",
     "twitterUsername": "k_vantricht",
-    "followers": 15,
-    "privateContributions": 158,
-    "publicContributions": 709,
+    "followers": 16,
+    "privateContributions": 161,
+    "publicContributions": 693,
     "createdAt": "2020-06-04T11:00:44Z"
   },
   {

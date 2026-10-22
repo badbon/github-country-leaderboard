@@ -44298,9 +44298,9 @@
     "location": "Tbilisi, Georiga",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 4,
     "privateContributions": 1,
-    "publicContributions": 50,
+    "publicContributions": 53,
     "createdAt": "2019-03-18T18:12:51Z"
   },
   {
@@ -44336,7 +44336,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 63,
     "createdAt": "2019-06-29T09:54:12Z"
   },
   {
@@ -44346,8 +44346,8 @@
     "location": "Tbilisi",
     "company": "trendsurfers",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 755,
+    "followers": 5,
+    "privateContributions": 686,
     "publicContributions": 0,
     "createdAt": "2019-09-09T09:44:15Z"
   },
@@ -44360,7 +44360,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 10,
     "createdAt": "2019-07-19T09:06:12Z"
   },
   {
@@ -44371,8 +44371,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 161,
-    "publicContributions": 17,
+    "privateContributions": 173,
+    "publicContributions": 21,
     "createdAt": "2019-09-28T17:15:22Z"
   },
   {
@@ -44395,8 +44395,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 1227,
-    "publicContributions": 91,
+    "privateContributions": 1272,
+    "publicContributions": 100,
     "createdAt": "2019-06-11T21:58:43Z"
   },
   {
@@ -44408,7 +44408,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 382,
+    "publicContributions": 513,
     "createdAt": "2019-09-03T17:45:05Z"
   },
   {
@@ -44443,7 +44443,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 1992,
+    "privateContributions": 3338,
     "publicContributions": 21,
     "createdAt": "2019-01-22T18:06:33Z"
   },
@@ -44468,7 +44468,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 9,
-    "publicContributions": 316,
+    "publicContributions": 232,
     "createdAt": "2019-09-05T16:34:57Z"
   },
   {
@@ -44479,7 +44479,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 1045,
+    "privateContributions": 1053,
     "publicContributions": 320,
     "createdAt": "2019-12-20T20:10:40Z"
   },
@@ -82414,5 +82414,17 @@
     "privateContributions": 0,
     "publicContributions": 374,
     "createdAt": "2014-05-09T10:28:58Z"
+  },
+  {
+    "login": "ozor",
+    "name": "Denis Ushakov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1396944?s=72&u=796cf3948c78e4bd080bbe8421315a963a6bf0ad&v=4",
+    "location": "Tbilisi, Georgia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 33,
+    "privateContributions": 4,
+    "publicContributions": 55,
+    "createdAt": "2012-02-01T06:55:49Z"
   }
 ]

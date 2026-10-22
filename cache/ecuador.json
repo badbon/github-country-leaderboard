@@ -44372,7 +44372,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2016-05-31T14:05:05Z"
   },
   {
@@ -44384,7 +44384,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 8,
     "createdAt": "2016-09-27T04:45:29Z"
   },
   {
@@ -44396,7 +44396,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 17,
     "createdAt": "2016-04-01T16:19:21Z"
   },
   {
@@ -44432,7 +44432,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 32,
+    "publicContributions": 29,
     "createdAt": "2016-05-15T00:00:21Z"
   },
   {
@@ -44455,7 +44455,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 135,
+    "privateContributions": 42,
     "publicContributions": 0,
     "createdAt": "2016-09-14T01:30:54Z"
   },
@@ -44467,7 +44467,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 552,
+    "privateContributions": 625,
     "publicContributions": 1,
     "createdAt": "2016-05-17T20:44:12Z"
   },
@@ -44491,8 +44491,8 @@
     "company": "",
     "twitterUsername": "danielfryy",
     "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 150,
+    "privateContributions": 83,
+    "publicContributions": 181,
     "createdAt": "2016-05-13T13:19:58Z"
   },
   {
@@ -44502,7 +44502,7 @@
     "location": "Ecuador",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-04-20T21:05:22Z"
@@ -44522,13 +44522,13 @@
   {
     "login": "ParzivalVulpine",
     "name": "Daniel Gaitán",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/24445055?s=72&u=9f199bfba7d5cc898a6572d449836fb1f51e1f4e&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/24445055?s=72&u=5196fc346b992934a6a5a24e29fb6ba3322440c2&v=4",
     "location": "Guayaquil, Ecuador",
-    "company": "",
+    "company": "@datil",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 335,
-    "publicContributions": 16,
+    "followers": 8,
+    "privateContributions": 324,
+    "publicContributions": 17,
     "createdAt": "2016-12-08T00:59:12Z"
   },
   {
@@ -44540,7 +44540,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 33,
     "createdAt": "2016-04-28T23:16:38Z"
   },
   {
@@ -44552,7 +44552,7 @@
     "twitterUsername": "fernando0rdonez",
     "followers": 3,
     "privateContributions": 28,
-    "publicContributions": 250,
+    "publicContributions": 268,
     "createdAt": "2016-06-01T15:48:02Z"
   },
   {
@@ -44575,7 +44575,7 @@
     "company": "CondorSoft",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 5601,
+    "privateContributions": 6623,
     "publicContributions": 0,
     "createdAt": "2016-11-10T17:29:37Z"
   },
