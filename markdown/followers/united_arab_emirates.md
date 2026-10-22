@@ -1,8 +1,8 @@
 # Followers - United Arab Emirates
 
-Generated: 2026-10-22T06:21:29.611Z
+Generated: 2026-10-22T08:03:38.310Z
 
-Users: 4209
+Users: 4208
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -22,7 +22,7 @@ Users: 4209
 | 14 | [khalby786](https://github.com/khalby786) | Khaleel Gibran | @TinkerHub |  | Dubai, United Arab Emirates | 420 |
 | 15 | [techking11](https://github.com/techking11) | Tech King |  |  | Abu Dhabi, United Arab Emirates | 408 |
 | 16 | [abxhr](https://github.com/abxhr) | Abshar Mohammed Aslam | Emirates | abxhraslam | Dubai, United Arab Emirates | 401 |
-| 17 | [sweelam](https://github.com/sweelam) | Sweelam | Tamara UAE |  | United Arab Emirates | 381 |
+| 17 | [FrayxRulez](https://github.com/FrayxRulez) | Fela |  |  | Dubai, United Arab Emirates | 384 |
 | 18 | [kh4sh3i](https://github.com/kh4sh3i) | mohsen khashei | jetamooz | kh4sh3i_ | United Arab Emirates | 378 |
-| 19 | [FrayxRulez](https://github.com/FrayxRulez) | Fela |  |  | Dubai, United Arab Emirates | 366 |
-| 20 | [yusufusta](https://github.com/yusufusta) | Yusuf Usta |  | fuszf | Dubai, United Arab Emirates | 361 |
+| 19 | [yusufusta](https://github.com/yusufusta) | Yusuf Usta |  | fuszf | Dubai, United Arab Emirates | 361 |
+| 20 | [garylab](https://github.com/garylab) | Gary Meng | G42 | garymengcom | Abu Dhabi, UAE | 360 |

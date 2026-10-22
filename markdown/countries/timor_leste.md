@@ -22,7 +22,7 @@ Indexed users: 77
 | 8 | [JabesNelma](https://github.com/JabesNelma) | Jay | Dili, Timor-Leste | 356 |
 | 9 | [raul-amaral](https://github.com/raul-amaral) | Raul Amaral | Timor-Leste | 339 |
 | 10 | [amandio-eto](https://github.com/amandio-eto) | Jose Amandio de Almeida | Rua china Rate Lahane Oreintal Dili Timor Leste | 213 |
-| 11 | [TiagovskiCode](https://github.com/TiagovskiCode) | Tiago Teixeira  | East-Timor | 189 |
+| 11 | [TiagovskiCode](https://github.com/TiagovskiCode) | Tiago Teixeira  | East-Timor | 191 |
 | 12 | [adearanda](https://github.com/adearanda) | Aderito Aranda | R. de Resistencia, Kuluhun, Dili Timor Leste | 144 |
 | 13 | [Floren-pinto](https://github.com/Floren-pinto) | Florentino Pinto | Timor-Leste | 134 |
 | 14 | [gabriel-de-jesus](https://github.com/gabriel-de-jesus) | Gabriel de Jesus | Dili, Timor-Leste | 120 |
@@ -46,8 +46,8 @@ Indexed users: 77
 | 7 | [zemalay](https://github.com/zemalay) | Geovannio Frederico de Jesus Vinhas | Dili, Timor-Leste | 219 |
 | 8 | [amandio-eto](https://github.com/amandio-eto) | Jose Amandio de Almeida | Rua china Rate Lahane Oreintal Dili Timor Leste | 213 |
 | 9 | [JabesNelma](https://github.com/JabesNelma) | Jay | Dili, Timor-Leste | 184 |
-| 10 | [Floren-pinto](https://github.com/Floren-pinto) | Florentino Pinto | Timor-Leste | 134 |
-| 11 | [TiagovskiCode](https://github.com/TiagovskiCode) | Tiago Teixeira  | East-Timor | 134 |
+| 10 | [TiagovskiCode](https://github.com/TiagovskiCode) | Tiago Teixeira  | East-Timor | 136 |
+| 11 | [Floren-pinto](https://github.com/Floren-pinto) | Florentino Pinto | Timor-Leste | 134 |
 | 12 | [gabriel-de-jesus](https://github.com/gabriel-de-jesus) | Gabriel de Jesus | Dili, Timor-Leste | 120 |
 | 13 | [KituDoutel](https://github.com/KituDoutel) | Francisco KiTu | Dili, Timor-Leste 🇹🇱 | 65 |
 | 14 | [XICANO88](https://github.com/XICANO88) | XICANO | Manatuto, Timor-Leste | 58 |
@@ -83,4 +83,4 @@ Indexed users: 77
 | 19 | [joshbrooks](https://github.com/joshbrooks) | Joshua Brooks | Dili, Timor-Leste | 6 |
 | 20 | [KituDoutel](https://github.com/KituDoutel) | Francisco KiTu | Dili, Timor-Leste 🇹🇱 | 6 |
 
-Generated: 2026-10-22T06:18:14.318Z
+Generated: 2026-10-22T07:58:44.290Z

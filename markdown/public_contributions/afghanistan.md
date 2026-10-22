@@ -1,13 +1,13 @@
 # Public Contributions - Afghanistan
 
-Generated: 2026-10-22T06:29:06.098Z
+Generated: 2026-10-22T08:07:51.109Z
 
 Users: 1489
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [ahmadullahmukhlis](https://github.com/ahmadullahmukhlis) | Ahmadullah Mukhlis | Da Afghanistan Bank (APS) |  | Kabul, Afghanistan | 30577 |
-| 2 | [Nasratullah-Shafiq](https://github.com/Nasratullah-Shafiq) | Nasratullah Shafiq | MCIT | NasratShafiq | Afghanistan | 7303 |
+| 1 | [ahmadullahmukhlis](https://github.com/ahmadullahmukhlis) | Ahmadullah Mukhlis | Da Afghanistan Bank (APS) |  | Kabul, Afghanistan | 30519 |
+| 2 | [Nasratullah-Shafiq](https://github.com/Nasratullah-Shafiq) | Nasratullah Shafiq | MCIT | NasratShafiq | Afghanistan | 7384 |
 | 3 | [haroonrashidzadran](https://github.com/haroonrashidzadran) | Haroon Rashid Zadran | @BarlasTech | A1_HAROON | Kabul, Afghanistan | 5600 |
 | 4 | [basirkhan1995](https://github.com/basirkhan1995) | Basir Hashimi | Zaitoon |  | Afghanistan | 4873 |
 | 5 | [khalidafghanmal](https://github.com/khalidafghanmal) | khalid afghanmal | Smart City Solution ICT |  | Afghanistan | 2782 |

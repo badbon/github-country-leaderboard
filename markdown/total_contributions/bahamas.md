@@ -1,6 +1,6 @@
 # Total Contributions - Bahamas
 
-Generated: 2026-10-22T06:34:55.524Z
+Generated: 2026-10-22T08:13:34.912Z
 
 Users: 236
 
@@ -12,7 +12,7 @@ Users: 236
 | 4 | [bondjacobbond](https://github.com/bondjacobbond) | Jacob Bond | Bond Sports |  | Casino Royale, Nassau, Bahamas | 3061 |
 | 5 | [ryaustin](https://github.com/ryaustin) | Ryan |  | ry_austin | Bahamas | 2640 |
 | 6 | [yannyhl](https://github.com/yannyhl) | yg | Melo Inc |  | nassau | 2055 |
-| 7 | [janajmccardy](https://github.com/janajmccardy) | Jana JM | Agio Digital Ltd. |  | Nassau, The Bahamas | 1830 |
+| 7 | [janajmccardy](https://github.com/janajmccardy) | Jana JM | Agio Digital Ltd. |  | Nassau, The Bahamas | 1828 |
 | 8 | [justnardo](https://github.com/justnardo) | Just_Nardo | First Glance |  | Bahamas | 1447 |
 | 9 | [TajhSeymour](https://github.com/TajhSeymour) | Tajh Seymour |  |  | New Providence, Bahamas | 1433 |
 | 10 | [jsphpndr](https://github.com/jsphpndr) | Joseph Pinder | Clever | jsphpndr | Bahamas | 1215 |

@@ -1,6 +1,6 @@
 # Oman
 
-Indexed users: 989
+Indexed users: 990
 
 | Leaderboard | Link |
 |---|---|
@@ -63,24 +63,24 @@ Indexed users: 989
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [pylover](https://github.com/pylover) | Vahid | Muscat, Oman | 425 |
-| 2 | [salim3dd](https://github.com/salim3dd) | Salim3dd | Sultanate Of Oman | 284 |
-| 3 | [uiamirali](https://github.com/uiamirali) | Amirali Jalalvand | Muscat, Oman | 257 |
-| 4 | [habibalmawali](https://github.com/habibalmawali) | Habib AlMawali | Oman | 227 |
-| 5 | [ahmedtechm](https://github.com/ahmedtechm) | Ahmed ALAbri | Muscat, Oman | 200 |
-| 6 | [AhmedBafkir](https://github.com/AhmedBafkir) | AhmedBafkir | Oman | 195 |
-| 7 | [RanjbarAli](https://github.com/RanjbarAli) | Ali Ranjbar Jelodar | Oman, Muscat | 188 |
-| 8 | [Zerx0r](https://github.com/Zerx0r) | Zerx0r | Oman, Muscat | 175 |
-| 9 | [sajadevo](https://github.com/sajadevo) | Sajad | Muscat, Oman | 174 |
-| 10 | [Fahad-Al-Maashani](https://github.com/Fahad-Al-Maashani) | Fahad Al Maashani | Salalah, Oman | 153 |
-| 11 | [AMEERKOTTA](https://github.com/AMEERKOTTA) | AMEER KOTTA | Muscat, Oman | 152 |
-| 12 | [Mahanmmi](https://github.com/Mahanmmi) | Mahan Zendedel DH | Muscat, Oman | 143 |
-| 13 | [sanjeed5](https://github.com/sanjeed5) | Sanjeed | Bangalore / Oman  | 132 |
-| 14 | [byteab](https://github.com/byteab) | Ehsan sarshar | Muscat Oman | 109 |
-| 15 | [HosseinShabani](https://github.com/HosseinShabani) | Hossein Shabani | Oman | 108 |
-| 16 | [shm379](https://github.com/shm379) | Hussein | Muscat | 105 |
-| 17 | [xZAYEDx](https://github.com/xZAYEDx) | ZAYED AL-GAWI | Muscat,Oman | 105 |
-| 18 | [foxoman](https://github.com/foxoman) | Sultan Al Isaiee | Oman | 99 |
-| 19 | [3mrdev](https://github.com/3mrdev) | Amr Abd-Alkrim | Khartoum, Sudan \| Muscat, Oman | 94 |
-| 20 | [AmirSa12](https://github.com/AmirSa12) | AmirHossein Sakhravi | Muscat, Oman | 92 |
+| 2 | [sweelam](https://github.com/sweelam) | Sweelam | Oman | 385 |
+| 3 | [salim3dd](https://github.com/salim3dd) | Salim3dd | Sultanate Of Oman | 284 |
+| 4 | [uiamirali](https://github.com/uiamirali) | Amirali Jalalvand | Muscat, Oman | 257 |
+| 5 | [habibalmawali](https://github.com/habibalmawali) | Habib AlMawali | Oman | 227 |
+| 6 | [ahmedtechm](https://github.com/ahmedtechm) | Ahmed ALAbri | Muscat, Oman | 200 |
+| 7 | [AhmedBafkir](https://github.com/AhmedBafkir) | AhmedBafkir | Oman | 195 |
+| 8 | [RanjbarAli](https://github.com/RanjbarAli) | Ali Ranjbar Jelodar | Oman, Muscat | 188 |
+| 9 | [Zerx0r](https://github.com/Zerx0r) | Zerx0r | Oman, Muscat | 175 |
+| 10 | [sajadevo](https://github.com/sajadevo) | Sajad | Muscat, Oman | 174 |
+| 11 | [Fahad-Al-Maashani](https://github.com/Fahad-Al-Maashani) | Fahad Al Maashani | Salalah, Oman | 153 |
+| 12 | [AMEERKOTTA](https://github.com/AMEERKOTTA) | AMEER KOTTA | Muscat, Oman | 152 |
+| 13 | [Mahanmmi](https://github.com/Mahanmmi) | Mahan Zendedel DH | Muscat, Oman | 143 |
+| 14 | [sanjeed5](https://github.com/sanjeed5) | Sanjeed | Bangalore / Oman  | 132 |
+| 15 | [byteab](https://github.com/byteab) | Ehsan sarshar | Muscat Oman | 109 |
+| 16 | [HosseinShabani](https://github.com/HosseinShabani) | Hossein Shabani | Oman | 108 |
+| 17 | [shm379](https://github.com/shm379) | Hussein | Muscat | 105 |
+| 18 | [xZAYEDx](https://github.com/xZAYEDx) | ZAYED AL-GAWI | Muscat,Oman | 105 |
+| 19 | [foxoman](https://github.com/foxoman) | Sultan Al Isaiee | Oman | 99 |
+| 20 | [3mrdev](https://github.com/3mrdev) | Amr Abd-Alkrim | Khartoum, Sudan \| Muscat, Oman | 94 |
 
-Generated: 2026-10-22T07:33:38.895Z
+Generated: 2026-10-22T08:03:38.310Z

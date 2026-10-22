@@ -1,6 +1,6 @@
 # Belarus
 
-Indexed users: 10,925
+Indexed users: 10,924
 
 | Leaderboard | Link |
 |---|---|
@@ -49,14 +49,14 @@ Indexed users: 10,925
 | 10 | [Nice3point](https://github.com/Nice3point) | Roman | Minsk | 2,066 |
 | 11 | [naxBody](https://github.com/naxBody) | Артем | Belarus, Luninets  | 1,957 |
 | 12 | [Alexeykoh](https://github.com/Alexeykoh) | Алексей | Belarus | 1,928 |
-| 13 | [MikalaiKryvusha](https://github.com/MikalaiKryvusha) | Mikalai Kryvusha | Belarus, Minsk | 1,922 |
-| 14 | [timseriakov](https://github.com/timseriakov) | Tim Seriakov | Minsk, Belarus | 1,851 |
-| 15 | [e-gleba](https://github.com/e-gleba) | Evgeniy Gleba | Minsk | 1,838 |
-| 16 | [HardNorth](https://github.com/HardNorth) | Vadzim Hushchanskou | Minsk, Belarus | 1,826 |
-| 17 | [AndreiDrang](https://github.com/AndreiDrang) | Andrei | Minsk | 1,681 |
-| 18 | [fedorkobak](https://github.com/fedorkobak) | Fedor Kobak | Minsk Belarus | 1,600 |
-| 19 | [vegacepticon](https://github.com/vegacepticon) |  | Belarus | 1,569 |
-| 20 | [shmelidzee](https://github.com/shmelidzee) | Pavel Moiseenko | Minsk, Belarus | 1,523 |
+| 13 | [timseriakov](https://github.com/timseriakov) | Tim Seriakov | Minsk, Belarus | 1,851 |
+| 14 | [e-gleba](https://github.com/e-gleba) | Evgeniy Gleba | Minsk | 1,838 |
+| 15 | [HardNorth](https://github.com/HardNorth) | Vadzim Hushchanskou | Minsk, Belarus | 1,826 |
+| 16 | [AndreiDrang](https://github.com/AndreiDrang) | Andrei | Minsk | 1,681 |
+| 17 | [fedorkobak](https://github.com/fedorkobak) | Fedor Kobak | Minsk Belarus | 1,600 |
+| 18 | [vegacepticon](https://github.com/vegacepticon) |  | Belarus | 1,569 |
+| 19 | [shmelidzee](https://github.com/shmelidzee) | Pavel Moiseenko | Minsk, Belarus | 1,523 |
+| 20 | [ikrutoi](https://github.com/ikrutoi) | Ihar Krutoi | Gomel, Belarus | 1,513 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 10,925
 | 19 | [dillidon](https://github.com/dillidon) | RV | Belarus | 183 |
 | 20 | [alexzhirkevich](https://github.com/alexzhirkevich) | Alexander Zhirkevich | Belarus, Minsk | 165 |
 
-Generated: 2026-10-22T06:36:37.086Z
+Generated: 2026-10-22T08:14:30.740Z

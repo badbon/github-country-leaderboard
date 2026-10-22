@@ -1,8 +1,8 @@
 # Followers - Ecuador
 
-Generated: 2026-10-22T06:52:58.443Z
+Generated: 2026-10-22T08:31:09.957Z
 
-Users: 4875
+Users: 4874
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

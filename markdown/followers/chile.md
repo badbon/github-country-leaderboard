@@ -1,8 +1,8 @@
 # Followers - Chile
 
-Generated: 2026-10-22T06:45:45.003Z
+Generated: 2026-10-22T08:25:18.575Z
 
-Users: 19374
+Users: 19373
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

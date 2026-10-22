@@ -1,8 +1,8 @@
 # Public Contributions - United Arab Emirates
 
-Generated: 2026-10-22T06:21:29.611Z
+Generated: 2026-10-22T08:03:38.310Z
 
-Users: 4209
+Users: 4208
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -12,8 +12,8 @@ Users: 4209
 | 4 | [piwi3910](https://github.com/piwi3910) | Pascal Watteel | Dell Technologies |  | United Arab Emirates | 15626 |
 | 5 | [rohingosling](https://github.com/rohingosling) | Rohin Gosling |  | rohingosling | United Arab Emirates | 14234 |
 | 6 | [Gaurav-Gosain](https://github.com/Gaurav-Gosain) | Gaurav Gosain | DMT |  | Abu Dhabi, United Arab Emirates | 6147 |
-| 7 | [hhenson](https://github.com/hhenson) | Howard Henson |  |  | Abu Dhabi | 4227 |
-| 8 | [joshuajbouw](https://github.com/joshuajbouw) | Joshua J. Bouw | @unicitynetwork  | joshuajbouw | Dubai, United Arab Emirates | 3982 |
+| 7 | [joshuajbouw](https://github.com/joshuajbouw) | Joshua J. Bouw | @unicitynetwork  | joshuajbouw | Dubai, United Arab Emirates | 5062 |
+| 8 | [hhenson](https://github.com/hhenson) | Howard Henson |  |  | Abu Dhabi | 4227 |
 | 9 | [nikolai-vysotskyi](https://github.com/nikolai-vysotskyi) | Nikolai Vysotskyi | Asset Feed |  | Abu Dhabi, UAE | 3657 |
 | 10 | [dave-hudson](https://github.com/dave-hudson) | Dave Hudson |  | davehudsonio | Abu Dhabi, UAE | 3411 |
 | 11 | [maddada](https://github.com/maddada) | Mohamad Yahia | @ShortPoint  |  | Dubai, United Arab Emirates. | 3334 |
@@ -24,5 +24,5 @@ Users: 4209
 | 16 | [klkvr](https://github.com/klkvr) | Arsenii Kulikov |  | klkvrr | Dubai, United Arab Emirates | 2900 |
 | 17 | [aroff](https://github.com/aroff) | Alex Oliveira |  |  | United Arab Emirates | 2753 |
 | 18 | [delta6626](https://github.com/delta6626) | Delta |  | delta6626 | United Arab Emirates | 2745 |
-| 19 | [drakulavich](https://github.com/drakulavich) | Anton Yakutovich |  | drakulavich | Abu Dhabi, UAE | 2378 |
-| 20 | [eunwoo-levi](https://github.com/eunwoo-levi) | Eunwoo | Talabat, @deliveryhero |  | Dubai, United Arab Emirates | 2344 |
+| 19 | [FrayxRulez](https://github.com/FrayxRulez) | Fela |  |  | Dubai, United Arab Emirates | 2721 |
+| 20 | [drakulavich](https://github.com/drakulavich) | Anton Yakutovich |  | drakulavich | Abu Dhabi, UAE | 2378 |

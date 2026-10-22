@@ -1,22 +1,22 @@
 # Public Contributions - Cameroon
 
-Generated: 2026-10-22T06:43:46.878Z
+Generated: 2026-10-22T08:22:59.933Z
 
 Users: 1795
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [iws3](https://github.com/iws3) | Fonyuy Gita |  |  | Bamenda, Cameroon | 9317 |
-| 2 | [psycho237-prog](https://github.com/psycho237-prog) | ONANA GREGOIRE LEGRAND  | XYBERCLAN |  | Cameroon | 6069 |
+| 1 | [iws3](https://github.com/iws3) | Fonyuy Gita |  |  | Bamenda, Cameroon | 9366 |
+| 2 | [psycho237-prog](https://github.com/psycho237-prog) | ONANA GREGOIRE LEGRAND  | XYBERCLAN |  | Cameroon | 6140 |
 | 3 | [Martin-Luther](https://github.com/Martin-Luther) | Martin Luther ETOUMAN NDAMBWE | Rhinostone |  | Douala / Cameroon | 5162 |
 | 4 | [Notho-freedom](https://github.com/Notho-freedom) | Ravel Momo | genesis company |  | Yaoundé  | 3184 |
 | 5 | [bensah](https://github.com/bensah) | Ben Nsah | Taadom Digital Inc. | nsahbernard | Cameroon | 3097 |
 | 6 | [Christiantyemele](https://github.com/Christiantyemele) | Christian Yemele | Adorsys |  | Cameroon | 2480 |
 | 7 | [ln-dev7](https://github.com/ln-dev7) | LN | @mus-inn | ln_dev7 | Cameroon | 2166 |
 | 8 | [mrvin100](https://github.com/mrvin100) | Vincent Youmssi |  |  | Yaoundé - Cameroon | 1996 |
-| 9 | [Chu29](https://github.com/Chu29) | Malik Chu | REBASE CODE CAMP | unku_chu | Yaounde, Cameroon | 1892 |
-| 10 | [Kynmmarshall](https://github.com/Kynmmarshall) | Kamdeu Yamdjeuson Neil Marshall |  | kynmmarshall | Cameroon | 1832 |
-| 11 | [freddychoudja](https://github.com/freddychoudja) | Freddy Choudja |  |  | Cameroon | 1809 |
+| 9 | [freddychoudja](https://github.com/freddychoudja) | Freddy Choudja |  |  | Cameroon | 1859 |
+| 10 | [Chu29](https://github.com/Chu29) | Malik Chu | REBASE CODE CAMP | unku_chu | Yaounde, Cameroon | 1845 |
+| 11 | [Kynmmarshall](https://github.com/Kynmmarshall) | Kamdeu Yamdjeuson Neil Marshall |  | kynmmarshall | Cameroon | 1832 |
 | 12 | [Kanjo-Elkamira-Ndi](https://github.com/Kanjo-Elkamira-Ndi) | Alchemy Codes | DigiMark Consulting & Revive | kanjo_elkamira | Yaoundé Cameroon | 1736 |
 | 13 | [Josiasange37](https://github.com/Josiasange37) | AKANA SIGNING JOSIAS AARON | Xyber CLan | AlmightJosias | Cameroon | 1635 |
 | 14 | [Allmight2002](https://github.com/Allmight2002) | Raymond Mbassi |  |  | Cameroon | 1487 |

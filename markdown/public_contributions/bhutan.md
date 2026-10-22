@@ -1,20 +1,20 @@
 # Public Contributions - Bhutan
 
-Generated: 2026-10-22T06:39:17.827Z
+Generated: 2026-10-22T08:15:36.853Z
 
 Users: 266
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [Kzoeps](https://github.com/Kzoeps) | Karma Zoepa Yoezer |  | kzoeps | Thimphu, Bhutan | 2782 |
-| 2 | [Bomjan](https://github.com/Bomjan) | Sundra Builds | NOri Botanical |  | Thimphu | 1040 |
+| 2 | [Bomjan](https://github.com/Bomjan) | Sundra Builds | NOri Botanical |  | Thimphu | 1041 |
 | 3 | [sangayt1997](https://github.com/sangayt1997) | Sangay Thinley | SELISE Group | SangayT97 | Thimphu, Bhutan | 1012 |
 | 4 | [guruwangchuk7](https://github.com/guruwangchuk7) | Guru Wangchuk | Kodadev | guru_wangchuk | Bhutan | 1008 |
 | 5 | [yesheytenzin](https://github.com/yesheytenzin) | Yeshey Tenzin | @SELISEdigitalplatforms | tenzyeshey | Thimphu, Bhutan | 949 |
 | 6 | [twangyel](https://github.com/twangyel) | Tandin Wangyel |  |  | Bhutan | 924 |
 | 7 | [Choedra](https://github.com/Choedra) | Choedra Gyamtsho | Light Webx |  | Chubachu, Thimphu | 460 |
 | 8 | [SurajSunar](https://github.com/SurajSunar) | Suraj Sunar |  |  | Thimphu, Bhutan | 330 |
-| 9 | [lakikishorsubba](https://github.com/lakikishorsubba) | Laki Kishor Subba | Selise Group |  | Thimphu,Bhutan | 302 |
+| 9 | [lakikishorsubba](https://github.com/lakikishorsubba) | Laki Kishor Subba | Selise Group |  | Thimphu,Bhutan | 300 |
 | 10 | [jigmeloday](https://github.com/jigmeloday) | Jigme Lodey | Freelancer |  | Thimphu Bhutan | 275 |
 | 11 | [aspee12](https://github.com/aspee12) | Sonam Phuntsho | SELISE |  | Thimphu, IT Park | 186 |
 | 12 | [devdgna](https://github.com/devdgna) | Dev | Bhutan NDI, CoinOn, ScanPrice, Prescaner |  | Kingdom of Bhutan | 181 |

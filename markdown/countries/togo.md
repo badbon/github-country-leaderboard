@@ -24,12 +24,12 @@ Indexed users: 677
 | 10 | [JsOptimizer](https://github.com/JsOptimizer) | Michael Olalekan | Togo | 5,613 |
 | 11 | [charlesdzadu](https://github.com/charlesdzadu) | Charles DZADU | Lomé - Togo | 5,213 |
 | 12 | [sebandroidev](https://github.com/sebandroidev) | Sebastien NOGBEDJI | Lomé, TOGO | 5,063 |
-| 13 | [Dreykovic](https://github.com/Dreykovic) | Birewa Audrey AMONA | Togo | 4,538 |
-| 14 | [EmD-228](https://github.com/EmD-228) | Kokou DENYO | Lome-Togo | 4,514 |
+| 13 | [EmD-228](https://github.com/EmD-228) | Kokou DENYO | Lome-Togo | 4,514 |
+| 14 | [Dreykovic](https://github.com/Dreykovic) | Birewa Audrey AMONA | Togo | 4,509 |
 | 15 | [Le-Sourcier](https://github.com/Le-Sourcier) | Yao David LOGAN | US, TOGO, UK | 4,265 |
 | 16 | [Rahim10020](https://github.com/Rahim10020) | Rahim ALI | Lome -TOGO | 4,143 |
 | 17 | [Einswilli](https://github.com/Einswilli) | #Einswilli | Lomé | 3,894 |
-| 18 | [Ygryan360](https://github.com/Ygryan360) | Rayane | Lomé, Togo | 3,606 |
+| 18 | [Ygryan360](https://github.com/Ygryan360) | Rayane | Lomé, Togo | 3,626 |
 | 19 | [Giovidoh](https://github.com/Giovidoh) | ICGreborns | Lomé, Togo | 3,598 |
 | 20 | [Georginio-prod](https://github.com/Georginio-prod) | Georginio  | lomé-TOGO | 3,517 |
 
@@ -45,13 +45,13 @@ Indexed users: 677
 | 6 | [GYFX35](https://github.com/GYFX35) | GOUNTANTE yendoukoa | Togo | 1,952 |
 | 7 | [ALBAN3886](https://github.com/ALBAN3886) | AET Technology  | Togo | 1,925 |
 | 8 | [horacioskrp](https://github.com/horacioskrp) | Kudayah Sassou Horacio Herve | Togo-Lomé  | 1,866 |
-| 9 | [Dreykovic](https://github.com/Dreykovic) | Birewa Audrey AMONA | Togo | 1,735 |
+| 9 | [Dreykovic](https://github.com/Dreykovic) | Birewa Audrey AMONA | Togo | 1,718 |
 | 10 | [Juniorleriche27](https://github.com/Juniorleriche27) |  | Lome, Togo | 1,643 |
 | 11 | [Nova2026-graphik](https://github.com/Nova2026-graphik) | Samuel Nova | Lomé / Togo | 1,300 |
 | 12 | [Einswilli](https://github.com/Einswilli) | #Einswilli | Lomé | 1,189 |
 | 13 | [Donchaminade](https://github.com/Donchaminade) | chaminade Dondah Adjolou  | Togo | 1,023 |
 | 14 | [Gowaru](https://github.com/Gowaru) | Mawuli Godwin Alexandre AMEVOR | Lomé | 913 |
-| 15 | [henocn](https://github.com/henocn) | Henoc N'GASAMA | Kara, Togo | 874 |
+| 15 | [henocn](https://github.com/henocn) | Henoc N'GASAMA | Kara, Togo | 897 |
 | 16 | [Docteur-Parfait](https://github.com/Docteur-Parfait) | Tech Pastor | Lomé, Togo | 851 |
 | 17 | [boboPrem1](https://github.com/boboPrem1) | Amouzougan Kangni Juvanio | Togo | 820 |
 | 18 | [georgesnoe](https://github.com/georgesnoe) | Kossi Georges-Noé AHOMBO | Lomé, Togo | 773 |
@@ -69,7 +69,7 @@ Indexed users: 677
 | 5 | [Agadafrancis](https://github.com/Agadafrancis) | Agada Francis Louis N. | Togo | 139 |
 | 6 | [Docteur-Parfait](https://github.com/Docteur-Parfait) | Tech Pastor | Lomé, Togo | 134 |
 | 7 | [omarfarouk228](https://github.com/omarfarouk228) | Omar farouk KOUGBADA | Togo | 112 |
-| 8 | [ibraum](https://github.com/ibraum) | KONDO Ibrahim | Lomé, TOGO | 108 |
+| 8 | [ibraum](https://github.com/ibraum) | KONDO Ibrahim | Lomé, TOGO | 109 |
 | 9 | [gsmadjaa05](https://github.com/gsmadjaa05) | GSM ADJAA | Togo | 102 |
 | 10 | [itachixa](https://github.com/itachixa) | SALIFOU Aléhéri Christian | Togo | 102 |
 | 11 | [GhostEsso](https://github.com/GhostEsso) | Essohanam TAMBANA | Lomé, Togo | 89 |
@@ -77,10 +77,10 @@ Indexed users: 677
 | 13 | [toutpuissantged](https://github.com/toutpuissantged) | Gedeon AMOUSSOU | togo | 80 |
 | 14 | [gausoft](https://github.com/gausoft) | Gauthier Eholoum | Lomé, Togo | 75 |
 | 15 | [HordRic](https://github.com/HordRic) | ASSOUN Akomagni Kodjovi Rodrigue | Lomé-Togo | 75 |
-| 16 | [lecodeur228](https://github.com/lecodeur228) | irin | TOGO | 70 |
-| 17 | [Matthieu96Code](https://github.com/Matthieu96Code) | Kodjo Matthieu SENOU | Togo, Lome | 69 |
-| 18 | [Koj-Kyo](https://github.com/Koj-Kyo) |  | Lomé , Togo | 68 |
+| 16 | [Koj-Kyo](https://github.com/Koj-Kyo) |  | Lomé , Togo | 70 |
+| 17 | [lecodeur228](https://github.com/lecodeur228) | irin | TOGO | 70 |
+| 18 | [Matthieu96Code](https://github.com/Matthieu96Code) | Kodjo Matthieu SENOU | Togo, Lome | 69 |
 | 19 | [ica1010](https://github.com/ica1010) | Ghislin | Lomé , Togo | 66 |
 | 20 | [Maximekgn](https://github.com/Maximekgn) | KOGON Mawunygan Maxime | Togo | 63 |
 
-Generated: 2026-10-22T06:18:18.278Z
+Generated: 2026-10-22T07:59:22.281Z

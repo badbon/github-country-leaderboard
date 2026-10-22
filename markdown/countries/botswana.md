@@ -16,8 +16,8 @@ Indexed users: 533
 | 2 | [Chalebgwa](https://github.com/Chalebgwa) | Pako Chalebgwa | Botswana,Gaborone | 8,253 |
 | 3 | [rasali535](https://github.com/rasali535) | Alpheaus Chiwaze | Botswana, Gaborone | 2,915 |
 | 4 | [kmaphane](https://github.com/kmaphane) | Kenna Maphane | Maun, Botswana | 2,690 |
-| 5 | [darula-hpp](https://github.com/darula-hpp) | Olebogeng Mbedzi | Gaborone | 2,675 |
-| 6 | [tiromodibedi](https://github.com/tiromodibedi) | Tiro Modibedi | Gaborone, Botswana | 2,626 |
+| 5 | [tiromodibedi](https://github.com/tiromodibedi) | Tiro Modibedi | Gaborone, Botswana | 2,679 |
+| 6 | [darula-hpp](https://github.com/darula-hpp) | Olebogeng Mbedzi | Gaborone | 2,675 |
 | 7 | [Batoli19](https://github.com/Batoli19) | future | Gaborone | 2,504 |
 | 8 | [ChinyangaTL](https://github.com/ChinyangaTL) | Les Chinyanga | Gaborone, Botswana | 2,474 |
 | 9 | [Koketso1999](https://github.com/Koketso1999) | Koketso Morapedi | Gaborone, Botswana | 2,370 |
@@ -83,4 +83,4 @@ Indexed users: 533
 | 19 | [BakangMonei](https://github.com/BakangMonei) | Monei Bakang | Gaborone, Botswana | 34 |
 | 20 | [kcee01](https://github.com/kcee01) | Cliff Keabetswe | Gaborone, Botswana | 33 |
 
-Generated: 2026-10-22T06:41:26.929Z
+Generated: 2026-10-22T08:16:57.915Z

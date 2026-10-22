@@ -1,6 +1,6 @@
 # Public Contributions - Bosnia and Herzegovina
 
-Generated: 2026-10-22T06:41:24.116Z
+Generated: 2026-10-22T08:16:51.592Z
 
 Users: 2126
 
@@ -14,7 +14,7 @@ Users: 2126
 | 6 | [pr0h0](https://github.com/pr0h0) | Abdulah Proho | Circeus |  | Sarajevo / Bosnia and Herzegovina | 2805 |
 | 7 | [goran1010](https://github.com/goran1010) | Goran Jović |  |  | Banja Luka, Bosnia and Herzegovina | 2713 |
 | 8 | [zalom](https://github.com/zalom) | Zlatko Alomerovic |  |  | Tuzla, Bosnia and Herzegovina | 1864 |
-| 9 | [AleksaMCode](https://github.com/AleksaMCode) | Aleksa Majkić |  | aleksamcode | Banja Luka, Bosnia and Herzegovina | 1827 |
+| 9 | [AleksaMCode](https://github.com/AleksaMCode) | Aleksa Majkić |  | aleksamcode | Banja Luka, Bosnia and Herzegovina | 1824 |
 | 10 | [Mirza404](https://github.com/Mirza404) | Mirza Abdulahovic |  |  | Sarajevo | 1697 |
 | 11 | [omznc](https://github.com/omznc) | Omar Zunic | Profico |  | Bosnia & Herzegovina | 1418 |
 | 12 | [DEntis-T](https://github.com/DEntis-T) | Tractus Corticospinalis | bracetm |  | Sarajevo, FBiH | 1354 |

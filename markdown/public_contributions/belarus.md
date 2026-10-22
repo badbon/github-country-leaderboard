@@ -1,8 +1,8 @@
 # Public Contributions - Belarus
 
-Generated: 2026-10-22T06:36:37.086Z
+Generated: 2026-10-22T08:14:30.740Z
 
-Users: 10925
+Users: 10924
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -18,11 +18,11 @@ Users: 10925
 | 10 | [Nice3point](https://github.com/Nice3point) | Roman | Kinship |  | Minsk | 2066 |
 | 11 | [naxBody](https://github.com/naxBody) | Артем |  |  | Belarus, Luninets  | 1957 |
 | 12 | [Alexeykoh](https://github.com/Alexeykoh) | Алексей |  |  | Belarus | 1928 |
-| 13 | [MikalaiKryvusha](https://github.com/MikalaiKryvusha) | Mikalai Kryvusha |  |  | Belarus, Minsk | 1922 |
-| 14 | [timseriakov](https://github.com/timseriakov) | Tim Seriakov |  | timseriakov | Minsk, Belarus | 1851 |
-| 15 | [e-gleba](https://github.com/e-gleba) | Evgeniy Gleba | Lesta Games |  | Minsk | 1838 |
-| 16 | [HardNorth](https://github.com/HardNorth) | Vadzim Hushchanskou |  |  | Minsk, Belarus | 1826 |
-| 17 | [AndreiDrang](https://github.com/AndreiDrang) | Andrei | Home |  | Minsk | 1681 |
-| 18 | [fedorkobak](https://github.com/fedorkobak) | Fedor Kobak |  |  | Minsk Belarus | 1600 |
-| 19 | [vegacepticon](https://github.com/vegacepticon) |  |  |  | Belarus | 1569 |
-| 20 | [shmelidzee](https://github.com/shmelidzee) | Pavel Moiseenko |  |  | Minsk, Belarus | 1523 |
+| 13 | [timseriakov](https://github.com/timseriakov) | Tim Seriakov |  | timseriakov | Minsk, Belarus | 1851 |
+| 14 | [e-gleba](https://github.com/e-gleba) | Evgeniy Gleba | Lesta Games |  | Minsk | 1838 |
+| 15 | [HardNorth](https://github.com/HardNorth) | Vadzim Hushchanskou |  |  | Minsk, Belarus | 1826 |
+| 16 | [AndreiDrang](https://github.com/AndreiDrang) | Andrei | Home |  | Minsk | 1681 |
+| 17 | [fedorkobak](https://github.com/fedorkobak) | Fedor Kobak |  |  | Minsk Belarus | 1600 |
+| 18 | [vegacepticon](https://github.com/vegacepticon) |  |  |  | Belarus | 1569 |
+| 19 | [shmelidzee](https://github.com/shmelidzee) | Pavel Moiseenko |  |  | Minsk, Belarus | 1523 |
+| 20 | [ikrutoi](https://github.com/ikrutoi) | Ihar Krutoi |  |  | Gomel, Belarus | 1513 |

@@ -1,6 +1,6 @@
 # Total Contributions - Bhutan
 
-Generated: 2026-10-22T06:39:17.827Z
+Generated: 2026-10-22T08:15:36.853Z
 
 Users: 266
 
@@ -16,8 +16,8 @@ Users: 266
 | 8 | [PraMishra-s](https://github.com/PraMishra-s) | Pralad Mishra | College of Science and Technology |  | Bhutan | 2640 |
 | 9 | [sangayt1997](https://github.com/sangayt1997) | Sangay Thinley | SELISE Group | SangayT97 | Thimphu, Bhutan | 2282 |
 | 10 | [Ugyenjigmerangdrel](https://github.com/Ugyenjigmerangdrel) | Ugyen Jigme Rangdrel | @jaggle.ai | URangdrel | Bhutan | 2268 |
-| 11 | [SonamWangchuk77jr](https://github.com/SonamWangchuk77jr) | Sonam Wangchuk | @ROMx-Tech  |  | Thimphu | 2120 |
-| 12 | [grey300](https://github.com/grey300) | Tshering Gyeltshen |  |  | Bhutan | 2112 |
+| 11 | [grey300](https://github.com/grey300) | Tshering Gyeltshen |  |  | Bhutan | 2158 |
+| 12 | [SonamWangchuk77jr](https://github.com/SonamWangchuk77jr) | Sonam Wangchuk | @ROMx-Tech  |  | Thimphu | 2120 |
 | 13 | [bugloper](https://github.com/bugloper) | Nima Yonten | Selise |  | Thimphu Babesa | 2050 |
 | 14 | [ugyentenzin1](https://github.com/ugyentenzin1) | Ugyen Tenzin  | @SELISEdigitalplatforms  |  | Thiimphu, Bhutan | 2047 |
 | 15 | [jigmeloday](https://github.com/jigmeloday) | Jigme Lodey | Freelancer |  | Thimphu Bhutan | 1981 |

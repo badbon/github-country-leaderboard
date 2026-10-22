@@ -1,14 +1,14 @@
 # Total Contributions - El Salvador
 
-Generated: 2026-10-22T06:53:37.407Z
+Generated: 2026-10-22T08:31:59.061Z
 
 Users: 2378
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [heycesar](https://github.com/heycesar) | César A. Ramírez | Axel, @kods-io  | cesaramirezsv | El Salvador | 12565 |
-| 2 | [b-mendoza](https://github.com/b-mendoza) | Bryan Mendoza | Staff Engineer @praxent |  | San Salvador, El Salvador | 11333 |
-| 3 | [marombeltran](https://github.com/marombeltran) | Marom Beltran | @BitSpace-software | marom_beltran | La Libertad, El Salvador | 11301 |
+| 2 | [marombeltran](https://github.com/marombeltran) | Marom Beltran | @BitSpace-software | marom_beltran | La Libertad, El Salvador | 11433 |
+| 3 | [b-mendoza](https://github.com/b-mendoza) | Bryan Mendoza | Staff Engineer @praxent |  | San Salvador, El Salvador | 11333 |
 | 4 | [Thrumanshow](https://github.com/Thrumanshow) | Cristhiam Leonardo Hernández Quiñonez  |  @HormigasAIS  |  | El Salvador  | 10394 |
 | 5 | [striker25](https://github.com/striker25) | Fernando Alvarado | @Applaudo |  | El Salvador | 10175 |
 | 6 | [jromerojarj](https://github.com/jromerojarj) | Jonathan Romero | @ikaro-studio  | jromerojarj | San Salvador, El Salvador | 9862 |
@@ -22,7 +22,7 @@ Users: 2378
 | 14 | [cativo23](https://github.com/cativo23) | Carlos Cativo |  |  | San Salvador, El Salvador | 5913 |
 | 15 | [eduard-gonzalez](https://github.com/eduard-gonzalez) | Efrain Gonzalez | Savvy Post Marketing |  | El Salvador | 5193 |
 | 16 | [loviver](https://github.com/loviver) | Oliver Calderón |  |  | El Salvador, San Salvador | 5044 |
-| 17 | [aedneth](https://github.com/aedneth) | Eduardo A. Borjas | Korvex | aedneth | San Salvador, El Salvador | 4934 |
-| 18 | [wmacall](https://github.com/wmacall) | Macall |  |  | El Salvador | 4863 |
+| 17 | [wmacall](https://github.com/wmacall) | Macall |  |  | El Salvador | 4964 |
+| 18 | [aedneth](https://github.com/aedneth) | Eduardo A. Borjas | Korvex | aedneth | San Salvador, El Salvador | 4934 |
 | 19 | [lucario028](https://github.com/lucario028) | Lucaritas | @BluefoxSV |  | El Salvador | 4824 |
 | 20 | [LemonMantis5571](https://github.com/LemonMantis5571) | Leonel Guerrero | Pokémon Company |  | El Salvador | 4603 |

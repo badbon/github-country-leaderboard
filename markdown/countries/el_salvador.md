@@ -13,8 +13,8 @@ Indexed users: 2,378
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [heycesar](https://github.com/heycesar) | César A. Ramírez | El Salvador | 12,565 |
-| 2 | [b-mendoza](https://github.com/b-mendoza) | Bryan Mendoza | San Salvador, El Salvador | 11,333 |
-| 3 | [marombeltran](https://github.com/marombeltran) | Marom Beltran | La Libertad, El Salvador | 11,301 |
+| 2 | [marombeltran](https://github.com/marombeltran) | Marom Beltran | La Libertad, El Salvador | 11,433 |
+| 3 | [b-mendoza](https://github.com/b-mendoza) | Bryan Mendoza | San Salvador, El Salvador | 11,333 |
 | 4 | [Thrumanshow](https://github.com/Thrumanshow) | Cristhiam Leonardo Hernández Quiñonez  | El Salvador  | 10,394 |
 | 5 | [striker25](https://github.com/striker25) | Fernando Alvarado | El Salvador | 10,175 |
 | 6 | [jromerojarj](https://github.com/jromerojarj) | Jonathan Romero | San Salvador, El Salvador | 9,862 |
@@ -28,8 +28,8 @@ Indexed users: 2,378
 | 14 | [cativo23](https://github.com/cativo23) | Carlos Cativo | San Salvador, El Salvador | 5,913 |
 | 15 | [eduard-gonzalez](https://github.com/eduard-gonzalez) | Efrain Gonzalez | El Salvador | 5,193 |
 | 16 | [loviver](https://github.com/loviver) | Oliver Calderón | El Salvador, San Salvador | 5,044 |
-| 17 | [aedneth](https://github.com/aedneth) | Eduardo A. Borjas | San Salvador, El Salvador | 4,934 |
-| 18 | [wmacall](https://github.com/wmacall) | Macall | El Salvador | 4,863 |
+| 17 | [wmacall](https://github.com/wmacall) | Macall | El Salvador | 4,964 |
+| 18 | [aedneth](https://github.com/aedneth) | Eduardo A. Borjas | San Salvador, El Salvador | 4,934 |
 | 19 | [lucario028](https://github.com/lucario028) | Lucaritas | El Salvador | 4,824 |
 | 20 | [LemonMantis5571](https://github.com/LemonMantis5571) | Leonel Guerrero | El Salvador | 4,603 |
 
@@ -83,4 +83,4 @@ Indexed users: 2,378
 | 19 | [MiPrimerBitcoin](https://github.com/MiPrimerBitcoin) | Mi Primer Bitcoin El Salvador | El Salvador | 97 |
 | 20 | [davequinta](https://github.com/davequinta) | David Quintanilla | El Salvador | 95 |
 
-Generated: 2026-10-22T06:53:37.407Z
+Generated: 2026-10-22T08:31:59.061Z

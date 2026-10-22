@@ -1,6 +1,6 @@
 # Total Contributions - Togo
 
-Generated: 2026-10-22T06:18:18.278Z
+Generated: 2026-10-22T07:59:22.281Z
 
 Users: 677
 
@@ -18,11 +18,11 @@ Users: 677
 | 10 | [JsOptimizer](https://github.com/JsOptimizer) | Michael Olalekan |  |  | Togo | 5613 |
 | 11 | [charlesdzadu](https://github.com/charlesdzadu) | Charles DZADU | @makifaa  | CharlesDzadu | Lomé - Togo | 5213 |
 | 12 | [sebandroidev](https://github.com/sebandroidev) | Sebastien NOGBEDJI | Wiicode | devbyseb | Lomé, TOGO | 5063 |
-| 13 | [Dreykovic](https://github.com/Dreykovic) | Birewa Audrey AMONA |  |  | Togo | 4538 |
-| 14 | [EmD-228](https://github.com/EmD-228) | Kokou DENYO |  |  | Lome-Togo | 4514 |
+| 13 | [EmD-228](https://github.com/EmD-228) | Kokou DENYO |  |  | Lome-Togo | 4514 |
+| 14 | [Dreykovic](https://github.com/Dreykovic) | Birewa Audrey AMONA |  |  | Togo | 4509 |
 | 15 | [Le-Sourcier](https://github.com/Le-Sourcier) | Yao David LOGAN | Your Job, DevBox | LeSourcier01 | US, TOGO, UK | 4265 |
 | 16 | [Rahim10020](https://github.com/Rahim10020) | Rahim ALI | Freelance |  | Lome -TOGO | 4143 |
 | 17 | [Einswilli](https://github.com/Einswilli) | #Einswilli | @AllDotPy @Bluwa |  | Lomé | 3894 |
-| 18 | [Ygryan360](https://github.com/Ygryan360) | Rayane | @Immoviasoft | ryan_tchabodi | Lomé, Togo | 3606 |
+| 18 | [Ygryan360](https://github.com/Ygryan360) | Rayane | @Immoviasoft | ryan_tchabodi | Lomé, Togo | 3626 |
 | 19 | [Giovidoh](https://github.com/Giovidoh) | ICGreborns |  | ICG_reborns | Lomé, Togo | 3598 |
 | 20 | [Georginio-prod](https://github.com/Georginio-prod) | Georginio  |  |  | lomé-TOGO | 3517 |

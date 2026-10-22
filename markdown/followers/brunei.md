@@ -1,17 +1,17 @@
 # Followers - Brunei
 
-Generated: 2026-10-22T06:42:43.735Z
+Generated: 2026-10-22T08:19:57.795Z
 
 Users: 254
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [notanonymouse](https://github.com/notanonymouse) | notanonymouse |  |  | Brunei | 184 |
+| 1 | [notanonymouse](https://github.com/notanonymouse) | notanonymouse |  |  | Brunei | 188 |
 | 2 | [lmwnshn](https://github.com/lmwnshn) | Wan Shen Lim |  |  | San Francisco, CA \| Brunei | 112 |
 | 3 | [izdiwho](https://github.com/izdiwho) | Iz |  | izdiwho | Brunei | 64 |
 | 4 | [Qoyyuum](https://github.com/Qoyyuum) | Abdul Qoyyuum |  | Qoyyuum | Brunei Darussalam | 52 |
 | 5 | [thewheat](https://github.com/thewheat) | Timothy Lim | @supabase |  | Brunei | 47 |
-| 6 | [PandaWarrior63](https://github.com/PandaWarrior63) |  | Lectus |  | Brunei | 39 |
+| 6 | [PandaWarrior63](https://github.com/PandaWarrior63) |  | Lectus |  | Brunei | 38 |
 | 7 | [abizarleman](https://github.com/abizarleman) | Abizar Leman | Datastream Digital (DST)  |  | Brunei Darussalam | 28 |
 | 8 | [sk8teroy](https://github.com/sk8teroy) |  |  |  | Brunei | 28 |
 | 9 | [jailanihar](https://github.com/jailanihar) | Jailani Abdul Rahman |  |  | Brunei Darussalam | 25 |

@@ -49,7 +49,7 @@ Indexed users: 708
 | 10 | [Ilkhom-S](https://github.com/Ilkhom-S) | Ilkhom Safarov | Dushanbe, Tajikistan | 761 |
 | 11 | [Suhrob4ikk](https://github.com/Suhrob4ikk) | Suhrob Davlatov | Dushanbe, Tajikistan | 736 |
 | 12 | [UMARJO9](https://github.com/UMARJO9) | Умарджон Нурмадов | Tajikistan / Khujand / Dushanbe / Kulob | 669 |
-| 13 | [Osaf-Abdulloev](https://github.com/Osaf-Abdulloev) | Abdulloev Osaf | Dushanbe | 658 |
+| 13 | [Osaf-Abdulloev](https://github.com/Osaf-Abdulloev) | Abdulloev Osaf | Dushanbe | 659 |
 | 14 | [mehrvarshodiev](https://github.com/mehrvarshodiev) | Mehrvar Shodiev | Dushanbe | 607 |
 | 15 | [GulomovCreative](https://github.com/GulomovCreative) | Bakhtovar Gulomov | Dushanbe, Tajikistan | 560 |
 | 16 | [Muhammadjon0204](https://github.com/Muhammadjon0204) | Muhammadjon Kosimov | Dushanbe | 507 |
@@ -64,7 +64,7 @@ Indexed users: 708
 |---:|---|---|---|---:|
 | 1 | [abdullokhonz](https://github.com/abdullokhonz) | Abdullokhon Ghaibulloev | Khujand, Tajikistan | 438 |
 | 2 | [RahimovAbdurahmon](https://github.com/RahimovAbdurahmon) |  | Tajikistan, Dushanbe | 226 |
-| 3 | [AzamBayzaev](https://github.com/AzamBayzaev) | Azam | Khujand, Tajikistan | 173 |
+| 3 | [AzamBayzaev](https://github.com/AzamBayzaev) | Azam | Khujand, Tajikistan | 174 |
 | 4 | [jahongirholmatov](https://github.com/jahongirholmatov) | Jahongir | Khujand, Tajikistan | 173 |
 | 5 | [Thexasan](https://github.com/Thexasan) | Husenov Hasan  | Tajikistan, Dushanbe | 140 |
 | 6 | [Amsurur](https://github.com/Amsurur) | Muhammadsurur Abdulloev | Dushanbe | 133 |
@@ -83,4 +83,4 @@ Indexed users: 708
 | 19 | [11bit](https://github.com/11bit) | Ivan Buryak | Dushanbe | 49 |
 | 20 | [Abdughafur](https://github.com/Abdughafur) | Abdughafur Khujzoda | Tajikistan | 48 |
 
-Generated: 2026-10-22T06:17:13.356Z
+Generated: 2026-10-22T07:57:19.220Z

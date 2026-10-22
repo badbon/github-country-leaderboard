@@ -15,14 +15,14 @@ Indexed users: 1,489
 | 1 | [Fazlullahmamond](https://github.com/Fazlullahmamond) | Fazlullah Mamond | Kabul, Afghanistan | 204,921 |
 | 2 | [zevrok](https://github.com/zevrok) | Zevrok | Kabul, Afghanistan | 88,601 |
 | 3 | [devpro0313](https://github.com/devpro0313) | Dev pro | Afghanistan | 76,717 |
-| 4 | [ahmadullahmukhlis](https://github.com/ahmadullahmukhlis) | Ahmadullah Mukhlis | Kabul, Afghanistan | 66,696 |
+| 4 | [ahmadullahmukhlis](https://github.com/ahmadullahmukhlis) | Ahmadullah Mukhlis | Kabul, Afghanistan | 66,650 |
 | 5 | [haroonrashidzadran](https://github.com/haroonrashidzadran) | Haroon Rashid Zadran | Kabul, Afghanistan | 30,647 |
 | 6 | [amiriqbalkhan123](https://github.com/amiriqbalkhan123) | Iqbal Nabizada | Afghanistan | 16,893 |
 | 7 | [M-Anwar-Hussaini](https://github.com/M-Anwar-Hussaini) | Anwar Hussaini | Kabul, Afghanistan | 14,782 |
 | 8 | [zamirsed](https://github.com/zamirsed) | zamir sediqi  | Afghanistan | 10,288 |
 | 9 | [danishyarkhwork](https://github.com/danishyarkhwork) | Khalid Danishyar | Kabul, Afghanistan | 9,433 |
 | 10 | [Ali-Aref](https://github.com/Ali-Aref) | Ali Aref | Kabul Afghanistan | 7,605 |
-| 11 | [Nasratullah-Shafiq](https://github.com/Nasratullah-Shafiq) | Nasratullah Shafiq | Afghanistan | 7,449 |
+| 11 | [Nasratullah-Shafiq](https://github.com/Nasratullah-Shafiq) | Nasratullah Shafiq | Afghanistan | 7,541 |
 | 12 | [Mustafa-Zahedi](https://github.com/Mustafa-Zahedi) | Mustafa Zahedi | Herat, Afghanistan | 6,684 |
 | 13 | [shahghasiadil](https://github.com/shahghasiadil) | Shahghasi Adil | Afghanistan | 6,534 |
 | 14 | [WiyarAhmadZai](https://github.com/WiyarAhmadZai) | Muhammad Hakeem Wiyar | Kabul khoshal khan | 6,073 |
@@ -37,8 +37,8 @@ Indexed users: 1,489
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [ahmadullahmukhlis](https://github.com/ahmadullahmukhlis) | Ahmadullah Mukhlis | Kabul, Afghanistan | 30,577 |
-| 2 | [Nasratullah-Shafiq](https://github.com/Nasratullah-Shafiq) | Nasratullah Shafiq | Afghanistan | 7,303 |
+| 1 | [ahmadullahmukhlis](https://github.com/ahmadullahmukhlis) | Ahmadullah Mukhlis | Kabul, Afghanistan | 30,519 |
+| 2 | [Nasratullah-Shafiq](https://github.com/Nasratullah-Shafiq) | Nasratullah Shafiq | Afghanistan | 7,384 |
 | 3 | [haroonrashidzadran](https://github.com/haroonrashidzadran) | Haroon Rashid Zadran | Kabul, Afghanistan | 5,600 |
 | 4 | [basirkhan1995](https://github.com/basirkhan1995) | Basir Hashimi | Afghanistan | 4,873 |
 | 5 | [khalidafghanmal](https://github.com/khalidafghanmal) | khalid afghanmal | Afghanistan | 2,782 |
@@ -75,7 +75,7 @@ Indexed users: 1,489
 | 11 | [khalidafghanmal](https://github.com/khalidafghanmal) | khalid afghanmal | Afghanistan | 166 |
 | 12 | [WajihaNiazi](https://github.com/WajihaNiazi) | Wajiha Niazi | Herat,Afghanistan | 156 |
 | 13 | [starkbaknet](https://github.com/starkbaknet) | StarkBak | Kabul, Afghanistan | 147 |
-| 14 | [ab-noori](https://github.com/ab-noori) | Abdulali Noori | Afghanistan | 145 |
+| 14 | [ab-noori](https://github.com/ab-noori) | Abdulali Noori | Afghanistan | 144 |
 | 15 | [MashalSarwari](https://github.com/MashalSarwari) | Mohammad Mashal Sarwari | Afghanistan | 143 |
 | 16 | [SaeqaSultani](https://github.com/SaeqaSultani) | Saeqa Sultani | Afghanistan | 130 |
 | 17 | [shayanheidari01](https://github.com/shayanheidari01) | Shayan Heidari | Afghanistan/Kabul | 129 |
@@ -83,4 +83,4 @@ Indexed users: 1,489
 | 19 | [zainabturkmen](https://github.com/zainabturkmen) | Zainab Turkmen | Kabul  | 125 |
 | 20 | [NaveedAhmadHematmal](https://github.com/NaveedAhmadHematmal) | Naveed Ahmad Hematmal | Afghanistan | 117 |
 
-Generated: 2026-10-22T06:29:06.098Z
+Generated: 2026-10-22T08:07:51.109Z

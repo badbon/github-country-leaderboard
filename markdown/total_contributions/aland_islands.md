@@ -1,6 +1,6 @@
 # Total Contributions - Åland Islands
 
-Generated: 2026-10-22T06:29:14.794Z
+Generated: 2026-10-22T08:07:57.784Z
 
 Users: 61
 
@@ -8,12 +8,12 @@ Users: 61
 |---:|---|---|---|---|---|---:|
 | 1 | [michael-andreuzza](https://github.com/michael-andreuzza) | Michael Andreuzza | Unwrapped | Mike_Andreuzza | Mariehman, Åland Islands, Finland | 12910 |
 | 2 | [npunzalan](https://github.com/npunzalan) | Nico Punzalan |  |  | Mariehamn | 4068 |
-| 3 | [hkarlstrom](https://github.com/hkarlstrom) | Henrik Karlström |  |  | Åland Islands | 3828 |
-| 4 | [mathisen99](https://github.com/mathisen99) | Tommy Mathisen |  |  | Aland Islands | 3311 |
+| 3 | [hkarlstrom](https://github.com/hkarlstrom) | Henrik Karlström |  |  | Åland Islands | 3814 |
+| 4 | [mathisen99](https://github.com/mathisen99) | Tommy Mathisen |  |  | Aland Islands | 3336 |
 | 5 | [olegamobile](https://github.com/olegamobile) | Oleg Balandin | Grit:lab |  | Mariehamn | 1724 |
 | 6 | [MarkusYPA](https://github.com/MarkusYPA) | Markus Amberla |  |  | Mariehamn and Helsinki | 1461 |
 | 7 | [taneli-paf](https://github.com/taneli-paf) | Taneli Mäkihannu | @pafcloud |  | Mariehamn, Åland Islands | 1294 |
-| 8 | [linusaarnio](https://github.com/linusaarnio) | Linus Aarnio | Datawrapper |  | Åland, Finland | 1253 |
+| 8 | [linusaarnio](https://github.com/linusaarnio) | Linus Aarnio | Datawrapper |  | Åland, Finland | 1251 |
 | 9 | [SaddamHosyn](https://github.com/SaddamHosyn) | Hussain Saddam |  |  | Mariehamn, Åland | 1022 |
 | 10 | [mareerray](https://github.com/mareerray) | Mayuree Reunsati |  |  | Mariehamn, Åland | 861 |
 | 11 | [rahulwagh](https://github.com/rahulwagh) | Rahul Wagh |  |  | Mariehamn, Åland | 584 |

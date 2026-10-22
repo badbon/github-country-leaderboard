@@ -1,6 +1,6 @@
 # Public Contributions - Andorra
 
-Generated: 2026-10-22T06:30:58.561Z
+Generated: 2026-10-22T08:10:09.571Z
 
 Users: 215
 
@@ -9,7 +9,7 @@ Users: 215
 | 1 | [ericrisco](https://github.com/ericrisco) | Eric Risco de la Torre | Andorra Telecom | erisco_and | Andorra | 48053 |
 | 2 | [niwinz](https://github.com/niwinz) | Andrey Antukh | @kaleidos & @penpot |  | Andorra | 3038 |
 | 3 | [acastellana](https://github.com/acastellana) | Albert Castellana | @yeagerai | kstellana | Andorra | 1469 |
-| 4 | [Danziger](https://github.com/Danziger) | Dani Gámez Franco | @cowprotocol, @wanderwallet | gmzcodes | Andorra | 794 |
+| 4 | [Danziger](https://github.com/Danziger) | Dani Gámez Franco | @cowprotocol, @wanderwallet | gmzcodes | Andorra | 798 |
 | 5 | [Estemobs](https://github.com/Estemobs) | estemobs | Domaine de Casinus |  | Andorra | 776 |
 | 6 | [l3wi](https://github.com/l3wi) | Lewis Freiberg |  | lewifree | Andorra | 701 |
 | 7 | [tombrewsviews](https://github.com/tombrewsviews) | Tom Parandyk | Altramanera |  | Andorra | 700 |
@@ -19,7 +19,7 @@ Users: 215
 | 11 | [martapanc](https://github.com/martapanc) |  |  |  | Italy / Andorra | 514 |
 | 12 | [AdriaCarrera](https://github.com/AdriaCarrera) | Adrià Carrera | @Peersyst |  | Andorra | 441 |
 | 13 | [trebormc](https://github.com/trebormc) | Robert Menetray | Menetray | RobertMenetray | Andorra | 406 |
-| 14 | [markusand](https://github.com/markusand) | Marc Vilella |  |  | Andorra | 382 |
+| 14 | [markusand](https://github.com/markusand) | Marc Vilella |  |  | Andorra | 381 |
 | 15 | [georgeee](https://github.com/georgeee) | George Agapov | @MinaProtocol |  | Andorra | 354 |
 | 16 | [marciglesias17](https://github.com/marciglesias17) | Marc Iglesias | CubePath Inc. | marciglesias17 | Andorra | 322 |
 | 17 | [PaulMatencio](https://github.com/PaulMatencio) | Paul Matencio | Retired | paulMatencio | Andorra | 276 |

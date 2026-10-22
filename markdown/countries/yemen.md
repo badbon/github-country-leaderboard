@@ -78,9 +78,9 @@ Indexed users: 1,205
 | 14 | [mrpythonfpi](https://github.com/mrpythonfpi) | 𝐌r𝐏𝐘𝐓𝐇𝐎𝐍🎩༒ | YEMEN | 188 |
 | 15 | [muath-ye](https://github.com/muath-ye) | Muath Alsowadi | Yemen | 183 |
 | 16 | [Emadalshamery](https://github.com/Emadalshamery) | Emad QEAD Alshamiri  | Yemen | 172 |
-| 17 | [aameralduais](https://github.com/aameralduais) | Aamer Alduais | Sana'a, Yemen | 161 |
+| 17 | [aameralduais](https://github.com/aameralduais) | Aamer Alduais | Sana'a, Yemen | 160 |
 | 18 | [0-d3y](https://github.com/0-d3y) | S4Tech | Yemen | 159 |
 | 19 | [hetari](https://github.com/hetari) | Ebraheem Alhetari | Yemen | 158 |
 | 20 | [its4nas](https://github.com/its4nas) | Anas Al-Dharei | Yemen | 147 |
 
-Generated: 2026-10-22T06:28:15.837Z
+Generated: 2026-10-22T08:05:52.323Z

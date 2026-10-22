@@ -45,7 +45,7 @@ Indexed users: 2,126
 | 6 | [pr0h0](https://github.com/pr0h0) | Abdulah Proho | Sarajevo / Bosnia and Herzegovina | 2,805 |
 | 7 | [goran1010](https://github.com/goran1010) | Goran Jović | Banja Luka, Bosnia and Herzegovina | 2,713 |
 | 8 | [zalom](https://github.com/zalom) | Zlatko Alomerovic | Tuzla, Bosnia and Herzegovina | 1,864 |
-| 9 | [AleksaMCode](https://github.com/AleksaMCode) | Aleksa Majkić | Banja Luka, Bosnia and Herzegovina | 1,827 |
+| 9 | [AleksaMCode](https://github.com/AleksaMCode) | Aleksa Majkić | Banja Luka, Bosnia and Herzegovina | 1,824 |
 | 10 | [Mirza404](https://github.com/Mirza404) | Mirza Abdulahovic | Sarajevo | 1,697 |
 | 11 | [omznc](https://github.com/omznc) | Omar Zunic | Bosnia & Herzegovina | 1,418 |
 | 12 | [DEntis-T](https://github.com/DEntis-T) | Tractus Corticospinalis | Sarajevo, FBiH | 1,354 |
@@ -83,4 +83,4 @@ Indexed users: 2,126
 | 19 | [Mickey0001](https://github.com/Mickey0001) | Mirza Sisic | Sarajevo, Bosnia and Herzegovina  | 122 |
 | 20 | [sake92](https://github.com/sake92) | Sakib Hadžiavdić | Sarajevo, Bosnia | 118 |
 
-Generated: 2026-10-22T06:41:24.116Z
+Generated: 2026-10-22T08:16:51.592Z

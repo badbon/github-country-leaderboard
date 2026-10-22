@@ -1,6 +1,6 @@
 # Public Contributions - Antarctica
 
-Generated: 2026-10-22T06:31:08.339Z
+Generated: 2026-10-22T08:11:44.695Z
 
 Users: 460
 
@@ -10,8 +10,8 @@ Users: 460
 | 2 | [Sup2point0](https://github.com/Sup2point0) | Sup#2.0 |  |  | Antarctica | 4293 |
 | 3 | [morgaesis](https://github.com/morgaesis) | Mörgæsis |  |  | Antarctica | 3544 |
 | 4 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Lapr Inc. |  | Antarctica | 3245 |
-| 5 | [PicasoTheDeal](https://github.com/PicasoTheDeal) | Tetstack |  |  | Antarctica | 3166 |
-| 6 | [ethicnology](https://github.com/ethicnology) | Azad | @SatoshiPortal  |  | Antarctica | 3077 |
+| 5 | [ethicnology](https://github.com/ethicnology) | Azad | @SatoshiPortal  |  | Antarctica | 3228 |
+| 6 | [PicasoTheDeal](https://github.com/PicasoTheDeal) | Tetstack |  |  | Antarctica | 3166 |
 | 7 | [shangyian](https://github.com/shangyian) | Yian |  |  | Antarctica | 2166 |
 | 8 | [FreezingSnail](https://github.com/FreezingSnail) | Freezing Snail |  |  | Antarctica | 1636 |
 | 9 | [krwg](https://github.com/krwg) | アイダ ミール | Google University |  | Antarctica | 1465 |

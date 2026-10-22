@@ -66,7 +66,7 @@ Indexed users: 727
 | 2 | [naweed](https://github.com/naweed) | Naweed Akram | Bahrain | 243 |
 | 3 | [fairbird](https://github.com/fairbird) | RAED | Bahrain | 122 |
 | 4 | [0xRar](https://github.com/0xRar) |  | Bahrain | 116 |
-| 5 | [burhan](https://github.com/burhan) | Burhan Khalid | Bahrain/Kuwait | 111 |
+| 5 | [burhan](https://github.com/burhan) | Burhan Khalid | Bahrain/Kuwait | 110 |
 | 6 | [ExTBH](https://github.com/ExTBH) | Natheer Radhi | Bahrain | 107 |
 | 7 | [mufarrah](https://github.com/mufarrah) | A.Rahman Mufarrah | Bahrain | 105 |
 | 8 | [kelvindecosta](https://github.com/kelvindecosta) | Kelvin DeCosta | Bahrain | 95 |
@@ -83,4 +83,4 @@ Indexed users: 727
 | 19 | [f-9t9it](https://github.com/f-9t9it) | 9T9 IT | Bahrain | 42 |
 | 20 | [masterde](https://github.com/masterde) | Baker | Bahrain, Muharraq | 41 |
 
-Generated: 2026-10-22T06:35:33.166Z
+Generated: 2026-10-22T08:13:37.855Z

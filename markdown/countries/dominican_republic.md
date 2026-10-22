@@ -24,10 +24,10 @@ Indexed users: 3,297
 | 10 | [emilsosa](https://github.com/emilsosa) | Emil Sosa | Dominican Republic | 8,906 |
 | 11 | [gmolinart](https://github.com/gmolinart) | Guillermo Molina | dominican republic | 8,494 |
 | 12 | [everylisting](https://github.com/everylisting) | Philippe Roy | Dominican-Republic | 8,493 |
-| 13 | [ERPalmer](https://github.com/ERPalmer) | ERPalmer | Dominican Republic | 7,168 |
-| 14 | [Zyruks](https://github.com/Zyruks) | Samuel Llibre-Pillco | Dominican Republic | 7,147 |
-| 15 | [wcontreras](https://github.com/wcontreras) | Williams Contreras | Dominican Republic, Santo Domingo | 7,121 |
-| 16 | [sanchezta](https://github.com/sanchezta) | Adrian Sanchez | Dominican Republic | 6,885 |
+| 13 | [sanchezta](https://github.com/sanchezta) | Adrian Sanchez | Dominican Republic | 7,206 |
+| 14 | [ERPalmer](https://github.com/ERPalmer) | ERPalmer | Dominican Republic | 7,168 |
+| 15 | [Zyruks](https://github.com/Zyruks) | Samuel Llibre-Pillco | Dominican Republic | 7,147 |
+| 16 | [wcontreras](https://github.com/wcontreras) | Williams Contreras | Dominican Republic, Santo Domingo | 7,121 |
 | 17 | [dkropachev](https://github.com/dkropachev) | Dmitry Kropachev | Dominican Republic | 6,784 |
 | 18 | [arielbritorivera](https://github.com/arielbritorivera) | Ariel A. Brito | Dominican Republic | 6,641 |
 | 19 | [luismts](https://github.com/luismts) | Luis Matos | Dominican Republic | 6,633 |
@@ -83,4 +83,4 @@ Indexed users: 3,297
 | 19 | [eatskolnikov](https://github.com/eatskolnikov) | Enmanuel Toribio | Dominican Republic | 147 |
 | 20 | [RaymondCoplin](https://github.com/RaymondCoplin) | Raymond Coplin | Dominican Republic, Santo Domingo | 120 |
 
-Generated: 2026-10-22T06:52:18.431Z
+Generated: 2026-10-22T08:30:13.313Z

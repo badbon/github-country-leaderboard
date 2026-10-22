@@ -1,6 +1,6 @@
 # Followers - Uganda
 
-Generated: 2026-10-22T06:20:25.236Z
+Generated: 2026-10-22T08:02:05.328Z
 
 Users: 3864
 
@@ -11,7 +11,7 @@ Users: 3864
 | 3 | [judeotine](https://github.com/judeotine) | Judeotine |  | Judeotine | Uganda | 929 |
 | 4 | [CryceTruly](https://github.com/CryceTruly) | cryce truly | Reputable Tech Company | crycetruly | Kampala | 757 |
 | 5 | [codebender828](https://github.com/codebender828) | Jonathan Bakebwa | @mirrorworld-universe | codebender828 | Kampala, Uganda | 592 |
-| 6 | [ConradPB](https://github.com/ConradPB) | Conrad P.B | M2 Digital Technologies Afrique |  | Kampala | 540 |
+| 6 | [ConradPB](https://github.com/ConradPB) | Conrad P.B | M2 Digital Technologies Afrique |  | Kampala | 561 |
 | 7 | [ABAASA-BYOONA](https://github.com/ABAASA-BYOONA) | ABAASA | ABAASA TECH |  | kampala | 510 |
 | 8 | [jesar-enl](https://github.com/jesar-enl) | Jesse Kyambadde | J-SofTech | MarcinJesar | Uganda | 381 |
 | 9 | [KubanjaElijahEldred](https://github.com/KubanjaElijahEldred) | KUBANJA ELIJAH ELDRED | MUTUNGO-KAMPALA |  | UGANDA | 330 |

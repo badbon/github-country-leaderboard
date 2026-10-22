@@ -18,7 +18,7 @@ Indexed users: 1,795
 | 4 | [cliffordten](https://github.com/cliffordten) | Teneng Clifford | Buea, Cameroon | 11,505 |
 | 5 | [gwagsi](https://github.com/gwagsi) | Gwagsi | Yaounde, Cameroon | 10,449 |
 | 6 | [bpsmartdesign](https://github.com/bpsmartdesign) | Biya Paul | Yaoundé - Douala, Cameroon | 10,190 |
-| 7 | [iws3](https://github.com/iws3) | Fonyuy Gita | Bamenda, Cameroon | 9,993 |
+| 7 | [iws3](https://github.com/iws3) | Fonyuy Gita | Bamenda, Cameroon | 10,041 |
 | 8 | [LudovicAndreBiyong](https://github.com/LudovicAndreBiyong) | Ludovic André Biyong | Cameroon | 9,960 |
 | 9 | [KingsleyLeshey](https://github.com/KingsleyLeshey) | Kingsley Leshey | Yaounde, Cameroon | 9,114 |
 | 10 | [ln-dev7](https://github.com/ln-dev7) | LN | Cameroon | 8,187 |
@@ -26,8 +26,8 @@ Indexed users: 1,795
 | 12 | [elroykanye](https://github.com/elroykanye) | Elroy Kimbi | Yaoundé, Cameroon | 7,877 |
 | 13 | [leonelngande](https://github.com/leonelngande) | Leonel Elimpe | Buea, Cameroon | 7,534 |
 | 14 | [Martin-Luther](https://github.com/Martin-Luther) | Martin Luther ETOUMAN NDAMBWE | Douala / Cameroon | 6,806 |
-| 15 | [OkonoWil](https://github.com/OkonoWil) | Okono Wilfried | Douala,Cameroon | 6,342 |
-| 16 | [psycho237-prog](https://github.com/psycho237-prog) | ONANA GREGOIRE LEGRAND  | Cameroon | 6,340 |
+| 15 | [psycho237-prog](https://github.com/psycho237-prog) | ONANA GREGOIRE LEGRAND  | Cameroon | 6,410 |
+| 16 | [OkonoWil](https://github.com/OkonoWil) | Okono Wilfried | Douala,Cameroon | 6,342 |
 | 17 | [itzomen](https://github.com/itzomen) | Peng Boris Akebuon | Buea, Cameroon | 5,740 |
 | 18 | [koatiromeo](https://github.com/koatiromeo) | koatiromeo | Cameroon | 5,353 |
 | 19 | [ussfranck](https://github.com/ussfranck) | Franck Mekoulou | District 7 Of Yaoundé, CM | 5,255 |
@@ -37,17 +37,17 @@ Indexed users: 1,795
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [iws3](https://github.com/iws3) | Fonyuy Gita | Bamenda, Cameroon | 9,317 |
-| 2 | [psycho237-prog](https://github.com/psycho237-prog) | ONANA GREGOIRE LEGRAND  | Cameroon | 6,069 |
+| 1 | [iws3](https://github.com/iws3) | Fonyuy Gita | Bamenda, Cameroon | 9,366 |
+| 2 | [psycho237-prog](https://github.com/psycho237-prog) | ONANA GREGOIRE LEGRAND  | Cameroon | 6,140 |
 | 3 | [Martin-Luther](https://github.com/Martin-Luther) | Martin Luther ETOUMAN NDAMBWE | Douala / Cameroon | 5,162 |
 | 4 | [Notho-freedom](https://github.com/Notho-freedom) | Ravel Momo | Yaoundé  | 3,184 |
 | 5 | [bensah](https://github.com/bensah) | Ben Nsah | Cameroon | 3,097 |
 | 6 | [Christiantyemele](https://github.com/Christiantyemele) | Christian Yemele | Cameroon | 2,480 |
 | 7 | [ln-dev7](https://github.com/ln-dev7) | LN | Cameroon | 2,166 |
 | 8 | [mrvin100](https://github.com/mrvin100) | Vincent Youmssi | Yaoundé - Cameroon | 1,996 |
-| 9 | [Chu29](https://github.com/Chu29) | Malik Chu | Yaounde, Cameroon | 1,892 |
-| 10 | [Kynmmarshall](https://github.com/Kynmmarshall) | Kamdeu Yamdjeuson Neil Marshall | Cameroon | 1,832 |
-| 11 | [freddychoudja](https://github.com/freddychoudja) | Freddy Choudja | Cameroon | 1,809 |
+| 9 | [freddychoudja](https://github.com/freddychoudja) | Freddy Choudja | Cameroon | 1,859 |
+| 10 | [Chu29](https://github.com/Chu29) | Malik Chu | Yaounde, Cameroon | 1,845 |
+| 11 | [Kynmmarshall](https://github.com/Kynmmarshall) | Kamdeu Yamdjeuson Neil Marshall | Cameroon | 1,832 |
 | 12 | [Kanjo-Elkamira-Ndi](https://github.com/Kanjo-Elkamira-Ndi) | Alchemy Codes | Yaoundé Cameroon | 1,736 |
 | 13 | [Josiasange37](https://github.com/Josiasange37) | AKANA SIGNING JOSIAS AARON | Cameroon | 1,635 |
 | 14 | [Allmight2002](https://github.com/Allmight2002) | Raymond Mbassi | Cameroon | 1,487 |
@@ -83,4 +83,4 @@ Indexed users: 1,795
 | 19 | [baimamboukar](https://github.com/baimamboukar) | BAIMAM BOUKAR JEAN JACQUES | Yaoundé | 170 |
 | 20 | [Suprememajor](https://github.com/Suprememajor) | Nobert Etta | Buea, Cameroon | 168 |
 
-Generated: 2026-10-22T06:43:46.878Z
+Generated: 2026-10-22T08:22:59.933Z

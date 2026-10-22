@@ -1,6 +1,6 @@
 # Total Contributions - Cameroon
 
-Generated: 2026-10-22T06:43:46.878Z
+Generated: 2026-10-22T08:22:59.933Z
 
 Users: 1795
 
@@ -12,7 +12,7 @@ Users: 1795
 | 4 | [cliffordten](https://github.com/cliffordten) | Teneng Clifford | @gwislab  | bisynerd | Buea, Cameroon | 11505 |
 | 5 | [gwagsi](https://github.com/gwagsi) | Gwagsi |  | gwagsig | Yaounde, Cameroon | 10449 |
 | 6 | [bpsmartdesign](https://github.com/bpsmartdesign) | Biya Paul | @think-dev-io | bpsmartdesign | Yaoundé - Douala, Cameroon | 10190 |
-| 7 | [iws3](https://github.com/iws3) | Fonyuy Gita |  |  | Bamenda, Cameroon | 9993 |
+| 7 | [iws3](https://github.com/iws3) | Fonyuy Gita |  |  | Bamenda, Cameroon | 10041 |
 | 8 | [LudovicAndreBiyong](https://github.com/LudovicAndreBiyong) | Ludovic André Biyong | GAIA SARL U |  | Cameroon | 9960 |
 | 9 | [KingsleyLeshey](https://github.com/KingsleyLeshey) | Kingsley Leshey | Leshey Digital |  | Yaounde, Cameroon | 9114 |
 | 10 | [ln-dev7](https://github.com/ln-dev7) | LN | @mus-inn | ln_dev7 | Cameroon | 8187 |
@@ -20,8 +20,8 @@ Users: 1795
 | 12 | [elroykanye](https://github.com/elroykanye) | Elroy Kimbi | @veridyl | elroykanye | Yaoundé, Cameroon | 7877 |
 | 13 | [leonelngande](https://github.com/leonelngande) | Leonel Elimpe | Ngande Consulting | leonelngande | Buea, Cameroon | 7534 |
 | 14 | [Martin-Luther](https://github.com/Martin-Luther) | Martin Luther ETOUMAN NDAMBWE | Rhinostone |  | Douala / Cameroon | 6806 |
-| 15 | [OkonoWil](https://github.com/OkonoWil) | Okono Wilfried | @WeTell-Africa  @JEUNESMENTORS | OkonoWilfried | Douala,Cameroon | 6342 |
-| 16 | [psycho237-prog](https://github.com/psycho237-prog) | ONANA GREGOIRE LEGRAND  | XYBERCLAN |  | Cameroon | 6340 |
+| 15 | [psycho237-prog](https://github.com/psycho237-prog) | ONANA GREGOIRE LEGRAND  | XYBERCLAN |  | Cameroon | 6410 |
+| 16 | [OkonoWil](https://github.com/OkonoWil) | Okono Wilfried | @WeTell-Africa  @JEUNESMENTORS | OkonoWilfried | Douala,Cameroon | 6342 |
 | 17 | [itzomen](https://github.com/itzomen) | Peng Boris Akebuon | Traleor | itz_omen | Buea, Cameroon | 5740 |
 | 18 | [koatiromeo](https://github.com/koatiromeo) | koatiromeo | koatiromeo | koatiromeo | Cameroon | 5353 |
 | 19 | [ussfranck](https://github.com/ussfranck) | Franck Mekoulou |  |  | District 7 Of Yaoundé, CM | 5255 |
