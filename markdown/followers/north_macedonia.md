@@ -1,6 +1,6 @@
 # Followers - North Macedonia
 
-Generated: 2026-10-22T02:24:01.520Z
+Generated: 2026-10-22T05:51:11.241Z
 
 Users: 1924
 
@@ -9,7 +9,7 @@ Users: 1924
 | 1 | [yutomiwana](https://github.com/yutomiwana) | Yuto | Axeltra |  | Skopje | 1249 |
 | 2 | [henryruhs](https://github.com/henryruhs) | Henry Ruhs |  | henryruhs | North Macedonia | 639 |
 | 3 | [ZoranPandovski](https://github.com/ZoranPandovski) | Zoran Pandovski | @mindsdb | ZoranPandovski | Bitola, North Macedonia | 603 |
-| 4 | [jaggedsoft](https://github.com/jaggedsoft) | jagged | Darkpool Liquidity | jaggedsoft | North Macedonia | 468 |
+| 4 | [jaggedsoft](https://github.com/jaggedsoft) | jagged | Darkpool Liquidity | jaggedsoft | North Macedonia | 471 |
 | 5 | [trajchevska](https://github.com/trajchevska) | Katerina Trajchevska | @adevait  |  | Skopje Macedonia | 462 |
 | 6 | [xStephx](https://github.com/xStephx) | Stefan Bojkovski | localhost |  | Macedonia | 306 |
 | 7 | [BojanaVasilevska](https://github.com/BojanaVasilevska) | Bojana  | Full-Stack Developer |  | Macedonia | 292 |

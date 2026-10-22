@@ -13,7 +13,7 @@ Indexed users: 24,009
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [CodeWithEugene](https://github.com/CodeWithEugene) | Eugene Mutembei | Nairobi, Kenya | 993,626 |
-| 2 | [mwakidenis](https://github.com/mwakidenis) |  🐘 | Nairobi | 252,261 |
+| 2 | [mwakidenis](https://github.com/mwakidenis) |  🐘 | Nairobi | 319,693 |
 | 3 | [mauricegift](https://github.com/mauricegift) | Maurice Gift | Eldoret, Kenya | 158,347 |
 | 4 | [FeyrithhbcQC8](https://github.com/FeyrithhbcQC8) | MythForger | Savior, kenya | 58,608 |
 | 5 | [gkarumbi](https://github.com/gkarumbi) | George Karumbi | Nairobi,KE | 47,165 |
@@ -37,7 +37,7 @@ Indexed users: 24,009
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [mwakidenis](https://github.com/mwakidenis) |  🐘 | Nairobi | 243,766 |
+| 1 | [mwakidenis](https://github.com/mwakidenis) |  🐘 | Nairobi | 319,662 |
 | 2 | [mauricegift](https://github.com/mauricegift) | Maurice Gift | Eldoret, Kenya | 158,347 |
 | 3 | [FeyrithhbcQC8](https://github.com/FeyrithhbcQC8) | MythForger | Savior, kenya | 58,608 |
 | 4 | [amdefiguy](https://github.com/amdefiguy) | Defi Guy | Kenya | 45,847 |
@@ -65,11 +65,11 @@ Indexed users: 24,009
 | 1 | [JohnMwendwa](https://github.com/JohnMwendwa) | John Mwendwa | Nairobi, Kenya | 40,826 |
 | 2 | [peter-kimanzi](https://github.com/peter-kimanzi) | Peter Kimanzi | Nairobi | 16,927 |
 | 3 | [dirambora](https://github.com/dirambora) | Diram | Nairobi,Kenya | 5,167 |
-| 4 | [Thuotracy](https://github.com/Thuotracy) | Tracy Thuo | Nairobi | 3,982 |
-| 5 | [omololevy](https://github.com/omololevy) | Levy Omolo | Nairobi, Kenya | 3,905 |
-| 6 | [david-kariuki](https://github.com/david-kariuki) | David Kariuki (DK) | Nairobi, Kenya | 3,888 |
-| 7 | [godfreymatagaro](https://github.com/godfreymatagaro) | Godfrey Matagaro | Kenya | 3,231 |
-| 8 | [mwakidenis](https://github.com/mwakidenis) |  🐘 | Nairobi | 2,644 |
+| 4 | [mwakidenis](https://github.com/mwakidenis) |  🐘 | Nairobi | 4,675 |
+| 5 | [Thuotracy](https://github.com/Thuotracy) | Tracy Thuo | Nairobi | 3,982 |
+| 6 | [omololevy](https://github.com/omololevy) | Levy Omolo | Nairobi, Kenya | 3,905 |
+| 7 | [david-kariuki](https://github.com/david-kariuki) | David Kariuki (DK) | Nairobi, Kenya | 3,888 |
+| 8 | [godfreymatagaro](https://github.com/godfreymatagaro) | Godfrey Matagaro | Kenya | 3,231 |
 | 9 | [jonkirathe](https://github.com/jonkirathe) | John kirathe | Nairobi, Kenya | 2,240 |
 | 10 | [Maxwell-Muthui-Mwangi](https://github.com/Maxwell-Muthui-Mwangi) | Maxwell Muthui Mwangi(Justmwangii) | Kenya | 2,233 |
 | 11 | [Kate-mwaura](https://github.com/Kate-mwaura) | Kate Mwaura | Nairobi | 1,856 |
@@ -83,4 +83,4 @@ Indexed users: 24,009
 | 19 | [Lincoln-Madaraka](https://github.com/Lincoln-Madaraka) | lincoln | Nairobi and Worldwide  | 1,320 |
 | 20 | [danielmuthama](https://github.com/danielmuthama) | Daniel Muthama | Nairobi, Kenya | 1,289 |
 
-Generated: 2026-10-22T02:06:53.021Z
+Generated: 2026-10-22T05:33:54.896Z

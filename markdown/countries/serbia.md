@@ -22,7 +22,7 @@ Indexed users: 10,652
 | 8 | [proffesor-for-testing](https://github.com/proffesor-for-testing) | Dragan Spiridonov | Petrovaradin, Serbia | 13,173 |
 | 9 | [msrdic](https://github.com/msrdic) | Mladen Srdic | Belgrade | 13,164 |
 | 10 | [ydnikolaev](https://github.com/ydnikolaev) | Nikolaev | Belgrade, Serbia | 12,572 |
-| 11 | [Nek-12](https://github.com/Nek-12) | Nek.12 | Serbia | 11,237 |
+| 11 | [Nek-12](https://github.com/Nek-12) | Nek.12 | Serbia | 12,459 |
 | 12 | [momoshell](https://github.com/momoshell) | Momcilo Miladinovic | Belgrade | 11,050 |
 | 13 | [valentinajemuovic](https://github.com/valentinajemuovic) | Valentina Jemuović  | Belgrade, Serbia | 11,013 |
 | 14 | [boroworx](https://github.com/boroworx) | Marko Borojević | Belgrade, Serbia | 10,459 |
@@ -38,7 +38,7 @@ Indexed users: 10,652
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [botantony](https://github.com/botantony) | Anton Melnikov | Belgrade, Serbia | 23,219 |
-| 2 | [Nek-12](https://github.com/Nek-12) | Nek.12 | Serbia | 8,975 |
+| 2 | [Nek-12](https://github.com/Nek-12) | Nek.12 | Serbia | 11,129 |
 | 3 | [stefanpejcic](https://github.com/stefanpejcic) | Stefan Pejcic | Belgrade, Serbia | 8,635 |
 | 4 | [valentinajemuovic](https://github.com/valentinajemuovic) | Valentina Jemuović  | Belgrade, Serbia | 8,227 |
 | 5 | [igorskyflyer](https://github.com/igorskyflyer) | Igor Dimitrijević | Serbia | 7,592 |
@@ -83,4 +83,4 @@ Indexed users: 10,652
 | 19 | [umpirsky](https://github.com/umpirsky) | Saša Stamenković | Niš, Serbia | 458 |
 | 20 | [Stojanovic94](https://github.com/Stojanovic94) | Nikola Stojanović | Niš, Serbia | 435 |
 
-Generated: 2026-10-22T02:35:03.001Z
+Generated: 2026-10-22T06:05:17.402Z

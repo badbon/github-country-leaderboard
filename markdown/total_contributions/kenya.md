@@ -1,13 +1,13 @@
 # Total Contributions - Kenya
 
-Generated: 2026-10-22T02:06:53.021Z
+Generated: 2026-10-22T05:33:54.896Z
 
 Users: 24009
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [CodeWithEugene](https://github.com/CodeWithEugene) | Eugene Mutembei | Technetium Kenya | codewitheugenee | Nairobi, Kenya | 993626 |
-| 2 | [mwakidenis](https://github.com/mwakidenis) |  🐘 |  |  | Nairobi | 252261 |
+| 2 | [mwakidenis](https://github.com/mwakidenis) |  🐘 |  |  | Nairobi | 319693 |
 | 3 | [mauricegift](https://github.com/mauricegift) | Maurice Gift | @gifted-solstice  |  | Eldoret, Kenya | 158347 |
 | 4 | [FeyrithhbcQC8](https://github.com/FeyrithhbcQC8) | MythForger |  |  | Savior, kenya | 58608 |
 | 5 | [gkarumbi](https://github.com/gkarumbi) | George Karumbi |  | gkarumbi | Nairobi,KE | 47165 |

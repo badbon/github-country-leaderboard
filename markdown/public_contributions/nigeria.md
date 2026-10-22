@@ -1,8 +1,8 @@
 # Public Contributions - Nigeria
 
-Generated: 2026-10-22T02:23:33.216Z
+Generated: 2026-10-22T05:50:39.166Z
 
-Users: 33174
+Users: 33182
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -24,5 +24,5 @@ Users: 33174
 | 16 | [xt42io](https://github.com/xt42io) | Akinkunmi |  |  | Nigeria | 5016 |
 | 17 | [O-BERNARDOFOEGBU](https://github.com/O-BERNARDOFOEGBU) | Bernard Ofoegbu |  |  | Nigeria | 4979 |
 | 18 | [bamiebot-maker](https://github.com/bamiebot-maker) | Ibrahim Bamidele. S | Bamietech IT Solution | bamietech_dev | Nigeria | 4903 |
-| 19 | [KusuConsult-NG](https://github.com/KusuConsult-NG) | KusuConsult | KusuConsult |  | Jos, Nigeria | 4714 |
-| 20 | [BigBen-7](https://github.com/BigBen-7) | Benard Simon |  |  | Nigeria | 4658 |
+| 19 | [gokedev](https://github.com/gokedev) | Agbaje Stephen | Anywhere  |  | Nigeria | 4770 |
+| 20 | [KusuConsult-NG](https://github.com/KusuConsult-NG) | KusuConsult | KusuConsult |  | Jos, Nigeria | 4714 |

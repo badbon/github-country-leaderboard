@@ -1,6 +1,6 @@
 # Total Contributions - Jordan
 
-Generated: 2026-10-22T02:05:29.857Z
+Generated: 2026-10-22T05:32:32.957Z
 
 Users: 4001
 
@@ -16,13 +16,13 @@ Users: 4001
 | 8 | [MusaMisto](https://github.com/MusaMisto) | Musa Misto | Simplify9 |  | Amman, Jordan | 8318 |
 | 9 | [abuaboud](https://github.com/abuaboud) | Mo AbuAboud | @activepieces  | mabuaboud | Amman, Jordan | 8035 |
 | 10 | [omar7altawil](https://github.com/omar7altawil) | Omar Tawil | @Null-Square  |  | Amman | 7886 |
-| 11 | [Jaber-Saed](https://github.com/Jaber-Saed) | Jaber-Said | Axionic | Jaber_Said_ | Amman Jordan | 7128 |
-| 12 | [MKAbuMattar](https://github.com/MKAbuMattar) | Mohammad Abu Mattar | @quenchworks, @withrawi,@IbdaaiCloud, @qawnapp, @cirrusgo |  | Amman, Jordan | 6753 |
-| 13 | [OsamaAssaf](https://github.com/OsamaAssaf) | Osama Assaf | @Solutions-Now | OsamaAssaf2k | Jordan | 6492 |
-| 14 | [Hashem-Tabbaa](https://github.com/Hashem-Tabbaa) | Hashem Altabbaa |  |  | Jordan-Amman | 6204 |
-| 15 | [K3epEv3rythingYours](https://github.com/K3epEv3rythingYours) | K3YB1T |  |  | Jordan | 6128 |
-| 16 | [MahmoudEsawi](https://github.com/MahmoudEsawi) | Mahmoud Al-Esawi | MENADevs |  | Amman\Jordan | 5804 |
-| 17 | [Ti-03](https://github.com/Ti-03) | Qutibah Ananzeh |  |  | Amman, Jordan | 5777 |
-| 18 | [AliBakerSartawi](https://github.com/AliBakerSartawi) | Ali Baker Sartawi |  |  | Amman, Jordan | 5440 |
-| 19 | [shqear93](https://github.com/shqear93) | Khaled AbuShqear | Careem |  | Amman | 5377 |
-| 20 | [thisisabukarsh](https://github.com/thisisabukarsh) | AbdulRahman AbuKarsh |  |  | Jordan, Amman | 5292 |
+| 11 | [aboudzein](https://github.com/aboudzein) | Zein | @calicoai | aboudzeineddin | Amman , Jordan | 7152 |
+| 12 | [Jaber-Saed](https://github.com/Jaber-Saed) | Jaber-Said | Axionic | Jaber_Said_ | Amman Jordan | 7128 |
+| 13 | [waleedyaseen](https://github.com/waleedyaseen) | Waleed Yaseen |  |  | Jordan, Amman | 6922 |
+| 14 | [MKAbuMattar](https://github.com/MKAbuMattar) | Mohammad Abu Mattar | @quenchworks, @withrawi,@IbdaaiCloud, @qawnapp, @cirrusgo |  | Amman, Jordan | 6753 |
+| 15 | [OsamaAssaf](https://github.com/OsamaAssaf) | Osama Assaf | @Solutions-Now | OsamaAssaf2k | Jordan | 6492 |
+| 16 | [Hashem-Tabbaa](https://github.com/Hashem-Tabbaa) | Hashem Altabbaa |  |  | Jordan-Amman | 6204 |
+| 17 | [K3epEv3rythingYours](https://github.com/K3epEv3rythingYours) | K3YB1T |  |  | Jordan | 6128 |
+| 18 | [MahmoudEsawi](https://github.com/MahmoudEsawi) | Mahmoud Al-Esawi | MENADevs |  | Amman\Jordan | 5804 |
+| 19 | [Ti-03](https://github.com/Ti-03) | Qutibah Ananzeh |  |  | Amman, Jordan | 5777 |
+| 20 | [AliBakerSartawi](https://github.com/AliBakerSartawi) | Ali Baker Sartawi |  |  | Amman, Jordan | 5440 |

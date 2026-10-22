@@ -1,6 +1,6 @@
 # Followers - Mali
 
-Generated: 2026-10-22T02:13:33.297Z
+Generated: 2026-10-22T05:39:49.203Z
 
 Users: 347
 
@@ -25,4 +25,4 @@ Users: 347
 | 17 | [geekdjenika](https://github.com/geekdjenika) | Aboubacar DJENIKA | @thltechnologies  | geekdjenika | Bamako | 30 |
 | 18 | [Kalifasenou](https://github.com/Kalifasenou) | Kalifa Senou |  |  | bamako, Mali | 28 |
 | 19 | [AlyKonte](https://github.com/AlyKonte) |  |  |  | Mali/Bamako | 27 |
-| 20 | [Dioman-Keita](https://github.com/Dioman-Keita) | Dioman Keïta | @axiora-dev | DiomanKeita | Bamako/Mali | 25 |
+| 20 | [Sidaty](https://github.com/Sidaty) | Sidaty Moulaye KOUREICHY | Log@ Engineering | ksidatym | Bamako, Mali | 25 |

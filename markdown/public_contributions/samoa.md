@@ -1,6 +1,6 @@
 # Public Contributions - Samoa
 
-Generated: 2026-10-22T02:34:50.254Z
+Generated: 2026-10-22T06:03:41.790Z
 
 Users: 19
 
@@ -12,8 +12,8 @@ Users: 19
 | 4 | [RichardVBoi](https://github.com/RichardVBoi) | Richard  Panama Vaalotu | Hamotech Solutions |  | Apia Samoa | 93 |
 | 5 | [iwtem](https://github.com/iwtem) | Iwtem | American |  | Samoa | 75 |
 | 6 | [Radr443](https://github.com/Radr443) | Radr |  |  | Samoa  | 71 |
-| 7 | [tavitas](https://github.com/tavitas) | Tavita Su'a | SPREP |  | Samoa | 44 |
-| 8 | [samos667](https://github.com/samos667) |  |  |  | Apia | 40 |
+| 7 | [samos667](https://github.com/samos667) |  |  |  | Apia | 45 |
+| 8 | [tavitas](https://github.com/tavitas) | Tavita Su'a | SPREP |  | Samoa | 44 |
 | 9 | [Green-Ranger11](https://github.com/Green-Ranger11) | Alesana Eteuati Jr | Vodafone Samoa |  | Samoa | 8 |
 | 10 | [duchonic](https://github.com/duchonic) | duchonic |  |  | samoa | 7 |
 | 11 | [Varmuz](https://github.com/Varmuz) | Varmuz |  |  | Samoa | 3 |

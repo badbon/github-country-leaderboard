@@ -1,6 +1,6 @@
 # Nepal
 
-Indexed users: 14,100
+Indexed users: 14,099
 
 | Leaderboard | Link |
 |---|---|
@@ -28,10 +28,10 @@ Indexed users: 14,100
 | 14 | [utsabpanday](https://github.com/utsabpanday) | Utsab Panday | Kathmandu | 11,440 |
 | 15 | [kaanchan](https://github.com/kaanchan) | KA/SCA | Nepal | 10,737 |
 | 16 | [bibek1414](https://github.com/bibek1414) | Bibek Bhattarai  | Bhaktapur,Nepal | 10,619 |
-| 17 | [pramodlaha08](https://github.com/pramodlaha08) | Pramod Laha | Nepal | 10,247 |
-| 18 | [TheKAdhikari](https://github.com/TheKAdhikari) | Krishna Adhikari | Pokhara, Nepal | 10,230 |
-| 19 | [lohanidamodar](https://github.com/lohanidamodar) | Damodar Lohani | Kathmandu, Nepal | 9,901 |
-| 20 | [razzkumar](https://github.com/razzkumar) |  | Kathmandu, Nepal | 9,236 |
+| 17 | [TheKAdhikari](https://github.com/TheKAdhikari) | Krishna Adhikari | Pokhara, Nepal | 10,230 |
+| 18 | [lohanidamodar](https://github.com/lohanidamodar) | Damodar Lohani | Kathmandu, Nepal | 9,901 |
+| 19 | [razzkumar](https://github.com/razzkumar) |  | Kathmandu, Nepal | 9,236 |
+| 20 | [Darkmintis](https://github.com/Darkmintis) | Dipesh Mahat | Nepal | 9,087 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 14,100
 | 19 | [SajanGhimire1](https://github.com/SajanGhimire1) | Sajan Ghimire | Nepal | 752 |
 | 20 | [HeyIamMarasiniAmrit](https://github.com/HeyIamMarasiniAmrit) | Amrit Marasini | Kathmandu, Nepal | 747 |
 
-Generated: 2026-10-22T05:30:14.844Z
+Generated: 2026-10-22T05:48:42.705Z

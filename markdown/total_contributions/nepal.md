@@ -1,8 +1,8 @@
 # Total Contributions - Nepal
 
-Generated: 2026-10-22T05:30:14.844Z
+Generated: 2026-10-22T05:48:42.705Z
 
-Users: 14100
+Users: 14099
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -22,7 +22,7 @@ Users: 14100
 | 14 | [utsabpanday](https://github.com/utsabpanday) | Utsab Panday | @dizpair | Utsabpanday | Kathmandu | 11440 |
 | 15 | [kaanchan](https://github.com/kaanchan) | KA/SCA |  |  | Nepal | 10737 |
 | 16 | [bibek1414](https://github.com/bibek1414) | Bibek Bhattarai  | Baliyo Technologies |  | Bhaktapur,Nepal | 10619 |
-| 17 | [pramodlaha08](https://github.com/pramodlaha08) | Pramod Laha |  |  | Nepal | 10247 |
-| 18 | [TheKAdhikari](https://github.com/TheKAdhikari) | Krishna Adhikari | Teispace | iamkrishnaa_ | Pokhara, Nepal | 10230 |
-| 19 | [lohanidamodar](https://github.com/lohanidamodar) | Damodar Lohani | @appwrite PopupBits | lohanidamodar | Kathmandu, Nepal | 9901 |
-| 20 | [razzkumar](https://github.com/razzkumar) |  | Webpoint LLC |  | Kathmandu, Nepal | 9236 |
+| 17 | [TheKAdhikari](https://github.com/TheKAdhikari) | Krishna Adhikari | Teispace | iamkrishnaa_ | Pokhara, Nepal | 10230 |
+| 18 | [lohanidamodar](https://github.com/lohanidamodar) | Damodar Lohani | @appwrite PopupBits | lohanidamodar | Kathmandu, Nepal | 9901 |
+| 19 | [razzkumar](https://github.com/razzkumar) |  | Webpoint LLC |  | Kathmandu, Nepal | 9236 |
+| 20 | [Darkmintis](https://github.com/Darkmintis) | Dipesh Mahat |  | darkmintis | Nepal | 9087 |

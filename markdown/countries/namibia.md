@@ -44,7 +44,7 @@ Indexed users: 474
 | 5 | [CodeGrogu](https://github.com/CodeGrogu) | Jaden Awaseb | Namibia | 1,319 |
 | 6 | [gijzelaerr](https://github.com/gijzelaerr) | Gijs Molenaar | Amsterdam - Windhoek | 1,266 |
 | 7 | [lemuelvdm](https://github.com/lemuelvdm) | Lemuel | Namibia | 1,129 |
-| 8 | [lamlg00](https://github.com/lamlg00) | Lam II | Windhoek | 683 |
+| 8 | [lamlg00](https://github.com/lamlg00) | Lam II | Windhoek | 686 |
 | 9 | [Driftedbucket](https://github.com/Driftedbucket) | Awike Gulu | Windhoek, Namibia | 561 |
 | 10 | [Leon2332](https://github.com/Leon2332) | Leon | Namibia | 505 |
 | 11 | [Tusneld](https://github.com/Tusneld) | Tusnelde Endjala | Namibia | 431 |
@@ -83,4 +83,4 @@ Indexed users: 474
 | 19 | [erassynathingo](https://github.com/erassynathingo) | Erastus Nathingo | Windhoek | 33 |
 | 20 | [Fox520](https://github.com/Fox520) | Thomas David | Namibia | 33 |
 
-Generated: 2026-10-22T02:21:34.154Z
+Generated: 2026-10-22T05:48:37.150Z

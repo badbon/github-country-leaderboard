@@ -1,6 +1,6 @@
 # Public Contributions - Luxembourg
 
-Generated: 2026-10-22T02:11:57.130Z
+Generated: 2026-10-22T05:39:07.676Z
 
 Users: 2190
 
@@ -9,14 +9,14 @@ Users: 2190
 | 1 | [kidiatoliny](https://github.com/kidiatoliny) | kidiatoliny | Akira | kidiatoliny | 23 Rue Théodore Gillen 1625 Howald Luxembourg | 10210 |
 | 2 | [b-rodrigues](https://github.com/b-rodrigues) | Bruno Rodrigues | MESR, Luxembourg | brodriguesco | Luxembourg-City, Luxembourg | 6889 |
 | 3 | [leobenkel-db](https://github.com/leobenkel-db) | Leo Benkel (bot)  | PURE LAMBDA | LeoBenkel | Luxembourg | 6787 |
-| 4 | [AbdallahCoptan](https://github.com/AbdallahCoptan) | Abdallah IBRAHIM | University of Luxembourg |  | Luxembourg | 4379 |
+| 4 | [AbdallahCoptan](https://github.com/AbdallahCoptan) | Abdallah IBRAHIM | University of Luxembourg |  | Luxembourg | 4400 |
 | 5 | [EuphoriaLux](https://github.com/EuphoriaLux) | Twisto |  |  | Luxembourg | 4033 |
 | 6 | [dbarzin](https://github.com/dbarzin) | Didier Barzin | Sourcentis |  | Luxembourg | 3885 |
 | 7 | [erkobridee](https://github.com/erkobridee) | Erko Bridee |  | erkobridee | Luxembourg | 3634 |
 | 8 | [Sashimee](https://github.com/Sashimee) | Alex |  |  | Luxembourg | 3490 |
 | 9 | [ArmenSl](https://github.com/ArmenSl) | ArmenSL |  |  | Luxembourg | 3299 |
 | 10 | [fxmartin](https://github.com/fxmartin) | François-Xavier Martin |  |  | Luxembourg | 3159 |
-| 11 | [nicolasguelfi](https://github.com/nicolasguelfi) | Nicolas Guelfi | Right-On-Skill |  | Esch-sur-Alzette, Luxembourg | 2220 |
+| 11 | [nicolasguelfi](https://github.com/nicolasguelfi) | Nicolas Guelfi | Right-On-Skill |  | Esch-sur-Alzette, Luxembourg | 2366 |
 | 12 | [iglocska](https://github.com/iglocska) | Andras Iklody | CIRCL | iglocska | Luxembourg | 2164 |
 | 13 | [PhilippeChepy](https://github.com/PhilippeChepy) | Philippe Chepy | InnoSens | PhilippeChepy | Luxembourg | 2121 |
 | 14 | [danielesomensi-cmd](https://github.com/danielesomensi-cmd) | Daniele Somensi |  |  | Luxembourg | 1983 |

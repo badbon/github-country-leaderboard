@@ -1,6 +1,6 @@
 # Followers - Malta
 
-Generated: 2026-10-22T02:13:38.708Z
+Generated: 2026-10-22T05:40:02.068Z
 
 Users: 1223
 
@@ -16,13 +16,13 @@ Users: 1223
 | 8 | [mbj](https://github.com/mbj) | Markus Schirp | Schirp DSO LTD | mbjschirp | Malta | 293 |
 | 9 | [zeelog](https://github.com/zeelog) |  |  |  | Malta | 258 |
 | 10 | [jirevwe](https://github.com/jirevwe) | Raymond Tukpe | @frain-dev  | rtukpe | Luqa, Malta | 245 |
-| 11 | [TimidRobot](https://github.com/TimidRobot) | Timid Robot Zehta | @CreativeCommons |  | San Ġwann, Malta 🇲🇹 | 229 |
+| 11 | [TimidRobot](https://github.com/TimidRobot) | Timid Robot Zehta | @CreativeCommons |  | San Ġwann, Malta 🇲🇹 | 230 |
 | 12 | [waynebonc](https://github.com/waynebonc) | Wayne Bonnici |  | Wayne_Bonnici | Malta | 172 |
 | 13 | [melihberberolu](https://github.com/melihberberolu) | Melih |  |  | Malta | 155 |
 | 14 | [jonathan-vella](https://github.com/jonathan-vella) | Jonathan Vella | @Microsoft |  | Malta | 143 |
 | 15 | [JuxhinDB](https://github.com/JuxhinDB) | Juxhin | @haveibeensquatted | juxhindb | Malta | 142 |
 | 16 | [nathan-abela](https://github.com/nathan-abela) | Nathan Abela | Betsson Group |  | Malta | 141 |
-| 17 | [dalerank](https://github.com/dalerank) | dalerank | 4A Games | dalerank1 | Sliema, Malta | 138 |
+| 17 | [dalerank](https://github.com/dalerank) | dalerank | 4A Games | dalerank1 | Sliema, Malta | 139 |
 | 18 | [ianharrigan](https://github.com/ianharrigan) | Ian Harrigan | Freelance |  | Malta | 126 |
 | 19 | [mattcg](https://github.com/mattcg) | Matthew Caruana Galizia | @daphne-foundation  | mcaruanagalizia | Malta | 126 |
 | 20 | [CM2Walki](https://github.com/CM2Walki) | Walki | CM2.Network |  | Malta | 118 |

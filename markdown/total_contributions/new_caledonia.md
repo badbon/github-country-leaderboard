@@ -1,6 +1,6 @@
 # Total Contributions - New Caledonia
 
-Generated: 2026-10-22T02:22:18.167Z
+Generated: 2026-10-22T05:48:46.983Z
 
 Users: 111
 
@@ -25,4 +25,4 @@ Users: 111
 | 17 | [FreddieJH](https://github.com/FreddieJH) | Freddie J. Heather |  |  | Noumea, New Caledonia | 659 |
 | 18 | [ellisp](https://github.com/ellisp) | Peter Ellis | Pacific Community \| Communauté de Pacifique |  | Nouméa, Nouvelle-Calédonie | 632 |
 | 19 | [darwiin](https://github.com/darwiin) | Christophe ROGER |  |  | New Caledonia | 518 |
-| 20 | [BJ-Cochrane](https://github.com/BJ-Cochrane) | Ben Cochrane | Pacific Community \| Communauté de Pacifique | BenCochraneR | Nouméa | 477 |
+| 20 | [BJ-Cochrane](https://github.com/BJ-Cochrane) | Ben Cochrane | Pacific Community \| Communauté de Pacifique | BenCochraneR | Nouméa | 465 |

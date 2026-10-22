@@ -1,6 +1,6 @@
 # Followers - Kenya
 
-Generated: 2026-10-22T02:06:53.021Z
+Generated: 2026-10-22T05:33:54.896Z
 
 Users: 24009
 
@@ -9,11 +9,11 @@ Users: 24009
 | 1 | [JohnMwendwa](https://github.com/JohnMwendwa) | John Mwendwa | Uni AirFibre Networks |  | Nairobi, Kenya | 40826 |
 | 2 | [peter-kimanzi](https://github.com/peter-kimanzi) | Peter Kimanzi | Qazini |  | Nairobi | 16927 |
 | 3 | [dirambora](https://github.com/dirambora) | Diram |  | diram__ | Nairobi,Kenya | 5167 |
-| 4 | [Thuotracy](https://github.com/Thuotracy) | Tracy Thuo | brilliantke |  | Nairobi | 3982 |
-| 5 | [omololevy](https://github.com/omololevy) | Levy Omolo | \| @cotechie-org \| @Kiungor \| @armjscom \| @UTAWALA \| @chesslablab \| @masen0university \| | kaylor254 | Nairobi, Kenya | 3905 |
-| 6 | [david-kariuki](https://github.com/david-kariuki) | David Kariuki (DK) | Liniantt | davidkariuki_ | Nairobi, Kenya | 3888 |
-| 7 | [godfreymatagaro](https://github.com/godfreymatagaro) | Godfrey Matagaro | Uptime Tech | godfreymatagaro | Kenya | 3231 |
-| 8 | [mwakidenis](https://github.com/mwakidenis) |  🐘 |  |  | Nairobi | 2644 |
+| 4 | [mwakidenis](https://github.com/mwakidenis) |  🐘 |  |  | Nairobi | 4675 |
+| 5 | [Thuotracy](https://github.com/Thuotracy) | Tracy Thuo | brilliantke |  | Nairobi | 3982 |
+| 6 | [omololevy](https://github.com/omololevy) | Levy Omolo | \| @cotechie-org \| @Kiungor \| @armjscom \| @UTAWALA \| @chesslablab \| @masen0university \| | kaylor254 | Nairobi, Kenya | 3905 |
+| 7 | [david-kariuki](https://github.com/david-kariuki) | David Kariuki (DK) | Liniantt | davidkariuki_ | Nairobi, Kenya | 3888 |
+| 8 | [godfreymatagaro](https://github.com/godfreymatagaro) | Godfrey Matagaro | Uptime Tech | godfreymatagaro | Kenya | 3231 |
 | 9 | [jonkirathe](https://github.com/jonkirathe) | John kirathe | Mbid  | kirathendegwa | Nairobi, Kenya | 2240 |
 | 10 | [Maxwell-Muthui-Mwangi](https://github.com/Maxwell-Muthui-Mwangi) | Maxwell Muthui Mwangi(Justmwangii) | Ballershopke |  | Kenya | 2233 |
 | 11 | [Kate-mwaura](https://github.com/Kate-mwaura) | Kate Mwaura |  |  | Nairobi | 1856 |

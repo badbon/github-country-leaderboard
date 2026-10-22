@@ -1,16 +1,16 @@
 # Followers - Papua New Guinea
 
-Generated: 2026-10-22T02:26:28.571Z
+Generated: 2026-10-22T05:53:17.421Z
 
 Users: 296
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [BruinGrowly](https://github.com/BruinGrowly) | Wellington Taureka |  |  | Port Moresby, Papua New Guinea | 260 |
+| 1 | [BruinGrowly](https://github.com/BruinGrowly) | Wellington Taureka |  |  | Port Moresby, Papua New Guinea | 262 |
 | 2 | [grecpt](https://github.com/grecpt) | Grecpt | Grecpt |  | Papua New Guinea | 75 |
 | 3 | [kirioh](https://github.com/kirioh) | Cieran Kelly |  | CieranKelly6 | Port Moresby | 29 |
 | 4 | [chrisaugu](https://github.com/chrisaugu) | Christian Augustyn |  |  | Madang, Papua New Guinea | 28 |
-| 5 | [JHEK675](https://github.com/JHEK675) | Hosea Wartabar Kolis | JHEK Investment Limited |  | Lae, Papua New Guinea | 27 |
+| 5 | [JHEK675](https://github.com/JHEK675) | Hosea Wartabar Kolis | JHEK Investment Limited |  | Lae, Papua New Guinea | 28 |
 | 6 | [n30dyn4m1c](https://github.com/n30dyn4m1c) | Neo Malesa |  | n30dyn4m1c | Port Moresby, Papua New Guinea | 22 |
 | 7 | [nxnmsl0](https://github.com/nxnmsl0) | Nixon Misiel Agregum | Mad Travel |  | PORT MORESBY | 21 |
 | 8 | [161710125](https://github.com/161710125) | Muuu | bram.ltd |  | Papua New Guinea | 16 |

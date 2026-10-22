@@ -1,6 +1,6 @@
 # Public Contributions - Mauritania
 
-Generated: 2026-10-22T02:14:38.694Z
+Generated: 2026-10-22T05:42:38.898Z
 
 Users: 289
 
@@ -11,8 +11,8 @@ Users: 289
 | 3 | [LhacenMed](https://github.com/LhacenMed) | Lhacen Med |  |  | Nouakchott, Mauritania | 868 |
 | 4 | [Th3-attacker](https://github.com/Th3-attacker) | Elhadj Malick Ndiaye | Next Technology | 3lh_j | Nouakchott-Mauritanie | 799 |
 | 5 | [sidihmety](https://github.com/sidihmety) | SIDI HMETY | ACPEC SARL |  | Nouakchott | 673 |
-| 6 | [visola777](https://github.com/visola777) | visola777 |  |  | Mauritania | 653 |
-| 7 | [AbdellahiAhmed](https://github.com/AbdellahiAhmed) | Abdellahi Ahmed |  |  | Nouakchott | 526 |
+| 6 | [visola777](https://github.com/visola777) | visola777 |  |  | Mauritania | 651 |
+| 7 | [AbdellahiAhmed](https://github.com/AbdellahiAhmed) | Abdellahi Ahmed |  |  | Nouakchott | 558 |
 | 8 | [12ahm-c](https://github.com/12ahm-c) | ahmed ismail | supnum |  | Mauritania  | 403 |
 | 9 | [sidi-maadh](https://github.com/sidi-maadh) |  Sidi Maadh |  | SidiMaadh | Nouakchott | 378 |
 | 10 | [sons-of-titus](https://github.com/sons-of-titus) | Mourad Abdellahi | Cato Systems | compiler_a | Mauritania | 291 |

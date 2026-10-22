@@ -1,6 +1,6 @@
 # Total Contributions - Luxembourg
 
-Generated: 2026-10-22T02:11:57.130Z
+Generated: 2026-10-22T05:39:07.676Z
 
 Users: 2190
 
@@ -23,6 +23,6 @@ Users: 2190
 | 15 | [samtin0x](https://github.com/samtin0x) | samtin0x |  |  | Luxembourg | 8230 |
 | 16 | [b-rodrigues](https://github.com/b-rodrigues) | Bruno Rodrigues | MESR, Luxembourg | brodriguesco | Luxembourg-City, Luxembourg | 6927 |
 | 17 | [leobenkel-db](https://github.com/leobenkel-db) | Leo Benkel (bot)  | PURE LAMBDA | LeoBenkel | Luxembourg | 6787 |
-| 18 | [nicolasguelfi](https://github.com/nicolasguelfi) | Nicolas Guelfi | Right-On-Skill |  | Esch-sur-Alzette, Luxembourg | 6213 |
+| 18 | [nicolasguelfi](https://github.com/nicolasguelfi) | Nicolas Guelfi | Right-On-Skill |  | Esch-sur-Alzette, Luxembourg | 6749 |
 | 19 | [francois352](https://github.com/francois352) | Francois Altwies | Neurofeedback Luxembourg | francois352 | Luxembourg | 6191 |
 | 20 | [jose99segura](https://github.com/jose99segura) | Jose Luis Segura |  |  | Luxembourg | 6138 |

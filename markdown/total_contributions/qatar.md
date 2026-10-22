@@ -1,6 +1,6 @@
 # Total Contributions - Qatar
 
-Generated: 2026-10-22T02:30:44.834Z
+Generated: 2026-10-22T05:58:15.988Z
 
 Users: 1073
 
@@ -23,6 +23,6 @@ Users: 1073
 | 15 | [samstickkz](https://github.com/samstickkz) | samuel joseph (samstickkz) | samstickkz |  | QATAR | 5741 |
 | 16 | [Aboidrees](https://github.com/Aboidrees) | Muhammad Yousif | MOE | alshf3ee | Qatar, Doha | 5148 |
 | 17 | [ilhamsyahids](https://github.com/ilhamsyahids) | Ilham Syahid S |  |  | Qatar | 5079 |
-| 18 | [mbrksntrk](https://github.com/mbrksntrk) | M Burak Şentürk | Boğaziçi Üniversitesi | mbrksntrk | Doha, Qatar | 4249 |
-| 19 | [Engineersticity](https://github.com/Engineersticity) | Erastus Kirui |  | Engineersticity | Doha, Qatar | 4229 |
-| 20 | [altyebv](https://github.com/altyebv) | Altayeb Abdeljalil  |  |  | Doha, Qatar  Sudan  | 4122 |
+| 18 | [abdulwaarith0](https://github.com/abdulwaarith0) | Abdulwaarith Zakariyya |  | javamind_ | Doha, Qatar | 4347 |
+| 19 | [mbrksntrk](https://github.com/mbrksntrk) | M Burak Şentürk | Boğaziçi Üniversitesi | mbrksntrk | Doha, Qatar | 4249 |
+| 20 | [Engineersticity](https://github.com/Engineersticity) | Erastus Kirui |  | Engineersticity | Doha, Qatar | 4229 |

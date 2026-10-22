@@ -1,6 +1,6 @@
 # Total Contributions - Serbia
 
-Generated: 2026-10-22T02:35:03.001Z
+Generated: 2026-10-22T06:05:17.402Z
 
 Users: 10652
 
@@ -16,7 +16,7 @@ Users: 10652
 | 8 | [proffesor-for-testing](https://github.com/proffesor-for-testing) | Dragan Spiridonov | Cognitum One |  | Petrovaradin, Serbia | 13173 |
 | 9 | [msrdic](https://github.com/msrdic) | Mladen Srdic |  | quantumdot | Belgrade | 13164 |
 | 10 | [ydnikolaev](https://github.com/ydnikolaev) | Nikolaev | @r22d222  |  | Belgrade, Serbia | 12572 |
-| 11 | [Nek-12](https://github.com/Nek-12) | Nek.12 | @respawn-app  |  | Serbia | 11237 |
+| 11 | [Nek-12](https://github.com/Nek-12) | Nek.12 | @respawn-app  |  | Serbia | 12459 |
 | 12 | [momoshell](https://github.com/momoshell) | Momcilo Miladinovic | IXNAY |  | Belgrade | 11050 |
 | 13 | [valentinajemuovic](https://github.com/valentinajemuovic) | Valentina Jemuović  | Optivem | valentinajemuov | Belgrade, Serbia | 11013 |
 | 14 | [boroworx](https://github.com/boroworx) | Marko Borojević |  |  | Belgrade, Serbia | 10459 |

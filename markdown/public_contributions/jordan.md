@@ -1,6 +1,6 @@
 # Public Contributions - Jordan
 
-Generated: 2026-10-22T02:05:29.857Z
+Generated: 2026-10-22T05:32:32.957Z
 
 Users: 4001
 
@@ -22,7 +22,7 @@ Users: 4001
 | 14 | [AbdulTheActivePiecer](https://github.com/AbdulTheActivePiecer) | Abdul | Activepieces |  | Jordan | 1620 |
 | 15 | [LinuxDevil](https://github.com/LinuxDevil) | Ali Mohammad | @tajawal |  | Amman, Jordan | 1500 |
 | 16 | [AliOsm](https://github.com/AliOsm) | Ali Hamdi Ali Fadel | MilkStraw AI | alihfadel | Amman - Jordan | 1409 |
-| 17 | [mohammadtmohsen](https://github.com/mohammadtmohsen) | Mohammad Taleb |  |  | Jordan | 1349 |
-| 18 | [omar7altawil](https://github.com/omar7altawil) | Omar Tawil | @Null-Square  |  | Amman | 1264 |
-| 19 | [Qaddoumi](https://github.com/Qaddoumi) | Qaddoumi |  | MohQaddoumi | Jordan | 1256 |
-| 20 | [m-tabaza](https://github.com/m-tabaza) | Mohammad Tabaza | Cofounder @ Open (YC W24) | _tabaza | Amman, Jordan | 1160 |
+| 17 | [almothafar](https://github.com/almothafar) | Al-Mothafar Al-Hasan |  | AlMothafar | Amman, Jordan | 1369 |
+| 18 | [mohammadtmohsen](https://github.com/mohammadtmohsen) | Mohammad Taleb |  |  | Jordan | 1349 |
+| 19 | [omar7altawil](https://github.com/omar7altawil) | Omar Tawil | @Null-Square  |  | Amman | 1264 |
+| 20 | [Qaddoumi](https://github.com/Qaddoumi) | Qaddoumi |  | MohQaddoumi | Jordan | 1256 |

@@ -1,6 +1,6 @@
 # Nigeria
 
-Indexed users: 33,174
+Indexed users: 33,182
 
 | Leaderboard | Link |
 |---|---|
@@ -55,8 +55,8 @@ Indexed users: 33,174
 | 16 | [xt42io](https://github.com/xt42io) | Akinkunmi | Nigeria | 5,016 |
 | 17 | [O-BERNARDOFOEGBU](https://github.com/O-BERNARDOFOEGBU) | Bernard Ofoegbu | Nigeria | 4,979 |
 | 18 | [bamiebot-maker](https://github.com/bamiebot-maker) | Ibrahim Bamidele. S | Nigeria | 4,903 |
-| 19 | [KusuConsult-NG](https://github.com/KusuConsult-NG) | KusuConsult | Jos, Nigeria | 4,714 |
-| 20 | [BigBen-7](https://github.com/BigBen-7) | Benard Simon | Nigeria | 4,658 |
+| 19 | [gokedev](https://github.com/gokedev) | Agbaje Stephen | Nigeria | 4,770 |
+| 20 | [KusuConsult-NG](https://github.com/KusuConsult-NG) | KusuConsult | Jos, Nigeria | 4,714 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 33,174
 | 19 | [samglish](https://github.com/samglish) | BEIDI DINA SAMUEL | Nigeria, Yola | 759 |
 | 20 | [slick-codes](https://github.com/slick-codes) | Paul Ezekiel-Hart | Nigeria | 709 |
 
-Generated: 2026-10-22T02:23:33.216Z
+Generated: 2026-10-22T05:50:39.166Z

@@ -29,7 +29,7 @@ Indexed users: 2,190
 | 15 | [samtin0x](https://github.com/samtin0x) | samtin0x | Luxembourg | 8,230 |
 | 16 | [b-rodrigues](https://github.com/b-rodrigues) | Bruno Rodrigues | Luxembourg-City, Luxembourg | 6,927 |
 | 17 | [leobenkel-db](https://github.com/leobenkel-db) | Leo Benkel (bot)  | Luxembourg | 6,787 |
-| 18 | [nicolasguelfi](https://github.com/nicolasguelfi) | Nicolas Guelfi | Esch-sur-Alzette, Luxembourg | 6,213 |
+| 18 | [nicolasguelfi](https://github.com/nicolasguelfi) | Nicolas Guelfi | Esch-sur-Alzette, Luxembourg | 6,749 |
 | 19 | [francois352](https://github.com/francois352) | Francois Altwies | Luxembourg | 6,191 |
 | 20 | [jose99segura](https://github.com/jose99segura) | Jose Luis Segura | Luxembourg | 6,138 |
 
@@ -40,14 +40,14 @@ Indexed users: 2,190
 | 1 | [kidiatoliny](https://github.com/kidiatoliny) | kidiatoliny | 23 Rue Théodore Gillen 1625 Howald Luxembourg | 10,210 |
 | 2 | [b-rodrigues](https://github.com/b-rodrigues) | Bruno Rodrigues | Luxembourg-City, Luxembourg | 6,889 |
 | 3 | [leobenkel-db](https://github.com/leobenkel-db) | Leo Benkel (bot)  | Luxembourg | 6,787 |
-| 4 | [AbdallahCoptan](https://github.com/AbdallahCoptan) | Abdallah IBRAHIM | Luxembourg | 4,379 |
+| 4 | [AbdallahCoptan](https://github.com/AbdallahCoptan) | Abdallah IBRAHIM | Luxembourg | 4,400 |
 | 5 | [EuphoriaLux](https://github.com/EuphoriaLux) | Twisto | Luxembourg | 4,033 |
 | 6 | [dbarzin](https://github.com/dbarzin) | Didier Barzin | Luxembourg | 3,885 |
 | 7 | [erkobridee](https://github.com/erkobridee) | Erko Bridee | Luxembourg | 3,634 |
 | 8 | [Sashimee](https://github.com/Sashimee) | Alex | Luxembourg | 3,490 |
 | 9 | [ArmenSl](https://github.com/ArmenSl) | ArmenSL | Luxembourg | 3,299 |
 | 10 | [fxmartin](https://github.com/fxmartin) | François-Xavier Martin | Luxembourg | 3,159 |
-| 11 | [nicolasguelfi](https://github.com/nicolasguelfi) | Nicolas Guelfi | Esch-sur-Alzette, Luxembourg | 2,220 |
+| 11 | [nicolasguelfi](https://github.com/nicolasguelfi) | Nicolas Guelfi | Esch-sur-Alzette, Luxembourg | 2,366 |
 | 12 | [iglocska](https://github.com/iglocska) | Andras Iklody | Luxembourg | 2,164 |
 | 13 | [PhilippeChepy](https://github.com/PhilippeChepy) | Philippe Chepy | Luxembourg | 2,121 |
 | 14 | [danielesomensi-cmd](https://github.com/danielesomensi-cmd) | Daniele Somensi | Luxembourg | 1,983 |
@@ -83,4 +83,4 @@ Indexed users: 2,190
 | 19 | [l4rz](https://github.com/l4rz) | Mike K. | Luxembourg | 197 |
 | 20 | [urosolia](https://github.com/urosolia) | Ugo Rosolia | Luxembourg, Lux | 191 |
 
-Generated: 2026-10-22T02:11:57.130Z
+Generated: 2026-10-22T05:39:07.676Z
