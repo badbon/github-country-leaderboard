@@ -1,6 +1,6 @@
 # Belarus
 
-Indexed users: 10,923
+Indexed users: 10,922
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 10,923
 | 19 | [dillidon](https://github.com/dillidon) | RV | Belarus | 183 |
 | 20 | [alexzhirkevich](https://github.com/alexzhirkevich) | Alexander Zhirkevich | Belarus, Minsk | 165 |
 
-Generated: 2026-10-22T19:14:00.504Z
+Generated: 2026-10-22T20:09:14.273Z

@@ -46,10 +46,10 @@ Indexed users: 2,721
 | 7 | [AxGord](https://github.com/AxGord) | Alexander Gordeyko | Limassol, Cyprus | 4,455 |
 | 8 | [protesilaos](https://github.com/protesilaos) | Protesilaos | Cyprus | 4,292 |
 | 9 | [NicosNicolaou16](https://github.com/NicosNicolaou16) | Nicos Nicolaou | Nicosia, Cyprus | 4,092 |
-| 10 | [candasoz01-cmd](https://github.com/candasoz01-cmd) | Candaş Öz | Kıbrıs | 3,534 |
-| 11 | [VizzleTF](https://github.com/VizzleTF) | Ivan K | Cyprus | 3,486 |
-| 12 | [phalouvas](https://github.com/phalouvas) | Panayiotis Halouvas | Cyprus  | 3,353 |
-| 13 | [siyabendoezdemir](https://github.com/siyabendoezdemir) | Siya | Cyprus | 3,289 |
+| 10 | [siyabendoezdemir](https://github.com/siyabendoezdemir) | Siya | Cyprus | 4,052 |
+| 11 | [candasoz01-cmd](https://github.com/candasoz01-cmd) | Candaş Öz | Kıbrıs | 3,534 |
+| 12 | [VizzleTF](https://github.com/VizzleTF) | Ivan K | Cyprus | 3,486 |
+| 13 | [phalouvas](https://github.com/phalouvas) | Panayiotis Halouvas | Cyprus  | 3,353 |
 | 14 | [Disentinel](https://github.com/Disentinel) | Vadim Reshetnikov | Cyprus, Limassol | 3,117 |
 | 15 | [programmeradu](https://github.com/programmeradu) | Samuel Adu-Berekorang | nicosia, cyprus | 3,112 |
 | 16 | [VISTALL](https://github.com/VISTALL) | Valery Semenchuk | Cyprus | 3,060 |
@@ -83,4 +83,4 @@ Indexed users: 2,721
 | 19 | [sudoguy](https://github.com/sudoguy) | Evgeny Kemerov | Limassol, Cyprus | 251 |
 | 20 | [polterguy](https://github.com/polterguy) | Thomas Hansen | Cyprus | 245 |
 
-Generated: 2026-10-22T19:20:10.064Z
+Generated: 2026-10-22T20:16:49.928Z

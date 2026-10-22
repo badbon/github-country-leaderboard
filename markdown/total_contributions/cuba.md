@@ -1,6 +1,6 @@
 # Total Contributions - Cuba
 
-Generated: 2026-10-22T19:20:03.118Z
+Generated: 2026-10-22T20:15:58.622Z
 
 Users: 1273
 
@@ -18,11 +18,11 @@ Users: 1273
 | 10 | [frarteaga](https://github.com/frarteaga) | Frank Rafael Arteaga Salgado |  |  | Cuba | 5389 |
 | 11 | [manuelaguadomtz](https://github.com/manuelaguadomtz) | Manuel Aguado Martinez |  |  | Havana, Cuba | 4876 |
 | 12 | [leodanisbi](https://github.com/leodanisbi) | Leodanis Bernal Ibanez |  |  | Havaba/Cuba | 4727 |
-| 13 | [AgenciaSeniors](https://github.com/AgenciaSeniors) | Eduardo Daniel Pérez Ruiz |  |  | Cuba | 4487 |
-| 14 | [saulo-hermida](https://github.com/saulo-hermida) | Saulo Hermida |  |  | Havana,Cuba | 4441 |
-| 15 | [disnelrr](https://github.com/disnelrr) | Disnel Rodríguez Rodríguez |  |  | Cuba | 4222 |
-| 16 | [raulodev](https://github.com/raulodev) | Raúl Cobiellas |  |  | Cuba | 4090 |
-| 17 | [ucicarlos](https://github.com/ucicarlos) | Carlos Miguel Pérez Reyes | dofleini software | ucicarlos | Havana, Cuba | 4054 |
+| 13 | [ucicarlos](https://github.com/ucicarlos) | Carlos Miguel Pérez Reyes | dofleini software | ucicarlos | Havana, Cuba | 4547 |
+| 14 | [AgenciaSeniors](https://github.com/AgenciaSeniors) | Eduardo Daniel Pérez Ruiz |  |  | Cuba | 4487 |
+| 15 | [saulo-hermida](https://github.com/saulo-hermida) | Saulo Hermida |  |  | Havana,Cuba | 4441 |
+| 16 | [disnelrr](https://github.com/disnelrr) | Disnel Rodríguez Rodríguez |  |  | Cuba | 4222 |
+| 17 | [raulodev](https://github.com/raulodev) | Raúl Cobiellas |  |  | Cuba | 4090 |
 | 18 | [Ztaz9906](https://github.com/Ztaz9906) | Enrique Ferriero | UCI |  | Cuba | 3864 |
 | 19 | [theGitNoob](https://github.com/theGitNoob) | Rafael Acosta Márquez | @89millas-develop |  | Havana, Cuba | 3341 |
 | 20 | [MiguelAntonioRS](https://github.com/MiguelAntonioRS) | Miguel |  | rojassucar0115 | Cuba, Holguin | 3259 |

@@ -1,6 +1,6 @@
 # Public Contributions - Zimbabwe
 
-Generated: 2026-10-22T19:09:21.551Z
+Generated: 2026-10-22T20:03:36.727Z
 
 Users: 1656
 
@@ -19,9 +19,9 @@ Users: 1656
 | 11 | [josemukorivo](https://github.com/josemukorivo) | Joseph Mukorivo | Complexus Technologies | josemukorivo | Harare, Zimbabwe | 1957 |
 | 12 | [zinyando](https://github.com/zinyando) | Lennex Zinyando | Izwi AI | zinyando | Harare, Zimbabwe | 1816 |
 | 13 | [br3eze-code](https://github.com/br3eze-code) | Brighton Mzacana | Br3eze Africa |  | Zimbabwe, BYO | 1711 |
-| 14 | [tate2301](https://github.com/tate2301) | Atipamara |  |  | Masvingo, Zimbabwe | 1473 |
-| 15 | [TinevimboMusingadi](https://github.com/TinevimboMusingadi) | King Tine |  | king_tine11 | Zimbabwe | 1471 |
-| 16 | [kudzaiprichard](https://github.com/kudzaiprichard) | Kudzai Prichard Matizirofa |  |  | Mashonaland West Province, Zimbabwe, Harare | 1466 |
+| 14 | [kudzaiprichard](https://github.com/kudzaiprichard) | Kudzai Prichard Matizirofa |  |  | Mashonaland West Province, Zimbabwe, Harare | 1568 |
+| 15 | [tate2301](https://github.com/tate2301) | Atipamara |  |  | Masvingo, Zimbabwe | 1473 |
+| 16 | [TinevimboMusingadi](https://github.com/TinevimboMusingadi) | King Tine |  | king_tine11 | Zimbabwe | 1471 |
 | 17 | [eisax](https://github.com/eisax) | Josphat Ndhlovu | eisax software services |  | Zimbabwe | 1315 |
 | 18 | [Shewart](https://github.com/Shewart) | Shewart | Technology | 0xsh3ll_ | Harare | 1244 |
 | 19 | [Mikelesnr](https://github.com/Mikelesnr) | Michael Ngonidzashe | Classgap |  | Harare Zimbabwe | 1220 |

@@ -1,6 +1,6 @@
 # Public Contributions - Cameroon
 
-Generated: 2026-10-22T19:18:06.932Z
+Generated: 2026-10-22T20:13:35.746Z
 
 Users: 1795
 
@@ -24,5 +24,5 @@ Users: 1795
 | 16 | [Hermann-Core](https://github.com/Hermann-Core) | Hermann Core | SkyEngPro/Adorsys | Dr_Itachii | Cameroon | 1421 |
 | 17 | [Koufan-De-King](https://github.com/Koufan-De-King) | King-Koufan | ADORSYS |  | Cameroon | 1419 |
 | 18 | [JOELNATHAN544](https://github.com/JOELNATHAN544) | Joel Nathan Wanko | Adorsys |  | Cameroon, Bangangté  | 1388 |
-| 19 | [Mbiydzenyuy3](https://github.com/Mbiydzenyuy3) | Leila |  |  | Yaounde, Cameroon | 1348 |
-| 20 | [PromiseFru](https://github.com/PromiseFru) | Promise Fru | promisefru | promisefru | Cameroon | 1339 |
+| 19 | [chojuninengu](https://github.com/chojuninengu) | JU-NINE NGU CHO | Clemios | chojuninengu | Cameroon | 1374 |
+| 20 | [Mbiydzenyuy3](https://github.com/Mbiydzenyuy3) | Leila |  |  | Yaounde, Cameroon | 1348 |

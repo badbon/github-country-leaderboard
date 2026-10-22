@@ -55,26 +55,26 @@ Indexed users: 1,795
 | 16 | [Hermann-Core](https://github.com/Hermann-Core) | Hermann Core | Cameroon | 1,421 |
 | 17 | [Koufan-De-King](https://github.com/Koufan-De-King) | King-Koufan | Cameroon | 1,419 |
 | 18 | [JOELNATHAN544](https://github.com/JOELNATHAN544) | Joel Nathan Wanko | Cameroon, Bangangté  | 1,388 |
-| 19 | [Mbiydzenyuy3](https://github.com/Mbiydzenyuy3) | Leila | Yaounde, Cameroon | 1,348 |
-| 20 | [PromiseFru](https://github.com/PromiseFru) | Promise Fru | Cameroon | 1,339 |
+| 19 | [chojuninengu](https://github.com/chojuninengu) | JU-NINE NGU CHO | Cameroon | 1,374 |
+| 20 | [Mbiydzenyuy3](https://github.com/Mbiydzenyuy3) | Leila | Yaounde, Cameroon | 1,348 |
 
 ## Followers
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [JOELNATHAN544](https://github.com/JOELNATHAN544) | Joel Nathan Wanko | Cameroon, Bangangté  | 1,348 |
+| 1 | [JOELNATHAN544](https://github.com/JOELNATHAN544) | Joel Nathan Wanko | Cameroon, Bangangté  | 1,358 |
 | 2 | [ln-dev7](https://github.com/ln-dev7) | LN | Cameroon | 1,238 |
-| 3 | [chojuninengu](https://github.com/chojuninengu) | JU-NINE NGU CHO | Cameroon | 679 |
+| 3 | [chojuninengu](https://github.com/chojuninengu) | JU-NINE NGU CHO | Cameroon | 691 |
 | 4 | [bonzum](https://github.com/bonzum) | Mark legend | Cameroon | 556 |
 | 5 | [Arielpetit](https://github.com/Arielpetit) | arielpetit | cameroon | 511 |
-| 6 | [djonmaila](https://github.com/djonmaila) | DJONMAILA PYTHAGORE  | Cameroon | 494 |
-| 7 | [Nkwenti-Severian-Ndongtsop](https://github.com/Nkwenti-Severian-Ndongtsop) | @Nkwenti @Severian | Cameroon, Bangangte | 355 |
+| 6 | [djonmaila](https://github.com/djonmaila) | DJONMAILA PYTHAGORE  | Cameroon | 504 |
+| 7 | [Nkwenti-Severian-Ndongtsop](https://github.com/Nkwenti-Severian-Ndongtsop) | @Nkwenti @Severian | Cameroon, Bangangte | 359 |
 | 8 | [sangafabrice](https://github.com/sangafabrice) | Fabrice Sanga | Yaoundé, CM | 340 |
 | 9 | [donaldte](https://github.com/donaldte) | donald programmeur | Bamenda/Cameroon | 322 |
 | 10 | [kenrique100](https://github.com/kenrique100) | Kenrique _Ngwa | Cameroon | 288 |
 | 11 | [AssahBismarkabah](https://github.com/AssahBismarkabah) | Assah Bismark | Cameroon | 273 |
-| 12 | [wisdom2608](https://github.com/wisdom2608) | Julius | Buea, Cameroon | 250 |
-| 13 | [tegha-romeo](https://github.com/tegha-romeo) | tegha-romeo | Bangante, Cameroon | 240 |
+| 12 | [wisdom2608](https://github.com/wisdom2608) | Julius | Buea, Cameroon | 269 |
+| 13 | [tegha-romeo](https://github.com/tegha-romeo) | tegha-romeo | Bangante, Cameroon | 247 |
 | 14 | [Daniel-TheProgrammer](https://github.com/Daniel-TheProgrammer) | Nji Daniel  | Buea,Cameroon | 226 |
 | 15 | [xSavitar](https://github.com/xSavitar) | Derick Alangi | Buea, Cameroon | 224 |
 | 16 | [yunweneric](https://github.com/yunweneric) | Yunweneric | Douala, Cameroon | 221 |
@@ -83,4 +83,4 @@ Indexed users: 1,795
 | 19 | [baimamboukar](https://github.com/baimamboukar) | BAIMAM BOUKAR JEAN JACQUES | Yaoundé | 170 |
 | 20 | [Suprememajor](https://github.com/Suprememajor) | Nobert Etta | Buea, Cameroon | 168 |
 
-Generated: 2026-10-22T19:18:06.932Z
+Generated: 2026-10-22T20:13:35.746Z

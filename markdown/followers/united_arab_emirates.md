@@ -1,6 +1,6 @@
 # Followers - United Arab Emirates
 
-Generated: 2026-10-22T19:07:58.039Z
+Generated: 2026-10-22T20:02:42.463Z
 
 Users: 4208
 
@@ -15,7 +15,7 @@ Users: 4208
 | 7 | [tuomaskivioja](https://github.com/tuomaskivioja) | Tuomas Kivioja |  |  | Dubai, United Arab Emirates | 669 |
 | 8 | [Ahmed-Adel-Ismail](https://github.com/Ahmed-Adel-Ismail) | Ahmed Adel Ismail | SadaPay |  | United Arab Emirates | 587 |
 | 9 | [TadesseDev](https://github.com/TadesseDev) | Tadesse Dubale | @Emirates-NBD | TadesseDev | Dubai, United Arab Emirates | 542 |
-| 10 | [Jackal08](https://github.com/Jackal08) | Jacques Francois Joubert |  |  | Abu Dhabi | 510 |
+| 10 | [Jackal08](https://github.com/Jackal08) | Jacques Francois Joubert |  |  | Abu Dhabi | 514 |
 | 11 | [christyjacob4](https://github.com/christyjacob4) | Christy Jacob |  | christyjacob4 | Abu Dhabi | 475 |
 | 12 | [Mubashir12392](https://github.com/Mubashir12392) | Muhammad Mubashir | ECOM Specialist, LLC |  | Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates | 466 |
 | 13 | [divyanshub024](https://github.com/divyanshub024) | Divyanshu Bhargava | @StacDev | divyanshub024 | Abu Dhabi, UAE | 421 |

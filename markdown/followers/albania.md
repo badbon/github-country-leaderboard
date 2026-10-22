@@ -1,8 +1,8 @@
 # Followers - Albania
 
-Generated: 2026-10-22T19:09:37.566Z
+Generated: 2026-10-22T20:05:12.893Z
 
-Users: 1181
+Users: 1180
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

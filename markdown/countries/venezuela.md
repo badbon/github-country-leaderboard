@@ -39,14 +39,14 @@ Indexed users: 6,611
 |---:|---|---|---|---:|
 | 1 | [0noxtackore](https://github.com/0noxtackore) | 4NG3LL0_4P0NT3 | Venezuela | 52,041 |
 | 2 | [davinrtx](https://github.com/davinrtx) | Ricardo Gonzalez | Caracas, Venezuela | 7,827 |
-| 3 | [anibalealvarezs](https://github.com/anibalealvarezs) | Aníbal Álvarez | Caracas, Venezuela | 5,485 |
-| 4 | [Samueru-sama](https://github.com/Samueru-sama) | Samuel | Venezuela | 5,122 |
+| 3 | [Samueru-sama](https://github.com/Samueru-sama) | Samuel | Venezuela | 5,959 |
+| 4 | [anibalealvarezs](https://github.com/anibalealvarezs) | Aníbal Álvarez | Caracas, Venezuela | 5,485 |
 | 5 | [apalala](https://github.com/apalala) | Juancarlo Añez | Venezuela | 4,078 |
-| 6 | [ness-e](https://github.com/ness-e) | Eros Nessy | Venezuela | 3,914 |
-| 7 | [DtxdF](https://github.com/DtxdF) | DtxdF | Venezuela | 3,863 |
-| 8 | [ralvarezdev](https://github.com/ralvarezdev) | Ramón Álvarez | Venezuela | 3,666 |
-| 9 | [NanezX](https://github.com/NanezX) | Víctor Hernández | Monagas, Venezuela | 3,503 |
-| 10 | [kbtale](https://github.com/kbtale) | Carlos Bolívar | Venezuela | 2,910 |
+| 6 | [DtxdF](https://github.com/DtxdF) | DtxdF | Venezuela | 4,050 |
+| 7 | [ness-e](https://github.com/ness-e) | Eros Nessy | Venezuela | 3,914 |
+| 8 | [kbtale](https://github.com/kbtale) | Carlos Bolívar | Venezuela | 3,887 |
+| 9 | [ralvarezdev](https://github.com/ralvarezdev) | Ramón Álvarez | Venezuela | 3,666 |
+| 10 | [NanezX](https://github.com/NanezX) | Víctor Hernández | Monagas, Venezuela | 3,503 |
 | 11 | [lumi-tip](https://github.com/lumi-tip) | Luis Miguel Del Valle | Venezuela | 2,871 |
 | 12 | [jlcarrascof](https://github.com/jlcarrascof) | Javier Jesus Martínez Fariñas | Venezuela. | 2,853 |
 | 13 | [LuisAlejandro](https://github.com/LuisAlejandro) | Luis Alejandro | Maracay, Venezuela | 2,787 |
@@ -80,7 +80,7 @@ Indexed users: 6,611
 | 16 | [jlcarrascof](https://github.com/jlcarrascof) | Javier Jesus Martínez Fariñas | Venezuela. | 194 |
 | 17 | [Astharmin](https://github.com/Astharmin) | Aaron Barcenas | Venezuela | 185 |
 | 18 | [gutoccs](https://github.com/gutoccs) | Gustavo Escobar Cobos | Caracas, Venezuela | 185 |
-| 19 | [NTBBloodbath](https://github.com/NTBBloodbath) | Alejandro | Caracas, Venezuela | 179 |
+| 19 | [NTBBloodbath](https://github.com/NTBBloodbath) | Alejandro | Caracas, Venezuela | 182 |
 | 20 | [KellbisJ](https://github.com/KellbisJ) | Kellbis Salazar | Venezuela / Remote | 175 |
 
-Generated: 2026-10-22T19:08:33.753Z
+Generated: 2026-10-22T20:03:06.599Z

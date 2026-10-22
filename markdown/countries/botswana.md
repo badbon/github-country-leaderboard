@@ -54,7 +54,7 @@ Indexed users: 533
 | 15 | [justindotdevv](https://github.com/justindotdevv) | justin | Gaborone, Botswana | 429 |
 | 16 | [mulaxprime](https://github.com/mulaxprime) | Mulax Prime | Gaborone, Botswana | 345 |
 | 17 | [WyvernPirate](https://github.com/WyvernPirate) | Phemelo Moloi | Maun, Botswana | 345 |
-| 18 | [Serumola](https://github.com/Serumola) | Pako Serumola | Gaborone, Botswana | 332 |
+| 18 | [Serumola](https://github.com/Serumola) | Pako Serumola | Gaborone, Botswana | 334 |
 | 19 | [DippsDev](https://github.com/DippsDev) | DippsDev | Botswana | 327 |
 | 20 | [Batoli19](https://github.com/Batoli19) | future | Gaborone | 290 |
 
@@ -83,4 +83,4 @@ Indexed users: 533
 | 19 | [BakangMonei](https://github.com/BakangMonei) | Monei Bakang | Gaborone, Botswana | 34 |
 | 20 | [kcee01](https://github.com/kcee01) | Cliff Keabetswe | Gaborone, Botswana | 33 |
 
-Generated: 2026-10-22T19:16:30.220Z
+Generated: 2026-10-22T20:11:26.508Z

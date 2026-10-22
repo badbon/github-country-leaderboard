@@ -1,6 +1,6 @@
 # Bahrain
 
-Indexed users: 727
+Indexed users: 726
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 727
 | 19 | [f-9t9it](https://github.com/f-9t9it) | 9T9 IT | Bahrain | 42 |
 | 20 | [masterde](https://github.com/masterde) | Baker | Bahrain, Muharraq | 41 |
 
-Generated: 2026-10-22T19:12:48.670Z
+Generated: 2026-10-22T20:08:01.359Z

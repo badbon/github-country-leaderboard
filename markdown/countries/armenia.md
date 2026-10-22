@@ -28,9 +28,9 @@ Indexed users: 4,025
 | 14 | [haykkarapetyan](https://github.com/haykkarapetyan) | Hayk Karapetyan | Armenia Yerevan | 9,270 |
 | 15 | [urumo](https://github.com/urumo) |  | Armenia, Yerevan | 8,750 |
 | 16 | [m0n0x41d](https://github.com/m0n0x41d) | ivan zakutni | Armenia | 8,606 |
-| 17 | [vadim-su](https://github.com/vadim-su) | Vadim Suharnikov | Armenia Yerevan | 8,162 |
-| 18 | [ashvardanian](https://github.com/ashvardanian) | Ash Vardanian | London, San Francisco, Yerevan | 8,125 |
-| 19 | [NarHakobyan](https://github.com/NarHakobyan) | Narek Hakobyan | Armenia | 8,102 |
+| 17 | [ashvardanian](https://github.com/ashvardanian) | Ash Vardanian | London, San Francisco, Yerevan | 8,125 |
+| 18 | [NarHakobyan](https://github.com/NarHakobyan) | Narek Hakobyan | Armenia | 8,102 |
+| 19 | [vadim-su](https://github.com/vadim-su) | Vadim Suharnikov | Armenia Yerevan | 8,096 |
 | 20 | [esceptico](https://github.com/esceptico) | Tim Ganiev | Yerevan, Armenia | 7,750 |
 
 ## Public Contributions
@@ -83,4 +83,4 @@ Indexed users: 4,025
 | 19 | [nightwing](https://github.com/nightwing) | Harutyun Amirjanyan | Yerevan, Armenia | 236 |
 | 20 | [norayr](https://github.com/norayr) | Norayr Chilingarian | Yerevan, Armenia | 233 |
 
-Generated: 2026-10-22T19:11:19.148Z
+Generated: 2026-10-22T20:07:29.799Z

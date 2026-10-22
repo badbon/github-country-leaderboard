@@ -1,24 +1,24 @@
 # Followers - Cameroon
 
-Generated: 2026-10-22T19:18:06.932Z
+Generated: 2026-10-22T20:13:35.746Z
 
 Users: 1795
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [JOELNATHAN544](https://github.com/JOELNATHAN544) | Joel Nathan Wanko | Adorsys |  | Cameroon, Bangangté  | 1348 |
+| 1 | [JOELNATHAN544](https://github.com/JOELNATHAN544) | Joel Nathan Wanko | Adorsys |  | Cameroon, Bangangté  | 1358 |
 | 2 | [ln-dev7](https://github.com/ln-dev7) | LN | @mus-inn | ln_dev7 | Cameroon | 1238 |
-| 3 | [chojuninengu](https://github.com/chojuninengu) | JU-NINE NGU CHO | Clemios | chojuninengu | Cameroon | 679 |
+| 3 | [chojuninengu](https://github.com/chojuninengu) | JU-NINE NGU CHO | Clemios | chojuninengu | Cameroon | 691 |
 | 4 | [bonzum](https://github.com/bonzum) | Mark legend |  |  | Cameroon | 556 |
 | 5 | [Arielpetit](https://github.com/Arielpetit) | arielpetit | @adorsys |  | cameroon | 511 |
-| 6 | [djonmaila](https://github.com/djonmaila) | DJONMAILA PYTHAGORE  | @Univ-Douala |  | Cameroon | 494 |
-| 7 | [Nkwenti-Severian-Ndongtsop](https://github.com/Nkwenti-Severian-Ndongtsop) | @Nkwenti @Severian | Adorsys | n_severian | Cameroon, Bangangte | 355 |
+| 6 | [djonmaila](https://github.com/djonmaila) | DJONMAILA PYTHAGORE  | @Univ-Douala |  | Cameroon | 504 |
+| 7 | [Nkwenti-Severian-Ndongtsop](https://github.com/Nkwenti-Severian-Ndongtsop) | @Nkwenti @Severian | Adorsys | n_severian | Cameroon, Bangangte | 359 |
 | 8 | [sangafabrice](https://github.com/sangafabrice) | Fabrice Sanga |  |  | Yaoundé, CM | 340 |
 | 9 | [donaldte](https://github.com/donaldte) | donald programmeur | @HooYia | DProgrammeur | Bamenda/Cameroon | 322 |
 | 10 | [kenrique100](https://github.com/kenrique100) | Kenrique _Ngwa |  | Kenrique_Ngwa | Cameroon | 288 |
 | 11 | [AssahBismarkabah](https://github.com/AssahBismarkabah) | Assah Bismark | @adorsys | Assah_Bismark | Cameroon | 273 |
-| 12 | [wisdom2608](https://github.com/wisdom2608) | Julius |  |  | Buea, Cameroon | 250 |
-| 13 | [tegha-romeo](https://github.com/tegha-romeo) | tegha-romeo | student at GIS Training Center |  | Bangante, Cameroon | 240 |
+| 12 | [wisdom2608](https://github.com/wisdom2608) | Julius |  |  | Buea, Cameroon | 269 |
+| 13 | [tegha-romeo](https://github.com/tegha-romeo) | tegha-romeo | student at GIS Training Center |  | Bangante, Cameroon | 247 |
 | 14 | [Daniel-TheProgrammer](https://github.com/Daniel-TheProgrammer) | Nji Daniel  | @DANIEL-THE-PROGRAMMER  | DTP_237 | Buea,Cameroon | 226 |
 | 15 | [xSavitar](https://github.com/xSavitar) | Derick Alangi | @hallowelt @wikimedia |  | Buea, Cameroon | 224 |
 | 16 | [yunweneric](https://github.com/yunweneric) | Yunweneric | togeva.com | Yunweneric | Douala, Cameroon | 221 |

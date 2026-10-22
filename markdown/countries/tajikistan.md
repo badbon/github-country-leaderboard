@@ -18,9 +18,9 @@ Indexed users: 708
 | 4 | [UMARJO9](https://github.com/UMARJO9) | Умарджон Нурмадов | Tajikistan / Khujand / Dushanbe / Kulob | 7,498 |
 | 5 | [umedsondoniyor](https://github.com/umedsondoniyor) | Umedzhon Izbasarov | Tajikistan/Dushanbe | 7,021 |
 | 6 | [islom-sattorov](https://github.com/islom-sattorov) | islom-sattorov | Dushanbe, Tajikistan | 6,755 |
-| 7 | [shyn1ck](https://github.com/shyn1ck) | Parvizjon Hasanov | Taikistan, Dushanbe  | 6,558 |
-| 8 | [ifteakhor](https://github.com/ifteakhor) |  | Tajikistan | 6,456 |
-| 9 | [sr-44](https://github.com/sr-44) | Shahrom | Tajikistan, Dushanbe | 6,407 |
+| 7 | [sr-44](https://github.com/sr-44) | Shahrom | Tajikistan, Dushanbe | 6,665 |
+| 8 | [shyn1ck](https://github.com/shyn1ck) | Parvizjon Hasanov | Taikistan, Dushanbe  | 6,558 |
+| 9 | [ifteakhor](https://github.com/ifteakhor) |  | Tajikistan | 6,456 |
 | 10 | [Aiyom](https://github.com/Aiyom) |  | Tajikistan | 4,443 |
 | 11 | [shahromako](https://github.com/shahromako) | Shahrom Kurbonov | Tajikistan, Dushanbe | 3,786 |
 | 12 | [sultonzoda2011](https://github.com/sultonzoda2011) | Sultonzoda Abdulloh | Dushanbe | 3,633 |
@@ -83,4 +83,4 @@ Indexed users: 708
 | 19 | [11bit](https://github.com/11bit) | Ivan Buryak | Dushanbe | 49 |
 | 20 | [Abdughafur](https://github.com/Abdughafur) | Abdughafur Khujzoda | Tajikistan | 48 |
 
-Generated: 2026-10-22T19:04:51.604Z
+Generated: 2026-10-22T19:59:44.526Z

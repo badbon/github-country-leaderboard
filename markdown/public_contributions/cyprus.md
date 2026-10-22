@@ -1,6 +1,6 @@
 # Public Contributions - Cyprus
 
-Generated: 2026-10-22T19:20:10.064Z
+Generated: 2026-10-22T20:16:49.928Z
 
 Users: 2721
 
@@ -15,10 +15,10 @@ Users: 2721
 | 7 | [AxGord](https://github.com/AxGord) | Alexander Gordeyko |  | axgord | Limassol, Cyprus | 4455 |
 | 8 | [protesilaos](https://github.com/protesilaos) | Protesilaos |  |  | Cyprus | 4292 |
 | 9 | [NicosNicolaou16](https://github.com/NicosNicolaou16) | Nicos Nicolaou |  | nicolaou_nicos | Nicosia, Cyprus | 4092 |
-| 10 | [candasoz01-cmd](https://github.com/candasoz01-cmd) | Candaş Öz | Candaş Öz |  | Kıbrıs | 3534 |
-| 11 | [VizzleTF](https://github.com/VizzleTF) | Ivan K |  |  | Cyprus | 3486 |
-| 12 | [phalouvas](https://github.com/phalouvas) | Panayiotis Halouvas | KAINOTOMO PH LTD  |  | Cyprus  | 3353 |
-| 13 | [siyabendoezdemir](https://github.com/siyabendoezdemir) | Siya | CIYA | siyabuilt | Cyprus | 3289 |
+| 10 | [siyabendoezdemir](https://github.com/siyabendoezdemir) | Siya | CIYA | siyabuilt | Cyprus | 4052 |
+| 11 | [candasoz01-cmd](https://github.com/candasoz01-cmd) | Candaş Öz | Candaş Öz |  | Kıbrıs | 3534 |
+| 12 | [VizzleTF](https://github.com/VizzleTF) | Ivan K |  |  | Cyprus | 3486 |
+| 13 | [phalouvas](https://github.com/phalouvas) | Panayiotis Halouvas | KAINOTOMO PH LTD  |  | Cyprus  | 3353 |
 | 14 | [Disentinel](https://github.com/Disentinel) | Vadim Reshetnikov |  |  | Cyprus, Limassol | 3117 |
 | 15 | [programmeradu](https://github.com/programmeradu) | Samuel Adu-Berekorang | @stapolar  |  | nicosia, cyprus | 3112 |
 | 16 | [VISTALL](https://github.com/VISTALL) | Valery Semenchuk | @consulo | vistall_valery | Cyprus | 3060 |

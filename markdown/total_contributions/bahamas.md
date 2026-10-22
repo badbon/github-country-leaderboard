@@ -1,12 +1,12 @@
 # Total Contributions - Bahamas
 
-Generated: 2026-10-22T19:12:44.850Z
+Generated: 2026-10-22T20:07:58.850Z
 
 Users: 236
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [carlswann](https://github.com/carlswann) | Carl Swann | @lightspeed |  | Freeport, Bahamas | 24269 |
+| 1 | [carlswann](https://github.com/carlswann) | Carl Swann | @lightspeed |  | Freeport, Bahamas | 24625 |
 | 2 | [zoejessica](https://github.com/zoejessica) | Zoë Smith | @Basecamp | zoejessica | Bahamas / Canada | 3652 |
 | 3 | [dbraganca](https://github.com/dbraganca) | dbraganca |  |  | Bahamas | 3402 |
 | 4 | [bondjacobbond](https://github.com/bondjacobbond) | Jacob Bond | Bond Sports |  | Casino Royale, Nassau, Bahamas | 3061 |
@@ -19,7 +19,7 @@ Users: 236
 | 11 | [TRL242](https://github.com/TRL242) | Roy Lockhart |  |  | Victoria, BC and Freeport, Bahamas | 1110 |
 | 12 | [Johndiddles](https://github.com/Johndiddles) | Johndiddles | Evon Medics LLC | john_diddles | Nassau, Bahamas | 831 |
 | 13 | [Tec4Sho](https://github.com/Tec4Sho) | Ziona |  |  | Nassau, Bahamas  | 752 |
-| 14 | [Clearwood](https://github.com/Clearwood) |  |  | 0xKeno | Bahamas | 740 |
+| 14 | [Clearwood](https://github.com/Clearwood) |  |  | 0xKeno | Bahamas | 747 |
 | 15 | [dorson755](https://github.com/dorson755) | Dorson Williams |  |  | Nassau Bahamas | 738 |
 | 16 | [TerryJG](https://github.com/TerryJG) | Terrance |  |  | Nassau, Bahamas | 724 |
 | 17 | [mikepadiernos](https://github.com/mikepadiernos) | Mike Padiernos | TCS, GE Aerospace |  | Nassau County, NY | 611 |

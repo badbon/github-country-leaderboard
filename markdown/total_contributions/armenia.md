@@ -1,6 +1,6 @@
 # Total Contributions - Armenia
 
-Generated: 2026-10-22T19:11:19.148Z
+Generated: 2026-10-22T20:07:29.799Z
 
 Users: 4025
 
@@ -22,7 +22,7 @@ Users: 4025
 | 14 | [haykkarapetyan](https://github.com/haykkarapetyan) | Hayk Karapetyan |  |  | Armenia Yerevan | 9270 |
 | 15 | [urumo](https://github.com/urumo) |  |  | svacksalty | Armenia, Yerevan | 8750 |
 | 16 | [m0n0x41d](https://github.com/m0n0x41d) | ivan zakutni | Fusioncat |  | Armenia | 8606 |
-| 17 | [vadim-su](https://github.com/vadim-su) | Vadim Suharnikov |  |  | Armenia Yerevan | 8162 |
-| 18 | [ashvardanian](https://github.com/ashvardanian) | Ash Vardanian | BDFL @ Unum | ashvardanian | London, San Francisco, Yerevan | 8125 |
-| 19 | [NarHakobyan](https://github.com/NarHakobyan) | Narek Hakobyan |  |  | Armenia | 8102 |
+| 17 | [ashvardanian](https://github.com/ashvardanian) | Ash Vardanian | BDFL @ Unum | ashvardanian | London, San Francisco, Yerevan | 8125 |
+| 18 | [NarHakobyan](https://github.com/NarHakobyan) | Narek Hakobyan |  |  | Armenia | 8102 |
+| 19 | [vadim-su](https://github.com/vadim-su) | Vadim Suharnikov |  |  | Armenia Yerevan | 8096 |
 | 20 | [esceptico](https://github.com/esceptico) | Tim Ganiev |  | postimortem | Yerevan, Armenia | 7750 |
