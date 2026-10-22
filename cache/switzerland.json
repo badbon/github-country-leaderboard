@@ -42811,8 +42811,8 @@
     "company": "Stakeridoo",
     "twitterUsername": "stakeridoo",
     "followers": 3,
-    "privateContributions": 3,
-    "publicContributions": 23,
+    "privateContributions": 0,
+    "publicContributions": 6,
     "createdAt": "2021-05-16T14:12:11Z"
   },
   {
@@ -42835,7 +42835,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 0,
+    "privateContributions": 7,
     "publicContributions": 1,
     "createdAt": "2021-01-14T13:56:20Z"
   },
@@ -42870,7 +42870,7 @@
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 23,
     "createdAt": "2021-03-15T18:56:26Z"
@@ -42884,7 +42884,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 6,
     "createdAt": "2021-03-06T15:13:31Z"
   },
   {
@@ -42896,19 +42896,19 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2021-03-27T10:57:33Z"
   },
   {
     "login": "YannickKunz",
-    "name": "",
+    "name": "Yannick Künzli",
     "avatarUrl": "https://avatars.githubusercontent.com/u/80065404?s=72&v=4",
     "location": "Switzerland",
     "company": "@unifr-digits",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 175,
-    "publicContributions": 91,
+    "privateContributions": 647,
+    "publicContributions": 92,
     "createdAt": "2021-03-04T18:54:34Z"
   },
   {
@@ -42919,8 +42919,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 1562,
-    "publicContributions": 39,
+    "privateContributions": 2341,
+    "publicContributions": 67,
     "createdAt": "2021-04-14T13:45:10Z"
   },
   {
@@ -42944,7 +42944,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 66,
+    "publicContributions": 60,
     "createdAt": "2021-03-01T09:56:57Z"
   },
   {
@@ -42954,7 +42954,7 @@
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-05-13T21:17:27Z"
@@ -42967,7 +42967,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 174,
+    "privateContributions": 181,
     "publicContributions": 28,
     "createdAt": "2021-06-15T17:50:04Z"
   },
@@ -43015,7 +43015,7 @@
     "company": "Code Crush GmbH",
     "twitterUsername": "giordigull",
     "followers": 3,
-    "privateContributions": 522,
+    "privateContributions": 476,
     "publicContributions": 0,
     "createdAt": "2021-06-16T06:17:33Z"
   },
@@ -43038,7 +43038,7 @@
     "location": "Switzerland",
     "company": "@audacia-hq ",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-03-15T08:47:28Z"
