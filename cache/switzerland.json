@@ -44694,7 +44694,7 @@
     "location": "Lucerne, Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-01-22T14:42:43Z"
@@ -44748,39 +44748,15 @@
     "createdAt": "2021-02-19T01:23:38Z"
   },
   {
-    "login": "tameo-impact",
-    "name": "Tameo - Impact Fund Solutions",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/79266017?s=72&u=7fd33ad7bdc1459b600c9aa9c199735e400d745a&v=4",
-    "location": "Switzerland",
-    "company": "Tameo - Impact Fund Solutions",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2021-02-18T14:12:49Z"
-  },
-  {
-    "login": "cmedi32",
-    "name": "Cédric",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/84140450?s=72&u=090dba08241de02bf7a2bbb39b97650aedb37709&v=4",
-    "location": "Switzerland",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 1,
-    "publicContributions": 1,
-    "createdAt": "2021-05-13T14:40:57Z"
-  },
-  {
     "login": "ShnyarM",
     "name": "Shnyar Muhamad",
     "avatarUrl": "https://avatars.githubusercontent.com/u/82958287?s=72&v=4",
     "location": "Switzerland",
-    "company": "",
+    "company": "ETH Zurich",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 202,
-    "publicContributions": 37,
+    "followers": 3,
+    "privateContributions": 270,
+    "publicContributions": 50,
     "createdAt": "2021-04-21T14:51:23Z"
   },
   {
@@ -44814,7 +44790,7 @@
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-06-09T08:37:40Z"
@@ -44828,7 +44804,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 1,
     "createdAt": "2021-01-26T09:38:33Z"
   },
   {
@@ -44839,7 +44815,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 791,
+    "privateContributions": 1041,
     "publicContributions": 17,
     "createdAt": "2021-03-14T17:25:30Z"
   },
@@ -44864,7 +44840,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 38,
     "createdAt": "2021-04-28T21:30:58Z"
   },
   {
@@ -44899,7 +44875,7 @@
     "company": "@goldavenue ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 379,
+    "privateContributions": 934,
     "publicContributions": 0,
     "createdAt": "2021-04-15T10:47:16Z"
   },
@@ -44923,7 +44899,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 147,
+    "privateContributions": 217,
     "publicContributions": 16,
     "createdAt": "2021-03-31T11:44:09Z"
   },
