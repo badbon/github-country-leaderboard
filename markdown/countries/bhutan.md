@@ -22,8 +22,8 @@ Indexed users: 266
 | 8 | [PraMishra-s](https://github.com/PraMishra-s) | Pralad Mishra | Bhutan | 2,640 |
 | 9 | [sangayt1997](https://github.com/sangayt1997) | Sangay Thinley | Thimphu, Bhutan | 2,282 |
 | 10 | [Ugyenjigmerangdrel](https://github.com/Ugyenjigmerangdrel) | Ugyen Jigme Rangdrel | Bhutan | 2,268 |
-| 11 | [grey300](https://github.com/grey300) | Tshering Gyeltshen | Bhutan | 2,158 |
-| 12 | [SonamWangchuk77jr](https://github.com/SonamWangchuk77jr) | Sonam Wangchuk | Thimphu | 2,120 |
+| 11 | [SonamWangchuk77jr](https://github.com/SonamWangchuk77jr) | Sonam Wangchuk | Thimphu | 2,191 |
+| 12 | [grey300](https://github.com/grey300) | Tshering Gyeltshen | Bhutan | 2,158 |
 | 13 | [bugloper](https://github.com/bugloper) | Nima Yonten | Thimphu Babesa | 2,050 |
 | 14 | [ugyentenzin1](https://github.com/ugyentenzin1) | Ugyen Tenzin  | Thiimphu, Bhutan | 2,047 |
 | 15 | [jigmeloday](https://github.com/jigmeloday) | Jigme Lodey | Thimphu Bhutan | 1,981 |
@@ -39,8 +39,8 @@ Indexed users: 266
 |---:|---|---|---|---:|
 | 1 | [Kzoeps](https://github.com/Kzoeps) | Karma Zoepa Yoezer | Thimphu, Bhutan | 2,782 |
 | 2 | [Bomjan](https://github.com/Bomjan) | Sundra Builds | Thimphu | 1,041 |
-| 3 | [sangayt1997](https://github.com/sangayt1997) | Sangay Thinley | Thimphu, Bhutan | 1,012 |
-| 4 | [guruwangchuk7](https://github.com/guruwangchuk7) | Guru Wangchuk | Bhutan | 1,008 |
+| 3 | [guruwangchuk7](https://github.com/guruwangchuk7) | Guru Wangchuk | Bhutan | 1,031 |
+| 4 | [sangayt1997](https://github.com/sangayt1997) | Sangay Thinley | Thimphu, Bhutan | 1,012 |
 | 5 | [yesheytenzin](https://github.com/yesheytenzin) | Yeshey Tenzin | Thimphu, Bhutan | 949 |
 | 6 | [twangyel](https://github.com/twangyel) | Tandin Wangyel | Bhutan | 924 |
 | 7 | [Choedra](https://github.com/Choedra) | Choedra Gyamtsho | Chubachu, Thimphu | 460 |
@@ -83,4 +83,4 @@ Indexed users: 266
 | 19 | [TandinDev](https://github.com/TandinDev) | Tandin Tshewang | Thimphu | 23 |
 | 20 | [chimiWangchukWangdi](https://github.com/chimiWangchukWangdi) | Chimi Wangchuk Wangdi | Thimphu, Bhutan | 22 |
 
-Generated: 2026-10-22T08:15:36.853Z
+Generated: 2026-10-22T09:55:43.880Z

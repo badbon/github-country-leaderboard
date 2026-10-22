@@ -1,6 +1,6 @@
 # Albania
 
-Indexed users: 1,182
+Indexed users: 1,181
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 1,182
 | 19 | [SxtBox](https://github.com/SxtBox) | Albdroid.AL | Albania | 81 |
 | 20 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | Albania | 77 |
 
-Generated: 2026-10-22T08:08:38.855Z
+Generated: 2026-10-22T09:48:00.565Z

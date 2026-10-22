@@ -1,6 +1,6 @@
 # Total Contributions - Cambodia
 
-Generated: 2026-10-22T08:22:17.201Z
+Generated: 2026-10-22T10:00:48.594Z
 
 Users: 2859
 
@@ -22,7 +22,7 @@ Users: 2859
 | 14 | [Chinteyley](https://github.com/Chinteyley) | chintey |  | kimteyley | Cambodia | 5094 |
 | 15 | [kuth-chi](https://github.com/kuth-chi) | Kuth | EZ Startup |  | Cambodia | 5052 |
 | 16 | [sothea578](https://github.com/sothea578) | Nuon Sothea | Digital Government Committee, Cambodia |  | Phnom Penh, Cambodia | 5029 |
-| 17 | [tykealy](https://github.com/tykealy) | Tykea Ly | vtenh | tykeaboyloy | Phnom Penh, Cambodia | 4898 |
-| 18 | [DamonKert](https://github.com/DamonKert) | Damon | ARH Technology |  | Cambodia | 4762 |
+| 17 | [DamonKert](https://github.com/DamonKert) | Damon | ARH Technology |  | Cambodia | 4975 |
+| 18 | [tykealy](https://github.com/tykealy) | Tykea Ly | vtenh | tykeaboyloy | Phnom Penh, Cambodia | 4898 |
 | 19 | [pckimlong](https://github.com/pckimlong) | Kim |  |  | Cambodia | 4608 |
 | 20 | [mrrtmob](https://github.com/mrrtmob) | Tmob | Blizzer |  | Phnom penh, Cambodia | 4204 |

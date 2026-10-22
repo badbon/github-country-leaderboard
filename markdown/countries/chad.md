@@ -29,7 +29,7 @@ Indexed users: 201
 | 15 | [Mbaigo](https://github.com/Mbaigo) | Evrard | N'Djamena | 113 |
 | 16 | [Debeing](https://github.com/Debeing) | MBAITEL-AM MBAINAISSEM ERIC | Tchad | 103 |
 | 17 | [BenjosMB235](https://github.com/BenjosMB235) | MBAIRAM BENJAMIN BEASSOUM | N'djaména-Tchad | 89 |
-| 18 | [OumarChabakaOusmane](https://github.com/OumarChabakaOusmane) | oumar chabaka ousmane | Tchad | 82 |
+| 18 | [OumarChabakaOusmane](https://github.com/OumarChabakaOusmane) | oumar chabaka ousmane | Tchad | 80 |
 | 19 | [Muffinlavania](https://github.com/Muffinlavania) | Cristian S | chad | 60 |
 | 20 | [jethro-dev235](https://github.com/jethro-dev235) | BAOLEDJI DINGAM JETHRO | N'djamena | 57 |
 
@@ -51,7 +51,7 @@ Indexed users: 201
 | 12 | [Abdelkerim516](https://github.com/Abdelkerim516) | ABDEL_ABBO | N'djamena | 111 |
 | 13 | [Debeing](https://github.com/Debeing) | MBAITEL-AM MBAINAISSEM ERIC | Tchad | 103 |
 | 14 | [BenjosMB235](https://github.com/BenjosMB235) | MBAIRAM BENJAMIN BEASSOUM | N'djaména-Tchad | 89 |
-| 15 | [OumarChabakaOusmane](https://github.com/OumarChabakaOusmane) | oumar chabaka ousmane | Tchad | 81 |
+| 15 | [OumarChabakaOusmane](https://github.com/OumarChabakaOusmane) | oumar chabaka ousmane | Tchad | 79 |
 | 16 | [Muffinlavania](https://github.com/Muffinlavania) | Cristian S | chad | 60 |
 | 17 | [jethro-dev235](https://github.com/jethro-dev235) | BAOLEDJI DINGAM JETHRO | N'djamena | 57 |
 | 18 | [Yassine235](https://github.com/Yassine235) | Yassine | Tchad | 55 |
@@ -83,4 +83,4 @@ Indexed users: 201
 | 19 | [sulzokeboulin](https://github.com/sulzokeboulin) | Norma Brown | West Joshuaburgh, Chad | 8 |
 | 20 | [Floppinqq](https://github.com/Floppinqq) | Floppinqq | chad | 7 |
 
-Generated: 2026-10-22T08:25:12.764Z
+Generated: 2026-10-22T10:02:10.490Z

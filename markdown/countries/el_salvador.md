@@ -17,7 +17,7 @@ Indexed users: 2,378
 | 3 | [b-mendoza](https://github.com/b-mendoza) | Bryan Mendoza | San Salvador, El Salvador | 11,333 |
 | 4 | [Thrumanshow](https://github.com/Thrumanshow) | Cristhiam Leonardo Hernández Quiñonez  | El Salvador  | 10,394 |
 | 5 | [striker25](https://github.com/striker25) | Fernando Alvarado | El Salvador | 10,175 |
-| 6 | [jromerojarj](https://github.com/jromerojarj) | Jonathan Romero | San Salvador, El Salvador | 9,862 |
+| 6 | [jromerojarj](https://github.com/jromerojarj) | Jonathan Romero | San Salvador, El Salvador | 10,137 |
 | 7 | [sthbryan](https://github.com/sthbryan) | Bryan Villafuerte | El Salvador | 9,644 |
 | 8 | [MarvinQuevedo](https://github.com/MarvinQuevedo) | Marvin Quevedo | El Salvador | 7,596 |
 | 9 | [raarevalo96](https://github.com/raarevalo96) | Rodrigo Arévalo | San Salvador, El Salvador | 7,318 |
@@ -83,4 +83,4 @@ Indexed users: 2,378
 | 19 | [MiPrimerBitcoin](https://github.com/MiPrimerBitcoin) | Mi Primer Bitcoin El Salvador | El Salvador | 97 |
 | 20 | [davequinta](https://github.com/davequinta) | David Quintanilla | El Salvador | 95 |
 
-Generated: 2026-10-22T08:31:59.061Z
+Generated: 2026-10-22T10:09:09.149Z

@@ -1,6 +1,6 @@
 # Public Contributions - Turkmenistan
 
-Generated: 2026-10-22T08:01:02.126Z
+Generated: 2026-10-22T09:39:09.254Z
 
 Users: 501
 
@@ -10,15 +10,15 @@ Users: 501
 | 2 | [realmeylisdev](https://github.com/realmeylisdev) | Meylis |  | m_annagurbanov | Ashgabat, Turkmenistan | 4658 |
 | 3 | [TheSeydiCharyyev](https://github.com/TheSeydiCharyyev) | Seydi Charyyev | LFDT 2026 Mentee @hyperledger-identus |  | Mary city, Turkmenistan | 2087 |
 | 4 | [Nurik9292](https://github.com/Nurik9292) | Timur |  |  | Turkmenistan | 1720 |
-| 5 | [ez1z](https://github.com/ez1z) | Eziz Agamyradov |  |  | Turkmenabat, Turkmenistan | 1017 |
+| 5 | [ez1z](https://github.com/ez1z) | Eziz Agamyradov |  |  | Turkmenabat, Turkmenistan | 1021 |
 | 6 | [vbauerster](https://github.com/vbauerster) | Vladimir Bauer |  |  | Turkmenistan | 845 |
 | 7 | [Mekan-developer](https://github.com/Mekan-developer) | Mekan Agamyradov | LTM |  | Turkmenistan, Ashgabat | 763 |
 | 8 | [Bahram2006](https://github.com/Bahram2006) | Bahram Myradow | Freelance Fullstack Software Engineer |  | Turkmenistan | 701 |
-| 9 | [selbibegiyeva1](https://github.com/selbibegiyeva1) | Unite Venture | Unite Venture |  | Turkmenistan | 683 |
+| 9 | [selbibegiyeva1](https://github.com/selbibegiyeva1) | Unite Venture | Unite Venture |  | Turkmenistan | 679 |
 | 10 | [babamurad](https://github.com/babamurad) | Babamurad |  |  | Turkmenistan, Ashgabat | 583 |
 | 11 | [orazchollaev](https://github.com/orazchollaev) | Oraznyýaz Çollaýew | Sada Zehin |  | Turkmenistan, Ashgabat | 530 |
 | 12 | [suleymanmyradov](https://github.com/suleymanmyradov) | Suleyman Myradov | JAN Technology | M_Suleyman02 | Ashgabat, Turkmenistan | 480 |
-| 13 | [aynazar-sylyyew-dev](https://github.com/aynazar-sylyyew-dev) | TheAýnazarSylyýew | @Shapak-Apps |  | Turkmenistan | 403 |
+| 13 | [aynazar-sylyyew-dev](https://github.com/aynazar-sylyyew-dev) | TheAýnazarSylyýew | @Shapak-Apps |  | Turkmenistan | 408 |
 | 14 | [northernwolf00](https://github.com/northernwolf00) | Googa Dev |  | northernerwolf7 | Turkmenistan | 403 |
 | 15 | [azamatos](https://github.com/azamatos) | Azamat Jorayev |  |  | Ashgabat, Turkmenistan | 379 |
 | 16 | [atageldi194229](https://github.com/atageldi194229) | Atageldi |  |  | Ashgabat, Turkmenistan | 366 |

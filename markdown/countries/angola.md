@@ -1,6 +1,6 @@
 # Angola
 
-Indexed users: 2,498
+Indexed users: 2,499
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 2,498
 | 19 | [manuelernesto](https://github.com/manuelernesto) | Manuel Ernesto | Angola | 166 |
 | 20 | [AfonsoAfony](https://github.com/AfonsoAfony) | Afonso Narciso Da Silva | Luanda/Angola | 157 |
 
-Generated: 2026-10-22T08:10:42.793Z
+Generated: 2026-10-22T09:49:29.950Z

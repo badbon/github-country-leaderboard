@@ -51,10 +51,10 @@ Indexed users: 1,336
 | 12 | [SilasChalwe](https://github.com/SilasChalwe) | Silas Chalwe  | Zambia  | 742 |
 | 13 | [cephaschapa](https://github.com/cephaschapa) | Cephas Chapa | Zambia | 684 |
 | 14 | [Mukela12](https://github.com/Mukela12) | Mukela Katungu | Lusaka | 683 |
-| 15 | [simwawatim](https://github.com/simwawatim) | Timothy Simwawa | Lusaka, Zambia | 637 |
-| 16 | [mataa019](https://github.com/mataa019) | John Mataa | Zambia, Lusaka Province | 624 |
-| 17 | [wmweemba](https://github.com/wmweemba) | William .S. Mweemba | Lusaka, Zambia | 612 |
-| 18 | [Mwapsam](https://github.com/Mwapsam) | Samuel Chimfwembe | Zambia | 611 |
+| 15 | [Mwapsam](https://github.com/Mwapsam) | Samuel Chimfwembe | Zambia | 656 |
+| 16 | [simwawatim](https://github.com/simwawatim) | Timothy Simwawa | Lusaka, Zambia | 637 |
+| 17 | [mataa019](https://github.com/mataa019) | John Mataa | Zambia, Lusaka Province | 624 |
+| 18 | [wmweemba](https://github.com/wmweemba) | William .S. Mweemba | Lusaka, Zambia | 612 |
 | 19 | [c00p75](https://github.com/c00p75) | George M'sapenda | Lusaka, Zambia | 590 |
 | 20 | [marksikaundi](https://github.com/marksikaundi) | Mark Sikaundi | Zambia | 583 |
 
@@ -75,12 +75,12 @@ Indexed users: 1,336
 | 11 | [ElijahMwambazi](https://github.com/ElijahMwambazi) | Elijahhhh | Lusaka, Zambia | 124 |
 | 12 | [geraldmaboshe](https://github.com/geraldmaboshe) | Gerald Maboshe | Lusaka, Zambia | 116 |
 | 13 | [KayLemba](https://github.com/KayLemba) | Kalolo Chola Lemba | Lusaka, Zambia | 116 |
-| 14 | [twmbx](https://github.com/twmbx) | Twaambo Haamucenje | Ndola, Zambia | 111 |
-| 15 | [Beardless-sheik](https://github.com/Beardless-sheik) | Alick Nyirenda  | Lusaka, Zambia | 108 |
-| 16 | [YambwaImwaka](https://github.com/YambwaImwaka) | Yambwa Imwaka | Zambia | 108 |
-| 17 | [swengineermwi](https://github.com/swengineermwi) | Mwila B.K. | Zambia | 107 |
+| 14 | [swengineermwi](https://github.com/swengineermwi) | Mwila B.K. | Zambia | 116 |
+| 15 | [twmbx](https://github.com/twmbx) | Twaambo Haamucenje | Ndola, Zambia | 111 |
+| 16 | [Beardless-sheik](https://github.com/Beardless-sheik) | Alick Nyirenda  | Lusaka, Zambia | 108 |
+| 17 | [YambwaImwaka](https://github.com/YambwaImwaka) | Yambwa Imwaka | Zambia | 108 |
 | 18 | [blessedjasonmwanza](https://github.com/blessedjasonmwanza) | Blessed Jason Mwanza |  Lusaka, Zambia | 104 |
 | 19 | [Eathorne2](https://github.com/Eathorne2) | Eathorne | Lusaka, Zambia | 103 |
 | 20 | [kshula](https://github.com/kshula) | Kampamba Shula | Lusaka | 101 |
 
-Generated: 2026-10-22T08:05:58.035Z
+Generated: 2026-10-22T09:45:04.309Z

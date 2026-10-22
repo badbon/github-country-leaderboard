@@ -42,7 +42,7 @@ Indexed users: 3,864
 | 3 | [matovu-farid](https://github.com/matovu-farid) | Farid Matovu | Uganda | 5,929 |
 | 4 | [Baalmart](https://github.com/Baalmart) | Martin Bbaale | Kampala | 5,695 |
 | 5 | [BAGOMBEKA-JOB-DEV](https://github.com/BAGOMBEKA-JOB-DEV) | BAGOMBEKA JOB | KAMPALA, UGANDA | 4,890 |
-| 6 | [agabaandre](https://github.com/agabaandre) | Agaba Andre | Kampala | 3,882 |
+| 6 | [agabaandre](https://github.com/agabaandre) | Agaba Andre | Kampala | 3,685 |
 | 7 | [Mucunguzi256](https://github.com/Mucunguzi256) | Mucunguzi Moses | UGANDA | 3,545 |
 | 8 | [MUKE-coder](https://github.com/MUKE-coder) | MUKE JOHNBAPTIST | KAMPALA -UGANDA | 3,131 |
 | 9 | [judeotine](https://github.com/judeotine) | Judeotine | Uganda | 2,829 |
@@ -83,4 +83,4 @@ Indexed users: 3,864
 | 19 | [kallyas](https://github.com/kallyas) | Iden | Uganda | 190 |
 | 20 | [FahimWeblogicAndCyberTechnologies](https://github.com/FahimWeblogicAndCyberTechnologies) | FRANKLIN | Uganda | 186 |
 
-Generated: 2026-10-22T08:02:05.328Z
+Generated: 2026-10-22T09:40:48.709Z

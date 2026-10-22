@@ -1,6 +1,6 @@
 # Public Contributions - Uganda
 
-Generated: 2026-10-22T08:02:05.328Z
+Generated: 2026-10-22T09:40:48.709Z
 
 Users: 3864
 
@@ -11,7 +11,7 @@ Users: 3864
 | 3 | [matovu-farid](https://github.com/matovu-farid) | Farid Matovu | Dabblelab | matovu100 | Uganda | 5929 |
 | 4 | [Baalmart](https://github.com/Baalmart) | Martin Bbaale |  |  | Kampala | 5695 |
 | 5 | [BAGOMBEKA-JOB-DEV](https://github.com/BAGOMBEKA-JOB-DEV) | BAGOMBEKA JOB | @SMSONE  |  | KAMPALA, UGANDA | 4890 |
-| 6 | [agabaandre](https://github.com/agabaandre) | Agaba Andre |  |  | Kampala | 3882 |
+| 6 | [agabaandre](https://github.com/agabaandre) | Agaba Andre |  |  | Kampala | 3685 |
 | 7 | [Mucunguzi256](https://github.com/Mucunguzi256) | Mucunguzi Moses |  | mucu256 | UGANDA | 3545 |
 | 8 | [MUKE-coder](https://github.com/MUKE-coder) | MUKE JOHNBAPTIST | Deisishub Technologies | MJohnbaptist | KAMPALA -UGANDA | 3131 |
 | 9 | [judeotine](https://github.com/judeotine) | Judeotine |  | Judeotine | Uganda | 2829 |

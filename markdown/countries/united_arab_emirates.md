@@ -20,12 +20,12 @@ Indexed users: 4,209
 | 6 | [seyyedmuhamad](https://github.com/seyyedmuhamad) | Mohamad Mahdi Mohamadian | Dubai, United Arab Emirates | 15,453 |
 | 7 | [an-ivannikov](https://github.com/an-ivannikov) | Aleksandr Ivannikov | Abu Dhabi, UAE | 14,836 |
 | 8 | [rohingosling](https://github.com/rohingosling) | Rohin Gosling | United Arab Emirates | 14,288 |
-| 9 | [dev-juju](https://github.com/dev-juju) | Bomdi | Dubai, United Arab Emirates | 13,443 |
-| 10 | [Desouki27](https://github.com/Desouki27) | Mohamed Desouki | Dubai, United Arab Emirates | 12,906 |
-| 11 | [syymza](https://github.com/syymza) | Dani | Abu Dhabi, UAE | 11,227 |
-| 12 | [ankitmaheshwari-com](https://github.com/ankitmaheshwari-com) | Ankit Maheshwari | United Arab Emirates | 11,188 |
-| 13 | [AliRaZa1121](https://github.com/AliRaZa1121) | Ali RaZa | Dubai, United Arab Emirates | 10,914 |
-| 14 | [ahmadpx](https://github.com/ahmadpx) | Ahmed Abdallah | United Arab Emirates | 10,867 |
+| 9 | [ahmadpx](https://github.com/ahmadpx) | Ahmed Abdallah | United Arab Emirates | 13,880 |
+| 10 | [dev-juju](https://github.com/dev-juju) | Bomdi | Dubai, United Arab Emirates | 13,443 |
+| 11 | [Desouki27](https://github.com/Desouki27) | Mohamed Desouki | Dubai, United Arab Emirates | 12,906 |
+| 12 | [syymza](https://github.com/syymza) | Dani | Abu Dhabi, UAE | 11,227 |
+| 13 | [ankitmaheshwari-com](https://github.com/ankitmaheshwari-com) | Ankit Maheshwari | United Arab Emirates | 11,188 |
+| 14 | [AliRaZa1121](https://github.com/AliRaZa1121) | Ali RaZa | Dubai, United Arab Emirates | 10,914 |
 | 15 | [Massad](https://github.com/Massad) | Omar Masad | United Arab Emirates, Dubai | 10,605 |
 | 16 | [sdn0303](https://github.com/sdn0303) | sdn0303 | Silicon Oasis, Dubai, United Arab Emirates | 10,595 |
 | 17 | [ilyesm](https://github.com/ilyesm) | Ilyas Esmail | Dubai, United Arab Emirates | 10,574 |
@@ -83,4 +83,4 @@ Indexed users: 4,209
 | 19 | [yusufusta](https://github.com/yusufusta) | Yusuf Usta | Dubai, United Arab Emirates | 361 |
 | 20 | [garylab](https://github.com/garylab) | Gary Meng | Abu Dhabi, UAE | 360 |
 
-Generated: 2026-10-22T08:49:08.856Z
+Generated: 2026-10-22T09:41:05.121Z

@@ -1,12 +1,12 @@
 # Total Contributions - Benin
 
-Generated: 2026-10-22T08:14:44.168Z
+Generated: 2026-10-22T09:54:31.259Z
 
 Users: 471
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [SteveAsterAfovo](https://github.com/SteveAsterAfovo) | Steve Aster AFOVO | @ProGestionSoft  | SteveAsterAfovo | Abomey-Calavi, Benin | 17518 |
+| 1 | [SteveAsterAfovo](https://github.com/SteveAsterAfovo) | Steve Aster AFOVO | @ProGestionSoft  | SteveAsterAfovo | Abomey-Calavi, Benin | 17513 |
 | 2 | [Abdoul-wakilou](https://github.com/Abdoul-wakilou) | AbDev - Freelance | AbDev - Freelance | abdev229 | Cotonou, Benin | 9656 |
 | 3 | [nahim-salami](https://github.com/nahim-salami) | Nahim SALAMI | Ahime | salami_nahim | Benin | 9064 |
 | 4 | [blackdevfeldy](https://github.com/blackdevfeldy) | TOHOYESSOU Feldy |  |  | Cotonou, Benin | 7916 |
@@ -17,7 +17,7 @@ Users: 471
 | 9 | [Block67](https://github.com/Block67) | Rahamane ₿ODA |  | Ramane_Boda | Benin, Cotonou | 4289 |
 | 10 | [ludndev](https://github.com/ludndev) | Judicaël AHYI |  | JudicaelAhyi | Cotonou, Benin | 4063 |
 | 11 | [Richard6141](https://github.com/Richard6141) | Richard SALANON |  |  | Cotonou, Bénin | 4029 |
-| 12 | [iyosayi0x](https://github.com/iyosayi0x) | Iyosayi |  | iyosayi0x | Nigeria , Benin  | 3997 |
+| 12 | [iyosayi0x](https://github.com/iyosayi0x) | Iyosayi |  | iyosayi0x | Nigeria , Benin  | 3976 |
 | 13 | [Reqima-dev](https://github.com/Reqima-dev) | Abdul A. KONDO | Friym |  | Benin, Cotonou | 3973 |
 | 14 | [Yoannoza](https://github.com/Yoannoza) | Yoann OZA |  | yoannoza | Cotonou, Benin | 3885 |
 | 15 | [koladev32](https://github.com/koladev32) | Mangabo  Kolawole |  | koladev32 | Benin, Cotonou | 3840 |

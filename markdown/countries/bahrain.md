@@ -21,8 +21,8 @@ Indexed users: 727
 | 7 | [meshahid973](https://github.com/meshahid973) | meshahid.973 | bahrain | 6,274 |
 | 8 | [fairbird](https://github.com/fairbird) | RAED | Bahrain | 5,440 |
 | 9 | [zahidala](https://github.com/zahidala) | Zahid Allaulddin | Bahrain | 5,236 |
-| 10 | [xCuzSkillz](https://github.com/xCuzSkillz) | Ali M. | Bahrain | 5,032 |
-| 11 | [halalgami](https://github.com/halalgami) | Algam | Bahrain | 4,885 |
+| 10 | [halalgami](https://github.com/halalgami) | Algam | Bahrain | 5,036 |
+| 11 | [xCuzSkillz](https://github.com/xCuzSkillz) | Ali M. | Bahrain | 5,032 |
 | 12 | [kelvindecosta](https://github.com/kelvindecosta) | Kelvin DeCosta | Bahrain | 4,743 |
 | 13 | [iMythms](https://github.com/iMythms) | Mytham Jasim | Bahrain | 4,453 |
 | 14 | [UnbreakableMJ](https://github.com/UnbreakableMJ) | Mohamed Hammad | Bahrain | 4,347 |
@@ -43,7 +43,7 @@ Indexed users: 727
 | 4 | [UnbreakableMJ](https://github.com/UnbreakableMJ) | Mohamed Hammad | Bahrain | 2,837 |
 | 5 | [fatema-maitham](https://github.com/fatema-maitham) | Fatema Maitham | Bahrain | 2,693 |
 | 6 | [ov-tron](https://github.com/ov-tron) | ov - Tron | Amwaj, Bahrain | 2,115 |
-| 7 | [masterde](https://github.com/masterde) | Baker | Bahrain, Muharraq | 1,537 |
+| 7 | [masterde](https://github.com/masterde) | Baker | Bahrain, Muharraq | 1,566 |
 | 8 | [aldoyh](https://github.com/aldoyh) | Hasan AlDoy | Al Muharraq, Bahrain | 1,255 |
 | 9 | [sfoulad](https://github.com/sfoulad) | Sameh Foulad | Bahrain | 893 |
 | 10 | [read2see](https://github.com/read2see) | Husain Habib | Bahrain | 888 |
@@ -83,4 +83,4 @@ Indexed users: 727
 | 19 | [f-9t9it](https://github.com/f-9t9it) | 9T9 IT | Bahrain | 42 |
 | 20 | [masterde](https://github.com/masterde) | Baker | Bahrain, Muharraq | 41 |
 
-Generated: 2026-10-22T08:13:37.855Z
+Generated: 2026-10-22T09:53:06.175Z

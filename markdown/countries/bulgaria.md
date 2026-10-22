@@ -83,4 +83,4 @@ Indexed users: 14,066
 | 19 | [RadoRado](https://github.com/RadoRado) | Radoslav Georgiev | Sofia | 631 |
 | 20 | [narfbg](https://github.com/narfbg) | Andrey Andreev | Bulgaria | 601 |
 
-Generated: 2026-10-22T08:20:40.741Z
+Generated: 2026-10-22T09:59:28.810Z

@@ -1,6 +1,6 @@
 # Total Contributions - United Arab Emirates
 
-Generated: 2026-10-22T08:49:08.856Z
+Generated: 2026-10-22T09:41:05.121Z
 
 Users: 4209
 
@@ -14,12 +14,12 @@ Users: 4209
 | 6 | [seyyedmuhamad](https://github.com/seyyedmuhamad) | Mohamad Mahdi Mohamadian | Elegant Hoopoe |  | Dubai, United Arab Emirates | 15453 |
 | 7 | [an-ivannikov](https://github.com/an-ivannikov) | Aleksandr Ivannikov | @ivannikov-pro @sakiva-dev @hilum-tools |  | Abu Dhabi, UAE | 14836 |
 | 8 | [rohingosling](https://github.com/rohingosling) | Rohin Gosling |  | rohingosling | United Arab Emirates | 14288 |
-| 9 | [dev-juju](https://github.com/dev-juju) | Bomdi | Bomdisoft | bomdisoft | Dubai, United Arab Emirates | 13443 |
-| 10 | [Desouki27](https://github.com/Desouki27) | Mohamed Desouki | Deloitte |  | Dubai, United Arab Emirates | 12906 |
-| 11 | [syymza](https://github.com/syymza) | Dani | @alpheya |  | Abu Dhabi, UAE | 11227 |
-| 12 | [ankitmaheshwari-com](https://github.com/ankitmaheshwari-com) | Ankit Maheshwari |  |  | United Arab Emirates | 11188 |
-| 13 | [AliRaZa1121](https://github.com/AliRaZa1121) | Ali RaZa |  |  | Dubai, United Arab Emirates | 10914 |
-| 14 | [ahmadpx](https://github.com/ahmadpx) | Ahmed Abdallah | Seera \| Tajawal \| Almosafer |  | United Arab Emirates | 10867 |
+| 9 | [ahmadpx](https://github.com/ahmadpx) | Ahmed Abdallah | Seera \| Tajawal \| Almosafer |  | United Arab Emirates | 13880 |
+| 10 | [dev-juju](https://github.com/dev-juju) | Bomdi | Bomdisoft | bomdisoft | Dubai, United Arab Emirates | 13443 |
+| 11 | [Desouki27](https://github.com/Desouki27) | Mohamed Desouki | Deloitte |  | Dubai, United Arab Emirates | 12906 |
+| 12 | [syymza](https://github.com/syymza) | Dani | @alpheya |  | Abu Dhabi, UAE | 11227 |
+| 13 | [ankitmaheshwari-com](https://github.com/ankitmaheshwari-com) | Ankit Maheshwari |  |  | United Arab Emirates | 11188 |
+| 14 | [AliRaZa1121](https://github.com/AliRaZa1121) | Ali RaZa |  |  | Dubai, United Arab Emirates | 10914 |
 | 15 | [Massad](https://github.com/Massad) | Omar Masad | @testappio |  | United Arab Emirates, Dubai | 10605 |
 | 16 | [sdn0303](https://github.com/sdn0303) | sdn0303 | CODE ABYSS - FZCO | __sdn03 | Silicon Oasis, Dubai, United Arab Emirates | 10595 |
 | 17 | [ilyesm](https://github.com/ilyesm) | Ilyas Esmail | @vigilbase | ilyesm | Dubai, United Arab Emirates | 10574 |

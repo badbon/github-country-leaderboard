@@ -31,7 +31,7 @@ Indexed users: 677
 | 17 | [Einswilli](https://github.com/Einswilli) | #Einswilli | Lomé | 3,894 |
 | 18 | [Ygryan360](https://github.com/Ygryan360) | Rayane | Lomé, Togo | 3,626 |
 | 19 | [Giovidoh](https://github.com/Giovidoh) | ICGreborns | Lomé, Togo | 3,598 |
-| 20 | [Georginio-prod](https://github.com/Georginio-prod) | Georginio  | lomé-TOGO | 3,517 |
+| 20 | [Moubarakdev](https://github.com/Moubarakdev) | Moubarak KERIM | TOGO-Lomé | 3,497 |
 
 ## Public Contributions
 
@@ -40,9 +40,9 @@ Indexed users: 677
 | 1 | [MaximeKELI](https://github.com/MaximeKELI) | Maxime KELI | Lome,TOGO | 7,345 |
 | 2 | [hermannleboss](https://github.com/hermannleboss) | Hermann EHO | Lomé TOGO | 4,645 |
 | 3 | [EmD-228](https://github.com/EmD-228) | Kokou DENYO | Lome-Togo | 4,060 |
-| 4 | [Georginio-prod](https://github.com/Georginio-prod) | Georginio  | lomé-TOGO | 3,320 |
+| 4 | [Georginio-prod](https://github.com/Georginio-prod) | Georginio  | lomé-TOGO | 3,297 |
 | 5 | [Rahim10020](https://github.com/Rahim10020) | Rahim ALI | Lome -TOGO | 3,184 |
-| 6 | [GYFX35](https://github.com/GYFX35) | GOUNTANTE yendoukoa | Togo | 1,952 |
+| 6 | [GYFX35](https://github.com/GYFX35) | GOUNTANTE yendoukoa | Togo | 1,944 |
 | 7 | [ALBAN3886](https://github.com/ALBAN3886) | AET Technology  | Togo | 1,925 |
 | 8 | [horacioskrp](https://github.com/horacioskrp) | Kudayah Sassou Horacio Herve | Togo-Lomé  | 1,866 |
 | 9 | [Dreykovic](https://github.com/Dreykovic) | Birewa Audrey AMONA | Togo | 1,718 |
@@ -83,4 +83,4 @@ Indexed users: 677
 | 19 | [ica1010](https://github.com/ica1010) | Ghislin | Lomé , Togo | 66 |
 | 20 | [Maximekgn](https://github.com/Maximekgn) | KOGON Mawunygan Maxime | Togo | 63 |
 
-Generated: 2026-10-22T07:59:22.281Z
+Generated: 2026-10-22T09:37:03.720Z
