@@ -55,8 +55,8 @@ Indexed users: 19,620
 | 16 | [rob-smallshire](https://github.com/rob-smallshire) | Robert Smallshire | Oslo, Norway | 7,218 |
 | 17 | [MadsenDev](https://github.com/MadsenDev) | Christoffer Madsen | Norway | 6,813 |
 | 18 | [tmiland](https://github.com/tmiland) | Tommy Miland | Norway | 6,589 |
-| 19 | [eserlan](https://github.com/eserlan) | Espen Erlandsen | Oslo, Norway | 6,558 |
-| 20 | [leifericf](https://github.com/leifericf) | Leif Eric Fredheim | Oslo, Norway | 6,513 |
+| 19 | [aurorascharff](https://github.com/aurorascharff) | Aurora Scharff | Oslo, Norway | 6,565 |
+| 20 | [eserlan](https://github.com/eserlan) | Espen Erlandsen | Oslo, Norway | 6,558 |
 
 ## Followers
 
@@ -78,9 +78,9 @@ Indexed users: 19,620
 | 14 | [asmvik](https://github.com/asmvik) | Åsmund Vikane | Stavanger, Norway | 1,633 |
 | 15 | [Flangvik](https://github.com/Flangvik) | Melvin L | Norway | 1,446 |
 | 16 | [magnars](https://github.com/magnars) | Magnar Sveen | Oslo | 1,442 |
-| 17 | [kimocoder](https://github.com/kimocoder) | Christian <kimo> B. | Norway | 1,363 |
-| 18 | [mhadaily](https://github.com/mhadaily) | Majid Hajian | Oslo, Norway | 1,341 |
-| 19 | [SimenB](https://github.com/SimenB) | Simen Bekkhus | Oslo, Norway | 1,277 |
-| 20 | [aurorascharff](https://github.com/aurorascharff) | Aurora Scharff | Oslo, Norway | 1,275 |
+| 17 | [aurorascharff](https://github.com/aurorascharff) | Aurora Scharff | Oslo, Norway | 1,368 |
+| 18 | [kimocoder](https://github.com/kimocoder) | Christian <kimo> B. | Norway | 1,363 |
+| 19 | [mhadaily](https://github.com/mhadaily) | Majid Hajian | Oslo, Norway | 1,341 |
+| 20 | [SimenB](https://github.com/SimenB) | Simen Bekkhus | Oslo, Norway | 1,277 |
 
-Generated: 2026-10-22T19:44:54.588Z
+Generated: 2026-10-22T20:42:29.874Z

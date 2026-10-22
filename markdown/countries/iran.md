@@ -1,6 +1,6 @@
 # Iran
 
-Indexed users: 26,855
+Indexed users: 26,854
 
 | Leaderboard | Link |
 |---|---|
@@ -49,11 +49,11 @@ Indexed users: 26,855
 | 10 | [mohammadali-mousavireineh](https://github.com/mohammadali-mousavireineh) | Mohammadali Mousavireineh | Iran | 11,435 |
 | 11 | [HamiParsa](https://github.com/HamiParsa) | Hami | IRAN | 11,423 |
 | 12 | [crackbest](https://github.com/crackbest) | AliakbarAhmadi | iran | 10,506 |
-| 13 | [mheidari98](https://github.com/mheidari98) | Mahdi Heidari | Mazandaran, Iran | 8,490 |
-| 14 | [jiscop85](https://github.com/jiscop85) | jiscop85 | Iran,Tehran | 8,358 |
-| 15 | [davoudarsalani](https://github.com/davoudarsalani) | Davoud Arsalani | Iran | 7,301 |
-| 16 | [kamangir](https://github.com/kamangir) | Arash Abadpour | Tehran, Iran | 6,308 |
-| 17 | [AmirrezaFarnamTaheri](https://github.com/AmirrezaFarnamTaheri) | Farnam | Tehran | 5,975 |
+| 13 | [AmirrezaFarnamTaheri](https://github.com/AmirrezaFarnamTaheri) | Farnam | Tehran | 9,171 |
+| 14 | [mheidari98](https://github.com/mheidari98) | Mahdi Heidari | Mazandaran, Iran | 8,490 |
+| 15 | [jiscop85](https://github.com/jiscop85) | jiscop85 | Iran,Tehran | 8,358 |
+| 16 | [davoudarsalani](https://github.com/davoudarsalani) | Davoud Arsalani | Iran | 7,301 |
+| 17 | [kamangir](https://github.com/kamangir) | Arash Abadpour | Tehran, Iran | 6,308 |
 | 18 | [kamisaberi](https://github.com/kamisaberi) | kamran saberifard | iran | 5,624 |
 | 19 | [Karan-Safaie-Qadi](https://github.com/Karan-Safaie-Qadi) | Karan Safaie Qadi | iran, mazandaran | 5,202 |
 | 20 | [homow](https://github.com/homow) | Homayoun | iran | 4,992 |
@@ -83,4 +83,4 @@ Indexed users: 26,855
 | 19 | [abolfazl-shadrouh](https://github.com/abolfazl-shadrouh) | Abolfazl Shadrouh | Guilan, Iran | 1,388 |
 | 20 | [FarzaneF](https://github.com/FarzaneF) | Farzane Faizi | Shiraz,Iran | 1,352 |
 
-Generated: 2026-10-22T19:50:52.045Z
+Generated: 2026-10-22T20:27:13.791Z

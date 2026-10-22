@@ -50,8 +50,8 @@ Indexed users: 1,175
 | 11 | [Bernie-Dramos](https://github.com/Bernie-Dramos) | Bernardo E. Dramos Jr. | Mozambique | 721 |
 | 12 | [djafta](https://github.com/djafta) | Djafta | Mozambique | 681 |
 | 13 | [renzi-fidele-frontend](https://github.com/renzi-fidele-frontend) | Renzi Fidele | maputo, Mozambique | 648 |
-| 14 | [ArcidesFerrao](https://github.com/ArcidesFerrao) | Arcides Ferrao | Mozambique | 585 |
-| 15 | [carsaimz](https://github.com/carsaimz) | CarsaiMz | Mozambique | 569 |
+| 14 | [carsaimz](https://github.com/carsaimz) | CarsaiMz | Mozambique | 569 |
+| 15 | [ArcidesFerrao](https://github.com/ArcidesFerrao) | Arcides Ferrao | Mozambique | 551 |
 | 16 | [herquiloidehele](https://github.com/herquiloidehele) | Herquiloide Hele | Mocambique - Maputo | 548 |
 | 17 | [Eddy-Nhabinde](https://github.com/Eddy-Nhabinde) | Edmilson Nhabinde | Maputo, Mozambique | 540 |
 | 18 | [antonio-macave](https://github.com/antonio-macave) | António Macave | Maputo, Mozambique | 537 |
@@ -83,4 +83,4 @@ Indexed users: 1,175
 | 19 | [enoquetembe](https://github.com/enoquetembe) | Enoque Tembe | Maputo, Mozambique | 111 |
 | 20 | [mariomthree](https://github.com/mariomthree) | Mário M. Mabande | Maputo, Mozambique | 95 |
 
-Generated: 2026-10-22T19:42:26.292Z
+Generated: 2026-10-22T20:39:25.582Z

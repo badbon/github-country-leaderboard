@@ -1,12 +1,12 @@
 # Followers - Eswatini
 
-Generated: 2026-10-22T19:26:17.659Z
+Generated: 2026-10-22T20:21:49.067Z
 
 Users: 108
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [wandilemawelela](https://github.com/wandilemawelela) | Wandile Mawelela | Intuition | wandilemawelel | Manzini, Eswatini | 201 |
+| 1 | [wandilemawelela](https://github.com/wandilemawelela) | Wandile Mawelela | Intuition | wandilemawelel | Manzini, Eswatini | 200 |
 | 2 | [KDlamini](https://github.com/KDlamini) | Simo Dlamini | Capita Invest | realSimoNkosi | Mbabane, Eswatini | 78 |
 | 3 | [Njabulo240](https://github.com/Njabulo240) | Njabulo Mamba | RFK Solutions |  | Eswatini, Manzini | 37 |
 | 4 | [phume03](https://github.com/phume03) | Phumelela Mdluli | New Breed Designs (Unregistered) |  | Eswatini | 28 |

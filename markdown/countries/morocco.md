@@ -16,7 +16,7 @@ Indexed users: 9,612
 | 2 | [youssef-imlyhen](https://github.com/youssef-imlyhen) | usf | morocco | 16,489 |
 | 3 | [haytamnajim](https://github.com/haytamnajim) | Haitam Najim  | Casablanca, Morocco | 14,657 |
 | 4 | [lfarssi](https://github.com/lfarssi) | MOHAMED EL FARSSI  | Morocco | 12,618 |
-| 5 | [said-ait-ouakour](https://github.com/said-ait-ouakour) | sid__ | Morocco | 10,582 |
+| 5 | [said-ait-ouakour](https://github.com/said-ait-ouakour) | sid__ | Morocco | 10,994 |
 | 6 | [gl1tch496](https://github.com/gl1tch496) | GL1TCH | Based in Rabat, Morocco | 9,916 |
 | 7 | [fahdaguenouz](https://github.com/fahdaguenouz) | Fahd Aguenouz | Morocco | 8,956 |
 | 8 | [Afnisse](https://github.com/Afnisse) | Yassine Afnisse | Casablanca, Morocco | 8,258 |
@@ -83,4 +83,4 @@ Indexed users: 9,612
 | 19 | [DevOam](https://github.com/DevOam) | mohamed reda lakouas | Morocco | 818 |
 | 20 | [yassnemo](https://github.com/yassnemo) | Yassine Erradouani | Casablanca, Morocco | 738 |
 
-Generated: 2026-10-22T19:41:50.166Z
+Generated: 2026-10-22T20:37:29.965Z

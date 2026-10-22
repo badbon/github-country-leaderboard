@@ -1,8 +1,8 @@
 # Total Contributions - Ethiopia
 
-Generated: 2026-10-22T19:26:21.184Z
+Generated: 2026-10-22T20:22:16.379Z
 
-Users: 6666
+Users: 6665
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -13,7 +13,7 @@ Users: 6666
 | 5 | [Yab1](https://github.com/Yab1) | Yeabsera  |  |  | Ethiopia | 14365 |
 | 6 | [iamTadaeltadi](https://github.com/iamTadaeltadi) | Tadaeel Shewarega  | A2SV  |  | Ethiopia | 12603 |
 | 7 | [tolossamuel](https://github.com/tolossamuel) | Samuel Tolossa | ICog-Labs |  | Ethiopia | 12206 |
-| 8 | [tokukiyu](https://github.com/tokukiyu) | Tokuma Abdisa | Quantumkit |  | Addis Ababa | 11381 |
+| 8 | [tokukiyu](https://github.com/tokukiyu) | Tokuma Abdisa | Quantumkit |  | Addis Ababa | 11427 |
 | 9 | [shambel-amare](https://github.com/shambel-amare) | Shambel-Amare | Tworobots universe | shambelamare21 | Addis Ababa, Ethiopia | 10971 |
 | 10 | [Benomi](https://github.com/Benomi) | Binyam T. Fisseha |  |  | Addis Ababa, Ethiopia | 10687 |
 | 11 | [haxurn](https://github.com/haxurn) | Samson Tesfaye | @solvixteams | haxurn | Ethiopia, Addis Ababa | 10289 |

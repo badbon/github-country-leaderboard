@@ -1,6 +1,6 @@
 # Followers - Norway
 
-Generated: 2026-10-22T19:44:54.588Z
+Generated: 2026-10-22T20:42:29.874Z
 
 Users: 19620
 
@@ -22,7 +22,7 @@ Users: 19620
 | 14 | [asmvik](https://github.com/asmvik) | Åsmund Vikane |  |  | Stavanger, Norway | 1633 |
 | 15 | [Flangvik](https://github.com/Flangvik) | Melvin L | TrustedSec | Flangvik | Norway | 1446 |
 | 16 | [magnars](https://github.com/magnars) | Magnar Sveen | Mattilsynet |  | Oslo | 1442 |
-| 17 | [kimocoder](https://github.com/kimocoder) | Christian <kimo> B. | @aircrack-ng | kimocoder | Norway | 1363 |
-| 18 | [mhadaily](https://github.com/mhadaily) | Majid Hajian | Microsoft | mhadaily | Oslo, Norway | 1341 |
-| 19 | [SimenB](https://github.com/SimenB) | Simen Bekkhus | @cvpartner | SBekkhus | Oslo, Norway | 1277 |
-| 20 | [aurorascharff](https://github.com/aurorascharff) | Aurora Scharff | Vercel | aurorascharff | Oslo, Norway | 1275 |
+| 17 | [aurorascharff](https://github.com/aurorascharff) | Aurora Scharff | Vercel | aurorascharff | Oslo, Norway | 1368 |
+| 18 | [kimocoder](https://github.com/kimocoder) | Christian <kimo> B. | @aircrack-ng | kimocoder | Norway | 1363 |
+| 19 | [mhadaily](https://github.com/mhadaily) | Majid Hajian | Microsoft | mhadaily | Oslo, Norway | 1341 |
+| 20 | [SimenB](https://github.com/SimenB) | Simen Bekkhus | @cvpartner | SBekkhus | Oslo, Norway | 1277 |

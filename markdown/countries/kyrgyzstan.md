@@ -76,11 +76,11 @@ Indexed users: 2,439
 | 12 | [zhanybekovich](https://github.com/zhanybekovich) | Mirlan Urzhanov | Karakol, Kyrgyzstan | 116 |
 | 13 | [NuraiymMamatova](https://github.com/NuraiymMamatova) | Nuraiym | Kyrgyzstan | 113 |
 | 14 | [Turatkg](https://github.com/Turatkg) | Turat Alybaev | Kyrgyzstan | 113 |
-| 15 | [bmamatkadyr](https://github.com/bmamatkadyr) | beks | Bishkek | 111 |
-| 16 | [AlexanderBagel](https://github.com/AlexanderBagel) | Alexander (Rouse_) Bagel | Bishkek | 110 |
+| 15 | [AlexanderBagel](https://github.com/AlexanderBagel) | Alexander (Rouse_) Bagel | Bishkek | 110 |
+| 16 | [bmamatkadyr](https://github.com/bmamatkadyr) | beks | Bishkek | 110 |
 | 17 | [5ekastanx](https://github.com/5ekastanx) | bekastan | Osh \| Kyrgyzstan | 106 |
 | 18 | [bashu](https://github.com/bashu) | Basil Sh. | Bishkek, Kyrgyzstan | 105 |
 | 19 | [eszdman](https://github.com/eszdman) |  | Kyrgyzstan | 103 |
 | 20 | [Elkhan2003](https://github.com/Elkhan2003) | Elkhan Sharshenbekov | Karakol, Kyrgyzstan | 102 |
 
-Generated: 2026-10-22T19:35:28.149Z
+Generated: 2026-10-22T20:31:58.627Z

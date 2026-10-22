@@ -25,7 +25,7 @@ Indexed users: 1,070
 | 11 | [gonzalezulises](https://github.com/gonzalezulises) | Ulises Gonzalez | Panama | 10,582 |
 | 12 | [lexjm](https://github.com/lexjm) | Alexander  | Panama City, Panama | 9,759 |
 | 13 | [bgawne](https://github.com/bgawne) | Brad Gawne | Panama | 9,524 |
-| 14 | [captainsparrow10](https://github.com/captainsparrow10) | Javier Acosta Tullock | Panama | 8,854 |
+| 14 | [captainsparrow10](https://github.com/captainsparrow10) | Javier Acosta Tullock | Panama | 9,136 |
 | 15 | [atomikigai](https://github.com/atomikigai) | Jostick Quiel | Panama | 8,158 |
 | 16 | [dashboardtech](https://github.com/dashboardtech) | Frederick Roberts | Panama | 8,124 |
 | 17 | [cabe56](https://github.com/cabe56) | Jose Varela | Panama City, Panama | 7,488 |
@@ -83,4 +83,4 @@ Indexed users: 1,070
 | 19 | [Commandtechno](https://github.com/Commandtechno) | Techno | David, Panama | 49 |
 | 20 | [jebberjeb](https://github.com/jebberjeb) | Jeb Beich | Panama City, FL | 48 |
 
-Generated: 2026-10-22T19:45:47.125Z
+Generated: 2026-10-22T20:44:02.538Z

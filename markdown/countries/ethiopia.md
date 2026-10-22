@@ -1,6 +1,6 @@
 # Ethiopia
 
-Indexed users: 6,666
+Indexed users: 6,665
 
 | Leaderboard | Link |
 |---|---|
@@ -19,7 +19,7 @@ Indexed users: 6,666
 | 5 | [Yab1](https://github.com/Yab1) | Yeabsera  | Ethiopia | 14,365 |
 | 6 | [iamTadaeltadi](https://github.com/iamTadaeltadi) | Tadaeel Shewarega  | Ethiopia | 12,603 |
 | 7 | [tolossamuel](https://github.com/tolossamuel) | Samuel Tolossa | Ethiopia | 12,206 |
-| 8 | [tokukiyu](https://github.com/tokukiyu) | Tokuma Abdisa | Addis Ababa | 11,381 |
+| 8 | [tokukiyu](https://github.com/tokukiyu) | Tokuma Abdisa | Addis Ababa | 11,427 |
 | 9 | [shambel-amare](https://github.com/shambel-amare) | Shambel-Amare | Addis Ababa, Ethiopia | 10,971 |
 | 10 | [Benomi](https://github.com/Benomi) | Binyam T. Fisseha | Addis Ababa, Ethiopia | 10,687 |
 | 11 | [haxurn](https://github.com/haxurn) | Samson Tesfaye | Ethiopia, Addis Ababa | 10,289 |
@@ -83,4 +83,4 @@ Indexed users: 6,666
 | 19 | [yonasleykun27](https://github.com/yonasleykun27) | Yonas Leykun | Addis Ababa, Ethiopia  | 511 |
 | 20 | [Olyadtemesgen](https://github.com/Olyadtemesgen) | Olyad Temesgen Amsalu | Addis Ababa, Ethiopia | 501 |
 
-Generated: 2026-10-22T19:26:21.184Z
+Generated: 2026-10-22T20:22:16.379Z

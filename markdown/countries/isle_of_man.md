@@ -16,7 +16,7 @@ Indexed users: 155
 | 2 | [auberryberry](https://github.com/auberryberry) | Aubrey Stearn | Isle of Man | 10,456 |
 | 3 | [bengris32](https://github.com/bengris32) | Ben | Isle of Man | 8,477 |
 | 4 | [darrenbarklie](https://github.com/darrenbarklie) | Darren Barklie | Isle of Man | 4,498 |
-| 5 | [tekminewe](https://github.com/tekminewe) | Ewe Tek Min | Isle of Man | 3,719 |
+| 5 | [tekminewe](https://github.com/tekminewe) | Ewe Tek Min | Isle of Man | 3,727 |
 | 6 | [oliciv](https://github.com/oliciv) | Oli Allen | Isle of Man | 2,354 |
 | 7 | [dive](https://github.com/dive) | Artem Loenko | Isle of Man | 2,177 |
 | 8 | [lukawarren](https://github.com/lukawarren) | Luka Warren | Isle of Man | 1,989 |
@@ -29,9 +29,9 @@ Indexed users: 155
 | 15 | [tonypartridge](https://github.com/tonypartridge) | Tony Partridge | Isle of Man | 1,249 |
 | 16 | [allantrabuco](https://github.com/allantrabuco) | Allan Trabuco | Isle of Man | 1,218 |
 | 17 | [Gwiilo](https://github.com/Gwiilo) | Gwilo | Isle of Man | 1,211 |
-| 18 | [mattwilson02](https://github.com/mattwilson02) | Matt Wilson | Isle of Man | 1,126 |
-| 19 | [dannmat](https://github.com/dannmat) | Matt Ward | Isle of Man | 1,080 |
-| 20 | [jonnyirwin](https://github.com/jonnyirwin) | Jonny Irwin | Isle of Man | 1,077 |
+| 18 | [AshLeece](https://github.com/AshLeece) | Ash Leece | Isle of Man | 1,136 |
+| 19 | [mattwilson02](https://github.com/mattwilson02) | Matt Wilson | Isle of Man | 1,126 |
+| 20 | [dannmat](https://github.com/dannmat) | Matt Ward | Isle of Man | 1,081 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 155
 | 19 | [lwangenheim](https://github.com/lwangenheim) | Lee Wangenheim | Isle of Man | 19 |
 | 20 | [DanAnkers](https://github.com/DanAnkers) | Daniel Ankers | Isle of Man | 18 |
 
-Generated: 2026-10-22T19:31:27.061Z
+Generated: 2026-10-22T20:28:41.243Z

@@ -1,8 +1,8 @@
 # Public Contributions - Iran
 
-Generated: 2026-10-22T19:50:52.045Z
+Generated: 2026-10-22T20:27:13.791Z
 
-Users: 26855
+Users: 26854
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -18,11 +18,11 @@ Users: 26855
 | 10 | [mohammadali-mousavireineh](https://github.com/mohammadali-mousavireineh) | Mohammadali Mousavireineh | Rayan programming education center |  | Iran | 11435 |
 | 11 | [HamiParsa](https://github.com/HamiParsa) | Hami |  |  | IRAN | 11423 |
 | 12 | [crackbest](https://github.com/crackbest) | AliakbarAhmadi |  |  | iran | 10506 |
-| 13 | [mheidari98](https://github.com/mheidari98) | Mahdi Heidari | Isfahan University of Technology |  | Mazandaran, Iran | 8490 |
-| 14 | [jiscop85](https://github.com/jiscop85) | jiscop85 | Prosha |  | Iran,Tehran | 8358 |
-| 15 | [davoudarsalani](https://github.com/davoudarsalani) | Davoud Arsalani |  |  | Iran | 7301 |
-| 16 | [kamangir](https://github.com/kamangir) | Arash Abadpour | Kamangir.net |  | Tehran, Iran | 6308 |
-| 17 | [AmirrezaFarnamTaheri](https://github.com/AmirrezaFarnamTaheri) | Farnam |  |  | Tehran | 5975 |
+| 13 | [AmirrezaFarnamTaheri](https://github.com/AmirrezaFarnamTaheri) | Farnam |  |  | Tehran | 9171 |
+| 14 | [mheidari98](https://github.com/mheidari98) | Mahdi Heidari | Isfahan University of Technology |  | Mazandaran, Iran | 8490 |
+| 15 | [jiscop85](https://github.com/jiscop85) | jiscop85 | Prosha |  | Iran,Tehran | 8358 |
+| 16 | [davoudarsalani](https://github.com/davoudarsalani) | Davoud Arsalani |  |  | Iran | 7301 |
+| 17 | [kamangir](https://github.com/kamangir) | Arash Abadpour | Kamangir.net |  | Tehran, Iran | 6308 |
 | 18 | [kamisaberi](https://github.com/kamisaberi) | kamran saberifard | aryorithm |  | iran | 5624 |
 | 19 | [Karan-Safaie-Qadi](https://github.com/Karan-Safaie-Qadi) | Karan Safaie Qadi |  |  | iran, mazandaran | 5202 |
 | 20 | [homow](https://github.com/homow) | Homayoun | @AdexOfficial1 |  | iran | 4992 |

@@ -1,6 +1,6 @@
 # Public Contributions - Norway
 
-Generated: 2026-10-22T19:44:54.588Z
+Generated: 2026-10-22T20:42:29.874Z
 
 Users: 19620
 
@@ -24,5 +24,5 @@ Users: 19620
 | 16 | [rob-smallshire](https://github.com/rob-smallshire) | Robert Smallshire | @sixty-north  | robsmallshire | Oslo, Norway | 7218 |
 | 17 | [MadsenDev](https://github.com/MadsenDev) | Christoffer Madsen | Madsen Development |  | Norway | 6813 |
 | 18 | [tmiland](https://github.com/tmiland) | Tommy Miland |  |  | Norway | 6589 |
-| 19 | [eserlan](https://github.com/eserlan) | Espen Erlandsen |  |  | Oslo, Norway | 6558 |
-| 20 | [leifericf](https://github.com/leifericf) | Leif Eric Fredheim | Funcom |  | Oslo, Norway | 6513 |
+| 19 | [aurorascharff](https://github.com/aurorascharff) | Aurora Scharff | Vercel | aurorascharff | Oslo, Norway | 6565 |
+| 20 | [eserlan](https://github.com/eserlan) | Espen Erlandsen |  |  | Oslo, Norway | 6558 |

@@ -37,7 +37,7 @@ Indexed users: 354
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [hadithmv](https://github.com/hadithmv) | Mohamed Ashraaf Ibrahim | Malé, Maldives | 1,563 |
+| 1 | [hadithmv](https://github.com/hadithmv) | Mohamed Ashraaf Ibrahim | Malé, Maldives | 1,559 |
 | 2 | [nedanwr](https://github.com/nedanwr) | Naveed Ali Anwar | Male', Maldives | 1,331 |
 | 3 | [72sevenzy2](https://github.com/72sevenzy2) | 72 | malé, maldives  | 1,312 |
 | 4 | [hilarl](https://github.com/hilarl) | Hilal Agil | Male', Maldives | 1,307 |
@@ -49,7 +49,7 @@ Indexed users: 354
 | 10 | [chipaau](https://github.com/chipaau) | ahmed shifau | Maldives | 677 |
 | 11 | [fallenbagel](https://github.com/fallenbagel) |  | Maldives | 634 |
 | 12 | [N4ZEN](https://github.com/N4ZEN) | Naza | Maldives | 498 |
-| 13 | [xSil3nt](https://github.com/xSil3nt) | Shazin | Male', Maldives | 422 |
+| 13 | [xSil3nt](https://github.com/xSil3nt) | Shazin | Male', Maldives | 428 |
 | 14 | [Ghoul4500](https://github.com/Ghoul4500) | Ahmed Yaseen | Maldives | 409 |
 | 15 | [M-IYAAADH](https://github.com/M-IYAAADH) | Mohamed Iyaadh | Male' , Maldives | 366 |
 | 16 | [hailam](https://github.com/hailam) | Mohamed Hailam Ahmed | Male`, Maldives | 309 |
@@ -83,4 +83,4 @@ Indexed users: 354
 | 19 | [muhannad0](https://github.com/muhannad0) | Monde | Maldives | 42 |
 | 20 | [inash](https://github.com/inash) | Inash Zubair | Male', Maldives | 41 |
 
-Generated: 2026-10-22T19:38:30.004Z
+Generated: 2026-10-22T20:34:57.469Z

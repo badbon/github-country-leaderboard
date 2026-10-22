@@ -1,6 +1,6 @@
 # Total Contributions - Iceland
 
-Generated: 2026-10-22T19:31:07.752Z
+Generated: 2026-10-22T20:27:07.255Z
 
 Users: 1579
 
@@ -11,9 +11,9 @@ Users: 1579
 | 3 | [Magnussmari](https://github.com/Magnussmari) | Magnús Smári Smárason |  |  | Akureyri, Iceland | 17001 |
 | 4 | [padresmurfa](https://github.com/padresmurfa) | David Hermann Brandt |  |  | Reykjavík, Iceland | 15224 |
 | 5 | [tylerelias](https://github.com/tylerelias) | Tyler |  |  | Iceland | 14782 |
-| 6 | [valurhrafn](https://github.com/valurhrafn) | Valur Hrafn Einarsson | Loaloa |  | Reykjavík, Iceland | 13646 |
-| 7 | [rbjarnason](https://github.com/rbjarnason) | Róbert Viðar Bjarnason | Citizens Foundation |  | Iceland | 13477 |
-| 8 | [asgeirtj](https://github.com/asgeirtj) | Ásgeir Thor Johnson |  |  | Iceland | 12951 |
+| 6 | [asgeirtj](https://github.com/asgeirtj) | Ásgeir Thor Johnson |  |  | Iceland | 13984 |
+| 7 | [valurhrafn](https://github.com/valurhrafn) | Valur Hrafn Einarsson | Loaloa |  | Reykjavík, Iceland | 13646 |
+| 8 | [rbjarnason](https://github.com/rbjarnason) | Róbert Viðar Bjarnason | Citizens Foundation |  | Iceland | 13477 |
 | 9 | [Chipcius](https://github.com/Chipcius) | Andri Thorlacius | @Daveloehf  | Chipcius | Reykjavik, Iceland | 12623 |
 | 10 | [bgunnarsson](https://github.com/bgunnarsson) | B. Gunnarsson | @Vettvangur  | bgunnarssonis | Iceland | 11601 |
 | 11 | [DavidBachmann](https://github.com/DavidBachmann) | Davíð Bachmann | @aranja  |  | Iceland | 9699 |

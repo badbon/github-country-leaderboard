@@ -1,6 +1,6 @@
 # Total Contributions - Liberia
 
-Generated: 2026-10-22T19:36:51.314Z
+Generated: 2026-10-22T20:32:56.021Z
 
 Users: 210
 
@@ -16,8 +16,8 @@ Users: 210
 | 8 | [priceflex](https://github.com/priceflex) | Steven Price | Tech Rockstars |  | Monrovia, CA | 1517 |
 | 9 | [timtjoe](https://github.com/timtjoe) | Tim T. Joe |  |  | Liberia, West Africa | 1429 |
 | 10 | [arunponnappan](https://github.com/arunponnappan) | Arun P |  |  | Monrovia | 1410 |
-| 11 | [Carlostala04](https://github.com/Carlostala04) | Carlos Talavera |  |  | Liberia | 1142 |
-| 12 | [mdsomah](https://github.com/mdsomah) | Mesheal D. Somah Sr. |  | mdsomah | Monrovia, Liberia | 1106 |
+| 11 | [mdsomah](https://github.com/mdsomah) | Mesheal D. Somah Sr. |  | mdsomah | Monrovia, Liberia | 1250 |
+| 12 | [Carlostala04](https://github.com/Carlostala04) | Carlos Talavera |  |  | Liberia | 1142 |
 | 13 | [KalevRK](https://github.com/KalevRK) | Kalev Roomann-Kurrik |  |  | Monrovia, CA | 881 |
 | 14 | [stenson](https://github.com/stenson) | Rob Stenson | @goodhertz  | robstenson | Monrovia, CA | 867 |
 | 15 | [daddysboy21](https://github.com/daddysboy21) | daddysboy.21 | LoneScore | daddys_boy_21 | Monrovia, Liberia | 843 |

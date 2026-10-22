@@ -1,12 +1,12 @@
 # Public Contributions - Maldives
 
-Generated: 2026-10-22T19:38:30.004Z
+Generated: 2026-10-22T20:34:57.469Z
 
 Users: 354
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [hadithmv](https://github.com/hadithmv) | Mohamed Ashraaf Ibrahim | Hadithmv | hadithmv | Malé, Maldives | 1563 |
+| 1 | [hadithmv](https://github.com/hadithmv) | Mohamed Ashraaf Ibrahim | Hadithmv | hadithmv | Malé, Maldives | 1559 |
 | 2 | [nedanwr](https://github.com/nedanwr) | Naveed Ali Anwar | Self-Employed | nedanwr | Male', Maldives | 1331 |
 | 3 | [72sevenzy2](https://github.com/72sevenzy2) | 72 | CampaignityAI | 72sevenzy2 | malé, maldives  | 1312 |
 | 4 | [hilarl](https://github.com/hilarl) | Hilal Agil |  | hilaarl | Male', Maldives | 1307 |
@@ -18,7 +18,7 @@ Users: 354
 | 10 | [chipaau](https://github.com/chipaau) | ahmed shifau |  |  | Maldives | 677 |
 | 11 | [fallenbagel](https://github.com/fallenbagel) |  |  |  | Maldives | 634 |
 | 12 | [N4ZEN](https://github.com/N4ZEN) | Naza |  |  | Maldives | 498 |
-| 13 | [xSil3nt](https://github.com/xSil3nt) | Shazin |  |  | Male', Maldives | 422 |
+| 13 | [xSil3nt](https://github.com/xSil3nt) | Shazin |  |  | Male', Maldives | 428 |
 | 14 | [Ghoul4500](https://github.com/Ghoul4500) | Ahmed Yaseen | OXIQA |  | Maldives | 409 |
 | 15 | [M-IYAAADH](https://github.com/M-IYAAADH) | Mohamed Iyaadh |  |  | Male' , Maldives | 366 |
 | 16 | [hailam](https://github.com/hailam) | Mohamed Hailam Ahmed |  |  | Male`, Maldives | 309 |

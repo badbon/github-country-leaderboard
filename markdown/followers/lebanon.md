@@ -1,6 +1,6 @@
 # Followers - Lebanon
 
-Generated: 2026-10-22T19:36:27.941Z
+Generated: 2026-10-22T20:32:08.074Z
 
 Users: 2557
 

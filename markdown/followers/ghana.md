@@ -1,6 +1,6 @@
 # Followers - Ghana
 
-Generated: 2026-10-22T19:27:25.688Z
+Generated: 2026-10-22T20:24:23.906Z
 
 Users: 7075
 

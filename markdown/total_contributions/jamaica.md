@@ -1,6 +1,6 @@
 # Total Contributions - Jamaica
 
-Generated: 2026-10-22T19:33:13.070Z
+Generated: 2026-10-22T20:29:20.375Z
 
 Users: 1271
 
@@ -8,7 +8,7 @@ Users: 1271
 |---:|---|---|---|---|---|---:|
 | 1 | [gordonswaby](https://github.com/gordonswaby) | EduFocal | EduFocal Limited |  | Kingston, Jamaica  | 43963 |
 | 2 | [slocker3](https://github.com/slocker3) | Stephen Locker |  |  | Kingston, WA | 15880 |
-| 3 | [alexarthurs](https://github.com/alexarthurs) | Alex Arthurs |  |  | Kingston, Ontario | 12442 |
+| 3 | [alexarthurs](https://github.com/alexarthurs) | Alex Arthurs |  |  | Kingston, Ontario | 13899 |
 | 4 | [SirFitz](https://github.com/SirFitz) | Romario Fitzgerald | NCB Capital Markets |  | Jamaica | 11499 |
 | 5 | [eforth](https://github.com/eforth) | Ervin Forth | Healthcare EQ | ErvinForth | Jamaica | 9217 |
 | 6 | [kenoButler](https://github.com/kenoButler) | KenoB |  |  | Kingston, Jamaica | 8803 |

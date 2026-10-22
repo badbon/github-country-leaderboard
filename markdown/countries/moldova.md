@@ -21,7 +21,7 @@ Indexed users: 1,746
 | 7 | [dotteamdev](https://github.com/dotteamdev) | Dan Oistric | Moldova | 7,420 |
 | 8 | [kneazy](https://github.com/kneazy) | Vitalie | Moldova, Chisinau  | 6,940 |
 | 9 | [deniscuciuc](https://github.com/deniscuciuc) | Denis Cuciuc | Moldova | 6,898 |
-| 10 | [pv-a-ilievici](https://github.com/pv-a-ilievici) | Andrei Ilievici | Chisinau, Moldova | 6,398 |
+| 10 | [pv-a-ilievici](https://github.com/pv-a-ilievici) | Andrei Ilievici | Chisinau, Moldova | 6,573 |
 | 11 | [mtkachenk0](https://github.com/mtkachenk0) | Maxim Tkachenko | Chisinau, Moldova | 6,392 |
 | 12 | [stephen-golban](https://github.com/stephen-golban) | Stephen G | Moldova | 5,977 |
 | 13 | [sebsti5](https://github.com/sebsti5) | Sebastian | Moldova 🇲🇩 | 5,706 |
@@ -83,4 +83,4 @@ Indexed users: 1,746
 | 19 | [vgaidarji](https://github.com/vgaidarji) | Veaceslav Gaidarji | Moldova | 114 |
 | 20 | [Ernest96](https://github.com/Ernest96) | Ernest | Chisinau Moldova | 107 |
 
-Generated: 2026-10-22T19:40:50.086Z
+Generated: 2026-10-22T20:37:05.664Z
