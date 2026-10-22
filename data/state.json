@@ -209501,7 +209501,8 @@
           "term": "Warsaw",
           "kind": "city",
           "createdStart": "2008-12-31",
-          "createdEnd": "2009-12-30"
+          "createdEnd": "2009-12-30",
+          "page": 1
         },
         {
           "country": "poland",
@@ -211009,7 +211010,7 @@
           "kept": 9
         }
       },
-      "lastDiscoveryAt": "2026-10-22T16:00:56.009Z",
+      "lastDiscoveryAt": "2026-10-22T16:07:51.791Z",
       "lastDiscoveryCompletedAt": null,
       "discoveryQueuedThrough": "2026-05-12",
       "lastCacheChangeAt": "2026-10-22T16:00:56.009Z",
@@ -211018,9 +211019,9 @@
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 2947,
+        "searchRequests": 2948,
         "enrichmentRequests": 3702,
-        "usersDiscovered": 268543,
+        "usersDiscovered": 268643,
         "usersEnriched": 71598,
         "usersRefreshed": 0,
         "usersKept": 57724
@@ -218929,7 +218930,7 @@
           "kept": 5
         }
       },
-      "lastDiscoveryAt": "2026-10-22T16:01:23.216Z",
+      "lastDiscoveryAt": "2026-10-22T16:08:15.789Z",
       "lastDiscoveryCompletedAt": null,
       "discoveryQueuedThrough": "2026-05-12",
       "lastCacheChangeAt": "2026-10-22T09:46:30.595Z",
@@ -218938,9 +218939,9 @@
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 2947,
+        "searchRequests": 2948,
         "enrichmentRequests": 4175,
-        "usersDiscovered": 116954,
+        "usersDiscovered": 116959,
         "usersEnriched": 81731,
         "usersRefreshed": 0,
         "usersKept": 65023
@@ -236156,20 +236157,20 @@
       "lastDiscoveryAt": "2026-10-22T07:20:04.909Z",
       "lastDiscoveryCompletedAt": "2026-08-16T04:08:53.322Z",
       "discoveryQueuedThrough": "2026-07-21",
-      "lastCacheChangeAt": "2026-10-22T15:07:02.246Z",
+      "lastCacheChangeAt": "2026-10-22T16:07:57.056Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": "2026-10-22T13:30:05.104Z",
       "lastError": null,
       "stats": {
         "searchRequests": 81,
-        "enrichmentRequests": 234,
+        "enrichmentRequests": 235,
         "usersDiscovered": 629,
-        "usersEnriched": 4190,
-        "usersRefreshed": 3561,
+        "usersEnriched": 4210,
+        "usersRefreshed": 3581,
         "usersKept": 442
       },
-      "refreshCursor": 20
+      "refreshCursor": 40
     },
     "singapore": {
       "slug": "singapore",
@@ -237965,7 +237966,7 @@
       "lastError": {
         "message": "Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.",
         "status": null,
-        "at": "2026-10-22T15:07:32.371Z"
+        "at": "2026-10-22T16:08:54.090Z"
       },
       "stats": {
         "searchRequests": 687,
@@ -301097,18 +301098,18 @@
       "refreshCursor": 360
     }
   },
-  "nextCountryIndex": 153,
+  "nextCountryIndex": 182,
   "nextDeltaCountryIndex": 121,
-  "nextRefreshCountryIndex": 198,
+  "nextRefreshCountryIndex": 200,
   "nextRediscoveryCountryIndex": 0,
-  "lastRunStartedAt": "2026-10-22T15:49:31.012Z",
-  "lastRunFinishedAt": "2026-10-22T16:06:22.429Z",
+  "lastRunStartedAt": "2026-10-22T16:07:05.841Z",
+  "lastRunFinishedAt": "2026-10-22T16:08:54.147Z",
   "stats": {
-    "searchRequests": 89234,
-    "enrichmentRequests": 234105,
-    "usersDiscovered": 5763082,
-    "usersEnriched": 4414174,
-    "usersRefreshed": 752534,
+    "searchRequests": 89236,
+    "enrichmentRequests": 234106,
+    "usersDiscovered": 5763187,
+    "usersEnriched": 4414194,
+    "usersRefreshed": 752554,
     "usersKept": 2716777
   }
 }
