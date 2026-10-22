@@ -1,13 +1,13 @@
 # Public Contributions - Faroe Islands
 
-Generated: 2026-10-22T01:48:53.982Z
+Generated: 2026-10-22T05:16:56.242Z
 
 Users: 68
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [hoegnason](https://github.com/hoegnason) | Rani Högnason Hansen | Faroese Telecom |  | Tórshavn | 1434 |
-| 2 | [Brian-ED](https://github.com/Brian-ED) | Brian E |  |  | Faroe Islands | 1003 |
+| 2 | [Brian-ED](https://github.com/Brian-ED) | Brian E |  |  | Faroe Islands | 1001 |
 | 3 | [kruseio](https://github.com/kruseio) | Ragnar Kruse |  | kruseio | Faroe Islands | 997 |
 | 4 | [suuunly](https://github.com/suuunly) | Jóhann Østerø | Flowcore, Gaman Games |  | Faroe Islands | 504 |
 | 5 | [jbiskur](https://github.com/jbiskur) | Julius á Rógvi Biskopstø |  |  | Faroe Islands | 487 |
@@ -16,7 +16,7 @@ Users: 68
 | 8 | [ahjohannessen](https://github.com/ahjohannessen) | Alex Henning Johannessen |  | ahjohannessen | Faroe Islands | 274 |
 | 9 | [Marimuda](https://github.com/Marimuda) | Jákup Svøðstein | University of Faroe islands |  | Faroe islands  | 218 |
 | 10 | [SheetHappiness](https://github.com/SheetHappiness) | SheetHappiness | Lethal |  | Faroe Islands | 214 |
-| 11 | [Femfus](https://github.com/Femfus) | Molly |  |  | Faroe Islands | 127 |
+| 11 | [Femfus](https://github.com/Femfus) | Molly |  |  | Faroe Islands | 126 |
 | 12 | [Theoistic](https://github.com/Theoistic) | Theodor Solbjorg | Theoistic | Theoistic | Faroe Islands | 123 |
 | 13 | [forkh](https://github.com/forkh) |  |  |  | Føroyar | 117 |
 | 14 | [samal-rasmussen](https://github.com/samal-rasmussen) | Sámal Rasmussen | @bokin-fo  |  | Tórshavn, Faroe Islands | 102 |
