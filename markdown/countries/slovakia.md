@@ -22,16 +22,16 @@ Indexed users: 4,657
 | 8 | [mihaliak](https://github.com/mihaliak) | Andrej Mihaliak | Slovakia, Trnava | 11,558 |
 | 9 | [oliver-kriska](https://github.com/oliver-kriska) | Oliver Kriska | Slovakia | 10,417 |
 | 10 | [potyl](https://github.com/potyl) | Emmanuel Rodriguez | Bratislava, Slovakia | 10,414 |
-| 11 | [michaljurecko](https://github.com/michaljurecko) | Michal Jurečko | Slovakia | 10,141 |
-| 12 | [lubomir-dlhy](https://github.com/lubomir-dlhy) | Ľubomír Dlhý | Slovakia | 9,998 |
-| 13 | [janper](https://github.com/janper) | Jan Pernecky | Slovakia | 9,974 |
-| 14 | [thecubbe](https://github.com/thecubbe) | TheCubbe | Slovakia | 9,956 |
-| 15 | [dimaver6work](https://github.com/dimaver6work) | Dmytro | Bratislava, Slovakia | 9,941 |
-| 16 | [drepkovsky](https://github.com/drepkovsky) | Dominik Repkovský | Slovakia | 9,931 |
-| 17 | [Kenessy](https://github.com/Kenessy) | Daniel Kenessy | Slovakia | 9,652 |
-| 18 | [crnkjck](https://github.com/crnkjck) | Ján Kľuka | Bratislava, Slovakia | 9,637 |
-| 19 | [VladimirTomko](https://github.com/VladimirTomko) | Vladimír Tomko | Bratislava, Slovakia | 9,429 |
-| 20 | [filippofilip95](https://github.com/filippofilip95) | Filip Papranec | Slovakia | 9,289 |
+| 11 | [valferon](https://github.com/valferon) | Feron Valentin | Slovakia | 10,231 |
+| 12 | [michaljurecko](https://github.com/michaljurecko) | Michal Jurečko | Slovakia | 10,141 |
+| 13 | [lubomir-dlhy](https://github.com/lubomir-dlhy) | Ľubomír Dlhý | Slovakia | 9,998 |
+| 14 | [janper](https://github.com/janper) | Jan Pernecky | Slovakia | 9,974 |
+| 15 | [thecubbe](https://github.com/thecubbe) | TheCubbe | Slovakia | 9,956 |
+| 16 | [dimaver6work](https://github.com/dimaver6work) | Dmytro | Bratislava, Slovakia | 9,941 |
+| 17 | [drepkovsky](https://github.com/drepkovsky) | Dominik Repkovský | Slovakia | 9,931 |
+| 18 | [Kenessy](https://github.com/Kenessy) | Daniel Kenessy | Slovakia | 9,652 |
+| 19 | [crnkjck](https://github.com/crnkjck) | Ján Kľuka | Bratislava, Slovakia | 9,637 |
+| 20 | [VladimirTomko](https://github.com/VladimirTomko) | Vladimír Tomko | Bratislava, Slovakia | 9,429 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 4,657
 | 19 | [Stiivi](https://github.com/Stiivi) | Stefan Urbanek | Bratislava | 280 |
 | 20 | [haad](https://github.com/haad) | Adam Hamsik | Bratislava Slovakia | 259 |
 
-Generated: 2026-10-22T16:10:38.623Z
+Generated: 2026-10-22T18:08:47.467Z

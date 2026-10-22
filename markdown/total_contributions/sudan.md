@@ -1,6 +1,6 @@
 # Total Contributions - Sudan
 
-Generated: 2026-10-22T16:12:29.780Z
+Generated: 2026-10-22T18:09:42.494Z
 
 Users: 727
 
@@ -18,7 +18,7 @@ Users: 727
 | 10 | [m-elhabib-dev](https://github.com/m-elhabib-dev) | Mohamed Elhabib | PashaDP | m_elhabib_dev | Sudan, Khartoum | 2906 |
 | 11 | [MohdMuslim92](https://github.com/MohdMuslim92) | Mohammed Saeed |  | MohdMuslim92 | Sudan - Khartoum | 2854 |
 | 12 | [abdosaeedelhassan](https://github.com/abdosaeedelhassan) | Abdelrahman Saeed Elhassan | AsayHome | abdosaeedtweet | Al-Thawrah H 19, Omdurman, Sudan | 2819 |
-| 13 | [hazembabiker-2004](https://github.com/hazembabiker-2004) | Hazem Babiker |  |  | Khartoum | 2752 |
+| 13 | [hazembabiker-2004](https://github.com/hazembabiker-2004) | Hazem Babiker |  |  | Khartoum | 2750 |
 | 14 | [adonese](https://github.com/adonese) | Mohamed Yousif | EEBAX | _adonese | Sudan, Khartoum | 2613 |
 | 15 | [osmanabdelsalam](https://github.com/osmanabdelsalam) | Osman Abdelsalam | Taawuniya Insurance Company | osman_abd | Sudan / Khartoum | 2541 |
 | 16 | [Bakrialtaif](https://github.com/Bakrialtaif) | Abobaker Altaif | Kashta | bakriatlaif | Sudan | 2499 |

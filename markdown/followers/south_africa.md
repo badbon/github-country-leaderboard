@@ -1,8 +1,8 @@
 # Followers - South Africa
 
-Generated: 2026-10-22T16:12:13.310Z
+Generated: 2026-10-22T18:09:01.706Z
 
-Users: 17921
+Users: 17920
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
