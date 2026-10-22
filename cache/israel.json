@@ -43399,8 +43399,8 @@
     "company": "@Freelancing",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 373,
-    "publicContributions": 0,
+    "privateContributions": 190,
+    "publicContributions": 1,
     "createdAt": "2020-11-03T21:12:16Z"
   },
   {
@@ -43411,8 +43411,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 27,
-    "publicContributions": 53,
+    "privateContributions": 0,
+    "publicContributions": 71,
     "createdAt": "2020-11-29T21:08:46Z"
   },
   {
@@ -43422,22 +43422,10 @@
     "location": "Israel",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 87,
+    "publicContributions": 123,
     "createdAt": "2020-11-09T20:01:41Z"
-  },
-  {
-    "login": "Tanya1621",
-    "name": "Tatiana Zolotukhina",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/70881555?s=72&u=34593d703d27fa5c9b70c56a610d0cfe73941027&v=4",
-    "location": "Israel",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 785,
-    "publicContributions": 2,
-    "createdAt": "2020-09-07T07:09:15Z"
   },
   {
     "login": "Neria28",
@@ -43446,9 +43434,9 @@
     "location": "Holon , Tel Aviv , Israel",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 67,
-    "publicContributions": 67,
+    "publicContributions": 65,
     "createdAt": "2020-08-10T17:11:17Z"
   },
   {
@@ -43458,9 +43446,9 @@
     "location": "Israel",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 19,
-    "publicContributions": 35,
+    "followers": 8,
+    "privateContributions": 195,
+    "publicContributions": 146,
     "createdAt": "2020-07-12T19:34:26Z"
   },
   {
@@ -43482,9 +43470,9 @@
     "location": "Israel",
     "company": "IBM",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 367,
+    "publicContributions": 595,
     "createdAt": "2020-07-14T08:52:38Z"
   },
   {
@@ -43496,7 +43484,7 @@
     "twitterUsername": "theroeebar",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 163,
+    "publicContributions": 162,
     "createdAt": "2020-12-09T04:51:17Z"
   },
   {
@@ -43506,9 +43494,9 @@
     "location": "Israel",
     "company": "IdoTech",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 203,
-    "publicContributions": 86,
+    "followers": 6,
+    "privateContributions": 140,
+    "publicContributions": 61,
     "createdAt": "2020-08-23T13:37:40Z"
   },
   {
@@ -43518,9 +43506,9 @@
     "location": "Israel",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 521,
-    "publicContributions": 216,
+    "followers": 6,
+    "privateContributions": 2381,
+    "publicContributions": 484,
     "createdAt": "2020-10-02T07:08:20Z"
   },
   {
@@ -43531,7 +43519,7 @@
     "company": "2bcloud",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 317,
+    "privateContributions": 314,
     "publicContributions": 0,
     "createdAt": "2020-07-27T10:33:33Z"
   },
@@ -43542,8 +43530,8 @@
     "location": "Tel Aviv, Israel",
     "company": "Matia",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 8,
+    "followers": 6,
+    "privateContributions": 28,
     "publicContributions": 40,
     "createdAt": "2020-10-02T12:29:49Z"
   },
@@ -43556,7 +43544,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 269,
+    "publicContributions": 1685,
     "createdAt": "2020-11-16T11:48:48Z"
   },
   {
@@ -43579,7 +43567,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 2,
+    "privateContributions": 3,
     "publicContributions": 0,
     "createdAt": "2020-12-05T17:32:24Z"
   },
@@ -43592,7 +43580,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 30,
-    "publicContributions": 87,
+    "publicContributions": 22,
     "createdAt": "2020-11-08T07:27:20Z"
   },
   {
@@ -43603,8 +43591,8 @@
     "company": "SCE",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 1096,
-    "publicContributions": 25,
+    "privateContributions": 1217,
+    "publicContributions": 6,
     "createdAt": "2020-11-04T12:15:57Z"
   },
   {
@@ -43614,7 +43602,7 @@
     "location": "Israel",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 9,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-11-08T06:58:43Z"
@@ -43626,9 +43614,9 @@
     "location": "Israel",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 27,
     "createdAt": "2020-08-15T13:34:53Z"
   },
   {
