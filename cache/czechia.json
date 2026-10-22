@@ -42920,7 +42920,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 30,
+    "publicContributions": 23,
     "createdAt": "2021-03-30T08:00:13Z"
   },
   {
@@ -42956,7 +42956,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 32,
+    "publicContributions": 14,
     "createdAt": "2021-02-26T08:20:07Z"
   },
   {
@@ -42978,22 +42978,10 @@
     "location": "Prague",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-09-21T08:30:45Z"
-  },
-  {
-    "login": "jannovak-arrowsys",
-    "name": "Jan Novák",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/79141194?s=72&v=4",
-    "location": "Prague",
-    "company": "@arrowsys ",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 20,
-    "createdAt": "2021-02-16T10:19:41Z"
   },
   {
     "login": "SedlJa",
@@ -43003,8 +42991,8 @@
     "company": "Spectoda",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 68,
-    "publicContributions": 88,
+    "privateContributions": 231,
+    "publicContributions": 73,
     "createdAt": "2021-10-20T17:29:56Z"
   },
   {
@@ -43015,8 +43003,8 @@
     "company": "Dkral",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1494,
-    "publicContributions": 586,
+    "privateContributions": 3704,
+    "publicContributions": 584,
     "createdAt": "2021-11-07T09:34:40Z"
   },
   {
@@ -43028,7 +43016,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 9,
     "createdAt": "2021-10-28T21:11:55Z"
   },
   {
@@ -43039,8 +43027,8 @@
     "company": "DEVELOG (self-employed)",
     "twitterUsername": "",
     "followers": 27,
-    "privateContributions": 669,
-    "publicContributions": 288,
+    "privateContributions": 1649,
+    "publicContributions": 306,
     "createdAt": "2016-05-24T10:49:23Z"
   },
   {
@@ -43052,19 +43040,19 @@
     "twitterUsername": "",
     "followers": 34,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 15,
     "createdAt": "2020-03-07T10:42:03Z"
   },
   {
     "login": "AldiiX",
     "name": "Stanislav Škudrna",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/66065731?s=72&u=1572a61d5e59395352872a7fb79df9e21bbc9329&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/66065731?s=72&u=71ed2b8d8ac3753973adfc469499e71208b8bf1d&v=4",
     "location": "Česká Republika",
-    "company": "",
+    "company": "@Netuvio",
     "twitterUsername": "",
-    "followers": 19,
-    "privateContributions": 824,
-    "publicContributions": 1261,
+    "followers": 18,
+    "privateContributions": 1024,
+    "publicContributions": 1249,
     "createdAt": "2020-05-28T10:30:03Z"
   },
   {
@@ -43075,8 +43063,8 @@
     "company": "@NewtlyEU ",
     "twitterUsername": "smoliiczech",
     "followers": 15,
-    "privateContributions": 250,
-    "publicContributions": 196,
+    "privateContributions": 370,
+    "publicContributions": 276,
     "createdAt": "2020-06-14T14:18:50Z"
   },
   {
@@ -43087,8 +43075,8 @@
     "company": "Enmon tech & Technodat Develope",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 42,
-    "publicContributions": 84,
+    "privateContributions": 119,
+    "publicContributions": 34,
     "createdAt": "2020-04-03T19:48:02Z"
   },
   {

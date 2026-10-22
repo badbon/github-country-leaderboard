@@ -43172,7 +43172,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 123,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2013-01-06T18:56:44Z"
   },
   {
@@ -43195,7 +43195,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 40,
+    "privateContributions": 20,
     "publicContributions": 1,
     "createdAt": "2013-03-03T09:28:27Z"
   },
@@ -43208,7 +43208,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 417,
+    "publicContributions": 491,
     "createdAt": "2013-11-28T18:47:47Z"
   },
   {
@@ -43254,8 +43254,8 @@
     "location": "Armenia",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 360,
+    "followers": 1,
+    "privateContributions": 620,
     "publicContributions": 0,
     "createdAt": "2013-07-01T13:13:09Z"
   },
@@ -43302,9 +43302,9 @@
     "location": "Armenia",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 803,
-    "publicContributions": 83,
+    "followers": 3,
+    "privateContributions": 1975,
+    "publicContributions": 178,
     "createdAt": "2013-06-01T20:48:35Z"
   },
   {
@@ -43315,7 +43315,7 @@
     "company": "@servicetitan ",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 262,
+    "privateContributions": 202,
     "publicContributions": 34,
     "createdAt": "2013-04-10T10:13:27Z"
   },
@@ -43328,7 +43328,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2013-11-05T21:25:43Z"
   },
   {

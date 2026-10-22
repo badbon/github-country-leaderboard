@@ -42774,7 +42774,7 @@
     "location": "Colombia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-01-11T15:32:39Z"
@@ -42798,9 +42798,9 @@
     "location": "Colombia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 106,
+    "publicContributions": 108,
     "createdAt": "2023-03-12T13:49:42Z"
   },
   {
@@ -42859,8 +42859,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 262,
-    "publicContributions": 209,
+    "privateContributions": 166,
+    "publicContributions": 141,
     "createdAt": "2023-03-16T19:27:35Z"
   },
   {
@@ -42872,7 +42872,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 10,
     "createdAt": "2023-02-18T16:40:10Z"
   },
   {
@@ -42882,9 +42882,9 @@
     "location": "La Estrella/Antioquia/Colombia",
     "company": "Politecnico Jaime Isaza Cadavid",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 1,
     "createdAt": "2023-03-07T03:27:08Z"
   },
   {
@@ -42896,7 +42896,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 8,
     "createdAt": "2023-02-24T15:53:42Z"
   },
   {
@@ -42932,7 +42932,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 45,
+    "publicContributions": 50,
     "createdAt": "2023-02-21T23:41:18Z"
   },
   {
@@ -42944,7 +42944,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 9,
     "createdAt": "2023-01-03T02:29:22Z"
   },
   {
@@ -42956,7 +42956,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 78,
+    "publicContributions": 40,
     "createdAt": "2023-03-17T17:03:15Z"
   },
   {
@@ -42967,20 +42967,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 77,
-    "publicContributions": 106,
+    "privateContributions": 75,
+    "publicContributions": 95,
     "createdAt": "2023-01-14T21:34:51Z"
   },
   {
     "login": "jallerdev",
     "name": "Luis G. Jaller",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/122121136?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/122121136?s=72&u=3581b70eb0be694ac2f076507f39b65ca89476b0&v=4",
     "location": "Colombia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 285,
-    "publicContributions": 2366,
+    "followers": 2,
+    "privateContributions": 579,
+    "publicContributions": 2634,
     "createdAt": "2023-01-06T19:16:08Z"
   },
   {

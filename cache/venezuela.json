@@ -42876,18 +42876,6 @@
     "createdAt": "2019-01-28T12:32:37Z"
   },
   {
-    "login": "marcoslopez95",
-    "name": "Marcos M. López",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/50760667?s=72&u=b018631bdbe06750ba01ca6976e1d7f642ff69ea&v=4",
-    "location": "Venezuela",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 916,
-    "publicContributions": 59,
-    "createdAt": "2019-05-18T03:21:59Z"
-  },
-  {
     "login": "gjramirezj",
     "name": "Gustavo Ramírez",
     "avatarUrl": "https://avatars.githubusercontent.com/u/50254543?s=72&v=4",
@@ -42980,7 +42968,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 751,
+    "publicContributions": 695,
     "createdAt": "2019-10-02T16:44:25Z"
   },
   {
@@ -43008,18 +42996,6 @@
     "createdAt": "2019-11-19T19:32:38Z"
   },
   {
-    "login": "zepey21",
-    "name": "Elisaul Yepez",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/50807695?s=72&u=b997610c0a22641de2891e59ed619185fd290dc7&v=4",
-    "location": "Venezuela",
-    "company": "Solo Media Group Inc",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2019-05-19T19:19:41Z"
-  },
-  {
     "login": "RavenInBox",
     "name": "Hello my name is Randy Radwan",
     "avatarUrl": "https://avatars.githubusercontent.com/u/48575263?s=72&u=a32fed3ca0acaf8cabc36263b682a2a3c5dcdc37&v=4",
@@ -43027,7 +43003,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 241,
+    "privateContributions": 197,
     "publicContributions": 1,
     "createdAt": "2019-03-15T01:42:02Z"
   },
@@ -43050,9 +43026,9 @@
     "location": "Caracas Venezuela",
     "company": "@Grupo-Purdy",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 19,
     "createdAt": "2019-01-18T16:58:41Z"
   },
   {
@@ -43063,7 +43039,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 122,
+    "privateContributions": 79,
     "publicContributions": 0,
     "createdAt": "2019-01-13T19:27:56Z"
   },
@@ -43074,7 +43050,7 @@
     "location": "Trujillo, Venezuela",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-01-25T00:40:39Z"
