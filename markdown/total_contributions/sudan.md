@@ -1,6 +1,6 @@
 # Total Contributions - Sudan
 
-Generated: 2026-10-22T02:43:37.148Z
+Generated: 2026-10-22T06:13:50.965Z
 
 Users: 727
 
@@ -17,12 +17,12 @@ Users: 727
 | 9 | [hamoda-dev](https://github.com/hamoda-dev) | Mohammed Hamid Hamoda | @morph-sa | hamoda_dev | Sudan | 3186 |
 | 10 | [m-elhabib-dev](https://github.com/m-elhabib-dev) | Mohamed Elhabib | PashaDP | m_elhabib_dev | Sudan, Khartoum | 2906 |
 | 11 | [MohdMuslim92](https://github.com/MohdMuslim92) | Mohammed Saeed |  | MohdMuslim92 | Sudan - Khartoum | 2854 |
-| 12 | [hazembabiker-2004](https://github.com/hazembabiker-2004) | Hazem Babiker |  |  | Khartoum | 2752 |
-| 13 | [abdosaeedelhassan](https://github.com/abdosaeedelhassan) | Abdelrahman Saeed Elhassan | AsayHome | abdosaeedtweet | Al-Thawrah H 19, Omdurman, Sudan | 2731 |
-| 14 | [adonese](https://github.com/adonese) | Mohamed Yousif | EEBAX | _adonese | Sudan, Khartoum | 2612 |
-| 15 | [osmanabdelsalam](https://github.com/osmanabdelsalam) | Osman Abdelsalam | Taawuniya Insurance Company | osman_abd | Sudan / Khartoum | 2542 |
-| 16 | [Bakrialtaif](https://github.com/Bakrialtaif) | Abobaker Altaif | Kashta | bakriatlaif | Sudan | 2483 |
-| 17 | [AminOmer](https://github.com/AminOmer) | Amin Omer | Sudan University of Science and Technology  | AminOmerM | Khartoum, Sudan | 2473 |
+| 12 | [abdosaeedelhassan](https://github.com/abdosaeedelhassan) | Abdelrahman Saeed Elhassan | AsayHome | abdosaeedtweet | Al-Thawrah H 19, Omdurman, Sudan | 2819 |
+| 13 | [hazembabiker-2004](https://github.com/hazembabiker-2004) | Hazem Babiker |  |  | Khartoum | 2752 |
+| 14 | [adonese](https://github.com/adonese) | Mohamed Yousif | EEBAX | _adonese | Sudan, Khartoum | 2613 |
+| 15 | [osmanabdelsalam](https://github.com/osmanabdelsalam) | Osman Abdelsalam | Taawuniya Insurance Company | osman_abd | Sudan / Khartoum | 2541 |
+| 16 | [Bakrialtaif](https://github.com/Bakrialtaif) | Abobaker Altaif | Kashta | bakriatlaif | Sudan | 2499 |
+| 17 | [AminOmer](https://github.com/AminOmer) | Amin Omer | Sudan University of Science and Technology  | AminOmerM | Khartoum, Sudan | 2471 |
 | 18 | [asimsharf](https://github.com/asimsharf) | Asim Abdelgadir | Sudagoarth Co.Ltd - سوداغورث المحدودة  | asimsharf | Sudan | 2305 |
 | 19 | [blacksud0](https://github.com/blacksud0) | OMER SAEED | @firewireio | blacksud0 | Khartoum,Sudan | 2190 |
 | 20 | [OxSama](https://github.com/OxSama) | OxSama |  | OX_SAMA | Khartoum - Sudan | 2134 |

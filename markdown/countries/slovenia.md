@@ -16,10 +16,10 @@ Indexed users: 3,094
 | 2 | [itechdom](https://github.com/itechdom) | Osama Alghanmi | Ljubljana, Slovenia | 32,477 |
 | 3 | [bobalazek](https://github.com/bobalazek) | Borut Balazek | Slovenia, Europe | 17,006 |
 | 4 | [Meemaw](https://github.com/Meemaw) | Matej Šnuderl | Ljubljana, Slovenia | 16,408 |
-| 5 | [fentas](https://github.com/fentas) | Jan Guth | Slovenia | 15,853 |
-| 6 | [barisgit](https://github.com/barisgit) | Blaž Aristovnik | Ljubljana | 14,440 |
-| 7 | [garbas](https://github.com/garbas) | Rok Garbas | Ljubljana, Slovenia | 13,825 |
-| 8 | [bl4ko](https://github.com/bl4ko) | Gasper Oblak | Slovenia | 13,573 |
+| 5 | [bl4ko](https://github.com/bl4ko) | Gasper Oblak | Slovenia | 15,986 |
+| 6 | [fentas](https://github.com/fentas) | Jan Guth | Slovenia | 15,853 |
+| 7 | [barisgit](https://github.com/barisgit) | Blaž Aristovnik | Ljubljana | 14,440 |
+| 8 | [garbas](https://github.com/garbas) | Rok Garbas | Ljubljana, Slovenia | 13,825 |
 | 9 | [domengabrovsek](https://github.com/domengabrovsek) | Domen Gabrovšek | Ljubljana, Slovenia | 11,949 |
 | 10 | [Putr](https://github.com/Putr) | Rok Andrée | Ljubljana, Slovenia | 11,478 |
 | 11 | [AMGrobelnik](https://github.com/AMGrobelnik) | Adrian Mladenic Grobelnik | Ljubljana, Slovenia | 11,306 |
@@ -83,4 +83,4 @@ Indexed users: 3,094
 | 19 | [jure](https://github.com/jure) | Jure Triglav | Ljubljana, Slovenia | 243 |
 | 20 | [buresdv](https://github.com/buresdv) | David Bureš | Maribor, Slovenia | 238 |
 
-Generated: 2026-10-22T02:40:07.040Z
+Generated: 2026-10-22T06:10:22.679Z

@@ -1,6 +1,6 @@
 # Total Contributions - Slovenia
 
-Generated: 2026-10-22T02:40:07.040Z
+Generated: 2026-10-22T06:10:22.679Z
 
 Users: 3094
 
@@ -10,10 +10,10 @@ Users: 3094
 | 2 | [itechdom](https://github.com/itechdom) | Osama Alghanmi | Almadar |  | Ljubljana, Slovenia | 32477 |
 | 3 | [bobalazek](https://github.com/bobalazek) | Borut Balazek |  |  | Slovenia, Europe | 17006 |
 | 4 | [Meemaw](https://github.com/Meemaw) | Matej Šnuderl | OpenSea |  | Ljubljana, Slovenia | 16408 |
-| 5 | [fentas](https://github.com/fentas) | Jan Guth | @lanisce | lanisce_si | Slovenia | 15853 |
-| 6 | [barisgit](https://github.com/barisgit) | Blaž Aristovnik | @Paxia-team  |  | Ljubljana | 14440 |
-| 7 | [garbas](https://github.com/garbas) | Rok Garbas | Nix - Elm - Rust - Python | garbas | Ljubljana, Slovenia | 13825 |
-| 8 | [bl4ko](https://github.com/bl4ko) | Gasper Oblak | Ljubljana |  | Slovenia | 13573 |
+| 5 | [bl4ko](https://github.com/bl4ko) | Gasper Oblak | Ljubljana |  | Slovenia | 15986 |
+| 6 | [fentas](https://github.com/fentas) | Jan Guth | @lanisce | lanisce_si | Slovenia | 15853 |
+| 7 | [barisgit](https://github.com/barisgit) | Blaž Aristovnik | @Paxia-team  |  | Ljubljana | 14440 |
+| 8 | [garbas](https://github.com/garbas) | Rok Garbas | Nix - Elm - Rust - Python | garbas | Ljubljana, Slovenia | 13825 |
 | 9 | [domengabrovsek](https://github.com/domengabrovsek) | Domen Gabrovšek |  | domengabrovsek | Ljubljana, Slovenia | 11949 |
 | 10 | [Putr](https://github.com/Putr) | Rok Andrée | @Institut-IP21 |  | Ljubljana, Slovenia | 11478 |
 | 11 | [AMGrobelnik](https://github.com/AMGrobelnik) | Adrian Mladenic Grobelnik | IJS |  | Ljubljana, Slovenia | 11306 |
