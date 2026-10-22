@@ -1,13 +1,13 @@
 # Followers - Honduras
 
-Generated: 2026-10-22T08:44:39.400Z
+Generated: 2026-10-22T12:51:14.002Z
 
 Users: 1258
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [Siumauricio](https://github.com/Siumauricio) | Mauricio Siu |  |  | Honduras, San Pedro Sula | 610 |
-| 2 | [dansiegel](https://github.com/dansiegel) | Dan Siegel | @AvantiPoint | DanJSiegel | Roatan, Honduras | 516 |
+| 2 | [dansiegel](https://github.com/dansiegel) | Dan Siegel | @AvantiPoint | DanJSiegel | Roatan, Honduras | 515 |
 | 3 | [BryanAnariba](https://github.com/BryanAnariba) | Bryan Anariba | UNAH |  | Honduras | 386 |
 | 4 | [Turupawn](https://github.com/Turupawn) | Ahmed Castro |  | FilosofiaCodigo | San Pedro Sula, Honduras | 320 |
 | 5 | [BANARIBA](https://github.com/BANARIBA) | ARIEL ANARIBA | Seguros Crefisa |  | Honduras | 319 |

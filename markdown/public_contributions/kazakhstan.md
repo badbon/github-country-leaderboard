@@ -1,6 +1,6 @@
 # Public Contributions - Kazakhstan
 
-Generated: 2026-10-22T08:51:13.372Z
+Generated: 2026-10-22T12:55:33.864Z
 
 Users: 5620
 
@@ -12,9 +12,9 @@ Users: 5620
 | 4 | [AnmiTaliDev](https://github.com/AnmiTaliDev) | AnmiTaliDev | @AnmiTaliDev (?) |  | Kazakhstan, Kostanay | 5428 |
 | 5 | [aa-blinov](https://github.com/aa-blinov) | aa-blinov |  |  | Astana, KZ | 5175 |
 | 6 | [denislibs](https://github.com/denislibs) | Denis Maramygin | Documentolog |  | Astana | 5166 |
-| 7 | [yaskhan](https://github.com/yaskhan) | Yaskhan |  |  | Kazakhstan | 3748 |
-| 8 | [skulmakov-oss](https://github.com/skulmakov-oss) | Said |  | said3223 | Kazakhstan | 3646 |
-| 9 | [Vidrimers](https://github.com/Vidrimers) | Yaroslav | SJ |  | Qazaqstan | 3538 |
+| 7 | [Vidrimers](https://github.com/Vidrimers) | Yaroslav | SJ |  | Qazaqstan | 3880 |
+| 8 | [yaskhan](https://github.com/yaskhan) | Yaskhan |  |  | Kazakhstan | 3748 |
+| 9 | [skulmakov-oss](https://github.com/skulmakov-oss) | Said |  | said3223 | Kazakhstan | 3646 |
 | 10 | [dchernykh1984](https://github.com/dchernykh1984) | Denis |  |  | Kazakhstan, Almaty | 3230 |
 | 11 | [Islombek-stack](https://github.com/Islombek-stack) | Islombek Abilbekov |  |  | Kazakhstan | 2861 |
 | 12 | [yelmuratoff](https://github.com/yelmuratoff) | Yelaman Yelmurat | Astana Hub |  | Kazakhstan | 2839 |

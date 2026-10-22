@@ -21,13 +21,13 @@ Indexed users: 11,782
 | 7 | [booluckgmie](https://github.com/booluckgmie) | Najmi Ariffin | Putrajaya, Malaysia | 18,835 |
 | 8 | [habibtalib](https://github.com/habibtalib) | Habib Talib | Malaysia | 18,227 |
 | 9 | [weixianggoh](https://github.com/weixianggoh) | GOH WEI XIANG | Malaysia | 18,213 |
-| 10 | [lwlee2608](https://github.com/lwlee2608) | Jason Lee | Kuala Lumpur, Malaysia | 16,660 |
-| 11 | [aaronmyatt](https://github.com/aaronmyatt) | Aaron Myatt | Malaysia | 16,149 |
-| 12 | [SuperVentureStudio](https://github.com/SuperVentureStudio) | Faisal Hourani | Malaysia | 15,904 |
-| 13 | [Anas660](https://github.com/Anas660) | Syed Anas | Malaysia | 14,473 |
-| 14 | [ninjitsuytber](https://github.com/ninjitsuytber) | Stephen Sii | Malaysia | 13,802 |
-| 15 | [edwardtay](https://github.com/edwardtay) | Edward Tay | Malaysia  | 13,397 |
-| 16 | [0xkaz](https://github.com/0xkaz) | kaz | Malaysia/UAE | 13,375 |
+| 10 | [0xkaz](https://github.com/0xkaz) | kaz | Malaysia/UAE | 18,055 |
+| 11 | [lwlee2608](https://github.com/lwlee2608) | Jason Lee | Kuala Lumpur, Malaysia | 16,660 |
+| 12 | [aaronmyatt](https://github.com/aaronmyatt) | Aaron Myatt | Malaysia | 16,149 |
+| 13 | [SuperVentureStudio](https://github.com/SuperVentureStudio) | Faisal Hourani | Malaysia | 15,904 |
+| 14 | [Anas660](https://github.com/Anas660) | Syed Anas | Malaysia | 14,473 |
+| 15 | [ninjitsuytber](https://github.com/ninjitsuytber) | Stephen Sii | Malaysia | 13,802 |
+| 16 | [edwardtay](https://github.com/edwardtay) | Edward Tay | Malaysia  | 13,397 |
 | 17 | [Marxz13](https://github.com/Marxz13) | Marz | Malaysia | 13,140 |
 | 18 | [AqwamCreates](https://github.com/AqwamCreates) | Aqwam Harish Aiman | Malaysia | 12,827 |
 | 19 | [aabeds](https://github.com/aabeds) | Syed Safwan | Malaysia | 12,115 |
@@ -83,4 +83,4 @@ Indexed users: 11,782
 | 19 | [Zeyad-Azima](https://github.com/Zeyad-Azima) | Zer0verflow | Malaysia | 439 |
 | 20 | [RamadhanAmizudin](https://github.com/RamadhanAmizudin) | Ramadhan Amizudin | Malaysia | 401 |
 
-Generated: 2026-10-22T08:57:17.033Z
+Generated: 2026-10-22T13:04:13.615Z

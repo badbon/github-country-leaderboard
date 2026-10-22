@@ -1,6 +1,6 @@
 # Public Contributions - Namibia
 
-Generated: 2026-10-22T09:03:26.987Z
+Generated: 2026-10-22T13:09:38.585Z
 
 Users: 474
 
@@ -25,4 +25,4 @@ Users: 474
 | 17 | [RohanBez2801](https://github.com/RohanBez2801) | Rohan Bezuidenhout |  |  | Windhoek, Namibia | 250 |
 | 18 | [yaasoniii](https://github.com/yaasoniii) | Jason |  |  | Windhoek, Namibia | 246 |
 | 19 | [Jason-Mendes](https://github.com/Jason-Mendes) | Jason-Mendes | @Etomart @NZZ @Daaily @DezCorp |  | Namibia | 243 |
-| 20 | [sekhubede](https://github.com/sekhubede) | Michael Sekhubede | The Document Warehouse Namibia |  | Namibia | 242 |
+| 20 | [sekhubede](https://github.com/sekhubede) | Michael Sekhubede | The Document Warehouse Namibia |  | Namibia | 240 |

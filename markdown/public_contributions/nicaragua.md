@@ -1,13 +1,13 @@
 # Public Contributions - Nicaragua
 
-Generated: 2026-10-22T09:06:02.584Z
+Generated: 2026-10-22T13:12:13.509Z
 
 Users: 1395
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [williamjmorenor](https://github.com/williamjmorenor) | William Moreno |  |  | Managua Nicaragua | 7035 |
-| 2 | [Xch4rt](https://github.com/Xch4rt) | Pablo Gutiérrez |  |  | Managua, Nicaragua | 2121 |
+| 2 | [Xch4rt](https://github.com/Xch4rt) | Pablo Gutiérrez |  |  | Managua, Nicaragua | 2223 |
 | 3 | [Void-CA](https://github.com/Void-CA) | Ari Castillo |  |  | Nicaragua | 2060 |
 | 4 | [CharFranR](https://github.com/CharFranR) | Oscar Francisco Reyes Guevara  |  |  | Nicaragua | 1635 |
 | 5 | [NathanDraco22](https://github.com/NathanDraco22) |  |  | NathanDraco22 | Nicaragua | 1508 |
@@ -25,4 +25,4 @@ Users: 1395
 | 17 | [ernestoruiz89](https://github.com/ernestoruiz89) | Ernesto Ruiz |  | ernestoruiz89 | Nicaragua | 1016 |
 | 18 | [Gaboxqc](https://github.com/Gaboxqc) | Gabriel Mayorga | MortaCorp |  | Managua | 967 |
 | 19 | [fabmnt](https://github.com/fabmnt) | Fabián Montoya | Dentalrobot | fabmnt_ | Nicaragua | 896 |
-| 20 | [R0LM0](https://github.com/R0LM0) | r0lm0 | None | r0lm0 | Managua, Nicaragua | 895 |
+| 20 | [THEGABOALE](https://github.com/THEGABOALE) | Gabriel Alejandro García Angulo | Universidad Americana (UAM) |  | Managua, Nicaragua | 841 |

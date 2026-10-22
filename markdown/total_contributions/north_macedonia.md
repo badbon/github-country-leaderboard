@@ -1,8 +1,8 @@
 # Total Contributions - North Macedonia
 
-Generated: 2026-10-22T09:09:41.334Z
+Generated: 2026-10-22T13:14:45.349Z
 
-Users: 1924
+Users: 1923
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

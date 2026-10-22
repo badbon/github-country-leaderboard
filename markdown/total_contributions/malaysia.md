@@ -1,6 +1,6 @@
 # Total Contributions - Malaysia
 
-Generated: 2026-10-22T08:57:17.033Z
+Generated: 2026-10-22T13:04:13.615Z
 
 Users: 11782
 
@@ -15,13 +15,13 @@ Users: 11782
 | 7 | [booluckgmie](https://github.com/booluckgmie) | Najmi Ariffin | @dosm-malaysia | najmi_ariffin | Putrajaya, Malaysia | 18835 |
 | 8 | [habibtalib](https://github.com/habibtalib) | Habib Talib | Synctexs Solution | cyberx11 | Malaysia | 18227 |
 | 9 | [weixianggoh](https://github.com/weixianggoh) | GOH WEI XIANG |  |  | Malaysia | 18213 |
-| 10 | [lwlee2608](https://github.com/lwlee2608) | Jason Lee |  |  | Kuala Lumpur, Malaysia | 16660 |
-| 11 | [aaronmyatt](https://github.com/aaronmyatt) | Aaron Myatt |  |  | Malaysia | 16149 |
-| 12 | [SuperVentureStudio](https://github.com/SuperVentureStudio) | Faisal Hourani | WebMedic | faisalhouran1 | Malaysia | 15904 |
-| 13 | [Anas660](https://github.com/Anas660) | Syed Anas | https://www.pixelpk.com/ |  | Malaysia | 14473 |
-| 14 | [ninjitsuytber](https://github.com/ninjitsuytber) | Stephen Sii | Latton Lab |  | Malaysia | 13802 |
-| 15 | [edwardtay](https://github.com/edwardtay) | Edward Tay |  | iamedwardtay | Malaysia  | 13397 |
-| 16 | [0xkaz](https://github.com/0xkaz) | kaz |  | WeaveKaz | Malaysia/UAE | 13375 |
+| 10 | [0xkaz](https://github.com/0xkaz) | kaz |  | WeaveKaz | Malaysia/UAE | 18055 |
+| 11 | [lwlee2608](https://github.com/lwlee2608) | Jason Lee |  |  | Kuala Lumpur, Malaysia | 16660 |
+| 12 | [aaronmyatt](https://github.com/aaronmyatt) | Aaron Myatt |  |  | Malaysia | 16149 |
+| 13 | [SuperVentureStudio](https://github.com/SuperVentureStudio) | Faisal Hourani | WebMedic | faisalhouran1 | Malaysia | 15904 |
+| 14 | [Anas660](https://github.com/Anas660) | Syed Anas | https://www.pixelpk.com/ |  | Malaysia | 14473 |
+| 15 | [ninjitsuytber](https://github.com/ninjitsuytber) | Stephen Sii | Latton Lab |  | Malaysia | 13802 |
+| 16 | [edwardtay](https://github.com/edwardtay) | Edward Tay |  | iamedwardtay | Malaysia  | 13397 |
 | 17 | [Marxz13](https://github.com/Marxz13) | Marz |  |  | Malaysia | 13140 |
 | 18 | [AqwamCreates](https://github.com/AqwamCreates) | Aqwam Harish Aiman | University Of Nottingham (Malaysia Campus) |  | Malaysia | 12827 |
 | 19 | [aabeds](https://github.com/aabeds) | Syed Safwan | Deine Tür Gmbh |  | Malaysia | 12115 |

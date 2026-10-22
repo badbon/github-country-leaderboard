@@ -16,7 +16,7 @@ Indexed users: 212
 | 2 | [PhilDL](https://github.com/PhilDL) | Philippe L'ATTENTION | Réunion | 7,398 |
 | 3 | [digikaizen](https://github.com/digikaizen) | DigiKaizen | Saint-Denis | 6,363 |
 | 4 | [saiht](https://github.com/saiht) | Saiht | Reunion Island | 4,193 |
-| 5 | [axelearning](https://github.com/axelearning) | Axel Rasse | Reunion island | 3,579 |
+| 5 | [axelearning](https://github.com/axelearning) | Axel Rasse | Reunion island | 3,575 |
 | 6 | [Nicolas-Begue](https://github.com/Nicolas-Begue) | Nicolas BEGUE 🐱‍👤 | Saint-Denis | 2,842 |
 | 7 | [vittoriobusatta](https://github.com/vittoriobusatta) | vittorio | Reunion Island | 2,721 |
 | 8 | [ralphi2811](https://github.com/ralphi2811) | Raphaël Auberlet | Réunion Island | 2,436 |
@@ -83,4 +83,4 @@ Indexed users: 212
 | 19 | [julien-lav](https://github.com/julien-lav) | julien-lav | Saint-Denis | 20 |
 | 20 | [Nasjoe](https://github.com/Nasjoe) | Jonas TURBEAUX | Réunion Island, Villeurbanne, Montpellier : France | 20 |
 
-Generated: 2026-10-22T09:15:53.642Z
+Generated: 2026-10-22T13:20:44.997Z

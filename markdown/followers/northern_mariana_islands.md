@@ -1,6 +1,6 @@
 # Followers - Northern Mariana Islands
 
-Generated: 2026-10-22T09:10:23.918Z
+Generated: 2026-10-22T13:14:47.448Z
 
 Users: 13
 
@@ -9,8 +9,8 @@ Users: 13
 | 1 | [donnaada](https://github.com/donnaada) | Donna Ada |  |  | Saipan, MP | 27 |
 | 2 | [stephenalonzo](https://github.com/stephenalonzo) | Stephen Alonzo |  |  | Saipan, MP | 15 |
 | 3 | [wgaul](https://github.com/wgaul) | Willson Gaul |  |  | Saipan, MP | 6 |
-| 4 | [chris-yng](https://github.com/chris-yng) | Christopher Young |  |  | Sotobury, Northern Mariana Islands | 5 |
-| 5 | [LENDFORME](https://github.com/LENDFORME) | Mikalik |  |  |  SAIPAN | 5 |
+| 4 | [LENDFORME](https://github.com/LENDFORME) | Mikalik |  |  |  SAIPAN | 5 |
+| 5 | [chris-yng](https://github.com/chris-yng) | Christopher Young |  |  | Sotobury, Northern Mariana Islands | 4 |
 | 6 | [dipsmhsacc](https://github.com/dipsmhsacc) | Dip Roy |  |  | Saipan, Northern Mariana Islands | 4 |
 | 7 | [manbade](https://github.com/manbade) | Manbade VIA Manbait Untamed REEF | Mandey Corp. Still Virgin Untamed Peninsula. |  | Madrid - Saipan Virgin Reef | 3 |
 | 8 | [nihaolifei999](https://github.com/nihaolifei999) | nihaolifei999 |  |  | Saipan | 3 |

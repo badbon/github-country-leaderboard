@@ -1,6 +1,6 @@
 # Public Contributions - Greenland
 
-Generated: 2026-10-22T08:39:50.391Z
+Generated: 2026-10-22T12:45:21.107Z
 
 Users: 58
 
@@ -11,7 +11,7 @@ Users: 58
 | 3 | [filzehoka](https://github.com/filzehoka) | Filze | Tusass  |  | Greenland | 902 |
 | 4 | [ibdj](https://github.com/ibdj) | ibdj |  |  | Nuuk, Greenland | 699 |
 | 5 | [WingWR](https://github.com/WingWR) |  | Tongji University |  | Greenland | 536 |
-| 6 | [johan-ejstrud](https://github.com/johan-ejstrud) | Johan Ejstrud | Ejstrud Consulting |  | Nuuk, Greenland | 271 |
+| 6 | [johan-ejstrud](https://github.com/johan-ejstrud) | Johan Ejstrud | Ejstrud Consulting |  | Nuuk, Greenland | 275 |
 | 7 | [pressure679](https://github.com/pressure679) | Vittus Mikiassen | Greenland Business School |  | Greenland | 237 |
 | 8 | [Pocket-sys32](https://github.com/Pocket-sys32) | Manraj Thandi |  |  | Greenland | 223 |
 | 9 | [aredigg](https://github.com/aredigg) | Are Digranes |  |  | Grønland, Oslo, Norge | 173 |

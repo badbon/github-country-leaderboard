@@ -43,9 +43,9 @@ Indexed users: 5,620
 | 4 | [AnmiTaliDev](https://github.com/AnmiTaliDev) | AnmiTaliDev | Kazakhstan, Kostanay | 5,428 |
 | 5 | [aa-blinov](https://github.com/aa-blinov) | aa-blinov | Astana, KZ | 5,175 |
 | 6 | [denislibs](https://github.com/denislibs) | Denis Maramygin | Astana | 5,166 |
-| 7 | [yaskhan](https://github.com/yaskhan) | Yaskhan | Kazakhstan | 3,748 |
-| 8 | [skulmakov-oss](https://github.com/skulmakov-oss) | Said | Kazakhstan | 3,646 |
-| 9 | [Vidrimers](https://github.com/Vidrimers) | Yaroslav | Qazaqstan | 3,538 |
+| 7 | [Vidrimers](https://github.com/Vidrimers) | Yaroslav | Qazaqstan | 3,880 |
+| 8 | [yaskhan](https://github.com/yaskhan) | Yaskhan | Kazakhstan | 3,748 |
+| 9 | [skulmakov-oss](https://github.com/skulmakov-oss) | Said | Kazakhstan | 3,646 |
 | 10 | [dchernykh1984](https://github.com/dchernykh1984) | Denis | Kazakhstan, Almaty | 3,230 |
 | 11 | [Islombek-stack](https://github.com/Islombek-stack) | Islombek Abilbekov | Kazakhstan | 2,861 |
 | 12 | [yelmuratoff](https://github.com/yelmuratoff) | Yelaman Yelmurat | Kazakhstan | 2,839 |
@@ -83,4 +83,4 @@ Indexed users: 5,620
 | 19 | [aidarnouman](https://github.com/aidarnouman) | Aidar Nouman | Almaty, Kazakhstan | 303 |
 | 20 | [azamxvit](https://github.com/azamxvit) | Azamat | Kazakhstan, Atyrau | 295 |
 
-Generated: 2026-10-22T08:51:13.372Z
+Generated: 2026-10-22T12:55:33.864Z

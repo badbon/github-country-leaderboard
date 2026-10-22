@@ -14,7 +14,7 @@ Indexed users: 354
 |---:|---|---|---|---:|
 | 1 | [xahiru](https://github.com/xahiru) | Ahmed Zahir | Maldives | 11,472 |
 | 2 | [hilarl](https://github.com/hilarl) | Hilal Agil | Male', Maldives | 10,902 |
-| 3 | [fauzaanu](https://github.com/fauzaanu) | Fauzaan Gasim | Maldives | 8,712 |
+| 3 | [fauzaanu](https://github.com/fauzaanu) | Fauzaan Gasim | Maldives | 8,711 |
 | 4 | [mnazaal](https://github.com/mnazaal) | Nazaal | Maldives | 8,676 |
 | 5 | [mohamed-aiman](https://github.com/mohamed-aiman) | Mohamed Aiman | Maldives | 7,661 |
 | 6 | [nullptrz](https://github.com/nullptrz) | Ali Ahsan Saeed | Maldives | 7,202 |
@@ -55,7 +55,7 @@ Indexed users: 354
 | 16 | [hailam](https://github.com/hailam) | Mohamed Hailam Ahmed | Male`, Maldives | 309 |
 | 17 | [aliaafee](https://github.com/aliaafee) | Ali Aafee | Maldives | 302 |
 | 18 | [athphane](https://github.com/athphane) | Athfan Khaleel | Maldives | 273 |
-| 19 | [WhoIsFishie](https://github.com/WhoIsFishie) | fISHIE | Maldives | 227 |
+| 19 | [WhoIsFishie](https://github.com/WhoIsFishie) | fISHIE | Maldives | 228 |
 | 20 | [dash8x](https://github.com/dash8x) | Arushad Ahmed | Maldives | 223 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 354
 | 19 | [muhannad0](https://github.com/muhannad0) | Monde | Maldives | 42 |
 | 20 | [inash](https://github.com/inash) | Inash Zubair | Male', Maldives | 41 |
 
-Generated: 2026-10-22T08:57:24.440Z
+Generated: 2026-10-22T13:04:18.039Z

@@ -1,6 +1,6 @@
 # Total Contributions - Kuwait
 
-Generated: 2026-10-22T08:51:21.338Z
+Generated: 2026-10-22T12:56:26.043Z
 
 Users: 796
 
@@ -25,4 +25,4 @@ Users: 796
 | 17 | [DiNaSoR](https://github.com/DiNaSoR) | BuYousef |  |  | Kuwait | 3515 |
 | 18 | [tammerofficial](https://github.com/tammerofficial) | tammer | tammerofficial | tammerofficial | Kuwait City | 3490 |
 | 19 | [aalhendi](https://github.com/aalhendi) | Abdulrazzaq Alhendi |  |  | Kuwait | 3466 |
-| 20 | [saudshaddad](https://github.com/saudshaddad) | Saud Shaddad | @rasameel  @Elite-MA-Academy  | saudshaddad | Kuwait | 3290 |
+| 20 | [IKA-Syrian](https://github.com/IKA-Syrian) | I.K.A Syrian |  | sh_brhoom | Kuwait | 3326 |

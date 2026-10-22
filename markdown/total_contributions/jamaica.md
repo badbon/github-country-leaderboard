@@ -1,6 +1,6 @@
 # Total Contributions - Jamaica
 
-Generated: 2026-10-22T08:50:01.993Z
+Generated: 2026-10-22T12:55:21.220Z
 
 Users: 1271
 
@@ -18,7 +18,7 @@ Users: 1271
 | 10 | [marcamillion](https://github.com/marcamillion) | Marc Gayle | Marc Gayle |  | Kingston, Jamaica | 6515 |
 | 11 | [SammarieoBrown](https://github.com/SammarieoBrown) | Sammarieo Brown | AlphaQuants Capital Investment  Fund  |  | Kingston, Jamaica | 6392 |
 | 12 | [billlevine](https://github.com/billlevine) | Bill LeVine | Flox |  | Kingston, Ontario | 6265 |
-| 13 | [tunecrew](https://github.com/tunecrew) | Christopher Edmonds |  |  | Kingston, Jamaica | 5976 |
+| 13 | [tunecrew](https://github.com/tunecrew) | Christopher Edmonds |  |  | Kingston, Jamaica | 6247 |
 | 14 | [dimitriharding](https://github.com/dimitriharding) | Dimitri Harding | Solutions Architect @QualityWorksCG  | irtimid_harding | Kingston, Jamaica | 5470 |
 | 15 | [cogell](https://github.com/cogell) | B. Cedric Cogell |  |  | Kingston, NY | 4636 |
 | 16 | [emperorjm](https://github.com/emperorjm) | Adrian Thompson |  |  | Jamaica | 4532 |

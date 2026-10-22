@@ -23,7 +23,7 @@ Indexed users: 75
 | 9 | [esrid](https://github.com/esrid) | ADS | Martinique | 938 |
 | 10 | [LePtitBiscuit](https://github.com/LePtitBiscuit) | LePtitBiscuit | Martinique | 803 |
 | 11 | [vevedh](https://github.com/vevedh) | Hervé de CHAVIGNY | Martinique | 792 |
-| 12 | [ricard33](https://github.com/ricard33) | Cédric RICARD | Martinique | 488 |
+| 12 | [ricard33](https://github.com/ricard33) | Cédric RICARD | Martinique | 498 |
 | 13 | [blazux](https://github.com/blazux) | Vincent B. | Martinique | 468 |
 | 14 | [steeven-js](https://github.com/steeven-js) | steeven_js | Martinique | 372 |
 | 15 | [b1nj](https://github.com/b1nj) | B1nj | Martinique | 200 |
@@ -83,4 +83,4 @@ Indexed users: 75
 | 19 | [LePtitBiscuit](https://github.com/LePtitBiscuit) | LePtitBiscuit | Martinique | 6 |
 | 20 | [phnxtrill](https://github.com/phnxtrill) | Quentin | Fort-de-France, Martinique | 6 |
 
-Generated: 2026-10-22T08:59:43.056Z
+Generated: 2026-10-22T13:05:40.595Z

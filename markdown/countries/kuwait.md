@@ -31,7 +31,7 @@ Indexed users: 796
 | 17 | [DiNaSoR](https://github.com/DiNaSoR) | BuYousef | Kuwait | 3,515 |
 | 18 | [tammerofficial](https://github.com/tammerofficial) | tammer | Kuwait City | 3,490 |
 | 19 | [aalhendi](https://github.com/aalhendi) | Abdulrazzaq Alhendi | Kuwait | 3,466 |
-| 20 | [saudshaddad](https://github.com/saudshaddad) | Saud Shaddad | Kuwait | 3,290 |
+| 20 | [IKA-Syrian](https://github.com/IKA-Syrian) | I.K.A Syrian | Kuwait | 3,326 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 796
 | 19 | [MoathOthman](https://github.com/MoathOthman) | Moath othman | Kuwait | 85 |
 | 20 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Kuwait | 83 |
 
-Generated: 2026-10-22T08:51:21.338Z
+Generated: 2026-10-22T12:56:26.043Z

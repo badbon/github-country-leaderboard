@@ -12,11 +12,11 @@ Indexed users: 113
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [oscardvs](https://github.com/oscardvs) | Oscar Devos | Liechtenstein | 6,077 |
+| 1 | [oscardvs](https://github.com/oscardvs) | Oscar Devos | Liechtenstein | 6,080 |
 | 2 | [bernhardw](https://github.com/bernhardw) | Bernhard Wanger | Vaduz, Liechtenstein | 4,644 |
-| 3 | [tnaescher](https://github.com/tnaescher) | T. Näscher | Liechtenstein | 4,506 |
+| 3 | [tnaescher](https://github.com/tnaescher) | T. Näscher | Liechtenstein | 4,541 |
 | 4 | [PhilippHGerber](https://github.com/PhilippHGerber) | Philipp H. Gerber | Liechtenstein | 3,016 |
-| 5 | [msanft](https://github.com/msanft) | Moritz Sanft | Liechtenstein | 2,914 |
+| 5 | [msanft](https://github.com/msanft) | Moritz Sanft | Liechtenstein | 2,917 |
 | 6 | [ColinFrick](https://github.com/ColinFrick) | Colin Frick | Liechtenstein | 2,763 |
 | 7 | [AHaldner](https://github.com/AHaldner) | Andrin Haldner | Liechtenstein | 1,850 |
 | 8 | [marsop](https://github.com/marsop) | Alberto Gregorio | Ruggell, Liechtenstein | 1,702 |
@@ -43,7 +43,7 @@ Indexed users: 113
 | 4 | [iwhp](https://github.com/iwhp) | Harry Pfleger | Liechtenstein | 760 |
 | 5 | [masteradhoc](https://github.com/masteradhoc) | Brian | Liechtenstein | 675 |
 | 6 | [PhilippHGerber](https://github.com/PhilippHGerber) | Philipp H. Gerber | Liechtenstein | 582 |
-| 7 | [msanft](https://github.com/msanft) | Moritz Sanft | Liechtenstein | 520 |
+| 7 | [msanft](https://github.com/msanft) | Moritz Sanft | Liechtenstein | 517 |
 | 8 | [archham](https://github.com/archham) | Nicolas Eberle | Liechtenstein | 457 |
 | 9 | [anondotli](https://github.com/anondotli) | anon.li | Liechtenstein | 302 |
 | 10 | [wol-fi](https://github.com/wol-fi) | Wolfgang Schadner | Liechtenstein | 288 |
@@ -54,7 +54,7 @@ Indexed users: 113
 | 15 | [ColinFL](https://github.com/ColinFL) |  | Liechtenstein | 114 |
 | 16 | [shakespear95](https://github.com/shakespear95) | Shakespear Samu | Liechtenstein | 102 |
 | 17 | [ukhan717](https://github.com/ukhan717) | u.khan | Liechtenstein | 99 |
-| 18 | [danheron](https://github.com/danheron) | Dan Heron | Liechtenstein | 77 |
+| 18 | [danheron](https://github.com/danheron) | Dan Heron | Liechtenstein | 76 |
 | 19 | [xenok69](https://github.com/xenok69) | xenok1 | Liechtenstein | 65 |
 | 20 | [anonymouslyanonymous1](https://github.com/anonymouslyanonymous1) | Anonymously Anonymous | Liechtenstein | 46 |
 
@@ -83,4 +83,4 @@ Indexed users: 113
 | 19 | [IncredibleAaron](https://github.com/IncredibleAaron) | Aaron | Vaduz | 13 |
 | 20 | [niklasfrick](https://github.com/niklasfrick) | Niklas Frick | Liechtenstein | 12 |
 
-Generated: 2026-10-22T08:54:07.278Z
+Generated: 2026-10-22T13:00:23.149Z

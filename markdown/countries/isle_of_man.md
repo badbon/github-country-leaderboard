@@ -12,16 +12,16 @@ Indexed users: 155
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [Not-Chur-Architect](https://github.com/Not-Chur-Architect) | Nicholas Campisano | Isle of Man | 11,557 |
-| 2 | [auberryberry](https://github.com/auberryberry) | Aubrey Stearn | Isle of Man | 10,459 |
+| 1 | [Not-Chur-Architect](https://github.com/Not-Chur-Architect) | Nicholas Campisano | Isle of Man | 11,559 |
+| 2 | [auberryberry](https://github.com/auberryberry) | Aubrey Stearn | Isle of Man | 10,456 |
 | 3 | [bengris32](https://github.com/bengris32) | Ben | Isle of Man | 8,495 |
 | 4 | [darrenbarklie](https://github.com/darrenbarklie) | Darren Barklie | Isle of Man | 4,498 |
 | 5 | [tekminewe](https://github.com/tekminewe) | Ewe Tek Min | Isle of Man | 3,719 |
-| 6 | [oliciv](https://github.com/oliciv) | Oli Allen | Isle of Man | 2,212 |
-| 7 | [dive](https://github.com/dive) | Artem Loenko | Isle of Man | 2,160 |
+| 6 | [oliciv](https://github.com/oliciv) | Oli Allen | Isle of Man | 2,354 |
+| 7 | [dive](https://github.com/dive) | Artem Loenko | Isle of Man | 2,177 |
 | 8 | [lukawarren](https://github.com/lukawarren) | Luka Warren | Isle of Man | 1,977 |
 | 9 | [craigiswayne](https://github.com/craigiswayne) | Craig Wayne | Isle of Man | 1,856 |
-| 10 | [PerpetualBeta](https://github.com/PerpetualBeta) | Jonathan M. Hollin | Douglas, Isle of Man | 1,822 |
+| 10 | [PerpetualBeta](https://github.com/PerpetualBeta) | Jonathan M. Hollin | Douglas, Isle of Man | 1,823 |
 | 11 | [thomas-coldwell](https://github.com/thomas-coldwell) | Thomas Coldwell | Isle of Man | 1,716 |
 | 12 | [ceottaki](https://github.com/ceottaki) | Felipe Ceotto | Isle of Man | 1,668 |
 | 13 | [lwangenheim](https://github.com/lwangenheim) | Lee Wangenheim | Isle of Man | 1,498 |
@@ -83,4 +83,4 @@ Indexed users: 155
 | 19 | [lwangenheim](https://github.com/lwangenheim) | Lee Wangenheim | Isle of Man | 19 |
 | 20 | [DanAnkers](https://github.com/DanAnkers) | Daniel Ankers | Isle of Man | 18 |
 
-Generated: 2026-10-22T08:49:07.540Z
+Generated: 2026-10-22T12:54:49.013Z
