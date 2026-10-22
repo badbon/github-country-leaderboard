@@ -64,7 +64,7 @@ Indexed users: 714
 |---:|---|---|---|---:|
 | 1 | [Abdur-rahmaanJ](https://github.com/Abdur-rahmaanJ) | Abdur-Rahmaan Janhangeer | Mauritius | 714 |
 | 2 | [marclamberti](https://github.com/marclamberti) | Marc Lamberti | Mauritius | 630 |
-| 3 | [thatstraw](https://github.com/thatstraw) | Traw | Mauritius | 584 |
+| 3 | [thatstraw](https://github.com/thatstraw) | Traw | Mauritius | 585 |
 | 4 | [Emmastro](https://github.com/Emmastro) | Emmanuel Bauma Murairi | Mauritius | 302 |
 | 5 | [eznix86](https://github.com/eznix86) | Bruno Bernard | Mauritius | 156 |
 | 6 | [Nehal-Bhautoo](https://github.com/Nehal-Bhautoo) | Nehal Bhautoo | Mauritius | 121 |
@@ -83,4 +83,4 @@ Indexed users: 714
 | 19 | [MaskyS](https://github.com/MaskyS) | Kifah M | Mauritius | 76 |
 | 20 | [cbillowes](https://github.com/cbillowes) | Clarice Bouwer | Mauritius | 66 |
 
-Generated: 2026-10-22T20:36:29.281Z
+Generated: 2026-10-22T22:56:47.008Z

@@ -69,7 +69,7 @@ Indexed users: 1,354
 | 5 | [elias-ba](https://github.com/elias-ba) | Elias Waly Ba | Dakar, Senegal | 233 |
 | 6 | [EpsilonCoder](https://github.com/EpsilonCoder) | Epsilon | Dakar ,Senegal | 226 |
 | 7 | [eliaswalyba](https://github.com/eliaswalyba) | Elias W. BA | Dakar, Sénégal | 214 |
-| 8 | [PapiHack](https://github.com/PapiHack) | Meissa (Papi) Mbaye | Dakar, Senegal | 196 |
+| 8 | [PapiHack](https://github.com/PapiHack) | Meissa (Papi) Mbaye | Dakar, Senegal | 197 |
 | 9 | [takanome-dev](https://github.com/takanome-dev) | El Hadji Malick Seck | Dakar, Senegal | 196 |
 | 10 | [MedouneSGB](https://github.com/MedouneSGB) | Médoune Siby Georges Baldé | Dakar | 194 |
 | 11 | [dofbi](https://github.com/dofbi) | dofbi.eth | Senegal | 186 |
@@ -83,4 +83,4 @@ Indexed users: 1,354
 | 19 | [patheGobel](https://github.com/patheGobel) | Pathé BA | Senegal  | 146 |
 | 20 | [ngorseck](https://github.com/ngorseck) | Ngor SECK | Dakar - Sénégal | 142 |
 
-Generated: 2026-10-22T20:49:25.240Z
+Generated: 2026-10-22T23:10:51.553Z

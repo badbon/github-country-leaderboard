@@ -12,11 +12,11 @@ Indexed users: 1,271
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [gordonswaby](https://github.com/gordonswaby) | EduFocal | Kingston, Jamaica  | 43,963 |
+| 1 | [gordonswaby](https://github.com/gordonswaby) | EduFocal | Kingston, Jamaica  | 44,084 |
 | 2 | [slocker3](https://github.com/slocker3) | Stephen Locker | Kingston, WA | 15,880 |
 | 3 | [alexarthurs](https://github.com/alexarthurs) | Alex Arthurs | Kingston, Ontario | 13,899 |
 | 4 | [SirFitz](https://github.com/SirFitz) | Romario Fitzgerald | Jamaica | 11,499 |
-| 5 | [eforth](https://github.com/eforth) | Ervin Forth | Jamaica | 9,217 |
+| 5 | [eforth](https://github.com/eforth) | Ervin Forth | Jamaica | 9,242 |
 | 6 | [kenoButler](https://github.com/kenoButler) | KenoB | Kingston, Jamaica | 8,803 |
 | 7 | [olusiekwin](https://github.com/olusiekwin) | Gramm | kingston, JM | 8,674 |
 | 8 | [QuigProQuo](https://github.com/QuigProQuo) | John Peter Quigley | Kingston, New York | 8,358 |
@@ -28,7 +28,7 @@ Indexed users: 1,271
 | 14 | [dimitriharding](https://github.com/dimitriharding) | Dimitri Harding | Kingston, Jamaica | 5,470 |
 | 15 | [cogell](https://github.com/cogell) | B. Cedric Cogell | Kingston, NY | 4,651 |
 | 16 | [JCarran0](https://github.com/JCarran0) | Jared Carrano | Kingston, NY | 4,533 |
-| 17 | [emperorjm](https://github.com/emperorjm) | Adrian Thompson | Jamaica | 4,532 |
+| 17 | [emperorjm](https://github.com/emperorjm) | Adrian Thompson | Jamaica | 4,454 |
 | 18 | [javaniecampbell](https://github.com/javaniecampbell) | Javanie Campbell | Jamaica | 4,429 |
 | 19 | [kazo0](https://github.com/kazo0) | Steve Bilogan | Kingston, ON | 4,271 |
 | 20 | [capndave](https://github.com/capndave) | David Thompson | Kingston, NY | 4,249 |
@@ -83,4 +83,4 @@ Indexed users: 1,271
 | 19 | [aliasad059](https://github.com/aliasad059) | Ali Asad | Kingston, Ontario | 99 |
 | 20 | [andrewmaier](https://github.com/andrewmaier) | Andrew Maier | Kingston, Ontario | 95 |
 
-Generated: 2026-10-22T20:29:20.375Z
+Generated: 2026-10-22T22:50:16.270Z

@@ -17,12 +17,12 @@ Indexed users: 2,190
 | 3 | [kidiatoliny](https://github.com/kidiatoliny) | kidiatoliny | 23 Rue Théodore Gillen 1625 Howald Luxembourg | 25,967 |
 | 4 | [gillesheinesch](https://github.com/gillesheinesch) | Gilles Heinesch | Luxembourg | 17,082 |
 | 5 | [FlorentNodz](https://github.com/FlorentNodz) | Florent | Luxembourg | 16,702 |
-| 6 | [fxmartin](https://github.com/fxmartin) | François-Xavier Martin | Luxembourg | 16,359 |
+| 6 | [fxmartin](https://github.com/fxmartin) | François-Xavier Martin | Luxembourg | 16,396 |
 | 7 | [leobenkel](https://github.com/leobenkel) | Leo Benkel | Luxembourg | 14,135 |
 | 8 | [JonBasse](https://github.com/JonBasse) | Jonathan Basse | Luxembourg | 12,457 |
 | 9 | [assaad](https://github.com/assaad) | Assaad Moawad | Luxembourg | 12,187 |
 | 10 | [KoStard](https://github.com/KoStard) | Ruben Kostandyan | Luxembourg | 11,546 |
-| 11 | [kboumedal](https://github.com/kboumedal) | Kevin | Luxembourg | 11,268 |
+| 11 | [kboumedal](https://github.com/kboumedal) | Kevin | Luxembourg | 10,747 |
 | 12 | [bolivian-peru](https://github.com/bolivian-peru) | peruvian | Luxembourg | 9,506 |
 | 13 | [SignedAdam](https://github.com/SignedAdam) | adam | Luxembourg | 9,137 |
 | 14 | [AndrejOrsula](https://github.com/AndrejOrsula) | Andrej Orsula | Luxembourg | 8,733 |
@@ -46,7 +46,7 @@ Indexed users: 2,190
 | 7 | [erkobridee](https://github.com/erkobridee) | Erko Bridee | Luxembourg | 3,634 |
 | 8 | [Sashimee](https://github.com/Sashimee) | Alex | Luxembourg | 3,490 |
 | 9 | [ArmenSl](https://github.com/ArmenSl) | ArmenSL | Luxembourg | 3,299 |
-| 10 | [fxmartin](https://github.com/fxmartin) | François-Xavier Martin | Luxembourg | 3,159 |
+| 10 | [fxmartin](https://github.com/fxmartin) | François-Xavier Martin | Luxembourg | 3,218 |
 | 11 | [nicolasguelfi](https://github.com/nicolasguelfi) | Nicolas Guelfi | Esch-sur-Alzette, Luxembourg | 2,366 |
 | 12 | [iglocska](https://github.com/iglocska) | Andras Iklody | Luxembourg | 2,164 |
 | 13 | [PhilippeChepy](https://github.com/PhilippeChepy) | Philippe Chepy | Luxembourg | 2,119 |
@@ -83,4 +83,4 @@ Indexed users: 2,190
 | 19 | [l4rz](https://github.com/l4rz) | Mike K. | Luxembourg | 197 |
 | 20 | [urosolia](https://github.com/urosolia) | Ugo Rosolia | Luxembourg, Lux | 191 |
 
-Generated: 2026-10-22T20:33:52.879Z
+Generated: 2026-10-22T22:54:21.629Z

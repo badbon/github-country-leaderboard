@@ -1,6 +1,6 @@
 # Total Contributions - Niger
 
-Generated: 2026-10-22T20:41:07.102Z
+Generated: 2026-10-22T23:02:14.499Z
 
 Users: 175
 
@@ -21,7 +21,7 @@ Users: 175
 | 13 | [mocy111](https://github.com/mocy111) | Moctar Yonli | @Kamamini  | moctar_yonli | Niamey | 809 |
 | 14 | [oxy227](https://github.com/oxy227) | Ayouba Issoufou |  |  | Niamey/Niger | 783 |
 | 15 | [Godisouleymane](https://github.com/Godisouleymane) | Souleymane Sabiou | @Sakona-Ne | godi_Souleymane | Niger | 759 |
-| 16 | [Ismail0u](https://github.com/Ismail0u) | Ismael |  |  | Niamey & Lomé | 590 |
+| 16 | [Ismail0u](https://github.com/Ismail0u) | Ismael |  |  | Niamey & Lomé | 591 |
 | 17 | [Imrana-Moustapha](https://github.com/Imrana-Moustapha) | Imrana Moustapha |  |  | Niamey-Niger | 527 |
 | 18 | [netmophus](https://github.com/netmophus) | NETMORPHUS | www.techpart. | netmorphus | Niamey | 495 |
 | 19 | [codelive227](https://github.com/codelive227) |  |  |  | Niamey Niger | 459 |

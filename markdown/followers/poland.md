@@ -1,8 +1,8 @@
 # Followers - Poland
 
-Generated: 2026-10-22T20:45:26.346Z
+Generated: 2026-10-22T23:05:34.688Z
 
-Users: 58006
+Users: 58005
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

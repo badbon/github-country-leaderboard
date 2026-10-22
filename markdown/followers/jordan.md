@@ -1,6 +1,6 @@
 # Followers - Jordan
 
-Generated: 2026-10-22T20:29:59.968Z
+Generated: 2026-10-22T22:51:52.004Z
 
 Users: 3998
 
@@ -12,7 +12,7 @@ Users: 3998
 | 4 | [Asaqa988](https://github.com/Asaqa988) | Abedalraheem | international arab islamic bank |  | Amman, Amman Governorate, Jordan | 737 |
 | 5 | [Adel-Nasim](https://github.com/Adel-Nasim) | Adel Nasim Adel Suleiman |  |  | Amman - Jordan | 715 |
 | 6 | [tjoudeh](https://github.com/tjoudeh) | Taiseer Joudeh | Microsoft | tjoudeh | Jordan-Amman | 689 |
-| 7 | [MohammadYounes](https://github.com/MohammadYounes) | Mohammad Younes |  |  | Jordan | 629 |
+| 7 | [MohammadYounes](https://github.com/MohammadYounes) | Mohammad Younes |  |  | Jordan | 628 |
 | 8 | [abuaboud](https://github.com/abuaboud) | Mo AbuAboud | @activepieces  | mabuaboud | Amman, Jordan | 501 |
 | 9 | [Natshah](https://github.com/Natshah) | Rajab Natshah | @Vardot  |  | Amman, Jordan | 469 |
 | 10 | [jaberjaber23](https://github.com/jaberjaber23) | Jaber Jaber | RightNow AI | Akashi203 | Amman, Jordan | 456 |
@@ -22,7 +22,7 @@ Users: 3998
 | 14 | [nancyalaswad90](https://github.com/nancyalaswad90) | Ms. Nancy Al Aswad  | Independent Contractor  | AswadNancy | Jordan | 329 |
 | 15 | [Hamza-Abdulrahman](https://github.com/Hamza-Abdulrahman) | Hamza Abdulrahman |  | R1DDIF | Jordan,Amman | 299 |
 | 16 | [muayyad-alsadi](https://github.com/muayyad-alsadi) | Muayyad Alsadi | @OpenSooq  |  | Jordan | 258 |
-| 17 | [OmarAzizi](https://github.com/OmarAzizi) | Kryptonite | @jordanopensource |  | Amman, Jordan | 246 |
-| 18 | [afaneh92](https://github.com/afaneh92) | mohammad.afaneh92 |  |  | Amman-Jordan | 242 |
+| 17 | [afaneh92](https://github.com/afaneh92) | mohammad.afaneh92 |  |  | Amman-Jordan | 249 |
+| 18 | [OmarAzizi](https://github.com/OmarAzizi) | Kryptonite | @jordanopensource |  | Amman, Jordan | 246 |
 | 19 | [Eng-Mohamed-Elsayed](https://github.com/Eng-Mohamed-Elsayed) | Eng-Mohamed Elsayed |  | MohElsayed_se | Jordan | 197 |
 | 20 | [omar-dulaimi](https://github.com/omar-dulaimi) | Omar Dulaimi |  | omardulaimidev | Jordan | 196 |

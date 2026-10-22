@@ -21,9 +21,9 @@ Indexed users: 1,395
 | 7 | [slzno](https://github.com/slzno) | Luis Solorzano | León, Nicaragua | 6,117 |
 | 8 | [josetorres1](https://github.com/josetorres1) | José Torres | Managua, Nicaragua | 5,686 |
 | 9 | [alfchee](https://github.com/alfchee) | Alfchee | Nicaragua | 5,560 |
-| 10 | [Xch4rt](https://github.com/Xch4rt) | Pablo Gutiérrez | Managua, Nicaragua | 4,699 |
-| 11 | [marcosmamg](https://github.com/marcosmamg) | Marcos Moreno | NIcaragua | 4,618 |
-| 12 | [edycarreyes99](https://github.com/edycarreyes99) | Edycar Reyes | Nicaragua | 4,437 |
+| 10 | [edycarreyes99](https://github.com/edycarreyes99) | Edycar Reyes | Nicaragua | 5,338 |
+| 11 | [Xch4rt](https://github.com/Xch4rt) | Pablo Gutiérrez | Managua, Nicaragua | 4,699 |
+| 12 | [marcosmamg](https://github.com/marcosmamg) | Marcos Moreno | NIcaragua | 4,618 |
 | 13 | [degomon](https://github.com/degomon) | Denis González | Nicaragua | 4,207 |
 | 14 | [victorstein](https://github.com/victorstein) | Alfonso Emilio Gomez Selva | Nicaragua | 4,142 |
 | 15 | [ElVatoEste](https://github.com/ElVatoEste) | VatoDev | Nicaragua | 4,034 |
@@ -56,7 +56,7 @@ Indexed users: 1,395
 | 17 | [ernestoruiz89](https://github.com/ernestoruiz89) | Ernesto Ruiz | Nicaragua | 1,016 |
 | 18 | [Gaboxqc](https://github.com/Gaboxqc) | Gabriel Mayorga | Managua | 967 |
 | 19 | [fabmnt](https://github.com/fabmnt) | Fabián Montoya | Nicaragua | 896 |
-| 20 | [THEGABOALE](https://github.com/THEGABOALE) | Gabriel Alejandro García Angulo | Managua, Nicaragua | 841 |
+| 20 | [edycarreyes99](https://github.com/edycarreyes99) | Edycar Reyes | Nicaragua | 895 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,395
 | 19 | [luismejiadev](https://github.com/luismejiadev) | Luis Mejia | Managua, Nicaragua | 68 |
 | 20 | [dannygaray60](https://github.com/dannygaray60) | Danny Garay | Nicaragua | 61 |
 
-Generated: 2026-10-22T20:40:27.352Z
+Generated: 2026-10-22T23:02:11.594Z

@@ -1,6 +1,6 @@
 # Followers - North Macedonia
 
-Generated: 2026-10-22T20:42:17.953Z
+Generated: 2026-10-22T23:03:11.458Z
 
 Users: 1923
 
@@ -17,10 +17,10 @@ Users: 1923
 | 9 | [Shekswess](https://github.com/Shekswess) | Bojan Jakimovski | Loka | Shekswess | Skopje, Macedonia | 242 |
 | 10 | [stefanandonov](https://github.com/stefanandonov) | Stefan Andonov | Faculty of computer science and engineering - Skopje |  | Skopje, Macedonia | 223 |
 | 11 | [MTrajK](https://github.com/MTrajK) | Meto Trajkovski |  |  | Skopje | 217 |
-| 12 | [hf](https://github.com/hf) | Stojan Dimitrovski | @supabase |  | Skopje, Republic of North Macedonia | 201 |
+| 12 | [hf](https://github.com/hf) | Stojan Dimitrovski | @supabase |  | Skopje, Republic of North Macedonia | 203 |
 | 13 | [davorminchorov](https://github.com/davorminchorov) | Davor Minchorov | @codysseydev  | davorminchorov | Skopje, Macedonia | 186 |
-| 14 | [andrejsshell](https://github.com/andrejsshell) | Andrej | @usekaneo | andrejsshell | Skopje | 180 |
-| 15 | [visar](https://github.com/visar) | Visar Zejnullahu |  |  | Skopje, Macedonia | 180 |
+| 14 | [visar](https://github.com/visar) | Visar Zejnullahu |  |  | Skopje, Macedonia | 181 |
+| 15 | [andrejsshell](https://github.com/andrejsshell) | Andrej | @usekaneo | andrejsshell | Skopje | 180 |
 | 16 | [MatejMecka](https://github.com/MatejMecka) | Matej Plavevski | @CCExtractor |  | Skopje, Macedonia | 178 |
 | 17 | [eritislami](https://github.com/eritislami) | Erit Islami | @OrangeMelons |  | Struga, North Macedonia | 174 |
 | 18 | [sweko](https://github.com/sweko) | Wekoslav Stefanovski | @Sourcico  |  | Skopje | 171 |

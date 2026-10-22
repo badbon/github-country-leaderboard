@@ -1,6 +1,6 @@
 # Total Contributions - Luxembourg
 
-Generated: 2026-10-22T20:33:52.879Z
+Generated: 2026-10-22T22:54:21.629Z
 
 Users: 2190
 
@@ -11,12 +11,12 @@ Users: 2190
 | 3 | [kidiatoliny](https://github.com/kidiatoliny) | kidiatoliny | Akira | kidiatoliny | 23 Rue Théodore Gillen 1625 Howald Luxembourg | 25967 |
 | 4 | [gillesheinesch](https://github.com/gillesheinesch) | Gilles Heinesch | TEGI | gillesheinesch | Luxembourg | 17082 |
 | 5 | [FlorentNodz](https://github.com/FlorentNodz) | Florent | Nodz |  | Luxembourg | 16702 |
-| 6 | [fxmartin](https://github.com/fxmartin) | François-Xavier Martin |  |  | Luxembourg | 16359 |
+| 6 | [fxmartin](https://github.com/fxmartin) | François-Xavier Martin |  |  | Luxembourg | 16396 |
 | 7 | [leobenkel](https://github.com/leobenkel) | Leo Benkel | @Pure-Lambda  |  | Luxembourg | 14135 |
 | 8 | [JonBasse](https://github.com/JonBasse) | Jonathan Basse |  |  | Luxembourg | 12457 |
 | 9 | [assaad](https://github.com/assaad) | Assaad Moawad |  |  | Luxembourg | 12187 |
 | 10 | [KoStard](https://github.com/KoStard) | Ruben Kostandyan | Amazon |  | Luxembourg | 11546 |
-| 11 | [kboumedal](https://github.com/kboumedal) | Kevin | @LuxApps  |  | Luxembourg | 11268 |
+| 11 | [kboumedal](https://github.com/kboumedal) | Kevin | @LuxApps  |  | Luxembourg | 10747 |
 | 12 | [bolivian-peru](https://github.com/bolivian-peru) | peruvian |  |  | Luxembourg | 9506 |
 | 13 | [SignedAdam](https://github.com/SignedAdam) | adam | Narkis.ai | signed_adam | Luxembourg | 9137 |
 | 14 | [AndrejOrsula](https://github.com/AndrejOrsula) | Andrej Orsula |  |  | Luxembourg | 8733 |

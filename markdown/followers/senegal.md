@@ -1,6 +1,6 @@
 # Followers - Senegal
 
-Generated: 2026-10-22T20:49:25.240Z
+Generated: 2026-10-22T23:10:51.553Z
 
 Users: 1354
 
@@ -13,7 +13,7 @@ Users: 1354
 | 5 | [elias-ba](https://github.com/elias-ba) | Elias Waly Ba | @OpenFn | eliaswalyba | Dakar, Senegal | 233 |
 | 6 | [EpsilonCoder](https://github.com/EpsilonCoder) | Epsilon | Gaindé 2000 |  | Dakar ,Senegal | 226 |
 | 7 | [eliaswalyba](https://github.com/eliaswalyba) | Elias W. BA | GalsenAI, Air Sénégal, Coursera, Neograph | eliaswalyba | Dakar, Sénégal | 214 |
-| 8 | [PapiHack](https://github.com/PapiHack) | Meissa (Papi) Mbaye |  | the_it_dev | Dakar, Senegal | 196 |
+| 8 | [PapiHack](https://github.com/PapiHack) | Meissa (Papi) Mbaye |  | the_it_dev | Dakar, Senegal | 197 |
 | 9 | [takanome-dev](https://github.com/takanome-dev) | El Hadji Malick Seck | @TenseiGroup | takanome_dev | Dakar, Senegal | 196 |
 | 10 | [MedouneSGB](https://github.com/MedouneSGB) | Médoune Siby Georges Baldé | Eyone | Medoune_SGB | Dakar | 194 |
 | 11 | [dofbi](https://github.com/dofbi) | dofbi.eth | 01SERVICES | dofbi | Senegal | 186 |

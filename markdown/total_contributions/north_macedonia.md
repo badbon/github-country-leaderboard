@@ -1,6 +1,6 @@
 # Total Contributions - North Macedonia
 
-Generated: 2026-10-22T20:42:17.953Z
+Generated: 2026-10-22T23:03:11.458Z
 
 Users: 1923
 
@@ -15,13 +15,13 @@ Users: 1923
 | 7 | [andrejsshell](https://github.com/andrejsshell) | Andrej | @usekaneo | andrejsshell | Skopje | 6259 |
 | 8 | [sasojadrovski](https://github.com/sasojadrovski) | Sasho Jadrovski |  | sasojadrovski | Skopje, Macedonia | 5912 |
 | 9 | [markopetrov1](https://github.com/markopetrov1) | Marko Petrov | @iCardioAI |  | Skopje, Macedonia | 5388 |
-| 10 | [simeonmarkoski](https://github.com/simeonmarkoski) | Simeon Markoski | @silyze |  | Skopje, Macedonia | 5204 |
-| 11 | [DBozhinovski](https://github.com/DBozhinovski) | Darko Bozhinovski | @axiomatic-dev | d_bozhinovski | Skopje, Macedonia | 5146 |
+| 10 | [DBozhinovski](https://github.com/DBozhinovski) | Darko Bozhinovski | @axiomatic-dev | d_bozhinovski | Skopje, Macedonia | 5237 |
+| 11 | [simeonmarkoski](https://github.com/simeonmarkoski) | Simeon Markoski | @silyze |  | Skopje, Macedonia | 5204 |
 | 12 | [danielilievskii](https://github.com/danielilievskii) | Daniel Ilievski | Intertec.io |  | Skopje, North Macedonia | 4747 |
 | 13 | [Delemangi](https://github.com/Delemangi) | Stefan Milev | @codechem |  | Skopje, North Macedonia | 4673 |
-| 14 | [andreyagovski](https://github.com/andreyagovski) | Andrey |  |  | Macedonia | 4347 |
-| 15 | [Shekswess](https://github.com/Shekswess) | Bojan Jakimovski | Loka | Shekswess | Skopje, Macedonia | 4185 |
-| 16 | [visar](https://github.com/visar) | Visar Zejnullahu |  |  | Skopje, Macedonia | 4148 |
+| 14 | [visar](https://github.com/visar) | Visar Zejnullahu |  |  | Skopje, Macedonia | 4416 |
+| 15 | [andreyagovski](https://github.com/andreyagovski) | Andrey |  |  | Macedonia | 4347 |
+| 16 | [Shekswess](https://github.com/Shekswess) | Bojan Jakimovski | Loka | Shekswess | Skopje, Macedonia | 4185 |
 | 17 | [nikola-n](https://github.com/nikola-n) | Nikola | @CircleLinkHealth | nikola_najdov | Veles, Macedonia | 4049 |
 | 18 | [vetonshabani0](https://github.com/vetonshabani0) | Veton Shabani |  |  | Skopje | 4037 |
 | 19 | [andjiev](https://github.com/andjiev) | Ivan Andjiev | MrQ |  | North Macedonia | 3946 |

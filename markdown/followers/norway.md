@@ -1,6 +1,6 @@
 # Followers - Norway
 
-Generated: 2026-10-22T20:42:29.874Z
+Generated: 2026-10-22T23:03:22.945Z
 
 Users: 19620
 

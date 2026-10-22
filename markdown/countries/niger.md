@@ -27,7 +27,7 @@ Indexed users: 175
 | 13 | [mocy111](https://github.com/mocy111) | Moctar Yonli | Niamey | 809 |
 | 14 | [oxy227](https://github.com/oxy227) | Ayouba Issoufou | Niamey/Niger | 783 |
 | 15 | [Godisouleymane](https://github.com/Godisouleymane) | Souleymane Sabiou | Niger | 759 |
-| 16 | [Ismail0u](https://github.com/Ismail0u) | Ismael | Niamey & Lomé | 590 |
+| 16 | [Ismail0u](https://github.com/Ismail0u) | Ismael | Niamey & Lomé | 591 |
 | 17 | [Imrana-Moustapha](https://github.com/Imrana-Moustapha) | Imrana Moustapha | Niamey-Niger | 527 |
 | 18 | [netmophus](https://github.com/netmophus) | NETMORPHUS | Niamey | 495 |
 | 19 | [codelive227](https://github.com/codelive227) |  | Niamey Niger | 459 |
@@ -41,7 +41,7 @@ Indexed users: 175
 | 2 | [akaletekoffilevis](https://github.com/akaletekoffilevis) | akaletekoffilevis | Niger / Niamey | 1,865 |
 | 3 | [kodjodevf](https://github.com/kodjodevf) | Moustapha Kodjo Amadou | Niamey,Niger | 1,223 |
 | 4 | [FadelMamar](https://github.com/FadelMamar) | Fadel | Niger | 1,049 |
-| 5 | [Ismail0u](https://github.com/Ismail0u) | Ismael | Niamey & Lomé | 590 |
+| 5 | [Ismail0u](https://github.com/Ismail0u) | Ismael | Niamey & Lomé | 591 |
 | 6 | [netmophus](https://github.com/netmophus) | NETMORPHUS | Niamey | 495 |
 | 7 | [Transega](https://github.com/Transega) | Collins Asega Amadala  | Niamey Niger | 383 |
 | 8 | [debugAyo](https://github.com/debugAyo) | Ayomide Olajide | Niger | 282 |
@@ -51,7 +51,7 @@ Indexed users: 175
 | 12 | [feyroozecode](https://github.com/feyroozecode) | Ibrahim Ahmad (feyroozecode) | Niger | 160 |
 | 13 | [Carbouba](https://github.com/Carbouba) | BOUBACAR MAMANE SANI CHEFFOU | Niamey-Niger | 138 |
 | 14 | [F3T1W](https://github.com/F3T1W) | Vlad Matiushin | Zinder, Niger | 124 |
-| 15 | [Chaibouu](https://github.com/Chaibouu) | Chaibouu | Niger | 122 |
+| 15 | [Chaibouu](https://github.com/Chaibouu) | Chaibouu | Niger | 123 |
 | 16 | [abbuss11](https://github.com/abbuss11) | ABBA | Niamey, Niger | 118 |
 | 17 | [MahamadouG0](https://github.com/MahamadouG0) | Mahamadou GARBA | Niamey, Niger  | 104 |
 | 18 | [annmart-svg](https://github.com/annmart-svg) | Anna Martyn | Niger, Niamey | 100 |
@@ -83,4 +83,4 @@ Indexed users: 175
 | 19 | [oxy227](https://github.com/oxy227) | Ayouba Issoufou | Niamey/Niger | 18 |
 | 20 | [Imrana-Moustapha](https://github.com/Imrana-Moustapha) | Imrana Moustapha | Niamey-Niger | 17 |
 
-Generated: 2026-10-22T20:41:07.102Z
+Generated: 2026-10-22T23:02:14.499Z
