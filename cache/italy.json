@@ -126884,7 +126884,7 @@
     "twitterUsername": "",
     "followers": 18,
     "privateContributions": 0,
-    "publicContributions": 82,
+    "publicContributions": 86,
     "createdAt": "2008-12-05T20:51:52Z"
   },
   {
@@ -585726,8 +585726,8 @@
     "location": "Milano, Italia",
     "company": "",
     "twitterUsername": "",
-    "followers": 233,
-    "privateContributions": 2740,
+    "followers": 231,
+    "privateContributions": 2808,
     "publicContributions": 47,
     "createdAt": "2008-03-03T16:49:29Z"
   },
@@ -586136,7 +586136,7 @@
     "twitterUsername": "fain182",
     "followers": 81,
     "privateContributions": 718,
-    "publicContributions": 656,
+    "publicContributions": 657,
     "createdAt": "2008-04-08T17:38:46Z"
   },
   {
@@ -586471,7 +586471,7 @@
     "company": "lp741",
     "twitterUsername": "",
     "followers": 22,
-    "privateContributions": 1595,
+    "privateContributions": 1597,
     "publicContributions": 1,
     "createdAt": "2008-06-24T08:34:04Z"
   },
@@ -586939,7 +586939,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 31,
-    "privateContributions": 5267,
+    "privateContributions": 5268,
     "publicContributions": 8,
     "createdAt": "2008-07-26T08:14:37Z"
   },
@@ -587950,5 +587950,101 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2008-10-16T14:40:15Z"
+  },
+  {
+    "login": "andreareginato",
+    "name": "Andrea Reginato",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/37480?s=72&v=4",
+    "location": "Milan",
+    "company": "Lelylan",
+    "twitterUsername": "",
+    "followers": 347,
+    "privateContributions": 795,
+    "publicContributions": 28,
+    "createdAt": "2008-12-01T09:14:05Z"
+  },
+  {
+    "login": "indaco",
+    "name": "Mirco Veltri",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13519?s=72&u=98e13534db2b3c65ab9fbded9976d76599b5a462&v=4",
+    "location": "Milan",
+    "company": "",
+    "twitterUsername": "mircoveltri",
+    "followers": 41,
+    "privateContributions": 0,
+    "publicContributions": 3512,
+    "createdAt": "2008-06-12T19:16:06Z"
+  },
+  {
+    "login": "fabiomelen",
+    "name": "Fabio Melen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13599?s=72&v=4",
+    "location": "Milan",
+    "company": "Mediaset",
+    "twitterUsername": "",
+    "followers": 13,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2008-06-13T11:46:45Z"
+  },
+  {
+    "login": "chiaroscuro",
+    "name": "KS",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9774?s=72&v=4",
+    "location": "Milan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2008-05-09T09:39:40Z"
+  },
+  {
+    "login": "rampichino",
+    "name": "rampichino",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/31397?s=72&u=4d84a4b80228815d3c4c14b37826598b2fa6596b&v=4",
+    "location": "Milan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 99,
+    "createdAt": "2008-10-28T07:33:58Z"
+  },
+  {
+    "login": "menozero",
+    "name": "Giovanni Pensa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/39382?s=72&v=4",
+    "location": "Milano, Europa",
+    "company": "",
+    "twitterUsername": "menozero",
+    "followers": 19,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2008-12-09T17:57:09Z"
+  },
+  {
+    "login": "ernie",
+    "name": "Ernie Miller",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/14947?s=72&u=88ab1fcf1e55ccc8e4b051ae19b9ad9f6f837bd8&v=4",
+    "location": "Naples, FL",
+    "company": "@gusto",
+    "twitterUsername": "erniemiller",
+    "followers": 495,
+    "privateContributions": 1948,
+    "publicContributions": 1224,
+    "createdAt": "2008-06-25T04:49:40Z"
+  },
+  {
+    "login": "byennen",
+    "name": "Lance Ennen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13984?s=72&v=4",
+    "location": "Miami, FL & Naples, FL",
+    "company": "BYENNEN",
+    "twitterUsername": "",
+    "followers": 100,
+    "privateContributions": 8292,
+    "publicContributions": 1,
+    "createdAt": "2008-06-17T02:59:50Z"
   }
 ]

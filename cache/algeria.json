@@ -43530,7 +43530,7 @@
     "location": "Saïda, Algérie",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-03-06T22:01:35Z"
@@ -43590,8 +43590,8 @@
     "location": "Algiers",
     "company": "Huawei",
     "twitterUsername": "",
-    "followers": 67,
-    "privateContributions": 9,
+    "followers": 66,
+    "privateContributions": 14,
     "publicContributions": 6,
     "createdAt": "2020-08-07T12:57:14Z"
   },
@@ -43602,19 +43602,19 @@
     "location": "Algiers",
     "company": "",
     "twitterUsername": "",
-    "followers": 66,
+    "followers": 64,
     "privateContributions": 0,
-    "publicContributions": 170,
+    "publicContributions": 158,
     "createdAt": "2020-04-27T21:44:03Z"
   },
   {
     "login": "0m3ga13",
     "name": "BARKA Oussama",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/62702326?s=72&u=070c0cad7979b45d0f9ead5a80c008ab2ea661eb&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/62702326?s=72&v=4",
     "location": "Algiers",
     "company": "",
     "twitterUsername": "",
-    "followers": 57,
+    "followers": 58,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-03-26T12:25:21Z"
@@ -43626,7 +43626,7 @@
     "location": "Algiers",
     "company": "USTHB",
     "twitterUsername": "AichaOuadah",
-    "followers": 30,
+    "followers": 33,
     "privateContributions": 1,
     "publicContributions": 0,
     "createdAt": "2020-04-08T14:29:58Z"
@@ -43638,7 +43638,7 @@
     "location": "Algiers",
     "company": "",
     "twitterUsername": "",
-    "followers": 21,
+    "followers": 11,
     "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2020-07-25T06:06:27Z"
@@ -43650,9 +43650,9 @@
     "location": "Algiers",
     "company": "Higher School of computer science",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 15,
     "createdAt": "2020-06-28T12:38:42Z"
   },
   {
@@ -43663,18 +43663,18 @@
     "company": "Awfer Tech Ltd",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 282,
-    "publicContributions": 31,
+    "privateContributions": 411,
+    "publicContributions": 73,
     "createdAt": "2020-05-27T18:56:22Z"
   },
   {
     "login": "aymenbenkouiten",
     "name": "Aymen Benkouiten",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/66102717?s=72&u=d1e36c3ad8f682586bc3000607f84e59eb41920b&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/66102717?s=72&u=275bd33837739d236fe4f85364600a86f1f12581&v=4",
     "location": "Algiers",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 10,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-05-29T03:09:22Z"
@@ -43686,7 +43686,7 @@
     "location": "Algiers",
     "company": "Tada Research",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-08-13T01:26:24Z"
@@ -43698,22 +43698,10 @@
     "location": "Hydra, Algiers",
     "company": "High Commission for Digitalization",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 96,
-    "publicContributions": 1,
+    "followers": 14,
+    "privateContributions": 279,
+    "publicContributions": 56,
     "createdAt": "2020-08-24T23:53:09Z"
-  },
-  {
-    "login": "islamben69",
-    "name": "Islam Benamirouche",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/63475252?s=72&v=4",
-    "location": "Algiers",
-    "company": "ESI-Algiers",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2020-04-10T20:16:38Z"
   },
   {
     "login": "fiikra",
@@ -43724,7 +43712,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 2,
     "createdAt": "2020-04-20T00:34:59Z"
   },
   {
@@ -43735,7 +43723,7 @@
     "company": "Winston Red",
     "twitterUsername": "MoatezzChabane",
     "followers": 5,
-    "privateContributions": 1512,
+    "privateContributions": 1395,
     "publicContributions": 0,
     "createdAt": "2020-10-02T18:08:10Z"
   },
