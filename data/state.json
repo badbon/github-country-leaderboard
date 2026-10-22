@@ -16089,7 +16089,7 @@
           "kind": "country",
           "createdStart": "2009-12-31",
           "createdEnd": "2010-07-01",
-          "page": 7
+          "page": 8
         },
         {
           "country": "australia",
@@ -17302,21 +17302,21 @@
           "kept": 0
         }
       },
-      "lastDiscoveryAt": "2026-10-22T18:46:35.228Z",
+      "lastDiscoveryAt": "2026-10-22T18:56:47.531Z",
       "lastDiscoveryCompletedAt": null,
       "discoveryQueuedThrough": "2026-05-12",
-      "lastCacheChangeAt": "2026-10-22T18:46:35.228Z",
+      "lastCacheChangeAt": "2026-10-22T18:56:47.531Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 2959,
-        "enrichmentRequests": 4520,
-        "usersDiscovered": 275851,
-        "usersEnriched": 88655,
+        "searchRequests": 2960,
+        "enrichmentRequests": 4525,
+        "usersDiscovered": 275951,
+        "usersEnriched": 88755,
         "usersRefreshed": 0,
-        "usersKept": 61434
+        "usersKept": 61529
       }
     },
     "austria": {
@@ -118826,7 +118826,7 @@
       "lastDiscoveryAt": "2026-10-22T15:27:13.040Z",
       "lastDiscoveryCompletedAt": "2026-08-19T15:59:53.681Z",
       "discoveryQueuedThrough": "2026-07-21",
-      "lastCacheChangeAt": "2026-10-22T18:36:23.562Z",
+      "lastCacheChangeAt": "2026-10-22T18:56:47.531Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": null,
@@ -131777,8 +131777,100 @@
     },
     "italy": {
       "slug": "italy",
-      "status": "complete",
-      "queue": [],
+      "status": "discovering",
+      "queue": [
+        {
+          "country": "italy",
+          "term": "italia",
+          "kind": "country",
+          "createdStart": "2026-05-13",
+          "createdEnd": "2026-07-21"
+        },
+        {
+          "country": "italy",
+          "term": "Italian Republic",
+          "kind": "country",
+          "createdStart": "2026-05-13",
+          "createdEnd": "2026-07-21"
+        },
+        {
+          "country": "italy",
+          "term": "Italy",
+          "kind": "country",
+          "createdStart": "2026-05-13",
+          "createdEnd": "2026-07-21"
+        },
+        {
+          "country": "italy",
+          "term": "Repubblica italiana",
+          "kind": "country",
+          "createdStart": "2026-05-13",
+          "createdEnd": "2026-07-21"
+        },
+        {
+          "country": "italy",
+          "term": "bologna",
+          "kind": "city",
+          "createdStart": "2026-05-13",
+          "createdEnd": "2026-07-21"
+        },
+        {
+          "country": "italy",
+          "term": "milan",
+          "kind": "city",
+          "createdStart": "2026-05-13",
+          "createdEnd": "2026-07-21"
+        },
+        {
+          "country": "italy",
+          "term": "milano",
+          "kind": "city",
+          "createdStart": "2026-05-13",
+          "createdEnd": "2026-07-21"
+        },
+        {
+          "country": "italy",
+          "term": "naples",
+          "kind": "city",
+          "createdStart": "2026-05-13",
+          "createdEnd": "2026-07-21"
+        },
+        {
+          "country": "italy",
+          "term": "napoli",
+          "kind": "city",
+          "createdStart": "2026-05-13",
+          "createdEnd": "2026-07-21"
+        },
+        {
+          "country": "italy",
+          "term": "roma",
+          "kind": "city",
+          "createdStart": "2026-05-13",
+          "createdEnd": "2026-07-21"
+        },
+        {
+          "country": "italy",
+          "term": "Rome",
+          "kind": "city",
+          "createdStart": "2026-05-13",
+          "createdEnd": "2026-07-21"
+        },
+        {
+          "country": "italy",
+          "term": "torino",
+          "kind": "city",
+          "createdStart": "2026-05-13",
+          "createdEnd": "2026-07-21"
+        },
+        {
+          "country": "italy",
+          "term": "turin",
+          "kind": "city",
+          "createdStart": "2026-05-13",
+          "createdEnd": "2026-07-21"
+        }
+      ],
       "completed": {
         "italy|country|italia|2025-12-27|2026-05-12||": {
           "completedAt": "2026-08-13T01:40:00.451Z",
@@ -133323,7 +133415,7 @@
       },
       "lastDiscoveryAt": "2026-10-22T18:40:08.580Z",
       "lastDiscoveryCompletedAt": "2026-10-22T18:40:08.580Z",
-      "discoveryQueuedThrough": "2026-05-12",
+      "discoveryQueuedThrough": "2026-07-21",
       "lastCacheChangeAt": "2026-10-22T18:40:08.580Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
@@ -236032,20 +236124,20 @@
       "lastDiscoveryAt": "2026-10-22T07:20:04.909Z",
       "lastDiscoveryCompletedAt": "2026-08-16T04:08:53.322Z",
       "discoveryQueuedThrough": "2026-07-21",
-      "lastCacheChangeAt": "2026-10-22T18:06:19.382Z",
+      "lastCacheChangeAt": "2026-10-22T18:56:53.633Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": "2026-10-22T13:30:05.104Z",
       "lastError": null,
       "stats": {
         "searchRequests": 81,
-        "enrichmentRequests": 236,
+        "enrichmentRequests": 237,
         "usersDiscovered": 629,
-        "usersEnriched": 4230,
-        "usersRefreshed": 3601,
+        "usersEnriched": 4250,
+        "usersRefreshed": 3621,
         "usersKept": 442
       },
-      "refreshCursor": 60
+      "refreshCursor": 80
     },
     "singapore": {
       "slug": "singapore",
@@ -237841,7 +237933,7 @@
       "lastError": {
         "message": "Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.",
         "status": null,
-        "at": "2026-10-22T18:06:51.637Z"
+        "at": "2026-10-22T18:57:25.149Z"
       },
       "stats": {
         "searchRequests": 687,
@@ -300995,18 +301087,18 @@
       "refreshCursor": 400
     }
   },
-  "nextCountryIndex": 235,
+  "nextCountryIndex": 14,
   "nextDeltaCountryIndex": 172,
-  "nextRefreshCountryIndex": 198,
+  "nextRefreshCountryIndex": 200,
   "nextRediscoveryCountryIndex": 0,
-  "lastRunStartedAt": "2026-10-22T18:32:14.496Z",
-  "lastRunFinishedAt": "2026-10-22T18:55:08.529Z",
+  "lastRunStartedAt": "2026-10-22T18:56:07.942Z",
+  "lastRunFinishedAt": "2026-10-22T18:57:25.229Z",
   "stats": {
-    "searchRequests": 89453,
-    "enrichmentRequests": 234821,
-    "usersDiscovered": 5771895,
-    "usersEnriched": 4427129,
-    "usersRefreshed": 760525,
-    "usersKept": 2720988
+    "searchRequests": 89454,
+    "enrichmentRequests": 234827,
+    "usersDiscovered": 5771995,
+    "usersEnriched": 4427249,
+    "usersRefreshed": 760545,
+    "usersKept": 2721083
   }
 }
