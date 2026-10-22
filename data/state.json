@@ -136517,7 +136517,7 @@
           "kept": 56
         }
       },
-      "lastDiscoveryAt": "2026-10-22T20:39:20.160Z",
+      "lastDiscoveryAt": "2026-10-22T22:07:38.770Z",
       "lastDiscoveryCompletedAt": null,
       "discoveryQueuedThrough": "2026-05-12",
       "lastCacheChangeAt": "2026-10-22T20:39:20.159Z",
@@ -136526,9 +136526,9 @@
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 2968,
+        "searchRequests": 2969,
         "enrichmentRequests": 2370,
-        "usersDiscovered": 136941,
+        "usersDiscovered": 137041,
         "usersEnriched": 46212,
         "usersRefreshed": 0,
         "usersKept": 34028
@@ -184535,7 +184535,7 @@
           "kept": 0
         }
       },
-      "lastDiscoveryAt": "2026-10-22T20:39:57.207Z",
+      "lastDiscoveryAt": "2026-10-22T22:08:15.999Z",
       "lastDiscoveryCompletedAt": null,
       "discoveryQueuedThrough": "2026-05-12",
       "lastCacheChangeAt": "2026-10-22T19:58:00.858Z",
@@ -184544,9 +184544,9 @@
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 2968,
+        "searchRequests": 2969,
         "enrichmentRequests": 3496,
-        "usersDiscovered": 278131,
+        "usersDiscovered": 278231,
         "usersEnriched": 67893,
         "usersRefreshed": 0,
         "usersKept": 46882
@@ -209516,7 +209516,85 @@
     "poland": {
       "slug": "poland",
       "status": "refreshing",
-      "queue": [],
+      "queue": [
+        {
+          "country": "poland",
+          "term": "Poland",
+          "kind": "country",
+          "createdStart": "2026-05-13",
+          "createdEnd": "2026-07-21"
+        },
+        {
+          "country": "poland",
+          "term": "polska",
+          "kind": "country",
+          "createdStart": "2026-05-13",
+          "createdEnd": "2026-07-21"
+        },
+        {
+          "country": "poland",
+          "term": "Republic of Poland",
+          "kind": "country",
+          "createdStart": "2026-05-13",
+          "createdEnd": "2026-07-21"
+        },
+        {
+          "country": "poland",
+          "term": "Rzeczpospolita Polska",
+          "kind": "country",
+          "createdStart": "2026-05-13",
+          "createdEnd": "2026-07-21"
+        },
+        {
+          "country": "poland",
+          "term": "gdansk",
+          "kind": "city",
+          "createdStart": "2026-05-13",
+          "createdEnd": "2026-07-21"
+        },
+        {
+          "country": "poland",
+          "term": "krakow",
+          "kind": "city",
+          "createdStart": "2026-05-13",
+          "createdEnd": "2026-07-21"
+        },
+        {
+          "country": "poland",
+          "term": "poznan",
+          "kind": "city",
+          "createdStart": "2026-05-13",
+          "createdEnd": "2026-07-21"
+        },
+        {
+          "country": "poland",
+          "term": "Warsaw",
+          "kind": "city",
+          "createdStart": "2026-05-13",
+          "createdEnd": "2026-07-21"
+        },
+        {
+          "country": "poland",
+          "term": "warszawa",
+          "kind": "city",
+          "createdStart": "2026-05-13",
+          "createdEnd": "2026-07-21"
+        },
+        {
+          "country": "poland",
+          "term": "wroclaw",
+          "kind": "city",
+          "createdStart": "2026-05-13",
+          "createdEnd": "2026-07-21"
+        },
+        {
+          "country": "poland",
+          "term": "wrocław",
+          "kind": "city",
+          "createdStart": "2026-05-13",
+          "createdEnd": "2026-07-21"
+        }
+      ],
       "completed": {
         "poland|country|Poland|2025-12-27|2026-05-12||": {
           "completedAt": "2026-08-13T03:01:51.762Z",
@@ -211001,7 +211079,7 @@
       },
       "lastDiscoveryAt": "2026-10-22T20:28:45.423Z",
       "lastDiscoveryCompletedAt": "2026-10-22T20:28:45.423Z",
-      "discoveryQueuedThrough": "2026-05-12",
+      "discoveryQueuedThrough": "2026-07-21",
       "lastCacheChangeAt": "2026-10-22T20:45:26.346Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
@@ -235293,7 +235371,7 @@
     },
     "sierra_leone": {
       "slug": "sierra_leone",
-      "status": "discovering",
+      "status": "refreshing",
       "queue": [
         {
           "country": "sierra_leone",
@@ -236070,24 +236148,24 @@
       "lastDiscoveryAt": "2026-10-22T20:15:07.677Z",
       "lastDiscoveryCompletedAt": "2026-08-16T04:08:53.322Z",
       "discoveryQueuedThrough": "2026-07-21",
-      "lastCacheChangeAt": "2026-10-22T19:53:01.973Z",
+      "lastCacheChangeAt": "2026-10-22T22:07:44.902Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": "2026-10-22T13:30:05.104Z",
       "lastError": null,
       "stats": {
         "searchRequests": 82,
-        "enrichmentRequests": 238,
+        "enrichmentRequests": 239,
         "usersDiscovered": 629,
-        "usersEnriched": 4270,
-        "usersRefreshed": 3641,
+        "usersEnriched": 4290,
+        "usersRefreshed": 3661,
         "usersKept": 442
       },
-      "refreshCursor": 100
+      "refreshCursor": 120
     },
     "singapore": {
       "slug": "singapore",
-      "status": "discovering",
+      "status": "refreshing",
       "queue": [
         {
           "country": "singapore",
@@ -237877,7 +237955,7 @@
       "lastError": {
         "message": "Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.",
         "status": null,
-        "at": "2026-10-22T19:53:31.642Z"
+        "at": "2026-10-22T22:08:50.479Z"
       },
       "stats": {
         "searchRequests": 688,
@@ -300997,18 +301075,18 @@
       "refreshCursor": 440
     }
   },
-  "nextCountryIndex": 101,
+  "nextCountryIndex": 153,
   "nextDeltaCountryIndex": 213,
-  "nextRefreshCountryIndex": 198,
+  "nextRefreshCountryIndex": 200,
   "nextRediscoveryCountryIndex": 0,
-  "lastRunStartedAt": "2026-10-22T20:20:58.943Z",
-  "lastRunFinishedAt": "2026-10-22T20:50:07.565Z",
+  "lastRunStartedAt": "2026-10-22T22:06:49.710Z",
+  "lastRunFinishedAt": "2026-10-22T22:08:50.579Z",
   "stats": {
-    "searchRequests": 89623,
-    "enrichmentRequests": 235596,
-    "usersDiscovered": 5783032,
-    "usersEnriched": 4441207,
-    "usersRefreshed": 768538,
+    "searchRequests": 89625,
+    "enrichmentRequests": 235597,
+    "usersDiscovered": 5783232,
+    "usersEnriched": 4441227,
+    "usersRefreshed": 768558,
     "usersKept": 2725847
   }
 }
