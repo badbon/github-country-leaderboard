@@ -42739,7 +42739,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 44,
+    "privateContributions": 37,
     "publicContributions": 165,
     "createdAt": "2019-08-24T12:55:27Z"
   },
@@ -42750,9 +42750,9 @@
     "location": "Budapest, Hungary",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 3,
     "createdAt": "2019-10-18T18:00:23Z"
   },
   {
@@ -42764,13 +42764,13 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 415,
+    "publicContributions": 357,
     "createdAt": "2019-03-10T12:13:56Z"
   },
   {
     "login": "MartonGorbe",
     "name": "Márton Görbe",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/58980502?s=72&u=046973f075f98f78fd0effadb1ed049be3507c54&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/58980502?s=72&u=34e95444364bc6efe9f9bb72140386f666c7d4cd&v=4",
     "location": "Hungary",
     "company": "",
     "twitterUsername": "",
@@ -42787,18 +42787,18 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 751,
-    "publicContributions": 163,
+    "privateContributions": 1313,
+    "publicContributions": 145,
     "createdAt": "2019-08-21T12:57:32Z"
   },
   {
-    "login": "Amaru8",
+    "login": "amaru8",
     "name": "Amaru",
     "avatarUrl": "https://avatars.githubusercontent.com/u/52407090?s=72&u=087bdafa46c918f2e50c6f371ae24e0a8d9df6ba&v=4",
     "location": "Hungary",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-07-01T09:59:43Z"
@@ -42811,7 +42811,7 @@
     "company": "",
     "twitterUsername": "szabans",
     "followers": 6,
-    "privateContributions": 4,
+    "privateContributions": 3,
     "publicContributions": 0,
     "createdAt": "2019-07-12T09:51:44Z"
   },
@@ -42823,33 +42823,9 @@
     "company": "@SAP",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 96,
-    "publicContributions": 52,
+    "privateContributions": 114,
+    "publicContributions": 90,
     "createdAt": "2019-01-08T14:40:34Z"
-  },
-  {
-    "login": "thegrasshopper104",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/57704946?s=72&u=8090976ed850f10731e2792ef5186455aaced762&v=4",
-    "location": "Hungary",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 0,
-    "publicContributions": 19,
-    "createdAt": "2019-11-13T08:43:13Z"
-  },
-  {
-    "login": "toasthunter",
-    "name": "Marci Sebestyen",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/52851538?s=72&u=3b691ceab44f92304400eee11460e578b7889832&v=4",
-    "location": "Hungary",
-    "company": "HUN-REN Centre for Energy Research",
-    "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 15,
-    "publicContributions": 0,
-    "createdAt": "2019-07-13T08:21:40Z"
   },
   {
     "login": "krisztinatxt",
@@ -42871,8 +42847,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 14,
-    "publicContributions": 2,
+    "privateContributions": 16,
+    "publicContributions": 6,
     "createdAt": "2019-10-02T19:12:32Z"
   },
   {
@@ -42896,7 +42872,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 4,
-    "publicContributions": 6,
+    "publicContributions": 10,
     "createdAt": "2019-07-25T13:39:43Z"
   },
   {
@@ -42907,7 +42883,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 18,
+    "privateContributions": 16,
     "publicContributions": 0,
     "createdAt": "2019-03-21T10:23:28Z"
   },
@@ -42920,7 +42896,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 48,
     "createdAt": "2019-06-22T18:14:35Z"
   },
   {
@@ -42942,9 +42918,9 @@
     "location": "Hungary",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 60,
+    "publicContributions": 68,
     "createdAt": "2019-06-19T13:18:01Z"
   },
   {
@@ -42956,19 +42932,19 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 52,
+    "publicContributions": 47,
     "createdAt": "2019-02-08T18:10:23Z"
   },
   {
     "login": "szepilot",
-    "name": "",
+    "name": "szepilot",
     "avatarUrl": "https://avatars.githubusercontent.com/u/52172620?s=72&u=64bb216c8a2b8ac4e9347f07d3f6b612b3c53fbc&v=4",
     "location": "Győr, Hungary, Europe",
     "company": "Széchenyi István University",
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 69,
+    "publicContributions": 63,
     "createdAt": "2019-06-24T16:50:18Z"
   },
   {

@@ -42834,9 +42834,9 @@
     "location": "Mexico",
     "company": "Microsoft",
     "twitterUsername": "abrildaur",
-    "followers": 49,
-    "privateContributions": 2,
-    "publicContributions": 43,
+    "followers": 50,
+    "privateContributions": 0,
+    "publicContributions": 25,
     "createdAt": "2022-06-20T18:16:59Z"
   },
   {
@@ -42846,9 +42846,9 @@
     "location": "Monterrey, Mexico",
     "company": "Fantazy Labz",
     "twitterUsername": "",
-    "followers": 46,
-    "privateContributions": 578,
-    "publicContributions": 274,
+    "followers": 49,
+    "privateContributions": 427,
+    "publicContributions": 201,
     "createdAt": "2022-03-29T20:20:55Z"
   },
   {
@@ -42858,8 +42858,8 @@
     "location": "Monterrey, Mexico",
     "company": "Front-End Developer",
     "twitterUsername": "",
-    "followers": 42,
-    "privateContributions": 38,
+    "followers": 39,
+    "privateContributions": 58,
     "publicContributions": 9,
     "createdAt": "2022-02-16T17:57:26Z"
   },
@@ -42870,9 +42870,9 @@
     "location": "Aguascalientes, Mexico",
     "company": "",
     "twitterUsername": "",
-    "followers": 40,
+    "followers": 37,
     "privateContributions": 80,
-    "publicContributions": 64,
+    "publicContributions": 41,
     "createdAt": "2022-01-10T19:19:51Z"
   },
   {
@@ -42902,13 +42902,13 @@
   {
     "login": "andresdanielmtz",
     "name": "Andrés Martínez",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/103913163?s=72&u=a3c304e91b716bf09841a1896e490778afc8866f&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/103913163?s=72&u=60486caa1e932b5236440e8782dd6318d52b48ed&v=4",
     "location": "Mexico",
     "company": "",
     "twitterUsername": "",
     "followers": 37,
-    "privateContributions": 292,
-    "publicContributions": 263,
+    "privateContributions": 266,
+    "publicContributions": 456,
     "createdAt": "2022-04-18T02:40:55Z"
   },
   {
@@ -42918,9 +42918,9 @@
     "location": "Mexico City, Mexico",
     "company": "Bad",
     "twitterUsername": "",
-    "followers": 34,
+    "followers": 67,
     "privateContributions": 0,
-    "publicContributions": 6227,
+    "publicContributions": 680,
     "createdAt": "2022-04-11T02:57:05Z"
   },
   {
@@ -42932,7 +42932,7 @@
     "twitterUsername": "",
     "followers": 34,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 4,
     "createdAt": "2022-02-08T01:03:52Z"
   },
   {
@@ -42942,7 +42942,7 @@
     "location": "Mexico",
     "company": "@hackademymx",
     "twitterUsername": "anisMMurillo",
-    "followers": 28,
+    "followers": 29,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-01-25T00:11:42Z"
@@ -42955,8 +42955,8 @@
     "company": "Universidad Anahuac Oaxaca",
     "twitterUsername": "",
     "followers": 28,
-    "privateContributions": 30,
-    "publicContributions": 185,
+    "privateContributions": 27,
+    "publicContributions": 301,
     "createdAt": "2022-03-28T15:30:32Z"
   },
   {
@@ -42966,9 +42966,9 @@
     "location": "Mexico City, Mexico",
     "company": "DiDi",
     "twitterUsername": "",
-    "followers": 27,
+    "followers": 25,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 1,
     "createdAt": "2022-01-25T00:34:56Z"
   },
   {
@@ -42978,9 +42978,9 @@
     "location": "Mexico City",
     "company": "School of Sciences, UNAM",
     "twitterUsername": "",
-    "followers": 27,
+    "followers": 24,
     "privateContributions": 0,
-    "publicContributions": 37,
+    "publicContributions": 23,
     "createdAt": "2022-02-23T17:02:50Z"
   },
   {
@@ -42992,7 +42992,7 @@
     "twitterUsername": "sweetspot178968",
     "followers": 26,
     "privateContributions": 2,
-    "publicContributions": 1,
+    "publicContributions": 2,
     "createdAt": "2022-05-14T21:00:52Z"
   },
   {
@@ -43016,7 +43016,7 @@
     "twitterUsername": "",
     "followers": 24,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 3,
     "createdAt": "2022-05-25T22:28:10Z"
   },
   {
@@ -43039,20 +43039,20 @@
     "company": "Instituto Tecnológico de la Laguna",
     "twitterUsername": "",
     "followers": 23,
-    "privateContributions": 119,
-    "publicContributions": 14,
+    "privateContributions": 209,
+    "publicContributions": 10,
     "createdAt": "2022-01-31T04:47:01Z"
   },
   {
     "login": "KenatSF",
     "name": "Kenat S. Flores",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/99222596?s=72&u=707f7c41091ce1812c56a018215c5656ea697378&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/99222596?s=72&u=f38c8e647a1879e12300e28e339bcd0a5ce7c3d2&v=4",
     "location": "Mexico City",
     "company": "",
     "twitterUsername": "",
     "followers": 23,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 6,
     "createdAt": "2022-02-07T22:48:26Z"
   },
   {
@@ -43062,9 +43062,9 @@
     "location": "Mexico",
     "company": "",
     "twitterUsername": "AlexBerdejo7",
-    "followers": 22,
+    "followers": 24,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 20,
     "createdAt": "2022-04-07T03:08:33Z"
   },
   {

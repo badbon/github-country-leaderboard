@@ -309934,5 +309934,65 @@
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2026-06-30T21:46:16Z"
+  },
+  {
+    "login": "markusl18",
+    "name": "Ryan Bryant",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298861435?s=72&v=4",
+    "location": "Lake Caitlyn, Vietnam",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-07-01T20:19:05Z"
+  },
+  {
+    "login": "Alexandros5748",
+    "name": "José Peña",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298882148?s=72&v=4",
+    "location": "Vietnam",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-07-01T21:38:15Z"
+  },
+  {
+    "login": "nerea426",
+    "name": "Thiago Gabriel Quesada",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298770239?s=72&v=4",
+    "location": "Vietnam",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 10,
+    "createdAt": "2026-07-01T15:21:01Z"
+  },
+  {
+    "login": "Sompong607",
+    "name": "Luiz Miguel Cornejo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298859980?s=72&v=4",
+    "location": "Vietnam",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-07-01T20:13:45Z"
+  },
+  {
+    "login": "vohoanganhtuan",
+    "name": "Vo Hoang Anh Tuan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298607796?s=72&u=674192b1a19d6a293bc0985c31e6cd5f217cea9c&v=4",
+    "location": "Ho Chi Minh City, Vietnam",
+    "company": "Independent Research",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 134,
+    "createdAt": "2026-07-01T07:35:56Z"
   }
 ]

@@ -42572,7 +42572,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 178,
+    "publicContributions": 180,
     "createdAt": "2020-09-28T14:51:58Z"
   },
   {
@@ -42583,8 +42583,8 @@
     "company": "@canonical",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 124,
-    "publicContributions": 593,
+    "privateContributions": 145,
+    "publicContributions": 688,
     "createdAt": "2020-10-05T05:03:12Z"
   },
   {
@@ -42631,8 +42631,8 @@
     "company": "A Bit Digital Limited",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 73,
-    "publicContributions": 172,
+    "privateContributions": 96,
+    "publicContributions": 222,
     "createdAt": "2020-09-30T12:51:36Z"
   },
   {
@@ -42656,7 +42656,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2020-09-19T06:39:45Z"
   },
   {
@@ -42678,9 +42678,9 @@
     "location": "Hong Kong",
     "company": "Hong Kong University of Science and Technology",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 30,
+    "publicContributions": 24,
     "createdAt": "2020-07-17T08:27:08Z"
   },
   {
@@ -42690,7 +42690,7 @@
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2020-12-08T06:32:30Z"
@@ -42706,18 +42706,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-11-07T14:59:17Z"
-  },
-  {
-    "login": "JiangXiaohui-Christina",
-    "name": "Xiaohui Jiang",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/70929793?s=72&u=16d72f8731473098f82eaf316daf305ad88c671a&v=4",
-    "location": "Hong Kong ",
-    "company": "The Hong Kong University of Science and Technology",
-    "twitterUsername": "XiaohuiJiang2",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 16,
-    "createdAt": "2020-09-08T03:06:02Z"
   },
   {
     "login": "billyau615",
@@ -42738,8 +42726,8 @@
     "location": "Hong Kong",
     "company": "HK PolyU",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 41,
+    "followers": 3,
+    "privateContributions": 51,
     "publicContributions": 2,
     "createdAt": "2020-10-23T06:04:10Z"
   },
@@ -42752,7 +42740,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 5,
     "createdAt": "2020-12-24T15:57:42Z"
   },
   {
