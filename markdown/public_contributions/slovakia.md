@@ -1,6 +1,6 @@
 # Public Contributions - Slovakia
 
-Generated: 2026-10-22T15:08:34.524Z
+Generated: 2026-10-22T16:10:38.623Z
 
 Users: 4657
 
@@ -17,10 +17,10 @@ Users: 4657
 | 9 | [Kenessy](https://github.com/Kenessy) | Daniel Kenessy | VRAXION |  | Slovakia | 3788 |
 | 10 | [imincik](https://github.com/imincik) | Ivan Mincik |  |  | Slovakia | 3740 |
 | 11 | [MatusMockor](https://github.com/MatusMockor) | Matúš Močkor |  |  | Slovakia | 3668 |
-| 12 | [marianmeres](https://github.com/marianmeres) | Marian Meres |  |  | Bratislava, Slovakia | 3264 |
-| 13 | [peter-fusek](https://github.com/peter-fusek) | Peter Fusek \| instarea | @instarea-sk  | fpetko | Bratislava, Slovakia, EU | 3256 |
-| 14 | [vzeman](https://github.com/vzeman) | Viktor Zeman | Quality Unit |  | Bratislava | 3154 |
-| 15 | [NightMean](https://github.com/NightMean) |  |  |  | Slovakia | 3023 |
+| 12 | [NightMean](https://github.com/NightMean) |  |  |  | Slovakia | 3289 |
+| 13 | [marianmeres](https://github.com/marianmeres) | Marian Meres |  |  | Bratislava, Slovakia | 3264 |
+| 14 | [peter-fusek](https://github.com/peter-fusek) | Peter Fusek \| instarea | @instarea-sk  | fpetko | Bratislava, Slovakia, EU | 3256 |
+| 15 | [vzeman](https://github.com/vzeman) | Viktor Zeman | Quality Unit |  | Bratislava | 3154 |
 | 16 | [WizzardSK](https://github.com/WizzardSK) |  |  |  | Bratislava, Slovakia | 2853 |
 | 17 | [alvianzf](https://github.com/alvianzf) | Alvian Zachry Faturrahman | TiketQ |  | Tanjungpinang, Batam, Karimun, Bratislava | 2610 |
 | 18 | [mont127](https://github.com/mont127) | mont127 | None  |  | Slovakia | 2492 |

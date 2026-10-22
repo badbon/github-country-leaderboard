@@ -1,12 +1,12 @@
 # Index Status
 
-Generated: 2026-10-22T16:08:56.781Z
+Generated: 2026-10-22T16:14:36.291Z
 
 | Metric | Value |
 |---|---:|
 | Countries configured | 249 |
 | Countries published | 234 |
-| Users indexed | 2,716,777 |
+| Users indexed | 2,716,932 |
 | Discovery shards queued | 20,902 |
 
 ## Country Status
@@ -32,6 +32,6 @@ Generated: 2026-10-22T16:08:56.781Z
 | Netherlands | discovering | 47 |
 | Canada | discovering | 44 |
 | Spain | discovering | 36 |
-| Australia | discovering | 26 |
+| Australia | discovering | 27 |
 | Poland | discovering | 15 |
 | Italy | discovering | 9 |

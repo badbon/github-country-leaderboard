@@ -48,10 +48,10 @@ Indexed users: 4,657
 | 9 | [Kenessy](https://github.com/Kenessy) | Daniel Kenessy | Slovakia | 3,788 |
 | 10 | [imincik](https://github.com/imincik) | Ivan Mincik | Slovakia | 3,740 |
 | 11 | [MatusMockor](https://github.com/MatusMockor) | Matúš Močkor | Slovakia | 3,668 |
-| 12 | [marianmeres](https://github.com/marianmeres) | Marian Meres | Bratislava, Slovakia | 3,264 |
-| 13 | [peter-fusek](https://github.com/peter-fusek) | Peter Fusek \| instarea | Bratislava, Slovakia, EU | 3,256 |
-| 14 | [vzeman](https://github.com/vzeman) | Viktor Zeman | Bratislava | 3,154 |
-| 15 | [NightMean](https://github.com/NightMean) |  | Slovakia | 3,023 |
+| 12 | [NightMean](https://github.com/NightMean) |  | Slovakia | 3,289 |
+| 13 | [marianmeres](https://github.com/marianmeres) | Marian Meres | Bratislava, Slovakia | 3,264 |
+| 14 | [peter-fusek](https://github.com/peter-fusek) | Peter Fusek \| instarea | Bratislava, Slovakia, EU | 3,256 |
+| 15 | [vzeman](https://github.com/vzeman) | Viktor Zeman | Bratislava | 3,154 |
 | 16 | [WizzardSK](https://github.com/WizzardSK) |  | Bratislava, Slovakia | 2,853 |
 | 17 | [alvianzf](https://github.com/alvianzf) | Alvian Zachry Faturrahman | Tanjungpinang, Batam, Karimun, Bratislava | 2,610 |
 | 18 | [mont127](https://github.com/mont127) | mont127 | Slovakia | 2,492 |
@@ -83,4 +83,4 @@ Indexed users: 4,657
 | 19 | [Stiivi](https://github.com/Stiivi) | Stefan Urbanek | Bratislava | 280 |
 | 20 | [haad](https://github.com/haad) | Adam Hamsik | Bratislava Slovakia | 259 |
 
-Generated: 2026-10-22T15:08:34.524Z
+Generated: 2026-10-22T16:10:38.623Z
