@@ -1,6 +1,6 @@
 # Public Contributions - Guam
 
-Generated: 2026-10-21T22:17:40.140Z
+Generated: 2026-10-22T00:19:34.630Z
 
 Users: 48
 
@@ -21,8 +21,8 @@ Users: 48
 | 13 | [justjohnnyj](https://github.com/justjohnnyj) | Johnny T |  |  | Guam | 4 |
 | 14 | [Oddbrother](https://github.com/Oddbrother) |  |  | Oddbrother | Guam | 4 |
 | 15 | [ChairGTables](https://github.com/ChairGTables) | Jurichii | Lame Dimension | chairgtables | Guam | 3 |
-| 16 | [Disav0wed](https://github.com/Disav0wed) | Ibrahim R Serpici |  |  | Guam | 2 |
-| 17 | [Duplexx52](https://github.com/Duplexx52) | Notfooledbyallyou |  |  | Guam | 2 |
-| 18 | [guamencja](https://github.com/guamencja) | guam |  |  | Guam | 2 |
+| 16 | [Duplexx52](https://github.com/Duplexx52) | Notfooledbyallyou |  |  | Guam | 2 |
+| 17 | [guamencja](https://github.com/guamencja) | guam |  |  | Guam | 2 |
+| 18 | [Disav0wed](https://github.com/Disav0wed) | Ibrahim R Serpici |  |  | Guam | 1 |
 | 19 | [jasperdanan](https://github.com/jasperdanan) | Jasper Danan |  |  | Guam | 1 |
 | 20 | [alexmwhite](https://github.com/alexmwhite) | Alex M. White | CHamoru |  | Guam | 0 |

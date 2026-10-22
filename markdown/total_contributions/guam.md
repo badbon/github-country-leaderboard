@@ -1,13 +1,13 @@
 # Total Contributions - Guam
 
-Generated: 2026-10-21T22:17:40.140Z
+Generated: 2026-10-22T00:19:34.630Z
 
 Users: 48
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [xiaden](https://github.com/xiaden) | Lucian Hardy |  |  | Guam | 1675 |
-| 2 | [ChairGTables](https://github.com/ChairGTables) | Jurichii | Lame Dimension | chairgtables | Guam | 1565 |
+| 2 | [ChairGTables](https://github.com/ChairGTables) | Jurichii | Lame Dimension | chairgtables | Guam | 1563 |
 | 3 | [dannikate](https://github.com/dannikate) | Dannika | WERI UOG |  | Guam | 1186 |
 | 4 | [ThaumX](https://github.com/ThaumX) | ThaumX |  |  | Guam | 482 |
 | 5 | [Chovin](https://github.com/Chovin) |  |  | Guamfella | Guam | 292 |
@@ -23,6 +23,6 @@ Users: 48
 | 15 | [Ritan671](https://github.com/Ritan671) | Ritan M Borja | KurasonGuahan Wallet  |  | Guam  | 9 |
 | 16 | [justjohnnyj](https://github.com/justjohnnyj) | Johnny T |  |  | Guam | 4 |
 | 17 | [Oddbrother](https://github.com/Oddbrother) |  |  | Oddbrother | Guam | 4 |
-| 18 | [Disav0wed](https://github.com/Disav0wed) | Ibrahim R Serpici |  |  | Guam | 2 |
-| 19 | [Duplexx52](https://github.com/Duplexx52) | Notfooledbyallyou |  |  | Guam | 2 |
-| 20 | [jasperdanan](https://github.com/jasperdanan) | Jasper Danan |  |  | Guam | 2 |
+| 18 | [Duplexx52](https://github.com/Duplexx52) | Notfooledbyallyou |  |  | Guam | 2 |
+| 19 | [jasperdanan](https://github.com/jasperdanan) | Jasper Danan |  |  | Guam | 2 |
+| 20 | [connollyst](https://github.com/connollyst) | Sean Connolly | @Genentech  |  | Guam, USA | 1 |

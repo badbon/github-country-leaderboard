@@ -29,7 +29,7 @@ Indexed users: 63,276
 | 15 | [aashari](https://github.com/aashari) | Andi Ashari | Indonesia | 42,436 |
 | 16 | [iniadittt](https://github.com/iniadittt) | ADITYA BAYU AJI | Cirebon, Indonesia | 40,218 |
 | 17 | [Xnuvers007](https://github.com/Xnuvers007) | XnuxersXploitXen | Indonesia | 39,023 |
-| 18 | [ranggabiner](https://github.com/ranggabiner) | Rangga Hadi Putra | Jakarta, Indonesia | 37,065 |
+| 18 | [ranggabiner](https://github.com/ranggabiner) | Rangga Hadi Putra | Jakarta, Indonesia | 37,256 |
 | 19 | [jekhuz](https://github.com/jekhuz) | jekhuz | indonesia | 35,484 |
 | 20 | [hallucinogen](https://github.com/hallucinogen) | Listiarso Wastuargo | Jakarta | 30,485 |
 
@@ -83,4 +83,4 @@ Indexed users: 63,276
 | 19 | [theodorusclarence](https://github.com/theodorusclarence) | Theodorus Clarence | Indonesia | 1,488 |
 | 20 | [imrenagi](https://github.com/imrenagi) | Imre Nagi | Jakarta | 1,307 |
 
-Generated: 2026-10-21T22:21:23.887Z
+Generated: 2026-10-22T00:23:18.255Z
