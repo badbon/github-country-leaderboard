@@ -5766,9 +5766,9 @@
     "location": "Puerto Rico",
     "company": "",
     "twitterUsername": "",
-    "followers": 24,
+    "followers": 23,
     "privateContributions": 0,
-    "publicContributions": 265,
+    "publicContributions": 268,
     "createdAt": "2020-03-01T18:43:18Z"
   },
   {
@@ -5784,27 +5784,15 @@
     "createdAt": "2020-07-31T15:00:45Z"
   },
   {
-    "login": "G4vp",
-    "name": "Gabriel  Viera",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/66193406?s=72&u=4db4efdd24dc282903e00f5c893dfdf38171bfee&v=4",
-    "location": "Puerto Rico",
-    "company": "University of Puerto Rico - Mayagüez",
-    "twitterUsername": "G4vp_",
-    "followers": 17,
-    "privateContributions": 181,
-    "publicContributions": 22,
-    "createdAt": "2020-05-31T04:20:04Z"
-  },
-  {
     "login": "l-velazquez",
     "name": "Luis Fernando Javier Velazquez Sosa",
     "avatarUrl": "https://avatars.githubusercontent.com/u/60881791?s=72&u=39920537c4067f72b51f6415cf6875352ace975f&v=4",
     "location": "San Juan, Puerto Rico",
     "company": "University of Puerto Rico, Medical Sciences Campus",
     "twitterUsername": "",
-    "followers": 14,
-    "privateContributions": 1125,
-    "publicContributions": 448,
+    "followers": 13,
+    "privateContributions": 1186,
+    "publicContributions": 475,
     "createdAt": "2020-02-10T12:34:22Z"
   },
   {
@@ -5838,7 +5826,7 @@
     "location": "Puerto Rico",
     "company": "Software Engineer @LockheedMartin",
     "twitterUsername": "",
-    "followers": 17,
+    "followers": 16,
     "privateContributions": 33,
     "publicContributions": 287,
     "createdAt": "2020-04-19T12:23:13Z"
@@ -5852,7 +5840,7 @@
     "twitterUsername": "",
     "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 503,
+    "publicContributions": 507,
     "createdAt": "2020-05-14T17:27:54Z"
   },
   {
@@ -5876,7 +5864,7 @@
     "twitterUsername": "Rashido",
     "followers": 11,
     "privateContributions": 324,
-    "publicContributions": 62,
+    "publicContributions": 58,
     "createdAt": "2020-07-04T12:16:05Z"
   },
   {
@@ -5911,7 +5899,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 254,
+    "privateContributions": 257,
     "publicContributions": 68,
     "createdAt": "2020-11-06T04:29:59Z"
   },
@@ -5983,7 +5971,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 54,
+    "privateContributions": 49,
     "publicContributions": 0,
     "createdAt": "2020-10-13T01:39:43Z"
   },

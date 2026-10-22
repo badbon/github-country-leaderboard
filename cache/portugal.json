@@ -44275,7 +44275,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 283,
+    "privateContributions": 319,
     "publicContributions": 0,
     "createdAt": "2023-11-15T23:33:51Z"
   },
@@ -44288,7 +44288,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 2,
-    "publicContributions": 240,
+    "publicContributions": 225,
     "createdAt": "2023-12-15T10:40:02Z"
   },
   {
@@ -44336,7 +44336,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 4,
     "createdAt": "2023-10-30T09:46:06Z"
   },
   {
@@ -44383,8 +44383,8 @@
     "company": "@FEUP",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 206,
-    "publicContributions": 35,
+    "privateContributions": 147,
+    "publicContributions": 37,
     "createdAt": "2023-09-22T10:35:46Z"
   },
   {
@@ -44407,8 +44407,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 2,
+    "privateContributions": 5,
+    "publicContributions": 1,
     "createdAt": "2023-10-26T18:55:37Z"
   },
   {
@@ -44416,7 +44416,7 @@
     "name": "Benjamin Gago",
     "avatarUrl": "https://avatars.githubusercontent.com/u/139866549?s=72&u=2d8e9dbdd08da7bdd8b0891daf0b4cf485bea87a&v=4",
     "location": "Portugal",
-    "company": "",
+    "company": "puente OS",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
@@ -44443,8 +44443,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 6,
-    "publicContributions": 4,
+    "privateContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2023-08-11T10:40:34Z"
   },
   {
@@ -44454,8 +44454,8 @@
     "location": "Setúbal, Portugal",
     "company": "ATEC - Academia de Formação",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 7,
+    "followers": 2,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-10-04T07:28:41Z"
   },
@@ -44468,20 +44468,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 47,
+    "publicContributions": 146,
     "createdAt": "2023-09-20T13:02:54Z"
-  },
-  {
-    "login": "CamilyVoltan",
-    "name": "Camily Voltan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/152056748?s=72&u=80b86a287b53186c4c1c168e1b2a7f93ceaf65af&v=4",
-    "location": "Bragança, Portugal",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 110,
-    "createdAt": "2023-11-26T07:46:29Z"
   },
   {
     "login": "BrunoCarrusca",
@@ -44490,9 +44478,9 @@
     "location": "Sintra, Lisboa, Portugal",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 131,
-    "publicContributions": 14,
+    "followers": 2,
+    "privateContributions": 140,
+    "publicContributions": 6,
     "createdAt": "2023-10-29T08:12:45Z"
   },
   {

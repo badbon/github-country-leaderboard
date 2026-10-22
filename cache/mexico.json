@@ -44250,9 +44250,9 @@
     "location": "Manzanillo, Mexico",
     "company": "Student",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 98,
+    "publicContributions": 109,
     "createdAt": "2022-06-15T22:55:48Z"
   },
   {
@@ -44262,7 +44262,7 @@
     "location": "Mexico",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 10,
     "privateContributions": 9,
     "publicContributions": 1,
     "createdAt": "2022-03-31T19:51:33Z"
@@ -44287,8 +44287,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 9,
-    "publicContributions": 4,
+    "privateContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2022-06-25T13:34:22Z"
   },
   {
@@ -44310,9 +44310,9 @@
     "location": "Mexico",
     "company": "",
     "twitterUsername": "h4xthan",
-    "followers": 8,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 57,
     "createdAt": "2022-04-02T17:55:01Z"
   },
   {
@@ -44322,21 +44322,21 @@
     "location": "Mexico City",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 3,
-    "publicContributions": 44,
+    "followers": 9,
+    "privateContributions": 48,
+    "publicContributions": 71,
     "createdAt": "2022-03-12T20:21:28Z"
   },
   {
     "login": "Alessito54",
     "name": "Alessandro",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/105470745?s=72&u=1bfaa60e069ae1eb0e5d5f9b2a2f11fdc0ad1bdd&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/105470745?s=72&u=1228370be2213dfdfffc976be1b07e9a5300920e&v=4",
     "location": "Orizaba Ver, Mexico.",
     "company": "Universidad Veracruzana",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 217,
+    "publicContributions": 246,
     "createdAt": "2022-05-13T02:13:42Z"
   },
   {
@@ -44348,7 +44348,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 120,
-    "publicContributions": 97,
+    "publicContributions": 1031,
     "createdAt": "2022-01-01T17:57:12Z"
   },
   {
@@ -44394,7 +44394,7 @@
     "location": "Mexico (Remote)",
     "company": "Agora MX",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 9,
     "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2022-01-07T18:40:19Z"
@@ -44420,7 +44420,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 15,
     "createdAt": "2022-01-17T00:25:44Z"
   },
   {
@@ -44430,7 +44430,7 @@
     "location": "Cancun / Mexico",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-05-03T17:07:25Z"
@@ -44444,7 +44444,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 3,
     "createdAt": "2022-01-07T22:48:52Z"
   },
   {
@@ -44456,7 +44456,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 30,
     "createdAt": "2022-01-19T08:26:51Z"
   },
   {
@@ -44468,20 +44468,8 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 31,
+    "publicContributions": 19,
     "createdAt": "2021-12-31T15:55:40Z"
-  },
-  {
-    "login": "jinjernot",
-    "name": "Gilberto Garcia",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/102259170?s=72&u=4234d91e3a2975f29e63863f24c35c1fa8635fc9&v=4",
-    "location": "Mexico",
-    "company": "Sabarobe Studios",
-    "twitterUsername": "jinjernot",
-    "followers": 7,
-    "privateContributions": 804,
-    "publicContributions": 143,
-    "createdAt": "2022-03-23T20:44:04Z"
   },
   {
     "login": "CPimentelMx",
