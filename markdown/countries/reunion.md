@@ -13,7 +13,7 @@ Indexed users: 212
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [fabricepayet](https://github.com/fabricepayet) | Fabrice Payet | Reunion Island | 22,097 |
-| 2 | [PhilDL](https://github.com/PhilDL) | Philippe L'ATTENTION | Réunion | 7,329 |
+| 2 | [PhilDL](https://github.com/PhilDL) | Philippe L'ATTENTION | Réunion | 7,398 |
 | 3 | [digikaizen](https://github.com/digikaizen) | DigiKaizen | Saint-Denis | 6,363 |
 | 4 | [saiht](https://github.com/saiht) | Saiht | Reunion Island | 4,193 |
 | 5 | [axelearning](https://github.com/axelearning) | Axel Rasse | Reunion island | 3,579 |
@@ -27,8 +27,8 @@ Indexed users: 212
 | 13 | [lvothnrv](https://github.com/lvothnrv) | LvothNrv | Reunion Island | 1,973 |
 | 14 | [eldertek](https://github.com/eldertek) | André Théo LAURET | Reunion Island | 1,845 |
 | 15 | [IamArayel](https://github.com/IamArayel) | Arayel | Reunion Island | 1,813 |
-| 16 | [kevinturpin97](https://github.com/kevinturpin97) | RainMan | Reunion Island, France | 1,748 |
-| 17 | [Nasjoe](https://github.com/Nasjoe) | Jonas TURBEAUX | Réunion Island, Villeurbanne, Montpellier : France | 1,742 |
+| 16 | [Nasjoe](https://github.com/Nasjoe) | Jonas TURBEAUX | Réunion Island, Villeurbanne, Montpellier : France | 1,742 |
+| 17 | [kevinturpin97](https://github.com/kevinturpin97) | RainMan | Reunion Island, France | 1,740 |
 | 18 | [gfo974](https://github.com/gfo974) | Geoffrey Fournier  | Réunion Island | 1,364 |
 | 19 | [arthur-girardin-calbe](https://github.com/arthur-girardin-calbe) | Arthur Girardin--Calbe | Réunion | 1,315 |
 | 20 | [mebyz](https://github.com/mebyz) | Emmanuel BOTROS YOUSSEF | reunion island (FR) | 1,173 |
@@ -72,10 +72,10 @@ Indexed users: 212
 | 8 | [oceatoon](https://github.com/oceatoon) | Tibor Katelbach | Reunion island | 48 |
 | 9 | [theo-futol](https://github.com/theo-futol) | Théo Futol | Saint-Denis, Réunion | 34 |
 | 10 | [fabricepayet](https://github.com/fabricepayet) | Fabrice Payet | Reunion Island | 29 |
-| 11 | [Gabouin](https://github.com/Gabouin) | Gabouin | Reunion Island | 28 |
-| 12 | [GuillaumeDupuy](https://github.com/GuillaumeDupuy) | Varius | Seine-Saint-Denis | 28 |
-| 13 | [mebyz](https://github.com/mebyz) | Emmanuel BOTROS YOUSSEF | reunion island (FR) | 28 |
-| 14 | [bilbaoba](https://github.com/bilbaoba) | Mathieu Delsaut | Saint Denis, La Réunion  | 27 |
+| 11 | [bilbaoba](https://github.com/bilbaoba) | Mathieu Delsaut | Saint Denis, La Réunion  | 28 |
+| 12 | [Gabouin](https://github.com/Gabouin) | Gabouin | Reunion Island | 28 |
+| 13 | [GuillaumeDupuy](https://github.com/GuillaumeDupuy) | Varius | Seine-Saint-Denis | 28 |
+| 14 | [mebyz](https://github.com/mebyz) | Emmanuel BOTROS YOUSSEF | reunion island (FR) | 28 |
 | 15 | [ThomasDeruel](https://github.com/ThomasDeruel) | Thomas Deruel | Seine-Saint-Denis | 26 |
 | 16 | [zourite](https://github.com/zourite) | Sonia SAUGRIN | Reunion Island | 26 |
 | 17 | [0x346e3730](https://github.com/0x346e3730) | Antonin CLAUZIER | Saint-Denis, Reunion Island | 23 |
@@ -83,4 +83,4 @@ Indexed users: 212
 | 19 | [julien-lav](https://github.com/julien-lav) | julien-lav | Saint-Denis | 20 |
 | 20 | [Nasjoe](https://github.com/Nasjoe) | Jonas TURBEAUX | Réunion Island, Villeurbanne, Montpellier : France | 20 |
 
-Generated: 2026-10-22T05:58:59.238Z
+Generated: 2026-10-22T07:37:51.901Z

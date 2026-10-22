@@ -21,10 +21,10 @@ Indexed users: 296
 | 7 | [glenhayoge](https://github.com/glenhayoge) | Glen G Hayoge | Papua New Guinea | 1,562 |
 | 8 | [jm0535](https://github.com/jm0535) | Jimmy Moses | Papua New Guinea | 1,526 |
 | 9 | [Amesi](https://github.com/Amesi) | Victor Temokang | Papua New Guinea | 1,425 |
-| 10 | [alefsolutions](https://github.com/alefsolutions) | Louis Ronald | Port Moresby | 1,268 |
+| 10 | [alefsolutions](https://github.com/alefsolutions) | Louis Ronald | Port Moresby | 1,270 |
 | 11 | [eugene-pande](https://github.com/eugene-pande) | Eugene Pande | Port Moresby, Papua New Guinea | 1,153 |
 | 12 | [nessktn](https://github.com/nessktn) | Johannes Kutan | Papua New Guinea | 1,059 |
-| 13 | [nshoresh](https://github.com/nshoresh) | Shoresh Nick Narowen | Port Moresby, 5 Mile | 856 |
+| 13 | [nshoresh](https://github.com/nshoresh) | Shoresh Nick Narowen | Port Moresby, 5 Mile | 906 |
 | 14 | [chrisaugu](https://github.com/chrisaugu) | Christian Augustyn | Madang, Papua New Guinea | 766 |
 | 15 | [jebudo](https://github.com/jebudo) | Jesse Biribudo | Port Moresby, Papua New Guinea | 557 |
 | 16 | [TMJ-24](https://github.com/TMJ-24) | tmj | Port Moresby | 452 |
@@ -83,4 +83,4 @@ Indexed users: 296
 | 19 | [jm0535](https://github.com/jm0535) | Jimmy Moses | Papua New Guinea | 8 |
 | 20 | [loiwai](https://github.com/loiwai) | Loi Wai | Papua New Guinea | 8 |
 
-Generated: 2026-10-22T05:53:17.421Z
+Generated: 2026-10-22T07:34:57.502Z

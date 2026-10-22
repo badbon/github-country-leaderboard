@@ -29,8 +29,8 @@ Indexed users: 1,579
 | 15 | [RationallyPrime](https://github.com/RationallyPrime) | Hákon Freyr Gunnarsson | Iceland | 7,475 |
 | 16 | [bjornj12](https://github.com/bjornj12) | Björn Ólafur Jóhannsson | iceland | 7,381 |
 | 17 | [gthb](https://github.com/gthb) | Gunnlaugur Thor Briem | Reykjavík, Iceland | 7,163 |
-| 18 | [kjartansverrisson](https://github.com/kjartansverrisson) | Kjartan Sverrisson | Iceland | 6,939 |
-| 19 | [arnavmehta7](https://github.com/arnavmehta7) | Arnav Mehta | Island | 6,770 |
+| 18 | [arnavmehta7](https://github.com/arnavmehta7) | Arnav Mehta | Island | 7,129 |
+| 19 | [kjartansverrisson](https://github.com/kjartansverrisson) | Kjartan Sverrisson | Iceland | 6,939 |
 | 20 | [gunniho](https://github.com/gunniho) | Gunnar Holmsteinn | Reykjavik | 6,518 |
 
 ## Public Contributions
@@ -83,4 +83,4 @@ Indexed users: 1,579
 | 19 | [jokull](https://github.com/jokull) | Jökull Sólberg Auðunsson | Reykjavík, Iceland | 209 |
 | 20 | [kevien](https://github.com/kevien) | K3vin | iceland | 204 |
 
-Generated: 2026-10-22T05:26:38.599Z
+Generated: 2026-10-22T07:07:01.410Z

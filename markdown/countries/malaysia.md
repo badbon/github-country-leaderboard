@@ -15,7 +15,7 @@ Indexed users: 11,782
 | 1 | [shuvonsec](https://github.com/shuvonsec) | Md Shariar Shanaz Shuvon | Malaysia  | 307,839 |
 | 2 | [azaharizaman](https://github.com/azaharizaman) | Azahari Zaman | Kuching, Sarawak, Malaysia | 42,689 |
 | 3 | [leoloso](https://github.com/leoloso) | Leonardo Losoviz | Kuala Lumpur, Malaysia | 29,690 |
-| 4 | [Kiyoraka](https://github.com/Kiyoraka) | Afif Maahi | Malaysia | 28,107 |
+| 4 | [Kiyoraka](https://github.com/Kiyoraka) | Afif Maahi | Malaysia | 28,812 |
 | 5 | [naimkatiman](https://github.com/naimkatiman) | Naim | Malaysia | 22,086 |
 | 6 | [hansheng0512](https://github.com/hansheng0512) | Han Sheng | Sri Petaling, Kuala Lumpur, Malaysia | 20,248 |
 | 7 | [booluckgmie](https://github.com/booluckgmie) | Najmi Ariffin | Putrajaya, Malaysia | 18,835 |
@@ -72,7 +72,7 @@ Indexed users: 11,782
 | 8 | [mahmudahsan](https://github.com/mahmudahsan) | Mahmud Ahsan | Cyberjaya, Malaysia | 878 |
 | 9 | [sanikkenway](https://github.com/sanikkenway) | Nik Saiful Anuar | Kuala Lumpur, Malaysia | 843 |
 | 10 | [limxuan](https://github.com/limxuan) | Lim Xuan | Malaysia | 748 |
-| 11 | [MoH-Malaysia](https://github.com/MoH-Malaysia) | Ministry of Health Malaysia | Putrajaya, Malaysia | 687 |
+| 11 | [MoH-Malaysia](https://github.com/MoH-Malaysia) | Ministry of Health Malaysia | Putrajaya, Malaysia | 693 |
 | 12 | [dFarkhod](https://github.com/dFarkhod) | Farkhod | Malaysia | 588 |
 | 13 | [barzin144](https://github.com/barzin144) |  | Kuala Lumpur, Malaysia | 587 |
 | 14 | [iChun](https://github.com/iChun) | iChun | Malaysia | 508 |
@@ -83,4 +83,4 @@ Indexed users: 11,782
 | 19 | [Zeyad-Azima](https://github.com/Zeyad-Azima) | Zer0verflow | Malaysia | 439 |
 | 20 | [RamadhanAmizudin](https://github.com/RamadhanAmizudin) | Ramadhan Amizudin | Malaysia | 401 |
 
-Generated: 2026-10-22T05:39:41.017Z
+Generated: 2026-10-22T07:19:23.367Z

@@ -1,6 +1,6 @@
 # Public Contributions - Greenland
 
-Generated: 2026-10-22T05:23:36.796Z
+Generated: 2026-10-22T07:02:59.927Z
 
 Users: 58
 
@@ -13,7 +13,7 @@ Users: 58
 | 5 | [WingWR](https://github.com/WingWR) |  | Tongji University |  | Greenland | 536 |
 | 6 | [johan-ejstrud](https://github.com/johan-ejstrud) | Johan Ejstrud | Ejstrud Consulting |  | Nuuk, Greenland | 271 |
 | 7 | [pressure679](https://github.com/pressure679) | Vittus Mikiassen | Greenland Business School |  | Greenland | 237 |
-| 8 | [Pocket-sys32](https://github.com/Pocket-sys32) | Manraj Thandi |  |  | Greenland | 222 |
+| 8 | [Pocket-sys32](https://github.com/Pocket-sys32) | Manraj Thandi |  |  | Greenland | 223 |
 | 9 | [aredigg](https://github.com/aredigg) | Are Digranes |  |  | Grønland, Oslo, Norge | 173 |
 | 10 | [adarshdev2](https://github.com/adarshdev2) | ADARSH  |  |  | Greenland | 157 |
 | 11 | [FandyHanz](https://github.com/FandyHanz) | General Tenzen Yamauchi | Early Warning System Glacier Greenland Search And Rescue |  | Fjord Dickson, Greenland | 148 |

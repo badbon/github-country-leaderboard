@@ -1,6 +1,6 @@
 # Followers - Malaysia
 
-Generated: 2026-10-22T05:39:41.017Z
+Generated: 2026-10-22T07:19:23.367Z
 
 Users: 11782
 
@@ -16,7 +16,7 @@ Users: 11782
 | 8 | [mahmudahsan](https://github.com/mahmudahsan) | Mahmud Ahsan | WhatsGood LLC | mahmudahsan | Cyberjaya, Malaysia | 878 |
 | 9 | [sanikkenway](https://github.com/sanikkenway) | Nik Saiful Anuar | @medkadsdnbhd...@saniklab | sanikkenway | Kuala Lumpur, Malaysia | 843 |
 | 10 | [limxuan](https://github.com/limxuan) | Lim Xuan |  |  | Malaysia | 748 |
-| 11 | [MoH-Malaysia](https://github.com/MoH-Malaysia) | Ministry of Health Malaysia |  | KKMPutrajaya | Putrajaya, Malaysia | 687 |
+| 11 | [MoH-Malaysia](https://github.com/MoH-Malaysia) | Ministry of Health Malaysia |  | KKMPutrajaya | Putrajaya, Malaysia | 693 |
 | 12 | [dFarkhod](https://github.com/dFarkhod) | Farkhod | Consolsys Technologies |  | Malaysia | 588 |
 | 13 | [barzin144](https://github.com/barzin144) |  |  |  | Kuala Lumpur, Malaysia | 587 |
 | 14 | [iChun](https://github.com/iChun) | iChun |  |  | Malaysia | 508 |

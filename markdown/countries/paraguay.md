@@ -53,7 +53,7 @@ Indexed users: 2,013
 | 14 | [oscar0pavon](https://github.com/oscar0pavon) | Oscar Pavon | Paraguay | 1,150 |
 | 15 | [m2f0](https://github.com/m2f0) | Mario Mayerle | Paraguay/USA | 1,086 |
 | 16 | [Renetrox](https://github.com/Renetrox) | Dino René Caballero Marquez | Paraguay | 1,060 |
-| 17 | [janparkio](https://github.com/janparkio) | Jan Park | Paraguay | 966 |
+| 17 | [janparkio](https://github.com/janparkio) | Jan Park | Paraguay | 963 |
 | 18 | [matiasinsaurralde](https://github.com/matiasinsaurralde) | Matías Insaurralde | Paraguay | 931 |
 | 19 | [agp-l](https://github.com/agp-l) | AGP[L] | Paraguay | 920 |
 | 20 | [da21nny](https://github.com/da21nny) | Edgar Vega | Paraguay | 906 |
@@ -83,4 +83,4 @@ Indexed users: 2,013
 | 19 | [metakeule](https://github.com/metakeule) | metakeule | Asunción / Paraguay | 109 |
 | 20 | [replay](https://github.com/replay) | Mauro Stettler | Asuncion, Paraguay | 105 |
 
-Generated: 2026-10-22T05:54:58.553Z
+Generated: 2026-10-22T07:35:41.108Z

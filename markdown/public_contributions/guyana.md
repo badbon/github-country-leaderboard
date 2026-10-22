@@ -1,6 +1,6 @@
 # Public Contributions - Guyana
 
-Generated: 2026-10-22T05:26:16.081Z
+Generated: 2026-10-22T07:04:59.983Z
 
 Users: 187
 
@@ -11,7 +11,7 @@ Users: 187
 | 3 | [bdenham](https://github.com/bdenham) | Bruce Denham | @adobe |  | Georgetown, Texas | 3380 |
 | 4 | [negz](https://github.com/negz) | Nic Cope | @upbound  | internegz | Georgetown, Seattle | 1865 |
 | 5 | [jzills](https://github.com/jzills) | Joshua Zillwood |  |  | Georgetown, TX | 1789 |
-| 6 | [ktappdev](https://github.com/ktappdev) | Ken Andrew Taylor | LugeTech, Brutal Tracks Recording Studio, Maad 97.5 FM | ktappdev | Guyana | 1534 |
+| 6 | [ktappdev](https://github.com/ktappdev) | Ken Andrew Taylor | LugeTech, Brutal Tracks Recording Studio, Maad 97.5 FM | ktappdev | Guyana | 1540 |
 | 7 | [rjvaleo](https://github.com/rjvaleo) | transelectronic |  |  | Georgetown, Colorado | 1453 |
 | 8 | [sandogeorge](https://github.com/sandogeorge) | Sando George | Vorso Computing, Inc. | sandogee | Guyana, South America | 1332 |
 | 9 | [kathigg](https://github.com/kathigg) | Kathleen Higgins | Johns Hopkins Applied Physics Lab |  | Georgetown University | 765 |

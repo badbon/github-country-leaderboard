@@ -99,7 +99,7 @@ Published countries: 234
 | Hong Kong | 10,250 | [View](./hong_kong.md) |
 | Hungary | 11,161 | [View](./hungary.md) |
 | Iceland | 1,579 | [View](./iceland.md) |
-| Indonesia | 63,274 | [View](./indonesia.md) |
+| Indonesia | 63,273 | [View](./indonesia.md) |
 | Iran | 26,859 | [View](./iran.md) |
 | Iraq | 2,230 | [View](./iraq.md) |
 | Ireland | 19,485 | [View](./ireland.md) |
@@ -147,9 +147,9 @@ Published countries: 234
 | Myanmar | 2,055 | [View](./myanmar.md) |
 | Namibia | 474 | [View](./namibia.md) |
 | Nauru | 3 | [View](./nauru.md) |
-| Nepal | 14,099 | [View](./nepal.md) |
+| Nepal | 14,098 | [View](./nepal.md) |
 | New Caledonia | 111 | [View](./new_caledonia.md) |
-| New Zealand | 12,143 | [View](./new_zealand.md) |
+| New Zealand | 12,142 | [View](./new_zealand.md) |
 | Nicaragua | 1,395 | [View](./nicaragua.md) |
 | Niger | 175 | [View](./niger.md) |
 | Nigeria | 33,182 | [View](./nigeria.md) |
@@ -239,4 +239,4 @@ Published countries: 234
 | Zambia | 1,336 | [View](./zambia.md) |
 | Zimbabwe | 1,656 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-22T06:55:10.662Z
+Generated: 2026-10-22T07:39:13.153Z

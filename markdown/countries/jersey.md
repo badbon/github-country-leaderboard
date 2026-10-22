@@ -12,7 +12,7 @@ Indexed users: 139
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [marcusquinn](https://github.com/marcusquinn) | Marcus Quinn | London, UK, Los-angeles, California, England, Jersey | 55,074 |
+| 1 | [marcusquinn](https://github.com/marcusquinn) | Marcus Quinn | London, UK, Los-angeles, California, England, Jersey | 55,406 |
 | 2 | [PhilETaylor](https://github.com/PhilETaylor) | Phil E. Taylor | Jersey, Channel Islands | 39,355 |
 | 3 | [jde](https://github.com/jde) | David Erwin | New [York, Jersey] | 11,950 |
 | 4 | [ndestates](https://github.com/ndestates) | Nick Dodsley | Jersey | 10,959 |
@@ -37,7 +37,7 @@ Indexed users: 139
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [marcusquinn](https://github.com/marcusquinn) | Marcus Quinn | London, UK, Los-angeles, California, England, Jersey | 46,416 |
+| 1 | [marcusquinn](https://github.com/marcusquinn) | Marcus Quinn | London, UK, Los-angeles, California, England, Jersey | 38,881 |
 | 2 | [simonbrowndotje](https://github.com/simonbrowndotje) | Simon Brown | Jersey, Channel Islands | 736 |
 | 3 | [PhilETaylor](https://github.com/PhilETaylor) | Phil E. Taylor | Jersey, Channel Islands | 711 |
 | 4 | [j4ckxyz](https://github.com/j4ckxyz) | jack | Jersey, UK | 699 |
@@ -46,10 +46,10 @@ Indexed users: 139
 | 7 | [vraic](https://github.com/vraic) | André Tanguy | Jersey | 500 |
 | 8 | [gnathoi](https://github.com/gnathoi) | Nathaniel Hey | Jersey, Channel Islands | 452 |
 | 9 | [doobox](https://github.com/doobox) | Doobox | Jersey | 409 |
-| 10 | [michaelbutler1998](https://github.com/michaelbutler1998) | Michael Butler | Jersey | 407 |
+| 10 | [michaelbutler1998](https://github.com/michaelbutler1998) | Michael Butler | Jersey | 409 |
 | 11 | [mhaddon](https://github.com/mhaddon) | Michael Haddon | Jersey, Channel Islands | 217 |
 | 12 | [xsebby](https://github.com/xsebby) | sebby | jersey | 181 |
-| 13 | [morrisjam](https://github.com/morrisjam) | James Morris | Jersey | 152 |
+| 13 | [morrisjam](https://github.com/morrisjam) | James Morris | Jersey | 156 |
 | 14 | [ndestates](https://github.com/ndestates) | Nick Dodsley | Jersey | 146 |
 | 15 | [devdanio](https://github.com/devdanio) | Dan | Jersey | 139 |
 | 16 | [Adrian609](https://github.com/Adrian609) | Adrian | Jersey | 131 |
@@ -64,7 +64,7 @@ Indexed users: 139
 |---:|---|---|---|---:|
 | 1 | [digitalbuddha](https://github.com/digitalbuddha) | Mike Nakhimovich | The dirty (jersey) | 791 |
 | 2 | [simonbrowndotje](https://github.com/simonbrowndotje) | Simon Brown | Jersey, Channel Islands | 762 |
-| 3 | [marcusquinn](https://github.com/marcusquinn) | Marcus Quinn | London, UK, Los-angeles, California, England, Jersey | 237 |
+| 3 | [marcusquinn](https://github.com/marcusquinn) | Marcus Quinn | London, UK, Los-angeles, California, England, Jersey | 245 |
 | 4 | [PhilETaylor](https://github.com/PhilETaylor) | Phil E. Taylor | Jersey, Channel Islands | 68 |
 | 5 | [CJ-Jackson](https://github.com/CJ-Jackson) | Christopher John Jackson | St. Clement, Jersey | 56 |
 | 6 | [techtribesje](https://github.com/techtribesje) | techtribes.je | Jersey, Channel Islands | 55 |
@@ -83,4 +83,4 @@ Indexed users: 139
 | 19 | [shiaoligreen](https://github.com/shiaoligreen) | Shiao-li Green | Jersey, Channel Islands | 22 |
 | 20 | [Chrisedmo](https://github.com/Chrisedmo) | Chris Mousdale | Jersey, Channel Islands | 20 |
 
-Generated: 2026-10-20T08:56:44.145Z
+Generated: 2026-10-22T07:11:13.010Z

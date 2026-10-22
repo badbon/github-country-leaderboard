@@ -1,6 +1,6 @@
 # Public Contributions - Niger
 
-Generated: 2026-10-22T05:50:05.104Z
+Generated: 2026-10-22T07:28:44.714Z
 
 Users: 175
 
@@ -10,7 +10,7 @@ Users: 175
 | 2 | [akaletekoffilevis](https://github.com/akaletekoffilevis) | akaletekoffilevis | None |  | Niger / Niamey | 1841 |
 | 3 | [kodjodevf](https://github.com/kodjodevf) | Moustapha Kodjo Amadou |  | kodjodevf | Niamey,Niger | 1210 |
 | 4 | [FadelMamar](https://github.com/FadelMamar) | Fadel |  |  | Niger | 1047 |
-| 5 | [Ismail0u](https://github.com/Ismail0u) | Ismael |  |  | Niamey & Lomé | 575 |
+| 5 | [Ismail0u](https://github.com/Ismail0u) | Ismael |  |  | Niamey & Lomé | 590 |
 | 6 | [netmophus](https://github.com/netmophus) | NETMORPHUS | www.techpart. | netmorphus | Niamey | 495 |
 | 7 | [Transega](https://github.com/Transega) | Collins Asega Amadala  | @omdena | asega_collins | Niamey Niger | 383 |
 | 8 | [debugAyo](https://github.com/debugAyo) | Ayomide Olajide | Federal University Of Technology, Minna |  | Niger | 282 |
@@ -19,7 +19,7 @@ Users: 175
 | 11 | [AbdelkaderYS](https://github.com/AbdelkaderYS) | Abdel Kader Younoussi Saley |  |  | Niamey | 194 |
 | 12 | [feyroozecode](https://github.com/feyroozecode) | Ibrahim Ahmad (feyroozecode) |  | feyroozcode | Niger | 160 |
 | 13 | [Carbouba](https://github.com/Carbouba) | BOUBACAR MAMANE SANI CHEFFOU | @vision_visuel |  | Niamey-Niger | 138 |
-| 14 | [Chaibouu](https://github.com/Chaibouu) | Chaibouu |  |  | Niger | 121 |
+| 14 | [Chaibouu](https://github.com/Chaibouu) | Chaibouu |  |  | Niger | 122 |
 | 15 | [abbuss11](https://github.com/abbuss11) | ABBA | Mi+ | abbuss_227 | Niamey, Niger | 117 |
 | 16 | [F3T1W](https://github.com/F3T1W) | Vlad Matiushin | Refactor Factory | elonmusk | Zinder, Niger | 114 |
 | 17 | [MahamadouG0](https://github.com/MahamadouG0) | Mahamadou GARBA |  | GarbaM38909 | Niamey, Niger  | 104 |

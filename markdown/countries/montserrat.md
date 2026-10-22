@@ -28,7 +28,7 @@ Indexed users: 291
 | 14 | [pillingworth](https://github.com/pillingworth) | Paul Illingworth | Plymouth, Devon | 1,640 |
 | 15 | [bostonmyk](https://github.com/bostonmyk) | Mike Mykytyn | Plymouth | 1,454 |
 | 16 | [418error](https://github.com/418error) | Andy 'Channie' Chan | Plymouth | 1,127 |
-| 17 | [samuel-duffield1](https://github.com/samuel-duffield1) | Sam Duffield | Plymouth | 1,068 |
+| 17 | [samuel-duffield1](https://github.com/samuel-duffield1) | Sam Duffield | Plymouth | 1,066 |
 | 18 | [robertjwilson](https://github.com/robertjwilson) | Robert Wilson | Plymouth | 1,050 |
 | 19 | [edgood1](https://github.com/edgood1) | Eddie Goodwin | Plymouth, MA | 975 |
 | 20 | [lucafrancesc](https://github.com/lucafrancesc) | Luca Francesco Eto | Plymouth | 956 |
@@ -53,7 +53,7 @@ Indexed users: 291
 | 14 | [vivekbiju](https://github.com/vivekbiju) | Vivek Biju | Plymouth | 321 |
 | 15 | [scollinspt](https://github.com/scollinspt) | Sean Collins | Plymouth, NH | 296 |
 | 16 | [leeper48](https://github.com/leeper48) | Kurt Jordan | Plymouth, MA | 289 |
-| 17 | [gingeapple182](https://github.com/gingeapple182) | Oliver | Plymouth | 274 |
+| 17 | [gingeapple182](https://github.com/gingeapple182) | Oliver | Plymouth | 273 |
 | 18 | [JacobMalin](https://github.com/JacobMalin) | Jacob Malin | Plymouth, MN | 225 |
 | 19 | [lunatech-3d](https://github.com/lunatech-3d) | LunaTech 3D | Plymouth, Wayne, MI | 207 |
 | 20 | [cjungmann](https://github.com/cjungmann) | Chuck Jungmann | Plymouth, MN USA | 185 |
@@ -83,4 +83,4 @@ Indexed users: 291
 | 19 | [binarytide](https://github.com/binarytide) | John McAndrews | Plymouth, Ma | 21 |
 | 20 | [BeresIvan](https://github.com/BeresIvan) |  | Plymouth, MN | 20 |
 
-Generated: 2026-10-22T05:46:30.913Z
+Generated: 2026-10-22T07:25:14.942Z

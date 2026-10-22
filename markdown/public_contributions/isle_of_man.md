@@ -1,6 +1,6 @@
 # Public Contributions - Isle of Man
 
-Generated: 2026-10-22T05:29:06.885Z
+Generated: 2026-10-22T07:09:21.690Z
 
 Users: 155
 
@@ -9,7 +9,7 @@ Users: 155
 | 1 | [bengris32](https://github.com/bengris32) | Ben |  |  | Isle of Man | 5729 |
 | 2 | [bllbtnd](https://github.com/bllbtnd) | Balla Botond | @apptrackit  |  | Isle of Man | 821 |
 | 3 | [PerpetualBeta](https://github.com/PerpetualBeta) | Jonathan M. Hollin |  |  | Douglas, Isle of Man | 777 |
-| 4 | [craigiswayne](https://github.com/craigiswayne) | Craig Wayne | @uroc-studios | craigiswayne | Isle of Man | 706 |
+| 4 | [craigiswayne](https://github.com/craigiswayne) | Craig Wayne | @uroc-studios | craigiswayne | Isle of Man | 704 |
 | 5 | [torquuato](https://github.com/torquuato) |  |  |  | Isle of Man | 557 |
 | 6 | [jonnyirwin](https://github.com/jonnyirwin) | Jonny Irwin |  |  | Isle of Man | 433 |
 | 7 | [dominichubble](https://github.com/dominichubble) | Dominic Hubble | MezzeData |  | Isle of Man | 359 |

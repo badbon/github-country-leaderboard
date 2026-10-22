@@ -21,7 +21,7 @@ Indexed users: 58
 | 7 | [ibdj](https://github.com/ibdj) | ibdj | Nuuk, Greenland | 699 |
 | 8 | [FandyHanz](https://github.com/FandyHanz) | General Tenzen Yamauchi | Fjord Dickson, Greenland | 261 |
 | 9 | [pressure679](https://github.com/pressure679) | Vittus Mikiassen | Greenland | 237 |
-| 10 | [Pocket-sys32](https://github.com/Pocket-sys32) | Manraj Thandi | Greenland | 230 |
+| 10 | [Pocket-sys32](https://github.com/Pocket-sys32) | Manraj Thandi | Greenland | 231 |
 | 11 | [aredigg](https://github.com/aredigg) | Are Digranes | Grønland, Oslo, Norge | 173 |
 | 12 | [adarshdev2](https://github.com/adarshdev2) | ADARSH  | Greenland | 157 |
 | 13 | [hexia7230](https://github.com/hexia7230) | Terashita | Kaffeklubben Island, Greenland | 129 |
@@ -44,7 +44,7 @@ Indexed users: 58
 | 5 | [WingWR](https://github.com/WingWR) |  | Greenland | 536 |
 | 6 | [johan-ejstrud](https://github.com/johan-ejstrud) | Johan Ejstrud | Nuuk, Greenland | 271 |
 | 7 | [pressure679](https://github.com/pressure679) | Vittus Mikiassen | Greenland | 237 |
-| 8 | [Pocket-sys32](https://github.com/Pocket-sys32) | Manraj Thandi | Greenland | 222 |
+| 8 | [Pocket-sys32](https://github.com/Pocket-sys32) | Manraj Thandi | Greenland | 223 |
 | 9 | [aredigg](https://github.com/aredigg) | Are Digranes | Grønland, Oslo, Norge | 173 |
 | 10 | [adarshdev2](https://github.com/adarshdev2) | ADARSH  | Greenland | 157 |
 | 11 | [FandyHanz](https://github.com/FandyHanz) | General Tenzen Yamauchi | Fjord Dickson, Greenland | 148 |
@@ -77,10 +77,10 @@ Indexed users: 58
 | 13 | [pressure679](https://github.com/pressure679) | Vittus Mikiassen | Greenland | 17 |
 | 14 | [zhaoxieluoke](https://github.com/zhaoxieluoke) | 朝些罗可 | Greenland,Earth | 16 |
 | 15 | [larpSTATGL](https://github.com/larpSTATGL) | Lars Pedersen | Nuuk, Greenland | 12 |
-| 16 | [qovero](https://github.com/qovero) |  | Nuuk, Greenland | 11 |
-| 17 | [piaere](https://github.com/piaere) | piære | greenland | 10 |
-| 18 | [Pocket-sys32](https://github.com/Pocket-sys32) | Manraj Thandi | Greenland | 10 |
+| 16 | [Pocket-sys32](https://github.com/Pocket-sys32) | Manraj Thandi | Greenland | 12 |
+| 17 | [qovero](https://github.com/qovero) |  | Nuuk, Greenland | 11 |
+| 18 | [piaere](https://github.com/piaere) | piære | greenland | 10 |
 | 19 | [DaniEstevezBarcia](https://github.com/DaniEstevezBarcia) | Daniel Estévez-Barcia | Greenland | 8 |
 | 20 | [polarstoat](https://github.com/polarstoat) | Polar stoat | Greenland | 6 |
 
-Generated: 2026-10-22T05:23:36.796Z
+Generated: 2026-10-22T07:02:59.927Z

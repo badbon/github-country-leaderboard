@@ -17,7 +17,7 @@ Indexed users: 75
 | 3 | [diasjorge](https://github.com/diasjorge) | Jorge Dias | Martinique | 5,127 |
 | 4 | [GuillaumeBld](https://github.com/GuillaumeBld) | Guillaume Bolivard | Chicago / Fort-de-France | 4,595 |
 | 5 | [bolom](https://github.com/bolom) | Bolo Michelin | Martinique | 3,118 |
-| 6 | [docVoid](https://github.com/docVoid) | void216 | Martinique | 1,497 |
+| 6 | [docVoid](https://github.com/docVoid) | void216 | Martinique | 1,483 |
 | 7 | [p4cm4n972](https://github.com/p4cm4n972) | Manuel ADELE | Martinique | 1,105 |
 | 8 | [R3tr8](https://github.com/R3tr8) | Franck-Emmanuel | Martinique | 1,010 |
 | 9 | [esrid](https://github.com/esrid) | ADS | Martinique | 938 |
@@ -31,7 +31,7 @@ Indexed users: 75
 | 17 | [Jb-Analytics](https://github.com/Jb-Analytics) | Célia JEAN-BART | Martinique | 160 |
 | 18 | [Ulrico972](https://github.com/Ulrico972) | Ulrich Giberné | Martinique | 140 |
 | 19 | [marieangeliquepied](https://github.com/marieangeliquepied) | Marie-Angélique PIED | Martinique  | 126 |
-| 20 | [nadlgit](https://github.com/nadlgit) | Nadine | Martinique | 106 |
+| 20 | [nadlgit](https://github.com/nadlgit) | Nadine | Martinique | 103 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 75
 | 19 | [LePtitBiscuit](https://github.com/LePtitBiscuit) | LePtitBiscuit | Martinique | 6 |
 | 20 | [phnxtrill](https://github.com/phnxtrill) | Quentin | Fort-de-France, Martinique | 6 |
 
-Generated: 2026-10-22T05:41:12.242Z
+Generated: 2026-10-22T07:22:14.170Z

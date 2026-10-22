@@ -1,6 +1,6 @@
 # Public Contributions - New Caledonia
 
-Generated: 2026-10-22T05:48:46.983Z
+Generated: 2026-10-22T07:27:34.687Z
 
 Users: 111
 
@@ -8,7 +8,7 @@ Users: 111
 |---:|---|---|---|---|---|---:|
 | 1 | [MelanieGault](https://github.com/MelanieGault) | Mélanie | Stratégie Zen IT |  | New Caledonia | 4181 |
 | 2 | [adriens](https://github.com/adriens) | SALES | OPT-NC | rastadidi | Nouméa, New-Caledonia | 3206 |
-| 3 | [kyuhank](https://github.com/kyuhank) | Kyuhan Kim | SPC |  | Noumea, New Caledonia | 2907 |
+| 3 | [kyuhank](https://github.com/kyuhank) | Kyuhan Kim | SPC |  | Noumea, New Caledonia | 2918 |
 | 4 | [tom333](https://github.com/tom333) |  |  |  | Nouméa, New Calédonia | 1477 |
 | 5 | [gvdr](https://github.com/gvdr) | Giulio Valentino Dalla Riva | Pacific Community \| Communauté du Pacifique |  | Noumea, New Caledonia | 748 |
 | 6 | [PLStenger](https://github.com/PLStenger) | Pierre-Louis Stenger | New-Caledonian Agronomic Institute - IAC |  | Nouméa, New-Caledonia | 431 |

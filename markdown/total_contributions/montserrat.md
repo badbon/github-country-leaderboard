@@ -1,6 +1,6 @@
 # Total Contributions - Montserrat
 
-Generated: 2026-10-22T05:46:30.913Z
+Generated: 2026-10-22T07:25:14.942Z
 
 Users: 291
 
@@ -22,7 +22,7 @@ Users: 291
 | 14 | [pillingworth](https://github.com/pillingworth) | Paul Illingworth | @CACI-IIG |  | Plymouth, Devon | 1640 |
 | 15 | [bostonmyk](https://github.com/bostonmyk) | Mike Mykytyn |  |  | Plymouth | 1454 |
 | 16 | [418error](https://github.com/418error) | Andy 'Channie' Chan |  |  | Plymouth | 1127 |
-| 17 | [samuel-duffield1](https://github.com/samuel-duffield1) | Sam Duffield | Balena |  | Plymouth | 1068 |
+| 17 | [samuel-duffield1](https://github.com/samuel-duffield1) | Sam Duffield | Balena |  | Plymouth | 1066 |
 | 18 | [robertjwilson](https://github.com/robertjwilson) | Robert Wilson | Plymouth Marine Laboratory |  | Plymouth | 1050 |
 | 19 | [edgood1](https://github.com/edgood1) | Eddie Goodwin |  |  | Plymouth, MA | 975 |
 | 20 | [lucafrancesc](https://github.com/lucafrancesc) | Luca Francesco Eto |  |  | Plymouth | 956 |

@@ -65,7 +65,7 @@ Indexed users: 1,746
 | 1 | [face-hh](https://github.com/face-hh) | Face | Moldova | 2,279 |
 | 2 | [vmihailenco](https://github.com/vmihailenco) | Vladimir Mihailenco | Moldova | 1,383 |
 | 3 | [CyberShadow](https://github.com/CyberShadow) | Vladimir Panteleev | Moldova, Eastern Europe | 520 |
-| 4 | [messsimo](https://github.com/messsimo) | Daniel Mihai | Republic of Moldova | 356 |
+| 4 | [messsimo](https://github.com/messsimo) | Daniel Mihai | Republic of Moldova | 358 |
 | 5 | [nickmessing](https://github.com/nickmessing) | Nick Messing | Chisinau, Moldova | 349 |
 | 6 | [sergiuchilat](https://github.com/sergiuchilat) | Sergiu Chilat | Moldova | 294 |
 | 7 | [mgutu](https://github.com/mgutu) | Maria Gutu | Republica Moldova | 289 |
@@ -83,4 +83,4 @@ Indexed users: 1,746
 | 19 | [vgaidarji](https://github.com/vgaidarji) | Veaceslav Gaidarji | Moldova | 114 |
 | 20 | [Ernest96](https://github.com/Ernest96) | Ernest | Chisinau Moldova | 107 |
 
-Generated: 2026-10-22T05:44:28.528Z
+Generated: 2026-10-22T07:24:27.657Z

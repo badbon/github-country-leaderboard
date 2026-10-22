@@ -1,6 +1,6 @@
 # Followers - Israel
 
-Generated: 2026-10-22T05:29:33.469Z
+Generated: 2026-10-22T07:10:06.492Z
 
 Users: 12418
 

@@ -1,6 +1,6 @@
 # Total Contributions - Malaysia
 
-Generated: 2026-10-22T05:39:41.017Z
+Generated: 2026-10-22T07:19:23.367Z
 
 Users: 11782
 
@@ -9,7 +9,7 @@ Users: 11782
 | 1 | [shuvonsec](https://github.com/shuvonsec) | Md Shariar Shanaz Shuvon | AwareXone | shuvonsecc | Malaysia  | 307839 |
 | 2 | [azaharizaman](https://github.com/azaharizaman) | Azahari Zaman | @nexusenvision | azaharizaman | Kuching, Sarawak, Malaysia | 42689 |
 | 3 | [leoloso](https://github.com/leoloso) | Leonardo Losoviz | Gato GraphQL | losoviz | Kuala Lumpur, Malaysia | 29690 |
-| 4 | [Kiyoraka](https://github.com/Kiyoraka) | Afif Maahi |  |  | Malaysia | 28107 |
+| 4 | [Kiyoraka](https://github.com/Kiyoraka) | Afif Maahi |  |  | Malaysia | 28812 |
 | 5 | [naimkatiman](https://github.com/naimkatiman) | Naim | RM Investment Bank Ltd |  | Malaysia | 22086 |
 | 6 | [hansheng0512](https://github.com/hansheng0512) | Han Sheng | @ArkMind-Sdn-Bhd  |  | Sri Petaling, Kuala Lumpur, Malaysia | 20248 |
 | 7 | [booluckgmie](https://github.com/booluckgmie) | Najmi Ariffin | @dosm-malaysia | najmi_ariffin | Putrajaya, Malaysia | 18835 |

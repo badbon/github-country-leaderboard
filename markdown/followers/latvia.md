@@ -1,6 +1,6 @@
 # Followers - Latvia
 
-Generated: 2026-10-22T05:36:05.433Z
+Generated: 2026-10-22T07:14:06.639Z
 
 Users: 3250
 

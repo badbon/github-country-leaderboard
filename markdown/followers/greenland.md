@@ -1,6 +1,6 @@
 # Followers - Greenland
 
-Generated: 2026-10-22T05:23:36.796Z
+Generated: 2026-10-22T07:02:59.927Z
 
 Users: 58
 
@@ -21,8 +21,8 @@ Users: 58
 | 13 | [pressure679](https://github.com/pressure679) | Vittus Mikiassen | Greenland Business School |  | Greenland | 17 |
 | 14 | [zhaoxieluoke](https://github.com/zhaoxieluoke) | 朝些罗可 | FT |  | Greenland,Earth | 16 |
 | 15 | [larpSTATGL](https://github.com/larpSTATGL) | Lars Pedersen | Statistics Greenland |  | Nuuk, Greenland | 12 |
-| 16 | [qovero](https://github.com/qovero) |  | Nukissiorfiit |  | Nuuk, Greenland | 11 |
-| 17 | [piaere](https://github.com/piaere) | piære |  | piaere | greenland | 10 |
-| 18 | [Pocket-sys32](https://github.com/Pocket-sys32) | Manraj Thandi |  |  | Greenland | 10 |
+| 16 | [Pocket-sys32](https://github.com/Pocket-sys32) | Manraj Thandi |  |  | Greenland | 12 |
+| 17 | [qovero](https://github.com/qovero) |  | Nukissiorfiit |  | Nuuk, Greenland | 11 |
+| 18 | [piaere](https://github.com/piaere) | piære |  | piaere | greenland | 10 |
 | 19 | [DaniEstevezBarcia](https://github.com/DaniEstevezBarcia) | Daniel Estévez-Barcia | Greenland Institute of Natural Resources |  | Greenland | 8 |
 | 20 | [polarstoat](https://github.com/polarstoat) | Polar stoat |  |  | Greenland | 6 |
