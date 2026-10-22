@@ -1208,7 +1208,7 @@
     "twitterUsername": "",
     "followers": 23,
     "privateContributions": 7,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2015-08-12T05:29:56Z"
   },
   {
@@ -1219,7 +1219,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 17,
-    "privateContributions": 194,
+    "privateContributions": 192,
     "publicContributions": 1,
     "createdAt": "2015-11-11T14:56:57Z"
   },
@@ -1244,7 +1244,7 @@
     "twitterUsername": "",
     "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 3,
     "createdAt": "2015-10-15T17:08:58Z"
   },
   {
@@ -1327,8 +1327,8 @@
     "company": "",
     "twitterUsername": "RagnarokReinier",
     "followers": 117,
-    "privateContributions": 10950,
-    "publicContributions": 2824,
+    "privateContributions": 10970,
+    "publicContributions": 2815,
     "createdAt": "2014-09-20T01:14:54Z"
   },
   {
@@ -1363,7 +1363,7 @@
     "company": "The Southern Commercial Bank N.V.",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 387,
+    "privateContributions": 399,
     "publicContributions": 0,
     "createdAt": "2014-11-25T20:28:44Z"
   },
@@ -1411,7 +1411,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 727,
+    "privateContributions": 722,
     "publicContributions": 0,
     "createdAt": "2013-08-23T11:18:21Z"
   },

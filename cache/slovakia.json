@@ -42223,20 +42223,20 @@
     "company": "vacuumlabs",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 639,
+    "privateContributions": 931,
     "publicContributions": 0,
     "createdAt": "2014-02-19T18:49:07Z"
   },
   {
     "login": "t0msk",
-    "name": "Tomsk",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/7276200?s=72&v=4",
+    "name": "Tomáš Sabo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7276200?s=72&u=a944526400a5b3277b7283402f80902015194f0f&v=4",
     "location": "Bratislava",
     "company": "",
-    "twitterUsername": "",
-    "followers": 4,
+    "twitterUsername": "TomskDEV",
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 71,
+    "publicContributions": 127,
     "createdAt": "2014-04-12T22:04:46Z"
   },
   {
@@ -42248,7 +42248,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 4,
     "createdAt": "2014-11-19T10:32:30Z"
   },
   {
@@ -42272,7 +42272,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2014-05-28T14:13:03Z"
   },
   {
@@ -42283,8 +42283,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 400,
-    "publicContributions": 43,
+    "privateContributions": 378,
+    "publicContributions": 50,
     "createdAt": "2014-09-05T17:09:51Z"
   },
   {
@@ -42295,7 +42295,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 901,
+    "privateContributions": 2343,
     "publicContributions": 6,
     "createdAt": "2014-09-18T19:32:56Z"
   },
@@ -42307,8 +42307,8 @@
     "company": "Younics, s.r.o.",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 582,
-    "publicContributions": 110,
+    "privateContributions": 590,
+    "publicContributions": 109,
     "createdAt": "2014-04-10T17:52:07Z"
   },
   {
@@ -42342,9 +42342,9 @@
     "location": "Bratislava",
     "company": "unknown",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 90,
+    "publicContributions": 3,
     "createdAt": "2014-10-02T09:03:34Z"
   },
   {
@@ -42415,7 +42415,7 @@
     "company": "www.esl.com",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 66,
+    "privateContributions": 15,
     "publicContributions": 0,
     "createdAt": "2014-08-12T06:15:01Z"
   },
