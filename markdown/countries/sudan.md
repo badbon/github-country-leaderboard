@@ -13,7 +13,7 @@ Indexed users: 727
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [mustafa-online](https://github.com/mustafa-online) | Mustafa Online | Khartoum, Sudan | 10,343 |
-| 2 | [TheYass1n](https://github.com/TheYass1n) | Yassin Hussein | Sudan | 7,752 |
+| 2 | [TheYass1n](https://github.com/TheYass1n) | Yassin Hussein | Sudan | 7,863 |
 | 3 | [EMAD77](https://github.com/EMAD77) | Emad777 | Sudan | 6,336 |
 | 4 | [Mohammed-Moniem](https://github.com/Mohammed-Moniem) | Mohammed-Moniem | Farog Diyab St, Mamora, Khartoum, Sudan | 5,369 |
 | 5 | [obaaa8](https://github.com/obaaa8) | محمود عبدالسميع التوم | sudan | 5,199 |
@@ -29,7 +29,7 @@ Indexed users: 727
 | 15 | [osmanabdelsalam](https://github.com/osmanabdelsalam) | Osman Abdelsalam | Sudan / Khartoum | 2,542 |
 | 16 | [Bakrialtaif](https://github.com/Bakrialtaif) | Abobaker Altaif | Sudan | 2,483 |
 | 17 | [AminOmer](https://github.com/AminOmer) | Amin Omer | Khartoum, Sudan | 2,473 |
-| 18 | [asimsharf](https://github.com/asimsharf) | Asim Abdelgadir | Sudan | 2,298 |
+| 18 | [asimsharf](https://github.com/asimsharf) | Asim Abdelgadir | Sudan | 2,305 |
 | 19 | [blacksud0](https://github.com/blacksud0) | OMER SAEED | Khartoum,Sudan | 2,190 |
 | 20 | [OxSama](https://github.com/OxSama) | OxSama | Khartoum - Sudan | 2,134 |
 
@@ -77,10 +77,10 @@ Indexed users: 727
 | 13 | [attaryz](https://github.com/attaryz) | Abdullah Ali | Khartoum, Sudan | 59 |
 | 14 | [HussamAdil](https://github.com/HussamAdil) | Hussam Adil | Sudan | 58 |
 | 15 | [Amar-Dev1](https://github.com/Amar-Dev1) | Amar Ibrahim | Sudan, Khartoum | 57 |
-| 16 | [sam-x86](https://github.com/sam-x86) | SAM X86 | Sudan | 55 |
-| 17 | [mhadiahmed](https://github.com/mhadiahmed) | Mhadi Ahmed | sudan | 54 |
+| 16 | [mhadiahmed](https://github.com/mhadiahmed) | Mhadi Ahmed | sudan | 55 |
+| 17 | [sam-x86](https://github.com/sam-x86) | SAM X86 | Sudan | 55 |
 | 18 | [osayami](https://github.com/osayami) | OSAYAMI | Sudan | 52 |
 | 19 | [kabaros](https://github.com/kabaros) | Mozafar | Khartoum / Glasgow | 51 |
 | 20 | [obaaa8](https://github.com/obaaa8) | محمود عبدالسميع التوم | sudan | 49 |
 
-Generated: 2026-10-21T23:28:40.814Z
+Generated: 2026-10-22T01:08:54.582Z
