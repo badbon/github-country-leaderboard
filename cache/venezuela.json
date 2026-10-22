@@ -43158,7 +43158,7 @@
     "location": "Isla de margarita,  Venezuela",
     "company": "Digilink c.a.",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-10-25T17:58:57Z"
@@ -43182,9 +43182,9 @@
     "location": "Venezuela",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2019-09-14T21:49:09Z"
   },
   {
@@ -43195,7 +43195,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 239,
+    "privateContributions": 165,
     "publicContributions": 78,
     "createdAt": "2019-08-20T22:28:42Z"
   },
@@ -43210,18 +43210,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-10-22T22:09:58Z"
-  },
-  {
-    "login": "menosdB",
-    "name": "Daniel Borrome",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/53497794?s=72&u=6b510a706ba9b280395a69296d16f4df32e4cee8&v=4",
-    "location": "Venezuela",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 3954,
-    "publicContributions": 24,
-    "createdAt": "2019-07-30T23:05:32Z"
   },
   {
     "login": "ganinox",
@@ -43268,7 +43256,7 @@
     "twitterUsername": "0x_rael",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 99,
+    "publicContributions": 83,
     "createdAt": "2019-04-16T13:23:34Z"
   },
   {
@@ -43279,8 +43267,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 606,
-    "publicContributions": 87,
+    "privateContributions": 1049,
+    "publicContributions": 91,
     "createdAt": "2019-04-08T14:20:20Z"
   },
   {

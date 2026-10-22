@@ -42834,7 +42834,7 @@
     "location": "Montevideo, Uruguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-03-17T15:52:47Z"
@@ -42846,7 +42846,7 @@
     "location": "Montevideo, Uruguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-07-18T03:14:23Z"
@@ -42858,9 +42858,9 @@
     "location": "Montevideo, Uruguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 87,
+    "publicContributions": 23,
     "createdAt": "2017-05-15T13:07:00Z"
   },
   {
@@ -42872,7 +42872,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 111,
+    "publicContributions": 145,
     "createdAt": "2017-06-15T16:03:54Z"
   },
   {
@@ -42883,7 +42883,7 @@
     "company": "OrangeLoops",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 11,
+    "privateContributions": 2,
     "publicContributions": 0,
     "createdAt": "2017-04-02T20:20:45Z"
   },
@@ -42894,8 +42894,8 @@
     "location": "Montevideo, Uruguay",
     "company": "@xmartlabs ",
     "twitterUsername": "16sante",
-    "followers": 4,
-    "privateContributions": 90,
+    "followers": 5,
+    "privateContributions": 82,
     "publicContributions": 0,
     "createdAt": "2017-05-30T02:13:30Z"
   },
@@ -42907,7 +42907,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 73,
+    "privateContributions": 78,
     "publicContributions": 0,
     "createdAt": "2017-08-01T20:01:16Z"
   },
@@ -42931,7 +42931,7 @@
     "company": "BrainLogic AI",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 1370,
+    "privateContributions": 1488,
     "publicContributions": 0,
     "createdAt": "2017-03-15T23:08:56Z"
   },
@@ -42944,7 +42944,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 21,
     "createdAt": "2017-06-03T12:13:34Z"
   },
   {
@@ -42980,7 +42980,7 @@
     "twitterUsername": "1123juano",
     "followers": 4,
     "privateContributions": 56,
-    "publicContributions": 2,
+    "publicContributions": 1,
     "createdAt": "2017-08-30T02:34:16Z"
   },
   {
@@ -42991,33 +42991,21 @@
     "company": "@wyeworks ",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 50,
-    "publicContributions": 190,
+    "privateContributions": 80,
+    "publicContributions": 225,
     "createdAt": "2017-03-20T01:58:15Z"
   },
   {
     "login": "lucasbarenchi",
     "name": "Lucas Barenchi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/33553862?s=72&u=e3aa595a3a00c970624e7ad4d8e11baa9a3bf563&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/33553862?s=72&u=a77a71cfd336c44a3b5c2508574547854b42ac0d&v=4",
     "location": "Canelones, Uruguay",
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 952,
+    "privateContributions": 992,
     "publicContributions": 0,
     "createdAt": "2017-11-10T17:11:12Z"
-  },
-  {
-    "login": "ryovann",
-    "name": "Diego del Valle",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/25508668?s=72&v=4",
-    "location": "Montevideo, Uruguay",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 24,
-    "publicContributions": 0,
-    "createdAt": "2017-02-02T15:10:34Z"
   },
   {
     "login": "martin-long-gz",
@@ -43028,7 +43016,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 0,
     "createdAt": "2017-10-12T22:11:35Z"
   },
   {

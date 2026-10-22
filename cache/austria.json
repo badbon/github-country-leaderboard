@@ -43244,7 +43244,7 @@
     "twitterUsername": "tdkumon",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 91,
+    "publicContributions": 186,
     "createdAt": "2021-12-09T22:04:20Z"
   },
   {
@@ -43290,7 +43290,7 @@
     "location": "Graz, Austria",
     "company": "LOVE-IT Passtionate Software Solutions GmbH",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-03-05T11:38:32Z"
@@ -43339,7 +43339,7 @@
     "company": "HTBLuVA Wiener Neustadt",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 45,
+    "privateContributions": 42,
     "publicContributions": 0,
     "createdAt": "2021-06-23T17:30:11Z"
   },
@@ -43376,7 +43376,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 6,
     "createdAt": "2021-10-18T09:23:44Z"
   },
   {
@@ -43416,18 +43416,6 @@
     "createdAt": "2021-04-11T10:22:02Z"
   },
   {
-    "login": "allneu",
-    "name": "Alena Neumannova",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/84042442?s=72&v=4",
-    "location": "Vienna, Austria",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 8,
-    "createdAt": "2021-05-11T19:22:41Z"
-  },
-  {
     "login": "ChubbyPandaAT",
     "name": "Tobias Kunz",
     "avatarUrl": "https://avatars.githubusercontent.com/u/84904725?s=72&u=aa7e16da5a7f18b7389c1cd2dc2428d7ad5f8938&v=4",
@@ -43436,7 +43424,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 52,
+    "publicContributions": 0,
     "createdAt": "2021-05-27T09:17:05Z"
   },
   {
@@ -218914,5 +218902,41 @@
     "privateContributions": 0,
     "publicContributions": 221,
     "createdAt": "2019-05-19T08:24:06Z"
+  },
+  {
+    "login": "bilyayeva",
+    "name": "Alieksandr Bilyayev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298639609?s=72&u=3959535beac3e30292bf14cebe46cd614e3c943f&v=4",
+    "location": "Vienna, Austria",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 207,
+    "publicContributions": 434,
+    "createdAt": "2026-07-01T09:03:33Z"
+  },
+  {
+    "login": "Ebba20578",
+    "name": "Julian Aparicio",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298776145?s=72&v=4",
+    "location": "Austria",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2026-07-01T15:35:37Z"
+  },
+  {
+    "login": "natalia6390",
+    "name": "Jovita Quiroga",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298855308?s=72&v=4",
+    "location": "Lemi, Austria",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2026-07-01T19:56:08Z"
   }
 ]

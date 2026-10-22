@@ -774,9 +774,9 @@
     "location": "tirana",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 375,
+    "publicContributions": 589,
     "createdAt": "2025-10-18T11:38:31Z"
   },
   {
@@ -810,7 +810,7 @@
     "location": "Tirana",
     "company": "CONNXTA sh.p.k",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 15,
     "createdAt": "2025-09-16T10:16:35Z"
@@ -859,21 +859,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 25,
-    "privateContributions": 1883,
+    "privateContributions": 2003,
     "publicContributions": 0,
     "createdAt": "2024-10-16T18:11:27Z"
-  },
-  {
-    "login": "1gzz",
-    "name": "1gz",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/184979345?s=72&u=e92cd2710053bf770126520701908ca3093a0a26&v=4",
-    "location": "Tiranë, Albania",
-    "company": "CEO | orihost.com",
-    "twitterUsername": "",
-    "followers": 16,
-    "privateContributions": 0,
-    "publicContributions": 6,
-    "createdAt": "2024-10-14T17:21:07Z"
   },
   {
     "login": "ronadabasha",
@@ -894,7 +882,7 @@
     "location": "Tirana, Albania",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 12,
     "privateContributions": 0,
     "publicContributions": 81,
     "createdAt": "2024-07-01T13:25:42Z"

@@ -43578,9 +43578,9 @@
     "location": "San José, CR",
     "company": "",
     "twitterUsername": "",
-    "followers": 15,
-    "privateContributions": 676,
-    "publicContributions": 0,
+    "followers": 14,
+    "privateContributions": 567,
+    "publicContributions": 1,
     "createdAt": "2017-07-17T08:44:46Z"
   },
   {
@@ -43590,9 +43590,9 @@
     "location": "Tibás, San José",
     "company": "Costa Rica Institute of Technology",
     "twitterUsername": "",
-    "followers": 13,
+    "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 45,
+    "publicContributions": 252,
     "createdAt": "2017-06-03T17:49:22Z"
   },
   {
@@ -43604,7 +43604,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 10,
     "createdAt": "2017-05-04T23:02:54Z"
   },
   {
@@ -43615,7 +43615,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 355,
+    "privateContributions": 404,
     "publicContributions": 1,
     "createdAt": "2017-06-01T00:28:02Z"
   },
@@ -43650,9 +43650,9 @@
     "location": "San José, Costa Rica",
     "company": "ronnyfreites.com",
     "twitterUsername": "ronnyfreites",
-    "followers": 139,
-    "privateContributions": 1668,
-    "publicContributions": 267,
+    "followers": 69,
+    "privateContributions": 1966,
+    "publicContributions": 248,
     "createdAt": "2016-01-11T01:04:30Z"
   },
   {
@@ -43663,7 +43663,7 @@
     "company": "",
     "twitterUsername": "_JustinCast",
     "followers": 86,
-    "privateContributions": 424,
+    "privateContributions": 388,
     "publicContributions": 17,
     "createdAt": "2016-03-16T22:23:43Z"
   },
@@ -43674,21 +43674,21 @@
     "location": "Cartago, Costa Rica",
     "company": "Intel Corporation",
     "twitterUsername": "",
-    "followers": 65,
-    "privateContributions": 507,
-    "publicContributions": 523,
+    "followers": 68,
+    "privateContributions": 613,
+    "publicContributions": 742,
     "createdAt": "2016-09-16T05:06:23Z"
   },
   {
     "login": "ericksc",
     "name": "Erick Salas-Chaverri",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/20059518?s=72&u=97df7841299e322805185d49cbb1148e1c54c2c4&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/20059518?s=72&v=4",
     "location": "Costa Rica",
     "company": "",
     "twitterUsername": "",
     "followers": 51,
-    "privateContributions": 0,
-    "publicContributions": 56,
+    "privateContributions": 11,
+    "publicContributions": 74,
     "createdAt": "2016-06-21T05:24:43Z"
   },
   {
@@ -43698,7 +43698,7 @@
     "location": "Costa Rica",
     "company": "",
     "twitterUsername": "",
-    "followers": 50,
+    "followers": 51,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-08-24T20:47:04Z"
@@ -43710,9 +43710,9 @@
     "location": "Costa Rica",
     "company": "Telescoped",
     "twitterUsername": "marianocodes",
-    "followers": 45,
-    "privateContributions": 2131,
-    "publicContributions": 48,
+    "followers": 46,
+    "privateContributions": 2241,
+    "publicContributions": 12,
     "createdAt": "2016-01-04T17:31:12Z"
   },
   {
@@ -43722,7 +43722,7 @@
     "location": "Costa Rica",
     "company": "Loops Zone",
     "twitterUsername": "",
-    "followers": 45,
+    "followers": 46,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-02-26T20:31:11Z"
@@ -43734,9 +43734,9 @@
     "location": "Costa Rica",
     "company": "Microsoft",
     "twitterUsername": "fede2_cr",
-    "followers": 44,
+    "followers": 45,
     "privateContributions": 0,
-    "publicContributions": 564,
+    "publicContributions": 438,
     "createdAt": "2016-07-07T14:45:39Z"
   },
   {
@@ -43747,7 +43747,7 @@
     "company": "Craving English",
     "twitterUsername": "",
     "followers": 38,
-    "privateContributions": 26,
+    "privateContributions": 60,
     "publicContributions": 56,
     "createdAt": "2016-12-10T18:14:56Z"
   },
@@ -43758,9 +43758,9 @@
     "location": "San José, Costa Rica.",
     "company": "",
     "twitterUsername": "andresromerodev",
-    "followers": 37,
-    "privateContributions": 1225,
-    "publicContributions": 30,
+    "followers": 35,
+    "privateContributions": 1598,
+    "publicContributions": 38,
     "createdAt": "2016-09-19T00:00:41Z"
   },
   {
@@ -43770,9 +43770,9 @@
     "location": "Costa Rica",
     "company": "",
     "twitterUsername": "",
-    "followers": 32,
-    "privateContributions": 77,
-    "publicContributions": 63,
+    "followers": 33,
+    "privateContributions": 78,
+    "publicContributions": 64,
     "createdAt": "2016-04-12T05:10:46Z"
   },
   {
@@ -43782,9 +43782,9 @@
     "location": "Costa Rica",
     "company": "FullStack Developer | Available for hire",
     "twitterUsername": "itsnow_dev",
-    "followers": 32,
-    "privateContributions": 691,
-    "publicContributions": 300,
+    "followers": 33,
+    "privateContributions": 724,
+    "publicContributions": 258,
     "createdAt": "2016-09-24T17:15:38Z"
   },
   {
@@ -43794,9 +43794,9 @@
     "location": "San José, Costa Rica",
     "company": "@IBM",
     "twitterUsername": "",
-    "followers": 26,
-    "privateContributions": 52,
-    "publicContributions": 100,
+    "followers": 23,
+    "privateContributions": 150,
+    "publicContributions": 506,
     "createdAt": "2016-09-06T18:21:21Z"
   },
   {
@@ -43807,8 +43807,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 25,
-    "privateContributions": 996,
-    "publicContributions": 210,
+    "privateContributions": 745,
+    "publicContributions": 580,
     "createdAt": "2016-10-07T03:13:44Z"
   },
   {

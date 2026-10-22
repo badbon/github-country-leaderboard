@@ -42932,7 +42932,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 40,
+    "publicContributions": 50,
     "createdAt": "2024-09-06T00:36:26Z"
   },
   {
@@ -42943,8 +42943,8 @@
     "company": "Freelance",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1203,
-    "publicContributions": 89,
+    "privateContributions": 1397,
+    "publicContributions": 102,
     "createdAt": "2024-08-09T21:22:37Z"
   },
   {
@@ -42954,7 +42954,7 @@
     "location": "Argentina",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 276,
     "publicContributions": 10,
     "createdAt": "2024-10-10T18:07:12Z"
@@ -42968,7 +42968,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 57,
+    "publicContributions": 95,
     "createdAt": "2024-09-25T00:12:55Z"
   },
   {
@@ -42980,7 +42980,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 58,
+    "publicContributions": 50,
     "createdAt": "2024-12-19T20:23:33Z"
   },
   {
@@ -42990,9 +42990,9 @@
     "location": "Argentina (Open to Relocate / Remote)",
     "company": "@UTN-FRRE",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 70,
-    "publicContributions": 141,
+    "followers": 3,
+    "privateContributions": 132,
+    "publicContributions": 197,
     "createdAt": "2024-10-15T23:27:45Z"
   },
   {
@@ -43028,7 +43028,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 12,
     "createdAt": "2024-08-05T21:21:27Z"
   },
   {
@@ -43052,7 +43052,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 154,
+    "publicContributions": 170,
     "createdAt": "2024-08-18T19:37:18Z"
   },
   {
@@ -43064,7 +43064,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 54,
+    "publicContributions": 2,
     "createdAt": "2024-10-31T17:08:26Z"
   },
   {
@@ -43076,7 +43076,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 0,
     "createdAt": "2024-11-14T17:43:19Z"
   },
   {
@@ -43108,11 +43108,11 @@
     "name": "Pablo E. Cabrol",
     "avatarUrl": "https://avatars.githubusercontent.com/u/183086185?s=72&v=4",
     "location": "Argentina",
-    "company": "Encora",
+    "company": "Coforge",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 130,
+    "publicContributions": 122,
     "createdAt": "2024-09-27T11:47:09Z"
   },
   {
@@ -43148,7 +43148,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 42,
+    "publicContributions": 45,
     "createdAt": "2024-11-21T11:14:40Z"
   },
   {
@@ -43160,7 +43160,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 120,
+    "publicContributions": 109,
     "createdAt": "2024-08-24T15:57:32Z"
   },
   {
@@ -608590,5 +608590,17 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-11-14T23:10:29Z"
+  },
+  {
+    "login": "DukeZinhoo",
+    "name": "𝐷𝑢𝑘𝑒",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/299327754?s=72&u=3d3327dc26180903f5fb505471a779e9c104943e&v=4",
+    "location": "Argentina",
+    "company": "Kitka games",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 13,
+    "createdAt": "2026-07-03T00:30:00Z"
   }
 ]

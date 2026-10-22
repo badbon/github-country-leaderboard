@@ -43267,7 +43267,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 15,
+    "privateContributions": 4,
     "publicContributions": 0,
     "createdAt": "2020-07-26T19:08:42Z"
   },
@@ -43280,7 +43280,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 273,
+    "publicContributions": 216,
     "createdAt": "2020-08-31T15:04:55Z"
   },
   {
@@ -43290,9 +43290,9 @@
     "location": "Odense, Denmark",
     "company": "Memorial University, Canada && Universityof Southern Denmark, SDU",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 209,
-    "publicContributions": 3,
+    "followers": 7,
+    "privateContributions": 1049,
+    "publicContributions": 5,
     "createdAt": "2020-03-21T13:48:50Z"
   },
   {
@@ -43302,9 +43302,9 @@
     "location": "Denmark",
     "company": "Beezy365 A/S",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 2,
-    "publicContributions": 323,
+    "followers": 7,
+    "privateContributions": 1,
+    "publicContributions": 258,
     "createdAt": "2020-09-23T13:33:52Z"
   },
   {
@@ -43316,7 +43316,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 1763,
+    "publicContributions": 1965,
     "createdAt": "2020-03-14T23:17:01Z"
   },
   {
@@ -43326,9 +43326,9 @@
     "location": "Denmark",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 195,
-    "publicContributions": 161,
+    "followers": 9,
+    "privateContributions": 147,
+    "publicContributions": 101,
     "createdAt": "2020-08-15T09:34:43Z"
   },
   {
@@ -43338,9 +43338,9 @@
     "location": "Denmark",
     "company": "Bramming",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 138,
-    "publicContributions": 275,
+    "followers": 11,
+    "privateContributions": 123,
+    "publicContributions": 244,
     "createdAt": "2020-09-28T12:47:36Z"
   },
   {
@@ -43351,8 +43351,8 @@
     "company": "Center for Epigenetic Cell Memory (EpiC), Danish Cancer Institute, Danish Cancer Society",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 82,
-    "publicContributions": 567,
+    "privateContributions": 547,
+    "publicContributions": 690,
     "createdAt": "2020-06-24T06:26:04Z"
   },
   {
@@ -43376,7 +43376,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 18,
     "createdAt": "2020-02-20T16:20:04Z"
   },
   {
@@ -43386,7 +43386,7 @@
     "location": "Denmark",
     "company": "",
     "twitterUsername": "willywillycow",
-    "followers": 8,
+    "followers": 9,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2020-06-13T07:18:36Z"
@@ -43405,27 +43405,15 @@
   },
   {
     "login": "SanderLahoz",
-    "name": "Sander",
+    "name": "Sander Lahoz Christensen",
     "avatarUrl": "https://avatars.githubusercontent.com/u/73191374?s=72&u=ae9b6c1bc497b6b572d8fb99f5fa827a1034541c&v=4",
     "location": "Copenhagen, Denmark",
-    "company": "",
+    "company": "Scrive AB",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 464,
+    "publicContributions": 660,
     "createdAt": "2020-10-20T17:25:39Z"
-  },
-  {
-    "login": "tedescoG",
-    "name": "Gaetano Tedesco",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/67015353?s=72&u=fb1c9f6562886049b13b5fec98bf4f5759a69f52&v=4",
-    "location": "Copenhagen, Denmark",
-    "company": "University of Copenhagen",
-    "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 1077,
-    "publicContributions": 112,
-    "createdAt": "2020-06-16T16:04:29Z"
   },
   {
     "login": "Jeremy-Ramirez",
@@ -43435,8 +43423,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 79,
-    "publicContributions": 154,
+    "privateContributions": 108,
+    "publicContributions": 145,
     "createdAt": "2020-06-10T18:13:14Z"
   },
   {
@@ -43446,21 +43434,21 @@
     "location": "Lyngby, Denmark",
     "company": "Technical University of Denmark",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 47,
-    "publicContributions": 58,
+    "followers": 8,
+    "privateContributions": 46,
+    "publicContributions": 49,
     "createdAt": "2020-08-28T22:04:55Z"
   },
   {
     "login": "andreaslborg",
     "name": "Andreas Lykke Borg",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/72602768?s=72&u=8da2dd67fb8dcb44709ffac604a7b183e2e18150&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/72602768?s=72&u=afbd014678f482094bc90c8cbbeba085fbc35621&v=4",
     "location": "Denmark",
     "company": "Twoday",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 153,
+    "publicContributions": 224,
     "createdAt": "2020-10-09T09:17:39Z"
   },
   {

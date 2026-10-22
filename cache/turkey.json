@@ -42668,7 +42668,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 82,
+    "publicContributions": 31,
     "createdAt": "2024-04-20T14:15:15Z"
   },
   {
@@ -42680,7 +42680,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 35,
+    "publicContributions": 37,
     "createdAt": "2024-04-28T19:36:18Z"
   },
   {
@@ -42704,7 +42704,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 162,
+    "publicContributions": 170,
     "createdAt": "2024-05-15T12:31:12Z"
   },
   {
@@ -42726,22 +42726,10 @@
     "location": "Istanbul/Turkey",
     "company": "",
     "twitterUsername": "enesakliman1",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 2,
     "publicContributions": 0,
     "createdAt": "2024-02-25T07:41:42Z"
-  },
-  {
-    "login": "burak1203",
-    "name": "BURAK ALİ ÇELİK",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/170618693?s=72&v=4",
-    "location": "Manisa, Turkey",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 141,
-    "publicContributions": 155,
-    "createdAt": "2024-05-23T09:38:14Z"
   },
   {
     "login": "yavuzbeydogan",
@@ -42776,7 +42764,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 80,
+    "publicContributions": 74,
     "createdAt": "2024-01-27T18:50:18Z"
   },
   {
@@ -42798,7 +42786,7 @@
     "location": "Turkey/Ankara",
     "company": "Turkish Ministry of Treasury and Finance ",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 22,
     "createdAt": "2024-03-20T20:21:08Z"
@@ -42824,7 +42812,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 9,
     "createdAt": "2024-06-09T13:13:14Z"
   },
   {
@@ -42836,7 +42824,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 6,
     "createdAt": "2024-01-21T13:51:37Z"
   },
   {
@@ -42870,21 +42858,21 @@
     "location": "Turkey",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 1387,
+    "followers": 7,
+    "privateContributions": 2502,
     "publicContributions": 24,
     "createdAt": "2024-03-18T07:27:37Z"
   },
   {
     "login": "hamidrezaghavami",
     "name": "Hamid Reza Ghavami",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/161077982?s=72&u=f62c49d46e28e3a5e4f8c8543b079a05484dcd85&v=4",
-    "location": "Istanbul, Turkey",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/161077982?s=72&u=62a371e77b4a7e291a4cb2dcd223d5db83865859&v=4",
+    "location": "Türkiye, Istanbul",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 133,
-    "publicContributions": 285,
+    "followers": 8,
+    "privateContributions": 199,
+    "publicContributions": 282,
     "createdAt": "2024-02-23T19:45:12Z"
   },
   {

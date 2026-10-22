@@ -42824,7 +42824,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 0,
     "createdAt": "2020-10-30T09:30:52Z"
   },
   {
@@ -42860,7 +42860,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 5,
     "createdAt": "2020-07-09T19:08:14Z"
   },
   {
@@ -42907,21 +42907,9 @@
     "company": "@AlphaMade",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 277,
-    "publicContributions": 254,
+    "privateContributions": 247,
+    "publicContributions": 274,
     "createdAt": "2020-10-21T20:20:56Z"
-  },
-  {
-    "login": "rabahrahali",
-    "name": "Rabah Rahali",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/75740689?s=72&u=988f368895918a60fb0c7a348b4077d71847bce2&v=4",
-    "location": "Algiers, Algeria",
-    "company": "Emploitic Group",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2020-12-09T14:40:19Z"
   },
   {
     "login": "Hawk-0",
@@ -42943,7 +42931,7 @@
     "company": "University of Guelma",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 21,
+    "privateContributions": 22,
     "publicContributions": 0,
     "createdAt": "2020-03-29T10:54:49Z"
   },
@@ -42990,7 +42978,7 @@
     "location": "Algeria",
     "company": "Fikra Tech",
     "twitterUsername": "Frsibm",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-11-06T17:36:08Z"
@@ -43026,7 +43014,7 @@
     "location": "Algeria",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 129,
     "createdAt": "2020-02-11T12:32:26Z"
@@ -43038,9 +43026,9 @@
     "location": "Algeria",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 77,
-    "publicContributions": 52,
+    "followers": 2,
+    "privateContributions": 102,
+    "publicContributions": 87,
     "createdAt": "2020-08-22T17:10:17Z"
   },
   {

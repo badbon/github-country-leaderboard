@@ -43446,7 +43446,7 @@
     "location": "Minsk, Belarus",
     "company": "EPAM Systems",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 13,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-03-01T12:31:32Z"
@@ -43458,8 +43458,8 @@
     "location": "Belarus",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 8,
+    "followers": 13,
+    "privateContributions": 6,
     "publicContributions": 462,
     "createdAt": "2020-07-11T07:32:34Z"
   },
@@ -43470,9 +43470,9 @@
     "location": "Belarus",
     "company": "STRIM",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2020-03-26T07:15:44Z"
   },
   {
@@ -43495,8 +43495,8 @@
     "company": "IBA",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 1,
-    "publicContributions": 23,
+    "privateContributions": 0,
+    "publicContributions": 96,
     "createdAt": "2020-07-06T16:34:08Z"
   },
   {
@@ -43506,9 +43506,9 @@
     "location": "Minsk, Belarus",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 843,
+    "publicContributions": 820,
     "createdAt": "2020-02-25T17:46:23Z"
   },
   {
@@ -43530,7 +43530,7 @@
     "location": "Belarus, Minsk ",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 10,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-10-27T07:10:55Z"
@@ -43542,9 +43542,9 @@
     "location": "Belarus",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 2141,
-    "publicContributions": 12,
+    "followers": 12,
+    "privateContributions": 2662,
+    "publicContributions": 25,
     "createdAt": "2020-06-17T13:40:00Z"
   },
   {
@@ -43566,22 +43566,10 @@
     "location": "Minsk, Belarus",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 22,
     "createdAt": "2020-03-31T23:30:52Z"
-  },
-  {
-    "login": "Kat-ies",
-    "name": "Ekaterina Yurkouskaya",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/72210172?s=72&u=7db320a5b8a1e938c44ef9c2d9e5153786628418&v=4",
-    "location": "Minsk, Belarus",
-    "company": "Yandex",
-    "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2020-10-01T13:59:39Z"
   },
   {
     "login": "megahoma",
@@ -43590,9 +43578,9 @@
     "location": "Grodno, Belarus",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 73,
     "createdAt": "2020-01-18T18:47:28Z"
   },
   {
@@ -43600,22 +43588,22 @@
     "name": "Ilia Rodkin",
     "avatarUrl": "https://avatars.githubusercontent.com/u/65172413?s=72&u=79ddce6e49ee537227b604e323d45d066813f3eb&v=4",
     "location": "Belarus, Minsk",
-    "company": "Yandex electro",
+    "company": "Yandex auto",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 37,
+    "privateContributions": 41,
     "publicContributions": 0,
     "createdAt": "2020-05-11T13:10:47Z"
   },
   {
     "login": "memorisecodead",
     "name": "Stanislau Mazur",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/70116007?s=72&u=bf67640b911f16aaf6bafff9e121e39bf7f539cc&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/70116007?s=72&u=39c65029c48aafb0c2d880822ba30e036c370952&v=4",
     "location": "Belarus",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 129,
+    "followers": 10,
+    "privateContributions": 155,
     "publicContributions": 1,
     "createdAt": "2020-08-23T22:46:02Z"
   },
@@ -43651,7 +43639,7 @@
     "company": "Your company can be here",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 103,
+    "privateContributions": 69,
     "publicContributions": 0,
     "createdAt": "2020-09-08T10:17:56Z"
   },
