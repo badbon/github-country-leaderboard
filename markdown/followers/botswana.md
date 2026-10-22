@@ -1,6 +1,6 @@
 # Followers - Botswana
 
-Generated: 2026-10-21T21:54:30.955Z
+Generated: 2026-10-21T23:56:54.822Z
 
 Users: 533
 
@@ -13,7 +13,7 @@ Users: 533
 | 5 | [darula-hpp](https://github.com/darula-hpp) | Olebogeng Mbedzi | Gitwork |  | Gaborone | 77 |
 | 6 | [Raymacmillan](https://github.com/Raymacmillan) | Ryodevv | Ryom | Ryodevv | Botswana | 75 |
 | 7 | [Aobakwe25](https://github.com/Aobakwe25) | Aobakwe |  |  | Botswana | 74 |
-| 8 | [VioletShards](https://github.com/VioletShards) | Leon N. |  |  | Botswana | 67 |
+| 8 | [VioletShards](https://github.com/VioletShards) | Leon N. |  |  | Botswana | 68 |
 | 9 | [Timbar09](https://github.com/Timbar09) | Miles Mosweu | Microverse | Milez09 | Palapye, Botswana | 64 |
 | 10 | [mulaxprime](https://github.com/mulaxprime) | Mulax Prime |  | RomeobwIII | Gaborone, Botswana | 62 |
 | 11 | [impurefunctions](https://github.com/impurefunctions) | Kesego Tumisang | @Spectrum-Analytics @officialgdggaborone  | impurefunctions | Gaborone, Botswana | 59 |
@@ -22,7 +22,7 @@ Users: 533
 | 14 | [mitp0sh](https://github.com/mitp0sh) | mitp0sh | Botswana Ltd. | mitp0sh | Botswana | 45 |
 | 15 | [mwmiller](https://github.com/mwmiller) | Matt Miller |  |  | Gaborone, Botswana | 45 |
 | 16 | [samKenpachi011](https://github.com/samKenpachi011) | Samuel Kabelo |  | samuel_kabelo | Gaborone Botswana | 41 |
-| 17 | [godwillmonthe](https://github.com/godwillmonthe) | Godwill Monthe | Xavier Africa Technologies - @Xavier-Botswana  | godwil1monthe | Gaborone, Botswana | 35 |
+| 17 | [godwillmonthe](https://github.com/godwillmonthe) | Godwill Monthe | Xavier Africa Technologies - @Xavier-Botswana  | godwil1monthe | Gaborone, Botswana | 36 |
 | 18 | [WyvernPirate](https://github.com/WyvernPirate) | Phemelo Moloi | Botswana International University of Science and Technology |  | Maun, Botswana | 35 |
 | 19 | [BakangMonei](https://github.com/BakangMonei) | Monei Bakang | @SwiftIQ  | MoneiBakang | Gaborone, Botswana | 34 |
 | 20 | [kcee01](https://github.com/kcee01) | Cliff Keabetswe |  | keabetswe_cliff | Gaborone, Botswana | 33 |

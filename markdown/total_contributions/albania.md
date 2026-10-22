@@ -1,6 +1,6 @@
 # Total Contributions - Albania
 
-Generated: 2026-10-21T21:44:19.675Z
+Generated: 2026-10-21T23:45:15.168Z
 
 Users: 1182
 
@@ -24,5 +24,5 @@ Users: 1182
 | 16 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | CyberSecurity Researcher, Red Team, Bug Hunter | OrgitoRTA | Albania | 4643 |
 | 17 | [ezekaj](https://github.com/ezekaj) | Elvi Zekaj | @zedigitaltech |  | Tirana, Albania | 4540 |
 | 18 | [blenardpazari](https://github.com/blenardpazari) | Blenard Pazari | @new-media-communications | blenardpazari | Tirana | 4530 |
-| 19 | [klevisndoka](https://github.com/klevisndoka) | Klevis Ndoka |  |  | Tirane, Albania | 4282 |
-| 20 | [jozefini](https://github.com/jozefini) | Jozefin B. | @codja  |  | Albania | 4223 |
+| 19 | [fadion](https://github.com/fadion) | Fadion Dashi |  |  | Tirana, Albania | 4420 |
+| 20 | [klevisndoka](https://github.com/klevisndoka) | Klevis Ndoka |  |  | Tirane, Albania | 4282 |

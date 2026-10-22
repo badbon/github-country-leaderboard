@@ -30,8 +30,8 @@ Indexed users: 1,182
 | 16 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | Albania | 4,643 |
 | 17 | [ezekaj](https://github.com/ezekaj) | Elvi Zekaj | Tirana, Albania | 4,540 |
 | 18 | [blenardpazari](https://github.com/blenardpazari) | Blenard Pazari | Tirana | 4,530 |
-| 19 | [klevisndoka](https://github.com/klevisndoka) | Klevis Ndoka | Tirane, Albania | 4,282 |
-| 20 | [jozefini](https://github.com/jozefini) | Jozefin B. | Albania | 4,223 |
+| 19 | [fadion](https://github.com/fadion) | Fadion Dashi | Tirana, Albania | 4,420 |
+| 20 | [klevisndoka](https://github.com/klevisndoka) | Klevis Ndoka | Tirane, Albania | 4,282 |
 
 ## Public Contributions
 
@@ -39,7 +39,7 @@ Indexed users: 1,182
 |---:|---|---|---|---:|
 | 1 | [arkellahi82-tech](https://github.com/arkellahi82-tech) | Arkel Lahi | Tirana, Albania | 4,828 |
 | 2 | [flakerimi](https://github.com/flakerimi) | Flakerim Ismani | Tirane, Albania | 4,754 |
-| 3 | [fadion](https://github.com/fadion) | Fadion Dashi | Tirana, Albania | 4,036 |
+| 3 | [fadion](https://github.com/fadion) | Fadion Dashi | Tirana, Albania | 4,420 |
 | 4 | [GentBajko](https://github.com/GentBajko) | Gent Bajko | Tirana, Albania | 2,544 |
 | 5 | [Orest-Z](https://github.com/Orest-Z) | Orest | Albania | 1,588 |
 | 6 | [KLEOJAHOLLARI](https://github.com/KLEOJAHOLLARI) | Kleo Jahollari | Albania | 1,243 |
@@ -68,8 +68,8 @@ Indexed users: 1,182
 | 4 | [4lbH4cker](https://github.com/4lbH4cker) | 4lbH4cker | Albania | 722 |
 | 5 | [eneajaho](https://github.com/eneajaho) | Enea Jahollari | Albania | 461 |
 | 6 | [DenDev712](https://github.com/DenDev712) | Denis Papara | Tirana, Albania | 236 |
-| 7 | [jonatoni](https://github.com/jonatoni) | Jona Azizaj | Albania | 157 |
-| 8 | [banago](https://github.com/banago) | Baki Goxhaj | Vlorë, Albania | 156 |
+| 7 | [banago](https://github.com/banago) | Baki Goxhaj | Vlorë, Albania | 157 |
+| 8 | [jonatoni](https://github.com/jonatoni) | Jona Azizaj | Albania | 157 |
 | 9 | [aziflaj](https://github.com/aziflaj) | Aldo Ziflaj | Tirana, Albania | 142 |
 | 10 | [klendi](https://github.com/klendi) | Klendi Goci | Tirana, Albania | 100 |
 | 11 | [meggsila](https://github.com/meggsila) | Megi Sila | Tirana, Albania | 100 |
@@ -83,4 +83,4 @@ Indexed users: 1,182
 | 19 | [SxtBox](https://github.com/SxtBox) | Albdroid.AL | Albania | 81 |
 | 20 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | Albania | 77 |
 
-Generated: 2026-10-21T21:44:19.675Z
+Generated: 2026-10-21T23:45:15.168Z

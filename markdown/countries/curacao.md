@@ -18,8 +18,8 @@ Indexed users: 53
 | 4 | [BalusC](https://github.com/BalusC) | Bauke Scholtz | Willemstad, Curaçao | 3,441 |
 | 5 | [dwarfland](https://github.com/dwarfland) | marc hoffman | Curaçao | 1,471 |
 | 6 | [GilbertoFraaij](https://github.com/GilbertoFraaij) |  | Curacao, Netherlands Antilles | 1,300 |
-| 7 | [frankgeerlings](https://github.com/frankgeerlings) | Frank Geerlings | Curaçao | 911 |
-| 8 | [drosalia](https://github.com/drosalia) | Darrell Rosalia | Curaçao | 908 |
+| 7 | [drosalia](https://github.com/drosalia) | Darrell Rosalia | Curaçao | 924 |
+| 8 | [frankgeerlings](https://github.com/frankgeerlings) | Frank Geerlings | Curaçao | 911 |
 | 9 | [JObersi10](https://github.com/JObersi10) |  | Willemstad, Curaçao | 491 |
 | 10 | [emile2600](https://github.com/emile2600) | Emile | Willemstad, Curacao | 378 |
 | 11 | [acesuares](https://github.com/acesuares) | Ace Suares | Willemstad, Netherlands Antilles | 253 |
@@ -83,4 +83,4 @@ Indexed users: 53
 | 19 | [theowlsden](https://github.com/theowlsden) | Shaquil Maria | Curaçao | 6 |
 | 20 | [coinversus](https://github.com/coinversus) | CoinVersus | Curaçao | 5 |
 
-Generated: 2026-10-21T22:03:11.695Z
+Generated: 2026-10-22T00:05:33.166Z

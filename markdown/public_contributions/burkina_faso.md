@@ -1,6 +1,6 @@
 # Public Contributions - Burkina Faso
 
-Generated: 2026-10-21T21:55:49.430Z
+Generated: 2026-10-21T23:59:07.884Z
 
 Users: 486
 
@@ -8,12 +8,12 @@ Users: 486
 |---:|---|---|---|---|---|---:|
 | 1 | [spwoodcock](https://github.com/spwoodcock) | Sam | Tech Lead @hotosm |  | Ouagadougou, Burkina Faso | 3651 |
 | 2 | [tky0065](https://github.com/tky0065) | Enokdev | Enokdev |  | Burkina Faso | 2666 |
-| 3 | [Y4NN777](https://github.com/Y4NN777) | Ragnang-Newende Yanis Axel DABO | @Y7-Labs  |  | Burkina Faso | 2213 |
+| 3 | [Y4NN777](https://github.com/Y4NN777) | Ragnang-Newende Yanis Axel DABO | @Y7-Labs  |  | Burkina Faso | 2209 |
 | 4 | [sokevinjonas](https://github.com/sokevinjonas) | SO Kevin Jonas Gningnabe | KGSLAB |  | BURKINA FASO | 1424 |
 | 5 | [ArielShadrac](https://github.com/ArielShadrac) | Ouedraogo Fildouindé Ariel Shadrac | Xcept-Health |  | Burkina Faso | 1361 |
 | 6 | [Zap-ai-make](https://github.com/Zap-ai-make) | Swabo Hamadou |  |  | Burkina-Faso | 1172 |
 | 7 | [mibienpanjoe](https://github.com/mibienpanjoe) | PARE Mibienpan Joseph |  |  | Burkina Faso | 1170 |
-| 8 | [PANK4SS](https://github.com/PANK4SS) | Pankassi Jean-Louis Rayane BICABA | Independent Software Engineer |  | Burkina Faso | 773 |
+| 8 | [PANK4SS](https://github.com/PANK4SS) | Pankassi Jean-Louis Rayane BICABA | Independent Software Engineer |  | Burkina Faso | 758 |
 | 9 | [Gbangou](https://github.com/Gbangou) | Pascal GBANGOU |  |  | Ouagadougou, Burkina Faso | 754 |
 | 10 | [Solangeilinga](https://github.com/Solangeilinga) | ILINGA Solange | Ecole Centrale Casablanca - Institut Internationale de l'Eau et de l'Environnement |  | Casablanca - Ouagadougou | 634 |
 | 11 | [YaogoGerard](https://github.com/YaogoGerard) | Gérard Windpagnangdé YAOGO |  |  | Burkina Faso | 629 |

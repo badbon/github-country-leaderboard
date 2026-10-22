@@ -1,14 +1,14 @@
 # Total Contributions - Ecuador
 
-Generated: 2026-10-21T22:07:09.001Z
+Generated: 2026-10-22T00:09:09.079Z
 
 Users: 4876
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [yeyodev1](https://github.com/yeyodev1) | Diego Reyes |  | yeyodev | Guayaquil, Ecuador | 18674 |
-| 2 | [danny270793](https://github.com/danny270793) | Danny Vaca | Technisys | danny270793 | Ecuador | 11911 |
-| 3 | [kamikhanz](https://github.com/kamikhanz) | Edisson Barbecho | IT Security |  | Ecuador | 11630 |
+| 2 | [kamikhanz](https://github.com/kamikhanz) | Edisson Barbecho | IT Security |  | Ecuador | 13197 |
+| 3 | [danny270793](https://github.com/danny270793) | Danny Vaca | Technisys | danny270793 | Ecuador | 11911 |
 | 4 | [adrianarodriguezp](https://github.com/adrianarodriguezp) |  |  |  | Ecuador | 10133 |
 | 5 | [Neoterux](https://github.com/Neoterux) | Luis Andrés Bajaña F. | @SantaPriscilaDevs  |  | Guayaquil, Ecuador | 9328 |
 | 6 | [jcdaniel14](https://github.com/jcdaniel14) | Gustavo Santiago | FiftyFlowers |  | Ecuador | 9075 |

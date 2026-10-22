@@ -13,8 +13,8 @@ Indexed users: 4,876
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [yeyodev1](https://github.com/yeyodev1) | Diego Reyes | Guayaquil, Ecuador | 18,674 |
-| 2 | [danny270793](https://github.com/danny270793) | Danny Vaca | Ecuador | 11,911 |
-| 3 | [kamikhanz](https://github.com/kamikhanz) | Edisson Barbecho | Ecuador | 11,630 |
+| 2 | [kamikhanz](https://github.com/kamikhanz) | Edisson Barbecho | Ecuador | 13,197 |
+| 3 | [danny270793](https://github.com/danny270793) | Danny Vaca | Ecuador | 11,911 |
 | 4 | [adrianarodriguezp](https://github.com/adrianarodriguezp) |  | Ecuador | 10,133 |
 | 5 | [Neoterux](https://github.com/Neoterux) | Luis Andrés Bajaña F. | Guayaquil, Ecuador | 9,328 |
 | 6 | [jcdaniel14](https://github.com/jcdaniel14) | Gustavo Santiago | Ecuador | 9,075 |
@@ -83,4 +83,4 @@ Indexed users: 4,876
 | 19 | [Bryan-Herrera-DEV](https://github.com/Bryan-Herrera-DEV) | Bryan Herrera ~ ርᚱ1ናተᛰ ᚻህᚥተპᚱ | Ecuador | 116 |
 | 20 | [Davichobits](https://github.com/Davichobits) | David Ruiz | Ecuador | 116 |
 
-Generated: 2026-10-21T22:07:09.001Z
+Generated: 2026-10-22T00:09:09.079Z

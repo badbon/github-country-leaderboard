@@ -12,7 +12,7 @@ Indexed users: 708
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [OdinManiac](https://github.com/OdinManiac) | George | Tajikistan | 9,330 |
+| 1 | [OdinManiac](https://github.com/OdinManiac) | George | Tajikistan | 9,350 |
 | 2 | [veyxov](https://github.com/veyxov) | Shekhov Ismoil | Tajikistan | 9,249 |
 | 3 | [rahimov-yr](https://github.com/rahimov-yr) | Yusuf Rahimov | Tajikistan | 8,117 |
 | 4 | [UMARJO9](https://github.com/UMARJO9) | Умарджон Нурмадов | Tajikistan / Khujand / Dushanbe / Kulob | 7,498 |
@@ -26,7 +26,7 @@ Indexed users: 708
 | 12 | [sultonzoda2011](https://github.com/sultonzoda2011) | Sultonzoda Abdulloh | Dushanbe | 3,626 |
 | 13 | [dev-muhammad](https://github.com/dev-muhammad) | Muhammad Abdugafarov  | Tajikistan | 3,532 |
 | 14 | [D1lsh0D](https://github.com/D1lsh0D) | Dilshod Hojiboev | Khujand, Tajikistan | 3,210 |
-| 15 | [Rahmonali](https://github.com/Rahmonali) | Rahmonali | Dushanbe, Tajikistan | 3,192 |
+| 15 | [Rahmonali](https://github.com/Rahmonali) | Rahmonali | Dushanbe, Tajikistan | 3,191 |
 | 16 | [IllMind11](https://github.com/IllMind11) | Islom Khushnazarov | Dushanbe, Tajikistan | 3,189 |
 | 17 | [Amsurur](https://github.com/Amsurur) | Muhammadsurur Abdulloev | Dushanbe | 2,971 |
 | 18 | [Jamoliddin2001](https://github.com/Jamoliddin2001) | Jamoliddin  | Dushanbe | 2,907 |
@@ -51,7 +51,7 @@ Indexed users: 708
 | 12 | [UMARJO9](https://github.com/UMARJO9) | Умарджон Нурмадов | Tajikistan / Khujand / Dushanbe / Kulob | 669 |
 | 13 | [Osaf-Abdulloev](https://github.com/Osaf-Abdulloev) | Abdulloev Osaf | Dushanbe | 658 |
 | 14 | [mehrvarshodiev](https://github.com/mehrvarshodiev) | Mehrvar Shodiev | Dushanbe | 607 |
-| 15 | [GulomovCreative](https://github.com/GulomovCreative) | Bakhtovar Gulomov | Dushanbe, Tajikistan | 558 |
+| 15 | [GulomovCreative](https://github.com/GulomovCreative) | Bakhtovar Gulomov | Dushanbe, Tajikistan | 560 |
 | 16 | [Muhammadjon0204](https://github.com/Muhammadjon0204) | Muhammadjon Kosimov | Dushanbe | 507 |
 | 17 | [Roma-723](https://github.com/Roma-723) | Yusufjon | Dushanbe | 476 |
 | 18 | [llcsanjar](https://github.com/llcsanjar) | Sanjar | Tajikistan | 443 |
@@ -83,4 +83,4 @@ Indexed users: 708
 | 19 | [11bit](https://github.com/11bit) | Ivan Buryak | Dushanbe | 49 |
 | 20 | [Abdughafur](https://github.com/Abdughafur) | Abdughafur Khujzoda | Tajikistan | 48 |
 
-Generated: 2026-10-21T21:32:13.600Z
+Generated: 2026-10-21T23:32:51.861Z
