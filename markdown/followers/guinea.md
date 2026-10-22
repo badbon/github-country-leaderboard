@@ -1,6 +1,6 @@
 # Followers - Guinea
 
-Generated: 2026-10-22T00:20:55.775Z
+Generated: 2026-10-22T01:56:56.247Z
 
 Users: 263
 
@@ -14,7 +14,7 @@ Users: 263
 | 6 | [sitatec](https://github.com/sitatec) | Sita Bérété | Dwino AI |  | Conakry, Guinea | 42 |
 | 7 | [korbonya](https://github.com/korbonya) | Mamadou Alpha Baldé | Smart Sarl | mabkorbonya | Conakry | 32 |
 | 8 | [hams94](https://github.com/hams94) | Hamidou Bah | ALTGRAS | yalagueya | Guinée, Conakry, GN | 30 |
-| 9 | [fiicode](https://github.com/fiicode) | fiicode | fiicode |  | Guinea | 28 |
+| 9 | [fiicode](https://github.com/fiicode) | fiicode | fiicode |  | Guinea | 29 |
 | 10 | [moudjames23](https://github.com/moudjames23) | Mamoudou Diallo |  |  | Guinea | 28 |
 | 11 | [Salif50](https://github.com/Salif50) | Salif SUMA | Club des jeunes programmeurs |  | République de Guinée | 27 |
 | 12 | [nlbkc2025-cell](https://github.com/nlbkc2025-cell) | Nabybk | Ycan Group |  | Conakry  | 26 |

@@ -31,7 +31,7 @@ Indexed users: 263
 | 17 | [Salif50](https://github.com/Salif50) | Salif SUMA | République de Guinée | 846 |
 | 18 | [mrrootc](https://github.com/mrrootc) | Abdoulaye Camara | Guinea, Conakry | 654 |
 | 19 | [Zakui](https://github.com/Zakui) | Jules Thea | Guinea, Conakry | 581 |
-| 20 | [hams94](https://github.com/hams94) | Hamidou Bah | Guinée, Conakry, GN | 532 |
+| 20 | [hams94](https://github.com/hams94) | Hamidou Bah | Guinée, Conakry, GN | 542 |
 
 ## Public Contributions
 
@@ -70,7 +70,7 @@ Indexed users: 263
 | 6 | [sitatec](https://github.com/sitatec) | Sita Bérété | Conakry, Guinea | 42 |
 | 7 | [korbonya](https://github.com/korbonya) | Mamadou Alpha Baldé | Conakry | 32 |
 | 8 | [hams94](https://github.com/hams94) | Hamidou Bah | Guinée, Conakry, GN | 30 |
-| 9 | [fiicode](https://github.com/fiicode) | fiicode | Guinea | 28 |
+| 9 | [fiicode](https://github.com/fiicode) | fiicode | Guinea | 29 |
 | 10 | [moudjames23](https://github.com/moudjames23) | Mamoudou Diallo | Guinea | 28 |
 | 11 | [Salif50](https://github.com/Salif50) | Salif SUMA | République de Guinée | 27 |
 | 12 | [nlbkc2025-cell](https://github.com/nlbkc2025-cell) | Nabybk | Conakry  | 26 |
@@ -83,4 +83,4 @@ Indexed users: 263
 | 19 | [fouzo09](https://github.com/fouzo09) | Mafouz DIALLO | Guinée, conakry | 13 |
 | 20 | [koulibalyamadou10](https://github.com/koulibalyamadou10) | Koulibaly | Conakry | 13 |
 
-Generated: 2026-10-22T00:20:55.775Z
+Generated: 2026-10-22T01:56:56.247Z

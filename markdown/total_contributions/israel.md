@@ -1,6 +1,6 @@
 # Total Contributions - Israel
 
-Generated: 2026-10-22T00:26:47.236Z
+Generated: 2026-10-22T02:01:03.772Z
 
 Users: 12418
 
@@ -17,7 +17,7 @@ Users: 12418
 | 9 | [elie222](https://github.com/elie222) | Elie Steinbock | @inbox-zero  | elie2222 | Tel Aviv, Israel | 18843 |
 | 10 | [danielrosehill](https://github.com/danielrosehill) | Daniel Rosehill | DSR Holdings |  | Jerusalem Or Remote | 18821 |
 | 11 | [shmuelhizmi](https://github.com/shmuelhizmi) | Shmuel Hizmi | Play |  | Tel Aviv, israel | 17973 |
-| 12 | [chernistry](https://github.com/chernistry) | Alex Chernysh | Sip Your Drink |  | Tel Aviv, Israel | 17284 |
+| 12 | [chernistry](https://github.com/chernistry) | Alex Chernysh | Sip Your Drink |  | Tel Aviv, Israel | 17345 |
 | 13 | [asaphe](https://github.com/asaphe) | Asaph |  |  | Israel | 15903 |
 | 14 | [Dave-London](https://github.com/Dave-London) | Dave London |  |  | Israel | 15429 |
 | 15 | [slep2-0](https://github.com/slep2-0) | slep |  |  | Israel | 13689 |

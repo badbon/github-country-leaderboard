@@ -74,7 +74,7 @@ Published countries: 234
 | Falkland Islands | 13 | [View](./falkland_islands.md) |
 | Faroe Islands | 68 | [View](./faroe_islands.md) |
 | Fiji | 325 | [View](./fiji.md) |
-| Finland | 18,138 | [View](./finland.md) |
+| Finland | 18,137 | [View](./finland.md) |
 | French Guiana | 36 | [View](./french_guiana.md) |
 | French Polynesia | 60 | [View](./french_polynesia.md) |
 | French Southern and Antarctic Lands | 4 | [View](./french_southern_and_antarctic_lands.md) |
@@ -99,8 +99,8 @@ Published countries: 234
 | Hong Kong | 10,251 | [View](./hong_kong.md) |
 | Hungary | 11,161 | [View](./hungary.md) |
 | Iceland | 1,579 | [View](./iceland.md) |
-| Indonesia | 63,276 | [View](./indonesia.md) |
-| Iran | 26,861 | [View](./iran.md) |
+| Indonesia | 63,275 | [View](./indonesia.md) |
+| Iran | 26,860 | [View](./iran.md) |
 | Iraq | 2,230 | [View](./iraq.md) |
 | Ireland | 19,485 | [View](./ireland.md) |
 | Isle of Man | 155 | [View](./isle_of_man.md) |
@@ -109,7 +109,7 @@ Published countries: 234
 | Jamaica | 1,271 | [View](./jamaica.md) |
 | Jersey | 139 | [View](./jersey.md) |
 | Jordan | 4,002 | [View](./jordan.md) |
-| Kazakhstan | 5,621 | [View](./kazakhstan.md) |
+| Kazakhstan | 5,622 | [View](./kazakhstan.md) |
 | Kenya | 24,008 | [View](./kenya.md) |
 | Kiribati | 4 | [View](./kiribati.md) |
 | Kuwait | 796 | [View](./kuwait.md) |
@@ -239,4 +239,4 @@ Published countries: 234
 | Zambia | 1,336 | [View](./zambia.md) |
 | Zimbabwe | 1,656 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-22T01:47:03.148Z
+Generated: 2026-10-22T02:04:30.034Z

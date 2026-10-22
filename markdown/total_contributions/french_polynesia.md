@@ -1,17 +1,17 @@
 # Total Contributions - French Polynesia
 
-Generated: 2026-10-22T00:15:11.682Z
+Generated: 2026-10-22T01:50:26.757Z
 
 Users: 60
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [jaffadog](https://github.com/jaffadog) | Jeremy Waters |  |  | Tahanea, Tuamotus, French Polynesia | 4090 |
-| 2 | [jburckel](https://github.com/jburckel) |  | natimai.solutions |  | French Polynesia | 3056 |
+| 1 | [jaffadog](https://github.com/jaffadog) | Jeremy Waters |  |  | Tahanea, Tuamotus, French Polynesia | 4124 |
+| 2 | [jburckel](https://github.com/jburckel) |  | natimai.solutions |  | French Polynesia | 3057 |
 | 3 | [marsender](https://github.com/marsender) | Didier Corbière |  |  | French Polynesia | 2874 |
-| 4 | [smortex](https://github.com/smortex) | Romain Tartière | @FreeBSD @opus-codium @voxpupuli |  | Faa'a, Tahiti, French Polynesia | 1042 |
-| 5 | [jalik](https://github.com/jalik) | Karl Stein | SIGMA POLYNESIA | jalik26 | French Polynesia | 740 |
-| 6 | [ch4mpy](https://github.com/ch4mpy) | Jérôme Wacongne |  |  | Papeete, French Polynesia | 502 |
+| 4 | [smortex](https://github.com/smortex) | Romain Tartière | @FreeBSD @opus-codium @voxpupuli |  | Faa'a, Tahiti, French Polynesia | 1033 |
+| 5 | [jalik](https://github.com/jalik) | Karl Stein | SIGMA POLYNESIA | jalik26 | French Polynesia | 739 |
+| 6 | [ch4mpy](https://github.com/ch4mpy) | Jérôme Wacongne |  |  | Papeete, French Polynesia | 503 |
 | 7 | [N1coc4colA](https://github.com/N1coc4colA) |  | The Community | n1coc4cola | French Polynesia | 467 |
 | 8 | [craff](https://github.com/craff) | Christophe Raffalli | Gaati, UPF |  | Polynésie, Française | 428 |
 | 9 | [adriencanterot](https://github.com/adriencanterot) | Adrien Cantérot |  | adriencanterot | Tahiti, French Polynesia | 300 |
