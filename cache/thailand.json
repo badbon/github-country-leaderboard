@@ -44443,8 +44443,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 42,
-    "publicContributions": 40,
+    "privateContributions": 44,
+    "publicContributions": 42,
     "createdAt": "2022-07-25T09:17:27Z"
   },
   {
@@ -44454,7 +44454,7 @@
     "location": "999/36, Suetrong Grand Home Village, Phaholyothin 34, Sena Nikhom, Chatuchak, Bangkok, 10900",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 10,
     "privateContributions": 0,
     "publicContributions": 48,
     "createdAt": "2022-01-17T02:42:35Z"
@@ -44466,8 +44466,8 @@
     "location": "Bangkok",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 24,
+    "followers": 14,
+    "privateContributions": 72,
     "publicContributions": 49,
     "createdAt": "2022-01-26T03:48:32Z"
   },
@@ -44478,9 +44478,9 @@
     "location": "Bangkok",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 8,
     "privateContributions": 4,
-    "publicContributions": 41,
+    "publicContributions": 37,
     "createdAt": "2022-02-04T05:07:51Z"
   },
   {
@@ -44490,9 +44490,9 @@
     "location": "Bangkok",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 122,
-    "publicContributions": 77,
+    "followers": 12,
+    "privateContributions": 137,
+    "publicContributions": 80,
     "createdAt": "2022-10-13T20:30:44Z"
   },
   {
@@ -44503,8 +44503,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 1267,
-    "publicContributions": 208,
+    "privateContributions": 2219,
+    "publicContributions": 289,
     "createdAt": "2022-01-15T13:12:43Z"
   },
   {
@@ -44514,9 +44514,9 @@
     "location": "Bangkok",
     "company": "Kasetsart University",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 5,
-    "publicContributions": 163,
+    "followers": 11,
+    "privateContributions": 3,
+    "publicContributions": 225,
     "createdAt": "2022-09-18T20:54:50Z"
   },
   {
@@ -44526,9 +44526,9 @@
     "location": "Bangkok",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 23,
-    "publicContributions": 495,
+    "followers": 17,
+    "privateContributions": 15,
+    "publicContributions": 388,
     "createdAt": "2022-04-01T16:39:45Z"
   },
   {
@@ -44540,7 +44540,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 36,
+    "publicContributions": 78,
     "createdAt": "2022-06-22T20:06:52Z"
   },
   {
@@ -44550,9 +44550,9 @@
     "location": "Bangkok",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2022-01-07T15:50:14Z"
   },
   {
@@ -44564,7 +44564,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 1,
     "createdAt": "2022-03-27T05:02:48Z"
   },
   {
@@ -44576,7 +44576,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2022-06-08T10:23:03Z"
   },
   {
@@ -44587,21 +44587,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 811,
+    "privateContributions": 2095,
     "publicContributions": 3,
     "createdAt": "2022-02-03T09:58:20Z"
-  },
-  {
-    "login": "neter-dev",
-    "name": "Mark",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/103401696?s=72&v=4",
-    "location": "Bangkok",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 958,
-    "publicContributions": 0,
-    "createdAt": "2022-04-11T04:02:09Z"
   },
   {
     "login": "SassyxD",
@@ -44611,8 +44599,8 @@
     "company": "KBTG",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 1985,
-    "publicContributions": 308,
+    "privateContributions": 1266,
+    "publicContributions": 170,
     "createdAt": "2022-09-04T16:31:43Z"
   },
   {
@@ -44623,8 +44611,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 34,
-    "publicContributions": 25,
+    "privateContributions": 16,
+    "publicContributions": 20,
     "createdAt": "2022-05-11T19:48:40Z"
   },
   {
@@ -44634,7 +44622,7 @@
     "location": "Bangkok",
     "company": "",
     "twitterUsername": "BOBSpace_BKK",
-    "followers": 7,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-10-03T05:57:24Z"
@@ -44647,7 +44635,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 18,
+    "privateContributions": 11,
     "publicContributions": 2,
     "createdAt": "2022-06-14T06:38:07Z"
   },
@@ -44672,7 +44660,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 50,
     "createdAt": "2022-07-16T04:11:46Z"
   },
   {

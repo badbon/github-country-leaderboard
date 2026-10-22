@@ -44467,8 +44467,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 557,
-    "publicContributions": 206,
+    "privateContributions": 570,
+    "publicContributions": 165,
     "createdAt": "2017-04-16T23:01:59Z"
   },
   {
@@ -44527,7 +44527,7 @@
     "company": "Freelance",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
+    "privateContributions": 1076,
     "publicContributions": 26,
     "createdAt": "2017-05-30T18:45:11Z"
   },
@@ -44540,7 +44540,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 15,
     "createdAt": "2017-09-27T22:17:36Z"
   },
   {
@@ -44552,7 +44552,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2017-01-14T20:21:57Z"
   },
   {
@@ -44562,7 +44562,7 @@
     "location": "Montevideo, Uruguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-10-11T15:20:34Z"
@@ -44624,7 +44624,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 13,
     "createdAt": "2017-03-27T15:02:14Z"
   },
   {
@@ -44635,7 +44635,7 @@
     "company": "PedidosYa",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 988,
+    "privateContributions": 1286,
     "publicContributions": 0,
     "createdAt": "2017-09-12T18:42:43Z"
   },
@@ -44650,18 +44650,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-02-23T00:27:16Z"
-  },
-  {
-    "login": "gusraffo",
-    "name": "Gustavo Raffo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/26257064?s=72&u=5e2432e862020f6abc25a2762bd3a302a9539bc7&v=4",
-    "location": "Montevideo, Uruguay",
-    "company": "Gustavsson",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2017-03-07T17:36:03Z"
   },
   {
     "login": "whoopsmith",
@@ -44683,7 +44671,7 @@
     "company": "@front10 ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 49,
+    "privateContributions": 22,
     "publicContributions": 0,
     "createdAt": "2017-09-28T13:37:41Z"
   },

@@ -45187,7 +45187,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 6,
+    "privateContributions": 10,
     "publicContributions": 0,
     "createdAt": "2015-10-07T08:19:16Z"
   },
@@ -45248,7 +45248,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 4,
     "createdAt": "2015-12-22T23:17:18Z"
   },
   {
@@ -45259,8 +45259,8 @@
     "company": "@judge0",
     "twitterUsername": "hermanzvonimir",
     "followers": 287,
-    "privateContributions": 290,
-    "publicContributions": 240,
+    "privateContributions": 610,
+    "publicContributions": 239,
     "createdAt": "2014-06-18T20:57:39Z"
   },
   {
@@ -45270,9 +45270,9 @@
     "location": "Zagreb, Croatia",
     "company": "",
     "twitterUsername": "",
-    "followers": 178,
-    "privateContributions": 604,
-    "publicContributions": 310,
+    "followers": 185,
+    "privateContributions": 542,
+    "publicContributions": 314,
     "createdAt": "2014-06-28T16:30:13Z"
   },
   {
@@ -45282,9 +45282,9 @@
     "location": "Zagreb, Croatia",
     "company": "",
     "twitterUsername": "",
-    "followers": 157,
-    "privateContributions": 2443,
-    "publicContributions": 322,
+    "followers": 160,
+    "privateContributions": 2395,
+    "publicContributions": 258,
     "createdAt": "2014-09-03T06:43:03Z"
   },
   {
@@ -45294,8 +45294,8 @@
     "location": "Croatia",
     "company": "",
     "twitterUsername": "",
-    "followers": 151,
-    "privateContributions": 2215,
+    "followers": 150,
+    "privateContributions": 2792,
     "publicContributions": 0,
     "createdAt": "2014-05-11T21:31:56Z"
   },
@@ -45306,9 +45306,9 @@
     "location": "Split, Croatia / Johannesburg, SA",
     "company": "@ExtensionEngine",
     "twitterUsername": "",
-    "followers": 90,
-    "privateContributions": 160,
-    "publicContributions": 62,
+    "followers": 93,
+    "privateContributions": 465,
+    "publicContributions": 57,
     "createdAt": "2014-10-09T19:25:48Z"
   },
   {
@@ -45318,9 +45318,9 @@
     "location": "Croatia",
     "company": "@kickassCoderz @dailydotdev ",
     "twitterUsername": "capJavert",
-    "followers": 79,
-    "privateContributions": 445,
-    "publicContributions": 1618,
+    "followers": 81,
+    "privateContributions": 1395,
+    "publicContributions": 842,
     "createdAt": "2014-11-17T15:18:51Z"
   },
   {
@@ -45331,8 +45331,8 @@
     "company": "Sportening",
     "twitterUsername": "",
     "followers": 61,
-    "privateContributions": 2549,
-    "publicContributions": 0,
+    "privateContributions": 3034,
+    "publicContributions": 1,
     "createdAt": "2014-03-11T07:24:45Z"
   },
   {
@@ -45342,22 +45342,10 @@
     "location": "Split, Croatia",
     "company": "Tobogan",
     "twitterUsername": "",
-    "followers": 55,
-    "privateContributions": 103,
+    "followers": 58,
+    "privateContributions": 67,
     "publicContributions": 129,
     "createdAt": "2014-12-10T01:49:14Z"
-  },
-  {
-    "login": "crnkovic",
-    "name": "Josip Crnković",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/6536260?s=72&u=4ce10e35f03858d58b079d549729af7138b9f193&v=4",
-    "location": "Zagreb, Croatia",
-    "company": "",
-    "twitterUsername": "jcrnkovic95",
-    "followers": 52,
-    "privateContributions": 4225,
-    "publicContributions": 3,
-    "createdAt": "2014-01-29T15:52:40Z"
   },
   {
     "login": "0ximDigital",
@@ -45366,9 +45354,9 @@
     "location": "Croatia",
     "company": "Clarion",
     "twitterUsername": "",
-    "followers": 44,
-    "privateContributions": 589,
-    "publicContributions": 4,
+    "followers": 45,
+    "privateContributions": 969,
+    "publicContributions": 0,
     "createdAt": "2014-06-03T13:12:49Z"
   },
   {
@@ -45379,8 +45367,8 @@
     "company": "crocoder.dev",
     "twitterUsername": "devabram",
     "followers": 44,
-    "privateContributions": 882,
-    "publicContributions": 2954,
+    "privateContributions": 1287,
+    "publicContributions": 3513,
     "createdAt": "2014-05-18T12:17:32Z"
   },
   {
@@ -45390,9 +45378,9 @@
     "location": "Zagreb, Croatia",
     "company": "",
     "twitterUsername": "",
-    "followers": 43,
-    "privateContributions": 186,
-    "publicContributions": 45,
+    "followers": 44,
+    "privateContributions": 173,
+    "publicContributions": 52,
     "createdAt": "2014-03-31T18:28:04Z"
   },
   {
