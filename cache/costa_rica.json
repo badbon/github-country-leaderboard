@@ -45018,7 +45018,7 @@
     "location": "Costa Rica",
     "company": "",
     "twitterUsername": "laPochilla",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 6,
     "createdAt": "2016-09-06T19:27:32Z"
@@ -45032,7 +45032,7 @@
     "twitterUsername": "Masterlink01",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 12,
     "createdAt": "2016-01-15T02:14:02Z"
   },
   {
@@ -45043,7 +45043,7 @@
     "company": "IBM",
     "twitterUsername": "gabuardicr",
     "followers": 4,
-    "privateContributions": 0,
+    "privateContributions": 1,
     "publicContributions": 0,
     "createdAt": "2016-05-25T07:20:47Z"
   },
@@ -45090,9 +45090,9 @@
     "location": "San José, Costa Rica",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 4,
     "createdAt": "2016-03-17T15:37:00Z"
   },
   {
@@ -45104,19 +45104,19 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 4,
     "createdAt": "2016-12-08T17:35:09Z"
   },
   {
     "login": "KevinArce98",
     "name": "Kevin Arias Arce",
     "avatarUrl": "https://avatars.githubusercontent.com/u/18059982?s=72&u=cf3ad25280fcd0f517b443565ee080f97aad0c6e&v=4",
-    "location": "San Carlos, Costa Rica",
+    "location": "Heredia, Costa Rica",
     "company": "Factor K Software",
     "twitterUsername": "KevinArce981",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 231,
+    "publicContributions": 135,
     "createdAt": "2016-03-24T22:41:58Z"
   },
   {
@@ -45139,8 +45139,8 @@
     "company": "Guarnicom",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 69,
-    "publicContributions": 8,
+    "privateContributions": 59,
+    "publicContributions": 5,
     "createdAt": "2016-05-24T16:27:45Z"
   },
   {
@@ -45152,7 +45152,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 36,
+    "publicContributions": 77,
     "createdAt": "2016-01-04T14:05:00Z"
   },
   {
@@ -45175,7 +45175,7 @@
     "company": "Universidad de Costa Rica",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 20,
+    "privateContributions": 19,
     "publicContributions": 0,
     "createdAt": "2016-12-12T07:27:44Z"
   },
@@ -45188,7 +45188,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 135,
-    "publicContributions": 393,
+    "publicContributions": 357,
     "createdAt": "2016-03-01T23:55:23Z"
   },
   {
@@ -45211,8 +45211,8 @@
     "company": "Microsoft",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 377,
-    "publicContributions": 33,
+    "privateContributions": 570,
+    "publicContributions": 39,
     "createdAt": "2016-04-23T20:43:22Z"
   },
   {
@@ -45235,8 +45235,8 @@
     "company": "Databricks",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 50,
-    "publicContributions": 44,
+    "privateContributions": 53,
+    "publicContributions": 51,
     "createdAt": "2016-10-31T23:20:24Z"
   },
   {
@@ -45246,7 +45246,7 @@
     "location": "San José, Costa Rica",
     "company": "IBM",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 21,
     "createdAt": "2016-10-27T01:09:04Z"

@@ -696022,5 +696022,41 @@
     "privateContributions": 0,
     "publicContributions": 33,
     "createdAt": "2008-09-21T09:02:47Z"
+  },
+  {
+    "login": "akorasiak",
+    "name": "Andrzej Korasiak",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11215?s=72&u=707df6baaa8c8feb3381f1aeb83aab5efe81534d&v=4",
+    "location": "Warszawa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2008-05-22T18:08:49Z"
+  },
+  {
+    "login": "Cinal",
+    "name": "Marcin Zawadzki",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5677?s=72&v=4",
+    "location": "Wroclaw",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 52,
+    "privateContributions": 608,
+    "publicContributions": 0,
+    "createdAt": "2008-04-07T20:42:19Z"
+  },
+  {
+    "login": "versus",
+    "name": "Valentin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7403?s=72&u=c76a3a7b53ad435651f86711cb594162d0719f08&v=4",
+    "location": "Wroclaw",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 37,
+    "privateContributions": 0,
+    "publicContributions": 56,
+    "createdAt": "2008-04-15T11:29:43Z"
   }
 ]

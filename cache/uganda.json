@@ -44702,13 +44702,13 @@
   {
     "login": "Mwanje",
     "name": "Mwanje Musa",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/5467866?s=72&u=4b38a7fc978c13c439d00488fe1d93a3cbfd1871&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5467866?s=72&u=6c42bc4b69a3338371ac6b219bb23c6c1e16519c&v=4",
     "location": "Kampala",
     "company": "@METS-Programme ",
     "twitterUsername": "mwanjemusa",
     "followers": 3,
-    "privateContributions": 42,
-    "publicContributions": 108,
+    "privateContributions": 123,
+    "publicContributions": 120,
     "createdAt": "2013-09-16T08:01:04Z"
   },
   {
@@ -44751,12 +44751,12 @@
     "login": "nwasswa",
     "name": "Nelson Wasswa ",
     "avatarUrl": "https://avatars.githubusercontent.com/u/5619564?s=72&u=3cf20f0230c82f152603582cb75e57ce1b775e40&v=4",
-    "location": "Washington DC / Kampala ",
+    "location": "Kampala , Uganda",
     "company": "Sodzo Foundation",
     "twitterUsername": "nelwa256",
     "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 0,
+    "privateContributions": 18,
+    "publicContributions": 12,
     "createdAt": "2013-10-05T20:30:12Z"
   },
   {
@@ -44791,7 +44791,7 @@
     "company": "Wamoscode",
     "twitterUsername": "Wamosrich",
     "followers": 1,
-    "privateContributions": 2933,
+    "privateContributions": 5107,
     "publicContributions": 91,
     "createdAt": "2013-10-12T17:42:15Z"
   },
@@ -44803,7 +44803,7 @@
     "company": "Cryptosavannah",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 409,
+    "privateContributions": 315,
     "publicContributions": 6,
     "createdAt": "2013-08-04T12:36:35Z"
   },
@@ -44839,8 +44839,8 @@
     "company": "Kach Labs",
     "twitterUsername": "",
     "followers": 36,
-    "privateContributions": 724,
-    "publicContributions": 362,
+    "privateContributions": 713,
+    "publicContributions": 329,
     "createdAt": "2012-04-03T07:10:12Z"
   },
   {
@@ -44851,8 +44851,8 @@
     "company": "",
     "twitterUsername": "frankojaker",
     "followers": 32,
-    "privateContributions": 2624,
-    "publicContributions": 3,
+    "privateContributions": 4274,
+    "publicContributions": 4,
     "createdAt": "2012-08-13T10:23:02Z"
   },
   {
@@ -44875,8 +44875,8 @@
     "company": "Kanzu Code",
     "twitterUsername": "",
     "followers": 27,
-    "privateContributions": 989,
-    "publicContributions": 436,
+    "privateContributions": 1079,
+    "publicContributions": 511,
     "createdAt": "2012-05-10T04:31:01Z"
   },
   {
@@ -44887,7 +44887,7 @@
     "company": "",
     "twitterUsername": "joshuaokello",
     "followers": 18,
-    "privateContributions": 26,
+    "privateContributions": 87,
     "publicContributions": 0,
     "createdAt": "2012-07-25T13:43:16Z"
   },
@@ -44898,7 +44898,7 @@
     "location": "Kampala, Uganda",
     "company": "Freelancer",
     "twitterUsername": "",
-    "followers": 16,
+    "followers": 17,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2012-11-21T13:27:56Z"
@@ -44912,7 +44912,7 @@
     "twitterUsername": "",
     "followers": 15,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 14,
     "createdAt": "2012-07-05T20:03:39Z"
   },
   {

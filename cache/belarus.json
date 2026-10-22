@@ -44864,7 +44864,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 66,
+    "publicContributions": 99,
     "createdAt": "2020-02-17T06:28:35Z"
   },
   {
@@ -44876,7 +44876,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 38,
+    "publicContributions": 33,
     "createdAt": "2020-07-01T12:43:59Z"
   },
   {
@@ -44887,7 +44887,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 14,
+    "privateContributions": 16,
     "publicContributions": 5,
     "createdAt": "2020-11-06T09:56:59Z"
   },
@@ -44947,8 +44947,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 2771,
-    "publicContributions": 23,
+    "privateContributions": 2684,
+    "publicContributions": 0,
     "createdAt": "2020-10-29T18:45:11Z"
   },
   {
@@ -44971,8 +44971,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 1,
-    "publicContributions": 7,
+    "privateContributions": 412,
+    "publicContributions": 5,
     "createdAt": "2020-02-15T18:48:46Z"
   },
   {
@@ -44995,8 +44995,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 1534,
-    "publicContributions": 0,
+    "privateContributions": 1336,
+    "publicContributions": 1,
     "createdAt": "2020-09-03T10:17:24Z"
   },
   {
@@ -45056,20 +45056,8 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 343,
+    "publicContributions": 135,
     "createdAt": "2020-10-07T13:03:29Z"
-  },
-  {
-    "login": "nacht-wache",
-    "name": "Ivan Mikhalchuk",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/71445122?s=72&u=0325c729065bb8a373f32eecd23813b1b4a96a18&v=4",
-    "location": "Minsk, Belarus",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 0,
-    "publicContributions": 68,
-    "createdAt": "2020-09-17T12:55:31Z"
   },
   {
     "login": "JarKz",
@@ -45079,8 +45067,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 69,
-    "publicContributions": 108,
+    "privateContributions": 72,
+    "publicContributions": 96,
     "createdAt": "2020-12-14T17:22:09Z"
   },
   {

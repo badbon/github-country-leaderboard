@@ -2196,18 +2196,6 @@
     "createdAt": "2023-03-10T19:03:21Z"
   },
   {
-    "login": "marinario-m",
-    "name": "Marinario",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/123278184?s=72&v=4",
-    "location": "Albania",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 26,
-    "createdAt": "2023-01-22T00:20:33Z"
-  },
-  {
     "login": "reiWebDeveloper",
     "name": "Rei Kraja",
     "avatarUrl": "https://avatars.githubusercontent.com/u/123578298?s=72&u=8e8fc6c5a445abb34315801b44f790f0edab8c56&v=4",
@@ -2216,7 +2204,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 142,
+    "publicContributions": 143,
     "createdAt": "2023-01-25T16:31:59Z"
   },
   {

@@ -44288,7 +44288,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 50,
+    "publicContributions": 27,
     "createdAt": "2017-09-25T14:19:18Z"
   },
   {
@@ -44299,14 +44299,14 @@
     "company": "@pedidosya @deliveryhero",
     "twitterUsername": "matiashrnndz",
     "followers": 1,
-    "privateContributions": 140,
+    "privateContributions": 103,
     "publicContributions": 0,
     "createdAt": "2017-10-28T22:16:35Z"
   },
   {
     "login": "RildoDigitalNomad",
     "name": "Nathan Maia",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/33912675?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/33912675?s=72&u=74861f84f6d13d4e45c918b112e26aaac0b9b1e2&v=4",
     "location": "Uruguay",
     "company": "",
     "twitterUsername": "",
@@ -44335,8 +44335,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 439,
-    "publicContributions": 31,
+    "privateContributions": 481,
+    "publicContributions": 48,
     "createdAt": "2017-09-18T00:46:05Z"
   },
   {
@@ -44350,18 +44350,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-05-27T00:25:51Z"
-  },
-  {
-    "login": "barr4",
-    "name": "barra",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/33532012?s=72&u=3c42ea961d2bf96151064b50e79df85261420651&v=4",
-    "location": "Montevideo, Uruguay",
-    "company": "Cinetica tech",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 16,
-    "createdAt": "2017-11-09T23:48:51Z"
   },
   {
     "login": "nacho3627",
@@ -44383,7 +44371,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
+    "privateContributions": 443,
     "publicContributions": 0,
     "createdAt": "2017-03-16T00:24:31Z"
   },
@@ -44455,7 +44443,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 8,
+    "privateContributions": 7,
     "publicContributions": 0,
     "createdAt": "2017-12-17T19:04:11Z"
   },
@@ -44470,18 +44458,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-12-25T00:31:20Z"
-  },
-  {
-    "login": "jponce-ux",
-    "name": "Juan Ponce",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/31640487?s=72&u=1008e8ea429d8c2379cc85f4c569b711be41e787&v=4",
-    "location": "Uruguay",
-    "company": "freelancer.",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 1,
-    "publicContributions": 159,
-    "createdAt": "2017-09-05T02:42:26Z"
   },
   {
     "login": "StringRam",

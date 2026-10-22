@@ -404994,9 +404994,9 @@
     "location": "Japan",
     "company": "",
     "twitterUsername": "junkiyoshi",
-    "followers": 679,
-    "privateContributions": 33,
-    "publicContributions": 422,
+    "followers": 680,
+    "privateContributions": 0,
+    "publicContributions": 370,
     "createdAt": "2016-02-01T04:29:23Z"
   },
   {
@@ -405006,9 +405006,9 @@
     "location": "Japan",
     "company": "",
     "twitterUsername": "",
-    "followers": 616,
-    "privateContributions": 446,
-    "publicContributions": 71,
+    "followers": 634,
+    "privateContributions": 431,
+    "publicContributions": 20,
     "createdAt": "2016-02-06T11:17:49Z"
   },
   {
@@ -405054,9 +405054,9 @@
     "location": "Japan",
     "company": "@databricks",
     "twitterUsername": "",
-    "followers": 293,
-    "privateContributions": 11457,
-    "publicContributions": 5944,
+    "followers": 305,
+    "privateContributions": 10596,
+    "publicContributions": 5990,
     "createdAt": "2016-02-03T04:58:13Z"
   },
   {
@@ -405102,9 +405102,9 @@
     "location": "Tokyo, Japan",
     "company": "",
     "twitterUsername": "o8_vm",
-    "followers": 214,
-    "privateContributions": 995,
-    "publicContributions": 465,
+    "followers": 238,
+    "privateContributions": 567,
+    "publicContributions": 621,
     "createdAt": "2016-02-03T17:27:45Z"
   },
   {
@@ -405114,9 +405114,9 @@
     "location": "Japan",
     "company": "",
     "twitterUsername": "aodaki",
-    "followers": 196,
-    "privateContributions": 700,
-    "publicContributions": 203,
+    "followers": 200,
+    "privateContributions": 654,
+    "publicContributions": 193,
     "createdAt": "2016-02-03T01:32:57Z"
   },
   {
@@ -405306,9 +405306,9 @@
     "location": "Japan",
     "company": "CryptoSystems",
     "twitterUsername": "rinov0321",
-    "followers": 89,
-    "privateContributions": 2218,
-    "publicContributions": 0,
+    "followers": 90,
+    "privateContributions": 2981,
+    "publicContributions": 16,
     "createdAt": "2016-01-25T16:09:01Z"
   },
   {
@@ -405354,9 +405354,9 @@
     "location": "Tokyo, Japan",
     "company": "",
     "twitterUsername": "bebe_sjcl",
-    "followers": 81,
-    "privateContributions": 256,
-    "publicContributions": 1125,
+    "followers": 83,
+    "privateContributions": 657,
+    "publicContributions": 1657,
     "createdAt": "2016-01-29T05:40:44Z"
   },
   {
@@ -405366,9 +405366,9 @@
     "location": "Japan, Hokkaido, Sapporo, Atsubetsu",
     "company": "@MIERUNE Inc.  ReMotive LLC",
     "twitterUsername": "Nekoya3_",
-    "followers": 80,
-    "privateContributions": 1682,
-    "publicContributions": 400,
+    "followers": 81,
+    "privateContributions": 1515,
+    "publicContributions": 441,
     "createdAt": "2016-02-01T07:05:58Z"
   },
   {
@@ -405390,9 +405390,9 @@
     "location": "Tokyo, Japan",
     "company": "Institute of Science Tokyo",
     "twitterUsername": "yuyuchazuke",
-    "followers": 77,
+    "followers": 78,
     "privateContributions": 0,
-    "publicContributions": 60,
+    "publicContributions": 49,
     "createdAt": "2016-02-02T08:03:15Z"
   },
   {
@@ -405416,7 +405416,7 @@
     "twitterUsername": "",
     "followers": 74,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 5,
     "createdAt": "2016-01-26T04:09:57Z"
   },
   {
@@ -405427,8 +405427,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 73,
-    "privateContributions": 1268,
-    "publicContributions": 381,
+    "privateContributions": 1418,
+    "publicContributions": 322,
     "createdAt": "2016-01-28T10:47:43Z"
   },
   {
@@ -405438,9 +405438,9 @@
     "location": "Tokyo/Japan",
     "company": "STANDARD Inc.",
     "twitterUsername": "park_labs",
-    "followers": 65,
-    "privateContributions": 2938,
-    "publicContributions": 192,
+    "followers": 66,
+    "privateContributions": 2856,
+    "publicContributions": 46,
     "createdAt": "2016-01-24T04:02:11Z"
   },
   {
@@ -408250,5 +408250,89 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-01-18T04:11:06Z"
+  },
+  {
+    "login": "akira6592",
+    "name": "Akira Yokochi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16851744?s=72&u=79a211190b8b1e424341c3adf0e932346b3794e9&v=4",
+    "location": "Japan",
+    "company": "",
+    "twitterUsername": "akira6592",
+    "followers": 61,
+    "privateContributions": 0,
+    "publicContributions": 20,
+    "createdAt": "2016-01-23T12:14:48Z"
+  },
+  {
+    "login": "Yu-Ishida",
+    "name": "Method();",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16949163?s=72&u=538c0c25cd272e5f690784f500e9affa3702f21b&v=4",
+    "location": "Japan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 60,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2016-01-29T02:14:13Z"
+  },
+  {
+    "login": "jmqd",
+    "name": "Jordan McQueen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16874043?s=72&u=5a53b63182d7eaf063853d43a24e36ff7a1b64a8&v=4",
+    "location": "Tokyo, Japan",
+    "company": "",
+    "twitterUsername": "joudanki",
+    "followers": 59,
+    "privateContributions": 10262,
+    "publicContributions": 3142,
+    "createdAt": "2016-01-25T06:10:01Z"
+  },
+  {
+    "login": "soukouki",
+    "name": "sou7",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/17077205?s=72&u=3a4c63db4f883e8ea33f838671a875214bf90141&v=4",
+    "location": "japan",
+    "company": "Univ. of Aizu",
+    "twitterUsername": "sou7___",
+    "followers": 53,
+    "privateContributions": 878,
+    "publicContributions": 235,
+    "createdAt": "2016-02-05T03:44:51Z"
+  },
+  {
+    "login": "kazumihirose",
+    "name": "Kazumi Hirose",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16916861?s=72&v=4",
+    "location": "Japan,Tokyo",
+    "company": "@microsoft",
+    "twitterUsername": "",
+    "followers": 42,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-01-27T10:35:40Z"
+  },
+  {
+    "login": "jiegillet",
+    "name": "Jie",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16929078?s=72&u=14be352a877eecd026939b4a154eee88b2e95bee&v=4",
+    "location": "Okinawa, Japan",
+    "company": "Steady Media",
+    "twitterUsername": "",
+    "followers": 41,
+    "privateContributions": 654,
+    "publicContributions": 82,
+    "createdAt": "2016-01-28T00:13:01Z"
+  },
+  {
+    "login": "ayuguchi",
+    "name": "A. Yuguchi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16956845?s=72&u=bb7acd5f5d838355e9c4c731feba7a3a3f0230c5&v=4",
+    "location": "Japan",
+    "company": "Fukushima University",
+    "twitterUsername": "",
+    "followers": 38,
+    "privateContributions": 17,
+    "publicContributions": 1,
+    "createdAt": "2016-01-29T12:40:19Z"
   }
 ]
