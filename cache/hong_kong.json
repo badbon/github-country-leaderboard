@@ -42067,8 +42067,8 @@
     "company": "anildabas.com",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 80,
-    "publicContributions": 36,
+    "privateContributions": 2,
+    "publicContributions": 21,
     "createdAt": "2020-07-01T02:13:58Z"
   },
   {
@@ -42078,7 +42078,7 @@
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2020-11-07T03:05:20Z"
@@ -42092,7 +42092,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 8,
     "createdAt": "2020-12-21T09:01:59Z"
   },
   {
@@ -42103,8 +42103,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 164,
-    "publicContributions": 93,
+    "privateContributions": 145,
+    "publicContributions": 89,
     "createdAt": "2020-07-20T11:37:11Z"
   },
   {
@@ -42116,7 +42116,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 40,
+    "publicContributions": 21,
     "createdAt": "2020-09-25T15:15:24Z"
   },
   {
@@ -42138,9 +42138,9 @@
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 410,
-    "publicContributions": 26,
+    "followers": 6,
+    "privateContributions": 401,
+    "publicContributions": 34,
     "createdAt": "2020-07-29T06:34:38Z"
   },
   {
@@ -42151,8 +42151,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 58,
-    "publicContributions": 30,
+    "privateContributions": 40,
+    "publicContributions": 61,
     "createdAt": "2020-11-18T11:43:39Z"
   },
   {
@@ -42162,7 +42162,7 @@
     "location": "Hong Kong",
     "company": "HKBU",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 5,
     "createdAt": "2020-09-05T01:17:28Z"
@@ -42175,7 +42175,7 @@
     "company": "HKUST",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 436,
+    "privateContributions": 882,
     "publicContributions": 12,
     "createdAt": "2020-10-03T05:53:06Z"
   },
@@ -42200,7 +42200,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 18,
-    "publicContributions": 12,
+    "publicContributions": 9,
     "createdAt": "2020-11-04T14:38:13Z"
   },
   {
@@ -42222,8 +42222,8 @@
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 439,
+    "followers": 4,
+    "privateContributions": 723,
     "publicContributions": 37,
     "createdAt": "2020-10-01T11:03:45Z"
   },
@@ -42234,22 +42234,10 @@
     "location": "Hong Kong",
     "company": "The Chinese University of Hong Kong",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 19,
     "createdAt": "2020-08-01T13:35:30Z"
-  },
-  {
-    "login": "tenneidp",
-    "name": "InPax",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/69467698?s=72&v=4",
-    "location": "Hong Kong",
-    "company": "Tenneidp Capital. Inc",
-    "twitterUsername": "tenneidp",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2020-08-10T13:32:39Z"
   },
   {
     "login": "Halo-949",
@@ -42260,7 +42248,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2020-09-18T09:30:15Z"
   },
   {
@@ -42283,7 +42271,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 222,
+    "privateContributions": 204,
     "publicContributions": 0,
     "createdAt": "2020-09-03T10:01:28Z"
   },

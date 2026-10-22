@@ -42246,22 +42246,10 @@
     "location": "Helsinki",
     "company": "",
     "twitterUsername": "",
-    "followers": 116,
+    "followers": 117,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 56,
     "createdAt": "2021-08-16T11:03:11Z"
-  },
-  {
-    "login": "lu1a",
-    "name": "Lewis",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/83420438?s=72&u=6661c5a60ac9aafb15fcf3b0946ffc67124d15c9&v=4",
-    "location": "Helsinki",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 110,
-    "privateContributions": 5,
-    "publicContributions": 80,
-    "createdAt": "2021-04-29T16:48:02Z"
   },
   {
     "login": "pawaters",
@@ -42283,8 +42271,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 69,
-    "privateContributions": 3,
-    "publicContributions": 4,
+    "privateContributions": 0,
+    "publicContributions": 6,
     "createdAt": "2021-06-03T19:20:29Z"
   },
   {
@@ -42295,7 +42283,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 66,
-    "privateContributions": 1700,
+    "privateContributions": 1869,
     "publicContributions": 0,
     "createdAt": "2021-07-29T12:17:52Z"
   },
@@ -42306,8 +42294,8 @@
     "location": "Helsinki",
     "company": "Hive",
     "twitterUsername": "",
-    "followers": 56,
-    "privateContributions": 1,
+    "followers": 55,
+    "privateContributions": 0,
     "publicContributions": 25,
     "createdAt": "2021-10-20T10:16:26Z"
   },
@@ -42319,8 +42307,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 54,
-    "privateContributions": 156,
-    "publicContributions": 26,
+    "privateContributions": 64,
+    "publicContributions": 6,
     "createdAt": "2021-04-01T11:43:38Z"
   },
   {
@@ -42331,7 +42319,7 @@
     "company": "@Unity-Technologies",
     "twitterUsername": "",
     "followers": 45,
-    "privateContributions": 1501,
+    "privateContributions": 1571,
     "publicContributions": 0,
     "createdAt": "2021-03-26T17:03:17Z"
   },
@@ -42343,7 +42331,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 45,
-    "privateContributions": 3330,
+    "privateContributions": 3272,
     "publicContributions": 25,
     "createdAt": "2021-12-17T07:17:56Z"
   },
@@ -42355,7 +42343,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 39,
-    "privateContributions": 2605,
+    "privateContributions": 4649,
     "publicContributions": 0,
     "createdAt": "2021-07-12T15:05:44Z"
   },
@@ -42366,9 +42354,9 @@
     "location": "Helsinki",
     "company": "",
     "twitterUsername": "",
-    "followers": 34,
+    "followers": 39,
     "privateContributions": 0,
-    "publicContributions": 199,
+    "publicContributions": 176,
     "createdAt": "2021-10-11T07:31:05Z"
   },
   {
@@ -42378,7 +42366,7 @@
     "location": "Helsinki",
     "company": "ITMO University",
     "twitterUsername": "",
-    "followers": 34,
+    "followers": 33,
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2021-08-31T08:27:43Z"
@@ -42391,8 +42379,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 34,
-    "privateContributions": 57,
-    "publicContributions": 55,
+    "privateContributions": 76,
+    "publicContributions": 0,
     "createdAt": "2021-12-26T10:32:56Z"
   },
   {
@@ -42450,9 +42438,9 @@
     "location": "Helsinki",
     "company": "",
     "twitterUsername": "",
-    "followers": 21,
+    "followers": 22,
     "privateContributions": 0,
-    "publicContributions": 185,
+    "publicContributions": 154,
     "createdAt": "2021-03-31T10:46:30Z"
   },
   {
@@ -42462,9 +42450,9 @@
     "location": "Helsinki",
     "company": "SaaShop",
     "twitterUsername": "",
-    "followers": 20,
-    "privateContributions": 4194,
-    "publicContributions": 29,
+    "followers": 22,
+    "privateContributions": 4313,
+    "publicContributions": 20,
     "createdAt": "2021-03-18T17:40:53Z"
   },
   {

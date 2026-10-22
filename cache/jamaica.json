@@ -12211,7 +12211,7 @@
     "company": "@testdouble",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 478,
+    "privateContributions": 474,
     "publicContributions": 0,
     "createdAt": "2014-07-16T16:43:40Z"
   },
@@ -12222,8 +12222,8 @@
     "location": "Kingston, New York",
     "company": "Quigley Group",
     "twitterUsername": "JohnPeterAt",
-    "followers": 14,
-    "privateContributions": 7866,
+    "followers": 13,
+    "privateContributions": 8269,
     "publicContributions": 89,
     "createdAt": "2014-03-03T20:55:41Z"
   },
@@ -12343,7 +12343,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 468,
+    "privateContributions": 518,
     "publicContributions": 3,
     "createdAt": "2014-06-28T04:16:40Z"
   },

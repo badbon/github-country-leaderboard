@@ -42452,7 +42452,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2022-02-15T05:27:32Z"
   },
   {
@@ -42462,9 +42462,9 @@
     "location": "Addis Ababa, Ethiopia",
     "company": "Follow",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 30,
     "createdAt": "2022-09-24T17:42:12Z"
   },
   {
@@ -42512,7 +42512,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 35,
     "createdAt": "2022-11-08T13:27:38Z"
   },
   {
@@ -42524,7 +42524,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2022-03-12T05:40:35Z"
   },
   {
@@ -42559,8 +42559,8 @@
     "company": "Nahom S.",
     "twitterUsername": "nahomsolo12",
     "followers": 1,
-    "privateContributions": 1912,
-    "publicContributions": 157,
+    "privateContributions": 2679,
+    "publicContributions": 161,
     "createdAt": "2022-12-14T05:48:34Z"
   },
   {
@@ -42571,7 +42571,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 14,
+    "privateContributions": 7,
     "publicContributions": 0,
     "createdAt": "2022-04-30T10:03:29Z"
   },
@@ -42584,19 +42584,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 26,
     "createdAt": "2022-03-13T13:47:07Z"
   },
   {
     "login": "robeltila",
     "name": "Robel Tilahun",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/106760748?s=72&u=d6b18e9b32ab0cccec3ac69c1522edc197d32a09&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/106760748?s=72&u=e7ea53f50c05d2ec7cfe07825c55ad6f3679082e&v=4",
     "location": "Ethiopia",
     "company": "",
     "twitterUsername": "robeltila",
     "followers": 1,
-    "privateContributions": 229,
-    "publicContributions": 17,
+    "privateContributions": 271,
+    "publicContributions": 18,
     "createdAt": "2022-06-02T15:22:19Z"
   },
   {
@@ -42668,7 +42668,7 @@
     "twitterUsername": "NiyanEyassu",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 21,
     "createdAt": "2022-06-06T06:58:50Z"
   },
   {
