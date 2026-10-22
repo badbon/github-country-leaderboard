@@ -1,6 +1,6 @@
 # Followers - Moldova
 
-Generated: 2026-10-21T22:58:33.403Z
+Generated: 2026-10-22T00:41:26.938Z
 
 Users: 1746
 

@@ -1,6 +1,6 @@
 # Followers - Kuwait
 
-Generated: 2026-10-21T22:49:32.788Z
+Generated: 2026-10-22T00:32:53.615Z
 
 Users: 796
 

@@ -1,6 +1,6 @@
 # Public Contributions - Saint Helena, Ascension and Tristan da Cunha
 
-Generated: 2026-10-21T23:14:22.586Z
+Generated: 2026-10-22T00:58:00.376Z
 
 Users: 25
 
@@ -9,8 +9,8 @@ Users: 25
 | 1 | [carehart](https://github.com/carehart) | Charlie Arehart | CArehart.org | carehart | Jamestown, KY | 100 |
 | 2 | [scottley](https://github.com/scottley) | Scott Simon | Garcilote LLC |  | Jamestown, MO | 41 |
 | 3 | [brandan-schmitz](https://github.com/brandan-schmitz) | Brandan Schmitz |  |  | Jamestown, North Dakota | 33 |
-| 4 | [Ashtray915](https://github.com/Ashtray915) | 3am Dead Coder | 3am Dead Coder |  | Jamestown | 12 |
-| 5 | [zerodoc](https://github.com/zerodoc) | Howard M Wheeler |  |  | Jamestown, New York | 12 |
+| 4 | [zerodoc](https://github.com/zerodoc) | Howard M Wheeler |  |  | Jamestown, New York | 12 |
+| 5 | [Ashtray915](https://github.com/Ashtray915) | 3am Dead Coder | 3am Dead Coder |  | Jamestown | 11 |
 | 6 | [john-moore-levesque](https://github.com/john-moore-levesque) | John Moore-Levesque | Capital One  |  | Jamestown, RI | 10 |
 | 7 | [johncoder](https://github.com/johncoder) | John Nelson |  | johncoder | Jamestown, NY | 3 |
 | 8 | [agentic-webb](https://github.com/agentic-webb) | Eric Webb | Zyte | agentic_webb | Jamestown, KY | 1 |

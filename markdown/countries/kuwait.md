@@ -20,7 +20,7 @@ Indexed users: 796
 | 6 | [drhema](https://github.com/drhema) | Ibrahim Elsherbiny | Kuwait | 6,182 |
 | 7 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Kuwait | 5,785 |
 | 8 | [saskw2010](https://github.com/saskw2010) | Mostafa Elnagar | kuwait | 5,237 |
-| 9 | [bigboss97lnt](https://github.com/bigboss97lnt) | Nasser Tahan | Kuwait | 5,221 |
+| 9 | [bigboss97lnt](https://github.com/bigboss97lnt) | Nasser Tahan | Kuwait | 5,148 |
 | 10 | [Mubder](https://github.com/Mubder) | Mubder Alfaris | Kuwait | 4,590 |
 | 11 | [knro](https://github.com/knro) | Jasem Mutlaq | Kuwait | 4,149 |
 | 12 | [careless10](https://github.com/careless10) | Menawer | Kuwait | 3,965 |
@@ -31,7 +31,7 @@ Indexed users: 796
 | 17 | [DiNaSoR](https://github.com/DiNaSoR) | BuYousef | Kuwait | 3,515 |
 | 18 | [aalhendi](https://github.com/aalhendi) | Abdulrazzaq Alhendi | Kuwait | 3,466 |
 | 19 | [tammerofficial](https://github.com/tammerofficial) | tammer | Kuwait City | 3,394 |
-| 20 | [saudshaddad](https://github.com/saudshaddad) | Saud Shaddad | Kuwait | 3,296 |
+| 20 | [saudshaddad](https://github.com/saudshaddad) | Saud Shaddad | Kuwait | 3,290 |
 
 ## Public Contributions
 
@@ -50,7 +50,7 @@ Indexed users: 796
 | 11 | [knro](https://github.com/knro) | Jasem Mutlaq | Kuwait | 961 |
 | 12 | [usamahklair](https://github.com/usamahklair) | Usamah Klair | Kuwait | 823 |
 | 13 | [Mazyod](https://github.com/Mazyod) | Maz | Kuwait | 631 |
-| 14 | [jamalxcode](https://github.com/jamalxcode) | jamal xcode | Kuwait | 558 |
+| 14 | [jamalxcode](https://github.com/jamalxcode) | jamal xcode | Kuwait | 579 |
 | 15 | [AwadhObaid](https://github.com/AwadhObaid) | Awadh Obaid | Kuwait | 556 |
 | 16 | [fibonacci61](https://github.com/fibonacci61) | Faisal Malallah | Kuwait | 545 |
 | 17 | [agatho-daemon](https://github.com/agatho-daemon) | Agathodaemon | Kuwait | 532 |
@@ -83,4 +83,4 @@ Indexed users: 796
 | 19 | [MoathOthman](https://github.com/MoathOthman) | Moath othman | Kuwait | 85 |
 | 20 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Kuwait | 82 |
 
-Generated: 2026-10-21T22:49:32.788Z
+Generated: 2026-10-22T00:32:53.615Z

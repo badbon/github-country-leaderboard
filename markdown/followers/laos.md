@@ -1,6 +1,6 @@
 # Followers - Laos
 
-Generated: 2026-10-21T22:50:50.407Z
+Generated: 2026-10-22T00:34:11.703Z
 
 Users: 360
 

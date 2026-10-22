@@ -70,7 +70,7 @@ Indexed users: 900
 | 6 | [Cardkess-SG](https://github.com/Cardkess-SG) | Blessings Chidambe | Blantyre, MALAWI | 378 |
 | 7 | [madzalo](https://github.com/madzalo) | Resten Madzalo | Malawi | 316 |
 | 8 | [Cardkess](https://github.com/Cardkess) | Blessings Chidambe | Blantyre, MALAWI | 300 |
-| 9 | [Fraganya](https://github.com/Fraganya) | Francis Ganya | Blantyre, Malawi | 261 |
+| 9 | [Fraganya](https://github.com/Fraganya) | Francis Ganya | Blantyre, Malawi | 263 |
 | 10 | [IsaacKalambo22](https://github.com/IsaacKalambo22) | Isaac Kalambo | Lilongwe | 239 |
 | 11 | [JosephGMkonda](https://github.com/JosephGMkonda) | Joseph Mkonda | malawi | 235 |
 | 12 | [nbolok-code](https://github.com/nbolok-code) | Nathan Bolokonya | Malawi  | 222 |
@@ -83,4 +83,4 @@ Indexed users: 900
 | 19 | [RodgerCodes](https://github.com/RodgerCodes) | Rodger Kumwanje | Malawi | 132 |
 | 20 | [g1ftmkyelu](https://github.com/g1ftmkyelu) | codemaestro🚀 | 🇲🇼 Malawi | 130 |
 
-Generated: 2026-10-21T22:55:44.469Z
+Generated: 2026-10-22T00:36:47.331Z

@@ -22,7 +22,7 @@ Indexed users: 714
 | 8 | [masterdubs](https://github.com/masterdubs) | Dubs | Mauritius | 6,243 |
 | 9 | [Emmastro](https://github.com/Emmastro) | Emmanuel Bauma Murairi | Mauritius | 6,133 |
 | 10 | [MrSunshyne](https://github.com/MrSunshyne) | Sandeep Ramgolam | Mauritius | 5,528 |
-| 11 | [oliverox](https://github.com/oliverox) | Oliver Oxenham | Mauritius | 5,385 |
+| 11 | [oliverox](https://github.com/oliverox) | Oliver Oxenham | Mauritius | 5,429 |
 | 12 | [nyashaChiza](https://github.com/nyashaChiza) | Nyasha Chizampeni | Port Louis, Mauritius | 4,817 |
 | 13 | [MGabala](https://github.com/MGabala) | Mateusz | Mauritius | 4,192 |
 | 14 | [yayann](https://github.com/yayann) | Yann Labour | Mauritius | 4,038 |
@@ -83,4 +83,4 @@ Indexed users: 714
 | 19 | [MaskyS](https://github.com/MaskyS) | Kifah M | Mauritius | 76 |
 | 20 | [cbillowes](https://github.com/cbillowes) | Clarice Bouwer | Mauritius | 66 |
 
-Generated: 2026-10-21T22:57:18.603Z
+Generated: 2026-10-22T00:39:51.559Z

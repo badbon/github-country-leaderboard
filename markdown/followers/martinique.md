@@ -1,6 +1,6 @@
 # Followers - Martinique
 
-Generated: 2026-10-21T22:57:09.116Z
+Generated: 2026-10-22T00:39:09.087Z
 
 Users: 75
 
@@ -13,8 +13,8 @@ Users: 75
 | 5 | [bcsirt](https://github.com/bcsirt) | Laurent LOUIS-THERESE | BCSIRT | bcsirt | Fort-de-France | 15 |
 | 6 | [jsrdescamps](https://github.com/jsrdescamps) | Julien Descamps |  |  | Martinique | 15 |
 | 7 | [steeven-js](https://github.com/steeven-js) | steeven_js | Madin.IA |  | Martinique | 14 |
-| 8 | [b1nj](https://github.com/b1nj) | B1nj | pixellweb.com |  | Martinique | 10 |
-| 9 | [jucollet972](https://github.com/jucollet972) | Julien COLLET |  |  | Martinique | 10 |
+| 8 | [jucollet972](https://github.com/jucollet972) | Julien COLLET |  |  | Martinique | 11 |
+| 9 | [b1nj](https://github.com/b1nj) | B1nj | pixellweb.com |  | Martinique | 10 |
 | 10 | [lalabarca](https://github.com/lalabarca) | Laura Hardy-Dessources |  |  | Martinique | 10 |
 | 11 | [kylian97](https://github.com/kylian97) | kylian_b |  |  | Martinique | 9 |
 | 12 | [nadlgit](https://github.com/nadlgit) | Nadine |  |  | Martinique | 9 |

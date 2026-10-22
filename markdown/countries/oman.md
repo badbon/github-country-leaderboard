@@ -81,6 +81,6 @@ Indexed users: 990
 | 17 | [xZAYEDx](https://github.com/xZAYEDx) | ZAYED AL-GAWI | Muscat,Oman | 105 |
 | 18 | [foxoman](https://github.com/foxoman) | Sultan Al Isaiee | Oman | 99 |
 | 19 | [3mrdev](https://github.com/3mrdev) | Amr Abd-Alkrim | Khartoum, Sudan \| Muscat, Oman | 94 |
-| 20 | [AmirSa12](https://github.com/AmirSa12) | AmirHossein Sakhravi | Muscat, Oman | 91 |
+| 20 | [AmirSa12](https://github.com/AmirSa12) | AmirHossein Sakhravi | Muscat, Oman | 92 |
 
-Generated: 2026-10-21T23:07:54.848Z
+Generated: 2026-10-22T00:50:13.526Z

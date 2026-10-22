@@ -31,7 +31,7 @@ Indexed users: 3,500
 | 17 | [Krasivaya](https://github.com/Krasivaya) | Carine SEMWAGA | Rwanda | 7,953 |
 | 18 | [Ndevu12](https://github.com/Ndevu12) | Jean Paul Elisa NIYOKWIZERWA | Kigali Rwanda | 7,642 |
 | 19 | [brunorwanda4](https://github.com/brunorwanda4) | Bruno Rwanda | Rwanda/ Kigali | 7,609 |
-| 20 | [Kevin-The-Cyber-Coder](https://github.com/Kevin-The-Cyber-Coder) | MUKESHIMANA KEVIN | Kigali Rwanda | 7,511 |
+| 20 | [Kevin-The-Cyber-Coder](https://github.com/Kevin-The-Cyber-Coder) | MUKESHIMANA KEVIN | Kigali Rwanda | 7,551 |
 
 ## Public Contributions
 
@@ -40,7 +40,7 @@ Indexed users: 3,500
 | 1 | [AlineHub-tech](https://github.com/AlineHub-tech) | Umugwaneza Aline | Kigali, Rwanda | 23,998 |
 | 2 | [kajugadaniels](https://github.com/kajugadaniels) | KAJUGA Daniels | Kigali Rwanda | 15,554 |
 | 3 | [Chaste-Djaziri](https://github.com/Chaste-Djaziri) | Chaste Djaziri | Rwanda | 8,590 |
-| 4 | [Kevin-The-Cyber-Coder](https://github.com/Kevin-The-Cyber-Coder) | MUKESHIMANA KEVIN | Kigali Rwanda | 6,855 |
+| 4 | [Kevin-The-Cyber-Coder](https://github.com/Kevin-The-Cyber-Coder) | MUKESHIMANA KEVIN | Kigali Rwanda | 6,857 |
 | 5 | [Manzi-Elvis](https://github.com/Manzi-Elvis) | Elvis Manzi | Rwanda | 6,117 |
 | 6 | [Yackx-tx](https://github.com/Yackx-tx) | Yannick Gisubizo | Kigali, Rwanda | 5,997 |
 | 7 | [Derrick-MUGISHA](https://github.com/Derrick-MUGISHA) | Derrick | kigali, Rwanda | 5,107 |
@@ -56,7 +56,7 @@ Indexed users: 3,500
 | 17 | [tuyisengeaurele](https://github.com/tuyisengeaurele) | Ange Aurele Tuyisenge | Kigali, Rwanda | 2,665 |
 | 18 | [uparfait](https://github.com/uparfait) | Parfait Uwayo | Rwanda | 2,563 |
 | 19 | [mugisham37](https://github.com/mugisham37) | MUGISHA MOSES | KIGALI- RWANDA | 2,539 |
-| 20 | [rayiecho](https://github.com/rayiecho) | Regan Ayiecho | Rwanda | 2,493 |
+| 20 | [rayiecho](https://github.com/rayiecho) | Regan Ayiecho | Rwanda | 2,517 |
 
 ## Followers
 
@@ -74,8 +74,8 @@ Indexed users: 3,500
 | 10 | [samuelumutiti](https://github.com/samuelumutiti) | Umutiti Samuel | Rwanda / Kigali City | 614 |
 | 11 | [AlineHub-tech](https://github.com/AlineHub-tech) | Umugwaneza Aline | Kigali, Rwanda | 511 |
 | 12 | [uwenayoallain](https://github.com/uwenayoallain) | Alain Pacifique UWENAYO | Kigali,Rwanda | 428 |
-| 13 | [Mucyo-chris](https://github.com/Mucyo-chris) | Christian MUCYO | KIGALI-RWANDA | 388 |
-| 14 | [neoscratchteam](https://github.com/neoscratchteam) | NeoScratch | Kigali, Rwanda | 386 |
+| 13 | [neoscratchteam](https://github.com/neoscratchteam) | NeoScratch | Kigali, Rwanda | 400 |
+| 14 | [Mucyo-chris](https://github.com/Mucyo-chris) | Christian MUCYO | KIGALI-RWANDA | 388 |
 | 15 | [Goal651](https://github.com/Goal651) |  Wilson Goal BUGIRI | Rwanda-Kigali | 357 |
 | 16 | [regis-mucyo](https://github.com/regis-mucyo) | Regis Mucyo | Kigali, Rwanda | 351 |
 | 17 | [descholar-ceo](https://github.com/descholar-ceo) | Mugirase Emmanuel | Kigali, Rwanda | 332 |
@@ -83,4 +83,4 @@ Indexed users: 3,500
 | 19 | [ghislainb-cracker](https://github.com/ghislainb-cracker) | Ghislain Byimbo | Rwanda | 316 |
 | 20 | [shemaikuzwe](https://github.com/shemaikuzwe) | Ikuzwe shema Elie | rwanda | 314 |
 
-Generated: 2026-10-21T23:13:10.966Z
+Generated: 2026-10-22T00:57:57.108Z

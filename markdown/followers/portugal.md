@@ -1,6 +1,6 @@
 # Followers - Portugal
 
-Generated: 2026-10-21T23:10:35.595Z
+Generated: 2026-10-22T00:54:21.326Z
 
 Users: 28429
 

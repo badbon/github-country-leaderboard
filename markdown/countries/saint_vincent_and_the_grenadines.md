@@ -14,8 +14,8 @@ Indexed users: 26
 |---:|---|---|---|---:|
 | 1 | [colin-dbv](https://github.com/colin-dbv) | Colin Vincent | North Kingstown RI | 536 |
 | 2 | [blazetopher](https://github.com/blazetopher) | Christopher Mueller | North Kingstown, RI | 529 |
-| 3 | [2Remus](https://github.com/2Remus) | human#23416 | Kingstown, Saint George, Saint Vincent and the Grenadines | 370 |
-| 4 | [azeldaniel](https://github.com/azeldaniel) | Azel Daniel | Saint Vincent and the Grenadines | 327 |
+| 3 | [2Remus](https://github.com/2Remus) | human#23416 | Kingstown, Saint George, Saint Vincent and the Grenadines | 369 |
+| 4 | [azeldaniel](https://github.com/azeldaniel) | Azel Daniel | Saint Vincent and the Grenadines | 325 |
 | 5 | [lukecampbell](https://github.com/lukecampbell) | Luke Campbell | South Kingstown, RI | 302 |
 | 6 | [kazar4](https://github.com/kazar4) | Kazen Gallman | North Kingstown, Rhode Island | 159 |
 | 7 | [Kascique](https://github.com/Kascique) | Kascique Lowmans | Saint Vincent and the Grenadines | 95 |
@@ -83,4 +83,4 @@ Indexed users: 26
 | 19 | [95Tarek784](https://github.com/95Tarek784) | Tarek Ollivierre | Kingstown, Saint Vincent  & The Grenadines | 1 |
 | 20 | [dellon28](https://github.com/dellon28) | Dellonte Boucher | Saint Vincent and the Grenadines | 1 |
 
-Generated: 2026-10-21T23:16:20.052Z
+Generated: 2026-10-22T00:59:49.467Z

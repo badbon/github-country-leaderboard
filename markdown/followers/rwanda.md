@@ -1,6 +1,6 @@
 # Followers - Rwanda
 
-Generated: 2026-10-21T23:13:10.966Z
+Generated: 2026-10-22T00:57:57.108Z
 
 Users: 3500
 
@@ -18,8 +18,8 @@ Users: 3500
 | 10 | [samuelumutiti](https://github.com/samuelumutiti) | Umutiti Samuel | Freelancer | UsamuelC2287 | Rwanda / Kigali City | 614 |
 | 11 | [AlineHub-tech](https://github.com/AlineHub-tech) | Umugwaneza Aline | ByteFlow Ltd |  | Kigali, Rwanda | 511 |
 | 12 | [uwenayoallain](https://github.com/uwenayoallain) | Alain Pacifique UWENAYO |  | uwenayoallain | Kigali,Rwanda | 428 |
-| 13 | [Mucyo-chris](https://github.com/Mucyo-chris) | Christian MUCYO |  |  | KIGALI-RWANDA | 388 |
-| 14 | [neoscratchteam](https://github.com/neoscratchteam) | NeoScratch | NeoScratch |  | Kigali, Rwanda | 386 |
+| 13 | [neoscratchteam](https://github.com/neoscratchteam) | NeoScratch | NeoScratch |  | Kigali, Rwanda | 400 |
+| 14 | [Mucyo-chris](https://github.com/Mucyo-chris) | Christian MUCYO |  |  | KIGALI-RWANDA | 388 |
 | 15 | [Goal651](https://github.com/Goal651) |  Wilson Goal BUGIRI | @Echo-Sols-Ltd |  | Rwanda-Kigali | 357 |
 | 16 | [regis-mucyo](https://github.com/regis-mucyo) | Regis Mucyo |  |  | Kigali, Rwanda | 351 |
 | 17 | [descholar-ceo](https://github.com/descholar-ceo) | Mugirase Emmanuel |  | descholar3 | Kigali, Rwanda | 332 |

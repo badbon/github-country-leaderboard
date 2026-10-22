@@ -81,7 +81,7 @@ Published countries: 234
 | Gabon | 314 | [View](./gabon.md) |
 | Gambia | 79 | [View](./gambia.md) |
 | Georgia | 6,870 | [View](./georgia.md) |
-| Ghana | 7,075 | [View](./ghana.md) |
+| Ghana | 7,076 | [View](./ghana.md) |
 | Gibraltar | 93 | [View](./gibraltar.md) |
 | Greece | 15,532 | [View](./greece.md) |
 | Greenland | 58 | [View](./greenland.md) |
@@ -124,7 +124,7 @@ Published countries: 234
 | Lithuania | 5,363 | [View](./lithuania.md) |
 | Luxembourg | 2,190 | [View](./luxembourg.md) |
 | Macau | 438 | [View](./macau.md) |
-| Madagascar | 1,902 | [View](./madagascar.md) |
+| Madagascar | 1,901 | [View](./madagascar.md) |
 | Malawi | 900 | [View](./malawi.md) |
 | Malaysia | 11,782 | [View](./malaysia.md) |
 | Maldives | 354 | [View](./maldives.md) |
@@ -162,7 +162,7 @@ Published countries: 234
 | Oman | 990 | [View](./oman.md) |
 | Pakistan | 41,869 | [View](./pakistan.md) |
 | Palau | 2 | [View](./palau.md) |
-| Palestine | 2,197 | [View](./palestine.md) |
+| Palestine | 2,196 | [View](./palestine.md) |
 | Panama | 1,070 | [View](./panama.md) |
 | Papua New Guinea | 296 | [View](./papua_new_guinea.md) |
 | Paraguay | 2,014 | [View](./paraguay.md) |
@@ -239,4 +239,4 @@ Published countries: 234
 | Zambia | 1,336 | [View](./zambia.md) |
 | Zimbabwe | 1,656 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-22T00:29:55.510Z
+Generated: 2026-10-22T01:01:37.980Z

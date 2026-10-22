@@ -1,6 +1,6 @@
 # Public Contributions - Mongolia
 
-Generated: 2026-10-21T22:59:51.679Z
+Generated: 2026-10-22T00:42:45.698Z
 
 Users: 804
 
@@ -17,8 +17,8 @@ Users: 804
 | 9 | [Zolb646](https://github.com/Zolb646) | B ZOLBAYAR |  |  | Mongolia | 787 |
 | 10 | [PQ-007](https://github.com/PQ-007) | Bilguuntushig |  |  | Mongolia, Ulaanbaatar | 686 |
 | 11 | [barsboldb](https://github.com/barsboldb) | Barsbold Bayar-Erdene |  |  | Ulaanbaatar, Mongolia | 635 |
-| 12 | [batdorj-s](https://github.com/batdorj-s) | batdorj |  |  | mongolia | 543 |
-| 13 | [Amartuvshins0404](https://github.com/Amartuvshins0404) | Amartuvshin Surenjav | erxes | Amaraa2404 | Ulaanbaatar, Mongolia | 530 |
+| 12 | [Amartuvshins0404](https://github.com/Amartuvshins0404) | Amartuvshin Surenjav | erxes | Amaraa2404 | Ulaanbaatar, Mongolia | 549 |
+| 13 | [batdorj-s](https://github.com/batdorj-s) | batdorj |  |  | mongolia | 543 |
 | 14 | [Ar-temis](https://github.com/Ar-temis) | Temuulen Enkhtamir | Duke Kunshan University |  | Ulaanbaatar, Mongolia | 527 |
 | 15 | [munkhsaikhan](https://github.com/munkhsaikhan) | munkhsaikhan | @erxes  |  | mongolia | 508 |
 | 16 | [dolgoonnn](https://github.com/dolgoonnn) | Dolgoon | Numad Labs | Dolgoonnn1 | Ulaanbaatar, Mongolia | 493 |

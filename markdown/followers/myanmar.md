@@ -1,6 +1,6 @@
 # Followers - Myanmar
 
-Generated: 2026-10-21T23:02:24.987Z
+Generated: 2026-10-22T00:46:28.391Z
 
 Users: 2055
 
@@ -22,7 +22,7 @@ Users: 2055
 | 14 | [tharhtetsan](https://github.com/tharhtetsan) | Thar Htet San | University of Computer Studies, Mandalay |  | Yangon, Myanmar | 234 |
 | 15 | [MinSiThu](https://github.com/MinSiThu) | Min Si Thu |  |  | Myanmar | 214 |
 | 16 | [Hein-HtetSan](https://github.com/Hein-HtetSan) | dev@hnhts | Freelance |  | Myanmar, Yangon | 207 |
-| 17 | [thenayjourney](https://github.com/thenayjourney) | Nay Yaung Lin Lakk | Pet Sentry |  | Yangon, Myanmar | 200 |
+| 17 | [thenayjourney](https://github.com/thenayjourney) | Nay Yaung Lin Lakk | Pet Sentry |  | Yangon, Myanmar | 199 |
 | 18 | [ko-htut](https://github.com/ko-htut) | Ko Htut | A Bank | ko_htutz | Myanmar | 170 |
 | 19 | [winsandymyint](https://github.com/winsandymyint) | Win Sandy Myint |  | winsandymyint | Myanmar | 168 |
 | 20 | [LunaM00n](https://github.com/LunaM00n) | Thin Ba Shane (Luna) | Creatigon |  | Myanmar | 162 |

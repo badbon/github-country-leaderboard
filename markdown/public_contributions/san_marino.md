@@ -1,6 +1,6 @@
 # Public Contributions - San Marino
 
-Generated: 2026-10-21T23:17:02.111Z
+Generated: 2026-10-22T01:00:19.119Z
 
 Users: 61
 
@@ -18,7 +18,7 @@ Users: 61
 | 10 | [N1K0232](https://github.com/N1K0232) | Nico |  | N1K0232 | Repubblica di San Marino | 85 |
 | 11 | [pigorg](https://github.com/pigorg) | alessandro gnola |  |  | san marino | 83 |
 | 12 | [lucabio](https://github.com/lucabio) | Luca |  |  | San Marino | 75 |
-| 13 | [mcdado](https://github.com/mcdado) | David Gasperoni |  |  | San Marino (SMR) <✈️> Madrid, Spain | 60 |
+| 13 | [mcdado](https://github.com/mcdado) | David Gasperoni |  |  | San Marino (SMR) <✈️> Madrid, Spain | 59 |
 | 14 | [salugea](https://github.com/salugea) | Salugea | Salugea |  | San Marino | 45 |
 | 15 | [gerza-lab](https://github.com/gerza-lab) | adam gerza |  | adamgerza | San Marino, CA | 44 |
 | 16 | [damiandominella](https://github.com/damiandominella) | dodo | Golee |  | San Marino / Milan / Remotely | 38 |

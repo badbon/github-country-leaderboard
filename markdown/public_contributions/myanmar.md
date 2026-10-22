@@ -1,6 +1,6 @@
 # Public Contributions - Myanmar
 
-Generated: 2026-10-21T23:02:24.987Z
+Generated: 2026-10-22T00:46:28.391Z
 
 Users: 2055
 
@@ -9,7 +9,7 @@ Users: 2055
 | 1 | [nyeinkokoaung404](https://github.com/nyeinkokoaung404) | i AM 404 |  |  | Myanmar | 6481 |
 | 2 | [MinThutaSawNaing](https://github.com/MinThutaSawNaing) | Min Thuta Saw Naing Eric | Myanmar Golden Rock International |  | Myanmar/ Singapore | 3316 |
 | 3 | [thesithunyein](https://github.com/thesithunyein) | SITHU NYEIN |  | thesithunyein | Yangon, Myanmar | 2822 |
-| 4 | [peterlianpi](https://github.com/peterlianpi) | Peter |  | peterlianpi | Myanmar | 2590 |
+| 4 | [peterlianpi](https://github.com/peterlianpi) | Peter |  | peterlianpi | Myanmar | 2679 |
 | 5 | [Oungseik](https://github.com/Oungseik) |  | Crossworks Myanmar |  | Mawlamyine, Mon State, Myanmar | 1475 |
 | 6 | [ninjastrikers](https://github.com/ninjastrikers) | NinjaStrikers | The NINJA STRIKERS | Ninjastrikers | Myanmar | 1470 |
 | 7 | [YellMinNaing-micro](https://github.com/YellMinNaing-micro) | Yell Min Naing | @Efficient-Soft |  | Yangon, Myanmar | 1397 |
@@ -20,9 +20,9 @@ Users: 2055
 | 12 | [wintkhantlin](https://github.com/wintkhantlin) | Wint Khant Lin |  | Happer64Bit | Myanmar, Yangon, Shwe Pyi Thar | 1170 |
 | 13 | [thaw98](https://github.com/thaw98) | Pyae Phyo Thaw | ACE Data Systems |  | Myanmar | 1065 |
 | 14 | [aungkoman](https://github.com/aungkoman) | Aung Ko Man |  | aungkoman | Mandalay,Myanmar | 1048 |
-| 15 | [SaingHmineTun](https://github.com/SaingHmineTun) | Sai Saing Hmine Tun | TMK Group | SaingHmineTun2 | Muse, Shan State, Myanmar | 1037 |
-| 16 | [mrmyothet](https://github.com/mrmyothet) | MyoThet | @solidplm  |  | Yangon, Myanmar | 1030 |
-| 17 | [acehidan](https://github.com/acehidan) | Aung Aung Oo | OTAS Tech Solutions |  | Myanmar | 1019 |
-| 18 | [TaoMonLae](https://github.com/TaoMonLae) |  |  |  | Myanmar | 1017 |
-| 19 | [agrogers](https://github.com/agrogers) | Andrew Rogers |  |  | Yangon, Myanmar | 1010 |
-| 20 | [phothinmg](https://github.com/phothinmg) | Pho Thin Maung |  |  | Myanmar | 1007 |
+| 15 | [mrmyothet](https://github.com/mrmyothet) | MyoThet | @solidplm  |  | Yangon, Myanmar | 1030 |
+| 16 | [acehidan](https://github.com/acehidan) | Aung Aung Oo | OTAS Tech Solutions |  | Myanmar | 1019 |
+| 17 | [TaoMonLae](https://github.com/TaoMonLae) |  |  |  | Myanmar | 1017 |
+| 18 | [agrogers](https://github.com/agrogers) | Andrew Rogers |  |  | Yangon, Myanmar | 1010 |
+| 19 | [phothinmg](https://github.com/phothinmg) | Pho Thin Maung |  |  | Myanmar | 1007 |
+| 20 | [SaingHmineTun](https://github.com/SaingHmineTun) | Sai Saing Hmine Tun | TMK Group | SaingHmineTun2 | Muse, Shan State, Myanmar | 1001 |

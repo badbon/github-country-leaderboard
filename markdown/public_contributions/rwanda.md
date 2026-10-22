@@ -1,6 +1,6 @@
 # Public Contributions - Rwanda
 
-Generated: 2026-10-21T23:13:10.966Z
+Generated: 2026-10-22T00:57:57.108Z
 
 Users: 3500
 
@@ -9,7 +9,7 @@ Users: 3500
 | 1 | [AlineHub-tech](https://github.com/AlineHub-tech) | Umugwaneza Aline | ByteFlow Ltd |  | Kigali, Rwanda | 23998 |
 | 2 | [kajugadaniels](https://github.com/kajugadaniels) | KAJUGA Daniels | NEXCODE Africa |  | Kigali Rwanda | 15554 |
 | 3 | [Chaste-Djaziri](https://github.com/Chaste-Djaziri) | Chaste Djaziri | Micorp |  | Rwanda | 8590 |
-| 4 | [Kevin-The-Cyber-Coder](https://github.com/Kevin-The-Cyber-Coder) | MUKESHIMANA KEVIN | Cyber Coding Arena |  | Kigali Rwanda | 6855 |
+| 4 | [Kevin-The-Cyber-Coder](https://github.com/Kevin-The-Cyber-Coder) | MUKESHIMANA KEVIN | Cyber Coding Arena |  | Kigali Rwanda | 6857 |
 | 5 | [Manzi-Elvis](https://github.com/Manzi-Elvis) | Elvis Manzi | MiCorp | _MRElvis_ | Rwanda | 6117 |
 | 6 | [Yackx-tx](https://github.com/Yackx-tx) | Yannick Gisubizo | YCSoft Rwanda | yannicktx1 | Kigali, Rwanda | 5997 |
 | 7 | [Derrick-MUGISHA](https://github.com/Derrick-MUGISHA) | Derrick | Igire Rwanda Organisation | __derr1ck__ | kigali, Rwanda | 5107 |
@@ -25,4 +25,4 @@ Users: 3500
 | 17 | [tuyisengeaurele](https://github.com/tuyisengeaurele) | Ange Aurele Tuyisenge | University of Rwanda College of Science and Technology |  | Kigali, Rwanda | 2665 |
 | 18 | [uparfait](https://github.com/uparfait) | Parfait Uwayo |  |  | Rwanda | 2563 |
 | 19 | [mugisham37](https://github.com/mugisham37) | MUGISHA MOSES |  |  | KIGALI- RWANDA | 2539 |
-| 20 | [rayiecho](https://github.com/rayiecho) | Regan Ayiecho | Young Africans Network |  | Rwanda | 2493 |
+| 20 | [rayiecho](https://github.com/rayiecho) | Regan Ayiecho | Young Africans Network |  | Rwanda | 2517 |
