@@ -21,7 +21,7 @@ Published countries: 235
 | Azerbaijan | 5,045 | [View](./azerbaijan.md) |
 | Bahamas | 236 | [View](./bahamas.md) |
 | Bahrain | 727 | [View](./bahrain.md) |
-| Bangladesh | 55,300 | [View](./bangladesh.md) |
+| Bangladesh | 55,299 | [View](./bangladesh.md) |
 | Barbados | 132 | [View](./barbados.md) |
 | Belarus | 10,923 | [View](./belarus.md) |
 | Belgium | 18,371 | [View](./belgium.md) |
@@ -105,7 +105,7 @@ Published countries: 235
 | Ireland | 19,485 | [View](./ireland.md) |
 | Isle of Man | 155 | [View](./isle_of_man.md) |
 | Israel | 12,417 | [View](./israel.md) |
-| Italy | 49,018 | [View](./italy.md) |
+| Italy | 49,017 | [View](./italy.md) |
 | Ivory Coast | 488 | [View](./ivory_coast.md) |
 | Jamaica | 1,271 | [View](./jamaica.md) |
 | Jersey | 139 | [View](./jersey.md) |
@@ -200,7 +200,7 @@ Published countries: 235
 | Somalia | 865 | [View](./somalia.md) |
 | South Africa | 17,920 | [View](./south_africa.md) |
 | South Georgia | 6 | [View](./south_georgia.md) |
-| South Korea | 56,900 | [View](./south_korea.md) |
+| South Korea | 56,899 | [View](./south_korea.md) |
 | South Sudan | 132 | [View](./south_sudan.md) |
 | Sri Lanka | 18,302 | [View](./sri_lanka.md) |
 | Sudan | 727 | [View](./sudan.md) |
@@ -240,4 +240,4 @@ Published countries: 235
 | Zambia | 1,336 | [View](./zambia.md) |
 | Zimbabwe | 1,656 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-22T18:57:31.986Z
+Generated: 2026-10-22T19:02:09.711Z

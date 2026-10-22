@@ -1,17 +1,17 @@
 # Total Contributions - Slovakia
 
-Generated: 2026-10-22T18:08:47.467Z
+Generated: 2026-10-22T18:58:37.832Z
 
 Users: 4657
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [nkovalcin](https://github.com/nkovalcin) | Norbert Kovalčín |  |  | Prešov, Slovakia | 26095 |
-| 2 | [NagyVikt](https://github.com/NagyVikt) | Viktor Nagy | Kromberg & Schubert | NagyViktordp | Slovakia  | 16177 |
-| 3 | [mario-chamuty](https://github.com/mario-chamuty) | Mario Chamuty | @version-two  | chamuty | Bratislava, Slovakia | 15885 |
-| 4 | [kyemets](https://github.com/kyemets) | Kostiantyn Yemets | @EHOSS-IT |  | Slovak Republic | 13908 |
-| 5 | [vzeman](https://github.com/vzeman) | Viktor Zeman | Quality Unit |  | Bratislava | 12819 |
-| 6 | [Mausino](https://github.com/Mausino) | Miky Mikolaj | Ubytovanie FOR YOU, sro |  | Košice, Slovakia | 11966 |
+| 2 | [Mausino](https://github.com/Mausino) | Miky Mikolaj | Ubytovanie FOR YOU, sro |  | Košice, Slovakia | 22225 |
+| 3 | [NagyVikt](https://github.com/NagyVikt) | Viktor Nagy | Kromberg & Schubert | NagyViktordp | Slovakia  | 16177 |
+| 4 | [mario-chamuty](https://github.com/mario-chamuty) | Mario Chamuty | @version-two  | chamuty | Bratislava, Slovakia | 15885 |
+| 5 | [kyemets](https://github.com/kyemets) | Kostiantyn Yemets | @EHOSS-IT |  | Slovak Republic | 13908 |
+| 6 | [vzeman](https://github.com/vzeman) | Viktor Zeman | Quality Unit |  | Bratislava | 12819 |
 | 7 | [davidian-sk](https://github.com/davidian-sk) |  |  |  | Bratislava | 11724 |
 | 8 | [mihaliak](https://github.com/mihaliak) | Andrej Mihaliak | @roundly-consulting  |  | Slovakia, Trnava | 11558 |
 | 9 | [oliver-kriska](https://github.com/oliver-kriska) | Oliver Kriska |  | quatermain32 | Slovakia | 10417 |

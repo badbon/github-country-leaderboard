@@ -1,13 +1,13 @@
 # Public Contributions - Sudan
 
-Generated: 2026-10-22T18:09:42.494Z
+Generated: 2026-10-22T19:01:06.384Z
 
 Users: 727
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [daoudtajeldeinn-png](https://github.com/daoudtajeldeinn-png) | Daoud Tajeldeinn Ahmed | Sudanese Chemical Industeis  |  | sudan -khartoum | 1184 |
-| 2 | [MoAnwer](https://github.com/MoAnwer) | Mohamed Anwer |  |  | sudan, kassala | 1178 |
+| 2 | [MoAnwer](https://github.com/MoAnwer) | Mohamed Anwer |  |  | sudan, kassala | 1180 |
 | 3 | [oovaa](https://github.com/oovaa) | Omar  | SMAfrica | Omarvx211 | Sudan | 1149 |
 | 4 | [star4droid](https://github.com/star4droid) | Star4Droid  |  |  | Sudan | 969 |
 | 5 | [alilibx](https://github.com/alilibx) | Ali Alhashimi | Penstash | alilibx | Sudan | 872 |

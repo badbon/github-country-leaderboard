@@ -13,11 +13,11 @@ Indexed users: 4,657
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [nkovalcin](https://github.com/nkovalcin) | Norbert Kovalčín | Prešov, Slovakia | 26,095 |
-| 2 | [NagyVikt](https://github.com/NagyVikt) | Viktor Nagy | Slovakia  | 16,177 |
-| 3 | [mario-chamuty](https://github.com/mario-chamuty) | Mario Chamuty | Bratislava, Slovakia | 15,885 |
-| 4 | [kyemets](https://github.com/kyemets) | Kostiantyn Yemets | Slovak Republic | 13,908 |
-| 5 | [vzeman](https://github.com/vzeman) | Viktor Zeman | Bratislava | 12,819 |
-| 6 | [Mausino](https://github.com/Mausino) | Miky Mikolaj | Košice, Slovakia | 11,966 |
+| 2 | [Mausino](https://github.com/Mausino) | Miky Mikolaj | Košice, Slovakia | 22,225 |
+| 3 | [NagyVikt](https://github.com/NagyVikt) | Viktor Nagy | Slovakia  | 16,177 |
+| 4 | [mario-chamuty](https://github.com/mario-chamuty) | Mario Chamuty | Bratislava, Slovakia | 15,885 |
+| 5 | [kyemets](https://github.com/kyemets) | Kostiantyn Yemets | Slovak Republic | 13,908 |
+| 6 | [vzeman](https://github.com/vzeman) | Viktor Zeman | Bratislava | 12,819 |
 | 7 | [davidian-sk](https://github.com/davidian-sk) |  | Bratislava | 11,724 |
 | 8 | [mihaliak](https://github.com/mihaliak) | Andrej Mihaliak | Slovakia, Trnava | 11,558 |
 | 9 | [oliver-kriska](https://github.com/oliver-kriska) | Oliver Kriska | Slovakia | 10,417 |
@@ -83,4 +83,4 @@ Indexed users: 4,657
 | 19 | [Stiivi](https://github.com/Stiivi) | Stefan Urbanek | Bratislava | 280 |
 | 20 | [haad](https://github.com/haad) | Adam Hamsik | Bratislava Slovakia | 259 |
 
-Generated: 2026-10-22T18:08:47.467Z
+Generated: 2026-10-22T18:58:37.832Z
