@@ -1,6 +1,6 @@
 # Total Contributions - Belgium
 
-Generated: 2026-10-22T15:26:47.695Z
+Generated: 2026-10-22T16:23:26.219Z
 
 Users: 18372
 
@@ -20,9 +20,9 @@ Users: 18372
 | 12 | [bmichotte](https://github.com/bmichotte) | Benjamin Michotte | @opp-studio  | bmichotte | Liège, Belgium | 17056 |
 | 13 | [rgfaber](https://github.com/rgfaber) | R.G. Lefever | BEAM Campus | beamologist | Leuven, Belgium | 15383 |
 | 14 | [brtdv](https://github.com/brtdv) | Bert Devriese |  |  | Ghent x Bruges, Belgium | 15360 |
-| 15 | [wouterds](https://github.com/wouterds) | Wouter | @tallyforms  |  | Ghent, Belgium | 14883 |
-| 16 | [artem-invoid](https://github.com/artem-invoid) | Artem | @Invoid-Vision  | nonvoider | Belgium | 14595 |
-| 17 | [sigmadeltasoftware](https://github.com/sigmadeltasoftware) | Bojan Belic | Sigma Delta Software Solutions |  | Belgium | 14464 |
-| 18 | [semaidi](https://github.com/semaidi) | Didier | MFM Digital |  | Brussels | 14348 |
-| 19 | [jleclanche](https://github.com/jleclanche) | Jerome Leclanche | @ingram-technologies |  | Brussels, Belgium | 13265 |
-| 20 | [akif-dogan](https://github.com/akif-dogan) | Akif Dogan | Mars AI Technology Solutions | akif_doganx | Belgium | 12961 |
+| 15 | [mattiasbonte](https://github.com/mattiasbonte) | Mattias | wintro.ai |  | Belgium | 14902 |
+| 16 | [wouterds](https://github.com/wouterds) | Wouter | @tallyforms  |  | Ghent, Belgium | 14883 |
+| 17 | [artem-invoid](https://github.com/artem-invoid) | Artem | @Invoid-Vision  | nonvoider | Belgium | 14595 |
+| 18 | [sigmadeltasoftware](https://github.com/sigmadeltasoftware) | Bojan Belic | Sigma Delta Software Solutions |  | Belgium | 14464 |
+| 19 | [semaidi](https://github.com/semaidi) | Didier | MFM Digital |  | Brussels | 14348 |
+| 20 | [jleclanche](https://github.com/jleclanche) | Jerome Leclanche | @ingram-technologies |  | Brussels, Belgium | 13265 |

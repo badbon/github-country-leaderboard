@@ -26,12 +26,12 @@ Indexed users: 18,372
 | 12 | [bmichotte](https://github.com/bmichotte) | Benjamin Michotte | Liège, Belgium | 17,056 |
 | 13 | [rgfaber](https://github.com/rgfaber) | R.G. Lefever | Leuven, Belgium | 15,383 |
 | 14 | [brtdv](https://github.com/brtdv) | Bert Devriese | Ghent x Bruges, Belgium | 15,360 |
-| 15 | [wouterds](https://github.com/wouterds) | Wouter | Ghent, Belgium | 14,883 |
-| 16 | [artem-invoid](https://github.com/artem-invoid) | Artem | Belgium | 14,595 |
-| 17 | [sigmadeltasoftware](https://github.com/sigmadeltasoftware) | Bojan Belic | Belgium | 14,464 |
-| 18 | [semaidi](https://github.com/semaidi) | Didier | Brussels | 14,348 |
-| 19 | [jleclanche](https://github.com/jleclanche) | Jerome Leclanche | Brussels, Belgium | 13,265 |
-| 20 | [akif-dogan](https://github.com/akif-dogan) | Akif Dogan | Belgium | 12,961 |
+| 15 | [mattiasbonte](https://github.com/mattiasbonte) | Mattias | Belgium | 14,902 |
+| 16 | [wouterds](https://github.com/wouterds) | Wouter | Ghent, Belgium | 14,883 |
+| 17 | [artem-invoid](https://github.com/artem-invoid) | Artem | Belgium | 14,595 |
+| 18 | [sigmadeltasoftware](https://github.com/sigmadeltasoftware) | Bojan Belic | Belgium | 14,464 |
+| 19 | [semaidi](https://github.com/semaidi) | Didier | Brussels | 14,348 |
+| 20 | [jleclanche](https://github.com/jleclanche) | Jerome Leclanche | Brussels, Belgium | 13,265 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 18,372
 | 19 | [erikdubois](https://github.com/erikdubois) | Erik Dubois | Belgium | 1,200 |
 | 20 | [hazexone](https://github.com/hazexone) | Haze | Brussels | 1,181 |
 
-Generated: 2026-10-22T15:26:47.695Z
+Generated: 2026-10-22T16:23:26.219Z

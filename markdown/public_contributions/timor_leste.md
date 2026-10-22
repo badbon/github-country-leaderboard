@@ -1,6 +1,6 @@
 # Public Contributions - Timor-Leste
 
-Generated: 2026-10-22T15:15:27.258Z
+Generated: 2026-10-22T16:16:47.272Z
 
 Users: 77
 
@@ -15,7 +15,7 @@ Users: 77
 | 7 | [zemalay](https://github.com/zemalay) | Geovannio Frederico de Jesus Vinhas | TIC TIMOR |  | Dili, Timor-Leste | 219 |
 | 8 | [amandio-eto](https://github.com/amandio-eto) | Jose Amandio de Almeida | Esperanca Timor Oan |  | Rua china Rate Lahane Oreintal Dili Timor Leste | 213 |
 | 9 | [JabesNelma](https://github.com/JabesNelma) | Jay |  |  | Dili, Timor-Leste | 184 |
-| 10 | [TiagovskiCode](https://github.com/TiagovskiCode) | Tiago Teixeira  |  |  | East-Timor | 136 |
+| 10 | [TiagovskiCode](https://github.com/TiagovskiCode) | Tiago Teixeira  |  |  | East-Timor | 152 |
 | 11 | [Floren-pinto](https://github.com/Floren-pinto) | Florentino Pinto |  |  | Timor-Leste | 134 |
 | 12 | [gabriel-de-jesus](https://github.com/gabriel-de-jesus) | Gabriel de Jesus | Timor News |  | Dili, Timor-Leste | 120 |
 | 13 | [KituDoutel](https://github.com/KituDoutel) | Francisco KiTu | Freelancer |  | Dili, Timor-Leste 🇹🇱 | 65 |

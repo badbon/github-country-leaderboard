@@ -13,7 +13,7 @@ Indexed users: 53
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [mvdgun](https://github.com/mvdgun) | Mauro van der Gun | Curaçao | 6,506 |
-| 2 | [kloostermanw](https://github.com/kloostermanw) | Wiebe | Willemstad, Curaçao | 3,858 |
+| 2 | [kloostermanw](https://github.com/kloostermanw) | Wiebe | Willemstad, Curaçao | 3,863 |
 | 3 | [flangfeldt](https://github.com/flangfeldt) | FΞLIX | Willemstad, Curacao | 3,652 |
 | 4 | [BalusC](https://github.com/BalusC) | Bauke Scholtz | Willemstad, Curaçao | 3,441 |
 | 5 | [dwarfland](https://github.com/dwarfland) | marc hoffman | Curaçao | 1,471 |
@@ -40,7 +40,7 @@ Indexed users: 53
 | 1 | [BalusC](https://github.com/BalusC) | Bauke Scholtz | Willemstad, Curaçao | 3,441 |
 | 2 | [dwarfland](https://github.com/dwarfland) | marc hoffman | Curaçao | 508 |
 | 3 | [JObersi10](https://github.com/JObersi10) |  | Willemstad, Curaçao | 508 |
-| 4 | [kloostermanw](https://github.com/kloostermanw) | Wiebe | Willemstad, Curaçao | 489 |
+| 4 | [kloostermanw](https://github.com/kloostermanw) | Wiebe | Willemstad, Curaçao | 491 |
 | 5 | [acesuares](https://github.com/acesuares) | Ace Suares | Willemstad, Netherlands Antilles | 253 |
 | 6 | [weyert](https://github.com/weyert) | Weyert de Boer | London, Curaçao | 130 |
 | 7 | [theowlsden](https://github.com/theowlsden) | Shaquil Maria | Curaçao | 88 |
@@ -83,4 +83,4 @@ Indexed users: 53
 | 19 | [theowlsden](https://github.com/theowlsden) | Shaquil Maria | Curaçao | 6 |
 | 20 | [coinversus](https://github.com/coinversus) | CoinVersus | Curaçao | 5 |
 
-Generated: 2026-10-22T15:33:13.928Z
+Generated: 2026-10-22T16:28:35.272Z

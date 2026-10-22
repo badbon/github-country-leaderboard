@@ -51,7 +51,7 @@ Indexed users: 1,181
 | 12 | [edythebolman](https://github.com/edythebolman) | Sri Handayani | Tirana, Albania | 730 |
 | 13 | [bredliplaku](https://github.com/bredliplaku) | Bredli | Albania | 691 |
 | 14 | [enesbala5](https://github.com/enesbala5) | Enes Bala | Tirana, Albania | 670 |
-| 15 | [virvihuta](https://github.com/virvihuta) | Virvi Huta | Tirana, Albania | 653 |
+| 15 | [virvihuta](https://github.com/virvihuta) | Virvi Huta | Tirana, Albania | 647 |
 | 16 | [IsliBasha](https://github.com/IsliBasha) | IsliBasha | Tirane, Albania | 643 |
 | 17 | [Damjanose](https://github.com/Damjanose) | Damjano | Albania, Tirana | 639 |
 | 18 | [genciiv](https://github.com/genciiv) | G-code | Albania | 633 |
@@ -74,8 +74,8 @@ Indexed users: 1,181
 | 10 | [klendi](https://github.com/klendi) | Klendi Goci | Tirana, Albania | 100 |
 | 11 | [meggsila](https://github.com/meggsila) | Megi Sila | Tirana, Albania | 100 |
 | 12 | [genciiv](https://github.com/genciiv) | G-code | Albania | 92 |
-| 13 | [devklajd](https://github.com/devklajd) | Klajd Belishaku | Tirana, Albania | 90 |
-| 14 | [KristiSeraj](https://github.com/KristiSeraj) | Kristi | Albania | 90 |
+| 13 | [KristiSeraj](https://github.com/KristiSeraj) | Kristi | Albania | 90 |
+| 14 | [devklajd](https://github.com/devklajd) | Klajd Belishaku | Tirana, Albania | 89 |
 | 15 | [nikolliervin](https://github.com/nikolliervin) | undefined | Tirana, Albania | 87 |
 | 16 | [rinor](https://github.com/rinor) | Rinor Hoxha | Albania, Tirane | 86 |
 | 17 | [AndiXplorer](https://github.com/AndiXplorer) | Young Moon | Albania | 85 |
@@ -83,4 +83,4 @@ Indexed users: 1,181
 | 19 | [SxtBox](https://github.com/SxtBox) | Albdroid.AL | Albania | 81 |
 | 20 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | Albania | 77 |
 
-Generated: 2026-10-22T15:23:03.787Z
+Generated: 2026-10-22T16:21:08.307Z

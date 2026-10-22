@@ -1,6 +1,6 @@
 # Total Contributions - Antarctica
 
-Generated: 2026-10-22T15:23:55.293Z
+Generated: 2026-10-22T16:22:08.842Z
 
 Users: 460
 
@@ -23,6 +23,6 @@ Users: 460
 | 15 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Lapr Inc. |  | Antarctica | 3465 |
 | 16 | [PicasoTheDeal](https://github.com/PicasoTheDeal) | Tetstack |  |  | Antarctica | 3226 |
 | 17 | [echo108471](https://github.com/echo108471) | Eugene Cho |  |  | Antarctica | 2723 |
-| 18 | [shangyian](https://github.com/shangyian) | Yian |  |  | Antarctica | 2597 |
-| 19 | [oagix](https://github.com/oagix) | AGENT |  |  | Antarctica | 2409 |
+| 18 | [shangyian](https://github.com/shangyian) | Yian |  |  | Antarctica | 2617 |
+| 19 | [oagix](https://github.com/oagix) | AGENT |  |  | Antarctica | 2407 |
 | 20 | [PenguinNexus](https://github.com/PenguinNexus) | Penguin | @truckersmp |  | Antarctica | 1759 |

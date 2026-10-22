@@ -1,6 +1,6 @@
 # Total Contributions - Andorra
 
-Generated: 2026-10-22T15:23:15.671Z
+Generated: 2026-10-22T16:21:53.606Z
 
 Users: 215
 
@@ -17,8 +17,8 @@ Users: 215
 | 9 | [alexmf91](https://github.com/alexmf91) | Alex Muñoz |  |  | Barcelona (Spain) \| Encamp (Andorra) | 5460 |
 | 10 | [tombrewsviews](https://github.com/tombrewsviews) | Tom Parandyk | Altramanera |  | Andorra | 5407 |
 | 11 | [jorge07](https://github.com/jorge07) | Jorge Arco | 90P Lab | Jorge__SVQ | Escaldes, Andorra | 5117 |
-| 12 | [marcalj](https://github.com/marcalj) | Marçal | Lizcore |  | Andorra | 4996 |
-| 13 | [cmarfil](https://github.com/cmarfil) | Cristian Marfil |  |  | Andorra | 4791 |
+| 12 | [marcalj](https://github.com/marcalj) | Marçal | Lizcore |  | Andorra | 4979 |
+| 13 | [cmarfil](https://github.com/cmarfil) | Cristian Marfil |  |  | Andorra | 4797 |
 | 14 | [kopenkinda](https://github.com/kopenkinda) | Kopenkin Dmitrii | @salut-mercado  |  | Andorra | 4246 |
 | 15 | [guillemfrancisco](https://github.com/guillemfrancisco) | Guillem Francisco | @Hulahoop-media |  | Andorra | 4185 |
 | 16 | [dvdjmnz](https://github.com/dvdjmnz) | David Jiménez |  |  | Andorra | 3841 |

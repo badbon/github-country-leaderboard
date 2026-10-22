@@ -1,6 +1,6 @@
 # Bangladesh
 
-Indexed users: 55,304
+Indexed users: 55,301
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 55,304
 | 19 | [hasancse91](https://github.com/hasancse91) | Abdullah Al Hasan | Dhaka, Bangladesh | 1,916 |
 | 20 | [raufurislam](https://github.com/raufurislam) | Raufur Islam | Jamalpur Sadar Upazila, Bangladesh | 1,822 |
 
-Generated: 2026-10-22T15:26:06.408Z
+Generated: 2026-10-22T16:23:08.199Z

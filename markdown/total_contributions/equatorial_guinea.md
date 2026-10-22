@@ -1,12 +1,12 @@
 # Total Contributions - Equatorial Guinea
 
-Generated: 2026-10-22T15:37:09.274Z
+Generated: 2026-10-22T16:30:43.547Z
 
 Users: 20
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [vicentehmba](https://github.com/vicentehmba) | VIcente Hugo Mba | Deftreach |  | Equatorial Guinea | 2821 |
+| 1 | [vicentehmba](https://github.com/vicentehmba) | VIcente Hugo Mba | Deftreach |  | Equatorial Guinea | 2823 |
 | 2 | [alexis-ngoyi](https://github.com/alexis-ngoyi) | Alexis Ngoyi M. | Qirah | alexisNgoyi | Guinee Equatoriale, Malabo | 319 |
 | 3 | [arongesono12](https://github.com/arongesono12) | Aron Esono Ondo Eyang | @SEGESA | aronesono | Malabo | 263 |
 | 4 | [seamuddin](https://github.com/seamuddin) | Seam uddin | Rosa Money SL |  | Malabo, Equatorial guinea | 125 |
