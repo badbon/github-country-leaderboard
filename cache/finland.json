@@ -42031,8 +42031,8 @@
     "company": "University of Turku",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 545,
-    "publicContributions": 3,
+    "privateContributions": 427,
+    "publicContributions": 1,
     "createdAt": "2021-05-17T13:59:10Z"
   },
   {
@@ -42058,18 +42058,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-06-15T09:06:21Z"
-  },
-  {
-    "login": "TheFinguy",
-    "name": "Luosma Vilho",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/85947656?s=72&v=4",
-    "location": "Finland",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2021-06-15T14:15:10Z"
   },
   {
     "login": "Jesperi02",
@@ -42110,13 +42098,13 @@
   {
     "login": "taterv",
     "name": "TT",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/94960436?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/94960436?s=72&u=8bdf353b1eab693ff57340ec6bbd009d3b83c586&v=4",
     "location": "Finland",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 17,
-    "publicContributions": 24,
+    "privateContributions": 116,
+    "publicContributions": 13,
     "createdAt": "2021-11-24T09:10:09Z"
   },
   {
@@ -42139,8 +42127,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 197,
-    "publicContributions": 143,
+    "privateContributions": 248,
+    "publicContributions": 150,
     "createdAt": "2021-08-24T18:03:39Z"
   },
   {
@@ -42152,7 +42140,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 263,
+    "publicContributions": 195,
     "createdAt": "2021-08-02T11:32:49Z"
   },
   {
@@ -42186,8 +42174,8 @@
     "location": "Suomi",
     "company": "Femma",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 102,
+    "followers": 8,
+    "privateContributions": 99,
     "publicContributions": 0,
     "createdAt": "2021-02-02T22:02:34Z"
   },

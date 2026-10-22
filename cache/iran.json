@@ -41700,18 +41700,6 @@
     "createdAt": "2024-09-27T02:04:03Z"
   },
   {
-    "login": "samiasghari",
-    "name": "Sami Asghari",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/182728389?s=72&u=dbb445db325a0fcaaa6208c20c3784f7a995a713&v=4",
-    "location": "Tehran, Iran",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2024-09-25T05:28:58Z"
-  },
-  {
     "login": "AbtinParvinroo",
     "name": "Abtin Parvinroo",
     "avatarUrl": "https://avatars.githubusercontent.com/u/192377809?s=72&v=4",
@@ -41720,7 +41708,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 30,
+    "publicContributions": 20,
     "createdAt": "2024-12-20T21:05:16Z"
   },
   {
@@ -41731,8 +41719,8 @@
     "company": "OMPFinex",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 128,
-    "publicContributions": 129,
+    "privateContributions": 136,
+    "publicContributions": 58,
     "createdAt": "2024-07-31T18:19:57Z"
   },
   {
@@ -41756,7 +41744,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 40,
+    "publicContributions": 86,
     "createdAt": "2024-08-08T04:46:05Z"
   },
   {
@@ -41768,19 +41756,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 8,
     "createdAt": "2024-12-07T12:50:16Z"
   },
   {
     "login": "Mohammad-Kolivand",
     "name": "Mohammadreza",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/177662691?s=72&u=43036131cb9d9ab26882fd13b894aa16773438fc&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/177662691?s=72&u=15c63eda4c05bd5e825097566500b7c37899cb45&v=4",
     "location": "Tehran , Iran",
-    "company": "",
+    "company": "Ravand-Inovation",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 25,
     "createdAt": "2024-08-06T16:16:51Z"
   },
   {
@@ -41791,7 +41779,7 @@
     "company": "Namba",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 3,
+    "privateContributions": 12,
     "publicContributions": 2,
     "createdAt": "2024-09-13T20:25:59Z"
   },
@@ -41802,7 +41790,7 @@
     "location": "Iran",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-06-30T13:08:26Z"
@@ -41882,13 +41870,13 @@
   {
     "login": "Rahim-40",
     "name": "Rahim Rahmati-asghar",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/186804399?s=72&u=08056762c3f0f8e9f66d0208f33cf878fc7129aa&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/186804399?s=72&u=4de225adab14b0c55e25fc8cc8c7892a0898e3c9&v=4",
     "location": "Bonab , East Azarbaijan , Iran",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2024-10-30T08:50:51Z"
   },
   {
@@ -41900,7 +41888,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2024-08-23T21:25:22Z"
   },
   {
