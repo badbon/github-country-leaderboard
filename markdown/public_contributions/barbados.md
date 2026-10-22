@@ -1,6 +1,6 @@
 # Public Contributions - Barbados
 
-Generated: 2026-10-21T23:53:36.321Z
+Generated: 2026-10-22T01:31:46.593Z
 
 Users: 132
 
@@ -8,7 +8,7 @@ Users: 132
 |---:|---|---|---|---|---|---:|
 | 1 | [hammertoe](https://github.com/hammertoe) | Matt Hamilton | Dharach  | hammertoe | Barbados | 678 |
 | 2 | [ianhambleton](https://github.com/ianhambleton) | Ian Hambleton | The University of the West Indies |  | Barbados | 672 |
-| 3 | [caritechsolutions](https://github.com/caritechsolutions) |  |  |  | Barbados | 412 |
+| 3 | [caritechsolutions](https://github.com/caritechsolutions) |  |  |  | Barbados | 410 |
 | 4 | [shaquillehinds](https://github.com/shaquillehinds) | Shaquille Hinds |  |  | Barbados | 357 |
 | 5 | [jlayne246](https://github.com/jlayne246) | Joshua Layne |  |  | Bridgetown, Barbados | 307 |
 | 6 | [daley-mottley](https://github.com/daley-mottley) | Daley Mottley |  | DaleyMottley | Barbados | 288 |
@@ -24,5 +24,5 @@ Users: 132
 | 16 | [baebranch](https://github.com/baebranch) | Brian Branch |  | baebranch | Barbados | 104 |
 | 17 | [starsden](https://github.com/starsden) | den | Airbus |  | Barbados | 99 |
 | 18 | [Taggs](https://github.com/Taggs) | Neil Taggart | Adaptive Consulting | neiltaggart | (London \|\| Barbados) && Cloud | 96 |
-| 19 | [alexanderbahlk](https://github.com/alexanderbahlk) | Alexander Bahlk | Coast Solutions OÜ |  | Barbados | 83 |
+| 19 | [alexanderbahlk](https://github.com/alexanderbahlk) | Alexander Bahlk | Coast Solutions OÜ |  | Barbados | 82 |
 | 20 | [Rayh23](https://github.com/Rayh23) | Raynel |  |  | Barbados | 81 |

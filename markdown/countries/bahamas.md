@@ -70,8 +70,8 @@ Indexed users: 236
 | 6 | [mikepadiernos](https://github.com/mikepadiernos) | Mike Padiernos | Nassau County, NY | 42 |
 | 7 | [Johndiddles](https://github.com/Johndiddles) | Johndiddles | Nassau, Bahamas | 37 |
 | 8 | [jsphpndr](https://github.com/jsphpndr) | Joseph Pinder | Bahamas | 37 |
-| 9 | [lucayepa](https://github.com/lucayepa) | Luca Venturini | Nassau, Bahamas | 28 |
-| 10 | [travismillerweb](https://github.com/travismillerweb) | Travis Miller | Bahamas | 26 |
+| 9 | [travismillerweb](https://github.com/travismillerweb) | Travis Miller | Bahamas | 29 |
+| 10 | [lucayepa](https://github.com/lucayepa) | Luca Venturini | Nassau, Bahamas | 28 |
 | 11 | [Azure2020](https://github.com/Azure2020) |  | Bahamas  | 21 |
 | 12 | [M3gaPixel](https://github.com/M3gaPixel) | Pixelated | Bahamas  | 21 |
 | 13 | [bryanherger](https://github.com/bryanherger) | Bryan Herger | South Shore of Nassau County, NY | 18 |
@@ -83,4 +83,4 @@ Indexed users: 236
 | 19 | [paulcitarella](https://github.com/paulcitarella) | Paul Citarella | George Town, Bahamas | 15 |
 | 20 | [yemix](https://github.com/yemix) |  | Bahamas | 14 |
 
-Generated: 2026-10-21T23:50:50.072Z
+Generated: 2026-10-22T01:29:49.929Z

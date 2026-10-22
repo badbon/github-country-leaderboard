@@ -1,6 +1,6 @@
 # Followers - Eritrea
 
-Generated: 2026-10-22T00:09:45.175Z
+Generated: 2026-10-22T01:45:47.748Z
 
 Users: 17
 

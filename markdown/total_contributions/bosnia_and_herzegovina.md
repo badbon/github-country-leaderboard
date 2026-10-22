@@ -1,6 +1,6 @@
 # Total Contributions - Bosnia and Herzegovina
 
-Generated: 2026-10-21T23:56:18.961Z
+Generated: 2026-10-22T01:34:22.679Z
 
 Users: 2126
 
@@ -9,11 +9,11 @@ Users: 2126
 | 1 | [kemo](https://github.com/kemo) |  |  | delalick | Sarajevo, Bosnia and Herzegovina | 16810 |
 | 2 | [newPrimitives](https://github.com/newPrimitives) | Nermin Šehić | @betastudio | itsnerminsehic | Bosnia and Herzegovina | 8685 |
 | 3 | [mirzap](https://github.com/mirzap) | Mirza Pasic | @bosnadev  |  | Sarajevo | 8596 |
-| 4 | [NedimKuj](https://github.com/NedimKuj) | Nedim Kujrakovic | @Indevico | nedkuj | Sarajevo | 7520 |
-| 5 | [benjaminpeljto](https://github.com/benjaminpeljto) | Benjamin Peljto | ShownMedia |  | Sarajevo | 7384 |
-| 6 | [leoyigit](https://github.com/leoyigit) | LeoYigit | Flyrank AI |  | Sarajevo | 7348 |
-| 7 | [aness55](https://github.com/aness55) | Anes |  |  | Sarajevo | 7223 |
-| 8 | [ghostrider0470](https://github.com/ghostrider0470) | Abdagić Hamza | Horizon Tech d.o.o. Sarajevo  |  | Sarajevo | 7042 |
+| 4 | [ghostrider0470](https://github.com/ghostrider0470) | Abdagić Hamza | Horizon Tech d.o.o. Sarajevo  |  | Sarajevo | 7561 |
+| 5 | [NedimKuj](https://github.com/NedimKuj) | Nedim Kujrakovic | @Indevico | nedkuj | Sarajevo | 7520 |
+| 6 | [benjaminpeljto](https://github.com/benjaminpeljto) | Benjamin Peljto | ShownMedia |  | Sarajevo | 7384 |
+| 7 | [leoyigit](https://github.com/leoyigit) | LeoYigit | Flyrank AI |  | Sarajevo | 7348 |
+| 8 | [aness55](https://github.com/aness55) | Anes |  |  | Sarajevo | 7223 |
 | 9 | [ribice](https://github.com/ribice) | Emir Ribić | @caseconnect-ai |  | Sarajevo | 6627 |
 | 10 | [JovanJevtic](https://github.com/JovanJevtic) | Jovan Jevtic |  | OvoJovanovo | Banjaluka, Bosnia and Herzegovina | 6464 |
 | 11 | [vascabarkapa](https://github.com/vascabarkapa) | Vasilije Čabarkapa |  |  | East Sarajevo, Bosnia and Herzegovina | 6172 |

@@ -1,6 +1,6 @@
 # Followers - Belarus
 
-Generated: 2026-10-21T23:53:41.967Z
+Generated: 2026-10-22T01:31:51.441Z
 
 Users: 10925
 
@@ -8,8 +8,8 @@ Users: 10925
 |---:|---|---|---|---|---|---:|
 | 1 | [BEPb](https://github.com/BEPb) | Andrej Marinchenko | prohibited by employment contract | noname85071193 | Belarus | 26741 |
 | 2 | [YauhenKavalchuk](https://github.com/YauhenKavalchuk) | Yauhen Kavalchuk | @EPAM Systems | YauhenKavalchuk | Belarus, Minsk | 1928 |
-| 3 | [Azimka228](https://github.com/Azimka228) | Dmitriy_Andreevich |  |  | Belarus, Minsk | 1224 |
-| 4 | [Apleon](https://github.com/Apleon) | Andrew Sharapov  |  |  | Minsk, Belarus  | 992 |
+| 3 | [Azimka228](https://github.com/Azimka228) | Dmitriy_Andreevich |  |  | Belarus, Minsk | 1207 |
+| 4 | [Apleon](https://github.com/Apleon) | Andrew Sharapov  |  |  | Minsk, Belarus  | 972 |
 | 5 | [ArtPlatosha](https://github.com/ArtPlatosha) | Artyom |  |  | Belarus, Minsk | 653 |
 | 6 | [Nice3point](https://github.com/Nice3point) | Roman | Kinship |  | Minsk | 620 |
 | 7 | [kirich1409](https://github.com/kirich1409) | Kirill Rozov | @androidbroadcast  | kirill_rozov | Grodno, Belarus | 469 |

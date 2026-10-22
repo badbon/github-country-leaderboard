@@ -13,8 +13,8 @@ Indexed users: 15
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [repsac](https://github.com/repsac) | Ed Caspersen | The Valley | 5,979 |
-| 2 | [mikecalendo](https://github.com/mikecalendo) | Mike Calendo | The Valley, Arizona | 2,812 |
-| 3 | [tjhanley](https://github.com/tjhanley) | Thomas Hanley | the valley | 2,078 |
+| 2 | [mikecalendo](https://github.com/mikecalendo) | Mike Calendo | The Valley, Arizona | 2,807 |
+| 3 | [tjhanley](https://github.com/tjhanley) | Thomas Hanley | the valley | 2,076 |
 | 4 | [rockerBOO](https://github.com/rockerBOO) | Dave Lage | In the Valley | 547 |
 | 5 | [KleinKodes](https://github.com/KleinKodes) | Klein | Anguilla | 250 |
 | 6 | [joselfernandezwork](https://github.com/joselfernandezwork) | J-Lu | the valley  | 246 |
@@ -68,4 +68,4 @@ Indexed users: 15
 | 14 | [Ugly8](https://github.com/Ugly8) | Martin Boone | The Valley of the Sun | 2 |
 | 15 | [warte-kurz](https://github.com/warte-kurz) | Warte Kurz | Anguilla | 1 |
 
-Generated: 2026-10-21T23:46:36.319Z
+Generated: 2026-10-22T01:27:01.708Z

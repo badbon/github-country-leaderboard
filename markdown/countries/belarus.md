@@ -64,8 +64,8 @@ Indexed users: 10,925
 |---:|---|---|---|---:|
 | 1 | [BEPb](https://github.com/BEPb) | Andrej Marinchenko | Belarus | 26,741 |
 | 2 | [YauhenKavalchuk](https://github.com/YauhenKavalchuk) | Yauhen Kavalchuk | Belarus, Minsk | 1,928 |
-| 3 | [Azimka228](https://github.com/Azimka228) | Dmitriy_Andreevich | Belarus, Minsk | 1,224 |
-| 4 | [Apleon](https://github.com/Apleon) | Andrew Sharapov  | Minsk, Belarus  | 992 |
+| 3 | [Azimka228](https://github.com/Azimka228) | Dmitriy_Andreevich | Belarus, Minsk | 1,207 |
+| 4 | [Apleon](https://github.com/Apleon) | Andrew Sharapov  | Minsk, Belarus  | 972 |
 | 5 | [ArtPlatosha](https://github.com/ArtPlatosha) | Artyom | Belarus, Minsk | 653 |
 | 6 | [Nice3point](https://github.com/Nice3point) | Roman | Minsk | 620 |
 | 7 | [kirich1409](https://github.com/kirich1409) | Kirill Rozov | Grodno, Belarus | 469 |
@@ -83,4 +83,4 @@ Indexed users: 10,925
 | 19 | [dillidon](https://github.com/dillidon) | RV | Belarus | 183 |
 | 20 | [alexzhirkevich](https://github.com/alexzhirkevich) | Alexander Zhirkevich | Belarus, Minsk | 161 |
 
-Generated: 2026-10-21T23:53:41.967Z
+Generated: 2026-10-22T01:31:51.441Z

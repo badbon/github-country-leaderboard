@@ -26,12 +26,12 @@ Indexed users: 5,603
 | 12 | [MateoVidalS](https://github.com/MateoVidalS) | Mateo Vidal | Uruguay | 11,113 |
 | 13 | [agurod42](https://github.com/agurod42) | Agu Rodríguez | Montevideo, Uruguay, Earth | 10,131 |
 | 14 | [frankdavidcorona](https://github.com/frankdavidcorona) | Frank Corona Prendes | Montevideo, Uruguay | 10,097 |
-| 15 | [cl8dep](https://github.com/cl8dep) | Arael Espinosa | Montevideo, Uruguay | 8,801 |
-| 16 | [EugeniaGramajo](https://github.com/EugeniaGramajo) | Eugenia Gramajo | Uruguay | 8,420 |
-| 17 | [federicoimparatta](https://github.com/federicoimparatta) | Federico Imparatta | Montevideo, Uruguay | 8,317 |
-| 18 | [emiliano-go](https://github.com/emiliano-go) | Emiliano G.O. | Montevideo, Uruguay | 8,276 |
-| 19 | [pedrosgmagalhaes](https://github.com/pedrosgmagalhaes) | Pedro Magalhaes | Uruguay | 8,205 |
-| 20 | [brunoocal](https://github.com/brunoocal) | Bruno Cal | Uruguay | 8,152 |
+| 15 | [diegomarvid](https://github.com/diegomarvid) | Diego Marvid | Montevideo, Uruguay | 9,702 |
+| 16 | [cl8dep](https://github.com/cl8dep) | Arael Espinosa | Montevideo, Uruguay | 8,801 |
+| 17 | [EugeniaGramajo](https://github.com/EugeniaGramajo) | Eugenia Gramajo | Uruguay | 8,420 |
+| 18 | [machester4](https://github.com/machester4) | Michael Pintos | Uruguay | 8,338 |
+| 19 | [federicoimparatta](https://github.com/federicoimparatta) | Federico Imparatta | Montevideo, Uruguay | 8,317 |
+| 20 | [emiliano-go](https://github.com/emiliano-go) | Emiliano G.O. | Montevideo, Uruguay | 8,276 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 5,603
 | 19 | [mauricioszabo](https://github.com/mauricioszabo) | Maurício Szabo | Montevideo, Uruguay | 196 |
 | 20 | [ppazos](https://github.com/ppazos) | Pablo Pazos Gutiérrez | Montevideo, Uruguay | 196 |
 
-Generated: 2026-10-21T23:40:08.909Z
+Generated: 2026-10-22T01:20:01.518Z

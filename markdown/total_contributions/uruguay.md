@@ -1,6 +1,6 @@
 # Total Contributions - Uruguay
 
-Generated: 2026-10-21T23:40:08.909Z
+Generated: 2026-10-22T01:20:01.518Z
 
 Users: 5603
 
@@ -20,9 +20,9 @@ Users: 5603
 | 12 | [MateoVidalS](https://github.com/MateoVidalS) | Mateo Vidal | @pentoai  |  | Uruguay | 11113 |
 | 13 | [agurod42](https://github.com/agurod42) | Agu Rodríguez |  | agurod42 | Montevideo, Uruguay, Earth | 10131 |
 | 14 | [frankdavidcorona](https://github.com/frankdavidcorona) | Frank Corona Prendes | SynerSib Consulting SAS & Strictly | chaplindev | Montevideo, Uruguay | 10097 |
-| 15 | [cl8dep](https://github.com/cl8dep) | Arael Espinosa | @Heva-Co  |  | Montevideo, Uruguay | 8801 |
-| 16 | [EugeniaGramajo](https://github.com/EugeniaGramajo) | Eugenia Gramajo |  |  | Uruguay | 8420 |
-| 17 | [federicoimparatta](https://github.com/federicoimparatta) | Federico Imparatta | @ataraxy-digital |  | Montevideo, Uruguay | 8317 |
-| 18 | [emiliano-go](https://github.com/emiliano-go) | Emiliano G.O. | Eclipse Labs |  | Montevideo, Uruguay | 8276 |
-| 19 | [pedrosgmagalhaes](https://github.com/pedrosgmagalhaes) | Pedro Magalhaes | Iora Labs |  | Uruguay | 8205 |
-| 20 | [brunoocal](https://github.com/brunoocal) | Bruno Cal |  |  | Uruguay | 8152 |
+| 15 | [diegomarvid](https://github.com/diegomarvid) | Diego Marvid | tryolabs |  | Montevideo, Uruguay | 9702 |
+| 16 | [cl8dep](https://github.com/cl8dep) | Arael Espinosa | @Heva-Co  |  | Montevideo, Uruguay | 8801 |
+| 17 | [EugeniaGramajo](https://github.com/EugeniaGramajo) | Eugenia Gramajo |  |  | Uruguay | 8420 |
+| 18 | [machester4](https://github.com/machester4) | Michael Pintos |  |  | Uruguay | 8338 |
+| 19 | [federicoimparatta](https://github.com/federicoimparatta) | Federico Imparatta | @ataraxy-digital |  | Montevideo, Uruguay | 8317 |
+| 20 | [emiliano-go](https://github.com/emiliano-go) | Emiliano G.O. | Eclipse Labs |  | Montevideo, Uruguay | 8276 |

@@ -1,13 +1,13 @@
 # Total Contributions - Brunei
 
-Generated: 2026-10-21T23:58:57.982Z
+Generated: 2026-10-22T01:35:59.487Z
 
 Users: 254
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [aresople](https://github.com/aresople) | Aresa Naif | Developer |  | Brunei | 5586 |
-| 2 | [danialothman](https://github.com/danialothman) | Danial Othman |  |  | Brunei Darussalam | 4137 |
+| 2 | [danialothman](https://github.com/danialothman) | Danial Othman |  |  | Brunei Darussalam | 4174 |
 | 3 | [SatriaSuriaAriffin](https://github.com/SatriaSuriaAriffin) | Satria Suria | Deltice Technology |  | Brunei | 2865 |
 | 4 | [akasmirhan4](https://github.com/akasmirhan4) | Amirrul Kasmirhan |  |  | Brunei | 2222 |
 | 5 | [fatinjulaihi](https://github.com/fatinjulaihi) | Fatin Julaihi |  |  | Brunei | 1181 |
@@ -18,8 +18,8 @@ Users: 254
 | 10 | [anwari-fikri](https://github.com/anwari-fikri) | Anwari Fikri |  |  | Brunei Darussalam | 784 |
 | 11 | [habibah-mahadi](https://github.com/habibah-mahadi) | Habibah Mahadi |  |  | Brunei Darussalam | 605 |
 | 12 | [lmwnshn](https://github.com/lmwnshn) | Wan Shen Lim |  |  | San Francisco, CA \| Brunei | 605 |
-| 13 | [nathanielcwm](https://github.com/nathanielcwm) | Nathaniel |  |  | Brunei | 583 |
-| 14 | [amirulmenjeni](https://github.com/amirulmenjeni) | Amirul Menjeni | Brunei Shell Petroleum |  | Brunei Darussalam | 529 |
+| 13 | [nathanielcwm](https://github.com/nathanielcwm) | Nathaniel |  |  | Brunei | 587 |
+| 14 | [amirulmenjeni](https://github.com/amirulmenjeni) | Amirul Menjeni | Brunei Shell Petroleum |  | Brunei Darussalam | 539 |
 | 15 | [Qoyyuum](https://github.com/Qoyyuum) | Abdul Qoyyuum |  | Qoyyuum | Brunei Darussalam | 446 |
 | 16 | [MadHazz](https://github.com/MadHazz) | Ahmad Ghazali Bin Haji Hanipah | @Datastream-Digital  |  | Bandar Seri Begawan, Brunei Muara District, Negara Brunei Darussalam | 363 |
 | 17 | [bumplzz69](https://github.com/bumplzz69) | Eddie |  |  | Brunei | 337 |

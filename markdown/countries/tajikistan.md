@@ -16,7 +16,7 @@ Indexed users: 708
 | 2 | [veyxov](https://github.com/veyxov) | Shekhov Ismoil | Tajikistan | 9,249 |
 | 3 | [rahimov-yr](https://github.com/rahimov-yr) | Yusuf Rahimov | Tajikistan | 8,117 |
 | 4 | [UMARJO9](https://github.com/UMARJO9) | Умарджон Нурмадов | Tajikistan / Khujand / Dushanbe / Kulob | 7,498 |
-| 5 | [umedsondoniyor](https://github.com/umedsondoniyor) | Umedzhon Izbasarov | Tajikistan/Dushanbe | 6,834 |
+| 5 | [umedsondoniyor](https://github.com/umedsondoniyor) | Umedzhon Izbasarov | Tajikistan/Dushanbe | 7,021 |
 | 6 | [islom-sattorov](https://github.com/islom-sattorov) | islom-sattorov | Dushanbe, Tajikistan | 6,755 |
 | 7 | [shyn1ck](https://github.com/shyn1ck) | Parvizjon Hasanov | Taikistan, Dushanbe  | 6,654 |
 | 8 | [ifteakhor](https://github.com/ifteakhor) |  | Tajikistan | 6,456 |
@@ -83,4 +83,4 @@ Indexed users: 708
 | 19 | [11bit](https://github.com/11bit) | Ivan Buryak | Dushanbe | 49 |
 | 20 | [Abdughafur](https://github.com/Abdughafur) | Abdughafur Khujzoda | Tajikistan | 48 |
 
-Generated: 2026-10-21T23:32:51.861Z
+Generated: 2026-10-22T01:13:38.896Z

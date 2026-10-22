@@ -1,6 +1,6 @@
 # Public Contributions - Equatorial Guinea
 
-Generated: 2026-10-22T00:09:42.386Z
+Generated: 2026-10-22T01:45:45.226Z
 
 Users: 20
 
@@ -11,7 +11,7 @@ Users: 20
 | 3 | [alexis-ngoyi](https://github.com/alexis-ngoyi) | Alexis Ngoyi M. | Qirah | alexisNgoyi | Guinee Equatoriale, Malabo | 49 |
 | 4 | [vicentehmba](https://github.com/vicentehmba) | VIcente Hugo Mba | Deftreach |  | Equatorial Guinea | 38 |
 | 5 | [Soniangomo](https://github.com/Soniangomo) | Sonia NGOMO | CFAO MOBILITY |  | MALABO- EQUATORIAL GUINEA | 27 |
-| 6 | [sersobrenatural](https://github.com/sersobrenatural) | Santiago Gabriel Micha Ndong Obiang | ConocoPhillips |  | Equatorial Guinea  | 14 |
+| 6 | [sersobrenatural](https://github.com/sersobrenatural) | Santiago Gabriel Micha Ndong Obiang | ConocoPhillips |  | Equatorial Guinea  | 12 |
 | 7 | [Nazario95](https://github.com/Nazario95) | Nazario Muanbama |  | NazzaReg | Malabo-EQ | 11 |
 | 8 | [seamuddin](https://github.com/seamuddin) | Seam uddin | Rosa Money SL |  | Malabo, Equatorial guinea | 8 |
 | 9 | [melitonio](https://github.com/melitonio) | Meliton Pablo Mangue Mañana | MAIT |  | Malabo, Guinea Ecuatorial | 5 |

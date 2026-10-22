@@ -1,6 +1,6 @@
 # Followers - Benin
 
-Generated: 2026-10-21T23:55:22.141Z
+Generated: 2026-10-22T01:33:29.951Z
 
 Users: 471
 
@@ -19,9 +19,9 @@ Users: 471
 | 11 | [devalade](https://github.com/devalade) | Alade YESSOUFOU |  | dev_alade | Cotonou,Littoral, Benin | 94 |
 | 12 | [nair0lf32](https://github.com/nair0lf32) | EDEMESSI Florian |  | florianedemessi | Benin, Cotonou | 90 |
 | 13 | [Augustino127](https://github.com/Augustino127) | Augustino Comlangan | Vallis Technologies | AComlangan70558 | Benin, Cotonou | 89 |
-| 14 | [AymarN](https://github.com/AymarN) | Aymar Sedami NAHUM |  | JeCorde | Republic of Benin | 87 |
-| 15 | [Collins222614](https://github.com/Collins222614) | Collins Efesomo |  |  | Benin, Nigeria | 87 |
-| 16 | [jackjosias](https://github.com/jackjosias) | Jack-Josias |  |  | Cotonou, Benin | 87 |
+| 14 | [jackjosias](https://github.com/jackjosias) | Jack-Josias |  |  | Cotonou, Benin | 88 |
+| 15 | [AymarN](https://github.com/AymarN) | Aymar Sedami NAHUM |  | JeCorde | Republic of Benin | 87 |
+| 16 | [Collins222614](https://github.com/Collins222614) | Collins Efesomo |  |  | Benin, Nigeria | 87 |
 | 17 | [Jozzy4](https://github.com/Jozzy4) | Ibatuemoh Joseph  |  |  | Benin | 83 |
 | 18 | [salimane](https://github.com/salimane) | Salimane Adjao Moustapha | Meltwater |  | Africa, Benin, Rwanda, Ghana, Kenya, China, Germany | 79 |
 | 19 | [awarris](https://github.com/awarris) | Warris AGBANNONDE | VIPP INTERTIS | awarrisw | Benin, Cotonou Ganhi | 71 |

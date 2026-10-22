@@ -1,6 +1,6 @@
 # Public Contributions - Bosnia and Herzegovina
 
-Generated: 2026-10-21T23:56:18.961Z
+Generated: 2026-10-22T01:34:22.679Z
 
 Users: 2126
 
@@ -8,8 +8,8 @@ Users: 2126
 |---:|---|---|---|---|---|---:|
 | 1 | [JokerHin](https://github.com/JokerHin) | Cho Kar Hin | student |  | Bosnia and Herzegovina | 5608 |
 | 2 | [MaidCorbic](https://github.com/MaidCorbic) | Maid Čorbić | Foto Žunić Tuzla |  | Tuzla, Bosnia and Herzegovina | 3728 |
-| 3 | [sake92](https://github.com/sake92) | Sakib Hadžiavdić | @sacode387  |  | Sarajevo, Bosnia | 3251 |
-| 4 | [ghostrider0470](https://github.com/ghostrider0470) | Abdagić Hamza | Horizon Tech d.o.o. Sarajevo  |  | Sarajevo | 2979 |
+| 3 | [ghostrider0470](https://github.com/ghostrider0470) | Abdagić Hamza | Horizon Tech d.o.o. Sarajevo  |  | Sarajevo | 3351 |
+| 4 | [sake92](https://github.com/sake92) | Sakib Hadžiavdić | @sacode387  |  | Sarajevo, Bosnia | 3251 |
 | 5 | [Kerim-Sabic](https://github.com/Kerim-Sabic) | Kerim Sabic | Horalix |  | Sarajevo | 2965 |
 | 6 | [pr0h0](https://github.com/pr0h0) | Abdulah Proho | Circeus |  | Sarajevo / Bosnia and Herzegovina | 2805 |
 | 7 | [goran1010](https://github.com/goran1010) | Goran Jović |  |  | Banja Luka, Bosnia and Herzegovina | 2713 |

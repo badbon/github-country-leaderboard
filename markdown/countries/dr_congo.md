@@ -48,7 +48,7 @@ Indexed users: 701
 | 9 | [Sumant3086](https://github.com/Sumant3086) | Sumant Yadav | Kinshasa | 1,285 |
 | 10 | [jeereq](https://github.com/jeereq) | minganda | rdc/kinshasa | 1,244 |
 | 11 | [Kakesa](https://github.com/Kakesa) | Espoir Kakesa | kinshasa DRC | 1,158 |
-| 12 | [KUROYUKIHIME333](https://github.com/KUROYUKIHIME333) | Daniel RAMAZANI | Kinshasa, Democratic Republic of the Congo | 1,076 |
+| 12 | [KUROYUKIHIME333](https://github.com/KUROYUKIHIME333) | Daniel RAMAZANI | Kinshasa, Democratic Republic of the Congo | 1,073 |
 | 13 | [martinbitha5](https://github.com/martinbitha5) | Martin Bitha | Kinshasa | 1,057 |
 | 14 | [mr-leo44](https://github.com/mr-leo44) | Lionel Kaniki | Kinshasa, Drc | 1,006 |
 | 15 | [JohnHeshima](https://github.com/JohnHeshima) | JOHN HESHIMA | DRC, Kinshasa | 897 |
@@ -62,7 +62,7 @@ Indexed users: 701
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [Mardo-k12](https://github.com/Mardo-k12) | Mardo | kinshasa | 684 |
+| 1 | [Mardo-k12](https://github.com/Mardo-k12) | Mardo | kinshasa | 686 |
 | 2 | [bernard-ng](https://github.com/bernard-ng) | Bernard Ngandu | DR Congo, Lubumbashi | 239 |
 | 3 | [JonathanMonga](https://github.com/JonathanMonga) | Jomo | Lubumbashi, Katanga, DR Congo | 218 |
 | 4 | [Kgermando](https://github.com/Kgermando) | Kgermain | Kinshasa | 198 |
@@ -83,4 +83,4 @@ Indexed users: 701
 | 19 | [bolenge](https://github.com/bolenge) | Don de Dieu Bolenge | Congo - Kinshasa | 69 |
 | 20 | [ChrisMwanya](https://github.com/ChrisMwanya) | Chris Mwanya | kinshasa | 69 |
 
-Generated: 2026-10-22T00:08:35.127Z
+Generated: 2026-10-22T01:44:19.356Z

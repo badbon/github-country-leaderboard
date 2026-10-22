@@ -25,7 +25,7 @@ Indexed users: 1,795
 | 11 | [zenderock](https://github.com/zenderock) | Emmanuel Zenderock | Cameroon | 7,985 |
 | 12 | [elroykanye](https://github.com/elroykanye) | Elroy Kimbi | Yaoundé, Cameroon | 7,877 |
 | 13 | [leonelngande](https://github.com/leonelngande) | Leonel Elimpe | Buea, Cameroon | 7,534 |
-| 14 | [Martin-Luther](https://github.com/Martin-Luther) | Martin Luther ETOUMAN NDAMBWE | Douala / Cameroon | 6,398 |
+| 14 | [Martin-Luther](https://github.com/Martin-Luther) | Martin Luther ETOUMAN NDAMBWE | Douala / Cameroon | 6,806 |
 | 15 | [OkonoWil](https://github.com/OkonoWil) | Okono Wilfried | Douala,Cameroon | 6,342 |
 | 16 | [psycho237-prog](https://github.com/psycho237-prog) | ONANA GREGOIRE LEGRAND  | Cameroon | 6,340 |
 | 17 | [itzomen](https://github.com/itzomen) | Peng Boris Akebuon | Buea, Cameroon | 5,740 |
@@ -39,7 +39,7 @@ Indexed users: 1,795
 |---:|---|---|---|---:|
 | 1 | [iws3](https://github.com/iws3) | Fonyuy Gita | Bamenda, Cameroon | 9,317 |
 | 2 | [psycho237-prog](https://github.com/psycho237-prog) | ONANA GREGOIRE LEGRAND  | Cameroon | 6,069 |
-| 3 | [Martin-Luther](https://github.com/Martin-Luther) | Martin Luther ETOUMAN NDAMBWE | Douala / Cameroon | 4,788 |
+| 3 | [Martin-Luther](https://github.com/Martin-Luther) | Martin Luther ETOUMAN NDAMBWE | Douala / Cameroon | 5,162 |
 | 4 | [Notho-freedom](https://github.com/Notho-freedom) | Ravel Momo | Yaoundé  | 3,184 |
 | 5 | [bensah](https://github.com/bensah) | Ben Nsah | Cameroon | 3,097 |
 | 6 | [Christiantyemele](https://github.com/Christiantyemele) | Christian Yemele | Cameroon | 2,480 |
@@ -83,4 +83,4 @@ Indexed users: 1,795
 | 19 | [baimamboukar](https://github.com/baimamboukar) | BAIMAM BOUKAR JEAN JACQUES | Yaoundé | 170 |
 | 20 | [Suprememajor](https://github.com/Suprememajor) | Nobert Etta | Buea, Cameroon | 168 |
 
-Generated: 2026-10-21T23:59:25.569Z
+Generated: 2026-10-22T01:36:17.312Z

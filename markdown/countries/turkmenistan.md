@@ -20,7 +20,7 @@ Indexed users: 501
 | 6 | [richxcame](https://github.com/richxcame) | Baygeldi Cholukov | Turkmenistan | 4,380 |
 | 7 | [bayramBabagulyyev](https://github.com/bayramBabagulyyev) | Bayram Babagulyyev | Turkmenistan | 4,313 |
 | 8 | [lightRain0629](https://github.com/lightRain0629) | Umyt | Ashgabat, Turkmenistan | 4,073 |
-| 9 | [kakajansh](https://github.com/kakajansh) | Kakajan SH | Ashgabat | 3,744 |
+| 9 | [kakajansh](https://github.com/kakajansh) | Kakajan SH | Ashgabat | 3,756 |
 | 10 | [noxur05](https://github.com/noxur05) | Bagtyyar Rejepov | Ashgabat, Turkmenistan | 3,721 |
 | 11 | [Nirovitsky](https://github.com/Nirovitsky) | Ata | Turkmenistan | 3,369 |
 | 12 | [Begench2005](https://github.com/Begench2005) | Begench | Ashgabat, Turkmenistan | 3,253 |
@@ -42,7 +42,7 @@ Indexed users: 501
 | 3 | [TheSeydiCharyyev](https://github.com/TheSeydiCharyyev) | Seydi Charyyev | Mary city, Turkmenistan | 2,087 |
 | 4 | [Nurik9292](https://github.com/Nurik9292) | Timur | Turkmenistan | 1,720 |
 | 5 | [ez1z](https://github.com/ez1z) | Eziz Agamyradov | Turkmenabat, Turkmenistan | 1,017 |
-| 6 | [vbauerster](https://github.com/vbauerster) | Vladimir Bauer | Turkmenistan | 811 |
+| 6 | [vbauerster](https://github.com/vbauerster) | Vladimir Bauer | Turkmenistan | 845 |
 | 7 | [Mekan-developer](https://github.com/Mekan-developer) | Mekan Agamyradov | Turkmenistan, Ashgabat | 763 |
 | 8 | [Bahram2006](https://github.com/Bahram2006) | Bahram Myradow | Turkmenistan | 701 |
 | 9 | [selbibegiyeva1](https://github.com/selbibegiyeva1) | Unite Venture | Turkmenistan | 683 |
@@ -83,4 +83,4 @@ Indexed users: 501
 | 19 | [MerlinEmris](https://github.com/MerlinEmris) | Merdan Chariyarov | Ashgabat | 65 |
 | 20 | [atageldi194229](https://github.com/atageldi194229) | Atageldi | Ashgabat, Turkmenistan | 64 |
 
-Generated: 2026-10-21T23:36:18.630Z
+Generated: 2026-10-22T01:17:15.875Z

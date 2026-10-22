@@ -16,10 +16,10 @@ Indexed users: 94
 | 2 | [AlexDev404](https://github.com/AlexDev404) | Immanuel Daviel A. Garcia | Belmopan, BZ | 2,022 |
 | 3 | [roock3r](https://github.com/roock3r) | Cristian Silva | Belize | 1,900 |
 | 4 | [andreshungbz](https://github.com/andreshungbz) | Andres Hung | Belmopan, Belize | 1,663 |
-| 5 | [happyherp](https://github.com/happyherp) | Carlos Freund | Belize | 1,514 |
-| 6 | [jimidle](https://github.com/jimidle) | Jim Idle | Hopkins, Belize | 1,470 |
+| 5 | [happyherp](https://github.com/happyherp) | Carlos Freund | Belize | 1,528 |
+| 6 | [jimidle](https://github.com/jimidle) | Jim Idle | Hopkins, Belize | 1,469 |
 | 7 | [Jaymar](https://github.com/Jaymar) | Jaymar Zane Noralez | Belize | 1,326 |
-| 8 | [blackmambo](https://github.com/blackmambo) | Winston Hope, Jr. | Belize | 1,295 |
+| 8 | [blackmambo](https://github.com/blackmambo) | Winston Hope, Jr. | Belize | 1,291 |
 | 9 | [DrianeDiojanPerez](https://github.com/DrianeDiojanPerez) | Driane Diojan Perez | Avenida Primitivo Aragon, Sarteneja, Corozal, Belize | 989 |
 | 10 | [TadeoBennett](https://github.com/TadeoBennett) | TheTechieINTJ | Belize | 972 |
 | 11 | [amirihoare](https://github.com/amirihoare) | Amiri Hoare | Belize | 670 |
@@ -83,4 +83,4 @@ Indexed users: 94
 | 19 | [mmedinajr](https://github.com/mmedinajr) | Manuel Medina Jr | Belmopan City | 7 |
 | 20 | [raycadle](https://github.com/raycadle) | Ray Cadle | Belize, C.A. | 7 |
 
-Generated: 2026-10-21T23:54:21.668Z
+Generated: 2026-10-22T01:32:29.480Z

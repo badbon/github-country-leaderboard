@@ -43,20 +43,20 @@ Indexed users: 1,273
 | 4 | [AgenciaSeniors](https://github.com/AgenciaSeniors) | Eduardo Daniel Pérez Ruiz | Cuba | 4,487 |
 | 5 | [MiguelAntonioRS](https://github.com/MiguelAntonioRS) | Miguel | Cuba, Holguin | 3,212 |
 | 6 | [rafaelrdgz](https://github.com/rafaelrdgz) | Rafael Rodríguez Pérez | Havana, Cuba | 2,401 |
-| 7 | [kaelthasmanu](https://github.com/kaelthasmanu) | Manuel Gorrin | Cuba | 1,996 |
-| 8 | [danielitoCode](https://github.com/danielitoCode) | Daniel Imbert | Cuba | 1,789 |
-| 9 | [rodnye](https://github.com/rodnye) | Rodny Estrada | La Habana, Cuba | 1,503 |
-| 10 | [GloriousTacoo](https://github.com/GloriousTacoo) | GloriousTaco | Havana, Cuba | 1,464 |
-| 11 | [ArtStyles](https://github.com/ArtStyles) | Frank Enrique James Hernández | Universidad de Ciencias Informáticas, La Habana, Cuba | 1,263 |
-| 12 | [NairAd02](https://github.com/NairAd02) | Adrian Suarez | Havana, Cuba | 1,228 |
-| 13 | [PushoDev](https://github.com/PushoDev) | Luis A. Guisado | Ciudad de Manzanillo, Cuba | 1,182 |
-| 14 | [yordenis91](https://github.com/yordenis91) | Yordenis Correoso L | La Habana, Cuba | 1,051 |
-| 15 | [apokaliptolesamale](https://github.com/apokaliptolesamale) | Dailyn García Domínguez | La Habana, Cuba | 994 |
-| 16 | [Ruben0304](https://github.com/Ruben0304) | Ruben Hernandez | Cuba | 977 |
-| 17 | [MazMorrDev](https://github.com/MazMorrDev) | Marco Antonio Romero Albanez | Cárdenas, Matanzas, Cuba | 931 |
-| 18 | [noakmilo](https://github.com/noakmilo) | Camilo Noa | Cuba | 913 |
-| 19 | [maicel1978](https://github.com/maicel1978) | Maicel Monzón | Cuba | 774 |
-| 20 | [engelsrc](https://github.com/engelsrc) | Engels Rodriguez Capote | Santiago de Cuba, Cuba | 743 |
+| 7 | [josePereiro](https://github.com/josePereiro) | Jose Antonio Pereiro Morejon | Havana, Cuba | 2,122 |
+| 8 | [kaelthasmanu](https://github.com/kaelthasmanu) | Manuel Gorrin | Cuba | 1,990 |
+| 9 | [danielitoCode](https://github.com/danielitoCode) | Daniel Imbert | Cuba | 1,789 |
+| 10 | [rodnye](https://github.com/rodnye) | Rodny Estrada | La Habana, Cuba | 1,503 |
+| 11 | [GloriousTacoo](https://github.com/GloriousTacoo) | GloriousTaco | Havana, Cuba | 1,464 |
+| 12 | [ArtStyles](https://github.com/ArtStyles) | Frank Enrique James Hernández | Universidad de Ciencias Informáticas, La Habana, Cuba | 1,263 |
+| 13 | [NairAd02](https://github.com/NairAd02) | Adrian Suarez | Havana, Cuba | 1,228 |
+| 14 | [PushoDev](https://github.com/PushoDev) | Luis A. Guisado | Ciudad de Manzanillo, Cuba | 1,182 |
+| 15 | [yordenis91](https://github.com/yordenis91) | Yordenis Correoso L | La Habana, Cuba | 1,051 |
+| 16 | [apokaliptolesamale](https://github.com/apokaliptolesamale) | Dailyn García Domínguez | La Habana, Cuba | 994 |
+| 17 | [Ruben0304](https://github.com/Ruben0304) | Ruben Hernandez | Cuba | 977 |
+| 18 | [MazMorrDev](https://github.com/MazMorrDev) | Marco Antonio Romero Albanez | Cárdenas, Matanzas, Cuba | 931 |
+| 19 | [noakmilo](https://github.com/noakmilo) | Camilo Noa | Cuba | 913 |
+| 20 | [maicel1978](https://github.com/maicel1978) | Maicel Monzón | Cuba | 774 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,273
 | 19 | [markospy](https://github.com/markospy) | Marcos Avila | Cuba | 72 |
 | 20 | [EduardoProfe666](https://github.com/EduardoProfe666) | Eduardo Alejandro González Martell | La Habana, Cuba | 69 |
 
-Generated: 2026-10-22T00:05:30.519Z
+Generated: 2026-10-22T01:41:38.629Z

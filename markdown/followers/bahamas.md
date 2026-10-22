@@ -1,6 +1,6 @@
 # Followers - Bahamas
 
-Generated: 2026-10-21T23:50:50.072Z
+Generated: 2026-10-22T01:29:49.929Z
 
 Users: 236
 
@@ -14,8 +14,8 @@ Users: 236
 | 6 | [mikepadiernos](https://github.com/mikepadiernos) | Mike Padiernos | TCS, GE Aerospace |  | Nassau County, NY | 42 |
 | 7 | [Johndiddles](https://github.com/Johndiddles) | Johndiddles | Evon Medics LLC | john_diddles | Nassau, Bahamas | 37 |
 | 8 | [jsphpndr](https://github.com/jsphpndr) | Joseph Pinder | Clever | jsphpndr | Bahamas | 37 |
-| 9 | [lucayepa](https://github.com/lucayepa) | Luca Venturini | CEO @token21 @yepa | lucayepa | Nassau, Bahamas | 28 |
-| 10 | [travismillerweb](https://github.com/travismillerweb) | Travis Miller | Travis Miller Web |  | Bahamas | 26 |
+| 9 | [travismillerweb](https://github.com/travismillerweb) | Travis Miller | Travis Miller Web |  | Bahamas | 29 |
+| 10 | [lucayepa](https://github.com/lucayepa) | Luca Venturini | CEO @token21 @yepa | lucayepa | Nassau, Bahamas | 28 |
 | 11 | [Azure2020](https://github.com/Azure2020) |  | Azure Group of Companies Ltd  | Azuregold242 | Bahamas  | 21 |
 | 12 | [M3gaPixel](https://github.com/M3gaPixel) | Pixelated |  |  | Bahamas  | 21 |
 | 13 | [bryanherger](https://github.com/bryanherger) | Bryan Herger |  |  | South Shore of Nassau County, NY | 18 |

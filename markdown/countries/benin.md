@@ -28,7 +28,7 @@ Indexed users: 471
 | 14 | [Yoannoza](https://github.com/Yoannoza) | Yoann OZA | Cotonou, Benin | 3,885 |
 | 15 | [koladev32](https://github.com/koladev32) | Mangabo  Kolawole | Benin, Cotonou | 3,840 |
 | 16 | [eliotfgn](https://github.com/eliotfgn) | Eliot FAGNON | Cotonou, Benin | 3,727 |
-| 17 | [Van064886](https://github.com/Van064886) | Vanique ATADE  | Cotonou, Benin | 3,638 |
+| 17 | [Van064886](https://github.com/Van064886) | Vanique ATADE  | Cotonou, Benin | 3,692 |
 | 18 | [20Frederic20](https://github.com/20Frederic20) |  | Benin, Cotonou | 3,389 |
 | 19 | [Aulerien](https://github.com/Aulerien) | TCHANHOUIN Amede Angel Aulerien | Benin, Cotonou | 3,239 |
 | 20 | [Kinbor1994](https://github.com/Kinbor1994) | KINNOUME S. Borel | BENIN | 3,191 |
@@ -75,12 +75,12 @@ Indexed users: 471
 | 11 | [devalade](https://github.com/devalade) | Alade YESSOUFOU | Cotonou,Littoral, Benin | 94 |
 | 12 | [nair0lf32](https://github.com/nair0lf32) | EDEMESSI Florian | Benin, Cotonou | 90 |
 | 13 | [Augustino127](https://github.com/Augustino127) | Augustino Comlangan | Benin, Cotonou | 89 |
-| 14 | [AymarN](https://github.com/AymarN) | Aymar Sedami NAHUM | Republic of Benin | 87 |
-| 15 | [Collins222614](https://github.com/Collins222614) | Collins Efesomo | Benin, Nigeria | 87 |
-| 16 | [jackjosias](https://github.com/jackjosias) | Jack-Josias | Cotonou, Benin | 87 |
+| 14 | [jackjosias](https://github.com/jackjosias) | Jack-Josias | Cotonou, Benin | 88 |
+| 15 | [AymarN](https://github.com/AymarN) | Aymar Sedami NAHUM | Republic of Benin | 87 |
+| 16 | [Collins222614](https://github.com/Collins222614) | Collins Efesomo | Benin, Nigeria | 87 |
 | 17 | [Jozzy4](https://github.com/Jozzy4) | Ibatuemoh Joseph  | Benin | 83 |
 | 18 | [salimane](https://github.com/salimane) | Salimane Adjao Moustapha | Africa, Benin, Rwanda, Ghana, Kenya, China, Germany | 79 |
 | 19 | [awarris](https://github.com/awarris) | Warris AGBANNONDE | Benin, Cotonou Ganhi | 71 |
 | 20 | [baba-mandef](https://github.com/baba-mandef) | Abiodoun Paraïso | Adjarra, Benin | 71 |
 
-Generated: 2026-10-21T23:55:22.141Z
+Generated: 2026-10-22T01:33:29.951Z
