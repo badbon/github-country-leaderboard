@@ -1,6 +1,6 @@
 # Followers - Papua New Guinea
 
-Generated: 2026-10-22T17:56:04.345Z
+Generated: 2026-10-22T18:49:43.870Z
 
 Users: 296
 
@@ -20,7 +20,7 @@ Users: 296
 | 12 | [sylvery](https://github.com/sylvery) | Sylver Yagi | Sudo Tech |  | Papua New Guinea | 13 |
 | 13 | [gwarvi](https://github.com/gwarvi) | Gordon Warvi | Kalia Media |  | Port Moresby, Papua New Guinea | 12 |
 | 14 | [ephil2025](https://github.com/ephil2025) | EPHIL |  |  | Papua New Guinea | 11 |
-| 15 | [lordgabriel98](https://github.com/lordgabriel98) | Gabriel Baje |  |  | Port Moresby, Papua New Guinea | 10 |
+| 15 | [lordgabriel98](https://github.com/lordgabriel98) | Gabriel Baje |  |  | Port Moresby, Papua New Guinea | 11 |
 | 16 | [jtuckayo](https://github.com/jtuckayo) | Julius Tuckayo | Nasfund | jtuckayo | Port Morseby, Papua New Guinea | 9 |
 | 17 | [wilfred-wulbou](https://github.com/wilfred-wulbou) | Wilfred Wulbou |  | wilfredwulbou | Papua New Guinea | 9 |
 | 18 | [glenhayoge](https://github.com/glenhayoge) | Glen G Hayoge | Dzagoo Digital Technologies-https://dzagoo.com | GHayoge | Papua New Guinea | 8 |

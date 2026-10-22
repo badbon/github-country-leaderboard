@@ -1,6 +1,6 @@
 # Public Contributions
 
-Published countries: 234
+Published countries: 235
 
 | Country | Indexed Users | Leaderboard |
 |---|---:|---|
@@ -100,15 +100,16 @@ Published countries: 234
 | Hungary | 11,156 | [View](./hungary.md) |
 | Iceland | 1,579 | [View](./iceland.md) |
 | Indonesia | 63,271 | [View](./indonesia.md) |
-| Iran | 26,857 | [View](./iran.md) |
+| Iran | 26,856 | [View](./iran.md) |
 | Iraq | 2,230 | [View](./iraq.md) |
 | Ireland | 19,485 | [View](./ireland.md) |
 | Isle of Man | 155 | [View](./isle_of_man.md) |
 | Israel | 12,417 | [View](./israel.md) |
+| Italy | 49,018 | [View](./italy.md) |
 | Ivory Coast | 488 | [View](./ivory_coast.md) |
 | Jamaica | 1,271 | [View](./jamaica.md) |
 | Jersey | 139 | [View](./jersey.md) |
-| Jordan | 4,000 | [View](./jordan.md) |
+| Jordan | 3,999 | [View](./jordan.md) |
 | Kazakhstan | 5,619 | [View](./kazakhstan.md) |
 | Kenya | 24,006 | [View](./kenya.md) |
 | Kiribati | 4 | [View](./kiribati.md) |
@@ -126,7 +127,7 @@ Published countries: 234
 | Macau | 438 | [View](./macau.md) |
 | Madagascar | 1,901 | [View](./madagascar.md) |
 | Malawi | 900 | [View](./malawi.md) |
-| Malaysia | 11,779 | [View](./malaysia.md) |
+| Malaysia | 11,778 | [View](./malaysia.md) |
 | Maldives | 354 | [View](./maldives.md) |
 | Mali | 347 | [View](./mali.md) |
 | Malta | 1,223 | [View](./malta.md) |
@@ -142,12 +143,12 @@ Published countries: 234
 | Mongolia | 804 | [View](./mongolia.md) |
 | Montenegro | 888 | [View](./montenegro.md) |
 | Montserrat | 291 | [View](./montserrat.md) |
-| Morocco | 9,613 | [View](./morocco.md) |
+| Morocco | 9,612 | [View](./morocco.md) |
 | Mozambique | 1,175 | [View](./mozambique.md) |
 | Myanmar | 2,055 | [View](./myanmar.md) |
 | Namibia | 474 | [View](./namibia.md) |
 | Nauru | 3 | [View](./nauru.md) |
-| Nepal | 14,097 | [View](./nepal.md) |
+| Nepal | 14,096 | [View](./nepal.md) |
 | New Caledonia | 111 | [View](./new_caledonia.md) |
 | New Zealand | 12,139 | [View](./new_zealand.md) |
 | Nicaragua | 1,395 | [View](./nicaragua.md) |
@@ -159,8 +160,8 @@ Published countries: 234
 | North Macedonia | 1,923 | [View](./north_macedonia.md) |
 | Northern Mariana Islands | 13 | [View](./northern_mariana_islands.md) |
 | Norway | 19,620 | [View](./norway.md) |
-| Oman | 990 | [View](./oman.md) |
-| Pakistan | 41,864 | [View](./pakistan.md) |
+| Oman | 991 | [View](./oman.md) |
+| Pakistan | 41,863 | [View](./pakistan.md) |
 | Palau | 2 | [View](./palau.md) |
 | Palestine | 2,195 | [View](./palestine.md) |
 | Panama | 1,070 | [View](./panama.md) |
@@ -174,7 +175,7 @@ Published countries: 234
 | Qatar | 1,073 | [View](./qatar.md) |
 | Republic of the Congo | 297 | [View](./republic_of_the_congo.md) |
 | Réunion | 212 | [View](./reunion.md) |
-| Romania | 14,969 | [View](./romania.md) |
+| Romania | 14,967 | [View](./romania.md) |
 | Rwanda | 3,499 | [View](./rwanda.md) |
 | Saint Barthélemy | 1 | [View](./saint_barthelemy.md) |
 | Saint Helena, Ascension and Tristan da Cunha | 25 | [View](./saint_helena_ascension_and_tristan_da_cunha.md) |
@@ -223,7 +224,7 @@ Published countries: 234
 | Turks and Caicos Islands | 7 | [View](./turks_and_caicos_islands.md) |
 | Tuvalu | 11 | [View](./tuvalu.md) |
 | Uganda | 3,864 | [View](./uganda.md) |
-| Ukraine | 47,726 | [View](./ukraine.md) |
+| Ukraine | 47,725 | [View](./ukraine.md) |
 | United Arab Emirates | 4,208 | [View](./united_arab_emirates.md) |
 | United States Minor Outlying Islands | 0 | [View](./united_states_minor_outlying_islands.md) |
 | United States Virgin Islands | 4 | [View](./united_states_virgin_islands.md) |
@@ -239,4 +240,4 @@ Published countries: 234
 | Zambia | 1,336 | [View](./zambia.md) |
 | Zimbabwe | 1,656 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-22T18:32:05.405Z
+Generated: 2026-10-22T18:55:59.264Z

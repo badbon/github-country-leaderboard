@@ -1,6 +1,6 @@
 # Total Contributions - Malawi
 
-Generated: 2026-10-22T17:47:43.279Z
+Generated: 2026-10-22T18:42:06.030Z
 
 Users: 900
 
@@ -22,7 +22,7 @@ Users: 900
 | 14 | [Frank5ive](https://github.com/Frank5ive) | Frank Gondwe |  | FrankGondwe11 | Malawi | 3621 |
 | 15 | [petroskayange](https://github.com/petroskayange) | Petros Kayange | @Kuunika @LUKEINTERNATIONAL @EGPAFMalawiHIS @HISMalawi @DoxDevOps  |  | Malawi | 3471 |
 | 16 | [KhoTheProgrammer](https://github.com/KhoTheProgrammer) | Kondwani Padyera | Self |  | Malawi | 3240 |
-| 17 | [2KAY-kat](https://github.com/2KAY-kat) | Kelvin KAY Katoya | Zennertekh | Katoyakelvin | Blantyre, Malawi | 3172 |
-| 18 | [markulaya2](https://github.com/markulaya2) | Mark Ulaya | @creditdatamw |  | Blantyre, Malawi | 3142 |
+| 17 | [markulaya2](https://github.com/markulaya2) | Mark Ulaya | @creditdatamw |  | Blantyre, Malawi | 3142 |
+| 18 | [2KAY-kat](https://github.com/2KAY-kat) | Kelvin KAY Katoya | Zennertekh | Katoyakelvin | Blantyre, Malawi | 3123 |
 | 19 | [IsaacKalambo22](https://github.com/IsaacKalambo22) | Isaac Kalambo | @InfinityCodeMw  | IsaacKalam44251 | Lilongwe | 3097 |
 | 20 | [Valent-p](https://github.com/Valent-p) | Valentino Phiri - Programmer | Veigatec |  | Lilongwe, Malawi | 3094 |

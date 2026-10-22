@@ -1,6 +1,6 @@
 # Total Contributions - Lebanon
 
-Generated: 2026-10-22T17:45:38.075Z
+Generated: 2026-10-22T18:39:59.202Z
 
 Users: 2557
 
@@ -12,7 +12,7 @@ Users: 2557
 | 4 | [Kaakati](https://github.com/Kaakati) | Mohamad Kaakati | @manifest @barqfleet @thaat | kaakati | Beirut, Lebanon | 13134 |
 | 5 | [KhaledSaeed18](https://github.com/KhaledSaeed18) | Khaled Saeed |  | KhaleddSaeed18 | Lebanon | 12654 |
 | 6 | [hussein-turfah](https://github.com/hussein-turfah) | Hussein Turfah | Beachbeds | husseinturfah | Lebanon | 12370 |
-| 7 | [AbedAmouneh](https://github.com/AbedAmouneh) | Abed El-Fattah Amouneh | @voxire |  | Lebanon | 9741 |
+| 7 | [AbedAmouneh](https://github.com/AbedAmouneh) | Abed El-Fattah Amouneh | @voxire |  | Lebanon | 10061 |
 | 8 | [SilverLucFox](https://github.com/SilverLucFox) | Jawad Choucair | @detay-devs  @lblabs-dev @CGode-Dev  |  | lebanon | 9676 |
 | 9 | [abedshaaban](https://github.com/abedshaaban) | Abed Al Ghani Shaaban | @Poyesis | abedshaaban600 | Lebanon | 9233 |
 | 10 | [JanoTheDev](https://github.com/JanoTheDev) | Jean Haddad |  |  | Lebanon | 9150 |
@@ -21,7 +21,7 @@ Users: 2557
 | 13 | [mustafahalabi](https://github.com/mustafahalabi) | Mustafa Halabi | @Meritt-dev  |  | Lebanon | 8068 |
 | 14 | [mhdbouk](https://github.com/mhdbouk) | Mohamad Dbouk |  | mhdbouk | Beirut, Lebanon | 7397 |
 | 15 | [bwmhamad](https://github.com/bwmhamad) | Moe Saad |  |  | Beirut - Lebanon | 6851 |
-| 16 | [MohammadKanaan](https://github.com/MohammadKanaan) | Mohammad Kanaan |  |  | Lebanon | 6600 |
+| 16 | [MohammadKanaan](https://github.com/MohammadKanaan) | Mohammad Kanaan |  |  | Lebanon | 6827 |
 | 17 | [mincer-fundbot](https://github.com/mincer-fundbot) | Mincer Alaeddine | Fundbot |  | Beirut | 6452 |
 | 18 | [SyntaxError843](https://github.com/SyntaxError843) |  | @ucheed  |  | Lebanon, Beirut | 6431 |
 | 19 | [MrPancakes39](https://github.com/MrPancakes39) | Sal Hasan |  |  | Aley, Lebanon | 6170 |

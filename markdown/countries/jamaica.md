@@ -29,7 +29,7 @@ Indexed users: 1,271
 | 15 | [cogell](https://github.com/cogell) | B. Cedric Cogell | Kingston, NY | 4,636 |
 | 16 | [JCarran0](https://github.com/JCarran0) | Jared Carrano | Kingston, NY | 4,533 |
 | 17 | [emperorjm](https://github.com/emperorjm) | Adrian Thompson | Jamaica | 4,532 |
-| 18 | [javaniecampbell](https://github.com/javaniecampbell) | Javanie Campbell | Jamaica | 4,426 |
+| 18 | [javaniecampbell](https://github.com/javaniecampbell) | Javanie Campbell | Jamaica | 4,429 |
 | 19 | [kazo0](https://github.com/kazo0) | Steve Bilogan | Kingston, ON | 4,271 |
 | 20 | [capndave](https://github.com/capndave) | David Thompson | Kingston, NY | 4,249 |
 
@@ -54,7 +54,7 @@ Indexed users: 1,271
 | 15 | [markoskatsi](https://github.com/markoskatsi) | Markos Katsi | Kingston Upon Thames | 748 |
 | 16 | [kfrancis](https://github.com/kfrancis) | Kori Francis | Kingston, Ontario | 668 |
 | 17 | [Patric-1613](https://github.com/Patric-1613) | Pratikraj Pavankumar Mugade | Kingston upon thames | 654 |
-| 18 | [JonCooperWorks](https://github.com/JonCooperWorks) |  | Jamaica | 634 |
+| 18 | [JonCooperWorks](https://github.com/JonCooperWorks) |  | Jamaica | 635 |
 | 19 | [lord-dubious](https://github.com/lord-dubious) | Lord_dubious | Kingston, ON | 624 |
 | 20 | [HughScott2002](https://github.com/HughScott2002) | Hugh Scott | Kingston, Jamaica  | 616 |
 
@@ -83,4 +83,4 @@ Indexed users: 1,271
 | 19 | [aliasad059](https://github.com/aliasad059) | Ali Asad | Kingston, Ontario | 99 |
 | 20 | [andrewmaier](https://github.com/andrewmaier) | Andrew Maier | Kingston, Ontario | 95 |
 
-Generated: 2026-10-22T17:43:36.676Z
+Generated: 2026-10-22T18:38:39.067Z

@@ -1,6 +1,6 @@
 # Followers - Senegal
 
-Generated: 2026-10-22T18:02:47.914Z
+Generated: 2026-10-22T18:54:06.300Z
 
 Users: 1354
 
@@ -8,14 +8,14 @@ Users: 1354
 |---:|---|---|---|---|---|---:|
 | 1 | [ManuSquall](https://github.com/ManuSquall) | Charles Emmanuel S. Ndiaye | @A2DG-SENEGAL  | manusquall | Dakar, Senegal | 534 |
 | 2 | [ibrahima92](https://github.com/ibrahima92) | Ibrahima Ndaw |  | Ibrahima92_ | Senegal | 318 |
-| 3 | [daoodaba975](https://github.com/daoodaba975) | Daouda BA |  | daoodaba975 | Dakar, SN | 282 |
+| 3 | [daoodaba975](https://github.com/daoodaba975) | Daouda BA |  | daoodaba975 | Dakar, SN | 281 |
 | 4 | [orbitturner](https://github.com/orbitturner) | Orbit Turner | FUTURIZE WORLD | orbitturner | Dakar, Senegal | 272 |
 | 5 | [elias-ba](https://github.com/elias-ba) | Elias Waly Ba | @OpenFn | eliaswalyba | Dakar, Senegal | 233 |
 | 6 | [EpsilonCoder](https://github.com/EpsilonCoder) | Epsilon | Gaindé 2000 |  | Dakar ,Senegal | 226 |
 | 7 | [eliaswalyba](https://github.com/eliaswalyba) | Elias W. BA | GalsenAI, Air Sénégal, Coursera, Neograph | eliaswalyba | Dakar, Sénégal | 214 |
 | 8 | [PapiHack](https://github.com/PapiHack) | Meissa (Papi) Mbaye |  | the_it_dev | Dakar, Senegal | 196 |
 | 9 | [takanome-dev](https://github.com/takanome-dev) | El Hadji Malick Seck | @TenseiGroup | takanome_dev | Dakar, Senegal | 196 |
-| 10 | [MedouneSGB](https://github.com/MedouneSGB) | Médoune Siby Georges Baldé | Eyone | Medoune_SGB | Dakar | 193 |
+| 10 | [MedouneSGB](https://github.com/MedouneSGB) | Médoune Siby Georges Baldé | Eyone | Medoune_SGB | Dakar | 194 |
 | 11 | [dofbi](https://github.com/dofbi) | dofbi.eth | 01SERVICES | dofbi | Senegal | 186 |
 | 12 | [mamour-dx](https://github.com/mamour-dx) | Mamour Dieng | École Supérieure Polytechnique |  | Dakar | 179 |
 | 13 | [yayediop2](https://github.com/yayediop2) | Yaye Diop | Agiltym by H&C |  | Dakar, Sn | 175 |

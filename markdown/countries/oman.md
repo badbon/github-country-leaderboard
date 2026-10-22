@@ -1,6 +1,6 @@
 # Oman
 
-Indexed users: 990
+Indexed users: 991
 
 | Leaderboard | Link |
 |---|---|
@@ -23,7 +23,7 @@ Indexed users: 990
 | 9 | [aldhaifani](https://github.com/aldhaifani) | Tareq Al-Dhaifani | Muscat, Oman | 9,065 |
 | 10 | [iamsj7](https://github.com/iamsj7) | Shaik Jaleel | Muscat | 9,036 |
 | 11 | [shm379](https://github.com/shm379) | Hussein | Muscat | 8,678 |
-| 12 | [sanjeed5](https://github.com/sanjeed5) | Sanjeed | Bangalore / Oman  | 8,371 |
+| 12 | [sanjeed5](https://github.com/sanjeed5) | Sanjeed | Bangalore / Oman  | 8,392 |
 | 13 | [dmsherazi](https://github.com/dmsherazi) | Dost Muhammad Shah | Muscat, Oman | 7,836 |
 | 14 | [DevAseel](https://github.com/DevAseel) | Aseel Al Rawahi | Oman | 6,892 |
 | 15 | [lqji](https://github.com/lqji) | Ahmed Abdullah | Oman | 6,054 |
@@ -76,11 +76,11 @@ Indexed users: 990
 | 12 | [Fahad-Al-Maashani](https://github.com/Fahad-Al-Maashani) | Fahad Al Maashani | Salalah, Oman | 153 |
 | 13 | [Mahanmmi](https://github.com/Mahanmmi) | Mahan Zendedel DH | Muscat, Oman | 143 |
 | 14 | [sanjeed5](https://github.com/sanjeed5) | Sanjeed | Bangalore / Oman  | 132 |
-| 15 | [byteab](https://github.com/byteab) | Ehsan sarshar | Muscat Oman | 109 |
+| 15 | [byteab](https://github.com/byteab) | Ehsan sarshar | Muscat Oman | 108 |
 | 16 | [HosseinShabani](https://github.com/HosseinShabani) | Hossein Shabani | Oman | 108 |
 | 17 | [shm379](https://github.com/shm379) | Hussein | Muscat | 105 |
 | 18 | [xZAYEDx](https://github.com/xZAYEDx) | ZAYED AL-GAWI | Muscat,Oman | 105 |
 | 19 | [foxoman](https://github.com/foxoman) | Sultan Al Isaiee | Oman | 99 |
 | 20 | [3mrdev](https://github.com/3mrdev) | Amr Abd-Alkrim | Khartoum, Sudan \| Muscat, Oman | 94 |
 
-Generated: 2026-10-22T17:55:04.405Z
+Generated: 2026-10-22T18:48:56.599Z

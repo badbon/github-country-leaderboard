@@ -1,6 +1,6 @@
 # Followers - Palestine
 
-Generated: 2026-10-22T17:55:53.241Z
+Generated: 2026-10-22T18:49:15.318Z
 
 Users: 2195
 
@@ -18,7 +18,7 @@ Users: 2195
 | 10 | [hetslop](https://github.com/hetslop) | lance | bestfriends!! @bratworth @thefruitgrape @inmycomfortzone @evtjvashtsmartin @AdorableCattyy @milkiiwayz @kromakon |  | https://arab.org/click-to-help/palestine/ | 175 |
 | 11 | [Nedal-Esrar](https://github.com/Nedal-Esrar) | Nedal-Esrar Ahmad | Foothill Technology Solutions, LLC |  | Jenin, Palestine | 174 |
 | 12 | [Mohammad-Abohasan](https://github.com/Mohammad-Abohasan) | Mohammad Abohasan | @Apple |  | Jenin, Palestine | 168 |
-| 13 | [MKhasib](https://github.com/MKhasib) | Majd Khasib | Upwork |  | Ramallah,Palestine | 165 |
+| 13 | [MKhasib](https://github.com/MKhasib) | Majd Khasib | Upwork |  | Ramallah,Palestine | 166 |
 | 14 | [MrM8BRH](https://github.com/MrM8BRH) |  |  |  | Palestine | 162 |
 | 15 | [abasjr](https://github.com/abasjr) | Abas D. Baskoro | Freelance |  | Al Quds, Palestine | 153 |
 | 16 | [Bamieh](https://github.com/Bamieh) | Ahmad Bamieh | @elastic | AhmadBamieh | Palestine | 152 |

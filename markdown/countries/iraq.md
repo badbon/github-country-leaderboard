@@ -28,7 +28,7 @@ Indexed users: 2,230
 | 14 | [Aramsatar](https://github.com/Aramsatar) | Aram Satar | Erbil, Iraq | 6,771 |
 | 15 | [Hamoi1](https://github.com/Hamoi1) | Muhammad Esmael | Iraq, Sulaymaniyah, Ranya  | 6,697 |
 | 16 | [codezardasht](https://github.com/codezardasht) | Zardasht Rwandzi | Iraq/Erbil | 6,641 |
-| 17 | [5h4k4r](https://github.com/5h4k4r) | Shakar Bakr | Erbil, Iraq | 6,285 |
+| 17 | [5h4k4r](https://github.com/5h4k4r) | Shakar Bakr | Erbil, Iraq | 6,556 |
 | 18 | [NebuByte](https://github.com/NebuByte) | Ibrahim Mohammed | Baghdad | 6,246 |
 | 19 | [RezdarNajeeb](https://github.com/RezdarNajeeb) | Rezdar Najeeb | Iraq | 6,091 |
 | 20 | [s1mpLyy](https://github.com/s1mpLyy) | Hamza Kareem | Baghdad, Iraq | 6,013 |
@@ -67,9 +67,9 @@ Indexed users: 2,230
 | 3 | [muhammedessa](https://github.com/muhammedessa) | Muhammed Essa | IRAQ | 2,288 |
 | 4 | [Ha3MrX](https://github.com/Ha3MrX) | Ha3MrX | Iraq | 2,055 |
 | 5 | [Mohammadkrd1](https://github.com/Mohammadkrd1) | Mohamed Krd | Zakho, Iraq | 1,769 |
-| 6 | [engsafaaj](https://github.com/engsafaaj) | U تكنو  | Iraq | 766 |
+| 6 | [engsafaaj](https://github.com/engsafaaj) | U تكنو  | Iraq | 770 |
 | 7 | [tatsumoto-ren](https://github.com/tatsumoto-ren) | Ren Tatsumoto | Baghdad | 766 |
-| 8 | [rahman-O](https://github.com/rahman-O) | Abdalrahman M.Mohhy | Iraq | 671 |
+| 8 | [rahman-O](https://github.com/rahman-O) | Abdalrahman M.Mohhy | Iraq | 667 |
 | 9 | [PawanOsman](https://github.com/PawanOsman) | Pawan Osman | As Sulaymaniyah, Iraq | 518 |
 | 10 | [codenashwan](https://github.com/codenashwan) | Nashwan Abdullah | Iraq/Sulaymaniyah | 507 |
 | 11 | [yousifnimah](https://github.com/yousifnimah) | Yousif N. Abbas | Iraq | 452 |
@@ -83,4 +83,4 @@ Indexed users: 2,230
 | 19 | [Om4r-007](https://github.com/Om4r-007) | Omar Imad | Baghdad / Iraq | 211 |
 | 20 | [TARQkop](https://github.com/TARQkop) | TARIQ | IRAQ | 190 |
 
-Generated: 2026-10-22T17:42:07.539Z
+Generated: 2026-10-22T18:36:46.693Z

@@ -1,6 +1,6 @@
 # Followers - Haiti
 
-Generated: 2026-10-22T17:41:03.499Z
+Generated: 2026-10-22T18:35:56.989Z
 
 Users: 339
 
@@ -25,4 +25,4 @@ Users: 339
 | 17 | [jfstephane](https://github.com/jfstephane) | Jules Frantz Stephane Loubeau | none |  | Haiti | 33 |
 | 18 | [DybyTechX](https://github.com/DybyTechX) | DybyTechX | no company |  | haiti | 32 |
 | 19 | [KeitelDOG](https://github.com/KeitelDOG) | Keitel Jovin | @TransitDigitale @Megalobiz  |  | Delmas 41, Ouest, Haiti | 32 |
-| 20 | [skydevht](https://github.com/skydevht) | Holy-Elie Scaïde | Skydev |  | Port-au-prince, Haïti | 32 |
+| 20 | [skydevht](https://github.com/skydevht) | Holy-Elie Scaïde | Skydev |  | Port-au-prince, Haïti | 31 |

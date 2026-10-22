@@ -22,9 +22,9 @@ Indexed users: 7,076
 | 8 | [Gideon-Dadey](https://github.com/Gideon-Dadey) | Gideon Dadey | Accra, Ghana | 15,633 |
 | 9 | [felixyeboah](https://github.com/felixyeboah) | Felix Nana Yaw Yeboah | Accra, Ghana | 14,507 |
 | 10 | [Philinzag](https://github.com/Philinzag) | Philip A. | Ghana | 10,626 |
-| 11 | [DreKwasi](https://github.com/DreKwasi) | Andrews Boateng | Accra, Ghana | 10,142 |
-| 12 | [qbentil](https://github.com/qbentil) | Bentil Shadrack | Ghana | 9,624 |
-| 13 | [Eselase-Noble](https://github.com/Eselase-Noble) | Nobleson | Accra | 9,406 |
+| 11 | [Eselase-Noble](https://github.com/Eselase-Noble) | Nobleson | Accra | 10,581 |
+| 12 | [DreKwasi](https://github.com/DreKwasi) | Andrews Boateng | Accra, Ghana | 10,142 |
+| 13 | [qbentil](https://github.com/qbentil) | Bentil Shadrack | Ghana | 9,624 |
 | 14 | [Aliu2211](https://github.com/Aliu2211) | Aliu Tijani | Ghana | 9,365 |
 | 15 | [evansachie](https://github.com/evansachie) | Evans Acheampong | Accra, Ghana | 9,348 |
 | 16 | [rloterh](https://github.com/rloterh) | Robert Loterh | Accra Ghana | 8,556 |
@@ -42,8 +42,8 @@ Indexed users: 7,076
 | 3 | [Joeboy77](https://github.com/Joeboy77) | Joseph Acheampong | Accra, Ghana | 19,539 |
 | 4 | [danieladeabah](https://github.com/danieladeabah) | Daniel Adeabah | Takoradi, Western Region, Ghana. | 19,383 |
 | 5 | [mhiskall282](https://github.com/mhiskall282) | John Okyere | Accra Ghana | 15,193 |
-| 6 | [ghwmelite-dotcom](https://github.com/ghwmelite-dotcom) | OsbornH | GHANA | 7,240 |
-| 7 | [Eselase-Noble](https://github.com/Eselase-Noble) | Nobleson | Accra | 7,054 |
+| 6 | [Eselase-Noble](https://github.com/Eselase-Noble) | Nobleson | Accra | 7,580 |
+| 7 | [ghwmelite-dotcom](https://github.com/ghwmelite-dotcom) | OsbornH | GHANA | 7,240 |
 | 8 | [1mos-droid](https://github.com/1mos-droid) | Kumesi Moses Mawulolo | Ghana | 6,845 |
 | 9 | [wsuits6](https://github.com/wsuits6) | wsuits6 | Ghana | 5,658 |
 | 10 | [AlatiphA](https://github.com/AlatiphA) | Abdul-Latif Ahmed  | Tamale, Ghana  | 5,017 |
@@ -83,4 +83,4 @@ Indexed users: 7,076
 | 19 | [Mmabiaa](https://github.com/Mmabiaa) | Boateng Prince Agyenim | Ghana | 326 |
 | 20 | [sedegah](https://github.com/sedegah) | Kimathi  Sedegah | Ghana | 310 |
 
-Generated: 2026-10-22T17:38:12.887Z
+Generated: 2026-10-22T18:34:17.792Z

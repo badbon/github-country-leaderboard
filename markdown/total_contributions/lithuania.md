@@ -1,6 +1,6 @@
 # Total Contributions - Lithuania
 
-Generated: 2026-10-22T17:47:28.026Z
+Generated: 2026-10-22T18:40:29.717Z
 
 Users: 5363
 
@@ -22,7 +22,7 @@ Users: 5363
 | 14 | [kiprasmel](https://github.com/kiprasmel) | Kipras Melnikovas |  | kiprasmel | Lithuania | 10376 |
 | 15 | [Algiras](https://github.com/Algiras) | Algimantas K. | @wix  |  | Vilnius, Lithuania | 10351 |
 | 16 | [goleaf](https://github.com/goleaf) | Andrej Prus |  |  | Lithuania, Vilnius | 10091 |
-| 17 | [SashaSkywalker](https://github.com/SashaSkywalker) | Alexander Demeshko |  |  | Lithuania, Vilnius | 9135 |
-| 18 | [CADBIMDeveloper](https://github.com/CADBIMDeveloper) | Alexander Ignatovich |  |  | Vilnius | 9129 |
+| 17 | [CADBIMDeveloper](https://github.com/CADBIMDeveloper) | Alexander Ignatovich |  |  | Vilnius | 9263 |
+| 18 | [SashaSkywalker](https://github.com/SashaSkywalker) | Alexander Demeshko |  |  | Lithuania, Vilnius | 9135 |
 | 19 | [podo](https://github.com/podo) | Giedrius Jaloveckas |  |  | Vilnius, Lithuania | 9010 |
 | 20 | [jutaz](https://github.com/jutaz) | Justas Brazauskas | @robinpowered |  | Kaunas, Lithuania | 8824 |

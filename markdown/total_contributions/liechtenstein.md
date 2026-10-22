@@ -1,6 +1,6 @@
 # Total Contributions - Liechtenstein
 
-Generated: 2026-10-22T17:47:24.407Z
+Generated: 2026-10-22T18:40:17.942Z
 
 Users: 113
 
@@ -22,7 +22,7 @@ Users: 113
 | 14 | [archham](https://github.com/archham) | Nicolas Eberle |  |  | Liechtenstein | 461 |
 | 15 | [wol-fi](https://github.com/wol-fi) | Wolfgang Schadner | University of Liechtenstein |  | Liechtenstein | 332 |
 | 16 | [xGreeny](https://github.com/xGreeny) | Flurin |  |  | Liechtenstein | 329 |
-| 17 | [anonymouslyanonymous1](https://github.com/anonymouslyanonymous1) | Anonymously Anonymous |  |  | Liechtenstein | 313 |
-| 18 | [anondotli](https://github.com/anondotli) | anon.li |  |  | Liechtenstein | 302 |
+| 17 | [anondotli](https://github.com/anondotli) | anon.li |  |  | Liechtenstein | 316 |
+| 18 | [anonymouslyanonymous1](https://github.com/anonymouslyanonymous1) | Anonymously Anonymous |  |  | Liechtenstein | 313 |
 | 19 | [ColinFL](https://github.com/ColinFL) |  |  |  | Liechtenstein | 268 |
 | 20 | [michi-dev](https://github.com/michi-dev) | Michael Schädler |  | schaedler_michi | Liechtenstein | 171 |

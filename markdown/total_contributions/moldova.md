@@ -1,6 +1,6 @@
 # Total Contributions - Moldova
 
-Generated: 2026-10-22T17:51:54.377Z
+Generated: 2026-10-22T18:44:00.057Z
 
 Users: 1746
 
@@ -18,8 +18,8 @@ Users: 1746
 | 10 | [pv-a-ilievici](https://github.com/pv-a-ilievici) | Andrei Ilievici | @primevision-com  |  | Chisinau, Moldova | 6398 |
 | 11 | [mtkachenk0](https://github.com/mtkachenk0) | Maxim Tkachenko |  |  | Chisinau, Moldova | 6392 |
 | 12 | [stephen-golban](https://github.com/stephen-golban) | Stephen G | Syncra Studio |  | Moldova | 5977 |
-| 13 | [grigorii-horos](https://github.com/grigorii-horos) | Grigorii Horos |  |  | Republic of Moldova | 5586 |
-| 14 | [sebsti5](https://github.com/sebsti5) | Sebastian | @Tafi-Solutions |  | Moldova 🇲🇩 | 5426 |
+| 13 | [sebsti5](https://github.com/sebsti5) | Sebastian | @Tafi-Solutions |  | Moldova 🇲🇩 | 5706 |
+| 14 | [grigorii-horos](https://github.com/grigorii-horos) | Grigorii Horos |  |  | Republic of Moldova | 5586 |
 | 15 | [artickc](https://github.com/artickc) | NOXX - Commiter | iTSolution |  | Moldova, Chisinau | 5416 |
 | 16 | [batanus](https://github.com/batanus) | Dmitrii Medvedev |  |  | Chisinau, Moldova | 5313 |
 | 17 | [rvmoldova](https://github.com/rvmoldova) | Vadim Russu | @labs42io | rvmdl | Chișinău | 5250 |

@@ -1,6 +1,6 @@
 # Total Contributions - Martinique
 
-Generated: 2026-10-22T17:49:32.375Z
+Generated: 2026-10-22T18:42:42.918Z
 
 Users: 75
 
@@ -8,7 +8,7 @@ Users: 75
 |---:|---|---|---|---|---|---:|
 | 1 | [pyleglise](https://github.com/pyleglise) | Pierre-Yves Léglise | axialdata |  | Schoelcher, Martinique | 5335 |
 | 2 | [glefait](https://github.com/glefait) | Guillem Lefait | @Holimetrix @tvty-official  |  | Fort-de-France, Martinique | 5203 |
-| 3 | [diasjorge](https://github.com/diasjorge) | Jorge Dias | http://aerisnova.com | dias_jorge | Martinique | 5127 |
+| 3 | [diasjorge](https://github.com/diasjorge) | Jorge Dias | http://aerisnova.com | dias_jorge | Martinique | 5146 |
 | 4 | [GuillaumeBld](https://github.com/GuillaumeBld) | Guillaume Bolivard |  |  | Chicago / Fort-de-France | 4609 |
 | 5 | [bolom](https://github.com/bolom) | Bolo Michelin | @scionx-io | bolomichelin | Martinique | 3118 |
 | 6 | [docVoid](https://github.com/docVoid) | void216 | pngrtz |  | Martinique | 1484 |
@@ -17,7 +17,7 @@ Users: 75
 | 9 | [esrid](https://github.com/esrid) | ADS | none | as_esrid | Martinique | 938 |
 | 10 | [LePtitBiscuit](https://github.com/LePtitBiscuit) | LePtitBiscuit |  |  | Martinique | 803 |
 | 11 | [vevedh](https://github.com/vevedh) | Hervé de CHAVIGNY | @phasme |  | Martinique | 792 |
-| 12 | [ricard33](https://github.com/ricard33) | Cédric RICARD |  |  | Martinique | 498 |
+| 12 | [ricard33](https://github.com/ricard33) | Cédric RICARD |  |  | Martinique | 504 |
 | 13 | [blazux](https://github.com/blazux) | Vincent B. |  |  | Martinique | 469 |
 | 14 | [steeven-js](https://github.com/steeven-js) | steeven_js | Madin.IA |  | Martinique | 372 |
 | 15 | [b1nj](https://github.com/b1nj) | B1nj | pixellweb.com |  | Martinique | 200 |

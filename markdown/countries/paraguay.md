@@ -28,17 +28,17 @@ Indexed users: 2,013
 | 14 | [vVladyslaVv](https://github.com/vVladyslaVv) | Vladyslav Yeroma | Asuncion | 7,150 |
 | 15 | [kiquetal](https://github.com/kiquetal) | Enrique\m/Talavera | Paraguay | 6,971 |
 | 16 | [MHHukiewitz](https://github.com/MHHukiewitz) | Mike Hukiewitz | Paraguay, Cordillera | 6,711 |
-| 17 | [davicyyo](https://github.com/davicyyo) | DaViCyYo | Paraguay | 5,810 |
-| 18 | [everdaniel](https://github.com/everdaniel) | Ever Daniel Barreto | Asunción, Paraguay | 5,581 |
-| 19 | [yoryer](https://github.com/yoryer) | Jorge Noguera | Paraguay | 5,465 |
-| 20 | [aplgr](https://github.com/aplgr) | André Plöger | Paraguay | 5,210 |
+| 17 | [apojomovsky](https://github.com/apojomovsky) | Alexis Pojomovsky | Asunción - Paraguay | 6,190 |
+| 18 | [davicyyo](https://github.com/davicyyo) | DaViCyYo | Paraguay | 5,810 |
+| 19 | [everdaniel](https://github.com/everdaniel) | Ever Daniel Barreto | Asunción, Paraguay | 5,581 |
+| 20 | [yoryer](https://github.com/yoryer) | Jorge Noguera | Paraguay | 5,465 |
 
 ## Public Contributions
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [vargascarlitos](https://github.com/vargascarlitos) | Carlitos Vargas | Paraguay | 9,398 |
-| 2 | [apojomovsky](https://github.com/apojomovsky) | Alexis Pojomovsky | Asunción - Paraguay | 3,469 |
+| 2 | [apojomovsky](https://github.com/apojomovsky) | Alexis Pojomovsky | Asunción - Paraguay | 4,151 |
 | 3 | [kiquetal](https://github.com/kiquetal) | Enrique\m/Talavera | Paraguay | 3,421 |
 | 4 | [eeeds](https://github.com/eeeds) | Esteban Encina | Paraguay | 2,921 |
 | 5 | [skyvanguard](https://github.com/skyvanguard) |  | Paraguay | 2,364 |
@@ -83,4 +83,4 @@ Indexed users: 2,013
 | 19 | [metakeule](https://github.com/metakeule) | metakeule | Asunción / Paraguay | 109 |
 | 20 | [replay](https://github.com/replay) | Mauro Stettler | Asuncion, Paraguay | 105 |
 
-Generated: 2026-10-22T17:56:33.416Z
+Generated: 2026-10-22T18:49:48.715Z

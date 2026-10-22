@@ -1,6 +1,6 @@
 # Total Contributions - Paraguay
 
-Generated: 2026-10-22T17:56:33.416Z
+Generated: 2026-10-22T18:49:48.715Z
 
 Users: 2013
 
@@ -22,7 +22,7 @@ Users: 2013
 | 14 | [vVladyslaVv](https://github.com/vVladyslaVv) | Vladyslav Yeroma | Newly Booked |  | Asuncion | 7150 |
 | 15 | [kiquetal](https://github.com/kiquetal) | Enrique\m/Talavera | <) |  | Paraguay | 6971 |
 | 16 | [MHHukiewitz](https://github.com/MHHukiewitz) | Mike Hukiewitz | YourTrading.ai GbR |  | Paraguay, Cordillera | 6711 |
-| 17 | [davicyyo](https://github.com/davicyyo) | DaViCyYo | HeadArrow | davicyyoYT | Paraguay | 5810 |
-| 18 | [everdaniel](https://github.com/everdaniel) | Ever Daniel Barreto | Borealis |  | Asunción, Paraguay | 5581 |
-| 19 | [yoryer](https://github.com/yoryer) | Jorge Noguera |  | yoryer | Paraguay | 5465 |
-| 20 | [aplgr](https://github.com/aplgr) | André Plöger |  |  | Paraguay | 5210 |
+| 17 | [apojomovsky](https://github.com/apojomovsky) | Alexis Pojomovsky |  |  | Asunción - Paraguay | 6190 |
+| 18 | [davicyyo](https://github.com/davicyyo) | DaViCyYo | HeadArrow | davicyyoYT | Paraguay | 5810 |
+| 19 | [everdaniel](https://github.com/everdaniel) | Ever Daniel Barreto | Borealis |  | Asunción, Paraguay | 5581 |
+| 20 | [yoryer](https://github.com/yoryer) | Jorge Noguera |  | yoryer | Paraguay | 5465 |

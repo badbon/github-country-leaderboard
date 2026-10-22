@@ -12,9 +12,9 @@ Indexed users: 296
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [NiuPay-Jason](https://github.com/NiuPay-Jason) | Jaye | Papua New Guinea | 18,867 |
+| 1 | [NiuPay-Jason](https://github.com/NiuPay-Jason) | Jaye | Papua New Guinea | 19,551 |
 | 2 | [kirioh](https://github.com/kirioh) | Cieran Kelly | Port Moresby | 13,504 |
-| 3 | [Emmanue707](https://github.com/Emmanue707) | Emmanuel Kokele | Papua New Guinea | 10,544 |
+| 3 | [Emmanue707](https://github.com/Emmanue707) | Emmanuel Kokele | Papua New Guinea | 10,557 |
 | 4 | [BruinGrowly](https://github.com/BruinGrowly) | Wellington Taureka | Port Moresby, Papua New Guinea | 4,413 |
 | 5 | [myitsolutionspg](https://github.com/myitsolutionspg) | Melky Warinak | Port Moresby | 3,114 |
 | 6 | [n30dyn4m1c](https://github.com/n30dyn4m1c) | Neo Malesa | Port Moresby, Papua New Guinea | 3,085 |
@@ -28,8 +28,8 @@ Indexed users: 296
 | 14 | [chrisaugu](https://github.com/chrisaugu) | Christian Augustyn | Madang, Papua New Guinea | 766 |
 | 15 | [jebudo](https://github.com/jebudo) | Jesse Biribudo | Port Moresby, Papua New Guinea | 557 |
 | 16 | [TMJ-24](https://github.com/TMJ-24) | tmj | Port Moresby | 452 |
-| 17 | [jeremykes](https://github.com/jeremykes) | Jeremy Kes Palme  | Papua New Guinea | 370 |
-| 18 | [rudoq007](https://github.com/rudoq007) | WanixRSGIS | Papua New Guinea | 351 |
+| 17 | [rudoq007](https://github.com/rudoq007) | WanixRSGIS | Papua New Guinea | 382 |
+| 18 | [jeremykes](https://github.com/jeremykes) | Jeremy Kes Palme  | Papua New Guinea | 370 |
 | 19 | [mrwicktheprogrammer](https://github.com/mrwicktheprogrammer) | Jonathan Kamalan | Mt Hagen, Western Highlands Province, Papua New Guinea | 309 |
 | 20 | [hoiregeno](https://github.com/hoiregeno) | Geno Hoire | Port Moresby, Papua New Guinea | 245 |
 
@@ -43,7 +43,7 @@ Indexed users: 296
 | 4 | [jm0535](https://github.com/jm0535) | Jimmy Moses | Papua New Guinea | 824 |
 | 5 | [BruinGrowly](https://github.com/BruinGrowly) | Wellington Taureka | Port Moresby, Papua New Guinea | 540 |
 | 6 | [TMJ-24](https://github.com/TMJ-24) | tmj | Port Moresby | 452 |
-| 7 | [rudoq007](https://github.com/rudoq007) | WanixRSGIS | Papua New Guinea | 351 |
+| 7 | [rudoq007](https://github.com/rudoq007) | WanixRSGIS | Papua New Guinea | 382 |
 | 8 | [alefsolutions](https://github.com/alefsolutions) | Louis Ronald | Port Moresby | 280 |
 | 9 | [hoiregeno](https://github.com/hoiregeno) | Geno Hoire | Port Moresby, Papua New Guinea | 245 |
 | 10 | [digi4arch424](https://github.com/digi4arch424) | DigiArch 424 | Port Moresby | 242 |
@@ -53,7 +53,7 @@ Indexed users: 296
 | 14 | [EzraMulaga](https://github.com/EzraMulaga) | Ezra Mulaga | Papua New Guinea | 216 |
 | 15 | [Sethsam675](https://github.com/Sethsam675) | Seth Sam | Port Moresby, Papua New Guinea | 198 |
 | 16 | [chrisaugu](https://github.com/chrisaugu) | Christian Augustyn | Madang, Papua New Guinea | 154 |
-| 17 | [Valdaz007](https://github.com/Valdaz007) | Victor Volsavai | Port Moresby, Papua New Guinea | 144 |
+| 17 | [Valdaz007](https://github.com/Valdaz007) | Victor Volsavai | Port Moresby, Papua New Guinea | 141 |
 | 18 | [kiufungeon](https://github.com/kiufungeon) | Jenny Carter | Walkerstad, Papua New Guinea | 132 |
 | 19 | [Amesi](https://github.com/Amesi) | Victor Temokang | Papua New Guinea | 117 |
 | 20 | [glenhayoge](https://github.com/glenhayoge) | Glen G Hayoge | Papua New Guinea | 115 |
@@ -76,11 +76,11 @@ Indexed users: 296
 | 12 | [sylvery](https://github.com/sylvery) | Sylver Yagi | Papua New Guinea | 13 |
 | 13 | [gwarvi](https://github.com/gwarvi) | Gordon Warvi | Port Moresby, Papua New Guinea | 12 |
 | 14 | [ephil2025](https://github.com/ephil2025) | EPHIL | Papua New Guinea | 11 |
-| 15 | [lordgabriel98](https://github.com/lordgabriel98) | Gabriel Baje | Port Moresby, Papua New Guinea | 10 |
+| 15 | [lordgabriel98](https://github.com/lordgabriel98) | Gabriel Baje | Port Moresby, Papua New Guinea | 11 |
 | 16 | [jtuckayo](https://github.com/jtuckayo) | Julius Tuckayo | Port Morseby, Papua New Guinea | 9 |
 | 17 | [wilfred-wulbou](https://github.com/wilfred-wulbou) | Wilfred Wulbou | Papua New Guinea | 9 |
 | 18 | [glenhayoge](https://github.com/glenhayoge) | Glen G Hayoge | Papua New Guinea | 8 |
 | 19 | [jm0535](https://github.com/jm0535) | Jimmy Moses | Papua New Guinea | 8 |
 | 20 | [loiwai](https://github.com/loiwai) | Loi Wai | Papua New Guinea | 8 |
 
-Generated: 2026-10-22T17:56:04.345Z
+Generated: 2026-10-22T18:49:43.870Z

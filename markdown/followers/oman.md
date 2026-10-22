@@ -1,8 +1,8 @@
 # Followers - Oman
 
-Generated: 2026-10-22T17:55:04.405Z
+Generated: 2026-10-22T18:48:56.599Z
 
-Users: 990
+Users: 991
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -20,7 +20,7 @@ Users: 990
 | 12 | [Fahad-Al-Maashani](https://github.com/Fahad-Al-Maashani) | Fahad Al Maashani |  |  | Salalah, Oman | 153 |
 | 13 | [Mahanmmi](https://github.com/Mahanmmi) | Mahan Zendedel DH | opencomply.io |  | Muscat, Oman | 143 |
 | 14 | [sanjeed5](https://github.com/sanjeed5) | Sanjeed |  | sanjeed_i | Bangalore / Oman  | 132 |
-| 15 | [byteab](https://github.com/byteab) | Ehsan sarshar | Send | byteab | Muscat Oman | 109 |
+| 15 | [byteab](https://github.com/byteab) | Ehsan sarshar | Send | byteab | Muscat Oman | 108 |
 | 16 | [HosseinShabani](https://github.com/HosseinShabani) | Hossein Shabani | XQuad | HosseinH3n | Oman | 108 |
 | 17 | [shm379](https://github.com/shm379) | Hussein | MrChatGPT |  | Muscat | 105 |
 | 18 | [xZAYEDx](https://github.com/xZAYEDx) | ZAYED AL-GAWI |  | DrCyborg | Muscat,Oman | 105 |

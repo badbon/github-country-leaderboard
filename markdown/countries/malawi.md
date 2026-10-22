@@ -28,8 +28,8 @@ Indexed users: 900
 | 14 | [Frank5ive](https://github.com/Frank5ive) | Frank Gondwe | Malawi | 3,621 |
 | 15 | [petroskayange](https://github.com/petroskayange) | Petros Kayange | Malawi | 3,471 |
 | 16 | [KhoTheProgrammer](https://github.com/KhoTheProgrammer) | Kondwani Padyera | Malawi | 3,240 |
-| 17 | [2KAY-kat](https://github.com/2KAY-kat) | Kelvin KAY Katoya | Blantyre, Malawi | 3,172 |
-| 18 | [markulaya2](https://github.com/markulaya2) | Mark Ulaya | Blantyre, Malawi | 3,142 |
+| 17 | [markulaya2](https://github.com/markulaya2) | Mark Ulaya | Blantyre, Malawi | 3,142 |
+| 18 | [2KAY-kat](https://github.com/2KAY-kat) | Kelvin KAY Katoya | Blantyre, Malawi | 3,123 |
 | 19 | [IsaacKalambo22](https://github.com/IsaacKalambo22) | Isaac Kalambo | Lilongwe | 3,097 |
 | 20 | [Valent-p](https://github.com/Valent-p) | Valentino Phiri - Programmer | Lilongwe, Malawi | 3,094 |
 
@@ -55,7 +55,7 @@ Indexed users: 900
 | 16 | [hopgausi](https://github.com/hopgausi) | Hopson Gausi | Malawi | 485 |
 | 17 | [TgkCapture](https://github.com/TgkCapture) | tgkcapture | Blantyre, Malawi. | 485 |
 | 18 | [codaMW](https://github.com/codaMW) | codaMW | Lilongwe, Malawi | 476 |
-| 19 | [wotcheni21](https://github.com/wotcheni21) | Joseph Witman Wotcheni | Malawi | 476 |
+| 19 | [wotcheni21](https://github.com/wotcheni21) | Joseph Witman Wotcheni | Malawi | 475 |
 | 20 | [Tmkandawire](https://github.com/Tmkandawire) | Tawanda Mkandawire | Malawi | 445 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 900
 | 19 | [RodgerCodes](https://github.com/RodgerCodes) | Rodger Kumwanje | Malawi | 132 |
 | 20 | [g1ftmkyelu](https://github.com/g1ftmkyelu) | codemaestro🚀 | 🇲🇼 Malawi | 130 |
 
-Generated: 2026-10-22T17:47:43.279Z
+Generated: 2026-10-22T18:42:06.030Z

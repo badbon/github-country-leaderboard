@@ -13,13 +13,13 @@ Indexed users: 142
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [AlexRLG98](https://github.com/AlexRLG98) | Alex_RLG | Monaco | 7,545 |
-| 2 | [DamienMonchaty](https://github.com/DamienMonchaty) | Damien Monchaty | Monaco | 6,040 |
+| 2 | [DamienMonchaty](https://github.com/DamienMonchaty) | Damien Monchaty | Monaco | 6,041 |
 | 3 | [laurentqro](https://github.com/laurentqro) | Laurent Curau | Monaco | 5,039 |
 | 4 | [LovelessCodes](https://github.com/LovelessCodes) |  | Monaco | 3,761 |
 | 5 | [KristofM854](https://github.com/KristofM854) | Kristof Moeller | Monaco | 1,926 |
-| 6 | [silvainfm](https://github.com/silvainfm) | François-Marie Brych | Nashville & Monaco | 1,728 |
-| 7 | [digitalonyx](https://github.com/digitalonyx) | DigitalOnyx | Monaco | 1,255 |
-| 8 | [matteodevenuto](https://github.com/matteodevenuto) | Matteo De Venuto | Monaco | 1,135 |
+| 6 | [silvainfm](https://github.com/silvainfm) | François-Marie Brych | Nashville & Monaco | 1,735 |
+| 7 | [digitalonyx](https://github.com/digitalonyx) | DigitalOnyx | Monaco | 1,258 |
+| 8 | [matteodevenuto](https://github.com/matteodevenuto) | Matteo De Venuto | Monaco | 1,137 |
 | 9 | [NicoBocq](https://github.com/NicoBocq) | Nicolas Bocquet | Marseille / Monaco | 949 |
 | 10 | [jz222](https://github.com/jz222) | Timo Zimmermann | Monte-Carlo, Monaco | 796 |
 | 11 | [tatianamc](https://github.com/tatianamc) | Tatiana | Monaco | 783 |
@@ -66,7 +66,7 @@ Indexed users: 142
 | 2 | [jz222](https://github.com/jz222) | Timo Zimmermann | Monte-Carlo, Monaco | 96 |
 | 3 | [laurentqro](https://github.com/laurentqro) | Laurent Curau | Monaco | 39 |
 | 4 | [Akira98000](https://github.com/Akira98000) | Santhakumaran Akira | Monaco  | 38 |
-| 5 | [DamienMonchaty](https://github.com/DamienMonchaty) | Damien Monchaty | Monaco | 36 |
+| 5 | [DamienMonchaty](https://github.com/DamienMonchaty) | Damien Monchaty | Monaco | 37 |
 | 6 | [vjandrea](https://github.com/vjandrea) | Andrea Bergamasco | Monaco | 36 |
 | 7 | [zertawz](https://github.com/zertawz) | Jean-Christophe BURNOT | MONACO / LYON / LAUSANNE | 30 |
 | 8 | [jmbertin](https://github.com/jmbertin) | Jean-Michel Bertin | Monaco | 24 |
@@ -83,4 +83,4 @@ Indexed users: 142
 | 19 | [coachklng12](https://github.com/coachklng12) |  | Monaco | 14 |
 | 20 | [co-stig](https://github.com/co-stig) | Constantine | Monaco | 13 |
 
-Generated: 2026-10-22T17:51:57.864Z
+Generated: 2026-10-22T18:44:03.524Z

@@ -24,8 +24,8 @@ Indexed users: 1,746
 | 10 | [pv-a-ilievici](https://github.com/pv-a-ilievici) | Andrei Ilievici | Chisinau, Moldova | 6,398 |
 | 11 | [mtkachenk0](https://github.com/mtkachenk0) | Maxim Tkachenko | Chisinau, Moldova | 6,392 |
 | 12 | [stephen-golban](https://github.com/stephen-golban) | Stephen G | Moldova | 5,977 |
-| 13 | [grigorii-horos](https://github.com/grigorii-horos) | Grigorii Horos | Republic of Moldova | 5,586 |
-| 14 | [sebsti5](https://github.com/sebsti5) | Sebastian | Moldova 🇲🇩 | 5,426 |
+| 13 | [sebsti5](https://github.com/sebsti5) | Sebastian | Moldova 🇲🇩 | 5,706 |
+| 14 | [grigorii-horos](https://github.com/grigorii-horos) | Grigorii Horos | Republic of Moldova | 5,586 |
 | 15 | [artickc](https://github.com/artickc) | NOXX - Commiter | Moldova, Chisinau | 5,416 |
 | 16 | [batanus](https://github.com/batanus) | Dmitrii Medvedev | Chisinau, Moldova | 5,313 |
 | 17 | [rvmoldova](https://github.com/rvmoldova) | Vadim Russu | Chișinău | 5,250 |
@@ -83,4 +83,4 @@ Indexed users: 1,746
 | 19 | [vgaidarji](https://github.com/vgaidarji) | Veaceslav Gaidarji | Moldova | 114 |
 | 20 | [Ernest96](https://github.com/Ernest96) | Ernest | Chisinau Moldova | 107 |
 
-Generated: 2026-10-22T17:51:54.377Z
+Generated: 2026-10-22T18:44:00.057Z

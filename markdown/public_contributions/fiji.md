@@ -1,6 +1,6 @@
 # Public Contributions - Fiji
 
-Generated: 2026-10-22T17:36:15.110Z
+Generated: 2026-10-22T18:32:55.437Z
 
 Users: 325
 
@@ -24,5 +24,5 @@ Users: 325
 | 16 | [Neikumata](https://github.com/Neikumata) | yangyeqin | Zenaida Orn Company |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 121 |
 | 17 | [NotPranshu](https://github.com/NotPranshu) | Pranshu Ayush | The University of Fiji |  | Fiji | 108 |
 | 18 | [Arishneel-Narayan](https://github.com/Arishneel-Narayan) | Arishneel Sagar Narayan | FMF Foods Ltd |  | Fiji  | 104 |
-| 19 | [mucsbr](https://github.com/mucsbr) | beingS | Zenaida |  | 0558 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 98 |
-| 20 | [phpoh](https://github.com/phpoh) | phpoh | Zenaida Orn Company |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 90 |
+| 19 | [alvinkumar18](https://github.com/alvinkumar18) | Alvin Kumar | The University of the South Pacific |  | Fiji | 100 |
+| 20 | [mucsbr](https://github.com/mucsbr) | beingS | Zenaida |  | 0558 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 98 |

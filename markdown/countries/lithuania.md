@@ -28,8 +28,8 @@ Indexed users: 5,363
 | 14 | [kiprasmel](https://github.com/kiprasmel) | Kipras Melnikovas | Lithuania | 10,376 |
 | 15 | [Algiras](https://github.com/Algiras) | Algimantas K. | Vilnius, Lithuania | 10,351 |
 | 16 | [goleaf](https://github.com/goleaf) | Andrej Prus | Lithuania, Vilnius | 10,091 |
-| 17 | [SashaSkywalker](https://github.com/SashaSkywalker) | Alexander Demeshko | Lithuania, Vilnius | 9,135 |
-| 18 | [CADBIMDeveloper](https://github.com/CADBIMDeveloper) | Alexander Ignatovich | Vilnius | 9,129 |
+| 17 | [CADBIMDeveloper](https://github.com/CADBIMDeveloper) | Alexander Ignatovich | Vilnius | 9,263 |
+| 18 | [SashaSkywalker](https://github.com/SashaSkywalker) | Alexander Demeshko | Lithuania, Vilnius | 9,135 |
 | 19 | [podo](https://github.com/podo) | Giedrius Jaloveckas | Vilnius, Lithuania | 9,010 |
 | 20 | [jutaz](https://github.com/jutaz) | Justas Brazauskas | Kaunas, Lithuania | 8,824 |
 
@@ -83,4 +83,4 @@ Indexed users: 5,363
 | 19 | [Miceuz](https://github.com/Miceuz) | Albertas Mickėnas | Vilnius, Lithuania | 190 |
 | 20 | [mmozuras](https://github.com/mmozuras) | Mindaugas Mozūras | Vilnius, Lithuania | 183 |
 
-Generated: 2026-10-22T17:47:28.026Z
+Generated: 2026-10-22T18:40:29.717Z

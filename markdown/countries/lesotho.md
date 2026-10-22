@@ -28,7 +28,7 @@ Indexed users: 160
 | 14 | [Thato-Motseki](https://github.com/Thato-Motseki) | Thato Motseki | Lesotho, Maseru | 361 |
 | 15 | [khauta](https://github.com/khauta) | Khauta Maliehe | Maseru, Lesotho | 344 |
 | 16 | [Matela-cyber](https://github.com/Matela-cyber) | Vicent Matela | Lesotho | 323 |
-| 17 | [tefol-hub](https://github.com/tefol-hub) | Tefo Leche | Lesotho | 295 |
+| 17 | [tefol-hub](https://github.com/tefol-hub) | Tefo Leche | Lesotho | 296 |
 | 18 | [lebusa](https://github.com/lebusa) | Motebang | Maseru, Lesotho | 282 |
 | 19 | [setsoto](https://github.com/setsoto) | Setsoto | Lesotho | 262 |
 | 20 | [kananelotseisa](https://github.com/kananelotseisa) | Kananelo Ts'eisa | Lesotho | 225 |
@@ -40,7 +40,7 @@ Indexed users: 160
 | 1 | [ntholi](https://github.com/ntholi) | Ntholi Nkhatho | Maseru | 484 |
 | 2 | [Matela-cyber](https://github.com/Matela-cyber) | Vicent Matela | Lesotho | 313 |
 | 3 | [LNkholise](https://github.com/LNkholise) | Leonard Nkholise | Maseru, Lesotho | 309 |
-| 4 | [tefol-hub](https://github.com/tefol-hub) | Tefo Leche | Lesotho | 238 |
+| 4 | [tefol-hub](https://github.com/tefol-hub) | Tefo Leche | Lesotho | 239 |
 | 5 | [Thato-Motseki](https://github.com/Thato-Motseki) | Thato Motseki | Lesotho, Maseru | 212 |
 | 6 | [dev-penniel](https://github.com/dev-penniel) | Penniel Mothae | Lesotho, maseru | 187 |
 | 7 | [LomNtetha](https://github.com/LomNtetha) | Lumkile Ntetha | Maseru | 182 |
@@ -83,4 +83,4 @@ Indexed users: 160
 | 19 | [lotesm](https://github.com/lotesm) | Lotes Molapo | Maseru, Lesotho | 13 |
 | 20 | [entsoereng](https://github.com/entsoereng) | Mokonyana Ntsoereng | Lesotho | 12 |
 
-Generated: 2026-10-22T17:45:41.352Z
+Generated: 2026-10-22T18:40:02.673Z

@@ -1,6 +1,6 @@
 # Total Contributions - Ghana
 
-Generated: 2026-10-22T17:38:12.887Z
+Generated: 2026-10-22T18:34:17.792Z
 
 Users: 7076
 
@@ -16,9 +16,9 @@ Users: 7076
 | 8 | [Gideon-Dadey](https://github.com/Gideon-Dadey) | Gideon Dadey | PragmaHealth LLC | cannymirah | Accra, Ghana | 15633 |
 | 9 | [felixyeboah](https://github.com/felixyeboah) | Felix Nana Yaw Yeboah | Complete Farmer LLC | sudocode_ | Accra, Ghana | 14507 |
 | 10 | [Philinzag](https://github.com/Philinzag) | Philip A. | SOFNED |  | Ghana | 10626 |
-| 11 | [DreKwasi](https://github.com/DreKwasi) | Andrews Boateng | Piply |  | Accra, Ghana | 10142 |
-| 12 | [qbentil](https://github.com/qbentil) | Bentil Shadrack |  | themanbentil | Ghana | 9624 |
-| 13 | [Eselase-Noble](https://github.com/Eselase-Noble) | Nobleson | AfricodeLab | brandedhustler | Accra | 9406 |
+| 11 | [Eselase-Noble](https://github.com/Eselase-Noble) | Nobleson | AfricodeLab | brandedhustler | Accra | 10581 |
+| 12 | [DreKwasi](https://github.com/DreKwasi) | Andrews Boateng | Piply |  | Accra, Ghana | 10142 |
+| 13 | [qbentil](https://github.com/qbentil) | Bentil Shadrack |  | themanbentil | Ghana | 9624 |
 | 14 | [Aliu2211](https://github.com/Aliu2211) | Aliu Tijani |  | AliuTijani21 | Ghana | 9365 |
 | 15 | [evansachie](https://github.com/evansachie) | Evans Acheampong |  |  | Accra, Ghana | 9348 |
 | 16 | [rloterh](https://github.com/rloterh) | Robert Loterh | Data Analyst/ Full-stack Engineer | Rloterh | Accra Ghana | 8556 |
