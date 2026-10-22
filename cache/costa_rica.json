@@ -43104,18 +43104,6 @@
     "createdAt": "2017-01-11T17:33:34Z"
   },
   {
-    "login": "jddelgado95",
-    "name": "Jdiego Delgado ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/25803602?s=72&u=13deeb405049abeb2c4cf0aa411cd777550342d4&v=4",
-    "location": "San Jose, Costa Rica",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 25,
-    "createdAt": "2017-02-15T20:21:32Z"
-  },
-  {
     "login": "dlagunanlx",
     "name": "Daniel Laguna",
     "avatarUrl": "https://avatars.githubusercontent.com/u/29609363?s=72&u=3ce4ed15ffea95cff5c356a405e3d9aff1bebaff&v=4",
@@ -43159,8 +43147,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 79,
-    "publicContributions": 20,
+    "privateContributions": 94,
+    "publicContributions": 0,
     "createdAt": "2017-06-09T14:20:58Z"
   },
   {
@@ -43242,9 +43230,9 @@
     "location": "Costa Rica",
     "company": "@databricks",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 13,
     "createdAt": "2017-02-08T17:18:59Z"
   },
   {
@@ -43255,8 +43243,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 103,
-    "publicContributions": 7,
+    "privateContributions": 286,
+    "publicContributions": 0,
     "createdAt": "2017-05-27T22:20:13Z"
   },
   {
@@ -43292,7 +43280,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 36,
     "createdAt": "2017-09-17T01:44:34Z"
   },
   {
@@ -43316,7 +43304,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 0,
     "createdAt": "2017-04-27T20:06:27Z"
   },
   {
@@ -43327,7 +43315,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 100,
+    "privateContributions": 65,
     "publicContributions": 0,
     "createdAt": "2017-02-16T21:51:26Z"
   },

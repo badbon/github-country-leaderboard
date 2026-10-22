@@ -3392,7 +3392,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2024-10-29T16:36:38Z"
   },
   {
@@ -3440,7 +3440,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 28,
     "createdAt": "2024-03-22T20:00:09Z"
   },
   {
@@ -3454,18 +3454,6 @@
     "privateContributions": 0,
     "publicContributions": 53,
     "createdAt": "2024-05-22T17:12:48Z"
-  },
-  {
-    "login": "Criscarr26",
-    "name": "Cristian Carrera",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/177795892?s=72&u=fe60e94e021453f5bc28df790a0d9c97e32fc480&v=4",
-    "location": "Santo Domingo, Republica Dominicana",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 282,
-    "createdAt": "2024-08-07T23:19:50Z"
   },
   {
     "login": "GeorgeM0ntero",
@@ -3518,13 +3506,13 @@
   {
     "login": "GuillermoEstefanPuello",
     "name": "Guillermo Estefan Puello",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/175227992?s=72&u=a3cf76fb360f1787ce07f790d84f4a1741fcb203&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/175227992?s=72&u=5228df3a534a0c7720bfb54103431106d9bf1280&v=4",
     "location": "Santo Domingo RD.",
     "company": "https://www.linkedin.com/company/starboundsrl/?viewAsMember=true",
     "twitterUsername": "GuillermoPuello",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 66,
+    "publicContributions": 72,
     "createdAt": "2024-07-10T14:04:20Z"
   },
   {
@@ -3546,7 +3534,7 @@
     "location": "Dominican republic",
     "company": "Jsoftsolutiom",
     "twitterUsername": "",
-    "followers": 940,
+    "followers": 944,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-10-14T01:24:15Z"
@@ -3570,9 +3558,9 @@
     "location": "Dominican Republic ",
     "company": "@Urpsoft ",
     "twitterUsername": "",
-    "followers": 50,
-    "privateContributions": 8301,
-    "publicContributions": 306,
+    "followers": 49,
+    "privateContributions": 8898,
+    "publicContributions": 305,
     "createdAt": "2023-05-16T15:14:50Z"
   },
   {
@@ -3582,9 +3570,9 @@
     "location": "Barahona, Dominican Republic",
     "company": "BHD",
     "twitterUsername": "",
-    "followers": 45,
+    "followers": 47,
     "privateContributions": 0,
-    "publicContributions": 302,
+    "publicContributions": 321,
     "createdAt": "2023-12-13T13:03:59Z"
   },
   {
@@ -3594,9 +3582,9 @@
     "location": "Santo Domingo, Dominican Republic",
     "company": "",
     "twitterUsername": "",
-    "followers": 41,
-    "privateContributions": 596,
-    "publicContributions": 761,
+    "followers": 39,
+    "privateContributions": 464,
+    "publicContributions": 501,
     "createdAt": "2023-03-05T15:59:15Z"
   },
   {

@@ -43003,7 +43003,7 @@
     "company": "@omnicode-hr ",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 203,
+    "privateContributions": 333,
     "publicContributions": 2,
     "createdAt": "2015-12-20T14:06:11Z"
   },
@@ -43050,9 +43050,9 @@
     "location": "Zagreb, Croatia",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 523,
-    "publicContributions": 362,
+    "followers": 3,
+    "privateContributions": 683,
+    "publicContributions": 313,
     "createdAt": "2015-03-04T14:24:09Z"
   },
   {
@@ -43063,8 +43063,8 @@
     "company": "@Fonoa-Tech ",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 781,
-    "publicContributions": 26,
+    "privateContributions": 880,
+    "publicContributions": 27,
     "createdAt": "2015-03-05T19:53:18Z"
   },
   {
@@ -43076,7 +43076,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 15,
     "createdAt": "2015-02-05T13:00:33Z"
   },
   {
@@ -43123,8 +43123,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 377,
-    "publicContributions": 24,
+    "privateContributions": 325,
+    "publicContributions": 15,
     "createdAt": "2015-03-13T16:28:01Z"
   },
   {
@@ -43146,8 +43146,8 @@
     "location": "Zagreb, Croatia",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 35,
+    "followers": 3,
+    "privateContributions": 38,
     "publicContributions": 4,
     "createdAt": "2015-10-09T22:29:36Z"
   },
@@ -43192,11 +43192,11 @@
     "name": "Domagoj Franc",
     "avatarUrl": "https://avatars.githubusercontent.com/u/14295077?s=72&u=9ed2906373dcb2a926142f0981d60deb898e297d&v=4",
     "location": "Zagreb, Croatia",
-    "company": "",
-    "twitterUsername": "",
+    "company": "Upstream",
+    "twitterUsername": "DomagojFranc",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 22,
+    "privateContributions": 13614,
+    "publicContributions": 23,
     "createdAt": "2015-09-15T14:03:37Z"
   },
   {
