@@ -43544,7 +43544,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 10,
     "createdAt": "2021-02-06T10:48:14Z"
   },
   {
@@ -43554,7 +43554,7 @@
     "location": "Zurich, Zurich, Switzerland",
     "company": "Turing",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-03-18T23:00:36Z"
@@ -43608,18 +43608,6 @@
     "createdAt": "2021-06-08T15:20:04Z"
   },
   {
-    "login": "alexmsrh",
-    "name": "Alexandre Misrahi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/78612777?s=72&v=4",
-    "location": "Lausanne, Switzerland",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2021-02-05T17:14:45Z"
-  },
-  {
     "login": "ox-dl",
     "name": "Damien Leymonerie",
     "avatarUrl": "https://avatars.githubusercontent.com/u/80861810?s=72&u=4407ea16480f762c5ee659626de74aa6ca3a9826&v=4",
@@ -43628,7 +43616,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 11,
     "createdAt": "2021-03-17T23:40:32Z"
   },
   {
@@ -43638,9 +43626,9 @@
     "location": "Switzerland",
     "company": "HES-SO",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 65,
-    "publicContributions": 48,
+    "followers": 3,
+    "privateContributions": 47,
+    "publicContributions": 73,
     "createdAt": "2021-01-07T08:51:01Z"
   },
   {
@@ -43676,7 +43664,7 @@
     "twitterUsername": "GHermanson_",
     "followers": 2,
     "privateContributions": 4,
-    "publicContributions": 15,
+    "publicContributions": 12,
     "createdAt": "2021-03-02T16:59:15Z"
   },
   {
@@ -43698,7 +43686,7 @@
     "location": "Lausanne, Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 68,
     "createdAt": "2021-06-02T18:48:34Z"
@@ -43712,7 +43700,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 184,
+    "publicContributions": 109,
     "createdAt": "2021-02-15T17:36:33Z"
   },
   {
@@ -43735,7 +43723,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1,
+    "privateContributions": 119,
     "publicContributions": 4,
     "createdAt": "2021-02-03T21:04:35Z"
   },
@@ -43760,7 +43748,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 16,
     "createdAt": "2021-05-10T13:25:15Z"
   },
   {
