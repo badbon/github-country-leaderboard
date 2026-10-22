@@ -1,6 +1,6 @@
 # Total Contributions - Slovakia
 
-Generated: 2026-10-22T13:32:25.109Z
+Generated: 2026-10-22T15:08:34.524Z
 
 Users: 4657
 
@@ -18,11 +18,11 @@ Users: 4657
 | 10 | [potyl](https://github.com/potyl) | Emmanuel Rodriguez | Cloudbeds |  | Bratislava, Slovakia | 10414 |
 | 11 | [michaljurecko](https://github.com/michaljurecko) | Michal Jurečko |  |  | Slovakia | 10141 |
 | 12 | [lubomir-dlhy](https://github.com/lubomir-dlhy) | Ľubomír Dlhý | @GoodRequest  |  | Slovakia | 9998 |
-| 13 | [thecubbe](https://github.com/thecubbe) | TheCubbe |  |  | Slovakia | 9956 |
-| 14 | [dimaver6work](https://github.com/dimaver6work) | Dmytro |  |  | Bratislava, Slovakia | 9941 |
-| 15 | [drepkovsky](https://github.com/drepkovsky) | Dominik Repkovský | @questpie | drepkovsky | Slovakia | 9931 |
-| 16 | [Kenessy](https://github.com/Kenessy) | Daniel Kenessy | VRAXION |  | Slovakia | 9652 |
-| 17 | [crnkjck](https://github.com/crnkjck) | Ján Kľuka | Comenius University Bratislava |  | Bratislava, Slovakia | 9637 |
-| 18 | [VladimirTomko](https://github.com/VladimirTomko) | Vladimír Tomko | BeCode s.r.o.  |  | Bratislava, Slovakia | 9429 |
-| 19 | [filippofilip95](https://github.com/filippofilip95) | Filip Papranec | @kontentino @digitaliko | filippofilip95 | Slovakia | 9289 |
-| 20 | [digitalapplied](https://github.com/digitalapplied) | Richard Gibbons | Digital Applied |  | Bratislava, Slovakia | 9172 |
+| 13 | [janper](https://github.com/janper) | Jan Pernecky | Monoceros Tools |  | Slovakia | 9974 |
+| 14 | [thecubbe](https://github.com/thecubbe) | TheCubbe |  |  | Slovakia | 9956 |
+| 15 | [dimaver6work](https://github.com/dimaver6work) | Dmytro |  |  | Bratislava, Slovakia | 9941 |
+| 16 | [drepkovsky](https://github.com/drepkovsky) | Dominik Repkovský | @questpie | drepkovsky | Slovakia | 9931 |
+| 17 | [Kenessy](https://github.com/Kenessy) | Daniel Kenessy | VRAXION |  | Slovakia | 9652 |
+| 18 | [crnkjck](https://github.com/crnkjck) | Ján Kľuka | Comenius University Bratislava |  | Bratislava, Slovakia | 9637 |
+| 19 | [VladimirTomko](https://github.com/VladimirTomko) | Vladimír Tomko | BeCode s.r.o.  |  | Bratislava, Slovakia | 9429 |
+| 20 | [filippofilip95](https://github.com/filippofilip95) | Filip Papranec | @kontentino @digitaliko | filippofilip95 | Slovakia | 9289 |

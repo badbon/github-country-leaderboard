@@ -1,6 +1,6 @@
 # Public Contributions - Sudan
 
-Generated: 2026-10-22T13:37:06.669Z
+Generated: 2026-10-22T15:11:31.886Z
 
 Users: 727
 
@@ -14,7 +14,7 @@ Users: 727
 | 6 | [adonese](https://github.com/adonese) | Mohamed Yousif | EEBAX | _adonese | Sudan, Khartoum | 812 |
 | 7 | [sherif414](https://github.com/sherif414) | shareef | @undefined |  | Sudan | 777 |
 | 8 | [saifeldinkhedir-coder](https://github.com/saifeldinkhedir-coder) | Seifeldin M G Alkhedir | University of Khartoum |  |  Sudan | 691 |
-| 9 | [kabaros](https://github.com/kabaros) | Mozafar | nyala.dev |  | Khartoum / Glasgow | 535 |
+| 9 | [kabaros](https://github.com/kabaros) | Mozafar | nyala.dev |  | Khartoum / Glasgow | 541 |
 | 10 | [mohamedkam000](https://github.com/mohamedkam000) | Muhammad Kamal |  |  | Sudan | 526 |
 | 11 | [Wadamzmail](https://github.com/Wadamzmail) | MutwakilX |  |  | El-Obeid/Sudan | 479 |
 | 12 | [breezyx28](https://github.com/breezyx28) | Mohamed Ahmed (Kat) | ScriptHouse | breezyx28 | Omdurman, Khartoum, Sudan | 414 |
