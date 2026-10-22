@@ -1,6 +1,6 @@
 # Public Contributions - Slovenia
 
-Generated: 2026-10-22T19:55:56.881Z
+Generated: 2026-10-22T22:10:50.688Z
 
 Users: 3095
 
@@ -21,8 +21,8 @@ Users: 3095
 | 13 | [titpetric](https://github.com/titpetric) | Tit Petric |  |  | Ljubljana, Slovenia | 3019 |
 | 14 | [matejdro](https://github.com/matejdro) | Matej Drobnič |  |  | Slovenia | 2873 |
 | 15 | [OBattler](https://github.com/OBattler) | Miran Grča |  |  | Koper, Slovenia | 2657 |
-| 16 | [aljazmc](https://github.com/aljazmc) | Aljaž Mlinarič |  |  | Ptuj, Slovenia | 2397 |
-| 17 | [mzagozen](https://github.com/mzagozen) | Marko Zagožen | Flint SI |  | Slovenia | 2276 |
-| 18 | [eriknovak](https://github.com/eriknovak) | Erik Novak | @Event-Registry @E3-JSI  |  | Slovenia | 2225 |
-| 19 | [unjica](https://github.com/unjica) | Sanja Malovic | Tacko |  | Slovenia | 2171 |
-| 20 | [baadc0de](https://github.com/baadc0de) | Bojan Šernek | @distopik | reactocode | Ljubljana, Slovenia | 2124 |
+| 16 | [kubus-project](https://github.com/kubus-project) | Rok Černezel | kubus |  | Ljubljana | 2654 |
+| 17 | [aljazmc](https://github.com/aljazmc) | Aljaž Mlinarič |  |  | Ptuj, Slovenia | 2397 |
+| 18 | [mzagozen](https://github.com/mzagozen) | Marko Zagožen | Flint SI |  | Slovenia | 2276 |
+| 19 | [eriknovak](https://github.com/eriknovak) | Erik Novak | @Event-Registry @E3-JSI  |  | Slovenia | 2225 |
+| 20 | [unjica](https://github.com/unjica) | Sanja Malovic | Tacko |  | Slovenia | 2171 |

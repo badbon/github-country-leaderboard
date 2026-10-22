@@ -52,11 +52,11 @@ Indexed users: 3,095
 | 13 | [titpetric](https://github.com/titpetric) | Tit Petric | Ljubljana, Slovenia | 3,019 |
 | 14 | [matejdro](https://github.com/matejdro) | Matej Drobnič | Slovenia | 2,873 |
 | 15 | [OBattler](https://github.com/OBattler) | Miran Grča | Koper, Slovenia | 2,657 |
-| 16 | [aljazmc](https://github.com/aljazmc) | Aljaž Mlinarič | Ptuj, Slovenia | 2,397 |
-| 17 | [mzagozen](https://github.com/mzagozen) | Marko Zagožen | Slovenia | 2,276 |
-| 18 | [eriknovak](https://github.com/eriknovak) | Erik Novak | Slovenia | 2,225 |
-| 19 | [unjica](https://github.com/unjica) | Sanja Malovic | Slovenia | 2,171 |
-| 20 | [baadc0de](https://github.com/baadc0de) | Bojan Šernek | Ljubljana, Slovenia | 2,124 |
+| 16 | [kubus-project](https://github.com/kubus-project) | Rok Černezel | Ljubljana | 2,654 |
+| 17 | [aljazmc](https://github.com/aljazmc) | Aljaž Mlinarič | Ptuj, Slovenia | 2,397 |
+| 18 | [mzagozen](https://github.com/mzagozen) | Marko Zagožen | Slovenia | 2,276 |
+| 19 | [eriknovak](https://github.com/eriknovak) | Erik Novak | Slovenia | 2,225 |
+| 20 | [unjica](https://github.com/unjica) | Sanja Malovic | Slovenia | 2,171 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 3,095
 | 19 | [jure](https://github.com/jure) | Jure Triglav | Ljubljana, Slovenia | 243 |
 | 20 | [buresdv](https://github.com/buresdv) | David Bureš | Maribor, Slovenia | 238 |
 
-Generated: 2026-10-22T19:55:56.881Z
+Generated: 2026-10-22T22:10:50.688Z
