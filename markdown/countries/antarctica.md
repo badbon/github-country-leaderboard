@@ -17,8 +17,8 @@ Indexed users: 460
 | 3 | [adwait1290](https://github.com/adwait1290) | Adwait Athale | Antarctica | 6,032 |
 | 4 | [JohnChristianD](https://github.com/JohnChristianD) | John Christian Domingo | Antarctica | 5,534 |
 | 5 | [morgaesis](https://github.com/morgaesis) | Mörgæsis | Antarctica | 5,419 |
-| 6 | [jeongho](https://github.com/jeongho) | Jeongho Park | Deception Island, Antarctica | 5,110 |
-| 7 | [ifarbod](https://github.com/ifarbod) | iFarbod | Antarctica  | 4,866 |
+| 6 | [ifarbod](https://github.com/ifarbod) | iFarbod | Antarctica  | 5,129 |
+| 7 | [jeongho](https://github.com/jeongho) | Jeongho Park | Deception Island, Antarctica | 5,113 |
 | 8 | [AntoineSebert](https://github.com/AntoineSebert) | Antoine Sébert | Antarctica | 4,789 |
 | 9 | [Sup2point0](https://github.com/Sup2point0) | Sup#2.0 | Antarctica | 4,687 |
 | 10 | [bharxhav](https://github.com/bharxhav) | Bhargav Kantheti | antarctica | 4,260 |
@@ -83,4 +83,4 @@ Indexed users: 460
 | 19 | [alphaaurigae](https://github.com/alphaaurigae) | Marian Brockerhoff | Antarctica | 85 |
 | 20 | [fakeid30](https://github.com/fakeid30) | Fake ID | Antarctica | 78 |
 
-Generated: 2026-10-22T16:22:08.842Z
+Generated: 2026-10-22T18:20:13.570Z

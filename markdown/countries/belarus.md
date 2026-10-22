@@ -21,8 +21,8 @@ Indexed users: 10,923
 | 7 | [KonstantinSerebryakov](https://github.com/KonstantinSerebryakov) | Konstantin Serebryakov | Minsk, Belarus | 10,667 |
 | 8 | [dzmitrys-dev](https://github.com/dzmitrys-dev) | Dzmitry Sukhau | Belarus, Minsk | 10,259 |
 | 9 | [omuteqq](https://github.com/omuteqq) | Иван | Minsk, Belarus | 7,527 |
-| 10 | [dzmitryNz](https://github.com/dzmitryNz) |  | Belarus | 6,792 |
-| 11 | [iamsphere](https://github.com/iamsphere) | Vladislav | Belarus, Minsk | 6,414 |
+| 10 | [iamsphere](https://github.com/iamsphere) | Vladislav | Belarus, Minsk | 7,302 |
+| 11 | [dzmitryNz](https://github.com/dzmitryNz) |  | Belarus | 6,792 |
 | 12 | [NikolayNN](https://github.com/NikolayNN) | Nikolay | Minsk | 6,267 |
 | 13 | [igormorozov](https://github.com/igormorozov) | Igor Morozov | Minsk | 5,759 |
 | 14 | [davassi](https://github.com/davassi) | Gianluigi Davassi | Dubai - Berlin - Milan - Minsk | 5,274 |
@@ -83,4 +83,4 @@ Indexed users: 10,923
 | 19 | [dillidon](https://github.com/dillidon) | RV | Belarus | 183 |
 | 20 | [alexzhirkevich](https://github.com/alexzhirkevich) | Alexander Zhirkevich | Belarus, Minsk | 165 |
 
-Generated: 2026-10-22T16:23:18.435Z
+Generated: 2026-10-22T18:22:11.814Z

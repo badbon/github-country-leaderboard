@@ -1,6 +1,6 @@
 # Public Contributions - Costa Rica
 
-Generated: 2026-10-22T16:27:42.795Z
+Generated: 2026-10-22T18:27:13.585Z
 
 Users: 5624
 
@@ -13,11 +13,11 @@ Users: 5624
 | 5 | [ronz204](https://github.com/ronz204) | ronz |  |  | San Carlos, Costa Rica | 3801 |
 | 6 | [gloriacitizen00-dev](https://github.com/gloriacitizen00-dev) | Gloria Martinez | SkyCortex |  | Costa Rica | 3704 |
 | 7 | [Matt-Aurora-Ventures](https://github.com/Matt-Aurora-Ventures) | Matt Haynes | Aurora Ventures | aurora_ventures | Costa Rica | 3585 |
-| 8 | [aramirez087](https://github.com/aramirez087) | Alexander Ramirez Kiriushenko |  | aramirez087 | Costa Rica | 2938 |
-| 9 | [xe-nvdk](https://github.com/xe-nvdk) | Ignacio Van Droogenbroeck | Basekick Labs | hectorivand | Heredia, Costa Rica | 2797 |
-| 10 | [morozov](https://github.com/morozov) | Sergei Morozov | @redis  |  | San José, CA | 2590 |
-| 11 | [aleju03](https://github.com/aleju03) | Aleju03 | TEC |  | Costa Rica | 2572 |
-| 12 | [jonnabio](https://github.com/jonnabio) | Jonathan Herrera |  | jonnabio | Costa Rica | 2546 |
+| 8 | [jonnabio](https://github.com/jonnabio) | Jonathan Herrera |  | jonnabio | Costa Rica | 3363 |
+| 9 | [aramirez087](https://github.com/aramirez087) | Alexander Ramirez Kiriushenko |  | aramirez087 | Costa Rica | 2938 |
+| 10 | [xe-nvdk](https://github.com/xe-nvdk) | Ignacio Van Droogenbroeck | Basekick Labs | hectorivand | Heredia, Costa Rica | 2797 |
+| 11 | [morozov](https://github.com/morozov) | Sergei Morozov | @redis  |  | San José, CA | 2590 |
+| 12 | [aleju03](https://github.com/aleju03) | Aleju03 | TEC |  | Costa Rica | 2572 |
 | 13 | [jetm](https://github.com/jetm) | Javier Tia | Peridio |  | Costa Rica | 2464 |
 | 14 | [nestormata](https://github.com/nestormata) | Nestor Mata Cuthbert | Profesional Costa Rica |  | Costa Rica | 2308 |
 | 15 | [lapc506](https://github.com/lapc506) | Andrés Peña | AltruPets, Vertivo, KeikoStart (my startups) |  | Heredia, Costa Rica | 2305 |

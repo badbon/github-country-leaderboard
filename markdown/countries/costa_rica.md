@@ -44,11 +44,11 @@ Indexed users: 5,624
 | 5 | [ronz204](https://github.com/ronz204) | ronz | San Carlos, Costa Rica | 3,801 |
 | 6 | [gloriacitizen00-dev](https://github.com/gloriacitizen00-dev) | Gloria Martinez | Costa Rica | 3,704 |
 | 7 | [Matt-Aurora-Ventures](https://github.com/Matt-Aurora-Ventures) | Matt Haynes | Costa Rica | 3,585 |
-| 8 | [aramirez087](https://github.com/aramirez087) | Alexander Ramirez Kiriushenko | Costa Rica | 2,938 |
-| 9 | [xe-nvdk](https://github.com/xe-nvdk) | Ignacio Van Droogenbroeck | Heredia, Costa Rica | 2,797 |
-| 10 | [morozov](https://github.com/morozov) | Sergei Morozov | San José, CA | 2,590 |
-| 11 | [aleju03](https://github.com/aleju03) | Aleju03 | Costa Rica | 2,572 |
-| 12 | [jonnabio](https://github.com/jonnabio) | Jonathan Herrera | Costa Rica | 2,546 |
+| 8 | [jonnabio](https://github.com/jonnabio) | Jonathan Herrera | Costa Rica | 3,363 |
+| 9 | [aramirez087](https://github.com/aramirez087) | Alexander Ramirez Kiriushenko | Costa Rica | 2,938 |
+| 10 | [xe-nvdk](https://github.com/xe-nvdk) | Ignacio Van Droogenbroeck | Heredia, Costa Rica | 2,797 |
+| 11 | [morozov](https://github.com/morozov) | Sergei Morozov | San José, CA | 2,590 |
+| 12 | [aleju03](https://github.com/aleju03) | Aleju03 | Costa Rica | 2,572 |
 | 13 | [jetm](https://github.com/jetm) | Javier Tia | Costa Rica | 2,464 |
 | 14 | [nestormata](https://github.com/nestormata) | Nestor Mata Cuthbert | Costa Rica | 2,308 |
 | 15 | [lapc506](https://github.com/lapc506) | Andrés Peña | Heredia, Costa Rica | 2,305 |
@@ -83,4 +83,4 @@ Indexed users: 5,624
 | 19 | [stvansolano](https://github.com/stvansolano) | Esteban Solano Granados | Costa Rica | 189 |
 | 20 | [Jeffser](https://github.com/Jeffser) | Jeffry Samuel | Costa Rica | 174 |
 
-Generated: 2026-10-22T16:27:42.795Z
+Generated: 2026-10-22T18:27:13.585Z

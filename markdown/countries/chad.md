@@ -21,7 +21,7 @@ Indexed users: 201
 | 7 | [TomkerDev](https://github.com/TomkerDev) | TOMTE Hassane | Ndjamena, Tchad | 267 |
 | 8 | [mittb1g](https://github.com/mittb1g) |  | Chad | 251 |
 | 9 | [black-hatn](https://github.com/black-hatn) | Nourr | Tchad | 189 |
-| 10 | [AliAttyallahAli](https://github.com/AliAttyallahAli) | Ali Attyallah Ali | Ndjaména/Tchad | 181 |
+| 10 | [AliAttyallahAli](https://github.com/AliAttyallahAli) | Ali Attyallah Ali | Ndjaména/Tchad | 180 |
 | 11 | [Solid2017](https://github.com/Solid2017) | Betan Gildas Ongbaye | Chad | 163 |
 | 12 | [Djerade](https://github.com/Djerade) | Djeradé Golbé Parfait | Chad | 160 |
 | 13 | [sulzokeboulin](https://github.com/sulzokeboulin) | Norma Brown | West Joshuaburgh, Chad | 135 |
@@ -43,7 +43,7 @@ Indexed users: 201
 | 4 | [TomkerDev](https://github.com/TomkerDev) | TOMTE Hassane | Ndjamena, Tchad | 267 |
 | 5 | [Helionux](https://github.com/Helionux) | Deoule-Allah Madjitoloum Heliodore | Tchad | 237 |
 | 6 | [black-hatn](https://github.com/black-hatn) | Nourr | Tchad | 189 |
-| 7 | [AliAttyallahAli](https://github.com/AliAttyallahAli) | Ali Attyallah Ali | Ndjaména/Tchad | 181 |
+| 7 | [AliAttyallahAli](https://github.com/AliAttyallahAli) | Ali Attyallah Ali | Ndjaména/Tchad | 180 |
 | 8 | [Solid2017](https://github.com/Solid2017) | Betan Gildas Ongbaye | Chad | 163 |
 | 9 | [Djerade](https://github.com/Djerade) | Djeradé Golbé Parfait | Chad | 160 |
 | 10 | [sulzokeboulin](https://github.com/sulzokeboulin) | Norma Brown | West Joshuaburgh, Chad | 135 |
@@ -83,4 +83,4 @@ Indexed users: 201
 | 19 | [sulzokeboulin](https://github.com/sulzokeboulin) | Norma Brown | West Joshuaburgh, Chad | 8 |
 | 20 | [Floppinqq](https://github.com/Floppinqq) | Floppinqq | chad | 7 |
 
-Generated: 2026-10-22T16:26:10.291Z
+Generated: 2026-10-22T18:25:39.316Z

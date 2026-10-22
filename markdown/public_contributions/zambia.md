@@ -1,6 +1,6 @@
 # Public Contributions - Zambia
 
-Generated: 2026-10-22T16:19:31.861Z
+Generated: 2026-10-22T18:17:04.279Z
 
 Users: 1336
 
@@ -20,9 +20,9 @@ Users: 1336
 | 12 | [SilasChalwe](https://github.com/SilasChalwe) | Silas Chalwe  | Covian hive technologies  |  | Zambia  | 742 |
 | 13 | [cephaschapa](https://github.com/cephaschapa) | Cephas Chapa | OpenEarth Foundation |  | Zambia | 697 |
 | 14 | [Mukela12](https://github.com/Mukela12) | Mukela Katungu |  |  | Lusaka | 683 |
-| 15 | [Mwapsam](https://github.com/Mwapsam) | Samuel Chimfwembe | mwapsam@gmail.com | mwapesamuel4 | Zambia | 656 |
-| 16 | [simwawatim](https://github.com/simwawatim) | Timothy Simwawa | iZyane InnovSoultion |  | Lusaka, Zambia | 637 |
-| 17 | [mataa019](https://github.com/mataa019) | John Mataa | Imangatech Innovations |  | Zambia, Lusaka Province | 624 |
-| 18 | [wmweemba](https://github.com/wmweemba) | William .S. Mweemba |  |  | Lusaka, Zambia | 612 |
+| 15 | [wmweemba](https://github.com/wmweemba) | William .S. Mweemba |  |  | Lusaka, Zambia | 658 |
+| 16 | [Mwapsam](https://github.com/Mwapsam) | Samuel Chimfwembe | mwapsam@gmail.com | mwapesamuel4 | Zambia | 656 |
+| 17 | [simwawatim](https://github.com/simwawatim) | Timothy Simwawa | iZyane InnovSoultion |  | Lusaka, Zambia | 637 |
+| 18 | [mataa019](https://github.com/mataa019) | John Mataa | Imangatech Innovations |  | Zambia, Lusaka Province | 624 |
 | 19 | [c00p75](https://github.com/c00p75) | George M'sapenda |  |  | Lusaka, Zambia | 590 |
 | 20 | [marksikaundi](https://github.com/marksikaundi) | Mark Sikaundi | @Lupleg | Alisikaundi | Zambia | 583 |

@@ -56,7 +56,7 @@ Indexed users: 2,721
 | 17 | [nekto007](https://github.com/nekto007) | Igor | Limassol, Cyprus | 2,985 |
 | 18 | [slima4](https://github.com/slima4) | Artem Senenko | Nicosia, Cyprus | 2,984 |
 | 19 | [GeorgeWebDevCy](https://github.com/GeorgeWebDevCy) | George Nicolaou | Cyprus | 2,884 |
-| 20 | [psoldunov](https://github.com/psoldunov) | Philipp Soldunov | Limassol, Cyprus | 2,614 |
+| 20 | [psoldunov](https://github.com/psoldunov) | Philipp Soldunov | Limassol, Cyprus | 2,770 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 2,721
 | 19 | [sudoguy](https://github.com/sudoguy) | Evgeny Kemerov | Limassol, Cyprus | 251 |
 | 20 | [polterguy](https://github.com/polterguy) | Thomas Hansen | Cyprus | 245 |
 
-Generated: 2026-10-22T16:29:17.672Z
+Generated: 2026-10-22T18:27:59.989Z

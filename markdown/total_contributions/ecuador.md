@@ -1,6 +1,6 @@
 # Total Contributions - Ecuador
 
-Generated: 2026-10-22T16:29:47.237Z
+Generated: 2026-10-22T18:29:24.515Z
 
 Users: 4874
 
@@ -20,9 +20,9 @@ Users: 4874
 | 12 | [StevSant](https://github.com/StevSant) | Bryan Menoscal | ULEAM |  | Ecuador, Manabi, Manta | 7246 |
 | 13 | [chey3002](https://github.com/chey3002) | Carlos Valladarez |  | Sr_Chey | Ecuador | 7227 |
 | 14 | [sanieni6](https://github.com/sanieni6) | Luis Sanchez |  |  | Ecuador | 7174 |
-| 15 | [alvarezmario](https://github.com/alvarezmario) | Mario A. Alvarez Garcia |  |  | Quito, Ecuador | 6554 |
-| 16 | [jorgesolerrr](https://github.com/jorgesolerrr) | Jorge Soler |  |  | Guayaquil, Ecuador | 6539 |
-| 17 | [JoaquinZc](https://github.com/JoaquinZc) | José Joaquín Zambrano Centeno |  |  | Ecuador | 6277 |
-| 18 | [devrchancay](https://github.com/devrchancay) | Ramón Chancay Ortega  | @desarol | devrchancay | Ecuador, Guayaquil | 6275 |
-| 19 | [rapharen](https://github.com/rapharen) | Christian Raphael | @EfexPay |  | Ecuador | 6110 |
-| 20 | [franmc01](https://github.com/franmc01) | Francisco | Katarion |  | Ecuador | 6104 |
+| 15 | [astandre](https://github.com/astandre) | André Herrera | CondorSoft |  | Loja, Ecuador | 6623 |
+| 16 | [alvarezmario](https://github.com/alvarezmario) | Mario A. Alvarez Garcia |  |  | Quito, Ecuador | 6554 |
+| 17 | [jorgesolerrr](https://github.com/jorgesolerrr) | Jorge Soler |  |  | Guayaquil, Ecuador | 6539 |
+| 18 | [JoaquinZc](https://github.com/JoaquinZc) | José Joaquín Zambrano Centeno |  |  | Ecuador | 6277 |
+| 19 | [devrchancay](https://github.com/devrchancay) | Ramón Chancay Ortega  | @desarol | devrchancay | Ecuador, Guayaquil | 6275 |
+| 20 | [rapharen](https://github.com/rapharen) | Christian Raphael | @EfexPay |  | Ecuador | 6110 |

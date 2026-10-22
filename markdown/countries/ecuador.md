@@ -26,12 +26,12 @@ Indexed users: 4,874
 | 12 | [StevSant](https://github.com/StevSant) | Bryan Menoscal | Ecuador, Manabi, Manta | 7,246 |
 | 13 | [chey3002](https://github.com/chey3002) | Carlos Valladarez | Ecuador | 7,227 |
 | 14 | [sanieni6](https://github.com/sanieni6) | Luis Sanchez | Ecuador | 7,174 |
-| 15 | [alvarezmario](https://github.com/alvarezmario) | Mario A. Alvarez Garcia | Quito, Ecuador | 6,554 |
-| 16 | [jorgesolerrr](https://github.com/jorgesolerrr) | Jorge Soler | Guayaquil, Ecuador | 6,539 |
-| 17 | [JoaquinZc](https://github.com/JoaquinZc) | José Joaquín Zambrano Centeno | Ecuador | 6,277 |
-| 18 | [devrchancay](https://github.com/devrchancay) | Ramón Chancay Ortega  | Ecuador, Guayaquil | 6,275 |
-| 19 | [rapharen](https://github.com/rapharen) | Christian Raphael | Ecuador | 6,110 |
-| 20 | [franmc01](https://github.com/franmc01) | Francisco | Ecuador | 6,104 |
+| 15 | [astandre](https://github.com/astandre) | André Herrera | Loja, Ecuador | 6,623 |
+| 16 | [alvarezmario](https://github.com/alvarezmario) | Mario A. Alvarez Garcia | Quito, Ecuador | 6,554 |
+| 17 | [jorgesolerrr](https://github.com/jorgesolerrr) | Jorge Soler | Guayaquil, Ecuador | 6,539 |
+| 18 | [JoaquinZc](https://github.com/JoaquinZc) | José Joaquín Zambrano Centeno | Ecuador | 6,277 |
+| 19 | [devrchancay](https://github.com/devrchancay) | Ramón Chancay Ortega  | Ecuador, Guayaquil | 6,275 |
+| 20 | [rapharen](https://github.com/rapharen) | Christian Raphael | Ecuador | 6,110 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 4,874
 | 19 | [Bryan-Herrera-DEV](https://github.com/Bryan-Herrera-DEV) | Bryan Herrera ~ ርᚱ1ናተᛰ ᚻህᚥተპᚱ | Ecuador | 116 |
 | 20 | [Davichobits](https://github.com/Davichobits) | David Ruiz | Ecuador | 116 |
 
-Generated: 2026-10-22T16:29:47.237Z
+Generated: 2026-10-22T18:29:24.515Z

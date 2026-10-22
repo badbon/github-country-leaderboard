@@ -1,6 +1,6 @@
 # Total Contributions - Belarus
 
-Generated: 2026-10-22T16:23:18.435Z
+Generated: 2026-10-22T18:22:11.814Z
 
 Users: 10923
 
@@ -15,8 +15,8 @@ Users: 10923
 | 7 | [KonstantinSerebryakov](https://github.com/KonstantinSerebryakov) | Konstantin Serebryakov | Looking for JavaScript job |  | Minsk, Belarus | 10667 |
 | 8 | [dzmitrys-dev](https://github.com/dzmitrys-dev) | Dzmitry Sukhau |  |  | Belarus, Minsk | 10259 |
 | 9 | [omuteqq](https://github.com/omuteqq) | Иван |  |  | Minsk, Belarus | 7527 |
-| 10 | [dzmitryNz](https://github.com/dzmitryNz) |  |  | rabsterby | Belarus | 6792 |
-| 11 | [iamsphere](https://github.com/iamsphere) | Vladislav | FRAKT |  | Belarus, Minsk | 6414 |
+| 10 | [iamsphere](https://github.com/iamsphere) | Vladislav | FRAKT |  | Belarus, Minsk | 7302 |
+| 11 | [dzmitryNz](https://github.com/dzmitryNz) |  |  | rabsterby | Belarus | 6792 |
 | 12 | [NikolayNN](https://github.com/NikolayNN) | Nikolay |  |  | Minsk | 6267 |
 | 13 | [igormorozov](https://github.com/igormorozov) | Igor Morozov |  |  | Minsk | 5759 |
 | 14 | [davassi](https://github.com/davassi) | Gianluigi Davassi |  |  | Dubai - Berlin - Milan - Minsk | 5274 |

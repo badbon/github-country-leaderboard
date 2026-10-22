@@ -15,7 +15,7 @@ Indexed users: 1,181
 | 1 | [flakerimi](https://github.com/flakerimi) | Flakerim Ismani | Tirane, Albania | 23,589 |
 | 2 | [ErionTp](https://github.com/ErionTp) | Erjon Këllëçi | Tirane, Albania | 9,961 |
 | 3 | [kevingabeci](https://github.com/kevingabeci) | Kevin Gabeci | Tirana | 8,968 |
-| 4 | [alban-hh](https://github.com/alban-hh) | Alban Shermadhi | Albania | 8,621 |
+| 4 | [alban-hh](https://github.com/alban-hh) | Alban Shermadhi | Albania | 8,673 |
 | 5 | [Jorgo55](https://github.com/Jorgo55) | Jorgo Bardho | Albania, Tirana | 8,136 |
 | 6 | [somethim](https://github.com/somethim) | Arbi Kullakshi | Tirana, Albania | 7,331 |
 | 7 | [orges](https://github.com/orges) | orges | Albania | 6,768 |
@@ -83,4 +83,4 @@ Indexed users: 1,181
 | 19 | [SxtBox](https://github.com/SxtBox) | Albdroid.AL | Albania | 81 |
 | 20 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | Albania | 77 |
 
-Generated: 2026-10-22T16:21:08.307Z
+Generated: 2026-10-22T18:19:44.935Z

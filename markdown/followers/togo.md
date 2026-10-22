@@ -1,12 +1,12 @@
 # Followers - Togo
 
-Generated: 2026-10-22T16:16:53.218Z
+Generated: 2026-10-22T18:13:49.050Z
 
 Users: 677
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [bekmarc](https://github.com/bekmarc) | K. Marco BEKOUTARE | LGG | leMpoussin | Togo | 386 |
+| 1 | [bekmarc](https://github.com/bekmarc) | K. Marco BEKOUTARE | LGG | leMpoussin | Togo | 385 |
 | 2 | [mayonorris](https://github.com/mayonorris) | Mayo Takémsi Norris KADANGA | CaSEG |  | Lomé, Togo | 219 |
 | 3 | [IrouKaizen](https://github.com/IrouKaizen) | irouKaizen |  | iroukaizen | Lomé | 198 |
 | 4 | [kpidiba](https://github.com/kpidiba) | KaizenCoder |  |  | Lomé-Togo | 149 |
@@ -16,7 +16,7 @@ Users: 677
 | 8 | [ibraum](https://github.com/ibraum) | KONDO Ibrahim | Freelance |  | Lomé, TOGO | 109 |
 | 9 | [gsmadjaa05](https://github.com/gsmadjaa05) | GSM ADJAA | @GSM_ADJAA_COMPANY |  | Togo | 102 |
 | 10 | [itachixa](https://github.com/itachixa) | SALIFOU Aléhéri Christian |  |  | Togo | 102 |
-| 11 | [GhostEsso](https://github.com/GhostEsso) | Essohanam TAMBANA | Kaba Delivery | TambanaEssohana | Lomé, Togo | 89 |
+| 11 | [GhostEsso](https://github.com/GhostEsso) | Essohanam TAMBANA | Kaba Delivery | TambanaEssohana | Lomé, Togo | 90 |
 | 12 | [koffisani](https://github.com/koffisani) | Koffi SANI |  | koffisani | Lomé, TOGO | 81 |
 | 13 | [toutpuissantged](https://github.com/toutpuissantged) | Gedeon AMOUSSOU | @TPG | toutpuissantged | togo | 80 |
 | 14 | [gausoft](https://github.com/gausoft) | Gauthier Eholoum | Remote | gausoft_ | Lomé, Togo | 75 |

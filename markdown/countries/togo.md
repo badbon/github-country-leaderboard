@@ -29,8 +29,8 @@ Indexed users: 677
 | 15 | [Le-Sourcier](https://github.com/Le-Sourcier) | Yao David LOGAN | US, TOGO, UK | 4,265 |
 | 16 | [Rahim10020](https://github.com/Rahim10020) | Rahim ALI | Lome -TOGO | 4,143 |
 | 17 | [Einswilli](https://github.com/Einswilli) | #Einswilli | Lomé | 3,894 |
-| 18 | [Ygryan360](https://github.com/Ygryan360) | Rayane | Lomé, Togo | 3,626 |
-| 19 | [Giovidoh](https://github.com/Giovidoh) | ICGreborns | Lomé, Togo | 3,598 |
+| 18 | [Giovidoh](https://github.com/Giovidoh) | ICGreborns | Lomé, Togo | 3,649 |
+| 19 | [Ygryan360](https://github.com/Ygryan360) | Rayane | Lomé, Togo | 3,626 |
 | 20 | [Moubarakdev](https://github.com/Moubarakdev) | Moubarak KERIM | TOGO-Lomé | 3,497 |
 
 ## Public Contributions
@@ -62,7 +62,7 @@ Indexed users: 677
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [bekmarc](https://github.com/bekmarc) | K. Marco BEKOUTARE | Togo | 386 |
+| 1 | [bekmarc](https://github.com/bekmarc) | K. Marco BEKOUTARE | Togo | 385 |
 | 2 | [mayonorris](https://github.com/mayonorris) | Mayo Takémsi Norris KADANGA | Lomé, Togo | 219 |
 | 3 | [IrouKaizen](https://github.com/IrouKaizen) | irouKaizen | Lomé | 198 |
 | 4 | [kpidiba](https://github.com/kpidiba) | KaizenCoder | Lomé-Togo | 149 |
@@ -72,7 +72,7 @@ Indexed users: 677
 | 8 | [ibraum](https://github.com/ibraum) | KONDO Ibrahim | Lomé, TOGO | 109 |
 | 9 | [gsmadjaa05](https://github.com/gsmadjaa05) | GSM ADJAA | Togo | 102 |
 | 10 | [itachixa](https://github.com/itachixa) | SALIFOU Aléhéri Christian | Togo | 102 |
-| 11 | [GhostEsso](https://github.com/GhostEsso) | Essohanam TAMBANA | Lomé, Togo | 89 |
+| 11 | [GhostEsso](https://github.com/GhostEsso) | Essohanam TAMBANA | Lomé, Togo | 90 |
 | 12 | [koffisani](https://github.com/koffisani) | Koffi SANI | Lomé, TOGO | 81 |
 | 13 | [toutpuissantged](https://github.com/toutpuissantged) | Gedeon AMOUSSOU | togo | 80 |
 | 14 | [gausoft](https://github.com/gausoft) | Gauthier Eholoum | Lomé, Togo | 75 |
@@ -83,4 +83,4 @@ Indexed users: 677
 | 19 | [ica1010](https://github.com/ica1010) | Ghislin | Lomé , Togo | 66 |
 | 20 | [Maximekgn](https://github.com/Maximekgn) | KOGON Mawunygan Maxime | Togo | 63 |
 
-Generated: 2026-10-22T16:16:53.218Z
+Generated: 2026-10-22T18:13:49.050Z
