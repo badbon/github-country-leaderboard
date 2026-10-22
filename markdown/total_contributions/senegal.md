@@ -1,8 +1,8 @@
 # Total Contributions - Senegal
 
-Generated: 2026-10-22T07:45:26.583Z
+Generated: 2026-10-22T09:22:01.644Z
 
-Users: 1355
+Users: 1354
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -12,8 +12,8 @@ Users: 1355
 | 4 | [ModesteNAHUM](https://github.com/ModesteNAHUM) | Modeste NAHUM | @SimplifyStack  |  | Dakar, Sénégal | 10293 |
 | 5 | [Titovich2203](https://github.com/Titovich2203) | Tito GBEDJEHA | WIICODE |  | Dakar, Senegal | 9055 |
 | 6 | [jmndao](https://github.com/jmndao) | Jonathan Musa NDAO | Tecafrik |  | Senegal | 8106 |
-| 7 | [gaelahouanvoedo](https://github.com/gaelahouanvoedo) | Gael AHOUANVOEDO |  |  | Dakar, Sénégal | 7682 |
-| 8 | [MJoshua25](https://github.com/MJoshua25) | Yao Josué |  |  | Dakar | 7580 |
+| 7 | [MJoshua25](https://github.com/MJoshua25) | Yao Josué |  |  | Dakar | 8088 |
+| 8 | [gaelahouanvoedo](https://github.com/gaelahouanvoedo) | Gael AHOUANVOEDO |  |  | Dakar, Sénégal | 7682 |
 | 9 | [utachicodes](https://github.com/utachicodes) | Abdoullah Ndao | Azertica |  | Senegal | 6419 |
 | 10 | [njaga](https://github.com/njaga) | Ndiaga Ndiaye | kamit digital | ndiaga_dev | Dakar | 5895 |
 | 11 | [touskar](https://github.com/touskar) | Moussa Ndour DSI at INTech Group | Moussa Ndour |  | Dakar | 5806 |

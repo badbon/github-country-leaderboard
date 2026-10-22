@@ -1,8 +1,8 @@
 # Public Contributions - Latvia
 
-Generated: 2026-10-22T07:14:06.639Z
+Generated: 2026-10-22T08:51:32.353Z
 
-Users: 3250
+Users: 3248
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -16,13 +16,13 @@ Users: 3250
 | 8 | [ar2rsawseen](https://github.com/ar2rsawseen) | Arturs Sosins | @Countly  | ar2rsawseen | Latvia | 2407 |
 | 9 | [resoltico](https://github.com/resoltico) | Ervins Strauhmanis |  |  | Riga, Latvia | 2366 |
 | 10 | [mscbuild](https://github.com/mscbuild) | Yuri Dev |  𝒥ℛ🇯🇷   |  | Latvia (Europe) | 2237 |
-| 11 | [Prokuuudin](https://github.com/Prokuuudin) | Aleksandr Prokudin |  |  | Latvija, Riga | 2098 |
-| 12 | [kasparsd](https://github.com/kasparsd) | Kaspars Dambis |  | konstruktors | Latvia | 1876 |
-| 13 | [dmytropolizhai](https://github.com/dmytropolizhai) | Dmytro Polizhai |  |  | Latvia, Riga | 1850 |
-| 14 | [aleksejs1](https://github.com/aleksejs1) |  |  |  | Latvia | 1744 |
-| 15 | [yarlson](https://github.com/yarlson) | Yar Kravtsov |  | yarlson | Riga, Latvia | 1665 |
-| 16 | [kristoferssolo](https://github.com/kristoferssolo) | Kristofers Solo |  |  | Latvia | 1576 |
-| 17 | [flancer64](https://github.com/flancer64) | Alex Gusev | F. Lancer, LLC |  | Riga, Latvia | 1497 |
-| 18 | [sorokin-vladimir](https://github.com/sorokin-vladimir) | Vladimir Sorokin |  | sorokin_vl | Riga | 1430 |
-| 19 | [eglitise](https://github.com/eglitise) | Edgars Eglītis |  |  | Riga, Latvia | 1422 |
-| 20 | [LilithStd](https://github.com/LilithStd) | Dmitrii |  |  | Latvia, Riga | 1390 |
+| 11 | [kasparsd](https://github.com/kasparsd) | Kaspars Dambis |  | konstruktors | Latvia | 1876 |
+| 12 | [dmytropolizhai](https://github.com/dmytropolizhai) | Dmytro Polizhai |  |  | Latvia, Riga | 1850 |
+| 13 | [aleksejs1](https://github.com/aleksejs1) |  |  |  | Latvia | 1744 |
+| 14 | [yarlson](https://github.com/yarlson) | Yar Kravtsov |  | yarlson | Riga, Latvia | 1665 |
+| 15 | [kristoferssolo](https://github.com/kristoferssolo) | Kristofers Solo |  |  | Latvia | 1576 |
+| 16 | [flancer64](https://github.com/flancer64) | Alex Gusev | F. Lancer, LLC |  | Riga, Latvia | 1497 |
+| 17 | [sorokin-vladimir](https://github.com/sorokin-vladimir) | Vladimir Sorokin |  | sorokin_vl | Riga | 1430 |
+| 18 | [eglitise](https://github.com/eglitise) | Edgars Eglītis |  |  | Riga, Latvia | 1422 |
+| 19 | [LilithStd](https://github.com/LilithStd) | Dmitrii |  |  | Latvia, Riga | 1390 |
+| 20 | [Vilsol](https://github.com/Vilsol) |  | @vas-lvrtc |  | Riga, LV | 1335 |

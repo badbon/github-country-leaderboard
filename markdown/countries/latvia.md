@@ -1,6 +1,6 @@
 # Latvia
 
-Indexed users: 3,250
+Indexed users: 3,248
 
 | Leaderboard | Link |
 |---|---|
@@ -47,16 +47,16 @@ Indexed users: 3,250
 | 8 | [ar2rsawseen](https://github.com/ar2rsawseen) | Arturs Sosins | Latvia | 2,407 |
 | 9 | [resoltico](https://github.com/resoltico) | Ervins Strauhmanis | Riga, Latvia | 2,366 |
 | 10 | [mscbuild](https://github.com/mscbuild) | Yuri Dev | Latvia (Europe) | 2,237 |
-| 11 | [Prokuuudin](https://github.com/Prokuuudin) | Aleksandr Prokudin | Latvija, Riga | 2,098 |
-| 12 | [kasparsd](https://github.com/kasparsd) | Kaspars Dambis | Latvia | 1,876 |
-| 13 | [dmytropolizhai](https://github.com/dmytropolizhai) | Dmytro Polizhai | Latvia, Riga | 1,850 |
-| 14 | [aleksejs1](https://github.com/aleksejs1) |  | Latvia | 1,744 |
-| 15 | [yarlson](https://github.com/yarlson) | Yar Kravtsov | Riga, Latvia | 1,665 |
-| 16 | [kristoferssolo](https://github.com/kristoferssolo) | Kristofers Solo | Latvia | 1,576 |
-| 17 | [flancer64](https://github.com/flancer64) | Alex Gusev | Riga, Latvia | 1,497 |
-| 18 | [sorokin-vladimir](https://github.com/sorokin-vladimir) | Vladimir Sorokin | Riga | 1,430 |
-| 19 | [eglitise](https://github.com/eglitise) | Edgars Eglītis | Riga, Latvia | 1,422 |
-| 20 | [LilithStd](https://github.com/LilithStd) | Dmitrii | Latvia, Riga | 1,390 |
+| 11 | [kasparsd](https://github.com/kasparsd) | Kaspars Dambis | Latvia | 1,876 |
+| 12 | [dmytropolizhai](https://github.com/dmytropolizhai) | Dmytro Polizhai | Latvia, Riga | 1,850 |
+| 13 | [aleksejs1](https://github.com/aleksejs1) |  | Latvia | 1,744 |
+| 14 | [yarlson](https://github.com/yarlson) | Yar Kravtsov | Riga, Latvia | 1,665 |
+| 15 | [kristoferssolo](https://github.com/kristoferssolo) | Kristofers Solo | Latvia | 1,576 |
+| 16 | [flancer64](https://github.com/flancer64) | Alex Gusev | Riga, Latvia | 1,497 |
+| 17 | [sorokin-vladimir](https://github.com/sorokin-vladimir) | Vladimir Sorokin | Riga | 1,430 |
+| 18 | [eglitise](https://github.com/eglitise) | Edgars Eglītis | Riga, Latvia | 1,422 |
+| 19 | [LilithStd](https://github.com/LilithStd) | Dmitrii | Latvia, Riga | 1,390 |
+| 20 | [Vilsol](https://github.com/Vilsol) |  | Riga, LV | 1,335 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 3,250
 | 19 | [0ki](https://github.com/0ki) | Кirils Sоlovjоvs | Latvia | 224 |
 | 20 | [LatvianModder](https://github.com/LatvianModder) | Kristiāns Micītis | Latvia | 221 |
 
-Generated: 2026-10-22T07:14:06.639Z
+Generated: 2026-10-22T08:51:32.353Z

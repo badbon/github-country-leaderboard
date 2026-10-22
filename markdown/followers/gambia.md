@@ -1,6 +1,6 @@
 # Followers - Gambia
 
-Generated: 2026-10-22T07:01:00.724Z
+Generated: 2026-10-22T08:39:14.138Z
 
 Users: 79
 

@@ -1,6 +1,6 @@
 # Kazakhstan
 
-Indexed users: 5,621
+Indexed users: 5,620
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 5,621
 | 19 | [aidarnouman](https://github.com/aidarnouman) | Aidar Nouman | Almaty, Kazakhstan | 303 |
 | 20 | [azamxvit](https://github.com/azamxvit) | Azamat | Kazakhstan, Atyrau | 295 |
 
-Generated: 2026-10-22T07:11:52.029Z
+Generated: 2026-10-22T08:51:13.372Z

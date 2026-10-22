@@ -1,6 +1,6 @@
 # Public Contributions - Liechtenstein
 
-Generated: 2026-10-22T07:16:25.719Z
+Generated: 2026-10-22T08:54:07.278Z
 
 Users: 113
 
@@ -19,9 +19,9 @@ Users: 113
 | 11 | [AHaldner](https://github.com/AHaldner) | Andrin Haldner | Stutz Medien AG |  | Liechtenstein | 215 |
 | 12 | [xGreeny](https://github.com/xGreeny) | Flurin |  |  | Liechtenstein | 179 |
 | 13 | [d0dge-dev](https://github.com/d0dge-dev) | David |  |  | Liechtenstein | 124 |
-| 14 | [shakespear95](https://github.com/shakespear95) | Shakespear Samu | Arval BnP | Taku16671414 | Liechtenstein | 123 |
-| 15 | [MahsaChoop](https://github.com/MahsaChoop) | Mahsa Choopannezhad Najafabadi | Liechtenstein University |  | Liechtenstein | 116 |
-| 16 | [ColinFL](https://github.com/ColinFL) |  |  |  | Liechtenstein | 114 |
+| 14 | [MahsaChoop](https://github.com/MahsaChoop) | Mahsa Choopannezhad Najafabadi | Liechtenstein University |  | Liechtenstein | 116 |
+| 15 | [ColinFL](https://github.com/ColinFL) |  |  |  | Liechtenstein | 114 |
+| 16 | [shakespear95](https://github.com/shakespear95) | Shakespear Samu | Arval BnP | Taku16671414 | Liechtenstein | 102 |
 | 17 | [ukhan717](https://github.com/ukhan717) | u.khan | NTi Audio AG |  | Liechtenstein | 99 |
 | 18 | [danheron](https://github.com/danheron) | Dan Heron |  |  | Liechtenstein | 77 |
 | 19 | [xenok69](https://github.com/xenok69) | xenok1 | VP Bank |  | Liechtenstein | 65 |

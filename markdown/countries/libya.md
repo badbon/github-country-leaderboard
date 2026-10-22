@@ -24,8 +24,8 @@ Indexed users: 740
 | 10 | [GaafarBBK](https://github.com/GaafarBBK) | Mohamed Gaafar | Libya | 7,998 |
 | 11 | [Elsheshtawwy](https://github.com/Elsheshtawwy) | Badr Elsheshtawy | Benghazi, Libya 🇱🇾 | 7,471 |
 | 12 | [Salehahmedeus](https://github.com/Salehahmedeus) | Ahmed Saleh | Libya | 6,769 |
-| 13 | [almontasser](https://github.com/almontasser) | Mahmoud Almontasser | Misurata, Libya | 6,240 |
-| 14 | [EngGharbia](https://github.com/EngGharbia) | Abdurraouf Ben Gharbia | Tripoli, Libya | 6,192 |
+| 13 | [EngGharbia](https://github.com/EngGharbia) | Abdurraouf Ben Gharbia | Tripoli, Libya | 6,345 |
+| 14 | [almontasser](https://github.com/almontasser) | Mahmoud Almontasser | Misurata, Libya | 6,240 |
 | 15 | [swe-sanad](https://github.com/swe-sanad) | Sanad AlArousi | Zawia, Libya | 6,136 |
 | 16 | [x414i](https://github.com/x414i) | Mohamed S. Belaid | Libya/Misrata | 6,031 |
 | 17 | [Flat-Duck](https://github.com/Flat-Duck) | A.Mahidwei | Libya | 5,922 |
@@ -83,4 +83,4 @@ Indexed users: 740
 | 19 | [ZizouHuweidi](https://github.com/ZizouHuweidi) | El Zubeir Huweidi | Benghazi, Libya | 51 |
 | 20 | [Islam-alshiki](https://github.com/Islam-alshiki) | Islam alshiki | Benghazi, Libya | 49 |
 
-Generated: 2026-10-22T07:16:19.879Z
+Generated: 2026-10-22T08:53:28.410Z

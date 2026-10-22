@@ -1,6 +1,6 @@
 # United Arab Emirates
 
-Indexed users: 4,208
+Indexed users: 4,209
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 4,208
 | 19 | [yusufusta](https://github.com/yusufusta) | Yusuf Usta | Dubai, United Arab Emirates | 361 |
 | 20 | [garylab](https://github.com/garylab) | Gary Meng | Abu Dhabi, UAE | 360 |
 
-Generated: 2026-10-22T08:03:38.310Z
+Generated: 2026-10-22T08:49:08.856Z

@@ -20,16 +20,16 @@ Indexed users: 139
 | 6 | [timkrins](https://github.com/timkrins) | Tim Krins | Jersey, Channel Islands | 4,891 |
 | 7 | [danielmullin](https://github.com/danielmullin) | Daniel Mullin | Jersey | 4,744 |
 | 8 | [gnathoi](https://github.com/gnathoi) | Nathaniel Hey | Jersey, Channel Islands | 4,379 |
-| 9 | [digitalbuddha](https://github.com/digitalbuddha) | Mike Nakhimovich | The dirty (jersey) | 4,080 |
+| 9 | [digitalbuddha](https://github.com/digitalbuddha) | Mike Nakhimovich | The dirty (jersey) | 4,191 |
 | 10 | [wildgeodude](https://github.com/wildgeodude) | Dominic Samphier | Jersey | 4,072 |
 | 11 | [oidz1234](https://github.com/oidz1234) | Mark McNally | Jersey | 3,455 |
 | 12 | [r-moore](https://github.com/r-moore) | Richard Moore | Jersey | 3,391 |
 | 13 | [cjkmcc](https://github.com/cjkmcc) | Chris McCarthy | Jersey / London | 2,853 |
 | 14 | [TafadzwaD](https://github.com/TafadzwaD) | Tafadzwa Demba | Jersey | 2,370 |
-| 15 | [samjamead](https://github.com/samjamead) | Sam Mead | Grouville, Jersey | 1,767 |
+| 15 | [samjamead](https://github.com/samjamead) | Sam Mead | Grouville, Jersey | 1,772 |
 | 16 | [jackleriche](https://github.com/jackleriche) | Jack Le Riche | Jersey | 1,640 |
 | 17 | [alexleach](https://github.com/alexleach) | ALB.Leach | Jersey, UK | 1,427 |
-| 18 | [JoshCollis](https://github.com/JoshCollis) | Josh Collis | Jersey | 1,423 |
+| 18 | [JoshCollis](https://github.com/JoshCollis) | Josh Collis | Jersey | 1,422 |
 | 19 | [CJ-Jackson](https://github.com/CJ-Jackson) | Christopher John Jackson | St. Clement, Jersey | 1,148 |
 | 20 | [cheiler](https://github.com/cheiler) | Christian Heiler | St. Helier, Jersey | 948 |
 
@@ -55,7 +55,7 @@ Indexed users: 139
 | 16 | [Adrian609](https://github.com/Adrian609) | Adrian | Jersey | 131 |
 | 17 | [alexleach](https://github.com/alexleach) | ALB.Leach | Jersey, UK | 130 |
 | 18 | [shiaoligreen](https://github.com/shiaoligreen) | Shiao-li Green | Jersey, Channel Islands | 118 |
-| 19 | [JoshCollis](https://github.com/JoshCollis) | Josh Collis | Jersey | 107 |
+| 19 | [JoshCollis](https://github.com/JoshCollis) | Josh Collis | Jersey | 106 |
 | 20 | [jde](https://github.com/jde) | David Erwin | New [York, Jersey] | 91 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 139
 | 19 | [shiaoligreen](https://github.com/shiaoligreen) | Shiao-li Green | Jersey, Channel Islands | 22 |
 | 20 | [Chrisedmo](https://github.com/Chrisedmo) | Chris Mousdale | Jersey, Channel Islands | 20 |
 
-Generated: 2026-10-22T07:11:13.010Z
+Generated: 2026-10-22T08:50:43.889Z

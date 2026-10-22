@@ -24,8 +24,8 @@ Indexed users: 1,223
 | 10 | [mauroziux](https://github.com/mauroziux) | Mauricio Suárez vega | malta | 9,119 |
 | 11 | [polp6880](https://github.com/polp6880) | Paul Portelli | Malta | 9,091 |
 | 12 | [angusgee](https://github.com/angusgee) | Angus Girvan | Malta | 8,517 |
-| 13 | [m2ximus](https://github.com/m2ximus) | max—os | Malta | 7,643 |
-| 14 | [KimSpecht](https://github.com/KimSpecht) | Kim Pedersen | Malta | 7,618 |
+| 13 | [KimSpecht](https://github.com/KimSpecht) | Kim Pedersen | Malta | 7,662 |
+| 14 | [m2ximus](https://github.com/m2ximus) | max—os | Malta | 7,643 |
 | 15 | [iko2000](https://github.com/iko2000) | Iviko Shengelia | Malta | 7,210 |
 | 16 | [DarthTigerson](https://github.com/DarthTigerson) | Thomas Bonnici | Malta | 6,775 |
 | 17 | [ksazid](https://github.com/ksazid) | Sazid | Malta | 6,252 |
@@ -53,8 +53,8 @@ Indexed users: 1,223
 | 14 | [marian2js](https://github.com/marian2js) | Mariano Pardo | Malta | 2,336 |
 | 15 | [dfroberg](https://github.com/dfroberg) | Danny Froberg | Gozo, Malta | 1,991 |
 | 16 | [mbj](https://github.com/mbj) | Markus Schirp | Malta | 1,980 |
-| 17 | [SerZhyAle](https://github.com/SerZhyAle) | Serhii Zhyhunenko | Malta | 1,899 |
-| 18 | [terranc](https://github.com/terranc) | Terran | Malta | 1,891 |
+| 17 | [terranc](https://github.com/terranc) | Terran | Malta | 1,922 |
+| 18 | [SerZhyAle](https://github.com/SerZhyAle) | Serhii Zhyhunenko | Malta | 1,899 |
 | 19 | [owenfar](https://github.com/owenfar) |  | Malta | 1,331 |
 | 20 | [GefMar](https://github.com/GefMar) | Sergei Romanchuk | Malta | 1,293 |
 
@@ -83,4 +83,4 @@ Indexed users: 1,223
 | 19 | [mattcg](https://github.com/mattcg) | Matthew Caruana Galizia | Malta | 126 |
 | 20 | [CM2Walki](https://github.com/CM2Walki) | Walki | Malta | 118 |
 
-Generated: 2026-10-22T07:20:50.353Z
+Generated: 2026-10-22T08:58:08.852Z

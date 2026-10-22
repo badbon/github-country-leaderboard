@@ -1,6 +1,6 @@
 # Total Contributions - Monaco
 
-Generated: 2026-10-22T07:24:33.795Z
+Generated: 2026-10-22T09:01:59.590Z
 
 Users: 142
 
@@ -8,7 +8,7 @@ Users: 142
 |---:|---|---|---|---|---|---:|
 | 1 | [AlexRLG98](https://github.com/AlexRLG98) | Alex_RLG |  |  | Monaco | 7545 |
 | 2 | [DamienMonchaty](https://github.com/DamienMonchaty) | Damien Monchaty | @MRX-Systems  |  | Monaco | 6040 |
-| 3 | [laurentqro](https://github.com/laurentqro) | Laurent Curau |  |  | Monaco | 5119 |
+| 3 | [laurentqro](https://github.com/laurentqro) | Laurent Curau |  |  | Monaco | 5039 |
 | 4 | [LovelessCodes](https://github.com/LovelessCodes) |  |  |  | Monaco | 3761 |
 | 5 | [KristofM854](https://github.com/KristofM854) | Kristof Moeller | International Atomic Energy Agency |  | Monaco | 1915 |
 | 6 | [silvainfm](https://github.com/silvainfm) | François-Marie Brych |  |  | Nashville & Monaco | 1728 |
@@ -17,7 +17,7 @@ Users: 142
 | 9 | [NicoBocq](https://github.com/NicoBocq) | Nicolas Bocquet | Inforca |  | Marseille / Monaco | 949 |
 | 10 | [jz222](https://github.com/jz222) | Timo Zimmermann | Mosaic S.A.R.L |  | Monte-Carlo, Monaco | 796 |
 | 11 | [tatianamc](https://github.com/tatianamc) | Tatiana |  |  | Monaco | 783 |
-| 12 | [Orion98MC](https://github.com/Orion98MC) | Thierry Passeron | Monte-Carlo Computing |  | Monaco | 605 |
+| 12 | [Orion98MC](https://github.com/Orion98MC) | Thierry Passeron | Monte-Carlo Computing |  | Monaco | 613 |
 | 13 | [asingizwe1](https://github.com/asingizwe1) | Dev. Louis Asingizwe | 7C | _Louis_A_ | Monaco , Kampala/Uganda | 578 |
 | 14 | [vjandrea](https://github.com/vjandrea) | Andrea Bergamasco | KeeSystem | vjandrea | Monaco | 561 |
 | 15 | [auvents-brave](https://github.com/auvents-brave) | Stéphane |  |  | Monaco | 419 |
@@ -25,4 +25,4 @@ Users: 142
 | 17 | [giraudremi92](https://github.com/giraudremi92) | Rémi |  |  | Monaco | 360 |
 | 18 | [ap705](https://github.com/ap705) | Arnaud Pradier |  |  | Monaco | 277 |
 | 19 | [Akira98000](https://github.com/Akira98000) | Santhakumaran Akira | Université Nice Côte D'Azur |  | Monaco  | 265 |
-| 20 | [co-stig](https://github.com/co-stig) | Constantine | Vilia |  | Monaco | 256 |
+| 20 | [co-stig](https://github.com/co-stig) | Constantine | Vilia |  | Monaco | 255 |

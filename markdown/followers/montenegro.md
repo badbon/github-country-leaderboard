@@ -1,6 +1,6 @@
 # Followers - Montenegro
 
-Generated: 2026-10-22T07:25:09.826Z
+Generated: 2026-10-22T09:02:07.418Z
 
 Users: 888
 
@@ -10,9 +10,9 @@ Users: 888
 | 2 | [dchest](https://github.com/dchest) | Dmitry Chestnykh | Coding Robots | dchest | Montenegro | 553 |
 | 3 | [1v4n4](https://github.com/1v4n4) |  | Fix The Status Quo |  | Montenegro | 494 |
 | 4 | [Const-me](https://github.com/Const-me) | Konstantin |  |  | Tivat, Montenegro | 363 |
-| 5 | [oranmehmetsirin](https://github.com/oranmehmetsirin) | Mehmet Şirin ORAN |  | MehmetSirinORAN | Montenegro | 346 |
+| 5 | [oranmehmetsirin](https://github.com/oranmehmetsirin) | Mehmet Şirin ORAN |  | MehmetSirinORAN | Montenegro | 348 |
 | 6 | [dockimbel](https://github.com/dockimbel) | Nenad Rakocevic | Fullstack Technologies | red_lang | Montenegro | 335 |
-| 7 | [LukaDut7](https://github.com/LukaDut7) | Luka Dutina |  |  | Podgorica, Montenegro | 229 |
+| 7 | [LukaDut7](https://github.com/LukaDut7) | Luka Dutina |  |  | Podgorica, Montenegro | 230 |
 | 8 | [YuriiMotov](https://github.com/YuriiMotov) | Yurii Motov |  |  | Bar, Montenegro | 197 |
 | 9 | [sondreb](https://github.com/sondreb) | SondreB | @nostria-app @block-core @Liberstad | sondreb | Bar, Montenegro | 145 |
 | 10 | [cblp](https://github.com/cblp) | Yury Syrovetsky |  |  | Montenegro | 142 |

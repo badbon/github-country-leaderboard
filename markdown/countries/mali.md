@@ -13,7 +13,7 @@ Indexed users: 347
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [dione24](https://github.com/dione24) | Niangaly Abdoulaye | BAMAKO MALI | 8,954 |
-| 2 | [koneke55](https://github.com/koneke55) | कोनेके | Bamako, Mali | 7,173 |
+| 2 | [koneke55](https://github.com/koneke55) | कोनेके | Bamako, Mali | 7,167 |
 | 3 | [flyBoy667](https://github.com/flyBoy667) | Salifou Dembélé | Bamako-Mali | 6,117 |
 | 4 | [Abbv75](https://github.com/Abbv75) | Younouss Boré  | Bamako, telecel GBS | 6,114 |
 | 5 | [sudoping01](https://github.com/sudoping01) | sed | Bamako | 5,432 |
@@ -27,17 +27,17 @@ Indexed users: 347
 | 13 | [AbduRahmanS](https://github.com/AbduRahmanS) | Abdrahamane Sarambounou | Bamako | 2,085 |
 | 14 | [Dioman-Keita](https://github.com/Dioman-Keita) | Dioman Keïta | Bamako/Mali | 2,013 |
 | 15 | [djounnoureyni](https://github.com/djounnoureyni) | Ousmane Mahamane Maïga | Bamako, Mali | 2,003 |
-| 16 | [Ifiboys](https://github.com/Ifiboys) | Ephraim D Oladokun | Bamako, Mali | 1,925 |
+| 16 | [Ifiboys](https://github.com/Ifiboys) | Ephraim D Oladokun | Bamako, Mali | 1,904 |
 | 17 | [Pelpav](https://github.com/Pelpav) | Christian Pavlov Elom Nouboukpo | Bamako | 1,716 |
-| 18 | [bahamasangare](https://github.com/bahamasangare) | Bahama Sangaré | MALI  | 1,626 |
-| 19 | [THIOYE97](https://github.com/THIOYE97) | THIOYE MARIKO | Bamako , Mali 🇲🇱  | 1,603 |
-| 20 | [Bah-traore](https://github.com/Bah-traore) | Mr.tanjiro_bah | Mali/Bamako | 1,550 |
+| 18 | [bahamasangare](https://github.com/bahamasangare) | Bahama Sangaré | MALI  | 1,622 |
+| 19 | [THIOYE97](https://github.com/THIOYE97) | THIOYE MARIKO | Bamako , Mali 🇲🇱  | 1,620 |
+| 20 | [Bah-traore](https://github.com/Bah-traore) | Mr.tanjiro_bah | Mali/Bamako | 1,546 |
 
 ## Public Contributions
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [koneke55](https://github.com/koneke55) | कोनेके | Bamako, Mali | 6,386 |
+| 1 | [koneke55](https://github.com/koneke55) | कोनेके | Bamako, Mali | 6,380 |
 | 2 | [MFOF7310](https://github.com/MFOF7310) | MFOFANA | Bamako,Mali | 4,396 |
 | 3 | [Dioman-Keita](https://github.com/Dioman-Keita) | Dioman Keïta | Bamako/Mali | 1,422 |
 | 4 | [rgaudin](https://github.com/rgaudin) | rgaudin | Bamako, Mali | 1,115 |
@@ -47,16 +47,16 @@ Indexed users: 347
 | 8 | [tijjanismk](https://github.com/tijjanismk) |  | Mali | 409 |
 | 9 | [LeoAz](https://github.com/LeoAz) | Lionel AZ | Bamako | 386 |
 | 10 | [Abdoul03](https://github.com/Abdoul03) | Abdoul Ibrahima Samaké | Bamako | 338 |
-| 11 | [THIOYE97](https://github.com/THIOYE97) | THIOYE MARIKO | Bamako , Mali 🇲🇱  | 324 |
-| 12 | [Dayifour](https://github.com/Dayifour) | Sékou Dayifourou KEITA | Bamako, Mali | 320 |
+| 11 | [Dayifour](https://github.com/Dayifour) | Sékou Dayifourou KEITA | Bamako, Mali | 320 |
+| 12 | [THIOYE97](https://github.com/THIOYE97) | THIOYE MARIKO | Bamako , Mali 🇲🇱  | 318 |
 | 13 | [malladev](https://github.com/malladev) | Mohamed Lamine KONE | Bamako - MALI | 263 |
 | 14 | [SekouSallah](https://github.com/SekouSallah) | Sékou Sow | Bamako, Mali | 250 |
 | 15 | [kontere-tienou](https://github.com/kontere-tienou) | Kontere TIENOU | Mali | 229 |
 | 16 | [Ibraci](https://github.com/Ibraci) | Ibrahim CISSE | Bamako | 175 |
 | 17 | [dione24](https://github.com/dione24) | Niangaly Abdoulaye | BAMAKO MALI | 171 |
 | 18 | [mandjou-dama](https://github.com/mandjou-dama) | Mandjou Dama | Bamako, Mali | 167 |
-| 19 | [mohdiop](https://github.com/mohdiop) | Mohamed Diop | Mali | 165 |
-| 20 | [diarray-hub](https://github.com/diarray-hub) | Diarra Yacouba | Bamako, Mali | 155 |
+| 19 | [diarray-hub](https://github.com/diarray-hub) | Diarra Yacouba | Bamako, Mali | 155 |
+| 20 | [mohdiop](https://github.com/mohdiop) | Mohamed Diop | Mali | 155 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 347
 | 19 | [AlyKonte](https://github.com/AlyKonte) |  | Mali/Bamako | 27 |
 | 20 | [Sidaty](https://github.com/Sidaty) | Sidaty Moulaye KOUREICHY | Bamako, Mali | 25 |
 
-Generated: 2026-10-22T07:20:09.900Z
+Generated: 2026-10-22T08:58:03.098Z

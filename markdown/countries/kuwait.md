@@ -21,7 +21,7 @@ Indexed users: 796
 | 7 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Kuwait | 5,897 |
 | 8 | [saskw2010](https://github.com/saskw2010) | Mostafa Elnagar | kuwait | 5,237 |
 | 9 | [bigboss97lnt](https://github.com/bigboss97lnt) | Nasser Tahan | Kuwait | 5,148 |
-| 10 | [Mubder](https://github.com/Mubder) | Mubder Alfaris | Kuwait | 4,590 |
+| 10 | [Mubder](https://github.com/Mubder) | Mubder Alfaris | Kuwait | 4,842 |
 | 11 | [knro](https://github.com/knro) | Jasem Mutlaq | Kuwait | 4,149 |
 | 12 | [careless10](https://github.com/careless10) | Menawer | Kuwait | 3,965 |
 | 13 | [mulaifi](https://github.com/mulaifi) | Salem Almulaifi | Kuwait | 3,838 |
@@ -29,8 +29,8 @@ Indexed users: 796
 | 15 | [Mazyod](https://github.com/Mazyod) | Maz | Kuwait | 3,818 |
 | 16 | [quadrillion-q8](https://github.com/quadrillion-q8) | Kuwait Computer Repair on Call | Hawalli, Kuwait | 3,793 |
 | 17 | [DiNaSoR](https://github.com/DiNaSoR) | BuYousef | Kuwait | 3,515 |
-| 18 | [aalhendi](https://github.com/aalhendi) | Abdulrazzaq Alhendi | Kuwait | 3,466 |
-| 19 | [tammerofficial](https://github.com/tammerofficial) | tammer | Kuwait City | 3,394 |
+| 18 | [tammerofficial](https://github.com/tammerofficial) | tammer | Kuwait City | 3,490 |
+| 19 | [aalhendi](https://github.com/aalhendi) | Abdulrazzaq Alhendi | Kuwait | 3,466 |
 | 20 | [saudshaddad](https://github.com/saudshaddad) | Saud Shaddad | Kuwait | 3,290 |
 
 ## Public Contributions
@@ -66,7 +66,7 @@ Indexed users: 796
 | 2 | [Voulnet](https://github.com/Voulnet) | Mohammed ALDOUB | Kuwait, Kuwait City | 446 |
 | 3 | [abdallahelsokary](https://github.com/abdallahelsokary) | Abdallah Elsokary | kuwait | 390 |
 | 4 | [Mazyod](https://github.com/Mazyod) | Maz | Kuwait | 211 |
-| 5 | [Mubder](https://github.com/Mubder) | Mubder Alfaris | Kuwait | 151 |
+| 5 | [Mubder](https://github.com/Mubder) | Mubder Alfaris | Kuwait | 150 |
 | 6 | [smokeme](https://github.com/smokeme) | Fawaz Adi | Kuwait | 150 |
 | 7 | [MMGGYY66](https://github.com/MMGGYY66) | MOHAMED GAMIL ELDIMARDASH | KUWAIT | 144 |
 | 8 | [dmakwt](https://github.com/dmakwt) | Dhari | Kuwait | 129 |
@@ -83,4 +83,4 @@ Indexed users: 796
 | 19 | [MoathOthman](https://github.com/MoathOthman) | Moath othman | Kuwait | 85 |
 | 20 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Kuwait | 83 |
 
-Generated: 2026-10-22T07:13:24.289Z
+Generated: 2026-10-22T08:51:21.338Z

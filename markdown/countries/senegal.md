@@ -1,6 +1,6 @@
 # Senegal
 
-Indexed users: 1,355
+Indexed users: 1,354
 
 | Leaderboard | Link |
 |---|---|
@@ -18,8 +18,8 @@ Indexed users: 1,355
 | 4 | [ModesteNAHUM](https://github.com/ModesteNAHUM) | Modeste NAHUM | Dakar, Sénégal | 10,293 |
 | 5 | [Titovich2203](https://github.com/Titovich2203) | Tito GBEDJEHA | Dakar, Senegal | 9,055 |
 | 6 | [jmndao](https://github.com/jmndao) | Jonathan Musa NDAO | Senegal | 8,106 |
-| 7 | [gaelahouanvoedo](https://github.com/gaelahouanvoedo) | Gael AHOUANVOEDO | Dakar, Sénégal | 7,682 |
-| 8 | [MJoshua25](https://github.com/MJoshua25) | Yao Josué | Dakar | 7,580 |
+| 7 | [MJoshua25](https://github.com/MJoshua25) | Yao Josué | Dakar | 8,088 |
+| 8 | [gaelahouanvoedo](https://github.com/gaelahouanvoedo) | Gael AHOUANVOEDO | Dakar, Sénégal | 7,682 |
 | 9 | [utachicodes](https://github.com/utachicodes) | Abdoullah Ndao | Senegal | 6,419 |
 | 10 | [njaga](https://github.com/njaga) | Ndiaga Ndiaye | Dakar | 5,895 |
 | 11 | [touskar](https://github.com/touskar) | Moussa Ndour DSI at INTech Group | Dakar | 5,806 |
@@ -83,4 +83,4 @@ Indexed users: 1,355
 | 19 | [patheGobel](https://github.com/patheGobel) | Pathé BA | Senegal  | 146 |
 | 20 | [ngorseck](https://github.com/ngorseck) | Ngor SECK | Dakar - Sénégal | 142 |
 
-Generated: 2026-10-22T07:45:26.583Z
+Generated: 2026-10-22T09:22:01.644Z

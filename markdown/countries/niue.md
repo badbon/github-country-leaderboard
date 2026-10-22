@@ -12,7 +12,7 @@ Indexed users: 4
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [Kasp42](https://github.com/Kasp42) | Vladislav Kasperov | Niue | 444 |
+| 1 | [Kasp42](https://github.com/Kasp42) | Vladislav Kasperov | Niue | 446 |
 | 2 | [ggai3](https://github.com/ggai3) | Mark Caldwell | South Nathantown, Niue | 135 |
 | 3 | [duckls](https://github.com/duckls) | zhouyou xiang | 0487 ,Jewell Locks ,Ardistown ,Arkansas ,Niue | 0 |
 | 4 | [Muchiachio](https://github.com/Muchiachio) | Muchiachio | Niue | 0 |
@@ -21,8 +21,8 @@ Indexed users: 4
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [ggai3](https://github.com/ggai3) | Mark Caldwell | South Nathantown, Niue | 135 |
-| 2 | [Kasp42](https://github.com/Kasp42) | Vladislav Kasperov | Niue | 134 |
+| 1 | [Kasp42](https://github.com/Kasp42) | Vladislav Kasperov | Niue | 136 |
+| 2 | [ggai3](https://github.com/ggai3) | Mark Caldwell | South Nathantown, Niue | 135 |
 | 3 | [duckls](https://github.com/duckls) | zhouyou xiang | 0487 ,Jewell Locks ,Ardistown ,Arkansas ,Niue | 0 |
 | 4 | [Muchiachio](https://github.com/Muchiachio) | Muchiachio | Niue | 0 |
 
@@ -35,4 +35,4 @@ Indexed users: 4
 | 3 | [duckls](https://github.com/duckls) | zhouyou xiang | 0487 ,Jewell Locks ,Ardistown ,Arkansas ,Niue | 4 |
 | 4 | [Kasp42](https://github.com/Kasp42) | Vladislav Kasperov | Niue | 3 |
 
-Generated: 2026-10-22T07:30:41.718Z
+Generated: 2026-10-22T09:08:10.188Z

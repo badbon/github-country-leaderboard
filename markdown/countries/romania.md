@@ -16,8 +16,8 @@ Indexed users: 14,972
 | 2 | [eduardg7](https://github.com/eduardg7) | Eduard G | Bucharest | 36,418 |
 | 3 | [suciumarius](https://github.com/suciumarius) | Marius-Cornel Suciu | Romania | 35,283 |
 | 4 | [0-vortex](https://github.com/0-vortex) | TED Vortex (Teodor-Eugen Duțulescu) | Romania | 34,226 |
-| 5 | [razvandimescu](https://github.com/razvandimescu) | Razvan Dimescu | Craiova, Romania | 23,800 |
-| 6 | [mihaipxm](https://github.com/mihaipxm) | Mihai Ungureanu | Romania | 23,002 |
+| 5 | [mihaipxm](https://github.com/mihaipxm) | Mihai Ungureanu | Romania | 30,414 |
+| 6 | [razvandimescu](https://github.com/razvandimescu) | Razvan Dimescu | Craiova, Romania | 23,800 |
 | 7 | [zenprocess](https://github.com/zenprocess) | Zen Process | Bucharest, Romania | 19,586 |
 | 8 | [algunion](https://github.com/algunion) | Marius Fersigan | Romania | 18,770 |
 | 9 | [danlex](https://github.com/danlex) | Alexandru Dan | Bucharest, Romania | 18,445 |
@@ -40,23 +40,23 @@ Indexed users: 14,972
 | 1 | [0-vortex](https://github.com/0-vortex) | TED Vortex (Teodor-Eugen Duțulescu) | Romania | 32,297 |
 | 2 | [eliandoran](https://github.com/eliandoran) | Elian Doran | Sibiu, Romania | 12,658 |
 | 3 | [doriandrn](https://github.com/doriandrn) | Dorian Tudorache | Romania, EU | 7,896 |
-| 4 | [mihaipxm](https://github.com/mihaipxm) | Mihai Ungureanu | Romania | 7,782 |
-| 5 | [ThatSINEWAVE](https://github.com/ThatSINEWAVE) | David | Bucharest, Romania | 7,707 |
-| 6 | [cstroie](https://github.com/cstroie) | Costin Stroie | Bucharest, Romania | 7,659 |
-| 7 | [victorrentea](https://github.com/victorrentea) | Victor Rentea | Bucharest, Romania | 7,560 |
-| 8 | [homepods](https://github.com/homepods) | Andrei Toma | ROMANIA | 6,863 |
-| 9 | [hmlendea](https://github.com/hmlendea) | Horațiu Mlendea | Romania 🇷🇴 | 5,888 |
-| 10 | [ExtremeXT](https://github.com/ExtremeXT) |  | Romania | 5,609 |
-| 11 | [Prekzursil](https://github.com/Prekzursil) | Andrei Mihai Visalon | Romania | 5,592 |
-| 12 | [Gzeu](https://github.com/Gzeu) | George Pricop | București, Romania | 5,458 |
-| 13 | [alexjercan](https://github.com/alexjercan) | Alexandru Jercan | Bucharest, Romania | 4,833 |
-| 14 | [arolariu](https://github.com/arolariu) | Alexandru-Razvan Olariu | Romania | 4,381 |
-| 15 | [joahn3](https://github.com/joahn3) | Ionuț Francisc | Bucharest | 4,325 |
-| 16 | [shaftoe](https://github.com/shaftoe) | Alexander Fortin | Bucharest, Romania | 3,935 |
-| 17 | [marius-bughiu](https://github.com/marius-bughiu) | Marius Bughiu | Bucharest, Romania | 3,908 |
-| 18 | [mircea-pavel-anton](https://github.com/mircea-pavel-anton) | Mircea-Pavel Anton | Bucharest, Romania | 3,896 |
-| 19 | [tibtof](https://github.com/tibtof) | Tiberiu Tofan | Bucharest, Romania | 3,584 |
-| 20 | [iostpa](https://github.com/iostpa) | iostpa | Romania | 3,569 |
+| 4 | [ThatSINEWAVE](https://github.com/ThatSINEWAVE) | David | Bucharest, Romania | 7,707 |
+| 5 | [cstroie](https://github.com/cstroie) | Costin Stroie | Bucharest, Romania | 7,659 |
+| 6 | [victorrentea](https://github.com/victorrentea) | Victor Rentea | Bucharest, Romania | 7,560 |
+| 7 | [homepods](https://github.com/homepods) | Andrei Toma | ROMANIA | 6,863 |
+| 8 | [hmlendea](https://github.com/hmlendea) | Horațiu Mlendea | Romania 🇷🇴 | 5,888 |
+| 9 | [ExtremeXT](https://github.com/ExtremeXT) |  | Romania | 5,609 |
+| 10 | [Prekzursil](https://github.com/Prekzursil) | Andrei Mihai Visalon | Romania | 5,592 |
+| 11 | [Gzeu](https://github.com/Gzeu) | George Pricop | București, Romania | 5,458 |
+| 12 | [alexjercan](https://github.com/alexjercan) | Alexandru Jercan | Bucharest, Romania | 4,833 |
+| 13 | [arolariu](https://github.com/arolariu) | Alexandru-Razvan Olariu | Romania | 4,381 |
+| 14 | [joahn3](https://github.com/joahn3) | Ionuț Francisc | Bucharest | 4,325 |
+| 15 | [shaftoe](https://github.com/shaftoe) | Alexander Fortin | Bucharest, Romania | 3,935 |
+| 16 | [marius-bughiu](https://github.com/marius-bughiu) | Marius Bughiu | Bucharest, Romania | 3,908 |
+| 17 | [mircea-pavel-anton](https://github.com/mircea-pavel-anton) | Mircea-Pavel Anton | Bucharest, Romania | 3,896 |
+| 18 | [tibtof](https://github.com/tibtof) | Tiberiu Tofan | Bucharest, Romania | 3,584 |
+| 19 | [iostpa](https://github.com/iostpa) | iostpa | Romania | 3,569 |
+| 20 | [geodro](https://github.com/geodro) | George Dumitrescu | Bucharest, Romania | 3,514 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 14,972
 | 19 | [alexandru-paduraru](https://github.com/alexandru-paduraru) | Alex Paduraru | Bucharest | 600 |
 | 20 | [ovidiuch](https://github.com/ovidiuch) | Ovidiu Cherecheș | Cluj-Napoca, Romania | 582 |
 
-Generated: 2026-10-22T05:59:03.577Z
+Generated: 2026-10-22T09:16:15.811Z

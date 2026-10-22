@@ -1,6 +1,6 @@
 # Public Contributions - Gibraltar
 
-Generated: 2026-10-22T07:01:47.001Z
+Generated: 2026-10-22T08:39:44.410Z
 
 Users: 93
 
@@ -23,6 +23,6 @@ Users: 93
 | 15 | [Fenicio](https://github.com/Fenicio) | Guillermo G C |  |  | Gibraltar | 46 |
 | 16 | [vizcosity](https://github.com/vizcosity) | Aaron Baw | @bazel-uk  |  | Gibraltar | 46 |
 | 17 | [datsimon-design](https://github.com/datsimon-design) | Simon Gendrisch | University of Gibraltar |  | Gibraltar | 45 |
-| 18 | [nats12](https://github.com/nats12) | Natalie Mclaren | @Doist |  | Gibraltar | 41 |
+| 18 | [nats12](https://github.com/nats12) | Natalie Mclaren | @Doist |  | Gibraltar | 42 |
 | 19 | [thebaubau](https://github.com/thebaubau) | Daniel Fintinariu |  |  | Gibraltar | 41 |
 | 20 | [jonathanpennell](https://github.com/jonathanpennell) | Jonathan Pennell |  |  | Gibraltar | 37 |

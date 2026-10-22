@@ -12,7 +12,7 @@ Indexed users: 3,499
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [iamyoramu](https://github.com/iamyoramu) | IRUTABYOSE Yoramu | Kigali, Rwanda | 3,312,996 |
+| 1 | [iamyoramu](https://github.com/iamyoramu) | IRUTABYOSE Yoramu | Kigali, Rwanda | 3,312,892 |
 | 2 | [kajugadaniels](https://github.com/kajugadaniels) | KAJUGA Daniels | Kigali Rwanda | 64,318 |
 | 3 | [AlineHub-tech](https://github.com/AlineHub-tech) | Umugwaneza Aline | Kigali, Rwanda | 29,686 |
 | 4 | [Timtech4u](https://github.com/Timtech4u) | Timothy Olaleke | Kigali, Rwanda | 28,183 |
@@ -83,4 +83,4 @@ Indexed users: 3,499
 | 19 | [ghislainb-cracker](https://github.com/ghislainb-cracker) | Ghislain Byimbo | Rwanda | 316 |
 | 20 | [shemaikuzwe](https://github.com/shemaikuzwe) | Ikuzwe shema Elie | rwanda | 314 |
 
-Generated: 2026-10-22T07:40:13.837Z
+Generated: 2026-10-22T09:16:22.230Z

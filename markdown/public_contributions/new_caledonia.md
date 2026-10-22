@@ -1,6 +1,6 @@
 # Public Contributions - New Caledonia
 
-Generated: 2026-10-22T07:27:34.687Z
+Generated: 2026-10-22T09:05:15.908Z
 
 Users: 111
 
@@ -23,6 +23,6 @@ Users: 111
 | 15 | [trara538](https://github.com/trara538) | Rara Soro | South Pacific Community  |  | Noumea, New Caledonia | 152 |
 | 16 | [nevizsh](https://github.com/nevizsh) | Nevi |  |  | New Caledonia | 146 |
 | 17 | [Julien-Fruteau](https://github.com/Julien-Fruteau) | Julien |  | jfruteau | New Caledonia | 141 |
-| 18 | [FreddieJH](https://github.com/FreddieJH) | Freddie J. Heather |  |  | Noumea, New Caledonia | 121 |
-| 19 | [thhomas](https://github.com/thhomas) | Thomas Tilak |  |  | Nouméa | 121 |
+| 18 | [thhomas](https://github.com/thhomas) | Thomas Tilak |  |  | Nouméa | 121 |
+| 19 | [FreddieJH](https://github.com/FreddieJH) | Freddie J. Heather |  |  | Noumea, New Caledonia | 119 |
 | 20 | [Esncminas](https://github.com/Esncminas) | DUCTANE Adrien | INFOBAM NC |  | NEW CALEDONIA | 108 |

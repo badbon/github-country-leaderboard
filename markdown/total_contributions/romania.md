@@ -1,6 +1,6 @@
 # Total Contributions - Romania
 
-Generated: 2026-10-22T05:59:03.577Z
+Generated: 2026-10-22T09:16:15.811Z
 
 Users: 14972
 
@@ -10,8 +10,8 @@ Users: 14972
 | 2 | [eduardg7](https://github.com/eduardg7) | Eduard G |  |  | Bucharest | 36418 |
 | 3 | [suciumarius](https://github.com/suciumarius) | Marius-Cornel Suciu |  |  | Romania | 35283 |
 | 4 | [0-vortex](https://github.com/0-vortex) | TED Vortex (Teodor-Eugen Duțulescu) | BuildOps | 0_vortex | Romania | 34226 |
-| 5 | [razvandimescu](https://github.com/razvandimescu) | Razvan Dimescu | Rinkt.com |  | Craiova, Romania | 23800 |
-| 6 | [mihaipxm](https://github.com/mihaipxm) | Mihai Ungureanu | @pxmstudio |  | Romania | 23002 |
+| 5 | [mihaipxm](https://github.com/mihaipxm) | Mihai Ungureanu | @pxmstudio |  | Romania | 30414 |
+| 6 | [razvandimescu](https://github.com/razvandimescu) | Razvan Dimescu | Rinkt.com |  | Craiova, Romania | 23800 |
 | 7 | [zenprocess](https://github.com/zenprocess) | Zen Process | @Zen-Process  |  | Bucharest, Romania | 19586 |
 | 8 | [algunion](https://github.com/algunion) | Marius Fersigan |  | algunion | Romania | 18770 |
 | 9 | [danlex](https://github.com/danlex) | Alexandru Dan |  |  | Bucharest, Romania | 18445 |

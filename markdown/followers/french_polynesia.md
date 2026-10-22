@@ -1,6 +1,6 @@
 # Followers - French Polynesia
 
-Generated: 2026-10-22T06:59:00.042Z
+Generated: 2026-10-22T08:38:04.987Z
 
 Users: 60
 
@@ -18,7 +18,7 @@ Users: 60
 | 10 | [marsender](https://github.com/marsender) | Didier Corbière |  |  | French Polynesia | 15 |
 | 11 | [jbtheou](https://github.com/jbtheou) | Jean-Baptiste Théou |  |  | French Polynesia | 12 |
 | 12 | [glaziou](https://github.com/glaziou) | Philippe Glaziou |  |  | Tahiti, French Polynesia | 11 |
-| 13 | [teuna](https://github.com/teuna) | Teuna Ferrand |  |  | Tahiti, French Polynesia | 9 |
+| 13 | [teuna](https://github.com/teuna) | Teuna Ferrand |  |  | Tahiti, French Polynesia | 8 |
 | 14 | [yannkb](https://github.com/yannkb) | Yann Bouchereau |  | yannkb_ | Papeete, French Polynesia | 8 |
 | 15 | [MartinBINARD](https://github.com/MartinBINARD) | Martin Binard |  |  | Tahiti, French Polynesia | 7 |
 | 16 | [lauramikula](https://github.com/lauramikula) | Laura Mikula | York University | MikulaLaura | Tahiti, French Polynesia | 6 |

@@ -1,12 +1,12 @@
 # Total Contributions - Faroe Islands
 
-Generated: 2026-10-22T06:57:19.676Z
+Generated: 2026-10-22T08:37:13.840Z
 
 Users: 68
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [olavurellefsen](https://github.com/olavurellefsen) | Olavur Ellefsen | @Flowcore-io |  | Faroe Islands | 16030 |
+| 1 | [olavurellefsen](https://github.com/olavurellefsen) | Olavur Ellefsen | @Flowcore-io |  | Faroe Islands | 16035 |
 | 2 | [kruseio](https://github.com/kruseio) | Ragnar Kruse |  | kruseio | Faroe Islands | 6568 |
 | 3 | [jbiskur](https://github.com/jbiskur) | Julius á Rógvi Biskopstø |  |  | Faroe Islands | 5320 |
 | 4 | [argilzar](https://github.com/argilzar) | Brian Bischoff | @globe-tracker @flowcore-io  | argilzar | Faroe Islands | 3424 |
@@ -15,7 +15,7 @@ Users: 68
 | 7 | [hoegnason](https://github.com/hoegnason) | Rani Högnason Hansen | Faroese Telecom |  | Tórshavn | 2368 |
 | 8 | [suuunly](https://github.com/suuunly) | Jóhann Østerø | Flowcore, Gaman Games |  | Faroe Islands | 2257 |
 | 9 | [ingipingi](https://github.com/ingipingi) | Ingi á Steinamørk | Ingi á Steinamørk |  | Faroe Islands | 2211 |
-| 10 | [samal-rasmussen](https://github.com/samal-rasmussen) | Sámal Rasmussen | @bokin-fo  |  | Tórshavn, Faroe Islands | 2026 |
+| 10 | [samal-rasmussen](https://github.com/samal-rasmussen) | Sámal Rasmussen | @bokin-fo  |  | Tórshavn, Faroe Islands | 2027 |
 | 11 | [theodorjohannesen](https://github.com/theodorjohannesen) | Theodor E. Johannesen | Own |  | Faroe Islands | 1724 |
 | 12 | [MaterBater](https://github.com/MaterBater) | Mater | @HypixelDev |  | Faroe Islands | 1531 |
 | 13 | [SigmundurMorkore](https://github.com/SigmundurMorkore) | Sigmundur Mørkøre | @sansir  |  | Faroe Islands | 1521 |
@@ -24,5 +24,5 @@ Users: 68
 | 16 | [Theoistic](https://github.com/Theoistic) | Theodor Solbjorg | Theoistic | Theoistic | Faroe Islands | 870 |
 | 17 | [eydunn](https://github.com/eydunn) | Eyðun Nielsen | @globe-tracker |  | Tórshavn, Faroe islands | 689 |
 | 18 | [hansjd](https://github.com/hansjd) | Hans Jákup Danielsen |  |  | Faroe Islands | 652 |
-| 19 | [TimonPeng](https://github.com/TimonPeng) | Timon Peng |  | timonpeng | Føroyar | 620 |
+| 19 | [TimonPeng](https://github.com/TimonPeng) | Timon Peng |  | timonpeng | Føroyar | 629 |
 | 20 | [bardurdam](https://github.com/bardurdam) | Bárður Viberg Dam | @Arbeidsloysisskipanin  |  | Faroe Islands | 495 |

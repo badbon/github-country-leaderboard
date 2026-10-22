@@ -19,19 +19,19 @@ Indexed users: 10,652
 | 5 | [misho85](https://github.com/misho85) | Mišo Stevović | Belgrade, Serbia | 20,244 |
 | 6 | [probablyrobot](https://github.com/probablyrobot) | Igor Bogicevic | Serbia | 17,374 |
 | 7 | [MauricDaniel](https://github.com/MauricDaniel) |  | Novi Sad, Serbia | 17,170 |
-| 8 | [proffesor-for-testing](https://github.com/proffesor-for-testing) | Dragan Spiridonov | Petrovaradin, Serbia | 13,173 |
-| 9 | [msrdic](https://github.com/msrdic) | Mladen Srdic | Belgrade | 13,164 |
-| 10 | [ydnikolaev](https://github.com/ydnikolaev) | Nikolaev | Belgrade, Serbia | 12,572 |
-| 11 | [Nek-12](https://github.com/Nek-12) | Nek.12 | Serbia | 12,459 |
-| 12 | [momoshell](https://github.com/momoshell) | Momcilo Miladinovic | Belgrade | 11,050 |
-| 13 | [valentinajemuovic](https://github.com/valentinajemuovic) | Valentina Jemuović  | Belgrade, Serbia | 11,013 |
-| 14 | [boroworx](https://github.com/boroworx) | Marko Borojević | Belgrade, Serbia | 10,459 |
-| 15 | [filiptrivan](https://github.com/filiptrivan) | Filip Trivan | Belgrade, Serbia | 10,193 |
-| 16 | [darktasevski](https://github.com/darktasevski) | Darkø Tasevski | Serbia | 10,046 |
-| 17 | [olujicz](https://github.com/olujicz) | Zoran Olujić | Serbia | 10,025 |
-| 18 | [igorhrcek](https://github.com/igorhrcek) | Igor Hrček | Serbia | 9,548 |
-| 19 | [stefanpejcic](https://github.com/stefanpejcic) | Stefan Pejcic | Belgrade, Serbia | 9,534 |
-| 20 | [igorskyflyer](https://github.com/igorskyflyer) | Igor Dimitrijević | Serbia | 9,286 |
+| 8 | [Nikola-Milovic](https://github.com/Nikola-Milovic) | Nikola Milovic | Serbia | 14,586 |
+| 9 | [proffesor-for-testing](https://github.com/proffesor-for-testing) | Dragan Spiridonov | Petrovaradin, Serbia | 13,173 |
+| 10 | [msrdic](https://github.com/msrdic) | Mladen Srdic | Belgrade | 13,164 |
+| 11 | [ydnikolaev](https://github.com/ydnikolaev) | Nikolaev | Belgrade, Serbia | 12,572 |
+| 12 | [Nek-12](https://github.com/Nek-12) | Nek.12 | Serbia | 12,459 |
+| 13 | [momoshell](https://github.com/momoshell) | Momcilo Miladinovic | Belgrade | 11,050 |
+| 14 | [valentinajemuovic](https://github.com/valentinajemuovic) | Valentina Jemuović  | Belgrade, Serbia | 11,013 |
+| 15 | [boroworx](https://github.com/boroworx) | Marko Borojević | Belgrade, Serbia | 10,459 |
+| 16 | [filiptrivan](https://github.com/filiptrivan) | Filip Trivan | Belgrade, Serbia | 10,193 |
+| 17 | [darktasevski](https://github.com/darktasevski) | Darkø Tasevski | Serbia | 10,046 |
+| 18 | [olujicz](https://github.com/olujicz) | Zoran Olujić | Serbia | 10,025 |
+| 19 | [igorhrcek](https://github.com/igorhrcek) | Igor Hrček | Serbia | 9,548 |
+| 20 | [stefanpejcic](https://github.com/stefanpejcic) | Stefan Pejcic | Belgrade, Serbia | 9,534 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 10,652
 | 19 | [umpirsky](https://github.com/umpirsky) | Saša Stamenković | Niš, Serbia | 458 |
 | 20 | [Stojanovic94](https://github.com/Stojanovic94) | Nikola Stojanović | Niš, Serbia | 435 |
 
-Generated: 2026-10-22T07:45:32.169Z
+Generated: 2026-10-22T09:22:44.297Z

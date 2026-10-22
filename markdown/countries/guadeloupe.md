@@ -21,7 +21,7 @@ Indexed users: 86
 | 7 | [Gaelle-charles](https://github.com/Gaelle-charles) | Gaëlle CHARLES-BELAMOUR | Guadeloupe (FWI) | 1,393 |
 | 8 | [liobrasil](https://github.com/liobrasil) | Lionel LIMOL | Guadeloupe | 960 |
 | 9 | [BLVCK971](https://github.com/BLVCK971) | Yoel Pépin | Le Moule, GUADELOUPE | 954 |
-| 10 | [FWICSS](https://github.com/FWICSS) | FWICSS | Guadeloupe | 948 |
+| 10 | [FWICSS](https://github.com/FWICSS) | FWICSS | Guadeloupe | 947 |
 | 11 | [r1d](https://github.com/r1d) | Eric Degoul | Sainte-Anne, Guadeloupe | 755 |
 | 12 | [sboli](https://github.com/sboli) | Bolivar Stephen | Guadeloupe | 686 |
 | 13 | [nath971](https://github.com/nath971) | N | Guadeloupe | 658 |
@@ -38,7 +38,7 @@ Indexed users: 86
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [Gaelle-charles](https://github.com/Gaelle-charles) | Gaëlle CHARLES-BELAMOUR | Guadeloupe (FWI) | 1,393 |
-| 2 | [FWICSS](https://github.com/FWICSS) | FWICSS | Guadeloupe | 948 |
+| 2 | [FWICSS](https://github.com/FWICSS) | FWICSS | Guadeloupe | 947 |
 | 3 | [liobrasil](https://github.com/liobrasil) | Lionel LIMOL | Guadeloupe | 664 |
 | 4 | [macojaune](https://github.com/macojaune) | macojaune | Guadeloupe | 312 |
 | 5 | [seyken971](https://github.com/seyken971) | Andy Zébus | Guadeloupe | 230 |
@@ -50,7 +50,7 @@ Indexed users: 86
 | 11 | [ntxsay](https://github.com/ntxsay) | Loïc Bastaraud | Guadeloupe | 49 |
 | 12 | [sype](https://github.com/sype) | Sebastien Pincemail | Paris / Guadeloupe | 48 |
 | 13 | [SioTyron](https://github.com/SioTyron) | Tyron | Guadeloupe | 46 |
-| 14 | [bpoujol](https://github.com/bpoujol) | Basile Poujol | Les Abymes, Guadeloupe | 41 |
+| 14 | [bpoujol](https://github.com/bpoujol) | Basile Poujol | Les Abymes, Guadeloupe | 40 |
 | 15 | [leho971](https://github.com/leho971) | ZOZO Léo | Guadeloupe | 36 |
 | 16 | [fixups](https://github.com/fixups) | Christophe Théron | Guadeloupe | 30 |
 | 17 | [Floraline](https://github.com/Floraline) | LAPITRE Anneflore | Guadeloupe | 28 |
@@ -83,4 +83,4 @@ Indexed users: 86
 | 19 | [fg8oj](https://github.com/fg8oj) | Bertrand Demarcq FG8OJ/AG8OJ | Guadeloupe | 6 |
 | 20 | [kvaillant](https://github.com/kvaillant) | Karl Vaillant | Guadeloupe, West-Indies | 6 |
 
-Generated: 2026-10-22T07:03:07.547Z
+Generated: 2026-10-22T08:40:57.796Z

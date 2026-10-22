@@ -23,15 +23,15 @@ Indexed users: 2,013
 | 9 | [juraj-m](https://github.com/juraj-m) | Juraj | Yaguarón, Paraguay | 8,027 |
 | 10 | [zot24](https://github.com/zot24) |  | Asuncion, Paraguay | 7,889 |
 | 11 | [dev-cardenas](https://github.com/dev-cardenas) | Fernando Salinas Cardenas | Paraguay | 7,868 |
-| 12 | [mathiasgrimm](https://github.com/mathiasgrimm) | Mathias Grimm | Asunción, Paraguay | 7,299 |
-| 13 | [vVladyslaVv](https://github.com/vVladyslaVv) | Vladyslav Yeroma | Asuncion | 7,150 |
-| 14 | [kiquetal](https://github.com/kiquetal) | Enrique\m/Talavera | Paraguay | 6,752 |
-| 15 | [MHHukiewitz](https://github.com/MHHukiewitz) | Mike Hukiewitz | Paraguay, Cordillera | 6,711 |
-| 16 | [davicyyo](https://github.com/davicyyo) | DaViCyYo | Paraguay | 5,810 |
-| 17 | [everdaniel](https://github.com/everdaniel) | Ever Daniel Barreto | Asunción, Paraguay | 5,581 |
-| 18 | [yoryer](https://github.com/yoryer) | Jorge Noguera | Paraguay | 5,465 |
-| 19 | [aplgr](https://github.com/aplgr) | André Plöger | Paraguay | 5,210 |
-| 20 | [apojomovsky](https://github.com/apojomovsky) | Alexis Pojomovsky | Asunción - Paraguay | 5,111 |
+| 12 | [luifer-villalba](https://github.com/luifer-villalba) | Luifer Villalba | Asunción, Paraguay | 7,351 |
+| 13 | [mathiasgrimm](https://github.com/mathiasgrimm) | Mathias Grimm | Asunción, Paraguay | 7,299 |
+| 14 | [vVladyslaVv](https://github.com/vVladyslaVv) | Vladyslav Yeroma | Asuncion | 7,150 |
+| 15 | [kiquetal](https://github.com/kiquetal) | Enrique\m/Talavera | Paraguay | 6,752 |
+| 16 | [MHHukiewitz](https://github.com/MHHukiewitz) | Mike Hukiewitz | Paraguay, Cordillera | 6,711 |
+| 17 | [davicyyo](https://github.com/davicyyo) | DaViCyYo | Paraguay | 5,810 |
+| 18 | [everdaniel](https://github.com/everdaniel) | Ever Daniel Barreto | Asunción, Paraguay | 5,581 |
+| 19 | [yoryer](https://github.com/yoryer) | Jorge Noguera | Paraguay | 5,465 |
+| 20 | [aplgr](https://github.com/aplgr) | André Plöger | Paraguay | 5,210 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 2,013
 | 19 | [metakeule](https://github.com/metakeule) | metakeule | Asunción / Paraguay | 109 |
 | 20 | [replay](https://github.com/replay) | Mauro Stettler | Asuncion, Paraguay | 105 |
 
-Generated: 2026-10-22T07:35:41.108Z
+Generated: 2026-10-22T09:13:07.018Z
