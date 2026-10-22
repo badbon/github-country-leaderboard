@@ -51,12 +51,12 @@ Indexed users: 10,652
 | 12 | [svasenkov](https://github.com/svasenkov) | Vasenkov Stanislav | Serbia, Belgrade | 3,936 |
 | 13 | [iscekic](https://github.com/iscekic) | Igor Šćekić | Novi Sad, Serbia | 3,636 |
 | 14 | [nklmilojevic](https://github.com/nklmilojevic) | Nikola Milojević | Belgrade, Serbia | 3,610 |
-| 15 | [proffesor-for-testing](https://github.com/proffesor-for-testing) | Dragan Spiridonov | Petrovaradin, Serbia | 3,575 |
-| 16 | [dreikanter](https://github.com/dreikanter) | Alex Musayev | Novi Sad, Serbia | 3,565 |
-| 17 | [L4ki](https://github.com/L4ki) | L4ki | Serbia, Smederevska Palanka | 3,563 |
-| 18 | [vladprrs](https://github.com/vladprrs) | Vlad Pr | Belgrade, Serbia | 3,336 |
-| 19 | [egv](https://github.com/egv) | Gena | Belgrade - Tel Aviv - Dubai | 3,094 |
-| 20 | [MilosPaunovic](https://github.com/MilosPaunovic) | Miloš Paunović | Belgrade, Serbia | 3,024 |
+| 15 | [T-Damer](https://github.com/T-Damer) | Daniil Pankov | Serbia | 3,587 |
+| 16 | [proffesor-for-testing](https://github.com/proffesor-for-testing) | Dragan Spiridonov | Petrovaradin, Serbia | 3,575 |
+| 17 | [dreikanter](https://github.com/dreikanter) | Alex Musayev | Novi Sad, Serbia | 3,565 |
+| 18 | [L4ki](https://github.com/L4ki) | L4ki | Serbia, Smederevska Palanka | 3,563 |
+| 19 | [vladprrs](https://github.com/vladprrs) | Vlad Pr | Belgrade, Serbia | 3,336 |
+| 20 | [egv](https://github.com/egv) | Gena | Belgrade - Tel Aviv - Dubai | 3,094 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 10,652
 | 19 | [umpirsky](https://github.com/umpirsky) | Saša Stamenković | Niš, Serbia | 458 |
 | 20 | [Stojanovic94](https://github.com/Stojanovic94) | Nikola Stojanović | Niš, Serbia | 435 |
 
-Generated: 2026-10-22T06:05:17.402Z
+Generated: 2026-10-22T07:45:32.169Z

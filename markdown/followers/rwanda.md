@@ -1,8 +1,8 @@
 # Followers - Rwanda
 
-Generated: 2026-10-22T06:01:50.913Z
+Generated: 2026-10-22T07:40:13.837Z
 
-Users: 3500
+Users: 3499
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -16,7 +16,7 @@ Users: 3500
 | 8 | [ProgrammerDATCH](https://github.com/ProgrammerDATCH) | Mr. David | @gokabisa | ProgrammerDATCH | Kigali Rwanda | 896 |
 | 9 | [umutambyi-gad](https://github.com/umutambyi-gad) | Gad |  | umutambyi_gad | Kigali, Rwanda | 655 |
 | 10 | [samuelumutiti](https://github.com/samuelumutiti) | Umutiti Samuel | Freelancer | UsamuelC2287 | Rwanda / Kigali City | 614 |
-| 11 | [AlineHub-tech](https://github.com/AlineHub-tech) | Umugwaneza Aline | ByteFlow Ltd |  | Kigali, Rwanda | 511 |
+| 11 | [AlineHub-tech](https://github.com/AlineHub-tech) | Umugwaneza Aline | ByteFlow Ltd |  | Kigali, Rwanda | 523 |
 | 12 | [uwenayoallain](https://github.com/uwenayoallain) | Alain Pacifique UWENAYO |  | uwenayoallain | Kigali,Rwanda | 428 |
 | 13 | [neoscratchteam](https://github.com/neoscratchteam) | NeoScratch | NeoScratch |  | Kigali, Rwanda | 400 |
 | 14 | [Mucyo-chris](https://github.com/Mucyo-chris) | Christian MUCYO |  |  | KIGALI-RWANDA | 388 |

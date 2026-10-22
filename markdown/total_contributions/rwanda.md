@@ -1,14 +1,14 @@
 # Total Contributions - Rwanda
 
-Generated: 2026-10-22T06:01:50.913Z
+Generated: 2026-10-22T07:40:13.837Z
 
-Users: 3500
+Users: 3499
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [iamyoramu](https://github.com/iamyoramu) | IRUTABYOSE Yoramu | @yoratune | iamyoramu | Kigali, Rwanda | 3312996 |
 | 2 | [kajugadaniels](https://github.com/kajugadaniels) | KAJUGA Daniels | NEXCODE Africa |  | Kigali Rwanda | 64318 |
-| 3 | [AlineHub-tech](https://github.com/AlineHub-tech) | Umugwaneza Aline | ByteFlow Ltd |  | Kigali, Rwanda | 29162 |
+| 3 | [AlineHub-tech](https://github.com/AlineHub-tech) | Umugwaneza Aline | ByteFlow Ltd |  | Kigali, Rwanda | 29686 |
 | 4 | [Timtech4u](https://github.com/Timtech4u) | Timothy Olaleke |  |  | Kigali, Rwanda | 28183 |
 | 5 | [jazzybruno](https://github.com/jazzybruno) | Jazzy Bruno | @Rwanda_Coding_Academy |  | Kigali , Rwanda | 21268 |
 | 6 | [Chaste-Djaziri](https://github.com/Chaste-Djaziri) | Chaste Djaziri | Micorp |  | Rwanda | 18364 |

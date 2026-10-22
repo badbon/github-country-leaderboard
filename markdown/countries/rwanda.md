@@ -1,6 +1,6 @@
 # Rwanda
 
-Indexed users: 3,500
+Indexed users: 3,499
 
 | Leaderboard | Link |
 |---|---|
@@ -14,7 +14,7 @@ Indexed users: 3,500
 |---:|---|---|---|---:|
 | 1 | [iamyoramu](https://github.com/iamyoramu) | IRUTABYOSE Yoramu | Kigali, Rwanda | 3,312,996 |
 | 2 | [kajugadaniels](https://github.com/kajugadaniels) | KAJUGA Daniels | Kigali Rwanda | 64,318 |
-| 3 | [AlineHub-tech](https://github.com/AlineHub-tech) | Umugwaneza Aline | Kigali, Rwanda | 29,162 |
+| 3 | [AlineHub-tech](https://github.com/AlineHub-tech) | Umugwaneza Aline | Kigali, Rwanda | 29,686 |
 | 4 | [Timtech4u](https://github.com/Timtech4u) | Timothy Olaleke | Kigali, Rwanda | 28,183 |
 | 5 | [jazzybruno](https://github.com/jazzybruno) | Jazzy Bruno | Kigali , Rwanda | 21,268 |
 | 6 | [Chaste-Djaziri](https://github.com/Chaste-Djaziri) | Chaste Djaziri | Rwanda | 18,364 |
@@ -37,7 +37,7 @@ Indexed users: 3,500
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [AlineHub-tech](https://github.com/AlineHub-tech) | Umugwaneza Aline | Kigali, Rwanda | 23,998 |
+| 1 | [AlineHub-tech](https://github.com/AlineHub-tech) | Umugwaneza Aline | Kigali, Rwanda | 24,533 |
 | 2 | [kajugadaniels](https://github.com/kajugadaniels) | KAJUGA Daniels | Kigali Rwanda | 15,554 |
 | 3 | [Chaste-Djaziri](https://github.com/Chaste-Djaziri) | Chaste Djaziri | Rwanda | 8,590 |
 | 4 | [Kevin-The-Cyber-Coder](https://github.com/Kevin-The-Cyber-Coder) | MUKESHIMANA KEVIN | Kigali Rwanda | 6,857 |
@@ -72,7 +72,7 @@ Indexed users: 3,500
 | 8 | [ProgrammerDATCH](https://github.com/ProgrammerDATCH) | Mr. David | Kigali Rwanda | 896 |
 | 9 | [umutambyi-gad](https://github.com/umutambyi-gad) | Gad | Kigali, Rwanda | 655 |
 | 10 | [samuelumutiti](https://github.com/samuelumutiti) | Umutiti Samuel | Rwanda / Kigali City | 614 |
-| 11 | [AlineHub-tech](https://github.com/AlineHub-tech) | Umugwaneza Aline | Kigali, Rwanda | 511 |
+| 11 | [AlineHub-tech](https://github.com/AlineHub-tech) | Umugwaneza Aline | Kigali, Rwanda | 523 |
 | 12 | [uwenayoallain](https://github.com/uwenayoallain) | Alain Pacifique UWENAYO | Kigali,Rwanda | 428 |
 | 13 | [neoscratchteam](https://github.com/neoscratchteam) | NeoScratch | Kigali, Rwanda | 400 |
 | 14 | [Mucyo-chris](https://github.com/Mucyo-chris) | Christian MUCYO | KIGALI-RWANDA | 388 |
@@ -83,4 +83,4 @@ Indexed users: 3,500
 | 19 | [ghislainb-cracker](https://github.com/ghislainb-cracker) | Ghislain Byimbo | Rwanda | 316 |
 | 20 | [shemaikuzwe](https://github.com/shemaikuzwe) | Ikuzwe shema Elie | rwanda | 314 |
 
-Generated: 2026-10-22T06:01:50.913Z
+Generated: 2026-10-22T07:40:13.837Z
