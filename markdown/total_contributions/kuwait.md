@@ -1,12 +1,12 @@
 # Total Contributions - Kuwait
 
-Generated: 2026-10-22T18:39:23.904Z
+Generated: 2026-10-22T19:35:24.702Z
 
 Users: 795
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [mshll](https://github.com/mshll) | meshal | Boubyan Bank |  | Kuwait | 7795 |
+| 1 | [mshll](https://github.com/mshll) | meshal | Boubyan Bank |  | Kuwait | 8059 |
 | 2 | [buaziz](https://github.com/buaziz) | Buaziz |  |  | Kuwait | 7207 |
 | 3 | [ghaith99](https://github.com/ghaith99) |  |  |  | Kuwait | 6940 |
 | 4 | [BAWES](https://github.com/BAWES) | Khalid Al-Mutawa | BAWES |  | Kuwait | 6840 |
@@ -24,5 +24,5 @@ Users: 795
 | 16 | [quadrillion-q8](https://github.com/quadrillion-q8) | Kuwait Computer Repair on Call |  |  | Hawalli, Kuwait | 3793 |
 | 17 | [DiNaSoR](https://github.com/DiNaSoR) | BuYousef |  |  | Kuwait | 3515 |
 | 18 | [tammerofficial](https://github.com/tammerofficial) | tammer | tammerofficial | tammerofficial | Kuwait City | 3490 |
-| 19 | [aalhendi](https://github.com/aalhendi) | Abdulrazzaq Alhendi |  |  | Kuwait | 3466 |
+| 19 | [aalhendi](https://github.com/aalhendi) | Abdulrazzaq Alhendi |  |  | Kuwait | 3472 |
 | 20 | [IKA-Syrian](https://github.com/IKA-Syrian) | I.K.A Syrian |  | sh_brhoom | Kuwait | 3326 |

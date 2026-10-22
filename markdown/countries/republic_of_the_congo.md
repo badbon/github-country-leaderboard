@@ -25,8 +25,8 @@ Indexed users: 297
 | 11 | [Merite15](https://github.com/Merite15) | Merite | Brazzaville, Congo | 2,956 |
 | 12 | [Elisee01](https://github.com/Elisee01) | Kitoga Elisee | Kigali, Rwanda \| Congo, Kinshasa | 2,487 |
 | 13 | [sancty007](https://github.com/sancty007) | sanctifier Yaw-Mensah | Congo Brazzaville  | 2,356 |
-| 14 | [Cesar008](https://github.com/Cesar008) | Cesar Grace Louzala | Congo | 2,311 |
-| 15 | [josuebrunel](https://github.com/josuebrunel) | Josue Kouka | Pointe-Noire (Congo) | 2,294 |
+| 14 | [josuebrunel](https://github.com/josuebrunel) | Josue Kouka | Pointe-Noire (Congo) | 2,294 |
+| 15 | [Cesar008](https://github.com/Cesar008) | Cesar Grace Louzala | Congo | 2,242 |
 | 16 | [gedeon2306](https://github.com/gedeon2306) | JihrelDev | Brazzaville | 1,944 |
 | 17 | [Osiris-Balonga](https://github.com/Osiris-Balonga) | Emmanuel Osiris Balonga | Brazzaville, Congo | 1,871 |
 | 18 | [Rajivhost](https://github.com/Rajivhost) | Rajiv Mounguengue | Brazzaville, Congo | 1,758 |
@@ -83,4 +83,4 @@ Indexed users: 297
 | 19 | [WinnersProx](https://github.com/WinnersProx) | Vainqueur Bihame | Kigali,Rwanda,Congo | 25 |
 | 20 | [jenCkw](https://github.com/jenCkw) | Jenny Chikwanine | Congo | 23 |
 
-Generated: 2026-10-22T18:51:31.000Z
+Generated: 2026-10-22T19:47:25.490Z

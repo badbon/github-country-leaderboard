@@ -1,8 +1,8 @@
 # Followers - Puerto Rico
 
-Generated: 2026-10-22T18:50:45.507Z
+Generated: 2026-10-22T19:47:17.044Z
 
-Users: 1531
+Users: 1530
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

@@ -29,7 +29,7 @@ Indexed users: 291
 | 15 | [bostonmyk](https://github.com/bostonmyk) | Mike Mykytyn | Plymouth | 1,454 |
 | 16 | [418error](https://github.com/418error) | Andy 'Channie' Chan | Plymouth | 1,127 |
 | 17 | [samuel-duffield1](https://github.com/samuel-duffield1) | Sam Duffield | Plymouth | 1,066 |
-| 18 | [robertjwilson](https://github.com/robertjwilson) | Robert Wilson | Plymouth | 1,050 |
+| 18 | [robertjwilson](https://github.com/robertjwilson) | Robert Wilson | Plymouth | 1,054 |
 | 19 | [edgood1](https://github.com/edgood1) | Eddie Goodwin | Plymouth, MA | 964 |
 | 20 | [lucafrancesc](https://github.com/lucafrancesc) | Luca Francesco Eto | Plymouth | 956 |
 
@@ -40,12 +40,12 @@ Indexed users: 291
 | 1 | [dvmrry](https://github.com/dvmrry) | Dave Murray | Plymouth Meeting, Pennsylvania | 4,081 |
 | 2 | [albemontors](https://github.com/albemontors) | Alberto Montorsi | Plymouth | 3,878 |
 | 3 | [bostonmyk](https://github.com/bostonmyk) | Mike Mykytyn | Plymouth | 1,454 |
-| 4 | [robertjwilson](https://github.com/robertjwilson) | Robert Wilson | Plymouth | 1,050 |
+| 4 | [robertjwilson](https://github.com/robertjwilson) | Robert Wilson | Plymouth | 1,054 |
 | 5 | [jaydreyer](https://github.com/jaydreyer) | Jay Dreyer | Plymouth, MN | 703 |
 | 6 | [binarytide](https://github.com/binarytide) | John McAndrews | Plymouth, Ma | 691 |
 | 7 | [gjbauer](https://github.com/gjbauer) |  | Plymouth, NH | 682 |
 | 8 | [cpuzzuol](https://github.com/cpuzzuol) | Chris Puzzuoli | Plymouth, MI | 523 |
-| 9 | [patrickmgarrity](https://github.com/patrickmgarrity) | Patrick Garrity | Plymouth, MI | 451 |
+| 9 | [patrickmgarrity](https://github.com/patrickmgarrity) | Patrick Garrity | Plymouth, MI | 450 |
 | 10 | [OCNGill](https://github.com/OCNGill) | Stephen Gill | Plymouth, MA 02360 | 421 |
 | 11 | [AnshLaw](https://github.com/AnshLaw) | Ansh R. Suryavanshi | Plymouth, MI | 394 |
 | 12 | [tjrandall](https://github.com/tjrandall) | T.j. Randall | Plymouth, MA | 349 |
@@ -56,7 +56,7 @@ Indexed users: 291
 | 17 | [gingeapple182](https://github.com/gingeapple182) | Oliver | Plymouth | 273 |
 | 18 | [JacobMalin](https://github.com/JacobMalin) | Jacob Malin | Plymouth, MN | 225 |
 | 19 | [lunatech-3d](https://github.com/lunatech-3d) | LunaTech 3D | Plymouth, Wayne, MI | 207 |
-| 20 | [cjungmann](https://github.com/cjungmann) | Chuck Jungmann | Plymouth, MN USA | 185 |
+| 20 | [cjungmann](https://github.com/cjungmann) | Chuck Jungmann | Plymouth, MN USA | 183 |
 
 ## Followers
 
@@ -79,8 +79,8 @@ Indexed users: 291
 | 15 | [cmcneile](https://github.com/cmcneile) | Craig McNeile | Plymouth | 22 |
 | 16 | [ianckc](https://github.com/ianckc) | Ian Luckraft | Plymouth UK | 22 |
 | 17 | [kelefouras](https://github.com/kelefouras) | Kelefouras Vasilis | Plymouth | 22 |
-| 18 | [Prestophobia](https://github.com/Prestophobia) | Xander Wardell | Plymouth, Michigan | 22 |
-| 19 | [binarytide](https://github.com/binarytide) | John McAndrews | Plymouth, Ma | 21 |
+| 18 | [binarytide](https://github.com/binarytide) | John McAndrews | Plymouth, Ma | 21 |
+| 19 | [Prestophobia](https://github.com/Prestophobia) | Xander Wardell | Plymouth, Michigan | 21 |
 | 20 | [BeresIvan](https://github.com/BeresIvan) |  | Plymouth, MN | 20 |
 
-Generated: 2026-10-22T18:45:37.509Z
+Generated: 2026-10-22T19:41:03.792Z

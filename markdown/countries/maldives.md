@@ -22,8 +22,8 @@ Indexed users: 354
 | 8 | [hailam](https://github.com/hailam) | Mohamed Hailam Ahmed | Male`, Maldives | 6,077 |
 | 9 | [hashes02](https://github.com/hashes02) | HASHES | Maldives | 5,794 |
 | 10 | [ajaaibu](https://github.com/ajaaibu) | Ahmed Ali | Maldives | 5,779 |
-| 11 | [agent306](https://github.com/agent306) | Ncodex | Male', Maldives | 5,594 |
-| 12 | [maldivien](https://github.com/maldivien) | Ahmed Shareef | Maldives | 5,587 |
+| 11 | [maldivien](https://github.com/maldivien) | Ahmed Shareef | Maldives | 5,686 |
+| 12 | [agent306](https://github.com/agent306) | Ncodex | Male', Maldives | 5,594 |
 | 13 | [jaaahh](https://github.com/jaaahh) | Jaah | Maldives | 5,283 |
 | 14 | [ayarse](https://github.com/ayarse) | ayaz | Maldives | 5,267 |
 | 15 | [NeXsHeLL](https://github.com/NeXsHeLL) | ismile ThuThts | Maldives | 4,978 |
@@ -83,4 +83,4 @@ Indexed users: 354
 | 19 | [muhannad0](https://github.com/muhannad0) | Monde | Maldives | 42 |
 | 20 | [inash](https://github.com/inash) | Inash Zubair | Male', Maldives | 41 |
 
-Generated: 2026-10-22T18:42:17.948Z
+Generated: 2026-10-22T19:38:30.004Z

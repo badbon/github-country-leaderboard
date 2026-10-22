@@ -1,6 +1,6 @@
 # Followers - Montserrat
 
-Generated: 2026-10-22T18:45:37.509Z
+Generated: 2026-10-22T19:41:03.792Z
 
 Users: 291
 
@@ -23,6 +23,6 @@ Users: 291
 | 15 | [cmcneile](https://github.com/cmcneile) | Craig McNeile | University of Plymouth |  | Plymouth | 22 |
 | 16 | [ianckc](https://github.com/ianckc) | Ian Luckraft |  | ianckc | Plymouth UK | 22 |
 | 17 | [kelefouras](https://github.com/kelefouras) | Kelefouras Vasilis | Uni of Plymouth |  | Plymouth | 22 |
-| 18 | [Prestophobia](https://github.com/Prestophobia) | Xander Wardell | Stardock | prestophobia | Plymouth, Michigan | 22 |
-| 19 | [binarytide](https://github.com/binarytide) | John McAndrews | Infinite-scope.com |  | Plymouth, Ma | 21 |
+| 18 | [binarytide](https://github.com/binarytide) | John McAndrews | Infinite-scope.com |  | Plymouth, Ma | 21 |
+| 19 | [Prestophobia](https://github.com/Prestophobia) | Xander Wardell | Stardock | prestophobia | Plymouth, Michigan | 21 |
 | 20 | [BeresIvan](https://github.com/BeresIvan) |  | June Co |  | Plymouth, MN | 20 |

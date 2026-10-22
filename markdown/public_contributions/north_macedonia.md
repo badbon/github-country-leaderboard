@@ -1,6 +1,6 @@
 # Public Contributions - North Macedonia
 
-Generated: 2026-10-22T18:47:18.428Z
+Generated: 2026-10-22T19:44:47.555Z
 
 Users: 1923
 
@@ -10,10 +10,10 @@ Users: 1923
 | 2 | [bokic](https://github.com/bokic) | Boris Barbulovski |  |  | North Macedonia | 2295 |
 | 3 | [martinpetkovski](https://github.com/martinpetkovski) | Martin | KAMAi MEDIA | misteriozen | Bitola, Macedonia | 2282 |
 | 4 | [tino097](https://github.com/tino097) | Konstantin Sivakov | @MindsDB | tino097 | Bitola, North Macedonia | 1832 |
-| 5 | [oliverlaz](https://github.com/oliverlaz) | Oliver Lazoroski | @GetStream | _oliverlaz | Skopje, Macedonia | 1511 |
+| 5 | [oliverlaz](https://github.com/oliverlaz) | Oliver Lazoroski | @GetStream | _oliverlaz | Skopje, Macedonia | 1580 |
 | 6 | [ZoranPandovski](https://github.com/ZoranPandovski) | Zoran Pandovski | @mindsdb | ZoranPandovski | Bitola, North Macedonia | 1475 |
 | 7 | [andrejsshell](https://github.com/andrejsshell) | Andrej | @usekaneo | andrejsshell | Skopje | 1202 |
-| 8 | [ivasilov](https://github.com/ivasilov) | Ivan Vasilov | @supabase |  | Skopje, Macedonia | 1171 |
+| 8 | [ivasilov](https://github.com/ivasilov) | Ivan Vasilov | @supabase |  | Skopje, Macedonia | 1172 |
 | 9 | [VelikovPetar](https://github.com/VelikovPetar) | Petar Velikov | @GetStream |  | Skopje, Republic of Macedonia | 1081 |
 | 10 | [EienMosu](https://github.com/EienMosu) | Ozkan Selcuk |  |  | North Macedonia/Skopje | 1054 |
 | 11 | [isekovanic](https://github.com/isekovanic) | Ivan Sekovanikj | @GetStream |  | Skopje, Macedonia | 1030 |

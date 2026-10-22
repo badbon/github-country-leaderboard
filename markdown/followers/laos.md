@@ -1,6 +1,6 @@
 # Followers - Laos
 
-Generated: 2026-10-22T18:39:50.102Z
+Generated: 2026-10-22T19:35:31.524Z
 
 Users: 360
 
@@ -23,6 +23,6 @@ Users: 360
 | 15 | [1x000](https://github.com/1x000) | 平胖kiki |  |  | Laos | 21 |
 | 16 | [saypadith](https://github.com/saypadith) | Savath Saypadith | Laligence |  | Vientiane, Laos | 19 |
 | 17 | [vanglaz](https://github.com/vanglaz) | Somvang Laz |  | somvanglaz | Vientiane, Laos | 19 |
-| 18 | [Chanthale](https://github.com/Chanthale) | CHANTHALEE XAIYAKESONE | Quant HuB ReguTech | Chan5591 | Vientiane Capital, Lao PDR | 16 |
-| 19 | [Sengkue](https://github.com/Sengkue) | SengKueVang |  |  | Laos, Vientiane capital | 16 |
+| 18 | [Sengkue](https://github.com/Sengkue) | SengKueVang |  |  | Laos, Vientiane capital | 17 |
+| 19 | [Chanthale](https://github.com/Chanthale) | CHANTHALEE XAIYAKESONE | Quant HuB ReguTech | Chan5591 | Vientiane Capital, Lao PDR | 16 |
 | 20 | [JarnKet](https://github.com/JarnKet) | Ketsadaphone BOUTPANYDA | BCEL Bank |  | Savannakhet, Laos | 14 |

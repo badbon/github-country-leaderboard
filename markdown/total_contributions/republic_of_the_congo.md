@@ -1,6 +1,6 @@
 # Total Contributions - Republic of the Congo
 
-Generated: 2026-10-22T18:51:31.000Z
+Generated: 2026-10-22T19:47:25.490Z
 
 Users: 297
 
@@ -19,8 +19,8 @@ Users: 297
 | 11 | [Merite15](https://github.com/Merite15) | Merite |  |  | Brazzaville, Congo | 2956 |
 | 12 | [Elisee01](https://github.com/Elisee01) | Kitoga Elisee | Globoris Technologies | KitogaElisee | Kigali, Rwanda \| Congo, Kinshasa | 2487 |
 | 13 | [sancty007](https://github.com/sancty007) | sanctifier Yaw-Mensah |  |  | Congo Brazzaville  | 2356 |
-| 14 | [Cesar008](https://github.com/Cesar008) | Cesar Grace Louzala | cesoentreprise | CesarLouzala | Congo | 2311 |
-| 15 | [josuebrunel](https://github.com/josuebrunel) | Josue Kouka |  | josuebrunel | Pointe-Noire (Congo) | 2294 |
+| 14 | [josuebrunel](https://github.com/josuebrunel) | Josue Kouka |  | josuebrunel | Pointe-Noire (Congo) | 2294 |
+| 15 | [Cesar008](https://github.com/Cesar008) | Cesar Grace Louzala | cesoentreprise | CesarLouzala | Congo | 2242 |
 | 16 | [gedeon2306](https://github.com/gedeon2306) | JihrelDev |  |  | Brazzaville | 1944 |
 | 17 | [Osiris-Balonga](https://github.com/Osiris-Balonga) | Emmanuel Osiris Balonga |  |  | Brazzaville, Congo | 1871 |
 | 18 | [Rajivhost](https://github.com/Rajivhost) | Rajiv Mounguengue | FunctionalStack | rajivhost | Brazzaville, Congo | 1758 |

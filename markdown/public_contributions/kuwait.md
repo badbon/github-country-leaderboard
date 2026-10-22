@@ -1,6 +1,6 @@
 # Public Contributions - Kuwait
 
-Generated: 2026-10-22T18:39:23.904Z
+Generated: 2026-10-22T19:35:24.702Z
 
 Users: 795
 
@@ -14,7 +14,7 @@ Users: 795
 | 6 | [saskw2010](https://github.com/saskw2010) | Mostafa Elnagar | wytSKY Clouding Solutions | wyt_sky | kuwait | 1740 |
 | 7 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Dsrpt. | AbdulkaderSafi | Kuwait | 1662 |
 | 8 | [Moslemjaw](https://github.com/Moslemjaw) | Moslem Jawich | Nova |  | Kuwait | 1574 |
-| 9 | [aalhendi](https://github.com/aalhendi) | Abdulrazzaq Alhendi |  |  | Kuwait | 1399 |
+| 9 | [aalhendi](https://github.com/aalhendi) | Abdulrazzaq Alhendi |  |  | Kuwait | 1415 |
 | 10 | [Mubder](https://github.com/Mubder) | Mubder Alfaris | KazmaAI | b_alfaris | Kuwait | 1335 |
 | 11 | [knro](https://github.com/knro) | Jasem Mutlaq |  |  | Kuwait | 961 |
 | 12 | [usamahklair](https://github.com/usamahklair) | Usamah Klair | ZyntraChain  |  | Kuwait | 823 |

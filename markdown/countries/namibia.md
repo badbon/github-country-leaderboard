@@ -27,11 +27,11 @@ Indexed users: 474
 | 13 | [mtjikuzu](https://github.com/mtjikuzu) | Mbaunguraije Tjikuzu | Windhoek, Namibia | 2,804 |
 | 14 | [rolandihms](https://github.com/rolandihms) | ihms | Swakopmund, Namibia | 2,476 |
 | 15 | [gijzelaerr](https://github.com/gijzelaerr) | Gijs Molenaar | Amsterdam - Windhoek | 2,363 |
-| 16 | [geraldokandonga](https://github.com/geraldokandonga) | Geraldo K. Fillipus | Windhoek, Namibia | 2,166 |
+| 16 | [geraldokandonga](https://github.com/geraldokandonga) | Geraldo K. Fillipus | Windhoek, Namibia | 2,148 |
 | 17 | [Eckhardt-D](https://github.com/Eckhardt-D) | Eckhardt Scheffer | Namibia | 2,143 |
 | 18 | [TulongaHishiko](https://github.com/TulongaHishiko) | Tulonga Hishiko | Namibia  | 2,106 |
 | 19 | [lothartj](https://github.com/lothartj) | Lothar Tjipueja | Windhoek | 1,940 |
-| 20 | [evertvorster](https://github.com/evertvorster) | Evert Vorster | Walvis Bay, Namibia | 1,756 |
+| 20 | [evertvorster](https://github.com/evertvorster) | Evert Vorster | Walvis Bay, Namibia | 1,814 |
 
 ## Public Contributions
 
@@ -40,7 +40,7 @@ Indexed users: 474
 | 1 | [dikuwa](https://github.com/dikuwa) | Martin Mukoya | swakopmund, Namibia | 8,847 |
 | 2 | [UnitBuilds](https://github.com/UnitBuilds) | UnitBuilds | Namibia | 3,482 |
 | 3 | [DeclanRiedel](https://github.com/DeclanRiedel) | Declan | Walvis Bay, Namibia | 1,904 |
-| 4 | [evertvorster](https://github.com/evertvorster) | Evert Vorster | Walvis Bay, Namibia | 1,756 |
+| 4 | [evertvorster](https://github.com/evertvorster) | Evert Vorster | Walvis Bay, Namibia | 1,814 |
 | 5 | [CodeGrogu](https://github.com/CodeGrogu) | Jaden Awaseb | Namibia | 1,319 |
 | 6 | [gijzelaerr](https://github.com/gijzelaerr) | Gijs Molenaar | Amsterdam - Windhoek | 1,266 |
 | 7 | [lemuelvdm](https://github.com/lemuelvdm) | Lemuel | Namibia | 1,129 |
@@ -83,4 +83,4 @@ Indexed users: 474
 | 19 | [erassynathingo](https://github.com/erassynathingo) | Erastus Nathingo | Windhoek | 33 |
 | 20 | [Fox520](https://github.com/Fox520) | Thomas David | Namibia | 33 |
 
-Generated: 2026-10-22T18:45:52.547Z
+Generated: 2026-10-22T19:42:43.729Z

@@ -18,7 +18,7 @@ Indexed users: 991
 | 4 | [jaifar530](https://github.com/jaifar530) | Jaifar | Oman | 14,380 |
 | 5 | [NasserAlbusaidi](https://github.com/NasserAlbusaidi) | Nasser Albusaidi | Oman | 14,078 |
 | 6 | [7kylor](https://github.com/7kylor) | Taher Al Kiyumi | Muscat, OM. | 13,171 |
-| 7 | [bshbsh404](https://github.com/bshbsh404) | Bashir Hassan | Muscat, Oman | 10,687 |
+| 7 | [bshbsh404](https://github.com/bshbsh404) | Bashir Hassan | Muscat, Oman | 11,277 |
 | 8 | [alanqoudif](https://github.com/alanqoudif) | faisal al anqoudi | Muscat, Oman 🇴🇲 | 9,679 |
 | 9 | [aldhaifani](https://github.com/aldhaifani) | Tareq Al-Dhaifani | Muscat, Oman | 9,065 |
 | 10 | [iamsj7](https://github.com/iamsj7) | Shaik Jaleel | Muscat | 9,036 |
@@ -83,4 +83,4 @@ Indexed users: 991
 | 19 | [foxoman](https://github.com/foxoman) | Sultan Al Isaiee | Oman | 99 |
 | 20 | [3mrdev](https://github.com/3mrdev) | Amr Abd-Alkrim | Khartoum, Sudan \| Muscat, Oman | 94 |
 
-Generated: 2026-10-22T18:48:56.599Z
+Generated: 2026-10-22T19:45:01.212Z

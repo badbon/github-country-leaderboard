@@ -25,8 +25,8 @@ Indexed users: 347
 | 11 | [yacouba01](https://github.com/yacouba01) | Yacouba Doumbia | Mali | 2,507 |
 | 12 | [alitimbo](https://github.com/alitimbo) | Ali Timbo | Bamako | 2,212 |
 | 13 | [AbduRahmanS](https://github.com/AbduRahmanS) | Abdrahamane Sarambounou | Bamako | 2,085 |
-| 14 | [Dioman-Keita](https://github.com/Dioman-Keita) | Dioman Keïta | Bamako/Mali | 2,013 |
-| 15 | [djounnoureyni](https://github.com/djounnoureyni) | Ousmane Mahamane Maïga | Bamako, Mali | 2,003 |
+| 14 | [djounnoureyni](https://github.com/djounnoureyni) | Ousmane Mahamane Maïga | Bamako, Mali | 2,039 |
+| 15 | [Dioman-Keita](https://github.com/Dioman-Keita) | Dioman Keïta | Bamako/Mali | 2,013 |
 | 16 | [Ifiboys](https://github.com/Ifiboys) | Ephraim D Oladokun | Bamako, Mali | 1,904 |
 | 17 | [Pelpav](https://github.com/Pelpav) | Christian Pavlov Elom Nouboukpo | Bamako | 1,740 |
 | 18 | [bahamasangare](https://github.com/bahamasangare) | Bahama Sangaré | MALI  | 1,622 |
@@ -83,4 +83,4 @@ Indexed users: 347
 | 19 | [AlyKonte](https://github.com/AlyKonte) |  | Mali/Bamako | 27 |
 | 20 | [Sidaty](https://github.com/Sidaty) | Sidaty Moulaye KOUREICHY | Bamako, Mali | 25 |
 
-Generated: 2026-10-22T18:42:34.687Z
+Generated: 2026-10-22T19:38:33.270Z

@@ -1,8 +1,8 @@
 # Followers - Mexico
 
-Generated: 2026-10-22T18:43:54.719Z
+Generated: 2026-10-22T19:40:17.954Z
 
-Users: 23479
+Users: 23478
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

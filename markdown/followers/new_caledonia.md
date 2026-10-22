@@ -1,6 +1,6 @@
 # Followers - New Caledonia
 
-Generated: 2026-10-22T18:46:44.343Z
+Generated: 2026-10-22T19:43:11.892Z
 
 Users: 111
 
@@ -16,8 +16,8 @@ Users: 111
 | 8 | [jonathandelefortrie](https://github.com/jonathandelefortrie) | Jonathan Delefortrie |  |  | Nouméa | 23 |
 | 9 | [pmietlicki](https://github.com/pmietlicki) | Pascal MIETLICKI |  |  | New Caledonia | 19 |
 | 10 | [maitredede](https://github.com/maitredede) | Damien DALY |  |  | Nouméa, New Caledonia | 15 |
-| 11 | [stoyann-open-classrooms](https://github.com/stoyann-open-classrooms) | Stoyann Velten | @KRYSTO-NC  | DevStoyann | Nouméa (New Caledonia) | 14 |
-| 12 | [FreddieJH](https://github.com/FreddieJH) | Freddie J. Heather |  |  | Noumea, New Caledonia | 13 |
+| 11 | [FreddieJH](https://github.com/FreddieJH) | Freddie J. Heather |  |  | Noumea, New Caledonia | 14 |
+| 12 | [stoyann-open-classrooms](https://github.com/stoyann-open-classrooms) | Stoyann Velten | @KRYSTO-NC  | DevStoyann | Nouméa (New Caledonia) | 14 |
 | 13 | [andymalo43](https://github.com/andymalo43) | Andy MALO | CAFAT |  | New-Caledonia | 12 |
 | 14 | [aNaoy](https://github.com/aNaoy) | Yoan Agostini |  |  | Nouméa | 11 |
 | 15 | [jchable](https://github.com/jchable) | Julien CHABLE | NC IT |  | Nouméa | 11 |

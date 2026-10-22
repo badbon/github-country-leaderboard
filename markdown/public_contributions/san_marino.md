@@ -1,6 +1,6 @@
 # Public Contributions - San Marino
 
-Generated: 2026-10-22T18:53:55.830Z
+Generated: 2026-10-22T19:50:22.738Z
 
 Users: 61
 
@@ -9,7 +9,7 @@ Users: 61
 | 1 | [calebnewtonusc](https://github.com/calebnewtonusc) | Caleb Newton | AINA Tech |  | San Marino, CA | 4319 |
 | 2 | [alessandrorebosio](https://github.com/alessandrorebosio) | Rebo | Università di Bologna |  | San Marino | 817 |
 | 3 | [gcardi](https://github.com/gcardi) | Giuliano Cardinali |  |  | Republic of San Marino | 494 |
-| 4 | [deBrian07](https://github.com/deBrian07) | Brian C. | Carnegie Mellon University |  | San Marino, CA | 370 |
+| 4 | [deBrian07](https://github.com/deBrian07) | Brian C. | Carnegie Mellon University |  | San Marino, CA | 399 |
 | 5 | [simooooone](https://github.com/simooooone) | Simos |  |  | San Marino | 284 |
 | 6 | [simorina](https://github.com/simorina) | Simone Rinaldi |  |  | San Marino | 232 |
 | 7 | [elena-sarti](https://github.com/elena-sarti) | Elena Sarti |  |  | San Marino | 197 |

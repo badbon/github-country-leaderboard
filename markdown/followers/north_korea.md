@@ -1,6 +1,6 @@
 # Followers - North Korea
 
-Generated: 2026-10-22T18:47:12.188Z
+Generated: 2026-10-22T19:44:39.346Z
 
 Users: 185
 
@@ -14,7 +14,7 @@ Users: 185
 | 6 | [strangerting](https://github.com/strangerting) | Big Kim | Kim Inc | westealbitcoin | Bunker, DPRK | 32 |
 | 7 | [shiftre](https://github.com/shiftre) | Shift |  |  | Pyongyang | 31 |
 | 8 | [SleekZ](https://github.com/SleekZ) | SleekZ |  |  | Pyongyang | 31 |
-| 9 | [brendan-lee](https://github.com/brendan-lee) | Brendan Lee |  |  | Pyongyang, North Korea | 30 |
+| 9 | [brendan-lee](https://github.com/brendan-lee) | Brendan Lee |  |  | Pyongyang, North Korea | 29 |
 | 10 | [chihongze](https://github.com/chihongze) | chihongze |  |  |  P'yŏngyang, North Korea | 27 |
 | 11 | [T1med0ut](https://github.com/T1med0ut) | Timedout | Unemployed | Hashf0und | North Korea | 27 |
 | 12 | [danilima8](https://github.com/danilima8) | Daniele Lima |  |  | North Korea | 18 |

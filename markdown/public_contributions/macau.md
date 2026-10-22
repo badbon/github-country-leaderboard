@@ -1,6 +1,6 @@
 # Public Contributions - Macau
 
-Generated: 2026-10-22T18:41:22.217Z
+Generated: 2026-10-22T19:38:15.146Z
 
 Users: 438
 
@@ -11,7 +11,7 @@ Users: 438
 | 3 | [hheei](https://github.com/hheei) | Lo Chon Hei |  |  | Macau | 3049 |
 | 4 | [RyanKung](https://github.com/RyanKung) | Elder Ryan |  | Elder24601 | Macau | 2947 |
 | 5 | [sfcheung](https://github.com/sfcheung) | Shu Fai Cheung | University of Macau | blogonresearch | Macao | 2853 |
-| 6 | [mugpeng](https://github.com/mugpeng) | Peng |  |  | macao | 2283 |
+| 6 | [mugpeng](https://github.com/mugpeng) | Peng |  |  | macao | 2299 |
 | 7 | [wahengchang](https://github.com/wahengchang) | peterchang | @Yahoo |  | macau | 1336 |
 | 8 | [yyyyyyounger](https://github.com/yyyyyyounger) | Rookie, LIN | University of Macau |  | Macau | 1284 |
 | 9 | [simoniong](https://github.com/simoniong) | Simon Iong | Ksun Technology |  | Macau | 1281 |

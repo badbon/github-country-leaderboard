@@ -14,7 +14,7 @@ Indexed users: 185
 |---:|---|---|---|---:|
 | 1 | [Kim9wang](https://github.com/Kim9wang) | Kim Wang | Pyongyang | 6,040 |
 | 2 | [advanced-rising](https://github.com/advanced-rising) | risingcore | Democratic People's Republic of Korea | 5,391 |
-| 3 | [boyesjo](https://github.com/boyesjo) | Boye Sjo | pyongyang | 4,458 |
+| 3 | [boyesjo](https://github.com/boyesjo) | Boye Sjo | pyongyang | 4,597 |
 | 4 | [sakweli](https://github.com/sakweli) | Josh Sakweli | North Korea | 2,472 |
 | 5 | [henxdl](https://github.com/henxdl) | henxdl | Pyongyang, North Korea | 2,005 |
 | 6 | [andrewlee1807](https://github.com/andrewlee1807) | Andrew | North Korea | 1,610 |
@@ -70,7 +70,7 @@ Indexed users: 185
 | 6 | [strangerting](https://github.com/strangerting) | Big Kim | Bunker, DPRK | 32 |
 | 7 | [shiftre](https://github.com/shiftre) | Shift | Pyongyang | 31 |
 | 8 | [SleekZ](https://github.com/SleekZ) | SleekZ | Pyongyang | 31 |
-| 9 | [brendan-lee](https://github.com/brendan-lee) | Brendan Lee | Pyongyang, North Korea | 30 |
+| 9 | [brendan-lee](https://github.com/brendan-lee) | Brendan Lee | Pyongyang, North Korea | 29 |
 | 10 | [chihongze](https://github.com/chihongze) | chihongze |  P'yŏngyang, North Korea | 27 |
 | 11 | [T1med0ut](https://github.com/T1med0ut) | Timedout | North Korea | 27 |
 | 12 | [danilima8](https://github.com/danilima8) | Daniele Lima | North Korea | 18 |
@@ -83,4 +83,4 @@ Indexed users: 185
 | 19 | [DillerOFire](https://github.com/DillerOFire) | VerpaSRP | North Korea | 14 |
 | 20 | [JeonJung-kook](https://github.com/JeonJung-kook) | Jeon Jung-kook Cantor | North Korea | 14 |
 
-Generated: 2026-10-22T18:47:12.188Z
+Generated: 2026-10-22T19:44:39.346Z

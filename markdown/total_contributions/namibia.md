@@ -1,6 +1,6 @@
 # Total Contributions - Namibia
 
-Generated: 2026-10-22T18:45:52.547Z
+Generated: 2026-10-22T19:42:43.729Z
 
 Users: 474
 
@@ -21,8 +21,8 @@ Users: 474
 | 13 | [mtjikuzu](https://github.com/mtjikuzu) | Mbaunguraije Tjikuzu | Namibia University of Science and Technology |  | Windhoek, Namibia | 2804 |
 | 14 | [rolandihms](https://github.com/rolandihms) | ihms | @ihms-co  | rolandihms | Swakopmund, Namibia | 2476 |
 | 15 | [gijzelaerr](https://github.com/gijzelaerr) | Gijs Molenaar | Spotify |  | Amsterdam - Windhoek | 2363 |
-| 16 | [geraldokandonga](https://github.com/geraldokandonga) | Geraldo K. Fillipus | Holoog |  | Windhoek, Namibia | 2166 |
+| 16 | [geraldokandonga](https://github.com/geraldokandonga) | Geraldo K. Fillipus | Holoog |  | Windhoek, Namibia | 2148 |
 | 17 | [Eckhardt-D](https://github.com/Eckhardt-D) | Eckhardt Scheffer | Kaizen Media | eckhardtdreyer | Namibia | 2143 |
 | 18 | [TulongaHishiko](https://github.com/TulongaHishiko) | Tulonga Hishiko | @ColabNam  |  | Namibia  | 2106 |
 | 19 | [lothartj](https://github.com/lothartj) | Lothar Tjipueja |  |  | Windhoek | 1940 |
-| 20 | [evertvorster](https://github.com/evertvorster) | Evert Vorster |  |  | Walvis Bay, Namibia | 1756 |
+| 20 | [evertvorster](https://github.com/evertvorster) | Evert Vorster |  |  | Walvis Bay, Namibia | 1814 |

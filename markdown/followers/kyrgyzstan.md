@@ -1,6 +1,6 @@
 # Followers - Kyrgyzstan
 
-Generated: 2026-10-22T18:39:47.246Z
+Generated: 2026-10-22T19:35:28.149Z
 
 Users: 2439
 

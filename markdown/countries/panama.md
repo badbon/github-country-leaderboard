@@ -40,8 +40,8 @@ Indexed users: 1,070
 | 1 | [jeremymcs](https://github.com/jeremymcs) | Jeremy McSpadden | Panama City, FL | 18,392 |
 | 2 | [ramonfabrega](https://github.com/ramonfabrega) | Ramon | Panama | 7,656 |
 | 3 | [ElenaRevicheva](https://github.com/ElenaRevicheva) | Elena | Panama, Panama city | 5,905 |
-| 4 | [nandocdev](https://github.com/nandocdev) | Fernando Castillo Valdés | Panama, Panama City | 2,690 |
-| 5 | [dsfaccini](https://github.com/dsfaccini) | David SF | Panama City | 2,608 |
+| 4 | [dsfaccini](https://github.com/dsfaccini) | David SF | Panama City | 2,755 |
+| 5 | [nandocdev](https://github.com/nandocdev) | Fernando Castillo Valdés | Panama, Panama City | 2,690 |
 | 6 | [ergofobe](https://github.com/ergofobe) | Jim Phillips | Panama | 2,166 |
 | 7 | [Yizack](https://github.com/Yizack) | Yizack Rangel | Panama | 1,979 |
 | 8 | [kingg22](https://github.com/kingg22) | Rey | Panama | 1,929 |
@@ -51,9 +51,9 @@ Indexed users: 1,070
 | 12 | [ArkoSammy12](https://github.com/ArkoSammy12) | James Villarreal | Panama City, Panama | 1,485 |
 | 13 | [jaimelias](https://github.com/jaimelias) | Jaimelías | Panama City, Panama | 1,327 |
 | 14 | [kelvinhe04](https://github.com/kelvinhe04) | Kelvin He Wu | Panama | 1,186 |
-| 15 | [neithanmo](https://github.com/neithanmo) | Natanael Mojica | Panama City, Panama | 1,159 |
-| 16 | [jquesada92](https://github.com/jquesada92) | Jose Quesada | Panama | 1,158 |
-| 17 | [alexandermorales-dev](https://github.com/alexandermorales-dev) | Alexander Morales | Panama/Venezuela | 1,146 |
+| 15 | [alexandermorales-dev](https://github.com/alexandermorales-dev) | Alexander Morales | Panama/Venezuela | 1,175 |
+| 16 | [neithanmo](https://github.com/neithanmo) | Natanael Mojica | Panama City, Panama | 1,159 |
+| 17 | [jquesada92](https://github.com/jquesada92) | Jose Quesada | Panama | 1,158 |
 | 18 | [ahmedrangel](https://github.com/ahmedrangel) | Ahmed Rangel | Panama | 1,138 |
 | 19 | [swlarot](https://github.com/swlarot) | José Luis González Montenegro | Panama | 1,014 |
 | 20 | [iaretechnician](https://github.com/iaretechnician) | Frank Harris | Panama City Beach FL | 948 |
@@ -78,9 +78,9 @@ Indexed users: 1,070
 | 14 | [ibarria0](https://github.com/ibarria0) | Ivan Barria | Panama | 58 |
 | 15 | [joseabraham](https://github.com/joseabraham) | Jose Abraham Garcia | Panama | 55 |
 | 16 | [alexishevia](https://github.com/alexishevia) | Alexis Hevia | Panama City, Panama | 54 |
-| 17 | [dsfaccini](https://github.com/dsfaccini) | David SF | Panama City | 52 |
-| 18 | [hoolymama](https://github.com/hoolymama) | Julian Mann | Panama | 52 |
+| 17 | [hoolymama](https://github.com/hoolymama) | Julian Mann | Panama | 52 |
+| 18 | [dsfaccini](https://github.com/dsfaccini) | David SF | Panama City | 51 |
 | 19 | [Commandtechno](https://github.com/Commandtechno) | Techno | David, Panama | 49 |
 | 20 | [jebberjeb](https://github.com/jebberjeb) | Jeb Beich | Panama City, FL | 48 |
 
-Generated: 2026-10-22T18:49:18.858Z
+Generated: 2026-10-22T19:45:47.125Z
