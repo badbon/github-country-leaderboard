@@ -44492,7 +44492,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 69,
+    "publicContributions": 10,
     "createdAt": "2023-05-05T14:08:57Z"
   },
   {
@@ -44528,7 +44528,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 0,
     "createdAt": "2023-08-08T14:37:18Z"
   },
   {
@@ -44540,7 +44540,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 17,
     "createdAt": "2023-12-06T03:02:31Z"
   },
   {
@@ -44550,9 +44550,9 @@
     "location": "Providencia, Santiago",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 3319,
-    "publicContributions": 68,
+    "followers": 2,
+    "privateContributions": 4116,
+    "publicContributions": 145,
     "createdAt": "2023-01-24T17:34:22Z"
   },
   {
@@ -44575,21 +44575,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 163,
-    "publicContributions": 30,
+    "privateContributions": 195,
+    "publicContributions": 7,
     "createdAt": "2022-12-31T19:08:29Z"
-  },
-  {
-    "login": "Instacris",
-    "name": "Cristóbal Chacón Briones",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/147624325?s=72&u=ae7c6139abf6561494075fc3114d211b523923b6&v=4",
-    "location": "Santiago, Quinta normal.",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 116,
-    "createdAt": "2023-10-11T13:21:24Z"
   },
   {
     "login": "IscFernandoG",
@@ -44648,7 +44636,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 23,
     "createdAt": "2023-10-28T00:13:24Z"
   },
   {
@@ -44660,7 +44648,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 2,
     "createdAt": "2023-04-14T00:24:08Z"
   },
   {
@@ -44694,7 +44682,7 @@
     "location": "Santiago, CL",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-03-09T14:32:52Z"
@@ -44708,7 +44696,7 @@
     "twitterUsername": "luiscdano",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 767,
+    "publicContributions": 772,
     "createdAt": "2023-09-13T02:06:13Z"
   },
   {
