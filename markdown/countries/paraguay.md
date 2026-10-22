@@ -1,6 +1,6 @@
 # Paraguay
 
-Indexed users: 2,014
+Indexed users: 2,013
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 2,014
 | 19 | [metakeule](https://github.com/metakeule) | metakeule | Asunción / Paraguay | 109 |
 | 20 | [replay](https://github.com/replay) | Mauro Stettler | Asuncion, Paraguay | 105 |
 
-Generated: 2026-10-22T00:52:39.037Z
+Generated: 2026-10-22T02:27:53.162Z

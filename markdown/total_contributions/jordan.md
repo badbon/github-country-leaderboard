@@ -1,8 +1,8 @@
 # Total Contributions - Jordan
 
-Generated: 2026-10-22T00:30:49.903Z
+Generated: 2026-10-22T02:05:29.857Z
 
-Users: 4002
+Users: 4001
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

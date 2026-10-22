@@ -1,6 +1,6 @@
 # Followers - North Macedonia
 
-Generated: 2026-10-22T00:49:59.327Z
+Generated: 2026-10-22T02:24:01.520Z
 
 Users: 1924
 
@@ -16,7 +16,7 @@ Users: 1924
 | 8 | [callibra](https://github.com/callibra) | Ivan Gjorcev  |  |  | Sveti Nikole, Macedonia  🌎 🗺️ | 243 |
 | 9 | [Shekswess](https://github.com/Shekswess) | Bojan Jakimovski | Loka | Shekswess | Skopje, Macedonia | 242 |
 | 10 | [stefanandonov](https://github.com/stefanandonov) | Stefan Andonov | Faculty of computer science and engineering - Skopje |  | Skopje, Macedonia | 223 |
-| 11 | [MTrajK](https://github.com/MTrajK) | Meto Trajkovski |  |  | Skopje | 215 |
+| 11 | [MTrajK](https://github.com/MTrajK) | Meto Trajkovski |  |  | Skopje | 217 |
 | 12 | [hf](https://github.com/hf) | Stojan Dimitrovski | @supabase |  | Skopje, Republic of North Macedonia | 201 |
 | 13 | [davorminchorov](https://github.com/davorminchorov) | Davor Minchorov | @codysseydev  | davorminchorov | Skopje, Macedonia | 186 |
 | 14 | [andrejsshell](https://github.com/andrejsshell) | Andrej | @usekaneo | andrejsshell | Skopje | 180 |

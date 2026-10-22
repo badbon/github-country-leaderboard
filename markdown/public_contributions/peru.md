@@ -1,8 +1,8 @@
 # Public Contributions - Peru
 
-Generated: 2026-10-22T00:53:02.898Z
+Generated: 2026-10-22T02:28:30.557Z
 
-Users: 9766
+Users: 9765
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -10,8 +10,8 @@ Users: 9766
 | 2 | [cesars](https://github.com/cesars) | César Soplín Sánchez | indexante |  | Lima, Perú | 8503 |
 | 3 | [nglmercer](https://github.com/nglmercer) | memelser |  |  | Peru | 7031 |
 | 4 | [jeancdevx](https://github.com/jeancdevx) | Jeancarlo Morales |  | gartiel23 | Peru | 5639 |
-| 5 | [totallynotdavid](https://github.com/totallynotdavid) | David |  |  | Lima, Perú | 5162 |
-| 6 | [cuevaio](https://github.com/cuevaio) | anthony | Humanity | cuevaio | Lima | 4911 |
+| 5 | [cuevaio](https://github.com/cuevaio) | anthony | Humanity | cuevaio | Lima | 5464 |
+| 6 | [totallynotdavid](https://github.com/totallynotdavid) | David |  |  | Lima, Perú | 5162 |
 | 7 | [Sve-nnN](https://github.com/Sve-nnN) | Juan Angulo |  |  | Lima | 4616 |
 | 8 | [beyondnetPeru](https://github.com/beyondnetPeru) | Alberto Arroyo Raygada | BeyondNet | beyondnet | Lima, Perú | 4074 |
 | 9 | [UltiRequiem](https://github.com/UltiRequiem) | Eliaz Bobadilla | @bobadilla-tech |  | Lima, Perú | 3788 |

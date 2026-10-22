@@ -1,8 +1,8 @@
 # Total Contributions - Peru
 
-Generated: 2026-10-22T00:53:02.898Z
+Generated: 2026-10-22T02:28:30.557Z
 
-Users: 9766
+Users: 9765
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -25,4 +25,4 @@ Users: 9766
 | 17 | [joekotvas](https://github.com/joekotvas) | Joseph Kotvas | Jokma Web Solutions |  | Lima, Peru | 7823 |
 | 18 | [nglmercer](https://github.com/nglmercer) | memelser |  |  | Peru | 7728 |
 | 19 | [DiegoCru1024](https://github.com/DiegoCru1024) | Diego Cruces |  |  | Lima | 7563 |
-| 20 | [KiryuuLight](https://github.com/KiryuuLight) | Luis Ortiz |  |  | Lima, Peru | 7286 |
+| 20 | [cuevaio](https://github.com/cuevaio) | anthony | Humanity | cuevaio | Lima | 7449 |

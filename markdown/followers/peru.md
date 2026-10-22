@@ -1,8 +1,8 @@
 # Followers - Peru
 
-Generated: 2026-10-22T00:53:02.898Z
+Generated: 2026-10-22T02:28:30.557Z
 
-Users: 9766
+Users: 9765
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -14,7 +14,7 @@ Users: 9766
 | 6 | [escueladigital](https://github.com/escueladigital) | EDteam | EDteam |  | Lima, Perú | 1009 |
 | 7 | [hexed-AAL1X](https://github.com/hexed-AAL1X) | AAL1X |  | hexed_aal1x | Perú/Lima | 790 |
 | 8 | [apholdings](https://github.com/apholdings) | SoloPython | SoloPython |  | Lima, Peru | 694 |
-| 9 | [OmarUTEC](https://github.com/OmarUTEC) | Om@r | University of Engineering and Technology | CHjavieromar | Lima, Perú | 683 |
+| 9 | [OmarUTEC](https://github.com/OmarUTEC) | Om@r | University of Engineering and Technology | CHjavieromar | Lima, Perú | 672 |
 | 10 | [joelibaceta](https://github.com/joelibaceta) | Joel Ibaceta |  | joelibaceta | Lima, Peru | 668 |
 | 11 | [CodigoEstudiante](https://github.com/CodigoEstudiante) | Codigo Estudiante | Creator |  | Peru | 637 |
 | 12 | [joedayz](https://github.com/joedayz) | José Díaz | JOEDAYZ | jamdiazdiaz | Lima - Perú | 614 |

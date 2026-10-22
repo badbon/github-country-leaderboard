@@ -1,6 +1,6 @@
 # Public Contributions - Martinique
 
-Generated: 2026-10-22T00:39:09.087Z
+Generated: 2026-10-22T02:14:16.863Z
 
 Users: 75
 
@@ -17,7 +17,7 @@ Users: 75
 | 9 | [ricard33](https://github.com/ricard33) | Cédric RICARD |  |  | Martinique | 345 |
 | 10 | [docVoid](https://github.com/docVoid) | void216 | pngrtz |  | Martinique | 320 |
 | 11 | [vevedh](https://github.com/vevedh) | Hervé de CHAVIGNY | @phasme |  | Martinique | 224 |
-| 12 | [b1nj](https://github.com/b1nj) | B1nj | pixellweb.com |  | Martinique | 201 |
+| 12 | [b1nj](https://github.com/b1nj) | B1nj | pixellweb.com |  | Martinique | 200 |
 | 13 | [bolom](https://github.com/bolom) | Bolo Michelin | @scionx-io | bolomichelin | Martinique | 167 |
 | 14 | [Jb-Analytics](https://github.com/Jb-Analytics) | Célia JEAN-BART |  |  | Martinique | 160 |
 | 15 | [Ulrico972](https://github.com/Ulrico972) | Ulrich Giberné | Airship |  | Martinique | 140 |

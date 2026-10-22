@@ -1,6 +1,6 @@
 # Peru
 
-Indexed users: 9,766
+Indexed users: 9,765
 
 | Leaderboard | Link |
 |---|---|
@@ -31,7 +31,7 @@ Indexed users: 9,766
 | 17 | [joekotvas](https://github.com/joekotvas) | Joseph Kotvas | Lima, Peru | 7,823 |
 | 18 | [nglmercer](https://github.com/nglmercer) | memelser | Peru | 7,728 |
 | 19 | [DiegoCru1024](https://github.com/DiegoCru1024) | Diego Cruces | Lima | 7,563 |
-| 20 | [KiryuuLight](https://github.com/KiryuuLight) | Luis Ortiz | Lima, Peru | 7,286 |
+| 20 | [cuevaio](https://github.com/cuevaio) | anthony | Lima | 7,449 |
 
 ## Public Contributions
 
@@ -41,8 +41,8 @@ Indexed users: 9,766
 | 2 | [cesars](https://github.com/cesars) | César Soplín Sánchez | Lima, Perú | 8,503 |
 | 3 | [nglmercer](https://github.com/nglmercer) | memelser | Peru | 7,031 |
 | 4 | [jeancdevx](https://github.com/jeancdevx) | Jeancarlo Morales | Peru | 5,639 |
-| 5 | [totallynotdavid](https://github.com/totallynotdavid) | David | Lima, Perú | 5,162 |
-| 6 | [cuevaio](https://github.com/cuevaio) | anthony | Lima | 4,911 |
+| 5 | [cuevaio](https://github.com/cuevaio) | anthony | Lima | 5,464 |
+| 6 | [totallynotdavid](https://github.com/totallynotdavid) | David | Lima, Perú | 5,162 |
 | 7 | [Sve-nnN](https://github.com/Sve-nnN) | Juan Angulo | Lima | 4,616 |
 | 8 | [beyondnetPeru](https://github.com/beyondnetPeru) | Alberto Arroyo Raygada | Lima, Perú | 4,074 |
 | 9 | [UltiRequiem](https://github.com/UltiRequiem) | Eliaz Bobadilla | Lima, Perú | 3,788 |
@@ -70,7 +70,7 @@ Indexed users: 9,766
 | 6 | [escueladigital](https://github.com/escueladigital) | EDteam | Lima, Perú | 1,009 |
 | 7 | [hexed-AAL1X](https://github.com/hexed-AAL1X) | AAL1X | Perú/Lima | 790 |
 | 8 | [apholdings](https://github.com/apholdings) | SoloPython | Lima, Peru | 694 |
-| 9 | [OmarUTEC](https://github.com/OmarUTEC) | Om@r | Lima, Perú | 683 |
+| 9 | [OmarUTEC](https://github.com/OmarUTEC) | Om@r | Lima, Perú | 672 |
 | 10 | [joelibaceta](https://github.com/joelibaceta) | Joel Ibaceta | Lima, Peru | 668 |
 | 11 | [CodigoEstudiante](https://github.com/CodigoEstudiante) | Codigo Estudiante | Peru | 637 |
 | 12 | [joedayz](https://github.com/joedayz) | José Díaz | Lima - Perú | 614 |
@@ -83,4 +83,4 @@ Indexed users: 9,766
 | 19 | [carlosal1015](https://github.com/carlosal1015) | Oromion | Lima, Peru | 438 |
 | 20 | [HackUnderway](https://github.com/HackUnderway) | Hack Underway | Lima - Perú | 413 |
 
-Generated: 2026-10-22T00:53:02.898Z
+Generated: 2026-10-22T02:28:30.557Z

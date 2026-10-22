@@ -25,7 +25,7 @@ Indexed users: 714
 | 11 | [oliverox](https://github.com/oliverox) | Oliver Oxenham | Mauritius | 5,429 |
 | 12 | [nyashaChiza](https://github.com/nyashaChiza) | Nyasha Chizampeni | Port Louis, Mauritius | 4,817 |
 | 13 | [MGabala](https://github.com/MGabala) | Mateusz | Mauritius | 4,192 |
-| 14 | [yayann](https://github.com/yayann) | Yann Labour | Mauritius | 4,038 |
+| 14 | [yayann](https://github.com/yayann) | Yann Labour | Mauritius | 4,110 |
 | 15 | [zfir](https://github.com/zfir) | Zafir Sk Heerah | Mauritius | 3,972 |
 | 16 | [thhsie](https://github.com/thhsie) | hitesh | Mauritius | 3,890 |
 | 17 | [k3ii](https://github.com/k3ii) | Jain Ramchurn | Mauritius | 3,826 |
@@ -83,4 +83,4 @@ Indexed users: 714
 | 19 | [MaskyS](https://github.com/MaskyS) | Kifah M | Mauritius | 76 |
 | 20 | [cbillowes](https://github.com/cbillowes) | Clarice Bouwer | Mauritius | 66 |
 
-Generated: 2026-10-22T00:39:51.559Z
+Generated: 2026-10-22T02:16:03.711Z

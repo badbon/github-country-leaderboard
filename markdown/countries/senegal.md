@@ -16,7 +16,7 @@ Indexed users: 1,355
 | 2 | [niangamadou888](https://github.com/niangamadou888) | Amadou Boubacar Niang | Saint-Louis, Senegal | 13,105 |
 | 3 | [OusManDiouf](https://github.com/OusManDiouf) | OUSMANE  DIOUF | Dakar, Sénégal | 10,735 |
 | 4 | [ModesteNAHUM](https://github.com/ModesteNAHUM) | Modeste NAHUM | Dakar, Sénégal | 10,293 |
-| 5 | [Titovich2203](https://github.com/Titovich2203) | Tito GBEDJEHA | Dakar, Senegal | 9,124 |
+| 5 | [Titovich2203](https://github.com/Titovich2203) | Tito GBEDJEHA | Dakar, Senegal | 9,055 |
 | 6 | [jmndao](https://github.com/jmndao) | Jonathan Musa NDAO | Senegal | 8,106 |
 | 7 | [gaelahouanvoedo](https://github.com/gaelahouanvoedo) | Gael AHOUANVOEDO | Dakar, Sénégal | 7,682 |
 | 8 | [MJoshua25](https://github.com/MJoshua25) | Yao Josué | Dakar | 7,580 |
@@ -43,10 +43,10 @@ Indexed users: 1,355
 | 4 | [nosleepman1](https://github.com/nosleepman1) | Abdallah Diouf | Dakar  | 2,805 |
 | 5 | [Anna-007-tech](https://github.com/Anna-007-tech) | Anne Marie Seye | Dakar, Sénégal | 2,478 |
 | 6 | [thesenegalesehitch](https://github.com/thesenegalesehitch) | Alexandre Albert Ndour | Rufisque, Dakar, Sénégal | 1,902 |
-| 7 | [IbrahimaTall](https://github.com/IbrahimaTall) | Ibrahima TALL | Dakar, Senegal | 1,787 |
-| 8 | [unic-backend](https://github.com/unic-backend) | Ousmane | dakar senegal | 1,778 |
-| 9 | [FadelDia](https://github.com/FadelDia) | Fallou Dia | SENEGAL | 1,671 |
-| 10 | [crybaby050](https://github.com/crybaby050) | Seydina | Senegal | 1,651 |
+| 7 | [unic-backend](https://github.com/unic-backend) | Ousmane | dakar senegal | 1,778 |
+| 8 | [FadelDia](https://github.com/FadelDia) | Fallou Dia | SENEGAL | 1,671 |
+| 9 | [crybaby050](https://github.com/crybaby050) | Seydina | Senegal | 1,651 |
+| 10 | [IbrahimaTall](https://github.com/IbrahimaTall) | Ibrahima TALL | Dakar, Senegal | 1,621 |
 | 11 | [Libs9977](https://github.com/Libs9977) | Libasse Mbaye | Dakar,Senegal | 1,599 |
 | 12 | [lucien-loua](https://github.com/lucien-loua) | lU | Dakar, Senegal | 1,482 |
 | 13 | [khadimmbaye0](https://github.com/khadimmbaye0) | Khadim MBAYE  | Dakar, Sn  | 1,418 |
@@ -83,4 +83,4 @@ Indexed users: 1,355
 | 19 | [patheGobel](https://github.com/patheGobel) | Pathé BA | Senegal  | 146 |
 | 20 | [ngorseck](https://github.com/ngorseck) | Ngor SECK | Dakar - Sénégal | 142 |
 
-Generated: 2026-10-22T01:00:30.038Z
+Generated: 2026-10-22T02:34:59.758Z

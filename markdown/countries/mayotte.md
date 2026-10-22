@@ -61,10 +61,10 @@ Indexed users: 17
 | 3 | [bacardeveloper](https://github.com/bacardeveloper) | niwradCodera | Mayotte | 9 |
 | 4 | [gbourel](https://github.com/gbourel) |  | Mamoudzou, Mayotte | 9 |
 | 5 | [nykopol](https://github.com/nykopol) |  | Mayotte | 6 |
-| 6 | [nuthered](https://github.com/nuthered) |  | East Kevinbury, Mayotte | 5 |
-| 7 | [toiha](https://github.com/toiha) | Issihaca Toiha | Mayotte | 5 |
-| 8 | [anniou21](https://github.com/anniou21) | Anniou | Mayotte | 4 |
-| 9 | [feycoil](https://github.com/feycoil) | Feyçoil Mouhoussoune | Mamoudzou | 4 |
+| 6 | [toiha](https://github.com/toiha) | Issihaca Toiha | Mayotte | 5 |
+| 7 | [anniou21](https://github.com/anniou21) | Anniou | Mayotte | 4 |
+| 8 | [feycoil](https://github.com/feycoil) | Feyçoil Mouhoussoune | Mamoudzou | 4 |
+| 9 | [nuthered](https://github.com/nuthered) |  | East Kevinbury, Mayotte | 4 |
 | 10 | [Test745s](https://github.com/Test745s) | Samyn-Antoy ABASSE | Mayotte | 4 |
 | 11 | [tuthur9A](https://github.com/tuthur9A) |  | Mamoudzou, Mayotte | 4 |
 | 12 | [Filskipis](https://github.com/Filskipis) | Ahmed Ibrahim | Mayotte | 2 |
@@ -74,4 +74,4 @@ Indexed users: 17
 | 16 | [shamounni](https://github.com/shamounni) | Shamounni | Mayotte | 1 |
 | 17 | [TechNerdSam](https://github.com/TechNerdSam) | Samyn-Antoy ABASSE | mayotte | 1 |
 
-Generated: 2026-10-22T00:40:26.800Z
+Generated: 2026-10-22T02:16:08.034Z

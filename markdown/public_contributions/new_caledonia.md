@@ -1,6 +1,6 @@
 # Public Contributions - New Caledonia
 
-Generated: 2026-10-22T00:47:14.645Z
+Generated: 2026-10-22T02:22:18.167Z
 
 Users: 111
 
@@ -15,7 +15,7 @@ Users: 111
 | 7 | [jchable](https://github.com/jchable) | Julien CHABLE | NC IT |  | Nouméa | 383 |
 | 8 | [loxK](https://github.com/loxK) | Laurent Dinclaux | Gecka |  | New Caledonia | 373 |
 | 9 | [Nem0oo](https://github.com/Nem0oo) | Guillaume COURTOT | none |  | New-Caledonia | 371 |
-| 10 | [aNaoy](https://github.com/aNaoy) | Yoan Agostini |  |  | Nouméa | 346 |
+| 10 | [aNaoy](https://github.com/aNaoy) | Yoan Agostini |  |  | Nouméa | 347 |
 | 11 | [ahyolia](https://github.com/ahyolia) | Camélia AMIN HANDOYO |  |  | New Caledonia | 265 |
 | 12 | [ellisp](https://github.com/ellisp) | Peter Ellis | Pacific Community \| Communauté de Pacifique |  | Nouméa, Nouvelle-Calédonie | 223 |
 | 13 | [TooFuW](https://github.com/TooFuW) | Eyrian Muet |  |  | New- Caledonia | 216 |

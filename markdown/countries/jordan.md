@@ -1,6 +1,6 @@
 # Jordan
 
-Indexed users: 4,002
+Indexed users: 4,001
 
 | Leaderboard | Link |
 |---|---|
@@ -43,10 +43,10 @@ Indexed users: 4,002
 | 4 | [MahmoudEsawi](https://github.com/MahmoudEsawi) | Mahmoud Al-Esawi | Amman\Jordan | 5,341 |
 | 5 | [DefinetlyNotAI](https://github.com/DefinetlyNotAI) | Shahm Najeeb | Jordan, Amman | 4,161 |
 | 6 | [abuaboud](https://github.com/abuaboud) | Mo AbuAboud | Amman, Jordan | 3,432 |
-| 7 | [omar-dulaimi](https://github.com/omar-dulaimi) | Omar Dulaimi | Jordan | 3,065 |
-| 8 | [AmroKSaleh](https://github.com/AmroKSaleh) | Amro Saleh | Jordan | 2,957 |
-| 9 | [iofahmawi](https://github.com/iofahmawi) | Mohammad Fahmawi | Jordan | 2,784 |
-| 10 | [Natshah](https://github.com/Natshah) | Rajab Natshah | Amman, Jordan | 2,587 |
+| 7 | [AmroKSaleh](https://github.com/AmroKSaleh) | Amro Saleh | Jordan | 2,957 |
+| 8 | [iofahmawi](https://github.com/iofahmawi) | Mohammad Fahmawi | Jordan | 2,784 |
+| 9 | [Natshah](https://github.com/Natshah) | Rajab Natshah | Amman, Jordan | 2,587 |
+| 10 | [omar-dulaimi](https://github.com/omar-dulaimi) | Omar Dulaimi | Jordan | 2,095 |
 | 11 | [OmarAlJarrah](https://github.com/OmarAlJarrah) | Omar Aljarrah | Jordan | 2,042 |
 | 12 | [DRAGOX7](https://github.com/DRAGOX7) | Abdallah Talal Abdallah Alja'Fari | Jordan | 1,783 |
 | 13 | [motasemodeh](https://github.com/motasemodeh) | Mo'tasem Odeh | Amman/Jordan | 1,777 |
@@ -64,7 +64,7 @@ Indexed users: 4,002
 |---:|---|---|---|---:|
 | 1 | [waelodeh98](https://github.com/waelodeh98) | Wael Samer \| Software Engineer | Amman , Jordan | 1,148 |
 | 2 | [ShadowHackrs](https://github.com/ShadowHackrs) | Shadow Hacker | jordan | 1,126 |
-| 3 | [enghamzasalem](https://github.com/enghamzasalem) | Hamza Salem | Amman Jordan / Innopolis Russia  | 924 |
+| 3 | [enghamzasalem](https://github.com/enghamzasalem) | Hamza Salem | Amman Jordan / Innopolis Russia  | 929 |
 | 4 | [Asaqa988](https://github.com/Asaqa988) | Abedalraheem | Amman, Amman Governorate, Jordan | 737 |
 | 5 | [Adel-Nasim](https://github.com/Adel-Nasim) | Adel Nasim Adel Suleiman | Amman - Jordan | 715 |
 | 6 | [tjoudeh](https://github.com/tjoudeh) | Taiseer Joudeh | Jordan-Amman | 689 |
@@ -81,6 +81,6 @@ Indexed users: 4,002
 | 17 | [OmarAzizi](https://github.com/OmarAzizi) | Kryptonite | Amman, Jordan | 246 |
 | 18 | [afaneh92](https://github.com/afaneh92) | mohammad.afaneh92 | Amman-Jordan | 242 |
 | 19 | [Eng-Mohamed-Elsayed](https://github.com/Eng-Mohamed-Elsayed) | Eng-Mohamed Elsayed | Jordan | 197 |
-| 20 | [omar-dulaimi](https://github.com/omar-dulaimi) | Omar Dulaimi | Jordan | 192 |
+| 20 | [omar-dulaimi](https://github.com/omar-dulaimi) | Omar Dulaimi | Jordan | 196 |
 
-Generated: 2026-10-22T00:30:49.903Z
+Generated: 2026-10-22T02:05:29.857Z

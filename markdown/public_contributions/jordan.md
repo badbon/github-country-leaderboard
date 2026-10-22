@@ -1,8 +1,8 @@
 # Public Contributions - Jordan
 
-Generated: 2026-10-22T00:30:49.903Z
+Generated: 2026-10-22T02:05:29.857Z
 
-Users: 4002
+Users: 4001
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -12,10 +12,10 @@ Users: 4002
 | 4 | [MahmoudEsawi](https://github.com/MahmoudEsawi) | Mahmoud Al-Esawi | MENADevs |  | Amman\Jordan | 5341 |
 | 5 | [DefinetlyNotAI](https://github.com/DefinetlyNotAI) | Shahm Najeeb |  |  | Jordan, Amman | 4161 |
 | 6 | [abuaboud](https://github.com/abuaboud) | Mo AbuAboud | @activepieces  | mabuaboud | Amman, Jordan | 3432 |
-| 7 | [omar-dulaimi](https://github.com/omar-dulaimi) | Omar Dulaimi |  | omardulaimidev | Jordan | 3065 |
-| 8 | [AmroKSaleh](https://github.com/AmroKSaleh) | Amro Saleh | KeyLife Electronics | AmroKSaleh | Jordan | 2957 |
-| 9 | [iofahmawi](https://github.com/iofahmawi) | Mohammad Fahmawi |  |  | Jordan | 2784 |
-| 10 | [Natshah](https://github.com/Natshah) | Rajab Natshah | @Vardot  |  | Amman, Jordan | 2587 |
+| 7 | [AmroKSaleh](https://github.com/AmroKSaleh) | Amro Saleh | KeyLife Electronics | AmroKSaleh | Jordan | 2957 |
+| 8 | [iofahmawi](https://github.com/iofahmawi) | Mohammad Fahmawi |  |  | Jordan | 2784 |
+| 9 | [Natshah](https://github.com/Natshah) | Rajab Natshah | @Vardot  |  | Amman, Jordan | 2587 |
+| 10 | [omar-dulaimi](https://github.com/omar-dulaimi) | Omar Dulaimi |  | omardulaimidev | Jordan | 2095 |
 | 11 | [OmarAlJarrah](https://github.com/OmarAlJarrah) | Omar Aljarrah | @ExpediaGroup @dexpace |  | Jordan | 2042 |
 | 12 | [DRAGOX7](https://github.com/DRAGOX7) | Abdallah Talal Abdallah Alja'Fari |  |  | Jordan | 1783 |
 | 13 | [motasemodeh](https://github.com/motasemodeh) | Mo'tasem Odeh |  |  | Amman/Jordan | 1777 |

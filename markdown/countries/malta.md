@@ -1,6 +1,6 @@
 # Malta
 
-Indexed users: 1,224
+Indexed users: 1,223
 
 | Leaderboard | Link |
 |---|---|
@@ -23,7 +23,7 @@ Indexed users: 1,224
 | 9 | [Sml995](https://github.com/Sml995) | Samuel HASSID | Sliema, Malta | 9,541 |
 | 10 | [silvandiepen](https://github.com/silvandiepen) | Sil van Diepen | Malta | 9,511 |
 | 11 | [mauroziux](https://github.com/mauroziux) | Mauricio Suárez vega | malta | 9,119 |
-| 12 | [polp6880](https://github.com/polp6880) | Paul Portelli | Malta | 9,022 |
+| 12 | [polp6880](https://github.com/polp6880) | Paul Portelli | Malta | 9,091 |
 | 13 | [angusgee](https://github.com/angusgee) | Angus Girvan | Malta | 8,517 |
 | 14 | [m2ximus](https://github.com/m2ximus) | max—os | Malta | 7,643 |
 | 15 | [KimSpecht](https://github.com/KimSpecht) | Kim Pedersen | Malta | 7,618 |
@@ -83,4 +83,4 @@ Indexed users: 1,224
 | 19 | [mattcg](https://github.com/mattcg) | Matthew Caruana Galizia | Malta | 126 |
 | 20 | [CM2Walki](https://github.com/CM2Walki) | Walki | Malta | 118 |
 
-Generated: 2026-10-22T00:38:11.065Z
+Generated: 2026-10-22T02:13:38.708Z

@@ -1,6 +1,6 @@
 # Followers - Mozambique
 
-Generated: 2026-10-22T00:44:11.232Z
+Generated: 2026-10-22T02:20:26.358Z
 
 Users: 1175
 

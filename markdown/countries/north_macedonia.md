@@ -72,7 +72,7 @@ Indexed users: 1,924
 | 8 | [callibra](https://github.com/callibra) | Ivan Gjorcev  | Sveti Nikole, Macedonia  🌎 🗺️ | 243 |
 | 9 | [Shekswess](https://github.com/Shekswess) | Bojan Jakimovski | Skopje, Macedonia | 242 |
 | 10 | [stefanandonov](https://github.com/stefanandonov) | Stefan Andonov | Skopje, Macedonia | 223 |
-| 11 | [MTrajK](https://github.com/MTrajK) | Meto Trajkovski | Skopje | 215 |
+| 11 | [MTrajK](https://github.com/MTrajK) | Meto Trajkovski | Skopje | 217 |
 | 12 | [hf](https://github.com/hf) | Stojan Dimitrovski | Skopje, Republic of North Macedonia | 201 |
 | 13 | [davorminchorov](https://github.com/davorminchorov) | Davor Minchorov | Skopje, Macedonia | 186 |
 | 14 | [andrejsshell](https://github.com/andrejsshell) | Andrej | Skopje | 180 |
@@ -83,4 +83,4 @@ Indexed users: 1,924
 | 19 | [bor0](https://github.com/bor0) | Boro Sitnikovski | Skopje, North Macedonia | 166 |
 | 20 | [gdamjan](https://github.com/gdamjan) | Дамјан Георгиевски | Skopje, Macedonia | 145 |
 
-Generated: 2026-10-22T00:49:59.327Z
+Generated: 2026-10-22T02:24:01.520Z

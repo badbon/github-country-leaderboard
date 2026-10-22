@@ -63,7 +63,7 @@ Indexed users: 888
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [therustmonk](https://github.com/therustmonk) | Denis Kolodin | Montenegro | 794 |
-| 2 | [dchest](https://github.com/dchest) | Dmitry Chestnykh | Montenegro | 554 |
+| 2 | [dchest](https://github.com/dchest) | Dmitry Chestnykh | Montenegro | 553 |
 | 3 | [1v4n4](https://github.com/1v4n4) |  | Montenegro | 494 |
 | 4 | [Const-me](https://github.com/Const-me) | Konstantin | Tivat, Montenegro | 363 |
 | 5 | [oranmehmetsirin](https://github.com/oranmehmetsirin) | Mehmet Şirin ORAN | Montenegro | 346 |
@@ -72,7 +72,7 @@ Indexed users: 888
 | 8 | [YuriiMotov](https://github.com/YuriiMotov) | Yurii Motov | Bar, Montenegro | 197 |
 | 9 | [sondreb](https://github.com/sondreb) | SondreB | Bar, Montenegro | 145 |
 | 10 | [cblp](https://github.com/cblp) | Yury Syrovetsky | Montenegro | 142 |
-| 11 | [lockie](https://github.com/lockie) | Andrew Kravchuk | Montenegro, Podgorica | 135 |
+| 11 | [lockie](https://github.com/lockie) | Andrew Kravchuk | Montenegro, Podgorica | 136 |
 | 12 | [arikon](https://github.com/arikon) | Sergey Belov | Tivat, Montenegro | 131 |
 | 13 | [mifth](https://github.com/mifth) | mifth | Montenegro | 129 |
 | 14 | [gh110919](https://github.com/gh110919) | ilia sergeev | Podgorica | 127 |
@@ -83,4 +83,4 @@ Indexed users: 888
 | 19 | [vovkasm](https://github.com/vovkasm) | Vladimir Timofeev | Budva, Montenegro | 99 |
 | 20 | [marcoroganovic](https://github.com/marcoroganovic) | Marko Roganovic | Montenegro | 90 |
 
-Generated: 2026-10-22T00:43:26.154Z
+Generated: 2026-10-22T02:19:09.951Z
