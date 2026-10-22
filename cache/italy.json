@@ -235,8 +235,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1211,
-    "publicContributions": 36,
+    "privateContributions": 2634,
+    "publicContributions": 38,
     "createdAt": "2026-03-28T17:47:31Z"
   },
   {
@@ -246,7 +246,7 @@
     "location": "italia",
     "company": "@HUMANSAFE-SOCIETY ",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 16,
     "createdAt": "2026-01-03T09:40:18Z"
@@ -272,7 +272,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 63,
     "createdAt": "2026-05-05T15:57:41Z"
   },
   {
@@ -284,7 +284,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 62,
+    "publicContributions": 71,
     "createdAt": "2026-02-26T09:11:56Z"
   },
   {
@@ -306,9 +306,9 @@
     "location": "Caltanissetta, Sicily, Italy",
     "company": "",
     "twitterUsername": "",
-    "followers": 96,
+    "followers": 93,
     "privateContributions": 0,
-    "publicContributions": 395,
+    "publicContributions": 404,
     "createdAt": "2026-01-27T12:18:09Z"
   },
   {
@@ -318,9 +318,9 @@
     "location": "Bolzano, Italy",
     "company": "",
     "twitterUsername": "",
-    "followers": 94,
-    "privateContributions": 257,
-    "publicContributions": 23,
+    "followers": 265,
+    "privateContributions": 1233,
+    "publicContributions": 433,
     "createdAt": "2026-04-06T19:03:45Z"
   },
   {
@@ -330,9 +330,9 @@
     "location": "Italy",
     "company": "",
     "twitterUsername": "DODOREACH",
-    "followers": 74,
-    "privateContributions": 603,
-    "publicContributions": 117,
+    "followers": 77,
+    "privateContributions": 917,
+    "publicContributions": 114,
     "createdAt": "2026-01-09T22:11:07Z"
   },
   {
@@ -341,10 +341,10 @@
     "avatarUrl": "https://avatars.githubusercontent.com/u/263140117?s=72&u=803ffab2078a8e4e29946eea623a85c63f71f723&v=4",
     "location": "Italy",
     "company": "",
-    "twitterUsername": "YogSoth0",
-    "followers": 24,
+    "twitterUsername": "",
+    "followers": 37,
     "privateContributions": 0,
-    "publicContributions": 2084,
+    "publicContributions": 2559,
     "createdAt": "2026-02-22T09:42:21Z"
   },
   {
@@ -354,9 +354,9 @@
     "location": "Lamezia Terme, Calabria, Italy",
     "company": "",
     "twitterUsername": "",
-    "followers": 16,
-    "privateContributions": 30,
-    "publicContributions": 447,
+    "followers": 18,
+    "privateContributions": 407,
+    "publicContributions": 649,
     "createdAt": "2026-02-25T09:54:16Z"
   },
   {
@@ -366,9 +366,9 @@
     "location": "Italy",
     "company": "Bologna",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 14,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 28,
     "createdAt": "2026-03-09T18:06:06Z"
   },
   {
@@ -378,7 +378,7 @@
     "location": "Rome, Italy",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 8,
     "privateContributions": 0,
     "publicContributions": 105,
     "createdAt": "2026-02-23T12:13:08Z"
@@ -390,9 +390,9 @@
     "location": "Italy",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 16,
     "privateContributions": 3,
-    "publicContributions": 379,
+    "publicContributions": 522,
     "createdAt": "2026-05-10T21:07:30Z"
   },
   {
@@ -414,7 +414,7 @@
     "location": "Italy",
     "company": "",
     "twitterUsername": "KirazWasHere",
-    "followers": 8,
+    "followers": 18,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-04-22T15:17:39Z"
@@ -426,7 +426,7 @@
     "location": "Italy",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 9,
     "privateContributions": 0,
     "publicContributions": 8,
     "createdAt": "2026-04-05T22:07:34Z"
@@ -438,21 +438,21 @@
     "location": "Italy",
     "company": "Parsec 3.26",
     "twitterUsername": "salvatorecorvo",
-    "followers": 7,
-    "privateContributions": 0,
-    "publicContributions": 2077,
+    "followers": 5,
+    "privateContributions": 2,
+    "publicContributions": 204,
     "createdAt": "2026-04-06T13:10:26Z"
   },
   {
     "login": "harammal",
     "name": "Hassan Rammal",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/261775097?s=72&u=9840e383f7addfd5aee25dbde5dac166d834d66d&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/261775097?s=72&u=a1958ad43ba39f19d80e79056f3f27ba551416b6&v=4",
     "location": "Italy",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 309,
-    "publicContributions": 386,
+    "followers": 4,
+    "privateContributions": 310,
+    "publicContributions": 395,
     "createdAt": "2026-02-15T15:57:12Z"
   },
   {
@@ -462,9 +462,9 @@
     "location": "Italy",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 45,
+    "publicContributions": 107,
     "createdAt": "2026-01-30T09:53:06Z"
   },
   {

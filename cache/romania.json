@@ -44599,8 +44599,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 9,
-    "publicContributions": 10,
+    "privateContributions": 30,
+    "publicContributions": 21,
     "createdAt": "2021-07-16T10:03:43Z"
   },
   {
@@ -44610,22 +44610,10 @@
     "location": "Romania",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2021-10-11T12:52:33Z"
-  },
-  {
-    "login": "silwesterabram",
-    "name": "Szilveszter Ábrám",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/94196623?s=72&u=b355d797cd2f96e5a2ae94086e4b9a5d28de5c53&v=4",
-    "location": "Târgu Mureș, Romania",
-    "company": "WebGurus",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2021-11-12T19:25:28Z"
   },
   {
     "login": "kitaaj",
@@ -44636,7 +44624,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 68,
+    "publicContributions": 70,
     "createdAt": "2021-07-02T18:15:27Z"
   },
   {
@@ -44648,7 +44636,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 6,
     "createdAt": "2021-11-22T07:50:00Z"
   },
   {
@@ -44672,7 +44660,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 0,
     "createdAt": "2021-11-08T18:41:06Z"
   },
   {
@@ -44780,7 +44768,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 9,
     "createdAt": "2021-10-26T19:16:55Z"
   },
   {

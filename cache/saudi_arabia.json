@@ -44508,18 +44508,6 @@
     "createdAt": "2020-02-03T08:26:12Z"
   },
   {
-    "login": "NawafAlghamdi",
-    "name": "Nawaf Alghamdi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/65841618?s=72&v=4",
-    "location": "Saudi Arabia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2020-05-24T04:19:24Z"
-  },
-  {
     "login": "KhloodAlotaibi",
     "name": "",
     "avatarUrl": "https://avatars.githubusercontent.com/u/63094564?s=72&v=4",
@@ -44534,13 +44522,13 @@
   {
     "login": "ammarkden",
     "name": "Ammarabutalip",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/66907639?s=72&u=16db50f8cdf7c3248c2e80701f7f04cb1c0f0314&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/66907639?s=72&u=71ced9d6211e7bf593c3572ed04369304b712bc7&v=4",
     "location": "Jeddah, Saudi Arabia",
     "company": "",
     "twitterUsername": "ammarabutalip",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 303,
+    "publicContributions": 458,
     "createdAt": "2020-06-14T12:13:13Z"
   },
   {
@@ -44563,8 +44551,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 148,
-    "publicContributions": 18,
+    "privateContributions": 192,
+    "publicContributions": 20,
     "createdAt": "2020-11-25T18:11:21Z"
   },
   {
@@ -44574,7 +44562,7 @@
     "location": "jeddah, saudi arabia",
     "company": "",
     "twitterUsername": "Ashraf_T6",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-01-18T15:48:27Z"
@@ -44588,7 +44576,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 4,
     "createdAt": "2020-02-19T08:38:31Z"
   },
   {
@@ -44622,9 +44610,9 @@
     "location": "Riyadh, Saudi Arabia",
     "company": "CALX Consulting",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 10,
     "createdAt": "2020-11-28T09:54:17Z"
   },
   {
@@ -44648,7 +44636,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 0,
     "createdAt": "2020-11-02T20:51:40Z"
   },
   {
@@ -44670,7 +44658,7 @@
     "location": "Jeddah, Saudi Arabia ",
     "company": "",
     "twitterUsername": "EngFatmaMoheden",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-06-19T04:38:10Z"
@@ -44706,7 +44694,7 @@
     "location": "Jeddah, Saudi Arabia",
     "company": "",
     "twitterUsername": "Leena_osama",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-02-04T18:36:13Z"
@@ -44732,7 +44720,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 9,
     "createdAt": "2020-04-26T08:04:18Z"
   },
   {

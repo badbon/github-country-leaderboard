@@ -44768,7 +44768,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2014-10-30T12:25:52Z"
   },
   {
@@ -44806,18 +44806,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-01-19T09:11:52Z"
-  },
-  {
-    "login": "lith-imad",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/6842971?s=72&u=7024d3ec341f4073dd54fa6108d7ac129224bf54&v=4",
-    "location": "Amman, Jordan",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2014-03-03T19:00:55Z"
   },
   {
     "login": "radwanhallak",
@@ -44864,7 +44852,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 123,
+    "publicContributions": 191,
     "createdAt": "2014-05-06T19:47:48Z"
   },
   {
@@ -44922,7 +44910,7 @@
     "location": "Amman, Jordan",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-05-22T21:40:07Z"
@@ -44946,8 +44934,8 @@
     "location": "Amman - Jordan",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 1400,
+    "followers": 2,
+    "privateContributions": 2661,
     "publicContributions": 0,
     "createdAt": "2014-09-24T09:42:02Z"
   },
@@ -44959,8 +44947,8 @@
     "company": "3AM Digital Labs",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 971,
-    "publicContributions": 15,
+    "privateContributions": 1091,
+    "publicContributions": 0,
     "createdAt": "2014-01-16T09:35:05Z"
   },
   {

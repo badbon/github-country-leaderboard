@@ -5491,7 +5491,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1921,
+    "privateContributions": 1855,
     "publicContributions": 0,
     "createdAt": "2022-05-10T18:20:41Z"
   },
@@ -5503,7 +5503,7 @@
     "company": "Central Statistical Bureau of Latvia",
     "twitterUsername": "ancetetere",
     "followers": 1,
-    "privateContributions": 693,
+    "privateContributions": 697,
     "publicContributions": 56,
     "createdAt": "2022-09-22T17:38:26Z"
   },
@@ -5515,7 +5515,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 23,
+    "privateContributions": 6,
     "publicContributions": 7,
     "createdAt": "2022-07-10T14:17:53Z"
   },
@@ -5563,7 +5563,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 5,
+    "privateContributions": 0,
     "publicContributions": 17,
     "createdAt": "2022-07-31T18:10:11Z"
   },
@@ -5575,7 +5575,7 @@
     "company": "primeit.lv",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 56,
+    "privateContributions": 59,
     "publicContributions": 0,
     "createdAt": "2022-05-26T13:51:33Z"
   },
@@ -5587,7 +5587,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 740,
+    "privateContributions": 731,
     "publicContributions": 9,
     "createdAt": "2022-07-10T14:16:59Z"
   },
@@ -5623,7 +5623,7 @@
     "company": "",
     "twitterUsername": "a_moisejevs",
     "followers": 1,
-    "privateContributions": 2713,
+    "privateContributions": 2888,
     "publicContributions": 200,
     "createdAt": "2022-09-30T06:04:54Z"
   },
@@ -5642,12 +5642,12 @@
   {
     "login": "JosefStack",
     "name": "Joseph Johnson",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/106512212?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/106512212?s=72&u=4fbc62e1e4500d5d52c23aac1df53d094052e00f&v=4",
     "location": "Riga, Latvia",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 842,
+    "privateContributions": 1005,
     "publicContributions": 552,
     "createdAt": "2022-05-30T07:00:19Z"
   },
