@@ -1,6 +1,6 @@
 # Followers - Burundi
 
-Generated: 2026-10-22T18:24:25.979Z
+Generated: 2026-10-22T19:17:34.428Z
 
 Users: 235
 
@@ -21,8 +21,8 @@ Users: 235
 | 13 | [hakichris](https://github.com/hakichris) | Christian Hakizimana | Tujenge Africa Foundation  | hakichris2 | Burundi  | 45 |
 | 14 | [ntzwilly](https://github.com/ntzwilly) | Willy NTAZAMA | Freelance Full-Stack Developer | Wntazama | Burundi | 44 |
 | 15 | [klauskira07](https://github.com/klauskira07) | Klaus KIRA | Vortex Ltd. | klauskira07 | Burundi | 43 |
-| 16 | [ahishakiyeyv](https://github.com/ahishakiyeyv) | Yvan Igor AHISHAKIYE |  | YvanAhishakiye | Bujumbura, Burundi | 41 |
-| 17 | [kalculata](https://github.com/kalculata) | Huzaifa Nimushimirimana | @kubwacu-entreprise  | kalculata | Bujumbura, Burundi | 41 |
+| 16 | [kalculata](https://github.com/kalculata) | Huzaifa Nimushimirimana | @kubwacu-entreprise  | kalculata | Bujumbura, Burundi | 42 |
+| 17 | [ahishakiyeyv](https://github.com/ahishakiyeyv) | Yvan Igor AHISHAKIYE |  | YvanAhishakiye | Bujumbura, Burundi | 41 |
 | 18 | [mudjaycker](https://github.com/mudjaycker) | MARYIMANA BUTOYI | BIOS |  | Bujumbura/BURUNDI | 36 |
 | 19 | [tertcoder](https://github.com/tertcoder) | Bon Tertius Tuyishimire  | Mediabox | bon_tertius | Bujumbura, Burundi | 35 |
 | 20 | [arsou2015](https://github.com/arsou2015) | Arsene Nduwayo | EXEC |  | Burundi | 34 |

@@ -17,9 +17,9 @@ Indexed users: 16,200
 | 3 | [escopecz](https://github.com/escopecz) | John Linhart | Prague | 38,147 |
 | 4 | [jkvetina](https://github.com/jkvetina) | Jan Kvetina | Prague, Czech republic | 28,522 |
 | 5 | [fazpu](https://github.com/fazpu) | Jiri Puc | Prague | 25,137 |
-| 6 | [Reblexis](https://github.com/Reblexis) | Viktor Číhal | Prague, Czechia | 19,947 |
-| 7 | [ghostON3](https://github.com/ghostON3) | Michal Duchoň | Prague, Czechia | 18,231 |
-| 8 | [martinnaj](https://github.com/martinnaj) | Martin Najemi | Prague, Czech Republic | 17,779 |
+| 6 | [martinnaj](https://github.com/martinnaj) | Martin Najemi | Prague, Czech Republic | 20,835 |
+| 7 | [Reblexis](https://github.com/Reblexis) | Viktor Číhal | Prague, Czechia | 19,947 |
+| 8 | [ghostON3](https://github.com/ghostON3) | Michal Duchoň | Prague, Czechia | 18,231 |
 | 9 | [robertvokac](https://github.com/robertvokac) | Robert Vokac | Prague | 17,358 |
 | 10 | [jankalasnikov47](https://github.com/jankalasnikov47) | Jan Kalasnikov | Prague | 17,262 |
 | 11 | [mikevercoelen](https://github.com/mikevercoelen) | Mike Vercoelen | Prague | 16,700 |
@@ -83,4 +83,4 @@ Indexed users: 16,200
 | 19 | [wbenny](https://github.com/wbenny) | Petr Beneš | Brno, Czech Republic | 877 |
 | 20 | [ondras](https://github.com/ondras) | Ondřej Žára | Prague | 840 |
 
-Generated: 2026-10-22T18:28:07.288Z
+Generated: 2026-10-22T19:20:48.450Z

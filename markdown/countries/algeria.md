@@ -49,14 +49,14 @@ Indexed users: 5,775
 | 10 | [AchrefBoub](https://github.com/AchrefBoub) | Achref | Algeria | 2,486 |
 | 11 | [ndpm13](https://github.com/ndpm13) | Naz | M'sila, Algeria | 2,158 |
 | 12 | [Vtheonly](https://github.com/Vtheonly) | Mersel Fares | Algeria | 2,122 |
-| 13 | [MedRedha](https://github.com/MedRedha) | Mohamed Redha Khelifi | Berlin, Germany / Algiers, Algeria | 2,083 |
-| 14 | [maamriaabderahmene](https://github.com/maamriaabderahmene) | Maamria Abderahmene | algiers | 1,774 |
-| 15 | [samir1498](https://github.com/samir1498) | Samir Bettahar | Algeria | 1,664 |
-| 16 | [Adel-Ayoub](https://github.com/Adel-Ayoub) | MAAZIZ Adel Ayoub | Algeria | 1,651 |
-| 17 | [bitsnaps](https://github.com/bitsnaps) | Ibrahim H. | Algeria | 1,551 |
-| 18 | [qamro](https://github.com/qamro) | Mohamed Qamar Eddine Bakhouche | Algiers, Algeria | 1,530 |
-| 19 | [1hachem](https://github.com/1hachem) | dashi | Algiers, Algeria | 1,455 |
-| 20 | [nexus-scholar](https://github.com/nexus-scholar) | Bekhouche Mouadh | Algeria | 1,410 |
+| 13 | [maamriaabderahmene](https://github.com/maamriaabderahmene) | Maamria Abderahmene | algiers | 1,774 |
+| 14 | [samir1498](https://github.com/samir1498) | Samir Bettahar | Algeria | 1,664 |
+| 15 | [Adel-Ayoub](https://github.com/Adel-Ayoub) | MAAZIZ Adel Ayoub | Algeria | 1,651 |
+| 16 | [bitsnaps](https://github.com/bitsnaps) | Ibrahim H. | Algeria | 1,551 |
+| 17 | [qamro](https://github.com/qamro) | Mohamed Qamar Eddine Bakhouche | Algiers, Algeria | 1,530 |
+| 18 | [1hachem](https://github.com/1hachem) | dashi | Algiers, Algeria | 1,455 |
+| 19 | [nexus-scholar](https://github.com/nexus-scholar) | Bekhouche Mouadh | Algeria | 1,410 |
+| 20 | [SaddexRnx](https://github.com/SaddexRnx) | Saddek Renane | Algeria | 1,383 |
 
 ## Followers
 
@@ -64,9 +64,9 @@ Indexed users: 5,775
 |---:|---|---|---|---:|
 | 1 | [ipenywis](https://github.com/ipenywis) | Islem Maboud | Setif, Algeria | 3,065 |
 | 2 | [bencheayoub](https://github.com/bencheayoub) | Ayoub BenChetioui | Algeria | 2,438 |
-| 3 | [hocinebouarara](https://github.com/hocinebouarara) | hocine bouarara | algeria | 1,518 |
-| 4 | [NOUHABL](https://github.com/NOUHABL) | NOUHA | Algeria  | 1,517 |
-| 5 | [Manisso](https://github.com/Manisso) | Manis DJEMMANE | Algiers, Algeria | 1,496 |
+| 3 | [NOUHABL](https://github.com/NOUHABL) | NOUHA | Algeria  | 1,517 |
+| 4 | [Manisso](https://github.com/Manisso) | Manis DJEMMANE | Algiers, Algeria | 1,496 |
+| 5 | [hocinebouarara](https://github.com/hocinebouarara) | hocine bouarara | algeria | 1,495 |
 | 6 | [linuxscout](https://github.com/linuxscout) | Taha Zerrouki (طه زروقي ) | Bouira, Algeria | 1,387 |
 | 7 | [pagimos](https://github.com/pagimos) | Bouacheri Mohamed Islam | Algeria | 1,299 |
 | 8 | [elhadjx](https://github.com/elhadjx) | Hadj H. | Algeria | 1,204 |
@@ -83,4 +83,4 @@ Indexed users: 5,775
 | 19 | [sabri-zaki](https://github.com/sabri-zaki) | sabri zakaria | Algeria | 686 |
 | 20 | [Hamza5](https://github.com/Hamza5) | Hamza Abbad | Algeria | 669 |
 
-Generated: 2026-10-22T18:19:47.292Z
+Generated: 2026-10-22T19:09:46.714Z

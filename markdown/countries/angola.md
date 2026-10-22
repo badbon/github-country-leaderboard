@@ -19,7 +19,7 @@ Indexed users: 2,499
 | 5 | [josecaseiro](https://github.com/josecaseiro) | José Caseiro | Angola | 10,429 |
 | 6 | [cnoble](https://github.com/cnoble) | Chris Noble | Angola, IN | 9,520 |
 | 7 | [EmanuelJoseCandido](https://github.com/EmanuelJoseCandido) | Emanuel Cândido | Luanda, Angola | 8,618 |
-| 8 | [nuelst](https://github.com/nuelst) | manuel | Luanda, Angola | 6,554 |
+| 8 | [nuelst](https://github.com/nuelst) | manuel | Luanda, Angola | 6,593 |
 | 9 | [Jndungue089](https://github.com/Jndungue089) | Josemar Ndungue | Angola | 6,520 |
 | 10 | [figassis](https://github.com/figassis) | Assis Ngolo | Luanda, Angola | 6,103 |
 | 11 | [bentocussei](https://github.com/bentocussei) | Bento Cussei | Luanda, Angola | 5,633 |
@@ -83,4 +83,4 @@ Indexed users: 2,499
 | 19 | [manuelernesto](https://github.com/manuelernesto) | Manuel Ernesto | Angola | 166 |
 | 20 | [AfonsoAfony](https://github.com/AfonsoAfony) | Afonso Narciso Da Silva | Luanda/Angola | 157 |
 
-Generated: 2026-10-22T18:19:54.678Z
+Generated: 2026-10-22T19:10:59.154Z

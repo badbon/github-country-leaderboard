@@ -45,7 +45,7 @@ Indexed users: 215
 | 6 | [l3wi](https://github.com/l3wi) | Lewis Freiberg | Andorra | 705 |
 | 7 | [tombrewsviews](https://github.com/tombrewsviews) | Tom Parandyk | Andorra | 700 |
 | 8 | [iuriaranda](https://github.com/iuriaranda) | iuri | Andorra | 679 |
-| 9 | [imnotquasar](https://github.com/imnotquasar) | ImNotQuasar | Andorra, Principality of Andorra | 614 |
+| 9 | [imnotquasar](https://github.com/imnotquasar) | ImNotQuasar | Andorra, Principality of Andorra | 611 |
 | 10 | [AdamBaali](https://github.com/AdamBaali) | Adam Baali | Ordino, Andorra | 610 |
 | 11 | [martapanc](https://github.com/martapanc) |  | Italy / Andorra | 514 |
 | 12 | [AdriaCarrera](https://github.com/AdriaCarrera) | Adrià Carrera | Andorra | 441 |
@@ -83,4 +83,4 @@ Indexed users: 215
 | 19 | [ysb33r](https://github.com/ysb33r) | Schalk W. Cronjé | Andorra | 63 |
 | 20 | [castrolem](https://github.com/castrolem) | Luis Castro | Andorra la Vella, Andorra | 60 |
 
-Generated: 2026-10-22T18:19:51.819Z
+Generated: 2026-10-22T19:10:32.363Z

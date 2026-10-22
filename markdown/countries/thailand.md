@@ -68,7 +68,7 @@ Indexed users: 14,980
 | 4 | [dtinth](https://github.com/dtinth) | Thai Pangsakulyanont | Krungthepmahanakhonamonrattanakosinmahintharayutthayamahadilokphopnoppharatratchathaniburiromudomratchaniwetmahasathanamonphimanawatansathitsakkathattiyawitsanukamprasit (Bangkok), Thailand | 2,156 |
 | 5 | [heinhtetzan](https://github.com/heinhtetzan) | Kendrick Dev | Bangkok | 1,908 |
 | 6 | [lukechilds](https://github.com/lukechilds) | Luke Childs | Thailand | 1,771 |
-| 7 | [ludo53](https://github.com/ludo53) | Ludo | Bangkok | 1,497 |
+| 7 | [ludo53](https://github.com/ludo53) | Ludo | Bangkok | 1,474 |
 | 8 | [PoomSmart](https://github.com/PoomSmart) | Thatchapon Unprasert | Bangkok, Thailand | 1,290 |
 | 9 | [grugq](https://github.com/grugq) | thaddeus t. grugq | Thailand | 1,206 |
 | 10 | [satnaing](https://github.com/satnaing) | Sat Naing | Bangkok, Thailand | 1,176 |
@@ -83,4 +83,4 @@ Indexed users: 14,980
 | 19 | [worawit](https://github.com/worawit) | Worawit Wangwarunyoo | Thailand | 695 |
 | 20 | [nuuneoi](https://github.com/nuuneoi) | Sittiphol Phanvilai | Bangkok, Thailand | 693 |
 
-Generated: 2026-10-22T18:13:40.806Z
+Generated: 2026-10-22T19:07:14.836Z

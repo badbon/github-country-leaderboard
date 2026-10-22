@@ -1,6 +1,6 @@
 # Total Contributions - Chad
 
-Generated: 2026-10-22T18:25:39.316Z
+Generated: 2026-10-22T19:18:53.436Z
 
 Users: 201
 
@@ -10,7 +10,7 @@ Users: 201
 | 2 | [Sanusihassan](https://github.com/Sanusihassan) | Sanusi Hassan |  |  | Chad | 2399 |
 | 3 | [Newton92](https://github.com/Newton92) | PELBA JEREMIE NGOURMISSALA | ACREMAC \| Informastre | baa_pel | TCHAD | 680 |
 | 4 | [Helionux](https://github.com/Helionux) | Deoule-Allah Madjitoloum Heliodore |  |  | Tchad | 618 |
-| 5 | [cherifissa](https://github.com/cherifissa) | Mahamt cherif issa | TchadiCash | MahamatCherifI4 | TCHAD | 556 |
+| 5 | [cherifissa](https://github.com/cherifissa) | Mahamt cherif issa | TchadiCash | MahamatCherifI4 | TCHAD | 555 |
 | 6 | [steveyandev](https://github.com/steveyandev) | Steve Yanyara | Tikego |  | Tchad | 269 |
 | 7 | [TomkerDev](https://github.com/TomkerDev) | TOMTE Hassane | DemarcheursIT |  | Ndjamena, Tchad | 267 |
 | 8 | [mittb1g](https://github.com/mittb1g) |  |  |  | Chad | 251 |

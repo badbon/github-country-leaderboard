@@ -1,6 +1,6 @@
 # Followers - Algeria
 
-Generated: 2026-10-22T18:19:47.292Z
+Generated: 2026-10-22T19:09:46.714Z
 
 Users: 5775
 
@@ -8,9 +8,9 @@ Users: 5775
 |---:|---|---|---|---|---|---:|
 | 1 | [ipenywis](https://github.com/ipenywis) | Islem Maboud | CoderOne | Ipenywis | Setif, Algeria | 3065 |
 | 2 | [bencheayoub](https://github.com/bencheayoub) | Ayoub BenChetioui |  |  | Algeria | 2438 |
-| 3 | [hocinebouarara](https://github.com/hocinebouarara) | hocine bouarara |  |  | algeria | 1518 |
-| 4 | [NOUHABL](https://github.com/NOUHABL) | NOUHA |  |  | Algeria  | 1517 |
-| 5 | [Manisso](https://github.com/Manisso) | Manis DJEMMANE | @Manisso |  | Algiers, Algeria | 1496 |
+| 3 | [NOUHABL](https://github.com/NOUHABL) | NOUHA |  |  | Algeria  | 1517 |
+| 4 | [Manisso](https://github.com/Manisso) | Manis DJEMMANE | @Manisso |  | Algiers, Algeria | 1496 |
+| 5 | [hocinebouarara](https://github.com/hocinebouarara) | hocine bouarara |  |  | algeria | 1495 |
 | 6 | [linuxscout](https://github.com/linuxscout) | Taha Zerrouki (طه زروقي ) | Bouira University | linuxscout | Bouira, Algeria | 1387 |
 | 7 | [pagimos](https://github.com/pagimos) | Bouacheri Mohamed Islam | Digital Bitwave | pagimos | Algeria | 1299 |
 | 8 | [elhadjx](https://github.com/elhadjx) | Hadj H. | @sintek-io  |  | Algeria | 1204 |

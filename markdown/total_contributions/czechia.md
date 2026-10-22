@@ -1,6 +1,6 @@
 # Total Contributions - Czechia
 
-Generated: 2026-10-22T18:28:07.288Z
+Generated: 2026-10-22T19:20:48.450Z
 
 Users: 16200
 
@@ -11,9 +11,9 @@ Users: 16200
 | 3 | [escopecz](https://github.com/escopecz) | John Linhart | Acquia | jan_linhart | Prague | 38147 |
 | 4 | [jkvetina](https://github.com/jkvetina) | Jan Kvetina |  |  | Prague, Czech republic | 28522 |
 | 5 | [fazpu](https://github.com/fazpu) | Jiri Puc | Agents / Memory / Loops / Evals |  | Prague | 25137 |
-| 6 | [Reblexis](https://github.com/Reblexis) | Viktor Číhal |  |  | Prague, Czechia | 19947 |
-| 7 | [ghostON3](https://github.com/ghostON3) | Michal Duchoň |  |  | Prague, Czechia | 18231 |
-| 8 | [martinnaj](https://github.com/martinnaj) | Martin Najemi | @GoodData | martinnajemi | Prague, Czech Republic | 17779 |
+| 6 | [martinnaj](https://github.com/martinnaj) | Martin Najemi | @GoodData | martinnajemi | Prague, Czech Republic | 20835 |
+| 7 | [Reblexis](https://github.com/Reblexis) | Viktor Číhal |  |  | Prague, Czechia | 19947 |
+| 8 | [ghostON3](https://github.com/ghostON3) | Michal Duchoň |  |  | Prague, Czechia | 18231 |
 | 9 | [robertvokac](https://github.com/robertvokac) | Robert Vokac |  |  | Prague | 17358 |
 | 10 | [jankalasnikov47](https://github.com/jankalasnikov47) | Jan Kalasnikov | SCIO |  | Prague | 17262 |
 | 11 | [mikevercoelen](https://github.com/mikevercoelen) | Mike Vercoelen |  |  | Prague | 16700 |

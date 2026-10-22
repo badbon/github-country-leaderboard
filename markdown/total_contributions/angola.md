@@ -1,6 +1,6 @@
 # Total Contributions - Angola
 
-Generated: 2026-10-22T18:19:54.678Z
+Generated: 2026-10-22T19:10:59.154Z
 
 Users: 2499
 
@@ -13,7 +13,7 @@ Users: 2499
 | 5 | [josecaseiro](https://github.com/josecaseiro) | José Caseiro | Musickool Lda |  | Angola | 10429 |
 | 6 | [cnoble](https://github.com/cnoble) | Chris Noble | Business Warrior |  | Angola, IN | 9520 |
 | 7 | [EmanuelJoseCandido](https://github.com/EmanuelJoseCandido) | Emanuel Cândido |  |  | Luanda, Angola | 8618 |
-| 8 | [nuelst](https://github.com/nuelst) | manuel |  |  | Luanda, Angola | 6554 |
+| 8 | [nuelst](https://github.com/nuelst) | manuel |  |  | Luanda, Angola | 6593 |
 | 9 | [Jndungue089](https://github.com/Jndungue089) | Josemar Ndungue |  |  | Angola | 6520 |
 | 10 | [figassis](https://github.com/figassis) | Assis Ngolo | Nellcorp |  | Luanda, Angola | 6103 |
 | 11 | [bentocussei](https://github.com/bentocussei) | Bento Cussei |  | bentobenack | Luanda, Angola | 5633 |

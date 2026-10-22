@@ -1,12 +1,12 @@
 # Public Contributions - Burkina Faso
 
-Generated: 2026-10-22T18:24:22.388Z
+Generated: 2026-10-22T19:16:50.310Z
 
 Users: 486
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [spwoodcock](https://github.com/spwoodcock) | Sam | Tech Lead @hotosm |  | Ouagadougou, Burkina Faso | 3651 |
+| 1 | [spwoodcock](https://github.com/spwoodcock) | Sam | Tech Lead @hotosm |  | Ouagadougou, Burkina Faso | 3659 |
 | 2 | [tky0065](https://github.com/tky0065) | Enokdev | Enokdev |  | Burkina Faso | 2666 |
 | 3 | [Y4NN777](https://github.com/Y4NN777) | Ragnang-Newende Yanis Axel DABO | @Y7-Labs  |  | Burkina Faso | 2209 |
 | 4 | [sokevinjonas](https://github.com/sokevinjonas) | SO Kevin Jonas Gningnabe | KGSLAB |  | BURKINA FASO | 1424 |
@@ -25,4 +25,4 @@ Users: 486
 | 17 | [NICE-DEV226](https://github.com/NICE-DEV226) | Azaël Wend-panga SAWADOGO  |  | NiceDEVbf | Burkina Faso | 499 |
 | 18 | [Zangafigue](https://github.com/Zangafigue) | Zangafigué Mathias TRAORE |  | zangafigue | Koudougou, Burkina Faso | 444 |
 | 19 | [gosse123](https://github.com/gosse123) | Nahounou gosse  | Burkina Open Place | npcd_king | Burkina Faso  | 370 |
-| 20 | [rxzkie](https://github.com/rxzkie) |  |  |  | Ouagadougou, Burkina Faso | 360 |
+| 20 | [nanaelie](https://github.com/nanaelie) | Nana Elie  |  | pyfs_dev | Burkina Faso / Bobo Dioulasso | 362 |
