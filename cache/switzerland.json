@@ -42354,22 +42354,10 @@
     "location": "Geneva, Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 131,
+    "publicContributions": 188,
     "createdAt": "2021-04-21T11:43:30Z"
-  },
-  {
-    "login": "timohlu",
-    "name": "Timo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/84687558?s=72&u=158be59acc5ecf4eecd39e549572b08349d893f3&v=4",
-    "location": "Switzerland",
-    "company": "HSLU",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 21,
-    "createdAt": "2021-05-23T22:33:00Z"
   },
   {
     "login": "Kaillor",
@@ -42380,7 +42368,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 29,
     "createdAt": "2021-04-27T06:32:15Z"
   },
   {
@@ -42392,19 +42380,19 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 38,
     "createdAt": "2021-01-04T15:32:28Z"
   },
   {
     "login": "inalbon",
     "name": "Malika In-Albon",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/82947825?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/82947825?s=72&u=1affb82741d2786762fbff19ed99627ff8617a53&v=4",
     "location": "Bern, Switzerland",
     "company": "EPFL",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 15,
     "createdAt": "2021-04-21T11:59:33Z"
   },
   {
@@ -42416,7 +42404,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 402,
+    "publicContributions": 329,
     "createdAt": "2021-04-22T08:06:47Z"
   },
   {
@@ -42427,8 +42415,8 @@
     "company": "ETH Zürich",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 56,
-    "publicContributions": 28,
+    "privateContributions": 58,
+    "publicContributions": 32,
     "createdAt": "2021-03-04T20:24:15Z"
   },
   {
@@ -42452,7 +42440,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 204,
+    "publicContributions": 206,
     "createdAt": "2021-04-28T22:37:40Z"
   },
   {
@@ -42488,7 +42476,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 3,
     "createdAt": "2021-06-24T19:24:08Z"
   },
   {
@@ -42499,7 +42487,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 80,
+    "privateContributions": 127,
     "publicContributions": 0,
     "createdAt": "2021-01-27T22:25:10Z"
   },
@@ -42510,9 +42498,9 @@
     "location": "Zurich, Switzerland",
     "company": "University of Zurich",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 56,
+    "publicContributions": 55,
     "createdAt": "2021-05-27T08:38:42Z"
   },
   {
@@ -42535,8 +42523,8 @@
     "company": "@MeteoSwiss",
     "twitterUsername": "RomanAttinger",
     "followers": 3,
-    "privateContributions": 97,
-    "publicContributions": 24,
+    "privateContributions": 67,
+    "publicContributions": 21,
     "createdAt": "2021-01-18T16:27:26Z"
   },
   {
@@ -42554,12 +42542,12 @@
   {
     "login": "saeid-ghouli",
     "name": "Saeid Ghouli",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/79544102?s=72&u=82e664cd82ca47a1c87245b5e5aad6b861a62a51&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/79544102?s=72&u=8f0aaa01831c5b1d1a27034d3230e78cd6542f09&v=4",
     "location": "Zurich, Switzerland",
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 94,
+    "privateContributions": 229,
     "publicContributions": 0,
     "createdAt": "2021-02-23T20:59:35Z"
   },
@@ -42570,9 +42558,9 @@
     "location": "Zug, Switzerland",
     "company": "Hochschule Luzern",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 14,
     "createdAt": "2021-04-18T10:15:59Z"
   },
   {
