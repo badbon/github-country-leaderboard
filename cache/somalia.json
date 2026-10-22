@@ -1928,7 +1928,7 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2024-12-21T13:53:29Z"
   },
   {
@@ -1940,7 +1940,7 @@
     "twitterUsername": "",
     "followers": 11,
     "privateContributions": 1,
-    "publicContributions": 94,
+    "publicContributions": 96,
     "createdAt": "2024-09-16T12:45:20Z"
   },
   {
@@ -2095,8 +2095,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 202,
-    "publicContributions": 355,
+    "privateContributions": 206,
+    "publicContributions": 345,
     "createdAt": "2024-02-18T18:51:19Z"
   },
   {
@@ -2107,8 +2107,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 2825,
-    "publicContributions": 124,
+    "privateContributions": 2804,
+    "publicContributions": 115,
     "createdAt": "2024-09-25T20:38:37Z"
   },
   {
@@ -2154,7 +2154,7 @@
     "location": "Galkaio,Somalia",
     "company": "Self study student",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 179,
     "createdAt": "2024-08-20T18:01:15Z"

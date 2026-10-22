@@ -43312,11 +43312,11 @@
     "name": "Jörg De Bernardi",
     "avatarUrl": "https://avatars.githubusercontent.com/u/84905011?s=72&u=291bc76f574e268fb0dbd0342c8e053910d0d15f&v=4",
     "location": "Switzerland",
-    "company": "Federal Chancellery",
+    "company": "https://github.com/eda-admin-ch",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 10,
     "createdAt": "2021-05-27T09:22:46Z"
   },
   {
@@ -43327,20 +43327,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 474,
+    "privateContributions": 517,
     "publicContributions": 0,
     "createdAt": "2021-02-16T16:16:46Z"
   },
   {
     "login": "program-minh",
     "name": "Minh-Khan Nguyen",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/79279155?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/79279155?s=72&u=fab200adf00261449718a5fb25d5492b3035b363&v=4",
     "location": "Switzerland",
     "company": "RAI",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 13,
     "createdAt": "2021-02-18T18:42:37Z"
   },
   {
@@ -43363,8 +43363,8 @@
     "company": "IDUN Technologies",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 485,
-    "publicContributions": 12,
+    "privateContributions": 547,
+    "publicContributions": 10,
     "createdAt": "2021-02-14T09:20:54Z"
   },
   {
@@ -43374,7 +43374,7 @@
     "location": "Birr, Aargau, Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-01-27T16:18:34Z"
@@ -43411,7 +43411,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 267,
+    "privateContributions": 230,
     "publicContributions": 15,
     "createdAt": "2021-05-13T08:53:25Z"
   },
@@ -43495,7 +43495,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 328,
+    "privateContributions": 788,
     "publicContributions": 13,
     "createdAt": "2021-06-10T21:14:20Z"
   },
@@ -43507,8 +43507,8 @@
     "company": "https://salestools.io",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 2364,
-    "publicContributions": 13,
+    "privateContributions": 3382,
+    "publicContributions": 14,
     "createdAt": "2021-04-29T14:00:45Z"
   },
   {
@@ -43520,7 +43520,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 10,
     "createdAt": "2021-03-09T17:49:35Z"
   },
   {
