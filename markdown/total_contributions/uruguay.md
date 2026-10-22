@@ -1,6 +1,6 @@
 # Total Contributions - Uruguay
 
-Generated: 2026-10-22T02:54:13.545Z
+Generated: 2026-10-22T06:23:09.650Z
 
 Users: 5603
 
@@ -18,11 +18,11 @@ Users: 5603
 | 10 | [turnyi](https://github.com/turnyi) | Martin Radovitzky | @Opti-Task  |  | Montevideo, Uruguay | 12732 |
 | 11 | [ignaciogarcia-dev](https://github.com/ignaciogarcia-dev) | Ignacio García | Criptala |  | Uruguay | 11961 |
 | 12 | [MateoVidalS](https://github.com/MateoVidalS) | Mateo Vidal | @pentoai  |  | Uruguay | 11113 |
-| 13 | [agurod42](https://github.com/agurod42) | Agu Rodríguez |  | agurod42 | Montevideo, Uruguay, Earth | 10131 |
-| 14 | [frankdavidcorona](https://github.com/frankdavidcorona) | Frank Corona Prendes | SynerSib Consulting SAS & Strictly | chaplindev | Montevideo, Uruguay | 10097 |
-| 15 | [diegomarvid](https://github.com/diegomarvid) | Diego Marvid | tryolabs |  | Montevideo, Uruguay | 9702 |
-| 16 | [cl8dep](https://github.com/cl8dep) | Arael Espinosa | @Heva-Co  |  | Montevideo, Uruguay | 8801 |
-| 17 | [EugeniaGramajo](https://github.com/EugeniaGramajo) | Eugenia Gramajo |  |  | Uruguay | 8420 |
-| 18 | [machester4](https://github.com/machester4) | Michael Pintos |  |  | Uruguay | 8338 |
-| 19 | [federicoimparatta](https://github.com/federicoimparatta) | Federico Imparatta | @ataraxy-digital |  | Montevideo, Uruguay | 8317 |
-| 20 | [emiliano-go](https://github.com/emiliano-go) | Emiliano G.O. | Eclipse Labs |  | Montevideo, Uruguay | 8276 |
+| 13 | [Jarrioja](https://github.com/Jarrioja) | Jesus Arrioja | @mood-agency |  | Montevideo, Uruguay | 11104 |
+| 14 | [agurod42](https://github.com/agurod42) | Agu Rodríguez |  | agurod42 | Montevideo, Uruguay, Earth | 10131 |
+| 15 | [frankdavidcorona](https://github.com/frankdavidcorona) | Frank Corona Prendes | SynerSib Consulting SAS & Strictly | chaplindev | Montevideo, Uruguay | 10097 |
+| 16 | [diegomarvid](https://github.com/diegomarvid) | Diego Marvid | tryolabs |  | Montevideo, Uruguay | 9702 |
+| 17 | [cl8dep](https://github.com/cl8dep) | Arael Espinosa | @Heva-Co  |  | Montevideo, Uruguay | 8801 |
+| 18 | [EugeniaGramajo](https://github.com/EugeniaGramajo) | Eugenia Gramajo |  |  | Uruguay | 8420 |
+| 19 | [machester4](https://github.com/machester4) | Michael Pintos |  |  | Uruguay | 8338 |
+| 20 | [federicoimparatta](https://github.com/federicoimparatta) | Federico Imparatta | @ataraxy-digital |  | Montevideo, Uruguay | 8317 |

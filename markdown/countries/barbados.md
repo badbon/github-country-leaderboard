@@ -12,7 +12,7 @@ Indexed users: 132
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [hammertoe](https://github.com/hammertoe) | Matt Hamilton | Barbados | 5,513 |
+| 1 | [hammertoe](https://github.com/hammertoe) | Matt Hamilton | Barbados | 5,646 |
 | 2 | [jasonals](https://github.com/jasonals) | Jason Als | Barbados | 5,461 |
 | 3 | [bajedev](https://github.com/bajedev) | Theo Taylor | Barbados | 4,221 |
 | 4 | [d-alleyne](https://github.com/d-alleyne) | Damien Alleyne | Barbados | 3,305 |
@@ -24,7 +24,7 @@ Indexed users: 132
 | 10 | [ShamarKellman](https://github.com/ShamarKellman) | Shamar Kellman | Barbados | 1,383 |
 | 11 | [alexanderbahlk](https://github.com/alexanderbahlk) | Alexander Bahlk | Barbados | 1,369 |
 | 12 | [dario-j-c](https://github.com/dario-j-c) | Dario J C | Barbados | 1,235 |
-| 13 | [lukehefson](https://github.com/lukehefson) | Luke Hefson | Barbados | 968 |
+| 13 | [lukehefson](https://github.com/lukehefson) | Luke Hefson | Barbados | 965 |
 | 14 | [clemjfrancis](https://github.com/clemjfrancis) | Clem "CJ" Francis | Barbados | 680 |
 | 15 | [ianhambleton](https://github.com/ianhambleton) | Ian Hambleton | Barbados | 671 |
 | 16 | [starsden](https://github.com/starsden) | den | Barbados | 593 |
@@ -83,4 +83,4 @@ Indexed users: 132
 | 19 | [sramharack](https://github.com/sramharack) | Shankar Ramharack | St. Phillips, Barbados, W.I. | 12 |
 | 20 | [paulamelrz](https://github.com/paulamelrz) | Paula Melero | Barbados | 11 |
 
-Generated: 2026-10-22T03:06:10.577Z
+Generated: 2026-10-22T06:36:29.714Z

@@ -1,6 +1,6 @@
 # Total Contributions - Croatia
 
-Generated: 2026-10-22T03:19:17.778Z
+Generated: 2026-10-22T06:48:59.474Z
 
 Users: 5418
 
@@ -9,20 +9,20 @@ Users: 5418
 | 1 | [stepanic](https://github.com/stepanic) | Matija Stepanic | ITalk Ltd. |  | Zagreb, Croatia | 35919 |
 | 2 | [tihomirjauk](https://github.com/tihomirjauk) | Tihomir Jauk | @LumiVerseHR |  | Zagreb, Croatia | 15965 |
 | 3 | [NoSync](https://github.com/NoSync) | Alessio Re | @Klartika  |  | Zagreb, Croatia | 14523 |
-| 4 | [AleksandarDev](https://github.com/AleksandarDev) | Aleksandar Toplek | https://enterwell.net | AleksandarDev | Zagreb, Croatia | 10938 |
-| 5 | [nibzard](https://github.com/nibzard) | Nikola Balic | @disequi | nibzard | Split, Croatia | 10662 |
-| 6 | [vburojevic](https://github.com/vburojevic) | Vedran Burojević | Caffeinated Code |  | Zagreb, Croatia | 9779 |
-| 7 | [dabodamjan](https://github.com/dabodamjan) | Damjan Dabo | Dabotech Studio d.o.o. | DaboDamjan | Zagreb | 9744 |
-| 8 | [SirBepy](https://github.com/SirBepy) | Josip Muzic | Proxify |  | Zagreb, Croatia | 9634 |
-| 9 | [markoboras0712](https://github.com/markoboras0712) | mboras | @prototypdigital |  | Osijek, Croatia | 9003 |
-| 10 | [bis3946](https://github.com/bis3946) | bis3946 | NuN Nexus of Unity  | bis3946 | Croatia | 8871 |
-| 11 | [SempaiEcchi](https://github.com/SempaiEcchi) | Leo Radočaj | Digital Nomad Agency |  | Pula, Croatia | 8428 |
-| 12 | [Norgul](https://github.com/Norgul) | Marko Dupor | PlusMusic |  | Rijeka, Croatia | 8372 |
-| 13 | [lbagic](https://github.com/lbagic) | Luka Bagic |  |  | Croatia | 8198 |
-| 14 | [lazar-tomislav](https://github.com/lazar-tomislav) | Tomislav Lazar | Morgan Code |  | Croatia | 8131 |
-| 15 | [edisinovcic](https://github.com/edisinovcic) | Edi Sinovcic | SpaceShard | edisinovcic | Croatia | 8044 |
-| 16 | [piqusy](https://github.com/piqusy) | Ivan Ramljak | @infinum  |  | Zagreb | 7764 |
-| 17 | [ivanmeler](https://github.com/ivanmeler) | Ivan Meler | Meler Media Group | ivan_meler | Croatia, Vukovar | 7621 |
-| 18 | [mbrcic](https://github.com/mbrcic) | Mario Brcic |  |  | Zagreb, Croatia | 7336 |
-| 19 | [zvanjak](https://github.com/zvanjak) | Zvonimir Vanjak | Quantum Soft d.o.o. | zvanjak | Zagreb | 7219 |
-| 20 | [viborc](https://github.com/viborc) | Vibor Cipan | Daydream | viborc | Croatia | 7209 |
+| 4 | [dokicro](https://github.com/dokicro) | Domagoj Franc | Upstream | DomagojFranc | Zagreb, Croatia | 13637 |
+| 5 | [AleksandarDev](https://github.com/AleksandarDev) | Aleksandar Toplek | https://enterwell.net | AleksandarDev | Zagreb, Croatia | 10938 |
+| 6 | [nibzard](https://github.com/nibzard) | Nikola Balic | @disequi | nibzard | Split, Croatia | 10662 |
+| 7 | [vburojevic](https://github.com/vburojevic) | Vedran Burojević | Caffeinated Code |  | Zagreb, Croatia | 9779 |
+| 8 | [dabodamjan](https://github.com/dabodamjan) | Damjan Dabo | Dabotech Studio d.o.o. | DaboDamjan | Zagreb | 9744 |
+| 9 | [SirBepy](https://github.com/SirBepy) | Josip Muzic | Proxify |  | Zagreb, Croatia | 9634 |
+| 10 | [markoboras0712](https://github.com/markoboras0712) | mboras | @prototypdigital |  | Osijek, Croatia | 9003 |
+| 11 | [bis3946](https://github.com/bis3946) | bis3946 | NuN Nexus of Unity  | bis3946 | Croatia | 8871 |
+| 12 | [SempaiEcchi](https://github.com/SempaiEcchi) | Leo Radočaj | Digital Nomad Agency |  | Pula, Croatia | 8428 |
+| 13 | [Norgul](https://github.com/Norgul) | Marko Dupor | PlusMusic |  | Rijeka, Croatia | 8372 |
+| 14 | [lbagic](https://github.com/lbagic) | Luka Bagic |  |  | Croatia | 8198 |
+| 15 | [lazar-tomislav](https://github.com/lazar-tomislav) | Tomislav Lazar | Morgan Code |  | Croatia | 8131 |
+| 16 | [edisinovcic](https://github.com/edisinovcic) | Edi Sinovcic | SpaceShard | edisinovcic | Croatia | 8044 |
+| 17 | [piqusy](https://github.com/piqusy) | Ivan Ramljak | @infinum  |  | Zagreb | 7764 |
+| 18 | [ivanmeler](https://github.com/ivanmeler) | Ivan Meler | Meler Media Group | ivan_meler | Croatia, Vukovar | 7621 |
+| 19 | [mbrcic](https://github.com/mbrcic) | Mario Brcic |  |  | Zagreb, Croatia | 7336 |
+| 20 | [zvanjak](https://github.com/zvanjak) | Zvonimir Vanjak | Quantum Soft d.o.o. | zvanjak | Zagreb | 7219 |

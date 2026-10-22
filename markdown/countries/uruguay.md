@@ -24,14 +24,14 @@ Indexed users: 5,603
 | 10 | [turnyi](https://github.com/turnyi) | Martin Radovitzky | Montevideo, Uruguay | 12,732 |
 | 11 | [ignaciogarcia-dev](https://github.com/ignaciogarcia-dev) | Ignacio García | Uruguay | 11,961 |
 | 12 | [MateoVidalS](https://github.com/MateoVidalS) | Mateo Vidal | Uruguay | 11,113 |
-| 13 | [agurod42](https://github.com/agurod42) | Agu Rodríguez | Montevideo, Uruguay, Earth | 10,131 |
-| 14 | [frankdavidcorona](https://github.com/frankdavidcorona) | Frank Corona Prendes | Montevideo, Uruguay | 10,097 |
-| 15 | [diegomarvid](https://github.com/diegomarvid) | Diego Marvid | Montevideo, Uruguay | 9,702 |
-| 16 | [cl8dep](https://github.com/cl8dep) | Arael Espinosa | Montevideo, Uruguay | 8,801 |
-| 17 | [EugeniaGramajo](https://github.com/EugeniaGramajo) | Eugenia Gramajo | Uruguay | 8,420 |
-| 18 | [machester4](https://github.com/machester4) | Michael Pintos | Uruguay | 8,338 |
-| 19 | [federicoimparatta](https://github.com/federicoimparatta) | Federico Imparatta | Montevideo, Uruguay | 8,317 |
-| 20 | [emiliano-go](https://github.com/emiliano-go) | Emiliano G.O. | Montevideo, Uruguay | 8,276 |
+| 13 | [Jarrioja](https://github.com/Jarrioja) | Jesus Arrioja | Montevideo, Uruguay | 11,104 |
+| 14 | [agurod42](https://github.com/agurod42) | Agu Rodríguez | Montevideo, Uruguay, Earth | 10,131 |
+| 15 | [frankdavidcorona](https://github.com/frankdavidcorona) | Frank Corona Prendes | Montevideo, Uruguay | 10,097 |
+| 16 | [diegomarvid](https://github.com/diegomarvid) | Diego Marvid | Montevideo, Uruguay | 9,702 |
+| 17 | [cl8dep](https://github.com/cl8dep) | Arael Espinosa | Montevideo, Uruguay | 8,801 |
+| 18 | [EugeniaGramajo](https://github.com/EugeniaGramajo) | Eugenia Gramajo | Uruguay | 8,420 |
+| 19 | [machester4](https://github.com/machester4) | Michael Pintos | Uruguay | 8,338 |
+| 20 | [federicoimparatta](https://github.com/federicoimparatta) | Federico Imparatta | Montevideo, Uruguay | 8,317 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 5,603
 | 19 | [mauricioszabo](https://github.com/mauricioszabo) | Maurício Szabo | Montevideo, Uruguay | 196 |
 | 20 | [ppazos](https://github.com/ppazos) | Pablo Pazos Gutiérrez | Montevideo, Uruguay | 196 |
 
-Generated: 2026-10-22T02:54:13.545Z
+Generated: 2026-10-22T06:23:09.650Z

@@ -24,8 +24,8 @@ Indexed users: 2,038
 | 10 | [pro-cms](https://github.com/pro-cms) | Novath Thomas | TANZANIA | 11,577 |
 | 11 | [tarxemo](https://github.com/tarxemo) | TarXemo | Dodoma-Tanzania | 11,527 |
 | 12 | [TheCollinsByte](https://github.com/TheCollinsByte) | Collins | Arusha, Tanzania | 11,380 |
-| 13 | [mwakatumbula](https://github.com/mwakatumbula) | Francis Mwakatumbula | Dar es salaam,Tanzania | 9,814 |
-| 14 | [fredygerman](https://github.com/fredygerman) | Fredy Mgimba | Tanzania | 9,059 |
+| 13 | [fredygerman](https://github.com/fredygerman) | Fredy Mgimba | Tanzania | 10,226 |
+| 14 | [mwakatumbula](https://github.com/mwakatumbula) | Francis Mwakatumbula | Dar es salaam,Tanzania | 9,814 |
 | 15 | [fmwasekaga](https://github.com/fmwasekaga) | Fredrick Lusako Mwasekaga | Tanzania | 8,875 |
 | 16 | [islandkid-20](https://github.com/islandkid-20) | James Mashaka | Dar Es Salaam,Tanzania | 8,848 |
 | 17 | [victorjudysen](https://github.com/victorjudysen) | Victor Kweka | Dodoma, Tanzania | 8,111 |
@@ -83,4 +83,4 @@ Indexed users: 2,038
 | 19 | [3nock](https://github.com/3nock) | Enock | Dar es Salaam, Tanzania | 187 |
 | 20 | [Mrhanstz](https://github.com/Mrhanstz) | HANSTZ | Africa Dodoma | 179 |
 
-Generated: 2026-10-22T02:49:07.216Z
+Generated: 2026-10-22T06:17:47.737Z

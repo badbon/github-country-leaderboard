@@ -1,15 +1,15 @@
 # Total Contributions - Zimbabwe
 
-Generated: 2026-10-22T02:58:30.702Z
+Generated: 2026-10-22T06:28:22.642Z
 
 Users: 1656
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [eisax](https://github.com/eisax) | Josphat Ndhlovu | eisax software services |  | Zimbabwe | 30882 |
+| 1 | [eisax](https://github.com/eisax) | Josphat Ndhlovu | eisax software services |  | Zimbabwe | 30856 |
 | 2 | [Lewy263](https://github.com/Lewy263) | Tinashe Lewis Karumazondo |  | Tinashe_Lewis | Harare | 9569 |
 | 3 | [Mutombe](https://github.com/Mutombe) | Mutombe | Bit Studio |  | Borrowdale, Harare | 9569 |
-| 4 | [codewithkin](https://github.com/codewithkin) | Kin Leon Zinzombe | GroundUpMVP | codewithkin | Mutare, Zimbabwe | 9433 |
+| 4 | [codewithkin](https://github.com/codewithkin) | Kin Leon Zinzombe | GroundUpMVP | codewithkin | Mutare, Zimbabwe | 9488 |
 | 5 | [iamngoni](https://github.com/iamngoni) | Ngonidzashe Mangudya | Codecraft Solutions | iamngoni | Harare | 8370 |
 | 6 | [farmhutsoftwareteam](https://github.com/farmhutsoftwareteam) | Munyaradzi Makosa | @hubflo | makosamunyaa | Harare | 8021 |
 | 7 | [Patizy-tel](https://github.com/Patizy-tel) | Magnificient Stallion Tello🔥 | Flostec Digital Solutions | PatizyTel | Zimbabwe | 7632 |

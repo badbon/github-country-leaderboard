@@ -1,6 +1,6 @@
 # Public Contributions - Cyprus
 
-Generated: 2026-10-22T03:22:02.555Z
+Generated: 2026-10-22T06:50:25.891Z
 
 Users: 2721
 
@@ -14,7 +14,7 @@ Users: 2721
 | 6 | [IMKolganov](https://github.com/IMKolganov) | Ivan | Rackot production |  | Cyprus | 4567 |
 | 7 | [AxGord](https://github.com/AxGord) | Alexander Gordeyko |  | axgord | Limassol, Cyprus | 4455 |
 | 8 | [protesilaos](https://github.com/protesilaos) | Protesilaos |  |  | Cyprus | 4292 |
-| 9 | [NicosNicolaou16](https://github.com/NicosNicolaou16) | Nicos Nicolaou |  | nicolaou_nicos | Nicosia, Cyprus | 3881 |
+| 9 | [NicosNicolaou16](https://github.com/NicosNicolaou16) | Nicos Nicolaou |  | nicolaou_nicos | Nicosia, Cyprus | 4092 |
 | 10 | [candasoz01-cmd](https://github.com/candasoz01-cmd) | Candaş Öz | Candaş Öz |  | Kıbrıs | 3534 |
 | 11 | [VizzleTF](https://github.com/VizzleTF) | Ivan K |  |  | Cyprus | 3486 |
 | 12 | [phalouvas](https://github.com/phalouvas) | Panayiotis Halouvas | KAINOTOMO PH LTD  |  | Cyprus  | 3353 |

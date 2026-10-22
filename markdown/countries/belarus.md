@@ -46,11 +46,11 @@ Indexed users: 10,925
 | 7 | [TarhunchiKKK](https://github.com/TarhunchiKKK) | Konstantin Barilo | Minsk, Belarus | 2,208 |
 | 8 | [Mukller](https://github.com/Mukller) | Anton Petnitsky | Belarus, Minsk | 2,150 |
 | 9 | [pese-git](https://github.com/pese-git) | Sergey Penkovsky | Belarus | 2,113 |
-| 10 | [timseriakov](https://github.com/timseriakov) | Tim Seriakov | Minsk, Belarus | 2,082 |
-| 11 | [Nice3point](https://github.com/Nice3point) | Roman | Minsk | 2,066 |
-| 12 | [naxBody](https://github.com/naxBody) | Артем | Belarus, Luninets  | 1,957 |
-| 13 | [Alexeykoh](https://github.com/Alexeykoh) | Алексей | Belarus | 1,928 |
-| 14 | [MikalaiKryvusha](https://github.com/MikalaiKryvusha) | Mikalai Kryvusha | Belarus, Minsk | 1,922 |
+| 10 | [Nice3point](https://github.com/Nice3point) | Roman | Minsk | 2,066 |
+| 11 | [naxBody](https://github.com/naxBody) | Артем | Belarus, Luninets  | 1,957 |
+| 12 | [Alexeykoh](https://github.com/Alexeykoh) | Алексей | Belarus | 1,928 |
+| 13 | [MikalaiKryvusha](https://github.com/MikalaiKryvusha) | Mikalai Kryvusha | Belarus, Minsk | 1,922 |
+| 14 | [timseriakov](https://github.com/timseriakov) | Tim Seriakov | Minsk, Belarus | 1,851 |
 | 15 | [e-gleba](https://github.com/e-gleba) | Evgeniy Gleba | Minsk | 1,838 |
 | 16 | [HardNorth](https://github.com/HardNorth) | Vadzim Hushchanskou | Minsk, Belarus | 1,826 |
 | 17 | [AndreiDrang](https://github.com/AndreiDrang) | Andrei | Minsk | 1,681 |
@@ -83,4 +83,4 @@ Indexed users: 10,925
 | 19 | [dillidon](https://github.com/dillidon) | RV | Belarus | 183 |
 | 20 | [alexzhirkevich](https://github.com/alexzhirkevich) | Alexander Zhirkevich | Belarus, Minsk | 165 |
 
-Generated: 2026-10-22T03:06:18.546Z
+Generated: 2026-10-22T06:36:37.086Z

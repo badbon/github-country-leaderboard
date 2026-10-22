@@ -1,8 +1,8 @@
 # Total Contributions - Dominican Republic
 
-Generated: 2026-10-22T03:22:53.894Z
+Generated: 2026-10-22T06:52:18.431Z
 
-Users: 3298
+Users: 3297
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -13,9 +13,9 @@ Users: 3298
 | 5 | [jflerime314](https://github.com/jflerime314) | Joseph Angelo Flerimé | @jflerime | jflerime | Dominican Republic | 11312 |
 | 6 | [deuriib](https://github.com/deuriib) | Deuri Vasquez |  |  | Santo Domingo, R. D. | 10542 |
 | 7 | [0x-Crisbanks](https://github.com/0x-Crisbanks) | Crisbanks |  | Criisbanks | Dominican Republic  | 9538 |
-| 8 | [focux](https://github.com/focux) | Leonardo E. Dominguez |  | foocux | Dominican Republic | 9140 |
-| 9 | [emilsosa](https://github.com/emilsosa) | Emil Sosa | @magaransoft | emilsosa_ | Dominican Republic | 8906 |
-| 10 | [Urpirio](https://github.com/Urpirio) | UrpirioDev | @Urpsoft  |  | Dominican Republic  | 8607 |
+| 8 | [Urpirio](https://github.com/Urpirio) | UrpirioDev | @Urpsoft  |  | Dominican Republic  | 9203 |
+| 9 | [focux](https://github.com/focux) | Leonardo E. Dominguez |  | foocux | Dominican Republic | 9140 |
+| 10 | [emilsosa](https://github.com/emilsosa) | Emil Sosa | @magaransoft | emilsosa_ | Dominican Republic | 8906 |
 | 11 | [gmolinart](https://github.com/gmolinart) | Guillermo Molina | UMA |  | dominican republic | 8494 |
 | 12 | [everylisting](https://github.com/everylisting) | Philippe Roy | @everylisting-com  |  | Dominican-Republic | 8493 |
 | 13 | [ERPalmer](https://github.com/ERPalmer) | ERPalmer |  | ERPalmer | Dominican Republic | 7168 |

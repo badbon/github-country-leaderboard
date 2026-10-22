@@ -45,7 +45,7 @@ Indexed users: 2,721
 | 6 | [IMKolganov](https://github.com/IMKolganov) | Ivan | Cyprus | 4,567 |
 | 7 | [AxGord](https://github.com/AxGord) | Alexander Gordeyko | Limassol, Cyprus | 4,455 |
 | 8 | [protesilaos](https://github.com/protesilaos) | Protesilaos | Cyprus | 4,292 |
-| 9 | [NicosNicolaou16](https://github.com/NicosNicolaou16) | Nicos Nicolaou | Nicosia, Cyprus | 3,881 |
+| 9 | [NicosNicolaou16](https://github.com/NicosNicolaou16) | Nicos Nicolaou | Nicosia, Cyprus | 4,092 |
 | 10 | [candasoz01-cmd](https://github.com/candasoz01-cmd) | Candaş Öz | Kıbrıs | 3,534 |
 | 11 | [VizzleTF](https://github.com/VizzleTF) | Ivan K | Cyprus | 3,486 |
 | 12 | [phalouvas](https://github.com/phalouvas) | Panayiotis Halouvas | Cyprus  | 3,353 |
@@ -83,4 +83,4 @@ Indexed users: 2,721
 | 19 | [sudoguy](https://github.com/sudoguy) | Evgeny Kemerov | Limassol, Cyprus | 251 |
 | 20 | [polterguy](https://github.com/polterguy) | Thomas Hansen | Cyprus | 245 |
 
-Generated: 2026-10-22T03:22:02.555Z
+Generated: 2026-10-22T06:50:25.891Z

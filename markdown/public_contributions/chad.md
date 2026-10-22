@@ -1,6 +1,6 @@
 # Public Contributions - Chad
 
-Generated: 2026-10-22T03:15:24.938Z
+Generated: 2026-10-22T06:45:09.401Z
 
 Users: 201
 
@@ -13,10 +13,10 @@ Users: 201
 | 5 | [Helionux](https://github.com/Helionux) | Deoule-Allah Madjitoloum Heliodore |  |  | Tchad | 241 |
 | 6 | [black-hatn](https://github.com/black-hatn) | Nourr |  |  | Tchad | 189 |
 | 7 | [AliAttyallahAli](https://github.com/AliAttyallahAli) | Ali Attyallah Ali | Djamamariwo |  | Ndjaména/Tchad | 181 |
-| 8 | [Solid2017](https://github.com/Solid2017) | Betan Gildas Ongbaye | Igotech |  | Chad | 162 |
+| 8 | [Solid2017](https://github.com/Solid2017) | Betan Gildas Ongbaye | Igotech |  | Chad | 163 |
 | 9 | [Djerade](https://github.com/Djerade) | Djeradé Golbé Parfait |  |  | Chad | 160 |
 | 10 | [sulzokeboulin](https://github.com/sulzokeboulin) | Norma Brown |  |  | West Joshuaburgh, Chad | 135 |
-| 11 | [Mbaigo](https://github.com/Mbaigo) | Evrard | THTC |  | N'Djamena | 117 |
+| 11 | [Mbaigo](https://github.com/Mbaigo) | Evrard | THTC |  | N'Djamena | 113 |
 | 12 | [Abdelkerim516](https://github.com/Abdelkerim516) | ABDEL_ABBO | AbboTech |  | N'djamena | 111 |
 | 13 | [Debeing](https://github.com/Debeing) | MBAITEL-AM MBAINAISSEM ERIC |  |  | Tchad | 103 |
 | 14 | [BenjosMB235](https://github.com/BenjosMB235) | MBAIRAM BENJAMIN BEASSOUM |  |  | N'djaména-Tchad | 89 |

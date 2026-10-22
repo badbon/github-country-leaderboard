@@ -1,6 +1,6 @@
 # Public Contributions - Åland Islands
 
-Generated: 2026-10-22T02:59:15.019Z
+Generated: 2026-10-22T06:29:14.794Z
 
 Users: 61
 
@@ -8,7 +8,7 @@ Users: 61
 |---:|---|---|---|---|---|---:|
 | 1 | [michael-andreuzza](https://github.com/michael-andreuzza) | Michael Andreuzza | Unwrapped | Mike_Andreuzza | Mariehman, Åland Islands, Finland | 1149 |
 | 2 | [SaddamHosyn](https://github.com/SaddamHosyn) | Hussain Saddam |  |  | Mariehamn, Åland | 962 |
-| 3 | [mareerray](https://github.com/mareerray) | Mayuree Reunsati |  |  | Mariehamn, Åland | 850 |
+| 3 | [mareerray](https://github.com/mareerray) | Mayuree Reunsati |  |  | Mariehamn, Åland | 861 |
 | 4 | [fannielf](https://github.com/fannielf) | Fanni Vesanen | @enfuce  |  | Mariehamn | 576 |
 | 5 | [MarkusYPA](https://github.com/MarkusYPA) | Markus Amberla |  |  | Mariehamn and Helsinki | 542 |
 | 6 | [kejpa](https://github.com/kejpa) | Kjell Hansen |  |  | Mariehamn, Åland Islands | 528 |
@@ -18,7 +18,7 @@ Users: 61
 | 10 | [rahulwagh](https://github.com/rahulwagh) | Rahul Wagh |  |  | Mariehamn, Åland | 140 |
 | 11 | [fatemekh78](https://github.com/fatemekh78) | Fatemeh |  |  | Mariehamn, Åland islands | 127 |
 | 12 | [olegamobile](https://github.com/olegamobile) | Oleg Balandin | Grit:lab |  | Mariehamn | 108 |
-| 13 | [hmenorjr](https://github.com/hmenorjr) | Herman Menor, Jr. | WebSnabb | hmenorjr | Åland Islands, Finland | 92 |
+| 13 | [hmenorjr](https://github.com/hmenorjr) | Herman Menor, Jr. | WebSnabb | hmenorjr | Åland Islands, Finland | 98 |
 | 14 | [giAddams](https://github.com/giAddams) | Geraldine Addamo |  |  | Mariehamn | 78 |
 | 15 | [mavka1207](https://github.com/mavka1207) | Kateryna Ovsiienko | Gritlab |  | Mariehamn | 72 |
 | 16 | [hkarlstrom](https://github.com/hkarlstrom) | Henrik Karlström |  |  | Åland Islands | 67 |

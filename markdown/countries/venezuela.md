@@ -1,6 +1,6 @@
 # Venezuela
 
-Indexed users: 6,617
+Indexed users: 6,616
 
 | Leaderboard | Link |
 |---|---|
@@ -53,10 +53,10 @@ Indexed users: 6,617
 | 14 | [TheElegantCoding](https://github.com/TheElegantCoding) | Luis Monsalve | Venezuela | 2,508 |
 | 15 | [gabrielbaute](https://github.com/gabrielbaute) | Gabriel Baute | Venezuela | 2,241 |
 | 16 | [CiszukoAntony](https://github.com/CiszukoAntony) | Ciszuko | Venezuela | 2,165 |
-| 17 | [elfotito](https://github.com/elfotito) | elfotito | Venezuela | 2,158 |
-| 18 | [Danielk10](https://github.com/Danielk10) | Daniel Elias Diamon Vazquez | Venezuela | 1,916 |
-| 19 | [hrodrig](https://github.com/hrodrig) | Hermes Rodríguez | Caracas, Venezuela | 1,848 |
-| 20 | [claucondor](https://github.com/claucondor) | Claudio Condor | Merida, Venezuela | 1,757 |
+| 17 | [Danielk10](https://github.com/Danielk10) | Daniel Elias Diamon Vazquez | Venezuela | 1,916 |
+| 18 | [hrodrig](https://github.com/hrodrig) | Hermes Rodríguez | Caracas, Venezuela | 1,848 |
+| 19 | [claucondor](https://github.com/claucondor) | Claudio Condor | Merida, Venezuela | 1,757 |
+| 20 | [JesusAraujoDEV](https://github.com/JesusAraujoDEV) | Jesús Alberto Araujo Arteaga | Valencia, Venezuela | 1,652 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 6,617
 | 19 | [NTBBloodbath](https://github.com/NTBBloodbath) | Alejandro | Caracas, Venezuela | 179 |
 | 20 | [KellbisJ](https://github.com/KellbisJ) | Kellbis Salazar | Venezuela / Remote | 175 |
 
-Generated: 2026-10-22T02:56:14.285Z
+Generated: 2026-10-22T06:25:24.055Z

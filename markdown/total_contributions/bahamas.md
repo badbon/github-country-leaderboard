@@ -1,6 +1,6 @@
 # Total Contributions - Bahamas
 
-Generated: 2026-10-22T03:03:35.634Z
+Generated: 2026-10-22T06:34:55.524Z
 
 Users: 236
 
@@ -18,10 +18,10 @@ Users: 236
 | 10 | [jsphpndr](https://github.com/jsphpndr) | Joseph Pinder | Clever | jsphpndr | Bahamas | 1215 |
 | 11 | [TRL242](https://github.com/TRL242) | Roy Lockhart |  |  | Victoria, BC and Freeport, Bahamas | 1110 |
 | 12 | [Johndiddles](https://github.com/Johndiddles) | Johndiddles | Evon Medics LLC | john_diddles | Nassau, Bahamas | 826 |
-| 13 | [Tec4Sho](https://github.com/Tec4Sho) | Ziona |  |  | Nassau, Bahamas  | 773 |
+| 13 | [Tec4Sho](https://github.com/Tec4Sho) | Ziona |  |  | Nassau, Bahamas  | 752 |
 | 14 | [Clearwood](https://github.com/Clearwood) |  |  | 0xKeno | Bahamas | 740 |
 | 15 | [dorson755](https://github.com/dorson755) | Dorson Williams |  |  | Nassau Bahamas | 738 |
-| 16 | [TerryJG](https://github.com/TerryJG) | Terrance |  |  | Nassau, Bahamas | 717 |
+| 16 | [TerryJG](https://github.com/TerryJG) | Terrance |  |  | Nassau, Bahamas | 724 |
 | 17 | [mikepadiernos](https://github.com/mikepadiernos) | Mike Padiernos | TCS, GE Aerospace |  | Nassau County, NY | 611 |
 | 18 | [nhayling](https://github.com/nhayling) | Noah Hayling | @archipelagoapps | nhayling_ | Nassau, The Bahamas | 558 |
 | 19 | [avolel](https://github.com/avolel) | Andre Volel |  |  | Nassau County, NY | 371 |

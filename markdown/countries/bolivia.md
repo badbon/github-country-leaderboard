@@ -25,11 +25,11 @@ Indexed users: 1,783
 | 11 | [OscarGauss](https://github.com/OscarGauss) | Oscar Gauss Carvajal Yucra | La Paz, Bolivia | 5,337 |
 | 12 | [gitchaell](https://github.com/gitchaell) | Michaell Alavedra | Santa Cruz de la Sierra, Bolivia | 5,017 |
 | 13 | [nahimdhaney](https://github.com/nahimdhaney) | Nahim Terrazas Parada | Bolivia | 4,941 |
-| 14 | [cesarszv](https://github.com/cesarszv) | Sebastian Zambrana | Santa Cruz, Bolivia | 4,884 |
+| 14 | [cesarszv](https://github.com/cesarszv) | Sebastian Zambrana | Santa Cruz, Bolivia | 4,721 |
 | 15 | [ChristianConchari](https://github.com/ChristianConchari) | Chris Conchari | Bolivia | 4,493 |
 | 16 | [villcabo](https://github.com/villcabo) | Bismarck Villca | Bolivia | 4,245 |
-| 17 | [GonzaloPinell](https://github.com/GonzaloPinell) | Gonzalo Pinell | La Paz, Bolivia | 4,018 |
-| 18 | [Mats2208](https://github.com/Mats2208) | Mateo Andres Soto Gareca | Santa Cruz, Bolivia  | 3,957 |
+| 17 | [Mats2208](https://github.com/Mats2208) | Mateo Andres Soto Gareca | Santa Cruz, Bolivia  | 4,217 |
+| 18 | [GonzaloPinell](https://github.com/GonzaloPinell) | Gonzalo Pinell | La Paz, Bolivia | 4,018 |
 | 19 | [ggonzalez94](https://github.com/ggonzalez94) | Gustavo Gonzalez | Santa Cruz de la SIerra, Bolivia | 3,813 |
 | 20 | [Aliaga23](https://github.com/Aliaga23) | Arturo Aliaga | Santa Cruz, Bolivia | 3,403 |
 
@@ -83,4 +83,4 @@ Indexed users: 1,783
 | 19 | [alvarosiles11](https://github.com/alvarosiles11) | Alvaro Siles Estrada | Bolivia | 121 |
 | 20 | [mauforonda](https://github.com/mauforonda) | Mau Foronda | Bolivia | 119 |
 
-Generated: 2026-10-22T03:10:05.879Z
+Generated: 2026-10-22T06:39:21.928Z

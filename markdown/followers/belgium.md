@@ -1,6 +1,6 @@
 # Followers - Belgium
 
-Generated: 2026-10-22T03:06:52.889Z
+Generated: 2026-10-22T06:37:16.306Z
 
 Users: 18373
 

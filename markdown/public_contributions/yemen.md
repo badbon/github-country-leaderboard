@@ -1,6 +1,6 @@
 # Public Contributions - Yemen
 
-Generated: 2026-10-22T02:58:23.923Z
+Generated: 2026-10-22T06:28:15.837Z
 
 Users: 1205
 
@@ -20,7 +20,7 @@ Users: 1205
 | 12 | [islamux](https://github.com/islamux) | Fathi Mohammed Saeed AlQadasi |  |  | Yemen | 1481 |
 | 13 | [ahmedalbanna](https://github.com/ahmedalbanna) | Ahmed Al-Banna | Albanaa |  | Yemen | 1444 |
 | 14 | [ahmedalsanadi](https://github.com/ahmedalsanadi) | Ahmed Alsanadi | Open to New Opportunities |  | Yemen | 1291 |
-| 15 | [hishamco](https://github.com/hishamco) | Hisham Bin Ateya |  | hishambinateya | Yemen | 1277 |
+| 15 | [hishamco](https://github.com/hishamco) | Hisham Bin Ateya |  | hishambinateya | Yemen | 1283 |
 | 16 | [Alfrahi](https://github.com/Alfrahi) | Abdullah |  |  | Yemen | 1124 |
 | 17 | [716W](https://github.com/716W) | Ali Bin-Samida | Hadramout |  | Yemen | 916 |
 | 18 | [Hazem-Alyaari](https://github.com/Hazem-Alyaari) | Hazem Alyaari | DataTrans - Obeikan Digital Solution |  | sana'a  | 887 |

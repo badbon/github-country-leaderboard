@@ -41,7 +41,7 @@ Indexed users: 1,182
 | 2 | [flakerimi](https://github.com/flakerimi) | Flakerim Ismani | Tirane, Albania | 4,754 |
 | 3 | [fadion](https://github.com/fadion) | Fadion Dashi | Tirana, Albania | 4,420 |
 | 4 | [GentBajko](https://github.com/GentBajko) | Gent Bajko | Tirana, Albania | 2,544 |
-| 5 | [Orest-Z](https://github.com/Orest-Z) | Orest | Albania | 1,588 |
+| 5 | [Orest-Z](https://github.com/Orest-Z) | Orest | Albania | 1,589 |
 | 6 | [KLEOJAHOLLARI](https://github.com/KLEOJAHOLLARI) | Kleo Jahollari | Albania | 1,243 |
 | 7 | [ezekaj](https://github.com/ezekaj) | Elvi Zekaj | Tirana, Albania | 1,002 |
 | 8 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | Albania | 909 |
@@ -83,4 +83,4 @@ Indexed users: 1,182
 | 19 | [SxtBox](https://github.com/SxtBox) | Albdroid.AL | Albania | 81 |
 | 20 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | Albania | 77 |
 
-Generated: 2026-10-22T02:59:50.150Z
+Generated: 2026-10-22T06:29:53.153Z

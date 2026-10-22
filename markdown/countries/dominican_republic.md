@@ -1,6 +1,6 @@
 # Dominican Republic
 
-Indexed users: 3,298
+Indexed users: 3,297
 
 | Leaderboard | Link |
 |---|---|
@@ -19,9 +19,9 @@ Indexed users: 3,298
 | 5 | [jflerime314](https://github.com/jflerime314) | Joseph Angelo Flerimé | Dominican Republic | 11,312 |
 | 6 | [deuriib](https://github.com/deuriib) | Deuri Vasquez | Santo Domingo, R. D. | 10,542 |
 | 7 | [0x-Crisbanks](https://github.com/0x-Crisbanks) | Crisbanks | Dominican Republic  | 9,538 |
-| 8 | [focux](https://github.com/focux) | Leonardo E. Dominguez | Dominican Republic | 9,140 |
-| 9 | [emilsosa](https://github.com/emilsosa) | Emil Sosa | Dominican Republic | 8,906 |
-| 10 | [Urpirio](https://github.com/Urpirio) | UrpirioDev | Dominican Republic  | 8,607 |
+| 8 | [Urpirio](https://github.com/Urpirio) | UrpirioDev | Dominican Republic  | 9,203 |
+| 9 | [focux](https://github.com/focux) | Leonardo E. Dominguez | Dominican Republic | 9,140 |
+| 10 | [emilsosa](https://github.com/emilsosa) | Emil Sosa | Dominican Republic | 8,906 |
 | 11 | [gmolinart](https://github.com/gmolinart) | Guillermo Molina | dominican republic | 8,494 |
 | 12 | [everylisting](https://github.com/everylisting) | Philippe Roy | Dominican-Republic | 8,493 |
 | 13 | [ERPalmer](https://github.com/ERPalmer) | ERPalmer | Dominican Republic | 7,168 |
@@ -63,7 +63,7 @@ Indexed users: 3,298
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [alanhamlett](https://github.com/alanhamlett) | Alan Hamlett | Dominican Republic | 5,135 |
-| 2 | [johansitoweb](https://github.com/johansitoweb) | Johan Antonio | Dominican republic | 940 |
+| 2 | [johansitoweb](https://github.com/johansitoweb) | Johan Antonio | Dominican republic | 944 |
 | 3 | [sgermosen](https://github.com/sgermosen) | Starling Germosen | Santo Domingo, Republica Dominicana | 729 |
 | 4 | [LeomarisReyes](https://github.com/LeomarisReyes) | Leomaris Reyes | Dominican Republic | 565 |
 | 5 | [rmariuzzo](https://github.com/rmariuzzo) | Rubens Mariuzzo | Dominican Republic | 428 |
@@ -83,4 +83,4 @@ Indexed users: 3,298
 | 19 | [eatskolnikov](https://github.com/eatskolnikov) | Enmanuel Toribio | Dominican Republic | 147 |
 | 20 | [RaymondCoplin](https://github.com/RaymondCoplin) | Raymond Coplin | Dominican Republic, Santo Domingo | 120 |
 
-Generated: 2026-10-22T03:22:53.894Z
+Generated: 2026-10-22T06:52:18.431Z

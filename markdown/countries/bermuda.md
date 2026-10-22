@@ -12,7 +12,7 @@ Indexed users: 898
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [bokmann](https://github.com/bokmann) | David Bock | Hamilton, VA | 21,464 |
+| 1 | [bokmann](https://github.com/bokmann) | David Bock | Hamilton, VA | 27,487 |
 | 2 | [nahoskins](https://github.com/nahoskins) | Nick Hoskins | Bermuda | 14,081 |
 | 3 | [kianis4](https://github.com/kianis4) | Suleyman Kiani | Hamilton, ON | 12,172 |
 | 4 | [marc-pelland](https://github.com/marc-pelland) | Marc Pelland | Hamilton, ON | 10,750 |
@@ -40,7 +40,7 @@ Indexed users: 898
 | 1 | [brandonpayton](https://github.com/brandonpayton) | Brandon Payton | Hamilton, Indiana | 7,235 |
 | 2 | [rdaum](https://github.com/rdaum) | Ryan Daum | Hamilton, Ontario | 5,112 |
 | 3 | [wittjosiah](https://github.com/wittjosiah) | Josiah Witt | Hamilton, ON | 2,672 |
-| 4 | [bbolker](https://github.com/bbolker) | Ben Bolker | Hamilton, Ontario | 2,049 |
+| 4 | [bbolker](https://github.com/bbolker) | Ben Bolker | Hamilton, Ontario | 2,034 |
 | 5 | [wesbos](https://github.com/wesbos) | Wes Bos | Hamilton, Ontario | 1,477 |
 | 6 | [Justype](https://github.com/Justype) | Cheng | Hamilton | 1,414 |
 | 7 | [kevinAlbs](https://github.com/kevinAlbs) | Kevin Albertson | Hamilton, NJ | 1,400 |
@@ -53,7 +53,7 @@ Indexed users: 898
 | 14 | [clintandrewhall](https://github.com/clintandrewhall) | Clint Andrew Hall | Hamilton, ON | 806 |
 | 15 | [DesktopECHO](https://github.com/DesktopECHO) |  | Hamilton, Bermuda | 794 |
 | 16 | [AymenS02](https://github.com/AymenS02) | Aymen Shoteri | Hamilton, Ontario | 592 |
-| 17 | [bjornbasar](https://github.com/bjornbasar) | Bjorn Christian Basar | Hamilton | 562 |
+| 17 | [bjornbasar](https://github.com/bjornbasar) | Bjorn Christian Basar | Hamilton | 566 |
 | 18 | [miamioh-roseaw](https://github.com/miamioh-roseaw) | Anthony W Rose | Oxford, OH, Hamilton, OH | 522 |
 | 19 | [robkumarrr](https://github.com/robkumarrr) | Rob Kumar | Hamilton, ON | 492 |
 | 20 | [vjhawar12](https://github.com/vjhawar12) | Vedant Jhawar | Hamilton, ON | 468 |
@@ -83,4 +83,4 @@ Indexed users: 898
 | 19 | [feilongcheng](https://github.com/feilongcheng) | Felix | Hamilton, NZ | 85 |
 | 20 | [wittjosiah](https://github.com/wittjosiah) | Josiah Witt | Hamilton, ON | 67 |
 
-Generated: 2026-10-22T03:08:29.630Z
+Generated: 2026-10-22T06:38:47.199Z

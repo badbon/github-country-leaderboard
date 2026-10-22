@@ -1,6 +1,6 @@
 # Public Contributions - Belarus
 
-Generated: 2026-10-22T03:06:18.546Z
+Generated: 2026-10-22T06:36:37.086Z
 
 Users: 10925
 
@@ -15,11 +15,11 @@ Users: 10925
 | 7 | [TarhunchiKKK](https://github.com/TarhunchiKKK) | Konstantin Barilo |  |  | Minsk, Belarus | 2208 |
 | 8 | [Mukller](https://github.com/Mukller) | Anton Petnitsky |  |  | Belarus, Minsk | 2150 |
 | 9 | [pese-git](https://github.com/pese-git) | Sergey Penkovsky |  |  | Belarus | 2113 |
-| 10 | [timseriakov](https://github.com/timseriakov) | Tim Seriakov |  | timseriakov | Minsk, Belarus | 2082 |
-| 11 | [Nice3point](https://github.com/Nice3point) | Roman | Kinship |  | Minsk | 2066 |
-| 12 | [naxBody](https://github.com/naxBody) | Артем |  |  | Belarus, Luninets  | 1957 |
-| 13 | [Alexeykoh](https://github.com/Alexeykoh) | Алексей |  |  | Belarus | 1928 |
-| 14 | [MikalaiKryvusha](https://github.com/MikalaiKryvusha) | Mikalai Kryvusha |  |  | Belarus, Minsk | 1922 |
+| 10 | [Nice3point](https://github.com/Nice3point) | Roman | Kinship |  | Minsk | 2066 |
+| 11 | [naxBody](https://github.com/naxBody) | Артем |  |  | Belarus, Luninets  | 1957 |
+| 12 | [Alexeykoh](https://github.com/Alexeykoh) | Алексей |  |  | Belarus | 1928 |
+| 13 | [MikalaiKryvusha](https://github.com/MikalaiKryvusha) | Mikalai Kryvusha |  |  | Belarus, Minsk | 1922 |
+| 14 | [timseriakov](https://github.com/timseriakov) | Tim Seriakov |  | timseriakov | Minsk, Belarus | 1851 |
 | 15 | [e-gleba](https://github.com/e-gleba) | Evgeniy Gleba | Lesta Games |  | Minsk | 1838 |
 | 16 | [HardNorth](https://github.com/HardNorth) | Vadzim Hushchanskou |  |  | Minsk, Belarus | 1826 |
 | 17 | [AndreiDrang](https://github.com/AndreiDrang) | Andrei | Home |  | Minsk | 1681 |

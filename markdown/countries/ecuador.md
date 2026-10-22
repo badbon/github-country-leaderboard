@@ -73,7 +73,7 @@ Indexed users: 4,875
 | 9 | [GabySol](https://github.com/GabySol) | Gabriela Solano | Ecuador | 336 |
 | 10 | [darwin-morocho](https://github.com/darwin-morocho) | Darwin Morocho | Ecuador | 310 |
 | 11 | [DevCoreXOfficial](https://github.com/DevCoreXOfficial) | DevCoreX | Ecuador | 277 |
-| 12 | [cromewar](https://github.com/cromewar) | Vasiliy Kirochka | Ecuador | 243 |
+| 12 | [cromewar](https://github.com/cromewar) | Vasiliy Kirochka | Ecuador | 247 |
 | 13 | [CondorCoders](https://github.com/CondorCoders) | Condor Coders | Ecuador | 224 |
 | 14 | [juandtap](https://github.com/juandtap) | Diego Tapia | Ecuador | 152 |
 | 15 | [duzhi5368](https://github.com/duzhi5368) | Frankie | Ecuador | 142 |
@@ -83,4 +83,4 @@ Indexed users: 4,875
 | 19 | [Bryan-Herrera-DEV](https://github.com/Bryan-Herrera-DEV) | Bryan Herrera ~ ርᚱ1ናተᛰ ᚻህᚥተპᚱ | Ecuador | 116 |
 | 20 | [Davichobits](https://github.com/Davichobits) | David Ruiz | Ecuador | 116 |
 
-Generated: 2026-10-22T03:25:00.063Z
+Generated: 2026-10-22T06:52:58.443Z

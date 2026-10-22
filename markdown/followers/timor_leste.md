@@ -1,6 +1,6 @@
 # Followers - Timor-Leste
 
-Generated: 2026-10-22T02:49:33.694Z
+Generated: 2026-10-22T06:18:14.318Z
 
 Users: 77
 
@@ -13,8 +13,8 @@ Users: 77
 | 5 | [RunPiBoss](https://github.com/RunPiBoss) | RunPi老板🤴📈🚀🌕 | 就差一个程序员了 |  | Dili, Timor-Leste | 15 |
 | 6 | [sergiojosevalente](https://github.com/sergiojosevalente) | Sergio Jose Valente Da Cruz | IT & Application Officer Telkomcel | sergiojose031 | Timor-Leste | 15 |
 | 7 | [ajitonelsonn](https://github.com/ajitonelsonn) | Ajito Nelson | Viettel Timor |  | Timor Leste | 14 |
-| 8 | [zemalay](https://github.com/zemalay) | Geovannio Frederico de Jesus Vinhas | TIC TIMOR |  | Dili, Timor-Leste | 13 |
-| 9 | [abindacarmo](https://github.com/abindacarmo) | Brigida de Carvalho Carmo | UNTL |  | Timor-Leste | 12 |
+| 8 | [abindacarmo](https://github.com/abindacarmo) | Brigida de Carvalho Carmo | UNTL |  | Timor-Leste | 13 |
+| 9 | [zemalay](https://github.com/zemalay) | Geovannio Frederico de Jesus Vinhas | TIC TIMOR |  | Dili, Timor-Leste | 13 |
 | 10 | [watakalea](https://github.com/watakalea) | Wateba Watakalea |  |  | Timor Leste  | 11 |
 | 11 | [amandio-eto](https://github.com/amandio-eto) | Jose Amandio de Almeida | Esperanca Timor Oan |  | Rua china Rate Lahane Oreintal Dili Timor Leste | 9 |
 | 12 | [pvosco](https://github.com/pvosco) |  | @InfoUNTL |  | Dili, Timor Leste | 8 |
