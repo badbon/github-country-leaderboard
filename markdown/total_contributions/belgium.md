@@ -1,6 +1,6 @@
 # Total Contributions - Belgium
 
-Generated: 2026-10-22T13:58:54.094Z
+Generated: 2026-10-22T15:26:47.695Z
 
 Users: 18372
 
@@ -16,13 +16,13 @@ Users: 18372
 | 8 | [tetiana-ai](https://github.com/tetiana-ai) | Tetiana Stepanets | @lilidi-ai | tetiana_ai | Brussels  | 19428 |
 | 9 | [sujithq](https://github.com/sujithq) | Sujith Quintelier | @microsoft | SujithQ | Belgium | 19233 |
 | 10 | [KenziDeSmet](https://github.com/KenziDeSmet) | Kenzi De Smet |  |  | Waregem, Belgium | 17980 |
-| 11 | [bmichotte](https://github.com/bmichotte) | Benjamin Michotte | @opp-studio  | bmichotte | Liège, Belgium | 17056 |
-| 12 | [rgfaber](https://github.com/rgfaber) | R.G. Lefever | BEAM Campus | beamologist | Leuven, Belgium | 15383 |
-| 13 | [brtdv](https://github.com/brtdv) | Bert Devriese |  |  | Ghent x Bruges, Belgium | 15360 |
-| 14 | [wouterds](https://github.com/wouterds) | Wouter | @tallyforms  |  | Ghent, Belgium | 14883 |
-| 15 | [artem-invoid](https://github.com/artem-invoid) | Artem | @Invoid-Vision  | nonvoider | Belgium | 14595 |
-| 16 | [sigmadeltasoftware](https://github.com/sigmadeltasoftware) | Bojan Belic | Sigma Delta Software Solutions |  | Belgium | 14464 |
-| 17 | [semaidi](https://github.com/semaidi) | Didier | MFM Digital |  | Brussels | 14348 |
-| 18 | [jleclanche](https://github.com/jleclanche) | Jerome Leclanche | @ingram-technologies |  | Brussels, Belgium | 13265 |
-| 19 | [akif-dogan](https://github.com/akif-dogan) | Akif Dogan | Mars AI Technology Solutions | akif_doganx | Belgium | 12961 |
-| 20 | [kwevers](https://github.com/kwevers) | Kristof Wevers | Infura |  | Belgium | 12662 |
+| 11 | [Iemand005](https://github.com/Iemand005) | Lasse Lauwerys | UCLL | LauwerysLasse | Belgium | 17488 |
+| 12 | [bmichotte](https://github.com/bmichotte) | Benjamin Michotte | @opp-studio  | bmichotte | Liège, Belgium | 17056 |
+| 13 | [rgfaber](https://github.com/rgfaber) | R.G. Lefever | BEAM Campus | beamologist | Leuven, Belgium | 15383 |
+| 14 | [brtdv](https://github.com/brtdv) | Bert Devriese |  |  | Ghent x Bruges, Belgium | 15360 |
+| 15 | [wouterds](https://github.com/wouterds) | Wouter | @tallyforms  |  | Ghent, Belgium | 14883 |
+| 16 | [artem-invoid](https://github.com/artem-invoid) | Artem | @Invoid-Vision  | nonvoider | Belgium | 14595 |
+| 17 | [sigmadeltasoftware](https://github.com/sigmadeltasoftware) | Bojan Belic | Sigma Delta Software Solutions |  | Belgium | 14464 |
+| 18 | [semaidi](https://github.com/semaidi) | Didier | MFM Digital |  | Brussels | 14348 |
+| 19 | [jleclanche](https://github.com/jleclanche) | Jerome Leclanche | @ingram-technologies |  | Brussels, Belgium | 13265 |
+| 20 | [akif-dogan](https://github.com/akif-dogan) | Akif Dogan | Mars AI Technology Solutions | akif_doganx | Belgium | 12961 |

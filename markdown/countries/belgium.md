@@ -22,16 +22,16 @@ Indexed users: 18,372
 | 8 | [tetiana-ai](https://github.com/tetiana-ai) | Tetiana Stepanets | Brussels  | 19,428 |
 | 9 | [sujithq](https://github.com/sujithq) | Sujith Quintelier | Belgium | 19,233 |
 | 10 | [KenziDeSmet](https://github.com/KenziDeSmet) | Kenzi De Smet | Waregem, Belgium | 17,980 |
-| 11 | [bmichotte](https://github.com/bmichotte) | Benjamin Michotte | Liège, Belgium | 17,056 |
-| 12 | [rgfaber](https://github.com/rgfaber) | R.G. Lefever | Leuven, Belgium | 15,383 |
-| 13 | [brtdv](https://github.com/brtdv) | Bert Devriese | Ghent x Bruges, Belgium | 15,360 |
-| 14 | [wouterds](https://github.com/wouterds) | Wouter | Ghent, Belgium | 14,883 |
-| 15 | [artem-invoid](https://github.com/artem-invoid) | Artem | Belgium | 14,595 |
-| 16 | [sigmadeltasoftware](https://github.com/sigmadeltasoftware) | Bojan Belic | Belgium | 14,464 |
-| 17 | [semaidi](https://github.com/semaidi) | Didier | Brussels | 14,348 |
-| 18 | [jleclanche](https://github.com/jleclanche) | Jerome Leclanche | Brussels, Belgium | 13,265 |
-| 19 | [akif-dogan](https://github.com/akif-dogan) | Akif Dogan | Belgium | 12,961 |
-| 20 | [kwevers](https://github.com/kwevers) | Kristof Wevers | Belgium | 12,662 |
+| 11 | [Iemand005](https://github.com/Iemand005) | Lasse Lauwerys | Belgium | 17,488 |
+| 12 | [bmichotte](https://github.com/bmichotte) | Benjamin Michotte | Liège, Belgium | 17,056 |
+| 13 | [rgfaber](https://github.com/rgfaber) | R.G. Lefever | Leuven, Belgium | 15,383 |
+| 14 | [brtdv](https://github.com/brtdv) | Bert Devriese | Ghent x Bruges, Belgium | 15,360 |
+| 15 | [wouterds](https://github.com/wouterds) | Wouter | Ghent, Belgium | 14,883 |
+| 16 | [artem-invoid](https://github.com/artem-invoid) | Artem | Belgium | 14,595 |
+| 17 | [sigmadeltasoftware](https://github.com/sigmadeltasoftware) | Bojan Belic | Belgium | 14,464 |
+| 18 | [semaidi](https://github.com/semaidi) | Didier | Brussels | 14,348 |
+| 19 | [jleclanche](https://github.com/jleclanche) | Jerome Leclanche | Brussels, Belgium | 13,265 |
+| 20 | [akif-dogan](https://github.com/akif-dogan) | Akif Dogan | Belgium | 12,961 |
 
 ## Public Contributions
 
@@ -39,12 +39,12 @@ Indexed users: 18,372
 |---:|---|---|---|---:|
 | 1 | [HyawiiGithub](https://github.com/HyawiiGithub) | Hyawii Hyawii | Belgium | 43,084 |
 | 2 | [sujithq](https://github.com/sujithq) | Sujith Quintelier | Belgium | 19,137 |
-| 3 | [phmatray](https://github.com/phmatray) | Philippe Matray | Belgium | 12,873 |
-| 4 | [gjbex](https://github.com/gjbex) | Geert Jan Bex | Hasselt, Belgium | 12,226 |
-| 5 | [pheyvaer](https://github.com/pheyvaer) | Pieter Heyvaert | Belgium | 11,900 |
-| 6 | [NielsRogge](https://github.com/NielsRogge) |  | Belgium | 10,541 |
-| 7 | [rgfaber](https://github.com/rgfaber) | R.G. Lefever | Leuven, Belgium | 10,361 |
-| 8 | [Iemand005](https://github.com/Iemand005) | Lasse Lauwerys | Belgium | 9,757 |
+| 3 | [Iemand005](https://github.com/Iemand005) | Lasse Lauwerys | Belgium | 14,625 |
+| 4 | [phmatray](https://github.com/phmatray) | Philippe Matray | Belgium | 12,873 |
+| 5 | [gjbex](https://github.com/gjbex) | Geert Jan Bex | Hasselt, Belgium | 12,226 |
+| 6 | [pheyvaer](https://github.com/pheyvaer) | Pieter Heyvaert | Belgium | 11,900 |
+| 7 | [NielsRogge](https://github.com/NielsRogge) |  | Belgium | 10,541 |
+| 8 | [rgfaber](https://github.com/rgfaber) | R.G. Lefever | Leuven, Belgium | 10,361 |
 | 9 | [renaudallard](https://github.com/renaudallard) | Renaud Allard | Belgium | 9,586 |
 | 10 | [matttbe](https://github.com/matttbe) | Matthieu Baerts | Belgium | 9,298 |
 | 11 | [jfmeyers](https://github.com/jfmeyers) | JF | Belgium | 8,792 |
@@ -83,4 +83,4 @@ Indexed users: 18,372
 | 19 | [erikdubois](https://github.com/erikdubois) | Erik Dubois | Belgium | 1,200 |
 | 20 | [hazexone](https://github.com/hazexone) | Haze | Brussels | 1,181 |
 
-Generated: 2026-10-22T13:58:54.094Z
+Generated: 2026-10-22T15:26:47.695Z

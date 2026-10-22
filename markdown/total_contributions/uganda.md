@@ -1,21 +1,21 @@
 # Total Contributions - Uganda
 
-Generated: 2026-10-22T13:44:07.320Z
+Generated: 2026-10-22T15:17:45.064Z
 
 Users: 3864
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [obalaweb](https://github.com/obalaweb) | Obala Joseph Ivan | @codprez | obalaJivan | Gulu, Uganda | 15342 |
-| 2 | [rmkasendwa](https://github.com/rmkasendwa) | Ronald M. Kasendwa | @Infinite-Debugger | rmkasendwa | Kampala, Uganda | 14885 |
-| 3 | [alsong](https://github.com/alsong) | Oburusule Dunstan |  |  | Kampala, Uganda | 14168 |
-| 4 | [BAGOMBEKA-JOB-DEV](https://github.com/BAGOMBEKA-JOB-DEV) | BAGOMBEKA JOB | @SMSONE  |  | KAMPALA, UGANDA | 11947 |
-| 5 | [pius22](https://github.com/pius22) | TECH-WORLDINFO | TECH-WORLDINFO |  | uganda | 11416 |
-| 6 | [peterbamuhigire](https://github.com/peterbamuhigire) | Peter Bamuhigire | Peter Bamuhigire | peterbamu | Kampala, Uganda | 10913 |
-| 7 | [kallyas](https://github.com/kallyas) | Iden | @SolitonTelmecUganda  | kallyasl | Uganda | 10474 |
-| 8 | [PerezChris99](https://github.com/PerezChris99) | Perez Chris | </KC>Saas | perezdotpy | Kampala, Uganda | 10239 |
-| 9 | [baliksjosay](https://github.com/baliksjosay) | Joseph Balikuddembe | GDExperts LTD | BaliksJoseph | Kampala, uganda | 10149 |
-| 10 | [ziyalogy](https://github.com/ziyalogy) | Ziyal Amanya | Buildal | ziyalogy | Uganda | 9934 |
+| 1 | [peterbamuhigire](https://github.com/peterbamuhigire) | Peter Bamuhigire | Peter Bamuhigire | peterbamu | Kampala, Uganda | 18438 |
+| 2 | [obalaweb](https://github.com/obalaweb) | Obala Joseph Ivan | @codprez | obalaJivan | Gulu, Uganda | 15342 |
+| 3 | [rmkasendwa](https://github.com/rmkasendwa) | Ronald M. Kasendwa | @Infinite-Debugger | rmkasendwa | Kampala, Uganda | 14885 |
+| 4 | [alsong](https://github.com/alsong) | Oburusule Dunstan |  |  | Kampala, Uganda | 14168 |
+| 5 | [BAGOMBEKA-JOB-DEV](https://github.com/BAGOMBEKA-JOB-DEV) | BAGOMBEKA JOB | @SMSONE  |  | KAMPALA, UGANDA | 11947 |
+| 6 | [pius22](https://github.com/pius22) | TECH-WORLDINFO | TECH-WORLDINFO |  | uganda | 11416 |
+| 7 | [ziyalogy](https://github.com/ziyalogy) | Ziyal Amanya | Buildal | ziyalogy | Uganda | 10994 |
+| 8 | [kallyas](https://github.com/kallyas) | Iden | @SolitonTelmecUganda  | kallyasl | Uganda | 10474 |
+| 9 | [PerezChris99](https://github.com/PerezChris99) | Perez Chris | </KC>Saas | perezdotpy | Kampala, Uganda | 10239 |
+| 10 | [baliksjosay](https://github.com/baliksjosay) | Joseph Balikuddembe | GDExperts LTD | BaliksJoseph | Kampala, uganda | 10149 |
 | 11 | [MUKE-coder](https://github.com/MUKE-coder) | MUKE JOHNBAPTIST | Deisishub Technologies | MJohnbaptist | KAMPALA -UGANDA | 9513 |
 | 12 | [GenoJ83](https://github.com/GenoJ83) | Geno Joshua |  |  | Kampala | 9133 |
 | 13 | [engWafula](https://github.com/engWafula) | Wafula Allan  Isaac | Freelancer | WafulaAllanIsa1 | kampala | 9056 |

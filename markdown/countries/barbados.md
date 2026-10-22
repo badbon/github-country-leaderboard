@@ -14,8 +14,8 @@ Indexed users: 132
 |---:|---|---|---|---:|
 | 1 | [hammertoe](https://github.com/hammertoe) | Matt Hamilton | Barbados | 5,646 |
 | 2 | [jasonals](https://github.com/jasonals) | Jason Als | Barbados | 5,461 |
-| 3 | [bajedev](https://github.com/bajedev) | Theo Taylor | Barbados | 4,221 |
-| 4 | [d-alleyne](https://github.com/d-alleyne) | Damien Alleyne | Barbados | 3,305 |
+| 3 | [bajedev](https://github.com/bajedev) | Theo Taylor | Barbados | 4,215 |
+| 4 | [d-alleyne](https://github.com/d-alleyne) | Damien Alleyne | Barbados | 3,330 |
 | 5 | [paulmiu](https://github.com/paulmiu) | Paul Miu | Barbados | 3,078 |
 | 6 | [shaquillehinds](https://github.com/shaquillehinds) | Shaquille Hinds | Barbados | 2,845 |
 | 7 | [alexlilburn](https://github.com/alexlilburn) | Alex Lilburn | Barbados | 2,178 |
@@ -62,7 +62,7 @@ Indexed users: 132
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [daley-mottley](https://github.com/daley-mottley) | Daley Mottley | Barbados | 547 |
+| 1 | [daley-mottley](https://github.com/daley-mottley) | Daley Mottley | Barbados | 548 |
 | 2 | [kaku2015](https://github.com/kaku2015) | FishingNet | Barbados | 427 |
 | 3 | [iRoachie](https://github.com/iRoachie) | Kyle Roach | Barbados | 299 |
 | 4 | [lukehefson](https://github.com/lukehefson) | Luke Hefson | Barbados | 275 |
@@ -83,4 +83,4 @@ Indexed users: 132
 | 19 | [sramharack](https://github.com/sramharack) | Shankar Ramharack | St. Phillips, Barbados, W.I. | 12 |
 | 20 | [paulamelrz](https://github.com/paulamelrz) | Paula Melero | Barbados | 11 |
 
-Generated: 2026-10-22T13:57:26.635Z
+Generated: 2026-10-22T15:26:10.546Z

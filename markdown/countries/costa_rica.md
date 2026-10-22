@@ -31,7 +31,7 @@ Indexed users: 5,624
 | 17 | [Eduardof0nt](https://github.com/Eduardof0nt) | Eduardo Font Cruz | Costa Rica | 6,187 |
 | 18 | [KentoNishi](https://github.com/KentoNishi) | Kento Nishi | Cambridge, MA / San Jose, CA | 6,091 |
 | 19 | [elianortega](https://github.com/elianortega) | Elian Ortega | San Jose, Costa Rica | 6,029 |
-| 20 | [nestormata](https://github.com/nestormata) | Nestor Mata Cuthbert | Costa Rica | 5,743 |
+| 20 | [Fuabioo](https://github.com/Fuabioo) | Fabio Mora | Costa Rica 🇨🇷 | 5,844 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 5,624
 | 19 | [stvansolano](https://github.com/stvansolano) | Esteban Solano Granados | Costa Rica | 189 |
 | 20 | [Jeffser](https://github.com/Jeffser) | Jeffry Samuel | Costa Rica | 174 |
 
-Generated: 2026-10-22T14:08:34.701Z
+Generated: 2026-10-22T15:32:44.437Z

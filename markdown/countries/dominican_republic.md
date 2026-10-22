@@ -46,15 +46,15 @@ Indexed users: 3,297
 | 7 | [xNeuNoRo](https://github.com/xNeuNoRo) | Ángel González Muñoz | Dominican Republic | 2,552 |
 | 8 | [eburgos](https://github.com/eburgos) | Eduardo Burgos | Santo Domingo, DN, Dominican Republic | 2,275 |
 | 9 | [adelrodriguez](https://github.com/adelrodriguez) | Adel Rodríguez | Dominican Republic | 2,125 |
-| 10 | [omarsuniaga](https://github.com/omarsuniaga) | Omar Suniaga | Dominican Republic | 2,041 |
-| 11 | [FredPeal](https://github.com/FredPeal) | Frederick Peñalo | Dominican Republic | 1,974 |
-| 12 | [Gperez88](https://github.com/Gperez88) | Gabriel Perez | Dominican Republic | 1,961 |
-| 13 | [jesusantguerrero](https://github.com/jesusantguerrero) | Jesus Guerrero Álvarez  | Santo Domingo, Dominican Republic | 1,908 |
-| 14 | [henfrydls](https://github.com/henfrydls) | Henfry De Los Santos | Santo Domingo, República Dominicana | 1,900 |
-| 15 | [lrojas94](https://github.com/lrojas94) | Luis E. Rojas Cabrera | Santiago, Dominican Republic | 1,889 |
-| 16 | [dbremont](https://github.com/dbremont) | Daniel  de Victoriano y Bremont | America, Dominican Republic | 1,827 |
-| 17 | [bryanstevensacosta](https://github.com/bryanstevensacosta) | Bryan Acosta | Dominican Republic | 1,758 |
-| 18 | [XavielT](https://github.com/XavielT) | Xaviel Terrero | Dominican Republic | 1,718 |
+| 10 | [XavielT](https://github.com/XavielT) | Xaviel Terrero | Dominican Republic | 2,117 |
+| 11 | [omarsuniaga](https://github.com/omarsuniaga) | Omar Suniaga | Dominican Republic | 2,041 |
+| 12 | [FredPeal](https://github.com/FredPeal) | Frederick Peñalo | Dominican Republic | 1,974 |
+| 13 | [Gperez88](https://github.com/Gperez88) | Gabriel Perez | Dominican Republic | 1,961 |
+| 14 | [jesusantguerrero](https://github.com/jesusantguerrero) | Jesus Guerrero Álvarez  | Santo Domingo, Dominican Republic | 1,908 |
+| 15 | [henfrydls](https://github.com/henfrydls) | Henfry De Los Santos | Santo Domingo, República Dominicana | 1,900 |
+| 16 | [lrojas94](https://github.com/lrojas94) | Luis E. Rojas Cabrera | Santiago, Dominican Republic | 1,889 |
+| 17 | [dbremont](https://github.com/dbremont) | Daniel  de Victoriano y Bremont | America, Dominican Republic | 1,827 |
+| 18 | [bryanstevensacosta](https://github.com/bryanstevensacosta) | Bryan Acosta | Dominican Republic | 1,758 |
 | 19 | [franklinmdev](https://github.com/franklinmdev) | Franklin Martinez | Dominican Republic | 1,622 |
 | 20 | [oliverdiaz873](https://github.com/oliverdiaz873) | Oliver Antonio Diaz | Santo Domingo | 1,567 |
 
@@ -83,4 +83,4 @@ Indexed users: 3,297
 | 19 | [eatskolnikov](https://github.com/eatskolnikov) | Enmanuel Toribio | Dominican Republic | 147 |
 | 20 | [RaymondCoplin](https://github.com/RaymondCoplin) | Raymond Coplin | Dominican Republic, Santo Domingo | 120 |
 
-Generated: 2026-10-22T14:13:08.651Z
+Generated: 2026-10-22T15:35:23.040Z

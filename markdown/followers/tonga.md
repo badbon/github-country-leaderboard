@@ -1,6 +1,6 @@
 # Followers - Tonga
 
-Generated: 2026-10-22T13:42:43.032Z
+Generated: 2026-10-22T15:16:07.615Z
 
 Users: 10
 
@@ -10,7 +10,7 @@ Users: 10
 | 2 | [JonLiki](https://github.com/JonLiki) | Sione Folaumoetu'i Likiliki |  |  | Tonga | 13 |
 | 3 | [staumoepeau](https://github.com/staumoepeau) | Sione Taumoepeau |  |  | Tonga | 7 |
 | 4 | [taufa](https://github.com/taufa) | Semisi |  |  | Tongatapu, Tonga | 6 |
-| 5 | [tadongyro](https://github.com/tadongyro) | Melissa Gordon |  |  | Rachelmouth, Tonga | 5 |
+| 5 | [tadongyro](https://github.com/tadongyro) | Melissa Gordon |  |  | Rachelmouth, Tonga | 4 |
 | 6 | [styxl](https://github.com/styxl) | Joe M |  |  | Tonga | 2 |
 | 7 | [abyss-furina](https://github.com/abyss-furina) |  | @crimsonhaven-to |  | Tonga | 1 |
 | 8 | [james151br](https://github.com/james151br) | James |  |  | Tonga | 1 |

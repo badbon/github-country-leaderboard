@@ -1,6 +1,6 @@
 # Armenia
 
-Indexed users: 4,027
+Indexed users: 4,026
 
 | Leaderboard | Link |
 |---|---|
@@ -13,18 +13,18 @@ Indexed users: 4,027
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [Erik-Egnatosyan](https://github.com/Erik-Egnatosyan) | Erik Egnatosyan | Armenia | 113,819 |
-| 2 | [diazoxide](https://github.com/diazoxide) | Aaron Yordanyan | Armenia | 13,936 |
-| 3 | [logictonic](https://github.com/logictonic) | Eugene | Armenia | 13,603 |
-| 4 | [meanmail](https://github.com/meanmail) | Alexander Petrov | Armenia, Yerevan | 13,149 |
-| 5 | [lanycrost](https://github.com/lanycrost) | Khachatur Ashotyan | Yerevan | 13,027 |
-| 6 | [ilyalosinski](https://github.com/ilyalosinski) | Ilya Losinski | Yerevan, Armenia | 12,592 |
-| 7 | [prazian](https://github.com/prazian) | Pooyan Razian | Yerevan, Armenia | 11,578 |
-| 8 | [igoralentyev](https://github.com/igoralentyev) | Igor Alentyev | Armenia | 11,483 |
-| 9 | [RALIST](https://github.com/RALIST) | Alexander Danilov  | Yerevan | 11,414 |
-| 10 | [wKich](https://github.com/wKich) | Dmitriy Lazarev | Armenia | 11,306 |
-| 11 | [lobotomoe](https://github.com/lobotomoe) | Alex Kraiz | Yerevan | 10,887 |
-| 12 | [haykkarapetyan](https://github.com/haykkarapetyan) | Hayk Karapetyan | Armenia Yerevan | 9,270 |
-| 13 | [n0uk](https://github.com/n0uk) | Maksim Ustichenko | RA, Yerevan | 9,051 |
+| 2 | [n0uk](https://github.com/n0uk) | Maksim Ustichenko | RA, Yerevan | 18,705 |
+| 3 | [diazoxide](https://github.com/diazoxide) | Aaron Yordanyan | Armenia | 13,936 |
+| 4 | [logictonic](https://github.com/logictonic) | Eugene | Armenia | 13,603 |
+| 5 | [meanmail](https://github.com/meanmail) | Alexander Petrov | Armenia, Yerevan | 13,149 |
+| 6 | [lanycrost](https://github.com/lanycrost) | Khachatur Ashotyan | Yerevan | 13,027 |
+| 7 | [ilyalosinski](https://github.com/ilyalosinski) | Ilya Losinski | Yerevan, Armenia | 12,592 |
+| 8 | [prazian](https://github.com/prazian) | Pooyan Razian | Yerevan, Armenia | 11,578 |
+| 9 | [igoralentyev](https://github.com/igoralentyev) | Igor Alentyev | Armenia | 11,483 |
+| 10 | [RALIST](https://github.com/RALIST) | Alexander Danilov  | Yerevan | 11,414 |
+| 11 | [wKich](https://github.com/wKich) | Dmitriy Lazarev | Armenia | 11,306 |
+| 12 | [lobotomoe](https://github.com/lobotomoe) | Alex Kraiz | Yerevan | 10,887 |
+| 13 | [haykkarapetyan](https://github.com/haykkarapetyan) | Hayk Karapetyan | Armenia Yerevan | 9,270 |
 | 14 | [urumo](https://github.com/urumo) |  | Armenia, Yerevan | 8,750 |
 | 15 | [m0n0x41d](https://github.com/m0n0x41d) | ivan zakutni | Armenia | 8,606 |
 | 16 | [vadim-su](https://github.com/vadim-su) | Vadim Suharnikov | Armenia Yerevan | 8,162 |
@@ -83,4 +83,4 @@ Indexed users: 4,027
 | 19 | [nightwing](https://github.com/nightwing) | Harutyun Amirjanyan | Yerevan, Armenia | 236 |
 | 20 | [norayr](https://github.com/norayr) | Norayr Chilingarian | Yerevan, Armenia | 233 |
 
-Generated: 2026-10-22T13:54:23.405Z
+Generated: 2026-10-22T15:24:05.582Z

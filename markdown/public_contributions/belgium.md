@@ -1,6 +1,6 @@
 # Public Contributions - Belgium
 
-Generated: 2026-10-22T13:58:54.094Z
+Generated: 2026-10-22T15:26:47.695Z
 
 Users: 18372
 
@@ -8,12 +8,12 @@ Users: 18372
 |---:|---|---|---|---|---|---:|
 | 1 | [HyawiiGithub](https://github.com/HyawiiGithub) | Hyawii Hyawii | Classified |  | Belgium | 43084 |
 | 2 | [sujithq](https://github.com/sujithq) | Sujith Quintelier | @microsoft | SujithQ | Belgium | 19137 |
-| 3 | [phmatray](https://github.com/phmatray) | Philippe Matray | @Atypical-Consulting  |  | Belgium | 12873 |
-| 4 | [gjbex](https://github.com/gjbex) | Geert Jan Bex | Hasselt University | GeertBex | Hasselt, Belgium | 12226 |
-| 5 | [pheyvaer](https://github.com/pheyvaer) | Pieter Heyvaert | Ghent University - IDLab, imec | HeyPieter | Belgium | 11900 |
-| 6 | [NielsRogge](https://github.com/NielsRogge) |  | HuggingFace | NielsRogge | Belgium | 10541 |
-| 7 | [rgfaber](https://github.com/rgfaber) | R.G. Lefever | BEAM Campus | beamologist | Leuven, Belgium | 10361 |
-| 8 | [Iemand005](https://github.com/Iemand005) | Lasse Lauwerys | UCLL | LauwerysLasse | Belgium | 9757 |
+| 3 | [Iemand005](https://github.com/Iemand005) | Lasse Lauwerys | UCLL | LauwerysLasse | Belgium | 14625 |
+| 4 | [phmatray](https://github.com/phmatray) | Philippe Matray | @Atypical-Consulting  |  | Belgium | 12873 |
+| 5 | [gjbex](https://github.com/gjbex) | Geert Jan Bex | Hasselt University | GeertBex | Hasselt, Belgium | 12226 |
+| 6 | [pheyvaer](https://github.com/pheyvaer) | Pieter Heyvaert | Ghent University - IDLab, imec | HeyPieter | Belgium | 11900 |
+| 7 | [NielsRogge](https://github.com/NielsRogge) |  | HuggingFace | NielsRogge | Belgium | 10541 |
+| 8 | [rgfaber](https://github.com/rgfaber) | R.G. Lefever | BEAM Campus | beamologist | Leuven, Belgium | 10361 |
 | 9 | [renaudallard](https://github.com/renaudallard) | Renaud Allard |  |  | Belgium | 9586 |
 | 10 | [matttbe](https://github.com/matttbe) | Matthieu Baerts | None |  | Belgium | 9298 |
 | 11 | [jfmeyers](https://github.com/jfmeyers) | JF | Digital Dynamics |  | Belgium | 8792 |

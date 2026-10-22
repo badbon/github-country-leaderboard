@@ -1,8 +1,8 @@
 # Total Contributions - United Arab Emirates
 
-Generated: 2026-10-22T13:44:52.389Z
+Generated: 2026-10-22T15:26:36.320Z
 
-Users: 4209
+Users: 4208
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -16,13 +16,13 @@ Users: 4209
 | 8 | [rohingosling](https://github.com/rohingosling) | Rohin Gosling |  | rohingosling | United Arab Emirates | 14288 |
 | 9 | [ahmadpx](https://github.com/ahmadpx) | Ahmed Abdallah | Seera \| Tajawal \| Almosafer |  | United Arab Emirates | 13880 |
 | 10 | [dev-juju](https://github.com/dev-juju) | Bomdi | Bomdisoft | bomdisoft | Dubai, United Arab Emirates | 13443 |
-| 11 | [Desouki27](https://github.com/Desouki27) | Mohamed Desouki | Deloitte |  | Dubai, United Arab Emirates | 12906 |
-| 12 | [lionxcr](https://github.com/lionxcr) | Paul Segura | lionX |  | United Arab Emirates | 11581 |
-| 13 | [syymza](https://github.com/syymza) | Dani | @alpheya |  | Abu Dhabi, UAE | 11227 |
-| 14 | [ankitmaheshwari-com](https://github.com/ankitmaheshwari-com) | Ankit Maheshwari |  |  | United Arab Emirates | 11188 |
-| 15 | [AliRaZa1121](https://github.com/AliRaZa1121) | Ali RaZa |  |  | Dubai, United Arab Emirates | 10914 |
-| 16 | [Massad](https://github.com/Massad) | Omar Masad | @testappio |  | United Arab Emirates, Dubai | 10605 |
-| 17 | [sdn0303](https://github.com/sdn0303) | sdn0303 | CODE ABYSS - FZCO | __sdn03 | Silicon Oasis, Dubai, United Arab Emirates | 10595 |
-| 18 | [ilyesm](https://github.com/ilyesm) | Ilyas Esmail | @vigilbase | ilyesm | Dubai, United Arab Emirates | 10574 |
-| 19 | [nikolai-vysotskyi](https://github.com/nikolai-vysotskyi) | Nikolai Vysotskyi | Asset Feed |  | Abu Dhabi, UAE | 10422 |
-| 20 | [moeidsaleem](https://github.com/moeidsaleem) | Moeid Saleem khan | Atrix.dev© / Hoppers Network \|  | moeidsaleem | Dubai, United Arab Emirates | 10295 |
+| 11 | [codemug](https://github.com/codemug) | Usman Shahid | Careem |  | Dubai, United Arab Emirates | 13304 |
+| 12 | [Desouki27](https://github.com/Desouki27) | Mohamed Desouki | Deloitte |  | Dubai, United Arab Emirates | 12906 |
+| 13 | [lionxcr](https://github.com/lionxcr) | Paul Segura | lionX |  | United Arab Emirates | 11581 |
+| 14 | [syymza](https://github.com/syymza) | Dani | @alpheya |  | Abu Dhabi, UAE | 11227 |
+| 15 | [ankitmaheshwari-com](https://github.com/ankitmaheshwari-com) | Ankit Maheshwari |  |  | United Arab Emirates | 11188 |
+| 16 | [AliRaZa1121](https://github.com/AliRaZa1121) | Ali RaZa |  |  | Dubai, United Arab Emirates | 10914 |
+| 17 | [Massad](https://github.com/Massad) | Omar Masad | @testappio |  | United Arab Emirates, Dubai | 10605 |
+| 18 | [sdn0303](https://github.com/sdn0303) | sdn0303 | CODE ABYSS - FZCO | __sdn03 | Silicon Oasis, Dubai, United Arab Emirates | 10595 |
+| 19 | [ilyesm](https://github.com/ilyesm) | Ilyas Esmail | @vigilbase | ilyesm | Dubai, United Arab Emirates | 10574 |
+| 20 | [nikolai-vysotskyi](https://github.com/nikolai-vysotskyi) | Nikolai Vysotskyi | Asset Feed |  | Abu Dhabi, UAE | 10422 |

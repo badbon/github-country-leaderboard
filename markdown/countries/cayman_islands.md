@@ -25,7 +25,7 @@ Indexed users: 124
 | 11 | [tamebadger](https://github.com/tamebadger) | Rupert Klopper | Grand Cayman, Cayman Islands | 1,955 |
 | 12 | [paulofierro](https://github.com/paulofierro) | Paulo Fierro | Cayman Islands | 1,509 |
 | 13 | [RodneyAlison](https://github.com/RodneyAlison) | Rodney Alison | Cayman Islands | 1,205 |
-| 14 | [BaltasarAroso](https://github.com/BaltasarAroso) | Baltasar Aroso | George Town, Cayman Islands | 1,094 |
+| 14 | [BaltasarAroso](https://github.com/BaltasarAroso) | Baltasar Aroso | George Town, Cayman Islands | 1,092 |
 | 15 | [saviro-orin](https://github.com/saviro-orin) | Orin | Cayman Islands | 1,058 |
 | 16 | [tmancey](https://github.com/tmancey) | Terry Mancey | Cayman Islands | 1,055 |
 | 17 | [Gise345](https://github.com/Gise345) | Giselle Johnson | Cayman Islands | 947 |
@@ -51,10 +51,10 @@ Indexed users: 124
 | 12 | [Adedamola18](https://github.com/Adedamola18) | Damola Olutoke | Cayman Islands | 240 |
 | 13 | [lhermoso](https://github.com/lhermoso) | Leo Hermoso | Cayman Islands | 209 |
 | 14 | [zkhan93](https://github.com/zkhan93) | Zeeshan Khan | Cayman Islands | 177 |
-| 15 | [HamoonSoleimani](https://github.com/HamoonSoleimani) | Hamoon Soleimani | Cayman Islands | 160 |
+| 15 | [HamoonSoleimani](https://github.com/HamoonSoleimani) | Hamoon Soleimani | Cayman Islands | 163 |
 | 16 | [RaisinBread42](https://github.com/RaisinBread42) | Shannon Williams | Cayman Islands | 154 |
-| 17 | [NazgulT](https://github.com/NazgulT) | Nazgul Sagatova | Cayman Islands | 131 |
-| 18 | [paulofierro](https://github.com/paulofierro) | Paulo Fierro | Cayman Islands | 131 |
+| 17 | [paulofierro](https://github.com/paulofierro) | Paulo Fierro | Cayman Islands | 131 |
+| 18 | [NazgulT](https://github.com/NazgulT) | Nazgul Sagatova | Cayman Islands | 129 |
 | 19 | [keVIMena98](https://github.com/keVIMena98) | Kevin Ramirez | Cayman Islands | 53 |
 | 20 | [SuperMohit](https://github.com/SuperMohit) | Mohit Talniya | Cayman Islands | 53 |
 
@@ -83,4 +83,4 @@ Indexed users: 124
 | 19 | [dcimring](https://github.com/dcimring) | Daniel | Cayman Islands | 16 |
 | 20 | [RJDevGroup](https://github.com/RJDevGroup) | RJ Dev Group | George Town | 15 |
 
-Generated: 2026-10-22T14:04:43.876Z
+Generated: 2026-10-22T15:30:54.803Z
