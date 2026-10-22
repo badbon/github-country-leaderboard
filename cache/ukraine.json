@@ -44599,7 +44599,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 10,
+    "privateContributions": 18,
     "publicContributions": 20,
     "createdAt": "2023-10-12T18:33:03Z"
   },
@@ -44610,7 +44610,7 @@
     "location": "Ukraine",
     "company": "XGroup",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-07-02T14:22:33Z"
@@ -44628,18 +44628,6 @@
     "createdAt": "2023-08-08T11:49:00Z"
   },
   {
-    "login": "MACaron99",
-    "name": "Artem Makarenko",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/140831799?s=72&u=396050ebc156f32dcbacba30ea39fa2679b66548&v=4",
-    "location": "Ukraine",
-    "company": "Impulse LLC",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2023-07-28T14:53:14Z"
-  },
-  {
     "login": "YevhenKharchenko",
     "name": "Yevhen Kharchenko",
     "avatarUrl": "https://avatars.githubusercontent.com/u/143255199?s=72&u=3d82c02de610fb81f668beef0e00da90bd97799d&v=4",
@@ -44648,7 +44636,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1451,
+    "publicContributions": 1223,
     "createdAt": "2023-08-26T08:30:02Z"
   },
   {
@@ -44660,19 +44648,19 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 172,
+    "publicContributions": 199,
     "createdAt": "2023-11-28T19:18:05Z"
   },
   {
     "login": "VolodymyrVasyliev",
     "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/147194640?s=72&u=87d521127c5ce255f377f7a58f7aba2f57437297&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/147194640?s=72&u=7157cbbb7d9b95a8947b1cc346303cbb5a92ab09&v=4",
     "location": "Ukraine-Odesa",
     "company": "",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 335,
+    "publicContributions": 180,
     "createdAt": "2023-10-06T18:22:05Z"
   },
   {
@@ -44683,7 +44671,7 @@
     "company": "@letsdeel",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 747,
+    "privateContributions": 830,
     "publicContributions": 0,
     "createdAt": "2023-11-01T08:58:12Z"
   },
@@ -44695,7 +44683,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 50,
+    "privateContributions": 91,
     "publicContributions": 0,
     "createdAt": "2023-10-02T07:20:41Z"
   },
@@ -44766,7 +44754,7 @@
     "location": "Ukraine",
     "company": "MiDasCode",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-11-08T14:47:33Z"
@@ -44780,7 +44768,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 159,
+    "publicContributions": 166,
     "createdAt": "2023-10-21T15:13:37Z"
   },
   {
@@ -44790,9 +44778,9 @@
     "location": "Ukraine",
     "company": "ElektroBOX",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 338,
+    "publicContributions": 351,
     "createdAt": "2023-07-04T21:49:36Z"
   },
   {
@@ -44804,7 +44792,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 25,
     "createdAt": "2023-11-07T15:02:18Z"
   },
   {
@@ -44815,7 +44803,7 @@
     "company": "Netfully",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 6,
+    "privateContributions": 8,
     "publicContributions": 3,
     "createdAt": "2023-10-16T12:06:52Z"
   },
@@ -44827,7 +44815,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 3491,
+    "privateContributions": 3016,
     "publicContributions": 426,
     "createdAt": "2023-07-23T19:16:57Z"
   },

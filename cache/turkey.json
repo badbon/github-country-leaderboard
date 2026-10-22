@@ -44587,8 +44587,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 108,
-    "publicContributions": 8,
+    "privateContributions": 141,
+    "publicContributions": 10,
     "createdAt": "2024-06-10T15:19:00Z"
   },
   {
@@ -44610,7 +44610,7 @@
     "location": "Istanbul, Turkey",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 3,
     "publicContributions": 2,
     "createdAt": "2024-03-28T14:18:20Z"
@@ -44622,9 +44622,9 @@
     "location": "Turkey",
     "company": "Thekocanl Inc.",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 12,
     "createdAt": "2024-05-23T22:37:53Z"
   },
   {
@@ -44648,7 +44648,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2024-02-07T13:11:34Z"
   },
   {
@@ -44658,7 +44658,7 @@
     "location": "Turkey",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-04-14T10:19:28Z"
@@ -44670,9 +44670,9 @@
     "location": "Turkey",
     "company": "oPanel",
     "twitterUsername": "oPanelNet",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 5,
     "createdAt": "2024-05-09T15:30:59Z"
   },
   {
@@ -44694,9 +44694,9 @@
     "location": "Antalya, Turkey",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 187,
+    "followers": 7,
+    "privateContributions": 30,
+    "publicContributions": 189,
     "createdAt": "2024-06-27T13:43:26Z"
   },
   {
@@ -44708,7 +44708,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 17,
-    "publicContributions": 205,
+    "publicContributions": 661,
     "createdAt": "2024-01-21T23:09:54Z"
   },
   {
@@ -44720,7 +44720,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 0,
     "createdAt": "2023-12-30T18:18:06Z"
   },
   {
@@ -44744,7 +44744,7 @@
     "twitterUsername": "bill13fear",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 0,
     "createdAt": "2024-01-17T18:41:19Z"
   },
   {
@@ -44778,22 +44778,10 @@
     "location": "Turkey",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 8,
     "createdAt": "2024-05-17T13:05:00Z"
-  },
-  {
-    "login": "ludwigkoopaa",
-    "name": "Ludwig Koopa",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/169296985?s=72&u=7623e97ab5af7ba2534827933a1e7baf86468909&v=4",
-    "location": "Turkey",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 12,
-    "createdAt": "2024-05-08T18:01:41Z"
   },
   {
     "login": "furkan0412",
@@ -699934,18 +699922,6 @@
     "privateContributions": 275,
     "publicContributions": 207,
     "createdAt": "2017-02-10T16:57:08Z"
-  },
-  {
-    "login": "freebelion",
-    "name": "Hürol Aslan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/25368464?s=72&u=dc7d66ffb89e5359a84166dc575df5b48ab5e273&v=4",
-    "location": "Mezitli, Mersin / Turkey",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 44,
-    "privateContributions": 0,
-    "publicContributions": 73,
-    "createdAt": "2017-01-26T14:57:15Z"
   },
   {
     "login": "ozmenab",

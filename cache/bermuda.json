@@ -1940,7 +1940,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 379,
-    "publicContributions": 24,
+    "publicContributions": 22,
     "createdAt": "2022-11-08T19:57:28Z"
   },
   {
@@ -2026,18 +2026,6 @@
     "privateContributions": 812,
     "publicContributions": 0,
     "createdAt": "2022-08-31T04:18:22Z"
-  },
-  {
-    "login": "devsynapse",
-    "name": "Stanislav",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/104684300?s=72&u=f8fb5dd16ece0b9a111843e996aa9ac457c4f2f0&v=4",
-    "location": "Hamilton, ON",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2022-04-30T13:58:48Z"
   },
   {
     "login": "tonyquarsh",
@@ -2155,8 +2143,8 @@
     "company": "@kanrimemberships @v19-io @GMELab",
     "twitterUsername": "",
     "followers": 31,
-    "privateContributions": 1071,
-    "publicContributions": 97,
+    "privateContributions": 1064,
+    "publicContributions": 98,
     "createdAt": "2021-05-02T23:46:23Z"
   },
   {

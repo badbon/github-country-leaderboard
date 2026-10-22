@@ -45151,8 +45151,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 259,
-    "publicContributions": 36,
+    "privateContributions": 607,
+    "publicContributions": 27,
     "createdAt": "2020-10-06T09:30:48Z"
   },
   {
@@ -45160,10 +45160,10 @@
     "name": "",
     "avatarUrl": "https://avatars.githubusercontent.com/u/60717693?s=72&u=464df5d83137bb4642fc3814cc45701cdf1abe7a&v=4",
     "location": "Copenhagen, Denmark",
-    "company": "Usercentrics",
+    "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 1181,
+    "privateContributions": 1169,
     "publicContributions": 0,
     "createdAt": "2020-02-05T22:19:04Z"
   },
@@ -45176,7 +45176,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 4,
     "createdAt": "2020-09-16T23:14:35Z"
   },
   {
@@ -45187,21 +45187,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 252,
-    "publicContributions": 38,
+    "privateContributions": 267,
+    "publicContributions": 37,
     "createdAt": "2020-11-24T08:29:16Z"
-  },
-  {
-    "login": "Jojaah12",
-    "name": "David Jojah",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/68277458?s=72&u=a5249abe8234d9b60167e52215dcdf354960f4e0&v=4",
-    "location": "Denmark",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2020-07-14T10:20:16Z"
   },
   {
     "login": "masri20",
@@ -45210,7 +45198,7 @@
     "location": "Odense, Denmark",
     "company": "Syddansk Universitet - Center for Large Structure Production (LSP)",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-11-02T10:01:40Z"
@@ -45219,12 +45207,12 @@
     "login": "AGejr",
     "name": "Albert Gejr",
     "avatarUrl": "https://avatars.githubusercontent.com/u/62474848?s=72&u=8c208951dd784888c338cb19165c7d7f4e220bba&v=4",
-    "location": "Denmark",
+    "location": "Copenhagen, Denmark",
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 1761,
-    "publicContributions": 4,
+    "privateContributions": 2310,
+    "publicContributions": 8,
     "createdAt": "2020-03-21T15:15:43Z"
   },
   {
@@ -45234,9 +45222,9 @@
     "location": "Denmark",
     "company": "@DHI",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 423,
-    "publicContributions": 248,
+    "followers": 3,
+    "privateContributions": 869,
+    "publicContributions": 519,
     "createdAt": "2020-11-17T23:15:52Z"
   },
   {
@@ -45248,7 +45236,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 28,
     "createdAt": "2020-09-09T09:52:22Z"
   },
   {
@@ -45259,7 +45247,7 @@
     "company": "ChurchDesk",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 5133,
+    "privateContributions": 7901,
     "publicContributions": 2,
     "createdAt": "2020-12-15T02:03:06Z"
   },
@@ -45270,7 +45258,7 @@
     "location": "Denmark",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-12-03T14:08:33Z"
@@ -45308,7 +45296,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2020-06-10T21:21:37Z"
   },
   {
@@ -45342,9 +45330,9 @@
     "location": "Denmark",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 42,
+    "publicContributions": 31,
     "createdAt": "2020-06-23T10:39:33Z"
   },
   {
@@ -45368,7 +45356,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 20,
     "createdAt": "2020-11-07T12:20:29Z"
   },
   {

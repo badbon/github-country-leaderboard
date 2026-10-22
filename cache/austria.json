@@ -45148,11 +45148,11 @@
     "name": "Magdalena",
     "avatarUrl": "https://avatars.githubusercontent.com/u/78353570?s=72&v=4",
     "location": "Vienna",
-    "company": "Wunderbyte",
+    "company": "Austro Control",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 559,
-    "publicContributions": 682,
+    "privateContributions": 184,
+    "publicContributions": 132,
     "createdAt": "2021-02-01T10:55:02Z"
   },
   {
@@ -45169,14 +45169,14 @@
   },
   {
     "login": "AdamCieslik",
-    "name": "Adam Cieślik",
+    "name": "Adam Cieślik-Gwinner",
     "avatarUrl": "https://avatars.githubusercontent.com/u/80257463?s=72&u=b081749a306dbab266fe654cd66b93a61a3fbac5&v=4",
     "location": "Vienna",
     "company": "University of Vienna",
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2021-03-08T11:16:48Z"
   },
   {
@@ -45188,7 +45188,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 4,
-    "publicContributions": 62,
+    "publicContributions": 49,
     "createdAt": "2021-07-04T09:57:01Z"
   },
   {
@@ -45200,19 +45200,19 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 35,
     "createdAt": "2021-04-19T15:37:49Z"
   },
   {
     "login": "JulleeeK",
-    "name": "Julius Krämer",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/87365694?s=72&u=ea1871241c97e300b94403bb4101d45f8a2b397b&v=4",
+    "name": "JKraemer",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/87365694?s=72&u=63652cc28f670369fc0822e6f7842b7f99b279fa&v=4",
     "location": "Vienna",
-    "company": "",
+    "company": "@JKraemer-IT ",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 9,
+    "privateContributions": 1,
+    "publicContributions": 16,
     "createdAt": "2021-07-13T09:30:43Z"
   },
   {
@@ -45260,7 +45260,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 5,
     "createdAt": "2021-05-12T10:18:53Z"
   },
   {
@@ -45319,8 +45319,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 13,
-    "publicContributions": 11,
+    "privateContributions": 17,
+    "publicContributions": 10,
     "createdAt": "2021-05-04T00:59:59Z"
   },
   {
@@ -45332,7 +45332,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2021-01-28T18:39:14Z"
   },
   {
@@ -45342,7 +45342,7 @@
     "location": "Vienna",
     "company": "iteratec",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-06-09T16:50:46Z"

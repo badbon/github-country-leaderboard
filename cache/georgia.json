@@ -45235,7 +45235,7 @@
     "company": "",
     "twitterUsername": "AnthonyAlfimov",
     "followers": 30,
-    "privateContributions": 1032,
+    "privateContributions": 993,
     "publicContributions": 2,
     "createdAt": "2018-10-05T10:08:59Z"
   },
@@ -45247,8 +45247,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 29,
-    "privateContributions": 25,
-    "publicContributions": 34,
+    "privateContributions": 31,
+    "publicContributions": 33,
     "createdAt": "2018-04-24T19:50:49Z"
   },
   {
@@ -45258,9 +45258,9 @@
     "location": "Tbilisi, Georgia",
     "company": "",
     "twitterUsername": "",
-    "followers": 28,
-    "privateContributions": 2724,
-    "publicContributions": 276,
+    "followers": 27,
+    "privateContributions": 2493,
+    "publicContributions": 288,
     "createdAt": "2018-03-09T03:46:08Z"
   },
   {
@@ -45276,26 +45276,14 @@
     "createdAt": "2018-02-15T19:19:32Z"
   },
   {
-    "login": "vladkrutenyuk",
-    "name": "Vladislav Kruteniuk",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/42008771?s=72&u=37dab4f9b09dd45f4b8320db66517192eaa64763&v=4",
-    "location": "Georgia, Tbilisi",
-    "company": "kvyverse",
-    "twitterUsername": "vladkrutenyuk",
-    "followers": 26,
-    "privateContributions": 0,
-    "publicContributions": 49,
-    "createdAt": "2018-08-01T18:17:50Z"
-  },
-  {
     "login": "Phalelashvili",
     "name": "Spartak",
     "avatarUrl": "https://avatars.githubusercontent.com/u/37272925?s=72&u=dde8a169dc566de257d8ad98a90eb7be960d2e66&v=4",
     "location": "Tbilisi, Georgia",
     "company": "Caucasus Auto",
     "twitterUsername": "",
-    "followers": 25,
-    "privateContributions": 458,
+    "followers": 26,
+    "privateContributions": 767,
     "publicContributions": 42,
     "createdAt": "2018-03-11T17:55:55Z"
   },
@@ -45306,9 +45294,9 @@
     "location": "Georgia",
     "company": "First Street Foundation",
     "twitterUsername": "gtfotis",
-    "followers": 26,
-    "privateContributions": 1189,
-    "publicContributions": 0,
+    "followers": 25,
+    "privateContributions": 799,
+    "publicContributions": 9,
     "createdAt": "2018-07-07T22:25:45Z"
   },
   {
@@ -45318,9 +45306,9 @@
     "location": "Tbilisi, Georgia",
     "company": "Tabby",
     "twitterUsername": "",
-    "followers": 25,
-    "privateContributions": 255,
-    "publicContributions": 288,
+    "followers": 27,
+    "privateContributions": 480,
+    "publicContributions": 474,
     "createdAt": "2018-02-19T18:45:03Z"
   },
   {
@@ -45330,9 +45318,9 @@
     "location": "Georgia, tbilisi",
     "company": "",
     "twitterUsername": "",
-    "followers": 21,
+    "followers": 22,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 37,
     "createdAt": "2018-04-10T19:08:44Z"
   },
   {
@@ -45342,8 +45330,8 @@
     "location": "Tbilisi, Georgia",
     "company": "",
     "twitterUsername": "",
-    "followers": 22,
-    "privateContributions": 194,
+    "followers": 21,
+    "privateContributions": 271,
     "publicContributions": 0,
     "createdAt": "2018-07-24T20:19:02Z"
   },
@@ -45354,9 +45342,9 @@
     "location": "Tbilisi, Georgia",
     "company": "OpenTofu",
     "twitterUsername": "",
-    "followers": 21,
-    "privateContributions": 305,
-    "publicContributions": 512,
+    "followers": 23,
+    "privateContributions": 298,
+    "publicContributions": 417,
     "createdAt": "2018-09-29T15:56:55Z"
   },
   {
@@ -45366,7 +45354,7 @@
     "location": "Tbilisi, Georgia",
     "company": "",
     "twitterUsername": "",
-    "followers": 21,
+    "followers": 22,
     "privateContributions": 10,
     "publicContributions": 0,
     "createdAt": "2018-04-11T07:38:51Z"
@@ -45390,21 +45378,21 @@
     "location": "Chiatura, Georgia",
     "company": "GIS GEORGIA",
     "twitterUsername": "ezdanapak",
-    "followers": 20,
+    "followers": 24,
     "privateContributions": 0,
-    "publicContributions": 889,
+    "publicContributions": 1311,
     "createdAt": "2018-02-11T08:38:08Z"
   },
   {
     "login": "LevanisART",
     "name": "Levan Kotolashvili",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/44732686?s=72&u=226c75c1fdbbaa14c83b8e1dbeb6cf72a4970c19&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/44732686?s=72&u=b266442ae32651adb08f63e6b1736b049ae7995a&v=4",
     "location": "Georgia",
     "company": "",
     "twitterUsername": "",
-    "followers": 20,
-    "privateContributions": 479,
-    "publicContributions": 34,
+    "followers": 21,
+    "privateContributions": 409,
+    "publicContributions": 39,
     "createdAt": "2018-11-03T18:27:22Z"
   },
   {
@@ -45427,8 +45415,8 @@
     "company": "@gluwa ",
     "twitterUsername": "BeqaAbu",
     "followers": 19,
-    "privateContributions": 517,
-    "publicContributions": 539,
+    "privateContributions": 402,
+    "publicContributions": 623,
     "createdAt": "2018-01-29T09:09:54Z"
   },
   {
@@ -45438,8 +45426,8 @@
     "location": "Tbilisi, Georgia",
     "company": "",
     "twitterUsername": "juice_fv",
-    "followers": 19,
-    "privateContributions": 520,
+    "followers": 18,
+    "privateContributions": 948,
     "publicContributions": 0,
     "createdAt": "2018-01-07T21:20:34Z"
   },
@@ -45451,7 +45439,7 @@
     "company": "Exactpro Systems",
     "twitterUsername": "",
     "followers": 19,
-    "privateContributions": 2,
+    "privateContributions": 1,
     "publicContributions": 2,
     "createdAt": "2018-11-21T07:23:33Z"
   },
@@ -45463,7 +45451,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 18,
-    "privateContributions": 2143,
+    "privateContributions": 2198,
     "publicContributions": 0,
     "createdAt": "2018-09-20T11:23:53Z"
   },
