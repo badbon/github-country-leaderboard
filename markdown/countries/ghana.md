@@ -21,17 +21,17 @@ Indexed users: 7,075
 | 7 | [mhiskall282](https://github.com/mhiskall282) | John Okyere | Accra Ghana | 15,891 |
 | 8 | [Gideon-Dadey](https://github.com/Gideon-Dadey) | Gideon Dadey | Accra, Ghana | 15,633 |
 | 9 | [felixyeboah](https://github.com/felixyeboah) | Felix Nana Yaw Yeboah | Accra, Ghana | 14,507 |
-| 10 | [Philinzag](https://github.com/Philinzag) | Philip A. | Ghana | 10,626 |
-| 11 | [Eselase-Noble](https://github.com/Eselase-Noble) | Nobleson | Accra | 10,581 |
-| 12 | [DreKwasi](https://github.com/DreKwasi) | Andrews Boateng | Accra, Ghana | 10,142 |
-| 13 | [qbentil](https://github.com/qbentil) | Bentil Shadrack | Ghana | 9,624 |
-| 14 | [Aliu2211](https://github.com/Aliu2211) | Aliu Tijani | Ghana | 9,365 |
-| 15 | [evansachie](https://github.com/evansachie) | Evans Acheampong | Accra, Ghana | 9,348 |
-| 16 | [rloterh](https://github.com/rloterh) | Robert Loterh | Accra Ghana | 8,556 |
-| 17 | [seidu626](https://github.com/seidu626) | Seidu Abdulai | Ghana | 8,537 |
-| 18 | [worlakodzo](https://github.com/worlakodzo) | Worlako Dzokoto | GHANA | 8,363 |
-| 19 | [kelvinagyareyeboah](https://github.com/kelvinagyareyeboah) | Kelvin Agyare Yeboah | Accra | 8,288 |
-| 20 | [richprince23](https://github.com/richprince23) | Richard Kweku Aikins | Accra | 8,282 |
+| 10 | [bograh](https://github.com/bograh) | Bernard Ograh | Ghana | 12,472 |
+| 11 | [Philinzag](https://github.com/Philinzag) | Philip A. | Ghana | 10,626 |
+| 12 | [Eselase-Noble](https://github.com/Eselase-Noble) | Nobleson | Accra | 10,581 |
+| 13 | [DreKwasi](https://github.com/DreKwasi) | Andrews Boateng | Accra, Ghana | 10,142 |
+| 14 | [qbentil](https://github.com/qbentil) | Bentil Shadrack | Ghana | 9,624 |
+| 15 | [Aliu2211](https://github.com/Aliu2211) | Aliu Tijani | Ghana | 9,365 |
+| 16 | [evansachie](https://github.com/evansachie) | Evans Acheampong | Accra, Ghana | 9,348 |
+| 17 | [rloterh](https://github.com/rloterh) | Robert Loterh | Accra Ghana | 8,556 |
+| 18 | [seidu626](https://github.com/seidu626) | Seidu Abdulai | Ghana | 8,537 |
+| 19 | [worlakodzo](https://github.com/worlakodzo) | Worlako Dzokoto | GHANA | 8,363 |
+| 20 | [kelvinagyareyeboah](https://github.com/kelvinagyareyeboah) | Kelvin Agyare Yeboah | Accra | 8,288 |
 
 ## Public Contributions
 
@@ -77,10 +77,10 @@ Indexed users: 7,075
 | 13 | [quintincodes](https://github.com/quintincodes) | Edward King Quintin-Sey | Ghana | 357 |
 | 14 | [hunterxcobby](https://github.com/hunterxcobby) | Cobby Sefah Solomon | Accra, Ghana | 355 |
 | 15 | [tothepointcode](https://github.com/tothepointcode) | Terra Andoh Baffoe | Ghana | 353 |
-| 16 | [codeoverdoze](https://github.com/codeoverdoze) | Codeoverdoze | Accra, Ghana | 342 |
-| 17 | [blackmann](https://github.com/blackmann) | Degreat | Ghana | 335 |
-| 18 | [Manasseh-Ankrah](https://github.com/Manasseh-Ankrah) | Mandev🤓💻❤‍🔥 | Ghana | 330 |
+| 16 | [Manasseh-Ankrah](https://github.com/Manasseh-Ankrah) | Mandev🤓💻❤‍🔥 | Ghana | 351 |
+| 17 | [codeoverdoze](https://github.com/codeoverdoze) | Codeoverdoze | Accra, Ghana | 342 |
+| 18 | [blackmann](https://github.com/blackmann) | Degreat | Ghana | 335 |
 | 19 | [Mmabiaa](https://github.com/Mmabiaa) | Boateng Prince Agyenim | Ghana | 326 |
 | 20 | [sedegah](https://github.com/sedegah) | Kimathi  Sedegah | Ghana | 310 |
 
-Generated: 2026-10-22T22:44:00.059Z
+Generated: 2026-10-22T23:46:51.505Z

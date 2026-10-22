@@ -1,6 +1,6 @@
 # Total Contributions - Ghana
 
-Generated: 2026-10-22T22:44:00.059Z
+Generated: 2026-10-22T23:46:51.505Z
 
 Users: 7075
 
@@ -15,14 +15,14 @@ Users: 7075
 | 7 | [mhiskall282](https://github.com/mhiskall282) | John Okyere | https://johnokyere.xyz | 0xMhiskall | Accra Ghana | 15891 |
 | 8 | [Gideon-Dadey](https://github.com/Gideon-Dadey) | Gideon Dadey | PragmaHealth LLC | cannymirah | Accra, Ghana | 15633 |
 | 9 | [felixyeboah](https://github.com/felixyeboah) | Felix Nana Yaw Yeboah | Complete Farmer LLC | sudocode_ | Accra, Ghana | 14507 |
-| 10 | [Philinzag](https://github.com/Philinzag) | Philip A. | SOFNED |  | Ghana | 10626 |
-| 11 | [Eselase-Noble](https://github.com/Eselase-Noble) | Nobleson | AfricodeLab | brandedhustler | Accra | 10581 |
-| 12 | [DreKwasi](https://github.com/DreKwasi) | Andrews Boateng | Piply |  | Accra, Ghana | 10142 |
-| 13 | [qbentil](https://github.com/qbentil) | Bentil Shadrack |  | themanbentil | Ghana | 9624 |
-| 14 | [Aliu2211](https://github.com/Aliu2211) | Aliu Tijani |  | AliuTijani21 | Ghana | 9365 |
-| 15 | [evansachie](https://github.com/evansachie) | Evans Acheampong |  |  | Accra, Ghana | 9348 |
-| 16 | [rloterh](https://github.com/rloterh) | Robert Loterh | Data Analyst/ Full-stack Engineer | Rloterh | Accra Ghana | 8556 |
-| 17 | [seidu626](https://github.com/seidu626) | Seidu Abdulai | student |  | Ghana | 8537 |
-| 18 | [worlakodzo](https://github.com/worlakodzo) | Worlako Dzokoto |  | worlakodzo | GHANA | 8363 |
-| 19 | [kelvinagyareyeboah](https://github.com/kelvinagyareyeboah) | Kelvin Agyare Yeboah | Zoharix | _yo_kelvin | Accra | 8288 |
-| 20 | [richprince23](https://github.com/richprince23) | Richard Kweku Aikins | Suptle Solutions Ltd | TheAikinsGuy | Accra | 8282 |
+| 10 | [bograh](https://github.com/bograh) | Bernard Ograh |  | ograh_ | Ghana | 12472 |
+| 11 | [Philinzag](https://github.com/Philinzag) | Philip A. | SOFNED |  | Ghana | 10626 |
+| 12 | [Eselase-Noble](https://github.com/Eselase-Noble) | Nobleson | AfricodeLab | brandedhustler | Accra | 10581 |
+| 13 | [DreKwasi](https://github.com/DreKwasi) | Andrews Boateng | Piply |  | Accra, Ghana | 10142 |
+| 14 | [qbentil](https://github.com/qbentil) | Bentil Shadrack |  | themanbentil | Ghana | 9624 |
+| 15 | [Aliu2211](https://github.com/Aliu2211) | Aliu Tijani |  | AliuTijani21 | Ghana | 9365 |
+| 16 | [evansachie](https://github.com/evansachie) | Evans Acheampong |  |  | Accra, Ghana | 9348 |
+| 17 | [rloterh](https://github.com/rloterh) | Robert Loterh | Data Analyst/ Full-stack Engineer | Rloterh | Accra Ghana | 8556 |
+| 18 | [seidu626](https://github.com/seidu626) | Seidu Abdulai | student |  | Ghana | 8537 |
+| 19 | [worlakodzo](https://github.com/worlakodzo) | Worlako Dzokoto |  | worlakodzo | GHANA | 8363 |
+| 20 | [kelvinagyareyeboah](https://github.com/kelvinagyareyeboah) | Kelvin Agyare Yeboah | Zoharix | _yo_kelvin | Accra | 8288 |

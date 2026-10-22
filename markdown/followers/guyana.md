@@ -1,6 +1,6 @@
 # Followers - Guyana
 
-Generated: 2026-10-22T22:47:16.609Z
+Generated: 2026-10-22T23:48:05.642Z
 
 Users: 187
 
@@ -15,8 +15,8 @@ Users: 187
 | 7 | [tylerwhall](https://github.com/tylerwhall) | Tyler Hall | Lexmark |  | Georgetown, KY | 48 |
 | 8 | [anmolnar](https://github.com/anmolnar) | Andor Molnár | @cloudera |  | Georgetown, TX | 45 |
 | 9 | [JoshuaKissoon](https://github.com/JoshuaKissoon) | Joshua Kissoon | Techlify Inc. |  | Georgetown, Guyana | 41 |
-| 10 | [codedbychavez](https://github.com/codedbychavez) | Chavez Harris | @configcat |  | Guyana | 39 |
-| 11 | [amberhinds](https://github.com/amberhinds) | Amber Hinds | @equalizedigital  | heyamberhinds | Georgetown, TX | 37 |
+| 10 | [amberhinds](https://github.com/amberhinds) | Amber Hinds | @equalizedigital  | heyamberhinds | Georgetown, TX | 37 |
+| 11 | [codedbychavez](https://github.com/codedbychavez) | Chavez Harris | @configcat |  | Guyana | 37 |
 | 12 | [FusionOpz](https://github.com/FusionOpz) | Matthew Sporich | Renegade Studios |  | Georgetown, ON, CA | 36 |
 | 13 | [rlisle](https://github.com/rlisle) | Ron Lisle |  |  | Georgetown, TX | 34 |
 | 14 | [NathanMLu](https://github.com/NathanMLu) | Nathan Lu |  |  | Georgetown, Texas | 30 |

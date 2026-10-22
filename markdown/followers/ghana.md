@@ -1,6 +1,6 @@
 # Followers - Ghana
 
-Generated: 2026-10-22T22:44:00.059Z
+Generated: 2026-10-22T23:46:51.505Z
 
 Users: 7075
 
@@ -21,8 +21,8 @@ Users: 7075
 | 13 | [quintincodes](https://github.com/quintincodes) | Edward King Quintin-Sey | QEXION LABS | MrQuintinSey | Ghana | 357 |
 | 14 | [hunterxcobby](https://github.com/hunterxcobby) | Cobby Sefah Solomon | Zedulo Ghana Limited | hunterxcobby | Accra, Ghana | 355 |
 | 15 | [tothepointcode](https://github.com/tothepointcode) | Terra Andoh Baffoe |  |  | Ghana | 353 |
-| 16 | [codeoverdoze](https://github.com/codeoverdoze) | Codeoverdoze | Polymorph Labs | codeoverdoze | Accra, Ghana | 342 |
-| 17 | [blackmann](https://github.com/blackmann) | Degreat | GR | _yogr | Ghana | 335 |
-| 18 | [Manasseh-Ankrah](https://github.com/Manasseh-Ankrah) | Mandev🤓💻❤‍🔥 | Fidelity Bank Ghana | mandev_ankrah | Ghana | 330 |
+| 16 | [Manasseh-Ankrah](https://github.com/Manasseh-Ankrah) | Mandev🤓💻❤‍🔥 | Fidelity Bank Ghana | mandev_ankrah | Ghana | 351 |
+| 17 | [codeoverdoze](https://github.com/codeoverdoze) | Codeoverdoze | Polymorph Labs | codeoverdoze | Accra, Ghana | 342 |
+| 18 | [blackmann](https://github.com/blackmann) | Degreat | GR | _yogr | Ghana | 335 |
 | 19 | [Mmabiaa](https://github.com/Mmabiaa) | Boateng Prince Agyenim | Mmabiaa CS | mmabiaa | Ghana | 326 |
 | 20 | [sedegah](https://github.com/sedegah) | Kimathi  Sedegah | Rehotech & Tayenn | heiskimathi | Ghana | 310 |

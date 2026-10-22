@@ -38,9 +38,9 @@ Indexed users: 1,256
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [AugustoMelara-Dev](https://github.com/AugustoMelara-Dev) | Augusto Jose Melara Milla | Honduras 🇭🇳 | 3,765 |
-| 2 | [eliac-d](https://github.com/eliac-d) | Eliac | Honduras | 3,542 |
+| 2 | [eliac-d](https://github.com/eliac-d) | deylin_eliac  | Honduras | 3,543 |
 | 3 | [Siumauricio](https://github.com/Siumauricio) | Mauricio Siu | Honduras, San Pedro Sula | 3,141 |
-| 4 | [naut21](https://github.com/naut21) | Naut | 🇭🇳 Honduras | 2,580 |
+| 4 | [naut21](https://github.com/naut21) | Naut | 🇭🇳 Honduras | 2,581 |
 | 5 | [MGeovany](https://github.com/MGeovany) | Marlon Geovany Castro | Honduras, Cortes | 1,972 |
 | 6 | [andrepg-dev](https://github.com/andrepg-dev) | Andre Ponce | Honduras | 1,939 |
 | 7 | [kevinhndz](https://github.com/kevinhndz) | Kevin Hernandez | Comayagua, Honduras | 1,568 |
@@ -65,8 +65,8 @@ Indexed users: 1,256
 | 1 | [Siumauricio](https://github.com/Siumauricio) | Mauricio Siu | Honduras, San Pedro Sula | 610 |
 | 2 | [dansiegel](https://github.com/dansiegel) | Dan Siegel | Roatan, Honduras | 515 |
 | 3 | [BryanAnariba](https://github.com/BryanAnariba) | Bryan Anariba | Honduras | 386 |
-| 4 | [Turupawn](https://github.com/Turupawn) | Ahmed Castro | San Pedro Sula, Honduras | 321 |
-| 5 | [BANARIBA](https://github.com/BANARIBA) | ARIEL ANARIBA | Honduras | 319 |
+| 4 | [BANARIBA](https://github.com/BANARIBA) | ARIEL ANARIBA | Honduras | 321 |
+| 5 | [Turupawn](https://github.com/Turupawn) | Ahmed Castro | San Pedro Sula, Honduras | 321 |
 | 6 | [obetancourthunicah](https://github.com/obetancourthunicah) | Orlando J Betancourth Alvarenga | Tegucigalpa Honduras | 234 |
 | 7 | [salvatoretrimarchi](https://github.com/salvatoretrimarchi) | Salvatore Josue Trimarchi Pinto | Honduras | 184 |
 | 8 | [DavidBrionesFF](https://github.com/DavidBrionesFF) | Jose David Briones Rosa | Tegucigalpa, Honduras, C,A | 178 |
@@ -83,4 +83,4 @@ Indexed users: 1,256
 | 19 | [christiansc96](https://github.com/christiansc96) | Christian Sánchez | San Pedro Sula, Honduras | 56 |
 | 20 | [galexbh](https://github.com/galexbh) | Gabriel Barrientos | Honduras | 56 |
 
-Generated: 2026-10-22T22:48:23.141Z
+Generated: 2026-10-22T23:48:12.864Z

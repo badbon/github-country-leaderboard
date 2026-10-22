@@ -1,6 +1,6 @@
 # Followers - Honduras
 
-Generated: 2026-10-22T22:48:23.141Z
+Generated: 2026-10-22T23:48:12.864Z
 
 Users: 1256
 
@@ -9,8 +9,8 @@ Users: 1256
 | 1 | [Siumauricio](https://github.com/Siumauricio) | Mauricio Siu |  |  | Honduras, San Pedro Sula | 610 |
 | 2 | [dansiegel](https://github.com/dansiegel) | Dan Siegel | @AvantiPoint | DanJSiegel | Roatan, Honduras | 515 |
 | 3 | [BryanAnariba](https://github.com/BryanAnariba) | Bryan Anariba | UNAH |  | Honduras | 386 |
-| 4 | [Turupawn](https://github.com/Turupawn) | Ahmed Castro |  | FilosofiaCodigo | San Pedro Sula, Honduras | 321 |
-| 5 | [BANARIBA](https://github.com/BANARIBA) | ARIEL ANARIBA | Seguros Crefisa |  | Honduras | 319 |
+| 4 | [BANARIBA](https://github.com/BANARIBA) | ARIEL ANARIBA | Seguros Crefisa |  | Honduras | 321 |
+| 5 | [Turupawn](https://github.com/Turupawn) | Ahmed Castro |  | FilosofiaCodigo | San Pedro Sula, Honduras | 321 |
 | 6 | [obetancourthunicah](https://github.com/obetancourthunicah) | Orlando J Betancourth Alvarenga | UNICAH |  | Tegucigalpa Honduras | 234 |
 | 7 | [salvatoretrimarchi](https://github.com/salvatoretrimarchi) | Salvatore Josue Trimarchi Pinto | Salvatore Trimarchi |  | Honduras | 184 |
 | 8 | [DavidBrionesFF](https://github.com/DavidBrionesFF) | Jose David Briones Rosa | NaT Technologies S. A | aprendefacil101 | Tegucigalpa, Honduras, C,A | 178 |

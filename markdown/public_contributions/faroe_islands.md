@@ -1,6 +1,6 @@
 # Public Contributions - Faroe Islands
 
-Generated: 2026-10-22T22:43:11.819Z
+Generated: 2026-10-22T23:45:21.130Z
 
 Users: 68
 
@@ -14,8 +14,8 @@ Users: 68
 | 6 | [krvi](https://github.com/krvi) |  |  |  | Faroe Islands | 466 |
 | 7 | [olavurellefsen](https://github.com/olavurellefsen) | Olavur Ellefsen | @Flowcore-io |  | Faroe Islands | 288 |
 | 8 | [ahjohannessen](https://github.com/ahjohannessen) | Alex Henning Johannessen |  | ahjohannessen | Faroe Islands | 274 |
-| 9 | [Marimuda](https://github.com/Marimuda) | Jákup Svøðstein | University of Faroe islands |  | Faroe islands  | 218 |
-| 10 | [SheetHappiness](https://github.com/SheetHappiness) | SheetHappiness | Lethal |  | Faroe Islands | 216 |
+| 9 | [SheetHappiness](https://github.com/SheetHappiness) | SheetHappiness | Lethal |  | Faroe Islands | 221 |
+| 10 | [Marimuda](https://github.com/Marimuda) | Jákup Svøðstein | University of Faroe islands |  | Faroe islands  | 218 |
 | 11 | [Femfus](https://github.com/Femfus) | Molly |  |  | Faroe Islands | 126 |
 | 12 | [Theoistic](https://github.com/Theoistic) | Theodor Solbjorg | Theoistic | Theoistic | Faroe Islands | 126 |
 | 13 | [forkh](https://github.com/forkh) |  |  |  | Føroyar | 117 |
