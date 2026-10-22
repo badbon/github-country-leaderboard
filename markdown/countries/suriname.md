@@ -17,10 +17,10 @@ Indexed users: 123
 | 3 | [doctorneon](https://github.com/doctorneon) | Fabian Jacott | Suriname | 6,405 |
 | 4 | [Karel95](https://github.com/Karel95) | Karel Hernández | Paramaribo, Suriname | 2,899 |
 | 5 | [eSaniello](https://github.com/eSaniello) | Shaniel  | Suriname | 1,862 |
-| 6 | [CreativeYudai](https://github.com/CreativeYudai) | Yudai Heber | Paramaribo | 1,794 |
+| 6 | [CreativeYudai](https://github.com/CreativeYudai) | Yudai Heber | Paramaribo | 1,790 |
 | 7 | [Beefy-py](https://github.com/Beefy-py) | Kenny Hoft | Commwijne, Suriname | 1,671 |
 | 8 | [JhonatanJavierDev](https://github.com/JhonatanJavierDev) | Jhonatan Javier Corella Pérez | Paramaribo | 1,618 |
-| 9 | [jairseedorf](https://github.com/jairseedorf) | Jaïr Seedorf  | Suriname | 1,126 |
+| 9 | [jairseedorf](https://github.com/jairseedorf) | Jaïr Seedorf  | Suriname | 1,132 |
 | 10 | [giannisanni](https://github.com/giannisanni) | Gianni Sanrochman | Paramaribo, Suriname | 867 |
 | 11 | [nerkarso](https://github.com/nerkarso) | Ner Karso | Paramaribo, Suriname | 809 |
 | 12 | [dmoed](https://github.com/dmoed) | <Don/> | Paramaribo, Suriname | 722 |
@@ -54,9 +54,9 @@ Indexed users: 123
 | 15 | [FrostiSR](https://github.com/FrostiSR) | Daniel dos Ramos | Paramaribo, Suriname | 72 |
 | 16 | [JoshKarta](https://github.com/JoshKarta) | Josh K | Paramaribo, Suriname | 72 |
 | 17 | [DeviousSiddy](https://github.com/DeviousSiddy) |  | Suriname | 66 |
-| 18 | [muskaanm4](https://github.com/muskaanm4) | Muskaan Mahabier | Suriname, Paramaribo | 63 |
-| 19 | [nathaniel123x3rd](https://github.com/nathaniel123x3rd) | Nathanielx3rd | Paramaribo, Suriname | 60 |
-| 20 | [TaufiqSultan](https://github.com/TaufiqSultan) | Taufiq Sultan | Suriname | 56 |
+| 18 | [MeABzZz](https://github.com/MeABzZz) | Maya Parbhoe | Suriname | 65 |
+| 19 | [muskaanm4](https://github.com/muskaanm4) | Muskaan Mahabier | Suriname, Paramaribo | 63 |
+| 20 | [nathaniel123x3rd](https://github.com/nathaniel123x3rd) | Nathanielx3rd | Paramaribo, Suriname | 59 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 123
 | 19 | [JovinF](https://github.com/JovinF) | Jovin Fransman | Suriname | 18 |
 | 20 | [Your1405](https://github.com/Your1405) | Youri Karijopawiro | Paramaribo, Suriname | 17 |
 
-Generated: 2026-10-22T09:30:28.863Z
+Generated: 2026-10-22T13:37:12.219Z

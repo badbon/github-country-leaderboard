@@ -1,6 +1,6 @@
 # Total Contributions - Syria
 
-Generated: 2026-10-22T09:32:23.584Z
+Generated: 2026-10-22T13:39:00.010Z
 
 Users: 1478
 
@@ -9,7 +9,7 @@ Users: 1478
 | 1 | [sakeraldakak](https://github.com/sakeraldakak) | Saker Al Dakak | SEZARD |  | Syria, Damascus | 9606 |
 | 2 | [MustafaFares445](https://github.com/MustafaFares445) | Mustafa Fares |  |  | Aleppo/Syria | 5742 |
 | 3 | [moaaz-alsyoufi](https://github.com/moaaz-alsyoufi) | Moaaz Alsyoufi |  |  | Homs, Syria | 5233 |
-| 4 | [Abubakr-Alsheikh](https://github.com/Abubakr-Alsheikh) | Abubakr Alsheikh |  | AbubakrAlshei77 | Syria | 4654 |
+| 4 | [Abubakr-Alsheikh](https://github.com/Abubakr-Alsheikh) | Abubakr Alsheikh |  | AbubakrAlshei77 | Syria | 4787 |
 | 5 | [ibrahim4433](https://github.com/ibrahim4433) | Ibrahim Andraws | IA team - Digital Voluntary Team (DVT) |  | Syria | 4651 |
 | 6 | [amurru](https://github.com/amurru) | Ammar Zerouk |  |  | Syria | 3244 |
 | 7 | [ali-talal-ibrahem](https://github.com/ali-talal-ibrahem) | Ali Talal Ibrahem |  |  | syria | 3223 |
@@ -17,9 +17,9 @@ Users: 1478
 | 9 | [sam-a1a](https://github.com/sam-a1a) | Sam Ghazaleh |  |  | Damascus, Syrian Arab Republic | 3087 |
 | 10 | [gaaferHajji2](https://github.com/gaaferHajji2) | Jafar Loka |  |  | Damascus - SY | 2836 |
 | 11 | [alsa7err90](https://github.com/alsa7err90) | abdulnafea |  |  | syria | 2435 |
-| 12 | [eymeen](https://github.com/eymeen) | Ayman Eid | QualityX | aymaneidx | Syria, Turkey | 2217 |
-| 13 | [CodeFather-xe](https://github.com/CodeFather-xe) | CodeFather-xe | Co-Founder of Kernel Crew |  | Syria | 2136 |
-| 14 | [rasheed-k-mozaffar](https://github.com/rasheed-k-mozaffar) | Rasheed K Mozaffar | @ContraForce | RasheedMozaffar | Damascus, Syria | 2129 |
+| 12 | [rasheed-k-mozaffar](https://github.com/rasheed-k-mozaffar) | Rasheed K Mozaffar | @ContraForce | RasheedMozaffar | Damascus, Syria | 2238 |
+| 13 | [eymeen](https://github.com/eymeen) | Ayman Eid | QualityX | aymaneidx | Syria, Turkey | 2217 |
+| 14 | [CodeFather-xe](https://github.com/CodeFather-xe) | CodeFather-xe | Co-Founder of Kernel Crew |  | Syria | 2136 |
 | 15 | [nachawati](https://github.com/nachawati) | Mohamad Omar Nachawati |  |  | Damascus, Syria | 2088 |
 | 16 | [MahmoudSlameh](https://github.com/MahmoudSlameh) | Mahmoud Salameh | Nashra |  | Damascus | 2028 |
 | 17 | [muhammedelsami](https://github.com/muhammedelsami) | Muhammed Elşami | DetaySoft |  | Sivas, Syria | 1999 |
