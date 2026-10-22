@@ -66,7 +66,7 @@ Indexed users: 19
 | 4 | [bryanrscott](https://github.com/bryanrscott) | Bryan | Honiara | 14 |
 | 5 | [fdd-eiu](https://github.com/fdd-eiu) |  | Honiara | 9 |
 | 6 | [filimoni](https://github.com/filimoni) | filimoni | Honiara | 7 |
-| 7 | [Killcode-tech](https://github.com/Killcode-tech) | Killcode_DK  | Solomon islands 🇸🇧  | 7 |
+| 7 | [Killcode-tech](https://github.com/Killcode-tech) | Killcode_DK  | Solomon islands 🇸🇧  | 6 |
 | 8 | [h-a-s-k](https://github.com/h-a-s-k) | Hask | Solomon Islands | 5 |
 | 9 | [replica47](https://github.com/replica47) | Emmanuel Tora Jnr | Solomon Islands | 4 |
 | 10 | [lininn](https://github.com/lininn) | Emerson Towne | 029 ,Bosco Views ,Aishaburgh ,South Carolina ,Solomon Islands | 3 |
@@ -80,4 +80,4 @@ Indexed users: 19
 | 18 | [mygodtnt](https://github.com/mygodtnt) |  | Solomon Islands | 1 |
 | 19 | [token-ek](https://github.com/token-ek) | ekausimae | Solomon Islands | 1 |
 
-Generated: 2026-10-22T18:58:45.691Z
+Generated: 2026-10-22T19:56:02.465Z
