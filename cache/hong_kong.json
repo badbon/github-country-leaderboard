@@ -44431,7 +44431,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 183,
+    "privateContributions": 170,
     "publicContributions": 2,
     "createdAt": "2020-07-04T05:34:49Z"
   },
@@ -44444,7 +44444,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2020-08-03T07:00:40Z"
   },
   {
@@ -44516,20 +44516,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 59,
+    "publicContributions": 86,
     "createdAt": "2020-11-26T20:08:58Z"
-  },
-  {
-    "login": "alistairmed",
-    "name": "Alistair_Medical Student",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/68220428?s=72&v=4",
-    "location": "Hong Kong",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 5,
-    "createdAt": "2020-07-13T08:36:19Z"
   },
   {
     "login": "kaloklijk",
@@ -44552,7 +44540,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 16,
     "createdAt": "2020-11-14T07:03:41Z"
   },
   {
@@ -44562,7 +44550,7 @@
     "location": "Hong Kong",
     "company": "The University of Hong Kong",
     "twitterUsername": "HaoLUO_hku",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-09-03T03:44:49Z"
@@ -44588,7 +44576,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 101,
+    "publicContributions": 57,
     "createdAt": "2020-09-04T06:46:30Z"
   },
   {

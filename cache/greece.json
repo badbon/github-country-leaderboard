@@ -44659,8 +44659,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 28,
-    "publicContributions": 10,
+    "privateContributions": 25,
+    "publicContributions": 18,
     "createdAt": "2021-07-01T17:11:51Z"
   },
   {
@@ -44670,9 +44670,9 @@
     "location": "Greece",
     "company": "Nexus Consulting (Joanna Vathis)",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 31,
+    "publicContributions": 33,
     "createdAt": "2021-07-15T16:46:23Z"
   },
   {
@@ -44683,20 +44683,20 @@
     "company": "Informatics,Computer and Telecommunications engineering, IHU",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 1,
+    "privateContributions": 18,
     "publicContributions": 0,
     "createdAt": "2021-11-03T21:24:12Z"
   },
   {
     "login": "AggelosAst",
-    "name": "Angelos Kountouras",
+    "name": "Aggelos",
     "avatarUrl": "https://avatars.githubusercontent.com/u/87412823?s=72&v=4",
     "location": "Greece, Thessaloniki",
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 61,
-    "publicContributions": 2,
+    "privateContributions": 60,
+    "publicContributions": 4,
     "createdAt": "2021-07-14T06:56:20Z"
   },
   {
@@ -44706,9 +44706,9 @@
     "location": "Thessaloniki, Greece",
     "company": "Self Employed",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 293,
-    "publicContributions": 1977,
+    "publicContributions": 2264,
     "createdAt": "2021-11-03T13:13:12Z"
   },
   {
@@ -44732,7 +44732,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 4,
     "createdAt": "2021-10-16T15:50:16Z"
   },
   {
@@ -44743,8 +44743,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 2,
-    "publicContributions": 1,
+    "privateContributions": 5,
+    "publicContributions": 6,
     "createdAt": "2021-12-17T22:58:39Z"
   },
   {
@@ -44767,8 +44767,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 2875,
-    "publicContributions": 1432,
+    "privateContributions": 2539,
+    "publicContributions": 1268,
     "createdAt": "2021-10-14T08:56:28Z"
   },
   {
@@ -44779,7 +44779,7 @@
     "company": "Harokopeio University Athens",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 270,
+    "privateContributions": 280,
     "publicContributions": 0,
     "createdAt": "2021-10-13T14:09:52Z"
   },
@@ -44790,8 +44790,8 @@
     "location": "Athens,Greece",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 574,
+    "followers": 7,
+    "privateContributions": 510,
     "publicContributions": 0,
     "createdAt": "2021-11-25T15:49:08Z"
   },
@@ -44828,7 +44828,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2021-12-03T13:02:11Z"
   },
   {
@@ -44840,19 +44840,19 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2021-09-30T10:50:38Z"
   },
   {
     "login": "ApostolosVarelas",
-    "name": "Apostolos Varelas",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/87095756?s=72&u=30aa0de5d24ad9166fe37cb4640f59aafe2b5bc0&v=4",
+    "name": "Apostolos Foivos Varelas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/87095756?s=72&u=d17e10c6aa56f2b7abb5a82682cb72a3f078d09e&v=4",
     "location": "Greece, Athens",
-    "company": "",
+    "company": "Eagle Projects",
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 25,
     "createdAt": "2021-07-07T20:11:45Z"
   },
   {
@@ -44862,7 +44862,7 @@
     "location": "Heraklion, Crete, GREECE",
     "company": "Kyriakos Services",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 8,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2021-08-03T19:19:48Z"
@@ -44876,7 +44876,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 75,
+    "publicContributions": 78,
     "createdAt": "2021-10-02T12:25:50Z"
   },
   {

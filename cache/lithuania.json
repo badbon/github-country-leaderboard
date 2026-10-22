@@ -44947,7 +44947,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 6,
+    "privateContributions": 3,
     "publicContributions": 0,
     "createdAt": "2015-11-12T20:19:26Z"
   },
@@ -44959,7 +44959,7 @@
     "company": "@alan-lt ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
+    "privateContributions": 113,
     "publicContributions": 39,
     "createdAt": "2015-01-15T14:13:02Z"
   },
@@ -45007,7 +45007,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 24,
+    "privateContributions": 124,
     "publicContributions": 16,
     "createdAt": "2015-08-05T14:45:09Z"
   },
@@ -45020,7 +45020,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 83,
+    "publicContributions": 89,
     "createdAt": "2015-09-30T06:18:12Z"
   },
   {
@@ -45055,8 +45055,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 43,
-    "publicContributions": 15,
+    "privateContributions": 170,
+    "publicContributions": 17,
     "createdAt": "2015-06-14T10:56:16Z"
   },
   {
@@ -45079,8 +45079,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1808,
-    "publicContributions": 21,
+    "privateContributions": 1204,
+    "publicContributions": 18,
     "createdAt": "2015-04-06T13:46:52Z"
   },
   {
@@ -45091,7 +45091,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 17,
+    "privateContributions": 11,
     "publicContributions": 0,
     "createdAt": "2015-02-26T14:51:01Z"
   },
@@ -45116,20 +45116,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 39,
+    "publicContributions": 44,
     "createdAt": "2015-09-12T21:25:30Z"
-  },
-  {
-    "login": "Delfx",
-    "name": "Lukas Motiejūnas",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/16444906?s=72&u=3a63c25fbbb5d4e57d620178b6f6937735e93408&v=4",
-    "location": "Vilnius",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 18,
-    "createdAt": "2015-12-26T14:16:08Z"
   },
   {
     "login": "mantasbrasiunas",
@@ -45175,8 +45163,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 308,
-    "publicContributions": 64,
+    "privateContributions": 793,
+    "publicContributions": 36,
     "createdAt": "2015-11-16T13:05:49Z"
   },
   {

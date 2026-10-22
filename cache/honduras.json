@@ -14983,7 +14983,7 @@
     "company": "Mundolapa Technologies S de RL",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1104,
+    "privateContributions": 1173,
     "publicContributions": 13,
     "createdAt": "2010-08-05T19:17:10Z"
   },
@@ -15006,22 +15006,10 @@
     "location": "Tegucigalpa, Honduras",
     "company": "Elementos Development",
     "twitterUsername": "",
-    "followers": 39,
-    "privateContributions": 2722,
+    "followers": 40,
+    "privateContributions": 2750,
     "publicContributions": 6,
     "createdAt": "2009-08-09T23:15:13Z"
-  },
-  {
-    "login": "danielricecodes",
-    "name": "Daniel Rice",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/169038?s=72&u=a7d239f95d305413b7e8461009a34cb365bff679&v=4",
-    "location": "Atlanta, GA || Roatan, Honduras",
-    "company": "Rails Agency",
-    "twitterUsername": "danielricecodes",
-    "followers": 23,
-    "privateContributions": 729,
-    "publicContributions": 1,
-    "createdAt": "2009-12-17T17:54:07Z"
   },
   {
     "login": "FernandoEscher",

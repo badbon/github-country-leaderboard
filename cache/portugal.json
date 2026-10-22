@@ -44732,7 +44732,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 0,
     "createdAt": "2023-09-16T10:24:54Z"
   },
   {
@@ -44767,7 +44767,7 @@
     "company": "@build-ing",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 2317,
+    "privateContributions": 3669,
     "publicContributions": 0,
     "createdAt": "2023-07-04T13:30:59Z"
   },
@@ -44796,18 +44796,6 @@
     "createdAt": "2023-09-27T09:54:29Z"
   },
   {
-    "login": "levitoncarvalho",
-    "name": "Leviton Lima Carvalho",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/149610344?s=72&u=06b28566b007a9ff9ecdb971917c942052e2b54a&v=4",
-    "location": "Porto, Portugal",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 77,
-    "createdAt": "2023-11-01T16:41:05Z"
-  },
-  {
     "login": "MelCaxias",
     "name": "Melina C Catarino",
     "avatarUrl": "https://avatars.githubusercontent.com/u/146932378?s=72&v=4",
@@ -44826,9 +44814,9 @@
     "location": "porto, portugal",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 229,
-    "publicContributions": 188,
+    "followers": 2,
+    "privateContributions": 167,
+    "publicContributions": 99,
     "createdAt": "2023-12-13T09:35:03Z"
   },
   {
@@ -44839,8 +44827,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 152,
-    "publicContributions": 86,
+    "privateContributions": 140,
+    "publicContributions": 79,
     "createdAt": "2023-07-04T23:11:47Z"
   },
   {
@@ -44850,9 +44838,9 @@
     "location": "Portugal",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 2288,
-    "publicContributions": 9,
+    "followers": 2,
+    "privateContributions": 2067,
+    "publicContributions": 8,
     "createdAt": "2023-09-02T13:01:02Z"
   },
   {
@@ -44864,7 +44852,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 45,
+    "publicContributions": 70,
     "createdAt": "2023-10-09T13:25:36Z"
   },
   {
@@ -44875,8 +44863,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 39,
-    "publicContributions": 28,
+    "privateContributions": 34,
+    "publicContributions": 27,
     "createdAt": "2023-10-26T16:58:05Z"
   },
   {
@@ -44911,7 +44899,7 @@
     "company": "@airappsco ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 3474,
+    "privateContributions": 3758,
     "publicContributions": 7,
     "createdAt": "2023-10-17T12:34:25Z"
   },
@@ -44958,8 +44946,8 @@
     "location": "Portugal",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
+    "followers": 2,
+    "privateContributions": 15,
     "publicContributions": 0,
     "createdAt": "2023-07-06T16:37:13Z"
   },

@@ -44604,27 +44604,15 @@
     "createdAt": "2021-09-04T19:21:27Z"
   },
   {
-    "login": "whynotban",
-    "name": "Fedor",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/85763913?s=72&v=4",
-    "location": "Helsinki",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 346,
-    "publicContributions": 194,
-    "createdAt": "2021-06-11T19:15:17Z"
-  },
-  {
     "login": "quanbui210",
     "name": "Quan Bui",
     "avatarUrl": "https://avatars.githubusercontent.com/u/89993167?s=72&v=4",
     "location": "Helsinki",
     "company": "Dream Broker",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 83,
-    "publicContributions": 158,
+    "publicContributions": 172,
     "createdAt": "2021-09-02T15:41:34Z"
   },
   {
@@ -44683,7 +44671,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1249,
+    "privateContributions": 1584,
     "publicContributions": 0,
     "createdAt": "2021-11-20T09:09:28Z"
   },
@@ -44707,7 +44695,7 @@
     "company": "Netlight Consulting Oy",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 286,
+    "privateContributions": 265,
     "publicContributions": 2,
     "createdAt": "2021-03-27T11:11:40Z"
   },
@@ -44720,17 +44708,17 @@
     "twitterUsername": "CorumIrem",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2021-11-27T12:16:10Z"
   },
   {
     "login": "hile-codento",
     "name": "Ilkka Tuohela",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/94684987?s=72&u=a325db7cbc60a253253ce1946f4daaa54200ae0a&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/94684987?s=72&u=cb58d7cf6e63a6a81d6da17e685309db7d439708&v=4",
     "location": "Helsinki",
     "company": "Codento",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-11-19T10:48:44Z"
@@ -44743,8 +44731,8 @@
     "company": "",
     "twitterUsername": "earthcomfy",
     "followers": 282,
-    "privateContributions": 497,
-    "publicContributions": 15,
+    "privateContributions": 728,
+    "publicContributions": 25,
     "createdAt": "2020-05-31T12:25:22Z"
   },
   {
@@ -44754,9 +44742,9 @@
     "location": "Finland",
     "company": "",
     "twitterUsername": "",
-    "followers": 85,
+    "followers": 87,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 15,
     "createdAt": "2020-04-10T10:08:57Z"
   },
   {
@@ -44767,8 +44755,8 @@
     "company": "",
     "twitterUsername": "usmangillx",
     "followers": 80,
-    "privateContributions": 6,
-    "publicContributions": 67,
+    "privateContributions": 4,
+    "publicContributions": 66,
     "createdAt": "2020-03-15T12:38:30Z"
   },
   {
@@ -44778,9 +44766,9 @@
     "location": "Helsinki, Finland",
     "company": "HiveGuide",
     "twitterUsername": "",
-    "followers": 76,
-    "privateContributions": 762,
-    "publicContributions": 126,
+    "followers": 80,
+    "privateContributions": 724,
+    "publicContributions": 168,
     "createdAt": "2020-02-08T21:05:54Z"
   },
   {
@@ -44792,7 +44780,7 @@
     "twitterUsername": "",
     "followers": 62,
     "privateContributions": 0,
-    "publicContributions": 392,
+    "publicContributions": 299,
     "createdAt": "2020-05-16T10:53:24Z"
   },
   {
@@ -44802,9 +44790,9 @@
     "location": "Helsinki area, Finland",
     "company": "University of Helsinki",
     "twitterUsername": "",
-    "followers": 60,
-    "privateContributions": 32,
-    "publicContributions": 247,
+    "followers": 63,
+    "privateContributions": 112,
+    "publicContributions": 359,
     "createdAt": "2020-04-05T09:12:55Z"
   },
   {
@@ -44826,9 +44814,9 @@
     "location": "Helsinki, Finland",
     "company": "@Exolyt",
     "twitterUsername": "",
-    "followers": 55,
-    "privateContributions": 1263,
-    "publicContributions": 61,
+    "followers": 58,
+    "privateContributions": 1434,
+    "publicContributions": 67,
     "createdAt": "2020-02-04T07:23:44Z"
   },
   {
@@ -44838,9 +44826,9 @@
     "location": "Helsinki, Finland",
     "company": "Venn",
     "twitterUsername": "",
-    "followers": 49,
-    "privateContributions": 238,
-    "publicContributions": 6,
+    "followers": 52,
+    "privateContributions": 346,
+    "publicContributions": 0,
     "createdAt": "2020-01-30T09:53:35Z"
   },
   {
