@@ -1,12 +1,12 @@
 # Total Contributions - Central African Republic
 
-Generated: 2026-10-22T10:01:40.079Z
+Generated: 2026-10-22T14:05:23.959Z
 
 Users: 11
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [elielMengue](https://github.com/elielMengue) | Eliel MENGUE | @ikouelabs @sendou-startup  | ElielMengue | BANGUI | 1380 |
+| 1 | [elielMengue](https://github.com/elielMengue) | Eliel MENGUE | @ikouelabs @sendou-startup  | ElielMengue | BANGUI | 1383 |
 | 2 | [Nanobolide](https://github.com/Nanobolide) | Geoffroy Maidou |  |  | Remote ,Bangui , Centrafrique 🇨🇫 ; | 1112 |
 | 3 | [yann-bot](https://github.com/yann-bot) | Yann Dubois Ouafete | @ikoueorg  | YannOuafete | Bangui , CAR | 862 |
 | 4 | [Jerry-M-L](https://github.com/Jerry-M-L) | Jerry |  | Lecreatif01 | Centrafrique,Bangui | 437 |

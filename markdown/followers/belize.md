@@ -1,6 +1,6 @@
 # Followers - Belize
 
-Generated: 2026-10-22T09:54:27.592Z
+Generated: 2026-10-22T13:59:00.053Z
 
 Users: 94
 
@@ -21,8 +21,8 @@ Users: 94
 | 13 | [cruzer45](https://github.com/cruzer45) | Maurice Rogers |  |  | Belize  | 9 |
 | 14 | [joshuariverol](https://github.com/joshuariverol) | Joshua Riverol |  | joshuariverol | Belize, CA | 9 |
 | 15 | [alexanderrivera96](https://github.com/alexanderrivera96) | AlexRiv007 |  | AlexRiv007 | Belize City, Belize | 8 |
-| 16 | [happyherp](https://github.com/happyherp) | Carlos Freund | Self Employed |  | Belize | 8 |
-| 17 | [Lee26Ed](https://github.com/Lee26Ed) | Lee E. Panti |  |  | San Jose Succotz, Cayo District, Belize | 8 |
-| 18 | [cybcsec](https://github.com/cybcsec) | CybCSec Coin | CybCSec  |  | Belize | 7 |
+| 16 | [Lee26Ed](https://github.com/Lee26Ed) | Lee E. Panti |  |  | San Jose Succotz, Cayo District, Belize | 8 |
+| 17 | [cybcsec](https://github.com/cybcsec) | CybCSec Coin | CybCSec  |  | Belize | 7 |
+| 18 | [happyherp](https://github.com/happyherp) | Carlos Freund | Self Employed |  | Belize | 7 |
 | 19 | [mmedinajr](https://github.com/mmedinajr) | Manuel Medina Jr | University of Belize |  | Belmopan City | 7 |
 | 20 | [raycadle](https://github.com/raycadle) | Ray Cadle |  |  | Belize, C.A. | 7 |

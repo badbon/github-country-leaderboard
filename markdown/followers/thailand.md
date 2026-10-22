@@ -1,8 +1,8 @@
 # Followers - Thailand
 
-Generated: 2026-10-22T09:36:13.975Z
+Generated: 2026-10-22T13:42:04.375Z
 
-Users: 14982
+Users: 14981
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

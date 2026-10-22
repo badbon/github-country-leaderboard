@@ -1,8 +1,8 @@
 # Public Contributions - Belgium
 
-Generated: 2026-10-22T09:54:19.541Z
+Generated: 2026-10-22T13:58:54.094Z
 
-Users: 18373
+Users: 18372
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -17,11 +17,11 @@ Users: 18373
 | 9 | [renaudallard](https://github.com/renaudallard) | Renaud Allard |  |  | Belgium | 9586 |
 | 10 | [matttbe](https://github.com/matttbe) | Matthieu Baerts | None |  | Belgium | 9298 |
 | 11 | [jfmeyers](https://github.com/jfmeyers) | JF | Digital Dynamics |  | Belgium | 8792 |
-| 12 | [charphi](https://github.com/charphi) | Philippe Charles | National Bank of Belgium |  | Belgium | 8438 |
-| 13 | [WouterGlorieux](https://github.com/WouterGlorieux) | Wouter Glorieux | Valyrian Tech |  | Ghent, Belgium | 8076 |
-| 14 | [brendt](https://github.com/brendt) | Brent Roose |  |  | Belgium | 7628 |
-| 15 | [EloiStree](https://github.com/EloiStree) | Éloi Strée | EloiStree |  | Belgium | 7287 |
-| 16 | [duggytuxy](https://github.com/duggytuxy) | 🔐Laurent M🔐 | SysWarden |  | Brussels, Belgium | 7238 |
+| 12 | [duggytuxy](https://github.com/duggytuxy) | Laurent Minne | SysWarden |  | Brussels, Belgium | 8601 |
+| 13 | [charphi](https://github.com/charphi) | Philippe Charles | National Bank of Belgium |  | Belgium | 8438 |
+| 14 | [WouterGlorieux](https://github.com/WouterGlorieux) | Wouter Glorieux | Valyrian Tech |  | Ghent, Belgium | 8076 |
+| 15 | [brendt](https://github.com/brendt) | Brent Roose |  |  | Belgium | 7628 |
+| 16 | [EloiStree](https://github.com/EloiStree) | Éloi Strée | EloiStree |  | Belgium | 7287 |
 | 17 | [Laoujin](https://github.com/Laoujin) | Wouter Van Schandevijl | @itenium-be |  | Belgium | 7219 |
 | 18 | [pmcp](https://github.com/pmcp) | Maarten Lauwaert | Friendly Internet |  | Brussels | 7075 |
 | 19 | [sethogieva](https://github.com/sethogieva) | Seth Ogieva |  |  | Raleigh & Brussels | 6997 |

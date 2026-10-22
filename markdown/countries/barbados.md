@@ -17,7 +17,7 @@ Indexed users: 132
 | 3 | [bajedev](https://github.com/bajedev) | Theo Taylor | Barbados | 4,221 |
 | 4 | [d-alleyne](https://github.com/d-alleyne) | Damien Alleyne | Barbados | 3,305 |
 | 5 | [paulmiu](https://github.com/paulmiu) | Paul Miu | Barbados | 3,078 |
-| 6 | [shaquillehinds](https://github.com/shaquillehinds) | Shaquille Hinds | Barbados | 2,830 |
+| 6 | [shaquillehinds](https://github.com/shaquillehinds) | Shaquille Hinds | Barbados | 2,845 |
 | 7 | [alexlilburn](https://github.com/alexlilburn) | Alex Lilburn | Barbados | 2,178 |
 | 8 | [Taggs](https://github.com/Taggs) | Neil Taggart | (London \|\| Barbados) && Cloud | 1,748 |
 | 9 | [FamineDT246](https://github.com/FamineDT246) | Ceejay C | Barbados | 1,563 |
@@ -25,12 +25,12 @@ Indexed users: 132
 | 11 | [alexanderbahlk](https://github.com/alexanderbahlk) | Alexander Bahlk | Barbados | 1,369 |
 | 12 | [dario-j-c](https://github.com/dario-j-c) | Dario J C | Barbados | 1,235 |
 | 13 | [lukehefson](https://github.com/lukehefson) | Luke Hefson | Barbados | 965 |
-| 14 | [clemjfrancis](https://github.com/clemjfrancis) | Clem "CJ" Francis | Barbados | 680 |
+| 14 | [clemjfrancis](https://github.com/clemjfrancis) | Clem "CJ" Francis | Barbados | 727 |
 | 15 | [ianhambleton](https://github.com/ianhambleton) | Ian Hambleton | Barbados | 671 |
 | 16 | [starsden](https://github.com/starsden) | den | Barbados | 593 |
 | 17 | [Thomas-Heniart](https://github.com/Thomas-Heniart) | Thomas Heniart | Barbados | 593 |
 | 18 | [diondree](https://github.com/diondree) | Diondre Edwards | Barbados | 442 |
-| 19 | [paulamelrz](https://github.com/paulamelrz) | Paula Melero | Barbados | 438 |
+| 19 | [paulamelrz](https://github.com/paulamelrz) | Paula Melero | Barbados | 433 |
 | 20 | [caritechsolutions](https://github.com/caritechsolutions) |  | Barbados | 410 |
 
 ## Public Contributions
@@ -51,8 +51,8 @@ Indexed users: 132
 | 12 | [dario-j-c](https://github.com/dario-j-c) | Dario J C | Barbados | 133 |
 | 13 | [kernrocke](https://github.com/kernrocke) | Kern Rocke | Bridgetown, Barbados | 109 |
 | 14 | [AzielJust](https://github.com/AzielJust) | Aziel Hoyte | Barbados | 107 |
-| 15 | [sramharack](https://github.com/sramharack) | Shankar Ramharack | St. Phillips, Barbados, W.I. | 105 |
-| 16 | [baebranch](https://github.com/baebranch) | Brian Branch | Barbados | 104 |
+| 15 | [baebranch](https://github.com/baebranch) | Brian Branch | Barbados | 105 |
+| 16 | [sramharack](https://github.com/sramharack) | Shankar Ramharack | St. Phillips, Barbados, W.I. | 105 |
 | 17 | [starsden](https://github.com/starsden) | den | Barbados | 99 |
 | 18 | [Taggs](https://github.com/Taggs) | Neil Taggart | (London \|\| Barbados) && Cloud | 96 |
 | 19 | [alexanderbahlk](https://github.com/alexanderbahlk) | Alexander Bahlk | Barbados | 82 |
@@ -83,4 +83,4 @@ Indexed users: 132
 | 19 | [sramharack](https://github.com/sramharack) | Shankar Ramharack | St. Phillips, Barbados, W.I. | 12 |
 | 20 | [paulamelrz](https://github.com/paulamelrz) | Paula Melero | Barbados | 11 |
 
-Generated: 2026-10-22T09:53:11.937Z
+Generated: 2026-10-22T13:57:26.635Z

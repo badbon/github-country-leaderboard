@@ -74,8 +74,8 @@ Indexed users: 236
 | 10 | [lucayepa](https://github.com/lucayepa) | Luca Venturini | Nassau, Bahamas | 28 |
 | 11 | [M3gaPixel](https://github.com/M3gaPixel) | Pixelated | Bahamas  | 22 |
 | 12 | [Azure2020](https://github.com/Azure2020) |  | Bahamas  | 21 |
-| 13 | [bryanherger](https://github.com/bryanherger) | Bryan Herger | South Shore of Nassau County, NY | 18 |
-| 14 | [TRL242](https://github.com/TRL242) | Roy Lockhart | Victoria, BC and Freeport, Bahamas | 18 |
+| 13 | [TRL242](https://github.com/TRL242) | Roy Lockhart | Victoria, BC and Freeport, Bahamas | 19 |
+| 14 | [bryanherger](https://github.com/bryanherger) | Bryan Herger | South Shore of Nassau County, NY | 18 |
 | 15 | [BeachMannix](https://github.com/BeachMannix) | Mannix Lee | Bahamas | 17 |
 | 16 | [mroker242](https://github.com/mroker242) | Michael Roker | Nassau, Bahamas | 17 |
 | 17 | [aulbytj](https://github.com/aulbytj) | Aulbourn Knowles | Bahamas | 16 |
@@ -83,4 +83,4 @@ Indexed users: 236
 | 19 | [paulcitarella](https://github.com/paulcitarella) | Paul Citarella | George Town, Bahamas | 15 |
 | 20 | [yemix](https://github.com/yemix) |  | Bahamas | 14 |
 
-Generated: 2026-10-22T09:53:02.228Z
+Generated: 2026-10-22T13:56:17.757Z

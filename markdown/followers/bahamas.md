@@ -1,6 +1,6 @@
 # Followers - Bahamas
 
-Generated: 2026-10-22T09:53:02.228Z
+Generated: 2026-10-22T13:56:17.757Z
 
 Users: 236
 
@@ -18,8 +18,8 @@ Users: 236
 | 10 | [lucayepa](https://github.com/lucayepa) | Luca Venturini | CEO @token21 @yepa | lucayepa | Nassau, Bahamas | 28 |
 | 11 | [M3gaPixel](https://github.com/M3gaPixel) | Pixelated |  |  | Bahamas  | 22 |
 | 12 | [Azure2020](https://github.com/Azure2020) |  | Azure Group of Companies Ltd  | Azuregold242 | Bahamas  | 21 |
-| 13 | [bryanherger](https://github.com/bryanherger) | Bryan Herger |  |  | South Shore of Nassau County, NY | 18 |
-| 14 | [TRL242](https://github.com/TRL242) | Roy Lockhart |  |  | Victoria, BC and Freeport, Bahamas | 18 |
+| 13 | [TRL242](https://github.com/TRL242) | Roy Lockhart |  |  | Victoria, BC and Freeport, Bahamas | 19 |
+| 14 | [bryanherger](https://github.com/bryanherger) | Bryan Herger |  |  | South Shore of Nassau County, NY | 18 |
 | 15 | [BeachMannix](https://github.com/BeachMannix) | Mannix Lee |  | mmhammed10 | Bahamas | 17 |
 | 16 | [mroker242](https://github.com/mroker242) | Michael Roker | Cable Bahamas Ltd. |  | Nassau, Bahamas | 17 |
 | 17 | [aulbytj](https://github.com/aulbytj) | Aulbourn Knowles | Developer |  | Bahamas | 16 |

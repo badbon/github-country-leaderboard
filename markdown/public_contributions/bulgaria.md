@@ -1,6 +1,6 @@
 # Public Contributions - Bulgaria
 
-Generated: 2026-10-22T09:59:28.810Z
+Generated: 2026-10-22T14:03:55.479Z
 
 Users: 14066
 
@@ -23,6 +23,6 @@ Users: 14066
 | 15 | [ldilov](https://github.com/ldilov) | Lazar Dilov |  |  | Bulgaria, Sofia | 4123 |
 | 16 | [bobikenobi12](https://github.com/bobikenobi12) | Borislav Borisov | @alethialabs-io  @the-tovr |  | Sofia, Bulgaria | 4054 |
 | 17 | [DonKoko](https://github.com/DonKoko) | Nikolay Bonev | shelf.nu |  | Sofia, Bulgaria | 3949 |
-| 18 | [d4rkfella](https://github.com/d4rkfella) | Georgi Panov |  |  | Sofia, Bulgaria | 3448 |
+| 18 | [d4rkfella](https://github.com/d4rkfella) | Georgi Panov |  |  | Sofia, Bulgaria | 3437 |
 | 19 | [PetarKirov](https://github.com/PetarKirov) | Petar Kirov | @blocksense-network  |  | Sofia, Bulgaria | 3364 |
 | 20 | [IvanStoilov2](https://github.com/IvanStoilov2) | Ivan Stoilov |  |  | Bulgaria | 3349 |

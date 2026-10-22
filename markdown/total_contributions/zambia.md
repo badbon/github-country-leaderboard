@@ -1,13 +1,13 @@
 # Total Contributions - Zambia
 
-Generated: 2026-10-22T09:45:04.309Z
+Generated: 2026-10-22T13:49:42.058Z
 
 Users: 1336
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [Mwalek](https://github.com/Mwalek) | Mwale Kalenga | @Inpsyde-Global-Service-Provider  | mwale_and_sons | Lusaka, Zambia | 13662 |
-| 2 | [DamianoSilverhand](https://github.com/DamianoSilverhand) | Damiano Chintala | @Plus94-Research | damianochintala | Lusaka, Zambia | 12014 |
+| 2 | [DamianoSilverhand](https://github.com/DamianoSilverhand) | Damiano Chintala | @Plus94-Research | damianochintala | Lusaka, Zambia | 11933 |
 | 3 | [MwambaKaenga](https://github.com/MwambaKaenga) | Mwamba Kaenga | BANTUZI ENTERPRISES LIMITED | mwambaekaenga | Lusaka, Zambia | 11933 |
 | 4 | [CHAMA18](https://github.com/CHAMA18) | Chungu Chipimo Chama |  |  | Lusaka, Zambia | 11179 |
 | 5 | [thompsonmanda08](https://github.com/thompsonmanda08) | Thompson Manda | @Interwebb | thompsonmanda08 | Zambia | 9114 |
@@ -19,8 +19,8 @@ Users: 1336
 | 11 | [makayi](https://github.com/makayi) | Mbuyu  Makayi | @ChipperCash  | mbuyu_ | Zambia | 4289 |
 | 12 | [Acesulfame02](https://github.com/Acesulfame02) | Aaron Masembe |  |  | Lusaka, Lusaka, Zambia | 4281 |
 | 13 | [Jules369-ZM](https://github.com/Jules369-ZM) | JULIUS MARTIN BANDA | ProBase Limited |  | LUSAKA | 3919 |
-| 14 | [barthkapepula](https://github.com/barthkapepula) | Bartholomew Kapepula |  |  | Zambia | 3510 |
-| 15 | [brucetruth](https://github.com/brucetruth) | Bruce Truth | @broosaction  |  | Zambia | 3443 |
+| 14 | [brucetruth](https://github.com/brucetruth) | Bruce Truth | @broosaction  |  | Zambia | 3757 |
+| 15 | [barthkapepula](https://github.com/barthkapepula) | Bartholomew Kapepula |  |  | Zambia | 3510 |
 | 16 | [genthegreat](https://github.com/genthegreat) | Prince Kwesi | @AdsOnAds  | princekwesi7 | Zambia | 3436 |
 | 17 | [boniface](https://github.com/boniface) | Boniface Kabaso | Zambia |  | Lusaka, Zambia | 3391 |
 | 18 | [Geoffrey-Zulu](https://github.com/Geoffrey-Zulu) | Geoffrey Zulu |  |  | Lusaka, Zambia | 3333 |

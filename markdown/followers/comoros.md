@@ -1,6 +1,6 @@
 # Followers - Comoros
 
-Generated: 2026-10-22T10:03:22.131Z
+Generated: 2026-10-22T14:07:48.155Z
 
 Users: 11
 
@@ -14,6 +14,6 @@ Users: 11
 | 6 | [maanrouf](https://github.com/maanrouf) | Maanrouf |  |  | Comoros | 3 |
 | 7 | [slashedk](https://github.com/slashedk) | katchan |  |  | Comoros | 3 |
 | 8 | [Yssoufa](https://github.com/Yssoufa) | THABITI YSSOUFA | UNECA/UNIVERSITY OF COMOROS |  | Comoros | 3 |
-| 9 | [beastcoder98](https://github.com/beastcoder98) | Charif Abdallah Yahaya Charif |  | cha_02_2022 | Moroni  | 2 |
-| 10 | [SanyaKRY](https://github.com/SanyaKRY) | SanyaKRY | Little-Little |  | Comoros | 2 |
-| 11 | [yvssineyh269](https://github.com/yvssineyh269) | Yassine YH |  |  | Moroni, Comoros | 2 |
+| 9 | [SanyaKRY](https://github.com/SanyaKRY) | SanyaKRY | Little-Little |  | Comoros | 2 |
+| 10 | [yvssineyh269](https://github.com/yvssineyh269) | Yassine YH |  |  | Moroni, Comoros | 2 |
+| 11 | [beastcoder98](https://github.com/beastcoder98) | Charif Abdallah Yahaya Charif |  | cha_02_2022 | Moroni  | 1 |

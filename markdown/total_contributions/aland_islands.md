@@ -1,6 +1,6 @@
 # Total Contributions - Åland Islands
 
-Generated: 2026-10-22T09:47:20.426Z
+Generated: 2026-10-22T13:51:59.065Z
 
 Users: 61
 
@@ -10,9 +10,9 @@ Users: 61
 | 2 | [npunzalan](https://github.com/npunzalan) | Nico Punzalan |  |  | Mariehamn | 4068 |
 | 3 | [hkarlstrom](https://github.com/hkarlstrom) | Henrik Karlström |  |  | Åland Islands | 3814 |
 | 4 | [mathisen99](https://github.com/mathisen99) | Tommy Mathisen |  |  | Aland Islands | 3336 |
-| 5 | [olegamobile](https://github.com/olegamobile) | Oleg Balandin | Grit:lab |  | Mariehamn | 1724 |
+| 5 | [olegamobile](https://github.com/olegamobile) | Oleg Balandin | Grit:lab |  | Mariehamn | 1725 |
 | 6 | [MarkusYPA](https://github.com/MarkusYPA) | Markus Amberla |  |  | Mariehamn and Helsinki | 1461 |
-| 7 | [taneli-paf](https://github.com/taneli-paf) | Taneli Mäkihannu | @pafcloud |  | Mariehamn, Åland Islands | 1294 |
+| 7 | [taneli-paf](https://github.com/taneli-paf) | Taneli Mäkihannu | @pafcloud |  | Mariehamn, Åland Islands | 1336 |
 | 8 | [linusaarnio](https://github.com/linusaarnio) | Linus Aarnio | Datawrapper |  | Åland, Finland | 1251 |
 | 9 | [SaddamHosyn](https://github.com/SaddamHosyn) | Hussain Saddam |  |  | Mariehamn, Åland | 1022 |
 | 10 | [mareerray](https://github.com/mareerray) | Mayuree Reunsati |  |  | Mariehamn, Åland | 861 |
@@ -25,4 +25,4 @@ Users: 61
 | 17 | [GitHug](https://github.com/GitHug) | Fredrik Mäkilä | Takanoha |  | London / Mariehamn | 185 |
 | 18 | [ejmilli](https://github.com/ejmilli) | eliza john |  |  |  Åland Islands, Finland | 166 |
 | 19 | [BeornG](https://github.com/BeornG) | Björn Granholm |  |  | Mariehamn, Åland | 146 |
-| 20 | [borsokman](https://github.com/borsokman) | Sagyn |  |  | Mariehamn & Stockholm  | 141 |
+| 20 | [borsokman](https://github.com/borsokman) | Sagyn |  |  | Mariehamn & Stockholm  | 144 |

@@ -1,6 +1,6 @@
 # Total Contributions - Equatorial Guinea
 
-Generated: 2026-10-22T10:09:49.648Z
+Generated: 2026-10-22T14:15:20.184Z
 
 Users: 20
 
@@ -8,7 +8,7 @@ Users: 20
 |---:|---|---|---|---|---|---:|
 | 1 | [vicentehmba](https://github.com/vicentehmba) | VIcente Hugo Mba | Deftreach |  | Equatorial Guinea | 2821 |
 | 2 | [alexis-ngoyi](https://github.com/alexis-ngoyi) | Alexis Ngoyi M. | Qirah | alexisNgoyi | Guinee Equatoriale, Malabo | 319 |
-| 3 | [arongesono12](https://github.com/arongesono12) | Aron Esono Ondo Eyang | @SEGESA | aronesono | Malabo | 262 |
+| 3 | [arongesono12](https://github.com/arongesono12) | Aron Esono Ondo Eyang | @SEGESA | aronesono | Malabo | 263 |
 | 4 | [seamuddin](https://github.com/seamuddin) | Seam uddin | Rosa Money SL |  | Malabo, Equatorial guinea | 125 |
 | 5 | [barsie](https://github.com/barsie) | Sirineo Barila  |  |  | Equatorial Guinea  | 112 |
 | 6 | [Soniangomo](https://github.com/Soniangomo) | Sonia NGOMO | CFAO MOBILITY |  | MALABO- EQUATORIAL GUINEA | 27 |

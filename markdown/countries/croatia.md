@@ -13,8 +13,8 @@ Indexed users: 5,418
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [stepanic](https://github.com/stepanic) | Matija Stepanic | Zagreb, Croatia | 35,919 |
-| 2 | [tihomirjauk](https://github.com/tihomirjauk) | Tihomir Jauk | Zagreb, Croatia | 15,965 |
-| 3 | [NoSync](https://github.com/NoSync) | Alessio Re | Zagreb, Croatia | 14,523 |
+| 2 | [NoSync](https://github.com/NoSync) | Alessio Re | Zagreb, Croatia | 16,383 |
+| 3 | [tihomirjauk](https://github.com/tihomirjauk) | Tihomir Jauk | Zagreb, Croatia | 15,965 |
 | 4 | [dokicro](https://github.com/dokicro) | Domagoj Franc | Zagreb, Croatia | 13,637 |
 | 5 | [AleksandarDev](https://github.com/AleksandarDev) | Aleksandar Toplek | Zagreb, Croatia | 10,938 |
 | 6 | [nibzard](https://github.com/nibzard) | Nikola Balic | Split, Croatia | 10,662 |
@@ -83,4 +83,4 @@ Indexed users: 5,418
 | 19 | [loboris](https://github.com/loboris) | Boris Lovosevic | Zagreb, Croatia | 406 |
 | 20 | [nibzard](https://github.com/nibzard) | Nikola Balic | Split, Croatia | 364 |
 
-Generated: 2026-10-22T10:03:33.282Z
+Generated: 2026-10-22T14:09:16.513Z

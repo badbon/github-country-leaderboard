@@ -1,14 +1,14 @@
 # Total Contributions - Croatia
 
-Generated: 2026-10-22T10:03:33.282Z
+Generated: 2026-10-22T14:09:16.513Z
 
 Users: 5418
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [stepanic](https://github.com/stepanic) | Matija Stepanic | ITalk Ltd. |  | Zagreb, Croatia | 35919 |
-| 2 | [tihomirjauk](https://github.com/tihomirjauk) | Tihomir Jauk | @LumiVerseHR |  | Zagreb, Croatia | 15965 |
-| 3 | [NoSync](https://github.com/NoSync) | Alessio Re | @Klartika  |  | Zagreb, Croatia | 14523 |
+| 2 | [NoSync](https://github.com/NoSync) | Alessio Re | @Klartika  |  | Zagreb, Croatia | 16383 |
+| 3 | [tihomirjauk](https://github.com/tihomirjauk) | Tihomir Jauk | @LumiVerseHR |  | Zagreb, Croatia | 15965 |
 | 4 | [dokicro](https://github.com/dokicro) | Domagoj Franc | Upstream | DomagojFranc | Zagreb, Croatia | 13637 |
 | 5 | [AleksandarDev](https://github.com/AleksandarDev) | Aleksandar Toplek | https://enterwell.net | AleksandarDev | Zagreb, Croatia | 10938 |
 | 6 | [nibzard](https://github.com/nibzard) | Nikola Balic | @disequi | nibzard | Split, Croatia | 10662 |

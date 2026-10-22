@@ -1,6 +1,6 @@
 # Public Contributions - Åland Islands
 
-Generated: 2026-10-22T09:47:20.426Z
+Generated: 2026-10-22T13:51:59.065Z
 
 Users: 61
 
@@ -22,7 +22,7 @@ Users: 61
 | 14 | [giAddams](https://github.com/giAddams) | Geraldine Addamo |  |  | Mariehamn | 78 |
 | 15 | [mavka1207](https://github.com/mavka1207) | Kateryna Ovsiienko | Gritlab |  | Mariehamn | 72 |
 | 16 | [hkarlstrom](https://github.com/hkarlstrom) | Henrik Karlström |  |  | Åland Islands | 65 |
-| 17 | [ejmilli](https://github.com/ejmilli) | eliza john |  |  |  Åland Islands, Finland | 46 |
-| 18 | [johanwestling](https://github.com/johanwestling) | Johan Westling | @Aventyret |  | Åland, Finland | 46 |
-| 19 | [borsokman](https://github.com/borsokman) | Sagyn |  |  | Mariehamn & Stockholm  | 45 |
+| 17 | [borsokman](https://github.com/borsokman) | Sagyn |  |  | Mariehamn & Stockholm  | 48 |
+| 18 | [ejmilli](https://github.com/ejmilli) | eliza john |  |  |  Åland Islands, Finland | 46 |
+| 19 | [johanwestling](https://github.com/johanwestling) | Johan Westling | @Aventyret |  | Åland, Finland | 46 |
 | 20 | [tommybarden](https://github.com/tommybarden) |  |  |  | Åland Islands | 12 |

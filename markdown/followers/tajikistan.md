@@ -1,6 +1,6 @@
 # Followers - Tajikistan
 
-Generated: 2026-10-22T09:34:47.442Z
+Generated: 2026-10-22T13:40:50.644Z
 
 Users: 708
 

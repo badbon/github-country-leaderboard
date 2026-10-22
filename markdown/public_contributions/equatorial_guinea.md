@@ -1,12 +1,12 @@
 # Public Contributions - Equatorial Guinea
 
-Generated: 2026-10-22T10:09:49.648Z
+Generated: 2026-10-22T14:15:20.184Z
 
 Users: 20
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [arongesono12](https://github.com/arongesono12) | Aron Esono Ondo Eyang | @SEGESA | aronesono | Malabo | 262 |
+| 1 | [arongesono12](https://github.com/arongesono12) | Aron Esono Ondo Eyang | @SEGESA | aronesono | Malabo | 263 |
 | 2 | [barsie](https://github.com/barsie) | Sirineo Barila  |  |  | Equatorial Guinea  | 112 |
 | 3 | [alexis-ngoyi](https://github.com/alexis-ngoyi) | Alexis Ngoyi M. | Qirah | alexisNgoyi | Guinee Equatoriale, Malabo | 49 |
 | 4 | [vicentehmba](https://github.com/vicentehmba) | VIcente Hugo Mba | Deftreach |  | Equatorial Guinea | 38 |

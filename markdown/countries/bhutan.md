@@ -18,16 +18,16 @@ Indexed users: 266
 | 4 | [Kzoeps](https://github.com/Kzoeps) | Karma Zoepa Yoezer | Thimphu, Bhutan | 3,640 |
 | 5 | [teknatha136](https://github.com/teknatha136) | Tek Nath | Thimphu | 3,601 |
 | 6 | [jimbatshetrim](https://github.com/jimbatshetrim) | Jimba Tshetrim | Thimphu, Bhutan | 3,271 |
-| 7 | [ThuktenSingye](https://github.com/ThuktenSingye) | ThuktenSingye | Bhutan | 2,805 |
-| 8 | [PraMishra-s](https://github.com/PraMishra-s) | Pralad Mishra | Bhutan | 2,640 |
+| 7 | [ThuktenSingye](https://github.com/ThuktenSingye) | ThuktenSingye | Bhutan | 2,808 |
+| 8 | [PraMishra-s](https://github.com/PraMishra-s) | Pralad Mishra | Bhutan | 2,669 |
 | 9 | [sangayt1997](https://github.com/sangayt1997) | Sangay Thinley | Thimphu, Bhutan | 2,282 |
 | 10 | [Ugyenjigmerangdrel](https://github.com/Ugyenjigmerangdrel) | Ugyen Jigme Rangdrel | Bhutan | 2,268 |
 | 11 | [SonamWangchuk77jr](https://github.com/SonamWangchuk77jr) | Sonam Wangchuk | Thimphu | 2,191 |
 | 12 | [grey300](https://github.com/grey300) | Tshering Gyeltshen | Bhutan | 2,158 |
 | 13 | [bugloper](https://github.com/bugloper) | Nima Yonten | Thimphu Babesa | 2,050 |
 | 14 | [ugyentenzin1](https://github.com/ugyentenzin1) | Ugyen Tenzin  | Thiimphu, Bhutan | 2,047 |
-| 15 | [jigmeloday](https://github.com/jigmeloday) | Jigme Lodey | Thimphu Bhutan | 1,981 |
-| 16 | [namgaytobden](https://github.com/namgaytobden) | Namgay Tobden | Thimphu | 1,968 |
+| 15 | [namgaytobden](https://github.com/namgaytobden) | Namgay Tobden | Thimphu | 1,984 |
+| 16 | [jigmeloday](https://github.com/jigmeloday) | Jigme Lodey | Thimphu Bhutan | 1,981 |
 | 17 | [khandudo](https://github.com/khandudo) | Dorji Khandu | Thimphu, Bhutan | 1,852 |
 | 18 | [JigmePwangyel](https://github.com/JigmePwangyel) | Jigme Phuntsho Wangyel | Bhutan | 1,839 |
 | 19 | [sonamtaa](https://github.com/sonamtaa) | Sonam Tashi | Babesa, Thimphu | 1,782 |
@@ -83,4 +83,4 @@ Indexed users: 266
 | 19 | [TandinDev](https://github.com/TandinDev) | Tandin Tshewang | Thimphu | 23 |
 | 20 | [chimiWangchukWangdi](https://github.com/chimiWangchukWangdi) | Chimi Wangchuk Wangdi | Thimphu, Bhutan | 22 |
 
-Generated: 2026-10-22T09:55:43.880Z
+Generated: 2026-10-22T14:00:30.886Z

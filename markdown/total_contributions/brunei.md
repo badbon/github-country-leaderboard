@@ -1,6 +1,6 @@
 # Total Contributions - Brunei
 
-Generated: 2026-10-22T09:58:51.695Z
+Generated: 2026-10-22T14:03:52.175Z
 
 Users: 254
 
@@ -21,7 +21,7 @@ Users: 254
 | 13 | [nathanielcwm](https://github.com/nathanielcwm) | Nathaniel |  |  | Brunei | 587 |
 | 14 | [amirulmenjeni](https://github.com/amirulmenjeni) | Amirul Menjeni | Brunei Shell Petroleum |  | Brunei Darussalam | 539 |
 | 15 | [Qoyyuum](https://github.com/Qoyyuum) | Abdul Qoyyuum |  | Qoyyuum | Brunei Darussalam | 446 |
-| 16 | [MadHazz](https://github.com/MadHazz) | Ahmad Ghazali Bin Haji Hanipah | @Datastream-Digital  |  | Bandar Seri Begawan, Brunei Muara District, Negara Brunei Darussalam | 363 |
+| 16 | [MadHazz](https://github.com/MadHazz) | Ahmad Ghazali Bin Haji Hanipah | @Datastream-Digital  |  | Bandar Seri Begawan, Brunei Muara District, Negara Brunei Darussalam | 361 |
 | 17 | [bumplzz69](https://github.com/bumplzz69) | Eddie |  |  | Brunei | 337 |
 | 18 | [thewheat](https://github.com/thewheat) | Timothy Lim | @supabase |  | Brunei | 256 |
 | 19 | [hfzizz](https://github.com/hfzizz) | Hafiz Izzuddin |  |  | Brunei | 246 |

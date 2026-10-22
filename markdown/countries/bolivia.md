@@ -54,7 +54,7 @@ Indexed users: 1,783
 | 15 | [asosab](https://github.com/asosab) | Alejandro Sosa Briceño | Bolivia | 1,231 |
 | 16 | [alphaonex86](https://github.com/alphaonex86) | BRULE Herman Jacques Roger | Santa cruz de la sierra, Bolivia | 1,214 |
 | 17 | [jhersON1](https://github.com/jhersON1) | Jherson Rodriguez | Bolivia | 1,212 |
-| 18 | [Lotiel-Dev](https://github.com/Lotiel-Dev) | Carlos Antonio Gutierrez Copara | Bolivia | 1,193 |
+| 18 | [Lotiel-Dev](https://github.com/Lotiel-Dev) | Carlos Antonio Gutierrez Copara | Bolivia | 1,184 |
 | 19 | [igidio](https://github.com/igidio) | Salvador Cáceres C. | Bolivia | 1,147 |
 | 20 | [nicobytes](https://github.com/nicobytes) | Nicolas Molina Monroy | Cochabamba, Bolivia | 1,096 |
 
@@ -74,7 +74,7 @@ Indexed users: 1,783
 | 10 | [Pericena](https://github.com/Pericena) | Luishiño | Bolivia, Santa Cruz | 198 |
 | 11 | [rivera-ernesto](https://github.com/rivera-ernesto) | Ernesto Rivera | La Paz, Bolivia | 188 |
 | 12 | [mariocesar](https://github.com/mariocesar) | Mario-César | Santa Cruz de la Sierra, Bolivia | 178 |
-| 13 | [Lotiel-Dev](https://github.com/Lotiel-Dev) | Carlos Antonio Gutierrez Copara | Bolivia | 170 |
+| 13 | [Lotiel-Dev](https://github.com/Lotiel-Dev) | Carlos Antonio Gutierrez Copara | Bolivia | 171 |
 | 14 | [vitiko98](https://github.com/vitiko98) | Vitiko | Bolivia | 149 |
 | 15 | [luucamay](https://github.com/luucamay) | luucamay | La Paz, Bolivia | 146 |
 | 16 | [AndyIbanez](https://github.com/AndyIbanez) | Andy Ibanez | Bolivia | 138 |
@@ -83,4 +83,4 @@ Indexed users: 1,783
 | 19 | [alvarosiles11](https://github.com/alvarosiles11) | Alvaro Siles Estrada | Bolivia | 121 |
 | 20 | [mauforonda](https://github.com/mauforonda) | Mau Foronda | Bolivia | 119 |
 
-Generated: 2026-10-22T09:56:06.129Z
+Generated: 2026-10-22T14:01:50.063Z

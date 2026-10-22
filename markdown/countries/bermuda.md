@@ -44,7 +44,7 @@ Indexed users: 898
 | 5 | [wesbos](https://github.com/wesbos) | Wes Bos | Hamilton, Ontario | 1,477 |
 | 6 | [Justype](https://github.com/Justype) | Cheng | Hamilton | 1,414 |
 | 7 | [kevinAlbs](https://github.com/kevinAlbs) | Kevin Albertson | Hamilton, NJ | 1,400 |
-| 8 | [tridibbanik17](https://github.com/tridibbanik17) | Tridib Banik | Hamilton, ON | 1,266 |
+| 8 | [tridibbanik17](https://github.com/tridibbanik17) | Tridib Banik | Hamilton, ON | 1,264 |
 | 9 | [grantlucas](https://github.com/grantlucas) | Grant Lucas | Hamilton, Ontario | 1,256 |
 | 10 | [danielmiguel02](https://github.com/danielmiguel02) | Daniel Miguel | Hamilton - ON | 1,005 |
 | 11 | [kadgitub7](https://github.com/kadgitub7) | Kadhir Ponnambalam | Hamilton Ontario | 898 |
@@ -65,7 +65,7 @@ Indexed users: 898
 | 1 | [wesbos](https://github.com/wesbos) | Wes Bos | Hamilton, Ontario | 36,102 |
 | 2 | [bbolker](https://github.com/bbolker) | Ben Bolker | Hamilton, Ontario | 927 |
 | 3 | [augustoproiete](https://github.com/augustoproiete) | Augusto Proiete | Bermuda | 331 |
-| 4 | [yaasuhiro](https://github.com/yaasuhiro) | naka | danganronpa, hamilton, & cod areas.  ₊˚⊹ᰔ ask4insp ˖⁺‧₊˚✦  c+h heavily enc. ♡ im always offtab, pls w2i!! ಇ. dnc skins ꉂ(˵˃ ᗜ ˂˵)  | 275 |
+| 4 | [yaasuhiro](https://github.com/yaasuhiro) | naka | danganronpa, hamilton, & cod areas.  ₊˚⊹ᰔ ask4insp ˖⁺‧₊˚✦  c+h heavily enc. ♡ im always offtab, pls w2i!! ಇ. dnc skins ꉂ(˵˃ ᗜ ˂˵)  | 277 |
 | 5 | [TOTBWF](https://github.com/TOTBWF) | Reed Mullanix | Hamilton, ON | 225 |
 | 6 | [drewminns](https://github.com/drewminns) | Drew Minns | Hamilton | 219 |
 | 7 | [DesktopECHO](https://github.com/DesktopECHO) |  | Hamilton, Bermuda | 206 |
@@ -83,4 +83,4 @@ Indexed users: 898
 | 19 | [feilongcheng](https://github.com/feilongcheng) | Felix | Hamilton, NZ | 85 |
 | 20 | [wittjosiah](https://github.com/wittjosiah) | Josiah Witt | Hamilton, ON | 67 |
 
-Generated: 2026-10-22T09:55:06.638Z
+Generated: 2026-10-22T14:00:22.783Z

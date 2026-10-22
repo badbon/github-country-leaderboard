@@ -13,7 +13,7 @@ Indexed users: 1,336
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [Mwalek](https://github.com/Mwalek) | Mwale Kalenga | Lusaka, Zambia | 13,662 |
-| 2 | [DamianoSilverhand](https://github.com/DamianoSilverhand) | Damiano Chintala | Lusaka, Zambia | 12,014 |
+| 2 | [DamianoSilverhand](https://github.com/DamianoSilverhand) | Damiano Chintala | Lusaka, Zambia | 11,933 |
 | 3 | [MwambaKaenga](https://github.com/MwambaKaenga) | Mwamba Kaenga | Lusaka, Zambia | 11,933 |
 | 4 | [CHAMA18](https://github.com/CHAMA18) | Chungu Chipimo Chama | Lusaka, Zambia | 11,179 |
 | 5 | [thompsonmanda08](https://github.com/thompsonmanda08) | Thompson Manda | Zambia | 9,114 |
@@ -25,8 +25,8 @@ Indexed users: 1,336
 | 11 | [makayi](https://github.com/makayi) | Mbuyu  Makayi | Zambia | 4,289 |
 | 12 | [Acesulfame02](https://github.com/Acesulfame02) | Aaron Masembe | Lusaka, Lusaka, Zambia | 4,281 |
 | 13 | [Jules369-ZM](https://github.com/Jules369-ZM) | JULIUS MARTIN BANDA | LUSAKA | 3,919 |
-| 14 | [barthkapepula](https://github.com/barthkapepula) | Bartholomew Kapepula | Zambia | 3,510 |
-| 15 | [brucetruth](https://github.com/brucetruth) | Bruce Truth | Zambia | 3,443 |
+| 14 | [brucetruth](https://github.com/brucetruth) | Bruce Truth | Zambia | 3,757 |
+| 15 | [barthkapepula](https://github.com/barthkapepula) | Bartholomew Kapepula | Zambia | 3,510 |
 | 16 | [genthegreat](https://github.com/genthegreat) | Prince Kwesi | Zambia | 3,436 |
 | 17 | [boniface](https://github.com/boniface) | Boniface Kabaso | Lusaka, Zambia | 3,391 |
 | 18 | [Geoffrey-Zulu](https://github.com/Geoffrey-Zulu) | Geoffrey Zulu | Lusaka, Zambia | 3,333 |
@@ -83,4 +83,4 @@ Indexed users: 1,336
 | 19 | [Eathorne2](https://github.com/Eathorne2) | Eathorne | Lusaka, Zambia | 103 |
 | 20 | [kshula](https://github.com/kshula) | Kampamba Shula | Lusaka | 101 |
 
-Generated: 2026-10-22T09:45:04.309Z
+Generated: 2026-10-22T13:49:42.058Z

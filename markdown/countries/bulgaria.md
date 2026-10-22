@@ -54,7 +54,7 @@ Indexed users: 14,066
 | 15 | [ldilov](https://github.com/ldilov) | Lazar Dilov | Bulgaria, Sofia | 4,123 |
 | 16 | [bobikenobi12](https://github.com/bobikenobi12) | Borislav Borisov | Sofia, Bulgaria | 4,054 |
 | 17 | [DonKoko](https://github.com/DonKoko) | Nikolay Bonev | Sofia, Bulgaria | 3,949 |
-| 18 | [d4rkfella](https://github.com/d4rkfella) | Georgi Panov | Sofia, Bulgaria | 3,448 |
+| 18 | [d4rkfella](https://github.com/d4rkfella) | Georgi Panov | Sofia, Bulgaria | 3,437 |
 | 19 | [PetarKirov](https://github.com/PetarKirov) | Petar Kirov | Sofia, Bulgaria | 3,364 |
 | 20 | [IvanStoilov2](https://github.com/IvanStoilov2) | Ivan Stoilov | Bulgaria | 3,349 |
 
@@ -83,4 +83,4 @@ Indexed users: 14,066
 | 19 | [RadoRado](https://github.com/RadoRado) | Radoslav Georgiev | Sofia | 631 |
 | 20 | [narfbg](https://github.com/narfbg) | Andrey Andreev | Bulgaria | 601 |
 
-Generated: 2026-10-22T09:59:28.810Z
+Generated: 2026-10-22T14:03:55.479Z

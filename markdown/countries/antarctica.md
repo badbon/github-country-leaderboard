@@ -13,7 +13,7 @@ Indexed users: 460
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [lukeanthony007](https://github.com/lukeanthony007) | Lucas | Antarctica | 6,744 |
-| 2 | [shreeshiv](https://github.com/shreeshiv) | Shreeshiv Patel | Antarctica | 6,362 |
+| 2 | [shreeshiv](https://github.com/shreeshiv) | Shreeshiv Patel | Antarctica | 6,404 |
 | 3 | [adwait1290](https://github.com/adwait1290) | Adwait Athale | Antarctica | 6,032 |
 | 4 | [JohnChristianD](https://github.com/JohnChristianD) | John Christian Domingo | Antarctica | 5,534 |
 | 5 | [morgaesis](https://github.com/morgaesis) | Mörgæsis | Antarctica | 5,419 |
@@ -31,7 +31,7 @@ Indexed users: 460
 | 17 | [echo108471](https://github.com/echo108471) | Eugene Cho | Antarctica | 2,723 |
 | 18 | [shangyian](https://github.com/shangyian) | Yian | Antarctica | 2,597 |
 | 19 | [oagix](https://github.com/oagix) | AGENT | Antarctica | 2,409 |
-| 20 | [PenguinNexus](https://github.com/PenguinNexus) | Penguin | Antarctica | 1,755 |
+| 20 | [PenguinNexus](https://github.com/PenguinNexus) | Penguin | Antarctica | 1,759 |
 
 ## Public Contributions
 
@@ -78,9 +78,9 @@ Indexed users: 460
 | 14 | [ethicnology](https://github.com/ethicnology) | Azad | Antarctica | 105 |
 | 15 | [piplup7575](https://github.com/piplup7575) | pipl | antarctica | 91 |
 | 16 | [crse](https://github.com/crse) |  | Antarctica | 90 |
-| 17 | [pkasila](https://github.com/pkasila) | Pavel Kasila | Antarctica | 88 |
+| 17 | [pkasila](https://github.com/pkasila) | Pavel Kasila | Antarctica | 89 |
 | 18 | [r4sas](https://github.com/r4sas) | R4SAS | Vostok Station, Antarctica | 88 |
 | 19 | [alphaaurigae](https://github.com/alphaaurigae) | Marian Brockerhoff | Antarctica | 85 |
 | 20 | [fakeid30](https://github.com/fakeid30) | Fake ID | Antarctica | 78 |
 
-Generated: 2026-10-22T09:50:14.758Z
+Generated: 2026-10-22T13:53:29.295Z

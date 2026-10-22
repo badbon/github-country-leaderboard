@@ -23,7 +23,7 @@ Indexed users: 708
 | 9 | [sr-44](https://github.com/sr-44) | Shahrom | Tajikistan, Dushanbe | 6,407 |
 | 10 | [Aiyom](https://github.com/Aiyom) |  | Tajikistan | 4,443 |
 | 11 | [shahromako](https://github.com/shahromako) | Shahrom Kurbonov | Tajikistan, Dushanbe | 3,786 |
-| 12 | [sultonzoda2011](https://github.com/sultonzoda2011) | Sultonzoda Abdulloh | Dushanbe | 3,626 |
+| 12 | [sultonzoda2011](https://github.com/sultonzoda2011) | Sultonzoda Abdulloh | Dushanbe | 3,633 |
 | 13 | [dev-muhammad](https://github.com/dev-muhammad) | Muhammad Abdugafarov  | Tajikistan | 3,532 |
 | 14 | [D1lsh0D](https://github.com/D1lsh0D) | Dilshod Hojiboev | Khujand, Tajikistan | 3,210 |
 | 15 | [Rahmonali](https://github.com/Rahmonali) | Rahmonali | Dushanbe, Tajikistan | 3,191 |
@@ -37,7 +37,7 @@ Indexed users: 708
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [sultonzoda2011](https://github.com/sultonzoda2011) | Sultonzoda Abdulloh | Dushanbe | 2,370 |
+| 1 | [sultonzoda2011](https://github.com/sultonzoda2011) | Sultonzoda Abdulloh | Dushanbe | 2,377 |
 | 2 | [meetmeonlinefree](https://github.com/meetmeonlinefree) | Nekruz | Tajikistan | 2,061 |
 | 3 | [MUHAMMADAMIN100](https://github.com/MUHAMMADAMIN100) | Muhammadamin | Tajikistan,Dushanbe | 1,632 |
 | 4 | [beginwebdev2002](https://github.com/beginwebdev2002) | Jamoliddin | Dushanbe Tajikistan | 1,374 |
@@ -56,7 +56,7 @@ Indexed users: 708
 | 17 | [Roma-723](https://github.com/Roma-723) | Yusufjon | Dushanbe | 476 |
 | 18 | [llcsanjar](https://github.com/llcsanjar) | Sanjar | Tajikistan | 443 |
 | 19 | [rustamovy9](https://github.com/rustamovy9) |  | Dushanbe,Tajikistan | 428 |
-| 20 | [BakhtiyorSharipov](https://github.com/BakhtiyorSharipov) | Bakhtiyor | Tajikistan | 416 |
+| 20 | [podshoevbunyod16-sketch](https://github.com/podshoevbunyod16-sketch) | Bunyod | Tajikistan  | 426 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 708
 | 19 | [11bit](https://github.com/11bit) | Ivan Buryak | Dushanbe | 49 |
 | 20 | [Abdughafur](https://github.com/Abdughafur) | Abdughafur Khujzoda | Tajikistan | 48 |
 
-Generated: 2026-10-22T09:34:47.442Z
+Generated: 2026-10-22T13:40:50.644Z

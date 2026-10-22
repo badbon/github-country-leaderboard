@@ -52,8 +52,8 @@ Indexed users: 11
 | 6 | [maanrouf](https://github.com/maanrouf) | Maanrouf | Comoros | 3 |
 | 7 | [slashedk](https://github.com/slashedk) | katchan | Comoros | 3 |
 | 8 | [Yssoufa](https://github.com/Yssoufa) | THABITI YSSOUFA | Comoros | 3 |
-| 9 | [beastcoder98](https://github.com/beastcoder98) | Charif Abdallah Yahaya Charif | Moroni  | 2 |
-| 10 | [SanyaKRY](https://github.com/SanyaKRY) | SanyaKRY | Comoros | 2 |
-| 11 | [yvssineyh269](https://github.com/yvssineyh269) | Yassine YH | Moroni, Comoros | 2 |
+| 9 | [SanyaKRY](https://github.com/SanyaKRY) | SanyaKRY | Comoros | 2 |
+| 10 | [yvssineyh269](https://github.com/yvssineyh269) | Yassine YH | Moroni, Comoros | 2 |
+| 11 | [beastcoder98](https://github.com/beastcoder98) | Charif Abdallah Yahaya Charif | Moroni  | 1 |
 
-Generated: 2026-10-22T10:03:22.131Z
+Generated: 2026-10-22T14:07:48.155Z

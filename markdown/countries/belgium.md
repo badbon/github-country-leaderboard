@@ -1,6 +1,6 @@
 # Belgium
 
-Indexed users: 18,373
+Indexed users: 18,372
 
 | Leaderboard | Link |
 |---|---|
@@ -48,11 +48,11 @@ Indexed users: 18,373
 | 9 | [renaudallard](https://github.com/renaudallard) | Renaud Allard | Belgium | 9,586 |
 | 10 | [matttbe](https://github.com/matttbe) | Matthieu Baerts | Belgium | 9,298 |
 | 11 | [jfmeyers](https://github.com/jfmeyers) | JF | Belgium | 8,792 |
-| 12 | [charphi](https://github.com/charphi) | Philippe Charles | Belgium | 8,438 |
-| 13 | [WouterGlorieux](https://github.com/WouterGlorieux) | Wouter Glorieux | Ghent, Belgium | 8,076 |
-| 14 | [brendt](https://github.com/brendt) | Brent Roose | Belgium | 7,628 |
-| 15 | [EloiStree](https://github.com/EloiStree) | Éloi Strée | Belgium | 7,287 |
-| 16 | [duggytuxy](https://github.com/duggytuxy) | 🔐Laurent M🔐 | Brussels, Belgium | 7,238 |
+| 12 | [duggytuxy](https://github.com/duggytuxy) | Laurent Minne | Brussels, Belgium | 8,601 |
+| 13 | [charphi](https://github.com/charphi) | Philippe Charles | Belgium | 8,438 |
+| 14 | [WouterGlorieux](https://github.com/WouterGlorieux) | Wouter Glorieux | Ghent, Belgium | 8,076 |
+| 15 | [brendt](https://github.com/brendt) | Brent Roose | Belgium | 7,628 |
+| 16 | [EloiStree](https://github.com/EloiStree) | Éloi Strée | Belgium | 7,287 |
 | 17 | [Laoujin](https://github.com/Laoujin) | Wouter Van Schandevijl | Belgium | 7,219 |
 | 18 | [pmcp](https://github.com/pmcp) | Maarten Lauwaert | Brussels | 7,075 |
 | 19 | [sethogieva](https://github.com/sethogieva) | Seth Ogieva | Raleigh & Brussels | 6,997 |
@@ -83,4 +83,4 @@ Indexed users: 18,373
 | 19 | [erikdubois](https://github.com/erikdubois) | Erik Dubois | Belgium | 1,200 |
 | 20 | [hazexone](https://github.com/hazexone) | Haze | Brussels | 1,181 |
 
-Generated: 2026-10-22T09:54:19.541Z
+Generated: 2026-10-22T13:58:54.094Z

@@ -41,7 +41,7 @@ Indexed users: 2,499
 | 2 | [makeneto](https://github.com/makeneto) | Makene Neto | Luanda, Angola | 3,881 |
 | 3 | [Zebedeu](https://github.com/Zebedeu) | Marcio Zebedeu | Angola | 2,908 |
 | 4 | [NdondaDaniel2020](https://github.com/NdondaDaniel2020) | Ndonda Daniel | Luanda | 2,614 |
-| 5 | [FranciscoDala](https://github.com/FranciscoDala) | Francisco Dala | Angola, Luanda | 2,301 |
+| 5 | [FranciscoDala](https://github.com/FranciscoDala) | Francisco Dala | Angola, Luanda | 2,365 |
 | 6 | [alberto-rj](https://github.com/alberto-rj) | Alberto José |  Luanda, Angola | 2,265 |
 | 7 | [skillmio](https://github.com/skillmio) | Skillmio | Angola | 2,160 |
 | 8 | [Enock200558](https://github.com/Enock200558) | Enoque Bumba Cando  | Angola 🇦🇴 | 2,126 |
@@ -83,4 +83,4 @@ Indexed users: 2,499
 | 19 | [manuelernesto](https://github.com/manuelernesto) | Manuel Ernesto | Angola | 166 |
 | 20 | [AfonsoAfony](https://github.com/AfonsoAfony) | Afonso Narciso Da Silva | Luanda/Angola | 157 |
 
-Generated: 2026-10-22T09:49:29.950Z
+Generated: 2026-10-22T13:53:20.415Z
